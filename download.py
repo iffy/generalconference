@@ -29,26 +29,32 @@ def mergeYAML(fp, data):
         merged_data = existing_data
     writeIfDifferent(fp, yaml.safe_dump(merged_data, default_flow_style=False))
 
-cache_dir = FilePath('.cache')
 
-def getURL(url):
-    """
-    Fetch a web page either from the local cache or else
-    from the Internet.
-    """
-    global cache_dir
-    if not cache_dir.exists():
-        cache_dir.makedirs()
-    cache_key = hashlib.sha1(url).hexdigest()
-    cache_file = cache_dir.child(cache_key)
-    if not cache_file.exists():
-        log('GET', url)
-        r = requests.get(url)
-        cache_file.setContent(r.content)
-        cache_file.chmod(0664)
-    else:
-        log('[CACHE] GET', url)
-    return cache_file.getContent()
+class CachingDownloader(object):
+
+    cache_dir = FilePath('.cache')
+
+    def getURL(self, url):
+        """
+        Fetch a web page either from the local cache or else
+        from the Internet.
+        """
+        global cache_dir
+        if not self.cache_dir.exists():
+            self.cache_dir.makedirs()
+        cache_key = hashlib.sha1(url).hexdigest()
+        cache_file = self.cache_dir.child(cache_key)
+        if not cache_file.exists():
+            log('GET', url)
+            r = requests.get(url)
+            cache_file.setContent(r.content)
+            cache_file.chmod(0664)
+        else:
+            log('[CACHE] GET', url)
+        return cache_file.getContent()
+
+downloader = CachingDownloader()
+getURL = downloader.getURL
 
 
 def conferenceURL(year, month, lang):
@@ -269,7 +275,7 @@ if __name__ == '__main__':
     if args.quiet:
         log = lambda *a:None ; # NOQA
 
-    cache_dir = args.cache_dir
+    downloader.cache_dir = args.cache_dir
 
     if args.list_langs:
         for code, name in listLanguages(args.year, args.month):
