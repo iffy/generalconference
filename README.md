@@ -4,7 +4,7 @@ I made this because I often want to do programmatic things with the talks, and d
 
 ## Usage ##
 
-Until I research copyrights, the text reside in this repo, but you can easily get the text as follows.  First, clone this repo, then:
+Until I research copyrights, the text will not reside in this repo, but you can easily get the text as follows.  First, clone this repo, then:
 
     pip install -r requirements.txt
     python download.py --help
