@@ -160,8 +160,9 @@ def extractTalkAsMarkdown(html, metadata):
             elem.getparent().remove(elem)
 
     # Remove the blockquote
-    kicker = primary.xpath('.//blockquote[@class="intro dontHighlight"]')[0]
-    kicker.getparent().remove(kicker)
+    kicker = primary.xpath('.//blockquote[@class="intro dontHighlight"]')
+    for k in kicker:
+        k.getparent().remove(k)
 
     # remove no-link-style links
     for link in primary.xpath('.//a[@class="no-link-style"]'):
