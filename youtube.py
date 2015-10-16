@@ -53,5 +53,3 @@ if __name__ == '__main__':
                 break
         if item.get('youtube'):
             mergeYAML(conf_dir.child(item['key']).child('metadata.yml'), item)
-
-    mergeYAML(conf_dir.child('index.yml'), conf_index)
