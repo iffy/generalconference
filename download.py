@@ -51,6 +51,12 @@ def getURL(url):
     return cache_file.getContent()
 
 
+def conferenceURL(year, month, lang):
+    root = 'https://www.lds.org/general-conference/sessions'
+    url = '{root}/{year}/{month:02d}?lang={lang}'.format(**locals())
+    return url
+
+
 def makeCounter():
     i = 0
     while True:
@@ -61,8 +67,7 @@ def getTalkURLs(data_dir, year, month, lang):
     """
     Return a generator of talk metadata available from the index.
     """
-    root = 'https://www.lds.org/general-conference/sessions'
-    url = '{root}/{year}/{month:02d}?lang={lang}'.format(**locals())
+    url = conferenceURL(year, month, lang)
     html = getURL(url)
 
     parsed = soupparser.fromstring(html)
@@ -210,6 +215,17 @@ def extractTalkAsMarkdown(html, metadata):
     return markdown
 
 
+def listLanguages(year, month):
+    url = conferenceURL(year, month, 'eng')
+    html = getURL(url)
+    parsed = soupparser.fromstring(html)
+    for option in parsed.xpath('//div[@id="clang-selector"]/select/option'):
+        value = option.attrib['value']
+        if not value:
+            continue
+        code = value[-3:] # how stable do think this magic number will be? :)
+        yield code, option.text
+
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()
 
@@ -233,6 +249,11 @@ if __name__ == '__main__':
              ' or lang value in the URL of lds.org for the language'
              ' you want.  Default: %(default)s')
 
+    ap.add_argument('--list-langs',
+        action='store_true',
+        help='Instead of download stuff, just list the available languages'
+             ' for this conference.')
+
     ap.add_argument('year', type=int,
         help="Year of the conference (e.g. 2015)")
     ap.add_argument('month', type=int,
@@ -245,8 +266,12 @@ if __name__ == '__main__':
 
     cache_dir = args.cache_dir
 
-    if not args.data_dir.exists():
-        args.data_dir.makedirs()
+    if args.list_langs:
+        for code, name in listLanguages(args.year, args.month):
+            print code, name
+    else:
+        if not args.data_dir.exists():
+            args.data_dir.makedirs()
 
-    getSingleConference(args.data_dir, args.year, args.month,
+        getSingleConference(args.data_dir, args.year, args.month,
         args.lang)
