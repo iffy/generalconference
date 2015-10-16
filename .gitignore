@@ -1,3 +1,7 @@
 .cache
 _trial_temp/
 *.pyc
+
+# Until I research the copyright, I'm not going to include the
+# text of the talks.
+data/*/*/*/text.md

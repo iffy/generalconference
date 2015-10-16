@@ -5,6 +5,7 @@ import requests
 import hashlib
 import sys
 import yaml
+import copy
 from urlparse import urlparse
 from filepath import FilePath
 from lxml import etree
@@ -19,6 +20,14 @@ def writeIfDifferent(fp, content):
         fp.setContent(content)
         fp.chmod(0664)
         log('wrote {path} ({size} bytes)'.format(size=len(content), path=fp.path))
+
+def mergeYAML(fp, data):
+    merged_data = copy.deepcopy(data)
+    if fp.exists():
+        existing_data = yaml.safe_load(fp.open('rb'))
+        existing_data.update(merged_data)
+        merged_data = existing_data
+    writeIfDifferent(fp, yaml.safe_dump(merged_data, default_flow_style=False))
 
 cache_dir = FilePath('.cache')
 
@@ -110,9 +119,17 @@ def getSingleConference(data_dir, year, month, lang):
     for meta in talk_urls:
         index.append(meta)
         html = getURL(meta['url'])
-        extracted_html = extractTalkAsMarkdown(html, meta)
+        
         fp = conf_path.child(meta['key'])
-        writeIfDifferent(fp, extracted_html)
+        if not fp.exists():
+            fp.makedirs()
+
+        # text.md
+        markdown = extractTalkAsMarkdown(html, meta)
+        writeIfDifferent(fp.child('text.md'), markdown)
+
+        # metadata.yml
+        mergeYAML(fp.child('metadata.yml'), meta)
 
     index_file = conf_path.child('index.yml')
     index_data = {
@@ -157,7 +174,6 @@ def extractTalkAsMarkdown(html, metadata):
         label = li.xpath('.//span[@class="label"]')[0]
         label.text = ''
         label.drop_tag()
-        #label.getparent().remove(label)
         for anchor in li.xpath('.//a[@name]'):
             anchor.getparent().remove(anchor)
 
@@ -192,9 +208,9 @@ def extractTalkAsMarkdown(html, metadata):
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()
 
-    ap.add_argument('--verbose', '-v',
+    ap.add_argument('--quiet', '-q',
         action='store_true',
-        help='If supplied, verbose information will be printed out')
+        help='If supplied, logging information will be suppressed.')
     ap.add_argument('--cache-dir', '-c',
         default='.cache',
         type=FilePath,
@@ -210,7 +226,7 @@ if __name__ == '__main__':
         help='Language to fetch. Currently, only English is tested'
              ' but other languages might work, too.  Use the clang'
              ' or lang value in the URL of lds.org for the language'
-             ' you want.')
+             ' you want.  Default: %(default)s')
 
     ap.add_argument('year', type=int,
         help="Year of the conference (e.g. 2015)")
@@ -219,14 +235,13 @@ if __name__ == '__main__':
 
     args = ap.parse_args()
 
-    if not args.verbose:
-        log = lambda *a:None
+    if args.quiet:
+        log = lambda *a:None ; # NOQA
 
     cache_dir = args.cache_dir
 
     if not args.data_dir.exists():
         args.data_dir.makedirs()
 
-    result = getSingleConference(args.data_dir, args.year, args.month,
+    getSingleConference(args.data_dir, args.year, args.month,
         args.lang)
-    print result
