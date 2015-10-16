@@ -104,6 +104,8 @@ def getTalkURLs(data_dir, year, month, lang):
                     'title': talk.text,
                     'slug': slug,
                     'key': file_slug,
+                    'year': int(year),
+                    'month': int(month),
                 }
 
 
@@ -133,6 +135,8 @@ def getSingleConference(data_dir, year, month, lang):
 
     index_file = conf_path.child('index.yml')
     index_data = {
+        'year': year,
+        'month': int(month),
         'items': index,
     }
     writeIfDifferent(index_file,
