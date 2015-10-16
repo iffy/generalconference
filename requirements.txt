@@ -1,5 +1,6 @@
 BeautifulSoup==3.2.1
 filepath==0.1
+html2text==2015.6.21
 lxml==3.4.4
 PyYAML==3.11
 requests==2.8.1

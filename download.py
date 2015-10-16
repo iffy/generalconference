@@ -1,16 +1,14 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import argparse
 import requests
 import hashlib
 import sys
 import yaml
-import re
-from collections import deque
 from urlparse import urlparse
 from filepath import FilePath
 from lxml import etree
 from lxml.html import soupparser
-from HTMLParser import HTMLParser
 
 def log(*args):
     sys.stderr.write(' '.join(map(unicode, args)) + '\n')
@@ -133,66 +131,63 @@ def extractTalkAsMarkdown(html, metadata):
     metadata['article_id'] = primary.get_element_by_id('article-id').text
 
     todelete = [
-        '//div[@class="kicker"]',
         '//div[@id="video-player"]',
         '//div[@id="audio-player"]',
         '//span[@id="article-id"]',
+        '//li[@class="prev"]',
+        '//li[@class="next"]',
     ]
     for x in todelete:
         elems = primary.xpath(x)
         for elem in elems:
             elem.getparent().remove(elem)
+
+    # Remove the blockquote
+    kicker = primary.xpath('.//blockquote[@class="intro dontHighlight"]')[0]
+    kicker.getparent().remove(kicker)
+
+    # remove no-link-style links
+    for link in primary.xpath('.//a[@class="no-link-style"]'):
+        link.drop_tag()
+
+    # fix lists
+    list_items = primary.xpath('.//ul[@class="bullet"]/li')
+    list_items += primary.xpath('.//ol/li')
+    for li in list_items:
+        label = li.xpath('.//span[@class="label"]')[0]
+        label.text = ''
+        label.drop_tag()
+        #label.getparent().remove(label)
+        for anchor in li.xpath('.//a[@name]'):
+            anchor.getparent().remove(anchor)
+
+    # replace citations
+    for citation in primary.xpath('.//sup[@class="noteMarker"]/a'):
+        citation.text = '[' + citation.text + ']'
+        citation.drop_tag()
     
     import html2text
     h = html2text.HTML2Text()
     h.ignore_images = True
     h.reference_links = True
-    #h.skip_internal_links = False
     markdown = h.handle(etree.tostring(primary))
-    if isinstance(markdown, unicode):
-        markdown = markdown.encode('utf-8')
+    markdown = markdown.encode('utf-8')
+
+    # replace some common fancy chars and other things
+    replacements = {
+        u'…'.encode('utf-8'): '...',
+        '\xc2\xa0': ' ',
+        '#### Show References': '## References',
+    }
+    for k,v in replacements.items():
+        markdown = markdown.replace(k, v)
+
+    # get main title
+    title = primary.xpath('//h1')[0].text.strip()
+    markdown = '# ' + title.encode('utf-8') + '\n\n' + markdown
+
     return markdown
 
-
-class TalkParser(HTMLParser):
-
-    def __init__(self):
-        HTMLParser.__init__(self)
-        self.ignore_depth = None
-        self.stack = deque()
-        self.normalized = ''
-
-    def startIgnoring(self):
-        if self.ignore_depth is None:
-            self.ignore_depth = len(self.stack)
-
-    def stopIgnoring(self):
-        self.ignore_depth = None
-
-    def handle_starttag(self, tag, attrs):
-        print 'start', tag, attrs
-        d = dict(attrs)
-        self.stack.append(tag)
-
-        if d.get('id') in ('audio-player', 'video-player'):
-            self.startIgnoring()
-
-        if self.ignore_depth:
-            print 'IGNORING'
-            return
-
-    def handle_endtag(self, tag):
-        print 'end', tag
-        self.stack.pop()
-
-        if self.ignore_depth is not None and len(self.stack) < self.ignore_depth:
-            self.stopIgnoring()
-
-    def handle_data(self, data):
-        print 'data'
-        if self.ignore_depth:
-            print 'IGNORING'
-            return
 
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()

@@ -1,1 +1,3 @@
 .cache
+_trial_temp/
+*.pyc
