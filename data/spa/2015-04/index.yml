@@ -22,8 +22,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-family-is-of-god?lang=spa
   year: 2015
 - article_id: 12565_002_63oscarson
-  item: '005'
-  key: 005-defenders-of-the-family-proclamation
+  item: '006'
+  key: 006-defenders-of-the-family-proclamation
   month: 4
   session_id: womens
   session_title: "Sesi\xF3n General de Mujeres"
@@ -33,8 +33,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/defenders-of-the-family-proclamation?lang=spa
   year: 2015
 - article_id: 12565_002_64eyring
-  item: '007'
-  key: 007-the-comforter
+  item: 008
+  key: 008-the-comforter
   month: 4
   session_id: womens
   session_title: "Sesi\xF3n General de Mujeres"
@@ -44,8 +44,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-comforter?lang=spa
   year: 2015
 - article_id: 12565_002_11eyring
-  item: '011'
-  key: 011-is-not-this-the-fast-that-i-have-chosen
+  item: '012'
+  key: 012-is-not-this-the-fast-that-i-have-chosen
   month: 4
   session_id: saturday-morning
   session_title: "Sesi\xF3n del s\xE1bado por la ma\xF1ana"
@@ -55,8 +55,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/is-not-this-the-fast-that-i-have-chosen?lang=spa
   year: 2015
 - article_id: 12565_002_12packer
-  item: '013'
-  key: 013-the-plan-of-happiness
+  item: '014'
+  key: 014-the-plan-of-happiness
   month: 4
   session_id: saturday-morning
   session_title: "Sesi\xF3n del s\xE1bado por la ma\xF1ana"
@@ -66,8 +66,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-plan-of-happiness?lang=spa
   year: 2015
 - article_id: 12565_002_13burton
-  item: '014'
-  key: 014-well-ascend-together
+  item: '015'
+  key: 015-well-ascend-together
   month: 4
   session_id: saturday-morning
   session_title: "Sesi\xF3n del s\xE1bado por la ma\xF1ana"
@@ -77,8 +77,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/well-ascend-together?lang=spa
   year: 2015
 - article_id: 12565_002_14oaks
-  item: '016'
-  key: 016-the-parable-of-the-sower
+  item: '017'
+  key: 017-the-parable-of-the-sower
   month: 4
   session_id: saturday-morning
   session_title: "Sesi\xF3n del s\xE1bado por la ma\xF1ana"
@@ -88,8 +88,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-parable-of-the-sower?lang=spa
   year: 2015
 - article_id: 12565_002_15clayton
-  item: '017'
-  key: 017-choose-to-believe
+  item: 018
+  key: 018-choose-to-believe
   month: 4
   session_id: saturday-morning
   session_title: "Sesi\xF3n del s\xE1bado por la ma\xF1ana"
@@ -99,8 +99,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/choose-to-believe?lang=spa
   year: 2015
 - article_id: 12565_002_16perry
-  item: 019
-  key: 019-why-marriage-and-family-matter-everywhere-in-the-world
+  item: '020'
+  key: 020-why-marriage-and-family-matter-everywhere-in-the-world
   month: 4
   session_id: saturday-morning
   session_title: "Sesi\xF3n del s\xE1bado por la ma\xF1ana"
@@ -111,8 +111,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/why-marriage-and-family-matter-everywhere-in-the-world?lang=spa
   year: 2015
 - article_id: 12565_002_21uchtdorf
-  item: '022'
-  key: 022-the-sustaining-of-church-officers
+  item: '023'
+  key: 023-the-sustaining-of-church-officers
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -122,8 +122,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-sustaining-of-church-officers?lang=spa
   year: 2015
 - article_id: 12565_002_22jergensen
-  item: '023'
-  key: 023-church-auditing-department-report-2014
+  item: '024'
+  key: 024-church-auditing-department-report-2014
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -133,8 +133,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/church-auditing-department-report-2014?lang=spa
   year: 2015
 - article_id: 12565_002_23hales
-  item: '024'
-  key: 024-statistical-report-2014
+  item: '025'
+  key: 025-statistical-report-2014
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -144,8 +144,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/statistical-report-2014?lang=spa
   year: 2015
 - article_id: 12565_002_24bednar
-  item: '026'
-  key: 026-therefore-they-hushed-their-fears
+  item: '027'
+  key: 027-therefore-they-hushed-their-fears
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -155,8 +155,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/therefore-they-hushed-their-fears?lang=spa
   year: 2015
 - article_id: 12565_002_25christofferson
-  item: '027'
-  key: 027-why-marriage-why-family
+  item: 028
+  key: 028-why-marriage-why-family
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -166,8 +166,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/why-marriage-why-family?lang=spa
   year: 2015
 - article_id: 12565_002_26andersen
-  item: 029
-  key: 029-the-music-of-the-gospel
+  item: '030'
+  key: 030-the-music-of-the-gospel
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -177,8 +177,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-music-of-the-gospel?lang=spa
   year: 2015
 - article_id: 12565_002_27renlund
-  item: '030'
-  key: 030-latter-day-saints-keep-on-trying
+  item: '031'
+  key: 031-latter-day-saints-keep-on-trying
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -188,8 +188,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/latter-day-saints-keep-on-trying?lang=spa
   year: 2015
 - article_id: 12565_002_28ringwood
-  item: '031'
-  key: 031-truly-good-and-without-guile
+  item: '032'
+  key: 032-truly-good-and-without-guile
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -199,8 +199,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/truly-good-and-without-guile?lang=spa
   year: 2015
 - article_id: 12565_002_29cook
-  item: '032'
-  key: 032-the-lord-is-my-light
+  item: '033'
+  key: 033-the-lord-is-my-light
   month: 4
   session_id: saturday-afternoon
   session_title: "Sesi\xF3n del s\xE1bado por la tarde"
@@ -210,8 +210,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-lord-is-my-light?lang=spa
   year: 2015
 - article_id: 12565_002_31ballard
-  item: '036'
-  key: 036-the-greatest-generation-of-young-adults
+  item: '037'
+  key: 037-the-greatest-generation-of-young-adults
   month: 4
   session_id: priesthood
   session_title: "Sesi\xF3n General del Sacerdocio"
@@ -221,8 +221,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-greatest-generation-of-young-adults?lang=spa
   year: 2015
 - article_id: 12565_002_32soares
-  item: '037'
-  key: 037-yes-we-can-and-will-win
+  item: 038
+  key: 038-yes-we-can-and-will-win
   month: 4
   session_id: priesthood
   session_title: "Sesi\xF3n General del Sacerdocio"
@@ -232,8 +232,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/yes-we-can-and-will-win?lang=spa
   year: 2015
 - article_id: 12565_002_33gibson
-  item: 038
-  key: 038-fatherhood-our-eternal-destiny
+  item: 039
+  key: 039-fatherhood-our-eternal-destiny
   month: 4
   session_id: priesthood
   session_title: "Sesi\xF3n General del Sacerdocio"
@@ -243,8 +243,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/fatherhood-our-eternal-destiny?lang=spa
   year: 2015
 - article_id: 12565_002_34uchtdorf
-  item: '040'
-  key: 040-on-being-genuine
+  item: '041'
+  key: 041-on-being-genuine
   month: 4
   session_id: priesthood
   session_title: "Sesi\xF3n General del Sacerdocio"
@@ -254,8 +254,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/on-being-genuine?lang=spa
   year: 2015
 - article_id: 12565_002_35eyring
-  item: '041'
-  key: 041-priesthood-and-personal-prayer
+  item: '042'
+  key: 042-priesthood-and-personal-prayer
   month: 4
   session_id: priesthood
   session_title: "Sesi\xF3n General del Sacerdocio"
@@ -265,8 +265,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/priesthood-and-personal-prayer?lang=spa
   year: 2015
 - article_id: 12565_002_36monson
-  item: '042'
-  key: 042-the-priesthood-a-sacred-gift
+  item: '043'
+  key: 043-the-priesthood-a-sacred-gift
   month: 4
   session_id: priesthood
   session_title: "Sesi\xF3n General del Sacerdocio"
@@ -276,8 +276,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-priesthood-a-sacred-gift?lang=spa
   year: 2015
 - article_id: 12565_002_41monson
-  item: '047'
-  key: 047-blessings-of-the-temple
+  item: 048
+  key: 048-blessings-of-the-temple
   month: 4
   session_id: sunday-morning
   session_title: "Sesi\xF3n del domingo por la ma\xF1ana"
@@ -287,8 +287,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/blessings-of-the-temple?lang=spa
   year: 2015
 - article_id: 12565_002_42wixom
-  item: 048
-  key: 048-returning-to-faith
+  item: 049
+  key: 049-returning-to-faith
   month: 4
   session_id: sunday-morning
   session_title: "Sesi\xF3n del domingo por la ma\xF1ana"
@@ -298,8 +298,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/returning-to-faith?lang=spa
   year: 2015
 - article_id: 12565_002_43teixeira
-  item: 049
-  key: 049-seeking-the-lord
+  item: '050'
+  key: 050-seeking-the-lord
   month: 4
   session_id: sunday-morning
   session_title: "Sesi\xF3n del domingo por la ma\xF1ana"
@@ -309,8 +309,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/seeking-the-lord?lang=spa
   year: 2015
 - article_id: 12565_002_44causse
-  item: '051'
-  key: 051-is-it-still-wonderful-to-you
+  item: '052'
+  key: 052-is-it-still-wonderful-to-you
   month: 4
   session_id: sunday-morning
   session_title: "Sesi\xF3n del domingo por la ma\xF1ana"
@@ -320,8 +320,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/is-it-still-wonderful-to-you?lang=spa
   year: 2015
 - article_id: 12565_002_45nielson
-  item: '052'
-  key: 052-waiting-for-the-prodigal
+  item: '053'
+  key: 053-waiting-for-the-prodigal
   month: 4
   session_id: sunday-morning
   session_title: "Sesi\xF3n del domingo por la ma\xF1ana"
@@ -331,8 +331,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/waiting-for-the-prodigal?lang=spa
   year: 2015
 - article_id: 12565_002_46holland
-  item: '053'
-  key: 053-where-justice-love-and-mercy-meet
+  item: '054'
+  key: 054-where-justice-love-and-mercy-meet
   month: 4
   session_id: sunday-morning
   session_title: "Sesi\xF3n del domingo por la ma\xF1ana"
@@ -342,8 +342,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/where-justice-love-and-mercy-meet?lang=spa
   year: 2015
 - article_id: 12565_002_47uchtdorf
-  item: '055'
-  key: 055-the-gift-of-grace
+  item: '056'
+  key: 056-the-gift-of-grace
   month: 4
   session_id: sunday-morning
   session_title: "Sesi\xF3n del domingo por la ma\xF1ana"
@@ -353,8 +353,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-gift-of-grace?lang=spa
   year: 2015
 - article_id: 12565_002_51hales
-  item: 059
-  key: 059-preserving-agency-protecting-religious-freedom
+  item: '060'
+  key: 060-preserving-agency-protecting-religious-freedom
   month: 4
   session_id: sunday-afternoon
   session_title: "Sesi\xF3n del domingo por la tarde"
@@ -364,8 +364,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/preserving-agency-protecting-religious-freedom?lang=spa
   year: 2015
 - article_id: 12565_002_52pearson
-  item: '060'
-  key: 060-stay-by-the-tree
+  item: '061'
+  key: 061-stay-by-the-tree
   month: 4
   session_id: sunday-afternoon
   session_title: "Sesi\xF3n del domingo por la tarde"
@@ -375,8 +375,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/stay-by-the-tree?lang=spa
   year: 2015
 - article_id: 12565_002_53pino
-  item: '061'
-  key: 061-the-eternal-perspective-of-the-gospel
+  item: '062'
+  key: 062-the-eternal-perspective-of-the-gospel
   month: 4
   session_id: sunday-afternoon
   session_title: "Sesi\xF3n del domingo por la tarde"
@@ -386,8 +386,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/the-eternal-perspective-of-the-gospel?lang=spa
   year: 2015
 - article_id: 12565_002_54andersen
-  item: '063'
-  key: 063-thy-kingdom-come
+  item: '064'
+  key: 064-thy-kingdom-come
   month: 4
   session_id: sunday-afternoon
   session_title: "Sesi\xF3n del domingo por la tarde"
@@ -397,8 +397,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/thy-kingdom-come?lang=spa
   year: 2015
 - article_id: 12565_002_55zeballos
-  item: '064'
-  key: 064-if-you-will-be-responsible
+  item: '065'
+  key: 065-if-you-will-be-responsible
   month: 4
   session_id: sunday-afternoon
   session_title: "Sesi\xF3n del domingo por la tarde"
@@ -408,8 +408,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/if-you-will-be-responsible?lang=spa
   year: 2015
 - article_id: 12565_002_56sitati
-  item: '066'
-  key: 066-be-fruitful-multiply-and-subdue-the-earth
+  item: '067'
+  key: 067-be-fruitful-multiply-and-subdue-the-earth
   month: 4
   session_id: sunday-afternoon
   session_title: "Sesi\xF3n del domingo por la tarde"
@@ -419,8 +419,8 @@ items:
   url: https://www.lds.org/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth?lang=spa
   year: 2015
 - article_id: 12565_002_57nelson
-  item: '067'
-  key: 067-the-sabbath-is-a-delight
+  item: 068
+  key: 068-the-sabbath-is-a-delight
   month: 4
   session_id: sunday-afternoon
   session_title: "Sesi\xF3n del domingo por la tarde"

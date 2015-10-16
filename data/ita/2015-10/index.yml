@@ -11,8 +11,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/discovering-the-divinity-within?lang=ita
   year: 2015
 - article_id: 13768_160_12reeves
-  item: '004'
-  key: 004-worthy-of-our-promised-blessings
+  item: '005'
+  key: 005-worthy-of-our-promised-blessings
   month: 10
   session_id: womens
   session_title: Sessione generale delle donne
@@ -22,8 +22,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/worthy-of-our-promised-blessings?lang=ita
   year: 2015
 - article_id: 13768_160_13mcconkie
-  item: '005'
-  key: 005-here-to-serve-a-righteous-cause
+  item: '007'
+  key: 007-here-to-serve-a-righteous-cause
   month: 10
   session_id: womens
   session_title: Sessione generale delle donne
@@ -33,8 +33,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/here-to-serve-a-righteous-cause?lang=ita
   year: 2015
 - article_id: 13768_160_14uchtdorf
-  item: '007'
-  key: 007-a-summer-with-great-aunt-rose
+  item: 009
+  key: 009-a-summer-with-great-aunt-rose
   month: 10
   session_id: womens
   session_title: Sessione generale delle donne
@@ -44,8 +44,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/a-summer-with-great-aunt-rose?lang=ita
   year: 2015
 - article_id: 13768_160_21uchtdorf
-  item: '012'
-  key: 012-it-works-wonderfully
+  item: '014'
+  key: 014-it-works-wonderfully
   month: 10
   session_id: saturday-morning
   session_title: Sessione del sabato mattina
@@ -55,8 +55,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/it-works-wonderfully?lang=ita
   year: 2015
 - article_id: 13768_160_22ballard
-  item: '013'
-  key: 013-god-is-at-the-helm
+  item: '015'
+  key: 015-god-is-at-the-helm
   month: 10
   session_id: saturday-morning
   session_title: Sessione del sabato mattina
@@ -66,8 +66,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/god-is-at-the-helm?lang=ita
   year: 2015
 - article_id: 13768_160_24marriott
-  item: '015'
-  key: 015-yielding-our-hearts-to-god
+  item: 018
+  key: 018-yielding-our-hearts-to-god
   month: 10
   session_id: saturday-morning
   session_title: Sessione del sabato mattina
@@ -77,8 +77,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/yielding-our-hearts-to-god?lang=ita
   year: 2015
 - article_id: 13768_160_25lawrence
-  item: '016'
-  key: 016-what-lack-i-yet
+  item: 019
+  key: 019-what-lack-i-yet
   month: 10
   session_id: saturday-morning
   session_title: Sessione del sabato mattina
@@ -88,8 +88,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/what-lack-i-yet?lang=ita
   year: 2015
 - article_id: 13768_160_26vinas
-  item: '017'
-  key: 017-the-pleasing-word-of-god
+  item: '020'
+  key: 020-the-pleasing-word-of-god
   month: 10
   session_id: saturday-morning
   session_title: Sessione del sabato mattina
@@ -99,8 +99,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/the-pleasing-word-of-god?lang=ita
   year: 2015
 - article_id: 13768_160_27cook
-  item: 019
-  key: 019-shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times
+  item: '022'
+  key: 022-shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times
   month: 10
   session_id: saturday-morning
   session_title: Sessione del sabato mattina
@@ -111,8 +111,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times?lang=ita
   year: 2015
 - article_id: 13768_160_31eyring
-  item: '022'
-  key: 022-the-sustaining-of-church-officers
+  item: '025'
+  key: 025-the-sustaining-of-church-officers
   month: 10
   session_id: saturday-afternoon
   session_title: Sessione del sabato pomeriggio
@@ -122,8 +122,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/the-sustaining-of-church-officers?lang=ita
   year: 2015
 - article_id: 13768_160_32hales
-  item: '024'
-  key: 024-meeting-the-challenges-of-todays-world
+  item: '027'
+  key: 027-meeting-the-challenges-of-todays-world
   month: 10
   session_id: saturday-afternoon
   session_title: Sessione del sabato pomeriggio
@@ -133,8 +133,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/meeting-the-challenges-of-todays-world?lang=ita
   year: 2015
 - article_id: 13768_160_33holland
-  item: '025'
-  key: 025-behold-thy-mother
+  item: 028
+  key: 028-behold-thy-mother
   month: 10
   session_id: saturday-afternoon
   session_title: Sessione del sabato pomeriggio
@@ -144,8 +144,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/behold-thy-mother?lang=ita
   year: 2015
 - article_id: 13768_160_34foster
-  item: '027'
-  key: 027-its-never-too-early-and-its-never-too-late
+  item: '030'
+  key: 030-its-never-too-early-and-its-never-too-late
   month: 10
   session_id: saturday-afternoon
   session_title: Sessione del sabato pomeriggio
@@ -155,8 +155,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/its-never-too-early-and-its-never-too-late?lang=ita
   year: 2015
 - article_id: 13768_160_35montoya
-  item: 028
-  key: 028-tested-and-tempted-but-helped
+  item: '031'
+  key: 031-tested-and-tempted-but-helped
   month: 10
   session_id: saturday-afternoon
   session_title: Sessione del sabato pomeriggio
@@ -166,8 +166,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/tested-and-tempted-but-helped?lang=ita
   year: 2015
 - article_id: 13768_160_36stanfill
-  item: 029
-  key: 029-choose-the-light
+  item: '032'
+  key: 032-choose-the-light
   month: 10
   session_id: saturday-afternoon
   session_title: Sessione del sabato pomeriggio
@@ -177,8 +177,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/choose-the-light?lang=ita
   year: 2015
 - article_id: 13768_160_37martino
-  item: '030'
-  key: 030-turn-to-him-and-answers-will-come
+  item: '033'
+  key: 033-turn-to-him-and-answers-will-come
   month: 10
   session_id: saturday-afternoon
   session_title: Sessione del sabato pomeriggio
@@ -188,8 +188,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/turn-to-him-and-answers-will-come?lang=ita
   year: 2015
 - article_id: 13768_160_38oaks
-  item: '031'
-  key: 031-strengthened-by-the-atonement-of-jesus-christ
+  item: '034'
+  key: 034-strengthened-by-the-atonement-of-jesus-christ
   month: 10
   session_id: saturday-afternoon
   session_title: Sessione del sabato pomeriggio
@@ -199,8 +199,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=ita
   year: 2015
 - article_id: 13768_160_41andersen
-  item: '035'
-  key: 035-faith-is-not-by-chance-but-by-choice
+  item: 038
+  key: 038-faith-is-not-by-chance-but-by-choice
   month: 10
   session_id: priesthood
   session_title: Sessione generale del sacerdozio
@@ -210,8 +210,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=ita
   year: 2015
 - article_id: 13768_160_47bennett
-  item: '036'
-  key: 036-your-next-step
+  item: 039
+  key: 039-your-next-step
   month: 10
   session_id: priesthood
   session_title: Sessione generale del sacerdozio
@@ -221,8 +221,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/your-next-step?lang=ita
   year: 2015
 - article_id: 13768_160_44uchtdorf
-  item: 038
-  key: 038-be-not-afraid-only-believe
+  item: '041'
+  key: 041-be-not-afraid-only-believe
   month: 10
   session_id: priesthood
   session_title: Sessione generale del sacerdozio
@@ -232,8 +232,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/be-not-afraid-only-believe?lang=ita
   year: 2015
 - article_id: 13768_160_45eyring
-  item: 039
-  key: 039-you-are-not-alone-in-the-work
+  item: '042'
+  key: 042-you-are-not-alone-in-the-work
   month: 10
   session_id: priesthood
   session_title: Sessione generale del sacerdozio
@@ -243,8 +243,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/you-are-not-alone-in-the-work?lang=ita
   year: 2015
 - article_id: 13768_160_46monson
-  item: '041'
-  key: 041-keep-the-commandments
+  item: '044'
+  key: 044-keep-the-commandments
   month: 10
   session_id: priesthood
   session_title: Sessione generale del sacerdozio
@@ -254,8 +254,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/keep-the-commandments?lang=ita
   year: 2015
 - article_id: 13768_160_50monson
-  item: '046'
-  key: 046-be-an-example-and-a-light
+  item: 049
+  key: 049-be-an-example-and-a-light
   month: 10
   session_id: sunday-morning
   session_title: Sessione della domenica mattina
@@ -265,8 +265,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/be-an-example-and-a-light?lang=ita
   year: 2015
 - article_id: 13768_160_51rasband
-  item: '047'
-  key: 047-i-stand-all-amazed
+  item: '050'
+  key: 050-i-stand-all-amazed
   month: 10
   session_id: sunday-morning
   session_title: Sessione della domenica mattina
@@ -276,8 +276,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/i-stand-all-amazed?lang=ita
   year: 2015
 - article_id: 13768_160_52stevenson
-  item: 048
-  key: 048-plain-and-precious-truths
+  item: '051'
+  key: 051-plain-and-precious-truths
   month: 10
   session_id: sunday-morning
   session_title: Sessione della domenica mattina
@@ -287,8 +287,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/plain-and-precious-truths?lang=ita
   year: 2015
 - article_id: 13768_160_54nelson
-  item: '050'
-  key: 050-a-plea-to-my-sisters
+  item: '054'
+  key: 054-a-plea-to-my-sisters
   month: 10
   session_id: sunday-morning
   session_title: Sessione della domenica mattina
@@ -298,8 +298,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/a-plea-to-my-sisters?lang=ita
   year: 2015
 - article_id: 13768_160_55schwitzer
-  item: '051'
-  key: 051-let-the-clarion-trumpet-sound
+  item: '055'
+  key: 055-let-the-clarion-trumpet-sound
   month: 10
   session_id: sunday-morning
   session_title: Sessione della domenica mattina
@@ -309,8 +309,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/let-the-clarion-trumpet-sound?lang=ita
   year: 2015
 - article_id: 13768_160_56costa
-  item: '052'
-  key: 052-that-they-do-always-remember-him
+  item: '056'
+  key: 056-that-they-do-always-remember-him
   month: 10
   session_id: sunday-morning
   session_title: Sessione della domenica mattina
@@ -320,8 +320,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/that-they-do-always-remember-him?lang=ita
   year: 2015
 - article_id: 13768_160_57eyring
-  item: '054'
-  key: 054-the-holy-ghost-as-your-companion
+  item: 058
+  key: 058-the-holy-ghost-as-your-companion
   month: 10
   session_id: sunday-morning
   session_title: Sessione della domenica mattina
@@ -331,8 +331,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/the-holy-ghost-as-your-companion?lang=ita
   year: 2015
 - article_id: 13768_160_61christofferson
-  item: 058
-  key: 058-why-the-church
+  item: '062'
+  key: 062-why-the-church
   month: 10
   session_id: sunday-afternoon
   session_title: Sessione della domenica pomeriggio
@@ -342,8 +342,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/why-the-church?lang=ita
   year: 2015
 - article_id: 13768_160_62durrant
-  item: 059
-  key: 059-my-heart-pondereth-them-continually
+  item: '063'
+  key: 063-my-heart-pondereth-them-continually
   month: 10
   session_id: sunday-afternoon
   session_title: Sessione della domenica pomeriggio
@@ -353,8 +353,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/my-heart-pondereth-them-continually?lang=ita
   year: 2015
 - article_id: 13768_160_63keetch
-  item: '060'
-  key: 060-blessed-and-happy-are-those-who-keep-the-commandments-of-god
+  item: '064'
+  key: 064-blessed-and-happy-are-those-who-keep-the-commandments-of-god
   month: 10
   session_id: sunday-afternoon
   session_title: Sessione della domenica pomeriggio
@@ -364,8 +364,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/blessed-and-happy-are-those-who-keep-the-commandments-of-god?lang=ita
   year: 2015
 - article_id: 13768_160_64stephens
-  item: '061'
-  key: 061-if-ye-love-me-keep-my-commandments
+  item: '065'
+  key: 065-if-ye-love-me-keep-my-commandments
   month: 10
   session_id: sunday-afternoon
   session_title: Sessione della domenica pomeriggio
@@ -375,8 +375,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/if-ye-love-me-keep-my-commandments?lang=ita
   year: 2015
 - article_id: 13768_160_66clark
-  item: '063'
-  key: 063-eyes-to-see-and-ears-to-hear
+  item: 068
+  key: 068-eyes-to-see-and-ears-to-hear
   month: 10
   session_id: sunday-afternoon
   session_title: Sessione della domenica pomeriggio
@@ -386,8 +386,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/eyes-to-see-and-ears-to-hear?lang=ita
   year: 2015
 - article_id: 13768_160_67aoyagi
-  item: '064'
-  key: 064-hold-on-thy-way
+  item: 069
+  key: 069-hold-on-thy-way
   month: 10
   session_id: sunday-afternoon
   session_title: Sessione della domenica pomeriggio
@@ -397,8 +397,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/hold-on-thy-way?lang=ita
   year: 2015
 - article_id: 13768_160_68bednar
-  item: '066'
-  key: 066-chosen-to-bear-testimony-of-my-name
+  item: '071'
+  key: 071-chosen-to-bear-testimony-of-my-name
   month: 10
   session_id: sunday-afternoon
   session_title: Sessione della domenica pomeriggio

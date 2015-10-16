@@ -83,7 +83,7 @@ def getTalkURLs(data_dir, year, month, lang):
         
         rows = session.xpath('tr')
         for row in rows:
-            talk = row.xpath(".//span[@class='talk']/a")
+            talk = row.xpath(".//span[@class='talk']")
             song = row.xpath(".//span[@class='song']")
             if not talk and not song:
                 continue
@@ -95,8 +95,13 @@ def getTalkURLs(data_dir, year, month, lang):
                 continue
             elif talk:
                 talk = talk[0]
+                talk_a = talk.xpath('.//a')
+                if not talk_a:
+                    # probably no translation yet.
+                    continue
+                talk_a = talk_a[0]
                 speaker = row.xpath(".//span[@class='speaker']")[0]
-                url = talk.attrib['href']
+                url = talk_a.attrib['href']
                 slug = urlparse(url).path.split('/')[-1]
                 file_slug = '{item}-{slug}'.format(item=item_number,
                     slug=slug)
@@ -106,7 +111,7 @@ def getTalkURLs(data_dir, year, month, lang):
                     'item': item_number,
                     'speaker': speaker.text,
                     'url': url,
-                    'title': talk.text,
+                    'title': talk_a.text,
                     'slug': slug,
                     'key': file_slug,
                     'year': int(year),
