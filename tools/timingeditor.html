@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Timing Editor</title>
     <style type="text/css">
     .highlighted {
       background-color: yellow;
@@ -255,6 +255,7 @@ Save/load:
 
   </div>
 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
   <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
   <script>
     // 2. This code loads the IFrame Player API code asynchronously.
@@ -372,10 +373,10 @@ Save/load:
     function exportTimingInfo() {
       var timing_info = getTimingInfo();
       console.log('timing_info', timing_info);
-      $('#timing-info').val(JSON.stringify(timing_info));
+      $('#timing-info').val(jsyaml.safeDump(timing_info));
     }
     function importTimingInfo() {
-      setTimingInfo(JSON.parse($('#timing-info').val()));
+      setTimingInfo(jsyaml.safeLoad($('#timing-info').val()));
     }
 
     // debug
