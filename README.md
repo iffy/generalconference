@@ -4,7 +4,7 @@ I made this because I often want to do programmatic things with the talks, and d
 
 ## Usage ##
 
-Until I research copyrights, the text will not reside in this repo, but you can easily get the text as follows.  First, clone this repo, then:
+First, clone this repo, then:
 
     pip install -r requirements.txt
     python download.py --help
@@ -25,4 +25,4 @@ Inside each General Conference directory (e.g. [`data/eng/2015-10/`](data/eng/20
 Inside each talk directory (e.g. [`data/eng/2015-10/012-it-works-wonderfully`](data/eng/2015-10/012-it-works-wonderfully/)) you will find:
 
 - A `metadata.yml` file with information about the talk.  [Example](data/eng/2015-10/012-it-works-wonderfully/metadata.yml)
-- After you run `download.py`, a `text.md` file with the content of the talk in it.
+- A `text.md` file with the content of the talk in it. [Example](data/eng/2015-10/012-it-works-wonderfully/text.md)

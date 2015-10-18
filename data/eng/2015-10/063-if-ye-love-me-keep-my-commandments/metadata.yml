@@ -9,4 +9,6 @@ speaker: Carole M. Stephens
 title: "\u201CIf Ye Love Me, Keep My Commandments\u201D"
 url: https://www.lds.org/general-conference/2015/10/if-ye-love-me-keep-my-commandments?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=RfV2TlYO20A
+youtube:
+  id: RfV2TlYO20A
+  url: https://www.youtube.com/watch?v=RfV2TlYO20A

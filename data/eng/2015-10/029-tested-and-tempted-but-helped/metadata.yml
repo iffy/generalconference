@@ -9,4 +9,6 @@ speaker: Hugo Montoya
 title: "Tested and Tempted\u2014but Helped"
 url: https://www.lds.org/general-conference/2015/10/tested-and-tempted-but-helped?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=F88PvC46560
+youtube:
+  id: F88PvC46560
+  url: https://www.youtube.com/watch?v=F88PvC46560

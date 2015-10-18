@@ -9,4 +9,6 @@ speaker: "Randall\_K. Bennett"
 title: Your Next Step
 url: https://www.lds.org/general-conference/2015/10/your-next-step?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=Ey4YAs-jfkI
+youtube:
+  id: Ey4YAs-jfkI
+  url: https://www.youtube.com/watch?v=Ey4YAs-jfkI

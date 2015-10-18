@@ -9,4 +9,6 @@ speaker: Gregory A. Schwitzer
 title: Let the Clarion Trumpet Sound
 url: https://www.lds.org/general-conference/2015/10/let-the-clarion-trumpet-sound?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=wjFEUjuo6FU
+youtube:
+  id: wjFEUjuo6FU
+  url: https://www.youtube.com/watch?v=wjFEUjuo6FU

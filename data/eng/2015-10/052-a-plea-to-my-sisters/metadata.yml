@@ -9,4 +9,6 @@ speaker: Russell M. Nelson
 title: A Plea to My Sisters
 url: https://www.lds.org/general-conference/2015/10/a-plea-to-my-sisters?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=oMwO3RAH9bE
+youtube:
+  id: oMwO3RAH9bE
+  url: https://www.youtube.com/watch?v=oMwO3RAH9bE

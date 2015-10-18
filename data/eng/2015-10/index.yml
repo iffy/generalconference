@@ -11,8 +11,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/discovering-the-divinity-within?lang=eng
   year: 2015
 - article_id: 13768_000_12reeves
-  item: '004'
-  key: 004-worthy-of-our-promised-blessings
+  item: '005'
+  key: 005-worthy-of-our-promised-blessings
   month: 10
   session_id: womens
   session_title: General Women's Session
@@ -22,8 +22,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/worthy-of-our-promised-blessings?lang=eng
   year: 2015
 - article_id: 13768_000_13mcconkie
-  item: '005'
-  key: 005-here-to-serve-a-righteous-cause
+  item: '007'
+  key: 007-here-to-serve-a-righteous-cause
   month: 10
   session_id: womens
   session_title: General Women's Session
@@ -33,8 +33,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/here-to-serve-a-righteous-cause?lang=eng
   year: 2015
 - article_id: 13768_000_14uchtdorf
-  item: '007'
-  key: 007-a-summer-with-great-aunt-rose
+  item: 009
+  key: 009-a-summer-with-great-aunt-rose
   month: 10
   session_id: womens
   session_title: General Women's Session
@@ -44,8 +44,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/a-summer-with-great-aunt-rose?lang=eng
   year: 2015
 - article_id: 13768_000_21uchtdorf
-  item: '012'
-  key: 012-it-works-wonderfully
+  item: '014'
+  key: 014-it-works-wonderfully
   month: 10
   session_id: saturday-morning
   session_title: Saturday Morning Session
@@ -55,8 +55,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/it-works-wonderfully?lang=eng
   year: 2015
 - article_id: 13768_000_22ballard
-  item: '013'
-  key: 013-god-is-at-the-helm
+  item: '015'
+  key: 015-god-is-at-the-helm
   month: 10
   session_id: saturday-morning
   session_title: Saturday Morning Session
@@ -66,8 +66,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/god-is-at-the-helm?lang=eng
   year: 2015
 - article_id: 13768_000_23maynes
-  item: '014'
-  key: 014-the-joy-of-living-a-christ-centered-life
+  item: '016'
+  key: 016-the-joy-of-living-a-christ-centered-life
   month: 10
   session_id: saturday-morning
   session_title: Saturday Morning Session
@@ -77,8 +77,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/the-joy-of-living-a-christ-centered-life?lang=eng
   year: 2015
 - article_id: 13768_000_24marriott
-  item: '016'
-  key: 016-yielding-our-hearts-to-god
+  item: 018
+  key: 018-yielding-our-hearts-to-god
   month: 10
   session_id: saturday-morning
   session_title: Saturday Morning Session
@@ -88,8 +88,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/yielding-our-hearts-to-god?lang=eng
   year: 2015
 - article_id: 13768_000_25lawrence
-  item: '017'
-  key: 017-what-lack-i-yet
+  item: 019
+  key: 019-what-lack-i-yet
   month: 10
   session_id: saturday-morning
   session_title: Saturday Morning Session
@@ -99,8 +99,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/what-lack-i-yet?lang=eng
   year: 2015
 - article_id: 13768_000_26vinas
-  item: 018
-  key: 018-the-pleasing-word-of-god
+  item: '020'
+  key: 020-the-pleasing-word-of-god
   month: 10
   session_id: saturday-morning
   session_title: Saturday Morning Session
@@ -110,8 +110,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/the-pleasing-word-of-god?lang=eng
   year: 2015
 - article_id: 13768_000_27cook
-  item: '020'
-  key: 020-shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times
+  item: '022'
+  key: 022-shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times
   month: 10
   session_id: saturday-morning
   session_title: Saturday Morning Session
@@ -122,8 +122,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times?lang=eng
   year: 2015
 - article_id: 13768_000_31eyring
-  item: '023'
-  key: 023-the-sustaining-of-church-officers
+  item: '025'
+  key: 025-the-sustaining-of-church-officers
   month: 10
   session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
@@ -133,8 +133,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/the-sustaining-of-church-officers?lang=eng
   year: 2015
 - article_id: 13768_000_32hales
-  item: '025'
-  key: 025-meeting-the-challenges-of-todays-world
+  item: '027'
+  key: 027-meeting-the-challenges-of-todays-world
   month: 10
   session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
@@ -144,8 +144,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/meeting-the-challenges-of-todays-world?lang=eng
   year: 2015
 - article_id: 13768_000_33holland
-  item: '026'
-  key: 026-behold-thy-mother
+  item: 028
+  key: 028-behold-thy-mother
   month: 10
   session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
@@ -155,8 +155,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/behold-thy-mother?lang=eng
   year: 2015
 - article_id: 13768_000_34foster
-  item: 028
-  key: 028-its-never-too-early-and-its-never-too-late
+  item: '030'
+  key: 030-its-never-too-early-and-its-never-too-late
   month: 10
   session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
@@ -166,8 +166,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/its-never-too-early-and-its-never-too-late?lang=eng
   year: 2015
 - article_id: 13768_000_35montoya
-  item: 029
-  key: 029-tested-and-tempted-but-helped
+  item: '031'
+  key: 031-tested-and-tempted-but-helped
   month: 10
   session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
@@ -177,8 +177,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/tested-and-tempted-but-helped?lang=eng
   year: 2015
 - article_id: 13768_000_36stanfill
-  item: '030'
-  key: 030-choose-the-light
+  item: '032'
+  key: 032-choose-the-light
   month: 10
   session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
@@ -188,8 +188,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/choose-the-light?lang=eng
   year: 2015
 - article_id: 13768_000_37martino
-  item: '031'
-  key: 031-turn-to-him-and-answers-will-come
+  item: '033'
+  key: 033-turn-to-him-and-answers-will-come
   month: 10
   session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
@@ -199,8 +199,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/turn-to-him-and-answers-will-come?lang=eng
   year: 2015
 - article_id: 13768_000_38oaks
-  item: '032'
-  key: 032-strengthened-by-the-atonement-of-jesus-christ
+  item: '034'
+  key: 034-strengthened-by-the-atonement-of-jesus-christ
   month: 10
   session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
@@ -210,8 +210,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=eng
   year: 2015
 - article_id: 13768_000_41andersen
-  item: '036'
-  key: 036-faith-is-not-by-chance-but-by-choice
+  item: 038
+  key: 038-faith-is-not-by-chance-but-by-choice
   month: 10
   session_id: priesthood
   session_title: General Priesthood Session
@@ -221,8 +221,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=eng
   year: 2015
 - article_id: 13768_000_47bennett
-  item: '037'
-  key: 037-your-next-step
+  item: 039
+  key: 039-your-next-step
   month: 10
   session_id: priesthood
   session_title: General Priesthood Session
@@ -232,8 +232,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/your-next-step?lang=eng
   year: 2015
 - article_id: 13768_000_44uchtdorf
-  item: 039
-  key: 039-be-not-afraid-only-believe
+  item: '041'
+  key: 041-be-not-afraid-only-believe
   month: 10
   session_id: priesthood
   session_title: General Priesthood Session
@@ -243,8 +243,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/be-not-afraid-only-believe?lang=eng
   year: 2015
 - article_id: 13768_000_45eyring
-  item: '040'
-  key: 040-you-are-not-alone-in-the-work
+  item: '042'
+  key: 042-you-are-not-alone-in-the-work
   month: 10
   session_id: priesthood
   session_title: General Priesthood Session
@@ -254,8 +254,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/you-are-not-alone-in-the-work?lang=eng
   year: 2015
 - article_id: 13768_000_46monson
-  item: '042'
-  key: 042-keep-the-commandments
+  item: '044'
+  key: 044-keep-the-commandments
   month: 10
   session_id: priesthood
   session_title: General Priesthood Session
@@ -265,8 +265,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/keep-the-commandments?lang=eng
   year: 2015
 - article_id: 13768_000_50monson
-  item: '047'
-  key: 047-be-an-example-and-a-light
+  item: 049
+  key: 049-be-an-example-and-a-light
   month: 10
   session_id: sunday-morning
   session_title: Sunday Morning Session
@@ -276,8 +276,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/be-an-example-and-a-light?lang=eng
   year: 2015
 - article_id: 13768_000_51rasband
-  item: 048
-  key: 048-i-stand-all-amazed
+  item: '050'
+  key: 050-i-stand-all-amazed
   month: 10
   session_id: sunday-morning
   session_title: Sunday Morning Session
@@ -287,8 +287,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/i-stand-all-amazed?lang=eng
   year: 2015
 - article_id: 13768_000_52stevenson
-  item: 049
-  key: 049-plain-and-precious-truths
+  item: '051'
+  key: 051-plain-and-precious-truths
   month: 10
   session_id: sunday-morning
   session_title: Sunday Morning Session
@@ -298,8 +298,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/plain-and-precious-truths?lang=eng
   year: 2015
 - article_id: 13768_000_53renlund
-  item: '050'
-  key: 050-through-gods-eyes
+  item: '052'
+  key: 052-through-gods-eyes
   month: 10
   session_id: sunday-morning
   session_title: Sunday Morning Session
@@ -309,8 +309,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/through-gods-eyes?lang=eng
   year: 2015
 - article_id: 13768_000_54nelson
-  item: '052'
-  key: 052-a-plea-to-my-sisters
+  item: '054'
+  key: 054-a-plea-to-my-sisters
   month: 10
   session_id: sunday-morning
   session_title: Sunday Morning Session
@@ -320,8 +320,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/a-plea-to-my-sisters?lang=eng
   year: 2015
 - article_id: 13768_000_55schwitzer
-  item: '053'
-  key: 053-let-the-clarion-trumpet-sound
+  item: '055'
+  key: 055-let-the-clarion-trumpet-sound
   month: 10
   session_id: sunday-morning
   session_title: Sunday Morning Session
@@ -331,8 +331,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/let-the-clarion-trumpet-sound?lang=eng
   year: 2015
 - article_id: 13768_000_56costa
-  item: '054'
-  key: 054-that-they-do-always-remember-him
+  item: '056'
+  key: 056-that-they-do-always-remember-him
   month: 10
   session_id: sunday-morning
   session_title: Sunday Morning Session
@@ -342,8 +342,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/that-they-do-always-remember-him?lang=eng
   year: 2015
 - article_id: 13768_000_57eyring
-  item: '056'
-  key: 056-the-holy-ghost-as-your-companion
+  item: 058
+  key: 058-the-holy-ghost-as-your-companion
   month: 10
   session_id: sunday-morning
   session_title: Sunday Morning Session
@@ -353,8 +353,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/the-holy-ghost-as-your-companion?lang=eng
   year: 2015
 - article_id: 13768_000_61christofferson
-  item: '060'
-  key: 060-why-the-church
+  item: '062'
+  key: 062-why-the-church
   month: 10
   session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
@@ -364,8 +364,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/why-the-church?lang=eng
   year: 2015
 - article_id: 13768_000_62durrant
-  item: '061'
-  key: 061-my-heart-pondereth-them-continually
+  item: '063'
+  key: 063-my-heart-pondereth-them-continually
   month: 10
   session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
@@ -375,8 +375,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/my-heart-pondereth-them-continually?lang=eng
   year: 2015
 - article_id: 13768_000_63keetch
-  item: '062'
-  key: 062-blessed-and-happy-are-those-who-keep-the-commandments-of-god
+  item: '064'
+  key: 064-blessed-and-happy-are-those-who-keep-the-commandments-of-god
   month: 10
   session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
@@ -386,8 +386,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/blessed-and-happy-are-those-who-keep-the-commandments-of-god?lang=eng
   year: 2015
 - article_id: 13768_000_64stephens
-  item: '063'
-  key: 063-if-ye-love-me-keep-my-commandments
+  item: '065'
+  key: 065-if-ye-love-me-keep-my-commandments
   month: 10
   session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
@@ -397,8 +397,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/if-ye-love-me-keep-my-commandments?lang=eng
   year: 2015
 - article_id: 13768_000_65haynie
-  item: '065'
-  key: 065-remembering-in-whom-we-have-trusted
+  item: '067'
+  key: 067-remembering-in-whom-we-have-trusted
   month: 10
   session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
@@ -408,8 +408,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/remembering-in-whom-we-have-trusted?lang=eng
   year: 2015
 - article_id: 13768_000_66clark
-  item: '066'
-  key: 066-eyes-to-see-and-ears-to-hear
+  item: 068
+  key: 068-eyes-to-see-and-ears-to-hear
   month: 10
   session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
@@ -419,8 +419,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/eyes-to-see-and-ears-to-hear?lang=eng
   year: 2015
 - article_id: 13768_000_67aoyagi
-  item: '067'
-  key: 067-hold-on-thy-way
+  item: 069
+  key: 069-hold-on-thy-way
   month: 10
   session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
@@ -430,8 +430,8 @@ items:
   url: https://www.lds.org/general-conference/2015/10/hold-on-thy-way?lang=eng
   year: 2015
 - article_id: 13768_000_68bednar
-  item: 069
-  key: 069-chosen-to-bear-testimony-of-my-name
+  item: '071'
+  key: 071-chosen-to-bear-testimony-of-my-name
   month: 10
   session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
