@@ -9,4 +9,6 @@ speaker: Devin G. Durrant
 title: My Heart Pondereth Them Continually
 url: https://www.lds.org/general-conference/2015/10/my-heart-pondereth-them-continually?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=RTiQcm6_IwE
+youtube:
+  id: RTiQcm6_IwE
+  url: https://www.youtube.com/watch?v=RTiQcm6_IwE

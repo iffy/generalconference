@@ -9,4 +9,6 @@ speaker: Rosemary M. Wixom
 title: Discovering the Divinity Within
 url: https://www.lds.org/general-conference/2015/10/discovering-the-divinity-within?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=AGWV9-r6Epk
+youtube:
+  id: AGWV9-r6Epk
+  url: https://www.youtube.com/watch?v=AGWV9-r6Epk

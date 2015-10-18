@@ -9,4 +9,6 @@ speaker: Dieter F. Uchtdorf
 title: A Summer with Great-Aunt Rose
 url: https://www.lds.org/general-conference/2015/10/a-summer-with-great-aunt-rose?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=mYSA-yn6aqg
+youtube:
+  id: mYSA-yn6aqg
+  url: https://www.youtube.com/watch?v=mYSA-yn6aqg

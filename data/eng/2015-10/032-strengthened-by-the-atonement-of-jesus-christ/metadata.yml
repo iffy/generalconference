@@ -9,4 +9,6 @@ speaker: Dallin H. Oaks
 title: Strengthened by the Atonement of Jesus Christ
 url: https://www.lds.org/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=eng
 year: 2015
-youtube: https://www.youtube.com/watch?v=jOmER8WB15U
+youtube:
+  id: jOmER8WB15U
+  url: https://www.youtube.com/watch?v=jOmER8WB15U

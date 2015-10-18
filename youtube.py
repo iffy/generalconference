@@ -14,6 +14,7 @@ def parseYoutubeHTML(fh):
     for video in videos:
         yield {
             'url': 'https://www.youtube.com/watch?v=' + video.attrib['data-video-id'],
+            'video-id': video.attrib['data-video-id'],
             'title': video.attrib['data-title'],
         }
 
@@ -48,7 +49,10 @@ if __name__ == '__main__':
             if item['speaker'].count(y['title']) \
                     or y['title'].count(item['speaker']) \
                     or y['title'] in (item['title'], item['speaker']):
-                item['youtube'] = y['url']
+                item['youtube'] = {
+                    'url': y['url'],
+                    'id': y['video-id'],
+                }
                 yi += i
                 break
         if item.get('youtube'):
