@@ -61,36 +61,40 @@ Save/load:
     var repo_root = '..';
 
     function loadTalk(talk_dir) {
-      talk_dir = talk_dir
+      talk_dir = talk_dir;
+      // Get metadata
       $.get(repo_root + '/data/' + talk_dir + '/metadata.yml')
         .then(function(response) {
           talk_metadata = jsyaml.safeLoad(response);
-          console.log('got data', talk_metadata);
           loadVideo(talk_metadata.youtube.id);
         });
+      // Get text
       $.get(repo_root + '/data/' + talk_dir + '/text.md')
-        .then(loadText);
+        .then(loadText)
+        .then(function() {
+          // Get current timing information
+          $.get(repo_root + '/data/' + talk_dir + '/youtube_timing.yml')
+            .then(function(response) {
+              setTimingInfo(jsyaml.safeLoad(response));
+            });
+        })
     }
 
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: 390/2,
+          width: 640/2,
+          videoId: talk_metadata.youtube.id,
+        });
+      }
+
     function loadVideo(video_id) {
-      console.log('laoding video', video_id);
       if (!player) {
         // First time
         var tag = document.createElement('script');
         tag.src = "https://www.youtube.com/iframe_api";
-        document.body.appendChild(tag);
-        // var firstScriptTag = document.getElementsByTagName('script')[0];
-        // firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-        
-        function onYouTubeIframeAPIReady() {
-          console.log('onYouTubeIframeAPIReady');
-          player = new YT.Player('player', {
-            height: 390/2,
-            width: 640/2,
-            videoId: video_id,
-          });
-        }
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
       } else {
         // Subsequent times
         player.loadVideoById(video_id);
@@ -98,13 +102,10 @@ Save/load:
     }
 
     function togglePause() {
-      console.log('togglePause', player.getPlayerState());
       if (player.getPlayerState() !== 1) {
         player.playVideo();
-        console.log('playing');
       } else {
         player.pauseVideo();
-        console.log('pausing');
       }
     }
 
@@ -123,10 +124,24 @@ Save/load:
     var word_cursor = 0;
     var textholder = $('#text');
     function loadText(markdown) {
-      var parsed = markdown.split(/[ ]+/);
+      var parsed = markdown.split(/(\s+)/);
+      var word_counts = {};
       textholder.html('');
       for (var i = 0; i < parsed.length; i++) {
-        textholder.append('<span>' + parsed[i] + '</span> ');
+        var word = parsed[i];
+        if (/\s+/.test(word)) {
+          // whitespace
+          textholder.append(word);
+        } else {
+          // text
+          if (!word_counts[word]) {
+            word_counts[word] = 0;
+          }
+          var elem = $('<span>' + word + '</span>')
+            .data('tcite', '{' + word + '}' + word_counts[word]);
+          textholder.append(elem);
+          word_counts[word] += 1;
+        }
       }
       word_cursor = -1;
       goBackwardWords(1);
@@ -140,6 +155,9 @@ Save/load:
         word_cursor = 0;
       }
       currentWord().addClass('highlighted');
+      $('html, body').animate({
+        scrollTop: $(currentWord()).offset().top - 50
+      }, 20);
     }
     function goBackwardWords(n) {
       return goForwardWords(-n);
@@ -147,6 +165,9 @@ Save/load:
     function currentWord() {
       return $(textholder.children()[word_cursor]);
     }
+
+
+    // Scan the document and extract the timing info as an object.
     function getTimingInfo() {
       var children = textholder.children();
       var results = [];
@@ -154,35 +175,38 @@ Save/load:
         var child = $(children[i]);
         if (child.hasClass('synced')) {
           results.push({
-            'word_index': i,
-            'word': child.text(),
+            'tcite': child.data('tcite'),
             'seconds': child.attr('data-seconds'),
           })
         }
       }
       return results;
     }
+
+    // Set the timing info of the document.
     function setTimingInfo(info) {
-      $(textholder.children()).removeClass('synced').removeAttr('data-seconds');
+      var mapping = {};
       for (var i = 0; i < info.length; i++) {
-        result = info[i];
-        var child = $(textholder.children()[result['word_index']]);
-        child.addClass('synced').attr('data-seconds', result['seconds']);  
+        var result = info[i];
+        mapping[result.tcite] = result;
+        var tcite = result.tcite;
       }
+      var children = $(textholder.children());
       for (var i = 0; i < children.length; i++) {
         var child = $(children[i]);
-        if (child.hasClass('synced')) {
-          results.push({
-            'word_index': i,
-            'word': child.text(),
-            'seconds': child.attr('data-seconds'),
-          })
+        var value = mapping[child.data('tcite')];
+        if (value) {
+          child.addClass('synced')
+            .attr('data-seconds', value.seconds);
+        } else {
+          child.removeClass('synced').removeAttr('data-seconds');
         }
       }
+      return info;
     }
+
     function exportTimingInfo() {
       var timing_info = getTimingInfo();
-      console.log('timing_info', timing_info);
       $('#timing-info').val(jsyaml.safeDump(timing_info));
     }
     function importTimingInfo() {
