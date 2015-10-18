@@ -4,6 +4,25 @@
     <title>Index?</title>
 </head>
 <body>
-This is the index.  <a href="tools/timingeditor.html">Timing editor</a>
+    <ul id="listing"></ul>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/URI.js/1.16.1/URI.min.js"></script>
+
+    <script>
+    $.get('data/eng/2015-10/index.yml')
+        .then(jsyaml.safeLoad)
+        .then(function(index) {
+            console.log('index', index);
+            for (var i = 0; i < index.items.length; i++) {
+                var item = index.items[i];
+                var elem = $('<li></li>');
+                var a = $('<a></a>').text(item.title + ' - ' + item.speaker)
+                    .attr('href', 'tools/timingeditor.html?talk=/eng/2015-10/' + item.key);
+                elem.append(a);
+                $('#listing').append(elem);
+            }
+        });
+    </script>
 </body>
 </html>

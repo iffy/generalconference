@@ -19,45 +19,70 @@
     }
     #instructions {
       position: fixed;
-      top: 200px;
+      top: 210px;
       right: 10px;
       width: 300px;
-      white-space: pre;
-      font-family: monospace;
     }
     #text {
       margin-right: 350px;
       white-space: pre;
     }
+    code {
+      color: steelblue;
+      font-weight: bold;
+      font-size: 150%;
+    }
     </style>
 </head>
 <body>
-  <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+  <div id="text"></div>
   <div id="player"></div>
+
   <div id="instructions">
+
+    <p>
+      As you watch the video, move the highlighted text along by pressing <code>f</code> (and back with <code>d</code>).
+    </p>
+
+    <p>
+      Press <code>e</code> just before the speaker says the highlighted word.  You probably only need to sync the beginning of each sentence (though if you want to do more, go ahead).
+    </p>
+
+    <p>Here are all the keyboard shortcuts:</p>
+
+    <pre>
 Video:
+  i - pause/play
   j - back
   k - forward
-  i - pause/resume
 
 Text:
   f - forward (+shift to go forward a lot)
   d - backward (+shift to go back a lot)
   e - sync word with video
   c - clear word sync
+</pre>
 
-Save/load:
-  z - export
-  x - import
+  <button id="done-btn">Click this when you're done.</button>
+
+  <textarea id="timing-info" style="width: 100%;" rows="4"></textarea>
+
+  <p class=="show-if-timing-file">
+    Copy the stuff in the text box above and <a class="edit-link" target="_blank" href="">make a Pull Request to update <span class="talk-dir"></span>/youtube_timing.yml.</a>
+  </p>
+
+  <p class="hide-if-no-timing-file">
+    Copy the stuff in the text box above and <a class="new-link" target="_blank" href="">make a Pull Request to create a <code><span class="talk-dir"></span>/youtube_timing.yml</code>
+  </p>
+  
   </div>
-  <textarea id="timing-info"></textarea>
-  <div id="text"></div>
+  
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
   <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/URI.js/1.16.1/URI.min.js"></script>
   <script>
-    var player, talk_dir, talk_metadata;
+    var player, talk_dir, talk_metadata, has_timing_file;
     var repo_root = '..';
 
     function loadTalk(talk_dir) {
@@ -76,8 +101,15 @@ Save/load:
           $.get(repo_root + '/data/' + talk_dir + '/youtube_timing.yml')
             .then(function(response) {
               setTimingInfo(jsyaml.safeLoad(response));
+              has_timing_file = true;
+              $('.show-if-timing-file').show();
+              $('.hide-if-no-timing-file').hide();
+              $('.edit-link').attr('href', 'https://github.com/iffy/generalconference/edit/gh-pages/data' + talk_dir + '/youtube_timing.yml');
             });
         })
+
+      $('.talk-dir').text(talk_dir);
+      $('.new-link').attr('href', 'https://github.com/iffy/generalconference/new/gh-pages/data' + talk_dir);
     }
 
     function onYouTubeIframeAPIReady() {
@@ -156,7 +188,7 @@ Save/load:
       }
       currentWord().addClass('highlighted');
       $('html, body').animate({
-        scrollTop: $(currentWord()).offset().top - 50
+        scrollTop: $(currentWord()).offset().top - 100
       }, 20);
     }
     function goBackwardWords(n) {
@@ -214,6 +246,9 @@ Save/load:
     }
 
     // Controls
+    $('#done-btn').click(function() {
+      exportTimingInfo();
+    })
     $(window).on('keydown', function(ev) {
       // video functions
       if (ev.which === key('j')) {
@@ -241,13 +276,13 @@ Save/load:
           .removeAttr('data-seconds');
       }
 
-      // load/save functions
-      else if (ev.which === key('z')) {
-        exportTimingInfo();
-      } else if (ev.which === key('x')) {
-        importTimingInfo();
-        exportTimingInfo();
-      }
+      // // load/save functions
+      // else if (ev.which === key('z')) {
+      //   exportTimingInfo();
+      // } else if (ev.which === key('x')) {
+      //   importTimingInfo();
+      //   exportTimingInfo();
+      // }
     });
 
     var uri = new URI(window.location.href);
