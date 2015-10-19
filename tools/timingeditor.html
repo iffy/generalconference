@@ -3,6 +3,10 @@
 <head>
     <title>Timing Editor</title>
     <style type="text/css">
+    .header {
+      border-bottom: 1px solid grey;
+      padding: 3px;
+    }
     .highlighted {
       background-color: yellow;
     }
@@ -35,6 +39,16 @@
     </style>
 </head>
 <body>
+  <div class="header">
+    <p>
+      The text of this talk is &copy;2015 Intellectual Reserve, Inc.  View the <a href="" class="lds-org-link" target="_blank">original here.</a>
+    </p>
+
+    <p>
+      <a href="../">Back to index</a>
+    </p>
+  </div>
+
   <div id="text"></div>
   <div id="player"></div>
 
@@ -53,14 +67,22 @@
     <pre>
 Video:
   i - pause/play
-  j - back
-  k - forward
+  j - seek back 1s
+  k - seek forward 1s
+  l - play a burst then rewind
+  m - seek back a smidgen
+  , - seek forward a smidgen
 
 Text:
-  f - forward (+shift to go forward a lot)
-  d - backward (+shift to go back a lot)
   e - sync word with video
   c - clear word sync
+
+  f - forward (+shift to go forward a lot)
+  d - backward (+shift to go back a lot)
+
+Text + Video:
+  s - seek to next synced word
+  a - seek to prev synced word
 </pre>
 
   <button id="done-btn">Click this when you're done.</button>
@@ -92,6 +114,7 @@ Text:
         .then(function(response) {
           talk_metadata = jsyaml.safeLoad(response);
           loadVideo(talk_metadata.youtube.id);
+          $('.lds-org-link').attr('href', talk_metadata.url);
         });
       // Get text
       $.get(repo_root + '/data/' + talk_dir + '/text.md')
@@ -142,10 +165,26 @@ Text:
     }
 
     function goBack(seconds) {
-      player.seekTo(player.getCurrentTime() - seconds);
+      goForward(-seconds);
     }
     function goForward(seconds) {
-      player.seekTo(player.getCurrentTime() + seconds);
+      var newtime = player.getCurrentTime() + seconds;
+      console.log('newtime', newtime);
+      player.seekTo(newtime);
+    }
+    var _bursting = false;
+    function playBurst(milliseconds) {
+      if (_bursting) {
+        return;
+      }
+      _bursting = true;
+      var now = player.getCurrentTime();
+      player.playVideo();
+      setTimeout(function() {
+        player.pauseVideo();
+        player.seekTo(now);
+        _bursting = false;
+      }, milliseconds);
     }
 
     function key(x) {
@@ -196,6 +235,28 @@ Text:
     }
     function currentWord() {
       return $(textholder.children()[word_cursor]);
+    }
+    function nextSyncedWord() {
+      var nexts = currentWord().nextAll();
+      for (var i = 0; i < nexts.length; i++) {
+        var el = $(nexts[i]);
+        if (el.hasClass('synced')) {
+          goForwardWords(i + 1);
+          player.seekTo(currentWord().attr('data-seconds'));
+          return;
+        }
+      }
+    }
+    function prevSyncedWord() {
+      var prevs = currentWord().prevAll();
+      for (var i = 0; i < prevs.length; i++) {
+        var el = $(prevs[i]);
+        if (el.hasClass('synced')) {
+          goBackwardWords(i + 1);
+          player.seekTo(currentWord().attr('data-seconds'));
+          return;
+        }
+      }
     }
 
 
@@ -251,12 +312,20 @@ Text:
     })
     $(window).on('keydown', function(ev) {
       // video functions
+      console.log(ev.which);
+      console.log(ev);
       if (ev.which === key('j')) {
         goBack(1);
       } else if (ev.which === key('k')) {
         goForward(1);
       } else if (ev.which === key('i')) {
         togglePause();
+      } else if (ev.which === key('l')) {
+        playBurst(600);
+      } else if (ev.which === key('m')) {
+        goBack(0.05);
+      } else if (ev.which === 188) { // ,
+        goForward(0.05);
       }
 
       // text functions
@@ -274,6 +343,10 @@ Text:
         var w = currentWord();
         w.removeClass('synced')
           .removeAttr('data-seconds');
+      } else if (ev.which === key('s')) {
+        nextSyncedWord();
+      } else if (ev.which === key('a')) {
+        prevSyncedWord();
       }
 
       // // load/save functions
