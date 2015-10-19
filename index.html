@@ -1,28 +1,82 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Index?</title>
+  <title>Index?</title>
+  <style type="text/css">
+    table {
+      border-collapse: collapse;
+    }
+    td,th {
+      padding: 2px;
+      text-align: left;
+      max-width: 3in;
+      vertical-align: top;
+    }
+    tr:hover td {
+      background-color: #efefef;
+    }
+  </style>
 </head>
-<body>
-    <ul id="listing"></ul>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
-    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/URI.js/1.16.1/URI.min.js"></script>
+<body ng-app="index" ng-controller="MainCtrl as main">
+  <table>
+    <thead>
+      <tr>
+        <th>Density (anything over 6 is great)</th>
+        <th>Session</th>
+        <th>Title</th>
+        <th>Speaker</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="talk in main.talks|orderBy:['density','key']">
+        <td>{{ (talk.density * 100)|number:0 }}</td>
+        <td>{{ talk.month === 10 ? 'Oct' : 'Apr' }} {{ talk.year }} {{ talk.session_title }}</td>
+        <td><a ng-href="tools/timingeditor.html?talk=/eng/2015-10/{{ talk.key }}">{{ talk.title }}</a></td>
+        <td>{{ talk.speaker }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
 
-    <script>
-    $.get('data/eng/2015-10/index.yml')
-        .then(jsyaml.safeLoad)
-        .then(function(index) {
-            console.log('index', index);
-            for (var i = 0; i < index.items.length; i++) {
-                var item = index.items[i];
-                var elem = $('<li></li>');
-                var a = $('<a></a>').text(item.title + ' - ' + item.speaker)
-                    .attr('href', 'tools/timingeditor.html?talk=/eng/2015-10/' + item.key);
-                elem.append(a);
-                $('#listing').append(elem);
-            }
-        });
-    </script>
+  <script>
+  var app = angular.module('index', [])
+  .controller('MainCtrl', function($http) {
+    var main = this;
+    main.talks = [];
+
+    main.loadTalks = function(index_path) {
+      $http.get('data/eng' + index_path)
+        .then(function(response) {
+          var data = jsyaml.safeLoad(response.data);
+          angular.forEach(data.items, function(item) {
+            main.talks.push(item);
+            main.computeScore(item);
+          })
+        })
+    }
+
+    main.computeScore = function(item) {
+      var item_dir = 'data/eng/' + item.year + '-' + item.month + '/' + item.key
+      $http.get(item_dir + '/text.md')
+        .then(function(response) {
+          item.word_count = response.data.split(/\s+/).length;
+          $http.get(item_dir + '/youtube_timing.yml')
+          .then(function(response) {
+            item.keyframes = jsyaml.safeLoad(response.data).length;
+          }, function(err) {
+            item.keyframes = 0;
+          })
+          .then(function() {
+            item.density = item.keyframes / item.word_count;
+          })
+        })
+      
+    }
+
+    main.loadTalks('/2015-10/index.yml')
+    return main;
+  })
+  </script>
 </body>
 </html>
