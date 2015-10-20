@@ -28,3 +28,4 @@ Inside each talk directory (e.g. [`data/eng/2015-10/012-it-works-wonderfully`](d
 
 - A `metadata.yml` file with information about the talk.  [Example](data/eng/2015-10/012-it-works-wonderfully/metadata.yml)
 - A `text.md` file with the content of the talk in it. [Example](data/eng/2015-10/012-it-works-wonderfully/text.md)
+- Optionally, a `youtube_timing.yml` file information to match the text of a talk with the timing of the YouTube video.  [Example](data/eng/2015-10/012-it-works-wonderfully/youtube_timing.yml)
