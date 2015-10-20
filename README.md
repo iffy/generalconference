@@ -2,6 +2,8 @@ This is a repository of programmer-friendly versions of [General Conference](htt
 
 I made this because I often want to do programmatic things with the talks, and don't want to write the downloader/parser for every project.
 
+**Pull requests are welcome!**
+
 ## Usage ##
 
 First, clone this repo, then:

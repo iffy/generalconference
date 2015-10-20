@@ -26,6 +26,8 @@
       top: 210px;
       right: 10px;
       width: 300px;
+      max-height: 50vh;
+      overflow: auto;
     }
     #text {
       margin-right: 350px;
@@ -89,12 +91,16 @@ Text + Video:
 
   <textarea id="timing-info" style="width: 100%;" rows="4"></textarea>
 
-  <p class=="show-if-timing-file">
+  <p class="show-if-timing-file">
     Copy the stuff in the text box above and <a class="edit-link" target="_blank" href="">make a Pull Request to update <span class="talk-dir"></span>/youtube_timing.yml.</a>
   </p>
 
   <p class="hide-if-no-timing-file">
-    Copy the stuff in the text box above and <a class="new-link" target="_blank" href="">make a Pull Request to create a <code><span class="talk-dir"></span>/youtube_timing.yml</code>
+    Copy the stuff in the text box above and <a class="new-link" target="_blank" href="">make a Pull Request to create a <span class="talk-dir"></span>/youtube_timing.yml</a>
+  </p>
+
+  <p>
+    Or send an email to the Gmail address that starts with <code>haggardii</code>
   </p>
   
   </div>
@@ -117,6 +123,8 @@ Text + Video:
           $('.lds-org-link').attr('href', talk_metadata.url);
         });
       // Get text
+      $('.show-if-timing-file').hide();
+      $('.hide-if-no-timing-file').show();
       $.get(repo_root + '/data/' + talk_dir + '/text.md')
         .then(loadText)
         .then(function() {
@@ -132,7 +140,7 @@ Text + Video:
         })
 
       $('.talk-dir').text(talk_dir);
-      $('.new-link').attr('href', 'https://github.com/iffy/generalconference/new/gh-pages/data' + talk_dir);
+      $('.new-link').attr('href', 'https://github.com/iffy/generalconference/new/gh-pages/data' + talk_dir + '/youtube_timing.yml?filename=youtube_timing.yml');
     }
 
     function onYouTubeIframeAPIReady() {
@@ -169,7 +177,6 @@ Text + Video:
     }
     function goForward(seconds) {
       var newtime = player.getCurrentTime() + seconds;
-      console.log('newtime', newtime);
       player.seekTo(newtime);
     }
     var _bursting = false;
@@ -312,8 +319,6 @@ Text + Video:
     })
     $(window).on('keydown', function(ev) {
       // video functions
-      console.log(ev.which);
-      console.log(ev);
       if (ev.which === key('j')) {
         goBack(1);
       } else if (ev.which === key('k')) {
