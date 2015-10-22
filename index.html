@@ -2,90 +2,18 @@
 <html>
 <head>
   <title>General Conference Tools</title>
-  <style type="text/css">
-    table {
-      border-collapse: collapse;
-    }
-    td,th {
-      padding: 2px;
-      text-align: left;
-      max-width: 3in;
-      vertical-align: top;
-    }
-    tr:hover td {
-      background-color: #efefef;
-    }
-  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
 </head>
-<body ng-app="index" ng-controller="MainCtrl as main">
+<body>
+  <div class="container">
 
-  <p>
-    Following is a list of the talks from the October 2015 General Conference of The Church of Jesus Christ of Latter-day Saints.  We're trying to sync up the published text with the published videos.  All data is stored on <a href="https://github.com/iffy/generalconference">github.com/iffy/generalconference</a>.
-  </p>
-
-  <p>
-    If you want to help, click through to one of the talks, and tag the text as you watch it.  Then make a pull request or send an email with the resulting tags.  <strong>Try to pick a random talk</strong> so you don't pick the same one as someone else.
-  </p>
-
-  <table>
-    <thead>
-      <tr>
-        <th>Tagged density (anything over 6 is great)</th>
-        <th>Session</th>
-        <th>Title</th>
-        <th>Speaker</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr ng-repeat="talk in main.talks|orderBy:['density','key']">
-        <td>{{ (talk.density * 100)|number:0 }}</td>
-        <td>{{ talk.month === 10 ? 'Oct' : 'Apr' }} {{ talk.year }} {{ talk.session_title }}</td>
-        <td><a ng-href="tools/timingeditor.html?talk=/eng/2015-10/{{ talk.key }}">{{ talk.title }}</a></td>
-        <td>{{ talk.speaker }}</td>
-      </tr>
-    </tbody>
-  </table>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
-
-  <script>
-  var app = angular.module('index', [])
-  .controller('MainCtrl', function($http) {
-    var main = this;
-    main.talks = [];
-
-    main.loadTalks = function(index_path) {
-      $http.get('data/eng' + index_path)
-        .then(function(response) {
-          var data = jsyaml.safeLoad(response.data);
-          angular.forEach(data.items, function(item) {
-            main.talks.push(item);
-            main.computeScore(item);
-          })
-        })
-    }
-
-    main.computeScore = function(item) {
-      var item_dir = 'data/eng/' + item.year + '-' + item.month + '/' + item.key
-      $http.get(item_dir + '/text.md')
-        .then(function(response) {
-          item.word_count = response.data.split(/\s+/).length;
-          $http.get(item_dir + '/youtube_timing.yml')
-          .then(function(response) {
-            item.keyframes = jsyaml.safeLoad(response.data).length;
-          }, function(err) {
-            item.keyframes = 0;
-          })
-          .then(function() {
-            item.density = item.keyframes / item.word_count;
-          })
-        })
-      
-    }
-
-    main.loadTalks('/2015-10/index.yml')
-    return main;
-  })
-  </script>
+    <div class="row">
+      <h1>General Conference Tools</h1>
+      <ul>
+        <li>Get audio/video snippets from the text with the <a href="tools/quotes.html">General Conference Quote Maker</a></li>
+        <li><a href="tools/timingeditorindex.html">Help tag videos</a> so that the Quote Maker will work.</li>
+      </ul>
+    </div>
+  </div>
 </body>
 </html>

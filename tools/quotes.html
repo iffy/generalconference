@@ -29,9 +29,27 @@
   <div class="container">
     <h1>General Conference Quote Maker</h1>
 
+    <p>
+      <ol>
+        <li>Choose a conference talk.</li>
+        <li>Click on the portion of text you want a video for.</li>
+        <li>Click on the YouTube link that appears.</li>
+      </ol>
+    </p>
+
     <!-- chooser -->
     <div class="row">
       <div class="one-half column">
+
+        <div ng-if="ctrl.no_timing_info.length">
+          <p>
+            <b>No one has tagged these yet.</b>  If you have time to watch the whole talk, you could help make the talk useable in this tool.  Click the link below to give it a shot.</p>
+          <ul>
+            <li ng-repeat="talk in ctrl.no_timing_info">
+              <a href="./timingeditor.html?talk=/eng/{{ talk.metadata.year }}-{{ talk.metadata.month }}/{{ talk.metadata.key }}">{{ talk.metadata.title }}</a>
+            </li>
+          </ul>
+        </div>
 
         <form ng-submit="ctrl.addQuote()">
           

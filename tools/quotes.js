@@ -116,6 +116,7 @@ angular.module('gc.quotes', [])
 .controller('QuotesCtrl', function($sce, Server, splitByTiming) {
   var ctrl = this;
   ctrl.quotes = [];
+  ctrl.no_timing_info = [];
   ctrl.server = Server;
 
   ctrl.chooseTalk = function(talk) {
@@ -126,6 +127,7 @@ angular.module('gc.quotes', [])
         info.streams = splitByTiming(info);
         ctrl.quotes.push(info);
       } else {
+        ctrl.no_timing_info.push(info);
         // no timing info yet
       }
     })
