@@ -91,6 +91,7 @@ angular.module('gc.quotes', [])
           word_counts[word] = 0;
         }
         var tcite = '{' + word + '}' + word_counts[word];
+        word_counts[word] += 1;
         var timing = timing_by_tcite[tcite];
         if (timing) {
           // new keyframe
