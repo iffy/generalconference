@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>General Conference Quotes</title>
+  <style>
+  .talk {
+
+  }
+  .talk .speaker,
+  .talk .title {
+    display: inline;
+  }
+  .markdown {
+    white-space: pre;
+  }
+  .markdown .section:hover {
+    background-color: yellow;
+  }
+  .markdown .section.used {
+    background-color: orange;
+  }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+</head>
+<body ng-app="gc.quotes" ng-controller="QuotesCtrl as ctrl">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+  <script src="quotes.js"></script>
+  <div class="container">
+    <h1>General Conference Quote Maker</h1>
+
+    <!-- chooser -->
+    <div class="row">
+      <div class="one-half column">
+
+        <form ng-submit="ctrl.addQuote()">
+          
+          <label for="conference">Conference</label>
+          <select class="u-full-width" id="conference" ng-model="ctrl.add_conference" ng-options="conf as (conf.year+'/'+conf.month) for conf in ctrl.server.conferences">
+          </select>
+
+          <div class="talks">
+            <div class="talk" ng-repeat="talk in ctrl.add_conference.talk_list">
+              <div class="speaker">{{ talk.speaker }}</div>
+              <div class="title"><a href="" ng-click="ctrl.chooseTalk(talk); ctrl.add_conference=null;">{{ talk.title }}</a></div>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="one-half column"></div>
+    </div>
+
+    <!-- talks -->
+    <div class="row" ng-repeat="quote in ctrl.quotes">
+      <div class="two-thirds column">
+        <div class="markdown"><span class="section" ng-repeat="stream in quote.streams" ng-click="ctrl.toggleStream(quote, stream)" ng-class="{used: stream.used}">{{ stream.text }}</span></div>
+      </div>
+      <div class="one-third column">
+        <div class="video" ng-repeat="range in quote.ranges">
+          {{ range }}
+          <a href="{{ range[2] }}" target="_blank">{{ range[2] }}</a>
+          <!-- <iframe id="ytplayer" type="text/html" width="320" height="240" ng-src="range[2]" frameborder="0"/> -->
+        </div>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>
