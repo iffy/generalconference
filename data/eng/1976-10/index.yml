@@ -1,0 +1,576 @@
+items:
+- article_id: '03076_000_003'
+  item: '000'
+  key: 000-a-report-and-a-challenge
+  month: 10
+  session_id: friday-morning
+  session_title: Friday Morning Session
+  slug: a-report-and-a-challenge
+  speaker: Spencer W. Kimball
+  title: A Report and a Challenge
+  url: https://www.lds.org/general-conference/1976/10/a-report-and-a-challenge?lang=eng
+  year: 1976
+- article_id: '03076_000_004'
+  item: '001'
+  key: 001-the-reconstitution-of-the-first-quorum-of-the-seventy
+  month: 10
+  session_id: friday-morning
+  session_title: Friday Morning Session
+  slug: the-reconstitution-of-the-first-quorum-of-the-seventy
+  speaker: Spencer W. Kimball
+  title: The Reconstitution of the First Quorum of the Seventy
+  url: https://www.lds.org/general-conference/1976/10/the-reconstitution-of-the-first-quorum-of-the-seventy?lang=eng
+  year: 1976
+- article_id: '03076_000_005'
+  item: '002'
+  key: 002-the-sustaining-of-church-officers
+  month: 10
+  session_id: friday-morning
+  session_title: Friday Morning Session
+  slug: the-sustaining-of-church-officers
+  speaker: N. Eldon Tanner
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/1976/10/the-sustaining-of-church-officers?lang=eng
+  year: 1976
+- article_id: '03076_000_006'
+  item: '003'
+  key: 003-i-am-the-vine-ye-are-the-branches
+  month: 10
+  session_id: friday-morning
+  session_title: Friday Morning Session
+  slug: i-am-the-vine-ye-are-the-branches
+  speaker: Dean L. Larsen
+  title: "\u201CI Am the Vine, Ye Are the Branches\u201D"
+  url: https://www.lds.org/general-conference/1976/10/i-am-the-vine-ye-are-the-branches?lang=eng
+  year: 1976
+- article_id: '03076_000_007'
+  item: '004'
+  key: 004-notwithstanding-my-weakness
+  month: 10
+  session_id: friday-morning
+  session_title: Friday Morning Session
+  slug: notwithstanding-my-weakness
+  speaker: Neal A. Maxwell
+  title: Notwithstanding My Weakness
+  url: https://www.lds.org/general-conference/1976/10/notwithstanding-my-weakness?lang=eng
+  year: 1976
+- article_id: 03076_000_008
+  item: '005'
+  key: 005-perfecting-the-saints
+  month: 10
+  session_id: friday-morning
+  session_title: Friday Morning Session
+  slug: perfecting-the-saints
+  speaker: Franklin D. Richards
+  title: Perfecting the Saints
+  url: https://www.lds.org/general-conference/1976/10/perfecting-the-saints?lang=eng
+  year: 1976
+- article_id: 03076_000_009
+  item: '006'
+  key: 006-the-temptations-of-christ
+  month: 10
+  session_id: friday-morning
+  session_title: Friday Morning Session
+  slug: the-temptations-of-christ
+  speaker: Howard W. Hunter
+  title: The Temptations of Christ
+  url: https://www.lds.org/general-conference/1976/10/the-temptations-of-christ?lang=eng
+  year: 1976
+- article_id: '03076_000_010'
+  item: '007'
+  key: 007-families-are-forever
+  month: 10
+  session_id: friday-afternoon
+  session_title: Friday Afternoon Session
+  slug: families-are-forever
+  speaker: David B. Haight
+  title: Families Are Forever
+  url: https://www.lds.org/general-conference/1976/10/families-are-forever?lang=eng
+  year: 1976
+- article_id: '03076_000_011'
+  item: 008
+  key: 008-extending-missionary-service
+  month: 10
+  session_id: friday-afternoon
+  session_title: Friday Afternoon Session
+  slug: extending-missionary-service
+  speaker: A. Theodore Tuttle
+  title: Extending Missionary Service
+  url: https://www.lds.org/general-conference/1976/10/extending-missionary-service?lang=eng
+  year: 1976
+- article_id: '03076_000_012'
+  item: 009
+  key: 009-the-lord-offers-everyone-a-way-back-from-sin
+  month: 10
+  session_id: friday-afternoon
+  session_title: Friday Afternoon Session
+  slug: the-lord-offers-everyone-a-way-back-from-sin
+  speaker: Robert D. Hales
+  title: The Lord Offers Everyone a Way Back from Sin
+  url: https://www.lds.org/general-conference/1976/10/the-lord-offers-everyone-a-way-back-from-sin?lang=eng
+  year: 1976
+- article_id: '03076_000_013'
+  item: '010'
+  key: 010-dikes-versus-living-water
+  month: 10
+  session_id: friday-afternoon
+  session_title: Friday Afternoon Session
+  slug: dikes-versus-living-water
+  speaker: Joseph B. Wirthlin
+  title: Dikes versus Living Water
+  url: https://www.lds.org/general-conference/1976/10/dikes-versus-living-water?lang=eng
+  year: 1976
+- article_id: '03076_000_014'
+  item: '011'
+  key: 011-our-goal-is-perfection
+  month: 10
+  session_id: friday-afternoon
+  session_title: Friday Afternoon Session
+  slug: our-goal-is-perfection
+  speaker: William H. Bennett
+  title: Our Goal Is Perfection
+  url: https://www.lds.org/general-conference/1976/10/our-goal-is-perfection?lang=eng
+  year: 1976
+- article_id: '03076_000_015'
+  item: '012'
+  key: 012-more-joy-and-rejoicing
+  month: 10
+  session_id: friday-afternoon
+  session_title: Friday Afternoon Session
+  slug: more-joy-and-rejoicing
+  speaker: Marion D. Hanks
+  title: More Joy and Rejoicing
+  url: https://www.lds.org/general-conference/1976/10/more-joy-and-rejoicing?lang=eng
+  year: 1976
+- article_id: '03076_000_016'
+  item: '013'
+  key: 013-our-priceless-heritage
+  month: 10
+  session_id: friday-afternoon
+  session_title: Friday Afternoon Session
+  slug: our-priceless-heritage
+  speaker: Ezra Taft Benson
+  title: Our Priceless Heritage
+  url: https://www.lds.org/general-conference/1976/10/our-priceless-heritage?lang=eng
+  year: 1976
+- article_id: '03076_000_017'
+  item: '014'
+  key: 014-we-believe-in-being-honest
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: we-believe-in-being-honest
+  speaker: Marion G. Romney
+  title: "\u201CWe Believe in Being Honest\u201D"
+  url: https://www.lds.org/general-conference/1976/10/we-believe-in-being-honest?lang=eng
+  year: 1976
+- article_id: 03076_000_018
+  item: '015'
+  key: 015-a-report-on-the-churchs-participation-in-americas-bicentennial-celebration
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: a-report-on-the-churchs-participation-in-americas-bicentennial-celebration
+  speaker: L. Tom Perry
+  title: "A Report on the Church\u2019s Participation in America\u2019s Bicentennial\
+    \ Celebration"
+  url: https://www.lds.org/general-conference/1976/10/a-report-on-the-churchs-participation-in-americas-bicentennial-celebration?lang=eng
+  year: 1976
+- article_id: 03076_000_019
+  item: '016'
+  key: 016-the-spirit-of-missionary-work
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-spirit-of-missionary-work
+  speaker: Carlos E. Asay
+  title: The Spirit of Missionary Work
+  url: https://www.lds.org/general-conference/1976/10/the-spirit-of-missionary-work?lang=eng
+  year: 1976
+- article_id: '03076_000_020'
+  item: '017'
+  key: 017-there-is-the-light
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: there-is-the-light
+  speaker: John H. Groberg
+  title: "\u201CThere Is the Light\u201D"
+  url: https://www.lds.org/general-conference/1976/10/there-is-the-light?lang=eng
+  year: 1976
+- article_id: '03076_000_021'
+  item: 018
+  key: 018-to-die-well
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: to-die-well
+  speaker: Sterling W. Sill
+  title: To Die Well
+  url: https://www.lds.org/general-conference/1976/10/to-die-well?lang=eng
+  year: 1976
+- article_id: '03076_000_022'
+  item: 019
+  key: 019-the-savor-of-men
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-savor-of-men
+  speaker: Mark E. Petersen
+  title: The Savor of Men
+  url: https://www.lds.org/general-conference/1976/10/the-savor-of-men?lang=eng
+  year: 1976
+- article_id: '03076_000_023'
+  item: '020'
+  key: 020-which-road-will-you-travel
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: which-road-will-you-travel
+  speaker: Thomas S. Monson
+  title: Which Road Will You Travel?
+  url: https://www.lds.org/general-conference/1976/10/which-road-will-you-travel?lang=eng
+  year: 1976
+- article_id: '03076_000_024'
+  item: '021'
+  key: 021-follow-it
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: follow-it
+  speaker: Paul H. Dunn
+  title: "\u201CFollow It!\u201D"
+  url: https://www.lds.org/general-conference/1976/10/follow-it?lang=eng
+  year: 1976
+- article_id: '03076_000_025'
+  item: '022'
+  key: 022-you-never-know-who-you-may-save
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: you-never-know-who-you-may-save
+  speaker: Jacob de Jager
+  title: You Never Know Who You May Save
+  url: https://www.lds.org/general-conference/1976/10/you-never-know-who-you-may-save?lang=eng
+  year: 1976
+- article_id: '03076_000_026'
+  item: '023'
+  key: 023-a-personal-relationship-with-the-savior
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: a-personal-relationship-with-the-savior
+  speaker: James E. Faust
+  title: A Personal Relationship with the Savior
+  url: https://www.lds.org/general-conference/1976/10/a-personal-relationship-with-the-savior?lang=eng
+  year: 1976
+- article_id: '03076_000_027'
+  item: '024'
+  key: 024-parenthood
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: parenthood
+  speaker: O. Leslie Stone
+  title: Parenthood
+  url: https://www.lds.org/general-conference/1976/10/parenthood?lang=eng
+  year: 1976
+- article_id: 03076_000_028
+  item: '025'
+  key: 025-search-the-scriptures
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: search-the-scriptures
+  speaker: Henry D. Taylor
+  title: Search the Scriptures
+  url: https://www.lds.org/general-conference/1976/10/search-the-scriptures?lang=eng
+  year: 1976
+- article_id: 03076_000_029
+  item: '026'
+  key: 026-the-simplicity-in-christ
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-simplicity-in-christ
+  speaker: Elder LeGrand Richards
+  title: The Simplicity in Christ
+  url: https://www.lds.org/general-conference/1976/10/the-simplicity-in-christ?lang=eng
+  year: 1976
+- article_id: '03076_000_030'
+  item: 028
+  key: 028-the-living-prophet
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-living-prophet
+  speaker: Rex D. Pinegar
+  title: The Living Prophet
+  url: https://www.lds.org/general-conference/1976/10/the-living-prophet?lang=eng
+  year: 1976
+- article_id: '03076_000_031'
+  item: 029
+  key: 029-your-gift-from-god
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: your-gift-from-god
+  speaker: Marion G. Romney
+  title: Your Gift from God
+  url: https://www.lds.org/general-conference/1976/10/your-gift-from-god?lang=eng
+  year: 1976
+- article_id: '03076_000_032'
+  item: '030'
+  key: 030-ready-to-work-long-hours
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: ready-to-work-long-hours
+  speaker: N. Eldon Tanner
+  title: Ready to Work Long Hours
+  url: https://www.lds.org/general-conference/1976/10/ready-to-work-long-hours?lang=eng
+  year: 1976
+- article_id: '03076_000_033'
+  item: '031'
+  key: 031-our-own-liahona
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: our-own-liahona
+  speaker: Spencer W. Kimball
+  title: Our Own Liahona
+  url: https://www.lds.org/general-conference/1976/10/our-own-liahona?lang=eng
+  year: 1976
+- article_id: '03076_000_034'
+  item: '032'
+  key: 032-the-purpose-of-conferences
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-purpose-of-conferences
+  speaker: N. Eldon Tanner
+  title: The Purpose of Conferences
+  url: https://www.lds.org/general-conference/1976/10/the-purpose-of-conferences?lang=eng
+  year: 1976
+- article_id: '03076_000_035'
+  item: '033'
+  key: 033-proper-self-management
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: proper-self-management
+  speaker: Marvin J. Ashton
+  title: Proper Self-management
+  url: https://www.lds.org/general-conference/1976/10/proper-self-management?lang=eng
+  year: 1976
+- article_id: '03076_000_036'
+  item: '034'
+  key: 034-the-making-of-a-missionary
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-making-of-a-missionary
+  speaker: Russell Ballard, Jr.
+  title: The Making of a Missionary
+  url: https://www.lds.org/general-conference/1976/10/the-making-of-a-missionary?lang=eng
+  year: 1976
+- article_id: '03076_000_037'
+  item: '035'
+  key: 035-we-are-a-covenant-making-people
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: we-are-a-covenant-making-people
+  speaker: Elder Joseph Anderson
+  title: We Are a Covenant-making People
+  url: https://www.lds.org/general-conference/1976/10/we-are-a-covenant-making-people?lang=eng
+  year: 1976
+- article_id: 03076_000_038
+  item: '036'
+  key: 036-teachings-of-the-apostle-paul
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: teachings-of-the-apostle-paul
+  speaker: Delbert L. Stapley
+  title: Teachings of the Apostle Paul
+  url: https://www.lds.org/general-conference/1976/10/teachings-of-the-apostle-paul?lang=eng
+  year: 1976
+- article_id: 03076_000_039
+  item: '037'
+  key: 037-everything-to-gain-nothing-to-lose
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: everything-to-gain-nothing-to-lose
+  speaker: Gordon B. Hinckley
+  title: "Everything to Gain\u2014Nothing to Lose"
+  url: https://www.lds.org/general-conference/1976/10/everything-to-gain-nothing-to-lose?lang=eng
+  year: 1976
+- article_id: '03076_000_040'
+  item: 038
+  key: 038-a-gospel-of-conversion
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: a-gospel-of-conversion
+  speaker: Hartman Rector, Jr.
+  title: A Gospel of Conversion
+  url: https://www.lds.org/general-conference/1976/10/a-gospel-of-conversion?lang=eng
+  year: 1976
+- article_id: '03076_000_041'
+  item: 039
+  key: 039-the-lords-support-system
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-lords-support-system
+  speaker: Robert L. Simpson
+  title: "The Lord\u2019s Support System"
+  url: https://www.lds.org/general-conference/1976/10/the-lords-support-system?lang=eng
+  year: 1976
+- article_id: '03076_000_042'
+  item: '040'
+  key: 040-i-have-gained
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: i-have-gained
+  speaker: S. Dilworth Young
+  title: "\u201CI Have Gained\u201D"
+  url: https://www.lds.org/general-conference/1976/10/i-have-gained?lang=eng
+  year: 1976
+- article_id: '03076_000_043'
+  item: '041'
+  key: 041-the-impact-teacher
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-impact-teacher
+  speaker: Vaughn J. Featherstone
+  title: The Impact Teacher
+  url: https://www.lds.org/general-conference/1976/10/the-impact-teacher?lang=eng
+  year: 1976
+- article_id: '03076_000_044'
+  item: '042'
+  key: 042-the-dead-who-die-in-the-lord
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-dead-who-die-in-the-lord
+  speaker: Bruce R. McConkie
+  title: The Dead Who Die in the Lord
+  url: https://www.lds.org/general-conference/1976/10/the-dead-who-die-in-the-lord?lang=eng
+  year: 1976
+- article_id: '03076_000_045'
+  item: '043'
+  key: 043-the-greatest-thing-in-my-life
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-greatest-thing-in-my-life
+  speaker: Robert E. Wells
+  title: The Greatest Thing in My Life
+  url: https://www.lds.org/general-conference/1976/10/the-greatest-thing-in-my-life?lang=eng
+  year: 1976
+- article_id: '03076_000_046'
+  item: '044'
+  key: 044-i-will-never-be-the-same-again
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: i-will-never-be-the-same-again
+  speaker: J. Richard Clarke
+  title: "\u201CI Will Never Be the Same Again\u201D"
+  url: https://www.lds.org/general-conference/1976/10/i-will-never-be-the-same-again?lang=eng
+  year: 1976
+- article_id: '03076_000_047'
+  item: '045'
+  key: 045-a-program-for-man
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: a-program-for-man
+  speaker: Spencer W. Kimball
+  title: A Program for Man
+  url: https://www.lds.org/general-conference/1976/10/a-program-for-man?lang=eng
+  year: 1976
+- article_id: 03076_000_048
+  item: '046'
+  key: 046-welfare-services-essentials-the-bishops-storehouse
+  month: 10
+  session_id: welfare
+  session_title: Welfare Services Session
+  slug: welfare-services-essentials-the-bishops-storehouse
+  speaker: Victor L. Brown
+  title: 'Welfare Services Essentials: The Bishops Storehouse'
+  url: https://www.lds.org/general-conference/1976/10/welfare-services-essentials-the-bishops-storehouse?lang=eng
+  year: 1976
+- article_id: 03076_000_049
+  item: '047'
+  key: 047-acquiring-and-managing-production-projects
+  month: 10
+  session_id: welfare
+  session_title: Welfare Services Session
+  slug: acquiring-and-managing-production-projects
+  speaker: H. Burke Peterson
+  title: Acquiring and Managing Production Projects
+  url: https://www.lds.org/general-conference/1976/10/acquiring-and-managing-production-projects?lang=eng
+  year: 1976
+- article_id: '03076_000_050'
+  item: 048
+  key: 048-principles-of-welfare
+  month: 10
+  session_id: welfare
+  session_title: Welfare Services Session
+  slug: principles-of-welfare
+  speaker: Vaughn J. Featherstone
+  title: Principles of Welfare
+  url: https://www.lds.org/general-conference/1976/10/principles-of-welfare?lang=eng
+  year: 1976
+- article_id: '03076_000_051'
+  item: 049
+  key: 049-she-is-not-afraid-of-the-snow-for-her-household
+  month: 10
+  session_id: welfare
+  session_title: Welfare Services Session
+  slug: she-is-not-afraid-of-the-snow-for-her-household
+  speaker: Barbara B. Smith
+  title: "\u201CShe Is Not Afraid of the Snow for Her Household \u2026\u201D"
+  url: https://www.lds.org/general-conference/1976/10/she-is-not-afraid-of-the-snow-for-her-household?lang=eng
+  year: 1976
+- article_id: '03076_000_052'
+  item: '050'
+  key: 050-in-mine-own-way
+  month: 10
+  session_id: welfare
+  session_title: Welfare Services Session
+  slug: in-mine-own-way
+  speaker: Marion G. Romney
+  title: "\u201CIn Mine Own Way\u201D"
+  url: https://www.lds.org/general-conference/1976/10/in-mine-own-way?lang=eng
+  year: 1976
+- article_id: '03076_000_053'
+  item: '051'
+  key: 051-go-and-do-the-work
+  month: 10
+  session_id: welfare
+  session_title: Welfare Services Session
+  slug: go-and-do-the-work
+  speaker: N. Eldon Tanner
+  title: Go and Do the Work
+  url: https://www.lds.org/general-conference/1976/10/go-and-do-the-work?lang=eng
+  year: 1976
+- article_id: '03076_000_054'
+  item: '052'
+  key: 052-loving-one-another
+  month: 10
+  session_id: welfare
+  session_title: Welfare Services Session
+  slug: loving-one-another
+  speaker: Spencer W. Kimball
+  title: Loving One Another
+  url: https://www.lds.org/general-conference/1976/10/loving-one-another?lang=eng
+  year: 1976
+month: 10
+year: 1976

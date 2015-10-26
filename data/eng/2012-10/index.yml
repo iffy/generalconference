@@ -1,0 +1,432 @@
+items:
+- article_id: 10491_000_11monson
+  item: '002'
+  key: 002-welcome-to-conference
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: welcome-to-conference
+  speaker: "By President Thomas\_S. Monson"
+  title: Welcome to Conference
+  url: https://www.lds.org/general-conference/2012/10/welcome-to-conference?lang=eng
+  year: 2012
+- article_id: 10491_000_12cook
+  item: '004'
+  key: 004-can-ye-feel-so-now
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: can-ye-feel-so-now
+  speaker: "By Elder Quentin\_L. Cook"
+  title: Can Ye Feel So Now?
+  url: https://www.lds.org/general-conference/2012/10/can-ye-feel-so-now?lang=eng
+  year: 2012
+- article_id: 10491_000_13dibb
+  item: '005'
+  key: 005-i-know-it-i-live-it-i-love-it
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: i-know-it-i-live-it-i-love-it
+  speaker: "By Ann\_M. Dibb"
+  title: I Know It. I Live It. I Love It.
+  url: https://www.lds.org/general-conference/2012/10/i-know-it-i-live-it-i-love-it?lang=eng
+  year: 2012
+- article_id: 10491_000_14christensen
+  item: '006'
+  key: 006-an-unspeakable-gift-from-god
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: an-unspeakable-gift-from-god
+  speaker: "By Elder Craig\_C. Christensen"
+  title: An Unspeakable Gift from God
+  url: https://www.lds.org/general-conference/2012/10/an-unspeakable-gift-from-god?lang=eng
+  year: 2012
+- article_id: 10491_000_15bowen
+  item: 008
+  key: 008-because-i-live-ye-shall-live-also
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: because-i-live-ye-shall-live-also
+  speaker: "By Elder Shayne\_M. Bowen"
+  title: "\u201CBecause I Live, Ye Shall Live Also\u201D"
+  url: https://www.lds.org/general-conference/2012/10/because-i-live-ye-shall-live-also?lang=eng
+  year: 2012
+- article_id: 10491_000_16nelson
+  item: 009
+  key: 009-ask-the-missionaries-they-can-help-you
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: ask-the-missionaries-they-can-help-you
+  speaker: "By Elder Russell\_M. Nelson"
+  title: Ask the Missionaries! They Can Help You!
+  url: https://www.lds.org/general-conference/2012/10/ask-the-missionaries-they-can-help-you?lang=eng
+  year: 2012
+- article_id: 10491_000_17uchtdorf
+  item: '011'
+  key: 011-of-regrets-and-resolutions
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: of-regrets-and-resolutions
+  speaker: "By President Dieter\_F. Uchtdorf"
+  title: Of Regrets and Resolutions
+  url: https://www.lds.org/general-conference/2012/10/of-regrets-and-resolutions?lang=eng
+  year: 2012
+- article_id: 10491_000_21eyring
+  item: '015'
+  key: 015-the-sustaining-of-church-officers
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-sustaining-of-church-officers
+  speaker: "Presented by President Henry\_B. Eyring"
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/2012/10/the-sustaining-of-church-officers?lang=eng
+  year: 2012
+- article_id: 10491_000_22perry
+  item: '016'
+  key: 016-becoming-goodly-parents
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: becoming-goodly-parents
+  speaker: "By Elder L.\_Tom Perry"
+  title: Becoming Goodly Parents
+  url: https://www.lds.org/general-conference/2012/10/becoming-goodly-parents?lang=eng
+  year: 2012
+- article_id: 10491_000_23ballard
+  item: '017'
+  key: 017-be-anxiously-engaged
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: be-anxiously-engaged
+  speaker: "By Elder M.\_Russell Ballard"
+  title: Be Anxiously Engaged
+  url: https://www.lds.org/general-conference/2012/10/be-anxiously-engaged?lang=eng
+  year: 2012
+- article_id: 10491_000_24hawk
+  item: 018
+  key: 018-come-unto-me-o-ye-house-of-israel
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: come-unto-me-o-ye-house-of-israel
+  speaker: "By Elder Larry Echo\_Hawk"
+  title: "\u201CCome unto Me, O Ye House of Israel\u201D"
+  url: https://www.lds.org/general-conference/2012/10/come-unto-me-o-ye-house-of-israel?lang=eng
+  year: 2012
+- article_id: 10491_000_25gay
+  item: '020'
+  key: 020-what-shall-a-man-give-in-exchange-for-his-soul
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: what-shall-a-man-give-in-exchange-for-his-soul
+  speaker: "By Elder Robert\_C. Gay"
+  title: What Shall a Man Give in Exchange for His Soul?
+  url: https://www.lds.org/general-conference/2012/10/what-shall-a-man-give-in-exchange-for-his-soul?lang=eng
+  year: 2012
+- article_id: 10491_000_26whiting
+  item: '021'
+  key: 021-temple-standard
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: temple-standard
+  speaker: "By Elder Scott\_D. Whiting"
+  title: Temple Standard
+  url: https://www.lds.org/general-conference/2012/10/temple-standard?lang=eng
+  year: 2012
+- article_id: 10491_000_27andersen
+  item: '022'
+  key: 022-trial-of-your-faith
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: trial-of-your-faith
+  speaker: "By Elder Neil\_L. Andersen"
+  title: Trial of Your Faith
+  url: https://www.lds.org/general-conference/2012/10/trial-of-your-faith?lang=eng
+  year: 2012
+- article_id: 10491_000_28oaks
+  item: '023'
+  key: 023-protect-the-children
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: protect-the-children
+  speaker: "By Elder Dallin\_H. Oaks"
+  title: Protect the Children
+  url: https://www.lds.org/general-conference/2012/10/protect-the-children?lang=eng
+  year: 2012
+- article_id: 10491_000_31christofferson
+  item: '027'
+  key: 027-brethren-we-have-work-to-do
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: brethren-we-have-work-to-do
+  speaker: "By Elder D.\_Todd Christofferson"
+  title: Brethren, We Have Work to Do
+  url: https://www.lds.org/general-conference/2012/10/brethren-we-have-work-to-do?lang=eng
+  year: 2012
+- article_id: 10491_000_32stevenson
+  item: 028
+  key: 028-be-valiant-in-courage-strength-and-activity
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: be-valiant-in-courage-strength-and-activity
+  speaker: "By Bishop Gary\_E. Stevenson"
+  title: Be Valiant in Courage, Strength, and Activity
+  url: https://www.lds.org/general-conference/2012/10/be-valiant-in-courage-strength-and-activity?lang=eng
+  year: 2012
+- article_id: 10491_000_33perkins
+  item: 029
+  key: 029-beware-concerning-yourselves
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: beware-concerning-yourselves
+  speaker: "By Elder Anthony\_D. Perkins"
+  title: Beware Concerning Yourselves
+  url: https://www.lds.org/general-conference/2012/10/beware-concerning-yourselves?lang=eng
+  year: 2012
+- article_id: 10491_000_34uchtdorf
+  item: '031'
+  key: 031-the-joy-of-the-priesthood
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-joy-of-the-priesthood
+  speaker: "By President Dieter\_F. Uchtdorf"
+  title: The Joy of the Priesthood
+  url: https://www.lds.org/general-conference/2012/10/the-joy-of-the-priesthood?lang=eng
+  year: 2012
+- article_id: 10491_000_35eyring
+  item: '032'
+  key: 032-help-them-aim-high
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: help-them-aim-high
+  speaker: "By President Henry\_B. Eyring"
+  title: Help Them Aim High
+  url: https://www.lds.org/general-conference/2012/10/help-them-aim-high?lang=eng
+  year: 2012
+- article_id: 10491_000_36monson
+  item: '033'
+  key: 033-see-others-as-they-may-become
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: see-others-as-they-may-become
+  speaker: "By President Thomas\_S. Monson"
+  title: See Others as They May Become
+  url: https://www.lds.org/general-conference/2012/10/see-others-as-they-may-become?lang=eng
+  year: 2012
+- article_id: 10491_000_41eyring
+  item: '037'
+  key: 037-where-is-the-pavilion
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: where-is-the-pavilion
+  speaker: "By President Henry\_B. Eyring"
+  title: Where Is the Pavilion?
+  url: https://www.lds.org/general-conference/2012/10/where-is-the-pavilion?lang=eng
+  year: 2012
+- article_id: 10491_000_42packer
+  item: 038
+  key: 038-the-atonement
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-atonement
+  speaker: "By President Boyd\_K. Packer"
+  title: The Atonement
+  url: https://www.lds.org/general-conference/2012/10/the-atonement?lang=eng
+  year: 2012
+- article_id: 10491_000_43burton
+  item: '040'
+  key: 040-first-observe-then-serve
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: first-observe-then-serve
+  speaker: "By Linda\_K. Burton"
+  title: First Observe, Then Serve
+  url: https://www.lds.org/general-conference/2012/10/first-observe-then-serve?lang=eng
+  year: 2012
+- article_id: 10491_000_44gonzalez
+  item: '042'
+  key: 042-learning-with-our-hearts
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: learning-with-our-hearts
+  speaker: "By Elder Walter\_F. Gonz\xE1lez"
+  title: Learning with Our Hearts
+  url: https://www.lds.org/general-conference/2012/10/learning-with-our-hearts?lang=eng
+  year: 2012
+- article_id: 10491_000_45holland
+  item: '043'
+  key: 043-the-first-great-commandment
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-first-great-commandment
+  speaker: "By Elder Jeffrey\_R. Holland"
+  title: The First Great Commandment
+  url: https://www.lds.org/general-conference/2012/10/the-first-great-commandment?lang=eng
+  year: 2012
+- article_id: 10491_000_46monson
+  item: '045'
+  key: 045-consider-the-blessings
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: consider-the-blessings
+  speaker: "By President Thomas\_S. Monson"
+  title: Consider the Blessings
+  url: https://www.lds.org/general-conference/2012/10/consider-the-blessings?lang=eng
+  year: 2012
+- article_id: 10491_000_51hales
+  item: 049
+  key: 049-being-a-more-christian-christian
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: being-a-more-christian-christian
+  speaker: "By Elder Robert\_D. Hales"
+  title: Being a More Christian Christian
+  url: https://www.lds.org/general-conference/2012/10/being-a-more-christian-christian?lang=eng
+  year: 2012
+- article_id: 10491_000_52scott
+  item: '050'
+  key: 050-the-joy-of-redeeming-the-dead
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-joy-of-redeeming-the-dead
+  speaker: "By Elder Richard\_G. Scott"
+  title: The Joy of Redeeming the Dead
+  url: https://www.lds.org/general-conference/2012/10/the-joy-of-redeeming-the-dead?lang=eng
+  year: 2012
+- article_id: 10491_000_53osguthorpe
+  item: '051'
+  key: 051-one-step-closer-to-the-savior
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: one-step-closer-to-the-savior
+  speaker: "By Russell\_T. Osguthorpe"
+  title: One Step Closer to the Savior
+  url: https://www.lds.org/general-conference/2012/10/one-step-closer-to-the-savior?lang=eng
+  year: 2012
+- article_id: 10491_000_54nash
+  item: '053'
+  key: 053-by-faith-all-things-are-fulfilled
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: by-faith-all-things-are-fulfilled
+  speaker: "By Elder Marcus\_B. Nash"
+  title: By Faith All Things Are Fulfilled
+  url: https://www.lds.org/general-conference/2012/10/by-faith-all-things-are-fulfilled?lang=eng
+  year: 2012
+- article_id: 10491_000_55johnson
+  item: '054'
+  key: 054-becoming-a-true-disciple
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: becoming-a-true-disciple
+  speaker: "By Elder Daniel\_L. Johnson"
+  title: Becoming a True Disciple
+  url: https://www.lds.org/general-conference/2012/10/becoming-a-true-disciple?lang=eng
+  year: 2012
+- article_id: 10491_000_56clarke
+  item: '055'
+  key: 055-blessings-of-the-sacrament
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: blessings-of-the-sacrament
+  speaker: "By Elder Don\_R. Clarke"
+  title: Blessings of the Sacrament
+  url: https://www.lds.org/general-conference/2012/10/blessings-of-the-sacrament?lang=eng
+  year: 2012
+- article_id: 10491_000_57bednar
+  item: '056'
+  key: 056-converted-unto-the-lord
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: converted-unto-the-lord
+  speaker: "By Elder David\_A. Bednar"
+  title: Converted unto the Lord
+  url: https://www.lds.org/general-conference/2012/10/converted-unto-the-lord?lang=eng
+  year: 2012
+- article_id: 10491_000_58monson
+  item: '057'
+  key: 057-god-be-with-you-till-we-meet-again
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: god-be-with-you-till-we-meet-again
+  speaker: "By President Thomas\_S. Monson"
+  title: God Be with You Till We Meet Again
+  url: https://www.lds.org/general-conference/2012/10/god-be-with-you-till-we-meet-again?lang=eng
+  year: 2012
+- article_id: 10491_000_61burton
+  item: '060'
+  key: 060-is-faith-in-the-atonement-of-jesus-christ-written-in-our-hearts
+  month: 10
+  session_id: relief-society
+  session_title: General Relief Society Meeting
+  slug: is-faith-in-the-atonement-of-jesus-christ-written-in-our-hearts
+  speaker: "By Linda\_K. Burton"
+  title: Is Faith in the Atonement of Jesus Christ Written in Our Hearts?
+  url: https://www.lds.org/general-conference/2012/10/is-faith-in-the-atonement-of-jesus-christ-written-in-our-hearts?lang=eng
+  year: 2012
+- article_id: 10491_000_62stephens
+  item: '062'
+  key: 062-wide-awake-to-our-duties
+  month: 10
+  session_id: relief-society
+  session_title: General Relief Society Meeting
+  slug: wide-awake-to-our-duties
+  speaker: "By Carole\_M. Stephens"
+  title: Wide Awake to Our Duties
+  url: https://www.lds.org/general-conference/2012/10/wide-awake-to-our-duties?lang=eng
+  year: 2012
+- article_id: 10491_000_63reeves
+  item: '063'
+  key: 063-the-lord-has-not-forgotten-you
+  month: 10
+  session_id: relief-society
+  session_title: General Relief Society Meeting
+  slug: the-lord-has-not-forgotten-you
+  speaker: "By Linda\_S. Reeves"
+  title: The Lord Has Not Forgotten You
+  url: https://www.lds.org/general-conference/2012/10/the-lord-has-not-forgotten-you?lang=eng
+  year: 2012
+- article_id: 10491_000_64eyring
+  item: '065'
+  key: 065-the-caregiver
+  month: 10
+  session_id: relief-society
+  session_title: General Relief Society Meeting
+  slug: the-caregiver
+  speaker: "By President Henry\_B. Eyring"
+  title: The Caregiver
+  url: https://www.lds.org/general-conference/2012/10/the-caregiver?lang=eng
+  year: 2012
+month: 10
+year: 2012

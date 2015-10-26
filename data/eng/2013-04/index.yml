@@ -1,0 +1,443 @@
+items:
+- article_id: 10785_000_11monson
+  item: '002'
+  key: 002-welcome-to-conference
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: welcome-to-conference
+  speaker: "By President Thomas\_S. Monson"
+  title: Welcome to Conference
+  url: https://www.lds.org/general-conference/2013/04/welcome-to-conference?lang=eng
+  year: 2013
+- article_id: 10785_000_12packer
+  item: '004'
+  key: 004-these-things-i-know
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: these-things-i-know
+  speaker: "By President Boyd\_K. Packer"
+  title: These Things I Know
+  url: https://www.lds.org/general-conference/2013/04/these-things-i-know?lang=eng
+  year: 2013
+- article_id: 10785_000_13davies
+  item: '005'
+  key: 005-a-sure-foundation
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: a-sure-foundation
+  speaker: "By Bishop Dean\_M. Davies"
+  title: A Sure Foundation
+  url: https://www.lds.org/general-conference/2013/04/a-sure-foundation?lang=eng
+  year: 2013
+- article_id: 10785_000_14dalton
+  item: '006'
+  key: 006-we-are-daughters-of-our-heavenly-father
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: we-are-daughters-of-our-heavenly-father
+  speaker: "By Elaine\_S. Dalton"
+  title: We Are Daughters of Our Heavenly Father
+  url: https://www.lds.org/general-conference/2013/04/we-are-daughters-of-our-heavenly-father?lang=eng
+  year: 2013
+- article_id: 10785_000_15cardon
+  item: 008
+  key: 008-the-savior-wants-to-forgive
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-savior-wants-to-forgive
+  speaker: "By Elder Craig\_A. Cardon"
+  title: The Savior Wants to Forgive
+  url: https://www.lds.org/general-conference/2013/04/the-savior-wants-to-forgive?lang=eng
+  year: 2013
+- article_id: 10785_000_16ballard
+  item: 009
+  key: 009-this-is-my-work-and-glory
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: this-is-my-work-and-glory
+  speaker: "By Elder\_M. Russell Ballard"
+  title: "\u201CThis Is My Work and Glory\u201D"
+  url: https://www.lds.org/general-conference/2013/04/this-is-my-work-and-glory?lang=eng
+  year: 2013
+- article_id: 10785_000_17eyring
+  item: '011'
+  key: 011-come-unto-me
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: come-unto-me
+  speaker: "By President Henry\_B. Eyring"
+  title: "\u201CCome unto Me\u201D"
+  url: https://www.lds.org/general-conference/2013/04/come-unto-me?lang=eng
+  year: 2013
+- article_id: 10785_000_21uchtdorf
+  item: '015'
+  key: 015-the-sustaining-of-church-officers
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-sustaining-of-church-officers
+  speaker: "Presented by President Dieter\_F. Uchtdorf"
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/2013/04/the-sustaining-of-church-officers?lang=eng
+  year: 2013
+- article_id: 10785_000_22cantwell
+  item: '016'
+  key: 016-church-auditing-department-report-2012
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: church-auditing-department-report-2012
+  speaker: "Presented by Robert\_W. Cantwell"
+  title: Church Auditing Department Report, 2012
+  url: https://www.lds.org/general-conference/2013/04/church-auditing-department-report-2012?lang=eng
+  year: 2013
+- article_id: 10785_000_23hales
+  item: '017'
+  key: 017-statistical-report-2012
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: statistical-report-2012
+  speaker: "Presented by Brook\_P. Hales"
+  title: Statistical Report, 2012
+  url: https://www.lds.org/general-conference/2013/04/statistical-report-2012?lang=eng
+  year: 2013
+- article_id: 10785_000_24scott
+  item: 018
+  key: 018-for-peace-at-home
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: for-peace-at-home
+  speaker: "By Elder Richard\_G. Scott"
+  title: For Peace at Home
+  url: https://www.lds.org/general-conference/2013/04/for-peace-at-home?lang=eng
+  year: 2013
+- article_id: 10785_000_25cook
+  item: 019
+  key: 019-personal-peace-the-reward-of-righteousness
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: personal-peace-the-reward-of-righteousness
+  speaker: "By Elder Quentin\_L. Cook"
+  title: 'Personal Peace: The Reward of Righteousness'
+  url: https://www.lds.org/general-conference/2013/04/personal-peace-the-reward-of-righteousness?lang=eng
+  year: 2013
+- article_id: 10785_000_26ellis
+  item: '021'
+  key: 021-the-lords-way
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-lords-way
+  speaker: "By Elder Stanley\_G. Ellis"
+  title: "The Lord\u2019s Way"
+  url: https://www.lds.org/general-conference/2013/04/the-lords-way?lang=eng
+  year: 2013
+- article_id: 10785_000_27dickson
+  item: '022'
+  key: 022-the-gospel-to-all-the-world
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-gospel-to-all-the-world
+  speaker: "By Elder John\_B. Dickson"
+  title: The Gospel to All the World
+  url: https://www.lds.org/general-conference/2013/04/the-gospel-to-all-the-world?lang=eng
+  year: 2013
+- article_id: 10785_000_28bednar
+  item: '023'
+  key: 023-we-believe-in-being-chaste
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: we-believe-in-being-chaste
+  speaker: "By Elder David\_A. Bednar"
+  title: We Believe in Being Chaste
+  url: https://www.lds.org/general-conference/2013/04/we-believe-in-being-chaste?lang=eng
+  year: 2013
+- article_id: 10785_000_29nelson
+  item: '024'
+  key: 024-catch-the-wave
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: catch-the-wave
+  speaker: "By Elder Russell\_M. Nelson"
+  title: Catch the Wave
+  url: https://www.lds.org/general-conference/2013/04/catch-the-wave?lang=eng
+  year: 2013
+- article_id: 10785_000_31hales
+  item: 028
+  key: 028-stand-strong-in-holy-places
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: stand-strong-in-holy-places
+  speaker: "By Elder Robert\_D. Hales"
+  title: Stand Strong in Holy Places
+  url: https://www.lds.org/general-conference/2013/04/stand-strong-in-holy-places?lang=eng
+  year: 2013
+- article_id: 10785_000_32callister
+  item: 029
+  key: 029-the-power-of-the-priesthood-in-the-boy
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-power-of-the-priesthood-in-the-boy
+  speaker: "By Elder Tad\_R. Callister"
+  title: The Power of the Priesthood in the Boy
+  url: https://www.lds.org/general-conference/2013/04/the-power-of-the-priesthood-in-the-boy?lang=eng
+  year: 2013
+- article_id: 10785_000_33beck
+  item: '030'
+  key: 030-your-sacred-duty-to-minister
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: your-sacred-duty-to-minister
+  speaker: "By David\_L. Beck"
+  title: Your Sacred Duty to Minister
+  url: https://www.lds.org/general-conference/2013/04/your-sacred-duty-to-minister?lang=eng
+  year: 2013
+- article_id: 10785_000_34uchtdorf
+  item: '032'
+  key: 032-four-titles
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: four-titles
+  speaker: "By President Dieter\_F. Uchtdorf"
+  title: Four Titles
+  url: https://www.lds.org/general-conference/2013/04/four-titles?lang=eng
+  year: 2013
+- article_id: 10785_000_35eyring
+  item: '033'
+  key: 033-we-are-one
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: we-are-one
+  speaker: "By President Henry\_B. Eyring"
+  title: We Are One
+  url: https://www.lds.org/general-conference/2013/04/we-are-one?lang=eng
+  year: 2013
+- article_id: 10785_000_36monson
+  item: '034'
+  key: 034-come-all-ye-sons-of-god
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: come-all-ye-sons-of-god
+  speaker: "By President Thomas\_S. Monson"
+  title: Come, All Ye Sons of God
+  url: https://www.lds.org/general-conference/2013/04/come-all-ye-sons-of-god?lang=eng
+  year: 2013
+- article_id: 10785_000_41uchtdorf
+  item: 038
+  key: 038-the-hope-of-gods-light
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-hope-of-gods-light
+  speaker: "By President Dieter\_F. Uchtdorf"
+  title: "The Hope of God\u2019s Light"
+  url: https://www.lds.org/general-conference/2013/04/the-hope-of-gods-light?lang=eng
+  year: 2013
+- article_id: 10785_000_42andersen
+  item: '040'
+  key: 040-its-a-miracle
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: its-a-miracle
+  speaker: "By Elder Neil\_L. Andersen"
+  title: "It\u2019s a Miracle"
+  url: https://www.lds.org/general-conference/2013/04/its-a-miracle?lang=eng
+  year: 2013
+- article_id: 10785_000_43wixom
+  item: '041'
+  key: 041-the-words-we-speak
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-words-we-speak
+  speaker: "By Rosemary\_M. Wixom"
+  title: The Words We Speak
+  url: https://www.lds.org/general-conference/2013/04/the-words-we-speak?lang=eng
+  year: 2013
+- article_id: 10785_000_44clayton
+  item: '043'
+  key: 043-marriage-watch-and-learn
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: marriage-watch-and-learn
+  speaker: "By Elder L.\_Whitney Clayton"
+  title: 'Marriage: Watch and Learn'
+  url: https://www.lds.org/general-conference/2013/04/marriage-watch-and-learn?lang=eng
+  year: 2013
+- article_id: 10785_000_45perry
+  item: '044'
+  key: 044-obedience-to-law-is-liberty
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: obedience-to-law-is-liberty
+  speaker: "By Elder\_L. Tom Perry"
+  title: Obedience to Law Is Liberty
+  url: https://www.lds.org/general-conference/2013/04/obedience-to-law-is-liberty?lang=eng
+  year: 2013
+- article_id: 10785_000_46monson
+  item: '046'
+  key: 046-obedience-brings-blessings
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: obedience-brings-blessings
+  speaker: "By President Thomas\_S. Monson"
+  title: Obedience Brings Blessings
+  url: https://www.lds.org/general-conference/2013/04/obedience-brings-blessings?lang=eng
+  year: 2013
+- article_id: 10785_000_51holland
+  item: '050'
+  key: 050-lord-i-believe
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: lord-i-believe
+  speaker: "By Elder Jeffrey\_R. Holland"
+  title: "\u201CLord, I Believe\u201D"
+  url: https://www.lds.org/general-conference/2013/04/lord-i-believe?lang=eng
+  year: 2013
+- article_id: 10785_000_52oaks
+  item: '051'
+  key: 051-followers-of-christ
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: followers-of-christ
+  speaker: "By Elder Dallin\_H. Oaks"
+  title: Followers of Christ
+  url: https://www.lds.org/general-conference/2013/04/followers-of-christ?lang=eng
+  year: 2013
+- article_id: 10785_000_53jr
+  item: '052'
+  key: 052-the-father-and-the-son
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-father-and-the-son
+  speaker: "By Elder Christoffel Golden\_Jr."
+  title: The Father and the Son
+  url: https://www.lds.org/general-conference/2013/04/the-father-and-the-son?lang=eng
+  year: 2013
+- article_id: 10785_000_54falabella
+  item: '054'
+  key: 054-the-home-the-school-of-life
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-home-the-school-of-life
+  speaker: "By Elder Enrique\_R. Falabella"
+  title: 'The Home: The School of Life'
+  url: https://www.lds.org/general-conference/2013/04/the-home-the-school-of-life?lang=eng
+  year: 2013
+- article_id: 10785_000_55kopischke
+  item: '055'
+  key: 055-being-accepted-of-the-lord
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: being-accepted-of-the-lord
+  speaker: "By Elder Erich\_W. Kopischke"
+  title: Being Accepted of the Lord
+  url: https://www.lds.org/general-conference/2013/04/being-accepted-of-the-lord?lang=eng
+  year: 2013
+- article_id: 10785_000_56porter
+  item: '056'
+  key: 056-beautiful-mornings
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: beautiful-mornings
+  speaker: "By Elder Bruce\_D. Porter"
+  title: Beautiful Mornings
+  url: https://www.lds.org/general-conference/2013/04/beautiful-mornings?lang=eng
+  year: 2013
+- article_id: 10785_000_57christofferson
+  item: '057'
+  key: 057-redemption
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: redemption
+  speaker: "By Elder D.\_Todd Christofferson"
+  title: Redemption
+  url: https://www.lds.org/general-conference/2013/04/redemption?lang=eng
+  year: 2013
+- article_id: 10785_000_58monson
+  item: 058
+  key: 058-until-we-meet-again
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: until-we-meet-again
+  speaker: "By President Thomas\_S. Monson"
+  title: Until We Meet Again
+  url: https://www.lds.org/general-conference/2013/04/until-we-meet-again?lang=eng
+  year: 2013
+- article_id: 10785_000_61dibb
+  item: '062'
+  key: 062-your-holy-places
+  month: 4
+  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: your-holy-places
+  speaker: "By Ann\_M. Dibb"
+  title: Your Holy Places
+  url: https://www.lds.org/general-conference/2013/04/your-holy-places?lang=eng
+  year: 2013
+- article_id: 10785_000_62cook
+  item: '064'
+  key: 064-when-you-save-a-girl-you-save-generations
+  month: 4
+  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: when-you-save-a-girl-you-save-generations
+  speaker: "By Mary\_N. Cook"
+  title: When You Save a Girl, You Save Generations
+  url: https://www.lds.org/general-conference/2013/04/when-you-save-a-girl-you-save-generations?lang=eng
+  year: 2013
+- article_id: 10785_000_63dalton
+  item: '066'
+  key: 066-be-not-moved
+  month: 4
+  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: be-not-moved
+  speaker: "By Elaine\_S. Dalton"
+  title: Be Not Moved!
+  url: https://www.lds.org/general-conference/2013/04/be-not-moved?lang=eng
+  year: 2013
+- article_id: 10785_000_64uchtdorf
+  item: 068
+  key: 068-your-wonderful-journey-home
+  month: 4
+  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: your-wonderful-journey-home
+  speaker: "By President Dieter\_F. Uchtdorf"
+  title: Your Wonderful Journey Home
+  url: https://www.lds.org/general-conference/2013/04/your-wonderful-journey-home?lang=eng
+  year: 2013
+month: 4
+year: 2013
