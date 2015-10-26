@@ -1,0 +1,443 @@
+items:
+- article_id: '90905_000_003'
+  item: '000'
+  key: 000-conference-is-here
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: conference-is-here
+  speaker: Thomas S. Monson
+  title: Conference Is Here
+  url: https://www.lds.org/general-conference/1990/04/conference-is-here?lang=eng
+  year: 1990
+- article_id: '90905_000_004'
+  item: '001'
+  key: 001-small-and-simple-things
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: small-and-simple-things
+  speaker: M. Russell Ballard
+  title: Small and Simple Things
+  url: https://www.lds.org/general-conference/1990/04/small-and-simple-things?lang=eng
+  year: 1990
+- article_id: '90905_000_005'
+  item: '002'
+  key: 002-home-first
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: home-first
+  speaker: Rex D. Pinegar
+  title: "\u201CHome First\u201D"
+  url: https://www.lds.org/general-conference/1990/04/home-first?lang=eng
+  year: 1990
+- article_id: '90905_000_006'
+  item: '003'
+  key: 003-the-spirituality-of-service
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-spirituality-of-service
+  speaker: Derek A. Cuthbert
+  title: The Spirituality of Service
+  url: https://www.lds.org/general-conference/1990/04/the-spirituality-of-service?lang=eng
+  year: 1990
+- article_id: '90905_000_007'
+  item: '004'
+  key: 004-ye-have-done-it-unto-me
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: ye-have-done-it-unto-me
+  speaker: Richard P. Lindsay
+  title: "\u201CYe Have Done It unto Me\u201D"
+  url: https://www.lds.org/general-conference/1990/04/ye-have-done-it-unto-me?lang=eng
+  year: 1990
+- article_id: '90905_000_008'
+  item: '005'
+  key: 005-thus-shall-my-church-be-called
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: thus-shall-my-church-be-called
+  speaker: Russell M. Nelson
+  title: "\u201CThus Shall My Church Be Called\u201D"
+  url: https://www.lds.org/general-conference/1990/04/thus-shall-my-church-be-called?lang=eng
+  year: 1990
+- article_id: '90905_000_009'
+  item: '006'
+  key: 006-family-traditions
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: family-traditions
+  speaker: L. Tom Perry
+  title: Family Traditions
+  url: https://www.lds.org/general-conference/1990/04/family-traditions?lang=eng
+  year: 1990
+- article_id: '90905_000_010'
+  item: '007'
+  key: 007-the-sustaining-of-church-officers
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-sustaining-of-church-officers
+  speaker: Thomas S. Monson
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/1990/04/the-sustaining-of-church-officers?lang=eng
+  year: 1990
+- article_id: '90905_000_011'
+  item: 008
+  key: 008-the-church-audit-committee-report
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-church-audit-committee-report
+  speaker: Wilford G. Edling
+  title: The Church Audit Committee Report
+  url: https://www.lds.org/general-conference/1990/04/the-church-audit-committee-report?lang=eng
+  year: 1990
+- article_id: '90905_000_012'
+  item: 009
+  key: 009-statistical-report-1989
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: statistical-report-1989
+  speaker: F. Michael Watson
+  title: Statistical Report 1989
+  url: https://www.lds.org/general-conference/1990/04/statistical-report-1989?lang=eng
+  year: 1990
+- article_id: '90905_000_013'
+  item: '010'
+  key: 010-filling-the-whole-earth
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: filling-the-whole-earth
+  speaker: David B. Haight
+  title: Filling the Whole Earth
+  url: https://www.lds.org/general-conference/1990/04/filling-the-whole-earth?lang=eng
+  year: 1990
+- article_id: '90905_000_014'
+  item: '011'
+  key: 011-choose-you-this-day
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: choose-you-this-day
+  speaker: Hans B. Ringger
+  title: "\u201CChoose You This Day\u201D"
+  url: https://www.lds.org/general-conference/1990/04/choose-you-this-day?lang=eng
+  year: 1990
+- article_id: '90905_000_015'
+  item: '012'
+  key: 012-some-scriptural-lessons-on-leadership
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: some-scriptural-lessons-on-leadership
+  speaker: Spencer J. Condie
+  title: Some Scriptural Lessons on Leadership
+  url: https://www.lds.org/general-conference/1990/04/some-scriptural-lessons-on-leadership?lang=eng
+  year: 1990
+- article_id: '90905_000_016'
+  item: '013'
+  key: 013-the-resurrection
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-resurrection
+  speaker: F. Melvin Hammond
+  title: The Resurrection
+  url: https://www.lds.org/general-conference/1990/04/the-resurrection?lang=eng
+  year: 1990
+- article_id: '90905_000_017'
+  item: '014'
+  key: 014-personal-integrity
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: personal-integrity
+  speaker: Joseph B. Wirthlin
+  title: Personal Integrity
+  url: https://www.lds.org/general-conference/1990/04/personal-integrity?lang=eng
+  year: 1990
+- article_id: '90905_000_018'
+  item: '015'
+  key: 015-endure-it-well
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: endure-it-well
+  speaker: Neal A. Maxwell
+  title: "\u201CEndure It Well\u201D"
+  url: https://www.lds.org/general-conference/1990/04/endure-it-well?lang=eng
+  year: 1990
+- article_id: '90905_000_019'
+  item: '016'
+  key: 016-the-library-of-the-lord
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-library-of-the-lord
+  speaker: Boyd K. Packer
+  title: The Library of the Lord
+  url: https://www.lds.org/general-conference/1990/04/the-library-of-the-lord?lang=eng
+  year: 1990
+- article_id: '90905_000_020'
+  item: '017'
+  key: 017-the-aaronic-priesthood-return-with-honor
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-aaronic-priesthood-return-with-honor
+  speaker: Robert D. Hales
+  title: 'The Aaronic Priesthood: Return with Honor'
+  url: https://www.lds.org/general-conference/1990/04/the-aaronic-priesthood-return-with-honor?lang=eng
+  year: 1990
+- article_id: '90905_000_021'
+  item: 018
+  key: 018-the-motorcycle-ride
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-motorcycle-ride
+  speaker: Kenneth Johnson
+  title: The Motorcycle Ride
+  url: https://www.lds.org/general-conference/1990/04/the-motorcycle-ride?lang=eng
+  year: 1990
+- article_id: '90905_000_022'
+  item: 019
+  key: 019-the-greatest-joy
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-greatest-joy
+  speaker: Clinton L. Cutler
+  title: The Greatest Joy
+  url: https://www.lds.org/general-conference/1990/04/the-greatest-joy?lang=eng
+  year: 1990
+- article_id: '90905_000_023'
+  item: '020'
+  key: 020-who-is-a-true-friend
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: who-is-a-true-friend
+  speaker: Malcolm S. Jeppsen
+  title: Who Is a True Friend?
+  url: https://www.lds.org/general-conference/1990/04/who-is-a-true-friend?lang=eng
+  year: 1990
+- article_id: '90905_000_024'
+  item: '021'
+  key: 021-my-brothers-keeper
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: my-brothers-keeper
+  speaker: Thomas S. Monson
+  title: "My Brother\u2019s Keeper"
+  url: https://www.lds.org/general-conference/1990/04/my-brothers-keeper?lang=eng
+  year: 1990
+- article_id: '90905_000_025'
+  item: '022'
+  key: 022-keeping-the-temple-holy
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: keeping-the-temple-holy
+  speaker: Gordon B. Hinckley
+  title: Keeping the Temple Holy
+  url: https://www.lds.org/general-conference/1990/04/keeping-the-temple-holy?lang=eng
+  year: 1990
+- article_id: '90905_000_026'
+  item: '023'
+  key: 023-a-little-child-shall-lead-them
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: a-little-child-shall-lead-them
+  speaker: Thomas S. Monson
+  title: "\u201CA Little Child Shall Lead Them\u201D"
+  url: https://www.lds.org/general-conference/1990/04/a-little-child-shall-lead-them?lang=eng
+  year: 1990
+- article_id: '90905_000_027'
+  item: '024'
+  key: 024-standing-as-witnesses-of-god
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: standing-as-witnesses-of-god
+  speaker: Howard W. Hunter
+  title: Standing As Witnesses of God
+  url: https://www.lds.org/general-conference/1990/04/standing-as-witnesses-of-god?lang=eng
+  year: 1990
+- article_id: '90905_000_028'
+  item: '025'
+  key: 025-one-small-step-for-a-man-one-giant-leap-for-mankind
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: one-small-step-for-a-man-one-giant-leap-for-mankind
+  speaker: Carlos E. Asay
+  title: "\u201COne Small Step for a Man; One Giant Leap for Mankind\u201D"
+  url: https://www.lds.org/general-conference/1990/04/one-small-step-for-a-man-one-giant-leap-for-mankind?lang=eng
+  year: 1990
+- article_id: '90905_000_029'
+  item: '026'
+  key: 026-neither-boast-of-faith-nor-of-mighty-works
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: neither-boast-of-faith-nor-of-mighty-works
+  speaker: Marvin J. Ashton
+  title: "\u201CNeither Boast of Faith Nor of Mighty Works\u201D"
+  url: https://www.lds.org/general-conference/1990/04/neither-boast-of-faith-nor-of-mighty-works?lang=eng
+  year: 1990
+- article_id: '90905_000_030'
+  item: '027'
+  key: 027-blessed-are-the-merciful
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: blessed-are-the-merciful
+  speaker: Gordon B. Hinckley
+  title: Blessed Are the Merciful
+  url: https://www.lds.org/general-conference/1990/04/blessed-are-the-merciful?lang=eng
+  year: 1990
+- article_id: '90905_000_031'
+  item: 028
+  key: 028-world-peace
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: world-peace
+  speaker: Dallin H. Oaks
+  title: World Peace
+  url: https://www.lds.org/general-conference/1990/04/world-peace?lang=eng
+  year: 1990
+- article_id: '90905_000_032'
+  item: 029
+  key: 029-finding-the-way-back
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: finding-the-way-back
+  speaker: Richard G. Scott
+  title: Finding the Way Back
+  url: https://www.lds.org/general-conference/1990/04/finding-the-way-back?lang=eng
+  year: 1990
+- article_id: '90905_000_033'
+  item: '030'
+  key: 030-instruments-to-accomplish-his-purposes
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: instruments-to-accomplish-his-purposes
+  speaker: Barbara W. Winder
+  title: Instruments to Accomplish His Purposes
+  url: https://www.lds.org/general-conference/1990/04/instruments-to-accomplish-his-purposes?lang=eng
+  year: 1990
+- article_id: '90905_000_034'
+  item: '031'
+  key: 031-i-will-go-and-do
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: i-will-go-and-do
+  speaker: Elaine L. Jack
+  title: "\u201CI Will Go and Do\u201D"
+  url: https://www.lds.org/general-conference/1990/04/i-will-go-and-do?lang=eng
+  year: 1990
+- article_id: '90905_000_035'
+  item: '032'
+  key: 032-teachings-of-a-loving-father
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: teachings-of-a-loving-father
+  speaker: Horacio A. Tenorio
+  title: Teachings of a Loving Father
+  url: https://www.lds.org/general-conference/1990/04/teachings-of-a-loving-father?lang=eng
+  year: 1990
+- article_id: '90905_000_036'
+  item: '033'
+  key: 033-a-latter-day-samaritan
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: a-latter-day-samaritan
+  speaker: Merlin R. Lybbert
+  title: A Latter-day Samaritan
+  url: https://www.lds.org/general-conference/1990/04/a-latter-day-samaritan?lang=eng
+  year: 1990
+- article_id: '90905_000_037'
+  item: '034'
+  key: 034-preparing-the-heart
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: preparing-the-heart
+  speaker: H. Burke Peterson
+  title: Preparing the Heart
+  url: https://www.lds.org/general-conference/1990/04/preparing-the-heart?lang=eng
+  year: 1990
+- article_id: '90905_000_038'
+  item: '035'
+  key: 035-gratitude-as-a-saving-principle
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: gratitude-as-a-saving-principle
+  speaker: James E. Faust
+  title: Gratitude As a Saving Principle
+  url: https://www.lds.org/general-conference/1990/04/gratitude-as-a-saving-principle?lang=eng
+  year: 1990
+- article_id: '90905_000_039'
+  item: '036'
+  key: 036-sacred-resolves
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: sacred-resolves
+  speaker: Gordon B. Hinckley
+  title: "\u201CSacred Resolves\u201D"
+  url: https://www.lds.org/general-conference/1990/04/sacred-resolves?lang=eng
+  year: 1990
+- article_id: '90905_000_040'
+  item: '037'
+  key: 037-teach-them-correct-principles
+  month: 4
+  session_id: member-finances-fireside
+  session_title: Member Finances Fireside
+  slug: teach-them-correct-principles
+  speaker: Boyd K. Packer
+  title: Teach Them Correct Principles
+  url: https://www.lds.org/general-conference/1990/04/teach-them-correct-principles?lang=eng
+  year: 1990
+- article_id: '90905_000_041'
+  item: 038
+  key: 038-the-lords-way
+  month: 4
+  session_id: member-finances-fireside
+  session_title: Member Finances Fireside
+  slug: the-lords-way
+  speaker: Thomas S. Monson
+  title: "The Lord\u2019s Way"
+  url: https://www.lds.org/general-conference/1990/04/the-lords-way?lang=eng
+  year: 1990
+- article_id: '90905_000_042'
+  item: 039
+  key: 039-rise-to-a-larger-vision-of-the-work
+  month: 4
+  session_id: member-finances-fireside
+  session_title: Member Finances Fireside
+  slug: rise-to-a-larger-vision-of-the-work
+  speaker: Gordon B. Hinckley
+  title: Rise to a Larger Vision of the Work
+  url: https://www.lds.org/general-conference/1990/04/rise-to-a-larger-vision-of-the-work?lang=eng
+  year: 1990
+month: 4
+year: 1990
