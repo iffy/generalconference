@@ -106,19 +106,27 @@ Text + Video:
   <p>
     Or send an email to the Gmail address that starts with <code>haggardii</code>
   </p>
+
+  <div class="have-local">
+    <p>
+      You have changes saved in your browser.
+    </p>
+    <button id="clear-local">Delete locally-saved stuff</button>
+  </div>
   
   </div>
   
-
+  <script src="//cdnjs.cloudflare.com/ajax/libs/localforage/1.3.0/localforage.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
   <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/URI.js/1.16.1/URI.min.js"></script>
   <script>
+    var GLOB = {};
     var player, talk_dir, talk_metadata, has_timing_file;
     var repo_root = '..';
 
     function loadTalk(talk_dir) {
-      talk_dir = talk_dir;
+      GLOB.talk_dir = talk_dir;
       $('.github-metadata-link').attr('href', 'https://github.com/iffy/generalconference/edit/gh-pages/data' + talk_dir + '/metadata.yml');
       // Get metadata
       $.get(repo_root + '/data/' + talk_dir + '/metadata.yml')
@@ -134,13 +142,27 @@ Text + Video:
         .then(loadText)
         .then(function() {
           // Get current timing information
-          $.get(repo_root + '/data/' + talk_dir + '/youtube_timing.yml')
-            .then(function(response) {
-              setTimingInfo(jsyaml.safeLoad(response));
+          // Get localstorage timing info
+          loadFromLocalStorage()
+            .then(function() {
+              // succeeded -- we're good.
               has_timing_file = true;
-              $('.show-if-timing-file').show();
-              $('.hide-if-no-timing-file').hide();
-              $('.edit-link').attr('href', 'https://github.com/iffy/generalconference/edit/gh-pages/data' + talk_dir + '/youtube_timing.yml');
+              $('.have-local').show();
+            }, function(err) {
+              // failed, get it from the repo.
+              $('.have-local').hide();
+              return $.get(repo_root + '/data/' + talk_dir + '/youtube_timing.yml')
+                .then(function(response) {
+                  setTimingInfo(jsyaml.safeLoad(response));
+                  has_timing_file = true;
+                });
+            })
+            .then(function() {
+              if (has_timing_file) {
+                $('.show-if-timing-file').show();
+                $('.hide-if-no-timing-file').hide();
+                $('.edit-link').attr('href', 'https://github.com/iffy/generalconference/edit/gh-pages/data' + talk_dir + '/youtube_timing.yml');
+              }
             });
         })
 
@@ -318,6 +340,22 @@ Text + Video:
       setTimingInfo(jsyaml.safeLoad($('#timing-info').val()));
     }
 
+    function saveToLocalStorage() {
+      console.log('talk_dir', GLOB.talk_dir);
+      return localforage.setItem(GLOB.talk_dir, getTimingInfo());
+    }
+    function clearLocalStorage() {
+      return localforage.removeItem(GLOB.talk_dir);
+    }
+    function loadFromLocalStorage() {
+      return localforage.getItem(GLOB.talk_dir)
+        .then(setTimingInfo);
+    }
+    $('#clear-local').click(function() {
+      clearLocalStorage();
+      window.location.reload();
+    })
+
     // Controls
     $('#done-btn').click(function() {
       exportTimingInfo();
@@ -349,23 +387,18 @@ Text + Video:
         var w = currentWord();
         w.addClass('synced')
           .attr('data-seconds', player.getCurrentTime());
+        saveToLocalStorage();
       } else if (ev.which === key('c')) {
         var w = currentWord();
         w.removeClass('synced')
           .removeAttr('data-seconds');
+        saveToLocalStorage();
       } else if (ev.which === key('s')) {
         nextSyncedWord();
       } else if (ev.which === key('a')) {
         prevSyncedWord();
       }
 
-      // // load/save functions
-      // else if (ev.which === key('z')) {
-      //   exportTimingInfo();
-      // } else if (ev.which === key('x')) {
-      //   importTimingInfo();
-      //   exportTimingInfo();
-      // }
     });
 
     var uri = new URI(window.location.href);
