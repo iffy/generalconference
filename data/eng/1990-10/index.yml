@@ -1,0 +1,421 @@
+items:
+- article_id: '90911_000_003'
+  item: '000'
+  key: 000-this-work-will-go-forward
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: this-work-will-go-forward
+  speaker: Gordon B. Hinckley
+  title: "\u201CThis Work Will Go Forward\u201D"
+  url: https://www.lds.org/general-conference/1990/10/this-work-will-go-forward?lang=eng
+  year: 1990
+- article_id: '90911_000_004'
+  item: '001'
+  key: 001-redemption-the-harvest-of-love
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: redemption-the-harvest-of-love
+  speaker: Richard G. Scott
+  title: 'Redemption: The Harvest of Love'
+  url: https://www.lds.org/general-conference/1990/10/redemption-the-harvest-of-love?lang=eng
+  year: 1990
+- article_id: '90911_000_005'
+  item: '002'
+  key: 002-a-thousand-times
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: a-thousand-times
+  speaker: Glenn L. Pace
+  title: A Thousand Times
+  url: https://www.lds.org/general-conference/1990/10/a-thousand-times?lang=eng
+  year: 1990
+- article_id: '90911_000_006'
+  item: '003'
+  key: 003-the-word-of-wisdom
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-word-of-wisdom
+  speaker: Eduardo Ayala
+  title: The Word of Wisdom
+  url: https://www.lds.org/general-conference/1990/10/the-word-of-wisdom?lang=eng
+  year: 1990
+- article_id: '90911_000_007'
+  item: '004'
+  key: 004-happiness-is-homemade
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: happiness-is-homemade
+  speaker: LeGrand R. Curtis
+  title: Happiness Is Homemade
+  url: https://www.lds.org/general-conference/1990/10/happiness-is-homemade?lang=eng
+  year: 1990
+- article_id: '90911_000_008'
+  item: '005'
+  key: 005-put-off-the-natural-man-and-come-off-conqueror
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: put-off-the-natural-man-and-come-off-conqueror
+  speaker: Neal A. Maxwell
+  title: Put Off the Natural Man, and Come Off Conqueror
+  url: https://www.lds.org/general-conference/1990/10/put-off-the-natural-man-and-come-off-conqueror?lang=eng
+  year: 1990
+- article_id: '90911_000_009'
+  item: '006'
+  key: 006-come-unto-me
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: come-unto-me
+  speaker: Howard W. Hunter
+  title: "\u201CCome unto Me\u201D"
+  url: https://www.lds.org/general-conference/1990/10/come-unto-me?lang=eng
+  year: 1990
+- article_id: '90911_000_010'
+  item: '007'
+  key: 007-the-sustaining-of-church-officers
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-sustaining-of-church-officers
+  speaker: Gordon B. Hinckley
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/1990/10/the-sustaining-of-church-officers?lang=eng
+  year: 1990
+- article_id: '90911_000_011'
+  item: 008
+  key: 008-a-pattern-in-all-things
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: a-pattern-in-all-things
+  speaker: Marvin J. Ashton
+  title: A Pattern in All Things
+  url: https://www.lds.org/general-conference/1990/10/a-pattern-in-all-things?lang=eng
+  year: 1990
+- article_id: '90911_000_012'
+  item: 009
+  key: 009-hour-of-conversion
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: hour-of-conversion
+  speaker: Robert K. Dellenbach
+  title: Hour of Conversion
+  url: https://www.lds.org/general-conference/1990/10/hour-of-conversion?lang=eng
+  year: 1990
+- article_id: '90911_000_013'
+  item: '010'
+  key: 010-no-more-strangers-and-foreigners
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: no-more-strangers-and-foreigners
+  speaker: Harold G. Hillam
+  title: No More Strangers and Foreigners
+  url: https://www.lds.org/general-conference/1990/10/no-more-strangers-and-foreigners?lang=eng
+  year: 1990
+- article_id: '90911_000_014'
+  item: '011'
+  key: 011-the-value-of-a-testimony
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-value-of-a-testimony
+  speaker: "Helv\xE9cio Martins"
+  title: The Value of a Testimony
+  url: https://www.lds.org/general-conference/1990/10/the-value-of-a-testimony?lang=eng
+  year: 1990
+- article_id: '90911_000_015'
+  item: '012'
+  key: 012-what-is-truth
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: what-is-truth
+  speaker: Lynn A. Mickelsen
+  title: What Is Truth?
+  url: https://www.lds.org/general-conference/1990/10/what-is-truth?lang=eng
+  year: 1990
+- article_id: '90911_000_016'
+  item: '013'
+  key: 013-witnesses-of-christ
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: witnesses-of-christ
+  speaker: Dallin H. Oaks
+  title: Witnesses of Christ
+  url: https://www.lds.org/general-conference/1990/10/witnesses-of-christ?lang=eng
+  year: 1990
+- article_id: '90911_000_017'
+  item: '014'
+  key: 014-the-greatest-challenge-in-the-world-good-parenting
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-greatest-challenge-in-the-world-good-parenting
+  speaker: James E. Faust
+  title: "The Greatest Challenge in the World\u2014Good Parenting"
+  url: https://www.lds.org/general-conference/1990/10/the-greatest-challenge-in-the-world-good-parenting?lang=eng
+  year: 1990
+- article_id: '90911_000_018'
+  item: '015'
+  key: 015-purity-precedes-power
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: purity-precedes-power
+  speaker: M. Russell Ballard
+  title: Purity Precedes Power
+  url: https://www.lds.org/general-conference/1990/10/purity-precedes-power?lang=eng
+  year: 1990
+- article_id: '90911_000_019'
+  item: '016'
+  key: 016-changing-channels
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: changing-channels
+  speaker: Marion D. Hanks
+  title: Changing Channels
+  url: https://www.lds.org/general-conference/1990/10/changing-channels?lang=eng
+  year: 1990
+- article_id: '90911_000_020'
+  item: '017'
+  key: 017-follow-the-prophet
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: follow-the-prophet
+  speaker: J Ballard Washburn
+  title: Follow the Prophet
+  url: https://www.lds.org/general-conference/1990/10/follow-the-prophet?lang=eng
+  year: 1990
+- article_id: '90911_000_021'
+  item: 018
+  key: 018-an-eternal-key
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: an-eternal-key
+  speaker: Durrel A. Woolsey
+  title: An Eternal Key
+  url: https://www.lds.org/general-conference/1990/10/an-eternal-key?lang=eng
+  year: 1990
+- article_id: '90911_000_022'
+  item: 019
+  key: 019-that-we-may-touch-heaven
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: that-we-may-touch-heaven
+  speaker: Thomas S. Monson
+  title: That We May Touch Heaven
+  url: https://www.lds.org/general-conference/1990/10/that-we-may-touch-heaven?lang=eng
+  year: 1990
+- article_id: '90911_000_023'
+  item: '020'
+  key: 020-in-counsellors-there-is-safety
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: in-counsellors-there-is-safety
+  speaker: Gordon B. Hinckley
+  title: "\u201CIn \u2026 Counsellors There Is Safety\u201D"
+  url: https://www.lds.org/general-conference/1990/10/in-counsellors-there-is-safety?lang=eng
+  year: 1990
+- article_id: '90911_000_024'
+  item: '021'
+  key: 021-mormon-should-mean-more-good
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: mormon-should-mean-more-good
+  speaker: Gordon B. Hinckley
+  title: "Mormon Should Mean \u201CMore Good\u201D"
+  url: https://www.lds.org/general-conference/1990/10/mormon-should-mean-more-good?lang=eng
+  year: 1990
+- article_id: '90911_000_025'
+  item: '022'
+  key: 022-temples-and-work-therein
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: temples-and-work-therein
+  speaker: David B. Haight
+  title: Temples and Work Therein
+  url: https://www.lds.org/general-conference/1990/10/temples-and-work-therein?lang=eng
+  year: 1990
+- article_id: '90911_000_026'
+  item: '023'
+  key: 023-the-many-witnesses-of-jesus-christ-and-his-work
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-many-witnesses-of-jesus-christ-and-his-work
+  speaker: James M. Paramore
+  title: The Many Witnesses of Jesus Christ and His Work
+  url: https://www.lds.org/general-conference/1990/10/the-many-witnesses-of-jesus-christ-and-his-work?lang=eng
+  year: 1990
+- article_id: '90911_000_027'
+  item: '024'
+  key: 024-the-straight-and-narrow-way
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-straight-and-narrow-way
+  speaker: Joseph B. Wirthlin
+  title: The Straight and Narrow Way
+  url: https://www.lds.org/general-conference/1990/10/the-straight-and-narrow-way?lang=eng
+  year: 1990
+- article_id: '90911_000_028'
+  item: '025'
+  key: 025-days-never-to-be-forgotten
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: days-never-to-be-forgotten
+  speaker: Thomas S. Monson
+  title: Days Never to Be Forgotten
+  url: https://www.lds.org/general-conference/1990/10/days-never-to-be-forgotten?lang=eng
+  year: 1990
+- article_id: '90911_000_029'
+  item: '026'
+  key: 026-serve-god-acceptably-with-reverence-and-godly-fear
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: serve-god-acceptably-with-reverence-and-godly-fear
+  speaker: L. Tom Perry
+  title: "\u201CServe God Acceptably with Reverence and Godly Fear\u201D"
+  url: https://www.lds.org/general-conference/1990/10/serve-god-acceptably-with-reverence-and-godly-fear?lang=eng
+  year: 1990
+- article_id: '90911_000_030'
+  item: '027'
+  key: 027-choices
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: choices
+  speaker: Russell M. Nelson
+  title: Choices
+  url: https://www.lds.org/general-conference/1990/10/choices?lang=eng
+  year: 1990
+- article_id: '90911_000_031'
+  item: 028
+  key: 028-the-resurrection
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-resurrection
+  speaker: Hartman Rector, Jr.
+  title: The Resurrection
+  url: https://www.lds.org/general-conference/1990/10/the-resurrection?lang=eng
+  year: 1990
+- article_id: '90911_000_032'
+  item: 029
+  key: 029-draw-strength-from-the-book-of-mormon
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: draw-strength-from-the-book-of-mormon
+  speaker: Ruth B. Wright
+  title: Draw Strength from the Book of Mormon
+  url: https://www.lds.org/general-conference/1990/10/draw-strength-from-the-book-of-mormon?lang=eng
+  year: 1990
+- article_id: '90911_000_033'
+  item: '030'
+  key: 030-in-all-things-give-thanks
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: in-all-things-give-thanks
+  speaker: Helio R. Camargo
+  title: In All Things, Give Thanks
+  url: https://www.lds.org/general-conference/1990/10/in-all-things-give-thanks?lang=eng
+  year: 1990
+- article_id: '90911_000_034'
+  item: '031'
+  key: 031-follow-the-prophets
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: follow-the-prophets
+  speaker: Waldo P. Call
+  title: Follow the Prophets
+  url: https://www.lds.org/general-conference/1990/10/follow-the-prophets?lang=eng
+  year: 1990
+- article_id: '90911_000_035'
+  item: '032'
+  key: 032-covenants
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: covenants
+  speaker: Boyd K. Packer
+  title: Covenants
+  url: https://www.lds.org/general-conference/1990/10/covenants?lang=eng
+  year: 1990
+- article_id: '90911_000_036'
+  item: '033'
+  key: 033-god-be-with-you-till-we-meet-again
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: god-be-with-you-till-we-meet-again
+  speaker: Thomas S. Monson
+  title: "\u201CGod Be with You Till We Meet Again\u201D"
+  url: https://www.lds.org/general-conference/1990/10/god-be-with-you-till-we-meet-again?lang=eng
+  year: 1990
+- article_id: '90911_000_037'
+  item: '034'
+  key: 034-these-things-are-manifested-unto-us-plainly
+  month: 10
+  session_id: womens
+  session_title: General Women's Meeting
+  slug: these-things-are-manifested-unto-us-plainly
+  speaker: Elaine L. Jack
+  title: "\u201CThese Things Are Manifested unto Us Plainly\u201D"
+  url: https://www.lds.org/general-conference/1990/10/these-things-are-manifested-unto-us-plainly?lang=eng
+  year: 1990
+- article_id: '90911_000_038'
+  item: '035'
+  key: 035-kindness-a-part-of-gods-plan
+  month: 10
+  session_id: womens
+  session_title: General Women's Meeting
+  slug: kindness-a-part-of-gods-plan
+  speaker: Betty Jo Jepsen
+  title: "Kindness\u2014A Part of God\u2019s Plan"
+  url: https://www.lds.org/general-conference/1990/10/kindness-a-part-of-gods-plan?lang=eng
+  year: 1990
+- article_id: '90911_000_039'
+  item: '036'
+  key: 036-crickets-can-be-destroyed-through-spirituality
+  month: 10
+  session_id: womens
+  session_title: General Women's Meeting
+  slug: crickets-can-be-destroyed-through-spirituality
+  speaker: Ardeth G. Kapp
+  title: "\u201CCrickets\u201D Can Be Destroyed through Spirituality"
+  url: https://www.lds.org/general-conference/1990/10/crickets-can-be-destroyed-through-spirituality?lang=eng
+  year: 1990
+- article_id: '90911_000_040'
+  item: '037'
+  key: 037-the-lighthouse-of-the-lord
+  month: 10
+  session_id: womens
+  session_title: General Women's Meeting
+  slug: the-lighthouse-of-the-lord
+  speaker: Thomas S. Monson
+  title: The Lighthouse of the Lord
+  url: https://www.lds.org/general-conference/1990/10/the-lighthouse-of-the-lord?lang=eng
+  year: 1990
+month: 10
+year: 1990

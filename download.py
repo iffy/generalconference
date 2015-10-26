@@ -45,12 +45,12 @@ class CachingDownloader(object):
         cache_key = hashlib.sha1(url).hexdigest()
         cache_file = self.cache_dir.child(cache_key)
         if not cache_file.exists():
-            log('GET', url)
+            log('GET', url, cache_key)
             r = requests.get(url)
             cache_file.setContent(r.content)
             cache_file.chmod(0664)
         else:
-            log('[CACHE] GET', url)
+            log('[CACHE] GET', url, cache_key)
         return cache_file.getContent()
 
 downloader = CachingDownloader()
@@ -192,11 +192,18 @@ def extractTalkAsMarkdown(html, metadata):
     list_items = primary.xpath('.//ul[@class="bullet"]/li')
     list_items += primary.xpath('.//ol/li')
     for li in list_items:
-        label = li.xpath('.//span[@class="label"]')[0]
-        label.text = ''
-        label.drop_tag()
-        for anchor in li.xpath('.//a[@name]'):
-            anchor.getparent().remove(anchor)
+        label = li.xpath('.//span[@class="label"]')
+        if label:
+            label = label[0]
+            label.text = ''
+            label.drop_tag()
+            for anchor in li.xpath('.//a[@name]'):
+                anchor.getparent().remove(anchor)
+        else:
+            # 1990 Oct, Elder Scott
+            childs = li.getchildren()
+            for child in childs:
+                child.drop_tag()
 
     # replace citations
     for citation in primary.xpath('.//sup[@class="noteMarker"]/a'):
