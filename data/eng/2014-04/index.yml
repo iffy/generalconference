@@ -1,0 +1,443 @@
+items:
+- article_id: 10985_000_11monson
+  item: '003'
+  key: 003-welcome-to-conference
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: welcome-to-conference
+  speaker: "By President Thomas\_S. Monson"
+  title: Welcome to Conference
+  url: https://www.lds.org/general-conference/2014/04/welcome-to-conference?lang=eng
+  year: 2014
+- article_id: 10985_000_12holland
+  item: '004'
+  key: 004-the-cost-and-blessings-of-discipleship
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-cost-and-blessings-of-discipleship
+  speaker: "By Elder Jeffrey\_R. Holland"
+  title: "The Cost\u2014and Blessings\u2014of Discipleship"
+  url: https://www.lds.org/general-conference/2014/04/the-cost-and-blessings-of-discipleship?lang=eng
+  year: 2014
+- article_id: 10985_000_13rasband
+  item: '005'
+  key: 005-the-joyful-burden-of-discipleship
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-joyful-burden-of-discipleship
+  speaker: "By Elder Ronald\_A. Rasband"
+  title: The Joyful Burden of Discipleship
+  url: https://www.lds.org/general-conference/2014/04/the-joyful-burden-of-discipleship?lang=eng
+  year: 2014
+- article_id: 10985_000_14amado
+  item: '006'
+  key: 006-christ-the-redeemer
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: christ-the-redeemer
+  speaker: "By Elder Carlos\_H. Amado"
+  title: Christ the Redeemer
+  url: https://www.lds.org/general-conference/2014/04/christ-the-redeemer?lang=eng
+  year: 2014
+- article_id: 10985_000_15reeves
+  item: 008
+  key: 008-protection-from-pornography-a-christ-focused-home
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: protection-from-pornography-a-christ-focused-home
+  speaker: "By Linda\_S. Reeves"
+  title: "Protection from Pornography\u2014a Christ-Focused Home"
+  url: https://www.lds.org/general-conference/2014/04/protection-from-pornography-a-christ-focused-home?lang=eng
+  year: 2014
+- article_id: 10985_000_16andersen
+  item: 009
+  key: 009-spiritual-whirlwinds
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: spiritual-whirlwinds
+  speaker: "By Elder Neil\_L. Andersen"
+  title: Spiritual Whirlwinds
+  url: https://www.lds.org/general-conference/2014/04/spiritual-whirlwinds?lang=eng
+  year: 2014
+- article_id: 10985_000_17eyring
+  item: '011'
+  key: 011-a-priceless-heritage-of-hope
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: a-priceless-heritage-of-hope
+  speaker: "By President Henry\_B. Eyring"
+  title: A Priceless Heritage of Hope
+  url: https://www.lds.org/general-conference/2014/04/a-priceless-heritage-of-hope?lang=eng
+  year: 2014
+- article_id: 10985_000_21uchtdorf
+  item: '015'
+  key: 015-the-sustaining-of-church-officers
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-sustaining-of-church-officers
+  speaker: "Presented by President Dieter\_F. Uchtdorf"
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/2014/04/the-sustaining-of-church-officers?lang=eng
+  year: 2014
+- article_id: 10985_000_22jergensen
+  item: '016'
+  key: 016-church-auditing-department-report-2013
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: church-auditing-department-report-2013
+  speaker: "Presented by Kevin\_R. Jergensen"
+  title: Church Auditing Department Report, 2013
+  url: https://www.lds.org/general-conference/2014/04/church-auditing-department-report-2013?lang=eng
+  year: 2014
+- article_id: 10985_000_23hales
+  item: '017'
+  key: 017-statistical-report-2013
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: statistical-report-2013
+  speaker: Presented by Brook P. Hales
+  title: Statistical Report, 2013
+  url: https://www.lds.org/general-conference/2014/04/statistical-report-2013?lang=eng
+  year: 2014
+- article_id: 10985_000_24nelson
+  item: 018
+  key: 018-let-your-faith-show
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: let-your-faith-show
+  speaker: "By Elder Russell\_M. Nelson"
+  title: Let Your Faith Show
+  url: https://www.lds.org/general-conference/2014/04/let-your-faith-show?lang=eng
+  year: 2014
+- article_id: 10985_000_25scott
+  item: 019
+  key: 019-i-have-given-you-an-example
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: i-have-given-you-an-example
+  speaker: By Elder Richard G. Scott
+  title: "\u201CI Have Given You an Example\u201D"
+  url: https://www.lds.org/general-conference/2014/04/i-have-given-you-an-example?lang=eng
+  year: 2014
+- article_id: 10985_000_26hales
+  item: '021'
+  key: 021-if-ye-love-me-keep-my-commandments
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: if-ye-love-me-keep-my-commandments
+  speaker: "By Elder Robert\_D. Hales"
+  title: "\u201CIf Ye Love Me, Keep My Commandments\u201D"
+  url: https://www.lds.org/general-conference/2014/04/if-ye-love-me-keep-my-commandments?lang=eng
+  year: 2014
+- article_id: 10985_000_27zivic
+  item: '022'
+  key: 022-lets-not-take-the-wrong-way
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: lets-not-take-the-wrong-way
+  speaker: "By Elder Claudio\_D. Zivic"
+  title: "Let\u2019s Not Take the Wrong Way"
+  url: https://www.lds.org/general-conference/2014/04/lets-not-take-the-wrong-way?lang=eng
+  year: 2014
+- article_id: 10985_000_28zwick
+  item: '023'
+  key: 023-what-are-you-thinking
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: what-are-you-thinking
+  speaker: "By Elder W.\_Craig Zwick"
+  title: What Are You Thinking?
+  url: https://www.lds.org/general-conference/2014/04/what-are-you-thinking?lang=eng
+  year: 2014
+- article_id: 10985_000_29cook
+  item: '024'
+  key: 024-roots-and-branches
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: roots-and-branches
+  speaker: "By Elder Quentin\_L. Cook"
+  title: Roots and Branches
+  url: https://www.lds.org/general-conference/2014/04/roots-and-branches?lang=eng
+  year: 2014
+- article_id: 10985_000_31oaks
+  item: 028
+  key: 028-the-keys-and-authority-of-the-priesthood
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-keys-and-authority-of-the-priesthood
+  speaker: "By Elder Dallin\_H. Oaks"
+  title: The Keys and Authority of the Priesthood
+  url: https://www.lds.org/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng
+  year: 2014
+- article_id: 10985_000_32hallstrom
+  item: 029
+  key: 029-what-manner-of-men
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: what-manner-of-men
+  speaker: "By Elder Donald\_L. Hallstrom"
+  title: What Manner of Men?
+  url: https://www.lds.org/general-conference/2014/04/what-manner-of-men?lang=eng
+  year: 2014
+- article_id: 10985_000_33ridd
+  item: '030'
+  key: 030-the-choice-generation
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-choice-generation
+  speaker: "By Randall\_L. Ridd"
+  title: The Choice Generation
+  url: https://www.lds.org/general-conference/2014/04/the-choice-generation?lang=eng
+  year: 2014
+- article_id: 10985_000_34uchtdorf
+  item: '032'
+  key: 032-are-you-sleeping-through-the-restoration
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: are-you-sleeping-through-the-restoration
+  speaker: "By President Dieter\_F. Uchtdorf"
+  title: Are You Sleeping through the Restoration?
+  url: https://www.lds.org/general-conference/2014/04/are-you-sleeping-through-the-restoration?lang=eng
+  year: 2014
+- article_id: 10985_000_35eyring
+  item: '033'
+  key: 033-the-priesthood-man
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-priesthood-man
+  speaker: "By President Henry\_B. Eyring"
+  title: The Priesthood Man
+  url: https://www.lds.org/general-conference/2014/04/the-priesthood-man?lang=eng
+  year: 2014
+- article_id: 10985_000_36monson
+  item: '034'
+  key: 034-be-strong-and-of-a-good-courage
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: be-strong-and-of-a-good-courage
+  speaker: "By President Thomas\_S. Monson"
+  title: Be Strong and of a Good Courage
+  url: https://www.lds.org/general-conference/2014/04/be-strong-and-of-a-good-courage?lang=eng
+  year: 2014
+- article_id: 10985_000_41uchtdorf
+  item: 039
+  key: 039-grateful-in-any-circumstances
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: grateful-in-any-circumstances
+  speaker: "By President Dieter\_F. Uchtdorf"
+  title: Grateful in Any Circumstances
+  url: https://www.lds.org/general-conference/2014/04/grateful-in-any-circumstances?lang=eng
+  year: 2014
+- article_id: 10985_000_42ballard
+  item: '040'
+  key: 040-following-up
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: following-up
+  speaker: "By Elder M.\_Russell Ballard"
+  title: Following Up
+  url: https://www.lds.org/general-conference/2014/04/following-up?lang=eng
+  year: 2014
+- article_id: 10985_000_43stevens
+  item: '041'
+  key: 041-fear-not-i-am-with-thee
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: fear-not-i-am-with-thee
+  speaker: "By Jean\_A. Stevens"
+  title: "\u201CFear Not; I Am with Thee\u201D"
+  url: https://www.lds.org/general-conference/2014/04/fear-not-i-am-with-thee?lang=eng
+  year: 2014
+- article_id: 10985_000_44stevenson
+  item: '043'
+  key: 043-your-four-minutes
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: your-four-minutes
+  speaker: "By Bishop Gary\_E. Stevenson"
+  title: Your Four Minutes
+  url: https://www.lds.org/general-conference/2014/04/your-four-minutes?lang=eng
+  year: 2014
+- article_id: 10985_000_45bednar
+  item: '044'
+  key: 044-bear-up-their-burdens-with-ease
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: bear-up-their-burdens-with-ease
+  speaker: "By Elder David\_A. Bednar"
+  title: Bear Up Their Burdens with Ease
+  url: https://www.lds.org/general-conference/2014/04/bear-up-their-burdens-with-ease?lang=eng
+  year: 2014
+- article_id: 10985_000_46monson
+  item: '046'
+  key: 046-love-the-essence-of-the-gospel
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: love-the-essence-of-the-gospel
+  speaker: "By President Thomas\_S. Monson"
+  title: "Love\u2014the Essence of the Gospel"
+  url: https://www.lds.org/general-conference/2014/04/love-the-essence-of-the-gospel?lang=eng
+  year: 2014
+- article_id: 10985_000_51packer
+  item: '050'
+  key: 050-the-witness
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-witness
+  speaker: "By President Boyd\_K. Packer"
+  title: The Witness
+  url: https://www.lds.org/general-conference/2014/04/the-witness?lang=eng
+  year: 2014
+- article_id: 10985_000_52walker
+  item: '051'
+  key: 051-live-true-to-the-faith
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: live-true-to-the-faith
+  speaker: "By Elder William\_R. Walker"
+  title: Live True to the Faith
+  url: https://www.lds.org/general-conference/2014/04/live-true-to-the-faith?lang=eng
+  year: 2014
+- article_id: 10985_000_53perry
+  item: '052'
+  key: 052-obedience-through-our-faithfulness
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: obedience-through-our-faithfulness
+  speaker: "By Elder L.\_Tom Perry"
+  title: Obedience through Our Faithfulness
+  url: https://www.lds.org/general-conference/2014/04/obedience-through-our-faithfulness?lang=eng
+  year: 2014
+- article_id: 10985_000_54corbridge
+  item: '054'
+  key: 054-the-prophet-joseph-smith
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-prophet-joseph-smith
+  speaker: "By Elder Lawrence\_E. Corbridge"
+  title: The Prophet Joseph Smith
+  url: https://www.lds.org/general-conference/2014/04/the-prophet-joseph-smith?lang=eng
+  year: 2014
+- article_id: 10985_000_55teh
+  item: '055'
+  key: 055-where-your-treasure-is
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: where-your-treasure-is
+  speaker: "By Elder Michael John\_U. Teh"
+  title: Where Your Treasure Is
+  url: https://www.lds.org/general-conference/2014/04/where-your-treasure-is?lang=eng
+  year: 2014
+- article_id: 10985_000_56aidukaitis
+  item: '056'
+  key: 056-if-ye-lack-wisdom
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: if-ye-lack-wisdom
+  speaker: "By Elder Marcos\_A. Aidukaitis"
+  title: If Ye Lack Wisdom
+  url: https://www.lds.org/general-conference/2014/04/if-ye-lack-wisdom?lang=eng
+  year: 2014
+- article_id: 10985_000_57christofferson
+  item: '057'
+  key: 057-the-resurrection-of-jesus-christ
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-resurrection-of-jesus-christ
+  speaker: "By Elder D.\_Todd Christofferson"
+  title: The Resurrection of Jesus Christ
+  url: https://www.lds.org/general-conference/2014/04/the-resurrection-of-jesus-christ?lang=eng
+  year: 2014
+- article_id: 10985_000_58monson
+  item: 058
+  key: 058-until-we-meet-again
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: until-we-meet-again
+  speaker: "By President Thomas\_S. Monson"
+  title: Until We Meet Again
+  url: https://www.lds.org/general-conference/2014/04/until-we-meet-again?lang=eng
+  year: 2014
+- article_id: 10985_000_61wixom
+  item: '062'
+  key: 062-keeping-covenants-protects-us-prepares-us-and-empowers-us
+  month: 4
+  session_id: womens
+  session_title: General Women's Meeting
+  slug: keeping-covenants-protects-us-prepares-us-and-empowers-us
+  speaker: "By Rosemary\_M. Wixom"
+  title: Keeping Covenants Protects Us, Prepares Us, and Empowers Us
+  url: https://www.lds.org/general-conference/2014/04/keeping-covenants-protects-us-prepares-us-and-empowers-us?lang=eng
+  year: 2014
+- article_id: 10985_000_62oscarson
+  item: '064'
+  key: 064-sisterhood-oh-how-we-need-each-other
+  month: 4
+  session_id: womens
+  session_title: General Women's Meeting
+  slug: sisterhood-oh-how-we-need-each-other
+  speaker: "By Bonnie\_L. Oscarson"
+  title: 'Sisterhood: Oh, How We Need Each Other'
+  url: https://www.lds.org/general-conference/2014/04/sisterhood-oh-how-we-need-each-other?lang=eng
+  year: 2014
+- article_id: 10985_000_63burton
+  item: '066'
+  key: 066-wanted-hands-and-hearts-to-hasten-the-work
+  month: 4
+  session_id: womens
+  session_title: General Women's Meeting
+  slug: wanted-hands-and-hearts-to-hasten-the-work
+  speaker: "By Linda\_K. Burton"
+  title: 'Wanted: Hands and Hearts to Hasten the Work'
+  url: https://www.lds.org/general-conference/2014/04/wanted-hands-and-hearts-to-hasten-the-work?lang=eng
+  year: 2014
+- article_id: 10985_000_64eyring
+  item: 068
+  key: 068-daughters-in-the-covenant
+  month: 4
+  session_id: womens
+  session_title: General Women's Meeting
+  slug: daughters-in-the-covenant
+  speaker: "By President Henry\_B. Eyring"
+  title: Daughters in the Covenant
+  url: https://www.lds.org/general-conference/2014/04/daughters-in-the-covenant?lang=eng
+  year: 2014
+month: 4
+year: 2014

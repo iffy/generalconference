@@ -1,0 +1,466 @@
+items:
+- article_id: PD00009475_000_003
+  item: '002'
+  key: 002-the-sustaining-of-church-officers
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-sustaining-of-church-officers
+  speaker: President Dieter F. Uchtdorf
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/2008/04/the-sustaining-of-church-officers?lang=eng
+  year: 2008
+- article_id: PD00009475_000_004
+  item: '003'
+  key: 003-salvation-and-exaltation
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: salvation-and-exaltation
+  speaker: Elder Russell M. Nelson
+  title: Salvation and Exaltation
+  url: https://www.lds.org/general-conference/2008/04/salvation-and-exaltation?lang=eng
+  year: 2008
+- article_id: PD00009475_000_005
+  item: '005'
+  key: 005-special-experiences
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: special-experiences
+  speaker: Elder Ronald A. Rasband
+  title: Special Experiences
+  url: https://www.lds.org/general-conference/2008/04/special-experiences?lang=eng
+  year: 2008
+- article_id: PD00009475_000_006
+  item: '006'
+  key: 006-righteous-traditions
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: righteous-traditions
+  speaker: Cheryl C. Lant
+  title: Righteous Traditions
+  url: https://www.lds.org/general-conference/2008/04/righteous-traditions?lang=eng
+  year: 2008
+- article_id: PD00009475_000_007
+  item: 008
+  key: 008-restoring-faith-in-the-family
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: restoring-faith-in-the-family
+  speaker: Elder Kenneth Johnson
+  title: Restoring Faith in the Family
+  url: https://www.lds.org/general-conference/2008/04/restoring-faith-in-the-family?lang=eng
+  year: 2008
+- article_id: PD00009475_000_008
+  item: 009
+  key: 009-concern-for-the-one
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: concern-for-the-one
+  speaker: Elder Joseph B. Wirthlin
+  title: Concern for the One
+  url: https://www.lds.org/general-conference/2008/04/concern-for-the-one?lang=eng
+  year: 2008
+- article_id: PD00009475_000_009
+  item: '011'
+  key: 011-the-true-and-living-church
+  month: 4
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: the-true-and-living-church
+  speaker: President Henry B. Eyring
+  title: The True and Living Church
+  url: https://www.lds.org/general-conference/2008/04/the-true-and-living-church?lang=eng
+  year: 2008
+- article_id: PD00009475_000_010
+  item: '015'
+  key: 015-church-auditing-department-report-2007
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: church-auditing-department-report-2007
+  speaker: Robert W. Cantwell
+  title: Church Auditing Department Report, 2007
+  url: https://www.lds.org/general-conference/2008/04/church-auditing-department-report-2007?lang=eng
+  year: 2008
+- article_id: PD00009475_000_011
+  item: '016'
+  key: 016-statistical-report-2007
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: statistical-report-2007
+  speaker: Elder F. Michael Watson
+  title: Statistical Report, 2007
+  url: https://www.lds.org/general-conference/2008/04/statistical-report-2007?lang=eng
+  year: 2008
+- article_id: PD00009475_000_012
+  item: '017'
+  key: 017-testimony
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: testimony
+  speaker: Elder Dallin H. Oaks
+  title: Testimony
+  url: https://www.lds.org/general-conference/2008/04/testimony?lang=eng
+  year: 2008
+- article_id: PD00009475_000_013
+  item: 018
+  key: 018-gaining-a-testimony-of-god-the-father-his-son-jesus-christ-and-the-holy-ghost
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: gaining-a-testimony-of-god-the-father-his-son-jesus-christ-and-the-holy-ghost
+  speaker: Elder Robert D. Hales
+  title: Gaining a Testimony of God the Father; His Son, Jesus Christ; and the Holy
+    Ghost
+  url: https://www.lds.org/general-conference/2008/04/gaining-a-testimony-of-god-the-father-his-son-jesus-christ-and-the-holy-ghost?lang=eng
+  year: 2008
+- article_id: PD00009475_000_014
+  item: 019
+  key: 019-opening-our-hearts
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: opening-our-hearts
+  speaker: Elder Gerald N. Lund
+  title: Opening Our Hearts
+  url: https://www.lds.org/general-conference/2008/04/opening-our-hearts?lang=eng
+  year: 2008
+- article_id: PD00009475_000_015
+  item: '021'
+  key: 021-service-a-divine-quality
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: service-a-divine-quality
+  speaker: Elder Carlos H. Amado
+  title: Service, a Divine Quality
+  url: https://www.lds.org/general-conference/2008/04/service-a-divine-quality?lang=eng
+  year: 2008
+- article_id: PD00009475_000_016
+  item: '022'
+  key: 022-three-presiding-high-priests
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: three-presiding-high-priests
+  speaker: Elder William R. Walker
+  title: Three Presiding High Priests
+  url: https://www.lds.org/general-conference/2008/04/three-presiding-high-priests?lang=eng
+  year: 2008
+- article_id: PD00009475_000_017
+  item: '023'
+  key: 023-to-heal-the-shattering-consequences-of-abuse
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: to-heal-the-shattering-consequences-of-abuse
+  speaker: Richard G. Scott
+  title: To Heal the Shattering Consequences of Abuse
+  url: https://www.lds.org/general-conference/2008/04/to-heal-the-shattering-consequences-of-abuse?lang=eng
+  year: 2008
+- article_id: PD00009475_000_018
+  item: '024'
+  key: 024-the-gospel-of-jesus-christ
+  month: 4
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-gospel-of-jesus-christ
+  speaker: Elder L. Tom Perry
+  title: The Gospel of Jesus Christ
+  url: https://www.lds.org/general-conference/2008/04/the-gospel-of-jesus-christ?lang=eng
+  year: 2008
+- article_id: PD00009475_000_019
+  item: 028
+  key: 028-give-heed-unto-the-prophets-words
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: give-heed-unto-the-prophets-words
+  speaker: Elder Quentin L. Cook
+  title: "Give Heed unto the Prophets\u2019 Words"
+  url: https://www.lds.org/general-conference/2008/04/give-heed-unto-the-prophets-words?lang=eng
+  year: 2008
+- article_id: PD00009475_000_020
+  item: 029
+  key: 029-and-who-is-my-neighbor
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: and-who-is-my-neighbor
+  speaker: Bishop H. David Burton
+  title: And Who Is My Neighbor?
+  url: https://www.lds.org/general-conference/2008/04/and-who-is-my-neighbor?lang=eng
+  year: 2008
+- article_id: PD00009475_000_021
+  item: '030'
+  key: 030-do-you-know-who-you-are
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: do-you-know-who-you-are
+  speaker: Dean R. Burgess
+  title: Do You Know Who You Are?
+  url: https://www.lds.org/general-conference/2008/04/do-you-know-who-you-are?lang=eng
+  year: 2008
+- article_id: PD00009475_000_022
+  item: '031'
+  key: 031-a-12-year-old-deacon
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: a-12-year-old-deacon
+  speaker: Elder John M. Madsen
+  title: A 12-Year-Old Deacon
+  url: https://www.lds.org/general-conference/2008/04/a-12-year-old-deacon?lang=eng
+  year: 2008
+- article_id: PD00009475_000_023
+  item: '033'
+  key: 033-a-matter-of-a-few-degrees
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: a-matter-of-a-few-degrees
+  speaker: President Dieter F. Uchtdorf
+  title: A Matter of a Few Degrees
+  url: https://www.lds.org/general-conference/2008/04/a-matter-of-a-few-degrees?lang=eng
+  year: 2008
+- article_id: PD00009475_000_024
+  item: '034'
+  key: 034-faith-and-the-oath-and-covenant-of-the-priesthood
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: faith-and-the-oath-and-covenant-of-the-priesthood
+  speaker: President Henry B. Eyring
+  title: Faith and the Oath and Covenant of the Priesthood
+  url: https://www.lds.org/general-conference/2008/04/faith-and-the-oath-and-covenant-of-the-priesthood?lang=eng
+  year: 2008
+- article_id: PD00009475_000_025
+  item: '035'
+  key: 035-examples-of-righteousness
+  month: 4
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: examples-of-righteousness
+  speaker: President Thomas S. Monson
+  title: Examples of Righteousness
+  url: https://www.lds.org/general-conference/2008/04/examples-of-righteousness?lang=eng
+  year: 2008
+- article_id: PD00009475_000_026
+  item: '040'
+  key: 040-faith-of-our-father
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: faith-of-our-father
+  speaker: President Dieter F. Uchtdorf
+  title: Faith of Our Father
+  url: https://www.lds.org/general-conference/2008/04/faith-of-our-father?lang=eng
+  year: 2008
+- article_id: PD00009475_000_027
+  item: '041'
+  key: 041-born-again
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: born-again
+  speaker: Elder D. Todd Christofferson
+  title: Born Again
+  url: https://www.lds.org/general-conference/2008/04/born-again?lang=eng
+  year: 2008
+- article_id: PD00009475_000_028
+  item: '042'
+  key: 042-the-best-investment
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-best-investment
+  speaker: Elder Sheldon F. Child
+  title: The Best Investment
+  url: https://www.lds.org/general-conference/2008/04/the-best-investment?lang=eng
+  year: 2008
+- article_id: PD00009475_000_029
+  item: '044'
+  key: 044-my-soul-delighteth-in-the-things-of-the-lord
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: my-soul-delighteth-in-the-things-of-the-lord
+  speaker: Susan W. Tanner
+  title: My Soul Delighteth in the Things of the Lord
+  url: https://www.lds.org/general-conference/2008/04/my-soul-delighteth-in-the-things-of-the-lord?lang=eng
+  year: 2008
+- article_id: PD00009475_000_030
+  item: '045'
+  key: 045-the-twelve
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: the-twelve
+  speaker: President Boyd K. Packer
+  title: The Twelve
+  url: https://www.lds.org/general-conference/2008/04/the-twelve?lang=eng
+  year: 2008
+- article_id: PD00009475_000_031
+  item: '047'
+  key: 047-looking-back-and-moving-forward
+  month: 4
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: looking-back-and-moving-forward
+  speaker: President Thomas S. Monson
+  title: Looking Back and Moving Forward
+  url: https://www.lds.org/general-conference/2008/04/looking-back-and-moving-forward?lang=eng
+  year: 2008
+- article_id: PD00009475_000_032
+  item: '051'
+  key: 051-my-words-never-cease
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: my-words-never-cease
+  speaker: Elder Jeffrey R. Holland
+  title: "\u201CMy Words \u2026 Never Cease\u201D"
+  url: https://www.lds.org/general-conference/2008/04/my-words-never-cease?lang=eng
+  year: 2008
+- article_id: PD00009475_000_033
+  item: '052'
+  key: 052-ask-in-faith
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: ask-in-faith
+  speaker: Elder David A. Bednar
+  title: Ask in Faith
+  url: https://www.lds.org/general-conference/2008/04/ask-in-faith?lang=eng
+  year: 2008
+- article_id: PD00009475_000_034
+  item: '053'
+  key: 053-we-will-not-yield-we-cannot-yield
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: we-will-not-yield-we-cannot-yield
+  speaker: Elder W. Craig Zwick
+  title: We Will Not Yield, We Cannot Yield
+  url: https://www.lds.org/general-conference/2008/04/we-will-not-yield-we-cannot-yield?lang=eng
+  year: 2008
+- article_id: PD00009475_000_035
+  item: '055'
+  key: 055-the-power-of-light-and-truth
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-power-of-light-and-truth
+  speaker: Elder Robert R. Steuer
+  title: The Power of Light and Truth
+  url: https://www.lds.org/general-conference/2008/04/the-power-of-light-and-truth?lang=eng
+  year: 2008
+- article_id: PD00009475_000_036
+  item: '056'
+  key: 056-one-among-the-crowd
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: one-among-the-crowd
+  speaker: Elder Dennis B. Neuenschwander
+  title: One among the Crowd
+  url: https://www.lds.org/general-conference/2008/04/one-among-the-crowd?lang=eng
+  year: 2008
+- article_id: PD00009475_000_037
+  item: '057'
+  key: 057-today
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: today
+  speaker: Elder Lance B. Wickman
+  title: Today
+  url: https://www.lds.org/general-conference/2008/04/today?lang=eng
+  year: 2008
+- article_id: PD00009475_000_038
+  item: 058
+  key: 058-a-book-with-a-promise
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: a-book-with-a-promise
+  speaker: Elder Craig C. Christensen
+  title: A Book with a Promise
+  url: https://www.lds.org/general-conference/2008/04/a-book-with-a-promise?lang=eng
+  year: 2008
+- article_id: PD00009475_000_039
+  item: 059
+  key: 059-daughters-of-god
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: daughters-of-god
+  speaker: Elder M. Russell Ballard
+  title: Daughters of God
+  url: https://www.lds.org/general-conference/2008/04/daughters-of-god?lang=eng
+  year: 2008
+- article_id: PD00009475_000_040
+  item: '060'
+  key: 060-abundantly-blessed
+  month: 4
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: abundantly-blessed
+  speaker: President Thomas S. Monson
+  title: Abundantly Blessed
+  url: https://www.lds.org/general-conference/2008/04/abundantly-blessed?lang=eng
+  year: 2008
+- article_id: PD00009475_000_041
+  item: '063'
+  key: 063-stand-as-a-witness
+  month: 4
+  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: stand-as-a-witness
+  speaker: Susan W. Tanner
+  title: Stand as a Witness
+  url: https://www.lds.org/general-conference/2008/04/stand-as-a-witness?lang=eng
+  year: 2008
+- article_id: PD00009475_000_042
+  item: '065'
+  key: 065-at-all-times-in-all-things-and-in-all-places
+  month: 4
+  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: at-all-times-in-all-things-and-in-all-places
+  speaker: Elaine S. Dalton
+  title: At All Times, in All Things, and in All Places
+  url: https://www.lds.org/general-conference/2008/04/at-all-times-in-all-things-and-in-all-places?lang=eng
+  year: 2008
+- article_id: PD00009475_000_044
+  item: '067'
+  key: 067-anchors-of-testimony
+  month: 4
+  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: anchors-of-testimony
+  speaker: Mary N. Cook
+  title: Anchors of Testimony
+  url: https://www.lds.org/general-conference/2008/04/anchors-of-testimony?lang=eng
+  year: 2008
+- article_id: PD00009475_000_045
+  item: 069
+  key: 069-walk-in-the-light
+  month: 4
+  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: walk-in-the-light
+  speaker: President Henry B. Eyring
+  title: Walk in the Light
+  url: https://www.lds.org/general-conference/2008/04/walk-in-the-light?lang=eng
+  year: 2008
+month: 4
+year: 2008

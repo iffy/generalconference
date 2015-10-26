@@ -1,0 +1,421 @@
+items:
+- article_id: '99265_000_003'
+  item: '002'
+  key: 002-welcome-to-conference
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: welcome-to-conference
+  speaker: Gordon B. Hinckley
+  title: Welcome to Conference
+  url: https://www.lds.org/general-conference/1999/10/welcome-to-conference?lang=eng
+  year: 1999
+- article_id: '99265_000_004'
+  item: '004'
+  key: 004-lessons-from-laman-and-lemuel
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: lessons-from-laman-and-lemuel
+  speaker: Neal A. Maxwell
+  title: Lessons from Laman and Lemuel
+  url: https://www.lds.org/general-conference/1999/10/lessons-from-laman-and-lemuel?lang=eng
+  year: 1999
+- article_id: '99265_000_005'
+  item: '005'
+  key: 005-feed-my-sheep
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: feed-my-sheep
+  speaker: Ben B. Banks
+  title: "\u201CFeed My Sheep\u201D"
+  url: https://www.lds.org/general-conference/1999/10/feed-my-sheep?lang=eng
+  year: 1999
+- article_id: '99265_000_006'
+  item: '007'
+  key: 007-agency-a-blessing-and-a-burden
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: agency-a-blessing-and-a-burden
+  speaker: Sharon G. Larsen
+  title: "Agency\u2014A Blessing and a Burden"
+  url: https://www.lds.org/general-conference/1999/10/agency-a-blessing-and-a-burden?lang=eng
+  year: 1999
+- article_id: '99265_000_007'
+  item: 008
+  key: 008-one-link-still-holds
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: one-link-still-holds
+  speaker: Vaughn J. Featherstone
+  title: One Link Still Holds
+  url: https://www.lds.org/general-conference/1999/10/one-link-still-holds?lang=eng
+  year: 1999
+- article_id: '99265_000_008'
+  item: 009
+  key: 009-prophets-and-spiritual-mole-crickets
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: prophets-and-spiritual-mole-crickets
+  speaker: Neil L. Andersen
+  title: Prophets and Spiritual Mole Crickets
+  url: https://www.lds.org/general-conference/1999/10/prophets-and-spiritual-mole-crickets?lang=eng
+  year: 1999
+- article_id: '99265_000_009'
+  item: '011'
+  key: 011-becoming-our-best-selves
+  month: 10
+  session_id: saturday-morning
+  session_title: Saturday Morning Session
+  slug: becoming-our-best-selves
+  speaker: Thomas S. Monson
+  title: Becoming Our Best Selves
+  url: https://www.lds.org/general-conference/1999/10/becoming-our-best-selves?lang=eng
+  year: 1999
+- article_id: '99265_000_010'
+  item: '015'
+  key: 015-the-sustaining-of-church-officers
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-sustaining-of-church-officers
+  speaker: James E. Faust
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/1999/10/the-sustaining-of-church-officers?lang=eng
+  year: 1999
+- article_id: '99265_000_011'
+  item: '016'
+  key: 016-the-spirit-of-revelation
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: the-spirit-of-revelation
+  speaker: Boyd K. Packer
+  title: The Spirit of Revelation
+  url: https://www.lds.org/general-conference/1999/10/the-spirit-of-revelation?lang=eng
+  year: 1999
+- article_id: '99265_000_012'
+  item: '017'
+  key: 017-for-this-cause-came-i-into-the-world
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: for-this-cause-came-i-into-the-world
+  speaker: Alexander B. Morrison
+  title: "\u201CFor This Cause Came I into the World\u201D"
+  url: https://www.lds.org/general-conference/1999/10/for-this-cause-came-i-into-the-world?lang=eng
+  year: 1999
+- article_id: '99265_000_013'
+  item: 018
+  key: 018-serving-the-lord
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: serving-the-lord
+  speaker: Elder Adhemar Damiani
+  title: Serving the Lord
+  url: https://www.lds.org/general-conference/1999/10/serving-the-lord?lang=eng
+  year: 1999
+- article_id: '99265_000_014'
+  item: '020'
+  key: 020-our-legacy
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: our-legacy
+  speaker: Stephen B. Oveson
+  title: Our Legacy
+  url: https://www.lds.org/general-conference/1999/10/our-legacy?lang=eng
+  year: 1999
+- article_id: '99265_000_015'
+  item: '021'
+  key: 021-spiritual-hurricanes
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: spiritual-hurricanes
+  speaker: David R. Stone
+  title: Spiritual Hurricanes
+  url: https://www.lds.org/general-conference/1999/10/spiritual-hurricanes?lang=eng
+  year: 1999
+- article_id: '99265_000_016'
+  item: '022'
+  key: 022-do-not-delay
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: do-not-delay
+  speaker: Henry B. Eyring
+  title: Do Not Delay
+  url: https://www.lds.org/general-conference/1999/10/do-not-delay?lang=eng
+  year: 1999
+- article_id: '99265_000_017'
+  item: '024'
+  key: 024-an-high-priest-of-good-things-to-come
+  month: 10
+  session_id: saturday-afternoon
+  session_title: Saturday Afternoon Session
+  slug: an-high-priest-of-good-things-to-come
+  speaker: Jeffrey R. Holland
+  title: "\u201CAn High Priest of Good Things to Come\u201D"
+  url: https://www.lds.org/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=eng
+  year: 1999
+- article_id: '99265_000_018'
+  item: 028
+  key: 028-growing-into-the-priesthood
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: growing-into-the-priesthood
+  speaker: Joseph B. Wirthlin
+  title: Growing into the Priesthood
+  url: https://www.lds.org/general-conference/1999/10/growing-into-the-priesthood?lang=eng
+  year: 1999
+- article_id: '99265_000_019'
+  item: 029
+  key: 029-behold-the-man
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: behold-the-man
+  speaker: Richard C. Edgley
+  title: "\u201CBehold the Man\u201D"
+  url: https://www.lds.org/general-conference/1999/10/behold-the-man?lang=eng
+  year: 1999
+- article_id: '99265_000_020'
+  item: '030'
+  key: 030-the-faith-of-a-sparrow-faith-and-trust-in-the-lord-jesus-christ
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: the-faith-of-a-sparrow-faith-and-trust-in-the-lord-jesus-christ
+  speaker: H. Bruce Stucki
+  title: 'The Faith of a Sparrow: Faith and Trust in the Lord Jesus Christ'
+  url: https://www.lds.org/general-conference/1999/10/the-faith-of-a-sparrow-faith-and-trust-in-the-lord-jesus-christ?lang=eng
+  year: 1999
+- article_id: '99265_000_021'
+  item: '031'
+  key: 031-of-seeds-and-soils
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: of-seeds-and-soils
+  speaker: James E. Faust
+  title: Of Seeds and Soils
+  url: https://www.lds.org/general-conference/1999/10/of-seeds-and-soils?lang=eng
+  year: 1999
+- article_id: '99265_000_022'
+  item: '033'
+  key: 033-priesthood-power
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: priesthood-power
+  speaker: Thomas S. Monson
+  title: Priesthood Power
+  url: https://www.lds.org/general-conference/1999/10/priesthood-power?lang=eng
+  year: 1999
+- article_id: '99265_000_023'
+  item: '034'
+  key: 034-why-we-do-some-of-the-things-we-do
+  month: 10
+  session_id: priesthood
+  session_title: Priesthood Session
+  slug: why-we-do-some-of-the-things-we-do
+  speaker: Gordon B. Hinckley
+  title: Why We Do Some of the Things We Do
+  url: https://www.lds.org/general-conference/1999/10/why-we-do-some-of-the-things-we-do?lang=eng
+  year: 1999
+- article_id: '99265_000_024'
+  item: 038
+  key: 038-hope-an-anchor-of-the-soul
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: hope-an-anchor-of-the-soul
+  speaker: James E. Faust
+  title: Hope, an Anchor of the Soul
+  url: https://www.lds.org/general-conference/1999/10/hope-an-anchor-of-the-soul?lang=eng
+  year: 1999
+- article_id: '99265_000_025'
+  item: '040'
+  key: 040-beware-of-false-prophets-and-false-teachers
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: beware-of-false-prophets-and-false-teachers
+  speaker: M. Russell Ballard
+  title: Beware of False Prophets and False Teachers
+  url: https://www.lds.org/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng
+  year: 1999
+- article_id: '99265_000_026'
+  item: '042'
+  key: 042-our-destiny
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: our-destiny
+  speaker: L. Aldin Porter
+  title: Our Destiny
+  url: https://www.lds.org/general-conference/1999/10/our-destiny?lang=eng
+  year: 1999
+- article_id: '99265_000_027'
+  item: '044'
+  key: 044-peace-hope-and-direction
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: peace-hope-and-direction
+  speaker: Patricia P. Pinegar
+  title: Peace, Hope, and Direction
+  url: https://www.lds.org/general-conference/1999/10/peace-hope-and-direction?lang=eng
+  year: 1999
+- article_id: '99265_000_028'
+  item: '046'
+  key: 046-a-testimony-of-the-book-of-mormon
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: a-testimony-of-the-book-of-mormon
+  speaker: Russell M. Nelson
+  title: A Testimony of the Book of Mormon
+  url: https://www.lds.org/general-conference/1999/10/a-testimony-of-the-book-of-mormon?lang=eng
+  year: 1999
+- article_id: '99265_000_029'
+  item: '047'
+  key: 047-at-the-summit-of-the-ages
+  month: 10
+  session_id: sunday-morning
+  session_title: Sunday Morning Session
+  slug: at-the-summit-of-the-ages
+  speaker: Gordon B. Hinckley
+  title: At the Summit of the Ages
+  url: https://www.lds.org/general-conference/1999/10/at-the-summit-of-the-ages?lang=eng
+  year: 1999
+- article_id: '99265_000_030'
+  item: '051'
+  key: 051-a-year-of-jubilee
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: a-year-of-jubilee
+  speaker: L. Tom Perry
+  title: A Year of Jubilee
+  url: https://www.lds.org/general-conference/1999/10/a-year-of-jubilee?lang=eng
+  year: 1999
+- article_id: '99265_000_031'
+  item: '052'
+  key: 052-gospel-teaching
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: gospel-teaching
+  speaker: Dallin H. Oaks
+  title: Gospel Teaching
+  url: https://www.lds.org/general-conference/1999/10/gospel-teaching?lang=eng
+  year: 1999
+- article_id: '99265_000_032'
+  item: '053'
+  key: 053-no-man-is-an-island
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: no-man-is-an-island
+  speaker: Richard H. Winkel
+  title: "\u201CNo Man Is an Island\u201D"
+  url: https://www.lds.org/general-conference/1999/10/no-man-is-an-island?lang=eng
+  year: 1999
+- article_id: '99265_000_033'
+  item: '055'
+  key: 055-the-tongue-of-angels
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: the-tongue-of-angels
+  speaker: Robert S. Wood
+  title: "\u201CThe Tongue of Angels\u201D"
+  url: https://www.lds.org/general-conference/1999/10/the-tongue-of-angels?lang=eng
+  year: 1999
+- article_id: '99265_000_034'
+  item: '056'
+  key: 056-righteousness
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: righteousness
+  speaker: William R. Bradford
+  title: Righteousness
+  url: https://www.lds.org/general-conference/1999/10/righteousness?lang=eng
+  year: 1999
+- article_id: '99265_000_035'
+  item: '057'
+  key: 057-he-lives
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: he-lives
+  speaker: Richard G. Scott
+  title: He Lives
+  url: https://www.lds.org/general-conference/1999/10/he-lives?lang=eng
+  year: 1999
+- article_id: '99265_000_036'
+  item: 058
+  key: 058-good-bye-to-this-wonderful-old-tabernacle
+  month: 10
+  session_id: sunday-afternoon
+  session_title: Sunday Afternoon Session
+  slug: good-bye-to-this-wonderful-old-tabernacle
+  speaker: Gordon B. Hinckley
+  title: Good-bye to This Wonderful Old Tabernacle
+  url: https://www.lds.org/general-conference/1999/10/good-bye-to-this-wonderful-old-tabernacle?lang=eng
+  year: 1999
+- article_id: '99265_000_037'
+  item: '061'
+  key: 061-rejoice-daughters-of-zion
+  month: 10
+  session_id: relief-society
+  session_title: General Relief Society Meeting
+  slug: rejoice-daughters-of-zion
+  speaker: Mary Ellen Smoot
+  title: Rejoice, Daughters of Zion
+  url: https://www.lds.org/general-conference/1999/10/rejoice-daughters-of-zion?lang=eng
+  year: 1999
+- article_id: '99265_000_038'
+  item: '062'
+  key: 062-home-family-and-personal-enrichment
+  month: 10
+  session_id: relief-society
+  session_title: General Relief Society Meeting
+  slug: home-family-and-personal-enrichment
+  speaker: Virginia U. Jensen
+  title: Home, Family, and Personal Enrichment
+  url: https://www.lds.org/general-conference/1999/10/home-family-and-personal-enrichment?lang=eng
+  year: 1999
+- article_id: '99265_000_039'
+  item: '064'
+  key: 064-we-are-women-of-god
+  month: 10
+  session_id: relief-society
+  session_title: General Relief Society Meeting
+  slug: we-are-women-of-god
+  speaker: Sheri L. Dew
+  title: We Are Women of God
+  url: https://www.lds.org/general-conference/1999/10/we-are-women-of-god?lang=eng
+  year: 1999
+- article_id: '99265_000_040'
+  item: '066'
+  key: 066-what-it-means-to-be-a-daughter-of-god
+  month: 10
+  session_id: relief-society
+  session_title: General Relief Society Meeting
+  slug: what-it-means-to-be-a-daughter-of-god
+  speaker: James E. Faust
+  title: What It Means to Be a Daughter of God
+  url: https://www.lds.org/general-conference/1999/10/what-it-means-to-be-a-daughter-of-god?lang=eng
+  year: 1999
+month: 10
+year: 1999
