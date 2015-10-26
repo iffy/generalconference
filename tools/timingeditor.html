@@ -146,7 +146,6 @@ Text + Video:
           loadFromLocalStorage()
             .then(function() {
               // succeeded -- we're good.
-              has_timing_file = true;
               $('.have-local').show();
             }, function(err) {
               // failed, get it from the repo.
