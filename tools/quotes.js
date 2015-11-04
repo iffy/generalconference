@@ -70,8 +70,8 @@ angular.module('gc.quotes', [])
     });
 
     // XXX DRY this off.
-    // copyied from timingeditor.html
-    var parsed = talk.text.split(/(\s+)/);
+    // copied from timingeditor.html
+    var parsed = talk.text.split(/(\s+|--)/);
     var word_counts = {};
     var streams = [];
     var current_stream = [];
