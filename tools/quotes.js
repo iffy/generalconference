@@ -2,6 +2,56 @@ angular.module('gc.quotes', [])
 
 .value('DataUrl', '../data')
 
+.factory('State', function(Server, splitByTiming, $location) {
+  var State = {
+    segments: [],
+    current: null,
+  };
+
+  State.addSegment = function() {
+    console.log('addSegment');
+    State.segments.push({
+      talk_url: null,
+    });
+    State.current = State.segments[State.segments.length-1];
+    State.updateHash();
+  };
+
+  State.chooseTalk = function(segment, year, month, key) {
+    segment.talk_url = null;
+    segment.youtube_id = null;
+    segment.info = null;
+    segment.streams = [];
+    Server.getTalkInfo(year, month, key)
+    .then(function(info) {
+      segment.talk_url = info.url;
+      segment.info = info;
+      if (info.timing) {
+        segment.streams = splitByTiming(info);
+      } else {
+        // no timing info yet
+        console.log('No timing info yet');
+      }
+    })
+  };
+
+  State.toString = function() {
+    return angular.toJson(State.segments);
+  };
+
+  State.fromString = function(s) {
+    State.segments = angular.fromJson(s);
+  };
+
+  State.updateHash = function() {
+    var s = State.toString();
+    console.log('updatehash', s);
+    $location.hash(s);
+  };
+
+  return State;
+})
+
 .factory('Server', function(DataUrl, $http, $q) {
   var Server = this;
 
@@ -51,6 +101,7 @@ angular.module('gc.quotes', [])
           text: data[0],
           metadata: data[1],
           timing: data[2],
+          url: talk_dir,
         }
       })
   }
@@ -62,8 +113,6 @@ angular.module('gc.quotes', [])
 
 .factory('splitByTiming', function() {
   return function(talk) {
-    console.log('splitByTiming', talk);
-
     var timing_by_tcite = {};
     angular.forEach(talk.timing, function(time) {
       timing_by_tcite[time.tcite] = time;
@@ -113,25 +162,12 @@ angular.module('gc.quotes', [])
   }
 })
 
-.controller('QuotesCtrl', function($sce, Server, splitByTiming) {
+.controller('QuotesCtrl', function($sce, State, Server, splitByTiming) {
   var ctrl = this;
+  ctrl.State = State;
   ctrl.quotes = [];
   ctrl.no_timing_info = [];
   ctrl.server = Server;
-
-  ctrl.chooseTalk = function(talk) {
-    Server.getTalkInfo(talk.year, talk.month, talk.key)
-    .then(function(info) {
-      console.log('info', info);
-      if (info.timing) {
-        info.streams = splitByTiming(info);
-        ctrl.quotes.push(info);
-      } else {
-        ctrl.no_timing_info.push(info);
-        // no timing info yet
-      }
-    })
-  }
 
   ctrl.toggleStream = function(quote, stream) {
     console.log(quote);

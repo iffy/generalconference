@@ -19,6 +19,20 @@
   .markdown .section.used {
     background-color: orange;
   }
+  .segments {
+  }
+  .segments .segment {
+    border: 2px solid #ddd;
+    border-radius: 3px;
+    margin: 0.5rem 0;
+    padding: 1rem;
+  }
+  .segments .segment.current {
+    border-color: steelblue;
+  }
+  .segments .add-segment {
+    border-color: #eee;
+  }
   </style>
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
 </head>
@@ -27,18 +41,47 @@
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
   <script src="quotes.js"></script>
   <div class="container">
-    <h1>General Conference Quote Maker</h1>
+    <h1>General Conference Quote Board</h1>
 
-    <p>
-      <ol>
-        <li>Choose a conference talk.</li>
-        <li>Click on the portion of text you want a video for.</li>
-        <li>Click on the YouTube link that appears.</li>
-      </ol>
-    </p>
+    <div class="segments">
+      <div class="segment" ng-class="{current: ctrl.State.current==segment}" ng-repeat="segment in ctrl.State.segments" ng-click="ctrl.State.current=segment">
+        
+        <!-- no talk chosen -->
+        <div ng-if="!segment.talk_url">
+          <label for="conference">Conference</label>
+          <select class="u-full-width" id="conference" ng-model="segment.$conference" ng-options="conf as (conf.year+'/'+conf.month) for conf in ctrl.server.conferences">
+          </select>
+
+          <div class="talks">
+            <div class="talk" ng-repeat="talk in segment.$conference.talk_list">
+              <div class="speaker">{{ talk.speaker }}</div>
+              <div class="title"><a href="" ng-click="ctrl.State.chooseTalk(segment, talk.year, talk.month, talk.key);">{{ talk.title }}</a></div>
+            </div>
+          </div>
+        </div>
+        
+
+        <!-- talk chosen -->
+        <div ng-if="segment.talk_url">
+          <div class="title">{{ segment.info.metadata.title }}</div>
+          <div class="speaker">{{ segment.info.metadata.speaker }}</div>
+
+          <!-- selected -->
+          <div ng-if="segment===ctrl.State.current">
+            
+          <div class="markdown"><span class="section" ng-repeat="stream in segment.streams" ng-click="ctrl.State.toggleStream(segment, stream)" ng-class="{used: stream.used}">{{ stream.text }}</span></div>
+
+          </div>
+
+        </div>
+      </div>
+      <div class="segment add-segment" ng-click="ctrl.State.addSegment()">
+        New snippet
+      </div>
+    </div>
 
     <!-- chooser -->
-    <div class="row">
+    <div class="row" ng-if="">
       <div class="one-half column">
 
         <div ng-if="ctrl.no_timing_info.length">
