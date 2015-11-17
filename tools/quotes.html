@@ -51,6 +51,10 @@
 
     <div id="player"></div>
 
+    <p class="instructions" ng-if="!ctrl.State.segments.length">
+      Click on New snippet to get started.
+    </p>
+
     <div class="segments">
       <div class="segment" ng-class="{current: ctrl.State.current==segment}" ng-repeat="segment in ctrl.State.segments">
         
@@ -73,7 +77,8 @@
         <div ng-if="segment.talk_url">
           <div class="title">{{ segment.info.metadata.title }}</div>
           <div class="speaker">{{ segment.info.metadata.speaker }}</div>
-          <button class="select-button" ng-click="ctrl.State.current=segment">Edit</button>
+          <button ng-click="ctrl.State.current=segment" ng-if="ctrl.State.current!==segment">Edit</button>
+          <button ng-click="ctrl.State.current=null" ng-if="ctrl.State.current===segment">Done</button>
           <button class="play-button" ng-click="ctrl.State.playSegment(segment);">Play</button>
 
           <!-- selected -->
