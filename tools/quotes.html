@@ -55,6 +55,10 @@
       Click on New snippet to get started.
     </p>
 
+    <div>
+      <button ng-click="ctrl.State.addSegment()">New snippet</button>
+    </div>
+
     <div class="segments">
       <div class="segment" ng-class="{current: ctrl.State.current==segment}" ng-repeat="segment in ctrl.State.segments">
         
@@ -92,9 +96,6 @@
           </div>
 
         </div>
-      </div>
-      <div class="segment add-segment" ng-click="ctrl.State.addSegment()">
-        New snippet
       </div>
     </div>
 
