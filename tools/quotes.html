@@ -65,11 +65,12 @@
         <div ng-if="segment.talk_url">
           <div class="title">{{ segment.info.metadata.title }}</div>
           <div class="speaker">{{ segment.info.metadata.speaker }}</div>
+          <button class="play-button" ng-click="ctrl.State.playSegment(segment);">Play</button>
 
           <!-- selected -->
           <div ng-if="segment===ctrl.State.current">
             
-          <div class="markdown"><span class="section" ng-repeat="stream in segment.streams" ng-click="ctrl.State.toggleStream(segment, stream)" ng-class="{used: stream.used}">{{ stream.text }}</span></div>
+            <div class="markdown"><span class="section" ng-repeat="stream in segment.streams" ng-click="ctrl.State.toggleStream(segment, stream)" ng-class="{used: stream.used}">{{ stream.text }}</span></div>
 
           </div>
 

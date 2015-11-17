@@ -35,6 +35,14 @@ angular.module('gc.quotes', [])
     })
   };
 
+  State.playSegment = function(segment) {
+    console.log('playing not supported yet');
+  };
+
+  State.toggleStream = function(segment, stream) {
+    stream.used = !stream.used;
+  };
+
   State.toString = function() {
     return angular.toJson(State.segments);
   };
