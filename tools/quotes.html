@@ -10,11 +10,17 @@
   .talk .title {
     display: inline;
   }
+  .instructions {
+    font-style: italic;
+    background: #fe9;
+    padding: 0.5rem 1rem;
+  }
   .markdown {
     white-space: pre;
   }
   .markdown .section:hover {
     background-color: yellow;
+    cursor: default;
   }
   .markdown .section.used {
     background-color: orange;
@@ -43,8 +49,10 @@
   <div class="container">
     <h1>General Conference Quote Board</h1>
 
+    <div id="player"></div>
+
     <div class="segments">
-      <div class="segment" ng-class="{current: ctrl.State.current==segment}" ng-repeat="segment in ctrl.State.segments" ng-click="ctrl.State.current=segment">
+      <div class="segment" ng-class="{current: ctrl.State.current==segment}" ng-repeat="segment in ctrl.State.segments">
         
         <!-- no talk chosen -->
         <div ng-if="!segment.talk_url">
@@ -65,11 +73,15 @@
         <div ng-if="segment.talk_url">
           <div class="title">{{ segment.info.metadata.title }}</div>
           <div class="speaker">{{ segment.info.metadata.speaker }}</div>
+          <button class="select-button" ng-click="ctrl.State.current=segment">Edit</button>
           <button class="play-button" ng-click="ctrl.State.playSegment(segment);">Play</button>
 
           <!-- selected -->
           <div ng-if="segment===ctrl.State.current">
-            
+            <p class="instructions">
+              Click on the portions of the talk you want to play, then click the Play button.
+            </p>
+
             <div class="markdown"><span class="section" ng-repeat="stream in segment.streams" ng-click="ctrl.State.toggleStream(segment, stream)" ng-class="{used: stream.used}">{{ stream.text }}</span></div>
 
           </div>

@@ -2,14 +2,107 @@ angular.module('gc.quotes', [])
 
 .value('DataUrl', '../data')
 
-.factory('State', function(Server, splitByTiming, $location) {
+.factory('YouTube', function($window, $rootScope, $q, $timeout) {
+  var YouTube = this;
+  
+  // I'm using a single, global player with the
+  // magic id of "player" for now.
+  YouTube.player = null;
+  YouTube.player_deferred = null;
+
+  YouTube.getPlayer = function() {
+    var d = $q.defer();
+    if (YouTube.player) {
+      d.resolve(YouTube.player);
+    } else {
+      YouTube.player_deferred = d;
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    }
+    return d.promise;
+  }
+
+  YouTube.onReady = function() {
+    // Called only the first time a video is loaded.
+    $rootScope.$apply(function() {
+      if (YouTube.player_deferred) {
+        var d = YouTube.player_deferred;
+        YouTube.player_deferred = null;
+        d.resolve(YouTube.player);
+      }
+    })
+  }
+
+  YouTube.onStateChange = function(ev) {
+    if (ev.data == YT.PlayerState.CUED) {
+    } else if (ev.data == YT.PlayerState.PLAYING) {
+    }
+  }
+
+  $window.onYouTubeIframeAPIReady = function() {
+    $rootScope.$apply(function() {
+      YouTube.player = new YT.Player('player', {
+        height: 200,
+        width: 300,
+        events: {
+          'onReady': YouTube.onReady,
+          'onStateChange': YouTube.onStateChange,
+        }
+      });
+    })
+  }
+
+  // Public methods
+  YouTube.loadVideo = function(video_id) {
+    return YouTube.getPlayer().then(function(player) {
+      player.cueVideoById(video_id);
+      return YouTube;
+    })
+  }
+
+  YouTube.stopAt = function(start, end) {
+    var d = $q.defer();
+    var player = YouTube.player;
+    var now = player.getCurrentTime() || start;
+    now = now > start ? now : start;
+    var left = (parseFloat(end) - parseFloat(now));
+    if (left > 0) {
+      // try again
+      $timeout(function() {
+        YouTube.stopAt(start, end).then(function() {
+          d.resolve(YouTube);
+        })
+      }, left * 1000);
+    } else {
+      // done
+      player.pauseVideo();
+      d.resolve(YouTube);
+    }
+    return d.promise;
+  }
+
+  YouTube.play = function(start, end) {
+    // Play the currently loaded video from start to end
+    var player = YouTube.player;
+    var d = $q.defer();
+    var duration = (parseFloat(end) - parseFloat(start)) * 1000;
+    player.seekTo(start);
+    player.playVideo();
+    return YouTube.stopAt(start, end);
+  }
+
+  return YouTube;
+})
+
+.factory('State', function(Server, YouTube, splitByTiming, $location) {
   var State = {
     segments: [],
     current: null,
   };
 
   State.addSegment = function() {
-    console.log('addSegment');
     State.segments.push({
       talk_url: null,
     });
@@ -30,13 +123,37 @@ angular.module('gc.quotes', [])
         segment.streams = splitByTiming(info);
       } else {
         // no timing info yet
-        console.log('No timing info yet');
       }
     })
   };
 
   State.playSegment = function(segment) {
-    console.log('playing not supported yet');
+    var ranges = [];
+    var last_start = null;
+    var last_end = null;
+    angular.forEach(segment.streams, function(s) {
+      if (s.used) {
+        if (last_end === s.start) {
+          // continuation
+          last_end = s.end;
+        } else {
+          // new range
+          if (last_start !== null && last_end !== null) {
+            ranges.push([last_start, last_end]);
+          }
+          last_start = s.start;
+          last_end = s.end;
+        }
+      }
+    });
+    ranges.push([last_start, last_end]);
+    var d = YouTube.loadVideo(segment.info.metadata.youtube.id);
+    angular.forEach(ranges, function(range) {
+      d = d.then(function() {
+        return YouTube.play(range[0], range[1]);
+      });
+    })
+    return d;
   };
 
   State.toggleStream = function(segment, stream) {
@@ -53,7 +170,6 @@ angular.module('gc.quotes', [])
 
   State.updateHash = function() {
     var s = State.toString();
-    console.log('updatehash', s);
     $location.hash(s);
   };
 
@@ -71,7 +187,6 @@ angular.module('gc.quotes', [])
     $http.get(conf_dir + '/index.yml')
       .then(function(response) {
         var data = jsyaml.safeLoad(response.data);
-        console.log('data', data);
         angular.forEach(data.items, function(item) {
           Server.talks[item.article_id] = item;
         });
@@ -80,7 +195,6 @@ angular.module('gc.quotes', [])
           year: year,
           talk_list: data.items
         });
-        //console.log('Server.conferences', Server.conferences);
       })
   }
 
@@ -135,6 +249,7 @@ angular.module('gc.quotes', [])
     streams.push({
       text: current_stream,
       start: '0',
+      tcite: null,
       end: null
     });
     for (var i = 0; i < parsed.length; i++) {
@@ -156,6 +271,7 @@ angular.module('gc.quotes', [])
           streams[streams.length-1].end = timing.seconds;
           streams.push({
             text: current_stream,
+            tcite: tcite,
             start: timing.seconds,
             end: null,
           })
@@ -178,14 +294,12 @@ angular.module('gc.quotes', [])
   ctrl.server = Server;
 
   ctrl.toggleStream = function(quote, stream) {
-    console.log(quote);
     stream.used = !stream.used;
     quote.ranges = [];
     var last_start = null;
     var last_end = null;
     angular.forEach(quote.streams, function(s) {
       if (s.used) {
-        console.log('used', s);
         if (last_end === s.start) {
           // continuation
           last_end = s.end;
