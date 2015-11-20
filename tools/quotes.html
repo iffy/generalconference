@@ -43,6 +43,7 @@
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
 </head>
 <body ng-app="gc.quotes" ng-controller="QuotesCtrl as ctrl">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.3/js-yaml.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
   <script src="quotes.js"></script>
@@ -55,8 +56,13 @@
       Click on New snippet to get started.
     </p>
 
+    <p ng-if="ctrl.State.segments.length">
+      You can share the quotes you've selected (with a smaller device or others) by sharing the URL to this page.
+    </p>
+
     <div>
       <button ng-click="ctrl.State.addSegment()">New snippet</button>
+      <button ng-click="ctrl.State.clearEverything()">Start over</button>
     </div>
 
     <div class="segments">
