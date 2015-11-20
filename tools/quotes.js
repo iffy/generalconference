@@ -96,26 +96,39 @@ angular.module('gc.quotes', [])
   return YouTube;
 })
 
-.factory('State', function(Server, YouTube, splitByTiming, $location) {
+.factory('State', function(Server, YouTube, splitByTiming, $location, $q) {
   var State = {
     segments: [],
     current: null,
   };
 
   State.addSegment = function() {
-    State.segments.push({
-      talk_url: null,
-    });
+    State.segments.push({});
     State.current = State.segments[State.segments.length-1];
     State.updateHash();
   };
 
+  State.clearEverything = function() {
+    if (confirm('This will get rid of everything.  Are you sure?')) {
+      State.segments.length = 0;
+      State.current = null;
+      State.updateHash();
+    }
+  }
+
   State.chooseTalk = function(segment, year, month, key) {
-    segment.talk_url = null;
+    var url = Server.getTalkURL(year, month, key);
+    return State._addTalk(segment, url).then(function() {
+      State.updateHash();
+    });
+  };
+
+  State._addTalk = function(segment, talk_url) {
+    segment.talk_url = talk_url;
     segment.youtube_id = null;
     segment.info = null;
     segment.streams = [];
-    Server.getTalkInfo(year, month, key)
+    return Server.getTalkInfo(talk_url)
     .then(function(info) {
       segment.talk_url = info.url;
       segment.info = info;
@@ -124,8 +137,9 @@ angular.module('gc.quotes', [])
       } else {
         // no timing info yet
       }
-    })
-  };
+      return segment;
+    });
+  }
 
   State.playSegment = function(segment) {
     var ranges = [];
@@ -158,22 +172,77 @@ angular.module('gc.quotes', [])
 
   State.toggleStream = function(segment, stream) {
     stream.used = !stream.used;
+    State.updateHash();
   };
 
-  State.toString = function() {
-    return angular.toJson(State.segments);
+  State.serializeState = function() {
+    var data = [];
+    angular.forEach(State.segments, function(segment) {
+      if (segment.talk_url) {
+        var datum = {
+          'u': segment.talk_url,
+          's': [],
+        };
+        data.push(datum);
+        // Use lodash or something here
+        angular.forEach(segment.streams, function(stream) {
+          if (stream.used) {
+            datum.s.push(stream.tcite);
+          }
+        });  
+      }
+    });
+    return LZString.compressToBase64(angular.toJson(data));
   };
 
-  State.fromString = function(s) {
-    State.segments = angular.fromJson(s);
+  State.loadState = function(s) {
+    if (!s || !s.length) {
+      return;
+    }
+    var data;
+    try {
+      data = angular.fromJson(LZString.decompressFromBase64(s));  
+    } catch(err) {
+      return;
+    }
+    
+    var dlist = [];
+    angular.forEach(data, function(datum) {
+      var talk_url = datum.u;
+      var used = datum.s;
+      var segment = {};
+      State.segments.push(segment);
+      var d = State._addTalk(segment, talk_url)
+      .then(function(segment) {
+        angular.forEach(segment.streams, function(stream) {
+          if (used.indexOf(stream.tcite) !== -1) {
+            stream.used = true;
+          }
+        })
+      });
+      dlist.push(d);
+    })
+    
+    $q.all(dlist).then(function() {
+      State.updateHash();  
+    })
   };
 
   State.updateHash = function() {
-    var s = State.toString();
+    var s = State.serializeState();
     $location.hash(s);
   };
 
+  State.loadFromHash = function() {
+    var h = $location.hash();
+    State.loadState(h);
+  }
+
   return State;
+})
+
+.run(function(State) {
+  State.loadFromHash();
 })
 
 .factory('Server', function(DataUrl, $http, $q) {
@@ -198,20 +267,23 @@ angular.module('gc.quotes', [])
       })
   }
 
-  Server.getTalkInfo = function(year, month, key) {
+  Server.getTalkURL = function(year, month, key) {
     var conf_dir = DataUrl + '/eng/' + year + '-' + month;
-    var talk_dir = conf_dir + '/' + key;
-    var text_d = $http.get(talk_dir + '/text.md')
+    return conf_dir + '/' + key;
+  }
+
+  Server.getTalkInfo = function(talk_url) {
+    var text_d = $http.get(talk_url + '/text.md')
       .then(function(response) {
         return response.data;
       })
-    var meta_d = $http.get(talk_dir + '/metadata.yml')
+    var meta_d = $http.get(talk_url + '/metadata.yml')
       .then(function(response) {
         return jsyaml.safeLoad(response.data);
       }, function(error) {
         return null;
       })
-    var time_d = $http.get(talk_dir + '/youtube_timing.yml')
+    var time_d = $http.get(talk_url + '/youtube_timing.yml')
       .then(function(response) {
         return jsyaml.safeLoad(response.data);
       }, function(error) {
@@ -223,7 +295,7 @@ angular.module('gc.quotes', [])
           text: data[0],
           metadata: data[1],
           timing: data[2],
-          url: talk_dir,
+          url: talk_url,
         }
       })
   }
