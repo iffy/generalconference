@@ -58,7 +58,7 @@ getURL = downloader.getURL
 
 
 def conferenceURL(year, month, lang):
-    root = 'https://www.lds.org/general-conference/sessions'
+    root = 'https://www.lds.org/general-conference'
     url = '{root}/{year}/{month:02d}?lang={lang}'.format(**locals())
     return url
 
@@ -78,51 +78,45 @@ def getTalkURLs(data_dir, year, month, lang):
 
     parsed = soupparser.fromstring(html)
 
-    sessions = parsed.xpath('//table[@class="sessions"]')
+    sessions = parsed.xpath("//section")
     counter = makeCounter()
-    for session_num, session in enumerate(sessions):
-        session_id = session.attrib.get('id', None)
-        if not session_id:
+    session_num = -1
+    for session in sessions:
+        if 'section' not in session.attrib['class']:
+            print 'skipping section', session
             continue
-
-        session_title = session.xpath('.//tr[@class="head-row"]//h2')[0].text
+        session_num += 1
+        def vlog(*x):
+            log('  ', *x)
+        vlog('session', session_num)
+        session_title = session.xpath('.//span[@class="section__header__title"]')[0].text
+        vlog('title', session_title)
         
-        rows = session.xpath('tr')
-        for row in rows:
-            talk = row.xpath(".//span[@class='talk']")
-            song = row.xpath(".//span[@class='song']")
-            if not talk and not song:
-                continue
-
+        talks = session.xpath(".//a[@class='lumen-tile__link']")
+        vlog('talks', talks)
+        if not talks:
+            vlog('session', etree.tostring(session))
+        for talk in talks:
             item_number = '{0:03d}'.format(counter.next())
-
-            if song:
-                # skipping for now
-                continue
-            elif talk:
-                talk = talk[0]
-                talk_a = talk.xpath('.//a')
-                if not talk_a:
-                    # probably no translation yet.
-                    continue
-                talk_a = talk_a[0]
-                speaker = row.xpath(".//span[@class='speaker']")[0]
-                url = talk_a.attrib['href']
-                slug = urlparse(url).path.split('/')[-1]
-                file_slug = '{item}-{slug}'.format(item=item_number,
-                    slug=slug)
-                yield {
-                    'session_id': session_id,
-                    'session_title': session_title,
-                    'item': item_number,
-                    'speaker': speaker.text,
-                    'url': url,
-                    'title': talk_a.text,
-                    'slug': slug,
-                    'key': file_slug,
-                    'year': int(year),
-                    'month': int(month),
-                }
+            print 'talk', etree.tostring(talk)
+            speaker = talk.xpath(".//div[@class='lumen-tile__content']")[0].text.strip()
+            title = talk.xpath(".//div[@class='lumen-tile__title']")[0].text.strip()
+            url = talk.attrib['href']
+            slug = urlparse(url).path.split('/')[-1]
+            file_slug = '{item}-{slug}'.format(item=item_number,
+                slug=slug)
+            vlog('talk', slug, speaker, title)
+            yield {
+                'session_title': session_title,
+                'item': item_number,
+                'speaker': speaker,
+                'url': url,
+                'title': title,
+                'slug': slug,
+                'key': file_slug,
+                'year': int(year),
+                'month': int(month),
+            }
 
 
 def getSingleConference(data_dir, year, month, lang):
@@ -135,6 +129,8 @@ def getSingleConference(data_dir, year, month, lang):
         conf_path.makedirs()
     index = []
     for meta in talk_urls:
+        print 'meta', meta
+        return
         index.append(meta)
         html = getURL(meta['url'])
         
