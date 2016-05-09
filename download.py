@@ -69,6 +69,24 @@ def makeCounter():
         yield i
         i += 1
 
+def innerText(elem):
+    return etree.tostring(elem, method='text', encoding='utf-8')
+
+REPLACEMENTS = {
+    u'…'.encode('utf-8'): '...',
+    '\xc2\xa0': ' ',
+    '&#x27;': "'",
+    '\xe2\x80\x99': "'",
+    '\xe2\x80\x9c': '"',
+    '\xe2\x80\x9d': '"',
+}
+
+def unfancy(x):
+    ret = x
+    for k, v in REPLACEMENTS.items():
+        ret = ret.replace(k, v)
+    return ret
+
 def getTalkURLs(data_dir, year, month, lang):
     """
     Return a generator of talk metadata available from the index.
@@ -78,45 +96,46 @@ def getTalkURLs(data_dir, year, month, lang):
 
     parsed = soupparser.fromstring(html)
 
-    sessions = parsed.xpath("//section")
-    counter = makeCounter()
-    session_num = -1
-    for session in sessions:
-        if 'section' not in session.attrib['class']:
-            print 'skipping section', session
-            continue
-        session_num += 1
-        def vlog(*x):
-            log('  ', *x)
-        vlog('session', session_num)
-        session_title = session.xpath('.//span[@class="section__header__title"]')[0].text
-        vlog('title', session_title)
-        
-        talks = session.xpath(".//a[@class='lumen-tile__link']")
-        vlog('talks', talks)
-        if not talks:
-            vlog('session', etree.tostring(session))
-        for talk in talks:
-            item_number = '{0:03d}'.format(counter.next())
-            print 'talk', etree.tostring(talk)
-            speaker = talk.xpath(".//div[@class='lumen-tile__content']")[0].text.strip()
-            title = talk.xpath(".//div[@class='lumen-tile__title']")[0].text.strip()
-            url = talk.attrib['href']
-            slug = urlparse(url).path.split('/')[-1]
-            file_slug = '{item}-{slug}'.format(item=item_number,
+    links = parsed.xpath('//a[@class="lumen-tile__link"]')
+    for item_number, link in enumerate(links):
+        href = link.attrib['href']
+        title = ''
+        titles = link.xpath('.//div[@class="lumen-tile__title"]')
+        if len(titles):
+            title = unfancy(innerText(titles[0]).strip())
+
+        speaker = ''
+        speakers = link.xpath('.//div[@class="lumen-tile__content"]')
+        if len(speakers):
+            speaker = unfancy(innerText(speakers[0]).strip())
+
+        slug = urlparse(href).path.split('/')[-1]
+        file_slug = '{item}-{slug}'.format(item=str(item_number).zfill(3),
                 slug=slug)
-            vlog('talk', slug, speaker, title)
-            yield {
-                'session_title': session_title,
-                'item': item_number,
-                'speaker': speaker,
-                'url': url,
-                'title': title,
-                'slug': slug,
-                'key': file_slug,
-                'year': int(year),
-                'month': int(month),
-            }
+
+        # try by ancestor
+        session_title = 'UNKNOWN'
+        session_titles = link.xpath('ancestor::div[contains(@class, "tile-wrapper")]//span[@class="section__header__title"]')
+        if len(session_titles):
+            session_title = unfancy(innerText(session_titles[-1]).strip())
+        else:
+            # try be predecesor
+            # print 'trying predecesor'
+            session_titles = link.xpath('preceding::div[contains(@class, "tile-wrapper")]//span[@class="section__header__title"]')
+            if len(session_titles):
+                session_title = unfancy(innerText(session_titles[-1]).strip())
+
+        yield {
+            'session_title': session_title,
+            'item': item_number+1,
+            'speaker': speaker,
+            'url': 'https://www.lds.org' + href,
+            'title': title,
+            'slug': slug,
+            'key': file_slug,
+            'year': int(year),
+            'month': int(month),
+        }
 
 
 def getSingleConference(data_dir, year, month, lang):
@@ -129,8 +148,6 @@ def getSingleConference(data_dir, year, month, lang):
         conf_path.makedirs()
     index = []
     for meta in talk_urls:
-        print 'meta', meta
-        return
         index.append(meta)
         html = getURL(meta['url'])
         
@@ -160,33 +177,32 @@ def extractTalkAsMarkdown(html, metadata):
     Extract the talk as stripped-down HTML.
     """
     parsed = soupparser.fromstring(html)
-    primary = parsed.get_element_by_id('primary')
-    metadata['article_id'] = primary.get_element_by_id('article-id').text
+    content = parsed.xpath('//div[@class="body-block"]')[0]
 
     todelete = [
-        '//div[@id="video-player"]',
-        '//div[@id="audio-player"]',
-        '//span[@id="article-id"]',
-        '//li[@class="prev"]',
-        '//li[@class="next"]',
+        # '//div[@id="video-player"]',
+        # '//div[@id="audio-player"]',
+        # '//span[@id="article-id"]',
+        # '//li[@class="prev"]',
+        # '//li[@class="next"]',
     ]
     for x in todelete:
-        elems = primary.xpath(x)
+        elems = content.xpath(x)
         for elem in elems:
             elem.getparent().remove(elem)
 
-    # Remove the blockquote
-    kicker = primary.xpath('.//blockquote[@class="intro dontHighlight"]')
-    for k in kicker:
-        k.getparent().remove(k)
+    # # Remove the blockquote
+    # kicker = content.xpath('.//blockquote[@class="intro dontHighlight"]')
+    # for k in kicker:
+    #     k.getparent().remove(k)
 
     # remove no-link-style links
-    for link in primary.xpath('.//a[@class="no-link-style"]'):
+    for link in content.xpath('.//a[@class="no-link-style"]'):
         link.drop_tag()
 
     # fix lists
-    list_items = primary.xpath('.//ul[@class="bullet"]/li')
-    list_items += primary.xpath('.//ol/li')
+    list_items = content.xpath('.//ul[@class="bullet"]/li')
+    list_items += content.xpath('.//ol/li')
     for li in list_items:
         label = li.xpath('.//span[@class="label"]')
         if label:
@@ -202,29 +218,32 @@ def extractTalkAsMarkdown(html, metadata):
                 child.drop_tag()
 
     # replace citations
-    for citation in primary.xpath('.//sup[@class="noteMarker"]/a'):
-        citation.text = '[' + citation.text + ']'
+    for citation in content.xpath('.//a[@class="note-ref"]/sup'):
+        citation.text = '[' + innerText(citation) + ']'
         citation.drop_tag()
     
+    article_html = etree.tostring(content)
+
+    # References
+    article_html += '<h2>References</h2><ol>'
+    refs = parsed.xpath('//div[@id="toggledReferences"]//ol//ol//li')
+    for ref in refs:
+        article_html += etree.tostring(ref)
+    article_html += '</ol>'
+
     import html2text
     h = html2text.HTML2Text()
     h.ignore_images = True
     h.reference_links = True
-    markdown = h.handle(etree.tostring(primary))
+    markdown = h.handle(article_html)
     markdown = markdown.encode('utf-8')
 
     # replace some common fancy chars and other things
-    replacements = {
-        u'…'.encode('utf-8'): '...',
-        '\xc2\xa0': ' ',
-        '#### Show References': '## References',
-    }
-    for k,v in replacements.items():
-        markdown = markdown.replace(k, v)
+    markdown = unfancy(markdown)
 
     # get main title
-    title = primary.xpath('//h1')[0].text.strip()
-    markdown = '# ' + title.encode('utf-8') + '\n\n' + markdown
+    title = innerText(parsed.xpath('//h1')[0]).strip()
+    markdown = '# ' + title + '\n\n' + markdown
 
     return markdown
 
