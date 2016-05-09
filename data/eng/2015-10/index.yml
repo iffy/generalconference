@@ -1,3 +1,382 @@
-items: []
+items:
+- item: 1
+  key: 000-discovering-the-divinity-within
+  month: 10
+  session_title: General Women's Session
+  slug: discovering-the-divinity-within
+  speaker: Rosemary M. Wixom
+  title: Discovering the Divinity Within
+  url: https://www.lds.org/general-conference/2015/10/discovering-the-divinity-within?lang=eng
+  year: 2015
+- item: 2
+  key: 001-4504272728001
+  month: 10
+  session_title: General Women's Session
+  slug: '4504272728001'
+  speaker: The Church of Jesus Christ of Latter-day Saints
+  title: Mother in Israel
+  url: https://www.lds.org/general-conference/2015/10/media/session_0_talk_5/4504272728001?lang=eng
+  year: 2015
+- item: 3
+  key: 002-worthy-of-our-promised-blessings
+  month: 10
+  session_title: General Women's Session
+  slug: worthy-of-our-promised-blessings
+  speaker: Linda S. Reeves
+  title: Worthy of Our Promised Blessings
+  url: https://www.lds.org/general-conference/2015/10/worthy-of-our-promised-blessings?lang=eng
+  year: 2015
+- item: 4
+  key: 003-4504246892001
+  month: 10
+  session_title: General Women's Session
+  slug: '4504246892001'
+  speaker: The Church of Jesus Christ of Latter-day Saints
+  title: Sisters in Zion
+  url: https://www.lds.org/general-conference/2015/10/media/session_0_talk_7/4504246892001?lang=eng
+  year: 2015
+- item: 5
+  key: 004-here-to-serve-a-righteous-cause
+  month: 10
+  session_title: General Women's Session
+  slug: here-to-serve-a-righteous-cause
+  speaker: Carol F. McConkie
+  title: Here to Serve a Righteous Cause
+  url: https://www.lds.org/general-conference/2015/10/here-to-serve-a-righteous-cause?lang=eng
+  year: 2015
+- item: 6
+  key: 005-a-summer-with-great-aunt-rose
+  month: 10
+  session_title: General Women's Session
+  slug: a-summer-with-great-aunt-rose
+  speaker: Dieter F. Uchtdorf
+  title: A Summer with Great-Aunt Rose
+  url: https://www.lds.org/general-conference/2015/10/a-summer-with-great-aunt-rose?lang=eng
+  year: 2015
+- item: 7
+  key: 006-it-works-wonderfully
+  month: 10
+  session_title: Saturday Morning Session
+  slug: it-works-wonderfully
+  speaker: Dieter F. Uchtdorf
+  title: It Works Wonderfully!
+  url: https://www.lds.org/general-conference/2015/10/it-works-wonderfully?lang=eng
+  year: 2015
+- item: 8
+  key: 007-god-is-at-the-helm
+  month: 10
+  session_title: Saturday Morning Session
+  slug: god-is-at-the-helm
+  speaker: M. Russell Ballard
+  title: God Is at the Helm
+  url: https://www.lds.org/general-conference/2015/10/god-is-at-the-helm?lang=eng
+  year: 2015
+- item: 9
+  key: 008-the-joy-of-living-a-christ-centered-life
+  month: 10
+  session_title: Saturday Morning Session
+  slug: the-joy-of-living-a-christ-centered-life
+  speaker: Richard J. Maynes
+  title: The Joy of Living a Christ-Centered Life
+  url: https://www.lds.org/general-conference/2015/10/the-joy-of-living-a-christ-centered-life?lang=eng
+  year: 2015
+- item: 10
+  key: 009-yielding-our-hearts-to-god
+  month: 10
+  session_title: Saturday Morning Session
+  slug: yielding-our-hearts-to-god
+  speaker: Neill F. Marriott
+  title: Yielding Our Hearts to God
+  url: https://www.lds.org/general-conference/2015/10/yielding-our-hearts-to-god?lang=eng
+  year: 2015
+- item: 11
+  key: 010-what-lack-i-yet
+  month: 10
+  session_title: Saturday Morning Session
+  slug: what-lack-i-yet
+  speaker: Larry R. Lawrence
+  title: What Lack I Yet?
+  url: https://www.lds.org/general-conference/2015/10/what-lack-i-yet?lang=eng
+  year: 2015
+- item: 12
+  key: 011-the-pleasing-word-of-god
+  month: 10
+  session_title: Saturday Morning Session
+  slug: the-pleasing-word-of-god
+  speaker: "Francisco J. Vi\xF1as"
+  title: The Pleasing Word of God
+  url: https://www.lds.org/general-conference/2015/10/the-pleasing-word-of-god?lang=eng
+  year: 2015
+- item: 13
+  key: 012-shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times
+  month: 10
+  session_title: Saturday Morning Session
+  slug: shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times
+  speaker: Quentin L. Cook
+  title: "Shipshape and Bristol Fashion: Be Temple Worthy\u2014in Good Times and Bad\
+    \ Times"
+  url: https://www.lds.org/general-conference/2015/10/shipshape-and-bristol-fashion-be-temple-worthy-in-good-times-and-bad-times?lang=eng
+  year: 2015
+- item: 14
+  key: 013-the-sustaining-of-church-officers
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: the-sustaining-of-church-officers
+  speaker: Henry B. Eyring
+  title: The Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/2015/10/the-sustaining-of-church-officers?lang=eng
+  year: 2015
+- item: 15
+  key: 014-meeting-the-challenges-of-todays-world
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: meeting-the-challenges-of-todays-world
+  speaker: Robert D. Hales
+  title: Meeting the Challenges of Today's World
+  url: https://www.lds.org/general-conference/2015/10/meeting-the-challenges-of-todays-world?lang=eng
+  year: 2015
+- item: 16
+  key: 015-behold-thy-mother
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: behold-thy-mother
+  speaker: Jeffrey R. Holland
+  title: Behold Thy Mother
+  url: https://www.lds.org/general-conference/2015/10/behold-thy-mother?lang=eng
+  year: 2015
+- item: 17
+  key: 016-its-never-too-early-and-its-never-too-late
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: its-never-too-early-and-its-never-too-late
+  speaker: Bradley D. Foster
+  title: It's Never Too Early and It's Never Too Late
+  url: https://www.lds.org/general-conference/2015/10/its-never-too-early-and-its-never-too-late?lang=eng
+  year: 2015
+- item: 18
+  key: 017-tested-and-tempted-but-helped
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: tested-and-tempted-but-helped
+  speaker: Hugo Montoya
+  title: "Tested and Tempted\u2014but Helped"
+  url: https://www.lds.org/general-conference/2015/10/tested-and-tempted-but-helped?lang=eng
+  year: 2015
+- item: 19
+  key: 018-choose-the-light
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: choose-the-light
+  speaker: Vern P. Stanfill
+  title: Choose the Light
+  url: https://www.lds.org/general-conference/2015/10/choose-the-light?lang=eng
+  year: 2015
+- item: 20
+  key: 019-turn-to-him-and-answers-will-come
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: turn-to-him-and-answers-will-come
+  speaker: James B. Martino
+  title: Turn to Him and Answers Will Come
+  url: https://www.lds.org/general-conference/2015/10/turn-to-him-and-answers-will-come?lang=eng
+  year: 2015
+- item: 21
+  key: 020-strengthened-by-the-atonement-of-jesus-christ
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: strengthened-by-the-atonement-of-jesus-christ
+  speaker: Dallin H. Oaks
+  title: Strengthened by the Atonement of Jesus Christ
+  url: https://www.lds.org/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=eng
+  year: 2015
+- item: 22
+  key: 021-faith-is-not-by-chance-but-by-choice
+  month: 10
+  session_title: General Priesthood Session
+  slug: faith-is-not-by-chance-but-by-choice
+  speaker: Neil L. Andersen
+  title: Faith Is Not by Chance, but by Choice
+  url: https://www.lds.org/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=eng
+  year: 2015
+- item: 23
+  key: 022-your-next-step
+  month: 10
+  session_title: General Priesthood Session
+  slug: your-next-step
+  speaker: Randall K. Bennett
+  title: Your Next Step
+  url: https://www.lds.org/general-conference/2015/10/your-next-step?lang=eng
+  year: 2015
+- item: 24
+  key: 023-be-not-afraid-only-believe
+  month: 10
+  session_title: General Priesthood Session
+  slug: be-not-afraid-only-believe
+  speaker: Dieter F. Uchtdorf
+  title: Be Not Afraid, Only Believe
+  url: https://www.lds.org/general-conference/2015/10/be-not-afraid-only-believe?lang=eng
+  year: 2015
+- item: 25
+  key: 024-you-are-not-alone-in-the-work
+  month: 10
+  session_title: General Priesthood Session
+  slug: you-are-not-alone-in-the-work
+  speaker: Henry B. Eyring
+  title: You Are Not Alone in the Work
+  url: https://www.lds.org/general-conference/2015/10/you-are-not-alone-in-the-work?lang=eng
+  year: 2015
+- item: 26
+  key: 025-keep-the-commandments
+  month: 10
+  session_title: General Priesthood Session
+  slug: keep-the-commandments
+  speaker: Thomas S. Monson
+  title: Keep the Commandments
+  url: https://www.lds.org/general-conference/2015/10/keep-the-commandments?lang=eng
+  year: 2015
+- item: 27
+  key: 026-be-an-example-and-a-light
+  month: 10
+  session_title: Sunday Morning Session
+  slug: be-an-example-and-a-light
+  speaker: Thomas S. Monson
+  title: Be an Example and a Light
+  url: https://www.lds.org/general-conference/2015/10/be-an-example-and-a-light?lang=eng
+  year: 2015
+- item: 28
+  key: 027-i-stand-all-amazed
+  month: 10
+  session_title: Sunday Morning Session
+  slug: i-stand-all-amazed
+  speaker: Ronald A. Rasband
+  title: I Stand All Amazed
+  url: https://www.lds.org/general-conference/2015/10/i-stand-all-amazed?lang=eng
+  year: 2015
+- item: 29
+  key: 028-plain-and-precious-truths
+  month: 10
+  session_title: Sunday Morning Session
+  slug: plain-and-precious-truths
+  speaker: Gary E. Stevenson
+  title: Plain and Precious Truths
+  url: https://www.lds.org/general-conference/2015/10/plain-and-precious-truths?lang=eng
+  year: 2015
+- item: 30
+  key: 029-through-gods-eyes
+  month: 10
+  session_title: Sunday Morning Session
+  slug: through-gods-eyes
+  speaker: Dale G. Renlund
+  title: Through God's Eyes
+  url: https://www.lds.org/general-conference/2015/10/through-gods-eyes?lang=eng
+  year: 2015
+- item: 31
+  key: 030-a-plea-to-my-sisters
+  month: 10
+  session_title: Sunday Morning Session
+  slug: a-plea-to-my-sisters
+  speaker: Russell M. Nelson
+  title: A Plea to My Sisters
+  url: https://www.lds.org/general-conference/2015/10/a-plea-to-my-sisters?lang=eng
+  year: 2015
+- item: 32
+  key: 031-let-the-clarion-trumpet-sound
+  month: 10
+  session_title: Sunday Morning Session
+  slug: let-the-clarion-trumpet-sound
+  speaker: Gregory A. Schwitzer
+  title: Let the Clarion Trumpet Sound
+  url: https://www.lds.org/general-conference/2015/10/let-the-clarion-trumpet-sound?lang=eng
+  year: 2015
+- item: 33
+  key: 032-that-they-do-always-remember-him
+  month: 10
+  session_title: Sunday Morning Session
+  slug: that-they-do-always-remember-him
+  speaker: Claudio R. M. Costa
+  title: That They Do Always Remember Him
+  url: https://www.lds.org/general-conference/2015/10/that-they-do-always-remember-him?lang=eng
+  year: 2015
+- item: 34
+  key: 033-the-holy-ghost-as-your-companion
+  month: 10
+  session_title: Sunday Morning Session
+  slug: the-holy-ghost-as-your-companion
+  speaker: Henry B. Eyring
+  title: The Holy Ghost as Your Companion
+  url: https://www.lds.org/general-conference/2015/10/the-holy-ghost-as-your-companion?lang=eng
+  year: 2015
+- item: 35
+  key: 034-why-the-church
+  month: 10
+  session_title: Sunday Afternoon Session
+  slug: why-the-church
+  speaker: D. Todd Christofferson
+  title: Why the Church
+  url: https://www.lds.org/general-conference/2015/10/why-the-church?lang=eng
+  year: 2015
+- item: 36
+  key: 035-my-heart-pondereth-them-continually
+  month: 10
+  session_title: Sunday Afternoon Session
+  slug: my-heart-pondereth-them-continually
+  speaker: Devin G. Durrant
+  title: My Heart Pondereth Them Continually
+  url: https://www.lds.org/general-conference/2015/10/my-heart-pondereth-them-continually?lang=eng
+  year: 2015
+- item: 37
+  key: 036-blessed-and-happy-are-those-who-keep-the-commandments-of-god
+  month: 10
+  session_title: Sunday Afternoon Session
+  slug: blessed-and-happy-are-those-who-keep-the-commandments-of-god
+  speaker: Von G. Keetch
+  title: Blessed and Happy Are Those Who Keep the Commandments of God
+  url: https://www.lds.org/general-conference/2015/10/blessed-and-happy-are-those-who-keep-the-commandments-of-god?lang=eng
+  year: 2015
+- item: 38
+  key: 037-if-ye-love-me-keep-my-commandments
+  month: 10
+  session_title: Sunday Afternoon Session
+  slug: if-ye-love-me-keep-my-commandments
+  speaker: Carole M. Stephens
+  title: '"If Ye Love Me, Keep My Commandments"'
+  url: https://www.lds.org/general-conference/2015/10/if-ye-love-me-keep-my-commandments?lang=eng
+  year: 2015
+- item: 39
+  key: 038-remembering-in-whom-we-have-trusted
+  month: 10
+  session_title: Sunday Afternoon Session
+  slug: remembering-in-whom-we-have-trusted
+  speaker: Allen D. Haynie
+  title: Remembering in Whom We Have Trusted
+  url: https://www.lds.org/general-conference/2015/10/remembering-in-whom-we-have-trusted?lang=eng
+  year: 2015
+- item: 40
+  key: 039-eyes-to-see-and-ears-to-hear
+  month: 10
+  session_title: Sunday Afternoon Session
+  slug: eyes-to-see-and-ears-to-hear
+  speaker: Kim B. Clark
+  title: Eyes to See and Ears to Hear
+  url: https://www.lds.org/general-conference/2015/10/eyes-to-see-and-ears-to-hear?lang=eng
+  year: 2015
+- item: 41
+  key: 040-hold-on-thy-way
+  month: 10
+  session_title: Sunday Afternoon Session
+  slug: hold-on-thy-way
+  speaker: Koichi Aoyagi
+  title: Hold on Thy Way
+  url: https://www.lds.org/general-conference/2015/10/hold-on-thy-way?lang=eng
+  year: 2015
+- item: 42
+  key: 041-chosen-to-bear-testimony-of-my-name
+  month: 10
+  session_title: Sunday Afternoon Session
+  slug: chosen-to-bear-testimony-of-my-name
+  speaker: David A. Bednar
+  title: '"Chosen to Bear Testimony of My Name"'
+  url: https://www.lds.org/general-conference/2015/10/chosen-to-bear-testimony-of-my-name?lang=eng
+  year: 2015
 month: 10
 year: 2015
