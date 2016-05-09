@@ -23,7 +23,7 @@ established by the scriptures and by human experience.
 
 Abraham's account of the great pre-earth heavenly council identifies both God
 and Satan as participators in that council. (Read [Abr.
-3](https://www.lds.org/scriptures/pgp/abr/3.title?lang=eng).)
+3](/scriptures/pgp/abr/3?lang=eng).)
 
 Marvelous and important is the knowledge revealed in that account--knowledge
 of things as they were in the distant past, concerning God the Father and his
@@ -35,7 +35,7 @@ Satan, whom thou hast commanded in the name of mine Only Begotten, is the same
 which was from the beginning, and he came before me, saying--Behold, here am
 I, send me, I will be thy son, and I will redeem all mankind, that one soul
 shall not be lost, and surely I will do it; wherefore give me thine honor."
-([Moses 4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0).)
+([Moses 4:1](/scriptures/pgp/moses/4.1?lang=eng#0).)
 
 Old Testament prophets knew about Satan and his role in the great council. As
 though speaking directly to him, Isaiah said:
@@ -49,7 +49,7 @@ throne above the stars of God: ...
 "... I will be like the most High.
 
 "Yet thou shalt be brought down to hell, to the sides of the pit." ([Isa.
-14:12-15](https://www.lds.org/scriptures/ot/isa/14.12-15?lang=eng#11).)
+14:12-15](/scriptures/ot/isa/14.12-15?lang=eng#11).)
 
 In this last dispensation, the Lord has confirmed what he revealed in former
 dispensations concerning Satan's role in the great council. In September 1830
@@ -57,8 +57,8 @@ he said to the Prophet Joseph:
 
 "... the devil was before Adam, for he rebelled against me, saying, Give me
 thine honor, which is my power; and also a third part of the hosts of heaven
-turned he away from me because of their agency." ([D&amp;C
-29:36](https://www.lds.org/scriptures/dc-testament/dc/29.36?lang=eng#35).)
+turned he away from me because of their agency." ([D&amp;C 29:36](/scriptures
+/dc-testament/dc/29.36?lang=eng#35).)
 
 In February 1832 Joseph Smith and Sidney Rigdon testified that they saw in
 vision "that an angel of God who was in authority in the presence of God, who
@@ -66,7 +66,7 @@ rebelled against the Only Begotten Son ... was thrust down from the presence of
 God and the Son,
 
 "And was called Perdition, for the heavens wept over him--he was Lucifer, a
-son of the morning." ([D&amp;C 76:25-26](https://www.lds.org/scriptures/dc-
+son of the morning." ([D&amp;C 76:25-26](/scriptures/dc-
 testament/dc/76.25-26?lang=eng#24).)
 
 Joseph Smith succinctly summed up the great pre-earth controversy when he
@@ -92,7 +92,7 @@ should be cast down.
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
 not hearken unto my voice." ([Moses
-4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).)
+4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2).)
 
 Satan was in the Garden of Eden with Adam and Eve before the fall. Not only
 so, but he continued to tempt them and their children after they had been
@@ -103,8 +103,7 @@ their daughters.
 "And Satan came among them, saying: I am also a son of God; and he commanded
 them, saying: Believe it not; and they believed it not, and they loved Satan
 more than God. And men began from that time forth to be carnal, sensual, and
-devilish." ([Moses
-5:12-13](https://www.lds.org/scriptures/pgp/moses/5.12-13?lang=eng#11).)
+devilish." ([Moses 5:12-13](/scriptures/pgp/moses/5.12-13?lang=eng#11).)
 
 From then until now Satan has been in the earth. We read in the Book of Job:
 
@@ -113,8 +112,7 @@ the Lord, and Satan came also among them.
 
 "And the Lord said unto Satan, Whence comest thou? Then Satan answered the
 Lord, and said, From going to and fro in the earth, and from walking up and
-down in it." ([Job
-1:6-7](https://www.lds.org/scriptures/ot/job/1.6-7?lang=eng#5).)
+down in it." ([Job 1:6-7](/scriptures/ot/job/1.6-7?lang=eng#5).)
 
 In his diary for August 11, 1831, the Prophet wrote:
 
@@ -124,23 +122,22 @@ horrible power, ride upon the face of the waters; others heard the noise, but
 saw not the vision." (_Documentary History of the Church, _vol. 1, p. 203.)
 
 Satan is evil: totally and always. He ever seeks to defeat the gospel plan and
-"destroy the souls of men." ([D&amp;C 10:27](https://www.lds.org/scriptures
-/dc-testament/dc/10.27?lang=eng#26).)
+"destroy the souls of men." ([D&amp;C 10:27](/scriptures/dc-
+testament/dc/10.27?lang=eng#26).)
 
 "... he persuadeth no man to do good, no, not one; neither do his angels;
 neither do they who subject themselves unto him." ([Moro.
-7:17](https://www.lds.org/scriptures/bofm/moro/7.17?lang=eng#16).)
+7:17](/scriptures/bofm/moro/7.17?lang=eng#16).)
 
 At the last supper just prior to his ordeal in Gethsemane, Jesus warned Peter:
 "Simon, Simon, ... Satan hath desired to have you, that he may sift you as
-wheat." ([Luke
-22:31](https://www.lds.org/scriptures/nt/luke/22.31?lang=eng#30).)
+wheat." ([Luke 22:31](/scriptures/nt/luke/22.31?lang=eng#30).)
 
 Satan is irrevocably committed to countering and overcoming the influence of
 the Spirit of Christ upon men. He is the representative, promoter, and
 advocate of that "opposition in all things" referred to by Lehi in his
 instructions to his son Jacob. (See [2 Ne. 2:11,
-14-18](https://www.lds.org/scriptures/bofm/2-ne/2.11%2C14-18?lang=eng#10).)
+14-18](/scriptures/bofm/2-ne/2.11,14-18?lang=eng#10).)
 
 Satan's methods are various, devious, and countless.
 
@@ -159,10 +156,10 @@ and Eve in the first gospel dispensation.
 
 At the beginning of the Mosaic dispensation, "Satan came tempting him, saying:
 Moses, son of man, worship me." ([Moses
-1:12](https://www.lds.org/scriptures/pgp/moses/1.12?lang=eng#11).)
+1:12](/scriptures/pgp/moses/1.12?lang=eng#11).)
 
 In the days of Jesus, Satan attacked the Master himself. (See [Luke
-4:1-13](https://www.lds.org/scriptures/nt/luke/4.1-13?lang=eng#0).)
+4:1-13](/scriptures/nt/luke/4.1-13?lang=eng#0).)
 
 That Satan was present and contested the opening of this last dispensation, we
 learn from the Prophet's statement:
@@ -171,7 +168,7 @@ learn from the Prophet's statement:
 astonishing influence over me as to bind my tongue so that I could not speak.
 Thick darkness gathered around me, and it seemed to me for a time as if I were
 doomed to sudden destruction." ([JS--H
-1:15](https://www.lds.org/scriptures/pgp/js-h/1.15?lang=eng#14).)
+1:15](/scriptures/pgp/js-h/1.15?lang=eng#14).)
 
 Satan's attack against the coming forth of the Book of Mormon is detailed in
 the tenth section of the Doctrine and Covenants.
@@ -182,9 +179,8 @@ gospel to England in 1837. (Orson F. Whitney, _Life of Heber C. Kimball, _pp.
 143-45.)
 
 The general acceptance of Satan's declaration, "I am no devil, for there is
-none" ([2 Ne.
-28:22](https://www.lds.org/scriptures/bofm/2-ne/28.22?lang=eng#21)), accounts
-in large measure for the decadence in our deteriorating society.
+none" ([2 Ne. 28:22](/scriptures/bofm/2-ne/28.22?lang=eng#21)), accounts in
+large measure for the decadence in our deteriorating society.
 
 We Latter-day Saints need not be, and we must not be, deceived by the
 sophistries of men concerning the reality of Satan. There is a personal devil,
@@ -211,15 +207,14 @@ devil cheateth their souls, and leadeth them away carefully down to hell.
 he saith unto them: I am no devil, for there is none--and thus he whispereth
 in their ears, until he grasps them with his awful chains, from whence there
 is no deliverance." ([2 Ne.
-28:19-22](https://www.lds.org/scriptures/bofm/2-ne/28.19-22?lang=eng#18).)
+28:19-22](/scriptures/bofm/2-ne/28.19-22?lang=eng#18).)
 
 Now I am not calling attention to these things to frighten, stampede, or
 discourage anyone. I refer to them because I know they are true, and I am
 persuaded that if we are to "conquer Satan, and ... escape the hands of the
-servants of Satan that do uphold his work" ([D&amp;C
-10:5](https://www.lds.org/scriptures/dc-testament/dc/10.5?lang=eng#4)), we
-must understand and recognize the situation as it is. This is no time for
-Latter-day Saints to equivocate.
+servants of Satan that do uphold his work" ([D&amp;C 10:5](/scriptures/dc-
+testament/dc/10.5?lang=eng#4)), we must understand and recognize the situation
+as it is. This is no time for Latter-day Saints to equivocate.
 
 Nor is it a time for us to panic. The difficulties of our times have not come
 upon us unawares. A hundred and forty years ago the Lord clearly revealed the
@@ -249,7 +244,7 @@ like experience.
 
 I know that at the second advent of Christ, the signs of which are now
 mounting, "Satan shall be bound ... [and] have no place in the hearts of the
-children of men." ([D&amp;C 45:55](https://www.lds.org/scriptures/dc-
+children of men." ([D&amp;C 45:55](/scriptures/dc-
 testament/dc/45.55?lang=eng#54).)
 
 I bear further witness to the truth of the Savior's prediction that at the
@@ -261,12 +256,13 @@ and have not been deceived [by Satan and his powers]-- ... shall ... abide the d
 "And [that] the earth shall be given unto them for an inheritance; ...
 
 "For the Lord shall be in their midst, and his glory shall be upon them, and
-he will be their king and their lawgiver." ([D&amp;C
-45:57-59](https://www.lds.org/scriptures/dc-
+he will be their king and their lawgiver." ([D&amp;C 45:57-59](/scriptures/dc-
 testament/dc/45.57-59?lang=eng#56).)
 
 That we may take the Holy Spirit for our guide, recognize Satan, his
 representatives and their works, and not be deceived by them, to the end that
 we may be partakers of the promised blessings, I humbly pray, in the name of
 Jesus Christ, our Lord. Amen.
+
+## References
 

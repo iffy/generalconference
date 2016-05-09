@@ -149,3 +149,5 @@ planned, the way of life, is right and true in every particular. And I bear
 this testimony to you with our great affection for you, our love, and
 appreciation. In the name of Jesus Christ. Amen.
 
+## References
+

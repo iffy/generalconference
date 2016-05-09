@@ -4,7 +4,7 @@ From the book of First Peter, we receive this counsel:
 
 "But sanctify the Lord God in your hearts: and be ready always to give an
 answer to every man that asketh you a reason of the hope that is in you." ([1
-Pet. 3:15](https://www.lds.org/scriptures/nt/1-pet/3.15?lang=eng#14).)
+Pet. 3:15](/scriptures/nt/1-pet/3.15?lang=eng#14).)
 
 We live in the most exciting era in the history of mankind. The potential for
 declaring the gospel to the peoples of the world has never been greater.
@@ -103,8 +103,7 @@ The second message to those who would like to know more about the gospel is
 the concept of an eternal family. In the very beginning the Lord taught Adam
 and Eve the importance of the family. The scriptures record, "Therefore shall
 a man leave his father and his mother, and shall cleave unto his wife: and
-they shall be one flesh." ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23).)
+they shall be one flesh." ([Gen. 2:24](/scriptures/ot/gen/2.24?lang=eng#23).)
 
 God's plan is to unite His eternal family together through a sacred union of
 husband and wife which can endure beyond the grave. Responsibilities are
@@ -197,4 +196,6 @@ Savior.
 May each of us be prepared and have the courage to share this greatest of all
 gifts the Lord has given to His children. I testify of the truthfulness of His
 message in the name of Jesus Christ, our Lord and Savior, amen.
+
+## References
 

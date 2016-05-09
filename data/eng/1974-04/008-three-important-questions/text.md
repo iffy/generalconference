@@ -5,10 +5,10 @@ counsel given us this morning by the Lord's spokesman, President Spencer W.
 Kimball, as well as for the timely and helpful remarks of the other speakers
 who have preceded me. Timely, because the Lord has said, "For I will raise up
 unto myself a pure people, that will serve me in righteousness." ([D&amp;C
-100:16](https://www.lds.org/scriptures/dc-testament/dc/100.16?lang=eng#15).)
-"Purge ye out the iniquity which is among you; sanctify yourselves before me,
-... and ye shall be endowed with power." ([D&amp;C 43:11,
-16](https://www.lds.org/scriptures/dc-testament/dc/43.11%2C16?lang=eng#10).)
+100:16](/scriptures/dc-testament/dc/100.16?lang=eng#15).) "Purge ye out the
+iniquity which is among you; sanctify yourselves before me, ... and ye shall be
+endowed with power." ([D&amp;C 43:11, 16](/scriptures/dc-
+testament/dc/43.11,16?lang=eng#10).)
 
 Brothers and sisters, you will soon see that our subjects are not assigned.
 All I can say, since I will talk about the same things Elder Hinckley has
@@ -72,8 +72,8 @@ even the law of Christ, must inherit another kingdom, even that of a
 terrestrial kingdom, or that of a telestial kingdom.
 
 "For he who is not able to abide the law of a celestial kingdom cannot abide a
-celestial glory." ([D&amp;C 88:21, 22](https://www.lds.org/scriptures/dc-
-testament/dc/88.21%2C22?lang=eng#20).) He would just not feel at home.
+celestial glory." ([D&amp;C 88:21, 22](/scriptures/dc-
+testament/dc/88.21,22?lang=eng#20).) He would just not feel at home.
 
 Surely then our desire and our goal should be to prepare ourselves, not for a
 fragment of joy but for the fulness thereof, which is to be found only in the
@@ -134,4 +134,6 @@ knowledge that God lives, that he is our Father, that Jesus is the Savior of
 the world, and that the gospel has been restored in the fulfillment of
 prophecy, both of the Old and the New Testament prophets. And I do it in the
 name of the Lord Jesus Christ. Amen.
+
+## References
 

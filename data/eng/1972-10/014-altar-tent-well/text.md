@@ -2,7 +2,7 @@
 
 "And [Isaac] builded an altar there, and called upon the name of the Lord, and
 pitched his tent there: and there Isaac's servants digged a well." ([Gen.
-26:25](https://www.lds.org/scriptures/ot/gen/26.25?lang=eng#24).)
+26:25](/scriptures/ot/gen/26.25?lang=eng#24).)
 
 _Altar, tent,_ and _well._ Isaac did not become an Abraham or a Jacob. He did
 not reach the heights of Abraham, called the "father of the faithful." Nor was
@@ -31,8 +31,7 @@ obedience to the principles and ordinances of the restored gospel.
 We know by revelation that our Father lives. Jesus is his Firstborn in the
 spirit world: the Only Begotten in the flesh. He is the Christ, our Savior and
 Redeemer. His work and his glory is "to bring to pass the immortality and
-eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+eternal life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 We know he lives, for he has appeared to men in our day to establish this
 latter-day work. There are living prophets and apostles on the earth today,
@@ -64,16 +63,15 @@ religion comprehends this and more.
 
 The man is the head of the home. He is to preside and administer its affairs
 "by persuasion, by long-suffering, by gentleness and meekness, and by love
-unfeigned; by kindness and pure knowledge." ([D&amp;C
-121:41-42](https://www.lds.org/scriptures/dc-
-testament/dc/121.41-42?lang=eng#40).)
+unfeigned; by kindness and pure knowledge." ([D&amp;C 121:41-42](/scriptures
+/dc-testament/dc/121.41-42?lang=eng#40).)
 
 The woman is the heart of the home. "And the Lord God said, It is not good
 that the man should be alone; I will make him an help meet for him." ([Gen.
-2:18](https://www.lds.org/scriptures/ot/gen/2.18?lang=eng#17).)
+2:18](/scriptures/ot/gen/2.18?lang=eng#17).)
 
 "And they twain shall be one flesh. ..." ([Mark
-10:8](https://www.lds.org/scriptures/nt/mark/10.8?lang=eng#7).)
+10:8](/scriptures/nt/mark/10.8?lang=eng#7).)
 
 President J. Reuben Clark, Jr., one of the Lord's noble servants, defined
 woman's role in eternal perspective. Speaking of Eve, he speaks of all women:
@@ -138,8 +136,7 @@ your own home."
 
 To the child, God said at the great day of law-giving at Sinai: "Honour thy
 father and thy mother: that thy days may be long upon the land which the Lord
-thy God giveth thee." ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).)
+thy God giveth thee." ([Ex. 20:12](/scriptures/ot/ex/20.12?lang=eng#11).)
 
 Kneeling at his altar, mindful of his family in his tent, Isaac found most of
 his working hours consumed in watching over wells he had caused to be digged.
@@ -148,12 +145,11 @@ the soil and the forage that grew is little different in our day, for man must
 work.
 
 The revelations say that "every man who is obliged to provide for his own
-family, let him provide. ..." ([D&amp;C 75:28](https://www.lds.org/scriptures
-/dc-testament/dc/75.28?lang=eng#27).)
+family, let him provide. ..." ([D&amp;C 75:28](/scriptures/dc-
+testament/dc/75.28?lang=eng#27).)
 
 In the beginning the Lord decreed, "In the sweat of thy face shalt thou eat
-bread. ..." ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18).)
+bread. ..." ([Gen. 3:19](/scriptures/ot/gen/3.19?lang=eng#18).)
 
 Ever since the restoration in 1830, The Church of Jesus Christ of Latter-day
 Saints has encouraged thrift and fostered work as the ruling principle among
@@ -162,15 +158,14 @@ its members.
 Few evils has the Lord denounced in our day with more vehemence than idleness:
 
 "Thou shalt not be idle, for he that is idle shall not eat the bread nor wear
-the garments of the laborer. ..." ([D&amp;C
-42:42](https://www.lds.org/scriptures/dc-testament/dc/42.42?lang=eng#41).)
+the garments of the laborer. ..." ([D&amp;C 42:42](/scriptures/dc-
+testament/dc/42.42?lang=eng#41).)
 
 "... the idler shall be had in remembrance before the Lord. ..." ([D&amp;C
-68:30](https://www.lds.org/scriptures/dc-testament/dc/68.30?lang=eng#29).)
+68:30](/scriptures/dc-testament/dc/68.30?lang=eng#29).)
 
 "... And the idler shall not have place in the church, except he repent and mend
-his ways." ([D&amp;C 75:29](https://www.lds.org/scriptures/dc-
-testament/dc/75.29?lang=eng#28).)
+his ways." ([D&amp;C 75:29](/scriptures/dc-testament/dc/75.29?lang=eng#28).)
 
 Let a man choose an occupation in balance with the other two elements of the
 triumvirate of which I have spoken. Learn to give an honest day's work for an
@@ -187,4 +182,6 @@ challenge and achievement.
 
 Our Heavenly Father, wilt thou help us thy children to see eternity in these
 things and act accordingly. In the name of Jesus Christ. Amen.
+
+## References
 

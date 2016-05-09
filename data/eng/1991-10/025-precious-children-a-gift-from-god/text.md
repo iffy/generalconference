@@ -18,7 +18,7 @@ greatest in the kingdom of heaven.
 "But whoso shall offend one of these little ones which believe in me, it were
 better for him that a millstone were hanged about his neck, and that he were
 drowned in the depth of the sea." ([Matt.
-18:1-6](https://www.lds.org/scriptures/nt/matt/18.1-6?lang=eng#0).)
+18:1-6](/scriptures/nt/matt/18.1-6?lang=eng#0).)
 
 I think it significant that Jesus loved these little ones who so recently had
 left the preexistence to come to earth. Children then and children now bless
@@ -87,9 +87,9 @@ Sunday School, Young Women meetings and those of the Aaronic Priesthood, well-
 prepared teachers, called under the inspiration of the Lord, can touch each
 child, each youth, and prompt all to "seek ... out of the best books words of
 wisdom; seek learning, even by study and also by faith." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
-A word of encouragement here and a spiritual thought there can affect a
-precious life and leave an indelible imprint upon an immortal soul.
+88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).) A word of
+encouragement here and a spiritual thought there can affect a precious life
+and leave an indelible imprint upon an immortal soul.
 
 Many years ago, at a Church magazine awards banquet, we sat with President and
 Sister Harold B. Lee. President Lee said to our teenage daughter Ann, "The
@@ -253,7 +253,7 @@ unto the Father for them.
 "And as they looked to behold they cast their eyes towards heaven, and they
 saw the heavens open, and they saw angels descending out of the heaven as it
 were in the midst of fire; ... and the angels did minister unto them." ([3 Ne.
-17:21-24](https://www.lds.org/scriptures/bofm/3-ne/17.21-24?lang=eng#20).)
+17:21-24](/scriptures/bofm/3-ne/17.21-24?lang=eng#20).)
 
 You may ask: _Do such things occur even today?_ Let me share with you the
 beautiful account of a grandmother and a grandfather now serving a mission and
@@ -296,7 +296,9 @@ the Father of us all.
 My dear brothers and sisters, may the laughter of children gladden our hearts.
 May the faith of children soothe our souls. May the love of children prompt
 our deeds. "Children are an heritage of the Lord." ([Ps.
-127:3](https://www.lds.org/scriptures/ot/ps/127.3?lang=eng#2).) May our
-Heavenly Father ever bless these sweet souls, these special friends of the
-Master, is my humble and earnest prayer. In the name of Jesus Christ, amen.
+127:3](/scriptures/ot/ps/127.3?lang=eng#2).) May our Heavenly Father ever
+bless these sweet souls, these special friends of the Master, is my humble and
+earnest prayer. In the name of Jesus Christ, amen.
+
+## References
 

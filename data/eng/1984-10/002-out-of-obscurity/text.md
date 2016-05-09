@@ -3,41 +3,38 @@
 My brothers and sisters, the Church is at one of those hinge points in its
 history--the ending of one era and the beginning of another, each with its
 blessings and its challenges. If we are prepared, we shall neither fear nor
-fail in our particular time. (See [D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+fail in our particular time. (See [D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29).)
 
 Among other things, the past obscurity of the Church is giving way to
 visibility. Obscurity denotes that which is "generally unknown" and "withdrawn
 from the centers of activity": hence, the obscure is often misunderstood.
 
 The Lord described how He will bring His latter-day work "forth out of
-obscurity and out of darkness." ([D&amp;C 1:30](https://www.lds.org/scriptures
-/dc-testament/dc/1.30?lang=eng#29); see also [1 Ne.
-22:12](https://www.lds.org/scriptures/bofm/1-ne/22.12?lang=eng#11); [2 Ne.
-1:23](https://www.lds.org/scriptures/bofm/2-ne/1.23?lang=eng#22); [2 Ne.
-27:29](https://www.lds.org/scriptures/bofm/2-ne/27.29?lang=eng#28).) Thus, as
-foreseen, Christ and His work are becoming a light which can no longer be
-hidden. (See [D&amp;C 14:9](https://www.lds.org/scriptures/dc-
-testament/dc/14.9?lang=eng#8).) This emerging reality brings with it its own
-set of challenges and opportunities. For instance, though the gospel light is
-small, the adversary knows what it signifies, hence his disproportionate
-efforts to dim it.
+obscurity and out of darkness." ([D&amp;C 1:30](/scriptures/dc-
+testament/dc/1.30?lang=eng#29); see also [1 Ne.
+22:12](/scriptures/bofm/1-ne/22.12?lang=eng#11); [2 Ne.
+1:23](/scriptures/bofm/2-ne/1.23?lang=eng#22); [2 Ne.
+27:29](/scriptures/bofm/2-ne/27.29?lang=eng#28).) Thus, as foreseen, Christ
+and His work are becoming a light which can no longer be hidden. (See [D&amp;C
+14:9](/scriptures/dc-testament/dc/14.9?lang=eng#8).) This emerging reality
+brings with it its own set of challenges and opportunities. For instance,
+though the gospel light is small, the adversary knows what it signifies, hence
+his disproportionate efforts to dim it.
 
 Furthermore, God has chosen to work through those whom the world regards as
-weak and foolish. (See [1 Cor.
-1:27](https://www.lds.org/scriptures/nt/1-cor/1.27?lang=eng#26); [D&amp;C
-1:19, 28](https://www.lds.org/scriptures/dc-
-testament/dc/1.19%2C28?lang=eng#18); [D&amp;C
-133:58-59](https://www.lds.org/scriptures/dc-
-testament/dc/133.58-59?lang=eng#57).) With heightened visibility, this fact,
-too, then creates its own set of challenges. Nevertheless, "God hath chosen
-the foolish ... to confound the wise; ... the weak ... to confound the ... mighty."
-([1 Cor. 1:27](https://www.lds.org/scriptures/nt/1-cor/1.27?lang=eng#26).)
+weak and foolish. (See [1 Cor. 1:27](/scriptures/nt/1-cor/1.27?lang=eng#26);
+[D&amp;C 1:19, 28](/scriptures/dc-testament/dc/1.19,28?lang=eng#18); [D&amp;C
+133:58-59](/scriptures/dc-testament/dc/133.58-59?lang=eng#57).) With
+heightened visibility, this fact, too, then creates its own set of challenges.
+Nevertheless, "God hath chosen the foolish ... to confound the wise; ... the weak
+... to confound the ... mighty." ([1 Cor.
+1:27](/scriptures/nt/1-cor/1.27?lang=eng#26).)
 
 Disciples need not be embarrassed by considerations of scale any more than by
 the infrequency of prestigious converts, since, as Paul said, "Not many wise
 men after the flesh, not many mighty, not many noble, are called." ([1 Cor.
-1:26](https://www.lds.org/scriptures/nt/1-cor/1.26?lang=eng#25).)
+1:26](/scriptures/nt/1-cor/1.26?lang=eng#25).)
 
 But there is still more to be allowed for!
 
@@ -46,13 +43,12 @@ imperfection in the membership of His Church were not enough, the Lord wants a
 humble as well as a pure people. Thus, the lesson taught ancient Israel is
 still relevant: only three hundred warriors were used by Gideon to triumph
 over Israel's enemies, "lest Israel vaunt themselves." (See [Judg.
-7:2](https://www.lds.org/scriptures/ot/judg/7.2?lang=eng#1).)
+7:2](/scriptures/ot/judg/7.2?lang=eng#1).)
 
 The Lord chastens so that we will remember Him (see [Hel.
-12:3](https://www.lds.org/scriptures/bofm/hel/12.3?lang=eng#2)), trying our
-patience and our faith until we, too, learn that "none could deliver [us] but
-the Lord [our] God." ([Mosiah
-23:23](https://www.lds.org/scriptures/bofm/mosiah/23.23?lang=eng#22).)
+12:3](/scriptures/bofm/hel/12.3?lang=eng#2)), trying our patience and our
+faith until we, too, learn that "none could deliver [us] but the Lord [our]
+God." ([Mosiah 23:23](/scriptures/bofm/mosiah/23.23?lang=eng#22).)
 
 As to scale, what occurred in the gardens of Eden and Gethsemane is of
 enormous significance to all mankind, but it was inversely proportioned to the
@@ -76,7 +72,7 @@ spiritual things.
 The Chinese in the Ch'in Dynasty were busy with stones and the Great Wall of
 China. They could scarcely be expected to know about Daniel's stone cut out of
 the mountain without hands. (See [Dan.
-2:31-45](https://www.lds.org/scriptures/ot/dan/2.31-45?lang=eng#30).)
+2:31-45](/scriptures/ot/dan/2.31-45?lang=eng#30).)
 
 About when Lehi and his pioneering party landed in the Americas, Solon, the
 Greek reformer, was striving to end economic distress caused, partly, by an 18
@@ -108,7 +104,7 @@ just more trouble but temporary political gain:
 
 "And the same day Pilate and Herod were made friends together: for before they
 were at enmity between themselves." ([Luke
-23:12](https://www.lds.org/scriptures/nt/luke/23.12?lang=eng#11).)
+23:12](/scriptures/nt/luke/23.12?lang=eng#11).)
 
 Besides, important as Pilate was, locally and briefly, he was not Caesar!
 
@@ -133,31 +129,28 @@ The same general disregard attends those whom God chooses as His leaders;
 moreover, their imperfections are duly noted.
 
 Moses was described as the most meek man upon the face of the earth. (See
-[Num. 12:3](https://www.lds.org/scriptures/ot/num/12.3?lang=eng#2).) Yet Moses
-had a brief moment when he rashly declared, "Hear now, ye rebels; must _we_
-fetch you water out of this rock?" ([Num.
-20:10](https://www.lds.org/scriptures/ot/num/20.10?lang=eng#9); italics
+[Num. 12:3](/scriptures/ot/num/12.3?lang=eng#2).) Yet Moses had a brief moment
+when he rashly declared, "Hear now, ye rebels; must _we_ fetch you water out
+of this rock?" ([Num. 20:10](/scriptures/ot/num/20.10?lang=eng#9); italics
 added.) Even so, the Lord readied remarkable Moses for later service,
 including that atop the Mount of Transfiguration. (See [Matt.
-17:1-4](https://www.lds.org/scriptures/nt/matt/17.1-4?lang=eng#0).)
+17:1-4](/scriptures/nt/matt/17.1-4?lang=eng#0).)
 
 After Paul wrote his touching epistle on love to the Saints at Corinth (see [1
-Cor. 13](https://www.lds.org/scriptures/nt/1-cor/13.title?lang=eng)), he wrote
-to Galatian members, using some stinging and sarcastic language. Furthermore,
-companion Barnabas apparently heard Paul's tongue when it was not the tongue
-of an angel. (See [Acts
-15:2](https://www.lds.org/scriptures/nt/acts/15.2?lang=eng#1).)
+Cor. 13](/scriptures/nt/1-cor/13?lang=eng)), he wrote to Galatian members,
+using some stinging and sarcastic language. Furthermore, companion Barnabas
+apparently heard Paul's tongue when it was not the tongue of an angel. (See
+[Acts 15:2](/scriptures/nt/acts/15.2?lang=eng#1).)
 
 Paul even noted his tendency to boast (see [2 Cor. 10:8, 13,
-15](https://www.lds.org/scriptures/nt/2-cor/10.8%2C13%2C15?lang=eng#7); [2
-Cor. 11:1, 16.
-21](https://www.lds.org/scriptures/nt/2-cor/11.1%2C16%2C21?lang=eng#0); [2
-Cor. 12:1](https://www.lds.org/scriptures/nt/2-cor/12.1?lang=eng#0)),
-reminding us of the wisdom of yet another prophet who wrote: "I do not boast
-in my own strength, nor in my own wisdom; ...
+15](/scriptures/nt/2-cor/10.8,13,15?lang=eng#7); [2 Cor. 11:1, 16.
+21](/scriptures/nt/2-cor/11.1,16,21?lang=eng#0); [2 Cor.
+12:1](/scriptures/nt/2-cor/12.1?lang=eng#0)), reminding us of the wisdom of
+yet another prophet who wrote: "I do not boast in my own strength, nor in my
+own wisdom; ...
 
 "But I will boast of my God." ([Alma
-26:11-12](https://www.lds.org/scriptures/bofm/alma/26.11-12?lang=eng#10).)
+26:11-12](/scriptures/bofm/alma/26.11-12?lang=eng#10).)
 
 Only Jesus was perfect in all things, including love and meekness. Even the
 greatest of mortal prophets fall short of Christ's high and perfect standards.
@@ -170,8 +163,7 @@ Throughout scriptural history, we see recurring efforts to demean prophets in
 order to dismiss them--to label them in order to diminish them. Mostly,
 however, they are simply ignored by their contemporaries and by secular
 history. After all, early Christians were merely called "the sect of the
-Nazarenes." ([Acts
-24:5](https://www.lds.org/scriptures/nt/acts/24.5?lang=eng#4).)
+Nazarenes." ([Acts 24:5](/scriptures/nt/acts/24.5?lang=eng#4).)
 
 Like his predecessors, Joseph Smith reflected some of the anxieties and
 activities of his time and period. Yet a torrent of truth came through that
@@ -196,7 +188,7 @@ prescribed:
 "Condemn me not because of mine imperfection, ... but rather give thanks unto
 God that he hath made manifest unto you our imperfections, that ye may learn
 to be more wise than we have been." ([Morm.
-9:31](https://www.lds.org/scriptures/bofm/morm/9.31?lang=eng#30).)
+9:31](/scriptures/bofm/morm/9.31?lang=eng#30).)
 
 And Lorenzo Snow practiced:
 
@@ -230,14 +222,13 @@ Should we be surprised that prophets and people alike experience this next
 reality?
 
 "For he will give unto the faithful line upon line, precept upon precept; and
-I will try you and prove you herewith." ([D&amp;C
-98:12](https://www.lds.org/scriptures/dc-testament/dc/98.12?lang=eng#11).)
+I will try you and prove you herewith." ([D&amp;C 98:12](/scriptures/dc-
+testament/dc/98.12?lang=eng#11).)
 
 _Herewith_ means "in this manner" or "in this way." The same gradual unfolding
 will pertain to the history of God's work. (See [Isa.
-28:10](https://www.lds.org/scriptures/ot/isa/28.10?lang=eng#9); [D&amp;C
-98:12](https://www.lds.org/scriptures/dc-testament/dc/98.12?lang=eng#11);
-[D&amp;C 128:21](https://www.lds.org/scriptures/dc-
+28:10](/scriptures/ot/isa/28.10?lang=eng#9); [D&amp;C 98:12](/scriptures/dc-
+testament/dc/98.12?lang=eng#11); [D&amp;C 128:21](/scriptures/dc-
 testament/dc/128.21?lang=eng#20).)
 
 Meanwhile, Winston Churchill's imagery about history is helpful for us to
@@ -252,7 +243,7 @@ we read of stern, divine purpose:
 
 "Nevertheless the Lord seeth fit to chasten his people; yea, he trieth their
 patience and their faith." ([Mosiah
-23:21](https://www.lds.org/scriptures/bofm/mosiah/23.21?lang=eng#20).)
+23:21](/scriptures/bofm/mosiah/23.21?lang=eng#20).)
 
 Why those two particular trials?
 
@@ -260,7 +251,7 @@ Also, why not give us a lengthier Book of Mormon?
 
 "Behold, I was about to write them, all which were engraven upon the plates of
 Nephi, but the Lord forbade it, saying: I will try the faith of my people."
-([3 Ne. 26:11](https://www.lds.org/scriptures/bofm/3-ne/26.11?lang=eng#10).)
+([3 Ne. 26:11](/scriptures/bofm/3-ne/26.11?lang=eng#10).)
 
 Again we must wait for our full answer.
 
@@ -268,17 +259,16 @@ So the process of proving, reproving, and improving unfolds; it should neither
 offend us nor surprise us. Meanwhile, unevenness in the spiritual development
 of people means untidiness in the history of people, and we should not make an
 individual "an offender for a word." ([Isa.
-29:21](https://www.lds.org/scriptures/ot/isa/29.21?lang=eng#20); [2 Ne.
-27:32](https://www.lds.org/scriptures/bofm/2-ne/27.32?lang=eng#31)), as if a
-single communication could set aside all else an individual may have
-communicated or stood for!
+29:21](/scriptures/ot/isa/29.21?lang=eng#20); [2 Ne.
+27:32](/scriptures/bofm/2-ne/27.32?lang=eng#31)), as if a single communication
+could set aside all else an individual may have communicated or stood for!
 
 Some lie in wait in our day, as during the ministry of Jesus, seeking to
 "provoke him to speak of many things," seeking to "catch something out of his
 mouth that they might accuse him." ([Luke
-11:53-54](https://www.lds.org/scriptures/nt/luke/11.53-54?lang=eng#52).) The
-Pharisees actually "took counsel how they might entangle him in his talk."
-([Matt. 22:15](https://www.lds.org/scriptures/nt/matt/22.15?lang=eng#14).)
+11:53-54](/scriptures/nt/luke/11.53-54?lang=eng#52).) The Pharisees actually
+"took counsel how they might entangle him in his talk." ([Matt.
+22:15](/scriptures/nt/matt/22.15?lang=eng#14).)
 
 The finished mosaic of the history of the Restoration will be larger and more
 varied as more pieces of tile emerge, adjusting a sequence here or enlarging
@@ -290,32 +280,29 @@ as the pure light of the gospel plays upon them. There may even be a few
 pieces of tile which, for the moment, do not seem to fit. We can wait, as we
 must, to learn later whether, for instance, Matthew's or Luke's account of
 Jesus' Davidic descent is correct. (See [Matt.
-1](https://www.lds.org/scriptures/nt/matt/1.title?lang=eng); [Luke
-3](https://www.lds.org/scriptures/nt/luke/3.title?lang=eng).) Meanwhile, the
-Father has, on several occasions, given us Jesus' crucial genealogy: "This is
-My Beloved Son, in whom I am well pleased. Hear Him!" (See [Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16); [Matt.
-17:5](https://www.lds.org/scriptures/nt/matt/17.5?lang=eng#4); [3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6); [JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16); italics
-added.)
+1](/scriptures/nt/matt/1?lang=eng); [Luke 3](/scriptures/nt/luke/3?lang=eng).)
+Meanwhile, the Father has, on several occasions, given us Jesus' crucial
+genealogy: "This is My Beloved Son, in whom I am well pleased. Hear Him!" (See
+[Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16); [Matt.
+17:5](/scriptures/nt/matt/17.5?lang=eng#4); [3 Ne.
+11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6); [JS--H
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16); italics added.)
 
 Granted, there is not full correlation among the four Gospels about the events
 and participants at the empty garden tomb. (See [Matt.
-28:1-8](https://www.lds.org/scriptures/nt/matt/28.1-8?lang=eng#0); [Mark
-16:1-8](https://www.lds.org/scriptures/nt/mark/16.1-8?lang=eng#0); [Luke
-24:1-9](https://www.lds.org/scriptures/nt/luke/24.1-9?lang=eng#0); [John
-20:1-10](https://www.lds.org/scriptures/nt/john/20.1-10?lang=eng#0).) Yet the
-important thing is that the tomb was empty, because Jesus had been
-resurrected! Essence, not tactical detail! Moreover, the faithful, then and
-now, understand why the resurrected Jesus did not appear to the Sanhedrin, to
-Caiaphas, or Pilate--but, instead, to the bands of believers at Bethany and
-Bountiful.
+28:1-8](/scriptures/nt/matt/28.1-8?lang=eng#0); [Mark
+16:1-8](/scriptures/nt/mark/16.1-8?lang=eng#0); [Luke
+24:1-9](/scriptures/nt/luke/24.1-9?lang=eng#0); [John
+20:1-10](/scriptures/nt/john/20.1-10?lang=eng#0).) Yet the important thing is
+that the tomb was empty, because Jesus had been resurrected! Essence, not
+tactical detail! Moreover, the faithful, then and now, understand why the
+resurrected Jesus did not appear to the Sanhedrin, to Caiaphas, or Pilate--
+but, instead, to the bands of believers at Bethany and Bountiful.
 
 Why, for instance, did not ancient Church leaders more carefully record the
 fulfillment of certain prophecies of Samuel, the Lamanite? (See [3 Ne.
-23:9-14](https://www.lds.org/scriptures/bofm/3-ne/23.9-14?lang=eng#8).)
-Belatedly, at Jesus' direction, it was written fully and precisely.
+23:9-14](/scriptures/bofm/3-ne/23.9-14?lang=eng#8).) Belatedly, at Jesus'
+direction, it was written fully and precisely.
 
 So, belatedly, the fulness of the history of the dispensation of the fulness
 of times will be written!
@@ -331,12 +318,14 @@ humanity.
 
 Meanwhile, amid the human dissonance, those with ears to hear will follow the
 beckoning sounds of a certain trumpet. (See [1 Cor.
-14:8](https://www.lds.org/scriptures/nt/1-cor/14.8?lang=eng#7).)
+14:8](/scriptures/nt/1-cor/14.8?lang=eng#7).)
 
 Besides, whatever the present, do we not rightly sing of our God "We've proved
 him in days that are past"? (_Hymns,_ no. 196).
 
 This is the Lord's work! It will roll on until all His purposes are fulfilled
-(see [Morm. 8:22](https://www.lds.org/scriptures/bofm/morm/8.22?lang=eng#21)),
-of which I gladly testify, in the name of Jesus Christ, amen.
+(see [Morm. 8:22](/scriptures/bofm/morm/8.22?lang=eng#21)), of which I gladly
+testify, in the name of Jesus Christ, amen.
+
+## References
 

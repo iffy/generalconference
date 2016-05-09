@@ -10,9 +10,9 @@ Timothy.
 
 "I put thee in remembrance that thou stir up the gift of God, which is in thee
 by the putting on of my hands." ([2 Tim.
-1:6](https://www.lds.org/scriptures/nt/2-tim/1.6?lang=eng#5).) We all have the
-priesthood, a gift of God that's been bestowed upon us by the "putting on" of
-hands of someone who held the priesthood and the authority to ordain us.
+1:6](/scriptures/nt/2-tim/1.6?lang=eng#5).) We all have the priesthood, a gift
+of God that's been bestowed upon us by the "putting on" of hands of someone
+who held the priesthood and the authority to ordain us.
 
 This reference could have been to the conferring of the gift of the Holy
 Ghost, or to an ordination to the priesthood, or both. In any event, the
@@ -72,15 +72,14 @@ partaker of the afflictions of the gospel according to the power of God; ...
 
 "Hold fast the form of sound words, which thou hast heard of me, in faith and
 love which is in Christ Jesus." ([2 Tim. 1:2, 5, 6-8,
-13](https://www.lds.org/scriptures/nt/2-tim/1.2%2C5%2C6-8%2C13?lang=eng#1).)
+13](/scriptures/nt/2-tim/1.2,5,6-8,13?lang=eng#1).)
 
 All members of the Church should heed this admonition of Paul's; especially
 should we priesthood bearers heed it. I say this because I feel and have
 always felt that we are, as Peter said, "a chosen generation, a royal
 priesthood, an holy nation, a peculiar people; that [we] should shew forth the
 praises of him who hath called [us] out of darkness into his marvellous
-light." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).)
+light." ([1 Pet. 2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).)
 
 Peter followed this declaration by specifying certain conduct by which we can
 and should "shew forth the praises of him who hath called [us] out of darkness
@@ -93,13 +92,13 @@ kinds, vulgarity, and lewdness of every nature.]"
 And he went on: "Having your conversation honest among the Gentiles: that,
 whereas they speak against you as evildoers, they may by your good works,
 which they shall behold, glorify God." ([1 Pet. 2:9,
-11-12](https://www.lds.org/scriptures/nt/1-pet/2.9%2C11-12?lang=eng#8).)
+11-12](/scriptures/nt/1-pet/2.9,11-12?lang=eng#8).)
 
 This is the echo of the Savior's charge:
 
 "Let your light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven." ([Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).)
+5:16](/scriptures/nt/matt/5.16?lang=eng#15).)
 
 Next, Peter stresses obedience to law in these words:
 
@@ -110,15 +109,14 @@ be to the king, as supreme;
 
 "For so is the will of God, that with well doing ye may put to silence the
 ignorance of foolish men." ([1 Pet.
-2:13-15](https://www.lds.org/scriptures/nt/1-pet/2.13-15?lang=eng#12).)
+2:13-15](/scriptures/nt/1-pet/2.13-15?lang=eng#12).)
 
 The lawlessness in our society today demands that we be vigilant in our
 observance of this charge. The Lord has commanded us to obey both His law and
 the laws of the land. "For," said He, "verily I say unto you, my law shall be
 kept on this land." And further, "Let no man break the laws of the land, for
 he that keepeth the laws of God hath no need to break the laws of the land."
-([D&amp;C 58:19, 21](https://www.lds.org/scriptures/dc-
-testament/dc/58.19%2C21?lang=eng#18).)
+([D&amp;C 58:19, 21](/scriptures/dc-testament/dc/58.19,21?lang=eng#18).)
 
 I shall not attempt to mention all the things Peter said we should do to stir
 up the gifts of God which are in us. He concluded, however, by saying:
@@ -136,8 +134,7 @@ from evil, and his lips that they speak no guile:
 "Let him eschew evil, and do good; let him seek peace, and ensue it.
 
 "For the eyes of the Lord are over the righteous, and his ears are open unto
-their prayers." ([1 Pet.
-3:8-12](https://www.lds.org/scriptures/nt/1-pet/3.8-12?lang=eng#7).)
+their prayers." ([1 Pet. 3:8-12](/scriptures/nt/1-pet/3.8-12?lang=eng#7).)
 
 Isn't that just what we desire, brethren--for the Lord's ears to be open to
 our prayers?
@@ -145,16 +142,14 @@ our prayers?
 You know, brethren, it seems to me that after we have gone into the waters of
 baptism and thereby witnessed unto God our Eternal Father that we "are willing
 to take upon [ourselves] the name of [His] Son, and always remember him and
-keep his commandments" ([D&amp;C 20:77](https://www.lds.org/scriptures/dc-
+keep his commandments" ([D&amp;C 20:77](/scriptures/dc-
 testament/dc/20.77?lang=eng#76)), and then have entered into the "oath and
-covenant which belongeth to the priesthood" ([D&amp;C
-84:39](https://www.lds.org/scriptures/dc-testament/dc/84.39?lang=eng#38)), we
-ought to diligently strive with all our hearts, might, mind, and strength to
-be "dead to sins" ([1 Pet.
-2:24](https://www.lds.org/scriptures/nt/1-pet/2.24?lang=eng#23)) and, as Peter
-says, "no longer ... live the rest of [our lives] ... to the lusts of men, but to
-the will of God" ([1 Pet.
-4:2](https://www.lds.org/scriptures/nt/1-pet/4.2?lang=eng#1)).
+covenant which belongeth to the priesthood" ([D&amp;C 84:39](/scriptures/dc-
+testament/dc/84.39?lang=eng#38)), we ought to diligently strive with all our
+hearts, might, mind, and strength to be "dead to sins" ([1 Pet.
+2:24](/scriptures/nt/1-pet/2.24?lang=eng#23)) and, as Peter says, "no longer ...
+live the rest of [our lives] ... to the lusts of men, but to the will of God"
+([1 Pet. 4:2](/scriptures/nt/1-pet/4.2?lang=eng#1)).
 
 Time will not permit further discussion of how we should conduct our personal
 lives in order to "shew forth the praises of him who hath called [us] out of
@@ -182,7 +177,7 @@ you in due time:
 walketh about, seeking whom he may devour:
 
 "Whom resist stedfast in the faith." ([1 Pet.
-5:2-9](https://www.lds.org/scriptures/nt/1-pet/5.2-9?lang=eng#1).)
+5:2-9](/scriptures/nt/1-pet/5.2-9?lang=eng#1).)
 
 In the first chapter of his "Second Epistle General," Peter puts great
 emphasis upon constant, never-ending diligence in learning and applying in our
@@ -239,8 +234,7 @@ voice to him from the excellent glory, This is my beloved Son, in whom I am
 well pleased.
 
 "And this voice which came from heaven we heard, when we were with him in the
-holy mount." ([2 Pet.
-1:1-18](https://www.lds.org/scriptures/nt/2-pet/1.1-18?lang=eng#0).)
+holy mount." ([2 Pet. 1:1-18](/scriptures/nt/2-pet/1.1-18?lang=eng#0).)
 
 Peter, as I said, is here referring to his experience with James and John on
 the Mount of Transfiguration.
@@ -248,14 +242,14 @@ the Mount of Transfiguration.
 "We have also a more sure word of prophecy," he continued, "whereunto ye do
 well that ye take heed, as unto a light that shineth in a dark place, until
 the day dawn, and the day star arise in your hearts." ([1 Pet.
-1:19](https://www.lds.org/scriptures/nt/1-pet/1.19?lang=eng#18).)
+1:19](/scriptures/nt/1-pet/1.19?lang=eng#18).)
 
 The Prophet Joseph said:
 
 "The more sure word of prophecy [which Peter here referred to] means a man's
 knowing that he is sealed up unto eternal life, by revelation and the spirit
 of prophecy, through the power of the Holy Priesthood." ([D&amp;C
-131:5](https://www.lds.org/scriptures/dc-testament/dc/131.5?lang=eng#4).)
+131:5](/scriptures/dc-testament/dc/131.5?lang=eng#4).)
 
 The Prophet also said that "after a person has faith in Christ, repents of his
 sins, and is baptized for the remission of his sins and receives the Holy
@@ -275,9 +269,10 @@ sublime language of any of the apostles." (_HC,_ 5:392.)
 
 By way of conclusion and in the words of Paul to Timothy, "I put thee in
 remembrance that thou stir up the gift of God, which is in thee by the
-[laying] on of ... hands" ([2 Tim.
-1:6](https://www.lds.org/scriptures/nt/2-tim/1.6?lang=eng#5)), and may God
-grant that we may all so believe that we are what we profess to be as
-priesthood holders, that neither storm nor calm can drive us from our duty. I
-humbly pray in the name of Jesus Christ. Amen.
+[laying] on of ... hands" ([2 Tim. 1:6](/scriptures/nt/2-tim/1.6?lang=eng#5)),
+and may God grant that we may all so believe that we are what we profess to be
+as priesthood holders, that neither storm nor calm can drive us from our duty.
+I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

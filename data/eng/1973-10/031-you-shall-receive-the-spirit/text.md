@@ -8,12 +8,12 @@ light. In the words of a great prophet recorded in the Book of Mormon:
 "And moreover, I say unto you, that there shall be no other name given nor any
 other way nor means whereby salvation can come unto the children of men, only
 in and through the name of Christ, the Lord Omnipotent." ([Mosiah
-3:17](https://www.lds.org/scriptures/bofm/mosiah/3.17?lang=eng#16).)
+3:17](/scriptures/bofm/mosiah/3.17?lang=eng#16).)
 
 Further, he said we must humble ourselves "and become as little children, and
 believe that salvation was, and is, and is to come, in and through the atoning
 blood of Christ, the Lord Omnipotent." ([Mosiah
-3:18](https://www.lds.org/scriptures/bofm/mosiah/3.18?lang=eng#17).)
+3:18](/scriptures/bofm/mosiah/3.18?lang=eng#17).)
 
 We are Christian. We want the whole world to know it. We look to Christ as the
 author and finisher of our faith, and he has not left us without direction for
@@ -27,7 +27,7 @@ conditions for service in his kingdom. Beginning with verse 11, he says:
 preach my gospel, or to build up my church, except he be ordained by some one
 who has authority, and it is known to the church that he has authority and has
 been regularly ordained by the heads of the church." ([D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10).)
+42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10).)
 
 This indicates that the Lord will select those who are to act for him. No one
 is authorized to take this authority or honor to himself; rather, an
@@ -41,8 +41,8 @@ teach:
 
 "And again, the elders, priests and teachers of this church shall teach the
 principles of my gospel, which are in the Bible and the Book of Mormon, in the
-which is the fulness of the gospel." ([D&amp;C
-42:12](https://www.lds.org/scriptures/dc-testament/dc/42.12?lang=eng#11).)
+which is the fulness of the gospel." ([D&amp;C 42:12](/scriptures/dc-
+testament/dc/42.12?lang=eng#11).)
 
 Here the Lord specifically spells out what he wants preached and taught--the
 principles of the gospel--and further what he wants his servants to use as
@@ -77,8 +77,7 @@ The Lord next gives some specifics as to the conduct he expects of his
 authorized ministers:
 
 "And they shall observe the covenants and church articles to do them. ..."
-([D&amp;C 42:13](https://www.lds.org/scriptures/dc-
-testament/dc/42.13?lang=eng#12).)
+([D&amp;C 42:13](/scriptures/dc-testament/dc/42.13?lang=eng#12).)
 
 Once again, these are very plain, clear instructions. He did not say it would
 be "nice" if we keep the commandments. He says "they _shall _observe the
@@ -97,8 +96,8 @@ At one time 200 of them were so badly wounded that they fainted from the loss
 of blood. When they were carried from the battlefield, it was thought they
 were dead, but they weren't. They came back to life again--it seemed they
 could not be killed. What was their secret? It is recorded in [Alma
-57:21](https://www.lds.org/scriptures/bofm/alma/57.21?lang=eng#20): "Yea, and
-they did obey and observe to perform every word of command with exactness. ..."
+57:21](/scriptures/bofm/alma/57.21?lang=eng#20): "Yea, and they did obey and
+observe to perform every word of command with exactness. ..."
 
 Yes, they gave their mothers credit for teaching them, but they kept the
 commandments with exactness. This is the great secret. It is so important that
@@ -109,8 +108,7 @@ The revelation continues:
 
 "And they shall observe the covenants and church articles to do them, and
 these shall be their teachings, as they shall be directed by the Spirit."
-([D&amp;C 42:13](https://www.lds.org/scriptures/dc-
-testament/dc/42.13?lang=eng#12).)
+([D&amp;C 42:13](/scriptures/dc-testament/dc/42.13?lang=eng#12).)
 
 Here the Lord stresses the fact that his servants must be led by his Spirit.
 
@@ -141,8 +139,7 @@ prophet when he was given an assignment by the Lord to secure an ancient
 record. He said:
 
 "'And I was led by the Spirit, not knowing beforehand the things which I
-should do.'" ([1 Ne.
-4:6](https://www.lds.org/scriptures/bofm/1-ne/4.6?lang=eng#5).)
+should do.'" ([1 Ne. 4:6](/scriptures/bofm/1-ne/4.6?lang=eng#5).)
 
 Being led by the Spirit is vitally important because this is the Lord's church
 and he runs it. Those who are called to serve must _let _the Lord run his
@@ -156,8 +153,8 @@ necessity for the Spirit, he proceeds to explain how to get the Spirit. The
 formula is apparently so simple:
 
 "And the Spirit shall be given unto you by the prayer of faith; and if ye
-receive not the Spirit ye shall not teach." ([D&amp;C
-42:14](https://www.lds.org/scriptures/dc-testament/dc/42.14?lang=eng#13).)
+receive not the Spirit ye shall not teach." ([D&amp;C 42:14](/scriptures/dc-
+testament/dc/42.14?lang=eng#13).)
 
 On the surface it appears that all that is necessary to receive the Spirit is
 to ask for it, but it is not quite so easy a question! What is the difference
@@ -212,9 +209,9 @@ president.
 Is it any wonder that the Lord commands:
 
 "Wherefore, now let every man learn his duty, and to _act _in the office in
-which he is appointed, in all diligence." ([D&amp;C
-107:99](https://www.lds.org/scriptures/dc-testament/dc/107.99?lang=eng#98).)
-Surely in the _action, _the Spirit comes as the Lord has promised.
+which he is appointed, in all diligence." ([D&amp;C 107:99](/scriptures/dc-
+testament/dc/107.99?lang=eng#98).) Surely in the _action, _the Spirit comes as
+the Lord has promised.
 
 There is one additional qualification that must be acquired in order to have
 success in the Lord's work. We must love the people we are called to serve.
@@ -264,4 +261,6 @@ sacrifice in our behalf as the only way back to our Heavenly Father. May we be
 qualified to bear his name and may we have his spirit as we _act _in the
 office in which we are appointed in all diligence, but _with love. _I pray in
 the name of Jesus Christ, the Redeemer. Amen.
+
+## References
 

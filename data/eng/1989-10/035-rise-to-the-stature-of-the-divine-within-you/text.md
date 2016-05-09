@@ -24,8 +24,7 @@ and Sunday, I had wanted to make this trip simply to thank the people for
 their faith and faithfulness and to express my love to them. Most of them are
 farm folk who work hard for a small return. But they know a great truth. They
 know the law of the harvest--"Whatsoever ye sow, that shall ye also reap."
-([D&amp;C 6:33](https://www.lds.org/scriptures/dc-
-testament/dc/6.33?lang=eng#32).)
+([D&amp;C 6:33](/scriptures/dc-testament/dc/6.33?lang=eng#32).)
 
 They know that you do not reap wheat after sowing oats. They know that you do
 not get a racehorse from a scrub mare. They know that if you are to build
@@ -95,28 +94,27 @@ to the stature of the divine within you. As you have been reminded, yours is a
 godly inheritance. "I am a child of God" is not an idle or meaningless
 statement. You were there "when the morning stars sang together, and all the
 sons [and daughters] of God shouted for joy." ([Job
-38:7](https://www.lds.org/scriptures/ot/job/38.7?lang=eng#6).) You brought
-some of that inheritance with you when you came "trailing clouds of glory ...
-from God who is our home." (William Wordsworth, "Ode: Intimations of
-Immortality from Recollections of Early Childhood," st. 5.) You were there
-when "there was war in heaven: Michael and his angels fought against the
-dragon. ...
+38:7](/scriptures/ot/job/38.7?lang=eng#6).) You brought some of that
+inheritance with you when you came "trailing clouds of glory ... from God who is
+our home." (William Wordsworth, "Ode: Intimations of Immortality from
+Recollections of Early Childhood," st. 5.) You were there when "there was war
+in heaven: Michael and his angels fought against the dragon. ...
 
 "And the great dragon was cast out, that old serpent, called the Devil, and
 Satan, which deceiveth the whole world: he was cast out into the earth, and
 his angels were cast out with him." ([Rev. 12:7,
-9](https://www.lds.org/scriptures/nt/rev/12.7%2C9?lang=eng#6).) You were among
-those who chose to follow the plan of Him who became our Redeemer rather than
-the plan of him who became our adversary. Great and marvelous is your place in
-the plan of God our Eternal Father.
+9](/scriptures/nt/rev/12.7,9?lang=eng#6).) You were among those who chose to
+follow the plan of Him who became our Redeemer rather than the plan of him who
+became our adversary. Great and marvelous is your place in the plan of God our
+Eternal Father.
 
 Is there anything more beautiful, anything that speaks more of divinity than a
 lovely little girl? I have little granddaughters, bright-eyed and beautiful,
 who sing and smile and touch my heart with thoughts of heaven. When I see them
 in their innocence, I recall the words of the Lord, "Except ye ... become as
 little children, ye shall not enter into the kingdom of heaven." ([Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2); see also [3 Ne.
-11:37-38](https://www.lds.org/scriptures/bofm/3-ne/11.37-38?lang=eng#36).)
+18:3](/scriptures/nt/matt/18.3?lang=eng#2); see also [3 Ne.
+11:37-38](/scriptures/bofm/3-ne/11.37-38?lang=eng#36).)
 
 I see young women, radiant in the beauty of youth, whose virtue is more
 precious than rubies--young women who are bright and who study with enthusiasm
@@ -163,10 +161,10 @@ espouses education. To you young women may I suggest that you get all the
 education you can. Train yourselves to make a contribution to the society in
 which you will live. There is an essence of the divine in the improvement of
 the mind. "The glory of God is intelligence, or, in other words, light and
-truth." ([D&amp;C 93:36](https://www.lds.org/scriptures/dc-
-testament/dc/93.36?lang=eng#35).) "Whatever principle of intelligence we
-attain unto in this life, it will rise with us in the resurrection." ([D&amp;C
-130:18](https://www.lds.org/scriptures/dc-testament/dc/130.18?lang=eng#17).)
+truth." ([D&amp;C 93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).)
+"Whatever principle of intelligence we attain unto in this life, it will rise
+with us in the resurrection." ([D&amp;C 130:18](/scriptures/dc-
+testament/dc/130.18?lang=eng#17).)
 
 Almost the entire field of human endeavor is now open to women, in contrast
 with difficult restrictions that were felt only a few years ago.
@@ -320,4 +318,6 @@ homes the filthiness of the world, which can lead to such abuse. Rise up in
 the stature of your divine inheritance. God bless you, you wonderful girls,
 you strong and able young women, you older women of faith and integrity, you
 mothers in Zion, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

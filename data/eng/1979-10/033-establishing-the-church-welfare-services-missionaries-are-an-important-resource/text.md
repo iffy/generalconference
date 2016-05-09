@@ -1,18 +1,17 @@
-# Establishing the Church: Welfare Services Missionaries Are an Important Resource
+# Establishing the Church:Welfare Services Missionaries Are an Important Resource
 
 The Psalmist asked the question, "How shall we sing the Lord's song in a
-strange land?" ([Ps.
-137:4](https://www.lds.org/scriptures/ot/ps/137.4?lang=eng#3)). In every age,
-including our own, the Lord's message has been brought into lands that were
-strange to the messengers. They have sought to establish a Zion where the Lord
-is God.
+strange land?" ([Ps. 137:4](/scriptures/ot/ps/137.4?lang=eng#3)). In every
+age, including our own, the Lord's message has been brought into lands that
+were strange to the messengers. They have sought to establish a Zion where the
+Lord is God.
 
 Since early in the history of our dispensation, through the successive
 revelations now recorded in the Doctrine and Covenants, the Lord has sought to
 establish his church, "giving line upon line, precept upon precept; here a
 little, and there a little; giving us consolation by holding forth that which
-is to come, confirming our hope!" ([D&amp;C
-128:21](https://www.lds.org/scriptures/dc-testament/dc/128.21?lang=eng#20)).
+is to come, confirming our hope!" ([D&amp;C 128:21](/scriptures/dc-
+testament/dc/128.21?lang=eng#20)).
 
 We affirm that this process yet continues, and we know that as we reach out
 into all the world, as the Lord has prompted us and commanded us to do, we
@@ -36,26 +35,25 @@ labor, every man according to his strength.
 "And they did impart of their substance, every man according to that which he
 had, to the poor, and the needy, and the sick, and the afflicted; and they did
 not wear costly apparel, yet they were neat and comely" ([Alma
-1:26-27](https://www.lds.org/scriptures/bofm/alma/1.26-27?lang=eng#25)).
+1:26-27](/scriptures/bofm/alma/1.26-27?lang=eng#25)).
 
 Let us take note of this process:
 
 First, the doctrines are taught (see [Alma
-1:26](https://www.lds.org/scriptures/bofm/alma/1.26?lang=eng#25)).
+1:26](/scriptures/bofm/alma/1.26?lang=eng#25)).
 
 Second, members esteem each other as themselves (see [Alma
-1:26](https://www.lds.org/scriptures/bofm/alma/1.26?lang=eng#25)).
+1:26](/scriptures/bofm/alma/1.26?lang=eng#25)).
 
 Third, they all labor; they work and earn that which they receive (see [Alma
-1:26](https://www.lds.org/scriptures/bofm/alma/1.26?lang=eng#25)).
+1:26](/scriptures/bofm/alma/1.26?lang=eng#25)).
 
 Fourth, they impart of their substance to the less fortunate; they serve one
-another (see [Alma
-1:27](https://www.lds.org/scriptures/bofm/alma/1.27?lang=eng#26)).
+another (see [Alma 1:27](/scriptures/bofm/alma/1.27?lang=eng#26)).
 
 Fifth, they discipline their own appetites while at the same time caring
 appropriately for their own needs (see [Alma
-1:27](https://www.lds.org/scriptures/bofm/alma/1.27?lang=eng#26)).
+1:27](/scriptures/bofm/alma/1.27?lang=eng#26)).
 
 Now, listen to the declaration of the prophet:
 
@@ -63,7 +61,7 @@ Now, listen to the declaration of the prophet:
 
 "And now, because of the steadiness of the church they began to be exceeding
 rich, having abundance of all things whatsoever they stood in need" ([Alma
-1:28-29](https://www.lds.org/scriptures/bofm/alma/1.28-29?lang=eng#27)).
+1:28-29](/scriptures/bofm/alma/1.28-29?lang=eng#27)).
 
 This mighty change happened, not because the people were given things, but
 rather because they were taught and began to help themselves and to care for
@@ -247,4 +245,6 @@ May the Lord bless us all as we seek to establish his church. May we learn how
 to sing the Lord's song in strange lands and help the less fortunate "open
 their eyes to a vision of eternity and show them how to reach up to the stars"
 (Spencer W. Kimball, Dec. 1974), I pray in the name of Jesus Christ, amen.
+
+## References
 

@@ -32,23 +32,20 @@ after such unusual preparation of this exceptional disciple of Christ.
 Jesus' instructions concerning discipleship involve both substance and
 sequence: "If any man will come after me, let him _deny_ himself, and _take
 up_ his cross daily, and _follow_ me" ([Luke
-9:23](https://www.lds.org/scriptures/nt/luke/9.23?lang=eng#22); emphasis
-added). Elsewhere, Moroni declared the need for us to deny ourselves "all
-ungodliness" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31)), thus
-including both large and small sins. While boulders surely block our way,
-loose gravel slows discipleship, too. Even a small stone can become a
-stumbling block.
+9:23](/scriptures/nt/luke/9.23?lang=eng#22); emphasis added). Elsewhere,
+Moroni declared the need for us to deny ourselves "all ungodliness" ([Moro.
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31)), thus including both large
+and small sins. While boulders surely block our way, loose gravel slows
+discipleship, too. Even a small stone can become a stumbling block.
 
 King Benjamin and Paul both stressed the congenital weakness of the natural
 man who is turned away from God and who regards spiritual things as
-"foolishness" (see [Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18); [1 Cor.
-2:13-14](https://www.lds.org/scriptures/nt/1-cor/2.13-14?lang=eng#12); [Col.
-3:9](https://www.lds.org/scriptures/nt/col/3.9?lang=eng#8)). Thus, putting off
-the views and appetites of the natural man is such a large part of denying
-oneself, a process sometimes accompanied by scalding shame and the reflux of
-regret (see JST, Luke 14:28).
+"foolishness" (see [Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18); [1
+Cor. 2:13-14](/scriptures/nt/1-cor/2.13-14?lang=eng#12); [Col.
+3:9](/scriptures/nt/col/3.9?lang=eng#8)). Thus, putting off the views and
+appetites of the natural man is such a large part of denying oneself, a
+process sometimes accompanied by scalding shame and the reflux of regret (see
+JST, Luke 14:28).
 
 Even so, in today's world, individual appetites, far from being denied, are
 actually celebrated! As one writer noted, this mantra has its own incessant
@@ -89,12 +86,12 @@ national product, produced in the slums of the spirit created by spreading
 secularism!
 
 In Proverbs, we read, "For the commandment is a lamp" ([Prov.
-6:23](https://www.lds.org/scriptures/ot/prov/6.23?lang=eng#22)). Once
-darkened, a society loses its capacity to distinguish between right and wrong
-and the will to declare that some things are wrong _per se._ Without the lamp,
-our world finds itself desperately building temporary defenses, drawing new
-lines, forever falling back, unwilling to confront. A society which permits
-anything will eventually lose everything!
+6:23](/scriptures/ot/prov/6.23?lang=eng#22)). Once darkened, a society loses
+its capacity to distinguish between right and wrong and the will to declare
+that some things are wrong _per se._ Without the lamp, our world finds itself
+desperately building temporary defenses, drawing new lines, forever falling
+back, unwilling to confront. A society which permits anything will eventually
+lose everything!
 
 Therefore, recognized or not, the public has an enormous stake in private
 morality! Yet today there is so much hedonism and shouted justification with
@@ -106,41 +103,38 @@ sometimes glorified. Likewise, in place of real confessions there are fluid
 variations of "I hope I can forgive myself." In contrast, the inquiring
 Apostles knew the direction in which they faced; all anxiously asked Jesus of
 the impending betrayal, "Lord, is it I?" ([Matt.
-26:22](https://www.lds.org/scriptures/nt/matt/26.22?lang=eng#21).)
+26:22](/scriptures/nt/matt/26.22?lang=eng#21).)
 
 Gross sins arise ominously and steadily out of the swamp of self-indulgence
 and self-pity. But the smaller sins breed there, too, like insects in the mud,
 including the coarsening of language. But why should we expect those who "mind
 the things of the flesh" to mind their tongues? ([Rom.
-8:5](https://www.lds.org/scriptures/nt/rom/8.5?lang=eng#4).)
+8:5](/scriptures/nt/rom/8.5?lang=eng#4).)
 
 For some, their god "is their belly," as are other forms of anatomical
-allegiance! ([Philip.
-3:19](https://www.lds.org/scriptures/nt/philip/3.19?lang=eng#18).) A few
+allegiance! ([Philip. 3:19](/scriptures/nt/philip/3.19?lang=eng#18).) A few
 hedonists actually glory in their shame, and there is even a "greediness" in
-their "uncleanness" ([Eph.
-4:18-19](https://www.lds.org/scriptures/nt/eph/4.18-19?lang=eng#17)). Sadly,
-too, a few envy the wicked. Still others complain that the wicked seem to get
-away with it! (See [Prov.
-23:17](https://www.lds.org/scriptures/ot/prov/23.17?lang=eng#16); [Mal.
-3:14-15](https://www.lds.org/scriptures/ot/mal/3.14-15?lang=eng#13).)
+their "uncleanness" ([Eph. 4:18-19](/scriptures/nt/eph/4.18-19?lang=eng#17)).
+Sadly, too, a few envy the wicked. Still others complain that the wicked seem
+to get away with it! (See [Prov.
+23:17](/scriptures/ot/prov/23.17?lang=eng#16); [Mal.
+3:14-15](/scriptures/ot/mal/3.14-15?lang=eng#13).)
 
 Ironically, in all their eagerness to experience certain things, hedonists,
 become desensitized. People who wrongly celebrate their capacity to feel
 finally reach a point where they lose much of their capacity to feel! In the
 words of three different prophets, such individuals become "past feeling" (see
-[1 Ne. 17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44);
-[Eph. 4:19](https://www.lds.org/scriptures/nt/eph/4.19?lang=eng#18); [Moro.
-9:20](https://www.lds.org/scriptures/bofm/moro/9.20?lang=eng#19)).
+[1 Ne. 17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44); [Eph.
+4:19](/scriptures/nt/eph/4.19?lang=eng#18); [Moro.
+9:20](/scriptures/bofm/moro/9.20?lang=eng#19)).
 
 When people proceed "without principle," erelong they will be "without
 civilization," "without mercy," and "past feeling" (see [Moro.
-9:11-20](https://www.lds.org/scriptures/bofm/moro/9.11-20?lang=eng#10)). Such
-individuals do not experience real joy, such as being quietly and deeply
-grateful to a generous God, or of helping to restore those who "droop in sin"
-([2 Ne. 4:28](https://www.lds.org/scriptures/bofm/2-ne/4.28?lang=eng#27)), or
-of gladly forgoing praise and recognition so that it might flow, instead, to
-parched souls.
+9:11-20](/scriptures/bofm/moro/9.11-20?lang=eng#10)). Such individuals do not
+experience real joy, such as being quietly and deeply grateful to a generous
+God, or of helping to restore those who "droop in sin" ([2 Ne.
+4:28](/scriptures/bofm/2-ne/4.28?lang=eng#27)), or of gladly forgoing praise
+and recognition so that it might flow, instead, to parched souls.
 
 Our physical as well as our familial environment is likewise threatened by
 selfishness. But some worry only about holes in the ozone layer, while the
@@ -156,11 +150,10 @@ is lit.
 
 Meanwhile, mortals remain free to choose between the things of the moment and
 the things of eternity (see [2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)). Given the
-choices made by some, we all end up with more protected pornography than
-protected children. Of course better self-restraint than censorship, but
-urging self-restraint on hedonists is like discouraging Dracula from hanging
-around the blood bank!
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)). Given the choices made by
+some, we all end up with more protected pornography than protected children.
+Of course better self-restraint than censorship, but urging self-restraint on
+hedonists is like discouraging Dracula from hanging around the blood bank!
 
 No wonder most of the Ten Commandments are self-denying "Thou shalt nots."
 Heavenly Father loves his children perfectly, but he knows our tendencies
@@ -170,12 +163,12 @@ mistakenly seeks to please himself for the moment regardless of divine
 standards or human consequences. As prophesied, ethical relativism is now in
 steep crescendo: "Every man walketh in his own way, and after the image of his
 own god, whose image is in the likeness of the world" ([D&amp;C
-1:16](https://www.lds.org/scriptures/dc-testament/dc/1.16?lang=eng#15)).
+1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15)).
 
 Without the lamp's perspective, gross distortion results (see [Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12)). I remember
-reading that one Nazi leader used to listen to Haydn's music while watching
-Jewish people being gassed. He was probably proud of his music appreciation.
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12)). I remember reading that one
+Nazi leader used to listen to Haydn's music while watching Jewish people being
+gassed. He was probably proud of his music appreciation.
 
 Mussolini is said to have made Italy's trains run on time, a genuine
 convenience to passengers, but scarcely compensation for the awful
@@ -191,15 +184,14 @@ In the same vein, God's second commandment, love thy neighbor, clearly leaves
 no room for racism. Yet it is not enough to be free of racism if one is
 simultaneously enslaved by other appetites. Jesus emphasized the need for
 proportion, saying there are "weightier matters" even among good things
-([Matt. 23:23](https://www.lds.org/scriptures/nt/matt/23.23?lang=eng#22)). To
-the commandment-keeping young man, Jesus responded, "One thing thou lackest,"
-referring to an errant attachment to material possessions ([Mark
-10:21](https://www.lds.org/scriptures/nt/mark/10.21?lang=eng#20)). Most of us
-lack more than just one thing. As we come closer to the Lord, He has promised
-to "show unto [us our] weakness" ([Ether
-12:27](https://www.lds.org/scriptures/bofm/ether/12.27?lang=eng#26)). Hence,
-general goodness is no excuse for failing to work on those things which we yet
-lack.
+([Matt. 23:23](/scriptures/nt/matt/23.23?lang=eng#22)). To the commandment-
+keeping young man, Jesus responded, "One thing thou lackest," referring to an
+errant attachment to material possessions ([Mark
+10:21](/scriptures/nt/mark/10.21?lang=eng#20)). Most of us lack more than just
+one thing. As we come closer to the Lord, He has promised to "show unto [us
+our] weakness" ([Ether 12:27](/scriptures/bofm/ether/12.27?lang=eng#26)).
+Hence, general goodness is no excuse for failing to work on those things which
+we yet lack.
 
 Any list of our present, personal indulgences is actually an index--but a
 reverse index to joys--joys we will not experience until we do deny ourselves
@@ -211,33 +203,33 @@ extreme it can bring domestic abuse and even murder. The tendency to strike
 back whenever we are offended makes us brusque and rude, as if others were
 functions, not as brothers and sisters. Thus, excess of ego is like a
 spreading, toxic spill from which flow all the deadly sins (see [Prov.
-6:16-19](https://www.lds.org/scriptures/ot/prov/6.16-19?lang=eng#15)). Young
-parents know how a mere half cup of spilled milk seems to cover half a kitchen
-floor. Small sins spread like that, too.
+6:16-19](/scriptures/ot/prov/6.16-19?lang=eng#15)). Young parents know how a
+mere half cup of spilled milk seems to cover half a kitchen floor. Small sins
+spread like that, too.
 
 With His perfect, spiritual symmetry Jesus really is "the way, the truth, and
 the life,", His way being in such sharp contrast to the world's ways ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5)). Jesus' perfect
-character is thus not only holy, but wholly complete and finished. Without
-Jesus' supernal character, He could not have accomplished the astonishing
-atonement! And He has asked us to become much more like Him (see [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47); [3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26)). Though
-heavy, discipleship's burden can be made light (see [Matt.
-11:30](https://www.lds.org/scriptures/nt/matt/11.30?lang=eng#29)). The Lord
-can "ease the burdens," and/or our shoulders can be made strong enough that we
-"may be able to bear it" ([Mosiah
-24:14](https://www.lds.org/scriptures/bofm/mosiah/24.14?lang=eng#13); [1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12)).
+14:6](/scriptures/nt/john/14.6?lang=eng#5)). Jesus' perfect character is thus
+not only holy, but wholly complete and finished. Without Jesus' supernal
+character, He could not have accomplished the astonishing atonement! And He
+has asked us to become much more like Him (see [Matt.
+5:48](/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47); [3 Ne.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26)). Though heavy, discipleship's
+burden can be made light (see [Matt.
+11:30](/scriptures/nt/matt/11.30?lang=eng#29)). The Lord can "ease the
+burdens," and/or our shoulders can be made strong enough that we "may be able
+to bear it" ([Mosiah 24:14](/scriptures/bofm/mosiah/24.14?lang=eng#13); [1
+Cor. 10:13](/scriptures/nt/1-cor/10.13?lang=eng#12)).
 
 So it is that real, personal sacrifice never was placing an animal on the
 altar. Instead, it is a willingness to put the animal in us upon the altar and
 letting it be consumed! Such is the "sacrifice unto the Lord ... of a broken
-heart and a contrite spirit," ([D&amp;C 59:8](https://www.lds.org/scriptures
-/dc-testament/dc/59.8?lang=eng#7)), a prerequisite to taking up the cross,
-while giving "away all [our] sins" in order to "know God" ([Alma
-22:18](https://www.lds.org/scriptures/bofm/alma/22.18?lang=eng#17)) for the
-denial of self precedes the full acceptance of Him. In the name of Jesus
-Christ, amen.
+heart and a contrite spirit," ([D&amp;C 59:8](/scriptures/dc-
+testament/dc/59.8?lang=eng#7)), a prerequisite to taking up the cross, while
+giving "away all [our] sins" in order to "know God" ([Alma
+22:18](/scriptures/bofm/alma/22.18?lang=eng#17)) for the denial of self
+precedes the full acceptance of Him. In the name of Jesus Christ, amen.
+
+## References
 

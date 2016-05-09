@@ -56,8 +56,8 @@ Oliver Cowdery was one who, for just a moment, slipped his shoes off while the
 game was still going, and it led to one of the great disappointments in Church
 history. He had been serving as scribe for the Prophet Joseph Smith as the
 Book of Mormon was being translated, and the Lord told him that he, too, would
-be granted the gift of translation. (See [D&amp;C
-6:25](https://www.lds.org/scriptures/dc-testament/dc/6.25?lang=eng#24).)
+be granted the gift of translation. (See [D&amp;C 6:25](/scriptures/dc-
+testament/dc/6.25?lang=eng#24).)
 
 Oliver was not as ready as he might have been--or as he once had been. His
 belief in himself and in this great latter-day work had faltered just a bit,
@@ -65,8 +65,8 @@ and he cried out, "Wait while I get ready." But he learned that eternal work
 can seldom wait for long. The Lord eventually replied to him, "Because ... you
 did not continue as you commenced, ... I have taken away this privilege. ... You
 feared, and the time is past, and it is not expedient now." ([D&amp;C 9:5,
-11](https://www.lds.org/scriptures/dc-testament/dc/9.5%2C11?lang=eng#4).) The
-opportunity of a lifetime had not been seized, and it was gone forever.
+11](/scriptures/dc-testament/dc/9.5,11?lang=eng#4).) The opportunity of a
+lifetime had not been seized, and it was gone forever.
 
 If President Kimball will pardon a personal reference, I would like to refer
 to his readiness and preparation. At President Harold B. Lee's funeral he said
@@ -119,14 +119,15 @@ render you ineffective in the kingdom of God. Be ready when your call comes,
 for surely it will come. Keep your gospel shoes on, or as Paul wrote to the
 Ephesians, "Stand therefore, having ... your feet shod with the preparation of
 the gospel of peace." ([Eph.
-6:14-15](https://www.lds.org/scriptures/nt/eph/6.14-15?lang=eng#13).) The Lord
-would say to you tonight what the angel said long ago to Simon Peter: "Arise.
-... Bind on thy sandals. ... Follow me." ([Acts
-12:7-8](https://www.lds.org/scriptures/nt/acts/12.7-8?lang=eng#6).)
+6:14-15](/scriptures/nt/eph/6.14-15?lang=eng#13).) The Lord would say to you
+tonight what the angel said long ago to Simon Peter: "Arise. ... Bind on thy
+sandals. ... Follow me." ([Acts 12:7-8](/scriptures/nt/acts/12.7-8?lang=eng#6).)
 
 What a glorious thing it is to have the privilege of bearing the priesthood.
 God does live and Jesus Christ is his Son--our Lord and Savior. I bear witness
 that there is a prophet of God on the earth, and tonight we have the privilege
 of sitting at his feet in this great gathering. In the name of Jesus Christ.
 Amen.
+
+## References
 

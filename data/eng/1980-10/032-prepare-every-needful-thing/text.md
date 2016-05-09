@@ -101,7 +101,7 @@ I implore you stake leaders to see that the messages of this welfare services
 meeting get to the bishops, the quorum leaders, and the ward Relief Society
 presidents so that the members of the Church can be taught and converted
 sufficiently to live the basic principles of which we speak and thus put their
-houses in order (see [D&amp;C 90:18](https://www.lds.org/scriptures/dc-
+houses in order (see [D&amp;C 90:18](/scriptures/dc-
 testament/dc/90.18?lang=eng#17)).
 
 The bishop is responsible to administer to the needs of the poor and needy. He
@@ -233,13 +233,14 @@ My brothers and sisters, I feel our anxieties are justified. It is the opinion
 of many that more difficult times lie ahead. We are deeply concerned about the
 welfare of our people and recognize the potential privation and suffering that
 will exist if each person and family does not accept the word of the Lord when
-he says, "Prepare every needful thing" ([D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118)),
-and "It must needs be done in mine own way" ([D&amp;C
-104:16](https://www.lds.org/scriptures/dc-testament/dc/104.16?lang=eng#15)).
+he says, "Prepare every needful thing" ([D&amp;C 88:119](/scriptures/dc-
+testament/dc/88.119?lang=eng#118)), and "It must needs be done in mine own
+way" ([D&amp;C 104:16](/scriptures/dc-testament/dc/104.16?lang=eng#15)).
 
 May I again implore you priesthood and Relief Society leaders to see that all
 members of the Church everywhere understand the responsibility they have for
 their own welfare, that our people will be blessed to live provident and
 righteous lives. In the name of Jesus Christ, amen.
+
+## References
 

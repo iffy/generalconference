@@ -23,7 +23,7 @@ Gethsemane and Golgotha. We sat and meditated in the empty tomb. And then we
 walked out of the tomb into the sunlit garden where early in the morning the
 angels spoke to the two Marys and said, "Why seek ye the living among the
 dead? He is not here, but is risen" ([Luke
-24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4)).
+24:5-6](/scriptures/nt/luke/24.5-6?lang=eng#4)).
 
 That is my witness to all within the sound of my voice. He is risen! He lived.
 He died. He was resurrected--the Son of God, who opened the door of
@@ -110,4 +110,6 @@ renewed sense of dedication to thee and thy everlasting truth.
 We love thee, our Father. We love thy holy Son. We give our witness to the
 world concerning him and thee, and ask that thou wilt accept of our thanks,
 our labors, and our love, in the name of Jesus Christ. Amen.
+
+## References
 

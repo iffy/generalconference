@@ -52,7 +52,7 @@ the light. Endure to the end. Be true to every covenant and obligation, and
 the Lord will bless you beyond your fondest dreams. As it was said by one of
 old: "Let us hear the conclusion of the whole matter: Fear God, and keep his
 commandments: for this is the whole duty of man." ([Eccl.
-12:13](https://www.lds.org/scriptures/ot/eccl/12.13?lang=eng#12).)
+12:13](/scriptures/ot/eccl/12.13?lang=eng#12).)
 
 To all the families in Israel we say: The family is the most important
 organization in time or in eternity. Our purpose in life is to create for
@@ -89,9 +89,9 @@ upon the things of this world.
 
 Marry in the temple, and live joyous and righteous lives. Remember the words
 of Alma: "Wickedness never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).) Remember
-also that our hope for the future and the destiny of the Church and the cause
-of righteousness rest in your hands.
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9).) Remember also that our hope
+for the future and the destiny of the Church and the cause of righteousness
+rest in your hands.
 
 To those who are called to positions of trust and responsibility in the Church
 we say: Preach the gospel in plainness and simplicity as it is found in the
@@ -99,11 +99,10 @@ standard works of the Church. Testify of the truth of the work and the
 doctrines revealed anew in our day.
 
 Remember the words of the Lord Jesus Christ, who said, "I am among you as he
-that serveth" ([Luke
-22:27](https://www.lds.org/scriptures/nt/luke/22.27?lang=eng#26)), and choose
-to serve with an eye single to the glory of God. Visit the fatherless and the
-widows in their affliction, and keep yourself unspotted from the sins of the
-world.
+that serveth" ([Luke 22:27](/scriptures/nt/luke/22.27?lang=eng#26)), and
+choose to serve with an eye single to the glory of God. Visit the fatherless
+and the widows in their affliction, and keep yourself unspotted from the sins
+of the world.
 
 Now there is much more that the Lord would have us hear and know and do, and I
 shall rely upon President Lee and President Tanner, upon the members of the
@@ -128,4 +127,6 @@ I feel to thank the Lord for his goodness and grace, for all the blessings he
 has showered upon us so abundantly; and I pray that we may all be worthy to
 receive the eternal fullness which he offers his saints through the gospel of
 his Son, and I do this in the name of Jesus Christ. Amen.
+
+## References
 

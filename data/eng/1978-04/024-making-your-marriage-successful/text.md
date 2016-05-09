@@ -7,11 +7,10 @@ of making your marriage successful.
 
 Our Heavenly Father loves all of us and wants us to be happy. The scriptures
 record, "Men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).) President
-Kimball has told us that the price of happiness is to keep the commandments.
-(See _Faith Precedes the Miracle,_ Salt Lake City: Deseret Book Co., 1972, p.
-126.) Nowhere else are happiness and success more important than in your
-marriage.
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).) President Kimball has told us
+that the price of happiness is to keep the commandments. (See _Faith Precedes
+the Miracle,_ Salt Lake City: Deseret Book Co., 1972, p. 126.) Nowhere else
+are happiness and success more important than in your marriage.
 
 _The foundation for a happy and successful marriage_ is a marriage solemnized
 in the temple. To you who were married for time only, let me urge you to
@@ -96,9 +95,8 @@ this statement in the scriptures:
 "Bring ye all the tithes into the storehouse that there may be meat in mine
 house, and prove me now herewith, saith the Lord of hosts, if I will not open
 the windows of heaven, and pour you out a blessing, that there shall not be
-room enough to receive it." ([Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).) I testify to
-you that this is true.
+room enough to receive it." ([Mal. 3:10](/scriptures/ot/mal/3.10?lang=eng#9).)
+I testify to you that this is true.
 
 2\. _Next, pay yourself something off the top._ Save something out of every
 dollar you earn. I suggest your goal be no less than ten percent of your
@@ -132,8 +130,7 @@ way you earn your living.
 
 Remember the admonition of the Savior when He told his disciples, "Seek ye
 first the kingdom of God, and his righteousness; and all these things shall be
-added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).)
+added unto you." ([Matt. 6:33](/scriptures/nt/matt/6.33?lang=eng#32).)
 
 I testify that this is true and that it points the way to success in all
 respects.
@@ -169,12 +166,12 @@ one of your most valuable possessions.
 
 _As you become parents, you should feel responsible to teach and train your
 children._ Our scriptures make this very clear. In Doctrine and Covenants
-68:25 [[D&amp;C 68:25](https://www.lds.org/scriptures/dc-
-testament/dc/68.25?lang=eng#24)] we read, "Inasmuch as parents have children
-in Zion, or in any of her stakes which are organized, that teach them not to
-understand the doctrine of repentance, faith in Christ the Son of the living
-God, and of baptism and the gift of the Holy Ghost by the laying on of ...
-hands, when eight years old, the sin be upon the heads of the parents."
+68:25 [[D&amp;C 68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24)] we
+read, "Inasmuch as parents have children in Zion, or in any of her stakes
+which are organized, that teach them not to understand the doctrine of
+repentance, faith in Christ the Son of the living God, and of baptism and the
+gift of the Holy Ghost by the laying on of ... hands, when eight years old, the
+sin be upon the heads of the parents."
 
 Notice it didn't say the Sunday School teacher or the Primary teacher. The sin
 is on the heads of the _parents._
@@ -190,12 +187,10 @@ other, but also to your children, your relatives, your friends, and your
 associates.
 
 The Lord commanded us to love one another when he said, "Thou shalt love thy
-neighbour as thyself." ([Matt.
-22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38).) Quarreling,
-bickering, and faultfinding should be avoided at all costs. In 3 Nephi
-11:29-30 [[3 Ne.
-11:29-30](https://www.lds.org/scriptures/bofm/3-ne/11.29-30?lang=eng#28)] the
-Lord made this significant statement:
+neighbour as thyself." ([Matt. 22:39](/scriptures/nt/matt/22.39?lang=eng#38).)
+Quarreling, bickering, and faultfinding should be avoided at all costs. In 3
+Nephi 11:29-30 [[3 Ne. 11:29-30](/scriptures/bofm/3-ne/11.29-30?lang=eng#28)]
+the Lord made this significant statement:
 
 "He that hath the spirit of contention is not of me, but is of the devil, who
 is the father of contention, and he stirreth up the hearts of men to contend
@@ -205,8 +200,7 @@ with anger, one with another.
 against another; but this is my doctrine, that such things should be done
 away."
 
-And also in [Mosiah
-4:14](https://www.lds.org/scriptures/bofm/mosiah/4.14?lang=eng#13), we read
+And also in [Mosiah 4:14](/scriptures/bofm/mosiah/4.14?lang=eng#13), we read
 that parents are particularly responsible for the behavior of their children:
 
 "And ye will not suffer your children that they go hungry, or naked; neither
@@ -242,4 +236,6 @@ the Year, 1973,_ Provo: Brigham Young University Press, 1974, p. 257.)
 May our Heavenly Father bless you abundantly in your efforts to make your
 marriage successful for both time and all eternity, I humbly pray in the name
 of Jesus Christ. Amen.
+
+## References
 

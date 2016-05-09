@@ -98,9 +98,9 @@ received them have said that they are impossible to describe.
 
 When the Prophet Joseph Smith had his vision of the Father and the Son, he
 said, "[Their] brightness and glory defy all description." ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)) That is, we
-don't have any background of knowledge; there isn't a vocabulary to use in
-describing a celestial accomplishment.
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)) That is, we don't have any
+background of knowledge; there isn't a vocabulary to use in describing a
+celestial accomplishment.
 
 There are some things that we can't describe even in this life. For example,
 if I tried to describe to you the look in my little granddaughter's eyes on
@@ -114,7 +114,7 @@ indescribable.
 
 The Prophet Joseph Smith tried to describe the resurrected Jesus as he saw him
 in the Kirtland Temple on April 3, 1836. And he said, "His eyes were as a
-flame of fire." ([D&amp;C 110:3](https://www.lds.org/scriptures/dc-
+flame of fire." ([D&amp;C 110:3](/scriptures/dc-
 testament/dc/110.3?lang=eng#2)) It isn't a twinkle anymore; I suppose it is
 now magnified a few million times. I suppose that actually there wasn't any
 fire there at all, any more than there is a light in my granddaughter's eyes.
@@ -127,8 +127,8 @@ angel Moroni. Moroni was a soldier who lived upon our continent. For the last
 thirty-seven years of his life he lived alone. He said, "My father hath been
 slain [as well as] all my kinsfolk, and I have not friends nor whither to go.
 "Wherefore," said he, "I wander whithersoever I can for the safety of mine own
-life." ([Morm. 8:5](https://www.lds.org/scriptures/bofm/morm/8.5?lang=eng#4),
-[Moro. 1:3](https://www.lds.org/scriptures/bofm/moro/1.3?lang=eng#2))
+life." ([Morm. 8:5](/scriptures/bofm/morm/8.5?lang=eng#4), [Moro.
+1:3](/scriptures/bofm/moro/1.3?lang=eng#2))
 
 He didn't have a warm bathroom to go into every morning or someone to get him
 a good breakfast or provide him with clean clothing. We might imagine that
@@ -139,7 +139,7 @@ book he said, "And now I bid unto all, farewell. I soon go to rest in the
 paradise of God, until my spirit and body shall again reunite, and I am
 brought forth triumphant through the air, to meet you before the pleasing bar
 of the great Jehovah, the Eternal Judge of both quick and dead." ([Moro.
-10:34](https://www.lds.org/scriptures/bofm/moro/10.34?lang=eng#33).)
+10:34](/scriptures/bofm/moro/10.34?lang=eng#33).)
 
 And then there followed a long silence of fourteen centuries. For 1,403 years
 we heard nothing more, until on the night of September 21, 1823, this same old
@@ -147,12 +147,11 @@ man, now resurrected and glorified, stood by the bedside of Joseph Smith. And
 the Prophet tried to describe him as he then appeared. And while he said that
 was impossible, yet he tried. And here are some of the phrases he used. He
 said, "His whole person was glorious beyond description, and his countenance
-truly like lightning." ([JS--H
-1:32](https://www.lds.org/scriptures/pgp/js-h/1.32?lang=eng#31)) Not only was
-his person glorious, but even his clothing was brilliant. "Beyond anything
-earthly I had ever seen," said he, "nor do I believe that any earthly thing
-could be made to appear so exceedingly white and brilliant." ([JS--H
-1:31](https://www.lds.org/scriptures/pgp/js-h/1.31?lang=eng#30))
+truly like lightning." ([JS--H 1:32](/scriptures/pgp/js-h/1.32?lang=eng#31))
+Not only was his person glorious, but even his clothing was brilliant. "Beyond
+anything earthly I had ever seen," said he, "nor do I believe that any earthly
+thing could be made to appear so exceedingly white and brilliant." ([JS--H
+1:31](/scriptures/pgp/js-h/1.31?lang=eng#30))
 
 We all know the things that we do to make this body a pleasant habitation. We
 bathe it and keep it clean; we dress it in the most appropriate clothing.
@@ -179,8 +178,7 @@ bodies into their likeness.
 And so we come back to the place where we began. What a thrilling experience
 that we may live well, enabling us to die well and then live with God in the
 celestial kingdom throughout eternity. The apostle Paul said, we die, "and,
-behold, we live." ([2 Cor.
-6:9](https://www.lds.org/scriptures/nt/2-cor/6.9?lang=eng#8).)
+behold, we live." ([2 Cor. 6:9](/scriptures/nt/2-cor/6.9?lang=eng#8).)
 
 And I would like to repeat the prayer of a very thoughtful man who said,
 
@@ -190,4 +188,6 @@ _Than that I may not disappoint myself."_
 
 And may God bless us, everyone, that we may magnify our callings and our
 opportunities. For this I sincerely pray in the name of Jesus Christ. Amen.
+
+## References
 

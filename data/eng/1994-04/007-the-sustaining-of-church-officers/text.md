@@ -63,3 +63,5 @@ We now invite the newly sustained member of the Twelve, members of the
 Seventy, and Presiding Bishop to take their places on the stand. Would you
 brethren now come forward, if you are able.
 
+## References
+

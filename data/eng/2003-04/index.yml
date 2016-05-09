@@ -1,465 +1,381 @@
 items:
-- article_id: PD10030371_000_003
-  item: '002'
-  key: 002-the-condition-of-the-church
+- item: 1
+  key: 000-the-condition-of-the-church
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-condition-of-the-church
   speaker: Gordon B. Hinckley
   title: The Condition of the Church
   url: https://www.lds.org/general-conference/2003/04/the-condition-of-the-church?lang=eng
   year: 2003
-- article_id: PD10030371_000_004
-  item: '004'
-  key: 004-sweet-power-of-prayer
+- item: 2
+  key: 001-sweet-power-of-prayer
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: sweet-power-of-prayer
   speaker: Russell M. Nelson
   title: Sweet Power of Prayer
   url: https://www.lds.org/general-conference/2003/04/sweet-power-of-prayer?lang=eng
   year: 2003
-- article_id: PD10030371_000_005
-  item: '006'
-  key: 006-forgiveness-will-change-bitterness-to-love
+- item: 3
+  key: 002-forgiveness-will-change-bitterness-to-love
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: forgiveness-will-change-bitterness-to-love
   speaker: David E. Sorensen
   title: Forgiveness Will Change Bitterness to Love
   url: https://www.lds.org/general-conference/2003/04/forgiveness-will-change-bitterness-to-love?lang=eng
   year: 2003
-- article_id: PD10030371_000_006
-  item: 008
-  key: 008-blessed-by-living-water
+- item: 4
+  key: 003-blessed-by-living-water
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: blessed-by-living-water
   speaker: Kathleen H. Hughes
   title: Blessed by Living Water
   url: https://www.lds.org/general-conference/2003/04/blessed-by-living-water?lang=eng
   year: 2003
-- article_id: PD10030371_000_007
-  item: 009
-  key: 009-faith-through-tribulation-brings-peace-and-joy
+- item: 5
+  key: 004-faith-through-tribulation-brings-peace-and-joy
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: faith-through-tribulation-brings-peace-and-joy
   speaker: Robert D. Hales
   title: Faith through Tribulation Brings Peace and Joy
   url: https://www.lds.org/general-conference/2003/04/faith-through-tribulation-brings-peace-and-joy?lang=eng
   year: 2003
-- article_id: PD10030371_000_008
-  item: '011'
-  key: 011-in-search-of-treasure
+- item: 6
+  key: 005-in-search-of-treasure
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: in-search-of-treasure
   speaker: Thomas S. Monson
   title: In Search of Treasure
   url: https://www.lds.org/general-conference/2003/04/in-search-of-treasure?lang=eng
   year: 2003
-- article_id: PD10030371_000_009
-  item: '015'
-  key: 015-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: James E. Faust
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2003/04/the-sustaining-of-church-officers?lang=eng
   year: 2003
-- article_id: PD10030371_000_010
-  item: '016'
-  key: 016-church-auditing-department-report
+- item: 8
+  key: 007-church-auditing-department-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: church-auditing-department-report
   speaker: Wesley L. Jones
   title: Church Auditing Department Report
   url: https://www.lds.org/general-conference/2003/04/church-auditing-department-report?lang=eng
   year: 2003
-- article_id: PD10030371_000_011
-  item: '017'
-  key: 017-statistical-report-2002
+- item: 9
+  key: 008-statistical-report-2002
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-2002
   speaker: F. Michael Watson
   title: Statistical Report, 2002
   url: https://www.lds.org/general-conference/2003/04/statistical-report-2002?lang=eng
   year: 2003
-- article_id: PD10030371_000_012
-  item: 018
-  key: 018-the-unspeakable-gift
+- item: 10
+  key: 009-the-unspeakable-gift
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-unspeakable-gift
   speaker: Joseph B. Wirthlin
   title: The Unspeakable Gift
   url: https://www.lds.org/general-conference/2003/04/the-unspeakable-gift?lang=eng
   year: 2003
-- article_id: PD10030371_000_013
-  item: 019
-  key: 019-a-child-and-a-disciple
+- item: 11
+  key: 010-a-child-and-a-disciple
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-child-and-a-disciple
   speaker: Henry B. Eyring
   title: A Child and a Disciple
   url: https://www.lds.org/general-conference/2003/04/a-child-and-a-disciple?lang=eng
   year: 2003
-- article_id: PD10030371_000_014
-  item: '021'
-  key: 021-seek-and-ye-shall-find
+- item: 12
+  key: 011-seek-and-ye-shall-find
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: seek-and-ye-shall-find
   speaker: Craig C. Christensen
   title: Seek, and Ye Shall Find
   url: https://www.lds.org/general-conference/2003/04/seek-and-ye-shall-find?lang=eng
   year: 2003
-- article_id: PD10030371_000_015
-  item: '022'
-  key: 022-words-to-live-by
+- item: 13
+  key: 012-words-to-live-by
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: words-to-live-by
   speaker: James M. Dunn
   title: Words to Live By
   url: https://www.lds.org/general-conference/2003/04/words-to-live-by?lang=eng
   year: 2003
-- article_id: PD10030371_000_016
-  item: '023'
-  key: 023-the-essential-role-of-member-missionary-work
+- item: 14
+  key: 013-the-essential-role-of-member-missionary-work
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-essential-role-of-member-missionary-work
   speaker: M. Russell Ballard
   title: The Essential Role of Member Missionary Work
   url: https://www.lds.org/general-conference/2003/04/the-essential-role-of-member-missionary-work?lang=eng
   year: 2003
-- article_id: PD10030371_000_017
-  item: '024'
-  key: 024-the-importance-of-the-family
+- item: 15
+  key: 014-the-importance-of-the-family
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-importance-of-the-family
   speaker: L. Tom Perry
   title: The Importance of the Family
   url: https://www.lds.org/general-conference/2003/04/the-importance-of-the-family?lang=eng
   year: 2003
-- article_id: PD10030371_000_018
-  item: 028
-  key: 028-growing-into-the-priesthood
+- item: 16
+  key: 015-growing-into-the-priesthood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: growing-into-the-priesthood
   speaker: David B. Haight
   title: Growing into the Priesthood
   url: https://www.lds.org/general-conference/2003/04/growing-into-the-priesthood?lang=eng
   year: 2003
-- article_id: PD10030371_000_019
-  item: 029
-  key: 029-preparing-for-missionary-service
+- item: 17
+  key: 016-preparing-for-missionary-service
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: preparing-for-missionary-service
   speaker: Daryl H. Garn
   title: Preparing for Missionary Service
   url: https://www.lds.org/general-conference/2003/04/preparing-for-missionary-service?lang=eng
   year: 2003
-- article_id: PD10030371_000_020
-  item: '030'
-  key: 030-and-thats-the-way-it-is
+- item: 18
+  key: 017-and-thats-the-way-it-is
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: and-thats-the-way-it-is
   speaker: H. David Burton
-  title: "And That\u2019s the Way It Is"
+  title: And That's the Way It Is
   url: https://www.lds.org/general-conference/2003/04/and-thats-the-way-it-is?lang=eng
   year: 2003
-- article_id: PD10030371_000_021
-  item: '031'
-  key: 031-the-devils-throat
+- item: 19
+  key: 018-the-devils-throat
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-devils-throat
   speaker: James E. Faust
-  title: "The Devil\u2019s Throat"
+  title: The Devil's Throat
   url: https://www.lds.org/general-conference/2003/04/the-devils-throat?lang=eng
   year: 2003
-- article_id: PD10030371_000_022
-  item: '033'
-  key: 033-stand-in-your-appointed-place
+- item: 20
+  key: 019-stand-in-your-appointed-place
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: stand-in-your-appointed-place
   speaker: Thomas S. Monson
   title: Stand in Your Appointed Place
   url: https://www.lds.org/general-conference/2003/04/stand-in-your-appointed-place?lang=eng
   year: 2003
-- article_id: PD10030371_000_023
-  item: '034'
-  key: 034-loyalty
+- item: 21
+  key: 020-loyalty
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: loyalty
   speaker: Gordon B. Hinckley
   title: Loyalty
   url: https://www.lds.org/general-conference/2003/04/loyalty?lang=eng
   year: 2003
-- article_id: PD10030371_000_024
-  item: 039
-  key: 039-dear-are-the-sheep-that-have-wandered
+- item: 22
+  key: 021-dear-are-the-sheep-that-have-wandered
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: dear-are-the-sheep-that-have-wandered
   speaker: James E. Faust
   title: Dear Are the Sheep That Have Wandered
   url: https://www.lds.org/general-conference/2003/04/dear-are-the-sheep-that-have-wandered?lang=eng
   year: 2003
-- article_id: PD10030371_000_025
-  item: '040'
-  key: 040-care-for-the-life-of-the-soul
+- item: 23
+  key: 022-care-for-the-life-of-the-soul
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: care-for-the-life-of-the-soul
   speaker: Neal A. Maxwell
   title: Care for the Life of the Soul
   url: https://www.lds.org/general-conference/2003/04/care-for-the-life-of-the-soul?lang=eng
   year: 2003
-- article_id: PD10030371_000_026
-  item: '041'
-  key: 041-holy-place-sacred-space
+- item: 24
+  key: 023-holy-place-sacred-space
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: holy-place-sacred-space
   speaker: Dennis B. Neuenschwander
   title: Holy Place, Sacred Space
   url: https://www.lds.org/general-conference/2003/04/holy-place-sacred-space?lang=eng
   year: 2003
-- article_id: PD10030371_000_027
-  item: '043'
-  key: 043-did-i-tell-you
+- item: 25
+  key: 024-did-i-tell-you
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: did-i-tell-you
   speaker: Susan W. Tanner
-  title: "Did I Tell You \u2026 ?"
+  title: Did I Tell You ... ?
   url: https://www.lds.org/general-conference/2003/04/did-i-tell-you?lang=eng
   year: 2003
-- article_id: PD10030371_000_028
-  item: '045'
-  key: 045-the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing
+- item: 26
+  key: 025-the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing
   speaker: Richard G. Scott
   title: The Sustaining Power of Faith in Times of Uncertainty and Testing
   url: https://www.lds.org/general-conference/2003/04/the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing?lang=eng
   year: 2003
-- article_id: PD10030371_000_029
-  item: '047'
-  key: 047-war-and-peace
+- item: 27
+  key: 026-war-and-peace
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: war-and-peace
   speaker: Gordon B. Hinckley
   title: War and Peace
   url: https://www.lds.org/general-conference/2003/04/war-and-peace?lang=eng
   year: 2003
-- article_id: PD10030371_000_030
-  item: '051'
-  key: 051-the-golden-years
+- item: 28
+  key: 027-the-golden-years
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-golden-years
   speaker: Boyd K. Packer
   title: The Golden Years
   url: https://www.lds.org/general-conference/2003/04/the-golden-years?lang=eng
   year: 2003
-- article_id: PD10030371_000_031
-  item: '052'
-  key: 052-a-prayer-for-the-children
+- item: 29
+  key: 028-a-prayer-for-the-children
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-prayer-for-the-children
   speaker: Jeffrey R. Holland
   title: A Prayer for the Children
   url: https://www.lds.org/general-conference/2003/04/a-prayer-for-the-children?lang=eng
   year: 2003
-- article_id: PD10030371_000_032
-  item: '053'
-  key: 053-overcoming-the-stench-of-sin
+- item: 30
+  key: 029-overcoming-the-stench-of-sin
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: overcoming-the-stench-of-sin
   speaker: Spencer V. Jones
   title: Overcoming the Stench of Sin
   url: https://www.lds.org/general-conference/2003/04/overcoming-the-stench-of-sin?lang=eng
   year: 2003
-- article_id: PD10030371_000_033
-  item: '055'
-  key: 055-follow-the-instructions
+- item: 31
+  key: 030-follow-the-instructions
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: follow-the-instructions
   speaker: D. Rex Gerratt
   title: Follow the Instructions
   url: https://www.lds.org/general-conference/2003/04/follow-the-instructions?lang=eng
   year: 2003
-- article_id: PD10030371_000_034
-  item: '056'
-  key: 056-eternal-marriage
+- item: 32
+  key: 031-eternal-marriage
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: eternal-marriage
   speaker: F. Burton Howard
   title: Eternal Marriage
   url: https://www.lds.org/general-conference/2003/04/eternal-marriage?lang=eng
   year: 2003
-- article_id: PD10030371_000_035
-  item: '057'
-  key: 057-give-thanks-in-all-things
+- item: 33
+  key: 032-give-thanks-in-all-things
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: give-thanks-in-all-things
   speaker: Dallin H. Oaks
   title: Give Thanks in All Things
   url: https://www.lds.org/general-conference/2003/04/give-thanks-in-all-things?lang=eng
   year: 2003
-- article_id: PD10030371_000_036
-  item: 059
-  key: 059-benediction
+- item: 34
+  key: 033-benediction
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: benediction
   speaker: Gordon B. Hinckley
   title: Benediction
   url: https://www.lds.org/general-conference/2003/04/benediction?lang=eng
   year: 2003
-- article_id: PD10030371_000_037
-  item: '062'
-  key: 062-steadfast-in-our-covenants
+- item: 35
+  key: 034-the-light-of-his-love
   month: 4
-  session_id: young-women
-  session_title: General Young Women Meeting
-  slug: steadfast-in-our-covenants
-  speaker: Susan W. Tanner
-  title: Steadfast in Our Covenants
-  url: https://www.lds.org/general-conference/2003/04/steadfast-in-our-covenants?lang=eng
-  year: 2003
-- article_id: PD10030371_000_038
-  item: '064'
-  key: 064-there-is-hope-smiling-brightly-before-us
-  month: 4
-  session_id: young-women
-  session_title: General Young Women Meeting
-  slug: there-is-hope-smiling-brightly-before-us
-  speaker: Julie B. Beck
-  title: There Is Hope Smiling Brightly before Us
-  url: https://www.lds.org/general-conference/2003/04/there-is-hope-smiling-brightly-before-us?lang=eng
-  year: 2003
-- article_id: PD10030371_000_039
-  item: '065'
-  key: 065-press-forward-and-be-steadfast
-  month: 4
-  session_id: young-women
-  session_title: General Young Women Meeting
-  slug: press-forward-and-be-steadfast
-  speaker: Elaine S. Dalton
-  title: Press Forward and Be Steadfast
-  url: https://www.lds.org/general-conference/2003/04/press-forward-and-be-steadfast?lang=eng
-  year: 2003
-- article_id: PD10030371_000_040
-  item: '067'
-  key: 067-the-virtues-of-righteous-daughters-of-god
-  month: 4
-  session_id: young-women
-  session_title: General Young Women Meeting
-  slug: the-virtues-of-righteous-daughters-of-god
-  speaker: James E. Faust
-  title: The Virtues of Righteous Daughters of God
-  url: https://www.lds.org/general-conference/2003/04/the-virtues-of-righteous-daughters-of-god?lang=eng
-  year: 2003
-- article_id: PD10030371_000_041
-  item: '071'
-  key: 071-the-light-of-his-love
-  month: 4
-  session_id: special-satellite-broadcast-for-children
   session_title: Special Satellite Broadcast for Children
   slug: the-light-of-his-love
   speaker: Gayle M. Clegg
   title: The Light of His Love
   url: https://www.lds.org/general-conference/2003/04/the-light-of-his-love?lang=eng
   year: 2003
-- article_id: PD10030371_000_042
-  item: '072'
-  key: 072-i-can-pray-to-heavenly-father-anytime-anywhere
+- item: 36
+  key: 035-i-can-pray-to-heavenly-father-anytime-anywhere
   month: 4
-  session_id: special-satellite-broadcast-for-children
   session_title: Special Satellite Broadcast for Children
   slug: i-can-pray-to-heavenly-father-anytime-anywhere
   speaker: Sydney S. Reynolds
   title: I Can Pray to Heavenly Father Anytime, Anywhere
   url: https://www.lds.org/general-conference/2003/04/i-can-pray-to-heavenly-father-anytime-anywhere?lang=eng
   year: 2003
-- article_id: PD10030371_000_043
-  item: '074'
-  key: 074-show-you-know
+- item: 37
+  key: 036-show-you-know
   month: 4
-  session_id: special-satellite-broadcast-for-children
   session_title: Special Satellite Broadcast for Children
   slug: show-you-know
   speaker: Coleen K. Menlove
   title: Show You Know
   url: https://www.lds.org/general-conference/2003/04/show-you-know?lang=eng
   year: 2003
-- article_id: PD10030371_000_044
-  item: '076'
-  key: 076-you-are-a-child-of-god
+- item: 38
+  key: 037-you-are-a-child-of-god
   month: 4
-  session_id: special-satellite-broadcast-for-children
   session_title: Special Satellite Broadcast for Children
   slug: you-are-a-child-of-god
   speaker: Gordon B. Hinckley
   title: You Are a Child of God
   url: https://www.lds.org/general-conference/2003/04/you-are-a-child-of-god?lang=eng
+  year: 2003
+- item: 39
+  key: 038-steadfast-in-our-covenants
+  month: 4
+  session_title: General Young Women Meeting
+  slug: steadfast-in-our-covenants
+  speaker: Susan W. Tanner
+  title: Steadfast in Our Covenants
+  url: https://www.lds.org/general-conference/2003/04/steadfast-in-our-covenants?lang=eng
+  year: 2003
+- item: 40
+  key: 039-there-is-hope-smiling-brightly-before-us
+  month: 4
+  session_title: General Young Women Meeting
+  slug: there-is-hope-smiling-brightly-before-us
+  speaker: Julie B. Beck
+  title: There Is Hope Smiling Brightly before Us
+  url: https://www.lds.org/general-conference/2003/04/there-is-hope-smiling-brightly-before-us?lang=eng
+  year: 2003
+- item: 41
+  key: 040-press-forward-and-be-steadfast
+  month: 4
+  session_title: General Young Women Meeting
+  slug: press-forward-and-be-steadfast
+  speaker: Elaine S. Dalton
+  title: Press Forward and Be Steadfast
+  url: https://www.lds.org/general-conference/2003/04/press-forward-and-be-steadfast?lang=eng
+  year: 2003
+- item: 42
+  key: 041-the-virtues-of-righteous-daughters-of-god
+  month: 4
+  session_title: General Young Women Meeting
+  slug: the-virtues-of-righteous-daughters-of-god
+  speaker: James E. Faust
+  title: The Virtues of Righteous Daughters of God
+  url: https://www.lds.org/general-conference/2003/04/the-virtues-of-righteous-daughters-of-god?lang=eng
   year: 2003
 month: 4
 year: 2003

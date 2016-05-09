@@ -144,8 +144,8 @@ assistance from his Heavenly Father. The message finally came:
 be but a small moment;
 
 "And then, if thou endure it well, God shall exalt thee on high; thou shalt
-triumph over all thy foes" ([D&amp;C 121:7-8](https://www.lds.org/scriptures
-/dc-testament/dc/121.7-8?lang=eng#6)).
+triumph over all thy foes" ([D&amp;C 121:7-8](/scriptures/dc-
+testament/dc/121.7-8?lang=eng#6)).
 
 It can be declared accurately and without hesitation that Joseph Smith's noble
 character and stature were shaped and achieved by constant victories over his
@@ -157,8 +157,7 @@ circumstances:
 suffered;
 
 "And being made perfect, he became the author of eternal salvation unto all
-them that obey him" ([Heb.
-5:8-9](https://www.lds.org/scriptures/nt/heb/5.8-9?lang=eng#7)).
+them that obey him" ([Heb. 5:8-9](/scriptures/nt/heb/5.8-9?lang=eng#7)).
 
 Difficulties can be a valuable tool in our pursuit for perfection. Adversity
 need have no necessary connection with failure. Proper self-management and
@@ -178,9 +177,9 @@ forces of darkness and trial. His taxing trials of all of the yesterdays have
 been properly met and have assisted in making him what he is today. Like Caleb
 of old, he too can be heard to say, "As yet I am ... strong. ... Now therefore
 give me this mountain" ([Josh. 14:11,
-12](https://www.lds.org/scriptures/ot/josh/14.11%2C12?lang=eng#10)). More
-mountains, even those high in adversity, can better prepare us for tomorrow if
-we are but willing to climb.
+12](/scriptures/ot/josh/14.11,12?lang=eng#10)). More mountains, even those
+high in adversity, can better prepare us for tomorrow if we are but willing to
+climb.
 
 Jesus Christ, the Master, shares his life of trials and victories with us for
 our motivation and direction. God strengthened His Son. He, too, will support
@@ -229,7 +228,7 @@ God seems to have sustaining love for those like Jerry who are coping
 courageously with adversity. In many cases it seems they have a special
 relationship with Him. "Behold, I have refined thee. ... I have chosen thee in
 the furnace of affliction" ([Isa.
-48:10](https://www.lds.org/scriptures/ot/isa/48.10?lang=eng#9)).
+48:10](/scriptures/ot/isa/48.10?lang=eng#9)).
 
 Individually, we should thank God for the examples of those about us who
 battle and conquer daily challenges that are intense, real, and continuing.
@@ -241,4 +240,6 @@ Satan wants us to feel unequal to our worldly tasks. If we turn to God, He
 will take us by the hand and lead us through our darkest hours. To these
 truths I bear my testimony and leave my special witness in the name of Jesus
 Christ, our Redeemer, amen.
+
+## References
 

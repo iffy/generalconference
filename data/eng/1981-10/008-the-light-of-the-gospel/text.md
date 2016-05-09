@@ -40,7 +40,7 @@ after the trial of your faith. ...
 
 "For if there be no faith among the children of men God can do no miracle
 among them; wherefore, he showed not himself until after their faith." ([Ether
-12:6, 12](https://www.lds.org/scriptures/bofm/ether/12.6%2C12?lang=eng#5).)
+12:6, 12](/scriptures/bofm/ether/12.6,12?lang=eng#5).)
 
 Yes, the Lord blessed us, even as our faith was tested and as we prayed with
 hope.
@@ -65,14 +65,13 @@ Today, this young man serves as the elders quorum president of his ward.
 What great force changed the life of this young man from one of spiritual
 darkness to one of truth and light? It was the pure love of Christ, which the
 bishop portrayed as he worked with him. And this pure love of Christ is
-charity. (See [Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).)
+charity. (See [Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).)
 
 The prophet Nephi said: "Wherefore, the Lord God hath given a commandment that
 all men should have charity, which charity is love. And except they should
 have charity they were nothing. Wherefore, if they should have charity they
 would not suffer the laborer in Zion to perish." ([2 Ne.
-26:30](https://www.lds.org/scriptures/bofm/2-ne/26.30?lang=eng#29).)
+26:30](/scriptures/bofm/2-ne/26.30?lang=eng#29).)
 
 We must also remember the faith and courage of this young man's family as they
 endured many trials and heartaches and then greeted him with open arms at the
@@ -89,7 +88,7 @@ who were before Christ and also those who were after. ...
 
 "And neither at any time hath any wrought miracles until after their faith;
 wherefore they first believed in the Son of God." ([Ether 12:14-16,
-18](https://www.lds.org/scriptures/bofm/ether/12.14-16%2C18?lang=eng#13).)
+18](/scriptures/bofm/ether/12.14-16,18?lang=eng#13).)
 
 The prophet Mormon also preached that "it is by faith that miracles are
 wrought. ...
@@ -105,8 +104,7 @@ shall be meek, and lowly of heart.
 
 "... and if a man be meek and lowly in heart, and confesses by the power of the
 Holy Ghost that Jesus is the Christ, he must needs have charity." ([Moro.
-7:37-38,
-42-44](https://www.lds.org/scriptures/bofm/moro/7.37-38%2C42-44?lang=eng#36).)
+7:37-38, 42-44](/scriptures/bofm/moro/7.37-38,42-44?lang=eng#36).)
 
 We are reminded today of the importance of charity through the Apostle Paul's
 epistle to the Corinthians:
@@ -133,7 +131,7 @@ thinketh no evil;
 things.
 
 "Charity never faileth." ([1 Cor.
-13:1-8](https://www.lds.org/scriptures/nt/1-cor/13.1-8?lang=eng#0).)
+13:1-8](/scriptures/nt/1-cor/13.1-8?lang=eng#0).)
 
 In the Church we have many opportunities to perform charitable acts. Some of
 the greatest acts of charity begin with an outstretched hand of friendship.
@@ -160,7 +158,7 @@ of all, for all things must fail--
 
 "But charity is the pure love of Christ, and it endureth forever; and whoso is
 found possessed of it at the last day, it shall be well with him." ([Moro.
-7:46-47](https://www.lds.org/scriptures/bofm/moro/7.46-47?lang=eng#45).)
+7:46-47](/scriptures/bofm/moro/7.46-47?lang=eng#45).)
 
 As we faithfully render our stewardships in the Church, as we remember that
 our actions speak the feelings of our hearts, and as we extend our love to our
@@ -204,4 +202,6 @@ My dear brothers and sisters, I bear humble testimony that I know that Jesus
 is the Christ, the Savior of the world, and if we heed his beckoning to come
 unto him, surely we will be blessed with all the blessings he has in store for
 the faithful and the righteous. In the name of Jesus Christ, amen.
+
+## References
 

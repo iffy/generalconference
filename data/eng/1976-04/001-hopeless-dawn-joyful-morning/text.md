@@ -53,8 +53,8 @@ of a great mistake."
 In reality, every thoughtful person has asked himself the universal question,
 best phrased by the venerable, perfect, and upright man named Job, who,
 centuries ago, asked: "If a man die, shall he live again?" ([Job
-14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13).) Through
-inspiration from on high, Job answered his own question:
+14:14](/scriptures/ot/job/14.14?lang=eng#13).) Through inspiration from on
+high, Job answered his own question:
 
 "Oh that my words were now written! oh that they were printed in a book!
 
@@ -64,12 +64,11 @@ inspiration from on high, Job answered his own question:
 upon the earth. ...
 
 "In my flesh shall I see God." ([Job
-19:23-26](https://www.lds.org/scriptures/ot/job/19.23-26?lang=eng#22).)
+19:23-26](/scriptures/ot/job/19.23-26?lang=eng#22).)
 
 Few statements in scripture reveal so clearly a divine truth as does Paul's
 epistle to the Corinthians: "For as in Adam all die, even so in Christ shall
-all be made alive." ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21).)
+all be made alive." ([1 Cor. 15:22](/scriptures/nt/1-cor/15.22?lang=eng#21).)
 
 Frequently, death comes as an intruder. It is an enemy that suddenly appears
 in the midst of life's feast, putting out its lights and gaiety. It visits the
@@ -115,35 +114,33 @@ am the resurrection, and the life," spoke the Master. "He that believeth in
 me, though he were dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 This reassurance, yes, even holy confirmation of life beyond the grave, could
 well be the peace promised by the Savior when he assured his disciples:
 
 "Peace I leave with you, my peace I give unto you: not as the world giveth,
 give I unto you. Let not your heart be troubled, neither let it be afraid."
-([John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 "In my Father's house are many mansions: if it were not so, I would have told
 you. I go to prepare a place for you ...
 
 "That where I am, there ye may be also." ([John
-14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1).)
+14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1).)
 
 Out of the darkness and horror of Calvary came the voice of the Lamb, saying,
 "Father, into thy hands I commend my spirit." ([Luke
-23:46](https://www.lds.org/scriptures/nt/luke/23.46?lang=eng#45).) And the
-dark was no longer dark, for he was with his Father. He had come from God and
-to God he had returned. So also those who walk with God in this earthly
-pilgrimage know from blessed experience that he will not abandon his children
-who trust in him. In the night of death his presence will be "better than a
-light and safer than a known way." (From "God Knows," by Minnie Louise
-Haskins.)
+23:46](/scriptures/nt/luke/23.46?lang=eng#45).) And the dark was no longer
+dark, for he was with his Father. He had come from God and to God he had
+returned. So also those who walk with God in this earthly pilgrimage know from
+blessed experience that he will not abandon his children who trust in him. In
+the night of death his presence will be "better than a light and safer than a
+known way." (From "God Knows," by Minnie Louise Haskins.)
 
 The reality of the resurrection was voiced by the martyr Stephen as he looked
 upward and cried, "I see the heavens opened, and the Son of man standing on
-the right hand of God." ([Acts
-7:56](https://www.lds.org/scriptures/nt/acts/7.56?lang=eng#55).)
+the right hand of God." ([Acts 7:56](/scriptures/nt/acts/7.56?lang=eng#55).)
 
 Saul, on the road to Damascus, had a vision of the risen, exalted Christ.
 Later, as Paul, defender of truth and fearless missionary in the service of
@@ -162,7 +159,7 @@ Corinth:
 "He was seen of James; then of all the apostles.
 
 "And last of all he was seen of me." ([1 Cor.
-15:3-8](https://www.lds.org/scriptures/nt/1-cor/15.3-8?lang=eng#2).)
+15:3-8](/scriptures/nt/1-cor/15.3-8?lang=eng#2).)
 
 In our dispensation, this same testimony was spoken boldly by the Prophet
 Joseph Smith, as he and Sidney Rigdon testified:
@@ -175,8 +172,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 This is the knowledge that sustains. This is the truth that comforts. This is
 the assurance that guides those bowed down with grief out of the shadows and
@@ -195,7 +191,7 @@ mother. "I'm not crying," she said, "and neither must you. Many times my mommy
 told me about death and life with Heavenly Father. I belong to my mommy and my
 daddy. We'll all be together again." To my mind came the words of the
 Psalmist: "Out of the mouth of babes ... hast thou ordained strength." ([Ps.
-8:2](https://www.lds.org/scriptures/ot/ps/8.2?lang=eng#1).)
+8:2](/scriptures/ot/ps/8.2?lang=eng#1).)
 
 Through tear-moistened eyes, I saw my young friend's beautiful and faith-
 filled smile. For her, whose tiny hand yet clasped mine, there would never be
@@ -203,11 +199,13 @@ a hopeless dawn. Sustained by her unfailing testimony, knowing that life
 continues beyond the grave, she, her father, her brothers, her sisters, and
 indeed all who share this knowledge of divine truth can declare to the world:
 "Weeping may endure for a night, but joy cometh in the morning." ([Ps.
-30:5](https://www.lds.org/scriptures/ot/ps/30.5?lang=eng#4).)
+30:5](/scriptures/ot/ps/30.5?lang=eng#4).)
 
 With all the strength of my soul, I testify that God lives, that his Beloved
 Son is the firstfruits of the resurrection, that the gospel of Jesus Christ is
 that penetrating light that makes of every hopeless dawn a joyful morning.
 
 In the name of Jesus Christ. Amen.
+
+## References
 

@@ -272,3 +272,5 @@ of the Prophet Joseph Smith and of every other man who has succeeded in that
 prophetic calling. I testify of the truth and vitality of this church, in the
 name of Him whose name it bears and whose work it is, even Jesus Christ, amen.
 
+## References
+

@@ -76,7 +76,7 @@ There are so many of us who go through life and seldom, if ever, hear that
 voice of inspiration, because "the natural man receiveth not the things of the
 Spirit of God: for they are foolishness unto him: neither can he know them,
 because they are spiritually discerned" ([1 Cor.
-2:14](https://www.lds.org/scriptures/nt/1-cor/2.14?lang=eng#13)).
+2:14](/scriptures/nt/1-cor/2.14?lang=eng#13)).
 
 The scriptures have many lessons on this subject.
 
@@ -85,7 +85,7 @@ Lehi told his sons of a vision, but Laman and Lemuel resisted his teachings:
 "For he truly spake many great things unto them, which were hard to be
 understood, save a man should inquire of the Lord; and they being hard in
 their hearts, therefore they did not look unto the Lord as they ought" ([1 Ne.
-15:3](https://www.lds.org/scriptures/bofm/1-ne/15.3?lang=eng#2)).
+15:3](/scriptures/bofm/1-ne/15.3?lang=eng#2)).
 
 They complained to their younger brother, Nephi, that they could not
 understand their father, and Nephi asked this question:
@@ -93,8 +93,7 @@ understand their father, and Nephi asked this question:
 "Have ye inquired of the Lord?
 
 "And they said unto [him]: We have not; for the Lord maketh no such thing
-known unto us" ([1 Ne.
-15:8-9](https://www.lds.org/scriptures/bofm/1-ne/15.8-9?lang=eng#7)).
+known unto us" ([1 Ne. 15:8-9](/scriptures/bofm/1-ne/15.8-9?lang=eng#7)).
 
 Later they intended to do Nephi harm and he said to them:
 
@@ -102,8 +101,7 @@ Later they intended to do Nephi harm and he said to them:
 seen an angel, and he spake unto you; yea, ye have heard his voice from time
 to time; and he hath spoken unto you in a still small voice, but ye were past
 _feeling,_ that ye could not _feel_ his words" ([1 Ne.
-17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44); italics
-added).
+17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44); italics added).
 
 I have come to know that inspiration comes more as a feeling than as a sound.
 
@@ -173,7 +171,7 @@ chapter 7. I quote only one verse:
 "For behold, my brethren, it is given unto you to judge, that ye may know good
 from evil; and the way to judge is as plain, that ye may know with a perfect
 knowledge, as the daylight is from the dark night" ([Moro.
-7:15](https://www.lds.org/scriptures/bofm/moro/7.15?lang=eng#14)).
+7:15](/scriptures/bofm/moro/7.15?lang=eng#14)).
 
 You read the whole chapter. It tells of a way to judge such things.
 
@@ -223,8 +221,7 @@ Ponder and pray quietly and persistently about them.
 
 The answer may not come as a lightning bolt. It may come as a little
 inspiration here and a little there, "line upon line, precept upon precept"
-([D&amp;C 98:12](https://www.lds.org/scriptures/dc-
-testament/dc/98.12?lang=eng#11)).
+([D&amp;C 98:12](/scriptures/dc-testament/dc/98.12?lang=eng#11)).
 
 Some answers will come from reading the scriptures, some from hearing
 speakers. And, occasionally, when it is important, some will come by very
@@ -242,7 +239,7 @@ to call members to high positions in the stakes, we can ask a question in
 prayer and receive an immediate, direct revelation in return.
 
 No message is repeated more times in scripture than the simple thought: "Ask,
-and ye shall receive" ([D&amp;C 4:7](https://www.lds.org/scriptures/dc-
+and ye shall receive" ([D&amp;C 4:7](/scriptures/dc-
 testament/dc/4.7?lang=eng#6)).
 
 I often ask the Lord for direction from Him. I will not, however, willingly
@@ -303,4 +300,6 @@ lives. I know His voice when He speaks.
 I know that Jesus is the Christ, that He directs this Church, that He is close
 to it, that He directs His Prophets and His leaders and His people and His
 children, in the name of Jesus Christ, amen.
+
+## References
 

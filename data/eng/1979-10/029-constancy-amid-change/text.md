@@ -40,8 +40,7 @@ you believe is the most important element of success?"
 
 I told him that the Lord gave the greatest success formula that I know of:
 "Seek ye first the kingdom of God, and his righteousness; and all these things
-shall be added unto you" ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32)).
+shall be added unto you" ([Matt. 6:33](/scriptures/nt/matt/6.33?lang=eng#32)).
 
 Some argue that some men prosper financially who do _not_ seek the kingdom
 first. This is true. But the Lord is not promising us just material wealth if
@@ -112,8 +111,7 @@ this matter:
 seek them;_ and ye will seek them for the intent to do good--to clothe the
 naked, and to feed the hungry, and to liberate the captive, and administer
 relief to the sick and the afflicted" ([Jacob
-2:18-19](https://www.lds.org/scriptures/bofm/jacob/2.18-19?lang=eng#17);
-italics added).
+2:18-19](/scriptures/bofm/jacob/2.18-19?lang=eng#17); italics added).
 
 The foundation and perspective then are these: We must first seek the kingdom,
 work and plan and spend wisely, plan for the future, and use what wealth we
@@ -302,4 +300,6 @@ management.
 I hope that each of us may benefit from their application. I bear my witness
 that they are true and that this Church and the work we are engaged in are
 true. In the name of Jesus Christ, amen.
+
+## References
 

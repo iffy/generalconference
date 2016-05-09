@@ -109,17 +109,16 @@ conditions of repentance.
 
 "And if it so be that you should labor all your days in crying repentance unto
 this people, and bring, save it be one soul unto me, how great shall be your
-joy with him in the kingdom of my Father!" ([D&amp;C 18:10-13,
-15](https://www.lds.org/scriptures/dc-testament/dc/18.10-13%2C15?lang=eng#9)).
+joy with him in the kingdom of my Father!" ([D&amp;C 18:10-13, 15](/scriptures
+/dc-testament/dc/18.10-13,15?lang=eng#9)).
 
 The light of the Lord is real, my brethren. He will lead every soul out of the
 clouds of darkness and away from the fog of doubt and uncertainty with a
 perfect eternal signal that will guarantee safety, peace, and confidence. He
 said to all the world, "Come, ... follow me" ([Mark
-10:21](https://www.lds.org/scriptures/nt/mark/10.21?lang=eng#20)), and "I am
-the light of the world: he that followeth me shall not walk in darkness, but
-shall have the light of life" ([John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11)).
+10:21](/scriptures/nt/mark/10.21?lang=eng#20)), and "I am the light of the
+world: he that followeth me shall not walk in darkness, but shall have the
+light of life" ([John 8:12](/scriptures/nt/john/8.12?lang=eng#11)).
 
 Life's flight pattern can be changed. The instruments we use in saving souls
 are love and sharing our testimonies of the divine mission of our Savior and
@@ -131,4 +130,6 @@ Nothing is more important to the Lord than saving souls.
 
 God bless us to keep this commitment, my brethren, to bring into full
 fellowship one precious son of God, I pray, in the name of Jesus Christ, amen.
+
+## References
 

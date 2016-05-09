@@ -9,16 +9,16 @@ As the tribes of ancient Israel prepared to cross over Jordan to enter the
 land of Canaan, Moses gave them his final counsel and instructions. They were
 about to enter a land that Joshua and Caleb had described as "a land which
 floweth with milk and honey." ([Num.
-14:8](https://www.lds.org/scriptures/ot/num/14.8?lang=eng#7).) It would be a
-dramatic change in the circumstances of Israel. For a full generation they had
-known only the desolation of the desert places, depending upon the Lord for
-their daily subsistence.
+14:8](/scriptures/ot/num/14.8?lang=eng#7).) It would be a dramatic change in
+the circumstances of Israel. For a full generation they had known only the
+desolation of the desert places, depending upon the Lord for their daily
+subsistence.
 
 Moses felt some concern for the capacity of his people to cope with the abrupt
 transition they were about to experience. "Hear, O Israel," he said. "Thou art
 to pass over Jordan this day, to go in to possess nations greater and mightier
 than thyself, cities great and fenced up to heaven." ([Deut.
-9:1](https://www.lds.org/scriptures/ot/deut/9.1?lang=eng#0).)
+9:1](/scriptures/ot/deut/9.1?lang=eng#0).)
 
 "And it shall be, when the Lord thy God shall have brought thee into the land
 which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give
@@ -30,7 +30,7 @@ plantedst not; when thou shalt have eaten and be full;
 
 "Then beware lest thou forget the Lord, which brought thee forth out of the
 land of Egypt, from the house of bondage." ([Deut.
-6:10-12](https://www.lds.org/scriptures/ot/deut/6.10-12?lang=eng#9).)
+6:10-12](/scriptures/ot/deut/6.10-12?lang=eng#9).)
 
 The concerns expressed by Moses for his people have been repeated by other
 prophet leaders through all of the gospel dispensations. It has seemed that
@@ -47,8 +47,7 @@ behold it is my footstool, wherefore, again I will stand upon it.
 
 "And I hold forth and deign to give unto you greater riches, even a land of
 promise, a land flowing with milk and honey, upon which there shall be no
-curse when the Lord cometh." ([D&amp;C
-38:17-18](https://www.lds.org/scriptures/dc-
+curse when the Lord cometh." ([D&amp;C 38:17-18](/scriptures/dc-
 testament/dc/38.17-18?lang=eng#16).)
 
 Historically, the abundance with which the Lord has blessed his people has
@@ -88,7 +87,7 @@ brought thee forth out of the land of Egypt, from the house of bondage. ...
 
 "And thou say in thine heart, My power and the might of mine hand hath gotten
 me this wealth." ([Deut. 8:7-14,
-17](https://www.lds.org/scriptures/ot/deut/8.7-14%2C17?lang=eng#6).)
+17](/scriptures/ot/deut/8.7-14,17?lang=eng#6).)
 
 Not long after the early Latter-day Saints had entered the Salt Lake Valley,
 and as they struggled in their poverty to establish homes and to survive in a
@@ -129,7 +128,7 @@ substance, that they may be rich like unto you.
 seek them; and ye will seek them for the intent to do good--to clothe the
 naked, and to feed the hungry, and to liberate the captive, and administer
 relief to the sick and the afflicted." ([Jacob
-2:17-19](https://www.lds.org/scriptures/bofm/jacob/2.17-19?lang=eng#16).)
+2:17-19](/scriptures/bofm/jacob/2.17-19?lang=eng#16).)
 
 The coveting of wealth so often has resulted in avarice, dishonesty, and
 greed. The acquisition of wealth has frequently produced pride, self-
@@ -156,7 +155,7 @@ remembrance of their duty.
 
 "And they began to establish the church more fully; yea, and many were
 baptized in the waters of Sidon and were joined to the church of God." ([Alma
-4:2-4](https://www.lds.org/scriptures/bofm/alma/4.2-4?lang=eng#1).)
+4:2-4](/scriptures/bofm/alma/4.2-4?lang=eng#1).)
 
 This spiritual reawakening among the people had a dramatic effect. Peace
 returned to the land. The Church prospered in its rapid growth. Not
@@ -170,8 +169,7 @@ proud, because of their exceeding riches, and their fine silks, and their
 fine-twined linen, and because of their many flocks and herds, and their gold
 and their silver, and all manner of precious things, which they had obtained
 by their industry; and in all these things were they lifted up in the pride of
-their eyes." ([Alma
-4:6](https://www.lds.org/scriptures/bofm/alma/4.6?lang=eng#5).)
+their eyes." ([Alma 4:6](/scriptures/bofm/alma/4.6?lang=eng#5).)
 
 History repeatedly confirms that the abundance of earthly possessions can be
 both a blessing and a curse, depending upon the way these things are viewed
@@ -184,25 +182,16 @@ the challenges related to an improvement in material prosperity remain the
 same. The message that echoes to us from the pages of history and from the
 counsels of the Lord and his prophets is clear:
 
-  * Seek ye first the kingdom of heaven.
-
-  * Seek not for riches to consume them on your own lusts.
-
-  * Thou shalt not covet.
-
-  * Clothe the naked.
-
-  * Feed the hungry.
-
-  * Relieve the sick and the afflicted.
-
-  * Pay tithes and offerings.
-
-  * In all things acknowledge the Lord.
-
-  * Be grateful.
-
-  * Be humble.
+  * Seek ye first the kingdom of heaven. 
+  * Seek not for riches to consume them on your own lusts. 
+  * Thou shalt not covet. 
+  * Clothe the naked. 
+  * Feed the hungry. 
+  * Relieve the sick and the afflicted. 
+  * Pay tithes and offerings. 
+  * In all things acknowledge the Lord. 
+  * Be grateful. 
+  * Be humble. 
 
 The words of Moses to the tribes of Israel have appropriate application for
 us:
@@ -214,10 +203,12 @@ may be prolonged.
 "Hear therefore, O Israel, and observe to do it; that it may be well with
 thee, and that ye may increase mightily, as the Lord God of thy fathers hath
 promised thee, in the land that floweth with milk and honey." ([Deut.
-6:2-3](https://www.lds.org/scriptures/ot/deut/6.2-3?lang=eng#1).)
+6:2-3](/scriptures/ot/deut/6.2-3?lang=eng#1).)
 
 And "when thou hast eaten and art full, then thou shalt bless the Lord thy God
 for the good ... which he hath given thee." ([Deut.
-8:10](https://www.lds.org/scriptures/ot/deut/8.10?lang=eng#9).) In the name of
-Jesus Christ, amen.
+8:10](/scriptures/ot/deut/8.10?lang=eng#9).) In the name of Jesus Christ,
+amen.
+
+## References
 

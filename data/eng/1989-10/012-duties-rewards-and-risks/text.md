@@ -13,10 +13,10 @@ first of the year.
 Our sorrow at the loss of any faithful missionary can be tempered by this
 declaration from the Lord himself: "And whoso layeth down his life in my
 cause, for my name's sake, shall find it again, even life eternal." ([D&amp;C
-98:13](https://www.lds.org/scriptures/dc-testament/dc/98.13?lang=eng#12).) To
-all parents, family members, and friends of missionaries who have lost their
-lives while in the service of the Master, we extend to you our love,
-gratitude, and prayers for comfort and peace.
+98:13](/scriptures/dc-testament/dc/98.13?lang=eng#12).) To all parents, family
+members, and friends of missionaries who have lost their lives while in the
+service of the Master, we extend to you our love, gratitude, and prayers for
+comfort and peace.
 
 With the permission of President Steven B. Wright of the Bolivia La Paz
 Mission, I share this special experience that came to him in a dream: "I saw
@@ -34,7 +34,7 @@ consistent with the heavenly vision given to President Joseph F. Smith more
 than seven decades ago. He declared, "I beheld that the faithful elders of
 this dispensation, when they depart from mortal life, continue their labors in
 the preaching of the gospel ... in the great world of the spirits." ([D&amp;C
-138:57](https://www.lds.org/scriptures/dc-testament/dc/138.57?lang=eng#56).)
+138:57](/scriptures/dc-testament/dc/138.57?lang=eng#56).)
 
 Trials and tribulations have confronted the Church ever since the beginning.
 The Prophet Joseph Smith said: "Hell may pour forth its rage like the burning
@@ -54,7 +54,7 @@ been instrumental in bringing tens of thousands of people to a knowledge of
 the restoration of the gospel of Jesus Christ. These new members have
 experienced a mighty change in their hearts and have "humbled themselves and
 put their trust in the true and living God." ([Alma
-5:13](https://www.lds.org/scriptures/bofm/alma/5.13?lang=eng#12).)
+5:13](/scriptures/bofm/alma/5.13?lang=eng#12).)
 
 Our missionaries have not participated in this great work without serious
 challenges, tribulations, and difficulties. Parents of missionaries have
@@ -119,27 +119,26 @@ paramount concern. At the same time, however, the Church cannot retreat from
 areas of the world that are in turmoil unless absolutely necessary. Brothers
 and sisters, the charge from the Lord to "go ye therefore, and teach all
 nations" is a difficult one to fulfill. ([Matt.
-28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18).)
+28:19](/scriptures/nt/matt/28.19?lang=eng#18).)
 
 The battle to bring souls unto Christ began in the premortal world with the
-war in heaven. (See [Rev.
-12:7](https://www.lds.org/scriptures/nt/rev/12.7?lang=eng#6).) That same
-battle continues today in the conflict between right and wrong and between the
-gospel and false principles. The members of the Church hold a frontline
-position in the contest for the souls of men. The missionaries are on the
-battlefield fighting with the sword of truth to carry the glorious message of
-the restoration of the gospel of Jesus Christ to the peoples of the earth. No
-war has ever been free of risk. The prophecies of the last days lead me to
-believe that the intensity of the battle for the souls of men will increase
-and the risks will become greater as we draw closer to the second coming of
-the Lord.
+war in heaven. (See [Rev. 12:7](/scriptures/nt/rev/12.7?lang=eng#6).) That
+same battle continues today in the conflict between right and wrong and
+between the gospel and false principles. The members of the Church hold a
+frontline position in the contest for the souls of men. The missionaries are
+on the battlefield fighting with the sword of truth to carry the glorious
+message of the restoration of the gospel of Jesus Christ to the peoples of the
+earth. No war has ever been free of risk. The prophecies of the last days lead
+me to believe that the intensity of the battle for the souls of men will
+increase and the risks will become greater as we draw closer to the second
+coming of the Lord.
 
 Preparing ourselves and our families for the challenges of the coming years
 will require us to replace fear with faith. We must be able to overcome the
 fear of enemies who oppose and threaten us. The Lord has said, "Fear not,
 little flock; do good; let earth and hell combine against you, for if ye are
-built upon my rock, they cannot prevail." ([D&amp;C
-6:34](https://www.lds.org/scriptures/dc-testament/dc/6.34?lang=eng#33).)
+built upon my rock, they cannot prevail." ([D&amp;C 6:34](/scriptures/dc-
+testament/dc/6.34?lang=eng#33).)
 
 When I visited the missionaries in Bolivia, Peru, and Ecuador immediately
 after the tragedy, I was extremely impressed with the deep love our
@@ -152,7 +151,7 @@ concerns. They love and care deeply about the people they are serving, and
 generally they want to continue in the service of the Lord. These dedicated
 missionaries illustrate so powerfully for the rest of us that "there is no
 fear in love; but perfect love casteth out fear." ([1 Jn.
-4:18](https://www.lds.org/scriptures/nt/1-jn/4.18?lang=eng#17).)
+4:18](/scriptures/nt/1-jn/4.18?lang=eng#17).)
 
 In many ways, brothers and sisters, the past sixty years in the Church have
 been relatively calm, compared to the beginnings of the Restoration.
@@ -204,9 +203,8 @@ The work of sharing the gospel of Jesus Christ in all the world will require
 knowledge, faith, sacrifice, and the best efforts of every member of the
 Church. As the Prophet Joseph Smith said to the Saints in Nauvoo in 1842,
 "Shall we not go on in so great a cause? Courage, ... and on, on to the
-victory!" ([D&amp;C 128:22](https://www.lds.org/scriptures/dc-
-testament/dc/128.22?lang=eng#21).) Today the leaders of the Church echo these
-words of the Prophet Joseph.
+victory!" ([D&amp;C 128:22](/scriptures/dc-testament/dc/128.22?lang=eng#21).)
+Today the leaders of the Church echo these words of the Prophet Joseph.
 
 Brothers and sisters, the missionaries need our faith and prayers. Pray
 fervently every day for their safety and protection, for this is one very
@@ -216,4 +214,6 @@ Jesus Christ is the Son of God. We are engaged in his work. I testify that
 through the faith and prayers of all members of the Church, we will continue
 moving this great work forward to the final victory. In the name of Jesus
 Christ, amen.
+
+## References
 

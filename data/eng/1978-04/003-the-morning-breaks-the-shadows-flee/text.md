@@ -49,16 +49,16 @@ known light, when light and truth no longer shone forth from heaven, and when
 those on earth no longer were taught and directed by apostles and prophets,
 then spiritual darkness reigned. Darkness covered the earth and gross darkness
 the minds of the people. (See [Isa.
-60:2](https://www.lds.org/scriptures/ot/isa/60.2?lang=eng#1).) The dark ages
-had their beginning, and the light of heaven no longer dwelt in the hearts of
-those who professed to worship Him whose we are.
+60:2](/scriptures/ot/isa/60.2?lang=eng#1).) The dark ages had their beginning,
+and the light of heaven no longer dwelt in the hearts of those who professed
+to worship Him whose we are.
 
 The vision of all became as the words of a book that is sealed. (See [Isa.
-29:11](https://www.lds.org/scriptures/ot/isa/29.11?lang=eng#10).) The prophets
-and seers were silenced; the holy scriptures were no longer made available to
-the masses of men; none could see the way to perfection; none knew the way
-back to the Eternal Presence. Earth's pilgrims, walking in and by forbidden
-paths, were lost in the blackness of the night.
+29:11](/scriptures/ot/isa/29.11?lang=eng#10).) The prophets and seers were
+silenced; the holy scriptures were no longer made available to the masses of
+men; none could see the way to perfection; none knew the way back to the
+Eternal Presence. Earth's pilgrims, walking in and by forbidden paths, were
+lost in the blackness of the night.
 
 True, the heaven still teemed with stars, an uncounted host of them, for there
 were many wise and good people who reflected forth to others such light and
@@ -136,7 +136,7 @@ were an abomination in the sight of heaven; and said that the professors of
 religion were all corrupt, that they drew near to the Lord with their lips,
 but their hearts were far from him, that they taught for commandments the
 doctrines of men, having a form of godliness, but denying the power thereof.
-([JS--H 1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18).)
+([JS--H 1:19](/scriptures/pgp/js-h/1.19?lang=eng#18).)
 
 From that moment the stars no longer shone; the moon hid her face. Their
 reflected glimmerings were no longer needed to pierce the blackness of the
@@ -185,8 +185,7 @@ rising. ...
 thy borders; but thou shalt call thy walls Salvation, and thy gates Praise. ...
 
 "The Lord shall be unto thee an everlasting light, and thy God thy glory."
-([Isa. 60:1-3,
-18-19](https://www.lds.org/scriptures/ot/isa/60.1-3%2C18-19?lang=eng#0).)
+([Isa. 60:1-3, 18-19](/scriptures/ot/isa/60.1-3,18-19?lang=eng#0).)
 
 _"The morning breaks; the shadows flee;_
 
@@ -197,4 +196,6 @@ _The dawning of a brighter day_
 _Majestic rises on the world."_
 
 In the name of Jesus Christ, amen.
+
+## References
 

@@ -20,8 +20,7 @@ The fifth chapter of Ecclesiastes, verses four and five, states:
 in fools: pay that which thou hast vowed.
 
 "Better is it that thou shouldest not vow, than that thou shouldest vow and
-not pay." ([Eccl.
-5:4-5](https://www.lds.org/scriptures/ot/eccl/5.4-5?lang=eng#3).)
+not pay." ([Eccl. 5:4-5](/scriptures/ot/eccl/5.4-5?lang=eng#3).)
 
 Every member of this Church takes upon himself a sacred vow as he submits
 himself to the waters of baptism. One day in seven, each Sabbath day, we
@@ -33,8 +32,7 @@ uppermost in our minds. All four of these objectives involve people, for his
 church is a people-oriented church. Just as people were the main concern of
 the Savior, so it should be with each of us, if we are to assist the Master in
 achieving his end result: to "bring to pass the immortality and eternal life
-of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Eternal life for the individual requires priesthood. It requires priesthood
 action; it requires conformity to priesthood principles. The four people-
@@ -65,19 +63,17 @@ out an exchange. As we convey properly, we must give of ourselves. Truth
 travels best on the wings of personal testimony and individual worthiness.
 
 The Lord said to Peter, "When thou art converted, strengthen thy brethren."
-([Luke 22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).) And
-just as important is the response given the Lord by Peter on that occasion,
-when he vowed: "Lord, I am ready to go with thee, both into prison, and to
-death." ([Luke
-22:33](https://www.lds.org/scriptures/nt/luke/22.33?lang=eng#32).)
+([Luke 22:32](/scriptures/nt/luke/22.32?lang=eng#31).) And just as important
+is the response given the Lord by Peter on that occasion, when he vowed:
+"Lord, I am ready to go with thee, both into prison, and to death." ([Luke
+22:33](/scriptures/nt/luke/22.33?lang=eng#32).)
 
 God's work and glory starts with our preparedness. He counsels: "Let every man
-learn his duty." ([D&amp;C 107:99](https://www.lds.org/scriptures/dc-
+learn his duty." ([D&amp;C 107:99](/scriptures/dc-
 testament/dc/107.99?lang=eng#98).) It requires dedication: "Seek ye first the
-kingdom of God." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).) It demands
-conformity, the singular way: "Come ... follow me." ([Matt.
-19:21](https://www.lds.org/scriptures/nt/matt/19.21?lang=eng#20).)
+kingdom of God." ([Matt. 6:33](/scriptures/nt/matt/6.33?lang=eng#32).) It
+demands conformity, the singular way: "Come ... follow me." ([Matt.
+19:21](/scriptures/nt/matt/19.21?lang=eng#20).)
 
 Only after true conversion, exemplified by a demonstrated willingness to
 improve our lives, can we be counted on as one standing on solid ground, as
@@ -93,13 +89,13 @@ priesthood process is Relief Society visiting teaching. Paul had the spirit of
 home teaching and visiting teaching when he wrote to Timothy: "And the things
 that thou has heard of me among many witnesses, the same commit thou to
 faithful men, who shall be able to teach others also." ([2 Tim.
-2:2](https://www.lds.org/scriptures/nt/2-tim/2.2?lang=eng#1).)
+2:2](/scriptures/nt/2-tim/2.2?lang=eng#1).)
 
 And now, listen to this, directly from the Lord: "And I give unto you a
 commandment that you shall teach one another the doctrine of the kingdom."
-([D&amp;C 88:77](https://www.lds.org/scriptures/dc-
-testament/dc/88.77?lang=eng#76).) This is not a mere suggestion, but listen:
-"I give unto you a _commandment_ that you shall teach one another."
+([D&amp;C 88:77](/scriptures/dc-testament/dc/88.77?lang=eng#76).) This is not
+a mere suggestion, but listen: "I give unto you a _commandment_ that you shall
+teach one another."
 
 I like the analogy I once heard about home teaching. The speaker held up a
 piece of Scottish plaid and suggested that in our minds we think of each color
@@ -122,13 +118,13 @@ involves these four billion souls. It means continually seeking out and
 teaching those who might be ready now. This teaching is best done in an
 appropriate, orderly, and sincere way that will lead to their unqualified
 acceptance of gospel truth. The Savior said: "Go ye into all the world" ([Mark
-16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14)), and we
-_are_ going, some 23,000 strong. We are now carrying the truth of the gospel
-to some fifty nations. But even today's effort is not enough, says the
-prophet. Every single person in the Church twenty-five years and younger
-should be considered as a prospective missionary and the rest of us should
-become involved in training them, in encouraging them, and in helping them to
-save funds that they may be self-financed as far as possible.
+16:15](/scriptures/nt/mark/16.15?lang=eng#14)), and we _are_ going, some
+23,000 strong. We are now carrying the truth of the gospel to some fifty
+nations. But even today's effort is not enough, says the prophet. Every single
+person in the Church twenty-five years and younger should be considered as a
+prospective missionary and the rest of us should become involved in training
+them, in encouraging them, and in helping them to save funds that they may be
+self-financed as far as possible.
 
 During the recent tour of area conferences in the South Pacific, President
 Kimball was obviously impressed as we met dozens of Indian converts in Fiji.
@@ -193,8 +189,7 @@ are principles in relation to the dead and the living that cannot be lightly
 passed over, as pertaining to our salvation. For their salvation is necessary
 and essential to our salvation, as Paul says concerning the fathers--that they
 without us cannot be made perfect--neither can we without our dead be made
-perfect." ([D&amp;C 128:15](https://www.lds.org/scriptures/dc-
-testament/dc/128.15?lang=eng#14).)
+perfect." ([D&amp;C 128:15](/scriptures/dc-testament/dc/128.15?lang=eng#14).)
 
 We seek exaltation. To achieve that means perfection, and the direction is
 clear. We cannot be made perfect without our dead. We must seek them out; we
@@ -217,8 +212,10 @@ we have made with our Heavenly Father, for he said:
 
 "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure
 in fools: pay that which thou hast vowed." ([Eccl.
-5:4](https://www.lds.org/scriptures/ot/eccl/5.4?lang=eng#3).)
+5:4](/scriptures/ot/eccl/5.4?lang=eng#3).)
 
 And this is my hope and prayer for all of us, in the name of Jesus Christ.
 Amen.
+
+## References
 

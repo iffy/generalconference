@@ -16,9 +16,8 @@ whom I have had the privilege to know and serve with.
 
 Yes, the gospel of Jesus Christ does truly make us brothers and sisters and a
 great family of Jesus Christ as we seek to follow him and become his sons and
-his daughters (see [John
-1:12](https://www.lds.org/scriptures/nt/john/1.12?lang=eng#11); [Ether
-3:14](https://www.lds.org/scriptures/bofm/ether/3.14?lang=eng#13)).
+his daughters (see [John 1:12](/scriptures/nt/john/1.12?lang=eng#11); [Ether
+3:14](/scriptures/bofm/ether/3.14?lang=eng#13)).
 
 As most of you are aware, I am a convert to the Church, having been baptized
 in Tokyo, Japan, back in 1952 while serving in the U.S. Navy during the Korean
@@ -83,16 +82,14 @@ AIDS or die of lung cancer or some other reason, but they do not get rid of
 their sins. That can happen only when a nonmember follows Jesus Christ down
 into the waters of baptism, then comes forth and receives the Holy Ghost by
 the laying on of hands by priesthood authority. That's how we get clean before
-the Lord (see [D&amp;C 84:74](https://www.lds.org/scriptures/dc-
-testament/dc/84.74?lang=eng#73)).
+the Lord (see [D&amp;C 84:74](/scriptures/dc-testament/dc/84.74?lang=eng#73)).
 
 Again, in the first instance, we are still _in_ our sins, but in the second
 instance, we are free _from_ our sins. The word of the Father to Nephi was
 "Repent ye, repent ye, and be baptized in the name of my Beloved Son." Then
 Nephi reports he heard a voice from the Father saying, "Yea, the words of my
 Beloved are true and faithful. He that endureth to the end, the same shall be
-saved" ([2 Ne. 31:11,
-15](https://www.lds.org/scriptures/bofm/2-ne/31.11%2C15?lang=eng#10)).
+saved" ([2 Ne. 31:11, 15](/scriptures/bofm/2-ne/31.11,15?lang=eng#10)).
 
 Then after baptism by the water and the Spirit, it appears that all the Father
 requires of us is that we endure to the end. What does that mean? I believe it
@@ -100,20 +97,19 @@ means basically three things.
 
 One: We must continue to repent for the rest of our lives because we will
 still make mistakes, and we must go home clean or we can't dwell with the
-Father and the Son (see [D&amp;C 84:74](https://www.lds.org/scriptures/dc-
+Father and the Son (see [D&amp;C 84:74](/scriptures/dc-
 testament/dc/84.74?lang=eng#73)).
 
 Two: We must continue to forgive others. If we do not forgive others, we
-cannot obtain forgiveness ourselves (see [D&amp;C
-64:9-10](https://www.lds.org/scriptures/dc-testament/dc/64.9-10?lang=eng#8)).
-And three: Yes, we must be nice. If we're not nice, I don't think we're going
-to make it. In other words, we must have charity, which is really love plus
-sacrifice. We must serve our fellowmen, women, and children, and if we do all
-else but we do not serve the poor, the needy, the downtrodden, the oppressed,
-the sick and afflicted, both temporally and spiritually, according to their
-wants, we cannot retain a remission of our sins from day to day. Without
-serving others, we cannot "walk guiltless before God" ([Mosiah
-4:26](https://www.lds.org/scriptures/bofm/mosiah/4.26?lang=eng#25)).
+cannot obtain forgiveness ourselves (see [D&amp;C 64:9-10](/scriptures/dc-
+testament/dc/64.9-10?lang=eng#8)). And three: Yes, we must be nice. If we're
+not nice, I don't think we're going to make it. In other words, we must have
+charity, which is really love plus sacrifice. We must serve our fellowmen,
+women, and children, and if we do all else but we do not serve the poor, the
+needy, the downtrodden, the oppressed, the sick and afflicted, both temporally
+and spiritually, according to their wants, we cannot retain a remission of our
+sins from day to day. Without serving others, we cannot "walk guiltless before
+God" ([Mosiah 4:26](/scriptures/bofm/mosiah/4.26?lang=eng#25)).
 
 It is a fact that God is no respecter of persons. He loves all of his
 children, and I believe he loves them equally. Of course, he cannot bless his
@@ -122,8 +118,7 @@ law, irrevocably decreed in heaven before the foundations of this world, upon
 which _all_ blessings are predicated--
 
 "And when we obtain _any_ blessing from God, it is by obedience to that law
-upon which it is predicated" ([D&amp;C
-130:20-21](https://www.lds.org/scriptures/dc-
+upon which it is predicated" ([D&amp;C 130:20-21](/scriptures/dc-
 testament/dc/130.20-21?lang=eng#19); emphasis added).
 
 God tells us he cannot deny his words. Quite obviously, he is much more
@@ -131,18 +126,16 @@ pleased with us when we keep his commandments, and he delights to bless us
 when we do. But if we do not keep his commandments, he will chasten us. It
 does not mean that he doesn't love us, any more than when parents discipline
 children. In fact, it is because he _does_ love us that he chastens us that we
-might learn obedience (see [Heb.
-12:6](https://www.lds.org/scriptures/nt/heb/12.6?lang=eng#5); [D&amp;C
-95:1](https://www.lds.org/scriptures/dc-testament/dc/95.1?lang=eng#0)).
+might learn obedience (see [Heb. 12:6](/scriptures/nt/heb/12.6?lang=eng#5);
+[D&amp;C 95:1](/scriptures/dc-testament/dc/95.1?lang=eng#0)).
 
 Then to walk guiltless before God, we must love and serve others. His
 statement through King Benjamin that "when ye are in the service of your
 fellow beings ye are only in the service of your God" ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16)), I
-believe, can properly be turned around to say that "unless you _are_ in the
-service of your fellow beings you are _not_ in the service of your God."
-Mormon expressed this thought, which was recorded by his son Moroni, when he
-said:
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16)), I believe, can properly be
+turned around to say that "unless you _are_ in the service of your fellow
+beings you are _not_ in the service of your God." Mormon expressed this
+thought, which was recorded by his son Moroni, when he said:
 
 "Wherefore, my beloved brethren, if ye have not charity, ye are nothing, for
 charity never faileth. ...
@@ -155,8 +148,7 @@ heart, that ye may be filled with this love, which he hath bestowed upon all
 who are true followers of his Son, Jesus Christ; that ye may become the sons
 of God; that when he shall appear we shall be like him, for we shall see him
 as he is; that we may have this hope; that we may be purified even as he is
-pure" ([Moro.
-7:46-48](https://www.lds.org/scriptures/bofm/moro/7.46-48?lang=eng#45)).
+pure" ([Moro. 7:46-48](/scriptures/bofm/moro/7.46-48?lang=eng#45)).
 
 I am persuaded that only this charity, this pure love of Christ, this love
 plus sacrifice, which is exemplified in the work that goes on in our temples,
@@ -166,4 +158,6 @@ good men, which he could not do. I presume I could not have a more important
 hope for you and me than that we may be filled with this charity, this pure
 love of Christ, to serve our fellowman. I express this hope to you in the holy
 name of Jesus Christ, amen.
+
+## References
 

@@ -6,7 +6,7 @@ by God as his church. He had been engaged sincerely in searching for the true
 church, and he had read the statement of James as contained in the New
 Testament: "If any of you lack wisdom, let him ask of God, that giveth to all
 men liberally, and upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 In his confusion, having a sincere and earnest desire, and with unwavering
 faith, the boy called upon the Lord in prayer. Joseph said he had scarcely
@@ -19,7 +19,7 @@ Exerting all his power to call upon the Lord to deliver him from the power
 which had seized him, and when he was ready to sink into despair, he saw a
 pillar of light exactly over his head, above the brightness of the sun, in
 which light he saw two Personages, and they spoke to him. (See [JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
 
 Think of the great contrast: overpowering darkness as compared with the
 brightness of the sun--the power of the adversary as opposed to the glory of
@@ -47,25 +47,23 @@ time of Adam. The following instances may be recalled.
 
 When Jesus was baptized in the River Jordan, as he came up out of the water a
 voice from heaven was heard saying: "This is my beloved Son, in whom I am well
-pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+pleased." ([Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 At the time of the transfiguration, the voice of the Father was again heard:
 "This is my beloved Son, in whom I am well pleased; hear ye him." ([Matt.
-17:5](https://www.lds.org/scriptures/nt/matt/17.5?lang=eng#4).)
+17:5](/scriptures/nt/matt/17.5?lang=eng#4).)
 
 When the resurrected Christ was introduced by the Father to the Nephites on
 the Western Hemisphere, the following language was used: "Behold my Beloved
 Son, in whom I am well pleased, in whom I have glorified my name--hear ye
-him." ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).)
+him." ([3 Ne. 11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).)
 
 Since the Savior's appearance to the Nephites, there is no scriptural account
 of the voice of the Father being heard again among men until the Father and
 the Son appeared unto the boy Joseph in the spring of 1820, at which time,
 according to Joseph Smith, the Father again bore testimony in the following
 language: _"This is My Beloved Son. Hear Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 As Joseph was calling upon the Lord in prayer more than three years later, a
 messenger from the Lord appeared in his room surrounded by light, which light
@@ -83,8 +81,7 @@ flesh; and your sons and your daughters shall prophesy, and your old men shall
 dream dreams, your young men shall see visions:
 
 "And also upon the servants and upon the handmaids in those days will I pour
-out my spirit." ([Joel
-2:28-29](https://www.lds.org/scriptures/ot/joel/2.28-29?lang=eng#27).)
+out my spirit." ([Joel 2:28-29](/scriptures/ot/joel/2.28-29?lang=eng#27).)
 
 The priesthood of God, which had been taken from the earth because of
 apostasy, was restored to Joseph Smith and Oliver Cowdery in 1829, also by
@@ -100,7 +97,7 @@ men.
 
 "Therefore, O ye that embark in the service of God, see that ye serve him with
 all your heart, might, mind and strength, that ye may stand blameless before
-God at the last day." ([D&amp;C 4:1-2](https://www.lds.org/scriptures/dc-
+God at the last day." ([D&amp;C 4:1-2](/scriptures/dc-
 testament/dc/4.1-2?lang=eng#0).)
 
 Similar advice and counsel was given to others at about the same time through
@@ -190,7 +187,7 @@ himself! In fact, he has said:
 
 "That which is of God is light; and he that receiveth light, and continueth in
 God, receiveth more light; and that light groweth brighter and brighter until
-the perfect day." ([D&amp;C 50:23-24](https://www.lds.org/scriptures/dc-
+the perfect day." ([D&amp;C 50:23-24](/scriptures/dc-
 testament/dc/50.23-24?lang=eng#22).)
 
 The greatest need of the world today is an understanding of the true and
@@ -220,4 +217,6 @@ and the dead. Yes, a great and a marvelous work has come forth among the
 children of men, and God is pouring out his Spirit upon all flesh.
 
 I testify to these truths in the name of the Lord Jesus Christ. Amen.
+
+## References
 

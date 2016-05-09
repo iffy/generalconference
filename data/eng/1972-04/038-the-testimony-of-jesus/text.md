@@ -164,7 +164,7 @@ The endless glory Thine.'"
 Now salvation is centered in the Lord Jesus Christ. In the language of the
 angel who came to King Benjamin: "... salvation was, and is, and is to come, in
 and through the atoning blood of Christ, the Lord Omnipotent." ([Mosiah
-3:18](https://www.lds.org/scriptures/bofm/mosiah/3.18?lang=eng#17).)
+3:18](/scriptures/bofm/mosiah/3.18?lang=eng#17).)
 
 Joseph Smith was asked, "What are the fundamental principles of your
 religion?" He answered: "The fundamental principles of our religion are the
@@ -204,8 +204,7 @@ nations of the earth as rapidly as people in them accept the testimony and
 witness that is borne and believe the truths that our fellow representatives
 proclaim. This is a day of which God has said that all of gathered Israel
 shall be witnesses of his name. "... ye are my witnesses, saith the Lord, that I
-am God." ([Isa.
-43:12](https://www.lds.org/scriptures/ot/isa/43.12?lang=eng#11).)
+am God." ([Isa. 43:12](/scriptures/ot/isa/43.12?lang=eng#11).)
 
 This is a day when he has said that every elder in his kingdom, everyone who
 holds the holy priesthood, has power to speak in his name, to have the Holy
@@ -217,4 +216,6 @@ think I can say with Nephi that the fullness of mine intent is to persuade men
 to come unto the God of Abraham and the God of Isaac and the God of Jacob and
 be saved--because the work is true, because salvation is in Christ. And God
 being our witness, it is true. In the name of Jesus Christ. Amen.
+
+## References
 

@@ -60,9 +60,8 @@ have a great responsibility. To help us to understand and fulfill that
 responsibility, there are two principles regarding employment that I should
 like to discuss:
 
-  1. It is true that the individual must be self-reliant.
-
-  2. This does not relieve quorum and other ward members from their immediate obligation to that individual.
+  1. It is true that the individual must be self-reliant. 
+  2. This does not relieve quorum and other ward members from their immediate obligation to that individual. 
 
 Whenever a person in the ward is unemployed, the individual has primary
 responsibility to locate another job. Where he is unable to find a job, his
@@ -72,15 +71,11 @@ beginning, when the individual is first out of work.
 The longer the time between the loss of one's job and the finding of another,
 the more difficult it is to find work. Several things are involved.
 
-  1. The individual loses his confidence.
-
-  2. Pressures--mental, physical, and financial--clutter the mind, and thinking becomes clouded.
-
-  3. Image of self-worth is reduced significantly with each passing day.
-
+  1. The individual loses his confidence. 
+  2. Pressures--mental, physical, and financial--clutter the mind, and thinking becomes clouded. 
+  3. Image of self-worth is reduced significantly with each passing day. 
   4. The stigma placed upon the one seeking employment by the community and potential employers is, "If he had anything on the ball he would have a job. He must have some hang-ups--I dare not hire him."
-
-  5. The longer the period of unemployment, the harder it is for the individual to go back to work even if he has an opportunity.
+  5. The longer the period of unemployment, the harder it is for the individual to go back to work even if he has an opportunity. 
 
 In a talk entitled "Freedom, A Terrible Risk," by Harvey Jacobs, he related
 the following:
@@ -107,35 +102,21 @@ project is the very beginning. (See _The Republic,_ bk. 1,377b.)
 Now what can be done by the quorum and ward to solve employment needs by
 members, and how do we do it?
 
-  1. Stake presidents and bishops, instruct your stake and ward welfare services committees in employment matters, particularly the principles we outline in these welfare sessions of conference.
-
-  2. Quorum presidents and bishops, contact the unemployed member immediately, as soon as you know he is out of work. Do not wait until Sunday. Counsel those who are unemployed to do the following (some of these suggestions might not be locally applicable, but the principles are universal; use every _personal_ resource possible):
-
-    1. Resolve to work at looking for a job. Get up every morning at 7:00 A.M., shower, clean up, have prayer and breakfast, and leave at 8:00 A.M. to look for a job. Spend several hours each day looking for a job.
-
-    2. While endeavoring to find a job--
-
-    3. Plan and outline exactly what the course of action will be for the next day's searching for a job. Here again is an excellent opportunity for one or more resource persons to do some creative thinking and dialoguing with the unemployed person.
-
-    4. Dress appropriately for the interview. This gives confidence and creates a good first impression. Be willing to start at the bottom and work up. Be willing to prove yourself to a new employer.
-
-    5. Pay tithing even though it may be all the money you have. The Lord's blessings are needed, and this is one way of assuring them.
-
-  3. III. Quorum presidents and bishops, talk with the unemployed individual and--
-
-    1. rebuild his self-image;
-
-    2. instruct him as previously listed;
-
-    3. C. lay your hands on his head and give him a special blessing where such is requested;
-
-    4. D. make the resources of the quorum and ward available as needed.
-
-  4. IV. If work does not come at first, stay close to the unemployed individual so he can have someone with whom he can review his frustrations and keep him thinking positively.
-
-  5. V. Call in as many resource persons as necessary to help. The greatest resource, of course, is the combined talents of the quorum. Each quorum member should be involved by assignment to assist in finding job openings.
-
-  6. VI. There may be occasions that warrant the quorum members' assisting while the individual "retools" through vocational training--or the quorum may be called upon to assist in setting a member up in business.
+  1. Stake presidents and bishops, instruct your stake and ward welfare services committees in employment matters, particularly the principles we outline in these welfare sessions of conference. 
+  2. Quorum presidents and bishops, contact the unemployed member immediately, as soon as you know he is out of work. Do not wait until Sunday. Counsel those who are unemployed to do the following (some of these suggestions might not be locally applicable, but the principles are universal; use every _personal_ resource possible): 
+  3. Resolve to work at looking for a job. Get up every morning at 7:00 A.M., shower, clean up, have prayer and breakfast, and leave at 8:00 A.M. to look for a job. Spend several hours each day looking for a job. 
+  4. While endeavoring to find a job--
+  5. Plan and outline exactly what the course of action will be for the next day's searching for a job. Here again is an excellent opportunity for one or more resource persons to do some creative thinking and dialoguing with the unemployed person. 
+  6. Dress appropriately for the interview. This gives confidence and creates a good first impression. Be willing to start at the bottom and work up. Be willing to prove yourself to a new employer. 
+  7. Pay tithing even though it may be all the money you have. The Lord's blessings are needed, and this is one way of assuring them. 
+  8. III. Quorum presidents and bishops, talk with the unemployed individual and--
+  9. rebuild his self-image; 
+  10. instruct him as previously listed; 
+  11. C. lay your hands on his head and give him a special blessing where such is requested; 
+  12. D. make the resources of the quorum and ward available as needed. 
+  13. IV. If work does not come at first, stay close to the unemployed individual so he can have someone with whom he can review his frustrations and keep him thinking positively. 
+  14. V. Call in as many resource persons as necessary to help. The greatest resource, of course, is the combined talents of the quorum. Each quorum member should be involved by assignment to assist in finding job openings. 
+  15. VI. There may be occasions that warrant the quorum members' assisting while the individual "retools" through vocational training--or the quorum may be called upon to assist in setting a member up in business. 
 
 The great blessing of the quorum and the ward is that instead of one person
 feeling lost and alone, he will feel that there are a hundred people or more
@@ -199,6 +180,8 @@ has the duty to correlate employment-finding activities outside the quorums.
 God bless you, our beloved leaders, to have charity for the unfortunate, which
 charity is the true love of Christ. "For now abideth faith, hope, charity,
 these three; but the greatest of these is charity." ([1 Cor.
-13:13](https://www.lds.org/scriptures/nt/1-cor/13.13?lang=eng#12).) In the
-name of Jesus Christ. Amen.
+13:13](/scriptures/nt/1-cor/13.13?lang=eng#12).) In the name of Jesus Christ.
+Amen.
+
+## References
 

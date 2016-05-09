@@ -10,15 +10,14 @@ communities in which you live. I recognize that many of your unselfish and
 compassionate deeds are unknown, unheralded, and at times unthanked.
 
 As the scriptures counsel, "Be not weary in well-doing, for ye are laying the
-foundation of a great work." ([D&amp;C 64:33](https://www.lds.org/scriptures
-/dc-testament/dc/64.33?lang=eng#32).) Remember the promise of the Savior that
+foundation of a great work." ([D&amp;C 64:33](/scriptures/dc-
+testament/dc/64.33?lang=eng#32).) Remember the promise of the Savior that
 kindly deeds done in secret shall one day be openly rewarded by our Father in
-Heaven. (See [Matt.
-6:3-6](https://www.lds.org/scriptures/nt/matt/6.3-6?lang=eng#2), [Matt.
-16-18](https://www.lds.org/scriptures/nt/matt/16.title?lang=eng).) The Lord is
-not unmindful of you. We pray for your welfare. We thank God for the refining
-influence you have upon our world through your service, sacrifice, compassion,
-and striving for that which is beautiful and ennobling.
+Heaven. (See [Matt. 6:3-6](/scriptures/nt/matt/6.3-6?lang=eng#2), [Matt.
+16-18](/scriptures/nt/matt/16?lang=eng).) The Lord is not unmindful of you. We
+pray for your welfare. We thank God for the refining influence you have upon
+our world through your service, sacrifice, compassion, and striving for that
+which is beautiful and ennobling.
 
 Thank you for making our lives so much better because of who you are. Your
 steady example of righteousness stands in contrast to the ways of the world.
@@ -27,8 +26,7 @@ There is much turmoil in the world around us. We hear many voices espousing
 causes and clamoring for converts to their way of thinking. In this respect,
 the situation today is not unlike the turmoil described by the Prophet Joseph
 Smith in his day. He said some were crying, "'Lo, here!' and others, 'Lo,
-there!'" ([JS--H
-1:5](https://www.lds.org/scriptures/pgp/js-h/1.5?lang=eng#4).) Many today
+there!'" ([JS--H 1:5](/scriptures/pgp/js-h/1.5?lang=eng#4).) Many today
 struggle with the challenges of life. Given the perplexities, turmoil, and
 evils that are about us, it is natural for us to reach out for someone who can
 help. Some women long for that inspiration which can comfort the heart, bind
@@ -39,8 +37,7 @@ But we are not left comfortless! We have the scriptures, which contain
 enduring words of a loving Father in Heaven who tells us that we are his first
 priority. He said: "For behold, this is my work and my glory--to bring to pass
 the immortality and eternal life of man," the generic scriptural term which
-also means woman. ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+also means woman. ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 In addition to those words of a loving Father in Heaven, we have the Savior of
 whom Alma recorded:
@@ -53,7 +50,7 @@ upon him the pains and the sicknesses of his people.
 bind his people; and he will take upon him their infirmities, that his bowels
 may be filled with mercy, according to the flesh, that he may know according
 to the flesh how to succor his people according to their infirmities." ([Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10).)
+7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10).)
 
 It must be comforting to you beloved sisters of his Church to remember that
 this same Jesus, our Savior through the Atonement, demonstrated his love and
@@ -76,10 +73,9 @@ disciples that he had risen.
 Is there any reason to think that he cares any less about women today? Before
 his ascension, he made this promise to his disciples: "I will pray the Father,
 and he shall give you another Comforter. ... I will not leave you comfortless."
-([John 14:16,
-18](https://www.lds.org/scriptures/nt/john/14.16%2C18?lang=eng#15).) His
-daughter-disciples, too, are privileged to have been given that other
-Comforter as well, the gift of the Holy Ghost.
+([John 14:16, 18](/scriptures/nt/john/14.16,18?lang=eng#15).) His daughter-
+disciples, too, are privileged to have been given that other Comforter as
+well, the gift of the Holy Ghost.
 
 As special witnesses of our Savior, we have been given the awesome assignment
 to administer the affairs of his church and kingdom and to minister to his
@@ -99,9 +95,9 @@ Church to stand with and for the Brethren in stemming the tide of evil that
 surrounds us and in moving forward the work of our Savior. Nephi said, "Ye
 must press forward with a steadfastness in Christ, having a perfect brightness
 of hope, and a love of God and of all men, [women, and children]." ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19).) Obedient
-to him we are a majority. But only together can we accomplish the work he has
-given us to do and be prepared for the day when we shall see him.
+31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19).) Obedient to him we are a
+majority. But only together can we accomplish the work he has given us to do
+and be prepared for the day when we shall see him.
 
 As we labor with our might to minister to needs in the same caring way that
 our Lord met those of the women of his day, so we entreat you to minister with
@@ -112,11 +108,10 @@ We recognize that much good comes from individuals and organizations who reach
 out to remedy the ills of the world. We encourage you to follow the scriptural
 admonition to be anxiously engaged or actively involved in good causes in the
 Church and in your neighborhoods, communities, and even throughout the world.
-(See [D&amp;C 58:27](https://www.lds.org/scriptures/dc-
-testament/dc/58.27?lang=eng#26).) Yet we also maintain that without taking
-Christ into their lives and accepting his gospel, with its saving ordinances
-and covenants, people will not reach their true potential in this life or in
-the hereafter.
+(See [D&amp;C 58:27](/scriptures/dc-testament/dc/58.27?lang=eng#26).) Yet we
+also maintain that without taking Christ into their lives and accepting his
+gospel, with its saving ordinances and covenants, people will not reach their
+true potential in this life or in the hereafter.
 
 Those who follow Christ seek to follow his example. His suffering on behalf of
 our sins, shortcomings, sorrows, and sicknesses should motivate us to
@@ -129,12 +124,12 @@ Sisters, continue to seek opportunities for service. Don't be overly concerned
 with status. Do you recall the counsel of the Savior regarding those who seek
 the "chief seats" or the "uppermost rooms"? "He that is greatest among you
 shall be your servant." ([Matt. 23:6,
-11](https://www.lds.org/scriptures/nt/matt/23.6%2C11?lang=eng#5).) It is
-important to be appreciated. But our focus should be on righteousness, not
-recognition; on service, not status. The faithful visiting teacher, who
-quietly goes about her work month after month, is just as important to the
-work of the Lord as those who occupy what some see as more prominent positions
-in the Church. Visibility does not equate to value.
+11](/scriptures/nt/matt/23.6,11?lang=eng#5).) It is important to be
+appreciated. But our focus should be on righteousness, not recognition; on
+service, not status. The faithful visiting teacher, who quietly goes about her
+work month after month, is just as important to the work of the Lord as those
+who occupy what some see as more prominent positions in the Church. Visibility
+does not equate to value.
 
 In a previous general meeting of the women of the Church, President Spencer W.
 Kimball counseled: "Bear in mind, dear sisters, that the eternal blessings
@@ -152,8 +147,7 @@ Recognize your divine birthright as daughters of our Heavenly Father. Be one
 who heals with your words as well as your hands. Seek to know the will of the
 Lord in your life, and then say, as did that wonderful exemplar Mary, the
 mother of Jesus, "Behold the handmaid of the Lord; be it unto me according to
-thy word." ([Luke
-1:38](https://www.lds.org/scriptures/nt/luke/1.38?lang=eng#37).)
+thy word." ([Luke 1:38](/scriptures/nt/luke/1.38?lang=eng#37).)
 
 In conclusion, these verses from an unknown poet have significant meaning:
 
@@ -183,4 +177,6 @@ your honored place as women.
 May the Lord bless you as you continue to serve him by serving others and as
 you strive to become all that you have the potential to become. In the name of
 Jesus Christ, amen.
+
+## References
 

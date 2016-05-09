@@ -26,7 +26,7 @@ the heart unfed, with a yearning inner hunger--a hunger which it is our
 mission to identify and define and of which we should make the people aware. I
 have seen in Europe the fulfillment of the words of Amos, that there would be
 "a famine in the land, not a famine of bread ... but of hearing the words of the
-Lord." ([Amos 8:11](https://www.lds.org/scriptures/ot/amos/8.11?lang=eng#10).)
+Lord." ([Amos 8:11](/scriptures/ot/amos/8.11?lang=eng#10).)
 
 There are a few simple truths that I should now like to restate and reaffirm
 briefly. My recent experiences have caused them to loom large in my thoughts.
@@ -56,8 +56,7 @@ There is a striking description of this miracle in the Doctrine and Covenants.
 of the gospel in his own tongue, and in his own language, through those who
 are ordained unto this power, _by the administration of the Comforter,_ shed
 forth upon them for the revelation of Jesus Christ." ([D&amp;C
-90:11](https://www.lds.org/scriptures/dc-testament/dc/90.11?lang=eng#10);
-italics added.)
+90:11](/scriptures/dc-testament/dc/90.11?lang=eng#10); italics added.)
 
 What the power of the Spirit can communicate beyond the meaning of words is
 clearly seen in an experience of Brother Peter Mourik, real estate director
@@ -161,4 +160,6 @@ the Christ and that the Father and Son appeared to the Prophet Joseph Smith.
 Through him the true and everlasting gospel was restored among us, that we
 might attain the heights of a glorious exaltation as the beloved children of
 our Heavenly Father. To this I testify in the name of Jesus Christ. Amen.
+
+## References
 

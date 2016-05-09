@@ -3,10 +3,10 @@
 Centuries ago, when Jesus taught his disciples at Capernaum on the shores of
 the Sea of Galilee, he said, "where two or three are gathered together in my
 name, there am I in the midst of them." ([Matt.
-18:20](https://www.lds.org/scriptures/nt/matt/18.20?lang=eng#19).) It is the
-precious privilege of Latter-day Saints to live, meet, and worship in the name
-of the Savior of mankind, and to enjoy his sustaining and regenerating spirit
-in every facet and dimension of their lives.
+18:20](/scriptures/nt/matt/18.20?lang=eng#19).) It is the precious privilege
+of Latter-day Saints to live, meet, and worship in the name of the Savior of
+mankind, and to enjoy his sustaining and regenerating spirit in every facet
+and dimension of their lives.
 
 Since last October, Sister Wirthlin and I have traveled many thousands of
 miles over central Europe, Scandinavia, and Finland, working with the eleven
@@ -38,26 +38,26 @@ Brother Covill was told, as recorded in the Doctrine and Covenants, is truly
 to accept the gospel, of which the Lord says, "And this is my gospel--
 repentance and baptism by water, and then cometh the baptism of fire and the
 Holy Ghost, even the Comforter, which showeth all things, and teacheth the
-peaceable things of the kingdom." ([D&amp;C
-39:6](https://www.lds.org/scriptures/dc-testament/dc/39.6?lang=eng#5).)
+peaceable things of the kingdom." ([D&amp;C 39:6](/scriptures/dc-
+testament/dc/39.6?lang=eng#5).)
 
 Following his acceptance of the gospel, Brother Covill was charged to do what
 is the uncompromising obligation of all of us today. For the Lord says, "And
 if thou do this, I have prepared thee for a greater work. Thou shalt preach
 the fulness of my gospel, which I have sent forth in these last days, the
 covenant which I have sent forth to recover my people, which are of the house
-of Israel." ([D&amp;C 39:11](https://www.lds.org/scriptures/dc-
-testament/dc/39.11?lang=eng#10).) And here is the promise made to Elder
-Covill: "And it shall come to pass that power shall rest upon thee; thou shalt
-have great faith, and I will be with thee and go before thy face." ([D&amp;C
-39:12](https://www.lds.org/scriptures/dc-testament/dc/39.12?lang=eng#11).)
-What is said here to James Covill in this dispensation, when the Church was
-only nine months old, applies with equal force to us now--and is a remarkable
-and powerful reiteration of the promise made by the Savior during his earthly
-ministry. His pledge that he will be in our midst when two or three are
-gathered together in his name is a wonderful declaration of his unbounded love
-for each of us and assures us of his presence in our church services, in our
-individual lives, and in the intimate circles of our families.
+of Israel." ([D&amp;C 39:11](/scriptures/dc-testament/dc/39.11?lang=eng#10).)
+And here is the promise made to Elder Covill: "And it shall come to pass that
+power shall rest upon thee; thou shalt have great faith, and I will be with
+thee and go before thy face." ([D&amp;C 39:12](/scriptures/dc-
+testament/dc/39.12?lang=eng#11).) What is said here to James Covill in this
+dispensation, when the Church was only nine months old, applies with equal
+force to us now--and is a remarkable and powerful reiteration of the promise
+made by the Savior during his earthly ministry. His pledge that he will be in
+our midst when two or three are gathered together in his name is a wonderful
+declaration of his unbounded love for each of us and assures us of his
+presence in our church services, in our individual lives, and in the intimate
+circles of our families.
 
 What I mean when I say Jesus meant his presence to be felt in the intimate
 circle of each of our families may be depicted in the lives of two sisters,
@@ -72,8 +72,7 @@ performance of their church duties and responsibilities. She and the children,
 despite what could have been a ready excuse for neglect and indifference,
 exemplified the admonition of Jesus when he said, "Let your light so shine
 before men, that [others] may see your good works, and glorify your Father
-which is in heaven." ([Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).)
+which is in heaven." ([Matt. 5:16](/scriptures/nt/matt/5.16?lang=eng#15).)
 
 The second sister married a fine man who was a faithful Latter-day Saint. As
 the years sped by, they carelessly omitted what they had at first intended
@@ -81,7 +80,7 @@ conscientiously to do--worship together in the name of Jesus that he might be
 in the midst of their family activities. Although always admiring the Church
 and its principles, they had forgotten that they were now in fact the salt of
 the earth that had "lost its savor." ([Matt.
-5:13](https://www.lds.org/scriptures/nt/matt/5.13?lang=eng#12).)
+5:13](/scriptures/nt/matt/5.13?lang=eng#12).)
 
 In a conversation about their children, the second sister said to the first,
 "Why have your children turned out so well and why are they so active in the
@@ -94,16 +93,16 @@ the midst of them," and this can be true for all of us wherever we may be, at
 home or elsewhere.
 
 On another occasion Jesus said, "I stand at the door, and knock." ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).) Unless we open
-the door and permit him to come into our lives, he can't enter into our midst.
-Mere knowledge in itself may be, but it is not necessarily, power. Knowledge
-is not motivation. Neither is logic. That the springs of human action are
-inherently in the feelings, not the intellect, and that conduct generates
-feeling are set forth in the Doctrine and Covenants in these words: "And whoso
-receiveth you, there I will be also, for I will go before your face. I will be
-on your right hand and on your left, and my Spirit shall be in your hearts,
-and mine angels round about you, to bear you up." ([D&amp;C
-84:88](https://www.lds.org/scriptures/dc-testament/dc/84.88?lang=eng#87).)
+3:20](/scriptures/nt/rev/3.20?lang=eng#19).) Unless we open the door and
+permit him to come into our lives, he can't enter into our midst. Mere
+knowledge in itself may be, but it is not necessarily, power. Knowledge is not
+motivation. Neither is logic. That the springs of human action are inherently
+in the feelings, not the intellect, and that conduct generates feeling are set
+forth in the Doctrine and Covenants in these words: "And whoso receiveth you,
+there I will be also, for I will go before your face. I will be on your right
+hand and on your left, and my Spirit shall be in your hearts, and mine angels
+round about you, to bear you up." ([D&amp;C 84:88](/scriptures/dc-
+testament/dc/84.88?lang=eng#87).)
 
 Only in accepting our Savior and doing his will do we acquire the "feeling to
 do right." If we break the commandments, we get a "feeling" for that too. This
@@ -116,17 +115,15 @@ furnish the will and desire to do right. Indeed, ignorance is not the only
 cause of sin and deplorable conduct. Fundamental to most wrongdoing is lack of
 desire, the absence of a strong motive or the right influence, and a
 deficiency in living the precepts. Individuals who do right and "hunger and
-thirst after righteousness" ([Matt.
-5:6](https://www.lds.org/scriptures/nt/matt/5.6?lang=eng#5)) get and keep
-alive through their actions the feeling to do right. Inherent in the first
-principles of the gospel is the "desire principle"--the desire to love God and
-fellowmen "with all thy heart, and with all thy soul, and with all thy mind."
-([Matt. 22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36).) To
+thirst after righteousness" ([Matt. 5:6](/scriptures/nt/matt/5.6?lang=eng#5))
+get and keep alive through their actions the feeling to do right. Inherent in
+the first principles of the gospel is the "desire principle"--the desire to
+love God and fellowmen "with all thy heart, and with all thy soul, and with
+all thy mind." ([Matt. 22:37](/scriptures/nt/matt/22.37?lang=eng#36).) To
 attain these heights, each of us must work in harmony with God's will and
 create a spiritual climate that will bring Jesus into the midst of our lives;
 and then we must continue to live "with an eye single to [his] glory."
-([D&amp;C 4:5](https://www.lds.org/scriptures/dc-
-testament/dc/4.5?lang=eng#4).)
+([D&amp;C 4:5](/scriptures/dc-testament/dc/4.5?lang=eng#4).)
 
 This conviction is clearly demonstrated in the lives of our great mission
 presidents, servicemen, missionaries, and devoted Church members. What I am
@@ -138,7 +135,7 @@ assurance; as ye know what manner of men we were among you for your sake.
 
 "And ye became followers of us, and of the Lord, having received the word in
 much affliction, with joy of the Holy Ghost: so that ye were ensamples." ([1
-Thes. 1:5-6](https://www.lds.org/scriptures/nt/1-thes/1.5-6?lang=eng#4).)
+Thes. 1:5-6](/scriptures/nt/1-thes/1.5-6?lang=eng#4).)
 
 May I restate for the sake of emphasis what these inspired writings contain
 for each of us. Paul rejoiced in the fact that what he had told the
@@ -183,4 +180,6 @@ world.
 Wherever two or three of us are gathered together, I pray that the Savior may
 be in the midst of us because of our righteousness, the name of Jesus Christ.
 Amen.
+
+## References
 

@@ -62,12 +62,10 @@ Americans cannot solve this problem.
 Certainly the Lord speaks out strongly against people who are able who won't
 work but still expect to be fed. He said, "Thou shalt not be idle; for he that
 is idle shall not eat the bread nor wear the garments of the laborer."
-([D&amp;C 42:42](https://www.lds.org/scriptures/dc-
-testament/dc/42.42?lang=eng#41).)
+([D&amp;C 42:42](/scriptures/dc-testament/dc/42.42?lang=eng#41).)
 
 And again the Lord said, "The idler shall be had in remembrance before the
-Lord." ([D&amp;C 68:30](https://www.lds.org/scriptures/dc-
-testament/dc/68.30?lang=eng#29).)
+Lord." ([D&amp;C 68:30](/scriptures/dc-testament/dc/68.30?lang=eng#29).)
 
 Why are these conditions seemingly worsening by the hour? Because their
 solutions are not based on true principles revealed by God through his
@@ -85,20 +83,19 @@ hear, neither heart that shall not be penetrated.
 
 "And the voice of warning shall be unto all people, by the mouths of my
 disciples, whom I have chosen in these last days." ([D&amp;C
-1:1-3](https://www.lds.org/scriptures/dc-testament/dc/1.1-3?lang=eng#0).)
+1:1-3](/scriptures/dc-testament/dc/1.1-3?lang=eng#0).)
 
 God has solutions! There is only one real road to safety and that is to
 hearken unto the voice of the prophet of God, because man in his wisdom cannot
 solve the problems which he is facing today anymore than he could when Paul
 wrote to the Corinthians. He said, "For the wisdom of this world is
 foolishness with God. For it is written, He taketh the wise in their own
-craftiness." ([1 Cor.
-3:19](https://www.lds.org/scriptures/nt/1-cor/3.19?lang=eng#18).)
+craftiness." ([1 Cor. 3:19](/scriptures/nt/1-cor/3.19?lang=eng#18).)
 
 And again, "But the natural man receiveth not the things of the Spirit of God:
 for they are foolishness unto him: neither can he know them, because they are
 spiritually discerned." ([1 Cor.
-2:14](https://www.lds.org/scriptures/nt/1-cor/2.14?lang=eng#13).)
+2:14](/scriptures/nt/1-cor/2.14?lang=eng#13).)
 
 Can man's knowledge and intellect supplant the revealed word of God? Do we
 really believe we can prosper by letting this land, established by the hand of
@@ -129,8 +126,8 @@ also maketh you free.
 
 "Wherefore, honest men and wise men should be sought for diligently, and good
 men and wise men ye should observe to uphold; otherwise whatsoever is less
-than these cometh of evil." ([D&amp;C 98:4,
-6-10](https://www.lds.org/scriptures/dc-testament/dc/98.4%2C6-10?lang=eng#3).)
+than these cometh of evil." ([D&amp;C 98:4, 6-10](/scriptures/dc-
+testament/dc/98.4,6-10?lang=eng#3).)
 
 There are examples of the foolishness of men's programs all around us. At the
 October conference of 1974, Elder Neal A. Maxwell uttered a truth upon which I
@@ -146,18 +143,18 @@ Doctrine and Covenants. And we won't even consider all of this revelation, but
 only a part of it, only that part where the Lord warns "that inasmuch as any
 man drinketh wine or strong drink among you, behold it is not good. ... And,
 again, strong drinks are not for the belly, but for the washing of your
-bodies." ([D&amp;C 89:5-7](https://www.lds.org/scriptures/dc-
-testament/dc/89.5-7?lang=eng#4).) This is a prohibition against drinking
-alcoholic beverages. If those in the United States would follow the Lord's
-counsel by living this divine law, we would be able to feed the starving
-masses of the world. I cite an Associated Press quote of Harvard University
-nutritionist Dr. Jean Mayer. Said he, "Every year we convert in this nation
-into alcoholic liquor enough grain to feed 50 million people in the starving
-nations." In the United States there are 95 million drinkers, of whom 10
-million are confirmed alcoholics. These 10 million alcoholics in the United
-States cost this nation $10 billion a year counted in lost time, slow downs in
-work, illnesses, mistakes resulting in spoiled materials, domestic problems,
-and the rest of the attendant evils that go with alcoholism.
+bodies." ([D&amp;C 89:5-7](/scriptures/dc-testament/dc/89.5-7?lang=eng#4).)
+This is a prohibition against drinking alcoholic beverages. If those in the
+United States would follow the Lord's counsel by living this divine law, we
+would be able to feed the starving masses of the world. I cite an Associated
+Press quote of Harvard University nutritionist Dr. Jean Mayer. Said he, "Every
+year we convert in this nation into alcoholic liquor enough grain to feed 50
+million people in the starving nations." In the United States there are 95
+million drinkers, of whom 10 million are confirmed alcoholics. These 10
+million alcoholics in the United States cost this nation $10 billion a year
+counted in lost time, slow downs in work, illnesses, mistakes resulting in
+spoiled materials, domestic problems, and the rest of the attendant evils that
+go with alcoholism.
 
 Also, it has been proven that alcoholism shortens the life of every alcoholic
 from 10 to 12 years; 250,000 new alcoholics are added to this total every
@@ -228,12 +225,14 @@ gospel is lived, error gives way to truth; idleness becomes productive
 service; hate and envy become love. Children become blessings; virtue becomes
 its own reward; and life becomes sacred, a probation to see if we will do "all
 things whatsoever the Lord God commands us." (See [Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24).)
+3:25](/scriptures/pgp/abr/3.25?lang=eng#24).)
 
 All that is needed is to hearken unto the voice of him whom the Lord has
 chosen to give a clear sound of the trumpet so that all might prepare for the
 battle. May the world have eyes that see, and ears that hear, and hearts that
 understand that they may be converted (see [Matt.
-13:15](https://www.lds.org/scriptures/nt/matt/13.15?lang=eng#14)), for which I
-pray in the name of Jesus Christ. Amen.
+13:15](/scriptures/nt/matt/13.15?lang=eng#14)), for which I pray in the name
+of Jesus Christ. Amen.
+
+## References
 

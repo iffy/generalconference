@@ -54,8 +54,7 @@ went in with him to the marriage: and the door was shut.
 "But he answered and said, Verily I say unto you, I know you not.
 
 "Watch therefore, for ye know neither the day nor the hour wherein the Son of
-man cometh." ([Matt.
-25:1-13](https://www.lds.org/scriptures/nt/matt/25.1-13?lang=eng#0).)
+man cometh." ([Matt. 25:1-13](/scriptures/nt/matt/25.1-13?lang=eng#0).)
 
 It can be properly and appropriately concluded that the ten virgins represent
 the people of the Church of Jesus Christ, and not alone the rank and file of
@@ -89,7 +88,7 @@ this kind of oil for himself. Let us not procrastinate. Midnight is so far and
 yet so close to those who have procrastinated. "But behold, your days of
 probation are past; ye have procrastinated the day of your salvation until it
 is everlastingly too late, and your destruction is made sure. ..." ([Hel.
-13:38](https://www.lds.org/scriptures/bofm/hel/13.38?lang=eng#37).)
+13:38](/scriptures/bofm/hel/13.38?lang=eng#37).)
 
 There is an urgency in this day for us to prepare for the coming of the Lord.
 For you who have heeded the warning and continue in your preparations to
@@ -189,15 +188,15 @@ especially in living a good life and sharing my many blessings with others."
 
 Here is one of God's choicest daughters aware of the importance now, right
 now, and the truths as recorded in [Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31), "For
-behold, this life is the time for men to prepare to meet God; yea, behold the
-day of this life is the day for men to perform their labors."
+34:32](/scriptures/bofm/alma/34.32?lang=eng#31), "For behold, this life is the
+time for men to prepare to meet God; yea, behold the day of this life is the
+day for men to perform their labors."
 
 Brothers and sisters, we are living in a time of urgency. We are living in a
 time of spiritual crisis. We are living in a time close to midnight.
 "Wherefore, stand ye in holy places, and be not moved, until the day of the
 Lord come; for behold, it cometh quickly, saith the Lord." ([D&amp;C
-87:8](https://www.lds.org/scriptures/dc-testament/dc/87.8?lang=eng#7).)
+87:8](/scriptures/dc-testament/dc/87.8?lang=eng#7).)
 
 I pray our Heavenly Father to daily assist us in our preparations that we may
 accumulate the oil of spirituality drop by drop, thought by thought, and act
@@ -215,4 +214,6 @@ righteous service to God and man.
 God lives. Jesus is the Christ. He is our Redeemer, and this is His kingdom
 here on the earth. To this I bear humble testimony in the name of Jesus
 Christ. Amen.
+
+## References
 

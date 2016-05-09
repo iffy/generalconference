@@ -74,12 +74,12 @@ these special spirits for the final work of the kingdom prior to his
 millennial reign.
 
 My heart, like Enoch's, seems to swell "wide as eternity" ([Moses
-7:41](https://www.lds.org/scriptures/pgp/moses/7.41?lang=eng#40)) as I
-consider what our youth and those being born in this time will accomplish.
-This generation will face trials and troubles that will exceed those of their
-pioneer forebears. Our generation has had some periods of respite from the
-foe. The future generation will have little or none. But their great faith in
-the Lord will give them needed strength.
+7:41](/scriptures/pgp/moses/7.41?lang=eng#40)) as I consider what our youth
+and those being born in this time will accomplish. This generation will face
+trials and troubles that will exceed those of their pioneer forebears. Our
+generation has had some periods of respite from the foe. The future generation
+will have little or none. But their great faith in the Lord will give them
+needed strength.
 
 Our youth influence their peer groups for good. President Wilford Woodruff
 said in a general conference in 1898, "Concerning the work of the dead, the
@@ -99,7 +99,7 @@ driven with fierce winds whithersoever the enemy listeth to carry them.
 
 "But behold, they are in the hands of the Lord of the harvest, and they are
 his; and he will raise them up at the last day" ([Alma
-26:6-7](https://www.lds.org/scriptures/bofm/alma/26.6-7?lang=eng#5)).
+26:6-7](/scriptures/bofm/alma/26.6-7?lang=eng#5)).
 
 This is a chosen generation.
 
@@ -256,8 +256,7 @@ yea, we will rejoice, for our joy is full; yea, we will praise our God
 forever. Behold, who can glory too much in the Lord? Yea, who can say too much
 of his great power, and of his mercy, and of his long-suffering towards the
 children of men? Behold, I say unto you, I cannot say the smallest part which
-I feel" ([Alma
-26:16](https://www.lds.org/scriptures/bofm/alma/26.16?lang=eng#15)).
+I feel" ([Alma 26:16](/scriptures/bofm/alma/26.16?lang=eng#15)).
 
 I know of no more glorious work. As God is my witness, I love it with every
 particle of my heart and soul, and I love him with even more than my life. I
@@ -266,4 +265,6 @@ youth.
 
 God bless you, youth of the noble birthright, I pray in the name of Jesus
 Christ, amen.
+
+## References
 

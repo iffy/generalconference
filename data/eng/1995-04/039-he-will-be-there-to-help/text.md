@@ -22,10 +22,9 @@ inadequate. I was afraid I might be called on to read. I felt more comfortable
 with my family, but I continued to feel frustrated.
 
 I prayed for help and I found this scripture. Please turn with me to Moroni
-7:33 [[Moro.
-7:33](https://www.lds.org/scriptures/bofm/moro/7.33?lang=eng#32)], and I will
-share with you my answer: "And Christ hath said: If ye will have faith in me
-ye shall have power to do whatsoever thing is expedient in me."
+7:33 [[Moro. 7:33](/scriptures/bofm/moro/7.33?lang=eng#32)], and I will share
+with you my answer: "And Christ hath said: If ye will have faith in me ye
+shall have power to do whatsoever thing is expedient in me."
 
 What a wonderful promise! If I would put my faith in the Lord, he would help
 me. He would help me to understand the scriptures. This was the key for me.
@@ -40,4 +39,6 @@ I know this because he has been there for me. I love my family, who understand
 the challenges I have. I'm grateful for leaders who have worked with me. I
 know the Church is true. I know the scriptures are there for each of us to
 learn from. I know that Christ lives. In the name of Jesus Christ, amen.
+
+## References
 

@@ -25,7 +25,7 @@ I suggest a quotation from the Book of Mormon as a foundation for our actions:
 unto him and shall pray for him unto the Father, in my name; and if it so be
 that he repenteth and is baptized in my name, then shall ye receive him, and
 shall minister unto him of my flesh and blood" ([3 Ne.
-18:30](https://www.lds.org/scriptures/bofm/3-ne/18.30?lang=eng#29)).
+18:30](/scriptures/bofm/3-ne/18.30?lang=eng#29)).
 
 Often in the scriptures we are reminded that we should minister to all of
 God's children, that we should do so with the pure love of God in our hearts.
@@ -60,7 +60,7 @@ from 3 Nephi we are given this warm invitation:
 "Yea, verily I say unto you, if ye will come unto me ye shall have eternal
 life. Behold, mine arm of mercy is extended towards you, and whosoever will
 come, him will I receive; and blessed are those who come unto me" ([3 Ne.
-9:14](https://www.lds.org/scriptures/bofm/3-ne/9.14?lang=eng#13)).
+9:14](/scriptures/bofm/3-ne/9.14?lang=eng#13)).
 
 This scripture indicates that in life there is no waiting period before we can
 come unto God. In our weakness we know where we can turn for strength. What
@@ -73,7 +73,7 @@ who has repented of his sins, the same is forgiven, and I, the Lord, remember
 them no more.
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them" ([D&amp;C 58:42-43](https://www.lds.org/scriptures/dc-
+them and forsake them" ([D&amp;C 58:42-43](/scriptures/dc-
 testament/dc/58.42-43?lang=eng#41)).
 
 When a man is convinced of the truth of that scripture, "I, the Lord, remember
@@ -84,7 +84,7 @@ to abhor. To participate, one takes part or has a share in common with others.
 
 We would recommend that one should--
 
-  1. Shun feelings of resentment, bitterness, and contention toward individuals rendering decisions. When discipline is administered, there is a tendency on the part of some to become resentful toward the individuals and institutions who have had to make the judgment. We should permit ourselves to take a self-inventory sampling before we "cast the first stone." Resentment and anger are not good for the soul. They are foul things.
+  1. **Shun feelings of resentment, bitterness, and contention toward individuals rendering decisions.** When discipline is administered, there is a tendency on the part of some to become resentful toward the individuals and institutions who have had to make the judgment. We should permit ourselves to take a self-inventory sampling before we "cast the first stone." Resentment and anger are not good for the soul. They are foul things. 
 
 Bitterness must be replaced with humility. Truly, bitterness injures the one
 who carries it. It blinds, shrivels, and cankers.
@@ -98,17 +98,15 @@ Moroni gave us all some words of advice. "Condemn me not because of mine
 imperfection, neither my father, because of his imperfection, neither them who
 have written before him; but rather give thanks unto God that he hath made
 manifest unto you our imperfections, that ye may learn to be more wise than we
-have been" ([Morm.
-9:31](https://www.lds.org/scriptures/bofm/morm/9.31?lang=eng#30)).
+have been" ([Morm. 9:31](/scriptures/bofm/morm/9.31?lang=eng#30)).
 
 A repentant individual will choose his own course and proceed with confidence.
 He has no need to protect a wounded self. He will not allow himself the danger
 of self-inflicted sympathy. It is generally good medicine to sympathize with
 others, but not with yourself.
 
-  1. Shun discouragement. One of Satan's most powerful tools is discouragement. Whisperings of "you can't do it," "you're no good," "it's too late," "what's the use?" or "things are hopeless" are tools of destruction. Satan would like you to believe that because you've made one mistake it's all over. He wants you to quit trying. It is important that discouragement is cast out of the lives of those who are waiting. This may take a decided amount of work and energy, but it can be accomplished.
-
-  1. Shun escape routes. There are those who would welcome you into rebellious or apostate groups. We can never build with purpose if we join the ranks of those who criticize and aim to tear down.
+  1. **Shun discouragement.** One of Satan's most powerful tools is discouragement. Whisperings of "you can't do it," "you're no good," "it's too late," "what's the use?" or "things are hopeless" are tools of destruction. Satan would like you to believe that because you've made one mistake it's all over. He wants you to quit trying. It is important that discouragement is cast out of the lives of those who are waiting. This may take a decided amount of work and energy, but it can be accomplished. 
+  1. **Shun escape routes.** There are those who would welcome you into rebellious or apostate groups. We can never build with purpose if we join the ranks of those who criticize and aim to tear down. 
 
 It is easier to demean and place blame on others for our situation than it is
 to repent and grow. Some who set out to damage and destroy others end up
@@ -117,12 +115,11 @@ subculture associations are also escape routes. Attitudes of "it won't matter
 now" or "there is nothing for you to do" are totally inappropriate. "Pure
 religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself unspotted from
-the world" ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26)). Maintaining
+the world" ([James 1:27](/scriptures/nt/james/1.27?lang=eng#26)). Maintaining
 and building require discipline and patience. Shun those who would build
 themselves by destroying others.
 
-  1. Shun the desire to become anonymous. When difficulties arise, some want to fade into the crowd and become lost and unknown. Any thinking person will realize that there is a wonderful support system available to those who are listed on the records of the Church. There are those who will listen, help, and teach. There will be opportunities to study scriptures, ponder, and pray. Caring people and a caring God want to know where you are.
+  1. **Shun the desire to become anonymous.** When difficulties arise, some want to fade into the crowd and become lost and unknown. Any thinking person will realize that there is a wonderful support system available to those who are listed on the records of the Church. There are those who will listen, help, and teach. There will be opportunities to study scriptures, ponder, and pray. Caring people and a caring God want to know where you are. 
 
 All need to be known, recognized, and loved. Hearts and souls reach out for
 nurturing and meaningful association. Even those who claim they just want to
@@ -135,9 +132,8 @@ become and who we are.
 
 While waiting, there are many ways to participate:
 
-  1. Participate with your family. Family members are priceless possessions. They offer love and strength. But even more, family members need each other. You can choose to be aware of the needs of each family member and do your part to help fill those needs. Some need a person to listen; some may need a compliment or positive reinforcement. There is strength and satisfaction in becoming involved in family projects. Encourage family love by being approachable even when you feel you have reason to turn away. The first step back in seeking family acceptance is to change oneself for the better. It is true today, true yesterday, and will be true tomorrow that effective leadership can only be administered through love.
-
-  1. Participate in Church functions and meetings. Accept opportunities to take appropriate assignments when given the opportunity. I will always be grateful to a good man who helped our boys on a continuing basis while it was not possible for him to take part in all the Church programs. He was well loved, and he loved the boys to whom he gave time and guidance.
+  1. **Participate with your family.** Family members are priceless possessions. They offer love and strength. But even more, family members need each other. You can choose to be aware of the needs of each family member and do your part to help fill those needs. Some need a person to listen; some may need a compliment or positive reinforcement. There is strength and satisfaction in becoming involved in family projects. Encourage family love by being approachable even when you feel you have reason to turn away. The first step back in seeking family acceptance is to change oneself for the better. It is true today, true yesterday, and will be true tomorrow that effective leadership can only be administered through love. 
+  1. **Participate in Church functions and meetings.** Accept opportunities to take appropriate assignments when given the opportunity. I will always be grateful to a good man who helped our boys on a continuing basis while it was not possible for him to take part in all the Church programs. He was well loved, and he loved the boys to whom he gave time and guidance. 
 
 Practice dependability and commitment. Adapt to existing conditions. There are
 places to serve where you are needed.
@@ -148,7 +144,7 @@ situations and resist new opportunities. Leaders must always be sensitive
 enough to look beyond restrictions and policies to the ultimate long-range
 needs of God's children.
 
-  1. Participate in worthy community projects, including compassionate and other volunteer services. Often our own problems seem to diminish when we become aware of the challenges faced by others. When my wife was volunteering as a pink lady at one of our local hospitals, she noticed that some of the doctors in the area would encourage their patients who were depressed, sad, or emotionally ill to join the volunteer organization. That prescription often worked better than medicine to build self-image and restore health to those who found joy in helping others.
+  1. **Participate in worthy community projects, including compassionate and other volunteer services.** Often our own problems seem to diminish when we become aware of the challenges faced by others. When my wife was volunteering as a pink lady at one of our local hospitals, she noticed that some of the doctors in the area would encourage their patients who were depressed, sad, or emotionally ill to join the volunteer organization. That prescription often worked better than medicine to build self-image and restore health to those who found joy in helping others. 
 
 As budget cuts plague so many of our cultural and civic programs, there is a
 place for anyone who desires to work with Scouts, help with reputable drives
@@ -160,7 +156,7 @@ to wait while God's children are in need of your love and service. Love should
 be a vehicle allowed to travel without limitations. Jesus was always supremely
 interested in the individual over the circumstances.
 
-  1. Participate in "reporting in." Part of your responsibility in coming back is to find someone with whom you can share your concerns, questions, and progress. John Powell, in his book _The Secret of Staying in Love,_ tells us that "the genius of communication is the ability to be both totally honest and totally kind at the same time" (Valencia, California: Tabor Publishing, 1974, p. 131).
+  1. **Participate in "reporting in."** Part of your responsibility in coming back is to find someone with whom you can share your concerns, questions, and progress. John Powell, in his book _The Secret of Staying in Love,_ tells us that "the genius of communication is the ability to be both totally honest and totally kind at the same time" (Valencia, California: Tabor Publishing, 1974, p. 131). 
 
 Look for this kind of person in your life. Problems often seem to diminish
 when they are vocalized. Another person's point of view may help you gain a
@@ -195,13 +191,15 @@ accompanying joys and rights to which you will be entitled. We will be at your
 side to help as you travel upward in a support system with God at the helm. We
 promise you in all the days ahead, that while you are going through what is
 identified as a waiting period, the quotation from Psalm 142:4 [[Ps.
-142:4](https://www.lds.org/scriptures/ot/ps/142.4?lang=eng#3)] will not be
-your relationship to us: "I looked on my right hand, and beheld, but there was
-no man that would know me: refuge failed me; no man cared for my soul."
+142:4](/scriptures/ot/ps/142.4?lang=eng#3)] will not be your relationship to
+us: "I looked on my right hand, and beheld, but there was no man that would
+know me: refuge failed me; no man cared for my soul."
 
 We love you. We know you, and we care for you. We are all God's children, and
 for members in The Church of Jesus Christ of Latter-day Saints and their
 treasured associates, there need be no waiting period. Instead we will work
 together for self-worth and ultimate victory in righteous achievement. To
 these truths I leave my witness in the name of Jesus Christ, amen.
+
+## References
 

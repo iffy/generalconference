@@ -1,4 +1,4 @@
-# Ward and Branch Families: Part of Heavenly Father’s Plan for Us
+# Ward and Branch Families:Part of Heavenly Father’s Plan for Us
 
 It is good to gather in this inspiring setting in the presence of thousands
 and thousands who are brought together through the satellite network. I
@@ -28,8 +28,7 @@ It is my desire and prayer that during the next few minutes we will expand our
 appreciation of the power of the ward family and renew our commitment to
 participate positively in that community of Saints.
 
-First, ward families provide a sense of belonging. Robert Frost said in his
-narrative poem "The Death of the Hired Man":
+**First, ward families provide a sense of belonging.** Robert Frost said in his narrative poem "The Death of the Hired Man":
 
 _Home is the place where, when you have to go there,_
 
@@ -47,9 +46,9 @@ different and valuable. Paul said:
 Gentiles, whether we be bond or free; ...
 
 "For the body is not one member, but many" ([1 Cor.
-12:13-14](https://www.lds.org/scriptures/nt/1-cor/12.13-14?lang=eng#12)). The
-Savior instructed that we should meet together often and forbid no one (see [3
-Ne. 18:22](https://www.lds.org/scriptures/bofm/3-ne/18.22?lang=eng#21)).
+12:13-14](/scriptures/nt/1-cor/12.13-14?lang=eng#12)). The Savior instructed
+that we should meet together often and forbid no one (see [3 Ne.
+18:22](/scriptures/bofm/3-ne/18.22?lang=eng#21)).
 
 Several months ago while visiting our children in another state, I walked with
 our 2 1/2-year-old grandson from the chapel to the nursery. As he moved rather
@@ -68,13 +67,7 @@ as many people as you can by name each week. Our wards will be better places
 if, like Benjamin, everyone hears his own name four or five times between the
 chapel and the classroom. We can each help that to happen.
 
-Next, ward families provide the reassurance of listening ears. Someone has
-said that people would rather be understood than be loved. In truth, the
-surest way to increase our love for someone is to listen with patience and
-respect. I believe that our baptismal covenant demands this. How can we "mourn
-with those that mourn" and "bear one another's burdens" ([Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7)) if we
-don't listen to know what those burdens are?
+**Next, ward families provide the reassurance of listening ears.** Someone has said that people would rather be understood than be loved. In truth, the surest way to increase our love for someone is to listen with patience and respect. I believe that our baptismal covenant demands this. How can we "mourn with those that mourn" and "bear one another's burdens" ([Mosiah 18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7)) if we don't listen to know what those burdens are?
 
 We discover and develop our thoughts through conversation. Talking itself is a
 sorting and learning process. We feel such comfort when others listen with the
@@ -87,14 +80,7 @@ blame others, and repeat negative tales, it takes self-discipline to stop
 ourselves from adding more fuel to their fire of disgruntlement. Mutual
 murmuring is a smoldering fire that can burst into flame and destroy a ward.
 
-Third, ward families provide encouragement. Becky and Danny's second child was
-born prematurely. Recounting the days, then weeks and years, of caring for a
-critically ill child, Becky says, "It was difficult for my mother to watch us
-dealing with this situation. She wished that she could take it away from me.
-We were living in a distant state, and Mother would call me on the phone and
-feel so helpless as she listened to our daily struggles. One day she said to
-me, 'Becky, I don't know how you will get through this, but I am confident
-that you can.' That encouragement was a turning point for me."
+**Third, ward families provide encouragement.** Becky and Danny's second child was born prematurely. Recounting the days, then weeks and years, of caring for a critically ill child, Becky says, "It was difficult for my mother to watch us dealing with this situation. She wished that she could take it away from me. We were living in a distant state, and Mother would call me on the phone and feel so helpless as she listened to our daily struggles. One day she said to me, 'Becky, I don't know how you will get through this, but I am confident that you can.' That encouragement was a turning point for me."
 
 As a ward family, we can give the kind of encouragement that Becky's mother
 gave.
@@ -126,26 +112,17 @@ class members use language and behavior which shows respect for others. No one
 should be belittled or made to feel less than he is within the walls of a
 Church classroom.
 
-Ward families are a refuge. I know a young family that lived in south Los
-Angeles during the violent summer of 1992. They could feel the heat from the
-fires as they sat terrified in their little apartment. They telephoned their
-parents in Salt Lake. Their families offered encouragement and their prayers.
-They could do no more at such a distance. It was a ward member who made
-arrangements for the Parkins to get themselves and their baby out safely. They
-stayed with members until they could go back to their apartment. They were
-safe.
+**Ward families are a refuge.** I know a young family that lived in south Los Angeles during the violent summer of 1992. They could feel the heat from the fires as they sat terrified in their little apartment. They telephoned their parents in Salt Lake. Their families offered encouragement and their prayers. They could do no more at such a distance. It was a ward member who made arrangements for the Parkins to get themselves and their baby out safely. They stayed with members until they could go back to their apartment. They were safe.
 
 Multiply this story by every natural and civil crisis. Bishops and quorum
 leaders accounting for families after hurricanes, members carrying food and
 blankets--it makes no difference where you live or what kind of chaos might
 occur, The Church of Jesus Christ of Latter-day Saints _will_ remain
 organized, and order _will_ prevail. The wards and stakes of Zion will be a
-"refuge from the storm" ([D&amp;C 115:6](https://www.lds.org/scriptures/dc-
+"refuge from the storm" ([D&amp;C 115:6](/scriptures/dc-
 testament/dc/115.6?lang=eng#5)).
 
-Ward families provide ways for us to contribute. There are no boundaries for
-contributing our time and talents. Hopefully, we will contribute everywhere we
-go, but the structure of a ward provides a good training ground.
+**Ward families provide ways for us to contribute.** There are no boundaries for contributing our time and talents. Hopefully, we will contribute everywhere we go, but the structure of a ward provides a good training ground.
 
 After living for twenty years in the same ward, I married and moved to a
 distant city, where my husband continued his schooling. The people were
@@ -164,25 +141,15 @@ proportionately. Callings and assignments are easy ways to become involved in
 the lives of others. Paradoxically, as we concentrate on the needs of others,
 our own needs become less controlling.
 
-Ward families provide a laboratory to learn and practice the gospel. A CTR B
-teacher taught a lesson on fasting. After talking with their parents, she
-arranged for the children to visit Brother Dibble, a ward member who was very
-ill. As they visited, Sister McRae explained that their class had learned in
-Primary about fasting. Most of the children had never fasted before, and it
-was their desire, as a class, to fast and pray for Brother Dibble on the
-following fast Sunday. With tears rolling down his cheeks, he expressed in
-tender words his gratitude--for them, the gospel, and the principle of
-fasting. On Sunday, having fasted, Sister McRae and her class members knelt
-together in their classroom to pray for Brother Dibble and conclude their
-fast.
+**Ward families provide a laboratory to learn and practice the gospel.** A CTR B teacher taught a lesson on fasting. After talking with their parents, she arranged for the children to visit Brother Dibble, a ward member who was very ill. As they visited, Sister McRae explained that their class had learned in Primary about fasting. Most of the children had never fasted before, and it was their desire, as a class, to fast and pray for Brother Dibble on the following fast Sunday. With tears rolling down his cheeks, he expressed in tender words his gratitude--for them, the gospel, and the principle of fasting. On Sunday, having fasted, Sister McRae and her class members knelt together in their classroom to pray for Brother Dibble and conclude their fast.
 
 I have always believed that if people are really going to learn something,
 they need more than an explanation; they need an experience. Alma taught that
 principle as he encouraged experimenting upon the word (see [Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26)). Sister
-McRae's CTR B children received both an explanation and an experience. They
-learned and practiced the doctrine of fasting in a wonderful laboratory of
-gospel learning--their ward.
+32:27](/scriptures/bofm/alma/32.27?lang=eng#26)). Sister McRae's CTR B
+children received both an explanation and an experience. They learned and
+practiced the doctrine of fasting in a wonderful laboratory of gospel learning
+--their ward.
 
 Like Sister McRae's CTR B class, young women are taught gospel principles
 during their Sunday lesson time. Then they are invited to "experiment on the
@@ -210,4 +177,6 @@ to make it that way.
 I bear witness that ward and branch families are a great and miraculous part
 of Heavenly Father's plan. May we use them more fully to help us grow and
 ultimately return to his presence, I pray, in the name of Jesus Christ, amen.
+
+## References
 

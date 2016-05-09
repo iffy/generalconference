@@ -27,8 +27,7 @@ Zebedee, and John his brother, in a ship with Zebedee their father, mending
 their nets; and he called them.
 
 "And they immediately left the ship and their father, and followed him."
-([Matt. 4:18-22](https://www.lds.org/scriptures/nt/matt/4.18-22?lang=eng#17);
-italics added.)
+([Matt. 4:18-22](/scriptures/nt/matt/4.18-22?lang=eng#17); italics added.)
 
 My remarks today are going to be centered around this key word, _straightway._
 "And they straightway left their nets, and followed him. How descriptive, how
@@ -40,15 +39,14 @@ it without hesitation or delay. The time is now.
 
 Joshua reminds us of the importance of making decisions promptly: "Choose you
 this day whom ye will serve; ... but as for me and my house, we will serve the
-Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).) Not
-tomorrow, not when we get ready, not when it is convenient--but "this day,"
-straightway, choose whom you will serve. He who invites us to follow will
-always be out in front of us with His Spirit and influence setting the pace.
-He has charted and marked the course, opened the gates, and shown the way. He
-has invited us to come unto Him, and the best time to enjoy His companionship
-is straightway. We can best get on the course and stay on the course by doing
-as Jesus did--make a total commitment to do the will of His Father.
+Lord." ([Josh. 24:15](/scriptures/ot/josh/24.15?lang=eng#14).) Not tomorrow,
+not when we get ready, not when it is convenient--but "this day," straightway,
+choose whom you will serve. He who invites us to follow will always be out in
+front of us with His Spirit and influence setting the pace. He has charted and
+marked the course, opened the gates, and shown the way. He has invited us to
+come unto Him, and the best time to enjoy His companionship is straightway. We
+can best get on the course and stay on the course by doing as Jesus did--make
+a total commitment to do the will of His Father.
 
 To straightway follow our Savior requires effort on our part. No longer does
 He personally walk the earth with us, but He has not left us alone. His
@@ -66,7 +64,7 @@ worthy goal.
 
 "If you will that I give unto you a place in the celestial world, you must
 prepare yourselves by doing the things which I have commanded you and required
-of you," said the Lord. ([D&amp;C 78:7](https://www.lds.org/scriptures/dc-
+of you," said the Lord. ([D&amp;C 78:7](/scriptures/dc-
 testament/dc/78.7?lang=eng#6).) To take that first step may require great
 courage, but somehow possibilities and potential strengths begin to appear
 once the decision to act positively is made. Unsuspected courage and strength
@@ -77,24 +75,23 @@ Jesus. Strength upon strength was added to him. He grew from the disciple who
 denied his Master thrice, to the man who could be intimidated by no man. When
 he and John were set in the midst of "Annas the high priest, ... and John, and
 Alexander, and as many as were of the kingdom of the high priest" ([Acts
-4:6](https://www.lds.org/scriptures/nt/acts/4.6?lang=eng#5)), Peter boldly
-declared that salvation comes because of Christ.
+4:6](/scriptures/nt/acts/4.6?lang=eng#5)), Peter boldly declared that
+salvation comes because of Christ.
 
 "Now when they saw the boldness of Peter and John, and perceived that they
 were unlearned and ignorant men, they marvelled; and they took knowledge of
 them, that they had been with Jesus." ([Acts
-4:13](https://www.lds.org/scriptures/nt/acts/4.13?lang=eng#12).)
+4:13](/scriptures/nt/acts/4.13?lang=eng#12).)
 
 The high priest could have brought great harm to these brethren, but he only
 dared to command them "not to speak at all nor teach in the name of Jesus.
 
-"But Peter and John answered and said ... , Whether it be right in the sight of
+"But Peter and John answered and said ..., Whether it be right in the sight of
 God to hearken unto you more than unto God, judge ye." ([Acts
-4:18-19](https://www.lds.org/scriptures/nt/acts/4.18-19?lang=eng#17).) In the
-face of threats, these Apostles were given added courage: "And with great
-power gave the apostles witness of the resurrection of the Lord Jesus: and
-great grace was upon them all." ([Acts
-4:33](https://www.lds.org/scriptures/nt/acts/4.33?lang=eng#32).)
+4:18-19](/scriptures/nt/acts/4.18-19?lang=eng#17).) In the face of threats,
+these Apostles were given added courage: "And with great power gave the
+apostles witness of the resurrection of the Lord Jesus: and great grace was
+upon them all." ([Acts 4:33](/scriptures/nt/acts/4.33?lang=eng#32).)
 
 By taking that first step straightway, Peter learned to be a fisher of men. He
 identified his goals, and as he moved towards them, he grew in strength,
@@ -102,10 +99,10 @@ power, and conviction.
 
 How wise and blessed we would be if we eliminated procrastination and made a
 decision to serve the Lord and accept His invitation to "Come, follow me."
-([Luke 18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).) Then
-when we have identified our goal, may we have the courage to act upon our
-decision, confident that added strength and power will be given according to
-our needs as we follow the Good Shepherd.
+([Luke 18:22](/scriptures/nt/luke/18.22?lang=eng#21).) Then when we have
+identified our goal, may we have the courage to act upon our decision,
+confident that added strength and power will be given according to our needs
+as we follow the Good Shepherd.
 
 As we plan to follow the Savior straightway, Satan may try to dissuade us by
 making the task look impossible, by making us doubt our worthiness or ability.
@@ -113,15 +110,15 @@ Each is different; each has his own strengths.
 
 Peter and Andrew were fishermen. Hence, in speaking in terms of their trade,
 the Savior said, "I will make you fishers of men." ([Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18).) To the
-carpenter, He would say, "I will make you builders of men." To the teachers,
-"I will make you teachers of men." No person has all the talents.
+4:19](/scriptures/nt/matt/4.19?lang=eng#18).) To the carpenter, He would say,
+"I will make you builders of men." To the teachers, "I will make you teachers
+of men." No person has all the talents.
 
 "For all have not every gift given unto them; for there are many gifts, and to
 every man is given a gift by the Spirit of God.
 
 "To some is given one, and to some is given another, that all may be profited
-thereby." ([D&amp;C 46:11-12](https://www.lds.org/scriptures/dc-
+thereby." ([D&amp;C 46:11-12](/scriptures/dc-
 testament/dc/46.11-12?lang=eng#10).)
 
 Wishing things were different in our lives, or waiting for a roadblock to be
@@ -174,15 +171,14 @@ actions or attitude toward us? Has our pride been hurt or our ego bruised?
 Have we jumped to conclusions without accurate facts?
 
 The Savior admonished, "Have peace one with another." ([Mark
-9:50](https://www.lds.org/scriptures/nt/mark/9.50?lang=eng#49).) Peace must
-first come from within. It flows from the individual to the home, to the
-community, to the nations, and to the world. This peace can only come as we
-resist the damaging pastime of passing judgment. In the scriptures we are
-warned to judge not, that we be not judged. (See [3 Ne.
-14:1](https://www.lds.org/scriptures/bofm/3-ne/14.1?lang=eng#0); [Matt.
-7:1](https://www.lds.org/scriptures/nt/matt/7.1?lang=eng#0).) Somehow there
-seems to be something enticing and intriguing about being a self-appointed
-judge.
+9:50](/scriptures/nt/mark/9.50?lang=eng#49).) Peace must first come from
+within. It flows from the individual to the home, to the community, to the
+nations, and to the world. This peace can only come as we resist the damaging
+pastime of passing judgment. In the scriptures we are warned to judge not,
+that we be not judged. (See [3 Ne.
+14:1](/scriptures/bofm/3-ne/14.1?lang=eng#0); [Matt.
+7:1](/scriptures/nt/matt/7.1?lang=eng#0).) Somehow there seems to be something
+enticing and intriguing about being a self-appointed judge.
 
 Many years ago I heard a story which I've always remembered. Perhaps I heard
 it when I was running around as a young barefoot boy.
@@ -220,7 +216,7 @@ can abdicate our responsibility, and we find ourselves hoping that other
 people or a change of conditions will solve our difficulties. Rather, it is
 our responsibility to repent--to change, and to move forward without delay.
 "Do not procrastinate the day of your repentance." ([Alma
-34:33](https://www.lds.org/scriptures/bofm/alma/34.33?lang=eng#32).)
+34:33](/scriptures/bofm/alma/34.33?lang=eng#32).)
 
 How comfortable some of us become as we nestle in the web of procrastination.
 It is a false haven of rest for those who are content to live without purpose,
@@ -229,7 +225,7 @@ commitment, or self-discipline.
 We must heed the words in Alma: "Behold, this life is the time for men to
 prepare to meet God; yea, behold the day of this life is the day for men to
 perform their labors." ([Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31).)
+34:32](/scriptures/bofm/alma/34.32?lang=eng#31).)
 
 Avoid procrastination. We can say with great accuracy procrastination is an
 unwholesome blend of doubt and delay. Oft-used words of the Savior such as
@@ -241,7 +237,7 @@ that leadeth to destruction, and many there be which go in thereat:
 
 "Because strait is the gate, and narrow is the way, which leadeth unto life,
 and few there be that find it." ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).)
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).)
 
 Do not doubt your abilities. Do not delay your worthy impressions. With God's
 help, you cannot fail. He will give you the courage to participate in
@@ -273,4 +269,6 @@ The gospel of Jesus Christ is true. Jesus Christ is our Redeemer and Savior.
 Happiness and eternal life are available to those who will follow Him
 straightway. To these truths I leave my witness and testimony in the name of
 Jesus Christ, amen.
+
+## References
 

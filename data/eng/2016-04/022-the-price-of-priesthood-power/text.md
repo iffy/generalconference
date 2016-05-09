@@ -166,3 +166,37 @@ help prepare the world for the Second Coming of our Savior, Jesus Christ. This
 is His Church, led today by His prophet, President Thomas S. Monson, whom I
 dearly love and sustain. I so testify in the name of Jesus Christ, amen.
 
+## References
+
+  1. See Russell M. Nelson, "[A Plea to My Sisters](https://www.lds.org/general-conference/2015/10/a-plea-to-my-sisters?lang=eng),"_ Ensign _or_ Liahona,_ Nov. 2015, 96.
+
+  2. [Doctrine and Covenants 84:18](https://www.lds.org/scriptures/dc-testament/dc/84.18?lang=eng#17).
+
+  3. See _Duties and Blessings of the Priesthood: Basic Manual for Priesthood Holders, Parts A_ and_ B_ (2000); see also [Alma 13:7-8](https://www.lds.org/scriptures/bofm/alma/13.7-8?lang=eng#6); [Doctrine and Covenants 84:17-20, 35-38](https://www.lds.org/scriptures/dc-testament/dc/84.17-20,35-38?lang=eng#16); [Moses 1:33, 35](https://www.lds.org/scriptures/pgp/moses/1.33,35?lang=eng#32).
+
+  4. See [Doctrine and Covenants 121:36](https://www.lds.org/scriptures/dc-testament/dc/121.36?lang=eng#35).
+
+  5. George Albert Smith, in Conference Report, Apr. 1905, 62; see also _The Teachings of George Albert Smith,_ ed. Robert and Susan McIntosh (1996), 17.
+
+  6. See [Genesis 25:29-34](https://www.lds.org/scriptures/ot/gen/25.29-34?lang=eng#28).
+
+  7. See [Genesis 12:3](https://www.lds.org/scriptures/ot/gen/12.3?lang=eng#2); [17:2-8](https://www.lds.org/scriptures/ot/gen/17.2-8?lang=eng#1); [Galatians 3:29](https://www.lds.org/scriptures/nt/gal/3.29?lang=eng#28); [1 Nephi 15:14-18](https://www.lds.org/scriptures/bofm/1-ne/15.14-18?lang=eng#13); [Abraham 2:9-11](https://www.lds.org/scriptures/pgp/abr/2.9-11?lang=eng#8).
+
+  8. See [Doctrine and Covenants 128:20](https://www.lds.org/scriptures/dc-testament/dc/128.20?lang=eng#19). The Savior, Moses, and Elijah (sometimes referred to as Elias) initially gave the keys to Peter, James, and John on the mount when Jesus was transfigured before them (see [Matthew 17:1-4](https://www.lds.org/scriptures/nt/matt/17.1-4?lang=eng#0); [Mark 9:2-9](https://www.lds.org/scriptures/nt/mark/9.2-9?lang=eng#1); [Luke 9:28-30](https://www.lds.org/scriptures/nt/luke/9.28-30?lang=eng#27); [Doctrine and Covenants 63:21](https://www.lds.org/scriptures/dc-testament/dc/63.21?lang=eng#20)).
+
+  9. [2 Peter 1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3).
+
+  10. See [2 Peter 1:5-10](https://www.lds.org/scriptures/nt/2-pet/1.5-10?lang=eng#4).
+
+  11. See [Doctrine and Covenants 4:6](https://www.lds.org/scriptures/dc-testament/dc/4.6?lang=eng#5) (note: here, in a revelation to Joseph Smith, the Lord added _humility_ to Peter's list).
+
+  12. See [1 Corinthians 12:4-11](https://www.lds.org/scriptures/nt/1-cor/12.4-11?lang=eng#3); [Moroni 10:8-17](https://www.lds.org/scriptures/bofm/moro/10.8-17?lang=eng#7); [Doctrine and Covenants 46:11](https://www.lds.org/scriptures/dc-testament/dc/46.11?lang=eng#10).
+
+  13. See [2 Nephi 32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2).
+
+  14. See [2 Nephi 31:2-21](https://www.lds.org/scriptures/bofm/2-ne/31.2-21?lang=eng#1).
+
+  15. See [Doctrine and Covenants 84:19-20](https://www.lds.org/scriptures/dc-testament/dc/84.19-20?lang=eng#18).
+
+  16. See [Doctrine and Covenants 45:33](https://www.lds.org/scriptures/dc-testament/dc/45.33?lang=eng#32).
+

@@ -138,14 +138,14 @@ and to sustain a new prophet. The Lord said to Joshua, and it applies likewise
 to President Lee: "There shall not any man be able to stand before thee all
 the days of thy life: as I was with Moses," the Lord says, "so I will be with
 thee: I will not fail thee, nor forsake thee." ([Josh.
-1:5](https://www.lds.org/scriptures/ot/josh/1.5?lang=eng#4).)
+1:5](/scriptures/ot/josh/1.5?lang=eng#4).)
 
 "And the people ... said ... we will serve the Lord.
 
 "The Lord God will we serve, and his voice will we obey.
 
 "So Joshua made a covenant with the people that day." ([Josh. 24:21,
-24-25](https://www.lds.org/scriptures/ot/josh/24.21%2C24-25?lang=eng#20).)
+24-25](/scriptures/ot/josh/24.21,24-25?lang=eng#20).)
 
 Let this then be our covenant today. An early leader said: "I look at our
 President--I always did watch the captain of the ship with peculiar interest,
@@ -225,4 +225,6 @@ Savior, the Lord Jesus Christ, the head of the Church. I bear testimony too
 that President Lee is a prophet of God, and if we will follow him, we will
 make great headway in the kingdom. I bear this testimony to you in all fervor
 and sincerity and in the name of Jesus Christ. Amen.
+
+## References
 

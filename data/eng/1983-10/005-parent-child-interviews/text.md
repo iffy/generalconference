@@ -15,8 +15,7 @@ with our children--is sometimes done in a dry and deadening manner. Is it
 possible that in our drive to perform or fulfill a Church expectancy we
 collide with purpose? Can we not become so obsessed with form that we forget
 family? If so, perhaps we should ask ourselves whether within we are "full of
-dead men's bones." ([Matt.
-23:27](https://www.lds.org/scriptures/nt/matt/23.27?lang=eng#26).)
+dead men's bones." ([Matt. 23:27](/scriptures/nt/matt/23.27?lang=eng#26).)
 
 When I think of dry performances, my mind turns to the ancients who altered
 the lesser law. They multiplied rituals, ceremonies, and symbols to the extent
@@ -29,21 +28,21 @@ teachings such as:
 
 "[You] must have no other object in view ... but to glorify God, and must not be
 influenced by any other motive than that of building his kingdom." ([JS--H
-1:46](https://www.lds.org/scriptures/pgp/js-h/1.46?lang=eng#45).)
+1:46](/scriptures/pgp/js-h/1.46?lang=eng#45).)
 
 "He that is greatest among you shall be your servant." ([Matt.
-23:11](https://www.lds.org/scriptures/nt/matt/23.11?lang=eng#10).)
+23:11](/scriptures/nt/matt/23.11?lang=eng#10).)
 
 "For the letter killeth, but the spirit giveth life." ([2 Cor.
-3:6](https://www.lds.org/scriptures/nt/2-cor/3.6?lang=eng#5).)
+3:6](/scriptures/nt/2-cor/3.6?lang=eng#5).)
 
 "When thou doest alms, let not thy left hand know what thy right hand doeth."
-([Matt. 6:3](https://www.lds.org/scriptures/nt/matt/6.3?lang=eng#2).)
+([Matt. 6:3](/scriptures/nt/matt/6.3?lang=eng#2).)
 
 Living performances are void of roteness and stiffness and self-centered
 tendencies. They are made by Saints who speak and act according to the
 feelings of their hearts and the Spirit of the Lord which is in them. (See [2
-Ne. 4:12](https://www.lds.org/scriptures/bofm/2-ne/4.12?lang=eng#11).)
+Ne. 4:12](/scriptures/bofm/2-ne/4.12?lang=eng#11).)
 
 Alma's interview with Helaman is a classic "wet" and refreshing performance.
 It is a short, three-question, forty-five-second exchange between father and
@@ -60,12 +59,12 @@ me."
 Alma's second question was simply: "Believest thou in Jesus Christ, who shall
 come?" Again, without delay, Helaman stated: "Yea, I believe all the words
 which thou hast spoken." (See [Alma
-45:2-5](https://www.lds.org/scriptures/bofm/alma/45.2-5?lang=eng#1).)
+45:2-5](/scriptures/bofm/alma/45.2-5?lang=eng#1).)
 
 What a tribute to the father! He had talked of Christ, rejoiced in Christ,
 preached of Christ, and taught his son to know the source to which he might
 look for a remission of his sins. (See [2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25).)
+25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25).)
 
 Up to this point in the interview, the father's questions were sampling the
 son's basic beliefs. Now it was essential that those beliefs be tested and
@@ -88,8 +87,7 @@ greatly. Not only had he communicated heart-to-heart and soul-to-soul with his
 son, but the son had openly declared his faith and pledged his devotion. To
 culminate the exchange, Alma, under the inspiration of the Spirit, prophesied
 and extended this blessing: "Blessed art thou; and the Lord shall prosper thee
-in this land." (See [Alma
-45:6-8](https://www.lds.org/scriptures/bofm/alma/45.6-8?lang=eng#5).)
+in this land." (See [Alma 45:6-8](/scriptures/bofm/alma/45.6-8?lang=eng#5).)
 
 I wonder if our interviews with our children are as inspirational and building
 as the one between Alma and Helaman. I find it significant that the father
@@ -155,4 +153,6 @@ confused with performances at the expense of the spirit underlying all
 commandments. May our interviews, our prayers, our communications with our
 children be sanctifying and free of dryness and "dead men's bones," I pray, in
 the name of Jesus Christ, amen.
+
+## References
 

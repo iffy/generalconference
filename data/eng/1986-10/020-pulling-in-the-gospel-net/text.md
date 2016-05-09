@@ -98,8 +98,7 @@ _temple_ for sacred ordinances, performed quietly and in solemn dignity.
 
 "A temple where the innermost room is named 'the celestial.' A temple where
 the faithful perform vicarious work according to Paul's statement on baptism
-for the dead ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28)).
+for the dead ([1 Cor. 15:29](/scriptures/nt/1-cor/15.29?lang=eng#28)).
 
 "All in consequence of the wisdom and calling of Joseph Smith. ...
 
@@ -160,7 +159,7 @@ caught that day. In the net were large and small fish of many kinds. Each
 villager put his hands to the net to help bring in the catch. The thought ran
 through my mind of the gathering of Israel in the last days as referred to in
 Jeremiah. The Lord said, "I will send for many fishers ... and they shall fish
-them" ([Jer. 16:16](https://www.lds.org/scriptures/ot/jer/16.16?lang=eng#15)).
+them" ([Jer. 16:16](/scriptures/ot/jer/16.16?lang=eng#15)).
 
 That, brethren and sisters, is the mission of all of us as members of the
 Church: to put our hands on the net and pull in thousands of fine men and
@@ -192,4 +191,6 @@ to represent the Church in Europe. I testify that God lives, that Jesus is the
 Christ, that President Ezra Taft Benson is our prophet, seer, and revelator,
 and that he bears the keys of the kingdom. I love this church with all my
 heart and will do my best to serve, in the name of Jesus Christ, amen.
+
+## References
 

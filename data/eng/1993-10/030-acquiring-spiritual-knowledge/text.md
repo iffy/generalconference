@@ -41,13 +41,10 @@ for your study. That statement of principle is:
 
 To acquire spiritual knowledge and to obey it with wisdom, one must:
 
-  * In humility, seek divine light.
-
-  * Exercise faith in Jesus Christ.
-
-  * Hearken to His counsel.
-
-  * Keep His commandments.
+  * In humility, seek divine light. 
+  * Exercise faith in Jesus Christ. 
+  * Hearken to His counsel. 
+  * Keep His commandments. 
 
 As spiritual knowledge unfolds, it must be _understood, valued, obeyed,
 remembered, _and_ expanded._
@@ -75,12 +72,10 @@ waves of worldliness.
 The following scriptures teach why we should _seek divine light._
 
 "Thy word is a lamp unto my feet, and a _light_ unto my path" ([Ps.
-119:105](https://www.lds.org/scriptures/ot/ps/119.105?lang=eng#104); emphasis
-added).
+119:105](/scriptures/ot/ps/119.105?lang=eng#104); emphasis added).
 
 "I, the Lord, ... will be a _light_ unto them forever, that hear my words" ([2
-Ne. 10:14](https://www.lds.org/scriptures/bofm/2-ne/10.14?lang=eng#13);
-emphasis added).
+Ne. 10:14](/scriptures/bofm/2-ne/10.14?lang=eng#13); emphasis added).
 
 "It is I that speak; ... I am the _light_ which shineth in darkness, and by my
 power I give these words unto thee. ...
@@ -93,7 +88,7 @@ shall fill your soul with joy;
 
 "And ... by this shall you know, all things whatsoever you desire of me, which
 are pertaining unto things of righteousness, in faith believing in me that you
-shall receive" ([D&amp;C 11:11-14](https://www.lds.org/scriptures/dc-
+shall receive" ([D&amp;C 11:11-14](/scriptures/dc-
 testament/dc/11.11-14?lang=eng#10); emphasis added).
 
 Analogies with physical light help us understand the power of spiritual light.
@@ -118,7 +113,7 @@ truth, saying:
 "But the natural man receiveth not the things of the Spirit of God: for they
 are foolishness unto him: neither can he know them, because they are
 spiritually discerned" ([1 Cor. 2:11,
-14](https://www.lds.org/scriptures/nt/1-cor/2.11%2C14?lang=eng#10)).
+14](/scriptures/nt/1-cor/2.11,14?lang=eng#10)).
 
 Since it requires much personal effort to gain and use worthwhile knowledge,
 you cannot endlessly sample from every fascinating arena of life. Therefore,
@@ -158,8 +153,8 @@ the Spirit enlighteneth every man through the world, that hearkeneth to the
 voice of the Spirit.
 
 "And every one that hearkeneth to the voice of the Spirit cometh unto ... the
-Father" ([D&amp;C 84:43-47](https://www.lds.org/scriptures/dc-
-testament/dc/84.43-47?lang=eng#42); emphasis added).
+Father" ([D&amp;C 84:43-47](/scriptures/dc-testament/dc/84.43-47?lang=eng#42);
+emphasis added).
 
 The role of _obedience_ in gaining spiritual knowledge is crucial, as this
 comment of President Joseph Fielding Smith confirms:
@@ -190,8 +185,8 @@ piece at a time through faith, with great exertion, and at times wrenching
 struggles. The Lord intends it be that way so that we can mature and progress.
 Moroni said, "Dispute not because ye see not, for ye receive no witness until
 after the trial of your faith" ([Ether
-12:6](https://www.lds.org/scriptures/bofm/ether/12.6?lang=eng#5)). To explain
-that truth, President Harold B. Lee gave this wise instruction:
+12:6](/scriptures/bofm/ether/12.6?lang=eng#5)). To explain that truth,
+President Harold B. Lee gave this wise instruction:
 
 "The Savior's blood, His atonement, will save us, but only after we have done
 all we can to save ourselves by keeping His commandments. All of the
@@ -202,15 +197,11 @@ Deseret Book Co., 1974, p. 245).
 As packets of knowledge unfold, they must be understood, valued, obeyed,
 remembered, and expanded. I'll explain:
 
-  * _Understood._ As each element of truth is encountered, you must carefully examine it in the light of prior knowledge to determine where it fits. Ponder it; inspect it inside out. Study it from every vantage point to discover hidden meaning. View it in perspective to confirm you have not jumped to false conclusions. Prayerful reflection yields further understanding. Such evaluation is particularly important when the truth comes as an impression of the Spirit.
-
-  * _Valued._ You show knowledge is valued by expressing appreciation for it, especially in heartfelt prayers of gratitude. The Lord said: "He who receiveth all things with thankfulness shall be made glorious; and the things of this earth shall be added unto him, even an hundred fold, yea, more" ([D&amp;C 78:19](https://www.lds.org/scriptures/dc-testament/dc/78.19?lang=eng#18)).
-
-  * _Obeyed._ Obedient application of truth is the surest way of making it eternally yours. The wise use of knowledge will permeate your life with its precious fruit.
-
-  * _Remembered._ Powerful spiritual direction in your life can be overcome or forced into the background unless you provide a way to retain it. Brigham Young declared, "If you love the truth you can remember it" (_Discourses of Brigham Young,_ sel. John A. Widtsoe, Salt Lake City: Deseret Book Co., 1954, p. 10). Knowledge carefully recorded is knowledge available in time of need. Spiritually sensitive information should be kept in a sacred place that communicates to the Lord how you treasure it. That practice enhances the likelihood of your receiving further light.
-
-  * _Expanded. _This thought refers to rich benefits that come from your efforts to enlarge, extend, and increase your understanding of truth. Use the scriptures and the declarations of the prophets to expand your knowledge. You will find that efforts to share knowledge are often rewarded with more understanding as additional light flows into your mind and heart (see [D&amp;C 8:2-3](https://www.lds.org/scriptures/dc-testament/dc/8.2-3?lang=eng#1)).
+  * _Understood._ As each element of truth is encountered, you must carefully examine it in the light of prior knowledge to determine where it fits. Ponder it; inspect it inside out. Study it from every vantage point to discover hidden meaning. View it in perspective to confirm you have not jumped to false conclusions. Prayerful reflection yields further understanding. Such evaluation is particularly important when the truth comes as an impression of the Spirit. 
+  * _Valued._ You show knowledge is valued by expressing appreciation for it, especially in heartfelt prayers of gratitude. The Lord said: "He who receiveth all things with thankfulness shall be made glorious; and the things of this earth shall be added unto him, even an hundred fold, yea, more" ([D&amp;C 78:19](/scriptures/dc-testament/dc/78.19?lang=eng#18)). 
+  * _Obeyed._ Obedient application of truth is the surest way of making it eternally yours. The wise use of knowledge will permeate your life with its precious fruit. 
+  * _Remembered._ Powerful spiritual direction in your life can be overcome or forced into the background unless you provide a way to retain it. Brigham Young declared, "If you love the truth you can remember it" (_Discourses of Brigham Young,_ sel. John A. Widtsoe, Salt Lake City: Deseret Book Co., 1954, p. 10). Knowledge carefully recorded is knowledge available in time of need. Spiritually sensitive information should be kept in a sacred place that communicates to the Lord how you treasure it. That practice enhances the likelihood of your receiving further light. 
+  * _Expanded. _This thought refers to rich benefits that come from your efforts to enlarge, extend, and increase your understanding of truth. Use the scriptures and the declarations of the prophets to expand your knowledge. You will find that efforts to share knowledge are often rewarded with more understanding as additional light flows into your mind and heart (see [D&amp;C 8:2-3](/scriptures/dc-testament/dc/8.2-3?lang=eng#1)). 
 
 We have come to the end of a great conference. Through its messages, you have
 been given inspired truth without much effort on your part. Make these truths
@@ -236,4 +227,6 @@ I solemnly testify that Jesus Christ guides this, His church. He knows and
 loves you personally. As you walk in faithful obedience, He will bless you,
 inspire you, and lead you to greater knowledge and capacity. I certify that He
 lives, in the name of Jesus Christ, amen.
+
+## References
 

@@ -7,19 +7,18 @@ One of the last charges the Savior gave His apostles was, "Go ye into all the
 world, and preach the gospel to every creature.
 
 "He that believeth and is baptized shall be saved; but he that believeth not
-shall be damned." ([Mark
-16:15-16](https://www.lds.org/scriptures/nt/mark/16.15-16?lang=eng#14).)
+shall be damned." ([Mark 16:15-16](/scriptures/nt/mark/16.15-16?lang=eng#14).)
 
 God's church has always been a missionary church, and we are required by
 modern revelation to take the restored gospel to every nation, kindred,
-tongue, and people. (See [D&amp;C 133:37](https://www.lds.org/scriptures/dc-
+tongue, and people. (See [D&amp;C 133:37](/scriptures/dc-
 testament/dc/133.37?lang=eng#36).)
 
 We have also been told that "there are many yet on the earth among all sects,
 parties, and denominations, who are blinded by the subtle craftiness of men,
 whereby they lie in wait to deceive, and who are only kept from the truth
-because they know not where to find it." ([D&amp;C
-123:12](https://www.lds.org/scriptures/dc-testament/dc/123.12?lang=eng#11).)
+because they know not where to find it." ([D&amp;C 123:12](/scriptures/dc-
+testament/dc/123.12?lang=eng#11).)
 
 We invite those who are seeking truth and a better way of life to sincerely
 investigate our message. It will answer the questions "What is the purpose of
@@ -39,11 +38,9 @@ the missionaries to teach.
 A three-point formula for members to be successful finding and fellowshipping
 missionaries consists of:
 
-  1. Living the gospel principles. Thousands join the Church each year as they are attracted to the Church by the life of a good member.
-
-  2. Beginning a gospel conversation by asking your friends and neighbors what they know about the Church. Whether they know little or much, we can follow with another question: "Would you like to know more?" If they would like to know more, invite them into your home to be taught the gospel by the missionaries. If it is impossible to invite them into your home, send their names to the missionaries so that they can follow up. Many of these referrals can give the missionaries the names of other interested persons, and this can go on indefinitely, if pursued with enthusiasm.
-
-  3. Inviting your friends and neighbors to Church meetings, socials, and other events. When they are fellowshipped, it is much easier for them to make the necessary social transition.
+  1. Living the gospel principles. Thousands join the Church each year as they are attracted to the Church by the life of a good member. 
+  2. Beginning a gospel conversation by asking your friends and neighbors what they know about the Church. Whether they know little or much, we can follow with another question: "Would you like to know more?" If they would like to know more, invite them into your home to be taught the gospel by the missionaries. If it is impossible to invite them into your home, send their names to the missionaries so that they can follow up. Many of these referrals can give the missionaries the names of other interested persons, and this can go on indefinitely, if pursued with enthusiasm. 
+  3. Inviting your friends and neighbors to Church meetings, socials, and other events. When they are fellowshipped, it is much easier for them to make the necessary social transition. 
 
 When the referral and fellowshipping program is effective, it makes it
 possible for the missionaries to spend more time teaching, resulting in more
@@ -116,7 +113,7 @@ the missionaries to teach; and as they are being taught, the members can
 fellowship them before and after their baptism. And truly as the apostle Paul
 wrote to the Ephesians, "Ye are no more strangers and foreigners, but
 fellowcitizens with the saints, and of the household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).)
+2:19](/scriptures/nt/eph/2.19?lang=eng#18).)
 
 May we get the vision of more than 3 1/2 million member missionaries bringing
 souls into the kingdom of God and feeling the joy and happiness that comes
@@ -138,4 +135,6 @@ head of the Church today, our beloved President Spencer W. Kimball.
 Let us increase our effectiveness in missionary work in order that the kingdom
 of God may go forth at an accelerated rate, so that the kingdom of heaven may
 come. In the name of Jesus Christ, amen.
+
+## References
 

@@ -1,11 +1,11 @@
 # A Witness and a Warning
 
 The Lord has declared this "a day of warning, and not a day of many words"
-([D&amp;C 63:58](https://www.lds.org/scriptures/dc-
-testament/dc/63.58?lang=eng#57)). My message is a witness and warning about
-some of the evils which threaten America--a land I love with all my heart.
-There are other countries with this same problem. You who have seen these
-dangers in the land you love will have a deep feeling for what I will say.
+([D&amp;C 63:58](/scriptures/dc-testament/dc/63.58?lang=eng#57)). My message
+is a witness and warning about some of the evils which threaten America--a
+land I love with all my heart. There are other countries with this same
+problem. You who have seen these dangers in the land you love will have a deep
+feeling for what I will say.
 
 America is a place of many great events. Here is where Adam dwelt, where the
 Garden of Eden was located. America was the place of former civilizations,
@@ -25,8 +25,7 @@ everlasting decree of God. ...
 "Behold, this is a choice land, and whatsoever nation shall possess it shall
 be free from bondage, and from captivity, and from all other nations under
 heaven, if they will but serve the God of the land, who is Jesus Christ"
-([Ether 2:10,
-12](https://www.lds.org/scriptures/bofm/ether/2.10%2C12?lang=eng#9)).
+([Ether 2:10, 12](/scriptures/bofm/ether/2.10,12?lang=eng#9)).
 
 The eventful destiny of America has also been revealed to God's prophets. To
 Joseph Smith the Lord revealed that "the whole of America is Zion itself from
@@ -34,11 +33,11 @@ north to south" (_Teachings of the Prophet Joseph Smith,_ sel. Joseph Fielding
 Smith, Salt Lake City: Deseret Book Company, 1938, p. 362). Further, the Lord
 decreed this land to be "the place of the New Jerusalem, which should come
 down out of heaven, ... the holy sanctuary of the Lord" ([Ether
-13:3](https://www.lds.org/scriptures/bofm/ether/13.3?lang=eng#2)). To serve
-God's eternal purposes and to prepare this land for Zion, God "established the
-Constitution of this land, by the hands of wise men whom [He] raised up ... and
-redeemed the land by the shedding of blood" ([D&amp;C
-101:80](https://www.lds.org/scriptures/dc-testament/dc/101.80?lang=eng#79)).
+13:3](/scriptures/bofm/ether/13.3?lang=eng#2)). To serve God's eternal
+purposes and to prepare this land for Zion, God "established the Constitution
+of this land, by the hands of wise men whom [He] raised up ... and redeemed the
+land by the shedding of blood" ([D&amp;C 101:80](/scriptures/dc-
+testament/dc/101.80?lang=eng#79)).
 
 The Constitution of the United States was ratified in 1789. The priesthood of
 God was restored in 1829. Between those two dates is an interval of forty
@@ -56,13 +55,13 @@ continents ... are henceforth not to be considered as subjects for future
 colonization by any European powers."
 
 The Lord had promised, "I will fortify this land against all other nations"
-([2 Ne. 10:12](https://www.lds.org/scriptures/bofm/2-ne/10.12?lang=eng#11)).
-President Joseph Fielding Smith said that "the greatest and most powerful
-fortification in America is the 'Monroe Doctrine.' ... It was the inspiration of
-the Almighty which rested upon John Quincy Adams, Thomas Jefferson and other
-statesmen, and which finally found authoritative expression in the message of
-James Monroe to Congress in the year 1823" (_The Progress Of Man,_ Salt Lake
-City: Deseret Book Co., pp. 466-67).
+([2 Ne. 10:12](/scriptures/bofm/2-ne/10.12?lang=eng#11)). President Joseph
+Fielding Smith said that "the greatest and most powerful fortification in
+America is the 'Monroe Doctrine.' ... It was the inspiration of the Almighty
+which rested upon John Quincy Adams, Thomas Jefferson and other statesmen, and
+which finally found authoritative expression in the message of James Monroe to
+Congress in the year 1823" (_The Progress Of Man,_ Salt Lake City: Deseret
+Book Co., pp. 466-67).
 
 Thus, in that four-decade period the United States had grown to sufficient
 strength that she was able to provide a cradle of liberty for the restored
@@ -76,7 +75,7 @@ among men. Isaiah also predicted there would be those who would "seek deep to
 hide their counsel from the Lord, and their works are in the dark, and they
 say, Who seeth us?" He saw the time when the work shall say of him that made
 it, "He made me not" ([Isa.
-29:15-16](https://www.lds.org/scriptures/ot/isa/29.15-16?lang=eng#14)).
+29:15-16](/scriptures/ot/isa/29.15-16?lang=eng#14)).
 
 It is well to ask, what system established secret works of darkness to
 overthrow nations by violent revolution? Who blasphemously proclaimed the
@@ -189,18 +188,18 @@ holocaust of destruction.
 
 _First:_ We must return to worship the God of this land, who is Jesus Christ.
 He has promised that the righteous will be preserved by His power (see [1 Ne.
-22:17](https://www.lds.org/scriptures/bofm/1-ne/22.17?lang=eng#16)). But we
-must keep the commandments of God. We must pay our tithes and offerings, keep
-the Sabbath day a holy day, stay morally clean, be honest in all our dealings,
-and have our family and personal prayers. We must live the gospel.
+22:17](/scriptures/bofm/1-ne/22.17?lang=eng#16)). But we must keep the
+commandments of God. We must pay our tithes and offerings, keep the Sabbath
+day a holy day, stay morally clean, be honest in all our dealings, and have
+our family and personal prayers. We must live the gospel.
 
 _Second:_ We must awaken to "a sense of [our] awful situation, because of this
 secret combination which [is] among [us]" ([Ether
-8:24](https://www.lds.org/scriptures/bofm/ether/8.24?lang=eng#23)). We must
-not tolerate accommodation with or appeasement toward the false system of
-Communism. We must demand of our elected officials that we not only resist
-Communism, but that we will take every measure to prevent its intrusion into
-this hemisphere. It is vital that we invoke the Monroe Doctrine.
+8:24](/scriptures/bofm/ether/8.24?lang=eng#23)). We must not tolerate
+accommodation with or appeasement toward the false system of Communism. We
+must demand of our elected officials that we not only resist Communism, but
+that we will take every measure to prevent its intrusion into this hemisphere.
+It is vital that we invoke the Monroe Doctrine.
 
 Then we must put our trust in Him who has promised us His protection--and pray
 that He will intervene to preserve our freedom just as He intervened in our
@@ -209,7 +208,7 @@ obtaining it in the first place.
 _Third:_ We must do as the Lord commanded us by revelation in 1833:
 "Wherefore, honest men and wise men should be sought for diligently, and good
 men and wise men ye should observe to uphold; otherwise whatsoever is less
-than these cometh of evil" ([D&amp;C 98:10](https://www.lds.org/scriptures/dc-
+than these cometh of evil" ([D&amp;C 98:10](/scriptures/dc-
 testament/dc/98.10?lang=eng#9)).
 
 Men who are wise, good, and honest, who will uphold the Constitution of the
@@ -239,4 +238,6 @@ do all we can to preserve our liberty.
 
 May God bless us that, with His help, we will not fail to bring to pass His
 purposes on earth. In the name of Jesus Christ, amen.
+
+## References
 

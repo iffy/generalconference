@@ -12,17 +12,17 @@ Lehi understood this when he said to his son Jacob, "Wherefore, men are free
 according to the flesh; and all things are given them which are expedient unto
 man. And they are free to choose liberty and eternal life, through the great
 Mediator of all men, or to choose captivity and death" ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)).
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)).
 
 He further explained that men "have become free forever, knowing good from
 evil; to act for themselves and not to be acted upon, save it be by the
 punishment of the law ... according to the commandments which God hath given"
-([2 Ne. 2:26](https://www.lds.org/scriptures/bofm/2-ne/2.26?lang=eng#25)).
+([2 Ne. 2:26](/scriptures/bofm/2-ne/2.26?lang=eng#25)).
 
 On one occasion the Lord explained that it was his desire that "every man may
 act in doctrine and principle pertaining to futurity, according to the moral
 agency ... given unto him, that every man may be accountable" ([D&amp;C
-101:78](https://www.lds.org/scriptures/dc-testament/dc/101.78?lang=eng#77)).
+101:78](/scriptures/dc-testament/dc/101.78?lang=eng#77)).
 
 When we understand what is right and what is wrong, we are in a position to
 exercise our freedom in making choices. In so doing, we must stand accountable
@@ -50,15 +50,14 @@ We are told in the scriptures that prior to the creation of this earth, fully
 one-third of all the hosts who contemplated the challenges of mortal life
 allowed themselves to be deluded into thinking that there were acceptable
 alternatives to the essential risks that accompany the exercise of agency and
-free will (see [Abr.
-3:27-28](https://www.lds.org/scriptures/pgp/abr/3.27-28?lang=eng#26); [Rev.
-12:4](https://www.lds.org/scriptures/nt/rev/12.4?lang=eng#3)). The price they
-paid is beyond comprehension. Today we are being encouraged to accept greater
-responsibility for the allocation of our time, for our spiritual development
-through personal and family study of the gospel, and for giving loving
-Christian service. We must be willing to respond to this new challenge. Our
-willingness to accept this added accountability will exert an influence that
-will reach far beyond our Sunday worship service and religious life.
+free will (see [Abr. 3:27-28](/scriptures/pgp/abr/3.27-28?lang=eng#26); [Rev.
+12:4](/scriptures/nt/rev/12.4?lang=eng#3)). The price they paid is beyond
+comprehension. Today we are being encouraged to accept greater responsibility
+for the allocation of our time, for our spiritual development through personal
+and family study of the gospel, and for giving loving Christian service. We
+must be willing to respond to this new challenge. Our willingness to accept
+this added accountability will exert an influence that will reach far beyond
+our Sunday worship service and religious life.
 
 Unless we retain a vibrant desire to be free, and unless we understand and
 practice the principles that give life to essential freedoms, we have little
@@ -76,7 +75,7 @@ determination is essential to one's spiritual development. With an
 understanding of correct principles and an intrinsic desire to apply them, one
 must be motivated within himself to do many good things of his own free will;
 for, as the revelation says, the power is in him wherein he is an agent unto
-himself (see [D&amp;C 58:27-28](https://www.lds.org/scriptures/dc-
+himself (see [D&amp;C 58:27-28](/scriptures/dc-
 testament/dc/58.27-28?lang=eng#26)).
 
 In preserving our freedom for self-determination, we cannot ignore the need
@@ -140,4 +139,6 @@ promise. They lead to eternal progress. Humanity cannot fulfill its destiny
 when these truths are disregarded and abused. I cherish them with all my soul
 and am unreservedly committed to their promulgation among all the peoples of
 the earth. In the name of Jesus Christ, amen.
+
+## References
 

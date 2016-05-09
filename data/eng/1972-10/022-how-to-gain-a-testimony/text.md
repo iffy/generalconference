@@ -80,8 +80,8 @@ Jesus Christ to the Gentiles and to the Jews also;
 
 "Proving to the world that the holy scriptures are true, and that God does
 inspire men and call them to his holy work in this age and generation, as well
-as in generations of old." ([D&amp;C 20:8-9,
-11](https://www.lds.org/scriptures/dc-testament/dc/20.8-9%2C11?lang=eng#7).)
+as in generations of old." ([D&amp;C 20:8-9, 11](/scriptures/dc-
+testament/dc/20.8-9,11?lang=eng#7).)
 
 The Book of Mormon, then, has been brought forth to convince mankind that
 Jesus is the Christ and that the holy scriptures are true and that God is
@@ -108,7 +108,7 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:3-5](https://www.lds.org/scriptures/bofm/moro/10.3-5?lang=eng#2).)
+([Moro. 10:3-5](/scriptures/bofm/moro/10.3-5?lang=eng#2).)
 
 The three steps, then, in seeking a testimony of the truthfulness of the
 gospel from the Lord himself are to read, ponder, and pray with real intent
@@ -160,4 +160,6 @@ heritage which the children have a right to receive! To all men, both member
 and nonmember, comes the invitation from the God of this earth to learn for
 themselves the truth. May all who have not received the knowledge accept the
 invitation of the Savior is my prayer in the name of Jesus Christ. Amen.
+
+## References
 

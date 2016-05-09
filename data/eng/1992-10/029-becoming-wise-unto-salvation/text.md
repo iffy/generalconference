@@ -34,41 +34,40 @@ Do the members of the Church truly understand the importance of the messages
 spoken from this pulpit in general conference sessions and other special
 meetings held in the Tabernacle? Do they understand their responsibility to
 "hear the voice of the Lord" through the voice of his servants? ([D&amp;C
-1:14](https://www.lds.org/scriptures/dc-testament/dc/1.14?lang=eng#13).) For
-certainly, "whether by [the Lord's] voice or by the voice of [his] servants,
-it is the same." ([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37).)
+1:14](/scriptures/dc-testament/dc/1.14?lang=eng#13).) For certainly, "whether
+by [the Lord's] voice or by the voice of [his] servants, it is the same."
+([D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).)
 
 Do our members understand that the inspired counsel and direction they receive
 from the leaders of the Church come as a voice of warning from a loving
 Heavenly Father who knows the various calamities that "should come upon the
-inhabitants of the earth"? ([D&amp;C 1:17](https://www.lds.org/scriptures/dc-
+inhabitants of the earth"? ([D&amp;C 1:17](/scriptures/dc-
 testament/dc/1.17?lang=eng#16).) "The anger of the Lord _is_ kindled, and his
 sword _is_ bathed in heaven, and it shall fall upon the inhabitants of the
-earth." ([D&amp;C 1:13](https://www.lds.org/scriptures/dc-
-testament/dc/1.13?lang=eng#12); emphasis added.)
+earth." ([D&amp;C 1:13](/scriptures/dc-testament/dc/1.13?lang=eng#12);
+emphasis added.)
 
 "Wherefore the voice of the Lord is unto the ends of the earth, that all that
-will hear may hear." ([D&amp;C 1:11](https://www.lds.org/scriptures/dc-
+will hear may hear." ([D&amp;C 1:11](/scriptures/dc-
 testament/dc/1.11?lang=eng#10).)
 
-Because many "know not where to find it" ([D&amp;C
-123:12](https://www.lds.org/scriptures/dc-testament/dc/123.12?lang=eng#11)),
-people of the world are impoverished for the word of God, spoken in clarity
-and plainness by true servants of the Lord and lived in a spirit of obedience
-by his disciples. Spiritually bankrupt lives of individuals and families stand
-as mute testimony of the futility of attempting to live in today's society
-without revealed direction from our Heavenly Father through his prophets and
-Apostles. How much of the evil in the world, how much of the suffering and
-sorrow and sadness could be eliminated if people would hearken to the inspired
-instructions of the leaders of the Church spoken from this pulpit.
+Because many "know not where to find it" ([D&amp;C 123:12](/scriptures/dc-
+testament/dc/123.12?lang=eng#11)), people of the world are impoverished for
+the word of God, spoken in clarity and plainness by true servants of the Lord
+and lived in a spirit of obedience by his disciples. Spiritually bankrupt
+lives of individuals and families stand as mute testimony of the futility of
+attempting to live in today's society without revealed direction from our
+Heavenly Father through his prophets and Apostles. How much of the evil in the
+world, how much of the suffering and sorrow and sadness could be eliminated if
+people would hearken to the inspired instructions of the leaders of the Church
+spoken from this pulpit.
 
 We are concerned at the number of lives being lived in relative spiritual
 darkness when available to each are the words of the prophets in our day. And
 these prophetic utterances become a "lamp unto [the] feet, and a light unto
 [the] path" of each of Heavenly Father's children willing to listen and then
 live in conformity with revealed truth. ([Ps.
-119:105](https://www.lds.org/scriptures/ot/ps/119.105?lang=eng#104).)
+119:105](/scriptures/ot/ps/119.105?lang=eng#104).)
 
 President Benson has taught: "Success in righteousness, the power to avoid
 deception and resist temptation, guidance in our daily lives, healing of the
@@ -130,8 +129,7 @@ mind and will of the Father." (In Conference Report, Apr. 1945, p. 90.)
 What of the volumes of teachings from our beloved prophet and President Ezra
 Taft Benson? He is now in the fiftieth year of service as a special witness of
 the Lord Jesus Christ. Like Moses, his hands have become somewhat heavy from
-his ministry ([Ex.
-17:11-12](https://www.lds.org/scriptures/ot/ex/17.11-12?lang=eng#10)), but his
+his ministry ([Ex. 17:11-12](/scriptures/ot/ex/17.11-12?lang=eng#10)), but his
 words, spoken from this pulpit throughout his inspired ministry, will continue
 to bless the lives of the faithful.
 
@@ -156,4 +154,6 @@ God and that this Church, and its work of bringing souls to Christ, rests
 solidly upon the foundation of the goodness, faith, and unity of our living
 Apostles and prophets. Jesus Christ lives and is the very cornerstone of this
 work of salvation. In the name of Jesus Christ, amen.
+
+## References
 

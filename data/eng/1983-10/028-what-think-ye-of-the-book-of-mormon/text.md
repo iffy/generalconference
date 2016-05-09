@@ -119,8 +119,8 @@ try.
 The divine authorization contained these provisos: "Remember that without
 faith you can do nothing; therefore ask in faith. Trifle not with these
 things; do not ask for that which you ought not. ... And according to your faith
-shall it be done unto you." ([D&amp;C 8:10-11](https://www.lds.org/scriptures
-/dc-testament/dc/8.10-11?lang=eng#9).)
+shall it be done unto you." ([D&amp;C 8:10-11](/scriptures/dc-
+testament/dc/8.10-11?lang=eng#9).)
 
 Oliver tried to translate and failed. Then came the divine word: "Behold, you
 have not understood; you have supposed that I would give it unto you, when you
@@ -130,7 +130,7 @@ his power lay; he had expected the Lord to do it all merely because he asked.
 "But, behold, I say unto you," the divine word continued, "that you must study
 it out in your mind; then you must ask me if it be right, and if it is right I
 will cause that your bosom shall burn within you; therefore, you shall feel
-that it is right." ([D&amp;C 9:7-8](https://www.lds.org/scriptures/dc-
+that it is right." ([D&amp;C 9:7-8](/scriptures/dc-
 testament/dc/9.7-8?lang=eng#6).)
 
 Now, if the Book of Mormon is true, our acceptance of it will lead to
@@ -159,8 +159,8 @@ This test is for saint and sinner alike; it is for Jew and Gentile, for bond
 and free, for black and white, for all of our Father's children. We have all
 been commanded to search the scriptures, to treasure up the Lord's word, to
 live by every word that proceedeth forth from the mouth of God. (See [D&amp;C
-84:44](https://www.lds.org/scriptures/dc-testament/dc/84.44?lang=eng#43).)
-This, then, is the test:
+84:44](/scriptures/dc-testament/dc/84.44?lang=eng#43).) This, then, is the
+test:
 
 Let every person make a list of from one hundred to two hundred doctrinal
 subjects, making a conscious effort to cover the whole field of gospel
@@ -232,4 +232,6 @@ of the Holy Ghost to my soul, that the Book of Mormon is true. And, knowing
 that I will be accountable for that witness before the bar of the great
 Jehovah when he judges all men, I testify that as he lives the Book of Mormon
 is true, in the name of Jesus Christ, amen.
+
+## References
 

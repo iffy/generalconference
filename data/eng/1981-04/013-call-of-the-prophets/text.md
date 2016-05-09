@@ -34,8 +34,7 @@ that. I suppose that it would be almost impossible to believe that God was
 naive enough to choose a fourteen-year-old boy to usher in the dispensation of
 the fulness of times, as Paul said, in which dispensation he would "gather
 together in one all things in Christ, both which are in heaven, and which are
-on earth." ([Eph.
-1:10](https://www.lds.org/scriptures/nt/eph/1.10?lang=eng#9).)
+on earth." ([Eph. 1:10](/scriptures/nt/eph/1.10?lang=eng#9).)
 
 That opens the door for the consideration of another beautiful principle, and
 that is the principle of the premortal existence of spirits, that we are
@@ -45,15 +44,14 @@ before we came here upon this earth.
 The Apostle Paul said that the Lord "hath made of one blood all nations of men
 for to dwell on all the face of the earth, and hath determined the times
 before appointed, and the bounds of their habitation." ([Acts
-17:26](https://www.lds.org/scriptures/nt/acts/17.26?lang=eng#25).) And he
-said: "We have had fathers of our flesh which corrected us, and we gave them
-reverence: shall we not much rather be in subjection unto the Father of
-spirits, and live?" ([Heb.
-12:9](https://www.lds.org/scriptures/nt/heb/12.9?lang=eng#8).) I like the
-thought that he is my father. When Jesus prayed, he didn't pray, "_My_ Father
-which art in heaven"; he prayed, "_Our_ Father which art in heaven" ([Matt.
-6:9](https://www.lds.org/scriptures/nt/matt/6.9?lang=eng#8)), and that is a
-wonderful thing. That is why our Primary children sing "I am a child of God."
+17:26](/scriptures/nt/acts/17.26?lang=eng#25).) And he said: "We have had
+fathers of our flesh which corrected us, and we gave them reverence: shall we
+not much rather be in subjection unto the Father of spirits, and live?" ([Heb.
+12:9](/scriptures/nt/heb/12.9?lang=eng#8).) I like the thought that he is my
+father. When Jesus prayed, he didn't pray, "_My_ Father which art in heaven";
+he prayed, "_Our_ Father which art in heaven" ([Matt.
+6:9](/scriptures/nt/matt/6.9?lang=eng#8)), and that is a wonderful thing. That
+is why our Primary children sing "I am a child of God."
 
 The Lord has his own way of calling prophets. He knew them before they were
 ever born here in mortality. We read in the Book of Abraham that the Lord
@@ -61,33 +59,31 @@ stood in the midst of the spirits, and among them there were noble and great
 ones--and they couldn't be noble and great if they hadn't done something to
 make them noble and great. The Lord said of them: "These I will make my
 rulers; ... Abraham, thou art one of them; thou was chosen before thou wast
-born." ([Abr.
-3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21).) Isn't
-that a beautiful thought? The Lord stood in the midst of those spirits, and
-there were some there who became his prophets here in mortality.
+born." ([Abr. 3:22-23](/scriptures/pgp/abr/3.22-23?lang=eng#21).) Isn't that a
+beautiful thought? The Lord stood in the midst of those spirits, and there
+were some there who became his prophets here in mortality.
 
 We read about Jeremiah when he was called to be a prophet. He couldn't
 understand it, and the Lord said: "Before I formed thee in the belly I knew
 thee; and before thou camest forth out of the womb I sanctified thee, and I
 ordained thee a prophet unto the nations." ([Jer.
-1:5](https://www.lds.org/scriptures/ot/jer/1.5?lang=eng#4).) The Lord couldn't
-have ordained him if he didn't exist, and he wouldn't have ordained him before
-he was born if he hadn't done something in that spiritual life to prepare him
-to become one of the Lord's mouthpieces here upon this earth. The same thing
-is true with the Prophet Joseph. I will come back to that.
+1:5](/scriptures/ot/jer/1.5?lang=eng#4).) The Lord couldn't have ordained him
+if he didn't exist, and he wouldn't have ordained him before he was born if he
+hadn't done something in that spiritual life to prepare him to become one of
+the Lord's mouthpieces here upon this earth. The same thing is true with the
+Prophet Joseph. I will come back to that.
 
 We read that there was war in heaven--that "Michael and his angels fought
 against the dragon," and the dragon (or Satan) was cast down to the earth, and
 the cry went out: "Wo to the inhabiters of the earth ... for the devil is come
 down unto you, having great wrath" ([Rev. 12:7-9,
-12](https://www.lds.org/scriptures/nt/rev/12.7-9%2C12?lang=eng#6)), and he
-"walketh about, seeking whom he can devour" ([1 Pet.
-5:8](https://www.lds.org/scriptures/nt/1-pet/5.8?lang=eng#7)). And that is
-what he has been doing. He drew a third of the host of heaven with him (see
-[Rev. 12:4](https://www.lds.org/scriptures/nt/rev/12.4?lang=eng#3)), and when
-they were cast out, that third of the host of heaven brought with them the
-knowledge that they had in the spirit world, while our knowledge was
-temporarily taken from us through our birth into mortality.
+12](/scriptures/nt/rev/12.7-9,12?lang=eng#6)), and he "walketh about, seeking
+whom he can devour" ([1 Pet. 5:8](/scriptures/nt/1-pet/5.8?lang=eng#7)). And
+that is what he has been doing. He drew a third of the host of heaven with him
+(see [Rev. 12:4](/scriptures/nt/rev/12.4?lang=eng#3)), and when they were cast
+out, that third of the host of heaven brought with them the knowledge that
+they had in the spirit world, while our knowledge was temporarily taken from
+us through our birth into mortality.
 
 The Apostle Paul said: "For we know in part, and we prophesy in part.
 
@@ -96,7 +92,7 @@ done away. ...
 
 "For now we see through a glass, darkly; but then face to face: now I know in
 part; but then shall I know even as also I am known." ([1 Cor. 13:9-10,
-12](https://www.lds.org/scriptures/nt/1-cor/13.9-10%2C12?lang=eng#8).)
+12](/scriptures/nt/1-cor/13.9-10,12?lang=eng#8).)
 
 To me, that says there will be a complete restoration of all that we knew
 before we came here into mortality when we lived in the spirit world.
@@ -109,19 +105,17 @@ beginning was the Word, and the Word was with God, and the Word was God.
 made.
 
 "In him was life; and the life was the light of men." ([John 1:1, 3,
-4](https://www.lds.org/scriptures/nt/john/1.1%2C3%2C4?lang=eng#0).)
+4](/scriptures/nt/john/1.1,3,4?lang=eng#0).)
 
 Then it goes on: "And the Word was made flesh, and dwelt among us (and we
 beheld his glory, the glory as of the only begotten of the Father), full of
-grace and truth." ([John
-1:14](https://www.lds.org/scriptures/nt/john/1.14?lang=eng#13).)
+grace and truth." ([John 1:14](/scriptures/nt/john/1.14?lang=eng#13).)
 
 According to this scripture, Jesus created everything; nevertheless, when he
 was born into mortality he had to learn to walk and talk like other children.
 At the age of twelve, we find him reasoning with the wise men in the temple,
 and later on he said: "The Son can do nothing of himself, but what he seeth
-the Father do." ([John
-5:19](https://www.lds.org/scriptures/nt/john/5.19?lang=eng#18).)
+the Father do." ([John 5:19](/scriptures/nt/john/5.19?lang=eng#18).)
 
 Now, because Satan brought with him the knowledge that he had in the spirit
 world, he knew whom he had fought against in that war in heaven and he has
@@ -137,7 +131,7 @@ not!
 
 "Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh
 in the name of the Lord." ([Matt.
-23:37-39](https://www.lds.org/scriptures/nt/matt/23.37-39?lang=eng#36).)
+23:37-39](/scriptures/nt/matt/23.37-39?lang=eng#36).)
 
 Today we are coming because we have been sent in the name of the Lord. Like
 Paul said,
@@ -147,7 +141,7 @@ Paul said,
 "And how shall they hear without a preacher?
 
 "And how shall they preach, except they be sent?" ([Rom. 10:17,
-14-15](https://www.lds.org/scriptures/nt/rom/10.17%2C14-15?lang=eng#16).)
+14-15](/scriptures/nt/rom/10.17,14-15?lang=eng#16).)
 
 We have been sent.
 
@@ -174,16 +168,15 @@ noble and great ones that God said he would make his rulers.
 We read in the Book of Mormon that when Lehi was in the desert, he told his
 son Joseph that the Lord had promised Joseph who was sold into Egypt that in
 the latter days He would raise up a prophet from his loins like unto Moses.
-(See [2 Ne.
-3:6-9](https://www.lds.org/scriptures/bofm/2-ne/3.6-9?lang=eng#5).) And we are
-told in holy writ that there was no prophet in Israel like unto Moses because
-he walked and talked with God. (See [Deut.
-34:10](https://www.lds.org/scriptures/ot/deut/34.10?lang=eng#9).) This is the
-kind of prophet that, three thousand years before Joseph Smith was born, the
-Lord promised Joseph of Egypt He would raise up through his loins. He said his
-name should be Joseph, and his father's name should be Joseph; and he said:
-"Unto him will I give power to bring forth my word." ([2 Ne. 3:11,
-15](https://www.lds.org/scriptures/bofm/2-ne/3.11%2C15?lang=eng#10).)
+(See [2 Ne. 3:6-9](/scriptures/bofm/2-ne/3.6-9?lang=eng#5).) And we are told
+in holy writ that there was no prophet in Israel like unto Moses because he
+walked and talked with God. (See [Deut.
+34:10](/scriptures/ot/deut/34.10?lang=eng#9).) This is the kind of prophet
+that, three thousand years before Joseph Smith was born, the Lord promised
+Joseph of Egypt He would raise up through his loins. He said his name should
+be Joseph, and his father's name should be Joseph; and he said: "Unto him will
+I give power to bring forth my word." ([2 Ne. 3:11,
+15](/scriptures/bofm/2-ne/3.11,15?lang=eng#10).)
 
 The Prophet Joseph Smith brought us the Book of Mormon, the Doctrine and
 Covenants, the Pearl of Great Price, and many other writings. As far as our
@@ -191,21 +184,19 @@ records show, he has given us more revealed truth than any prophet who has
 ever lived upon the face of the earth. And the Lord said: "And not to the
 bringing forth my word only, ... but to the convincing them of my word, which
 shall have already gone forth among them." ([2 Ne.
-3:11](https://www.lds.org/scriptures/bofm/2-ne/3.11?lang=eng#10).) What did he
-mean by that? That in the midst of these hundreds of churches of men--the
-result of men's interpretations of the scriptures because they can't agree,
-and these churches keep multiplying--that the Lord would give to this new
-prophet the ability to comprehend the scriptures that had already been sent
-forth among them.
+3:11](/scriptures/bofm/2-ne/3.11?lang=eng#10).) What did he mean by that? That
+in the midst of these hundreds of churches of men--the result of men's
+interpretations of the scriptures because they can't agree, and these churches
+keep multiplying--that the Lord would give to this new prophet the ability to
+comprehend the scriptures that had already been sent forth among them.
 
 Then he adds that he shall "bring my people unto salvation." ([2 Ne.
-3:15](https://www.lds.org/scriptures/bofm/2-ne/3.15?lang=eng#14).) Why?
-Because he would receive the holy priesthood, the power to administer the
-saving ordinances of the gospel. Then he adds, "And I will make him great in
-mine eyes." ([2 Ne.
-3:8](https://www.lds.org/scriptures/bofm/2-ne/3.8?lang=eng#7).) Whatever the
-world may think of the Prophet Joseph Smith, there is the statement of the
-Lord that he would be great in His eyes.
+3:15](/scriptures/bofm/2-ne/3.15?lang=eng#14).) Why? Because he would receive
+the holy priesthood, the power to administer the saving ordinances of the
+gospel. Then he adds, "And I will make him great in mine eyes." ([2 Ne.
+3:8](/scriptures/bofm/2-ne/3.8?lang=eng#7).) Whatever the world may think of
+the Prophet Joseph Smith, there is the statement of the Lord that he would be
+great in His eyes.
 
 Now I would like to tell you of a little experience I had in the mission field
 that illustrates what I think the Lord meant when he indicated that not only
@@ -235,4 +226,6 @@ I could tell you many more stories like that!
 God bless you! Thank God for the restoration of the gospel through the Prophet
 Joseph Smith. I leave you my testimony, in the name of the Lord Jesus Christ,
 amen.
+
+## References
 

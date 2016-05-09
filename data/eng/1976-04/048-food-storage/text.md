@@ -56,17 +56,12 @@ plant gardens and fruit trees and raise rabbits or chickens. Do all you can
 within the laws of your community, and the Lord will bless you when the time
 of need comes. Now here are some suggestions how:
 
-  1. Follow the prophet. He has counseled us to plant a garden and fruit trees. This year don't just think about it--do it. Grow all the food you possibly can. Also remember to buy a year's supply of garden seeds so that, in case of a shortage, you will have them for the following spring. I'm going to tell you where to get the money for all the things I'm going to suggest.
-
-  2. Find someone who sells large bulk of grains, depending on your locale. Make arrangements to buy a ton or so of grain.
-
-  3. Find someone who sells honey in large containers and make arrangements to buy what you can afford on a regular basis or buy a little additional sugar each time you go to the store.
-
-  4. Purchase dry milk from the store or dairy, on a systematic basis.
-
-  5. Buy a case of salt the next time you go to the store. In most areas, 24 one-pound packages will cost you less than $5.
-
-  6. Store enough water for each member of your family to last for at least two weeks.
+  1. Follow the prophet. He has counseled us to plant a garden and fruit trees. This year don't just think about it--do it. Grow all the food you possibly can. Also remember to buy a year's supply of garden seeds so that, in case of a shortage, you will have them for the following spring. I'm going to tell you where to get the money for all the things I'm going to suggest. 
+  2. Find someone who sells large bulk of grains, depending on your locale. Make arrangements to buy a ton or so of grain. 
+  3. Find someone who sells honey in large containers and make arrangements to buy what you can afford on a regular basis or buy a little additional sugar each time you go to the store. 
+  4. Purchase dry milk from the store or dairy, on a systematic basis. 
+  5. Buy a case of salt the next time you go to the store. In most areas, 24 one-pound packages will cost you less than $5. 
+  6. Store enough water for each member of your family to last for at least two weeks. 
 
 Where the foods I mentioned are not available or are not basic in your culture
 or area, make appropriate substitutions.
@@ -77,19 +72,13 @@ but I'm having a hard time making ends meet."
 Here is how you do it. Use any one or all of these suggestions, some of which
 may not be applicable in your country:
 
-  1. Decide as a family this year that 25 or 50 percent of your Christmas will be spent on a year's supply. Many families in the Church spend considerable sums of money for Christmas. Half or part of these Christmas monies will go a long way toward purchasing the basics. I recall the Scotsman who went to the doctor and had an X-ray taken of his chest. Then he had the X-ray gift-wrapped and gave it to his wife for their anniversary. He couldn't afford a gift, but he wanted her to know his heart was in the right place. Brethren, give your wife a year's supply of wheat for Christmas, and she'll know your heart is in the right place.
-
-  2. When you desire new clothes, don't buy them. Repair and mend and make your present wardrobe last a few months longer. Use that money for the food basics. Make all of your nonfood necessities that you feasibly can, such as furniture and clothing.
-
-  3. Cut the amount of money you spend on recreation by 50 percent. Do fun things that do not require money outlay but make more lasting impressions on your children.
-
-  4. Decide as a family that there will be no vacation or holiday next year unless you have your year's supply. Many Church members could buy a full year's supply of the basics from what they would save by not taking a vacation. Take the vacation time and work on a family garden. Be together, and it can be just as much fun.
-
-  5. If you haven't a year's supply yet and you do have boats, snowmobiles, campers, or other luxury possessions, sell or trade one or two or more of them and get your year's supply.
-
-  6. Watch advertised specials in the grocery stores and pick up extra supplies of those items that are of exceptional value.
-
-  7. Change the mix in your family's diet. Get your protein from sources less expensive than meat. The grocery bill is one bill that can be cut. Every time you enter the store and feel tempted by effective and honest merchandising to buy cookies, candy, ice cream, non-food items, or magazines--don't! Think carefully; buy only the essentials. Then figure what you have saved and spend it on powdered milk, sugar, honey, salt, or grain.
+  1. Decide as a family this year that 25 or 50 percent of your Christmas will be spent on a year's supply. Many families in the Church spend considerable sums of money for Christmas. Half or part of these Christmas monies will go a long way toward purchasing the basics. I recall the Scotsman who went to the doctor and had an X-ray taken of his chest. Then he had the X-ray gift-wrapped and gave it to his wife for their anniversary. He couldn't afford a gift, but he wanted her to know his heart was in the right place. Brethren, give your wife a year's supply of wheat for Christmas, and she'll know your heart is in the right place. 
+  2. When you desire new clothes, don't buy them. Repair and mend and make your present wardrobe last a few months longer. Use that money for the food basics. Make all of your nonfood necessities that you feasibly can, such as furniture and clothing. 
+  3. Cut the amount of money you spend on recreation by 50 percent. Do fun things that do not require money outlay but make more lasting impressions on your children. 
+  4. Decide as a family that there will be no vacation or holiday next year unless you have your year's supply. Many Church members could buy a full year's supply of the basics from what they would save by not taking a vacation. Take the vacation time and work on a family garden. Be together, and it can be just as much fun. 
+  5. If you haven't a year's supply yet and you do have boats, snowmobiles, campers, or other luxury possessions, sell or trade one or two or more of them and get your year's supply. 
+  6. Watch advertised specials in the grocery stores and pick up extra supplies of those items that are of exceptional value. 
+  7. Change the mix in your family's diet. Get your protein from sources less expensive than meat. The grocery bill is one bill that can be cut. Every time you enter the store and feel tempted by effective and honest merchandising to buy cookies, candy, ice cream, non-food items, or magazines--don't! Think carefully; buy only the essentials. Then figure what you have saved and spend it on powdered milk, sugar, honey, salt, or grain. 
 
 The Lord will make it possible, if we make a firm commitment, for every
 Latter-day Saint family to have a year's supply of food reserves by April
@@ -121,17 +110,17 @@ _have_ to share--we _get_ to share! Let us not be concerned about silly
 thoughts of whether we would share or not. Of course we would share! What
 would Jesus do? I could not possibly eat food and see my neighbors starving.
 And if you starve to death after sharing, "greater love hath no man than this
-..." ([John 15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+..." ([John 15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 Now what about those who would plunder and break in and take that which we
 have stored for our families' needs? Don't give this one more idle thought.
 There is a God in heaven whom we have obeyed. Do you suppose he would abandon
 those who have kept his commandments? He said, "If ye are prepared, ye need
-not fear." ([D&amp;C 38:30](https://www.lds.org/scriptures/dc-
-testament/dc/38.30?lang=eng#29).) Prepare, O men of Zion, and fear not. Let
-Zion put on her beautiful garments. Let us put on the full armor of God. Let
-us be pure in heart, love mercy, be just, and stand in holy places. Commit to
-have a year's supply of food by April 1977.
+not fear." ([D&amp;C 38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+Prepare, O men of Zion, and fear not. Let Zion put on her beautiful garments.
+Let us put on the full armor of God. Let us be pure in heart, love mercy, be
+just, and stand in holy places. Commit to have a year's supply of food by
+April 1977.
 
 Bishops and stake presidents, let us accept the challenge on behalf of the
 Saints in our wards and stakes. It will prove to be a very Christlike deed on
@@ -166,4 +155,6 @@ I bear my humble witness to you that the great God of heaven will open doors
 and means in a way we never would have supposed to help all those who truly
 want to get their year's supply. I know we will have time and money if we will
 commit and keep the commitment. In the name of Jesus Christ. Amen.
+
+## References
 

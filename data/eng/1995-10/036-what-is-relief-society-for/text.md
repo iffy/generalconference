@@ -53,12 +53,12 @@ men and women. May I reference it as it applies particularly to us: "Have
 fervent charity among yourselves. ... Use hospitality one to another without
 grudging. As every [woman] hath received the gift, even so minister the same
 one to another, as good stewards of the manifold grace of God" ([1 Pet.
-4:8-10](https://www.lds.org/scriptures/nt/1-pet/4.8-10?lang=eng#7)). How I
-would like to transfer the power of that scripture to every Relief Society
-meeting yet to be held. Would that something could happen every time that
-would cause each woman present--whether married or single, working at home or
-away from home, momentarily secure or immediately desperate--to feel her
-Heavenly Father's Spirit and her sisters' unfeigned love and encouragement.
+4:8-10](/scriptures/nt/1-pet/4.8-10?lang=eng#7)). How I would like to transfer
+the power of that scripture to every Relief Society meeting yet to be held.
+Would that something could happen every time that would cause each woman
+present--whether married or single, working at home or away from home,
+momentarily secure or immediately desperate--to feel her Heavenly Father's
+Spirit and her sisters' unfeigned love and encouragement.
 
 Remember, my sisters: "Charity never faileth." This is more than our motto. It
 is our divine commission. As sisters, let us love one another and love our
@@ -72,7 +72,7 @@ shall be well with [her].
 "Wherefore, my beloved [sisters], pray unto the Father with all the energy of
 heart, that ye may be filled with this love, which he hath bestowed upon all
 who are true followers of his Son, Jesus Christ" ([Moro.
-7:46-48](https://www.lds.org/scriptures/bofm/moro/7.46-48?lang=eng#45)).
+7:46-48](/scriptures/bofm/moro/7.46-48?lang=eng#45)).
 
 The Relief Society was organized by God's prophet Joseph and has been led and
 is led today by a prophet so that we may become true followers of Jesus
@@ -87,12 +87,12 @@ once told me that when her husband died and she was left to rear their six
 children, she relied on the teachings of the Bible for direction. She often
 pondered the meaning of Proverbs 13, verse 24, which is interpreted widely as
 "spare the rod and spoil the child." [[Prov.
-13:24](https://www.lds.org/scriptures/ot/prov/13.24?lang=eng#23)] When she
-joined the Church she turned to the Book of Mormon, too, for understanding.
-There she found mention of another rod, the word of God which leads one along
-the path to the tree of life. Then she understood that sparing _this_ rod
-would certainly spoil her children. Thus, she has learned to order her home,
-to bring the light of the gospel, to save the souls of her children.
+13:24](/scriptures/ot/prov/13.24?lang=eng#23)] When she joined the Church she
+turned to the Book of Mormon, too, for understanding. There she found mention
+of another rod, the word of God which leads one along the path to the tree of
+life. Then she understood that sparing _this_ rod would certainly spoil her
+children. Thus, she has learned to order her home, to bring the light of the
+gospel, to save the souls of her children.
 
 I saw Sister Mavimbela again very recently when she received an award at
 Brigham Young University, and she has enlarged her sphere. In conversation she
@@ -109,16 +109,15 @@ Zina D. H. Young, who began to visit one another in Nauvoo for the purpose of
 feeding hungry families and shoring up struggling faith in difficult times.
 This is what Relief Society is for: to make of us women who can nourish body
 and soul, who can "succor [God's children] according to their infirmities"
-([Alma 7:12](https://www.lds.org/scriptures/bofm/alma/7.12?lang=eng#11)). This
-is the work our Savior did, and it is the work to which he called us when he
-ordered this society under the direction of the priesthood.
+([Alma 7:12](/scriptures/bofm/alma/7.12?lang=eng#11)). This is the work our
+Savior did, and it is the work to which he called us when he ordered this
+society under the direction of the priesthood.
 
 To speak so simply of Sister Mavimbela's work can make it sound simple. We
 know it is not. These are complicated times whether we live in Soweto or San
 Francisco, Sapporo or Sao Paulo. It is so complicated in fact that "if
 possible, they shall deceive the very elect, who are the elect according to
-the covenant" ([JS--M
-1:22](https://www.lds.org/scriptures/pgp/js-m/1.22?lang=eng#21)). What will
+the covenant" ([JS--M 1:22](/scriptures/pgp/js-m/1.22?lang=eng#21)). What will
 make it not possible for his disciples to be deceived is the capacity to
 discern the voice of truth from among all others that ask for our obedience.
 The word of God given us in scripture is, indeed, an iron rod which leads us
@@ -133,45 +132,45 @@ truth. He likens knowing the truth to receiving "living water"; that is, water
 that is _fit_ to drink: pure, running water. He tells the woman at the well:
 "If thou knewest the gift of God, and who it is that saith to thee, Give me to
 drink; thou wouldest have asked of him, and he would have given thee living
-water" ([John 4:10](https://www.lds.org/scriptures/nt/john/4.10?lang=eng#9)).
-When I think of lifesaving water and of wells, I also think of Hagar (see
-[Gen. 21:14-20](https://www.lds.org/scriptures/ot/gen/21.14-20?lang=eng#13)).
-Hers is a complicated family story. She is forced alone into the wilderness of
-Beersheba with her young son, Ishmael. In due time the water and bread she has
-taken with her into the desert are consumed, and thirst and hunger overwhelm
-her and her little boy. Because she cannot bear to hear the cries of her son,
-the record tells us that she puts him in a shaded place and goes "a good way
-off" ([Gen. 21:16](https://www.lds.org/scriptures/ot/gen/21.16?lang=eng#15)).
-There, she lifts up her voice and weeps. In response, an angel of God speaks
-comfort to her and reminds her that she is not forsaken. Then, we are told,
-"God opened her eyes, and she _saw_ a well of water" ([Gen.
-21:19](https://www.lds.org/scriptures/ot/gen/21.19?lang=eng#18); emphasis
-added). We, like Hagar, are required to see "a well of water." We, like the
-woman at the well, must ask of the Lord: "Give me this water, that I thirst
-not" ([John 4:15](https://www.lds.org/scriptures/nt/john/4.15?lang=eng#14)).
-This is the purpose of Relief Society. It teaches us as daughters of God how
-to see and how to ask for that which we need of the Lord so that we need not
-thirst again. Remember the Prophet Joseph's promise to us that through this
-society we "shall rejoice, and knowledge and intelligence shall flow."
+water" ([John 4:10](/scriptures/nt/john/4.10?lang=eng#9)). When I think of
+lifesaving water and of wells, I also think of Hagar (see [Gen.
+21:14-20](/scriptures/ot/gen/21.14-20?lang=eng#13)). Hers is a complicated
+family story. She is forced alone into the wilderness of Beersheba with her
+young son, Ishmael. In due time the water and bread she has taken with her
+into the desert are consumed, and thirst and hunger overwhelm her and her
+little boy. Because she cannot bear to hear the cries of her son, the record
+tells us that she puts him in a shaded place and goes "a good way off" ([Gen.
+21:16](/scriptures/ot/gen/21.16?lang=eng#15)). There, she lifts up her voice
+and weeps. In response, an angel of God speaks comfort to her and reminds her
+that she is not forsaken. Then, we are told, "God opened her eyes, and she
+_saw_ a well of water" ([Gen. 21:19](/scriptures/ot/gen/21.19?lang=eng#18);
+emphasis added). We, like Hagar, are required to see "a well of water." We,
+like the woman at the well, must ask of the Lord: "Give me this water, that I
+thirst not" ([John 4:15](/scriptures/nt/john/4.15?lang=eng#14)). This is the
+purpose of Relief Society. It teaches us as daughters of God how to see and
+how to ask for that which we need of the Lord so that we need not thirst
+again. Remember the Prophet Joseph's promise to us that through this society
+we "shall rejoice, and knowledge and intelligence shall flow."
 
 We must act so as to receive this promise. It does not come by removing
 ourselves "a good way off." Sisters, I ask you to stand close to one another.
 Love one another, even cherish one another that you may have the Spirit to
 teach you "the truth of all things" ([Moro.
-10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4)). Instruct one
-another. Look with the discernment God has given you through the gift of the
-Holy Ghost. Listen for the still, small voice. I ask you to seek instruction
-in the word of God, both as written in the scriptures to prophets of old and
-as spoken tonight by a living prophet. See the well. Ask for the water that
-you "thirst not." Obtain the promises which are held out to you by a loving
-Father in Heaven through the atonement of his Only Begotten Son, he who
-promised, "Whosoever drinketh of the water that I shall give [her] shall never
-thirst; but the water that I shall give [her] shall be in [her] a well of
-water springing up into everlasting life" ([John
-4:14](https://www.lds.org/scriptures/nt/john/4.14?lang=eng#13)).
+10:5](/scriptures/bofm/moro/10.5?lang=eng#4)). Instruct one another. Look with
+the discernment God has given you through the gift of the Holy Ghost. Listen
+for the still, small voice. I ask you to seek instruction in the word of God,
+both as written in the scriptures to prophets of old and as spoken tonight by
+a living prophet. See the well. Ask for the water that you "thirst not."
+Obtain the promises which are held out to you by a loving Father in Heaven
+through the atonement of his Only Begotten Son, he who promised, "Whosoever
+drinketh of the water that I shall give [her] shall never thirst; but the
+water that I shall give [her] shall be in [her] a well of water springing up
+into everlasting life" ([John 4:14](/scriptures/nt/john/4.14?lang=eng#13)).
 
 I testify that this is true, that we are bound together in his church by his
 priesthood power to be able to build his kingdom on earth and to rejoice in
 our knowledge of him. And this I say in the name of the Lord Jesus Christ,
 amen.
+
+## References
 

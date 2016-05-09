@@ -4,13 +4,13 @@ In the book of John, we read the famous dialogue between Pontius Pilate and
 Jesus of Nazareth. The Savior was an enigma to the Roman. He asked, "Art thou
 a king ..." Jesus answered, "To this end was I born, and for this cause came I
 into the world, that I should bear witness unto the truth." ([John
-18:37](https://www.lds.org/scriptures/nt/john/18.37?lang=eng#36).)
+18:37](/scriptures/nt/john/18.37?lang=eng#36).)
 
 Pilate turned away, asking the question of the ages, "What is truth?" ([John
-18:38](https://www.lds.org/scriptures/nt/john/18.38?lang=eng#37).) He did not
-wait for an answer. I doubt he expected one. Pilate was aware that "truth" had
-been a favorite subject for debate by Roman and Greek philosophers for
-centuries, and remained the quest of philosophy.
+18:38](/scriptures/nt/john/18.38?lang=eng#37).) He did not wait for an answer.
+I doubt he expected one. Pilate was aware that "truth" had been a favorite
+subject for debate by Roman and Greek philosophers for centuries, and remained
+the quest of philosophy.
 
 It is not my purpose today to discuss truth in the abstract. I would speak of
 the practice of truth. It is both principle and application.
@@ -28,19 +28,19 @@ to live it." (_Power of Truth,_ Salt Lake City: Deseret Book Co., 1935, p. 3.)
 
 As Latter-day Saints, we are committed to the principles of truth. We seek the
 truth; we believe the truth; and we know the "truth will make us free." (See
-[John 8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31).) To be
-genuine disciples, we must have harmony between the principles that we profess
-and the truths we practice.
+[John 8:32](/scriptures/nt/john/8.32?lang=eng#31).) To be genuine disciples,
+we must have harmony between the principles that we profess and the truths we
+practice.
 
 We must be like the people of Ammon, who were "distinguished for their zeal
 towards God, and also towards men; for they were perfectly honest and upright
 in all things; and they were firm in the faith of Christ, even unto the end."
-([Alma 27:27](https://www.lds.org/scriptures/bofm/alma/27.27?lang=eng#26).)
+([Alma 27:27](/scriptures/bofm/alma/27.27?lang=eng#26).)
 
 Our souls must be more than "whited sepulchres," which appear praiseworthy but
 inside are hollow chambers bereft of goodness. (See [Matt.
-23:27](https://www.lds.org/scriptures/nt/matt/23.27?lang=eng#26).) We must not
-only _seem_ but also _be_ what God would expect of His sons and daughters.
+23:27](/scriptures/nt/matt/23.27?lang=eng#26).) We must not only _seem_ but
+also _be_ what God would expect of His sons and daughters.
 
 The practice of truth, the acid test of our commitment, is known by many terms
 --for example, _honesty, integrity, uprightness,_ and _probity._ I especially
@@ -128,13 +128,11 @@ length of days, but quality of spirit."
 
 The love for truth and the practice of truth are best learned in the home. The
 Lord has laid the responsibility with parents to "teach their children to ...
-walk uprightly before the Lord." ([D&amp;C
-68:28](https://www.lds.org/scriptures/dc-testament/dc/68.28?lang=eng#27).) And
-again, "I have commanded you to bring up your children in light and truth"
-([D&amp;C 93:40](https://www.lds.org/scriptures/dc-
+walk uprightly before the Lord." ([D&amp;C 68:28](/scriptures/dc-
+testament/dc/68.28?lang=eng#27).) And again, "I have commanded you to bring up
+your children in light and truth" ([D&amp;C 93:40](/scriptures/dc-
 testament/dc/93.40?lang=eng#39)), for "light and truth forsake that evil one."
-([D&amp;C 93:37](https://www.lds.org/scriptures/dc-
-testament/dc/93.37?lang=eng#36).)
+([D&amp;C 93:37](/scriptures/dc-testament/dc/93.37?lang=eng#36).)
 
 Children gain a love for truth by watching parents practice truth; they learn
 to emulate noble character. They need models of consistency, not just sermons
@@ -194,15 +192,17 @@ remove mine integrity from me.
 
 "My righteousness I hold fast, and will not let it go: my heart shall not
 reproach me so long as I live." ([Job
-27:5-6](https://www.lds.org/scriptures/ot/job/27.5-6?lang=eng#4).)
+27:5-6](/scriptures/ot/job/27.5-6?lang=eng#4).)
 
 The Psalmist posed the question: "Lord, who shall abide in thy tabernacle? who
 shall dwell in thy holy hill?" ([Ps.
-15:1](https://www.lds.org/scriptures/ot/ps/15.1?lang=eng#0).)
+15:1](/scriptures/ot/ps/15.1?lang=eng#0).)
 
 The answer: "He that walketh uprightly, and worketh righteousness, and
 speaketh the truth in his heart." ([Ps
-15:2](https://www.lds.org/scriptures/ot/ps/15.2?lang=eng#1).)
+15:2](/scriptures/ot/ps/15.2?lang=eng#1).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

@@ -53,10 +53,10 @@ duties, we prepare ourselves for a miraculous change with eternal
 consequences.
 
 Have we not been promised that we "might be partakers of the divine nature"?
-([2 Pet. 1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3).) This
-means that through personal change we develop a desire to live in harmony with
-the divine teachings of the Lord and to free our minds from all ill feelings
-toward other people. To do so will make us more worthy, even more perfect.
+([2 Pet. 1:4](/scriptures/nt/2-pet/1.4?lang=eng#3).) This means that through
+personal change we develop a desire to live in harmony with the divine
+teachings of the Lord and to free our minds from all ill feelings toward other
+people. To do so will make us more worthy, even more perfect.
 
 The old saying "Change is progress" then takes on a special meaning for all of
 us--because repentance is change, conversion is change, perfecting is change.
@@ -103,16 +103,14 @@ performed.
 that I will return to my God. Nay, ye cannot say this; for that same spirit
 which doth possess your bodies at the time that ye go out of this life, that
 same spirit will have power to possess your body in that eternal world."
-([Alma
-34:30-34](https://www.lds.org/scriptures/bofm/alma/34.30-34?lang=eng#29);
-italics added.)
+([Alma 34:30-34](/scriptures/bofm/alma/34.30-34?lang=eng#29); italics added.)
 
 I pray, brethren, that we may be ever mindful of these admonitions of Amulek,
 at home, at work, in the community where we live, in our Church callings, and
 that we may answer the often-quoted question of Alma, "Have ye experienced
 this mighty change in your hearts?" ([Alma
-5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13)) with a
-resounding "Yes, we have!"
+5:14](/scriptures/bofm/alma/5.14?lang=eng#13)) with a resounding "Yes, we
+have!"
 
 Brethren, we have to do better, individually and collectively, to strengthen
 the priesthood base of the Church, to prepare ourselves to carry out our
@@ -121,15 +119,14 @@ in the history of mankind: The change of human hearts everywhere, the true
 conversion of people in ever-increasing numbers, the rolling forth of the
 kingdom unto the ends of the earth "as the stone which is cut out of the
 mountain without hands shall roll forth, until it has filled the whole earth."
-([D&amp;C 65:2](https://www.lds.org/scriptures/dc-
-testament/dc/65.2?lang=eng#1).)
+([D&amp;C 65:2](/scriptures/dc-testament/dc/65.2?lang=eng#1).)
 
 Our Heavenly Father has made the promise that He will put a new spirit in
 people and "take the stony heart out of their flesh." ([Ezek.
-11:19](https://www.lds.org/scriptures/ot/ezek/11.19?lang=eng#18).) The
-dramatic changes we have experienced in recent years are the beginning of a
-new era. In the regional representatives' seminar of April 1987, the following
-vision was shared by Elder Maxwell:
+11:19](/scriptures/ot/ezek/11.19?lang=eng#18).) The dramatic changes we have
+experienced in recent years are the beginning of a new era. In the regional
+representatives' seminar of April 1987, the following vision was shared by
+Elder Maxwell:
 
 "All things must be done in wisdom and order. The Mormon pioneers were praised
 for the irrigation of the Utah desert. We are now preparing for the ultimate
@@ -152,4 +149,6 @@ I know that God lives and that Jesus Christ is our Savior and Redeemer. I also
 testify that President Ezra Taft Benson is the Lord's prophet on the earth
 today. That we all may go out into the world to testify of these simple
 truths, I pray, in the name of Jesus Christ, amen.
+
+## References
 

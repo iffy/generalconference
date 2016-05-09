@@ -7,8 +7,7 @@ and where secular reforms often define the nature of men and women. One
 injustice is often replaced by another injustice. We live in a time of
 ambiguous mores and of little direction. We are confronted with the same
 question that the disciples were asked after the resurrection of Christ: "What
-shall we do?" ([Acts
-2:37](https://www.lds.org/scriptures/nt/acts/2.37?lang=eng#36)).
+shall we do?" ([Acts 2:37](/scriptures/nt/acts/2.37?lang=eng#36)).
 
 This is the question we ask in uncertain times or when confronted with new
 challenges. We may answer with unreflective action, hoping to find solutions
@@ -40,9 +39,9 @@ injustice and disobedience. If we want to prevail, we must act in accordance
 with gospel principles. We cannot ask for more than to find the true meaning
 of life. "He that findeth his life shall lose it: and he that loseth his life
 for my sake shall find it" ([Matt.
-10:39](https://www.lds.org/scriptures/nt/matt/10.39?lang=eng#38)). We are
-promised that we will receive plentifully and gain eternal life when we give
-up those things the Lord requires of us.
+10:39](/scriptures/nt/matt/10.39?lang=eng#38)). We are promised that we will
+receive plentifully and gain eternal life when we give up those things the
+Lord requires of us.
 
 We choose to accept or reject the gospel of Christ. Human life was created on
 the basis of freedom of choice. God wants free people and people who serve Him
@@ -66,13 +65,13 @@ able to say, along with Nephi, "We talk of Christ, we rejoice in Christ, we
 preach of Christ, we prophesy of Christ, and we write according to our
 prophecies, that our children may know to what source they may look for a
 remission of their sins" ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25)).
+25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25)).
 
 Second, keep the first of the Ten Commandments: "Thou shalt have no other gods
-before me" ([Ex. 20:3](https://www.lds.org/scriptures/ot/ex/20.3?lang=eng#2)).
-Through the choices and temptations of this world, we often lose sight of true
-values and turn our hearts to wealth, careers, hobbies, persons, honor, pride
-and, worst of all, to the gratification of our own ego.
+before me" ([Ex. 20:3](/scriptures/ot/ex/20.3?lang=eng#2)). Through the
+choices and temptations of this world, we often lose sight of true values and
+turn our hearts to wealth, careers, hobbies, persons, honor, pride and, worst
+of all, to the gratification of our own ego.
 
 Third, distinguish between essence and appearance. God knows our heart, and He
 cannot be deceived. We might be able to fool the world at times, but we cannot
@@ -86,7 +85,7 @@ says of the Lord:
 afar off. ...
 
 "There is not a word in my tongue, ... thou knowest it altogether" ([Ps.
-139:1-2, 4](https://www.lds.org/scriptures/ot/ps/139.1-2%2C4?lang=eng#0)).
+139:1-2, 4](/scriptures/ot/ps/139.1-2,4?lang=eng#0)).
 
 Fourth, rise above selfishness. This includes spiritual selfishness, when one
 looks toward personal edification and strengthening and has no other interest
@@ -94,8 +93,8 @@ than one's own salvation. To be blessed is not an end in itself; we must be a
 blessing to others. All people have a talent in one way or another to touch
 and inspire other people's lives. Let us not only look inward and proudly say
 "All is well in Zion; yea, Zion prospereth" ([2 Ne.
-28:21](https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20)), but let
-us be a light unto a chaotic world.
+28:21](/scriptures/bofm/2-ne/28.21?lang=eng#20)), but let us be a light unto a
+chaotic world.
 
 Are we able and capable of following such admonitions? How often have we made
 resolutions which we did not carry out? The only answer to these questions is
@@ -103,21 +102,21 @@ to commit ourselves to serve the Lord and to meet His challenges. As Moroni
 wrote, the Lord's grace is sufficient for all who humble themselves before
 Him. If we humble ourselves and have faith in Him, He will make our weaknesses
 into our strengths (see [Ether
-12:27](https://www.lds.org/scriptures/bofm/ether/12.27?lang=eng#26)). He will
-provide His strength to meet our challenges, and many things will take care of
-themselves. The Spirit of God strengthens us physically, spiritually, and
-emotionally. It is now up to us to choose the way! Caterina Di Genova, who
-died in the Middle Ages as a martyr and who inspired future generations, is
-believed to have said, "Once God possesses the will of a person, God will
-dwell within this person and will lead him to perfection." To prevail in this
-world without God is difficult. Through God, however, all things are possible.
+12:27](/scriptures/bofm/ether/12.27?lang=eng#26)). He will provide His
+strength to meet our challenges, and many things will take care of themselves.
+The Spirit of God strengthens us physically, spiritually, and emotionally. It
+is now up to us to choose the way! Caterina Di Genova, who died in the Middle
+Ages as a martyr and who inspired future generations, is believed to have
+said, "Once God possesses the will of a person, God will dwell within this
+person and will lead him to perfection." To prevail in this world without God
+is difficult. Through God, however, all things are possible.
 
 Should we expect or ask for a reward for our efforts? The disciples asked
 Jesus about a reward. Instead of chastising them, He answered, "And every one
 that hath forsaken houses, or brethren, or sisters, or father, or mother, or
 wife, or children, or lands, for my name's sake, shall receive an hundredfold,
 and shall inherit everlasting life" ([Matt.
-19:29](https://www.lds.org/scriptures/nt/matt/19.29?lang=eng#28)).
+19:29](/scriptures/nt/matt/19.29?lang=eng#28)).
 
 The ills of today's world and fleeting social peace are the result of past
 wrongdoings and disregard of godly principles. The spiritual strength of every
@@ -140,7 +139,9 @@ and honest efforts, and between substance and appearance."
 Let us search our hearts as we ask the question "What shall we do?" and follow
 the advice of Joshua: "Choose you this day whom ye will serve; ... but as for me
 and my house, we will serve the Lord" ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14)).
+24:15](/scriptures/ot/josh/24.15?lang=eng#14)).
 
 In the name of Jesus Christ, amen.
+
+## References
 

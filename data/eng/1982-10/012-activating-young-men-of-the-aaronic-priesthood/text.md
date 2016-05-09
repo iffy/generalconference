@@ -166,3 +166,5 @@ is cheap? Brethren, don't be guilty of cheap talk concerning your young men.
 Get involved, activate them, establish one-to-one relationships with them.
 It's a great key to activation. In the name of Jesus Christ, amen.
 
+## References
+

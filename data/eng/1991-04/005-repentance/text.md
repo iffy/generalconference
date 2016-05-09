@@ -31,31 +31,29 @@ spiritual one. There too it has an ancient but not honorable tradition.
 
 Cain blamed God when his sacrifice was not accepted. "I was wroth," he said,
 "for his offering thou didst accept and not mine." ([Moses
-5:38](https://www.lds.org/scriptures/pgp/moses/5.38?lang=eng#37).)
+5:38](/scriptures/pgp/moses/5.38?lang=eng#37).)
 
 Laman and Lemuel blamed Nephi for nearly all their troubles. (See [1 Ne.
-16:35-38](https://www.lds.org/scriptures/bofm/1-ne/16.35-38?lang=eng#34).)
-Pilate blamed the Jews when he condoned the crucifixion of the Savior, in whom
-he found "no fault." ([Luke
-23:4](https://www.lds.org/scriptures/nt/luke/23.4?lang=eng#3); see also [Matt.
-27:24](https://www.lds.org/scriptures/nt/matt/27.24?lang=eng#23).)
+16:35-38](/scriptures/bofm/1-ne/16.35-38?lang=eng#34).) Pilate blamed the Jews
+when he condoned the crucifixion of the Savior, in whom he found "no fault."
+([Luke 23:4](/scriptures/nt/luke/23.4?lang=eng#3); see also [Matt.
+27:24](/scriptures/nt/matt/27.24?lang=eng#23).)
 
 Even the very elite have sometimes succumbed to the temptation to blame others
 for their disobedience or their failure to receive blessings. Aaron blamed the
 children of Israel when Moses charged him with bringing a great sin upon them
 by making a molten calf. (See [Ex.
-32:19-24](https://www.lds.org/scriptures/ot/ex/32.19-24?lang=eng#18).) And
-Martha may have blamed Mary for depriving her of the Savior's presence on that
-indelible day in Bethany. (See [Luke
-10:40](https://www.lds.org/scriptures/nt/luke/10.40?lang=eng#39).)
+32:19-24](/scriptures/ot/ex/32.19-24?lang=eng#18).) And Martha may have blamed
+Mary for depriving her of the Savior's presence on that indelible day in
+Bethany. (See [Luke 10:40](/scriptures/nt/luke/10.40?lang=eng#39).)
 
 Today the practice continues. We hear at every hand phrases such as "My wife
 just doesn't understand me," "Loosen up--everybody does it," or "It wasn't
 really my fault." The second great commandment (see [Matt.
-22:35-40](https://www.lds.org/scriptures/nt/matt/22.35-40?lang=eng#34)) is
-breached routinely by those who say, "He started it" or "She deserved it."
-Teens and adults alike jokingly attempt to justify behavioral lapses by
-saying, "The devil made me do it."
+22:35-40](/scriptures/nt/matt/22.35-40?lang=eng#34)) is breached routinely by
+those who say, "He started it" or "She deserved it." Teens and adults alike
+jokingly attempt to justify behavioral lapses by saying, "The devil made me do
+it."
 
 When faced with the consequences of transgression, rather than looking to
 ourselves as the source of the discomfort which always accompanies sin, many
@@ -69,23 +67,22 @@ machismo, or a misdirected sense of self-esteem as to prevent us from ever
 admitting that we are part of the problem, we are in trouble. We then may not
 even know of our need to repent. We will have no idea whether the Lord is
 pleased with us or not and may become "past feeling." ([1 Ne.
-17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44).) But all
-men, everywhere, must repent. (See [3 Ne.
-11:32](https://www.lds.org/scriptures/bofm/3-ne/11.32?lang=eng#31).) To fail
-to do so is to perish. (See [Luke
-13:3](https://www.lds.org/scriptures/nt/luke/13.3?lang=eng#2); [Hel.
-7:28](https://www.lds.org/scriptures/bofm/hel/7.28?lang=eng#27).)
+17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44).) But all men, everywhere,
+must repent. (See [3 Ne. 11:32](/scriptures/bofm/3-ne/11.32?lang=eng#31).) To
+fail to do so is to perish. (See [Luke
+13:3](/scriptures/nt/luke/13.3?lang=eng#2); [Hel.
+7:28](/scriptures/bofm/hel/7.28?lang=eng#27).)
 
 To excuse misconduct by blaming others is presumptuous at best and is fatally
 flawed with regard to spiritual things, for "we believe that men will be
 punished for their own sins, and not for Adam's transgression." ([A of F
-1:2](https://www.lds.org/scriptures/pgp/a-of-f/1.2?lang=eng#1).) This not only
-means that we will not be punished for what Adam did in the Garden, but also
-that we cannot excuse our own behavior by pointing a finger to Adam or anyone
-else. The real danger in failing to accept responsibility for our own actions
-is that unless we do, we may never even enter on the strait and narrow path.
-Misconduct that does not require repentance may be pleasant at first, but it
-will not be for long. And it will never lead us to eternal life.
+1:2](/scriptures/pgp/a-of-f/1.2?lang=eng#1).) This not only means that we will
+not be punished for what Adam did in the Garden, but also that we cannot
+excuse our own behavior by pointing a finger to Adam or anyone else. The real
+danger in failing to accept responsibility for our own actions is that unless
+we do, we may never even enter on the strait and narrow path. Misconduct that
+does not require repentance may be pleasant at first, but it will not be for
+long. And it will never lead us to eternal life.
 
 Just as foolish as believing that we can "pass it on" is the idea that the
 satisfaction of being in the circle, whatever that may be, can somehow excuse
@@ -110,8 +107,7 @@ rationalization or verbal whitewash can ever make them right.
 To those who believe otherwise, Nephi said: "Yea, and there shall be many
 which shall teach after this manner, false and vain and foolish doctrines, and
 shall be puffed up in their hearts, and shall seek deep to hide their counsels
-from the Lord." ([2 Ne.
-28:9](https://www.lds.org/scriptures/bofm/2-ne/28.9?lang=eng#8).)
+from the Lord." ([2 Ne. 28:9](/scriptures/bofm/2-ne/28.9?lang=eng#8).)
 
 Some seek to justify their actions by quoting scripture. They often cite
 Nephi's killing of Laban as an example of the need to violate a law to
@@ -119,8 +115,7 @@ accomplish a greater good and to prevent a nation from dwindling in unbelief.
 But they forget that Nephi twice refused to follow the promptings of the
 Spirit. In the end, he agreed to break the commandment only when he was
 convinced that "the _Lord_ slayeth the wicked to bring forth _his_ righteous
-purposes" ([1 Ne.
-4:13](https://www.lds.org/scriptures/bofm/1-ne/4.13?lang=eng#12); italics
+purposes" ([1 Ne. 4:13](/scriptures/bofm/1-ne/4.13?lang=eng#12); italics
 added) and also (I believe) when he knew that the penalty for shedding blood
 had been lifted, in that one exceptional case, by Him whose right it is to fix
 and waive penalties.
@@ -139,7 +134,7 @@ wonderful works?
 
 "And then will I profess unto them: I never knew you; depart from me, ye that
 work iniquity." ([3 Ne.
-14:22-23](https://www.lds.org/scriptures/bofm/3-ne/14.22-23?lang=eng#21).)
+14:22-23](/scriptures/bofm/3-ne/14.22-23?lang=eng#21).)
 
 The war in heaven was essentially about the means by which the plan of
 salvation would be implemented. It forever established the principle that even
@@ -156,20 +151,19 @@ repent of the wrong we do along the way.
 Of course we have the right to strive for happiness. But as we do we should
 pause every now and then and look to ourselves. We should remember that
 "wickedness never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).) And the
-sweet peace the gospel brings never comes at all when we justify our
-misconduct or blame others for our unhappiness. But there is a way out. We
-need only remember a pointless, irresponsible childhood game, and quietly walk
-away. Face up, quit, get out, confess, apologize, admit the harm we have done,
-and just plain walk away.
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9).) And the sweet peace the
+gospel brings never comes at all when we justify our misconduct or blame
+others for our unhappiness. But there is a way out. We need only remember a
+pointless, irresponsible childhood game, and quietly walk away. Face up, quit,
+get out, confess, apologize, admit the harm we have done, and just plain walk
+away.
 
 There are so many important things for us to do in mortality. There is not
 much time to waste on games. We must obtain essential ordinances. We must
 enter into and keep sacred covenants. We are to "live by every word which
-proceedeth forth out of the mouth of God." ([D&amp;C
-98:11](https://www.lds.org/scriptures/dc-testament/dc/98.11?lang=eng#10).) We
-must love and serve one another. We are to be proved in all things. (See
-[D&amp;C 98:14](https://www.lds.org/scriptures/dc-
+proceedeth forth out of the mouth of God." ([D&amp;C 98:11](/scriptures/dc-
+testament/dc/98.11?lang=eng#10).) We must love and serve one another. We are
+to be proved in all things. (See [D&amp;C 98:14](/scriptures/dc-
 testament/dc/98.14?lang=eng#13).) Even little things like means. There will be
 trials. There will likely be other circles we will have to leave. How we
 respond to all of this will turn out to be the real measure of our salvation.
@@ -179,7 +173,7 @@ fault--I was compelled by circumstances to do what I did," I say, "That may be
 so, but there is grave danger here. If there is any doubt at all, let us
 simply repent." For, in the words of Job, "If I justify myself, mine own mouth
 shall condemn me: if I say, I am perfect, it shall also prove me perverse."
-([Job 9:20](https://www.lds.org/scriptures/ot/job/9.20?lang=eng#19).)
+([Job 9:20](/scriptures/ot/job/9.20?lang=eng#19).)
 
 And to those who say, "I may have done a little wrong, but my purpose was good
 and I believe God will justify my behavior," my response is, "Maybe so, but
@@ -187,9 +181,11 @@ don't count on it." For in the 137th section of the Doctrine and Covenants,
 verse 9, we read:
 
 "For I, the Lord, will judge all men according to their works, according to
-the desire of their hearts." [[D&amp;C 137:9](https://www.lds.org/scriptures
-/dc-testament/dc/137.9?lang=eng#8)]
+the desire of their hearts." [[D&amp;C 137:9](/scriptures/dc-
+testament/dc/137.9?lang=eng#8)]
 
 May the Lord bless us to see ourselves as we really are and to repent as needs
 be, I pray in the name of Jesus Christ, amen.
+
+## References
 

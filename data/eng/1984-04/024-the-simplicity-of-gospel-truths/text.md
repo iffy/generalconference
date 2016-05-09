@@ -7,13 +7,13 @@ beam me up now, Scotty. I find no evidence of intelligent life down here."
 Now, brothers and sisters, there is indisputable evidence of intelligent life
 down here because, thank goodness, Heavenly Father has told us that "the glory
 of God is intelligence, or in other words, light and truth." ([D&amp;C
-93:36](https://www.lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35).)
-Those who accept and live the simple light and truth of the gospel are indeed
-living an intelligent life. And that theme--of simple light and truth--which I
-would like to share with you this morning, was brought to my attention while
-serving as a young missionary under President Matthew Cowley, later to become
-an Apostle of the Lord. He taught us on frequent occasion that "the gospel of
-Jesus Christ is beautifully simple and simply beautiful."
+93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).) Those who accept and
+live the simple light and truth of the gospel are indeed living an intelligent
+life. And that theme--of simple light and truth--which I would like to share
+with you this morning, was brought to my attention while serving as a young
+missionary under President Matthew Cowley, later to become an Apostle of the
+Lord. He taught us on frequent occasion that "the gospel of Jesus Christ is
+beautifully simple and simply beautiful."
 
 The truth of that statement was reamplified earlier this year as some of our
 family and a few friends had the privilege of walking where Jesus walked. We
@@ -26,21 +26,21 @@ the way.
 
 The "living water" that Jesus talked about at Jacob's well with the woman from
 Samaria became current and real. (See [John
-4:10](https://www.lds.org/scriptures/nt/john/4.10?lang=eng#9).)
+4:10](/scriptures/nt/john/4.10?lang=eng#9).)
 
 There were tears as we stood in Gethsemane and pondered again those immortal
 words: "Father, if thou be willing, remove this cup from me: nevertheless not
 my will, but thine, be done." ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41).)
+22:42](/scriptures/nt/luke/22.42?lang=eng#41).)
 
 Also that simple but profound teaching at Calvary: "Father, forgive them; for
 they know not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 As we stood by beautiful Galilee, we marveled at the simplicity of His unique
 but meaningful invitation to those being called. "Follow me," he said, "and I
 will make you fishers of men." ([Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18).)
+4:19](/scriptures/nt/matt/4.19?lang=eng#18).)
 
 Such quotes are typical of the Master Teacher, He who taught pure and plain
 truth, spoken in humility and with beautiful simplicity.
@@ -49,11 +49,11 @@ This reawakening to the superb teachings of the Savior while we were in Israel
 was most reassuring. How simple and pure are the concepts he left us. Indeed,
 Paul held the same view as he wrote to the Saints of Corinth, "For God is not
 the author of confusion, but of peace." ([1 Cor.
-14:33](https://www.lds.org/scriptures/nt/1-cor/14.33?lang=eng#32).)
+14:33](/scriptures/nt/1-cor/14.33?lang=eng#32).)
 
 James said it another way: "But the wisdom that is from above is first pure,
 then peaceable, gentle, and easy to be entreated, full of mercy." (See [James
-3:16-17](https://www.lds.org/scriptures/nt/james/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/james/3.16-17?lang=eng#15).)
 
 Indeed Elder Cowley was right: the gospel of Jesus Christ is beautifully
 simple and simply beautiful. Even simple enough that a Primary child can have
@@ -63,7 +63,7 @@ privilege of baptism comes along.
 The faith of children was the center of some of the Savior's most significant
 teachings. Remember that occasion recorded in Matthew when the disciples asked
 him, "Who is the greatest in the kingdom of heaven? ([Matt.
-18:1-4](https://www.lds.org/scriptures/nt/matt/18.1-4?lang=eng#0).)
+18:1-4](/scriptures/nt/matt/18.1-4?lang=eng#0).)
 
 "And Jesus called a little child unto him." (I can just see the Savior as he
 tenderly lifted that child onto his knee in order to lend power to that
@@ -74,7 +74,7 @@ become as little children, ye shall not enter into the kingdom of heaven.
 
 "Whosoever therefore shall humble himself as this little child, the same is
 greatest in the kingdom of heaven." ([Matt.
-18:1-4](https://www.lds.org/scriptures/nt/matt/18.1-4?lang=eng#0).)
+18:1-4](/scriptures/nt/matt/18.1-4?lang=eng#0).)
 
 Without doubt the Savior had in mind the implicit faith and sincerity of a
 little child as he answered his disciples on that occasion.
@@ -91,14 +91,14 @@ meant, and wealth has eluded us.
 That wise and noble prophet and teacher King Benjamin taught his people about
 putting off the natural man and becoming a Saint through the atonement of
 Christ the Lord. Then he added that we must become as a child, "submissive,
-meek, humble, patient, full of love, willing to submit to all things ... , even
+meek, humble, patient, full of love, willing to submit to all things ..., even
 as a child doth submit to his father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 We have always been taught that the gospel of Jesus Christ embraces all truth,
 wherever that truth is found. This should also include truth found in science.
 The simplicity of basic truth in the fields of chemistry and physics has
-always intrigued me. For example, there is the simple expression that H2O is
+always intrigued me. For example, there is the simple expression that HO is
 the chemical formula for water. Also fascinating is the fact that Einstein
 could express his mind-expanding theory of relativity by the simple equation E
 = mc2. It almost appears that the closer we approach a basic truth, the more
@@ -108,8 +108,7 @@ The best example of this in religious truth is perhaps the oft-repeated
 scriptural passage found in Moses in the Pearl of Great Price, wherein God
 states in a single sentence the total objective of all eternity: "For behold,
 this is my work and my glory--to bring to pass the immortality and eternal
-life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Imagine, just twenty words to summarize the entire plan of eternal progression
 and salvation. I like that, because it is true. The statement is fundamental;
@@ -121,36 +120,34 @@ success.
 Most eternal truths are so simply stated that no one should misunderstand
 them, except perhaps a few like those of Jacob's day who "despised the words
 of plainness, and killed the prophets, and sought for things that they could
-not understand." ([Jacob
-4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13).)
+not understand." ([Jacob 4:14](/scriptures/bofm/jacob/4.14?lang=eng#13).)
 
 Please consider for a moment these simple gospel truths, which are paraphrased
 in the interest of time:
 
 The contribution of tithes and offerings will open the windows of heaven. (See
-[Mal. 3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).)
+[Mal. 3:10](/scriptures/ot/mal/3.10?lang=eng#9).)
 
 Conformity to the Word of Wisdom ensures better health, wisdom, and well-
-being. (See [D&amp;C 89](https://www.lds.org/scriptures/dc-
-testament/dc/89.title?lang=eng).)
+being. (See [D&amp;C 89](/scriptures/dc-testament/dc/89?lang=eng).)
 
 Confession to one's priesthood authority and then doing the sin no more can
 provide total repentance for all who are willing. (See [D&amp;C
-58:43](https://www.lds.org/scriptures/dc-testament/dc/58.43?lang=eng#42).)
+58:43](/scriptures/dc-testament/dc/58.43?lang=eng#42).)
 
 "Is any sick among you? let him call for the elders of the church." ([James
-5:14](https://www.lds.org/scriptures/nt/james/5.14?lang=eng#13).)
+5:14](/scriptures/nt/james/5.14?lang=eng#13).)
 
 A celestial glory can be the reward for all who repent, are baptized, and
-continue in faith. (See [D&amp;C 18:22](https://www.lds.org/scriptures/dc-
+continue in faith. (See [D&amp;C 18:22](/scriptures/dc-
 testament/dc/18.22?lang=eng#21).)
 
 As Paul declared so firmly and simply, "One lord, one faith, one baptism."
-([Eph. 4:5](https://www.lds.org/scriptures/nt/eph/4.5?lang=eng#4).) Nothing
-has ever been able to alter these simple truths.
+([Eph. 4:5](/scriptures/nt/eph/4.5?lang=eng#4).) Nothing has ever been able to
+alter these simple truths.
 
 And finally one of my very favorites: "And the truth shall make you free."
-([John 8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31).)
+([John 8:32](/scriptures/nt/john/8.32?lang=eng#31).)
 
 Everyone wants to be free--free from guilt, free from selfishness, free from
 the bondage of bad habit. Yes, even political freedom is possible through
@@ -222,9 +219,10 @@ heart are involved.
 
 Nephi, in foretelling the ministry of the Apostle John, described his
 teachings as "plain and pure, and most precious and easy to the understanding
-of all men." ([1 Ne.
-14:23](https://www.lds.org/scriptures/bofm/1-ne/14.23?lang=eng#22).) That our
-understanding and interpretation of truth may always be beautifully simple and
-simply beautiful is my sincere prayer for each of us, in the name of Jesus
+of all men." ([1 Ne. 14:23](/scriptures/bofm/1-ne/14.23?lang=eng#22).) That
+our understanding and interpretation of truth may always be beautifully simple
+and simply beautiful is my sincere prayer for each of us, in the name of Jesus
 Christ, our Savior and Redeemer, amen.
+
+## References
 

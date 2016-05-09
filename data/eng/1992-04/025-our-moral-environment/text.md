@@ -7,18 +7,16 @@ is the covenant ... I will make with them. ... I will put my _laws _into their
 hearts, and in their minds will I write them;
 
 "And _their sins and iniquities _will _I remember no more._" ([Heb.
-10:16-17](https://www.lds.org/scriptures/nt/heb/10.16-17?lang=eng#15); italics
-added.)
+10:16-17](/scriptures/nt/heb/10.16-17?lang=eng#15); italics added.)
 
 Civilizations, like Sodom and Gomorrah, destroyed themselves by disobedience
 to the laws of morality. "For the Spirit of the Lord will not always strive
 with man. And when the Spirit ceaseth to strive with man then cometh speedy
-destruction." ([2 Ne.
-26:11](https://www.lds.org/scriptures/bofm/2-ne/26.11?lang=eng#10); see also
-[Gen. 6:3](https://www.lds.org/scriptures/ot/gen/6.3?lang=eng#2); [Ether
-2:15](https://www.lds.org/scriptures/bofm/ether/2.15?lang=eng#14); [D&amp;C
-1:33](https://www.lds.org/scriptures/dc-testament/dc/1.33?lang=eng#32); [Moses
-8:17](https://www.lds.org/scriptures/pgp/moses/8.17?lang=eng#16).)
+destruction." ([2 Ne. 26:11](/scriptures/bofm/2-ne/26.11?lang=eng#10); see
+also [Gen. 6:3](/scriptures/ot/gen/6.3?lang=eng#2); [Ether
+2:15](/scriptures/bofm/ether/2.15?lang=eng#14); [D&amp;C 1:33](/scriptures/dc-
+testament/dc/1.33?lang=eng#32); [Moses
+8:17](/scriptures/pgp/moses/8.17?lang=eng#16).)
 
 God grant that we will come to our senses and protect our moral environment
 from this mist of darkness which deepens day by day. The fate of all humanity
@@ -44,7 +42,7 @@ forgiven. I do not exempt abortion. The formula is stated in forty words:
 Lord, remember them no more.
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them." ([D&amp;C 58:42-43](https://www.lds.org/scriptures/dc-
+them and forsake them." ([D&amp;C 58:42-43](/scriptures/dc-
 testament/dc/58.42-43?lang=eng#41).)
 
 ## The Measure of a Successful Parent
@@ -101,25 +99,25 @@ Salvation,_ comp. Bruce R. McConkie, 3 vols., 2:90-91.)
 ## Most Abominable
 
 If we pollute our fountains of life, there will be penalties "exquisite" and
-"hard to bear" (see [D&amp;C 19:15](https://www.lds.org/scriptures/dc-
+"hard to bear" (see [D&amp;C 19:15](/scriptures/dc-
 testament/dc/19.15?lang=eng#14)), more than all of the physical pleasure ever
 could be worth. Alma told his son Corianton, "Know ye not, my son, that these
 things are an abomination in the sight of the Lord; yea, most abominable above
 all sins save it be the shedding of innocent blood or denying the Holy Ghost?"
-([Alma 39:5](https://www.lds.org/scriptures/bofm/alma/39.5?lang=eng#4).)
+([Alma 39:5](/scriptures/bofm/alma/39.5?lang=eng#4).)
 
 The code for moral law is found in the scriptures, stated as simply as,
 "Wickedness never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).) The
-scriptures speak in general terms, leaving us free to apply the principles of
-the gospel to meet the infinite variety of life. But when they say "thou shalt
-not," we had better pay attention.
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9).) The scriptures speak in
+general terms, leaving us free to apply the principles of the gospel to meet
+the infinite variety of life. But when they say "thou shalt not," we had
+better pay attention.
 
 The only legitimate employment of the power of procreation is between husband
 and wife, man and woman, who have been legally and lawfully married. Anything
 else violates the commandments of God. From Alma, "If ye speak against it, it
 matters not, for the word of God must be fulfilled." ([Alma
-5:58](https://www.lds.org/scriptures/bofm/alma/5.58?lang=eng#57).)
+5:58](/scriptures/bofm/alma/5.58?lang=eng#57).)
 
 ## The Evil Idea
 
@@ -144,7 +142,7 @@ morality and degrade themselves even below the beasts.
 No greater ideal has been revealed than the supernal truth that we are the
 children of God, and we differ, by virtue of our creation, from all other
 living things. (See [Moses 6:8-10, 22,
-59](https://www.lds.org/scriptures/pgp/moses/6.8-10%2C22%2C59?lang=eng#7).)
+59](/scriptures/pgp/moses/6.8-10,22,59?lang=eng#7).)
 
 ## Unenforceable
 
@@ -162,9 +160,8 @@ contravenes both natural and moral law.
 No matter if fifteen weeks or months or fifteen years were allowed, it cannot
 be enforced! It may work with animals, but "all flesh," the scriptures teach,
 "is not the same flesh: but there is one kind of flesh of men, another flesh
-of beasts." ([1 Cor.
-15:39](https://www.lds.org/scriptures/nt/1-cor/15.39?lang=eng#38).) It cannot
-be made to work with human mothers. Never!
+of beasts." ([1 Cor. 15:39](/scriptures/nt/1-cor/15.39?lang=eng#38).) It
+cannot be made to work with human mothers. Never!
 
 A man-made law against nature would be as impossible to defend as a law
 annulling love between mother and child would be impossible to enforce!
@@ -172,9 +169,8 @@ annulling love between mother and child would be impossible to enforce!
 ## Physical and Moral Laws
 
 There are both moral and physical laws "irrevocably decreed in heaven before
-the foundations of this world" ([D&amp;C
-130:20](https://www.lds.org/scriptures/dc-testament/dc/130.20?lang=eng#19))
-which man cannot overrule.
+the foundations of this world" ([D&amp;C 130:20](/scriptures/dc-
+testament/dc/130.20?lang=eng#19)) which man cannot overrule.
 
 For instance, do you think a vote to repeal the law of gravity would do any
 good?
@@ -194,24 +190,22 @@ party they belonged to.
 And the Lord warned members of his church, "Let not that which I have
 appointed be polluted by mine enemies, _by the consent of those who call
 themselves after my name: _For this is a very sore and grievous sin against
-me, and against my people." ([D&amp;C
-101:97-98](https://www.lds.org/scriptures/dc-
+me, and against my people." ([D&amp;C 101:97-98](/scriptures/dc-
 testament/dc/101.97-98?lang=eng#96); italics added.)
 
 Because the laws of man, by and large, do not raise moral issues, we are
 taught to honor, sustain, and obey the law (see [A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11)), and that
-"he that keepeth the laws of God hath no need to break the laws of the land"
-([D&amp;C 58:21](https://www.lds.org/scriptures/dc-
-testament/dc/58.21?lang=eng#20)).
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11)), and that "he that keepeth the
+laws of God hath no need to break the laws of the land" ([D&amp;C
+58:21](/scriptures/dc-testament/dc/58.21?lang=eng#20)).
 
 ## No Free Agency
 
 The phrase "_free_ agency" does not appear in scripture. The only agency
 spoken of there is _moral agency,_ "which," the Lord said, "I have given unto
 him, that every man may be _accountable _for his own sins in the day of
-judgment." ([D&amp;C 101:78](https://www.lds.org/scriptures/dc-
-testament/dc/101.78?lang=eng#77); italics added.)
+judgment." ([D&amp;C 101:78](/scriptures/dc-testament/dc/101.78?lang=eng#77);
+italics added.)
 
 ## Flawed Argument
 
@@ -241,11 +235,9 @@ for freedom of choice for those who do."
 The adversary is jealous toward all who have the power to beget life. He
 cannot beget life; he is impotent. He and those who followed him were cast out
 and forfeited the right to a mortal body. His angels even begged to inhabit
-the bodies of swine. (See [Matt.
-8:31](https://www.lds.org/scriptures/nt/matt/8.31?lang=eng#30).) And the
-revelations tell us that "he seeketh that all men might be miserable like unto
-himself." ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).)
+the bodies of swine. (See [Matt. 8:31](/scriptures/nt/matt/8.31?lang=eng#30).)
+And the revelations tell us that "he seeketh that all men might be miserable
+like unto himself." ([2 Ne. 2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).)
 
 With ever fewer exceptions, what we see and read and hear have the mating act
 as a central theme. Censorship is forced offstage as a violation of individual
@@ -284,11 +276,11 @@ _pollution _index is spiraling upward.
 
 The Book of Mormon depicts humanity struggling through a "mist of darkness"
 and defines the darkness as the "temptations of the devil." ([1 Ne.
-8:23](https://www.lds.org/scriptures/bofm/1-ne/8.23?lang=eng#22); [1 Ne.
-12:17](https://www.lds.org/scriptures/bofm/1-ne/12.17?lang=eng#16).) So dense
-was that _moral pollution _that many followed "strange roads" and "fell away
-into forbidden paths and were lost." (See [1 Ne.
-8:23-32](https://www.lds.org/scriptures/bofm/1-ne/8.23-32?lang=eng#22).)
+8:23](/scriptures/bofm/1-ne/8.23?lang=eng#22); [1 Ne.
+12:17](/scriptures/bofm/1-ne/12.17?lang=eng#16).) So dense was that _moral
+pollution _that many followed "strange roads" and "fell away into forbidden
+paths and were lost." (See [1 Ne.
+8:23-32](/scriptures/bofm/1-ne/8.23-32?lang=eng#22).)
 
 The deliberate pollution of the fountain of life now clouds our moral
 environment. The gift of mortal life and the capacity to kindle other lives is
@@ -300,4 +292,6 @@ interviewed I don't know how many, surely thousands, of members of the Church
 and have talked with them in intimate terms of their worthiness, their sorrow,
 and their happiness. I only mention that in the hope that the credential of
 experience may persuade you to consider matters which have us deeply worried.
+
+## References
 

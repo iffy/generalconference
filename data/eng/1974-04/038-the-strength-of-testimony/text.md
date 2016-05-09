@@ -26,8 +26,8 @@ meaning that he has a strong testimony, or we say, "He has a strong
 testimony," meaning that he has great faith. However, I don't believe the two
 are always synonymous. Faith is based on knowledge; it is a hope in that which
 is not seen which is true. (See [Alma
-32:21](https://www.lds.org/scriptures/bofm/alma/32.21?lang=eng#20).) Testimony
-is revealed knowledge.
+32:21](/scriptures/bofm/alma/32.21?lang=eng#20).) Testimony is revealed
+knowledge.
 
 Bearing testimony has to do with bearing witness to that which we know to be
 true. Much of what we call testimony bearing is not really testimony at all--
@@ -35,30 +35,30 @@ it is a statement or expression of public thanks. It is good to be thankful,
 but public thanks is not testimony. Testimony comes from the Holy Ghost. The
 Spirit of Christ, which John testifies is "the true Light, which lighteth
 every man that cometh into the world" ([John
-1:9](https://www.lds.org/scriptures/nt/john/1.9?lang=eng#8)), will lead a man
-to Christ and help him get a testimony, and if followed will lead to baptism
-in Jesus Christ's church.
+1:9](/scriptures/nt/john/1.9?lang=eng#8)), will lead a man to Christ and help
+him get a testimony, and if followed will lead to baptism in Jesus Christ's
+church.
 
 Many people feel they receive a witness that Jesus is the Christ, and they
 think this alone saves them. They say they are "saved." Of course, it does
 not. It didn't save a third of the hosts of heaven. James records, "... the
 devils also believe, and tremble." ([James
-2:19](https://www.lds.org/scriptures/nt/james/2.19?lang=eng#18).) What do they
-believe? That Jesus is the Christ; in fact, they know it.
+2:19](/scriptures/nt/james/2.19?lang=eng#18).) What do they believe? That
+Jesus is the Christ; in fact, they know it.
 
 Peter had a testimony that Jesus is the Christ, which he bore, and it surely
 came from the Lord, for the Master said, "... flesh and blood hath not revealed
 it unto thee, but my Father which is in heaven." ([Matt.
-16:17](https://www.lds.org/scriptures/nt/matt/16.17?lang=eng#16).) It is very
-doubtful that Peter was at that time converted, because he could not admit
-that he knew the Lord Jesus Christ when he felt his own life was in danger.
-Later the Master confirmed that Peter lacked conversion when, just before
-going to his agony and death on the cross, he said to Peter, "... when thou art
-converted, strengthen thy brethren." ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).) Peter's
-testimony or knowledge that Jesus was the Christ did not "save" him from
-denying the Master--probably because he was not converted. He did not follow
-the Lord at the peril of his own life.
+16:17](/scriptures/nt/matt/16.17?lang=eng#16).) It is very doubtful that Peter
+was at that time converted, because he could not admit that he knew the Lord
+Jesus Christ when he felt his own life was in danger. Later the Master
+confirmed that Peter lacked conversion when, just before going to his agony
+and death on the cross, he said to Peter, "... when thou art converted,
+strengthen thy brethren." ([Luke
+22:32](/scriptures/nt/luke/22.32?lang=eng#31).) Peter's testimony or knowledge
+that Jesus was the Christ did not "save" him from denying the Master--probably
+because he was not converted. He did not follow the Lord at the peril of his
+own life.
 
 When we are converted, we sustain and follow the Lord's anointed servants; we
 find ourselves in agreement with them. This is one of the real marks of
@@ -76,12 +76,11 @@ atonement of Christ the Lord." This would mean becoming even "as a child,
 submissive, meek, humble, patient, full of love, willing to submit to all
 things which the Lord seeth fit to inflict upon him, even as a child doth
 submit to his father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 In order to emphasize this particular point, Jesus said, "Not [he] that saith
 ... Lord, Lord, [will be saved] but he that doeth the will of my Father which is
-in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).)
+in heaven." ([Matt. 7:21](/scriptures/nt/matt/7.21?lang=eng#20).)
 
 Jesus was committed completely to doing the will of his Father, and he was
 unequivocal in his counsel to us that we follow him in doing the will of the
@@ -120,18 +119,18 @@ the Father that he would be obedient unto him in keeping his commandments.
 "... Again, it showeth unto the children of men the straightness of the path,
 and the narrowness of the gate, by which they should enter, he having set the
 example before them." Then he said, "... Follow thou me. ..." ([2 Ne. 31:6-7,
-9-10](https://www.lds.org/scriptures/bofm/2-ne/31.6-7%2C9-10?lang=eng#5).)
+9-10](/scriptures/bofm/2-ne/31.6-7,9-10?lang=eng#5).)
 
 Nephi asked, "... Wherefore, my beloved brethren, can we follow Jesus save we
 shall be willing to keep the commandments of the Father?" ([2 Ne.
-31:10](https://www.lds.org/scriptures/bofm/2-ne/31.10?lang=eng#9).) Nephi then
-records the doctrine of the Father: "... Repent ye, repent ye, and be baptized
-in the name of my Beloved Son."
+31:10](/scriptures/bofm/2-ne/31.10?lang=eng#9).) Nephi then records the
+doctrine of the Father: "... Repent ye, repent ye, and be baptized in the name
+of my Beloved Son."
 
 "And also, the voice of the Son came unto me, saying: He that is baptized in
 my name, to him will the Father give the Holy Ghost, like unto me; wherefore,
 follow me, and do the things which ye have seen me do." ([2 Ne.
-31:11-12](https://www.lds.org/scriptures/bofm/2-ne/31.11-12?lang=eng#10).)
+31:11-12](/scriptures/bofm/2-ne/31.11-12?lang=eng#10).)
 
 Further, Nephi records that the voice of the Son came unto him, saying:
 
@@ -140,13 +139,13 @@ are willing to keep my commandments, by the baptism of water, and have
 received the baptism of fire and of the Holy Ghost, and can speak with a new
 tongue, yea, even with the tongue of angels, and after this should deny me, it
 would have been better for you that ye had not known me." ([2 Ne.
-31:14](https://www.lds.org/scriptures/bofm/2-ne/31.14?lang=eng#13).)
+31:14](/scriptures/bofm/2-ne/31.14?lang=eng#13).)
 
 Then Nephi records this testimony of the Father concerning the Son:
 
 "And I heard a voice from the Father, saying: Yea, the words of my Beloved are
 true and faithful. He that endureth to the end, the same shall be saved." ([2
-Ne. 31:15](https://www.lds.org/scriptures/bofm/2-ne/31.15?lang=eng#14).)
+Ne. 31:15](/scriptures/bofm/2-ne/31.15?lang=eng#14).)
 
 Now this is obviously the most important message that God the Father could
 possibly give to his children: Repent and be baptized in the name of Jesus
@@ -176,10 +175,9 @@ When we fail to do what we know we should, having the light before us but
 refusing to obey, notwithstanding the covenants made in the waters of baptism,
 we become rebels. Some even seem to delight in their rebellion. They brag
 about it; if they only knew that the Lord's anger is kindled against all the
-rebellious (see [D&amp;C 63:2](https://www.lds.org/scriptures/dc-
-testament/dc/63.2?lang=eng#1)), and they shall be pierced with much sorrow and
-they shall fail (see [D&amp;C 1:3](https://www.lds.org/scriptures/dc-
-testament/dc/1.3?lang=eng#2)).
+rebellious (see [D&amp;C 63:2](/scriptures/dc-testament/dc/63.2?lang=eng#1)),
+and they shall be pierced with much sorrow and they shall fail (see [D&amp;C
+1:3](/scriptures/dc-testament/dc/1.3?lang=eng#2)).
 
 In this earth-life probation those who are converted will succeed. The kingdom
 isn't going to fail. It is the stone which the prophet Daniel saw was cut out
@@ -195,8 +193,7 @@ difference whether you win or not. We came to this earth to win, and we will
 win if we stick with the Lord, because the Lord is not going to lose. He can't
 lose. The kingdom is a winner, and when we do it his way, we will win with
 him. The promise is sure: "... He that endureth to the end, the same shall be
-saved." ([2 Ne.
-31:15](https://www.lds.org/scriptures/bofm/2-ne/31.15?lang=eng#14).)
+saved." ([2 Ne. 31:15](/scriptures/bofm/2-ne/31.15?lang=eng#14).)
 
 Testimony won't save us, but testimony coupled with faith and conversion,
 which includes, staying power, which is endurance, will exalt us.
@@ -239,17 +236,19 @@ of every nation under heaven.
 
 "And the day shall come when the nations of the earth shall tremble because of
 her, and shall fear because of her terrible ones. The Lord hath spoken it.
-Amen. ([D&amp;C 64:29, 33-43](https://www.lds.org/scriptures/dc-
-testament/dc/64.29%2C33-43?lang=eng#28).)
+Amen. ([D&amp;C 64:29, 33-43](/scriptures/dc-
+testament/dc/64.29,33-43?lang=eng#28).)
 
 Does that sound like a loser to you? I tell you it doesn't. And those who are
 converted, who can follow the Lord and his anointed servants, these are they
 who will bring to pass the purposes of God. Before you can be a great leader
 in the kingdom of God, you must first be a great follower. Obedience is still
 better than sacrifice and to hearken than the fat of rams. (See [1 Sam.
-15:22](https://www.lds.org/scriptures/ot/1-sam/15.22?lang=eng#21).)
+15:22](/scriptures/ot/1-sam/15.22?lang=eng#21).)
 
 May the Lord bless us to hold fast and remain faithful as we follow the Lord's
 anointed servants, and may we feel good about it. I pray that we will, in
 Jesus' name. Amen.
+
+## References
 

@@ -189,13 +189,12 @@ Contemplate how much Aaronic Priesthood holders will grow and the Church will
 be blessed when the quorums carry out all their scriptural responsibilities--
 for example, when the priests, working as home teachers, exhort families in
 the Church "to pray vocally and in secret and attend to all family duties"
-([D&amp;C 20:51](https://www.lds.org/scriptures/dc-
-testament/dc/20.51?lang=eng#50)) and when the teachers and deacons also carry
-out their revealed duties. How much a part of this great latter-day work our
-Aaronic Priesthood brethren will become! They will realize that a priesthood
-quorum is a brotherhood of priesthood officers ordained with the right and
-privilege of using God's power to bring happiness and peace and prosperity
-into the earth.
+([D&amp;C 20:51](/scriptures/dc-testament/dc/20.51?lang=eng#50)) and when the
+teachers and deacons also carry out their revealed duties. How much a part of
+this great latter-day work our Aaronic Priesthood brethren will become! They
+will realize that a priesthood quorum is a brotherhood of priesthood officers
+ordained with the right and privilege of using God's power to bring happiness
+and peace and prosperity into the earth.
 
 As all of these things happen, leaders will no longer be tempted to devise
 programs which imitate the world. We will see that the key to the conversion,
@@ -216,4 +215,6 @@ faith in the Aaronic Priesthood quorum presidencies themselves, in the
 maturity, stability, and in the depth of their spirituality that they will
 rise as no other generation has ever risen in their positions of leadership. I
 bear this witness and leave my testimony, in the name of Jesus Christ. Amen.
+
+## References
 

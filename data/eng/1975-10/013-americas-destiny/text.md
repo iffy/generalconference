@@ -18,7 +18,7 @@ the Mount, and in the two great commandments:
 and with all thy mind. ...
 
 "And ... thou shalt love thy neighbour as thyself." ([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36).)
+39](/scriptures/nt/matt/22.37,39?lang=eng#36).)
 
 Millennia ago he declared: "There shall none come into this land [he was
 speaking of America] save they shall be brought by the hand of the Lord.
@@ -26,14 +26,14 @@ speaking of America] save they shall be brought by the hand of the Lord.
 "... this land is consecrated unto him whom he shall bring. And if it so be that
 they shall serve him according to the commandments which he hath given, it
 shall be a land of liberty unto them." ([2 Ne.
-1:6-7](https://www.lds.org/scriptures/bofm/2-ne/1.6-7?lang=eng#5).)
+1:6-7](/scriptures/bofm/2-ne/1.6-7?lang=eng#5).)
 
 Another ancient prophet said,
 
 "This is a choice land, and whatsoever nation shall possess it shall be free
 from bondage, and from captivity, and from all other nations under heaven, if
 they will but serve the God of the land, who is Jesus Christ." ([Ether
-2:12](https://www.lds.org/scriptures/bofm/ether/2.12?lang=eng#11).)
+2:12](/scriptures/bofm/ether/2.12?lang=eng#11).)
 
 It is my purpose in making these remarks to point out from the record of
 ancient inhabitants of America that the foregoing decrees have been carried
@@ -41,24 +41,22 @@ out.
 
 In the western part of the state of New York near Palmyra is a prominent hill
 known as the "hill Cumorah." ([Morm.
-6:6](https://www.lds.org/scriptures/bofm/morm/6.6?lang=eng#5).) On July
-twenty-fifth of this year, as I stood on the crest of that hill admiring with
-awe the breathtaking panorama which stretched out before me on every hand, my
-mind reverted to the events which occurred in that vicinity some twenty-five
-centuries ago--events which brought to an end the great Jaredite nation.
+6:6](/scriptures/bofm/morm/6.6?lang=eng#5).) On July twenty-fifth of this
+year, as I stood on the crest of that hill admiring with awe the breathtaking
+panorama which stretched out before me on every hand, my mind reverted to the
+events which occurred in that vicinity some twenty-five centuries ago--events
+which brought to an end the great Jaredite nation.
 
 You who are acquainted with the Book of Mormon will recall that during the
 final campaign of the fratricidal war between the armies led by Shiz and those
 led by Coriantumr "nearly two millions" of Coriantumr's people had been slain
 by the sword; "two millions of mighty men, and also their wives and their
-children." ([Ether
-15:2](https://www.lds.org/scriptures/bofm/ether/15.2?lang=eng#1).)
+children." ([Ether 15:2](/scriptures/bofm/ether/15.2?lang=eng#1).)
 
 As the conflict intensified, all the people who had not been slain--men "with
 their wives and their children" ([Ether
-15:15](https://www.lds.org/scriptures/bofm/ether/15.15?lang=eng#14))--gathered
-about that hill Cumorah (see [Ether
-15:11](https://www.lds.org/scriptures/bofm/ether/15.11?lang=eng#10)).
+15:15](/scriptures/bofm/ether/15.15?lang=eng#14))--gathered about that hill
+Cumorah (see [Ether 15:11](/scriptures/bofm/ether/15.11?lang=eng#10)).
 
 "The people who were for Coriantumr were gathered together to the army of
 Coriantumr; and the people who were for Shiz were gathered together to the
@@ -71,7 +69,7 @@ not.
 "And it came to pass that when it was night they were weary, and retired to
 their camps; and ... took up a howling and a lamentation for the loss of the
 slain of their people." ([Ether 15:13,
-15-16](https://www.lds.org/scriptures/bofm/ether/15.13%2C15-16?lang=eng#12).)
+15-16](/scriptures/bofm/ether/15.13,15-16?lang=eng#12).)
 
 This routine was repeated day after day until "they had all fallen by the
 sword, save it were Coriantumr and Shiz." Shiz himself "had fainted with the
@@ -85,13 +83,11 @@ raised upon his hands and fell; and after that he had struggled for breath, he
 died.
 
 "And it came to pass that Coriantumr fell to the earth, and became as if he
-had no life." ([Ether
-15:29-32](https://www.lds.org/scriptures/bofm/ether/15.29-32?lang=eng#28).)
+had no life." ([Ether 15:29-32](/scriptures/bofm/ether/15.29-32?lang=eng#28).)
 
 Thus perished at the foot of Cumorah the remnant of the once mighty Jaredite
 nation, of whom the Lord had said, "There shall be none greater ... upon all the
-face of the earth." ([Ether
-1:43](https://www.lds.org/scriptures/bofm/ether/1.43?lang=eng#42).)
+face of the earth." ([Ether 1:43](/scriptures/bofm/ether/1.43?lang=eng#42).)
 
 As I contemplated this tragic scene from the crest of Cumorah and viewed the
 beautiful land of the Restoration as it appears today, I cried in my soul,
@@ -117,7 +113,7 @@ upon them when they are ripened in iniquity.
 "For behold, this is a land which is choice above all other lands; wherefore
 he that doth possess it shall serve God or shall be swept off; for it is the
 everlasting decree of God." ([Ether
-2:7-10](https://www.lds.org/scriptures/bofm/ether/2.7-10?lang=eng#6).)
+2:7-10](/scriptures/bofm/ether/2.7-10?lang=eng#6).)
 
 Pursuant to this decree concerning the land of America, the Jaredites were
 swept off in the manner we have reviewed, because, rebelling against the laws
@@ -138,10 +134,10 @@ given, it shall be a land of liberty unto them; wherefore, they shall never be
 brought down into captivity; if so, it shall be because of iniquity; for if
 iniquity shall abound cursed shall be the land for their sakes, but unto the
 righteous it shall be blessed forever." ([2 Ne.
-1:6-7](https://www.lds.org/scriptures/bofm/2-ne/1.6-7?lang=eng#5).)
+1:6-7](/scriptures/bofm/2-ne/1.6-7?lang=eng#5).)
 
 This second civilization to which I refer, the Nephites, flourished in America
-between 600 B.C. and A.D. 400\. Their civilization came to an end for the same
+between 600 B.C. and A.D. 400. Their civilization came to an end for the same
 reason, at the same place, and in the same manner as did the Jaredites'. From
 the account of their death struggle, I quote:
 
@@ -181,8 +177,8 @@ could ye have rejected that Jesus, who stood with open arms to receive you!
 ... how is it that ye could have fallen! ...
 
 "O that ye had repented before this great destruction had come upon you."
-([Morm. 6:1, 4, 5, 7, 9-11, 15-19, 22](https://www.lds.org/scriptures/bofm/mor
-m/6.1%2C4%2C5%2C7%2C9-11%2C15-19%2C22?lang=eng#0).)
+([Morm. 6:1, 4, 5, 7, 9-11, 15-19,
+22](/scriptures/bofm/morm/6.1,4,5,7,9-11,15-19,22?lang=eng#0).)
 
 Moroni a little later wrote:
 
@@ -194,14 +190,14 @@ were all destroyed.
 
 "And my father also was killed by them, and I even remain alone to write the
 sad tale of the destruction of my people." ([Morm.
-8:1-3](https://www.lds.org/scriptures/bofm/morm/8.1-3?lang=eng#0).)
+8:1-3](/scriptures/bofm/morm/8.1-3?lang=eng#0).)
 
 The tragic fate of the Jaredite and the Nephite civilizations is proof
 positive that the Lord meant it when he said that this "is a land of promise;
 and whatsoever nation shall possess it shall serve God, or they shall be swept
 off when the fulness of his wrath shall come upon them. And the fulness of his
 wrath cometh upon them when they are ripened in iniquity." ([Ether
-2:9](https://www.lds.org/scriptures/bofm/ether/2.9?lang=eng#8).)
+2:9](/scriptures/bofm/ether/2.9?lang=eng#8).)
 
 This information, wrote Moroni, addressing himself to us who today occupy this
 land, "cometh unto you, O ye Gentiles" (now, _Gentiles_ is the term used by
@@ -215,13 +211,12 @@ land have hitherto done.
 "Behold, this is a choice land, and whatsoever nation shall possess it shall
 be free from bondage, and from captivity, and from all other nations under
 heaven, if they will but serve the God of the land, who is Jesus Christ."
-([Ether
-2:11-12](https://www.lds.org/scriptures/bofm/ether/2.11-12?lang=eng#10).)
+([Ether 2:11-12](/scriptures/bofm/ether/2.11-12?lang=eng#10).)
 
 In 1492, in harmony with the Lord's statement heretofore quoted, "that there
 shall none come into this land save they shall be brought by the hand of the
-Lord" ([2 Ne. 1:6](https://www.lds.org/scriptures/bofm/2-ne/1.6?lang=eng#5)),
-Columbus was divinely led to America.
+Lord" ([2 Ne. 1:6](/scriptures/bofm/2-ne/1.6?lang=eng#5)), Columbus was
+divinely led to America.
 
 Away back between 590 and 600 years B.C., Nephi, looking in vision down the
 stream of time, "beheld a man among the Gentiles [that is, among the nations
@@ -235,7 +230,7 @@ other Gentiles; and they went forth ... upon the many waters.
 
 "And it came to pass that I beheld many multitudes of the Gentiles upon the
 land of promise." ([1 Ne.
-13:12-14](https://www.lds.org/scriptures/bofm/1-ne/13.12-14?lang=eng#11).)
+13:12-14](/scriptures/bofm/1-ne/13.12-14?lang=eng#11).)
 
 Columbus himself corroborated the fact that he was divinely led to this land.
 
@@ -261,8 +256,8 @@ Because Columbus was led, we are here in this choice land.
 God gave us victory in the Revolutionary War. We are indebted to him for our
 nation's independence. He has prospered us in every righteous endeavor. He
 established the Constitution of the United States "by the hands of wise men
-whom [he] raised up unto this very purpose." ([D&amp;C
-101:80](https://www.lds.org/scriptures/dc-testament/dc/101.80?lang=eng#79).)
+whom [he] raised up unto this very purpose." ([D&amp;C 101:80](/scriptures/dc-
+testament/dc/101.80?lang=eng#79).)
 
 He himself with his Beloved Son appeared to the Prophet Joseph Smith to open a
 new dispensation of the gospel of Jesus Christ here in this land. He has
@@ -275,13 +270,13 @@ He has revealed anew and repeated over and over again the ancient decree:
 "This is a land which is choice above all other lands; wherefore he that doth
 possess it shall serve God or shall be swept off; for it is the everlasting
 decree of God" concerning this land. ([Ether
-2:10](https://www.lds.org/scriptures/bofm/ether/2.10?lang=eng#9).)
+2:10](/scriptures/bofm/ether/2.10?lang=eng#9).)
 
 This knowledge has been revealed to us that we "may know the decrees of God--
 that [we] may repent, and not continue in [our] iniquities until the fulness
 come, that [we] may not bring down the fulness of the wrath of God upon [us]
 as the inhabitants of the land have hitherto done." ([Ether
-2:11](https://www.lds.org/scriptures/bofm/ether/2.11?lang=eng#10).)
+2:11](/scriptures/bofm/ether/2.11?lang=eng#10).)
 
 We are living in the dispensation of the fulness of times, which will be
 climaxed by the second advent of the Lord Jesus Christ. Concerning the
@@ -304,8 +299,7 @@ earth, and the devil shall have power over his own dominion.
 
 "And also the Lord shall have power over his saints, and shall reign in their
 midst, and shall come down in judgment upon ... the world." ([D&amp;C 1:9,
-11-13, 35-36](https://www.lds.org/scriptures/dc-
-testament/dc/1.9%2C11-13%2C35-36?lang=eng#8).)
+11-13, 35-36](/scriptures/dc-testament/dc/1.9,11-13,35-36?lang=eng#8).)
 
 Now my beloved brethren and sisters everywhere, both members of the Church and
 nonmembers, I bear you my personal witness that I know that the things I have
@@ -318,4 +312,6 @@ we continue to defy them until we ripen in iniquity?
 That we will repent and obey and thereby qualify to receive the blessings
 promised to the righteous in this land, I humbly pray in the name of Jesus
 Christ, our Redeemer. Amen.
+
+## References
 

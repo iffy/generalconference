@@ -27,9 +27,9 @@ Where did they go, this countless flowering of humanity?
 
 Is there a purpose in such a temporary existence? Some say there is not. The
 great question of Job haunts us all: "If a man die, shall he live again?"
-([Job 14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13).) Of
-course he will! The answer is found in the doctrine of eternal life. It is the
-gospel of Jesus Christ, the good news, the glad tidings.
+([Job 14:14](/scriptures/ot/job/14.14?lang=eng#13).) Of course he will! The
+answer is found in the doctrine of eternal life. It is the gospel of Jesus
+Christ, the good news, the glad tidings.
 
 Even those who don't think they will live again or who don't want to live
 again will nevertheless arise from the grave and live again. There is nothing
@@ -63,18 +63,18 @@ said in the Book of Mormon:
 inhabitants of the earth, that they may know that there is no flesh that can
 dwell in the presence of God, save it be through the merits, and mercy, and
 grace of the Holy Messiah." ([2 Ne.
-2:8](https://www.lds.org/scriptures/bofm/2-ne/2.8?lang=eng#7).)
+2:8](/scriptures/bofm/2-ne/2.8?lang=eng#7).)
 
 For the Savior said, "I am the way, the truth, and the life: _no man_ cometh
 unto the Father, but by me." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).)
+14:6](/scriptures/nt/john/14.6?lang=eng#5).)
 
 The night the angel Moroni appeared to Joseph Smith "he said there was a book
 deposited, written upon gold plates, giving an account of the former
 inhabitants of this continent, and the source from whence they sprang. He also
 said that the fulness of the everlasting Gospel was contained in it, as
 delivered by the Savior to the ancient inhabitants." ([JS--H
-1:33-34](https://www.lds.org/scriptures/pgp/js-h/1.33-34?lang=eng#32).)
+1:33-34](/scriptures/pgp/js-h/1.33-34?lang=eng#32).)
 
 You would think that everyone would want to know what the Savior said to the
 inhabitants on the American continent. The truth is, however, that many don't.
@@ -133,59 +133,49 @@ remission of sins, and ye shall receive the gift of the Holy Ghost. ...
 from this untoward generation.
 
 "Then they that gladly received his word were baptized: ... three thousand
-souls." ([Acts
-2:38-41](https://www.lds.org/scriptures/nt/acts/2.38-41?lang=eng#37).)
+souls." ([Acts 2:38-41](/scriptures/nt/acts/2.38-41?lang=eng#37).)
 
 Then, we "press forward with a steadfastness in Christ ... and endure to the
 end, [and] thus saith the Father: Ye shall have eternal life." ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19).) We are to
-take upon us His name and always remember Him and keep His commandments. (See
-[Moro. 4](https://www.lds.org/scriptures/bofm/moro/4.title?lang=eng); [Moro.
-5](https://www.lds.org/scriptures/bofm/moro/5.title?lang=eng); [D&amp;C
-20:77-79](https://www.lds.org/scriptures/dc-
+31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19).) We are to take upon us His
+name and always remember Him and keep His commandments. (See [Moro.
+4](/scriptures/bofm/moro/4?lang=eng); [Moro.
+5](/scriptures/bofm/moro/5?lang=eng); [D&amp;C 20:77-79](/scriptures/dc-
 testament/dc/20.77-79?lang=eng#76).) That seems to be keeping our repentance
 up to date.
 
 Now comes the call to serve. We serve God and our fellowmen. The parable of
 the Good Samaritan came in answer to the lawyer's question: "What shall I do
 to obtain eternal life? ... Thou shalt love the Lord thy God ... and thy neighbour
-as thyself." ([Luke 10:25,
-27](https://www.lds.org/scriptures/nt/luke/10.25%2C27?lang=eng#24).)
+as thyself." ([Luke 10:25, 27](/scriptures/nt/luke/10.25,27?lang=eng#24).)
 
 In the portrayal of the Judgment Day in the twenty-fifth chapter of Matthew,
 we are called to serve those who are
 
-  * an hungred
-
-  * thirsty,
-
-  * a stranger
-
-  * naked
-
-  * sick
-
-  * or in prison. (See [Matt. 25:35-36](https://www.lds.org/scriptures/nt/matt/25.35-36?lang=eng#34).)
+  * an hungred 
+  * thirsty, 
+  * a stranger 
+  * naked 
+  * sick 
+  * or in prison. (See [Matt. 25:35-36](/scriptures/nt/matt/25.35-36?lang=eng#34).) 
 
 Evidently those who do not undertake this service will not qualify. As the
 Lord says, "Inasmuch as ye did it not to one of the least of these, ye did it
 not to me.
 
 "And these shall go away into everlasting punishment: but the righteous into
-life eternal." ([Matt.
-25:45-46](https://www.lds.org/scriptures/nt/matt/25.45-46?lang=eng#44).)
+life eternal." ([Matt. 25:45-46](/scriptures/nt/matt/25.45-46?lang=eng#44).)
 
 To receive the blessings that accompany this service we are given the
 priesthood and its power. It has been called "the Holy Priesthood, after the
-Order of the Son of God." ([D&amp;C 107:3](https://www.lds.org/scriptures/dc-
+Order of the Son of God." ([D&amp;C 107:3](/scriptures/dc-
 testament/dc/107.3?lang=eng#2).) "And without the ordinances thereof, and the
 authority of the priesthood, ... no man can see the face of God, even the
-Father, and live." ([D&amp;C 84:21-22](https://www.lds.org/scriptures/dc-
+Father, and live." ([D&amp;C 84:21-22](/scriptures/dc-
 testament/dc/84.21-22?lang=eng#20).)
 
 And furthermore, "Wo unto all those who come not unto this priesthood."
-([D&amp;C 84:42](https://www.lds.org/scriptures/dc-
-testament/dc/84.42?lang=eng#41).)
+([D&amp;C 84:42](/scriptures/dc-testament/dc/84.42?lang=eng#41).)
 
 Now, the way of God leads us to the temple. In the past eight years the number
 of temples in the Church has increased from seventeen to forty-one, with six
@@ -217,10 +207,10 @@ The privilege of returning to the temple helps us to obtain the spirit of the
 work performed there. We perform this service especially for our ancestors.
 Moroni also said to Joseph Smith, quoting the words of Malachi, "I will reveal
 unto you the Priesthood, by the hand of Elijah the prophet." ([JS--H
-1:38](https://www.lds.org/scriptures/pgp/js-h/1.38?lang=eng#37).) The hearts
-of us, the living children, will turn to our fathers--those ancestors who have
-died--and will provide them with the ordinances without which their redemption
-would not be possible.
+1:38](/scriptures/pgp/js-h/1.38?lang=eng#37).) The hearts of us, the living
+children, will turn to our fathers--those ancestors who have died--and will
+provide them with the ordinances without which their redemption would not be
+possible.
 
 Immortality or the resurrection will happen to us all. It is an unearned
 benefit made possible through the grace or free gift of Christ. Eternal life
@@ -235,4 +225,6 @@ his protection. I want his type of eternal life. It has come to mean
 everything to me. I know that the gospel is true, since I have heard the voice
 of God through his Spirit confirm and witness it to me. In the name of Jesus
 Christ, the Lord, amen.
+
+## References
 

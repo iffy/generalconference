@@ -21,11 +21,10 @@ where God and Christ are and have an inheritance with the faithful saints of
 ages past.
 
 It is written: "He who is not able to abide the law of a celestial kingdom
-cannot abide a celestial glory." ([D&amp;C
-88:22](https://www.lds.org/scriptures/dc-testament/dc/88.22?lang=eng#21).) The
-law of sacrifice is a celestial law; so also is the law of consecration. Thus
-to gain that celestial reward which we so devoutly desire, we must be _able_
-to live these two laws.
+cannot abide a celestial glory." ([D&amp;C 88:22](/scriptures/dc-
+testament/dc/88.22?lang=eng#21).) The law of sacrifice is a celestial law; so
+also is the law of consecration. Thus to gain that celestial reward which we
+so devoutly desire, we must be _able_ to live these two laws.
 
 Sacrifice and consecration are inseparably intertwined. The law of
 consecration is that we consecrate our time, our talents, and our money and
@@ -84,14 +83,14 @@ thee: then whose shall those things be, which thou hast provided?"
 
 And then did He not conclude the matter by saying, "So is he that layeth up
 treasure for himself, and is not rich toward God." ([Luke
-12:15-21](https://www.lds.org/scriptures/nt/luke/12.15-21?lang=eng#14).)
+12:15-21](/scriptures/nt/luke/12.15-21?lang=eng#14).)
 
 When the prophet Gad commanded David to build an altar and offer sacrifice on
 property owned by a certain man, that man offered to provide the land, the
 oxen, and all things for the sacrifice, without cost. But David said, "Nay;
 but I will surely buy it of thee at a price: neither will I offer burnt
 offerings unto the Lord my God of that which doth cost me nothing." ([2 Sam.
-24:24](https://www.lds.org/scriptures/ot/2-sam/24.24?lang=eng#23).)
+24:24](/scriptures/ot/2-sam/24.24?lang=eng#23).)
 
 When it costs us but little to give, the treasure laid up in heaven is a small
 one. The widow's mite, given in sacrifice, weighs more heavily in the eternal
@@ -123,9 +122,8 @@ of Jesus was: "If thou wilt be perfect, go and sell that thou hast, and give
 to the poor, and thou shalt have treasure in heaven: and come and follow me."
 
 As you know, the young man went away sorrowful, "for he had great
-possessions." ([Matt.
-19:16-22](https://www.lds.org/scriptures/nt/matt/19.16-22?lang=eng#15).) And
-we are left to wonder what intimacies he might have shared with the Son of
+possessions." ([Matt. 19:16-22](/scriptures/nt/matt/19.16-22?lang=eng#15).)
+And we are left to wonder what intimacies he might have shared with the Son of
 God, what fellowship he might have enjoyed with the apostles, what revelations
 and visions he might have received, if he had been _able_ to live the law of a
 celestial kingdom. As it is he remains nameless; as it might have been, his
@@ -152,7 +150,7 @@ We are under covenant to live the law of consecration.
 With this in mind, hear this word from the Lord: "If you will that I give unto
 you a place in the celestial world, you must prepare yourselves by doing the
 things which I have commanded you and required of you." ([D&amp;C
-78:7](https://www.lds.org/scriptures/dc-testament/dc/78.7?lang=eng#6).)
+78:7](/scriptures/dc-testament/dc/78.7?lang=eng#6).)
 
 It is our privilege to consecrate our time, talents, and means to build up his
 kingdom. We are called upon to sacrifice, in one degree or another, for the
@@ -193,8 +191,7 @@ price.
 
 All our service in God's kingdom is predicated on his eternal law which
 states: "The laborer in Zion shall labor for Zion, for if they labor for money
-they shall perish." ([2 Ne.
-26:31](https://www.lds.org/scriptures/bofm/2-ne/26.31?lang=eng#30).)
+they shall perish." ([2 Ne. 26:31](/scriptures/bofm/2-ne/26.31?lang=eng#30).)
 
 We know full well that the laborer is worthy of his hire, and that those who
 devote all their time to the building up of the kingdom must be provided with
@@ -232,4 +229,6 @@ gospel--he shall be repaid in eternity a thousandfold and shall have eternal
 life. What more can we ask?
 
 In the name of the Lord Jesus Christ. Amen.
+
+## References
 

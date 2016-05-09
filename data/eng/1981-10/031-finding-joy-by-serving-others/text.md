@@ -86,25 +86,16 @@ enjoyable as any recreational outing.
 
 Here are some other projects you may want to do:
 
-  1. Pick up a child regularly for Primary. We did this and found that our little friend soon learned that we really would be by for him every Sunday.
-
-  2. Write appreciation notes to your Primary, school, or home teachers. They will be surprised to find that someone cares.
-
-  3. Sing willingly in the ward choir. The director will be grateful, and you'll be serving through music.
-
-  4. Share your garden crops.
-
-  5. Invite someone who is usually alone in to dinner.
-
-  6. Serve secretly. We think it's great fun to make some goodies together, put them on a porch, ring the bell, and run.
-
-  7. Encourage your daughter to babysit for free while a couple attends the temple.
-
-  8. Organize a neighborhood potluck dinner to build better friendships. Nonmembers can be influenced through this kind of service.
-
-  9. Plan ahead. Start a bank account so that mission service can come later.
-
-  10. Be a good example of gospel living so others will be encouraged.
+  1. Pick up a child regularly for Primary. We did this and found that our little friend soon learned that we really would be by for him every Sunday. 
+  2. Write appreciation notes to your Primary, school, or home teachers. They will be surprised to find that someone cares. 
+  3. Sing willingly in the ward choir. The director will be grateful, and you'll be serving through music. 
+  4. Share your garden crops. 
+  5. Invite someone who is usually alone in to dinner. 
+  6. Serve secretly. We think it's great fun to make some goodies together, put them on a porch, ring the bell, and run. 
+  7. Encourage your daughter to babysit for free while a couple attends the temple. 
+  8. Organize a neighborhood potluck dinner to build better friendships. Nonmembers can be influenced through this kind of service. 
+  9. Plan ahead. Start a bank account so that mission service can come later. 
+  10. Be a good example of gospel living so others will be encouraged. 
 
 There is an old Relief Society story about a child who came in as his mother
 was putting the finishing touches on a cake. He asked: "Who are we giving that
@@ -115,4 +106,6 @@ There are so many ways that our families can bring joy to others through
 service by extending ourselves. I am very thankful for the strengthened
 testimonies we have received through service, and I say this in the name of
 Jesus Christ, amen.
+
+## References
 

@@ -18,19 +18,17 @@ world in which we all live. It was a _rare_ vision--unlike any other I have
 seen recorded: "And Moses beheld the world and the ends thereof, and all the
 children of men which are, and which were created." The scripture says, "He
 greatly marveled and wondered." ([Moses
-1:8](https://www.lds.org/scriptures/pgp/moses/1.8?lang=eng#7).) Can you even
-begin to imagine what it would be like to see everyone and everything that
-ever was or will be on this earth? This filled Moses with awe, and he said to
-himself, "Now, for this cause I know that man is nothing, which thing I never
-had supposed." ([Moses
-1:10](https://www.lds.org/scriptures/pgp/moses/1.10?lang=eng#9).) Then the
-Lord taught him a most important and central truth. He said, "This is my work
-and my glory--to bring to pass the immortality and eternal life of man."
-([Moses 1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) And
-I would add _every_ man and _every_ woman. What a wonder, to Moses and to us,
-that we, who may feel as nothing when we compare ourselves to the vast
-universe, are in fact the reason for its creation and for the creation of the
-earth.
+1:8](/scriptures/pgp/moses/1.8?lang=eng#7).) Can you even begin to imagine
+what it would be like to see everyone and everything that ever was or will be
+on this earth? This filled Moses with awe, and he said to himself, "Now, for
+this cause I know that man is nothing, which thing I never had supposed."
+([Moses 1:10](/scriptures/pgp/moses/1.10?lang=eng#9).) Then the Lord taught
+him a most important and central truth. He said, "This is my work and my glory
+--to bring to pass the immortality and eternal life of man." ([Moses
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) And I would add _every_ man
+and _every_ woman. What a wonder, to Moses and to us, that we, who may feel as
+nothing when we compare ourselves to the vast universe, are in fact the reason
+for its creation and for the creation of the earth.
 
 I think it is important to stretch our minds and try to comprehend, as Moses
 was shown, the paradox of being small and great at the same time. The
@@ -62,7 +60,7 @@ can be made free. There is no other name given whereby salvation cometh;
 therefore, I would that ye should take upon you the name of Christ, all you
 that have entered into the covenant with God that ye should be obedient unto
 the end of your lives." ([Mosiah
-5:7-8](https://www.lds.org/scriptures/bofm/mosiah/5.7-8?lang=eng#6).)
+5:7-8](/scriptures/bofm/mosiah/5.7-8?lang=eng#6).)
 
 My whole hope in speaking to you about gospel knowledge of our individual
 importance to our Heavenly Father and our Savior is that it will build our
@@ -101,22 +99,22 @@ record hasn't had more influence on all the unfunny mother-in-law jokes that
 abound in the world.) But eventually Orpah decides to stay in Moab, and again
 Naomi says to Ruth, "Behold, thy sister in law has gone back to her people,
 and unto her gods: return thou after thy sister in law." ([Ruth
-1:15](https://www.lds.org/scriptures/ot/ruth/1.15?lang=eng#14).)
+1:15](/scriptures/ot/ruth/1.15?lang=eng#14).)
 
 At this point, in majestic Hebraic poetry, Ruth announces her decision and
 confirms her conversion. "Intreat me not to leave thee, or to return from
 following after thee: for whither thou goest, I will go; and where thou
 lodgest, I will lodge: thy people shall be my people, and thy God my God."
-([Ruth 1:16](https://www.lds.org/scriptures/ot/ruth/1.16?lang=eng#15).)
+([Ruth 1:16](/scriptures/ot/ruth/1.16?lang=eng#15).)
 
 When Naomi, herself realistic and wise, saw Ruth's steadfastness, she "left
-off speaking to her" (see [Ruth
-1:18](https://www.lds.org/scriptures/ot/ruth/1.18?lang=eng#17)), which does
-not mean she stopped talking with her, but that she quit trying to convince
-her of the difficulties she would face in Israel. Ruth, the Moabitess, _would_
-face bigotry, poverty, and much insecurity, but she was converted, and she
-_had_ decided. She and Naomi became a great team, facing together not only the
-problems before them, but the opportunities that would come also.
+off speaking to her" (see [Ruth 1:18](/scriptures/ot/ruth/1.18?lang=eng#17)),
+which does not mean she stopped talking with her, but that she quit trying to
+convince her of the difficulties she would face in Israel. Ruth, the
+Moabitess, _would_ face bigotry, poverty, and much insecurity, but she was
+converted, and she _had_ decided. She and Naomi became a great team, facing
+together not only the problems before them, but the opportunities that would
+come also.
 
 In time, Ruth married Boaz, and a child was born to them. "And the women said
 to Naomi, Blessed be the Lord ... for thy daughter in law, which loveth thee,
@@ -126,8 +124,7 @@ which is better to thee than seven sons, hath born [a child].
 
 "And the women her neighbours gave it a name, saying, There is a son born to
 Naomi; and they called his name Obed: he is the father of Jesse, the father of
-David." ([Ruth
-4:14-17](https://www.lds.org/scriptures/ot/ruth/4.14-17?lang=eng#13).)
+David." ([Ruth 4:14-17](/scriptures/ot/ruth/4.14-17?lang=eng#13).)
 
 Now that was a kind of a prophecy which is very important to us. In a culture
 hostile to the leadership of women, these women--Naomi and Ruth--lived to
@@ -151,4 +148,6 @@ which fill my soul with joy and gladness and cause me to say, we _do _live in
 a wonderful time.
 
 In the name of Jesus Christ, amen.
+
+## References
 

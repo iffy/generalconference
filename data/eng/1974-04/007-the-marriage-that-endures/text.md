@@ -92,7 +92,7 @@ then went on to say to Peter and his associates, 'And I will give unto thee
 the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth
 shall be bound in heaven: and whatsoever thou shalt loose on earth shall be
 loosed in heaven.' ([Matt.
-16:13-19](https://www.lds.org/scriptures/nt/matt/16.13-19?lang=eng#12).)
+16:13-19](/scriptures/nt/matt/16.13-19?lang=eng#12).)
 
 "In that marvelous bestowal of authority the Lord gave to his apostles the
 keys of the holy priesthood, whose power reaches beyond life and death into
@@ -229,4 +229,6 @@ offered. Live worthy of it and partake of it, and let the sanctifying power of
 his holy priesthood seal your companionship. For these blessings I humbly pray
 in your behalf, as I bear testimony and witness of these truths in the name of
 the Lord Jesus Christ. Amen.
+
+## References
 

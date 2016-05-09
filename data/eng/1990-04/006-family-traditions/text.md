@@ -62,7 +62,7 @@ more and mightier than we:
 "Come on, let us deal wisely with them; lest they multiply, and it come to
 pass, that, when there falleth out any war, they join also unto our enemies,
 and fight against us, and so get them up out of the land." ([Ex.
-1:6-10](https://www.lds.org/scriptures/ot/ex/1.6-10?lang=eng#5).)
+1:6-10](/scriptures/ot/ex/1.6-10?lang=eng#5).)
 
 Then the narrative continues to tell how the Israelites were placed in bondage
 and became slaves to the Egyptians. Moses was raised up, trained, and charged
@@ -88,7 +88,7 @@ read:
 the camp, and called it the Tabernacle of the congregation. And it came to
 pass, that every one which sought the Lord went out unto the tabernacle of the
 congregation, which was without the camp." ([Ex.
-33:7](https://www.lds.org/scriptures/ot/ex/33.7?lang=eng#6).)
+33:7](/scriptures/ot/ex/33.7?lang=eng#6).)
 
 When the children of Israel again found favor in the sight of the Lord, the
 tabernacle was moved with them from place to place as they went about their
@@ -141,8 +141,8 @@ he must be obedient to law.
 world, upon which all blessings are predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19).)
+which it is predicated." ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19).)
 
 Prophets through the ages have taught us to be obedient to the laws of the
 Lord, and these laws are the foundation of our existence here and will bring
@@ -197,4 +197,6 @@ peace and harmony until the day that He returns to rule and reign over us.
 This is the Lord's work in which we are engaged. God lives! Jesus is the
 Christ, the Savior of the world, is my solemn witness to you in the name of
 Jesus Christ, amen.
+
+## References
 

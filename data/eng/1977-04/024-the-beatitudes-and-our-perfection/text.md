@@ -19,7 +19,7 @@ It is important that members of the Church know that each General Authority
 has that sure knowledge, for the Savior, referring to individual revelation,
 said to Peter, "And upon this rock [meaning the rock of individual revelation]
 I will build my church." ([Matt.
-16:18](https://www.lds.org/scriptures/nt/matt/16.18?lang=eng#17).)
+16:18](/scriptures/nt/matt/16.18?lang=eng#17).)
 
 Serving the Lord is not an individual matter. It is a family affair. Every
 wife should support her husband in his Church responsibilities; every husband
@@ -60,16 +60,15 @@ represents a specific step in our orderly progression towards perfection, and
 teaches us how to qualify ourselves for exaltation, for the Bible concludes
 the chapter on the Beatitudes with the words, "Be ye therefore perfect, even
 as your Father which is in heaven is perfect." ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).)
+5:48](/scriptures/nt/matt/5.48?lang=eng#47).)
 
 The Savior began his sermon saying, _"Blessed are the poor in spirit: for
 theirs is the kingdom of heaven." _([Matt.
-5:3](https://www.lds.org/scriptures/nt/matt/5.3?lang=eng#2); italics added.)
-When the Savior gave the same sermon to the people of ancient America, he
-said, "Blessed are the poor in spirit who come unto me, for theirs is the
-kingdom of heaven." ([3 Ne.
-12:3](https://www.lds.org/scriptures/bofm/3-ne/12.3?lang=eng#2).) "Who come
-unto me"--that clarifies the meaning.
+5:3](/scriptures/nt/matt/5.3?lang=eng#2); italics added.) When the Savior gave
+the same sermon to the people of ancient America, he said, "Blessed are the
+poor in spirit who come unto me, for theirs is the kingdom of heaven." ([3 Ne.
+12:3](/scriptures/bofm/3-ne/12.3?lang=eng#2).) "Who come unto me"--that
+clarifies the meaning.
 
 When I was a boy, a herd of horses ran wild on Ensign Flats just north of the
 Utah State Capitol building. In the summertime we would occasionally sit on
@@ -104,12 +103,10 @@ must take it in order to qualify for exaltation. The miracle of change begins
 when we come forth with a contrite spirit.
 
 The Savior then said, _"Blessed are they that mourn: for they shall be
-comforted." _([Matt.
-5:4](https://www.lds.org/scriptures/nt/matt/5.4?lang=eng#3); italics added.)
+comforted." _([Matt. 5:4](/scriptures/nt/matt/5.4?lang=eng#3); italics added.)
 This is the _second step._ It is an essential one. The apostle Paul spoke of a
 godly sorrow for our sins when he said, "For godly sorrow worketh repentance
-to salvation." ([2 Cor.
-7:10](https://www.lds.org/scriptures/nt/2-cor/7.10?lang=eng#9).) It is
+to salvation." ([2 Cor. 7:10](/scriptures/nt/2-cor/7.10?lang=eng#9).) It is
 necessary to repent of our sins if we are to be forgiven and if the atonement
 of Jesus Christ is to be effective in our lives. Oh! how joyous it is to work
 with a person as he goes through the process of repentance, enters the water
@@ -118,58 +115,54 @@ and unity with those who have gone through this purifying process that the
 world does not understand.
 
 The Savior next said, _"Blessed are the meek: for they shall inherit the
-earth." _([Matt. 5:5](https://www.lds.org/scriptures/nt/matt/5.5?lang=eng#4);
-italics added.) To be meek is to be teachable. Those who are willing to listen
-can learn much. Those who are unwilling to listen deny themselves great
-blessings. You needn't worry about being deceived, for the prophet Moroni
-wrote, "By the power of the Holy Ghost you may know the truth of all things."
-([Moro. 10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4).) You
-have the receiving set within you to distinguish false doctrine from true
-doctrine. Follow the steps outlined by the Savior in the Beatitudes and your
-receiving set will become finely tuned. Then pray to God in sincerity for an
-answer and your receiving set will work. This is God's way for us to discern
-the truth.
+earth." _([Matt. 5:5](/scriptures/nt/matt/5.5?lang=eng#4); italics added.) To
+be meek is to be teachable. Those who are willing to listen can learn much.
+Those who are unwilling to listen deny themselves great blessings. You needn't
+worry about being deceived, for the prophet Moroni wrote, "By the power of the
+Holy Ghost you may know the truth of all things." ([Moro.
+10:5](/scriptures/bofm/moro/10.5?lang=eng#4).) You have the receiving set
+within you to distinguish false doctrine from true doctrine. Follow the steps
+outlined by the Savior in the Beatitudes and your receiving set will become
+finely tuned. Then pray to God in sincerity for an answer and your receiving
+set will work. This is God's way for us to discern the truth.
 
 The Savior further said, _"Blessed are they which do hunger and thirst after
 righteousness: for they shall be filled." _(; italics added.) The Book of
 Mormon account reads, "For they shall be filled with the Holy Ghost." ([3 Ne.
-12:6](https://www.lds.org/scriptures/bofm/3-ne/12.6?lang=eng#5).) This is
-important. The Holy Ghost is the great teacher and teaches us the truth of all
-things. God has documented his plan of salvation--a plan for _our_ salvation.
-It is found in the holy scriptures and the Lord has commanded us to "search
-the scriptures." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).) The plan is
-not complicated, but it is comprehensive. It is so comprehensive that we never
+12:6](/scriptures/bofm/3-ne/12.6?lang=eng#5).) This is important. The Holy
+Ghost is the great teacher and teaches us the truth of all things. God has
+documented his plan of salvation--a plan for _our_ salvation. It is found in
+the holy scriptures and the Lord has commanded us to "search the scriptures."
+([John 5:39](/scriptures/nt/john/5.39?lang=eng#38).) The plan is not
+complicated, but it is comprehensive. It is so comprehensive that we never
 stop learning, yet it is beautifully simple. The Lord has promised us all that
 if we follow his program we will learn "line upon line, precept upon precept"
-([D&amp;C 98:12](https://www.lds.org/scriptures/dc-
-testament/dc/98.12?lang=eng#11)), until the perfect day.
+([D&amp;C 98:12](/scriptures/dc-testament/dc/98.12?lang=eng#11)), until the
+perfect day.
 
 This promise is to every man. We should develop an insatiable appetite for
 knowledge pertaining to our salvation, for the Savior said, "And this is life
 eternal, that they might know thee the only true God, and Jesus Christ, whom
-thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).) There is no
-more important, exciting, and exhilarating subject than to learn about him who
-created the worlds and the plan he has prepared for us.
+thou hast sent." ([John 17:3](/scriptures/nt/john/17.3?lang=eng#2).) There is
+no more important, exciting, and exhilarating subject than to learn about him
+who created the worlds and the plan he has prepared for us.
 
 As we begin to follow the teachings of the Savior, our thoughts and our hearts
 turn to others. The Savior continued, _"Blessed are the merciful: for they
-shall obtain mercy."_ ([Matt.
-5:7](https://www.lds.org/scriptures/nt/matt/5.7?lang=eng#6); italics added.)
-Happiness is a by-product of helping others. No man ever finds happiness by
-thinking of himself. True happiness comes when we lose ourselves in the
-service of others--when we are merciful to our fellowmen.
+shall obtain mercy."_ ([Matt. 5:7](/scriptures/nt/matt/5.7?lang=eng#6);
+italics added.) Happiness is a by-product of helping others. No man ever finds
+happiness by thinking of himself. True happiness comes when we lose ourselves
+in the service of others--when we are merciful to our fellowmen.
 
 Being merciful to others leads to purity of heart, for the Savior said,
 _"Blessed are the pure in heart: for they shall see God." _([Matt.
-5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7); italics added.)
+5:8](/scriptures/nt/matt/5.8?lang=eng#7); italics added.)
 
 The by-product of a pure heart is inner peace. The Lord next said, _"Blessed
 are the peacemakers: for they__shall be called the children of God."_ ([Matt.
-5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8); italics added.)
-When a man obtains inner peace he wants peace in his family. He wants peace in
-his community. He wants peace in the nation. And he wants peace in the world.
+5:9](/scriptures/nt/matt/5.9?lang=eng#8); italics added.) When a man obtains
+inner peace he wants peace in his family. He wants peace in his community. He
+wants peace in the nation. And he wants peace in the world.
 
 Sister Derrick and I recently drove from Dublin to Limerick, Ireland. Along
 the way were signs painted on walls and bus stop enclosures: "Brits out--Peace
@@ -190,10 +183,10 @@ all manner of evil against you falsely, for my sake._
 
 _"Rejoice, and be exceeding glad: for great is your reward in heaven: for so
 persecuted they the prophets which were before you."_ ([Matt.
-5:10-12](https://www.lds.org/scriptures/nt/matt/5.10-12?lang=eng#9); italics
-added.) And thus the Savior described the miracle of change that comes into
-one's life when he accepts the gospel of Jesus Christ, which is a beautiful,
-miraculous, and soul-satisfying gift from God.
+5:10-12](/scriptures/nt/matt/5.10-12?lang=eng#9); italics added.) And thus the
+Savior described the miracle of change that comes into one's life when he
+accepts the gospel of Jesus Christ, which is a beautiful, miraculous, and
+soul-satisfying gift from God.
 
 The Savior concluded the Beatitudes by saying of those who conform their lives
 to these teachings, "Ye are the salt of the earth. ...
@@ -202,19 +195,18 @@ to these teachings, "Ye are the salt of the earth. ...
 
 "Let your light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven." ([Matt. 5:13-14,
-16](https://www.lds.org/scriptures/nt/matt/5.13-14%2C16?lang=eng#12).)
+16](/scriptures/nt/matt/5.13-14,16?lang=eng#12).)
 
 The prophet Nephi, referring to the Savior, said, "He inviteth them all to
 come unto him and partake of his goodness; and he denieth none that come unto
-him." ([2 Ne.
-26:33](https://www.lds.org/scriptures/bofm/2-ne/26.33?lang=eng#32).)
+him." ([2 Ne. 26:33](/scriptures/bofm/2-ne/26.33?lang=eng#32).)
 
 To all men everywhere we reiterate that invitation to come unto the Savior the
 way he has outlined, partake of his goodness, "and enjoy the words of eternal
 life in this world, and eternal life in the world to come, even immortal
-glory" ([Moses
-6:59](https://www.lds.org/scriptures/pgp/moses/6.59?lang=eng#58)), "which gift
-is the greatest of all the gifts of God" ([D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6)). In the
-name of Jesus Christ, amen.
+glory" ([Moses 6:59](/scriptures/pgp/moses/6.59?lang=eng#58)), "which gift is
+the greatest of all the gifts of God" ([D&amp;C 14:7](/scriptures/dc-
+testament/dc/14.7?lang=eng#6)). In the name of Jesus Christ, amen.
+
+## References
 

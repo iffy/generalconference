@@ -24,8 +24,8 @@ successor, President Brigham Young.
 
 He lived great, and he died great, a martyr to the cause of Christ; and, like
 most of the Lord's anointed in ancient times, he sealed his mission and his
-testimony with his life's blood. (See [D&amp;C
-135:3](https://www.lds.org/scriptures/dc-testament/dc/135.3?lang=eng#2).)
+testimony with his life's blood. (See [D&amp;C 135:3](/scriptures/dc-
+testament/dc/135.3?lang=eng#2).)
 
 He left a name and a fame that will never die, and as the years roll on and
 the Church continues taking the gospel to every nation, kindred, tongue, and
@@ -192,7 +192,7 @@ a composer; nor was he a thief plagiarizing someone else's work.
 
 The whole task of translation was a miracle. The book is "a marvellous work
 and a wonder," as Isaiah said. ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13).)
+29:14](/scriptures/ot/isa/29.14?lang=eng#13).)
 
 But, the critics ask, how do we explain the similarity of certain passages in
 both the Book of Mormon and the Bible? It is very simple. When I lived in
@@ -227,4 +227,6 @@ would be a miracle, "a marvellous work and a wonder." And so it is.
 
 To this I bear my humble but solemn testimony in the sacred name of the Lord
 Jesus Christ. Amen.
+
+## References
 

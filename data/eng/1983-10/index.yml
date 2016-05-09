@@ -1,377 +1,309 @@
 items:
-- article_id: '03167_000_003'
-  item: '000'
+- item: 1
   key: 000-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sustaining-of-church-officers
   speaker: Gordon B. Hinckley
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1983/10/the-sustaining-of-church-officers?lang=eng
   year: 1983
-- article_id: '03167_000_004'
-  item: '001'
+- item: 2
   key: 001-except-ye-are-one
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: except-ye-are-one
   speaker: Gordon B. Hinckley
   title: Except Ye Are One
   url: https://www.lds.org/general-conference/1983/10/except-ye-are-one?lang=eng
   year: 1983
-- article_id: '03167_000_005'
-  item: '002'
+- item: 3
   key: 002-jesus-christ-our-savior-and-redeemer
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: jesus-christ-our-savior-and-redeemer
   speaker: Ezra Taft Benson
-  title: 'Jesus Christ: Our Savior and Redeemer'
+  title: Jesus Christ:Our Savior and Redeemer
   url: https://www.lds.org/general-conference/1983/10/jesus-christ-our-savior-and-redeemer?lang=eng
   year: 1983
-- article_id: '03167_000_006'
-  item: '003'
+- item: 4
   key: 003-the-keystone-of-our-religion
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-keystone-of-our-religion
   speaker: James E. Faust
   title: The Keystone of Our Religion
   url: https://www.lds.org/general-conference/1983/10/the-keystone-of-our-religion?lang=eng
   year: 1983
-- article_id: '03167_000_007'
-  item: '004'
+- item: 5
   key: 004-our-father-which-art-in-heaven
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: our-father-which-art-in-heaven
   speaker: L. Tom Perry
-  title: "\u201COur Father Which Art in Heaven\u201D"
+  title: '"Our Father Which Art in Heaven"'
   url: https://www.lds.org/general-conference/1983/10/our-father-which-art-in-heaven?lang=eng
   year: 1983
-- article_id: 03167_000_008
-  item: '005'
+- item: 6
   key: 005-parent-child-interviews
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: parent-child-interviews
   speaker: Carlos E. Asay
   title: Parent-Child Interviews
   url: https://www.lds.org/general-conference/1983/10/parent-child-interviews?lang=eng
   year: 1983
-- article_id: 03167_000_009
-  item: '006'
+- item: 7
   key: 006-the-mystery-of-life
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-mystery-of-life
   speaker: Boyd K. Packer
   title: The Mystery of Life
   url: https://www.lds.org/general-conference/1983/10/the-mystery-of-life?lang=eng
   year: 1983
-- article_id: '03167_000_010'
-  item: '007'
+- item: 8
   key: 007-labels
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: labels
   speaker: Thomas S. Monson
   title: Labels
   url: https://www.lds.org/general-conference/1983/10/labels?lang=eng
   year: 1983
-- article_id: '03167_000_011'
-  item: 008
+- item: 9
   key: 008-agency-and-love
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: agency-and-love
   speaker: Marion D. Hanks
   title: Agency and Love
   url: https://www.lds.org/general-conference/1983/10/agency-and-love?lang=eng
   year: 1983
-- article_id: '03167_000_012'
-  item: 009
+- item: 10
   key: 009-friend-or-foe
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: friend-or-foe
-  speaker: Charles Didier
+  speaker: Charles A. Didier
   title: Friend or Foe
   url: https://www.lds.org/general-conference/1983/10/friend-or-foe?lang=eng
   year: 1983
-- article_id: '03167_000_013'
-  item: '010'
+- item: 11
   key: 010-honour-thy-father-and-thy-mother
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: honour-thy-father-and-thy-mother
   speaker: Paul H. Dunn
-  title: "\u201CHonour Thy Father and Thy Mother\u201D"
+  title: '"Honour Thy Father and Thy Mother"'
   url: https://www.lds.org/general-conference/1983/10/honour-thy-father-and-thy-mother?lang=eng
   year: 1983
-- article_id: '03167_000_014'
-  item: '011'
+- item: 12
   key: 011-the-house-of-the-lord
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-house-of-the-lord
   speaker: Adney Y. Komatsu
   title: The House of the Lord
   url: https://www.lds.org/general-conference/1983/10/the-house-of-the-lord?lang=eng
   year: 1983
-- article_id: '03167_000_015'
-  item: '012'
+- item: 13
   key: 012-the-angel-moroni-came
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-angel-moroni-came
   speaker: Mark E. Petersen
   title: The Angel Moroni Came!
   url: https://www.lds.org/general-conference/1983/10/the-angel-moroni-came?lang=eng
   year: 1983
-- article_id: '03167_000_016'
-  item: '013'
+- item: 14
   key: 013-our-responsibility-to-take-the-gospel-to-the-ends-of-the-earth
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: our-responsibility-to-take-the-gospel-to-the-ends-of-the-earth
-  speaker: Jack H Goaslind, Jr.
+  speaker: Jack H Goaslind Jr.
   title: Our Responsibility to Take the Gospel to the Ends of the Earth
   url: https://www.lds.org/general-conference/1983/10/our-responsibility-to-take-the-gospel-to-the-ends-of-the-earth?lang=eng
   year: 1983
-- article_id: '03167_000_017'
-  item: '014'
+- item: 15
   key: 014-the-blessings-of-missionary-service
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-blessings-of-missionary-service
   speaker: James M. Dunn
   title: The Blessings of Missionary Service
   url: https://www.lds.org/general-conference/1983/10/the-blessings-of-missionary-service?lang=eng
   year: 1983
-- article_id: 03167_000_018
-  item: '015'
+- item: 16
   key: 015-called-as-if-he-heard-a-voice-from-heaven
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: called-as-if-he-heard-a-voice-from-heaven
   speaker: Vaughn J. Featherstone
-  title: "\u201CCalled As If He Heard a Voice from Heaven\u201D"
+  title: '"Called As If He Heard a Voice from Heaven"'
   url: https://www.lds.org/general-conference/1983/10/called-as-if-he-heard-a-voice-from-heaven?lang=eng
   year: 1983
-- article_id: 03167_000_019
-  item: '016'
+- item: 17
   key: 016-become-a-star-thrower
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: become-a-star-thrower
   speaker: David B. Haight
   title: Become a Star Thrower
   url: https://www.lds.org/general-conference/1983/10/become-a-star-thrower?lang=eng
   year: 1983
-- article_id: '03167_000_020'
-  item: '017'
+- item: 18
   key: 017-what-manner-of-men-ought-we-to-be
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: what-manner-of-men-ought-we-to-be
   speaker: Ezra Taft Benson
   title: What Manner of Men Ought We to Be?
   url: https://www.lds.org/general-conference/1983/10/what-manner-of-men-ought-we-to-be?lang=eng
   year: 1983
-- article_id: '03167_000_021'
-  item: 018
+- item: 19
   key: 018-be-not-deceived
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: be-not-deceived
   speaker: Gordon B. Hinckley
   title: Be Not Deceived
   url: https://www.lds.org/general-conference/1983/10/be-not-deceived?lang=eng
   year: 1983
-- article_id: '03167_000_022'
-  item: 019
+- item: 20
   key: 019-god-grant-us-faith
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: god-grant-us-faith
   speaker: Gordon B. Hinckley
   title: God Grant Us Faith
   url: https://www.lds.org/general-conference/1983/10/god-grant-us-faith?lang=eng
   year: 1983
-- article_id: '03167_000_023'
-  item: '020'
+- item: 21
   key: 020-joseph-the-seer
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: joseph-the-seer
   speaker: Neal A. Maxwell
   title: Joseph, the Seer
   url: https://www.lds.org/general-conference/1983/10/joseph-the-seer?lang=eng
   year: 1983
-- article_id: '03167_000_024'
-  item: '021'
+- item: 22
   key: 021-be-a-peacemaker
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: be-a-peacemaker
   speaker: Franklin D. Richards
   title: Be a Peacemaker
   url: https://www.lds.org/general-conference/1983/10/be-a-peacemaker?lang=eng
   year: 1983
-- article_id: '03167_000_025'
-  item: '022'
+- item: 23
   key: 022-removing-the-poison-of-an-unforgiving-spirit
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: removing-the-poison-of-an-unforgiving-spirit
   speaker: H. Burke Peterson
   title: Removing the Poison of an Unforgiving Spirit
   url: https://www.lds.org/general-conference/1983/10/removing-the-poison-of-an-unforgiving-spirit?lang=eng
   year: 1983
-- article_id: '03167_000_026'
-  item: '023'
+- item: 24
   key: 023-the-word-is-commitment
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-word-is-commitment
   speaker: Marvin J. Ashton
-  title: "\u201CThe Word Is Commitment\u201D"
+  title: '"The Word Is Commitment"'
   url: https://www.lds.org/general-conference/1983/10/the-word-is-commitment?lang=eng
   year: 1983
-- article_id: '03167_000_027'
-  item: '024'
+- item: 25
   key: 024-parents-concern-for-children
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: parents-concern-for-children
   speaker: Howard W. Hunter
-  title: "Parents\u2019 Concern for Children"
+  title: Parents' Concern for Children
   url: https://www.lds.org/general-conference/1983/10/parents-concern-for-children?lang=eng
   year: 1983
-- article_id: 03167_000_028
-  item: '025'
+- item: 26
   key: 025-your-sorrow-shall-be-turned-to-joy
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: your-sorrow-shall-be-turned-to-joy
   speaker: Robert D. Hales
   title: Your Sorrow Shall Be Turned to Joy
   url: https://www.lds.org/general-conference/1983/10/your-sorrow-shall-be-turned-to-joy?lang=eng
   year: 1983
-- article_id: 03167_000_029
-  item: '026'
+- item: 27
   key: 026-how-do-you-know
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: how-do-you-know
   speaker: William R. Bradford
   title: How Do You Know?
   url: https://www.lds.org/general-conference/1983/10/how-do-you-know?lang=eng
   year: 1983
-- article_id: '03167_000_030'
-  item: '027'
+- item: 28
   key: 027-the-power-to-make-a-difference
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-power-to-make-a-difference
   speaker: Richard G. Scott
   title: The Power to Make a Difference
   url: https://www.lds.org/general-conference/1983/10/the-power-to-make-a-difference?lang=eng
   year: 1983
-- article_id: '03167_000_031'
-  item: 028
+- item: 29
   key: 028-what-think-ye-of-the-book-of-mormon
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: what-think-ye-of-the-book-of-mormon
   speaker: Bruce R. McConkie
   title: What Think Ye of the Book of Mormon?
   url: https://www.lds.org/general-conference/1983/10/what-think-ye-of-the-book-of-mormon?lang=eng
   year: 1983
-- article_id: '03167_000_032'
-  item: 029
+- item: 30
   key: 029-let-us-go-forward
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: let-us-go-forward
   speaker: Gordon B. Hinckley
   title: Let Us Go Forward!
   url: https://www.lds.org/general-conference/1983/10/let-us-go-forward?lang=eng
   year: 1983
-- article_id: '03167_000_035'
-  item: '030'
-  key: 030-live-up-to-your-inheritance
+- item: 31
+  key: 030-a-season-for-strength
   month: 10
-  session_id: general-womens
-  session_title: null
-  slug: live-up-to-your-inheritance
-  speaker: Gordon B. Hinckley
-  title: Live Up to Your Inheritance
-  url: https://www.lds.org/general-conference/1983/10/live-up-to-your-inheritance?lang=eng
-  year: 1983
-- article_id: '03167_000_036'
-  item: '031'
-  key: 031-a-season-for-strength
-  month: 10
-  session_id: general-womens
-  session_title: null
+  session_title: General Women's Meeting
   slug: a-season-for-strength
   speaker: Barbara B. Smith
   title: A Season for Strength
   url: https://www.lds.org/general-conference/1983/10/a-season-for-strength?lang=eng
   year: 1983
-- article_id: '03167_000_037'
-  item: '032'
-  key: 032-prepare-to-teach-his-children
+- item: 32
+  key: 031-prepare-to-teach-his-children
   month: 10
-  session_id: general-womens
-  session_title: null
+  session_title: General Women's Meeting
   slug: prepare-to-teach-his-children
   speaker: Dwan J. Young
   title: Prepare to Teach His Children
   url: https://www.lds.org/general-conference/1983/10/prepare-to-teach-his-children?lang=eng
   year: 1983
-- article_id: 03167_000_038
-  item: '033'
-  key: 033-agency-and-accountability
+- item: 33
+  key: 032-agency-and-accountability
   month: 10
-  session_id: general-womens
-  session_title: null
+  session_title: General Women's Meeting
   slug: agency-and-accountability
-  speaker: Elaine Cannon
+  speaker: Elaine A. Cannon
   title: Agency and Accountability
   url: https://www.lds.org/general-conference/1983/10/agency-and-accountability?lang=eng
+  year: 1983
+- item: 34
+  key: 033-live-up-to-your-inheritance
+  month: 10
+  session_title: General Women's Meeting
+  slug: live-up-to-your-inheritance
+  speaker: Gordon B. Hinckley
+  title: Live Up to Your Inheritance
+  url: https://www.lds.org/general-conference/1983/10/live-up-to-your-inheritance?lang=eng
   year: 1983
 month: 10
 year: 1983

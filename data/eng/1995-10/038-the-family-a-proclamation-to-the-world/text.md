@@ -1,4 +1,4 @@
-# The Family: A Proclamation to the World
+# The Family:A Proclamation to the World
 
 We, the First Presidency and the Council of the Twelve Apostles of The Church
 of Jesus Christ of Latter-day Saints, solemnly proclaim that marriage between
@@ -65,4 +65,6 @@ fundamental unit of society.
 _This proclamation was read by President Gordon B. Hinckley as part of his
 message at the General Relief Society Meeting held September 23, 1995, in Salt
 Lake City, Utah._
+
+## References
 

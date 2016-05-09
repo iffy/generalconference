@@ -64,14 +64,14 @@ pattern, who established the guidelines for all of us, and who proclaimed:
 dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die. ..." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 "If a man die, shall he live again?" asked Job, the prophet, anciently. ([Job
-14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13).) My good
-friend Senator Everett Dirksen, shortly before his death, responded
-impressively to Job's question in these words: "What mortal being, standing on
-the threshold of infinity, has not pondered what lies beyond the veil which
-separates the seen from the unseen?
+14:14](/scriptures/ot/job/14.14?lang=eng#13).) My good friend Senator Everett
+Dirksen, shortly before his death, responded impressively to Job's question in
+these words: "What mortal being, standing on the threshold of infinity, has
+not pondered what lies beyond the veil which separates the seen from the
+unseen?
 
 "What mortal being, responding to that mystical instinct that earthly
 dissolution is at hand, has not contemplated what lies beyond the grave?
@@ -117,11 +117,10 @@ the Lord, Matthew records:
 
 "And came out of the graves after his resurrection, and went into the holy
 city, and appeared unto many." ([Matt.
-27:52-53](https://www.lds.org/scriptures/nt/matt/27.52-53?lang=eng#51).)
+27:52-53](/scriptures/nt/matt/27.52-53?lang=eng#51).)
 
 The apostle John on the Isle of Patmos "saw the dead, small and great, stand
-before God" ([Rev.
-20:12](https://www.lds.org/scriptures/nt/rev/20.12?lang=eng#11).) And so we
+before God" ([Rev. 20:12](/scriptures/nt/rev/20.12?lang=eng#11).) And so we
 may quote on and on from holy writ, ancient and modern.
 
 The spirit world is not far away. Sometimes the veil between this life and the
@@ -188,9 +187,8 @@ among men. He was crucified on Calvary. On the third day he rose again.
 
 To the sorrowful, inquiring women at the tomb the angels proclaimed: "... Why
 seek ye the living among the dead? He is not here, but is risen. ..." ([Luke
-24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4).) There is
-nothing in history to equal that dramatic announcement. "He is not here, but
-is risen."
+24:5-6](/scriptures/nt/luke/24.5-6?lang=eng#4).) There is nothing in history
+to equal that dramatic announcement. "He is not here, but is risen."
 
 No other single influence has had so great an impact on this earth as the life
 of Jesus the Christ. We cannot conceive of our lives without his teachings.
@@ -222,7 +220,7 @@ disciples, and all of us, "Let not your heart be troubled. ..."
 "I will not leave you comfortless. ..."
 
 "Peace I leave with you, my peace I give unto you. ..." ([John 14:1, 14, 18,
-27](https://www.lds.org/scriptures/nt/john/14.1%2C14%2C18%2C27?lang=eng#0).)
+27](/scriptures/nt/john/14.1,14,18,27?lang=eng#0).)
 
 We feel his comforting spirit in the sweet prayer of a child and the quiet
 abiding faith of all who have let his gospel permeate their lives. What a
@@ -252,16 +250,14 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 Yes, my friends, Jesus is the Christ. He lives. He did break the bonds of
 death. He is our Savior and Redeemer, the very Son of God.
 
 And he will come again, as the Holy Bible proclaims: "... this same Jesus, which
 is taken up from you into heaven, shall so come in like manner as ye have seen
-him go into heaven." ([Acts
-1:11](https://www.lds.org/scriptures/nt/acts/1.11?lang=eng#10).)
+him go into heaven." ([Acts 1:11](/scriptures/nt/acts/1.11?lang=eng#10).)
 
 Yes, this same Jesus has already come to earth in our day. The resurrected
 Christ--glorified, exalted, the God of this world under the Father--appeared
@@ -269,7 +265,7 @@ to the boy Joseph Smith in 1820. This same Jesus who was the God of Abraham,
 Isaac, and Jacob, the God of Moses, the Creator of this earth, has come in our
 day. He was introduced by the Father to Joseph Smith in these words: _"This is
 My Beloved Son. Hear Him!" _([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 The appearance of God the Father and his Son Jesus Christ to the boy prophet
 is the greatest event that has occurred in this world since the resurrection
@@ -290,4 +286,6 @@ has appeared again unto man, that the resurrection is a reality.
 
 Today I testify to the truth of the message which they bear and add my solemn
 witness, in the name of Jesus Christ. Amen.
+
+## References
 

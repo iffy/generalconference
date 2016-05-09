@@ -6,7 +6,7 @@ world is a reflection of your strength, your devotion, your goodness. To quote
 the words of the Lord: "Ye are the salt of the earth. ... Ye are the light of
 the world. ... Let your light so shine before men, that they may see your good
 works, and glorify your Father which is in heaven." ([Matt. 5:13-14,
-16](https://www.lds.org/scriptures/nt/matt/5.13-14%2C16?lang=eng#12).)
+16](/scriptures/nt/matt/5.13-14,16?lang=eng#12).)
 
 Some of you are just approaching young womanhood, soon to leave the comfort of
 Primary and enter the exciting and challenging years as young women of The
@@ -40,8 +40,8 @@ sense debase; rather, it exalts. If we will but realize that we have been
 created in the image of God, we will not find Him difficult to approach, for
 God did create "man in his own image, in the image of God created he him; male
 and female created he them." ([Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26).) This
-knowledge, acquired through faith, will bring inner calm and profound peace.
+1:27](/scriptures/ot/gen/1.27?lang=eng#26).) This knowledge, acquired through
+faith, will bring inner calm and profound peace.
 
 Just twenty years ago many of you had not yet commenced your journey through
 mortality. Your abode was a heavenly home. We know relatively little
@@ -123,285 +123,18 @@ May I review with you, the women of the Church, these special standards
 referred to in the introduction just read? There are twelve items, followed by
 a conclusion. I shall treat briefly each standard.
 
-  1. Dating
-
-Begin to prepare now for a temple marriage. Proper dating is a part of that
-preparation. In cultures where dating is appropriate, do not date until you
-are sixteen years old. Not all teenagers need to date or even want to. When
-you begin dating, go in groups or on double dates. Make sure your parents meet
-and become acquainted with those you date.
-
-Because dating is a preparation for marriage, date only those who have high
-standards.
-
-  2. Dress and Appearance
-
-Servants of the Lord have always counseled us to dress modestly to show
-respect for our Heavenly Father and for ourselves. The way you dress sends
-messages about yourself to others and often influences the way you and others
-act. Dress in such a way as to bring out the best in yourself and those around
-you. Avoid tight-fitting or revealing clothes and extremes in clothing and
-appearance. If you are tempted to dress as you shouldn't, just remember the
-old rule: "If in doubt--don't!"
-
-  3. Friendshipping
-
-Everyone needs good friends. Your circle of friends will greatly influence
-your thinking and behavior, just as you will theirs. Treat everyone with
-kindness and dignity. Many nonmembers have come into the Church through
-friends who have involved them in Church activities. May I share with you a
-treasured family experience which had its beginning back in 1959 when I was
-called to preside over the Canadian Mission headquartered in Toronto.
-
-Our daughter, Ann, turned five shortly after we arrived in Canada. She saw the
-missionaries going about their work and she, too, wanted to be a missionary.
-My wife demonstrated understanding by permitting Ann to take to class a few
-copies of the _Children's Friend._ That wasn't sufficient for Ann. She wanted
-to take a copy of the Book of Mormon, and she talked to her teacher, Miss
-Pepper, about the Church. I think it rather thrilling that just a few years
-ago, long years after our return from Toronto, we came home from a vacation
-and found in our mailbox a note from Miss Pepper which read:
-
-"Dear Ann,
-
-"Think back many years ago. I was your schoolteacher in Toronto, Canada. I was
-impressed by the copies of the _Children's Friend _which you brought to
-school. I was impressed by your dedication to a book called the Book of
-Mormon.
-
-"I made a commitment that one day I would come to Salt Lake City and see why
-you talked as you did and why you believed in the manner you believed. Today I
-had the privilege of going through your visitors' center on Temple Square.
-Thanks to a five-year-old girl who had an understanding of that which she
-believed, I now have a better understanding of The Church of Jesus Christ of
-Latter-day Saints."
-
-Miss Pepper died not too long after that visit. How happy our daughter Ann was
-when she attended the Jordan River Temple and performed the temple work for
-her beloved teacher whom she friendshipped long ago.
-
-  4. Honesty
-
-The oft-repeated adage is ever true: "Honesty is the best policy." A Latter-
-day Saint young woman lives as she teaches and as she believes. She is honest
-with others. She is honest with herself. She is honest with God. She is honest
-by habit and as a matter of course. When a difficult decision must be made,
-she never asks herself, "What will others think?" but rather, "What will I
-think of myself?" Have the courage to do what you know to be right.
-
-  5. Language
-
-How you speak and the words you use tell much about the image you choose to
-portray. Use language to build and uplift those around you. Profane, vulgar,
-or crude language and inappropriate or off-color jokes are offensive to the
-Lord. Never misuse the name of God or Jesus Christ. The Lord said, "Thou shalt
-not take the name of the Lord thy God in vain." ([Ex.
-20:7](https://www.lds.org/scriptures/ot/ex/20.7?lang=eng#6).) Set a positive
-example for your friends and others by using clean language to express your
-thoughts.
-
-  6. Media: Movies, Television, Radio, Videocassettes, Books, and Magazines
-
-Our Heavenly Father has counseled us to seek after "anything virtuous, lovely,
-or of good report or praiseworthy." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).) Whatever
-you read, listen to, or watch makes an impression on you.
-
-Avoid any semblance of pornography. It is dangerous and addictive. If you
-continue to view pornography, your spirit will become desensitized and your
-conscience will erode.
-
-Don't be afraid to walk out of a movie, turn off a television set, or change a
-radio station if what's being presented does not meet your Heavenly Father's
-standards. In short, if you have any question about whether a particular
-movie, book, or other form of entertainment is appropriate, don't see it,
-don't read it, don't participate.
-
-Just a week ago there appeared in the newspaper an observation by comedian
-Steve Allen. It describes one of the greater problems of our time:
-
-"Steve Allen doesn't find anything funny about television's trend toward
-stronger language and adult-oriented themes. The veteran comedian lashed out
-at current television trends in an opinion piece published in the _Los Angeles
-Times._
-
-"The 'flow is carrying all of us right into the sewer,' he wrote. 'The very
-sort of language parents forbid their children to use is now being encouraged
-not only by anything-goes cable entrepreneurs but the once high-minded
-networks,' said Allen. Shows that depict children and others using vulgar
-language only point up the collapse of the American family, he said."
-
-  7. Mental and Physical Health
-
-The Apostle Paul declared, "Know ye not that ye are the temple of God, and
-that the Spirit of God dwelleth in you? ... The temple of God is holy, which
-temple ye are." ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).) Use
-good eating habits, avoiding fad diets and ignoring the often alluring
-advertisements which emphasize slimness as the ultimate objective. Hard drugs,
-wrongful use of prescription drugs, alcohol, coffee, tea, and tobacco products
-destroy your physical, mental, and spiritual well-being. Any form of alcohol,
-including beer, is harmful to your spirit and your body. Tobacco can enslave
-you, weaken your lungs, and shorten your life.
-
-An example of tobacco's powerful hold is illustrated in a letter which was
-written by a mother to the popular columnist and human relations adviser Ann
-Landers:
-
-"Dear Ann Landers:
-
-"A year ago our two-year-old son, Earl, had difficulty breathing, so we took
-him to a doctor. We learned Earl is allergic to cigarette smoke. My husband
-said we both had to quit smoking right then and there. He hasn't touched a
-cigarette since. I went back to smoking that same night.
-
-"My husband doesn't know I smoke. I have to sneak around and smoke in the
-basement, and it is making a nervous wreck out of me. Do you think it would be
-wrong if we let a nice couple adopt little Earl--a nice couple who don't
-smoke? The only problem is that my husband is crazy about the boy. I love him
-too, but I am more the practical type. What do you think, Ann?
-
-"/s/ Mrs. E. R. M.
-
-"Dear Mrs. E. R. M.:
-
-"I think a lot of people who read this letter are going to say I made it up.
-It's utterly fantastic that a mother would put cigarettes ahead of her own
-child. Don't present your wild idea to your husband. I wouldn't blame him if
-he decided to keep little Earl and unload _you!_"
-
-  8. Music and Dancing
-
-Music can help you draw closer to your Heavenly Father. It can be used to
-educate, edify, inspire, and unite. However, music can, by its tempo, beat,
-intensity, and lyrics, dull your spiritual sensitivity. You cannot afford to
-fill your minds with unworthy music. Dancing can be enjoyable and provide an
-opportunity to meet new people and strengthen friendships. Plan and attend
-dances where dress, grooming, lighting, dancing styles, lyrics, and music
-contribute to an atmosphere in which the Spirit of the Lord may be present.
-
-  9. Sexual Purity
-
-Because sexual intimacy is so sacred, the Lord requires self-control and
-purity before marriage, as well as full fidelity after marriage. In dating,
-treat your date with respect, and expect your date to show that same respect
-for you.
-
-President David O. McKay advised, "I implore you to think clean thoughts." He
-then made this significant declaration of truth: "Every action is preceded by
-a thought. If we want to control our actions, we must control our thinking."
-Sisters, fill your minds with good thoughts, and your actions will be proper.
-
-Whenever temptation comes, remember the wise counsel of Paul, who declared:
-"There hath no temptation taken you but such as is common to man: but God is
-faithful, who will not suffer you to be tempted above that ye are able; but
-will with the temptation also make a way to escape, that ye may be able to
-bear it." ([1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).)
-
-  10. Sunday Behavior
-
-The Lord has given the Sabbath day for your benefit and has commanded you to
-keep it holy. Many activities are appropriate for the Sabbath. Bear in mind,
-however, that Sunday is not a holiday. Sunday is a holy day.
-
-  11. Spiritual Help
-
-When you were confirmed a member of the Church, you received the right to the
-companionship of the Holy Ghost. He can help you make good choices. When
-challenged or tempted, you do not need to feel alone. The Holy Ghost will help
-you know right from wrong. "For they that are wise ... have taken the Holy
-Spirit for their guide." ([D&amp;C 45:57](https://www.lds.org/scriptures/dc-
-testament/dc/45.57?lang=eng#56).)
-
-Be true to your ideals, for "ideals are like stars; [you can't touch] them
-with your hands, [but by] following them you reach your [destination]." (In
-_Familiar Quotations,_ 14th ed., comp. John Bartlett, Boston: Little, Brown
-and Co., 1968, p. 733.) Spiritual help is but a prayer away.
-
-  12. Repentance
-
-If any has stumbled in her journey, there is a way back. The process is called
-repentance. Our Savior died to provide you and me that blessed gift. Although
-the path is difficult, the promise is real: "Though your sins be as scarlet,
-they shall be as white as snow." ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).)
-
-Don't put your eternal life at risk. Keep the commandments of God. If you have
-sinned, the sooner you begin to make your way back, the sooner you will find
-the sweet peace and joy that come with the miracle of forgiveness.
-
-These, then, are the standards found in _For the Strength of Youth._ Joy and
-happiness come from living the way the Lord wants you to live and from service
-to God and others.
-
-Our beloved President Ezra Taft Benson sends to you his love. He is your
-advocate for all that is good and clean and wholesome. He loves you. He trusts
-you. And how might you return that love, that trust?
-
-_You have a heritage:_ Honor it.
-
-_You will meet sin:_ Shun it.
-
-_You have the truth:_ Live it.
-
-_You have a testimony:_ Share it.
-
-Spiritual strength frequently comes through selfless service. An actual
-experience involving young women, their teacher, and a widow illustrates this
-truth.
-
-As the Christmas season approached, a teacher of Laurels arranged a visit to
-bring joy to the heart of a lonely widow, Jane. The girls busied themselves
-preparing delicious cookies, special refreshments--even a Christmas tree with
-ornaments to be placed thereon. They did not forget a beautiful corsage which
-they knew would brighten the soul of the special woman they planned to visit.
-
-With their parcels tucked tightly under each arm, the girls and their teacher
-made their way up the never-ending flights of stairs which led to Jane's
-apartment. There was an interminable delay as Jane's aged feet made their way
-to the door. As she opened it, she greeted each of the beautiful young ladies
-and made them welcome in her humble apartment. Their smiles reflected the
-goodness of their hearts as they erected the Christmas tree and placed upon it
-the decorations they had so carefully carried. Then the packaged gifts were
-placed beneath its outstretched branches. I was there. I had never seen a more
-beautiful tree, for no tree had ever before been decorated with such love,
-such Christlike care and concern. The teacher slipped into the kitchen; and,
-aided by three of her girls, the refreshments were prepared and a feast
-enjoyed.
-
-Then the dear widow gathered her guests around her to share with them her
-life's precious memories. She told how, as a young girl in far-off Scotland,
-she had heard the missionaries, embraced the truth which they taught--even
-suffered the gibes and comments which adherence to a then-unpopular faith
-inevitably provoked. She told them how the entire Sabbath day was taken just
-to travel and to attend the meetings of her newfound faith. Instinctively, the
-girls compared the ease with which they made their way each Sunday to their
-chapel.
-
-When Jane told them of the voyage to America, described the storm-tossed
-Atlantic and the warm feeling which came to the heart when the Statue of
-Liberty was first glimpsed, I noted that the girls were visibly touched. Tears
-brimmed in their eyes and pledges were made within their hearts--pledges to do
-that which is correct, to be honorable, to live true to the faith, and to
-abide by their standards.
-
-As the evening came to an end, there were kisses and embraces; and then each
-young lady filed silently from the doorway and made her way down the
-staircases to the street outside. They left behind a mother filled with the
-goodness of the world, with love rekindled, with faith again inspired. I'm
-certain this was one of the happiest days of her life. That night the corsage
-was carefully and tenderly placed in safekeeping. It had become a symbol of
-all that is good and clean and wholesome.
-
-Outside the snow was falling, and the girls could hear the crunch of their own
-footsteps on the snow-covered pavement. Words didn't come easily, and then one
-Laurel girl asked, "Why is it I feel better than I've ever felt before?"
-Others nodded the same curiosity. I answered them, "Remember the words of the
-Master: 'Inasmuch as ye have done it unto one of the least of these ... , ye
-have done it unto me.'" ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).) The words
-from the hymn "O Little Town of Bethlehem" seemed fitting. They were repeated:
+  1. Dating Begin to prepare now for a temple marriage. Proper dating is a part of that preparation. In cultures where dating is appropriate, do not date until you are sixteen years old. Not all teenagers need to date or even want to. When you begin dating, go in groups or on double dates. Make sure your parents meet and become acquainted with those you date. Because dating is a preparation for marriage, date only those who have high standards. 
+  2. Dress and Appearance Servants of the Lord have always counseled us to dress modestly to show respect for our Heavenly Father and for ourselves. The way you dress sends messages about yourself to others and often influences the way you and others act. Dress in such a way as to bring out the best in yourself and those around you. Avoid tight-fitting or revealing clothes and extremes in clothing and appearance. If you are tempted to dress as you shouldn't, just remember the old rule: "If in doubt--don't!"
+  3. Friendshipping Everyone needs good friends. Your circle of friends will greatly influence your thinking and behavior, just as you will theirs. Treat everyone with kindness and dignity. Many nonmembers have come into the Church through friends who have involved them in Church activities. May I share with you a treasured family experience which had its beginning back in 1959 when I was called to preside over the Canadian Mission headquartered in Toronto. Our daughter, Ann, turned five shortly after we arrived in Canada. She saw the missionaries going about their work and she, too, wanted to be a missionary. My wife demonstrated understanding by permitting Ann to take to class a few copies of the _Children's Friend._ That wasn't sufficient for Ann. She wanted to take a copy of the Book of Mormon, and she talked to her teacher, Miss Pepper, about the Church. I think it rather thrilling that just a few years ago, long years after our return from Toronto, we came home from a vacation and found in our mailbox a note from Miss Pepper which read: "Dear Ann, "Think back many years ago. I was your schoolteacher in Toronto, Canada. I was impressed by the copies of the _Children's Friend _which you brought to school. I was impressed by your dedication to a book called the Book of Mormon. "I made a commitment that one day I would come to Salt Lake City and see why you talked as you did and why you believed in the manner you believed. Today I had the privilege of going through your visitors' center on Temple Square. Thanks to a five-year-old girl who had an understanding of that which she believed, I now have a better understanding of The Church of Jesus Christ of Latter-day Saints." Miss Pepper died not too long after that visit. How happy our daughter Ann was when she attended the Jordan River Temple and performed the temple work for her beloved teacher whom she friendshipped long ago. 
+  4. Honesty The oft-repeated adage is ever true: "Honesty is the best policy." A Latter-day Saint young woman lives as she teaches and as she believes. She is honest with others. She is honest with herself. She is honest with God. She is honest by habit and as a matter of course. When a difficult decision must be made, she never asks herself, "What will others think?" but rather, "What will I think of myself?" Have the courage to do what you know to be right. 
+  5. Language How you speak and the words you use tell much about the image you choose to portray. Use language to build and uplift those around you. Profane, vulgar, or crude language and inappropriate or off-color jokes are offensive to the Lord. Never misuse the name of God or Jesus Christ. The Lord said, "Thou shalt not take the name of the Lord thy God in vain." ([Ex. 20:7](/scriptures/ot/ex/20.7?lang=eng#6).) Set a positive example for your friends and others by using clean language to express your thoughts. 
+  6. Media: Movies, Television, Radio, Videocassettes, Books, and Magazines Our Heavenly Father has counseled us to seek after "anything virtuous, lovely, or of good report or praiseworthy." ([A of F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).) Whatever you read, listen to, or watch makes an impression on you. Avoid any semblance of pornography. It is dangerous and addictive. If you continue to view pornography, your spirit will become desensitized and your conscience will erode. Don't be afraid to walk out of a movie, turn off a television set, or change a radio station if what's being presented does not meet your Heavenly Father's standards. In short, if you have any question about whether a particular movie, book, or other form of entertainment is appropriate, don't see it, don't read it, don't participate. Just a week ago there appeared in the newspaper an observation by comedian Steve Allen. It describes one of the greater problems of our time: "Steve Allen doesn't find anything funny about television's trend toward stronger language and adult-oriented themes. The veteran comedian lashed out at current television trends in an opinion piece published in the _Los Angeles Times._ "The 'flow is carrying all of us right into the sewer,' he wrote. 'The very sort of language parents forbid their children to use is now being encouraged not only by anything-goes cable entrepreneurs but the once high-minded networks,' said Allen. Shows that depict children and others using vulgar language only point up the collapse of the American family, he said."
+  7. Mental and Physical Health The Apostle Paul declared, "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? ... The temple of God is holy, which temple ye are." ([1 Cor. 3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).) Use good eating habits, avoiding fad diets and ignoring the often alluring advertisements which emphasize slimness as the ultimate objective. Hard drugs, wrongful use of prescription drugs, alcohol, coffee, tea, and tobacco products destroy your physical, mental, and spiritual well-being. Any form of alcohol, including beer, is harmful to your spirit and your body. Tobacco can enslave you, weaken your lungs, and shorten your life. An example of tobacco's powerful hold is illustrated in a letter which was written by a mother to the popular columnist and human relations adviser Ann Landers: "Dear Ann Landers: "A year ago our two-year-old son, Earl, had difficulty breathing, so we took him to a doctor. We learned Earl is allergic to cigarette smoke. My husband said we both had to quit smoking right then and there. He hasn't touched a cigarette since. I went back to smoking that same night. "My husband doesn't know I smoke. I have to sneak around and smoke in the basement, and it is making a nervous wreck out of me. Do you think it would be wrong if we let a nice couple adopt little Earl--a nice couple who don't smoke? The only problem is that my husband is crazy about the boy. I love him too, but I am more the practical type. What do you think, Ann? "/s/ Mrs. E. R. M. "Dear Mrs. E. R. M.: "I think a lot of people who read this letter are going to say I made it up. It's utterly fantastic that a mother would put cigarettes ahead of her own child. Don't present your wild idea to your husband. I wouldn't blame him if he decided to keep little Earl and unload _you!_"
+  8. Music and Dancing Music can help you draw closer to your Heavenly Father. It can be used to educate, edify, inspire, and unite. However, music can, by its tempo, beat, intensity, and lyrics, dull your spiritual sensitivity. You cannot afford to fill your minds with unworthy music. Dancing can be enjoyable and provide an opportunity to meet new people and strengthen friendships. Plan and attend dances where dress, grooming, lighting, dancing styles, lyrics, and music contribute to an atmosphere in which the Spirit of the Lord may be present. 
+  9. Sexual Purity Because sexual intimacy is so sacred, the Lord requires self-control and purity before marriage, as well as full fidelity after marriage. In dating, treat your date with respect, and expect your date to show that same respect for you. President David O. McKay advised, "I implore you to think clean thoughts." He then made this significant declaration of truth: "Every action is preceded by a thought. If we want to control our actions, we must control our thinking." Sisters, fill your minds with good thoughts, and your actions will be proper. Whenever temptation comes, remember the wise counsel of Paul, who declared: "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it." ([1 Cor. 10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).) 
+  10. Sunday Behavior The Lord has given the Sabbath day for your benefit and has commanded you to keep it holy. Many activities are appropriate for the Sabbath. Bear in mind, however, that Sunday is not a holiday. Sunday is a holy day. 
+  11. Spiritual Help When you were confirmed a member of the Church, you received the right to the companionship of the Holy Ghost. He can help you make good choices. When challenged or tempted, you do not need to feel alone. The Holy Ghost will help you know right from wrong. "For they that are wise ... have taken the Holy Spirit for their guide." ([D&amp;C 45:57](/scriptures/dc-testament/dc/45.57?lang=eng#56).) Be true to your ideals, for "ideals are like stars; [you can't touch] them with your hands, [but by] following them you reach your [destination]." (In _Familiar Quotations,_ 14th ed., comp. John Bartlett, Boston: Little, Brown and Co., 1968, p. 733.) Spiritual help is but a prayer away. 
+  12. Repentance If any has stumbled in her journey, there is a way back. The process is called repentance. Our Savior died to provide you and me that blessed gift. Although the path is difficult, the promise is real: "Though your sins be as scarlet, they shall be as white as snow." ([Isa. 1:18](/scriptures/ot/isa/1.18?lang=eng#17).) Don't put your eternal life at risk. Keep the commandments of God. If you have sinned, the sooner you begin to make your way back, the sooner you will find the sweet peace and joy that come with the miracle of forgiveness. These, then, are the standards found in _For the Strength of Youth._ Joy and happiness come from living the way the Lord wants you to live and from service to God and others. Our beloved President Ezra Taft Benson sends to you his love. He is your advocate for all that is good and clean and wholesome. He loves you. He trusts you. And how might you return that love, that trust? _You have a heritage:_ Honor it. _You will meet sin:_ Shun it. _You have the truth:_ Live it. _You have a testimony:_ Share it. Spiritual strength frequently comes through selfless service. An actual experience involving young women, their teacher, and a widow illustrates this truth. As the Christmas season approached, a teacher of Laurels arranged a visit to bring joy to the heart of a lonely widow, Jane. The girls busied themselves preparing delicious cookies, special refreshments--even a Christmas tree with ornaments to be placed thereon. They did not forget a beautiful corsage which they knew would brighten the soul of the special woman they planned to visit. With their parcels tucked tightly under each arm, the girls and their teacher made their way up the never-ending flights of stairs which led to Jane's apartment. There was an interminable delay as Jane's aged feet made their way to the door. As she opened it, she greeted each of the beautiful young ladies and made them welcome in her humble apartment. Their smiles reflected the goodness of their hearts as they erected the Christmas tree and placed upon it the decorations they had so carefully carried. Then the packaged gifts were placed beneath its outstretched branches. I was there. I had never seen a more beautiful tree, for no tree had ever before been decorated with such love, such Christlike care and concern. The teacher slipped into the kitchen; and, aided by three of her girls, the refreshments were prepared and a feast enjoyed. Then the dear widow gathered her guests around her to share with them her life's precious memories. She told how, as a young girl in far-off Scotland, she had heard the missionaries, embraced the truth which they taught--even suffered the gibes and comments which adherence to a then-unpopular faith inevitably provoked. She told them how the entire Sabbath day was taken just to travel and to attend the meetings of her newfound faith. Instinctively, the girls compared the ease with which they made their way each Sunday to their chapel. When Jane told them of the voyage to America, described the storm-tossed Atlantic and the warm feeling which came to the heart when the Statue of Liberty was first glimpsed, I noted that the girls were visibly touched. Tears brimmed in their eyes and pledges were made within their hearts--pledges to do that which is correct, to be honorable, to live true to the faith, and to abide by their standards. As the evening came to an end, there were kisses and embraces; and then each young lady filed silently from the doorway and made her way down the staircases to the street outside. They left behind a mother filled with the goodness of the world, with love rekindled, with faith again inspired. I'm certain this was one of the happiest days of her life. That night the corsage was carefully and tenderly placed in safekeeping. It had become a symbol of all that is good and clean and wholesome. Outside the snow was falling, and the girls could hear the crunch of their own footsteps on the snow-covered pavement. Words didn't come easily, and then one Laurel girl asked, "Why is it I feel better than I've ever felt before?" Others nodded the same curiosity. I answered them, "Remember the words of the Master: 'Inasmuch as ye have done it unto one of the least of these ..., ye have done it unto me.'" ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).) The words from the hymn "O Little Town of Bethlehem" seemed fitting. They were repeated: 
 
 _How silently, how silently_
 
@@ -423,8 +156,9 @@ _The dear Christ enters in._
 
 The dear Christ had indeed entered in--entered a humble home, entered a
 widow's heart, and entered, forever to remain, in the soul of each girl. The
-lighthouse of the Lord had shown the way.
+lighthouse of the Lord had shown the way. That this same spirit, even the
+Christ spirit, may ever be ours is my humble prayer. In the name of Jesus
+Christ, amen.
 
-That this same spirit, even the Christ spirit, may ever be ours is my humble
-prayer. In the name of Jesus Christ, amen.
+## References
 

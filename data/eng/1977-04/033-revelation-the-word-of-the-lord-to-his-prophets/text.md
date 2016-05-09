@@ -14,7 +14,7 @@ Book of Mormon the words of Moroni, who said:
 workings of the Spirit, and by the power of the Holy Ghost; for as the power
 of the Holy Ghost led them whether to preach, or to exhort, or to pray, or to
 supplicate, or to sing, even so it was done." ([Moro.
-6:9](https://www.lds.org/scriptures/bofm/moro/6.9?lang=eng#8).)
+6:9](/scriptures/bofm/moro/6.9?lang=eng#8).)
 
 We have been counseled in the ways of righteousness, urged to be faithful and
 to keep the commandments of God, to love the Lord and our fellowmen. We have
@@ -31,7 +31,7 @@ faith, with an honest heart, believing that you shall receive. ...
 Ghost, which shall come upon you and which shall dwell in your heart.
 
 "Now, behold, this is the spirit of revelation. ..." ([D&amp;C
-8:1-3](https://www.lds.org/scriptures/dc-testament/dc/8.1-3?lang=eng#0).)
+8:1-3](/scriptures/dc-testament/dc/8.1-3?lang=eng#0).)
 
 Of all things, that for which we should be most grateful today is that the
 heavens are indeed open and that the restored church of Jesus Christ is
@@ -41,25 +41,24 @@ lifeblood of the gospel of the living Lord and Savior, Jesus Christ.
 We proclaim to the world in one of our Articles of Faith, "We believe all that
 God has revealed, all that He does now reveal, and we believe that He will yet
 reveal many great and important things pertaining to the Kingdom of God." [[A
-of F 1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8)]
+of F 1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8)]
 
 From the scripture of ancient time comes this ringing declaration: "Surely the
 Lord God will do nothing, but he revealeth his secret unto his servants the
-prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+prophets." ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 This postulation to the prophet Amos has come down from antiquity and speaks
 of the Lord "Jesus Christ the same yesterday, and to day, and for ever."
-([Heb. 13:8](https://www.lds.org/scriptures/nt/heb/13.8?lang=eng#7).)
+([Heb. 13:8](/scriptures/nt/heb/13.8?lang=eng#7).)
 
 We read of the unchangeable Lord in the holy scriptures. In the Bible, which
 we proclaim "to be the word of God as far as it is translated correctly" [[A
-of F 1:8](https://www.lds.org/scriptures/pgp/a-of-f/1.8?lang=eng#7)], the Old
-Testament prophets from Adam to Malachi are testifying of the divinity of the
-Lord Jesus Christ and our Heavenly Father. Jesus Christ was the God of the Old
-Testament, and it was He who conversed with Abraham and Moses. It was He who
-inspired Isaiah and Jeremiah; it was He who foretold through those chosen men
-the happenings of the future, even to the latest day and hour.
+of F 1:8](/scriptures/pgp/a-of-f/1.8?lang=eng#7)], the Old Testament prophets
+from Adam to Malachi are testifying of the divinity of the Lord Jesus Christ
+and our Heavenly Father. Jesus Christ was the God of the Old Testament, and it
+was He who conversed with Abraham and Moses. It was He who inspired Isaiah and
+Jeremiah; it was He who foretold through those chosen men the happenings of
+the future, even to the latest day and hour.
 
 And the New Testament is what it implies--a new, additional witness and
 testimony of the sonship of Jesus Christ and the fatherhood of the Father and
@@ -74,8 +73,7 @@ the welfare and benefit of men.
 
 I believe with Peter of old who said: "For the prophecy came not in old time
 by the will of man: But holy men of God spake as they were moved by the Holy
-Ghost." ([2 Pet.
-1:21](https://www.lds.org/scriptures/nt/2-pet/1.21?lang=eng#20).)
+Ghost." ([2 Pet. 1:21](/scriptures/nt/2-pet/1.21?lang=eng#20).)
 
 How this confused world of today needs revelation from God. With war and
 pestilence and famine, with poverty, desolation, with more and more graft,
@@ -96,7 +94,7 @@ and follow his program, the Lord said: "And I will break the pride of your
 power; and I will make your heaven as iron, and your earth as brass:
 
 "And your strength shall be spent. ..." ([Lev.
-26:19-20](https://www.lds.org/scriptures/ot/lev/26.19-20?lang=eng#18).)
+26:19-20](/scriptures/ot/lev/26.19-20?lang=eng#18).)
 
 If the Bible were "the end of the prophets," then it was through lack of faith
 and belief, and that is the reason the heavens at times were closed and locked
@@ -104,7 +102,7 @@ and became as iron, and the earth as brass. When the heavens are sealed, the
 spiritual darkness that follows is not unlike that physical darkness in
 Nephite history, when "neither candles, neither torches; neither could there
 be fire kindled with their fine and exceedingly dry wood." ([3 Ne.
-8:21](https://www.lds.org/scriptures/bofm/3-ne/8.21?lang=eng#20).)
+8:21](/scriptures/bofm/3-ne/8.21?lang=eng#20).)
 
 The Lord will not force himself upon people, and if they do not believe, they
 will receive no revelation. If they are content to depend upon their own
@@ -116,7 +114,7 @@ this:
 
 "If these things have ceased, then has faith ceased also; and awful is the
 state of man, for they are as though there had been no redemption made."
-([Moro. 7:38](https://www.lds.org/scriptures/bofm/moro/7.38?lang=eng#37).)
+([Moro. 7:38](/scriptures/bofm/moro/7.38?lang=eng#37).)
 
 In the meridian of time, the Son of God, the Light of the World, came and
 opened the curtains of heaven, and earth and heaven were again in communion.
@@ -137,10 +135,9 @@ A young lad spoken of by some of our brethren today, Joseph Smith, of
 incomparable faith, broke the spell, shattered the "heavens of iron" and
 reestablished communication. Heaven kissed the earth, light dissipated the
 darkness, and God again spoke to man, revealing anew "his secret unto his
-servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) A new prophet
-was in the land and through him God set up his kingdom, never to be destroyed
-nor left to another people--a kingdom that will stand forever.
+servants the prophets." ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).) A
+new prophet was in the land and through him God set up his kingdom, never to
+be destroyed nor left to another people--a kingdom that will stand forever.
 
 The foreverness of this kingdom and the revelations which it brought into
 existence are absolute realities. Never again will the sun go down; never
@@ -351,4 +348,6 @@ as to the direction to go.
 
 We ask this all, with our affection for you, in the name of Jesus Christ.
 Amen.
+
+## References
 

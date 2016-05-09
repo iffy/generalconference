@@ -94,8 +94,7 @@ teaching them the word of God.
 
 Concerning faith he states that "faith is not to have a perfect knowledge of
 things; therefore if ye have faith ye hope for things which are not seen,
-which are true." ([Alma
-32:21](https://www.lds.org/scriptures/bofm/alma/32.21?lang=eng#20).)
+which are true." ([Alma 32:21](/scriptures/bofm/alma/32.21?lang=eng#20).)
 
 Alma then goes on to compare his words, which are truly the word of God and
 the gospel of salvation, to a seed that a man plants in the soil. He suggests
@@ -189,4 +188,6 @@ May we grow in faith through the love and blessing of our Lord and Savior. May
 we keep the commandments that he has given us, that we may ultimately find
 salvation and exaltation in his celestial kingdom, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

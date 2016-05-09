@@ -19,10 +19,9 @@ King Cyrus lived more than five hundred years before Christ and figured in
 prophecies of the Old Testament mentioned in 2 Chronicles and the book of
 Ezra, and by the prophets Ezekiel, Isaiah, and Daniel. The Bible states how
 "the Lord stirred up the spirit of Cyrus, King of Persia." ([2 Chr.
-36:22](https://www.lds.org/scriptures/ot/2-chr/36.22?lang=eng#21).) Cyrus
-restored certain political and social rights to the captive Hebrews, gave them
-permission to return to Jerusalem, and directed that Jehovah's temple should
-be rebuilt.
+36:22](/scriptures/ot/2-chr/36.22?lang=eng#21).) Cyrus restored certain
+political and social rights to the captive Hebrews, gave them permission to
+return to Jerusalem, and directed that Jehovah's temple should be rebuilt.
 
 Parley P. Pratt, in describing the Prophet Joseph Smith, said that he had "the
 boldness, courage, temperance, perseverance and generosity of a Cyrus."
@@ -69,21 +68,20 @@ overshadowed their devotion to popularity, party, or personalities.
 
 We honor our founding fathers of this republic for the same reason. God raised
 up these patriotic partners to perform their mission, and he called them "wise
-men." (See [D&amp;C 101:80](https://www.lds.org/scriptures/dc-
-testament/dc/101.80?lang=eng#79).) The First Presidency acknowledged that
-wisdom when they gave us the guideline a few years ago of supporting political
-candidates "who are truly dedicated to the Constitution in the tradition of
-our Founding Fathers." (_Deseret News, _November 2, 1964.) That tradition has
-been summarized in the book _The American Tradition _by Clarence Carson.
+men." (See [D&amp;C 101:80](/scriptures/dc-testament/dc/101.80?lang=eng#79).)
+The First Presidency acknowledged that wisdom when they gave us the guideline
+a few years ago of supporting political candidates "who are truly dedicated to
+the Constitution in the tradition of our Founding Fathers." (_Deseret News,
+_November 2, 1964.) That tradition has been summarized in the book _The
+American Tradition _by Clarence Carson.
 
 The Lord said that "the children of this world are in their generation wiser
 than the children of light." ([Luke
-16:8](https://www.lds.org/scriptures/nt/luke/16.8?lang=eng#7).) Our wise
-founders seemed to understand, better than most of us, our own scripture,
-which states that "it is the nature and disposition of almost all men, as soon
-as they get a little authority ... they will immediately begin to exercise
-unrighteous dominion." ([D&amp;C 121:39](https://www.lds.org/scriptures/dc-
-testament/dc/121.39?lang=eng#38).)
+16:8](/scriptures/nt/luke/16.8?lang=eng#7).) Our wise founders seemed to
+understand, better than most of us, our own scripture, which states that "it
+is the nature and disposition of almost all men, as soon as they get a little
+authority ... they will immediately begin to exercise unrighteous dominion."
+([D&amp;C 121:39](/scriptures/dc-testament/dc/121.39?lang=eng#38).)
 
 To help prevent this, the founders knew that our elected leaders should be
 bound by certain fixed principles. Said Thomas Jefferson: "In questions of
@@ -93,14 +91,14 @@ mischief by the chains of the Constitution."
 These wise founders, our patriotic partners, seemed to appreciate more than
 most of us the blessings of the boundaries that the Lord set within the
 Constitution, for he said, "And as pertaining to law of man, whatsoever is
-more or less than this, cometh of evil." ([D&amp;C
-98:7](https://www.lds.org/scriptures/dc-testament/dc/98.7?lang=eng#6).)
+more or less than this, cometh of evil." ([D&amp;C 98:7](/scriptures/dc-
+testament/dc/98.7?lang=eng#6).)
 
 In God the founders trusted, and in his Constitution--not in the arm of flesh.
 "O Lord," said Nephi, "I have trusted in thee, and I will trust in thee
 forever. I will not put my trust in the arm of flesh; ... cursed is he that
 putteth his trust in man or maketh flesh his arm." ([2 Ne.
-4:34](https://www.lds.org/scriptures/bofm/2-ne/4.34?lang=eng#33).)
+4:34](/scriptures/bofm/2-ne/4.34?lang=eng#33).)
 
 President J. Reuben Clark, Jr., put it well when he said:
 
@@ -171,7 +169,7 @@ civilizations came as a result of secret conspiracies whose desire was to
 overthrow the freedom of the people. "And they have caused the destruction of
 this people of whom I am now speaking," says Moroni, "and also the destruction
 of the people of Nephi." ([Ether
-8:21](https://www.lds.org/scriptures/bofm/ether/8.21?lang=eng#20).)
+8:21](/scriptures/bofm/ether/8.21?lang=eng#20).)
 
 Now undoubtedly Moroni could have pointed out many factors that led to the
 destruction of the people, but notice how he singled out the secret
@@ -183,13 +181,12 @@ Mormon --it is a conspiracy fact.
 Then Moroni speaks to us in this day and says, "Wherefore, the Lord commandeth
 you, when ye shall see these things come among you that ye shall awake to a
 sense of your awful situation, because of this secret combination which shall
-be among you" ([Ether
-8:14](https://www.lds.org/scriptures/bofm/ether/8.14?lang=eng#13).)
+be among you" ([Ether 8:14](/scriptures/bofm/ether/8.14?lang=eng#13).)
 
 The Book of Mormon further warns that "whatsoever nation shall uphold such
 secret combinations, to get power and gain, until they shall spread over the
 nation, behold they shall be destroyed. ..." ([Ether
-8:22](https://www.lds.org/scriptures/bofm/ether/8.22?lang=eng#21).)
+8:22](/scriptures/bofm/ether/8.22?lang=eng#21).)
 
 This scripture should alert us to what is ahead unless we repent, because
 there is no question but that as people of the free world, we are increasingly
@@ -252,24 +249,22 @@ the right course.
 We urge all men to read the Book of Mormon and then ask God if it is true. And
 the promise is sure that they may know of its truthfulness through the Holy
 Ghost, "and by the power of the Holy Ghost [men] may know the truth of all
-things." ([Moro.
-10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4).)
+things." ([Moro. 10:5](/scriptures/bofm/moro/10.5?lang=eng#4).)
 
 We need the constant guidance of that Spirit. We live in an age of deceit. "O
 my people," said Isaiah in the Book of Mormon, "they who lead thee cause thee
 to err and destroy the way of thy paths." ([2 Ne.
-13:12](https://www.lds.org/scriptures/bofm/2-ne/13.12?lang=eng#11).) Even
-within the Church we have been warned that "the ravening wolves are amongst
-us, from our own membership, and they, more than any others, are clothed in
-sheep's clothing, because they wear the habiliments of the priesthood." (J.
-Reuben Clark, Jr., _CR, _April 1949, p. 163.)
+13:12](/scriptures/bofm/2-ne/13.12?lang=eng#11).) Even within the Church we
+have been warned that "the ravening wolves are amongst us, from our own
+membership, and they, more than any others, are clothed in sheep's clothing,
+because they wear the habiliments of the priesthood." (J. Reuben Clark, Jr.,
+_CR, _April 1949, p. 163.)
 
 The Lord holds us accountable if we are not wise and are deceived. "For they
 that are wise," he said, "and have received the truth, and have taken the Holy
 Spirit for their guide, and have not been deceived--verily I say unto you,
 they shall not be hewn down and cast into the fire, but shall abide the day."
-([D&amp;C 45:57](https://www.lds.org/scriptures/dc-
-testament/dc/45.57?lang=eng#56).)
+([D&amp;C 45:57](/scriptures/dc-testament/dc/45.57?lang=eng#56).)
 
 And so four great civic standards for the faithful Saints are, first, the
 Constitution ordained by God through wise men; second, the scriptures,
@@ -280,4 +275,6 @@ God bless us all that we may use these standards and by so doing bless
 ourselves, our families, our community, our nation, and the world, I humbly
 pray, as I bear my witness to the truth of this great latter-day work, in the
 name of Jesus Christ. Amen.
+
+## References
 

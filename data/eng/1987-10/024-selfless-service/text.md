@@ -110,7 +110,7 @@ And except they should have charity they were nothing. Wherefore, if they
 should have charity they would not suffer the laborer in Zion to perish.
 
 "But the laborer in Zion shall labor for Zion" ([2 Ne.
-26:29-31](https://www.lds.org/scriptures/bofm/2-ne/26.29-31?lang=eng#28)).
+26:29-31](/scriptures/bofm/2-ne/26.29-31?lang=eng#28)).
 
 Selflessness is righteousness. It embraces the true spirit of companionship.
 It is the very essence of friendship. It is the portrayer of true love and
@@ -178,7 +178,9 @@ life for my sake and the gospel's, the same shall save it.
 his own soul?
 
 "Or what shall a man give in exchange for his soul?" ([Mark
-8:34-37](https://www.lds.org/scriptures/nt/mark/8.34-37?lang=eng#33)).
+8:34-37](/scriptures/nt/mark/8.34-37?lang=eng#33)).
 
 In the sacred name of Jesus Christ, amen.
+
+## References
 

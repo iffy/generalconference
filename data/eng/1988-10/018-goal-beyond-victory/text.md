@@ -85,7 +85,7 @@ may walk guiltless before God--I would that ye should impart of your substance
 to the poor, every man according to that which he hath, such as feeding the
 hungry, clothing the naked, visiting the sick and administering to their
 relief, both spiritually and temporally." ([Mosiah
-4:26](https://www.lds.org/scriptures/bofm/mosiah/4.26?lang=eng#25).)
+4:26](/scriptures/bofm/mosiah/4.26?lang=eng#25).)
 
 President Marion G. Romney spoke concerning the funding of caring for the
 needy when he said: "It has been, and now is, the desire and the objective of
@@ -127,9 +127,9 @@ want, to eliminate this poverty.
 
 The Lord provided the way when He declared, "And the storehouse shall be kept
 by the consecrations of the church; and widows and orphans shall be provided
-for, as also the poor." ([D&amp;C 83:6](https://www.lds.org/scriptures/dc-
+for, as also the poor." ([D&amp;C 83:6](/scriptures/dc-
 testament/dc/83.6?lang=eng#5).) Then the reminder, "But it must needs be done
-in mine own way." ([D&amp;C 104:16](https://www.lds.org/scriptures/dc-
+in mine own way." ([D&amp;C 104:16](/scriptures/dc-
 testament/dc/104.16?lang=eng#15).)
 
 In the vicinity where I once lived and served, we operated a poultry project.
@@ -161,18 +161,17 @@ the outcome benefits all. There we read that a most severe drought had gripped
 the land. Famine followed. Elijah the prophet received from the Lord what to
 him must have been an amazing instruction: "Get thee to Zarephath: ... behold, I
 have commanded a widow woman there to sustain thee." ([1 Kgs.
-17:9](https://www.lds.org/scriptures/ot/1-kgs/17.9?lang=eng#8).) When he had
-found the widow, Elijah declared: "Fetch me, I pray thee, a little water in a
-vessel, that I may drink.
+17:9](/scriptures/ot/1-kgs/17.9?lang=eng#8).) When he had found the widow,
+Elijah declared: "Fetch me, I pray thee, a little water in a vessel, that I
+may drink.
 
 "And as she was going to fetch it, he called to her, and said, Bring me, I
 pray thee, a morsel of bread in thine hand." ([1 Kgs.
-17:10-11](https://www.lds.org/scriptures/ot/1-kgs/17.10-11?lang=eng#9).)
+17:10-11](/scriptures/ot/1-kgs/17.10-11?lang=eng#9).)
 
 Her response described her pathetic situation as she explained that she was
 preparing a final and scanty meal for her son and for herself, and then they
-would die. (See [1 Kgs.
-17:12](https://www.lds.org/scriptures/ot/1-kgs/17.12?lang=eng#11).)
+would die. (See [1 Kgs. 17:12](/scriptures/ot/1-kgs/17.12?lang=eng#11).)
 
 How implausible to her must have been Elijah's response:
 
@@ -187,9 +186,8 @@ upon the earth.
 her house, did eat many days.
 
 "And the barrel of meal wasted not, neither did the cruse of oil fail." ([1
-Kgs. 17:13-16](https://www.lds.org/scriptures/ot/1-kgs/17.13-16?lang=eng#12).)
-This is the faith that has ever motivated and inspired the welfare plan of the
-Lord.
+Kgs. 17:13-16](/scriptures/ot/1-kgs/17.13-16?lang=eng#12).) This is the faith
+that has ever motivated and inspired the welfare plan of the Lord.
 
 Industry, thrift, self-reliance continue as guiding principles of this effort.
 As a people, we should avoid unreasonable debt. In a message which Elder Ezra
@@ -205,18 +203,17 @@ And he said to her:
 "'Go, sell the oil, and pay thy debt, and live.'" (In Conference Report, Apr.
 1957, p. 53.)
 
-"Pay thy debt, and live." ([2 Kgs.
-4:7](https://www.lds.org/scriptures/ot/2-kgs/4.7?lang=eng#6).) What wise
-counsel for us today! Remember, the wisdom of God may appear as foolishness to
-men, but the greatest single lesson we can learn in mortality is that when God
-speaks and a man obeys, that man will always be right.
+"Pay thy debt, and live." ([2 Kgs. 4:7](/scriptures/ot/2-kgs/4.7?lang=eng#6).)
+What wise counsel for us today! Remember, the wisdom of God may appear as
+foolishness to men, but the greatest single lesson we can learn in mortality
+is that when God speaks and a man obeys, that man will always be right.
 
 We should remember that the best storehouse system would be for every family
 to have a year's supply of needed food, clothing, and, where possible, the
 other necessities of life. In the early Church, Paul wrote to Timothy, "If any
 provide not for his own, and specially for those of his own house, he hath
 denied the faith, and is worse than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).)
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).)
 
 It is our sacred duty to care for our families. Often we see what might be
 called "parent neglect." Too frequently the emotional, social, and, in some
@@ -230,15 +227,11 @@ have the responsibility to learn how to use properly these resources.
 
 May I suggest in summary form five basic guidelines:
 
-  1. A bishop is to seek out the poor, as the Lord has commanded, and administer to their needs.
-
-  2. In caring for the needy, a bishop exercises discernment, sound judgment, balance, and compassion. Church resources represent a sacred trust.
-
-  3. Those receiving welfare assistance are to work to the extent of their ability for that which is received.
-
-  4. The assistance given by the bishop is temporary, rather than ongoing.
-
-  5. The bishop assists with basic life-sustaining goods and services. He sustains lives rather than life-styles.
+  1. A bishop is to seek out the poor, as the Lord has commanded, and administer to their needs. 
+  2. In caring for the needy, a bishop exercises discernment, sound judgment, balance, and compassion. Church resources represent a sacred trust. 
+  3. Those receiving welfare assistance are to work to the extent of their ability for that which is received. 
+  4. The assistance given by the bishop is temporary, rather than ongoing. 
+  5. The bishop assists with basic life-sustaining goods and services. He sustains lives rather than life-styles. 
 
 Let me illustrate with a sacred experience which brought these guidelines
 together in blessing the lives of those in need.
@@ -283,8 +276,7 @@ May our Heavenly Father guide the priesthood of this church, that we may be
 obedient to the revelation of the Lord to the Prophet Joseph in which we are
 charged to "remember in all things the poor and the needy, the sick and the
 afflicted, for he that doeth not these things, the same is not my disciple."
-([D&amp;C 52:40](https://www.lds.org/scriptures/dc-
-testament/dc/52.40?lang=eng#39).)
+([D&amp;C 52:40](/scriptures/dc-testament/dc/52.40?lang=eng#39).)
 
 We will qualify as His disciples when we hear and heed the counsel from Isaiah
 describing the true fast, the spirit and the promise of the welfare effort:
@@ -303,7 +295,9 @@ say, Here I am. ...
 "And the Lord shall guide thee continually, and satisfy thy soul in drought, ...
 and thou shalt be like a watered garden, and like a spring of water, whose
 waters fail not." ([Isa. 58:7-9,
-11](https://www.lds.org/scriptures/ot/isa/58.7-9%2C11?lang=eng#6).)
+11](/scriptures/ot/isa/58.7-9,11?lang=eng#6).)
 
 May this be our blessing is my prayer, in the name of Jesus Christ, amen.
+
+## References
 

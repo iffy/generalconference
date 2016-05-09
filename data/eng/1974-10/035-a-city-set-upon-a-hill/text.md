@@ -104,8 +104,7 @@ candlestick; and it giveth light unto all that are in the house.
 
 "Let _your_ light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven." ([Matt.
-5:14-16](https://www.lds.org/scriptures/nt/matt/5.14-16?lang=eng#13). Italics
-added.)
+5:14-16](/scriptures/nt/matt/5.14-16?lang=eng#13). Italics added.)
 
 Not alone the Washington Temple, but this entire people have become as a city
 upon a hill which cannot be hid.
@@ -122,7 +121,7 @@ world to see. If we are to be that which the Lord would have us, we must
 indeed become "a royal priesthood, an holy nation, a peculiar people; that
 [we] should shew forth the praises of him who hath called [us] out of darkness
 into his marvellous light." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).)
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).)
 
 Unless the world alters the course of its present trends (and that is not
 likely); and if, on the other hand, we continue to follow the teachings of the
@@ -203,7 +202,7 @@ right.
 And, in the words of Isaiah, "Many people shall go and say, Come ye, and let
 us go up to the mountain of the Lord, to the house of the God of Jacob; and he
 will teach us of his ways, and we will walk in his paths." ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2).)
+2:3](/scriptures/ot/isa/2.3?lang=eng#2).)
 
 We need not compromise. We must not compromise.
 
@@ -225,4 +224,6 @@ and an ensign to the nations from which the people of the earth may gather
 strength. I bear witness of him who is our living God. I bear testimony of him
 who is our Savior and Redeemer. I bear witness of the truth of this, their
 work, in the name of the Lord Jesus Christ. Amen.
+
+## References
 

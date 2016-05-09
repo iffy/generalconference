@@ -164,7 +164,7 @@ Pornography," p. 76.)
 To Moses, the Lord, as recorded in Leviticus, spoke plainly and forcefully
 against adultery in various forms, whorings, and homosexuality. The Lord told
 Moses these things were an "abomination." ([Lev.
-20](https://www.lds.org/scriptures/ot/lev/20.title?lang=eng).)
+20](/scriptures/ot/lev/20?lang=eng).)
 
 They are still an abomination. They still corrode the mind, snuff out self-
 esteem, and drag one down into the darkness of anguish and unhappiness.
@@ -240,16 +240,15 @@ Today is the day to preach honesty and integrity. Many people have seemingly
 lost their concept of the God-given law of honesty. Joseph Smith led us in
 saying, "We believe in being honest, true, chaste, benevolent, virtuous, and
 in doing good to all men." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12))
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12))
 
 Our Creator said in the carved message on Sinai, "Thou shalt not steal." Again
 it was reiterated in the basis of the Restoration, "Thou shalt not steal."
-([D&amp;C 59:6](https://www.lds.org/scriptures/dc-
-testament/dc/59.6?lang=eng#5).)
+([D&amp;C 59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).)
 
 In public office and private lives, the word of the Lord thunders: "Thou shalt
 not steal; ... nor do anything like unto it." He says. ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).)
+59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).)
 
 We find ourselves rationalizing in all forms of dishonesty, including
 shoplifting, which is a mean, low act indulged in by millions who claim to be
@@ -362,17 +361,17 @@ I had a father who was infuriated if he saw a man beating a balky horse, or
 kicking his dog, or starving his other animals.
 
 Wise Solomon said, "A righteous man regardeth the life of his beast." ([Prov.
-12:10](https://www.lds.org/scriptures/ot/prov/12.10?lang=eng#9).)
+12:10](/scriptures/ot/prov/12.10?lang=eng#9).)
 
 "He [God] causeth the grass to grow for the cattle" ([Ps.
-104:14](https://www.lds.org/scriptures/ot/ps/104.14?lang=eng#13)), and the
-fodder for the beasts which serve man.
+104:14](/scriptures/ot/ps/104.14?lang=eng#13)), and the fodder for the beasts
+which serve man.
 
 Even rest is provided for the animals.
 
 "Six days shalt thou do thy work, and on the seventh day thou shalt rest: that
 thine ox and thine ass may rest." ([Ex.
-23:12](https://www.lds.org/scriptures/ot/ex/23.12?lang=eng#11).)
+23:12](/scriptures/ot/ex/23.12?lang=eng#11).)
 
 An old Hebrew saying warns not to dwell in a city where the horse does not
 neigh nor the dog bark.
@@ -442,11 +441,13 @@ affection all these catastrophic experiences and pray the Lord will bless and
 sustain those who have suffered.
 
 Brothers and sisters, we urge all our people to "be ye clean that bear the
-vessels of the Lord" ([D&amp;C 38:42](https://www.lds.org/scriptures/dc-
+vessels of the Lord" ([D&amp;C 38:42](/scriptures/dc-
 testament/dc/38.42?lang=eng#41)), to live the Lord's commandments, to do what
 is right.
 
 May God bless you with His divine Spirit as you yield to the spiritual sermons
 of this conference by the Brethren. And with my testimony I close in the name
 of Jesus Christ. Amen.
+
+## References
 

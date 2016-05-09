@@ -43,8 +43,7 @@ Spirit of truth, which is the Holy Ghost, who would teach them all things and
 bring all things to their remembrance that he had said unto them. Then he
 said, "Peace I leave with you, my peace I give unto you: not as the world
 giveth, give I unto you. Let not your heart be troubled, neither let it be
-afraid." (See [John
-14:15-27](https://www.lds.org/scriptures/nt/john/14.15-27?lang=eng#14).)
+afraid." (See [John 14:15-27](/scriptures/nt/john/14.15-27?lang=eng#14).)
 
 What did the Savior mean when he said "not as the world giveth"? What kind of
 peace has the world to give?
@@ -80,8 +79,7 @@ take thine ease, eat, drink, and be merry.
 thee: then whose shall those things be, which thou hast provided?
 
 "So is he that layeth up treasure for himself, and is not rich toward God."
-([Luke
-12:13-21](https://www.lds.org/scriptures/nt/luke/12.13-21?lang=eng#12).)
+([Luke 12:13-21](/scriptures/nt/luke/12.13-21?lang=eng#12).)
 
 How can we be rich toward God? Does this refer to the laying up of treasures
 in heaven by living his commandments--love of God and of our fellowmen?
@@ -191,8 +189,8 @@ was no contention in all the land.
 there was still peace in the land, save it were a small part of the people. ...
 
 "And it came to pass that two hundred years had passed away. ..." ([4 Ne. 1:2-3,
-5, 7, 10-11, 12-13, 15-20, 22](https://www.lds.org/scriptures/bofm/4-ne/1.2-3%
-2C5%2C7%2C10-11%2C12-13%2C15-20%2C22?lang=eng#1).)
+5, 7, 10-11, 12-13, 15-20,
+22](/scriptures/bofm/4-ne/1.2-3,5,7,10-11,12-13,15-20,22?lang=eng#1).)
 
 This was indeed a fortunate people whose history is contained in the Book of
 Mormon, a book which covers nearly three thousand years and which reveals that
@@ -247,4 +245,6 @@ patriarch.
 
 God be with you and bless you as we go forth to carry out our assignments,
 whatever they are, I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

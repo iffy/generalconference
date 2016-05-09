@@ -145,12 +145,11 @@ told that the Nephites, who had been strong, became "weak, like unto their
 brethren, the Lamanites, and that the Spirit of the Lord did no more preserve
 them; yea, it had withdrawn from them because the Spirit of the Lord doth not
 dwell in unholy temples." ([Hel.
-4:24](https://www.lds.org/scriptures/bofm/hel/4.24?lang=eng#23).)
+4:24](/scriptures/bofm/hel/4.24?lang=eng#23).)
 
 Alma taught the people of Zarahemla: The Lord "doth not dwell in unholy
 temples; neither can filthiness or anything which is unclean be received into
-the kingdom of God." ([Alma
-7:21](https://www.lds.org/scriptures/bofm/alma/7.21?lang=eng#20).)
+the kingdom of God." ([Alma 7:21](/scriptures/bofm/alma/7.21?lang=eng#20).)
 
 Can anyone doubt that the taking of these mind- and body-destroying drugs is
 an act of unholiness? Does anyone think that the Spirit of God can dwell in
@@ -249,8 +248,7 @@ treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 Let no member of this church, be he man or boy, girl or woman, fall prey to
 this frightful scourge. Some things are right; some are wrong. You know this
@@ -260,4 +258,6 @@ follows.
 
 God bless you to this end I humbly pray, as one who loves you, in the name of
 Jesus Christ, amen.
+
+## References
 

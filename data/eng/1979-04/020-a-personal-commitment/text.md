@@ -45,8 +45,8 @@ principle to the Prophet Joseph Smith on August 1, 1831:
 "Verily I say, men should be anxiously engaged in a good cause, and do many
 things of their own free will, and bring to pass much righteousness;
 
-"For the power is in them" ([D&amp;C 58:27-28](https://www.lds.org/scriptures
-/dc-testament/dc/58.27-28?lang=eng#26)).
+"For the power is in them" ([D&amp;C 58:27-28](/scriptures/dc-
+testament/dc/58.27-28?lang=eng#26)).
 
 Commitment, as we have observed, is to be an example of goodness. It is to be
 "anxiously engaged" and "do many things" of our "own free will." It is not by
@@ -85,15 +85,14 @@ whirlwind, yea, when all his hail and his mighty storm shall beat upon you, it
 shall have no power over you to drag you down to the gulf of misery and
 endless wo, because of the rock upon which ye are built, which is a sure
 foundation, a foundation whereon if men build they cannot fall" ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11)).
+5:12](/scriptures/bofm/hel/5.12?lang=eng#11)).
 
 When we commit ourselves to him, we receive the inner peace and security he
 promised: "Peace I leave with you, my peace I give unto you" ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26)). When we are
-committed to him, we bind him to bless us, for he said: "I, the Lord, am bound
-when ye do what I say;" and conversely "but when ye do not what I say, ye have
-no promise" ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
-testament/dc/82.10?lang=eng#9)).
+14:27](/scriptures/nt/john/14.27?lang=eng#26)). When we are committed to him,
+we bind him to bless us, for he said: "I, the Lord, am bound when ye do what I
+say;" and conversely "but when ye do not what I say, ye have no promise"
+([D&amp;C 82:10](/scriptures/dc-testament/dc/82.10?lang=eng#9)).
 
 A newspaper once received this question from a reader: "What would be the most
 important news the world could receive?" After much careful deliberation the
@@ -193,7 +192,7 @@ in a revelation given to the Prophet Joseph Smith in May 1831:
 
 "That which is of God is light; and he that receiveth light, and continueth in
 God, receiveth more light; and that light groweth brighter and brighter until
-the perfect day" ([D&amp;C 50:24](https://www.lds.org/scriptures/dc-
+the perfect day" ([D&amp;C 50:24](/scriptures/dc-
 testament/dc/50.24?lang=eng#23)).
 
 Brothers and sisters, a committed person makes goodness look attractive. He
@@ -205,4 +204,6 @@ to demonstrate his love for the Lord and all of His children.
 We, too, can resolve this day to declare ourselves, give ourselves, devote
 ourselves; to commit ourselves to do what _everyone can do._ In the name of
 the Lord Jesus Christ, amen.
+
+## References
 

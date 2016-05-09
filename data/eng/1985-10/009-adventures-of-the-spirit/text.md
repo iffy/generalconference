@@ -24,13 +24,13 @@ I am grateful that the scriptures encourage us to discover new horizons, to
 have adventures of the mind and study things "in heaven and in the earth, and
 under the earth; things which have been, things which are, things which must
 shortly come to pass; ... the perplexities of the nations ... ; and a knowledge
-also of countries and of kingdoms." ([D&amp;C
-88:79](https://www.lds.org/scriptures/dc-testament/dc/88.79?lang=eng#78).)
+also of countries and of kingdoms." ([D&amp;C 88:79](/scriptures/dc-
+testament/dc/88.79?lang=eng#78).)
 
 And why should we have an adventurous mind or an adventurous spirit? The Lord
 says, "That ye may be prepared in _all_ things ... [1] to magnify the calling
 whereunto I have called you, and [2] the mission with which I have
-commissioned you." ([D&amp;C 88:80](https://www.lds.org/scriptures/dc-
+commissioned you." ([D&amp;C 88:80](/scriptures/dc-
 testament/dc/88.80?lang=eng#79); italics added.)
 
 Of the many adventures I have enjoyed in my life, the greatest have been the
@@ -173,19 +173,13 @@ adventures of the Spirit.
 
 For example:
 
-  * A verse of the scriptures that glows in your mind, like Joseph reading in James;
-
-  * A prayer the Lord responds to with an outpouring of His love so intense that a yes or no answer doesn't really matter;
-
-  * A hymn with poetic words of condensed spirituality that causes the soul to soar heavenward;
-
-  * An unselfish act of service which leaves you feeling as if you were serving perhaps even the Savior Himself;
-
-  * The sacrament covenant to take Christ's name upon oneself pierces the soul so deeply that Christ's atonement truly becomes a personal, saving experience, a rebirth;
-
-  * A newly placed Book of Mormon causing an inquisitive person to read half the night in an exciting discovery of the newfound witness for Christ;
-
-  * The bad men who become good, the good men and women who become better, the great people who become greater and more Christlike through the gospel.
+  * A verse of the scriptures that glows in your mind, like Joseph reading in James; 
+  * A prayer the Lord responds to with an outpouring of His love so intense that a yes or no answer doesn't really matter; 
+  * A hymn with poetic words of condensed spirituality that causes the soul to soar heavenward; 
+  * An unselfish act of service which leaves you feeling as if you were serving perhaps even the Savior Himself; 
+  * The sacrament covenant to take Christ's name upon oneself pierces the soul so deeply that Christ's atonement truly becomes a personal, saving experience, a rebirth; 
+  * A newly placed Book of Mormon causing an inquisitive person to read half the night in an exciting discovery of the newfound witness for Christ; 
+  * The bad men who become good, the good men and women who become better, the great people who become greater and more Christlike through the gospel. 
 
 Be instruments in His hands.
 
@@ -200,4 +194,6 @@ physically at the head of this church which bears His name. His spokesman is a
 living prophet, and everything that we teach is true.
 
 As a witness, I testify of it in the name of Jesus Christ, amen.
+
+## References
 

@@ -9,10 +9,9 @@ missionaries' parents, I wish to say during my temporary absence from them,
 
 All of us who hold the priesthood of God are involved in a glorious common
 cause--helping our Father in Heaven bring to pass the immortality and eternal
-life of man (see [Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). This task,
-in its simplest form, involves qualifying ourselves for the blessings of the
-Savior's atonement and helping others to do the same.
+life of man (see [Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). This
+task, in its simplest form, involves qualifying ourselves for the blessings of
+the Savior's atonement and helping others to do the same.
 
 Over the years as I have struggled with my own weaknesses and have tried in my
 way to help others overcome theirs, I have received assistance and motivation
@@ -137,15 +136,15 @@ That may be one reason why He has established a pattern of companionships as
 we work together through the priesthood to serve Him and His children. That
 also may be why He has counseled that "if any man among you be strong in the
 Spirit, let him take with him him that is weak, that he may be edified in all
-meekness, that he may become strong also" ([D&amp;C
-84:106](https://www.lds.org/scriptures/dc-testament/dc/84.106?lang=eng#105)).
+meekness, that he may become strong also" ([D&amp;C 84:106](/scriptures/dc-
+testament/dc/84.106?lang=eng#105)).
 
 I have personally experienced the benefit of such a priesthood apprenticeship.
 In my Aaronic Priesthood years, a man who this evening is a silver-haired
 stake patriarch became my "senior" home teaching companion. Under his wise
 tutelage, and in spite of considerable resistance on my part, I learned for
 the first time how to "warn, expound, exhort, and teach, and invite all to
-come unto Christ" ([D&amp;C 20:59](https://www.lds.org/scriptures/dc-
+come unto Christ" ([D&amp;C 20:59](/scriptures/dc-
 testament/dc/20.59?lang=eng#58)). When the time later came at age nineteen for
 a full-time mission, I did not really need a missionary preparation course; I
 had had one! I thank God for the love and influence of such mentors.
@@ -178,4 +177,6 @@ countenances of others, it helps us live to receive it in our own.
 I thank God for the blessing of good people in all of our lives and pray that
 we may all in some small way serve that same purpose in the lives of others,
 in the name of Jesus Christ, amen.
+
+## References
 

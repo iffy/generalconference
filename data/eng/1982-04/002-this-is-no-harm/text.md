@@ -26,8 +26,7 @@ that Satan is the father of lies. His method of teaching this evil practice is
 illustrated in the tenth section of the Doctrine and Covenants: "Yea, he
 [Satan] saith unto them: Deceive and lie ... ; behold, this is no harm. And thus
 he ... telleth them that it is no sin to lie. ... And thus he ... causeth them to
-catch themselves in their own snare." ([D&amp;C
-10:25-26](https://www.lds.org/scriptures/dc-
+catch themselves in their own snare." ([D&amp;C 10:25-26](/scriptures/dc-
 testament/dc/10.25-26?lang=eng#24).)
 
 Yet we can't hide behind the father of lies and say, "Satan made me do it."
@@ -89,16 +88,14 @@ examine a few.
 A potent statement from Isaiah sheds light on one reason: "Yea, they are
 greedy dogs which can never have enough, and they are shepherds that cannot
 understand: they all look to their own way, every one for his gain, from his
-quarter." ([Isa.
-56:11](https://www.lds.org/scriptures/ot/isa/56.11?lang=eng#10).) Greed can
-make a person both dishonest and gullible. Such are spoken of in Doctrine and
+quarter." ([Isa. 56:11](/scriptures/ot/isa/56.11?lang=eng#10).) Greed can make
+a person both dishonest and gullible. Such are spoken of in Doctrine and
 Covenants 68:31-32: "Their eyes are full of greediness. These things ought not
-to be, and must be done away from among them." [[D&amp;C
-68:31-32](https://www.lds.org/scriptures/dc-
-testament/dc/68.31-32?lang=eng#30)] Good advice for those who would avoid
+to be, and must be done away from among them." [[D&amp;C 68:31-32](/scriptures
+/dc-testament/dc/68.31-32?lang=eng#30)] Good advice for those who would avoid
 deceitful propositions is found in Doctrine and Covenants 9:13: "Be faithful,
-and yield to no temptation." [[D&amp;C 9:13](https://www.lds.org/scriptures
-/dc-testament/dc/9.13?lang=eng#12)]
+and yield to no temptation." [[D&amp;C 9:13](/scriptures/dc-
+testament/dc/9.13?lang=eng#12)]
 
 A friend recently confided that he had lost heavily in a get-rich-quick scheme
 because he couldn't turn off his greed valve. Wanting more and more--living
@@ -168,9 +165,9 @@ Samuel Johnson also said, "Do not accustom yourself to consider debt only as
 an inconvenience; you will find it a calamity." (_The International Dictionary
 of Thoughts,_ p. 196.) We encourage all to avoid going into debt for
 speculation purposes. "The love of money is the root of all evil." ([1 Tim.
-6:10](https://www.lds.org/scriptures/nt/1-tim/6.10?lang=eng#9).) A proper
-balance in our money management skills should be the continuing goal of all
-who would be free of financial bondage.
+6:10](/scriptures/nt/1-tim/6.10?lang=eng#9).) A proper balance in our money
+management skills should be the continuing goal of all who would be free of
+financial bondage.
 
 President N. Eldon Tanner wisely suggests, "The choice to serve God, worthily
 made, does not necessarily preclude a home or sufficient money or income, or
@@ -222,11 +219,11 @@ but the laws of heaven have an irrevocable effect on us today, tomorrow, and
 forever.
 
 "Ye shall know the truth, and the truth shall make you free." ([John
-8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31).) No man will
-ever be totally free who is living a lie. Only he who bears or who has borne
-such a continuing burden can relate appropriately to such a declaration. We
-should ever bear in mind that a wrong isn't right just because many people do
-it. A wrong deed isn't right just because it hasn't become visible.
+8:32](/scriptures/nt/john/8.32?lang=eng#31).) No man will ever be totally free
+who is living a lie. Only he who bears or who has borne such a continuing
+burden can relate appropriately to such a declaration. We should ever bear in
+mind that a wrong isn't right just because many people do it. A wrong deed
+isn't right just because it hasn't become visible.
 
 May our Heavenly Father help us to have the courage to acknowledge and cast
 aside the living of a lie or the perpetuation of lies. Honesty is more than a
@@ -238,10 +235,9 @@ these remarks, or a friend, neighbor, or family member, let us live and teach
 honesty. In the academic classroom and in the classroom of life, the virtues
 of honesty should be stressed by all who espouse that "the glory of God is
 intelligence, or, in other words, light and truth." ([D&amp;C
-93:36](https://www.lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35).)
-Light and truth will help us to forsake the evil one and come off victorious.
-"This is no harm" is the declaration of our mortal enemy. He would lead us to
-self-destruction.
+93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).) Light and truth will
+help us to forsake the evil one and come off victorious. "This is no harm" is
+the declaration of our mortal enemy. He would lead us to self-destruction.
 
 If a lie is any communication given to another with the intent to deceive, we
 will all do well to seek God's constant help in understanding and finding the
@@ -253,9 +249,11 @@ the gullible in order to maneuver from them valuable possessions.
 May we constantly remind ourselves to "seek not for riches but for wisdom;
 and, behold, the mysteries of God shall be unfolded unto you, and then shall
 you be made rich. Behold, he that hath eternal life is rich." ([D&amp;C
-11:7](https://www.lds.org/scriptures/dc-testament/dc/11.7?lang=eng#6).)
+11:7](/scriptures/dc-testament/dc/11.7?lang=eng#6).)
 
 God grant to all of us the power and strength to be people of integrity, and
 the insight and wisdom to avoid being led into the snares of the dishonest, I
 pray in the name of Jesus Christ, amen.
+
+## References
 

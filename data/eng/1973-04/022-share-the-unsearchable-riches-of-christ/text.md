@@ -21,8 +21,7 @@ I should preach among the Gentiles the unsearchable riches of Christ;
 "In whom we have boldness and access with confidence by the faith of him.
 
 "For this cause I bow my knees unto the Father of our Lord Jesus Christ."
-([Eph. 3:7-8, 11-12,
-14](https://www.lds.org/scriptures/nt/eph/3.7-8%2C11-12%2C14?lang=eng#6).)
+([Eph. 3:7-8, 11-12, 14](/scriptures/nt/eph/3.7-8,11-12,14?lang=eng#6).)
 
 This same feeling of humble gratitude seems to fill the hearts of every member
 and missionary who becomes involved in sharing the gospel. As we see the peace
@@ -40,8 +39,7 @@ Twelve concerning the preaching of the gospel, the Lord then stated:
 hour upon all the world, and the gospel is unto all who have not received it.
 
 "But, verily I say unto all those to whom the kingdom has been given --from
-you it must be preached unto them. ..." ([D&amp;C
-84:75-76](https://www.lds.org/scriptures/dc-
+you it must be preached unto them. ..." ([D&amp;C 84:75-76](/scriptures/dc-
 testament/dc/84.75-76?lang=eng#74).)
 
 Joseph Smith has said that the greatest and most important duty we have is to
@@ -194,10 +192,11 @@ filled with all the fulness of God.
 think, according to the power that worketh in us,
 
 "Unto him be glory in the church by Christ Jesus throughout all ages, world
-without end. ..." ([Eph.
-3:16-21](https://www.lds.org/scriptures/nt/eph/3.16-21?lang=eng#15).)
+without end. ..." ([Eph. 3:16-21](/scriptures/nt/eph/3.16-21?lang=eng#15).)
 
 I solemnly declare my witness to you that Jesus is the Christ, that this is
 his church, and that President Harold B. Lee is his anointed prophet and seer
 today, in the name of Jesus Christ. Amen.
+
+## References
 

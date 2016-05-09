@@ -276,8 +276,7 @@ that individually and collectively.
 
 He has said: "Peace I leave with you, my peace I give unto you: not as the
 world giveth, give I unto you. Let not your heart be troubled, neither let it
-be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+be afraid." ([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 If you, my brother or sister, are troubled, there is at hand, not just in
 Gilead, a soothing, healing balm.
@@ -296,8 +295,10 @@ not, neither knoweth him: but ye know him; for he dwelleth with you, and shall
 be in you.
 
 "I will not leave you comfortless: I will come to you." ([John
-14:14-18](https://www.lds.org/scriptures/nt/john/14.14-18?lang=eng#13).)
+14:14-18](/scriptures/nt/john/14.14-18?lang=eng#13).)
 
 I bear witness of Him who is the Great Comforter and as one authorized to bear
 that witness testify that He lives. In the name of Jesus Christ, amen.
+
+## References
 

@@ -32,7 +32,7 @@ Through the morning mists we see Mount Zion, whereon is built "the city of the
 living God, the heavenly Jerusalem," where there is assembled "an innumerable
 company of angels," on whose height is congregated "the general assembly and
 church of the firstborn" ([Heb.
-12:22-23](https://www.lds.org/scriptures/nt/heb/12.22-23?lang=eng#21)).
+12:22-23](/scriptures/nt/heb/12.22-23?lang=eng#21)).
 
 From where we stand, on the peak of 150 years of progress, the view is
 glorious indeed.
@@ -40,11 +40,11 @@ glorious indeed.
 Looking back with pride, we see the spring of 1820 when the Gods of heaven,
 the supreme rulers of the universe, rent the heavens, appeared to Joseph
 Smith, and ushered in the dispensation of the fulness of times (see [D&amp;C
-112:30](https://www.lds.org/scriptures/dc-testament/dc/112.30?lang=eng#29)).
+112:30](/scriptures/dc-testament/dc/112.30?lang=eng#29)).
 
 We see Moroni flying through the midst of heaven, sounding the trump of God,
 and revealing the book which whispers from the dust with a familiar spirit
-(see [Rev. 14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5)).
+(see [Rev. 14:6](/scriptures/nt/rev/14.6?lang=eng#5)).
 
 We see other angelic ministrants come, bringing keys and powers and
 authorities until all of the keys of the kingdom of God are committed unto man
@@ -53,12 +53,12 @@ on the earth.
 We see the little stone cut from the mountain without hands beginning to roll
 forth toward that coming day when it shall smite the Babylonian image, break
 in pieces the kingdoms of men, and fill the whole earth (see [Dan.
-2:34-35](https://www.lds.org/scriptures/ot/dan/2.34-35?lang=eng#33)).
+2:34-35](/scriptures/ot/dan/2.34-35?lang=eng#33)).
 
 We see the elders of the kingdom going forth to many nations, crying
 repentance, gathering Israel, and assembling the faithful in the tops of the
 mountains where stands the house of the Lord (see [2 Ne.
-12:2](https://www.lds.org/scriptures/bofm/2-ne/12.2?lang=eng#1)).
+12:2](/scriptures/bofm/2-ne/12.2?lang=eng#1)).
 
 We see converts and stakes and temples. Gifts and signs and miracles abound.
 The sick are healed and the dead are raised by the power of God, and the work
@@ -66,8 +66,7 @@ of the Lord goes forward.
 
 But amid it all there is sorrow and toil and testing. The Saints are tried to
 the full to see if they will abide in the Lord's covenant even unto death (see
-[D&amp;C 98:14](https://www.lds.org/scriptures/dc-
-testament/dc/98.14?lang=eng#13)).
+[D&amp;C 98:14](/scriptures/dc-testament/dc/98.14?lang=eng#13)).
 
 Our gaze falls upon Carthage, where murderous devils in human guise shed the
 best blood of the nineteenth century.
@@ -98,8 +97,7 @@ of God to them and thank him and them for the heritage that is ours.
 
 As we ponder these things and count our blessings, we seem to hear a voice
 acclaim, "Put off thy shoes from off thy feet for the place whereon thou
-standest is holy ground" ([Ex.
-3:5](https://www.lds.org/scriptures/ot/ex/3.5?lang=eng#4)).
+standest is holy ground" ([Ex. 3:5](/scriptures/ot/ex/3.5?lang=eng#4)).
 
 But we know that our work is in the living present and our glorious destiny
 lies ahead.
@@ -118,7 +116,7 @@ wayside as the caravan of the kingdom rolls forward.
 
 We rejoice because of the glory and honor that awaits those who come forth out
 of all this tribulation with clean hands and pure hearts (see [Ps.
-24:4](https://www.lds.org/scriptures/ot/ps/24.4?lang=eng#3)).
+24:4](/scriptures/ot/ps/24.4?lang=eng#3)).
 
 Looking ahead, we see the gospel preached in all nations and to every people
 with success attending.
@@ -246,4 +244,6 @@ preserves us at this hour, even he will be with us and ours everlastingly.
 Our souls are at rest.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

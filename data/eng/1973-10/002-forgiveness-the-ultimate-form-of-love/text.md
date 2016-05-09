@@ -1,4 +1,4 @@
-# Forgiveness: The Ultimate Form of Love
+# Forgiveness:The Ultimate Form of Love
 
 After a meeting with a group of students recently one young man waited to ask
 a question. "Elder Hanks," he said, "what are _your _goals? What do _you _want
@@ -12,21 +12,21 @@ In ancient times Abraham was called the "friend of God." Jesus, shortly before
 his crucifixion, said to his disciples, "Ye are my friends, if ye do
 whatsoever I command you. Henceforth I call you not servants ... but I have
 called you friends. ..." ([John
-15:14-15](https://www.lds.org/scriptures/nt/john/15.14-15?lang=eng#13).)
+15:14-15](/scriptures/nt/john/15.14-15?lang=eng#13).)
 
 In 1832, to a group of elders returning from missionary service, he repeated
 the message: "... from henceforth I shall call you friends. ..." ([D&amp;C
-84:77](https://www.lds.org/scriptures/dc-testament/dc/84.77?lang=eng#76).)
+84:77](/scriptures/dc-testament/dc/84.77?lang=eng#76).)
 
 Today I would like to speak of one lesson among many that he taught us and
 that you and I must learn if we are to merit his friendship.
 
 Christ's love was so pure that he gave his life for us: "Greater love hath no
 man than this, that a man lay down his life for his friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).) But there
-was another gift he bestowed while he was on the cross, a gift that further
-measured the magnitude of his great love: he forgave, and asked his Father to
-forgive, those who persecuted and crucified him.
+15:13](/scriptures/nt/john/15.13?lang=eng#12).) But there was another gift he
+bestowed while he was on the cross, a gift that further measured the magnitude
+of his great love: he forgave, and asked his Father to forgive, those who
+persecuted and crucified him.
 
 Was this act of forgiveness less difficult than sacrificing his mortal life?
 Was it less a test of his love? I do not know the answer. But I have felt that
@@ -46,7 +46,7 @@ the spell of his compassion for the world."
 Christ's example and instructions to his friends are clear. He forgave, and he
 said: "... Love your enemies, bless them that curse you, do good to them that
 hate you, and pray for them which despitefully use you, and persecute you."
-([Matt. 5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43).)
+([Matt. 5:44](/scriptures/nt/matt/5.44?lang=eng#43).)
 
 What is our response when we are offended, misunderstood, unfairly or unkindly
 treated, or sinned against, made an offender for a word, falsely accused,
@@ -71,19 +71,19 @@ forgiveth not his brother his trespasses standeth condemned before the Lord;
 for there remaineth in him the greater sin.
 
 "I, the Lord, will forgive whom I will forgive, but of you it is required to
-forgive all men." ([D&amp;C 64:8-10](https://www.lds.org/scriptures/dc-
+forgive all men." ([D&amp;C 64:8-10](/scriptures/dc-
 testament/dc/64.8-10?lang=eng#7).)
 
 Therefore, Jesus taught us to pray. "And forgive us our trespasses as we
 forgive those who trespass against us." (See [Matt.
-6:14-15](https://www.lds.org/scriptures/nt/matt/6.14-15?lang=eng#13).)
+6:14-15](/scriptures/nt/matt/6.14-15?lang=eng#13).)
 
 Does it not seem a supreme impudence to ask and expect God to forgive when we
 do not forgive?--openly? and "in our hearts"?
 
 The Lord affirms in the Book of Mormon that we bring ourselves under
 condemnation if we do not forgive. (See [Mosiah
-26:30-31](https://www.lds.org/scriptures/bofm/mosiah/26.30-31?lang=eng#29).)
+26:30-31](/scriptures/bofm/mosiah/26.30-31?lang=eng#29).)
 
 But not only our eternal salvation depends upon our willingness and capacity
 to forgive wrongs committed against us. Our joy and satisfaction in this life,
@@ -95,20 +95,18 @@ resentment and anger lay upon us?
 
 Paul wrote to the Romans that nothing "shall be able to separate us from the
 love of God, which is in Christ Jesus our Lord." ([Rom.
-8:39](https://www.lds.org/scriptures/nt/rom/8.39?lang=eng#38).)
+8:39](/scriptures/nt/rom/8.39?lang=eng#38).)
 
 I am sure this is true. I bear testimony that this is true. But it is also
 true that we can _separate ourselves _from his spirit. In Isaiah it is
 written: "... your iniquities have separated between you and your God. ..." ([Isa.
-59:2](https://www.lds.org/scriptures/ot/isa/59.2?lang=eng#1).) Again, "... they
-have rewarded evil unto themselves." ([Isa.
-3:9](https://www.lds.org/scriptures/ot/isa/3.9?lang=eng#8).)
+59:2](/scriptures/ot/isa/59.2?lang=eng#1).) Again, "... they have rewarded evil
+unto themselves." ([Isa. 3:9](/scriptures/ot/isa/3.9?lang=eng#8).)
 
 Through Helaman we learn that "whosoever doeth iniquity, doeth it unto himself
-..." ([Hel. 14:30](https://www.lds.org/scriptures/bofm/hel/14.30?lang=eng#29));
-and from Benjamin, "... ye do withdraw yourselves from the Spirit of the Lord.
-..." ([Mosiah
-2:36](https://www.lds.org/scriptures/bofm/mosiah/2.36?lang=eng#35).)
+..." ([Hel. 14:30](/scriptures/bofm/hel/14.30?lang=eng#29)); and from Benjamin,
+"... ye do withdraw yourselves from the Spirit of the Lord. ..." ([Mosiah
+2:36](/scriptures/bofm/mosiah/2.36?lang=eng#35).)
 
 In every case of sin this is true. Envy, arrogance, unrighteous dominion--
 these canker the soul of one who is guilty of them. It is true also if we fail
@@ -119,7 +117,7 @@ these emotions, we know the harm we suffer.
 
 So Paul taught the Corinthians that they must "see that none render evil for
 evil unto any man. ..." ([1 Thes.
-5:15](https://www.lds.org/scriptures/nt/1-thes/5.15?lang=eng#14).)
+5:15](/scriptures/nt/1-thes/5.15?lang=eng#14).)
 
 It is reported that President Brigham Young once said that he who takes
 offense when no offense _was_ intended is a fool, and he who takes offense
@@ -200,7 +198,9 @@ love, and to forgive, in order that we may be friends with ourselves, with
 others, and with the Lord.
 
 "... even as Christ forgave you, so also do ye." ([Col.
-3:13](https://www.lds.org/scriptures/nt/col/3.13?lang=eng#12).)
+3:13](/scriptures/nt/col/3.13?lang=eng#12).)
 
 In the name of Jesus Christ. Amen.
+
+## References
 

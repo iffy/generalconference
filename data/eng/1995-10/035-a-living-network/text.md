@@ -110,13 +110,12 @@ father's net, is designed to bring you abundance--overflowing blessings,
 bounteous love, unimaginable grace. My father's net was designed to be used
 from the beach, but remember that wonderful story in Luke when the Savior told
 Peter, after a night of fruitless effort, "Launch out into the deep, and let
-down your nets" ([Luke
-5:4](https://www.lds.org/scriptures/nt/luke/5.4?lang=eng#3)). Do you remember
-what happened? The nets were filled with such an enormous number of fish that
-the nets were breaking. They called for help in hauling in the nets, and both
-boats almost swamped. The scriptural account doesn't say what Jesus did while
-these amazed fishermen were making the catch of their life, but I imagine he
-watched, smiling.
+down your nets" ([Luke 5:4](/scriptures/nt/luke/5.4?lang=eng#3)). Do you
+remember what happened? The nets were filled with such an enormous number of
+fish that the nets were breaking. They called for help in hauling in the nets,
+and both boats almost swamped. The scriptural account doesn't say what Jesus
+did while these amazed fishermen were making the catch of their life, but I
+imagine he watched, smiling.
 
 You know, the great thing about a beach is all the activity there. You can see
 people sunning themselves or playing volleyball or having barbecues. You can
@@ -133,12 +132,11 @@ sand, the froth, and the constant activity of the beach. The Savior says, "If
 thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon
 knowledge, that thou mayest know the mysteries and peaceable things--that
 which bringeth joy, that which bringeth life eternal" ([D&amp;C
-42:61](https://www.lds.org/scriptures/dc-testament/dc/42.61?lang=eng#60)). And
-the experience of Peter, James, and John tells us that we need partners in
-pulling in this abundance.
+42:61](/scriptures/dc-testament/dc/42.61?lang=eng#60)). And the experience of
+Peter, James, and John tells us that we need partners in pulling in this
+abundance.
 
-But as Psalm 42:7 [[Ps.
-42:7](https://www.lds.org/scriptures/ot/ps/42.7?lang=eng#6)] says, "deep
+But as Psalm 42:7 [[Ps. 42:7](/scriptures/ot/ps/42.7?lang=eng#6)] says, "deep
 calleth unto deep." The deeps are not just the deep knowledge of the gospel
 but also the deeps in you. I hope you have a beach part of your personality
 where there's a lot of scrambling and laughing and sunning. But I hope there's
@@ -190,8 +188,9 @@ toward all ... even as we do toward you:
 
 "To the end he may stablish your hearts unblameable in holiness before God,
 even our Father, at the coming of our Lord Jesus Christ with all his saints"
-([1 Thes.
-3:12-13](https://www.lds.org/scriptures/nt/1-thes/3.12-13?lang=eng#11)).
+([1 Thes. 3:12-13](/scriptures/nt/1-thes/3.12-13?lang=eng#11)).
 
 So may it be, I pray in the name of Jesus Christ, amen.
+
+## References
 

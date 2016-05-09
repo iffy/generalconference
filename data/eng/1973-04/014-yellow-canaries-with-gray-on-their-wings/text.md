@@ -101,14 +101,13 @@ Such are the ways of men!
 But what are the inspired words of God? From a time of long ago the counsel of
 Samuel the prophet echoes in our ears: "... the Lord seeth not as man seeth; for
 man looketh on the outward appearance, but the Lord looketh on the heart." ([1
-Sam. 16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).)
+Sam. 16:7](/scriptures/ot/1-sam/16.7?lang=eng#6).)
 
 Sham and hypocrisy found no place with the King of kings and the Lord of
 lords. He denounced the scribes and Pharisees for their vanity and shallow
 lives, their pretense and feigned righteousness. He called them "whited
 sepulchres, which indeed appear beautiful outward, but are within full of dead
-men's bones." ([Matt.
-23:27](https://www.lds.org/scriptures/nt/matt/23.27?lang=eng#26).)
+men's bones." ([Matt. 23:27](/scriptures/nt/matt/23.27?lang=eng#26).)
 
 They, like the beautiful yellow canaries, were outwardly handsome, but a true
 song came not from their hearts.
@@ -123,7 +122,7 @@ afflicted. ...
 "Why do ye adorn yourselves with that which hath no life, and yet suffer the
 hungry, and the needy, and the naked, and the sick and the afflicted to pass
 by you, and notice them not?" ([Morm.
-8:37-39](https://www.lds.org/scriptures/bofm/morm/8.37-39?lang=eng#36).)
+8:37-39](/scriptures/bofm/morm/8.37-39?lang=eng#36).)
 
 The Master could be found mingling with the poor, the downtrodden, the
 oppressed, and the afflicted. He brought hope to the hopeless, strength to the
@@ -137,7 +136,7 @@ begin anew. Indeed, the gospel of Jesus Christ can change men's lives.
 
 In his epistle to the Corinthians, the apostle Paul taught: "... God hath chosen
 the weak things of the world to confound the things which are mighty." ([1
-Cor. 1:27](https://www.lds.org/scriptures/nt/1-cor/1.27?lang=eng#26).)
+Cor. 1:27](/scriptures/nt/1-cor/1.27?lang=eng#26).)
 
 When the Savior sought a man of faith, he did not select him from the throng
 of self-righteous who were found regularly in the synagogue. Rather, he called
@@ -154,20 +153,19 @@ they inclosed a great multitude of fishes. ...
 
 When Simon Peter saw it, he fell down at Jesus' knees, saying, Depart from me;
 for I am a sinful man, O Lord." ([Luke 5:4-6,
-8](https://www.lds.org/scriptures/nt/luke/5.4-6%2C8?lang=eng#3).)
+8](/scriptures/nt/luke/5.4-6,8?lang=eng#3).)
 
 Came the reply: "Follow me, and I will make you fishers of men." ([Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18).) Simon the
-fisherman had received his call. Doubting, disbelieving, unschooled,
-untrained, impetuous Simon did not find the way of the Lord a highway of ease
-nor a path free from pain. He was to hear the rebuke: "O thou of little faith"
-([Matt. 14:31](https://www.lds.org/scriptures/nt/matt/14.31?lang=eng#30)), and
-likewise the denunciation, "Get thee behind me, Satan: thou art an offence
-unto me" ([Matt.
-16:23](https://www.lds.org/scriptures/nt/matt/16.23?lang=eng#22)). Yet, when
-the Master asked him, "... whom say ye that I am?" Peter answered: "Thou art the
-Christ, the Son of the living God." ([Matt.
-16:15-16](https://www.lds.org/scriptures/nt/matt/16.15-16?lang=eng#14).)
+4:19](/scriptures/nt/matt/4.19?lang=eng#18).) Simon the fisherman had received
+his call. Doubting, disbelieving, unschooled, untrained, impetuous Simon did
+not find the way of the Lord a highway of ease nor a path free from pain. He
+was to hear the rebuke: "O thou of little faith" ([Matt.
+14:31](/scriptures/nt/matt/14.31?lang=eng#30)), and likewise the denunciation,
+"Get thee behind me, Satan: thou art an offence unto me" ([Matt.
+16:23](/scriptures/nt/matt/16.23?lang=eng#22)). Yet, when the Master asked
+him, "... whom say ye that I am?" Peter answered: "Thou art the Christ, the Son
+of the living God." ([Matt.
+16:15-16](/scriptures/nt/matt/16.15-16?lang=eng#14).)
 
 Simon, man of doubt, had become Peter, apostle of faith. A yellow canary with
 gray on his wings qualified for the Master's full confidence and abiding love.
@@ -179,7 +177,7 @@ of the Lord. But this was before the experience of Damascus Way. Of Saul, the
 Lord declared: "... he is a chosen vessel unto me, to bear my name before the
 Gentiles, and kings, and the children of Israel: ... I will shew him how great
 things he must suffer for my name's sake." ([Acts
-9:15-16](https://www.lds.org/scriptures/nt/acts/9.15-16?lang=eng#14).)
+9:15-16](/scriptures/nt/acts/9.15-16?lang=eng#14).)
 
 Saul the persecutor became Paul the proselyter. Like the yellow canary with
 gray on his wings, Paul, too, had his blemishes. He himself said: "And lest I
@@ -188,7 +186,7 @@ there was given to me a thorn in the flesh, the messenger of Satan to buffet
 me. ... For this thing I besought the Lord thrice, that it might depart from me.
 And he said unto me, My grace is sufficient for thee: for my strength is made
 perfect in weakness. ..." ([2 Cor.
-12:7-9](https://www.lds.org/scriptures/nt/2-cor/12.7-9?lang=eng#6).)
+12:7-9](/scriptures/nt/2-cor/12.7-9?lang=eng#6).)
 
 Both Paul and Peter were to expend their strength and forfeit their lives in
 the cause of truth. The Redeemer chose imperfect men to teach the way to
@@ -239,4 +237,6 @@ praise his name, and so order our lives as to reflect our love. May we ever
 remember that to us God our Father gave his Son, and that for us Jesus Christ
 gave his life. I testify that he lives and pray we may be worthy of such a
 divine gift, in the name of Jesus Christ the Lord. Amen.
+
+## References
 

@@ -62,28 +62,18 @@ of the lightnings and thunders of that sacred mountain, God gave the people
 their basic law and listed some of those things that they must not do. He
 said:
 
-  1. Thou shalt have no other gods before me.
+  1. Thou shalt have no other gods before me. 
+  2. Thou shalt not make unto thee any graven image. 
+  3. Thou shalt not take the name of the Lord thy God in vain. 
+  4. Remember the Sabbath day, to keep it holy. 
+  5. Honour thy father and thy mother. 
+  6. Thou shalt not kill. 
+  7. Thou shalt not commit adultery. 
+  8. Thou shalt not steal. 
+  9. Thou shalt not bear false witness. 
+  10. Thou shalt not covet. 
 
-  2. Thou shalt not make unto thee any graven image.
-
-  3. Thou shalt not take the name of the Lord thy God in vain.
-
-  4. Remember the Sabbath day, to keep it holy.
-
-  5. Honour thy father and thy mother.
-
-  6. Thou shalt not kill.
-
-  7. Thou shalt not commit adultery.
-
-  8. Thou shalt not steal.
-
-  9. Thou shalt not bear false witness.
-
-  10. Thou shalt not covet.
-
-([Ex. 20:3-4, 7-8,
-12-17](https://www.lds.org/scriptures/ot/ex/20.3-4%2C7-8%2C12-17?lang=eng#2).)
+([Ex. 20:3-4, 7-8, 12-17](/scriptures/ot/ex/20.3-4,7-8,12-17?lang=eng#2).)
 
 These sixty-seven words can be read in less than thirty seconds, and yet if
 they were followed, they would quickly transform our earth into God's
@@ -98,9 +88,9 @@ money. I didn't think that you could do it."
 But because we are breaking the Ten Commandments, the Ten Commandments are
 also breaking us. We are fulfilling the prophecy of Ezekiel, who said: "... the
 soul that sinneth, it shall die." ([Ezek.
-18:4](https://www.lds.org/scriptures/ot/ezek/18.4?lang=eng#3).) Sin is more
-than ordinarily important, for as Martin Luther once said, "One vice can
-overcome ten virtues."
+18:4](/scriptures/ot/ezek/18.4?lang=eng#3).) Sin is more than ordinarily
+important, for as Martin Luther once said, "One vice can overcome ten
+virtues."
 
 A banker may be able to cancel off one liability with an asset of equal size,
 but you can't do that in the more important accounting of life, as several
@@ -132,12 +122,12 @@ one way or the other. However, in our own day the Lord has reaffirmed and
 reemphasized these great laws given from Sinai. As recorded in the 59th
 section of the Doctrine and Covenants, he has said: "Thou shalt not steal;
 neither commit adultery, nor kill, nor do anything like unto it." ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).) We are
-doing many things that are "like unto" breaking the Ten Commandments. It is
-easy for half-believers and underachievers to be guilty of those damaging sins
-of fractional devotion with marginal morals and a minimum performance.
-Disobedience and sloth always draw down upon us a burden of consequence that
-is much too heavy for us to bear.
+59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).) We are doing many things
+that are "like unto" breaking the Ten Commandments. It is easy for half-
+believers and underachievers to be guilty of those damaging sins of fractional
+devotion with marginal morals and a minimum performance. Disobedience and
+sloth always draw down upon us a burden of consequence that is much too heavy
+for us to bear.
 
 I was not present at Sinai when the Ten Commandments were given, and yet I
 know just as well as any who were present that it is right to obey God and to
@@ -149,7 +139,7 @@ witness, kill, commit adultery, or do anything like unto any of them.
 Through Malachi, the Lord said, "Will a man rob God? Yet ye have robbed me.
 But ye say, Wherein have we robbed thee? In tithes and offerings. Ye are
 cursed with a curse: for ye have robbed me, even this whole nation." ([Mal.
-3:8](https://www.lds.org/scriptures/ot/mal/3.8?lang=eng#7).)
+3:8](/scriptures/ot/mal/3.8?lang=eng#7).)
 
 If the people who failed to pay their tithing were robbing God then, and we
 are doing the same thing, we are robbing God now. And when we rob God, we are
@@ -178,4 +168,6 @@ things that God himself has placed out of bounds. And the emphasis of a little
 table pounding will help us to more securely make up our minds to eliminate
 those things that must _not _be done under any circumstances. And may God help
 us so to do, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

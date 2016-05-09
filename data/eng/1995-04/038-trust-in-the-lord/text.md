@@ -14,7 +14,7 @@ now, if God, who has created you, on whom you are dependent for your lives and
 for all that ye have and are, doth grant unto you whatsoever ye ask that is
 right, in faith, believing that ye shall receive, O then, how ye ought to
 impart of the substance that ye have one to another" ([Mosiah
-4:21](https://www.lds.org/scriptures/bofm/mosiah/4.21?lang=eng#20)).
+4:21](/scriptures/bofm/mosiah/4.21?lang=eng#20)).
 
 I knew then that she needed and still needs of the _substance I can impart:_
 my friendship and my testimony. I decided then that I would not give up on my
@@ -38,11 +38,13 @@ can read together and learn that Heavenly Father wants us to trust him:
 understanding.
 
 "In all thy ways acknowledge him, and he shall direct thy paths." [[Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4)]
+3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4)]
 
 I have a testimony of the scriptures. I know that if we "trust in the Lord"
 and read the scriptures prayerfully, we will receive direction and guidance as
 to what we should do in any troubling circumstance. I know that as we follow
 this direction, we will feel of the Savior's love for us. In the name of Jesus
 Christ, amen.
+
+## References
 

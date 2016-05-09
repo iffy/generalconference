@@ -6,7 +6,7 @@ from men.
 The Lord said to man: "... my thoughts are not your thoughts, neither are your
 ways my ways, ... for as the heavens are higher than the earth, so are my ways
 higher than your ways, and my thoughts than your thoughts." ([Isa.
-55:8-9](https://www.lds.org/scriptures/ot/isa/55.8-9?lang=eng#7).)
+55:8-9](/scriptures/ot/isa/55.8-9?lang=eng#7).)
 
 God's way was to create man, male and female, in his own image and likeness.
 
@@ -23,31 +23,30 @@ living God. "For God so loved the world, that he gave his only begotten Son,
 that whosoever believeth in him should not perish, but have everlasting life.
 For God sent not his Son into the world to condemn the world; but that the
 world through him might be saved." ([John
-3:16-17](https://www.lds.org/scriptures/nt/john/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/john/3.16-17?lang=eng#15).)
 
 Jesus Christ said, "... I came down from heaven, not to do mine own will, but
 the will of him that sent me." ([John
-6:38](https://www.lds.org/scriptures/nt/john/6.38?lang=eng#37).)
+6:38](/scriptures/nt/john/6.38?lang=eng#37).)
 
 "And this is the will of him that sent me, that every one which seeth the Son,
 and believeth on him, may have everlasting life. ..." ([John
-6:40](https://www.lds.org/scriptures/nt/john/6.40?lang=eng#39).)
+6:40](/scriptures/nt/john/6.40?lang=eng#39).)
 
 "... the Son can do nothing of himself, but what he seeth the Father do: for
 what things soever he doeth, these also doeth the Son likewise." ([John
-5:19](https://www.lds.org/scriptures/nt/john/5.19?lang=eng#18).)
+5:19](/scriptures/nt/john/5.19?lang=eng#18).)
 
 "... all men should honour the Son," he said, "even as they honour the Father.
 He that honoureth not the Son honoureth not the Father which hath sent him. ...
 He that heareth my word, and believeth on him that sent me, hath everlasting
 life, and shall not come into condemnation; but is passed from death unto
-life." ([John
-5:23-24](https://www.lds.org/scriptures/nt/john/5.23-24?lang=eng#22).)
+life." ([John 5:23-24](/scriptures/nt/john/5.23-24?lang=eng#22).)
 
 God has provided one way and only one way for his mortal children to attain
 godlike perfection. Jesus Christ proclaimed, "I am the way, the truth, and the
 life: No man cometh unto the Father, but by me." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).)
+14:6](/scriptures/nt/john/14.6?lang=eng#5).)
 
 Jesus Christ brought to this earth from heaven the Lord's ways and the Lord's
 truths.
@@ -57,18 +56,18 @@ all of his children to live.
 
 "... I am come," Jesus said, "that they might have life, and that they might
 have it more abundantly." ([John
-10:10](https://www.lds.org/scriptures/nt/john/10.10?lang=eng#9).)
+10:10](/scriptures/nt/john/10.10?lang=eng#9).)
 
 The full, abundant, divine way of life can be gained by following and walking
 in the light of Jesus Christ.
 
 "... I am the light of the world"; Jesus said, "he that followeth me shall not
 walk in darkness, but shall have the light of life." ([John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).)
+8:12](/scriptures/nt/john/8.12?lang=eng#11).)
 
 "That which is of God is light; and he that receiveth light, and continueth in
 God, receiveth more light; and that light groweth brighter and brighter until
-the perfect day." ([D&amp;C 50:24](https://www.lds.org/scriptures/dc-
+the perfect day." ([D&amp;C 50:24](/scriptures/dc-
 testament/dc/50.24?lang=eng#23).)
 
 By following the Son of God and by living worthy to receive the light of life
@@ -79,16 +78,15 @@ life and in the kingdom of heaven.
 We have this promise from the Savior: "Behold, I am Jesus Christ, the Son of
 God. I am the life and light of the world. ... verily, I say unto you, that as
 many as receive me, to them will I give power to become the sons of God. ..."
-([D&amp;C 11:28, 30](https://www.lds.org/scriptures/dc-
-testament/dc/11.28%2C30?lang=eng#27).)
+([D&amp;C 11:28, 30](/scriptures/dc-testament/dc/11.28,30?lang=eng#27).)
 
 God's greatest gift to his children is for them to be saved in the kingdom of
 God. The Lord said, "If thou wilt do good, yea, and hold out faithful to the
 end, thou shalt be saved in the kingdom of God, ... for there is no gift greater
-than the gift of salvation." ([D&amp;C 6:13](https://www.lds.org/scriptures
-/dc-testament/dc/6.13?lang=eng#12).) This is the gift of all gifts; this is
-the diploma of all diplomas. This is the degree in salvation that qualifies
-one for eternal life in the kingdom of God.
+than the gift of salvation." ([D&amp;C 6:13](/scriptures/dc-
+testament/dc/6.13?lang=eng#12).) This is the gift of all gifts; this is the
+diploma of all diplomas. This is the degree in salvation that qualifies one
+for eternal life in the kingdom of God.
 
 Jesus taught that few would find the way to salvation. He commanded his
 disciples to follow the Lord's way.
@@ -97,7 +95,7 @@ He said, "Enter ye in at the strait gate: for wide is the gate, and broad is
 the way, that leadeth to destruction, and many there be which go in thereat:
 Because strait is the gate, and narrow is the way, which leadeth unto life,
 and few there be that find it." ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).)
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).)
 
 Yes, our Heavenly Father so loved us that he sent his only begotten Son down
 from heaven to this earth that whosoever believeth in him should not perish
@@ -107,7 +105,7 @@ commandments. Because they love the lower thoughts and ways of men more than
 they love the higher thoughts and ways of God. "And this is the condemnation,"
 Jesus said, "that light is come into the world, and men loved darkness rather
 than light because their deeds were evil." ([John
-3:19](https://www.lds.org/scriptures/nt/john/3.19?lang=eng#18).)
+3:19](/scriptures/nt/john/3.19?lang=eng#18).)
 
 And again we read from the scriptures:
 
@@ -121,14 +119,14 @@ Spirit enlighteneth every man through the world, that hearkeneth to the voice
 of the Spirit.
 
 "And every one that hearkeneth to the voice of the Spirit cometh unto God,
-even the Father." ([D&amp;C 84:44-47](https://www.lds.org/scriptures/dc-
+even the Father." ([D&amp;C 84:44-47](/scriptures/dc-
 testament/dc/84.44-47?lang=eng#43).)
 
 The voice of the Lord continues, "And if your eye be single to my glory, your
 whole bodies shall be filled with light, and there shall be no darkness in
 you; and that body which is filled with light comprehendeth all things."
-([D&amp;C 88:67](https://www.lds.org/scriptures/dc-
-testament/dc/88.67?lang=eng#66).) What a glorious promise!
+([D&amp;C 88:67](/scriptures/dc-testament/dc/88.67?lang=eng#66).) What a
+glorious promise!
 
 The light of the Savior is available to everyone who will follow him. This
 divine light, through repentance, will remove darkness and sin from the soul.
@@ -144,7 +142,7 @@ raiment was white as the light.
 "While he yet spake, behold, a bright cloud overshadowed them: and behold a
 voice out of the cloud, which said, This is my beloved Son, in whom I am well
 pleased; hear ye him." ([Matt. 17:1-2,
-5](https://www.lds.org/scriptures/nt/matt/17.1-2%2C5?lang=eng#0).)
+5](/scriptures/nt/matt/17.1-2,5?lang=eng#0).)
 
 Our Heavenly Father has commanded, "hear ye him."
 
@@ -184,7 +182,7 @@ disciples.
 
 "These things have I spoken unto you, that my joy might remain in you, and
 that your joy might be full." ([John
-15:1-11](https://www.lds.org/scriptures/nt/john/15.1-11?lang=eng#0).)
+15:1-11](/scriptures/nt/john/15.1-11?lang=eng#0).)
 
 Jesus Christ is the vine and all who sincerely want to become godlike,
 prepared to live with their Heavenly Father in his kingdom, must receive their
@@ -208,8 +206,7 @@ like him.
 
 The Lord also commanded man to build godlike perfection into his life. He
 said, "... I would that ye should be perfect even as I, or your Father who is in
-heaven is perfect." ([3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47).)
+heaven is perfect." ([3 Ne. 12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47).)
 
 Divine perfection can only come through and by Jesus Christ, by knowing and
 following his ways, his truths, and his life. To be perfect we should be
@@ -234,7 +231,7 @@ wiles of the devil.
 "For we wrestle not against flesh and blood, but against principalities,
 against powers, against the rulers of the darkness of this world, against
 spiritual wickedness in high places." ([Eph.
-6:10-12](https://www.lds.org/scriptures/nt/eph/6.10-12?lang=eng#9).)
+6:10-12](/scriptures/nt/eph/6.10-12?lang=eng#9).)
 
 Yes, we wrestle against the thoughts and ways of men that are contrary to the
 thoughts and ways of God.
@@ -252,4 +249,6 @@ May we radiate from our countenance the light of life and walk as Jesus
 walked.
 
 In the name of Jesus Christ. Amen.
+
+## References
 

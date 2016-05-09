@@ -1,438 +1,367 @@
 items:
-- article_id: PD50028768_000_1010
-  item: '002'
-  key: 002-its-conference-once-again
+- item: 1
+  key: 000-its-conference-once-again
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: its-conference-once-again
   speaker: Thomas S. Monson
-  title: "It\u2019s Conference Once Again"
+  title: It's Conference Once Again
   url: https://www.lds.org/general-conference/2011/04/its-conference-once-again?lang=eng
   year: 2011
-- article_id: PD50028768_000_1020
-  item: '004'
-  key: 004-the-sabbath-and-the-sacrament
+- item: 2
+  key: 001-the-sabbath-and-the-sacrament
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sabbath-and-the-sacrament
   speaker: L. Tom Perry
   title: The Sabbath and the Sacrament
   url: https://www.lds.org/general-conference/2011/04/the-sabbath-and-the-sacrament?lang=eng
   year: 2011
-- article_id: PD50028768_000_1030
-  item: '005'
-  key: 005-become-as-a-little-child
+- item: 3
+  key: 002-become-as-a-little-child
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: become-as-a-little-child
   speaker: Jean A. Stevens
   title: Become as a Little Child
   url: https://www.lds.org/general-conference/2011/04/become-as-a-little-child?lang=eng
   year: 2011
-- article_id: PD50028768_000_1040
-  item: '006'
-  key: 006-followers-of-christ
+- item: 4
+  key: 003-followers-of-christ
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: followers-of-christ
   speaker: "Walter F. Gonz\xE1lez"
   title: Followers of Christ
   url: https://www.lds.org/general-conference/2011/04/followers-of-christ?lang=eng
   year: 2011
-- article_id: PD50028768_000_1050
-  item: 008
-  key: 008-the-atonement-covers-all-pain
+- item: 5
+  key: 004-the-atonement-covers-all-pain
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-atonement-covers-all-pain
   speaker: Kent F. Richards
   title: The Atonement Covers All Pain
   url: https://www.lds.org/general-conference/2011/04/the-atonement-covers-all-pain?lang=eng
   year: 2011
-- article_id: PD50028768_000_1060
-  item: 009
-  key: 009-lds-women-are-incredible
+- item: 6
+  key: 005-lds-women-are-incredible
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: lds-women-are-incredible
   speaker: Quentin L. Cook
   title: LDS Women Are Incredible!
   url: https://www.lds.org/general-conference/2011/04/lds-women-are-incredible?lang=eng
   year: 2011
-- article_id: PD50028768_000_1070
-  item: '011'
-  key: 011-opportunities-to-do-good
+- item: 7
+  key: 006-opportunities-to-do-good
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: opportunities-to-do-good
   speaker: Henry B. Eyring
   title: Opportunities to Do Good
   url: https://www.lds.org/general-conference/2011/04/opportunities-to-do-good?lang=eng
   year: 2011
-- article_id: PD50028768_000_2010
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 8
+  key: 007-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Dieter F. Uchtdorf
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2011/04/the-sustaining-of-church-officers?lang=eng
   year: 2011
-- article_id: PD50028768_000_2020
-  item: '015'
-  key: 015-church-auditing-department-report-2010
+- item: 9
+  key: 008-church-auditing-department-report-2010
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: church-auditing-department-report-2010
   speaker: Robert W. Cantwell
   title: Church Auditing Department Report, 2010
   url: https://www.lds.org/general-conference/2011/04/church-auditing-department-report-2010?lang=eng
   year: 2011
-- article_id: PD50028768_000_2030
-  item: '016'
-  key: 016-statistical-report-2010
+- item: 10
+  key: 009-statistical-report-2010
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-2010
   speaker: Brook P. Hales
   title: Statistical Report, 2010
   url: https://www.lds.org/general-conference/2011/04/statistical-report-2010?lang=eng
   year: 2011
-- article_id: PD50028768_000_2040
-  item: 018
-  key: 018-guided-by-the-holy-spirit
+- item: 11
+  key: 010-guided-by-the-holy-spirit
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: guided-by-the-holy-spirit
   speaker: Boyd K. Packer
   title: Guided by the Holy Spirit
   url: https://www.lds.org/general-conference/2011/04/guided-by-the-holy-spirit?lang=eng
   year: 2011
-- article_id: PD50028768_000_2050
-  item: 019
-  key: 019-face-the-future-with-faith
+- item: 12
+  key: 011-face-the-future-with-faith
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: face-the-future-with-faith
   speaker: Russell M. Nelson
   title: Face the Future with Faith
   url: https://www.lds.org/general-conference/2011/04/face-the-future-with-faith?lang=eng
   year: 2011
-- article_id: PD50028768_000_2060
-  item: '021'
-  key: 021-establishing-a-christ-centered-home
+- item: 13
+  key: 012-establishing-a-christ-centered-home
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: establishing-a-christ-centered-home
   speaker: Richard J. Maynes
   title: Establishing a Christ-Centered Home
   url: https://www.lds.org/general-conference/2011/04/establishing-a-christ-centered-home?lang=eng
   year: 2011
-- article_id: PD50028768_000_2070
-  item: '022'
-  key: 022-testimony
+- item: 14
+  key: 013-testimony
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: testimony
   speaker: Cecil O. Samuelson Jr.
   title: Testimony
   url: https://www.lds.org/general-conference/2011/04/testimony?lang=eng
   year: 2011
-- article_id: PD50028768_000_2080
-  item: '023'
-  key: 023-desire
+- item: 15
+  key: 014-desire
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: desire
   speaker: Dallin H. Oaks
   title: Desire
   url: https://www.lds.org/general-conference/2011/04/desire?lang=eng
   year: 2011
-- article_id: PD50028768_000_2090
-  item: '024'
-  key: 024-finding-joy-through-loving-service
+- item: 16
+  key: 015-finding-joy-through-loving-service
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: finding-joy-through-loving-service
   speaker: M. Russell Ballard
   title: Finding Joy through Loving Service
   url: https://www.lds.org/general-conference/2011/04/finding-joy-through-loving-service?lang=eng
   year: 2011
-- article_id: PD50028768_000_3010
-  item: 028
-  key: 028-preparing-the-world-for-the-second-coming
+- item: 17
+  key: 016-preparing-the-world-for-the-second-coming
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: preparing-the-world-for-the-second-coming
   speaker: Neil L. Andersen
   title: Preparing the World for the Second Coming
   url: https://www.lds.org/general-conference/2011/04/preparing-the-world-for-the-second-coming?lang=eng
   year: 2011
-- article_id: PD50028768_000_3020
-  item: 029
-  key: 029-hope
+- item: 18
+  key: 017-hope
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: hope
   speaker: Steven E. Snow
   title: Hope
   url: https://www.lds.org/general-conference/2011/04/hope?lang=eng
   year: 2011
-- article_id: PD50028768_000_3030
-  item: '030'
-  key: 030-sacred-keys-of-the-aaronic-priesthood
+- item: 19
+  key: 018-sacred-keys-of-the-aaronic-priesthood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: sacred-keys-of-the-aaronic-priesthood
   speaker: Larry M. Gibson
   title: Sacred Keys of the Aaronic Priesthood
   url: https://www.lds.org/general-conference/2011/04/sacred-keys-of-the-aaronic-priesthood?lang=eng
   year: 2011
-- article_id: PD50028768_000_3040
-  item: '032'
-  key: 032-your-potential-your-privilege
+- item: 20
+  key: 019-your-potential-your-privilege
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: your-potential-your-privilege
   speaker: Dieter F. Uchtdorf
   title: Your Potential, Your Privilege
   url: https://www.lds.org/general-conference/2011/04/your-potential-your-privilege?lang=eng
   year: 2011
-- article_id: PD50028768_000_3050
-  item: '033'
-  key: 033-learning-in-the-priesthood
+- item: 21
+  key: 020-learning-in-the-priesthood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: learning-in-the-priesthood
   speaker: Henry B. Eyring
   title: Learning in the Priesthood
   url: https://www.lds.org/general-conference/2011/04/learning-in-the-priesthood?lang=eng
   year: 2011
-- article_id: PD50028768_000_3060
-  item: '034'
-  key: 034-priesthood-power
+- item: 22
+  key: 021-priesthood-power
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: priesthood-power
   speaker: Thomas S. Monson
   title: Priesthood Power
   url: https://www.lds.org/general-conference/2011/04/priesthood-power?lang=eng
   year: 2011
-- article_id: PD50028768_000_4010
-  item: 039
-  key: 039-waiting-on-the-road-to-damascus
+- item: 23
+  key: 022-waiting-on-the-road-to-damascus
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: waiting-on-the-road-to-damascus
   speaker: Dieter F. Uchtdorf
   title: Waiting on the Road to Damascus
   url: https://www.lds.org/general-conference/2011/04/waiting-on-the-road-to-damascus?lang=eng
   year: 2011
-- article_id: PD50028768_000_4020
-  item: '040'
-  key: 040-more-than-conquerors-through-him-that-loved-us
+- item: 24
+  key: 023-more-than-conquerors-through-him-that-loved-us
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: more-than-conquerors-through-him-that-loved-us
   speaker: Paul V. Johnson
   title: More Than Conquerors through Him That Loved Us
   url: https://www.lds.org/general-conference/2011/04/more-than-conquerors-through-him-that-loved-us?lang=eng
   year: 2011
-- article_id: PD50028768_000_4030
-  item: '041'
-  key: 041-the-sanctifying-work-of-welfare
+- item: 25
+  key: 024-the-sanctifying-work-of-welfare
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-sanctifying-work-of-welfare
   speaker: H. David Burton
   title: The Sanctifying Work of Welfare
   url: https://www.lds.org/general-conference/2011/04/the-sanctifying-work-of-welfare?lang=eng
   year: 2011
-- article_id: PD50028768_000_4040
-  item: '043'
-  key: 043-the-essence-of-discipleship
+- item: 26
+  key: 025-the-essence-of-discipleship
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-essence-of-discipleship
   speaker: Silvia H. Allred
   title: The Essence of Discipleship
   url: https://www.lds.org/general-conference/2011/04/the-essence-of-discipleship?lang=eng
   year: 2011
-- article_id: PD50028768_000_4050
-  item: '044'
-  key: 044-the-spirit-of-revelation
+- item: 27
+  key: 026-the-spirit-of-revelation
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-spirit-of-revelation
   speaker: David A. Bednar
   title: The Spirit of Revelation
   url: https://www.lds.org/general-conference/2011/04/the-spirit-of-revelation?lang=eng
   year: 2011
-- article_id: PD50028768_000_4060
-  item: '046'
-  key: 046-the-holy-temple-a-beacon-to-the-world
+- item: 28
+  key: 027-the-holy-temple-a-beacon-to-the-world
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-holy-temple-a-beacon-to-the-world
   speaker: Thomas S. Monson
   title: "The Holy Temple\u2014a Beacon to the World"
   url: https://www.lds.org/general-conference/2011/04/the-holy-temple-a-beacon-to-the-world?lang=eng
   year: 2011
-- article_id: PD50028768_000_5010
-  item: '050'
-  key: 050-the-eternal-blessings-of-marriage
+- item: 29
+  key: 028-the-eternal-blessings-of-marriage
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-eternal-blessings-of-marriage
   speaker: Richard G. Scott
   title: The Eternal Blessings of Marriage
   url: https://www.lds.org/general-conference/2011/04/the-eternal-blessings-of-marriage?lang=eng
   year: 2011
-- article_id: PD50028768_000_5020
-  item: '051'
-  key: 051-as-many-as-i-love-i-rebuke-and-chasten
+- item: 30
+  key: 029-as-many-as-i-love-i-rebuke-and-chasten
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: as-many-as-i-love-i-rebuke-and-chasten
   speaker: D. Todd Christofferson
-  title: "\u201CAs Many as I Love, I Rebuke and Chasten\u201D"
+  title: '"As Many as I Love, I Rebuke and Chasten"'
   url: https://www.lds.org/general-conference/2011/04/as-many-as-i-love-i-rebuke-and-chasten?lang=eng
   year: 2011
-- article_id: PD50028768_000_5030
-  item: '052'
-  key: 052-the-lords-richest-blessings
+- item: 31
+  key: 030-the-lords-richest-blessings
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-lords-richest-blessings
   speaker: Carl B. Pratt
-  title: "The Lord\u2019s Richest Blessings"
+  title: The Lord's Richest Blessings
   url: https://www.lds.org/general-conference/2011/04/the-lords-richest-blessings?lang=eng
   year: 2011
-- article_id: PD50028768_000_5040
-  item: '054'
-  key: 054-what-manner-of-men-and-women-ought-ye-to-be
+- item: 32
+  key: 031-what-manner-of-men-and-women-ought-ye-to-be
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: what-manner-of-men-and-women-ought-ye-to-be
   speaker: Lynn G. Robbins
   title: What Manner of Men and Women Ought Ye to Be?
   url: https://www.lds.org/general-conference/2011/04/what-manner-of-men-and-women-ought-ye-to-be?lang=eng
   year: 2011
-- article_id: PD50028768_000_5050
-  item: '055'
-  key: 055-called-to-be-saints
+- item: 33
+  key: 032-called-to-be-saints
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: called-to-be-saints
   speaker: "Benjam\xEDn De Hoyos"
   title: Called to Be Saints
   url: https://www.lds.org/general-conference/2011/04/called-to-be-saints?lang=eng
   year: 2011
-- article_id: PD50028768_000_5060
-  item: '056'
-  key: 056-the-miracle-of-the-atonement
+- item: 34
+  key: 033-the-miracle-of-the-atonement
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-miracle-of-the-atonement
   speaker: C. Scott Grow
   title: The Miracle of the Atonement
   url: https://www.lds.org/general-conference/2011/04/the-miracle-of-the-atonement?lang=eng
   year: 2011
-- article_id: PD50028768_000_5070
-  item: '057'
-  key: 057-an-ensign-to-the-nations
+- item: 35
+  key: 034-an-ensign-to-the-nations
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: an-ensign-to-the-nations
   speaker: Jeffrey R. Holland
   title: An Ensign to the Nations
   url: https://www.lds.org/general-conference/2011/04/an-ensign-to-the-nations?lang=eng
   year: 2011
-- article_id: PD50028768_000_5080
-  item: 058
-  key: 058-at-parting
+- item: 36
+  key: 035-at-parting
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: at-parting
   speaker: Thomas S. Monson
   title: At Parting
   url: https://www.lds.org/general-conference/2011/04/at-parting?lang=eng
   year: 2011
-- article_id: PD50028768_000_0010
-  item: '062'
-  key: 062-i-believe-in-being-honest-and-true
+- item: 37
+  key: 036-i-believe-in-being-honest-and-true
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: i-believe-in-being-honest-and-true
   speaker: Ann M. Dibb
   title: I Believe in Being Honest and True
   url: https://www.lds.org/general-conference/2011/04/i-believe-in-being-honest-and-true?lang=eng
   year: 2011
-- article_id: PD50028768_000_0020
-  item: '063'
-  key: 063-remember-this-kindness-begins-with-me
+- item: 38
+  key: 037-remember-this-kindness-begins-with-me
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: remember-this-kindness-begins-with-me
   speaker: Mary N. Cook
-  title: "\u201CRemember This: Kindness Begins with Me\u201D"
+  title: '"Remember This: Kindness Begins with Me"'
   url: https://www.lds.org/general-conference/2011/04/remember-this-kindness-begins-with-me?lang=eng
   year: 2011
-- article_id: PD50028768_000_0040
-  item: '065'
-  key: 065-guardians-of-virtue
+- item: 39
+  key: 038-1515946183001
   month: 4
-  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: '1515946183001'
+  speaker: The Church of Jesus Christ of Latter-day Saints
+  title: I'm a Young Woman and I Believe!
+  url: https://www.lds.org/general-conference/2011/04/media/session_6_talk_5/1515946183001?lang=eng
+  year: 2011
+- item: 40
+  key: 039-guardians-of-virtue
+  month: 4
   session_title: General Young Women Meeting
   slug: guardians-of-virtue
   speaker: Elaine S. Dalton
   title: Guardians of Virtue
   url: https://www.lds.org/general-conference/2011/04/guardians-of-virtue?lang=eng
   year: 2011
-- article_id: PD50028768_000_0050
-  item: '067'
-  key: 067-a-living-testimony
+- item: 41
+  key: 040-a-living-testimony
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: a-living-testimony
   speaker: Henry B. Eyring

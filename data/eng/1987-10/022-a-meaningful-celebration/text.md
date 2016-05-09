@@ -59,7 +59,7 @@ throughout all your land.
 the land unto all the inhabitants thereof: it shall be a jubile unto you; and
 ye shall return every man unto his possession, and ye shall return every man
 unto his family" ([Lev. 25:3-4,
-8-10](https://www.lds.org/scriptures/ot/lev/25.3-4%2C8-10?lang=eng#2)).
+8-10](/scriptures/ot/lev/25.3-4,8-10?lang=eng#2)).
 
 Every fiftieth year, the land was to be returned to the original owners or
 their descendants; all Israelites sold into slavery for debt were to be freed;
@@ -80,12 +80,12 @@ messages implicit in the celebration of the Jubilee Year. An excerpt from _The
 International Standard Bible Encyclopedia_ tells us that "the fiftieth year
 was to be a time of proclaiming liberty to all the inhabitants of the land.
 God had redeemed His people from bondage in Egypt ([Lev.
-25:42](https://www.lds.org/scriptures/ot/lev/25.42?lang=eng#41)); and none of
-them was again to be reduced to the status of ... slave. ... God's chosen child
-was not to be oppressed. ... Indeed, as citizens of the theocratic kingdom,
-masters and servants had become brothers together. ... Thus, as seen in its
-widest application, only through its loyalty to God could Israel as a nation
-ever hope to be free and independent of other masters. ...
+25:42](/scriptures/ot/lev/25.42?lang=eng#41)); and none of them was again to
+be reduced to the status of ... slave. ... God's chosen child was not to be
+oppressed. ... Indeed, as citizens of the theocratic kingdom, masters and
+servants had become brothers together. ... Thus, as seen in its widest
+application, only through its loyalty to God could Israel as a nation ever
+hope to be free and independent of other masters. ...
 
 "A second feature of the Jubilee was that of the restitution of all real
 property. The purpose was to demonstrate that the earth is subject basically
@@ -123,13 +123,13 @@ the 200th year of the Constitution.
 After all, we declare in the twelfth article of faith, "We believe in being
 subject to kings, presidents, rulers, and magistrates, in obeying, honoring,
 and sustaining the law." [[A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11)] We find
-that this counsel is continually needed in the Church today. All members of
-the Church should be committed to obeying and honoring the laws of the land in
-which they live. We should be exemplary in our obedience to the governments
-that govern us. The Church, to be of service to the nations of the world, must
-be a wholesome influence in the lives of individuals who embrace it, in
-temporal as well as spiritual affairs.
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11)] We find that this counsel is
+continually needed in the Church today. All members of the Church should be
+committed to obeying and honoring the laws of the land in which they live. We
+should be exemplary in our obedience to the governments that govern us. The
+Church, to be of service to the nations of the world, must be a wholesome
+influence in the lives of individuals who embrace it, in temporal as well as
+spiritual affairs.
 
 In Matthew, the twenty-second chapter, we recall the account of the Pharisees
 attempting to entangle the Savior in the conflict they perceived in His
@@ -147,14 +147,12 @@ hypocrites?
 
 "They said unto him, Caesar's. Then saith he unto them, Render therefore unto
 Caesar the things which are Caesar's; and unto God the things that are God's"
-([Matt.
-22:17-21](https://www.lds.org/scriptures/nt/matt/22.17-21?lang=eng#16)).
+([Matt. 22:17-21](/scriptures/nt/matt/22.17-21?lang=eng#16)).
 
 Continuing after the Savior's ministry, the Apostles urged the Saints to be
 orderly and law-abiding. Writing to Titus, Paul declared, "Put them in mind to
 be subject to principalities and powers, to obey magistrates, to be ready to
-every good work" ([Titus
-3:1](https://www.lds.org/scriptures/nt/titus/3.1?lang=eng#0)).
+every good work" ([Titus 3:1](/scriptures/nt/titus/3.1?lang=eng#0)).
 
 As Church members, we live under the banner of many different flags. How
 important it is that we understand our place and our position in the lands in
@@ -249,4 +247,6 @@ standards and our values.
 This is the Lord's work in which we are engaged. I bear witness of that. He
 lives. Jesus is the Christ, the Savior of the world. That we may be engaged in
 His work is my humble prayer, in the name of Jesus Christ, amen.
+
+## References
 

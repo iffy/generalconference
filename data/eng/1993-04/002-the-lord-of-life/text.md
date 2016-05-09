@@ -12,13 +12,13 @@ Life is a God of miracles.
 For many, perhaps the most spectacular miracle would be the raising of someone
 from the dead. The scriptures describe the supreme joy of the widows of
 Zarephath and Nain whose dead sons were restored to life (see [1 Kgs.
-17:17-24](https://www.lds.org/scriptures/ot/1-kgs/17.17-24?lang=eng#16); [Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).) The
-most dramatic episode tells how the Savior went to the sepulcher of His
-beloved friend Lazarus, who had lain dead for four days. Asking them to take
-away the stone, "he cried with a loud voice, Lazarus, come forth. And he that
-was dead came forth, bound hand and foot with graveclothes." ([John
-11:43-44](https://www.lds.org/scriptures/nt/john/11.43-44?lang=eng#42).)
+17:17-24](/scriptures/ot/1-kgs/17.17-24?lang=eng#16); [Luke
+7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10).) The most dramatic episode
+tells how the Savior went to the sepulcher of His beloved friend Lazarus, who
+had lain dead for four days. Asking them to take away the stone, "he cried
+with a loud voice, Lazarus, come forth. And he that was dead came forth, bound
+hand and foot with graveclothes." ([John
+11:43-44](/scriptures/nt/john/11.43-44?lang=eng#42).)
 
 The Prophet Joseph Smith shared a profound insight which I'll rephrase in the
 form of a question: _Is it any more incredible that one could be raised from
@@ -27,14 +27,13 @@ Smith,_ p. 191.)
 
 John the Apostle taught that the highest manifestation of our Heavenly
 Father's love was to send "his only begotten Son into the world, that we might
-live through him." ([1 Jn.
-4:9](https://www.lds.org/scriptures/nt/1-jn/4.9?lang=eng#8).)
+live through him." ([1 Jn. 4:9](/scriptures/nt/1-jn/4.9?lang=eng#8).)
 
 Few understood this during His ministry. The intellectual Nicodemus was
 impressed with the miracles of Jesus; but even with extensive knowledge of the
 scriptures, he could not grasp the doctrine of spiritual rebirth, the
 transformation of the human soul, what it means to be born again. (See [John
-3:1-10](https://www.lds.org/scriptures/nt/john/3.1-10?lang=eng#0).)
+3:1-10](/scriptures/nt/john/3.1-10?lang=eng#0).)
 
 Nature provides some striking parallels. The late film producer Cecil B.
 DeMille shared this experience:
@@ -62,25 +61,23 @@ covenant people:
 
 "A new heart also will I give you, and a new spirit will I put within you: ...
 and cause you to walk in my statute." ([Ezek.
-36:26-27](https://www.lds.org/scriptures/ot/ezek/36.26-27?lang=eng#25).)
+36:26-27](/scriptures/ot/ezek/36.26-27?lang=eng#25).)
 
 The king of the Lamanites was stirred by the power of the Spirit when taught
 the gospel. He asked Aaron: "What shall I do that I may have this eternal life
 of which thou hast spoken? ... that I may be born of God, having this wicked
 spirit rooted out of my breast, and receive his Spirit ... ? ... I will give up
 all that I possess ... that I may receive this great joy." ([Alma
-22:15](https://www.lds.org/scriptures/bofm/alma/22.15?lang=eng#14).)
+22:15](/scriptures/bofm/alma/22.15?lang=eng#14).)
 
 Note Aaron's prescription: "If thou desirest this thing, if thou wilt bow down
 before God, yea, if thou wilt repent of all thy sins ... and call on his name in
 faith, believing that ye shall receive, then shalt thou receive the hope which
-thou desirest." ([Alma
-22:16](https://www.lds.org/scriptures/bofm/alma/22.16?lang=eng#15).)
+thou desirest." ([Alma 22:16](/scriptures/bofm/alma/22.16?lang=eng#15).)
 
 Prostrating himself before the Lord, the king pled, "If thou art God, wilt
 thou make thyself known unto me, and I will give away all my sins to know
-thee." ([Alma
-22:18](https://www.lds.org/scriptures/bofm/alma/22.18?lang=eng#17).)
+thee." ([Alma 22:18](/scriptures/bofm/alma/22.18?lang=eng#17).)
 
 From the pages of our missionary journal comes an event repeated often
 throughout the missions of the Church. John and Shirley Withers were
@@ -137,15 +134,11 @@ I do not know how our Savior actually performs the sanctifying miracle of the
 Atonement, how He takes upon Himself our anguish of mind and body and assumes
 our pain and guilt; but I know He does. This leads me to these conclusions:
 
-  1. The incomprehensible severity of His suffering should convince us that we are loved and very important to our Heavenly Father. Otherwise, why would such suffering be permitted?
-
-  2. Our Savior's sacrifice had to be a voluntary act of mercy, the shedding of innocent blood, the just for the unjust, the perfect for the imperfect.
-
-  3. The Atonement must be infinite and eternal, available to all mankind.
-
-  4. I believe, to use an insurance phrase, we must pay the deductible. We must experience sorrow enough, suffering enough, guilt enough so we are conscious and appreciative of the heavier burden borne by the Savior.
-
-  5. Finally, we must acknowledge the gift and comply with the conditions so that redemption might be complete. Love motivates our obedience to God. To express our love and gratitude for the Atonement, we covenant with our Heavenly Father to take upon us the name of His Son and to bear witness of Him at all times and in all places, observing His commandments. (See [Mosiah 18:8-10](https://www.lds.org/scriptures/bofm/mosiah/18.8-10?lang=eng#7).)
+  1. The incomprehensible severity of His suffering should convince us that we are loved and very important to our Heavenly Father. Otherwise, why would such suffering be permitted? 
+  2. Our Savior's sacrifice had to be a voluntary act of mercy, the shedding of innocent blood, the just for the unjust, the perfect for the imperfect. 
+  3. The Atonement must be infinite and eternal, available to all mankind. 
+  4. I believe, to use an insurance phrase, we must pay the deductible. We must experience sorrow enough, suffering enough, guilt enough so we are conscious and appreciative of the heavier burden borne by the Savior. 
+  5. Finally, we must acknowledge the gift and comply with the conditions so that redemption might be complete. Love motivates our obedience to God. To express our love and gratitude for the Atonement, we covenant with our Heavenly Father to take upon us the name of His Son and to bear witness of Him at all times and in all places, observing His commandments. (See [Mosiah 18:8-10](/scriptures/bofm/mosiah/18.8-10?lang=eng#7).) 
 
 I bear my solemn witness that full acceptance of the Atonement, with the
 saving ordinances of the gospel, changes lives. Through Jesus Christ, the Lord
@@ -153,4 +146,6 @@ of Life, we can be raised from a death of error and sin to a spiritual rebirth
 of hope and eternal joy. He lives. He loves us. He pleads with us to come unto
 Him and find peace. That we may do so is my prayer in the name of Jesus
 Christ, amen.
+
+## References
 

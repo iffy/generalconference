@@ -17,43 +17,35 @@ give insight to this important matter. As originally given, the assignments
 pertaining to the office may be summarized in four major parts.
 
 First, the bishop was to receive the consecrations of the Saints and appoint
-unto them their inheritances (see [D&amp;C 42:31-34,
-71-73](https://www.lds.org/scriptures/dc-
-testament/dc/42.31-34%2C71-73?lang=eng#30); [D&amp;C
-51:13](https://www.lds.org/scriptures/dc-testament/dc/51.13?lang=eng#12);
-[D&amp;C 58:35](https://www.lds.org/scriptures/dc-
-testament/dc/58.35?lang=eng#34); [D&amp;C
-72:2-6](https://www.lds.org/scriptures/dc-testament/dc/72.2-6?lang=eng#1);
-[D&amp;C 78](https://www.lds.org/scriptures/dc-
-testament/dc/78.title?lang=eng); [D&amp;C 82](https://www.lds.org/scriptures
-/dc-testament/dc/82.title?lang=eng); [D&amp;C
-85:1](https://www.lds.org/scriptures/dc-testament/dc/85.1?lang=eng#0)).
+unto them their inheritances (see [D&amp;C 42:31-34, 71-73](/scriptures/dc-
+testament/dc/42.31-34,71-73?lang=eng#30); [D&amp;C 51:13](/scriptures/dc-
+testament/dc/51.13?lang=eng#12); [D&amp;C 58:35](/scriptures/dc-
+testament/dc/58.35?lang=eng#34); [D&amp;C 72:2-6](/scriptures/dc-
+testament/dc/72.2-6?lang=eng#1); [D&amp;C 78](/scriptures/dc-
+testament/dc/78?lang=eng); [D&amp;C 82](/scriptures/dc-
+testament/dc/82?lang=eng); [D&amp;C 85:1](/scriptures/dc-
+testament/dc/85.1?lang=eng#0)).
 
 Second, the bishop was to be a judge unto the people, judging both their
 standing in the Church as well as their temporal needs if they had claim on
-the Church (see [D&amp;C 42:80-82](https://www.lds.org/scriptures/dc-
-testament/dc/42.80-82?lang=eng#79); [D&amp;C
-58:17-18](https://www.lds.org/scriptures/dc-
-testament/dc/58.17-18?lang=eng#16); [D&amp;C
-72:17](https://www.lds.org/scriptures/dc-testament/dc/72.17?lang=eng#16);
-[D&amp;C 107:72](https://www.lds.org/scriptures/dc-
+the Church (see [D&amp;C 42:80-82](/scriptures/dc-
+testament/dc/42.80-82?lang=eng#79); [D&amp;C 58:17-18](/scriptures/dc-
+testament/dc/58.17-18?lang=eng#16); [D&amp;C 72:17](/scriptures/dc-
+testament/dc/72.17?lang=eng#16); [D&amp;C 107:72](/scriptures/dc-
 testament/dc/107.72?lang=eng#71)).
 
 Third, the bishop was to succor the poor, in both body and spirit, according
-to their needs (see [D&amp;C 38:35](https://www.lds.org/scriptures/dc-
-testament/dc/38.35?lang=eng#34); [D&amp;C 42:33-35, 39,
-71](https://www.lds.org/scriptures/dc-
-testament/dc/42.33-35%2C39%2C71?lang=eng#32); [D&amp;C
-70:7-8](https://www.lds.org/scriptures/dc-testament/dc/70.7-8?lang=eng#6)).
+to their needs (see [D&amp;C 38:35](/scriptures/dc-
+testament/dc/38.35?lang=eng#34); [D&amp;C 42:33-35, 39, 71](/scriptures/dc-
+testament/dc/42.33-35,39,71?lang=eng#32); [D&amp;C 70:7-8](/scriptures/dc-
+testament/dc/70.7-8?lang=eng#6)).
 
 Fourth, the bishop was to act as an agent for the Church doing whatever
 temporal business he was appointed to by the Lord through the First Presidency
-(see [D&amp;C 51:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/51.13-14?lang=eng#12); [D&amp;C
-84:112-13](https://www.lds.org/scriptures/dc-
-testament/dc/84.112-13?lang=eng#111); [D&amp;C 107:68,
-71-72](https://www.lds.org/scriptures/dc-
-testament/dc/107.68%2C71-72?lang=eng#67)).
+(see [D&amp;C 51:13-14](/scriptures/dc-testament/dc/51.13-14?lang=eng#12);
+[D&amp;C 84:112-13](/scriptures/dc-testament/dc/84.112-13?lang=eng#111);
+[D&amp;C 107:68, 71-72](/scriptures/dc-
+testament/dc/107.68,71-72?lang=eng#67)).
 
 As the Church grew and the Saints gained experience, the Lord distinguished
 between the responsibilities of the Presiding Bishop and local, or ward,
@@ -70,10 +62,9 @@ one is, none is more important than care for the poor.
 There is only one common judge in each ward, only one man authorized to
 perceive the needs of the people, only one priesthood holder acting as the
 Lord's representative to succor the feeble knees and hands that hang down (see
-[D&amp;C 81:5](https://www.lds.org/scriptures/dc-
-testament/dc/81.5?lang=eng#4)). Perhaps the most pointed and clear summary of
-the bishop's assignment to care for the poor was given by President J. Reuben
-Clark when he said:
+[D&amp;C 81:5](/scriptures/dc-testament/dc/81.5?lang=eng#4)). Perhaps the most
+pointed and clear summary of the bishop's assignment to care for the poor was
+given by President J. Reuben Clark when he said:
 
 "To the bishop is given all the powers, and responsibilities which the Lord
 has specifically prescribed in the Doctrine and Covenants for the caring of
@@ -98,8 +89,7 @@ This statement is based on the word of the Lord as recorded in the Doctrine
 and Covenants, as witness the following quotations.
 
 From section 42: "The bishop ... shall ... administer to those who have not"
-([D&amp;C 42:33](https://www.lds.org/scriptures/dc-
-testament/dc/42.33?lang=eng#32)).
+([D&amp;C 42:33](/scriptures/dc-testament/dc/42.33?lang=eng#32)).
 
 From section 72: "The word of the Lord, in addition to the law which has been
 given, making known the duty of the bishop who has been ordained unto the
@@ -109,18 +99,17 @@ church in this part of the vineyard, which is verily this--
 part of the vineyard;
 
 "To take an account of the elders as before has been commanded; and to
-administer to their wants" ([D&amp;C 72:9-11](https://www.lds.org/scriptures
-/dc-testament/dc/72.9-11?lang=eng#8)).
+administer to their wants" ([D&amp;C 72:9-11](/scriptures/dc-
+testament/dc/72.9-11?lang=eng#8)).
 
 From section 84: "The bishop ... should travel round about and among all the
 churches, searching after the poor to administer to their wants and by
-humbling the rich and the proud" ([D&amp;C
-84:112](https://www.lds.org/scriptures/dc-testament/dc/84.112?lang=eng#111)).
+humbling the rich and the proud" ([D&amp;C 84:112](/scriptures/dc-
+testament/dc/84.112?lang=eng#111)).
 
 And finally, from section 107: "The office of a bishop is in administering all
 temporal things; ... having a knowledge of them by the Spirit of truth"
-([D&amp;C 107:68, 71](https://www.lds.org/scriptures/dc-
-testament/dc/107.68%2C71?lang=eng#67)).
+([D&amp;C 107:68, 71](/scriptures/dc-testament/dc/107.68,71?lang=eng#67)).
 
 I hope that each of you bishops and you stake presidents, who train bishops,
 will study and become knowledgeable about the word of the Lord regarding the
@@ -185,11 +174,10 @@ self-respect, while sharing in the process of generating the resources they
 and others will use. Bishops must be ever watchful on this point of work by
 recipients for what they receive. We must never let the Lord's program of
 self-help become a dole, for "the idler shall not have place in the church,
-except he repent and mend his ways" ([D&amp;C
-75:29](https://www.lds.org/scriptures/dc-testament/dc/75.29?lang=eng#28)). If
-an individual refuses to do his part by working according to his ability, then
-the bishop has the prerogative of withholding assistance until a reformation
-of attitude is achieved.
+except he repent and mend his ways" ([D&amp;C 75:29](/scriptures/dc-
+testament/dc/75.29?lang=eng#28)). If an individual refuses to do his part by
+working according to his ability, then the bishop has the prerogative of
+withholding assistance until a reformation of attitude is achieved.
 
 Having resolved the immediate problem, the bishop, in conjunction with the
 ward welfare services committee, discharges his final obligation by fostering
@@ -283,10 +271,11 @@ property of the whole church--
 eye single to the glory of God.
 
 "This order I have appointed to be an everlasting order unto you, and unto
-your successors, inasmuch as you sin not" ([D&amp;C
-82:14-20](https://www.lds.org/scriptures/dc-
+your successors, inasmuch as you sin not" ([D&amp;C 82:14-20](/scriptures/dc-
 testament/dc/82.14-20?lang=eng#13)).
 
 That we may move forward to this consummation, I humbly pray in the name of
 Jesus Christ, amen.
+
+## References
 

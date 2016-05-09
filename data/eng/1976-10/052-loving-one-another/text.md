@@ -88,11 +88,11 @@ never going to have to do that." And we saw his boys grow up and you couldn't
 get them to do anything. They left off their Church activity and nothing
 seemed very important to them.
 
-"Thou shalt not be idle," the Lord said. ([D&amp;C
-42:42](https://www.lds.org/scriptures/dc-testament/dc/42.42?lang=eng#41).)
-Idleness is of the devil, and we are not kind to our children when we become
-affluent and take from them their labors, their opportunities to serve and to
-be trained and to do things for themselves and for others.
+"Thou shalt not be idle," the Lord said. ([D&amp;C 42:42](/scriptures/dc-
+testament/dc/42.42?lang=eng#41).) Idleness is of the devil, and we are not
+kind to our children when we become affluent and take from them their labors,
+their opportunities to serve and to be trained and to do things for themselves
+and for others.
 
 This has been a wonderful meeting. We're deeply grateful for the splendid
 service as directed by Bishop Victor L. Brown and his counselors, Sister
@@ -101,4 +101,6 @@ service. And we're grateful for your service as bishoprics and stake
 presidencies as you give leadership to this marvelous program. We pray that
 the Lord will bless us as we go forward and follow the program as it is
 outlined for us. We say this in the name of Jesus Christ. Amen.
+
+## References
 

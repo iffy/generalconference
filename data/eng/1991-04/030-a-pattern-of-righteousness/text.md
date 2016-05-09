@@ -22,10 +22,9 @@ scriptures. They describe the building of a tabernacle, an ark, an altar, and
 temples. The materials are important; the purpose is grand. Then comes that
 most important pattern of righteousness set by Jesus Christ, "a pattern to
 them which should hereafter believe on him to life everlasting." ([1 Tim.
-1:16](https://www.lds.org/scriptures/nt/1-tim/1.16?lang=eng#15).) In every
-imaginable setting from ancient times to modern days, we see this pattern
-repeated--faith in the Lord Jesus Christ, repentance, baptism, the gift of the
-Holy Ghost.
+1:16](/scriptures/nt/1-tim/1.16?lang=eng#15).) In every imaginable setting
+from ancient times to modern days, we see this pattern repeated--faith in the
+Lord Jesus Christ, repentance, baptism, the gift of the Holy Ghost.
 
 Patterns are meant to be repeated. A pattern of righteousness is worthy of
 duplication, yet there are those who suppose that our righteousness involves
@@ -34,19 +33,18 @@ by trying to get above or ahead of others. I believe this is pride. In Alma we
 are told, "The preacher was no better than the hearer, neither was the teacher
 any better than the learner; and thus they were all equal, and they did all
 labor, every man according to his strength." ([Alma
-1:26](https://www.lds.org/scriptures/bofm/alma/1.26?lang=eng#25).)
-Righteousness is reproduced horizontally, not vertically. When we establish a
-pattern of righteousness in our lives, we commit to our Heavenly Father to do
-all in our power to help others reproduce this pattern in their lives. This
-can happen over and over until, as it says in Isaiah, "the inhabitants of the
-world will learn righteousness." ([Isa.
-26:9](https://www.lds.org/scriptures/ot/isa/26.9?lang=eng#8).)
+1:26](/scriptures/bofm/alma/1.26?lang=eng#25).) Righteousness is reproduced
+horizontally, not vertically. When we establish a pattern of righteousness in
+our lives, we commit to our Heavenly Father to do all in our power to help
+others reproduce this pattern in their lives. This can happen over and over
+until, as it says in Isaiah, "the inhabitants of the world will learn
+righteousness." ([Isa. 26:9](/scriptures/ot/isa/26.9?lang=eng#8).)
 
 Heavenly Father tells us in the Doctrine and Covenants, "I will give unto you
 a pattern in all things, that ye may not be deceived." ([D&amp;C
-52:14](https://www.lds.org/scriptures/dc-testament/dc/52.14?lang=eng#13).) To
-avoid deception, we should watch for patterns of righteousness in our lives. I
-would like to mention three--prayer, scripture study, and service to others.
+52:14](/scriptures/dc-testament/dc/52.14?lang=eng#13).) To avoid deception, we
+should watch for patterns of righteousness in our lives. I would like to
+mention three--prayer, scripture study, and service to others.
 
 When we have learned the importance of prayer, the habit of daily prayer can
 be reproduced in the lives of others by teaching and good example. My youngest
@@ -68,14 +66,14 @@ others as my roommates did for me.
 Scripture study helps us increase our understanding of the pattern of
 righteousness. As we live the words of God, we are told, "He will give unto
 the faithful line upon line, precept upon precept." ([D&amp;C
-98:12](https://www.lds.org/scriptures/dc-testament/dc/98.12?lang=eng#11).) I
-am encouraged by the examples of scripture reading I see. I have a daughter
-who likes to warm her feet before going to bed. I love to see her sitting on
-the bathroom counter with her feet in a sink of warm water as she reads her
-scriptures. My two grandsons, ages two and four, report with satisfaction the
-stickers they receive on their progress charts as they say their prayers and
-hear scripture stories each day. These fundamental patterns will always need
-to be taught to our children if righteousness is to continue.
+98:12](/scriptures/dc-testament/dc/98.12?lang=eng#11).) I am encouraged by the
+examples of scripture reading I see. I have a daughter who likes to warm her
+feet before going to bed. I love to see her sitting on the bathroom counter
+with her feet in a sink of warm water as she reads her scriptures. My two
+grandsons, ages two and four, report with satisfaction the stickers they
+receive on their progress charts as they say their prayers and hear scripture
+stories each day. These fundamental patterns will always need to be taught to
+our children if righteousness is to continue.
 
 Giving loving service is another beautiful pattern of righteousness often
 learned in our homes. The scriptures teach of the importance of service, and
@@ -124,15 +122,14 @@ others, to be popular, and often, prosperity. A pattern of personal
 righteousness which includes prayer, scripture study, and service is the
 answer to avoiding the dangers spoken of in the Book of Mormon. Nephi knew
 this when he asked the Lord, "O Lord, wilt thou encircle me around in the robe
-of thy righteousness!" ([2 Ne.
-4:33](https://www.lds.org/scriptures/bofm/2-ne/4.33?lang=eng#32).)
+of thy righteousness!" ([2 Ne. 4:33](/scriptures/bofm/2-ne/4.33?lang=eng#32).)
 
 When I looked for a definition of _pattern,_ I found it had a Latin origin
 derived from _pater_ or _father,_ one who served as a model or pattern to be
 emulated. Our Savior Jesus Christ set the pattern and asked us to follow him.
 Nephi asks, "Can we follow Jesus save we shall be willing to keep the
 commandments of the Father?" ([2 Ne.
-31:10](https://www.lds.org/scriptures/bofm/2-ne/31.10?lang=eng#9).)
+31:10](/scriptures/bofm/2-ne/31.10?lang=eng#9).)
 
 I am grateful to men and women and people of all ages whose lives help us see
 this pattern of righteousness. I am thankful for a living prophet. A few days
@@ -145,4 +142,6 @@ bear testimony that Ezra Taft Benson is a prophet of God and that Jesus Christ
 is our Savior. He has given us a pattern of righteousness that, when followed,
 will lead us back to our Heavenly Father. I bear this witness in the name of
 Jesus Christ, amen.
+
+## References
 

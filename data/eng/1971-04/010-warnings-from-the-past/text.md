@@ -84,8 +84,7 @@ In so reserving this land for his divine purpose, he decreed "that whoso
 should possess this land of promise, from that time henceforth _and forever,
 _should serve him, the true and only God, or they should be swept off when the
 fulness of his wrath should come upon them." ([Ether
-2:8](https://www.lds.org/scriptures/bofm/ether/2.8?lang=eng#7). Italics
-added.)
+2:8](/scriptures/bofm/ether/2.8?lang=eng#7). Italics added.)
 
 In plain, blunt words, then, we are told that whatever nations occupy this
 land must serve God or die!
@@ -168,7 +167,7 @@ scroll?
 
 "Therefore, repent ye, and humble yourselves before him, lest he shall come
 out in justice against you. ..." ([Morm.
-5:22-24](https://www.lds.org/scriptures/bofm/morm/5.22-24?lang=eng#21).)
+5:22-24](/scriptures/bofm/morm/5.22-24?lang=eng#21).)
 
 Another ancient American prophet, long since dead and now speaking to us out
 of the dust, said:
@@ -182,7 +181,7 @@ the children of the land, that they are swept off.
 --that ye may repent, and not continue in your iniquities until the fulness
 come, that ye may not bring down the fulness of the wrath of God upon you as
 the inhabitants of the land have hitherto done." ([Ether
-2:10-11](https://www.lds.org/scriptures/bofm/ether/2.10-11?lang=eng#9).)
+2:10-11](/scriptures/bofm/ether/2.10-11?lang=eng#9).)
 
 An ancient prophet named Mormon, who lived here in America fifteen hundred
 years ago, said: "Behold, I speak unto you as if ye were present, and yet ye
@@ -193,7 +192,7 @@ doing.
 save a few only who do not lift themselves up in the pride of their hearts,
 unto the wearing of very fine apparel, unto envying, and strifes, and malice,
 and persecutions, and all manner of iniquities. ..." ([Morm.
-8:35-36](https://www.lds.org/scriptures/bofm/morm/8.35-36?lang=eng#34).)
+8:35-36](/scriptures/bofm/morm/8.35-36?lang=eng#34).)
 
 There are many people on this Western Hemisphere who have in their veins the
 blood of some of the tribes of Israel. To them this prophet said: "Know ye
@@ -203,8 +202,7 @@ that ye are of the house of Israel.
 
 "Know ye that ye must come to the knowledge of your fathers, and repent of all
 your sins and iniquities, and believe in Jesus Christ, that he is the Son of
-God. ..." ([Morm. 7:2-3,
-5](https://www.lds.org/scriptures/bofm/morm/7.2-3%2C5?lang=eng#1).)
+God. ..." ([Morm. 7:2-3, 5](/scriptures/bofm/morm/7.2-3,5?lang=eng#1).)
 
 And then we have this, also pertaining to us who live today, and coming from
 another ancient American prophet who speaks out of the dust to us today: "...
@@ -215,8 +213,7 @@ human family of Adam; and ye must stand to be judged of your works, whether
 they be good or evil;
 
 "And also that ye may believe the gospel of Jesus Christ, which ye shall have
-among you. ..." ([Morm.
-3:20-21](https://www.lds.org/scriptures/bofm/morm/3.20-21?lang=eng#19).)
+among you. ..." ([Morm. 3:20-21](/scriptures/bofm/morm/3.20-21?lang=eng#19).)
 
 And finally, one of the greatest of all the prophets who lived in ancient
 America spoke this to you and to me who live today:
@@ -231,15 +228,14 @@ of the dust?
 
 "And again I would exhort you that ye would come unto Christ, and lay hold
 upon every good gift, and touch not the evil gift, nor the unclean thing."
-([Moro. 10:27,
-29-30](https://www.lds.org/scriptures/bofm/moro/10.27%2C29-30?lang=eng#26).)
+([Moro. 10:27, 29-30](/scriptures/bofm/moro/10.27,29-30?lang=eng#26).)
 
 If the modern nations of the Americas will repent and serve the Lord, great
 blessings will be theirs, for the prophet has said: "... this is a choice land,
 and whatsoever nation shall possess it shall be free from bondage, and from
 captivity, and from all other nations under heaven, if they will but serve the
 God of the land, who is Jesus Christ. ..." ([Ether
-2:12](https://www.lds.org/scriptures/bofm/ether/2.12?lang=eng#11).)
+2:12](/scriptures/bofm/ether/2.12?lang=eng#11).)
 
 How long will the Almighty be patient as we ignore or defy him?
 
@@ -256,4 +252,6 @@ his gospel, which can save us from destruction.
 
 God grant that we may awaken to our plight and change our course while there
 is yet time, is my humble prayer, in the name of Jesus Christ. Amen.
+
+## References
 

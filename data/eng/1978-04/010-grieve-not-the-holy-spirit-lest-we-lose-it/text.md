@@ -29,7 +29,7 @@ in him, relying wholly upon the merits of him who is mighty to save.
 perfect brightness of hope, and a love of God and of all men. Wherefore, if ye
 shall press forward, feasting upon the word of Christ, and endure to the end,
 behold, thus saith the Father: Ye shall have eternal life." ([2 Ne. 31:15,
-19-20](https://www.lds.org/scriptures/bofm/2-ne/31.15%2C19-20?lang=eng#14).)
+19-20](/scriptures/bofm/2-ne/31.15,19-20?lang=eng#14).)
 
 How very important it is to have the light of the Holy Ghost to give us
 direction. The Holy Ghost functioning through the priesthood can greatly
@@ -40,7 +40,7 @@ enlighteneth your eyes, which is the same light that quickeneth your
 understandings;
 
 "Which light proceedeth forth from the presence of God to fill the immensity
-of space." ([D&amp;C 88:11-12](https://www.lds.org/scriptures/dc-
+of space." ([D&amp;C 88:11-12](/scriptures/dc-
 testament/dc/88.11-12?lang=eng#10).)
 
 The Lord said to Frederick G. Williams:
@@ -51,8 +51,7 @@ knees.
 
 "And if thou art faithful unto the end thou shalt have a crown of immortality,
 and eternal life in the mansions which I have prepared in the house of my
-Father." ([D&amp;C 81:5-6](https://www.lds.org/scriptures/dc-
-testament/dc/81.5-6?lang=eng#4).)
+Father." ([D&amp;C 81:5-6](/scriptures/dc-testament/dc/81.5-6?lang=eng#4).)
 
 God gives to each of his children his Spirit to help them keep the
 commandments and fulfill the purpose of life. But as it is written:
@@ -68,7 +67,7 @@ God; that we might know the things that are freely given to us of God.
 
 "Which things also we speak, not in the words which man's wisdom teacheth, but
 which the Holy Ghost teacheth." ([1 Cor. 2:9-10,
-12-13](https://www.lds.org/scriptures/nt/1-cor/2.9-10%2C12-13?lang=eng#8).)
+12-13](/scriptures/nt/1-cor/2.9-10,12-13?lang=eng#8).)
 
 From President Lorenzo Snow we learn the benefits of seeking the Spirit:
 
@@ -102,7 +101,7 @@ put away from you, with all malice:
 
 "And be ye kind one to another, tenderhearted, forgiving one another, even as
 God for Christ's sake hath forgiven you." ([Eph.
-4:30-32](https://www.lds.org/scriptures/nt/eph/4.30-32?lang=eng#29).)
+4:30-32](/scriptures/nt/eph/4.30-32?lang=eng#29).)
 
 President Harold B. Lee has said:
 
@@ -128,8 +127,8 @@ you shall receive.
 "Yea, behold, I will tell you in your mind and in your heart, by the Holy
 Ghost, which shall come upon you and which shall dwell in your heart.
 
-"Now, behold, this is the spirit of revelation." ([D&amp;C
-8:1-3](https://www.lds.org/scriptures/dc-testament/dc/8.1-3?lang=eng#0).)
+"Now, behold, this is the spirit of revelation." ([D&amp;C 8:1-3](/scriptures
+/dc-testament/dc/8.1-3?lang=eng#0).)
 
 This is the way direction comes to the President of the Church.
 
@@ -165,4 +164,6 @@ _In all we do, in all we say._
 May I leave with you my witness, my brothers and sisters, of the truth of this
 great work, which I have received in this same manner, through the Holy Ghost
 as it has witnessed unto me. In the name of Jesus Christ, amen.
+
+## References
 

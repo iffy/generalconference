@@ -31,8 +31,8 @@ disciples, whom I have chosen in these last days.
 commanded them.
 
 "Wherefore, fear and tremble, O ye people, for what I the Lord have decreed in
-them shall be fulfilled." ([D&amp;C 1:4-5, 7](https://www.lds.org/scriptures
-/dc-testament/dc/1.4-5%2C7?lang=eng#3).)
+them shall be fulfilled." ([D&amp;C 1:4-5, 7](/scriptures/dc-
+testament/dc/1.4-5,7?lang=eng#3).)
 
 Presently there are about thirty thousand missionaries serving in 188
 missions. They are proclaiming the restored gospel in 82 nations, territories,
@@ -150,8 +150,7 @@ obeys not my commandments?
 
 "Then they say in their hearts: This is not the work of the Lord, for his
 promises are not fulfilled. But wo unto such, for their reward lurketh
-beneath, and not from above." ([D&amp;C
-58:29-33](https://www.lds.org/scriptures/dc-
+beneath, and not from above." ([D&amp;C 58:29-33](/scriptures/dc-
 testament/dc/58.29-33?lang=eng#28).)
 
 Do you really believe that earthly fame and title, tied to earthly positions
@@ -159,8 +158,7 @@ and occupations, can compare with God's promises to the faithful? He has
 promised "thrones, kingdoms, principalities, and powers." He has promised
 "exaltation and glory in all things." He has promised "a fulness and a
 continuation of the seeds forever and ever." He has promised eternal life.
-([D&amp;C 132:19](https://www.lds.org/scriptures/dc-
-testament/dc/132.19?lang=eng#18).)
+([D&amp;C 132:19](/scriptures/dc-testament/dc/132.19?lang=eng#18).)
 
 I would say to you that you are left without excuse and without justification
 and that you have placed your eternal salvation in grave danger.
@@ -219,7 +217,7 @@ Christ in a world in darkness.
 
 There is much to do. You are the royal generation that has been "hid from the
 world with Christ" to come forth in this day to do the work. (See [D&amp;C
-86:9](https://www.lds.org/scriptures/dc-testament/dc/86.9?lang=eng#8).)
+86:9](/scriptures/dc-testament/dc/86.9?lang=eng#8).)
 
 You must prepare. You must now make yourselves worthy and available. If you do
 not, the work will go on without you. It will go on at a slower pace, but it
@@ -241,8 +239,10 @@ To sanctify yourself you must serve others. The highest of all service to
 others is to teach them truth and bring them into the kingdom of God.
 
 Thus the decree: Send forth the elders and preach my gospel to every kindred,
-tongue, and people. (See [D&amp;C 133:8](https://www.lds.org/scriptures/dc-
+tongue, and people. (See [D&amp;C 133:8](/scriptures/dc-
 testament/dc/133.8?lang=eng#7).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

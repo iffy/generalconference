@@ -7,11 +7,11 @@ receive spiritual guidance, a great need to find the right path and do the
 right thing. In the scriptural preface to this latter-day dispensation, the
 Lord promised that if we would be humble in such times of need and turn to him
 for aid, we would "be made strong, and [be] blessed from on high, and receive
-knowledge from time to time." ([D&amp;C 1:28](https://www.lds.org/scriptures
-/dc-testament/dc/1.28?lang=eng#27).) That help is ours if we will but seek it,
+knowledge from time to time." ([D&amp;C 1:28](/scriptures/dc-
+testament/dc/1.28?lang=eng#27).) That help is ours if we will but seek it,
 trust in it, and follow what King Benjamin, in the Book of Mormon, called "the
 enticings of the Holy Spirit." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 Perhaps no promise in life is more reassuring than that promise of divine
 assistance and spiritual guidance in times of need. It is a gift freely given
@@ -30,7 +30,7 @@ subject of religion" during young Joseph's boyhood years there. Indeed, the
 entire district appeared to him to be affected by it, with "great multitudes,"
 he wrote, uniting themselves to the different religious parties and causing
 "no small stir and division" among the people. ([JS--H
-1:5](https://www.lds.org/scriptures/pgp/js-h/1.5?lang=eng#4).)
+1:5](/scriptures/pgp/js-h/1.5?lang=eng#4).)
 
 For a boy who had barely turned fourteen, his search for the truth was made
 even more difficult and confusing because members of the Smith family differed
@@ -66,7 +66,7 @@ than this did at this time to mine. It seemed to enter with great force into
 every feeling of my heart. I reflected on it again and again, knowing that if
 any person needed wisdom from God, I did; for how to act I did not know, and
 unless I could get more wisdom than I then had, I would never know." ([JS--H
-1:8-12](https://www.lds.org/scriptures/pgp/js-h/1.8-12?lang=eng#7).)
+1:8-12](/scriptures/pgp/js-h/1.8-12?lang=eng#7).)
 
 Of course, what happened next changed the course of human history. Determining
 to "ask of God," young Joseph retired to a grove near his rural home. There,
@@ -87,7 +87,7 @@ emotional conflict that might come when parents differ in their religious
 persuasions? How many of us, at fourteen or fifty, would search within our
 souls and search within holy writ to find answers to what the Apostle Paul
 called "the deep things of God"? ([1 Cor.
-2:10](https://www.lds.org/scriptures/nt/1-cor/2.10?lang=eng#9)).
+2:10](/scriptures/nt/1-cor/2.10?lang=eng#9)).
 
 How remarkable--at least it may seem remarkable to us in our day--that this
 lad would turn profoundly to the scriptures and then to private prayer,
@@ -113,7 +113,7 @@ loves us all. We are, every one of us, his daughters and his sons, and
 whatever life's lessons may have brought us, the promise is still true: "If
 any of you lack wisdom, let him ask of God, that giveth to all men liberally,
 and upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 For my second example, may I refer to one not nearly as young as Joseph Smith.
 Listen to these lines written by Elizabeth Lloyd Howell when she considered
@@ -184,31 +184,32 @@ The record reads:
 came by night, and compassed the city about. ...
 
 "[They] compassed the city both with horses and chariots." ([2 Kgs.
-6:14-15](https://www.lds.org/scriptures/ot/2-kgs/6.14-15?lang=eng#13).)
+6:14-15](/scriptures/ot/2-kgs/6.14-15?lang=eng#13).)
 
 The odds were staggering. It was an old man and a boy against what looked like
 the whole world. Elisha's young companion was fearful and cried, "Alas, my
 master! how shall we do?" And Elisha's reply? "Fear not: for they that be with
 us are more than they that be with them." ([2 Kgs.
-6:15-16](https://www.lds.org/scriptures/ot/2-kgs/6.15-16?lang=eng#14).) But
-there were no others with the old man and his young companion. From what
-source could their help possibly come?
+6:15-16](/scriptures/ot/2-kgs/6.15-16?lang=eng#14).) But there were no others
+with the old man and his young companion. From what source could their help
+possibly come?
 
 Then Elisha turned his eyes heavenward, saying, "Lord, I pray thee, open his
 eyes, that he may see." And, we read, "the Lord opened the eyes of the young
 man; and he saw: and, behold, the mountain was full of horses and chariots of
 fire round about Elisha." ([2 Kgs.
-6:17](https://www.lds.org/scriptures/ot/2-kgs/6.17?lang=eng#16).)
+6:17](/scriptures/ot/2-kgs/6.17?lang=eng#16).)
 
 In the gospel of Jesus Christ, we have help from on high. "Be of good cheer,"
-the Lord says, "for I will lead you along." ([D&amp;C
-78:18](https://www.lds.org/scriptures/dc-testament/dc/78.18?lang=eng#17).) "I
-will impart unto you of my Spirit, which shall enlighten your mind, which
-shall fill your soul with joy." ([D&amp;C
-11:13](https://www.lds.org/scriptures/dc-testament/dc/11.13?lang=eng#12).)
+the Lord says, "for I will lead you along." ([D&amp;C 78:18](/scriptures/dc-
+testament/dc/78.18?lang=eng#17).) "I will impart unto you of my Spirit, which
+shall enlighten your mind, which shall fill your soul with joy." ([D&amp;C
+11:13](/scriptures/dc-testament/dc/11.13?lang=eng#12).)
 
 I testify of the divinity of Jesus Christ. God does live and imparts to us his
 Spirit. In facing life's problems and meeting life's tasks, may we all claim
 that gift from God, our Father, and find spiritual joy, I pray in the name of
 Jesus Christ, amen.
+
+## References
 

@@ -1,4 +1,4 @@
-# The Holy Scriptures: Letters from Home
+# The Holy Scriptures:Letters from Home
 
 How I wish I could sit on the edge of your bed with you young women, look into
 your eyes, and help you understand the greatness of your spirit. We'd talk
@@ -25,7 +25,7 @@ that time in my life.
 understanding.
 
 "In all thy ways acknowledge him, and he shall direct thy paths." ([Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).)
+3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4).)
 
 You might think that I never lack confidence now, but I do sometimes. And when
 I feel that way, I reread that scripture, and I can feel His love and know He
@@ -52,8 +52,7 @@ discouragement. But you have got to begin. So if you haven't already, will you
 start tonight by marking a favorite scripture before you go to bed? If you
 don't have a favorite one, you could mark the one I shared from Proverbs,
 chapter 3, verses 5 and 6, and put today's date beside it as a reminder of our
-visit tonight. [[Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4)]
+visit tonight. [[Prov. 3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4)]
 
 You might start by reading the chapter headnotes to get the feel of the story.
 The headnote to chapter one in Third Nephi in the book of Mormon reads, in
@@ -84,7 +83,7 @@ and not bothering to open it or read it? This is what happens when we don't
 read these precious records. The holy scriptures are like letters from home
 telling us how we can draw near to our Father in Heaven. He tells us to come
 as we are. No one will be denied. He loves everyone. (See [3 Ne. 9:14,
-17-18](https://www.lds.org/scriptures/bofm/3-ne/9.14%2C17-18?lang=eng#13).)
+17-18](/scriptures/bofm/3-ne/9.14,17-18?lang=eng#13).)
 
 I ask you, will you open your scriptures and read them every day? Why? Because
 the glorious promises will then be yours. You can have a sure testimony of our
@@ -105,10 +104,10 @@ been those times when I'm reading the scriptures.
 _Sister Kapp:_ Do you have a favorite scripture, Gail?
 
 _Gail:_ Yes. One that has really helped me is found in the Book of Mormon in
-[Mosiah 4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26). It
-talks about man not having the need to run faster than he has strength, but
-that if he will be diligent, all things will come to him. That scripture helps
-me because I've always been really busy.
+[Mosiah 4:27](/scriptures/bofm/mosiah/4.27?lang=eng#26). It talks about man
+not having the need to run faster than he has strength, but that if he will be
+diligent, all things will come to him. That scripture helps me because I've
+always been really busy.
 
 A specific incident with that scripture happened just a very little while ago.
 I was preparing to compete in a big speech tournament and was facing college
@@ -178,17 +177,16 @@ Let me tell you about this old set that my mom and dad gave me when I was
 seventeen. I had read the Book of Mormon before, but this time it was
 different. I was young, and I wanted to know for myself if the Book of Mormon
 was really true. On this day I had come to the part in Alma, chapter 32,
-[[Alma 32](https://www.lds.org/scriptures/bofm/alma/32.title?lang=eng)] about
-faith. As I finished the chapter, I experienced a feeling which I recognized
-as a witness from the Holy Ghost--I knew the Book of Mormon was true. I wanted
-to stand up and shout. I wanted to tell the whole world what I knew and how I
-felt, but I was alone. So with tears of joy streaming down my face, I wrote on
-the margin all the way around on each side the feelings in my heart at that
-moment. I made a big red star up in the corner and wrote, "May 31st, 7:30 A.M.
-This I know, written as if to me." Then I wrote on the other margin, "I have
-received a confirmation. I know the Book of Mormon is true." On the other side
-I wrote, "One month ago today I began fasting each Tuesday for a more sure
-knowledge. This I know."
+[[Alma 32](/scriptures/bofm/alma/32?lang=eng)] about faith. As I finished the
+chapter, I experienced a feeling which I recognized as a witness from the Holy
+Ghost--I knew the Book of Mormon was true. I wanted to stand up and shout. I
+wanted to tell the whole world what I knew and how I felt, but I was alone. So
+with tears of joy streaming down my face, I wrote on the margin all the way
+around on each side the feelings in my heart at that moment. I made a big red
+star up in the corner and wrote, "May 31st, 7:30 A.M. This I know, written as
+if to me." Then I wrote on the other margin, "I have received a confirmation.
+I know the Book of Mormon is true." On the other side I wrote, "One month ago
+today I began fasting each Tuesday for a more sure knowledge. This I know."
 
 Through prayer and study you can know the scriptures are true. I am so anxious
 for you to know and love the scriptures so they can provide answers during
@@ -205,9 +203,10 @@ of you within the sound of my voice accept the invitation, the challenge, to
 make a commitment to read the scriptures this year regularly? If you will do
 this, I promise you, and bear my witness, that our Father in Heaven will draw
 near to you because you will be drawing near to Him. (See [D&amp;C
-88:63](https://www.lds.org/scriptures/dc-testament/dc/88.63?lang=eng#62).) We
-live and will one day die. And when we do, we will know our Savior, for we
-will have searched the holy scriptures and felt His nearness as He walks with
-us on our journey home. To this I bear my testimony, in the name of Jesus
-Christ, amen.
+88:63](/scriptures/dc-testament/dc/88.63?lang=eng#62).) We live and will one
+day die. And when we do, we will know our Savior, for we will have searched
+the holy scriptures and felt His nearness as He walks with us on our journey
+home. To this I bear my testimony, in the name of Jesus Christ, amen.
+
+## References
 

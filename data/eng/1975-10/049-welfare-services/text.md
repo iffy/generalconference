@@ -26,9 +26,9 @@ these three programs, the first organized was the old welfare program, now
 termed the Production-Distribution program. This program concerns the
 implementation of the Lord's declaration, "In the sweat of thy face shalt thou
 eat bread, till thou return unto the ground" ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18)); and also the
-second great commandment, "Thou shalt love thy neighbour as thyself" ([Mark
-12:31](https://www.lds.org/scriptures/nt/mark/12.31?lang=eng#30)).
+3:19](/scriptures/ot/gen/3.19?lang=eng#18)); and also the second great
+commandment, "Thou shalt love thy neighbour as thyself" ([Mark
+12:31](/scriptures/nt/mark/12.31?lang=eng#30)).
 
 You know, of course, how these commandments were implemented anciently. In the
 days of Enoch as we've already heard, the record says that "the Lord came and
@@ -39,7 +39,7 @@ Lord, which was upon his people. ...
 
 "And the Lord called his people ZION, because they were of one heart and one
 mind, and dwelt in righteousness; and there was no poor among them." ([Moses
-7:16-18](https://www.lds.org/scriptures/pgp/moses/7.16-18?lang=eng#15).)
+7:16-18](/scriptures/pgp/moses/7.16-18?lang=eng#15).)
 
 Of the Nephites who survived the cataclysm which occurred in America at the
 time of the crucifixion Jesus, it is written that "the thirty and fourth year
@@ -48,23 +48,20 @@ had formed a church of Christ in all the lands round about. ...
 
 "And they had all things common among them; therefore there were not rich and
 poor, bond and free, but they were all made free, and partakers of the
-heavenly gift." ([4 Ne. 1:1,
-3](https://www.lds.org/scriptures/bofm/4-ne/1.1%2C3?lang=eng#0).)
+heavenly gift." ([4 Ne. 1:1, 3](/scriptures/bofm/4-ne/1.1,3?lang=eng#0).)
 
 In this last dispensation, before the Church had been organized nine months
 the Lord directed the Saints to take care of the poor. At the same time he
 told them that if they did not do so, they were not his disciples. (See
-[D&amp;C 38](https://www.lds.org/scriptures/dc-
-testament/dc/38.title?lang=eng).)
+[D&amp;C 38](/scriptures/dc-testament/dc/38?lang=eng).)
 
 Five weeks later, on February 9, 1831, he revealed the united order. (See
-[D&amp;C 42](https://www.lds.org/scriptures/dc-
-testament/dc/42.title?lang=eng).)
+[D&amp;C 42](/scriptures/dc-testament/dc/42?lang=eng).)
 
 Within a month thereafter, he spoke again on the subject, saying to the
 brethren that, pending the establishment of the order, they must "visit the
 poor and the needy and administer to their relief." ([D&amp;C
-44:6](https://www.lds.org/scriptures/dc-testament/dc/44.6?lang=eng#5).)
+44:6](/scriptures/dc-testament/dc/44.6?lang=eng#5).)
 
 During the next three years and four months, the Saints had settled
 Independence, Missouri, made an attempt to live the united order, failed to do
@@ -93,8 +90,8 @@ celestial kingdom; otherwise I cannot receive her unto myself." And then this
 statement:
 
 "And my people must needs be chastened until they learn obedience, if it must
-needs be, by the things which they suffer." ([D&amp;C
-105:1-6](https://www.lds.org/scriptures/dc-testament/dc/105.1-6?lang=eng#0).)
+needs be, by the things which they suffer." ([D&amp;C 105:1-6](/scriptures/dc-
+testament/dc/105.1-6?lang=eng#0).)
 
 The requirement to live the united order at that time was then withdrawn. The
 lesser law of tithing was revealed, which, with the law of the fast, has
@@ -197,8 +194,7 @@ torment.'
 have obtained a hope in Christ ye shall obtain riches, if ye seek them; and ye
 will seek them for the intent to do good--to clothe the naked, and to feed the
 hungry, and to liberate the captive, and administer relief to the sick and the
-afflicted.' ... [[Jacob
-2:18-19](https://www.lds.org/scriptures/bofm/jacob/2.18-19?lang=eng#17)]
+afflicted.' ... [[Jacob 2:18-19](/scriptures/bofm/jacob/2.18-19?lang=eng#17)]
 
 "We invoke the blessings of the Lord upon each and every one of you. We pray
 the Lord continually to inspire his people to the end that we shall once more
@@ -336,8 +332,7 @@ commandments which are given you;
 
 "That through my providence, notwithstanding the tribulation which shall
 descend upon you, that the church may stand independent above all other
-creatures beneath the celestial world." ([D&amp;C
-78:13-14](https://www.lds.org/scriptures/dc-
+creatures beneath the celestial world." ([D&amp;C 78:13-14](/scriptures/dc-
 testament/dc/78.13-14?lang=eng#12).)
 
 Let us move rapidly into a position to fill our welfare budget assignments
@@ -382,13 +377,10 @@ missionaries.
 The Welfare Services missionary couples should meet the following
 qualifications:
 
-  1. The brother should have served as a bishop, stake president, or in some other similar Church position in which he has had firsthand experience in administering Welfare Services.
-
-  2. They should not now have dependent children.
-
-  3. They should be financially, physically, and emotionally prepared to serve an eighteen- to twenty-four-month mission in areas such as Latin America, Asia, and the islands of the Pacific.
-
-  4. They must meet all standards of worthiness.
+  1. The brother should have served as a bishop, stake president, or in some other similar Church position in which he has had firsthand experience in administering Welfare Services. 
+  2. They should not now have dependent children. 
+  3. They should be financially, physically, and emotionally prepared to serve an eighteen- to twenty-four-month mission in areas such as Latin America, Asia, and the islands of the Pacific. 
+  4. They must meet all standards of worthiness. 
 
 Especially needed are those with language skills or the ability to quickly
 learn a language. They should be capable of rendering effective "shadow" or
@@ -402,4 +394,6 @@ Now, brothers and sisters, I have a witness and a testimony of this great
 work. We love you and appreciate the great work you are doing in it, and the
 greater work you are going to do. May the Lord bless us. In the name of Jesus
 Christ. Amen.
+
+## References
 

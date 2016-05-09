@@ -13,8 +13,7 @@ Perhaps many of us would say, "To gain eternal life."
 That's right, to gain eternal life. But for whom? For ourselves? Yes, that's
 part of it. But Christ taught, "For whosoever will save his life shall lose
 it; but whosoever shall lose his life for my sake and the gospel's, the same
-shall save it." ([Mark
-8:35](https://www.lds.org/scriptures/nt/mark/8.35?lang=eng#34).)
+shall save it." ([Mark 8:35](/scriptures/nt/mark/8.35?lang=eng#34).)
 
 We should focus, not on serving ourselves, but on serving our fellowmen,
 thereby losing ourselves in the service of our Heavenly Father, his work and
@@ -137,8 +136,8 @@ We have a special sacred responsibility. When we are baptized, we take upon
 ourselves the name of Christ. Each week as we partake of the sacrament, we
 renew this covenant with our Heavenly Father, to take upon ourselves the name
 of his Son, to always remember him and keep his commandments, that we might
-always have his Spirit to be with us. (See [D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76).)
+always have his Spirit to be with us. (See [D&amp;C 20:77](/scriptures/dc-
+testament/dc/20.77?lang=eng#76).)
 
 Through baptism we become members of Christ's family. We bear his name. We
 represent him here on earth as holders of his priesthood and as members of his
@@ -157,7 +156,7 @@ candlestick; and it giveth light unto all that are in the house.
 
 "Let your light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven." ([Matt.
-5:14-16](https://www.lds.org/scriptures/nt/matt/5.14-16?lang=eng#13).)
+5:14-16](/scriptures/nt/matt/5.14-16?lang=eng#13).)
 
 As we build our character, our light will shine brighter, and our outward
 reputation will become but a reflection of our inward self; then will our
@@ -175,4 +174,6 @@ commandments of God.
 
 May we all do this, I humbly pray, in the name of our Lord and Savior, Jesus
 Christ. Amen.
+
+## References
 

@@ -199,8 +199,8 @@ Now we have a great cause, we have the greatest cause ever known in the world.
 And the only question that remains unanswered is, "How will we fight?" And our
 own leader has said to us, "O ye that embark in the service of God, see that
 ye serve him with all your heart, might, mind and strength, that ye may stand
-blameless before God at the last day." ([D&amp;C
-4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1).)
+blameless before God at the last day." ([D&amp;C 4:2](/scriptures/dc-
+testament/dc/4.2?lang=eng#1).)
 
 Now as a special bonus, I would like to give you a thirty second witness of
 one of the greatest success experiences ever to take place upon this earth
@@ -214,10 +214,11 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 And may the Lord bless us with a sufficient amount of his success that we
 might be lifted up to him in celestial glory. For this I sincerely pray in the
 name of Jesus Christ. Amen.
+
+## References
 

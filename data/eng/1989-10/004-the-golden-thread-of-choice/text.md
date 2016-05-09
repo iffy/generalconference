@@ -54,12 +54,12 @@ into the eternities ahead.
 God said to Jeremiah, "Before I formed thee in the belly I knew thee; and
 before thou camest forth out of the womb I sanctified thee, and I ordained
 thee a prophet unto the nations." ([Jer.
-1:5](https://www.lds.org/scriptures/ot/jer/1.5?lang=eng#4).) At another time
-God reminded Job that "all the sons of God shouted for joy" ([Job
-38:7](https://www.lds.org/scriptures/ot/job/38.7?lang=eng#6)) before there was
-yet any man or woman on the earth God was creating. The Apostle Paul taught
-that God the Father chose us "before the foundation of the world." ([Eph.
-1:4](https://www.lds.org/scriptures/nt/eph/1.4?lang=eng#3).)
+1:5](/scriptures/ot/jer/1.5?lang=eng#4).) At another time God reminded Job
+that "all the sons of God shouted for joy" ([Job
+38:7](/scriptures/ot/job/38.7?lang=eng#6)) before there was yet any man or
+woman on the earth God was creating. The Apostle Paul taught that God the
+Father chose us "before the foundation of the world." ([Eph.
+1:4](/scriptures/nt/eph/1.4?lang=eng#3).)
 
 Where and when did all of this happen? Well, it happened long before man's
 mortal birth. It happened in a great premortal existence where we developed
@@ -75,10 +75,10 @@ us our independence and agency in that now-forgotten moment long ago, even as
 he wishes to deny them this very hour. Indeed, Satan violently opposed the
 freedom of choice offered by the Father, so violently that John in the
 Revelation described "war in heaven" ([Rev.
-12:7](https://www.lds.org/scriptures/nt/rev/12.7?lang=eng#6)) over the matter.
-Satan would have coerced us, and he would have robbed us of that most precious
-of gifts if he could: our freedom to choose a divine future and the exaltation
-we all hope to obtain.
+12:7](/scriptures/nt/rev/12.7?lang=eng#6)) over the matter. Satan would have
+coerced us, and he would have robbed us of that most precious of gifts if he
+could: our freedom to choose a divine future and the exaltation we all hope to
+obtain.
 
 Through Christ and his valiant defense of our Father's plan, the course of
 agency and eternal aspirations prevailed. In that crucial, premortal setting,
@@ -101,7 +101,7 @@ forever, knowing good from evil; to act for themselves and not be acted upon.
 [Christ] the great Mediator of all men, or to choose captivity and death,
 according to the captivity and power of the devil; for he seeketh that all men
 might be miserable like unto himself." ([2 Ne.
-2:26-27](https://www.lds.org/scriptures/bofm/2-ne/2.26-27?lang=eng#25).)
+2:26-27](/scriptures/bofm/2-ne/2.26-27?lang=eng#25).)
 
 To fully understand this gift of agency and its inestimable worth, it is
 imperative that we understand that God's chief way of acting is by persuasion
@@ -126,7 +126,7 @@ the true voice, and feel the influence of his undeniable Spirit. His gentle,
 peaceful, powerful persuasion to do right and find joy will be with us "so
 long as time shall last, or the earth shall stand, or there shall be one man
 upon the face thereof to be saved." ([Moro.
-7:36](https://www.lds.org/scriptures/bofm/moro/7.36?lang=eng#35).)
+7:36](/scriptures/bofm/moro/7.36?lang=eng#35).)
 
 Given the freedom to choose, we may, in fact, make wrong choices, bad choices,
 hurtful choices. And sometimes we do just that, but that is where the mission
@@ -150,8 +150,7 @@ future that was about to be theirs, the Lord said to them:
 you this day:
 
 "And a curse, if ye will not obey the commandments of the Lord your God."
-([Deut.
-11:26-28](https://www.lds.org/scriptures/ot/deut/11.26-28?lang=eng#25).)
+([Deut. 11:26-28](/scriptures/ot/deut/11.26-28?lang=eng#25).)
 
 That is the choice the Lord puts before us as we face our own promised lands
 and our own bright futures. We are given the knowledge, the help, the
@@ -163,4 +162,6 @@ Let us be conscious of the fact that our future is being fashioned by the
 decisions we make. May we exercise our faith and our agency in choosing the
 blessings God has set before us in the great gospel plan of our Savior I pray
 in the name of Jesus Christ, amen.
+
+## References
 

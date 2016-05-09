@@ -132,14 +132,14 @@ portray. Use language to build and uplift those around you. Profane, vulgar,
 or crude language and inappropriate or off-color jokes are offensive to the
 Lord. Never misuse the name of God or Jesus Christ. The Lord said, "Thou shalt
 not take the name of the Lord thy God in vain." ([Ex.
-20:7](https://www.lds.org/scriptures/ot/ex/20.7?lang=eng#6).)
+20:7](/scriptures/ot/ex/20.7?lang=eng#6).)
 
 ## 6\. Media: Movies, Television, Radio, Videocassettes, Books and Magazines
 
 Our Heavenly Father has counseled us to seek after "anything virtuous, lovely,
 or of good report or praiseworthy." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).) Whatever
-you read, listen to, or watch makes an impression on you.
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).) Whatever you read, listen to,
+or watch makes an impression on you.
 
 Pornography is especially dangerous and addictive. Curious exploration of
 pornography can become a controlling habit, leading to coarser material and to
@@ -175,8 +175,7 @@ are suddenly turning the airwaves blue." (Pp. 70-71.)
 
 The Apostle Paul declared, "Know ye not that ye are the temple of God, and
 that the Spirit of God dwelleth in you? ... The temple of God is holy, which
-temple ye are." ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
+temple ye are." ([1 Cor. 3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
 Nutritious meals, regular exercise, and appropriate sleep are necessary for a
 strong body, just as consistent scripture study and prayer strengthen the mind
 and spirit.
@@ -231,14 +230,13 @@ and the mass media convey "very heavy messages that sexual activity is
 acceptable and expected," inducements that sometimes drown out the warnings of
 experts and the pleas of parents. The Lord cuts through all the media messages
 with clear and precise language when He declares to us, "Be ... clean." ([3 Ne.
-20:41](https://www.lds.org/scriptures/bofm/3-ne/20.41?lang=eng#40).)
+20:41](/scriptures/bofm/3-ne/20.41?lang=eng#40).)
 
 Whenever temptation comes, remember the wise counsel of the Apostle Paul, who
 declared: "There hath no temptation taken you but such as is common to man:
 but God is faithful, who will not suffer you to be tempted above that ye are
 able; but will with the temptation also make a way to escape, that ye may be
-able to bear it." ([1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).)
+able to bear it." ([1 Cor. 10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).)
 
 ## 10\. Sunday Behavior
 
@@ -259,7 +257,7 @@ If any has stumbled in his journey, there is a way back. The process is called
 repentance. Our Savior died to provide you and me that blessed gift. Though
 the path is difficult, the promise is real: "Though your sins be as scarlet,
 they shall be as white as snow." ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).)
+1:18](/scriptures/ot/isa/1.18?lang=eng#17).)
 
 Don't put your eternal life at risk. Keep the commandments of God. If you have
 sinned, the sooner you begin to make your way back, the sooner you will find
@@ -336,4 +334,6 @@ heaven-sent, had answered the fervent prayer of a missionary's humble heart.
 
 Brethren, it is my prayer that we may so live that we, too, may touch heaven
 and be similarly blessed. In the name of Jesus Christ, amen.
+
+## References
 

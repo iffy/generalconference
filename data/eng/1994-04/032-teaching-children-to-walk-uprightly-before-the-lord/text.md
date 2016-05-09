@@ -33,7 +33,7 @@ The Lord, through revelation, has taught us in section 68 of the Doctrine and
 Covenants that parents have the responsibility to teach and train their
 children in righteousness. Parents have been instructed to "teach their
 children to pray, and to walk uprightly before the Lord" ([D&amp;C
-68:28](https://www.lds.org/scriptures/dc-testament/dc/68.28?lang=eng#27)).
+68:28](/scriptures/dc-testament/dc/68.28?lang=eng#27)).
 
 What does it mean to walk uprightly before the Lord? The word _upright_ is
 defined as honest, honorable, straightforward. Thus, to walk uprightly, our
@@ -53,9 +53,8 @@ we can ask ourselves three questions:
 One: What do we teach our children? It is essential that we teach them the
 gospel of Jesus Christ. "I am the way, the truth, and the life: no man cometh
 unto the Father, but by me" ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5)). I believe the
-scriptures are the main source to help us teach our children to walk
-uprightly.
+14:6](/scriptures/nt/john/14.6?lang=eng#5)). I believe the scriptures are the
+main source to help us teach our children to walk uprightly.
 
 We need to help our children gain a sense of their relationship with Heavenly
 Father. They can know that each person is a literal child of God, that each is
@@ -131,10 +130,9 @@ you to his ministry, and to his holy work.
 "I am mindful of you always in my prayers, continually praying unto God the
 Father in the name of his Holy Child, Jesus, that he, through ... grace, will
 keep you through the endurance of faith on his name to the end" ([Moro.
-8:2-3](https://www.lds.org/scriptures/bofm/moro/8.2-3?lang=eng#1)). First,
-Mormon reaffirmed his love for Moroni, and then he taught him. When our
-children first know they are loved, they are more likely to listen and be
-taught.
+8:2-3](/scriptures/bofm/moro/8.2-3?lang=eng#1)). First, Mormon reaffirmed his
+love for Moroni, and then he taught him. When our children first know they are
+loved, they are more likely to listen and be taught.
 
 Our children will be more able to survive the challenges that will come to
 them when they know and understand that keeping God's commandments can bring
@@ -147,7 +145,7 @@ Not wanting to go into detail about her concerns, but feeling that she needed
 to acknowledge to her daughter that she was worried, Clara's mother asked,
 "Clara, what would you do if you felt sad and frustrated?"
 
-"Well ... ," responded Clara, and there was a long pause, "you need to take time
+"Well ..., " responded Clara, and there was a long pause, "you need to take time
 out and think. Then you need to pray all the time and read the scriptures,
 especially the Book of Mormon. You need to bless other people. Just think
 about the good things people do for you and the good things in your life, not
@@ -166,4 +164,6 @@ _And help to guide them back to God above._
 
 May God bless us as parents to teach our children to walk uprightly before the
 Lord is my prayer in the name of our Savior, Jesus Christ, amen.
+
+## References
 

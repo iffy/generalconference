@@ -19,14 +19,14 @@ spiritual." (Stephen L Richards, _Where Is Wisdom?_ Deseret Book Co., 1955, p.
 193.)
 
 The Lord has said that in the ordinances of the Melchizedek Priesthood "the
-power of godliness is manifest." ([D&amp;C
-84:20](https://www.lds.org/scriptures/dc-testament/dc/84.20?lang=eng#19).)
-Thus, clothed with the holy priesthood of God and commissioned by the Lord, a
-man takes his place at the head of his family. Through his righteous
-leadership, the power of godliness may be manifest in his home. This sacred
-obligation and stewardship he shares with his wife, his helpmate. In
-partnership with our Heavenly Father, they experience the joy of creation as
-children bless their home and enlarge their family circle.
+power of godliness is manifest." ([D&amp;C 84:20](/scriptures/dc-
+testament/dc/84.20?lang=eng#19).) Thus, clothed with the holy priesthood of
+God and commissioned by the Lord, a man takes his place at the head of his
+family. Through his righteous leadership, the power of godliness may be
+manifest in his home. This sacred obligation and stewardship he shares with
+his wife, his helpmate. In partnership with our Heavenly Father, they
+experience the joy of creation as children bless their home and enlarge their
+family circle.
 
 A wife and mother will be an inspiration to her family and to her husband and
 will honor him in his divine appointment as head of their family.
@@ -71,8 +71,7 @@ in the covenant of an eternal marriage. Oh, how blessed is the influence of a
 righteous father!
 
 The scriptures tell us that "nevertheless neither is the man without the woman
-... in the Lord." ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10).)
+... in the Lord." ([1 Cor. 11:11](/scriptures/nt/1-cor/11.11?lang=eng#10).)
 
 It was said of the great General Robert E. Lee that if he was early trained in
 the way he should go, his mother trained him. If he was "always good" as his
@@ -181,4 +180,6 @@ The Lord has blessed us with families that we might maintain our eternal
 relationship with him. May we recognize the importance of this divine blessing
 and do all in our power to fulfill this sacred responsibility. May the Spirit
 of the Lord be with us in our homes, I pray in the name of Jesus Christ. Amen.
+
+## References
 

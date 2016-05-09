@@ -14,10 +14,10 @@ It was devastating. Many trees throughout our garden, the neighborhood, and
 all of southern England had been uprooted. It was amazing to see the fallen
 trees with their gigantic root systems, still intact, jutting into the air. I
 came to the conclusion that because of the "easiness of the way" ([Alma
-37:46](https://www.lds.org/scriptures/bofm/alma/37.46?lang=eng#45))--rain is
-plentiful in England--the trees had no need to sink their roots deep into the
-earth to get the nourishment they needed. Their roots were not strong enough
-or deep enough to withstand the hurricane-force winds.
+37:46](/scriptures/bofm/alma/37.46?lang=eng#45))--rain is plentiful in England
+--the trees had no need to sink their roots deep into the earth to get the
+nourishment they needed. Their roots were not strong enough or deep enough to
+withstand the hurricane-force winds.
 
 On the other hand, the giant redwood trees that grow in northern California
 also have a very shallow root system. But when they are surrounded by other
@@ -36,8 +36,8 @@ years old and is living with us, thank you, Dad. Thank you for teaching me as
 the scriptures counsel, "only by persuasion, by long-suffering, by gentleness
 and meekness, and by love unfeigned; ... [yes,] reproving betimes with
 sharpness, when moved upon by the Holy Ghost; and then showing forth
-afterwards an increase of love" ([D&amp;C 121:41,
-43](https://www.lds.org/scriptures/dc-testament/dc/121.41%2C43?lang=eng#40)).
+afterwards an increase of love" ([D&amp;C 121:41, 43](/scriptures/dc-
+testament/dc/121.41,43?lang=eng#40)).
 
 The strongest intertwining roots in my life are those of my companion and
 sweetheart, Ed, who is supernally righteous. He has taught and encouraged me,
@@ -121,20 +121,21 @@ parents, teachers, leaders, youth, brothers, sisters. They need you.
 And now I look to the future. How grateful I am for the principle of
 presidency, and for Sister Anne Wirthlin and Sister Susan Warner. "In the
 multitude of counsellors there is safety" ([Prov.
-11:14](https://www.lds.org/scriptures/ot/prov/11.14?lang=eng#13)). We will
-stand together in unity as we support our priesthood leaders and help parents
-teach and strengthen children.
+11:14](/scriptures/ot/prov/11.14?lang=eng#13)). We will stand together in
+unity as we support our priesthood leaders and help parents teach and
+strengthen children.
 
 To the Primary children of the world, I want you to know that there are many
 people you don't even know who love you and care about you, who want you to be
 safe, be happy, and feel peace. I love you and would want you to feel
 "encircled about ... in the arms of his love" ([2 Ne.
-1:15](https://www.lds.org/scriptures/bofm/2-ne/1.15?lang=eng#14)) and my love.
-Listen carefully to every good thing you hear about Heavenly Father and Jesus
-our Savior and then try your very best to follow him by doing what he wants
-you to do.
+1:15](/scriptures/bofm/2-ne/1.15?lang=eng#14)) and my love. Listen carefully
+to every good thing you hear about Heavenly Father and Jesus our Savior and
+then try your very best to follow him by doing what he wants you to do.
 
 All of us can be like the giant redwood trees and support and strengthen each
 other, especially the children, that when storms arise we can actually hold
 each other up. In the name of Jesus Christ, amen.
+
+## References
 

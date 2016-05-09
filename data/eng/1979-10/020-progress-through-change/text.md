@@ -126,7 +126,7 @@ changes in our lives, we must accept our Father in Heaven and His truths. The
 prophet Alma in the Book of Mormon said, "Have ye spiritually been born of
 God? Have ye received his image in your countenances? Have ye experienced this
 mighty change in your hearts?" ([Alma
-5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13)).
+5:14](/scriptures/bofm/alma/5.14?lang=eng#13)).
 
 Let me suggest four important steps in making change a valuable tool in our
 lives:
@@ -213,7 +213,7 @@ we express a wish to never have _that_ assignment, the bishop or stake
 president offers us the blessings of that self-same calling. At those times it
 is good to remember the words of Paul when he, troubled by many ailments,
 said, "I can do all things through Christ which strengtheneth me" ([Philip.
-4:13](https://www.lds.org/scriptures/nt/philip/4.13?lang=eng#12)).
+4:13](/scriptures/nt/philip/4.13?lang=eng#12)).
 
 As a Church with lay leadership, the blessings of change come often. Very few
 of us feel adequate to meet those changes with our _own_ talents. How grateful
@@ -224,4 +224,6 @@ The change from this life to a life with Him who is our Eternal Father is the
 ultimate goal to which meaningful change can bring us. I pray we will all seek
 and accept wholesome, orderly changes for the betterment of our personal
 lives. This I humbly ask in the name of Jesus Christ, amen.
+
+## References
 

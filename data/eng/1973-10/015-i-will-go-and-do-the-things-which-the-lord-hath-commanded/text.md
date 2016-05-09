@@ -18,7 +18,7 @@ city. The scriptures record: "And it came to pass that he departed into the
 wilderness. And he left his house, and the land of his inheritance, and his
 gold, and his silver, and his precious things, and took nothing with him, save
 it were his family, and provisions, and tents. ..." ([1 Ne.
-2:4](https://www.lds.org/scriptures/bofm/1-ne/2.4?lang=eng#3).)
+2:4](/scriptures/bofm/1-ne/2.4?lang=eng#3).)
 
 So they were instructed to leave with just the bare essentials of food,
 clothing, and a tent for shelter. All of the other worldly accumulations were
@@ -35,27 +35,26 @@ the Lord and makes this declaration: "... I will go and do the things which the
 Lord hath commanded, for I know that the Lord giveth no commandments unto the
 children of men, save he shall prepare a way for them that they may accomplish
 the thing which he commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 Their first approach on this dangerous mission was to reason with Laban, the
 keeper of the record. This brought the response from him, "... Behold thou art a
 robber, and I will slay thee ..." ([1 Ne.
-3:13](https://www.lds.org/scriptures/bofm/1-ne/3.13?lang=eng#12)), and they
-were forced to flee for their lives. The second approach was to go to their
-former home and gather up all of the riches they had left behind in an attempt
-to purchase the record. This approach also failed, for Laban recognized that
-he could have both. He took their riches from them and drove them away. After
-much internal strife and contention, Nephi decides to put his complete trust
-in the Lord and under the cover of night, seeks after the record. Laban is
-delivered into his hands in a drunken state and the Lord teaches Nephi a great
-lesson about the value of history. He declared to him that, "... It is better
-that one man should perish than that a nation should dwindle and perish in
-unbelief." ([1 Ne.
-4:13](https://www.lds.org/scriptures/bofm/1-ne/4.13?lang=eng#12).) Frightening
-results occur if a nation does not preserve and safeguard its sacred history.
-Nephi must have then realized that this sacred history would serve as a lamp
-to give light and direction to future generations. Certainly he was a
-lamplighter and willing to carry the torch to establish a new nation.
+3:13](/scriptures/bofm/1-ne/3.13?lang=eng#12)), and they were forced to flee
+for their lives. The second approach was to go to their former home and gather
+up all of the riches they had left behind in an attempt to purchase the
+record. This approach also failed, for Laban recognized that he could have
+both. He took their riches from them and drove them away. After much internal
+strife and contention, Nephi decides to put his complete trust in the Lord and
+under the cover of night, seeks after the record. Laban is delivered into his
+hands in a drunken state and the Lord teaches Nephi a great lesson about the
+value of history. He declared to him that, "... It is better that one man should
+perish than that a nation should dwindle and perish in unbelief." ([1 Ne.
+4:13](/scriptures/bofm/1-ne/4.13?lang=eng#12).) Frightening results occur if a
+nation does not preserve and safeguard its sacred history. Nephi must have
+then realized that this sacred history would serve as a lamp to give light and
+direction to future generations. Certainly he was a lamplighter and willing to
+carry the torch to establish a new nation.
 
 There comes a time when commemorations and anniversaries of historical events
 give us special significance and highlight the great heritage which has been
@@ -158,4 +157,6 @@ celebrate with pride and thanksgiving our 200th anniversary with the
 comforting knowledge that we have made a worthy contribution to safeguard and
 protect those divinely inspired principles upon which this nation was
 established. I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

@@ -165,8 +165,7 @@ If, in your case, the physical tends to dominate, all the more reason to
 bridle it and find the other dimensions. _Bridle_ is the word that wise father
 Alma used in counseling his son Shiblon, and the promise he attached is the
 key to understanding: "Bridle ... your passions, that ye may be filled with
-love." ([Alma
-38:12](https://www.lds.org/scriptures/bofm/alma/38.12?lang=eng#11).) Bridling
+love." ([Alma 38:12](/scriptures/bofm/alma/38.12?lang=eng#11).) Bridling
 increases strength, increases power, increases love. There are absolutely two
 ways you can control a horse. (We learned a little bit about horses last
 night.) One is to kill it; one is to bridle it. Alma never said kill your
@@ -187,4 +186,6 @@ the beauty of the banquet.
 Let us remember that understanding "the why" in learning is what develops
 proper attitudes or changes behavior. God grant us the wisdom to teach wisely
 and with understanding, I pray in the name of Jesus Christ, amen.
+
+## References
 

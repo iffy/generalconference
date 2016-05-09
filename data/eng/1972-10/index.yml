@@ -1,460 +1,385 @@
 items:
-- article_id: '03027_000_1010'
-  item: '001'
+- item: 1
+  key: 000-1510547124001
+  month: 10
+  session_title: Friday Morning Session
+  slug: '1510547124001'
+  speaker: President N. Eldon Tanner
+  title: The Solemn Assembly Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/1972/10/media/session_1_talk_1/1510547124001?lang=eng
+  year: 1972
+- item: 2
   key: 001-may-the-kingdom-of-god-go-forth
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: may-the-kingdom-of-god-go-forth
   speaker: Harold B. Lee
-  title: "\u201CMay the Kingdom of God Go Forth\u201D"
+  title: '"May the Kingdom of God Go Forth"'
   url: https://www.lds.org/general-conference/1972/10/may-the-kingdom-of-god-go-forth?lang=eng
   year: 1972
-- article_id: '03027_000_1020'
-  item: '002'
+- item: 3
   key: 002-i-know-that-my-redeemer-lives
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: i-know-that-my-redeemer-lives
   speaker: Bruce R. McConkie
-  title: "\u201CI Know That My Redeemer Lives\u201D"
+  title: '"I Know That My Redeemer Lives"'
   url: https://www.lds.org/general-conference/1972/10/i-know-that-my-redeemer-lives?lang=eng
   year: 1972
-- article_id: '03027_000_1030'
-  item: '003'
+- item: 4
   key: 003-becoming-a-somebody
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: becoming-a-somebody
   speaker: John H. Vandenberg
   title: Becoming a Somebody
   url: https://www.lds.org/general-conference/1972/10/becoming-a-somebody?lang=eng
   year: 1972
-- article_id: '03027_000_1040'
-  item: '004'
+- item: 5
   key: 004-we-thank-thee-o-god-for-a-prophet
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: we-thank-thee-o-god-for-a-prophet
   speaker: Spencer W. Kimball
-  title: "\u201CWe Thank Thee, O God, for a Prophet\u201D"
+  title: '"We Thank Thee, O God, for a Prophet"'
   url: https://www.lds.org/general-conference/1972/10/we-thank-thee-o-god-for-a-prophet?lang=eng
   year: 1972
-- article_id: '03027_000_2010'
-  item: '005'
+- item: 6
   key: 005-what-is-a-friend
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: what-is-a-friend
   speaker: Marvin J. Ashton
   title: What Is a Friend?
   url: https://www.lds.org/general-conference/1972/10/what-is-a-friend?lang=eng
   year: 1972
-- article_id: '03027_000_2020'
-  item: '006'
+- item: 7
   key: 006-entrance-into-the-kingdom-of-god
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: entrance-into-the-kingdom-of-god
   speaker: Bernard P. Brockbank
   title: Entrance into the Kingdom of God
   url: https://www.lds.org/general-conference/1972/10/entrance-into-the-kingdom-of-god?lang=eng
   year: 1972
-- article_id: '03027_000_2030'
-  item: '007'
+- item: 8
   key: 007-light-and-knowledge-to-the-world
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: light-and-knowledge-to-the-world
   speaker: Joseph Anderson
   title: Light and Knowledge to the World
   url: https://www.lds.org/general-conference/1972/10/light-and-knowledge-to-the-world?lang=eng
   year: 1972
-- article_id: '03027_000_2040'
-  item: 008
+- item: 9
   key: 008-we-have-made-covenants-with-the-lord
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: we-have-made-covenants-with-the-lord
   speaker: ElRay L. Christiansen
   title: We Have Made Covenants with the Lord
   url: https://www.lds.org/general-conference/1972/10/we-have-made-covenants-with-the-lord?lang=eng
   year: 1972
-- article_id: '03027_000_2050'
-  item: 009
+- item: 10
   key: 009-genealogy-a-personal-responsibility
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: genealogy-a-personal-responsibility
   speaker: Theodore M. Burton
-  title: 'Genealogy: A Personal Responsibility'
+  title: Genealogy:A Personal Responsibility
   url: https://www.lds.org/general-conference/1972/10/genealogy-a-personal-responsibility?lang=eng
   year: 1972
-- article_id: '03027_000_2060'
-  item: '010'
+- item: 11
   key: 010-why-do-latter-day-saints-build-temples
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: why-do-latter-day-saints-build-temples
   speaker: Eldred G. Smith
   title: Why Do Latter-day Saints Build Temples?
   url: https://www.lds.org/general-conference/1972/10/why-do-latter-day-saints-build-temples?lang=eng
   year: 1972
-- article_id: '03027_000_2070'
-  item: '011'
+- item: 12
   key: 011-listen-to-a-prophets-voice
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: listen-to-a-prophets-voice
   speaker: Ezra Taft Benson
-  title: "Listen to a Prophet\u2019s Voice"
+  title: Listen to a Prophet's Voice
   url: https://www.lds.org/general-conference/1972/10/listen-to-a-prophets-voice?lang=eng
   year: 1972
-- article_id: '03027_000_3010'
-  item: '012'
+- item: 13
   key: 012-teach-the-gospel-of-salvation
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: teach-the-gospel-of-salvation
   speaker: Harold B. Lee
   title: Teach the Gospel of Salvation
   url: https://www.lds.org/general-conference/1972/10/teach-the-gospel-of-salvation?lang=eng
   year: 1972
-- article_id: '03027_000_3020'
-  item: '013'
+- item: 14
   key: 013-spiritual-famine
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: spiritual-famine
   speaker: Howard W. Hunter
   title: Spiritual Famine
   url: https://www.lds.org/general-conference/1972/10/spiritual-famine?lang=eng
   year: 1972
-- article_id: '03027_000_3030'
-  item: '014'
+- item: 15
   key: 014-altar-tent-well
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: altar-tent-well
   speaker: A. Theodore Tuttle
   title: Altar, Tent, Well
   url: https://www.lds.org/general-conference/1972/10/altar-tent-well?lang=eng
   year: 1972
-- article_id: '03027_000_3040'
-  item: '015'
+- item: 16
   key: 015-by-love-serve-one-another
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: by-love-serve-one-another
   speaker: Victor L. Brown
-  title: "\u201CBy Love, Serve One Another\u201D"
+  title: '"By Love, Serve One Another"'
   url: https://www.lds.org/general-conference/1972/10/by-love-serve-one-another?lang=eng
   year: 1972
-- article_id: '03027_000_3050'
-  item: '016'
+- item: 17
   key: 016-why-the-church-of-jesus-christ-of-latter-day-saints
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: why-the-church-of-jesus-christ-of-latter-day-saints
   speaker: Marion G. Romney
   title: Why The Church of Jesus Christ of Latter-day Saints
   url: https://www.lds.org/general-conference/1972/10/why-the-church-of-jesus-christ-of-latter-day-saints?lang=eng
   year: 1972
-- article_id: '03027_000_4010'
-  item: '017'
+- item: 18
   key: 017-thy-will-be-done-o-lord
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: thy-will-be-done-o-lord
   speaker: Franklin D. Richards
-  title: "\u201CThy Will Be Done, O Lord\u201D"
+  title: '"Thy Will Be Done, O Lord"'
   url: https://www.lds.org/general-conference/1972/10/thy-will-be-done-o-lord?lang=eng
   year: 1972
-- article_id: '03027_000_4020'
-  item: 018
+- item: 19
   key: 018-planting-gospel-seeds-of-spirituality
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: planting-gospel-seeds-of-spirituality
   speaker: David B. Haight
   title: Planting Gospel Seeds of Spirituality
   url: https://www.lds.org/general-conference/1972/10/planting-gospel-seeds-of-spirituality?lang=eng
   year: 1972
-- article_id: '03027_000_4030'
-  item: 019
+- item: 20
   key: 019-to-serve-the-master
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: to-serve-the-master
   speaker: O. Leslie Stone
   title: To Serve the Master
   url: https://www.lds.org/general-conference/1972/10/to-serve-the-master?lang=eng
   year: 1972
-- article_id: '03027_000_4040'
-  item: '020'
+- item: 21
   key: 020-to-become-one-of-the-fishers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: to-become-one-of-the-fishers
   speaker: James E. Faust
   title: To Become One of the Fishers
   url: https://www.lds.org/general-conference/1972/10/to-become-one-of-the-fishers?lang=eng
   year: 1972
-- article_id: '03027_000_4050'
-  item: '021'
+- item: 22
   key: 021-keep-the-commandments
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: keep-the-commandments
   speaker: Sterling W. Sill
   title: Keep the Commandments
   url: https://www.lds.org/general-conference/1972/10/keep-the-commandments?lang=eng
   year: 1972
-- article_id: '03027_000_4060'
-  item: '022'
+- item: 23
   key: 022-how-to-gain-a-testimony
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: how-to-gain-a-testimony
   speaker: Loren C. Dunn
   title: How to Gain a Testimony
   url: https://www.lds.org/general-conference/1972/10/how-to-gain-a-testimony?lang=eng
   year: 1972
-- article_id: '03027_000_4070'
-  item: '023'
+- item: 24
   key: 023-strengthen-thy-brethren
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: strengthen-thy-brethren
   speaker: Paul H. Dunn
-  title: "\u201CStrengthen Thy Brethren\u201D"
+  title: '"Strengthen Thy Brethren"'
   url: https://www.lds.org/general-conference/1972/10/strengthen-thy-brethren?lang=eng
   year: 1972
-- article_id: 03027_000_4080
-  item: '024'
+- item: 25
   key: 024-the-saints-securely-dwell
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-saints-securely-dwell
   speaker: Boyd K. Packer
   title: The Saints Securely Dwell
   url: https://www.lds.org/general-conference/1972/10/the-saints-securely-dwell?lang=eng
   year: 1972
-- article_id: '03027_000_5010'
-  item: '025'
+- item: 26
   key: 025-watch-the-switches-in-your-life
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: watch-the-switches-in-your-life
   speaker: Gordon B. Hinckley
   title: Watch the Switches in Your Life
   url: https://www.lds.org/general-conference/1972/10/watch-the-switches-in-your-life?lang=eng
   year: 1972
-- article_id: '03027_000_5020'
-  item: '026'
+- item: 27
   key: 026-the-sure-word-of-god
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-sure-word-of-god
   speaker: Vaughn J. Featherstone
   title: The Sure Word of God
   url: https://www.lds.org/general-conference/1972/10/the-sure-word-of-god?lang=eng
   year: 1972
-- article_id: '03027_000_5030'
-  item: '027'
+- item: 28
   key: 027-caring-for-the-poor-and-needy
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: caring-for-the-poor-and-needy
   speaker: Marion G. Romney
   title: Caring for the Poor and Needy
   url: https://www.lds.org/general-conference/1972/10/caring-for-the-poor-and-needy?lang=eng
   year: 1972
-- article_id: '03027_000_5040'
-  item: 028
+- item: 29
   key: 028-the-priesthood-and-its-presidency
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-priesthood-and-its-presidency
   speaker: N. Eldon Tanner
   title: The Priesthood and Its Presidency
   url: https://www.lds.org/general-conference/1972/10/the-priesthood-and-its-presidency?lang=eng
   year: 1972
-- article_id: '03027_000_5050'
-  item: 029
+- item: 30
   key: 029-admonitions-for-the-priesthood-of-god
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: admonitions-for-the-priesthood-of-god
   speaker: Harold B. Lee
   title: Admonitions for the Priesthood of God
   url: https://www.lds.org/general-conference/1972/10/admonitions-for-the-priesthood-of-god?lang=eng
   year: 1972
-- article_id: '03027_000_6010'
-  item: '030'
+- item: 31
   key: 030-warnings-from-outer-space
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: warnings-from-outer-space
   speaker: N. Eldon Tanner
   title: Warnings from Outer Space
   url: https://www.lds.org/general-conference/1972/10/warnings-from-outer-space?lang=eng
   year: 1972
-- article_id: '03027_000_6020'
-  item: '031'
+- item: 32
   key: 031-strange-creeds-of-christendom
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: strange-creeds-of-christendom
   speaker: LeGrand Richards
   title: Strange Creeds of Christendom
   url: https://www.lds.org/general-conference/1972/10/strange-creeds-of-christendom?lang=eng
   year: 1972
-- article_id: '03027_000_6030'
-  item: '032'
+- item: 33
   key: 032-pollution-of-the-mind
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: pollution-of-the-mind
   speaker: Robert L. Simpson
   title: Pollution of the Mind
   url: https://www.lds.org/general-conference/1972/10/pollution-of-the-mind?lang=eng
   year: 1972
-- article_id: '03027_000_6040'
-  item: '033'
+- item: 34
   key: 033-harmony-in-the-home
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: harmony-in-the-home
   speaker: H. Burke Peterson
   title: Harmony in the Home
   url: https://www.lds.org/general-conference/1972/10/harmony-in-the-home?lang=eng
   year: 1972
-- article_id: '03027_000_6050'
-  item: '034'
+- item: 35
   key: 034-another-prophet-now-has-come
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: another-prophet-now-has-come
   speaker: Mark E. Petersen
   title: Another Prophet Now Has Come!
   url: https://www.lds.org/general-conference/1972/10/another-prophet-now-has-come?lang=eng
   year: 1972
-- article_id: '03027_000_7010'
-  item: '035'
+- item: 36
   key: 035-hands
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: hands
   speaker: Thomas S. Monson
   title: Hands
   url: https://www.lds.org/general-conference/1972/10/hands?lang=eng
   year: 1972
-- article_id: '03027_000_7020'
-  item: '036'
+- item: 37
   key: 036-having-been-born-of-goodly-parents
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: having-been-born-of-goodly-parents
   speaker: S. Dilworth Young
-  title: "\u201CHaving Been Born of Goodly Parents\u201D"
+  title: '"Having Been Born of Goodly Parents"'
   url: https://www.lds.org/general-conference/1972/10/having-been-born-of-goodly-parents?lang=eng
   year: 1972
-- article_id: '03027_000_7030'
-  item: '037'
+- item: 38
   key: 037-home-teachers-watchmen-over-the-church
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: home-teachers-watchmen-over-the-church
   speaker: James A. Cullimore
   title: "Home Teachers\u2014Watchmen over the Church"
   url: https://www.lds.org/general-conference/1972/10/home-teachers-watchmen-over-the-church?lang=eng
   year: 1972
-- article_id: '03027_000_7040'
-  item: 038
+- item: 39
   key: 038-every-man-in-his-own-place
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: every-man-in-his-own-place
   speaker: Marion D. Hanks
   title: Every Man in His Own Place
   url: https://www.lds.org/general-conference/1972/10/every-man-in-his-own-place?lang=eng
   year: 1972
-- article_id: '03027_000_7050'
-  item: 039
+- item: 40
   key: 039-live-above-the-law-to-be-free
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: live-above-the-law-to-be-free
-  speaker: Hartman Rector, Jr.
+  speaker: Hartman Rector Jr.
   title: Live above the Law to Be Free
   url: https://www.lds.org/general-conference/1972/10/live-above-the-law-to-be-free?lang=eng
   year: 1972
-- article_id: '03027_000_7060'
-  item: '040'
+- item: 41
   key: 040-an-instrument-in-the-hands-of-the-lord
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: an-instrument-in-the-hands-of-the-lord
   speaker: Rex D. Pinegar
-  title: "\u201CAn Instrument in the Hands of the Lord\u201D"
+  title: '"An Instrument in the Hands of the Lord"'
   url: https://www.lds.org/general-conference/1972/10/an-instrument-in-the-hands-of-the-lord?lang=eng
   year: 1972
-- article_id: '03027_000_7070'
-  item: '041'
+- item: 42
   key: 041-three-pledges
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: three-pledges
   speaker: L. Tom Perry
   title: Three Pledges
   url: https://www.lds.org/general-conference/1972/10/three-pledges?lang=eng
   year: 1972
-- article_id: 03027_000_7080
-  item: '042'
+- item: 43
   key: 042-a-blessing-for-the-saints
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-blessing-for-the-saints
   speaker: Harold B. Lee

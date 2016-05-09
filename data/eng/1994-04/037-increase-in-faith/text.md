@@ -78,7 +78,7 @@ cried, saying, Lord, save me.
 
 "And immediately Jesus stretched forth his hand, and caught him, and said unto
 him, O thou of little faith, wherefore didst thou doubt?" ([Matt.
-14:22-31](https://www.lds.org/scriptures/nt/matt/14.22-31?lang=eng#21).)
+14:22-31](/scriptures/nt/matt/14.22-31?lang=eng#21).)
 
 I think that's a wonderful story.
 
@@ -89,13 +89,12 @@ what was happening around him, "the wind boisterous," he began to sink.
 What are the winds boisterous in our lives? What are the things that distract
 us from the Savior, that turn our hearts and our minds away from Him? It may
 be thinking more about pleasing our friends or other people than we do about
-pleasing God (see [John
-5:44](https://www.lds.org/scriptures/nt/john/5.44?lang=eng#43)). It may be the
-loud and confusing voices we hear on TV, in videos, in music. Sometimes we
-just don't care. Our hearts are hard (see [John
-12:37](https://www.lds.org/scriptures/nt/john/12.37?lang=eng#36)). There will
-always be distractions, winds boisterous, but if we choose to turn to the
-Lord, to believe in Him, to follow Him, we can increase our faith.
+pleasing God (see [John 5:44](/scriptures/nt/john/5.44?lang=eng#43)). It may
+be the loud and confusing voices we hear on TV, in videos, in music. Sometimes
+we just don't care. Our hearts are hard (see [John
+12:37](/scriptures/nt/john/12.37?lang=eng#36)). There will always be
+distractions, winds boisterous, but if we choose to turn to the Lord, to
+believe in Him, to follow Him, we can increase our faith.
 
 When Peter began to sink, he turned to the Lord and cried out, "Lord, save
 me," and Jesus immediately "stretched forth his hand, and caught him." He will
@@ -104,15 +103,13 @@ do that for you. He will do that for each one of us.
 What can we do to turn to the Savior? What can we do to increase our faith in
 Him? There are many things we can do. I have chosen just three:
 
-  * We can choose to believe.
-
-  * We can ask for help, then listen.
-
-  * We can practice turning to Him.
+  * We can choose to believe. 
+  * We can ask for help, then listen. 
+  * We can practice turning to Him. 
 
 In the scriptures it says, "But without faith it is impossible to please him";
 and to please him we must "believe that he is" ([Heb.
-11:6](https://www.lds.org/scriptures/nt/heb/11.6?lang=eng#5)).
+11:6](/scriptures/nt/heb/11.6?lang=eng#5)).
 
 Choosing to believe is an important step in increasing our faith in the
 Savior. It has to be our choice. No one can make that choice for you. If I
@@ -129,16 +126,16 @@ Harder than asking is listening. We can listen in our hearts and hear Their
 voice. We can listen in the scriptures and hear Their word. We can listen to
 our prophet and leaders and hear their testimonies of faith. We can increase
 our faith by "hearing ... the word of God" ([Rom.
-10:17](https://www.lds.org/scriptures/nt/rom/10.17?lang=eng#16)).
+10:17](/scriptures/nt/rom/10.17?lang=eng#16)).
 
 And third, we can remember to practice--practice turning to Him, practice
 thinking about Him. Increasing our faith does take more than choosing to
 believe and asking. It takes some kind of physical and mental action. It takes
 practice, diligence, and patience, and it takes obedience. We must be "doers
 of the word, ... not hearers only" ([James
-1:22](https://www.lds.org/scriptures/nt/james/1.22?lang=eng#21)). We can
-practice living righteously by turning to Him, by thinking about Him, by
-following Him. And then we must help Him with His work by helping others.
+1:22](/scriptures/nt/james/1.22?lang=eng#21)). We can practice living
+righteously by turning to Him, by thinking about Him, by following Him. And
+then we must help Him with His work by helping others.
 
 A bell helped me think about the Savior. Do you have bells in your life?
 
@@ -154,4 +151,6 @@ our faith in Him. I believe we can do that as we choose to believe, ask and
 listen, and practice, and practice, and practice. My testimony is that He
 loves us so much, that He understands, and that His light will comfort us and
 guide us as we come unto Him. I love you, in the name of Jesus Christ, amen.
+
+## References
 

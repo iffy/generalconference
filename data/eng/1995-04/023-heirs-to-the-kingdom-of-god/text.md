@@ -3,7 +3,7 @@
 My beloved brothers and sisters and friends, in responding at this pulpit as
 the newest member of the First Presidency of this church, I recall the words
 of Solomon, who said, "I am but a little child: I know not how to go out or
-come in." [1]  Like Solomon, I pray that God will give me an understanding
+come in."[1] Like Solomon, I pray that God will give me an understanding
 heart. We miss our beloved friend and associate, President Howard W. Hunter,
 beyond expression. We honor and praise his name. His memory will be blessed to
 us forever.
@@ -53,7 +53,7 @@ many of those who have in abundance seem unappreciative of what they have. But
 we have also seen the generosity of members of this church who have great
 concern for those worldwide who lack the necessities of life. They generously
 contribute to help the poor in many countries, even though we have no members
-there. Humanitarian help has been given in 114 countries since 1985. [2]
+there. Humanitarian help has been given in 114 countries since 1985.[2]
 
 I have learned to admire, respect, and love the good people from every race,
 culture, and nation that I have been privileged to visit. In my experience, no
@@ -61,7 +61,7 @@ race or class seems superior to any other in spirituality and faithfulness.
 Those who seem less caring spiritually are those individuals--regardless of
 race, culture, or nationality--spoken of by the Savior in the parable of the
 sower who are "choked with cares and riches and pleasures of this life, and
-bring no fruit to perfection." [3]
+bring no fruit to perfection."[3]
 
 One of this nation's leading pollsters, Richard Wirthlin, has identified
 through polls an expression of the basic needs of people in the United States.
@@ -73,7 +73,7 @@ regardless of ethnic background, culture, or country, can be met if we look to
 the divinity that is within us. As the Savior himself has said, "And the
 Spirit giveth light to every man [and woman] that cometh into the world; and
 the Spirit enlighteneth every man [and woman] through the world, that
-hearkeneth to the voice of the Spirit." [4]
+hearkeneth to the voice of the Spirit."[4]
 
 President David O. McKay said:
 
@@ -84,34 +84,34 @@ perfect the spirit within. At sometime in his life, every man is conscious of
 a desire to come in touch with the Infinite. His spirit reaches out for God.
 This sense of feeling is universal, and all men ought to be, in deepest truth,
 engaged in the same great work--the search for and the development of
-spiritual peace and freedom." [5]
+spiritual peace and freedom."[5]
 
 As the humble servants of God--the General Authorities, the missionaries, and
 others--travel throughout the world, we are compelled to ask: What can we do
 for the peoples of the earth? What can we give that no one else can? What can
 justify the great expenditure of effort, time, and means to "go ... into all the
-world," [6]  as the Savior commanded. We cannot change the economy of
-countries. We do not seek to change governments. The answer is simple. We can
-offer the hope promised by the Savior: "Peace in this world, and eternal life
-in the world to come." [7]  Lives are changed as the servants of God teach
-God's children everywhere to accept and keep the commandments of God. Anyone,
+world,"[6] as the Savior commanded. We cannot change the economy of countries.
+We do not seek to change governments. The answer is simple. We can offer the
+hope promised by the Savior: "Peace in this world, and eternal life in the
+world to come."[7] Lives are changed as the servants of God teach God's
+children everywhere to accept and keep the commandments of God. Anyone,
 regardless of culture or economic circumstance, can go to the depths of his
 spiritual wells and drink of that water. He who partakes of this water, as the
 Savior said, "shall never thirst; but ... shall be in him a well of water
-springing up into everlasting life." [8]  The basic needs of mankind
-identified by Dr. Wirthlin--self-esteem, peace of mind, and personal
-contentment--can be fully satisfied by faithful obedience to the commandments
-of God. This is true of any person in any country or culture.
+springing up into everlasting life."[8] The basic needs of mankind identified
+by Dr. Wirthlin--self-esteem, peace of mind, and personal contentment--can be
+fully satisfied by faithful obedience to the commandments of God. This is true
+of any person in any country or culture.
 
 Though many lack the necessities of life, I take comfort in the words of
 Nephi: "But they were ... one, the children of Christ, and heirs to the kingdom
-of God." [9]
+of God."[9]
 
 As we move into more and more countries in the world, we find a rich cultural
-diversity in the Church. Yet everywhere there can be a "unity of the faith."
-[10]  Each group brings special gifts and talents to the table of the Lord. We
-can all learn much of value from each other. But each of us should also
-voluntarily seek to enjoy all of the unifying and saving covenants,
+diversity in the Church. Yet everywhere there can be a "unity of the
+faith."[10] Each group brings special gifts and talents to the table of the
+Lord. We can all learn much of value from each other. But each of us should
+also voluntarily seek to enjoy all of the unifying and saving covenants,
 ordinances, and doctrines of the gospel of the Lord Jesus Christ.
 
 In the great diversity of peoples, cultures, and circumstances, we remember
@@ -124,7 +124,7 @@ children of God by faith in Christ Jesus.
 neither male nor female: for ye are all one in Christ Jesus.
 
 "And if ye be Christ's, then are ye Abraham's seed, and heirs according to the
-promise." [11]
+promise."[11]
 
 We do not lose our identity in becoming members of this church. We become
 heirs to the kingdom of God, having joined the body of Christ and spiritually
@@ -159,7 +159,7 @@ the Lord. Yet within our spiritual unity there is wide room for everyone's
 individuality and expression. In that setting, all are heirs to the kingdom of
 God. President Hunter said it well, "The key to a unified church is a unified
 soul, one that is at peace with itself and not given to inner conflicts and
-tensions." [12]
+tensions."[12]
 
 The spiritual richness of our meetings seems to have little to do with the
 buildings or country in which we meet. Many years ago we went to Manaus,
@@ -178,7 +178,7 @@ All felt impelled to bear their profound witness of the Savior and his mission
 and of the restoration of the gospel of Jesus Christ. All who were there
 reached deep down in their souls to their spiritual taproots, remembering the
 Savior's words that "where two or three are gathered together in my name,
-there am I in the midst of them." [13]  This they did more as heirs to the
+there am I in the midst of them."[13] This they did more as heirs to the
 kingdom of God than as Brazilian members of the Church.
 
 The multiplicity of languages and cultures is both an opportunity and a
@@ -188,7 +188,7 @@ higher form of communication than language. We have been in many meetings
 where the words were completely unintelligible, but the Spirit bore powerful
 witness of Jesus Christ, the Savior and Redeemer of the world. Even with
 language differences, hopefully no minority group would ever feel so unwelcome
-in the "body of Christ" [14]  that they would wish to worship exclusively in
+in the "body of Christ"[14] that they would wish to worship exclusively in
 their own ethnic culture. We hope that those in any dominant culture would
 reach out to them in the brotherhood and sisterhood of the gospel so that we
 can establish fully a community of Saints where everyone will feel needed and
@@ -205,14 +205,14 @@ life. Only as we seek to be purged of selfishness and of concern for
 recognition and wealth can we find some sweet relief from the anxieties,
 hurts, pains, miseries, and concerns of this world. In this manner, as
 President J. Reuben Clark said, we can bring "to flower and fruitage the
-latent richness of the spirit." [15]  God can not only help us find a sublime
+latent richness of the spirit."[15] God can not only help us find a sublime
 and everlasting joy and contentment, but He will change us so that we can
 become heirs of the kingdom of God.
 
 This is really the recovery of the sacred within us. We have the authority in
 our beings to respond to challenges of life any way we choose. Thus we gain
 mastery in any circumstance. As the Savior said to the diseased woman, "Thy
-faith hath made thee whole." [16]
+faith hath made thee whole."[16]
 
 Mine is the certain knowledge that Jesus is our divine Savior, Redeemer, and
 the Son of God the Father. I know of his reality by a sure perception so
@@ -223,35 +223,35 @@ Hinckley today, in the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [1 Kgs. 3:7](https://www.lds.org/scriptures/ot/1-kgs/3.7?lang=eng#6).
+  1. [1 Kgs. 3:7](https://www.lds.org/scriptures/ot/1-kgs/3.7?lang=eng#6).
 
-  2.  "Helping Hearts and Hands Span the Globe," _Church News,_ 11 Feb. 1995, pp. 8-10.
+  2. "Helping Hearts and Hands Span the Globe," _Church News,_ 11 Feb. 1995, pp. 8-10.
 
-  3.   [Luke 8:14](https://www.lds.org/scriptures/nt/luke/8.14?lang=eng#13).
+  3. [Luke 8:14](https://www.lds.org/scriptures/nt/luke/8.14?lang=eng#13).
 
-  4.   [D&amp;C 84:46](https://www.lds.org/scriptures/dc-testament/dc/84.46?lang=eng#45).
+  4. [D&amp;C 84:46](https://www.lds.org/scriptures/dc-testament/dc/84.46?lang=eng#45).
 
-  5.  In Conference Report, Oct. 1963, p. 7.
+  5. In Conference Report, Oct. 1963, p. 7.
 
-  6.   [Mark 16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14).
+  6. [Mark 16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14).
 
-  7.   [D&amp;C 59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22).
+  7. [D&amp;C 59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22).
 
-  8.   [John 4:14](https://www.lds.org/scriptures/nt/john/4.14?lang=eng#13).
+  8. [John 4:14](https://www.lds.org/scriptures/nt/john/4.14?lang=eng#13).
 
-  9.   [4 Ne. 1:17](https://www.lds.org/scriptures/bofm/4-ne/1.17?lang=eng#16).
+  9. [4 Ne. 1:17](https://www.lds.org/scriptures/bofm/4-ne/1.17?lang=eng#16).
 
-  10.   [Eph. 4:13](https://www.lds.org/scriptures/nt/eph/4.13?lang=eng#12).
+  10. [Eph. 4:13](https://www.lds.org/scriptures/nt/eph/4.13?lang=eng#12).
 
-  11.   [Gal. 3:26-29](https://www.lds.org/scriptures/nt/gal/3.26-29?lang=eng#25).
+  11. [Gal. 3:26-29](https://www.lds.org/scriptures/nt/gal/3.26-29?lang=eng#25).
 
-  12.   _That We Might Have Joy_ (Salt Lake City: Deseret Book Co., 1994), p. 50.
+  12. _That We Might Have Joy_ (Salt Lake City: Deseret Book Co., 1994), p. 50.
 
-  13.   [Matt. 18:20](https://www.lds.org/scriptures/nt/matt/18.20?lang=eng#19).
+  13. [Matt. 18:20](https://www.lds.org/scriptures/nt/matt/18.20?lang=eng#19).
 
-  14.   [1 Cor. 10:16-17](https://www.lds.org/scriptures/nt/1-cor/10.16-17?lang=eng#15).
+  14. [1 Cor. 10:16-17](https://www.lds.org/scriptures/nt/1-cor/10.16-17?lang=eng#15).
 
-  15.  As cited in _Providing in the Lord's Way: A Leader's Guide to Welfare_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1990), p. i.
+  15. As cited in _Providing in the Lord's Way: A Leader's Guide to Welfare_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1990), p. i.
 
-  16.   [Matt. 9:22](https://www.lds.org/scriptures/nt/matt/9.22?lang=eng#21).
+  16. [Matt. 9:22](https://www.lds.org/scriptures/nt/matt/9.22?lang=eng#21).
 

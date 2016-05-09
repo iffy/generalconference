@@ -7,7 +7,7 @@ Previously, Judas Iscariot, one of the Twelve, had bargained with the chief
 priests and had agreed to betray the Lord for a price of 30 pieces of silver.
 Jesus, being aware of this treachery, sat at the table with the Twelve. He
 said sorrowfully: "Verily, I say unto you, that one of you shall betray me."
-([Matt. 26:21](https://www.lds.org/scriptures/nt/matt/26.21?lang=eng#20).)
+([Matt. 26:21](/scriptures/nt/matt/26.21?lang=eng#20).)
 
 After they had eaten, Jesus blessed the bread and wine and in a simple but
 impressive manner instituted the sacrament of the Lord's Supper.
@@ -27,13 +27,11 @@ with Peter, James, and John, he went a short distance, where he requested them
 to wait and watch. Going on alone a little ways, he knelt and prayed to his
 Father, saying: "O my Father, if it be possible, let this cup pass from me
 [but then came this beautiful lesson]; nevertheless, not as I will, but as
-thou wilt." ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).)
+thou wilt." ([Matt. 26:39](/scriptures/nt/matt/26.39?lang=eng#38).)
 
 Three times he prayed, and we read: "And being in agony he prayed more
 earnestly: and his sweat was as it were great drops of blood falling to the
-ground." ([Luke
-22:44](https://www.lds.org/scriptures/nt/luke/22.44?lang=eng#43).)
+ground." ([Luke 22:44](/scriptures/nt/luke/22.44?lang=eng#43).)
 
 Elder James E. Talmage, a member of the Twelve in our dispensation, made this
 observation: "Christ's agony in the garden is unfathomable to the finite mind,
@@ -53,12 +51,11 @@ church of Jesus Christ was reestablished in these latter days. Then from the
 Lord came this admonition to the members of the Church: "And that thou mayest
 more fully keep thyself unspotted from the world, thou shalt go to the house
 of prayer and offer up thy sacraments upon my holy day." ([D&amp;C
-59:9](https://www.lds.org/scriptures/dc-testament/dc/59.9?lang=eng#8).)
+59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).)
 
 And then the Lord further instructed: "It is expedient that the Church meet
 together often to partake of bread and wine in the remembrance of the Lord
-Jesus." ([D&amp;C 20:75](https://www.lds.org/scriptures/dc-
-testament/dc/20.75?lang=eng#74).)
+Jesus." ([D&amp;C 20:75](/scriptures/dc-testament/dc/20.75?lang=eng#74).)
 
 In these words was the sacrament of the Lord's Supper authorized in our day,
 the dispensation of the fulness of times. The bread and water, duly
@@ -99,8 +96,7 @@ Word, and the Word was with God, and the Word was God.
 "The same was in the beginning with God.
 
 "All things were made by him; and without him was not anything made that was
-made." ([John
-1:1-3](https://www.lds.org/scriptures/nt/john/1.1-3?lang=eng#0).)
+made." ([John 1:1-3](/scriptures/nt/john/1.1-3?lang=eng#0).)
 
 Do we remember that at the great council in the heavens in which we
 participated as preexistent spiritual beings, he presented a plan in which he
@@ -155,4 +151,6 @@ meetings.
 
 That we may do this and thus obtain the blessings predicated upon this law, is
 my humble prayer, which I ask in the name of the Lord Jesus Christ. Amen.
+
+## References
 

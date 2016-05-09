@@ -38,7 +38,7 @@ know for himself."
 The Book of Mormon records well what occurred to me that evening in 1954. As
 those servants of the Lord "did minister with power and with great authority,"
 it was not possible that I could disbelieve their words. (See [3 Ne.
-7:17-18](https://www.lds.org/scriptures/bofm/3-ne/7.17-18?lang=eng#16).)
+7:17-18](/scriptures/bofm/3-ne/7.17-18?lang=eng#16).)
 
 As the years have passed, I have recognized more fully that it was not just a
 spiritual experience of the moment, but rather, I was a recipient of a
@@ -60,21 +60,20 @@ give a sacred charge to His Apostles. Reading from the twenty-eighth chapter
 of the Gospel of Matthew, we read: "Go ye therefore, and teach all nations,
 baptizing them in the name of the Father, and of the Son, and of the Holy
 Ghost: Teaching them to observe all things whatsoever I have commanded you."
-([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).)
+([Matt. 28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).)
 
 Today, The Church of Jesus Christ of Latter-day Saints continues with this
 sacred charge--that is, to go and to teach all nations to observe all things
 whatsoever He--the Savior--has commanded us. (See [Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19).) These
-thousands of missionaries who have been called by a prophet are visual
-evidence that our Heavenly Father has not forgotten His children. We bear
-witness to the world that He lives, that He knows each one of us individually.
-He has a plan, a divine plan, to bring you and to bring me back into His
-presence. The Savior has returned to the earth, by way of modern-day prophets,
-all of those teachings, all of those ordinances, and His holy priesthood to
-bring happiness in this life and eternal joy in the life to come, a plan with
-solutions--a divine plan with guidance to all of the challenges of this life.
+28:20](/scriptures/nt/matt/28.20?lang=eng#19).) These thousands of
+missionaries who have been called by a prophet are visual evidence that our
+Heavenly Father has not forgotten His children. We bear witness to the world
+that He lives, that He knows each one of us individually. He has a plan, a
+divine plan, to bring you and to bring me back into His presence. The Savior
+has returned to the earth, by way of modern-day prophets, all of those
+teachings, all of those ordinances, and His holy priesthood to bring happiness
+in this life and eternal joy in the life to come, a plan with solutions--a
+divine plan with guidance to all of the challenges of this life.
 
 Again, the question is asked: Why do we have more than forty thousand
 missionaries serving in the world? Because Heavenly Father loves us. These men
@@ -99,7 +98,7 @@ Heavenly Father offers to you through His servants a new life. The scriptures
 call it a rebirth. Not only did the Lord Jesus Christ tell His apostles to "go
 ... and teach," but to baptize them "in the name of the Father, and of the Son,
 and of the Holy Ghost." (See [Matt.
-28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18).)
+28:19](/scriptures/nt/matt/28.19?lang=eng#18).)
 
 I bear testimony, paraphrasing the words of Peter, in his second epistle, that
 we do not follow cunningly devised fables, when we make known unto you the
@@ -109,4 +108,6 @@ Heavenly Father and Jesus Christ did return to the earth in 1820. They did
 restore the priesthood of God and His plan of salvation to a modern-day
 prophet, Joseph Smith. I know that! I cannot deny what I have felt and what I
 have seen. I bear this witness to you in the name of Jesus Christ, amen.
+
+## References
 

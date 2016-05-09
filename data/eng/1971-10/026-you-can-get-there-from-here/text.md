@@ -23,8 +23,7 @@ is an enemy to the ways of God, and enticeth to sin.
 "Wherefore, all things which are good cometh of God; and that which is evil
 cometh of the devil; for the devil is an enemy unto God, and fighteth against
 him continually, and inviteth and enticeth to sin, and to do that which is
-evil continually." ([Moro.
-7:12](https://www.lds.org/scriptures/bofm/moro/7.12?lang=eng#11).)
+evil continually." ([Moro. 7:12](/scriptures/bofm/moro/7.12?lang=eng#11).)
 
 What a happy day it will be when, in contrast to the experience this lost
 young man had in the big city, he or others can find someone who will say,
@@ -44,8 +43,7 @@ matter where they are. We need to sacrifice our time and talents in this
 direction.
 
 "But to do good and to communicate forget not: for with such sacrifices God is
-well pleased." ([Heb.
-13:16](https://www.lds.org/scriptures/nt/heb/13.16?lang=eng#15).)
+well pleased." ([Heb. 13:16](/scriptures/nt/heb/13.16?lang=eng#15).)
 
 I pray to God that we in the future may communicate the positive, the happy,
 the abundant way of life to those around us.
@@ -166,7 +164,7 @@ your priesthood, build yourself by stooping to help someone who has
 temporarily lost his or her way. Remember that powerful truth found in Matthew
 23:37: "... how often would I have gathered thy children together, even as a hen
 gathereth her chickens under her wings, and ye would not!" [[Matt.
-23:37](https://www.lds.org/scriptures/nt/matt/23.37?lang=eng#36)]
+23:37](/scriptures/nt/matt/23.37?lang=eng#36)]
 
 With your indulgence, I would like to repeat that quotation once more and add
 just two words of admonition: "... how often would I have gathered thy children
@@ -178,17 +176,16 @@ are each of us in the responsibilities of our priesthood? How many of us are
 helping as high council advisers, professional resource volunteers, and
 helpers with innate skills to our fellow members who need us? When our Savior
 declared, "If ye love me, feed my sheep" (see [John
-21:16](https://www.lds.org/scriptures/nt/john/21.16?lang=eng#15)), he wasn't
-referring to just those found safely in the fold. I declare to all of us
-tonight, he needs our help in finding the lost and bringing them back.
+21:16](/scriptures/nt/john/21.16?lang=eng#15)), he wasn't referring to just
+those found safely in the fold. I declare to all of us tonight, he needs our
+help in finding the lost and bringing them back.
 
 The field is white, ready for harvest. The lost want to know how to get back.
 They want to be shown they can get there from where they are. Let us not give
 up. Let us not tire. Let us not weary.
 
 "And let us not be weary in well doing: for in due season we shall reap, if we
-faint not." ([Gal.
-6:9](https://www.lds.org/scriptures/nt/gal/6.9?lang=eng#8).)
+faint not." ([Gal. 6:9](/scriptures/nt/gal/6.9?lang=eng#8).)
 
 Jesus set the pattern for us in his invitation, "Come, follow me." I think it
 is significant our Savior Jesus Christ declared, "He that hath seen me hath
@@ -199,7 +196,9 @@ I bear witness to you this day that God lives and this is his work, and that,
 Jesus Christ is our Savior and Redeemer. I also bear witness that by doing his
 will and keeping his commandments, we can share in that great joy found in
 Third John: "I have no greater joy than to hear that my children walk in
-truth." ([3 Jn. 1:4](https://www.lds.org/scriptures/nt/3-jn/1.4?lang=eng#3).)
+truth." ([3 Jn. 1:4](/scriptures/nt/3-jn/1.4?lang=eng#3).)
 
 And I say this in the name of Jesus Christ. Amen.
+
+## References
 

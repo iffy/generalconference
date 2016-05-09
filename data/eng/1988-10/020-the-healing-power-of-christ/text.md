@@ -69,20 +69,19 @@ the Master Healer.
 
 I have since reflected much on the power of Christ to heal and bless. It was
 He who said, "I am come that they might have life, and that they might have it
-more abundantly." ([John
-10:10](https://www.lds.org/scriptures/nt/john/10.10?lang=eng#9).) In a world
-of sickness and sorrow, of tension and jealousy and greed, there must be much
-of healing if there is to be life abundant.
+more abundantly." ([John 10:10](/scriptures/nt/john/10.10?lang=eng#9).) In a
+world of sickness and sorrow, of tension and jealousy and greed, there must be
+much of healing if there is to be life abundant.
 
 The prophet Malachi declared, "Unto you that fear my name shall the Sun of
 righteousness arise with healing in his wings." ([Mal.
-4:2](https://www.lds.org/scriptures/ot/mal/4.2?lang=eng#1).)
+4:2](/scriptures/ot/mal/4.2?lang=eng#1).)
 
 Malachi's prophecy was fulfilled. Jesus came to earth, the Son of God, with
 power over life and death. He healed the sick, opened the eyes of the blind,
 caused the lame to walk, and the dead to rise. He was the man of miracles who
 "went about doing good." ([Acts
-10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).)
+10:38](/scriptures/nt/acts/10.38?lang=eng#37).)
 
 "So Jesus came again into Cana of Galilee. ... And there was a certain nobleman,
 whose son was sick at Capernaum.
@@ -96,15 +95,14 @@ word that Jesus had spoken unto him, and he went his way.
 
 "And as he was now going down, his servants met him, and told him, saying, Thy
 son liveth." ([John 4:46-47,
-50-51](https://www.lds.org/scriptures/nt/john/4.46-47%2C50-51?lang=eng#45).)
+50-51](/scriptures/nt/john/4.46-47,50-51?lang=eng#45).)
 
 This, the second miracle wrought by the Master, was followed by other miracles
 of healing.
 
 Christ healed by the power of God which was within Him. That power He gave to
 His chosen disciples, saying, "And I will give unto thee the keys of the
-kingdom of heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+kingdom of heaven." ([Matt. 16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 That same power has been restored in this generation. It came through the
 laying on of hands by Peter, James, and John, who received it from the Lord
@@ -151,7 +149,7 @@ the Lord:
 
 "And the prayer of faith shall save the sick, and the Lord shall raise him up;
 and if he have committed sins, they shall be forgiven him." ([James
-5:14-15](https://www.lds.org/scriptures/nt/james/5.14-15?lang=eng#13).)
+5:14-15](/scriptures/nt/james/5.14-15?lang=eng#13).)
 
 That power to heal the sick is still among us. It is the power of the
 priesthood of God. It is the authority held by the elders of this Church.
@@ -193,7 +191,7 @@ eye for an eye, and a tooth for a tooth:
 on thy right cheek, turn to him the other also. ...
 
 "And whosoever shall compel thee to go a mile, go with him twain." ([Matt.
-5:38-41](https://www.lds.org/scriptures/nt/matt/5.38-41?lang=eng#37).)
+5:38-41](/scriptures/nt/matt/5.38-41?lang=eng#37).)
 
 The application of this principle, difficult to live but wondrous in its
 curative powers, would have a miraculous effect on our troubled homes. It is
@@ -205,14 +203,14 @@ and evil speaking.
 The same healing spirit would do wonders for the sickness of our society. The
 Lord has declared that it is our duty, as those blessed with the healing power
 of the Master, to "succor the weak, lift up the hands which hang down, and
-strengthen the feeble knees." ([D&amp;C 81:5](https://www.lds.org/scriptures
-/dc-testament/dc/81.5?lang=eng#4).)
+strengthen the feeble knees." ([D&amp;C 81:5](/scriptures/dc-
+testament/dc/81.5?lang=eng#4).)
 
 Great is the healing capacity of those who follow the admonition given by
 James: "Pure religion and undefiled before God and the Father is this, To
 visit the fatherless and widows in their affliction, and to keep himself
 unspotted from the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26)).
+1:27](/scriptures/nt/james/1.27?lang=eng#26)).
 
 We live in an environment where there is much of litigation and conflict, of
 suing and countersuing. Even here the powers of healing may be invoked. As a
@@ -245,8 +243,7 @@ thine enemy.
 
 "But I say unto you, Love your enemies, bless them that curse you, do good to
 them that hate you, and pray for them which despitefully use you, and
-persecute you." ([Matt.
-5:43-44](https://www.lds.org/scriptures/nt/matt/5.43-44?lang=eng#42).)
+persecute you." ([Matt. 5:43-44](/scriptures/nt/matt/5.43-44?lang=eng#42).)
 
 Most of us have not reached that stage of compassion and love and forgiveness.
 It is not easy. It requires a self-discipline almost greater than we are
@@ -277,4 +274,6 @@ wonder. I testify of Him who is the great source of healing. He is the Son of
 God, the Redeemer of the world, "The Sun of Righteousness," who came "with
 healing in his wings." Of this I humbly testify in the name of the Lord Jesus
 Christ, amen.
+
+## References
 

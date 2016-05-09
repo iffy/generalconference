@@ -5,13 +5,13 @@ the Church!
 
 Others, too, teach us of women. In Proverbs we read, "Who can find a virtuous
 woman? for her price is far above rubies." ([Prov.
-31:10](https://www.lds.org/scriptures/ot/prov/31.10?lang=eng#9); [Prov.
-31:10-31](https://www.lds.org/scriptures/ot/prov/31.10-31?lang=eng#9).) The
-virtuous woman described in Proverbs was a woman who was prepared. She worked
-willingly, stretched out her hand to the poor, saw to the physical needs of
-her household, sought after knowledge. She had profound reverence for the
-Lord. While many of her tasks may appear to be temporal in nature, her
-blessings were eternal ones.
+31:10](/scriptures/ot/prov/31.10?lang=eng#9); [Prov.
+31:10-31](/scriptures/ot/prov/31.10-31?lang=eng#9).) The virtuous woman
+described in Proverbs was a woman who was prepared. She worked willingly,
+stretched out her hand to the poor, saw to the physical needs of her
+household, sought after knowledge. She had profound reverence for the Lord.
+While many of her tasks may appear to be temporal in nature, her blessings
+were eternal ones.
 
 When we speak of preparedness, often our first thoughts center on temporal or
 physical preparations--food, clothing, shelter. While these preparations are
@@ -20,7 +20,7 @@ important and necessary, they are not all-inclusive.
 There is a crucial balance between the temporal and the spiritual aspects of
 this principle. The Lord has said, "All things unto me are spiritual, and not
 at any time have I given unto you a law which was temporal." ([D&amp;C
-29:34](https://www.lds.org/scriptures/dc-testament/dc/29.34?lang=eng#33).)
+29:34](/scriptures/dc-testament/dc/29.34?lang=eng#33).)
 
 The Lord taught us a very important lesson when he visited the home of his
 friends Mary and Martha. While Martha attended to the needs of her guest, Mary
@@ -30,12 +30,12 @@ We read: "But Martha was cumbered about much serving, and came to him, and
 said, Lord, dost thou not care that my sister hath left me to serve alone? Bid
 her therefore that she help me.
 
-"And Jesus answered ... , Martha, Martha, thou art careful and troubled about
+"And Jesus answered ..., Martha, Martha, thou art careful and troubled about
 many things:
 
 "But one thing is needful: and Mary hath chosen that good part, which shall
 not be taken away from her." ([Luke
-10:40-42](https://www.lds.org/scriptures/nt/luke/10.40-42?lang=eng#39).)
+10:40-42](/scriptures/nt/luke/10.40-42?lang=eng#39).)
 
 In his counsel, "but one thing is needful," could the Lord have been referring
 to one thing lacking in Martha's preparation? Probably. There is need for
@@ -137,13 +137,11 @@ we are diverted from our course, serious weaknesses may appear in our lives
 and in the lives of family members, as well as in society.
 
 Because of "the subtle craftiness of men [who] lie in wait to deceive"
-([D&amp;C 123:12](https://www.lds.org/scriptures/dc-
-testament/dc/123.12?lang=eng#11)), many, even of the very elect, are being
-deceived. How diligently, sisters, we must strive to reach out to those who
-"know not where to find [the truth" ([D&amp;C
-123:12](https://www.lds.org/scriptures/dc-testament/dc/123.12?lang=eng#11))
-and bring them home again unto the fold. No effort is too great, no endeavor
-too much.
+([D&amp;C 123:12](/scriptures/dc-testament/dc/123.12?lang=eng#11)), many, even
+of the very elect, are being deceived. How diligently, sisters, we must strive
+to reach out to those who "know not where to find [the truth" ([D&amp;C
+123:12](/scriptures/dc-testament/dc/123.12?lang=eng#11)) and bring them home
+again unto the fold. No effort is too great, no endeavor too much.
 
 Our preparation does not always proceed just as we had planned it. My own
 mother has shared with me some of her goals and aspirations. Often as she
@@ -192,7 +190,7 @@ hands to help prepare the way for his coming.
 Sisters, "shall we not go on in so great a cause?" as we read in the Doctrine
 and Covenants. "Go forward and not backward. Courage ... and on, on to the
 victory! Let your hearts rejoice, and be exceedingly glad." ([D&amp;C
-128:22](https://www.lds.org/scriptures/dc-testament/dc/128.22?lang=eng#21).)
+128:22](/scriptures/dc-testament/dc/128.22?lang=eng#21).)
 
 I pray, sisters, that we will rejoice and go on to victory as we prepare for
 the second coming of our Savior. I pray that we will not be led away by the
@@ -200,18 +198,18 @@ subtle enticings of the world that sometimes come to us even from those near
 and dear to us--the enticings that say to us, "Seek for visibility; seek for
 power and influence; be sure your own needs are being met." These are not the
 teachings of him whose coming we await. He says to us, rather, be the servant
-of all (see [Mark
-9:35](https://www.lds.org/scriptures/nt/mark/9.35?lang=eng#34); [Matt.
-20:26-27](https://www.lds.org/scriptures/nt/matt/20.26-27?lang=eng#25)); "let
-your light so shine before men, that they may see your good works, and glorify
-your Father which is in heaven." ([Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).)
+of all (see [Mark 9:35](/scriptures/nt/mark/9.35?lang=eng#34); [Matt.
+20:26-27](/scriptures/nt/matt/20.26-27?lang=eng#25)); "let your light so shine
+before men, that they may see your good works, and glorify your Father which
+is in heaven." ([Matt. 5:16](/scriptures/nt/matt/5.16?lang=eng#15).)
 
 I pray that we will not be discouraged and not be led away, not be deceived--
 but "cheerfully do all things that lie in our power; and then may we stand
 still, with the utmost assurance, to see the salvation of God." ([D&amp;C
-123:17](https://www.lds.org/scriptures/dc-testament/dc/123.17?lang=eng#16).)
+123:17](/scriptures/dc-testament/dc/123.17?lang=eng#16).)
 
 I know our Father lives and that Jesus is the Christ. We are engaged in his
 work. I say these things in the name of Jesus Christ, amen.
+
+## References
 

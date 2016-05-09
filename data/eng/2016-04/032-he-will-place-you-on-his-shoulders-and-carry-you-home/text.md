@@ -241,3 +241,31 @@ and infinite joy we were designed to become.
 This is my testimony, my blessing, and my humble prayer in the sacred name of
 our Master, in the name of Jesus Christ, amen.
 
+## References
+
+  1. See Erich Kastner, _Als ich ein kleiner Junge war_ (1996), 51-52.
+
+  2. [Luke 15:4-5](https://www.lds.org/scriptures/nt/luke/15.4-5?lang=eng#3).
+
+  3. [Luke 15:6](https://www.lds.org/scriptures/nt/luke/15.6?lang=eng#5).
+
+  4. See "Know This, That Every Soul Is Free," _Hymns,_ no. 240.
+
+  5. [Joel 2:12](https://www.lds.org/scriptures/ot/joel/2.12?lang=eng#11).
+
+  6. [Matthew 11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).
+
+  7. [Doctrine and Covenants 88:63](https://www.lds.org/scriptures/dc-testament/dc/88.63?lang=eng#62).
+
+  8. See [Alma 32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26).
+
+  9. [Articles of Faith 1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2).
+
+  10. Erich Kastner, _Es gibt nichts Gutes, ausser: Man tut es_ (1950).
+
+  11. "Have I Done Any Good?" _Hymns,_ no. 223.
+
+  12. See [James 2:26](https://www.lds.org/scriptures/nt/james/2.26?lang=eng#25).
+
+  13. See [John 8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).
+

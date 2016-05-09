@@ -10,21 +10,20 @@ manuscript of the Book of Mormon. He chastened the Prophet also when his
 family did not live the gospel as they should.
 
 The Lord then firmly commanded his young servant: "Trifle not with sacred
-things." ([D&amp;C 6:12](https://www.lds.org/scriptures/dc-
-testament/dc/6.12?lang=eng#11).)
+things." ([D&amp;C 6:12](/scriptures/dc-testament/dc/6.12?lang=eng#11).)
 
 When speaking further about the translation of the ancient record, the Lord
-again commanded: "Trifle not with these things." ([D&amp;C
-8:10](https://www.lds.org/scriptures/dc-testament/dc/8.10?lang=eng#9).)
+again commanded: "Trifle not with these things." ([D&amp;C 8:10](/scriptures
+/dc-testament/dc/8.10?lang=eng#9).)
 
 And when the Lord gave instructions concerning missionary work, he again
 required that the brethren take his word seriously and declared, "They shall
-give heed unto these words and trifle not." ([D&amp;C
-32:5](https://www.lds.org/scriptures/dc-testament/dc/32.5?lang=eng#4).)
+give heed unto these words and trifle not." ([D&amp;C 32:5](/scriptures/dc-
+testament/dc/32.5?lang=eng#4).)
 
 Neither should we trifle with the Lord nor with his word, for as he himself
-said, God will not be mocked. (See [D&amp;C
-63:58](https://www.lds.org/scriptures/dc-testament/dc/63.58?lang=eng#57).)
+said, God will not be mocked. (See [D&amp;C 63:58](/scriptures/dc-
+testament/dc/63.58?lang=eng#57).)
 
 But in spite of all the Lord has said, mankind still trifles with his word,
 and either by neglect or outright disobedience they set aside his word with
@@ -54,7 +53,7 @@ but note the words of the Lord in this regard: "That thou mayest more fully
 keep thyself unspotted from the world"--note these words--"that thou mayest
 more fully keep thyself unspotted from the world, thou shalt go to the house
 of prayer and offer up thy sacraments upon my holy day." ([D&amp;C
-59:9](https://www.lds.org/scriptures/dc-testament/dc/59.9?lang=eng#8).)
+59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).)
 
 Think about that for a moment. Do we really believe in God--sincerely? Are we
 convinced that he knows what he is talking about? If we are, then will we take
@@ -86,14 +85,13 @@ evil consequences?
 Is there not deep meaning in what the Lord has said? Let us hear his words
 again: "That thou mayest more fully keep thyself unspotted from the world,
 thou shalt go to the house of prayer and offer up thy sacraments upon my holy
-day." ([D&amp;C 59:9](https://www.lds.org/scriptures/dc-
-testament/dc/59.9?lang=eng#8).)
+day." ([D&amp;C 59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).)
 
 Here then is the inspired answer to our vexing problem.
 
 The Lord then goes on to say, "For verily this is a day appointed unto you to
 rest from your labors, and to pay thy devotions unto the Most High." ([D&amp;C
-59:10](https://www.lds.org/scriptures/dc-testament/dc/59.10?lang=eng#9).)
+59:10](/scriptures/dc-testament/dc/59.10?lang=eng#9).)
 
 The scripture therefore requires that we not only desist from our usual
 pursuits, on his holy day, but that we do so with a particular purpose in
@@ -102,8 +100,8 @@ devotions unto the Most High. In plain, blunt words, we are commanded to
 change our usual routine and go to church and worship God on the Sabbath.
 
 The revelation then continues: "Nevertheless thy vows shall be offered up in
-righteousness on all days and at all times." ([D&amp;C
-59:11](https://www.lds.org/scriptures/dc-testament/dc/59.11?lang=eng#10).)
+righteousness on all days and at all times." ([D&amp;C 59:11](/scriptures/dc-
+testament/dc/59.11?lang=eng#10).)
 
 In other words, the Lord is not teaching a Sunday-only religion. We must be
 consistent and be obedient and worshipful every day. Can anyone develop
@@ -118,22 +116,21 @@ thee;
 
 "Leave there thy gift before the altar, and go thy way; first be reconciled to
 thy brother, and then come and offer thy gift." ([Matt.
-5:23-24](https://www.lds.org/scriptures/nt/matt/5.23-24?lang=eng#22).)
+5:23-24](/scriptures/nt/matt/5.23-24?lang=eng#22).)
 
 So he says in modern revelation: "Remember that on this, the Lord's day, thou
 shalt offer thine oblations and thy sacraments unto the Most High, confessing
-thy sins unto thy brethren, and before the Lord." ([D&amp;C
-59:12](https://www.lds.org/scriptures/dc-testament/dc/59.12?lang=eng#11).) The
-bishops are the brethren to be consulted concerning our sins.
+thy sins unto thy brethren, and before the Lord." ([D&amp;C 59:12](/scriptures
+/dc-testament/dc/59.12?lang=eng#11).) The bishops are the brethren to be
+consulted concerning our sins.
 
 Can we see, then, how proper observance of the Sabbath will influence our
 daily lives for good?
 
 Continuing to define what is acceptable to him on his holy day, the Lord says,
 "And on this day thou shalt do _none other thing,_ only let thy food be
-prepared with singleness of heart." ([D&amp;C
-59:13](https://www.lds.org/scriptures/dc-testament/dc/59.13?lang=eng#12).
-Italics added.)
+prepared with singleness of heart." ([D&amp;C 59:13](/scriptures/dc-
+testament/dc/59.13?lang=eng#12). Italics added.)
 
 If we are to do none other thing on Sunday but to devote the day to holy
 purposes, what is our situation if we willfully choose to operate our
@@ -158,10 +155,9 @@ In the time of Moses, the Lord impressively declared that the manner in which
 we spend the Sabbath is a sign of our inner attitude toward him. It is a
 measure of the sincerity of our faith. "It is a sign between me and the
 children of Israel for ever," God declared ([Ex.
-31:17](https://www.lds.org/scriptures/ot/ex/31.17?lang=eng#16)), and added:
-"Ye _shall_ keep the Sabbath therefore; for it is holy unto you." ([Ex.
-31:14](https://www.lds.org/scriptures/ot/ex/31.14?lang=eng#13). Italics
-added.)
+31:17](/scriptures/ot/ex/31.17?lang=eng#16)), and added: "Ye _shall_ keep the
+Sabbath therefore; for it is holy unto you." ([Ex.
+31:14](/scriptures/ot/ex/31.14?lang=eng#13). Italics added.)
 
 In that day he made its violation a capital offense, and violators were put to
 death. Then was not the Lord serious about Sabbath-day observance? Is he any
@@ -169,15 +165,14 @@ less so today? Has he changed his mind?
 
 He also gave the Sabbath to ancient Israel as a sign that he lives--a sign, as
 he said, "that ye may know that I am the Lord." ([Ex.
-31:13](https://www.lds.org/scriptures/ot/ex/31.13?lang=eng#12).) Then the
-Sabbath becomes a testimony builder, for if we keep it, our knowledge of and
-faith in the Lord will increase; and this should be very important to us.
+31:13](/scriptures/ot/ex/31.13?lang=eng#12).) Then the Sabbath becomes a
+testimony builder, for if we keep it, our knowledge of and faith in the Lord
+will increase; and this should be very important to us.
 
 If we violate his holy day--willingly and willfully--to that extent do we not
 become enemies of God? We do most certainly become covenant breakers, for he
 gave us his Sabbath by covenant--a perpetual covenant throughout all
-generations. (See [Ex.
-31:16](https://www.lds.org/scriptures/ot/ex/31.16?lang=eng#15).)
+generations. (See [Ex. 31:16](/scriptures/ot/ex/31.16?lang=eng#15).)
 
 President David O. McKay called attention to another most important phase of
 this subject. He said that the Christian Sabbath of course is Sunday, in
@@ -219,10 +214,12 @@ How dare we trifle with the Sabbath day?
 How dare we trifle with Almighty God?
 
 The Lord declares that to qualify to enter his presence we must live by every
-word that proceeds forth from his mouth (see [D&amp;C
-84:44](https://www.lds.org/scriptures/dc-testament/dc/84.44?lang=eng#43)), and
-the law of the Sabbath is one of the most important in the entire gospel plan.
+word that proceeds forth from his mouth (see [D&amp;C 84:44](/scriptures/dc-
+testament/dc/84.44?lang=eng#43)), and the law of the Sabbath is one of the
+most important in the entire gospel plan.
 
 May we have the courage and the good sense to keep it, I humbly pray in the
 sacred name of Jesus Christ. Amen.
+
+## References
 

@@ -5,8 +5,7 @@ nonmembers:
 
 The first Article of Faith of The Church of Jesus Christ of Latter-day Saints
 reads: "We believe in God, the Eternal Father, and in His Son, Jesus Christ,
-and in the Holy Ghost." [[A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0)]
+and in the Holy Ghost." [[A of F 1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0)]
 
 Last spring in general conference I spoke about "God, the Eternal Father."
 Today I shall speak about "His Son, Jesus Christ," our Redeemer. Since this is
@@ -26,8 +25,7 @@ were organized before the world was; and among all these there were many of
 the noble and great ones;
 
 "And God saw these souls that they were good, ... for he stood among those that
-were spirits. ..." ([Abr.
-3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21).)
+were spirits. ..." ([Abr. 3:22-23](/scriptures/pgp/abr/3.22-23?lang=eng#21).)
 
 In the following lines from his "Elias: An Epic of the Ages," the late Elder
 Orson F. Whitney paraphrased what Abraham and other seers have revealed
@@ -213,7 +211,7 @@ Lord commanded me.
 
 "And then the angel spake, saying: This thing is a similitude of the sacrifice
 of the Only Begotten of the Father. ..." ([Moses
-5:6-7](https://www.lds.org/scriptures/pgp/moses/5.6-7?lang=eng#5).)
+5:6-7](/scriptures/pgp/moses/5.6-7?lang=eng#5).)
 
 From that time until Christ's mortal ministry, all people who understood God's
 plan for man's eternal progression offered like sacrifice. This the Father
@@ -227,15 +225,13 @@ repent of all thy transgressions, and be baptized, even in water, in the name
 of mine Only Begotten Son, who is full of grace and truth, which is Jesus
 Christ, the only name which shall be given under heaven, whereby salvation
 shall come unto the children of men, ye shall receive the gift of the Holy
-Ghost. ..." ([Moses
-6:52](https://www.lds.org/scriptures/pgp/moses/6.52?lang=eng#51).)
+Ghost. ..." ([Moses 6:52](/scriptures/pgp/moses/6.52?lang=eng#51).)
 
 "Wherefore, thou shalt do all that thou doest in the name of the Son, and thou
 shalt repent and call upon God in the name of the Son forevermore.
 
 "And Adam and Eve ... made all things known unto their sons and their
-daughters." ([Moses 5:8,
-12](https://www.lds.org/scriptures/pgp/moses/5.8%2C12?lang=eng#7).)
+daughters." ([Moses 5:8, 12](/scriptures/pgp/moses/5.8,12?lang=eng#7).)
 
 From Adam to the meridian of time the inhabitants of the earth were repeatedly
 reminded of God's divine program for the salvation of men--the gospel of Jesus
@@ -254,8 +250,7 @@ and that eternally, even they who shall believe on my name. ...
 
 "Behold, this body, which ye now behold, is the body of my spirit; ... and even
 as I appear unto thee to be in the spirit will I appear unto my people in the
-flesh." ([Ether 3:13-14,
-16](https://www.lds.org/scriptures/bofm/ether/3.13-14%2C16?lang=eng#12).)
+flesh." ([Ether 3:13-14, 16](/scriptures/bofm/ether/3.13-14,16?lang=eng#12).)
 
 The Book of Mormon further records that some 2,200 years later, on the night
 before Christ was born, "the voice of the Lord came unto" another American
@@ -264,21 +259,19 @@ prophet, saying:
 "Lift up your head and be of good cheer; for behold, the time is at hand, ...
 and on the morrow come I into the world, to show unto the world that I will
 fulfill all that which I have caused to be spoken by the mouth of my holy
-prophets." ([3 Ne.
-1:13](https://www.lds.org/scriptures/bofm/3-ne/1.13?lang=eng#12).)
+prophets." ([3 Ne. 1:13](/scriptures/bofm/3-ne/1.13?lang=eng#12).)
 
 Every one of us, of course, knows of the angelic announcement on the fields of
 Bethlehem, "For unto you is born this day in the city of David a Saviour,
 which is Christ the Lord." ([Luke
-2:11](https://www.lds.org/scriptures/nt/luke/2.11?lang=eng#10).)
+2:11](/scriptures/nt/luke/2.11?lang=eng#10).)
 
 Both the Father and the Son have repeatedly born convincing witness that Jesus
 is our Redeemer. At Christ's baptism the Father said: "... Thou art my beloved
 Son; in thee I am well pleased" ([Luke
-3:22](https://www.lds.org/scriptures/nt/luke/3.22?lang=eng#21)); and later on
-the Mount of Transfiguration, "... This is my beloved Son, in whom I am well
-pleased; hear ye him" ([Matt.
-17:5](https://www.lds.org/scriptures/nt/matt/17.5?lang=eng#4)).
+3:22](/scriptures/nt/luke/3.22?lang=eng#21)); and later on the Mount of
+Transfiguration, "... This is my beloved Son, in whom I am well pleased; hear ye
+him" ([Matt. 17:5](/scriptures/nt/matt/17.5?lang=eng#4)).
 
 The New Testament repeatedly makes record of Christ's own witness to his
 identity and mission. One of the most impressive declarations of both the
@@ -288,8 +281,7 @@ Jerusalem. To them the Father introduced the resurrected Jesus with these
 words:
 
 "Behold my Beloved Son, in whom I am well pleased, in whom I have glorified my
-name--hear ye him." ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).)
+name--hear ye him." ([3 Ne. 11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).)
 
 Whereupon, Jesus himself, the resurrected Jesus, descended from heaven "... and
 stood in the midst of them. ...
@@ -297,16 +289,14 @@ stood in the midst of them. ...
 "... and spake unto [them], saying:
 
 "Behold, I am Jesus Christ, whom the prophets testified shall come into the
-world." ([3 Ne.
-11:8-10](https://www.lds.org/scriptures/bofm/3-ne/11.8-10?lang=eng#7).)
+world." ([3 Ne. 11:8-10](/scriptures/bofm/3-ne/11.8-10?lang=eng#7).)
 
 "Behold, I have come unto the world to bring redemption unto the world, to
 save the world from sin.
 
 "Therefore, whoso repenteth and cometh unto me as a little child, him will I
 receive; ... therefore repent, and come unto me ye ends of the earth, and be
-saved." ([3 Ne.
-9:21-22](https://www.lds.org/scriptures/bofm/3-ne/9.21-22?lang=eng#20).)
+saved." ([3 Ne. 9:21-22](/scriptures/bofm/3-ne/9.21-22?lang=eng#20).)
 
 Since time will permit but one more testimony to Christ's appointment and
 mission as Redeemer, I now want to bear my own testimony.
@@ -343,19 +333,18 @@ theophanies ever given to man. The Prophet thus spoke of it:
 glory defy all description, standing above me in the air. One of them spake
 unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 Jesus is as he said, "the life and light of the world" ([D&amp;C
-10:70](https://www.lds.org/scriptures/dc-testament/dc/10.70?lang=eng#69)); "...
-Jesus Christ is the name which is given of the Father, and there is none other
-name given whereby man can be saved" ([D&amp;C
-18:23](https://www.lds.org/scriptures/dc-testament/dc/18.23?lang=eng#22)). His
-"Spirit giveth light to every man that cometh into the world" and continues to
-enlighten "every man through the world, that hearkeneth to the voice of the
-Spirit.
+10:70](/scriptures/dc-testament/dc/10.70?lang=eng#69)); "... Jesus Christ is the
+name which is given of the Father, and there is none other name given whereby
+man can be saved" ([D&amp;C 18:23](/scriptures/dc-
+testament/dc/18.23?lang=eng#22)). His "Spirit giveth light to every man that
+cometh into the world" and continues to enlighten "every man through the
+world, that hearkeneth to the voice of the Spirit.
 
 "... every one that hearkeneth to the voice of the Spirit cometh unto God, even
-the Father." ([D&amp;C 84:46-47](https://www.lds.org/scriptures/dc-
+the Father." ([D&amp;C 84:46-47](/scriptures/dc-
 testament/dc/84.46-47?lang=eng#45).)
 
 I further testify that The Church of Jesus Christ of Latter-day Saints--
@@ -365,4 +354,6 @@ charged by him to teach his gospel and administer its saving ordinances, all
 to the end that men may qualify for the blessings, joy and glory placed within
 their reach by Jesus Christ, their Lord and their Redeemer. I bear witness to
 all these things in the holy name of Jesus Christ, our Redeemer. Amen.
+
+## References
 

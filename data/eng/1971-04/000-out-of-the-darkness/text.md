@@ -92,8 +92,8 @@ doctrines of salvation and find the authority of the holy priesthood.
 We believe the Holy Ghost is a revelator and that he will bear testimony to
 honest people everywhere that Jesus Christ is the Son of God, that Joseph
 Smith is a prophet, and that this church is "the only true and living church
-upon the face of the whole earth." ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29).)
+upon the face of the whole earth." ([D&amp;C 1:30](/scriptures/dc-
+testament/dc/1.30?lang=eng#29).)
 
 There is no need for anyone to remain in darkness; the light of the
 everlasting gospel is here; and every sincere investigator on earth can gain a
@@ -102,9 +102,9 @@ Lord's work.
 
 Peter said: "... God is no respecter of persons: But in every nation he that
 feareth him, and worketh righteousness, is accepted" by him ([Acts
-10:34-35](https://www.lds.org/scriptures/nt/acts/10.34-35?lang=eng#33)), which
-means that the Lord will pour out his Spirit upon the faithful so they will
-know of themselves of the truths of this religion.
+10:34-35](/scriptures/nt/acts/10.34-35?lang=eng#33)), which means that the
+Lord will pour out his Spirit upon the faithful so they will know of
+themselves of the truths of this religion.
 
 Now, as one among you who has come to know, by the power of the Holy Ghost,
 that the Lord has restored his gospel and set up his kingdom again on the
@@ -122,4 +122,6 @@ before the Lord may become inheritors with us of the fullness of the blessings
 of the restored gospel.
 
 I say this in the name of the Lord Jesus Christ. Amen.
+
+## References
 

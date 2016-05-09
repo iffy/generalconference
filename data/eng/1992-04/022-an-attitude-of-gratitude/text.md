@@ -31,8 +31,7 @@ nine?
 "There are not found that returned to give glory to God, save this stranger.
 
 "And he said unto him, Arise, go thy way: thy faith hath made thee whole."
-([Luke
-17:11-19](https://www.lds.org/scriptures/nt/luke/17.11-19?lang=eng#10).)
+([Luke 17:11-19](/scriptures/nt/luke/17.11-19?lang=eng#10).)
 
 Through divine intervention, those who were lepers were spared from a cruel,
 lingering death and given a new lease on life. The expressed gratitude by one
@@ -54,7 +53,7 @@ _Eliminate the negative._
 
 _Latch on to the affirmative;_
 
-_Don't mess with Mr. In-between._ [1]
+_Don't mess with Mr. In-between._[1]
 
 Good advice then. Good advice now.
 
@@ -100,9 +99,8 @@ when he declared, "God could not be everywhere, and so He gave us mothers."
 While on the cruel cross of Calvary, suffering intense pain and anguish, Jesus
 "saw his mother, and the disciple standing by, whom he loved, he saith unto
 his mother, Woman, behold thy son! Then saith he to the disciple, Behold thy
-mother!" ([John
-19:26-27](https://www.lds.org/scriptures/nt/john/19.26-27?lang=eng#25).) What
-a divine example of gratitude and love!
+mother!" ([John 19:26-27](/scriptures/nt/john/19.26-27?lang=eng#25).) What a
+divine example of gratitude and love!
 
 My own mother may not have read to me from the scriptures; rather, she taught
 me by her life and actions what the "Good Book" contains. Care for the poor,
@@ -187,8 +185,7 @@ Billy Devenport in his great loss.
 
 The lesson that Sunday was from the book of Acts, chapter 20, verse 35:
 "Remember the words of the Lord Jesus, how he said, It is more blessed to give
-than to receive." [[Acts
-20:35](https://www.lds.org/scriptures/nt/acts/20.35?lang=eng#34)] At the
+than to receive." [[Acts 20:35](/scriptures/nt/acts/20.35?lang=eng#34)] At the
 conclusion of the presentation of a well-prepared lesson, Lucy Gertsch
 commented on the economic situation of Billy's family. These were depression
 times; money was scarce. With a twinkle in her eyes, she asked, "How would you
@@ -234,7 +231,7 @@ husband.
 
 The Lord spoke the word _friend _almost with a reverence. He said, "Ye are my
 friends, if ye do whatsoever I command you." ([John
-15:14](https://www.lds.org/scriptures/nt/john/15.14?lang=eng#13).)
+15:14](/scriptures/nt/john/15.14?lang=eng#13).)
 
 True friends put up with our idiosyncrasies. They have a profound influence in
 our lives.
@@ -257,9 +254,9 @@ Fifth, may we acknowledge gratitude for our _country_--the land of our birth.
 When we ponder that vast throng who have died honorably defending home and
 hearth, we contemplate those immortal words, "Greater love hath no man than
 this, that a man lay down his life for his friends" ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12)). The
-feelings of heartfelt gratitude for the supreme sacrifice made by so many
-cannot be confined to a Memorial Day, a military parade, or a decorated grave.
+15:13](/scriptures/nt/john/15.13?lang=eng#12)). The feelings of heartfelt
+gratitude for the supreme sacrifice made by so many cannot be confined to a
+Memorial Day, a military parade, or a decorated grave.
 
 At the famed Theatre Royal, situated on Drury Lane in London, England, is a
 beautifully framed plaque containing words which touch my very soul and prompt
@@ -279,7 +276,7 @@ _Behold the price at which those hours were bought,_
 
 _Strew here the fragrance of memorial flowers,_
 
-_The silent tribute of a grateful thought._ [2]
+_The silent tribute of a grateful thought._[2]
 
 Sixth and finally--even supremely--let us reflect gratitude for our _Lord and
 Savior, Jesus Christ._ His glorious gospel provides answers to life's greatest
@@ -306,27 +303,23 @@ the sinner He saved.
 Only He stood alone. Some Apostles doubted; one betrayed Him. The Roman
 soldiers pierced His side. The angry mob took His life. There yet rings from
 Golgotha's hill His compassionate words, "Father, forgive them; for they know
-not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+not what they do." ([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 Earlier, perhaps perceiving the culmination of His earthly mission, He spoke
 the lament, "Foxes have holes, and birds of the air have nests; but the Son of
 man hath not where to lay his head." ([Luke
-9:58](https://www.lds.org/scriptures/nt/luke/9.58?lang=eng#57).) "No room in
-the inn" was not a singular expression of rejection--just the first. Yet He
-invites you and me to host Him. "Behold, I stand at the door, and knock: if
-any man hear my voice, and open the door, I will come in to him, and will sup
-with him, and he with me." ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).)
+9:58](/scriptures/nt/luke/9.58?lang=eng#57).) "No room in the inn" was not a
+singular expression of rejection--just the first. Yet He invites you and me to
+host Him. "Behold, I stand at the door, and knock: if any man hear my voice,
+and open the door, I will come in to him, and will sup with him, and he with
+me." ([Rev. 3:20](/scriptures/nt/rev/3.20?lang=eng#19).)
 
 Who was this Man of sorrows, acquainted with grief? Who is this King of glory,
 this Lord of hosts? He is our Master. He is our Savior. He is the Son of God.
 He is the author of our salvation. He beckons, "Follow me." ([Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18).) He instructs,
-"Go, and do thou likewise." ([Luke
-10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).) He pleads,
-"Keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+4:19](/scriptures/nt/matt/4.19?lang=eng#18).) He instructs, "Go, and do thou
+likewise." ([Luke 10:37](/scriptures/nt/luke/10.37?lang=eng#36).) He pleads,
+"Keep my commandments." ([John 14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 Let us follow Him. Let us emulate His example. Let us obey His word. By so
 doing, we give to Him the divine gift of gratitude.
@@ -336,7 +329,7 @@ marvelous virtue: an attitude of gratitude. In the name of Jesus Christ, amen.
 
 ## References
 
-  1.  "Ac-cen-tu-ate the Positive," lyrics by Johnny Mercer, ASCAP, 1945.
+  1. "Ac-cen-tu-ate the Positive," lyrics by Johnny Mercer, ASCAP, 1945.
 
-  2.  Louise N. Parter.
+  2. Louise N. Parter.
 

@@ -64,15 +64,15 @@ have been a stronger endorsement?
 
 Is it strange that James, writing anciently, would invite all who lacked
 wisdom to ask of God in faith? (see [James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4)). Is it strange
-that such prayer would receive an answer? I thank the Lord for the faith to
-believe that the answer to that prayer came with a glorious manifestation of
-the Eternal Father and His Beloved Son, to part the curtain after centuries of
-darkness and open a new and promised and final dispensation of the gospel. Did
-it happen? I have no doubt of it. Was it not time, as a great age of
-enlightenment began to dawn upon the world, that these, the Father and the
-Son, should reveal themselves to show their form and power and living reality,
-and thus declare, once and for all, the true nature of Deity?
+1:5](/scriptures/nt/james/1.5?lang=eng#4)). Is it strange that such prayer
+would receive an answer? I thank the Lord for the faith to believe that the
+answer to that prayer came with a glorious manifestation of the Eternal Father
+and His Beloved Son, to part the curtain after centuries of darkness and open
+a new and promised and final dispensation of the gospel. Did it happen? I have
+no doubt of it. Was it not time, as a great age of enlightenment began to dawn
+upon the world, that these, the Father and the Son, should reveal themselves
+to show their form and power and living reality, and thus declare, once and
+for all, the true nature of Deity?
 
 I thank the Almighty for my testimony of the Book of Mormon, this wonderful
 companion to the Holy Bible. It is strange to me that unbelieving critics must
@@ -106,7 +106,7 @@ written by this man, like as one crying from the dead, yea, even as one
 speaking out of the dust? ...
 
 "And God shall show unto you, that that which I have written is true" ([Moro.
-10:27, 29](https://www.lds.org/scriptures/bofm/moro/10.27%2C29?lang=eng#26)).
+10:27, 29](/scriptures/bofm/moro/10.27,29?lang=eng#26)).
 
 I thank the Lord, my brethren, that I will not have to wait to meet Moroni
 before I know the truth of his words. I know this now and have known it for a
@@ -114,13 +114,13 @@ long time by the power of the Holy Ghost.
 
 I thank my Eternal Father for the restoration of the holy priesthood, that
 "every man might speak in the name of God the Lord, even the Savior of the
-world" ([D&amp;C 1:20](https://www.lds.org/scriptures/dc-
-testament/dc/1.20?lang=eng#19)). I have seen the beauty and wonder of that
-priesthood in the governance of this remarkable church. I have felt its power
-flow through me to the blessing and the healing of the sick. I have seen the
-ennoblement it has given to humble men who have been called to great and
-serious responsibility. I have seen it as they have spoken with power and
-authority from on high as if the voice of God were speaking through them.
+world" ([D&amp;C 1:20](/scriptures/dc-testament/dc/1.20?lang=eng#19)). I have
+seen the beauty and wonder of that priesthood in the governance of this
+remarkable church. I have felt its power flow through me to the blessing and
+the healing of the sick. I have seen the ennoblement it has given to humble
+men who have been called to great and serious responsibility. I have seen it
+as they have spoken with power and authority from on high as if the voice of
+God were speaking through them.
 
 I thank the Lord for the testimony he has given me of the wholeness of the
 gospel, of its breadth and reach and depth. It is designed to bless the sons
@@ -149,8 +149,7 @@ and of his glory; ...
 "These are they whose bodies are celestial, whose glory is that of the sun,
 even the glory of God, the highest of all, whose glory the sun of the
 firmament is written of as being typical" ([D&amp;C 76:50-51, 55-56,
-70](https://www.lds.org/scriptures/dc-
-testament/dc/76.50-51%2C55-56%2C70?lang=eng#49)).
+70](/scriptures/dc-testament/dc/76.50-51,55-56,70?lang=eng#49)).
 
 These are not, I submit, the words of Joseph Smith the man. They are words of
 divine revelation that speak of the glorious opportunity, the promised
@@ -235,9 +234,8 @@ those who try. The promise is before us that if we will do so, we shall
 receive health in the navel and marrow in the bones and shall find wisdom and
 great treasures of knowledge, even hidden treasures, and shall run and not be
 weary, and shall walk and not faint; and the destroying angel shall pass by us
-as the children of Israel and not slay us (see [D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17)). To me it is marvelous that beyond the
+as the children of Israel and not slay us (see [D&amp;C 89:18-21](/scriptures
+/dc-testament/dc/89.18-21?lang=eng#17)). To me it is marvelous that beyond the
 promises of a physical nature is the promise of hidden treasures of knowledge
 concerning things divine and eternal.
 
@@ -279,4 +277,6 @@ Redeemer for His supreme gift to all, the gift of eternal life. These are they
 whom I worship and reverence and love. These are they to whom and through whom
 I pray. They are my Father and my God, my Redeemer and my Lord. And of them I
 testify in the sacred name of Jesus Christ, amen.
+
+## References
 

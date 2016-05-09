@@ -21,11 +21,10 @@ blessing of so many!
 
 As I have sought direction from the Lord, I have had reaffirmed in my mind and
 heart the declaration of the Lord to "say nothing but repentance unto this
-generation." ([D&amp;C 6:9](https://www.lds.org/scriptures/dc-
-testament/dc/6.9?lang=eng#8); [D&amp;C 11:9](https://www.lds.org/scriptures
-/dc-testament/dc/11.9?lang=eng#8).) This has been a theme of every latter-day
-prophet, along with their testimony that Jesus is the Christ and that Joseph
-Smith is a prophet of God.
+generation." ([D&amp;C 6:9](/scriptures/dc-testament/dc/6.9?lang=eng#8);
+[D&amp;C 11:9](/scriptures/dc-testament/dc/11.9?lang=eng#8).) This has been a
+theme of every latter-day prophet, along with their testimony that Jesus is
+the Christ and that Joseph Smith is a prophet of God.
 
 Repentance was the cry of our late and great prophet, Spencer W. Kimball. This
 theme permeated his talks and the pages of his writings, such as his marvelous
@@ -34,13 +33,13 @@ member and to nonmember alike--repent.
 
 Watchmen--what of the night? We must respond by saying that all is not well in
 Zion. As Moroni counseled, we must cleanse the inner vessel (see [Alma
-60:23](https://www.lds.org/scriptures/bofm/alma/60.23?lang=eng#22)), beginning
-first with ourselves, then with our families, and finally with the Church.
+60:23](/scriptures/bofm/alma/60.23?lang=eng#22)), beginning first with
+ourselves, then with our families, and finally with the Church.
 
 A prophet of God stated, "Ye shall clear away the bad according as the good
 shall grow ... until the good shall overcome the bad." ([Jacob
-5:66](https://www.lds.org/scriptures/bofm/jacob/5.66?lang=eng#65).) It takes a
-Zion people to make a Zion society, and we must prepare for that.
+5:66](/scriptures/bofm/jacob/5.66?lang=eng#65).) It takes a Zion people to
+make a Zion society, and we must prepare for that.
 
 During the past few years a number of resources have been set in place in the
 Church to help us. New editions of the scriptures have been published--are we
@@ -49,10 +48,9 @@ we going to the house of the Lord more frequently? The consolidated meeting
 schedule was set up--are we taking advantage of the increased time with our
 families? A special home evening manual was provided--are we using it? A new
 hymnal has just been published--are we singing more songs of the heart? (See
-[D&amp;C 25:12](https://www.lds.org/scriptures/dc-
-testament/dc/25.12?lang=eng#11).) And so the list goes on and on. We have
-received much help. We don't need changed programs now as much as we need
-changed people!
+[D&amp;C 25:12](/scriptures/dc-testament/dc/25.12?lang=eng#11).) And so the
+list goes on and on. We have received much help. We don't need changed
+programs now as much as we need changed people!
 
 We remember our beloved President Kimball for many marvelous words of counsel,
 among which was his encouragement to "lengthen our stride." We needed that
@@ -61,15 +59,14 @@ the last days: "And others will he pacify, and lull them away into carnal
 security, that they will say: All is well in Zion; yea, Zion prospereth, all
 is well--and thus the devil cheateth their souls, and leadeth them away
 carefully down to hell." ([2 Ne.
-28:21](https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20).)
+28:21](/scriptures/bofm/2-ne/28.21?lang=eng#20).)
 
 There are many "awake" passages in the Book of Mormon, such as: "O that ye
 would awake; awake from a deep sleep, yea, even from the sleep of hell ... awake
 ... [and] put on the armor of righteousness. Shake off the chains with which ye
 are bound, and come forth out of obscurity, and arise from the dust." ([2 Ne.
-1:13, 23](https://www.lds.org/scriptures/bofm/2-ne/1.13%2C23?lang=eng#12).) As
-a people, it seems we can survive persecution easier and better than we can
-peace and prosperity.
+1:13, 23](/scriptures/bofm/2-ne/1.13,23?lang=eng#12).) As a people, it seems
+we can survive persecution easier and better than we can peace and prosperity.
 
 The plaguing sin of this generation is sexual immorality. This, the Prophet
 Joseph said, would be the source of more temptations, more buffetings, and
@@ -81,29 +78,28 @@ dangers that would threaten the Church within--and so it does. (See _Gospel
 Doctrine,_ pp. 312-13.) It permeates our society.
 
 In the category of sins, the Book of Mormon places unchastity next to murder.
-(See [Alma 39:5](https://www.lds.org/scriptures/bofm/alma/39.5?lang=eng#4).)
-As Alma states, "Now ... I would that ye should repent and forsake your sins,
-and go no more after the lusts of your eyes, ... for except ye do this ye can in
-nowise inherit the kingdom of God." ([Alma
-39:9](https://www.lds.org/scriptures/bofm/alma/39.9?lang=eng#8).) If we are to
-cleanse the inner vessel, we must forsake immorality and be clean.
+(See [Alma 39:5](/scriptures/bofm/alma/39.5?lang=eng#4).) As Alma states, "Now
+... I would that ye should repent and forsake your sins, and go no more after
+the lusts of your eyes, ... for except ye do this ye can in nowise inherit the
+kingdom of God." ([Alma 39:9](/scriptures/bofm/alma/39.9?lang=eng#8).) If we
+are to cleanse the inner vessel, we must forsake immorality and be clean.
 
 Unless we read the Book of Mormon and give heed to its teachings, the Lord has
 stated in section 84 of the Doctrine and Covenants that the whole Church is
 under condemnation: "And this condemnation resteth upon the children of Zion,
-even all." ([D&amp;C 84:56](https://www.lds.org/scriptures/dc-
-testament/dc/84.56?lang=eng#55).) The Lord continues: "And they shall remain
-under this condemnation until they repent and remember the new covenant, even
-the Book of Mormon and the former commandments which I have given them, not
-only to say, but to do according to that which I have written." ([D&amp;C
-84:57](https://www.lds.org/scriptures/dc-testament/dc/84.57?lang=eng#56).)
+even all." ([D&amp;C 84:56](/scriptures/dc-testament/dc/84.56?lang=eng#55).)
+The Lord continues: "And they shall remain under this condemnation until they
+repent and remember the new covenant, even the Book of Mormon and the former
+commandments which I have given them, not only to say, but to do according to
+that which I have written." ([D&amp;C 84:57](/scriptures/dc-
+testament/dc/84.57?lang=eng#56).)
 
 Now we not only need to _say_ more about the Book of Mormon, but we need to
 _do_ more with it. Why? The Lord answers: "That they may bring forth fruit
 meet for their Father's kingdom; otherwise there remaineth a scourge and
 judgment to be poured out upon the children of Zion." ([D&amp;C
-84:58](https://www.lds.org/scriptures/dc-testament/dc/84.58?lang=eng#57).) We
-have felt that scourge and judgment!
+84:58](/scriptures/dc-testament/dc/84.58?lang=eng#57).) We have felt that
+scourge and judgment!
 
 The Prophet Joseph said that "the Book of Mormon was the most correct of any
 book on earth, and the keystone of our religion, and a man would get nearer to
@@ -115,10 +111,10 @@ the Book of Mormon than President Marion G. Romney. In a general conference
 address, he declared that the Book of Mormon was "the most effective piece of
 missionary literature we have." He quoted the Doctrine and Covenants, which
 states that "the Book of Mormon and the holy scriptures are given of me for
-your instruction" ([D&amp;C 33:16](https://www.lds.org/scriptures/dc-
+your instruction" ([D&amp;C 33:16](/scriptures/dc-
 testament/dc/33.16?lang=eng#15)) and that "the elders, priests and teachers of
 this church shall teach the principles of my gospel, which are in the Bible
-and the Book of Mormon." ([D&amp;C 42:12](https://www.lds.org/scriptures/dc-
+and the Book of Mormon." ([D&amp;C 42:12](/scriptures/dc-
 testament/dc/42.12?lang=eng#11).) President Romney added, "It is of course
 obvious that unless we read, study, and learn the principles which are in the
 Book of Mormon, we, the elders, priests, and teachers of this church, cannot
@@ -128,9 +124,9 @@ comply with this direction to teach them.
 continued. "By doing so we will fill and refresh our minds with the constant
 flow of that 'water' which Jesus said would be in us--'a well of water
 springing up into everlasting life.' ([John
-4:14](https://www.lds.org/scriptures/nt/john/4.14?lang=eng#13).) We must
-obtain a continuing supply of this water if we are to resist evil and retain
-the blessings of being born again. ...
+4:14](/scriptures/nt/john/4.14?lang=eng#13).) We must obtain a continuing
+supply of this water if we are to resist evil and retain the blessings of
+being born again. ...
 
 "If we would avoid adopting the evils of the world, we must pursue a course
 which will daily feed our minds with and call them back to the things of the
@@ -161,47 +157,41 @@ speaking of pride as the universal sin, as someone has described it.
 
 Mormon writes that "the pride of this nation, or the people of the Nephites,
 hath proven their destruction." ([Moro.
-8:27](https://www.lds.org/scriptures/bofm/moro/8.27?lang=eng#26).) The Lord
-says in the Doctrine and Covenants, "Beware of pride, lest ye become as the
-Nephites of old." ([D&amp;C 38:39](https://www.lds.org/scriptures/dc-
-testament/dc/38.39?lang=eng#38).)
+8:27](/scriptures/bofm/moro/8.27?lang=eng#26).) The Lord says in the Doctrine
+and Covenants, "Beware of pride, lest ye become as the Nephites of old."
+([D&amp;C 38:39](/scriptures/dc-testament/dc/38.39?lang=eng#38).)
 
 Essentially, pride is a "my will" rather than "thy will" approach to life. The
 opposite of pride is humbleness, meekness, submissiveness (see [Alma
-13:28](https://www.lds.org/scriptures/bofm/alma/13.28?lang=eng#27)), or
-teachableness.
+13:28](/scriptures/bofm/alma/13.28?lang=eng#27)), or teachableness.
 
 In the early days of the restored church, the Lord warned two of its prominent
 members about pride. To Oliver Cowdery, He said, "Beware of pride, lest thou
-shouldst enter into temptation." ([D&amp;C
-23:1](https://www.lds.org/scriptures/dc-testament/dc/23.1?lang=eng#0).) To
-Emma Smith, He said, "Continue in the spirit of meekness, and beware of
-pride." ([D&amp;C 25:14](https://www.lds.org/scriptures/dc-
+shouldst enter into temptation." ([D&amp;C 23:1](/scriptures/dc-
+testament/dc/23.1?lang=eng#0).) To Emma Smith, He said, "Continue in the
+spirit of meekness, and beware of pride." ([D&amp;C 25:14](/scriptures/dc-
 testament/dc/25.14?lang=eng#13).)
 
 "Thou shalt not be proud in thy heart," the Lord warns us. ([D&amp;C
-42:40](https://www.lds.org/scriptures/dc-testament/dc/42.40?lang=eng#39).)
-"Humble yourselves before God," says the Book of Mormon. ([Mosiah
-4:10](https://www.lds.org/scriptures/bofm/mosiah/4.10?lang=eng#9).)
+42:40](/scriptures/dc-testament/dc/42.40?lang=eng#39).) "Humble yourselves
+before God," says the Book of Mormon. ([Mosiah
+4:10](/scriptures/bofm/mosiah/4.10?lang=eng#9).)
 
 When the earth is cleansed by burning in the last days, the proud shall be as
-stubble. (See [3 Ne.
-25:1](https://www.lds.org/scriptures/bofm/3-ne/25.1?lang=eng#0); [D&amp;C
-29:9](https://www.lds.org/scriptures/dc-testament/dc/29.9?lang=eng#8);
-[D&amp;C 64:24](https://www.lds.org/scriptures/dc-
-testament/dc/64.24?lang=eng#23).)
+stubble. (See [3 Ne. 25:1](/scriptures/bofm/3-ne/25.1?lang=eng#0); [D&amp;C
+29:9](/scriptures/dc-testament/dc/29.9?lang=eng#8); [D&amp;C
+64:24](/scriptures/dc-testament/dc/64.24?lang=eng#23).)
 
 The great and spacious building which Lehi saw was the pride of the world
 where the multitude of the earth was gathered. (See [1 Ne.
-11:35-36](https://www.lds.org/scriptures/bofm/1-ne/11.35-36?lang=eng#34).)
-Those who walked the straight and narrow path and held onto the word of God
-and partook of the love of God were mocked and scorned by those in the
-building. (See [1 Ne. 8:20, 27,
-33](https://www.lds.org/scriptures/bofm/1-ne/8.20%2C27%2C33?lang=eng#19); [1
-Ne. 11:25](https://www.lds.org/scriptures/bofm/1-ne/11.25?lang=eng#24).)
+11:35-36](/scriptures/bofm/1-ne/11.35-36?lang=eng#34).) Those who walked the
+straight and narrow path and held onto the word of God and partook of the love
+of God were mocked and scorned by those in the building. (See [1 Ne. 8:20, 27,
+33](/scriptures/bofm/1-ne/8.20,27,33?lang=eng#19); [1 Ne.
+11:25](/scriptures/bofm/1-ne/11.25?lang=eng#24).)
 
 "The humble followers of Christ" are few. ([2 Ne.
-28:14](https://www.lds.org/scriptures/bofm/2-ne/28.14?lang=eng#13).)
+28:14](/scriptures/bofm/2-ne/28.14?lang=eng#13).)
 
 Pride does not look up to God and care about what is right. It looks sideways
 to man and argues who is right. Pride is manifest in the spirit of contention.
@@ -224,25 +214,23 @@ to the humble, the applause of heaven warms their hearts.
 Someone has said, "Pride gets no pleasure out of having something, only out of
 having more of it than the next man." Of one brother, the Lord said, "I, the
 Lord, am not well pleased with him, for he seeketh to excel, and he is not
-sufficiently meek before me." ([D&amp;C 58:41](https://www.lds.org/scriptures
-/dc-testament/dc/58.41?lang=eng#40).)
+sufficiently meek before me." ([D&amp;C 58:41](/scriptures/dc-
+testament/dc/58.41?lang=eng#40).)
 
 The two groups in the Book of Mormon that seemed to have the greatest
 difficulty with pride are the "learned, and the rich." ([2 Ne.
-28:15](https://www.lds.org/scriptures/bofm/2-ne/28.15?lang=eng#14).) But the
-word of God can pull down pride. (See [Alma
-4:19](https://www.lds.org/scriptures/bofm/alma/4.19?lang=eng#18).)
+28:15](/scriptures/bofm/2-ne/28.15?lang=eng#14).) But the word of God can pull
+down pride. (See [Alma 4:19](/scriptures/bofm/alma/4.19?lang=eng#18).)
 
 With pride, there are many curses. With humility, there come many blessings.
 For example, "Be thou humble; and the Lord thy God shall lead thee by the
-hand, and give thee answer to thy prayers." ([D&amp;C
-112:10](https://www.lds.org/scriptures/dc-testament/dc/112.10?lang=eng#9).)
-The humble will "be made strong, and blessed from on high, and receive
-knowledge." ([D&amp;C 1:28](https://www.lds.org/scriptures/dc-
+hand, and give thee answer to thy prayers." ([D&amp;C 112:10](/scriptures/dc-
+testament/dc/112.10?lang=eng#9).) The humble will "be made strong, and blessed
+from on high, and receive knowledge." ([D&amp;C 1:28](/scriptures/dc-
 testament/dc/1.28?lang=eng#27).) The Lord is "merciful unto those who confess
-their sins with humble hearts." ([D&amp;C 61:2](https://www.lds.org/scriptures
-/dc-testament/dc/61.2?lang=eng#1).) Humility can turn away God's anger. (See
-[Hel. 11:11](https://www.lds.org/scriptures/bofm/hel/11.11?lang=eng#10).)
+their sins with humble hearts." ([D&amp;C 61:2](/scriptures/dc-
+testament/dc/61.2?lang=eng#1).) Humility can turn away God's anger. (See [Hel.
+11:11](/scriptures/bofm/hel/11.11?lang=eng#10).)
 
 My beloved brethren and sisters, as we cleanse the inner vessel, there will
 have to be changes made in our own personal lives, in our families, and in the
@@ -259,4 +247,6 @@ humbling ourselves.
 We can do it. I know we can. That we will do so is my prayer for all of us.
 God bless you for all the good you have done and will be doing. I leave my
 blessings on all of you and do so in the name of the Lord Jesus Christ, amen.
+
+## References
 

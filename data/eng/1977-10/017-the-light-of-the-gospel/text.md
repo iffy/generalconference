@@ -10,8 +10,7 @@ the deep. And the Spirit of God moved upon the face of the waters.
 "And God said, Let there be light: and there was light.
 
 "And God saw the light, that it was good: and God divided the light from the
-darkness." ([Gen.
-1:1-4](https://www.lds.org/scriptures/ot/gen/1.1-4?lang=eng#0).)
+darkness." ([Gen. 1:1-4](/scriptures/ot/gen/1.1-4?lang=eng#0).)
 
 We note from this scripture that God _knew_ there _must be light,_ for light
 was good, and he divided the light from the darkness.
@@ -44,8 +43,7 @@ Let us further clarify these meanings by referring to the scriptures.
 
 We read in John: "Then spake Jesus again unto them, saying, I am the light of
 the world: he that followeth me shall not walk in darkness, but shall have the
-light of life." ([John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).)
+light of life." ([John 8:12](/scriptures/nt/john/8.12?lang=eng#11).)
 
 Jesus also said, referring to himself as the Son of God:
 
@@ -60,7 +58,7 @@ loved darkness rather than light, because their deeds were evil.
 lest his deeds should be reproved.
 
 "But he that doeth truth cometh to the light." ([John
-3:18-21](https://www.lds.org/scriptures/nt/john/3.18-21?lang=eng#17).)
+3:18-21](/scriptures/nt/john/3.18-21?lang=eng#17).)
 
 Isaiah foretold the apostasy and the darkness which would cover the earth and
 the people. He said:
@@ -69,12 +67,11 @@ the people. He said:
 transgressed the laws, changed the ordinance, broken the everlasting covenant.
 
 "Therefore hath the curse devoured the earth, and they that dwell therein are
-desolate." ([Isa.
-24:5-6](https://www.lds.org/scriptures/ot/isa/24.5-6?lang=eng#4).)
+desolate." ([Isa. 24:5-6](/scriptures/ot/isa/24.5-6?lang=eng#4).)
 
 "For, behold, the darkness shall cover the earth, and gross darkness the
 people: but the Lord shall arise upon thee, and his glory shall be seen upon
-thee." ([Isa. 60:2](https://www.lds.org/scriptures/ot/isa/60.2?lang=eng#1).)
+thee." ([Isa. 60:2](/scriptures/ot/isa/60.2?lang=eng#1).)
 
 This period of the apostasy was known as the Dark Ages because the light of
 the gospel was withdrawn from the earth.
@@ -82,20 +79,20 @@ the gospel was withdrawn from the earth.
 More recently, in modern revelation, the Lord has declared: "And when the
 times of the Gentiles is come in, a light shall break forth among them that
 sit in darkness, and it shall be the fulness of my gospel." ([D&amp;C
-45:28](https://www.lds.org/scriptures/dc-testament/dc/45.28?lang=eng#27).)
+45:28](/scriptures/dc-testament/dc/45.28?lang=eng#27).)
 
 We are encouraged to remain faithful through a promise of increased light and
 knowledge, for He said:
 
 "That which is of God is light; and he that receiveth light, and continueth in
 God, receiveth more light; and that light groweth brighter and brighter until
-the perfect day." ([D&amp;C 50:24](https://www.lds.org/scriptures/dc-
+the perfect day." ([D&amp;C 50:24](/scriptures/dc-
 testament/dc/50.24?lang=eng#23).)
 
 "And if your eye be single to my glory, your whole bodies shall be filled with
 light, and there shall be no darkness in you; and that body which is filled
-with light comprehendeth all things." ([D&amp;C
-88:67](https://www.lds.org/scriptures/dc-testament/dc/88.67?lang=eng#66).)
+with light comprehendeth all things." ([D&amp;C 88:67](/scriptures/dc-
+testament/dc/88.67?lang=eng#66).)
 
 How glorious and how desirable! Who would not want to strive for such a
 blessing? Consider the following description of the Son of God:
@@ -124,8 +121,7 @@ of space--
 "The light which is in all things, which giveth life to all things, which is
 the law by which all things are governed, even the power of God who sitteth
 upon his throne, who is in the bosom of eternity, who is in the midst of all
-things." ([D&amp;C 88:6-13](https://www.lds.org/scriptures/dc-
-testament/dc/88.6-13?lang=eng#5).)
+things." ([D&amp;C 88:6-13](/scriptures/dc-testament/dc/88.6-13?lang=eng#5).)
 
 Reference has been made to the apostasy in the so-called Dark Ages. The Old
 Testament prophets repeatedly foretold the great apostasy and referred to a
@@ -140,7 +136,7 @@ Christ, as the following scripture verifies:
 
 "For the word of the Lord is truth, and whatsoever is truth is light, and
 whatsoever is light is Spirit, even the Spirit of Jesus Christ." ([D&amp;C
-84:45](https://www.lds.org/scriptures/dc-testament/dc/84.45?lang=eng#44).)
+84:45](/scriptures/dc-testament/dc/84.45?lang=eng#44).)
 
 While our Savior was enduring the agony of the crucifixion, there was darkness
 upon the face of the land. Luke records:
@@ -152,7 +148,7 @@ until the ninth hour.
 
 "And when Jesus had cried with a loud voice, he said, Father, into thy hands I
 commend my spirit: and having said thus, he gave up the ghost." ([Luke
-23:44-46](https://www.lds.org/scriptures/nt/luke/23.44-46?lang=eng#43).)
+23:44-46](/scriptures/nt/luke/23.44-46?lang=eng#43).)
 
 At this same time the inhabitants on the American Continent were awaiting the
 events which their _prophets_ had foretold concerning the crucifixion of the
@@ -168,14 +164,14 @@ dry wood, so that there could not be any light at all;
 "And there was not any light seen, neither fire, nor glimmer, neither the sun,
 nor the moon, nor the stars, for so great were the mists of darkness which
 were upon the face of the land." ([3 Ne.
-8:21-22](https://www.lds.org/scriptures/bofm/3-ne/8.21-22?lang=eng#20).)
+8:21-22](/scriptures/bofm/3-ne/8.21-22?lang=eng#20).)
 
 The darkness was dispelled by the appearance of the resurrected Lord, who came
 to visit his "other sheep" referred to in John when he said:
 
 "And other sheep I have, which are not of this fold: them also I must bring,
 and they shall hear my voice; and there shall be one fold, and one shepherd."
-([John 10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).)
+([John 10:16](/scriptures/nt/john/10.16?lang=eng#15).)
 
 We find further powerful evidence of the contrast between light and darkness
 in connection with the First Vision of Joseph Smith in preparation for the
@@ -184,7 +180,7 @@ he came upon this passage of scripture in James which reads:
 
 "If any of you lack wisdom, let him ask of God, that giveth to all men
 liberally, and upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 This he determined to do and retired to the woods to make the attempt. I read
 from his account and call your attention to the references to darkness and
@@ -211,8 +207,7 @@ me bound. When the _light_ rested upon me I saw two Personages, whose
 brightness and glory defy all description, standing above me in the air. One
 of them spake unto me, calling me by name and said, pointing to the other--
 _This is My Beloved Son. Hear Him!_" ([JS--H
-1:15-17](https://www.lds.org/scriptures/pgp/js-h/1.15-17?lang=eng#14);
-selected italics added.)
+1:15-17](/scriptures/pgp/js-h/1.15-17?lang=eng#14); selected italics added.)
 
 Joseph was told to join none of the existing churches. He followed this
 instruction and continued to pursue his "common vocations in life" until he
@@ -231,8 +226,7 @@ bedside, standing in the air, for his feet did not touch the floor.
 like lightning. The room was exceedingly _light,_ but not so very bright as
 immediately around his person. When I first looked upon him, I was afraid; but
 the fear soon left me." ([JS--H 1:27, 29-30,
-32](https://www.lds.org/scriptures/pgp/js-h/1.27%2C29-30%2C32?lang=eng#26);
-italics added.)
+32](/scriptures/pgp/js-h/1.27,29-30,32?lang=eng#26); italics added.)
 
 This personage was the angel Moroni, and he delivered a message concerning the
 gold plates from which the Book of Mormon was to be translated. That event
@@ -266,8 +260,8 @@ gift of the Holy Ghost by the laying on of the hands when eight years old, the
 sin be upon the heads of the parents.
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord." ([D&amp;C 68:25, 28](https://www.lds.org/scriptures/dc-
-testament/dc/68.25%2C28?lang=eng#24).)
+before the Lord." ([D&amp;C 68:25, 28](/scriptures/dc-
+testament/dc/68.25,28?lang=eng#24).)
 
 Our sons and daughters should know that they are actually spirit children of
 God and that he loves them and wants them to succeed and be happy. He will
@@ -306,10 +300,12 @@ has said:
 
 "Let your light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven." ([Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).)
+5:16](/scriptures/nt/matt/5.16?lang=eng#15).)
 
 May each of us so live that through our works of righteousness, and with the
 light of Christ in our lives, we may contribute to and see the dawning of a
 brighter day in a dark and troubled world, I pray in the name of Jesus Christ.
 Amen.
+
+## References
 

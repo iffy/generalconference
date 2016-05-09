@@ -47,27 +47,26 @@ makes them as they are. I wish I knew what they believe."
 
 And the boy said to him, "Well, sir, I can tell you what they believe. 'We
 believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the
-Holy Ghost.'" ([A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0).
+Holy Ghost.'" ([A of F 1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0).
 
 The businessman was a bit surprised but listened intently, and the boy
 continued, "'We believe that men will be punished for their own sins, and not
 for Adam's transgression.'" ([A of F
-1:2](https://www.lds.org/scriptures/pgp/a-of-f/1.2?lang=eng#1).)
+1:2](/scriptures/pgp/a-of-f/1.2?lang=eng#1).)
 
 And the traveling companion thought, "This is rather unusual for a mere boy to
 know these important things."
 
 The boy went on: "'We believe that through the Atonement of Christ, all
 mankind may be saved, by obedience to the laws and ordinances of the Gospel.'"
-([A of F 1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2).) And
-the gentleman was amazed at the knowledge and understanding of a mere boy--he
-was yet to be a Scout. But he continued and gave the fourth Article of Faith
-[A of F 1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3) and
-said, "'We believe that the first principles and ordinances of the Gospel are:
-first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by
-immersion for the remission of sins; fourth, Laying on of hands for the gift
-of the Holy Ghost.'"
+([A of F 1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2).) And the gentleman was
+amazed at the knowledge and understanding of a mere boy--he was yet to be a
+Scout. But he continued and gave the fourth Article of Faith [A of F
+1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3) and said, "'We believe that the
+first principles and ordinances of the Gospel are: first, Faith in the Lord
+Jesus Christ; second, Repentance; third, Baptism by immersion for the
+remission of sins; fourth, Laying on of hands for the gift of the Holy
+Ghost.'"
 
 "That is wonderful," said the gentleman. "I am amazed that you know so well
 the doctrines of your church. I commend you."
@@ -75,8 +74,7 @@ the doctrines of your church. I commend you."
 With a good start and with encouragement, Johnny continued. "'We believe that
 a man must be called of God, by prophecy, and by the laying on of hands, by
 those who are in authority to preach the Gospel and administer in the
-ordinances thereof.'" ([A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
+ordinances thereof.'" ([A of F 1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
 
 "That's very solid doctrine, my boy," the gentleman said. "I am curious now to
 know how they get called of God. I can understand how they would receive the
@@ -91,8 +89,7 @@ know what the Church taught, and he said, "Yes, go on."
 
 So Johnny quoted, "'We believe in the same organization that existed in the
 Primitive Church, viz., apostles, prophets, pastors, teachers, evangelists,
-etc.'" ([A of F
-1:6](https://www.lds.org/scriptures/pgp/a-of-f/1.6?lang=eng#5).)
+etc.'" ([A of F 1:6](/scriptures/pgp/a-of-f/1.6?lang=eng#5).)
 
 That brought some other discussion. "You mean that your church has apostles
 such as James and John and Peter and Paul, and prophets such as Moses,
@@ -110,44 +107,42 @@ believe in revelations and prophecies?"
 
 And the boy brightened up as he quoted, "'We believe in the gift of tongues,
 prophecy, revelation, visions, healing, interpretation of tongues, etc.'" ([A
-of F 1:7](https://www.lds.org/scriptures/pgp/a-of-f/1.7?lang=eng#6).)
+of F 1:7](/scriptures/pgp/a-of-f/1.7?lang=eng#6).)
 
 The gentleman gasped. "This sounds like you believe in the Bible!"
 
 And the boy repeated again, "We do. 'We believe the Bible to be the word of
 God as far as it is translated correctly; we also believe the Book of Mormon
 to be the word of God.'" ([A of F
-1:8](https://www.lds.org/scriptures/pgp/a-of-f/1.8?lang=eng#7).)
+1:8](/scriptures/pgp/a-of-f/1.8?lang=eng#7).)
 
 The gentleman discerned that we believe both in the scriptures and in
 revelation. And the boy quoted, "'We believe all that God has revealed, all
 that He does now reveal, and we believe that He will yet reveal many great and
 important things pertaining to the Kingdom of God.'" ([A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8).) And then he
-continued, "'We believe [also] in the literal gathering of Israel and in the
-restoration of the Ten Tribes; that Zion will be built upon this [the
-American] continent; that Christ will reign personally upon the earth; and,
-that the earth will be renewed and receive its paradisiacal glory.'" ([A of F
-1:10](https://www.lds.org/scriptures/pgp/a-of-f/1.10?lang=eng#9).)
+1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8).) And then he continued, "'We
+believe [also] in the literal gathering of Israel and in the restoration of
+the Ten Tribes; that Zion will be built upon this [the American] continent;
+that Christ will reign personally upon the earth; and, that the earth will be
+renewed and receive its paradisiacal glory.'" ([A of F
+1:10](/scriptures/pgp/a-of-f/1.10?lang=eng#9).)
 
 The gentleman was listening intently. He showed no interest in crossing the
 aisle back to his own seat. Then Johnny came in again. He said, "'We claim the
 privilege of worshiping Almighty God according to the dictates of our own
 conscience, and allow all men the same privilege, let them worship how, where,
-or what they may.'" ([A of F
-1:11](https://www.lds.org/scriptures/pgp/a-of-f/1.11?lang=eng#10).) He then
-continued, "'We believe in being subject to kings, presidents, rulers, and
-magistrates, in obeying, honoring, and sustaining the law.'" ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
+or what they may.'" ([A of F 1:11](/scriptures/pgp/a-of-f/1.11?lang=eng#10).)
+He then continued, "'We believe in being subject to kings, presidents, rulers,
+and magistrates, in obeying, honoring, and sustaining the law.'" ([A of F
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
 
 And then as a final contribution, the boy repeated the thirteenth Article of
-Faith [A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12). "'We
-believe in being honest, true, chaste, benevolent, virtuous, and in doing good
-to all men; indeed, we may say that we follow the admonition of Paul--We
-believe all things, we hope all things, we have endured many things, and hope
-to be able to endure all things. If there is anything virtuous, lovely, or of
-good report or praiseworthy, we seek after these things.'"
+Faith [A of F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12). "'We believe in
+being honest, true, chaste, benevolent, virtuous, and in doing good to all
+men; indeed, we may say that we follow the admonition of Paul--We believe all
+things, we hope all things, we have endured many things, and hope to be able
+to endure all things. If there is anything virtuous, lovely, or of good report
+or praiseworthy, we seek after these things.'"
 
 This youngster relaxed now as he finished the Articles of Faith. The gentleman
 was clearly excited, not only at the ability of this young boy to outline the
@@ -190,7 +185,7 @@ purged our sins, sat down on the right hand of the Majesty on high;
 
 "Being made so much better than the angels, as he hath by inheritance obtained
 a more excellent name than they." ([Heb.
-1:1-4](https://www.lds.org/scriptures/nt/heb/1.1-4?lang=eng#0).)
+1:1-4](/scriptures/nt/heb/1.1-4?lang=eng#0).)
 
 And that reminds us of the 132nd section where he promises that those who have
 received this new and everlasting covenant and who live up to the covenants
@@ -199,7 +194,7 @@ the gods and angels that are waiting there to guard the gates.
 
 "For unto which of the angels said he at any time, Thou art my Son, this day
 have I begotten thee? And again, I will be to him a Father, and he shall be to
-me a Son?" ([Heb. 1:5](https://www.lds.org/scriptures/nt/heb/1.5?lang=eng#4).)
+me a Son?" ([Heb. 1:5](/scriptures/nt/heb/1.5?lang=eng#4).)
 
 The heavens may be full of angels, but they are not like the Son of God, and
 we could add they are not like you who have qualified for this high calling to
@@ -207,20 +202,20 @@ be exalted in the Lord's kingdom through the blessings that he has promised.
 
 "And again, when he bringeth in the firstbegotten into the world, he saith,
 And let all the angels of God worship him." ([Heb.
-1:6](https://www.lds.org/scriptures/nt/heb/1.6?lang=eng#5).)
+1:6](/scriptures/nt/heb/1.6?lang=eng#5).)
 
 That is the Son of God. That is Jesus Christ, whom we worship, with all our
 souls, all our minds and might and strength. He it is who is the Son of God.
 
 "Therefore we ought to give the more earnest heed to the things which we have
 heard, lest at any time we should let them slip." ([Heb.
-2:1](https://www.lds.org/scriptures/nt/heb/2.1?lang=eng#0).) _We should let
-them slip._ Oh, I hope, as we find our way in this great program that we will
-never let these glorious things slip.
+2:1](/scriptures/nt/heb/2.1?lang=eng#0).) _We should let them slip._ Oh, I
+hope, as we find our way in this great program that we will never let these
+glorious things slip.
 
 "How shall we escape, if we neglect so great salvation; which at the first
 began to be spoken by the Lord, and was confirmed unto us by them that heard
-him." ([Heb. 2:3](https://www.lds.org/scriptures/nt/heb/2.3?lang=eng#2).)
+him." ([Heb. 2:3](/scriptures/nt/heb/2.3?lang=eng#2).)
 
 Peter, James, and John, Paul, others of the brethren--we heard this great plan
 of salvation from them, after they had heard it from the Lord who established
@@ -228,8 +223,7 @@ it.
 
 "For it became him, for whom are all things, and by whom are all things, in
 bringing many sons unto glory, to make the captain of their salvation perfect
-through sufferings." ([Heb.
-2:10](https://www.lds.org/scriptures/nt/heb/2.10?lang=eng#9).)
+through sufferings." ([Heb. 2:10](/scriptures/nt/heb/2.10?lang=eng#9).)
 
 Brethren, 225,000 of you are here tonight. I suppose 225,000 of you may become
 gods. There seems to be plenty of space out there in the universe. And the
@@ -251,13 +245,12 @@ had his exaltation. It's been a long time since he died, of course.
 And then Paul speaks again: "Forasmuch then as the children are partakers of
 flesh and blood, he also himself likewise took part of the same; that through
 death he might destroy him that had the power of death, that is, the devil"
-([Heb. 2:14](https://www.lds.org/scriptures/nt/heb/2.14?lang=eng#13)) by being
-subject to death, and going into that experience, and then coming forth from
-the dead a resurrected being.
+([Heb. 2:14](/scriptures/nt/heb/2.14?lang=eng#13)) by being subject to death,
+and going into that experience, and then coming forth from the dead a
+resurrected being.
 
 "For verily he took not on him the nature of angels; but he took on him the
-seed of Abraham." ([Heb.
-2:16](https://www.lds.org/scriptures/nt/heb/2.16?lang=eng#15).)
+seed of Abraham." ([Heb. 2:16](/scriptures/nt/heb/2.16?lang=eng#15).)
 
 And so through Abraham, Isaac, and Jacob, through David finally, the Lord
 became the Son of God through Abraham.
@@ -276,7 +269,7 @@ country.]--"Wherefore, I was grieved with that generation, and said, They do
 alway err in their heart; and they have not known my ways.
 
 "So I sware in my wrath, They shall not enter into my rest." ([Heb. 3:1, 3,
-10-11](https://www.lds.org/scriptures/nt/heb/3.1%2C3%2C10-11?lang=eng#0).)
+10-11](/scriptures/nt/heb/3.1,3,10-11?lang=eng#0).)
 
 Sometimes we have thought of rest as being a place where we get on the chaise
 lounge, or in our sneakers, or we get outside and lie on the grass, something
@@ -299,8 +292,7 @@ possessed great knowledge, and to be a greater follower of righteousness, and
 to possess a greater knowledge, and to be a father of many nations, a prince
 of peace, and desiring to receive instructions, and to keep the commandments
 of God, I became a rightful heir, a High Priest, holding the right belonging
-to the fathers." ([Abr.
-1:2](https://www.lds.org/scriptures/pgp/abr/1.2?lang=eng#1).)
+to the fathers." ([Abr. 1:2](/scriptures/pgp/abr/1.2?lang=eng#1).)
 
 It was ten generations, I believe, from Adam to Noah, and then it was ten
 generations, I believe, from Noah to Abraham. He inherited the blessings of
@@ -315,7 +307,7 @@ on the first man, who is Adam, our first father, through the fathers unto me.
 
 "I sought for mine appointment unto the Priesthood according to the
 appointment of God unto the fathers concerning the seed." ([Abr.
-1:3-4](https://www.lds.org/scriptures/pgp/abr/1.3-4?lang=eng#2).)
+1:3-4](/scriptures/pgp/abr/1.3-4?lang=eng#2).)
 
 This is something that we are heir to, we were born heir to it, and all we
 need to do is qualify for it to obtain this blessing, without which we never
@@ -326,7 +318,7 @@ work.
 "My fathers having turned from their righteousness, and from the holy
 commandments which the Lord their God had given unto them [they] utterly
 refused to hearken to my voice." ([Abr.
-1:5](https://www.lds.org/scriptures/pgp/abr/1.5?lang=eng#4).)
+1:5](/scriptures/pgp/abr/1.5?lang=eng#4).)
 
 So Abraham had to leave. He left Chaldea and went north up the river until he
 came to Haran--what is now Turkey. And then from there to Palestine.
@@ -342,14 +334,13 @@ strange land which thou knowest not of. ...
 
 "As it was with Noah so shall it be with thee; but through thy ministry my
 name shall be known in the earth forever." ([Abr. 1:16,
-19](https://www.lds.org/scriptures/pgp/abr/1.16%2C19?lang=eng#15).) And he
-says, "I will ... put upon thee my name." ([Abr.
-1:18](https://www.lds.org/scriptures/pgp/abr/1.18?lang=eng#17).) _My name._
+19](/scriptures/pgp/abr/1.16,19?lang=eng#15).) And he says, "I will ... put upon
+thee my name." ([Abr. 1:18](/scriptures/pgp/abr/1.18?lang=eng#17).) _My name._
 The name of Jesus Christ. The priesthood is called the "Holy Priesthood, after
-the Order of the Son of God." ([D&amp;C 107:3](https://www.lds.org/scriptures
-/dc-testament/dc/107.3?lang=eng#2).) And then Melchizedek's name was given to
-the priesthood so we wouldn't repeat too often the name of the Son of God. And
-in connection with that, I frequently think we use the names of Deity a little
+the Order of the Son of God." ([D&amp;C 107:3](/scriptures/dc-
+testament/dc/107.3?lang=eng#2).) And then Melchizedek's name was given to the
+priesthood so we wouldn't repeat too often the name of the Son of God. And in
+connection with that, I frequently think we use the names of Deity a little
 too much, probably; a little too intimately, I think. There is a good example,
 that the Lord gave the priesthood the name of the Melchizedek Priesthood to
 avoid the repetition.
@@ -367,7 +358,7 @@ of the beginning of the creation, and also of the planets, and of the stars,
 as they were made known unto the fathers, have I kept even unto this day, and
 I shall endeavor to write some of these things upon this record, for the
 benefit of my posterity that shall come after me." ([Abr. 1:28,
-31](https://www.lds.org/scriptures/pgp/abr/1.28%2C31?lang=eng#27).)
+31](/scriptures/pgp/abr/1.28,31?lang=eng#27).)
 
 Brethren, it is really something to hold the priesthood--to hold this
 advancing priesthood from deacon to teacher to priest--and then to hold the
@@ -387,4 +378,6 @@ promise and rededicate ourselves over and over and over that we will from this
 moment forth live nearer to him and to his promises and to the blessings which
 he has given us. I say this to you with all of our affection and love in the
 name of Jesus Christ. Amen.
+
+## References
 

@@ -7,30 +7,27 @@ have members of my family, that I may have the blessing of the Spirit.
 
 My text today is from a revelation of the Lord to Joseph Smith, the Prophet,
 at a conference of the Church January 2, 1831, as follows: "... if ye are
-prepared ye shall not fear." ([D&amp;C 38:30](https://www.lds.org/scriptures
-/dc-testament/dc/38.30?lang=eng#29).)
+prepared ye shall not fear." ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29).)
 
 In section 1 of the great Doctrine and Covenants, a volume of modern
 scripture, we read these words: "Prepare ye, prepare ye for that which is to
-come. ..." ([D&amp;C 1:12](https://www.lds.org/scriptures/dc-
-testament/dc/1.12?lang=eng#11).) Further in this same revelation are these
-warning words: "... I the Lord, knowing the calamity which should come upon the
-inhabitants of the earth . ..." ([D&amp;C 1:17](https://www.lds.org/scriptures
-/dc-testament/dc/1.17?lang=eng#16).)
+come. ..." ([D&amp;C 1:12](/scriptures/dc-testament/dc/1.12?lang=eng#11).)
+Further in this same revelation are these warning words: "... I the Lord,
+knowing the calamity which should come upon the inhabitants of the earth . ..."
+([D&amp;C 1:17](/scriptures/dc-testament/dc/1.17?lang=eng#16).)
 
 What are some of the calamities for which we are to prepare? In section 29 the
 Lord warns us of "a great hailstorm sent forth to destroy the crops of the
-earth." ([D&amp;C 29:16](https://www.lds.org/scriptures/dc-
-testament/dc/29.16?lang=eng#15).) In section 45 we read of "an overflowing
-scourge; for a desolating sickness shall cover the land." ([D&amp;C
-45:31](https://www.lds.org/scriptures/dc-testament/dc/45.31?lang=eng#30).) In
-section 63 the Lord declares he has "decreed wars upon the face of the earth.
-..." ([D&amp;C 63:33](https://www.lds.org/scriptures/dc-
+earth." ([D&amp;C 29:16](/scriptures/dc-testament/dc/29.16?lang=eng#15).) In
+section 45 we read of "an overflowing scourge; for a desolating sickness shall
+cover the land." ([D&amp;C 45:31](/scriptures/dc-
+testament/dc/45.31?lang=eng#30).) In section 63 the Lord declares he has
+"decreed wars upon the face of the earth. ..." ([D&amp;C 63:33](/scriptures/dc-
 testament/dc/63.33?lang=eng#32).)
 
 In Matthew, chapter 24, we learn of "famines, and pestilences, and
-earthquakes. ..." ([Matt.
-24:7](https://www.lds.org/scriptures/nt/matt/24.7?lang=eng#6).) The Lord
+earthquakes. ..." ([Matt. 24:7](/scriptures/nt/matt/24.7?lang=eng#6).) The Lord
 declared that these and other calamities shall occur. These particular
 prophecies seem not to be conditional. The Lord, with his foreknowledge, knows
 that they will happen. Some will come about through man's manipulations;
@@ -39,8 +36,8 @@ seems certain. Prophecy is but history in reverse--a divine disclosure of
 future events.
 
 Yet, through all of this, the Lord Jesus Christ has said: "... if ye are
-prepared ye shall not fear." ([D&amp;C 38:30](https://www.lds.org/scriptures
-/dc-testament/dc/38.30?lang=eng#29).)
+prepared ye shall not fear." ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29).)
 
 What, then, is the Lord's way to help us prepare for these calamities? The
 answer is also found in section 1 of the Doctrine and Covenants, wherein he
@@ -50,11 +47,10 @@ says:
 inhabitants of the earth, called upon my servant Joseph Smith, Jun., and spake
 unto him from heaven, and gave him commandments;
 
-"And also gave commandments to others. ..." ([D&amp;C
-1:17-18](https://www.lds.org/scriptures/dc-testament/dc/1.17-18?lang=eng#16).)
-He has also said: "Search these commandments, for they are true and faithful,
-and the prophecies and promises which are in them shall all be fulfilled."
-([D&amp;C 1:37](https://www.lds.org/scriptures/dc-
+"And also gave commandments to others. ..." ([D&amp;C 1:17-18](/scriptures/dc-
+testament/dc/1.17-18?lang=eng#16).) He has also said: "Search these
+commandments, for they are true and faithful, and the prophecies and promises
+which are in them shall all be fulfilled." ([D&amp;C 1:37](/scriptures/dc-
 testament/dc/1.37?lang=eng#36).)
 
 Here then is the key--look to the prophets for the words of God, that will
@@ -62,15 +58,14 @@ show us how to prepare for the calamities which are to come. For the Lord, in
 that same section, states: "What I the Lord have spoken, I have spoken, and I
 excuse not myself; and though the heavens and the earth pass away, my word
 shall not pass away, but shall all be fulfilled, whether by mine own voice or
-by the voice of my servants, it is the same." ([D&amp;C
-1:38](https://www.lds.org/scriptures/dc-testament/dc/1.38?lang=eng#37).)
+by the voice of my servants, it is the same." ([D&amp;C 1:38](/scriptures/dc-
+testament/dc/1.38?lang=eng#37).)
 
 Again, the Lord warned those who will reject the inspired words of his
 representatives, in these words: "... and the day cometh that they who will not
 hear the voice of the Lord, neither the voice of his servants, neither give
 heed to the words of the prophets and apostles, shall be cut off from among
-the people." ([D&amp;C 1:14](https://www.lds.org/scriptures/dc-
-testament/dc/1.14?lang=eng#13).)
+the people." ([D&amp;C 1:14](/scriptures/dc-testament/dc/1.14?lang=eng#13).)
 
 The present-day Church welfare program was instituted by revelation from God
 to his mouthpiece, the prophet and earthly president of The Church of Jesus
@@ -108,9 +103,9 @@ For the righteous the gospel provides a warning before a calamity, a program
 for the crises, a refuge for each disaster.
 
 The Lord has said that "the day cometh, that shall burn as an oven ..." ([Mal.
-4:1](https://www.lds.org/scriptures/ot/mal/4.1?lang=eng#0)), but he assures us
-that "he that is tithed shall not be burned. ..." ([D&amp;C
-64:23](https://www.lds.org/scriptures/dc-testament/dc/64.23?lang=eng#22).)
+4:1](/scriptures/ot/mal/4.1?lang=eng#0)), but he assures us that "he that is
+tithed shall not be burned. ..." ([D&amp;C 64:23](/scriptures/dc-
+testament/dc/64.23?lang=eng#22).)
 
 The Lord has warned us of famines, but the righteous will have listened to
 prophets and stored at least a year's supply of survival food.
@@ -119,16 +114,15 @@ The Lord has set loose the angels to reap down the earth (see _Discourses of
 Wilford Woodruff, _p. 251), but those who obey the Word of Wisdom along with
 the other commandments are assured "that the destroying angel shall pass by
 them, as the children of Israel, and not slay them. ..." ([D&amp;C
-89:21](https://www.lds.org/scriptures/dc-testament/dc/89.21?lang=eng#20).)
+89:21](/scriptures/dc-testament/dc/89.21?lang=eng#20).)
 
 The Lord desires his Saints to be free and independent in the critical days
 ahead. But no man is truly free who is in financial bondage. "Think what you
 do when you run in debt," said Benjamin Franklin, "you give to another power
 over your liberty." "... pay thy debt and live ..." said Elisha. ([2 Kgs.
-4:7](https://www.lds.org/scriptures/ot/2-kgs/4.7?lang=eng#6).) And in the
-Doctrine and Covenants the Lord says, "... it is my will that you shall pay all
-your debts." ([D&amp;C 104:78](https://www.lds.org/scriptures/dc-
-testament/dc/104.78?lang=eng#77).)
+4:7](/scriptures/ot/2-kgs/4.7?lang=eng#6).) And in the Doctrine and Covenants
+the Lord says, "... it is my will that you shall pay all your debts." ([D&amp;C
+104:78](/scriptures/dc-testament/dc/104.78?lang=eng#77).)
 
 For over 100 years we have been admonished to store up grain. "Remember the
 counsel that is given," said Elder Orson Hyde, "'... _Store up all your grain,_'
@@ -142,11 +136,10 @@ world. ..." (_JD,_ vol. 2, p. 207.)
 As to the foodstuffs which should be stored, the Church has left that decision
 primarily to the individual members. Some excellent suggestions are available
 from the Church Welfare Committee. "All grain is good for the food of man ..."
-([D&amp;C 89:16](https://www.lds.org/scriptures/dc-
-testament/dc/89.16?lang=eng#15)) the Lord states, but he particularly singles
-out wheat. Dry, whole, hard grains, when stored properly, can last
-indefinitely, and their nutritional value can be enhanced through sprouting,
-if desired.
+([D&amp;C 89:16](/scriptures/dc-testament/dc/89.16?lang=eng#15)) the Lord
+states, but he particularly singles out wheat. Dry, whole, hard grains, when
+stored properly, can last indefinitely, and their nutritional value can be
+enhanced through sprouting, if desired.
 
 It would be well if every family have on hand grain for at least a year. And
 may I remind you that it generally takes several times as much land to produce
@@ -181,13 +174,12 @@ who, in the last days, have an adequate supply of each of these particulars.
 
 Concerning human energy, we can be grateful for the Word of Wisdom, which
 tells us it is possible to "run and not be weary, and ... walk and not faint."
-([D&amp;C 89:20](https://www.lds.org/scriptures/dc-
-testament/dc/89.20?lang=eng#19).) The Lord has advised us to "retire to thy
-bed early, that ye may not be weary; arise early, that your bodies and your
-minds may be invigorated." ([D&amp;C 88:124](https://www.lds.org/scriptures
-/dc-testament/dc/88.124?lang=eng#123).) He has also counseled, "Do not run
-faster or labor more than you have strength. ..." ([D&amp;C
-10:4](https://www.lds.org/scriptures/dc-testament/dc/10.4?lang=eng#3).)
+([D&amp;C 89:20](/scriptures/dc-testament/dc/89.20?lang=eng#19).) The Lord has
+advised us to "retire to thy bed early, that ye may not be weary; arise early,
+that your bodies and your minds may be invigorated." ([D&amp;C
+88:124](/scriptures/dc-testament/dc/88.124?lang=eng#123).) He has also
+counseled, "Do not run faster or labor more than you have strength. ..."
+([D&amp;C 10:4](/scriptures/dc-testament/dc/10.4?lang=eng#3).)
 
 Healthful foods, proper rest, adequate exercise, and a clean conscience can
 prepare us to tackle the trials that lie ahead.
@@ -238,8 +230,8 @@ The strength of the Church welfare program lies in every family following the
 inspired direction of the Church leaders to be self-sustaining through
 adequate preparation. God intends for his Saints to so prepare themselves
 "that the church [as the Lord has said] may stand independent above all other
-creatures beneath the celestial world." ([D&amp;C
-78:14](https://www.lds.org/scriptures/dc-testament/dc/78.14?lang=eng#13).)
+creatures beneath the celestial world." ([D&amp;C 78:14](/scriptures/dc-
+testament/dc/78.14?lang=eng#13).)
 
 "How on the face of the earth could a man enjoy his religion," said Elder
 George A. Smith many years ago, "when he had been told by the Lord how to
@@ -286,15 +278,16 @@ share with others. What a marvelous way to become a savior on Mount Zion!
 power and efficacy of the Lord's Plan which He designed as 'a light to the
 world, and to be a standard for my people, and for the Gentiles to seek to
 it.'" (_Deseret News, _Church section, December 20, 1941, p. 7; see also
-[D&amp;C 45:9](https://www.lds.org/scriptures/dc-
-testament/dc/45.9?lang=eng#8).) May we ever remember the Lord's promise: "... if
-ye are prepared ye shall not fear." ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+[D&amp;C 45:9](/scriptures/dc-testament/dc/45.9?lang=eng#8).) May we ever
+remember the Lord's promise: "... if ye are prepared ye shall not fear."
+([D&amp;C 38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29).)
 
 Let us live the gospel fully, and may we recognize the infallibility of God's
 inspired word--whether by his "... own voice ..." or the "voice of [his] my
-servants, it is the same." ([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
+servants, it is the same." ([D&amp;C 1:38](/scriptures/dc-
 testament/dc/1.38?lang=eng#37).) The days ahead are sobering and challenging.
 Oh, may we be prepared spiritually and temporally, I pray humbly in the name
 of Jesus Christ. Amen.
+
+## References
 

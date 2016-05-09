@@ -12,8 +12,7 @@ hungred, and fed thee? or thirsty, and gave thee drink?
 
 "And the King shall answer and say unto them, Verily I say unto you, Inasmuch
 as ye have done it unto one of the least of these my brethren, ye have done it
-unto me." ([Matt.
-25:37-40](https://www.lds.org/scriptures/nt/matt/25.37-40?lang=eng#36).)
+unto me." ([Matt. 25:37-40](/scriptures/nt/matt/25.37-40?lang=eng#36).)
 
 In visits to more than thirty stakes of Zion during the year past, my life has
 been blessed and my faith has been increased as I have observed and
@@ -127,8 +126,8 @@ In my own life I have experienced much of the Savior's love through the
 kindness and goodness of many of the Lord's servants. With King Benjamin I
 acknowledge that if we were to serve the Savior with all our souls, yet we
 would be unprofitable servants. (See [Mosiah
-2:21](https://www.lds.org/scriptures/bofm/mosiah/2.21?lang=eng#20).) And this
-because of His great love and atoning sacrifice for each of His children.
+2:21](/scriptures/bofm/mosiah/2.21?lang=eng#20).) And this because of His
+great love and atoning sacrifice for each of His children.
 
 Some months ago a ninety-year-old patriarch and dear friend of my own father
 was quietly laid to rest in this valley. My father passed away during the
@@ -145,23 +144,24 @@ scores of others in similar circumstances.
 To me he was the epitome of the "pure religion" described in the epistle of
 James: "To visit the fatherless and widows in their affliction, and to keep
 himself unspotted from the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 In these challenging times, dear brothers and sisters, the need to "minister
 unto the least of these" of our Father's children is so great. (See [Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).) How much we
-need the gifts of discernment and wisdom and charity to know how to really
-reach down and lift up our brothers and sisters to higher ground.
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).) How much we need the gifts of
+discernment and wisdom and charity to know how to really reach down and lift
+up our brothers and sisters to higher ground.
 
 I pray that day by day we will strive more diligently to be about our Father's
-business (see [Luke
-2:49](https://www.lds.org/scriptures/nt/luke/2.49?lang=eng#48)), to love and
+business (see [Luke 2:49](/scriptures/nt/luke/2.49?lang=eng#48)), to love and
 to serve our fellowmen--to feed the hungry, and clothe the naked, and comfort
 those that mourn (see [Matt.
-25:37-39](https://www.lds.org/scriptures/nt/matt/25.37-39?lang=eng#36)), to
-hold up the hands that hang down, and strengthen the feeble knees (see
-[D&amp;C 81:5](https://www.lds.org/scriptures/dc-
-testament/dc/81.5?lang=eng#4))--to believe and live the Savior's doctrine; and
-to follow after Him and put first in our lives the things of His kingdom. And
-for this I humbly pray, in the holy name of Jesus Christ, amen.
+25:37-39](/scriptures/nt/matt/25.37-39?lang=eng#36)), to hold up the hands
+that hang down, and strengthen the feeble knees (see [D&amp;C
+81:5](/scriptures/dc-testament/dc/81.5?lang=eng#4))--to believe and live the
+Savior's doctrine; and to follow after Him and put first in our lives the
+things of His kingdom. And for this I humbly pray, in the holy name of Jesus
+Christ, amen.
+
+## References
 

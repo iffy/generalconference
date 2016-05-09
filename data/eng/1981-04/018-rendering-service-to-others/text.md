@@ -36,15 +36,15 @@ priesthood meeting.
 
 Please take a particular interest in strengthening and improving the quality
 of teaching in the Church. The Savior charged us with feeding his sheep. (See
-[John 21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).)
-I fear at times that all too often many of our members come to church, sit
-through a class or meeting, and then return home having been largely
-uninformed. It is especially unfortunate if this happens at a time when they
-may be entering a period of stress, temptation, or personal or family crisis.
-We all need to be touched and nurtured by the Spirit, and effective teaching
-is one of the most important ways this can happen. We regularly do vigorous
-enlistment and reactivation work to get members to come to church, but often
-do not watch over what they receive when they do attend.
+[John 21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14).) I fear at times
+that all too often many of our members come to church, sit through a class or
+meeting, and then return home having been largely uninformed. It is especially
+unfortunate if this happens at a time when they may be entering a period of
+stress, temptation, or personal or family crisis. We all need to be touched
+and nurtured by the Spirit, and effective teaching is one of the most
+important ways this can happen. We regularly do vigorous enlistment and
+reactivation work to get members to come to church, but often do not watch
+over what they receive when they do attend.
 
 Brethren, as you may remember, while speaking this morning I referred to our
 recent visit to the Caribbean Islands and the wonderful missionary work that
@@ -86,7 +86,7 @@ Brethren, we all have opportunities to render service to others. That is our
 calling and our privilege. In serving the needs of others, we are mindful of
 the words of the Savior: "Verily I say unto you, Inasmuch as ye have done it
 unto one of the least of these my brethren, ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 Brethren, may we counsel you on another matter close to all of us? As we seek
 contributions from our Saints for tithes and fast offerings, let us speak,
@@ -121,4 +121,6 @@ your devotion to the cause of the Master. I express my affection for you and
 leave my blessing with you. And I pray our Heavenly Father to bless you and
 your families, your homes, and your work. God bless you, peace be with you, in
 the name of Jesus Christ, amen.
+
+## References
 

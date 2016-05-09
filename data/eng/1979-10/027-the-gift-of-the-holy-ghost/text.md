@@ -55,7 +55,7 @@ their businesses and their professions, and why did they do it? Because they
 had received the gift of the Holy Ghost that made it possible for them to do
 what Jesus advised: "Seek ye first the kingdom of God, and his righteousness;
 and all these things shall be added unto you" ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32)).
+6:33](/scriptures/nt/matt/6.33?lang=eng#32)).
 
 When I was the Presiding Bishop and one of my counselors, Bishop Ashton, died,
 I asked for Brother [Thorpe B.] Isaacson. He was then at the head of a large
@@ -119,7 +119,7 @@ different buildings and I imagine that we had an estimated attendance of over
 Peter said: "Ye are a chosen generation, a royal priesthood, an holy nation, a
 peculiar people [we are peculiar to the world]; that ye should shew forth the
 praises of him who hath called you out of darkness into his marvellous light"
-([1 Pet. 2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)).
+([1 Pet. 2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)).
 
 Now think of this choir back here that has been singing to us so wonderfully.
 They have been doing it now for over fifty years. (I don't suppose all of them
@@ -158,27 +158,25 @@ offended because of thee, yet will I never be offended.
 
 "Though I should die with thee, yet will I not deny thee." And Jesus said:
 "Before the cock crow, thou shalt deny me thrice." (See [Matt.
-26:3-35](https://www.lds.org/scriptures/nt/matt/26.3-35?lang=eng#2).) Then
-when Jesus was taken prisoner and Peter sat in the outer room, two different
-women came up to him and said: "Thou also wast with Jesus" ([Matt.
-26:69](https://www.lds.org/scriptures/nt/matt/26.69?lang=eng#68)); and he
-denied it emphatically. Then a man came, and he even denied it with curses.
-And when he was through, he heard the cock crow, "and he went out and wept"
-([Matt. 26:75](https://www.lds.org/scriptures/nt/matt/26.75?lang=eng#74)). Now
-that was Peter before he received the Holy Ghost.
+26:3-35](/scriptures/nt/matt/26.3-35?lang=eng#2).) Then when Jesus was taken
+prisoner and Peter sat in the outer room, two different women came up to him
+and said: "Thou also wast with Jesus" ([Matt.
+26:69](/scriptures/nt/matt/26.69?lang=eng#68)); and he denied it emphatically.
+Then a man came, and he even denied it with curses. And when he was through,
+he heard the cock crow, "and he went out and wept" ([Matt.
+26:75](/scriptures/nt/matt/26.75?lang=eng#74)). Now that was Peter before he
+received the Holy Ghost.
 
 Jesus commanded his disciples to tarry in Jerusalem until they should be
 endowed with the Holy Spirit; he said it was necessary for him to go away or
 the Comforter could not come. And he said: "But the Comforter ... shall teach
 you all things, and bring all things to your remembrance, whatsoever I have
-said unto you" ([John
-14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25)).
+said unto you" ([John 14:26](/scriptures/nt/john/14.26?lang=eng#25)).
 
 Now look at Peter after he received the Holy Ghost and when he was commanded
 by the chief priests not to preach Christ in the streets of Jerusalem. He
 said: "We ought to obey God rather than men" ([Acts
-5:29](https://www.lds.org/scriptures/nt/acts/5.29?lang=eng#28)). He was as
-fearless as a lion.
+5:29](/scriptures/nt/acts/5.29?lang=eng#28)). He was as fearless as a lion.
 
 I toured the Central American missions with the mission president a few years
 ago. We went into one of the great cathedrals there and on one of the walls
@@ -199,14 +197,14 @@ Now just to illustrate that: When I was back in the South, there was an
 itinerant preacher that came through Atlanta, telling the leaders of churches
 how they could get out of debt. He quoted the words of Malachi: "Prove me now
 herewith, ... if I will not open you the windows of heaven" ([Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9)). And he told
-those people that if they would pay their tithing for ten months, they could
-get out of debt. I talked to him afterwards, and I said, "Reverend, I would
-like to bear you my testimony, that you are getting pretty close to the
-truth." I said, "We have been paying our tithing all our lives." Then I said:
-"There is just one thing I can't understand. You say it is the Lord's law of
-blessing his people, and if it is, wouldn't it be better to be blessed all
-their lives than just to be blessed for ten months?"
+3:10](/scriptures/ot/mal/3.10?lang=eng#9)). And he told those people that if
+they would pay their tithing for ten months, they could get out of debt. I
+talked to him afterwards, and I said, "Reverend, I would like to bear you my
+testimony, that you are getting pretty close to the truth." I said, "We have
+been paying our tithing all our lives." Then I said: "There is just one thing
+I can't understand. You say it is the Lord's law of blessing his people, and
+if it is, wouldn't it be better to be blessed all their lives than just to be
+blessed for ten months?"
 
 And he said: "Oh, Mr. Richards, we can't go that far, yet!"
 
@@ -224,4 +222,6 @@ that I would rather have my children enjoy the companionship of the Holy Ghost
 than any other person or individual in this world; and I feel the same today,
 for them and for me, and for all of you, and I leave you my love and blessing
 in the name of the Lord Jesus Christ, amen.
+
+## References
 

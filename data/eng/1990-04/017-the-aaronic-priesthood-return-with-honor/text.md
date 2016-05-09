@@ -1,4 +1,4 @@
-# The Aaronic Priesthood: Return with Honor
+# The Aaronic Priesthood:Return with Honor
 
 My dear brethren, I appreciate the opportunity of speaking this evening as a
 bishop. I would like to talk about the Aaronic Priesthood--first, what it is
@@ -28,9 +28,9 @@ presence of our Heavenly Father.
 
 All of us on earth are winners because we chose to come to this mortal
 probation, which Alma described as a preparatory state. (See [Alma 12:24,
-26](https://www.lds.org/scriptures/bofm/alma/12.24%2C26?lang=eng#23); [Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31); [Alma
-42:10, 13](https://www.lds.org/scriptures/bofm/alma/42.10%2C13?lang=eng#9).)
+26](/scriptures/bofm/alma/12.24,26?lang=eng#23); [Alma
+34:32](/scriptures/bofm/alma/34.32?lang=eng#31); [Alma 42:10,
+13](/scriptures/bofm/alma/42.10,13?lang=eng#9).)
 
 Understanding these concepts will give us eternal perspective when we have
 important choices to make.
@@ -76,11 +76,11 @@ essential to obtain faith in the Lord Jesus Christ.
 
 The Doctrine and Covenants stresses this very important point of obedience in
 a very simple way. The Lord says: "Keep my commandments continually. ... And
-except thou do this, where I am you cannot come." ([D&amp;C
-25:15](https://www.lds.org/scriptures/dc-testament/dc/25.15?lang=eng#14).)
+except thou do this, where I am you cannot come." ([D&amp;C 25:15](/scriptures
+/dc-testament/dc/25.15?lang=eng#14).)
 
 The Lord tells us plainly: "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 In pilot training, we spent hours in a training device that simulated real
 flight. There an instructor would teach us about emergencies which could occur
@@ -217,7 +217,7 @@ Second, we take upon us once again the name of Jesus Christ, allowing us to
 renew our baptismal covenant.
 
 Third, we promise that we will keep his commandments, renewing our covenants
-of obedience. (See [D&amp;C 20:77-79](https://www.lds.org/scriptures/dc-
+of obedience. (See [D&amp;C 20:77-79](/scriptures/dc-
 testament/dc/20.77-79?lang=eng#76).)
 
 If we keep these three promises, we are given one of the greatest blessings
@@ -228,8 +228,7 @@ protect us and direct us each day.
 The reason why we come to sacrament meeting each week is to renew these
 covenants so that we can have his Spirit to be with us and remain on the
 strait and narrow path that leads us to eternal life--to return with honor.
-(See [2 Ne.
-31:17-21](https://www.lds.org/scriptures/bofm/2-ne/31.17-21?lang=eng#16).)
+(See [2 Ne. 31:17-21](/scriptures/bofm/2-ne/31.17-21?lang=eng#16).)
 
 I have stressed the importance of obedience. However, as important as
 obedience is, sometimes people are deceived and choose to be selectively
@@ -247,17 +246,16 @@ little, take the advantage of one because of his words, dig a pit for thy
 neighbor; there is no harm in this; and do all these things, for tomorrow we
 die; and if it so be that we are guilty, God will beat us with a few stripes,
 and at last we shall be saved in the kingdom of God." ([2 Ne.
-28:7-8](https://www.lds.org/scriptures/bofm/2-ne/28.7-8?lang=eng#6).)
+28:7-8](/scriptures/bofm/2-ne/28.7-8?lang=eng#6).)
 
 My brethren, this is deception, as the Lord has taught us. Wickedness--not
 even a little wickedness--never was happiness. (See [Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).) And it
-never will be. Wickedness prevents us from returning with honor to our Father
-in Heaven.
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9).) And it never will be.
+Wickedness prevents us from returning with honor to our Father in Heaven.
 
 Remember, the Lord told us, "Keep my commandments continually. ... And except
-thou do this, where I am you cannot come." ([D&amp;C
-25:15](https://www.lds.org/scriptures/dc-testament/dc/25.15?lang=eng#14).)
+thou do this, where I am you cannot come." ([D&amp;C 25:15](/scriptures/dc-
+testament/dc/25.15?lang=eng#14).)
 
 Many young men enter the mission field having made great sacrifices. They may
 have had to postpone athletic, artistic, scholarship, and career plans. There
@@ -285,4 +283,6 @@ and whispering, "Return with honor."
 That we will remember who we are and be obedient to the commandments of the
 Lord and return with honor into the presence of our Heavenly Father with our
 families is my prayer, in the name of Jesus Christ, amen.
+
+## References
 

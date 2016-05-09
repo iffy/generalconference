@@ -127,7 +127,7 @@ of turmoil and great challenge and be at peace. You will be inspired to _know_
 what to do and to have the power or capacity to do it. Remember this promise
 of the Lord as clarified by President Harold B. Lee: "Ye are to be taught from
 on high. Sanctify yourselves [that is, keep my commandments] and ye shall be
-endowed with power." ([D&amp;C 43:16](https://www.lds.org/scriptures/dc-
+endowed with power." ([D&amp;C 43:16](/scriptures/dc-
 testament/dc/43.16?lang=eng#15).)
 
 I know that the principles we have discussed are true. They have been proven
@@ -135,8 +135,8 @@ in my own personal life. With my companion, Jeanene, who excels me in every
 worthwhile quality, I have walked the path shared with you today. I know these
 truths are correct. I pray that somehow there will come a reinforcement
 through the Spirit to your mind and heart of their great worth when they are
-challenged in your life. (See [D&amp;C 8:2-5](https://www.lds.org/scriptures
-/dc-testament/dc/8.2-5?lang=eng#1).)
+challenged in your life. (See [D&amp;C 8:2-5](/scriptures/dc-
+testament/dc/8.2-5?lang=eng#1).)
 
 Test your daily thoughts and acts against the principles we have reviewed. Are
 you making progress toward them, or have you begun to wander down destructive
@@ -202,4 +202,6 @@ detail of your life, every thought, every desire to strengthen yourself and to
 change. Be obedient to them, and they will bless you with the power to be
 obedient to their teachings. I so testify in love for you, in the name of
 Jesus Christ, amen.
+
+## References
 

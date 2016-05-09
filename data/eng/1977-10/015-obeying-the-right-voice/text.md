@@ -64,7 +64,7 @@ good to all men; indeed, we may say that we follow the admonition of Paul--We
 believe all things, we hope all things, we have endured many things, and hope
 to be able to endure all things. If there is anything virtuous, lovely, or of
 good report or praiseworthy, we seek after these things." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 Another thing a man needs is the love and companionship of family and friends.
 This too must be _earned_ by compliance with or _obedience_ to certain rules
@@ -156,12 +156,12 @@ consequences which follow all our actions, and they must be prepared to take
 those consequences.
 
 We are told: "I, the Lord, am bound when ye do what I say; but when ye do not
-what I say, ye have no promise." ([D&amp;C
-82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9).)
+what I say, ye have no promise." ([D&amp;C 82:10](/scriptures/dc-
+testament/dc/82.10?lang=eng#9).)
 
 One of the Ten Commandments states: "Honour thy father and thy mother: that
 thy days may be long upon the land which the Lord thy God giveth thee." ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).)
+20:12](/scriptures/ot/ex/20.12?lang=eng#11).)
 
 A good example of this is found in a little story which I heard recently. A
 young boy was playing baseball with his friends when his mother's voice came
@@ -249,8 +249,7 @@ we are most fortunate to know that for all who transgress there is redemption
 through the glorious principle of repentance. The Lord has told us how to
 repent, and he has promised us forgiveness. He said, "By this ye may know if a
 man repenteth of his sins--behold, he will confess them and forsake them."
-([D&amp;C 58:43](https://www.lds.org/scriptures/dc-
-testament/dc/58.43?lang=eng#42).)
+([D&amp;C 58:43](/scriptures/dc-testament/dc/58.43?lang=eng#42).)
 
 He has also admonished us that we should forgive all men their trespasses.
 Each of us has need for repentance, and each of us should extend the hand of
@@ -265,7 +264,7 @@ would come nor when the Bridegroom cometh.
 
 We must prepare now, and as we read in Matthew, "Watch therefore: for ye know
 not what hour your Lord doth come. ... Therefore be ye also ready." ([Matt.
-24:42, 44](https://www.lds.org/scriptures/nt/matt/24.42%2C44?lang=eng#41).)
+24:42, 44](/scriptures/nt/matt/24.42,44?lang=eng#41).)
 
 I cannot overemphasize the importance of each and every one of us living so as
 to be prepared and worthy to meet the Savior and assist him in his glorious
@@ -277,9 +276,8 @@ apply to us today:
 required at their hands. ...
 
 "And my people must needs be chastened until they learn obedience, if it must
-needs be, by the things which they suffer." ([D&amp;C 105:3,
-6](https://www.lds.org/scriptures/dc-testament/dc/105.3%2C6?lang=eng#2);
-italics added.)
+needs be, by the things which they suffer." ([D&amp;C 105:3, 6](/scriptures
+/dc-testament/dc/105.3,6?lang=eng#2); italics added.)
 
 We do not suggest blind obedience, but obedience by _faith in those things
 which may not be fully understood by man's limited comprehension, but which in
@@ -294,7 +292,7 @@ commandments of the Lord.
 "And after many days an angel of the Lord appeared unto Adam, saying: Why dost
 thou offer sacrifices unto the Lord? And Adam said unto him: I know not, save
 the Lord commanded me." ([Moses
-5:5-6](https://www.lds.org/scriptures/pgp/moses/5.5-6?lang=eng#4).)
+5:5-6](/scriptures/pgp/moses/5.5-6?lang=eng#4).)
 
 May that be sufficient reason for us to keep the commandments. May we increase
 in faith until we can say, with Adam, "We keep the commandments because the
@@ -305,4 +303,6 @@ We are his spirit children; we have the true and everlasting gospel and a
 prophet of God--even President Spencer W. Kimball--to guide us in these latter
 days. _Listen to him and hearken to his words and follow him._ I promise you
 that as we do this we will be blessed. In the name of Jesus Christ, amen.
+
+## References
 

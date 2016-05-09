@@ -250,3 +250,5 @@ President David O. McKay for thirty-five years; W. Creed Haymond, noted
 athlete and church leader; Dr. Barney Clark, recipient of the first artificial
 heart.
 
+## References
+

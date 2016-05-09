@@ -95,8 +95,7 @@ in his due time, await our return after our journey through life.
 Let us, therefore, get rid of our sandbag of impatience and learn to be more
 patient with our spouses and children, our friends and neighbors, because the
 Lord has counseled us to "continue in patience until ye are perfected"!
-([D&amp;C 67:13](https://www.lds.org/scriptures/dc-
-testament/dc/67.13?lang=eng#12).)
+([D&amp;C 67:13](/scriptures/dc-testament/dc/67.13?lang=eng#12).)
 
 And for those of you who do not know what the word _patience_ really means, I
 offer a simple definition: Patience is learning to hide your impatience.
@@ -104,29 +103,29 @@ offer a simple definition: Patience is learning to hide your impatience.
 And how many of us still go through life with a ballast bag called criticism?
 We should, instead, give more praise wherever and whenever possible because we
 have been told and retold, "Cease to find fault one with another." ([D&amp;C
-88:124](https://www.lds.org/scriptures/dc-testament/dc/88.124?lang=eng#123).)
-And let us in this respect also remember that the faults and shortcomings we
-see in the members of our own ward or branch are of less consequence to us
-than one of the smallest in ourselves.
+88:124](/scriptures/dc-testament/dc/88.124?lang=eng#123).) And let us in this
+respect also remember that the faults and shortcomings we see in the members
+of our own ward or branch are of less consequence to us than one of the
+smallest in ourselves.
 
 Furthermore, do we still have a sandbag with unfriendliness in our basket,
 even though the Savior asks us to be friendly and loving? As he said: "Ye are
 they whom my Father hath given me; ye are my friends." ([D&amp;C
-84:63](https://www.lds.org/scriptures/dc-testament/dc/84.63?lang=eng#62).)
+84:63](/scriptures/dc-testament/dc/84.63?lang=eng#62).)
 
 While on our spiritual flight, let us totally empty our ballast bag of pride
 and be more humble in all things, always remembering the Savior's glorious
 promise to all: "And inasmuch as you have humbled yourselves before me, the
-blessings of the kingdom are yours." ([D&amp;C
-61:37](https://www.lds.org/scriptures/dc-testament/dc/61.37?lang=eng#36).)
+blessings of the kingdom are yours." ([D&amp;C 61:37](/scriptures/dc-
+testament/dc/61.37?lang=eng#36).)
 
 And will we really ascend in our spiritual balloon if we are not prepared to
 dispose of our sandbag of greed? Living prophets have counseled us to pay an
 honest tithing and to give a generous fast offering; and, moreover, the
 scriptures reveal in a very candid way: "Wo unto [them] that [do] not give [of
-their] substance to the poor." ([D&amp;C 56:16](https://www.lds.org/scriptures
-/dc-testament/dc/56.16?lang=eng#15).) And, unfortunately, some people think
-they are being generous because they give so much free advice!
+their] substance to the poor." ([D&amp;C 56:16](/scriptures/dc-
+testament/dc/56.16?lang=eng#15).) And, unfortunately, some people think they
+are being generous because they give so much free advice!
 
 Finally, we must get rid of the heavy ballast of frustrations. All of us must
 discover in the wicker basket of our personal spiritual balloon those
@@ -134,8 +133,8 @@ frustrations against which we continually have to be on guard. It was revealed
 unto us, and we have already heard it twice from this pulpit in this
 conference: "The works, and the designs, and the purposes of God cannot be
 frustrated, neither can they come to naught ... remember that it is not the work
-of God that is frustrated, but the work of men." ([D&amp;C 3:1,
-3](https://www.lds.org/scriptures/dc-testament/dc/3.1%2C3?lang=eng#0).)
+of God that is frustrated, but the work of men." ([D&amp;C 3:1, 3](/scriptures
+/dc-testament/dc/3.1,3?lang=eng#0).)
 
 The only way we can move upward from our present level of spirituality and
 performance to a higher level is by doing away with the ballast that holds us
@@ -185,4 +184,6 @@ mankind, the great mediator for the salvation and exaltation of all of our
 Heavenly Father's children, if they are willing to follow his outlined flight
 plan. Of which I testify this day, gratefully and happily, and in the name of
 Jesus Christ, amen.
+
+## References
 

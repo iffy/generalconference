@@ -20,9 +20,9 @@ their truth and verity.
 
 For a text I take these sweet and consoling words of biblical origin:
 "Precious in the sight of the Lord is the death of his saints." ([Ps.
-116:15](https://www.lds.org/scriptures/ot/ps/116.15?lang=eng#14).) To them I
-append Paul's pointed and painful pronouncement: "The sting of death is sin."
-([1 Cor. 15:56](https://www.lds.org/scriptures/nt/1-cor/15.56?lang=eng#55).)
+116:15](/scriptures/ot/ps/116.15?lang=eng#14).) To them I append Paul's
+pointed and painful pronouncement: "The sting of death is sin." ([1 Cor.
+15:56](/scriptures/nt/1-cor/15.56?lang=eng#55).)
 
 Death can be comforting and sweet and precious or it can thrust upon us all
 the agonies and sulphurous burnings of an endless hell. And we--each of us
@@ -87,18 +87,17 @@ when He says: "I will prove you in all things, whether you will abide in my
 covenant, even unto death, that you may be found worthy.
 
 "For if ye will not abide in my covenant ye are not worthy of me." ([D&amp;C
-98:14-15](https://www.lds.org/scriptures/dc-
-testament/dc/98.14-15?lang=eng#13).)
+98:14-15](/scriptures/dc-testament/dc/98.14-15?lang=eng#13).)
 
 Now, what of death? of the passing of loved ones? of our life beyond the
 grave?
 
 Our scriptures say: "Death hath passed upon all men, to fulfil the merciful
 plan of the great Creator." ([2 Ne.
-9:6](https://www.lds.org/scriptures/bofm/2-ne/9.6?lang=eng#5).) Where the true
-Saints are concerned there is no sorrow in death except that which attends a
-temporary separation from loved ones. Birth and death are both essential steps
-in the unfolding drama of eternity.
+9:6](/scriptures/bofm/2-ne/9.6?lang=eng#5).) Where the true Saints are
+concerned there is no sorrow in death except that which attends a temporary
+separation from loved ones. Birth and death are both essential steps in the
+unfolding drama of eternity.
 
 We shouted for joy at the privilege of becoming mortal because without the
 tests of mortality there could be no eternal life. We now sing praises to the
@@ -109,22 +108,21 @@ eternal life.
 When the faithful saints depart from this life they "are received into a state
 of happiness, which is called paradise, a state of rest, a state of peace,
 where they shall rest from all their troubles and from all care, and sorrow"
-([Alma 40:12](https://www.lds.org/scriptures/bofm/alma/40.12?lang=eng#11)),
-and they remain in this state until the day of their resurrection.
+([Alma 40:12](/scriptures/bofm/alma/40.12?lang=eng#11)), and they remain in
+this state until the day of their resurrection.
 
 When the wicked and ungodly depart from this life they continue in their
 wickedness and rebellion. "That same spirit which doth possess your bodies at
 the time ye go out of this life," the scripture says, "that same spirit will
 have power to possess your body in that eternal world." ([Alma
-34:34](https://www.lds.org/scriptures/bofm/alma/34.34?lang=eng#33).)
+34:34](/scriptures/bofm/alma/34.34?lang=eng#33).)
 
 "Ye must press forward with a steadfastness in Christ," Nephi said to members
 of the Church, "having a perfect brightness of hope, and a love of God and of
 all men. Wherefore, if ye shall press forward, feasting upon the word of
 Christ, and endure to the end, behold, thus saith the Father: Ye shall have
-eternal life." ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19).) That is
-to say--all the faithful Saints, all of those who have endured to the end,
+eternal life." ([2 Ne. 31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19).) That
+is to say--all the faithful Saints, all of those who have endured to the end,
 depart this life with the absolute guarantee of eternal life.
 
 There is no equivocation, no doubt, no uncertainty in our minds. Those who
@@ -147,7 +145,7 @@ There are many things they will do and must do, even beyond the grave, to
 merit the fulness of the Father's kingdom in that final glorious day when the
 great King shall say unto them, "Come, ye blessed of my Father, inherit the
 kingdom prepared for you from the foundation of the world." ([Matt.
-25:34](https://www.lds.org/scriptures/nt/matt/25.34?lang=eng#33).)
+25:34](/scriptures/nt/matt/25.34?lang=eng#33).)
 
 But what we are saying is that when the saints of God chart a course of
 righteousness, when they gain sure testimonies of the truth and divinity of
@@ -160,21 +158,20 @@ His Son are perfect.
 
 Is it any wonder that the scriptures say: "Precious in the sight of the Lord
 is the death of his saints"? ([Ps.
-116:15](https://www.lds.org/scriptures/ot/ps/116.15?lang=eng#14).) Truly such
-is precious, wondrous, and glorious, for when the saints die, added souls have
-assured themselves of exaltation with Him who provided the way for them to
-advance and progress and become like Him.
+116:15](/scriptures/ot/ps/116.15?lang=eng#14).) Truly such is precious,
+wondrous, and glorious, for when the saints die, added souls have assured
+themselves of exaltation with Him who provided the way for them to advance and
+progress and become like Him.
 
 Is it any wonder that the scriptures say: "Blessed are the dead which die in
 the Lord," for they shall "rest from their labours; and their works do follow
-them." ([Rev.
-14:13](https://www.lds.org/scriptures/nt/rev/14.13?lang=eng#12).) Truly it is
-a blessed occasion, for the faithful saints have filled the full measure of
+them." ([Rev. 14:13](/scriptures/nt/rev/14.13?lang=eng#12).) Truly it is a
+blessed occasion, for the faithful saints have filled the full measure of
 their creation, and a gracious God will give them all things in due course.
 
 Is it any wonder that the Lord says to His saints, "Those that die in me shall
 not taste of death, for it shall be sweet unto them"? ([D&amp;C
-42:46](https://www.lds.org/scriptures/dc-testament/dc/42.46?lang=eng#45).)
+42:46](/scriptures/dc-testament/dc/42.46?lang=eng#45).)
 
 Is it any wonder that the Prophet Joseph Smith said such things as: "When men
 are prepared, they are better off to go hence"? (_Teachings of the Prophet
@@ -210,8 +207,8 @@ If we have lived the gospel we shall come forth with celestial bodies which
 are prepared to stand the glory of a celestial kingdom. We shall continue to
 live in the family unit, and as Joseph Smith said, "That same sociality which
 exists among us here will exist among us there, only it will be coupled with
-eternal glory, which glory we do not now enjoy." ([D&amp;C
-130:2](https://www.lds.org/scriptures/dc-testament/dc/130.2?lang=eng#1).)
+eternal glory, which glory we do not now enjoy." ([D&amp;C 130:2](/scriptures
+/dc-testament/dc/130.2?lang=eng#1).)
 
 We rejoice in life. We rejoice in death. We have no desires except to do the
 will of Him whose we are and to dwell with Him in His kingdom at the appointed
@@ -227,7 +224,9 @@ who said, as the hour of his death approached:
 "Henceforth there is laid up for me a crown of righteousness, which the Lord,
 the righteous judge, shall give me at that day: and not to me only, but unto
 all them also that love his appearing." ([2 Tim.
-4:6-8](https://www.lds.org/scriptures/nt/2-tim/4.6-8?lang=eng#5).)
+4:6-8](/scriptures/nt/2-tim/4.6-8?lang=eng#5).)
 
 In the name of the Lord Jesus Christ. Amen.
+
+## References
 

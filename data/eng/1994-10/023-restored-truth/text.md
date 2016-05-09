@@ -23,7 +23,7 @@ and some, prophets; and some, evangelists; and some, pastors and teachers;
 
 "For the perfecting of the saints, for the work of the ministry, for the
 edifying of the body of Christ" ([Eph.
-4:11-12](https://www.lds.org/scriptures/nt/eph/4.11-12?lang=eng#10)).
+4:11-12](/scriptures/nt/eph/4.11-12?lang=eng#10)).
 
 When Jesus called His twelve Apostles, He laid His hands upon them, ordained
 them, and conferred upon them the authority to act in His name and govern His
@@ -41,11 +41,10 @@ the church that Jesus Christ left to their care and keeping, but they knew
 their efforts would ultimately be in vain. Paul wrote to the Thessalonian
 Saints, who were anxiously anticipating the second coming of Christ, that
 "that day shall not come, except there come a falling away first" ([2 Thes.
-2:3](https://www.lds.org/scriptures/nt/2-thes/2.3?lang=eng#2)). He also warned
-Timothy that "the time will come when they will not endure sound doctrine; ...
-And they shall turn away their ears from the truth, and shall be turned unto
-fables" ([2 Tim.
-4:3-4](https://www.lds.org/scriptures/nt/2-tim/4.3-4?lang=eng#2)).
+2:3](/scriptures/nt/2-thes/2.3?lang=eng#2)). He also warned Timothy that "the
+time will come when they will not endure sound doctrine; ... And they shall turn
+away their ears from the truth, and shall be turned unto fables" ([2 Tim.
+4:3-4](/scriptures/nt/2-tim/4.3-4?lang=eng#2)).
 
 And Peter presupposed the falling away, or the Apostasy, when he spoke of "the
 times of refreshing" that would come before God would again send Jesus Christ,
@@ -53,8 +52,7 @@ who "before was preached unto you:
 
 "Whom the heaven must receive until the times of restitution of all things,
 which God hath spoken by the mouth of all his holy prophets since the world
-began" ([Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18)).
+began" ([Acts 3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18)).
 
 Eventually, with the known exception of John the Beloved, Peter and his fellow
 Apostles were martyred. The Apostle John and members of the Church struggled
@@ -105,7 +103,7 @@ principles to which the gospel could be restored.
 
 By 1820 the world was ready for the "restitution of all things" spoken of by
 Peter and "all [God's] holy prophets since the world began" ([Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20)).
+3:21](/scriptures/nt/acts/3.21?lang=eng#20)).
 
 At this time religious excitement was sweeping across the countryside in
 upstate New York. Ministers from different denominations vied zealously for
@@ -115,35 +113,33 @@ of the family of Joseph Smith, Sr., and Lucy Mack Smith.
 The Smith family followed this religious excitement, and members of the family
 were "proselyted" to various faiths. Mother Smith and three of the children--
 Hyrum, Samuel, and Sophronia--joined one church (see [JS--H
-1:7](https://www.lds.org/scriptures/pgp/js-h/1.7?lang=eng#6)), while Father
-Smith and his eldest son, Alvin, affiliated with another.
+1:7](/scriptures/pgp/js-h/1.7?lang=eng#6)), while Father Smith and his eldest
+son, Alvin, affiliated with another.
 
 When fourteen-year-old Joseph, Jr., considered which church to join, he
 investigated each denomination carefully, listening to the respective
 ministers and trying to sort out the truth. He knew there is "one Lord, one
-faith, one baptism" ([Eph.
-4:5](https://www.lds.org/scriptures/nt/eph/4.5?lang=eng#4)), but which was the
-one he did not know.
+faith, one baptism" ([Eph. 4:5](/scriptures/nt/eph/4.5?lang=eng#4)), but which
+was the one he did not know.
 
 "In the midst of this war of words and tumult of opinions," Joseph Smith, Jr.,
 wrote later, "I often said to myself: What is to be done? Who of all these
 parties are right; or, are they all wrong together? If any one of them be
 right, which is it, and how shall I know it?" ([JS--H
-1:10](https://www.lds.org/scriptures/pgp/js-h/1.10?lang=eng#9).)
+1:10](/scriptures/pgp/js-h/1.10?lang=eng#9).)
 
 Young Joseph looked for answers to his questions in the scriptures. While
 reading in the Bible, he came upon a simple, direct admonition in the epistle
 of James: "If any of you lack wisdom, let him ask of God, that giveth to all
 men liberally, and upbraideth not; and it shall be given him" ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4)).
+1:5](/scriptures/nt/james/1.5?lang=eng#4)).
 
 Joseph reflected: "Never did any passage of scripture come with more power to
 the heart of man than this did at this time to mine. It seemed to enter with
 great force into every feeling of my heart. I reflected on it again and again,
 knowing that if any person needed wisdom from God, I did; for how to act I did
 not know, and unless I could get more wisdom than I then had, I would never
-know" ([JS--H
-1:12](https://www.lds.org/scriptures/pgp/js-h/1.12?lang=eng#11)).
+know" ([JS--H 1:12](/scriptures/pgp/js-h/1.12?lang=eng#11)).
 
 With the simple faith of youth and motivated by the inspiration of the Holy
 Spirit, Joseph decided to go into a grove of trees near his home and put the
@@ -165,7 +161,7 @@ sun, which descended gradually until it fell upon me. ...
 glory defy all description, standing above me in the air. One of them spake
 unto me, calling me by name and said, pointing to the other--This is My
 Beloved Son. Hear Him!" ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15)).
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15)).
 
 I testify those Beings were God, our Heavenly Father, and His resurrected Son,
 Jesus Christ, in one of the most supernal spiritual manifestations of all
@@ -195,17 +191,12 @@ the Son appeared in wondrous vision to young Joseph as a step in the restoring
 of the fulness of the gospel of Jesus Christ to the earth. Through subsequent,
 equally miraculous experiences, Joseph Smith was God's instrument in--
 
-  * Translating from ancient records a book of scripture, the Book of Mormon: Another Testament of Jesus Christ,
-
-  * Restoring priesthood authority,
-
-  * Restoring sealing keys to turn the hearts of the children to the fathers,
-
-  * Establishing the restored church of Jesus Christ in these latter days with the fulness of the gospel as taught in the meridian of time by the Savior and His Apostles,
-
-  * Fulfilling biblical prophecy,
-
-  * Preparing for the second coming of Jesus Christ.
+  * Translating from ancient records a book of scripture, the Book of Mormon: Another Testament of Jesus Christ, 
+  * Restoring priesthood authority, 
+  * Restoring sealing keys to turn the hearts of the children to the fathers, 
+  * Establishing the restored church of Jesus Christ in these latter days with the fulness of the gospel as taught in the meridian of time by the Savior and His Apostles, 
+  * Fulfilling biblical prophecy, 
+  * Preparing for the second coming of Jesus Christ. 
 
 During the Orlando temple tours, I explained to our guests who were not of our
 faith that I understood if they found this message a bit overwhelming. I
@@ -239,13 +230,13 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things"
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3)).
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3)).
 
 Moroni urges us to go directly to the Source of Truth for answers to our
 questions. If we seek Him humbly and sincerely, He will help us discern truth
 from error. As the Savior Himself assured His disciples: "Ye shall know the
 truth, and the truth shall make you free" ([John
-8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31)).
+8:32](/scriptures/nt/john/8.32?lang=eng#31)).
 
 Brothers and sisters, we know the truth. Because we do, we are expected to
 share it with all of our Heavenly Father's children. To our dear friends of
@@ -260,4 +251,6 @@ If you will do so, I believe you will come to know as I know that The Church
 of Jesus Christ of Latter-day Saints is God's true church upon the earth. May
 God bless you, my dear friends, with the peace and joy the gospel gives, I
 pray in the name of Jesus Christ, amen.
+
+## References
 

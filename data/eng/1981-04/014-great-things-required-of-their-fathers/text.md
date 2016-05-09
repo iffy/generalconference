@@ -4,8 +4,7 @@ When the Lord declared that "power is not given unto Satan to tempt little
 children, until they begin to become accountable," He revealed that this
 period of childhood and unaccountability was given to children so that "great
 things may be required at the hand of their fathers." (See [D&amp;C
-29:47-48](https://www.lds.org/scriptures/dc-
-testament/dc/29.47-48?lang=eng#46).)
+29:47-48](/scriptures/dc-testament/dc/29.47-48?lang=eng#46).)
 
 "That great things may be required at the hand of their fathers"! What
 confidence the Lord has in fathers, and what a responsibility He has placed on
@@ -128,9 +127,9 @@ Joseph Smith, Jr., Frederick G. Williams, Sidney Rigdon, and Newel K. Whitney.
 
 In this revelation the Lord states that Satan "cometh and taketh away light
 and truth, through disobedience, from the children of men, and because of the
-tradition of their fathers." ([D&amp;C 93:39](https://www.lds.org/scriptures
-/dc-testament/dc/93.39?lang=eng#38).) The "tradition of their fathers" refers,
-of course, to the bad examples and teachings of fathers.
+tradition of their fathers." ([D&amp;C 93:39](/scriptures/dc-
+testament/dc/93.39?lang=eng#38).) The "tradition of their fathers" refers, of
+course, to the bad examples and teachings of fathers.
 
 We must remember this world is a telestial environment. Our children grow up
 in this environment. They are constantly exposed to television programs and
@@ -166,7 +165,7 @@ I know fathers who inquire of their children each evening to determine
 firsthand what their children are being taught in school and what needs to be
 corrected. Then, if necessary, they instruct them in what the Lord has
 revealed. This is application of the principle that "light and truth forsake
-that evil one." ([D&amp;C 93:37](https://www.lds.org/scriptures/dc-
+that evil one." ([D&amp;C 93:37](/scriptures/dc-
 testament/dc/93.37?lang=eng#36).)
 
 The new consolidated Sunday meeting schedule has been implemented to give
@@ -178,14 +177,14 @@ What should we teach? The Lord has revealed the specific curriculum that
 parents should teach. Hear His words: "Teach ... unto your children, that all
 men, everywhere, must repent, or they can in nowise inherit the kingdom of
 God, for no unclean thing can dwell there, or dwell in his presence." ([Moses
-6:57](https://www.lds.org/scriptures/pgp/moses/6.57?lang=eng#56).)
+6:57](/scriptures/pgp/moses/6.57?lang=eng#56).)
 
 As further noted in this revelation, the fundamental doctrines consist of the
 doctrine of the Fall, the mission of Christ and His atonement, and the first
 principles and ordinances of the gospel, which include faith in Christ,
 repentance, baptism for the remission of sins, and the gift of the Holy Ghost
 as the means to a sanctified life (see [Moses
-6:58-59](https://www.lds.org/scriptures/pgp/moses/6.58-59?lang=eng#57)).
+6:58-59](/scriptures/pgp/moses/6.58-59?lang=eng#57)).
 
 Brethren, we are to teach the fundamental doctrines of the Church in such a
 way that our children may understand. Some fathers teach, but their children
@@ -251,4 +250,6 @@ and mention it frequently as they mingle together between reunions.
 God bless all the fathers in Israel to do well the work within the walls of
 our own homes. With the Lord's help we shall succeed in this, our most
 important responsibility. In the name of Jesus Christ, amen.
+
+## References
 

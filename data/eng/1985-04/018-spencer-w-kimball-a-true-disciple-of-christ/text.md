@@ -1,4 +1,4 @@
-# Spencer W. Kimball: A True Disciple of Christ
+# Spencer W. Kimball:A True Disciple of Christ
 
 Each time I listen to the voice and words of President Spencer W. Kimball, my
 testimony that he is indeed a living prophet is reaffirmed with great impact.
@@ -23,8 +23,7 @@ merely Acting President." He wanted me to understand that. He has always been
 careful never to assume any role that was not rightfully his. He was
 indicating also his respect for President Lee and at the same time teaching
 me. He has always applied Matthew 23:12--"He that shall humble himself shall
-be exalted." [[Matt.
-23:12](https://www.lds.org/scriptures/nt/matt/23.12?lang=eng#11)]
+be exalted." [[Matt. 23:12](/scriptures/nt/matt/23.12?lang=eng#11)]
 
 After one of our lengthy temple meetings, when I had been a member of the
 Twelve for only a short time, President Kimball took hold of my arm and said,
@@ -46,7 +45,7 @@ and confidence in me. He has learned the art of making people feel good about
 themselves. By his actions we know he loves us. "But whosoever will be great
 among you, let him be your minister; and whosoever will be chief among you,
 let him be your servant." ([Matt.
-20:26-27](https://www.lds.org/scriptures/nt/matt/20.26-27?lang=eng#25).)
+20:26-27](/scriptures/nt/matt/20.26-27?lang=eng#25).)
 
 Let me tell you another incident that indicates President Kimball looks upon
 himself as our minister and servant.
@@ -161,7 +160,7 @@ two men in this setting. I had the responsibility for his safety. I had tried
 to talk him out of it. But he is a disciple of Christ and holds on to the
 words of God: "I was an hungred, and ye gave me meat: ... Naked, and ye clothed
 me: ... I was in prison, and ye came unto me." ([Matt.
-25:35-36](https://www.lds.org/scriptures/nt/matt/25.35-36?lang=eng#34).)
+25:35-36](/scriptures/nt/matt/25.35-36?lang=eng#34).)
 
 After the pictures were taken, President Kimball looked at one prisoner and
 then at the other and said, "Thank you for letting me have my picture taken
@@ -176,7 +175,7 @@ with all thy soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." [[Matt.
-22:37-40](https://www.lds.org/scriptures/nt/matt/22.37-40?lang=eng#36)]
+22:37-40](/scriptures/nt/matt/22.37-40?lang=eng#36)]
 
 Each week after the Twelve and First Presidency have met in the temple to take
 care of current business, we take turns reporting where we have been and what
@@ -238,8 +237,8 @@ about.
 The fiftieth section of the Doctrine and Covenants gives, I believe, an
 accurate description of President Spencer W. Kimball: "He that is ordained of
 God and sent forth, the same is appointed to be the greatest, notwithstanding
-he is the least and the servant of all." ([D&amp;C
-50:26](https://www.lds.org/scriptures/dc-testament/dc/50.26?lang=eng#25).)
+he is the least and the servant of all." ([D&amp;C 50:26](/scriptures/dc-
+testament/dc/50.26?lang=eng#25).)
 
 Now a great counselor is sitting at the side of this wonderful prophet. To him
 President Kimball has delegated much responsibility. With wisdom and judgment
@@ -259,4 +258,6 @@ enjoy his influence. His life motivates us to set our goals and make our plans
 to become disciples of Christ such as he. May God help us as priesthood
 bearers to follow his example, heed his priceless counsel, and share his
 wisdom and love in our homes, I pray in the name of Jesus Christ, amen.
+
+## References
 

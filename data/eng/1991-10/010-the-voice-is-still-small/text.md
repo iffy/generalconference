@@ -5,15 +5,14 @@ However, I am encouraged with the warm and strong brotherhood I feel from
 these Brethren seated here.
 
 My experiences include, like Nephi, "having been born of goodly parents,
-therefore I was taught ..." ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0)). Next I was
-blessed to marry a beautiful wife, a queenly saint; therefore, I am receiving
-some secondary education. My internship training started as we were blessed
-with children. And our wonderful grandchildren have become our postgraduate
-education. It is my prayer and my trust in this regard that, once gained,
-"whatever principle of intelligence we attain unto in this life, it will rise
-with us in the resurrection." ([D&amp;C 130:18](https://www.lds.org/scriptures
-/dc-testament/dc/130.18?lang=eng#17).)
+therefore I was taught ..." ([1 Ne. 1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0)).
+Next I was blessed to marry a beautiful wife, a queenly saint; therefore, I am
+receiving some secondary education. My internship training started as we were
+blessed with children. And our wonderful grandchildren have become our
+postgraduate education. It is my prayer and my trust in this regard that, once
+gained, "whatever principle of intelligence we attain unto in this life, it
+will rise with us in the resurrection." ([D&amp;C 130:18](/scriptures/dc-
+testament/dc/130.18?lang=eng#17).)
 
 President Spencer W. Kimball, a man with unique experience in all levels of
 Church leadership, described the subject that has been on my mind since this
@@ -45,7 +44,7 @@ the wind an earthquake; but the Lord was not in the earthquake:
 
 "And after the earthquake a fire; but the Lord was not in the fire: and after
 the fire a still small voice." ([1 Kgs.
-19:11-12](https://www.lds.org/scriptures/ot/1-kgs/19.11-12?lang=eng#10).)
+19:11-12](/scriptures/ot/1-kgs/19.11-12?lang=eng#10).)
 
 My testimony is that the Lord _is_ speaking to you! But with the deafening
 decibels of today's environment, all too often we fail to hear him. I remember
@@ -82,8 +81,7 @@ instance, ponder the meaning of the words, enjoy the spirit of the music. Sing
 with enthusiasm without regard to your tones. You will have a good feeling,
 and your spirit will be enlivened; and as you join with the Saints in the
 songs of the heart, the Lord promises to answer this with blessings upon your
-head. (See [D&amp;C 25:12](https://www.lds.org/scriptures/dc-
-testament/dc/25.12?lang=eng#11).)
+head. (See [D&amp;C 25:12](/scriptures/dc-testament/dc/25.12?lang=eng#11).)
 
 Next, _partake_ of the sacrament. Don't merely _take_ the sacrament. Think of
 the covenants you are remaking. Truly witness unto the Father that you will
@@ -126,8 +124,7 @@ testify they are of me and not of man:
 Spirit unto you, ...
 
 "Wherefore, you can testify that you have heard my voice, and know my words."
-([D&amp;C 18:33-36](https://www.lds.org/scriptures/dc-
-testament/dc/18.33-36?lang=eng#32).)
+([D&amp;C 18:33-36](/scriptures/dc-testament/dc/18.33-36?lang=eng#32).)
 
 And thus, what to many seems to be the monologue of prayer actually becomes a
 dialogue with God as we immerse ourselves in the scriptures.
@@ -143,11 +140,13 @@ throughout the world. It speaks to our missionaries; it comes to heads of
 families. I further witness that this still, small voice is speaking
 personally to you. Please be _still_ and _listen!_ The Psalmist said, "Be
 still, and know that I am God." ([Ps.
-46:10](https://www.lds.org/scriptures/ot/ps/46.10?lang=eng#9).)
+46:10](/scriptures/ot/ps/46.10?lang=eng#9).)
 
 I know that he lives. He loves you. He wants you to follow him, and to follow
 him not because of any spectacular showmanship on his part, but simply because
 you love him--simply! I bear my solemn witness that he lives and is near you,
 and that we are being led by his living prophet in these last days. All of
 which I do in the holy name of our Savior, Jesus Christ, amen.
+
+## References
 

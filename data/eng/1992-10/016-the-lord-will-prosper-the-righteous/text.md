@@ -27,8 +27,7 @@ with all your hearts.
 "And this shall be my covenant with you, ye shall have it for the land of your
 inheritance, and for the inheritance of your children forever, while the earth
 shall stand, and ye shall possess it again in eternity, no more to pass away."
-([D&amp;C 38:17-20](https://www.lds.org/scriptures/dc-
-testament/dc/38.17-20?lang=eng#16).)
+([D&amp;C 38:17-20](/scriptures/dc-testament/dc/38.17-20?lang=eng#16).)
 
 The Lord has demonstrated throughout the generations that when the inhabitants
 of the earth remember him and are obedient to his direction, he will bless
@@ -51,8 +50,7 @@ seed, and we did reap again in abundance. And we began to raise flocks, and
 herds, and animals of every kind.
 
 "And it came to pass that we began to prosper exceedingly, and to multiply in
-the land." ([2 Ne. 5:10-11,
-13](https://www.lds.org/scriptures/bofm/2-ne/5.10-11%2C13?lang=eng#9).)
+the land." ([2 Ne. 5:10-11, 13](/scriptures/bofm/2-ne/5.10-11,13?lang=eng#9).)
 
 This kind of material prosperity has always been a fragile thing. It has
 proved to be one of the greatest tests with which a people can be confronted.
@@ -93,7 +91,7 @@ both male and female, whether out of the church or in the church, having no
 respect to persons as to those who stood in need.
 
 "And thus they did prosper." ([Alma
-1:26-31](https://www.lds.org/scriptures/bofm/alma/1.26-31?lang=eng#25).)
+1:26-31](/scriptures/bofm/alma/1.26-31?lang=eng#25).)
 
 It has always been so. When the lives of the people are in harmony with the
 Lord's will, all of the essential factors that produce the blessings God
@@ -111,8 +109,7 @@ unto the sowing time: and ye shall eat your bread to the full, and dwell in
 your land safely.
 
 "And I will give peace in the land, and ye shall lie down, and none shall make
-you afraid." ([Lev.
-26:3-6](https://www.lds.org/scriptures/ot/lev/26.3-6?lang=eng#2).)
+you afraid." ([Lev. 26:3-6](/scriptures/ot/lev/26.3-6?lang=eng#2).)
 
 Perhaps the greatest tragedies of all time have occurred when people have
 received the promised blessings of the Lord and then have forgotten the source
@@ -132,8 +129,7 @@ multiplied, and all that thou hast is multiplied;
 
 "And thou say in thine heart, My power and the might of _mine_ hand hath
 gotten me this wealth." ([Deut. 8:11-14,
-17](https://www.lds.org/scriptures/ot/deut/8.11-14%2C17?lang=eng#10); emphasis
-added.)
+17](/scriptures/ot/deut/8.11-14,17?lang=eng#10); emphasis added.)
 
 Returning to the account in Alma to which I made earlier reference, not many
 years passed away from the time of prosperity described in such glowing terms
@@ -149,8 +145,7 @@ were they lifted up in the pride of their eyes. ...
 
 "The people of the church began ... to set their hearts upon riches and upon the
 vain things of the world, that they began to be scornful, one towards
-another." ([Alma 4:6,
-8](https://www.lds.org/scriptures/bofm/alma/4.6%2C8?lang=eng#5).)
+another." ([Alma 4:6, 8](/scriptures/bofm/alma/4.6,8?lang=eng#5).)
 
 The same cycle occurred in the days of Helaman. At one point Helaman describes
 his people in this way:
@@ -162,7 +157,7 @@ themselves unto the church and were baptized unto repentance.
 "And so great was the prosperity of the church, and so many the blessings
 which were poured out upon the people, that even the high priests and the
 teachers were themselves astonished beyond measure." ([Hel.
-3:24-25](https://www.lds.org/scriptures/bofm/hel/3.24-25?lang=eng#23).)
+3:24-25](/scriptures/bofm/hel/3.24-25?lang=eng#23).)
 
 It was not long until the full cycle was completed, however. Within five years
 from the period just cited, Helaman makes this report regarding members of the
@@ -172,8 +167,7 @@ into the church of God, but into the hearts of the people who professed to
 belong to the church of God--
 
 "And they were lifted up in pride, even to the persecution of many of their
-brethren" ([Hel.
-3:33-34](https://www.lds.org/scriptures/bofm/hel/3.33-34?lang=eng#32)).
+brethren" ([Hel. 3:33-34](/scriptures/bofm/hel/3.33-34?lang=eng#32)).
 
 These abrupt changes in the condition of the people led Helaman to lament:
 
@@ -187,8 +181,7 @@ in silver, and in all manner of precious things of every kind and art; sparing
 their lives, and delivering them out of the hands of their enemies; ... and in
 fine, doing all things for the welfare and happiness of his people; yea, then
 is the time that they do harden their hearts, and do forget the Lord their
-God" ([Hel.
-12:1-2](https://www.lds.org/scriptures/bofm/hel/12.1-2?lang=eng#0)).
+God" ([Hel. 12:1-2](/scriptures/bofm/hel/12.1-2?lang=eng#0)).
 
 It is one thing to look back upon the events of history. It is another to
 regard our own time. We have the Lord's assurance that he will bless and
@@ -199,8 +192,7 @@ On the other hand, we must not forget that these blessings are conditional. As
 King Limhi warned his people, "For behold, the Lord hath said: I will not
 succor my people in the day of their transgression; but I will hedge up their
 ways that they prosper not; and their doings shall be as a stumbling block
-before them" ([Mosiah
-7:29](https://www.lds.org/scriptures/bofm/mosiah/7.29?lang=eng#28)).
+before them" ([Mosiah 7:29](/scriptures/bofm/mosiah/7.29?lang=eng#28)).
 
 As bearers of the priesthood to whom the Lord has entrusted the leadership for
 his work, we must look carefully at our own lives. And we must assess honestly
@@ -219,8 +211,7 @@ violations of the Lord's law are a source of concern.
 
 These indicators may seem to carry a direful tone, but as Enos declared in the
 Book of Mormon, sometimes it is necessary to resort to "exceedingly great
-plainness of speech" ([Enos
-1:23](https://www.lds.org/scriptures/bofm/enos/1.23?lang=eng#22)).
+plainness of speech" ([Enos 1:23](/scriptures/bofm/enos/1.23?lang=eng#22)).
 
 As the world continues to ripen in iniquity, our lives of necessity must
 become increasingly different from the world and its standard. It will be a
@@ -229,4 +220,6 @@ succeed, we have the sure promise of the Lord that he will prosper us in every
 way necessary for our well-being. That is my faith and my testimony. But it is
 a conditional promise. May we qualify for its fulfillment in our lives and in
 our time is my earnest prayer in the name of Jesus Christ, amen.
+
+## References
 

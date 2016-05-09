@@ -36,8 +36,8 @@ lessons of his own life. From his experiences, good and bad (for he had both,
 like the rest of us), there were certain crucial convictions which he was
 anxious to teach. Of three such matters this humble man speaks in a strong and
 tender testimony to his son Helaman ([Alma
-36](https://www.lds.org/scriptures/bofm/alma/36.title?lang=eng)), and repeats
-the witness to his other children.
+36](/scriptures/bofm/alma/36?lang=eng)), and repeats the witness to his other
+children.
 
 "My son," he said, "thou art in thy youth, and therefore, I beseech of thee
 that thou wilt hear my words and learn of me; for I do know that whosoever
@@ -46,7 +46,7 @@ troubles, and their afflictions, and shall be lifted up at the last day.
 
 "And I would not that ye think that I know of myself--not of the temporal but
 of the spiritual, not of the carnal mind but of God." ([Alma
-36:3-4](https://www.lds.org/scriptures/bofm/alma/36.3-4?lang=eng#2).)
+36:3-4](/scriptures/bofm/alma/36.3-4?lang=eng#2).)
 
 "... [for] it is the Spirit of God which is in me which maketh these things
 known unto me; for if I had not been born of God I should not have known these
@@ -54,19 +54,17 @@ things.
 
 "... and never, until I did cry out unto the Lord Jesus Christ for mercy, did I
 receive a remission of my sins. But ... I did cry unto him and I did find peace
-to my soul." ([Alma
-38:6-8](https://www.lds.org/scriptures/bofm/alma/38.6-8?lang=eng#5).)
+to my soul." ([Alma 38:6-8](/scriptures/bofm/alma/38.6-8?lang=eng#5).)
 
 "And I have been supported under trials and troubles of every kind, yea, and
 in all manner of afflictions; ... and I do put my trust in him, and he will
-still deliver me." ([Alma
-36:27](https://www.lds.org/scriptures/bofm/alma/36.27?lang=eng#26).)
+still deliver me." ([Alma 36:27](/scriptures/bofm/alma/36.27?lang=eng#26).)
 
 "And now, my son, I have told you this that ye may learn wisdom, that ye may
 learn of me that there is no other way or means whereby man can be saved, only
 in and through Christ. Behold, he is the life and the light of the world.
 Behold, he is the word of truth and righteousness." ([Alma
-38:9](https://www.lds.org/scriptures/bofm/alma/38.9?lang=eng#8).)
+38:9](/scriptures/bofm/alma/38.9?lang=eng#8).)
 
 That was this father's first great witness to his sons: that he knew, in the
 only way men can know--that is, through the Spirit--that God lives, that Jesus
@@ -85,7 +83,7 @@ labors;
 of God, and have tasted as I have tasted, and have seen eye to eye as I have
 seen; therefore they do know of these things of which I have spoken, as I do
 know; and the knowledge which I have is of God." ([Alma
-36:24-26](https://www.lds.org/scriptures/bofm/alma/36.24-26?lang=eng#23).)
+36:24-26](/scriptures/bofm/alma/36.24-26?lang=eng#23).)
 
 Because he knew, many others had received the same blessing. He had become a
 willing and effective instrument in the hands of God to bring others to a
@@ -96,7 +94,7 @@ witness by the Spirit and loves someone very much. Thus, he had a third vital
 message to deliver:
 
 "But behold, my son, this is not all; for ye ought to know as I do know."
-([Alma 36:30](https://www.lds.org/scriptures/bofm/alma/36.30?lang=eng#29).)
+([Alma 36:30](/scriptures/bofm/alma/36.30?lang=eng#29).)
 
 Of course! It is not enough for any loving father that he has the witness
 himself, nor enough that he has helped others to gain a knowledge of true
@@ -104,11 +102,10 @@ principles. He cannot be truly content unless those he loves best also know.
 It is with every true father as with Israel of old:
 
 "If I be bereaved of my children, I am bereaved." ([Gen.
-43:14](https://www.lds.org/scriptures/ot/gen/43.14?lang=eng#13).) And with
-Judah:
+43:14](/scriptures/ot/gen/43.14?lang=eng#13).) And with Judah:
 
 "How shall I go up to my father, and the lad be not with me?" ([Gen.
-44:34](https://www.lds.org/scriptures/ot/gen/44.34?lang=eng#33).)
+44:34](/scriptures/ot/gen/44.34?lang=eng#33).)
 
 These, then, were the vital matters which Alma had to be sure his sons
 understood. He taught them many related truths, many wonderful principles, but
@@ -136,14 +133,14 @@ and their hearts were hardened.
 
 "... they would not be baptized; neither would they join the church ... [nor would
 they] call upon the Lord their God." ([Mosiah
-26:1-4](https://www.lds.org/scriptures/bofm/mosiah/26.1-4?lang=eng#0).)
+26:1-4](/scriptures/bofm/mosiah/26.1-4?lang=eng#0).)
 
 Alma, son of a prophet, and his friends, sons of a righteous king, partook of
 the spirit of rebellion and used their special gifts and talents to destroy
 faith. "He [and they] became a great hinderment to the prosperity of the
 church of God; stealing away the hearts of the people; causing much dissension
 ... giving a chance for the enemy of God to exercise his power over them."
-([Mosiah 27:9](https://www.lds.org/scriptures/bofm/mosiah/27.9?lang=eng#8).)
+([Mosiah 27:9](/scriptures/bofm/mosiah/27.9?lang=eng#8).)
 
 They experienced after a time the suffering and sorrow that inevitably follow
 such a course. Through God's mercy and because of the fasting and prayers of
@@ -161,15 +158,15 @@ had searched the scriptures diligently, that they might know the word of God.
 "But this is not all; they had given themselves to much prayer, and fasting;
 therefore they had the spirit of prophecy, and the spirit of revelation, and
 when they taught, they taught with power and authority of God." ([Alma
-17:2-3](https://www.lds.org/scriptures/bofm/alma/17.2-3?lang=eng#1).)
+17:2-3](/scriptures/bofm/alma/17.2-3?lang=eng#1).)
 
 It is important now, as it has always been, that every man go to with his
 might, "take righteousness in his hands and faithfulness upon his loins, and
 lift a warning voice unto the inhabitants of the earth. ..." ([D&amp;C
-63:37](https://www.lds.org/scriptures/dc-testament/dc/63.37?lang=eng#36).)
+63:37](/scriptures/dc-testament/dc/63.37?lang=eng#36).)
 
 "... every man to his neighbor, in mildness and in meekness." ([D&amp;C
-38:41](https://www.lds.org/scriptures/dc-testament/dc/38.41?lang=eng#40).)
+38:41](/scriptures/dc-testament/dc/38.41?lang=eng#40).)
 
 And let each of us remember that among our neighbors are those of our own
 households who must know for themselves.
@@ -209,4 +206,6 @@ bread of life and share it.
 
 I testify that God lives, and Jesus is the Christ, and this is his work. In
 the name of Jesus Christ. Amen.
+
+## References
 

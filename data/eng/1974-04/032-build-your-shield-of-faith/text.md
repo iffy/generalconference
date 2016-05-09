@@ -38,7 +38,7 @@ breastplate of righteousness;
 
 "Above all, taking the shield of faith, wherewith ye shall be able to quench
 all the fiery darts of the wicked." ([Eph. 6:10-11,
-14-16](https://www.lds.org/scriptures/nt/eph/6.10-11%2C14-16?lang=eng#9).)
+14-16](/scriptures/nt/eph/6.10-11,14-16?lang=eng#9).)
 
 We were dressed in our home each morning, not only with hats and raincoats and
 boots to protect us from physical storm, but even more carefully our parents
@@ -90,7 +90,7 @@ President Kimball, I publicly accept the call that you have conveyed to me to
 serve the Lord. I know of your divine call. I know within you there is the
 same attribute which distinguished Joseph of old to the Pharaoh of Egypt who
 declared to his servants that in Joseph was "a man in whom the Spirit of God
-is." ([Gen. 41:38](https://www.lds.org/scriptures/ot/gen/41.38?lang=eng#37).)
+is." ([Gen. 41:38](/scriptures/ot/gen/41.38?lang=eng#37).)
 
 I hope and pray that in some way I may be capable of helping you lift the
 great burden that you carry by my service in this quorum.
@@ -110,4 +110,6 @@ Lord. Come and join with us. Let us help you build your shield of faith that
 you may live with the peaceful assurance that you have a strong line of
 defense between you and the powers of the wicked one, I humbly pray in the
 name of Jesus Christ. Amen.
+
+## References
 

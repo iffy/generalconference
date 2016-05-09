@@ -6,8 +6,8 @@ redemption reaches everyone who has ever lived or will live on this earth.
 
 He is the only man whose life on this earth was totally successful. Though he
 was tempted in all things like unto us, yet he lived without sin (see [Heb.
-4:15](https://www.lds.org/scriptures/nt/heb/4.15?lang=eng#14)), and thus he
-made possible our victory over sin and death as well.
+4:15](/scriptures/nt/heb/4.15?lang=eng#14)), and thus he made possible our
+victory over sin and death as well.
 
 Since we, each of us, are invited to follow the Christ to victory, it seems we
 should become vitally aware of how he fulfilled his mission, and seek to
@@ -18,17 +18,16 @@ for whom he mediates. He is the Redeemer; we are the redeemed. The list of
 differences is long, and possibly endless. The Master's statement to Moses is
 a summation of his mission on earth: "My work and my glory--to bring to pass
 the immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). The
-immortality portion of this mission he has already accomplished--the
-resurrection is a reality and _all_ will partake.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). The immortality portion of
+this mission he has already accomplished--the resurrection is a reality and
+_all_ will partake.
 
 However, we are permitted, encouraged, even commanded to assist in bringing to
 pass the eternal life of man, which is, of course, the continuing part of his
 great mission. His promise to us of things which I do, ye can do, and greater
 things than I do, ye can do (see [John
-14:12](https://www.lds.org/scriptures/nt/john/14.12?lang=eng#11)) rings loudly
-in the ears, stimulating the amazement of everyone who reads the holy
-scriptures.
+14:12](/scriptures/nt/john/14.12?lang=eng#11)) rings loudly in the ears,
+stimulating the amazement of everyone who reads the holy scriptures.
 
 As the scriptures are searched, the life of Christ seems to resolve into a
 great success formula. I'm sure that I have not caught the significance of all
@@ -56,21 +55,20 @@ myself as a worthy child of God, and I find I am very positive.
 
 How to perform positively? Easy: eliminate all negative words and phrases from
 your vocabulary. Refuse to _think_ negatively, for as a man "thinketh in his
-heart, so is he" ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6)). Refuse also to
-_speak_ negatively. Now you have become an optimist rather than a pessimist.
-There is a big difference between an optimist and a pessimist--one is
-positive, a believer; the other is negative, a doubter. The optimist, as you
-probably know, is a person who, when he wears out his shoes, just figures he's
-back on his feet. The pessimist says, "I'll believe it when I see it." The
-optimist says, "I'll see it when I believe it."
+heart, so is he" ([Prov. 23:7](/scriptures/ot/prov/23.7?lang=eng#6)). Refuse
+also to _speak_ negatively. Now you have become an optimist rather than a
+pessimist. There is a big difference between an optimist and a pessimist--one
+is positive, a believer; the other is negative, a doubter. The optimist, as
+you probably know, is a person who, when he wears out his shoes, just figures
+he's back on his feet. The pessimist says, "I'll believe it when I see it."
+The optimist says, "I'll see it when I believe it."
 
 In a crisis the optimist takes action; the pessimist takes a seat. The Lord
 has given sufficient evidence to convince me that if you don't do it, you
 really didn't want it.
 
-"Pray always, and be believing," saith the Lord ([D&amp;C
-90:24](https://www.lds.org/scriptures/dc-testament/dc/90.24?lang=eng#23)).
+"Pray always, and be believing," saith the Lord ([D&amp;C 90:24](/scriptures
+/dc-testament/dc/90.24?lang=eng#23)).
 
 Faith, the first principle of the gospel, begins with _belief._ What man can
 conceive, he can achieve. Believe you can do it.
@@ -80,8 +78,8 @@ heaven before the foundations of this world, upon which all blessings are
 predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated" ([D&amp;C 131:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/131.20-21?lang=eng#19)).
+which it is predicated" ([D&amp;C 131:20-21](/scriptures/dc-
+testament/dc/131.20-21?lang=eng#19)).
 
 We quote that scripture, but all too often we don't seem to believe it. We
 seem to look to every other source first--to the national government, to the
@@ -94,7 +92,7 @@ don't _you_ fail. Work, tract, put in the hours. The Lord is the paymaster."
 
 We should look to the Lord for our blessings because, among other reasons, he
 owns everything--the world and everything and everybody in it (see [Ps.
-24:1](https://www.lds.org/scriptures/ot/ps/24.1?lang=eng#0)).
+24:1](/scriptures/ot/ps/24.1?lang=eng#0)).
 
 If you have no contacts to teach, go tracting or contacting in the shopping
 mall or on the street or wherever. Be where you should be when you should be
@@ -105,7 +103,7 @@ we put in the contacting hours. We didn't get the contacts from tracting, but
 they came to us from completely unexpected sources. It's almost as though they
 fell out of the trees or the sky." Surely they came from the Lord. Look to the
 Lord for your blessings. He alone is the giver of every good and perfect gift
-(see [James 1:17](https://www.lds.org/scriptures/nt/james/1.17?lang=eng#16)).
+(see [James 1:17](/scriptures/nt/james/1.17?lang=eng#16)).
 
 Make the sacrifice. There is no such thing as "something for nothing" with the
 Lord. Blessings come because of obedience to the law upon which they are
@@ -126,19 +124,18 @@ I said, "Oh? You can breathe can't you?"
 "You think you have that coming to you or something? King Benjamin says the
 Lord is preserving you from day to day by granting you breath--even supporting
 you from moment to moment" (see [Mosiah
-2:21](https://www.lds.org/scriptures/bofm/mosiah/2.21?lang=eng#20)). Do we
-ever thank the Lord for the fact we can breathe? No, not usually, until we get
-to where we can't breathe. Then we call upon him in a panic.
+2:21](/scriptures/bofm/mosiah/2.21?lang=eng#20)). Do we ever thank the Lord
+for the fact we can breathe? No, not usually, until we get to where we can't
+breathe. Then we call upon him in a panic.
 
 Another definition of sacrifice is that instead of endlessly doing what we
 want to do, we must do what the Lord wants us to do. Knowing that it is
 "sacrifice [that] brings forth the blessings of heaven" (_Hymns,_ no. 147),
 then we should cheerfully do all things that lie in our power to bring to pass
 the Lord's work, even to "wast[ing] and wear[ing] out our lives" if that be
-necessary ([D&amp;C 123:13](https://www.lds.org/scriptures/dc-
-testament/dc/123.13?lang=eng#12)). Then we may "stand still, with the utmost
-assurance, to see the salvation of God, and for his arm to be revealed"
-([D&amp;C 123:17](https://www.lds.org/scriptures/dc-
+necessary ([D&amp;C 123:13](/scriptures/dc-testament/dc/123.13?lang=eng#12)).
+Then we may "stand still, with the utmost assurance, to see the salvation of
+God, and for his arm to be revealed" ([D&amp;C 123:17](/scriptures/dc-
 testament/dc/123.17?lang=eng#16)).
 
 Surely, in the work of the Lord, it is what we do after we think we have done
@@ -152,19 +149,19 @@ The Master said,
 "Give, and it shall be given unto you; good measure, pressed down, and shaken
 together, and running over, shall men give into your bosom. For with the same
 measure that ye mete withal it shall be measured to you again." ([Luke
-6:38](https://www.lds.org/scriptures/nt/luke/6.38?lang=eng#37).) When the
-Master said, "Give, and it shall be given unto you," this means if you want to
-receive, you must first give. That's different from paying tithing where you
-receive and then give back ten percent. Here, the Master tells us to give
-first; then we shall receive. "Well, how _much_ am I going to get?" (That's
-always the question, isn't it?) The Lord tells us how much. His words: "good
-measure, pressed down, and shaken together, and running over. ..." Sounds pretty
-good, doesn't it? He continues, "... shall men give into your bosom." Men? I
-thought you said it was the _Lord._ Yes, it is the Lord, but he always uses
-men. If you pray for a revelation from the Lord, he will probably send you
-your bishop with the answer. You really don't need a visit from an angel so
-long as you have a bishop. The Lord continues, "For with the same measure that
-ye mete withal it shall be measured to you again."
+6:38](/scriptures/nt/luke/6.38?lang=eng#37).) When the Master said, "Give, and
+it shall be given unto you," this means if you want to receive, you must first
+give. That's different from paying tithing where you receive and then give
+back ten percent. Here, the Master tells us to give first; then we shall
+receive. "Well, how _much_ am I going to get?" (That's always the question,
+isn't it?) The Lord tells us how much. His words: "good measure, pressed down,
+and shaken together, and running over. ..." Sounds pretty good, doesn't it? He
+continues, "... shall men give into your bosom." Men? I thought you said it was
+the _Lord._ Yes, it is the Lord, but he always uses men. If you pray for a
+revelation from the Lord, he will probably send you your bishop with the
+answer. You really don't need a visit from an angel so long as you have a
+bishop. The Lord continues, "For with the same measure that ye mete withal it
+shall be measured to you again."
 
 If you would have a blessing from the Lord, put something upon the altar. Make
 the sacrifice.
@@ -226,37 +223,39 @@ Success this month is not a justification to stop and glory in our record, but
 should merely serve as an impetus to greater and more noble accomplishments
 next month in the Lord's name. For in the words of Nephi, "We know that it is
 by grace that we are saved, after all we can do" ([2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22)).
+25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22)).
 
 Then, in my estimation, the Master's great success formula for bringing to
 pass the immortality and eternal life of man is--
 
 First, _believe_ you can do it. The Master said, For this cause came I into
 the world: "to give his life [as] a ransom for many" ([Matt.
-20:28](https://www.lds.org/scriptures/nt/matt/20.28?lang=eng#27)).
+20:28](/scriptures/nt/matt/20.28?lang=eng#27)).
 
 Second, _look to the Lord for your blessings._ Again, the Master said, "And
 now, O Father, glorify thou me with thine own self with the glory which I had
 with thee before the world was" ([John
-17:5](https://www.lds.org/scriptures/nt/john/17.5?lang=eng#4)).
+17:5](/scriptures/nt/john/17.5?lang=eng#4)).
 
 Third, _make the sacrifice._ The Lord's words: "I am the good shepherd: the
 good shepherd giveth his life for the sheep" ([John
-10:11](https://www.lds.org/scriptures/nt/john/10.11?lang=eng#10)).
+10:11](/scriptures/nt/john/10.11?lang=eng#10)).
 
 Fourth, _expect a miracle._ The Lord said, "Verily, verily, I say unto you,
 The hour is coming, and now is, when the dead shall hear the voice of the Son
 of God: and they that hear shall live" ([John
-5:25](https://www.lds.org/scriptures/nt/john/5.25?lang=eng#24)).
+5:25](/scriptures/nt/john/5.25?lang=eng#24)).
 
 And fifth, _receive the miracle with great humility._ "Then answered Jesus and
 said unto them, Verily, verily, I say unto you, The Son can do nothing of
 himself, but what he seeth the Father do" ([John
-5:19](https://www.lds.org/scriptures/nt/john/5.19?lang=eng#18)). And "Jesus
-answered them, and said, My doctrine is not mine, but his that sent me" ([John
-7:16](https://www.lds.org/scriptures/nt/john/7.16?lang=eng#15)).
+5:19](/scriptures/nt/john/5.19?lang=eng#18)). And "Jesus answered them, and
+said, My doctrine is not mine, but his that sent me" ([John
+7:16](/scriptures/nt/john/7.16?lang=eng#15)).
 
 I bear witness that this formula is effective in the Lord's work, and I am
 persuaded it works everywhere else too. In the name of the Lord Jesus Christ,
 amen.
+
+## References
 

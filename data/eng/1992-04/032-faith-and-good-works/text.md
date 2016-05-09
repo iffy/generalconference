@@ -28,8 +28,7 @@ this way: "We have met the enemy, and he is us!" (Walt Kelly.)
 In more eloquent terms, Moroni was told by the Lord: "And if men come unto me
 I will show unto them their weakness ... ; for if they humble themselves before
 me, and have faith in me, then will I make weak things become strong unto
-them." ([Ether
-12:27](https://www.lds.org/scriptures/bofm/ether/12.27?lang=eng#26).)
+them." ([Ether 12:27](/scriptures/bofm/ether/12.27?lang=eng#26).)
 
 As we look into the mirror at the accumulation of bumps and bruises that
 evidence our weaknesses, may we be reminded that there are two great
@@ -112,4 +111,6 @@ I add my witness to the many that have been borne from this pulpit. I know God
 lives. Jesus Christ is his Son--our Savior and our Redeemer. He has the power
 to lift us up if we will come unto him in faith, with good works, and with all
 of our hearts. I so testify in the sacred name of Jesus Christ, amen.
+
+## References
 

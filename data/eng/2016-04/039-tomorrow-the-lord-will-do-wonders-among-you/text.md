@@ -179,3 +179,31 @@ witness. Of Him I am a witness. And to Him this conference stands as a
 testament of His ongoing work in this great latter day. In the name of Jesus
 Christ, amen.
 
+## References
+
+  1. [Hebrews 10:32](https://www.lds.org/scriptures/nt/heb/10.32?lang=eng#31).
+
+  2. [Exodus 32:7, 8](https://www.lds.org/scriptures/ot/ex/32.7,8?lang=eng#6).
+
+  3. [Exodus 20:3-4](https://www.lds.org/scriptures/ot/ex/20.3-4?lang=eng#2).
+
+  4. [Matthew 17:2](https://www.lds.org/scriptures/nt/matt/17.2?lang=eng#1).
+
+  5. [Mark 9:19](https://www.lds.org/scriptures/nt/mark/9.19?lang=eng#18).
+
+  6. [Doctrine and Covenants 46:9](https://www.lds.org/scriptures/dc-testament/dc/46.9?lang=eng#8); emphasis added.
+
+  7. [Alma 36:18](https://www.lds.org/scriptures/bofm/alma/36.18?lang=eng#17).
+
+  8. [Doctrine and Covenants 11:8, 12, 14](https://www.lds.org/scriptures/dc-testament/dc/11.8,12,14?lang=eng#7); emphasis added.
+
+  9. George Q. Cannon, "Remarks," _Deseret Evening News,_ Mar. 7, 1891, 4.
+
+  10. [Romans 8:28](https://www.lds.org/scriptures/nt/rom/8.28?lang=eng#27).
+
+  11. [Isaiah 40:28, 29, 31](https://www.lds.org/scriptures/ot/isa/40.28,29,31?lang=eng#27); [41:13](https://www.lds.org/scriptures/ot/isa/41.13?lang=eng#12).
+
+  12. [Joshua 3:5](https://www.lds.org/scriptures/ot/josh/3.5?lang=eng#4).
+
+  13. [Isaiah 9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).
+

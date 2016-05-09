@@ -30,3 +30,5 @@ Jesus Christ. I hope and pray that all of us will do our best in the duties
 that are given to us. May our example and influence be felt for good wherever
 we are. In the name of Jesus Christ, amen.
 
+## References
+

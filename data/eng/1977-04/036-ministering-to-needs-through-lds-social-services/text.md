@@ -98,7 +98,7 @@ This "age of alienation" was foreseen by that great American prophet Moroni.
 He spoke of our day as "a day when there shall be great pollutions upon the
 face of the earth; [when] there shall be murders, and robbing, and lying, and
 deceivings, and whoredoms, and all manner of abominations." ([Morm.
-8:31](https://www.lds.org/scriptures/bofm/morm/8.31?lang=eng#30).)
+8:31](/scriptures/bofm/morm/8.31?lang=eng#30).)
 
 In almost every instance, such tragic conditions in society can be traced back
 to the failure of men to live the eternal principles of the gospel of Jesus
@@ -115,11 +115,10 @@ As priesthood and Relief Society leaders, we are charged with the
 responsibility of helping members who suffer from these social and emotional
 problems. Indeed, the Lord has said that we are to "succor the weak, lift up
 the hands which hang down, and strengthen the feeble knees." ([D&amp;C
-81:5](https://www.lds.org/scriptures/dc-testament/dc/81.5?lang=eng#4).) The
-Brethren recognize the magnitude of this charge and have provided us with a
-valuable resource so that we might minister "in the Lord's own way." This
-resource, of course, is our own LDS Social Services division of Welfare
-Services.
+81:5](/scriptures/dc-testament/dc/81.5?lang=eng#4).) The Brethren recognize
+the magnitude of this charge and have provided us with a valuable resource so
+that we might minister "in the Lord's own way." This resource, of course, is
+our own LDS Social Services division of Welfare Services.
 
 Of their vital work President Harold B. Lee instructed the Regional
 Representatives in 1970:
@@ -258,4 +257,6 @@ out of his darkened bedroom at his father. How many more are there like him?
 How can we walk down the hallway and open the door? I pray that we priesthood
 leaders may magnify our callings and let the Spirit guide us in using this
 resource of LDS Social Services, in the name of Jesus Christ. Amen.
+
+## References
 

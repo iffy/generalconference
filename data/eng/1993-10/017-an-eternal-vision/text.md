@@ -6,8 +6,7 @@ are applied to each priesthood holder. Another word to describe the priesthood
 is _service;_ literally, every man who receives the priesthood is "called to
 serve." The Apostle Peter said about you, "But ye are a chosen generation, a
 royal priesthood, an holy nation, a peculiar people" ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)). I will
-illustrate with one story.
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)). I will illustrate with one story.
 
 Maria Coj was a seventeen-year-old member of the Church, the oldest of eight
 children. She was sick with cysticercosis, a parasitic infection that comes
@@ -59,8 +58,7 @@ of Jesus Christ was unique: The Son of the Eternal Heavenly Father and of a
 mortal mother, especially chosen, He became the Only Begotten Son of God,
 which qualified Him to be the Mediator, Savior, and Redeemer of mankind. Even
 though He was slandered, spit upon, slapped, whipped, and humiliated, "yet he
-opened not his mouth" ([Isa.
-53:7](https://www.lds.org/scriptures/ot/isa/53.7?lang=eng#6)).
+opened not his mouth" ([Isa. 53:7](/scriptures/ot/isa/53.7?lang=eng#6)).
 
 He died at an early age; He was strong and young, of unlimited wisdom. When
 you are thirty-three, you will understand better. His sacrifice was painful
@@ -70,14 +68,14 @@ eternal life.
 The atonement of the Son of God opened the possibility that all mankind could
 return to the presence of the Father. Now He teaches us, "Follow me, and do
 the things which ye have seen me do" ([2 Ne.
-31:12](https://www.lds.org/scriptures/bofm/2-ne/31.12?lang=eng#11)).
+31:12](/scriptures/bofm/2-ne/31.12?lang=eng#11)).
 
 It will be your privilege to serve two years as a missionary with an eye
-single to glorify God and build His kingdom (see [D&amp;C
-4:5](https://www.lds.org/scriptures/dc-testament/dc/4.5?lang=eng#4)). During
-that time, Christ will refine your spirit. He will mold your character and
-plant in your heart the principles that will permit you to live in
-righteousness and joy in this life and for eternity.
+single to glorify God and build His kingdom (see [D&amp;C 4:5](/scriptures/dc-
+testament/dc/4.5?lang=eng#4)). During that time, Christ will refine your
+spirit. He will mold your character and plant in your heart the principles
+that will permit you to live in righteousness and joy in this life and for
+eternity.
 
 You might think that you will sacrifice much to leave your family, your
 education, and your comfortable life. Others might complain that missionary
@@ -133,4 +131,6 @@ illuminate all who are spiritually blind and will help them to return to
 Christ. Arise and shine; be like the over forty-nine thousand missionaries who
 today are taking the light, hope, and knowledge to those who need it. I add my
 own testimony of the divinity of this work in the name of Jesus Christ, amen.
+
+## References
 

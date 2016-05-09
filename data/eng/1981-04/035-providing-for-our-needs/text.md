@@ -26,7 +26,7 @@ son Helaman: "But behold, my son, this is not all; for ye ought to know as I
 do know, that inasmuch as ye shall keep the commandments of God ye shall
 prosper in the land; and ye ought to know also, that inasmuch as ye will not
 keep the commandments of God ye shall be cut off from his presence." ([Alma
-36:30](https://www.lds.org/scriptures/bofm/alma/36.30?lang=eng#29).)
+36:30](/scriptures/bofm/alma/36.30?lang=eng#29).)
 
 My experience in the business community taught me that some people can get
 locked into a daily routine that can stifle their initiative, courage, and
@@ -34,8 +34,7 @@ vision.
 
 From the Bible, the greatest teacher of all gave us the secret time and time
 again. He said, "If thou canst believe, all things are possible to him that
-believeth." ([Mark
-9:23](https://www.lds.org/scriptures/nt/mark/9.23?lang=eng#22).)
+believeth." ([Mark 9:23](/scriptures/nt/mark/9.23?lang=eng#22).)
 
 Brothers and sisters, what can we do to improve our family finances? May I
 suggest three important keys that will help us. They are _attitude, planning,_
@@ -77,7 +76,7 @@ effect upon the attitudes of the people. President Harold B. Lee said, "Today
 we are being tested and tried by another kind of test that I might call the
 'test of gold'--the test of plenty, affluence, ease--more than perhaps the
 youth of any generation have passed through, at least in this Church." (_Sweet
-Are the Uses of Adversity ... ,_ Brigham Young University Speeches of the Year,
+Are the Uses of Adversity ..., _ Brigham Young University Speeches of the Year,
 Provo, 7 Feb. 1962, p. 3.)
 
 The love for work needs to be re-enthroned in our lives. Every family should
@@ -140,34 +139,19 @@ when we receive an inward assurance that we should begin our own business,
 then we should do it. Remember the counsel of the Lord: "For which of you,
 intending to build a tower [and I add, or business], sitteth not down first,
 and counteth the cost, whether he have sufficient to finish it?" ([Luke
-14:28](https://www.lds.org/scriptures/nt/luke/14.28?lang=eng#27).)
+14:28](/scriptures/nt/luke/14.28?lang=eng#27).)
 
 The third key is to practice _self-discipline_ both at our work and as we
 attempt to reduce our expenses in our homes. Regarding the latter, Church
 leaders should set the example by seeing that stake and ward financial
 requests are kept to a minimum. Members should--
 
-  1. Avoid debt-pooling where exorbitant fees are charged. We may want to consolidate debts using a bank or credit union loan that can be repaid at a sensible interest rate over a reasonable length of time. We may need to stop using our credit cards.
-
-  2. Exercise self-discipline by telling ourselves "We can't afford it" and refusing to take on further credit obligations.
-
-An argument was overheard one day. One spouse said, while scolding the other
-for extravagant spending, "How many times do I have to tell you that spending
-money before you get it is economically unsound?"
-
-"Oh," said the other spouse, "I don't know about that. This way, if you don't
-get the money, at least you have something to show for it."
-
-Please be patient and carefully control your purchases so that you will not
-become enslaved to your creditors.
-
-  3. Make a budget and stick to it.
-
-  4. Cut expenses by distinguishing between wants and needs. Economize by controlling the use of goods, services, and energy.
-
-  5. Increase homemaking skills and have family members complete home and car repairs, when feasible.
-
-  6. Invest wisely. Avoid speculations and get-rich-quick schemes.
+  1. Avoid debt-pooling where exorbitant fees are charged. We may want to consolidate debts using a bank or credit union loan that can be repaid at a sensible interest rate over a reasonable length of time. We may need to stop using our credit cards. 
+  2. Exercise self-discipline by telling ourselves "We can't afford it" and refusing to take on further credit obligations. An argument was overheard one day. One spouse said, while scolding the other for extravagant spending, "How many times do I have to tell you that spending money before you get it is economically unsound?" "Oh," said the other spouse, "I don't know about that. This way, if you don't get the money, at least you have something to show for it." Please be patient and carefully control your purchases so that you will not become enslaved to your creditors. 
+  3. Make a budget and stick to it. 
+  4. Cut expenses by distinguishing between wants and needs. Economize by controlling the use of goods, services, and energy. 
+  5. Increase homemaking skills and have family members complete home and car repairs, when feasible. 
+  6. Invest wisely. Avoid speculations and get-rich-quick schemes. 
 
 Brothers and sisters, every one of us has the potential to improve and
 increase his earning capacity. We are far better off if we can improve and
@@ -188,4 +172,6 @@ resources and become financially secure.
 
 May the Lord bless all of us to this end, I pray humbly, in the name of Jesus
 Christ, amen.
+
+## References
 

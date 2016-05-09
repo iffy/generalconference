@@ -99,8 +99,7 @@ with the saints, and of the household of God;
 himself being the chief corner stone;
 
 "In whom all the building fitly framed together groweth unto an holy temple in
-the Lord." ([Eph.
-2:19-21](https://www.lds.org/scriptures/nt/eph/2.19-21?lang=eng#18).)
+the Lord." ([Eph. 2:19-21](/scriptures/nt/eph/2.19-21?lang=eng#18).)
 
 We have basic cornerstones on which this great latter-day church has been
 established by the Lord and built, "fitly framed together." They are
@@ -123,50 +122,46 @@ earthly mother and his Heavenly Father. In the course of his brief earthly
 ministry, he walked the dusty roads of Palestine healing the sick, causing the
 blind to see, raising the dead, teaching doctrines both transcendent and
 beautiful. He was, as Isaiah had prophesied, "a man of sorrows, and acquainted
-with grief." ([Isa.
-53:3](https://www.lds.org/scriptures/ot/isa/53.3?lang=eng#2).) He reached out
+with grief." ([Isa. 53:3](/scriptures/ot/isa/53.3?lang=eng#2).) He reached out
 to those whose burdens were heavy and invited them to cast their burdens upon
 him, declaring, "My yoke is easy, and my burden is light." ([Matt.
-11:30](https://www.lds.org/scriptures/nt/matt/11.30?lang=eng#29).) He "went
-about doing good," and was hated for it. ([Acts
-10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).) His enemies
-came against him. He was seized, tried on spurious charges, convicted to
-satisfy the cries of the mob, and condemned to die on Calvary's cross.
+11:30](/scriptures/nt/matt/11.30?lang=eng#29).) He "went about doing good,"
+and was hated for it. ([Acts 10:38](/scriptures/nt/acts/10.38?lang=eng#37).)
+His enemies came against him. He was seized, tried on spurious charges,
+convicted to satisfy the cries of the mob, and condemned to die on Calvary's
+cross.
 
 The nails pierced his hands and feet, and he hung in agony and pain, giving
 himself a ransom for the sins of all men. He died crying, "Father, forgive
 them; for they know not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 He was buried in a borrowed tomb and on the third day rose from the grave. He
 came forth triumphant, in a victory over death, the firstfruits of all that
 slept. With his resurrection came the promise to all men that life is
 everlasting, that even as in Adam all die, in Christ all are made alive. (See
-[1 Cor.
-15:20-22](https://www.lds.org/scriptures/nt/1-cor/15.20-22?lang=eng#19).)
-Nothing in all of human history equals the wonder, the splendor, the
-magnitude, or the fruits of the matchless life of the Son of God, who died for
-each of us. He is our Savior. He is our Redeemer. As Isaiah foretold, "His
-name shall be called Wonderful, Counsellor, The mighty God, The everlasting
-Father, The Prince of Peace." ([Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+[1 Cor. 15:20-22](/scriptures/nt/1-cor/15.20-22?lang=eng#19).) Nothing in all
+of human history equals the wonder, the splendor, the magnitude, or the fruits
+of the matchless life of the Son of God, who died for each of us. He is our
+Savior. He is our Redeemer. As Isaiah foretold, "His name shall be called
+Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of
+Peace." ([Isa. 9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 He is the chief cornerstone of the church which bears his name, The Church of
 Jesus Christ of Latter-day Saints. There is no other name given among men
 whereby we can be saved. (See [Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11).) He is the
-author of our salvation, the giver of eternal life. (See [Heb.
-5:9](https://www.lds.org/scriptures/nt/heb/5.9?lang=eng#8).) There is none to
-equal him. There never has been. There never will be. Thanks be to God for the
-gift of his Beloved Son, who gave his life that we might live, and who is the
-chief, immovable cornerstone of our faith and his church.
+4:12](/scriptures/nt/acts/4.12?lang=eng#11).) He is the author of our
+salvation, the giver of eternal life. (See [Heb.
+5:9](/scriptures/nt/heb/5.9?lang=eng#8).) There is none to equal him. There
+never has been. There never will be. Thanks be to God for the gift of his
+Beloved Son, who gave his life that we might live, and who is the chief,
+immovable cornerstone of our faith and his church.
 
 The second cornerstone--the first vision of the Prophet Joseph Smith. The year
 was 1820, the season spring. The boy with questions walked into the grove of
 his father's farm. There, finding himself alone, he pleaded in prayer for that
 wisdom which James promised would be given liberally to those who ask of God
-in faith. (See [James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) There, in
+in faith. (See [James 1:5](/scriptures/nt/james/1.5?lang=eng#4).) There, in
 circumstances which he has described in much detail, he beheld the Father and
 the Son, the great God of the universe and the risen Lord, both of whom spoke
 to him.
@@ -226,7 +221,7 @@ ecclesiastical ordinances. The higher priesthood was given by the Lord himself
 to his Apostles when he declared, "And I will give unto thee the keys of the
 kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in
 heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven."
-([Matt. 16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+([Matt. 16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 In its full restoration, it involved the coming of John the Baptist, the
 forerunner of Christ, whose head was taken to satisfy the whims of a wicked
@@ -245,13 +240,13 @@ darkness.
 
 Paul wrote concerning the priesthood: "No man taketh this honour unto himself,
 but he that is called of God, as was Aaron." ([Heb.
-5:4](https://www.lds.org/scriptures/nt/heb/5.4?lang=eng#3).) We have not
-acquired it through purchase or bargain. The Lord has given it to men who are
-considered worthy to receive it, regardless of station in life, the color of
-their skin, or the nation in which they live. It is the power and the
-authority to govern in the affairs of the kingdom of God. It is given only by
-ordination by the laying on of hands by those in authority to do so. The
-qualification for eligibility is obedience to the commandments of God.
+5:4](/scriptures/nt/heb/5.4?lang=eng#3).) We have not acquired it through
+purchase or bargain. The Lord has given it to men who are considered worthy to
+receive it, regardless of station in life, the color of their skin, or the
+nation in which they live. It is the power and the authority to govern in the
+affairs of the kingdom of God. It is given only by ordination by the laying on
+of hands by those in authority to do so. The qualification for eligibility is
+obedience to the commandments of God.
 
 There is no power on the earth like it. Its authority extends beyond life,
 through the veil of death, to the eternities ahead. It is everlasting in its
@@ -271,7 +266,7 @@ Each of these cornerstones is related to the other, each connected by a
 foundation of Apostles and prophets, all tied to the chief cornerstone, Jesus
 Christ. On this has been established his Church, "fitly framed together," for
 the blessing of all who will partake of its offering. ([Eph.
-2:21](https://www.lds.org/scriptures/nt/eph/2.21?lang=eng#20).)
+2:21](/scriptures/nt/eph/2.21?lang=eng#20).)
 
 So undergirded beneath and fitly framed above, it stands as the creation of
 the Almighty. It is a shelter from the storms of life. It is a refuge of peace
@@ -294,4 +289,6 @@ of his eternal purposes, Jesus Christ himself being the chief cornerstone.
 Of such was the faith of our fathers. Of such is our faith. "Faith of our
 fathers, holy faith. We will be true to thee till death!" In the name of Jesus
 Christ, amen.
+
+## References
 

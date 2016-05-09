@@ -21,9 +21,9 @@ Child of God," has made this little boy realize he is someone. He knew he
 wasn't junk. He knew he wasn't impossible. He knew he was a human being loved
 by his Heavenly Father.
 
-In Ecclesiastes 4:9-10[Eccl.
-4:9-10](https://www.lds.org/scriptures/ot/eccl/4.9-10?lang=eng#8) we read:
-"Two are better than one; because they have a good reward for their labour.
+In Ecclesiastes 4:9-10[Eccl. 4:9-10](/scriptures/ot/eccl/4.9-10?lang=eng#8) we
+read: "Two are better than one; because they have a good reward for their
+labour.
 
 "For if they fall, the one will lift up his fellow: but woe to him that is
 alone when he falleth; for he hath not another to help him up."
@@ -61,9 +61,8 @@ Robert Louis Stevenson used these words to remind us of this fact: "To be what
 we are, and to become what we are capable of becoming, is the only end of
 life." (Bergen Evans, _Dictionary of Quotations,_ New York: Crown Publishers,
 p. 393.) Our Savior said it this way, "As my Father hath sent me, even so I
-send you." ([John
-20:21](https://www.lds.org/scriptures/nt/john/20.21?lang=eng#20).) Each one
-has something special to live for. Some can find their special niche by
+send you." ([John 20:21](/scriptures/nt/john/20.21?lang=eng#20).) Each one has
+something special to live for. Some can find their special niche by
 themselves, but many need added help. All of us are a part of this inspired
 welfare activity as we assist each other in fulfilling our purposes here on
 earth.
@@ -79,7 +78,7 @@ statesman in his own way was echoing the words of another mighty leader, "If
 ye continue in my word, then are ye my disciples indeed;
 
 "And ye shall know the truth, and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30).)
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30).)
 
 Paul Harvey, News analyst and author, said, "Someday I hope to enjoy enough of
 what the world calls success so that someone will ask me, 'What's the secret
@@ -104,8 +103,8 @@ handiwork; and all things therein are mine.
 
 "But it must needs be done in mine own way; and behold this is the way that I,
 the Lord, have decreed to provide for my saints, that the poor shall be
-exalted, in that the rich are made low." [[D&amp;C 104:14,
-16](https://www.lds.org/scriptures/dc-testament/dc/104.14%2C16?lang=eng#13)]
+exalted, in that the rich are made low." [[D&amp;C 104:14, 16](/scriptures/dc-
+testament/dc/104.14,16?lang=eng#13)]
 
 Self-reliance is developed through a proper balance of agency and
 accountability. As we live, teach, and share, we develop self-reliance in
@@ -138,7 +137,7 @@ himself; he also has the responsibility to care for his family." (_Ensign,
 _May 1981, p. 88.) Paul, speaking to this point, said, "But if any provide not
 for his own, and specially for those of his own house, he hath denied the
 faith, and is worse than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).)
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).)
 
 The home, which is the heart of welfare services, and its members should
 always become involved in all we do so self-respect may be maintained. We must
@@ -204,11 +203,11 @@ successful in our honorable occupational pursuits and use wisely our means for
 the benefit of the individual, family, Church, and community.
 
 Jesus said, "Feed my sheep." ([John
-21:16](https://www.lds.org/scriptures/nt/john/21.16?lang=eng#15).) You can't
-feed them if you don't know where they are. You can't feed them if you give
-them reason to resist you. You can't feed them if you don't have the food. You
-can't feed them if you don't have charity. You can't feed them if you aren't
-willing to work and share.
+21:16](/scriptures/nt/john/21.16?lang=eng#15).) You can't feed them if you
+don't know where they are. You can't feed them if you give them reason to
+resist you. You can't feed them if you don't have the food. You can't feed
+them if you don't have charity. You can't feed them if you aren't willing to
+work and share.
 
 Wherever these lost sheep may be, a necessary ingredient for helping is
 empathy. Empathy is the ability to understand someone else's feelings and to
@@ -261,10 +260,9 @@ President Kimball, I think I can give you some guidelines. Learn to love,
 unconditionally, all of God's children, regardless of race, creed, or color,
 and try to serve as he serves. This principle is the foundation of Welfare
 Services. Each of us could do well to remember Doctrine and Covenants
-50:26[D&amp;C 50:26](https://www.lds.org/scriptures/dc-
-testament/dc/50.26?lang=eng#25): "He that is ordained of God and sent forth,
-the same is appointed to be the greatest, notwithstanding he is the least and
-the servant of all."
+50:26[D&amp;C 50:26](/scriptures/dc-testament/dc/50.26?lang=eng#25): "He that
+is ordained of God and sent forth, the same is appointed to be the greatest,
+notwithstanding he is the least and the servant of all."
 
 The Lord cares enough about us to give us direction for serving and the
 opportunity for developing self-reliance. His principles are consistent and
@@ -277,17 +275,12 @@ as we stay within the framework of the gospel.
 May I, in conclusion, suggest some basic goals as we participate in welfare
 services:
 
-  1. Build self-respect by building self-reliance.
-
-  2. Give help and service in the Lord's own way, which is a balance of agency and accountability.
-
-  3. Realize the proper sequence of sources of help is (1) the individual, (2) the family, and (3) the Church.
-
-  4. Be aware that to feed His sheep, one must know who and where they are.
-
-  5. Proper assisting requires love, empathy, and the restoration of dignity.
-
-  6. Finally, welfare services requires planning, obedience to basic gospel principles, and above all the willingness to serve as our prophet serves, with unconditional love.
+  1. Build self-respect by building self-reliance. 
+  2. Give help and service in the Lord's own way, which is a balance of agency and accountability. 
+  3. Realize the proper sequence of sources of help is (1) the individual, (2) the family, and (3) the Church. 
+  4. Be aware that to feed His sheep, one must know who and where they are. 
+  5. Proper assisting requires love, empathy, and the restoration of dignity. 
+  6. Finally, welfare services requires planning, obedience to basic gospel principles, and above all the willingness to serve as our prophet serves, with unconditional love. 
 
 May God help us to give of ourselves with wisdom that they may receive with
 dignity. Truly, "God makes no junk." We are His children. He loves us and
@@ -296,4 +289,6 @@ way. I am pleased with this great arm of the Church. It is an inspired way of
 life. It is the implementation of eternal principles for the welfare and
 benefit of all mankind. It is welfare services. To this I leave my witness,
 testimony, and love in the name of Jesus Christ, amen.
+
+## References
 

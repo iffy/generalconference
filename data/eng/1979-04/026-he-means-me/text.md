@@ -38,7 +38,7 @@ for us. In Isaiah it is written:
 
 "And therefore will the Lord wait, that he may be gracious unto you, and
 therefore will he be exalted, that he may have mercy upon you" ([Isa.
-30:18](https://www.lds.org/scriptures/ot/isa/30.18?lang=eng#17)).
+30:18](/scriptures/ot/isa/30.18?lang=eng#17)).
 
 And yet over the earth, across the years, I have met some of God's choicest
 children who find it very difficult to believe in their hearts that he really
@@ -60,35 +60,34 @@ whosoever believeth in him should not perish, but have everlasting life.
 
 "For God sent not his Son into the world to condemn the world; but that the
 world through him might be saved." ([John
-3:16-17](https://www.lds.org/scriptures/nt/john/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/john/3.16-17?lang=eng#15).)
 
 Christ came to _save us._ His plan was called, by a prophet who understood it
 very well, a "plan of redemption," a "plan of mercy," a "plan of happiness"
-([Alma 42:13,
-15-16](https://www.lds.org/scriptures/bofm/alma/42.13%2C15-16?lang=eng#12)).
-The Lord taught the letter-bound Pharisees the parables of the lost sheep, the
-lost coin, and the prodigal son to impress the worth of all of God's children,
-to emphasize, as he said, the "joy [that] shall be in heaven over one sinner
-that _repenteth._" And to teach us the nature of a father who, when his son
-came to himself and started home, had compassion and ran to meet his boy.
-([Luke 15:3-32](https://www.lds.org/scriptures/nt/luke/15.3-32?lang=eng#2);
-italics added). In this and many others of his teachings, he manifested the
-intensity of his love and of his expectations of us in our treatment of each
-other and in our responsibility to him.
+([Alma 42:13, 15-16](/scriptures/bofm/alma/42.13,15-16?lang=eng#12)). The Lord
+taught the letter-bound Pharisees the parables of the lost sheep, the lost
+coin, and the prodigal son to impress the worth of all of God's children, to
+emphasize, as he said, the "joy [that] shall be in heaven over one sinner that
+_repenteth._" And to teach us the nature of a father who, when his son came to
+himself and started home, had compassion and ran to meet his boy. ([Luke
+15:3-32](/scriptures/nt/luke/15.3-32?lang=eng#2); italics added). In this and
+many others of his teachings, he manifested the intensity of his love and of
+his expectations of us in our treatment of each other and in our
+responsibility to him.
 
 Reverently I remind you of the incident of the woman who, in the home of the
 Pharisee, Simon, washed the feet of the Lord with her tears and dried them
 with her hair, and anointed them with ointment (see [Luke
-7:37-39](https://www.lds.org/scriptures/nt/luke/7.37-39?lang=eng#36)). The
-Savior taught the critical Simon the story of the creditor and the two
-debtors: "The one owed five hundred pence, and the other fifty.
+7:37-39](/scriptures/nt/luke/7.37-39?lang=eng#36)). The Savior taught the
+critical Simon the story of the creditor and the two debtors: "The one owed
+five hundred pence, and the other fifty.
 
 "And when they had nothing to pay, he frankly forgave them both. Tell me
 therefore, which of them will love him most?
 
 "Simon answered and said, I suppose that he, to whom he forgave most. And he
 said unto him, Thou hast rightly judged." ([Luke
-7:41-43](https://www.lds.org/scriptures/nt/luke/7.41-43?lang=eng#40).)
+7:41-43](/scriptures/nt/luke/7.41-43?lang=eng#40).)
 
 Then, speaking of the woman, he said: "Her sins, which are many, are forgiven;
 for she loved much: but to whom little is forgiven, the same loveth little.
@@ -96,7 +95,7 @@ for she loved much: but to whom little is forgiven, the same loveth little.
 "And he said unto her, Thy sins are forgiven.
 
 "... Thy faith hath saved thee; go in peace." ([Luke 7:47-48,
-50](https://www.lds.org/scriptures/nt/luke/7.47-48%2C50?lang=eng#46).)
+50](/scriptures/nt/luke/7.47-48,50?lang=eng#46).)
 
 There is here, of course, no encouragement or condoning of sin. She had been
 converted by the Lord and sorely repented, and would obey his commandments and
@@ -111,27 +110,26 @@ were turned to a better way; and Alma, repentant and restored, became a strong
 leader for the Lord. "Wickedness never was happiness"--he declared, and
 gratefully testified also of the "plan of mercy" that brings forgiveness to
 the truly penitent ([Alma 42:10,
-15](https://www.lds.org/scriptures/bofm/alma/42.10%2C15?lang=eng#9)). As the
-leader of his people he was uncompromising in defense of righteousness, and
-warm and compassionate with those who had repented and turned from
-unrighteousness. With his own children, including one son who had been guilty
-of serious moral error, he shared the anguish that follows transgression and
-the unspeakable joy that accompanies repentance and forgiveness:
+15](/scriptures/bofm/alma/42.10,15?lang=eng#9)). As the leader of his people
+he was uncompromising in defense of righteousness, and warm and compassionate
+with those who had repented and turned from unrighteousness. With his own
+children, including one son who had been guilty of serious moral error, he
+shared the anguish that follows transgression and the unspeakable joy that
+accompanies repentance and forgiveness:
 
 "Yea, I say unto you, my son, that there could be nothing so exquisite and so
 bitter as were my pains. Yea, and again I say unto you, my son, that on the
 other hand, there can be nothing so exquisite and sweet as was my joy." ([Alma
-36:21](https://www.lds.org/scriptures/bofm/alma/36.21?lang=eng#20).)
+36:21](/scriptures/bofm/alma/36.21?lang=eng#20).)
 
 This man of great integrity and no pretense became the first chief judge of
 the people and high priest over the church. He who had cried out unto the Lord
 Jesus Christ for mercy, "in the most bitter pain and anguish of soul; ... did
-find peace to [his] soul" ([Alma
-38:8](https://www.lds.org/scriptures/bofm/alma/38.8?lang=eng#7)) and
-thereafter taught the people with such power and love that multitudes of them
-turned to the Lord, obeyed his commandments, received that "mercy [which]
+find peace to [his] soul" ([Alma 38:8](/scriptures/bofm/alma/38.8?lang=eng#7))
+and thereafter taught the people with such power and love that multitudes of
+them turned to the Lord, obeyed his commandments, received that "mercy [which]
 claimeth the penitent" ([Alma
-42:23](https://www.lds.org/scriptures/bofm/alma/42.23?lang=eng#22)).
+42:23](/scriptures/bofm/alma/42.23?lang=eng#22)).
 
 The message is consistent through scripture. The noble young prophet-leader
 Nephi wrote the sweet psalm of contrition and faith that is so encouraging and
@@ -145,26 +143,24 @@ easily beset me.
 
 "And when I desire to rejoice, my heart groaneth because of my sins;
 nevertheless, I know in whom I have trusted." ([2 Ne.
-4:17-19](https://www.lds.org/scriptures/bofm/2-ne/4.17-19?lang=eng#16).)
+4:17-19](/scriptures/bofm/2-ne/4.17-19?lang=eng#16).)
 
 Nephi understood that true remorse is a gift from God, not a curse, but a
 blessing. True remorse involves sorrow and suffering; but the sorrow is
 purposeful, constructive, cleansing, the "godly sorrow" that "worketh
 repentance to salvation," and not the "sorrow of the world" ([2 Cor.
-7:10](https://www.lds.org/scriptures/nt/2-cor/7.10?lang=eng#9)).
+7:10](/scriptures/nt/2-cor/7.10?lang=eng#9)).
 
 Through the prophet Ezekiel, the Lord taught us that he has no "pleasure at
 all" in the suffering of his children through sin. His joy comes when the
 sinner "turneth away from all his transgressions" for such an one shall "save
-his soul" ([Ezek. 18:23,
-27-28](https://www.lds.org/scriptures/ot/ezek/18.23%2C27-28?lang=eng#22)).
+his soul" ([Ezek. 18:23, 27-28](/scriptures/ot/ezek/18.23,27-28?lang=eng#22)).
 
 The Apostle Paul was disappointed with certain behavior on the part of the
 Corinthian saints, and wrote them a letter chastising them. They repented; and
 when he learned of it, he wrote them again, saying that he was comforted in
 their comfort: "I rejoice, not that ye were made sorry, but that ye sorrowed
-to repentance" ([2 Cor.
-7:9](https://www.lds.org/scriptures/nt/2-cor/7.9?lang=eng#8)).
+to repentance" ([2 Cor. 7:9](/scriptures/nt/2-cor/7.9?lang=eng#8)).
 
 Alma summed it all up in magnificent instruction given his wayward son
 Corianton. He concluded that powerful lesson with these significant words--
@@ -173,7 +169,7 @@ they could be saving words for some:
 "And now, my son, I desire that ye should let these things trouble you no
 more, and only let your sins trouble you, with that trouble which shall bring
 you down unto repentance" ([Alma
-42:29](https://www.lds.org/scriptures/bofm/alma/42.29?lang=eng#28)).
+42:29](/scriptures/bofm/alma/42.29?lang=eng#28)).
 
 Almighty God has promised to forgive, forget, and never mention the sins of
 which we have truly repented. But he has given us the gift of remorse to help
@@ -181,8 +177,7 @@ _us_ remember them constructively, thankfully, and humbly: "Do not endeavor to
 excuse yourself in the least point because of your sins, by denying the
 justice of God; but do you let the justice of God, and his mercy, and his
 long-suffering have full sway in your heart; and let it bring you down to the
-dust in humility" ([Alma
-42:30](https://www.lds.org/scriptures/bofm/alma/42.30?lang=eng#29)).
+dust in humility" ([Alma 42:30](/scriptures/bofm/alma/42.30?lang=eng#29)).
 
 Corianton was sent to preach the word.
 
@@ -214,4 +209,6 @@ thought it was for someone else. "He didn't mean me." If any within the sound
 of my voice today need assurance that God's call to repentance and his
 invitation to mercy and forgiveness and love is for them, I bear you that
 solemn witness, in the name of Jesus Christ, amen.
+
+## References
 

@@ -45,8 +45,7 @@ reactivation is: let every man and woman participate in the preparation of
 this world for the second coming of our Savior; receive with joy the callings
 and releases that come from the Lord through inspired leaders; be co-workers
 with God in "bring[ing] to pass the immortality and eternal life of man," as
-we learn in [Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38). We must be
+we learn in [Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38). We must be
 sure that all the people are having the opportunity to give of their time,
 talents, skills, and facilities to help others find the truth.
 
@@ -109,7 +108,7 @@ of the church of Christ; and their names were taken, that they might be
 remembered and nourished by the good word of God, to keep them in the right
 way, to keep them continually watchful unto prayer, relying alone upon the
 merits of Christ, who was the author and the finisher of their faith." [[Moro.
-6:1-4](https://www.lds.org/scriptures/bofm/moro/6.1-4?lang=eng#0)]
+6:1-4](/scriptures/bofm/moro/6.1-4?lang=eng#0)]
 
 Brothers and sisters, I testify to you that God lives and loves us; that he
 sent to the world his Son, Jesus Christ, our Redeemer; that Joseph Smith is a
@@ -120,4 +119,6 @@ of Jesus Christ of Latter-day Saints; and that the Book of Mormon and the
 Bible are testaments of Christ, the Messiah. That we may see, hear, and
 understand these things, and practice them, I humbly pray in the name of Jesus
 Christ, amen.
+
+## References
 

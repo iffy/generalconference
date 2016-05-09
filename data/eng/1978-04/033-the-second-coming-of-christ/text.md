@@ -15,15 +15,14 @@ tomb and the women brought the report that he had arisen from the dead, the
 apostles felt as if it were an idle tale. As Jesus walked along the road with
 two of his disciples on the way to Emmaus following his resurrection (and we
 are told that "their eyes were holden" that they didn't recognize him [[Luke
-24:16](https://www.lds.org/scriptures/nt/luke/24.16?lang=eng#15)]), he heard
-what they had to say about him and his life and crucifixion. He realized that
-they didn't understand all that the prophets had said concerning him, and so
-he said: "O fools, and slow of heart to believe all that the prophets have
-spoken." ([Luke
-24:25](https://www.lds.org/scriptures/nt/luke/24.25?lang=eng#24).) Then
-commencing with Moses and the prophets he showed them how in all things the
-prophets had testified of him, and that they did even to the minutest details,
-even to the casting of lots for his clothing at the time of his crucifixion.
+24:16](/scriptures/nt/luke/24.16?lang=eng#15)]), he heard what they had to say
+about him and his life and crucifixion. He realized that they didn't
+understand all that the prophets had said concerning him, and so he said: "O
+fools, and slow of heart to believe all that the prophets have spoken." ([Luke
+24:25](/scriptures/nt/luke/24.25?lang=eng#24).) Then commencing with Moses and
+the prophets he showed them how in all things the prophets had testified of
+him, and that they did even to the minutest details, even to the casting of
+lots for his clothing at the time of his crucifixion.
 
 And Peter said:
 
@@ -36,17 +35,17 @@ interpretation.
 
 "For the prophecy came not in old time by the will of man: but holy men of God
 spake as they were moved by the Holy Ghost." ([2 Pet.
-1:19-21](https://www.lds.org/scriptures/nt/2-pet/1.19-21?lang=eng#18).)
+1:19-21](/scriptures/nt/2-pet/1.19-21?lang=eng#18).)
 
 Well, if prophecy is the most sure way of knowing what is to happen--and
 Isaiah said that the Lord had declared the end from the beginning (see [Isa.
-46:10](https://www.lds.org/scriptures/ot/isa/46.10?lang=eng#9))--it's all
-there when we understand it. And so I think that if Jesus pronounced such
-judgment upon those who failed to understand the scriptures relating to his
-first coming, how would he feel toward us and the world if we fail to
-recognize the value of the words of the holy prophets relating to his second
-coming? And so I thought I would like to just mention one or two of the things
-that the prophets have foretold.
+46:10](/scriptures/ot/isa/46.10?lang=eng#9))--it's all there when we
+understand it. And so I think that if Jesus pronounced such judgment upon
+those who failed to understand the scriptures relating to his first coming,
+how would he feel toward us and the world if we fail to recognize the value of
+the words of the holy prophets relating to his second coming? And so I thought
+I would like to just mention one or two of the things that the prophets have
+foretold.
 
 First, I think of the words of Peter following the day of Pentecost as he
 talked to those who had put to death the Christ. He said:
@@ -58,8 +57,7 @@ when the times of refreshing shall come from the presence of the Lord;
 
 "Whom the heaven must receive until the times of restitution of all things,
 which God hath spoken by the mouth of all his holy prophets since the world
-began." ([Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18).)
+began." ([Acts 3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18).)
 
 This is the only church, I am sure, that believes in such a restitution of all
 the things that the holy prophets have spoken. Other churches believe in a
@@ -76,23 +74,21 @@ words of Malachi the prophet, the last prophet recorded in the Old Testament.
 The Lord, speaking through Malachi, said that he would send his messenger to
 prepare the way for his coming, and he would come swiftly to his temple. But
 who could abide the day of his coming, because he would be as refiner's fire
-and fullers' soap? (See [Mal.
-3:1-2](https://www.lds.org/scriptures/ot/mal/3.1-2?lang=eng#0).) Now obviously
-that had no reference to his first coming. But we are told that when he comes
-in power and great glory, with all the holy angels, the wicked shall cry out
-to the rocks: "Fall on us, and hide us [from his presence]." ([Rev.
-6:16](https://www.lds.org/scriptures/nt/rev/6.16?lang=eng#15).)
+and fullers' soap? (See [Mal. 3:1-2](/scriptures/ot/mal/3.1-2?lang=eng#0).)
+Now obviously that had no reference to his first coming. But we are told that
+when he comes in power and great glory, with all the holy angels, the wicked
+shall cry out to the rocks: "Fall on us, and hide us [from his presence]."
+([Rev. 6:16](/scriptures/nt/rev/6.16?lang=eng#15).)
 
 And you will remember when Jesus told his disciples that the temple should be
 broken down and that there should not be one stone left upon another. They
 inquired: "Tell us, when shall these things be? and what shall be the sign of
 thy coming [that would be his second coming], and of the end of the world?"
-([Matt. 24:3](https://www.lds.org/scriptures/nt/matt/24.3?lang=eng#2).) Jesus
-told them of the wars, and rumors of wars, and pestilence, and earthquakes,
-and famines, and that nation should rise against nation, "and this gospel of
-the kingdom shall be preached in all the world for a witness unto all nations;
-and then shall the end come." ([Matt.
-24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).)
+([Matt. 24:3](/scriptures/nt/matt/24.3?lang=eng#2).) Jesus told them of the
+wars, and rumors of wars, and pestilence, and earthquakes, and famines, and
+that nation should rise against nation, "and this gospel of the kingdom shall
+be preached in all the world for a witness unto all nations; and then shall
+the end come." ([Matt. 24:14](/scriptures/nt/matt/24.14?lang=eng#13).)
 
 Then he told them that as the days of Noah were, so should be the days of the
 coming of the Son of Man. They should be eating and drinking and making merry
@@ -100,24 +96,22 @@ and would say that the Lord delayeth his coming, and then he would come as a
 thief in the night. And he said there would be two men upon the land; one
 would be taken and the other would be left. Two women would be grinding at the
 mill; one would be taken and the other would be left. (See [Matt.
-24:37-41](https://www.lds.org/scriptures/nt/matt/24.37-41?lang=eng#36).) All
-of that was what the Savior said to identify the signs that would precede his
-second coming.
+24:37-41](/scriptures/nt/matt/24.37-41?lang=eng#36).) All of that was what the
+Savior said to identify the signs that would precede his second coming.
 
 Malachi saw the messenger that was to be sent--and incidentally, when the Lord
 sends a messenger, that messenger can be none other than a prophet. Jesus bore
 witness of John the Baptist, who was sent as a messenger to prepare the way
 for his coming in the meridian of time. He said that there was no prophet in
 Israel greater than John the Baptist. (See [Luke
-7:28](https://www.lds.org/scriptures/nt/luke/7.28?lang=eng#27).) The prophet
-Amos said: "Surely the Lord God will do nothing, but he revealeth his secret
-unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) How, then, could
-all things be restored, as Peter said, from all the holy prophets since the
-world began, unless there was a prophet to receive such restitution? And that
-prophet was none other than Joseph Smith, who, under the direction, divine
-guidance, and authority of the Father and the Son, organized this great church
---The Church of Jesus Christ of Latter-day Saints.
+7:28](/scriptures/nt/luke/7.28?lang=eng#27).) The prophet Amos said: "Surely
+the Lord God will do nothing, but he revealeth his secret unto his servants
+the prophets." ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).) How, then,
+could all things be restored, as Peter said, from all the holy prophets since
+the world began, unless there was a prophet to receive such restitution? And
+that prophet was none other than Joseph Smith, who, under the direction,
+divine guidance, and authority of the Father and the Son, organized this great
+church--The Church of Jesus Christ of Latter-day Saints.
 
 The second thing that Malachi said relating to the preparation for the coming
 of the Savior in the latter days was that the whole house of Israel had
@@ -127,29 +121,28 @@ this whole nation." Then he said: "Bring ye all the tithes into the
 storehouse, that there may be meat in mine house, and prove me now herewith, ...
 if I will not open you the windows of heaven and pour you out a blessing, that
 there shall not be room enough to receive it." (See [Mal.
-3:8-10](https://www.lds.org/scriptures/ot/mal/3.8-10?lang=eng#7).) What an
-invitation! The Lord extended to Israel in the latter days, as preparation for
-his coming, an invitation to return to him in the payment of their tithes and
-their offerings! Then he went a little further and said that he would rebuke
-the devourer for their sakes, that their crops should not fall before their
-time, and that all men should call them blessed. (See [Mal.
-3:11-12](https://www.lds.org/scriptures/ot/mal/3.11-12?lang=eng#10).)
+3:8-10](/scriptures/ot/mal/3.8-10?lang=eng#7).) What an invitation! The Lord
+extended to Israel in the latter days, as preparation for his coming, an
+invitation to return to him in the payment of their tithes and their
+offerings! Then he went a little further and said that he would rebuke the
+devourer for their sakes, that their crops should not fall before their time,
+and that all men should call them blessed. (See [Mal.
+3:11-12](/scriptures/ot/mal/3.11-12?lang=eng#10).)
 
 We are a blessed people. The Lord has blessed us. After our pioneers were
 driven a thousand miles from civilization and transportation, they landed here
 in this wilderness. Isaiah saw that the Lord would cause the wilderness to
-blossom as the rose. (See [Isa.
-35:1](https://www.lds.org/scriptures/ot/isa/35.1?lang=eng#0).) He saw the
-rivers flow in the desert and flow down from the high places to make this land
-productive. (See [Isa.
-41:18](https://www.lds.org/scriptures/ot/isa/41.18?lang=eng#17).) And why? So
-that the Saints, when they were gathered here, could fulfill his promises. For
-if this gospel that Jesus referred to was to be preached in all the world, it
-had to be done by his children. And hundreds of thousands of Latter-day Saint
-missionaries since that time have been all over the world--some 25,000 of them
-at the present time--to declare the restoration of the gospel as one of the
-steps in the preparation for the return of the Savior, for he so indicated
-that it must be preached in all the world.
+blossom as the rose. (See [Isa. 35:1](/scriptures/ot/isa/35.1?lang=eng#0).) He
+saw the rivers flow in the desert and flow down from the high places to make
+this land productive. (See [Isa.
+41:18](/scriptures/ot/isa/41.18?lang=eng#17).) And why? So that the Saints,
+when they were gathered here, could fulfill his promises. For if this gospel
+that Jesus referred to was to be preached in all the world, it had to be done
+by his children. And hundreds of thousands of Latter-day Saint missionaries
+since that time have been all over the world--some 25,000 of them at the
+present time--to declare the restoration of the gospel as one of the steps in
+the preparation for the return of the Savior, for he so indicated that it must
+be preached in all the world.
 
 And then there were so many other things that needed to be done that required
 money in order to build the kingdom of God in the earth, like the building of
@@ -167,22 +160,21 @@ dreadful day of the Lord:
 
 "And he shall turn the heart of the fathers to the children, and the heart of
 the children to their fathers, lest I come and smite the earth with a curse."
-([Mal. 4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4).)
+([Mal. 4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4).)
 
 Just think of all that Malachi saw when he saw the coming of Elijah. What a
 consequence if it were not for his coming, for the Lord said that the whole
-earth would be utterly wasted. (See [D&amp;C
-2:3](https://www.lds.org/scriptures/dc-testament/dc/2.3?lang=eng#2).) Nobody
-in this world, I am sure, outside of this church, could tell you what the
-message of Elijah was. We wouldn't know either, except that Elijah came and
-appeared to Joseph Smith and Oliver Cowdery on the third day of April 1836 in
-the Kirtland Temple. As a result of that, and of the keys of the dispensation
-that Elijah brought, we have built all these holy temples. We understand the
-value of genealogical research, so we have built here in this city a
-genealogical library and these great vaults out in the mountains, a miracle in
-and of themselves. There is nothing else like them in the entire world. And
-all of that has been done to fulfill the mission of Elijah, lest the Lord come
-and smite the whole earth with a curse.
+earth would be utterly wasted. (See [D&amp;C 2:3](/scriptures/dc-
+testament/dc/2.3?lang=eng#2).) Nobody in this world, I am sure, outside of
+this church, could tell you what the message of Elijah was. We wouldn't know
+either, except that Elijah came and appeared to Joseph Smith and Oliver
+Cowdery on the third day of April 1836 in the Kirtland Temple. As a result of
+that, and of the keys of the dispensation that Elijah brought, we have built
+all these holy temples. We understand the value of genealogical research, so
+we have built here in this city a genealogical library and these great vaults
+out in the mountains, a miracle in and of themselves. There is nothing else
+like them in the entire world. And all of that has been done to fulfill the
+mission of Elijah, lest the Lord come and smite the whole earth with a curse.
 
 We are advised to study the scriptures, the older scriptures and the modern
 scriptures, to see what the prophets have said. Remember the words of Peter,
@@ -198,4 +190,6 @@ present prophet, President Spencer W. Kimball, whom I honor with all my heart,
 as I do all my brethren of the General Authorities. So I leave with you that
 witness, and pray God to give us the strength and the faith to do our part in
 the preparation of his kingdom. In the name of the Lord, Jesus Christ, amen.
+
+## References
 

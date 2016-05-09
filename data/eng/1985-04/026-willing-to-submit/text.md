@@ -1,9 +1,8 @@
 # “Willing to Submit”
 
 I do not apologize for trying to speak about one of what Paul called "the deep
-things of God," ([1 Cor.
-2:10](https://www.lds.org/scriptures/nt/1-cor/2.10?lang=eng#9)), only for my
-inability to go deeply enough.
+things of God," ([1 Cor. 2:10](/scriptures/nt/1-cor/2.10?lang=eng#9)), only
+for my inability to go deeply enough.
 
 While we see this quality in the quiet but spiritually luxuriant lives of the
 genuine, spiritual heroes and heroines about us, the lack of it keeps so many
@@ -19,15 +18,14 @@ Though possessed of other fine attributes, we may still lack this one quality.
 Such was the case with the righteous young man who knelt sincerely at Jesus'
 feet. Lacking one thing, he went away sorrowing and unsubmissive when a
 particularized challenge was given. (See [Mark
-10:21-22](https://www.lds.org/scriptures/nt/mark/10.21-22?lang=eng#20); [Luke
-18:22-23](https://www.lds.org/scriptures/nt/luke/18.22-23?lang=eng#21).)
-Whether it is walking away without looking back from "great possessions"
-([Mark 10:22](https://www.lds.org/scriptures/nt/mark/10.22?lang=eng#21)), or
-from a statusful place in the secular synagogue (see [John
-12:42-43](https://www.lds.org/scriptures/nt/john/12.42-43?lang=eng#41)), or
-from proud but erroneous attitudes accrued over the years, or merely
-"straightway" from fishing nets ([Mark
-1:18](https://www.lds.org/scriptures/nt/mark/1.18?lang=eng#17)), the test is
+10:21-22](/scriptures/nt/mark/10.21-22?lang=eng#20); [Luke
+18:22-23](/scriptures/nt/luke/18.22-23?lang=eng#21).) Whether it is walking
+away without looking back from "great possessions" ([Mark
+10:22](/scriptures/nt/mark/10.22?lang=eng#21)), or from a statusful place in
+the secular synagogue (see [John
+12:42-43](/scriptures/nt/john/12.42-43?lang=eng#41)), or from proud but
+erroneous attitudes accrued over the years, or merely "straightway" from
+fishing nets ([Mark 1:18](/scriptures/nt/mark/1.18?lang=eng#17)), the test is
 always the same.
 
 With honest, individualized introspection, each of us could name what we yet
@@ -35,27 +33,26 @@ lack--and in my case more than one thing.
 
 Spiritual submissiveness is so much more than bended knee or bowed head. Alas,
 insofar as we "mind the things of the flesh" ([Rom.
-8:5](https://www.lds.org/scriptures/nt/rom/8.5?lang=eng#4)), we simply cannot
-have the "mind of Christ." ([1 Cor.
-2:16](https://www.lds.org/scriptures/nt/1-cor/2.16?lang=eng#15).)
+8:5](/scriptures/nt/rom/8.5?lang=eng#4)), we simply cannot have the "mind of
+Christ." ([1 Cor. 2:16](/scriptures/nt/1-cor/2.16?lang=eng#15).)
 
 Jesus laid down this sobering requirement: "Except ye ... become as little
 children, ye shall not enter into the kingdom of heaven." ([Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2).)
+18:3](/scriptures/nt/matt/18.3?lang=eng#2).)
 
 One of Jesus' prophets delineated--with submissiveness thrice stipulated--how
 a disciple can become "as a child, submissive, meek, humble, patient, full of
 love, willing to submit to all things which the Lord seeth fit to inflict upon
 him, even as a child doth submit to his father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 Three other clusters of scriptures stress these towering qualities. (See [Alma
-7:23](https://www.lds.org/scriptures/bofm/alma/7.23?lang=eng#22); [Alma
-13:28](https://www.lds.org/scriptures/bofm/alma/13.28?lang=eng#27); [D&amp;C
-121:41-42](https://www.lds.org/scriptures/dc-
-testament/dc/121.41-42?lang=eng#40).) Stunningly parallel, they form an almost
-seamless litany of attributes to be developed, with submissiveness at their
-catalytic center. This repeated clustering is too striking to be random.
+7:23](/scriptures/bofm/alma/7.23?lang=eng#22); [Alma
+13:28](/scriptures/bofm/alma/13.28?lang=eng#27); [D&amp;C
+121:41-42](/scriptures/dc-testament/dc/121.41-42?lang=eng#40).) Stunningly
+parallel, they form an almost seamless litany of attributes to be developed,
+with submissiveness at their catalytic center. This repeated clustering is too
+striking to be random.
 
 Moreover, the descriptive simplicity of this quality is matched by its
 developmental difficulty. It is so easy to be halfhearted, but this only
@@ -71,14 +68,14 @@ would do.
 Just how much submissiveness to circumstance there should be is not treated in
 these brief remarks. Suffice it to say, God "allotteth unto men" certain
 things with which we are to be content. (See [Alma
-29:4](https://www.lds.org/scriptures/bofm/alma/29.4?lang=eng#3), [Philip.
-4:11](https://www.lds.org/scriptures/nt/philip/4.11?lang=eng#10); [1 Tim.
-6:8](https://www.lds.org/scriptures/nt/1-tim/6.8?lang=eng#7).) A missing
-parent or limb is to be lived without. Yet temper and lust are to be tamed.
-One's race is fixed, but one's genetic endowment offers opportunity to be a
-careful steward. The submissive soul will be led aright, enduring some things
-well while being anxiously engaged in setting other things right--all the time
-discerning the difference.
+29:4](/scriptures/bofm/alma/29.4?lang=eng#3), [Philip.
+4:11](/scriptures/nt/philip/4.11?lang=eng#10); [1 Tim.
+6:8](/scriptures/nt/1-tim/6.8?lang=eng#7).) A missing parent or limb is to be
+lived without. Yet temper and lust are to be tamed. One's race is fixed, but
+one's genetic endowment offers opportunity to be a careful steward. The
+submissive soul will be led aright, enduring some things well while being
+anxiously engaged in setting other things right--all the time discerning the
+difference.
 
 Required, in particular, is meekness of mind which recognizes God's perfect
 love of us and His omniscience. By acknowledging these reassuring realities
@@ -89,14 +86,13 @@ listening to the Holy Ghost as he preaches to us from the pulpit of memory.
 
 As the Lord communicates with the meek and submissive, fewer decibels are
 required, and more nuances are received. Even the most meek, like Moses (see
-[Num. 12:3](https://www.lds.org/scriptures/ot/num/12.3?lang=eng#2)), learn
-overwhelming things they "never had supposed." ([Moses
-1:10](https://www.lds.org/scriptures/pgp/moses/1.10?lang=eng#9).) But it is
-only the meek mind which can be so shown and so stretched--not those, as
-Isaiah wrote, who "are wise in their own eyes." ([Isa.
-5:21](https://www.lds.org/scriptures/ot/isa/5.21?lang=eng#20); see also [2 Ne.
-9:29](https://www.lds.org/scriptures/bofm/2-ne/9.29?lang=eng#28) and [2 Ne.
-15:21](https://www.lds.org/scriptures/bofm/2-ne/15.21?lang=eng#20).)
+[Num. 12:3](/scriptures/ot/num/12.3?lang=eng#2)), learn overwhelming things
+they "never had supposed." ([Moses
+1:10](/scriptures/pgp/moses/1.10?lang=eng#9).) But it is only the meek mind
+which can be so shown and so stretched--not those, as Isaiah wrote, who "are
+wise in their own eyes." ([Isa. 5:21](/scriptures/ot/isa/5.21?lang=eng#20);
+see also [2 Ne. 9:29](/scriptures/bofm/2-ne/9.29?lang=eng#28) and [2 Ne.
+15:21](/scriptures/bofm/2-ne/15.21?lang=eng#20).)
 
 God's counsel aligns us and conjoins us with the great realities of the
 universe; whereas sin empties, isolates, and separates us, confining us to the
@@ -112,11 +108,10 @@ sincerely pray to be an instrument in His hands if the instrument seeks to do
 the instructing?
 
 As we really begin to keep the first commandment--loving God with "all thy
-heart, with all thy might, mind, and strength" ([D&amp;C
-59:5](https://www.lds.org/scriptures/dc-testament/dc/59.5?lang=eng#4); see
-also [Matt.
-22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36))--giving
-time, talent, and treasure is then accompanied by fully giving of ourselves.
+heart, with all thy might, mind, and strength" ([D&amp;C 59:5](/scriptures/dc-
+testament/dc/59.5?lang=eng#4); see also [Matt.
+22:37](/scriptures/nt/matt/22.37?lang=eng#36))--giving time, talent, and
+treasure is then accompanied by fully giving of ourselves.
 
 Sometimes, our holding back occurs because we lack faith or we are too
 entangled with the cares of the world. Other times, there is in us an
@@ -130,30 +125,28 @@ really emancipation.
 
 How can we truly acknowledge the Fatherhood of God and refuse His tutorials?
 Especially in view of the fact, the Lord even chastens those whom He loves.
-(See [Heb. 12:6](https://www.lds.org/scriptures/nt/heb/12.6?lang=eng#5),
-[D&amp;C 136:31](https://www.lds.org/scriptures/dc-
-testament/dc/136.31?lang=eng#30), [Mosiah
-23:21](https://www.lds.org/scriptures/bofm/mosiah/23.21?lang=eng#20), [Rev.
-3:19](https://www.lds.org/scriptures/nt/rev/3.19?lang=eng#18).)
+(See [Heb. 12:6](/scriptures/nt/heb/12.6?lang=eng#5), [D&amp;C
+136:31](/scriptures/dc-testament/dc/136.31?lang=eng#30), [Mosiah
+23:21](/scriptures/bofm/mosiah/23.21?lang=eng#20), [Rev.
+3:19](/scriptures/nt/rev/3.19?lang=eng#18).)
 
 Saul, when chosen, was "A choice young man, ... and there was not among the
 children of Israel a goodlier person than he." ([1 Sam.
-9:2](https://www.lds.org/scriptures/ot/1-sam/9.2?lang=eng#1).) Later, he
-became encrusted with ego and puffed by power. Samuel then recalled a time
-when Saul "wast little in [his] own sight." ([1 Sam.
-15:17](https://www.lds.org/scriptures/ot/1-sam/15.17?lang=eng#16).) In
+9:2](/scriptures/ot/1-sam/9.2?lang=eng#1).) Later, he became encrusted with
+ego and puffed by power. Samuel then recalled a time when Saul "wast little in
+[his] own sight." ([1 Sam. 15:17](/scriptures/ot/1-sam/15.17?lang=eng#16).) In
 contrast, true submissiveness greatly enlarges the soul, but _without_
-hypocrisy and guile. (See [D&amp;C 121:42](https://www.lds.org/scriptures/dc-
+hypocrisy and guile. (See [D&amp;C 121:42](/scriptures/dc-
 testament/dc/121.42?lang=eng#41).)
 
 Submissiveness also checks our tendency to demand advance explanations of the
 Lord as a perplexed yet trusting Nephi understood: "I know that [God] loveth
 his children; nevertheless, I do not know the meaning of all things." ([1 Ne.
-11:17](https://www.lds.org/scriptures/bofm/1-ne/11.17?lang=eng#16).)
+11:17](/scriptures/bofm/1-ne/11.17?lang=eng#16).)
 
 So did a wondering but submissive Mary: "And Mary said, Behold the handmaid of
 the Lord; be it unto me according to thy word." ([Luke
-1:38](https://www.lds.org/scriptures/nt/luke/1.38?lang=eng#37).)
+1:38](/scriptures/nt/luke/1.38?lang=eng#37).)
 
 Just as the capacity to defer gratification is a sign of real maturity,
 likewise the willingness to wait for deferred explanation is a sign of real
@@ -167,27 +160,25 @@ Suppose Enoch had demurred when called by the Lord? He would have gone on
 being a good person, serving the Lord part-time, living in a city which was a
 slum compared to the glorious City of Enoch; nor would Enoch be a part of that
 scene of glorious greeting yet to come. (See [Moses
-7:63](https://www.lds.org/scriptures/pgp/moses/7.63?lang=eng#62).)
+7:63](/scriptures/pgp/moses/7.63?lang=eng#62).)
 
 Suppose Peter had not left his nets "straightway"? (See [Mark
-1:18](https://www.lds.org/scriptures/nt/mark/1.18?lang=eng#17).) He might have
-become the respected president of the local Galilean fishermen's association.
-But he would not have been on the Mount of Transfiguration with Jesus, Moses,
-and Elias and heard the voice of God. (See [Matt.
-17:4](https://www.lds.org/scriptures/nt/matt/17.4?lang=eng#3).)
+1:18](/scriptures/nt/mark/1.18?lang=eng#17).) He might have become the
+respected president of the local Galilean fishermen's association. But he
+would not have been on the Mount of Transfiguration with Jesus, Moses, and
+Elias and heard the voice of God. (See [Matt.
+17:4](/scriptures/nt/matt/17.4?lang=eng#3).)
 
 We have been given three special words--_but if not_--by three submissive
 young men who entered their fiery furnace, knowing "our God ... is able to
 deliver us from the burning fiery furnace, ... _But if not,_ be it known unto
 thee, O king, that we will not serve thy gods." ([Dan.
-3:17-18](https://www.lds.org/scriptures/ot/dan/3.17-18?lang=eng#16); italics
-added.)
+3:17-18](/scriptures/ot/dan/3.17-18?lang=eng#16); italics added.)
 
 Moreover, our prayers should allow for three more special words: "And
 whatsoever ye shall ask the Father in my name, _which is right,_ believing
 that ye shall receive, behold it shall be given unto you." ([3 Ne.
-18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19); italics
-added.)
+18:20](/scriptures/bofm/3-ne/18.20?lang=eng#19); italics added.)
 
 It is only by yielding to God that we can begin to realize His will for us.
 And if we truly trust God, why not yield to His loving omniscience? After all,
@@ -196,12 +187,12 @@ He knows us and our possibilities much better than do we.
 "Nevertheless they did fast and pray oft, and did wax stronger and stronger in
 their humility, and firmer and firmer in the faith of Christ ... even to the ...
 yielding their hearts unto God." ([Hel.
-3:35](https://www.lds.org/scriptures/bofm/hel/3.35?lang=eng#34).)
+3:35](/scriptures/bofm/hel/3.35?lang=eng#34).)
 
 Otherwise, one can be too busy promoting his own agendum: "For they being
 ignorant of God's righteousness, and going about to establish their own
 righteousness, have not submitted themselves unto the righteousness of God."
-([Rom. 10:3](https://www.lds.org/scriptures/nt/rom/10.3?lang=eng#2).)
+([Rom. 10:3](/scriptures/nt/rom/10.3?lang=eng#2).)
 
 Distinguished therefrom is Jesus' clear call: "Wherefore, seek not the things
 of this world but seek ye first to build up the kingdom of God, and to
@@ -225,32 +216,27 @@ While most of our suffering is self-inflicted, some is caused by or permitted
 by God. This sobering reality calls for deep submissiveness, especially when
 God does not remove the cup from us. In such circumstances, when reminded
 about the premortal shouting for joy as this life's plan was unfolded (see
-[Job 38:7](https://www.lds.org/scriptures/ot/job/38.7?lang=eng#6)), we can
-perhaps be pardoned if, in some moments, we wonder what all the shouting was
-about.
+[Job 38:7](/scriptures/ot/job/38.7?lang=eng#6)), we can perhaps be pardoned
+if, in some moments, we wonder what all the shouting was about.
 
 For the faithful, what finally emerges is an understanding of "things as they
-really are" ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12)), such as
+really are" ([Jacob 4:13](/scriptures/bofm/jacob/4.13?lang=eng#12)), such as
 the reassuring realization that we are in the Lord's hands! But, brothers and
 sisters, we were never really anywhere else! Demonstrating this great attitude
 is our beloved and submissive brother, Bruce R. McConkie.
 
 "Know ye not that ye are in the hands of God?" ([Morm.
-5:23](https://www.lds.org/scriptures/bofm/morm/5.23?lang=eng#22).) Likewise,
-"all flesh" ([D&amp;C 101:16](https://www.lds.org/scriptures/dc-
-testament/dc/101.16?lang=eng#15), [Moses
-6:32](https://www.lds.org/scriptures/pgp/moses/6.32?lang=eng#31)) and "the
-heavens and the earth" ([D&amp;C 67:2](https://www.lds.org/scriptures/dc-
-testament/dc/67.2?lang=eng#1))! Perhaps the realization of being in God's
-hands comes fully only as we ponder the significance of the prints in the
-hands of our submissive Savior. (See [3 Ne.
-11:14-15](https://www.lds.org/scriptures/bofm/3-ne/11.14-15?lang=eng#13).)
-Some will have to ask what those wounds are, having been estranged. (See
-[D&amp;C 45:51-52](https://www.lds.org/scriptures/dc-
-testament/dc/45.51-52?lang=eng#50).) These are they who "regard not the work
-of the Lord, neither consider the operation of his hands." ([2 Ne.
-15:12](https://www.lds.org/scriptures/bofm/2-ne/15.12?lang=eng#11).)
+5:23](/scriptures/bofm/morm/5.23?lang=eng#22).) Likewise, "all flesh"
+([D&amp;C 101:16](/scriptures/dc-testament/dc/101.16?lang=eng#15), [Moses
+6:32](/scriptures/pgp/moses/6.32?lang=eng#31)) and "the heavens and the earth"
+([D&amp;C 67:2](/scriptures/dc-testament/dc/67.2?lang=eng#1))! Perhaps the
+realization of being in God's hands comes fully only as we ponder the
+significance of the prints in the hands of our submissive Savior. (See [3 Ne.
+11:14-15](/scriptures/bofm/3-ne/11.14-15?lang=eng#13).) Some will have to ask
+what those wounds are, having been estranged. (See [D&amp;C
+45:51-52](/scriptures/dc-testament/dc/45.51-52?lang=eng#50).) These are they
+who "regard not the work of the Lord, neither consider the operation of his
+hands." ([2 Ne. 15:12](/scriptures/bofm/2-ne/15.12?lang=eng#11).)
 
 The more we study, pray, and ponder the awesome Atonement, the more we are
 willing to acknowledge that we are in His and the Father's hands. Let us
@@ -262,60 +248,55 @@ His working through began, and Jesus declared: "Now is my soul troubled; and
 what shall I say? Father, save me from this hour." Then, whether in spiritual
 soliloquy or by way of instruction to those about Him, He observed, "But for
 this cause came I unto this hour." ([John
-12:27](https://www.lds.org/scriptures/nt/john/12.27?lang=eng#26).)
+12:27](/scriptures/nt/john/12.27?lang=eng#26).)
 
 Later, in Gethsemane, the suffering Jesus began to be "sore amazed" ([Mark
-14:33](https://www.lds.org/scriptures/nt/mark/14.33?lang=eng#32)), or, in the
-Greek, "awestruck" and "astonished."
+14:33](/scriptures/nt/mark/14.33?lang=eng#32)), or, in the Greek, "awestruck"
+and "astonished."
 
 Imagine, Jehovah, the Creator of this and other worlds, "astonished"! Jesus
 knew cognitively what He must do, but not experientially. He had never
 personally known the exquisite and exacting process of an atonement before.
 Thus, when the agony came in its fulness, it was so much, much worse than even
 He with his unique intellect had ever imagined! No wonder an angel appeared to
-strengthen him! (See [Luke
-22:43](https://www.lds.org/scriptures/nt/luke/22.43?lang=eng#42).)
+strengthen him! (See [Luke 22:43](/scriptures/nt/luke/22.43?lang=eng#42).)
 
 The cumulative weight of all mortal sins--past, present, and future--pressed
 upon that perfect, sinless, and sensitive Soul! All our infirmities and
 sicknesses were somehow, too, a part of the awful arithmetic of the Atonement.
-(See [Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10); [Isa.
-53:3-5](https://www.lds.org/scriptures/ot/isa/53.3-5?lang=eng#2); [Matt.
-8:17](https://www.lds.org/scriptures/nt/matt/8.17?lang=eng#16).) The anguished
-Jesus not only pled with the Father that the hour and cup might pass from Him,
-but with this relevant citation. "And he said, Abba, Father, all things are
-possible unto thee; take away this cup from me." ([Mark
-14:35-36](https://www.lds.org/scriptures/nt/mark/14.35-36?lang=eng#34).)
+(See [Alma 7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10); [Isa.
+53:3-5](/scriptures/ot/isa/53.3-5?lang=eng#2); [Matt.
+8:17](/scriptures/nt/matt/8.17?lang=eng#16).) The anguished Jesus not only
+pled with the Father that the hour and cup might pass from Him, but with this
+relevant citation. "And he said, Abba, Father, all things are possible unto
+thee; take away this cup from me." ([Mark
+14:35-36](/scriptures/nt/mark/14.35-36?lang=eng#34).)
 
 Had not Jesus, as Jehovah, said to Abraham, "Is any thing too hard for the
-Lord?" ([Gen.
-18:14](https://www.lds.org/scriptures/ot/gen/18.14?lang=eng#13).) Had not His
-angel told a perplexed Mary, "For with God nothing shall be impossible"?
-([Luke 1:37](https://www.lds.org/scriptures/nt/luke/1.37?lang=eng#36); see
-also [Matt. 19:28](https://www.lds.org/scriptures/nt/matt/19.28?lang=eng#27);
-[Mark 10:27](https://www.lds.org/scriptures/nt/mark/10.27?lang=eng#26); [Luke
-18:27](https://www.lds.org/scriptures/nt/luke/18.27?lang=eng#26).)
+Lord?" ([Gen. 18:14](/scriptures/ot/gen/18.14?lang=eng#13).) Had not His angel
+told a perplexed Mary, "For with God nothing shall be impossible"? ([Luke
+1:37](/scriptures/nt/luke/1.37?lang=eng#36); see also [Matt.
+19:28](/scriptures/nt/matt/19.28?lang=eng#27); [Mark
+10:27](/scriptures/nt/mark/10.27?lang=eng#26); [Luke
+18:27](/scriptures/nt/luke/18.27?lang=eng#26).)
 
 Jesus' request was not theater!
 
 In this extremity, did He, perchance, hope for a rescuing ram in the thicket?
 I do not know. His suffering--as it were, _enormity_ multiplied by _infinity_
 --evoked His later soul-cry on the cross, and it was a cry of forsakenness.
-(See [Matt. 27:46](https://www.lds.org/scriptures/nt/matt/27.46?lang=eng#45).)
+(See [Matt. 27:46](/scriptures/nt/matt/27.46?lang=eng#45).)
 
 Even so, Jesus maintained this sublime submissiveness, as He had in
 Gethsemane: "Nevertheless not as I will, but as thou wilt." ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).)
+26:39](/scriptures/nt/matt/26.39?lang=eng#38).)
 
 While bearing our sins, our infirmities, our sicknesses, and bringing to pass
-the Atonement (see [Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10)), Jesus
-became the perfect Shepherd, making these lines of Paul's especially relevant
-and reassuring: "Who shall separate us from the love of Christ? shall
+the Atonement (see [Alma 7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10)),
+Jesus became the perfect Shepherd, making these lines of Paul's especially
+relevant and reassuring: "Who shall separate us from the love of Christ? shall
 tribulation, or distress, or persecution, or famine, or nakedness, or peril,
-or sword?" ([Rom.
-8:35](https://www.lds.org/scriptures/nt/rom/8.35?lang=eng#34).)
+or sword?" ([Rom. 8:35](/scriptures/nt/rom/8.35?lang=eng#34).)
 
 Indeed, we are in His hands, and what hallowed hands!
 
@@ -324,6 +305,8 @@ history. It was the hinge on which all else that finally matters turned. But
 it turned upon Jesus' spiritual submissiveness!
 
 May we now, in our time and turn, be "willing to submit" ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18)), I pray in
-the name of Jesus Christ, amen!
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18)), I pray in the name of Jesus
+Christ, amen!
+
+## References
 

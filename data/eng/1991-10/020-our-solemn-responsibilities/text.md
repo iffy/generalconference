@@ -144,7 +144,7 @@ abominations of their husbands. ...
 "Ye have broken the hearts of your tender wives, and lost the confidence of
 your children, because of your bad examples before them; and the sobbings of
 their hearts ascend up to God against you." ([Jacob 2:31,
-35](https://www.lds.org/scriptures/bofm/jacob/2.31%2C35?lang=eng#30).)
+35](/scriptures/bofm/jacob/2.31,35?lang=eng#30).)
 
 Permit me to read from another letter. Said the writer: "My husband is a good
 man with many outstanding qualities and character traits, but underneath it
@@ -174,7 +174,7 @@ are, of course, occasional differences. But I find no justification for
 tempers that explode on the slightest provocation.
 
 Said the writer of Proverbs: "Wrath is cruel, and anger is outrageous."
-([Prov. 27:4](https://www.lds.org/scriptures/ot/prov/27.4?lang=eng#3).)
+([Prov. 27:4](/scriptures/ot/prov/27.4?lang=eng#3).)
 
 A violent temper is such a terrible, corrosive thing. And the tragedy is that
 it accomplishes no good; it only feeds evil with resentment and rebellion and
@@ -197,16 +197,16 @@ Cultivate within yourselves the mighty power of self-discipline.
 Now I move to another corrosive element that afflicts all too many marriages.
 It is interesting to me that two of the Ten Commandments deal with this--"Thou
 shalt not commit adultery" and "Thou shalt not covet." ([Ex. 20:14,
-17](https://www.lds.org/scriptures/ot/ex/20.14%2C17?lang=eng#13).) Ted Koppel,
-moderator of ABC's "Nightline" program, is reported as saying the following to
-a group of students at Duke University concerning slogans that were proposed
-to reduce drugs and immorality: "We have actually convinced ourselves that
-slogans will save us. ... But the answer is _NO!_ Not because it isn't cool or
-smart or because you might end up in jail or dying in an AIDS ward, but _NO_
-because it is wrong, because we have spent 5,000 years as a race of rational
-human beings, trying to drag ourselves out of the primeval slime by searching
-for truth and moral absolutes. In its purest form, truth is not a polite tap
-on the shoulder. It is a howling reproach. What Moses brought down from Mount
+17](/scriptures/ot/ex/20.14,17?lang=eng#13).) Ted Koppel, moderator of ABC's
+"Nightline" program, is reported as saying the following to a group of
+students at Duke University concerning slogans that were proposed to reduce
+drugs and immorality: "We have actually convinced ourselves that slogans will
+save us. ... But the answer is _NO!_ Not because it isn't cool or smart or
+because you might end up in jail or dying in an AIDS ward, but _NO_ because it
+is wrong, because we have spent 5,000 years as a race of rational human
+beings, trying to drag ourselves out of the primeval slime by searching for
+truth and moral absolutes. In its purest form, truth is not a polite tap on
+the shoulder. It is a howling reproach. What Moses brought down from Mount
 Sinai were not _The Ten Suggestions._" (Address given at Duke University, 10
 May 1987.)
 
@@ -235,9 +235,9 @@ Do I sound harsh and negative? Yes, I feel that way as I deal with case after
 case and have done so over a period of time. Wrote Paul: "But if any provide
 not for his own, and specially for those of his own house, he hath denied the
 faith, and is worse than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).) In that same
-epistle, he said to Timothy: "Keep thyself pure." ([1 Tim.
-5:22](https://www.lds.org/scriptures/nt/1-tim/5.22?lang=eng#21).)
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).) In that same epistle, he said to
+Timothy: "Keep thyself pure." ([1 Tim.
+5:22](/scriptures/nt/1-tim/5.22?lang=eng#21).)
 
 Now I recognize that there may be some few cases where conditions of the
 marriage are totally intolerable. But these cases are in the minority. And
@@ -315,4 +315,6 @@ the true essence of love, which is an anxious concern for the well-being and
 happiness of one's companion. I could wish nothing better for all of you than
 this, and I pray that this may be your individual blessing, in the name of
 Jesus Christ, amen.
+
+## References
 

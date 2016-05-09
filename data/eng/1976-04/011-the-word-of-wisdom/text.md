@@ -22,14 +22,13 @@ As a matter of fact, we seldom had a conference in those days without a talk
 about the Word of Wisdom. Today I would like to revert back to that practice
 and speak of that revelation which the Lord gave to Joseph Smith on February
 27, 1833, found in the Doctrine and Covenants as section 89. [[D&amp;C
-89](https://www.lds.org/scriptures/dc-testament/dc/89.title?lang=eng)]
-Although the evils connected with excessive use of alcohol had long been
-recognized, at that time it was not known how pernicious the use of alcohol
-could be. The dangers involved in the use of tobacco, tea, coffee, and the
-excessive use of meat were just not known in those early days. But the Lord
-knew of these perils and warned his children in order to protect them both in
-body and in mind. In my opinion, there is great need for such counseling in
-this day in which _we_ live.
+89](/scriptures/dc-testament/dc/89?lang=eng)] Although the evils connected
+with excessive use of alcohol had long been recognized, at that time it was
+not known how pernicious the use of alcohol could be. The dangers involved in
+the use of tobacco, tea, coffee, and the excessive use of meat were just not
+known in those early days. But the Lord knew of these perils and warned his
+children in order to protect them both in body and in mind. In my opinion,
+there is great need for such counseling in this day in which _we_ live.
 
 During the decade of the 1960s there was much ado about the drug culture, and
 with very good cause. As we saw people, especially young adults, destroy their
@@ -131,8 +130,7 @@ treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 When I read about "health in [the] navel and marrow in [the] bones," I think
 of the possibility of a devastating plague that could overtake the world as a
@@ -153,4 +151,6 @@ with prudence and thanksgiving.
 
 The Lord has spoken. Of this I bear my witness in the name of Jesus Christ.
 Amen.
+
+## References
 

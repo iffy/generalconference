@@ -32,8 +32,7 @@ Book of Mormon we read:
 "They were desirous that salvation should be declared to every creature, for
 they could not bear that any human soul should perish; yea, even the very
 thoughts that any soul should endure endless torment did cause them to quake
-and tremble" ([Mosiah
-28:3](https://www.lds.org/scriptures/bofm/mosiah/28.3?lang=eng#2)).
+and tremble" ([Mosiah 28:3](/scriptures/bofm/mosiah/28.3?lang=eng#2)).
 
 They pled with their father that they might go and do missionary work among
 the Lamanites. Now father Mosiah feared for his sons' safety in the land of
@@ -41,17 +40,17 @@ their enemy.
 
 "And king Mosiah went and inquired of the Lord if he should let his sons go up
 among the Lamanites to preach the word" ([Mosiah
-28:6](https://www.lds.org/scriptures/bofm/mosiah/28.6?lang=eng#5)).
+28:6](/scriptures/bofm/mosiah/28.6?lang=eng#5)).
 
 The first part of the Lord's answer might not have been exactly what Mosiah
 wanted to hear:
 
 "The Lord said unto Mosiah: Let them go up" ([Mosiah
-28:7](https://www.lds.org/scriptures/bofm/mosiah/28.7?lang=eng#6)). But then
-follow three marvelous promises: the first, "For many shall believe on their
-words," and the second, "I will deliver thy sons out of the hands of the
-Lamanites," and then the third, "They shall have eternal life" ([Mosiah
-28:7](https://www.lds.org/scriptures/bofm/mosiah/28.7?lang=eng#6)).
+28:7](/scriptures/bofm/mosiah/28.7?lang=eng#6)). But then follow three
+marvelous promises: the first, "For many shall believe on their words," and
+the second, "I will deliver thy sons out of the hands of the Lamanites," and
+then the third, "They shall have eternal life" ([Mosiah
+28:7](/scriptures/bofm/mosiah/28.7?lang=eng#6)).
 
 Now, he did not promise them great wealth, but he did promise the greatest of
 all the gifts of God, _eternal life!_ Can you imagine a more marvelous promise
@@ -60,19 +59,19 @@ for faithful missionaries?
 The four missionary sons of Mosiah did not choose the easy course. Their
 choice was neither convenient, nor popular: They gave up the kingship. "Mosiah
 had no one to confer the kingdom upon" ([Mosiah
-28:10](https://www.lds.org/scriptures/bofm/mosiah/28.10?lang=eng#9))--they
-were all on missions. Serving a mission wasn't necessarily accepted. They were
-ridiculed even by other members of the Church. Ammon recalls the experience:
-"Now do ye remember, my brethren, that we said unto our brethren in the land
-of Zarahemla, we go up to the land of Nephi, to preach unto our brethren, the
+28:10](/scriptures/bofm/mosiah/28.10?lang=eng#9))--they were all on missions.
+Serving a mission wasn't necessarily accepted. They were ridiculed even by
+other members of the Church. Ammon recalls the experience: "Now do ye
+remember, my brethren, that we said unto our brethren in the land of
+Zarahemla, we go up to the land of Nephi, to preach unto our brethren, the
 Lamanites, and they _laughed us to scorn?_" ([Alma
-26:23](https://www.lds.org/scriptures/bofm/alma/26.23?lang=eng#22); emphasis
-added.) Their choice to serve a mission was not one of convenience. Ammon
-spoke of the challenges they encountered: "We have been cast out, and mocked,
-and spit upon, and smote upon our cheeks; ... and taken and bound with strong
-cords, and cast into prison." However, Ammon continues, "Through the power and
-wisdom of God we have been delivered again" ([Alma
-26:29](https://www.lds.org/scriptures/bofm/alma/26.29?lang=eng#28)).
+26:23](/scriptures/bofm/alma/26.23?lang=eng#22); emphasis added.) Their choice
+to serve a mission was not one of convenience. Ammon spoke of the challenges
+they encountered: "We have been cast out, and mocked, and spit upon, and smote
+upon our cheeks; ... and taken and bound with strong cords, and cast into
+prison." However, Ammon continues, "Through the power and wisdom of God we
+have been delivered again" ([Alma
+26:29](/scriptures/bofm/alma/26.29?lang=eng#28)).
 
 They were not easy missions, but thousands were converted.
 
@@ -164,4 +163,6 @@ knowledge of Him who has made eternal life possible. I pray that every able
 young man and every able couple will join those who have paid the price to
 serve a full-time mission. And this I pray in the name of the Lord and Savior,
 Jesus Christ, amen.
+
+## References
 

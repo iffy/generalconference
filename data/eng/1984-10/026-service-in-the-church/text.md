@@ -44,7 +44,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 Traditionally, and properly, we consider this beautiful promise of relief in
 connection with those without the kingdom--those who have not accepted the
@@ -86,4 +86,6 @@ I know that God lives and responds to our petition. I know that Jesus Christ
 is my Master, our Savior and Redeemer. I pledge to my Heavenly Father and to
 my Brethren my full devotion to this present yoke of service, in the name of
 Jesus Christ, amen.
+
+## References
 

@@ -1,394 +1,322 @@
 items:
-- article_id: PD10030835_000_003
-  item: '002'
-  key: 002-the-state-of-the-church
+- item: 1
+  key: 000-the-state-of-the-church
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-state-of-the-church
   speaker: Gordon B. Hinckley
   title: The State of the Church
   url: https://www.lds.org/general-conference/2003/10/the-state-of-the-church?lang=eng
   year: 2003
-- article_id: PD10030835_000_004
-  item: '004'
-  key: 004-a-sure-foundation
+- item: 2
+  key: 001-a-sure-foundation
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: a-sure-foundation
   speaker: Sheldon F. Child
   title: A Sure Foundation
   url: https://www.lds.org/general-conference/2003/10/a-sure-foundation?lang=eng
   year: 2003
-- article_id: PD10030835_000_005
-  item: '005'
-  key: 005-the-atonement-repentance-and-dirty-linen
+- item: 3
+  key: 002-the-atonement-repentance-and-dirty-linen
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-atonement-repentance-and-dirty-linen
   speaker: Lynn A. Mickelsen
   title: The Atonement, Repentance, and Dirty Linen
   url: https://www.lds.org/general-conference/2003/10/the-atonement-repentance-and-dirty-linen?lang=eng
   year: 2003
-- article_id: PD10030835_000_006
-  item: '007'
-  key: 007-seeing-the-promises-afar-off
+- item: 4
+  key: 003-seeing-the-promises-afar-off
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: seeing-the-promises-afar-off
   speaker: Anne C. Pingree
   title: Seeing the Promises Afar Off
   url: https://www.lds.org/general-conference/2003/10/seeing-the-promises-afar-off?lang=eng
   year: 2003
-- article_id: PD10030835_000_007
-  item: 009
-  key: 009-let-our-voices-be-heard
+- item: 5
+  key: 004-let-our-voices-be-heard
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: let-our-voices-be-heard
   speaker: M. Russell Ballard
   title: Let Our Voices Be Heard
   url: https://www.lds.org/general-conference/2003/10/let-our-voices-be-heard?lang=eng
   year: 2003
-- article_id: PD10030835_000_008
-  item: '011'
-  key: 011-lord-i-believe-help-thou-mine-unbelief
+- item: 6
+  key: 005-lord-i-believe-help-thou-mine-unbelief
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: lord-i-believe-help-thou-mine-unbelief
   speaker: James E. Faust
   title: Lord, I Believe; Help Thou Mine Unbelief
   url: https://www.lds.org/general-conference/2003/10/lord-i-believe-help-thou-mine-unbelief?lang=eng
   year: 2003
-- article_id: PD10030835_000_009
-  item: '015'
-  key: 015-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: James E. Faust
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2003/10/the-sustaining-of-church-officers?lang=eng
   year: 2003
-- article_id: PD10030835_000_010
-  item: '016'
-  key: 016-the-standard-of-truth-has-been-erected
+- item: 8
+  key: 007-the-standard-of-truth-has-been-erected
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-standard-of-truth-has-been-erected
   speaker: Boyd K. Packer
-  title: "\u201CThe Standard of Truth Has Been Erected\u201D"
+  title: '"The Standard of Truth Has Been Erected"'
   url: https://www.lds.org/general-conference/2003/10/the-standard-of-truth-has-been-erected?lang=eng
   year: 2003
-- article_id: PD10030835_000_011
-  item: '017'
-  key: 017-receiving-a-testimony-of-the-restored-gospel-of-jesus-christ
+- item: 9
+  key: 008-receiving-a-testimony-of-the-restored-gospel-of-jesus-christ
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: receiving-a-testimony-of-the-restored-gospel-of-jesus-christ
   speaker: Robert D. Hales
   title: Receiving a Testimony of the Restored Gospel of Jesus Christ
   url: https://www.lds.org/general-conference/2003/10/receiving-a-testimony-of-the-restored-gospel-of-jesus-christ?lang=eng
   year: 2003
-- article_id: PD10030835_000_012
-  item: 018
-  key: 018-the-clarion-call-of-prophets
+- item: 10
+  key: 009-the-clarion-call-of-prophets
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-clarion-call-of-prophets
   speaker: Shirley D. Christensen
   title: The Clarion Call of Prophets
   url: https://www.lds.org/general-conference/2003/10/the-clarion-call-of-prophets?lang=eng
   year: 2003
-- article_id: PD10030835_000_013
-  item: '020'
-  key: 020-the-lord-thy-god-will-hold-thy-hand
+- item: 11
+  key: 010-the-lord-thy-god-will-hold-thy-hand
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-lord-thy-god-will-hold-thy-hand
   speaker: W. Craig Zwick
   title: The Lord Thy God Will Hold Thy Hand
   url: https://www.lds.org/general-conference/2003/10/the-lord-thy-god-will-hold-thy-hand?lang=eng
   year: 2003
-- article_id: PD10030835_000_014
-  item: '021'
-  key: 021-repentance-and-change
+- item: 12
+  key: 011-repentance-and-change
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: repentance-and-change
   speaker: Dallin H. Oaks
   title: Repentance and Change
   url: https://www.lds.org/general-conference/2003/10/repentance-and-change?lang=eng
   year: 2003
-- article_id: PD10030835_000_015
-  item: '022'
-  key: 022-realize-your-full-potential
+- item: 13
+  key: 012-realize-your-full-potential
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: realize-your-full-potential
   speaker: Richard G. Scott
   title: Realize Your Full Potential
   url: https://www.lds.org/general-conference/2003/10/realize-your-full-potential?lang=eng
   year: 2003
-- article_id: PD10030835_000_016
-  item: '026'
-  key: 026-personal-priesthood-responsibility
+- item: 14
+  key: 013-personal-priesthood-responsibility
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: personal-priesthood-responsibility
   speaker: Russell M. Nelson
   title: Personal Priesthood Responsibility
   url: https://www.lds.org/general-conference/2003/10/personal-priesthood-responsibility?lang=eng
   year: 2003
-- article_id: PD10030835_000_017
-  item: '027'
-  key: 027-young-men-holders-of-keys
+- item: 15
+  key: 014-young-men-holders-of-keys
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: young-men-holders-of-keys
   speaker: Monte J. Brough
   title: "Young Men\u2014Holders of Keys"
   url: https://www.lds.org/general-conference/2003/10/young-men-holders-of-keys?lang=eng
   year: 2003
-- article_id: PD10030835_000_018
-  item: 028
-  key: 028-priesthood-keys-and-the-power-to-bless
+- item: 16
+  key: 015-priesthood-keys-and-the-power-to-bless
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: priesthood-keys-and-the-power-to-bless
   speaker: Merrill J. Bateman
   title: Priesthood, Keys, and the Power to Bless
   url: https://www.lds.org/general-conference/2003/10/priesthood-keys-and-the-power-to-bless?lang=eng
   year: 2003
-- article_id: PD10030835_000_019
-  item: 029
-  key: 029-the-phenomenon-that-is-you
+- item: 17
+  key: 016-the-phenomenon-that-is-you
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-phenomenon-that-is-you
   speaker: James E. Faust
   title: The Phenomenon That Is You
   url: https://www.lds.org/general-conference/2003/10/the-phenomenon-that-is-you?lang=eng
   year: 2003
-- article_id: PD10030835_000_020
-  item: '031'
-  key: 031-bring-him-home
+- item: 18
+  key: 017-bring-him-home
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: bring-him-home
   speaker: Thomas S. Monson
   title: Bring Him Home
   url: https://www.lds.org/general-conference/2003/10/bring-him-home?lang=eng
   year: 2003
-- article_id: PD10030835_000_021
-  item: '032'
-  key: 032-the-shepherds-of-israel
+- item: 19
+  key: 018-the-shepherds-of-israel
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-shepherds-of-israel
   speaker: Gordon B. Hinckley
   title: The Shepherds of Israel
   url: https://www.lds.org/general-conference/2003/10/the-shepherds-of-israel?lang=eng
   year: 2003
-- article_id: PD10030835_000_022
-  item: '037'
-  key: 037-the-bridge-builder
+- item: 20
+  key: 019-the-bridge-builder
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-bridge-builder
   speaker: Thomas S. Monson
   title: The Bridge Builder
   url: https://www.lds.org/general-conference/2003/10/the-bridge-builder?lang=eng
   year: 2003
-- article_id: PD10030835_000_023
-  item: 038
-  key: 038-the-grandeur-of-god
+- item: 21
+  key: 020-the-grandeur-of-god
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-grandeur-of-god
   speaker: Jeffrey R. Holland
   title: The Grandeur of God
   url: https://www.lds.org/general-conference/2003/10/the-grandeur-of-god?lang=eng
   year: 2003
-- article_id: PD10030835_000_024
-  item: 039
-  key: 039-the-message-of-the-restoration
+- item: 22
+  key: 021-the-message-of-the-restoration
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-message-of-the-restoration
-  speaker: Elder Charles Didier
+  speaker: Charles A. Didier
   title: The Message of the Restoration
   url: https://www.lds.org/general-conference/2003/10/the-message-of-the-restoration?lang=eng
   year: 2003
-- article_id: PD10030835_000_025
-  item: '041'
-  key: 041-he-knows-us-he-loves-us
+- item: 23
+  key: 022-he-knows-us-he-loves-us
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: he-knows-us-he-loves-us
   speaker: Sydney S. Reynolds
   title: He Knows Us; He Loves Us
   url: https://www.lds.org/general-conference/2003/10/he-knows-us-he-loves-us?lang=eng
   year: 2003
-- article_id: PD10030835_000_026
-  item: '042'
-  key: 042-three-choices
+- item: 24
+  key: 023-three-choices
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: three-choices
   speaker: Joseph B. Wirthlin
   title: Three Choices
   url: https://www.lds.org/general-conference/2003/10/three-choices?lang=eng
   year: 2003
-- article_id: PD10030835_000_027
-  item: '044'
-  key: 044-an-ensign-to-the-nations-a-light-to-the-world
+- item: 25
+  key: 024-an-ensign-to-the-nations-a-light-to-the-world
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: an-ensign-to-the-nations-a-light-to-the-world
   speaker: Gordon B. Hinckley
   title: An Ensign to the Nations, a Light to the World
   url: https://www.lds.org/general-conference/2003/10/an-ensign-to-the-nations-a-light-to-the-world?lang=eng
   year: 2003
-- article_id: PD10030835_000_028
-  item: 048
-  key: 048-we-believe-all-that-god-has-revealed
+- item: 26
+  key: 025-we-believe-all-that-god-has-revealed
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: we-believe-all-that-god-has-revealed
   speaker: L. Tom Perry
   title: We Believe All That God Has Revealed
   url: https://www.lds.org/general-conference/2003/10/we-believe-all-that-god-has-revealed?lang=eng
   year: 2003
-- article_id: PD10030835_000_029
-  item: 049
-  key: 049-an-enduring-testimony-of-the-mission-of-the-prophet-joseph
+- item: 27
+  key: 026-an-enduring-testimony-of-the-mission-of-the-prophet-joseph
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: an-enduring-testimony-of-the-mission-of-the-prophet-joseph
   speaker: Henry B. Eyring
   title: An Enduring Testimony of the Mission of the Prophet Joseph
   url: https://www.lds.org/general-conference/2003/10/an-enduring-testimony-of-the-mission-of-the-prophet-joseph?lang=eng
   year: 2003
-- article_id: PD10030835_000_030
-  item: '050'
-  key: 050-come-follow-me
+- item: 28
+  key: 027-come-follow-me
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: come-follow-me
   speaker: William W. Parmley
-  title: "\u201CCome, Follow Me\u201D"
+  title: '"Come, Follow Me"'
   url: https://www.lds.org/general-conference/2003/10/come-follow-me?lang=eng
   year: 2003
-- article_id: PD10030835_000_031
-  item: '052'
-  key: 052-are-you-a-saint
+- item: 29
+  key: 028-are-you-a-saint
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: are-you-a-saint
   speaker: Quentin L. Cook
   title: Are You a Saint?
   url: https://www.lds.org/general-conference/2003/10/are-you-a-saint?lang=eng
   year: 2003
-- article_id: PD10030835_000_032
-  item: '053'
-  key: 053-the-empowerment-of-humility
+- item: 30
+  key: 029-the-empowerment-of-humility
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-empowerment-of-humility
   speaker: Richard C. Edgley
   title: The Empowerment of Humility
   url: https://www.lds.org/general-conference/2003/10/the-empowerment-of-humility?lang=eng
   year: 2003
-- article_id: PD10030835_000_033
-  item: '054'
-  key: 054-how-choice-a-seer
+- item: 31
+  key: 030-how-choice-a-seer
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: how-choice-a-seer
   speaker: Neal A. Maxwell
   title: How Choice a Seer!
   url: https://www.lds.org/general-conference/2003/10/how-choice-a-seer?lang=eng
   year: 2003
-- article_id: PD10030835_000_034
-  item: '056'
-  key: 056-let-us-live-the-gospel-more-fully
+- item: 32
+  key: 031-let-us-live-the-gospel-more-fully
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: let-us-live-the-gospel-more-fully
   speaker: Gordon B. Hinckley
   title: Let Us Live the Gospel More Fully
   url: https://www.lds.org/general-conference/2003/10/let-us-live-the-gospel-more-fully?lang=eng
   year: 2003
-- article_id: PD10030835_000_035
-  item: 059
-  key: 059-choosing-charity-that-good-part
+- item: 33
+  key: 032-choosing-charity-that-good-part
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: choosing-charity-that-good-part
   speaker: Bonnie D. Parkin
-  title: 'Choosing Charity: That Good Part'
+  title: Choosing Charity:That Good Part
   url: https://www.lds.org/general-conference/2003/10/choosing-charity-that-good-part?lang=eng
   year: 2003
-- article_id: PD10030835_000_037
-  item: '061'
-  key: 061-in-covenant-with-him
+- item: 34
+  key: 033-in-covenant-with-him
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: in-covenant-with-him
   speaker: Kathleen H. Hughes
   title: In Covenant with Him
   url: https://www.lds.org/general-conference/2003/10/in-covenant-with-him?lang=eng
   year: 2003
-- article_id: PD10030835_000_038
-  item: '062'
-  key: 062-choose-ye-therefore-christ-the-lord
+- item: 35
+  key: 034-choose-ye-therefore-christ-the-lord
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: choose-ye-therefore-christ-the-lord
   speaker: Anne C. Pingree
   title: Choose Ye Therefore Christ the Lord
   url: https://www.lds.org/general-conference/2003/10/choose-ye-therefore-christ-the-lord?lang=eng
   year: 2003
-- article_id: PD10030835_000_039
-  item: '064'
-  key: 064-to-the-women-of-the-church
+- item: 36
+  key: 035-to-the-women-of-the-church
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: to-the-women-of-the-church
   speaker: Gordon B. Hinckley

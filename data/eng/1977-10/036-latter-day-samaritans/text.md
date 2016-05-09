@@ -60,7 +60,7 @@ among the thieves?
 
 "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and
 do thou likewise." ([Luke
-10:25-37](https://www.lds.org/scriptures/nt/luke/10.25-37?lang=eng#24).)
+10:25-37](/scriptures/nt/luke/10.25-37?lang=eng#24).)
 
 How changed a world this would be if we were all to follow so fine an example
 of pure Christian love! Let us examine what really took place here.
@@ -71,7 +71,7 @@ forth in the heart of anyone who has been touched by the Spirit of the Lord.
 These empathetic feelings should be felt by each of us toward one another.
 Indeed, the Savior said that covenant Israel should be known and distinguished
 by the love they show one for the other. (See [John
-13:35](https://www.lds.org/scriptures/nt/john/13.35?lang=eng#34).)
+13:35](/scriptures/nt/john/13.35?lang=eng#34).)
 
 Second, the Samaritan "went to him." He did not wait to be approached by the
 one in need, but rather perceived the need and stepped forth without being
@@ -119,7 +119,7 @@ _We can and should have compassion._
 
 _We can and should seek out those in need._ The Lord expressly lays this
 charge on the bishops in the Eighty-fourth Section of the Doctrine and
-Covenants. (See [D&amp;C 84:104-5](https://www.lds.org/scriptures/dc-
+Covenants. (See [D&amp;C 84:104-5](/scriptures/dc-
 testament/dc/84.104-5?lang=eng#103).)
 
 _We can and do provide medical services, food, housing, transportation, and
@@ -147,17 +147,12 @@ several basic things that must be done. May I suggest some of the primary
 Welfare Services priorities that each priesthood leader should pursue. In
 brief, they are:
 
-  1. _Organize according to the pattern set forth in handbooks_ and as directed by your presiding priesthood officer. If we are not properly organized, our Welfare Services efforts are likely to be inconsistent and ineffective.
-
-  2. _Learn our duty._ Much material has been made available to help you understand your responsibilities and accountabilities. See to it that you do not lack in understanding of what and how you are to proceed in your assignment.
-
-  3. _Hold regular, effective meetings following a meaningful agenda._ In all of your meetings please make adequate provision for reports on assignments given; it's the _follow-through_ on decisions made in our priesthood councils that truly makes of us Good Samaritans. As was stressed last April, I want to give emphasis to the three crucial meetings that must be held if Welfare Services is to be carried forward as the Lord intended. These three are the weekly Ward Welfare Services Committee meeting, the monthly Stake Welfare Services Committee meeting, and the monthly Stake Bishops Council meeting. (See _Ensign,_ May 1977, pp. 88-90.)
-
-  4. _Teach Welfare Services principles and exemplify them in your own life._ Make it a habit to read the report of these Welfare Services sessions of conference. They contain splendid material on the principles of Welfare Services. Today we have been instructed as fathers in what to teach to our families, as bishops in what to teach our wards. And President Kimball has reminded us of the foundational principles of this Welfare Services work with which we should all familiarize ourselves.
-
-  5. _Establish and maintain those facilities and systems required to respond to needs._ Much has been said over the years regarding establishing production projects, storehouses, the employment program, appropriate use of LDS Social Services agencies, and Deseret Industries. I needn't elaborate on what ought to be or how it should be established. Simply let me remind you that, according to an appropriate plan, we must go forth in establishing the Lord's complete program.
-
-  6. _Keep the program volunteer centered._ As a stake president, I observed the transformation in lives and the happiness gained by those who, on a Church service and volunteer basis, gave of themselves as Good Samaritans and as good Christians to heal and prosper the lives of others. I believe it was President Lee who said that we must never let this program become one of professionals. To the extent possible, we should rely on church service--brothers and sisters--to accomplish much of this work. When it is required that we have full- or part-time employees, then let us make certain that those we hire are fully qualified.
+  1. _Organize according to the pattern set forth in handbooks_ and as directed by your presiding priesthood officer. If we are not properly organized, our Welfare Services efforts are likely to be inconsistent and ineffective. 
+  2. _Learn our duty._ Much material has been made available to help you understand your responsibilities and accountabilities. See to it that you do not lack in understanding of what and how you are to proceed in your assignment. 
+  3. _Hold regular, effective meetings following a meaningful agenda._ In all of your meetings please make adequate provision for reports on assignments given; it's the _follow-through_ on decisions made in our priesthood councils that truly makes of us Good Samaritans. As was stressed last April, I want to give emphasis to the three crucial meetings that must be held if Welfare Services is to be carried forward as the Lord intended. These three are the weekly Ward Welfare Services Committee meeting, the monthly Stake Welfare Services Committee meeting, and the monthly Stake Bishops Council meeting. (See _Ensign,_ May 1977, pp. 88-90.) 
+  4. _Teach Welfare Services principles and exemplify them in your own life._ Make it a habit to read the report of these Welfare Services sessions of conference. They contain splendid material on the principles of Welfare Services. Today we have been instructed as fathers in what to teach to our families, as bishops in what to teach our wards. And President Kimball has reminded us of the foundational principles of this Welfare Services work with which we should all familiarize ourselves. 
+  5. _Establish and maintain those facilities and systems required to respond to needs._ Much has been said over the years regarding establishing production projects, storehouses, the employment program, appropriate use of LDS Social Services agencies, and Deseret Industries. I needn't elaborate on what ought to be or how it should be established. Simply let me remind you that, according to an appropriate plan, we must go forth in establishing the Lord's complete program. 
+  6. _Keep the program volunteer centered._ As a stake president, I observed the transformation in lives and the happiness gained by those who, on a Church service and volunteer basis, gave of themselves as Good Samaritans and as good Christians to heal and prosper the lives of others. I believe it was President Lee who said that we must never let this program become one of professionals. To the extent possible, we should rely on church service--brothers and sisters--to accomplish much of this work. When it is required that we have full- or part-time employees, then let us make certain that those we hire are fully qualified. 
 
 My brothers and sisters, the work of this Church is moving forward as perhaps
 never before. May each of us give of ourselves wherever we can in the building
@@ -167,4 +162,6 @@ and maintain their dignity and self-respect.
 
 I leave with you my testimony of the truthfulness of this most important work.
 It is the work of the Lord. In the name of Jesus Christ, amen.
+
+## References
 

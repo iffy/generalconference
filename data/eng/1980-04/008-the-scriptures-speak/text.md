@@ -8,9 +8,8 @@ Saints, advising that they have read it.
 
 The Savior of the world advised us to read the scriptures. He said: "Search
 the scriptures; for in them ye think ye have eternal life: and they are they
-which testify of me" ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38)). Is there
-anything worth seeking more than eternal life?
+which testify of me" ([John 5:39](/scriptures/nt/john/5.39?lang=eng#38)). Is
+there anything worth seeking more than eternal life?
 
 As I read the scriptures--and I have read the Book of Mormon during the past
 six months and most of the Bible--I always find something therein that I did
@@ -21,8 +20,7 @@ with flaming torches in the day of his preparation. ...
 
 "The chariots shall rage in the streets, they shall justle one against another
 in the broad ways: they shall seem like torches, they shall run like the
-lightnings" ([Nahum
-2:3-4](https://www.lds.org/scriptures/ot/nahum/2.3-4?lang=eng#2)).
+lightnings" ([Nahum 2:3-4](/scriptures/ot/nahum/2.3-4?lang=eng#2)).
 
 Could anybody have described an automobile better than that before there was
 such a thing as an automobile? Certainly they travel like the lightning, and
@@ -41,23 +39,20 @@ his preparation. I quote you from the book of Malachi, where the Lord,
 speaking through Malachi, said that he would send his messenger to prepare the
 way for his coming. And he would come swiftly to his temple, and who could
 abide the day of his coming, because he would be as refiner's fire and
-fullers' soap (see [Mal.
-3:1-2](https://www.lds.org/scriptures/ot/mal/3.1-2?lang=eng#0)). Now,
+fullers' soap (see [Mal. 3:1-2](/scriptures/ot/mal/3.1-2?lang=eng#0)). Now,
 obviously that had no reference to his first coming. He did not come swiftly
 to his temple at that time. He did not come cleansing and purifying as
 refiner's fire and fullers' soap. We are told that when he comes in the latter
 days, the wicked will cry out to the rocks, "Fall on us, and hide us from his
-presence" (see [Rev.
-6:16](https://www.lds.org/scriptures/nt/rev/6.16?lang=eng#15)).
+presence" (see [Rev. 6:16](/scriptures/nt/rev/6.16?lang=eng#15)).
 
 When the Lord sends a messenger to prepare the way for his coming, that
 messenger can be none other than a prophet. When the Savior came in the
 meridian of time, John the Baptist was sent to prepare the way for his coming,
 and Jesus testified of him that there was no greater prophet in Israel (see
-[Luke 7:28](https://www.lds.org/scriptures/nt/luke/7.28?lang=eng#27)). And the
-prophet Amos tells us: "Surely the Lord God will do nothing, but he revealeth
-his secret unto his servants the prophets" ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6)).
+[Luke 7:28](/scriptures/nt/luke/7.28?lang=eng#27)). And the prophet Amos tells
+us: "Surely the Lord God will do nothing, but he revealeth his secret unto his
+servants the prophets" ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6)).
 
 Therefore, when the time of preparation comes, as I have read to you here
 today, the Lord could not prepare for his coming without a prophet. And the
@@ -69,12 +64,12 @@ I like the statement of Peter of old, following the day of Pentecost, when he
 talked to those who had put to death the Christ. He said the heavens were to
 receive the Christ until "the times of restitution of all things ... spoken by
 the mouths of all the holy prophets since the world began" ([Acts
-3:20-21](https://www.lds.org/scriptures/nt/acts/3.20-21?lang=eng#19)). Search
-this world over and you cannot find a church that claims a restitution of all
-things spoken by the mouths of all the holy prophets except The Church of
-Jesus Christ of Latter-day Saints. We believe Peter was a prophet; and if the
-world does, then they cannot look for the Savior's second coming until there
-is such a restitution of all things.
+3:20-21](/scriptures/nt/acts/3.20-21?lang=eng#19)). Search this world over and
+you cannot find a church that claims a restitution of all things spoken by the
+mouths of all the holy prophets except The Church of Jesus Christ of Latter-
+day Saints. We believe Peter was a prophet; and if the world does, then they
+cannot look for the Savior's second coming until there is such a restitution
+of all things.
 
 There is not time to discuss that restitution today, but just think of the
 coming of the Father and the Son to teach the real personality of the Godhead;
@@ -90,14 +85,13 @@ The king had forgotten his dream, and he called all the soothsayers and the
 wise men and astrologers, and none of them could tell him his dream. He heard
 of the man Daniel and sent for him, and Daniel said: "There is a God in heaven
 that revealeth secrets and maketh known to the king Nebuchadnezzar what shall
-be in the latter days" ([Dan.
-2:28](https://www.lds.org/scriptures/ot/dan/2.28?lang=eng#27)). Then Daniel
-told him about the rise and fall of the kingdoms of this world until the
-latter days, when the God of heaven would set up a kingdom that should never
-be destroyed or given to another people. But like a little stone cut out of
-the mountains without hands, it would roll forth until it should become as a
-great mountain and fill the whole earth (see [Dan.
-2:44-45](https://www.lds.org/scriptures/ot/dan/2.44-45?lang=eng#43)).
+be in the latter days" ([Dan. 2:28](/scriptures/ot/dan/2.28?lang=eng#27)).
+Then Daniel told him about the rise and fall of the kingdoms of this world
+until the latter days, when the God of heaven would set up a kingdom that
+should never be destroyed or given to another people. But like a little stone
+cut out of the mountains without hands, it would roll forth until it should
+become as a great mountain and fill the whole earth (see [Dan.
+2:44-45](/scriptures/ot/dan/2.44-45?lang=eng#43)).
 
 The establishment of that kingdom was made possible in these latter days--and
 he said in the latter days--through the coming of Peter, James, and John with
@@ -124,7 +118,7 @@ seventh chapter of Daniel and you will see where Daniel saw 'one like the Son
 of man' coming in the clouds of heaven unto the Ancient of Days. And unto him
 was given the kingdom, that all other kingdoms, powers, and dominions under
 the whole heavens should serve and obey him" (see [Dan.
-7:13-14](https://www.lds.org/scriptures/ot/dan/7.13-14?lang=eng#12)).
+7:13-14](/scriptures/ot/dan/7.13-14?lang=eng#12)).
 
 Then I said: "My friend, tell me, how can a kingdom be given to him when he
 comes in the clouds of heaven if a kingdom is not prepared for him?" I said:
@@ -132,9 +126,8 @@ comes in the clouds of heaven if a kingdom is not prepared for him?" I said:
 will read a little further, Daniel said something like this: The kingdom and
 the power and the dominion under the whole heavens shall be given unto the
 Saints of the Most High God, that they might possess the kingdom for ever (see
-[Dan. 7:18, 27](https://www.lds.org/scriptures/ot/dan/7.18%2C27?lang=eng#17)).
-And as if that were not quite long enough Daniel adds, 'Even for ever and
-ever.'"
+[Dan. 7:18, 27](/scriptures/ot/dan/7.18,27?lang=eng#17)). And as if that were
+not quite long enough Daniel adds, 'Even for ever and ever.'"
 
 Now, who are the Saints of the Most High God? All you wonderful people who are
 listening in today, and you who are bearing the burden along with these thirty
@@ -144,19 +137,17 @@ kingdom for the coming of the great King.
 I like to refer to the experience of John the Revelator when he was banished
 upon the Isle of Patmos. A voice from heaven said: "Come up hither, and I will
 shew thee things which must be hereafter" ([Rev.
-4:1](https://www.lds.org/scriptures/nt/rev/4.1?lang=eng#0)). This was thirty
-years after the death of the Savior. And the angel showed John the power that
-would be given to the evil one, the devil, to make war with the Saints (and
-the Saints were the followers of Jesus) and to overcome them and to reign over
-all kindreds, tongues, and nations (see [Rev.
-13:7](https://www.lds.org/scriptures/nt/rev/13.7?lang=eng#6)). That is one of
-the positive declarations in the holy scriptures of a complete apostasy from
-the church that Jesus established. But the angel did not leave it there. He
-then showed John another angel flying in the midst of heaven, "having the
-everlasting gospel [and that is the only gospel that can save men] to preach
-unto them that dwell on the earth, and to every nation, and kindred, and
-tongue, and people" ([Rev.
-14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5)).
+4:1](/scriptures/nt/rev/4.1?lang=eng#0)). This was thirty years after the
+death of the Savior. And the angel showed John the power that would be given
+to the evil one, the devil, to make war with the Saints (and the Saints were
+the followers of Jesus) and to overcome them and to reign over all kindreds,
+tongues, and nations (see [Rev. 13:7](/scriptures/nt/rev/13.7?lang=eng#6)).
+That is one of the positive declarations in the holy scriptures of a complete
+apostasy from the church that Jesus established. But the angel did not leave
+it there. He then showed John another angel flying in the midst of heaven,
+"having the everlasting gospel [and that is the only gospel that can save men]
+to preach unto them that dwell on the earth, and to every nation, and kindred,
+and tongue, and people" ([Rev. 14:6](/scriptures/nt/rev/14.6?lang=eng#5)).
 
 If the everlasting gospel had been upon the earth, there would have been no
 need for John to see a restoration brought back by an angel. This is the
@@ -166,7 +157,7 @@ the mouths of all the holy prophets since the world began." And then the angel
 showed him an angel bringing the everlasting gospel to be preached to every
 nation, "saying with a loud voice, Fear God, and give glory to him; for the
 hour of his judgment is come" ([Rev.
-14:7](https://www.lds.org/scriptures/nt/rev/14.7?lang=eng#6)).
+14:7](/scriptures/nt/rev/14.7?lang=eng#6)).
 
 We live in the day of his judgments. In the period of my lifetime there have
 been more judgments and destructions and wars and contentions in this world
@@ -174,7 +165,7 @@ than in all the history of the world combined before that time. This is the
 time of the judgments that the angel saw, when that everlasting gospel should
 be restored. And then he adds: "Worship him that made heaven, and earth, and
 the sea, and the fountains of waters" ([Rev.
-14:7](https://www.lds.org/scriptures/nt/rev/14.7?lang=eng#6)).
+14:7](/scriptures/nt/rev/14.7?lang=eng#6)).
 
 When Joseph Smith had his marvelous vision and saw the Father and the Son,
 there was not a church in this world that worshipped the God that made the
@@ -197,4 +188,6 @@ times.
 
 I pray God to bless you all, and bear you my witness of the divinity of this
 work, in the name of the Lord, Jesus Christ, amen.
+
+## References
 

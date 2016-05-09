@@ -55,7 +55,7 @@ temple and participate in the sacred ordinances performed there. She also
 expressed her fervent hope that some day her children ... grandchildren and
 great-grandchildren would have the opportunity to enjoy those priceless
 blessings." He continued: "I am happy to say that her fondest hopes in large
-measure have been realized." [1]
+measure have been realized."[1]
 
 On another occasion, President Benson instructed us: "Sometimes in the peace
 of lovely temples, the serious problems of life find their solutions. [At
@@ -70,7 +70,7 @@ temples], that the veil may become very thin between this world and the spirit
 world. I know this is true." He declared, "It is well also that we keep in
 mind that it is all one great program on both sides of the veil and it is not
 too important whether we serve here or over there, as long as we serve with
-all our heart, might, mind, and strength." [2]
+all our heart, might, mind, and strength."[2]
 
 President Benson, your words are welcomed. We have heard them. We shall follow
 them. They, like the temples you so much love, are as a refuge from life's
@@ -81,7 +81,7 @@ and ever pray for you. In the name of Jesus Christ, amen.
 
 ## References
 
-  1.   _Ensign,_ Aug. 1985, p. 8.
+  1. _Ensign,_ Aug. 1985, p. 8.
 
-  2.  "Temple Memories," address given at Denver Colorado Temple dedication, 25 Oct. 1986.
+  2. "Temple Memories," address given at Denver Colorado Temple dedication, 25 Oct. 1986.
 

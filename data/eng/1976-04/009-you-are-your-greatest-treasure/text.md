@@ -24,7 +24,7 @@ came from Malachi:
 house, and prove me now herewith, saith the Lord of hosts, if I will not open
 you the windows of heaven, and pour you out a blessing, that there shall not
 be room enough to receive it." ([Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).)
+3:10](/scriptures/ot/mal/3.10?lang=eng#9).)
 
 From this the committee conceived a unique idea of getting that message to
 their members by coining a pocket piece made of copper with a coating to make
@@ -94,8 +94,7 @@ and of judgment. ...
 "I have yet many things to say unto you, but ye cannot bear them now.
 
 "Howbeit when he, the Spirit of truth, is come, he will guide you into all
-truth." ([John 16:7-8,
-12-13](https://www.lds.org/scriptures/nt/john/16.7-8%2C12-13?lang=eng#6).)
+truth." ([John 16:7-8, 12-13](/scriptures/nt/john/16.7-8,12-13?lang=eng#6).)
 
 It is through the Holy Ghost that members receive the knowledge and witness of
 the truth. So influenced, they willingly and voluntarily support the cause of
@@ -108,7 +107,7 @@ pearls:
 
 "Who, when he had found one pearl of great price, went and sold all that he
 had, and bought it." ([Matt.
-13:45-46](https://www.lds.org/scriptures/nt/matt/13.45-46?lang=eng#44).)
+13:45-46](/scriptures/nt/matt/13.45-46?lang=eng#44).)
 
 Joseph Smith, speaking on the subject, so expressed himself: "Such was, and
 always will be, the situation of the saints of God, that unless they have an
@@ -127,18 +126,16 @@ From certain vantage points, some are privileged to see the growth and
 vitality of the living Church. In that movement it is seen that faith is
 increasing in the earth, that God's everlasting covenant is established, and
 that the fulness of the gospel is being proclaimed. (See [D&amp;C
-1:21](https://www.lds.org/scriptures/dc-testament/dc/1.21?lang=eng#20).) This
-is in harmony with the revelation given through the Prophet Joseph Smith,
-while spending some of his most burdensome times in the Liberty Jail during
-the winter and spring of 1838-39\. In the midst of that dark world he
-declared:
+1:21](/scriptures/dc-testament/dc/1.21?lang=eng#20).) This is in harmony with
+the revelation given through the Prophet Joseph Smith, while spending some of
+his most burdensome times in the Liberty Jail during the winter and spring of
+1838-39\. In the midst of that dark world he declared:
 
 "How long can rolling waters remain impure? What power shall stay the heavens?
 As well might man stretch forth his puny arm to stop the Missouri river in its
 decreed course, or to turn it up stream, as to hinder the Almighty from
 pouring down knowledge from heaven upon the heads of the Latter-day Saints."
-([D&amp;C 121:33](https://www.lds.org/scriptures/dc-
-testament/dc/121.33?lang=eng#32).)
+([D&amp;C 121:33](/scriptures/dc-testament/dc/121.33?lang=eng#32).)
 
 This knowledge which the Almighty pours down upon the heads of the Saints
 relates to that lost knowledge of the true nature of the Father and of his
@@ -149,7 +146,7 @@ believers, he said:
 
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 The whole purpose of the gospel plan is to inform mankind that they might act
 in accord with its principles; it is to help the individual find himself, to
@@ -185,16 +182,17 @@ the Lord can comprehend.
 "And again, believe that ye must repent of your sins and forsake them, and
 humble yourselves before God; and ask in sincerity of heart that he would
 forgive you; and now, if you believe all these things see that ye do them."
-([Mosiah 4:5,
-8-10](https://www.lds.org/scriptures/bofm/mosiah/4.5%2C8-10?lang=eng#4).)
+([Mosiah 4:5, 8-10](/scriptures/bofm/mosiah/4.5,8-10?lang=eng#4).)
 
 Using this scripture as a base and pursuing a course which the Savior referred
 to as being "strait" and "narrow" (see [Matt.
-7:14](https://www.lds.org/scriptures/nt/matt/7.14?lang=eng#13)) will bring one
-to realize that "he himself is his greatest treasure." Millions have so
-testified under the power of the Holy Ghost, as they have subscribed
-themselves to the true doctrine and joined with others in the true Church.
+7:14](/scriptures/nt/matt/7.14?lang=eng#13)) will bring one to realize that
+"he himself is his greatest treasure." Millions have so testified under the
+power of the Holy Ghost, as they have subscribed themselves to the true
+doctrine and joined with others in the true Church.
 
 May God bless us and help us to understand this I humbly pray, in the name of
 Jesus Christ. Amen.
+
+## References
 

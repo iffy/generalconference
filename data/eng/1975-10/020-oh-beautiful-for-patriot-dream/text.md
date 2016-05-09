@@ -81,7 +81,7 @@ You and I are made aware, of course, that there is a better explanation of
 what really occurred. The scriptures tell us. The Lord "established the
 Constitution of this land, by the hands of wise men whom I raised up unto this
 very purpose, and redeemed the land by the shedding of blood." ([D&amp;C
-101:80](https://www.lds.org/scriptures/dc-testament/dc/101.80?lang=eng#79).)
+101:80](/scriptures/dc-testament/dc/101.80?lang=eng#79).)
 
 The land was "redeemed" indeed by thousands killed and wounded along the way
 at Germantown, at Bemis Heights and Charleston, and so many other places in
@@ -111,7 +111,7 @@ tears in his eyes he said, "Thank God, you came."
 Again the Lord said, "Wherefore, this land is consecrated unto him whom he
 shall bring. And if it so be that they shall serve him according to the
 commandments which he hath given, it shall be a land of liberty unto them."
-([2 Ne. 1:7](https://www.lds.org/scriptures/bofm/2-ne/1.7?lang=eng#6).)
+([2 Ne. 1:7](/scriptures/bofm/2-ne/1.7?lang=eng#6).)
 
 As Latter-day Saints then, we know why some persons came to America and others
 did not. And as someone has said, "We haven't done badly for a nation of
@@ -192,4 +192,6 @@ May that be the song of our heart and our prayer for fulfillment, I humbly
 pray as I bear witness to these truths and add my testimony that God lives,
 that Jesus is the Christ, and that here sits his prophet, in the name of the
 Lord Jesus Christ. Amen.
+
+## References
 

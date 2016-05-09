@@ -2,7 +2,7 @@
 
 One of the most important teachings of Jesus Christ is his statement: "Blessed
 are all the peacemakers, for they shall be called the children of God." ([3
-Ne. 12:9](https://www.lds.org/scriptures/bofm/3-ne/12.9?lang=eng#8).)
+Ne. 12:9](/scriptures/bofm/3-ne/12.9?lang=eng#8).)
 
 It is impossible to pick up a newspaper or listen to a news broadcast without
 learning of some new quarrel among nations, some new argument among
@@ -18,8 +18,7 @@ We forget that we are not, and cannot be, totally independent of one another
 either in thought or action. We are part of a total community. We are all
 members of one family, as Paul reminded the Greeks at Athens when he explained
 that God "hath made of one blood all nations of men to dwell on all the face
-of the earth." ([Acts
-17:26](https://www.lds.org/scriptures/nt/acts/17.26?lang=eng#25).)
+of the earth." ([Acts 17:26](/scriptures/nt/acts/17.26?lang=eng#25).)
 
 It is small wonder then that people everywhere yearn for peace, even when
 quarreling one with another.
@@ -30,7 +29,7 @@ the times before appointed, and the bounds of their habitation:
 
 "That they should seek the Lord, if haply they might feel after him, and he be
 not far from every one of us." ([Acts
-17:26-27](https://www.lds.org/scriptures/nt/acts/17.26-27?lang=eng#25).)
+17:26-27](/scriptures/nt/acts/17.26-27?lang=eng#25).)
 
 We live under these universal laws of truth. If we violate them, it will be to
 our own destruction. We have to pay a penalty for disobedience whether we do
@@ -50,7 +49,7 @@ with all spiritual blessings in heavenly places in Christ:
 
 "According as he hath chosen us in him _before the foundation of the world,_
 that we should be holy and without blame before him in love." ([Eph.
-1:3-4](https://www.lds.org/scriptures/nt/eph/1.3-4?lang=eng#2).)
+1:3-4](/scriptures/nt/eph/1.3-4?lang=eng#2).)
 
 In citing this verse, I am reminded of a concept President Lee taught the
 General Authorities. He warned us not to place our trust nor build our sermons
@@ -67,7 +66,7 @@ When Moses taught the children of Israel, he made this remarkable statement:
 "When the most High divided to the nations their inheritance, when he
 separated the sons of Adam, he set the bounds of the people according to the
 number of the children of Israel." ([Deut.
-32:8](https://www.lds.org/scriptures/ot/deut/32.8?lang=eng#7).)
+32:8](/scriptures/ot/deut/32.8?lang=eng#7).)
 
 This tells me that approximately 2,500 years before there were any children of
 Israel, God had divided Adam's sons into families to reflect the coming
@@ -77,8 +76,7 @@ of priesthood lineage. Alma made this clear when he said of men holding the
 high priesthood that they were "called and prepared _from the foundation of
 the world_ according to the foreknowledge of God, on account of their
 exceeding faith and good works." ([Alma
-13:3](https://www.lds.org/scriptures/bofm/alma/13.3?lang=eng#2). Italics
-added.)
+13:3](/scriptures/bofm/alma/13.3?lang=eng#2). Italics added.)
 
 In our own day we have been told that the priesthood was given us so that we
 could be of service to others, and that this priesthood "hath continued
@@ -91,7 +89,7 @@ place.
 "Therefore your life and the priesthood have remained, and must needs remain
 through you and your lineage until the restoration of all things spoken by the
 mouths of all the holy prophets since the world began." ([D&amp;C
-86:8-10](https://www.lds.org/scriptures/dc-testament/dc/86.8-10?lang=eng#7).)
+86:8-10](/scriptures/dc-testament/dc/86.8-10?lang=eng#7).)
 
 It is a sobering and humbling thought then to realize that we have been chosen
 beforehand and reserved for a special purpose--to use that priesthood for the
@@ -124,7 +122,7 @@ commandment, what I should say, and what I should speak.
 
 "And I know that his commandment is life everlasting: whatsoever I speak
 therefore, even as the Father said unto me, so I speak." ([John
-12:49-50](https://www.lds.org/scriptures/nt/john/12.49-50?lang=eng#48).)
+12:49-50](/scriptures/nt/john/12.49-50?lang=eng#48).)
 
 That is a perfect way to achieve peace and harmony in our lives. If we would
 only follow the instructions of a perfect God, instead of following the
@@ -141,8 +139,7 @@ not of me, but is of the devil, who ... stirreth up the hearts of men to contend
 with anger, one with another. ...
 
 "But this is my doctrine, that such things [quarreling and arguing] should be
-done away." ([3 Ne.
-11:28-30](https://www.lds.org/scriptures/bofm/3-ne/11.28-30?lang=eng#27).)
+done away." ([3 Ne. 11:28-30](/scriptures/bofm/3-ne/11.28-30?lang=eng#27).)
 
 God, who knows all things from the beginning, knew that in the last days Satan
 would exert every effort to destroy the work of God. The closer we approach
@@ -194,8 +191,10 @@ only way Satan can ever be bound will be through the love of man for God and
 for one another.
 
 "Blessed are the peacemakers: for they shall be called the children of God."
-([Matt. 5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8).)
+([Matt. 5:9](/scriptures/nt/matt/5.9?lang=eng#8).)
 
 May God bless us to follow the instructions and examples of the holy prophet
 he has sent to live among us, I pray in the name of Jesus Christ. Amen.
+
+## References
 

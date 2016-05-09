@@ -23,7 +23,7 @@ he was a messenger sent from the presence of God to me, and that his name was
 Moroni; that God had a work for me to do; and that my name should be had for
 good and evil among all nations, kindreds, and tongues, or that it should be
 both good and evil spoken of among all people." ([JS--H
-1:3](https://www.lds.org/scriptures/pgp/js-h/1.3?lang=eng#2).)
+1:3](/scriptures/pgp/js-h/1.3?lang=eng#2).)
 
 We see in this congregation today a fulfillment of those remarkable words of
 prophecy. This has become a great, cosmopolitan church. We rejoice in the
@@ -69,7 +69,7 @@ to all men; indeed, we may say that we follow the admonition of Paul--We
 believe all things, we hope all things, we have endured many things, and hope
 to be able to endure all things. If there is anything virtuous, lovely, or of
 good report or praiseworthy, we seek after these things." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 That article of our faith is one of the basic declarations of our theology.
 During this great conference we have been reminded of many of the virtues set
@@ -90,7 +90,7 @@ he may know good from evil; wherefore, I show unto you the way to judge; for
 everything which inviteth to do good, and to persuade to believe in Christ, is
 sent forth by the power and gift of Christ; wherefore ye may know with a
 perfect knowledge it is of God." ([Moro.
-7:16](https://www.lds.org/scriptures/bofm/moro/7.16?lang=eng#15).)
+7:16](/scriptures/bofm/moro/7.16?lang=eng#15).)
 
 Let us establish in our lives the habit of reading those things which will
 strengthen our faith in the Lord Jesus Christ, the Savior of the world. He is
@@ -123,7 +123,7 @@ sow, that shall ye also reap. ...
 if ye are built upon my rock, they cannot prevail. ...
 
 "Look unto me in every thought; doubt not, fear not." ([D&amp;C 6:33-34,
-36](https://www.lds.org/scriptures/dc-testament/dc/6.33-34%2C36?lang=eng#32).)
+36](/scriptures/dc-testament/dc/6.33-34,36?lang=eng#32).)
 
 In closing I give to you the love and blessing of President Spencer W.
 Kimball, of his Counselor President Marion G. Romney, and of all of my
@@ -137,4 +137,6 @@ Church in which we have the honor to serve is their church restored to the
 earth for the blessing of all of our Father's children who will give heed to
 its message. God bless you. May he be with you in all things, at all times, I
 humbly pray in the name of Jesus Christ, amen.
+
+## References
 

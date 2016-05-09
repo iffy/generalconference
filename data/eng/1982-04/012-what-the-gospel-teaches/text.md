@@ -47,19 +47,19 @@ Then he adds: "And they who keep their first estate shall be added upon; and
 they who keep not their first estate shall not have glory in the same kingdom
 with those who keep their first estate; and they who keep their second estate
 shall have glory added upon their heads for ever and ever." ([Abr.
-3:24-26](https://www.lds.org/scriptures/pgp/abr/3.24-26?lang=eng#23).)
+3:24-26](/scriptures/pgp/abr/3.24-26?lang=eng#23).)
 
 I thank the Lord that my church teaches me that I kept my first estate in that
 spirit world or else I would have been cast down to this earth with Satan and
 a third of the hosts of heaven. And the cry went out: "Woe to the inhabiters
 of the earth ... for the devil is come down unto you," and he "walketh about,
 seeking whom he may devour." ([Rev.
-12:12](https://www.lds.org/scriptures/nt/rev/12.12?lang=eng#11); [1 Pet.
-5:8](https://www.lds.org/scriptures/nt/1-pet/5.8?lang=eng#7).) And so the fact
-that I kept my first estate entitled me to all the beauties and the joys of
-this world that have been mentioned here in this meeting today. And it gave me
-the right to have this body--and maybe I can't appreciate as much what that
-ought to mean to me as I do by reading the scriptures.
+12:12](/scriptures/nt/rev/12.12?lang=eng#11); [1 Pet.
+5:8](/scriptures/nt/1-pet/5.8?lang=eng#7).) And so the fact that I kept my
+first estate entitled me to all the beauties and the joys of this world that
+have been mentioned here in this meeting today. And it gave me the right to
+have this body--and maybe I can't appreciate as much what that ought to mean
+to me as I do by reading the scriptures.
 
 Then we read of when Jesus cast the devils out of the man who was possessed.
 And he asked his name, and he said: "Legion," because legions had entered into
@@ -67,20 +67,19 @@ the man. And so eager were those devils to get a body that they asked
 permission to take possession of the bodies of the swine that were feeding in
 the field. And Jesus permitted it, and they ran off into the sea and were
 drowned, as I remember about two thousand of them. (See [Mark
-5:1-17](https://www.lds.org/scriptures/nt/mark/5.1-17?lang=eng#0).) Just think
-how eager those spirits were to get a body, and because we kept our first
-estate we are now in our second estate.
+5:1-17](/scriptures/nt/mark/5.1-17?lang=eng#0).) Just think how eager those
+spirits were to get a body, and because we kept our first estate we are now in
+our second estate.
 
 I love the statement in the Bible where Enoch of old, that prophet who was
 translated into heaven with his people, obtained the assurance while yet here
 in mortality that he had pleased the Lord. (See [Heb.
-11:5](https://www.lds.org/scriptures/nt/heb/11.5?lang=eng#4).) I think by the
-keeping of His commandments--doing all things, as the Lord said, that the Lord
-God had commanded (see [Deut.
-12:32](https://www.lds.org/scriptures/ot/deut/12.32?lang=eng#31); [Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19))--that we can
-get an assurance that comes through the Holy Spirit that our labors are
-acceptable to the Lord and that we have pleased him.
+11:5](/scriptures/nt/heb/11.5?lang=eng#4).) I think by the keeping of His
+commandments--doing all things, as the Lord said, that the Lord God had
+commanded (see [Deut. 12:32](/scriptures/ot/deut/12.32?lang=eng#31); [Matt.
+28:20](/scriptures/nt/matt/28.20?lang=eng#19))--that we can get an assurance
+that comes through the Holy Spirit that our labors are acceptable to the Lord
+and that we have pleased him.
 
 I thank Him for the many beautiful truths, many of which have been proclaimed
 here today. This principle of eternal marriage--I just can't imagine living on
@@ -103,14 +102,13 @@ became a missionary, I never met anybody who believed in a personal God. My,
 what a joy to realize that Christ gave his life for us, and took upon him the
 sins of the world--as Paul said: "As in Adam all die, even so in Christ shall
 all be made alive" ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21))--and to
-know that his Father is as real as my father, and that they have revealed
-themselves as two glorified personages in this dispensation, after centuries
-of darkness, unto the Prophet Joseph Smith. The Lord had him in waiting
-thousands of years ago, according to the Book of Mormon, for his day and time
-to come, to bring men to a knowledge of the truth and to bring forth his truth
-among the people of this world. These are great truths, and many more can be
-taught.
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21))--and to know that his Father
+is as real as my father, and that they have revealed themselves as two
+glorified personages in this dispensation, after centuries of darkness, unto
+the Prophet Joseph Smith. The Lord had him in waiting thousands of years ago,
+according to the Book of Mormon, for his day and time to come, to bring men to
+a knowledge of the truth and to bring forth his truth among the people of this
+world. These are great truths, and many more can be taught.
 
 When I wrote the book _A Marvelous Work and a Wonder_ as a missionary tool, I
 chose the statement of Isaiah when he said, "Forasmuch as this people draw
@@ -120,9 +118,9 @@ men." Then he goes on: "Therefore, behold, I [the Lord] will proceed to do a
 marvellous work among this people, even a marvellous work and a wonder: for
 the wisdom of their wise men shall perish, and the understanding of their
 prudent men shall be hid." ([Isa.
-29:13-14](https://www.lds.org/scriptures/ot/isa/29.13-14?lang=eng#12).) The
-message of this great church is that marvelous work and a wonder that Isaiah
-saw would come forth when men would teach for doctrine the precepts of men.
+29:13-14](/scriptures/ot/isa/29.13-14?lang=eng#12).) The message of this great
+church is that marvelous work and a wonder that Isaiah saw would come forth
+when men would teach for doctrine the precepts of men.
 
 Being a missionary, as long as I have time, let me give you one or two little
 missionary experiences to indicate what Isaiah meant when he said that they
@@ -160,7 +158,7 @@ of faith toward God,
 
 "Of the doctrine of baptisms, and of laying on of hands, and of resurrection
 of the dead, and of eternal judgment." ([Heb.
-6:1-2](https://www.lds.org/scriptures/nt/heb/6.1-2?lang=eng#0).)
+6:1-2](/scriptures/nt/heb/6.1-2?lang=eng#0).)
 
 I hurried over faith and repentance--I thought they believed in them. I spoke
 on baptism by immersion for the remission of sin until everybody was giving me
@@ -179,7 +177,7 @@ power, that on whomsoever I lay my hands, he may receive the Holy Ghost.
 
 "But Peter said unto him, Thy money perish with thee, because thou hast
 thought that the gift of God may be purchased with money." ([Acts
-8:19-20](https://www.lds.org/scriptures/nt/acts/8.19-20?lang=eng#18).)
+8:19-20](/scriptures/nt/acts/8.19-20?lang=eng#18).)
 
 And then I gave them a few more references on the laying on of hands for the
 gift of the Holy Ghost, and sat down.
@@ -262,10 +260,12 @@ are not in full accord with the Holy Scriptures?"
 I said, "My friend, I'd rather let the Apostle Paul answer that question. He
 said, 'Though we, or an angel from heaven, preach any other gospel unto you
 than that which we have preached unto you, let him be accursed.' ([Gal.
-1:8](https://www.lds.org/scriptures/nt/gal/1.8?lang=eng#7).)" We didn't have
-any more arguments then.
+1:8](/scriptures/nt/gal/1.8?lang=eng#7).)" We didn't have any more arguments
+then.
 
 I think my time is up. God bless you all. I love the Lord. I love his church.
 I love the Saints. I love them all. God bless you, I pray, and leave you my
 blessing in the name of the Lord Jesus Christ, amen.
+
+## References
 

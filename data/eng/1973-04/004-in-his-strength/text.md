@@ -50,8 +50,7 @@ and through him! What a great blessing to know that in his strength we can do
 all things!
 
 Ammon taught a great lesson not only to his brother Aaron, but to all of us in
-this day, in [Alma
-26:10-12](https://www.lds.org/scriptures/bofm/alma/26.10-12?lang=eng#9):
+this day, in [Alma 26:10-12](/scriptures/bofm/alma/26.10-12?lang=eng#9):
 
 "And it came to pass that when Ammon had said these words, his brother Aaron
 rebuked him, saying: Ammon, I fear that thy joy doth carry thee away unto
@@ -96,7 +95,7 @@ manner to create in them a spirit of the most bitter persecution and reviling.
 But strange or not, so it was, and it was the cause of great sorrow to myself.
 
 "However, it was nevertheless a fact that I had beheld a vision. ..." ([JS--H
-1:23-24](https://www.lds.org/scriptures/pgp/js-h/1.23-24?lang=eng#22).)
+1:23-24](/scriptures/pgp/js-h/1.23-24?lang=eng#22).)
 
 May I remind all of us that Joseph Smith referred to himself as "an obscure
 boy" but never as a "nobody." Joseph Smith was sustained all the days of his
@@ -214,7 +213,7 @@ thine.
 
 "It was meet that we should make merry, and be glad: for this thy brother was
 dead, and is alive again; and was lost, and is found." ([Luke
-15:11-32](https://www.lds.org/scriptures/nt/luke/15.11-32?lang=eng#10).)
+15:11-32](/scriptures/nt/luke/15.11-32?lang=eng#10).)
 
 Brothers and sisters, think well again on these points, if you will. "Father,
 divide your goods and give me my share. I am going off on my own." In the days
@@ -249,4 +248,6 @@ God lives. He too is someone--real and eternal--and he wants us to be someone
 with him. I bear witness that in his strength we can become like him. I leave
 you this my witness and my testimony humbly and in the name of Jesus Christ.
 Amen.
+
+## References
 

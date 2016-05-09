@@ -24,8 +24,8 @@ on that sacred occasion.
 I shall never forget finally finding myself standing in the baptismal font at
 the Deseret Branch with Mario, raising my arm to the square, and saying,
 "Habiendo sido comisionado por Jesucristo ..." "Having been commissioned of
-Jesus Christ, I baptize you. ..." ([D&amp;C
-20:73](https://www.lds.org/scriptures/dc-testament/dc/20.73?lang=eng#72).)
+Jesus Christ, I baptize you. ..." ([D&amp;C 20:73](/scriptures/dc-
+testament/dc/20.73?lang=eng#72).)
 
 I had heard of people being commissioned to paint pictures. I had heard of
 people being commissioned to serve as military officers. But when it occurred
@@ -155,12 +155,14 @@ Above all the benefits and blessings of missionary service that come into the
 life of a missionary--and that which brings unparalleled peace and comfort to
 the soul--is the testimony which comes to him, perhaps not all at once,
 perhaps line upon line. (See [Isa.
-28:13](https://www.lds.org/scriptures/ot/isa/28.13?lang=eng#12).) That
-testimony I wish to bear to you now as a returned missionary. I know God
-lives. I know that Jesus is the Christ, God's Son, the leader of all humanity,
-and the measure of mankind. He is the King, our Counselor, and our Friend. He
-is worthy of our most pure and profound adoration and deserving of our very
-best efforts. As missionaries, we long to serve him with all our heart, might,
-mind, and strength. (See [D&amp;C 4:2](https://www.lds.org/scriptures/dc-
-testament/dc/4.2?lang=eng#1).) In the name of Jesus Christ, amen.
+28:13](/scriptures/ot/isa/28.13?lang=eng#12).) That testimony I wish to bear
+to you now as a returned missionary. I know God lives. I know that Jesus is
+the Christ, God's Son, the leader of all humanity, and the measure of mankind.
+He is the King, our Counselor, and our Friend. He is worthy of our most pure
+and profound adoration and deserving of our very best efforts. As
+missionaries, we long to serve him with all our heart, might, mind, and
+strength. (See [D&amp;C 4:2](/scriptures/dc-testament/dc/4.2?lang=eng#1).) In
+the name of Jesus Christ, amen.
+
+## References
 

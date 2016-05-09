@@ -50,10 +50,9 @@ Heavenly Father and our greatest example--the Lord, Jesus Christ. May we do so
 regardless of what the world may say or do, that we may hold fast to the iron
 rod, that we may be true to the faith, that we may maintain the standards set
 for us and follow this course to safety and exaltation. (See [1 Ne.
-8:19](https://www.lds.org/scriptures/bofm/1-ne/8.19?lang=eng#18).) The door is
-open. The plan is here on earth. It is the Lord's plan. The authority and
-power are here. It is now up to you." (_The Teachings of Ezra Taft Benson,_ p.
-26.)
+8:19](/scriptures/bofm/1-ne/8.19?lang=eng#18).) The door is open. The plan is
+here on earth. It is the Lord's plan. The authority and power are here. It is
+now up to you." (_The Teachings of Ezra Taft Benson,_ p. 26.)
 
 Such have been the declarations of this man who stands today as the Lord's
 prophet and our President. We bring you his love, his greeting, and his
@@ -63,4 +62,6 @@ bring him joy and gladness. I so pray as I give you my testimony that he is
 the prophet whom the Lord has trained and sustained through all of these years
 to speak as a prophet unto the nations and as our leader, in the name of Jesus
 Christ, amen.
+
+## References
 

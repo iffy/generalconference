@@ -14,7 +14,7 @@ To the brother of Jared, the premortal Jesus said:
 "Behold, I am he who was prepared from the foundation of the world to redeem
 my people. Behold, I am Jesus Christ. ... In me shall all mankind have life, and
 that eternally, even they who shall believe on my name" ([Ether
-3:14](https://www.lds.org/scriptures/bofm/ether/3.14?lang=eng#13)).
+3:14](/scriptures/bofm/ether/3.14?lang=eng#13)).
 
 Today is Easter--a day designated to solemnize the bodily resurrection of the
 Savior of the world. As members of His restored church, it is imperative that
@@ -55,7 +55,7 @@ Jesus said to them:
 
 "If I then, your Lord and Master, have washed your feet; ye also ought to wash
 one another's feet" ([John
-13:13-14](https://www.lds.org/scriptures/nt/john/13.13-14?lang=eng#12)).
+13:13-14](/scriptures/nt/john/13.13-14?lang=eng#12)).
 
 "He their Lord and Master had washed their feet. It was a kind and gracious
 task, and such ought to be the nature of all their dealings with each other.
@@ -66,8 +66,8 @@ During the course of the meal, He revealed the terrible news that one among
 them would betray Him, and a deep sadness fell over all of them.
 
 Jesus spoke to Judas, "That [which] thou doest, do quickly" ([John
-13:27](https://www.lds.org/scriptures/nt/john/13.27?lang=eng#26)). And Judas
-left the room to do his awful deed.
+13:27](/scriptures/nt/john/13.27?lang=eng#26)). And Judas left the room to do
+his awful deed.
 
 Conscious of the impending events, Jesus opened His heart to His chosen
 eleven, saying:
@@ -81,17 +81,16 @@ whither I go, ye cannot come. ...
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another" ([John 13:31,
-33-35](https://www.lds.org/scriptures/nt/john/13.31%2C33-35?lang=eng#30)).
+another" ([John 13:31, 33-35](/scriptures/nt/john/13.31,33-35?lang=eng#30)).
 
 While in that upper room, Jesus--initiating the sacrament--took bread, brake
 it, prayed over it, and passed it to the disciples, saying, "This is my body
 which is given for you: this do in remembrance of me" ([Luke
-22:19](https://www.lds.org/scriptures/nt/luke/22.19?lang=eng#18)).
+22:19](/scriptures/nt/luke/22.19?lang=eng#18)).
 
 And then, passing the cup, He said, "This cup is the new testament in my
 blood, which is shed for you" ([Luke
-22:20](https://www.lds.org/scriptures/nt/luke/22.20?lang=eng#19)).
+22:20](/scriptures/nt/luke/22.20?lang=eng#19)).
 
 The Savior prayed to the Father for the Apostles and all believers, saying:
 
@@ -103,7 +102,7 @@ to as many as thou hast given him.
 
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent" ([John
-17:1-3](https://www.lds.org/scriptures/nt/john/17.1-3?lang=eng#0)).
+17:1-3](/scriptures/nt/john/17.1-3?lang=eng#0)).
 
 The time which remained for Him to be with them was short. He told them of the
 Holy Ghost, whom He would send to comfort and guide them in truth. He taught
@@ -173,11 +172,11 @@ over the impending death of her Creator" (Talmage, _Jesus the Christ,_ pp.
 
 At the ninth hour Christ uttered that anguished cry, "'My God, my God, why
 hast thou forsaken me?'" [[Matt.
-27:46](https://www.lds.org/scriptures/nt/matt/27.46?lang=eng#45)] "In that
-bitterest hour the dying Christ was alone. [So] that the supreme sacrifice of
-the Son might be consummated in all its fulness, the Father seems to have
-withdrawn ... His immediate Presence, leaving to the Savior of men the glory of
-complete victory over the forces of sin and death" (ibid., p. 661).
+27:46](/scriptures/nt/matt/27.46?lang=eng#45)] "In that bitterest hour the
+dying Christ was alone. [So] that the supreme sacrifice of the Son might be
+consummated in all its fulness, the Father seems to have withdrawn ... His
+immediate Presence, leaving to the Savior of men the glory of complete victory
+over the forces of sin and death" (ibid., p. 661).
 
 Later, "realizing that He was no longer forsaken, but that His atoning
 sacrifice had been accepted by the Father, and that His mission in the flesh
@@ -212,14 +211,13 @@ was so. The grave was empty.
 
 Mary of Magdala returned once more to the tomb and there uttered the words,
 "They have taken away my Lord, and I know not where they have laid him" ([John
-20:13](https://www.lds.org/scriptures/nt/john/20.13?lang=eng#12)). And then
-Jesus Himself stood before her and said to her, "Mary" ([John
-20:16](https://www.lds.org/scriptures/nt/john/20.16?lang=eng#15)). Now that
-she recognized Him, He gently instructed her, "Touch me not; for I [have] not
-yet ascended to my Father: but go to my brethren, and say unto them, I ascend
-unto my Father, and your Father; and to my God, and your God" ([John
-20:17](https://www.lds.org/scriptures/nt/john/20.17?lang=eng#16)). And she
-hastened to obey.
+20:13](/scriptures/nt/john/20.13?lang=eng#12)). And then Jesus Himself stood
+before her and said to her, "Mary" ([John
+20:16](/scriptures/nt/john/20.16?lang=eng#15)). Now that she recognized Him,
+He gently instructed her, "Touch me not; for I [have] not yet ascended to my
+Father: but go to my brethren, and say unto them, I ascend unto my Father, and
+your Father; and to my God, and your God" ([John
+20:17](/scriptures/nt/john/20.17?lang=eng#16)). And she hastened to obey.
 
 After rising from the tomb on the third day after His crucifixion, Jesus
 appeared not only to Mary but to the other women also. A third appearance of
@@ -233,7 +231,7 @@ appeared before them.
 
 "Behold my hands and my feet, that it is I myself: handle me, and see; for a
 spirit hath not flesh and bones, as ye see me have" ([Luke 24:36,
-39](https://www.lds.org/scriptures/nt/luke/24.36%2C39?lang=eng#35)).
+39](/scriptures/nt/luke/24.36,39?lang=eng#35)).
 
 Later on, at the seashore at Galilee, while the Savior and the disciples were
 eating fish together, Jesus asked Peter, "Simon, son of Jonas, lovest thou me
@@ -255,7 +253,7 @@ In anguish, Peter said, "Lord, thou knowest all things; thou knowest that I
 love thee."
 
 And the Savior replied yet again, "Feed my sheep" (see [John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14)).
+21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14)).
 
 As the place of His ascension, Jesus chose the Mount of Olives. Here on the
 Mount the Savior instructed the Apostles and those whom He had commissioned:
@@ -265,7 +263,7 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world" ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18)).
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18)).
 
 This is our mandate. This is why we go to all nations of the earth proclaiming
 His gospel.
@@ -299,7 +297,9 @@ _In harmony divine!_
 The prophet Alma taught that the plan of mercy required an atonement to be
 made by God himself "to appease the demands of justice," that God might be a
 perfect, just, and merciful God ([Alma
-42:15](https://www.lds.org/scriptures/bofm/alma/42.15?lang=eng#14)). I bear
-witness that He lives, that He is our Savior. His is the pathway to true
-happiness, I declare in His holy name, Jesus Christ, amen.
+42:15](/scriptures/bofm/alma/42.15?lang=eng#14)). I bear witness that He
+lives, that He is our Savior. His is the pathway to true happiness, I declare
+in His holy name, Jesus Christ, amen.
+
+## References
 

@@ -17,16 +17,14 @@ Twelve have meditated upon and prayed about the great latter-day work the Lord
 has given us to do, we are impressed that the mission of the Church is
 threefold:
 
-  * To proclaim the gospel of the Lord Jesus Christ to every nation, kindred, tongue, and people;
-
-  * To perfect the Saints by preparing them to receive the ordinances of the gospel and by instruction and discipline to gain exaltation;
-
-  * To redeem the dead by performing vicarious ordinances of the gospel for those who have lived on the earth.
+  * To proclaim the gospel of the Lord Jesus Christ to every nation, kindred, tongue, and people; 
+  * To perfect the Saints by preparing them to receive the ordinances of the gospel and by instruction and discipline to gain exaltation; 
+  * To redeem the dead by performing vicarious ordinances of the gospel for those who have lived on the earth. 
 
 All three are part of one work--to assist our Father in Heaven and His Son,
 Jesus Christ, in Their grand and glorious mission "to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Having these sacred principles in mind--_to proclaim the gospel, to perfect
 the Saints,_ and _to redeem the dead_--we have endeavored these past six
@@ -173,4 +171,6 @@ Caribbean. I add my own love and greetings and leave my blessings with you.
 I know that God lives and that His Son, Jesus Christ, lives. He is our Savior
 and our Redeemer and our Mediator with the Father. May He bless us all during
 this great conference, I humbly pray, in the name of Jesus Christ, amen.
+
+## References
 

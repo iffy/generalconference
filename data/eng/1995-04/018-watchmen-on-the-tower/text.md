@@ -40,11 +40,10 @@ dedicated, committed home teacher" (Ezra Taft Benson, _Ensign,_ May 1987, p.
 After his resurrection, and before ascending to heaven, Jesus asked Simon
 Peter, "Simon, son of Jonas, lovest thou me more than these? He saith unto
 him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my
-[sheep]" ([John
-21:15](https://www.lds.org/scriptures/nt/john/21.15?lang=eng#14)). The
-question was repeated two more times, and Peter answered in the same manner;
-and the Lord replied, "Feed my sheep" ([John 21:16,
-17](https://www.lds.org/scriptures/nt/john/21.16%2C17?lang=eng#15)).
+[sheep]" ([John 21:15](/scriptures/nt/john/21.15?lang=eng#14)). The question
+was repeated two more times, and Peter answered in the same manner; and the
+Lord replied, "Feed my sheep" ([John 21:16,
+17](/scriptures/nt/john/21.16,17?lang=eng#15)).
 
 This is the work or the stewardship of the home teacher: to feed, to nourish
 and quench the thirst of the sheep who are assigned to him as a shepherd.
@@ -119,7 +118,7 @@ taught by the Apostle Peter:
 
 "Feed the flock of God which is among you, taking the oversight thereof, not
 by constraint, but willingly; not for filthy lucre, but of a ready mind" ([1
-Pet. 5:2](https://www.lds.org/scriptures/nt/1-pet/5.2?lang=eng#1)).
+Pet. 5:2](/scriptures/nt/1-pet/5.2?lang=eng#1)).
 
 The example of those dedicated brothers served as the foundation for the
 future conduct of a new priesthood holder. As I recall these experiences,
@@ -135,7 +134,7 @@ Harold B. Lee taught that "priesthood visitors are to be watchmen on the
 tower."
 
 The Lord desires to gather "his people even as a hen gathereth her chickens
-under her wings" ([D&amp;C 29:2](https://www.lds.org/scriptures/dc-
+under her wings" ([D&amp;C 29:2](/scriptures/dc-
 testament/dc/29.2?lang=eng#1)), and the home teachers, and by extension the
 visiting teachers, have a role of high relevance for the fulfilling of the
 desire of the Lord.
@@ -152,4 +151,6 @@ speaks today through his prophet, President Gordon B. Hinckley, whom we love
 and follow.
 
 I bear this testimony in the sacred name of Jesus Christ, amen.
+
+## References
 

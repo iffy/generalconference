@@ -1,4 +1,4 @@
-# Priesthood Councils: Key to Meeting Temporal and Spiritual Needs
+# Priesthood Councils:Key to Meeting Temporal and Spiritual Needs
 
 The ancient Nephite prophet King Benjamin counseled those who had accepted the
 Savior and received a remission of their sins with these words: "For the sake
@@ -7,7 +7,7 @@ should impart of your substance to the poor, every man according to that which
 he hath, ... administering to their relief, both spiritually and temporally. ...
 
 "And see that all these things are done in wisdom and order" ([Mosiah
-4:26-27](https://www.lds.org/scriptures/bofm/mosiah/4.26-27?lang=eng#25)).
+4:26-27](/scriptures/bofm/mosiah/4.26-27?lang=eng#25)).
 
 Our living prophet of God, Spencer W. Kimball, has said to us who also have
 hope in Christ: "Welfare Services is not a program, but the essence of the
@@ -112,21 +112,18 @@ accompany periods of economic stress.
 
 However, "the Lord giveth no commandments unto the children of men, save he
 shall prepare a way for them that they may accomplish the thing which he
-commandeth them" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)). Coordinating
-our effort as temporal and ecclesiastical officers in area councils, we can
-accept the commandment and find the way.
+commandeth them" ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)).
+Coordinating our effort as temporal and ecclesiastical officers in area
+councils, we can accept the commandment and find the way.
 
 The wisdom of Solomon advises that "where there is no vision, the people
-perish" ([Prov.
-29:18](https://www.lds.org/scriptures/ot/prov/29.18?lang=eng#17)).
+perish" ([Prov. 29:18](/scriptures/ot/prov/29.18?lang=eng#17)).
 
 The Lord through his prophets has warned us of stressful times to come and has
 provided us with the organization, principles, and direction to prepare. When
 we seek the Spirit of the Lord in welfare services work we will be blessed
 with vision and the people will not perish. If we are prepared, we need not
-fear (see [D&amp;C 38:30](https://www.lds.org/scriptures/dc-
-testament/dc/38.30?lang=eng#29)).
+fear (see [D&amp;C 38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29)).
 
 Spiritual preparation is not complete, however, until we have done all that we
 can to prepare temporally. Then what is lacking will be supplied by the Lord.
@@ -144,7 +141,7 @@ body.
 The priesthood council is a form of management unique to the divine Church. It
 assembles to receive the Lord's law by the prayer of faith, to agree upon his
 word, and to learn how to govern the Church and have all things right before
-the Lord (see [D&amp;C 41:2-3](https://www.lds.org/scriptures/dc-
+the Lord (see [D&amp;C 41:2-3](/scriptures/dc-
 testament/dc/41.2-3?lang=eng#1)). The council's strength and effectiveness
 derive from coordinating individual skills and abilities united with a shared
 purpose.
@@ -153,7 +150,7 @@ purpose.
 every man is given a gift by the Spirit of God.
 
 "To some is given one, and to some is given another, that _all_ may be
-profited thereby" ([D&amp;C 46:11-12](https://www.lds.org/scriptures/dc-
+profited thereby" ([D&amp;C 46:11-12](/scriptures/dc-
 testament/dc/46.11-12?lang=eng#10); italics added).
 
 ## All things are spiritual
@@ -179,9 +176,8 @@ we know that we must step up to a higher level spiritually.
 
 The Lord tells us in section 70 of the Doctrine and Covenants that an
 abundance of the manifestation of the Spirit among us depends upon our
-willingness to share temporal blessings (see [D&amp;C
-70:12-14](https://www.lds.org/scriptures/dc-
-testament/dc/70.12-14?lang=eng#11)).
+willingness to share temporal blessings (see [D&amp;C 70:12-14](/scriptures
+/dc-testament/dc/70.12-14?lang=eng#11)).
 
 Therefore, we must sacrifice our narrow traditions, local interests, and
 selfish pride to achieve the love and unity indispensable in a Zion society.
@@ -200,4 +196,6 @@ welfare services to administer to the spiritual and temporal needs of the
 poor, thus experiencing the gospel in action and learning to live the
 Christian life, to which I testify in the sacred name of our Savior, Jesus
 Christ, amen.
+
+## References
 

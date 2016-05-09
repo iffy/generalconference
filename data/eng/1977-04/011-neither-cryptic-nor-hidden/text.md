@@ -13,8 +13,7 @@ had given commandments unto the apostles whom he had chosen:
 
 "To whom also he shewed himself alive after his passion by many infallible
 proofs, being seen of them forty days, and speaking of the things pertaining
-to the kingdom of God." [[Acts
-1:1-3](https://www.lds.org/scriptures/nt/acts/1.1-3?lang=eng#0)]
+to the kingdom of God." [[Acts 1:1-3](/scriptures/nt/acts/1.1-3?lang=eng#0)]
 
 Following his resurrection Jesus must have received from God additional power
 and knowledge much beyond what he knew and experienced in the flesh. Yet we
@@ -54,8 +53,7 @@ verses 21-22:
 "Now he which stablisheth us with you in Christ, and hath anointed us, is God;
 
 "Who hath also sealed us, and given the earnest of the Spirit in our hearts."
-[[2 Cor.
-1:21-22](https://www.lds.org/scriptures/nt/2-cor/1.21-22?lang=eng#20)]
+[[2 Cor. 1:21-22](/scriptures/nt/2-cor/1.21-22?lang=eng#20)]
 
 Now the sealing power mentioned by Paul was given to Peter, James, and John on
 the Mount of Transfiguration. This same sealing power restored by Elijah the
@@ -64,7 +62,7 @@ prophet was later given by Jesus to all his apostles as recorded in Matthew
 
 "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in
 heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
-[[Matt. 18:18](https://www.lds.org/scriptures/nt/matt/18.18?lang=eng#17)]
+[[Matt. 18:18](/scriptures/nt/matt/18.18?lang=eng#17)]
 
 The instructions and teachings of Jesus following his crucifixion were so
 sacred that they were not reduced to writing. Nevertheless, hints were given
@@ -77,8 +75,7 @@ records in chapter 20, verse 17, how the risen Jesus told Mary Magdalene:
 
 "Touch me not; for I am not yet ascended to my Father: but go to my brethren,
 and say unto them, I ascend unto my Father, and your Father; and to my God,
-and your God." [[John
-20:17](https://www.lds.org/scriptures/nt/john/20.17?lang=eng#16)]
+and your God." [[John 20:17](/scriptures/nt/john/20.17?lang=eng#16)]
 
 If Jesus wasn't with his Father in heaven during that time, where was he and
 what did he do?
@@ -94,7 +91,7 @@ is, being made alive] by the Spirit:
 
 "By which also [that is, in this spirit condition] he went and preached unto
 the spirits in prison." [[1 Pet.
-3:18-19](https://www.lds.org/scriptures/nt/1-pet/3.18-19?lang=eng#17)]
+3:18-19](/scriptures/nt/1-pet/3.18-19?lang=eng#17)]
 
 President Joseph F. Smith, in his remarkable vision of this visit, wrote in
 verses 29-30 in the Pearl of Great Price:
@@ -108,18 +105,17 @@ the earth], to teach them;
 organized his forces and appointed messengers, clothed with power and
 authority, and commissioned them to go forth and carry the light of the gospel
 to them that were in darkness, even to all the spirits of men; and thus was
-the gospel preached to the dead." [[D&amp;C
-138:29-30](https://www.lds.org/scriptures/dc-
+the gospel preached to the dead." [[D&amp;C 138:29-30](/scriptures/dc-
 testament/dc/138.29-30?lang=eng#28)]
 
 Since "God is no respecter of persons" ([Acts
-10:34](https://www.lds.org/scriptures/nt/acts/10.34?lang=eng#33)), it would be
-unjust to condemn those who may not have had a full opportunity while living
-on the earth to hear the gospel preached. Some were born at times and places
-where it was impossible for them to hear the message of salvation. To condemn
-them without an opportunity to accept the gospel while living would be unfair.
-Salvation for the dead was one of those concepts taught during the forty days
-following the resurrection of Jesus.
+10:34](/scriptures/nt/acts/10.34?lang=eng#33)), it would be unjust to condemn
+those who may not have had a full opportunity while living on the earth to
+hear the gospel preached. Some were born at times and places where it was
+impossible for them to hear the message of salvation. To condemn them without
+an opportunity to accept the gospel while living would be unfair. Salvation
+for the dead was one of those concepts taught during the forty days following
+the resurrection of Jesus.
 
 Peter explained that the reason Jesus went to those spirits in prison was to
 bring them the gospel. This is found in his first letter, chapter 4, verse 6:
@@ -128,9 +124,9 @@ bring them the gospel. This is found in his first letter, chapter 4, verse 6:
 they might be judged according to men in the flesh [that is, be judged on the
 same basis and principles as were men and women who live on the earth], but
 live according to God in the spirit" [[1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5)]--that is, to
-receive salvation by accepting earthly ordinances in the spirit world after
-those ordinances had been done for them by proxy on the earth.
+4:6](/scriptures/nt/1-pet/4.6?lang=eng#5)]--that is, to receive salvation by
+accepting earthly ordinances in the spirit world after those ordinances had
+been done for them by proxy on the earth.
 
 This principle of salvation for all mankind reflects the mercy, the kindness,
 and the love of God for all his children. Isn't it strange that such a noble
@@ -144,7 +140,7 @@ Corinthians, in chapter 15, verse 29, he wrote:
 
 "Else what shall they do which are baptized for the dead, if the dead rise not
 at all? why are they then baptized for the dead?" [[1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28)]
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28)]
 
 Nothing could be clearer that proxy ordinance work for the dead was practiced
 by the early Christians.
@@ -154,16 +150,14 @@ from the truth has occurred. As Isaiah wrote in chapter 24, verse 5:
 
 "The earth also is defiled under the inhabitants thereof; because they have
 transgressed the laws, changed the ordinance, broken the everlasting
-covenant." [[Isa.
-24:5](https://www.lds.org/scriptures/ot/isa/24.5?lang=eng#4)]
+covenant." [[Isa. 24:5](/scriptures/ot/isa/24.5?lang=eng#4)]
 
 There was need to restore these doctrines and ordinances. Wise men were not
 able to restore these practices during the Reformation or since. These
 doctrines came from heaven by a restoration of the gospel. Nor could Joseph
 Smith of himself have thought out these doctrines. They were part of the stone
 cut out of the mountain without hands that would roll forth to fill the earth.
-(See [Dan. 2:34-35,
-44-45](https://www.lds.org/scriptures/ot/dan/2.34-35%2C44-45?lang=eng#33).)
+(See [Dan. 2:34-35, 44-45](/scriptures/ot/dan/2.34-35,44-45?lang=eng#33).)
 
 That kingdom is now rolling forth. There are prophets again on the earth who
 teach those same sacred principles revealed by Jesus during the forty days
@@ -191,4 +185,6 @@ work. I feel I must teach it wherever I go so that member and nonmember alike
 may search for that knowledge, which is neither cryptic nor hidden to those
 who know and love the Lord. This is my testimony in the name of Jesus Christ.
 Amen.
+
+## References
 

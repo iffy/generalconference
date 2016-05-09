@@ -20,8 +20,7 @@ written--
 
 "That they may bring forth fruit meet for their Father's kingdom; otherwise
 there remaineth a scourge and judgment to be poured out upon the children of
-Zion." ([D&amp;C 84:54-58](https://www.lds.org/scriptures/dc-
-testament/dc/84.54-58?lang=eng#53).)
+Zion." ([D&amp;C 84:54-58](/scriptures/dc-testament/dc/84.54-58?lang=eng#53).)
 
 The Book of Mormon is no ordinary book.
 
@@ -50,8 +49,7 @@ these people, wrote to those who would read the record in the latter days:
 the Eternal Father, in the name of Christ, if these things are not true; and
 if ye shall ask with a sincere heart, with real intent, having faith in
 Christ, he will manifest the truth of it unto you, by the power of the Holy
-Ghost." ([Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).)
+Ghost." ([Moro. 10:4](/scriptures/bofm/moro/10.4?lang=eng#3).)
 
 _What a powerful challenge!_
 
@@ -160,10 +158,10 @@ she asked us about it. She said, 'This book is true.' This started a chain of
 events that brought about these many baptisms."
 
 The Lord said to Joseph Smith, "This generation shall have my word through
-you." ([D&amp;C 5:10](https://www.lds.org/scriptures/dc-
-testament/dc/5.10?lang=eng#9).) The Book of Mormon and latter-day revelation
-to the Church came through Joseph Smith. It testifies of Christ. It is a new
-witness for Christ. Listen to the words of Nephi:
+you." ([D&amp;C 5:10](/scriptures/dc-testament/dc/5.10?lang=eng#9).) The Book
+of Mormon and latter-day revelation to the Church came through Joseph Smith.
+It testifies of Christ. It is a new witness for Christ. Listen to the words of
+Nephi:
 
 "The words which I have written in weakness will be made strong unto them; for
 it persuadeth them to do good ... and it speaketh of Jesus, and persuadeth them
@@ -176,7 +174,7 @@ shall be of the spirit of the devil.
 "... If ye shall believe in Christ ye will believe in these words, for they are
 the words of Christ, and he hath given them unto me; and they teach all men
 that they should do good." ([2 Ne. 33:4-5,
-10](https://www.lds.org/scriptures/bofm/2-ne/33.4-5%2C10?lang=eng#3).)
+10](/scriptures/bofm/2-ne/33.4-5,10?lang=eng#3).)
 
 The Nephites were individual witnesses of the risen Lord. When he visited
 them, he invited them to see for themselves. He said, "Arise and come forth
@@ -187,8 +185,8 @@ sins of the world. ...
 
 "And the multitude did see and hear and bear record; and ... all of them did see
 and hear, every man for himself." ([3 Ne.
-11:14](https://www.lds.org/scriptures/bofm/3-ne/11.14?lang=eng#13), [3 Ne.
-17:25](https://www.lds.org/scriptures/bofm/3-ne/17.25?lang=eng#24).)
+11:14](/scriptures/bofm/3-ne/11.14?lang=eng#13), [3 Ne.
+17:25](/scriptures/bofm/3-ne/17.25?lang=eng#24).)
 
 The Book of Mormon testifies of Joseph Smith. The prophet Lehi in his words to
 Joseph, his youngest son, referred to the covenant made by God to his
@@ -209,7 +207,7 @@ who shall be a choice seer unto the fruits of my loins.
 father. And he shall be like unto me; for the thing, which the Lord shall
 bring forth by his hand, by the power of the Lord shall bring my people unto
 salvation." ([2 Ne. 3:6, 8-9,
-15](https://www.lds.org/scriptures/bofm/2-ne/3.6%2C8-9%2C15?lang=eng#5).)
+15](/scriptures/bofm/2-ne/3.6,8-9,15?lang=eng#5).)
 
 Joseph Smith, the Latter-day prophet, fulfilled this prophecy.
 
@@ -220,4 +218,6 @@ read it and learn for themselves its powerful message.
 
 I leave you my witness of the truth of this gospel and of the Book of Mormon,
 in the name of Jesus Christ. Amen.
+
+## References
 

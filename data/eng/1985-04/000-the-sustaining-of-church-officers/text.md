@@ -149,3 +149,5 @@ manifest it. Any who may feel otherwise, may so manifest it.
 It appears that the voting has been unanimous in favor in each instance. We
 thank you for your sustaining vote and for your undeviating support.
 
+## References
+

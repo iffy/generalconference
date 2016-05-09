@@ -12,7 +12,7 @@ this earth. He said:
 
 "He that believeth on the Son hath everlasting life: and he that believeth not
 the Son shall not see life; but the wrath of God abideth on him" ([John
-3:35-36](https://www.lds.org/scriptures/nt/john/3.35-36?lang=eng#34)).
+3:35-36](/scriptures/nt/john/3.35-36?lang=eng#34)).
 
 The coming of the Savior was prophesied by many prophets in the Bible and in
 the Book of Mormon. The Old Testament prophet Isaiah predicted the coming of
@@ -20,12 +20,12 @@ the Savior's birth when he said:
 
 "Therefore the Lord himself shall give you a sign; Behold, a virgin shall
 conceive, and bear a son, and shall call his name Immanuel" ([Isa.
-7:14](https://www.lds.org/scriptures/ot/isa/7.14?lang=eng#13)).
+7:14](/scriptures/ot/isa/7.14?lang=eng#13)).
 
 "For unto us a child is born, unto us a son is given: and the government shall
 be upon his shoulder: and his name shall be called Wonderful, Counsellor, The
 mighty God, The everlasting Father, The Prince of Peace" ([Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5)).
+9:6](/scriptures/ot/isa/9.6?lang=eng#5)).
 
 The Book of Mormon, as another testament of Jesus Christ, records that an
 angel appeared unto King Benjamin and declared the glad tidings of great joy,
@@ -41,8 +41,7 @@ manner of diseases. ...
 
 "And he shall be called Jesus Christ, the Son of God, the Father of heaven and
 earth, the Creator of all things from the beginning; and his mother shall be
-called Mary" ([Mosiah 3:5,
-8](https://www.lds.org/scriptures/bofm/mosiah/3.5%2C8?lang=eng#4)).
+called Mary" ([Mosiah 3:5, 8](/scriptures/bofm/mosiah/3.5,8?lang=eng#4)).
 
 Throughout the thousand years of Book of Mormon history, many prophets bore
 solemn witness of the divinity of Jesus Christ as the Son of God, of His
@@ -63,7 +62,7 @@ revelations and the many things which I had seen concerning these things; for
 I truly had seen angels, and they had ministered unto me. And also, I had
 heard the voice of the Lord speaking unto me in very word, from time to time;
 wherefore, I could not be shaken" ([Jacob
-7:5](https://www.lds.org/scriptures/bofm/jacob/7.5?lang=eng#4)).
+7:5](/scriptures/bofm/jacob/7.5?lang=eng#4)).
 
 President Ezra Taft Benson, our beloved prophet, has encouraged us to study
 the Book of Mormon, for, as he said, "the book that will get a man 'nearer to
@@ -84,7 +83,7 @@ Ghost:
 unto the children of men that, according to the flesh he humbleth himself
 before the Father, and witnesseth unto the Father that he would be obedient
 unto him in keeping his commandments" ([2 Ne.
-31:7](https://www.lds.org/scriptures/bofm/2-ne/31.7?lang=eng#6)).
+31:7](/scriptures/bofm/2-ne/31.7?lang=eng#6)).
 
 Several weeks ago I was assigned to a stake conference in Provo. The Sunday
 morning welfare meeting was scheduled to begin at 7:30 A.M., so it was
@@ -101,7 +100,7 @@ breaking the traffic code, and surely the Lord would know. I was reminded of
 the scripture which says:
 
 "Therefore to him that knoweth to do good, and doeth it not, to him it is sin"
-([James 4:17](https://www.lds.org/scriptures/nt/james/4.17?lang=eng#16)).
+([James 4:17](/scriptures/nt/james/4.17?lang=eng#16)).
 
 Brothers and sisters, oftentimes we are tempted to compromise with
 circumstances of the moment, but we must exercise care and live the principles
@@ -117,8 +116,7 @@ great work. And out of small things proceedeth that which is great.
 
 "Behold, the Lord requireth the heart and a willing mind; and the willing and
 obedient shall eat the good of the land of Zion in these last days" ([D&amp;C
-64:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/64.33-34?lang=eng#32)).
+64:33-34](/scriptures/dc-testament/dc/64.33-34?lang=eng#32)).
 
 Recently, as a member of the Utah South Area Presidency, I was invited to
 participate in an institute program with men and women at the Utah State
@@ -136,8 +134,7 @@ He also said the sufferings of our Savior were part of his education. "Though
 he were a Son, yet learned he obedience by the things which he suffered;
 
 "And being made perfect, he became the author of eternal salvation unto all
-them that obey him" ([Heb.
-5:8-9](https://www.lds.org/scriptures/nt/heb/5.8-9?lang=eng#7)).
+them that obey him" ([Heb. 5:8-9](/scriptures/nt/heb/5.8-9?lang=eng#7)).
 
 Elder James E. Talmage wrote, "No pang that is suffered by man or woman upon
 the earth will be without its compensating effect ... if it be met with
@@ -169,6 +166,8 @@ Father's commandments, and abide in his love.
 that your joy might be full.
 
 "This is my commandment, That ye love one another, as I have loved you" ([John
-15:10-12](https://www.lds.org/scriptures/nt/john/15.10-12?lang=eng#9)). In the
-name of Jesus Christ, amen.
+15:10-12](/scriptures/nt/john/15.10-12?lang=eng#9)). In the name of Jesus
+Christ, amen.
+
+## References
 

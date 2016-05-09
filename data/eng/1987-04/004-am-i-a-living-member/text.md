@@ -28,15 +28,15 @@ them free; and they are strict to remember the Lord their God from day to day;
 yea, they do observe to keep his statutes, and his judgments, and his
 commandments continually; and their faith is strong in the prophecies
 concerning that which is to come" ([Alma
-58:40](https://www.lds.org/scriptures/bofm/alma/58.40?lang=eng#39)). I am
-referring to those members of the Church who live their Christian beliefs in
-the quiet commonplace of their daily lives.
+58:40](/scriptures/bofm/alma/58.40?lang=eng#39)). I am referring to those
+members of the Church who live their Christian beliefs in the quiet
+commonplace of their daily lives.
 
 On November 1, 1831, at a conference of the Church in Hiram, Ohio, the Lord
 revealed in the preface to the Doctrine and Covenants that this is the "only
 true and living church upon the face of the whole earth." Then he added, "with
 which I, the Lord, am well pleased, speaking unto the church collectively and
-not individually" ([D&amp;C 1:30](https://www.lds.org/scriptures/dc-
+not individually" ([D&amp;C 1:30](/scriptures/dc-
 testament/dc/1.30?lang=eng#29)). This should raise a question in our minds of
 eternal significance: We know that this is the true and living church
 institutionally, but am I a true and living member individually?
@@ -68,7 +68,7 @@ in him, relying wholly upon the merits of him who is mighty to save.
 perfect brightness of hope, and a love of God and of all men. Wherefore, if ye
 shall press forward, feasting upon the word of Christ, and endure to the end,
 behold, thus saith the Father: Ye shall have eternal life" ([2 Ne.
-31:19-20](https://www.lds.org/scriptures/bofm/2-ne/31.19-20?lang=eng#18)).
+31:19-20](/scriptures/bofm/2-ne/31.19-20?lang=eng#18)).
 
 Living members recognize their duty to press forward. They are baptized as a
 first step of their living journey. It is a sign to God, to angels, and to
@@ -88,7 +88,7 @@ home at my house.
 
 "And Jesus said unto him, No man, having put his hand to the plough, and
 looking back, is fit for the kingdom of God" ([Luke
-9:61-62](https://www.lds.org/scriptures/nt/luke/9.61-62?lang=eng#60)).
+9:61-62](/scriptures/nt/luke/9.61-62?lang=eng#60)).
 
 To dig a straight furrow, the plowman needs to keep his eyes on a fixed point
 ahead of him. That keeps him on a true course. If, however, he happens to look
@@ -115,9 +115,9 @@ progress as a living member.
 
 The first great commandment is to "love the Lord thy God with all thy heart,
 and with all thy soul, and with all thy mind" ([Matt.
-22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36)). In order to
-love him we need to do the things he has asked us to do. We need to show that
-we are willing to become like him.
+22:37](/scriptures/nt/matt/22.37?lang=eng#36)). In order to love him we need
+to do the things he has asked us to do. We need to show that we are willing to
+become like him.
 
 Living members, once they are converted, fulfill the commandment to strengthen
 their brothers and sisters. They are anxious to share their joy with others,
@@ -148,13 +148,12 @@ As members of the living church we have a belief in the living God. Prior to
 crossing the Jordan River, Joshua summoned the children of Israel, saying,
 "Come hither, and hear the words of the Lord your God. ... Hereby ye shall know
 that the living God is among you" ([Josh.
-3:9-10](https://www.lds.org/scriptures/ot/josh/3.9-10?lang=eng#8)). Young
-David, in response to Goliath's challenge, courageously spoke to the men near
-him, "Who is this uncircumcised Philistine, that he should defy the armies of
-the living God?" ([1 Sam.
-17:26](https://www.lds.org/scriptures/ot/1-sam/17.26?lang=eng#25)). Jeremiah
-likewise referred to the Lord as the true and living God (see [Jer.
-10:10](https://www.lds.org/scriptures/ot/jer/10.10?lang=eng#9)).
+3:9-10](/scriptures/ot/josh/3.9-10?lang=eng#8)). Young David, in response to
+Goliath's challenge, courageously spoke to the men near him, "Who is this
+uncircumcised Philistine, that he should defy the armies of the living God?"
+([1 Sam. 17:26](/scriptures/ot/1-sam/17.26?lang=eng#25)). Jeremiah likewise
+referred to the Lord as the true and living God (see [Jer.
+10:10](/scriptures/ot/jer/10.10?lang=eng#9)).
 
 We have a firm belief in the statement that this is the true and living church
 of the true and living God. The question we have yet to answer is: Am I
@@ -163,7 +162,9 @@ dedicated and committed, a true and living member?
 May we stand firm and be true and living members of the Church and receive the
 promised reward to be among those spoken of in the Doctrine and Covenants "who
 are come unto Mount Zion, and unto the city of the living God, the heavenly
-place, the holiest of all" ([D&amp;C 76:66](https://www.lds.org/scriptures/dc-
+place, the holiest of all" ([D&amp;C 76:66](/scriptures/dc-
 testament/dc/76.66?lang=eng#65)). This is my prayer in the name of Jesus
 Christ, amen.
+
+## References
 

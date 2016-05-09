@@ -70,8 +70,7 @@ isn't there someone who can help us feed our lambs?"
 
 After a long moment he said, "Jayne, once a long, long time ago, someone else
 said almost those same words. He said, 'Feed my lambs. ... Feed my sheep. ... Feed
-my sheep.'" ([John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).) Dad
+my sheep.'" ([John 21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14).) Dad
 put his arms around me and let me cry for a time, then went with me to bury my
 lamb.
 
@@ -79,11 +78,10 @@ It wasn't until many years later that I fully realized the meaning of my
 father's words. I was pondering the scripture in Moses that says, "For behold,
 this is my work and my glory--to bring to pass the immortality and eternal
 life of [all mankind]." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) As I
-thought about the mission of the Savior, I remembered the summer of the lambs,
-and, for a few brief moments, I thought I could sense how the Savior must feel
-with so many lambs to feed, so many souls to save. And I knew in my heart that
-he needed my help.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) As I thought about the mission
+of the Savior, I remembered the summer of the lambs, and, for a few brief
+moments, I thought I could sense how the Savior must feel with so many lambs
+to feed, so many souls to save. And I knew in my heart that he needed my help.
 
 You wonderful young people, from what we've observed, you're not unlike our
 lambs. You, too, are hungry--hungry for things of the Spirit that will make
@@ -118,7 +116,7 @@ Like my father, your Heavenly Father will understand. He'll be there to walk
 with you, and to comfort and protect you, for he has promised to those who
 seek him, "I will be on your right hand and on your left, and my Spirit shall
 be in your hearts, and mine angels round about you, to bear you up." ([D&amp;C
-84:88](https://www.lds.org/scriptures/dc-testament/dc/84.88?lang=eng#87).)
+84:88](/scriptures/dc-testament/dc/84.88?lang=eng#87).)
 
 Our prophet, President Benson, has said, "The symbolism of the Good Shepherd
 is not without significant parallel in the Church today." The sheep need to be
@@ -140,4 +138,6 @@ He has said, "Feed my lambs. ... Feed my sheep."
 This I know: He needs our help. With more people to help, more lambs will be
 saved. A simple fact, but true. Of this I can bear testimony in the name of
 Jesus Christ, amen.
+
+## References
 

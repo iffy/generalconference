@@ -7,16 +7,15 @@ I would like to discuss one of its unique precepts.
 As a young man on a mission, I recall reading Paul's words to the Corinthian
 Saints and pondering what he meant by the phrase "faith, hope, charity, these
 three; but the greatest of these is charity." ([1 Cor.
-13:13](https://www.lds.org/scriptures/nt/1-cor/13.13?lang=eng#12).) I wondered
-why charity should be the greatest. _Charity_ was a word I did not understand.
-Part of the reason for my dilemma was that the common use of the term
-_charity_ did not seem to be consistent with the doctrinal or scriptural use.
+13:13](/scriptures/nt/1-cor/13.13?lang=eng#12).) I wondered why charity should
+be the greatest. _Charity_ was a word I did not understand. Part of the reason
+for my dilemma was that the common use of the term _charity_ did not seem to
+be consistent with the doctrinal or scriptural use.
 
 As I searched the pages of the Book of Mormon, I gained a new view. Mormon, an
 ancient prophet of the Americas, connected the word _charity_ to the Savior.
 He declared that "charity is the pure love of Christ, and it endureth
-forever." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).)
+forever." ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).)
 
 I considered what was meant by the phrase "love of Christ." That answer is
 critical because "the Lord God hath given a commandment that all men should
@@ -24,11 +23,9 @@ have charity, which charity is love." (2 Ne. 26:30.) If we must have charity,
 then we must know what it is. The phrase "love of Christ" might have meaning
 in three dimensions:
 
-  1. Love _for_ Christ
-
-  2. Love _from_ Christ
-
-  3. Love _like_ Christ
+  1. Love _for_ Christ 
+  2. Love _from_ Christ 
+  3. Love _like_ Christ 
 
 First, love _for_ Christ. This concept proclaims Jesus as the object of our
 love, and our lives should be an external expression of our gratitude for him.
@@ -61,29 +58,27 @@ Lord, Moroni declared: "Thou hast said that thou hast loved the world, even
 unto the laying down of thy life for the world. ...
 
 "This love which thou hast had for the children of men is charity." ([Ether
-12:33-34](https://www.lds.org/scriptures/bofm/ether/12.33-34?lang=eng#32).)
+12:33-34](/scriptures/bofm/ether/12.33-34?lang=eng#32).)
 
 Through his compliance with the severe requirements of the Atonement, the
 Savior offered the ultimate expression of love. "Greater love hath no man than
 this, that a man lay down his life for his friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).) And by
-permitting his Son to make such a selfless and suffering sacrifice, the Father
-provided us with an ultimate expression of his love as his gift to the rest of
-his children.
+15:13](/scriptures/nt/john/15.13?lang=eng#12).) And by permitting his Son to
+make such a selfless and suffering sacrifice, the Father provided us with an
+ultimate expression of his love as his gift to the rest of his children.
 
 The Apostle John accurately testified of this infinite though conditional
 representation of the charity of the Gods when he wrote, "For God so loved the
 world, that he gave his only begotten Son, that whosoever believeth in him
 should not perish, but have everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).) This gift of
-charity is to be received. The Savior's act of redemption for our sins is of
-no effect without our willingness to comply with the conditions of his
-atonement.
+3:16](/scriptures/nt/john/3.16?lang=eng#15).) This gift of charity is to be
+received. The Savior's act of redemption for our sins is of no effect without
+our willingness to comply with the conditions of his atonement.
 
 Speaking of the need for us to receive the divine love of God, Moroni
 prayerfully declared, "Except men shall have charity they cannot inherit that
 place which thou hast prepared in the mansions of thy Father." ([Ether
-12:34](https://www.lds.org/scriptures/bofm/ether/12.34?lang=eng#33).)
+12:34](/scriptures/bofm/ether/12.34?lang=eng#33).)
 
 Some years ago I prepared to teach a class on a subject I felt would be
 particularly difficult. The night before the scheduled class, I prayed for
@@ -104,14 +99,13 @@ charity for my people ...
 "I have charity for the Jew ...
 
 "I also have charity for the Gentiles." ([2 Ne.
-33:7-9](https://www.lds.org/scriptures/bofm/2-ne/33.7-9?lang=eng#6).)
+33:7-9](/scriptures/bofm/2-ne/33.7-9?lang=eng#6).)
 
 Since Nephi had such love for everyone, we wonder how he acquired it. He must
 have lived in anticipation of the divine directive that would later be
 proclaimed by the Savior as the key to the development of love: "A new
 commandment I give unto you, That ye love one another; _as I have loved you._"
-([John 13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33);
-emphasis added.)
+([John 13:34](/scriptures/nt/john/13.34?lang=eng#33); emphasis added.)
 
 Jesus' love was inseparably connected to and resulted from his life of
 serving, sacrificing, and giving in behalf of others. We cannot develop
@@ -121,7 +115,7 @@ The Apostle John was not only loved by the Lord, but he also loved others
 _like_ the Lord. John affirmed the process by saying, "Hereby perceive we the
 love of God, because he laid down his life for us: and we ought to lay down
 our lives for the brethren." ([1 Jn.
-3:16](https://www.lds.org/scriptures/nt/1-jn/3.16?lang=eng#15).)
+3:16](/scriptures/nt/1-jn/3.16?lang=eng#15).)
 
 Is it a coincidence that missionaries give a portion of their lives in behalf
 of others, then come home and testify of their great love for the people they
@@ -150,20 +144,21 @@ in a single verse in the Old Testament. Surely the prophets of ancient times
 understood the need for charity as did the Apostle Paul and the prophets of
 ancient America. And surely those prophets knew and taught that "charity is
 the pure love of Christ." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) We are left
-to wonder if the enemies of Christ deliberately removed from the holy writings
-these saving truths as part of the plain and precious teachings that Nephi
-prophetically said would be removed. (See [1 Ne.
-13:20-29](https://www.lds.org/scriptures/bofm/1-ne/13.20-29?lang=eng#19).)
-Also, charity is only partially explained in the New Testament. But thankfully
-the Book of Mormon, another witness for Christ, has restored to us an
-understanding of this eternal precept. I testify that as we abide by this
-precept, we will draw nearer to God. Indeed, we will become more like him.
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) We are left to wonder if the
+enemies of Christ deliberately removed from the holy writings these saving
+truths as part of the plain and precious teachings that Nephi prophetically
+said would be removed. (See [1 Ne.
+13:20-29](/scriptures/bofm/1-ne/13.20-29?lang=eng#19).) Also, charity is only
+partially explained in the New Testament. But thankfully the Book of Mormon,
+another witness for Christ, has restored to us an understanding of this
+eternal precept. I testify that as we abide by this precept, we will draw
+nearer to God. Indeed, we will become more like him.
 
 Individually and collectively, we can experience the peace and happiness
 enjoyed for nearly two hundred years anciently when "there was no contention
 in the land, because of the love of God which did dwell in the hearts of the
-people." ([4 Ne.
-1:15](https://www.lds.org/scriptures/bofm/4-ne/1.15?lang=eng#14).) This I
-know, as I know the Savior lives, in the holy name of Jesus Christ, amen.
+people." ([4 Ne. 1:15](/scriptures/bofm/4-ne/1.15?lang=eng#14).) This I know,
+as I know the Savior lives, in the holy name of Jesus Christ, amen.
+
+## References
 

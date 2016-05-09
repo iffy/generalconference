@@ -16,7 +16,7 @@ costly apparel.
 people whom Alma had consecrated to be teachers, and priests, and elders over
 the church; yea, many of them were sorely grieved for the wickedness which
 they saw had begun to be among their people." ([Alma
-4:6-7](https://www.lds.org/scriptures/bofm/alma/4.6-7?lang=eng#5).)
+4:6-7](/scriptures/bofm/alma/4.6-7?lang=eng#5).)
 
 It was a time of decision for Alma. In his role as chief high priest, he had
 been attempting to protect his people from falling into sin by teaching them
@@ -43,7 +43,7 @@ up in remembrance of their duty, ... that he might pull down, by the word of
 God, all the pride and craftiness and all the contentions which were among his
 people, seeing no way that he might reclaim them save it were in bearing down
 in pure testimony against them." ([Alma
-4:16-19](https://www.lds.org/scriptures/bofm/alma/4.16-19?lang=eng#15).)
+4:16-19](/scriptures/bofm/alma/4.16-19?lang=eng#15).)
 
 Alma understood a basic fact of life. There is no way of caring for the
 problems of mankind unless the great majority of them have been taught and
@@ -70,7 +70,7 @@ themselves, and fed not my flock; ...
 
 "[And] thus saith the Lord God; Behold I, even I, will both search my sheep,
 and seek them out." ([Ezek. 34:6, 8,
-11](https://www.lds.org/scriptures/ot/ezek/34.6%2C8%2C11?lang=eng#5).)
+11](/scriptures/ot/ezek/34.6,8,11?lang=eng#5).)
 
 Wasn't this also one of the Savior's laments as He performed His earthly
 ministry? We read from the Gospel of Matthew:
@@ -86,8 +86,7 @@ they fainted, and were scattered abroad, as sheep having no shepherd.
 labourers are few;
 
 "Pray ye therefore the Lord of the harvest, that he will send forth labourers
-into his harvest." ([Matt.
-9:35-38](https://www.lds.org/scriptures/nt/matt/9.35-38?lang=eng#34).)
+into his harvest." ([Matt. 9:35-38](/scriptures/nt/matt/9.35-38?lang=eng#34).)
 
 The shortage of laborers in the Lord's vineyard continues now, as it did in
 previous times.
@@ -204,9 +203,11 @@ To you who will accept the call to go forth and serve, I can promise you that
 your good name will never be forgotten in this world or in the eternities to
 come. So again we issue the clarion call and pray that the Lord of the harvest
 will send forth laborers in increased numbers, for the field is white, all
-ready for a bounteous harvest. (See [D&amp;C
-4:4](https://www.lds.org/scriptures/dc-testament/dc/4.4?lang=eng#3).)
+ready for a bounteous harvest. (See [D&amp;C 4:4](/scriptures/dc-
+testament/dc/4.4?lang=eng#3).)
 
 That this is His work in which we are engaged is my solemn witness to you in
 the name of our Lord and Savior, Jesus Christ, amen.
+
+## References
 

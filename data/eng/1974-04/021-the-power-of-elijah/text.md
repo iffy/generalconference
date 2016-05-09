@@ -17,8 +17,7 @@ city and asked her to give him food to eat.
 "And she said, As the Lord thy God liveth, I have not a cake, but an handful
 of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering
 two sticks, that I may go in and dress it for me and my son, that we may eat
-it, and die." ([1 Kgs.
-17:12](https://www.lds.org/scriptures/ot/1-kgs/17.12?lang=eng#11).)
+it, and die." ([1 Kgs. 17:12](/scriptures/ot/1-kgs/17.12?lang=eng#11).)
 
 Elijah then promised her in the name of the Lord that if she would feed him,
 she would never lack for food. I have pondered on the faith of that woman,
@@ -27,7 +26,7 @@ son in the balance. Obediently she baked food and fed Elijah, and then
 followed the miracle of the fulfillment of the prophet's promise: "And the
 barrel of meal wasted not, neither did the cruse of oil fail, according to the
 word of the Lord, which he spake by Elijah." ([1 Kgs.
-17:16](https://www.lds.org/scriptures/ot/1-kgs/17.16?lang=eng#15).)
+17:16](/scriptures/ot/1-kgs/17.16?lang=eng#15).)
 
 I have tried to compare her spirit of obedience with our willingness to obey
 the word of God as spoken by modern prophets. These prophets hold the same
@@ -72,8 +71,7 @@ forever, and hath no interest in the kingdom of God.
 "For behold, are we not all beggars? Do we not all depend upon the same Being,
 even God, for all the substance which we have, for both food and raiment, and
 for gold, and for silver, and for all the riches which we have of every kind?"
-([Mosiah
-4:16-19](https://www.lds.org/scriptures/bofm/mosiah/4.16-19?lang=eng#15).)
+([Mosiah 4:16-19](/scriptures/bofm/mosiah/4.16-19?lang=eng#15).)
 
 I sincerely believe if we do everything in our power to be obedient to the
 will of God, we and our families will never lack. If we are obedient as true
@@ -97,8 +95,7 @@ characteristic of the prophets of God who hold full divine authority.
 Jesus promised this sealing power to Peter and said: "And I will give unto
 thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on
 earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall
-be loosed in heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+be loosed in heaven." ([Matt. 16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 However, this power did not come to Peter until one week later, when Jesus
 took Peter, James, and John with him to the top of a high mountain. As they
@@ -113,7 +110,7 @@ restored, it was possible to pass it on to all the apostles, as recorded in
 the scriptures. Jesus told the Twelve: "Verily I say unto you, Whatsoever ye
 shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on
 earth shall be loosed in heaven." ([Matt.
-18:18](https://www.lds.org/scriptures/nt/matt/18.18?lang=eng#17).)
+18:18](/scriptures/nt/matt/18.18?lang=eng#17).)
 
 There is considerable confusion in the minds of students concerning the power
 of Elias and the power of Elijah. There was a prophet by the name of Elias
@@ -140,7 +137,7 @@ or Melchizedek Priesthood. But our generation is that generation of the
 fullness of times spoken of by Peter to be established in the last days. In
 this generation, therefore, there must be a "restitution of all things, which
 God hath spoken by the mouth of all his holy prophets since the world began."
-([Acts 3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).)
+([Acts 3:21](/scriptures/nt/acts/3.21?lang=eng#20).)
 
 Therefore, before Jesus comes in all his power and glory, all things must be
 prepared beforehand, including the restoration of the sealing power of Elijah.
@@ -156,8 +153,7 @@ prophet, before the coming of the great and dreadful day of the Lord.
 fathers, and the hearts of the children shall turn to their fathers.
 
 "If it were not so, the whole earth would be utterly wasted at his coming."
-([D&amp;C 2:1-3](https://www.lds.org/scriptures/dc-
-testament/dc/2.1-3?lang=eng#0).)
+([D&amp;C 2:1-3](/scriptures/dc-testament/dc/2.1-3?lang=eng#0).)
 
 So important was this scripture, that it is the only one I know of which is
 quoted almost word for word in all four standard works. The prophet Elijah,
@@ -176,7 +172,7 @@ fathers, lest the whole earth be smitten with a curse--
 
 "Therefore, the keys of this dispensation are committed into your hands; and
 by this ye may know that the great and dreadful day of the Lord is near, even
-at the doors." ([D&amp;C 110:14-16](https://www.lds.org/scriptures/dc-
+at the doors." ([D&amp;C 110:14-16](/scriptures/dc-
 testament/dc/110.14-16?lang=eng#13).)
 
 With this fulfillment of prophecy, all former priesthood powers were restored
@@ -202,4 +198,6 @@ the same fullness of priesthood power as did Elijah the Tishbite. President
 Kimball holds the keys of this sealing power to bind on earth and to have it
 bound in heaven. He is a true prophet of God, of which I testify in the name
 of Jesus Christ. Amen.
+
+## References
 

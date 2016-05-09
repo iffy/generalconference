@@ -19,15 +19,14 @@ unto thee. ...
 "Put your trust in that Spirit which leadeth to do good--yea to do justly, to
 walk humbly, to judge righteously; and this is my Spirit ...
 
-"Which shall fill your soul with joy." ([D&amp;C
-11:11-13](https://www.lds.org/scriptures/dc-
+"Which shall fill your soul with joy." ([D&amp;C 11:11-13](/scriptures/dc-
 testament/dc/11.11-13?lang=eng#10).)
 
 Two years later, speaking of Bishop Newel K. Whitney, He said:
 
 "Let him trust in me and he shall not be confounded: and a hair of his head
-shall not fall to the ground unnoticed." ([D&amp;C
-84:116](https://www.lds.org/scriptures/dc-testament/dc/84.116?lang=eng#115).)
+shall not fall to the ground unnoticed." ([D&amp;C 84:116](/scriptures/dc-
+testament/dc/84.116?lang=eng#115).)
 
 In 1841 when William Law was concerned about the health of his children
 because of the sickness among the people at Nauvoo, the Lord said:
@@ -35,15 +34,14 @@ because of the sickness among the people at Nauvoo, the Lord said:
 "Let my servant William put his trust in me, and cease to fear concerning his
 family, because of the sickness of the land. If ye love me, keep my
 commandments; and the sickness of the land shall redound to your glory."
-([D&amp;C 124:87](https://www.lds.org/scriptures/dc-
-testament/dc/124.87?lang=eng#86).)
+([D&amp;C 124:87](/scriptures/dc-testament/dc/124.87?lang=eng#86).)
 
 Comforting the people who had been driven into the wilderness by the wicked
 King Noah, Alma explained to them that although the Lord seeth fit to chasten
 his people; [and although] he trieth their patience and their faith [,]
 nevertheless--whosoever putteth his trust in him the same shall be lifted up
 at the last day." ([Mosiah
-23:21-22](https://www.lds.org/scriptures/bofm/mosiah/23.21-22?lang=eng#20).)
+23:21-22](/scriptures/bofm/mosiah/23.21-22?lang=eng#20).)
 
 One of the most dramatic evidences recorded in the scriptures that trusting in
 the Lord brings rewards was the vanquishing of the giant Goliath by young
@@ -60,7 +58,7 @@ six inches.
 
 "And he had an helmet of brass upon his head, and he was armed with a coat of
 mail" weighing about one hundred twenty-six pounds. ([1 Sam. 17:1,
-3-5](https://www.lds.org/scriptures/ot/1-sam/17.1%2C3-5?lang=eng#0)).
+3-5](/scriptures/ot/1-sam/17.1,3-5?lang=eng#0)).
 
 "In addition, he carried a shield of brass on his back, a heavy plate of metal
 armor on his legs and a helmet of brass on his head. In his hand he carried a
@@ -85,7 +83,7 @@ This challenge Goliath made morning and evening for forty days.
 
 "And all the men of Israel, when they saw the man, fled from him, and were
 sore afraid." ([1 Sam. 17:8-11,
-24](https://www.lds.org/scriptures/ot/1-sam/17.8-11%2C24?lang=eng#7).)
+24](/scriptures/ot/1-sam/17.8-11,24?lang=eng#7).)
 
 While this was going on, young David reached the camp with a message from his
 father for his elder brothers who were serving in King Saul's army. When he
@@ -116,7 +114,7 @@ be as one of them, seeing he hath defied the armies of the living God.
 the Lord--"The Lord that delivered me out of the paw of the lion, and out of
 the paw of the bear, he will deliver me out of the hand of this Philistine.
 And Saul said unto David, Go, and the Lord be with thee." ([1 Sam. 17:26,
-32-37](https://www.lds.org/scriptures/ot/1-sam/17.26%2C32-37?lang=eng#25).)
+32-37](/scriptures/ot/1-sam/17.26,32-37?lang=eng#25).)
 
 Saul then armed David with his own armor. But it was too heavy for David, for
 he hadn't been used to wearing armor, so he took it off.
@@ -164,7 +162,7 @@ entered into his head before.
 
 "So David prevailed over the Philistine with a sling and with a stone, and
 smote the Philistine, and slew him." ([1 Sam.
-17:40-50](https://www.lds.org/scriptures/ot/1-sam/17.40-50?lang=eng#39).)
+17:40-50](/scriptures/ot/1-sam/17.40-50?lang=eng#39).)
 
 Now, the reason David accomplished this great feat was that he trusted in and
 was led by the Lord.
@@ -207,8 +205,8 @@ of war.
 those young men who had fought with me, ... [and] to my great joy, there had not
 one soul of them fallen to the earth; yea, and they had fought as if with the
 strength of God; ... never were men known to have fought with such miraculous
-strength." ([Alma 56:44, 46-48, 54-56](https://www.lds.org/scriptures/bofm/alm
-a/56.44%2C46-48%2C54-56?lang=eng#43).)
+strength." ([Alma 56:44, 46-48,
+54-56](/scriptures/bofm/alma/56.44,46-48,54-56?lang=eng#43).)
 
 Following a later battle, Helaman continued in his report:
 
@@ -230,8 +228,7 @@ preserved by his marvelous power.
 
 "Now this was the faith of these of whom I have spoken; they are young, and
 their minds are firm, and they do put their trust in God continually." ([Alma
-57:19, 21, 25-27](https://www.lds.org/scriptures/bofm/alma/57.19%2C21%2C25-27?
-lang=eng#18).)
+57:19, 21, 25-27](/scriptures/bofm/alma/57.19,21,25-27?lang=eng#18).)
 
 President Heber J. Grant tells of a different type of reward that comes from
 trusting in the Lord. When he was a young man, he heard his bishop in a fast
@@ -298,4 +295,6 @@ Brethren, you young men particularly, I bear to you my testimony that I know
 that the Lord rewards those who put their trust in Him. May we learn that when
 we're young, and practice it through our lives so that we can testify as these
 experiences testify, in the name of Jesus Christ. Amen.
+
+## References
 

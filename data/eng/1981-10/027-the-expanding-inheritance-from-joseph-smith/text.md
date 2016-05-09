@@ -70,8 +70,7 @@ teachings today can be proven scientifically, yet in my opinion, the greatest
 promises contained in the Word of Wisdom (D&amp;C 89) are spiritual. It
 contains a promise of wisdom and great treasures of knowledge, and of the
 passing by of the destroying angel as the children of Israel were passed by.
-(See [D&amp;C 89:19, 21](https://www.lds.org/scriptures/dc-
-testament/dc/89.19%2C21?lang=eng#18).)
+(See [D&amp;C 89:19, 21](/scriptures/dc-testament/dc/89.19,21?lang=eng#18).)
 
 One of the most significant contributions of Joseph Smith is his work in
 translating and publishing the Book of Mormon, a sacred volume of scripture
@@ -118,8 +117,8 @@ kindly and sometimes sternly, he dictated them as the mouthpiece of the Lord
 to those who transcribed the revelations. One such example is found in the
 Doctrine and Covenants, section 5, verse 21: "And now I command you, my
 servant Joseph, to repent and walk more uprightly before me, and to yield to
-the persuasions of men no more." [[D&amp;C
-5:21](https://www.lds.org/scriptures/dc-testament/dc/5.21?lang=eng#20)]
+the persuasions of men no more." [[D&amp;C 5:21](/scriptures/dc-
+testament/dc/5.21?lang=eng#20)]
 
 While Joseph sought perfection, he did not claim perfection. If he were
 intending to fabricate a great falsehood or wanted to perpetrate a fraud or
@@ -136,13 +135,12 @@ the angel Moroni in 1823, only three years after his glorious vision of God
 the Father and Jesus Christ, that his name would be known for good and evil
 among all nations, kindreds, tongues, and peoples, and that both good and evil
 would be spoken of him. (See [JS--H
-1:33](https://www.lds.org/scriptures/pgp/js-h/1.33?lang=eng#32).) However, the
-intensity of the evil and persecution surprised even Joseph and caused him to
-ask on one occasion: "Why should the powers of darkness combine against me?
-Why the opposition and persecution that arose against me, almost in my
-infancy?" ([JS--H
-1:20](https://www.lds.org/scriptures/pgp/js-h/1.20?lang=eng#19)). But he met
-the challenges and overcame the strife and was stronger because of them.
+1:33](/scriptures/pgp/js-h/1.33?lang=eng#32).) However, the intensity of the
+evil and persecution surprised even Joseph and caused him to ask on one
+occasion: "Why should the powers of darkness combine against me? Why the
+opposition and persecution that arose against me, almost in my infancy?" ([JS
+--H 1:20](/scriptures/pgp/js-h/1.20?lang=eng#19)). But he met the challenges
+and overcame the strife and was stronger because of them.
 
 There should be no exaggerated emphasis on the fallibility or mortal failings
 of Joseph Smith. They were only things that are a part of any human being. He
@@ -150,8 +148,8 @@ and his work enjoyed the benediction of Deity. On a special occasion, the Lord
 said to him, "Verily, thus saith the Lord unto you, my servant Joseph Smith, I
 am well pleased with your offering and acknowledgments, which you have made;
 for unto this end have I raised you up, that I might show forth my wisdom
-through the weak things of the earth." ([D&amp;C
-124:1](https://www.lds.org/scriptures/dc-testament/dc/124.1?lang=eng#0).)
+through the weak things of the earth." ([D&amp;C 124:1](/scriptures/dc-
+testament/dc/124.1?lang=eng#0).)
 
 I am deeply impressed by the kinds of people who became associates of Joseph
 Smith. His personality was a magnet to many people, attracting those of all
@@ -209,8 +207,7 @@ intimately associated with the Prophet Joseph for several years prior to his
 losing his life in consequence of the persecution. (See _History of the
 Church_ 4:132.) He was baptized by Joseph. In a revelation received by the
 Prophet, he was called as the first bishop of the restored Church. (See
-[D&amp;C 41:9](https://www.lds.org/scriptures/dc-
-testament/dc/41.9?lang=eng#8).)
+[D&amp;C 41:9](/scriptures/dc-testament/dc/41.9?lang=eng#8).)
 
 Grandfather was so tortured, humiliated, and suffered so much in his calling
 from lawless mobs, and was still so steadfast and faithful, that he could not
@@ -230,4 +227,6 @@ the expanding inheritance of truth left to all of us by the Prophet Joseph
 Smith. It was given to save and exalt mankind as directed by the Lord Jesus
 Christ. I so testify with profound gratitude, in the name of the risen Christ,
 amen.
+
+## References
 

@@ -48,7 +48,7 @@ end thereof his rent coat, (and he called it the title of liberty) and he
 bowed himself to the earth, and he prayed mightily unto his God for the
 blessings of liberty to rest upon his brethren, so long as there should a band
 of Christians remain to possess the land." ([Alma
-46:12-13](https://www.lds.org/scriptures/bofm/alma/46.12-13?lang=eng#11).)
+46:12-13](/scriptures/bofm/alma/46.12-13?lang=eng#11).)
 
 What a contrast to the attitude of some of our liberals! Someone asked me once
 how I felt about amnesty for the draft card burner and the deserter. I told
@@ -78,7 +78,7 @@ religion, even to the loss of his blood.
 would be, like unto Moroni, behold, the very powers of hell would have been
 shaken forever; yea, the devil would never have power over the hearts of the
 children of men." ([Alma 48:11-13,
-17](https://www.lds.org/scriptures/bofm/alma/48.11-13%2C17?lang=eng#10).)
+17](/scriptures/bofm/alma/48.11-13,17?lang=eng#10).)
 
 In a letter to Ammoron, a warmongering chief of the Lamanites, we catch more
 of the spirit of this great man. As President Lee would have said, he wasn't a
@@ -113,8 +113,7 @@ and we have only sought to defend ourselves. But behold, if ye seek to destroy
 us more we will seek to destroy you.
 
 "Now I close my epistle. I am Moroni, I am a leader of ... the Nephites." ([Alma
-54:6-10,
-12-14](https://www.lds.org/scriptures/bofm/alma/54.6-10%2C12-14?lang=eng#5).)
+54:6-10, 12-14](/scriptures/bofm/alma/54.6-10,12-14?lang=eng#5).)
 
 Behold, _there_ was a leader!
 
@@ -135,8 +134,8 @@ known anything but criticism of the United States of America. We need some
 faithful, free-loving patriots who will issue forth a clear, loud trumpet
 call. Remember Paul's counsel: "For if the trumpet give an uncertain sound,
 who shall prepare ... to the battle?" ([1 Cor.
-14:8](https://www.lds.org/scriptures/nt/1-cor/14.8?lang=eng#7).) Freedom ought
-to ring in the heart of every Latter-day Saint regardless of his country.
+14:8](/scriptures/nt/1-cor/14.8?lang=eng#7).) Freedom ought to ring in the
+heart of every Latter-day Saint regardless of his country.
 
 Conrad Hilton in 1951 gave the following in an address; I quote from a talk
 delivered at Brigham Young University by President Harold B. Lee. "Speaking of
@@ -182,7 +181,7 @@ In Ether we read about this choice land:
 "Behold, this is a choice land, and whatsoever nation shall possess it shall
 be free from bondage, and from captivity, and from all other nations under
 heaven, if they will but serve the God of the land, who is Jesus Christ."
-([Ether 2:12](https://www.lds.org/scriptures/bofm/ether/2.12?lang=eng#11).)
+([Ether 2:12](/scriptures/bofm/ether/2.12?lang=eng#11).)
 
 What a wonderful heritage we could leave to our youth if we could just kindle
 in them the fires of freedom that our fathers kindled in us. I love this great
@@ -247,4 +246,6 @@ record of God's dealings with people who had problems similar to the problems
 we have in this day. And they were a great people who loved this land and thus
 we find the course we must take in following in their footsteps. These things
 are true, in the name of Jesus Christ. Amen.
+
+## References
 

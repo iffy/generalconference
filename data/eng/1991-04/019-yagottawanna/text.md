@@ -7,8 +7,7 @@ future you young men can have and the obstacles you must surmount to achieve
 your goals.
 
 Your potential, young men, is described in a Book of Mormon phrase: "the man
-of Christ." ([Hel.
-3:29](https://www.lds.org/scriptures/bofm/hel/3.29?lang=eng#28).) What is the
+of Christ." ([Hel. 3:29](/scriptures/bofm/hel/3.29?lang=eng#28).) What is the
 man of Christ like? Can you deacons, teachers, or priests become such a man,
 or is that something reserved for an older generation? While my formal title
 is Young Men General President, I hope that I am actually presiding over a
@@ -32,19 +31,18 @@ captures several important gospel principles.
 
 It reminds me of one of the qualities of godhood. "And there is nothing that
 the Lord thy God shall take in his heart to do but what he will do it." ([Abr.
-3:17](https://www.lds.org/scriptures/pgp/abr/3.17?lang=eng#16).) Isn't it
-wonderful that we can trust our Father in Heaven to do what he says he will
-do?
+3:17](/scriptures/pgp/abr/3.17?lang=eng#16).) Isn't it wonderful that we can
+trust our Father in Heaven to do what he says he will do?
 
 There are two elements to this principle. First, God takes something into his
 heart. When we take something into our hearts, it usually means that we _feel_
-something. This is the spirit of revelation. (See [D&amp;C
-8:2-3](https://www.lds.org/scriptures/dc-testament/dc/8.2-3?lang=eng#1).) It
-gives an intense feeling of peacefulness or well-being. President Marion G.
-Romney said that it "comes into our minds and feelings and induces us to do
-what is right" ("Ye Are a Peculiar People," _Brigham Young University Speeches
-of the Year,_ Provo, 10 Apr. 1956, p. 8); it leads us to do good (see [D&amp;C
-11:12](https://www.lds.org/scriptures/dc-testament/dc/11.12?lang=eng#11)).
+something. This is the spirit of revelation. (See [D&amp;C 8:2-3](/scriptures
+/dc-testament/dc/8.2-3?lang=eng#1).) It gives an intense feeling of
+peacefulness or well-being. President Marion G. Romney said that it "comes
+into our minds and feelings and induces us to do what is right" ("Ye Are a
+Peculiar People," _Brigham Young University Speeches of the Year,_ Provo, 10
+Apr. 1956, p. 8); it leads us to do good (see [D&amp;C 11:12](/scriptures/dc-
+testament/dc/11.12?lang=eng#11)).
 
 How many of you have heard an inspiring thought, hymn, or story, and then had
 a desire to go do something good? This is not unusual; it is a healthy,
@@ -60,8 +58,7 @@ Bradley, Leo F. Daniels, Thomas C. Jones, Chicago: J. G. Ferguson Publishing
 Co., 1969, p. 291.) This means that once we have _felt_ something, we must
 _act_ in order to hold on to those feelings we experience. Elder Joseph B.
 Wirthlin noted that "individuals who do right and 'hunger and thirst after
-righteousness' ([Matt.
-5:6](https://www.lds.org/scriptures/nt/matt/5.6?lang=eng#5)) get and keep
+righteousness' ([Matt. 5:6](/scriptures/nt/matt/5.6?lang=eng#5)) get and keep
 alive through their actions the feeling to do right." (_Ensign,_ May 1976, p.
 56.) In contrast, those who do not act out their righteous desires place
 themselves in a dangerous position. As C. S. Lewis said, "The more often [a
@@ -72,7 +69,7 @@ York: Macmillan Publishing Co., 1982, p. 61.)
 "Yagottawanna" also helps us understand the principle of agency. Youth with
 sincere desires take initiative. They do good things without waiting to be
 told. They "do many things of their own free will, and bring to pass much
-righteousness." ([D&amp;C 58:27](https://www.lds.org/scriptures/dc-
+righteousness." ([D&amp;C 58:27](/scriptures/dc-
 testament/dc/58.27?lang=eng#26).) They _act_ rather than wait to be _acted
 upon._ They are in control of themselves. Such control is a wonderful feeling.
 It is a feeling we get when we exercise one of our most precious gifts--that
@@ -80,14 +77,12 @@ of free agency.
 
 "Yagottawanna" also shows an attitude of faith. _Desire_ is the beginning of
 faith. The Lord will bless you "even if ye can no more than desire to
-believe." ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26).) If we let
+believe." ([Alma 32:27](/scriptures/bofm/alma/32.27?lang=eng#26).) If we let
 it, this desire will grow into a mature faith that can make things happen.
 
 What we desire will ultimately help determine our eternal judgment. Alma said
 that God "granteth unto men according to their desire, whether it be unto
-death or unto life." ([Alma
-29:4](https://www.lds.org/scriptures/bofm/alma/29.4?lang=eng#3).)
+death or unto life." ([Alma 29:4](/scriptures/bofm/alma/29.4?lang=eng#3).)
 
 Desires change during our lives, sometimes dramatically and quickly, and
 sometimes gradually. Elder Boyd K. Packer once quoted Lady Astor: "I always
@@ -143,20 +138,20 @@ his spiritual preparation for his mission. He _felt_ something, and
 fortunately, he acted and thus sustained those feelings. I want to especially
 emphasize one important desire you should cultivate. "Yagottawanna" keep
 yourself pure, and free from immoral conduct. (See [Alma
-38:12](https://www.lds.org/scriptures/bofm/alma/38.12?lang=eng#11).) You can
-control your passions. I hope you will cultivate the desire to honor young
-women. Elder M. Russell Ballard told us during last October general conference
-that young women want to be treated with courtesy. (See _Ensign,_ Nov. 1990,
-p. 37.) The standards outlined in the pamphlet _For the Strength of Youth_ are
-of great value. These Church standards will become _your_ standards when you
-really cherish them, when you feel something about their value, and when you
-act in accordance with them. Yes, "Yagottawanna" live these standards.
+38:12](/scriptures/bofm/alma/38.12?lang=eng#11).) You can control your
+passions. I hope you will cultivate the desire to honor young women. Elder M.
+Russell Ballard told us during last October general conference that young
+women want to be treated with courtesy. (See _Ensign,_ Nov. 1990, p. 37.) The
+standards outlined in the pamphlet _For the Strength of Youth_ are of great
+value. These Church standards will become _your_ standards when you really
+cherish them, when you feel something about their value, and when you act in
+accordance with them. Yes, "Yagottawanna" live these standards.
 
 When you are pure in your heart, when you desire that which is good, true, and
 beautiful, then you can avoid the pitfalls of life. If you build your
 foundation upon the "rock of our Redeemer, who is Christ," then the devil
 "shall have no power over you." ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11).)
+5:12](/scriptures/bofm/hel/5.12?lang=eng#11).)
 
 You can also be an influence for good, so that the gospel message will shine
 through your countenance. I recently heard of a young woman who invited a
@@ -181,4 +176,6 @@ I promise you that the Lord will bless you with right attitudes and desires as
 you pray to him, attend to your duties, keep the commandments, and serve him.
 Then you young men will truly be men of Christ. In the name of Jesus Christ,
 amen.
+
+## References
 

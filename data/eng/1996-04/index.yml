@@ -1,416 +1,340 @@
 items:
-- article_id: '96905_000_003'
-  item: '002'
-  key: 002-the-prophetic-voice
+- item: 1
+  key: 000-the-prophetic-voice
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-prophetic-voice
   speaker: James E. Faust
   title: The Prophetic Voice
   url: https://www.lds.org/general-conference/1996/04/the-prophetic-voice?lang=eng
   year: 1996
-- article_id: '96905_000_004'
-  item: '003'
-  key: 003-ye-may-know
+- item: 2
+  key: 001-ye-may-know
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: ye-may-know
   speaker: Keith B. McMullin
-  title: "\u201CYe May Know\u201D"
+  title: '"Ye May Know"'
   url: https://www.lds.org/general-conference/1996/04/ye-may-know?lang=eng
   year: 1996
-- article_id: '96905_000_005'
-  item: '005'
-  key: 005-the-sabbath-day-and-sunday-shopping
+- item: 3
+  key: 002-the-sabbath-day-and-sunday-shopping
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sabbath-day-and-sunday-shopping
   speaker: Earl C. Tingey
   title: The Sabbath Day and Sunday Shopping
   url: https://www.lds.org/general-conference/1996/04/the-sabbath-day-and-sunday-shopping?lang=eng
   year: 1996
-- article_id: '96905_000_006'
-  item: '007'
-  key: 007-baskets-and-bottles
+- item: 4
+  key: 003-baskets-and-bottles
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: baskets-and-bottles
   speaker: Chieko N. Okazaki
   title: Baskets and Bottles
   url: https://www.lds.org/general-conference/1996/04/baskets-and-bottles?lang=eng
   year: 1996
-- article_id: '96905_000_007'
-  item: 008
-  key: 008-thou-shalt-have-no-other-gods
+- item: 5
+  key: 004-thou-shalt-have-no-other-gods
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: thou-shalt-have-no-other-gods
   speaker: Russell M. Nelson
-  title: "\u201CThou Shalt Have No Other Gods\u201D"
+  title: '"Thou Shalt Have No Other Gods"'
   url: https://www.lds.org/general-conference/1996/04/thou-shalt-have-no-other-gods?lang=eng
   year: 1996
-- article_id: '96905_000_008'
-  item: '010'
-  key: 010-the-word-of-wisdom-the-principle-and-the-promises
+- item: 6
+  key: 005-the-word-of-wisdom-the-principle-and-the-promises
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-word-of-wisdom-the-principle-and-the-promises
   speaker: Boyd K. Packer
-  title: 'The Word of Wisdom: The Principle and the Promises'
+  title: The Word of Wisdom:The Principle and the Promises
   url: https://www.lds.org/general-conference/1996/04/the-word-of-wisdom-the-principle-and-the-promises?lang=eng
   year: 1996
-- article_id: '96905_000_009'
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: James E. Faust
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1996/04/the-sustaining-of-church-officers?lang=eng
   year: 1996
-- article_id: '96905_000_010'
-  item: '015'
-  key: 015-the-church-audit-committee-report
+- item: 8
+  key: 007-the-church-audit-committee-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-church-audit-committee-report
   speaker: Ted E. Davis
   title: The Church Audit Committee Report
   url: https://www.lds.org/general-conference/1996/04/the-church-audit-committee-report?lang=eng
   year: 1996
-- article_id: '96905_000_011'
-  item: '016'
-  key: 016-statistical-report-1995
+- item: 9
+  key: 008-statistical-report-1995
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-1995
   speaker: F. Michael Watson
   title: Statistical Report 1995
   url: https://www.lds.org/general-conference/1996/04/statistical-report-1995?lang=eng
   year: 1996
-- article_id: '96905_000_012'
-  item: '017'
-  key: 017-this-work-is-true
+- item: 10
+  key: 009-this-work-is-true
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: this-work-is-true
   speaker: David B. Haight
   title: This Work Is True
   url: https://www.lds.org/general-conference/1996/04/this-work-is-true?lang=eng
   year: 1996
-- article_id: '96905_000_013'
-  item: 018
-  key: 018-finding-joy-in-life
+- item: 11
+  key: 010-finding-joy-in-life
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: finding-joy-in-life
   speaker: Richard G. Scott
   title: Finding Joy in Life
   url: https://www.lds.org/general-conference/1996/04/finding-joy-in-life?lang=eng
   year: 1996
-- article_id: '96905_000_014'
-  item: '020'
-  key: 020-commitment
+- item: 12
+  key: 011-commitment
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: commitment
   speaker: F. Burton Howard
   title: Commitment
   url: https://www.lds.org/general-conference/1996/04/commitment?lang=eng
   year: 1996
-- article_id: '96905_000_015'
-  item: '021'
-  key: 021-a-handful-of-meal-and-a-little-oil
+- item: 13
+  key: 012-a-handful-of-meal-and-a-little-oil
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-handful-of-meal-and-a-little-oil
   speaker: Jeffrey R. Holland
   title: A Handful of Meal and a Little Oil
   url: https://www.lds.org/general-conference/1996/04/a-handful-of-meal-and-a-little-oil?lang=eng
   year: 1996
-- article_id: '96905_000_016'
-  item: '023'
-  key: 023-faith-of-our-fathers
+- item: 14
+  key: 013-faith-of-our-fathers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: faith-of-our-fathers
   speaker: Joseph B. Wirthlin
   title: Faith of Our Fathers
   url: https://www.lds.org/general-conference/1996/04/faith-of-our-fathers?lang=eng
   year: 1996
-- article_id: '96905_000_017'
-  item: '027'
-  key: 027-if-thou-wilt-enter-into-life-keep-the-commandments
+- item: 15
+  key: 014-if-thou-wilt-enter-into-life-keep-the-commandments
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: if-thou-wilt-enter-into-life-keep-the-commandments
   speaker: Robert D. Hales
-  title: "\u201CIf Thou Wilt Enter into Life, Keep the Commandments\u201D"
+  title: '"If Thou Wilt Enter into Life, Keep the Commandments"'
   url: https://www.lds.org/general-conference/1996/04/if-thou-wilt-enter-into-life-keep-the-commandments?lang=eng
   year: 1996
-- article_id: '96905_000_018'
-  item: 028
-  key: 028-spiritual-shepherds
+- item: 16
+  key: 015-spiritual-shepherds
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: spiritual-shepherds
   speaker: W. Eugene Hansen
   title: Spiritual Shepherds
   url: https://www.lds.org/general-conference/1996/04/spiritual-shepherds?lang=eng
   year: 1996
-- article_id: '96905_000_019'
-  item: 029
-  key: 029-what-i-want-my-son-to-know-before-he-leaves-on-his-mission
+- item: 17
+  key: 016-what-i-want-my-son-to-know-before-he-leaves-on-his-mission
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: what-i-want-my-son-to-know-before-he-leaves-on-his-mission
   speaker: James E. Faust
   title: What I Want My Son to Know before He Leaves on His Mission
   url: https://www.lds.org/general-conference/1996/04/what-i-want-my-son-to-know-before-he-leaves-on-his-mission?lang=eng
   year: 1996
-- article_id: '96905_000_020'
-  item: '031'
-  key: 031-duty-calls
+- item: 18
+  key: 017-duty-calls
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: duty-calls
   speaker: Thomas S. Monson
   title: Duty Calls
   url: https://www.lds.org/general-conference/1996/04/duty-calls?lang=eng
   year: 1996
-- article_id: '96905_000_021'
-  item: '032'
-  key: 032-be-ye-clean
+- item: 19
+  key: 018-be-ye-clean
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: be-ye-clean
   speaker: Gordon B. Hinckley
-  title: "\u201CBe Ye Clean\u201D"
+  title: '"Be Ye Clean"'
   url: https://www.lds.org/general-conference/1996/04/be-ye-clean?lang=eng
   year: 1996
-- article_id: '96905_000_022'
-  item: '036'
-  key: 036-the-way-of-the-master
+- item: 20
+  key: 019-the-way-of-the-master
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-way-of-the-master
   speaker: Thomas S. Monson
   title: The Way of the Master
   url: https://www.lds.org/general-conference/1996/04/the-way-of-the-master?lang=eng
   year: 1996
-- article_id: '96905_000_023'
-  item: 038
-  key: 038-sacrament-of-the-lords-supper
+- item: 21
+  key: 020-sacrament-of-the-lords-supper
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: sacrament-of-the-lords-supper
   speaker: L. Tom Perry
-  title: "Sacrament of the Lord\u2019s Supper"
+  title: Sacrament of the Lord's Supper
   url: https://www.lds.org/general-conference/1996/04/sacrament-of-the-lords-supper?lang=eng
   year: 1996
-- article_id: '96905_000_024'
-  item: '041'
-  key: 041-stay-on-the-true-course
+- item: 22
+  key: 021-stay-on-the-true-course
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: stay-on-the-true-course
   speaker: Carlos E. Asay
   title: Stay on the True Course
   url: https://www.lds.org/general-conference/1996/04/stay-on-the-true-course?lang=eng
   year: 1996
-- article_id: '96905_000_025'
-  item: '042'
-  key: 042-a-legacy-of-testimony
+- item: 23
+  key: 022-a-legacy-of-testimony
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-legacy-of-testimony
   speaker: Henry B. Eyring
   title: A Legacy of Testimony
   url: https://www.lds.org/general-conference/1996/04/a-legacy-of-testimony?lang=eng
   year: 1996
-- article_id: '96905_000_026'
-  item: '043'
-  key: 043-this-glorious-easter-morn
+- item: 24
+  key: 023-this-glorious-easter-morn
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: this-glorious-easter-morn
   speaker: Gordon B. Hinckley
   title: This Glorious Easter Morn
   url: https://www.lds.org/general-conference/1996/04/this-glorious-easter-morn?lang=eng
   year: 1996
-- article_id: '96905_000_027'
-  item: '047'
-  key: 047-becometh-as-a-child
+- item: 25
+  key: 024-becometh-as-a-child
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: becometh-as-a-child
   speaker: Neal A. Maxwell
-  title: "\u201CBecometh As a Child\u201D"
+  title: '"Becometh As a Child"'
   url: https://www.lds.org/general-conference/1996/04/becometh-as-a-child?lang=eng
   year: 1996
-- article_id: '96905_000_028'
-  item: 048
-  key: 048-joseph-the-man-and-the-prophet
+- item: 26
+  key: 025-joseph-the-man-and-the-prophet
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: joseph-the-man-and-the-prophet
   speaker: Dallin H. Oaks
   title: Joseph, the Man and the Prophet
   url: https://www.lds.org/general-conference/1996/04/joseph-the-man-and-the-prophet?lang=eng
   year: 1996
-- article_id: '96905_000_029'
-  item: 049
-  key: 049-conversion-and-commitment
+- item: 27
+  key: 026-conversion-and-commitment
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: conversion-and-commitment
   speaker: W. Mack Lawrence
   title: Conversion and Commitment
   url: https://www.lds.org/general-conference/1996/04/conversion-and-commitment?lang=eng
   year: 1996
-- article_id: '96905_000_030'
-  item: '051'
-  key: 051-temptation
+- item: 28
+  key: 027-temptation
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: temptation
   speaker: Rulon G. Craven
   title: Temptation
   url: https://www.lds.org/general-conference/1996/04/temptation?lang=eng
   year: 1996
-- article_id: '96905_000_031'
-  item: '052'
-  key: 052-remember-how-thou-hast-received-and-heard
+- item: 29
+  key: 028-remember-how-thou-hast-received-and-heard
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: remember-how-thou-hast-received-and-heard
   speaker: Susan L. Warner
   title: Remember How Thou Hast Received and Heard
   url: https://www.lds.org/general-conference/1996/04/remember-how-thou-hast-received-and-heard?lang=eng
   year: 1996
-- article_id: '96905_000_032'
-  item: '053'
-  key: 053-feasting-at-the-lords-table
+- item: 30
+  key: 029-feasting-at-the-lords-table
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: feasting-at-the-lords-table
   speaker: M. Russell Ballard
-  title: "Feasting at the Lord\u2019s Table"
+  title: Feasting at the Lord's Table
   url: https://www.lds.org/general-conference/1996/04/feasting-at-the-lords-table?lang=eng
   year: 1996
-- article_id: '96905_000_033'
-  item: '054'
-  key: 054-remember-thy-church-o-lord
+- item: 31
+  key: 030-remember-thy-church-o-lord
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: remember-thy-church-o-lord
   speaker: Gordon B. Hinckley
-  title: "\u201CRemember \u2026 Thy Church, O Lord\u201D"
+  title: '"Remember ... Thy Church, O Lord"'
   url: https://www.lds.org/general-conference/1996/04/remember-thy-church-o-lord?lang=eng
   year: 1996
-- article_id: '96905_000_034'
-  item: '057'
-  key: 057-sustaining-the-living-prophets
+- item: 32
+  key: 031-sustaining-the-living-prophets
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: sustaining-the-living-prophets
   speaker: Janette Hales Beckham
   title: Sustaining the Living Prophets
   url: https://www.lds.org/general-conference/1996/04/sustaining-the-living-prophets?lang=eng
   year: 1996
-- article_id: '96905_000_035'
-  item: 059
-  key: 059-listening-with-new-ears
+- item: 33
+  key: 032-listening-with-new-ears
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: listening-with-new-ears
   speaker: Virginia H. Pearce
   title: Listening with New Ears
   url: https://www.lds.org/general-conference/1996/04/listening-with-new-ears?lang=eng
   year: 1996
-- article_id: '96905_000_036'
-  item: '061'
-  key: 061-facing-trials-with-optimism
+- item: 34
+  key: 033-facing-trials-with-optimism
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: facing-trials-with-optimism
   speaker: Anne Marie Rose
   title: Facing Trials with Optimism
   url: https://www.lds.org/general-conference/1996/04/facing-trials-with-optimism?lang=eng
   year: 1996
-- article_id: '96905_000_037'
-  item: '062'
-  key: 062-my-prayers-were-answered
+- item: 35
+  key: 034-my-prayers-were-answered
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: my-prayers-were-answered
   speaker: Kirstin Boyer
   title: My Prayers Were Answered
   url: https://www.lds.org/general-conference/1996/04/my-prayers-were-answered?lang=eng
   year: 1996
-- article_id: '96905_000_038'
-  item: '063'
-  key: 063-he-has-given-me-a-prophet
+- item: 36
+  key: 035-he-has-given-me-a-prophet
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: he-has-given-me-a-prophet
   speaker: Anne Prescott
   title: He Has Given Me a Prophet
   url: https://www.lds.org/general-conference/1996/04/he-has-given-me-a-prophet?lang=eng
   year: 1996
-- article_id: '96905_000_039'
-  item: '064'
-  key: 064-an-anchor-for-eternity-and-today
+- item: 37
+  key: 036-an-anchor-for-eternity-and-today
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: an-anchor-for-eternity-and-today
   speaker: Bonnie D. Parkin
   title: "An Anchor for Eternity\u2014and Today"
   url: https://www.lds.org/general-conference/1996/04/an-anchor-for-eternity-and-today?lang=eng
   year: 1996
-- article_id: '96905_000_040'
-  item: '066'
-  key: 066-stand-true-and-faithful
+- item: 38
+  key: 037-stand-true-and-faithful
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: stand-true-and-faithful
   speaker: Gordon B. Hinckley

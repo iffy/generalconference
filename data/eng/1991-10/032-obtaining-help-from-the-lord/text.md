@@ -5,20 +5,19 @@ overwhelming as to be beyond our individual capacity to resolve them. We all
 need help from the Lord. Yet there are many individuals who don't know how to
 receive that help. They feel their urgent pleas for help have often gone
 unattended. How can that be when He Himself has said, "Ask, and ye shall
-receive; knock, and it shall be opened unto you"? ([D&amp;C
-4:7](https://www.lds.org/scriptures/dc-testament/dc/4.7?lang=eng#6).)
+receive; knock, and it shall be opened unto you"? ([D&amp;C 4:7](/scriptures
+/dc-testament/dc/4.7?lang=eng#6).)
 
 Such difficulty results either from not following His spiritual law for
 providing help or from not recognizing help when it comes. Well did James
 observe, "Ye ask, and receive not, because ye ask amiss." ([James
-4:3](https://www.lds.org/scriptures/nt/james/4.3?lang=eng#2).)
+4:3](/scriptures/nt/james/4.3?lang=eng#2).)
 
 True, the Lord has said, "Ask, and ye shall receive." ([D&amp;C
-4:7](https://www.lds.org/scriptures/dc-testament/dc/4.7?lang=eng#6).) But He
-also declared, "Behold, you have not understood; you have supposed that I
-would give it unto you, when you took no thought save it was to ask me."
-([D&amp;C 9:7](https://www.lds.org/scriptures/dc-
-testament/dc/9.7?lang=eng#6).)
+4:7](/scriptures/dc-testament/dc/4.7?lang=eng#6).) But He also declared,
+"Behold, you have not understood; you have supposed that I would give it unto
+you, when you took no thought save it was to ask me." ([D&amp;C
+9:7](/scriptures/dc-testament/dc/9.7?lang=eng#6).)
 
 It is evident that He intends that we do our part. But what, specifically, are
 we to do? No one would expect to receive a result from physical law without
@@ -29,21 +28,18 @@ in significant detail. I will cite key scriptures that teach how to ask for
 help, then summarize the spiritual law they clarify.
 
 The Savior declared, "I, the Lord, am bound _when ye do what I say;_ but when
-ye do not what I say, ye have no promise." ([D&amp;C
-82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9);
-italics added.)
+ye do not what I say, ye have no promise." ([D&amp;C 82:10](/scriptures/dc-
+testament/dc/82.10?lang=eng#9); italics added.)
 
 John taught, "And whatsoever we ask, we receive of him, _because we keep his
 commandments,_ and do those things that are pleasing in his sight." ([1 Jn.
-3:22](https://www.lds.org/scriptures/nt/1-jn/3.22?lang=eng#21); italics
-added.)
+3:22](/scriptures/nt/1-jn/3.22?lang=eng#21); italics added.)
 
 Nephi counseled, "Do ye not remember the things which the Lord hath said?--If
 ye will _not harden your hearts,_ and _ask me in faith,_ believing that ye
 shall receive, _with diligence in keeping my commandments,_ surely these
 things shall be made known unto you." ([1 Ne.
-15:11](https://www.lds.org/scriptures/bofm/1-ne/15.11?lang=eng#10); italics
-added.)
+15:11](/scriptures/bofm/1-ne/15.11?lang=eng#10); italics added.)
 
 The Lord has the power to bless us at any time. Yet we see that to count on
 His help, we must consistently obey His commandments.
@@ -51,36 +47,31 @@ His help, we must consistently obey His commandments.
 Enos recorded, "I cried unto him continually, for he had said unto me:
 Whatsoever thing ye shall _ask in faith,_ believing that ye shall receive _in
 the name of Christ,_ ye shall receive it." ([Enos
-1:15](https://www.lds.org/scriptures/bofm/enos/1.15?lang=eng#14); italics
-added.)
+1:15](/scriptures/bofm/enos/1.15?lang=eng#14); italics added.)
 
 Mormon wrote, "Behold, I say unto you that _whoso believeth in Christ,
 doubting nothing, _whatsoever he shall ask the Father in the name of Christ it
 shall be granted him; and _this promise is unto all,_ even unto the ends of
-the earth." ([Morm.
-9:21](https://www.lds.org/scriptures/bofm/morm/9.21?lang=eng#20); italics
+the earth." ([Morm. 9:21](/scriptures/bofm/morm/9.21?lang=eng#20); italics
 added.)
 
 The Savior taught:
 
 "Remember that without faith you can do nothing; therefore _ask in faith.
 Trifle not_ with these things; do not ask for that which you ought not."
-([D&amp;C 8:10](https://www.lds.org/scriptures/dc-
-testament/dc/8.10?lang=eng#9); italics added.)
+([D&amp;C 8:10](/scriptures/dc-testament/dc/8.10?lang=eng#9); italics added.)
 
 "And whatsoever ye shall ask the Father in my name, _which is right,_
 believing that ye shall receive, behold it shall be given unto you." ([3 Ne.
-18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19); italics
-added.)
+18:20](/scriptures/bofm/3-ne/18.20?lang=eng#19); italics added.)
 
 "Whatsoever ye ask the Father in my name it shall be given unto you, _that is
-expedient for you._" ([D&amp;C 88:64](https://www.lds.org/scriptures/dc-
+expedient for you._" ([D&amp;C 88:64](/scriptures/dc-
 testament/dc/88.64?lang=eng#63); italics added.)
 
 "If ye are purified and cleansed from all sin, ye shall ask whatsoever you
 will in the name of Jesus and it shall be done. But know this, _it shall be
-given you what you shall ask._" ([D&amp;C
-50:29-30](https://www.lds.org/scriptures/dc-
+given you what you shall ask._" ([D&amp;C 50:29-30](/scriptures/dc-
 testament/dc/50.29-30?lang=eng#28); italics added.)
 
 These teachings of Jesus Christ emphasize that it matters very much _what_ we
@@ -89,8 +80,8 @@ it, we will obtain the greatest blessings in life.
 
 Sincere gratitude is fundamental, for "in nothing doth man offend God, or
 against none is his wrath kindled, save those who confess not his hand in all
-things, and obey not his commandments." ([D&amp;C
-59:21](https://www.lds.org/scriptures/dc-testament/dc/59.21?lang=eng#20).)
+things, and obey not his commandments." ([D&amp;C 59:21](/scriptures/dc-
+testament/dc/59.21?lang=eng#20).)
 
 Now, to summarize, blessings come when we--
 
@@ -192,12 +183,12 @@ little hope of receiving confirmation without repentance.
 "For behold, the Lord hath said: I will not succor my people in the day of
 their transgression; but I will hedge up their ways that they prosper not; and
 their doings shall be as a stumbling block before them." ([Mosiah
-7:29](https://www.lds.org/scriptures/bofm/mosiah/7.29?lang=eng#28).)
+7:29](/scriptures/bofm/mosiah/7.29?lang=eng#28).)
 
 "But if ye will turn to the Lord with full purpose of heart, and put your
 trust in him, and serve him with all diligence of mind, ... he will ... deliver
 you out of bondage." ([Mosiah
-7:33](https://www.lds.org/scriptures/bofm/mosiah/7.33?lang=eng#32).)
+7:33](/scriptures/bofm/mosiah/7.33?lang=eng#32).)
 
 Our earnest prayers are answered when they conform to the will of the Lord.
 Since we cannot perfectly understand His will, we must walk with faith. He is
@@ -224,12 +215,13 @@ To gain unshakable faith in Jesus Christ is to flood your life with brilliant
 light. You are no longer alone to struggle with challenges you know you cannot
 resolve or control yourself, for He said, "_If ye will have faith in me_ ye
 shall have power to do whatsoever thing is _expedient in me._" ([Moro.
-7:33](https://www.lds.org/scriptures/bofm/moro/7.33?lang=eng#32); italics
-added.)
+7:33](/scriptures/bofm/moro/7.33?lang=eng#32); italics added.)
 
 If you are despondent, racked by transgression, are ill, alone, or desperately
 in need of comfort and support, I solemnly testify that the Lord will help you
 when you carefully obey the spiritual law upon which that help is predicated.
 He is your Father. You are His child. He loves you. He will never let you
 down. I know He will bless you. In the name of Jesus Christ, amen.
+
+## References
 

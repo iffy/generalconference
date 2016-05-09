@@ -86,8 +86,8 @@ Cowdery and said:
 of Aaron, which holds the keys of the ministering of angels, and of the gospel
 of repentance, and of baptism by immersion for the remission of sins; and this
 shall never be taken again from the earth, until the sons of Levi do offer
-again an offering unto the Lord in righteousness." ([D&amp;C
-13](https://www.lds.org/scriptures/dc-testament/dc/13.title?lang=eng).)
+again an offering unto the Lord in righteousness." ([D&amp;C 13](/scriptures
+/dc-testament/dc/13?lang=eng).)
 
 John the Baptist said he came at the direction of Peter, James, and John. The
 ordination was performed before the Church was organized again upon the earth.
@@ -107,9 +107,8 @@ of course, are very important, but there is so much more. As a preparatory
 priesthood it is preparing you ultimately, of course, for eternal life and
 exaltation. The Lord said, "This is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) And further
-He has told us that eternal life--exaltation--is the greatest gift of God to
-man.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) And further He has told us
+that eternal life--exaltation--is the greatest gift of God to man.
 
 As a holder of the priesthood you are a servant of our Heavenly Father. If you
 are to honor the priesthood, you must truly be a servant and serve your
@@ -127,10 +126,9 @@ to this boy each day so that he would not go hungry. Why did he do these
 things? Because he had been studying the story of the Good Samaritan and
 didn't just want to learn about the Good Samaritan but wanted to know what it
 felt like to be one by doing what a Good Samaritan would do. (See [Luke
-10:25-37](https://www.lds.org/scriptures/nt/luke/10.25-37?lang=eng#24).) He
-related these things to his father only after careful questioning by his
-father about his activities. He had done them without any thought of
-recognition.
+10:25-37](/scriptures/nt/luke/10.25-37?lang=eng#24).) He related these things
+to his father only after careful questioning by his father about his
+activities. He had done them without any thought of recognition.
 
 I doubt very much that the bishop of this young man would have to worry about
 how he looked when he came to participate at the sacrament table or whether
@@ -178,4 +176,6 @@ It is my firm prayer that each of you bishops and quorum advisers of these
 young men will aid in their understanding what it means to hold the holy
 priesthood and to put on the whole armor of God, in the name of Jesus Christ,
 amen.
+
+## References
 

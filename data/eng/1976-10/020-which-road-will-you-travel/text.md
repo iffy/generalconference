@@ -25,12 +25,11 @@ Unlike the youthful hitchhiker, you and I have the God-given gift to choose
 the direction we go. Indeed, the apostle Paul likened life to a race with a
 clearly defined goal. To the saints at Corinth he urged: "Know ye not that
 they which run in a race run all, but one receiveth the prize? So run, that ye
-may obtain." ([1 Cor.
-9:24](https://www.lds.org/scriptures/nt/1-cor/9.24?lang=eng#23).) In our zeal,
-let us not overlook the sage counsel from Ecclesiastes: "The race is not to
-the swift, nor the battle to the strong." ([Eccl.
-9:11](https://www.lds.org/scriptures/ot/eccl/9.11?lang=eng#10).) Actually, the
-prize belongs to him who endures to the end.
+may obtain." ([1 Cor. 9:24](/scriptures/nt/1-cor/9.24?lang=eng#23).) In our
+zeal, let us not overlook the sage counsel from Ecclesiastes: "The race is not
+to the swift, nor the battle to the strong." ([Eccl.
+9:11](/scriptures/ot/eccl/9.11?lang=eng#10).) Actually, the prize belongs to
+him who endures to the end.
 
 Each must ask himself the questions: "Where am I going?" "How do I intend to
 get there?" "Really, what is my divine destiny?"
@@ -123,9 +122,9 @@ mindful that before Easter there had to be a cross.
 Our example in the race of life could well be our elder brother, even the
 Lord. As a small boy, he provided a watchword: "Wist ye not that I must be
 about my Father's business?" ([Luke
-2:49](https://www.lds.org/scriptures/nt/luke/2.49?lang=eng#48).) As a grown
-man he taught by example compassion, love, obedience, sacrifice, and devotion.
-To you and to me his summons is still the same: "Come, follow me."
+2:49](/scriptures/nt/luke/2.49?lang=eng#48).) As a grown man he taught by
+example compassion, love, obedience, sacrifice, and devotion. To you and to me
+his summons is still the same: "Come, follow me."
 
 One who listened and who followed was the Mormon missionary Randall Ellsworth,
 about whom you may have read in your daily newspaper or watched on the
@@ -206,11 +205,13 @@ life's race. Then, as mortality ends, we shall hear the plaudit from our
 Eternal Judge, "Well done, thou good and faithful servant: thou hast been
 faithful over a few things, I will make thee ruler over many things: enter
 thou into the joy of thy lord." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).)
+25:21](/scriptures/nt/matt/25.21?lang=eng#20).)
 
 Each will then have completed his journey, not to a nebulous "ANYWHERE," but
 to his heavenly home--even eternal life in the celestial kingdom of God.
 
 May such be our goal and our reward is my prayer, in the name of Jesus Christ.
 Amen.
+
+## References
 

@@ -16,8 +16,7 @@ through Joseph Smith, the Prophet:
 "And let the work of the gathering be not in haste, nor by flight; but let it
 be done as it shall be counseled by the elders of the church at the
 conferences, according to the knowledge which they receive from time to time."
-([D&amp;C 58:56](https://www.lds.org/scriptures/dc-
-testament/dc/58.56?lang=eng#55).)
+([D&amp;C 58:56](/scriptures/dc-testament/dc/58.56?lang=eng#55).)
 
 It is just six months ago today that I received my new calling, and although
 time does not permit me to tell you about the many wonderful blessings that
@@ -59,8 +58,8 @@ must yet hear the message of the restored gospel and accept it through the
 Holy Spirit of conversion.
 
 "And ye are called to bring to pass the gathering of mine elect; for mine
-elect hear my voice and harden not their hearts." ([D&amp;C
-29:7](https://www.lds.org/scriptures/dc-testament/dc/29.7?lang=eng#6).)
+elect hear my voice and harden not their hearts." ([D&amp;C 29:7](/scriptures
+/dc-testament/dc/29.7?lang=eng#6).)
 
 This is a gigantic task for all those involved in building our Heavenly
 Father's kingdom. But I have heard so many remarkable testimonies about
@@ -131,4 +130,6 @@ My beloved brothers and sisters, I pray that the Lord may inspire us to be
 valiant. That means that we also have the personal courage to go on a rescue
 mission by sharing the gospel with others, bringing the Holy Ghost into their
 lives. And I do so humbly in the name of Jesus Christ. Amen.
+
+## References
 

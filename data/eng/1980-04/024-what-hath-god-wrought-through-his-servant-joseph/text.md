@@ -18,16 +18,14 @@ spoken in many ways and under many circumstances.
 First, he spoke out of the experience of his incomparable vision of the Father
 and the Son, whom he both saw and heard. They were individual personages of
 form and substance, of body and voice. They spoke with him as one man speaketh
-with another (see [Ex.
-33:11](https://www.lds.org/scriptures/ot/ex/33.11?lang=eng#10)).
+with another (see [Ex. 33:11](/scriptures/ot/ex/33.11?lang=eng#10)).
 
 Secondly, as the instrumentality through which came the Book of Mormon, Joseph
 Smith has borne witness of the Savior to all who have read and will read that
 volume. Its constantly recurring message is a testimony of the promised
 Messiah who came to the earth and gave his life for the sins of all mankind,
 and who rose triumphant from the grave as "the first fruits of them that
-slept" ([1 Cor.
-15:20](https://www.lds.org/scriptures/nt/1-cor/15.20?lang=eng#19)).
+slept" ([1 Cor. 15:20](/scriptures/nt/1-cor/15.20?lang=eng#19)).
 
 Thirdly, Joseph Smith bore witness of the living Lord through the Church
 organized here on these grounds. This church carries the name of Jesus Christ,
@@ -45,8 +43,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God"
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21)).
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21)).
 
 Finally, he sealed that testimony with his life's blood, dying a martyr to the
 truths of which he had spoken concerning the Redeemer of the world, in whose
@@ -61,7 +58,7 @@ Christ, I picture in imagination that April 6 of 1830. The few who believed in
 Joseph's mission gathered on that day, which was designated by divine
 revelation as "being one thousand eight hundred and thirty years since the
 coming of our Lord and Savior Jesus Christ in the flesh" ([D&amp;C
-20:1](https://www.lds.org/scriptures/dc-testament/dc/20.1?lang=eng#0)).
+20:1](/scriptures/dc-testament/dc/20.1?lang=eng#0)).
 
 One wonders whether any of that group, other than Joseph Smith who saw with
 prophetic vision, had any idea of the greatness of the thing they were
@@ -85,8 +82,8 @@ head. A decision was made to move to Kirtland, Ohio.
 Here they built their beautiful temple, and in its prayer of dedication the
 young prophet invoked the powers of heaven that the Church "may come forth out
 of the wilderness of darkness, and shine forth fair as the moon, clear as the
-sun, and terrible as an army with banners" ([D&amp;C
-109:73](https://www.lds.org/scriptures/dc-testament/dc/109.73?lang=eng#72)).
+sun, and terrible as an army with banners" ([D&amp;C 109:73](/scriptures/dc-
+testament/dc/109.73?lang=eng#72)).
 
 But the fulfillment of that prayer would not come quickly. The peace of
 Kirtland was shattered by insults, financial distress, the tarring and
@@ -103,8 +100,7 @@ bitter winter of 1838-39 he was imprisoned in the cold, miserable basement
 cell of a Missouri jail, the victim of a false arrest.
 
 Bereft, destitute, lonely, he cried out in those circumstances: "O God, where
-art thou?" ([D&amp;C 121:1](https://www.lds.org/scriptures/dc-
-testament/dc/121.1?lang=eng#0)).
+art thou?" ([D&amp;C 121:1](/scriptures/dc-testament/dc/121.1?lang=eng#0)).
 
 In the revealed response to that prayer came these remarkable words of
 prophecy:
@@ -114,8 +110,7 @@ in derision, and hell shall rage against thee;
 
 "While the pure in heart, and the wise, and the noble, and the virtuous, shall
 seek counsel, and authority, and blessings constantly from under thy hand"
-([D&amp;C 122:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/122.1-2?lang=eng#0)).
+([D&amp;C 122:1-2](/scriptures/dc-testament/dc/122.1-2?lang=eng#0)).
 
 My brethren and sisters, we who are here today and you who are assembled in
 the Tabernacle on Temple Square in Salt Lake City--all of us who are a part of
@@ -130,8 +125,7 @@ John Taylor, who was then with him, summed up his work in these words: "Joseph
 Smith, the Prophet and Seer of the Lord, has done more, save Jesus only, for
 the salvation of men in this world, than any other man that ever lived in it.
 ... He lived great, and he died great in the eyes of God and his people"
-([D&amp;C 135:3](https://www.lds.org/scriptures/dc-
-testament/dc/135.3?lang=eng#2)).
+([D&amp;C 135:3](/scriptures/dc-testament/dc/135.3?lang=eng#2)).
 
 Standing at the crest of a century and a half since the organization of the
 Church, we are inclined to exclaim, "What hath God wrought through the
@@ -139,13 +133,14 @@ instrumentality of his servant Joseph!"
 
 I give you my testimony of him. He was the ordained servant of God, this
 Joseph raised up to become the mighty prophet of this dispensation--"a seer, a
-translator, a prophet, an apostle of Jesus Christ" ([D&amp;C
-21:1](https://www.lds.org/scriptures/dc-testament/dc/21.1?lang=eng#0)). To
-that witness I add another word of testimony, that President Spencer W.
-Kimball, with us today, is Joseph Smith's rightful successor, the prophet of
-our time, the President of the church which was organized here 150 years ago
-today. Its history has been heroic. It stands today a tower of strength, an
-anchor of certainty in an unsettled world. Its future is secure as the church
-and kingdom of God, of which I bear solemn witness in the sacred name of Jesus
-Christ, amen.
+translator, a prophet, an apostle of Jesus Christ" ([D&amp;C 21:1](/scriptures
+/dc-testament/dc/21.1?lang=eng#0)). To that witness I add another word of
+testimony, that President Spencer W. Kimball, with us today, is Joseph Smith's
+rightful successor, the prophet of our time, the President of the church which
+was organized here 150 years ago today. Its history has been heroic. It stands
+today a tower of strength, an anchor of certainty in an unsettled world. Its
+future is secure as the church and kingdom of God, of which I bear solemn
+witness in the sacred name of Jesus Christ, amen.
+
+## References
 

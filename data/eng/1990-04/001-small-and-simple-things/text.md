@@ -4,9 +4,8 @@ Brothers and sisters, I suppose you are as amazed as I am with the monumental
 world events that we see unfolding. As Latter-day Saints, we recognize the
 hand of God working to bring about his purposes in the earth. We know that the
 "stone [that] was cut out without hands" will continue to roll forth to fill
-the whole earth. (See [Dan.
-2:34-35](https://www.lds.org/scriptures/ot/dan/2.34-35?lang=eng#33).) These
-are exciting times to be alive.
+the whole earth. (See [Dan. 2:34-35](/scriptures/ot/dan/2.34-35?lang=eng#33).)
+These are exciting times to be alive.
 
 We observe vast, sweeping world events; however, we must remember that the
 purposes of the Lord in our personal lives generally are fulfilled through the
@@ -21,7 +20,7 @@ brought to pass; and small means in many instances doth confound the wise.
 "And the Lord God doth work by means to bring about his great and eternal
 purposes; and by very small means the Lord doth confound the wise and bringeth
 about the salvation of many souls." ([Alma
-37:6-7](https://www.lds.org/scriptures/bofm/alma/37.6-7?lang=eng#5).)
+37:6-7](/scriptures/bofm/alma/37.6-7?lang=eng#5).)
 
 To illustrate, let me read from a letter written by one of our faithful sister
 missionaries, serving in South America, to her brother who had just received
@@ -51,8 +50,7 @@ setting and the six people in attendance, as we sing hymns, pray, and partake
 of the sacrament, I wonder if that isn't closer to Christ's church than at
 home. But I guess it is really the same. The things that matter, the true
 elements of the gospel as Christ taught in 3 Nephi 11, are the same here as
-they are in Orem, Utah." [[3 Ne.
-11](https://www.lds.org/scriptures/bofm/3-ne/11.title?lang=eng)]
+they are in Orem, Utah." [[3 Ne. 11](/scriptures/bofm/3-ne/11?lang=eng)]
 
 The Lord has graciously provided the means for conversion even in the most
 simple and humble of circumstances. Unfortunately, some of us look beyond the
@@ -115,7 +113,7 @@ Brother Rapier's experience touched deeply each one of us who was there. After
 the fourth sacrament meeting, my mind reflected upon the words of the Lord:
 "Wherefore, be not weary in well-doing, for ye are laying the foundation of a
 great work. And out of small things proceedeth that which is great." ([D&amp;C
-64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32)).
+64:33](/scriptures/dc-testament/dc/64.33?lang=eng#32)).
 
 Another example of the importance of small things comes from Elder and Sister
 Jackson, missionaries serving in Guyana: "When we first arrived in the mission
@@ -216,19 +214,16 @@ hold our attention. Noting that the Liahona worked by faith, Alma stated,
 "Nevertheless, because those miracles were worked by small means ... [the people
 of Lehi] were slothful, and forgot to exercise their faith and diligence and
 then those marvelous works ceased, and they did not progress in their
-journey." ([Alma
-37:41](https://www.lds.org/scriptures/bofm/alma/37.41?lang=eng#40).)
+journey." ([Alma 37:41](/scriptures/bofm/alma/37.41?lang=eng#40).)
 
 Is our journey sometimes impeded when we forget the importance of small
-things? (See [Alma
-37:46](https://www.lds.org/scriptures/bofm/alma/37.46?lang=eng#45).) Do we
+things? (See [Alma 37:46](/scriptures/bofm/alma/37.46?lang=eng#45).) Do we
 realize that small events and choices determine the direction of our lives
 just as small helms determine the direction of great ships? (See [James
-3:4](https://www.lds.org/scriptures/nt/james/3.4?lang=eng#3); [D&amp;C
-123:16](https://www.lds.org/scriptures/dc-testament/dc/123.16?lang=eng#15).)
-Are we ever like Naaman, the leper, expecting some great thing before we will
-pay attention to prophets? (See [2 Kgs.
-5:1-14](https://www.lds.org/scriptures/ot/2-kgs/5.1-14?lang=eng#0).)
+3:4](/scriptures/nt/james/3.4?lang=eng#3); [D&amp;C 123:16](/scriptures/dc-
+testament/dc/123.16?lang=eng#15).) Are we ever like Naaman, the leper,
+expecting some great thing before we will pay attention to prophets? (See [2
+Kgs. 5:1-14](/scriptures/ot/2-kgs/5.1-14?lang=eng#0).)
 
 May the Lord bless each one of us to follow the counsel of our prophets. We
 need to have family and personal prayers; study the scriptures, particularly
@@ -240,4 +235,6 @@ promise that our lives will be filled with peace and joy.
 I know that Jesus Christ lives and that this is his Church. I testify that his
 gospel will continue to fill the world as it continues to fill the hearts of
 the individual members of the Church. In the name of Jesus Christ, amen.
+
+## References
 

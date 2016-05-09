@@ -2,10 +2,9 @@
 
 "The elders ... of this church" said the Lord, "shall teach the principles of my
 gospel, which are in the Bible and the Book of Mormon" ([D&amp;C
-41:12](https://www.lds.org/scriptures/dc-testament/dc/41.12?lang=eng#11)).
-Pursuant to this commandment, I shall make a few remarks concerning
-repentance, upon which much emphasis is placed in both the Bible and the Book
-of Mormon.
+41:12](/scriptures/dc-testament/dc/41.12?lang=eng#11)). Pursuant to this
+commandment, I shall make a few remarks concerning repentance, upon which much
+emphasis is placed in both the Bible and the Book of Mormon.
 
 True repentance, followed by baptism and the _laying on of hands for the gift
 of the Holy Ghost,_ brings forgiveness. Such repentance is impossible without
@@ -19,8 +18,7 @@ Alma, crying unto his people pursuant to the directions of an angel, said:
 "And not many days hence the Son of God. ...
 
 "... cometh to redeem those who will be baptized unto repentance, through faith
-on his name." ([Alma
-9:25-27](https://www.lds.org/scriptures/bofm/alma/9.25-27?lang=eng#24).)
+on his name." ([Alma 9:25-27](/scriptures/bofm/alma/9.25-27?lang=eng#24).)
 
 Alma did not say that Jesus would redeem everybody. The promise was restricted
 to those who, because of their faith in Christ, would repent and be baptized.
@@ -34,16 +32,14 @@ world; for the Lord God hath spoken it.
 the intent of [this] ... sacrifice [being] to bring about the bowels of mercy,
 which overpowereth justice, and bringeth about _means unto men_ that they may
 have faith unto repentance." ([Alma 34:8,
-15](https://www.lds.org/scriptures/bofm/alma/34.8%2C15?lang=eng#7); italics
-added.)
+15](/scriptures/bofm/alma/34.8,15?lang=eng#7); italics added.)
 
 In this way mercy satisfies "the demands of justice, and encircles them [that
 is, those who have faith unto repentance] in the arms of safety, while he that
 exercises no faith unto repentance is exposed to the whole law of the demands
 of justice; therefore _only unto him that has faith unto repentance_ is
 brought about the great and eternal plan of redemption" ([Alma
-34:16](https://www.lds.org/scriptures/bofm/alma/34.16?lang=eng#15); italics
-added).
+34:16](/scriptures/bofm/alma/34.16?lang=eng#15); italics added).
 
 Jesus, speaking to his Nephite disciples, said:
 
@@ -53,16 +49,14 @@ their garments in my blood, because of their faith, and the repentance of all
 their sins, and their faithfulness unto the end.
 
 "Now this is the commandment: Repent, all ye ends of the earth, and come unto
-me." ([3 Ne.
-27:19-20](https://www.lds.org/scriptures/bofm/3-ne/27.19-20?lang=eng#18).)
+me." ([3 Ne. 27:19-20](/scriptures/bofm/3-ne/27.19-20?lang=eng#18).)
 
 It is this repentance, based upon faith in Jesus and "hope through the
 atonement of Christ and the power of his resurrection, to be raised unto life
 eternal" of which I speak today (see [Moro.
-7:41](https://www.lds.org/scriptures/bofm/moro/7.41?lang=eng#40)). This is the
-repentance which would lead men to a solution of all their problems,
-individual and collective. This is the repentance to which Jesus Christ, our
-Lord, calls us.
+7:41](/scriptures/bofm/moro/7.41?lang=eng#40)). This is the repentance which
+would lead men to a solution of all their problems, individual and collective.
+This is the repentance to which Jesus Christ, our Lord, calls us.
 
 To one of his modern disciples he said:
 
@@ -81,8 +75,7 @@ spirit--and would that I might not drink the bitter cup, and shrink--"
 
 He continues, "Nevertheless, glory be to the Father, and I partook and
 finished my preparations unto the children of men." ([D&amp;C
-19:15-19](https://www.lds.org/scriptures/dc-
-testament/dc/19.15-19?lang=eng#14).)
+19:15-19](/scriptures/dc-testament/dc/19.15-19?lang=eng#14).)
 
 That is, Jesus endured the suffering required to satisfy the demands of
 justice, thereby making it possible for men, through faith and repentance, to
@@ -90,28 +83,26 @@ be cleansed from their sins.
 
 "Wherefore," he continued, "I command you again to repent, lest I humble you
 with my almighty power; and that you confess your sins, lest you suffer these
-punishments of which I have spoken" ([D&amp;C
-19:20](https://www.lds.org/scriptures/dc-testament/dc/19.20?lang=eng#19)).
+punishments of which I have spoken" ([D&amp;C 19:20](/scriptures/dc-
+testament/dc/19.20?lang=eng#19)).
 
 Foremost among men's sins are the refusal to accept Jesus Christ for what he
 is and the rejection of his gospel as the true way of life.
 
 "In nothing doth man offend God," said the Lord, "or against none is his wrath
 kindled, save those who confess not his hand in all things, and obey not his
-commandments" ([D&amp;C 59:21](https://www.lds.org/scriptures/dc-
+commandments" ([D&amp;C 59:21](/scriptures/dc-
 testament/dc/59.21?lang=eng#20)).
 
 "They seek not the Lord to establish his righteousness, but every man walketh
 in his own way, and after the image of his own God, whose image is in the
 likeness of the world, and whose substance is that of an idol, which waxeth
 old and shall perish in Babylon, even Babylon the great, which shall fall"
-([D&amp;C 1:16](https://www.lds.org/scriptures/dc-
-testament/dc/1.16?lang=eng#15)).
+([D&amp;C 1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15)).
 
 As to the nature of repentance, the Lord has said, "By this ye may know if a
 man repenteth of his sins--behold, he will confess them and forsake them"
-([D&amp;C 58:43](https://www.lds.org/scriptures/dc-
-testament/dc/58.43?lang=eng#42)).
+([D&amp;C 58:43](/scriptures/dc-testament/dc/58.43?lang=eng#42)).
 
 There doesn't seem to be much uncertainty about the meaning of _forsake._
 However, the requirement to _confess_ is not so universally understood. As a
@@ -151,8 +142,8 @@ Christ, where necessary, may with full confidence seek the Lord's forgiveness
 and go forth in newness of life, relying upon the merits of Christ.
 
 The Lord has said, "He who has repented of his sins, the same is forgiven, and
-I, the Lord, remember them no more" ([D&amp;C
-58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41)).
+I, the Lord, remember them no more" ([D&amp;C 58:42](/scriptures/dc-
+testament/dc/58.42?lang=eng#41)).
 
 As examples of how people feel who--through faith in Jesus and repentance--
 obtain forgiveness, I cite the following examples from the Book of Mormon.
@@ -185,7 +176,7 @@ himself in the flesh; wherefore, go to, thy faith hath made thee whole.
 "Now, it came to pass that when I had heard these words," says Enos, "I began
 to feel a desire for the welfare of my brethren, the Nephites; wherefore, I
 did pour out my whole soul unto God for them." ([Enos
-1:2-9](https://www.lds.org/scriptures/bofm/enos/1.2-9?lang=eng#1).)
+1:2-9](/scriptures/bofm/enos/1.2-9?lang=eng#1).)
 
 Love and concern for the welfare of one's fellows always fills the heart of
 the redeemed, and peace comes into his heart, as the following incident
@@ -207,7 +198,7 @@ Lord came upon them, and they were filled with joy, having received a
 remission of their sins, and having peace of conscience, because of the
 exceeding faith which they had in Jesus Christ who should come, according to
 the words which king Benjamin had spoken unto them." ([Mosiah
-4:1-3](https://www.lds.org/scriptures/bofm/mosiah/4.1-3?lang=eng#0).)
+4:1-3](/scriptures/bofm/mosiah/4.1-3?lang=eng#0).)
 
 This joy and peace of conscience which comes to one who has received a
 remission of his sins is graphically portrayed in the account Alma gives to
@@ -273,7 +264,7 @@ filled with joy as exceeding as was my pain!
 "Yea, I say unto you, my son, that there could be nothing so exquisite and so
 bitter as were my pains. Yea, and again I say unto you, my son, that on the
 other hand, there can be nothing so exquisite and sweet as was my joy." ([Alma
-36:6-21](https://www.lds.org/scriptures/bofm/alma/36.6-21?lang=eng#5).)
+36:6-21](/scriptures/bofm/alma/36.6-21?lang=eng#5).)
 
 To these witnesses I add my testimony that repentance brings to the soul who
 has faith in the Lord Jesus Christ and his gospel forgiveness, with the
@@ -286,8 +277,10 @@ will give you rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 That we may all, through repentance and by enduring to the end, obtain that
 rest, I humbly plead and pray, in the name of Jesus Christ, amen.
+
+## References
 

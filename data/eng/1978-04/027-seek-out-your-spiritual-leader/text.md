@@ -37,8 +37,7 @@ faithful Israelites' response to Joshua:
 whithersoever thou sendest us, we will go.
 
 "According as we hearkened unto Moses in all things, so will we hearken unto
-thee." ([Josh.
-1:16-17](https://www.lds.org/scriptures/ot/josh/1.16-17?lang=eng#15).)
+thee." ([Josh. 1:16-17](/scriptures/ot/josh/1.16-17?lang=eng#15).)
 
 Sometime ago another man asked, "Do the General Authorities really know what
 is going on in the outlying areas? I am sure that they do not know of these
@@ -96,10 +95,9 @@ concerning _your_ bishop or any other presiding priesthood leader: "And unto
 the bishop of the church, and unto such as God shall appoint and ordain to
 watch over the church and to be elders unto the church, are to have it given
 unto them to discern all those gifts lest there shall be any among you
-professing and yet be not of God." ([D&amp;C
-46:27](https://www.lds.org/scriptures/dc-testament/dc/46.27?lang=eng#26).) It
-is abundantly clear that presiding priesthood leaders are given the gift of
-discernment.
+professing and yet be not of God." ([D&amp;C 46:27](/scriptures/dc-
+testament/dc/46.27?lang=eng#26).) It is abundantly clear that presiding
+priesthood leaders are given the gift of discernment.
 
 Remember that at times your local priesthood leader may truly see things
 differently than you do. Disagreements seem to come over details and methods
@@ -135,4 +133,6 @@ I pray that each of us might be more humble and desirous of receiving and
 obeying counsel. May each of us seek not to counsel the Lord, but seek counsel
 from his hand and from his inspired priesthood leaders, _as it is the same._
 In the name of Jesus Christ, Amen.
+
+## References
 

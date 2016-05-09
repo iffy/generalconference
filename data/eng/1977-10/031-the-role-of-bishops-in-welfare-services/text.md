@@ -15,13 +15,12 @@ and third, the distinction between Church welfare and other types of welfare.
 In December of 1831, before the Church was two years old, the Lord said that
 it is the responsibility of the bishop "to keep the Lord's storehouse; to
 receive the funds of the church" which are to "be consecrated ... to the poor
-and needy." ([D&amp;C 72:10, 12](https://www.lds.org/scriptures/dc-
-testament/dc/72.10%2C12?lang=eng#9).)
+and needy." ([D&amp;C 72:10, 12](/scriptures/dc-
+testament/dc/72.10,12?lang=eng#9).)
 
 Ten months later He added that it is the duty of the bishops to search "after
 the poor [and] administer to their wants by humbling the rich and the proud."
-([D&amp;C 84:112](https://www.lds.org/scriptures/dc-
-testament/dc/84.112?lang=eng#111).)
+([D&amp;C 84:112](/scriptures/dc-testament/dc/84.112?lang=eng#111).)
 
 President Clark thus summarized the bishop's role: "To the bishops is to be
 paid the tithing." He is "to administer all temporal things. ... In his calling
@@ -94,7 +93,7 @@ members of his family having done what they can do to assist him, the Church,
 through Welfare Services, stands ready to see that such members, _who will
 accept the program and work in it to the extent of their ability,_ are cared
 for, each "according to his family, according to his circumstances and his
-wants and needs." ([D&amp;C 51:3](https://www.lds.org/scriptures/dc-
+wants and needs." ([D&amp;C 51:3](/scriptures/dc-
 testament/dc/51.3?lang=eng#2).)
 
 Having determined the need, the bishop must marshall the required resources.
@@ -167,8 +166,7 @@ necessary therefor.
 In the next place, the standard of care has been indicated. The bishop has
 been directed "to keep the Lord's storehouse; to receive the funds of the
 church ... and to administer to [the] wants" of his people. ([D&amp;C
-72:10-11](https://www.lds.org/scriptures/dc-
-testament/dc/72.10-11?lang=eng#9).)
+72:10-11](/scriptures/dc-testament/dc/72.10-11?lang=eng#9).)
 
 To the Church the Lord gave this law:
 
@@ -181,21 +179,20 @@ Lord's storehouse. ...
 
 "And the storehouse shall be kept by the consecrations of the church; and
 widows and orphans shall be provided for, as also the poor." ([D&amp;C 83:2,
-4-6](https://www.lds.org/scriptures/dc-testament/dc/83.2%2C4-6?lang=eng#1).)
+4-6](/scriptures/dc-testament/dc/83.2,4-6?lang=eng#1).)
 
 The Lord has authorized exceptional measures to secure the materials to care
 for these unfortunate members. He has directed the bishop to search "after the
 poor to administer to their wants by humbling the rich and the proud."
-([D&amp;C 84:112](https://www.lds.org/scriptures/dc-
-testament/dc/84.112?lang=eng#111).)
+([D&amp;C 84:112](/scriptures/dc-testament/dc/84.112?lang=eng#111).)
 
 On another occasion He said:
 
 "Wo unto you rich men, that will not give your substance to the poor, for your
 riches will canker your souls; and this shall be your lamentation in the day
 of visitation, and of judgment, and of indignation: The harvest is past, the
-summer is ended, and my soul is not saved!" ([D&amp;C
-56:16](https://www.lds.org/scriptures/dc-testament/dc/56.16?lang=eng#15).)
+summer is ended, and my soul is not saved!" ([D&amp;C 56:16](/scriptures/dc-
+testament/dc/56.16?lang=eng#15).)
 
 Neither in public relief nor in private charity is any duty, restraint, or
 inhibition placed upon the needy recipient of help. He may take and take, and
@@ -205,8 +202,8 @@ unworthy poor:
 "Wo unto you poor men, whose hearts are not broken, whose spirits are not
 contrite, and whose bellies are not satisfied, and whose hands are not stayed
 from laying hold upon other men's goods, whose eyes are full of greediness,
-and who will not labor with your own hands!" ([D&amp;C
-56:17](https://www.lds.org/scriptures/dc-testament/dc/56.17?lang=eng#16).)
+and who will not labor with your own hands!" ([D&amp;C 56:17](/scriptures/dc-
+testament/dc/56.17?lang=eng#16).)
 
 Under the Lord's plan, the reward coming to those who help is not so much that
 a blessing will be added to those helping the poor, as a declaration that
@@ -214,8 +211,7 @@ blessings shall be lost by those who do not help them.
 
 "And remember in all things the poor and the needy, the sick and the
 afflicted, for he that doeth not these things, the same is not my disciple."
-([D&amp;C 52:40](https://www.lds.org/scriptures/dc-
-testament/dc/52.40?lang=eng#39).)
+([D&amp;C 52:40](/scriptures/dc-testament/dc/52.40?lang=eng#39).)
 
 "I prepared all things, and have given unto the children of men to be agents
 unto themselves.
@@ -223,7 +219,7 @@ unto themselves.
 "Therefore, if any man shall take of the abundance which I have made, and
 impart not his portion, according to the law of my gospel, unto the poor and
 the needy, he shall, with the wicked, lift up his eyes in hell, being in
-torment." ([D&amp;C 104:17-18](https://www.lds.org/scriptures/dc-
+torment." ([D&amp;C 104:17-18](/scriptures/dc-
 testament/dc/104.17-18?lang=eng#16).)
 
 But the real end of all help to the poor and the needy, under the Lord's plan,
@@ -240,7 +236,7 @@ shall be theirs.
 shall reward every man, and the poor shall rejoice;
 
 "And their generations shall inherit the earth from generation to generation,
-forever and ever." ([D&amp;C 56:18-20](https://www.lds.org/scriptures/dc-
+forever and ever." ([D&amp;C 56:18-20](/scriptures/dc-
 testament/dc/56.18-20?lang=eng#17).)
 
 The prime duty of help to the poor by the Church is not to bring temporal
@@ -261,4 +257,6 @@ It is my prayer that all bishops and stake presidents will thoroughly inform
 themselves of their duty and carry this great work to its ultimate achievement
 in the redemption of Zion in preparation for the second advent of the Lord.
 This is my prayer, in the name of Jesus Christ. Amen.
+
+## References
 

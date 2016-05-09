@@ -21,7 +21,7 @@ with all thy soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:35-40](https://www.lds.org/scriptures/nt/matt/22.35-40?lang=eng#34).)
+22:35-40](/scriptures/nt/matt/22.35-40?lang=eng#34).)
 
 In the days of our Savior, the Hebrew scriptures were divided into divisions.
 The first five books were called the Law. Another group was called the
@@ -34,20 +34,19 @@ Since the first great commandment is to love the Lord our God, how can we show
 our love for him? We can show our love in our prayers to the Father, given in
 the name of the Son, and also through our worship of those divine Beings. But,
 to become all-inclusive, Jesus said: "If ye love me, keep my commandments."
-([John 14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).) In
-other words, we should "live by every word that proceedeth forth from the
-mouth of God." ([D&amp;C 84:44](https://www.lds.org/scriptures/dc-
-testament/dc/84.44?lang=eng#43).)
+([John 14:15](/scriptures/nt/john/14.15?lang=eng#14).) In other words, we
+should "live by every word that proceedeth forth from the mouth of God."
+([D&amp;C 84:44](/scriptures/dc-testament/dc/84.44?lang=eng#43).)
 
 Our Eternal Father and his Only Begotten Son both have intense, comprehensive,
 and full love for us. They have much greater intelligence and understanding
 than we have, and so their feelings of love go far beyond our capabilities to
 love. The attribute of love is so highly developed in these divine Beings that
 the scriptures state: "God is love." ([1 John
-4:16](https://www.lds.org/scriptures/nt/1-jn/4.16?lang=eng#15).) In fact,
-Deity's transcendent love is above and beyond our deepest feelings and keenest
-conception. At times of great spiritual experience when we feel an abundance
-of the Spirit, we have a greater realization of the magnitude of God's love.
+4:16](/scriptures/nt/1-jn/4.16?lang=eng#15).) In fact, Deity's transcendent
+love is above and beyond our deepest feelings and keenest conception. At times
+of great spiritual experience when we feel an abundance of the Spirit, we have
+a greater realization of the magnitude of God's love.
 
 God is the Father of our spirits. He placed us upon this earth and provided a
 gospel plan of salvation through his Only Begotten Son, thereby making it
@@ -57,13 +56,12 @@ sweetness of love, which surpasses our present understanding.
 
 "... God so loved the world, that he gave his only begotten Son, that whosoever
 believeth in him should not perish, but have everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 Jesus Christ also loved us so much that he freely laid down his life and shed
 his blood for our sins, and also to bring about a universal resurrection.
 "Greater love hath no man than this, that a man lay down his life for his
-friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+friends." ([John 15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 Among the entire human family, there is no example where the principle of love
 was demonstrated as perfectly as was shown in the life of Jesus in Palestine
@@ -88,13 +86,12 @@ prayed unto the Father for them.
 saw the heavens open, and they saw angels descending out of heaven as it were
 in the midst of fire; and they came down and encircled those little ones
 about, and they were encircled about with fire; and the angels did minister
-unto them." ([3 Ne.
-17:21-24](https://www.lds.org/scriptures/bofm/3-ne/17.21-24?lang=eng#20).)
+unto them." ([3 Ne. 17:21-24](/scriptures/bofm/3-ne/17.21-24?lang=eng#20).)
 
 A superb example of Christ's great love is shown when he was hanging on the
 cross in pain and agony nigh unto death. Jesus prayed: "Father, forgive them;
 for they know not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 The central theme and the most dynamic force of the gospel of Jesus Christ is
 love. The Savior taught his apostles:
@@ -103,8 +100,7 @@ love. The Savior taught his apostles:
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33).)
+another." ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33).)
 
 Christ declared that the second great commandment was to love our neighbor as
 ourselves. The Master Teacher knew that it is human nature for all people to
@@ -120,8 +116,7 @@ persecute you;
 "That ye may be the children of your Father which is in heaven: ...
 
 "Be ye therefore perfect, even as your Father which is in heaven is perfect."
-([Matt. 5:44-45,
-48](https://www.lds.org/scriptures/nt/matt/5.44-45%2C48?lang=eng#43).)
+([Matt. 5:44-45, 48](/scriptures/nt/matt/5.44-45,48?lang=eng#43).)
 
 What should be the relationship between husbands and wives, especially if they
 are Latter-day Saints?
@@ -174,4 +169,6 @@ presence of the Eternal Father and his Only Begotten Son to dwell.
 I bear my testimony that the true gospel of our Lord has been restored to
 earth again, and that the Master's church is The Church of Jesus Christ of
 Latter-day Saints. In the name of Jesus Christ. Amen.
+
+## References
 

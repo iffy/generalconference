@@ -144,3 +144,27 @@ _Knowing_ that will allow our faith to flourish, will motivate our continual
 repentance, and will provide the strength to "be steadfast and immovable"
 throughout our mortal journey.[11] In the name of Jesus Christ, amen.
 
+## References
+
+  1. [Moses 1:13](https://www.lds.org/scriptures/pgp/moses/1.13?lang=eng#12); emphasis added.
+
+  2. [Psalm 82:6](https://www.lds.org/scriptures/ot/ps/82.6?lang=eng#5); emphasis added.
+
+  3. [Acts 17:29](https://www.lds.org/scriptures/nt/acts/17.29?lang=eng#28); emphasis added.
+
+  4. [Doctrine and Covenants 76:24](https://www.lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23); emphasis added.
+
+  5. "[The Family: A Proclamation to the World](https://www.lds.org/liahona/2010/11/the-family-a-proclamation-to-the-world.p4?lang=eng)," _Ensign_ or_ Liahona,_ Nov. 2010, 129; emphasis added.
+
+  6. Thomas S. Monson, "[Canaries with Gray on Their Wings](https://www.lds.org/liahona/2010/06/canaries-with-gray-on-their-wings?lang=eng)," _Ensign _or_ Liahona,_ June 2010, 4; emphasis added.
+
+  7. See [Colossians 1:13-15](https://www.lds.org/scriptures/nt/col/1.13-15?lang=eng#12).
+
+  8. "I Am a Child of God," _Hymns,_ no. 301.
+
+  9. See [Malachi 3:2](https://www.lds.org/scriptures/ot/mal/3.2?lang=eng#1).
+
+  10. "How Firm a Foundation," _Hymns,_ no. 85.
+
+  11. [Mosiah 5:15](https://www.lds.org/scriptures/bofm/mosiah/5.15?lang=eng#14).
+

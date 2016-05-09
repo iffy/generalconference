@@ -17,7 +17,7 @@ indeed the work of God.
 One of the best-known parables of the Savior is the story we have come to know
 as the good Samaritan. As related by Luke, a certain lawyer tempted Jesus,
 saying, "Master, what shall I do to inherit eternal life?" ([Luke
-10:25](https://www.lds.org/scriptures/nt/luke/10.25?lang=eng#24).)
+10:25](/scriptures/nt/luke/10.25?lang=eng#24).)
 
 In New Testament times a lawyer was the equivalent of a scribe, who was by
 profession a student and teacher of the law, including the written law of the
@@ -27,23 +27,23 @@ _Lawyer_.)
 This learned man sought either to test the Lord concerning His knowledge of
 the law or to display his own. The Savior responded with a question: "What is
 written in the law? how readest thou?" ([Luke
-10:26](https://www.lds.org/scriptures/nt/luke/10.26?lang=eng#25).)
+10:26](/scriptures/nt/luke/10.26?lang=eng#25).)
 
 The scholar responded, "Thou shalt love the Lord thy God with all thy heart,
 and with all thy soul, and with all thy strength, and with all thy mind; and
 thy neighbour as thyself." ([Luke
-10:27](https://www.lds.org/scriptures/nt/luke/10.27?lang=eng#26).)
+10:27](/scriptures/nt/luke/10.27?lang=eng#26).)
 
 Jesus said unto him, "Thou hast answered right: this do, and thou shalt live."
-([Luke 10:28](https://www.lds.org/scriptures/nt/luke/10.28?lang=eng#27).)
+([Luke 10:28](/scriptures/nt/luke/10.28?lang=eng#27).)
 
 The answer to the inquiry was solicited from his own mouth through the
 questioning of the Lord, who then directed him to live in accordance with what
 he knew. However, the scholar was not satisfied with so simple a response.
 Luke records that the learned man, "willing to justify himself," asked a
 further question of the Lord, "Who is my neighbour?" ([Luke
-10:29](https://www.lds.org/scriptures/nt/luke/10.29?lang=eng#28).) And Jesus
-answered by telling a story:
+10:29](/scriptures/nt/luke/10.29?lang=eng#28).) And Jesus answered by telling
+a story:
 
 "A certain man went down from Jerusalem to Jericho, and fell among thieves,
 which stripped him of his raiment, and wounded him, and departed, leaving him
@@ -64,7 +64,7 @@ him on his own beast, and brought him to an inn, and took care of him.
 "And on the morrow when he departed, he took out two pence, and gave them to
 the host, and said unto him, Take care of him; and whatsoever thou spendest
 more, when I come again, I will repay thee." ([Luke
-10:30-35](https://www.lds.org/scriptures/nt/luke/10.30-35?lang=eng#29).)
+10:30-35](/scriptures/nt/luke/10.30-35?lang=eng#29).)
 
 Understanding of this parable is improved when we recall that the work of the
 ministering in the sanctuary was assigned to the tribe of Levi. The Levite's
@@ -85,11 +85,11 @@ repaid.
 
 The Savior then asked a further question of the scholar, "Which now of these
 three, thinkest thou, was neighbour unto him that fell among the thieves?"
-([Luke 10:36](https://www.lds.org/scriptures/nt/luke/10.36?lang=eng#35).)
+([Luke 10:36](/scriptures/nt/luke/10.36?lang=eng#35).)
 
 The lawyer was caught in his own cunning, but accurately answered, "He that
 shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
-([Luke 10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).)
+([Luke 10:37](/scriptures/nt/luke/10.37?lang=eng#36).)
 
 This was the second time in this brief conversation the scholar of religious
 law was instructed by the Savior to live in accordance with his knowledge of
@@ -133,7 +133,7 @@ and money may be necessary. Such healing care should not be given out of duty,
 but rendered out of a full heart. Indeed, even the lawyer seemed to catch the
 spirit of the Lord's teachings in the parable, because it was he who defined a
 neighbor as "he that shewed mercy." ([Luke
-10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).)
+10:37](/scriptures/nt/luke/10.37?lang=eng#36).)
 
 Most of us are acquainted with someone who is spiritually ill or wounded,
 lying on the roadside half dead, and who desperately needs the assistance of a
@@ -155,4 +155,6 @@ blessings of heaven, but the living of them.
 I pray that each of us will develop a receptive and understanding heart that
 will motivate us to seek out a less-active brother or sister and truly become
 a good Latter-day Samaritan. In the name of Jesus Christ, amen.
+
+## References
 

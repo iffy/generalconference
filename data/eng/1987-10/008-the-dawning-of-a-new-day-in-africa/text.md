@@ -2,21 +2,20 @@
 
 The prophets proclaim and the scriptures sweetly certify that all men and
 women, if they are to achieve true happiness, must "come unto Christ, and be
-perfected in him" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31)). Indeed,
-that is the very purpose of The Church of Jesus Christ of Latter-day Saints--
-to invite, encourage, and assist all of God's children, both living and dead,
-to come to Christ and "lay hold upon every good gift" ([Moro.
-10:30](https://www.lds.org/scriptures/bofm/moro/10.30?lang=eng#29)), that "ye
-may receive a remission of your sins, and be filled with the Holy Ghost, that
-ye may be numbered with my people who are of the house of Israel" ([3 Ne.
-30:2](https://www.lds.org/scriptures/bofm/3-ne/30.2?lang=eng#1)).
+perfected in him" ([Moro. 10:32](/scriptures/bofm/moro/10.32?lang=eng#31)).
+Indeed, that is the very purpose of The Church of Jesus Christ of Latter-day
+Saints--to invite, encourage, and assist all of God's children, both living
+and dead, to come to Christ and "lay hold upon every good gift" ([Moro.
+10:30](/scriptures/bofm/moro/10.30?lang=eng#29)), that "ye may receive a
+remission of your sins, and be filled with the Holy Ghost, that ye may be
+numbered with my people who are of the house of Israel" ([3 Ne.
+30:2](/scriptures/bofm/3-ne/30.2?lang=eng#1)).
 
 That is why we do missionary work. That divine purpose explains why the risen
 Savior proclaimed to his chosen Apostles that they, after receiving the Holy
 Ghost, should be witnesses unto him "both in Jerusalem and in all Judea, and
 in Samaria, and unto the uttermost part of the earth" ([Acts
-1:8](https://www.lds.org/scriptures/nt/acts/1.8?lang=eng#7)).
+1:8](/scriptures/nt/acts/1.8?lang=eng#7)).
 
 That phrase, "unto the uttermost part of the earth," was very much in my mind
 a few weeks ago as I was privileged to accompany Elder Marvin J. Ashton of the
@@ -57,7 +56,7 @@ which should be taught among them ...
 unbelieving, and go on to destruction, but that they might receive the word
 with joy, and as a branch be grafted into the true vine, that they might enter
 into the rest of the Lord their God" ([Alma
-16:16-17](https://www.lds.org/scriptures/bofm/alma/16.16-17?lang=eng#15)).
+16:16-17](/scriptures/bofm/alma/16.16-17?lang=eng#15)).
 
 Our black African brothers and sisters truly "receive the word with joy."
 Anxious to learn and quick to understand, attentive and responsive,
@@ -87,10 +86,9 @@ many lands.
 I testify they are not there by chance. As part of God's great and grand
 design for growth, they have been placed on the frontiers of the Church by
 divine providence, to serve as "nursing fathers" and "nursing mothers" ([1 Ne.
-21:23](https://www.lds.org/scriptures/bofm/1-ne/21.23?lang=eng#22))--foci of
-strength around which the Church can grow. They are the right people at the
-right place and at the right time in history. Theirs is a mission of love and
-service.
+21:23](/scriptures/bofm/1-ne/21.23?lang=eng#22))--foci of strength around
+which the Church can grow. They are the right people at the right place and at
+the right time in history. Theirs is a mission of love and service.
 
 Increasingly, they are being joined by wonderful missionaries, many of them
 retired couples from North America and Europe, rich in Church experience and
@@ -102,29 +100,27 @@ The bursting of the gospel light upon Africa is a great manifestation and
 testimony of God's love for all of his children. In the words of the Nephite
 prophet Ammon, He is "mindful of every people, whatsoever land they may be in;
 yea, he numbereth his people, and his bowels of mercy are over all the earth"
-([Alma 26:37](https://www.lds.org/scriptures/bofm/alma/26.37?lang=eng#36)).
+([Alma 26:37](/scriptures/bofm/alma/26.37?lang=eng#36)).
 
 We know from the testimony of Peter that "God is no respecter of persons:
 
 "But in every nation he that feareth him, and worketh righteousness, is
 accepted with him" ([Acts
-10:34-35](https://www.lds.org/scriptures/nt/acts/10.34-35?lang=eng#33)).
+10:34-35](/scriptures/nt/acts/10.34-35?lang=eng#33)).
 
 Nephi recorded that "the Lord esteemeth all flesh in one; he that is righteous
-is favored of God" ([1 Ne.
-17:35](https://www.lds.org/scriptures/bofm/1-ne/17.35?lang=eng#34)), for "he
-doeth that which is good among the children of men; and he doeth nothing save
-it be plain unto the children of men; and he inviteth them _all_ to come unto
-him and partake of his goodness; and he denieth _none_ that come unto him,
-black and white, bond and free, male and female; ... and _all_ are alike unto
-God" ([2 Ne.
-26:33](https://www.lds.org/scriptures/bofm/2-ne/26.33?lang=eng#32); italics
-added).
+is favored of God" ([1 Ne. 17:35](/scriptures/bofm/1-ne/17.35?lang=eng#34)),
+for "he doeth that which is good among the children of men; and he doeth
+nothing save it be plain unto the children of men; and he inviteth them _all_
+to come unto him and partake of his goodness; and he denieth _none_ that come
+unto him, black and white, bond and free, male and female; ... and _all_ are
+alike unto God" ([2 Ne. 26:33](/scriptures/bofm/2-ne/26.33?lang=eng#32);
+italics added).
 
 "He gathereth his children from the four quarters of the earth; and he
 numbereth his sheep, and they know him; and there shall be one fold and one
 shepherd; and he shall feed his sheep, and in him they shall find pasture" ([1
-Ne. 22:25](https://www.lds.org/scriptures/bofm/1-ne/22.25?lang=eng#24)).
+Ne. 22:25](/scriptures/bofm/1-ne/22.25?lang=eng#24)).
 
 The gleaning and gathering of the children of God in Africa is just beginning.
 In the words of the Prophet Joseph, it will go forward "boldly, nobly, and
@@ -132,4 +128,6 @@ independent, till ... [the truth of God has] swept every country, and sounded in
 every ear, till the purposes of God shall be accomplished, and the Great
 Jehovah shall say the work is done" (_History of the Church,_ 4:540). Of that
 I humbly testify in the sacred name of Jesus Christ, amen.
+
+## References
 

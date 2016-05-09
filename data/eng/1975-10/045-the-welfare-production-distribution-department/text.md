@@ -1,4 +1,4 @@
-# The Welfare Production-Distribution Department
+# The Welfare Production-Distribution Department*
 
 The traditional Welfare Department was the forerunner of the Production-
 Distribution Department of Welfare Services. As in the past, efforts today in
@@ -16,7 +16,7 @@ Saint families. This will contribute to developing a Zion society like that of
 Enoch. Quoting from Moses, we read: "And the Lord called his people _Z_ION,
 because they were of one heart and one mind, and dwelt in righteousness; and
 there was no poor among them." ([Moses
-7:18](https://www.lds.org/scriptures/pgp/moses/7.18?lang=eng#17).)
+7:18](/scriptures/pgp/moses/7.18?lang=eng#17).)
 
 To foster the economic self-sufficiency of the Latter-day Saint families,
 fathers and mothers, priesthood and Relief Society leaders are encouraged
@@ -191,6 +191,4 @@ for these needs of our people--"What doth it profit?" This work is the core--
 the heart of the gospel of Jesus Christ. In the name of Jesus Christ. Amen.
 
 ## References
-
-  1.  (_excerpts only_)
 

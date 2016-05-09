@@ -96,7 +96,7 @@ the earth, and cried mightily, saying:
 "O God, Aaron hath told me that there is a God; and if there is a God, and if
 thou art God, wilt thou make thyself known unto me, and I will give away all
 my sins to know thee. ..." ([Alma
-22:15-18](https://www.lds.org/scriptures/bofm/alma/22.15-18?lang=eng#14).)
+22:15-18](/scriptures/bofm/alma/22.15-18?lang=eng#14).)
 
 There is a great host of Aaronic Priesthood bearers who would give away all
 their sins, they would give away all that the world would offer, and they
@@ -108,4 +108,6 @@ and that we have living prophets upon the earth.
 During those twenty years I have watched our beloved prophet and the Council
 of the Twelve come in, I know these are inspired men, these are holy men; they
 are prophets. I so testify in the name of Jesus Christ. Amen.
+
+## References
 

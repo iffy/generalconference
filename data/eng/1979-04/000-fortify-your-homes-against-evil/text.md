@@ -165,16 +165,16 @@ That the inspired plan was the Lord's is shown in his declarations to us:
 
 "For behold," he says, "this is my work and my glory--to bring to pass the
 immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 In Hebrews we read this: "Marriage is honourable in all, and the bed
 undefiled; but whoremongers and adulterers God will judge" ([Heb.
-13:4](https://www.lds.org/scriptures/nt/heb/13.4?lang=eng#3)).
+13:4](/scriptures/nt/heb/13.4?lang=eng#3)).
 
 Thus our Lord, who "is the same yesterday, today, and forever" ([Morm.
-9:9](https://www.lds.org/scriptures/bofm/morm/9.9?lang=eng#8)), has throughout
-all the ages reiterated these requirements of the adults who follow his
-ordained plan and sire and bear children.
+9:9](/scriptures/bofm/morm/9.9?lang=eng#8)), has throughout all the ages
+reiterated these requirements of the adults who follow his ordained plan and
+sire and bear children.
 
 The oft-quoted scriptures given in the early days of this gospel dispensation
 have been a basic instruction from the beginning of time and will continue to
@@ -184,8 +184,8 @@ be until the end of time. He commands,
 which are organized, that teach them not to understand the doctrine of
 repentance, faith in Christ the Son of the living God, and of baptism and the
 gift of the Holy Ghost by the laying on of the hands, when eight years old,
-the sin be upon the heads of the parents" ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24)).
+the sin be upon the heads of the parents" ([D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24)).
 
 I would emphasize that eight years of age. We don't wait until they are young
 adults or till they are nearly grown to teach them these laws. They should
@@ -198,16 +198,15 @@ greater.
 
 The Lord continues his advice to the parents in Zion, and he says, "And they
 shall also teach their children to pray, and to walk uprightly before the
-Lord" ([D&amp;C 68:28](https://www.lds.org/scriptures/dc-
-testament/dc/68.28?lang=eng#27)).
+Lord" ([D&amp;C 68:28](/scriptures/dc-testament/dc/68.28?lang=eng#27)).
 
 We must realize that this commandment does not cover prayer only but all the
 doctrines of the Church and the whole way of life.
 
 The command to teach the children seems to be of equal power with the command
 to sire and to bear children. "Multiply, and replenish the earth, and subdue
-it" ([Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27)) was
-the directive given in the Garden of Eden.
+it" ([Gen. 1:28](/scriptures/ot/gen/1.28?lang=eng#27)) was the directive given
+in the Garden of Eden.
 
 Selfishness is an element that breaks and corrodes and destroys marriages as
 it destroys lives and all that is good. It is an act of extreme selfishness
@@ -298,4 +297,6 @@ love of God.
 May the Lord bless us all in our homes and families as we strive to draw
 nearer to him and keep his commandments, I humbly pray, my beloved brothers
 and sisters, in the name of Jesus Christ, amen.
+
+## References
 

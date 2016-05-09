@@ -63,9 +63,9 @@ never intended that this should be a narrow, parochial work. John the
 Revelator "saw another angel fly in the midst of heaven, having the
 everlasting gospel to preach unto them that dwell on the earth, and to every
 nation, and kindred, and tongue, and people" ([Rev.
-14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5)). That angel has
-come. His name is Moroni. His is a voice speaking from the dust, bringing
-another witness of the living reality of the Lord Jesus Christ.
+14:6](/scriptures/nt/rev/14.6?lang=eng#5)). That angel has come. His name is
+Moroni. His is a voice speaking from the dust, bringing another witness of the
+living reality of the Lord Jesus Christ.
 
 We have not as yet carried the gospel to every nation, kindred, tongue, and
 people. But we have made great strides. We have gone wherever we are permitted
@@ -85,19 +85,19 @@ its resources and its people. Caleb represented the tribe of Judah, Joshua the
 tribe of Ephraim. The twelve of them went into the land of Canaan. They found
 it to be fruitful. They were gone forty days. They brought back with them some
 of "the firstripe grapes" as evidence of the productivity of the land ([Num.
-13:20](https://www.lds.org/scriptures/ot/num/13.20?lang=eng#19)).
+13:20](/scriptures/ot/num/13.20?lang=eng#19)).
 
 They came before Moses and Aaron and all the congregation of the children of
 Israel, and they said concerning the land of Canaan, "Surely it floweth with
 milk and honey; and this is the fruit of it" ([Num.
-13:27](https://www.lds.org/scriptures/ot/num/13.27?lang=eng#26)).
+13:27](/scriptures/ot/num/13.27?lang=eng#26)).
 
 But ten of the spies were victims of their own doubts and fears. They gave a
 negative report of the numbers and stature of the Canaanites. They concluded
 that "they are stronger than we" ([Num.
-13:31](https://www.lds.org/scriptures/ot/num/13.31?lang=eng#30)). They
-compared themselves as grasshoppers to the giants they had seen in the land.
-They were the victims of their own timidity.
+13:31](/scriptures/ot/num/13.31?lang=eng#30)). They compared themselves as
+grasshoppers to the giants they had seen in the land. They were the victims of
+their own timidity.
 
 Then Joshua and Caleb stood before the people and said, "The land, which we
 passed through to search it, is an exceeding good land.
@@ -108,7 +108,7 @@ us; a land which floweth with milk and honey.
 "Only rebel not ye against the Lord, neither fear ye the people of the land;
 for they are bread for us: their defence is departed from them, and the Lord
 is with us: fear them not" ([Num.
-14:7-9](https://www.lds.org/scriptures/ot/num/14.7-9?lang=eng#6)).
+14:7-9](/scriptures/ot/num/14.7-9?lang=eng#6)).
 
 But the people were more willing to believe the ten doubters than to believe
 Caleb and Joshua.
@@ -119,9 +119,8 @@ with doubt and fear should pass away. The scripture records that "those men
 that did bring up the evil report upon the land, died by the plague before the
 Lord.
 
-"But Joshua ... and Caleb ... , which were of the men that went to search the
-land, lived still" ([Num.
-14:37-38](https://www.lds.org/scriptures/ot/num/14.37-38?lang=eng#36)). They
+"But Joshua ... and Caleb ..., which were of the men that went to search the land,
+lived still" ([Num. 14:37-38](/scriptures/ot/num/14.37-38?lang=eng#36)). They
 were the only ones of that group who survived through those four decades of
 wandering and who had the privilege of entering the promised land concerning
 which they had reported in a positive manner.
@@ -133,10 +132,10 @@ which really are of no consequence. With doubt concerning its past, they have
 no vision concerning its future.
 
 Well was it said of old, "Where there is no vision, the people perish" ([Prov.
-29:18](https://www.lds.org/scriptures/ot/prov/29.18?lang=eng#17)). There is no
-place in this work for those who believe only in the gospel of doom and gloom.
-The gospel is good news. It is a message of triumph. It is a cause to be
-embraced with enthusiasm.
+29:18](/scriptures/ot/prov/29.18?lang=eng#17)). There is no place in this work
+for those who believe only in the gospel of doom and gloom. The gospel is good
+news. It is a message of triumph. It is a cause to be embraced with
+enthusiasm.
 
 The Lord never said that there would not be troubles. Our people have known
 afflictions of every sort as those who have opposed this work have come upon
@@ -147,8 +146,7 @@ senior. But the pain of the wounds of that persecution was tempered by the
 declaration of Moroni, who told him that God had a work for him to do; and
 that his name "should be had for good and evil among all nations, kindreds,
 and tongues, or that it should be both good and evil spoken of among all
-people" ([JS--H
-1:33](https://www.lds.org/scriptures/pgp/js-h/1.33?lang=eng#32)).
+people" ([JS--H 1:33](/scriptures/pgp/js-h/1.33?lang=eng#32)).
 
 He and his brother Hyrum were murdered June 27, 1844. Their enemies thought
 that this would end the cause for which they had given their lives. Little did
@@ -209,8 +207,8 @@ ten thousand more ..." (Oscar Hammerstein, _Stouthearted Men_).
 When the Lord took Moses unto Himself, He then said to Joshua, "Be strong and
 of a good courage; be not afraid, neither be thou dismayed: for the Lord thy
 God is with thee whithersoever thou goest" ([Josh.
-1:9](https://www.lds.org/scriptures/ot/josh/1.9?lang=eng#8)). This is His
-work. Never forget it. Embrace it with enthusiasm and affection.
+1:9](/scriptures/ot/josh/1.9?lang=eng#8)). This is His work. Never forget it.
+Embrace it with enthusiasm and affection.
 
 Let us not be afraid. Jesus is our leader, our strength, and our king.
 
@@ -222,13 +220,13 @@ the greatest cause on earth. Its doctrine came of revelation. Its priesthood
 came of divine bestowal. Another witness has been added to its testimony of
 the Lord Jesus Christ. It is literally the little stone of Daniel's dream
 which was "cut out of the mountain without hands [to] roll forth, until it has
-filled the whole earth" ([D&amp;C 65:2](https://www.lds.org/scriptures/dc-
+filled the whole earth" ([D&amp;C 65:2](/scriptures/dc-
 testament/dc/65.2?lang=eng#1)).
 
 "Brethren, shall we not go on in so great a cause? Go forward and not
 backward. Courage, brethren; and on, on to the victory!" ([D&amp;C
-128:22](https://www.lds.org/scriptures/dc-testament/dc/128.22?lang=eng#21)).
-So wrote the Prophet Joseph in a psalm of faith.
+128:22](/scriptures/dc-testament/dc/128.22?lang=eng#21)). So wrote the Prophet
+Joseph in a psalm of faith.
 
 How glorious is the past of this great cause. It is filled with heroism,
 courage, boldness, and faith. How wondrous is the present as we move forward
@@ -260,11 +258,13 @@ said: "Now have we not reason to rejoice? Yea, I say unto you, there never
 were men that had so great reason to rejoice as we, since the world began;
 yea, and my joy is carried away, even unto boasting in my God; for he has all
 power, all wisdom, and all understanding" ([Alma
-26:35](https://www.lds.org/scriptures/bofm/alma/26.35?lang=eng#34)).
+26:35](/scriptures/bofm/alma/26.35?lang=eng#34)).
 
 I invite every one of you, wherever you may be as members of this church, to
 stand on your feet and with a song in your heart move forward, living the
 gospel, loving the Lord, and building the kingdom. Together we shall stay the
 course and keep the faith, the Almighty being our strength. In the name of
 Jesus Christ, amen.
+
+## References
 

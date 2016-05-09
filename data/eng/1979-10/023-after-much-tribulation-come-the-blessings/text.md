@@ -29,16 +29,15 @@ reward of the same is greater in the kingdom of heaven.
 "Ye cannot behold with your natural eyes, for the present time, the design of
 your God concerning those things which shall ... follow after much tribulation.
 
-"For after much tribulation come the blessings" ([D&amp;C
-58:2-4](https://www.lds.org/scriptures/dc-testament/dc/58.2-4?lang=eng#1)).
+"For after much tribulation come the blessings" ([D&amp;C 58:2-4](/scriptures
+/dc-testament/dc/58.2-4?lang=eng#1)).
 
 As we pass through this mortal probation, we accrue many experiences. It is in
 these experiences that we are often beset with problems, challenges,
 adversities, afflictions, trials, and tribulations. The Lord said to the
 Prophet Joseph Smith, after a period of great afflictions, "Know thou, my son,
 that all these things shall give thee experience, and shall be for thy good"
-([D&amp;C 122:7](https://www.lds.org/scriptures/dc-
-testament/dc/122.7?lang=eng#6)).
+([D&amp;C 122:7](/scriptures/dc-testament/dc/122.7?lang=eng#6)).
 
 The early members and leaders of the Church suffered many afflictions,
 challenges, and trials. Many gave their very lives for their belief and
@@ -54,8 +53,8 @@ for it shall be sweet unto them;
 
 "Thou shalt live together in love, insomuch that thou shalt weep for the loss
 of them that die, and more especially for those that have not hope of a
-glorious resurrection" ([D&amp;C 42:46-47, 45](https://www.lds.org/scriptures
-/dc-testament/dc/42.46-47%2C45?lang=eng#45)).
+glorious resurrection" ([D&amp;C 42:46-47, 45](/scriptures/dc-
+testament/dc/42.46-47,45?lang=eng#45)).
 
 Recently I attended a funeral service for a faithful member of the Church on
 the remote island of Vava'u in Tonga. This good brother had been loved by the
@@ -141,8 +140,8 @@ We are promised, as the Prophet Joseph was promised, "Thine adversity and
 thine afflictions shall be but a small moment;
 
 "And then, if thou endure it well, God shall exalt thee on high; thou shalt
-triumph over all thy foes" ([D&amp;C 121:7-8](https://www.lds.org/scriptures
-/dc-testament/dc/121.7-8?lang=eng#6)).
+triumph over all thy foes" ([D&amp;C 121:7-8](/scriptures/dc-
+testament/dc/121.7-8?lang=eng#6)).
 
 Orson F. Whitney said: "No pain that we suffer, no trial that we experience is
 wasted. It ministers to our education, to the development of such qualities as
@@ -163,11 +162,12 @@ part of his education.
 suffered;
 
 "'And being made perfect, he became the author of eternal salvation unto all
-them that obey him.' ([Heb.
-5:8-9](https://www.lds.org/scriptures/nt/heb/5.8-9?lang=eng#7).)" (_Faith
-Precedes the Miracle,_ p. 98).
+them that obey him.' ([Heb. 5:8-9](/scriptures/nt/heb/5.8-9?lang=eng#7).)"
+(_Faith Precedes the Miracle,_ p. 98).
 
 May we endure our trials and sufferings well. May we look to the Lord with
 faith in his righteous judgment is my prayer, and I ask it humbly in the name
 of Jesus Christ, amen.
+
+## References
 

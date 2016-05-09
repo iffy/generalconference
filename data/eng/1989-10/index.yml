@@ -1,395 +1,323 @@
 items:
-- article_id: '03245_000_003'
-  item: '000'
+- item: 1
   key: 000-to-the-elderly-in-the-church
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: to-the-elderly-in-the-church
   speaker: Ezra Taft Benson
   title: To the Elderly in the Church
   url: https://www.lds.org/general-conference/1989/10/to-the-elderly-in-the-church?lang=eng
   year: 1989
-- article_id: '03245_000_004'
-  item: '001'
+- item: 2
   key: 001-continuous-revelation
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: continuous-revelation
   speaker: James E. Faust
   title: Continuous Revelation
   url: https://www.lds.org/general-conference/1989/10/continuous-revelation?lang=eng
   year: 1989
-- article_id: '03245_000_005'
-  item: '002'
+- item: 3
   key: 002-remembrance-and-gratitude
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: remembrance-and-gratitude
   speaker: Henry B. Eyring
   title: Remembrance and Gratitude
   url: https://www.lds.org/general-conference/1989/10/remembrance-and-gratitude?lang=eng
   year: 1989
-- article_id: '03245_000_006'
-  item: '003'
+- item: 4
   key: 003-revelation-in-a-changing-world
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: revelation-in-a-changing-world
   speaker: Boyd K. Packer
   title: Revelation in a Changing World
   url: https://www.lds.org/general-conference/1989/10/revelation-in-a-changing-world?lang=eng
   year: 1989
-- article_id: '03245_000_007'
-  item: '004'
+- item: 5
   key: 004-the-golden-thread-of-choice
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-golden-thread-of-choice
   speaker: Howard W. Hunter
   title: The Golden Thread of Choice
   url: https://www.lds.org/general-conference/1989/10/the-golden-thread-of-choice?lang=eng
   year: 1989
-- article_id: 03245_000_008
-  item: '005'
+- item: 6
   key: 005-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Gordon B. Hinckley
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1989/10/the-sustaining-of-church-officers?lang=eng
   year: 1989
-- article_id: 03245_000_009
-  item: '006'
+- item: 7
   key: 006-woman-of-infinite-worth
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: woman-of-infinite-worth
   speaker: Russell M. Nelson
   title: "Woman\u2014Of Infinite Worth"
   url: https://www.lds.org/general-conference/1989/10/woman-of-infinite-worth?lang=eng
   year: 1989
-- article_id: '03245_000_010'
-  item: '007'
+- item: 8
   key: 007-love
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: love
   speaker: W. Eugene Hansen
   title: Love
   url: https://www.lds.org/general-conference/1989/10/love?lang=eng
   year: 1989
-- article_id: '03245_000_011'
-  item: 008
+- item: 9
   key: 008-he-loved-them-unto-the-end
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: he-loved-them-unto-the-end
   speaker: Jeffrey R. Holland
-  title: "\u201CHe Loved Them unto the End\u201D"
+  title: '"He Loved Them unto the End"'
   url: https://www.lds.org/general-conference/1989/10/he-loved-them-unto-the-end?lang=eng
   year: 1989
-- article_id: '03245_000_012'
-  item: 009
+- item: 10
   key: 009-an-eye-single-to-the-glory-of-god
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: an-eye-single-to-the-glory-of-god
   speaker: Marlin K. Jensen
-  title: "\u201CAn Eye Single to the Glory of God\u201D"
+  title: '"An Eye Single to the Glory of God"'
   url: https://www.lds.org/general-conference/1989/10/an-eye-single-to-the-glory-of-god?lang=eng
   year: 1989
-- article_id: '03245_000_013'
-  item: '010'
+- item: 11
   key: 010-overcoming-adversity
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: overcoming-adversity
   speaker: Carlos H. Amado
   title: Overcoming Adversity
   url: https://www.lds.org/general-conference/1989/10/overcoming-adversity?lang=eng
   year: 1989
-- article_id: '03245_000_014'
-  item: '011'
+- item: 12
   key: 011-learning-to-recognize-answers-to-prayer
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: learning-to-recognize-answers-to-prayer
   speaker: Richard G. Scott
   title: Learning to Recognize Answers to Prayer
   url: https://www.lds.org/general-conference/1989/10/learning-to-recognize-answers-to-prayer?lang=eng
   year: 1989
-- article_id: '03245_000_015'
-  item: '012'
+- item: 13
   key: 012-duties-rewards-and-risks
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: duties-rewards-and-risks
   speaker: M. Russell Ballard
   title: Duties, Rewards, and Risks
   url: https://www.lds.org/general-conference/1989/10/duties-rewards-and-risks?lang=eng
   year: 1989
-- article_id: '03245_000_016'
-  item: '013'
+- item: 14
   key: 013-stalwart-and-brave-we-stand
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: stalwart-and-brave-we-stand
   speaker: Marvin J. Ashton
-  title: "\u201CStalwart and Brave We Stand\u201D"
+  title: '"Stalwart and Brave We Stand"'
   url: https://www.lds.org/general-conference/1989/10/stalwart-and-brave-we-stand?lang=eng
   year: 1989
-- article_id: '03245_000_017'
-  item: '014'
+- item: 15
   key: 014-chastity-the-source-of-true-manhood
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: chastity-the-source-of-true-manhood
   speaker: Robert L. Backman
-  title: 'Chastity: The Source of True Manhood'
+  title: Chastity:The Source of True Manhood
   url: https://www.lds.org/general-conference/1989/10/chastity-the-source-of-true-manhood?lang=eng
   year: 1989
-- article_id: 03245_000_018
-  item: '015'
+- item: 16
   key: 015-the-value-of-preparation
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-value-of-preparation
   speaker: Ben B. Banks
   title: The Value of Preparation
   url: https://www.lds.org/general-conference/1989/10/the-value-of-preparation?lang=eng
   year: 1989
-- article_id: 03245_000_019
-  item: '016'
+- item: 17
   key: 016-good-memories-are-real-blessings
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: good-memories-are-real-blessings
   speaker: Joe J. Christensen
   title: Good Memories Are Real Blessings
   url: https://www.lds.org/general-conference/1989/10/good-memories-are-real-blessings?lang=eng
   year: 1989
-- article_id: '03245_000_020'
-  item: '017'
+- item: 18
   key: 017-the-service-that-counts
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-service-that-counts
   speaker: Thomas S. Monson
   title: The Service That Counts
   url: https://www.lds.org/general-conference/1989/10/the-service-that-counts?lang=eng
   year: 1989
-- article_id: '03245_000_021'
-  item: 018
+- item: 19
   key: 018-the-scourge-of-illicit-drugs
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-scourge-of-illicit-drugs
   speaker: Gordon B. Hinckley
   title: The Scourge of Illicit Drugs
   url: https://www.lds.org/general-conference/1989/10/the-scourge-of-illicit-drugs?lang=eng
   year: 1989
-- article_id: '03245_000_022'
-  item: 019
+- item: 20
   key: 019-an-ensign-to-the-nations
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: an-ensign-to-the-nations
   speaker: Gordon B. Hinckley
   title: An Ensign to the Nations
   url: https://www.lds.org/general-conference/1989/10/an-ensign-to-the-nations?lang=eng
   year: 1989
-- article_id: '03245_000_023'
-  item: '020'
+- item: 21
   key: 020-the-sacrament-and-the-sacrifice
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-sacrament-and-the-sacrifice
   speaker: David B. Haight
   title: "The Sacrament\u2014and the Sacrifice"
   url: https://www.lds.org/general-conference/1989/10/the-sacrament-and-the-sacrifice?lang=eng
   year: 1989
-- article_id: '03245_000_024'
-  item: '021'
+- item: 22
   key: 021-winding-up-our-spiritual-clocks
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: winding-up-our-spiritual-clocks
   speaker: Dean L. Larsen
   title: Winding Up Our Spiritual Clocks
   url: https://www.lds.org/general-conference/1989/10/winding-up-our-spiritual-clocks?lang=eng
   year: 1989
-- article_id: '03245_000_025'
-  item: '022'
+- item: 23
   key: 022-modern-pioneers
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: modern-pioneers
   speaker: Dallin H. Oaks
   title: Modern Pioneers
   url: https://www.lds.org/general-conference/1989/10/modern-pioneers?lang=eng
   year: 1989
-- article_id: '03245_000_026'
-  item: '023'
+- item: 24
   key: 023-windows
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: windows
   speaker: Thomas S. Monson
   title: Windows
   url: https://www.lds.org/general-conference/1989/10/windows?lang=eng
   year: 1989
-- article_id: '03245_000_027'
-  item: '024'
+- item: 25
   key: 024-the-peaceable-followers-of-christ
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-peaceable-followers-of-christ
   speaker: L. Tom Perry
-  title: "\u201CThe Peaceable Followers of Christ\u201D"
+  title: '"The Peaceable Followers of Christ"'
   url: https://www.lds.org/general-conference/1989/10/the-peaceable-followers-of-christ?lang=eng
   year: 1989
-- article_id: 03245_000_028
-  item: '025'
+- item: 26
   key: 025-running-your-marathon
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: running-your-marathon
   speaker: Joseph B. Wirthlin
   title: Running Your Marathon
   url: https://www.lds.org/general-conference/1989/10/running-your-marathon?lang=eng
   year: 1989
-- article_id: 03245_000_029
-  item: '026'
+- item: 27
   key: 026-a-lifetime-of-learning
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-lifetime-of-learning
   speaker: Victor L. Brown
   title: A Lifetime of Learning
   url: https://www.lds.org/general-conference/1989/10/a-lifetime-of-learning?lang=eng
   year: 1989
-- article_id: '03245_000_030'
-  item: '027'
+- item: 28
   key: 027-the-summer-of-the-lambs
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-summer-of-the-lambs
   speaker: Jayne B. Malan
   title: The Summer of the Lambs
   url: https://www.lds.org/general-conference/1989/10/the-summer-of-the-lambs?lang=eng
   year: 1989
-- article_id: '03245_000_031'
-  item: 028
+- item: 29
   key: 028-keep-the-faith
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: keep-the-faith
   speaker: F. Arthur Kay
   title: Keep the Faith
   url: https://www.lds.org/general-conference/1989/10/keep-the-faith?lang=eng
   year: 1989
-- article_id: '03245_000_032'
-  item: 029
+- item: 30
   key: 029-look-to-the-savior
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: look-to-the-savior
-  speaker: Elder John Sonnenberg
+  speaker: John Sonnenberg
   title: Look to the Savior
   url: https://www.lds.org/general-conference/1989/10/look-to-the-savior?lang=eng
   year: 1989
-- article_id: '03245_000_033'
-  item: '030'
+- item: 31
   key: 030-murmur-not
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: murmur-not
   speaker: Neal A. Maxwell
-  title: "\u201CMurmur Not\u201D"
+  title: '"Murmur Not"'
   url: https://www.lds.org/general-conference/1989/10/murmur-not?lang=eng
   year: 1989
-- article_id: '03245_000_034'
-  item: '031'
+- item: 32
   key: 031-a-word-of-benediction
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-word-of-benediction
   speaker: Gordon B. Hinckley
   title: A Word of Benediction
   url: https://www.lds.org/general-conference/1989/10/a-word-of-benediction?lang=eng
   year: 1989
-- article_id: '03245_000_035'
-  item: '032'
+- item: 33
   key: 032-identity-of-a-young-woman
   month: 10
-  session_id: womens
-  session_title: "General Women\u2019s Meeting"
+  session_title: General Women's Meeting
   slug: identity-of-a-young-woman
   speaker: Elaine L. Jack
   title: Identity of a Young Woman
   url: https://www.lds.org/general-conference/1989/10/identity-of-a-young-woman?lang=eng
   year: 1989
-- article_id: '03245_000_036'
-  item: '033'
+- item: 34
   key: 033-remember-him
   month: 10
-  session_id: womens
-  session_title: "General Women\u2019s Meeting"
+  session_title: General Women's Meeting
   slug: remember-him
   speaker: Joanne B. Doxey
-  title: "\u201CRemember Him\u201D"
+  title: '"Remember Him"'
   url: https://www.lds.org/general-conference/1989/10/remember-him?lang=eng
   year: 1989
-- article_id: '03245_000_037'
-  item: '034'
+- item: 35
   key: 034-follow-him
   month: 10
-  session_id: womens
-  session_title: "General Women\u2019s Meeting"
+  session_title: General Women's Meeting
   slug: follow-him
   speaker: Michaelene P. Grassli
   title: Follow Him
   url: https://www.lds.org/general-conference/1989/10/follow-him?lang=eng
   year: 1989
-- article_id: 03245_000_038
-  item: '035'
+- item: 36
   key: 035-rise-to-the-stature-of-the-divine-within-you
   month: 10
-  session_id: womens
-  session_title: "General Women\u2019s Meeting"
+  session_title: General Women's Meeting
   slug: rise-to-the-stature-of-the-divine-within-you
   speaker: Gordon B. Hinckley
   title: Rise to the Stature of the Divine within You

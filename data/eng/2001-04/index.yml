@@ -1,416 +1,340 @@
 items:
-- article_id: PD10029247_000_003
-  item: '002'
-  key: 002-the-work-goes-on
+- item: 1
+  key: 000-the-work-goes-on
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-work-goes-on
   speaker: Gordon B. Hinckley
   title: The Work Goes On
   url: https://www.lds.org/general-conference/2001/04/the-work-goes-on?lang=eng
   year: 2001
-- article_id: PD10029247_000_004
-  item: '004'
-  key: 004-first-things-first
+- item: 2
+  key: 001-first-things-first
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: first-things-first
   speaker: Richard G. Scott
   title: First Things First
   url: https://www.lds.org/general-conference/2001/04/first-things-first?lang=eng
   year: 2001
-- article_id: PD10029247_000_005
-  item: '005'
-  key: 005-to-walk-humbly-with-thy-god
+- item: 3
+  key: 002-to-walk-humbly-with-thy-god
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: to-walk-humbly-with-thy-god
   speaker: Marlin K. Jensen
-  title: "\u201CTo Walk Humbly with Thy God\u201D"
+  title: '"To Walk Humbly with Thy God"'
   url: https://www.lds.org/general-conference/2001/04/to-walk-humbly-with-thy-god?lang=eng
   year: 2001
-- article_id: PD10029247_000_006
-  item: '007'
-  key: 007-a-god-of-miracles
+- item: 4
+  key: 003-a-god-of-miracles
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: a-god-of-miracles
   speaker: Sydney S. Reynolds
   title: A God of Miracles
   url: https://www.lds.org/general-conference/2001/04/a-god-of-miracles?lang=eng
   year: 2001
-- article_id: PD10029247_000_007
-  item: 008
-  key: 008-witnesses-unto-me
+- item: 5
+  key: 004-witnesses-unto-me
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: witnesses-unto-me
   speaker: Jeffrey R. Holland
-  title: "\u201CWitnesses unto Me\u201D"
+  title: '"Witnesses unto Me"'
   url: https://www.lds.org/general-conference/2001/04/witnesses-unto-me?lang=eng
   year: 2001
-- article_id: PD10029247_000_008
-  item: '010'
-  key: 010-compassion
+- item: 6
+  key: 005-compassion
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: compassion
   speaker: Thomas S. Monson
   title: Compassion
   url: https://www.lds.org/general-conference/2001/04/compassion?lang=eng
   year: 2001
-- article_id: PD10029247_000_009
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2001/04/the-sustaining-of-church-officers?lang=eng
   year: 2001
-- article_id: PD10029247_000_010
-  item: '015'
-  key: 015-church-auditing-department-report
+- item: 8
+  key: 007-church-auditing-department-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: church-auditing-department-report
   speaker: Wesley L. Jones
   title: Church Auditing Department Report
   url: https://www.lds.org/general-conference/2001/04/church-auditing-department-report?lang=eng
   year: 2001
-- article_id: PD10029247_000_011
-  item: '016'
-  key: 016-statistical-report-2000
+- item: 9
+  key: 008-statistical-report-2000
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-2000
   speaker: F. Michael Watson
   title: Statistical Report, 2000
   url: https://www.lds.org/general-conference/2001/04/statistical-report-2000?lang=eng
   year: 2001
-- article_id: PD10029247_000_012
-  item: '017'
-  key: 017-the-touch-of-the-masters-hand
+- item: 10
+  key: 009-the-touch-of-the-masters-hand
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-touch-of-the-masters-hand
   speaker: Boyd K. Packer
-  title: "\u201CThe Touch of the Master\u2019s Hand\u201D"
+  title: '"The Touch of the Master''s Hand"'
   url: https://www.lds.org/general-conference/2001/04/the-touch-of-the-masters-hand?lang=eng
   year: 2001
-- article_id: PD10029247_000_013
-  item: 018
-  key: 018-couple-missionaries-a-time-to-serve
+- item: 11
+  key: 010-couple-missionaries-a-time-to-serve
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: couple-missionaries-a-time-to-serve
   speaker: Robert D. Hales
-  title: 'Couple Missionaries: A Time to Serve'
+  title: Couple Missionaries:A Time to Serve
   url: https://www.lds.org/general-conference/2001/04/couple-missionaries-a-time-to-serve?lang=eng
   year: 2001
-- article_id: PD10029247_000_014
-  item: 019
-  key: 019-david-a-future-missionary
+- item: 12
+  key: 011-david-a-future-missionary
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: david-a-future-missionary
   speaker: Darwin B. Christenson
   title: David, a Future Missionary
   url: https://www.lds.org/general-conference/2001/04/david-a-future-missionary?lang=eng
   year: 2001
-- article_id: PD10029247_000_015
-  item: '021'
-  key: 021-to-bear-testimony-of-mine-only-begotten
+- item: 13
+  key: 012-to-bear-testimony-of-mine-only-begotten
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: to-bear-testimony-of-mine-only-begotten
   speaker: L. Aldin Porter
-  title: "\u201CTo Bear Testimony of Mine Only Begotten\u201D"
+  title: '"To Bear Testimony of Mine Only Begotten"'
   url: https://www.lds.org/general-conference/2001/04/to-bear-testimony-of-mine-only-begotten?lang=eng
   year: 2001
-- article_id: PD10029247_000_016
-  item: '022'
-  key: 022-personal-preparation-for-temple-blessings
+- item: 14
+  key: 013-personal-preparation-for-temple-blessings
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: personal-preparation-for-temple-blessings
   speaker: Russell M. Nelson
   title: Personal Preparation for Temple Blessings
   url: https://www.lds.org/general-conference/2001/04/personal-preparation-for-temple-blessings?lang=eng
   year: 2001
-- article_id: PD10029247_000_017
-  item: '024'
-  key: 024-building-a-community-of-saints
+- item: 15
+  key: 014-building-a-community-of-saints
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: building-a-community-of-saints
   speaker: L. Tom Perry
   title: Building a Community of Saints
   url: https://www.lds.org/general-conference/2001/04/building-a-community-of-saints?lang=eng
   year: 2001
-- article_id: PD10029247_000_018
-  item: 028
-  key: 028-watch-with-me
+- item: 16
+  key: 015-watch-with-me
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: watch-with-me
   speaker: Henry B. Eyring
-  title: "\u201CWatch with Me\u201D"
+  title: '"Watch with Me"'
   url: https://www.lds.org/general-conference/2001/04/watch-with-me?lang=eng
   year: 2001
-- article_id: PD10029247_000_019
-  item: 029
-  key: 029-you-can-t-pet-a-rattlesnake
+- item: 17
+  key: 016-you-can-t-pet-a-rattlesnake
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: you-can-t-pet-a-rattlesnake
   speaker: David E. Sorensen
-  title: "You Can\u2019t Pet a Rattlesnake"
+  title: You Can't Pet a Rattlesnake
   url: https://www.lds.org/general-conference/2001/04/you-can-t-pet-a-rattlesnake?lang=eng
   year: 2001
-- article_id: PD10029247_000_020
-  item: '030'
-  key: 030-priesthood-power
+- item: 18
+  key: 017-priesthood-power
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: priesthood-power
   speaker: John H. Groberg
   title: Priesthood Power
   url: https://www.lds.org/general-conference/2001/04/priesthood-power?lang=eng
   year: 2001
-- article_id: PD10029247_000_021
-  item: '031'
-  key: 031-them-that-honour-me-i-will-honour
+- item: 19
+  key: 018-them-that-honour-me-i-will-honour
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: them-that-honour-me-i-will-honour
   speaker: James E. Faust
-  title: "\u201CThem That Honour Me I Will Honour\u201D"
+  title: '"Them That Honour Me I Will Honour"'
   url: https://www.lds.org/general-conference/2001/04/them-that-honour-me-i-will-honour?lang=eng
   year: 2001
-- article_id: PD10029247_000_022
-  item: '033'
-  key: 033-to-the-rescue
+- item: 20
+  key: 019-to-the-rescue
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: to-the-rescue
   speaker: Thomas S. Monson
   title: To the Rescue
   url: https://www.lds.org/general-conference/2001/04/to-the-rescue?lang=eng
   year: 2001
-- article_id: PD10029247_000_023
-  item: '034'
-  key: 034-the-perpetual-education-fund
+- item: 21
+  key: 020-the-perpetual-education-fund
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-perpetual-education-fund
   speaker: Gordon B. Hinckley
   title: The Perpetual Education Fund
   url: https://www.lds.org/general-conference/2001/04/the-perpetual-education-fund?lang=eng
   year: 2001
-- article_id: PD10029247_000_024
-  item: 039
-  key: 039-born-again
+- item: 22
+  key: 021-born-again
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: born-again
   speaker: James E. Faust
   title: Born Again
   url: https://www.lds.org/general-conference/2001/04/born-again?lang=eng
   year: 2001
-- article_id: PD10029247_000_025
-  item: '040'
-  key: 040-plow-in-hope
+- item: 23
+  key: 022-plow-in-hope
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: plow-in-hope
   speaker: Neal A. Maxwell
-  title: "\u201CPlow in Hope\u201D"
+  title: '"Plow in Hope"'
   url: https://www.lds.org/general-conference/2001/04/plow-in-hope?lang=eng
   year: 2001
-- article_id: PD10029247_000_026
-  item: '041'
-  key: 041-an-invitation-with-promise
+- item: 24
+  key: 023-an-invitation-with-promise
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: an-invitation-with-promise
   speaker: Keith B. McMullin
   title: An Invitation with Promise
   url: https://www.lds.org/general-conference/2001/04/an-invitation-with-promise?lang=eng
   year: 2001
-- article_id: PD10029247_000_027
-  item: '043'
-  key: 043-sacrifice-an-eternal-investment
+- item: 25
+  key: 024-sacrifice-an-eternal-investment
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: sacrifice-an-eternal-investment
   speaker: Carol B. Thomas
-  title: 'Sacrifice: An Eternal Investment'
+  title: Sacrifice:An Eternal Investment
   url: https://www.lds.org/general-conference/2001/04/sacrifice-an-eternal-investment?lang=eng
   year: 2001
-- article_id: PD10029247_000_028
-  item: '044'
-  key: 044-his-word-ye-shall-receive
+- item: 26
+  key: 025-his-word-ye-shall-receive
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: his-word-ye-shall-receive
   speaker: M. Russell Ballard
-  title: "\u201CHis Word Ye Shall Receive\u201D"
+  title: '"His Word Ye Shall Receive"'
   url: https://www.lds.org/general-conference/2001/04/his-word-ye-shall-receive?lang=eng
   year: 2001
-- article_id: PD10029247_000_029
-  item: '046'
-  key: 046-the-miracle-of-faith
+- item: 27
+  key: 026-the-miracle-of-faith
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-miracle-of-faith
   speaker: Gordon B. Hinckley
   title: The Miracle of Faith
   url: https://www.lds.org/general-conference/2001/04/the-miracle-of-faith?lang=eng
   year: 2001
-- article_id: PD10029247_000_030
-  item: '050'
-  key: 050-gratitude-and-service
+- item: 28
+  key: 027-gratitude-and-service
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: gratitude-and-service
   speaker: David B. Haight
   title: Gratitude and Service
   url: https://www.lds.org/general-conference/2001/04/gratitude-and-service?lang=eng
   year: 2001
-- article_id: PD10029247_000_031
-  item: '051'
-  key: 051-the-law-of-the-fast
+- item: 29
+  key: 028-the-law-of-the-fast
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-law-of-the-fast
   speaker: Joseph B. Wirthlin
   title: The Law of the Fast
   url: https://www.lds.org/general-conference/2001/04/the-law-of-the-fast?lang=eng
   year: 2001
-- article_id: PD10029247_000_032
-  item: '052'
-  key: 052-united-in-love-and-testimony
+- item: 30
+  key: 029-united-in-love-and-testimony
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: united-in-love-and-testimony
   speaker: John K. Carmack
   title: United in Love and Testimony
   url: https://www.lds.org/general-conference/2001/04/united-in-love-and-testimony?lang=eng
   year: 2001
-- article_id: PD10029247_000_033
-  item: '054'
-  key: 054-enhancing-our-temple-experience
+- item: 31
+  key: 030-enhancing-our-temple-experience
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: enhancing-our-temple-experience
   speaker: L. Lionel Kendrick
   title: Enhancing Our Temple Experience
   url: https://www.lds.org/general-conference/2001/04/enhancing-our-temple-experience?lang=eng
   year: 2001
-- article_id: PD10029247_000_034
-  item: '055'
-  key: 055-building-the-kingdom
+- item: 32
+  key: 031-building-the-kingdom
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: building-the-kingdom
   speaker: Bruce D. Porter
   title: Building the Kingdom
   url: https://www.lds.org/general-conference/2001/04/building-the-kingdom?lang=eng
   year: 2001
-- article_id: PD10029247_000_035
-  item: '056'
-  key: 056-focus-and-priorities
+- item: 33
+  key: 032-focus-and-priorities
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: focus-and-priorities
   speaker: Dallin H. Oaks
   title: Focus and Priorities
   url: https://www.lds.org/general-conference/2001/04/focus-and-priorities?lang=eng
   year: 2001
-- article_id: PD10029247_000_036
-  item: '057'
-  key: 057-good-bye-for-another-season
+- item: 34
+  key: 033-good-bye-for-another-season
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: good-bye-for-another-season
   speaker: Gordon B. Hinckley
   title: Good-bye for Another Season
   url: https://www.lds.org/general-conference/2001/04/good-bye-for-another-season?lang=eng
   year: 2001
-- article_id: PD10029247_000_037
-  item: '060'
-  key: 060-your-celestial-guide
+- item: 35
+  key: 034-your-celestial-guide
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: your-celestial-guide
   speaker: Sharon G. Larsen
   title: Your Celestial Guide
   url: https://www.lds.org/general-conference/2001/04/your-celestial-guide?lang=eng
   year: 2001
-- article_id: PD10029247_000_038
-  item: '062'
-  key: 062-developing-our-talent-for-spirituality
+- item: 36
+  key: 035-developing-our-talent-for-spirituality
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: developing-our-talent-for-spirituality
   speaker: Carol B. Thomas
   title: Developing Our Talent for Spirituality
   url: https://www.lds.org/general-conference/2001/04/developing-our-talent-for-spirituality?lang=eng
   year: 2001
-- article_id: PD10029247_000_039
-  item: '064'
-  key: 064-a-comforter-a-guide-a-testifier
+- item: 37
+  key: 036-a-comforter-a-guide-a-testifier
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: a-comforter-a-guide-a-testifier
   speaker: Margaret D. Nadauld
   title: A Comforter, a Guide, a Testifier
   url: https://www.lds.org/general-conference/2001/04/a-comforter-a-guide-a-testifier?lang=eng
   year: 2001
-- article_id: PD10029247_000_040
-  item: '066'
-  key: 066-how-can-i-become-the-woman-of-whom-i-dream
+- item: 38
+  key: 037-how-can-i-become-the-woman-of-whom-i-dream
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: how-can-i-become-the-woman-of-whom-i-dream
   speaker: Gordon B. Hinckley

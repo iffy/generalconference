@@ -96,3 +96,5 @@ All in favor, please manifest it. Contrary, if there be any, by the same sign.
 It seems, President Kimball, that the voting has been unanimous in favor of
 these officers and General Authorities.
 
+## References
+

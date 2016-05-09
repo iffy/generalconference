@@ -10,14 +10,14 @@ Benjamin of old said, so plead I for each one of us. I quote:
 
 "Open your ears that ye may hear, and your hearts that ye may understand, and
 your minds that the mysteries of God may be unfolded to your view" ([Mosiah
-2:9](https://www.lds.org/scriptures/bofm/mosiah/2.9?lang=eng#8)).
+2:9](/scriptures/bofm/mosiah/2.9?lang=eng#8)).
 
 It is my hope that we will be taught by the Spirit tonight.
 
-In [Moro. 10:30](https://www.lds.org/scriptures/bofm/moro/10.30?lang=eng#29)
-we read, "And again I would exhort you that ye would come unto Christ, and lay
-hold upon every good gift, and _touch not the evil gift, nor the unclean
-thing"_ (emphasis added).
+In [Moro. 10:30](/scriptures/bofm/moro/10.30?lang=eng#29) we read, "And again
+I would exhort you that ye would come unto Christ, and lay hold upon every
+good gift, and _touch not the evil gift, nor the unclean thing"_ (emphasis
+added).
 
 My thoughts will center on our sometimes innocent involvement in one of the
 terrible, unclean things referred to by this ancient prophet. Satan, the very
@@ -66,8 +66,8 @@ is where we keep garbage.
 The Doctrine and Covenants gives a warning and a promise. The promise says
 that "if your eye be single to my glory, your whole bodies shall be filled
 with light, and there shall be no darkness in you; and that body which is
-filled with light comprehendeth all things" ([D&amp;C
-88:67](https://www.lds.org/scriptures/dc-testament/dc/88.67?lang=eng#66)).
+filled with light comprehendeth all things" ([D&amp;C 88:67](/scriptures/dc-
+testament/dc/88.67?lang=eng#66)).
 
 In an application of this scripture today, it is my understanding that anytime
 we look at or listen to the kind of material we have been speaking of--even in
@@ -153,7 +153,9 @@ ungodliness; and if ye shall deny yourselves of all ungodliness, and love God
 with all your might, mind and strength, then is his grace sufficient for you,
 that by his grace ye may be perfect in Christ; and if by the grace of God ye
 are perfect in Christ, ye can in nowise deny the power of God" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31)).
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31)).
 
 Of him I testify in the name of Jesus Christ, amen.
+
+## References
 

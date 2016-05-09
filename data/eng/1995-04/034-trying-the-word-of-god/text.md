@@ -18,8 +18,7 @@ The word of God could be another way of saying "scriptures."
 
 Alma used a seed to stand for the word. He taught the discouraged Zoramites
 that if they would "give place, that a seed may be planted in [their]
-heart[s]" ([Alma
-32:28](https://www.lds.org/scriptures/bofm/alma/32.28?lang=eng#27)), and then
+heart[s]" ([Alma 32:28](/scriptures/bofm/alma/32.28?lang=eng#27)), and then
 notice if good feelings went with it, they would begin to understand and life
 would be different for them.
 
@@ -28,8 +27,8 @@ a place for scripture reading. And then, as you begin to do that, notice what
 feelings go with it"?
 
 Alma then taught that "as the tree beginneth to grow" ([Alma
-32:37](https://www.lds.org/scriptures/bofm/alma/32.37?lang=eng#36)), it would
-need to be nourished with great care.
+32:37](/scriptures/bofm/alma/32.37?lang=eng#36)), it would need to be
+nourished with great care.
 
 Could that be a way of saying: "Nourish the desire to read. Do some things
 that will keep you reading and help you to understand in new ways. Let others
@@ -59,8 +58,7 @@ eventually come with regular scripture reading. In Alma's words, to (1) give
 place, (2) nourish, (3) feast.
 
 [Sister Pearce's remarks ended with six young women reading from [Alma
-32:27-28,
-42](https://www.lds.org/scriptures/bofm/alma/32.27-28%2C42?lang=eng#26):]
+32:27-28, 42](/scriptures/bofm/alma/32.27-28,42?lang=eng#26):]
 
 "Behold, if ye will awake and arouse your faculties, even to an experiment
 upon my words, and exercise a particle of faith, yea, even if ye can no more
@@ -81,4 +79,6 @@ pluck the fruit thereof, which is most precious, which is sweet above all that
 is sweet, ... and pure above all that is pure; and ye shall feast upon this
 fruit even until ye are filled, that ye hunger not, neither shall ye thirst."
 In the name of Jesus Christ, amen.
+
+## References
 

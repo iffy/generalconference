@@ -2,13 +2,12 @@
 
 My beloved brethren, the schedule of this conference calls for me to make some
 remarks at this time. I have in mind saying a few words about "the oath and
-covenant which belongeth to the priesthood" ([D&amp;C
-84:39](https://www.lds.org/scriptures/dc-testament/dc/84.39?lang=eng#38)),
-since we're all priesthood bearers here in this great assemblage. As we have
-been celebrating this, the sesquicentennial anniversary of the organization of
-the Church, I have recalled that ten months prior to that organization the
-Prophet Joseph Smith and Oliver Cowdery had received from Peter, James, and
-John the Melchizedek Priesthood.
+covenant which belongeth to the priesthood" ([D&amp;C 84:39](/scriptures/dc-
+testament/dc/84.39?lang=eng#38)), since we're all priesthood bearers here in
+this great assemblage. As we have been celebrating this, the sesquicentennial
+anniversary of the organization of the Church, I have recalled that ten months
+prior to that organization the Prophet Joseph Smith and Oliver Cowdery had
+received from Peter, James, and John the Melchizedek Priesthood.
 
 Traditionally, God's people have always been known as a covenant people. The
 gospel itself is the new and everlasting covenant. The posterity of Abraham
@@ -28,8 +27,7 @@ magnify his priesthood he will be sanctified by the Spirit unto the renewing
 of his body; that he will become a member of "the church and kingdom, and the
 elect of God," and receive the "Father's kingdom; therefore," said the Savior,
 "all that my Father hath shall be given unto him" ([D&amp;C 84:33-34,
-38](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-34%2C38?lang=eng#32)).
+38](/scriptures/dc-testament/dc/84.33-34,38?lang=eng#32)).
 
 It is of such--that is, those who receive the priesthood and magnify it--that
 the following was written:
@@ -42,12 +40,11 @@ and of his glory;
 "And are priests of the Most High, after the order of ... the Only Begotten Son.
 
 "Wherefore, as it is written, they are gods, even the sons of God." ([D&amp;C
-76:55-58](https://www.lds.org/scriptures/dc-
-testament/dc/76.55-58?lang=eng#54).)
+76:55-58](/scriptures/dc-testament/dc/76.55-58?lang=eng#54).)
 
 These transcendent blessings the Father promises the receiver of the
 Melchizedek Priesthood by an oath and covenant which he says "he cannot break,
-neither can it be moved" ([D&amp;C 84:40](https://www.lds.org/scriptures/dc-
+neither can it be moved" ([D&amp;C 84:40](/scriptures/dc-
 testament/dc/84.40?lang=eng#39)). But these blessings, as has already been
 indicated, do not come by ordination alone. Ordination to the priesthood is a
 prerequisite to receiving them, but it does not guarantee them. For a man to
@@ -59,10 +56,10 @@ Now let us consider for a moment just what magnifying one's calling in the
 priesthood means. Speaking to the assembled bearers of the priesthood at the
 time the oath and covenant was revealed, the Lord said, _"I have given the
 heavenly hosts and mine angels charge concerning you"_ ([D&amp;C
-84:42](https://www.lds.org/scriptures/dc-testament/dc/84.42?lang=eng#41);
-italics added). This has always been an extremely impressive and sacred
-statement to me--to think that the Lord has given his angels and his heavenly
-hosts charge concerning those who receive the priesthood.
+84:42](/scriptures/dc-testament/dc/84.42?lang=eng#41); italics added). This
+has always been an extremely impressive and sacred statement to me--to think
+that the Lord has given his angels and his heavenly hosts charge concerning
+those who receive the priesthood.
 
 Then, addressing the elders, he continued:
 
@@ -71,17 +68,17 @@ beware concerning yourselves, to give diligent heed to the words of eternal
 life.
 
 "For you shall live by every word that proceedeth forth from the mouth of
-God." ([D&amp;C 84:43-44](https://www.lds.org/scriptures/dc-
-testament/dc/84.43-44?lang=eng#42).) It is compliance with this charge which
-entitles the bearer of the priesthood to the blessings and rewards offered by
-the Father in "the oath and covenant which belongeth to the priesthood."
+God." ([D&amp;C 84:43-44](/scriptures/dc-testament/dc/84.43-44?lang=eng#42).)
+It is compliance with this charge which entitles the bearer of the priesthood
+to the blessings and rewards offered by the Father in "the oath and covenant
+which belongeth to the priesthood."
 
 The status of one who receives the priesthood and then breaks the covenant is
 explained by the Lord in this language:
 
 "Whoso breaketh this covenant after he hath received it, and altogether
 turneth therefrom, shall not have forgiveness of sins in this world nor in the
-world to come" ([D&amp;C 84:41](https://www.lds.org/scriptures/dc-
+world to come" ([D&amp;C 84:41](/scriptures/dc-
 testament/dc/84.41?lang=eng#40)). With such a penalty prescribed for breaking
 it, one might be prompted to question the advisability of accepting the
 obligations of the covenant; that is, he might question it until he reads the
@@ -89,14 +86,12 @@ verse which follows the statement of the penalty. There he learns that those
 who do not receive the oath and covenant are not _much,_ if any, better off
 than those who receive it and break it. For in that verse the Lord says: "And
 wo unto all those who come not unto this priesthood which ye have received"
-([D&amp;C 84:42](https://www.lds.org/scriptures/dc-
-testament/dc/84.42?lang=eng#41)).
+([D&amp;C 84:42](/scriptures/dc-testament/dc/84.42?lang=eng#41)).
 
 _Such is the sober import of "the oath and covenant which belongeth to the
 priesthood"_ (italics added). You can read it in full just as the Lord gave it
 in section 84 of the Doctrine and Covenants beginning with verse 33. [[D&amp;C
-84:33-120](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-120?lang=eng#32)]
+84:33-120](/scriptures/dc-testament/dc/84.33-120?lang=eng#32)]
 
 It is apparent from this revelation that the only way a man can make the
 maximum progress towards eternal life, for which mortality is designed, is to
@@ -106,17 +101,15 @@ utmost importance that we keep clearly in mind what the magnifying of our
 callings in the priesthood requires of us. I am persuaded that it requires at
 least the following three things:
 
-  1. That we obtain a knowledge of the gospel.
-
-  2. That we comply in our personal living with the standards of the gospel.
-
-  3. That we give dedicated service.
+  1. That we obtain a knowledge of the gospel. 
+  2. That we comply in our personal living with the standards of the gospel. 
+  3. That we give dedicated service. 
 
 As to the importance of a knowledge of the gospel, the Prophet Joseph Smith
 said that "it is impossible for a man to be saved in ignorance" ([D&amp;C
-131:6](https://www.lds.org/scriptures/dc-testament/dc/131.6?lang=eng#5)). That
-he had in mind ignorance of gospel truths is evident from the fact that on
-another occasion he said:
+131:6](/scriptures/dc-testament/dc/131.6?lang=eng#5)). That he had in mind
+ignorance of gospel truths is evident from the fact that on another occasion
+he said:
 
 "A man is saved no faster than he gets knowledge, for if he does not get
 knowledge, he will be brought into captivity by some evil power in the other
@@ -126,8 +119,8 @@ and give us knowledge of the things of God." (_History of the Church,_ 4:588.)
 
 There is no knowledge other than knowledge of the things of God that will save
 us. "Ye must grow in grace and in the knowledge of the truth," said the Lord
-to the brethren in the infant days of the Church ([D&amp;C
-50:40](https://www.lds.org/scriptures/dc-testament/dc/50.40?lang=eng#39)).
+to the brethren in the infant days of the Church ([D&amp;C 50:40](/scriptures
+/dc-testament/dc/50.40?lang=eng#39)).
 
 In the revelation given to President Brigham Young at Winter Quarters in
 January 1847, the Lord said:
@@ -138,8 +131,7 @@ opened that he may hear;
 
 "For my Spirit is sent forth into the world to enlighten the humble and
 contrite, and to the condemnation of the ungodly" ([D&amp;C
-136:32-33](https://www.lds.org/scriptures/dc-
-testament/dc/136.32-33?lang=eng#31)).
+136:32-33](/scriptures/dc-testament/dc/136.32-33?lang=eng#31)).
 
 Fourteen years earlier the Lord had thus counseled the brethren:
 
@@ -152,7 +144,7 @@ doctrine of the kingdom.
 "Teach ye diligently and my grace shall attend you, that you may be instructed
 more perfectly in theory, in principle, in doctrine, in the law of the gospel,
 in all things that pertain unto the kingdom of God, that are expedient for you
-to understand." ([D&amp;C 88:76-78](https://www.lds.org/scriptures/dc-
+to understand." ([D&amp;C 88:76-78](/scriptures/dc-
 testament/dc/88.76-78?lang=eng#75).)
 
 One of the best ways to learn the gospel is to search the scriptures. Our
@@ -160,12 +152,11 @@ purpose in urging all bearers of the Melchizedek Priesthood to read the Book
 of Mormon is that they may learn more about the gospel. One cannot sincerely
 study the Book of Mormon without learning gospel truths, because it contains
 "the fulness of the gospel of Jesus Christ to the Gentiles and to the Jews
-also" ([D&amp;C 20:9](https://www.lds.org/scriptures/dc-
-testament/dc/20.9?lang=eng#8)). So impressed was the Prophet Joseph with it
-that he "told the brethren that the Book of Mormon was the most correct of any
-book on earth, and the keystone of our religion, and a man would get nearer to
-God by abiding by its precepts, than by any other book" (_History of the
-Church,_ 4:461).
+also" ([D&amp;C 20:9](/scriptures/dc-testament/dc/20.9?lang=eng#8)). So
+impressed was the Prophet Joseph with it that he "told the brethren that the
+Book of Mormon was the most correct of any book on earth, and the keystone of
+our religion, and a man would get nearer to God by abiding by its precepts,
+than by any other book" (_History of the Church,_ 4:461).
 
 Learning the gospel from books, however, is not enough. It must be lived by
 one who would magnify his calling in the priesthood. As a matter of fact,
@@ -183,40 +174,36 @@ He wrote:
 grace for grace;
 
 "And he ... continued from grace to grace, until he received a fulness"
-([D&amp;C 93:12-13](https://www.lds.org/scriptures/dc-
-testament/dc/93.12-13?lang=eng#11)). Jesus prescribed the process for us in
-these words:
+([D&amp;C 93:12-13](/scriptures/dc-testament/dc/93.12-13?lang=eng#11)). Jesus
+prescribed the process for us in these words:
 
 "If you keep my commandments you shall receive of his fulness, and be
 glorified in me as I am in the Father; therefore, I say unto you, you shall
-receive grace for grace" ([D&amp;C 93:20](https://www.lds.org/scriptures/dc-
+receive grace for grace" ([D&amp;C 93:20](/scriptures/dc-
 testament/dc/93.20?lang=eng#19)). And in another scripture:
 
 "And no man receiveth a fulness unless he keepeth his commandments.
 
 "He that keepeth his commandments receiveth truth and light, until he is
-glorified in truth and knoweth all things" ([D&amp;C
-93:27-28](https://www.lds.org/scriptures/dc-
+glorified in truth and knoweth all things" ([D&amp;C 93:27-28](/scriptures/dc-
 testament/dc/93.27-28?lang=eng#26)). I can't understand how one can read these
 words without joy filling his heart.
 
 Jesus further points out that the commandments we are required to keep are
 given in the scriptures, and adds: "If thou lovest me thou shalt serve me and
-keep all my commandments" ([D&amp;C 42:29](https://www.lds.org/scriptures/dc-
+keep all my commandments" ([D&amp;C 42:29](/scriptures/dc-
 testament/dc/42.29?lang=eng#28)). And "unto him that keepeth my commandments I
 will give the mysteries of my kingdom, and the same shall be in him a well of
-living water, springing up unto everlasting life" ([D&amp;C
-63:23](https://www.lds.org/scriptures/dc-testament/dc/63.23?lang=eng#22)).
+living water, springing up unto everlasting life" ([D&amp;C 63:23](/scriptures
+/dc-testament/dc/63.23?lang=eng#22)).
 
 Many of the commandments concerning our personal conduct are to be found in
 section 42 of the Doctrine and Covenants, which the Prophet Joseph specifies
-"as embracing the law of the Church" ([D&amp;C
-42](https://www.lds.org/scriptures/dc-testament/dc/42.title?lang=eng),
-headnote). Every priesthood bearer should be familiar with this revelation and
-with the instructions given in section 59 [[D&amp;C
-59](https://www.lds.org/scriptures/dc-testament/dc/59.title?lang=eng)] and
-section 88, particularly verses 117 to 126. [[D&amp;C
-88:117-126](https://www.lds.org/scriptures/dc-
+"as embracing the law of the Church" ([D&amp;C 42](/scriptures/dc-
+testament/dc/42?lang=eng), headnote). Every priesthood bearer should be
+familiar with this revelation and with the instructions given in section 59
+[[D&amp;C 59](/scriptures/dc-testament/dc/59?lang=eng)] and section 88,
+particularly verses 117 to 126. [[D&amp;C 88:117-126](/scriptures/dc-
 testament/dc/88.117-126?lang=eng#116)] Indeed, a priesthood bearer with
 serious intentions of so magnifying his calling as to merit the blessing of
 the "covenant which belongeth to the priesthood" should be conversant with all
@@ -224,8 +211,8 @@ the instructions given to guide us in our personal conduct--both those
 recorded in the scriptures and those being received currently by the living
 prophets. One can scarcely hope to be fortified "against the wiles of the
 devil" by putting "on the whole armour of God" (see [Eph.
-6:11](https://www.lds.org/scriptures/nt/eph/6.11?lang=eng#10)) unless he knows
-what that armor is.
+6:11](/scriptures/nt/eph/6.11?lang=eng#10)) unless he knows what that armor
+is.
 
 But the commandments do not pertain alone to one's personal conduct. They put
 on every bearer of the priesthood the stimulating responsibility to render
@@ -241,11 +228,12 @@ know the gospel, conform their lives to its standards, and enthusiastically
 give dedicated service in the spirit of the divine proclamation that "men
 should be anxiously engaged in a good cause, and do many things of their own
 free will, and bring to pass much righteousness; for the power is in them"
-([D&amp;C 58:27-28](https://www.lds.org/scriptures/dc-
-testament/dc/58.27-28?lang=eng#26)).
+([D&amp;C 58:27-28](/scriptures/dc-testament/dc/58.27-28?lang=eng#26)).
 
 Such men are magnifying their callings, and they shall obtain the rewards
 promised by the Lord in the "oath and covenant which belongeth to the
 priesthood." That each of us may be found in this choice group, I humbly pray
 in the name of Jesus Christ, amen.
+
+## References
 

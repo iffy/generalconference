@@ -37,8 +37,7 @@ scriptures and the prophets have some needed answers for us:
 We read in Helaman: "And thus we see that except the Lord doth chasten his
 people with many afflictions, yea, except he doth visit them with death and
 with terror, and with famine and with all manner of pestilence, they will not
-remember him." ([Hel.
-12:3](https://www.lds.org/scriptures/bofm/hel/12.3?lang=eng#2).)
+remember him." ([Hel. 12:3](/scriptures/bofm/hel/12.3?lang=eng#2).)
 
 At a recent stake conference the stake president called a young father, who
 had just been ordained an elder, from the audience to bear his testimony. The
@@ -67,8 +66,8 @@ having that great test of his faith in the Liberty Jail? The Lord said, "If
 thou art called to pass through tribulation ..." and then the Lord called to
 mind a series of possibilities that would test any man to the utmost--and he
 then concluded: "Know thou, my son, that all these things shall give thee
-experience and shall be for thy good." ([D&amp;C 122:5,
-7](https://www.lds.org/scriptures/dc-testament/dc/122.5%2C7?lang=eng#4).)
+experience and shall be for thy good." ([D&amp;C 122:5, 7](/scriptures/dc-
+testament/dc/122.5,7?lang=eng#4).)
 
 It's interesting to note that from the depths of trial and despair have come
 some of the most beautiful and classic passages of modern-day scripture--not
@@ -83,12 +82,12 @@ blessed.
 
 In speaking of the Savior, the scriptures tell us: "Though he were a Son, yet
 learned he obedience by the things which he suffered." ([Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7).)
+5:8](/scriptures/nt/heb/5.8?lang=eng#7).)
 
 From Hebrews we also read: "My son, despise not thou the chastening of the
 Lord, nor faint when thou art rebuked of him: for whom the Lord loveth he
 chasteneth, and scourgeth every son whom he receiveth." ([Heb.
-12:5](https://www.lds.org/scriptures/nt/heb/12.5?lang=eng#4).)
+12:5](/scriptures/nt/heb/12.5?lang=eng#4).)
 
 Let us remember--trials are an evidence of a Father's love. They are given as
 a blessing to his children. They are given as opportunities for growth.
@@ -107,7 +106,7 @@ As a reassurance to us, let us read from the New Testament: "There hath no
 temptation taken you but such as is common to man: but God is faithful, who
 will not suffer you to be tempted above that ye are able; but will with the
 temptation also make a way to escape, that ye may be able to bear it." ([1
-Cor. 10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).)
+Cor. 10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).)
 
 Did you get the significance of that scriptural promise--we will have no
 temptation or trial beyond our ability to overcome--he will provide a way for
@@ -169,4 +168,6 @@ the first step and this step is prayer. I know he lives, brothers and sisters,
 I know Jesus is the Christ. I know he established his church here for our
 blessing. I know his mouthpiece is before us this morning, in the name of
 Jesus Christ. Amen.
+
+## References
 

@@ -8,9 +8,8 @@ the commandment.
 When the Savior lived on this earth, he taught that we are to love God and
 keep his commandments. Jesus said, "Thou shalt love the Lord thy God with all
 thy heart, and with all thy soul, and with all thy mind." ([Matt.
-22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36).) This is the
-first and great commandment. It is much easier to know the commandment than it
-is to live it.
+22:37](/scriptures/nt/matt/22.37?lang=eng#36).) This is the first and great
+commandment. It is much easier to know the commandment than it is to live it.
 
 Why should the Lord command his children to love him with all their heart, and
 with all their soul, and with all their mind? There is great wisdom and divine
@@ -42,8 +41,8 @@ thoughts or acts love or serve him.
 Jesus Christ said, "No man can serve two masters: for either he will hate the
 one, and love the other; or else he will hold to the one, and despise the
 other. Ye cannot serve God and mammon." ([Matt.
-6:24](https://www.lds.org/scriptures/nt/matt/6.24?lang=eng#23).) And may I say
-that we cannot serve both God and Satan. Some try but no one has succeeded.
+6:24](/scriptures/nt/matt/6.24?lang=eng#23).) And may I say that we cannot
+serve both God and Satan. Some try but no one has succeeded.
 
 Love for God brings love and respect for his children, and love for man's
 relationship to the Lord, and a desire to commune with him. Prayers are
@@ -64,7 +63,7 @@ be thy name.
 
 "And lead us not into temptation, but deliver us from evil: For thine is the
 kingdom, and the power, and the glory, for ever. Amen." ([Matt.
-6:9-13](https://www.lds.org/scriptures/nt/matt/6.9-13?lang=eng#8).)
+6:9-13](/scriptures/nt/matt/6.9-13?lang=eng#8).)
 
 This prayer contains the essentials of a sincere, dedicated, Christlike
 prayer. If we love our Father in heaven, we should pray and talk to him. We
@@ -84,10 +83,10 @@ Jesus Christ is the example of one who was dedicated and submitted himself to
 the building of the kingdom of God upon this earth and in doing the will of
 the Father. He said, "I came down from heaven, not to do mine own will, but
 the will of him that sent me." ([John
-6:38](https://www.lds.org/scriptures/nt/john/6.38?lang=eng#37).) He also said,
-"The Son can do nothing of himself, but what he seeth the Father do: for what
-things soever he doeth, these also doeth the Son likewise." ([John
-5:19](https://www.lds.org/scriptures/nt/john/5.19?lang=eng#18).)
+6:38](/scriptures/nt/john/6.38?lang=eng#37).) He also said, "The Son can do
+nothing of himself, but what he seeth the Father do: for what things soever he
+doeth, these also doeth the Son likewise." ([John
+5:19](/scriptures/nt/john/5.19?lang=eng#18).)
 
 The prayer directs that we should ask our Heavenly Father to meet the
 temptations and adversities of this life. If we love and trust God, we should
@@ -131,7 +130,7 @@ blessing that there shall not be room enough to receive it.
 "And I will rebuke the devourer for your sakes, and he shall not destroy the
 fruits of your ground; neither shall your vine cast her fruit before the time
 in the field, saith the Lord of hosts." ([Mal.
-3:6-11](https://www.lds.org/scriptures/ot/mal/3.6-11?lang=eng#5).)
+3:6-11](/scriptures/ot/mal/3.6-11?lang=eng#5).)
 
 Will a man rob God by not paying his tithes and offerings?
 
@@ -162,13 +161,12 @@ disturbed and had difficulties and problems.
 
 We can perfect our lives by living the Lord's commandments. And as has been
 quoted many times in this conference, the Lord has said, "If ye love me, keep
-my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+my commandments." ([John 14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 The Lord said to the Prophet Joseph Smith in 1831, "... the hour is not yet, but
 is nigh at hand, when peace shall be taken from the earth, and the devil shall
-have power over his own dominion." ([D&amp;C
-1:35](https://www.lds.org/scriptures/dc-testament/dc/1.35?lang=eng#34).)
+have power over his own dominion." ([D&amp;C 1:35](/scriptures/dc-
+testament/dc/1.35?lang=eng#34).)
 
 We are in perilous times, and many love pleasure more than they love God. The
 devil has power over his own dominion. However, in these perilous times there
@@ -186,4 +184,6 @@ and happiness from this witness.
 I express love for my Heavenly Father and for my Savior, Jesus Christ, and for
 the Holy Ghost, and for all mankind, and do so in the name of Jesus Christ.
 Amen.
+
+## References
 

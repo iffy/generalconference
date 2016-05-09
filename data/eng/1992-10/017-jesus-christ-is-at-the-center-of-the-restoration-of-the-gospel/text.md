@@ -48,22 +48,21 @@ whirlwind, yea, when all his hail and his mighty storm shall beat upon you, it
 shall have no power over you to drag you down to the gulf of misery and
 endless wo, because of the rock upon which ye are built, which is a sure
 foundation, a foundation whereon if men build they cannot fall" ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11)).
+5:12](/scriptures/bofm/hel/5.12?lang=eng#11)).
 
 Not only must we build upon the sure foundation of Jesus Christ, but the
 prophet Jacob identified Him as the "safe foundation"! This stone, he said,
 shall be "the great, and the last, and the only sure foundation" ([Jacob
-4:15-16](https://www.lds.org/scriptures/bofm/jacob/4.15-16?lang=eng#14)).
+4:15-16](/scriptures/bofm/jacob/4.15-16?lang=eng#14)).
 
 I agree with all the conviction of my being that Jacob's testimony is true.
 When the Apostle Peter boldly declared of Jesus, "Thou art the Christ, the Son
 of the living God," Jesus replied, "Blessed art thou, Simon Bar-jona: for
 flesh and blood hath not revealed it unto thee, but my Father which is in
-heaven" ([Matt.
-16:16-17](https://www.lds.org/scriptures/nt/matt/16.16-17?lang=eng#15)).
-Christ will be revealed to us through the same process that God used with
-Peter. Christ is always the rock upon which each of us must build, even the
-rock of revelation.
+heaven" ([Matt. 16:16-17](/scriptures/nt/matt/16.16-17?lang=eng#15)). Christ
+will be revealed to us through the same process that God used with Peter.
+Christ is always the rock upon which each of us must build, even the rock of
+revelation.
 
 I have come into this Church because latter-day prophets have been called by
 God to do His work. I remember the year, the month, the day, and even the very
@@ -78,14 +77,14 @@ we sustain as prophets, seers, and revelators. Of these men, the Lord himself
 has said in our day, "What I the Lord have spoken, I have spoken, and I excuse
 not myself; and though the heavens and the earth pass away, my word shall not
 pass away, but shall all be fulfilled, whether by mine own voice or by the
-voice of my servants, it is the same" ([D&amp;C
-1:38](https://www.lds.org/scriptures/dc-testament/dc/1.38?lang=eng#37)).
+voice of my servants, it is the same" ([D&amp;C 1:38](/scriptures/dc-
+testament/dc/1.38?lang=eng#37)).
 
 As members of this Church we are, as the Apostle Paul testified, "No more
 strangers and foreigners, but fellowcitizens with the saints, and of the
 household of God; And are built upon the foundation of the apostles and
 prophets, Jesus Christ himself being the chief corner stone" ([Eph.
-2:19-20](https://www.lds.org/scriptures/nt/eph/2.19-20?lang=eng#18)).
+2:19-20](/scriptures/nt/eph/2.19-20?lang=eng#18)).
 
 I rejoice exceedingly at the restoration of the books of scripture for our use
 and training today. Of course the Book of Mormon is true! It talks of Christ;
@@ -116,8 +115,7 @@ have eternal life.
 
 "And now, behold, my beloved brethren, this is the way; and there is none
 other way nor name given under heaven whereby man can be saved in the kingdom
-of God" ([2 Ne.
-31:20-21](https://www.lds.org/scriptures/bofm/2-ne/31.20-21?lang=eng#19)).
+of God" ([2 Ne. 31:20-21](/scriptures/bofm/2-ne/31.20-21?lang=eng#19)).
 
 Part of our mortal training is to walk by faith, repent of our sins, and call
 upon the Lord in daily prayer. We rejoice in the moments when promptings by
@@ -135,10 +133,12 @@ Paul:
 "Henceforth there is laid up for me a crown of righteousness, which the Lord,
 the righteous judge, shall give me at that day: and not to me only, but unto
 all them also that love his appearing" ([2 Tim.
-4:7-8](https://www.lds.org/scriptures/nt/2-tim/4.7-8?lang=eng#6)).
+4:7-8](/scriptures/nt/2-tim/4.7-8?lang=eng#6)).
 
 I am so grateful for my eternal companion and for the second generation of
 Latter-day Saints in our family who have also taken up the cause of Christ.
 May God help all of us to partake of the fulness of the restoration of this
 sacred gospel, I pray humbly in the name of Jesus Christ, amen.
+
+## References
 

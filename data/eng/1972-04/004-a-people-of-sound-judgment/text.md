@@ -22,7 +22,7 @@ The Almighty has said of him and the other prophets of this church:
 "And whatsoever they shall speak when moved upon by the Holy Ghost shall be
 scripture, shall be the will of the Lord, shall be the mind of the Lord, shall
 be the word of the Lord, shall be the voice of the Lord, and the power of God
-unto salvation." ([D&amp;C 68:3-4](https://www.lds.org/scriptures/dc-
+unto salvation." ([D&amp;C 68:3-4](/scriptures/dc-
 testament/dc/68.3-4?lang=eng#2).)
 
 President Smith is a prophet in the same sense as were Moses and Isaiah,
@@ -116,7 +116,7 @@ heavy, that it cannot hear:
 
 "But your iniquities have separated between you and your God, and your sins
 have hid his face from you. ..." ([Isa.
-59:1-2](https://www.lds.org/scriptures/ot/isa/59.1-2?lang=eng#0).)
+59:1-2](/scriptures/ot/isa/59.1-2?lang=eng#0).)
 
 However, in spite of wickedness, the scripture says that in the latter days
 there would come this new revelation of which we speak. Angels also were to
@@ -249,4 +249,6 @@ principles. We testify to you that it is indeed the way of life and salvation
 brought back to earth by God himself and by repeated angelic ministrations.
 And we bear you this testimony in the sacred name of the Lord Jesus Christ.
 Amen.
+
+## References
 

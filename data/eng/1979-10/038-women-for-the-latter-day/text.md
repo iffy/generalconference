@@ -17,7 +17,7 @@ queen, had no right to go to the king unless he called for her. The king had
 absolute power. She had no right of appeal. But she really was the only one
 with possible entrance to the throne of his power. Her uncle reminded her,
 "Who knoweth whether thou art come to the kingdom for such a time as this?"
-([Esth. 4:14](https://www.lds.org/scriptures/ot/esth/4.14?lang=eng#13)).
+([Esth. 4:14](/scriptures/ot/esth/4.14?lang=eng#13)).
 
 Esther had the strength born of good teaching. It enabled her to determine to
 ask all of the Jews of the kingdom to fast and pray with her. It was then she
@@ -39,10 +39,10 @@ opportunity of eternal progression. She should begin by understanding who she
 is and that she has a magnificent potential as a daughter of God. Her goal
 then should be lofty. The scriptures say: "Be ye therefore perfect, even as
 your Father which is in heaven is perfect" ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47)). Quickly I
-caution that this is not an obtainable goal in one step or one day or one
-year. It takes a lifetime of conscious effort, of striving and learning and
-living, to become an holy woman.
+5:48](/scriptures/nt/matt/5.48?lang=eng#47)). Quickly I caution that this is
+not an obtainable goal in one step or one day or one year. It takes a lifetime
+of conscious effort, of striving and learning and living, to become an holy
+woman.
 
 It was in 1874 that Eliza R. Snow said, "Paul the apostle anciently spoke of
 holy women. It is the duty of each one of us to be a holy woman. We shall have
@@ -114,6 +114,8 @@ prepare a generation to greet him on his return.
 May we all rise to the challenge of being holy women in these latter days,
 that this "chosen generation ... an holy nation ... [might] shew forth the praises
 of him who hath called [us] out of darkness into his marvellous light" ([1
-Pet. 2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)). For he
-lives and loves us, I so testify, in the name of Jesus Christ, amen.
+Pet. 2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)). For he lives and loves us, I
+so testify, in the name of Jesus Christ, amen.
+
+## References
 

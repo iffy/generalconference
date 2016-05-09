@@ -74,8 +74,7 @@ represent the Lord, to be his mouthpiece, to preach his gospel, to administer
 his ordinances. His call was no vague and ill defined yearning to do good or
 teach truth, but the same literal appointment that came anciently to those to
 whom Jesus said: "Ye have not chosen me, but I have chosen you, and ordained
-you." ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).)
+you." ([John 15:16](/scriptures/nt/john/15.16?lang=eng#15).)
 
 Here is a man who saw God and entertained angels.
 
@@ -87,14 +86,14 @@ speaking with a voice that was as the sound of the rushing of great waters--
 testified of himself in these words:
 
 "I am the first and the last; I am he who liveth, I am he who was slain; I am
-your advocate with the Father." ([D&amp;C
-110:4](https://www.lds.org/scriptures/dc-testament/dc/110.4?lang=eng#3).)
+your advocate with the Father." ([D&amp;C 110:4](/scriptures/dc-
+testament/dc/110.4?lang=eng#3).)
 
 Moroni--"an holy angel, whose countenance was as lightning, and whose garments
-were pure and white above all other whiteness" ([D&amp;C
-20:6](https://www.lds.org/scriptures/dc-testament/dc/20.6?lang=eng#5))--among
-others, made numerous appearances in connection with the coming forth of the
-inspired writings of the ancient inhabitants of the Americas.
+were pure and white above all other whiteness" ([D&amp;C 20:6](/scriptures/dc-
+testament/dc/20.6?lang=eng#5))--among others, made numerous appearances in
+connection with the coming forth of the inspired writings of the ancient
+inhabitants of the Americas.
 
 Here is a man to whom the heavens were an open book, who received revelations,
 saw visions, and understood the deep and hidden mysteries of the kingdom by
@@ -169,10 +168,9 @@ Here is a man who was persecuted, hounded, driven, and finally slain for the
 witness he bore and the testimony of Jesus that was his.
 
 He was tarred and feathered, beaten, driven, hated, cast out, "persecuted for
-righteousness' sake." ([Matt.
-5:10](https://www.lds.org/scriptures/nt/matt/5.10?lang=eng#9).) He spent
-months in the vile prisons of his day and was the victim of scores of false
-and malicious prosecutions. Once he and a small group of associates were
+righteousness' sake." ([Matt. 5:10](/scriptures/nt/matt/5.10?lang=eng#9).) He
+spent months in the vile prisons of his day and was the victim of scores of
+false and malicious prosecutions. Once he and a small group of associates were
 prisoners of a mob-militia. On November 1, 1838, a pretended court martial--
 which ranks in infamy and illegality with the trial of Jesus before Pilate--
 sentenced the group to death. The order given was as follows:
@@ -201,10 +199,10 @@ will hold you responsible before an earthly tribunal, so help me God."
 
 But finally, in the providences of Him whose witness the Prophet was and in
 the wisdom of Him who had said aforetime to Joseph Smith, "Thy days are known,
-and thy years shall not be numbered less" ([D&amp;C
-122:9](https://www.lds.org/scriptures/dc-testament/dc/122.9?lang=eng#8))--all
-according to the divine plan--Joseph Smith, the Prophet, and Hyrum Smith, the
-Patriarch, were called upon to die the death of martyrs.
+and thy years shall not be numbered less" ([D&amp;C 122:9](/scriptures/dc-
+testament/dc/122.9?lang=eng#8))--all according to the divine plan--Joseph
+Smith, the Prophet, and Hyrum Smith, the Patriarch, were called upon to die
+the death of martyrs.
 
 The last words of the martyred seer were "O Lord, my God" (_Essentials,_ p.
 383), which he spoke as his spirit entered that sphere where the righteous are
@@ -221,8 +219,7 @@ lives.
 
 "For we saw him, even on the right hand of God; and we heard the voice bearing
 record that he is the Only Begotten of the Father." ([D&amp;C
-76:22-23](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-23?lang=eng#21).)
+76:22-23](/scriptures/dc-testament/dc/76.22-23?lang=eng#21).)
 
 Here is a man who was a prophet in the full and complete and literal sense of
 the word, as all who hearken to the voice of the Spirit shall know.
@@ -230,8 +227,7 @@ the word, as all who hearken to the voice of the Spirit shall know.
 The divinely approved declaration, issued following his martyrdom says,
 "Joseph Smith, the Prophet and Seer of the Lord, has done more, save Jesus
 only, for the salvation of men in this world, than any other man that ever
-lived in it." ([D&amp;C 135:3](https://www.lds.org/scriptures/dc-
-testament/dc/135.3?lang=eng#2).)
+lived in it." ([D&amp;C 135:3](/scriptures/dc-testament/dc/135.3?lang=eng#2).)
 
 Here are the words of Deity, spoken to Joseph Smith, by which all men can
 judge the state of their own spiritual development:
@@ -241,8 +237,7 @@ in derision, and hell shall rage against thee;
 
 "While the pure in heart, and the wise, and the noble, and the virtuous, shall
 seek counsel, and authority, and blessings constantly from under thy hand."
-([D&amp;C 122:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/122.1-2?lang=eng#0).)
+([D&amp;C 122:1-2](/scriptures/dc-testament/dc/122.1-2?lang=eng#0).)
 
 All men may well ask themselves where they stand with reference to Joseph
 Smith and his divine mission. Do they inquire after his name and seek that
@@ -259,7 +254,7 @@ Now, let there be no misunderstanding. We are witnesses of Christ. He is our
 Savior. He is the door. He stands at the gate; "and he employeth no servant
 there; and there is none other way save it be by the gate; for he cannot be
 deceived, for the Lord God is his name." ([2 Ne.
-9:41](https://www.lds.org/scriptures/bofm/2-ne/9.41?lang=eng#40).)
+9:41](/scriptures/bofm/2-ne/9.41?lang=eng#40).)
 
 But we are also witnesses of Joseph Smith, by whom we know of Christ, and who
 is the legal administrator to whom power was given to bind on earth and seal
@@ -269,4 +264,6 @@ We link the names of Jesus Christ and Joseph Smith in our testimonies. And we
 now testify, as God is our witness, that Joseph Smith is his prophet, and we
 do it in the blessed name of Him who is Lord of all and of whom we and all the
 prophets testify, who is Jesus Christ. Even so. Amen.
+
+## References
 

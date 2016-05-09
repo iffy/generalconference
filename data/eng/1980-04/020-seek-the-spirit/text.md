@@ -34,8 +34,7 @@ the world, that hearkeneth to the voice of the Spirit.
 even the Father.
 
 "And the Father teacheth him of the covenant [of the gospel]" ([D&amp;C
-84:46-48](https://www.lds.org/scriptures/dc-
-testament/dc/84.46-48?lang=eng#45)).
+84:46-48](/scriptures/dc-testament/dc/84.46-48?lang=eng#45)).
 
 Try to live, brethren, so that you can have the Spirit with you in all your
 activities. Pray for the spirit of discernment that you may hear the
@@ -61,4 +60,6 @@ this witness and pray that the Lord will bless every man and boy who holds the
 priesthood, that we will magnify our callings and receive the rewards of
 faithful servants. And I ask this blessing upon all of you in the name of
 Jesus Christ, our Redeemer, amen.
+
+## References
 

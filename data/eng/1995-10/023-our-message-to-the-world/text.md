@@ -10,9 +10,9 @@ the entire plan of salvation. He is the First Begotten Son of the Father in
 the premortal existence and the Only Begotten Son of the Father on earth. God
 the Eternal Father is the literal parent of our Lord and Savior Jesus Christ
 and of His other spirit children (see [1 Ne. 11:18,
-21](https://www.lds.org/scriptures/bofm/1-ne/11.18%2C21?lang=eng#17); James E.
-Talmage, _The Articles of Faith,_ 12th ed., Salt Lake City: The Church of
-Jesus Christ of Latter-day Saints, 1924, p. 466).
+21](/scriptures/bofm/1-ne/11.18,21?lang=eng#17); James E. Talmage, _The
+Articles of Faith,_ 12th ed., Salt Lake City: The Church of Jesus Christ of
+Latter-day Saints, 1924, p. 466).
 
 When we refer to the divine Sonship of Jesus Christ, we are also referring to
 His role as a God in the premortal sphere. This Firstborn Son of Elohim the
@@ -45,7 +45,7 @@ Bruce R. McConkie said, "We view the atonement of the Lord Jesus Christ as the
 center and core and heart of revealed religion" (_A New Witness for the
 Articles of Faith,_ Salt Lake City: Deseret Book Co., 1985, p. 81). The book
 of Alma declared, "This is the whole meaning of the law" ([Alma
-34:14](https://www.lds.org/scriptures/bofm/alma/34.14?lang=eng#13)).
+34:14](/scriptures/bofm/alma/34.14?lang=eng#13)).
 
 ## The Divine Mission of Joseph Smith and the Book of Mormon
 
@@ -57,8 +57,7 @@ We declare that the heavens opened to Joseph Smith and a pillar of light
 descended brighter than the noonday sun. In that pillar stood two personages--
 God the Father and His Son, Jesus Christ--whose brightness and glory defied
 all description. The Father spoke, saying, Joseph, "This is My Beloved Son.
-Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)).
+Hear Him!" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)).
 
 One of the hallmarks of the calling of the Prophet Joseph Smith was his divine
 education in the writings and prophecies of the ancient apostles and prophets.
@@ -97,13 +96,12 @@ children.
 
 The Prophet Joseph taught that the same sociality that we enjoy in this life
 will continue into the next, giving great comfort to those seeing friends and
-loved ones depart from this earth (see [D&amp;C
-130:2](https://www.lds.org/scriptures/dc-testament/dc/130.2?lang=eng#1)). The
-doctrines of salvation taught by this prophet distill upon our souls as the
-very dews from heaven (see [D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44)). Joseph taught eternal truths that lead
-those who hunger and thirst for righteousness to the living Christ and to the
-bosom of God the Father.
+loved ones depart from this earth (see [D&amp;C 130:2](/scriptures/dc-
+testament/dc/130.2?lang=eng#1)). The doctrines of salvation taught by this
+prophet distill upon our souls as the very dews from heaven (see [D&amp;C
+121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)). Joseph taught
+eternal truths that lead those who hunger and thirst for righteousness to the
+living Christ and to the bosom of God the Father.
 
 Like Joseph Smith, the Book of Mormon is a divine instrument to draw the
 reader closer to Christ. It is a collection of writings by prophets who lived
@@ -114,13 +112,13 @@ Book of Mormon for our day. It has withstood every conceivable test by both
 skeptical and sincere minds. It is not on trial. We are the ones on trial,
 being tested by our acceptance or rejection of its truths, teachings,
 commandments, and declarations (see [2 Ne.
-33:11-14](https://www.lds.org/scriptures/bofm/2-ne/33.11-14?lang=eng#10)).
+33:11-14](/scriptures/bofm/2-ne/33.11-14?lang=eng#10)).
 
 President Ezra Taft Benson reminded us forcefully that if we forget to teach
 and preach the Book of Mormon, and if we forget to study and meditate on the
 contents of this book of Holy Writ, we will be under condemnation. We have a
 mission and a commandment to declare its contents to the world and to bear
-testimony of it (see [D&amp;C 84:54-58](https://www.lds.org/scriptures/dc-
+testimony of it (see [D&amp;C 84:54-58](/scriptures/dc-
 testament/dc/84.54-58?lang=eng#53)).
 
 ## The Divine Nature of the Church
@@ -136,10 +134,10 @@ The restoration referred to was essential to the Second Coming because a study
 of ecclesiastical history shows that the original laws had been transgressed,
 the original ordinances had been changed, and the everlasting covenants had
 been broken, just as Isaiah had prophesied many centuries before (see [Isa.
-24:5](https://www.lds.org/scriptures/ot/isa/24.5?lang=eng#4)). Furthermore,
-Paul had warned that the Second Coming would occur only after a falling away
-from the original teachings of Christ and the Apostles (see [2 Thes.
-2:3-4](https://www.lds.org/scriptures/nt/2-thes/2.3-4?lang=eng#2)).
+24:5](/scriptures/ot/isa/24.5?lang=eng#4)). Furthermore, Paul had warned that
+the Second Coming would occur only after a falling away from the original
+teachings of Christ and the Apostles (see [2 Thes.
+2:3-4](/scriptures/nt/2-thes/2.3-4?lang=eng#2)).
 
 To prepare the way for the Second Coming, the Restoration took place--through
 Joseph Smith--of every necessary doctrine and sacred ordinance given by God to
@@ -164,4 +162,6 @@ Church of Jesus Christ of Latter-day Saints--is "the Lord's kingdom once again
 established on the earth, preparatory to the second coming of the Messiah"
 (Introduction, Book of Mormon). I so declare in all humility and testimony in
 the name of Jesus Christ, amen.
+
+## References
 

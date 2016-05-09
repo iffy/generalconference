@@ -154,3 +154,17 @@ builders of His kingdom, His power will flow into us and we will know how to
 nurture, ultimately becoming like our heavenly parents. In the name of Jesus
 Christ, amen.
 
+## References
+
+  1. [Acts 2:36-37](https://www.lds.org/scriptures/nt/acts/2.36-37?lang=eng#35).
+
+  2. Eliza R. Snow, in _Daughters in My Kingdom: The History and Work of Relief Society_ (2011), 42.
+
+  3. Emma Smith, in _Daughters in My Kingdom,_ 12.
+
+  4. See [Genesis 3:20](https://www.lds.org/scriptures/ot/gen/3.20?lang=eng#19).
+
+  5. Orson F. Whitney, in Spencer W. Kimball, _Faith Precedes the Miracle_ (1972), 98.
+
+  6. Julie B. Beck, "[And upon the Handmaids in Those Days Will I Pour Out My Spirit](https://www.lds.org/general-conference/2010/04/and-upon-the-handmaids-in-those-days-will-i-pour-out-my-spirit?lang=eng),"_ Ensign _or_ Liahona,_ May 2010, 11.
+

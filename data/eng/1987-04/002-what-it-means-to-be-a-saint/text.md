@@ -58,19 +58,19 @@ taken upon us his name, and we have been born again in Christ."
 As Paul said: "Therefore we are buried with him by _baptism_ into death: that
 like as Christ was raised up from the dead by the glory of the Father, even so
 we also should walk in newness of life" ([Rom.
-6:4](https://www.lds.org/scriptures/nt/rom/6.4?lang=eng#3); italics added).
+6:4](/scriptures/nt/rom/6.4?lang=eng#3); italics added).
 
 Members of the Church should know that they are born again--"redeemed of God,"
 as the Prophet Alma said, "[to] be numbered with those of the first
 resurrection, that ye may have eternal life" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)).
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)).
 
 King Benjamin said: "And now, because of the covenant which ye have made ye
 shall be called the children of Christ, his sons, and his daughters; for
 behold, this day he hath spiritually begotten you; for ye say that your hearts
 are changed through faith on his name; therefore, ye are born of him and have
 become his sons and his daughters" ([Mosiah
-5:7](https://www.lds.org/scriptures/bofm/mosiah/5.7?lang=eng#6)).
+5:7](/scriptures/bofm/mosiah/5.7?lang=eng#6)).
 
 If, then, we understand that we are born again, having taken upon us the name
 of Christ, the big question is: Do we act like it?
@@ -99,8 +99,7 @@ thoughts, and your words, and your deeds, and observe the commandments of God,
 and continue in the faith_ of what ye have heard concerning the coming of our
 Lord, even unto the end of your lives, ye must perish. And now, O man,
 remember, and perish not" ([Mosiah
-4:29-30](https://www.lds.org/scriptures/bofm/mosiah/4.29-30?lang=eng#28),
-italics added).
+4:29-30](/scriptures/bofm/mosiah/4.29-30?lang=eng#28), italics added).
 
 The many imperfections which trouble our daily lives require us to be a
 repenting as well as a repentant people. We should pay attention to the gentle
@@ -116,39 +115,38 @@ So this mortal part of our eternal life is a time of probation. We desired the
 experience before we were born. Now we are in the midst of the great test.
 "And we will prove them herewith," said the Lord, "to see if they will do all
 things whatsoever the Lord their God shall command them" ([Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24)).
+3:25](/scriptures/pgp/abr/3.25?lang=eng#24)).
 
 Great numbers of the Saints throughout the world are doing very well. They
 take their probation seriously. They have established happy, righteous homes.
 Children grow up in the "nurture and admonition of the Lord" ([Enos
-1:1](https://www.lds.org/scriptures/bofm/enos/1.1?lang=eng#0)). Their theme
-song is "Love at Home." Home evenings, love for the scriptures, association in
-meetings with their brothers and sisters, payment of their tithes, plans for
-education and missionary service are the direction of their efforts with their
-faces steadfastly turned toward the temple.
+1:1](/scriptures/bofm/enos/1.1?lang=eng#0)). Their theme song is "Love at
+Home." Home evenings, love for the scriptures, association in meetings with
+their brothers and sisters, payment of their tithes, plans for education and
+missionary service are the direction of their efforts with their faces
+steadfastly turned toward the temple.
 
 This is far different from "confessing Christ" as the one single requirement
 for salvation. _Saints_ take literally the parable in the twenty-fifth chapter
 of Matthew about the Judgment Day (see [Matt.
-25:31-46](https://www.lds.org/scriptures/nt/matt/25.31-46?lang=eng#30)). They
-reach out to one another and to the poor and distressed. Thus, they may be
-found on the right hand of God. No matter who you are and what you may think,
-God has established certain conditions or requirements to return to his
-presence. "They who keep their first estate shall be added upon; ... and they
-who keep their second estate shall have glory added upon their heads for ever
-and ever" ([Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25)).
+25:31-46](/scriptures/nt/matt/25.31-46?lang=eng#30)). They reach out to one
+another and to the poor and distressed. Thus, they may be found on the right
+hand of God. No matter who you are and what you may think, God has established
+certain conditions or requirements to return to his presence. "They who keep
+their first estate shall be added upon; ... and they who keep their second
+estate shall have glory added upon their heads for ever and ever" ([Abr.
+3:26](/scriptures/pgp/abr/3.26?lang=eng#25)).
 
 Saints go beyond the required righteous living to enter into the covenants and
 receive the ordinances of the gospel. These are taught and administered
 through his authorized servants by the power of the holy priesthood. _Holy_
 priesthood is not man-made. The ordinances and covenants belong to _this_
 priesthood. Beyond baptism, without which the Lord said we "cannot enter into
-the kingdom of God" ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4)), are further
-gifts and blessings which are received in the temple. There we enter into
-solemn covenants with God. Through the priesthood we receive the ordinances
-which direct us toward the veil, that we may enter again into his presence.
+the kingdom of God" ([John 3:5](/scriptures/nt/john/3.5?lang=eng#4)), are
+further gifts and blessings which are received in the temple. There we enter
+into solemn covenants with God. Through the priesthood we receive the
+ordinances which direct us toward the veil, that we may enter again into his
+presence.
 
 Now, of course the ordinances alone do not make us saints. Our actions do
 that, but even saints have not the power to return to God's presence without
@@ -193,9 +191,10 @@ entering into the fullness of the Melchizedek Priesthood, which is only
 received in the house of the Lord" (_Ensign, _Aug. 1985, p. 8).
 
 "For without this no man can see the face of God, even the Father, and live"
-([D&amp;C 84:22](https://www.lds.org/scriptures/dc-
-testament/dc/84.22?lang=eng#21)).
+([D&amp;C 84:22](/scriptures/dc-testament/dc/84.22?lang=eng#21)).
 
 That the Saints will accept this priesthood, receive its ordinances, and keep
 the covenants, I pray through Jesus Christ, amen.
+
+## References
 

@@ -5,8 +5,7 @@ Smith.
 
 The first one is the foundation of all for which we stand. It reads, "We
 believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the
-Holy Ghost." [[A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0)]
+Holy Ghost." [[A of F 1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0)]
 
 We Latter-day Saints believe in God with all our hearts and all our souls. We
 know that he lives. Our prophets have seen him. We know that we are his
@@ -31,7 +30,7 @@ that. He is the Creator, for there _is_ a divine Creator, and we know Him to
 be Jesus Christ of Nazareth. He came to earth as the Babe of Bethlehem, but
 was still that same mighty Being spoken of by Isaiah--"Emmanuel, which being
 interpreted is, God with us." ([Matt.
-1:23](https://www.lds.org/scriptures/nt/matt/1.23?lang=eng#22).)
+1:23](/scriptures/nt/matt/1.23?lang=eng#22).)
 
 Jesus Christ, the Jehovah of the heavens, made the heavens and all the
 galaxies within them. He made our universe, with the sun and its planetary
@@ -46,8 +45,8 @@ church, and then was crucified for all humanity.
 Everlasting life comes through Him and in no other way. If we obey His gospel
 we shall live with Him forever. If we reject it, or neglect it, we still shall
 live, but not with Him. It shall be in the lesser areas, in some of which will
-be weeping and wailing and gnashing of teeth. (See [D&amp;C
-19:5](https://www.lds.org/scriptures/dc-testament/dc/19.5?lang=eng#4).)
+be weeping and wailing and gnashing of teeth. (See [D&amp;C 19:5](/scriptures
+/dc-testament/dc/19.5?lang=eng#4).)
 
 Christ is our all, and without Him we are nothing.
 
@@ -61,7 +60,7 @@ grateful because we also have as one of our Articles of Faith a declaration
 that we believe in honesty, truth, kindness, and virtue. That article, you
 remember, reads in part, "We believe in being honest, true, chaste,
 benevolent, virtuous, and in doing good to all men." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 Here we come to the point where faith and works meet each other. Here we ask
 ourselves: Do our works verify our faith, or do they belie our professions? Do
@@ -74,20 +73,17 @@ Was it not James who said, "Shew me thy faith _without thy works,_ and I will
 shew thee my faith _by my works"?_ And did he not say, with such crystal
 clarity that no one need misunderstand, "Faith, if it hath not works, is
 _dead,_ being alone"? (See [James
-2:14-18](https://www.lds.org/scriptures/nt/james/2.14-18?lang=eng#13); italics
-added.)
+2:14-18](/scriptures/nt/james/2.14-18?lang=eng#13); italics added.)
 
 We agree with him and add that professions of piety, without the works of
 piety, are sheer hypocrisy and are dead--even "as the body without the spirit
-is dead." ([James
-2:26](https://www.lds.org/scriptures/nt/james/2.26?lang=eng#25).)
+is dead." ([James 2:26](/scriptures/nt/james/2.26?lang=eng#25).)
 
 In its seductive dress, sin always seems to be attractive at first. It was so
 with Cain, who thought he could sin and get gain. Many today delude themselves
 into thinking the same thing. But the law of retribution is the same now as it
 was then. The wage of sin is ultimate misery and death if there is no
-repentance. (See [Rom.
-6:23](https://www.lds.org/scriptures/nt/rom/6.23?lang=eng#22).)
+repentance. (See [Rom. 6:23](/scriptures/nt/rom/6.23?lang=eng#22).)
 
 Who--understanding the facts--would dare become an enemy to God?
 
@@ -108,8 +104,7 @@ over and he was brought down to the dust, he confessed:
 "I ... knew that there was a God. But behold, the devil hath deceived me. ... And
 he said unto me: There is no God; ... and he taught me that which I should say.
 And I ... taught his words ... because they were pleasing unto the carnal mind."
-([Alma
-30:52-53](https://www.lds.org/scriptures/bofm/alma/30.52-53?lang=eng#51).)
+([Alma 30:52-53](/scriptures/bofm/alma/30.52-53?lang=eng#51).)
 
 Note that last expression--"they were pleasing unto the carnal mind." All sins
 are pleasing to the carnal mind, and dishonesty is certainly one of them!
@@ -118,11 +113,11 @@ What if the Good Samaritan had been a hypocrite and had only pretended to help
 the injured traveler? What if he had brought the injured man to the inn only
 to further abuse him? What if he had paid the innkeeper with counterfeit
 money, or had "run out" on his bill? (See [Luke
-10:25-37](https://www.lds.org/scriptures/nt/luke/10.25-37?lang=eng#24).)
+10:25-37](/scriptures/nt/luke/10.25-37?lang=eng#24).)
 
 What if he were trying to serve two masters? (See [Matt.
-6:24](https://www.lds.org/scriptures/nt/matt/6.24?lang=eng#23).) What if his
-show of piety and mercy was but a masquerade of duplicity?
+6:24](/scriptures/nt/matt/6.24?lang=eng#23).) What if his show of piety and
+mercy was but a masquerade of duplicity?
 
 What would you have thought of him then? Would the Savior have held him up as
 an example? Or would he have poured out his condemnation on that Samaritan as
@@ -150,8 +145,7 @@ Korihor was blind when he fought Alma.
 
 The crucifiers of Christ were blind when they called down His sacrificial
 blood upon their own heads and upon the heads of their poor unsuspecting and
-hapless children. (See [Matt.
-27:25](https://www.lds.org/scriptures/nt/matt/27.25?lang=eng#24).)
+hapless children. (See [Matt. 27:25](/scriptures/nt/matt/27.25?lang=eng#24).)
 
 The traitors from within who helped to bring about the martyrdom of the
 Prophet Joseph Smith were very, very blind--oh, so blind!
@@ -172,24 +166,23 @@ The gospel is a way of life.
 Its purpose is to help us become like Christ.
 
 Did He not ask, "What manner of men ought ye to be?" And did He not reply
-"Even as I am"? ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+"Even as I am"? ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 Did He not command us to seek perfection, even as our Father which is in
-heaven is perfect? (See [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).) He means it.
-These are His laws. They are not mental exercises. They are commandments, and
-He will hold us personally accountable for our obedience or disobedience.
+heaven is perfect? (See [Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47).)
+He means it. These are His laws. They are not mental exercises. They are
+commandments, and He will hold us personally accountable for our obedience or
+disobedience.
 
 If we receive these commandments with a doubtful heart and obey them with
 slothfulness, we can expect only condemnation. (See [D&amp;C
-58:29](https://www.lds.org/scriptures/dc-testament/dc/58.29?lang=eng#28).)
+58:29](/scriptures/dc-testament/dc/58.29?lang=eng#28).)
 
 We must take a positive approach to our religion and literally make it a way
 of life, a plan of daily action. We must reform ourselves day by day along
 gospel lines, for this is the time of our probation and it is now that we must
 prepare to meet our God. (See [Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31).)
+34:32](/scriptures/bofm/alma/34.32?lang=eng#31).)
 
 This was told often in the Book of Mormon, you recall, but most of us have
 just read that as a matter of rhetoric. But, brothers and sisters, today is
@@ -203,12 +196,11 @@ from following His plan. It will be our own refusal to put Him first in our
 lives. It will be because we love darkness better than light.
 
 Why do we suppose that He asks us to seek first the kingdom of God and His
-righteousness? (See [Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).) Would He do
-this if He did not mean it? Half obedience will be rejected as readily as full
-violation, and maybe quicker, for half rejection and half acceptance is but a
-sham, an admission of lack of character, a lack of love for Him. It is
-actually an effort to live on both sides of the line.
+righteousness? (See [Matt. 6:33](/scriptures/nt/matt/6.33?lang=eng#32).) Would
+He do this if He did not mean it? Half obedience will be rejected as readily
+as full violation, and maybe quicker, for half rejection and half acceptance
+is but a sham, an admission of lack of character, a lack of love for Him. It
+is actually an effort to live on both sides of the line.
 
 We need not suppose that we can serve two masters. If we try, we may be sure
 of one thing--that our master will _not_ be the Christ, for He will not accept
@@ -218,8 +210,8 @@ How did our Father in Heaven describe His Beloved Son? Do you remember His
 wonderful words?
 
 He declared that Jesus is "full of grace and truth." ([John
-1:14](https://www.lds.org/scriptures/nt/john/1.14?lang=eng#13).) Christ is a
-God of truth. He is a God of love, but He is also a God of grace.
+1:14](/scriptures/nt/john/1.14?lang=eng#13).) Christ is a God of truth. He is
+a God of love, but He is also a God of grace.
 
 What do we mean by the grace of God?
 
@@ -233,14 +225,13 @@ sure: if such is our attitude, we most certainly shall have none of it.
 
 Obedience is the thing. What did Samuel say to Saul when he tried to serve two
 masters? "To obey is better than sacrifice, and to hearken than the fat of
-rams." ([1 Sam.
-15:22](https://www.lds.org/scriptures/ot/1-sam/15.22?lang=eng#21).)
+rams." ([1 Sam. 15:22](/scriptures/ot/1-sam/15.22?lang=eng#21).)
 
 If we try to serve two masters, are we any better than Saul? If we try to
 deceive the brethren by professions of piety, hiding our sins from them, are
 we any better than Ananias and Sapphira, who were stricken at the feet of the
 Apostle Peter when they lied to him? (See [Acts
-5:1-10](https://www.lds.org/scriptures/nt/acts/5.1-10?lang=eng#0).)
+5:1-10](/scriptures/nt/acts/5.1-10?lang=eng#0).)
 
 We are commanded to become like Christ. We are commanded to develop both grace
 and truth in our lives. If we are to be like Him, and He is a God of grace and
@@ -252,12 +243,11 @@ us not try to put Him there. When Alma baptized his converts in the waters of
 Mormon, those humble Saints were filled with the grace of God, the love of
 God, mercy, brotherly kindness, charity. And their priests labored so
 righteously that they too were filled with heavenly grace. (See [Mosiah
-18:16-26](https://www.lds.org/scriptures/bofm/mosiah/18.16-26?lang=eng#15).)
+18:16-26](/scriptures/bofm/mosiah/18.16-26?lang=eng#15).)
 
 When the Lord addressed the early elders of this Church, He taught them that
 they must grow in grace as well as knowledge before they went out to preach.
-(See [D&amp;C 50:40](https://www.lds.org/scriptures/dc-
-testament/dc/50.40?lang=eng#39).)
+(See [D&amp;C 50:40](/scriptures/dc-testament/dc/50.40?lang=eng#39).)
 
 The Lord told the Prophet Joseph Smith that all who keep the commandments will
 be blessed with grace from heaven--the love of Christ, charity, compassion,
@@ -265,8 +255,7 @@ mercy, kindness, honesty.
 
 These are the characteristics of the Savior. These we must seek for ourselves.
 The Lord has promised that if we obey Him, He will lead us from grace to
-grace. (See [D&amp;C 93:20](https://www.lds.org/scriptures/dc-
-testament/dc/93.20?lang=eng#19).)
+grace. (See [D&amp;C 93:20](/scriptures/dc-testament/dc/93.20?lang=eng#19).)
 
 Then shall we not obey? Shall we not plan for it? Shall we not seek the
 kingdom of God and His righteousness first, last, and always? We must never
@@ -287,15 +276,16 @@ God of truth--in nothing but the truth?
 What shall we do with the sacrament of the Lord's Supper wherein we pledge to
 high heaven, by the very crucifixion of the Christ, that we will always
 remember Him and keep His commandments which He has given us? (See [D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76).)
-Shall we repudiate it by our sins--or shall we bow our heads in humility and
-say, "Not as I will, but as thou wilt"?
+20:77](/scriptures/dc-testament/dc/20.77?lang=eng#76).) Shall we repudiate it
+by our sins--or shall we bow our heads in humility and say, "Not as I will,
+but as thou wilt"?
 
 Though I speak with the tongues of men and of angels and have not grace,
 mercy, honesty, kindness, and the charity of Christ, I am as sounding brass or
-a tinkling cymbal. (See [1 Cor.
-13:1](https://www.lds.org/scriptures/nt/1-cor/13.1?lang=eng#0).)
+a tinkling cymbal. (See [1 Cor. 13:1](/scriptures/nt/1-cor/13.1?lang=eng#0).)
 
 Humble obedience is the thing. It alone can save us. To this I testify, in the
 sacred name of the Lord Jesus Christ, amen.
+
+## References
 

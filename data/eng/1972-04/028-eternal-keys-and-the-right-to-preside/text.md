@@ -45,11 +45,11 @@ priesthood and that the keys of the kingdom of God are here. They are found
 only in The Church of Jesus Christ of Latter-day Saints.
 
 By revelation to Joseph Smith, the Lord said that these keys "belong always
-unto the Presidency of the High Priesthood" ([D&amp;C
-81:2](https://www.lds.org/scriptures/dc-testament/dc/81.2?lang=eng#1)), and
-also, "Whosoever receiveth my word receiveth me, and whosoever receiveth me,
-receiveth those, the First Presidency, whom I have sent" ([D&amp;C
-112:20](https://www.lds.org/scriptures/dc-testament/dc/112.20?lang=eng#19)).
+unto the Presidency of the High Priesthood" ([D&amp;C 81:2](/scriptures/dc-
+testament/dc/81.2?lang=eng#1)), and also, "Whosoever receiveth my word
+receiveth me, and whosoever receiveth me, receiveth those, the First
+Presidency, whom I have sent" ([D&amp;C 112:20](/scriptures/dc-
+testament/dc/112.20?lang=eng#19)).
 
 In this same connection the Prophet Joseph Smith said: "You must make
 yourselves acquainted with those men who like Daniel pray three times a day
@@ -71,14 +71,13 @@ The Lord said very plainly to Joseph Smith "that it shall not be given to any
 one to go forth to preach my gospel, or to build up my church, except he be
 ordained by some one who has authority, and it is known to the church that he
 has authority and has been regularly ordained by the heads of the church."
-([D&amp;C 42:11](https://www.lds.org/scriptures/dc-
-testament/dc/42.11?lang=eng#10).)
+([D&amp;C 42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10).)
 
 And also: "The keys of the kingdom of God are committed unto man on the earth,
 and from thence shall the gospel roll forth unto the ends of the earth, as the
 stone which is cut out of the mountain without hands shall roll forth, until
-it has filled the whole earth." ([D&amp;C 65:2](https://www.lds.org/scriptures
-/dc-testament/dc/65.2?lang=eng#1).)
+it has filled the whole earth." ([D&amp;C 65:2](/scriptures/dc-
+testament/dc/65.2?lang=eng#1).)
 
 Now, brethren, these things are true. The Lord is with his people. The cause
 of righteousness shall prevail. Our cause is just, and the Lord will guide and
@@ -89,4 +88,6 @@ counsel and direction, no power on earth can stay or change our course as a
 church, and as individuals we shall gain peace in this life and be inheritors
 of eternal glory in the world to come. And I say this to you, my good
 brethren, in the name of the Lord Jesus Christ. Amen.
+
+## References
 

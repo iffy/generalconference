@@ -82,7 +82,7 @@ I quote again from the pamphlet:
 "I found that this people possessed a beautiful Temple and a very fine
 Tabernacle, with prettily laid out and well cared for grounds; their houses
 too were neat and picturesque, with nice gardens attached to them, while they
-could boast of a Tabernacle Choir ... , the best that I have ever heard.
+could boast of a Tabernacle Choir ..., the best that I have ever heard.
 Everything to do with this people appeared to be most excellently managed and
 looked after, while their missionaries were preaching the Gospel in most parts
 of the world, having gone out altogether at their own cost, and at a very
@@ -104,8 +104,7 @@ through whom the gifts of the Spirit could be manifest.
 
 He was impressed as he came to understand the prayer of Jesus as he prayed
 that all his children might be one, even as he and his Father in Heaven were
-one (see [John
-17:11](https://www.lds.org/scriptures/nt/john/17.11?lang=eng#10)). This is his
+one (see [John 17:11](/scriptures/nt/john/17.11?lang=eng#10)). This is his
 comment:
 
 "Now does it seem possible to suppose that this spirit of Unity, this
@@ -137,14 +136,13 @@ epistle to the Corinthians:
 
 "Else what shall they do which are baptized for the dead, if the dead rise not
 at all? why are they then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).)
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).)
 
 Peter answered that question in these words:
 
 "For for this cause was the gospel preached also to them that are dead, that
 they might be judged according to men in the flesh, but live according to God
-in the spirit" ([1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5)).
+in the spirit" ([1 Pet. 4:6](/scriptures/nt/1-pet/4.6?lang=eng#5)).
 
 We know by the scriptures that the gospel is preached to the dead and the dead
 are to be judged according to men in the flesh and live according to God in
@@ -159,7 +157,7 @@ even as we relied on Christ to do for us what we could not do for ourselves.
 
 The Lord has said, referring to baptism for our dead, "For we without them
 cannot be made perfect; neither can they without us be made perfect" ([D&amp;C
-128:18](https://www.lds.org/scriptures/dc-testament/dc/128.18?lang=eng#17)).
+128:18](/scriptures/dc-testament/dc/128.18?lang=eng#17)).
 
 God has provided the way to attain this perfection through genealogical and
 temple work so that we may trace our ancestry and link family to family back
@@ -171,7 +169,7 @@ dreadful day of the Lord:
 
 "And he shall turn the heart of the fathers to the children, and the heart of
 the children to their fathers, lest I come and smite the earth with a curse."
-([Mal. 4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4).)
+([Mal. 4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4).)
 
 In view of all the evidence to show that the different churches which sprang
 up into existence following the death of Christ and his apostles had departed
@@ -197,20 +195,16 @@ Bible.
 Ezekiel refers to these two books as the Stick of Judah and the Stick of
 Joseph, and prophesies that they shall become one, meaning that they proclaim
 the same gospel and teach the same doctrines (see [Ezek.
-37:16-19](https://www.lds.org/scriptures/ot/ezek/37.16-19?lang=eng#15)).
+37:16-19](/scriptures/ot/ezek/37.16-19?lang=eng#15)).
 
 Now let me summarize some of the reasons given by Mr. Thomas for joining the
 Church:
 
-  1. The moral character of the people as a whole, their faith in God, and their testimonies regarding the divinity of the work in which they were engaged.
-
-  2. The completeness and effectiveness of the Church organization, with the same ordinances as in the church established by Jesus Christ.
-
-  3. The restoration of the gospel following the Apostasy, and the need for a living prophet through whom God could continue to reveal his word for the guidance of his people.
-
-  4. Baptism by immersion for the remission of sins, prohibition of infant baptism, and baptism for the dead, all of which were doctrines taught in Christ's original church.
-
-  5. Genealogical and temple work for the living and the dead, as referred to in the Old and New Testaments.
+  1. The moral character of the people as a whole, their faith in God, and their testimonies regarding the divinity of the work in which they were engaged. 
+  2. The completeness and effectiveness of the Church organization, with the same ordinances as in the church established by Jesus Christ. 
+  3. The restoration of the gospel following the Apostasy, and the need for a living prophet through whom God could continue to reveal his word for the guidance of his people. 
+  4. Baptism by immersion for the remission of sins, prohibition of infant baptism, and baptism for the dead, all of which were doctrines taught in Christ's original church. 
+  5. Genealogical and temple work for the living and the dead, as referred to in the Old and New Testaments. 
 
 Reasons given by converts who join the Church today are similar and so varied
 as to lead to the conclusion that The Church of Jesus Christ of Latter-day
@@ -283,8 +277,7 @@ decided to convert, gave the following testimony:
 
 "I have written this in order to show that as in the Bible, when a man finds a
 'pearl of great price,' he will sell all that he has if necessary in order to
-obtain it [see [Matt.
-13:46](https://www.lds.org/scriptures/nt/matt/13.46?lang=eng#45)]. I have
+obtain it [see [Matt. 13:46](/scriptures/nt/matt/13.46?lang=eng#45)]. I have
 found that peace and truth within the Mormon church for which I had been
 seeking for over twelve years.
 
@@ -310,7 +303,7 @@ eternal life and the way to exaltation.
 
 Jesus said, "This is my work and my glory--to bring to pass the immortality
 and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 This is so important, that he gave his life for us that we may be resurrected,
 and he gave us the plan of life and salvation by which this may be
@@ -321,4 +314,6 @@ If you are searching for happiness in this life and eternal life with God the
 Father and his Son Jesus Christ hereafter, then I would exhort all of you to
 find the way, the truth, and the life, which is in The Church of Jesus Christ
 of Latter-day Saints. In the name of Jesus Christ, amen.
+
+## References
 

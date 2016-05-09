@@ -126,12 +126,12 @@ become worthy members of The Church of Jesus Christ of Latter-day Saints, we
 learn that we can reach the status of worthiness for each goal along life's
 path. Yet we must strive for worthiness.
 
-In Official Declaration--2 [[OD 2](https://www.lds.org/scriptures/dc-
-testament/od/2.title?lang=eng)], accepted by the Church on September 30, 1978,
-we are reminded that certain privileges have worthiness as a prerequisite. In
-this official declaration, the word _worthy_ or _worthiness_ is used six
-times. This leaves little doubt as to the importance of being worthy if
-specific blessings are to be available to us.
+In Official Declaration--2 [[OD 2](/scriptures/dc-testament/od/2?lang=eng)],
+accepted by the Church on September 30, 1978, we are reminded that certain
+privileges have worthiness as a prerequisite. In this official declaration,
+the word _worthy_ or _worthiness_ is used six times. This leaves little doubt
+as to the importance of being worthy if specific blessings are to be available
+to us.
 
 As we said in the beginning, it is a wonderful strength and a needful process
 to be able to go to a bishop or a stake president and discuss our worthiness.
@@ -176,13 +176,13 @@ Nov. 1978, pp. 41-42.)
 As we strive for worthiness, a scripture we should not lose sight of is
 Doctrine and Covenants, section 136, verse 31: "He that will not bear
 chastisement is not worthy of [the Lord's] kingdom." [[D&amp;C
-136:31](https://www.lds.org/scriptures/dc-testament/dc/136.31?lang=eng#30)]
-Sometimes there is a great need for us to be chastised, disciplined, and
-corrected in a spirit of love, help, and hope. Guidance and suggestions should
-be offered in a loving way, but most of us have a tendency to rebel or be
-dismayed when someone suggests that our conduct is less than it should be. As
-Benjamin Franklin once said: "Those things that hurt, instruct. It is for this
-reason that wise people learn not to dread but welcome problems."
+136:31](/scriptures/dc-testament/dc/136.31?lang=eng#30)] Sometimes there is a
+great need for us to be chastised, disciplined, and corrected in a spirit of
+love, help, and hope. Guidance and suggestions should be offered in a loving
+way, but most of us have a tendency to rebel or be dismayed when someone
+suggests that our conduct is less than it should be. As Benjamin Franklin once
+said: "Those things that hurt, instruct. It is for this reason that wise
+people learn not to dread but welcome problems."
 
 In life there are requirements for almost all privileges--education demands
 them, business has its regulations, sports and games have their rules, the
@@ -272,4 +272,6 @@ as unworthy.
 
 I leave my love, blessings, and testimony of these truths in the worthy name
 of Jesus Christ, amen.
+
+## References
 

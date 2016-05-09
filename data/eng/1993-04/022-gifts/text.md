@@ -40,7 +40,7 @@ Christmas day came; the treasured gifts were exchanged. Then the surprise
 ending, so typical of O. Henry's short stories: The wife had shorn her long
 hair and sold it to obtain funds to purchase the watch chain, only to discover
 that her husband had sold his watch, that he might purchase the comb to adorn
-her beautiful long hair, which now she did not have. [1]
+her beautiful long hair, which now she did not have.[1]
 
 At home in a hidden-away corner, I have a small black walking stick with an
 imitation silver handle. It once belonged to a distant relative. Why do I keep
@@ -49,12 +49,12 @@ as a very small boy I participated in a Christmas pageant in our ward. I was
 privileged to be one of the Three Wise Men. With a bandanna about my head,
 Mother's Chickering piano bench cover draped over my shoulder, and the black
 cane in my hand, I spoke my assigned lines: "Where is he that is born King of
-the Jews? for we have seen his star in the east, and are come to worship him."
-[2]  I don't recall all of the words in that pageant, but I vividly remember
-the feelings of my heart as the three of us "wise men" looked upward and saw a
-star, journeyed across the stage, found Mary with the young child Jesus, then
-fell down and worshiped him and opened our treasures and presented gifts:
-gold, frankincense, and myrrh.
+the Jews? for we have seen his star in the east, and are come to worship
+him."[2] I don't recall all of the words in that pageant, but I vividly
+remember the feelings of my heart as the three of us "wise men" looked upward
+and saw a star, journeyed across the stage, found Mary with the young child
+Jesus, then fell down and worshiped him and opened our treasures and presented
+gifts: gold, frankincense, and myrrh.
 
 I especially liked the fact that we did not return to the evil Herod to betray
 the baby Jesus, but obeyed God and departed another way.
@@ -70,16 +70,13 @@ awaited bicycle--even the "Star Trek" books and videos--and direct our
 thoughts to those God-given gifts that endure. I have chosen from a long list
 just four:
 
-  1. The gift of birth.
+  1. The gift of birth. 
+  2. The gift of peace. 
+  3. The gift of love. 
+  4. The gift of life eternal. 
 
-  2. The gift of peace.
-
-  3. The gift of love.
-
-  4. The gift of life eternal.
-
-First, the gift of birth. It has been universally bestowed on each of us. Ours
-was the divine privilege to depart our heavenly home to tabernacle in the
+First, **the gift of birth.** It has been universally bestowed on each of us.
+Ours was the divine privilege to depart our heavenly home to tabernacle in the
 flesh and to demonstrate by our lives our worthiness and qualifications to one
 day return to Him, precious loved ones, and a kingdom called _celestial._ Our
 mothers and our fathers bestowed this marvelous gift on us. Ours is the
@@ -95,23 +92,23 @@ Dad."
 
 Our gratitude to Mother for the gift of birth is equal or beyond that owed to
 Father. She who looked upon us as "a sweet new blossom of humanity, fresh
-fallen from God's own home, to flower on earth" [3]  and cared for our every
+fallen from God's own home, to flower on earth"[3] and cared for our every
 need, comforted our every cry, and later rejoiced in any of our
 accomplishments and wept over our failures and disappointments occupies a
 singular place of honor in our hearts.
 
 A passage from 3 John sets forth the formula whereby we might express to our
 parents our gratitude for the gift of birth: "I have no greater joy than to
-hear that my children walk in truth." [4]  Let us so walk. Let us so honor the
+hear that my children walk in truth."[4] Let us so walk. Let us so honor the
 givers of this priceless gift of birth.
 
-Second, the gift of peace. In the raucous world in which we live, the din of
-traffic, the blaring commercials of the media, and the sheer demands placed on
-our time--to say nothing of the problems of the world--cause headache, inflict
-pain, and sap our strength to cope. The burden of sickness or the grief of
-mourning a loved one departed brings us to our knees seeking heavenly help.
-With the ancients we may wonder, "Is there no balm in Gilead?" [5]  There is a
-certain sadness, even hopelessness, in the verse:
+Second, **the gift of peace.** In the raucous world in which we live, the din
+of traffic, the blaring commercials of the media, and the sheer demands placed
+on our time--to say nothing of the problems of the world--cause headache,
+inflict pain, and sap our strength to cope. The burden of sickness or the
+grief of mourning a loved one departed brings us to our knees seeking heavenly
+help. With the ancients we may wonder, "Is there no balm in Gilead?"[5] There
+is a certain sadness, even hopelessness, in the verse:
 
 _There is never a life without sadness,_
 
@@ -119,12 +116,12 @@ _There is never a heart free from pain;_
 
 _If one seeks in this world for true solace,_
 
-_He seeks it forever in vain._ [6]
+_He seeks it forever in vain._[6]
 
 He who was burdened with sorrow and acquainted with grief speaks to every
 troubled heart and bestows the gift of peace. "Peace I leave with you, my
 peace I give unto you: not as the world giveth, give I unto you. Let not your
-heart be troubled, neither let it be afraid." [7]
+heart be troubled, neither let it be afraid."[7]
 
 He sends forth His word through the missionaries serving far and wide
 proclaiming His gospel of good tidings and salutation of peace. Vexing
@@ -134,7 +131,7 @@ flees, doubt disappears, and wonder wanes when truth is taught in boldness,
 yet in a spirit of humility, by those who have been called to serve the Prince
 of Peace--even the Lord Jesus Christ. His gift is bestowed individually:
 "Behold, I stand at the door, and knock: if any man hear my voice, and open
-the door, I will come in to him." [8]
+the door, I will come in to him."[8]
 
 The passport to peace is the practice of prayer. The feelings of the heart,
 humbly expressed rather than a mere recitation of words, provide the peace we
@@ -142,7 +139,7 @@ seek.
 
 In Shakespeare's _Hamlet, _the wicked King Claudius kneels and tries to pray,
 but he rises and says, "My words fly up, my thoughts remain below: /Words
-without thoughts never to heaven go." [9]
+without thoughts never to heaven go."[9]
 
 One who received and welcomed the gift of peace was Joseph Millett, an early
 missionary to the Maritime Provinces of Canada who learned while there, and in
@@ -160,26 +157,26 @@ Said he had tried others. Could not get any. Went to the cedars and prayed to
 the Lord and the Lord told him to go to Joseph Millett. 'Well, Brother Hall,
 you needn't bring this back if the Lord sent you for it. You don't owe me for
 it.' You can't tell how good it made me feel to know that the Lord knew that
-there was such a person as Joseph Millett." [10]
+there was such a person as Joseph Millett."[10]
 
 Prayer brought the gift of peace to Newton Hall and to Joseph Millett.
 
-Third, the gift of love. "Master, which is the great commandment in the law?"
-queried the lawyer who spoke to Jesus. Came the prompt reply: "Thou shalt love
-the Lord thy God with all thy heart, and with all thy soul, and with all thy
-mind.
+Third, **the gift of love.** "Master, which is the great commandment in the
+law?" queried the lawyer who spoke to Jesus. Came the prompt reply: "Thou
+shalt love the Lord thy God with all thy heart, and with all thy soul, and
+with all thy mind.
 
 "This is the first and great commandment.
 
-"And the second is like unto it, Thou shalt love thy neighbour as thyself."
-[11]
+"And the second is like unto it, Thou shalt love thy neighbour as
+thyself."[11]
 
 On another occasion, the Lord taught, "He that hath my commandments, and
-keepeth them, he it is that loveth me." [12]  The scriptures are filled with
-the importance of love and its relevance in our lives. The Book of Mormon
-teaches that charity is the pure love of Christ. [13]  The Master Himself
-provided an ideal pattern for us to follow. Of Him it was said that He "went
-about doing good ... ; for God was with him." [14]
+keepeth them, he it is that loveth me."[12] The scriptures are filled with the
+importance of love and its relevance in our lives. The Book of Mormon teaches
+that charity is the pure love of Christ.[13] The Master Himself provided an
+ideal pattern for us to follow. Of Him it was said that He "went about doing
+good ... ; for God was with him."[14]
 
 A few lines from the favorite musical _The Sound of Music_ suggest a course of
 action all might well follow:
@@ -190,7 +187,7 @@ _A song is no song till you sing it,_
 
 _And love in your heart wasn't put there to stay--_
 
-_Love isn't love till you give it away._ [15]
+_Love isn't love till you give it away._[15]
 
 A segment of our society desperately yearning for an expression of true love
 is found among those growing older, and particularly when they suffer from
@@ -206,7 +203,7 @@ in someone's heart and life. ...
 
 "We cannot bring them back the morning hours of youth. But we can help them
 live in the warm glow of a sunset made more beautiful by our thoughtfulness,
-by our provision, and by our active and unfeigned love." [16]  So wrote Elder
+by our provision, and by our active and unfeigned love."[16] So wrote Elder
 Richard L. Evans some years ago.
 
 At times an awareness of the elderly is brought into focus by a reminder from
@@ -230,7 +227,7 @@ you when you get old."
 Frequently we are inclined to wait a lifetime to express love for the kindness
 or help given by another even long years before. Perhaps just such an
 experience prompted George Herbert to say, "Thou that hast given so much to
-[me], give one thing more: a grateful heart." [17]
+[me], give one thing more: a grateful heart."[17]
 
 The story is told of a group of men who were talking about people who had
 influenced their lives and to whom they were grateful. One man thought of a
@@ -263,25 +260,25 @@ _But I never have yet_
 
 _Felt a tinge of regret_
 
-_For being a little too kind._ [18]
+_For being a little too kind._[18]
 
-Fourth, the gift of life--even immortality. Our Heavenly Father's plan
+Fourth, **the gift of life**--even immortality. Our Heavenly Father's plan
 contains the ultimate expressions of true love. All that we hold dear, even
 our families, our friends, our joy, our knowledge, our testimonies, would
 vanish were it not for our Father and His Son, the Lord Jesus Christ. Among
 the most cherished thoughts and writings in this world is the divine statement
 of truth: "For God so loved the world, that he gave his only begotten Son,
-that whosoever believeth in him should not perish, but have everlasting life."
-[19]
+that whosoever believeth in him should not perish, but have everlasting
+life."[19]
 
 This precious Son, our Lord and Savior, atoned for our sins and the sins of
 all. That memorable night in Gethsemane His suffering was so great, His
 anguish so consuming that He pleaded, "Father, if it be possible, let this cup
-pass from me: nevertheless not as I will, but as thou wilt." [20]  Later, on
-the cruel cross, He died that we might live, and live everlastingly.
-Resurrection morning was preceded by pain, by suffering in accordance with the
-divine plan of God. Before Easter there had to be a cross. The world has
-witnessed no greater gift, nor has it known more lasting love.
+pass from me: nevertheless not as I will, but as thou wilt."[20] Later, on the
+cruel cross, He died that we might live, and live everlastingly. Resurrection
+morning was preceded by pain, by suffering in accordance with the divine plan
+of God. Before Easter there had to be a cross. The world has witnessed no
+greater gift, nor has it known more lasting love.
 
 Nephi gives to us our charge: "Ye must press forward with a steadfastness in
 Christ, having a perfect brightness of hope, and a love of God and of all men.
@@ -289,7 +286,7 @@ Christ, having a perfect brightness of hope, and a love of God and of all men.
 the end, behold, thus saith the Father: Ye shall have eternal life.
 
 "And now, behold, ... this is the way; and there is none other way nor name
-given under heaven whereby man can be saved in the kingdom of God." [21]
+given under heaven whereby man can be saved in the kingdom of God."[21]
 
 I close with the words of a revered prophet, even President Harold B. Lee:
 "Life is God's gift to man. What we do with our life is our gift to God."
@@ -300,45 +297,45 @@ In the name of Jesus Christ, amen.
 
 ## References
 
-  1.  See "The Gift of the Magi."
+  1. See "The Gift of the Magi."
 
-  2.   [Matt. 2:2](https://www.lds.org/scriptures/nt/matt/2.2?lang=eng#1).
+  2. [Matt. 2:2](https://www.lds.org/scriptures/nt/matt/2.2?lang=eng#1).
 
-  3.  Gerald Massey, in _The International Dictionary of Thoughts_ (Chicago: J. G. Ferguson Publishing Co., 1969), p. 66.
+  3. Gerald Massey, in _The International Dictionary of Thoughts_ (Chicago: J. G. Ferguson Publishing Co., 1969), p. 66.
 
-  4.   [3 Jn. 1:4](https://www.lds.org/scriptures/nt/3-jn/1.4?lang=eng#3).
+  4. [3 Jn. 1:4](https://www.lds.org/scriptures/nt/3-jn/1.4?lang=eng#3).
 
-  5.   [Jer. 8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).
+  5. [Jer. 8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).
 
-  6.  Author unknown.
+  6. Author unknown.
 
-  7.   [John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).
+  7. [John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).
 
-  8.   [Rev. 3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).
+  8. [Rev. 3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).
 
-  9.  Act 3, sc. 3, lines 97-98.
+  9. Act 3, sc. 3, lines 97-98.
 
-  10.   _New Era,_ July 1975, p. 28.
+  10. _New Era,_ July 1975, p. 28.
 
-  11.   [Matt. 22:36-39](https://www.lds.org/scriptures/nt/matt/22.36-39?lang=eng#35).
+  11. [Matt. 22:36-39](https://www.lds.org/scriptures/nt/matt/22.36-39?lang=eng#35).
 
-  12.   [John 14:21](https://www.lds.org/scriptures/nt/john/14.21?lang=eng#20).
+  12. [John 14:21](https://www.lds.org/scriptures/nt/john/14.21?lang=eng#20).
 
-  13.  See [Moro. 7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).
+  13. See [Moro. 7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).
 
-  14.   [Acts 10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).
+  14. [Acts 10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).
 
-  15.  "Sixteen, Going on Seventeen," from _The Sound of Music._
+  15. "Sixteen, Going on Seventeen," from _The Sound of Music._
 
-  16.   _Thoughts ... for One Hundred Days_ (Salt Lake City: Publishers Press, 1966), p. 222.
+  16. _Thoughts ... for One Hundred Days_ (Salt Lake City: Publishers Press, 1966), p. 222.
 
-  17.  As cited in Richard L. Evans, _Richard Evans' Quote Book_ (Salt Lake City: Publishers Press, 1971), p. 238.
+  17. As cited in Richard L. Evans, _Richard Evans' Quote Book_ (Salt Lake City: Publishers Press, 1971), p. 238.
 
-  18.   _Improvement Era,_ May 1960, p. 340.
+  18. _Improvement Era,_ May 1960, p. 340.
 
-  19.   [John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).
+  19. [John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).
 
-  20.   [Matt. 26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).
+  20. [Matt. 26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).
 
-  21.   [2 Ne. 31:20-21](https://www.lds.org/scriptures/bofm/2-ne/31.20-21?lang=eng#19).
+  21. [2 Ne. 31:20-21](https://www.lds.org/scriptures/bofm/2-ne/31.20-21?lang=eng#19).
 

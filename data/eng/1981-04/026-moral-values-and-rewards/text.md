@@ -14,29 +14,28 @@ bring peace to our souls, to strengthen our families, and to uplift the
 dignity of men.
 
 The Lord said, "Wherefore, hear my voice and follow me, and you shall be a
-free people." ([D&amp;C 38:22](https://www.lds.org/scriptures/dc-
+free people." ([D&amp;C 38:22](/scriptures/dc-
 testament/dc/38.22?lang=eng#21).)
 
 During his ministry he said, "Know the truth, and the truth shall make you
-free." ([John 8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31).)
+free." ([John 8:32](/scriptures/nt/john/8.32?lang=eng#31).)
 
 The Psalmist wrote, "Blessed is the nation whose God is the Lord." ([Ps.
-33:12](https://www.lds.org/scriptures/ot/ps/33.12?lang=eng#11).)
+33:12](/scriptures/ot/ps/33.12?lang=eng#11).)
 
 From Ecclesiastes, "Fear God, and keep his commandments: for this is the whole
-duty of man." ([Eccl.
-12:13](https://www.lds.org/scriptures/ot/eccl/12.13?lang=eng#12).)
+duty of man." ([Eccl. 12:13](/scriptures/ot/eccl/12.13?lang=eng#12).)
 
 The Savior said, "For whatsoever ye sow, that shall ye also reap." ([D&amp;C
-6:33](https://www.lds.org/scriptures/dc-testament/dc/6.33?lang=eng#32).)
+6:33](/scriptures/dc-testament/dc/6.33?lang=eng#32).)
 
 And from latter-day scripture we learn, "There is a law, irrevocably decreed
 in heaven before the foundations of this world, upon which all blessings are
 predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19).)
+which it is predicated." ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19).)
 
 The basic unit of society is the family. Our moral values are established in
 our family relations. The responsibility for teaching moral principles rests
@@ -45,12 +44,11 @@ responsible parenthood. In an ideal society, the home should accept the
 responsibility for teaching moral values.
 
 The Lord said, "But I have commanded you to bring up your children in light
-and truth." ([D&amp;C 93:40](https://www.lds.org/scriptures/dc-
-testament/dc/93.40?lang=eng#39).)
+and truth." ([D&amp;C 93:40](/scriptures/dc-testament/dc/93.40?lang=eng#39).)
 
 And again, "And they shall also teach their children to pray, and to walk
-uprightly before the Lord." ([D&amp;C 68:28](https://www.lds.org/scriptures
-/dc-testament/dc/68.28?lang=eng#27).)
+uprightly before the Lord." ([D&amp;C 68:28](/scriptures/dc-
+testament/dc/68.28?lang=eng#27).)
 
 The teachers in church and in school should be allies of the parents in
 teaching children appropriate values that will guide them throughout their
@@ -91,7 +89,7 @@ would have told you. I go to prepare a place for you.
 
 "And if I go and prepare a place for you, I will come again, and receive you
 unto myself; that where I am, there ye may be also." ([John
-14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1).)
+14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1).)
 
 I asked him what Jesus meant by that. He pondered the question, and then he
 was ready to listen. I explained about the spirit world and the Resurrection
@@ -132,7 +130,7 @@ revelation and commandment through the medium of mine anointed, whom I have
 appointed on the earth to hold this power ... are of no efficacy, virtue, or
 force in and after the resurrection from the dead; for all contracts that are
 not made unto this end have an end when men are dead." ([D&amp;C
-132:7](https://www.lds.org/scriptures/dc-testament/dc/132.7?lang=eng#6).)
+132:7](/scriptures/dc-testament/dc/132.7?lang=eng#6).)
 
 I testify that the authority from God to seal by the Holy Spirit of Promise
 for time and all eternity is vested in our prophet, Spencer W. Kimball. He has
@@ -145,9 +143,9 @@ important message--that you can be with your families forever. All you have to
 do to qualify is to keep the commandments of the Lord.
 
 The scriptures tell us, "And the spirit and the body are the soul of man."
-([D&amp;C 88:15](https://www.lds.org/scriptures/dc-
-testament/dc/88.15?lang=eng#14).) When a man dies, his body goes to the grave
-and his spirit goes to a place of waiting. We call that place paradise.
+([D&amp;C 88:15](/scriptures/dc-testament/dc/88.15?lang=eng#14).) When a man
+dies, his body goes to the grave and his spirit goes to a place of waiting. We
+call that place paradise.
 
 President Joseph F. Smith was privileged to look into the spirit world back to
 the time of the advent of the Savior into that great world of the spirits of
@@ -180,8 +178,8 @@ would repent of their sins and receive the gospel.
 
 "Thus was the gospel preached to those who had died in their sins, without a
 knowledge of the truth, or in transgression, having rejected the prophets."
-([D&amp;C 138:11-12, 14, 18, 20, 30-32](https://www.lds.org/scriptures/dc-
-testament/dc/138.11-12%2C14%2C18%2C20%2C30-32?lang=eng#10).)
+([D&amp;C 138:11-12, 14, 18, 20, 30-32](/scriptures/dc-
+testament/dc/138.11-12,14,18,20,30-32?lang=eng#10).)
 
 Today, too, there are spirits awaiting their day of deliverance and
 resurrection. "Faithful elders of this dispensation, when they depart from
@@ -195,7 +193,7 @@ the house of God,
 
 "And after they have paid the penalty of their transgressions, and are washed
 clean, shall receive a reward according to their works, for they are heirs of
-salvation." ([D&amp;C 138:57-59](https://www.lds.org/scriptures/dc-
+salvation." ([D&amp;C 138:57-59](/scriptures/dc-
 testament/dc/138.57-59?lang=eng#56).)
 
 One of the major missions of the Church is to uniquely identify these
@@ -216,4 +214,6 @@ it is the Lord's program of salvation, which exalts and brings freedom, in
 every sense of the word, to those who will hear his voice and follow him, to
 which I testify in the name of him who gave his life that these things might
 be, even the Lord, Jesus Christ, amen.
+
+## References
 

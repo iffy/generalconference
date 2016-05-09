@@ -4,8 +4,8 @@ My brethren and sisters, I greet you with love and sincere appreciation. I
 seek the direction of the Holy Spirit. Today is the birthday of the Church. It
 was organized 156 years ago, which was "eighteen hundred and thirty years
 since the coming of our Lord and Savior Jesus Christ in the flesh." ([D&amp;C
-20:1](https://www.lds.org/scriptures/dc-testament/dc/20.1?lang=eng#0).) Six
-men participated as the official incorporating body.
+20:1](/scriptures/dc-testament/dc/20.1?lang=eng#0).) Six men participated as
+the official incorporating body.
 
 Those original six have now become approximately six million. The growth of
 this work has been a constantly unfolding miracle, and what an exciting and
@@ -40,19 +40,19 @@ things. Under His procedure a man is selected by the prophet to become a
 member of the Council of the Twelve Apostles. He does not choose this as a
 career. He is called, as were the Apostles in Jesus' time, to whom the Lord
 said, "Ye have not chosen me, but I have chosen you, and ordained you." ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).) The years
-pass. He is schooled and disciplined in the duties of his office. He travels
-over the earth in fulfilling his apostolic calling. It is a long course of
-preparation, in which he comes to know the Latter-day Saints wherever they may
-be, and they come to know him. The Lord tests his heart and his substance. In
-the natural course of events, vacancies occur in that council and new
-appointments are made. Under this process a particular man becomes the senior
-Apostle. Residing latent in him, and in his associate Brethren, given to each
-at the time of ordination, are all of the keys of the priesthood. But
-authority to exercise those keys is restricted to the President of the Church.
-At his passing, that authority becomes operative in the senior Apostle, who is
-then named, set apart, and ordained a prophet and President by his associates
-of the Council of the Twelve.
+15:16](/scriptures/nt/john/15.16?lang=eng#15).) The years pass. He is schooled
+and disciplined in the duties of his office. He travels over the earth in
+fulfilling his apostolic calling. It is a long course of preparation, in which
+he comes to know the Latter-day Saints wherever they may be, and they come to
+know him. The Lord tests his heart and his substance. In the natural course of
+events, vacancies occur in that council and new appointments are made. Under
+this process a particular man becomes the senior Apostle. Residing latent in
+him, and in his associate Brethren, given to each at the time of ordination,
+are all of the keys of the priesthood. But authority to exercise those keys is
+restricted to the President of the Church. At his passing, that authority
+becomes operative in the senior Apostle, who is then named, set apart, and
+ordained a prophet and President by his associates of the Council of the
+Twelve.
 
 There is no electioneering. There is no campaigning. There is only the quiet
 and simple operation of a divine plan which provides inspired and tested
@@ -86,7 +86,7 @@ As Daniel declared in prophecy:
 
 "The God of heaven set up [this] kingdom, which shall never be destroyed: and
 the kingdom shall not be left to other people, ... and it shall stand for ever."
-([Dan. 2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43).)
+([Dan. 2:44](/scriptures/ot/dan/2.44?lang=eng#43).)
 
 It grows because it satisfies the needs and desires of the human heart,
 regardless of age, sex, race, or language.
@@ -103,7 +103,7 @@ categories--the spiritual, the intellectual, the moral, the physical.
 
 In His great intercessory prayer, Jesus declared: "And this is life eternal,
 that they might know thee the only true God, and Jesus Christ, whom thou hast
-sent." ([John 17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+sent." ([John 17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 Such knowledge is the very foundation of spiritual strength. This is the great
 basic purpose of the restoration of the gospel in this, the dispensation of
@@ -117,9 +117,9 @@ a stable in Bethlehem of Judea, lived the perfect life, and taught the way of
 salvation; who offered Himself a sacrifice for all, enduring pain and death on
 the cross; and who then came forth in a glorious resurrection, the firstfruits
 of them that slept. (See [1 Cor.
-15:20](https://www.lds.org/scriptures/nt/1-cor/15.20?lang=eng#19).) Through
-Him, and by Him, and of Him, all are assured salvation from death and are
-offered the opportunity of eternal life.
+15:20](/scriptures/nt/1-cor/15.20?lang=eng#19).) Through Him, and by Him, and
+of Him, all are assured salvation from death and are offered the opportunity
+of eternal life.
 
 This is the great undergirding truth of our faith. It is the overarching
 canopy under which we find our spiritual strength. With this knowledge we grow
@@ -148,8 +148,8 @@ and strength.
 
 The Lord Almighty, through revelation, has laid a mandate upon this people in
 these words: "Seek ye out of the best books words of wisdom; seek learning,
-even by study and also by faith." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
+even by study and also by faith." ([D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117).)
 
 The other evening I picked up a new publication of the writings of Dr. Hugh
 Nibley, a man my age whom I have known and admired for many years. On the dust
@@ -173,12 +173,11 @@ science, commerce, various of the professions, or the arts.
 
 A declaration of our faith reads: "If there is anything virtuous, lovely, or
 of good report or praiseworthy, we seek after these things." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).) This
-embraces the truth of science, the truth of philosophy, the truth of history,
-the truth of art. I emphasize the word _truth._ It is a principle set forth in
-our scripture that "the glory of God is intelligence, or, in other words,
-light and truth." ([D&amp;C 93:36](https://www.lds.org/scriptures/dc-
-testament/dc/93.36?lang=eng#35).)
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).) This embraces the truth of
+science, the truth of philosophy, the truth of history, the truth of art. I
+emphasize the word _truth._ It is a principle set forth in our scripture that
+"the glory of God is intelligence, or, in other words, light and truth."
+([D&amp;C 93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).)
 
 The mind of man is the crowning creation of God, in whose express image man
 was made. The development of the mind is a companion responsibility to the
@@ -249,8 +248,7 @@ treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 What a marvelous, remarkable, and unique statement of religious principle that
 is. It is a part of our doctrine given by an all-wise Father, our Creator, for
@@ -272,4 +270,6 @@ God be thanked for this glorious work, for this day of restored truth and
 light, for the gospel of Jesus Christ. I bear witness of its divinity as I
 express unto you, my brethren and sisters, my love for each of you, in the
 name of Jesus Christ, amen.
+
+## References
 

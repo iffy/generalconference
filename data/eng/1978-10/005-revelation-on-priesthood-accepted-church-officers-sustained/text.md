@@ -1,4 +1,4 @@
-# Revelation on Priesthood Accepted, Church Officers Sustained
+# Revelation on Priesthood Accepted,Church Officers Sustained
 
 In early June of this year, the First Presidency announced that a revelation
 had been received by President Spencer W. Kimball extending priesthood and
@@ -46,16 +46,6 @@ to insure that they meet the established standards for worthiness.
 blessing of all his children throughout the earth who will hearken to the
 voice of his authorized servants, and prepare themselves to receive every
 blessing of the gospel.
-
-"Sincerely yours,
-
-"Spencer W. Kimball
-
-"N. Eldon Tanner
-
-"Marion G. Romney
-
-"The First Presidency"
 
 Recognizing Spencer W. Kimball as a prophet, seer, and revelator, and
 president of The Church of Jesus Christ of Latter-day Saints, it is proposed
@@ -184,4 +174,6 @@ All in favor, please manifest it. Those opposed by the same sign.
 
 It seems, President Kimball, that the voting has been unanimous in favor of
 these officers and General Authorities.
+
+## References
 

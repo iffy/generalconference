@@ -16,27 +16,25 @@ told them a thousand times.
 Just as earthly parents have issued warnings, the Lord has warned His
 children. "And the voice of warning shall be unto all people, by the mouths of
 my disciples, whom I have chosen in these last days." ([D&amp;C
-1:4](https://www.lds.org/scriptures/dc-testament/dc/1.4?lang=eng#3).)
+1:4](/scriptures/dc-testament/dc/1.4?lang=eng#3).)
 
 And after their testimonies "cometh the testimony of earthquakes, that shall
 cause groanings in the midst of [the earth]. ...
 
 "And also cometh the testimony of the voice of thunderings, ... lightnings, ...
 tempests, and ... waves of the sea heaving themselves beyond their bounds."
-([D&amp;C 88:89-90](https://www.lds.org/scriptures/dc-
-testament/dc/88.89-90?lang=eng#88).)
+([D&amp;C 88:89-90](/scriptures/dc-testament/dc/88.89-90?lang=eng#88).)
 
 "And in that day shall be heard of wars and rumors of wars. ...
 
 "And the love of men shall wax cold, and iniquity shall abound." ([D&amp;C
-45:26-27](https://www.lds.org/scriptures/dc-
-testament/dc/45.26-27?lang=eng#25).)
+45:26-27](/scriptures/dc-testament/dc/45.26-27?lang=eng#25).)
 
-"And plagues shall go forth." ([D&amp;C 84:97](https://www.lds.org/scriptures
-/dc-testament/dc/84.97?lang=eng#96).)
+"And plagues shall go forth." ([D&amp;C 84:97](/scriptures/dc-
+testament/dc/84.97?lang=eng#96).)
 
-"And the whole earth shall be in commotion." ([D&amp;C
-45:26](https://www.lds.org/scriptures/dc-testament/dc/45.26?lang=eng#25).)
+"And the whole earth shall be in commotion." ([D&amp;C 45:26](/scriptures/dc-
+testament/dc/45.26?lang=eng#25).)
 
 It may be an understatement to say the Lord's warnings have begun. How are we
 responding to the cries for help from God's children? Do we ask, "Why don't
@@ -61,23 +59,21 @@ vision that disclosed Laman and Lemuel would not partake of the fruit of the
 tree of life. Immediately after the vision, however, "he did exhort them ...
 with all the feeling of a tender parent, that they would hearken to his words,
 that perhaps the Lord would be merciful to them." ([1 Ne.
-8:37](https://www.lds.org/scriptures/bofm/1-ne/8.37?lang=eng#36).) During the
-remainder of Lehi's life, Laman and Lemuel's actions gave him little hope that
-they would repent. However, he never gave up but labored with them and loved
-them even with his dying breath. (See [2 Ne.
-1:21](https://www.lds.org/scriptures/bofm/2-ne/1.21?lang=eng#20).)
+8:37](/scriptures/bofm/1-ne/8.37?lang=eng#36).) During the remainder of Lehi's
+life, Laman and Lemuel's actions gave him little hope that they would repent.
+However, he never gave up but labored with them and loved them even with his
+dying breath. (See [2 Ne. 1:21](/scriptures/bofm/2-ne/1.21?lang=eng#20).)
 
 The great prophet Mormon set another example worthy of emulation. He lived at
 a time that was hopeless. Imagine this: "There were no gifts from the Lord,
 and the Holy Ghost did not come upon any, because of their wickedness and
-unbelief." ([Morm.
-1:14](https://www.lds.org/scriptures/bofm/morm/1.14?lang=eng#13).)
+unbelief." ([Morm. 1:14](/scriptures/bofm/morm/1.14?lang=eng#13).)
 
 In spite of this hopeless situation Mormon led their armies, for, in his
 words, "Notwithstanding their wickedness I ... loved them, according to the love
 of God which was in me, with all my heart; and my soul had been poured out in
 prayer unto my God all the day long for them." ([Morm.
-3:12](https://www.lds.org/scriptures/bofm/morm/3.12?lang=eng#11).)
+3:12](/scriptures/bofm/morm/3.12?lang=eng#11).)
 
 This prophet had Christlike love for a fallen people. Can we be content with
 loving less? We must press forward with the pure love of Christ to spread the
@@ -97,17 +93,16 @@ engage in those activities."
 We should take these proverbs to heart:
 
 "He that is glad at calamities shall not be unpunished." ([Prov.
-17:5](https://www.lds.org/scriptures/ot/prov/17.5?lang=eng#4).)
+17:5](/scriptures/ot/prov/17.5?lang=eng#4).)
 
 "Rejoice not when thine enemy falleth, and let not thine heart be glad when he
-stumbleth." ([Prov.
-24:17](https://www.lds.org/scriptures/ot/prov/24.17?lang=eng#16).)
+stumbleth." ([Prov. 24:17](/scriptures/ot/prov/24.17?lang=eng#16).)
 
 On this subject Job said: "For I should have denied the God that is above.
 
 "If I rejoiced at the destruction of him that hated me, or lifted up myself
 when evil found him." ([Job
-31:28-29](https://www.lds.org/scriptures/ot/job/31.28-29?lang=eng#27).)
+31:28-29](/scriptures/ot/job/31.28-29?lang=eng#27).)
 
 King Benjamin addressed the sin of judging a person in need very clearly:
 
@@ -117,19 +112,17 @@ impart unto him of my substance that he may not suffer, for his punishments
 are just--
 
 "But I say unto you, O man, whosoever doeth this the same hath great cause to
-repent." ([Mosiah
-4:17-18](https://www.lds.org/scriptures/bofm/mosiah/4.17-18?lang=eng#16).)
+repent." ([Mosiah 4:17-18](/scriptures/bofm/mosiah/4.17-18?lang=eng#16).)
 
 We know many wounds are self-inflicted and could have been avoided simply by
 obeying gospel principles. However, to shrug it off as "their problem" is not
 acceptable to the Lord. He said, "Come unto me, all ye that labour and are
 heavy laden, and I will give you rest." ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).) Although He
-does not condone sin, His arms are always open to the repentant sinner. In
-modern revelation the Lord has asked us to go one step further: "I, the Lord,
-will forgive whom I will forgive, but of you it is required to forgive all
-men." ([D&amp;C 64:10](https://www.lds.org/scriptures/dc-
-testament/dc/64.10?lang=eng#9).)
+11:28](/scriptures/nt/matt/11.28?lang=eng#27).) Although He does not condone
+sin, His arms are always open to the repentant sinner. In modern revelation
+the Lord has asked us to go one step further: "I, the Lord, will forgive whom
+I will forgive, but of you it is required to forgive all men." ([D&amp;C
+64:10](/scriptures/dc-testament/dc/64.10?lang=eng#9).)
 
 Our forgiveness must be manifest by reaching out to help mend wounds even when
 they are the result of transgression. To react in any other way would be akin
@@ -196,10 +189,10 @@ those principles and the Spirit to decide which organizations you would like
 to support.
 
 The Lord said, "Verily I say, men should be anxiously engaged in a good cause,
-and do many things of their own free will." ([D&amp;C
-58:27](https://www.lds.org/scriptures/dc-testament/dc/58.27?lang=eng#26).)
-Good things can be done through the Church organization, community
-organizations, and very often through no formal organization at all.
+and do many things of their own free will." ([D&amp;C 58:27](/scriptures/dc-
+testament/dc/58.27?lang=eng#26).) Good things can be done through the Church
+organization, community organizations, and very often through no formal
+organization at all.
 
 We must reach out beyond the walls of our own church. In humanitarian work, as
 in other areas of the gospel, we cannot become the salt of the earth if we
@@ -216,7 +209,7 @@ Holy Ghost, a sanctification takes place within our souls and we become more
 like our Savior. We gain a better understanding of what was meant when He
 said, "Inasmuch as ye have done it unto one of the least of these my brethren,
 ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 As the last days unfold, we will see all the prophecies fulfilled. We will see
 today's problems compounded, and we will see new challenges scarcely
@@ -224,4 +217,6 @@ imaginable at this time. We must reach out to those who are suffering from
 these events. We must not become fatalistic or judgmental--even if we warn the
 people in the world something a thousand times and they heed us not. In the
 name of Jesus Christ, amen.
+
+## References
 

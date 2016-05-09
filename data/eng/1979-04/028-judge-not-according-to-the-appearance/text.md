@@ -101,8 +101,7 @@ do better; and when we don't, they point at the Church.
 
 Be careful of those who promote controversy and contention, "for verily,
 verily I say unto you, he that hath the spirit of contention is not of me,"
-saith the Lord ([3 Ne.
-11:29](https://www.lds.org/scriptures/bofm/3-ne/11.29?lang=eng#28)).
+saith the Lord ([3 Ne. 11:29](/scriptures/bofm/3-ne/11.29?lang=eng#28)).
 
 This next question concerns those who are shaking your faith.
 
@@ -152,7 +151,7 @@ Unless you are a participant and have full knowledge, better:
 "Judge not, that ye be not judged.
 
 "For with what judgment ye judge, ye shall be judged." ([Matt.
-7:1-2](https://www.lds.org/scriptures/nt/matt/7.1-2?lang=eng#0).)
+7:1-2](/scriptures/nt/matt/7.1-2?lang=eng#0).)
 
 Years ago I learned a lesson about judging.
 
@@ -260,7 +259,7 @@ Indeed, it was noised about, but not by the bishop. Bishops keep confidences.
 John, the Apostle, counseled:
 
 "Judge not according to the appearance, but judge righteous judgment" ([John
-7:24](https://www.lds.org/scriptures/nt/john/7.24?lang=eng#23)).
+7:24](/scriptures/nt/john/7.24?lang=eng#23)).
 
 Now then, stand steady. Keep your faith. I bear witness that the gospel of
 Jesus Christ is true. God lives and directs this work. The Church is on the
@@ -280,7 +279,9 @@ all manner of evil against you falsely, for my sake.
 
 "Rejoice, and be exceeding glad: for great is your reward in heaven: for so
 persecuted they the prophets which were before you." ([Matt.
-5:11-12](https://www.lds.org/scriptures/nt/matt/5.11-12?lang=eng#10).)
+5:11-12](/scriptures/nt/matt/5.11-12?lang=eng#10).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

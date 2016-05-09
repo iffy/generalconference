@@ -44,8 +44,7 @@ associates in one's society.
 
 The Lord himself has said, "Remember that that which cometh from above is
 sacred, and must be spoken with care, and by constraint of the Spirit."
-([D&amp;C 63:64](https://www.lds.org/scriptures/dc-
-testament/dc/63.64?lang=eng#63).)
+([D&amp;C 63:64](/scriptures/dc-testament/dc/63.64?lang=eng#63).)
 
 As has been indicated, there are a few who have taken it upon themselves as
 their mission to belittle and demean and destroy the faith of the weak, with a
@@ -67,7 +66,7 @@ bringeth forth evil fruit.
 forth good fruit. ...
 
 "Wherefore by their fruits ye shall know them." ([Matt. 7:16-18,
-20](https://www.lds.org/scriptures/nt/matt/7.16-18%2C20?lang=eng#15).)
+20](/scriptures/nt/matt/7.16-18,20?lang=eng#15).)
 
 By that standard we are willing to be judged.
 
@@ -115,8 +114,7 @@ Grant, his voice trembling with conviction, read these words:
 As well might man stretch forth his puny arm to stop the Missouri river in its
 decreed course, or to turn it up stream, as to hinder the Almighty from
 pouring down knowledge from heaven upon the heads of the Latter-day Saints."
-([D&amp;C 121:33](https://www.lds.org/scriptures/dc-
-testament/dc/121.33?lang=eng#32).)
+([D&amp;C 121:33](/scriptures/dc-testament/dc/121.33?lang=eng#32).)
 
 I believed those words when I heard President Grant read them then. I believe
 them now. I believe without any question, my brethren and sisters, that this
@@ -147,7 +145,7 @@ Timothy:
 of a sound mind.
 
 "Be not thou therefore ashamed of the testimony of our Lord." ([2 Tim.
-1:7-8](https://www.lds.org/scriptures/nt/2-tim/1.7-8?lang=eng#6).)
+1:7-8](/scriptures/nt/2-tim/1.7-8?lang=eng#6).)
 
 I commend those marvelous words to you: "God has not given us the spirit of
 fear; but of power, and of love, and of a sound mind.
@@ -166,8 +164,7 @@ covenants of the Eternal Father which he hath made unto thee, O house of
 Israel, may be fulfilled.
 
 "Yea, come unto Christ, and be perfected in him, and deny yourselves of all
-ungodliness." ([Moro.
-10:31-32](https://www.lds.org/scriptures/bofm/moro/10.31-32?lang=eng#30).)
+ungodliness." ([Moro. 10:31-32](/scriptures/bofm/moro/10.31-32?lang=eng#30).)
 
 As we all sang together in this meeting that stirring hymn, the chorus of
 which contains these words, my heart was lifted in a great surge of emotion
@@ -182,8 +179,10 @@ that God our Eternal Father lives. I know that Jesus is the Christ, the Savior
 and the Redeemer of mankind. I know that this is the work of the Lord, that
 this Church is established upon a foundation of Apostles and prophets, Jesus
 Christ being the chief cornerstone. (See [Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).) I know these
-things, and I know that you know them; and with that knowledge may we go
-forward with our lives, walking with integrity and gladness and faith, I
-humbly pray, in the name of Jesus Christ, amen.
+2:20](/scriptures/nt/eph/2.20?lang=eng#19).) I know these things, and I know
+that you know them; and with that knowledge may we go forward with our lives,
+walking with integrity and gladness and faith, I humbly pray, in the name of
+Jesus Christ, amen.
+
+## References
 

@@ -1,4 +1,4 @@
-# Our Responsibility: To Save the World
+# Our Responsibility:To Save the World
 
 Following the April general Church conference this year, a sincerely devout
 and concerned Christian gentleman wrote: "God bless you and your wonderful
@@ -15,7 +15,7 @@ good in life. It is up to all of us members by our example and good works to
 prove this statement to be true.
 
 The Lord has warned his children that in the last days Satan shall have power
-over his own dominion. (See [D&amp;C 1:35](https://www.lds.org/scriptures/dc-
+over his own dominion. (See [D&amp;C 1:35](/scriptures/dc-
 testament/dc/1.35?lang=eng#34).) These conditions exist today, as is evidenced
 by the increased numbers of killings, by lawlessness, and by moral
 transgressions. All standards that were so sacred in the past are crumbling
@@ -26,8 +26,7 @@ the destruction to the moral, ethical, and spiritual values of life.
 
 The only way Satan can be bound is for people to forsake his temptations and
 enticements to do evil, and to walk uprightly and circumspectly before the
-Lord. (See [1 Tim.
-6:5-7](https://www.lds.org/scriptures/nt/1-tim/6.5-7?lang=eng#4).)
+Lord. (See [1 Tim. 6:5-7](/scriptures/nt/1-tim/6.5-7?lang=eng#4).)
 
 Satan and his followers are constantly looking for weakness in our armor of
 spiritual protection, and when it is found, every pressure and stratagem is
@@ -74,7 +73,7 @@ unfavorable opinion about us and the spiritual values of the Church. Our
 faithfulness gives meaning to the doctrines we teach. The Savior emphasized
 this statement by saying: "Let your light so shine before men, that they may
 see your good works, and glorify your Father which is in heaven." ([Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).)
+5:16](/scriptures/nt/matt/5.16?lang=eng#15).)
 
 To save the world is a great responsibility. This responsibility rests not
 only upon the leadership of the Church, but upon the membership of the Church
@@ -97,63 +96,14 @@ religion "a breath of sweet fresh air," and then he gave eight reasons for
 leaving his former church and joining The Church of Jesus Christ of Latter-day
 Saints. I will list them and comment briefly on each.
 
-  1. Wholesome family life. The home determines one's attitudes and purpose to a greater degree than friends and companions, school or college, business or social life. It is the first great training ground for youth. An ideal LDS home is one where you will find high standards maintained with confidence, peace, companionship, and happiness.
-
-  2. Self-reliance and responsibility. All Church members from the cradle to the grave are taught self-reliance and responsibility. Achieving eternal life is a personal obligation.
-
-  3. Moral and physical discipline. The apostle Paul counseled the Galatian saints, "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, ... murders, drunkenness. ... But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith." ([Gal. 5:19, 21-22](https://www.lds.org/scriptures/nt/gal/5.19%2C21-22?lang=eng#18).)
-
-President David O. McKay always taught that in the control of morals there
-must be self-mastery, self-discipline, and self-control.
-
-President Joseph F. Smith said, "No man is safe unless he is master of
-himself, and there is no tyrant so merciless or more to be dreaded than an
-uncontrollable appetite or passion." (_Gospel Doctrine _[Bookcraft, 1939], p.
-247.)
-
-The Savior warned, "Watch and pray, that ye enter not into temptation: the
-spirit indeed is willing, but the flesh is weak." ([Matt.
-26:41](https://www.lds.org/scriptures/nt/matt/26.41?lang=eng#40).)
-
-  4. Obedience of children to parents. The apostle Paul counseled the Ephesian youth, "Children, obey your parents in the Lord: for this is right. Honour thy father and mother; (which is the first commandment with promise;) That it may be well with thee, and thou mayest live long on the earth." ([Eph. 6:1-3](https://www.lds.org/scriptures/nt/eph/6.1-3?lang=eng#0).)
-
-Also to the Hebrew saints he said of the Christ: "Though he were a Son, yet
-learned he obedience by the things which he suffered." ([Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7).)
-
-Obedience goes beyond that of earthly parents. It obligates all of us as
-children of our Father in heaven to be obedient to his laws and commandments.
-
-  5. Striving for perfection and excellence in all things. The gospel is for the perfecting of the saints. The Savior counseled, "Be ye therefore perfect, even as your Father which is in heaven is perfect." ([Matt. 5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).)
-
-Jesus asked his disciples this question: "... what manner of men ought ye to be?
-..." He answered his own question by saying, "... verily I say unto you, _even as
-I am." _ ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26). Italics
-added.) He lived so perfectly that he challenged his followers to "follow me,
-and do the things which ye have seen me do." ([2 Ne.
-31:12](https://www.lds.org/scriptures/bofm/2-ne/31.12?lang=eng#11).)
-
-  6. Chastity and holy observance of the marriage covenant. It was very heartening to read about the new Miss America, Laura Lea Shaefer, who courageously responded to questions in her first formal press conference by saying that she didn't believe in and is against premarital sex. She feels that using marijuana leads to hard drugs and that abortions should be illegal. She added: "I am not a typical coed, but I feel my peers and the majority of young people feel the way I do." What a choice example to the youth of America are her personal standards of conduct!
-
-Infidelity is a violation of the marriage covenant and so often results in
-divorce, which undermines the security of children, frequently leading them
-into drug use, immorality, other sinful practices, and withdrawal from church
-attendance and activity. If all couples faithfully observed their marriage
-covenants, there would be fewer problems and sorrows in the world today.
-Children would naturally expect their marriages to be sacred and secure if
-their parents set the example of love and trust and eternal family goals.
-
-  7. High standards in education. We are taught, "The glory of God is intelligence, or, in other words, light and truth." ([D&amp;C 93:36](https://www.lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35).) The Lord counseled, "And as all have not faith, seek ye diligently and teach one another words of wisdom; yea, seek ye out of the best books words of wisdom; seek learning, even by study and also by faith." ([D&amp;C 88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
-
-We are also taught: "Whatever principle of intelligence we attain unto in this
-life, it will rise with us in the resurrection. And if a person gains more
-knowledge and intelligence in this life through his diligence and obedience
-than another, he will have so much the advantage in the world to come."
-([D&amp;C 130:18-19](https://www.lds.org/scriptures/dc-
-testament/dc/130.18-19?lang=eng#17).)
-
-  8. "Last, but not least," this recent convert said, "is common sense." Common sense suggests ability without sophistication or special knowledge. It is just good, sound, practical sense in judgment. All have been born with a measure of common sense. It is a matter of using it, of thinking things through instead of acting in too much haste.
+  1. Wholesome family life. The home determines one's attitudes and purpose to a greater degree than friends and companions, school or college, business or social life. It is the first great training ground for youth. An ideal LDS home is one where you will find high standards maintained with confidence, peace, companionship, and happiness. 
+  2. Self-reliance and responsibility. All Church members from the cradle to the grave are taught self-reliance and responsibility. Achieving eternal life is a personal obligation. 
+  3. Moral and physical discipline. The apostle Paul counseled the Galatian saints, "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, ... murders, drunkenness. ... But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith." ([Gal. 5:19, 21-22](/scriptures/nt/gal/5.19,21-22?lang=eng#18).) President David O. McKay always taught that in the control of morals there must be self-mastery, self-discipline, and self-control. President Joseph F. Smith said, "No man is safe unless he is master of himself, and there is no tyrant so merciless or more to be dreaded than an uncontrollable appetite or passion." (_Gospel Doctrine _[Bookcraft, 1939], p. 247.) The Savior warned, "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak." ([Matt. 26:41](/scriptures/nt/matt/26.41?lang=eng#40).) 
+  4. Obedience of children to parents. The apostle Paul counseled the Ephesian youth, "Children, obey your parents in the Lord: for this is right. Honour thy father and mother; (which is the first commandment with promise;) That it may be well with thee, and thou mayest live long on the earth." ([Eph. 6:1-3](/scriptures/nt/eph/6.1-3?lang=eng#0).) Also to the Hebrew saints he said of the Christ: "Though he were a Son, yet learned he obedience by the things which he suffered." ([Heb. 5:8](/scriptures/nt/heb/5.8?lang=eng#7).) Obedience goes beyond that of earthly parents. It obligates all of us as children of our Father in heaven to be obedient to his laws and commandments. 
+  5. Striving for perfection and excellence in all things. The gospel is for the perfecting of the saints. The Savior counseled, "Be ye therefore perfect, even as your Father which is in heaven is perfect." ([Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47).) Jesus asked his disciples this question: "... what manner of men ought ye to be? ..." He answered his own question by saying, "... verily I say unto you, _even as I am." _ ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26). Italics added.) He lived so perfectly that he challenged his followers to "follow me, and do the things which ye have seen me do." ([2 Ne. 31:12](/scriptures/bofm/2-ne/31.12?lang=eng#11).) 
+  6. Chastity and holy observance of the marriage covenant. It was very heartening to read about the new Miss America, Laura Lea Shaefer, who courageously responded to questions in her first formal press conference by saying that she didn't believe in and is against premarital sex. She feels that using marijuana leads to hard drugs and that abortions should be illegal. She added: "I am not a typical coed, but I feel my peers and the majority of young people feel the way I do." What a choice example to the youth of America are her personal standards of conduct! Infidelity is a violation of the marriage covenant and so often results in divorce, which undermines the security of children, frequently leading them into drug use, immorality, other sinful practices, and withdrawal from church attendance and activity. If all couples faithfully observed their marriage covenants, there would be fewer problems and sorrows in the world today. Children would naturally expect their marriages to be sacred and secure if their parents set the example of love and trust and eternal family goals. 
+  7. High standards in education. We are taught, "The glory of God is intelligence, or, in other words, light and truth." ([D&amp;C 93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).) The Lord counseled, "And as all have not faith, seek ye diligently and teach one another words of wisdom; yea, seek ye out of the best books words of wisdom; seek learning, even by study and also by faith." ([D&amp;C 88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).) We are also taught: "Whatever principle of intelligence we attain unto in this life, it will rise with us in the resurrection. And if a person gains more knowledge and intelligence in this life through his diligence and obedience than another, he will have so much the advantage in the world to come." ([D&amp;C 130:18-19](/scriptures/dc-testament/dc/130.18-19?lang=eng#17).) 
+  8. "Last, but not least," this recent convert said, "is common sense." Common sense suggests ability without sophistication or special knowledge. It is just good, sound, practical sense in judgment. All have been born with a measure of common sense. It is a matter of using it, of thinking things through instead of acting in too much haste. 
 
 These eight significant and important reasons are good points for all of us to
 remember and follow in our personal lives.
@@ -167,12 +117,12 @@ of our Heavenly Father. What could be a more glorious and satisfying reward?
 The prophet Lehi, having been warned of Jerusalem's destruction, took his
 family and a few others and departed this sacred city. After three days in the
 wilderness they camped in a valley by the side of a river (see [1 Ne.
-2:6](https://www.lds.org/scriptures/bofm/1-ne/2.6?lang=eng#5)) that flowed and
-emptied into the Red Sea. En route Lehi experienced serious problems with his
-two elder rebellious sons. As he considered the running stream, he was
-impressed to say to his eldest son, Laman: "O that thou mightest be like unto
-this river, continually running into the fountain of all righteousness!" ([1
-Ne. 2:9](https://www.lds.org/scriptures/bofm/1-ne/2.9?lang=eng#8).)
+2:6](/scriptures/bofm/1-ne/2.6?lang=eng#5)) that flowed and emptied into the
+Red Sea. En route Lehi experienced serious problems with his two elder
+rebellious sons. As he considered the running stream, he was impressed to say
+to his eldest son, Laman: "O that thou mightest be like unto this river,
+continually running into the fountain of all righteousness!" ([1 Ne.
+2:9](/scriptures/bofm/1-ne/2.9?lang=eng#8).)
 
 Many rivers have their beginning from springs of pure, crystal-clear water
 gushing forth from a mountainside. As the water wends its way to the sea,
@@ -184,15 +134,14 @@ in the body of the stream.
 How much like life this symbolic representation is! The Lord has revealed that
 "every spirit of man was innocent in the beginning; and God having redeemed
 man from the fall, men became again, in their infant state, innocent before
-God." ([D&amp;C 93:38](https://www.lds.org/scriptures/dc-
-testament/dc/93.38?lang=eng#37).) With this statement in mind, we can
-understand why the Savior said, "Except ye be converted, and become as little
-children, ye shall not enter into the kingdom of heaven." ([Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2).)
+God." ([D&amp;C 93:38](/scriptures/dc-testament/dc/93.38?lang=eng#37).) With
+this statement in mind, we can understand why the Savior said, "Except ye be
+converted, and become as little children, ye shall not enter into the kingdom
+of heaven." ([Matt. 18:3](/scriptures/nt/matt/18.3?lang=eng#2).)
 
 When a child reaches the age of accountability, the Lord warned, "And that
 wicked one cometh and taketh away light and truth, through disobedience, from
-the children of men. ..." ([D&amp;C 93:39](https://www.lds.org/scriptures/dc-
+the children of men. ..." ([D&amp;C 93:39](/scriptures/dc-
 testament/dc/93.39?lang=eng#38).)
 
 We learn from this revelation that in the beginning of mortal life all mankind
@@ -218,4 +167,6 @@ things we teach. We will earnestly be engaged in sharing a knowledge of the
 gospel with our friends and associates and in bearing testimony and witness to
 the divinity of the work in which we are engaged. May God so bless us, I pray,
 in the name of Jesus Christ. Amen.
+
+## References
 

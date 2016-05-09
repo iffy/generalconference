@@ -33,8 +33,7 @@ For me, to have administered in His name as a missionary among those people
 prompted thoughts of Jesus talking to His disciples during His earthly
 ministry. He said, "And other sheep I have, which are not of this fold: them
 also I must bring, and they shall hear my voice; and there shall be one fold,
-and one shepherd" ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15)).
+and one shepherd" ([John 10:16](/scriptures/nt/john/10.16?lang=eng#15)).
 
 Before we left Quiriza, Bolivia, for Argentina, a special prayer was offered.
 Accompanied by a dear missionary companion, kneeling on a dirt soccer field
@@ -97,7 +96,7 @@ years as an Apostle. He shared a scripture and extended an invitation. He
 taught from 2 Timothy: "For God hath not given us the spirit of fear; but of
 power, and of love, and of a sound mind. Be not thou therefore ashamed of the
 testimony of our Lord" ([2 Tim.
-1:7-8](https://www.lds.org/scriptures/nt/2-tim/1.7-8?lang=eng#6)).
+1:7-8](/scriptures/nt/2-tim/1.7-8?lang=eng#6)).
 
 Elder Hinckley invited missionaries to not fear and not be ashamed of their
 testimonies of Jesus Christ. His invitation penetrated my heart as a
@@ -119,4 +118,6 @@ _Than glows in any earthly sky,_
 _For Jesus is my light._
 
 Jesus is my light. In the name of Jesus Christ, amen.
+
+## References
 

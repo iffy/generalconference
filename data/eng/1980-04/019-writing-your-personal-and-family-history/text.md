@@ -21,8 +21,7 @@ many reasons. I will focus on just a few.
 By writing personal and family histories and doing the research required
 thereby, we inevitably have our hearts turned to our fathers as well as to our
 children. The Lord says this must happen, "lest I come and smite the earth
-with a curse" ([Mal.
-4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5)). Let us not be
+with a curse" ([Mal. 4:6](/scriptures/ot/mal/4.6?lang=eng#5)). Let us not be
 part of a curse.
 
 Also, by writing personal and family histories, we are helped immeasurably in
@@ -167,4 +166,6 @@ Brethren, this is the work of the Lord. I testify that he lives and that he
 has great influence in our lives. May we have this understanding of eternity
 and see and feel and record his influence in our lives, I do humbly pray, in
 the name of Jesus Christ, amen.
+
+## References
 

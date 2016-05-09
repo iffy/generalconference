@@ -29,8 +29,7 @@ Jesus Christ through his latter-day seer, Joseph Smith.
 When the prophet Amos was on earth he made the significant statement that the
 Lord will deal with his people only through prophets. Said he: "Surely the
 Lord God will do nothing, but he revealeth his secret unto his servants the
-prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+prophets." ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 This is of particular interest because it presupposes frequent communication
 between God and man.
@@ -63,7 +62,7 @@ ear heavy, that it cannot hear:
 
 "But your iniquities have separated between you and your God, and your sins
 have hid his face from you. ..." ([Isa.
-59:1-2](https://www.lds.org/scriptures/ot/isa/59.1-2?lang=eng#0).)
+59:1-2](/scriptures/ot/isa/59.1-2?lang=eng#0).)
 
 Human beings are slow to learn the ways of the Lord, and particularly are they
 dilatory in accepting the fact that although he is willing to communicate with
@@ -93,8 +92,7 @@ This he did!
 
 Paul told the Ephesians that the church of Jesus Christ was built upon a
 foundation of apostles and prophets, with the Savior himself as the chief
-cornerstone. (See [Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).)
+cornerstone. (See [Eph. 2:20](/scriptures/nt/eph/2.20?lang=eng#19).)
 
 Who were the prophets of that day?
 
@@ -104,26 +102,24 @@ The New Testament tells us that there were. Silas and Barnabas were two of
 them, and both were great missionaries of that time. Others were Simeon and
 Lucius; also a man named Judas--he was not Iscariot. Likewise mentioned are
 Manaen and Agabus, who predicted the arrest of Paul. (See [Acts
-11](https://www.lds.org/scriptures/nt/acts/11.title?lang=eng), [Acts
-13](https://www.lds.org/scriptures/nt/acts/13.title?lang=eng), [Acts
-21](https://www.lds.org/scriptures/nt/acts/21.title?lang=eng).)
+11](/scriptures/nt/acts/11?lang=eng), [Acts
+13](/scriptures/nt/acts/13?lang=eng), [Acts
+21](/scriptures/nt/acts/21?lang=eng).)
 
 The epistle to the Ephesians explains why there were Christian prophets,
 saying that they were placed in the Lord's church for the "perfecting of the
 saints, for the work of the ministry, and for the edifying of the body of
-Christ." ([Eph.
-4:12](https://www.lds.org/scriptures/nt/eph/4.12?lang=eng#11).)
+Christ." ([Eph. 4:12](/scriptures/nt/eph/4.12?lang=eng#11).)
 
 Since the Savior commanded his people to become perfect as their Father in
-heaven (see [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47)), he set up his
+heaven (see [Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47)), he set up his
 church to provide the means by which this could be accomplished. Hence, he
 gave them apostles and prophets.
 
 These inspired men were in the church also to preserve unity among the saints
 and to heal divisions in the flock "that we henceforth be no more ... tossed to
 and fro, and carried about with every wind of doctrine. ..." ([Eph.
-4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13).)
+4:14](/scriptures/nt/eph/4.14?lang=eng#13).)
 
 So God followed the same pattern of communicating with his people in New
 Testament times that had been customary with him down through the ages as
@@ -155,7 +151,7 @@ turn from the people.
 It was the same in the Savior's day. Do you recall that he said to those about
 him: "... how often would I have gathered thy children together, even as a hen
 gathereth her chickens under her wings, and ye would not!" ([Matt.
-23:37](https://www.lds.org/scriptures/nt/matt/23.37?lang=eng#36).)
+23:37](/scriptures/nt/matt/23.37?lang=eng#36).)
 
 God does not abandon his people. It is the people who abandon God.
 
@@ -180,12 +176,11 @@ bounds and with earthquakes, disease, and war taking heavy tolls.
 But one of the most significant of all the signs of the times was to be a
 restoration of the original gospel and church of Jesus Christ, this to be done
 "in the hour of God's judgment." (See [Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5).)
+14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5).)
 
 This restoration was to be so extensive, says the scripture, that it would
 include all that God had ever spoken through his servants from the beginning
-of the world. (See [Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).)
+of the world. (See [Acts 3:21](/scriptures/nt/acts/3.21?lang=eng#20).)
 
 Then would that include a restoration of prophecy and revelation?
 
@@ -238,7 +233,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 With this new line of prophets to guide us, we bring salvation again to all
 mankind. We testify that God indeed has spoken in these last days, and that we
@@ -246,7 +241,7 @@ are his ministers.
 
 Anciently the scripture said: "How beautiful are the feet of them that preach
 the gospel of peace, and bring glad tidings of good things!" ([Rom.
-10:15](https://www.lds.org/scriptures/nt/rom/10.15?lang=eng#14).)
+10:15](/scriptures/nt/rom/10.15?lang=eng#14).)
 
 Have you ever asked yourselves who these people are, who preach the gospel of
 peace and whose feet are so beautiful upon the mountains?
@@ -273,7 +268,7 @@ hereafter publish peace, yea, from this time henceforth and forever!
 the mountains are the feet of him that bringeth good tidings, that is the
 founder of peace, yea, even the Lord, who has redeemed his people; yea, him
 who has granted salvation unto his people." ([Mosiah
-15:13-18](https://www.lds.org/scriptures/bofm/mosiah/15.13-18?lang=eng#12).)
+15:13-18](/scriptures/bofm/mosiah/15.13-18?lang=eng#12).)
 
 So spoke Abinadi.
 
@@ -332,4 +327,6 @@ to the world at large.
 
 In this manner God is speaking to you today. Listen to him. Acknowledge him.
 Pray to him. Obey him. In the name of the Lord Jesus Christ. Amen.
+
+## References
 

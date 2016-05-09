@@ -1,12 +1,6 @@
 # Presentation of Scouting Award
 
-President Arch Monson: President Kimball of The Church of Jesus Christ of
-Latter-day Saints, distinguished guests, brother Scouts and Scouters, it is a
-great privilege and honor for me to be here in this renowned spiritual center
-on this momentous occasion. As president of the Boy Scouts of America, I bring
-you greetings on behalf of our executive board and tell you that we are
-pleased to be represented at this great meeting of The Church of Jesus Christ
-of Latter-day Saints.
+**President Arch Monson: **President Kimball of The Church of Jesus Christ of Latter-day Saints, distinguished guests, brother Scouts and Scouters, it is a great privilege and honor for me to be here in this renowned spiritual center on this momentous occasion. As president of the Boy Scouts of America, I bring you greetings on behalf of our executive board and tell you that we are pleased to be represented at this great meeting of The Church of Jesus Christ of Latter-day Saints.
 
 I feel that as we meet on this great occasion that once again we should
 recognize the long and distinguished partnership between the Boy Scouts of
@@ -57,9 +51,7 @@ recognized among distinguished citizens of the world who have contributed so
 substantially to the spirit of unity and brotherhood among the youth of over
 113 nations of this great world. We are honored to make this presentation.
 
-President Spencer W. Kimball: Thank you very much. I think I would like to ask
-all the Scouts in this room to please stand a moment. [Most of the audience
-stood.] Thank you very much.
+**President Spencer W. Kimball:** Thank you very much. I think I would like to ask all the Scouts in this room to please stand a moment. [Most of the audience stood.] Thank you very much.
 
 I deeply appreciate this recognition and this act of courtesy on the part of
 the Boy Scouts of America. I have enjoyed a long and respectful relationship
@@ -102,4 +94,6 @@ the qualities of citizenship and character and fitness which Scouting
 represents.
 
 Again, I thank you sincerely for this award.
+
+## References
 

@@ -12,13 +12,11 @@ rowdy talking. The language was profane, filthy, and disgusting. I was shocked
 to learn that the speakers were mere children. Into my mind came the proverb:
 
 "Train up a child in the way he should go: and when he is old, he will not
-depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).)
+depart from it." ([Prov. 22:6](/scriptures/ot/prov/22.6?lang=eng#5).)
 
 Then came the words of the revelation: "Little children ... cannot sin, for
 power is not given unto Satan to tempt little children ... that great things may
-be required at the hand of their fathers." ([D&amp;C
-29:46-48](https://www.lds.org/scriptures/dc-
+be required at the hand of their fathers." ([D&amp;C 29:46-48](/scriptures/dc-
 testament/dc/29.46-48?lang=eng#45).)
 
 I was saddened as I thought about the suffering which these children and their
@@ -32,8 +30,8 @@ gift of the Holy Ghost by the laying on of the hands, when eight years old,
 the sin be upon the heads of the parents.
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord." ([D&amp;C 68:25, 28](https://www.lds.org/scriptures/dc-
-testament/dc/68.25%2C28?lang=eng#24).)
+before the Lord." ([D&amp;C 68:25, 28](/scriptures/dc-
+testament/dc/68.25,28?lang=eng#24).)
 
 Referring to these instructions, the _Doctrine and Covenants Commentary_ has
 this to say:
@@ -49,8 +47,7 @@ that the little ones are ... taught to pray and walk uprightly before the Lord."
 rev. ed., Salt Lake City: Deseret Book Co., 1972, p. 414.)
 
 If we fathers would frequently read verses 40 to 50 of the ninety-third
-section of the Doctrine and Covenants, [[D&amp;C
-93:40-50](https://www.lds.org/scriptures/dc-
+section of the Doctrine and Covenants, [[D&amp;C 93:40-50](/scriptures/dc-
 testament/dc/93.40-50?lang=eng#39)] we would be greatly helped to keep alert
 to our divinely imposed responsibilities to teach and train our children.
 
@@ -83,14 +80,12 @@ secret and attend to all family duties. ...
 with and strengthen them; ...
 
 "And see that the church meet together often, and also see that all the
-members do their duty." ([D&amp;C 20:46-47, 53,
-55](https://www.lds.org/scriptures/dc-
-testament/dc/20.46-47%2C53%2C55?lang=eng#45).)
+members do their duty." ([D&amp;C 20:46-47, 53, 55](/scriptures/dc-
+testament/dc/20.46-47,53,55?lang=eng#45).)
 
 The deacon's duty is to pass the sacrament, gather fast offerings, and "to
 warn, expound, exhort, and teach, and invite all to come unto Christ." (See
-[D&amp;C 20:59](https://www.lds.org/scriptures/dc-
-testament/dc/20.59?lang=eng#58).)
+[D&amp;C 20:59](/scriptures/dc-testament/dc/20.59?lang=eng#58).)
 
 The blessings you will receive, if you properly perform your assigned Aaronic
 Priesthood duties, will be glorious.
@@ -105,8 +100,7 @@ magnifying their calling, are sanctified by the Spirit unto the renewing of
 their bodies.
 
 "They become the sons of Moses and of Aaron and the seed of Abraham, and the
-church and kingdom, and the elect of God." ([D&amp;C
-84:33-34](https://www.lds.org/scriptures/dc-
+church and kingdom, and the elect of God." ([D&amp;C 84:33-34](/scriptures/dc-
 testament/dc/84.33-34?lang=eng#32).)
 
 As a general rule, great and noble men have been noble boys who built their
@@ -118,14 +112,13 @@ and resolve to emulate them.
 Consider, for example, the great moral virtue of chastity demonstrated by
 Joseph. At seventeen years of age he was taken into Egypt as a slave and sold
 to "Potiphar, an officer of Pharaoh's." ([Gen.
-37:36](https://www.lds.org/scriptures/ot/gen/37.36?lang=eng#35).)
+37:36](/scriptures/ot/gen/37.36?lang=eng#35).)
 
 His upright, efficient conduct so impressed Potiphar that he made him master
 of all his possessions, including his home and household. Joseph was so
 attractive that Potiphar's wife repeatedly sought to seduce him. He, however,
 rejected her advances, saying, "How ... can I do this great wickedness, and sin
-against God?" ([Gen.
-39:9](https://www.lds.org/scriptures/ot/gen/39.9?lang=eng#8).)
+against God?" ([Gen. 39:9](/scriptures/ot/gen/39.9?lang=eng#8).)
 
 She lied about him, and he was imprisoned.
 
@@ -142,8 +135,7 @@ Daniel was an example of courage.
 As a youth he was taken into Babylon to be trained by King Nebuchadnezzar. At
 their peril, he and his three Hebrew companions refused to break their word of
 wisdom. They refused to eat the rich foods and other foods that were not good
-for them. (See [Dan.
-1:5-16](https://www.lds.org/scriptures/ot/dan/1.5-16?lang=eng#4).)
+for them. (See [Dan. 1:5-16](/scriptures/ot/dan/1.5-16?lang=eng#4).)
 
 Later, Daniel further demonstrated his courage by advising two kings of
 interpretations the Lord had revealed to him, Daniel, of manifestations which
@@ -151,9 +143,9 @@ the kings had received, manifestations which portended evil for them. Daniel
 told the first king that he would lose his mind, and become like a beast of
 the field, eating grass as an ox. He told the second king that he would be cut
 down from the pinnacle of power. (See [Dan.
-2:36-45](https://www.lds.org/scriptures/ot/dan/2.36-45?lang=eng#35); [Dan.
-4:24-27](https://www.lds.org/scriptures/ot/dan/4.24-27?lang=eng#23); [Dan.
-5:26-29](https://www.lds.org/scriptures/ot/dan/5.26-29?lang=eng#25).)
+2:36-45](/scriptures/ot/dan/2.36-45?lang=eng#35); [Dan.
+4:24-27](/scriptures/ot/dan/4.24-27?lang=eng#23); [Dan.
+5:26-29](/scriptures/ot/dan/5.26-29?lang=eng#25).)
 
 So advising these absolute monarchs evidenced great courage in this young man
 Daniel.
@@ -161,14 +153,14 @@ Daniel.
 He evidenced superb courage of another kind when, in defiance of the king's
 edict, he chose to be thrown into the lions' den rather than neglect to pray
 to his Father in Heaven. (See [Dan.
-6:7-23](https://www.lds.org/scriptures/ot/dan/6.7-23?lang=eng#6).)
+6:7-23](/scriptures/ot/dan/6.7-23?lang=eng#6).)
 
 The great virtue of faith was demonstrated by Nephi when as a youth he said:
 
 "I will go and do the things which the Lord hath commanded, for I know that
 the Lord giveth no commandments unto the children of men, save he shall
 prepare a way for them that they may accomplish the thing which he commandeth
-them." ([1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+them." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 This was his response to the commandment the Lord gave through his father,
 Lehi, that he and his brethren return to Jerusalem to obtain the records from
@@ -180,8 +172,7 @@ them, Nephi said:
 
 "As the Lord liveth, and as we live, we will not go down unto our father in
 the wilderness until we have accomplished the thing which the Lord hath
-commanded us." ([1 Ne.
-3:15](https://www.lds.org/scriptures/bofm/1-ne/3.15?lang=eng#14).)
+commanded us." ([1 Ne. 3:15](/scriptures/bofm/1-ne/3.15?lang=eng#14).)
 
 He then persuaded them to get the gold and silver and other riches they had
 left in the land of their inheritance and offer them to Laban in exchange for
@@ -193,8 +184,7 @@ their father in the wilderness without the records:
 "Let us go up again unto Jerusalem, and let us be faithful in keeping the
 commandments of the Lord; for behold he is mightier than all the earth, then
 why not mightier than Laban and his fifty, yea, or even than his tens of
-thousands?" ([1 Ne.
-4:1](https://www.lds.org/scriptures/bofm/1-ne/4.1?lang=eng#0).)
+thousands?" ([1 Ne. 4:1](/scriptures/bofm/1-ne/4.1?lang=eng#0).)
 
 Nephi then, led by the Spirit of the Lord, went in alone and came out with the
 records.
@@ -215,21 +205,21 @@ engravings concerning this people. ...
 
 "Take the plates of Nephi ... and ... engrave on [them] all the things that ye
 have observed concerning this people." ([Morm.
-1:2-4](https://www.lds.org/scriptures/bofm/morm/1.2-4?lang=eng#1).)
+1:2-4](/scriptures/bofm/morm/1.2-4?lang=eng#1).)
 
 These instructions Mormon received when he was but ten years old.
 
 Five years later he wrote:
 
-"And I, being fifteen years of age ... , there began to be a war again between
+"And I, being fifteen years of age ..., there began to be a war again between
 the Nephites and the Lamanites. And notwithstanding I being young, was large
 in stature; therefore the people of Nephi appointed me ... the leader of their
 armies.
 
 "Therefore it came to pass that in my sixteenth year I did go forth at the
 head of an army of the Nephites, against the Lamanites." ([Morm.
-1:15](https://www.lds.org/scriptures/bofm/morm/1.15?lang=eng#14); [Morm.
-2:1-2](https://www.lds.org/scriptures/bofm/morm/2.1-2?lang=eng#0).)
+1:15](/scriptures/bofm/morm/1.15?lang=eng#14); [Morm.
+2:1-2](/scriptures/bofm/morm/2.1-2?lang=eng#0).)
 
 It would seem that an Aaronic Priesthood bearer inclined to hesitate to
 perform the duties of his office because of his youth could take courage from
@@ -243,7 +233,7 @@ of Daniel, the faith of Nephi, and the reliability of Mormon.
 At fourteen years of age, he had the faith to act upon the promise of James:
 "If any of you lack wisdom, let him ask of God, that giveth to all men
 liberally, and upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 So acting, he received his first vision.
 
@@ -273,11 +263,13 @@ unto him, and all the world could not make him think or believe otherwise.
 "So it was with me. I had actually seen a light, and in the midst of that
 light I saw two Personages, and they did in reality speak to me; ... and I could
 not deny it." ([JS--H 1:22,
-24-25](https://www.lds.org/scriptures/pgp/js-h/1.22%2C24-25?lang=eng#21).)
+24-25](/scriptures/pgp/js-h/1.22,24-25?lang=eng#21).)
 
 These great virtues, you young Aaronic Priesthood brothers, are worth
 following if we would be successful as the great men who have preceded us. I
 bear my testimony to you that if we will do what these boys did, we will be
 great men. And I bear that testimony to you in the name of Jesus Christ, our
 Redeemer. Amen.
+
+## References
 

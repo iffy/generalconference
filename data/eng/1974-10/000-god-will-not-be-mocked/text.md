@@ -43,7 +43,7 @@ has said to us:
 "If ye continue in my word, then are ye my disciples indeed;
 
 "And ye shall know the truth, and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30).)
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30).)
 
 We must remember the Lord's great prayer:
 
@@ -53,7 +53,7 @@ shouldest keep them from the evil.
 "They are not of the world, even as I am not of the world.
 
 "Sanctify them through thy truth: thy word is truth." ([John
-17:15-17](https://www.lds.org/scriptures/nt/john/17.15-17?lang=eng#14).)
+17:15-17](/scriptures/nt/john/17.15-17?lang=eng#14).)
 
 Now, brothers and sisters, we have launched a cleanup campaign. We are a
 throw-away people. Trash piles grow faster than population by far. Now we ask
@@ -74,11 +74,11 @@ quorums to give power to this concentrated action for beautification.
 The Lord said:
 
 "The earth is the Lord's, and the fulness thereof." ([Ps.
-24:1](https://www.lds.org/scriptures/ot/ps/24.1?lang=eng#0).)
+24:1](/scriptures/ot/ps/24.1?lang=eng#0).)
 
 "And I the Lord God, took the man [Adam], and put him into the Garden of Eden,
 to dress it, and to keep it." ([Moses
-3:15](https://www.lds.org/scriptures/pgp/moses/3.15?lang=eng#14).)
+3:15](/scriptures/pgp/moses/3.15?lang=eng#14).)
 
 Therefore, we urge each of you to dress and keep in a beautiful state the
 property that is in your hands.
@@ -102,8 +102,7 @@ your family against it by proper teaching.
 Brothers and sisters, we teach all of our people to be loyal. "We believe in
 being subject to kings, presidents, rulers, and magistrates, in obeying,
 honoring, and sustaining the law." ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).) Be loyal
-and true.
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).) Be loyal and true.
 
 Perhaps one of the most distinguishing features of the Church is the fact that
 its people abstain from liquor, tea, coffee, and tobacco. Of course, there are
@@ -116,7 +115,7 @@ Wisdom. For 141 years now we have been practicing this great truth embodied in
 that revelation that we would abstain from wine and strong drinks, that tea
 and coffee are not for the body, and that we should not use tobacco in any
 form, that it is good only for bruises and all sick cattle. (See [D&amp;C
-89:8](https://www.lds.org/scriptures/dc-testament/dc/89.8?lang=eng#7).)
+89:8](/scriptures/dc-testament/dc/89.8?lang=eng#7).)
 
 We noted recently of a community in Minnesota which set up a "D-Day" in which,
 through all their agencies, they persuaded people to give up smoking. In their
@@ -188,11 +187,11 @@ the stores, many would go hungry.
 
 We believe in work. We remember the fourth of the Ten Commandments says, "Six
 days shalt thou labour, and do all thy work" ([Ex.
-20:9](https://www.lds.org/scriptures/ot/ex/20.9?lang=eng#8)), and we are not
-sure that the rapidly decreasing work week is beneficial to mankind. We think
-the Lord knew what he was talking about. It would seem that we are play-
-conscious, travel-conscious, and our economy seems to be providing for the
-traveling public and the gaming public and the drinking public.
+20:9](/scriptures/ot/ex/20.9?lang=eng#8)), and we are not sure that the
+rapidly decreasing work week is beneficial to mankind. We think the Lord knew
+what he was talking about. It would seem that we are play-conscious, travel-
+conscious, and our economy seems to be providing for the traveling public and
+the gaming public and the drinking public.
 
 We are also concerned with the great waste from our homes and stores and
 restaurants and otherwise. After the usual banquet, enough is carried out in
@@ -213,10 +212,10 @@ employment were to terminate or incomes be greatly reduced.
 When we go to places of entertainment and mingle among people, we are shocked
 at the blasphemy that seems to be acceptable among them. The commandment says,
 "Thou shalt not take the name of the Lord thy God in vain." ([Ex.
-20:7](https://www.lds.org/scriptures/ot/ex/20.7?lang=eng#6).) Except in
-prayers and proper sermons, we must not use the name of the Lord. Blasphemy
-used to be a crime punishable by heavy fines. Profanity is the effort of a
-feeble brain to express itself forcibly.
+20:7](/scriptures/ot/ex/20.7?lang=eng#6).) Except in prayers and proper
+sermons, we must not use the name of the Lord. Blasphemy used to be a crime
+punishable by heavy fines. Profanity is the effort of a feeble brain to
+express itself forcibly.
 
 We hope that our parents and leaders will not tolerate pornography. It is
 really garbage, but today is peddled as normal and satisfactory food. Many
@@ -277,7 +276,7 @@ unbelieving is nothing pure; but even their mind and conscience is defiled.
 
 "They profess that they know God; but in works they deny him, being
 abominable, and disobedient, and unto every good work reprobate." ([Titus
-1:15-16](https://www.lds.org/scriptures/nt/titus/1.15-16?lang=eng#14).)
+1:15-16](/scriptures/nt/titus/1.15-16?lang=eng#14).)
 
 The home is the teaching situation. Every father should talk to his son, every
 mother to her daughter. Then it would leave them totally without excuse should
@@ -288,7 +287,7 @@ were the result, in whole or part, of the infidelity bring us back to our
 basic theme as quoted in the Doctrine and Covenants:
 
 "Thou shalt not ... commit adultery, ... nor do anything like unto it." ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).)
+59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).)
 
 We say to all: Stay clean in mind and body, and let nothing lead you into the
 bypaths which will bring ruin and great distress to you. As the Lord said:
@@ -298,7 +297,7 @@ adultery:
 
 "But I say unto you, That whosoever looketh on a woman to lust after her hath
 committed adultery with her already in his heart." ([Matt.
-5:27-28](https://www.lds.org/scriptures/nt/matt/5.27-28?lang=eng#26).)
+5:27-28](/scriptures/nt/matt/5.27-28?lang=eng#26).)
 
 Now the lust of the heart and the lust of the eyes and the lust of the body
 bring us to the major sin. Let every man remain at home with his affections.
@@ -349,8 +348,7 @@ God unto man.
 
 "Wherefore, it is lawful that he should have one wife, and they twain shall be
 one flesh, and all this that the earth might answer the end of its creation."
-([D&amp;C 49:15-16](https://www.lds.org/scriptures/dc-
-testament/dc/49.15-16?lang=eng#14).)
+([D&amp;C 49:15-16](/scriptures/dc-testament/dc/49.15-16?lang=eng#14).)
 
 The earth cannot justify nor continue its life without marriage and the
 family. Sex without marriage, for all people, young or older, is an
@@ -369,7 +367,7 @@ is certainly not the way of the Lord. He expected for a father and a mother to
 rear their children. Certainly any who deprive their children of a parent will
 have some very stiff questions to answer. The Lord used parents in the plural
 and said if children were not properly trained "the sin be upon the heads of
-the parents." ([D&amp;C 68:25](https://www.lds.org/scriptures/dc-
+the parents." ([D&amp;C 68:25](/scriptures/dc-
 testament/dc/68.25?lang=eng#24).) That makes it a bit hard to justify broken
 homes. Numerous of the divorces are the result of selfishness. The day of
 judgment is approaching, and parents who abandon their families will find that
@@ -404,10 +402,10 @@ off our destiny line by false concepts, perilous ways, and doctrines of
 devils? By whom are we enticed? Have we accepted the easy way and veered off
 from the "strait and narrow" way to the easy and comfortable way and the broad
 way which leads to sorrowful ends? (See [Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).) We know
-better than we do. Will you listen? Will you follow the advice and counsel of
-your leaders, local and general? Or will you choose your own paths though they
-lead you into the dark wilderness?
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).) We know better than we do.
+Will you listen? Will you follow the advice and counsel of your leaders, local
+and general? Or will you choose your own paths though they lead you into the
+dark wilderness?
 
 God bless you, our beloved people. Listen to the words of heaven. God is true.
 He is just. He is a righteous judge, but justice must come before sympathy and
@@ -417,9 +415,10 @@ Remember, God is in his heavens. He knew what he was doing when he organized
 the earth. He knows what he is doing now. Those of us who break his
 commandments will regret and suffer in remorse and pain. God will not be
 mocked. Man has his free agency, it is sure, but remember, GOD WILL NOT BE
-MOCKED. (See [D&amp;C 63:58](https://www.lds.org/scriptures/dc-
-testament/dc/63.58?lang=eng#57).)
+MOCKED. (See [D&amp;C 63:58](/scriptures/dc-testament/dc/63.58?lang=eng#57).)
 
 Our counsel then to you is to live strictly the laws of your Heavenly Father.
 In the name of Jesus Christ. Amen.
+
+## References
 

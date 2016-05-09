@@ -84,7 +84,7 @@ After his resurrection the Savior visited his apostles and said unto them:
 spirit hath not flesh and bones, as ye see me have.
 
 "And when he had thus spoken, he shewed them his hands and his feet." ([Luke
-24:39-40](https://www.lds.org/scriptures/nt/luke/24.39-40?lang=eng#38).)
+24:39-40](/scriptures/nt/luke/24.39-40?lang=eng#38).)
 
 Jesus warned man to beware of false Christs with these words: "Take heed that
 no man deceive you.
@@ -94,8 +94,7 @@ no man deceive you.
 
 "For there shall arise false Christs, and false prophets, and shall shew great
 signs and wonders; insomuch that, if it were possible, they shall deceive the
-very elect." ([Matt. 24:4-5,
-24](https://www.lds.org/scriptures/nt/matt/24.4-5%2C24?lang=eng#3).)
+very elect." ([Matt. 24:4-5, 24](/scriptures/nt/matt/24.4-5,24?lang=eng#3).)
 
 In the first commandment of the Ten Commandments, the Lord commanded man to
 worship the living God of the scriptures and not to create and worship man-
@@ -106,8 +105,8 @@ that is in heaven above, or that is in the earth beneath, or that is in the
 water under the earth:
 
 "Thou shalt not bow down thyself to them, nor serve them." ([Ex.
-20:3-5](https://www.lds.org/scriptures/ot/ex/20.3-5?lang=eng#2).) Many
-continue to bow down to man-made images.
+20:3-5](/scriptures/ot/ex/20.3-5?lang=eng#2).) Many continue to bow down to
+man-made images.
 
 When the Savior lived on this earth he condemned the powerful Pharisee
 religion that professed to believe in the prophets and the scriptures but
@@ -117,7 +116,7 @@ accept the living Christ with a body of flesh, bones, and passions, Jesus
 denounced them saying: "Woe unto you, scribes and Pharisees, hypocrites! for
 ye shut up the kingdom of heaven against men: for ye neither go in yourselves,
 neither suffer ye them that are entering to go in." ([Matt.
-23:13](https://www.lds.org/scriptures/nt/matt/23.13?lang=eng#12).)
+23:13](/scriptures/nt/matt/23.13?lang=eng#12).)
 
 In latter-day revelation, the Lord again warned man not to be misled and
 deceived by religions that were organized without divine authority by men, by
@@ -134,8 +133,7 @@ and shall not remain after men are dead, neither in nor after the
 resurrection, saith the Lord your God.
 
 "For whatsoever things remain are by me; and whatsoever things are not by me
-shall be shaken and destroyed." ([D&amp;C
-132:12-14](https://www.lds.org/scriptures/dc-
+shall be shaken and destroyed." ([D&amp;C 132:12-14](/scriptures/dc-
 testament/dc/132.12-14?lang=eng#11).)
 
 There is only one way provided by the Lord for man to gain salvation and
@@ -150,8 +148,7 @@ with their mouth, and honoureth me with their lips; but their heart is far
 from me.
 
 "... In vain they do worship me, teaching for doctrines the commandments of
-men." ([Matt.
-15:8-9](https://www.lds.org/scriptures/nt/matt/15.8-9?lang=eng#7).)
+men." ([Matt. 15:8-9](/scriptures/nt/matt/15.8-9?lang=eng#7).)
 
 The belief that God has no body, parts, and passions is not a doctrine of
 Jesus Christ or a doctrine of the holy scriptures but is a doctrine of men,
@@ -165,7 +162,7 @@ deceived and misled.
 The sacred purpose of eternal life is to know the only true God and Jesus
 Christ. "This is life eternal," Jesus said, "that they might know thee the
 only true God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 The message of The Church of Jesus Christ of Latter-day Saints to the people
 of the world is that God the Eternal Father and Jesus Christ live, that they
@@ -177,4 +174,6 @@ holy scriptures.
 
 I bear witness that Jesus Christ lives and that he will soon be returning to
 this earth in his majesty and glory, in the name of Jesus Christ. Amen.
+
+## References
 

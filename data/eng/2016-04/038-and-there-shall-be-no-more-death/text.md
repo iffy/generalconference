@@ -133,3 +133,51 @@ Always. Through everything. I love Easter to remind me."[23]
 I testify of the reality of the Resurrection. Jesus Christ lives, and because
 of Him, we will all live again. In the name of Jesus Christ, amen.
 
+## References
+
+  1. Alisa Linton, "Easter," Apr. 14, 2015.
+
+  2. [1 Peter 3:15](https://www.lds.org/scriptures/nt/1-pet/3.15?lang=eng#14); see also [1 Peter 1:3](https://www.lds.org/scriptures/nt/1-pet/1.3?lang=eng#2).
+
+  3. Gordon B. Hinckley, "[The Empty Tomb Bore Testimony](https://www.lds.org/ensign/1988/05/the-empty-tomb-bore-testimony?lang=eng)," _Ensign,_ May 1988, 65.
+
+  4. See [Alma 42:23](https://www.lds.org/scriptures/bofm/alma/42.23?lang=eng#22).
+
+  5. See "[The Family: A Proclamation to the World](https://www.lds.org/liahona/2010/11/the-family-a-proclamation-to-the-world.p1?lang=eng),"_ Ensign_ or_ Liahona,_ Nov. 2010, 129.
+
+  6. See [Alma 11:43](https://www.lds.org/scriptures/bofm/alma/11.43?lang=eng#42).
+
+  7. [Doctrine and Covenants 93:33](https://www.lds.org/scriptures/dc-testament/dc/93.33?lang=eng#32); [138:17](https://www.lds.org/scriptures/dc-testament/dc/138.17?lang=eng#16).
+
+  8. See [2 Nephi 9:8-9](https://www.lds.org/scriptures/bofm/2-ne/9.8-9?lang=eng#7); [Doctrine and Covenants 93:34](https://www.lds.org/scriptures/dc-testament/dc/93.34?lang=eng#33).
+
+  9. See [Doctrine and Covenants 138:14-19](https://www.lds.org/scriptures/dc-testament/dc/138.14-19?lang=eng#13).
+
+  10. Alisa Linton, "I Draw the Line at the Easter Bunny," Mar. 25, 2008.
+
+  11. See [1 Corinthians 15:20-22](https://www.lds.org/scriptures/nt/1-cor/15.20-22?lang=eng#19); [2 Nephi 2:8](https://www.lds.org/scriptures/bofm/2-ne/2.8?lang=eng#7); [Helaman 14:17; ](https://www.lds.org/scriptures/bofm/hel/14.17?lang=eng#16)[Mormon 9:13](https://www.lds.org/scriptures/bofm/morm/9.13?lang=eng#12).
+
+  12. [Matthew 28:6](https://www.lds.org/scriptures/nt/matt/28.6?lang=eng#5).
+
+  13. See[ 1 Corinthians 15:6, 8](https://www.lds.org/scriptures/nt/1-cor/15.6,8?lang=eng#5).
+
+  14. [3 Nephi 11:15](https://www.lds.org/scriptures/bofm/3-ne/11.15?lang=eng#14).
+
+  15. See [Joseph Smith--History 1:15-17](https://www.lds.org/scriptures/pgp/js-h/1.15-17?lang=eng#14).
+
+  16. See "[The Living Christ: The Testimony of the Apostles](https://www.lds.org/liahona/2000/04/the-living-christ-the-testimony-of-the-apostles-the-church-of-jesus-christ-of-latter-day-saints?lang=eng),"_ Ensign _or_ Liahona,_ Apr. 2000, 2; "[Special Witnesses of Christ](https://www.lds.org/prophets-and-apostles/what-are-prophets-testimonies?lang=eng)," lds.org/prophets-and-apostles/what-are-prophets-testimonies.
+
+  17. [Hebrews 12:1](https://www.lds.org/scriptures/nt/heb/12.1?lang=eng#0).
+
+  18. See [Alma 7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10).
+
+  19. [2 Nephi 25:13](https://www.lds.org/scriptures/bofm/2-ne/25.13?lang=eng#12).
+
+  20. [Revelation 21:4](https://www.lds.org/scriptures/nt/rev/21.4?lang=eng#3).
+
+  21. [Doctrine and Covenants 76:69](https://www.lds.org/scriptures/dc-testament/dc/76.69?lang=eng#68).
+
+  22. [1 Corinthians 15:51-55, 57](https://www.lds.org/scriptures/nt/1-cor/15.51-55,57?lang=eng#50).
+
+  23. Alisa Linton, "Life through His Name," Apr. 8, 2012.
+

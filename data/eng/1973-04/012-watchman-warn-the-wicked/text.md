@@ -12,8 +12,7 @@ require at thine hand.
 
 "Yet if thou warn the wicked, and he turn not from his wickedness, nor from
 his wicked way, he shall die in his iniquity; but thou hast delivered thy
-soul." ([Ezek.
-3:17-19](https://www.lds.org/scriptures/ot/ezek/3.17-19?lang=eng#16).)
+soul." ([Ezek. 3:17-19](/scriptures/ot/ezek/3.17-19?lang=eng#16).)
 
 The inspired Book of Mormon prophets saw our day and warned us of the strategy
 of the adversary. Hear their words:
@@ -25,7 +24,7 @@ children of men, and stir them up to anger against that which is good.
 
 "... wo be unto him that hearkeneth unto the precepts of men, and denieth the
 power of God. ..." ([2 Ne. 28:20-21,
-26](https://www.lds.org/scriptures/bofm/2-ne/28.20-21%2C26?lang=eng#19).)
+26](/scriptures/bofm/2-ne/28.20-21,26?lang=eng#19).)
 
 Through a modern prophet, Joseph Smith, the Lord has given this further
 warning: "Wherefore the voice of the Lord is unto the ends of the earth, that
@@ -45,9 +44,8 @@ likeness of the world. ...
 "What I the Lord have spoken, I have spoken, and I excuse not myself; and
 though the heavens and the earth pass away, my word shall not pass away, but
 shall all be fulfilled, whether by mine own voice, or by the voice of my
-servants, it is the same." ([D&amp;C 1:11, 14-16,
-38](https://www.lds.org/scriptures/dc-
-testament/dc/1.11%2C14-16%2C38?lang=eng#10).)
+servants, it is the same." ([D&amp;C 1:11, 14-16, 38](/scriptures/dc-
+testament/dc/1.11,14-16,38?lang=eng#10).)
 
 These warnings were given 140 years ago. The fulfillment is now. We are living
 witnesses, unless we are blinded by our own complacency and the craftiness of
@@ -158,8 +156,8 @@ free world can and will face tomorrow without fear, without doubt, and with
 full confidence. We do not fear the phony population explosion, nor do we fear
 a shortage of food, if we can be free and good. The Lord has declared, "... the
 earth is full, and there is enough and to spare. ..." ([D&amp;C
-104:17](https://www.lds.org/scriptures/dc-testament/dc/104.17?lang=eng#16).)
-We can accept this promise with confidence.
+104:17](/scriptures/dc-testament/dc/104.17?lang=eng#16).) We can accept this
+promise with confidence.
 
 President Calvin Coolidge pinpointed the problem some years ago with these
 words:
@@ -234,15 +232,11 @@ Ronald Reagan of California at Eisenhower College, New York, 1969.)
 In 1787 Edward Gibbon completed his noble work The Decline and Fall of the
 Roman Empire. Here is the way he accounted for the fall:
 
-  1. The undermining of the dignity and sanctity of the home, which is the basis of human society.
-
-  2. Higher and higher taxes and the spending of public monies for free bread and circuses for the populace.
-
-  3. The mad craze for pleasure, sports becoming every year more and more exciting and brutal.
-
-  4. The building of gigantic armaments when the real enemy was within the decadence of the people.
-
-  5. The decay of religion--faith fading into mere form, losing touch with life, and becoming impotent to warn and guide the people.
+  1. The undermining of the dignity and sanctity of the home, which is the basis of human society. 
+  2. Higher and higher taxes and the spending of public monies for free bread and circuses for the populace. 
+  3. The mad craze for pleasure, sports becoming every year more and more exciting and brutal. 
+  4. The building of gigantic armaments when the real enemy was within the decadence of the people. 
+  5. The decay of religion--faith fading into mere form, losing touch with life, and becoming impotent to warn and guide the people. 
 
 Is there a parallel for us in America today? Could the same reasons that
 destroyed Rome destroy America and possibly other countries of the free world?
@@ -316,4 +310,6 @@ God help us, as free men, to recognize the source of our blessings, the threat
 to our freedom and our moral and spiritual standards, and the need for humble,
 yet courageous, action to preserve these priceless, time-tested blessings, I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

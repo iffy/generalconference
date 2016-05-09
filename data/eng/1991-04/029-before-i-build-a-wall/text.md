@@ -9,12 +9,10 @@ certain obligations to one another.
 
 "Wherefore, the Lord God hath given a commandment that all men should have
 charity, which charity is love." ([2 Ne.
-26:30](https://www.lds.org/scriptures/bofm/2-ne/26.30?lang=eng#29).) And the
-scriptures also teach us, "And ye shall also forgive one another your
-trespasses." ([Mosiah
-26:31](https://www.lds.org/scriptures/bofm/mosiah/26.31?lang=eng#30).) This
-quality can be a part of a person's life without compromising principle or
-commitment to truth.
+26:30](/scriptures/bofm/2-ne/26.30?lang=eng#29).) And the scriptures also
+teach us, "And ye shall also forgive one another your trespasses." ([Mosiah
+26:31](/scriptures/bofm/mosiah/26.31?lang=eng#30).) This quality can be a part
+of a person's life without compromising principle or commitment to truth.
 
 Not long ago, Father Paul Showalter of Nauvoo shared with us an interesting
 insight on the Prophet Joseph Smith that came from the early Catholic history
@@ -48,10 +46,9 @@ Covenants: "No power or influence can or ought to be maintained by virtue of
 the priesthood, only by persuasion, by long-suffering, by gentleness and
 meekness, and by love unfeigned; By kindness, and pure knowledge, which shall
 greatly enlarge the soul without hypocrisy, and without guile" ([D&amp;C
-121:41-42](https://www.lds.org/scriptures/dc-
-testament/dc/121.41-42?lang=eng#40)), and "Let thy bowels also be full of
-charity towards all men, and to the household of faith" ([D&amp;C
-121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44)).
+121:41-42](/scriptures/dc-testament/dc/121.41-42?lang=eng#40)), and "Let thy
+bowels also be full of charity towards all men, and to the household of faith"
+([D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)).
 
 Joseph Smith declared the doctrine of the Restoration with great power and
 force. And never once did he back away from an opportunity to proclaim the
@@ -79,9 +76,9 @@ disfellowshipped or excommunicated because of serious transgressions.
 
 "To all such we reach out in love. We are anxious to forgive in the spirit of
 Him who said: 'I, the Lord, will forgive whom I will forgive, but of you it is
-required to forgive all men.' ([D&amp;C 64:10](https://www.lds.org/scriptures
-/dc-testament/dc/64.10?lang=eng#9).)" (_Ensign,_ Mar. 1986, p. 88.) This
-letter is referred to as the invitation to "come back."
+required to forgive all men.' ([D&amp;C 64:10](/scriptures/dc-
+testament/dc/64.10?lang=eng#9).)" (_Ensign,_ Mar. 1986, p. 88.) This letter is
+referred to as the invitation to "come back."
 
 Today we live in times of conflict, dissent, differences of opinion, charges,
 countercharges, disagreements. There is a need for us, perhaps more than ever
@@ -166,12 +163,14 @@ Was it not the Savior, speaking of the first and great commandment, who said
 that we are to love the Lord our God with all our heart, might, mind, and
 strength and that the second is like unto it, that we are to love our
 neighbors as ourselves? (See [Matt.
-22:36-39](https://www.lds.org/scriptures/nt/matt/22.36-39?lang=eng#35).) The
-quality of mutual respect is a great quality. It can be found in the hearts of
-great people, and in this sense, we all should be great people. It does not
-have to compromise truth or principle, but it can create brotherhood and
-sisterhood and the resolution of many problems.
+22:36-39](/scriptures/nt/matt/22.36-39?lang=eng#35).) The quality of mutual
+respect is a great quality. It can be found in the hearts of great people, and
+in this sense, we all should be great people. It does not have to compromise
+truth or principle, but it can create brotherhood and sisterhood and the
+resolution of many problems.
 
 May the Lord bless us that we may look upon one another in that spirit. In the
 name of Jesus Christ, amen.
+
+## References
 

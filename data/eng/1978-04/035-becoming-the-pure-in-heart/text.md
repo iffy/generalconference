@@ -5,7 +5,7 @@ your faces and the beauties of nature on this Temple Square make my heart
 swell with thanksgiving for the blessings of the Lord. As we meet together in
 conference, I hope the spirit of gratitude permeates all we do and say, for
 truly the Lord delights to bless those who love and serve him. (See [D&amp;C
-76:5](https://www.lds.org/scriptures/dc-testament/dc/76.5?lang=eng#4).)
+76:5](/scriptures/dc-testament/dc/76.5?lang=eng#4).)
 
 With the help of the Lord, I should like to remind us of several truths and
 obligations that should never be forgotten by us as leaders and as a people.
@@ -34,9 +34,8 @@ not be misled into supposing that we can discharge our obligations to the poor
 and the needy by shifting the responsibility to some governmental or other
 public agency. Only by voluntarily giving out of an abundant love for our
 neighbors can we develop that charity characterized by Mormon as 'the pure
-love of Christ.' ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) This we
-must develop if we would obtain eternal life." (_Conference Report,_ Oct.
+love of Christ.' ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) This
+we must develop if we would obtain eternal life." (_Conference Report,_ Oct.
 1972, p. 115.)
 
 No "ism" should confuse our thinking in these matters. As a reminder of Church
@@ -47,17 +46,16 @@ may I emphasize the following declaration of principle:
 or economic well-being rests first upon himself, second, upon his family, and
 third, upon the Church. Members of the Church are commanded by the Lord to be
 self-reliant and independent to the extent of their ability. (See [D&amp;C
-78:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/78.13-14?lang=eng#12).)
+78:13-14](/scriptures/dc-testament/dc/78.13-14?lang=eng#12).)
 
 "No true Latter-day Saint, while physically or emotionally able, will
 voluntarily shift the burden of his own or his family's well-being to someone
 else. So long as he can, under the inspiration of the Lord and with his own
 labors, he will work to the extent of his ability to supply himself and his
 family with the spiritual and temporal necessities of life. (See [Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18); [1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7); and [Philip.
-2:12](https://www.lds.org/scriptures/nt/philip/2.12?lang=eng#11).)
+3:19](/scriptures/ot/gen/3.19?lang=eng#18); [1 Tim.
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7); and [Philip.
+2:12](/scriptures/nt/philip/2.12?lang=eng#11).)
 
 "As guided by the spirit of the Lord and through applying these principles,
 each member of the Church should make his own decisions as to what assistance
@@ -72,12 +70,12 @@ need for self-reliance. This is so because:
 
 "All truth is independent in that sphere in which God has placed it, ... as all
 intelligence also; otherwise there is no existence." ([D&amp;C
-93:30](https://www.lds.org/scriptures/dc-testament/dc/93.30?lang=eng#29).) The
-Lord declares that herein lies "the agency of man" (see [D&amp;C
-93:31](https://www.lds.org/scriptures/dc-testament/dc/93.31?lang=eng#30)), and
-with this agency comes the responsibility for self. With this agency we can
-rise to glory or fall to condemnation. May we individually and collectively be
-ever self-reliant. This is our heritage and our obligation.
+93:30](/scriptures/dc-testament/dc/93.30?lang=eng#29).) The Lord declares that
+herein lies "the agency of man" (see [D&amp;C 93:31](/scriptures/dc-
+testament/dc/93.31?lang=eng#30)), and with this agency comes the
+responsibility for self. With this agency we can rise to glory or fall to
+condemnation. May we individually and collectively be ever self-reliant. This
+is our heritage and our obligation.
 
 The principle of self-reliance stands behind the Church's emphasis on personal
 and family preparedness. Our progress in implementing the various facets of
@@ -137,8 +135,8 @@ record of the land upon which the Zion of God shall stand; ...
 the blind, and the deaf, come in unto the marriage of the Lamb, and partake of
 the supper of the Lord, prepared for the great day to come.
 
-"Behold, I, the Lord, have spoken it." ([D&amp;C
-58:3-12](https://www.lds.org/scriptures/dc-testament/dc/58.3-12?lang=eng#2).)
+"Behold, I, the Lord, have spoken it." ([D&amp;C 58:3-12](/scriptures/dc-
+testament/dc/58.3-12?lang=eng#2).)
 
 This day will come; it is our destiny to help bring it about! Doesn't it
 motivate you to lengthen your stride and quicken your pace as you do your part
@@ -159,11 +157,10 @@ celestial kingdom;
 
 "And Zion cannot be built up unless it is by the principles of the law of the
 celestial kingdom; otherwise I cannot receive her unto myself." ([D&amp;C
-105:3-5](https://www.lds.org/scriptures/dc-testament/dc/105.3-5?lang=eng#2).)
+105:3-5](/scriptures/dc-testament/dc/105.3-5?lang=eng#2).)
 
 The Lord further counsels that we must learn obedience and be developed in
-character before he can redeem Zion. (See [D&amp;C
-105:9-10](https://www.lds.org/scriptures/dc-
+character before he can redeem Zion. (See [D&amp;C 105:9-10](/scriptures/dc-
 testament/dc/105.9-10?lang=eng#8).)
 
 A few verses later in this same revelation, the Lord repeats the law of Zion
@@ -174,8 +171,7 @@ executed and fulfilled, after her redemption.
 
 "And inasmuch as they follow the counsel which they receive, they shall have
 power after many days to accomplish all things pertaining to Zion." ([D&amp;C
-105:34, 37](https://www.lds.org/scriptures/dc-
-testament/dc/105.34%2C37?lang=eng#33).)
+105:34, 37](/scriptures/dc-testament/dc/105.34,37?lang=eng#33).)
 
 The length of time required "to accomplish all things pertaining to Zion" is
 strictly up to us and how we live, for creating Zion "commences in the heart
@@ -200,7 +196,7 @@ Jesus Christ hath shown you unto me, and I know your doing.
 "For behold, ye do love money, and your substance, and your fine apparel, and
 the adorning of your churches, more than ye love the poor and the needy, the
 sick and the afflicted." ([Morm. 8:35,
-37](https://www.lds.org/scriptures/bofm/morm/8.35%2C37?lang=eng#34).)
+37](/scriptures/bofm/morm/8.35,37?lang=eng#34).)
 
 This state of affairs stands in marked contrast to the Zion the Lord seeks to
 establish through his covenant people. Zion can be built up only among those
@@ -212,12 +208,11 @@ Zion is not things of the lower, but of the higher order, things that exalt
 the mind and sanctify the heart.
 
 Zion is "every man seeking the interest of his neighbor, and doing all things
-with an eye single to the glory of God." ([D&amp;C
-82:19](https://www.lds.org/scriptures/dc-testament/dc/82.19?lang=eng#18).) As
-I understand these matters, Zion can be established only by those who are pure
-in heart, and who labor for Zion, for "the laborer in Zion shall labor for
-Zion; for if they labor for money they shall perish." ([2 Ne.
-26:31](https://www.lds.org/scriptures/bofm/2-ne/26.31?lang=eng#30).)
+with an eye single to the glory of God." ([D&amp;C 82:19](/scriptures/dc-
+testament/dc/82.19?lang=eng#18).) As I understand these matters, Zion can be
+established only by those who are pure in heart, and who labor for Zion, for
+"the laborer in Zion shall labor for Zion; for if they labor for money they
+shall perish." ([2 Ne. 26:31](/scriptures/bofm/2-ne/26.31?lang=eng#30).)
 
 As important as it is to have this vision in mind, defining and describing
 Zion will not bring it about. That can only be done through consistent and
@@ -232,23 +227,22 @@ the soul, shrinks the heart, and darkens the mind. President Romney recently
 referred to the tragic cycle of civilization, a cycle propelled by anyone who
 seeks for power and gain. Was it not this that led Cain to commit the first
 murder "for the sake of getting gain"? ([Moses
-5:50](https://www.lds.org/scriptures/pgp/moses/5.50?lang=eng#49).) Is not this
-the spirit of the anti-Christ in which "every man prospered according to his
-genius, and ... every man conquered according to his strength; and whatsoever a
-man did was no crime"? ([Alma
-30:17](https://www.lds.org/scriptures/bofm/alma/30.17?lang=eng#16).) Did not
-Nephi single this out as the spirit which led his generation to destruction:
+5:50](/scriptures/pgp/moses/5.50?lang=eng#49).) Is not this the spirit of the
+anti-Christ in which "every man prospered according to his genius, and ... every
+man conquered according to his strength; and whatsoever a man did was no
+crime"? ([Alma 30:17](/scriptures/bofm/alma/30.17?lang=eng#16).) Did not Nephi
+single this out as the spirit which led his generation to destruction:
 
 "Now the cause of this iniquity of the people was this--Satan had great power,
 unto the stirring up of the people to do all manner of iniquity, and to the
 puffing them up with pride, tempting them to seek for power, and authority,
 and riches, and the vain things of the world." ([3 Ne.
-6:15](https://www.lds.org/scriptures/bofm/3-ne/6.15?lang=eng#14).)
+6:15](/scriptures/bofm/3-ne/6.15?lang=eng#14).)
 
 If we are to avoid their fate, we must guard against the very things that
 caused their downfall. The Lord himself declared to our grandparents: "And
 again, I command thee that thou shalt not covet thine property." ([D&amp;C
-19:26](https://www.lds.org/scriptures/dc-testament/dc/19.26?lang=eng#25).)
+19:26](/scriptures/dc-testament/dc/19.26?lang=eng#25).)
 
 He further counseled his young church by saying:
 
@@ -258,24 +252,23 @@ Kirtland:
 "For they do not forsake their sins and their wicked ways, the pride of their
 hearts, and their covetousness, and all their detestable things, and observe
 the words of wisdom and eternal life which I have given unto them." ([D&amp;C
-98:19-20](https://www.lds.org/scriptures/dc-
-testament/dc/98.19-20?lang=eng#18).) It is incumbent upon us to put away
-selfishness in our families, our business and professional pursuits, and our
-Church affairs. I am disturbed when I hear of stakes or wards having
-difficulty dividing equity in welfare projects or making equitable storehouse
-commodity production assignments. These things should not be. Let us resolve
-today to overcome any such tendencies.
+98:19-20](/scriptures/dc-testament/dc/98.19-20?lang=eng#18).) It is incumbent
+upon us to put away selfishness in our families, our business and professional
+pursuits, and our Church affairs. I am disturbed when I hear of stakes or
+wards having difficulty dividing equity in welfare projects or making
+equitable storehouse commodity production assignments. These things should not
+be. Let us resolve today to overcome any such tendencies.
 
 Second, we must cooperate completely and work in harmony one with the other.
 There must be unanimity in our decisions and unity in our actions. After
 pleading with the Saints to "let every man esteem his brother as himself"
-([D&amp;C 38:24](https://www.lds.org/scriptures/dc-
-testament/dc/38.24?lang=eng#23)), the Lord concludes his instructions on
-cooperation to a conference of the membership in these powerful words:
+([D&amp;C 38:24](/scriptures/dc-testament/dc/38.24?lang=eng#23)), the Lord
+concludes his instructions on cooperation to a conference of the membership in
+these powerful words:
 
 "Behold, this I have given unto you as a parable, and it is even as I am. I
 say unto you, be one; and if ye are not one ye are not mine." ([D&amp;C
-38:27](https://www.lds.org/scriptures/dc-testament/dc/38.27?lang=eng#26).)
+38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26).)
 
 If the Spirit of the Lord is to magnify our labors, then this spirit of
 oneness and cooperation must be the prevailing spirit in all that we do.
@@ -309,10 +302,12 @@ must fail--
 
 "But charity is the pure love of Christ, and it endureth forever; and whoso is
 found possessed of it at the last day, it shall be well with him." ([Moro.
-7:46-47](https://www.lds.org/scriptures/bofm/moro/7.46-47?lang=eng#45).)
+7:46-47](/scriptures/bofm/moro/7.46-47?lang=eng#45).)
 
 Let us unite and pray with all the energy of heart, that we may be sealed by
 this bond of charity; that we may build up this latter-day Zion, that the
 kingdom of God may go forth, so that the kingdom of heaven may come. This is
 my prayer and testimony in the name of Jesus Christ. Amen.
+
+## References
 

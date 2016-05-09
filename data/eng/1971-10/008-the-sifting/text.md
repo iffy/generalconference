@@ -11,10 +11,10 @@ normal, useful life is a priceless blessing.
 But it is also a time when certain God-given standards and true principles
 that have long been accepted and respected are being rejected by many. Indeed,
 it is a day when there is "distress of nations, with perplexity." ([Luke
-21:25](https://www.lds.org/scriptures/nt/luke/21.25?lang=eng#24).)
+21:25](/scriptures/nt/luke/21.25?lang=eng#24).)
 
 The Lord speaks of a time when "the love of men shall wax cold, and iniquity
-shall abound." ([D&amp;C 45:27](https://www.lds.org/scriptures/dc-
+shall abound." ([D&amp;C 45:27](/scriptures/dc-
 testament/dc/45.27?lang=eng#26).) Has that time come?
 
 It is most disturbing to learn of the degradation that exists today. Crime and
@@ -24,22 +24,21 @@ satisfactory conclusion.
 
 Now the scriptures tell us that the devil is "the foundation of all these
 things; yea, the foundation of murder, and works of darkness ..." ([2 Ne.
-26:22](https://www.lds.org/scriptures/bofm/2-ne/26.22?lang=eng#21)), and that
-he has "great power, unto the stirring up of the people to do all manner of
-iniquity, and to the puffing them up with pride, tempting them to seek for
-power, and authority, and riches, and the vain things of the world." ([3 Ne.
-6:15](https://www.lds.org/scriptures/bofm/3-ne/6.15?lang=eng#14).)
+26:22](/scriptures/bofm/2-ne/26.22?lang=eng#21)), and that he has "great
+power, unto the stirring up of the people to do all manner of iniquity, and to
+the puffing them up with pride, tempting them to seek for power, and
+authority, and riches, and the vain things of the world." ([3 Ne.
+6:15](/scriptures/bofm/3-ne/6.15?lang=eng#14).)
 
 Such people "seek not the Lord to establish his righteousness, but every man
 walketh in his own way, and after the image of his own God, whose image is in
-the likeness of the world. ..." ([D&amp;C 1:16](https://www.lds.org/scriptures
-/dc-testament/dc/1.16?lang=eng#15).)
+the likeness of the world. ..." ([D&amp;C 1:16](/scriptures/dc-
+testament/dc/1.16?lang=eng#15).)
 
 "And they deny the power of God, the Holy One of Israel; and they say unto the
 people: Hearken unto us, and hear ye our precept; for behold there is no God
 today, for the Lord and the Redeemer hath done his work, and he hath given his
-power unto men." ([2 Ne.
-28:5](https://www.lds.org/scriptures/bofm/2-ne/28.5?lang=eng#4).)
+power unto men." ([2 Ne. 28:5](/scriptures/bofm/2-ne/28.5?lang=eng#4).)
 
 So spoke the prophet Nephi long ago, looking to our day. However, Dr. James E.
 Talmage gives needed assurance in these words:
@@ -52,7 +51,7 @@ power." (_Articles of Faith, _p. 63.)
 Some may ask: "Why, then, does not God, with that superior power, put an end
 to all evil doings?" The reason is, of course, as has been decreed by God,
 that "it must needs be, that there is an opposition in all things. ..." ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).)
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10).)
 
 The reason for such opposition is to enable us to evaluate the right against
 the wrong. All men have the right to direct the course of their own lives, and
@@ -84,7 +83,7 @@ All of us have the God-given right to accept the good or to reject it.
 As Paul said: "... God ... will not suffer you to be tempted above that [which] ye
 are able [to overcome]; but [he] will with the temptation also make a way to
 escape, that ye may be able to bear it." ([1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).)
+10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).)
 
 This is a time of sifting, a time when, more than ever in the history of the
 modern world, the adversary and his followers have shown themselves to be
@@ -108,7 +107,7 @@ is most precious and desirable--peace, liberty, and salvation.
 you.
 
 "Draw nigh unto God, and he will draw nigh unto you. ..." ([James 4:
-7-8](https://www.lds.org/scriptures/nt/james/4.title?lang=eng).)
+7-8](/scriptures/nt/james/4?lang=eng).)
 
 The safe thing is still "Come, follow me."
 
@@ -119,7 +118,7 @@ testing us, a place of sifting from which may come the blessings of a joyous
 life here and a glorious life to come!
 
 "Blessed is the man that trusteth in the Lord, and whose hope the Lord is."
-([Jer. 17:7](https://www.lds.org/scriptures/ot/jer/17.7?lang=eng#6).)
+([Jer. 17:7](/scriptures/ot/jer/17.7?lang=eng#6).)
 
 He has given us the ingredients for successful living: his gospel as a perfect
 plan for happiness and success for all who live it, the Church with inspired
@@ -138,8 +137,7 @@ hand nor to the left, ... therefore his paths are straight, and his course is
 one eternal round.
 
 "Remember, remember that it is not the work of God that is frustrated, but the
-work of men." ([D&amp;C 3:1-3](https://www.lds.org/scriptures/dc-
-testament/dc/3.1-3?lang=eng#0).)
+work of men." ([D&amp;C 3:1-3](/scriptures/dc-testament/dc/3.1-3?lang=eng#0).)
 
 I conclude with this promise of King Benjamin:
 
@@ -149,7 +147,9 @@ in all things, both temporal and spiritual; and if they hold out faithful to
 the end they are received into heaven, that thereby they may dwell with God in
 a state of never-ending happiness. O remember, remember that these things are
 true; for the Lord God hath spoken it." ([Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40).)
+2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40).)
 
 In the name of Jesus Christ. Amen.
+
+## References
 

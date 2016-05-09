@@ -31,23 +31,21 @@ mankind. As Easter in the Northern Hemisphere ushers in an awakening of life
 following the barrenness of winter, so Christ's resurrection ushers in the
 blessing of immortality and the possibility of eternal life. His empty tomb
 proclaims to all the world, "He is not here, but is risen." ([Luke
-24:6](https://www.lds.org/scriptures/nt/luke/24.6?lang=eng#5).) These words
-contain all the hope, assurance, and belief necessary to sustain us in our
-challenging and sometimes grief-filled lives.
+24:6](/scriptures/nt/luke/24.6?lang=eng#5).) These words contain all the hope,
+assurance, and belief necessary to sustain us in our challenging and sometimes
+grief-filled lives.
 
 Easter is the celebration of the free gift of immortality given to all men,
 restoring life and healing all wounds. Though all will die as part of the
 eternal plan of growth and development, nevertheless we can all find comfort
 in the Psalmist's statement, "Weeping may endure for a night, but joy cometh
-in the morning." ([Ps.
-30:5](https://www.lds.org/scriptures/ot/ps/30.5?lang=eng#4).)
+in the morning." ([Ps. 30:5](/scriptures/ot/ps/30.5?lang=eng#4).)
 
 It was Job who posed what might be called the question of the ages: "If a man
 die, shall he live again?" ([Job
-14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13).) Christ's
-answer rings down through time to this very hour: "Because I live, ye shall
-live also." ([John
-14:19](https://www.lds.org/scriptures/nt/john/14.19?lang=eng#18).)
+14:14](/scriptures/ot/job/14.14?lang=eng#13).) Christ's answer rings down
+through time to this very hour: "Because I live, ye shall live also." ([John
+14:19](/scriptures/nt/john/14.19?lang=eng#18).)
 
 Even with the logic of nature's regeneration and even with the testimony of
 that empty garden tomb, there are still those who feel the grave is a final
@@ -65,8 +63,8 @@ every Christian tongue should speak.
 
 The eternal truth is that Jesus Christ arose from the grave and was the
 firstfruits of the Resurrection. (See [1 Cor.
-15:23](https://www.lds.org/scriptures/nt/1-cor/15.23?lang=eng#22).) The
-witnesses of this wonderful occurrence cannot be impeached.
+15:23](/scriptures/nt/1-cor/15.23?lang=eng#22).) The witnesses of this
+wonderful occurrence cannot be impeached.
 
 Among the chosen witnesses are the Lord's Apostles. Indeed, the call to the
 holy apostleship is one of bearing witness to the world of the divinity of the
@@ -82,15 +80,15 @@ and resurrection of Jesus:
 
 "Therefore let all the house of Israel know assuredly, that God hath made that
 same Jesus, whom ye have crucified, both Lord and Christ." ([Acts
-2:36](https://www.lds.org/scriptures/nt/acts/2.36?lang=eng#35).)
+2:36](/scriptures/nt/acts/2.36?lang=eng#35).)
 
 "But ye denied the Holy One and the Just, ... and killed the Prince of life,
 whom God hath raised from the dead; whereof we are witnesses." ([Acts
-3:14-15](https://www.lds.org/scriptures/nt/acts/3.14-15?lang=eng#13).)
+3:14-15](/scriptures/nt/acts/3.14-15?lang=eng#13).)
 
 "And we are his witnesses of these things; and so is also the Holy Ghost, whom
 God hath given to them that obey him." ([Acts
-5:32](https://www.lds.org/scriptures/nt/acts/5.32?lang=eng#31).)
+5:32](/scriptures/nt/acts/5.32?lang=eng#31).)
 
 The Apostle Paul commented on what Peter had stated about the Apostles being
 witnesses of the death and resurrection of Jesus. These are his words:
@@ -102,31 +100,30 @@ from the tree, and laid him in a sepulchre.
 
 "And he was seen many days of them which came up with him from Galilee to
 Jerusalem, who are his witnesses unto the people." ([Acts
-13:29-31](https://www.lds.org/scriptures/nt/acts/13.29-31?lang=eng#28).)
+13:29-31](/scriptures/nt/acts/13.29-31?lang=eng#28).)
 
 On Mars Hill in Athens, Paul said: "[God] hath given assurance unto all men,
 in that he hath raised him from the dead" ([Acts
-17:31](https://www.lds.org/scriptures/nt/acts/17.31?lang=eng#30)), and before
-King Agrippa he asked this question: "Why should it be thought a thing
-incredible with you, that God should raise the dead?" ([Acts
-26:8](https://www.lds.org/scriptures/nt/acts/26.8?lang=eng#7).)
+17:31](/scriptures/nt/acts/17.31?lang=eng#30)), and before King Agrippa he
+asked this question: "Why should it be thought a thing incredible with you,
+that God should raise the dead?" ([Acts
+26:8](/scriptures/nt/acts/26.8?lang=eng#7).)
 
 Paul bore his apostolic witness of the Resurrection again in his letter to the
 Saints at Corinth:
 
 "Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord?
 are not ye my work in the Lord? ... For the seal of mine apostleship are ye in
-the Lord." ([1 Cor.
-9:1-2](https://www.lds.org/scriptures/nt/1-cor/9.1-2?lang=eng#0).)
+the Lord." ([1 Cor. 9:1-2](/scriptures/nt/1-cor/9.1-2?lang=eng#0).)
 
 "But now is Christ risen from the dead, and become the firstfruits of them
 that slept ... in Christ shall all be made alive." ([1 Cor. 15:20,
-22](https://www.lds.org/scriptures/nt/1-cor/15.20%2C22?lang=eng#19).)
+22](/scriptures/nt/1-cor/15.20,22?lang=eng#19).)
 
 I humbly testify of my privilege to bear the holy apostleship and to work
 daily with a modern Quorum of Twelve Apostles who are disciples of the Lord
 Jesus Christ. We are to go forth as "special witnesses of the name of Christ
-in all the world." ([D&amp;C 107:23](https://www.lds.org/scriptures/dc-
+in all the world." ([D&amp;C 107:23](/scriptures/dc-
 testament/dc/107.23?lang=eng#22).) And so have the Apostles always testified.
 
 In our own day, Apostles and prophets are carrying on the work of bearing
@@ -140,25 +137,25 @@ the resurrection of Jesus and to set forth, in part at least, the basis upon
 which that witness rests.
 
 "'He is risen; he is not here.' ([Mark
-16:6](https://www.lds.org/scriptures/nt/mark/16.6?lang=eng#5).) These words,
-eloquent in their simplicity, announced the most significant event of recorded
-history, the resurrection of the Lord Jesus--an event so extraordinary that
-even the Apostles, who had been most intimately associated with Jesus in his
-earthly ministry and who had been carefully taught of the coming event, had
-difficulty grasping the reality of its full significance. The first accounts
-which reached their ears 'seemed to them as idle tales' ([Luke
-24:11](https://www.lds.org/scriptures/nt/luke/24.11?lang=eng#10)) as well they
-might, for millions of men had lived and died before that day. In every hill
-and dale men's bodies mouldered in the dust, but until that first Easter
-morning not one had risen from the grave. ...
+16:6](/scriptures/nt/mark/16.6?lang=eng#5).) These words, eloquent in their
+simplicity, announced the most significant event of recorded history, the
+resurrection of the Lord Jesus--an event so extraordinary that even the
+Apostles, who had been most intimately associated with Jesus in his earthly
+ministry and who had been carefully taught of the coming event, had difficulty
+grasping the reality of its full significance. The first accounts which
+reached their ears 'seemed to them as idle tales' ([Luke
+24:11](/scriptures/nt/luke/24.11?lang=eng#10)) as well they might, for
+millions of men had lived and died before that day. In every hill and dale
+men's bodies mouldered in the dust, but until that first Easter morning not
+one had risen from the grave. ...
 
 "That the whole of his mortal life moved toward this consummation, he had
 repeatedly taught. It was foreshadowed in his statement about laying down his
 life and taking it up again. To the sorrowing Martha he had said, 'I am the
 resurrection, and the life' ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24)); and to the
-Jews, 'Destroy this temple, and in three days I will raise it up.' ([John
-2:19](https://www.lds.org/scriptures/nt/john/2.19?lang=eng#18).) ...
+11:25](/scriptures/nt/john/11.25?lang=eng#24)); and to the Jews, 'Destroy this
+temple, and in three days I will raise it up.' ([John
+2:19](/scriptures/nt/john/2.19?lang=eng#18).) ...
 
 "The evidence that Jesus was resurrected is conclusive." (in Conference
 Report, Apr. 1982, pp. 5-7; or _Ensign,_ May 1982, p. 6.)
@@ -172,10 +169,12 @@ commandments.
 In teaching his Apostles, Christ made known to them "that the Son of Man must
 suffer many things, and be rejected of the elders, and of the chief priests,
 and scribes, and be killed, and after three days rise again." ([Mark
-8:31](https://www.lds.org/scriptures/nt/mark/8.31?lang=eng#30).) So it was. He
-was crucified and placed in the tomb. On the third day, he did arise to live
-again--the Savior of all mankind and the firstfruits of the Resurrection.
-Through this atoning sacrifice, all men shall be saved from the grave and
-shall live again. This always has been the testimony of the Apostles, to which
-I add my witness, in the name of Jesus Christ, amen.
+8:31](/scriptures/nt/mark/8.31?lang=eng#30).) So it was. He was crucified and
+placed in the tomb. On the third day, he did arise to live again--the Savior
+of all mankind and the firstfruits of the Resurrection. Through this atoning
+sacrifice, all men shall be saved from the grave and shall live again. This
+always has been the testimony of the Apostles, to which I add my witness, in
+the name of Jesus Christ, amen.
+
+## References
 

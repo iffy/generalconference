@@ -7,9 +7,9 @@ From the Passover feast of 19 centuries ago came this great message of promise
 and exhortation from our Lord and Savior Jesus Christ: "Peace I leave with
 you, my peace I give unto you: not as the world giveth, give I unto you. Let
 not your heart be troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).) There is so
-much conflict and contention in the world today that the subject of peace
-seems most appropriate for me to discuss.
+14:27](/scriptures/nt/john/14.27?lang=eng#26).) There is so much conflict and
+contention in the world today that the subject of peace seems most appropriate
+for me to discuss.
 
 There can be no real happiness without peace, yet honest men and women in all
 parts of the world are seeking personal peace and know not where to find it.
@@ -35,7 +35,7 @@ Undoubtedly one of the greatest messages given by our Lord and Savior was the
 Sermon on the Mount. This message contained the Savior's plan for the abundant
 life. In it he admonished all to be peacemakers as he said, "Blessed are the
 peacemakers: for they shall be called the children of God." ([Matt.
-5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8).)
+5:9](/scriptures/nt/matt/5.9?lang=eng#8).)
 
 Have you ever wondered how you can be a peacemaker? Really, our opportunities
 are unlimited.
@@ -48,15 +48,15 @@ adjustments on the part of both. We can pray together for the spirit of peace.
 We can be a peacemaker by avoiding criticism. Remember that Jesus in the
 Sermon on the Mount said, "Judge not, that ye be not judged. For with what
 judgment ye judge, ye shall be judged." ([Matt.
-7:1-2](https://www.lds.org/scriptures/nt/matt/7.1-2?lang=eng#0).) Did you ever
-stop to think that every time you criticize you are judging?
+7:1-2](/scriptures/nt/matt/7.1-2?lang=eng#0).) Did you ever stop to think that
+every time you criticize you are judging?
 
 We can be a peacemaker by practicing and teaching forgiveness. Jesus was asked
 how many times one should be forgiven, and he replied that we should forgive
 without limit. Forgive him "seventy times seven." ([Matt.
-18:22](https://www.lds.org/scriptures/nt/matt/18.22?lang=eng#21).) An
-important part of forgiving is forgetting. In some ways, being able to forget
-is almost as valuable as being able to remember.
+18:22](/scriptures/nt/matt/18.22?lang=eng#21).) An important part of forgiving
+is forgetting. In some ways, being able to forget is almost as valuable as
+being able to remember.
 
 In dedicating the Hyde Park chapel in London, among other things, President
 David O. McKay said, "If you want peace, yours is the responsibility to obtain
@@ -114,7 +114,7 @@ not great, and as she said, "The Lord is taking care of my needs."
 
 The Lord tells us, "But learn that he who doeth the works of righteousness
 shall receive his reward, even peace in this world, and eternal life in the
-world to come." ([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
+world to come." ([D&amp;C 59:23](/scriptures/dc-
 testament/dc/59.23?lang=eng#22).)
 
 Yes, the Lord will take care of our needs and help us overcome those things
@@ -128,8 +128,7 @@ but yet so sweet to us.
 Possibly there is a greater need of peacemakers today than ever before. If
 this world had no need of peacemakers, our Savior never would have said,
 "_Blessed_ are the peacemakers: for they shall be called the children of God."
-([Matt. 5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8). Italics
-added.)
+([Matt. 5:9](/scriptures/nt/matt/5.9?lang=eng#8). Italics added.)
 
 The blessed part of being a peacemaker is that those who are peacemakers and
 who live the gospel principles receive a testimony borne of the Holy Ghost.
@@ -148,4 +147,6 @@ have the courage and good judgment to follow his counsel and advice.
 May each of us in our daily lives assume the role of a peacemaker and enjoy
 the peace that surpasseth all understanding, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

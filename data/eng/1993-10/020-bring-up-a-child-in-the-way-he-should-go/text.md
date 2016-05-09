@@ -179,7 +179,7 @@ There is an equal responsibility to provide nourishment and direction to the
 spirit and the mind and the heart. Wrote Paul to Timothy, "But if any provide
 not for his own, and specially for those of his own house, he hath denied the
 faith, and is worse than an infidel" ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7)).
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7)).
 
 I am satisfied that Paul was speaking of more than physical nourishment.
 
@@ -205,7 +205,7 @@ immorality and from the shame of delinquency.
 
 Said the writer of Proverbs, "Train up a child in the way he should go: and
 when he is old, he will not depart from it" ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5)).
+22:6](/scriptures/ot/prov/22.6?lang=eng#5)).
 
 The health of any society, the happiness of its people, their prosperity, and
 their peace all find their roots in the teaching of children by fathers and
@@ -246,9 +246,8 @@ and most warmly congratulate you. Surely you are fortunate.
 
 But there are others--too many among our own--whose children, to quote the
 revelation, are "growing up in wickedness" and who "seek not ... the riches of
-eternity, but their eyes are full of greediness" ([D&amp;C
-68:31](https://www.lds.org/scriptures/dc-testament/dc/68.31?lang=eng#30)). To
-these I make my appeal.
+eternity, but their eyes are full of greediness" ([D&amp;C 68:31](/scriptures
+/dc-testament/dc/68.31?lang=eng#30)). To these I make my appeal.
 
 It may not be easy. It may be fraught with disappointment and challenge. It
 will require courage and patience. I remind you of the faith and determination
@@ -259,7 +258,7 @@ It will do what money lavished on children will never do.
 
 --And patience, with a bridling of the tongue and self-mastery over anger. The
 writer of Proverbs declared, "A soft answer turneth away wrath" ([Prov.
-15:1](https://www.lds.org/scriptures/ot/prov/15.1?lang=eng#0)).
+15:1](/scriptures/ot/prov/15.1?lang=eng#0)).
 
 --And encouragement that is quick to compliment and slow to criticize.
 
@@ -272,4 +271,6 @@ and encouragement those who are most precious, the children who have come from
 Thee, that together they might be safeguarded and directed for good and, in
 the process of growth, bring blessings to the world of which they will be a
 part, I pray in the name of Jesus Christ, amen.
+
+## References
 

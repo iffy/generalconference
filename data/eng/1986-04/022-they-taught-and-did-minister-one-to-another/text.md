@@ -60,7 +60,7 @@ I heard him later stand before the members and testify of the love of God and
 of my friend and others who had ministered unto him and taught him. My heart
 has been touched as I think of how powerful and important the words are: "They
 taught and did minister one to another." ([3 Ne.
-26:19](https://www.lds.org/scriptures/bofm/3-ne/26.19?lang=eng#18).)
+26:19](/scriptures/bofm/3-ne/26.19?lang=eng#18).)
 
 President Spencer W. Kimball gave these insights about the ministry of the
 Savior: "Never did the Savior give in expectation. I know of no case in his
@@ -79,12 +79,11 @@ We should strive to give as he gave. To give of oneself is a holy gift." (_The
 Wondrous Gift,_ Salt Lake City: Deseret Book Co., 1978, p. 2.)
 
 One of the great stories on ministering to others comes from Alma in the Book
-of Mormon. (See [Alma
-17-19](https://www.lds.org/scriptures/bofm/alma/17.title?lang=eng).) Ammon,
-one of the sons of Mosiah, truly gave himself to teaching and ministering unto
-the people for over fourteen years. He had waxed strong in the knowledge of
-truth by searching the scriptures diligently, by much prayer and fasting, and
-he received the spirit of prophecy and revelation and taught with power and
+of Mormon. (See [Alma 17-19](/scriptures/bofm/alma/17?lang=eng).) Ammon, one
+of the sons of Mosiah, truly gave himself to teaching and ministering unto the
+people for over fourteen years. He had waxed strong in the knowledge of truth
+by searching the scriptures diligently, by much prayer and fasting, and he
+received the spirit of prophecy and revelation and taught with power and
 authority from God. He prayed that he might be an instrument in the hands of
 God to bring the knowledge of the truth unto the Lamanites, a wild and
 hardened and ferocious people. As he came to the land of Ishmael, the
@@ -131,25 +130,18 @@ became a righteous people. The Church was established among them.
 Ponder these points as you feel the influence of Ammon's teachings, his
 ministry and great example:
 
-  1. The desire of his heart was to bring people to God.
-
-  2. He was always a servant, a minister. He was out among the people.
-
-  3. He prepared himself by fasting, studying the scriptures, and prayer.
-
-  4. He went forth believing he could make a difference with the help of God.
-
-  5. He anxiously looked for every possible opportunity to serve.
-
-  6. He kept all of the commandments.
-
-  7. As a result of doing all of these things, he taught with power and authority and established the Church of God.
+  1. The desire of his heart was to bring people to God. 
+  2. He was always a servant, a minister. He was out among the people. 
+  3. He prepared himself by fasting, studying the scriptures, and prayer. 
+  4. He went forth believing he could make a difference with the help of God. 
+  5. He anxiously looked for every possible opportunity to serve. 
+  6. He kept all of the commandments. 
+  7. As a result of doing all of these things, he taught with power and authority and established the Church of God. 
 
 The great promise to all of God's children who truly minister, serve, love,
 and teach the gospel is that one day they may sit at the right hand of the
 Savior and be received into His presence. May the Lord make us "able
-ministers" ([2 Cor.
-3:6](https://www.lds.org/scriptures/nt/2-cor/3.6?lang=eng#5)), as were Ammon
+ministers" ([2 Cor. 3:6](/scriptures/nt/2-cor/3.6?lang=eng#5)), as were Ammon
 and my friend. This should be the end result of every principle and truth we
 learn in the gospel. This is truly the gospel in action.
 
@@ -159,4 +151,6 @@ help--our widows, our divorced, our nonmembers, our aged, our less active--to
 let them know of our concern, our love, and the love of God, until a happier
 people cannot be found upon the whole land, for "they taught and did minister
 one to another." In the name of Jesus Christ, amen.
+
+## References
 

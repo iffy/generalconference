@@ -4,13 +4,12 @@ What is truth? This poignant question was asked by the Roman ruler Pilate as
 the accused Savior was brought before him declaring, "For this cause came I
 into the world, that I should bear witness unto the truth. Every one that is
 of the truth heareth my voice." ([John
-18:37](https://www.lds.org/scriptures/nt/john/18.37?lang=eng#36).) In modern-
-day revelation, He declared, "Truth is knowledge of things as they are, and as
-they were, and as they are to come;
+18:37](/scriptures/nt/john/18.37?lang=eng#36).) In modern-day revelation, He
+declared, "Truth is knowledge of things as they are, and as they were, and as
+they are to come;
 
 "And whatsoever is more or less than this is the spirit of that wicked one who
-was a liar from the beginning." ([D&amp;C
-93:24-25](https://www.lds.org/scriptures/dc-
+was a liar from the beginning." ([D&amp;C 93:24-25](/scriptures/dc-
 testament/dc/93.24-25?lang=eng#23).)
 
 How can we know the truth? The early members of the Church brought with them
@@ -24,9 +23,8 @@ receive by the Spirit.
 "And again, he that receiveth the word of truth, doth he receive it by the
 Spirit of truth or some other way?
 
-"If it be some other way it is not of God." ([D&amp;C
-50:19-20](https://www.lds.org/scriptures/dc-
-testament/dc/50.19-20?lang=eng#18).)
+"If it be some other way it is not of God." ([D&amp;C 50:19-20](/scriptures
+/dc-testament/dc/50.19-20?lang=eng#18).)
 
 If we do not receive the truth by His spirit, it is not His word. In a latter-
 day revelation the Lord speaks very strongly about those who get on the wrong
@@ -36,8 +34,7 @@ side of the question:
 he stirreth them up to iniquity against that which is good; ...
 
 "And they love darkness rather than light, ... therefore they will not ask of
-me." ([D&amp;C 10:20-21](https://www.lds.org/scriptures/dc-
-testament/dc/10.20-21?lang=eng#19).)
+me." ([D&amp;C 10:20-21](/scriptures/dc-testament/dc/10.20-21?lang=eng#19).)
 
 A few months ago, a friend came to our home under the pretext that he had some
 questions about the Church he needed help in answering. He said he had
@@ -56,45 +53,43 @@ Redeemer, going before them, leading them by day and giving light unto them by
 night, and doing all things for them which were expedient for man to receive,
 they hardened their hearts and blinded their minds, and reviled against Moses
 and against the true and living God." ([1 Ne.
-17:30](https://www.lds.org/scriptures/bofm/1-ne/17.30?lang=eng#29).)
+17:30](/scriptures/bofm/1-ne/17.30?lang=eng#29).)
 
 The promise of the Lord with regard to his word and his works is very
 explicit: "If any man will do his will, he shall know of the doctrine, whether
-it be of God." ([John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).) This was His
-constant rejoinder to those who rejected Him.
+it be of God." ([John 7:17](/scriptures/nt/john/7.17?lang=eng#16).) This was
+His constant rejoinder to those who rejected Him.
 
 He told the Pharisees and the Sadducees they were looking in the right places
 with the wrong objectives in mind when He said, "Search the scriptures; for in
 them ye think ye have eternal life: and they are they which testify of me."
-([John 5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).) They
-had obviously made a very careful study of the word that testified of Him and
-failed to find Him. Their foregone conclusions had not allowed the Spirit to
-guide them.
+([John 5:39](/scriptures/nt/john/5.39?lang=eng#38).) They had obviously made a
+very careful study of the word that testified of Him and failed to find Him.
+Their foregone conclusions had not allowed the Spirit to guide them.
 
 The same conditions exist today: we must ask the right questions; we must seek
 in the right places and knock on the right doors. That sometimes is very
 difficult to do. Nicodemus had to come to the Savior by night because his
 position in the community and in his church would have been seriously
 threatened had his contemporaries known of his inquiry in the right place.
-(See [John 3:1-21](https://www.lds.org/scriptures/nt/john/3.1-21?lang=eng#0).)
+(See [John 3:1-21](/scriptures/nt/john/3.1-21?lang=eng#0).)
 
 King Lamoni asked the right questions of Ammon when he said, "Who are you? How
 do you know these things? Where is God? Are you sent from him?" Then Ammon
 explained the plan of salvation to him, and he was able to understand because
 he opened his mind to knowledge and his heart to the Spirit. (See [Alma
-18:18-40](https://www.lds.org/scriptures/bofm/alma/18.18-40?lang=eng#17).)
+18:18-40](/scriptures/bofm/alma/18.18-40?lang=eng#17).)
 
 The prophet Alma, in his great discourse to the Zoramites, said, "But behold,
 if ye will awake and arouse your faculties, even to an experiment upon my
 words, and exercise a particle of faith, yea, even if ye can no more than
 desire to believe, let this desire work in you, even until ye believe in a
 manner that ye can give place for a portion of my words." ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26).) He
-explained to them that we open the door to receive by the Spirit with just a
-desire to believe. We must want to know the truth; we manifest that desire by
-asking, seeking, and knocking; the explicit promise is that He will answer,
-open, and help us find the truth.
+32:27](/scriptures/bofm/alma/32.27?lang=eng#26).) He explained to them that we
+open the door to receive by the Spirit with just a desire to believe. We must
+want to know the truth; we manifest that desire by asking, seeking, and
+knocking; the explicit promise is that He will answer, open, and help us find
+the truth.
 
 We must prepare our hearts and our minds with a sincere desire to know the
 truth. King Benjamin taught, "My brethren, all ye that have assembled
@@ -103,21 +98,19 @@ this day; for I have _not_ commanded you to come up hither to trifle with the
 words which I shall speak, but that you should hearken unto me, and open your
 ears that ye may hear, and your hearts that ye may understand, and your minds
 that the mysteries of God may be unfolded to your view." ([Mosiah
-2:9](https://www.lds.org/scriptures/bofm/mosiah/2.9?lang=eng#8); italics
-added.)
+2:9](/scriptures/bofm/mosiah/2.9?lang=eng#8); italics added.)
 
 On the day of Pentecost, when Peter and John obviously were speaking with
 great power and by the Spirit, the men were pricked in their hearts and asked
 the question, "Men and brethren, what shall we do?" ([Acts
-2:37](https://www.lds.org/scriptures/nt/acts/2.37?lang=eng#36).) In order to
-receive the truth, we must do the same. That is our responsibility--to ask and
-to seek.
+2:37](/scriptures/nt/acts/2.37?lang=eng#36).) In order to receive the truth,
+we must do the same. That is our responsibility--to ask and to seek.
 
 As we seek for the truth, we should always bear in mind the counsel of Mormon
 when he explained, "Wherefore, all things which are good cometh of God; and
 that which is evil cometh of the devil." ([Moro.
-7:12](https://www.lds.org/scriptures/bofm/moro/7.12?lang=eng#11).) He then
-counseled us to be very careful in choosing and gave us the way to decide:
+7:12](/scriptures/bofm/moro/7.12?lang=eng#11).) He then counseled us to be
+very careful in choosing and gave us the way to decide:
 
 "For behold, my brethren, it is given unto you to judge, that ye may know good
 from evil; and the way to judge is as plain, that ye may know with a perfect
@@ -127,8 +120,7 @@ knowledge, as the daylight is from the dark night.
 from evil; wherefore, I show unto you the way to judge; for every thing which
 inviteth to do good, and to persuade to believe in Christ, is sent forth by
 the power and gift of Christ; wherefore ye may know with a perfect knowledge
-it is of God." ([Moro.
-7:15-16](https://www.lds.org/scriptures/bofm/moro/7.15-16?lang=eng#14).)
+it is of God." ([Moro. 7:15-16](/scriptures/bofm/moro/7.15-16?lang=eng#14).)
 
 What a blessing it is for us that the Prophet Joseph Smith asked the right
 questions in the right places for the right reason. As he and Sidney Rigdon
@@ -144,8 +136,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 Yes, for me it is as clear as the night from the day. Their witness of the
 Savior is true. I have heard His voice as I have read His word in the sacred
@@ -154,4 +145,6 @@ light and knowledge granted to our latter-day prophets. I add my witness to
 theirs: He lives; I know He lives. This is His church. May we all look in the
 right places and ask the right questions and thus be taught by His Spirit to
 know the truth, I pray in the name of Jesus Christ, amen.
+
+## References
 

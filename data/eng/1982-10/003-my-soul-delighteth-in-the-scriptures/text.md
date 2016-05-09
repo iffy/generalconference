@@ -6,7 +6,7 @@ words: "My soul delighteth in the scriptures, and my heart pondereth them, and
 writeth them for the learning and the profit of my children.
 
 "Behold, my soul delighteth in the things of the Lord." ([2 Ne.
-4:15-16](https://www.lds.org/scriptures/bofm/2-ne/4.15-16?lang=eng#14).)
+4:15-16](/scriptures/bofm/2-ne/4.15-16?lang=eng#14).)
 
 These words have special meaning to me. I grew up in a small Mormon community.
 I was raised in a fine Latter-day Saint home. I was taught to love the Lord,
@@ -130,16 +130,15 @@ miracle that it has survived at all! Surely the Lord has preserved it for the
 salvation of his children.
 
 Laban's life was taken by divine command that the Nephite nation not "dwindle
-... in unbelief." (See [1 Ne.
-4:13](https://www.lds.org/scriptures/bofm/1-ne/4.13?lang=eng#12).) Think of
-the travail of the Nephite prophets who kept the records of their people so
-future generations might profit from their experiences. Think of the millions
-of people who have lived at a time when there was no printing or translating
-capability or who, because of political oppression or illiteracy, have been
-denied access to the scriptures. Think about the blessings of living in this
-dispensation, when the holy scriptures are available to us. In 1981, the
-United Bible Societies distributed 444,000,000 complete copies or portions of
-the Bible throughout the world. By the end of 1982, the Book of Mormon or
+... in unbelief." (See [1 Ne. 4:13](/scriptures/bofm/1-ne/4.13?lang=eng#12).)
+Think of the travail of the Nephite prophets who kept the records of their
+people so future generations might profit from their experiences. Think of the
+millions of people who have lived at a time when there was no printing or
+translating capability or who, because of political oppression or illiteracy,
+have been denied access to the scriptures. Think about the blessings of living
+in this dispensation, when the holy scriptures are available to us. In 1981,
+the United Bible Societies distributed 444,000,000 complete copies or portions
+of the Bible throughout the world. By the end of 1982, the Book of Mormon or
 selected portions will be available in fifty-seven languages.
 
 We are the beneficiaries of great sacrifice. What excuse do we have for not
@@ -167,8 +166,8 @@ appear unto many and did minister unto them?
 
 "Now ... when Jesus had expounded all the scriptures in one, which they had
 written, he commanded them that they should teach the things which he had
-expounded unto them." ([3 Ne. 23:1, 4-6, 11-14](https://www.lds.org/scriptures
-/bofm/3-ne/23.1%2C4-6%2C11-14?lang=eng#0).)
+expounded unto them." ([3 Ne. 23:1, 4-6,
+11-14](/scriptures/bofm/3-ne/23.1,4-6,11-14?lang=eng#0).)
 
 I concur with the strong counsel of President Romney, given to a group of
 seminary and institute coordinators in 1973. He told them, and I quote: "I
@@ -207,4 +206,6 @@ pp. 11-12.)
 To this I add my witness. The holy scriptures are the word of God. If we are
 to know God, we must read His words, for therein He stands revealed to the
 honest in heart. I so testify in the name of Jesus Christ, amen.
+
+## References
 

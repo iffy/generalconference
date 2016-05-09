@@ -41,8 +41,7 @@ woods to pray. He had read, "If any of you lack wisdom, let him ask of God,
 that giveth to all men liberally, ... and it shall be given." If _any of you_
 lack wisdom, ask of God and you will receive your answer. Pray with faith, not
 wavering. "For he that wavereth is like a wave of the sea driven with the wind
-and tossed." ([James
-1:6](https://www.lds.org/scriptures/nt/james/1.6?lang=eng#5).)
+and tossed." ([James 1:6](/scriptures/nt/james/1.6?lang=eng#5).)
 
 God the Father and his Son, Jesus Christ, appeared to Joseph--actually
 appeared to him--and told him they had a work for him to do. He had talked to
@@ -58,4 +57,6 @@ act accordingly and be an example to people in the world. This is the Church
 of Jesus Christ; and he will hear all who ask, to help them understand who
 they are and why they are here. This is my prayer in the name of Jesus Christ,
 amen.
+
+## References
 

@@ -84,9 +84,9 @@ human soul is in God's eternal plan. When we understand the importance of each
 soul, we can go before him confidently in prayer to seek his guidance and
 direction in our sacred assignment as parents. He said, "This is my work and
 my glory--to bring to pass the immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). This seems
-to me to best sum up the important role that mortal parents have in the great
-eternal plan of life for each member of our families.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). This seems to me to best sum
+up the important role that mortal parents have in the great eternal plan of
+life for each member of our families.
 
 I believe that most mortal bodies grow to physical maturity with a relatively
 simple effort on the part of parents. When we see that our children receive
@@ -117,18 +117,18 @@ I have noticed that the spirit of man is not like the body as it grows older,
 but rather is just the opposite. If the spirit of man is properly cared for,
 rather than becoming slower to move and less capable, as the body does, the
 spirit becomes more confident and waxes strong in the presence of God. (See
-[D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44).) Through the eyes of the strong in spirit we
-can feel their power and strength. Those of us who are blessed to know the
-First Presidency and the members of the Council of the Twelve can witness that
-the age of their physical bodies has no relationship to the capacity of their
-spirits. I testify that when you clasp the hand of one of these brethren you
-feel the power and the strength of the spirit that is within them, and you
-realize that through years of obedient living of the gospel they have
-developed their spirits to such a degree that they now can strengthen the
-entire Church. I know that thousands of our Saints have learned that spiritual
-growth is the most important part of life. How blessed are children who are
-raised by parents that understand and teach this to them.
+[D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44).) Through the
+eyes of the strong in spirit we can feel their power and strength. Those of us
+who are blessed to know the First Presidency and the members of the Council of
+the Twelve can witness that the age of their physical bodies has no
+relationship to the capacity of their spirits. I testify that when you clasp
+the hand of one of these brethren you feel the power and the strength of the
+spirit that is within them, and you realize that through years of obedient
+living of the gospel they have developed their spirits to such a degree that
+they now can strengthen the entire Church. I know that thousands of our Saints
+have learned that spiritual growth is the most important part of life. How
+blessed are children who are raised by parents that understand and teach this
+to them.
 
 My message, then, is this. We must carefully and conscientiously provide solid
 spiritual training for the eternal growth of our children. Thoughtful planning
@@ -150,12 +150,14 @@ It is beautiful to know that if we can build upon a solid spiritual foundation
 --if we can repent of our sins and grow in wisdom, knowledge, and
 understanding--we can enjoy dwelling in the presence of our Heavenly Father
 and his Beloved Son, Jesus Christ, forever and ever. This is eternal life, the
-greatest of all the gifts of God (see [D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6)).
+greatest of all the gifts of God (see [D&amp;C 14:7](/scriptures/dc-
+testament/dc/14.7?lang=eng#6)).
 
 I know God lives and that all men are his children. I testify that Jesus is
 the Christ and if all men will seek to know the truth and follow his example
 we will be able to live up to the spiritual expectations of our Heavenly
 Father. May we be blessed so to do, I pray in the name of the Lord Jesus
 Christ. Amen.
+
+## References
 

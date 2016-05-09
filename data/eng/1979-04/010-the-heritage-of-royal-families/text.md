@@ -18,8 +18,7 @@ were his legs, a little above the ankles. His head and neck were also bare. ...
 beyond description, and his countenance [was] truly like lightning. The room
 was exceedingly light, but not so very bright as immediately around his
 person. When I first looked upon him, I was afraid; but the fear soon left
-me." [[JS--H
-1:30-32](https://www.lds.org/scriptures/pgp/js-h/1.30-32?lang=eng#29)]
+me." [[JS--H 1:30-32](/scriptures/pgp/js-h/1.30-32?lang=eng#29)]
 
 In the conversation that ensued, Moroni instructed Joseph Smith regarding
 valuable records he had deposited in the earth fourteen centuries before.
@@ -32,7 +31,7 @@ prophet, before the coming of the great and dreadful day of the Lord.
 "... And he shall plant in the hearts of the children the promises made to the
 fathers, and the hearts of the children shall turn to their fathers. If it
 were not so, the whole earth would be utterly wasted at his coming." [[JS--H
-1:38-39](https://www.lds.org/scriptures/pgp/js-h/1.38-39?lang=eng#37)]
+1:38-39](/scriptures/pgp/js-h/1.38-39?lang=eng#37)]
 
 How could the gravity of this important message be more dramatically
 emphasized? We should not dismiss it lightly. It places upon our shoulders a
@@ -41,11 +40,10 @@ sacred responsibility.
 On 3 April 1836, Joseph Smith and Oliver Cowdery had a most glorious
 manifestation in the Kirtland Temple. The resurrected Christ appeared before
 them. Joseph Smith's description of the Savior on that occasion is one of the
-most precious of our scriptures (see [D&amp;C
-110:2-3](https://www.lds.org/scriptures/dc-testament/dc/110.2-3?lang=eng#1)).
-Then Moses appeared and committed to them the keys of the gathering of Israel;
-then Elias, who committed the dispensation of the gospel; and finally, the
-prophet Elijah, who announced:
+most precious of our scriptures (see [D&amp;C 110:2-3](/scriptures/dc-
+testament/dc/110.2-3?lang=eng#1)). Then Moses appeared and committed to them
+the keys of the gathering of Israel; then Elias, who committed the
+dispensation of the gospel; and finally, the prophet Elijah, who announced:
 
 "The time has fully come, which was spoken of by the mouth of Malachi--
 testifying that he [Elijah] should be sent, before the great and dreadful day
@@ -53,8 +51,7 @@ of the Lord come--
 
 "To turn the hearts of the fathers to the children, and the children to the
 fathers, lest the whole earth be smitten with a curse" ([D&amp;C
-110:14-15](https://www.lds.org/scriptures/dc-
-testament/dc/110.14-15?lang=eng#13)).
+110:14-15](/scriptures/dc-testament/dc/110.14-15?lang=eng#13)).
 
 What glorious experiences these must have been as those of ancient days
 appeared and committed the keys necessary to accomplish the work of salvation
@@ -72,7 +69,7 @@ work only for those who died beyond ninety-five years ago, except at the
 initiation of family members.
 
 We estimate that there are available written records existing of the names and
-vital statistics of about 6 billion persons who died before A.D. 1900\. Nearly
+vital statistics of about 6 billion persons who died before A.D. 1900. Nearly
 all of those names are for people who lived between A.D. 1200 and 1900. Of
 these, we have microfilmed the records of about 1 billion and have completed
 the temple work for about 57 million. We estimate that there are 2.5 billion
@@ -114,16 +111,10 @@ effort to enable us to accomplish even more.
 Members have inquired as to what their role is _now_ in fulfilling this charge
 given to us by the Lord through his prophets. Our answer is--
 
-  1. Complete your four-generation family group records and pedigree chart. Compare your records with those of your brothers and sisters to confirm accuracy. Then, just one of you forward one set of sheets, listing all brothers and sisters on the first line, to the Genealogical Department commencing 1 July 1979, and concluding 1 July 1981.
-
-  2. Perform temple ordinances regularly.
-
-  3. Participate in your stake name extraction program when invited to do so.
-
-Now, there is one more to which we must give more attention than we have in
-the past:
-
-  4. Write personal and family histories.
+  1. Complete your four-generation family group records and pedigree chart. Compare your records with those of your brothers and sisters to confirm accuracy. Then, just one of you forward one set of sheets, listing all brothers and sisters on the first line, to the Genealogical Department commencing 1 July 1979, and concluding 1 July 1981. 
+  2. Perform temple ordinances regularly. 
+  3. Participate in your stake name extraction program when invited to do so. Now, there is one more to which we must give more attention than we have in the past: 
+  4. Write personal and family histories. 
 
 The televising of the film series "Roots," and more recently "Roots II," has
 stirred an interest in personal and family histories that the experts believe
@@ -138,26 +129,25 @@ authority to be such--received from one who has a right to bestow such an
 honor. You likely have a person holding such a dignified honor right in your
 own home. The Apostle Peter, addressing the Saints of his day, said, "Ye are a
 chosen generation, a royal priesthood, an holy nation, a peculiar people" ([1
-Pet. 2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)). Don't you
-have this same royal priesthood in your home?
+Pet. 2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)). Don't you have this same
+royal priesthood in your home?
 
 A royal family is a family whose members are honest, true, chaste, benevolent,
 virtuous, temperate, patient, charitable, humble, diligent, well read, and
 law-abiding. The Lord has cautioned, "But I have commanded you to bring up
-your children in light and truth" ([D&amp;C
-93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39)). He
-also instructed us, "And they shall ... teach their children to pray, and to
-walk uprightly before the Lord" ([D&amp;C
-68:28](https://www.lds.org/scriptures/dc-testament/dc/68.28?lang=eng#27)). He
-further said, "Seek ye out of the best books words of wisdom; seek learning,
-even by study and also by faith" ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117)).
+your children in light and truth" ([D&amp;C 93:40](/scriptures/dc-
+testament/dc/93.40?lang=eng#39)). He also instructed us, "And they shall ...
+teach their children to pray, and to walk uprightly before the Lord" ([D&amp;C
+68:28](/scriptures/dc-testament/dc/68.28?lang=eng#27)). He further said, "Seek
+ye out of the best books words of wisdom; seek learning, even by study and
+also by faith" ([D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117)).
 
 A royal family is a family of well-disciplined parents and children who
 control their appetites. The Lord promises those who do so, "And all saints
 who remember to keep and do these sayings, walking in obedience to the
 commandments, ... shall find wisdom and great treasures of knowledge, even
-hidden treasures" ([D&amp;C 89:18-19](https://www.lds.org/scriptures/dc-
+hidden treasures" ([D&amp;C 89:18-19](/scriptures/dc-
 testament/dc/89.18-19?lang=eng#17)).
 
 A royal family is a family that is exemplary. They set a pattern for other
@@ -170,7 +160,7 @@ candlestick; and it giveth light unto all that are in the house.
 
 "Let your light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven." ([Matt.
-5:14-16](https://www.lds.org/scriptures/nt/matt/5.14-16?lang=eng#13).)
+5:14-16](/scriptures/nt/matt/5.14-16?lang=eng#13).)
 
 A royal family is a family that has a heritage. Many of our Church families
 have a pioneer heritage. There are many other kinds of heritages inherited by
@@ -200,4 +190,6 @@ this enrichment into your family to be perpetuated for generations to come,
 that we, indeed, may be a chosen people, a royal priesthood--yes, a royal
 family in the kingdom of God--so that the world will not be wasted at his
 coming, I pray. In the name of Jesus Christ, amen.
+
+## References
 

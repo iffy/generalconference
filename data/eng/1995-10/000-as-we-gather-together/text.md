@@ -13,7 +13,7 @@ years the speakers have come on the stage and then moved on. The personalities
 are different. But the spirit is the same. It is that spirit referred to when
 the Lord said, "He that preacheth and he that receiveth, understand one
 another, and both are edified and rejoice together" ([D&amp;C
-50:22](https://www.lds.org/scriptures/dc-testament/dc/50.22?lang=eng#21)).
+50:22](/scriptures/dc-testament/dc/50.22?lang=eng#21)).
 
 This great Tabernacle seems to grow smaller each year. We now meet with far
 larger groups gathered under a single roof in some regional conferences. For
@@ -42,7 +42,7 @@ services of these dedicated men and women who give so freely of their time and
 talents to this work of translation.
 
 The little stone which was cut out of the mountain without hands is rolling
-forth to fill the earth (see [D&amp;C 65:2](https://www.lds.org/scriptures/dc-
+forth to fill the earth (see [D&amp;C 65:2](/scriptures/dc-
 testament/dc/65.2?lang=eng#1)). What a wonderful thing it is to be part of
 this growing kingdom of our Lord. There are no political boundaries separating
 the hearts of the children of God regardless of where they may live. We are
@@ -64,4 +64,6 @@ I invoke the blessings of the Lord upon all who will speak, upon all who will
 sing, upon all who will offer prayers, and in a very particular way, with
 great love and appreciation in my heart, upon all who will listen by the voice
 of the Spirit, in the name of Jesus Christ, amen.
+
+## References
 

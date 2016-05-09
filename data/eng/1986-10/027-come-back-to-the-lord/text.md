@@ -16,8 +16,7 @@ the stories of Saul or Alma may come to mind. Some may be waiting for a
 similar miraculous experience before committing themselves again. However,
 they will probably wait in vain. For, as the Savior taught his disciples, "if
 they hear not Moses and the prophets, neither will they be persuaded, though
-one rose from the dead" ([Luke
-16:31](https://www.lds.org/scriptures/nt/luke/16.31?lang=eng#30)).
+one rose from the dead" ([Luke 16:31](/scriptures/nt/luke/16.31?lang=eng#30)).
 
 Without some such incentive to change, others may wonder if it is possible to
 return to faith from doubt. Can the cynic ever really become as a little
@@ -105,18 +104,17 @@ Finally, before it was too late, they talked to the bishop, repentance took
 place, old attitudes and habits were forgotten, and they came back.
 
 Another who came back was Aminadab (see [Hel.
-5](https://www.lds.org/scriptures/bofm/hel/5.title?lang=eng)). He had once
-belonged to the church of God, but he became critical and contentious. He
-evidently sympathized with the opposition, because he was present when two
-young missionaries named Nephi and Lehi were taken captive by an army of
-Lamanites.
+5](/scriptures/bofm/hel/5?lang=eng)). He had once belonged to the church of
+God, but he became critical and contentious. He evidently sympathized with the
+opposition, because he was present when two young missionaries named Nephi and
+Lehi were taken captive by an army of Lamanites.
 
 A cloud of darkness came upon him, and he heard a still, mild voice whisper,
 "Repent ... and seek no more to destroy my servants" ([Hel.
-5:29-30](https://www.lds.org/scriptures/bofm/hel/5.29-30?lang=eng#28)).
-Surprised, he turned around and looked at Nephi and Lehi. Their faces shone
-through the darkness, and they appeared to be lifting their voices to heaven
-(see [Hel. 5:36](https://www.lds.org/scriptures/bofm/hel/5.36?lang=eng#35)).
+5:29-30](/scriptures/bofm/hel/5.29-30?lang=eng#28)). Surprised, he turned
+around and looked at Nephi and Lehi. Their faces shone through the darkness,
+and they appeared to be lifting their voices to heaven (see [Hel.
+5:36](/scriptures/bofm/hel/5.36?lang=eng#35)).
 
 Aminadab then recognized them for what they were. In a loud voice he told the
 Lamanites that the young men were servants of God. As the army turned to look,
@@ -126,8 +124,7 @@ another time, said:
 
 "You must repent, and cry unto the [Lord], even until ye shall have faith in
 Christ ... ; and when ye shall do this, the cloud of darkness shall be removed
-from overshadowing you" ([Hel.
-5:41](https://www.lds.org/scriptures/bofm/hel/5.41?lang=eng#40)).
+from overshadowing you" ([Hel. 5:41](/scriptures/bofm/hel/5.41?lang=eng#40)).
 
 Now notice again, the scripture speaks of darkness overshadowing those who
 have abandoned the faith. The effect of darkness is to prevent one from seeing
@@ -197,7 +194,7 @@ known before that the Lord is pleased when his children return to him.
 All who are shepherds and all lost sheep should note this one last thing. The
 Lord really meant it when he said, "He who has repented of his sins, the same
 is forgiven, and I, the Lord, remember them no more" ([D&amp;C
-58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41)).
+58:42](/scriptures/dc-testament/dc/58.42?lang=eng#41)).
 
 Some years ago it was fashionable in certain circles to use the phrase, "You
 can never go home again." That is just simply not true. It is possible to
@@ -208,4 +205,6 @@ home.
 And when they do, they will know, as I know, that the Lord is more concerned
 with what a man is than with what he was, and with where he is than with where
 he has been. I so testify in the name of Jesus Christ, amen.
+
+## References
 

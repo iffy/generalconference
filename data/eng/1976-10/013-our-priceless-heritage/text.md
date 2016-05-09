@@ -28,7 +28,7 @@ foresaw over 2,300 years ago that this event would transpire. The colonies he
 saw would break with Great Britain and that "the power of the Lord was with
 [the colonists]," that they "were delivered by the power of God out of the
 hands of all other nations." ([1 Ne. 13:16,
-19](https://www.lds.org/scriptures/bofm/1-ne/13.16%2C19?lang=eng#15).)
+19](/scriptures/bofm/1-ne/13.16,19?lang=eng#15).)
 
 The Declaration of Independence was to set forth the moral justification of a
 rebellion against a long-recognized political tradition--the divine right of
@@ -95,7 +95,7 @@ Other great stalwarts who also pledged lives, possessions, and their sacred
 honor were the Mormon pioneers. This they did by covenant before God when they
 came to membership in His kingdom, "to stand as witnesses of God at all times
 and in all things, and in all places ... even unto death." ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).)
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).)
 
 Our Mormon forebears covenanted their lives!--and not a few gave them. The
 following places hallow the memory of the latter-day martyrs: Jackson County;
@@ -105,15 +105,14 @@ fortunes!--and many, if not most, lost their lands, homes, and businesses.
 They gave their sacred honor!--this by covenant to God.
 
 They came west with the faith that God had "set his hand again the second
-time" ([2 Ne.
-21:11](https://www.lds.org/scriptures/bofm/2-ne/21.11?lang=eng#10)) to restore
-the house of Israel. They knew that they were a part of this great movement.
-They were converted to the truth that the Church of Jesus Christ had been
-restored again on the earth through the instrumentality of a latter-day
-Prophet, Joseph Smith, and that following his martyrdom, the keys of the
-priesthood had been continued through Joseph's ordained successor, Brigham
-Young. They believed themselves to be God-directed and prophet-led. Their
-conviction inspired their sacrifices.
+time" ([2 Ne. 21:11](/scriptures/bofm/2-ne/21.11?lang=eng#10)) to restore the
+house of Israel. They knew that they were a part of this great movement. They
+were converted to the truth that the Church of Jesus Christ had been restored
+again on the earth through the instrumentality of a latter-day Prophet, Joseph
+Smith, and that following his martyrdom, the keys of the priesthood had been
+continued through Joseph's ordained successor, Brigham Young. They believed
+themselves to be God-directed and prophet-led. Their conviction inspired their
+sacrifices.
 
 They came--with indomitable faith and courage, following incredible suffering
 and adversity. They came--with stamina, with inspired confidence for better
@@ -252,4 +251,6 @@ perpetuating this noble heritage, I stand today with bowed head and heart
 overflowing with gratitude. May we begin to repay this debt by preserving and
 strengthening this heritage in our own lives, in the lives of our children,
 their children, and generations yet unborn. In the name of Jesus Christ. Amen.
+
+## References
 

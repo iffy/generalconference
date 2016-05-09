@@ -3,7 +3,7 @@
 When King David was pleading for mercy in the fifty-seventh Psalm, he cried:
 "My soul is among lions: and I lie even among them that are set on fire, even
 the sons of men, whose teeth are spears and arrows, and their tongue a sharp
-sword." ([Ps. 57:4](https://www.lds.org/scriptures/ot/ps/57.4?lang=eng#3).)
+sword." ([Ps. 57:4](/scriptures/ot/ps/57.4?lang=eng#3).)
 
 In the world today we are victims of many who use their tongues as sharp
 swords. The misuse of our tongues seems to add intrigue and destruction as the
@@ -21,9 +21,8 @@ ill" are more than a phrase in a musical context but a recommended way of
 life. (See _Hymns, _no. 233.) We need to be reminded more than ever before
 that "if there is anything virtuous, lovely, or of good report or
 praiseworthy, we seek after these things." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).) If we
-follow that admonition, there is no time for the dastardly hobby of bashing
-instead of building.
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).) If we follow that admonition,
+there is no time for the dastardly hobby of bashing instead of building.
 
 Some think the only way to get even, to get attention or advantage, or to win
 is to bash people. This kind of behavior is never appropriate. Oftentimes
@@ -37,11 +36,10 @@ to where we now too often find ourselves involved in the bash business.
 Even though reports and rumors pertaining to misconduct and misbehavior are
 readily available and can make good ammunition for those who would injure,
 bash, or damage, the Savior reminds us that he who is without sin may cast the
-first stone. (See [John
-8:7](https://www.lds.org/scriptures/nt/john/8.7?lang=eng#6).) Ugly reports and
-conversations are always available to those who would promote the sordid and
-sensational. None of us are yet perfect. We each have failings that aren't
-terribly difficult to detect--especially if that is the aim. Through
+first stone. (See [John 8:7](/scriptures/nt/john/8.7?lang=eng#6).) Ugly
+reports and conversations are always available to those who would promote the
+sordid and sensational. None of us are yet perfect. We each have failings that
+aren't terribly difficult to detect--especially if that is the aim. Through
 microscopic examination one can find in almost every life incidents or traits
 that can be destructive when they are magnified.
 
@@ -75,7 +73,7 @@ charity never faileth. Wherefore, cleave unto charity, which is the greatest
 of all. ...
 
 "Charity is the pure love of Christ, and it endureth forever." ([Moro.
-7:46-47](https://www.lds.org/scriptures/bofm/moro/7.46-47?lang=eng#45).)
+7:46-47](/scriptures/bofm/moro/7.46-47?lang=eng#45).)
 
 _Charity _is, perhaps, in many ways a misunderstood word. We often equate
 charity with visiting the sick, taking in casseroles to those in need, or
@@ -113,12 +111,12 @@ where all anger, malice, greed, and hate come.
 
 Nephi prophesied that in the last days the devil would "rage in the hearts of
 the children of men, and stir them up to anger against that which is good."
-([2 Ne. 28:20](https://www.lds.org/scriptures/bofm/2-ne/28.20?lang=eng#19).)
-By the looks of what we constantly see depicted in the news media, it appears
-that Satan is doing a pretty good job. In the name of reporting the news, we
-are besieged with sometimes graphic depictions--too often in living color--of
-greed, extortion, violent sexual crimes, and insults between business,
-athletic, or political opponents.
+([2 Ne. 28:20](/scriptures/bofm/2-ne/28.20?lang=eng#19).) By the looks of what
+we constantly see depicted in the news media, it appears that Satan is doing a
+pretty good job. In the name of reporting the news, we are besieged with
+sometimes graphic depictions--too often in living color--of greed, extortion,
+violent sexual crimes, and insults between business, athletic, or political
+opponents.
 
 Throughout the scriptures a common thread seems to emerge. Let's consider
 first the Sermon on the Mount, which to our knowledge was the first sermon
@@ -128,16 +126,14 @@ Him, seems to center around the virtues of love, compassion, forgiveness, and
 long-suffering--in other words, those qualities that enable us to deal with
 our fellowmen more compassionately. Let's look specifically at the Savior's
 message to the Twelve. They (and we) were admonished to "be reconciled to
-[our] brother" ([Matt.
-5:24](https://www.lds.org/scriptures/nt/matt/5.24?lang=eng#23)), to "agree
+[our] brother" ([Matt. 5:24](/scriptures/nt/matt/5.24?lang=eng#23)), to "agree
 with [our] adversary quickly" ([Matt.
-5:25](https://www.lds.org/scriptures/nt/matt/5.25?lang=eng#24)), to "love
-[our] enemies, [to] bless them that curse [us], [to] do good to them that hate
-[us], and [to] pray for them which despitefully use [us], and persecute [us]."
-([Matt. 5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43).) We
-are told, "Whosoever shall smite thee on thy right cheek, turn to him the
-other also." ([Matt.
-5:39](https://www.lds.org/scriptures/nt/matt/5.39?lang=eng#38).)
+5:25](/scriptures/nt/matt/5.25?lang=eng#24)), to "love [our] enemies, [to]
+bless them that curse [us], [to] do good to them that hate [us], and [to] pray
+for them which despitefully use [us], and persecute [us]." ([Matt.
+5:44](/scriptures/nt/matt/5.44?lang=eng#43).) We are told, "Whosoever shall
+smite thee on thy right cheek, turn to him the other also." ([Matt.
+5:39](/scriptures/nt/matt/5.39?lang=eng#38).)
 
 It seems interesting that the first principles the Lord Jesus Christ chose to
 teach His newly called Apostles were those that center around the way we treat
@@ -212,7 +208,7 @@ great a matter a little fire kindleth!
 "And the tongue is a fire, a world of iniquity: so is the tongue among our
 members, that it defileth the whole body, and setteth on fire the course of
 nature; and it is set on fire of hell." ([James
-3:5-6](https://www.lds.org/scriptures/nt/james/3.5-6?lang=eng#4).)
+3:5-6](/scriptures/nt/james/3.5-6?lang=eng#4).)
 
 Once again may I emphasize the principle that when we truly become converted
 to Jesus Christ, committed to Him, an interesting thing happens: our attention
@@ -227,10 +223,11 @@ quiet messages of love and encouragement instead of being destructive with
 bashing.
 
 Again James reminds us, "The fruit of righteousness is sown in peace of them
-that make peace." ([James
-3:18](https://www.lds.org/scriptures/nt/james/3.18?lang=eng#17).)
+that make peace." ([James 3:18](/scriptures/nt/james/3.18?lang=eng#17).)
 
 May God help us individually and collectively to know and teach that bashing
 should be replaced with charity today and always, I pray in the name of Jesus
 Christ, amen.
+
+## References
 

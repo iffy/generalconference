@@ -66,10 +66,9 @@ enjoys the loyalty of its membership and the interest and respect of others.
 
 It was ever thus. The Savior did not equivocate when he said to Nicodemus:
 "Except a man be born of the water and of the Spirit, he cannot enter into the
-kingdom of God." ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4).) There were no
-exceptions. There was no permissiveness in complying with the rule. It was so
-in other matters of which he spoke.
+kingdom of God." ([John 3:5](/scriptures/nt/john/3.5?lang=eng#4).) There were
+no exceptions. There was no permissiveness in complying with the rule. It was
+so in other matters of which he spoke.
 
 Paul never hedged nor quibbled when setting forth the requirements of the
 gospel of Jesus Christ. It is so today. The Lord himself declared that "strait
@@ -114,7 +113,7 @@ people, in the individual testimony and conviction of the truth of this work.
 When an individual has that witness and testimony, the requirements of the
 Church become challenges rather than burdens. Declared the Savior: "... my yoke
 is easy, and my burden is light." ([Matt.
-11:30](https://www.lds.org/scriptures/nt/matt/11.30?lang=eng#29).)
+11:30](/scriptures/nt/matt/11.30?lang=eng#29).)
 
 The yoke of Church responsibility, the burden of Church leadership become
 opportunities rather than problems to him who wears the mantle of dedicated
@@ -161,21 +160,20 @@ opportunities.
 
 Said the Lord: "Behold, I stand at the door and knock: if any man hear my
 voice, and open the door, I will come in to him, and will sup with him, and he
-with me." ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).)
+with me." ([Rev. 3:20](/scriptures/nt/rev/3.20?lang=eng#19).)
 
 Jesus, speaking to the Jews in the temple, said: "My doctrine is not mine, but
 his that sent me.
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself." ([John
-7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15).)
+7:16-17](/scriptures/nt/john/7.16-17?lang=eng#15).)
 
 This is the wonder of this work, that every man may know for himself. He is
 not dependent on the teacher or the preacher or the missionary, except as they
 might instruct and bear witness. As Job declared long ago: "... there is a
 spirit in man: and the inspiration of the Almighty giveth them understanding."
-([Job 32:8](https://www.lds.org/scriptures/ot/job/32.8?lang=eng#7).)
+([Job 32:8](/scriptures/ot/job/32.8?lang=eng#7).)
 
 Each man may know for himself that it is true through the gift of the Holy
 Spirit, and with as certain an assurance as that the sun will rise in the
@@ -185,8 +183,8 @@ of his great responsibility to his fellowmen, of his responsibility to his
 family, of his responsibility to God.
 
 "Learn of me," said the Lord, "and listen to my words; walk in the meekness of
-my Spirit, and you shall have peace in me." ([D&amp;C
-19:23](https://www.lds.org/scriptures/dc-testament/dc/19.23?lang=eng#22).)
+my Spirit, and you shall have peace in me." ([D&amp;C 19:23](/scriptures/dc-
+testament/dc/19.23?lang=eng#22).)
 
 This is "the peace that passeth all understanding," because it comes not of
 the mind, but of the Spirit, and "the things of God are understood by the
@@ -234,7 +232,7 @@ heaven.
 
 "And I also say unto thee, That thou art Peter, and upon this rock I will
 build my church; and the gates of hell shall not prevail against it." ([Matt.
-16:13-18](https://www.lds.org/scriptures/nt/matt/16.13-18?lang=eng#12).)
+16:13-18](/scriptures/nt/matt/16.13-18?lang=eng#12).)
 
 This rock of revelation is the source of knowledge concerning the things of
 God. It is the witness of the Holy Spirit that testifies of eternal truth, and
@@ -244,4 +242,6 @@ it, who cultivates it, and who lives by it.
 Of these sacred things I offer my solemn testimony and invoke the blessings of
 this knowledge upon all earnest seekers after truth, in the name of the author
 of truth, even the Lord Jesus Christ. Amen.
+
+## References
 

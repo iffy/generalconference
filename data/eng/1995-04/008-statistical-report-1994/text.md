@@ -64,3 +64,5 @@ member of the Presidency of the Seventy; _Weston Eugene Hamilton,_ member of
 the General Church Finance Committee; _Oakley S. Evans,_ former president of
 the Tabernacle Choir.
 
+## References
+

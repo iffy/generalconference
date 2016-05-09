@@ -4,7 +4,7 @@ My beloved brethren and sisters, I want to speak to you today about what I
 consider to be one of the greatest challenges of our times--the need to pursue
 "a more excellent way." It was the Apostle Paul who said, "But covet earnestly
 the best gifts: and yet shew I unto you a more excellent way." ([1 Cor.
-12:31](https://www.lds.org/scriptures/nt/1-cor/12.31?lang=eng#30).)
+12:31](/scriptures/nt/1-cor/12.31?lang=eng#30).)
 
 Why should we all seek to pursue "a more excellent way," and what does it
 mean? Finding "a more excellent way" means being totally converted to the
@@ -22,7 +22,7 @@ being redeemed of God, becoming his sons and daughters;
 
 "And thus they become new creatures; and unless they do this, they can in
 nowise inherit the kingdom of God." ([Mosiah
-27:24-26](https://www.lds.org/scriptures/bofm/mosiah/27.24-26?lang=eng#23).)
+27:24-26](/scriptures/bofm/mosiah/27.24-26?lang=eng#23).)
 
 Being converted to the gospel of Jesus Christ means to walk in a newness of
 life. It means learning to yield to the Spirit and responding to the things
@@ -42,12 +42,11 @@ Spirit, and putteth off the natural man and becometh a saint through the
 atonement of Christ the Lord, and becometh as a child, submissive, meek,
 humble, patient, full of love, willing to submit to all things which the Lord
 seeth fit to inflict upon him, even as a child doth submit to his father."
-([Mosiah 3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+([Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 It was the great Apostle Paul who said, "Therefore if any man be in Christ, he
 is a new creature: old things are passed away; behold, all things are become
-new." ([2 Cor.
-5:17](https://www.lds.org/scriptures/nt/2-cor/5.17?lang=eng#16).)
+new." ([2 Cor. 5:17](/scriptures/nt/2-cor/5.17?lang=eng#16).)
 
 To find that "more excellent way," brothers and sisters, we must cast aside
 our old selves and our old habits and ways of thinking. We must first
@@ -58,8 +57,7 @@ walking in a newness of life.
 The Apostle Paul also said, speaking of our relationship to the Lord,
 "Therefore we are buried with him by baptism into death: that like as Christ
 was raised up from the dead by the glory of the Father, even so we also should
-walk in newness of life." ([Rom.
-6:4](https://www.lds.org/scriptures/nt/rom/6.4?lang=eng#3).)
+walk in newness of life." ([Rom. 6:4](/scriptures/nt/rom/6.4?lang=eng#3).)
 
 Throughout the world I personally have witnessed man's great tendency to think
 of himself without consideration of others. I believe with all my heart that
@@ -116,4 +114,6 @@ companion, and now with a posterity who seem to have caught the same vision.
 
 May you have this experience, I pray humbly, in the name of Jesus Christ,
 amen.
+
+## References
 

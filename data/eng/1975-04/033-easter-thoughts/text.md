@@ -20,7 +20,7 @@ that slept.
 "For since by man came death, by man came also the resurrection of the dead.
 
 "For as in Adam all die, even so in Christ shall all be made alive." ([1 Cor.
-15:19-22](https://www.lds.org/scriptures/nt/1-cor/15.19-22?lang=eng#18).)
+15:19-22](/scriptures/nt/1-cor/15.19-22?lang=eng#18).)
 
 Let us begin our consideration of this great exposition with the phrase "since
 by man came death."
@@ -34,18 +34,17 @@ Job in his torment cried,
 thine heart upon him?
 
 "And that thou shouldest visit him every morning, and try him every moment?"
-([Job 7:17-18](https://www.lds.org/scriptures/ot/job/7.17-18?lang=eng#16).)
+([Job 7:17-18](/scriptures/ot/job/7.17-18?lang=eng#16).)
 
 And again, "What is man, that he should be clean? and he which is born of
 woman, that he should be righteous?" ([Job
-15:14](https://www.lds.org/scriptures/ot/job/15.14?lang=eng#13).)
+15:14](/scriptures/ot/job/15.14?lang=eng#13).)
 
 The psalmist echoed, "What is man, that thou art mindful of him? and the son
 of man, that thou visitest him?
 
 "For thou hast made him a little lower than the angels, and hast crowned him
-with glory and honour." ([Ps.
-8:4-5](https://www.lds.org/scriptures/ot/ps/8.4-5?lang=eng#3).)
+with glory and honour." ([Ps. 8:4-5](/scriptures/ot/ps/8.4-5?lang=eng#3).)
 
 The scriptural answer to this question comes through firm and clear. Man is a
 spirit child of God, clothed in a mortal tabernacle of flesh and bones. This
@@ -53,7 +52,7 @@ is revealed in the record of his creation. The book of Genesis teaches that
 there was a spiritual creation of the earth and everything that was to be
 placed upon it, including man, whose spirit God created "in his own image, in
 the image of God created he him; male and female created he them." ([Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26).)
+1:27](/scriptures/ot/gen/1.27?lang=eng#26).)
 
 "And [not only man but] every plant of the field before it was in the earth,
 and every herb of the field before it grew: for the Lord God had not caused it
@@ -65,10 +64,10 @@ ground.
 "And the Lord ... formed man [that is, his physical body out] of the dust of the
 ground, and breathed into his nostrils the breath of life [that was his
 spirit]; and man became a living soul." ([Gen.
-2:5-8](https://www.lds.org/scriptures/ot/gen/2.5-8?lang=eng#4).)
+2:5-8](/scriptures/ot/gen/2.5-8?lang=eng#4).)
 
 This accords with modern scripture, which affirms that "the spirit and the
-body are the soul of man." ([D&amp;C 88:15](https://www.lds.org/scriptures/dc-
+body are the soul of man." ([D&amp;C 88:15](/scriptures/dc-
 testament/dc/88.15?lang=eng#14).)
 
 "... Since by man came death." What is death? It is the separation of the body
@@ -86,7 +85,7 @@ the garden.
 
 But of the tree of the knowledge of good and evil, thou shalt not eat of it:
 for in the day that thou eatest thereof thou shalt surely die." ([Gen.
-2:16-17](https://www.lds.org/scriptures/ot/gen/2.16-17?lang=eng#15).)
+2:16-17](/scriptures/ot/gen/2.16-17?lang=eng#15).)
 
 Time will not permit a delineation of the details, but the crucial fact is
 that Adam and Eve, contrary to the instructions, did eat of the forbidden
@@ -110,7 +109,7 @@ devil, to rise no more.
 "And our spirits must have become like unto him, and we become devils, angels
 to a devil, to be shut out from the presence of our God, and to remain with
 the father of lies, in misery, like unto himself." ([2 Ne.
-9:8-9](https://www.lds.org/scriptures/bofm/2-ne/9.8-9?lang=eng#7).)
+9:8-9](/scriptures/bofm/2-ne/9.8-9?lang=eng#7).)
 
 Redemption from death--that is resurrection--is, therefore, imperative to
 man's future happiness.
@@ -118,8 +117,7 @@ man's future happiness.
 "Spirit and element, inseparably connected, receive a fulness of joy;
 
 "And when separated, man cannot receive a fulness of joy." ([D&amp;C
-93:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/93.33-34?lang=eng#32).)
+93:33-34](/scriptures/dc-testament/dc/93.33-34?lang=eng#32).)
 
 Now God, being omniscient, foresaw this predicament. He knew that death would
 pass upon all men because of Adam's partaking of the fruit of the tree of the
@@ -137,8 +135,8 @@ resurrection of the dead.
 "And the resurrection from the dead is the redemption of the soul.
 
 "And the redemption of the soul is through him that quickeneth all things"
-([D&amp;C 88:14-17](https://www.lds.org/scriptures/dc-
-testament/dc/88.14-17?lang=eng#13)), that is, through Christ.
+([D&amp;C 88:14-17](/scriptures/dc-testament/dc/88.14-17?lang=eng#13)), that
+is, through Christ.
 
 Now who is Jesus Christ, and how could he bring about the resurrection when no
 other man nor all men put together could do so? The scriptures respond to
@@ -162,8 +160,8 @@ his own declaration to the Pharisees:
 take it again.
 
 "No man taketh it from me, ... I lay it down of myself. I have power to lay it
-down, and I have power to take it again." ([John 10:11, 14-15, 17-18](https://
-www.lds.org/scriptures/nt/john/10.11%2C14-15%2C17-18?lang=eng#10).)
+down, and I have power to take it again." ([John 10:11, 14-15,
+17-18](/scriptures/nt/john/10.11,14-15,17-18?lang=eng#10).)
 
 Since man--being subject to death--could not raise his body from the grave,
 Jesus came to earth and voluntarily gave his life to atone for the fall of
@@ -172,38 +170,33 @@ Adam, thereby implementing the power of resurrection.
 The first evidence of his victory over the grave was, of course, his own
 resurrection, concerning the reality of which there is much evidence. He was
 both seen and heard by Mary. (See [John
-20:11-17](https://www.lds.org/scriptures/nt/john/20.11-17?lang=eng#10).) He
-met the women on their way to tell the disciples about the empty tomb. To them
-he spoke. "And they came and held him by the feet, and worshiped him." (See
-[Matt. 28:9-10](https://www.lds.org/scriptures/nt/matt/28.9-10?lang=eng#8).)
-He walked and conversed with the two disciples on the way to Emmaus. (See
-[Luke 24:13-16,
-28-32](https://www.lds.org/scriptures/nt/luke/24.13-16%2C28-32?lang=eng#12).)
-He appeared to his apostles at least twice, once when Thomas was absent and
-again a week later when he was present. He talked to them, showed them his
-hands and feet. At his request, "they gave him a piece of a broiled fish, and
-of an honeycomb.
+20:11-17](/scriptures/nt/john/20.11-17?lang=eng#10).) He met the women on
+their way to tell the disciples about the empty tomb. To them he spoke. "And
+they came and held him by the feet, and worshiped him." (See [Matt.
+28:9-10](/scriptures/nt/matt/28.9-10?lang=eng#8).) He walked and conversed
+with the two disciples on the way to Emmaus. (See [Luke 24:13-16,
+28-32](/scriptures/nt/luke/24.13-16,28-32?lang=eng#12).) He appeared to his
+apostles at least twice, once when Thomas was absent and again a week later
+when he was present. He talked to them, showed them his hands and feet. At his
+request, "they gave him a piece of a broiled fish, and of an honeycomb.
 
 "And he took it, and did eat before them." (See [Luke
-24:36-43](https://www.lds.org/scriptures/nt/luke/24.36-43?lang=eng#35) and
-[John 20:26-29](https://www.lds.org/scriptures/nt/john/20.26-29?lang=eng#25).)
+24:36-43](/scriptures/nt/luke/24.36-43?lang=eng#35) and [John
+20:26-29](/scriptures/nt/john/20.26-29?lang=eng#25).)
 
 He hosted the seven disciples at the Sea of Tiberias. ([John
-21:1-22](https://www.lds.org/scriptures/nt/john/21.1-22?lang=eng#0).) On one
-occasion, he was seen by more than 500 people at once. ([1 Cor.
-15:6](https://www.lds.org/scriptures/nt/1-cor/15.6?lang=eng#5).) "He was seen
-of Cephas" ([1 Cor.
-15:5](https://www.lds.org/scriptures/nt/1-cor/15.5?lang=eng#4)), of James ([1
-Cor. 15:7](https://www.lds.org/scriptures/nt/1-cor/15.7?lang=eng#6)), and of
-Paul ([1 Cor. 15:8](https://www.lds.org/scriptures/nt/1-cor/15.8?lang=eng#7)).
-On the Galilean mountain, he commissioned the "eleven" to "teach all nations."
-(See [Matt.
-28:16-20](https://www.lds.org/scriptures/nt/matt/28.16-20?lang=eng#15).)
+21:1-22](/scriptures/nt/john/21.1-22?lang=eng#0).) On one occasion, he was
+seen by more than 500 people at once. ([1 Cor.
+15:6](/scriptures/nt/1-cor/15.6?lang=eng#5).) "He was seen of Cephas" ([1 Cor.
+15:5](/scriptures/nt/1-cor/15.5?lang=eng#4)), of James ([1 Cor.
+15:7](/scriptures/nt/1-cor/15.7?lang=eng#6)), and of Paul ([1 Cor.
+15:8](/scriptures/nt/1-cor/15.8?lang=eng#7)). On the Galilean mountain, he
+commissioned the "eleven" to "teach all nations." (See [Matt.
+28:16-20](/scriptures/nt/matt/28.16-20?lang=eng#15).)
 
 Finally, "he led them out as far as ... Bethany, and he lifted up his hands, and
 ... while he blessed them, he was parted from them, and carried up into heaven."
-([Luke
-24:50-51](https://www.lds.org/scriptures/nt/luke/24.50-51?lang=eng#49).)
+([Luke 24:50-51](/scriptures/nt/luke/24.50-51?lang=eng#49).)
 
 Following his postresurrection ministry in the land of Jerusalem, he visited
 and administered among the Nephites in America.
@@ -217,7 +210,7 @@ saints which slept arose,
 
 "And came out of the graves after his resurrection, and went into the holy
 city, and appeared unto many." ([Matt.
-27:52-53](https://www.lds.org/scriptures/nt/matt/27.52-53?lang=eng#51).)
+27:52-53](/scriptures/nt/matt/27.52-53?lang=eng#51).)
 
 Jesus himself, during his mortal ministry, had said:
 
@@ -235,11 +228,11 @@ concerning the resurrection of others and its fulfillment. The omitted
 statement to which he referred was that one of the signs to be given to the
 Nephites of his crucifixion was that "many graves shall be opened, and shall
 yield up many of their dead; and many saints shall appear unto many." ([Hel.
-14:25](https://www.lds.org/scriptures/bofm/hel/14.25?lang=eng#24).)
+14:25](/scriptures/bofm/hel/14.25?lang=eng#24).)
 
 Now his Nephite disciples said: "Yea, Lord, Samuel did [so] prophesy ... to thy
 words, and they were all fulfilled." ([3 Ne.
-23:10](https://www.lds.org/scriptures/bofm/3-ne/23.10?lang=eng#9).)
+23:10](/scriptures/bofm/3-ne/23.10?lang=eng#9).)
 
 John the Revelator concludes the account of his vision of the resurrection, to
 occur at the beginning of the Millennium--which is not far ahead now--by
@@ -249,8 +242,7 @@ saying:
 Millennium--they lived] and reigned with Christ a thousand years.
 
 "But the rest of the dead lived not again until the thousand years were
-finished." ([Rev.
-20:4-5](https://www.lds.org/scriptures/nt/rev/20.4-5?lang=eng#3).)
+finished." ([Rev. 20:4-5](/scriptures/nt/rev/20.4-5?lang=eng#3).)
 
 At which time he added:
 
@@ -258,7 +250,7 @@ At which time he added:
 
 "And the sea gave up the dead which were in it; and death and hell delivered
 up the dead which were in them." ([Rev.
-20:12-13](https://www.lds.org/scriptures/nt/rev/20.12-13?lang=eng#11).)
+20:12-13](/scriptures/nt/rev/20.12-13?lang=eng#11).)
 
 Amulek, speaking to Zeezrom, said:
 
@@ -270,7 +262,7 @@ limb and joint shall be restored to its proper frame, ...
 
 "This [resurrection] shall come to all, both old and young, both bond and
 free, both male and female, both the wicked and the righteous." ([Alma
-11:42-44](https://www.lds.org/scriptures/bofm/alma/11.42-44?lang=eng#41).)
+11:42-44](/scriptures/bofm/alma/11.42-44?lang=eng#41).)
 
 In this manner will be fulfilled Paul's declaration:
 
@@ -280,12 +272,12 @@ In this manner will be fulfilled Paul's declaration:
 
 "But every man in his own order: Christ the firstfruits; afterward they that
 are Christ's at his coming." ([1 Cor.
-15:21-23](https://www.lds.org/scriptures/nt/1-cor/15.21-23?lang=eng#20).)
+15:21-23](/scriptures/nt/1-cor/15.21-23?lang=eng#20).)
 
 Man's soul is thus assured of immortality. Christ has completed the first part
 of his "work and ... glory [which he declared to Moses was]--to bring to pass
 the immortality and [the] eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Great is the debt we owe to our Redeemer for our resurrection. But this is not
 the final goal. Attaining to immortality is a prerequisite to, but it is not
@@ -301,8 +293,7 @@ law.
 Men will be judged in the spirit world and rewarded according to their works.
 In the resurrection, their bodies will be quickened by the glory of the
 kingdom, the laws which they have obeyed during this temporal, mortal life.
-(See [D&amp;C 88:17-32](https://www.lds.org/scriptures/dc-
-testament/dc/88.17-32?lang=eng#16).)
+(See [D&amp;C 88:17-32](/scriptures/dc-testament/dc/88.17-32?lang=eng#16).)
 
 The gospel of Jesus Christ, as revealed to and taught by the prophets from
 Adam to the meridian of time, as taught and demonstrated by Jesus during his
@@ -332,4 +323,6 @@ brought about the means by which, through repentance and obedience to the laws
 of his gospel, we may be raised not only to immortality but also to eternal
 life, which is the greatest of all the gifts of God. To this I bear solemn
 witness in the sacred name of Jesus Christ, our Redeemer. Amen.
+
+## References
 

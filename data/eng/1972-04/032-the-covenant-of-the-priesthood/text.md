@@ -25,8 +25,7 @@ saying:
 
 "... in thy seed ... shall all the families of the earth be blessed, even with the
 blessings of the Gospel, which are the blessings of salvation, even of life
-eternal." ([Abr.
-2:11](https://www.lds.org/scriptures/pgp/abr/2.11?lang=eng#10).)
+eternal." ([Abr. 2:11](/scriptures/pgp/abr/2.11?lang=eng#10).)
 
 Ever since the days of Abraham, his descendants have been known, by those who
 have understood the gospel, as children of the covenant. One of the covenants
@@ -43,8 +42,7 @@ Lord, upon Mount Zion in the Lord's house, whose sons are ye; ...
 "For whoso is faithful unto the obtaining these two priesthoods of which I
 have spoken [the Aaronic and Melchizedek], and the magnifying their calling,
 are sanctified by the Spirit unto the renewing of their bodies." ([D&amp;C
-84:31-33](https://www.lds.org/scriptures/dc-
-testament/dc/84.31-33?lang=eng#30).)
+84:31-33](/scriptures/dc-testament/dc/84.31-33?lang=eng#30).)
 
 I believe that is true. I think that men and boys who magnify their callings
 in the priesthood have a change wrought in their bodies. This morning while
@@ -66,8 +64,7 @@ spoken, and the magnifying their calling, are sanctified by the Spirit unto
 the renewing of their bodies.
 
 "They become the sons of Moses and of Aaron and the seed of Abraham, and the
-church and kingdom, and the elect of God." ([D&amp;C
-84:33-34](https://www.lds.org/scriptures/dc-
+church and kingdom, and the elect of God." ([D&amp;C 84:33-34](/scriptures/dc-
 testament/dc/84.33-34?lang=eng#32).)
 
 The Prophet Joseph Smith used to repeatedly urge the brethren of the
@@ -75,8 +72,7 @@ priesthood to make their calling and election sure. If we want to do that, we
 will have to magnify our callings in the priesthood. The revelation continues:
 
 "And also all they who receive this priesthood receive me, saith the Lord."
-([D&amp;C 84:35](https://www.lds.org/scriptures/dc-
-testament/dc/84.35?lang=eng#34).
+([D&amp;C 84:35](/scriptures/dc-testament/dc/84.35?lang=eng#34).
 
 I think this statement refers to those who receive the officers of the
 priesthood who are appointed to represent the Lord.
@@ -91,7 +87,7 @@ priesthood who are appointed to represent the Lord.
 that my Father hath shall be given unto him.
 
 "And this is according to the oath and covenant which belongeth to the
-priesthood." ([D&amp;C 84:35-39](https://www.lds.org/scriptures/dc-
+priesthood." ([D&amp;C 84:35-39](/scriptures/dc-
 testament/dc/84.35-39?lang=eng#34).)
 
 President Smith frequently says in prayer and in counsel that he prays for and
@@ -100,8 +96,7 @@ that rests upon us. That the obligations of "the oath and covenant which
 belongeth to the priesthood" rest upon each of us there is no doubt, because
 the Lord says that "all those who receive the priesthood, receive this oath
 and covenant of my Father, which he cannot break, neither can it be moved."
-([D&amp;C 84:40](https://www.lds.org/scriptures/dc-
-testament/dc/84.40?lang=eng#39).)
+([D&amp;C 84:40](/scriptures/dc-testament/dc/84.40?lang=eng#39).)
 
 So, we have entered into a covenant with the Lord in which he has promised us
 eternal life, if we keep our part of the covenant, which is, to magnify our
@@ -113,7 +108,7 @@ Of them the revelation says:
 
 "But whoso breaketh this covenant after he hath received it, and altogether
 turneth therefrom, shall not have forgiveness of sins in this world nor in the
-world to come." ([D&amp;C 84:41](https://www.lds.org/scriptures/dc-
+world to come." ([D&amp;C 84:41](/scriptures/dc-
 testament/dc/84.41?lang=eng#40).
 
 Now, I do not think this means that all who fail to magnify their callings in
@@ -129,4 +124,6 @@ on earth. I know that there is power in the priesthood and that we can draw
 from heaven the power to do our work, if we do the work as best we can
 ourselves. God help us to understand this, and the great honor he has placed
 upon us by giving us the priesthood, I pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -40,8 +40,7 @@ that I should command in all things; ...
 
 "Verily I say, men should be anxiously engaged in a good cause, and do many
 things of their own free will, and bring to pass much righteousness."
-([D&amp;C 58:26-27](https://www.lds.org/scriptures/dc-
-testament/dc/58.26-27?lang=eng#25).)
+([D&amp;C 58:26-27](/scriptures/dc-testament/dc/58.26-27?lang=eng#25).)
 
 As I travel to stake conferences I am delighted to hear of youth service
 projects of various kinds, such as baptismal work in the temple, community
@@ -57,20 +56,20 @@ not for the Lord's ends. Service, on the other hand, is unselfish and
 constitutes a positive power for good.
 
 Anciently Isaiah lamented, "We have turned every one to his own way." ([Isa.
-53:6](https://www.lds.org/scriptures/ot/isa/53.6?lang=eng#5).) In modern
-parlance, they "did their own thing," whatever the adverse effect upon others.
-Even many of those who profess to understand free agency, or moral agency,
-turn liberty to license, as we can see all around us.
+53:6](/scriptures/ot/isa/53.6?lang=eng#5).) In modern parlance, they "did
+their own thing," whatever the adverse effect upon others. Even many of those
+who profess to understand free agency, or moral agency, turn liberty to
+license, as we can see all around us.
 
 Fourth, not only does service overcome selfishness and sin, but it helps to
 recompense for sin. The prophet Ezekiel explained this when he declared, "None
 of his sins that he hath committed shall be mentioned unto him: he hath done
 that which is lawful and right." ([Ezek.
-33:16](https://www.lds.org/scriptures/ot/ezek/33.16?lang=eng#15).) Again,
-James taught that to "save a soul ... shall hide a multitude of sins." ([James
-5:20](https://www.lds.org/scriptures/nt/james/5.20?lang=eng#19).) We can
-express regret and feel remorse for things done wrong, but _full_ repentance
-should include recompense, such as service gives.
+33:16](/scriptures/ot/ezek/33.16?lang=eng#15).) Again, James taught that to
+"save a soul ... shall hide a multitude of sins." ([James
+5:20](/scriptures/nt/james/5.20?lang=eng#19).) We can express regret and feel
+remorse for things done wrong, but _full_ repentance should include
+recompense, such as service gives.
 
 Fifth, service helps us generate love and appreciation. We come to know people
 by serving them--their circumstances, their challenges, their hopes and
@@ -84,7 +83,7 @@ need to fill ourselves up with gratitude for His redeeming love, His infinite
 atoning sacrifice, His obedience to the will of the Father. As we become full
 of gratitude, it overflows into service, and "inasmuch as [we] have done it
 unto one of the least of these [his] brethren, [we] have done it unto [Him]."
-([Matt. 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 Seventh, service channels our desires and energies into righteous activity.
 Every son and daughter of God is a storehouse--even a powerhouse--of desires
@@ -114,24 +113,22 @@ _Save that of knowing that we do Thy will._
 Ninth, charitable service helps us do as the Savior did, for was not His whole
 ministry one of reaching out and helping, lifting and blessing, loving and
 caring? Jesus declares, "I am among you as he that serveth" ([Luke
-22:27](https://www.lds.org/scriptures/nt/luke/22.27?lang=eng#26)), and again,
-"For I will raise up unto myself a pure people, that will serve me in
-righteousness" ([D&amp;C 100:16](https://www.lds.org/scriptures/dc-
-testament/dc/100.16?lang=eng#15)). There are good people everywhere giving
-charitable service. Once, when we were visiting our missionaries and members
-in Nigeria, our vehicle broke down on a lonely road. Finally a car approached,
-and two young Nigerians got out. "The Lord told us to stop and help you," they
-said. Help us they did, for they knew what the Lord would have them do. And so
-it should be with us.
+22:27](/scriptures/nt/luke/22.27?lang=eng#26)), and again, "For I will raise
+up unto myself a pure people, that will serve me in righteousness" ([D&amp;C
+100:16](/scriptures/dc-testament/dc/100.16?lang=eng#15)). There are good
+people everywhere giving charitable service. Once, when we were visiting our
+missionaries and members in Nigeria, our vehicle broke down on a lonely road.
+Finally a car approached, and two young Nigerians got out. "The Lord told us
+to stop and help you," they said. Help us they did, for they knew what the
+Lord would have them do. And so it should be with us.
 
 Tenth, service helps us to get to know the Savior, for "how knoweth a man the
 master whom he has not served?" ([Mosiah
-5:13](https://www.lds.org/scriptures/bofm/mosiah/5.13?lang=eng#12).) As we
-immerse ourselves in the service of others, we find our spiritual selves and
-come unto Him. I was impressed while visiting the California Sacramento
-Mission a few months ago to meet a young, blind missionary elder. He had
-completely immersed himself in missionary service, despite his special needs,
-and his spirit shone through.
+5:13](/scriptures/bofm/mosiah/5.13?lang=eng#12).) As we immerse ourselves in
+the service of others, we find our spiritual selves and come unto Him. I was
+impressed while visiting the California Sacramento Mission a few months ago to
+meet a young, blind missionary elder. He had completely immersed himself in
+missionary service, despite his special needs, and his spirit shone through.
 
 In all of these ways, righteous service brings us nearer to Christ, increases
 our spirituality, and brings others likewise. Such service is helping to
@@ -151,14 +148,16 @@ tiring of the demands upon us, being patient and persevering and generous."
 
 Yes, as we give Christlike service, it helps us grow spiritually, "[put] off
 the natural man and [become] a saint" ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18))--that is,
-one who is honestly trying to follow the Savior and doing what He would want
-us to do. What a marvelous feeling it is to have the Spirit of the Lord poured
-out more abundantly upon us as we bear one another's burdens and share with
-and mourn with those in need. (See [Mosiah
-18:8-10](https://www.lds.org/scriptures/bofm/mosiah/18.8-10?lang=eng#7).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18))--that is, one who is honestly
+trying to follow the Savior and doing what He would want us to do. What a
+marvelous feeling it is to have the Spirit of the Lord poured out more
+abundantly upon us as we bear one another's burdens and share with and mourn
+with those in need. (See [Mosiah
+18:8-10](/scriptures/bofm/mosiah/18.8-10?lang=eng#7).)
 
 May this be our happy lot, I humbly pray, bearing my personal witness of the
 risen Lord Jesus Christ, His restored Church, and His living prophet, in the
 name of Jesus Christ, amen.
+
+## References
 

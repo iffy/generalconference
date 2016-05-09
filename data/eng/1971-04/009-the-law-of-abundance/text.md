@@ -37,8 +37,7 @@ that "the love of money is the root of all evil," and to "charge them that are
 rich in this world, that they be not highminded, nor trust in uncertain
 riches, but in the living God, who giveth us richly all things to enjoy; That
 they do good, that they be rich in good works, ready to distribute. ..." ([1
-Tim. 6:10,
-17-18](https://www.lds.org/scriptures/nt/1-tim/6.10%2C17-18?lang=eng#9).)
+Tim. 6:10, 17-18](/scriptures/nt/1-tim/6.10,17-18?lang=eng#9).)
 
 Throughout the history of the Church its leaders have taught the value of the
 principles of work, industry, and thrift; and as they have been practiced,
@@ -91,10 +90,10 @@ and to pay tithes and offerings for the purpose of building the kingdom.
 
 In this dispensation the Lord has revealed to us that "it is a day of
 sacrifice, and a day for the tithing of my people." ([D&amp;C
-64:23](https://www.lds.org/scriptures/dc-testament/dc/64.23?lang=eng#22).) I
-think it should be noted that a very substantial number are today honestly
-meeting this requirement. Yet, on the other hand, many are negligent in the
-payment of their tithes and offerings.
+64:23](/scriptures/dc-testament/dc/64.23?lang=eng#22).) I think it should be
+noted that a very substantial number are today honestly meeting this
+requirement. Yet, on the other hand, many are negligent in the payment of
+their tithes and offerings.
 
 The Lord has said: "Will a man rob God? Yet ye have robbed me. But ye say,
 Wherein have we robbed thee? In tithes and offerings. ...
@@ -102,12 +101,12 @@ Wherein have we robbed thee? In tithes and offerings. ...
 "Bring ye all the tithes into the storehouse ... and prove me now herewith,
 saith the Lord of hosts, if I will not open you the windows of heaven, and
 pour you out a blessing, that there shall not be room enough to receive it."
-([Mal. 3:8, 10](https://www.lds.org/scriptures/ot/mal/3.8%2C10?lang=eng#7).)
+([Mal. 3:8, 10](/scriptures/ot/mal/3.8,10?lang=eng#7).)
 
 Tithes are sacred funds, and the Lord in this dispensation has revealed that
 tithing "shall be disposed of by a council, composed of the First Presidency
 of my Church, and of the bishop and his council, ... and by mine own voice unto
-them, saith the Lord." ([D&amp;C 120:1](https://www.lds.org/scriptures/dc-
+them, saith the Lord." ([D&amp;C 120:1](/scriptures/dc-
 testament/dc/120.1?lang=eng#0).)
 
 With the accelerated growth of the Church throughout the world, more and more
@@ -134,12 +133,11 @@ which soweth sparingly shall reap also sparingly; and he which soweth
 bountifully shall reap also bountifully. ...
 
 "Let him give; not grudgingly, or of necessity: for God loveth a cheerful
-giver." ([2 Cor.
-9:6-7](https://www.lds.org/scriptures/nt/2-cor/9.6-7?lang=eng#5).)
+giver." ([2 Cor. 9:6-7](/scriptures/nt/2-cor/9.6-7?lang=eng#5).)
 
 In this dispensation the Lord has said, "Thou shalt not covet thine own
-property, but impart it freely." ([D&amp;C
-19:26](https://www.lds.org/scriptures/dc-testament/dc/19.26?lang=eng#25).)
+property, but impart it freely." ([D&amp;C 19:26](/scriptures/dc-
+testament/dc/19.26?lang=eng#25).)
 
 As we consider ourselves trustees of wealth for the benefit of God's children,
 we should not worship property, whether it be of great or small value. If we
@@ -172,8 +170,7 @@ witness to you that this is true, and I am sure that many of you can bear such
 a testimony.
 
 Remember the words of the Lord Jesus, how he said, "It is more blessed to give
-than to receive." ([Acts
-20:35](https://www.lds.org/scriptures/nt/acts/20.35?lang=eng#34).)
+than to receive." ([Acts 20:35](/scriptures/nt/acts/20.35?lang=eng#34).)
 
 What are riches for, then? To be used in doing good. Therefore, let us
 dedicate our means to the building of the kingdom of God. Let us this day
@@ -197,4 +194,6 @@ Therefore, let us dispense the means which the Lord has given us to enrich the
 lives of others who are less fortunate than we are and to build the kingdom of
 God, that we may make of our life a good gift to God, I pray in the name of
 Jesus Christ. Amen.
+
+## References
 

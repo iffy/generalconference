@@ -45,7 +45,7 @@ gospel.
 
 It should not be surprising that they succeed, for they teach the truth! It is
 His church. By His own declaration, "The only true and living church upon the
-face of the whole earth." ([D&amp;C 1:30](https://www.lds.org/scriptures/dc-
+face of the whole earth." ([D&amp;C 1:30](/scriptures/dc-
 testament/dc/1.30?lang=eng#29).)
 
 Notwithstanding our eager proselyting, this is not an easy church to join. For
@@ -169,8 +169,7 @@ once come out of the world.
 
 "Who, when he had found one pearl of great price, went and sold all that he
 had," that he might obtain it. ([Matt.
-13:45-46](https://www.lds.org/scriptures/nt/matt/13.45-46?lang=eng#44).
-Italics added.)
+13:45-46](/scriptures/nt/matt/13.45-46?lang=eng#44). Italics added.)
 
 Now, lest some of you think all of this giving up of things and this
 rearranging of your habits is more painful than it really is, I should repeat
@@ -254,9 +253,8 @@ toward any of us who saves one of his children. Such gratitude is a prize
 dearly to be won, for the Lord has said, "If it so be that you should labor
 all your days in crying repentance unto this people, and bring, save it be one
 soul unto me, how great shall be your joy with him in the kingdom of my
-Father!" ([D&amp;C 18:15](https://www.lds.org/scriptures/dc-
-testament/dc/18.15?lang=eng#14).) Even so, I might add, if that soul should be
-our own.
+Father!" ([D&amp;C 18:15](/scriptures/dc-testament/dc/18.15?lang=eng#14).)
+Even so, I might add, if that soul should be our own.
 
 And so we appeal to all to come. We call you from the world, more for what you
 can give than for what you can get. You are needed here. Come by families if
@@ -264,7 +262,7 @@ you can, or alone if you must.
 
 Here all that the Father hath can be given unto you. But not without cost,
 "For unto whomsoever much is given," much shall be required. ([Luke
-12:48](https://www.lds.org/scriptures/nt/luke/12.48?lang=eng#47).)
+12:48](/scriptures/nt/luke/12.48?lang=eng#47).)
 
 This is His church. In it you will not stand approved of all men. Many,
 perhaps most, will consider you strange. Some of the doctrines are not easy to
@@ -285,4 +283,6 @@ commonly taught that he is but an influence in the world. I know him to be
 Jesus Christ, the Son of God, the Only Begotten of the Father. I testify that
 he has a body of flesh and bones. This is his church. Of that I bear witness,
 in the name of Jesus Christ. Amen.
+
+## References
 

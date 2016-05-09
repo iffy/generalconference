@@ -57,12 +57,13 @@ come unto Christ.
 Like Jacob of old, having received my errand from the Lord, I will magnify my
 office unto him, taking upon me the responsibility, answering the sins of the
 people on my own head if I do not teach them the word of God in all diligence.
-(See [Jacob
-1:17-19](https://www.lds.org/scriptures/bofm/jacob/1.17-19?lang=eng#16).)
+(See [Jacob 1:17-19](/scriptures/bofm/jacob/1.17-19?lang=eng#16).)
 
 I know that Jesus lives, that he is the Christ, and that he leads this church.
 I have come to know these things because so many good people have extended to
 me the invitation through my life to come unto him, and this I have tried to
 do. I express these feelings in the sacred and holy name of the Lord Jesus
 Christ, amen.
+
+## References
 

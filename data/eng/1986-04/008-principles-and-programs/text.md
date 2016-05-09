@@ -162,7 +162,7 @@ you unto me, and I know your doing. ...
 "For behold, ye do love money, and your substance, and your fine apparel, and
 the adorning of your churches, more than ye love the poor and the needy, the
 sick and the afflicted." ([Morm. 8:35,
-37](https://www.lds.org/scriptures/bofm/morm/8.35%2C37?lang=eng#34).)
+37](/scriptures/bofm/morm/8.35,37?lang=eng#34).)
 
 I have great faith in the generosity and compassion of the membership of this
 church. Never has it been demonstrated more clearly than during the special
@@ -207,4 +207,6 @@ with whom he labored for bringing to us an understanding of welfare
 principles. May we be as successful in meeting the challenges of our
 generation as our predecessors were in meeting theirs, is my prayer, in the
 name of Jesus Christ, amen.
+
+## References
 

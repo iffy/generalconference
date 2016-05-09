@@ -23,21 +23,20 @@ service to the model of the Master.
 I love the words of King Benjamin as we find them in Mosiah: "And behold, I
 tell you these things that ye may learn wisdom; that ye may learn that when ye
 are in the service of your fellow beings ye are only in the service of your
-God." ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).)
+God." ([Mosiah 2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).)
 
 The world needs to remember this and to know that it derives from the "love of
 God" which Nephi declared was "abroad in the hearts of the children of men"
-([1 Ne. 11:22](https://www.lds.org/scriptures/bofm/1-ne/11.22?lang=eng#21)),
-that all of us need to be awakened to its presence within us. And that,
-brethren, is part of our great mission.
+([1 Ne. 11:22](/scriptures/bofm/1-ne/11.22?lang=eng#21)), that all of us need
+to be awakened to its presence within us. And that, brethren, is part of our
+great mission.
 
 Nephi said that this love of God is "the most desirable above all things," and
 the angel confirmed this to him in that great interview by saying, "Yea, and
 the most joyous, to the soul." ([1 Ne.
-11:23](https://www.lds.org/scriptures/bofm/1-ne/11.23?lang=eng#22).) The world
-needs to know of this joy, and this is our great charge as priesthood bearers,
-to so strive to bless the world. We may well begin in our own homes.
+11:23](/scriptures/bofm/1-ne/11.23?lang=eng#22).) The world needs to know of
+this joy, and this is our great charge as priesthood bearers, to so strive to
+bless the world. We may well begin in our own homes.
 
 I am grateful for a home, for parents who taught me these principles, and for
 membership in The Church of Jesus Christ of Latter-day Saints that teaches us
@@ -76,4 +75,6 @@ sins and the salvation of mankind continue in the Church today under the
 leadership of a true and living prophet. This I humbly witness to you and
 pledge my best efforts in fulfilling this call and being trustworthy in it, in
 the name of the Lord Jesus Christ. Amen.
+
+## References
 

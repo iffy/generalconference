@@ -13,11 +13,10 @@ priesthood you bear.
 As a prelude to the specific items I wish to discuss, I believe it is
 important to set forth a few fundamental principles as I understand them. The
 object of God's work is "to bring to pass the immortality and eternal life of
-man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). God has
-given the priesthood to man at various times since Adam's day to bring about
-the great plan of salvation for all mankind. Through our faithfulness, the
-transcendent blessings of eternal life flow from this priesthood authority.
+man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). God has given the
+priesthood to man at various times since Adam's day to bring about the great
+plan of salvation for all mankind. Through our faithfulness, the transcendent
+blessings of eternal life flow from this priesthood authority.
 
 For these priesthood blessings to flower, there is a constant need for unity
 within the priesthood. We must be loyal to the leadership who have been called
@@ -59,29 +58,28 @@ accomplish God's work for the blessing of men, women, and children alike. No
 one can claim priesthood authority except it is conferred openly by those
 possessing the authority, "and it is known to the church that he has authority
 and has been regularly ordained by the heads of the church" ([D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10)). The
-exercise of priesthood authority is directed by the keys of the priesthood.
-These keys rest with the presiding local and General Authorities of the
-Church. Those who have the keys are responsible for the guiding momentum and
-direction of the work of the Lord on the earth. Clearly, as Alma states, the
-shepherds of the Church are responsible for protecting the flock:
+42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10)). The exercise of
+priesthood authority is directed by the keys of the priesthood. These keys
+rest with the presiding local and General Authorities of the Church. Those who
+have the keys are responsible for the guiding momentum and direction of the
+work of the Lord on the earth. Clearly, as Alma states, the shepherds of the
+Church are responsible for protecting the flock:
 
 "For what shepherd is there among you having many sheep doth not watch over
 them, that the wolves enter not and devour his flock? And behold, if a wolf
 enter his flock doth he not drive him out?" ([Alma
-5:59](https://www.lds.org/scriptures/bofm/alma/5.59?lang=eng#58)).
+5:59](/scriptures/bofm/alma/5.59?lang=eng#58)).
 
 Those who have keys, which include the judicial or disciplinary authority,
 have the responsibility for keeping the Church cleansed from all iniquity (see
-[D&amp;C 20:54](https://www.lds.org/scriptures/dc-
-testament/dc/20.54?lang=eng#53); [D&amp;C
-43:11](https://www.lds.org/scriptures/dc-testament/dc/43.11?lang=eng#10)).
-Bishops, stake presidents, mission presidents, and others who have the
-responsibility of keeping the Church pure must perform this labor in a spirit
-of love and kindness. It should not be done in a spirit of punishment, but
-rather of helping. However, it is of no kindness to a brother or sister in
-transgression for their presiding officers to look the other way. Some words
-on this subject come from President John Taylor:
+[D&amp;C 20:54](/scriptures/dc-testament/dc/20.54?lang=eng#53); [D&amp;C
+43:11](/scriptures/dc-testament/dc/43.11?lang=eng#10)). Bishops, stake
+presidents, mission presidents, and others who have the responsibility of
+keeping the Church pure must perform this labor in a spirit of love and
+kindness. It should not be done in a spirit of punishment, but rather of
+helping. However, it is of no kindness to a brother or sister in transgression
+for their presiding officers to look the other way. Some words on this subject
+come from President John Taylor:
 
 "Furthermore, I have heard of some Bishops who have been seeking to cover up
 the iniquities of men; I tell them, in the name of God, they will have to bear
@@ -105,22 +103,20 @@ the priesthood should follow the pattern of the presiding quorums. "The
 decisions of these quorums ... are to be made in all righteousness, in holiness,
 and lowliness of heart, meekness and long suffering, and in faith, and virtue,
 and knowledge, temperance, patience, godliness, brotherly kindness and
-charity" ([D&amp;C 107:30](https://www.lds.org/scriptures/dc-
-testament/dc/107.30?lang=eng#29)).
+charity" ([D&amp;C 107:30](/scriptures/dc-testament/dc/107.30?lang=eng#29)).
 
 In some legislative assemblies of the world, there are some groups termed the
 "loyal opposition." I find no such principle in the gospel of Jesus Christ.
 The Savior gave us this solemn warning: "Be one; and if ye are not one ye are
-not mine" ([D&amp;C 38:27](https://www.lds.org/scriptures/dc-
-testament/dc/38.27?lang=eng#26)). The Lord made it clear that in the presiding
-quorums every decision "must be by the unanimous voice of the same; that is,
-every member in each quorum must be agreed to its decisions" ([D&amp;C
-107:27](https://www.lds.org/scriptures/dc-testament/dc/107.27?lang=eng#26)).
-This means that after frank and open discussion decisions are reached in
-council under the direction of the presiding officer, who has the ultimate
-authority to decide. That decision is then sustained, because our unity comes
-from full agreement with righteous principles and general response to the
-operation of the Spirit of God.
+not mine" ([D&amp;C 38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26)).
+The Lord made it clear that in the presiding quorums every decision "must be
+by the unanimous voice of the same; that is, every member in each quorum must
+be agreed to its decisions" ([D&amp;C 107:27](/scriptures/dc-
+testament/dc/107.27?lang=eng#26)). This means that after frank and open
+discussion decisions are reached in council under the direction of the
+presiding officer, who has the ultimate authority to decide. That decision is
+then sustained, because our unity comes from full agreement with righteous
+principles and general response to the operation of the Spirit of God.
 
 Free discussion and expression are encouraged in the Church. Certainly the
 open expressions in most fast and testimony meetings, or Sunday School, Relief
@@ -191,12 +187,12 @@ How should those who bear the priesthood treat their wives and the other women
 in their family? Our wives need to be cherished. They need to hear their
 husbands call them blessed, and the children need to hear their fathers
 generously praise their mothers (see [Prov.
-31:28](https://www.lds.org/scriptures/ot/prov/31.28?lang=eng#27)). The Lord
-values his daughters just as much as he does his sons. In marriage, neither is
-superior; each has a different primary and divine responsibility. Chief among
-these different responsibilities for wives is the calling of motherhood. I
-firmly believe that our dear faithful sisters enjoy a special spiritual
-enrichment which is inherent in their natures.
+31:28](/scriptures/ot/prov/31.28?lang=eng#27)). The Lord values his daughters
+just as much as he does his sons. In marriage, neither is superior; each has a
+different primary and divine responsibility. Chief among these different
+responsibilities for wives is the calling of motherhood. I firmly believe that
+our dear faithful sisters enjoy a special spiritual enrichment which is
+inherent in their natures.
 
 President Spencer W. Kimball stated: "To be a righteous woman during the
 winding up scenes on this earth, before the second coming of our Savior, is an
@@ -213,11 +209,11 @@ blessings from the Lord for himself, his wife, his family, but these blessings
 can only be claimed in righteousness as he honors his priesthood. We are
 taught by the Lord that "no power or influence can or ought to be maintained
 by virtue of the priesthood, only by persuasion, by long-suffering, by
-gentleness and meekness, and by love unfeigned" ([D&amp;C
-121:41](https://www.lds.org/scriptures/dc-testament/dc/121.41?lang=eng#40)).
-In my opinion, there are few words in the holy scriptures of greater
-significance than the beautiful language contained in the 121st section of the
-Doctrine and Covenants as to how the priesthood is to be exercised:
+gentleness and meekness, and by love unfeigned" ([D&amp;C 121:41](/scriptures
+/dc-testament/dc/121.41?lang=eng#40)). In my opinion, there are few words in
+the holy scriptures of greater significance than the beautiful language
+contained in the 121st section of the Doctrine and Covenants as to how the
+priesthood is to be exercised:
 
 "By kindness, and pure knowledge, which shall greatly enlarge the soul without
 hypocrisy, and without guile--
@@ -236,7 +232,7 @@ priesthood shall distil upon thy soul as the dews from heaven.
 "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging
 scepter of righteousness and truth; and thy dominion shall be an everlasting
 dominion, and without compulsory means it shall flow unto thee forever and
-ever" ([D&amp;C 121:42-46](https://www.lds.org/scriptures/dc-
+ever" ([D&amp;C 121:42-46](/scriptures/dc-
 testament/dc/121.42-46?lang=eng#41)).
 
 President Spencer W. Kimball stated, with respect to priesthood covenants:
@@ -253,13 +249,12 @@ covenant of the priesthood as contained in the 84th section of the Doctrine
 and Covenants. We are told that the transcendent obligations of priesthood
 holders are "to give diligent heed to the words of eternal life," and to bear
 "testimony to all the world," and teach the world of the "judgment which is to
-come" ([D&amp;C 84:43, 61, 87](https://www.lds.org/scriptures/dc-
-testament/dc/84.43%2C61%2C87?lang=eng#42)). Then there is this marvelous
-promise, if we are faithful in our priesthood responsibilities: we shall be
-"sanctified by the Spirit," and become "the elect of God," and all that the
-"Father hath shall be given unto him" ([D&amp;C 84:33, 34,
-38](https://www.lds.org/scriptures/dc-
-testament/dc/84.33%2C34%2C38?lang=eng#32)). How much more important it is to
+come" ([D&amp;C 84:43, 61, 87](/scriptures/dc-
+testament/dc/84.43,61,87?lang=eng#42)). Then there is this marvelous promise,
+if we are faithful in our priesthood responsibilities: we shall be "sanctified
+by the Spirit," and become "the elect of God," and all that the "Father hath
+shall be given unto him" ([D&amp;C 84:33, 34, 38](/scriptures/dc-
+testament/dc/84.33,34,38?lang=eng#32)). How much more important it is to
 receive "all that [the] Father hath" than to seek or receive anything else
 which this life offers.
 
@@ -273,8 +268,10 @@ us, nor with the pronouncements of those who have been given the keys of the
 kingdom of God on earth. For all of us, the words of Joshua ring with
 increasing relevance. "Choose you this day whom ye will serve; ... but as for me
 and my house, we will serve the Lord" ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14)).
+24:15](/scriptures/ot/josh/24.15?lang=eng#14)).
 
 May the Spirit of the Lord be with us to help us magnify this great priesthood
 authority, I pray, in the name of Jesus Christ, amen.
+
+## References
 

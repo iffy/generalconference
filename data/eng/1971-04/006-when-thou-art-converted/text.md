@@ -6,14 +6,14 @@ statement might have startled Peter. Certainly it pricked him, for he said,
 "Lord, I am ready to go with thee, both into prison, and to death." Then the
 Lord told Peter that "the cock shall not crow this day, before that thou shalt
 thrice deny that thou knowest me." ([Luke
-22:32-34](https://www.lds.org/scriptures/nt/luke/22.32-34?lang=eng#31).)
+22:32-34](/scriptures/nt/luke/22.32-34?lang=eng#31).)
 
 Mark records that Peter's vehement declaration of devotion was echoed by the
 remainder of the apostles in these words: "Likewise also said they all."
-([Mark 14:31](https://www.lds.org/scriptures/nt/mark/14.31?lang=eng#30).) Yet
-when the moment came and a maid accused Peter of being a disciple, he denied
-the acquaintance. The remaining ten, likewise, despite their own declarations,
-did not do as they had declared they would do.
+([Mark 14:31](/scriptures/nt/mark/14.31?lang=eng#30).) Yet when the moment
+came and a maid accused Peter of being a disciple, he denied the acquaintance.
+The remaining ten, likewise, despite their own declarations, did not do as
+they had declared they would do.
 
 Peter had been in the whole service of the Lord for three years. He had seen
 but did not seem to realize what the Lord meant by "when thou art converted."
@@ -55,7 +55,7 @@ the organized branches.
 All eleven had been given the Comforter--which up until now they had not yet
 experienced--by which they were to teach all things, by which all things would
 be revealed, and without which they should not teach. (See [D&amp;C
-42:14](https://www.lds.org/scriptures/dc-testament/dc/42.14?lang=eng#13).)
+42:14](/scriptures/dc-testament/dc/42.14?lang=eng#13).)
 
 The burden of teaching the world was theirs! What did they know about the
 world? its extent? its bounds? They knew of Rome, but only in name. They had
@@ -121,8 +121,7 @@ As they seek those to whom they preach, they themselves will be strengthened
 and in their turn will convert and strengthen other brethren until the happy
 day that all men see the glory of the Son of God and witness the fulfillment
 of his word that the gospel should roll forth until it has filled all the
-earth. (See [D&amp;C 65:2](https://www.lds.org/scriptures/dc-
-testament/dc/65.2?lang=eng#1).)
+earth. (See [D&amp;C 65:2](/scriptures/dc-testament/dc/65.2?lang=eng#1).)
 
 The seventies of the Church are called by revelation to this work, and the
 detail of that work is by appointment so that the work may be orderly. In each
@@ -142,4 +141,6 @@ our own conversion in our turn strengthen our brethren.
 I know, too, that Jesus Christ the Lord leads this latter-day work and that he
 lives. This is his restored gospel; I testify to it in the name of Jesus
 Christ. Amen.
+
+## References
 

@@ -10,7 +10,7 @@ where we could have experiences that would teach and test us, a place to
 develop the godly potential within us. Here we, the seed of God, can mature
 into the product of the harvest of the Father's work, which is "to bring to
 pass the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 The plan provides us with the needed resources and instruction to become as He
 is. By obedience we may become lawful heirs to the quality of life He lives
@@ -35,8 +35,8 @@ sins of omission.
 
 We refer to the instructions the Father has given us as commandments. It is
 because of sin and the transgression of these commandments that man becomes
-sensual, devilish, and fallen man. (See [D&amp;C
-20:20](https://www.lds.org/scriptures/dc-testament/dc/20.20?lang=eng#19).)
+sensual, devilish, and fallen man. (See [D&amp;C 20:20](/scriptures/dc-
+testament/dc/20.20?lang=eng#19).)
 
 "Fallen man" means that man is subject to death and separation from God. When
 death comes to the physical body, the spirit body lives on, separated from the
@@ -72,8 +72,7 @@ earth to take upon them physical bodies; that here on earth we may, if we
 will, obey the Father's commandments, which will qualify us to return to His
 presence and live the glorious style of life He lives. "But by the
 transgression of these holy laws man became sensual and devilish, and became
-fallen man." ([D&amp;C 20:20](https://www.lds.org/scriptures/dc-
-testament/dc/20.20?lang=eng#19).)
+fallen man." ([D&amp;C 20:20](/scriptures/dc-testament/dc/20.20?lang=eng#19).)
 
 Yes, it is with amazement that we discover that one of the two major messages
 in the Book of Mormon is the record of a fallen people; but that amazement
@@ -93,10 +92,10 @@ condition. It is the solution.
 Central to the gospel of Jesus Christ is the plan of redemption. God gave His
 children commandments that they "should love and serve him, the only living
 and true God, and that he should be the only being whom they should worship."
-([D&amp;C 20:19](https://www.lds.org/scriptures/dc-
-testament/dc/20.19?lang=eng#18).) By the transgression of these holy laws came
-the Fall; "wherefore, the Almighty God gave his Only Begotten Son." ([D&amp;C
-20:21](https://www.lds.org/scriptures/dc-testament/dc/20.21?lang=eng#20).)
+([D&amp;C 20:19](/scriptures/dc-testament/dc/20.19?lang=eng#18).) By the
+transgression of these holy laws came the Fall; "wherefore, the Almighty God
+gave his Only Begotten Son." ([D&amp;C 20:21](/scriptures/dc-
+testament/dc/20.21?lang=eng#20).)
 
 He came to the earth and did a work. He fulfilled the requirements of the plan
 of redemption. The work He did brought about the resurrection, meaning the
@@ -111,7 +110,7 @@ sufferings and death of Christ atone for their sins, through faith and
 repentance, and so forth; and that he breaketh the bands of death, that the
 grave shall have no victory, and that the sting of death should be swallowed
 up in the hopes of glory." ([Alma
-22:14](https://www.lds.org/scriptures/bofm/alma/22.14?lang=eng#13).)
+22:14](/scriptures/bofm/alma/22.14?lang=eng#13).)
 
 If you had a son, your very own seed, would you not want him to mature into
 the fulness of his potential? While he was yet young and tender, would you not
@@ -140,8 +139,7 @@ His own declaration comes to us by way of stern commandment:
 received by the hand of my servant Joseph Smith, ...
 
 "And it is by my almighty power that you have received them." ([D&amp;C
-19:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/19.13-14?lang=eng#12).)
+19:13-14](/scriptures/dc-testament/dc/19.13-14?lang=eng#12).)
 
 Did we not receive the Book of Mormon from the Lord by the hand of Joseph
 Smith, God's mighty prophet of the Restoration?
@@ -157,7 +155,7 @@ and believe in me.
 are they who shall inherit the kingdom of God.
 
 "And whoso believeth not in me, and is not baptized, shall be damned." ([3 Ne.
-11:32-34](https://www.lds.org/scriptures/bofm/3-ne/11.32-34?lang=eng#31).)
+11:32-34](/scriptures/bofm/3-ne/11.32-34?lang=eng#31).)
 
 To be damned simply means to be stopped in your progress. It means to remain
 in the condition of fallen man.
@@ -168,7 +166,7 @@ Christ continues:
 of it from the Father; and whosoever believeth in me believeth in the Father
 also; and unto him will the Father bear record of me, for he will visit him
 with ... the Holy Ghost" ([3 Ne.
-11:35](https://www.lds.org/scriptures/bofm/3-ne/11.35?lang=eng#34))
+11:35](/scriptures/bofm/3-ne/11.35?lang=eng#34))
 
 I ask you to ponder the question, "How can anyone understand the role of, or
 the need for, a savior if he does not first understand what it is he must be
@@ -189,4 +187,6 @@ The Book of Mormon holds out to us a fulness of what we must be saved from. It
 gives us a complete understanding of the role of, and the need for, a savior.
 It is another testament of Jesus Christ, which I proclaim and testify in the
 sacred name of Jesus Christ, amen.
+
+## References
 

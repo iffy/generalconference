@@ -39,7 +39,7 @@ that day to the ten apostles, Thomas being absent.
 Thomas, like so many then and now, said, "Except I shall see in his hands the
 print of the nails, and put my finger into the print of the nails, and thrust
 my hand into his side, I will not believe." ([John
-20:25](https://www.lds.org/scriptures/nt/john/20.25?lang=eng#24).)
+20:25](/scriptures/nt/john/20.25?lang=eng#24).)
 
 Have you not heard others speak as Thomas spoke? "Give us," they say, "the
 empirical evidence. Prove before our very eyes, and our ears, and our hands,
@@ -61,8 +61,7 @@ God.
 
 "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed:
 blessed are they that have not seen, and yet have believed." ([John
-20:26-29](https://www.lds.org/scriptures/nt/john/20.26-29?lang=eng#25);
-italics added.)
+20:26-29](/scriptures/nt/john/20.26-29?lang=eng#25); italics added.)
 
 To all within the sound of my voice who may have doubts, I repeat the words
 given Thomas as he felt the wounded hands of the Lord: "Be not faithless, but
@@ -77,15 +76,14 @@ living God, our Savior and our Redeemer.
 
 John says of the creation that "all things were made by him; and without him
 was not any thing made that was made." ([John
-1:3](https://www.lds.org/scriptures/nt/john/1.3?lang=eng#2).)
+1:3](/scriptures/nt/john/1.3?lang=eng#2).)
 
 Can any man who has walked beneath the stars at night, can anyone who has seen
 the touch of spring upon the land doubt the hand of divinity in creation? So
 observing the beauties of the earth, one is wont to speak as did the Psalmist:
 "The heavens declare the glory of God; and the firmament sheweth his
 handywork. Day unto day uttereth speech, and night unto night sheweth
-knowledge." ([Ps.
-19:1-2](https://www.lds.org/scriptures/ot/ps/19.1-2?lang=eng#0).)
+knowledge." ([Ps. 19:1-2](/scriptures/ot/ps/19.1-2?lang=eng#0).)
 
 All of beauty in the earth bears the fingerprint of the Master Creator, of
 those hands which, after they took the form of mortality and then immortality,
@@ -93,8 +91,7 @@ Thomas insisted on touching before he would believe.
 
 Be not faithless, but believe in Jehovah, he whose finger wrote upon the
 tablets of stone amid the thunders of Sinai--"Thou shalt have no other gods
-before me." ([Ex.
-20:3](https://www.lds.org/scriptures/ot/ex/20.3?lang=eng#2).) The Decalogue,
+before me." ([Ex. 20:3](/scriptures/ot/ex/20.3?lang=eng#2).) The Decalogue,
 which is the basis of all good law governing human relations, is the product
 of his divine genius. As you look upon the vast body of legalisms designed to
 protect men and society, pause and know that it has its roots in those few
@@ -108,27 +105,26 @@ they chastised the nations, and when as seers they looked forward to the
 coming of a promised Messiah, declaring by the power of revelation, "Therefore
 the Lord himself shall give you a sign; Behold, a virgin shall conceive, and
 bear a son, and shall call his name Immanuel." ([Isa.
-7:14](https://www.lds.org/scriptures/ot/isa/7.14?lang=eng#13).)
+7:14](/scriptures/ot/isa/7.14?lang=eng#13).)
 
 "And the spirit of the Lord shall rest upon him, the spirit of wisdom and
 understanding, the spirit of counsel and might, the spirit of knowledge and of
-the fear of the Lord." ([Isa.
-11:2](https://www.lds.org/scriptures/ot/isa/11.2?lang=eng#1).)
+the fear of the Lord." ([Isa. 11:2](/scriptures/ot/isa/11.2?lang=eng#1).)
 
 "And the government shall be upon his shoulder: and his name shall be called
 Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of
-Peace." ([Isa. 9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+Peace." ([Isa. 9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 Doubt not, but believe that it was he who was born to earth in a manger when
 there was no room in the inn. Well did an angel ask a prophet who had foreseen
 these things in vision: "Knowest thou the condescension of God?" ([1 Ne.
-11:16](https://www.lds.org/scriptures/bofm/1-ne/11.16?lang=eng#15).) I suppose
-none of us can fully understand that--how the great Jehovah should come among
-men, his birth in a manger, among a hated people, in a vassal state. But at
-his birth there was an angelic chorus that sang of his glory. There were
-shepherds who worshiped him. There was a new star in the east. There were wise
-men who traveled far to bring tribute of gold, frankincense, and myrrh. One
-can surmise they touched those tiny hands in wonder and awe as they presented
+11:16](/scriptures/bofm/1-ne/11.16?lang=eng#15).) I suppose none of us can
+fully understand that--how the great Jehovah should come among men, his birth
+in a manger, among a hated people, in a vassal state. But at his birth there
+was an angelic chorus that sang of his glory. There were shepherds who
+worshiped him. There was a new star in the east. There were wise men who
+traveled far to bring tribute of gold, frankincense, and myrrh. One can
+surmise they touched those tiny hands in wonder and awe as they presented
 their gifts to the newborn king.
 
 Herod the Great, who knew of the prophecies, feared those hands and sought to
@@ -137,11 +133,10 @@ upon his own hands and head.
 
 Believe that John the Baptist spoke by the power of revelation when he
 declared of Jesus, "Behold the Lamb of God, which taketh away the sin of the
-world." ([John
-1:29](https://www.lds.org/scriptures/nt/john/1.29?lang=eng#28).) And that it
-was the voice of the Almighty that declared above the waters of Jordan, "This
-is my beloved Son, in whom I am well pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+world." ([John 1:29](/scriptures/nt/john/1.29?lang=eng#28).) And that it was
+the voice of the Almighty that declared above the waters of Jordan, "This is
+my beloved Son, in whom I am well pleased." ([Matt.
+3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 Believe and know that he was a man of miracles. He who had created the world
 and governed it as the great Jehovah understood the elements of earth and all
@@ -160,7 +155,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 I spoke one day to a friend escaped from his native land. With the fall of his
 nation, he had been arrested and interned. His wife and children had been able
@@ -181,12 +176,12 @@ water shall thirst again:
 
 "But whosoever drinketh of the water that I shall give him [it] shall be in
 him a well of water springing up into everlasting life." ([John
-4:13-14](https://www.lds.org/scriptures/nt/john/4.13-14?lang=eng#12).)
+4:13-14](/scriptures/nt/john/4.13-14?lang=eng#12).)
 
 In that same conversation he declared his identity when the woman at the well
 spoke of the promised Messiah, "which is called Christ." He, without
 equivocation, said, "I that speak unto thee am he." ([John
-4:25-26](https://www.lds.org/scriptures/nt/john/4.25-26?lang=eng#24).)
+4:25-26](/scriptures/nt/john/4.25-26?lang=eng#24).)
 
 Doubt not, but believe that he is the Master of life and death. To the
 sorrowing Martha he declared his eternal power, saying: "I am the
@@ -194,7 +189,7 @@ resurrection, and the life: he that believeth in me, though he were dead, yet
 shall he live:
 
 "And whosoever liveth and believeth in me shall never die." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 Were words so great as these ever spoken for the comfort of those who have
 lost loved ones? Thomas was present when those words were given and also when
@@ -214,7 +209,7 @@ powerful in spirit.
 Jesus in his earthly ministry spoke of other sheep of another fold from those
 he was then teaching and declared that they also should hear his voice, "and
 there shall be one fold, and one shepherd." ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).)
+10:16](/scriptures/nt/john/10.16?lang=eng#15).)
 
 At some time following his resurrection a voice was heard from the heavens
 among a people who were gathered together in the Land Bountiful somewhere on
@@ -227,13 +222,11 @@ name--hear ye him.
 robe; and he came down and stood in the midst of them," declaring unto them:
 
 "Behold, I am Jesus Christ, whom the prophets testified shall come into the
-world." ([3 Ne. 11:7-8,
-10](https://www.lds.org/scriptures/bofm/3-ne/11.7-8%2C10?lang=eng#6).)
+world." ([3 Ne. 11:7-8, 10](/scriptures/bofm/3-ne/11.7-8,10?lang=eng#6).)
 
 He invited them, as he invited Thomas, to feel his hands and side, and they
 were astonished and cried, "Hosanna! Blessed be the name of the Most High
-God!" ([3 Ne.
-11:17](https://www.lds.org/scriptures/bofm/3-ne/11.17?lang=eng#16).)
+God!" ([3 Ne. 11:17](/scriptures/bofm/3-ne/11.17?lang=eng#16).)
 
 They doubted not, but believed, as have millions who have read this marvelous
 witness of the resurrected Lord. If there be those of you out there who are
@@ -256,4 +249,6 @@ our testimony of the Lord Jesus Christ; wherefore, O man, "be not faithless,
 but believing" in Him who is the living Son of God, our Savior and our
 Redeemer, I humbly pray and testify in His holy name, even the name of Jesus
 Christ. Amen.
+
+## References
 

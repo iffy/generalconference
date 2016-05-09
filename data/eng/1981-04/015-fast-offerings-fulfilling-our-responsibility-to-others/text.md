@@ -1,4 +1,4 @@
-# Fast Offerings: Fulfilling Our Responsibility to Others
+# Fast Offerings:Fulfilling Our Responsibility to Others
 
 As I address this vast body of priesthood brethren tonight, I do so in
 humility and with a prayer in my heart. The two subjects I will discuss come
@@ -29,23 +29,22 @@ then shall thy light rise in obscurity, and thy darkness be as the noonday:
 "And the Lord shall guide thee continually, and satisfy thy soul in drought,
 and make fat thy bones: and thou shalt be like a watered garden, and like a
 spring of water, whose waters fail not." ([Isa.
-58:6-11](https://www.lds.org/scriptures/ot/isa/58.6-11?lang=eng#5).)
+58:6-11](/scriptures/ot/isa/58.6-11?lang=eng#5).)
 
 Regarding this scripture, President Harold B. Lee had this to say:
 
 "The tremendous blessings that come [from fasting] have been spelled out in
 every dispensation. ... If you analyze ... the 58th chapter of the book of Isaiah
-[[Isa. 58](https://www.lds.org/scriptures/ot/isa/58.title?lang=eng)] you will
-find unraveled why the Lord wants us to pay fast offerings, why he wants us to
-fast. It's because by qualifying thus we can call and the Lord can answer. We
-can cry and the Lord will say, 'Here I am.' Do we ever want to be in a
-condition where we can call and he won't answer? We will cry in our distress
-and he won't be with us? I think it is time we are thinking about these
-fundamentals because these are the days that lie ahead, when we are going to
-need more and more the blessings of the Lord, when the judgments are poured
-out without mixture upon the whole earth." ("Listen and Obey," Welfare
-Agricultural Meeting, 3 April 1971, copy of typescript, p. 14; Church
-Historical Library.)
+[[Isa. 58](/scriptures/ot/isa/58?lang=eng)] you will find unraveled why the
+Lord wants us to pay fast offerings, why he wants us to fast. It's because by
+qualifying thus we can call and the Lord can answer. We can cry and the Lord
+will say, 'Here I am.' Do we ever want to be in a condition where we can call
+and he won't answer? We will cry in our distress and he won't be with us? I
+think it is time we are thinking about these fundamentals because these are
+the days that lie ahead, when we are going to need more and more the blessings
+of the Lord, when the judgments are poured out without mixture upon the whole
+earth." ("Listen and Obey," Welfare Agricultural Meeting, 3 April 1971, copy
+of typescript, p. 14; Church Historical Library.)
 
 President J. Reuben Clark, Jr., had this to say: "The fundamental principle of
 all Church relief work is that it must be carried on by fast offerings and
@@ -91,8 +90,8 @@ me; and they shall be laid before the bishop of my church and his counselors.
 ...
 
 "Therefore, the residue shall be kept in my storehouse, to administer to the
-poor and the needy." ([D&amp;C 42:30-31, 34](https://www.lds.org/scriptures
-/dc-testament/dc/42.30-31%2C34?lang=eng#29).)
+poor and the needy." ([D&amp;C 42:30-31, 34](/scriptures/dc-
+testament/dc/42.30-31,34?lang=eng#29).)
 
 The Lord restates this principle many times, including section 70 of the
 Doctrine and Covenants, verse 7:
@@ -119,7 +118,7 @@ that have riches enter into the kingdom of God!
 
 "For it is easier for a camel to go through a needle's eye, than for a rich
 man to enter into the kingdom of God." ([Luke
-18:20-25](https://www.lds.org/scriptures/nt/luke/18.20-25?lang=eng#19).)
+18:20-25](/scriptures/nt/luke/18.20-25?lang=eng#19).)
 
 Again, from the Doctrine and Covenants, we learn:
 
@@ -140,8 +139,8 @@ things, and have given unto the children of men to be agents unto themselves.
 "Therefore, if any man shall take of the abundance which I have made, and
 impart not his portion, according to the law of my gospel, unto the poor and
 the needy, he shall, with the wicked, lift up his eyes in hell, being in
-torment." ([D&amp;C 104:13-14, 16-18](https://www.lds.org/scriptures/dc-
-testament/dc/104.13-14%2C16-18?lang=eng#12).)
+torment." ([D&amp;C 104:13-14, 16-18](/scriptures/dc-
+testament/dc/104.13-14,16-18?lang=eng#12).)
 
 May I conclude my remarks on fast offerings with portions of a letter I
 received several years ago from Elder John H. Groberg, who at that time was
@@ -189,7 +188,7 @@ at the threepence then back at the good sister, the whole scene changed.
 stand still for a moment. All of nature seemed to stop and listen as from the
 heavens the whole universe seemed filled with the reassuring words: 'Blessed
 are the poor ... for theirs is the kingdom of heaven.' ([Matt.
-5:3](https://www.lds.org/scriptures/nt/matt/5.3?lang=eng#2).)
+5:3](/scriptures/nt/matt/5.3?lang=eng#2).)
 
 "As the setting sun signaled the end of the day, so it also told of the
 approaching end of her beautiful life of service.
@@ -248,13 +247,10 @@ budget.
 
 There are some very specific areas which you should carefully evaluate.
 
-  1. Energy costs: Lights should be turned off when rooms are not in use. Air conditioning and heating should not be used unless absolutely necessary and particularly when the building or portions thereof are not in use.
-
-  2. Paid custodial services: Such services should be reviewed with an eye to using ward members on a rotation basis to take care of the grounds and the basic cleaning. Thus professional custodial hours could be reduced and their efforts concentrated on maintaining mechanical and other complex systems. On this particular item, written suggestions will be forthcoming very soon.
-
-  3. Welfare projects: Each project, through efficient management, should contribute to the commodity production budget to the maximum degree so as to reduce the need for cash contributions from the individual ward members to meet this commitment.
-
-  4. Activities: Current policy is that the yearly budget include all ward and stake activity funding and that there not be any fund raising going on in addition to the budget. Youth conferences or activities that require expensive and extensive travel should be eliminated.
+  1. Energy costs: Lights should be turned off when rooms are not in use. Air conditioning and heating should not be used unless absolutely necessary and particularly when the building or portions thereof are not in use. 
+  2. Paid custodial services: Such services should be reviewed with an eye to using ward members on a rotation basis to take care of the grounds and the basic cleaning. Thus professional custodial hours could be reduced and their efforts concentrated on maintaining mechanical and other complex systems. On this particular item, written suggestions will be forthcoming very soon. 
+  3. Welfare projects: Each project, through efficient management, should contribute to the commodity production budget to the maximum degree so as to reduce the need for cash contributions from the individual ward members to meet this commitment. 
+  4. Activities: Current policy is that the yearly budget include all ward and stake activity funding and that there not be any fund raising going on in addition to the budget. Youth conferences or activities that require expensive and extensive travel should be eliminated. 
 
 These are but a few of the ways of reducing the financial burden on the
 people.
@@ -274,4 +270,6 @@ make it impossible for them to take care of their own needs.
 May the Lord bless us to be wise and sound stewards in blessing the people
 with our teachings and our leadership, I pray in the name of Jesus Christ,
 amen.
+
+## References
 

@@ -53,10 +53,9 @@ spiritual steel.
 
 It is also God's plan that we cannot return to his presence alone, without the
 help of someone else. James put it best: "Faith without works is dead, being
-alone." ([James
-2:17](https://www.lds.org/scriptures/nt/james/2.17?lang=eng#16).) The gospel
-plan requires giving and receiving. Faith alone is not enough. We need "works"
-to serve and to be served. We can't do it alone.
+alone." ([James 2:17](/scriptures/nt/james/2.17?lang=eng#16).) The gospel plan
+requires giving and receiving. Faith alone is not enough. We need "works" to
+serve and to be served. We can't do it alone.
 
 The many missions which we have in life cannot be embarked upon successfully
 without the help of others. Birth requires earthly parents. Our blessing as a
@@ -177,10 +176,9 @@ Alma summarized the essence of a loving father talking to his sons and
 "telling it like it is" when he said to Helaman and Shiblon: "Inasmuch as ye
 shall keep the commandments of God ye shall prosper in the land; and inasmuch
 as ye will not keep the commandments of God ye shall be cast off from his
-presence." ([Alma
-38:1](https://www.lds.org/scriptures/bofm/alma/38.1?lang=eng#0); see also
-[Alma 36:30](https://www.lds.org/scriptures/bofm/alma/36.30?lang=eng#29).)
-That is difficult for a father to say to his son, but it is the truth.
+presence." ([Alma 38:1](/scriptures/bofm/alma/38.1?lang=eng#0); see also [Alma
+36:30](/scriptures/bofm/alma/36.30?lang=eng#29).) That is difficult for a
+father to say to his son, but it is the truth.
 
 When you attempt to live life's experiences alone, you are not being true to
 yourself, nor to your basic mission in life. Individuals in difficulty often
@@ -232,4 +230,6 @@ all those around him--we would truly understand that we need the help of
 others and that they need our help. That we might understand this basic
 principle of the gospel, having love for and allowing ourselves to be loved by
 our fellowmen, is my prayer in the name of Jesus Christ. Amen.
+
+## References
 

@@ -123,3 +123,27 @@ the guiding gift of the Spirit. This gift will continue to lighten the weight
 they carry and lead them back to their heavenly home if they live for it and
 follow its promptings. In the name of Jesus Christ, amen.
 
+## References
+
+  1. Joseph B. Wirthlin, "[The Unspeakable Gift](https://www.lds.org/general-conference/2003/04/the-unspeakable-gift?lang=eng),"_ Ensign_ or_ Liahona,_ May 2003, 27.
+
+  2. [Hebrews 12:1](https://www.lds.org/scriptures/nt/heb/12.1?lang=eng#0).
+
+  3. David A. Bednar, "[Receive the Holy Ghost](https://www.lds.org/general-conference/2010/10/receive-the-holy-ghost?lang=eng),"_ Ensign_ or_ Liahona,_ Nov. 2010, 95.
+
+  4. [3 Nephi 26:14, 16](https://www.lds.org/scriptures/bofm/3-ne/26.14,16?lang=eng#13).
+
+  5. See [1 Samuel 3:4-10](https://www.lds.org/scriptures/ot/1-sam/3.4-10?lang=eng#3).
+
+  6. C. Terry and Susan L. Warner, "[Helping Children Hear the Still, Small Voice](https://www.lds.org/ensign/1994/03/helping-children-hear-the-still-small-voice?lang=eng),"_ Ensign,_ Mar. 1994, 19;_ Tambuli,_ Aug. 1994, 27.
+
+  7. [Deuteronomy 6:7](https://www.lds.org/scriptures/ot/deut/6.7?lang=eng#6).
+
+  8. Joseph Smith, in _History of the Church,_ 3:392.
+
+  9. See Merrilee Browne Boyack, "[Helping Children Recognize the Holy Ghost](https://www.lds.org/liahona/2013/12/helping-children-recognize-the-holy-ghost?lang=eng),"_ Ensign_ or_ Liahona,_ Dec. 2013, 10-12.
+
+  10. Irinna Danielson, "[How to Answer the Toughest 'Whys' of Life](https://www.lds.org/blog/how-to-answer-the-toughest-whys-of-life?lang=eng)," Oct. 30, 2015, lds.org/blog.
+
+  11. Richard G. Scott, "[To Acquire Spiritual Guidance](https://www.lds.org/general-conference/2009/10/to-acquire-spiritual-guidance?lang=eng),"_ Ensign_ or_ Liahona,_ Nov. 2009, 7.
+

@@ -48,7 +48,7 @@ comrades in arms. Men volunteered more readily, fought more gallantly, and
 died more bravely. A fitting tribute echoed from that ageless sermon preached
 on the Mount of Olives: "Greater love hath no man than this, that a man lay
 down his life for his friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 Forgotten is the plight of the "lost battalion." Unremembered is the terrible
 price paid for its rescue. But let us turn from the past and survey the
@@ -78,7 +78,7 @@ over the pages of the Braille edition of the New Testament? He pauses at the
 twelfth chapter of John and contemplates the depth of meaning in the promise
 of the Prince of Peace: "I am come a light into the world, that whosoever
 believeth on me should not abide in darkness." ([John
-12:46](https://www.lds.org/scriptures/nt/john/12.46?lang=eng#45).)
+12:46](/scriptures/nt/john/12.46?lang=eng#45).)
 
 Consider the "lost battalions" of the aged, the widowed, the sick. All too
 often they are found in the parched and desolate wilderness of isolation
@@ -165,7 +165,7 @@ Who is somebody's son, and pride and joy.'"
 
 What was the message of the Master? "Inasmuch as ye have done it unto one of
 the least of these ... ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 There are other "lost battalions" comprised of mothers and fathers, sons and
 daughters, who have, through thoughtless comment, isolated themselves from one
@@ -209,10 +209,9 @@ homes. Love was the binding band, the healing balm. Love--so often felt; so
 seldom expressed.
 
 From Mt. Sinai there thunders in our ears, "Honour thy father and thy mother."
-([Ex. 20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).) And
-later, from that same God, the injunction, "... live together in love."
-([D&amp;C 42: 45](https://www.lds.org/scriptures/dc-
-testament/dc/42.title?lang=eng).)
+([Ex. 20:12](/scriptures/ot/ex/20.12?lang=eng#11).) And later, from that same
+God, the injunction, "... live together in love." ([D&amp;C 42: 45](/scriptures
+/dc-testament/dc/42?lang=eng).)
 
 There are other "lost battalions." Some struggle in the jungles of sin, some
 wander in the wilderness of ignorance. In reality, each one of us is numbered
@@ -220,34 +219,32 @@ in what could well have been the lost battalion of mankind, even a battalion
 doomed to everlasting death.
 
 "... by man came death. ... For as in Adam all die." ([1 Cor.
-15:21-22](https://www.lds.org/scriptures/nt/1-cor/15.21-22?lang=eng#20).) Each
-of us is a partaker of the experience called death. None escapes. Were we to
-remain unrescued, lost would be paradise sought. Lost would be family loved.
-Lost would be friends remembered. Realizing this truth, we begin to appreciate
-the supreme joy which accompanied the birth of the Savior of the world. How
+15:21-22](/scriptures/nt/1-cor/15.21-22?lang=eng#20).) Each of us is a
+partaker of the experience called death. None escapes. Were we to remain
+unrescued, lost would be paradise sought. Lost would be family loved. Lost
+would be friends remembered. Realizing this truth, we begin to appreciate the
+supreme joy which accompanied the birth of the Savior of the world. How
 glorious the pronouncement of the angel: Behold, a virgin "shall bring forth a
 son, and thou shalt call his name JESUS: for he shall save his people from
-their sins." ([Matt.
-1:21](https://www.lds.org/scriptures/nt/matt/1.21?lang=eng#20).)
+their sins." ([Matt. 1:21](/scriptures/nt/matt/1.21?lang=eng#20).)
 
 While the rivers of France witnessed the advance of those who rescued the
 "lost battalion" in World War I, so did yet another river witness the
 commencement of the formal ministry of a universal rescuer, even a divine
 redeemer. The scripture records, "And there came a voice from heaven, saying,
 Thou art my beloved Son, in whom I am well pleased." ([Mark
-1:11](https://www.lds.org/scriptures/nt/mark/1.11?lang=eng#10).)
+1:11](/scriptures/nt/mark/1.11?lang=eng#10).)
 
 Today, only ruins remain of Capernaum, that city by the lakeshore, heart of
 the Savior's Galilean ministry. Here he preached in the synagogue, taught by
 the seaside, and healed in the homes.
 
 On one significant occasion, Jesus ([Luke
-4:18](https://www.lds.org/scriptures/nt/luke/4.18?lang=eng#17)) took a text
-from Isaiah: "The Spirit of the Lord God is upon me; because the Lord hath
-anointed me to preach good tidings unto the meek; he hath sent me to bind up
-the brokenhearted, to proclaim liberty to the captives, and the opening of the
-prison to them that are bound" ([Isa.
-61:1](https://www.lds.org/scriptures/ot/isa/61.1?lang=eng#0)), a clear
+4:18](/scriptures/nt/luke/4.18?lang=eng#17)) took a text from Isaiah: "The
+Spirit of the Lord God is upon me; because the Lord hath anointed me to preach
+good tidings unto the meek; he hath sent me to bind up the brokenhearted, to
+proclaim liberty to the captives, and the opening of the prison to them that
+are bound" ([Isa. 61:1](/scriptures/ot/isa/61.1?lang=eng#0)), a clear
 pronouncement of a divine plan to rescue the "lost battalion" to which we
 belong.
 
@@ -270,8 +267,7 @@ earth, and all the life that ever inhabited it.
 No words in Christendom mean more to me than those spoken by the angel to the
 weeping Mary Magdalene and the other Mary as they approached the tomb to care
 for the body of their Lord: "Why seek ye the living among the dead? He is not
-here, but is risen." ([Luke
-24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4).)
+here, but is risen." ([Luke 24:5-6](/scriptures/nt/luke/24.5-6?lang=eng#4).)
 
 With this pronouncement, the "lost battalion" of mankind--those who have lived
 and died, those who now live and one day will die, and those yet to be born
@@ -284,9 +280,10 @@ more than a physician. He who rescued the "lost battalion" of mankind is the
 literal Savior of the world, the Son of God, the Prince of Peace, the Holy One
 of Israel, even the risen Lord, who declared, "I am the first and the last; I
 am he who liveth, I am he who was slain; I am your advocate with the Father."
-([D&amp;C 110:4](https://www.lds.org/scriptures/dc-
-testament/dc/110.4?lang=eng#3).)
+([D&amp;C 110:4](/scriptures/dc-testament/dc/110.4?lang=eng#3).)
 
 As his witness I testify to you that he lives. In the name of Jesus Christ.
 Amen.
+
+## References
 

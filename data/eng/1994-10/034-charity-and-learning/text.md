@@ -6,20 +6,18 @@ we undertake may vary significantly, but we believe the how, or the way we go
 about such work, separates us from the world because of our desire to be
 guided spiritually and to act with charity. Our scriptural records suggest to
 us that charity, the word we use for the highest form of love, even "the pure
-love of Christ" ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46)), is
+love of Christ" ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46)), is
 _learned._ As we learn, we are capable of being kind, without envy, not easily
 provoked, rejoicing in truth, bearing, believing, hoping, enduring all things
-(see [1 Cor.
-13:4-7](https://www.lds.org/scriptures/nt/1-cor/13.4-7?lang=eng#3)). Charity
-comes to us as we move from grace to grace and as we build precept on precept:
+(see [1 Cor. 13:4-7](/scriptures/nt/1-cor/13.4-7?lang=eng#3)). Charity comes
+to us as we move from grace to grace and as we build precept on precept:
 
 "For behold, thus saith the Lord God: I will give unto the children of men
 line upon line, precept upon precept, here a little and there a little; and
 blessed are those who hearken unto my precepts, and lend an ear unto my
 counsel, for they shall learn wisdom" ([2 Ne.
-28:30](https://www.lds.org/scriptures/bofm/2-ne/28.30?lang=eng#29)). Relief
-Society women do seek to learn wisdom, but we place learning charity first.
+28:30](/scriptures/bofm/2-ne/28.30?lang=eng#29)). Relief Society women do seek
+to learn wisdom, but we place learning charity first.
 
 Charity develops in us as we see ourselves moving in our lives from a "what's
 in it for me" kind of love to the love of family and friends and, blessedly,
@@ -28,8 +26,7 @@ us of our divine kinship with one another _and_ with him. Such love, or
 charity, does not spring whole and steady in most lives, but it can come as we
 learn and grow and reach for ways to know God's love. The scriptures are a
 great help to us in understanding this. There we read that love precedes
-knowledge of God. In [1 Jn.
-4:8-11](https://www.lds.org/scriptures/nt/1-jn/4.8-11?lang=eng#7):
+knowledge of God. In [1 Jn. 4:8-11](/scriptures/nt/1-jn/4.8-11?lang=eng#7):
 
 "He [or she] that loveth not knoweth not God; for God is love.
 
@@ -61,16 +58,16 @@ developing our capacities to _know_ God, not merely to know _about_ God.
 In our Savior's great intercessory prayer recorded in the seventeenth chapter
 of John, he prayed for us, "And this is life eternal, that they might know
 thee the only true God, and Jesus Christ, whom thou has sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)). Then he spoke
-of the Apostles and of the believers of that time: "For I have given unto them
-the words which thou gavest me" ([John
-17:8](https://www.lds.org/scriptures/nt/john/17.8?lang=eng#7)). The kind of
-knowing which came to Christ's Apostles and other believers of that time was a
-gift of the Spirit, but note the importance of the words which Christ conveyed
-to them orally, which then were conveyed by them to any who would hear their
-testimonies, and later are conveyed to us as written testaments. The reality
-of God and Christ and our relationship to them comes to us through a chain of
-knowing conveyed by words, even holy words, _and_ by the Holy Spirit.
+17:3](/scriptures/nt/john/17.3?lang=eng#2)). Then he spoke of the Apostles and
+of the believers of that time: "For I have given unto them the words which
+thou gavest me" ([John 17:8](/scriptures/nt/john/17.8?lang=eng#7)). The kind
+of knowing which came to Christ's Apostles and other believers of that time
+was a gift of the Spirit, but note the importance of the words which Christ
+conveyed to them orally, which then were conveyed by them to any who would
+hear their testimonies, and later are conveyed to us as written testaments.
+The reality of God and Christ and our relationship to them comes to us through
+a chain of knowing conveyed by words, even holy words, _and_ by the Holy
+Spirit.
 
 It is because of our awareness of the importance of words in transmitting
 redeeming truths to one another that Relief Society has embarked on an effort
@@ -103,7 +100,7 @@ understand such communication, we can see better the opportunities to learn
 that lie unused all around us. It becomes easier to identify the ways we have
 become prone to routine, allowing comfortable habits to insulate us from using
 our minds with spiritual power to see "a more excellent way" ([1 Cor.
-12:31](https://www.lds.org/scriptures/nt/1-cor/12.31?lang=eng#30)).
+12:31](/scriptures/nt/1-cor/12.31?lang=eng#30)).
 
 I would be negligent if I did not acknowledge for us all how much more complex
 and various the avenues of communication to our minds are today. Television,
@@ -119,8 +116,7 @@ ye earnestly the best gifts, always remembering for what they are given;
 
 "For verily I say unto you, they are given for the benefit of those who love
 me and keep all my commandments, and him [or her] that seeketh so to do"
-([D&amp;C 46:8-9](https://www.lds.org/scriptures/dc-
-testament/dc/46.8-9?lang=eng#7)).
+([D&amp;C 46:8-9](/scriptures/dc-testament/dc/46.8-9?lang=eng#7)).
 
 As a Relief Society officer, it has been my great blessing to meet with many
 of God's daughters who are committed to keeping his commandments, who have
@@ -162,7 +158,7 @@ like when she had nothing. She is teaching them to understand God's love by
 helping them exercise charity.
 
 In trying to fully comprehend the meaning of her testimony, I found help in
-[Alma 32:23](https://www.lds.org/scriptures/bofm/alma/32.23?lang=eng#22):
+[Alma 32:23](/scriptures/bofm/alma/32.23?lang=eng#22):
 
 "And now, he imparteth his word by angels unto men, yea, not only men but
 women also. Now this is not all; little children do have words given unto them
@@ -172,4 +168,6 @@ I testify to you that God lives and is good and his spiritual gifts are
 available to us all. May we know him and Christ our Savior in ways that
 qualify us to offer pure love to one another by the Holy Spirit, I pray in the
 name of Jesus Christ, amen.
+
+## References
 

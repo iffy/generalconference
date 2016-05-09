@@ -24,7 +24,7 @@ speech / That infant lips can try" (_Hymns,_ no. 220). Such lips may later
 reap the blessings set forth in the book of Proverbs:
 
 "Whoso keepeth his mouth and his tongue keepeth his soul from troubles"
-([Prov. 21:23](https://www.lds.org/scriptures/ot/prov/21.23?lang=eng#22)).
+([Prov. 21:23](/scriptures/ot/prov/21.23?lang=eng#22)).
 
 The educational testimony set forth in the opening lines of the Book of Mormon
 is challenging and instructive:
@@ -33,8 +33,7 @@ is challenging and instructive:
 somewhat in all the learning of my father; ...
 
 "... which consists of the learning of the Jews and the language of the
-Egyptians" ([1 Ne.
-1:1-2](https://www.lds.org/scriptures/bofm/1-ne/1.1-2?lang=eng#0); italics
+Egyptians" ([1 Ne. 1:1-2](/scriptures/bofm/1-ne/1.1-2?lang=eng#0); italics
 added).
 
 "Therefore I was taught. ..." Can our children record such a fact? The learning
@@ -48,7 +47,7 @@ and with all thy might.
 
 "And thou shalt teach them diligently unto thy children, and shalt talk of
 them when thou sittest in thine house, and when thou walkest by the way."
-([Deut. 6:5-7](https://www.lds.org/scriptures/ot/deut/6.5-7?lang=eng#4).)
+([Deut. 6:5-7](/scriptures/ot/deut/6.5-7?lang=eng#4).)
 
 In 1775 John Adams, designing a new nation in Philadelphia, wrote his wife
 Abigail of his concern for the nation's future leadership. She replied, "If we
@@ -73,8 +72,8 @@ _Not to have had any Pilgrim mothers._
 
 What _shall_ we teach our children? The Lord has outlined the basic
 curriculum, as the prophet quoted to us this morning, in section 68, verses 25
-to 30. [[D&amp;C 68:25-30](https://www.lds.org/scriptures/dc-
-testament/dc/68.25-30?lang=eng#24)] Let us examine this somewhat.
+to 30. [[D&amp;C 68:25-30](/scriptures/dc-testament/dc/68.25-30?lang=eng#24)]
+Let us examine this somewhat.
 
 First, teach "_the doctrine of repentance."_ To some the word may sound
 ominous, but none need shrink from it. It is the road to progress. The most
@@ -112,8 +111,7 @@ hands, when eight years old."_ This provides entrance to the Church itself, a
 large family circle. The gift of the Holy Ghost follows as the means of
 leading us into all truth.
 
-Section 68, verses 25 to 28, [[D&amp;C
-68:25-28](https://www.lds.org/scriptures/dc-
+Section 68, verses 25 to 28, [[D&amp;C 68:25-28](/scriptures/dc-
 testament/dc/68.25-28?lang=eng#24)] outlines required courses in the family
 curriculum. For "inasmuch as parents have children in Zion, or in any of her
 stakes which are organized, that teach them not to understand" these things,
@@ -124,14 +122,13 @@ section: _"Parents shall also teach their children to pray, and to walk
 uprightly before the Lord._
 
 _"And the inhabitants of Zion shall also observe the Sabbath day to keep it
-holy." _([D&amp;C 68:28-29](https://www.lds.org/scriptures/dc-
+holy." _([D&amp;C 68:28-29](/scriptures/dc-
 testament/dc/68.28-29?lang=eng#27).)
 
 Fifth and finally, _diligent, intelligent industry_ must be taught as the key
 to all this and to all achievement. All inhabitants of Zion are counseled in
-this section "to labor in all faithfulness" ([D&amp;C
-68:30](https://www.lds.org/scriptures/dc-testament/dc/68.30?lang=eng#29)).
-Work habits are best taught at home.
+this section "to labor in all faithfulness" ([D&amp;C 68:30](/scriptures/dc-
+testament/dc/68.30?lang=eng#29)). Work habits are best taught at home.
 
 I pray that fathers will magnify their callings as true priesthood leaders and
 by example teach love for these principles in their families. Mothers,
@@ -140,4 +137,6 @@ mothers can do. Joseph Smith was and remains a prophet. The Lord Jesus Christ
 lives as the Son of the Eternal Father and is the head of this, his restored
 church. President Spencer W. Kimball presides today as the Lord's living
 prophet. I so testify in the sacred name of Jesus Christ, amen.
+
+## References
 

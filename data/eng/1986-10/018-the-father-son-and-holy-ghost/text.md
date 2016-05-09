@@ -6,8 +6,7 @@ of our religion. It is significant that in setting forth the primary elements
 of our doctrine, the Prophet Joseph put this number one.
 
 "We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in
-the Holy Ghost." [[A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0)]
+the Holy Ghost." [[A of F 1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0)]
 
 The preeminence given that declaration is in accord with another statement the
 Prophet made. Said he:
@@ -20,7 +19,7 @@ with the words of the Lord in His great intercessory prayer:
 
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 I was handed a tract the other day. It was written by a critic, an enemy of
 the Church whose desire is to undermine the faith of the weak and the
@@ -37,12 +36,11 @@ is my Father, the Father of my spirit, and the Father of the spirits of all
 men. He is the great Creator, the Ruler of the Universe. He directed the
 creation of this earth on which we live. In His image man was created. He is
 personal. He is real. He is individual. He has "a body of flesh and bones as
-tangible as man's" ([D&amp;C 130:22](https://www.lds.org/scriptures/dc-
+tangible as man's" ([D&amp;C 130:22](/scriptures/dc-
 testament/dc/130.22?lang=eng#21)).
 
 In the account of the creation of the earth, "God said, Let us make man in our
-image, after our likeness" ([Gen.
-1:26](https://www.lds.org/scriptures/ot/gen/1.26?lang=eng#25)).
+image, after our likeness" ([Gen. 1:26](/scriptures/ot/gen/1.26?lang=eng#25)).
 
 Could any language be more explicit? Does it demean God, as some would have us
 believe, that man was created in His express image? Rather, it should stir
@@ -55,14 +53,13 @@ dwelleth in you?
 
 "If any man defile the temple of God, him shall God destroy; for the temple of
 God is holy, which temple ye are" ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15)).
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15)).
 
 I remember the occasion of more than fifty years ago when, as a missionary, I
 was speaking in an open-air meeting in Hyde Park, London. As I was presenting
 my message, a heckler interrupted to say, "Why don't you stay with the
 doctrine of the Bible which says in John [[John
-4:24](https://www.lds.org/scriptures/nt/john/4.24?lang=eng#23)], 'God is a
-Spirit'?"
+4:24](/scriptures/nt/john/4.24?lang=eng#23)], 'God is a Spirit'?"
 
 I opened my Bible to the verse he had quoted and read to him the entire verse:
 
@@ -89,12 +86,11 @@ of all men. His power is greater than the power of nature, for He is the
 Creator Omnipotent. His love is greater than the love of any other, for His
 love encompasses all of His children, and it is His work and His glory to
 bring to pass the immortality and eternal life of His sons and daughters of
-all generations (see [Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+all generations (see [Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 He "so loved the world, that he gave his only begotten Son, that whosoever
 believeth in him should not perish, but have everlasting life" ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15)).
+3:16](/scriptures/nt/john/3.16?lang=eng#15)).
 
 This is the Almighty of whom I stand in awe and reverence. It is He to whom I
 look in fear and trembling. It is He whom I worship and unto whom I give honor
@@ -108,7 +104,7 @@ power and promise. I thank Him for His revelation of Himself as set forth in
 the Old Testament, for His declaration, as set forth in the New Testament, at
 the baptism of His Beloved Son in the waters of Jordan when His voice was
 heard saying: "This is my beloved Son, in whom I am well pleased" ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16)).
+3:17](/scriptures/nt/matt/3.17?lang=eng#16)).
 
 I thank Him for His similar declaration on the Mount of Transfiguration when
 He spoke again to Jesus and His Apostles, and angels also, when "after six
@@ -126,18 +122,17 @@ Moses, and one for Elias.
 
 "While he yet spake, behold, a bright cloud overshadowed them: and behold a
 voice out of the cloud, which said, This is my beloved Son, in whom I am well
-pleased; hear ye him" ([Matt.
-17:1-6](https://www.lds.org/scriptures/nt/matt/17.1-6?lang=eng#0)).
+pleased; hear ye him" ([Matt. 17:1-6](/scriptures/nt/matt/17.1-6?lang=eng#0)).
 
 I thank Him for that voice again heard when the risen Lord was introduced to
 the people of this hemisphere with the voice of God declaring, "Behold my
 Beloved Son, in whom I am well pleased, in whom I have glorified my name" ([3
-Ne. 11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6)).
+Ne. 11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6)).
 
 I stand in awe and reverence and gratitude for His appearance in this
 dispensation when, as He introduced the risen Lord to one who had sought Him
 in prayer, the Father declared: "This is My Beloved Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)).
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)).
 
 I believe in the Lord Jesus Christ, the Son of the eternal, living God. I
 believe in Him as the Firstborn of the Father and the Only Begotten of the
@@ -152,8 +147,7 @@ God.
 
 "And the Word was made flesh, and dwelt among us, (and we beheld his glory,
 the glory as of the only begotten of the Father), full of grace and truth"
-([John 1:1-2,
-14](https://www.lds.org/scriptures/nt/john/1.1-2%2C14?lang=eng#0)).
+([John 1:1-2, 14](/scriptures/nt/john/1.1-2,14?lang=eng#0)).
 
 I believe that He was born of Mary of the lineage of David as the promised
 Messiah, that He was in very deed begotten of the Father, and that in His
@@ -162,7 +156,7 @@ birth was the fulfillment of the great prophetic declaration of Isaiah:
 "For unto us a child is born, unto us a son is given: and the government shall
 be upon his shoulder: and his name shall be called Wonderful, Counsellor, The
 mighty God, The everlasting Father, The Prince of Peace" ([Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5)).
+9:6](/scriptures/ot/isa/9.6?lang=eng#5)).
 
 I believe that in His mortal life He was the one perfect man to walk the
 earth. I believe that in His words are to be found that light and truth which,
@@ -199,14 +193,14 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light" ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27)).
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27)).
 
 He lives, the firstfruits of the Resurrection. I know He lives today as
 really, as certainly, as individually, as He lived when, as the risen Lord, He
 beckoned His discouraged disciples to "come and dine ...
 
 "And [He] taketh bread, and giveth them, and fish likewise" ([John
-21:12-13](https://www.lds.org/scriptures/nt/john/21.12-13?lang=eng#11)).
+21:12-13](/scriptures/nt/john/21.12-13?lang=eng#11)).
 
 The scripture tells of others to whom He showed Himself and with whom He
 spoke, as the living, resurrected Son of God.
@@ -221,8 +215,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God"
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21)).
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21)).
 
 This is the Christ in whom I believe and of whom I testify.
 
@@ -241,7 +234,7 @@ against the Holy Ghost shall not be forgiven unto men.
 "And whosoever speaketh a word against the Son of man, it shall be forgiven
 him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven
 him, neither in this world, neither in the world to come" ([Matt.
-12:31-32](https://www.lds.org/scriptures/nt/matt/12.31-32?lang=eng#30)).
+12:31-32](/scriptures/nt/matt/12.31-32?lang=eng#30)).
 
 That the Holy Ghost was recognized in ancient times as a member of the Godhead
 is evident from the conversation between Peter and Ananias when the latter
@@ -249,19 +242,19 @@ held back a part of the price received from the sale of a piece of land.
 
 "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy
 Ghost? ... thou hast not lied unto men, but unto God" ([Acts
-5:3-4](https://www.lds.org/scriptures/nt/acts/5.3-4?lang=eng#2)).
+5:3-4](/scriptures/nt/acts/5.3-4?lang=eng#2)).
 
 The Holy Ghost stands as the third member of the Godhead, the Comforter
 promised by the Savior who would teach His followers all things and bring all
 things to their remembrance, whatsoever He had said unto them (see [John
-14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25)).
+14:26](/scriptures/nt/john/14.26?lang=eng#25)).
 
 The Holy Ghost is the Testifier of Truth, who can teach men things they cannot
 teach one another. In those great and challenging words of Moroni, a knowledge
 of the truth of the Book of Mormon is promised "by the power of the Holy
 Ghost." Moroni then declares, "And by the power of the Holy Ghost ye may know
 the truth of all things" ([Moro.
-10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3)).
+10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3)).
 
 I believe this power, this gift, is available to us today.
 
@@ -273,8 +266,7 @@ three. I have no question concerning their reality and their individuality.
 That individuality was made apparent when Jesus was baptized by John in
 Jordan. There in the water stood the Son of God. His Father's voice was heard
 declaring His divine Sonship, and the Holy Ghost was manifest in the form of a
-dove (see [Matt.
-3:16-17](https://www.lds.org/scriptures/nt/matt/3.16-17?lang=eng#15)).
+dove (see [Matt. 3:16-17](/scriptures/nt/matt/3.16-17?lang=eng#15)).
 
 I am aware that Jesus said that they who had seen Him had seen the Father.
 Could not the same be said by many a son who resembles his parent?
@@ -293,7 +285,7 @@ through their word;
 
 "That they all may be one; as thou, Father, art in me, and I in thee, that
 they also may be one in us" ([John
-17:20-21](https://www.lds.org/scriptures/nt/john/17.20-21?lang=eng#19)).
+17:20-21](/scriptures/nt/john/17.20-21?lang=eng#19)).
 
 It is that perfect unity between the Father, the Son, and the Holy Ghost that
 binds these three into the oneness of the divine Godhead.
@@ -306,4 +298,6 @@ Son.
 
 I bear witness of these great, transcendent truths. I do so by the gift and
 power of the Holy Ghost, in the sacred name of Jesus Christ, amen.
+
+## References
 

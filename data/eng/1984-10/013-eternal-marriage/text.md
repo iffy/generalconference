@@ -52,10 +52,9 @@ the Spirit of the Lord.
 ## 1\. Temple Marriage
 
 Honorable marriage is approved of the Lord. Indeed, the scriptures teach that
-"marriage is ordained of God" for His children ([D&amp;C
-49:15](https://www.lds.org/scriptures/dc-testament/dc/49.15?lang=eng#14)), and
-also "whatsoever God doeth, it shall be for ever." ([Eccl.
-3:14](https://www.lds.org/scriptures/ot/eccl/3.14?lang=eng#13).) His way of
+"marriage is ordained of God" for His children ([D&amp;C 49:15](/scriptures
+/dc-testament/dc/49.15?lang=eng#14)), and also "whatsoever God doeth, it shall
+be for ever." ([Eccl. 3:14](/scriptures/ot/eccl/3.14?lang=eng#13).) His way of
 everlasting marriage is filled with hope and promise, and is designed to lead
 to happiness here and to an eternal stewardship like that of God himself.
 
@@ -64,16 +63,15 @@ together in the Garden, and the first wedding occurred. They were not yet
 subject to mortal death, and no time limitations were placed upon their
 marriage. God declared, "Therefore shall a man leave his father and his
 mother, and shall cleave unto his wife: and they shall be one flesh." ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23).)
+2:24](/scriptures/ot/gen/2.24?lang=eng#23).)
 
 When Christ lived on the earth, He quoted this commandment and added, "What
 therefore God hath joined together, let not man put asunder." (See [Matt.
-19:4-6](https://www.lds.org/scriptures/nt/matt/19.4-6?lang=eng#3).) He gave
-His disciples power to bind in heaven that which is bound on earth. (See
-[Matt. 18:18](https://www.lds.org/scriptures/nt/matt/18.18?lang=eng#17).) Paul
-declared that "neither is the man without the woman, neither the woman without
-the man, in the Lord." ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10).)
+19:4-6](/scriptures/nt/matt/19.4-6?lang=eng#3).) He gave His disciples power
+to bind in heaven that which is bound on earth. (See [Matt.
+18:18](/scriptures/nt/matt/18.18?lang=eng#17).) Paul declared that "neither is
+the man without the woman, neither the woman without the man, in the Lord."
+([1 Cor. 11:11](/scriptures/nt/1-cor/11.11?lang=eng#10).)
 
 When the gospel was restored there came a renewed understanding of temples and
 temple worship. The power to bind and seal on earth and in heaven has again
@@ -198,16 +196,15 @@ principle are promised, with a sense of self-worth and self-control and whole-
 souled devotion to the cause of righteousness and truth.
 
 All of this happens through the priesthood, the Holy Priesthood after the
-Order of the Son of God. (See [D&amp;C 107:1-3](https://www.lds.org/scriptures
-/dc-testament/dc/107.1-3?lang=eng#0).) A thoughtful understanding of this
-should automatically eliminate any false perceptions of superiority or
-inferiority. Men and women are of equal value before God and must be equally
-valuable in the eyes of each other. A true devotion to following the example
-of the Son of God will never permit notions of domination or dictatorship or
-possession or control. It will never justify unrighteousness or abuse or filth
-or discourtesy. Christ's way is the way of persuasion, long-suffering,
-gentleness, meekness, love unfeigned. (See [D&amp;C
-121:41-44](https://www.lds.org/scriptures/dc-
+Order of the Son of God. (See [D&amp;C 107:1-3](/scriptures/dc-
+testament/dc/107.1-3?lang=eng#0).) A thoughtful understanding of this should
+automatically eliminate any false perceptions of superiority or inferiority.
+Men and women are of equal value before God and must be equally valuable in
+the eyes of each other. A true devotion to following the example of the Son of
+God will never permit notions of domination or dictatorship or possession or
+control. It will never justify unrighteousness or abuse or filth or
+discourtesy. Christ's way is the way of persuasion, long-suffering,
+gentleness, meekness, love unfeigned. (See [D&amp;C 121:41-44](/scriptures/dc-
 testament/dc/121.41-44?lang=eng#40).)
 
 ## 4\. Two Mature Adults
@@ -252,4 +249,6 @@ ultimately and a continuing relationship under the holy influence of Him whose
 spirit children we are and of Him whose holy sacrifice brought us the
 blessings of eternal life. Of this I testify, in the name of Jesus Christ,
 amen.
+
+## References
 

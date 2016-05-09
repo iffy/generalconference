@@ -78,8 +78,8 @@ against you, shall prosper;
 "And if any man lift his voice against you he shall be confounded in mine own
 due time.
 
-"Wherefore, keep my commandments. ..." ([D&amp;C
-71:7-11](https://www.lds.org/scriptures/dc-testament/dc/71.7-11?lang=eng#6).)
+"Wherefore, keep my commandments. ..." ([D&amp;C 71:7-11](/scriptures/dc-
+testament/dc/71.7-11?lang=eng#6).)
 
 What he is trying to have us understand is that he will take care of our
 enemies if we continue to keep the commandments. So, you Saints of the Most
@@ -107,8 +107,7 @@ from among the people." And then he continued, "What I the Lord have spoken, I
 have spoken, and I excuse not myself; and though the heavens and the earth
 pass away, my word shall not pass away, but shall all be fulfilled, whether by
 mine own voice or by the voice of my servants, it is the same." ([D&amp;C
-1:14, 38](https://www.lds.org/scriptures/dc-
-testament/dc/1.14%2C38?lang=eng#13).)
+1:14, 38](/scriptures/dc-testament/dc/1.14,38?lang=eng#13).)
 
 In another great revelation he explained something else that we would have the
 Saints remember today. Where are you going to go to hear and find out what the
@@ -121,7 +120,7 @@ Holy Ghost.
 "And whatsoever they shall speak when moved upon by the Holy Ghost shall be
 scripture, shall be the will of the Lord, shall be the mind of the Lord, shall
 be the voice of the Lord, and the power of God unto salvation." ([D&amp;C
-68:3-4](https://www.lds.org/scriptures/dc-testament/dc/68.3-4?lang=eng#2).)
+68:3-4](/scriptures/dc-testament/dc/68.3-4?lang=eng#2).)
 
 To the Twelve shortly after the organization of the Church, he said something
 else that I would like you to remember before I draw one or two conclusions
@@ -150,17 +149,15 @@ wherefore, you shall testify they are of me and not of man;
 
 "For it is my voice which speaketh them unto you; for they are given by my
 Spirit unto you, and by my power you can read them one to another; and save it
-were by my power you could not have them." ([D&amp;C 18:31,
-33-35](https://www.lds.org/scriptures/dc-
-testament/dc/18.31%2C33-35?lang=eng#30).)
+were by my power you could not have them." ([D&amp;C 18:31, 33-35](/scriptures
+/dc-testament/dc/18.31,33-35?lang=eng#30).)
 
 And then he added this, listen: "Wherefore, you can testify [meaning that one
 stands in the pulpit and reads from these revelations] that you have heard my
-voice, and know my words." ([D&amp;C 18:36](https://www.lds.org/scriptures/dc-
+voice, and know my words." ([D&amp;C 18:36](/scriptures/dc-
 testament/dc/18.36?lang=eng#35).) For as I have already quoted, he said, "...
 whether by mine own voice or by the voice of my servants, it is the same."
-([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37).)
+([D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).)
 
 Now, you Latter-day Saints, I think you have never attended a conference where
 in these three days you have heard more inspired declarations on most every
@@ -171,7 +168,7 @@ conference, and you will have the latest word of the Lord as far as the Saints
 are concerned. And [also] all others who are not of us, but who believe what
 has been said has been "the mind of the Lord, the will of the Lord, and the
 voice of the Lord, and the power of God unto salvation." (See [D&amp;C
-68:4](https://www.lds.org/scriptures/dc-testament/dc/68.4?lang=eng#3).)
+68:4](/scriptures/dc-testament/dc/68.4?lang=eng#3).)
 
 As I say, realizing that is a very bold statement to make, I have thought of a
 great revelation where the Lord said something about the creation of the
@@ -186,8 +183,7 @@ roll upon their wings in their glory, in the midst of the power of God.
 
 "Behold, all these are kingdoms, and any man who hath seen any or the least of
 these hath seen God moving in his majesty and power." ([D&amp;C
-88:45-47](https://www.lds.org/scriptures/dc-
-testament/dc/88.45-47?lang=eng#44).)
+88:45-47](/scriptures/dc-testament/dc/88.45-47?lang=eng#44).)
 
 Likewise I say to you, as I stand with you and see the moving hand of the Lord
 in the affairs of the nations of the world today, we are seeing the signs of
@@ -213,22 +209,21 @@ In the answer that he gave to his disciples, when he told them that he was
 coming again, he explained some important things to them. The disciples asked
 him, "... Tell us, when shall these things be and the end of the world or the
 destruction of the wicked, which is the end of the world?" (See [Matt.
-24:3](https://www.lds.org/scriptures/nt/matt/24.3?lang=eng#2).) In their
-question, you have the definition of what it means to say "the end of the
-world."
+24:3](/scriptures/nt/matt/24.3?lang=eng#2).) In their question, you have the
+definition of what it means to say "the end of the world."
 
 And then he gave to his disciples what we read in the twenty-fourth chapter of
 the Book of Matthew, what may be better understood from the Inspired Version,
 which is found in the Pearl of Great Price. He said, when the fig tree "begins
 to put forth leaves, you know that summer is nigh at hand." ([JS--M
-1:39](https://www.lds.org/scriptures/pgp/js-m/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/js-m/1.39?lang=eng#38).)
 
 He gave them certain signs by which they might know that his coming was nigh,
 even at their very doors. There will be great tribulation upon the Jews and
 upon the inhabitants of Jerusalem, "such as was not before sent upon Israel,
 of God, since the beginning of their kingdom until this time; no, nor ever
 shall be sent again upon Israel." ([JS--M
-1:18](https://www.lds.org/scriptures/pgp/js-m/1.18?lang=eng#17).)
+1:18](/scriptures/pgp/js-m/1.18?lang=eng#17).)
 
 "And except those days should be shortened, there should none of their flesh
 be saved; but for the elect's sake, according to the covenant, those days
@@ -248,7 +243,7 @@ forth; Behold, he is in the secret chambers; believe it not;
 
 "For as the light of the morning cometh out of the east and shineth even unto
 the west, ... so shall also the coming of the Son of Man be." ([JS--H 1:20-22,
-25-26](https://www.lds.org/scriptures/pgp/js-h/1.20-22%2C25-26?lang=eng#19).)
+25-26](/scriptures/pgp/js-h/1.20-22,25-26?lang=eng#19).)
 
 Then he speaks of the wars that shall come: "... for nations shall rise against
 nation, and kingdom against kingdom; there shall be famines, and pestilences,
@@ -291,8 +286,8 @@ left;
 not at what hour your Lord doth come.
 
 "Therefore be ye also ready, for in such an hour as ye think not, the Son of
-Man cometh." ([JS--M 1:29-31, 33-34, 40-46](https://www.lds.org/scriptures/pgp
-/js-m/1.29-31%2C33-34%2C40-46?lang=eng#28).)
+Man cometh." ([JS--M 1:29-31, 33-34,
+40-46](/scriptures/pgp/js-m/1.29-31,33-34,40-46?lang=eng#28).)
 
 Brothers and sisters, this is the day the Lord is speaking of. You see the
 signs are here. Be ye therefore ready. The Brethren have told you in this
@@ -342,4 +337,6 @@ and may you know that I know with a certainty that defies all doubt that this
 is his work, that he is guiding us and directing us today, as he has done in
 every dispensation of the gospel, and I say that with all the humility of my
 soul, in the name of the Lord, Jesus Christ. Amen.
+
+## References
 

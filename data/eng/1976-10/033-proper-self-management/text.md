@@ -18,7 +18,7 @@ dwelleth in you?
 
 "If any man defile the temple of God, him shall God destroy; for the temple of
 God is holy, which temple ye are." ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
 
 Appropriate personal pride prohibits shabby performance. Proper self-image is
 a basic ingredient of pride in one's self. It is necessary if individual
@@ -49,7 +49,7 @@ appearance? Do my clothes properly introduce me?" What better example of
 proper personal appearance can we have than that glorious introduction shared
 with us by the Prophet Joseph Smith when he declared, "I saw two Personages,
 whose brightness and glory defy all description." ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)
 
 Taking the time to prepare oneself to look one's best for all occasions is
 grooming at its best. I am reminded of the mother who said, "It began to annoy
@@ -76,7 +76,7 @@ person gifts and talents is a worthy challenge. "For there are many gifts, and
 to every man is given a gift by the Spirit of God.
 
 "To some is given one, and to some is given another, that all may be profited
-thereby." ([D&amp;C 46:11-12](https://www.lds.org/scriptures/dc-
+thereby." ([D&amp;C 46:11-12](/scriptures/dc-
 testament/dc/46.11-12?lang=eng#10).)
 
 To be aware of one's limitations and potentials on a continuing basis will
@@ -101,8 +101,8 @@ Courtesy and self-respect are necessary ingredients. We need the humble
 approach in dealing with others. Proper self-management will permit us to be a
 team member first, a coach, captain, or superstar second. In this relationship
 and way of life, the truth "If ye are not one ye are not mine" ([D&amp;C
-38:27](https://www.lds.org/scriptures/dc-testament/dc/38.27?lang=eng#26))
-takes on new significance.
+38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26)) takes on new
+significance.
 
 Another important part of meaningful self-management is self-discipline, and
 the only discipline that really works is self-discipline. What can give
@@ -196,4 +196,6 @@ proper self-management is all about.
 
 I leave you these thoughts and my testimony in the name of Him, the perfect
 example, even Jesus Christ. Amen.
+
+## References
 

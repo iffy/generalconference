@@ -20,8 +20,7 @@ application of righteous principles.
 Please understand that the way back is not as hard as it seems to you now.
 Satan wants you to think that it is impossible. That is not true. The Savior
 gave His life so that you can completely overcome the challenges you face.
-(See [2 Ne.
-2:6-8](https://www.lds.org/scriptures/bofm/2-ne/2.6-8?lang=eng#5).)
+(See [2 Ne. 2:6-8](/scriptures/bofm/2-ne/2.6-8?lang=eng#5).)
 
 Do you find that when someone mentions the mistakes you're making, you are
 prone to lie about them, to indicate that they are much less severe than they
@@ -35,10 +34,9 @@ When you are honest with yourself, you may feel afraid. To change will require
 you to take an unfamiliar path, and it is uphill and narrow. The other is so
 inviting, but it leads to heartache. None of your partners in error will help
 you onto the upward path. They think only of themselves. (See [D&amp;C
-10:25](https://www.lds.org/scriptures/dc-testament/dc/10.25?lang=eng#24).) You
-know the result of following their path--unhappiness, failure, disappointment,
-and greater fear. They don't love you. They want to use you. Don't listen to
-them.
+10:25](/scriptures/dc-testament/dc/10.25?lang=eng#24).) You know the result of
+following their path--unhappiness, failure, disappointment, and greater fear.
+They don't love you. They want to use you. Don't listen to them.
 
 Lucifer will do all in his power to keep you captive. You are familiar with
 his strategy. He whispers: "No one will ever know." "Just one more time." "You
@@ -57,7 +55,7 @@ will counsel and friends who will give support if you'll let them. But
 remember, they can only help by your following the rules that Christ has set
 out for the journey. Any lasting improvement must come from your own
 determination to change. (See [Mosiah
-3:17-20](https://www.lds.org/scriptures/bofm/mosiah/3.17-20?lang=eng#16).)
+3:17-20](/scriptures/bofm/mosiah/3.17-20?lang=eng#16).)
 
 If it were possible to make your road very easy, you wouldn't grow in
 strength. If you were always forgiven for every mistake without effort on your
@@ -67,7 +65,7 @@ acquire the power to change.
 
 Freedom from your transgression will come through sincere faith, true
 repentance, willing obedience, and the giving of self. (See [Alma
-26:22](https://www.lds.org/scriptures/bofm/alma/26.22?lang=eng#21).)
+26:22](/scriptures/bofm/alma/26.22?lang=eng#21).)
 
 Why the giving of self? Because selfishness is at the root of your problem.
 Where selfishness and transgression flourish, the Spirit of the Lord can't
@@ -83,15 +81,14 @@ His commandments.
 
 Don't live your life in despair, feeling sorry for yourself because of the
 mistakes you have made. Let the sunshine in by doing the right things--now.
-(See [1 Ne.
-22:26](https://www.lds.org/scriptures/bofm/1-ne/22.26?lang=eng#25).)
+(See [1 Ne. 22:26](/scriptures/bofm/1-ne/22.26?lang=eng#25).)
 
 It may be difficult to begin, but pick up the scriptures and immerse yourself
 in them. Look for favorite passages. Lean on the Master's teachings, on His
 servants' testimonies. Refresh your parched soul with the word of God. (See [2
-Ne. 4:15-16](https://www.lds.org/scriptures/bofm/2-ne/4.15-16?lang=eng#14).)
-The scriptures will give you comfort and the strength to overcome. (See [Hel.
-3:29-30](https://www.lds.org/scriptures/bofm/hel/3.29-30?lang=eng#28).)
+Ne. 4:15-16](/scriptures/bofm/2-ne/4.15-16?lang=eng#14).) The scriptures will
+give you comfort and the strength to overcome. (See [Hel.
+3:29-30](/scriptures/bofm/hel/3.29-30?lang=eng#28).)
 
 If you've tangled your ordered life into a ball of knots, it has taken time to
 get it that way. It is unreasonable to expect to unravel it all at once. Start
@@ -104,11 +101,9 @@ Suppose a small child were to run in front of your car. What would you do?
 Careful analysis of each step taken will teach you how to overcome your
 serious habit:
 
-  * First your mind decides to stop. Nothing else can happen until that decision is made.
-
-  * Then you take your foot off the accelerator. Can you imagine stopping a car with one foot on the accelerator and the other on the brake?
-
-  * Finally you firmly apply the brake.
+  * First your mind decides to stop. Nothing else can happen until that decision is made. 
+  * Then you take your foot off the accelerator. Can you imagine stopping a car with one foot on the accelerator and the other on the brake? 
+  * Finally you firmly apply the brake. 
 
 The same pattern is followed to overcome your entrenched habit. Decide to stop
 what you are doing that is wrong. Then search out everything in your life that
@@ -163,7 +158,7 @@ is made, you will find the rest of the path becomes easier than you imagined.
 Some days are more difficult than others, but the process becomes easier
 because through your use of agency, you qualify for the Lord's help, and He
 magnifies your efforts. (See [Omni
-1:26](https://www.lds.org/scriptures/bofm/omni/1.26?lang=eng#25).)
+1:26](/scriptures/bofm/omni/1.26?lang=eng#25).)
 
 Establish specific objectives, and move steadily toward them. A rudder won't
 control a drifting boat; it must be underway. Similarly, you need to be moving
@@ -190,7 +185,7 @@ never before done.
 Don't confront your problem armed with only your own experience,
 understanding, and strength. Count on the infinite power of the Lord by
 deciding _now_ to be obedient to His teachings. (See [2 Ne.
-31:19-21](https://www.lds.org/scriptures/bofm/2-ne/31.19-21?lang=eng#18).)
+31:19-21](/scriptures/bofm/2-ne/31.19-21?lang=eng#18).)
 
 If loved ones seem to ignore you, it is because they don't know what to do.
 Their past attempts to help have been rejected; you have not wanted help.
@@ -213,4 +208,6 @@ Him completely. He is not going to make any mistakes. He knows what He is
 doing. Please, decide now to change your life. Be obedient to His teachings,
 and He will bless you. I promise you He will bless you, in the name of Jesus
 Christ, amen.
+
+## References
 

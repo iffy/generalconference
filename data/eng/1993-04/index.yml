@@ -1,398 +1,326 @@
 items:
-- article_id: '93905_000_003'
-  item: '000'
+- item: 1
   key: 000-the-temple-of-the-lord
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-temple-of-the-lord
   speaker: Thomas S. Monson
   title: The Temple of the Lord
   url: https://www.lds.org/general-conference/1993/04/the-temple-of-the-lord?lang=eng
   year: 1993
-- article_id: '93905_000_004'
-  item: '001'
+- item: 2
   key: 001-keeping-covenants
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: keeping-covenants
   speaker: M. Russell Ballard
   title: Keeping Covenants
   url: https://www.lds.org/general-conference/1993/04/keeping-covenants?lang=eng
   year: 1993
-- article_id: '93905_000_005'
-  item: '002'
+- item: 3
   key: 002-the-lord-of-life
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-lord-of-life
   speaker: J. Richard Clarke
   title: The Lord of Life
   url: https://www.lds.org/general-conference/1993/04/the-lord-of-life?lang=eng
   year: 1993
-- article_id: '93905_000_006'
-  item: '003'
+- item: 4
   key: 003-keep-the-faith
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: keep-the-faith
   speaker: Richard C. Edgley
   title: Keep the Faith
   url: https://www.lds.org/general-conference/1993/04/keep-the-faith?lang=eng
   year: 1993
-- article_id: '93905_000_007'
-  item: '004'
+- item: 5
   key: 004-search-the-scriptures
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: search-the-scriptures
   speaker: L. Lionel Kendrick
   title: Search the Scriptures
   url: https://www.lds.org/general-conference/1993/04/search-the-scriptures?lang=eng
   year: 1993
-- article_id: '93905_000_008'
-  item: '005'
+- item: 6
   key: 005-the-language-of-prayer
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-language-of-prayer
   speaker: Dallin H. Oaks
   title: The Language of Prayer
   url: https://www.lds.org/general-conference/1993/04/the-language-of-prayer?lang=eng
   year: 1993
-- article_id: '93905_000_009'
-  item: '006'
+- item: 7
   key: 006-the-temple-the-priesthood
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-temple-the-priesthood
   speaker: Boyd K. Packer
   title: The Temple, the Priesthood
   url: https://www.lds.org/general-conference/1993/04/the-temple-the-priesthood?lang=eng
   year: 1993
-- article_id: '93905_000_010'
-  item: '007'
+- item: 8
   key: 007-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1993/04/the-sustaining-of-church-officers?lang=eng
   year: 1993
-- article_id: '93905_000_011'
-  item: 008
+- item: 9
   key: 008-the-church-audit-committee-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-church-audit-committee-report
   speaker: Ted E. Davis
   title: The Church Audit Committee Report
   url: https://www.lds.org/general-conference/1993/04/the-church-audit-committee-report?lang=eng
   year: 1993
-- article_id: '93905_000_012'
-  item: 009
+- item: 10
   key: 009-statistical-report-1992
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-1992
   speaker: F. Michael Watson
   title: Statistical Report 1992
   url: https://www.lds.org/general-conference/1993/04/statistical-report-1992?lang=eng
   year: 1993
-- article_id: '93905_000_013'
-  item: '010'
+- item: 11
   key: 010-personal-temple-worship
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: personal-temple-worship
   speaker: David B. Haight
   title: Personal Temple Worship
   url: https://www.lds.org/general-conference/1993/04/personal-temple-worship?lang=eng
   year: 1993
-- article_id: '93905_000_014'
-  item: '011'
+- item: 12
   key: 011-jesus-christ-the-son-of-the-living-god
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: jesus-christ-the-son-of-the-living-god
   speaker: John M. Madsen
   title: Jesus Christ, the Son of the Living God
   url: https://www.lds.org/general-conference/1993/04/jesus-christ-the-son-of-the-living-god?lang=eng
   year: 1993
-- article_id: '93905_000_015'
-  item: '012'
+- item: 13
   key: 012-power-of-the-church-rooted-in-christ
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: power-of-the-church-rooted-in-christ
   speaker: V. Dallas Merrell
   title: Power of the Church Rooted in Christ
   url: https://www.lds.org/general-conference/1993/04/power-of-the-church-rooted-in-christ?lang=eng
   year: 1993
-- article_id: '93905_000_016'
-  item: '013'
+- item: 14
   key: 013-prayer
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: prayer
   speaker: David E. Sorensen
   title: Prayer
   url: https://www.lds.org/general-conference/1993/04/prayer?lang=eng
   year: 1993
-- article_id: '93905_000_017'
-  item: '014'
+- item: 15
   key: 014-the-power-of-correct-principles
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-power-of-correct-principles
   speaker: Richard G. Scott
   title: The Power of Correct Principles
   url: https://www.lds.org/general-conference/1993/04/the-power-of-correct-principles?lang=eng
   year: 1993
-- article_id: '93905_000_018'
-  item: '015'
+- item: 16
   key: 015-father-come-home
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: father-come-home
   speaker: James E. Faust
   title: Father, Come Home
   url: https://www.lds.org/general-conference/1993/04/father-come-home?lang=eng
   year: 1993
-- article_id: '93905_000_019'
-  item: '016'
+- item: 17
   key: 016-honoring-the-priesthood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: honoring-the-priesthood
   speaker: Russell M. Nelson
   title: Honoring the Priesthood
   url: https://www.lds.org/general-conference/1993/04/honoring-the-priesthood?lang=eng
   year: 1993
-- article_id: '93905_000_020'
-  item: '017'
+- item: 18
   key: 017-faith-yields-priesthood-power
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: faith-yields-priesthood-power
   speaker: John K. Carmack
   title: Faith Yields Priesthood Power
   url: https://www.lds.org/general-conference/1993/04/faith-yields-priesthood-power?lang=eng
   year: 1993
-- article_id: '93905_000_021'
-  item: 018
+- item: 19
   key: 018-the-principle-of-work
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-principle-of-work
   speaker: F. David Stanley
   title: The Principle of Work
   url: https://www.lds.org/general-conference/1993/04/the-principle-of-work?lang=eng
   year: 1993
-- article_id: '93905_000_022'
-  item: 019
+- item: 20
   key: 019-heroes
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: heroes
   speaker: H. David Burton
   title: Heroes
   url: https://www.lds.org/general-conference/1993/04/heroes?lang=eng
   year: 1993
-- article_id: '93905_000_023'
-  item: '020'
+- item: 21
   key: 020-search-and-rescue
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: search-and-rescue
   speaker: Thomas S. Monson
   title: Search and Rescue
   url: https://www.lds.org/general-conference/1993/04/search-and-rescue?lang=eng
   year: 1993
-- article_id: '93905_000_024'
-  item: '021'
+- item: 22
   key: 021-some-lessons-i-learned-as-a-boy
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: some-lessons-i-learned-as-a-boy
   speaker: Gordon B. Hinckley
   title: Some Lessons I Learned as a Boy
   url: https://www.lds.org/general-conference/1993/04/some-lessons-i-learned-as-a-boy?lang=eng
   year: 1993
-- article_id: '93905_000_025'
-  item: '022'
+- item: 23
   key: 022-gifts
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: gifts
   speaker: Thomas S. Monson
   title: Gifts
   url: https://www.lds.org/general-conference/1993/04/gifts?lang=eng
   year: 1993
-- article_id: '93905_000_026'
-  item: '023'
+- item: 24
   key: 023-jesus-the-very-thought-of-thee
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: jesus-the-very-thought-of-thee
   speaker: Howard W. Hunter
-  title: "\u201CJesus, the Very Thought of Thee\u201D"
+  title: '"Jesus, the Very Thought of Thee"'
   url: https://www.lds.org/general-conference/1993/04/jesus-the-very-thought-of-thee?lang=eng
   year: 1993
-- article_id: '93905_000_027'
-  item: '024'
+- item: 25
   key: 024-peace-through-prayer
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: peace-through-prayer
   speaker: Rex D. Pinegar
   title: Peace through Prayer
   url: https://www.lds.org/general-conference/1993/04/peace-through-prayer?lang=eng
   year: 1993
-- article_id: '93905_000_028'
-  item: '025'
+- item: 26
   key: 025-spiritually-strong-homes-and-families
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: spiritually-strong-homes-and-families
   speaker: Joseph B. Wirthlin
   title: Spiritually Strong Homes and Families
   url: https://www.lds.org/general-conference/1993/04/spiritually-strong-homes-and-families?lang=eng
   year: 1993
-- article_id: '93905_000_029'
-  item: '026'
+- item: 27
   key: 026-this-peaceful-house-of-god
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: this-peaceful-house-of-god
   speaker: Gordon B. Hinckley
   title: This Peaceful House of God
   url: https://www.lds.org/general-conference/1993/04/this-peaceful-house-of-god?lang=eng
   year: 1993
-- article_id: '93905_000_030'
-  item: '027'
+- item: 28
   key: 027-behold-the-enemy-is-combined-d-c-38-12
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: behold-the-enemy-is-combined-d-c-38-12
   speaker: Neal A. Maxwell
-  title: "\u201CBehold, the Enemy Is Combined\u201D (D&C 38:12)"
+  title: '"Behold, the Enemy Is Combined" (D&C 38:12)'
   url: https://www.lds.org/general-conference/1993/04/behold-the-enemy-is-combined-d-c-38-12?lang=eng
   year: 1993
-- article_id: '93905_000_031'
-  item: 028
+- item: 29
   key: 028-receiving-divine-assistance-through-the-grace-of-the-lord
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: receiving-divine-assistance-through-the-grace-of-the-lord
   speaker: Gene R. Cook
   title: Receiving Divine Assistance through the Grace of the Lord
   url: https://www.lds.org/general-conference/1993/04/receiving-divine-assistance-through-the-grace-of-the-lord?lang=eng
   year: 1993
-- article_id: '93905_000_032'
-  item: 029
+- item: 30
   key: 029-whom-the-lord-calls-the-lord-qualifies
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: whom-the-lord-calls-the-lord-qualifies
   speaker: Neil L. Andersen
-  title: "\u201CWhom the Lord Calls, the Lord Qualifies\u201D"
+  title: '"Whom the Lord Calls, the Lord Qualifies"'
   url: https://www.lds.org/general-conference/1993/04/whom-the-lord-calls-the-lord-qualifies?lang=eng
   year: 1993
-- article_id: '93905_000_033'
-  item: '030'
+- item: 31
   key: 030-i-know-in-whom-i-have-trusted
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: i-know-in-whom-i-have-trusted
   speaker: D. Todd Christofferson
   title: I Know in Whom I Have Trusted
   url: https://www.lds.org/general-conference/1993/04/i-know-in-whom-i-have-trusted?lang=eng
   year: 1993
-- article_id: '93905_000_034'
-  item: '031'
+- item: 32
   key: 031-cats-cradle-of-kindness
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: cats-cradle-of-kindness
   speaker: Chieko N. Okazaki
-  title: "Cat\u2019s Cradle of Kindness"
+  title: Cat's Cradle of Kindness
   url: https://www.lds.org/general-conference/1993/04/cats-cradle-of-kindness?lang=eng
   year: 1993
-- article_id: '93905_000_035'
-  item: '032'
+- item: 33
   key: 032-he-maketh-me-to-lie-down-in-green-pastures
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: he-maketh-me-to-lie-down-in-green-pastures
   speaker: Tai Kwok Yuen
-  title: "\u201CHe Maketh Me to Lie Down in Green Pastures\u201D"
+  title: '"He Maketh Me to Lie Down in Green Pastures"'
   url: https://www.lds.org/general-conference/1993/04/he-maketh-me-to-lie-down-in-green-pastures?lang=eng
   year: 1993
-- article_id: '93905_000_036'
-  item: '033'
+- item: 34
   key: 033-come-unto-christ
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: come-unto-christ
   speaker: Lowell D. Wood
   title: Come unto Christ
   url: https://www.lds.org/general-conference/1993/04/come-unto-christ?lang=eng
   year: 1993
-- article_id: '93905_000_037'
-  item: '034'
+- item: 35
   key: 034-back-to-gospel-basics
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: back-to-gospel-basics
   speaker: L. Tom Perry
   title: Back to Gospel Basics
   url: https://www.lds.org/general-conference/1993/04/back-to-gospel-basics?lang=eng
   year: 1993
-- article_id: '93905_000_038'
-  item: '035'
+- item: 36
   key: 035-a-prophets-testimony
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-prophets-testimony
   speaker: Gordon B. Hinckley
-  title: "\u201CA Prophet\u2019s Testimony\u201D"
+  title: '"A Prophet''s Testimony"'
   url: https://www.lds.org/general-conference/1993/04/a-prophets-testimony?lang=eng
   year: 1993
 month: 4

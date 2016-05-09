@@ -25,11 +25,11 @@ that most basic, physical, biological need. It was a temptation of the senses,
 an appeal to appetite, and in many ways the most common and most dangerous of
 the devil's allurements. "If thou be the Son of God," he said, "command that
 these stones be made bread." ([Matt.
-4:3](https://www.lds.org/scriptures/nt/matt/4.3?lang=eng#2).) During the long
-weeks of seclusion, the Savior had been sustained by the exaltation of spirit
-that would naturally accompany such meditation, prayer, and communion with the
-heavens. In such a devoted spirit, bodily appetites were subdued and
-superceded, but now the demands of the flesh were inevitable.
+4:3](/scriptures/nt/matt/4.3?lang=eng#2).) During the long weeks of seclusion,
+the Savior had been sustained by the exaltation of spirit that would naturally
+accompany such meditation, prayer, and communion with the heavens. In such a
+devoted spirit, bodily appetites were subdued and superceded, but now the
+demands of the flesh were inevitable.
 
 Satan was not simply tempting Jesus to eat. Had he suggested, "Go down out of
 this wilderness and obtain food from the bread maker," there would have been
@@ -40,7 +40,7 @@ turn stones into bread miraculously, instantaneously, without waiting or
 postponing physical gratification. His reply to the tempter was crystal clear:
 "It is written, Man shall not live by bread alone, but by every word that
 proceedeth out of the mouth of God." ([Matt.
-4:4](https://www.lds.org/scriptures/nt/matt/4.4?lang=eng#3).)
+4:4](/scriptures/nt/matt/4.4?lang=eng#3).)
 
 Then followed the second temptation. Realizing that he had utterly failed in
 his attempt to induce Jesus to use his divine powers for personal, physical
@@ -53,8 +53,8 @@ people below, and quoted scripture:
 "If thou be the Son of God, cast thyself down: for it is written, He shall
 give his angels charge concerning thee: and in their hands they shall bear
 thee up, lest at any time thou dash thy foot against a stone." ([Matt.
-4:6](https://www.lds.org/scriptures/nt/matt/4.6?lang=eng#5); see also [Ps.
-91:11-12](https://www.lds.org/scriptures/ot/ps/91.11-12?lang=eng#10).)
+4:6](/scriptures/nt/matt/4.6?lang=eng#5); see also [Ps.
+91:11-12](/scriptures/ot/ps/91.11-12?lang=eng#10).)
 
 There lurked in this appeal from Satan another temptation of the human side of
 mortal nature--the temptation to perform some dazzling feat, some astounding
@@ -67,9 +67,9 @@ Judaea and cause many to believe that the Messiah had indeed come. But faith
 is to precede the miracle; miracles are not to precede the faith. Jesus, of
 course, answered scripture for scripture by replying, "It is written again,
 Thou shalt not tempt the Lord thy God." ([Matt.
-4:7](https://www.lds.org/scriptures/nt/matt/4.7?lang=eng#6); see also [Deut.
-6:16](https://www.lds.org/scriptures/ot/deut/6.16?lang=eng#15).) Once more the
-purposes of Satan were thwarted and Christ became the victor.
+4:7](/scriptures/nt/matt/4.7?lang=eng#6); see also [Deut.
+6:16](/scriptures/ot/deut/6.16?lang=eng#15).) Once more the purposes of Satan
+were thwarted and Christ became the victor.
 
 In his third temptation, the devil casts away all subtlety and scripture and
 all deviousness and disguise. Now he staked everything on a blunt, bold
@@ -80,48 +80,45 @@ offered them all to Jesus--to him who had lived as a modest village carpenter.
 
 With wealth, splendor, and earthly glory spread before them, Satan said unto
 him, "All these things will I give thee, if thou wilt fall down and worship
-me." ([Matt. 4:9](https://www.lds.org/scriptures/nt/matt/4.9?lang=eng#8).) In
-a final ploy Satan was falling back on one of his false but fundamental
-propositions, one which resulted in his leading one-third of the hosts from
-heaven and continues to direct his miserable efforts against the children of
-men here on earth. It is the proposition that everyone has a price, that
-material things finally matter most, that ultimately you can buy anything in
-this world for money.
+me." ([Matt. 4:9](/scriptures/nt/matt/4.9?lang=eng#8).) In a final ploy Satan
+was falling back on one of his false but fundamental propositions, one which
+resulted in his leading one-third of the hosts from heaven and continues to
+direct his miserable efforts against the children of men here on earth. It is
+the proposition that everyone has a price, that material things finally matter
+most, that ultimately you can buy anything in this world for money.
 
 Jesus knew that if he were faithful to his Father and obedient to every
 commandment, he would inherit "all that [the] Father hath" ([D&amp;C
-84:38](https://www.lds.org/scriptures/dc-testament/dc/84.38?lang=eng#37))--and
-so would any other son or daughter of God. The surest way to lose the
-blessings of time or eternity is to accept them on Satan's terms. Lucifer
-seemed to have forgotten that this was the Man who would later preach, "For
-what shall it profit a man, if he shall gain the whole world, and lose his own
-soul?"
+84:38](/scriptures/dc-testament/dc/84.38?lang=eng#37))--and so would any other
+son or daughter of God. The surest way to lose the blessings of time or
+eternity is to accept them on Satan's terms. Lucifer seemed to have forgotten
+that this was the Man who would later preach, "For what shall it profit a man,
+if he shall gain the whole world, and lose his own soul?"
 
 "Or what shall a man give in exchange for his soul?" ([Mark
-8:36-37](https://www.lds.org/scriptures/nt/mark/8.36-37?lang=eng#35).)
+8:36-37](/scriptures/nt/mark/8.36-37?lang=eng#35).)
 
 In power and dignity, Jesus commanded, "Get thee hence, Satan: for it is
 written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
-([Matt. 4:10](https://www.lds.org/scriptures/nt/matt/4.10?lang=eng#9).)
-Anguished and defeated Satan turned and went away. "And when the devil had
-ended all the temptation," Luke adds, "he departed from him for a season."
-([Luke 4:13](https://www.lds.org/scriptures/nt/luke/4.13?lang=eng#12).)
-Matthew tells us that "angels came and ministered unto him." ([Matt.
-4:11](https://www.lds.org/scriptures/nt/matt/4.11?lang=eng#10).)
+([Matt. 4:10](/scriptures/nt/matt/4.10?lang=eng#9).) Anguished and defeated
+Satan turned and went away. "And when the devil had ended all the temptation,"
+Luke adds, "he departed from him for a season." ([Luke
+4:13](/scriptures/nt/luke/4.13?lang=eng#12).) Matthew tells us that "angels
+came and ministered unto him." ([Matt.
+4:11](/scriptures/nt/matt/4.11?lang=eng#10).)
 
 As with Jesus, so with us, relief comes and miracles are enjoyed after the
 trial and temptation of our faith. There is, of course, running through all of
 these temptations, Satan's insidious suggestion that Jesus was not the Son of
 God, the doubt implied in the tempter's repeated use of the word if. "If thou
 be the Son of God, command that these stones be made bread." ([Matt.
-4:3](https://www.lds.org/scriptures/nt/matt/4.3?lang=eng#2).) "If thou be the
-Son of God, cast thyself down." ([Matt.
-4:6](https://www.lds.org/scriptures/nt/matt/4.6?lang=eng#5).) These, of
+4:3](/scriptures/nt/matt/4.3?lang=eng#2).) "If thou be the Son of God, cast
+thyself down." ([Matt. 4:6](/scriptures/nt/matt/4.6?lang=eng#5).) These, of
 course, were foreshadows of that final, desperate temptation which would come
 three years later: "If thou be the Son of God, come down from the cross."
-([Matt. 27:40](https://www.lds.org/scriptures/nt/matt/27.40?lang=eng#39).) But
-Jesus patiently withstood that ploy also, knowing in due time every knee would
-bow and every tongue confess.
+([Matt. 27:40](/scriptures/nt/matt/27.40?lang=eng#39).) But Jesus patiently
+withstood that ploy also, knowing in due time every knee would bow and every
+tongue confess.
 
 It was not necessary then, or ever, for Jesus to satisfy the curiosity of men,
 least of all unholy men. So as victory in every encounter came to Jesus, the
@@ -144,13 +141,13 @@ have been stripped of his very agency. It was he who had come to safeguard and
 ensure the agency of man. He had to retain the capacity and ability to sin had
 he willed so to do. As Paul wrote, "Though he were a Son, yet learned he
 obedience by the things which he suffered" ([Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7)); and he "was in
-all points tempted like as we are, yet without sin" ([Heb.
-4:15](https://www.lds.org/scriptures/nt/heb/4.15?lang=eng#14)). He was perfect
-and sinless, not because he had to be, but rather because he clearly and
-determinedly wanted to be. As the Doctrine and Covenants records, "He suffered
-temptations but gave no heed unto them." ([D&amp;C
-20:22](https://www.lds.org/scriptures/dc-testament/dc/20.22?lang=eng#21).)
+5:8](/scriptures/nt/heb/5.8?lang=eng#7)); and he "was in all points tempted
+like as we are, yet without sin" ([Heb.
+4:15](/scriptures/nt/heb/4.15?lang=eng#14)). He was perfect and sinless, not
+because he had to be, but rather because he clearly and determinedly wanted to
+be. As the Doctrine and Covenants records, "He suffered temptations but gave
+no heed unto them." ([D&amp;C 20:22](/scriptures/dc-
+testament/dc/20.22?lang=eng#21).)
 
 What about us? We live in a world of temptation--temptation that seems more
 real and oppressively rampant than any since the days of Noah. Are we
@@ -191,8 +188,10 @@ anointest my head with oil; my cup runneth over.
 
 "Surely goodness and mercy shall follow me all the days of my life: and I will
 dwell in the house of the Lord for ever." ([Ps.
-23:4-6](https://www.lds.org/scriptures/ot/ps/23.4-6?lang=eng#3).)
+23:4-6](/scriptures/ot/ps/23.4-6?lang=eng#3).)
 
 May this be our destiny, I pray in the name of our Lord and Master, Jesus
 Christ. Amen.
+
+## References
 

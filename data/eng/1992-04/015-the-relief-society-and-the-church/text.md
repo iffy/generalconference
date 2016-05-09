@@ -72,12 +72,11 @@ Reconciliations, _Salt Lake City: Bookcraft, 1987, p. 308.)
 That commission included teaching. In a revelation given in 1830, the Lord
 told Emma Smith that the Prophet would authorize her "to expound scriptures,
 and to exhort the church, according as it shall be given thee by my Spirit."
-([D&amp;C 25:7](https://www.lds.org/scriptures/dc-
-testament/dc/25.7?lang=eng#6).) When she was later selected to lead the Relief
-Society, her prophet husband referred to this revelation that she would
-"expound the scriptures to all" and "teach the female part of the community."
-He declared "that not she alone, but others, may attain to the same
-blessings." (Minutes, 17 Mar. 1842, p. 8.)
+([D&amp;C 25:7](/scriptures/dc-testament/dc/25.7?lang=eng#6).) When she was
+later selected to lead the Relief Society, her prophet husband referred to
+this revelation that she would "expound the scriptures to all" and "teach the
+female part of the community." He declared "that not she alone, but others,
+may attain to the same blessings." (Minutes, 17 Mar. 1842, p. 8.)
 
 Succeeding Presidents of the Church have reemphasized this important duty to
 teach, and the leaders and teachers of the Relief Society have fulfilled this
@@ -111,7 +110,7 @@ organized First Presidency "how you may act before me, that it may turn to you
 for your salvation.
 
 "I, the Lord, am bound when ye do what I say; but when ye do not what I say,
-ye have no promise." ([D&amp;C 82:9-10](https://www.lds.org/scriptures/dc-
+ye have no promise." ([D&amp;C 82:9-10](/scriptures/dc-
 testament/dc/82.9-10?lang=eng#8).) The Relief Society's promised blessings
 were dependent upon its leaders and members functioning within the limits the
 Lord had set.
@@ -124,8 +123,8 @@ furthered the direction in the earlier revelation on priesthood, which
 declared that all "authorities or offices in the church are appendages" to the
 Melchizedek Priesthood and that this priesthood "holds the right of
 presidency, and has power and authority over all the offices in the church in
-all ages of the world." ([D&amp;C 107:5, 8](https://www.lds.org/scriptures/dc-
-testament/dc/107.5%2C8?lang=eng#4).) Consequently, the Relief Society and the
+all ages of the world." ([D&amp;C 107:5, 8](/scriptures/dc-
+testament/dc/107.5,8?lang=eng#4).) Consequently, the Relief Society and the
 auxiliaries organized later have always functioned and have thrived under the
 direction of the presiding authorities of the priesthood.
 
@@ -254,8 +253,8 @@ will prosper and individual lives will be blessed." (_Melchizedek Priesthood
 Leadership Handbook, _1990, p. 2.)
 
 Only by unity can we follow the way of the Lord, who said, "Be one; and if ye
-are not one ye are not mine." ([D&amp;C 38:27](https://www.lds.org/scriptures
-/dc-testament/dc/38.27?lang=eng#26).)
+are not one ye are not mine." ([D&amp;C 38:27](/scriptures/dc-
+testament/dc/38.27?lang=eng#26).)
 
 One of the great functions of Relief Society is to provide sisterhood for
 women, just as priesthood quorums provide brotherhood for men. But all should
@@ -265,15 +264,16 @@ and highest expression of womanhood and manhood is in the new and everlasting
 covenant of marriage between a man and a woman. Only this relationship
 culminates in exaltation. As the Apostle Paul taught, "Neither is the man
 without the woman, neither the woman without the man, in the Lord." ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10).) Thus, the
-common objective of brotherhood in our priesthood quorums and sisterhood in
-our Relief Societies is to bring men and women together in the sacred marriage
-and family relationships that lead toward eternal life, "the greatest of all
-the gifts of God." ([D&amp;C 14:7](https://www.lds.org/scriptures/dc-
-testament/dc/14.7?lang=eng#6).)
+11:11](/scriptures/nt/1-cor/11.11?lang=eng#10).) Thus, the common objective of
+brotherhood in our priesthood quorums and sisterhood in our Relief Societies
+is to bring men and women together in the sacred marriage and family
+relationships that lead toward eternal life, "the greatest of all the gifts of
+God." ([D&amp;C 14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).)
 
 We give thanks for the Savior who made this great goal attainable, for His
 priesthood authority that administers the essential ordinances, and for the
 great men and women whose lives are an inspiring legacy of godly service. In
 the name of Jesus Christ, amen.
+
+## References
 

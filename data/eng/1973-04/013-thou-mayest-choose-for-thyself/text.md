@@ -37,8 +37,7 @@ that he should be cast down;
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
 not hearken unto _my_ voice." ([Moses
-4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2). Italics
-added.)
+4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2). Italics added.)
 
 At that time, Satan, with his followers, committed himself to destroy our free
 agency and the cause of righteousness. He began his nefarious work in the
@@ -49,13 +48,11 @@ forbidden fruit. God had said:
 
 "But of the tree of the knowledge of good and evil, thou shalt not eat of _it,
 _nevertheless, _thou mayest choose for thyself, _for it is given unto thee. ..."
-([Moses
-3:16-17](https://www.lds.org/scriptures/pgp/moses/3.16-17?lang=eng#15).
-Italics added.)
+([Moses 3:16-17](/scriptures/pgp/moses/3.16-17?lang=eng#15). Italics added.)
 
 While Satan is determined to destroy us, the Savior says: "... this is my work
 and my glory--to bring to pass the immortality and eternal life of man."
-([Moses 1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 He gave his life so that all mankind might enjoy immortality; and through his
 gospel and the teachings of the prophets, both ancient and modern, we are
@@ -72,8 +69,8 @@ scriptures tell us:
 "And ... he ... leadeth them along until he draggeth their souls down to hell; ...
 
 "And thus he goeth up and down, to and fro in the earth, seeking to destroy
-the souls of men." ([D&amp;C 10:22-23, 26-27](https://www.lds.org/scriptures
-/dc-testament/dc/10.22-23%2C26-27?lang=eng#21).)
+the souls of men." ([D&amp;C 10:22-23, 26-27](/scriptures/dc-
+testament/dc/10.22-23,26-27?lang=eng#21).)
 
 The reality of Satan and the power and influence he wields have been evident
 since that first temptation in the Garden of Eden. He influenced Cain to slay
@@ -116,10 +113,9 @@ On the other hand, we have the examples of Joseph, who was sold into Egypt; of
 Moses, who led the Israelites from bondage; of Daniel, through whom the Lord
 gave marvelous prophecies and predictions and of whom it was said, as he was
 taken from the lion's den: "... no manner of hurt was found upon him, because he
-believed in his God." ([Dan.
-6:23](https://www.lds.org/scriptures/ot/dan/6.23?lang=eng#22).) They, with
-many others, had the courage to say no to temptation and to choose the right,
-and thereby save themselves and their people from destruction.
+believed in his God." ([Dan. 6:23](/scriptures/ot/dan/6.23?lang=eng#22).)
+They, with many others, had the courage to say no to temptation and to choose
+the right, and thereby save themselves and their people from destruction.
 
 Self-discipline is essential in helping us make proper choices. It is much
 easier to drift than to row, to slide downhill than to climb up. Satan is
@@ -150,8 +146,8 @@ gift of the Holy Ghost by the laying on of the hands, when eight years old,
 the sin be upon the heads of the parents.
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord." ([D&amp;C 68:25, 28](https://www.lds.org/scriptures/dc-
-testament/dc/68.25%2C28?lang=eng#24).)
+before the Lord." ([D&amp;C 68:25, 28](/scriptures/dc-
+testament/dc/68.25,28?lang=eng#24).)
 
 Children do not learn by themselves how to distinguish right from wrong.
 Parents have to determine the child's readiness to assume responsibility and
@@ -266,19 +262,19 @@ which are expedient unto man. And they are free to choose liberty and eternal
 life, through the great mediation of all men, or to choose captivity and
 death, according to the captivity and power of the devil; for he seeketh that
 all men might be miserable like unto himself." ([2 Ne. 2:11, 16,
-27](https://www.lds.org/scriptures/bofm/2-ne/2.11%2C16%2C27?lang=eng#10).)
+27](/scriptures/bofm/2-ne/2.11,16,27?lang=eng#10).)
 
 Men are not created to be miserable, for "men are, that they might have joy."
-([2 Ne. 2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).) To
-assist us and guide us in our choices, to counteract the forces of Satan, and
-to give us the joy and happiness for which we are all seeking, God has seen
-fit through his Son Jesus Christ to reestablish upon the earth in these, the
-latter days, his church and kingdom, with the restored gospel in its fullness.
-He has reestablished the priesthood, which is the power to act in God's name,
-with a prophet through whom God speaks to direct us. I join with thousands of
-others in bearing witness to all the world that the gospel alone offers the
-only true way to happiness and peace which passeth understanding, and eternal
-life to all who will accept it and _keep the commandments._
+([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).) To assist us and guide
+us in our choices, to counteract the forces of Satan, and to give us the joy
+and happiness for which we are all seeking, God has seen fit through his Son
+Jesus Christ to reestablish upon the earth in these, the latter days, his
+church and kingdom, with the restored gospel in its fullness. He has
+reestablished the priesthood, which is the power to act in God's name, with a
+prophet through whom God speaks to direct us. I join with thousands of others
+in bearing witness to all the world that the gospel alone offers the only true
+way to happiness and peace which passeth understanding, and eternal life to
+all who will accept it and _keep the commandments._
 
 Yes, every day of our lives we are determining by our choices whether we shall
 reap good or evil, whether salvation or destruction, whether eternal life with
@@ -306,4 +302,6 @@ blessings.
 "Nevertheless, thou mayest choose for thyself."
 
 May we choose wisely, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

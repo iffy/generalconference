@@ -2,12 +2,12 @@
 
 On one occasion a group of Pharisees confronted the Savior and demanded to
 know when the kingdom of God would come upon the earth. (See [Luke
-17:20](https://www.lds.org/scriptures/nt/luke/17.20?lang=eng#19).) Their
-tradition had taught them that God's kingdom would be impressive in its
-demonstration of power and in its earthly dominion. Their question, therefore,
-was a challenge to the Lord's assertion that when the kingdom of God was
-established on the earth, it would not be as other earthly kingdoms. (See
-[John 18:36](https://www.lds.org/scriptures/nt/john/18.36?lang=eng#35).)
+17:20](/scriptures/nt/luke/17.20?lang=eng#19).) Their tradition had taught
+them that God's kingdom would be impressive in its demonstration of power and
+in its earthly dominion. Their question, therefore, was a challenge to the
+Lord's assertion that when the kingdom of God was established on the earth, it
+would not be as other earthly kingdoms. (See [John
+18:36](/scriptures/nt/john/18.36?lang=eng#35).)
 
 The Master's response on this occasion teaches a significant lesson regarding
 the real source of power and influence within his kingdom. He answered, "The
@@ -15,7 +15,7 @@ kingdom of God cometh not with observation:
 
 "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of
 God is within you." ([Luke
-17:20-21](https://www.lds.org/scriptures/nt/luke/17.20-21?lang=eng#19).)
+17:20-21](/scriptures/nt/luke/17.20-21?lang=eng#19).)
 
 The Savior attempted to impress his questioners with the fact that the real
 power in the kingdom of God is not represented in outwardly observable things.
@@ -111,7 +111,7 @@ While acknowledging that The Church of Jesus Christ of Latter-day Saints is
 unto the church collectively and not individually," the Lord expressed a
 reservation about the individual members and explained, "For I the Lord cannot
 look upon sin with the least degree of allowance." ([D&amp;C
-1:30-31](https://www.lds.org/scriptures/dc-testament/dc/1.30-31?lang=eng#29).)
+1:30-31](/scriptures/dc-testament/dc/1.30-31?lang=eng#29).)
 
 At another time he warned those of his church:
 
@@ -123,8 +123,8 @@ the Lord;
 
 "First among those among you, saith the Lord, who have professed to know my
 name and have not known me, and have blasphemed against me in the midst of my
-house, saith the Lord." ([D&amp;C 112:24-26](https://www.lds.org/scriptures
-/dc-testament/dc/112.24-26?lang=eng#23).)
+house, saith the Lord." ([D&amp;C 112:24-26](/scriptures/dc-
+testament/dc/112.24-26?lang=eng#23).)
 
 In this time of impressive Church growth, it is well for us to look within our
 own souls to assess our individual spiritual vital signs. Too frequently
@@ -157,8 +157,8 @@ and I know his kingdom will prevail, but I tremble as I read his declaration
 to us:
 
 "For this is a day of warning, and not a day of many words. For I, the Lord,
-am not to be mocked in the last days." ([D&amp;C
-63:58](https://www.lds.org/scriptures/dc-testament/dc/63.58?lang=eng#57).)
+am not to be mocked in the last days." ([D&amp;C 63:58](/scriptures/dc-
+testament/dc/63.58?lang=eng#57).)
 
 The enduring strength of the kingdom is not to be found in the number of its
 members, the rate of its growth, or the beauty of its buildings. In God's
@@ -171,4 +171,6 @@ himself.
 It is a time for us to assess our own spiritual vital signs in those essential
 areas that take us beyond the information on the charts. "For, behold, the
 kingdom of God is within you." In the name of Jesus Christ, amen.
+
+## References
 

@@ -35,3 +35,5 @@ general officers of the Church as at present constituted.
 All in favor manifest it by the uplifted hand. Any opposed may so manifest it.
 Thank you.
 
+## References
+

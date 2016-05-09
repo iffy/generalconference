@@ -68,8 +68,8 @@ power can be with you as well.
 Let me teach you some very basic things about the Aaronic Priesthood.
 
 It "is called the Priesthood of Aaron, because it was conferred upon Aaron and
-his seed, throughout all their generations." ([D&amp;C
-107:13](https://www.lds.org/scriptures/dc-testament/dc/107.13?lang=eng#12).)
+his seed, throughout all their generations." ([D&amp;C 107:13](/scriptures/dc-
+testament/dc/107.13?lang=eng#12).)
 
 The Aaronic Priesthood goes by other names as well. Let me list them and tell
 you what they mean.
@@ -80,7 +80,7 @@ First, the Aaronic Priesthood is sometimes called the lesser priesthood.
 
 "Why it is called the lesser priesthood is because it is an appendage to the
 greater, or the Melchizedek Priesthood, and has power in administering outward
-ordinances." ([D&amp;C 107:14](https://www.lds.org/scriptures/dc-
+ordinances." ([D&amp;C 107:14](/scriptures/dc-
 testament/dc/107.14?lang=eng#13).)
 
 This means that the higher priesthood, the Melchizedek Priesthood, _always_
@@ -90,10 +90,10 @@ over Aaron because Moses held the Melchizedek Priesthood.
 
 The fact that it is called the lesser priesthood does not diminish at all the
 importance of the Aaronic Priesthood. The Lord said it is necessary to the
-Melchizedek Priesthood. (See [D&amp;C 84:29](https://www.lds.org/scriptures
-/dc-testament/dc/84.29?lang=eng#28).) Any holder of the higher priesthood
-should feel greatly honored to perform the ordinances of the Aaronic
-Priesthood, for they have great spiritual importance.
+Melchizedek Priesthood. (See [D&amp;C 84:29](/scriptures/dc-
+testament/dc/84.29?lang=eng#28).) Any holder of the higher priesthood should
+feel greatly honored to perform the ordinances of the Aaronic Priesthood, for
+they have great spiritual importance.
 
 I have, as a member of the Quorum of the Twelve Apostles, passed the
 sacrament. I assure you I have felt honored and humbled beyond expression to
@@ -142,7 +142,7 @@ Priesthood, prepared the way for the coming of the Lord in ancient times. He
 came also to restore the Aaronic Priesthood to the Prophet Joseph Smith and
 Oliver Cowdery to prepare for the coming of the higher priesthood. The Lord
 Himself said that there "hath not risen a greater than John the Baptist."
-([Matt. 11:11](https://www.lds.org/scriptures/nt/matt/11.11?lang=eng#10).)
+([Matt. 11:11](/scriptures/nt/matt/11.11?lang=eng#10).)
 
 You would do well to watch your fathers and your leaders, to study how the
 Melchizedek Priesthood works. You are preparing to join the elders, seventies,
@@ -172,25 +172,21 @@ are in your teenage years. The fourth office, that of bishop, may come to you
 when you are mature and worthy to become a high priest as well.
 
 The deacon is to watch over the church as a standing minister. (See [D&amp;C
-84:111](https://www.lds.org/scriptures/dc-testament/dc/84.111?lang=eng#110);
-[D&amp;C 20:57-59](https://www.lds.org/scriptures/dc-
-testament/dc/20.57-59?lang=eng#56).) The quorum consists of twelve deacons.
-(See [D&amp;C 107:85](https://www.lds.org/scriptures/dc-
+84:111](/scriptures/dc-testament/dc/84.111?lang=eng#110); [D&amp;C
+20:57-59](/scriptures/dc-testament/dc/20.57-59?lang=eng#56).) The quorum
+consists of twelve deacons. (See [D&amp;C 107:85](/scriptures/dc-
 testament/dc/107.85?lang=eng#84).)
 
 The teacher is to "watch over the church always, and be with and strengthen
-them." ([D&amp;C 20:53](https://www.lds.org/scriptures/dc-
-testament/dc/20.53?lang=eng#52).) The teachers quorum numbers twenty-four.
-(See [D&amp;C 107:86](https://www.lds.org/scriptures/dc-
+them." ([D&amp;C 20:53](/scriptures/dc-testament/dc/20.53?lang=eng#52).) The
+teachers quorum numbers twenty-four. (See [D&amp;C 107:86](/scriptures/dc-
 testament/dc/107.86?lang=eng#85).)
 
 The priest is to "preach, teach, expound, exhort, and baptize, and administer
 the sacrament, and visit the house of each member." ([D&amp;C
-20:46-47](https://www.lds.org/scriptures/dc-
-testament/dc/20.46-47?lang=eng#45).) The priests quorum numbers forty-eight.
-The bishop is the president of the priests quorum. (See [D&amp;C
-107:87-88](https://www.lds.org/scriptures/dc-
-testament/dc/107.87-88?lang=eng#86).)
+20:46-47](/scriptures/dc-testament/dc/20.46-47?lang=eng#45).) The priests
+quorum numbers forty-eight. The bishop is the president of the priests quorum.
+(See [D&amp;C 107:87-88](/scriptures/dc-testament/dc/107.87-88?lang=eng#86).)
 
 You always hold one of these offices. When you receive the next higher office,
 you still retain the authority of the first. For instance, when you become a
@@ -245,7 +241,7 @@ it, are permanent.
 
 One more thing: You can receive the priesthood only from one who has the
 authority and "it is known to the church that he has authority." ([D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10).)
+42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10).)
 
 The priesthood cannot be conferred like a diploma. It cannot be handed to you
 as a certificate. It cannot be delivered to you as a message or sent to you in
@@ -336,8 +332,7 @@ John the Baptist restored the Aaronic Priesthood with these words:
 "Upon you my fellow servants, in the name of Messiah I confer the Priesthood
 of Aaron, which holds the keys of the ministering of angels, and of the gospel
 of repentance, and of baptism by immersion for the remission of sins."
-([D&amp;C 13](https://www.lds.org/scriptures/dc-
-testament/dc/13.title?lang=eng).)
+([D&amp;C 13](/scriptures/dc-testament/dc/13?lang=eng).)
 
 You--our deacons, teachers, and priests--have been given sacred authority. May
 the angels minister unto you. May the power of the priesthood be upon you, our
@@ -345,4 +340,6 @@ beloved young brethren, and upon your sons throughout the generations ahead. I
 bear witness that the gospel is true, that the priesthood holds great power, a
 guiding, protecting power for those who hold the Aaronic Priesthood. In the
 name of Jesus Christ, amen.
+
+## References
 

@@ -27,8 +27,8 @@ excellent address on the correct name of the Church. He quoted the words of
 the Lord Himself:
 
 "Thus shall my church be called in the last days, even The Church of Jesus
-Christ of Latter-day Saints." ([D&amp;C 115:4](https://www.lds.org/scriptures
-/dc-testament/dc/115.4?lang=eng#3).)
+Christ of Latter-day Saints." ([D&amp;C 115:4](/scriptures/dc-
+testament/dc/115.4?lang=eng#3).)
 
 He then went on to discourse on the various elements of that name. I commend
 to you a rereading of his talk.
@@ -86,9 +86,9 @@ May I remind you for a moment of the greatness and of the goodness of this man
 Mormon. He lived on this American continent in the fourth century after
 Christ. When he was a boy of ten the historian of the people, whose name was
 Ammaron, described Mormon as "a sober child, and ... quick to observe." ([Morm.
-1:2](https://www.lds.org/scriptures/bofm/morm/1.2?lang=eng#1).) Ammaron gave
-him a charge that when he reached the age of twenty-four, he was to take
-custody of the records of the generations who had preceded him.
+1:2](/scriptures/bofm/morm/1.2?lang=eng#1).) Ammaron gave him a charge that
+when he reached the age of twenty-four, he was to take custody of the records
+of the generations who had preceded him.
 
 The years that followed Mormon's childhood were years of terrible bloodshed
 for his nation, the result of a long and vicious and terrible war between
@@ -103,8 +103,7 @@ had been legions, he cried:
 
 "O ye fair ones, how could ye have departed from the ways of the Lord! O ye
 fair ones, how could ye have rejected that Jesus, who stood with open arms to
-receive you!" ([Morm.
-6:17](https://www.lds.org/scriptures/bofm/morm/6.17?lang=eng#16).)
+receive you!" ([Morm. 6:17](/scriptures/bofm/morm/6.17?lang=eng#16).)
 
 He wrote to our generation with words of warning and pleading, proclaiming
 with eloquence his testimony of the resurrected Christ. He warned of
@@ -115,8 +114,7 @@ Knowing that his own life would soon be brought to an end, as his enemies
 hunted the survivors, he pleaded for our generation to walk with faith, hope,
 and charity, declaring: "Charity is the pure love of Christ, and it endureth
 forever; and whoso is found possessed of it at the last day, it shall be well
-with him." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).)
+with him." ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).)
 
 Such was the goodness, the strength, the power, the faith, the prophetic heart
 of the prophet-leader Mormon.
@@ -308,7 +306,7 @@ that we are the kind of people others appreciate.
 May God grant us the strength and the discipline so to conduct our lives as to
 follow more nearly the matchless example of the Redeemer, of whom it was said,
 He "went about doing good." ([Acts
-10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).)
+10:38](/scriptures/nt/acts/10.38?lang=eng#37).)
 
 I testify of His living reality. I testify of the reality of God, our Eternal
 Father. I testify of the restoration of the gospel of Jesus Christ in this the
@@ -318,4 +316,6 @@ will compliment us, if we will live worthy of the name, remembering that in a
 very real sense _Mormonism_ must mean that greater _good_ which the Lord Jesus
 Christ exemplified. I so pray in His holy name, even the name of Jesus Christ,
 amen.
+
+## References
 

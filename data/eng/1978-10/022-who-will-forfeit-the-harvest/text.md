@@ -28,7 +28,7 @@ they withered away.
 "But he that received seed into the good ground is he that heareth the word,
 and understandeth it; which also beareth fruit, and bringeth forth, some an
 hundredfold, some sixty, some thirty." ([Matt. 13:3-6,
-23](https://www.lds.org/scriptures/nt/matt/13.3-6%2C23?lang=eng#2).)
+23](/scriptures/nt/matt/13.3-6,23?lang=eng#2).)
 
 The promise of the harvest is there for those who receive the seed unto good
 ground and establish roots that are strong.
@@ -44,10 +44,10 @@ man this wisdom, and these mighty works?
 _"Is not this the carpenter's son?_ is not his mother called Mary? ...
 
 "are they not all with us?" ([Matt.
-13:54-56](https://www.lds.org/scriptures/nt/matt/13.54-56?lang=eng#53);
-italics added.) They were mightily impressed, even astonished, at his words
-and works, but had difficulty accepting the source. "Is not this the
-carpenter's son? ... are they not all with us?"
+13:54-56](/scriptures/nt/matt/13.54-56?lang=eng#53); italics added.) They were
+mightily impressed, even astonished, at his words and works, but had
+difficulty accepting the source. "Is not this the carpenter's son? ... are they
+not all with us?"
 
 Today some are sowing seeds on stony places because they, too, doubt the
 authority of those who give counsel and direction. There is a tendency on the
@@ -56,8 +56,7 @@ _human delivery system._ Some will not accept Jesus Christ as the Savior
 because they are waiting for a Prince of Peace to come who is not quite as
 human as Jesus of Nazareth. Questions such as, "Is not this the carpenter's
 son?" "Is not this the one born in a manger?" "Can any good ... come out of
-Nazareth?" ([John
-1:46](https://www.lds.org/scriptures/nt/john/1.46?lang=eng#45)) are evidences
+Nazareth?" ([John 1:46](/scriptures/nt/john/1.46?lang=eng#45)) are evidences
 of the weakness of men who are unwilling to accept the human qualities of
 those who are called and raised up to give direction and counsel.
 
@@ -75,8 +74,7 @@ We read in Matthew:
 without honour, save in his own country, and in his own house.
 
 "And he did _not_ many mighty works there because of their unbelief." ([Matt.
-13:57-58](https://www.lds.org/scriptures/nt/matt/13.57-58?lang=eng#56);
-italics added.)
+13:57-58](/scriptures/nt/matt/13.57-58?lang=eng#56); italics added.)
 
 The concept that "a prophet is not without honour, save in his own country,
 and in his own house" was a tragedy for these Galilean people. Shortly after
@@ -115,16 +113,15 @@ value of the truths which they shared.
 Safety can be assured for us if "we believe all that God has revealed, all
 that He does now reveal, and we believe that He will yet reveal many great and
 important things pertaining to the Kingdom of God" ([A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8)). May I add,
-these revelations will come through people--even the prophets with human
-qualities.
+1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8)). May I add, these revelations
+will come through people--even the prophets with human qualities.
 
 2\. _Unwillingness to accept change._ If we are unable to accept change, in
 the language of the parable of the sower, we are those with no root.
 
 "Yet hath he not root in himself, but dureth for a while: for when tribulation
 or persecution ariseth because of the word, by and by he is offended" ([Matt.
-13:21](https://www.lds.org/scriptures/nt/matt/13.21?lang=eng#20)).
+13:21](/scriptures/nt/matt/13.21?lang=eng#20)).
 
 If our roots are deep, we will welcome continuing revelation, change, and
 direction. We will develop the ability to accept releases, callings, and new
@@ -210,12 +207,12 @@ and townspeople had not let him "come home," even in a gospel sense.
 harvest because they will not be obedient. "Hearing they hear not, neither do
 they understand" is the description the parable of the sower uses to describe
 those who fall into this vulnerable territory ([Matt.
-13:13](https://www.lds.org/scriptures/nt/matt/13.13?lang=eng#12)).
+13:13](/scriptures/nt/matt/13.13?lang=eng#12)).
 
 "And some fell among thorns; and the thorns sprung up, and choked them"
-([Matt. 13:7](https://www.lds.org/scriptures/nt/matt/13.7?lang=eng#6)). We,
-too, will fall among the thorns and be led away from our promised blessings if
-we fail in obedience.
+([Matt. 13:7](/scriptures/nt/matt/13.7?lang=eng#6)). We, too, will fall among
+the thorns and be led away from our promised blessings if we fail in
+obedience.
 
 I was very impressed a few days ago when I heard an eager, reactivated elder
 say, "I'm back in the Church and active today because my elders quorum
@@ -224,13 +221,12 @@ didn't want to be loved." Here is an elders quorum president obediently doing
 his job as it should be done.
 
 Sometimes when we are asked to be obedient, we do not know why, except the
-Lord has commanded. From [1 Ne.
-9:5](https://www.lds.org/scriptures/bofm/1-ne/9.5?lang=eng#4) we read,
-"Wherefore, the Lord hath commanded me to make these plates for a wise purpose
-in him, which purpose I know not." Nephi followed instructions even though he
-didn't fully understand the wise purpose. His obedience resulted in blessings
-to mankind all over the world. By not obeying our present-day leaders, we
-plant our seeds in stony places and may forfeit the harvest.
+Lord has commanded. From [1 Ne. 9:5](/scriptures/bofm/1-ne/9.5?lang=eng#4) we
+read, "Wherefore, the Lord hath commanded me to make these plates for a wise
+purpose in him, which purpose I know not." Nephi followed instructions even
+though he didn't fully understand the wise purpose. His obedience resulted in
+blessings to mankind all over the world. By not obeying our present-day
+leaders, we plant our seeds in stony places and may forfeit the harvest.
 
 4\. _Unwillingness to be totally committed._ The parable of the sower would
 refer to these as those who have no deepness. They are those without
@@ -241,7 +237,7 @@ place.
 
 "Some fell upon stony places, where they had not much earth: and forthwith
 they sprung up, because they had no _deepness_ of earth" ([Matt.
-13:5](https://www.lds.org/scriptures/nt/matt/13.5?lang=eng#4); italics added).
+13:5](/scriptures/nt/matt/13.5?lang=eng#4); italics added).
 
 Deep and enduring testimonies grow and strengthen as they are daily nurtured.
 They increase as they are shared. Meaningful testimonies have roots planted in
@@ -267,4 +263,6 @@ unwillingness to accept change, (3) unwillingness to follow instructions, and
 (4) unwillingness to be totally committed. By so doing we can establish deep,
 strong roots and thus reap the harvest our Father in Heaven wants for all his
 children. For this I pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -11,8 +11,7 @@ pure in heart that shall come into it shall see God.
 
 "But if it be defiled I will not come into it, and my glory shall not be
 there; for I will not come into unholy temples." ([D&amp;C
-97:15-17](https://www.lds.org/scriptures/dc-
-testament/dc/97.15-17?lang=eng#14).)
+97:15-17](/scriptures/dc-testament/dc/97.15-17?lang=eng#14).)
 
 I want to speak to you today about reverence. While I believe that reverence
 is often exhibited through reverent behaviors, it is not behaviors that
@@ -31,7 +30,7 @@ our Lord, Jesus Christ. Reverence flows from our admiration and respect for
 Deity. Those who are truly reverent are those who have paid the price to know
 the glory of the Father and His Son. As Paul admonished in Hebrews, "Serve God
 acceptably with reverence and godly fear." ([Heb.
-12:28](https://www.lds.org/scriptures/nt/heb/12.28?lang=eng#27).)
+12:28](/scriptures/nt/heb/12.28?lang=eng#27).)
 
 The story of Alma the Younger provides a wonderful illustration of the
 reverence we feel in our hearts when we come to know God. As a young man, he
@@ -47,7 +46,7 @@ marvelous transformation. He declares: "My soul hath been redeemed from the
 gall of bitterness and bonds of iniquity. I was in the darkest abyss; but now
 I behold the marvelous light of God. My soul was racked with eternal torment;
 but I am snatched, and my soul is pained no more." [[Mosiah
-27:29](https://www.lds.org/scriptures/bofm/mosiah/27.29?lang=eng#28)]
+27:29](/scriptures/bofm/mosiah/27.29?lang=eng#28)]
 
 Then in the thirty-first verse, we see evidence of Alma's deep reverence for
 God: "Yea, every knee shall bow, and every tongue confess before him. Yea,
@@ -55,8 +54,7 @@ even at the last day, when all men shall stand to be judged of him, then shall
 they confess that he is God; then shall they confess, who live without God in
 the world, that the judgment of an everlasting punishment is just upon them;
 and they shall quake, and tremble, and shrink beneath the glance of his all-
-searching eye." [[Mosiah
-27:31](https://www.lds.org/scriptures/bofm/mosiah/27.31?lang=eng#30)]
+searching eye." [[Mosiah 27:31](/scriptures/bofm/mosiah/27.31?lang=eng#30)]
 
 Alma's experience had enabled him to understand the glory of God and also
 "godly fear." He held the deepest respect and veneration for God because he
@@ -187,12 +185,13 @@ his complete and total attention to the Savior. This is the message a reverent
 attitude always conveys, and when reverent attitudes abound, reverent behavior
 will always flourish. I pray that, like Diana, we may all strive to develop
 reverent attitudes so that we may serve God reverently and with godly fear.
-(See [Heb. 12:28](https://www.lds.org/scriptures/nt/heb/12.28?lang=eng#27).)
+(See [Heb. 12:28](/scriptures/nt/heb/12.28?lang=eng#27).)
 
 Let us never depreciate the value of our own personal example of being a
 living witness of the love and respect we have for Him whom we call
 "Wonderful, Counselor, The Mighty God, The Everlasting Father, The Prince of
-Peace" ([2 Ne.
-19:6](https://www.lds.org/scriptures/bofm/2-ne/19.6?lang=eng#5)), is my humble
+Peace" ([2 Ne. 19:6](/scriptures/bofm/2-ne/19.6?lang=eng#5)), is my humble
 prayer in the name of Jesus Christ, amen.
+
+## References
 

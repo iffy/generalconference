@@ -35,15 +35,15 @@ Kimball. Now, as he speaks to us tonight, it is as if the Lord Jesus Christ
 himself were addressing us sisters. Christ made this very clear when he said
 to others of his children a time ago, "Blessed are ye if ye shall give heed
 unto the words of these ... whom I have chosen from among you to minister unto
-you" ([3 Ne. 12:1](https://www.lds.org/scriptures/bofm/3-ne/12.1?lang=eng#0)).
+you" ([3 Ne. 12:1](/scriptures/bofm/3-ne/12.1?lang=eng#0)).
 
 "And whatsoever they shall speak ... shall be the word of the Lord, shall be the
 voice of the Lord, and the power of God unto salvation.
 
-"Behold, this is the promise of the Lord." ([D&amp;C
-68:4-5](https://www.lds.org/scriptures/dc-testament/dc/68.4-5?lang=eng#3).)
-So, President Kimball, with all of our hearts we sisters of the Church sustain
-you, and we shall try to heed your words.
+"Behold, this is the promise of the Lord." ([D&amp;C 68:4-5](/scriptures/dc-
+testament/dc/68.4-5?lang=eng#3).) So, President Kimball, with all of our
+hearts we sisters of the Church sustain you, and we shall try to heed your
+words.
 
 I'm going to share an experience I had with President Kimball to help you
 understand what a choice human being he is, besides a powerful prophet, and
@@ -132,4 +132,6 @@ As each challenge comes to us in life, and as our timetable varies a little
 from what we thought it was going to be, may we be wise enough to find
 ourselves on the Lord's side, getting on and going up with the prophet, I pray
 in the name of Jesus Christ. Amen.
+
+## References
 

@@ -41,14 +41,13 @@ and carry us forward as never before. Let us then not weary in well doing.
 Now, my brothers and sisters, as we move into the last half of the Church's
 second century, let us keep our faith beautifully simple. May we, as Paul
 said, be "wise unto that which is good, and simple concerning evil" ([Rom.
-16:19](https://www.lds.org/scriptures/nt/rom/16.19?lang=eng#18)). Learn to
-recognize evil, and shun it always. May we keep Church programs and
-organizations simple. If we do, we will build to a thrilling and rewarding
-momentum in the days and months and years ahead. The Savior urged his
-followers to be "wise as serpents, and harmless as doves" ([Matt.
-10:16](https://www.lds.org/scriptures/nt/matt/10.16?lang=eng#15)). Let us
-follow that counsel today. Let us so live that if people speak critically of
-us they must do so falsely and without justification.
+16:19](/scriptures/nt/rom/16.19?lang=eng#18)). Learn to recognize evil, and
+shun it always. May we keep Church programs and organizations simple. If we
+do, we will build to a thrilling and rewarding momentum in the days and months
+and years ahead. The Savior urged his followers to be "wise as serpents, and
+harmless as doves" ([Matt. 10:16](/scriptures/nt/matt/10.16?lang=eng#15)). Let
+us follow that counsel today. Let us so live that if people speak critically
+of us they must do so falsely and without justification.
 
 Let us hold fast to the iron rod. The Savior urged us to put our hand to the
 plow without looking back. In that spirit we are being asked to have humility
@@ -65,4 +64,6 @@ Presiding High Priest, and he stands at the head of the Church. Of this I
 testify this beautiful Easter Sunday, on this great anniversary of the
 restoration and organization of the Church on this very spot 150 years ago. In
 the name of Jesus Christ. Amen.
+
+## References
 

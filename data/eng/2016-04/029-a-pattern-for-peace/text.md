@@ -216,3 +216,41 @@ I testify that Jesus Christ is "the way, the truth, and the life"[18] and that
 only through Him can we obtain true peace in this life and eternal life in the
 world to come. In the name of Jesus Christ, amen.
 
+## References
+
+  1. Joseph B. Wirthlin, "[Come What May, and Love It](https://www.lds.org/general-conference/2008/10/come-what-may-and-love-it?lang=eng),"_ Ensign_ or_ Liahona,_ Nov. 2008, 27.
+
+  2. Joseph B. Wirthlin, "[Come What May, and Love It](https://www.lds.org/general-conference/2008/10/come-what-may-and-love-it?lang=eng)," 26.
+
+  3. [John 16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32); emphasis added.
+
+  4. [Doctrine and Covenants 59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22).
+
+  5. [Doctrine and Covenants 19:23-24](https://www.lds.org/scriptures/dc-testament/dc/19.23-24?lang=eng#22).
+
+  6. [Isaiah 2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2).
+
+  7. Thomas S. Monson, "[The Holy Temple--a Beacon to the World](https://www.lds.org/general-conference/2011/04/the-holy-temple-a-beacon-to-the-world?lang=eng),"_ Ensign_ or_ Liahona,_ May 2011, 93.
+
+  8. Gordon B. Hinckley, in "[Rejoice in the Blessings of the Temple](https://www.lds.org/liahona/2002/12/rejoice-in-the-blessings-of-the-temple?lang=eng),"_ Ensign, _Dec. 2002, 63;_ Liahona,_ Dec. 2002, 33.
+
+  9. [Doctrine and Covenants 1:38](https://www.lds.org/scriptures/dc-testament/dc/1.38?lang=eng#37).
+
+  10. [1 Nephi 8:26-28](https://www.lds.org/scriptures/bofm/1-ne/8.26-28?lang=eng#25); emphasis added.
+
+  11. [1 Nephi 8:33](https://www.lds.org/scriptures/bofm/1-ne/8.33?lang=eng#32); emphasis added.
+
+  12. "Keep the Commandments," _Children's Songbook,_ 147; emphasis added.
+
+  13. [1 John 1:8](https://www.lds.org/scriptures/nt/1-jn/1.8?lang=eng#7).
+
+  14. [Isaiah 1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).
+
+  15. [Alma 36:12-13](https://www.lds.org/scriptures/bofm/alma/36.12-13?lang=eng#11).
+
+  16. [Alma 36:17-18](https://www.lds.org/scriptures/bofm/alma/36.17-18?lang=eng#16).
+
+  17. [Alma 38:8](https://www.lds.org/scriptures/bofm/alma/38.8?lang=eng#7); emphasis added.
+
+  18. [John 14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).
+

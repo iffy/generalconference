@@ -16,9 +16,9 @@ conviction to their souls.
 While Saul was on the road to Damascus, he was stopped by a heavenly vision
 and the voice of the Lord Jesus Christ. And Saul responded with these
 momentous words: "... Lord, what wilt thou have me to do? ..." ([Acts
-9:6](https://www.lds.org/scriptures/nt/acts/9.6?lang=eng#5).) To this the Lord
-responded by sending Saul to see one of his authorized servants to receive
-direction and a blessing.
+9:6](/scriptures/nt/acts/9.6?lang=eng#5).) To this the Lord responded by
+sending Saul to see one of his authorized servants to receive direction and a
+blessing.
 
 A man can ask no more important question in his life than that which Paul
 asked: "... Lord, what wilt thou have me to do?" A man can take no greater
@@ -26,10 +26,9 @@ action than to pursue a course that will bring to him the answer to that
 question and then to carry out that answer. What would the Lord Jesus Christ
 have us do? He has answered that question by saying, "Be ye therefore perfect,
 even as your Father which is in heaven is perfect" ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47)), and,
-"Therefore, what manner of men ought ye to be? Verily I say unto you, even as
-I am" ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26)).
+5:48](/scriptures/nt/matt/5.48?lang=eng#47)), and, "Therefore, what manner of
+men ought ye to be? Verily I say unto you, even as I am" ([3 Ne.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26)).
 
 Christ, then, has set us the example of what we should be like and what we
 should do. While many men have admirable qualities, there is only one man who
@@ -62,8 +61,7 @@ every man, and through personal revelation.
 It is significant that when Paul asked the question, "Lord, what wilt thou
 have me to do?" Christ directed Paul to one of the Lord's authorized servants.
 So it was with Cornelius, who after prayer was instructed to send men to
-contact Peter. (See [Acts
-10](https://www.lds.org/scriptures/nt/acts/10.title?lang=eng).) It has always
+contact Peter. (See [Acts 10](/scriptures/nt/acts/10?lang=eng).) It has always
 been so--that whenever God has had his prophets upon the earth, men could go
 to them to learn of Christ and his commandments.
 
@@ -76,14 +74,14 @@ ordinances essential for salvation and the commandments necessary for the
 perfecting of his children.
 
 Speaking to his prophets, the Lord said: "He that receiveth you receiveth me.
-..." ([Matt. 10:40](https://www.lds.org/scriptures/nt/matt/10.40?lang=eng#39).)
-Always the words of the living prophet took precedence, for it was God's
-message to the people at that particular time. Had any man accepted the
-ancient scripture in the days of Noah but refused to follow the revelation
-that Noah received and failed to board the ark, he would have been drowned.
-Always the words of the living prophets are of the most vital concern to the
-people; and always, if a man would know of Christ and learn his commandments
-so that he can obey them, he must seek to find his authorized representatives.
+..." ([Matt. 10:40](/scriptures/nt/matt/10.40?lang=eng#39).) Always the words of
+the living prophet took precedence, for it was God's message to the people at
+that particular time. Had any man accepted the ancient scripture in the days
+of Noah but refused to follow the revelation that Noah received and failed to
+board the ark, he would have been drowned. Always the words of the living
+prophets are of the most vital concern to the people; and always, if a man
+would know of Christ and learn his commandments so that he can obey them, he
+must seek to find his authorized representatives.
 
 For centuries, because of the wickedness of men, prophets of God no longer
 walked the earth, so scripture ended with the last words in the New Testament.
@@ -96,8 +94,7 @@ But in 1820, the greatest single event since the resurrection of the Christ
 occurred. God the Father and his Son, Jesus Christ, personally visited a young
 boy by the name of Joseph Smith, who had been praying to know which church to
 join. God, our Father, spoke to the lad and said, "... _This is My Beloved Son.
-Hear Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) God the Son
+Hear Him!_" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) God the Son
 told Joseph Smith not to join any of the churches. Joseph was to learn that
 the Lord's true church was not on the earth; that living prophets of God, who
 were the foundation of the church, had not walked the earth for centuries; and
@@ -108,11 +105,11 @@ Eventually, to Joseph Smith appeared the men who were the last authorized
 servants to direct the church of Jesus Christ--Peter, James, and John. These
 glorified beings ordained Joseph Smith with the same authority they had
 received from Jesus, so that once again there was a prophet of God on the
-earth who could say, "... thus saith the Lord." ([D&amp;C
-44:1](https://www.lds.org/scriptures/dc-testament/dc/44.1?lang=eng#0).) Joseph
-Smith ordained others with the authority that he had received, and so the
-church of Jesus Christ was restored in these latter days--The Church of Jesus
-Christ of Latter-day Saints, commonly known as the Mormon Church.
+earth who could say, "... thus saith the Lord." ([D&amp;C 44:1](/scriptures/dc-
+testament/dc/44.1?lang=eng#0).) Joseph Smith ordained others with the
+authority that he had received, and so the church of Jesus Christ was restored
+in these latter days--The Church of Jesus Christ of Latter-day Saints,
+commonly known as the Mormon Church.
 
 In due time, another heavenly messenger came to Joseph Smith to tell him that
 God was about to give to the earth a scriptural account of the early
@@ -137,8 +134,7 @@ earth, and the God before whom all men must stand accountable.
 Now this marvelous message--that God has spoken to prophets in our day and
 reestablished his church--is for all the world. When Nathanael questioned
 Philip, telling him that he had found Jesus, Philip responded by saying, "Come
-and see." ([John
-1:46](https://www.lds.org/scriptures/nt/john/1.46?lang=eng#45).)
+and see." ([John 1:46](/scriptures/nt/john/1.46?lang=eng#45).)
 
 So do we respond, "Come and see." Men can deceive you, but God will not. If
 you sincerely desire to know of the truthfulness of this message, then make it
@@ -152,8 +148,7 @@ who reads that volume; and this is the promise: that if you will ask God, the
 Eternal Father, in the name of Jesus Christ, if this book is true, and if you
 will ask with a sincere heart, with real intent, having faith in Christ, then
 our Heavenly Father will manifest the truth of it unto you by the power of the
-Holy Ghost. (See [Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).)
+Holy Ghost. (See [Moro. 10:4](/scriptures/bofm/moro/10.4?lang=eng#3).)
 
 This is the challenge and the test. I testify to you that I have read the Book
 of Mormon and that I have put it to the test; that God has revealed unto me
@@ -278,4 +273,6 @@ prophets. Today that church is The Church of Jesus Christ of Latter-day
 Saints, and his prophet and mouthpiece is President Harold B. Lee. I know this
 as I know that I live, and I bear this testimony humbly and gratefully in the
 name of the Lord Jesus Christ. Amen.
+
+## References
 

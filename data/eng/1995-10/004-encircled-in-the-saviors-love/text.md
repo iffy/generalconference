@@ -17,9 +17,8 @@ taught important principles of truth.
 
 The Lord spoke in plainness, "Be faithful and diligent in keeping the
 commandments of God, and I will encircle thee in the arms of my love"
-([D&amp;C 6:20](https://www.lds.org/scriptures/dc-
-testament/dc/6.20?lang=eng#19)). We all want to feel the comfort of the
-Savior's embrace.
+([D&amp;C 6:20](/scriptures/dc-testament/dc/6.20?lang=eng#19)). We all want to
+feel the comfort of the Savior's embrace.
 
 During His ministry, the Savior, with great compassion, saw beyond the
 imperfections of body and mind and looked upon the heart. Our discipleship
@@ -62,8 +61,8 @@ magnet for others to be of help to her disabled daughter.
 
 The Savior in his infinite goodness allows all to enjoy. "All men are
 privileged the one like unto the other, and none are forbidden" ([2 Ne.
-26:28](https://www.lds.org/scriptures/bofm/2-ne/26.28?lang=eng#27)). Each
-person has unique gifts, and each needs to contribute as well as receive.
+26:28](/scriptures/bofm/2-ne/26.28?lang=eng#27)). Each person has unique
+gifts, and each needs to contribute as well as receive.
 
 Jamie Wheeler is an exceptional sixteen-year-old. He was born with Down
 syndrome. Jamie has a calling in the ward and helps the bishop in other
@@ -81,8 +80,8 @@ faith, courage, patience, love, and individual worth.
 Four young men with severe disabilities work in the Sao Paulo Temple. Each has
 a different challenge, but each is blessing the lives of thousands as they
 contribute to the sweet spirit within this beautiful temple. "Remember the
-worth of souls is great in the sight of God" ([D&amp;C
-18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9)).
+worth of souls is great in the sight of God" ([D&amp;C 18:10](/scriptures/dc-
+testament/dc/18.10?lang=eng#9)).
 
 My soul is stirring with deep appreciation and love for our oldest son, Scott,
 mentally disabled from birth. His courage and love have allowed many friends
@@ -103,9 +102,11 @@ you.
 heal them, for I have compassion upon you. ...
 
 "... I see that your faith is sufficient that I should heal you" ([3 Ne.
-17:5-8](https://www.lds.org/scriptures/bofm/3-ne/17.5-8?lang=eng#4)).
+17:5-8](/scriptures/bofm/3-ne/17.5-8?lang=eng#4)).
 
 I pray that our faith may be sufficient for each of us to feel encircled in
 the arms of our Savior's love. I know that our Savior lives, and that He
 intimately knows each of us. In the name of Jesus Christ, amen.
+
+## References
 

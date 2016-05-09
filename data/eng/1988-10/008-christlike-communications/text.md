@@ -14,11 +14,10 @@ communicate.
 
 We will be held accountable for all that we say. The Savior has warned "that
 every idle word that men shall speak, they shall give account thereof in the
-day of judgment." ([Matt.
-12:36](https://www.lds.org/scriptures/nt/matt/12.36?lang=eng#35).) This means
-that no communication shall be without consequence. This includes the slight
-slips of the tongue, the caustic communications that canker the soul, and the
-vain, vulgar, and profane words which desecrate the name of Deity.
+day of judgment." ([Matt. 12:36](/scriptures/nt/matt/12.36?lang=eng#35).) This
+means that no communication shall be without consequence. This includes the
+slight slips of the tongue, the caustic communications that canker the soul,
+and the vain, vulgar, and profane words which desecrate the name of Deity.
 
 ## Un-Christlike Communication
 
@@ -30,41 +29,39 @@ righteous relationships is in the use of gossip, rumor, and slander on his
 communication network. Perhaps the more common un-Christlike communications
 are those of lying, blaming, criticizing, and anger.
 
-  1. Lying. The first of these communications is that of lying. To lie is to be untruthful, deceptive, deceitful, and dishonest. This is a basic communications problem which is not new; it goes back to the Garden of Eden.
+  1. Lying. The first of these communications is that of lying. To lie is to be untruthful, deceptive, deceitful, and dishonest. This is a basic communications problem which is not new; it goes back to the Garden of Eden. 
 
 Satan introduced the first recorded communications problem in the form of
 lying in his conversation with Eve. He asked recorded history's first
 question: "Yea, hath God said, Ye shall not eat of every tree of the garden?"
-([Gen. 3:1](https://www.lds.org/scriptures/ot/gen/3.1?lang=eng#0).)
+([Gen. 3:1](/scriptures/ot/gen/3.1?lang=eng#0).)
 
 Eve responded, "We may eat of the fruit of the trees of the garden:
 
 "But of the fruit of the tree which is in the midst of the garden, God hath
 said, Ye shall not eat of it, ... lest ye die." ([Gen.
-3:2-3](https://www.lds.org/scriptures/ot/gen/3.2-3?lang=eng#1).)
+3:2-3](/scriptures/ot/gen/3.2-3?lang=eng#1).)
 
 Satan, in a spirit of deception and defiance, responded, "Ye shall not surely
-die." ([Gen. 3:4](https://www.lds.org/scriptures/ot/gen/3.4?lang=eng#3).) He
-distorted the truth, denied the word of God, and planted the seeds of doubt
-about the word of Deity. Thus, Satan became the father of lies, deception, and
-doubt.
+die." ([Gen. 3:4](/scriptures/ot/gen/3.4?lang=eng#3).) He distorted the truth,
+denied the word of God, and planted the seeds of doubt about the word of
+Deity. Thus, Satan became the father of lies, deception, and doubt.
 
 It is a serious sin to lie. The scriptures teach us that "lying lips are
 abomination to the Lord" ([Prov.
-12:22](https://www.lds.org/scriptures/ot/prov/12.22?lang=eng#21)) and that "he
-that lieth and will not repent shall be cast out" ([D&amp;C
-42:21](https://www.lds.org/scriptures/dc-testament/dc/42.21?lang=eng#20)).
-They also teach us that to lie about a person is a form of hatred, for "a
-lying tongue hateth those that are afflicted by it." ([Prov.
-26:28](https://www.lds.org/scriptures/ot/prov/26.28?lang=eng#27).) The Apostle
-Paul gave us counsel concerning this matter: "Wherefore putting away lying,
-speak every man truth with his neighbour." ([Eph.
-4:25](https://www.lds.org/scriptures/nt/eph/4.25?lang=eng#24).)
+12:22](/scriptures/ot/prov/12.22?lang=eng#21)) and that "he that lieth and
+will not repent shall be cast out" ([D&amp;C 42:21](/scriptures/dc-
+testament/dc/42.21?lang=eng#20)). They also teach us that to lie about a
+person is a form of hatred, for "a lying tongue hateth those that are
+afflicted by it." ([Prov. 26:28](/scriptures/ot/prov/26.28?lang=eng#27).) The
+Apostle Paul gave us counsel concerning this matter: "Wherefore putting away
+lying, speak every man truth with his neighbour." ([Eph.
+4:25](/scriptures/nt/eph/4.25?lang=eng#24).)
 
 Integrity is the core of our character. Without integrity we have a weak
 foundation upon which to build other Christlike characteristics.
 
-  1. Blaming. A second un-Christlike communication is that of blaming. This is a condemning communication. It is interesting that when the Lord confronted Adam in his fallen state, Adam began to place the blame on Eve for his actions. He said, "The woman whom thou gavest to be with me, she gave me of the tree, and I did eat." (Gen. 3:12.) When Eve was confronted, she placed the blame on Satan. She said, "The serpent beguiled me, and I did eat." (Gen. 3:13.)
+  1. Blaming. A second un-Christlike communication is that of blaming. This is a condemning communication. It is interesting that when the Lord confronted Adam in his fallen state, Adam began to place the blame on Eve for his actions. He said, "The woman whom thou gavest to be with me, she gave me of the tree, and I did eat." (Gen. 3:12.) When Eve was confronted, she placed the blame on Satan. She said, "The serpent beguiled me, and I did eat." (Gen. 3:13.) 
 
 It has been from the beginning and it will be till the end that the natural
 man will have a tendency to rationalize and to blame his behaviors on others
@@ -72,29 +69,12 @@ or on certain circumstances. When we attempt to place responsibility for our
 choices on others, we are responding in a less than Christlike manner. Blaming
 is an unrighteous form of communication.
 
-  1. Criticizing. A third un-Christlike communication is that of criticizing. Positive criticism is feedback given with the purpose of helping another person to grow and to develop. This is both helpful and needful and is generally accepted and appreciated.
-
-Negative criticism is intended to hurt and often to defame and to destroy.
-This caustic communication is cruel, and it tends to crush the character of
-all of those about whom it is directed. King Benjamin urged his people to "not
-have a mind to injure one another, but to live peaceably." ([Mosiah
-4:13](https://www.lds.org/scriptures/bofm/mosiah/4.13?lang=eng#12).) We should
-surely follow this counsel and defend those who are defamed by these
-denouncements.
-
-  2. Anger. A fourth is anger. This is perhaps the most common form of un-Christlike communication. Anger causes anguish to the souls of all of those who experience the feeling as well as to those who are the recipients of this emotional explosion.
-
-Anger shows a lack of self-control and an inability to relate in a righteous
-way to others. It is a senseless substitute for self-control. It is sometimes
-used as a selfish strategy to gain control of a relationship. President
-Wilford Woodruff counseled that "the moment a man or a woman becomes angry
-they show a great weakness." (In _Journal of Discourses,_ 4:98.)
+  1. Criticizing. A third un-Christlike communication is that of criticizing. Positive criticism is feedback given with the purpose of helping another person to grow and to develop. This is both helpful and needful and is generally accepted and appreciated. Negative criticism is intended to hurt and often to defame and to destroy. This caustic communication is cruel, and it tends to crush the character of all of those about whom it is directed. King Benjamin urged his people to "not have a mind to injure one another, but to live peaceably." ([Mosiah 4:13](/scriptures/bofm/mosiah/4.13?lang=eng#12).) We should surely follow this counsel and defend those who are defamed by these denouncements. 
+  2. Anger. A fourth is anger. This is perhaps the most common form of un-Christlike communication. Anger causes anguish to the souls of all of those who experience the feeling as well as to those who are the recipients of this emotional explosion. Anger shows a lack of self-control and an inability to relate in a righteous way to others. It is a senseless substitute for self-control. It is sometimes used as a selfish strategy to gain control of a relationship. President Wilford Woodruff counseled that "the moment a man or a woman becomes angry they show a great weakness." (In _Journal of Discourses,_ 4:98.) 
 
 We are instructed to "let all bitterness, ... and anger, ... and evil speaking, be
-put away." ([Eph.
-4:31](https://www.lds.org/scriptures/nt/eph/4.31?lang=eng#30).) The
-implication is clear: we have the capacity to control this carnal
-communication.
+put away." ([Eph. 4:31](/scriptures/nt/eph/4.31?lang=eng#30).) The implication
+is clear: we have the capacity to control this carnal communication.
 
 ## Counsel
 
@@ -102,10 +82,9 @@ Much counsel has been given concerning our communications with others. The
 counsel given by the Apostle Paul to the Ephesian Saints seems to be most
 appropriate for the Latter-day Saints. He cautioned, "Let no corrupt
 communication proceed out of your mouth, but that which is good." ([Eph.
-4:29](https://www.lds.org/scriptures/nt/eph/4.29?lang=eng#28).) He further
-counseled to be "kind one to another, tenderhearted, forgiving one another,
-even as God for Christ's sake hath forgiven you." ([Eph.
-4:32](https://www.lds.org/scriptures/nt/eph/4.32?lang=eng#31).)
+4:29](/scriptures/nt/eph/4.29?lang=eng#28).) He further counseled to be "kind
+one to another, tenderhearted, forgiving one another, even as God for Christ's
+sake hath forgiven you." ([Eph. 4:32](/scriptures/nt/eph/4.32?lang=eng#31).)
 
 ## Christlike Communications
 
@@ -134,4 +113,6 @@ ultimately to return to our heavenly home safely. May we treasure the divine
 gift of communication, and may we use it wisely to build and to assist others
 on this marvelous journey through mortality. May Heavenly Father bless us to
 this end, in the name of Jesus Christ, amen.
+
+## References
 

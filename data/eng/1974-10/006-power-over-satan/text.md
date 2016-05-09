@@ -18,7 +18,7 @@ of choice.
 
 Satan's proposal of compulsion was rejected by the Father, and Lucifer "was
 angry, and kept not his first estate; and, ... many followed after him." ([Abr.
-3:28](https://www.lds.org/scriptures/pgp/abr/3.28?lang=eng#27).)
+3:28](/scriptures/pgp/abr/3.28?lang=eng#27).)
 
 We must have witnessed that tragic scene when Lucifer--brilliant, capable, yet
 lacking in intelligence to properly apply his knowledge (along with one-third
@@ -34,7 +34,7 @@ earth whereon these may dwell:
 
 "And we will prove them herewith, to see if they will do all things whatsoever
 the Lord their God shall command them." ([Abr.
-3:24-25](https://www.lds.org/scriptures/pgp/abr/3.24-25?lang=eng#23).)
+3:24-25](/scriptures/pgp/abr/3.24-25?lang=eng#23).)
 
 Now, God said also (and this is most important to you and to me):
 
@@ -45,7 +45,7 @@ give unto him mine own power; ... I caused that he should be cast down;
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
 not hearken unto my voice." ([Moses
-4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).)
+4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2).)
 
 Now, the truth is that Satan lives! Indeed, some have seen his satanic majesty
 in spirit form.
@@ -65,7 +65,7 @@ followers; and they will, if they can, influence us to become critical and to
 rebel against God and his work. Thus he destroys the souls of men.
 
 The scriptures tell us: "Satan stirreth them up, that he may lead their souls
-to destruction." ([D&amp;C 10:22](https://www.lds.org/scriptures/dc-
+to destruction." ([D&amp;C 10:22](/scriptures/dc-
 testament/dc/10.22?lang=eng#21).)
 
 "Yea, he saith unto them: Deceive and lie in wait to catch, that ye may
@@ -76,7 +76,7 @@ souls down to hell; and thus he causeth them to catch themselves in their own
 snare.
 
 "And thus he goeth up and down, to and fro in the earth, seeking to destroy
-the souls of men." ([D&amp;C 10:25-27](https://www.lds.org/scriptures/dc-
+the souls of men." ([D&amp;C 10:25-27](/scriptures/dc-
 testament/dc/10.25-27?lang=eng#24).)
 
 Now, the adversary knows that a little sin will not stay little, and he
@@ -137,6 +137,8 @@ be assured that God, our Heavenly Father, reigns over all and is merciful and
 forgiving to those who truly seek him.
 
 And every man receiveth wages of him whom he listeth to obey. (See [D&amp;C
-29:45](https://www.lds.org/scriptures/dc-testament/dc/29.45?lang=eng#44).) To
-this I testify in the name of Jesus Christ. Amen.
+29:45](/scriptures/dc-testament/dc/29.45?lang=eng#44).) To this I testify in
+the name of Jesus Christ. Amen.
+
+## References
 

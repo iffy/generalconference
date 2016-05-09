@@ -76,7 +76,7 @@ may give seed to the sower, and bread to the eater:
 "So shall my word be that goeth forth out of my mouth: it shall not return
 unto me void, but it shall accomplish that which I please, and it shall
 prosper in the thing whereto I sent it." ([Isa.
-55:7-11](https://www.lds.org/scriptures/ot/isa/55.7-11?lang=eng#6).)
+55:7-11](/scriptures/ot/isa/55.7-11?lang=eng#6).)
 
 God's way is the way to solve our political, moral, ethical, even our
 financial problems. The way of the Lord can eliminate wars, riots,
@@ -95,20 +95,18 @@ second coming to restore all things in preparation for that coming event.
 Peter testified that in the last days a time of refreshing would come and that
 Jesus would remain in heaven "until the times of restitution of all things,
 which God hath spoken by the mouth of all his holy prophets since the world
-began." ([Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).)
+began." ([Acts 3:21](/scriptures/nt/acts/3.21?lang=eng#20).)
 
 This restoration, foretold in advance, began so quietly and so un-
 ostentatiously that the world was not even aware that it happened. It came as
 quietly and unobtrusively as "a thief in the night." ([1 Thes.
-5:2](https://www.lds.org/scriptures/nt/1-thes/5.2?lang=eng#1).) It came not by
-man's wisdom, but in answer to a simple prayer by Joseph Smith, a young boy in
-New York State who went into the woods near Palmyra to ask God a simple
-question: "Which church is right?" That young man had no idea that a new
-dispensation of God's mercy and kindness was about to begin. At that time
-there was no prophet living on the earth who could answer Joseph's question.
-There was no way for God to have that question answered, except for God to
-answer it himself.
+5:2](/scriptures/nt/1-thes/5.2?lang=eng#1).) It came not by man's wisdom, but
+in answer to a simple prayer by Joseph Smith, a young boy in New York State
+who went into the woods near Palmyra to ask God a simple question: "Which
+church is right?" That young man had no idea that a new dispensation of God's
+mercy and kindness was about to begin. At that time there was no prophet
+living on the earth who could answer Joseph's question. There was no way for
+God to have that question answered, except for God to answer it himself.
 
 The true knowledge of God had been lost during the centuries following the
 death of Christ. When Joseph Smith went into those woods to pray, he knew no
@@ -118,14 +116,13 @@ of spirit, unknown and unknowable. You can well imagine the astonishment of
 Joseph when not one, but two Personages appeared to him in answer to that
 simple prayer. As the one Personage spoke and pointed to the other, he
 introduced him with these words: "This is My Beloved Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) It was the
-living, resurrected Jesus Christ, the very Son of God, who instructed Joseph
-and who thus opened a new dispensation of the true knowledge of God. He told
-Joseph that no church then existed on the earth authorized to speak in his
-name. He told Joseph that after proper preparation and the bestowal of
-priesthood authority, Joseph was to be the first of a line of living prophets
-in this day and age who were to instruct and bless mankind, even as did the
-prophets of old.
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) It was the living, resurrected
+Jesus Christ, the very Son of God, who instructed Joseph and who thus opened a
+new dispensation of the true knowledge of God. He told Joseph that no church
+then existed on the earth authorized to speak in his name. He told Joseph that
+after proper preparation and the bestowal of priesthood authority, Joseph was
+to be the first of a line of living prophets in this day and age who were to
+instruct and bless mankind, even as did the prophets of old.
 
 Just as foretold by Jesus Christ, heavenly messengers holding the keys of the
 holy priesthood came to earth and bestowed that priesthood power upon Joseph
@@ -205,7 +202,7 @@ you out of darkness into his marvellous light:
 
 "Which in time past were not a people, but are now the people of God: which
 had not obtained mercy, but now have obtained mercy." ([1 Pet.
-2:9-10](https://www.lds.org/scriptures/nt/1-pet/2.9-10?lang=eng#8).)
+2:9-10](/scriptures/nt/1-pet/2.9-10?lang=eng#8).)
 
 If you are discouraged, if you are puzzled, if you are seeking for greater
 light, greater joy and happiness, investigate these revealed truths. Find out
@@ -226,4 +223,6 @@ earth in all its majesty and power and that true apostles and prophets now
 live who can and do say, "Thus saith the Lord!"
 
 I bear you this personal witness in the name of Jesus Christ. Amen.
+
+## References
 

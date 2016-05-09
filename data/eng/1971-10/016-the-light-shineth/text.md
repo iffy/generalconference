@@ -7,8 +7,8 @@ to his disciples concerning our day, the predicaments in which we find
 ourselves, and the immediate future to follow.
 
 "And the light shineth in darkness; and the darkness comprehended it not."
-([John 1:5](https://www.lds.org/scriptures/nt/john/1.5?lang=eng#4).) So wrote
-the disciple whom Jesus loved.
+([John 1:5](/scriptures/nt/john/1.5?lang=eng#4).) So wrote the disciple whom
+Jesus loved.
 
 This scripture came to mind recently as I read a statement attributed to Dr.
 Charles H. Malik, former president of the General Assembly of the United
@@ -41,10 +41,8 @@ them.
 
 What he then said was and is, in his view, of such importance to us that he
 has had a record of it preserved in three separate scriptures: the Bible (see
-[Matt. 24](https://www.lds.org/scriptures/nt/matt/24.title?lang=eng)), the
-Pearl of Great Price ([JS--M
-1](https://www.lds.org/scriptures/pgp/js-m/1.title?lang=eng)), and the
-Doctrine and Covenants.
+[Matt. 24](/scriptures/nt/matt/24?lang=eng)), the Pearl of Great Price ([JS--M
+1](/scriptures/pgp/js-m/1?lang=eng)), and the Doctrine and Covenants.
 
 The circumstances under which he spoke are most impressive. As he went for the
 last time from Jerusalem to Bethany, he stood with his apostles on the Mount
@@ -52,7 +50,7 @@ of Olives. Being concerned over his prediction that of the temple buildings
 there would not be left one stone upon another, they asked him for an
 explanation. "Tell us," they said, "when shall these things be? and what shall
 be the sign of thy coming, and of the end of the world?" ([Matt.
-24:3](https://www.lds.org/scriptures/nt/matt/24.3?lang=eng#2).)
+24:3](/scriptures/nt/matt/24.3?lang=eng#2).)
 
 I shall not recite what he said about the then-impending destruction of
 Jerusalem. I do, however, because of its relevance to our present and future
@@ -60,8 +58,7 @@ welfare, invite you to seriously consider with me what he said about the signs
 of his second coming "and of the end of the world." As to these events, he
 began by saying: "... when the times of the Gentiles is come in, a light shall
 break forth among them that sit in darkness, and it shall be the fulness of my
-gospel." ([D&amp;C 45:28](https://www.lds.org/scriptures/dc-
-testament/dc/45.28?lang=eng#27).)
+gospel." ([D&amp;C 45:28](/scriptures/dc-testament/dc/45.28?lang=eng#27).)
 
 That this prediction referred to our day is established by the fact that that
 "light" spoken of broke forth in the spring of 1820 when the Father and the
@@ -81,8 +78,7 @@ them that sit in darkness, and it shall be the fulness of my gospel;
 
 "But they receive it not; for they perceive not the light, and they turn their
 hearts from me because of the precepts of men." ([D&amp;C
-45:28-29](https://www.lds.org/scriptures/dc-
-testament/dc/45.28-29?lang=eng#27).)
+45:28-29](/scriptures/dc-testament/dc/45.28-29?lang=eng#27).)
 
 The fulfillment of this prediction is painfully evident today. The large
 majority to whom the gospel has been taken reject it. It is because of this
@@ -110,7 +106,7 @@ troubled.
 
 "And I said unto them: Be not troubled, for, when all these things shall come
 to pass, ye may know that the promises which have been made unto you shall be
-fulfilled." ([D&amp;C 45:31-35](https://www.lds.org/scriptures/dc-
+fulfilled." ([D&amp;C 45:31-35](/scriptures/dc-
 testament/dc/45.31-35?lang=eng#30).)
 
 Then referring again to the breaking forth of the light, Jesus continued his
@@ -134,8 +130,7 @@ of Man.
 heavens above, and in the earth beneath.
 
 "And they shall behold blood, and fire, and vapors of smoke." ([D&amp;C
-45:36-41](https://www.lds.org/scriptures/dc-
-testament/dc/45.36-41?lang=eng#35).)
+45:36-41](/scriptures/dc-testament/dc/45.36-41?lang=eng#35).)
 
 Some of these signs we have already witnessed, and others we shall witness
 later. For, Jesus continued, " ... before the day of the Lord shall come, the
@@ -148,8 +143,7 @@ Mount of Olives.]
 "And then they shall look for me, and, behold, I will come; and they shall see
 me in the clouds of heaven, clothed with power and great glory; with all the
 holy angels; and he that watches not for me shall be cut off." ([D&amp;C
-45:42-44](https://www.lds.org/scriptures/dc-
-testament/dc/45.42-44?lang=eng#41).)
+45:42-44](/scriptures/dc-testament/dc/45.42-44?lang=eng#41).)
 
 The righteous, however, shall not be cut off. Listen to the promises the Lord
 made to those who receive the gospel and live it.
@@ -161,8 +155,7 @@ and the saints that have slept shall come forth to meet me in the cloud.
 you; for as you now behold me and know that I am, even so shall ye come unto
 me and your souls shall live, and your redemption shall be perfected; and the
 saints shall come forth from the four quarters of the earth." ([D&amp;C
-45:45-46](https://www.lds.org/scriptures/dc-
-testament/dc/45.45-46?lang=eng#44).)
+45:45-46](/scriptures/dc-testament/dc/45.45-46?lang=eng#44).)
 
 We are assured by these words that whether we die before he comes or persist
 in mortality, we shall, if we have been true and faithful, be with him and
@@ -183,8 +176,7 @@ see their folly.
 
 "And calamity shall cover the mocker, and the scorner shall be consumed; and
 they that have watched for iniquity shall be hewn down and cast into the
-fire." ([D&amp;C 45:47-50](https://www.lds.org/scriptures/dc-
-testament/dc/45.47-50?lang=eng#46).)
+fire." ([D&amp;C 45:47-50](/scriptures/dc-testament/dc/45.47-50?lang=eng#46).)
 
 "And Satan shall be bound, that he shall have no place in the hearts of the
 children of men.
@@ -195,8 +187,7 @@ fulfilled which I spake concerning the ten virgins.
 "For they that are wise and have received the truth, and have taken the Holy
 Spirit for their guide, and have not been deceived--verily I say unto you,
 they shall not be hewn down and cast into the fire, but shall abide the day."
-([D&amp;C 45:55-57](https://www.lds.org/scriptures/dc-
-testament/dc/45.55-57?lang=eng#54).)
+([D&amp;C 45:55-57](/scriptures/dc-testament/dc/45.55-57?lang=eng#54).)
 
 "They that are wise and have received the truth" are they who, when they hear
 the gospel, accept it. They who "have taken the Holy Spirit for their guide,
@@ -211,8 +202,7 @@ multiply and wax strong, and their children shall grow up without sin unto
 salvation.
 
 "For the Lord shall be in their midst, and his glory shall be upon them, and
-he will be their king and their lawgiver." ([D&amp;C
-45:58-59](https://www.lds.org/scriptures/dc-
+he will be their king and their lawgiver." ([D&amp;C 45:58-59](/scriptures/dc-
 testament/dc/45.58-59?lang=eng#57).)
 
 This great prophetic pronouncement of Jesus reveals the cause of our
@@ -242,8 +232,10 @@ imminent.
 I testify that God is not dead. He is at the helm. His power--his priesthood--
 is in the earth; his programs are on schedule; his "eternal purposes shall
 roll on, until all his promises shall be fulfilled." ([Morm.
-8:22](https://www.lds.org/scriptures/bofm/morm/8.22?lang=eng#21).)
+8:22](/scriptures/bofm/morm/8.22?lang=eng#21).)
 
 To this I bear solemn witness as a special witness of Christ, in the name of
 Jesus Christ, our Lord. Amen.
+
+## References
 

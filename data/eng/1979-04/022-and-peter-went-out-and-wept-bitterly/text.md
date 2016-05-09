@@ -14,14 +14,13 @@ thee, yet will I never be offended.
 crow, thou shalt deny me thrice.
 
 "Peter said unto him, Though I should die with thee, yet will I not deny
-thee." ([Matt. 26:31,
-33-36](https://www.lds.org/scriptures/nt/matt/26.31%2C33-36?lang=eng#30).)
+thee." ([Matt. 26:31, 33-36](/scriptures/nt/matt/26.31,33-36?lang=eng#30).)
 
 There followed shortly thereafter the terrible agony in the Garden of
 Gethsemane, and then the betrayal. As the procession moved to the court of
 Caiaphas, "Peter followed ... unto the high priest's palace, and went in, and
 sat with the servants, to see the end" ([Matt.
-26:58](https://www.lds.org/scriptures/nt/matt/26.58?lang=eng#57)).
+26:58](/scriptures/nt/matt/26.58?lang=eng#57)).
 
 While the mockery of that trial was going on and Jesus' accusers spit on him,
 and buffeted him, and smote him with the palms of their hands, a damsel,
@@ -42,9 +41,7 @@ immediately the cock crew.
 
 "And Peter remembered the word of Jesus, which said unto him, Before the cock
 crow, thou shalt deny me thrice. _And he went out, and wept bitterly._"
-([Matt.
-26:69-75](https://www.lds.org/scriptures/nt/matt/26.69-75?lang=eng#68);
-italics added.)
+([Matt. 26:69-75](/scriptures/nt/matt/26.69-75?lang=eng#68); italics added.)
 
 What pathos there is in those words! Peter, affirming his loyalty, his
 determination, his resolution, said that he would never deny. But the fear of
@@ -113,7 +110,7 @@ generous instincts, grasping for possessions and in their self-centered,
 uninspired living, sharing neither talent nor faith with others. Of them the
 Lord has said: "And this shall be your lamentation in the day of visitation,
 and of judgment, and of indignation: The harvest is past, the summer is ended,
-and my soul is not saved!" ([D&amp;C 56:16](https://www.lds.org/scriptures/dc-
+and my soul is not saved!" ([D&amp;C 56:16](/scriptures/dc-
 testament/dc/56.16?lang=eng#15)).
 
 But more particularly, I wish to say a word concerning those who, like Peter,
@@ -146,16 +143,15 @@ cut off from the social circle in which he moves."
 I reflected, "Like Peter who denied his own sure knowledge, the day will come,
 though possibly not until old age, when in hours of quiet reflection this man
 will know that he traded his birthright for a mess of pottage (see [Gen.
-25:34](https://www.lds.org/scriptures/ot/gen/25.34?lang=eng#33)); and there
-will be remorse and sorrow and tears, for he will come to see that he not only
-denied the Lord in his own life, but also in effect denied him before his
-children who have grown up without a faith to cling to."
+25:34](/scriptures/ot/gen/25.34?lang=eng#33)); and there will be remorse and
+sorrow and tears, for he will come to see that he not only denied the Lord in
+his own life, but also in effect denied him before his children who have grown
+up without a faith to cling to."
 
 The Lord himself said, "Whosoever therefore shall be ashamed of me and of my
 words in this adulterous and sinful generation; of him also shall the Son of
 man be ashamed, when he cometh in the glory of his Father with the holy
-angels" ([Mark
-8:38](https://www.lds.org/scriptures/nt/mark/8.38?lang=eng#37)).
+angels" ([Mark 8:38](/scriptures/nt/mark/8.38?lang=eng#37)).
 
 Now, in conclusion, may I go back to Peter who denied and wept. Recognizing
 his error, repenting of his weakness, he turned about and became a mighty
@@ -168,22 +164,21 @@ priesthood received from his Master, he, with John, healed the lame man, the
 miracle that brought on persecution. He fearlessly spoke for his brethren when
 they were arraigned before the Sanhedrin. His was the vision that led to
 carrying the gospel to the Gentiles. (See [Acts
-2-4](https://www.lds.org/scriptures/nt/acts/2.title?lang=eng), [Acts
-10](https://www.lds.org/scriptures/nt/acts/10.title?lang=eng).)
+2-4](/scriptures/nt/acts/2?lang=eng), [Acts
+10](/scriptures/nt/acts/10?lang=eng).)
 
 He suffered chains and prison and a terrible martyr's death as a witness of
 Him who had called him from his nets to become a fisher of men (see [Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18)). He remained
-faithful and true to the great and compelling trust given when the resurrected
-Lord in his final instructions to the eleven apostles charged them to go "and
-teach all nations, baptizing them in the name of the Father, and of the Son,
-and of the Holy Ghost" ([Matt.
-28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18)). And he it
-was who, with James and John, came back to earth in this dispensation to
-restore the holy priesthood, under which divine authority the Church of Jesus
-Christ was organized in these latter days and under which same authority it
-now functions. These mighty works and many more unmentioned were done by Peter
-who once had denied and sorrowed, and then rose above that remorse to carry
+4:19](/scriptures/nt/matt/4.19?lang=eng#18)). He remained faithful and true to
+the great and compelling trust given when the resurrected Lord in his final
+instructions to the eleven apostles charged them to go "and teach all nations,
+baptizing them in the name of the Father, and of the Son, and of the Holy
+Ghost" ([Matt. 28:19](/scriptures/nt/matt/28.19?lang=eng#18)). And he it was
+who, with James and John, came back to earth in this dispensation to restore
+the holy priesthood, under which divine authority the Church of Jesus Christ
+was organized in these latter days and under which same authority it now
+functions. These mighty works and many more unmentioned were done by Peter who
+once had denied and sorrowed, and then rose above that remorse to carry
 forward the work of the Savior following his ascension and to participate in
 the restoration of that work in this dispensation.
 
@@ -215,4 +210,6 @@ he strengthen your resolution. May your joy be full and your peace sweet and
 satisfying as you return to that which you know in your heart is true, I
 humbly pray as I leave you my witness and testimony of him in whose name we
 serve, even the name of Jesus Christ, amen.
+
+## References
 

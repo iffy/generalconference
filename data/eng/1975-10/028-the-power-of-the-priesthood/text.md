@@ -63,15 +63,13 @@ meaning that revelation given on the occasion of the organization of the
 Church wherein the Lord outlined the procedures by which it should be
 governed. The elders, it says in section 20 of the Doctrine and Covenants,
 assisted by the lesser priesthood, are to "watch over the Church." ([D&amp;C
-20:42, 53](https://www.lds.org/scriptures/dc-
-testament/dc/20.42%2C53?lang=eng#41).) A part of that "watching over" is done
-by visiting the houses of the members and in instructing them to do their
-duty. In another revelation the elders quorum is specifically mentioned as a
-body of "standing ministers." ([D&amp;C
-124:137](https://www.lds.org/scriptures/dc-
-testament/dc/124.137?lang=eng#136).) Those who hold the Aaronic Priesthood are
-also called "standing ministers." ([D&amp;C
-84:111](https://www.lds.org/scriptures/dc-testament/dc/84.111?lang=eng#110).)
+20:42, 53](/scriptures/dc-testament/dc/20.42,53?lang=eng#41).) A part of that
+"watching over" is done by visiting the houses of the members and in
+instructing them to do their duty. In another revelation the elders quorum is
+specifically mentioned as a body of "standing ministers." ([D&amp;C
+124:137](/scriptures/dc-testament/dc/124.137?lang=eng#136).) Those who hold
+the Aaronic Priesthood are also called "standing ministers." ([D&amp;C
+84:111](/scriptures/dc-testament/dc/84.111?lang=eng#110).)
 
 Five years ago if you had asked, "Who's the 'minister' of your Church?" most
 of us would have answered, "Oh, the bishop." Today we can't give that simple
@@ -121,10 +119,10 @@ Now you can see why I have a testimony of the power of the priesthood. I was
 told to go out and get one. And I really do have one.
 
 "Which priesthood," saith the Lord, "continueth in the church of God in all
-generations." ([D&amp;C 84:17](https://www.lds.org/scriptures/dc-
+generations." ([D&amp;C 84:17](/scriptures/dc-
 testament/dc/84.17?lang=eng#16).) No one else on earth has it. "And this
 greater priesthood administereth the gospel and holdeth the key of the
-mysteries of the kingdom." ([D&amp;C 84:19](https://www.lds.org/scriptures/dc-
+mysteries of the kingdom." ([D&amp;C 84:19](/scriptures/dc-
 testament/dc/84.19?lang=eng#18).)
 
 Our missionaries are out every day teaching people who don't even believe in
@@ -147,12 +145,11 @@ Now the priesthood president of deacons, teachers, and priests is the bishop
 and their quorum presidents. The priesthood president of fathers in the Church
 is the elders quorum president or, of course, in some cases the high priests
 and seventies presidents. All fathers must, says the scripture, "come unto
-this priesthood." ([D&amp;C 84:42](https://www.lds.org/scriptures/dc-
+this priesthood." ([D&amp;C 84:42](/scriptures/dc-
 testament/dc/84.42?lang=eng#41).) If not, their families will be subject to
 the judgment predicted by the prophet Malachi--wasted, not bound to fathers.
-(See [D&amp;C 2](https://www.lds.org/scriptures/dc-
-testament/dc/2.title?lang=eng).) This is why the gospel was restored, so that
-the earth would not be wasted at His coming.
+(See [D&amp;C 2](/scriptures/dc-testament/dc/2?lang=eng).) This is why the
+gospel was restored, so that the earth would not be wasted at His coming.
 
 The Melchizedek Priesthood president, who is in most cases the elders quorum
 president, must see that the fulness of the gospel is administered to every
@@ -200,4 +197,6 @@ great army of men of the priesthood. Not a testimony like Laman and Lemuel.
 And I know some say, "He doesn't understand how tough it is in our quorum."
 Well, Nephi didn't either; but Nephi had a testimony. In the name of Jesus
 Christ. Amen.
+
+## References
 

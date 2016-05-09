@@ -1,471 +1,385 @@
 items:
-- article_id: '95905_000_003'
-  item: '000'
+- item: 1
   key: 000-the-solemn-assembly-sustaining-of-church-officers
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-solemn-assembly-sustaining-of-church-officers
   speaker: Thomas S. Monson
-  title: The Solemn Assembly Sustaining of Church Officers
+  title: The Solemn AssemblySustaining of Church Officers
   url: https://www.lds.org/general-conference/1995/04/the-solemn-assembly-sustaining-of-church-officers?lang=eng
   year: 1995
-- article_id: '95905_000_004'
-  item: '001'
+- item: 2
   key: 001-the-shield-of-faith
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-shield-of-faith
   speaker: Boyd K. Packer
-  title: "\u201CThe Shield of Faith\u201D"
+  title: '"The Shield of Faith"'
   url: https://www.lds.org/general-conference/1995/04/the-shield-of-faith?lang=eng
   year: 1995
-- article_id: '95905_000_005'
-  item: '002'
+- item: 3
   key: 002-the-translation-miracle-of-the-book-of-mormon
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-translation-miracle-of-the-book-of-mormon
   speaker: Robert K. Dellenbach
   title: The Translation Miracle of the Book of Mormon
   url: https://www.lds.org/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng
   year: 1995
-- article_id: '95905_000_006'
-  item: '003'
+- item: 4
   key: 003-the-temple-is-a-family-affair
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-temple-is-a-family-affair
   speaker: J Ballard Washburn
   title: The Temple Is a Family Affair
   url: https://www.lds.org/general-conference/1995/04/the-temple-is-a-family-affair?lang=eng
   year: 1995
-- article_id: '95905_000_007'
-  item: '004'
+- item: 5
   key: 004-the-power-to-heal-from-within
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-power-to-heal-from-within
   speaker: Merrill J. Bateman
   title: The Power to Heal from Within
   url: https://www.lds.org/general-conference/1995/04/the-power-to-heal-from-within?lang=eng
   year: 1995
-- article_id: '95905_000_008'
-  item: '005'
+- item: 6
   key: 005-hear-the-prophets-voice-and-obey
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: hear-the-prophets-voice-and-obey
   speaker: Robert D. Hales
-  title: "Hear the Prophet\u2019s Voice and Obey"
+  title: Hear the Prophet's Voice and Obey
   url: https://www.lds.org/general-conference/1995/04/hear-the-prophets-voice-and-obey?lang=eng
   year: 1995
-- article_id: '95905_000_009'
-  item: '006'
+- item: 7
   key: 006-living-water-to-quench-spiritual-thirst
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: living-water-to-quench-spiritual-thirst
   speaker: Joseph B. Wirthlin
   title: Living Water to Quench Spiritual Thirst
   url: https://www.lds.org/general-conference/1995/04/living-water-to-quench-spiritual-thirst?lang=eng
   year: 1995
-- article_id: '95905_000_010'
-  item: '007'
+- item: 8
   key: 007-the-church-audit-committee-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-church-audit-committee-report
   speaker: Ted E. Davis
   title: The Church Audit Committee Report
   url: https://www.lds.org/general-conference/1995/04/the-church-audit-committee-report?lang=eng
   year: 1995
-- article_id: '95905_000_011'
-  item: 008
+- item: 9
   key: 008-statistical-report-1994
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-1994
   speaker: F. Michael Watson
   title: Statistical Report 1994
   url: https://www.lds.org/general-conference/1995/04/statistical-report-1994?lang=eng
   year: 1995
-- article_id: '95905_000_012'
-  item: 009
+- item: 10
   key: 009-answers-to-lifes-questions
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: answers-to-lifes-questions
   speaker: M. Russell Ballard
-  title: "Answers to Life\u2019s Questions"
+  title: Answers to Life's Questions
   url: https://www.lds.org/general-conference/1995/04/answers-to-lifes-questions?lang=eng
   year: 1995
-- article_id: '95905_000_013'
-  item: '010'
+- item: 11
   key: 010-always-remember-him
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: always-remember-him
   speaker: Henry B. Eyring
-  title: "\u201CAlways Remember Him\u201D"
+  title: '"Always Remember Him"'
   url: https://www.lds.org/general-conference/1995/04/always-remember-him?lang=eng
   year: 1995
-- article_id: '95905_000_014'
-  item: '011'
+- item: 12
   key: 011-covenant-of-love
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: covenant-of-love
   speaker: Aileen H. Clyde
   title: Covenant of Love
   url: https://www.lds.org/general-conference/1995/04/covenant-of-love?lang=eng
   year: 1995
-- article_id: '95905_000_015'
-  item: '012'
+- item: 13
   key: 012-we-have-kept-the-faith
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: we-have-kept-the-faith
   speaker: Eduardo Ayala
   title: We Have Kept the Faith
   url: https://www.lds.org/general-conference/1995/04/we-have-kept-the-faith?lang=eng
   year: 1995
-- article_id: '95905_000_016'
-  item: '013'
+- item: 14
   key: 013-as-jesus-sees-us
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: as-jesus-sees-us
-  speaker: Cecil O. Samuelson, Jr.
+  speaker: Cecil O. Samuelson Jr.
   title: As Jesus Sees Us
   url: https://www.lds.org/general-conference/1995/04/as-jesus-sees-us?lang=eng
   year: 1995
-- article_id: '95905_000_017'
-  item: '014'
+- item: 15
   key: 014-children-of-the-covenant
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: children-of-the-covenant
   speaker: Russell M. Nelson
   title: Children of the Covenant
   url: https://www.lds.org/general-conference/1995/04/children-of-the-covenant?lang=eng
   year: 1995
-- article_id: '95905_000_018'
-  item: '015'
+- item: 16
   key: 015-sustaining-a-new-prophet
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: sustaining-a-new-prophet
   speaker: David B. Haight
   title: Sustaining a New Prophet
   url: https://www.lds.org/general-conference/1995/04/sustaining-a-new-prophet?lang=eng
   year: 1995
-- article_id: '95905_000_019'
-  item: '016'
+- item: 17
   key: 016-our-priesthood-legacy
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: our-priesthood-legacy
   speaker: Jeffrey R. Holland
   title: Our Priesthood Legacy
   url: https://www.lds.org/general-conference/1995/04/our-priesthood-legacy?lang=eng
   year: 1995
-- article_id: '95905_000_020'
-  item: '017'
+- item: 18
   key: 017-search-for-identity
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: search-for-identity
   speaker: Monte J. Brough
   title: Search for Identity
   url: https://www.lds.org/general-conference/1995/04/search-for-identity?lang=eng
   year: 1995
-- article_id: '95905_000_021'
-  item: 018
+- item: 19
   key: 018-watchmen-on-the-tower
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: watchmen-on-the-tower
   speaker: "Helv\xE9cio Martins"
-  title: "\u201CWatchmen on the Tower\u201D"
+  title: '"Watchmen on the Tower"'
   url: https://www.lds.org/general-conference/1995/04/watchmen-on-the-tower?lang=eng
   year: 1995
-- article_id: '95905_000_022'
-  item: 019
+- item: 20
   key: 019-responsibilities-of-shepherds
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: responsibilities-of-shepherds
   speaker: James E. Faust
   title: Responsibilities of Shepherds
   url: https://www.lds.org/general-conference/1995/04/responsibilities-of-shepherds?lang=eng
   year: 1995
-- article_id: '95905_000_023'
-  item: '020'
+- item: 21
   key: 020-that-all-may-hear
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: that-all-may-hear
   speaker: Thomas S. Monson
   title: That All May Hear
   url: https://www.lds.org/general-conference/1995/04/that-all-may-hear?lang=eng
   year: 1995
-- article_id: '95905_000_024'
-  item: '021'
+- item: 22
   key: 021-this-work-is-concerned-with-people
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: this-work-is-concerned-with-people
   speaker: Gordon B. Hinckley
   title: This Work Is Concerned with People
   url: https://www.lds.org/general-conference/1995/04/this-work-is-concerned-with-people?lang=eng
   year: 1995
-- article_id: '95905_000_025'
-  item: '022'
+- item: 23
   key: 022-mercy-the-divine-gift
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: mercy-the-divine-gift
   speaker: Thomas S. Monson
   title: "Mercy\u2014The Divine Gift"
   url: https://www.lds.org/general-conference/1995/04/mercy-the-divine-gift?lang=eng
   year: 1995
-- article_id: '95905_000_026'
-  item: '023'
+- item: 24
   key: 023-heirs-to-the-kingdom-of-god
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: heirs-to-the-kingdom-of-god
   speaker: James E. Faust
   title: Heirs to the Kingdom of God
   url: https://www.lds.org/general-conference/1995/04/heirs-to-the-kingdom-of-god?lang=eng
   year: 1995
-- article_id: '95905_000_027'
-  item: '024'
+- item: 25
   key: 024-marriage-and-the-great-plan-of-happiness
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: marriage-and-the-great-plan-of-happiness
   speaker: Joe J. Christensen
   title: Marriage and the Great Plan of Happiness
   url: https://www.lds.org/general-conference/1995/04/marriage-and-the-great-plan-of-happiness?lang=eng
   year: 1995
-- article_id: '95905_000_028'
-  item: '025'
+- item: 26
   key: 025-deny-yourselves-of-all-ungodliness
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: deny-yourselves-of-all-ungodliness
   speaker: Neal A. Maxwell
-  title: "\u201CDeny Yourselves of All Ungodliness\u201D"
+  title: '"Deny Yourselves of All Ungodliness"'
   url: https://www.lds.org/general-conference/1995/04/deny-yourselves-of-all-ungodliness?lang=eng
   year: 1995
-- article_id: '95905_000_029'
-  item: '026'
+- item: 27
   key: 026-this-is-the-work-of-the-master
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: this-is-the-work-of-the-master
   speaker: Gordon B. Hinckley
   title: This Is the Work of the Master
   url: https://www.lds.org/general-conference/1995/04/this-is-the-work-of-the-master?lang=eng
   year: 1995
-- article_id: '95905_000_030'
-  item: '027'
+- item: 28
   key: 027-an-elect-lady
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: an-elect-lady
   speaker: L. Tom Perry
   title: An Elect Lady
   url: https://www.lds.org/general-conference/1995/04/an-elect-lady?lang=eng
   year: 1995
-- article_id: '95905_000_031'
-  item: 028
+- item: 29
   key: 028-finding-forgiveness
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: finding-forgiveness
   speaker: Richard G. Scott
   title: Finding Forgiveness
   url: https://www.lds.org/general-conference/1995/04/finding-forgiveness?lang=eng
   year: 1995
-- article_id: '95905_000_032'
-  item: 029
+- item: 30
   key: 029-celebrating-covenants
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: celebrating-covenants
   speaker: Bonnie D. Parkin
   title: Celebrating Covenants
   url: https://www.lds.org/general-conference/1995/04/celebrating-covenants?lang=eng
   year: 1995
-- article_id: '95905_000_033'
-  item: '030'
+- item: 31
   key: 030-easter-reflections
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: easter-reflections
   speaker: Andrew W. Peterson
   title: Easter Reflections
   url: https://www.lds.org/general-conference/1995/04/easter-reflections?lang=eng
   year: 1995
-- article_id: '95905_000_034'
-  item: '031'
+- item: 32
   key: 031-a-table-encircled-with-love
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-table-encircled-with-love
-  speaker: LeGrand R. Curtis
+  speaker: LeGrand R. Curtis Jr.
   title: A Table Encircled with Love
   url: https://www.lds.org/general-conference/1995/04/a-table-encircled-with-love?lang=eng
   year: 1995
-- article_id: '95905_000_035'
-  item: '032'
+- item: 33
   key: 032-apostasy-and-restoration
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: apostasy-and-restoration
   speaker: Dallin H. Oaks
   title: Apostasy and Restoration
   url: https://www.lds.org/general-conference/1995/04/apostasy-and-restoration?lang=eng
   year: 1995
-- article_id: '95905_000_036'
-  item: '033'
+- item: 34
   key: 033-we-have-a-work-to-do
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: we-have-a-work-to-do
   speaker: Gordon B. Hinckley
   title: We Have a Work to Do
   url: https://www.lds.org/general-conference/1995/04/we-have-a-work-to-do?lang=eng
   year: 1995
-- article_id: '95905_000_037'
-  item: '034'
+- item: 35
   key: 034-trying-the-word-of-god
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: trying-the-word-of-god
   speaker: Virginia H. Pearce
   title: Trying the Word of God
   url: https://www.lds.org/general-conference/1995/04/trying-the-word-of-god?lang=eng
   year: 1995
-- article_id: '95905_000_038'
-  item: '035'
+- item: 36
   key: 035-fat-free-feasting
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: fat-free-feasting
   speaker: Bonnie D. Parkin
   title: Fat-Free Feasting
   url: https://www.lds.org/general-conference/1995/04/fat-free-feasting?lang=eng
   year: 1995
-- article_id: '95905_000_039'
-  item: '036'
+- item: 37
   key: 036-ye-shall-feast-upon-this-fruit
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: ye-shall-feast-upon-this-fruit
-  speaker: Janette C. Hales
-  title: "\u201CYe Shall Feast upon This Fruit\u201D"
+  speaker: Janette Hales Beckham
+  title: '"Ye Shall Feast upon This Fruit"'
   url: https://www.lds.org/general-conference/1995/04/ye-shall-feast-upon-this-fruit?lang=eng
   year: 1995
-- article_id: '95905_000_040'
-  item: '037'
+- item: 38
   key: 037-the-reward-is-worth-the-effort
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: the-reward-is-worth-the-effort
   speaker: Melanie Eaton
   title: The Reward Is Worth the Effort
   url: https://www.lds.org/general-conference/1995/04/the-reward-is-worth-the-effort?lang=eng
   year: 1995
-- article_id: '95905_000_041'
-  item: 038
+- item: 39
   key: 038-trust-in-the-lord
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: trust-in-the-lord
   speaker: Andrea Allen
   title: Trust in the Lord
   url: https://www.lds.org/general-conference/1995/04/trust-in-the-lord?lang=eng
   year: 1995
-- article_id: '95905_000_042'
-  item: 039
+- item: 40
   key: 039-he-will-be-there-to-help
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: he-will-be-there-to-help
   speaker: Hilarie Cole
   title: He Will Be There to Help
   url: https://www.lds.org/general-conference/1995/04/he-will-be-there-to-help?lang=eng
   year: 1995
-- article_id: '95905_000_043'
-  item: '040'
+- item: 41
   key: 040-being-leaders-who-foster-growth
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: being-leaders-who-foster-growth
   speaker: Karen Maxwell
   title: Being Leaders Who Foster Growth
   url: https://www.lds.org/general-conference/1995/04/being-leaders-who-foster-growth?lang=eng
   year: 1995
-- article_id: '95905_000_044'
-  item: '041'
+- item: 42
   key: 041-a-time-to-choose
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: a-time-to-choose
   speaker: Thomas S. Monson
   title: A Time to Choose
   url: https://www.lds.org/general-conference/1995/04/a-time-to-choose?lang=eng
   year: 1995
-- article_id: '95905_000_045'
-  item: '042'
+- item: 43
   key: 042-the-light-within-you
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: the-light-within-you
   speaker: Gordon B. Hinckley

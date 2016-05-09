@@ -35,20 +35,20 @@ attitude and our own behavior. God has so ordained it. He loves us and
 believes in us and has done and will do anything he can to help us, but he
 will not impose on our free agency. "We love him," says the scripture,
 "because he first loved us." ([1 Jn.
-4:19](https://www.lds.org/scriptures/nt/1-jn/4.19?lang=eng#18).) He does not
-love us because we love him; he loves us unconditionally. But his love does
-not take the course of negating or smothering our privilege to choose, or our
-responsibility to account for what we choose and to experience the
-consequences. Indeed, it is written that he weeps for the bad judgment of some
-of his willful and disobedient children:
+4:19](/scriptures/nt/1-jn/4.19?lang=eng#18).) He does not love us because we
+love him; he loves us unconditionally. But his love does not take the course
+of negating or smothering our privilege to choose, or our responsibility to
+account for what we choose and to experience the consequences. Indeed, it is
+written that he weeps for the bad judgment of some of his willful and
+disobedient children:
 
 "Behold these thy brethren ... are the workmanship of mine own hands, and I gave
 unto them their knowledge, in the day I created them; and in the Garden of
 Eden, gave I unto man his agency." ([Moses
-7:32](https://www.lds.org/scriptures/pgp/moses/7.32?lang=eng#31).)
+7:32](/scriptures/pgp/moses/7.32?lang=eng#31).)
 
 "And ... the God of heaven looked upon the residue of the people, and he wept."
-([Moses 7:28](https://www.lds.org/scriptures/pgp/moses/7.28?lang=eng#27).)
+([Moses 7:28](/scriptures/pgp/moses/7.28?lang=eng#27).)
 
 We had that agency with God before this world was. In the heavenly council of
 which the scriptures teach, there was another plan than God's presented:
@@ -114,7 +114,7 @@ But it is written also:
 
 "And ... angels descend[ed] out of heaven, bearing testimony of the Father and
 Son; and the Holy Ghost fell on many." ([Moses
-7:26-27](https://www.lds.org/scriptures/pgp/moses/7.26-27?lang=eng#25).)
+7:26-27](/scriptures/pgp/moses/7.26-27?lang=eng#25).)
 
 The contest for the souls of men continues. We go on choosing.
 
@@ -131,14 +131,14 @@ thou mayest live and multiply. ...
 "I call heaven and earth to record this day against you, that I have set
 before you life and death, blessing and cursing: therefore choose life, that
 both thou and thy seed may live." ([Deut. 30:15-16,
-19](https://www.lds.org/scriptures/ot/deut/30.15-16%2C19?lang=eng#14).)
+19](/scriptures/ot/deut/30.15-16,19?lang=eng#14).)
 
 It is written that "God so loved the world, that he gave his only begotten
 Son, that whosoever believeth in him should not perish, but have everlasting
-life." ([John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
-That holy Son died for us and gave us the wonderful example of his life, and
-nothing in that life touches my heart with greater impact than the manner in
-which he chose to live among us:
+life." ([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).) That holy Son died
+for us and gave us the wonderful example of his life, and nothing in that life
+touches my heart with greater impact than the manner in which he chose to live
+among us:
 
 "Forasmuch," it is written, "as the children [that is, we] are partakers of
 flesh and blood, he also himself likewise took part of the same. ...
@@ -152,12 +152,12 @@ God, to make reconciliation for the sins of the people.
 
 "For in that he himself hath suffered being tempted, he is able to succour
 them that are tempted." ([Heb. 2:14,
-16-18](https://www.lds.org/scriptures/nt/heb/2.14%2C16-18?lang=eng#13).)
+16-18](/scriptures/nt/heb/2.14,16-18?lang=eng#13).)
 
 Through that love it now is that "we have not an high priest which cannot be
 touched with the feeling of our infirmities; but was in all points tempted
 like as we are, yet without sin." ([Heb.
-4:15](https://www.lds.org/scriptures/nt/heb/4.15?lang=eng#14).)
+4:15](/scriptures/nt/heb/4.15?lang=eng#14).)
 
 He has the feeling of our infirmities; he understands our temptations. He came
 not as an angel but in flesh and blood that he might be a merciful and
@@ -208,4 +208,6 @@ for all others, and for our holy Savior and his father.
 
 Well may we sing, "I stand all amazed at the love Jesus offers me." In the
 name of Jesus Christ, amen.
+
+## References
 

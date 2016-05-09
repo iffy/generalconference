@@ -41,9 +41,8 @@ faithful, well-prepared couples out into one of the greatest chapters of their
 lives!
 
 Amulek taught: "And he shall come into the world to redeem his people" ([Alma
-11:40](https://www.lds.org/scriptures/bofm/alma/11.40?lang=eng#39)). Must we
-not encourage and hold together "his people" and help prepare them for his
-coming?
+11:40](/scriptures/bofm/alma/11.40?lang=eng#39)). Must we not encourage and
+hold together "his people" and help prepare them for his coming?
 
 Some generally think that full-time missionary service is only for younger,
 unmarried men and women. However, a new social pattern is emerging. The number
@@ -114,8 +113,7 @@ great work. And out of small things proceedeth that which is great.
 
 "Behold, the Lord requireth the heart and a willing mind; and the willing and
 obedient shall eat the good of the land of Zion in these last days." ([D&amp;C
-64:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/64.33-34?lang=eng#32).)
+64:33-34](/scriptures/dc-testament/dc/64.33-34?lang=eng#32).)
 
 Now to you mature couples: don't wait until your retirement dinner and the
 traditional gold watch to make plans, but let's start now. Prepare for what
@@ -148,7 +146,7 @@ cleansed by the power of the Holy Ghost, they were _numbered among the people_
 of the church of Christ; and _their names were taken,_ that _they might be
 remembered_ and _nourished_ by the good word of God, to keep them in the right
 way, to keep them continually watchful unto prayer" ([Moro.
-6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3); italics added).
+6:4](/scriptures/bofm/moro/6.4?lang=eng#3); italics added).
 
 In many areas of the world we have converts that need to be remembered with
 care and love and encouraged and kept in the right way, as Moroni stated. But
@@ -195,7 +193,7 @@ now grieved because the Savior had asked the third time, "Lovest thou me?"
 said, "Lord, thou knowest all things; thou knowest that I love thee."
 
 Jesus said unto him, "Feed my sheep." (See [John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).)
+21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14).)
 
 To us of his church, isn't the duty clear: forever to "feed my sheep," his
 followers, those who have accepted his gospel? They are his. Isn't he saying
@@ -205,4 +203,6 @@ those who are new. "Feed my lambs," he is saying to us.
 May many of us who are fully prepared and needing the blessings put aside the
 things of the world and become shepherds to the flock and lose ourselves in
 his service. In the name of the Lord Jesus Christ, amen.
+
+## References
 

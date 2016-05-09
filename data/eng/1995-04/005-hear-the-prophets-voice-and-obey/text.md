@@ -44,8 +44,7 @@ so he proclaimed a fast throughout all his kingdom and gathered the people of
 Judah together to plead for guidance from the Lord. Jehoshaphat humbly and
 earnestly prayed: "O our God, ... we have no might against this great company
 that cometh against us; neither know we what to do: but our eyes are upon
-thee" ([2 Chr.
-20:12](https://www.lds.org/scriptures/ot/2-chr/20.12?lang=eng#11)).
+thee" ([2 Chr. 20:12](/scriptures/ot/2-chr/20.12?lang=eng#11)).
 
 Then came the answer of the Lord through the prophet Jahaziel: "Hearken ye,
 all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus
@@ -53,8 +52,7 @@ saith the Lord unto you, _Be not afraid nor dismayed by reason of this great
 multitude; for the battle is not yours, but God's._ ...
 
 "Fear not, nor be dismayed; ... for the Lord will be with you" ([2 Chr. 20:15,
-17](https://www.lds.org/scriptures/ot/2-chr/20.15%2C17?lang=eng#14); emphasis
-added).
+17](/scriptures/ot/2-chr/20.15,17?lang=eng#14); emphasis added).
 
 Jehoshaphat and all the inhabitants of Jerusalem fell in thankful prayer
 before the Lord.
@@ -63,8 +61,7 @@ Jehoshaphat then gave very important counsel that we today would do well to
 obey. Indeed, just as the people of Judah, our lives may depend upon it--even
 our eternal lives: _"Believe in the Lord your God, so shall ye be established;
 believe his prophets, so shall ye prosper"_ ([2 Chr.
-20:20](https://www.lds.org/scriptures/ot/2-chr/20.20?lang=eng#19); emphasis
-added).
+20:20](/scriptures/ot/2-chr/20.20?lang=eng#19); emphasis added).
 
 As promised, the Lord protected the good people of Judah. As Jehoshaphat's
 forces looked on, those armies which came to battle against them fought so
@@ -87,8 +84,7 @@ have written save he shall be of the spirit of the devil.
 
 _"I glory in plainness; I glory in truth; I glory in my Jesus,_ for he hath
 redeemed my soul from hell" ([2 Ne.
-33:4-6](https://www.lds.org/scriptures/bofm/2-ne/33.4-6?lang=eng#3); emphasis
-added).
+33:4-6](/scriptures/bofm/2-ne/33.4-6?lang=eng#3); emphasis added).
 
 Another account of Jehoshaphat illustrates how prophets speak directly and
 plainly the word of God and let the consequence follow. Ahab, the king of
@@ -100,16 +96,14 @@ After four hundred of Ahab's so-called prophets told Ahab only what he wanted
 to hear--that he would be victorious over Syria--Jehoshaphat asked if he
 didn't have any other prophets. Ahab replied, "There is yet one man, Micaiah ...
 : _but I hate him; for he doth not prophesy good concerning me, but evil"_ ([1
-Kgs. 22:8](https://www.lds.org/scriptures/ot/1-kgs/22.8?lang=eng#7); emphasis
-added).
+Kgs. 22:8](/scriptures/ot/1-kgs/22.8?lang=eng#7); emphasis added).
 
 Jehoshaphat convinced Ahab to seek the word of the prophet Micaiah. The
 messenger who was sent to bring Micaiah before the kings cautioned Micaiah to
 tell Ahab only what he wanted to hear. _"And Micaiah said, As the Lord liveth,
 what the Lord saith unto me, that will I speak"_ ([1 Kgs.
-22:14](https://www.lds.org/scriptures/ot/1-kgs/22.14?lang=eng#13); emphasis
-added). Micaiah told Ahab that Israel would not return victorious and that
-Ahab would be killed.
+22:14](/scriptures/ot/1-kgs/22.14?lang=eng#13); emphasis added). Micaiah told
+Ahab that Israel would not return victorious and that Ahab would be killed.
 
 Against the counsel of the prophet, Ahab went to battle, and lost his life,
 and Israel was defeated.
@@ -119,7 +113,7 @@ of God with plainness and truth and let the consequence follow.
 
 "We believe in the same organization that existed in the Primitive Church,
 namely, apostles, prophets, pastors, teachers, evangelists, and so forth" ([A
-of F 1:6](https://www.lds.org/scriptures/pgp/a-of-f/1.6?lang=eng#5)).
+of F 1:6](/scriptures/pgp/a-of-f/1.6?lang=eng#5)).
 
 President Joseph Fielding Smith taught that it was necessary for the Church of
 Jesus Christ to be restored in this dispensation and that "all the keys and
@@ -158,7 +152,7 @@ fathers, lest the whole earth be smitten with a curse--
 
 "Therefore, the keys of this dispensation are committed into your hands; and
 by this ye may know that the great and dreadful day of the Lord is near, even
-at the doors" ([D&amp;C 110:11-16](https://www.lds.org/scriptures/dc-
+at the doors" ([D&amp;C 110:11-16](/scriptures/dc-
 testament/dc/110.11-16?lang=eng#10)).
 
 With the restoration of the priesthood in 1829, there was a restoration of
@@ -172,8 +166,7 @@ The scriptures tell us that prophets receive commandments "walking in all
 holiness before me;
 
 "For his word ye shall receive, as if from mine own mouth, in all patience and
-faith" ([D&amp;C 21:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-5?lang=eng#3)).
+faith" ([D&amp;C 21:4-5](/scriptures/dc-testament/dc/21.4-5?lang=eng#3)).
 
 We sing a hymn that reminds us:
 
@@ -217,8 +210,7 @@ qualities of the prophets of old and the other prophets of this dispensation.
 Each of these prophets has humbly and prayerfully sought to know and follow
 God's will in his personal ministry. Each has been determined to declare to
 Heavenly Father, as did an obedient Jesus Christ before him, "not my will, but
-thine, be done" ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41)).
+thine, be done" ([Luke 22:42](/scriptures/nt/luke/22.42?lang=eng#41)).
 
 If we listen to the prophets of this day, poverty would be replaced with
 loving care for the poor and needy. Many serious and deadly health problems
@@ -237,7 +229,7 @@ strengthen others.
 The desire of the prophets is to assist our Father in Heaven and his Son Jesus
 Christ in bringing about the great objectives of the plan of salvation, or, as
 one ancient prophet called it, "the great plan of happiness" ([Alma
-42:8](https://www.lds.org/scriptures/bofm/alma/42.8?lang=eng#7)).
+42:8](/scriptures/bofm/alma/42.8?lang=eng#7)).
 
 We declare with soberness, and yet with the authority of God in us vested, we
 have a prophet today. The President of the Church, as a prophet, is God's
@@ -249,9 +241,9 @@ restoration of The Church of Jesus Christ of Latter-day Saints.
 He who holds all the priesthood keys authorizing those saving blessings is the
 living prophet. The Lord has declared "there is never but one on the earth at
 a time on whom this power and the keys of this priesthood are conferred"
-([D&amp;C 132:7](https://www.lds.org/scriptures/dc-
-testament/dc/132.7?lang=eng#6)). I testify that President Gordon B. Hinckley
-is the _one_ in whom those keys are currently vested.
+([D&amp;C 132:7](/scriptures/dc-testament/dc/132.7?lang=eng#6)). I testify
+that President Gordon B. Hinckley is the _one_ in whom those keys are
+currently vested.
 
 He is our prophet today. He was prepared and foreordained before the
 foundation of the world. For over a half century, he has been taught and
@@ -265,4 +257,6 @@ Father and our Savior Jesus Christ.
 
 I humbly add my testimony to the testimonies of all who have sustained the
 prophet this day in this solemn assembly in the name of Jesus Christ, amen.
+
+## References
 

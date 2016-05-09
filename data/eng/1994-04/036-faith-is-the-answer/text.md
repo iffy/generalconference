@@ -25,31 +25,25 @@ of Jesus Christ of Latter-day Saints, 1989, p. 7).
 When we bring that definition into everyday language, faith means that I
 really believe that:
 
-  * Heavenly Father and Jesus Christ live, and they are in charge of this world.
-
-  * They know me.
-
-  * They love me.
-
-  * They have a plan for my future.
-
-  * I will obey the commandments, work hard, and trust in their plan. Sooner or later, everything will be okay.
+  * Heavenly Father and Jesus Christ live, and they are in charge of this world. 
+  * They know me. 
+  * They love me. 
+  * They have a plan for my future. 
+  * I will obey the commandments, work hard, and trust in their plan. Sooner or later, everything will be okay. 
 
 Now I'd like to tell you three simple stories. We'll begin with a familiar
 one.
 
 God loved Moses. He called him "my son" ([Moses 1:6, 7,
-40](https://www.lds.org/scriptures/pgp/moses/1.6%2C7%2C40?lang=eng#5)). He
-watched over him as a tiny baby wrapped in a blanket and placed in a basket in
-the bulrushes (see [Ex.
-2:3](https://www.lds.org/scriptures/ot/ex/2.3?lang=eng#2)). As part of God's
-plan for Moses, he miraculously came to be raised in the courts of the
-pharaoh. Then God led Moses to Jethro, who taught him the ways of
-righteousness. Moses kept the commandments of God. As God asked more and more
-difficult things of him, Moses obeyed. He even went to the pharaoh, despite
-his fears and feelings of inadequacy, repeatedly demanding that Pharaoh free
-the children of Israel from bondage--"Let my people go" ([Ex.
-7:16](https://www.lds.org/scriptures/ot/ex/7.16?lang=eng#15)).
+40](/scriptures/pgp/moses/1.6,7,40?lang=eng#5)). He watched over him as a tiny
+baby wrapped in a blanket and placed in a basket in the bulrushes (see [Ex.
+2:3](/scriptures/ot/ex/2.3?lang=eng#2)). As part of God's plan for Moses, he
+miraculously came to be raised in the courts of the pharaoh. Then God led
+Moses to Jethro, who taught him the ways of righteousness. Moses kept the
+commandments of God. As God asked more and more difficult things of him, Moses
+obeyed. He even went to the pharaoh, despite his fears and feelings of
+inadequacy, repeatedly demanding that Pharaoh free the children of Israel from
+bondage--"Let my people go" ([Ex. 7:16](/scriptures/ot/ex/7.16?lang=eng#15)).
 
 The Lord showed forth miracles to the pharaoh, but he continued to refuse
 Moses' request, until his own firstborn son was struck dead. Then in fear,
@@ -58,12 +52,11 @@ forth from among my people, both ye and the children of Israel; and go, serve
 the Lord. ...
 
 "Take your flocks and your herds, ... and be gone" ([Ex.
-12:31-32](https://www.lds.org/scriptures/ot/ex/12.31-32?lang=eng#30)).
+12:31-32](/scriptures/ot/ex/12.31-32?lang=eng#30)).
 
 And so six hundred thousand Israelite men and about one-and-a-half million
 women and children left Egypt on foot. "The Lord went before them ... to lead ...
-the way" ([Ex.
-13:21](https://www.lds.org/scriptures/ot/ex/13.21?lang=eng#20)).
+the way" ([Ex. 13:21](/scriptures/ot/ex/13.21?lang=eng#20)).
 
 But by the time they had reached the Red Sea, Pharaoh had changed his mind. He
 wanted his six hundred thousand slaves back, so with a host of chariots he
@@ -77,15 +70,14 @@ the Egyptians, than that we should die in the wilderness.
 "And Moses said unto the people, Fear ye not, stand still. ...
 
 "The Lord shall fight for you, and ye shall hold your peace" ([Ex.
-14:12-14](https://www.lds.org/scriptures/ot/ex/14.12-14?lang=eng#11)).
+14:12-14](/scriptures/ot/ex/14.12-14?lang=eng#11)).
 
 And they remembered their faith. You know the next part of the story: "The
 Lord ... made the sea dry land. ...
 
 "And the children of Israel went into the midst of the sea upon the dry
 ground: and the waters were a wall unto them on their right hand, and on their
-left" ([Ex.
-14:21-22](https://www.lds.org/scriptures/ot/ex/14.21-22?lang=eng#20)).
+left" ([Ex. 14:21-22](/scriptures/ot/ex/14.21-22?lang=eng#20)).
 
 The Egyptians pursued them, "and the waters returned, and covered the
 chariots, and the horsemen, and [of] all the host of Pharaoh ... there remained
@@ -94,17 +86,13 @@ not ... one of them. ...
 "Thus the Lord saved Israel. ...
 
 "And the people ... believed the Lord, and his servant Moses" ([Ex. 14:28,
-30-31](https://www.lds.org/scriptures/ot/ex/14.28%2C30-31?lang=eng#27)).
+30-31](/scriptures/ot/ex/14.28,30-31?lang=eng#27)).
 
-  * Heavenly Father and Jesus Christ live, and they are in charge of this world.
-
-  * Heavenly Father knew the Israelites.
-
-  * Heavenly Father loved the Israelites.
-
-  * Heavenly Father had a plan for their future.
-
-  * Moses and his people obeyed the commandments, worked hard, and trusted in Heavenly Father's plan. Sooner or later, everything was okay.
+  * Heavenly Father and Jesus Christ live, and they are in charge of this world. 
+  * Heavenly Father knew the Israelites. 
+  * Heavenly Father loved the Israelites. 
+  * Heavenly Father had a plan for their future. 
+  * Moses and his people obeyed the commandments, worked hard, and trusted in Heavenly Father's plan. Sooner or later, everything was okay. 
 
 My great-great-grandmother's name was Mary Goble Pay. She was twelve years old
 and living in Brighton, England, when the missionaries taught her family the
@@ -116,7 +104,7 @@ By the time they could get outfitted and started on the trail, it was the
 middle of July. Winter storms came early that year, and the Gobles spent five
 terrible months on the trail between St. Louis and Salt Lake City. Mary wrote:
 "We had to keep close to [the handcart companies] to help them if we could. We
-began to get short of food and our cattle gave out" (_A Believing People ,_
+began to get short of food and our cattle gave out" (_A Believing People, _
 ed. Richard H. Cracroft and Neal E. Lambert, Provo: Brigham Young University
 Press, 1974, p. 144). Many died--among them Mary's two-year-old sister, her
 five-year-old brother, and Edith, a baby sister born on the trail and buried
@@ -143,15 +131,11 @@ to go to Zion while my children are small, so they can be raised in the Gospel
 of Christ. For I know this is the true Church." Mary concludes, "I think my
 mother had her wish" (ibid., pp. 149-50).
 
-  * Heavenly Father and Jesus Christ live, and they are in charge of this world.
-
-  * They knew Mary Goble Pay.
-
-  * They loved her.
-
-  * They had a plan for her future.
-
-  * She obeyed the commandments, worked hard, and trusted in their plan. And sooner or later, everything was okay.
+  * Heavenly Father and Jesus Christ live, and they are in charge of this world. 
+  * They knew Mary Goble Pay. 
+  * They loved her. 
+  * They had a plan for her future. 
+  * She obeyed the commandments, worked hard, and trusted in their plan. And sooner or later, everything was okay. 
 
 When I was fifteen years old, my mother suggested that I get a patriarchal
 blessing. Although I hadn't thought of doing so, her suggestion felt right,
@@ -182,15 +166,11 @@ _knows_ me. Heavenly Father knows _me!_ And he has a plan for my future. I
 don't need to know all the details, but if I do my part, it will turn out
 wonderfully well.
 
-  * Heavenly Father and Jesus Christ live, and they are in charge of this world.
-
-  * They know me.
-
-  * They love me.
-
-  * They have a plan for my future.
-
-  * I will obey the commandments, work hard, and trust in that plan. Sooner or later, everything will be okay.
+  * Heavenly Father and Jesus Christ live, and they are in charge of this world. 
+  * They know me. 
+  * They love me. 
+  * They have a plan for my future. 
+  * I will obey the commandments, work hard, and trust in that plan. Sooner or later, everything will be okay. 
 
 Now, I have told you these stories tonight for a very important reason. Each
 of them belongs to you--the Israelites of ancient times are _your_ people. The
@@ -210,18 +190,16 @@ you trusting until you understand better.
 
 Now, pay attention to your feelings as I define faith one last time:
 
-  * Heavenly Father and Jesus Christ live, and they are in charge of this world.
-
-  * They know you.
-
-  * They love you.
-
-  * They have a plan for your futures.
-
-  * You must obey the commandments, work hard, and trust in their plan. And sooner or later, everything will be wonderful.
+  * Heavenly Father and Jesus Christ live, and they are in charge of this world. 
+  * They know you. 
+  * They love you. 
+  * They have a plan for your futures. 
+  * You must obey the commandments, work hard, and trust in their plan. And sooner or later, everything will be wonderful. 
 
 Did you notice how you felt? Even talking about faith brings feelings of peace
 and steadiness, doesn't it? Faith is the answer. I need more faith. You need
 more faith. Heavenly Father, increase our faith, I pray, in the name of Jesus
 Christ, amen.
+
+## References
 

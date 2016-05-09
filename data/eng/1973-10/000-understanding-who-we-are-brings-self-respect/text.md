@@ -36,11 +36,11 @@ against the wickedness of the world, and I quote his words:
 Lord; and I will heal him. But the wicked are like the troubled sea, when it
 cannot rest, whose waters cast up mire and dirt. There is no peace, saith my
 God, to the wicked." ([Isa.
-57:19-21](https://www.lds.org/scriptures/ot/isa/57.19-21?lang=eng#18).)
+57:19-21](/scriptures/ot/isa/57.19-21?lang=eng#18).)
 
 Other prophets have declared likewise, so forcibly as to not be misunderstood,
 that "wickedness never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).)
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9).)
 
 As I have prayerfully thought of the reasons why one chooses this course which
 is dramatically described by the prophet Isaiah--when one who has departed
@@ -108,12 +108,12 @@ texts which should be impressed upon every soul.
 The psalmist wrote: "What is man, that thou art mindful of him? and the son of
 man, that thou visitest him? For thou hast made him a little lower than the
 angels, and hast crowned him with glory and honour." ([Ps.
-8:4-5](https://www.lds.org/scriptures/ot/ps/8.4-5?lang=eng#3).)
+8:4-5](/scriptures/ot/ps/8.4-5?lang=eng#3).)
 
 And the next is the question the Lord posed to Job: "Where wast thou when I
 laid the foundations of the earth? declare, if thou hast understanding. ... [of]
 when the morning stars sang together, and all the sons of God shouted for
-joy?" ([Job 38:4-7](https://www.lds.org/scriptures/ot/job/38.4-7?lang=eng#3).)
+joy?" ([Job 38:4-7](/scriptures/ot/job/38.4-7?lang=eng#3).)
 
 Reduced to more simple language than the words of those questions from the
 scriptures, the prophets in these quotations are simply asking each of us,
@@ -136,13 +136,13 @@ above the dismal dreariness of this troubled world.
 The apostle Paul wrote: "Furthermore we have had fathers of our flesh which
 corrected us, and we gave them reverence: shall we not much rather be in
 subjection unto the Father of spirits, and live?" ([Heb.
-12:9](https://www.lds.org/scriptures/nt/heb/12.9?lang=eng#8).)
+12:9](/scriptures/nt/heb/12.9?lang=eng#8).)
 
 This suggests that all who live upon the earth, who have fathers on earth,
 likewise have a father of their spirits. So did Moses and Aaron, as they fell
 upon their faces, cry out: "O God, the God of the spirits of all flesh, shall
 one man sin, and wilt thou be wroth with all the congregation?" ([Num.
-16:22](https://www.lds.org/scriptures/ot/num/16.22?lang=eng#21).)
+16:22](/scriptures/ot/num/16.22?lang=eng#21).)
 
 Note how they addressed the Lord, "... the God [Father] of the spirits of all
 flesh [mankind]. ..."
@@ -158,14 +158,14 @@ noble and great ones;
 them, and he said: These I will make my rulers; for he stood among those that
 were spirits, and he saw that they were good; and he said unto me: Abraham,
 thou art one of them; thou wast chosen before thou wast born." ([Abr.
-3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21).)
+3:22-23](/scriptures/pgp/abr/3.22-23?lang=eng#21).)
 
 There we are told that the Lord promised that those who were faithful in that
 premortal world would be added upon, by having a physical body in this second
 estate of this earth's existence and, furthermore, if they would keep the
 commandments as God taught by the revelations, they would have "glory added
 upon their heads for ever and ever." ([Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25).)
+3:26](/scriptures/pgp/abr/3.26?lang=eng#25).)
 
 Now, there are several precious truths in that scripture. First, we have a
 definition of what a spirit is, as it relates to our physical body. What did
@@ -175,8 +175,8 @@ body)? A modern Latter-day prophet gives us an inspired answer:
 "... that which is spiritual being in the likeness of that which is temporal;
 and that which is temporal in the likeness of that which is spiritual; the
 spirit of man in the likeness of his person, as also the spirit of the beast,
-and every other creature which God has created." ([D&amp;C
-77:2](https://www.lds.org/scriptures/dc-testament/dc/77.2?lang=eng#1).)
+and every other creature which God has created." ([D&amp;C 77:2](/scriptures
+/dc-testament/dc/77.2?lang=eng#1).)
 
 The next truth we learn from this scripture is that you and I, having been
 spirits and now having bodies, were among those who passed that first test and
@@ -192,39 +192,38 @@ great glory of returning to God our Father who gave us life.
 So the Old Testament prophets declared with respect to death: "Then shall the
 dust [meaning our mortal bodies] return to the earth as it was: and the spirit
 shall return unto God who gave it." ([Eccl.
-12:7](https://www.lds.org/scriptures/ot/eccl/12.7?lang=eng#6).)
+12:7](/scriptures/ot/eccl/12.7?lang=eng#6).)
 
 Obviously we could not return to a place where we had never been, so we are
 talking about death as a process as miraculous as birth, by which we return to
 "our Father who art in heaven," as the Master taught his disciples to pray.
 
 A further truth is clearly set forth in that scripture [[Abr.
-3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21)], that
-many were chosen, as was Abraham, before they were born, as the Lord told
-Moses and also Jeremiah. This was made still more meaningful by the Latter-day
-prophet, Joseph Smith, who declared, "I believe that every person who is
-called to do an important work in the kingdom of God, was called to that work
-and foreordained to that work before the world was." Then he added this, "I
-believe that I was foreordained to the work that I am called to do." (See
-_Documentary History of the Church, _vol. 6, p. 364.)
+3:22-23](/scriptures/pgp/abr/3.22-23?lang=eng#21)], that many were chosen, as
+was Abraham, before they were born, as the Lord told Moses and also Jeremiah.
+This was made still more meaningful by the Latter-day prophet, Joseph Smith,
+who declared, "I believe that every person who is called to do an important
+work in the kingdom of God, was called to that work and foreordained to that
+work before the world was." Then he added this, "I believe that I was
+foreordained to the work that I am called to do." (See _Documentary History of
+the Church, _vol. 6, p. 364.)
 
 But now there is a warning: Despite that calling which is spoken of in the
 scriptures as "foreordination," we have another inspired declaration: "Behold,
-there are many called, but few are chosen. ..." ([D&amp;C
-121:34](https://www.lds.org/scriptures/dc-testament/dc/121.34?lang=eng#33).)
+there are many called, but few are chosen. ..." ([D&amp;C 121:34](/scriptures
+/dc-testament/dc/121.34?lang=eng#33).)
 
 This suggests that even though we have our free agency here, there are many
 who were foreordained before the world was, to a greater state than they have
 prepared themselves for here. Even though they might have been among the noble
 and great, from among whom the Father declared he would make his chosen
 leaders, they may fail of that calling here in mortality. Then the Lord poses
-this question: "... and why are they not chosen?" ([D&amp;C
-121:34](https://www.lds.org/scriptures/dc-testament/dc/121.34?lang=eng#33).)
+this question: "... and why are they not chosen?" ([D&amp;C 121:34](/scriptures
+/dc-testament/dc/121.34?lang=eng#33).)
 
 Two answers were given--First, "Because their hearts are set so much upon the
 things of this world. ..." And second, they "... aspire to the honors of men."
-([D&amp;C 121:35](https://www.lds.org/scriptures/dc-
-testament/dc/121.35?lang=eng#34).)
+([D&amp;C 121:35](/scriptures/dc-testament/dc/121.35?lang=eng#34).)
 
 Now then, to make a summary of what I have just read, may I ask each of you
 again the question, "Who are you?" You are all the sons and daughters of God.
@@ -250,7 +249,7 @@ and the bounds of their habitation;
 
 "That they should seek the Lord, if haply they might feel after him, and find
 him, though he be not far from every one of us." ([Acts 17:24,
-26-27](https://www.lds.org/scriptures/nt/acts/17.24%2C26-27?lang=eng#23).)
+26-27](/scriptures/nt/acts/17.24,26-27?lang=eng#23).)
 
 Here then again we have the Lord making a further enlightening declaration to
 Moses as recorded in the Book of Deuteronomy:
@@ -258,14 +257,13 @@ Moses as recorded in the Book of Deuteronomy:
 "When the most High divided to the nations their inheritance, when he
 separated the sons of Adam, he set the bounds of the people according to the
 number of the children of Israel." ([Deut.
-32:8](https://www.lds.org/scriptures/ot/deut/32.8?lang=eng#7).)
+32:8](/scriptures/ot/deut/32.8?lang=eng#7).)
 
 Now, mind you, this was said to the children of Israel before they had arrived
 in the "Promised Land," which was to be the land of their inheritance.
 
 Then note this next verse: "For the Lord's portion is his people; Jacob is the
-lot of his inheritance." ([Deut.
-32:9](https://www.lds.org/scriptures/ot/deut/32.9?lang=eng#8).)
+lot of his inheritance." ([Deut. 32:9](/scriptures/ot/deut/32.9?lang=eng#8).)
 
 It would seem very clear, then, that those born to the lineage of Jacob, who
 was later to be called Israel, and his posterity, who were known as the
@@ -292,21 +290,20 @@ which are expedient unto man. And they are free to choose liberty and eternal
 life, through the great mediation of all men, or to choose captivity and
 death, according to the captivity and power of the devil; for he seeketh that
 all men might be miserable like unto himself." ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).)
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).)
 
 The apostle Paul impressed the sacredness of our individual bodies in this
 statement: "Know ye not that ye are the temple of God, and that the Spirit of
 God dwelleth in you? If any man defile the temple of God, him shall God
 destroy; for the temple of God is holy, which temple ye are." ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
 
 And, again, he said further to those who had been baptized members of the
 church that they had received the gift of a special endowment known as the
 Holy Ghost. This was his teaching: "What? know ye not that your body is the
 temple of the Holy Ghost which is in you, which ye have of God, and ye are not
 your own? ... therefore glorify God in your body, and in your spirit, which are
-God's." ([1 Cor.
-6:19-20](https://www.lds.org/scriptures/nt/1-cor/6.19-20?lang=eng#18).)
+God's." ([1 Cor. 6:19-20](/scriptures/nt/1-cor/6.19-20?lang=eng#18).)
 
 If we can get a person to think what those words mean, then we can begin to
 understand the significance of the words of the renowned psychologist,
@@ -321,10 +318,9 @@ measures of decency, then certainly we are witnessing the frightening aspect
 of one over whom Satan has achieved a victory, as the Lord declared he would
 try to do "to deceive and to blind men, and to lead them captive at his will ...
 to destroy the agency of man." (See [Moses
-4:1-4](https://www.lds.org/scriptures/pgp/moses/4.1-4?lang=eng#0).) This is
-the fate of "even as many as would not hearken unto my voice" ([Moses
-4:4](https://www.lds.org/scriptures/pgp/moses/4.4?lang=eng#3)), so declared
-the Lord to Moses.
+4:1-4](/scriptures/pgp/moses/4.1-4?lang=eng#0).) This is the fate of "even as
+many as would not hearken unto my voice" ([Moses
+4:4](/scriptures/pgp/moses/4.4?lang=eng#3)), so declared the Lord to Moses.
 
 Some years ago I read a report from a survey made by ministers who had studied
 a number of cases of students who had committed suicide. This was their firm
@@ -340,19 +336,19 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:26-27](https://www.lds.org/scriptures/nt/matt/7.26-27?lang=eng#25).)
+7:26-27](/scriptures/nt/matt/7.26-27?lang=eng#25).)
 
 The Lord's eternal purpose with respect to his plan of salvation was declared
 to Moses: "For behold, this is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 The first goal in that eternal plan was for each of us to come to earth and
 gain a physical body, and then, after death and the resurrection which would
 follow, the spirit and the resurrected body would not thereafter be subject to
 death. All of this was a free gift to every living soul as Paul declared: "For
 as in Adam all die, even so in Christ shall all be made alive." ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21).)
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21).)
 
 What this means to one dying with a malignant malady or to a mother bereft of
 a child may be illustrated by the expressions of a young mother whom I visited
@@ -421,8 +417,7 @@ Contrasted with the sublime peace to one such as that wonderful sister I
 visited in the hospital is that terrifying state of those who do not, as they
 approach death, have that great comfort, for as the Lord has told us plainly:
 "And they that die not in me, wo unto them, for their death is bitter."
-([D&amp;C 42:47](https://www.lds.org/scriptures/dc-
-testament/dc/42.47?lang=eng#46).)
+([D&amp;C 42:47](/scriptures/dc-testament/dc/42.47?lang=eng#46).)
 
 It was George Bernard Shaw who said, "If we all realized that we were the
 children of one father, we would stop shouting at each other as much as we
@@ -450,15 +445,17 @@ best of which I am capable of doing.
 I again bear my solemn witness to the great truth of the Master's profound
 words to the sobbing Martha: "I am the resurrection, and the life: he that
 believeth in me, though he were dead, yet shall he live." ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24).)
+11:25](/scriptures/nt/john/11.25?lang=eng#24).)
 
 I thank God that I too can say, with the same spirit as did Martha, who bore
 her testimony as the Spirit witnessed to her from the depths of her soul:
 
 "Yea, Lord: I [too know] that thou art the Christ, the Son of God, which
 [came] into the world." (See [John
-11:27](https://www.lds.org/scriptures/nt/john/11.27?lang=eng#26).)
+11:27](/scriptures/nt/john/11.27?lang=eng#26).)
 
 In the name of our Lord and Master, Jesus, the Christ, the Savior of the
 world, even so. Amen.
+
+## References
 

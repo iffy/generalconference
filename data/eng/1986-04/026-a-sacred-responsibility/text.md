@@ -17,8 +17,8 @@ armies of Israel. As long as his arms were raised, Israel prevailed, but when
 they dropped from weariness, then the enemy prevailed. And so Aaron and Hur
 "stayed up his hands, the one on the one side, and the other on the other
 side," and Israel was victorious. ([Ex.
-17:12](https://www.lds.org/scriptures/ot/ex/17.12?lang=eng#11).) So will we be
-victorious as we hold up the arms of the Lord's anointed servants.
+17:12](/scriptures/ot/ex/17.12?lang=eng#11).) So will we be victorious as we
+hold up the arms of the Lord's anointed servants.
 
 I have been aware of those who preceded me in this office as President of the
 Church. I have felt very keenly my dependence upon the Lord and the absolute
@@ -42,7 +42,7 @@ Bishopric.
 
 There is a great spirit of unity among the General Authorities of the Church.
 That unity is very real and most important, for the Lord has said, "If ye are
-not one ye are not mine." ([D&amp;C 38:27](https://www.lds.org/scriptures/dc-
+not one ye are not mine." ([D&amp;C 38:27](/scriptures/dc-
 testament/dc/38.27?lang=eng#26).)
 
 We shall continue to work together as Brethren, united in one purpose--to move
@@ -139,9 +139,8 @@ Authorities took that message to the members of the Church.
 
 Now, in our day, the Lord has revealed the need to reemphasize the Book of
 Mormon to get the Church and all the children of Zion out from under
-condemnation--the scourge and judgment. (See [D&amp;C
-84:54-58](https://www.lds.org/scriptures/dc-
-testament/dc/84.54-58?lang=eng#53).) This message must be carried to the
+condemnation--the scourge and judgment. (See [D&amp;C 84:54-58](/scriptures
+/dc-testament/dc/84.54-58?lang=eng#53).) This message must be carried to the
 members of the Church throughout the world.
 
 Now, as we come to the close of this great conference, I want you to know that
@@ -150,15 +149,14 @@ purposes will be accomplished.
 
 Christ is our ideal. He is our exemplar. What manner of men and women should
 we be? Even as He is. (See [3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).) The best
-measure of true greatness is how Christlike we are.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).) The best measure of true
+greatness is how Christlike we are.
 
 The Book of Mormon declares that "every thing which inviteth and enticeth to
 do good, and to love God, and to serve him, is inspired of God." And
 "whatsoever thing persuadeth men to do evil, and believe not in Christ, and
 deny him, and serve not God, then ye may know with a perfect knowledge it is
-of the devil." ([Moro. 7:13,
-17](https://www.lds.org/scriptures/bofm/moro/7.13%2C17?lang=eng#12).)
+of the devil." ([Moro. 7:13, 17](/scriptures/bofm/moro/7.13,17?lang=eng#12).)
 
 Let us use that standard to judge what we read, the music we hear, the
 entertainment we watch, the thoughts we think. Let us be more Christlike.
@@ -181,4 +179,6 @@ witness.
 I testify that the Book of Mormon is the word of God. Jesus is the Christ.
 Joseph Smith is His prophet. The Church of Jesus Christ of Latter-day Saints
 is true. In the name of Jesus Christ, amen.
+
+## References
 

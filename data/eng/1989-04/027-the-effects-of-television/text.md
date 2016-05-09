@@ -66,15 +66,11 @@ Allow me to share highlights of some alarming findings from research studies
 conducted over the past eight to ten years on the effects of television when
 watched more than two hours a day _without_ the careful selection of programs.
 
-  1. Before television, children played together more often, played outdoors more, spent more time being creative and inventive, and read more. Parents and children spent more time together, talked together more, shared more joint projects and chores, and ate more meals together. (See Ellen B. De Franco, _TV On-Off: Better Family Use of Television,_ Santa Monica, Calif., Goodyear Publishing Co., 1980, pp. 5-6.)
-
-  2. Television is psychologically addictive. (Ibid., p. 4.)
-
-  3. Television is a _physically_ passive activity and generally discourages creative play. It can encourage a certain kind of passivity which leads to a "show me or entertain me" orientation by children. (See _Television and Behavior,_ Rockville, Md.: National Institute of Mental Health, 1987, pp. 45-46.)
-
-  4. Television tends to overpower and desensitize a child's sense of sympathy for suffering. (See Kate Moody, _Growing Up on Television: The TV Effect--A Report to Parents,_ New York: Times Books, 1980, pp. 91-92.)
-
-  5. Some children lose the ability to learn from reality because life's experiences are more complicated than those seen on the screen. Teachers and parents, therefore, suffer by comparison when they cannot solve problems in thirty to sixty minutes. (See Ben Logan and Kate Moody, eds., _Television Awareness Training: The Viewer's Guide for Family and Community,_ Nashville: Abingdon, 1979, p. 43.)
+  1. Before television, children played together more often, played outdoors more, spent more time being creative and inventive, and read more. Parents and children spent more time together, talked together more, shared more joint projects and chores, and ate more meals together. (See Ellen B. De Franco, _TV On-Off: Better Family Use of Television,_ Santa Monica, Calif., Goodyear Publishing Co., 1980, pp. 5-6.) 
+  2. Television is psychologically addictive. (Ibid., p. 4.) 
+  3. Television is a _physically_ passive activity and generally discourages creative play. It can encourage a certain kind of passivity which leads to a "show me or entertain me" orientation by children. (See _Television and Behavior,_ Rockville, Md.: National Institute of Mental Health, 1987, pp. 45-46.) 
+  4. Television tends to overpower and desensitize a child's sense of sympathy for suffering. (See Kate Moody, _Growing Up on Television: The TV Effect--A Report to Parents,_ New York: Times Books, 1980, pp. 91-92.) 
+  5. Some children lose the ability to learn from reality because life's experiences are more complicated than those seen on the screen. Teachers and parents, therefore, suffer by comparison when they cannot solve problems in thirty to sixty minutes. (See Ben Logan and Kate Moody, eds., _Television Awareness Training: The Viewer's Guide for Family and Community,_ Nashville: Abingdon, 1979, p. 43.) 
 
 Volumes of research data show the detrimental effects of television, but I
 just say that television and videocassette viewing by youngsters has a
@@ -82,11 +78,10 @@ significant impact on their behavior. We must not take lightly the confession
 of a recently executed killer on the impact pornography and violence in media
 had on his life. The Apostle Paul warned that men can become "past feeling ...
 [giving] themselves over unto lasciviousness, to work all uncleanness with
-greediness." ([Eph.
-4:19](https://www.lds.org/scriptures/nt/eph/4.19?lang=eng#18).) In Proverbs we
-read, "As [a man] thinketh ... , so is he." ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6).) A mind exposed
-to violence and immorality cannot escape the negative impact of such exposure.
+greediness." ([Eph. 4:19](/scriptures/nt/eph/4.19?lang=eng#18).) In Proverbs
+we read, "As [a man] thinketh ..., so is he." ([Prov.
+23:7](/scriptures/ot/prov/23.7?lang=eng#6).) A mind exposed to violence and
+immorality cannot escape the negative impact of such exposure.
 
 President Gordon B. Hinckley said:
 
@@ -151,9 +146,8 @@ sexual promiscuity, and deviance.
 
 Nephi predicted that in our day Satan would "rage in the hearts of the
 children of men, and stir them up to anger against that which is good." ([2
-Ne. 28:20](https://www.lds.org/scriptures/bofm/2-ne/28.20?lang=eng#19).)
-Satan's evil use of television contributes to the increased wickedness in our
-society.
+Ne. 28:20](/scriptures/bofm/2-ne/28.20?lang=eng#19).) Satan's evil use of
+television contributes to the increased wickedness in our society.
 
 Perhaps we should state the couplet previously mentioned as two separate
 admonitions. First, _"Be in the world."_ Be involved; be informed. Try to be
@@ -168,13 +162,13 @@ spite of all of the wickedness in the world, and in spite of all the
 opposition to good that we find on every hand, we should _not_ try to take
 ourselves or our children _out_ of the world. Jesus said, "The kingdom of
 heaven is like unto leaven," or yeast. ([Matt.
-13:33](https://www.lds.org/scriptures/nt/matt/13.33?lang=eng#32).) We are to
-lift the world and help all to rise above the wickedness that surrounds us.
-The Savior prayed to the Father:
+13:33](/scriptures/nt/matt/13.33?lang=eng#32).) We are to lift the world and
+help all to rise above the wickedness that surrounds us. The Savior prayed to
+the Father:
 
 "I pray not that thou shouldest take them out of the world, but that thou
 shouldest keep them from the evil." ([John
-17:15](https://www.lds.org/scriptures/nt/john/17.15?lang=eng#14).)
+17:15](/scriptures/nt/john/17.15?lang=eng#14).)
 
 Members of the Church need to influence more than we are influenced. We should
 work to stem the tide of sin and evil instead of passively being swept along
@@ -200,10 +194,9 @@ _Unless we let it in._
 
 We can live in the world, brothers and sisters, without letting the world into
 us. We have the gospel message that can carry men and women buoyantly through
-the "mist of darkness" ([1 Ne.
-8:23](https://www.lds.org/scriptures/bofm/1-ne/8.23?lang=eng#22)) to the
-source of all light. We can raise children who have been taught to discern and
-to make personal righteous decisions.
+the "mist of darkness" ([1 Ne. 8:23](/scriptures/bofm/1-ne/8.23?lang=eng#22))
+to the source of all light. We can raise children who have been taught to
+discern and to make personal righteous decisions.
 
 The Lord does not need a society that hides and isolates itself from the
 world. Rather, he needs stalwart individuals and families who live exemplary
@@ -217,21 +210,14 @@ Research data indicate that families that limit television viewing to a
 maximum of two hours a day of carefully selected programs may see the
 following significant changes in family relationships:
 
-  1. Value setting will be taught and reinforced by the family. Families will learn how to establish values and how to reason together.
-
-  2. Relationships between parents and youth will increase in families.
-
-  3. Homework will be completed with less pressure of time.
-
-  4. Personal conversations will increase substantially.
-
-  5. Children's imaginations will come back to life.
-
-  6. Each family member will become a discriminating selector and evaluator of programs.
-
-  7. Parents can become family leaders again.
-
-  8. Good reading habits may be substituted for television viewing.
+  1. Value setting will be taught and reinforced by the family. Families will learn how to establish values and how to reason together. 
+  2. Relationships between parents and youth will increase in families. 
+  3. Homework will be completed with less pressure of time. 
+  4. Personal conversations will increase substantially. 
+  5. Children's imaginations will come back to life. 
+  6. Each family member will become a discriminating selector and evaluator of programs. 
+  7. Parents can become family leaders again. 
+  8. Good reading habits may be substituted for television viewing. 
 
 Brothers and sisters, we can write to local radio and television stations and
 to cable and national networks to express our concerns. The sponsors and
@@ -255,8 +241,8 @@ The prophet Mormon said that each of us is given the Spirit of Christ to know
 good from evil; everything that invites us to do good is of God. On the other
 hand, anything that persuades us to do evil is of the devil, for he and those
 who follow him persuade no one to do good. (See [Moro.
-7:16-18](https://www.lds.org/scriptures/bofm/moro/7.16-18?lang=eng#15).) This
-simple test will guide us in judging television and other media programs.
+7:16-18](/scriptures/bofm/moro/7.16-18?lang=eng#15).) This simple test will
+guide us in judging television and other media programs.
 
 May the Lord bless us and help us protect ourselves, our families, and the
 spirit of our homes, and help us improve our world through working for
@@ -267,4 +253,6 @@ and our families, and that is through learning and living the principles of
 the gospel of Jesus Christ. May the Lord bless you and help you prevent
 anything of an evil nature from entering your homes, I pray humbly, in the
 name of Jesus Christ, amen.
+
+## References
 

@@ -1,417 +1,341 @@
 items:
-- article_id: PD10033479_000_003
-  item: '002'
-  key: 002-opening-remarks
+- item: 1
+  key: 000-opening-remarks
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: opening-remarks
   speaker: Gordon B. Hinckley
   title: Opening Remarks
   url: https://www.lds.org/general-conference/2005/10/opening-remarks?lang=eng
   year: 2005
-- article_id: PD10033479_000_004
-  item: '004'
-  key: 004-blessings-resulting-from-reading-the-book-of-mormon
+- item: 2
+  key: 001-blessings-resulting-from-reading-the-book-of-mormon
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: blessings-resulting-from-reading-the-book-of-mormon
   speaker: L. Tom Perry
   title: Blessings Resulting from Reading the Book of Mormon
   url: https://www.lds.org/general-conference/2005/10/blessings-resulting-from-reading-the-book-of-mormon?lang=eng
   year: 2005
-- article_id: PD10033479_000_005
-  item: '005'
-  key: 005-be-prepared-be-ye-strong-from-henceforth
+- item: 3
+  key: 002-be-prepared-be-ye-strong-from-henceforth
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: be-prepared-be-ye-strong-from-henceforth
   speaker: Keith B. McMullin
-  title: "Be Prepared \u2026 Be Ye Strong from Henceforth"
+  title: Be Prepared ... Be Ye Strong from Henceforth
   url: https://www.lds.org/general-conference/2005/10/be-prepared-be-ye-strong-from-henceforth?lang=eng
   year: 2005
-- article_id: PD10033479_000_006
-  item: '007'
-  key: 007-the-sanctity-of-the-body
+- item: 4
+  key: 003-the-sanctity-of-the-body
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sanctity-of-the-body
   speaker: Susan W. Tanner
   title: The Sanctity of the Body
   url: https://www.lds.org/general-conference/2005/10/the-sanctity-of-the-body?lang=eng
   year: 2005
-- article_id: PD10033479_000_007
-  item: 008
-  key: 008-journey-to-higher-ground
+- item: 5
+  key: 004-journey-to-higher-ground
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: journey-to-higher-ground
   speaker: Joseph B. Wirthlin
   title: Journey to Higher Ground
   url: https://www.lds.org/general-conference/2005/10/journey-to-higher-ground?lang=eng
   year: 2005
-- article_id: PD10033479_000_008
-  item: '010'
-  key: 010-the-light-in-their-eyes
+- item: 6
+  key: 005-the-light-in-their-eyes
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-light-in-their-eyes
   speaker: James E. Faust
   title: The Light in Their Eyes
   url: https://www.lds.org/general-conference/2005/10/the-light-in-their-eyes?lang=eng
   year: 2005
-- article_id: PD10033479_000_009
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2005/10/the-sustaining-of-church-officers?lang=eng
   year: 2005
-- article_id: PD10033479_000_010
-  item: '015'
-  key: 015-priesthood-authority-in-the-family-and-the-church
+- item: 8
+  key: 007-priesthood-authority-in-the-family-and-the-church
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: priesthood-authority-in-the-family-and-the-church
   speaker: Dallin H. Oaks
   title: Priesthood Authority in the Family and the Church
   url: https://www.lds.org/general-conference/2005/10/priesthood-authority-in-the-family-and-the-church?lang=eng
   year: 2005
-- article_id: PD10033479_000_011
-  item: '016'
-  key: 016-to-young-women
+- item: 9
+  key: 008-to-young-women
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: to-young-women
   speaker: Jeffrey R. Holland
   title: To Young Women
   url: https://www.lds.org/general-conference/2005/10/to-young-women?lang=eng
   year: 2005
-- article_id: PD10033479_000_012
-  item: 018
-  key: 018-true-happiness-a-conscious-decision
+- item: 10
+  key: 009-true-happiness-a-conscious-decision
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: true-happiness-a-conscious-decision
   speaker: "Benjam\xEDn De Hoyos"
-  title: 'True Happiness: A Conscious Decision'
+  title: True Happiness:A Conscious Decision
   url: https://www.lds.org/general-conference/2005/10/true-happiness-a-conscious-decision?lang=eng
   year: 2005
-- article_id: PD10033479_000_013
-  item: 019
-  key: 019-the-book-of-mormon-the-instrument-to-gather-scattered-israel
+- item: 11
+  key: 010-the-book-of-mormon-the-instrument-to-gather-scattered-israel
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-book-of-mormon-the-instrument-to-gather-scattered-israel
   speaker: C. Scott Grow
   title: The Book of Mormon, the Instrument to Gather Scattered Israel
   url: https://www.lds.org/general-conference/2005/10/the-book-of-mormon-the-instrument-to-gather-scattered-israel?lang=eng
   year: 2005
-- article_id: PD10033479_000_014
-  item: '020'
-  key: 020-if-christ-had-my-opportunities
+- item: 12
+  key: 011-if-christ-had-my-opportunities
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: if-christ-had-my-opportunities
   speaker: Paul K. Sybrowsky
-  title: "\u201CIf Christ Had My Opportunities \u2026\u201D"
+  title: '"If Christ Had My Opportunities ..."'
   url: https://www.lds.org/general-conference/2005/10/if-christ-had-my-opportunities?lang=eng
   year: 2005
-- article_id: PD10033479_000_015
-  item: '021'
-  key: 021-spiritual-preparedness-start-early-and-be-steady
+- item: 13
+  key: 012-spiritual-preparedness-start-early-and-be-steady
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: spiritual-preparedness-start-early-and-be-steady
   speaker: Henry B. Eyring
-  title: 'Spiritual Preparedness: Start Early and Be Steady'
+  title: Spiritual Preparedness:Start Early and Be Steady
   url: https://www.lds.org/general-conference/2005/10/spiritual-preparedness-start-early-and-be-steady?lang=eng
   year: 2005
-- article_id: PD10033479_000_016
-  item: '022'
-  key: 022-what-matters-most-is-what-lasts-longest
+- item: 14
+  key: 013-what-matters-most-is-what-lasts-longest
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: what-matters-most-is-what-lasts-longest
   speaker: M. Russell Ballard
   title: What Matters Most Is What Lasts Longest
   url: https://www.lds.org/general-conference/2005/10/what-matters-most-is-what-lasts-longest?lang=eng
   year: 2005
-- article_id: PD10033479_000_017
-  item: '026'
-  key: 026-becoming-a-missionary
+- item: 15
+  key: 014-becoming-a-missionary
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: becoming-a-missionary
   speaker: David A. Bednar
   title: Becoming a Missionary
   url: https://www.lds.org/general-conference/2005/10/becoming-a-missionary?lang=eng
   year: 2005
-- article_id: PD10033479_000_018
-  item: '027'
-  key: 027-mans-search-for-divine-truth
+- item: 16
+  key: 015-mans-search-for-divine-truth
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: mans-search-for-divine-truth
-  speaker: Elder Charles Didier
-  title: "Man\u2019s Search for Divine Truth"
+  speaker: Charles A. Didier
+  title: Man's Search for Divine Truth
   url: https://www.lds.org/general-conference/2005/10/mans-search-for-divine-truth?lang=eng
   year: 2005
-- article_id: PD10033479_000_019
-  item: 028
-  key: 028-the-blessings-of-general-conference
+- item: 17
+  key: 016-the-blessings-of-general-conference
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-blessings-of-general-conference
   speaker: Paul V. Johnson
   title: The Blessings of General Conference
   url: https://www.lds.org/general-conference/2005/10/the-blessings-of-general-conference?lang=eng
   year: 2005
-- article_id: PD10033479_000_020
-  item: 029
-  key: 029-called-and-chosen
+- item: 18
+  key: 017-called-and-chosen
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: called-and-chosen
   speaker: James E. Faust
   title: Called and Chosen
   url: https://www.lds.org/general-conference/2005/10/called-and-chosen?lang=eng
   year: 2005
-- article_id: PD10033479_000_021
-  item: '031'
-  key: 031-do-your-duty-that-is-best
+- item: 19
+  key: 018-do-your-duty-that-is-best
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: do-your-duty-that-is-best
   speaker: Thomas S. Monson
   title: "Do Your Duty\u2014That Is Best"
   url: https://www.lds.org/general-conference/2005/10/do-your-duty-that-is-best?lang=eng
   year: 2005
-- article_id: PD10033479_000_022
-  item: '032'
-  key: 032-if-ye-are-prepared-ye-shall-not-fear
+- item: 20
+  key: 019-if-ye-are-prepared-ye-shall-not-fear
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: if-ye-are-prepared-ye-shall-not-fear
   speaker: Gordon B. Hinckley
   title: If Ye Are Prepared Ye Shall Not Fear
   url: https://www.lds.org/general-conference/2005/10/if-ye-are-prepared-ye-shall-not-fear?lang=eng
   year: 2005
-- article_id: PD10033479_000_023
-  item: '037'
-  key: 037-the-prophet-joseph-smith-teacher-by-example
+- item: 21
+  key: 020-the-prophet-joseph-smith-teacher-by-example
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-prophet-joseph-smith-teacher-by-example
   speaker: Thomas S. Monson
-  title: 'The Prophet Joseph Smith: Teacher by Example'
+  title: The Prophet Joseph Smith:Teacher by Example
   url: https://www.lds.org/general-conference/2005/10/the-prophet-joseph-smith-teacher-by-example?lang=eng
   year: 2005
-- article_id: PD10033479_000_024
-  item: 038
-  key: 038-on-zions-hill
+- item: 22
+  key: 021-on-zions-hill
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: on-zions-hill
   speaker: Boyd K. Packer
-  title: "On Zion\u2019s Hill"
+  title: On Zion's Hill
   url: https://www.lds.org/general-conference/2005/10/on-zions-hill?lang=eng
   year: 2005
-- article_id: PD10033479_000_025
-  item: 039
-  key: 039-a-pattern-for-all
+- item: 23
+  key: 022-a-pattern-for-all
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-pattern-for-all
   speaker: Merrill J. Bateman
   title: A Pattern for All
   url: https://www.lds.org/general-conference/2005/10/a-pattern-for-all?lang=eng
   year: 2005
-- article_id: PD10033479_000_026
-  item: '041'
-  key: 041-my-soul-delighteth-in-the-scriptures
+- item: 24
+  key: 023-my-soul-delighteth-in-the-scriptures
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: my-soul-delighteth-in-the-scriptures
   speaker: Cheryl C. Lant
   title: My Soul Delighteth in the Scriptures
   url: https://www.lds.org/general-conference/2005/10/my-soul-delighteth-in-the-scriptures?lang=eng
   year: 2005
-- article_id: PD10033479_000_027
-  item: '042'
-  key: 042-truth-restored
+- item: 25
+  key: 024-truth-restored
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: truth-restored
   speaker: Richard G. Scott
   title: Truth Restored
   url: https://www.lds.org/general-conference/2005/10/truth-restored?lang=eng
   year: 2005
-- article_id: PD10033479_000_028
-  item: '044'
-  key: 044-forgiveness
+- item: 26
+  key: 025-forgiveness
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: forgiveness
   speaker: Gordon B. Hinckley
   title: Forgiveness
   url: https://www.lds.org/general-conference/2005/10/forgiveness?lang=eng
   year: 2005
-- article_id: PD10033479_000_029
-  item: 048
-  key: 048-jesus-christ-the-master-healer
+- item: 27
+  key: 026-jesus-christ-the-master-healer
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: jesus-christ-the-master-healer
   speaker: Russell M. Nelson
   title: "Jesus Christ\u2014the Master Healer"
   url: https://www.lds.org/general-conference/2005/10/jesus-christ-the-master-healer?lang=eng
   year: 2005
-- article_id: PD10033479_000_030
-  item: 049
-  key: 049-preparations-for-the-restoration-and-the-second-coming-my-hand-shall-be-over-thee
+- item: 28
+  key: 027-preparations-for-the-restoration-and-the-second-coming-my-hand-shall-be-over-thee
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: preparations-for-the-restoration-and-the-second-coming-my-hand-shall-be-over-thee
   speaker: Robert D. Hales
-  title: "Preparations for the Restoration and the Second Coming: \u201CMy Hand Shall\
-    \ Be over Thee\u201D"
+  title: Preparations for the Restoration and the Second Coming:"My Hand Shall Be
+    over Thee"
   url: https://www.lds.org/general-conference/2005/10/preparations-for-the-restoration-and-the-second-coming-my-hand-shall-be-over-thee?lang=eng
   year: 2005
-- article_id: PD10033479_000_031
-  item: '050'
-  key: 050-sacrifice-is-a-joy-and-a-blessing
+- item: 29
+  key: 028-sacrifice-is-a-joy-and-a-blessing
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: sacrifice-is-a-joy-and-a-blessing
   speaker: Won Yong Ko
   title: Sacrifice Is a Joy and a Blessing
   url: https://www.lds.org/general-conference/2005/10/sacrifice-is-a-joy-and-a-blessing?lang=eng
   year: 2005
-- article_id: PD10033479_000_032
-  item: '052'
-  key: 052-gospel-covenants-bring-promised-blessings
+- item: 30
+  key: 029-gospel-covenants-bring-promised-blessings
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: gospel-covenants-bring-promised-blessings
   speaker: Paul E. Koelliker
   title: Gospel Covenants Bring Promised Blessings
   url: https://www.lds.org/general-conference/2005/10/gospel-covenants-bring-promised-blessings?lang=eng
   year: 2005
-- article_id: PD10033479_000_033
-  item: '053'
-  key: 053-compass-of-the-lord
+- item: 31
+  key: 030-compass-of-the-lord
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: compass-of-the-lord
   speaker: Lowell M. Snow
   title: Compass of the Lord
   url: https://www.lds.org/general-conference/2005/10/compass-of-the-lord?lang=eng
   year: 2005
-- article_id: PD10033479_000_034
-  item: '054'
-  key: 054-feed-my-sheep
+- item: 32
+  key: 031-feed-my-sheep
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: feed-my-sheep
-  speaker: Elder Ulisses Soares
-  title: "\u201CFeed My Sheep\u201D"
+  speaker: Ulisses Soares
+  title: '"Feed My Sheep"'
   url: https://www.lds.org/general-conference/2005/10/feed-my-sheep?lang=eng
   year: 2005
-- article_id: PD10033479_000_035
-  item: '055'
-  key: 055-christlike-attributes-the-wind-beneath-our-wings
+- item: 33
+  key: 032-christlike-attributes-the-wind-beneath-our-wings
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: christlike-attributes-the-wind-beneath-our-wings
   speaker: Dieter F. Uchtdorf
   title: "Christlike Attributes\u2014the Wind beneath Our Wings"
   url: https://www.lds.org/general-conference/2005/10/christlike-attributes-the-wind-beneath-our-wings?lang=eng
   year: 2005
-- article_id: PD10033479_000_036
-  item: '056'
-  key: 056-benediction
+- item: 34
+  key: 033-benediction
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: benediction
   speaker: Gordon B. Hinckley
   title: Benediction
   url: https://www.lds.org/general-conference/2005/10/benediction?lang=eng
   year: 2005
-- article_id: PD10033479_000_038
-  item: 059
-  key: 059-sweet-moments
+- item: 35
+  key: 034-sweet-moments
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: sweet-moments
   speaker: Bonnie D. Parkin
   title: Sweet Moments
   url: https://www.lds.org/general-conference/2005/10/sweet-moments?lang=eng
   year: 2005
-- article_id: PD10033479_000_039
-  item: '060'
-  key: 060-that-we-may-all-sit-down-in-heaven-together
+- item: 36
+  key: 035-that-we-may-all-sit-down-in-heaven-together
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: that-we-may-all-sit-down-in-heaven-together
   speaker: Kathleen H. Hughes
   title: That We May All Sit Down in Heaven Together
   url: https://www.lds.org/general-conference/2005/10/that-we-may-all-sit-down-in-heaven-together?lang=eng
   year: 2005
-- article_id: PD10033479_000_040
-  item: '062'
-  key: 062-knowing-the-lords-will-for-you
+- item: 37
+  key: 036-knowing-the-lords-will-for-you
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: knowing-the-lords-will-for-you
   speaker: Anne C. Pingree
-  title: "Knowing the Lord\u2019s Will for You"
+  title: Knowing the Lord's Will for You
   url: https://www.lds.org/general-conference/2005/10/knowing-the-lords-will-for-you?lang=eng
   year: 2005
-- article_id: PD10033479_000_041
-  item: '063'
-  key: 063-instruments-in-the-hands-of-god
+- item: 38
+  key: 037-instruments-in-the-hands-of-god
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: instruments-in-the-hands-of-god
   speaker: James E. Faust

@@ -55,9 +55,9 @@ their children. Fundamentally this is divine right. God says of Abraham that
 he "shall surely become a great and mighty nation, ... for I know him, that he
 will command his children and his household after him, and they shall keep the
 way of the Lord, to do justice and judgment." ([Gen.
-18:18-19](https://www.lds.org/scriptures/ot/gen/18.18-19?lang=eng#17).) God
-could make Abraham head of a numerous posterity because of his faithfulness in
-teaching his children.
+18:18-19](/scriptures/ot/gen/18.18-19?lang=eng#17).) God could make Abraham
+head of a numerous posterity because of his faithfulness in teaching his
+children.
 
 There are some in the world who might say that such parental influence is
 repressive and robs the child of its freedom, but quite the opposite is true.
@@ -127,8 +127,8 @@ modern scripture:
 which are organized, that teach them not to understand the doctrine of
 repentance, faith in Christ the Son of the living God, and of baptism and the
 gift of the Holy Ghost by the laying on of the hands, when eight years old,
-the sin be upon the heads of the parents." ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
+the sin be upon the heads of the parents." ([D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24).)
 
 In his first address to the United States Congress, President Gerald Ford
 stated this universal truth: "If we can make effective ... use of the moral and
@@ -189,4 +189,6 @@ May the Lord bless us as parents to realize our right to help formulate the
 lives of our children, to teach the dignity of work, and to establish moral
 and religious principles in our homes, I pray in the name of Jesus Christ.
 Amen.
+
+## References
 

@@ -3,7 +3,7 @@
 Brethren, I have decided to talk to you and to myself tonight about "faith in
 the Lord Jesus Christ" which the Prophet Joseph Smith named as "the first
 principle ... of the Gospel" ([A of F
-1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3)).
+1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3)).
 
 The scriptures leave no doubt about the importance of such faith. In the very
 beginning, an angel sent by the Lord instructed Adam that the sacrifice he was
@@ -12,21 +12,20 @@ Father, ...
 
 "Wherefore," he (the angel) added, "thou shalt do all that thou doest in the
 name of the Son, and thou shalt repent and call upon God in the name of the
-Son forevermore" ([Moses
-5:7-8](https://www.lds.org/scriptures/pgp/moses/5.7-8?lang=eng#6)).
+Son forevermore" ([Moses 5:7-8](/scriptures/pgp/moses/5.7-8?lang=eng#6)).
 
 Nephi thus instructed his people:
 
 "Behold I say unto you, that ... as the Lord ... liveth, there is none other name
 given under heaven save it be this Jesus Christ, ... whereby man can be saved"
-([2 Ne. 25:20](https://www.lds.org/scriptures/bofm/2-ne/25.20?lang=eng#19)).
+([2 Ne. 25:20](/scriptures/bofm/2-ne/25.20?lang=eng#19)).
 
 Some four hundred years later, King Benjamin declared:
 
 "I say unto you, ... there shall be no other name given nor any other way nor
 means whereby salvation can come unto the children of men, only in and through
 the name of Christ, the Lord Omnipotent" ([Mosiah
-3:17](https://www.lds.org/scriptures/bofm/mosiah/3.17?lang=eng#16)).
+3:17](/scriptures/bofm/mosiah/3.17?lang=eng#16)).
 
 When Peter and John were asked by the Sadducees "By what power, or by what
 name" they had healed the lame man, "Peter, filled with the Holy Ghost, said
@@ -41,11 +40,10 @@ even by him doth this man stand here before you whole. ...
 
 "Neither is there salvation in any other: for there is none other name under
 heaven given among men, whereby we must be saved" ([Acts 4:7-10,
-12](https://www.lds.org/scriptures/nt/acts/4.7-10%2C12?lang=eng#6)).
+12](/scriptures/nt/acts/4.7-10,12?lang=eng#6)).
 
 Jesus himself declared to the Pharisees: "If ye believe not that I am he, ye
-shall die in your sins" ([John
-8:24](https://www.lds.org/scriptures/nt/john/8.24?lang=eng#23)).
+shall die in your sins" ([John 8:24](/scriptures/nt/john/8.24?lang=eng#23)).
 
 And in these latter days the Lord declared to Joseph Smith the Prophet, Oliver
 Cowdery, and David Whitmer:
@@ -62,8 +60,7 @@ none other name given whereby man can be saved;
 for in that name shall they be called at the last day;
 
 "Wherefore, if they know not the name by which they are called, they cannot
-have place in the kingdom of my Father" ([D&amp;C
-18:21-25](https://www.lds.org/scriptures/dc-
+have place in the kingdom of my Father" ([D&amp;C 18:21-25](/scriptures/dc-
 testament/dc/18.21-25?lang=eng#20)).
 
 I suppose that the foregoing declarations are sufficient to establish the fact
@@ -108,8 +105,8 @@ all ye ends of the earth, and come unto me and be baptized in my name, that ye
 may be sanctified by the reception of the Holy Ghost, that ye may stand
 spotless before me at the last day.
 
-"Verily, verily, I say unto you, this is my gospel" ([3 Ne. 27:13-17, 19-21](h
-ttps://www.lds.org/scriptures/bofm/3-ne/27.13-17%2C19-21?lang=eng#12)).
+"Verily, verily, I say unto you, this is my gospel" ([3 Ne. 27:13-17,
+19-21](/scriptures/bofm/3-ne/27.13-17,19-21?lang=eng#12)).
 
 This, of course, is the perfect definition of the gospel. It was, however,
 spoken by way of summary and conclusion after the risen Jesus had spent days--
@@ -118,8 +115,7 @@ Nephites. They, therefore, were able to understand his summary.
 
 The gospel is the plan and program adopted by God, our Eternal Father, for
 accomplishing his "work and ... glory--to bring to pass the immortality and
-eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+eternal life of man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 This program the Lord presented to his spirit children in the great pre-earth
 council, of which Abraham gives us this brief account:
@@ -150,7 +146,7 @@ And the Lord said: I will send the first.
 
 "And the second was angry, and kept not his first estate; and, at that day,
 many followed after him" ([Abr.
-3:22-28](https://www.lds.org/scriptures/pgp/abr/3.22-28?lang=eng#21)).
+3:22-28](/scriptures/pgp/abr/3.22-28?lang=eng#21)).
 
 The gospel plan or program, presented to and approved by a two-thirds majority
 of the then assembled hosts of God's spirit children, anticipated everything
@@ -190,16 +186,16 @@ Jesus, of course, was chosen to be the Redeemer. He led the fight for the
 Father's plan in the War in Heaven. He created this earth. He has watched over
 it ever since. His role in God's program for bringing to pass "the immortality
 and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)) has been
-revealed to men in all dispensations. It was revealed to Adam in the
-beginning. It was revealed to Enoch, to Noah, to Abraham, Isaac, and Jacob.
-Some 2200 years B.C., Jesus appeared to the brother of Jared and said:
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)) has been revealed to men in all
+dispensations. It was revealed to Adam in the beginning. It was revealed to
+Enoch, to Noah, to Abraham, Isaac, and Jacob. Some 2200 years B.C., Jesus
+appeared to the brother of Jared and said:
 
 "Behold, I am he who was prepared from the foundation of the world to redeem
 my people. Behold, I am Jesus Christ. ... In me shall all mankind have light,
 and that eternally, even they who shall believe on my name; and they shall
 become my sons and my daughters" ([Ether
-3:14](https://www.lds.org/scriptures/bofm/ether/3.14?lang=eng#13)).
+3:14](/scriptures/bofm/ether/3.14?lang=eng#13)).
 
 In the meridian of time, Jesus, begotten of God our Eternal Father, came to
 earth as the babe of Bethlehem, the son of Mary.
@@ -231,8 +227,7 @@ because of pain, and to bleed at every pore, and to suffer both body and
 spirit--and would that I might not drink the bitter cup, and shrink--
 
 "'Nevertheless, glory be to the Father, and I partook and finished my
-preparations unto the children of men' [[D&amp;C
-19:16-19](https://www.lds.org/scriptures/dc-
+preparations unto the children of men' [[D&amp;C 19:16-19](/scriptures/dc-
 testament/dc/19.16-19?lang=eng#15)]" (James E. Talmage, _The Articles of
 Faith,_ 12th ed., Salt Lake City: The Church of Jesus Christ of Latter-day
 Saints, 1924, p. 78).
@@ -257,17 +252,16 @@ must deliver up their dead, and hell must deliver up its captive spirits, and
 the grave must deliver up its captive bodies, and the bodies and the spirits
 of men will be restored one to the other; and it is by the power of the
 resurrection of the Holy One of Israel" ([2 Ne. 9:8,
-10-12](https://www.lds.org/scriptures/bofm/2-ne/9.8%2C10-12?lang=eng#7)).
+10-12](/scriptures/bofm/2-ne/9.8,10-12?lang=eng#7)).
 
 Without the services of Jesus Christ, which he proffered in the great heavenly
 council and which he has since performed, there would have been no hope for us
 to receive the blessings provided by the gospel. And we have no prospect of
 receiving them now unless we have faith in the Lord Jesus Christ, because, as
 he said to the Pharisees, "If ye believe not that I am he, ye shall die in
-your sins" ([John
-8:24](https://www.lds.org/scriptures/nt/john/8.24?lang=eng#23)). This is
+your sins" ([John 8:24](/scriptures/nt/john/8.24?lang=eng#23)). This is
 according to the gospel, which Paul said "is the power of God unto salvation"
-([Rom. 1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15)).
+([Rom. 1:16](/scriptures/nt/rom/1.16?lang=eng#15)).
 
 These are some of the reasons why "Faith in the Lord Jesus Christ" is the
 first principle of the gospel. To the truth of these teachings I bear solemn
@@ -275,7 +269,8 @@ witness, and in the words of King Benjamin, I add my own witness that I know
 "there shall be no other name [than Jesus Christ] given nor any other ... means
 whereby salvation can come unto the children of men, only in and through the
 name of Christ, the Lord Omnipotent" ([Mosiah
-3:17](https://www.lds.org/scriptures/bofm/mosiah/3.17?lang=eng#16)). This is
-my testimony to you, my brethren, and I bear it in the name of Jesus Christ,
-our Redeemer, amen.
+3:17](/scriptures/bofm/mosiah/3.17?lang=eng#16)). This is my testimony to you,
+my brethren, and I bear it in the name of Jesus Christ, our Redeemer, amen.
+
+## References
 

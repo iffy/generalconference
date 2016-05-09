@@ -7,7 +7,7 @@ life and inherit eternal life in the realms ahead.
 
 Our well-beloved brother Paul, an Apostle of old, counsels us in these words:
 "Examine yourselves, whether ye be in the faith; prove your own selves." ([2
-Cor. 13:5](https://www.lds.org/scriptures/nt/2-cor/13.5?lang=eng#4).)
+Cor. 13:5](/scriptures/nt/2-cor/13.5?lang=eng#4).)
 
 And we may well ask ourselves: Do we believe all of the doctrines of
 salvation? Are we keeping the commandments? Are we valiant in the cause of
@@ -24,7 +24,7 @@ or passions, that fills the immensity of space.
 
 True believers worship that Holy Being who "made heaven, and earth, and the
 sea, and the fountains of waters." ([Rev.
-14:7](https://www.lds.org/scriptures/nt/rev/14.7?lang=eng#6).)
+14:7](/scriptures/nt/rev/14.7?lang=eng#6).)
 
 He is the Father of spirits with whom we dwelt before the foundations of the
 earth were laid. He is our Father in Heaven, who ordained and established a
@@ -33,7 +33,7 @@ become like him.
 
 He is a Holy Man, a personage of tabernacle, having a body of flesh and bones;
 and he created mortal man in his own image, "male and female created he them."
-([Gen. 1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26).)
+([Gen. 1:27](/scriptures/ot/gen/1.27?lang=eng#26).)
 
 He is a glorified and exalted being in whom all fulness and perfection dwell,
 who knows all things and has all power, all might, and all dominion.
@@ -50,11 +50,11 @@ procreation, no death.
 
 In that primeval day Adam and Eve were "in a state of innocence, having no
 joy, for they knew no misery; doing no good, for they knew no sin." ([2 Ne.
-2:23](https://www.lds.org/scriptures/bofm/2-ne/2.23?lang=eng#22).)
+2:23](/scriptures/bofm/2-ne/2.23?lang=eng#22).)
 
 But in the providences of the Lord, "Adam fell that men might be; and men are,
 that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 By his fall, Adam introduced temporal and spiritual death into the world and
 caused this earth life to become a probationary estate.
@@ -67,8 +67,8 @@ I know that my Redeemer lives; with Job I testify. "What though the ravages of
 disease destroy my body; what though I am slain by the sword of death--yet I
 know that he who bought me with his blood shall soon reign on earth and that
 "in my flesh shall I see God." ([Job
-19:26](https://www.lds.org/scriptures/ot/job/19.26?lang=eng#25); see also [Job
-19:25](https://www.lds.org/scriptures/ot/job/19.25?lang=eng#24).)
+19:26](/scriptures/ot/job/19.26?lang=eng#25); see also [Job
+19:25](/scriptures/ot/job/19.25?lang=eng#24).)
 
 I am a witness that he was lifted up upon the cross of Calvary; that he was
 crucified, died, and rose again the third day; that he ascended into heaven,
@@ -144,8 +144,7 @@ in derision, and hell shall rage against thee;
 
 "While the pure in heart, and the wise, and the noble, and the virtuous, shall
 seek counsel, and authority, and blessings constantly from under thy hand."
-([D&amp;C 122:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/122.1-2?lang=eng#0).)
+([D&amp;C 122:1-2](/scriptures/dc-testament/dc/122.1-2?lang=eng#0).)
 
 Why will it ever be thus? Because Joseph Smith is the restorer of the
 knowledge of Christ and of salvation; because he translated the Book of
@@ -164,25 +163,23 @@ attributes of godliness?_
 
 That is to say: Am I growing in faith, virtue, knowledge, temperance,
 patience, godliness, brotherly kindness, and charity--as Peter exhorted? (See
-[2 Pet. 1:5-7](https://www.lds.org/scriptures/nt/2-pet/1.5-7?lang=eng#4).)
+[2 Pet. 1:5-7](/scriptures/nt/2-pet/1.5-7?lang=eng#4).)
 
 Am I working out my salvation with fear and trembling before the Lord--as Paul
-counseled? (See [Philip.
-2:12](https://www.lds.org/scriptures/nt/philip/2.12?lang=eng#11).)
+counseled? (See [Philip. 2:12](/scriptures/nt/philip/2.12?lang=eng#11).)
 
 Am I walking in the light, as God is in the light, enjoying fellowship with
 the Saints, so that "the blood of Jesus Christ his Son" will cleanse me from
-all sin--as John promised? ([1 Jn.
-1:7](https://www.lds.org/scriptures/nt/1-jn/1.7?lang=eng#6).)
+all sin--as John promised? ([1 Jn. 1:7](/scriptures/nt/1-jn/1.7?lang=eng#6).)
 
 Am I pressing forward "with a steadfastness in Christ, having a perfect
 brightness of hope, and a love of God and of all men, ... feasting upon the word
 of Christ" and enduring to the end--as Nephi taught? ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19).)
+31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19).)
 
 Do I have a special and holy love for the Saints, thus identifying me as a
 true disciple--according to the word of the Lord Jesus? (See [John
-13:35](https://www.lds.org/scriptures/nt/john/13.35?lang=eng#34).)
+13:35](/scriptures/nt/john/13.35?lang=eng#34).)
 
 _Test nine: Do I put first in my life the things of God's kingdom? Is it with
 me and mine the kingdom of God or nothing?_
@@ -211,7 +208,7 @@ of God or nothing.
 This kingdom of God, both in time and in eternity, is governed by the spirit
 of inspiration. It always sends forth the mind and will of the Lord, whether
 by his own voice or by the voice of his servants it is the same. (See [D&amp;C
-1:38](https://www.lds.org/scriptures/dc-testament/dc/1.38?lang=eng#37).)
+1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).)
 
 On every issue it behooves us to determine what the Lord would have us do and
 what counsel he has given through the appointed officers of his kingdom on
@@ -228,11 +225,10 @@ There is, in fact, no such thing as neutrality where the gospel is concerned.
 
 Jesus said: "He that is not with me is against me; and he that gathered not
 with me scattereth abroad." ([Matt.
-12:30](https://www.lds.org/scriptures/nt/matt/12.30?lang=eng#29).)
+12:30](/scriptures/nt/matt/12.30?lang=eng#29).)
 
 And it was Jacob who said: "They who are not for me are against me, saith our
-God." ([2 Ne.
-10:16](https://www.lds.org/scriptures/bofm/2-ne/10.16?lang=eng#15).)
+God." ([2 Ne. 10:16](/scriptures/bofm/2-ne/10.16?lang=eng#15).)
 
 If we do not sustain and uphold and support the kingdom of God in all things,
 we are thereby aiding a cause other than the Lord's.
@@ -279,4 +275,6 @@ maintain their position in the caravan shall find food and drink and rest.
 Thank God that the caravan moves on!
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

@@ -7,33 +7,32 @@ Frequently, He referred to home building in relationship to the lives of those
 who listened.
 
 He declared: "Every ... house divided against itself shall not stand." ([Matt.
-12:25](https://www.lds.org/scriptures/nt/matt/12.25?lang=eng#24).) Later He
-cautioned: "Behold, mine house is a house of order, ... and not a house of
-confusion." ([D&amp;C 132:8](https://www.lds.org/scriptures/dc-
-testament/dc/132.8?lang=eng#7).)
+12:25](/scriptures/nt/matt/12.25?lang=eng#24).) Later He cautioned: "Behold,
+mine house is a house of order, ... and not a house of confusion." ([D&amp;C
+132:8](/scriptures/dc-testament/dc/132.8?lang=eng#7).)
 
 In a revelation given through the Prophet Joseph Smith at Kirtland, Ohio,
 December 27, 1832, the Master counseled: "Organize yourselves; prepare every
 needful thing; and establish a house, even a house of prayer, a house of
 fasting, a house of faith, a house of learning, a house of glory, a house of
-order, a house of God." ([D&amp;C 88:119](https://www.lds.org/scriptures/dc-
+order, a house of God." ([D&amp;C 88:119](/scriptures/dc-
 testament/dc/88.119?lang=eng#118).)
 
 Where could any of us locate a more suitable blueprint whereby we could wisely
 and properly build a house to personally occupy throughout eternity?
 
 Such a house would meet the building code outlined in Matthew--even a house
-built "upon a rock" ([Matt.
-7:24](https://www.lds.org/scriptures/nt/matt/7.24?lang=eng#23)), a house
-capable of withstanding the rains of adversity, the floods of opposition, and
-the winds of doubt everywhere present in our challenging world.
+built "upon a rock" ([Matt. 7:24](/scriptures/nt/matt/7.24?lang=eng#23)), a
+house capable of withstanding the rains of adversity, the floods of
+opposition, and the winds of doubt everywhere present in our challenging
+world.
 
 Some might question: "But that revelation was to provide guidance for the
 construction of a temple. Is it relevant today?"
 
 I would respond: "Did not the Apostle Paul declare, 'Know ye not that ye are
 the temple of God, and that the Spirit of God dwelleth in you?'" ([1 Cor.
-3:16](https://www.lds.org/scriptures/nt/1-cor/3.16?lang=eng#15).)
+3:16](/scriptures/nt/1-cor/3.16?lang=eng#15).)
 
 Perhaps if we consider these architectural guidelines on an individual basis,
 we can more readily appreciate this divine counsel from the Master Builder,
@@ -43,7 +42,7 @@ Our inspired blueprint first cautions that our house should be a _house of
 prayer._ The Master taught:
 
 "And when thou prayest, thou shalt not be as the hypocrites are: for they love
-to pray ... , that they may be seen of men. ...
+to pray ..., that they may be seen of men. ...
 
 "But thou, when thou prayest, ... pray to thy Father which is in secret. ...
 
@@ -60,7 +59,7 @@ name.
 
 "And lead us not into temptation, but deliver us from evil: For thine is the
 kingdom, and the power, and the glory, for ever." ([Matt. 6:5-7,
-9-13](https://www.lds.org/scriptures/nt/matt/6.5-7%2C9-13?lang=eng#4).)
+9-13](/scriptures/nt/matt/6.5-7,9-13?lang=eng#4).)
 
 This element of our blueprint can be taught to children when they are yet
 young. When our oldest son was about three, he would kneel with his mother and
@@ -96,8 +95,7 @@ then shall thy light rise in obscurity, and thy darkness be as the noonday:
 
 "And the Lord shall guide thee continually, and satisfy thy soul in drought, ...
 and thou shalt be like a watered garden, and like a spring of water, whose
-waters fail not." ([Isa.
-58:6-11](https://www.lds.org/scriptures/ot/isa/58.6-11?lang=eng#5).)
+waters fail not." ([Isa. 58:6-11](/scriptures/ot/isa/58.6-11?lang=eng#5).)
 
 Let our house be a _house of fasting._
 
@@ -108,12 +106,11 @@ liberally, and upbraideth not; and it shall be given him.
 
 "But let him ask in faith, nothing wavering. For he that wavereth is like a
 wave of the sea driven with the wind and tossed." ([James
-1:5-6](https://www.lds.org/scriptures/nt/james/1.5-6?lang=eng#4).)
+1:5-6](/scriptures/nt/james/1.5-6?lang=eng#4).)
 
 A practical application of such abiding faith is found in the spirit of Nephi
 and his stirring declaration: "I will go and do the things which the Lord hath
-commanded." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).) He did not
+commanded." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).) He did not
 waver; he believed. Is there a counterpart application even today?
 
 Some years ago I accompanied President Hugh B. Brown on a tour of the Samoan
@@ -143,11 +140,10 @@ Our house surely is a _house of faith._
 
 Let our house be a _house of learning._ Said the Lord: "Seek ye out of the
 best books words of wisdom; seek learning, even by study and also by faith."
-([D&amp;C 88:118](https://www.lds.org/scriptures/dc-
-testament/dc/88.118?lang=eng#117).) He counseled: "Come ... learn of me ... and ye
-shall find rest unto your souls." ([Matt.
-11:28-29](https://www.lds.org/scriptures/nt/matt/11.28-29?lang=eng#27).) No
-other quest for learning promises such a profound reward.
+([D&amp;C 88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).) He
+counseled: "Come ... learn of me ... and ye shall find rest unto your souls."
+([Matt. 11:28-29](/scriptures/nt/matt/11.28-29?lang=eng#27).) No other quest
+for learning promises such a profound reward.
 
 Let our house be a _house of learning._
 
@@ -174,10 +170,10 @@ p. 304.) By being consistently good, we can ensure a _house of glory._
 
 Our house is to be a _house of order._ "To every thing there is a season, and
 a time to every purpose under the heaven" ([Eccl.
-3:1](https://www.lds.org/scriptures/ot/eccl/3.1?lang=eng#0)), advised
-Ecclesiastes, the Preacher. Such is true in our lives. Let us provide time for
-family, time for work, time for study, time for service, time for recreation,
-time for self--but above all, time for Christ.
+3:1](/scriptures/ot/eccl/3.1?lang=eng#0)), advised Ecclesiastes, the Preacher.
+Such is true in our lives. Let us provide time for family, time for work, time
+for study, time for service, time for recreation, time for self--but above
+all, time for Christ.
 
 Then our house will be a _house of order._
 
@@ -235,19 +231,21 @@ Such is a _house of God._
 
 This, then, is our building project. We are master builders of eternal houses,
 even "temples of God." (See [1 Cor.
-3:16](https://www.lds.org/scriptures/nt/1-cor/3.16?lang=eng#15).)
+3:16](/scriptures/nt/1-cor/3.16?lang=eng#15).)
 
 "Organize yourselves; prepare every needful thing; and establish a house, even
 a house of prayer, a house of fasting, a house of faith, a house of learning,
 a house of glory, a house of order, a house of God." ([D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118).)
+88:119](/scriptures/dc-testament/dc/88.119?lang=eng#118).)
 
 Then the Lord, even our building inspector, may say to us, as He said when He
 appeared to Solomon, a builder of another day: "I have hallowed this house,
 which thou hast built, to put my name there for ever; and mine eyes and mine
 heart shall be there perpetually." ([1 Kgs.
-9:3](https://www.lds.org/scriptures/ot/1-kgs/9.3?lang=eng#2).)
+9:3](/scriptures/ot/1-kgs/9.3?lang=eng#2).)
 
 May we follow this divinely provided blueprint. May we be successful builders
 of our eternal homes, is my prayer, in the name of Jesus Christ, amen.
+
+## References
 

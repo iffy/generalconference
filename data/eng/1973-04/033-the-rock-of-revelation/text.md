@@ -11,7 +11,7 @@ In the Book of Moses in the Pearl of Great Price, we read:
 "And I saw the Lord; and he stood before my face, and he talked with me, even
 as a man talketh one with another, face to face; and he said unto me: Look,
 and I will show unto thee the world for the space of many generations."
-([Moses 7:4](https://www.lds.org/scriptures/pgp/moses/7.4?lang=eng#3).)
+([Moses 7:4](/scriptures/pgp/moses/7.4?lang=eng#3).)
 
 The Lord showed unto Enoch all the inhabitants of the earth, and he told him
 all the doings of the children of men. He saw the wickedness of the people,
@@ -26,7 +26,7 @@ and vengeance. ... the day shall come that the earth shall rest, but before that
 day the heavens shall be darkened, and a veil of darkness shall cover the
 earth; and the heavens shall shake, and also the earth; and great tribulations
 shall be among the children of men, but my people will I preserve." ([Moses
-7:60-61](https://www.lds.org/scriptures/pgp/moses/7.60-61?lang=eng#59).)
+7:60-61](/scriptures/pgp/moses/7.60-61?lang=eng#59).)
 
 Our Father and his Beloved Son knew before man was placed upon the earth, and
 before this world was created, the story of man's existence upon this earth--
@@ -47,13 +47,13 @@ noble and great ones;
 them, and he said: These I will make my rulers; for he stood among those that
 were spirits, and he saw that they were good; and he said unto me: Abraham,
 thou art one of them; thou wast chosen before thou wast born." ([Abr.
-3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21).)
+3:22-23](/scriptures/pgp/abr/3.22-23?lang=eng#21).)
 
 In the first chapter of the book of Jeremiah in the Bible, the Lord, in
 speaking to the prophet Jeremiah, said: "Before I formed thee in the belly I
 knew thee; and before thou camest forth out of the womb I sanctified thee, and
 I ordained thee a prophet unto the nations." ([Jer.
-1:5](https://www.lds.org/scriptures/ot/jer/1.5?lang=eng#4).)
+1:5](/scriptures/ot/jer/1.5?lang=eng#4).)
 
 Not only did the Lord know who were to be his rulers, but undoubtedly there
 was a chart or outline prepared showing the times of the various dispensations
@@ -69,8 +69,8 @@ When King Nebuchadnezzar of Babylon conquered Israel, he arranged to have
 brought to Babylon some of the princes of Israel; the record says: "Children
 in whom was no blemish, but well favoured, and skilful in all wisdom, and
 cunning in knowledge, and understanding science. ..." ([Dan.
-1:4](https://www.lds.org/scriptures/ot/dan/1.4?lang=eng#3).) Among these
-princes who were brought into Babylon was the Hebrew prophet, Daniel.
+1:4](/scriptures/ot/dan/1.4?lang=eng#3).) Among these princes who were brought
+into Babylon was the Hebrew prophet, Daniel.
 
 In the book of Daniel in the Bible, we read of a dream that Nebuchadnezzar
 had, which dream gave him great concern. The account says that upon awakening
@@ -92,11 +92,10 @@ Nebuchadnezzar. The other various parts of the image represented the kingdoms
 that would follow. The account relates that, among other things, Daniel
 reminded the king: "Thou sawest till that a stone was cut out without hands,
 which smote the image upon his feet that were of iron and clay, and brake them
-to pieces." ([Dan.
-2:34](https://www.lds.org/scriptures/ot/dan/2.34?lang=eng#33).) He further
+to pieces." ([Dan. 2:34](/scriptures/ot/dan/2.34?lang=eng#33).) He further
 said that "in the days of these kings shall the God of heaven set up a
 kingdom, which shall never be destroyed. ..." ([Dan.
-2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43).)
+2:44](/scriptures/ot/dan/2.44?lang=eng#43).)
 
 The Lord knew in the days of Nebuchadnezzar the kingdoms that would come forth
 upon the earth. He knew the time when his kingdom, God's kingdom, would be set
@@ -210,4 +209,6 @@ heavens before this earth was created. That which the world calls Mormonism is
 based upon the rock of revelation. It is the gospel of Jesus Christ, the
 eternal truth, the plan of life and salvation. I testify to these things in
 the name of Jesus Christ. Amen.
+
+## References
 

@@ -112,8 +112,7 @@ I dedicate my life and service, and as Paul declared in First Corinthians,
 in demonstration of the Spirit and of power:
 
 "That your faith should not stand in the wisdom of men, but in the power of
-God." ([1 Cor.
-2:4-5](https://www.lds.org/scriptures/nt/1-cor/2.4-5?lang=eng#3).)
+God." ([1 Cor. 2:4-5](/scriptures/nt/1-cor/2.4-5?lang=eng#3).)
 
 I ask the Lord's blessings upon all those who have made this day possible for
 me: my Primary and Sunday School teachers; a mother and father who are truly
@@ -130,4 +129,6 @@ cannot ask the question "Why me?" and dwell on it. But I will do as the
 prophet has said, to put behind me my past life and dedicate and consecrate
 all my time, talents, and efforts to His work. And I say this in the name of
 Jesus Christ. Amen.
+
+## References
 

@@ -38,11 +38,10 @@ becoming more effective, the Church is growing at an accelerated rate.
 
 With reference to the perfecting of the Saints, the Savior has asked us to
 become perfect even as our Father in heaven is perfect. (See [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).) In modern
-revelation we are told that we "are not able to abide the presence of God now,
-neither the ministering of angels; wherefore, continue in patience until ye
-are perfected." ([D&amp;C 67:13](https://www.lds.org/scriptures/dc-
-testament/dc/67.13?lang=eng#12).)
+5:48](/scriptures/nt/matt/5.48?lang=eng#47).) In modern revelation we are told
+that we "are not able to abide the presence of God now, neither the
+ministering of angels; wherefore, continue in patience until ye are
+perfected." ([D&amp;C 67:13](/scriptures/dc-testament/dc/67.13?lang=eng#12).)
 
 To accomplish the second objective, the perfecting of the Saints, The Church
 of Jesus Christ of Latter-day Saints provides opportunities for all members to
@@ -94,7 +93,7 @@ children.
 
 Solomon, in his wisdom, has told us: "Train up a child in the way he should
 go: and when he is old he will not depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).)
+22:6](/scriptures/ot/prov/22.6?lang=eng#5).)
 
 Recently, I was staying in the home of a stake president who had a young son
 nine years of age. I was to sleep in this young man's bedroom and noticed on
@@ -207,4 +206,6 @@ you peace, happiness, and joy, along with growth and development.
 May all of us seek to perfect our lives in the pattern of the Savior, and may
 we help each other in the perfection process, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

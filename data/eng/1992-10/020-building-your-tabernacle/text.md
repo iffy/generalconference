@@ -148,7 +148,7 @@ the days "drew nigh that he should die ... he charged Solomon his son, saying,
 statutes, and his commandments, and his judgments, and his testimonies, as it
 is written in the law of Moses, that thou mayest prosper in all that thou
 doest, and whithersoever thou turnest thyself." ([1 Kgs.
-2:1-3](https://www.lds.org/scriptures/ot/1-kgs/2.1-3?lang=eng#0).)
+2:1-3](/scriptures/ot/1-kgs/2.1-3?lang=eng#0).)
 
 That is sound counsel for every man and boy who holds the priesthood of God.
 
@@ -210,7 +210,7 @@ the Gentiles, who was separated from the seed of my brethren by the many
 waters; and I beheld the Spirit of God, that it came down and wrought upon the
 man; and he went forth upon the many waters, even unto the seed of my
 brethren, who were in the promised land." ([1 Ne.
-13:12](https://www.lds.org/scriptures/bofm/1-ne/13.12?lang=eng#11).)
+13:12](/scriptures/bofm/1-ne/13.12?lang=eng#11).)
 
 We interpret that to refer to Columbus. It is interesting to note that the
 Spirit of God wrought upon him. After reading that long biography, a Pulitzer
@@ -239,8 +239,7 @@ of God. Be strong with that strength of which Isaiah speaks when he said,
 
 "Say to them that are of a fearful heart, Be strong, fear not: behold, your
 God will come with vengeance, even God with a recompence; he will come and
-save you." ([Isa.
-35:3-4](https://www.lds.org/scriptures/ot/isa/35.3-4?lang=eng#2).)
+save you." ([Isa. 35:3-4](/scriptures/ot/isa/35.3-4?lang=eng#2).)
 
 "And in doing these things" says the Lord to each of us in modern revelation,
 "thou wilt do the greatest good unto thy fellow beings, and wilt promote the
@@ -248,18 +247,15 @@ glory of him who is your Lord.
 
 "Wherefore, be faithful; stand in the office which I have appointed unto you;
 succor the weak, lift up the hands which hang down, and strengthen the feeble
-knees." ([D&amp;C 81:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/81.4-5?lang=eng#3).)
+knees." ([D&amp;C 81:4-5](/scriptures/dc-testament/dc/81.4-5?lang=eng#3).)
 
 _Be strong,_ my brethren, _with the strength of simple honesty._ How easy it
 is to "lie a little, take the advantage of one because of his words, dig a pit
-for thy neighbor." ([2 Ne.
-28:8](https://www.lds.org/scriptures/bofm/2-ne/28.8?lang=eng#7).)
+for thy neighbor." ([2 Ne. 28:8](/scriptures/bofm/2-ne/28.8?lang=eng#7).)
 
 Nephi so describes the people of his day, as he also describes so many of our
 day. How easy it is for us to say, "We believe in being honest, true, chaste,
-benevolent." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).) But how
+benevolent." ([A of F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).) But how
 difficult for so many to resist the temptation to lie a little, cheat a
 little, steal a little, bear false witness in speaking in gossipy words about
 others. Rise above it, brethren. Be strong in the simple virtue of honesty.
@@ -285,7 +281,7 @@ breastplate of righteousness;
 
 "Above all, taking the shield of faith, wherewith ye shall be able to quench
 all the fiery darts of the wicked." ([Eph. 6:10-12,
-14-16](https://www.lds.org/scriptures/nt/eph/6.10-12%2C14-16?lang=eng#9).)
+14-16](/scriptures/nt/eph/6.10-12,14-16?lang=eng#9).)
 
 I hope, my brethren, that perhaps this tremendous building in which we meet,
 now used for 125 years by the Latter-day Saints as our Tabernacle, will remind
@@ -298,4 +294,6 @@ solemn witness. He is the Lamb without blemish who was offered for the sins of
 the world. Through His pain and because of His suffering I find reconciliation
 and eternal life. He is my Teacher, my Exemplar, my Friend, and my Savior whom
 I love and worship as the Redeemer of the world. In His holy name, amen.
+
+## References
 

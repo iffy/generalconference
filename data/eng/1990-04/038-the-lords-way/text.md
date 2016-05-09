@@ -22,7 +22,7 @@ fruits of your ground; neither shall your vine cast her fruit before the time
 in the field, saith the Lord of hosts. ...
 
 "For ye shall be a delightsome land, saith the Lord of hosts." ([Mal. 3:7-8,
-10-12](https://www.lds.org/scriptures/ot/mal/3.7-8%2C10-12?lang=eng#6).)
+10-12](/scriptures/ot/mal/3.7-8,10-12?lang=eng#6).)
 
 Elder Packer has mentioned briefly the matter of tithing. President Hinckley
 will amplify in greater detail this commandment of the Lord which pertains to
@@ -58,7 +58,7 @@ members now being covered through their tithes.
 These steps were preceded by lengthy discussion and fervent prayer on the part
 of those sustained as prophets, seers, and revelators. In the words of the
 Apostle Paul, "This thing was not done in a corner." ([Acts
-26:26](https://www.lds.org/scriptures/nt/acts/26.26?lang=eng#25).)
+26:26](/scriptures/nt/acts/26.26?lang=eng#25).)
 
 The details relating to the new budget allowance program have been
 communicated to bishops and stake presidents, that the membership of the
@@ -105,13 +105,10 @@ Not so well understood, and perhaps less appreciated, is the announcement
 pertaining to local unit budgets. It will be helpful if we keep in mind the
 principles that govern the budget allowance program:
 
-  * The budget allowance program was created to reduce financial burdens on members.
-
-  * Members should not pay fees or be assessed to participate in Church programs.
-
-  * Priesthood leaders should reduce and simplify activities whenever possible.
-
-  * Activities should be planned at little or no cost, should build testimonies and provide meaningful service to others.
+  * The budget allowance program was created to reduce financial burdens on members. 
+  * Members should not pay fees or be assessed to participate in Church programs. 
+  * Priesthood leaders should reduce and simplify activities whenever possible. 
+  * Activities should be planned at little or no cost, should build testimonies and provide meaningful service to others. 
 
 One of our objectives has been to insure that all budget costs be funded
 either through the 100-percent reimbursed items or the per-person budget
@@ -252,9 +249,10 @@ answer; thou shalt cry, and he shall say, Here I am ...
 
 "And the Lord shall guide thee continually, and satisfy thy soul in drought, ...
 and thou shalt be like a watered garden, and like a spring of water, whose
-waters fail not." ([Isa.
-58:9-11](https://www.lds.org/scriptures/ot/isa/58.9-11?lang=eng#8).)
+waters fail not." ([Isa. 58:9-11](/scriptures/ot/isa/58.9-11?lang=eng#8).)
 
 That we may, as a people, merit the blessings of God, I pray in the name of
 Jesus Christ, amen.
+
+## References
 

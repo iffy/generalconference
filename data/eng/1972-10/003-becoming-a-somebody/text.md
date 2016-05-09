@@ -79,15 +79,14 @@ cause such a change is the gospel of Jesus Christ. The apostle Paul
 experienced one of the greatest such changes that took place in any man, and
 he concluded: "For I am not ashamed of the gospel of Christ: for it is the
 power of God unto salvation to every one that believeth. ..." ([Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).)
+1:16](/scriptures/nt/rom/1.16?lang=eng#15).)
 
 The fourth Article of Faith reads: "We believe that the first principles and
 ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second,
 Repentance; third, Baptism by immersion for the remission of sins; fourth,
 Laying on of hands for the gift of the Holy Ghost." [[A of F
-1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3).] As we briefly
-consider each of these principles, we will be aware of the power embodied in
-each of them.
+1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3).] As we briefly consider each of
+these principles, we will be aware of the power embodied in each of them.
 
 Faith is a principle of power. It is the cause of action. A prime example was
 taught by the Savior as we read in the seventeenth chapter of Matthew:
@@ -112,7 +111,7 @@ mountain, Remove hence to yonder place; and it shall remove; and nothing shall
 be impossible unto you.
 
 "Howbeit this kind goeth not out but by prayer and fasting." ([Matt. 17:14-16,
-18-20](https://www.lds.org/scriptures/nt/matt/17.14-16%2C18-20?lang=eng#13).)
+18-20](/scriptures/nt/matt/17.14-16,18-20?lang=eng#13).)
 
 The evidence of the power of faith is clearly defined by the Savior. Faith in
 God will cause the miracle of change and set the course of action on the true
@@ -136,7 +135,7 @@ forgive you; and now, if you believe all these things see that ye do them.
 "And behold, I say unto you that if ye do this ye shall always rejoice, and be
 filled with the love of God, and always retain a remission of your sins; and
 ye shall grow in knowledge of the glory of him that created you. ..." ([Mosiah
-4:10, 12](https://www.lds.org/scriptures/bofm/mosiah/4.10%2C12?lang=eng#9).)
+4:10, 12](/scriptures/bofm/mosiah/4.10,12?lang=eng#9).)
 
 Baptism requires obedience to the law of God. The divine fiat has been to call
 all men to repent and be baptized. Baptism is a companion to repentance. It is
@@ -147,7 +146,7 @@ ordinance to fulfill all righteousness. The prophet Nephi said:
 "And now, if the Lamb of God, he being holy, should have need to be baptized
 by water, to fulfil all righteousness, O then, how much more need have we,
 being unholy, to be baptized, yea, even by water!" ([2 Ne.
-31:5](https://www.lds.org/scriptures/bofm/2-ne/31.5?lang=eng#4).)
+31:5](/scriptures/bofm/2-ne/31.5?lang=eng#4).)
 
 The efficacy of the ordinance of baptism is unquestionable as it cleanses the
 reborn person.
@@ -178,22 +177,20 @@ life, during his economic production period, or in retirement. The gospel is
 meant to temper life and to bring it into true balance and fruition.
 
 The Lord has decreed that "the Church hath need of every member." (See
-[D&amp;C 84:110](https://www.lds.org/scriptures/dc-
-testament/dc/84.110?lang=eng#109).) This implies development of its members by
-participation in the programmed activities of children and youth, filling the
-numerous teaching opportunities, administration assignments, fulfillment of
-member duties, the fulfillment of priesthood duties, not forgetting to visit
-the homes of members (which, until this day, has not been attended to as the
-Lord directed), searching out the records of ancestors, and temple
-participation, all of which are only part of the never-ending list of
-activities with which to fill our leisure hours.
+[D&amp;C 84:110](/scriptures/dc-testament/dc/84.110?lang=eng#109).) This
+implies development of its members by participation in the programmed
+activities of children and youth, filling the numerous teaching opportunities,
+administration assignments, fulfillment of member duties, the fulfillment of
+priesthood duties, not forgetting to visit the homes of members (which, until
+this day, has not been attended to as the Lord directed), searching out the
+records of ancestors, and temple participation, all of which are only part of
+the never-ending list of activities with which to fill our leisure hours.
 
 The individual power is attested to in this scripture: "Verily I say, men
 should be anxiously engaged in a good cause, and do many things of their own
 free will, and bring to pass much righteousness; For the power is in them,
 wherein they are agents unto themselves. And inasmuch as men do good they
-shall in nowise lose their reward." ([D&amp;C
-58:27-28](https://www.lds.org/scriptures/dc-
+shall in nowise lose their reward." ([D&amp;C 58:27-28](/scriptures/dc-
 testament/dc/58.27-28?lang=eng#26).)
 
 As we consider the aspects of growth and achievement, the word _success
@@ -228,4 +225,6 @@ thousands--millions--who have had similar experiences of becoming a
 And I ask you, brethren, sisters, where would we be, where would you be, where
 would I be, if it were not for the power of the gospel of Christ? I bear
 witness to its power and I do so in the name of Jesus Christ. Amen.
+
+## References
 

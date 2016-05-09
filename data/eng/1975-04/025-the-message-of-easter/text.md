@@ -54,8 +54,7 @@ of man.
 "And the resurrection from the dead is the redemption of the soul.
 
 "And the redemption of the soul is through him that quickeneth all things."
-([D&amp;C 88:15-17](https://www.lds.org/scriptures/dc-
-testament/dc/88.15-17?lang=eng#14).)
+([D&amp;C 88:15-17](/scriptures/dc-testament/dc/88.15-17?lang=eng#14).)
 
 As a result of the Fall, Adam and Eve suffered the penalty of spiritual and
 physical death. But as Adam said:
@@ -68,7 +67,7 @@ God.
 for our transgression we never should have had seed, and never should have
 known good and evil, and the joy of our redemption, and the eternal life which
 God giveth unto all the obedient." ([Moses
-5:10-11](https://www.lds.org/scriptures/pgp/moses/5.10-11?lang=eng#9).)
+5:10-11](/scriptures/pgp/moses/5.10-11?lang=eng#9).)
 
 The Fall thus provided a means whereby mankind can choose between good and
 evil and thus prepare for life after death. What we do here, then, determines
@@ -79,12 +78,12 @@ in this life, it will rise with us in the resurrection.
 
 "And if a person gains more knowledge and intelligence in this life through
 his diligence and obedience than another, he will have so much the advantage
-in the world to come." ([D&amp;C 130:18-19](https://www.lds.org/scriptures/dc-
+in the world to come." ([D&amp;C 130:18-19](/scriptures/dc-
 testament/dc/130.18-19?lang=eng#17).)
 
 And, "We believe that through the Atonement of Christ, all mankind may be
 saved, by obedience to the laws and ordinances of the Gospel." ([A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2).)
+1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2).)
 
 It was Christ's right to be the Redeemer of mankind, and though it required
 sacrifice beyond our comprehension, he made the sacrifice voluntarily. He
@@ -95,8 +94,7 @@ take it again.
 
 "No man taketh it from me, but I lay it down of myself. I have power to lay it
 down and I have power to take it again. This commandment have I received of my
-Father." ([John
-10:17-18](https://www.lds.org/scriptures/nt/john/10.17-18?lang=eng#16).)
+Father." ([John 10:17-18](/scriptures/nt/john/10.17-18?lang=eng#16).)
 
 The Savior had a consuming desire to do his Father's will and a great love for
 his Father's children, whose Redeemer he became. Thus Jesus not only atoned
@@ -108,7 +106,7 @@ which slept arose,
 
 "And came out of the graves after his [the Savior's] resurrection, and went
 into the holy city, and appeared unto many." ([Matt.
-27:52-53](https://www.lds.org/scriptures/nt/matt/27.52-53?lang=eng#51).)
+27:52-53](/scriptures/nt/matt/27.52-53?lang=eng#51).)
 
 Today the resurrection is real to us for similar reasons--Christ and some of
 the ancient saints have appeared in this dispensation as resurrected beings.
@@ -121,15 +119,15 @@ having bodies of flesh and bones--
 bones, as ye see me have._
 
 "Secondly: the spirits of just men made perfect, they who are not [yet]
-resurrected, but inherit the same glory." ([D&amp;C
-129:1-3](https://www.lds.org/scriptures/dc-testament/dc/129.1-3?lang=eng#0).)
+resurrected, but inherit the same glory." ([D&amp;C 129:1-3](/scriptures/dc-
+testament/dc/129.1-3?lang=eng#0).)
 
 That Christ's resurrection was truly a reality was clearly demonstrated in
 this dispensation in Joseph Smith's first vision when he said, "I saw two
 Personages, whose brightness and glory defy all description, standing above me
 in the air. One of them spake unto me, calling me by name and said, pointing
 to the other--_This is My Beloved Son. Hear Him!"_ ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 This testimony is again given by the Prophet Joseph Smith in a vision to him
 and Sidney Rigdon wherein the Prophet relates:
@@ -142,13 +140,12 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 The Savior appeared to Joseph Smith as he did to the apostles in the upper
 room when he invited them to handle him and see, lest they think him to be a
 spirit. He said, "A spirit hath not flesh and bones, as ye see me have."
-([Luke 24:39](https://www.lds.org/scriptures/nt/luke/24.39?lang=eng#38).)
+([Luke 24:39](/scriptures/nt/luke/24.39?lang=eng#38).)
 
 Yes, the message of Easter time is that Christ is alive today, that many of
 the saints have been resurrected, and that all men will enjoy a literal
@@ -163,8 +160,7 @@ be opened, and they shall come forth--yea, even all.
 
 "And the righteous shall be gathered on my right hand unto eternal life; and
 the wicked on my left hand will I be ashamed to own before the Father."
-([D&amp;C 29:26-27](https://www.lds.org/scriptures/dc-
-testament/dc/29.26-27?lang=eng#25).)
+([D&amp;C 29:26-27](/scriptures/dc-testament/dc/29.26-27?lang=eng#25).)
 
 One can see the significance and purpose of this life with the perspective the
 gospel plan gives.
@@ -187,11 +183,13 @@ this earth.
 
 The Lord has said that it is his "work and ... glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) And he has
-said, "If you keep my commandments and endure to the end you shall have
-eternal life, which gift is the greatest of all the gifts of God." ([D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) And he has said, "If you keep
+my commandments and endure to the end you shall have eternal life, which gift
+is the greatest of all the gifts of God." ([D&amp;C 14:7](/scriptures/dc-
+testament/dc/14.7?lang=eng#6).)
 
 With the understanding of the gospel which we have, may we all work for
 eternal life, I pray in the name of Jesus Christ. Amen.
+
+## References
 

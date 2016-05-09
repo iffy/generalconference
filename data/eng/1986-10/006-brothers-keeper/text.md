@@ -1,16 +1,14 @@
 # “Brother’s Keeper”
 
 One of the consequences of mortality is the necessity of earning our daily
-bread (see [Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18); [Moses
-4:25](https://www.lds.org/scriptures/pgp/moses/4.25?lang=eng#24)). We do so as
-employees, as business people, and as investors. In all of our earning
-activities, we have the challenge of dealing fairly and considerately with
-others.
+bread (see [Gen. 3:19](/scriptures/ot/gen/3.19?lang=eng#18); [Moses
+4:25](/scriptures/pgp/moses/4.25?lang=eng#24)). We do so as employees, as
+business people, and as investors. In all of our earning activities, we have
+the challenge of dealing fairly and considerately with others.
 
 Our duty is clear. The Savior gave us the Golden Rule: "All things whatsoever
 ye would that men should do to you, do ye even so to them" ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11)).
+7:12](/scriptures/nt/matt/7.12?lang=eng#11)).
 
 Satan's position is the opposite. He sponsors self-interest, raw and unrefined
 by any other consideration. One of his most effective tools is the temptation
@@ -19,21 +17,18 @@ beginning.
 
 Cain set the pattern of the world. Cain coveted the flocks of his brother
 Abel, and Satan showed him how to obtain them (see JST, Gen. 5:14, 23; [Moses
-5:29, 38](https://www.lds.org/scriptures/pgp/moses/5.29%2C38?lang=eng#28)).
-Satan taught Cain that a man could get worldly wealth by committing some evil
-against its owner (see JST, Gen. 5:16; [Moses
-5:31](https://www.lds.org/scriptures/pgp/moses/5.31?lang=eng#30)).
+5:29, 38](/scriptures/pgp/moses/5.29,38?lang=eng#28)). Satan taught Cain that
+a man could get worldly wealth by committing some evil against its owner (see
+JST, Gen. 5:16; [Moses 5:31](/scriptures/pgp/moses/5.31?lang=eng#30)).
 
 Cain killed Abel. The scriptures say that he did so "for the sake of getting
-gain" ([Moses
-5:50](https://www.lds.org/scriptures/pgp/moses/5.50?lang=eng#49)), the flocks
-of his brother (JST, Gen. 5:18; [Moses
-5:33](https://www.lds.org/scriptures/pgp/moses/5.33?lang=eng#32)). Seeing
-this, the Lord asked Cain, "Where is Abel thy brother?" Cain first attempted
-to cover his sin with a lie: "I know not." Then he added a rationalization:
-"Am I my brother's keeper?" ([Gen.
-4:9](https://www.lds.org/scriptures/ot/gen/4.9?lang=eng#8); [Moses
-5:34](https://www.lds.org/scriptures/pgp/moses/5.34?lang=eng#33)).
+gain" ([Moses 5:50](/scriptures/pgp/moses/5.50?lang=eng#49)), the flocks of
+his brother (JST, Gen. 5:18; [Moses
+5:33](/scriptures/pgp/moses/5.33?lang=eng#32)). Seeing this, the Lord asked
+Cain, "Where is Abel thy brother?" Cain first attempted to cover his sin with
+a lie: "I know not." Then he added a rationalization: "Am I my brother's
+keeper?" ([Gen. 4:9](/scriptures/ot/gen/4.9?lang=eng#8); [Moses
+5:34](/scriptures/pgp/moses/5.34?lang=eng#33)).
 
 Are we our brothers' keepers? In other words, are we responsible to look after
 the well-being of our neighbors as we seek to earn our daily bread? The
@@ -48,8 +43,7 @@ same: "Am I my brother's keeper?"
 Those who follow the example of Cain fulfill a Book of Mormon prophecy. Seeing
 our day, Nephi prophesied that many would say, "Lie a little, take the
 advantage of one because of his words, dig a pit for thy neighbor; there is no
-harm in this" ([2 Ne.
-28:8](https://www.lds.org/scriptures/bofm/2-ne/28.8?lang=eng#7)).
+harm in this" ([2 Ne. 28:8](/scriptures/bofm/2-ne/28.8?lang=eng#7)).
 
 We live in a world where many look on the marketplace as a ruthless arena
 where the buyer must beware, where no one is obligated to do more than the law
@@ -84,18 +78,17 @@ Though their method of thievery may be immune from correction in this life,
 sophisticated thieves in white shirts and ties will ultimately be seen and
 punished for what they are. He who presides over that Eternal Tribunal knows
 our secret acts, and he is "a discerner of the thoughts and intents of the
-heart" ([Heb. 4:12](https://www.lds.org/scriptures/nt/heb/4.12?lang=eng#11);
-[D&amp;C 33:1](https://www.lds.org/scriptures/dc-
-testament/dc/33.1?lang=eng#0)).
+heart" ([Heb. 4:12](/scriptures/nt/heb/4.12?lang=eng#11); [D&amp;C
+33:1](/scriptures/dc-testament/dc/33.1?lang=eng#0)).
 
 Most of us can be relatively comfortable when a message on the Golden Rule in
 the workplace uses examples like illegal drugs and theft by deception. What
 follows is more challenging. And it should be. We cannot expect to be
 comfortable if we measure our conduct against the Savior's command, "I would
 that ye should be perfect even as I" ([3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47)). To follow
-in the footsteps of the only perfect person who ever lived, we must expect to
-stretch our souls.
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47)). To follow in the footsteps
+of the only perfect person who ever lived, we must expect to stretch our
+souls.
 
 Followers of Christ have the moral responsibility of earning their livings and
 conducting their financial transactions in ways that are consistent with the
@@ -242,10 +235,9 @@ Cain's ancient rationalization: "Am I my brother's keeper?"
 In contrast, the Savior taught us to "love [our] enemies, bless them that
 curse [us], do good to them that hate [us], and pray for them who despitefully
 use [us] and persecute [us]" ([3 Ne.
-12:44](https://www.lds.org/scriptures/bofm/3-ne/12.44?lang=eng#43)). When we
-have that duty toward our enemies, we cannot allow ourselves to do less for
-our partners, our customers, our employees, and others with whom we deal in
-the marketplace.
+12:44](/scriptures/bofm/3-ne/12.44?lang=eng#43)). When we have that duty
+toward our enemies, we cannot allow ourselves to do less for our partners, our
+customers, our employees, and others with whom we deal in the marketplace.
 
 What a beautiful and happy world this would be if all of us would strive to
 live these principles to the fullest. Our efforts and influence would affect
@@ -255,17 +247,15 @@ see a sermon than hear one.
 In those brilliant generations that followed the appearance of the resurrected
 Christ in the New World, "there were no contentions and disputations among
 [the people], and every man did deal justly one with another" ([4 Ne.
-1:2](https://www.lds.org/scriptures/bofm/4-ne/1.2?lang=eng#1)). Fourth Nephi
-records: "Surely there could not be a happier people among all the people who
-had been created by the hand of God" ([4 Ne.
-1:16](https://www.lds.org/scriptures/bofm/4-ne/1.16?lang=eng#15)). We should
-be striving to regain that condition. As modern revelation declares: "Zion
-must increase in beauty, and in holiness" ([D&amp;C
-82:14](https://www.lds.org/scriptures/dc-testament/dc/82.14?lang=eng#13)). One
-of the ways prescribed to achieve that increase is "every man seeking the
-interest of his neighbor, and doing all things with an eye single to the glory
-of God" ([D&amp;C 82:19](https://www.lds.org/scriptures/dc-
-testament/dc/82.19?lang=eng#18)).
+1:2](/scriptures/bofm/4-ne/1.2?lang=eng#1)). Fourth Nephi records: "Surely
+there could not be a happier people among all the people who had been created
+by the hand of God" ([4 Ne. 1:16](/scriptures/bofm/4-ne/1.16?lang=eng#15)). We
+should be striving to regain that condition. As modern revelation declares:
+"Zion must increase in beauty, and in holiness" ([D&amp;C 82:14](/scriptures
+/dc-testament/dc/82.14?lang=eng#13)). One of the ways prescribed to achieve
+that increase is "every man seeking the interest of his neighbor, and doing
+all things with an eye single to the glory of God" ([D&amp;C
+82:19](/scriptures/dc-testament/dc/82.19?lang=eng#18)).
 
 May God bless us to live the Golden Rule in our earning activities. As we seek
 to be our brother's keeper, we will be attempting to follow in the footsteps
@@ -274,4 +264,6 @@ for repented sins and whose resurrection has broken the bands of death for
 all. The fulness of the gospel was restored through the Prophet Joseph Smith.
 His successor, President Ezra Taft Benson, holds the keys of the everlasting
 gospel in our day. In the name of Jesus Christ, amen.
+
+## References
 

@@ -76,8 +76,7 @@ bodies were never recovered.
 
 One sentence only, spoken by one person only, provides a fitting epitaph:
 "Greater love hath no man than this, that a man lay down his life for his
-friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+friends." ([John 15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 Frequently the profound influence one life has on the lives of others is never
 spoken and, occasionally, little known. Such was the experience of a teacher
@@ -98,8 +97,7 @@ teacher lived, the lessons that teacher taught, are not buried beneath the
 headstone which marks her grave, but live on in the personalities she helped
 to shape and the lives she so selflessly enriched. One is reminded of another
 master teacher, even the Lord. Once, with His finger, He wrote in the sand a
-message. (See [John
-8:6](https://www.lds.org/scriptures/nt/john/8.6?lang=eng#5).) The winds of
+message. (See [John 8:6](/scriptures/nt/john/8.6?lang=eng#5).) The winds of
 time erased forever the words He wrote, but not the life He lived.
 
 "All that we can know about those we have loved and lost," wrote Thornton
@@ -157,7 +155,7 @@ the Master. Our inspiration? The lives of the boys who now rest from care and
 sorrow, and the fortitude of parents who trust in the Lord with all their
 hearts, who lean not to their own understanding, and who in all their ways
 acknowledge Him, knowing that He will direct their paths. (See [Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).)
+3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4).)
 
 Let me share with you a portion of a letter sent to me by the noble mother of
 these three sons. It was written soon after their passing.
@@ -206,7 +204,7 @@ that God who gave them life.
 are received into a state of happiness, which is called paradise, a state of
 rest, a state of peace, where they shall rest from all their troubles and from
 all care, and sorrow." ([Alma 40:1,
-11-12](https://www.lds.org/scriptures/bofm/alma/40.1%2C11-12?lang=eng#0).)
+11-12](/scriptures/bofm/alma/40.1,11-12?lang=eng#0).)
 
 My young friend closed his eyes, expressed a sincere thank-you, and silently
 slipped away to that paradise about which we had spoken.
@@ -217,15 +215,15 @@ said the Christ to the grieving Martha. "He that believeth in me, though he
 were dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 "Peace I leave with you, my peace I give unto you: not as the world giveth,
 give I unto you. Let not your heart be troubled, neither let it be afraid."
-([John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 "In my Father's house are many mansions: if it were not so, I would have told
 you. I go to prepare a place for you ... that where I am, there ye may be also."
-([John 14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1).)
+([John 14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1).)
 
 This transcendent promise became a reality when Mary and the other Mary
 approached the garden tomb--that cemetery which had but one occupant. Let
@@ -242,21 +240,22 @@ the sepulchre. ...
 shining garments:
 
 "And ... said unto them, Why seek ye the living among the dead?" ([Luke
-24:1-5](https://www.lds.org/scriptures/nt/luke/24.1-5?lang=eng#0).)
+24:1-5](/scriptures/nt/luke/24.1-5?lang=eng#0).)
 
 "He is not here: for he is risen." ([Matt.
-28:6](https://www.lds.org/scriptures/nt/matt/28.6?lang=eng#5).)
+28:6](/scriptures/nt/matt/28.6?lang=eng#5).)
 
 This is the clarion call of Christendom. The reality of the resurrection
 provides to one and all the peace that surpasses understanding. (See [Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).) It comforts
-those whose loved ones lie in Flanders fields, who perished in the depths of
-the sea or rest in tiny Santa Clara or peaceful Heber Valley. It is a
-universal truth.
+4:7](/scriptures/nt/philip/4.7?lang=eng#6).) It comforts those whose loved
+ones lie in Flanders fields, who perished in the depths of the sea or rest in
+tiny Santa Clara or peaceful Heber Valley. It is a universal truth.
 
 As the least of His disciples, I declare my personal witness that death has
 been conquered, victory over the tomb has been won. May the words made sacred
 by Him who fulfilled them become actual knowledge to all. Remember them.
 Cherish them. Honor them. _He is risen._ Such is my fervent prayer in the name
 of Jesus Christ, amen.
+
+## References
 

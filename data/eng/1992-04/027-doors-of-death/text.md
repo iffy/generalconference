@@ -13,22 +13,22 @@ wonderful men then told of their cooking breakfast for each other once a week
 imposed by the doors of death.
 
 Death separates "the spirit and the body [which] are the soul of man."
-([D&amp;C 88:15](https://www.lds.org/scriptures/dc-
-testament/dc/88.15?lang=eng#14).) That separation evokes pangs of sorrow and
-shock among those left behind. The hurt is real. Only its intensity varies.
-Some doors are heavier than others. The sense of tragedy may be related to
-age. Generally the younger the victim, the greater the grief. Yet even when
-the elderly or infirm have been afforded merciful relief, their loved ones are
-rarely ready to let go. The only length of life that seems to satisfy the
-longings of the human heart is life everlasting.
+([D&amp;C 88:15](/scriptures/dc-testament/dc/88.15?lang=eng#14).) That
+separation evokes pangs of sorrow and shock among those left behind. The hurt
+is real. Only its intensity varies. Some doors are heavier than others. The
+sense of tragedy may be related to age. Generally the younger the victim, the
+greater the grief. Yet even when the elderly or infirm have been afforded
+merciful relief, their loved ones are rarely ready to let go. The only length
+of life that seems to satisfy the longings of the human heart is life
+everlasting.
 
 ## Mourning
 
 Irrespective of age, we mourn for those loved and lost. Mourning is one of the
 deepest expressions of pure love. It is a natural response in complete accord
 with divine commandment: "Thou shalt live together in love, insomuch that thou
-shalt weep for the loss of them that die." ([D&amp;C
-42:45](https://www.lds.org/scriptures/dc-testament/dc/42.45?lang=eng#44).)
+shalt weep for the loss of them that die." ([D&amp;C 42:45](/scriptures/dc-
+testament/dc/42.45?lang=eng#44).)
 
 Moreover, we can't fully appreciate joyful reunions later without tearful
 separations now. The only way to take sorrow out of death is to take love out
@@ -37,12 +37,12 @@ of life.
 ## Eternal Perspective
 
 Eternal perspective provides peace "which passeth all understanding."
-([Philip. 4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).) In
-speaking at a funeral of a loved one, the Prophet Joseph Smith offered this
-admonition: "When we lose a near and dear friend, upon whom we have set our
-hearts, it should be a caution unto us. ... Our affections should be placed upon
-God and His work, more intensely than upon our fellow beings." (_Teachings of
-the Prophet Joseph Smith, _p. 216.)
+([Philip. 4:7](/scriptures/nt/philip/4.7?lang=eng#6).) In speaking at a
+funeral of a loved one, the Prophet Joseph Smith offered this admonition:
+"When we lose a near and dear friend, upon whom we have set our hearts, it
+should be a caution unto us. ... Our affections should be placed upon God and
+His work, more intensely than upon our fellow beings." (_Teachings of the
+Prophet Joseph Smith, _p. 216.)
 
 Life does not begin with birth, nor does it end with death. Prior to our
 birth, we dwelled as spirit children with our Father in Heaven. There we
@@ -50,14 +50,13 @@ eagerly anticipated the possibility of coming to earth and obtaining a
 physical body. Knowingly we wanted the risks of mortality, which would allow
 the exercise of agency and accountability. "This life [was to become] a
 probationary state; a time to prepare to meet God." ([Alma
-12:24](https://www.lds.org/scriptures/bofm/alma/12.24?lang=eng#23).) But we
-regarded the returning home as the best part of that long-awaited trip, just
-as we do now. Before embarking on any journey, we like to have some assurance
-of a round-trip ticket. Returning from earth to life in our heavenly home
-requires passage through--and not around--the doors of death. We were born to
-die, and we die to live. (See [2 Cor.
-6:9](https://www.lds.org/scriptures/nt/2-cor/6.9?lang=eng#8).) As seedlings of
-God, we barely blossom on earth; we fully flower in heaven.
+12:24](/scriptures/bofm/alma/12.24?lang=eng#23).) But we regarded the
+returning home as the best part of that long-awaited trip, just as we do now.
+Before embarking on any journey, we like to have some assurance of a round-
+trip ticket. Returning from earth to life in our heavenly home requires
+passage through--and not around--the doors of death. We were born to die, and
+we die to live. (See [2 Cor. 6:9](/scriptures/nt/2-cor/6.9?lang=eng#8).) As
+seedlings of God, we barely blossom on earth; we fully flower in heaven.
 
 ## Physical Death
 
@@ -65,8 +64,8 @@ The writer of Ecclesiastes said, "To every thing there is a season, and a time
 to every purpose under the heaven:
 
 "A time to be born, and a time to die." ([Eccl.
-3:1-2](https://www.lds.org/scriptures/ot/eccl/3.1-2?lang=eng#0); see also
-[Alma 12:27](https://www.lds.org/scriptures/bofm/alma/12.27?lang=eng#26).)
+3:1-2](/scriptures/ot/eccl/3.1-2?lang=eng#0); see also [Alma
+12:27](/scriptures/bofm/alma/12.27?lang=eng#26).)
 
 Think of the alternative. If all sixty-nine billion people who have ever lived
 on earth were still here, imagine the traffic jam! And we could own virtually
@@ -77,46 +76,42 @@ nothing and scarcely make any responsible decisions.
 Scriptures teach that death is _essential _to happiness: "Now behold, it was
 not expedient that man should be reclaimed from this temporal death, for that
 would _destroy _the great plan of happiness." ([Alma
-42:8](https://www.lds.org/scriptures/bofm/alma/42.8?lang=eng#7); italics
-added; see also [2 Ne.
-9:6](https://www.lds.org/scriptures/bofm/2-ne/9.6?lang=eng#5).)
+42:8](/scriptures/bofm/alma/42.8?lang=eng#7); italics added; see also [2 Ne.
+9:6](/scriptures/bofm/2-ne/9.6?lang=eng#5).)
 
 Our limited perspective would be enlarged if we could witness the reunion on
 the other side of the veil, when doors of death open to those returning home.
 Such was the vision of the psalmist who wrote, "Precious in the sight of the
 Lord is the death of his saints." ([Ps.
-116:15](https://www.lds.org/scriptures/ot/ps/116.15?lang=eng#14).)
+116:15](/scriptures/ot/ps/116.15?lang=eng#14).)
 
 ## Spiritual Death
 
 But there is another type of separation known in scripture as spiritual death.
-(See [2 Ne. 9:12](https://www.lds.org/scriptures/bofm/2-ne/9.12?lang=eng#11);
-[Alma 12:16](https://www.lds.org/scriptures/bofm/alma/12.16?lang=eng#15);
-[Alma 42:9](https://www.lds.org/scriptures/bofm/alma/42.9?lang=eng#8); [Hel.
-14:16, 18](https://www.lds.org/scriptures/bofm/hel/14.16%2C18?lang=eng#15).)
-It "is defined as a state of spiritual alienation from God." (Joseph Fielding
-Smith, _Doctrines of Salvation, _comp. Bruce R. McConkie, 3 vols., Salt Lake
-City: Bookcraft, 1954-56, 2:217.) Thus, one can be very much alive physically
-but dead spiritually.
+(See [2 Ne. 9:12](/scriptures/bofm/2-ne/9.12?lang=eng#11); [Alma
+12:16](/scriptures/bofm/alma/12.16?lang=eng#15); [Alma
+42:9](/scriptures/bofm/alma/42.9?lang=eng#8); [Hel. 14:16,
+18](/scriptures/bofm/hel/14.16,18?lang=eng#15).) It "is defined as a state of
+spiritual alienation from God." (Joseph Fielding Smith, _Doctrines of
+Salvation, _comp. Bruce R. McConkie, 3 vols., Salt Lake City: Bookcraft,
+1954-56, 2:217.) Thus, one can be very much alive physically but dead
+spiritually.
 
 Spiritual death is more likely when goals are unbalanced toward things
 physical. Paul explained this concept to the Romans: "If ye live after the
 flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the
-body, ye shall live." ([Rom.
-8:13](https://www.lds.org/scriptures/nt/rom/8.13?lang=eng#12).)
+body, ye shall live." ([Rom. 8:13](/scriptures/nt/rom/8.13?lang=eng#12).)
 
 If physical death should strike before moral wrongs have been made right,
 opportunity for repentance will have been forfeited. Thus, "the [real] sting
-of death is sin." ([1 Cor.
-15:56](https://www.lds.org/scriptures/nt/1-cor/15.56?lang=eng#55).)
+of death is sin." ([1 Cor. 15:56](/scriptures/nt/1-cor/15.56?lang=eng#55).)
 
 Even the Savior cannot save us in our sins. He will redeem us from our sins,
 but only upon condition of our repentance. We are responsible for our own
 spiritual survival or death. (See [Rom.
-8:13-14](https://www.lds.org/scriptures/nt/rom/8.13-14?lang=eng#12); [Hel.
-14:18](https://www.lds.org/scriptures/bofm/hel/14.18?lang=eng#17); [D&amp;C
-29:41-45](https://www.lds.org/scriptures/dc-
-testament/dc/29.41-45?lang=eng#40).)
+8:13-14](/scriptures/nt/rom/8.13-14?lang=eng#12); [Hel.
+14:18](/scriptures/bofm/hel/14.18?lang=eng#17); [D&amp;C 29:41-45](/scriptures
+/dc-testament/dc/29.41-45?lang=eng#40).)
 
 ## Coping with Trials
 
@@ -124,29 +119,27 @@ Physical and spiritual trials provide continuing challenges in life. Each of
 you could provide illustrations from personal experience. Many of you, for
 instance, are at the twilight of life and endure long and difficult days. You
 know well the meaning of that divine injunction to "endure to the end." (See
-[Matt. 24:13](https://www.lds.org/scriptures/nt/matt/24.13?lang=eng#12); [Mark
-13:13](https://www.lds.org/scriptures/nt/mark/13.13?lang=eng#12); [1 Ne.
-13:37](https://www.lds.org/scriptures/bofm/1-ne/13.37?lang=eng#36); [1 Ne.
-22:31](https://www.lds.org/scriptures/bofm/1-ne/22.31?lang=eng#30); [2 Ne.
-31:16](https://www.lds.org/scriptures/bofm/2-ne/31.16?lang=eng#15); [2 Ne.
-33:4](https://www.lds.org/scriptures/bofm/2-ne/33.4?lang=eng#3); [Omni
-1:26](https://www.lds.org/scriptures/bofm/omni/1.26?lang=eng#25); [3 Ne.
-15:9](https://www.lds.org/scriptures/bofm/3-ne/15.9?lang=eng#8); [D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6);
-[D&amp;C 18:22](https://www.lds.org/scriptures/dc-
-testament/dc/18.22?lang=eng#21); [D&amp;C 24:8](https://www.lds.org/scriptures
-/dc-testament/dc/24.8?lang=eng#7).)
+[Matt. 24:13](/scriptures/nt/matt/24.13?lang=eng#12); [Mark
+13:13](/scriptures/nt/mark/13.13?lang=eng#12); [1 Ne.
+13:37](/scriptures/bofm/1-ne/13.37?lang=eng#36); [1 Ne.
+22:31](/scriptures/bofm/1-ne/22.31?lang=eng#30); [2 Ne.
+31:16](/scriptures/bofm/2-ne/31.16?lang=eng#15); [2 Ne.
+33:4](/scriptures/bofm/2-ne/33.4?lang=eng#3); [Omni
+1:26](/scriptures/bofm/omni/1.26?lang=eng#25); [3 Ne.
+15:9](/scriptures/bofm/3-ne/15.9?lang=eng#8); [D&amp;C 14:7](/scriptures/dc-
+testament/dc/14.7?lang=eng#6); [D&amp;C 18:22](/scriptures/dc-
+testament/dc/18.22?lang=eng#21); [D&amp;C 24:8](/scriptures/dc-
+testament/dc/24.8?lang=eng#7).)
 
 The Savior of the world repeatedly asked that we pattern our lives after His.
-(See [John 13:15](https://www.lds.org/scriptures/nt/john/13.15?lang=eng#14);
-[John 14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5); [1 Pet.
-2:21](https://www.lds.org/scriptures/nt/1-pet/2.21?lang=eng#20); [2 Ne. 31:9,
-16](https://www.lds.org/scriptures/bofm/2-ne/31.9%2C16?lang=eng#8); [3 Ne.
-18:16](https://www.lds.org/scriptures/bofm/3-ne/18.16?lang=eng#15); [3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).) So we
-must endure trials--as did He. "Though he were a Son, yet learned he obedience
-by the things which he suffered." ([Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7).)
+(See [John 13:15](/scriptures/nt/john/13.15?lang=eng#14); [John
+14:6](/scriptures/nt/john/14.6?lang=eng#5); [1 Pet.
+2:21](/scriptures/nt/1-pet/2.21?lang=eng#20); [2 Ne. 31:9,
+16](/scriptures/bofm/2-ne/31.9,16?lang=eng#8); [3 Ne.
+18:16](/scriptures/bofm/3-ne/18.16?lang=eng#15); [3 Ne.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).) So we must endure trials--as
+did He. "Though he were a Son, yet learned he obedience by the things which he
+suffered." ([Heb. 5:8](/scriptures/nt/heb/5.8?lang=eng#7).)
 
 When hardship heaps its heavy load upon us, good may yet be gleaned.
 Shakespeare so wrote:
@@ -158,8 +151,7 @@ _Which like the toad, ugly and venomous,_
 _Wears yet a precious jewel in his head._
 
 The Lord's expression is even more explicit: "After much tribulation come the
-blessings." ([D&amp;C 58:4](https://www.lds.org/scriptures/dc-
-testament/dc/58.4?lang=eng#3).)
+blessings." ([D&amp;C 58:4](/scriptures/dc-testament/dc/58.4?lang=eng#3).)
 
 ## Postmortal Life
 
@@ -178,8 +170,7 @@ life. ...
 
 "The spirits of those who are righteous are received into a state of
 happiness, which is called paradise, a state of rest, a state of peace."
-([Alma
-40:11-12](https://www.lds.org/scriptures/bofm/alma/40.11-12?lang=eng#10).)
+([Alma 40:11-12](/scriptures/bofm/alma/40.11-12?lang=eng#10).)
 
 ## Resurrection and Immortality
 
@@ -191,17 +182,15 @@ learn that the "paradise of God must deliver up the spirits of the righteous,
 and the grave deliver up the body of the righteous; and the spirit and the
 body is restored to itself again, and all men become incorruptible, and
 immortal, and they are living souls." ([2 Ne.
-9:13](https://www.lds.org/scriptures/bofm/2-ne/9.13?lang=eng#12).)
+9:13](/scriptures/bofm/2-ne/9.13?lang=eng#12).)
 
 A few years ago, our stake president and his wife had a wonderful son taken in
 his youthful prime because of an automobile accident. We are consoled by the
 knowledge that the very laws that could not allow his broken body to survive
 here are the same eternal laws which the Lord will employ at the time of the
 Resurrection, when that body "shall be restored to [its] proper and perfect
-frame." ([Alma
-40:23](https://www.lds.org/scriptures/bofm/alma/40.23?lang=eng#22); see also
-[Alma
-11:42-45](https://www.lds.org/scriptures/bofm/alma/11.42-45?lang=eng#41).)
+frame." ([Alma 40:23](/scriptures/bofm/alma/40.23?lang=eng#22); see also [Alma
+11:42-45](/scriptures/bofm/alma/11.42-45?lang=eng#41).)
 
 The Lord who created us in the first place surely has power to do it again.
 The same necessary elements now in our bodies will still be available--at His
@@ -216,7 +205,7 @@ Our resurrection will not be an end but a new beginning. It will prepare us
 for judgment by the Lord, who said, "As I have been lifted up [upon the cross]
 by men even so should men be lifted up by the Father, to stand before me, to
 be judged of their works." ([3 Ne.
-27:14](https://www.lds.org/scriptures/bofm/3-ne/27.14?lang=eng#13).)
+27:14](/scriptures/bofm/3-ne/27.14?lang=eng#13).)
 
 Even before we approach that threshold of the eternal court of justice, we
 know who will personally preside: "The keeper of the gate is the Holy One of
@@ -224,7 +213,7 @@ Israel; and he employeth no servant there; and there is none other way save it
 be by the gate; for he cannot be deceived, for the Lord God is his name.
 
 "And whoso knocketh, to him will he open." ([2 Ne.
-9:41-42](https://www.lds.org/scriptures/bofm/2-ne/9.41-42?lang=eng#40).)
+9:41-42](/scriptures/bofm/2-ne/9.41-42?lang=eng#40).)
 
 ## Family Ties
 
@@ -252,30 +241,27 @@ house of the Lord.
 That harrowing experience consumed but a few minutes, yet my entire life
 flashed before my mind. Having had such rapid recall when facing death, I do
 not doubt the scriptural promise of "perfect remembrance" when facing
-judgment. ([Alma
-5:18](https://www.lds.org/scriptures/bofm/alma/5.18?lang=eng#17); see also
-[Alma 11:43](https://www.lds.org/scriptures/bofm/alma/11.43?lang=eng#42).)
+judgment. ([Alma 5:18](/scriptures/bofm/alma/5.18?lang=eng#17); see also [Alma
+11:43](/scriptures/bofm/alma/11.43?lang=eng#42).)
 
 ## Eternal Life
 
 After judgment comes the possibility of eternal life--the kind of life that
 our Heavenly Father lives. His celestial realm has been compared with the
-glory of the sun. (See [1 Cor.
-15:41](https://www.lds.org/scriptures/nt/1-cor/15.41?lang=eng#40); [D&amp;C
-76:96](https://www.lds.org/scriptures/dc-testament/dc/76.96?lang=eng#95).) It
-is available to all who prepare for it, the requirements of which have been
+glory of the sun. (See [1 Cor. 15:41](/scriptures/nt/1-cor/15.41?lang=eng#40);
+[D&amp;C 76:96](/scriptures/dc-testament/dc/76.96?lang=eng#95).) It is
+available to all who prepare for it, the requirements of which have been
 clearly revealed: "Ye must press forward with a steadfastness in Christ,
 having a perfect brightness of hope, and a love of God and of all men.
 Wherefore, if ye shall press forward, feasting upon the word of Christ, and
 endure to the end, behold, thus saith the Father: Ye shall have eternal life."
-([2 Ne. 31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19);
-see also [John 17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+([2 Ne. 31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19); see also [John
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 ## Time to Prepare
 
 Meanwhile, we who tarry here have a few precious moments remaining "to prepare
-to meet God." ([Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31).)
+to meet God." ([Alma 34:32](/scriptures/bofm/alma/34.32?lang=eng#31).)
 Unfinished business is our worst business. Perpetual procrastination must
 yield to perceptive preparation. Today we have a little more time to bless
 others--time to be kinder, more compassionate, quicker to thank and slower to
@@ -284,16 +270,16 @@ scold, more generous in sharing, more gracious in caring.
 Then when our turn comes to pass through the doors of death, we can say as did
 Paul: "The time of my departure is at hand. I have fought a good fight, I have
 finished my course, I have kept the faith." ([2 Tim.
-4:6-7](https://www.lds.org/scriptures/nt/2-tim/4.6-7?lang=eng#5).)
+4:6-7](/scriptures/nt/2-tim/4.6-7?lang=eng#5).)
 
 We need not look upon death as an enemy. With full understanding and
 preparation, faith supplants fear. Hope displaces despair. The Lord said,
 "Fear not even unto death; for in this world your joy is not full, but in me
-your joy is full." ([D&amp;C 101:36](https://www.lds.org/scriptures/dc-
+your joy is full." ([D&amp;C 101:36](/scriptures/dc-
 testament/dc/101.36?lang=eng#35).) He bestowed this gift: "Peace I leave with
 you, my peace I give unto you: not as the world giveth, give I unto you. Let
 not your heart be troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 As a special witness of Jesus Christ, I testify that He lives! I also testify
 that the veil of death is very thin. I know by experiences too sacred to
@@ -303,9 +289,11 @@ Church. To us and to you, our loved ones may be just as close as the next room
 
 With that assurance, brothers and sisters, love life! Cherish each moment as a
 blessing from God. (See [Mosiah
-2:21](https://www.lds.org/scriptures/bofm/mosiah/2.21?lang=eng#20).) Live it
-well--even to your loftiest potential. Then the anticipation of death shall
-not hold you hostage. With the help of the Lord, your deeds and desires will
-qualify you to receive everlasting joy, glory, immortality, and eternal lives.
-For this I pray in the name of Jesus Christ, amen.
+2:21](/scriptures/bofm/mosiah/2.21?lang=eng#20).) Live it well--even to your
+loftiest potential. Then the anticipation of death shall not hold you hostage.
+With the help of the Lord, your deeds and desires will qualify you to receive
+everlasting joy, glory, immortality, and eternal lives. For this I pray in the
+name of Jesus Christ, amen.
+
+## References
 

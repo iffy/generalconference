@@ -33,15 +33,12 @@ the value of expedience and the shirking of responsibility."
 You young women ask silently, "What can I do to insure my eternal joy? Can you
 help me?" I offer four suggestions:
 
-  1. Study diligently.
+  1. Study diligently. 
+  2. Choose carefully. 
+  3. Pray fervently. 
+  4. Act wisely. 
 
-  2. Choose carefully.
-
-  3. Pray fervently.
-
-  4. Act wisely.
-
-First, study diligently. All that has been said this evening points to the
+First, **study diligently.** All that has been said this evening points to the
 holy scriptures as an unfailing guide in our lives. Become acquainted with the
 lessons the scriptures teach. Learn the background and setting of the Master's
 parables and the prophets' admonitions. Study them as though each were
@@ -50,7 +47,7 @@ speaking to you, for such is the truth.
 For example, let us hearken to the gentle yet persuasive appeal of the Apostle
 Paul as he counsels his young friend Timothy: "Let no man despise thy youth;
 but be thou an example of the believers, in word, in conversation, in charity,
-in spirit, in faith, in purity." [1]
+in spirit, in faith, in purity."[1]
 
 Crash courses on scripture study are not nearly so effective as the day-to-day
 reading and application of the scriptures in our lives. Also, there are
@@ -68,7 +65,7 @@ Contemplating our earthly life, could not we well consider Tevye's statement
 and respond, "Here, each one of you knows who she is and what God expects her
 to become." _Study diligently._
 
-Second, choose carefully. All of you commenced an awesome and vital
+Second, **choose carefully.** All of you commenced an awesome and vital
 undertaking when you left the spirit world and entered the stage of mortality.
 Loving parents made you welcome. Inspired teachers taught you truth. True
 friends provided counsel. Yet life's choices remain for each one to make. No
@@ -109,10 +106,11 @@ Unlike Alice, each of you knows where you want to go. It _does_ matter which
 way we go, for the path we follow in this life surely leads to the path we
 shall follow in the next. _Choose carefully._
 
-Third, pray fervently. Each of you is a daughter of God, created in His image.
-Yours is a celestial journey. Heavenly Father wants you to check in with Him
-through sincere and fervent prayer. Remember, you are never alone. Never
-forget that you are loved. Never doubt that someone surely cares for you.
+Third, **pray fervently.** Each of you is a daughter of God, created in His
+image. Yours is a celestial journey. Heavenly Father wants you to check in
+with Him through sincere and fervent prayer. Remember, you are never alone.
+Never forget that you are loved. Never doubt that someone surely cares for
+you.
 
 Your challenges are real, your concerns important, your need for answers
 vital. Youth should become acquainted with the ninth section of the Doctrine
@@ -124,16 +122,16 @@ must ask me if it be right, and if it is right I will cause that your bosom
 shall burn within you; therefore, you shall feel that it is right." The Lord
 continues, "But if it be not right you shall have no such feelings, but you
 shall have a stupor of thought that shall cause you to forget the thing which
-is wrong." [2]
+is wrong."[2]
 
 That counsel will guide you. It has guided me. _Pray fervently._
 
-Fourth and finally, act wisely. Take the Lord as your guide. Do not lend a
+Fourth and finally, **act wisely.** Take the Lord as your guide. Do not lend a
 listening ear to the persuasive voice of that evil one who would entice you to
 depart from your standards, your home-inspired teachings, and your philosophy
 of life. Rather, remember that gentle and ever genuine invitation from the
-Redeemer, "Come, follow me." [3]  Follow Him, and you will be acting wisely
-and will be blessed eternally.
+Redeemer, "Come, follow me."[3] Follow Him, and you will be acting wisely and
+will be blessed eternally.
 
 Along your pathway of life you will observe that you are not the only
 traveler. There are others who need your help. There are feet to steady, hands
@@ -167,9 +165,9 @@ is my sincere prayer. In the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).
+  1. [1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).
 
-  2.   [D&amp;C 9:8-9](https://www.lds.org/scriptures/dc-testament/dc/9.8-9?lang=eng#7).
+  2. [D&amp;C 9:8-9](https://www.lds.org/scriptures/dc-testament/dc/9.8-9?lang=eng#7).
 
-  3.   [Luke 18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).
+  3. [Luke 18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).
 

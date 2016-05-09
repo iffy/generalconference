@@ -228,3 +228,51 @@ his coming."[23]
 That is the ministry of fathers today. God bless and make them equal to it, in
 the name of Jesus Christ, amen.
 
+## References
+
+  1. David Blankenhorn, _Fatherless America: Confronting Our Most Urgent Social Problem _(1995), 62.
+
+  2. Blankenhorn, _Fatherless America,_ 5.
+
+  3. "[The Family: A Proclamation to the World](https://www.lds.org/liahona/2010/11/the-family-a-proclamation-to-the-world.p1?lang=eng)," _Ensign_ or _ Liahona,_ Nov. 2010, 129.
+
+  4. "[The Family: A Proclamation to the World](https://www.lds.org/liahona/2010/11/the-family-a-proclamation-to-the-world.p1?lang=eng)," 129.
+
+  5. Blankenhorn, _Fatherless America,_ 25, 26.
+
+  6. See [Moses 1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).
+
+  7. See [John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).
+
+  8. [John 15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).
+
+  9. See [Doctrine and Covenants 59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22); [Moses 6:59](https://www.lds.org/scriptures/pgp/moses/6.59?lang=eng#58).
+
+  10. See [Doctrine and Covenants 18:34-36](https://www.lds.org/scriptures/dc-testament/dc/18.34-36?lang=eng#33).
+
+  11. [Doctrine and Covenants 68:25, 28](https://www.lds.org/scriptures/dc-testament/dc/68.25,28?lang=eng#24).
+
+  12. [Doctrine and Covenants 93:42](https://www.lds.org/scriptures/dc-testament/dc/93.42?lang=eng#41).
+
+  13. [Psalm 78:5-7](https://www.lds.org/scriptures/ot/ps/78.5-7?lang=eng#4).
+
+  14. [Hebrews 12:6](https://www.lds.org/scriptures/nt/heb/12.6?lang=eng#5).
+
+  15. [Doctrine and Covenants 121:43-44](https://www.lds.org/scriptures/dc-testament/dc/121.43-44?lang=eng#42).
+
+  16. [Doctrine and Covenants 83:4](https://www.lds.org/scriptures/dc-testament/dc/83.4?lang=eng#3).
+
+  17. Blankenhorn, _Fatherless America,_ 113.
+
+  18. [Mosiah 4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).
+
+  19. "[The Family: A Proclamation to the World](https://www.lds.org/liahona/2010/11/the-family-a-proclamation-to-the-world.p1?lang=eng)," 129.
+
+  20. [Luke 2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).
+
+  21. [3 John 1:4](https://www.lds.org/scriptures/nt/3-jn/1.4?lang=eng#3).
+
+  22. Julian Dyke, "[Thanks, Dad](https://www.lds.org/new-era/1993/04/thanks-dad?lang=eng)," _New Era,_ Apr. 1993, 38; _Tambuli_, Oct. 1994, 45.
+
+  23. [Alma 39:15-16](https://www.lds.org/scriptures/bofm/alma/39.15-16?lang=eng#14).
+

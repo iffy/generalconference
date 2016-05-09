@@ -50,11 +50,10 @@ and sometimes their lives.
 
 They do as the Savior taught: They deny themselves; they take up their crosses
 daily; they follow Him. (See [Luke
-9:23](https://www.lds.org/scriptures/nt/luke/9.23?lang=eng#22).) These are
-those the Savior likened to the seed that fell on good ground: "in an honest
-and good heart, having heard the word, [they] keep it, and bring forth fruit
-with patience." ([Luke
-8:15](https://www.lds.org/scriptures/nt/luke/8.15?lang=eng#14).)
+9:23](/scriptures/nt/luke/9.23?lang=eng#22).) These are those the Savior
+likened to the seed that fell on good ground: "in an honest and good heart,
+having heard the word, [they] keep it, and bring forth fruit with patience."
+([Luke 8:15](/scriptures/nt/luke/8.15?lang=eng#14).)
 
 The fruits of the gospel issue from every honest and good heart, without
 regard to past origins or current positions in the Church. As President Clark
@@ -93,9 +92,8 @@ service as teachers and leaders, as temple workers, in name extraction, and in
 so many other ways.
 
 The Apostle Paul described the followers of Christ as "rejoicing in hope;
-patient in tribulation." ([Rom.
-12:12](https://www.lds.org/scriptures/nt/rom/12.12?lang=eng#11).) We are
-tested for those qualities in different ways at different times.
+patient in tribulation." ([Rom. 12:12](/scriptures/nt/rom/12.12?lang=eng#11).)
+We are tested for those qualities in different ways at different times.
 
 A few weeks ago, some members of my family visited the Winter Quarters
 cemetery at Florence, Nebraska. There they saw Avard T. Fairbanks's marvelous
@@ -139,9 +137,8 @@ president." (_Ensign,_ May 1987, p. 24.)
 Numberless officers, teachers, advisers, and clerks keep their covenants in
 that same way. Their service is almost invisible, except to Him who sees all
 things and promises all who do good that they shall "in nowise lose their
-reward." ([D&amp;C 58:28](https://www.lds.org/scriptures/dc-
-testament/dc/58.28?lang=eng#27); see also [Matt.
-10:42](https://www.lds.org/scriptures/nt/matt/10.42?lang=eng#41).)
+reward." ([D&amp;C 58:28](/scriptures/dc-testament/dc/58.28?lang=eng#27); see
+also [Matt. 10:42](/scriptures/nt/matt/10.42?lang=eng#41).)
 
 The pioneers who crossed the plains took their directions from the trails
 blazed by their leaders. For safety, those pioneers traveled in groups. Then,
@@ -173,9 +170,9 @@ forgiveness. Everyone is wronged at some point by someone, and many suffer
 serious wrongs. Christians everywhere stand in awe of those pioneers who have
 climbed that steep slope to the spiritual summit attained by those who have
 heeded the Savior's command to forgive all men. (See [Matt.
-6:14-15](https://www.lds.org/scriptures/nt/matt/6.14-15?lang=eng#13); [D&amp;C
-64:9-10](https://www.lds.org/scriptures/dc-testament/dc/64.9-10?lang=eng#8).)
-Forgiveness is mortality's mirror image of the mercy of God.
+6:14-15](/scriptures/nt/matt/6.14-15?lang=eng#13); [D&amp;C
+64:9-10](/scriptures/dc-testament/dc/64.9-10?lang=eng#8).) Forgiveness is
+mortality's mirror image of the mercy of God.
 
 A sister wrote me about her feelings toward a relative who had abused her as a
 child, leaving her with a painful physical condition. In her words, I have to
@@ -197,9 +194,9 @@ Words cannot express my feelings."
 Like this sister who forgave, many modern Saints do their pioneering on the
 frontiers of their own attitudes and emotions. The proverb says, "He that
 ruleth his spirit [is better] than he that taketh a city." ([Prov.
-16:32](https://www.lds.org/scriptures/ot/prov/16.32?lang=eng#31).) Modern
-Saints know that one who subdues his own spirit is just as much a pioneer as
-one who conquers a continent.
+16:32](/scriptures/ot/prov/16.32?lang=eng#31).) Modern Saints know that one
+who subdues his own spirit is just as much a pioneer as one who conquers a
+continent.
 
 The path of modern pioneers is not easy. Burdens carried in the heart can be
 just as heavy as those pulled in a handcart. And just as some early pioneers
@@ -230,10 +227,9 @@ One sister wrote, "We are having great difficulty [just] trying to cope." Many
 could say the same. Yet they do cope. They carry on without complaint, even
 when they have just cause for complaint. And even when they fall short, the
 Lord blesses them for their righteous desires (see [Mosiah
-4:24-25](https://www.lds.org/scriptures/bofm/mosiah/4.24-25?lang=eng#23)),
-for, as King Benjamin taught, "it is not requisite that a man should run
-faster than he has strength" ([Mosiah
-4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26)).
+4:24-25](/scriptures/bofm/mosiah/4.24-25?lang=eng#23)), for, as King Benjamin
+taught, "it is not requisite that a man should run faster than he has
+strength" ([Mosiah 4:27](/scriptures/bofm/mosiah/4.27?lang=eng#26)).
 
 How grateful we are for the service and example of these faithful members!
 Like all my brethren among the General Authorities, I look to the rank-and-
@@ -254,8 +250,7 @@ Some of the unsung heroes and heroines of our day are the faithful home
 teachers and visiting teachers who feed the Master's sheep. When the Apostle
 Paul likened the Church to a body, he referred to such less-visible members as
 the hands and the feet, saying that upon these we should "bestow more abundant
-honour." ([1 Cor.
-12:23](https://www.lds.org/scriptures/nt/1-cor/12.23?lang=eng#22).)
+honour." ([1 Cor. 12:23](/scriptures/nt/1-cor/12.23?lang=eng#22).)
 
 An LDS girl whose two parents took no part in Church activities later wrote
 this recollection to an elder who had been her home teacher:
@@ -289,9 +284,10 @@ hath sworn and decreed that they shall be granted.
 "Therefore, he giveth this promise unto you, with an immutable covenant that
 they shall be fulfilled; and all things wherewith you have been afflicted
 shall work together for your good, and to my name's glory, saith the Lord."
-([D&amp;C 98:1-3](https://www.lds.org/scriptures/dc-
-testament/dc/98.1-3?lang=eng#0).)
+([D&amp;C 98:1-3](/scriptures/dc-testament/dc/98.1-3?lang=eng#0).)
 
 This is His work. We are His children. He loves us--one and all. Of this I
 testify in the name of Jesus Christ, amen.
+
+## References
 

@@ -47,10 +47,10 @@ I have, throughout my life, had my prayers answered very directly many times.
 Prayer has been a great blessing to me and to my family.
 
 The Lord has repeatedly told us to pray always and that he will pour out his
-Spirit upon us and bless us greatly. (See [D&amp;C
-19:38](https://www.lds.org/scriptures/dc-testament/dc/19.38?lang=eng#37).) I
-have frequently contemplated what "pray always" really means and how this
-injunction can be effectively applied in our lives.
+Spirit upon us and bless us greatly. (See [D&amp;C 19:38](/scriptures/dc-
+testament/dc/19.38?lang=eng#37).) I have frequently contemplated what "pray
+always" really means and how this injunction can be effectively applied in our
+lives.
 
 Brigham Young, in his realistic manner, stated: "You know that it is one
 peculiarity of our faith and religion never to ask the Lord to do a thing
@@ -76,7 +76,7 @@ driving carefully, if we are traveling by car.
 
 When we pray for inspiration, we should live close to the Lord by keeping his
 commandments. The Savior said, "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 When we pray for direction, remember the counsel of the Lord given to Oliver
 Cowdery in the ninth section of the Doctrine and Covenants: Study your
@@ -109,7 +109,7 @@ be thy name.
 
 "And lead us not into temptation, but deliver us from evil: For thine is the
 kingdom, and the power, and the glory, for ever. Amen." ([Matt.
-6:9-13](https://www.lds.org/scriptures/nt/matt/6.9-13?lang=eng#8).)
+6:9-13](/scriptures/nt/matt/6.9-13?lang=eng#8).)
 
 This sample prayer envisions appreciation, simplicity, and the avoidance of
 vain repetitions. Our prayers should simply be our soul's sincere desire. In
@@ -124,7 +124,7 @@ Secret prayer should have a place in every person's life. Again the Savior
 gave us the pattern when he said: "... when thou prayest, enter into thy closet,
 and when thou hast shut thy door, pray to thy Father which is in secret; and
 thy Father which seeth in secret shall reward thee openly." ([Matt.
-6:6](https://www.lds.org/scriptures/nt/matt/6.6?lang=eng#5).)
+6:6](/scriptures/nt/matt/6.6?lang=eng#5).)
 
 The Prophet Joseph Smith, speaking on this subject, stated: "We would say to
 the brethren, seek to know God in your closets, call upon him in the fields.
@@ -160,8 +160,8 @@ Our sacramental and baptismal prayers, of course, are certainly a very
 important part of our worship services.
 
 The Lord has also charged parents "to teach their children to pray, and walk
-uprightly before the Lord." ([D&amp;C 68:28](https://www.lds.org/scriptures
-/dc-testament/dc/68.28?lang=eng#27).)
+uprightly before the Lord." ([D&amp;C 68:28](/scriptures/dc-
+testament/dc/68.28?lang=eng#27).)
 
 President Heber J. Grant, in referring to this matter, said, "I have little or
 no fear for the boy or the girl, the young man or the young woman, who
@@ -180,7 +180,7 @@ the Savior, in one of his last prayers in which he said, "Father, if thou be
 willing, remove this cup [ordeal] from me: nevertheless not my will, but
 thine, be done." Three times he prayed in this manner. And then "there
 appeared an angel unto him from heaven, strengthening him." ([Luke
-22:42-43](https://www.lds.org/scriptures/nt/luke/22.42-43?lang=eng#41).)
+22:42-43](/scriptures/nt/luke/22.42-43?lang=eng#41).)
 
 As we approach our Father in heaven with the spirit, "thy will be done," and
 as we personally do all we can to have our prayers answered, the Lord will do
@@ -203,4 +203,6 @@ praying rests the weary! Prayer will change the night to day." (_Hymns, _no.
 
 May the choice blessings of our Father in heaven attend you, I humbly pray in
 the name of Jesus Christ. Amen.
+
+## References
 

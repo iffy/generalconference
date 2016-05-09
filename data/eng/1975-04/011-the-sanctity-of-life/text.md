@@ -85,8 +85,7 @@ Because she feels it, every mother knows there is sacred life in the body of
 her unborn babe. There is also life in the spirit, and some time before birth
 the body and the spirit are united. When they do come together, we have a
 human soul. For the Lord has said, "And the spirit and the body are the soul
-of man." ([D&amp;C 88:15](https://www.lds.org/scriptures/dc-
-testament/dc/88.15?lang=eng#14).)
+of man." ([D&amp;C 88:15](/scriptures/dc-testament/dc/88.15?lang=eng#14).)
 
 Experts tell us that the necessity of terminating unborn life is rarely
 justified for purely medical or psychiatric reasons. (Dr. James H. Ford, M.D.,
@@ -173,8 +172,10 @@ I urge all who may have dipped into the fountains of life to respect the
 divinity inherent in that life and to protect this sacred treasure and its
 transcending blessings. For the Savior of the world said, "Inasmuch as ye have
 done it unto one of the least of these ... ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 I leave my testimony that the most precious of all of God's creations is
 eternal life itself, in the sacred name of Jesus Christ. Amen.
+
+## References
 

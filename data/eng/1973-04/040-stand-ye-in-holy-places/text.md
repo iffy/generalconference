@@ -44,8 +44,7 @@ and in all things, and in all places that ye may be in, ...
 against being baptized in the name of the Lord, as a witness before him that
 ye have entered into a covenant with him, that ye will serve him and keep his
 commandments, that he may pour out his Spirit more abundantly upon you?"
-([Mosiah
-18:8-10](https://www.lds.org/scriptures/bofm/mosiah/18.8-10?lang=eng#7).)
+([Mosiah 18:8-10](/scriptures/bofm/mosiah/18.8-10?lang=eng#7).)
 
 I call your attention to one of these requirements, particularly that which
 has been stressed by direct and indirect words in this conference: "are
@@ -77,7 +76,7 @@ our hearts may be purified; ...
 "... after they had spoken these words the Spirit of the Lord came upon them,
 and they were filled with joy, having received a remission of their sins, and
 having peace of conscience. ..." ([Mosiah
-4:2-3](https://www.lds.org/scriptures/bofm/mosiah/4.2-3?lang=eng#1).)
+4:2-3](/scriptures/bofm/mosiah/4.2-3?lang=eng#1).)
 
 There was the answer.
 
@@ -94,9 +93,8 @@ falsehoods. The miracle of forgiveness is available to all of those who turn
 from their evil doings and return no more, because the Lord has said in a
 revelation to us in our day: "... go your ways and sin no more; but unto that
 soul who sinneth [meaning again] shall the former sins return, saith the Lord
-your God." ([D&amp;C 82:7](https://www.lds.org/scriptures/dc-
-testament/dc/82.7?lang=eng#6).) Have that in mind, all of you who may be
-troubled with a burden of sin.
+your God." ([D&amp;C 82:7](/scriptures/dc-testament/dc/82.7?lang=eng#6).) Have
+that in mind, all of you who may be troubled with a burden of sin.
 
 And to you who are teachers, may you help to lift that great burden from those
 who are carrying it, and who have their conscience so seared that they are
@@ -121,13 +119,13 @@ alms. Peter, speaking for this pair of missionaries--church authorities--said,
 "Look on us." And, of course, that heightened his expectation. "Then Peter
 said, Silver and gold have I none; but such as I have give I thee: In the name
 of Jesus Christ of Nazareth rise up and walk." ([Acts 3:4,
-6](https://www.lds.org/scriptures/nt/acts/3.4%2C6?lang=eng#3).)
+6](/scriptures/nt/acts/3.4,6?lang=eng#3).)
 
 Now in my mind's eye I can picture this man, what was in his mind. "Doesn't
 this man know that I have never walked? He commands me to walk." But the
 biblical record doesn't end there. Peter just didn't content himself by
 commanding the man to walk, but he "took him by the right hand, and lifted him
-up." ([Acts 3:7](https://www.lds.org/scriptures/nt/acts/3.7?lang=eng#6).)
+up." ([Acts 3:7](/scriptures/nt/acts/3.7?lang=eng#6).)
 
 Will you see that picture now of that noble soul, that chiefest of the
 apostles, perhaps with his arms around the shoulders of this man, and saying,
@@ -245,19 +243,19 @@ becoming apparent.
 All you need to do is to read the scriptures, particularly the inspired
 translation of Matthew, the twenty-fourth chapter, found in the writings of
 Joseph Smith in the Pearl of Great Price [[JS--M
-1](https://www.lds.org/scriptures/pgp/js-m/1.title?lang=eng)], where the Lord
-told his disciples to stand in holy places and be not moved, for he comes
-quickly, but no man knows the hour nor the day. That is the preparation.
+1](/scriptures/pgp/js-m/1?lang=eng)], where the Lord told his disciples to
+stand in holy places and be not moved, for he comes quickly, but no man knows
+the hour nor the day. That is the preparation.
 
 Go home now to your people, I pray you, and say as did Joshua of old: "... as
 for me and my house, we will serve the Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).) Teach your
-families in your family home evening, teach them to keep the commandments of
-God, for therein is our only safety in these days. If they will do that, the
-powers of the Almighty will descend upon them as the dews from heaven, and the
-Holy Ghost will be theirs, which has been spoken of so excellently by Elder
-Franklin D. Richards. That can be our guide, and that kind of Spirit shall
-guide us and direct us to his holy home.
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).) Teach your families in your
+family home evening, teach them to keep the commandments of God, for therein
+is our only safety in these days. If they will do that, the powers of the
+Almighty will descend upon them as the dews from heaven, and the Holy Ghost
+will be theirs, which has been spoken of so excellently by Elder Franklin D.
+Richards. That can be our guide, and that kind of Spirit shall guide us and
+direct us to his holy home.
 
 And so as it is my privilege to do, I give you faithful members of the Church
 everywhere my blessing. God bless you, take care of you, preserve you as you
@@ -272,4 +270,6 @@ May the Lord help us so to understand and do, and fill our stations, and not
 be found wanting in the day of judgment that we have not done all we know how
 to do to advance his work in righteousness, I humbly pray in the name of the
 Lord Jesus Christ. Amen.
+
+## References
 

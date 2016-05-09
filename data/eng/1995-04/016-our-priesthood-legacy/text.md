@@ -8,7 +8,7 @@ such days as these are, you and I see history firsthand, and, with arm raised
 to the square, we do in solemn assembly participate in the making of such
 history. As Oliver Cowdery once said of such restoration privileges, "These
 were days never to be forgotten" ([JS--H
-1:71](https://www.lds.org/scriptures/pgp/js-h/1.71?lang=eng#70), footnote).
+1:71](/scriptures/pgp/js-h/1.71?lang=eng#70), footnote).
 
 We miss President Howard W. Hunter at this conference, but we do find joy in
 knowing that he now sits with the noble and great ones of all eternity. And I
@@ -20,7 +20,7 @@ Church from his youth, but also mean that doctrine Alma taught, that such a
 man is "called and prepared from the foundation of the world according to the
 foreknowledge of God," a calling predicated at least in part upon demonstrated
 "faith and good works" before President Hinckley ever came to this earth (see
-[Alma 13:1-3](https://www.lds.org/scriptures/bofm/alma/13.1-3?lang=eng#0)).
+[Alma 13:1-3](/scriptures/bofm/alma/13.1-3?lang=eng#0)).
 
 I include in that testimony, and expression of love, my appreciation for the
 callings that have newly come to President Thomas S. Monson, President James
@@ -37,12 +37,12 @@ priesthood that you now hold and will yet hold.
 
 So much that we do in this Church is directed toward you, those whom the Book
 of Mormon calls "the rising generation" ([Mosiah
-26:1](https://www.lds.org/scriptures/bofm/mosiah/26.1?lang=eng#0); [Alma
-5:49](https://www.lds.org/scriptures/bofm/alma/5.49?lang=eng#48)). We who have
-already walked that portion of life's path that you are now on try to call
-back to you something of what we have learned. We shout encouragement. We try
-to warn of pitfalls or perils along the way. Where possible we try to walk
-with you and keep you close to our side.
+26:1](/scriptures/bofm/mosiah/26.1?lang=eng#0); [Alma
+5:49](/scriptures/bofm/alma/5.49?lang=eng#48)). We who have already walked
+that portion of life's path that you are now on try to call back to you
+something of what we have learned. We shout encouragement. We try to warn of
+pitfalls or perils along the way. Where possible we try to walk with you and
+keep you close to our side.
 
 Believe it or not we, too, were young once, though I know that strains the
 very limits of your imagination. Equally unfathomable is the fact that your
@@ -234,4 +234,6 @@ must often turn our cheek but we must never turn our coat. I pledge with you
 my own determination to be true and faithful to the Lord Jesus Christ whose
 church this is, even as I praise with you that legacy of loyalty given to us
 by those who have gone before, in the sacred name of Jesus Christ, amen.
+
+## References
 

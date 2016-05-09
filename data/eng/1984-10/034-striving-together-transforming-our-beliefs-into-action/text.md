@@ -1,4 +1,4 @@
-# Striving Together: Transforming Our Beliefs into Action
+# Striving Together:Transforming Our Beliefs into Action
 
 President Hinckley, Elder Larsen, Brethren, Sister Kapp, Sister Young, and
 sisters. We have been blessed tonight by the music and the spoken word and by
@@ -66,27 +66,22 @@ other as we teach and train. As sisters in the gospel, we are linked together
 by the service we render so that individuals and families will be
 strengthened.
 
-In [Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7) we are
-told that we are "to be called his people, ... willing to bear one another's
-burdens, that they may be light, ... willing to mourn with those that mourn;
-yea, and comfort those that stand in need of comfort."
+In [Mosiah 18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7) we are told that
+we are "to be called his people, ... willing to bear one another's burdens, that
+they may be light, ... willing to mourn with those that mourn; yea, and comfort
+those that stand in need of comfort."
 
 When the people understood the baptismal promises Alma set forth, "they
 clapped their hands for joy, and exclaimed: This is the desire of our hearts."
-([Mosiah
-18:11](https://www.lds.org/scriptures/bofm/mosiah/18.11?lang=eng#10).)
+([Mosiah 18:11](/scriptures/bofm/mosiah/18.11?lang=eng#10).)
 
 What was the desire of their hearts? To have fulfilled the baptismal promises,
 which are--
 
-  1. That their sins would be washed away.
-
-  2. That their names would be numbered with the "children of Christ" (Mosiah 5:7), meaning membership in his church.
-
-  3. That they would receive the gift of the Holy Ghost.
-
-  4. That by keeping the commandments they would have eternal life.
+  1. That their sins would be washed away. 
+  2. That their names would be numbered with the "children of Christ" (Mosiah 5:7), meaning membership in his church. 
+  3. That they would receive the gift of the Holy Ghost. 
+  4. That by keeping the commandments they would have eternal life. 
 
 "Baptism by itself, of course, is not sufficient to allow us to be called
 'children of Christ.' We must continue on a course of righteousness." (_Relief
@@ -150,8 +145,7 @@ have received the Holy Ghost." Then he asks if all is done. "Nay; ... ye must
 press forward with a steadfastness in Christ, having a perfect brightness of
 hope, and a love of God and of all men. Wherefore, if ye shall press forward,
 feasting upon the word of Christ, and endure to the end, ... ye shall have
-eternal life." ([2 Ne.
-31:18-20](https://www.lds.org/scriptures/bofm/2-ne/31.18-20?lang=eng#17).)
+eternal life." ([2 Ne. 31:18-20](/scriptures/bofm/2-ne/31.18-20?lang=eng#17).)
 
 Sisters, I encourage you to prepare yourselves and to prepare your families to
 receive the blessings of the covenant. We do this by keeping the commandments,
@@ -162,7 +156,9 @@ As we strive together to give righteous, selfless service in His name,
 supporting one another, we become united, our light shining forth as a
 standard, bound together by the good we do, "no more strangers and foreigners,
 but fellowcitizens with the saints, and of the household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).)
+2:19](/scriptures/nt/eph/2.19?lang=eng#18).)
 
 I bear witness of these things in the name of Jesus Christ, amen.
+
+## References
 

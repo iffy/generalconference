@@ -4,7 +4,7 @@ My dear brothers and sisters, aloha! Today I want to share some thoughts with
 you about how Christian service connects all of us in a network of kindness
 that is strong and beautiful. As the Apostle Paul promised the Colossian
 Saints, our hearts can be "knit together in love." ([Col.
-2:2](https://www.lds.org/scriptures/nt/col/2.2?lang=eng#1).)
+2:2](/scriptures/nt/col/2.2?lang=eng#1).)
 
 Do you see this piece of string? It's just an ordinary piece of string--not
 very interesting. When I was growing up on the big island of Hawaii, all of us
@@ -33,9 +33,9 @@ intersect, connect, separate, and intersect again, but God does. Of course, it
 was no accident that the angel who rebuked the erring Alma the Younger in a
 "voice of thunder" was the same angel who returned to Alma, now twenty years a
 missionary, to say, "Blessed art thou, Alma; ... for thou hast been faithful."
-([Mosiah 27:11](https://www.lds.org/scriptures/bofm/mosiah/27.11?lang=eng#10);
-[Alma 8:15](https://www.lds.org/scriptures/bofm/alma/8.15?lang=eng#14).) Their
-lives made a shining pattern.
+([Mosiah 27:11](/scriptures/bofm/mosiah/27.11?lang=eng#10); [Alma
+8:15](/scriptures/bofm/alma/8.15?lang=eng#14).) Their lives made a shining
+pattern.
 
 Let me tell you about a woman who has woven her strand of kindness and
 compassion into my life. Sister Rosetta Colclough, a missionary in Hawaii,
@@ -127,6 +127,8 @@ without them.
 
 May we all deal kindly with one another, seeking in our lives the blessing of
 the Apostle Paul, that our "hearts might be comforted, being knit together in
-love" ([Col. 2:2](https://www.lds.org/scriptures/nt/col/2.2?lang=eng#1)), I
-pray humbly and sincerely in the name of Jesus Christ, amen.
+love" ([Col. 2:2](/scriptures/nt/col/2.2?lang=eng#1)), I pray humbly and
+sincerely in the name of Jesus Christ, amen.
+
+## References
 

@@ -65,9 +65,9 @@ their services. It is splendid and we encourage it.
 ## Education
 
 The Church from the beginning has been committed to the principle that "the
-glory of God is intelligence." ([D&amp;C 93:36](https://www.lds.org/scriptures
-/dc-testament/dc/93.36?lang=eng#35).) We therefore encourage our people to
-study and prepare to render service with their minds and with their hands.
+glory of God is intelligence." ([D&amp;C 93:36](/scriptures/dc-
+testament/dc/93.36?lang=eng#35).) We therefore encourage our people to study
+and prepare to render service with their minds and with their hands.
 
 Some are inclined toward formal university training, and some are inclined
 more toward the practical vocational training. We feel that our people should
@@ -97,7 +97,7 @@ in our welfare meeting), and within our means, and that we will pay our debts
 faithfully and honestly.
 
 It was the Lord who gave us the injunction: "Thou shalt not steal." ([Ex.
-20:15](https://www.lds.org/scriptures/ot/ex/20.15?lang=eng#14).)
+20:15](/scriptures/ot/ex/20.15?lang=eng#14).)
 
 In many parts of the world there are people who take delight in various
 destructive activities. These people are sadists, like Nero, the emperor of
@@ -115,8 +115,7 @@ Let the Lord answer this matter:
 afraid. ...
 
 "And I will walk among you, and will be your God, and ye shall be my people."
-([Lev. 26:3, 6,
-12](https://www.lds.org/scriptures/ot/lev/26.3%2C6%2C12?lang=eng#2).)
+([Lev. 26:3, 6, 12](/scriptures/ot/lev/26.3,6,12?lang=eng#2).)
 
 ## Permissiveness
 
@@ -266,7 +265,7 @@ remains the answer. We go to Sinai:
 "Thou shalt not bear false witness. ...
 
 "Thou shalt not covet." ([Ex. 20:3, 7-8,
-12-17](https://www.lds.org/scriptures/ot/ex/20.3%2C7-8%2C12-17?lang=eng#2).)
+12-17](/scriptures/ot/ex/20.3,7-8,12-17?lang=eng#2).)
 
 And now in the year of our Lord 1977 there are among us those same vices which
 we have seen wreck empires, and we see them becoming flagrant in all nations.
@@ -284,4 +283,6 @@ only upon the foundations of righteousness.
 
 And may he help us to strive to live his laws and to achieve happiness on
 earth, I pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -3,9 +3,8 @@
 The blessings that come from family work projects are both temporal and
 spiritual. The commandments given to Adam were spiritual, for the Lord himself
 said that he never gave to Adam a temporal commandment. (See [D&amp;C
-29:35](https://www.lds.org/scriptures/dc-testament/dc/29.35?lang=eng#34).)
-Work, then, as instituted in the beginning of this earth, was a spiritual
-principle.
+29:35](/scriptures/dc-testament/dc/29.35?lang=eng#34).) Work, then, as
+instituted in the beginning of this earth, was a spiritual principle.
 
 There are several influences in my life that have instilled in me a desire to
 teach our children to work. The first are experiences I enjoyed as a child
@@ -159,4 +158,6 @@ taught that "life is not wholly for fun and frolic."
 I bear testimony that family work, when combined with family prayer and family
 scripture study, will do much to secure the blessings of heaven for families
 on earth. In the name of Jesus Christ, amen.
+
+## References
 

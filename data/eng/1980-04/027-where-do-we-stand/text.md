@@ -40,11 +40,9 @@ anything ever known in the past.
 
 We take humble pride in the rapid growth, the marvelous accomplishments, and
 the stability of our people. "By their fruits ye shall know them," the Savior
-taught ([Matt.
-7:20](https://www.lds.org/scriptures/nt/matt/7.20?lang=eng#19)). Our fruits
-bear testimony of our devotion to Almighty God, of our firm commitment to
-carry on his modern ministry, and of the validity of the message which we
-bear.
+taught ([Matt. 7:20](/scriptures/nt/matt/7.20?lang=eng#19)). Our fruits bear
+testimony of our devotion to Almighty God, of our firm commitment to carry on
+his modern ministry, and of the validity of the message which we bear.
 
 And what is our message?
 
@@ -84,8 +82,8 @@ But as it shines, opposition grows. As truth is spread abroad, deceit and
 dishonesty arise to oppose it. As virtue is taught by the servants of God,
 unchastity increases among the ungodly. Indeed, as the Prophet Lehi said,
 "There is an opposition in all things" ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10)); and as
-truth manifests itself, the adversary seeks to strike it down.
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10)); and as truth manifests itself,
+the adversary seeks to strike it down.
 
 In a very real sense it is a war--a hot war--a war between right and wrong,
 between the powers of heaven and the forces of Lucifer.
@@ -103,9 +101,8 @@ Our forces are strong. We have had many glorious victories and will yet have
 more. Our task is to save all who will listen.
 
 God's work and glory are the same: "To bring to pass the immortality and
-eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). We work
-together in partnership with him.
+eternal life of man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
+We work together in partnership with him.
 
 But how many of us realize how serious this conflict is? Do we measure its
 effect upon our own family circles? Do we understand what the devil is trying
@@ -224,12 +221,11 @@ word and really obey him?
 
 Is it too much to remember that God has said that if we are not valiant in the
 testimony of Jesus we shall lose the crown over the kingdom (see [D&amp;C
-76:78-79](https://www.lds.org/scriptures/dc-
-testament/dc/76.78-79?lang=eng#77))?
+76:78-79](/scriptures/dc-testament/dc/76.78-79?lang=eng#77))?
 
 Is it too much to keep in mind--and may we never forget--that if we receive
 the commandments with a doubtful heart and keep them with slothfulness, we
-shall be condemned (see [D&amp;C 58:26-29](https://www.lds.org/scriptures/dc-
+shall be condemned (see [D&amp;C 58:26-29](/scriptures/dc-
 testament/dc/58.26-29?lang=eng#25))?
 
 There is no reward for half-hearted obedience. We must become vigorous and
@@ -256,12 +252,14 @@ breastplate of righteousness;
 all the fiery darts of the wicked.
 
 "And take the helmet of salvation, and the sword of the Spirit, which is the
-word of God" ([Eph. 6:11, 13, 14, 16-17](https://www.lds.org/scriptures/nt/eph
-/6.11%2C13%2C14%2C16-17?lang=eng#10)).
+word of God" ([Eph. 6:11, 13, 14,
+16-17](/scriptures/nt/eph/6.11,13,14,16-17?lang=eng#10)).
 
 As Paul further said, let us not be "men-pleasers," but be true servants of
 God, doing his will from the heart (see [Eph.
-6:6](https://www.lds.org/scriptures/nt/eph/6.6?lang=eng#5)).
+6:6](/scriptures/nt/eph/6.6?lang=eng#5)).
 
 For this I humbly pray in the sacred name of the Lord, Jesus Christ, amen.
+
+## References
 

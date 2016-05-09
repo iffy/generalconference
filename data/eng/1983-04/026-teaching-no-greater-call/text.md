@@ -56,7 +56,7 @@ important ways this can happen." (_Ensign,_ May 1981, p. 45.)
 The Apostle Paul placed the priority of teachers in the Church next only to
 the Apostles and the prophets when he said, "And God hath set some in the
 church, first apostles, secondarily prophets, thirdly teachers." ([1 Cor.
-12:28](https://www.lds.org/scriptures/nt/1-cor/12.28?lang=eng#27).)
+12:28](/scriptures/nt/1-cor/12.28?lang=eng#27).)
 
 President Brigham Young used the following story to illustrate the potential
 influence of teachers: "A traveller in the Eastern country overtook an old
@@ -102,11 +102,11 @@ Brigham Young University Summer School in Aspen Grove, Utah, 8 Aug. 1938, p.
 
 Jesus chided the Sadducees for their incorrect teachings. He said, "Ye do err,
 not knowing the scriptures, nor the power of God." ([Matt.
-22:29](https://www.lds.org/scriptures/nt/matt/22.29?lang=eng#28).) The Lord
-stressed the need for prayerful preparation by teachers, as recorded in the
-Doctrine and Covenants: "And the Spirit shall be given unto you by the prayer
-of faith; and if ye receive not the Spirit ye shall not teach." ([D&amp;C
-42:14](https://www.lds.org/scriptures/dc-testament/dc/42.14?lang=eng#13).)
+22:29](/scriptures/nt/matt/22.29?lang=eng#28).) The Lord stressed the need for
+prayerful preparation by teachers, as recorded in the Doctrine and Covenants:
+"And the Spirit shall be given unto you by the prayer of faith; and if ye
+receive not the Spirit ye shall not teach." ([D&amp;C 42:14](/scriptures/dc-
+testament/dc/42.14?lang=eng#13).)
 
 One of the great teachers in my life, President N. Eldon Tanner, said: "In my
 opinion no greater call can come to anyone than to be a teacher in The Church
@@ -116,13 +116,13 @@ Children of God," _Ensign,_ Oct. 1980, p. 2.)
 
 Surely no teachers in the Church are more important than fathers and mothers.
 No classroom is more important than the home. Parents have been commanded to
-teach their children the gospel. (See [D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
+teach their children the gospel. (See [D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24).)
 
 My brothers and sisters, I believe that every human soul is teaching something
 to someone nearly every minute here in mortality. May we consider with great
 reverence the trust that the Lord has placed in us to "teach one another the
-doctrine of the kingdom." ([D&amp;C 88:77](https://www.lds.org/scriptures/dc-
+doctrine of the kingdom." ([D&amp;C 88:77](/scriptures/dc-
 testament/dc/88.77?lang=eng#76).)
 
 May I urge each member of the Church, when you are serving as a teacher, to
@@ -143,4 +143,6 @@ To the master teacher, the Lord Jesus Christ, whose resurrection we celebrate
 at this Easter time, I say: I thank thee, oh Lord, for teaching us that there
 is no greater call than to be an effective teacher. In the name of Jesus
 Christ, amen.
+
+## References
 

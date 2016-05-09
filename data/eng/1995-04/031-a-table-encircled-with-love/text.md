@@ -2,7 +2,7 @@
 
 Much has been written about the importance of the home. Elder Marion G. Romney
 has told us that "at the heart of society's fatal sickness is the instability
-of the family." [1]  We recognize that some homes are large, graciously
+of the family."[1] We recognize that some homes are large, graciously
 appointed, even luxurious. Others are very small and humble, with scant
 furnishings. Yet each and every "home can be a heav'n on earth when we are
 filled with love, ... Where we want to be" (_Hymns,_ 1985, no. 298), as one of
@@ -26,7 +26,7 @@ has stated it so well: "My plea--and I wish I were more eloquent in voicing it
 loneliness and despair. Children need sunlight. They need happiness. They need
 love and nurture. They need kindness and refreshment and affection. Every
 home, regardless of the cost of the house, can provide an environment of love
-which will be an environment of salvation." [2]
+which will be an environment of salvation."[2]
 
 Most family members are subjected to the many forces of the world outside of
 the home, as well as the powerful influence of radio, television, videos,
@@ -50,7 +50,7 @@ families.
 President Thomas S. Monson stated it well: "The Lord directed that we have
 family prayer when he said: 'Pray in your families unto the Father, always in
 my name, that your wives and your children may be blessed' ([3 Ne.
-18:21](https://www.lds.org/scriptures/bofm/3-ne/18.21?lang=eng#20)).
+18:21](/scriptures/bofm/3-ne/18.21?lang=eng#20)).
 
 "Will you join me as we look in on a typical Latter-day Saint family offering
 prayers unto the Lord? Father, mother, and each of the children kneel, bow
@@ -66,7 +66,7 @@ dearly loves? When father, mother, and each of the children earnestly pray
 that these fine sons in the family will live worthy that they may in due time
 receive a call to serve as ambassadors of the Lord in the mission fields of
 the Church, don't we begin to see how such sons grow to young manhood with an
-overwhelming desire to serve as missionaries?" [3]
+overwhelming desire to serve as missionaries?"[3]
 
 As many have said, "How could you possibly send your parents and your children
 out into the world each day without gathering together and talking to the
@@ -79,7 +79,7 @@ I have stated before that "home should be a happy place because all work to
 keep it that way. It is said that happiness is homemade, and we should
 endeavor to make our homes happy and pleasant places for us and our children.
 A happy home is one centered around the teachings of the gospel, and this
-takes constant, careful effort by all concerned." [4]
+takes constant, careful effort by all concerned."[4]
 
 A busy teenager in a rather large family complained about the amount of time
 that family prayer was taking. As the wise mother was praying the next day,
@@ -113,7 +113,7 @@ humility and patience and forgiveness.
 "Secondly, and in that same spirit, I also invite the members of the Church to
 establish the temple of the Lord as the great symbol of their membership and
 the supernal setting for their most sacred covenants. It would be the deepest
-desire of my heart to have every member of the Church temple worthy." [5]
+desire of my heart to have every member of the Church temple worthy."[5]
 
 The direction given by President Hunter can be markedly enhanced by what takes
 place around the kitchen table.
@@ -121,23 +121,23 @@ place around the kitchen table.
 In our homes, we should practice how to treat others. As Goethe said so well,
 "If you treat [an individual] as he is he will stay as he is, but if you treat
 him as if he were what he [could] be and [might] be, he will become what he
-ought to be." [6]
+ought to be."[6]
 
 President Boyd K. Packer stated: "To bring some of the things of heaven into
 the home is to insure that family members will graduate to church
 participation. The family home evening is, of course, ready-made for this--a
 meeting at home that can be organized to fit every need; and it's just as much
-a church meeting, or can be, as those held at the chapel." [7]  This counsel
+a church meeting, or can be, as those held at the chapel."[7] This counsel
 also agrees with what Elder Dean L. Larsen has told us: "Our church buildings
 are not the only places where we can worship. Our homes should also be places
 of devotion. It would be well if each day we could 'go home to church.' There
 should be no other place where the Spirit of the Lord is more welcome and more
-easily accessible than in our own homes." [8]
+easily accessible than in our own homes."[8]
 
 As we work to accomplish all of this in our homes, we will do well to remember
 the important statement of President Harold B. Lee: "Remember that the most
 important of the Lord's work that you [and I] will ever do will be ... within
-the walls of [our] own home." [9]
+the walls of [our] own home."[9]
 
 My plea today is that each of us will look carefully at our homes and at the
 kitchen table and continually strive to bring heaven into our homes and come
@@ -145,21 +145,21 @@ unto Jesus Christ. In the name of Jesus Christ, amen.
 
 ## References
 
-  1.   _Ensign,_ Feb. 1972, p. 57.
+  1. _Ensign,_ Feb. 1972, p. 57.
 
-  2.   _Ensign,_ Nov. 1994, p. 54.
+  2. _Ensign,_ Nov. 1994, p. 54.
 
-  3.   _Pathways to Perfection_ (Salt Lake City: Deseret Book Co., 1973), p. 26.
+  3. _Pathways to Perfection_ (Salt Lake City: Deseret Book Co., 1973), p. 26.
 
-  4.   _Ensign,_ Nov. 1990, p. 12.
+  4. _Ensign,_ Nov. 1990, p. 12.
 
-  5.  Statement to the press, 6 June 1994; _Ensign,_ July 1994, pp. 4-5.
+  5. Statement to the press, 6 June 1994; _Ensign,_ July 1994, pp. 4-5.
 
-  6.  In Emerson Roy West, _Vital Quotations_ (Salt Lake City: Bookcraft, 1968), p. 171.
+  6. In Emerson Roy West, _Vital Quotations_ (Salt Lake City: Bookcraft, 1968), p. 171.
 
-  7.   _Ensign,_ Feb. 1972, p. 71.
+  7. _Ensign,_ Feb. 1972, p. 71.
 
-  8.   _Ensign,_ Nov. 1989, p. 63.
+  8. _Ensign,_ Nov. 1989, p. 63.
 
-  9.   _Strengthening the Home,_ pamphlet, 1973, p. 7.
+  9. _Strengthening the Home,_ pamphlet, 1973, p. 7.
 

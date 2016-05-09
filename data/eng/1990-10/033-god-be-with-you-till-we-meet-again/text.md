@@ -18,8 +18,8 @@ guidance for our journey through mortality. The prayers have been offered with
 humility, and their petitions reflect the feelings of our hearts. The angelic
 music provided by the choirs at each session has confirmed the Lord's words
 that "the song of the righteous is a prayer unto me, and it shall be answered
-with a blessing upon their heads." ([D&amp;C
-25:12](https://www.lds.org/scriptures/dc-testament/dc/25.12?lang=eng#11).)
+with a blessing upon their heads." ([D&amp;C 25:12](/scriptures/dc-
+testament/dc/25.12?lang=eng#11).)
 
 We sincerely regret that President Ezra Taft Benson has been unable to be with
 us here in the Tabernacle. Nonetheless, we have felt his spirit throughout the
@@ -101,4 +101,6 @@ To the membership of the Church and to God's children everywhere, our prophet,
 President Ezra Taft Benson, conveys to you the tender feelings of his heart,
 his gratitude for your prayers, and his abiding love. God be with you,
 brothers and sisters, till we meet again, in the name of Jesus Christ, amen.
+
+## References
 

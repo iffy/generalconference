@@ -122,3 +122,5 @@ I know that Jesus Christ lives, that this Church contains his complete gospel
 plan, that welfare principles are the gospel in action. In the name of Jesus
 Christ, amen.
 
+## References
+

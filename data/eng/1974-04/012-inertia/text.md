@@ -106,7 +106,7 @@ beholding his natural face in a glass:
 
 "For he beholdeth himself, and goeth his way, and straightway forgetteth what
 manner of man he was." [[James
-1:22-24](https://www.lds.org/scriptures/nt/james/1.22-24?lang=eng#21)]
+1:22-24](/scriptures/nt/james/1.22-24?lang=eng#21)]
 
 One of the great challenges we face in The Church of Jesus Christ of Latter-
 day Saints today is that we have too many priesthood holders who are at rest.
@@ -151,4 +151,6 @@ grateful to be associated with the other Brethren in helping to build the
 kingdom here on earth. There is much important work to be done, and every one
 of us is needed. May we be diligent in keeping the commandments and being
 faithful Latter-day Saints, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

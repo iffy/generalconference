@@ -76,8 +76,7 @@ his daughters to wife.
 "But Ammon said unto him: Nay, but I will be thy servant. Therefore Ammon
 became a servant to king Lamoni. And it came to pass that he was set among
 other servants to watch the flocks of Lamoni, according to the custom of the
-Lamanites." ([Alma
-17:21-25](https://www.lds.org/scriptures/bofm/alma/17.21-25?lang=eng#20).)
+Lamanites." ([Alma 17:21-25](/scriptures/bofm/alma/17.21-25?lang=eng#20).)
 
 As with Ammon, the only desire of our army of modern missionaries is to serve
 their fellowmen.
@@ -105,14 +104,13 @@ taught. They are true ambassadors spreading goodwill for the peoples in whose
 countries they have lived and worked. They are not concerned with income
 levels and have no racial bias. They are not out to build any worldly
 kingdoms. They are, in the words of Mormon, "the peaceable followers of
-Christ." ([Moro.
-7:3](https://www.lds.org/scriptures/bofm/moro/7.3?lang=eng#2).) The only
-kingdom which interests them is the kingdom of our Lord and Savior which He
-will establish at His return. Their only hope is to prepare us for that great
-day. Until then, our missionaries, as well as all members of the Church, will
-be "subject to kings, presidents, rulers, and magistrates," and will be found
+Christ." ([Moro. 7:3](/scriptures/bofm/moro/7.3?lang=eng#2).) The only kingdom
+which interests them is the kingdom of our Lord and Savior which He will
+establish at His return. Their only hope is to prepare us for that great day.
+Until then, our missionaries, as well as all members of the Church, will be
+"subject to kings, presidents, rulers, and magistrates," and will be found
 "obeying, honoring, and sustaining the law." ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
 
 Now I would like to change subjects and conclude my remarks with some counsel
 to the membership of the Church. We have been taught about the mission of our
@@ -141,7 +139,7 @@ up in remembrance of their duty, and that he might pull down, by the word of
 God, all the pride and craftiness and all the contentions which were among his
 people, seeing no way that he might reclaim them save it were in bearing down
 in pure testimony against them." ([Alma 4:16,
-18-19](https://www.lds.org/scriptures/bofm/alma/4.16%2C18-19?lang=eng#15).)
+18-19](/scriptures/bofm/alma/4.16,18-19?lang=eng#15).)
 
 He selected for himself the position which would allow him to do the most good
 for his people.
@@ -164,7 +162,7 @@ refrigerators to elevate our thoughts. And by so doing, we could remind
 ourselves of the scriptures as we go about our daily duties--of who we are and
 what we represent. Could I suggest just a few scriptures to you for starters?
 The first is in the book of Matthew 5:43-44 [[Matt.
-5:43-44](https://www.lds.org/scriptures/nt/matt/5.43-44?lang=eng#42)]:
+5:43-44](/scriptures/nt/matt/5.43-44?lang=eng#42)]:
 
 "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate
 thine enemy.
@@ -174,21 +172,20 @@ them that hate you, and pray for them which despitefully use you, and
 persecute you."
 
 Maybe a second would be from [Luke
-6:35](https://www.lds.org/scriptures/nt/luke/6.35?lang=eng#34):
+6:35](/scriptures/nt/luke/6.35?lang=eng#34):
 
 "But love ye your enemies, and do good, and lend, hoping for nothing again;
 and your reward shall be great, and ye shall be the children of the Highest:
 for he is kind unto the unthankful and to the evil."
 
-And in [James 1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26)
-we read:
+And in [James 1:27](/scriptures/nt/james/1.27?lang=eng#26) we read:
 
 "Pure religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself unspotted from
 the world."
 
 Finally, display one of the great scriptures from the Book of Mormon, [Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46):
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46):
 
 "But charity is the pure love of Christ, and it endureth forever; and whoso is
 found possessed of it at the last day, it shall be well with him."
@@ -201,4 +198,6 @@ Father's children, that we may go forward armed with the gospel of our Lord
 and Savior. This is His work in which we're engaged. God lives. Jesus is the
 Christ, the Savior of the world. This is my solemn witness to you, in His holy
 name, amen.
+
+## References
 

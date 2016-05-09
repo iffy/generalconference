@@ -28,22 +28,21 @@ the family and the home. What does being the head of the family mean? It is a
 priesthood power, and the Doctrine and Covenants, section 121, makes it clear
 that all priesthood responsibilities must be exercised "only by persuasion, ...
 by gentleness and meekness, and by love unfeigned" ([D&amp;C
-121:41](https://www.lds.org/scriptures/dc-testament/dc/121.41?lang=eng#40)).
-Holding the priesthood does not mean that a man is a power-broker, or that he
-sits on a throne, dictating in macho terms, or that he is superior in any way.
-Rather, he is a leader by authority of example. Paul's counsel to the
-Ephesians included, "Husbands, love your wives, even as Christ also loved the
-church, and gave himself for it" ([Eph.
-5:25](https://www.lds.org/scriptures/nt/eph/5.25?lang=eng#24)). As Christ
-lifts us all, so must we, rather than put down women or anyone.
+121:41](/scriptures/dc-testament/dc/121.41?lang=eng#40)). Holding the
+priesthood does not mean that a man is a power-broker, or that he sits on a
+throne, dictating in macho terms, or that he is superior in any way. Rather,
+he is a leader by authority of example. Paul's counsel to the Ephesians
+included, "Husbands, love your wives, even as Christ also loved the church,
+and gave himself for it" ([Eph. 5:25](/scriptures/nt/eph/5.25?lang=eng#24)).
+As Christ lifts us all, so must we, rather than put down women or anyone.
 
 Nowhere does the doctrine of this Church declare that men are superior to
 women. Paul said to the Corinthians, "Nevertheless neither is the man without
 the woman, neither the woman without the man, in the Lord" ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10)). Each
-brings his or her own separate and unique strengths to the family and the
-Church. Women are not just cooks, stewards of our homes, or servants. They are
-much more. They are the enrichment of humanity.
+11:11](/scriptures/nt/1-cor/11.11?lang=eng#10)). Each brings his or her own
+separate and unique strengths to the family and the Church. Women are not just
+cooks, stewards of our homes, or servants. They are much more. They are the
+enrichment of humanity.
 
 It is most important that you Aaronic Priesthood holders learn what strengths
 you have as men. Possibly you were foreordained to great priesthood callings.
@@ -223,4 +222,6 @@ and special gifts of the elect women of God. They are entitled to our deepest
 veneration, our fullest appreciation, and our most profound respect. I believe
 angels attend them in their motherly ministry. That we may so honor them I
 pray humbly in the name of Jesus Christ, amen.
+
+## References
 

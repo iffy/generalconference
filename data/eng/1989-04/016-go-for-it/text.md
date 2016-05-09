@@ -48,7 +48,7 @@ the Lord their God shall command them;
 not their first estate shall not have glory in the same kingdom with those who
 keep their first estate; and they who keep their second estate shall have
 glory added upon their heads for ever and ever." ([Abr. 3:22,
-24-26](https://www.lds.org/scriptures/pgp/abr/3.22%2C24-26?lang=eng#21).)
+24-26](/scriptures/pgp/abr/3.22,24-26?lang=eng#21).)
 
 As we journey through mortality, let us remember from whence we came; let us
 be true to the trust vested in us. Let us remember who we are and what God
@@ -80,9 +80,8 @@ are a man of might. You are a son of God, endowed with faith, gifted with
 courage, and guided by prayer. Your eternal destiny is before you. The Apostle
 Paul speaks to you today as he spoke to Timothy long years ago: "Neglect not
 the gift that is in thee. ... O Timothy, keep that which is committed to thy
-trust." ([1 Tim.
-4:14](https://www.lds.org/scriptures/nt/1-tim/4.14?lang=eng#13); [1 Tim.
-6:20](https://www.lds.org/scriptures/nt/1-tim/6.20?lang=eng#19).)
+trust." ([1 Tim. 4:14](/scriptures/nt/1-tim/4.14?lang=eng#13); [1 Tim.
+6:20](/scriptures/nt/1-tim/6.20?lang=eng#19).)
 
 As you define your goals and plan for their achievement, ponder the thought:
 The past is behind--learn from it; the future is ahead--prepare for it; the
@@ -165,8 +164,7 @@ Paul place in perspective such thinking. To the Corinthians, Paul counseled,
 "There hath no temptation taken you but such as is common to man: but God is
 faithful, who will not suffer you to be tempted above that ye are able; but
 will with the temptation also make a way to escape, that ye may be able to
-bear it." ([1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).)
+bear it." ([1 Cor. 10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).)
 
 As priesthood holders, we have a responsibility to "stand up and be counted."
 Some years back, when David Kennedy was appointed as Secretary of the
@@ -307,4 +305,6 @@ Brethren of the priesthood, like the Charles Dickens character Philip Pirrip,
 we have great expectations. The goal of eternal life awaits. May we strive
 unflinchingly for its attainment. In the language of the young men assembled
 tonight, "Let's go for it!" In the name of Jesus Christ, amen.
+
+## References
 

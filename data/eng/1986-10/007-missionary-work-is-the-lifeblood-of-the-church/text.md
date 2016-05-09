@@ -24,7 +24,7 @@ briefly, and that is the joy which comes to those who engage in it.
 
 The Book of Mormon sums up the whole purpose of existence in this short
 sentence: "Men are, that they might have joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)).
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)).
 
 If joy is the supreme goal of life, then everyone should be intensely
 interested in how it may be obtained. We should be equally concerned about how
@@ -39,8 +39,7 @@ The gospel, and the opportunity to share its message, have not always been on
 the earth. But when the gospel is here, we should value it highly. The Lord
 has given us his promise that if we labor all of our days and bring save it be
 one soul to him, how great shall be our joy with him in the kingdom of our
-Father (see [D&amp;C 18:15](https://www.lds.org/scriptures/dc-
-testament/dc/18.15?lang=eng#14)).
+Father (see [D&amp;C 18:15](/scriptures/dc-testament/dc/18.15?lang=eng#14)).
 
 A number of years ago, the late President Spencer W. Kimball, who was then a
 member of the Quorum of the Twelve, visited the stake in which I was living
@@ -101,4 +100,6 @@ lifeblood of the Church and that we have a divine commission to share the
 gospel with others both at home and abroad. I know, nothing doubting, that
 this is the work of the Lord and that President Benson is his prophet on earth
 today. This testimony I bear in the name of Jesus Christ, amen.
+
+## References
 

@@ -1,10 +1,10 @@
-# Language: A Divine Way of Communicating
+# Language:A Divine Way of Communicating
 
 "Our Father who art in heaven, hallowed be thy name" ([3 Ne.
-13:9](https://www.lds.org/scriptures/bofm/3-ne/13.9?lang=eng#8)). A salutation
-with reverence, love, and obedience is invoked in this introduction of a model
-of prayer given by our Savior himself. Every word is chosen for its particular
-meaning and inspiring, noble thoughts, elevating our souls to a new level of
+13:9](/scriptures/bofm/3-ne/13.9?lang=eng#8)). A salutation with reverence,
+love, and obedience is invoked in this introduction of a model of prayer given
+by our Savior himself. Every word is chosen for its particular meaning and
+inspiring, noble thoughts, elevating our souls to a new level of
 understanding. We truly have here an expression and example of divine
 language.
 
@@ -37,7 +37,7 @@ our inner feelings.
 
 But where do they come from, and why is language so peculiar? It started in
 the beginning, as we read in [Moses
-6:5-6](https://www.lds.org/scriptures/pgp/moses/6.5-6?lang=eng#4):
+6:5-6](/scriptures/pgp/moses/6.5-6?lang=eng#4):
 
 "And a book of remembrance was kept, in the which was recorded, in the
 language of Adam, for it was given unto as many as called upon God to write by
@@ -50,9 +50,9 @@ Language is of divine origin. Only man speaks (and women do even better), and
 he does so because of the purpose for which he was created. Let us listen to
 Paul when he said: "Though I speak with the tongues of men and of angels, and
 have not charity, I am become as sounding brass, or a tinkling cymbal" ([1
-Cor. 13:1](https://www.lds.org/scriptures/nt/1-cor/13.1?lang=eng#0)).
-Anacharsis, when asked what was the best part of man, answered: "The tongue."
-When asked what was the worst, the answer was the same: "The tongue."
+Cor. 13:1](/scriptures/nt/1-cor/13.1?lang=eng#0)). Anacharsis, when asked what
+was the best part of man, answered: "The tongue." When asked what was the
+worst, the answer was the same: "The tongue."
 
 "Therewith bless we God, even the Father; and therewith curse we men, which
 are made after the similitude of God.
@@ -64,39 +64,38 @@ things ought not so to be.
 
 "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so
 can no fountain both yield salt water and fresh" ([James
-3:9-12](https://www.lds.org/scriptures/nt/james/3.9-12?lang=eng#8)).
+3:9-12](/scriptures/nt/james/3.9-12?lang=eng#8)).
 
 In the Book of Mormon we read that "it must needs be, that there is an
 opposition in all things" ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10)). We know by
-experience, however, what opposition in words can do to individuals, if not
-controlled. So when we are counseled to be a righteous people, is it only
-concerning our attitudes? What about corrupted language; foul language; slang;
-and words evoking evil, dirt, and destruction of the body and soul? The name
-of Deity is to be used to touch hearts and give light; it is not to be used in
-vain or to be mocked. Too often, it seems that this kind of language attracts
-young people and male adults because it is a way in their eyes to be
-recognized, to look tough or virile. Would this mean that education and
-manners, charm and reverence are an exclusive feminine matter? What about
-missionary language that uses words and expression to describe their
-companions, their investigators, or their leaders in a way that not only
-sounds disrespectful but also shows a lack of reverence and love?
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10)). We know by experience,
+however, what opposition in words can do to individuals, if not controlled. So
+when we are counseled to be a righteous people, is it only concerning our
+attitudes? What about corrupted language; foul language; slang; and words
+evoking evil, dirt, and destruction of the body and soul? The name of Deity is
+to be used to touch hearts and give light; it is not to be used in vain or to
+be mocked. Too often, it seems that this kind of language attracts young
+people and male adults because it is a way in their eyes to be recognized, to
+look tough or virile. Would this mean that education and manners, charm and
+reverence are an exclusive feminine matter? What about missionary language
+that uses words and expression to describe their companions, their
+investigators, or their leaders in a way that not only sounds disrespectful
+but also shows a lack of reverence and love?
 
 Words can get things done, commitments fulfilled, or miracles accomplished. We
 may, because of words, be moved to tears or to laughter, feel great or
 miserable, be exalted or condemned. "Man doth not live by bread only, but by
 every word that proceedeth out of the mouth of the Lord doth man live" ([Deut.
-8:3](https://www.lds.org/scriptures/ot/deut/8.3?lang=eng#2)). Words are sacred
-in prayer, for example: "Our Heavenly Father"; in sharing a testimony and
-testifying of the truth: "And now, after the many testimonies which have been
-given of him, this is the testimony, last of all, which we give of him: That
-he lives! For we saw him, even on the right hand of God; and we heard the
-voice bearing record that he is the Only Begotten of the Father" ([D&amp;C
-76:22-23](https://www.lds.org/scriptures/dc-
+8:3](/scriptures/ot/deut/8.3?lang=eng#2)). Words are sacred in prayer, for
+example: "Our Heavenly Father"; in sharing a testimony and testifying of the
+truth: "And now, after the many testimonies which have been given of him, this
+is the testimony, last of all, which we give of him: That he lives! For we saw
+him, even on the right hand of God; and we heard the voice bearing record that
+he is the Only Begotten of the Father" ([D&amp;C 76:22-23](/scriptures/dc-
 testament/dc/76.22-23?lang=eng#21)); in giving a status: "I am a child of
 God"; in summarizing a mission: "Charity never faileth" ([Moro.
-7:46](https://www.lds.org/scriptures/bofm/moro/7.46?lang=eng#45)); in showing
-love to our family members: "I love you."
+7:46](/scriptures/bofm/moro/7.46?lang=eng#45)); in showing love to our family
+members: "I love you."
 
 Words, when expressed by prophets--by a living prophet like Spencer W. Kimball
 --tell us about the will and the mind of the Lord and are an example of divine
@@ -104,7 +103,7 @@ language and perfection. "For my soul delighteth in plainness; for after this
 manner doth the Lord God work among the children of men. For the Lord God
 giveth light unto the understanding; for he speaketh unto men according to
 their language, unto their understanding" ([2 Ne.
-31:3](https://www.lds.org/scriptures/bofm/2-ne/31.3?lang=eng#2)).
+31:3](/scriptures/bofm/2-ne/31.3?lang=eng#2)).
 
 For example, in one of his recent addresses, President Kimball emphasized the
 need to learn and know more than our own language. "We need much more language
@@ -116,7 +115,7 @@ only by their calling and behavior, but also by the purity of their language.
 In Deuteronomy we read: "For thou art an holy people unto the Lord thy God:
 the Lord thy God hath chosen thee to be a special people unto himself, above
 all people that are upon the face of the earth" ([Deut.
-7:6](https://www.lds.org/scriptures/ot/deut/7.6?lang=eng#5)).
+7:6](/scriptures/ot/deut/7.6?lang=eng#5)).
 
 Language is divine. Some may know this but do not realize its implications in
 their daily family life. Love at home starts with a loving language. This need
@@ -134,4 +133,6 @@ Our Heavenly Father lives; his Son is Jesus Christ, our Savior and Redeemer;
 his prophet on earth today is Spencer W. Kimball; he is the mouthpiece of the
 Lord. May His holy name be sanctified by our words forever and ever, in the
 name of Jesus Christ, amen.
+
+## References
 

@@ -43,8 +43,8 @@ hands upon the heads of Joseph Smith and Oliver Cowdery, he said:
 "Upon you my fellow servants, in the name of Messiah I confer the Priesthood
 of Aaron, which holds the _keys of__the ministering of angels,_ and of the
 _gospel of repentance,_ and of _baptism by immersion for the remission of
-sins._" ([D&amp;C 13](https://www.lds.org/scriptures/dc-
-testament/dc/13.title?lang=eng). Italics added.)
+sins._" ([D&amp;C 13](/scriptures/dc-testament/dc/13?lang=eng). Italics
+added.)
 
 We should all realize that great works of righteousness can be and are
 performed by the Aaronic Priesthood. President Wilford Woodruff relates an
@@ -91,7 +91,7 @@ Priesthood in these words:
 "Therefore, take with you those who are ordained unto the lesser priesthood,
 and send them before you to make appointments, and to prepare the way, and to
 fill appointments that you yourselves are not able to fill." ([D&amp;C
-84:107](https://www.lds.org/scriptures/dc-testament/dc/84.107?lang=eng#106).)
+84:107](/scriptures/dc-testament/dc/84.107?lang=eng#106).)
 
 For the past few years I have had the privilege of home teaching with an
 ordained teacher part of the time and a priest with whom I am teaching at the
@@ -117,8 +117,8 @@ church and kingdom, and the elect of God. ...
 give diligent heed to the words of eternal life.
 
 "For you shall live by every word that proceedeth forth from the mouth of
-God." ([D&amp;C 84:33-34, 43-44](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-34%2C43-44?lang=eng#32); italics added.)
+God." ([D&amp;C 84:33-34, 43-44](/scriptures/dc-
+testament/dc/84.33-34,43-44?lang=eng#32); italics added.)
 
 What a tremendous blessing, promise, and responsibility. And this is to
 everyone who will keep the covenant and applies to all of us. The first four
@@ -128,7 +128,7 @@ Regarding faithfulness, I should like to say a few words about the Word of
 Wisdom, chastity, honesty, and keeping the commandments. The Lord has said,
 
 "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 I am sure that every man under the sound of my voice tonight would say that he
 loves the Lord. But how does he prove it? He said, "If ye love me, keep my
@@ -204,19 +204,17 @@ magnifying his calling while he is breaking the Word of Wisdom.
 Now, regarding chastity. Immorality is so common in the world that it is even
 affecting some of our priesthood holders, which makes me very sad. The Lord
 has told us definitely: "Thou shalt not commit adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).)
+20:14](/scriptures/ot/ex/20.14?lang=eng#13).)
 
 Paul, in speaking to the Corinthians, said: "Know ye not that the unrighteous
 shall not inherit the kingdom of God? Be not deceived: neither fornicators,
 nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with
-mankind." ([1 Cor.
-6:9](https://www.lds.org/scriptures/nt/1-cor/6.9?lang=eng#8).)
+mankind." ([1 Cor. 6:9](/scriptures/nt/1-cor/6.9?lang=eng#8).)
 
 Helaman, speaking to his people, warned them in these words: "Yea, even at
 this time ye are ripening, because of your murders and your fornication and
 wickedness, for everlasting destruction; yea, and except ye repent it will
-come unto you soon." ([Hel.
-8:26](https://www.lds.org/scriptures/bofm/hel/8.26?lang=eng#25).)
+come unto you soon." ([Hel. 8:26](/scriptures/bofm/hel/8.26?lang=eng#25).)
 
 Wherever we are, associating with boys or girls or young men or young women,
 it is most important that we remember who we are and act accordingly and never
@@ -250,18 +248,18 @@ to enjoy the blessings that you could not enjoy otherwise.
 I am very sorry to report that we have cases where people, both men and women,
 have lied to go to the temple and to go on missions. The Lord has said that no
 unclean thing shall enter the temple of God. (See, e.g., [D&amp;C
-97:15](https://www.lds.org/scriptures/dc-testament/dc/97.15?lang=eng#14).)
-When one is being interviewed for a temple recommend or for a mission, he
-should realize that the bishop and stake president are representing the Lord
-and that their answers are to the Lord and their commitments to the Lord. The
-Lord knows and will not be mocked.
+97:15](/scriptures/dc-testament/dc/97.15?lang=eng#14).) When one is being
+interviewed for a temple recommend or for a mission, he should realize that
+the bishop and stake president are representing the Lord and that their
+answers are to the Lord and their commitments to the Lord. The Lord knows and
+will not be mocked.
 
 We have cases where people have gone to the temple unworthily and have had a
 guilty conscience for years, wondering whether the ordinance will be binding
 or effective, and they have come to the President of the Church heartbroken to
 ask forgiveness and to get the matter cleared up. Let us be honest, true,
 chaste, benevolent, and virtuous. (See [A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 Prospective missionaries should realize that the Lord wants somebody in whom
 he can place every confidence, one who is clean and worthy in every way to
@@ -293,7 +291,7 @@ condition. He said:
 Lord, remember them no more.
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them." ([D&amp;C 58:42-43](https://www.lds.org/scriptures/dc-
+them and forsake them." ([D&amp;C 58:42-43](/scriptures/dc-
 testament/dc/58.42-43?lang=eng#41).)
 
 Let us always remember that we priesthood holders are the royal army of God.
@@ -316,4 +314,6 @@ by the Lord through our president and prophet, Spencer W. Kimball. May we
 follow our leader, honor the priesthood, magnify the callings which we have
 been given, and prove ourselves worthy in every way, I humbly pray in the name
 of Jesus Christ. Amen.
+
+## References
 

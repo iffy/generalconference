@@ -39,38 +39,36 @@ the Articles of Faith of The Church of Jesus Christ of Latter-day Saints. You
 remember them. May I mention just two:
 
 "We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in
-the Holy Ghost" ([A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0)).
+the Holy Ghost" ([A of F 1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0)).
 
 "We believe in being honest, true, chaste, benevolent, virtuous, and in doing
 good to all men; indeed, we may say that we follow the admonition of Paul--We
 believe all things, we hope all things, we have endured many things, and hope
 to be able to endure all things. If there is anything virtuous, lovely, or of
 good report or praiseworthy, we seek after these things" ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)).
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)).
 
 Can you think of a more firm foundation, a more basic philosophy to guide a
 boy, than the Articles of Faith? What a gift these noble women imparted when
 they expected each boy to know and indeed live by such a standard. They
 personally accepted the divine injunction, "Feed my sheep; feed my lambs" (see
-[John 21:15-16](https://www.lds.org/scriptures/nt/john/21.15-16?lang=eng#14)).
+[John 21:15-16](/scriptures/nt/john/21.15-16?lang=eng#14)).
 
 Some may inquire: What is the significance of the Aaronic Priesthood for which
 such preparation takes place? Is it all that important in the life of a boy?
 The Priesthood of Aaron "is an appendage to the ... Melchizedek Priesthood, and
-has power in administering outward ordinances" ([D&amp;C
-107:14](https://www.lds.org/scriptures/dc-testament/dc/107.14?lang=eng#13)).
-John the Baptist was a descendant of Aaron and held the keys of the Aaronic
-Priesthood. Perhaps we could review the life and mission of John, so that the
-importance of the Aaronic Priesthood might be more fully appreciated.
+has power in administering outward ordinances" ([D&amp;C 107:14](/scriptures
+/dc-testament/dc/107.14?lang=eng#13)). John the Baptist was a descendant of
+Aaron and held the keys of the Aaronic Priesthood. Perhaps we could review the
+life and mission of John, so that the importance of the Aaronic Priesthood
+might be more fully appreciated.
 
 Long years ago and distant miles away, in the conquered country of Palestine,
 a marvelous miracle occurred. The setting was bleak, the time one of tumult.
 In these, the days of Herod, king of Judea, there lived a priest named
 Zacharias and his wife, Elisabeth. "They were ... righteous before God" ([Luke
-1:6](https://www.lds.org/scriptures/nt/luke/1.6?lang=eng#5)). However, long
-years of yearning had returned no reward--Zacharias and Elisabeth remained
-childless.
+1:6](/scriptures/nt/luke/1.6?lang=eng#5)). However, long years of yearning had
+returned no reward--Zacharias and Elisabeth remained childless.
 
 Then came that day of days ever to be remembered. There appeared to Zacharias
 the angel Gabriel, who proclaimed: "Fear not, Zacharias: for thy prayer is
@@ -78,7 +76,7 @@ heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his
 name John.
 
 "He shall be great in the sight of the Lord" ([Luke
-1:13-15](https://www.lds.org/scriptures/nt/luke/1.13-15?lang=eng#12)).
+1:13-15](/scriptures/nt/luke/1.13-15?lang=eng#12)).
 
 Elisabeth did conceive. In due time a son was born, and according to the
 angel's instruction he was named John.
@@ -89,43 +87,41 @@ know of John's history for a space of thirty years--the entire period which
 elapsed between his birth and his walk into the wilderness to commence his
 public ministry: "The child grew, and waxed strong in spirit, and was in the
 deserts till the day of his shewing unto Israel" ([Luke
-1:80](https://www.lds.org/scriptures/nt/luke/1.80?lang=eng#79)).
+1:80](/scriptures/nt/luke/1.80?lang=eng#79)).
 
 His dress was that of the old prophets--a garment woven of camel's hair. His
 food was such as the desert afforded--locusts and wild honey. His message was
 brief. He preached faith, repentance, baptism by immersion, and the bestowal
 of the Holy Ghost by an authority greater than that possessed by himself.
 
-"I am not the Christ" ([John
-1:20](https://www.lds.org/scriptures/nt/john/1.20?lang=eng#19)), he told his
-band of faithful disciples. "But I am sent before him." "I indeed baptize you
-with water ... but one mightier than I cometh ... : he shall baptize you with the
-Holy Ghost, and with fire (see [Matt.
-3:11](https://www.lds.org/scriptures/nt/matt/3.11?lang=eng#10)).
+"I am not the Christ" ([John 1:20](/scriptures/nt/john/1.20?lang=eng#19)), he
+told his band of faithful disciples. "But I am sent before him." "I indeed
+baptize you with water ... but one mightier than I cometh ... : he shall baptize
+you with the Holy Ghost, and with fire (see [Matt.
+3:11](/scriptures/nt/matt/3.11?lang=eng#10)).
 
 Then there transpired the climactic scene of John's mission--the baptism of
 Christ. Jesus came down from Galilee expressly "to be baptized" by John.
 Humbled of heart and contrite in spirit, John pleaded, "I have need to be
 baptized of thee, and comest thou to me?" The Master's reply: "It becometh us
 to fulfil all righteousness." (See [Matt.
-3:13-15](https://www.lds.org/scriptures/nt/matt/3.13-15?lang=eng#12).)
+3:13-15](/scriptures/nt/matt/3.13-15?lang=eng#12).)
 
 "And Jesus, when he was baptized, went up straightway out of the water: and,
 lo, the heavens were opened unto him, and he saw the Spirit of God descending
 like a dove, and lighting upon him:
 
 "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well
-pleased" ([Matt.
-3:16-17](https://www.lds.org/scriptures/nt/matt/3.16-17?lang=eng#15)).
+pleased" ([Matt. 3:16-17](/scriptures/nt/matt/3.16-17?lang=eng#15)).
 
 John's testimony that Jesus was the redeemer of the world was declared boldly.
 Without fear, and with courage, John taught: "Behold the Lamb of God, which
 taketh away the sin of the world" ([John
-1:29](https://www.lds.org/scriptures/nt/john/1.29?lang=eng#28)).
+1:29](/scriptures/nt/john/1.29?lang=eng#28)).
 
 Of John, the Savior later testified, "Among them that are born of women there
 hath not risen a greater than John the Baptist" ([Matt.
-11:11](https://www.lds.org/scriptures/nt/matt/11.11?lang=eng#10)).
+11:11](/scriptures/nt/matt/11.11?lang=eng#10)).
 
 John's public ministry moved toward its close. He had, at the beginning of it,
 condemned the hypocrisy and worldliness of the Pharisees and Sadducees; and he
@@ -136,13 +132,13 @@ The tomb in which his body was placed could not contain that body. Nor could
 the act of murder still that voice. To the world we declare that at Harmony,
 Pennsylvania, on 15 May 1829, an angel, "who announced himself as John, the
 same that is called John the Baptist in the New Testament" ([D&amp;C
-13](https://www.lds.org/scriptures/dc-testament/dc/13.title?lang=eng), section
-heading), came as a resurrected personage to Joseph Smith and Oliver Cowdery.
-"The angelic visitant averred that he was acting under the direction of Peter,
-James, and John, the ancient Apostles, who held the keys of the higher
-Priesthood, which was called the Priesthood of Melchizedek" ([D&amp;C
-13](https://www.lds.org/scriptures/dc-testament/dc/13.title?lang=eng), section
-heading). The Aaronic Priesthood was restored to the earth.
+13](/scriptures/dc-testament/dc/13?lang=eng), section heading), came as a
+resurrected personage to Joseph Smith and Oliver Cowdery. "The angelic
+visitant averred that he was acting under the direction of Peter, James, and
+John, the ancient Apostles, who held the keys of the higher Priesthood, which
+was called the Priesthood of Melchizedek" ([D&amp;C 13](/scriptures/dc-
+testament/dc/13?lang=eng), section heading). The Aaronic Priesthood was
+restored to the earth.
 
 Thanks to that memorable event, I was given the privilege to bear the Aaronic
 Priesthood, as have millions of young men in these latter days. Its true
@@ -186,8 +182,7 @@ of the Doctrine and Covenants."
 
 I began, "Upon you my fellow servants, in the name of Messiah I confer the
 Priesthood of Aaron, which holds the keys of the ministering of angels ..."
-([D&amp;C 13:1](https://www.lds.org/scriptures/dc-
-testament/dc/13.1?lang=eng#0)).
+([D&amp;C 13:1](/scriptures/dc-testament/dc/13.1?lang=eng#0)).
 
 "Stop," President Child directed. Then in a calm, kindly tone he counseled:
 "Brother Monson, never forget that as a holder of the Aaronic Priesthood you
@@ -219,9 +214,9 @@ and provides a spiritual rebirth. He then gazed as though toward heaven and,
 with his right arm to the square, repeated the words "Nancy Ann McArthur,
 having been commissioned of Jesus Christ, I baptize you in the name of the
 Father, and of the Son, and of the Holy Ghost" (see [D&amp;C
-20:73](https://www.lds.org/scriptures/dc-testament/dc/20.73?lang=eng#72)). Not
-once did he stammer. Not once did he stutter. Not once did he falter. A modern
-miracle had been witnessed.
+20:73](/scriptures/dc-testament/dc/20.73?lang=eng#72)). Not once did he
+stammer. Not once did he stutter. Not once did he falter. A modern miracle had
+been witnessed.
 
 In the dressing room, as I congratulated Robert, I expected to hear this same
 uninterrupted flow of speech. I was wrong. He gazed downward and stammered his
@@ -237,4 +232,6 @@ voice today. It teaches humility; it prompts courage; it inspires faith.
 May we be motivated by his message. May we be inspired by his mission. May we
 be lifted by his life to a full appreciation of the Aaronic Priesthood and its
 divine power, I pray, in the name of Jesus Christ, amen.
+
+## References
 

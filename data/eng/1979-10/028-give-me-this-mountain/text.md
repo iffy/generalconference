@@ -51,7 +51,7 @@ in comparison. Caleb, however, saw things a little differently, with what the
 Lord called "another spirit," and his account of the journey and their
 challenges was quite different. He said, "Let us go up at once, and possess
 [their land]; for we are well able to overcome it" ([Num.
-13:30](https://www.lds.org/scriptures/ot/num/13.30?lang=eng#29)).
+13:30](/scriptures/ot/num/13.30?lang=eng#29)).
 
 Joshua and Caleb were men of great faith, and they joined in urging that the
 Israelites go _immediately,_ to the promised land, saying:
@@ -61,7 +61,7 @@ us; a land which floweth with milk and honey.
 
 "Only rebel not ye against the Lord, neither fear ye the people of the land;
 for ... the Lord is with us: fear them not" ([Num.
-14:8-9](https://www.lds.org/scriptures/ot/num/14.8-9?lang=eng#7)).
+14:8-9](/scriptures/ot/num/14.8-9?lang=eng#7)).
 
 But the faint-hearted Israelites, remembering the security of their Egyptian
 slavery and lacking faith in God, rejected Caleb and Joshua and sought even to
@@ -94,8 +94,7 @@ five years old.
 "As yet I am as strong this day as I was in the day that Moses sent me [at
 least in the spirit of the gospel and its call and needs]: as my strength was
 then, even so is my strength now, ... both to go out, and to come in" ([Josh.
-14:7-8,
-10-11](https://www.lds.org/scriptures/ot/josh/14.7-8%2C10-11?lang=eng#6)).
+14:7-8, 10-11](/scriptures/ot/josh/14.7-8,10-11?lang=eng#6)).
 
 From Caleb's example we learn very important lessons. Just as Caleb had to
 struggle and remain true and faithful to gain his inheritance, so we must
@@ -107,7 +106,7 @@ Caleb concluded his moving declaration with a request and a challenge with
 which my heart finds full sympathy. The Anakims, the giants, were still
 inhabiting the promised land, and they had to be overcome. Said Caleb, now at
 85 years, "Give me this mountain" ([Josh.
-14:12](https://www.lds.org/scriptures/ot/josh/14.12?lang=eng#11)).
+14:12](/scriptures/ot/josh/14.12?lang=eng#11)).
 
 This is my feeling for the work at this moment. There are great challenges
 ahead of us, giant opportunities to be met. I welcome that exciting prospect
@@ -122,7 +121,7 @@ land and our promised blessings.
 
 "And Jesus said unto him, No man having put his hand to the plough, and
 looking back, is fit for the kingdom of God" ([Luke
-9:62](https://www.lds.org/scriptures/nt/luke/9.62?lang=eng#61)).
+9:62](/scriptures/nt/luke/9.62?lang=eng#61)).
 
 I will "wholly follow the Lord my God" to the fullest extent of my energy and
 my ability.
@@ -135,4 +134,6 @@ My brethren and sisters, I testify to you that this is the Lord's work and
 that it is true. We are on the Lord's errand. This is his church and he is its
 head and the chief cornerstone. I leave you this testimony, in all sincerity,
 with my love and blessing, in the name of Jesus Christ, amen.
+
+## References
 

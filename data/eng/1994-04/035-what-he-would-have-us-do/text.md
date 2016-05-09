@@ -36,3 +36,5 @@ May we praise His name, follow His example, and incorporate His truths into
 our lives, and then this conference will have been successful. That such may
 be our experience, I pray in His worthy name--even Jesus Christ--amen.
 
+## References
+

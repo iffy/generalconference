@@ -72,7 +72,7 @@ destruction.
 
 "And many shall follow their pernicious ways; by reason of whom the way of
 truth shall be evil spoken of." ([2 Pet.
-2:1-2](https://www.lds.org/scriptures/nt/2-pet/2.1-2?lang=eng#0).)
+2:1-2](/scriptures/nt/2-pet/2.1-2?lang=eng#0).)
 
 Some are wandering into forbidden paths because they are seeking popularity
 with their peers, even to the extent of doing things they know are wrong. They
@@ -89,13 +89,12 @@ the Pharisees they did not confess him, lest they should be [cast] out of the
 synagogue:
 
 "For they loved the praise of men more than the praise of God." ([John
-12:42-43](https://www.lds.org/scriptures/nt/john/12.42-43?lang=eng#41).)
+12:42-43](/scriptures/nt/john/12.42-43?lang=eng#41).)
 
 They wander because of weakness of character. The spirit is willing, but the
-flesh is weak. (See [Matt.
-26:41](https://www.lds.org/scriptures/nt/matt/26.41?lang=eng#40).) These
-wanderers are in the wilderness of frustration and discontent. They know the
-law, but they succumb to temptation for a fleeting moment of pleasure to
+flesh is weak. (See [Matt. 26:41](/scriptures/nt/matt/26.41?lang=eng#40).)
+These wanderers are in the wilderness of frustration and discontent. They know
+the law, but they succumb to temptation for a fleeting moment of pleasure to
 satisfy their appetites and passions.
 
 Then we have the wilderness of hypocrisy which claims many victims.
@@ -111,7 +110,7 @@ denouncement of the scribes and Pharisees as hypocrites. We read in verse 13:
 "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the
 kingdom of heaven against men: for ye neither go in yourselves, neither suffer
 ye them that are entering to go in." [[Matt.
-23:13](https://www.lds.org/scriptures/nt/matt/23.13?lang=eng#12)]
+23:13](/scriptures/nt/matt/23.13?lang=eng#12)]
 
 Many are in the wilderness because of following the poor example set by
 leaders in homes and communities. Traffic in this area is most congested and
@@ -140,10 +139,9 @@ and back into the light and the love which they need so badly.
 
 Immorality, though rampant in the world, is denounced by the Lord and is a
 most sure way of becoming lost in the wilderness. The Lord said: "Thou shalt
-not commit adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).) Not only the
-one committing this sin and other transgressions, but the victim and many
-others are affected and will bear great burdens of sorrow and sadness.
+not commit adultery." ([Ex. 20:14](/scriptures/ot/ex/20.14?lang=eng#13).) Not
+only the one committing this sin and other transgressions, but the victim and
+many others are affected and will bear great burdens of sorrow and sadness.
 
 Recently in the newspaper I read this account, which shows the grief and
 anxiety of one mother, who had undoubtedly spent many unhappy hours watching,
@@ -168,7 +166,7 @@ dependence on God. We are admonished in the scriptures:
 understanding.
 
 "In all thy ways acknowledge him, and he shall direct thy paths." ([Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).)
+3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4).)
 
 Possibly the most lost of all is the wanderer who has failed through lack of
 desire or determination to discipline himself. His wilderness is dark and
@@ -181,8 +179,7 @@ the depth of his failure by his self-abandonment ... and this law is the
 expression of eternal justice."
 
 Quoting from Solomon, "He that ruleth his spirit [is better] than he that
-taketh a city." ([Prov.
-16:32](https://www.lds.org/scriptures/ot/prov/16.32?lang=eng#31).)
+taketh a city." ([Prov. 16:32](/scriptures/ot/prov/16.32?lang=eng#31).)
 
 Christ gave us probably the best answer as to how to keep from wandering when
 he said:
@@ -192,7 +189,7 @@ that leadeth to destruction, and many there be which go in thereat:
 
 "Because strait is the gate, and narrow is the way, which leadeth unto life,
 and few there be that find it." ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).)
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).)
 
 It is so true that those who keep on the straight and narrow path and realize
 that detours are very dangerous are those who succeed in life and enjoy self-
@@ -272,7 +269,7 @@ or organization, then we must accept their rules and standards.
 Punishment and remorse, one way or another, will come to all who wander from
 the path of truth and righteousness, while obedience to God's laws brings
 blessings and happiness. It is that simple: as we sow, so shall we reap. (See
-[Gal. 6:7](https://www.lds.org/scriptures/nt/gal/6.7?lang=eng#6).)
+[Gal. 6:7](/scriptures/nt/gal/6.7?lang=eng#6).)
 
 How important it is that we do not wait until a child or other loved one
 wanders into forbidden paths before doing all possible to make those paths
@@ -295,8 +292,7 @@ treasures:
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 To all wanderers who are seeking to find their way out of the trackless
 wilderness and into the flowering, sunlit gardens, where the path is straight
@@ -312,4 +308,6 @@ God as its president. It offers us a sure way out of the wilderness and into
 the light. We invite all men everywhere to investigate and join with others in
 his church, which offers eternal life. I humbly pray, in the name of Jesus
 Christ. Amen.
+
+## References
 

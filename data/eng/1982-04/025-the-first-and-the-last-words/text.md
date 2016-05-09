@@ -22,18 +22,15 @@ prophet, before the coming of the great and dreadful day of the Lord.
 fathers, and the hearts of the children shall turn to their fathers.
 
 "If it were not so, the whole earth would be utterly wasted at his coming."
-([D&amp;C 2:1-3](https://www.lds.org/scriptures/dc-
-testament/dc/2.1-3?lang=eng#0); see also [JS--H
-1:36-39](https://www.lds.org/scriptures/pgp/js-h/1.36-39?lang=eng#35); italics
-added.)
+([D&amp;C 2:1-3](/scriptures/dc-testament/dc/2.1-3?lang=eng#0); see also [JS--
+H 1:36-39](/scriptures/pgp/js-h/1.36-39?lang=eng#35); italics added.)
 
 Moroni also quoted from Isaiah, Acts, Joel, and "many other passages of
-scripture." ([JS--H
-1:41](https://www.lds.org/scriptures/pgp/js-h/1.41?lang=eng#40).)
+scripture." ([JS--H 1:41](/scriptures/pgp/js-h/1.41?lang=eng#40).)
 
 The prophecy of Malachi concerning Elijah was treated differently from all
 other scriptures quoted by Moroni. It was considered of such unique importance
-that it now appears as section 2 in the Doctrine and Covenants. [1]
+that it now appears as section 2 in the Doctrine and Covenants.[1]
 
 Moroni's message signaled to the Prophet that Elijah soon would appear. The
 foreordained events pertaining to temple work began to unroll like a scroll.
@@ -63,7 +60,7 @@ fathers, lest the whole earth be smitten with a curse--
 
 "Therefore, the keys of this dispensation are committed into your hands; and
 by this ye may know that the great and dreadful day of the Lord is near, even
-at the doors." ([D&amp;C 110:14-16](https://www.lds.org/scriptures/dc-
+at the doors." ([D&amp;C 110:14-16](/scriptures/dc-
 testament/dc/110.14-16?lang=eng#13); italics added.)
 
 That event occurred 146 years ago yesterday, on the day that the Jews were
@@ -80,10 +77,9 @@ between parents and children, through the sealing power of God.
 It is essential to obtain the sealing power of the holy priesthood so that
 whatsoever an authorized officiator shall bind on earth shall be bound in
 heaven and whatsoever he shall loose on earth shall be loosed in heaven. (See
-[D&amp;C 127:7](https://www.lds.org/scriptures/dc-
-testament/dc/127.7?lang=eng#6).) For in the sacred ordinances and through this
-sacred power come glory and honor and eternal life. (See [D&amp;C
-128:11-12](https://www.lds.org/scriptures/dc-
+[D&amp;C 127:7](/scriptures/dc-testament/dc/127.7?lang=eng#6).) For in the
+sacred ordinances and through this sacred power come glory and honor and
+eternal life. (See [D&amp;C 128:11-12](/scriptures/dc-
 testament/dc/128.11-12?lang=eng#10).)
 
 It is by this power that husband and wife are sealed in a never-ending bond of
@@ -96,8 +92,7 @@ Without the authority and use of that power, in all ages of the world, none of
 our Heavenly Father's children can enter His presence or ever become like Him!
 And if this were not so, the whole purpose of existence would be useless. That
 is why the Lord said "the whole earth would be utterly wasted at his coming."
-([D&amp;C 2:3](https://www.lds.org/scriptures/dc-
-testament/dc/2.3?lang=eng#2).)
+([D&amp;C 2:3](/scriptures/dc-testament/dc/2.3?lang=eng#2).)
 
 Almost the last words of the Lord to the Prophet, so far as we can tell, also
 pertained to temple work. The Lord commanded the Prophet to build a temple in
@@ -106,11 +101,11 @@ Nauvoo. The Saints set about to do it.
 Prior to its completion, the Lord revealed His sacred ordinances, "things
 which have been kept hid from before the foundation of the world, things that
 pertain to the dispensation of the fulness of times." ([D&amp;C
-124:41](https://www.lds.org/scriptures/dc-testament/dc/124.41?lang=eng#40).)
-The order of performing baptism for the dead was revealed. Also the Lord
-required that witnesses verify the performance of ordinances, "that in all
-your recordings it may be recorded in heaven." ([D&amp;C
-127:7](https://www.lds.org/scriptures/dc-testament/dc/127.7?lang=eng#6).)
+124:41](/scriptures/dc-testament/dc/124.41?lang=eng#40).) The order of
+performing baptism for the dead was revealed. Also the Lord required that
+witnesses verify the performance of ordinances, "that in all your recordings
+it may be recorded in heaven." ([D&amp;C 127:7](/scriptures/dc-
+testament/dc/127.7?lang=eng#6).)
 
 Finally, the members of the Twelve Apostles were endowed and the sealing
 authority conveyed to them, thereafter never to be lost. They could now carry
@@ -147,13 +142,13 @@ the name of Jesus Christ, amen.
   
 ---  
   
-Temple at Independence, Missouri, announced. ([D&amp;C
-57:1-3](https://www.lds.org/scriptures/dc-testament/dc/57.1-3?lang=eng#0).)  
+Temple at Independence, Missouri, announced. ([D&amp;C 57:1-3](/scriptures/dc-
+testament/dc/57.1-3?lang=eng#0).)  
   
 1 Aug. 1831  
   
 Missouri and temple site directed to be dedicated. ([D&amp;C
-58:57](https://www.lds.org/scriptures/dc-testament/dc/58.57?lang=eng#56).)  
+58:57](/scriptures/dc-testament/dc/58.57?lang=eng#56).)  
   
 3 Aug. 1831  
   
@@ -163,24 +158,23 @@ the Church, _1:199.)
 1831  
   
 Doctrines and principles of the new and everlasting covenant revealed, but not
-recorded until 12 July 1843. ([D&amp;C 132](https://www.lds.org/scriptures/dc-
-testament/dc/132.title?lang=eng).)  
+recorded until 12 July 1843. ([D&amp;C 132](/scriptures/dc-
+testament/dc/132?lang=eng).)  
   
 22 Sept. 1832  
   
-New Jerusalem and temple prophesied. ([D&amp;C
-84:1-5](https://www.lds.org/scriptures/dc-testament/dc/84.1-5?lang=eng#0).)  
+New Jerusalem and temple prophesied. ([D&amp;C 84:1-5](/scriptures/dc-
+testament/dc/84.1-5?lang=eng#0).)  
   
 27 Dec. 1832  
   
 Saints commanded to establish a "house of God" (temple). ([D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118).)  
+88:119](/scriptures/dc-testament/dc/88.119?lang=eng#118).)  
   
 1 June 1833  
   
 Saints in Missouri again commanded to build a temple, in which they will be
-endowed with power. ([D&amp;C 95](https://www.lds.org/scriptures/dc-
-testament/dc/95.title?lang=eng).)  
+endowed with power. ([D&amp;C 95](/scriptures/dc-testament/dc/95?lang=eng).)  
   
 23 July 1833  
   
@@ -189,35 +183,33 @@ Cornerstones of Kirtland Temple laid. (_History of the Church, _1:400.)
 2 Aug. 1833  
   
 Further revelation on temple in Missouri, which is to be built after "the
-pattern." ([D&amp;C 97:10-17](https://www.lds.org/scriptures/dc-
+pattern." ([D&amp;C 97:10-17](/scriptures/dc-
 testament/dc/97.10-17?lang=eng#9).)  
   
 21 Jan. 1836  
   
-Doctrine of salvation for the dead revealed. ([D&amp;C
-137](https://www.lds.org/scriptures/dc-testament/dc/137.title?lang=eng).)  
+Doctrine of salvation for the dead revealed. ([D&amp;C 137](/scriptures/dc-
+testament/dc/137?lang=eng).)  
   
 27 Mar. 1836  
   
-Dedicatory prayer for Kirtland Temple recorded. ([D&amp;C
-109](https://www.lds.org/scriptures/dc-testament/dc/109.title?lang=eng).)  
+Dedicatory prayer for Kirtland Temple recorded. ([D&amp;C 109](/scriptures/dc-
+testament/dc/109?lang=eng).)  
   
 3 Apr. 1836  
   
-Elijah comes, sealing keys restored. ([D&amp;C
-110:13-16](https://www.lds.org/scriptures/dc-
+Elijah comes, sealing keys restored. ([D&amp;C 110:13-16](/scriptures/dc-
 testament/dc/110.13-16?lang=eng#12).)  
   
 26 Apr. 1838  
   
 Saints commanded to build a temple at Far West. ([D&amp;C
-115:7-16](https://www.lds.org/scriptures/dc-
-testament/dc/115.7-16?lang=eng#6).)  
+115:7-16](/scriptures/dc-testament/dc/115.7-16?lang=eng#6).)  
   
 8 July 1838  
   
-Tithes directed to be used for building temples. ([D&amp;C
-119](https://www.lds.org/scriptures/dc-testament/dc/119.title?lang=eng).)  
+Tithes directed to be used for building temples. ([D&amp;C 119](/scriptures
+/dc-testament/dc/119?lang=eng).)  
   
 26 Apr. 1839  
   
@@ -225,27 +217,26 @@ Cornerstones of Far West Temple laid. (_History of the Church, _3:336-37.)
   
 19 Jan. 1841  
   
-Saints commanded to build Nauvoo Temple. ([D&amp;C
-124:25-45](https://www.lds.org/scriptures/dc-
+Saints commanded to build Nauvoo Temple. ([D&amp;C 124:25-45](/scriptures/dc-
 testament/dc/124.25-45?lang=eng#24).)  
   
 1 Sept. 1842  
   
 Saints instructed to keep a record of ordinances. ([D&amp;C
-127:5-9](https://www.lds.org/scriptures/dc-testament/dc/127.5-9?lang=eng#4).)  
+127:5-9](/scriptures/dc-testament/dc/127.5-9?lang=eng#4).)  
   
 6 Sept. 1842  
   
 Saints instructed to have witnesses at ordinances; various doctrines and
-principles explained. ([D&amp;C 128](https://www.lds.org/scriptures/dc-
-testament/dc/128.title?lang=eng).)  
+principles explained. ([D&amp;C 128](/scriptures/dc-
+testament/dc/128?lang=eng).)  
   
 16-17 May 1843  
   
-Doctrine of Sealing expounded. ([D&amp;C 131](https://www.lds.org/scriptures
-/dc-testament/dc/131.title?lang=eng).)  
+Doctrine of Sealing expounded. ([D&amp;C 131](/scriptures/dc-
+testament/dc/131?lang=eng).)  
   
 ## References
 
-  1.  This declaration by Moroni was placed as section 1 in the Book of Commandments. After the Preface was given to the Book of Commandments on November 1, 1831, this revelation was then made section 2. Today it is found as section 2 in the Doctrine and Covenants.
+  1. This declaration by Moroni was placed as section 1 in the Book of Commandments. After the Preface was given to the Book of Commandments on November 1, 1831, this revelation was then made section 2. Today it is found as section 2 in the Doctrine and Covenants.
 

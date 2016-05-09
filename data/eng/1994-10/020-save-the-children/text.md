@@ -83,7 +83,7 @@ not: for of such is the kingdom of God.
 
 "Verily I say unto you, Whosoever shall not receive the kingdom of God as a
 little child shall in no wise enter therein" ([Luke
-18:15-17](https://www.lds.org/scriptures/nt/luke/18.15-17?lang=eng#14)).
+18:15-17](/scriptures/nt/luke/18.15-17?lang=eng#14)).
 
 How great is our responsibility, how serious the responsibility of Christian
 people and men and women of goodwill everywhere to reach out to ease the
@@ -204,8 +204,8 @@ condemned before the Lord.
 It was the Master himself who said, "But whoso shall offend one of these
 little ones which believe in me, it were better for him that a millstone were
 hanged about his neck, and that he were drowned in the depth of the sea"
-([Matt. 18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5)). How
-could he have spoken in stronger terms?
+([Matt. 18:6](/scriptures/nt/matt/18.6?lang=eng#5)). How could he have spoken
+in stronger terms?
 
 If there be any within the sound of my voice who may be guilty of such
 practice, I urge you with all of the capacity of which I am capable to stop
@@ -219,7 +219,7 @@ little children, one by one, and blessed them, and prayed unto the Father for
 them.
 
 "And when he had done this he wept again" ([3 Ne.
-17:21-22](https://www.lds.org/scriptures/bofm/3-ne/17.21-22?lang=eng#20)).
+17:21-22](/scriptures/bofm/3-ne/17.21-22?lang=eng#20)).
 
 There is no more tender and beautiful picture in all of sacred writing than
 this simple language describing the love of the Savior for little children.
@@ -292,4 +292,6 @@ them, to lift them and guide them as they walk in dangerous paths, to pray for
 them, to bless them, to love them, to keep them secure until they can run with
 strength of their own, I pray in the name of him who loves them so very much,
 even the Lord Jesus Christ, amen.
+
+## References
 

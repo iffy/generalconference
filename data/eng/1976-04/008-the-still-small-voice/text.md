@@ -18,7 +18,7 @@ the fire a still small voice.
 "And it was so, when Elijah heard it, that he wrapped his face in his mantle,
 and went out, and stood in the entering in of the cave. And, behold, there
 came a voice unto him, and said, What doest thou here, Elijah?" ([1 Kgs.
-19:11-13](https://www.lds.org/scriptures/ot/1-kgs/19.11-13?lang=eng#10).)
+19:11-13](/scriptures/ot/1-kgs/19.11-13?lang=eng#10).)
 
 When Elijah knew that he was in communication with the Lord, he told him of
 his great trouble and why he was hiding in the cave. He then received
@@ -43,12 +43,11 @@ First, the Lord will speak by his Spirit, which is the Holy Ghost. In speaking
 to the Twelve in 1829 the Lord said, referring to the words he had given:
 
 "For it is my voice which speaketh them unto you; for they are given by my
-Spirit unto you." ([D&amp;C 18:35](https://www.lds.org/scriptures/dc-
+Spirit unto you." ([D&amp;C 18:35](/scriptures/dc-
 testament/dc/18.35?lang=eng#34).)
 
 Later, in 1832, he instructed the elders, "I who speak even by the voice of my
-Spirit. ..." ([D&amp;C 75:1](https://www.lds.org/scriptures/dc-
-testament/dc/75.1?lang=eng#0).)
+Spirit. ..." ([D&amp;C 75:1](/scriptures/dc-testament/dc/75.1?lang=eng#0).)
 
 It is important that we learn to understand when the Lord speaks to us through
 his Spirit, for it is certain he will do this to the righteous and deserving.
@@ -58,7 +57,7 @@ prophet Enos was praying to the Lord and described his experience thus:
 
 "And while I was thus struggling in the spirit, behold, the voice of the Lord
 came into my mind again, saying ..." ([Enos
-1:10](https://www.lds.org/scriptures/bofm/enos/1.10?lang=eng#9).)
+1:10](/scriptures/bofm/enos/1.10?lang=eng#9).)
 
 What he told Enos is not my immediate concern, but the means used to tell him
 is here illustrated. The word of the Lord comes into the mind.
@@ -73,8 +72,7 @@ And then further to declare its true power, if we should have that happen:
 
 "Now, behold, this is the spirit of revelation; behold, this is the spirit by
 which Moses brought the children of Israel through the Red Sea on dry ground."
-([D&amp;C 8:2-3](https://www.lds.org/scriptures/dc-
-testament/dc/8.2-3?lang=eng#1).)
+([D&amp;C 8:2-3](/scriptures/dc-testament/dc/8.2-3?lang=eng#1).)
 
 Here then we have added to what Enos said: mind and heart--not the heart that
 beats but the heart which means "feeling."
@@ -88,8 +86,7 @@ shall burn within you; therefore, you shall feel that it is right.
 "But if it be not right you shall have no such feelings, but you shall have a
 stupor of thought that shall cause you to forget the thing which is wrong;
 therefore, you cannot write that which is sacred save it be given you from
-me." ([D&amp;C 9:8-9](https://www.lds.org/scriptures/dc-
-testament/dc/9.8-9?lang=eng#7).)
+me." ([D&amp;C 9:8-9](/scriptures/dc-testament/dc/9.8-9?lang=eng#7).)
 
 And I might say you might not think it, too, in the same manner.
 
@@ -105,7 +102,7 @@ to time; and he hath spoken unto you in a still small voice, but ye were past
 feeling, that ye could not feel his words; wherefore, he has spoken unto you
 like unto the voice of thunder, which did cause the earth to shake as if it
 were to divide asunder." ([1 Ne.
-17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44).)
+17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44).)
 
 I repeat: "He hath spoken unto you in a still small voice, but ye were past
 _feeling,_ that ye could not _feel_ his words." (Italics added.) Why did he
@@ -156,4 +153,6 @@ in harmony with the Lord's will through President Spencer W. Kimball. By this
 means we may eventually find our way into eternal life, and I pray we may
 understand. I bear witness of its truth and of the fact that President Spencer
 W. Kimball is a prophet, in the name of Jesus Christ. Amen.
+
+## References
 

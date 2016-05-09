@@ -25,8 +25,8 @@ child of God in every home.
 In a revelation to the Prophet Joseph Smith, the Lord tells us, "Organize
 yourselves; prepare every needful thing; and establish a house, even a house
 of prayer, a house of fasting, a house of faith, a house of learning, a house
-of glory, a house of order, a house of God" ([D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118)).
+of glory, a house of order, a house of God" ([D&amp;C 88:119](/scriptures/dc-
+testament/dc/88.119?lang=eng#118)).
 
 As I ponder this admonition of the Lord, I am reminded of a special friend. As
 I have worked with her, I have been inspired by her devotion to her family and
@@ -77,7 +77,7 @@ different from the women of the world "in happy ways" (see _Ensign,_ Nov.
 Nephi writes of his people in the wilderness sowing, reaping, and working to
 set their homes in order. Then he continues, "And it came to pass that we
 lived after the manner of happiness" ([2 Ne.
-5:27](https://www.lds.org/scriptures/bofm/2-ne/5.27?lang=eng#26)).
+5:27](/scriptures/bofm/2-ne/5.27?lang=eng#26)).
 
 As Latter-day Saint homebuilders, our greatest challenge is to bring up our
 children in light and truth--to develop the spiritual nature of each family
@@ -107,10 +107,12 @@ In well-ordered homes we must keep bright the spark of testimony and build
 faith within each heart. Through Relief Society we can learn how to organize
 ourselves and prepare every needful thing and how to establish a house of
 prayer, a house of fasting, a house of faith, a house of learning, a house of
-order, a house of God (see [D&amp;C 88:19](https://www.lds.org/scriptures/dc-
+order, a house of God (see [D&amp;C 88:19](/scriptures/dc-
 testament/dc/88.19?lang=eng#18)).
 
 May we make our homes havens of peace and happiness where all enjoy being
 together--and like Nephi's people live after a manner of happiness--is my
 prayer, and I ask it in the name of Jesus Christ, amen.
+
+## References
 

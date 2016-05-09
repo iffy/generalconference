@@ -28,13 +28,13 @@ It is more apparent to me now than ever that, as Alma of old declared, the
 word of the Lord and the preaching of his word has a greater tendency to lead
 the people to do that which is just. It has a more powerful effect than even
 the sword or anything else. (See [Alma
-31:5](https://www.lds.org/scriptures/bofm/alma/31.5?lang=eng#4).) This I have
-seen in the lives of those choice missionaries that I have had the privilege
-the past almost-three years to serve with--additional sons and daughters added
-to our family circle, sons and daughters that Sister Cutler and I love with
-all our hearts. I have seen that miracle happen over and over again as the
-word of the Lord is taught to his children and those of his flock who hear his
-voice and have a change of heart and come unto him.
+31:5](/scriptures/bofm/alma/31.5?lang=eng#4).) This I have seen in the lives
+of those choice missionaries that I have had the privilege the past almost-
+three years to serve with--additional sons and daughters added to our family
+circle, sons and daughters that Sister Cutler and I love with all our hearts.
+I have seen that miracle happen over and over again as the word of the Lord is
+taught to his children and those of his flock who hear his voice and have a
+change of heart and come unto him.
 
 The gospel of Jesus Christ is true. It is the greatest joy, the only pure joy,
 we have in this life. As we embrace it and all things we hold dear--families,
@@ -52,4 +52,6 @@ mouthpiece of the Lord, is President Ezra Taft Benson. I join with them in
 this testimony, for I know it all to be true with all my heart because of the
 life and the blessings that I have been granted. I bear you this testimony in
 the name of Jesus Christ, amen.
+
+## References
 

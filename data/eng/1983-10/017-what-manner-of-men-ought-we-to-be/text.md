@@ -3,8 +3,8 @@
 My beloved brethren, I have entitled my remarks "What Manner of Men Ought We
 to Be?" You will recognize this title as a variation of the question Jesus
 posed to the Nephites. (See [3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).) It is a
-timely question for each member of the priesthood of God to consider.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).) It is a timely question for
+each member of the priesthood of God to consider.
 
 This title is prompted by reports that have recently come to my attention
 about the shocking actions of some fathers and husbands, and their unrighteous
@@ -28,8 +28,8 @@ this verse in section 4 of the Doctrine and Covenants, which was given a year
 before the Church was organized:
 
 "Remember faith, virtue, knowledge, temperance, patience, brotherly kindness,
-godliness, charity, humility, diligence." ([D&amp;C
-4:6](https://www.lds.org/scriptures/dc-testament/dc/4.6?lang=eng#5).)
+godliness, charity, humility, diligence." ([D&amp;C 4:6](/scriptures/dc-
+testament/dc/4.6?lang=eng#5).)
 
 These are the virtues we are to emulate. This is the Christlike character.
 
@@ -37,19 +37,18 @@ Let us discuss a few of these traits.
 
 A priesthood holder is _virtuous._ Virtuous behavior implies that he has pure
 thoughts and clean actions. He will not lust in his heart, for to do so is to
-"deny the faith" and to lose the Spirit. (See [D&amp;C
-42:23](https://www.lds.org/scriptures/dc-testament/dc/42.23?lang=eng#22).)
+"deny the faith" and to lose the Spirit. (See [D&amp;C 42:23](/scriptures/dc-
+testament/dc/42.23?lang=eng#22).)
 
 He will not commit adultery "nor do anything like unto it." ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).) This
-means fornication, homosexual behavior, self-abuse, child molestation, or any
-other sexual perversions.
+59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).) This means fornication,
+homosexual behavior, self-abuse, child molestation, or any other sexual
+perversions.
 
 Virtue is akin to holiness--an attribute of godliness. A priesthood holder
 should actively seek for things that are virtuous and lovely and not that
 which is debasing or sordid. Virtue will "garnish [his] thoughts unceasingly."
-([D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44).)
+([D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44).)
 
 Whenever a priesthood holder departs from the path of virtue in any form or
 expression, he loses the Spirit and comes under Satan's power. He then
@@ -82,10 +81,9 @@ religion, he moves in daily life very close to the animal plane."
 
 A priesthood holder is to be _patient._ Patience is another form of self-
 control. It is the ability to postpone gratification and to bridle one's
-passions. (See [Alma
-28:12](https://www.lds.org/scriptures/bofm/alma/28.12?lang=eng#11).) A patient
-man does not engage in impetuous behavior in his relationships with loved
-ones, which he will later regret. Patience is composure under stress. A
+passions. (See [Alma 28:12](/scriptures/bofm/alma/28.12?lang=eng#11).) A
+patient man does not engage in impetuous behavior in his relationships with
+loved ones, which he will later regret. Patience is composure under stress. A
 patient man is understanding of others' faults.
 
 A priesthood bearer who is patient will be tolerant of the mistakes and
@@ -102,16 +100,16 @@ more patient, and more in control of our emotional feelings?
 The Apostle Paul used some vivid expressions to illustrate that a member of
 the Church must be different from the world. He commended us to "put on
 Christ," "put off ... the old man," and "put on the new man." (See [Gal.
-3:27](https://www.lds.org/scriptures/nt/gal/3.27?lang=eng#26); [Eph. 4:22,
-24](https://www.lds.org/scriptures/nt/eph/4.22%2C24?lang=eng#21).)
+3:27](/scriptures/nt/gal/3.27?lang=eng#26); [Eph. 4:22,
+24](/scriptures/nt/eph/4.22,24?lang=eng#21).)
 
 What does that mean to us as brethren of the priesthood?
 
 It means that we must become like Jesus Christ. We must emulate His way of
 life in our lives. Of necessity, we must be "born again" ([John
-3:3](https://www.lds.org/scriptures/nt/john/3.3?lang=eng#2)) and put aside
-worldly lusts and former behavior unsuited to the Christlike character. We
-must seek the Holy Ghost to temper our actions.
+3:3](/scriptures/nt/john/3.3?lang=eng#2)) and put aside worldly lusts and
+former behavior unsuited to the Christlike character. We must seek the Holy
+Ghost to temper our actions.
 
 How is this done?
 
@@ -122,8 +120,8 @@ priesthood blessing? Did they ask our Heavenly Father to temper their emotions
 by the influence of the Holy Ghost?"
 
 Jesus said we are to "hunger and thirst after righteousness." ([3 Ne.
-12:6](https://www.lds.org/scriptures/bofm/3-ne/12.6?lang=eng#5).) To do this,
-we must earnestly desire a righteous and virtuous life.
+12:6](/scriptures/bofm/3-ne/12.6?lang=eng#5).) To do this, we must earnestly
+desire a righteous and virtuous life.
 
 I cite for you an example of a man whose life was changed to a more Christlike
 life after he earnestly desired such a change and sought the Lord's help.
@@ -139,7 +137,7 @@ This message so impressed the king that he asked Aaron, "What shall I do that
 I may have this eternal life of which thou hast spoken? Yea, what shall I do
 that I may be born of God, having this wicked spirit rooted out of my breast,
 and receive his Spirit, that I may be filled with joy?" ([Alma
-22:15](https://www.lds.org/scriptures/bofm/alma/22.15?lang=eng#14).)
+22:15](/scriptures/bofm/alma/22.15?lang=eng#14).)
 
 Aaron instructed him to call upon God in faith to help him repent of all his
 sins. The king, anxious for his own soul, did as Aaron instructed:
@@ -147,8 +145,7 @@ sins. The king, anxious for his own soul, did as Aaron instructed:
 "O God," he prayed, "Aaron hath told me that there is a God; and if there is a
 God, and if thou art God, wilt thou make thyself known unto me, and _I will
 give away all my sins to know thee"._ ([Alma
-22:18](https://www.lds.org/scriptures/bofm/alma/22.18?lang=eng#17); italics
-added.)
+22:18](/scriptures/bofm/alma/22.18?lang=eng#17); italics added.)
 
 Now I want you, my brethren, to hear again this humble man's words: "I will
 give away _all my sins to know thee._"
@@ -161,12 +158,12 @@ so they can find the same joy.
 Attaining a righteous and virtuous life is within the capability of any one of
 us if we will earnestly seek for it. If we do not have these character traits,
 the Lord has told us that we should "ask, and ye shall receive; knock, and it
-shall be opened unto you." ([D&amp;C 4:7](https://www.lds.org/scriptures/dc-
+shall be opened unto you." ([D&amp;C 4:7](/scriptures/dc-
 testament/dc/4.7?lang=eng#6).)
 
 The Apostle Peter tells us that when we possess these traits we are not
 "unfruitful in the _knowledge_ of our Lord Jesus Christ." ([2 Pet.
-1:8](https://www.lds.org/scriptures/nt/2-pet/1.8?lang=eng#7); italics added.)
+1:8](/scriptures/nt/2-pet/1.8?lang=eng#7); italics added.)
 
 To _know_ the Savior, then, is to be _like_ Him.
 
@@ -179,8 +176,8 @@ The Lord said,
 
 "If any man will come after me, let him deny himself ... _all ungodliness, and
 every worldly lust,_ and keep my commandments." (See [Matt.
-16:24](https://www.lds.org/scriptures/nt/matt/16.24?lang=eng#23); JST, Matt.
-16:26; italics added.)
+16:24](/scriptures/nt/matt/16.24?lang=eng#23); JST, Matt. 16:26; italics
+added.)
 
 He expects His disciples to follow Him by their actions.
 
@@ -193,12 +190,12 @@ There are only two commandments where the Lord tells us to love someone with
 all our hearts. The first you are familiar with as the Great Commandment:
 "Thou shalt love the Lord thy God with all thy heart, and with all thy soul,
 and with all thy mind." ([Matt.
-22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36).)
+22:37](/scriptures/nt/matt/22.37?lang=eng#36).)
 
 The second commandment to love another with all our hearts is this: "Thou
 shalt love thy wife with all thy heart, and shalt _cleave unto her_ and none
-else." ([D&amp;C 42:22](https://www.lds.org/scriptures/dc-
-testament/dc/42.22?lang=eng#21); italics added.)
+else." ([D&amp;C 42:22](/scriptures/dc-testament/dc/42.22?lang=eng#21);
+italics added.)
 
 There are only two whom we are commanded to love with all our hearts--the Lord
 our God, and our wives!
@@ -224,8 +221,8 @@ can abide.
 
 You should always remember the statement of the Savior that "the spirit of
 contention is not of me, but is of the devil." ([3 Ne.
-11:29](https://www.lds.org/scriptures/bofm/3-ne/11.29?lang=eng#28).) Never
-allow the adversary to be an influence in your home.
+11:29](/scriptures/bofm/3-ne/11.29?lang=eng#28).) Never allow the adversary to
+be an influence in your home.
 
 Now, brethren, I have spoken plainly. I do not wish to offend anyone, but
 there needs to be a change of attitude and behavior on the part of some who
@@ -239,13 +236,12 @@ love to our wives and children?
 
 I opened with the question "What manner of men ought we to be?" You remember
 the Lord's answer is this: "Verily I say unto you, _even as I am_." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26); italics
-added.)
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26); italics added.)
 
 He expects us to be like Him. He expects us to demonstrate the fruits of the
 Spirit in our lives which are "love, joy, peace, longsuffering, gentleness,
 goodness, faith, meekness, temperance." ([Gal.
-5:22-23](https://www.lds.org/scriptures/nt/gal/5.22-23?lang=eng#21).)
+5:22-23](/scriptures/nt/gal/5.22-23?lang=eng#21).)
 
 These Christlike traits should characterize each priesthood holder and should
 permeate every Latter-day Saint home. It can be done and must be done if we
@@ -262,7 +258,7 @@ aside any action that is foreign to the nature of Christ.
 Let us resolve to apply the traits of our Lord and Savior in our own lives.
 
 Let us as priesthood brethren have His image in our countenances. (See [Alma
-5:14, 19](https://www.lds.org/scriptures/bofm/alma/5.14%2C19?lang=eng#13).)
+5:14, 19](/scriptures/bofm/alma/5.14,19?lang=eng#13).)
 
 Let us "put on Christ"!
 
@@ -270,4 +266,6 @@ He is our Savior, our Redeemer, and our Great Exemplar.
 
 This is my fervent witness as I invoke the blessings of God upon each one of
 you in the name of Jesus Christ, amen.
+
+## References
 

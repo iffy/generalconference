@@ -24,9 +24,8 @@ Remember well the Book of Mormon account of Helaman's two thousand stripling
 warriors and how the teachings of their mothers gave them strength and faith.
 These marvelous mothers taught them to put on the whole armor of God, to place
 their trust in the Lord, and to doubt not. By so doing, not one of these young
-men was lost. (See [Alma
-53:10-23](https://www.lds.org/scriptures/bofm/alma/53.10-23?lang=eng#9); [Alma
-56:41-56](https://www.lds.org/scriptures/bofm/alma/56.41-56?lang=eng#40).)
+men was lost. (See [Alma 53:10-23](/scriptures/bofm/alma/53.10-23?lang=eng#9);
+[Alma 56:41-56](/scriptures/bofm/alma/56.41-56?lang=eng#40).)
 
 My young brethren, I counsel each of you to draw close to your own mother.
 Respect her. Honor her. Receive your mother's counsel as she loves and
@@ -132,8 +131,8 @@ Young men, look forward to full-time missionary service. Show your love and
 commitment to the Lord by responding to His call to serve. Know that the real
 purpose in going into the mission field is to bring souls unto Christ, to
 teach and baptize our Heavenly Father's children so that you may rejoice with
-them in the kingdom of our Father. (See [D&amp;C
-18:15](https://www.lds.org/scriptures/dc-testament/dc/18.15?lang=eng#14).)
+them in the kingdom of our Father. (See [D&amp;C 18:15](/scriptures/dc-
+testament/dc/18.15?lang=eng#14).)
 
 Prepare now for your mission by doing these things we have discussed this
 evening.
@@ -189,16 +188,15 @@ fornication." (_Miracle of Forgiveness,_ pp. 65-66.)
 
 Young men of the Aaronic Priesthood, remember the scriptural injunction "Be ye
 clean who bear the vessels of the Lord." ([3 Ne.
-20:41](https://www.lds.org/scriptures/bofm/3-ne/20.41?lang=eng#40); [D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41); see
-also [Isa. 52:11](https://www.lds.org/scriptures/ot/isa/52.11?lang=eng#10).)
-Remember the story of Joseph in Egypt, who hearkened not to the wife of
-Potiphar and maintained his purity and virtue. (See [Gen.
-39:6-20](https://www.lds.org/scriptures/ot/gen/39.6-20?lang=eng#5).)
+20:41](/scriptures/bofm/3-ne/20.41?lang=eng#40); [D&amp;C 38:42](/scriptures
+/dc-testament/dc/38.42?lang=eng#41); see also [Isa.
+52:11](/scriptures/ot/isa/52.11?lang=eng#10).) Remember the story of Joseph in
+Egypt, who hearkened not to the wife of Potiphar and maintained his purity and
+virtue. (See [Gen. 39:6-20](/scriptures/ot/gen/39.6-20?lang=eng#5).)
 
 Consider carefully the words of the prophet Alma to his errant son, Corianton,
 "Forsake your sins, and go no more after the lusts of your eyes." ([Alma
-39:9](https://www.lds.org/scriptures/bofm/alma/39.9?lang=eng#8).)
+39:9](/scriptures/bofm/alma/39.9?lang=eng#8).)
 
 "The lusts of your eyes." In our day, what does that expression mean?
 
@@ -307,4 +305,6 @@ you bear. Be modern-day sons of Helaman. Put on the whole armor of God.
 
 "O youth of the noble birthright," with all my heart I say, "Carry on, carry
 on, carry on!" In the name of Jesus Christ, amen.
+
+## References
 

@@ -1,4 +1,4 @@
-# Our Youth: Modern Sons of Helaman
+# Our Youth:Modern Sons of Helaman
 
 A story is told in the Book of Mormon of 2,000 young men who responded to the
 call of their country to take up arms in its defense. Their leader's name was
@@ -11,7 +11,7 @@ men who were true at all times in whatsoever thing they were entrusted.
 
 "Yea, they were men of truth and soberness, for they had been taught to keep
 the commandments of God and to walk uprightly before him." ([Alma
-53:20-21](https://www.lds.org/scriptures/bofm/alma/53.20-21?lang=eng#19).)
+53:20-21](/scriptures/bofm/alma/53.20-21?lang=eng#19).)
 
 The lives of these exemplary young men are an inspiration to the youth of
 today. They displayed the traits of character needed so desperately today.
@@ -212,4 +212,6 @@ to keep the commandments of God and to walk uprightly before him."
 
 May the Lord bless this royal generation that they may achieve that which he
 has foreordained for them, in the name of Jesus Christ. Amen.
+
+## References
 

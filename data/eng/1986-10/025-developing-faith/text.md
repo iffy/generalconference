@@ -33,19 +33,17 @@ seventeenth chapter of 1 Nephi:
 "And it came to pass that the Lord spake unto me [Nephi], saying: Thou shalt
 construct a ship, after the manner which I shall show thee, that I may carry
 thy people across these waters" ([1 Ne.
-17:8](https://www.lds.org/scriptures/bofm/1-ne/17.8?lang=eng#7)).
+17:8](/scriptures/bofm/1-ne/17.8?lang=eng#7)).
 
 Listen to the answer of this great Nephi:
 
 "And I said: Lord, whither shall I go that I may find ore to molten, that I
 may make tools to construct the ship after the manner which thou hast shown
-unto me?" ([1 Ne.
-17:9](https://www.lds.org/scriptures/bofm/1-ne/17.9?lang=eng#8)).
+unto me?" ([1 Ne. 17:9](/scriptures/bofm/1-ne/17.9?lang=eng#8)).
 
 And when his brothers realized that he was actually going to set about to
 build a ship, they said: "Why, you're a fool. You don't know how to construct
-a ship" (see [1 Ne.
-17:17](https://www.lds.org/scriptures/bofm/1-ne/17.17?lang=eng#16)).
+a ship" (see [1 Ne. 17:17](/scriptures/bofm/1-ne/17.17?lang=eng#16)).
 
 And then Nephi set about to teach them a great lesson.
 
@@ -56,22 +54,21 @@ recount the things that had happened that they all knew were a part of their
 heritage. He went back to the coming of the children of Israel out of Egypt.
 He said: "You know what happened. There they were right against the Red Sea
 with the Egyptians coming, and the Lord saved them" (see [1 Ne.
-17:26-27](https://www.lds.org/scriptures/bofm/1-ne/17.26-27?lang=eng#25)).
+17:26-27](/scriptures/bofm/1-ne/17.26-27?lang=eng#25)).
 
 Then he goes on and talks about how they received manna in the wilderness, how
 they received water from a rock, how the Lord led them by a pillar of cloud in
 the daytime and a light at night, and how when they crossed the Jordan, it
 stopped when the feet of the priests touched the water (see [1 Ne. 17:28-30,
-32](https://www.lds.org/scriptures/bofm/1-ne/17.28-30%2C32?lang=eng#27); see
-also [Ex. 13:21](https://www.lds.org/scriptures/ot/ex/13.21?lang=eng#20),
-[Josh. 3:15-17](https://www.lds.org/scriptures/ot/josh/3.15-17?lang=eng#14)).
-And then Nephi tells how the Lord scattered the people; and then how, when
-they came among the flying serpents, Moses fashioned a brazen serpent, raised
-it, and all they had to do was look at that serpent, and they would be healed.
-The account says that many perished because they wouldn't even look (see [1
-Ne. 17:32,
-41](https://www.lds.org/scriptures/bofm/1-ne/17.32%2C41?lang=eng#31); see also
-[Num. 21:8-9](https://www.lds.org/scriptures/ot/num/21.8-9?lang=eng#7)).
+32](/scriptures/bofm/1-ne/17.28-30,32?lang=eng#27); see also [Ex.
+13:21](/scriptures/ot/ex/13.21?lang=eng#20), [Josh.
+3:15-17](/scriptures/ot/josh/3.15-17?lang=eng#14)). And then Nephi tells how
+the Lord scattered the people; and then how, when they came among the flying
+serpents, Moses fashioned a brazen serpent, raised it, and all they had to do
+was look at that serpent, and they would be healed. The account says that many
+perished because they wouldn't even look (see [1 Ne. 17:32,
+41](/scriptures/bofm/1-ne/17.32,41?lang=eng#31); see also [Num.
+21:8-9](/scriptures/ot/num/21.8-9?lang=eng#7)).
 
 He was trying to do what you and I as parents need to do with our families
 today--to develop faith in the Lord. And the way to do it is to recount the
@@ -89,7 +86,7 @@ the records of the twenty-four plates, and this is what he records:
 
 "And it came to pass that Ether did prophesy great and marvelous things unto
 the people, which they did not believe, because they saw them not" ([Ether
-12:5](https://www.lds.org/scriptures/bofm/ether/12.5?lang=eng#4)).
+12:5](/scriptures/bofm/ether/12.5?lang=eng#4)).
 
 They couldn't see them; they wouldn't believe them. They needed to be taught
 that _believing_ is seeing. And then Moroni interpolates here:
@@ -98,8 +95,7 @@ that _believing_ is seeing. And then Moroni interpolates here:
 show unto the world that faith is things which are hoped for and not seen;
 wherefore, dispute not because ye see not, for ye receive no witness until
 _after_ the trial of your faith" ([Ether
-12:6](https://www.lds.org/scriptures/bofm/ether/12.6?lang=eng#5); italics
-added).
+12:6](/scriptures/bofm/ether/12.6?lang=eng#5); italics added).
 
 We need to learn that. We can't have just faith. We cannot have the miracle
 until _after_ the exercise of faith. Moroni sets forth on the next page or so
@@ -174,4 +170,6 @@ Heavenly Father and about the meaning and purpose of the gospel of Jesus
 Christ. I am grateful for Joseph Smith. I know he was a prophet, and I know
 that President Ezra Taft Benson is a living prophet today. I bear that witness
 in the name of Jesus Christ, amen.
+
+## References
 

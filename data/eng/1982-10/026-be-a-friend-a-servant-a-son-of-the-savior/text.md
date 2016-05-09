@@ -12,16 +12,15 @@ Christ as the Redeemer to whom we look for the remission of our sins. We have
 a wealth of information of tremendous value to all Christian churches. We do
 not diminish or tear down the faith others have in Christ, but seek only to
 share with them our additional knowledge of the Lamb, the Shepherd, the Holy
-One of Israel (see [Ps.
-71:22](https://www.lds.org/scriptures/ot/ps/71.22?lang=eng#21))--for their
-benefit and salvation.
+One of Israel (see [Ps. 71:22](/scriptures/ot/ps/71.22?lang=eng#21))--for
+their benefit and salvation.
 
 Like Nephi of old, "we believe in Christ, we ... look forward with steadfastness
 unto Christ. ... We are made alive in Christ because of our faith. ... We talk of
 Christ, we rejoice in Christ, we preach of Christ. ... We ... look forward unto
 that life which is in Christ." ([2 Ne.
-25:24-27](https://www.lds.org/scriptures/bofm/2-ne/25.24-27?lang=eng#23).) Can
-anyone doubt that we are Christians in the full sense of the word?
+25:24-27](/scriptures/bofm/2-ne/25.24-27?lang=eng#23).) Can anyone doubt that
+we are Christians in the full sense of the word?
 
 Some time ago, I was on an airplane over the Colombian jungle of South
 America. I had been telling my seat companion about the Church. At one point
@@ -104,7 +103,7 @@ King Benjamin made this clear:
 
 "For how knoweth a man the master whom he has not served, and who is a
 stranger unto him, and is far from the thoughts and intents of his heart?"
-([Mosiah 5:13](https://www.lds.org/scriptures/bofm/mosiah/5.13?lang=eng#12).)
+([Mosiah 5:13](/scriptures/bofm/mosiah/5.13?lang=eng#12).)
 
 How can we possibly be a servant to the Savior if we have not served Him, if
 we are strangers to Him, if we keep Him far from the daily thoughts and
@@ -133,10 +132,10 @@ Lord in an inspired manner. His answer disarmed them, impressed them. As I
 remember, he said, "We, together with the entire Christian world, abhor war."
 And he went on, "The Savior said, 'In the world ye shall have tribulations.'
 But He also said, 'In me ye might have peace'." (See [John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).) Continuing,
-President Lee quoted from John 14: "'Peace I leave with you, my peace I give
-unto you: not as the world giveth, give I [peace] unto you.'" ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+16:33](/scriptures/nt/john/16.33?lang=eng#32).) Continuing, President Lee
+quoted from John 14: "'Peace I leave with you, my peace I give unto you: not
+as the world giveth, give I [peace] unto you.'" ([John
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 And then President Lee taught a great principle. And he said to them: "The
 Savior was not speaking of the kind of peace which is won with armies or
@@ -161,8 +160,7 @@ King Benjamin tells us:
 children of Christ, his sons, and his daughters; for behold, this day he hath
 spiritually begotten you; for ye say that your hearts are changed through
 faith on his name; therefore, ye are born of him and have become his sons and
-his daughters." ([Mosiah
-5:7](https://www.lds.org/scriptures/bofm/mosiah/5.7?lang=eng#6).)
+his daughters." ([Mosiah 5:7](/scriptures/bofm/mosiah/5.7?lang=eng#6).)
 
 I pray that the entire membership of this church, The Church of Jesus Christ
 of Latter-day Saints, will so live that if there are any who would accuse us
@@ -175,4 +173,6 @@ waters of baptism.
 
 To this I testify humbly and with love, in the name of Jesus Christ, our
 Master and Redeemer, amen.
+
+## References
 

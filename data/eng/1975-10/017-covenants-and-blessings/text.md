@@ -9,9 +9,8 @@ From the scriptures we learn that all of us existed as spirits, literally
 spirit children of our Father in heaven, before we were born in the flesh. All
 were not of equal intelligence; some were more obedient and faithful than
 others, and as a result they merited special blessings and were chosen for
-very special missions here on earth. (See [Abr. 3:11-12, 14, 16-19, 22-23](htt
-ps://www.lds.org/scriptures/pgp/abr/3.11-12%2C14%2C16-19%2C22-23?lang=eng#10).
-)
+very special missions here on earth. (See [Abr. 3:11-12, 14, 16-19,
+22-23](/scriptures/pgp/abr/3.11-12,14,16-19,22-23?lang=eng#10).)
 
 From the scriptures we can identify some of these chosen individuals, starting
 with Michael who was referred to as the Archangel, one of high rank in the
@@ -23,31 +22,25 @@ the Messiah, and that his posterity should remain while the earth should
 stand. Another one was Noah, who was chosen to be the second father of the
 human race here on earth, after the flood. Another was Shem, the chosen son of
 Noah; and also Abraham, Isaac, and Jacob. (See [Abr.
-1:3](https://www.lds.org/scriptures/pgp/abr/1.3?lang=eng#2); [Moses
-1:34](https://www.lds.org/scriptures/pgp/moses/1.34?lang=eng#33); [Moses 6:8,
-22,
-45-46](https://www.lds.org/scriptures/pgp/moses/6.8%2C22%2C45-46?lang=eng#7);
-[Luke 3:8](https://www.lds.org/scriptures/nt/luke/3.8?lang=eng#7); [D&amp;C
-29:26](https://www.lds.org/scriptures/dc-testament/dc/29.26?lang=eng#25);
-[D&amp;C 88:112-115](https://www.lds.org/scriptures/dc-
-testament/dc/88.112-115?lang=eng#111); [D&amp;C
-78:16](https://www.lds.org/scriptures/dc-testament/dc/78.16?lang=eng#15);
-[D&amp;C 107:53-56](https://www.lds.org/scriptures/dc-
-testament/dc/107.53-56?lang=eng#52); [D&amp;C
-116](https://www.lds.org/scriptures/dc-testament/dc/116.title?lang=eng);
-_Teachings of the Prophet Joseph Smith,_ p. 157.)
+1:3](/scriptures/pgp/abr/1.3?lang=eng#2); [Moses
+1:34](/scriptures/pgp/moses/1.34?lang=eng#33); [Moses 6:8, 22,
+45-46](/scriptures/pgp/moses/6.8,22,45-46?lang=eng#7); [Luke
+3:8](/scriptures/nt/luke/3.8?lang=eng#7); [D&amp;C 29:26](/scriptures/dc-
+testament/dc/29.26?lang=eng#25); [D&amp;C 88:112-115](/scriptures/dc-
+testament/dc/88.112-115?lang=eng#111); [D&amp;C 78:16](/scriptures/dc-
+testament/dc/78.16?lang=eng#15); [D&amp;C 107:53-56](/scriptures/dc-
+testament/dc/107.53-56?lang=eng#52); [D&amp;C 116](/scriptures/dc-
+testament/dc/116?lang=eng); _Teachings of the Prophet Joseph Smith,_ p. 157.)
 
 In the midst of idolatry, Abraham continued to worship the true God and proved
 true in every test the Lord gave him; therefore, the Lord made a sacred
 covenant to bless Abraham and his faithful posterity to the latest generation.
 Abraham "became a rightful heir, a High Priest, holding the right belonging to
-the fathers." ([Abr.
-1:2](https://www.lds.org/scriptures/pgp/abr/1.2?lang=eng#1).) This right to
+the fathers." ([Abr. 1:2](/scriptures/pgp/abr/1.2?lang=eng#1).) This right to
 the priesthood continued on down through the lineage of the faithful
 "according to the appointment of God unto the fathers concerning the seed."
-([Abr. 1:4](https://www.lds.org/scriptures/pgp/abr/1.4?lang=eng#3); see also
-[D&amp;C 84:14-16](https://www.lds.org/scriptures/dc-
-testament/dc/84.14-16?lang=eng#13).)
+([Abr. 1:4](/scriptures/pgp/abr/1.4?lang=eng#3); see also [D&amp;C
+84:14-16](/scriptures/dc-testament/dc/84.14-16?lang=eng#13).)
 
 The question might be asked, why were certain ones chosen to bear the
 priesthood and represent God in the earth as his special ministers? The
@@ -61,15 +54,14 @@ being left to choose good or evil; therefore they having chosen good, and
 exercising exceeding great faith, are called with a holy calling. ...
 
 "And thus they have been called to this holy calling on account of their
-faith." ([Alma
-13:3-4](https://www.lds.org/scriptures/bofm/alma/13.3-4?lang=eng#2).)
+faith." ([Alma 13:3-4](/scriptures/bofm/alma/13.3-4?lang=eng#2).)
 
 Abraham, therefore, because of his premortal faithfulness, was permitted to be
 born on earth through the lineage of faithful fathers also entitled to bear
 the priesthood. Abraham having added to his previous good works by proving
 himself preeminently faithful in all the tests of earth life, the Lord made
 with him this solemn covenant as recorded in [Abr. 2:8-9,
-11](https://www.lds.org/scriptures/pgp/abr/2.8-9%2C11?lang=eng#7):
+11](/scriptures/pgp/abr/2.8-9,11?lang=eng#7):
 
 "My name is Jehovah, and I know the end from the beginning; therefore my hand
 shall be over thee.
@@ -85,15 +77,14 @@ with the blessings of the Gospel, which are the blessings of salvation, even
 of life eternal."
 
 The Lord renewed this covenant with Isaac, the faithful son of Abraham (see
-[Gen. 17:19-21](https://www.lds.org/scriptures/ot/gen/17.19-21?lang=eng#18);
-[Gen. 24:60](https://www.lds.org/scriptures/ot/gen/24.60?lang=eng#59); [Gen.
-25:11](https://www.lds.org/scriptures/ot/gen/25.11?lang=eng#10); [Gen.
-26:1-4](https://www.lds.org/scriptures/ot/gen/26.1-4?lang=eng#0)), and
-confirmed the blessings of Abraham and Isaac upon Jacob. Jacob was renamed
-Israel by the Lord, and his posterity have been known as the children of
-Israel, the chosen people of the Lord. Their special mission is to bear the
-priesthood and keep alive in the world the knowledge of the true God and the
-true gospel.
+[Gen. 17:19-21](/scriptures/ot/gen/17.19-21?lang=eng#18); [Gen.
+24:60](/scriptures/ot/gen/24.60?lang=eng#59); [Gen.
+25:11](/scriptures/ot/gen/25.11?lang=eng#10); [Gen.
+26:1-4](/scriptures/ot/gen/26.1-4?lang=eng#0)), and confirmed the blessings of
+Abraham and Isaac upon Jacob. Jacob was renamed Israel by the Lord, and his
+posterity have been known as the children of Israel, the chosen people of the
+Lord. Their special mission is to bear the priesthood and keep alive in the
+world the knowledge of the true God and the true gospel.
 
 The Lord's covenant with Abraham included the promise that, in addition to
 Abraham's direct descendants, all who would receive the gospel from that time
@@ -101,7 +92,7 @@ forth should also become Abraham's seed by adoption, and that his blood should
 be mixed among the nations to bless them with the privileges of the gospel.
 
 The Lord has revealed in our day that we are the children of Israel, and of
-the seed of Abraham (see [D&amp;C 103:17](https://www.lds.org/scriptures/dc-
+the seed of Abraham (see [D&amp;C 103:17](/scriptures/dc-
 testament/dc/103.17?lang=eng#16)), and by virtue of that descent and by
 obedience to all the ordinances of the gospel we are entitled to the blessings
 of our fathers--Abraham, Isaac, and Jacob.
@@ -128,19 +119,16 @@ mouths of all the holy prophets since the world began.
 
 "Therefore, blessed are ye if ye continue in my goodness, a light unto the
 Gentiles, and through this priesthood, a savior unto my people Israel."
-([D&amp;C 86:8-11](https://www.lds.org/scriptures/dc-
-testament/dc/86.8-11?lang=eng#7).)
+([D&amp;C 86:8-11](/scriptures/dc-testament/dc/86.8-11?lang=eng#7).)
 
 Priesthood authority and rights carry covenant obligations. Those ordained to
 the Aaronic Priesthood are to observe the duties of their offices as given in
-the covenants. (See [D&amp;C 20:46-60](https://www.lds.org/scriptures/dc-
-testament/dc/20.46-60?lang=eng#45); [D&amp;C 107:13-14,
-85-88](https://www.lds.org/scriptures/dc-
-testament/dc/107.13-14%2C85-88?lang=eng#12).) Those ordained to the higher or
+the covenants. (See [D&amp;C 20:46-60](/scriptures/dc-
+testament/dc/20.46-60?lang=eng#45); [D&amp;C 107:13-14, 85-88](/scriptures/dc-
+testament/dc/107.13-14,85-88?lang=eng#12).) Those ordained to the higher or
 Melchizedek Priesthood enter into a sacred covenant which opens the way for
 them to inherit "all that [the] Father hath." (See the oath and covenant of
-the Melchizedek Priesthood as explained in [D&amp;C
-84:33-41](https://www.lds.org/scriptures/dc-
+the Melchizedek Priesthood as explained in [D&amp;C 84:33-41](/scriptures/dc-
 testament/dc/84.33-41?lang=eng#32).)
 
 The new and everlasting covenant is the fulness of the gospel of Jesus Christ
@@ -156,22 +144,20 @@ great blessing.
 
 The law of the Sabbath was given to God's people throughout their generations
 for a perpetual covenant as set forth in Exodus (see [Ex.
-31:16](https://www.lds.org/scriptures/ot/ex/31.16?lang=eng#15)) and which
-carried promises of both spiritual and temporal blessings (see [D&amp;C
-59:9-20](https://www.lds.org/scriptures/dc-testament/dc/59.9-20?lang=eng#8)).
+31:16](/scriptures/ot/ex/31.16?lang=eng#15)) and which carried promises of
+both spiritual and temporal blessings (see [D&amp;C 59:9-20](/scriptures/dc-
+testament/dc/59.9-20?lang=eng#8)).
 
 By the ordinance of the sacrament, members renew their covenants with the Lord
 and receive again the assurance that by their faith and worthiness they will
 have the Holy Spirit to be with them to bless and guide them to eternal life.
-(See [D&amp;C 20:77, 79](https://www.lds.org/scriptures/dc-
-testament/dc/20.77%2C79?lang=eng#76); [3 Ne. 18:7,
-11](https://www.lds.org/scriptures/bofm/3-ne/18.7%2C11?lang=eng#6); [Moro.
-4:3](https://www.lds.org/scriptures/bofm/moro/4.3?lang=eng#2); [Moro.
-5:2](https://www.lds.org/scriptures/bofm/moro/5.2?lang=eng#1).)
+(See [D&amp;C 20:77, 79](/scriptures/dc-testament/dc/20.77,79?lang=eng#76); [3
+Ne. 18:7, 11](/scriptures/bofm/3-ne/18.7,11?lang=eng#6); [Moro.
+4:3](/scriptures/bofm/moro/4.3?lang=eng#2); [Moro.
+5:2](/scriptures/bofm/moro/5.2?lang=eng#1).)
 
 Even the Word of Wisdom was given for a principle with a promise. (See
-[D&amp;C 89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+[D&amp;C 89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 In our temples we learn of the great truths of the gospel. The temple
 endowment provides information concerning the story of man on earth and the
@@ -241,4 +227,6 @@ a prophet of God, and other prophets of God, who are sustained as prophets,
 seers, and revelators, are at his side. Let us listen to our prophet's voice.
 Let us be faithful and true to the covenants we enter into, I humbly pray in
 the name of Jesus Christ. Amen.
+
+## References
 

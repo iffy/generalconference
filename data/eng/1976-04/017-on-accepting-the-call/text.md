@@ -59,3 +59,5 @@ blessing of faith.
 I know that Joseph Smith is a prophet of God, that President Kimball is a
 prophet of God. I bear this testimony in the name of Jesus Christ. Amen.
 
+## References
+

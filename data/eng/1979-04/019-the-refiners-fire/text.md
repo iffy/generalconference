@@ -77,24 +77,21 @@ understand that such refining is part of the perfection process.
 In our extremities, it is possible to become born again, born anew, renewed in
 heart and spirit. We no longer ride with the flow of the crowd, but instead we
 enjoy the promise of Isaiah to be renewed in our strength and "mount up with
-wings as eagles" ([Isa.
-40:31](https://www.lds.org/scriptures/ot/isa/40.31?lang=eng#30)).
+wings as eagles" ([Isa. 40:31](/scriptures/ot/isa/40.31?lang=eng#30)).
 
 The proving of one's faith goes before the witnessing, for Moroni testified,
 "Ye receive no witness until after the trial of your faith" ([Ether
-12:6](https://www.lds.org/scriptures/bofm/ether/12.6?lang=eng#5)). This trial
-of faith can become a priceless experience. Stated Peter, "That the trial of
-your faith, being much more precious than of gold that perisheth, though it be
-tried with fire, might be found unto praise and honour and glory at the
-appearing of Jesus Christ" ([1 Pet.
-1:7](https://www.lds.org/scriptures/nt/1-pet/1.7?lang=eng#6)). Trials and
+12:6](/scriptures/bofm/ether/12.6?lang=eng#5)). This trial of faith can become
+a priceless experience. Stated Peter, "That the trial of your faith, being
+much more precious than of gold that perisheth, though it be tried with fire,
+might be found unto praise and honour and glory at the appearing of Jesus
+Christ" ([1 Pet. 1:7](/scriptures/nt/1-pet/1.7?lang=eng#6)). Trials and
 adversity can be preparatory to becoming born anew.
 
 A rebirth out of spiritual adversity causes us to become new creatures. From
 the book of Mosiah we learn that all mankind must be born again--born of God,
 changed, redeemed, and uplifted--to become the sons and daughters of God. (See
-[Mosiah
-27:24-27](https://www.lds.org/scriptures/bofm/mosiah/27.24-27?lang=eng#23).)
+[Mosiah 27:24-27](/scriptures/bofm/mosiah/27.24-27?lang=eng#23).)
 
 President Marion G. Romney, speaking for the Lord, has said of this marvelous
 power: "The effect upon each person's life is likewise similar. No person
@@ -131,13 +128,13 @@ ever will, and is therefore the great source of sympathy and consolation."
 (_Improvement Era,_ Nov. 1918, p. 7.)
 
 Isaiah, before the Savior's birth, referred to him as "a man of sorrows"
-([Isa. 53:3](https://www.lds.org/scriptures/ot/isa/53.3?lang=eng#2)). Speaking
-in the Doctrine and Covenants of himself, the Savior said:
+([Isa. 53:3](/scriptures/ot/isa/53.3?lang=eng#2)). Speaking in the Doctrine
+and Covenants of himself, the Savior said:
 
 "Which suffering caused myself, even God, the greatest of all, to tremble
 because of pain, and to bleed at every pore, and to suffer both body and
 spirit--and would that I might not drink the bitter cup, and shrink" ([D&amp;C
-19:18](https://www.lds.org/scriptures/dc-testament/dc/19.18?lang=eng#17)).
+19:18](/scriptures/dc-testament/dc/19.18?lang=eng#17)).
 
 Some are prone to feel that their afflictions are punishment. Roy Doxey
 states:
@@ -158,8 +155,7 @@ Paul understood this perfectly. When referring to the Savior, he said:
 suffered;
 
 "And being made perfect, he became the author of eternal salvation unto all
-them that obey him." ([Heb.
-5:8-9](https://www.lds.org/scriptures/nt/heb/5.8-9?lang=eng#7)).
+them that obey him." ([Heb. 5:8-9](/scriptures/nt/heb/5.8-9?lang=eng#7)).
 
 For some, the suffering is extraordinary.
 
@@ -224,4 +220,6 @@ Son of the Living God. This is his holy work and glory. This is his church. It
 is true. I am most grateful for this sacred knowledge. It is my cherished
 privilege and duty to so testify, which I humbly do. In the hallowed name of
 the Lord Jesus Christ, amen.
+
+## References
 

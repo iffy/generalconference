@@ -46,7 +46,7 @@ media, friends, or other influences will try to pull you away from what is
 right. Choose to stand with the Lord. Join with the valiant prophet Joshua,
 who declared, "Choose you this day whom ye will serve; ... but as for me and my
 house, we will serve the Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 To win this most important game of all, you need to make _five points._ Let me
 be your coach for a few minutes. We will talk about plays and assignments--
@@ -63,9 +63,8 @@ money--for a mission instead of a car.
 
 It also means sacrificing the things of the world. The prophet Moroni tells
 us, "Come unto Christ, and be perfected in him, and _deny yourselves of all
-ungodliness._" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31); italics
-added.)
+ungodliness._" ([Moro. 10:32](/scriptures/bofm/moro/10.32?lang=eng#31);
+italics added.)
 
 The hymn tells us, "Sacrifice brings forth the blessings of heaven." (_Hymns,_
 1985, no. 27.) Do you know that sacrifice purifies our spirits and brings us
@@ -135,8 +134,7 @@ Improvement Era, 1953, p. 146.)
 In the Word of Wisdom, the Lord tells us, "In consequence of evils and designs
 which do and will exist in the hearts of conspiring men in the last days, I
 have warned you, and forewarn you, by giving unto you this word of wisdom by
-revelation." ([D&amp;C 89:4](https://www.lds.org/scriptures/dc-
-testament/dc/89.4?lang=eng#3).)
+revelation." ([D&amp;C 89:4](/scriptures/dc-testament/dc/89.4?lang=eng#3).)
 
 Conspiring, evil men want to make money by selling drugs, alcohol, and
 tobacco. They don't care how much death and pain come as a result. Beware of
@@ -154,9 +152,9 @@ influenced by whether you lead a pure and chaste life.
 
 Alma taught his son Shiblon the importance of being morally clean. He said,
 "See that ye bridle all your passions, that ye may be filled with love."
-([Alma 38:12](https://www.lds.org/scriptures/bofm/alma/38.12?lang=eng#11).)
-That is an interesting paradox--true love comes when you bridle your passions,
-when you use self-control.
+([Alma 38:12](/scriptures/bofm/alma/38.12?lang=eng#11).) That is an
+interesting paradox--true love comes when you bridle your passions, when you
+use self-control.
 
 You should avoid anything that causes you to lose control of yourself or to
 lose concern for the welfare of another person.
@@ -220,4 +218,6 @@ You priesthood leaders and fathers, you are the home-field coaches. Review
 these points with these, your sons. Discuss them in depth. Help these young
 men work on them. Making these points will help lead them to joy and happiness
 and exaltation. Of this I testify, in the name of Jesus Christ, amen.
+
+## References
 

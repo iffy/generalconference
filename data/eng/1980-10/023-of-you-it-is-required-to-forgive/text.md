@@ -32,8 +32,7 @@ essence of the gospel of Jesus Christ. He taught it. He exemplified it as none
 other has exemplified it. In the time of his agony on the cross of Calvary,
 with vile and hateful accusers before him, they who had brought him to this
 terrible crucifixion, he cried out, "Father, forgive them; for they know not
-what they do" ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33)).
+what they do" ([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33)).
 
 None of us is called on to forgive so generously, but each of us is under a
 divinely spoken obligation to reach out with pardon and mercy. The Lord has
@@ -49,8 +48,8 @@ for there remaineth in him the greater sin.
 forgive all men.
 
 "And ye ought to say in your hearts--let God judge between me and thee, and
-reward thee according to thy deeds." ([D&amp;C
-64:8-11](https://www.lds.org/scriptures/dc-testament/dc/64.8-11?lang=eng#7).)
+reward thee according to thy deeds." ([D&amp;C 64:8-11](/scriptures/dc-
+testament/dc/64.8-11?lang=eng#7).)
 
 How much we have need of the application of this God-given principle and its
 companion principle, repentance, of which President Romney has so persuasively
@@ -66,12 +65,11 @@ retribution.
 In that first year of the organization of the Church, when the Prophet Joseph
 Smith was repeatedly arrested and tried on false charges by those who sought
 to injure him, the Lord said to him through revelation, "Whosoever shall go to
-law with thee shall be cursed by the law" ([D&amp;C
-24:17](https://www.lds.org/scriptures/dc-testament/dc/24.17?lang=eng#16)). I
-have seen that in our time among some of those who have vindictively pursued
-their nurtured grudges. Even among some of those who win their contests there
-appears to be little peace of mind, and while they may have gained dollars,
-they have lost something more precious.
+law with thee shall be cursed by the law" ([D&amp;C 24:17](/scriptures/dc-
+testament/dc/24.17?lang=eng#16)). I have seen that in our time among some of
+those who have vindictively pursued their nurtured grudges. Even among some of
+those who win their contests there appears to be little peace of mind, and
+while they may have gained dollars, they have lost something more precious.
 
 Guy de Maupassant, the French writer, tells the story of a peasant named
 Hauchecome who came on market day to the village. While walking through the
@@ -108,10 +106,9 @@ nursing of a grudge. There is no happiness in living for the day when you can
 "get even."
 
 Paul speaks of "the weak and beggarly elements" of our lives (see [Gal.
-4:9](https://www.lds.org/scriptures/nt/gal/4.9?lang=eng#8)). Is there anything
-more weak or beggarly than the disposition to wear out one's life in an
-unending round of bitter thoughts and scheming gestures toward those who may
-have affronted us?
+4:9](/scriptures/nt/gal/4.9?lang=eng#8)). Is there anything more weak or
+beggarly than the disposition to wear out one's life in an unending round of
+bitter thoughts and scheming gestures toward those who may have affronted us?
 
 Joseph F. Smith presided over the Church at a time of great bitterness toward
 our people. He was the target of vile accusations, of a veritable drumbeat of
@@ -150,18 +147,16 @@ peace of Him who said:
 forgive you:
 
 "But if you forgive not men there trespasses, neither will your Father forgive
-your trespasses" ([Matt.
-6:14-15](https://www.lds.org/scriptures/nt/matt/6.14-15?lang=eng#13)).
+your trespasses" ([Matt. 6:14-15](/scriptures/nt/matt/6.14-15?lang=eng#13)).
 
 I know of no more beautiful story in all literature than that found in the
 fifteenth chapter of Luke. It is the story of a repentant son and a forgiving
 father. It is the story of the son who wasted his inheritance in riotous
 living, rejecting his father's counsel, spurning those who loved him. When he
 had spent all, he was hungry and friendless, and "when he came to himself"
-([Luke 15:17](https://www.lds.org/scriptures/nt/luke/15.17?lang=eng#16)), he
-turned back to his father, who, on seeing him afar off, "ran, and fell on his
-neck, and kissed him" ([Luke
-15:20](https://www.lds.org/scriptures/nt/luke/15.20?lang=eng#19)).
+([Luke 15:17](/scriptures/nt/luke/15.17?lang=eng#16)), he turned back to his
+father, who, on seeing him afar off, "ran, and fell on his neck, and kissed
+him" ([Luke 15:20](/scriptures/nt/luke/15.20?lang=eng#19)).
 
 I ask you to read that story. Every parent ought to read it again and again.
 It is large enough to encompass every household, and enough larger than that
@@ -188,14 +183,12 @@ because of pain, and to bleed at every pore, and to suffer both body and
 spirit. ...
 
 "Learn of me, and listen to my words; walk in the meekness of my Spirit, and
-you shall have peace in me." ([D&amp;C 19:15-18,
-23](https://www.lds.org/scriptures/dc-
-testament/dc/19.15-18%2C23?lang=eng#14).)
+you shall have peace in me." ([D&amp;C 19:15-18, 23](/scriptures/dc-
+testament/dc/19.15-18,23?lang=eng#14).)
 
 Such is the commandment, and such is the promise of him who in his great
 exemplary prayer, pleaded, "Father, ... forgive our debts, as we forgive our
-debtors" (see [Matt. 6:9,
-12](https://www.lds.org/scriptures/nt/matt/6.9%2C12?lang=eng#8)).
+debtors" (see [Matt. 6:9, 12](/scriptures/nt/matt/6.9,12?lang=eng#8)).
 
 Are not the words of Lincoln beautiful which he spoke out of the tragedy of a
 terrible civil war: "With malice toward none, with charity for all, ... let us ...
@@ -208,14 +201,16 @@ words, by stubbornly cultivated grievances, by scheming plans to "get even"
 with those who may have wronged us. We all have a little of this spirit of
 revenge in us. Fortunately we all have the power to rise above it, if we will
 "clothe [ourselves] with the bond of charity, as with a mantle, which is the
-bond of perfectness and peace" ([D&amp;C
-88:125](https://www.lds.org/scriptures/dc-testament/dc/88.125?lang=eng#124)).
+bond of perfectness and peace" ([D&amp;C 88:125](/scriptures/dc-
+testament/dc/88.125?lang=eng#124)).
 
 "To err is human, to forgive divine." (Alexander Pope, _An Essay on
 Criticism,_ 2:1711). There is no peace in harboring old grudges. There is no
 peace in reflecting on the pain of old wounds. There is peace only in
 repentance and forgiveness. This is the sweet peace of the Christ, who said,
 "Blessed are the peacemakers; for they shall be called the children of God"
-([Matt. 5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8)). Of that
-I testify in the holy name of Jesus Christ, amen.
+([Matt. 5:9](/scriptures/nt/matt/5.9?lang=eng#8)). Of that I testify in the
+holy name of Jesus Christ, amen.
+
+## References
 

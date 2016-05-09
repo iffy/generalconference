@@ -1,4 +1,4 @@
-# Chastity: The Source of True Manhood
+# Chastity:The Source of True Manhood
 
 One day I sat with a handsome, young, prospective missionary as he poured out
 his sad story through sobs of sorrow, anguish, and remorse. I wanted to cry
@@ -21,8 +21,8 @@ had led him down that "primrose path," seemingly oblivious to the pain they
 had caused, listening to Satan's siren song that chastity is outdated.
 
 "Thou shalt not commit adultery," Jehovah commanded, "and he that committeth
-adultery, and repenteth not, shall be cast out." ([D&amp;C
-42:24](https://www.lds.org/scriptures/dc-testament/dc/42.24?lang=eng#23).)
+adultery, and repenteth not, shall be cast out." ([D&amp;C 42:24](/scriptures
+/dc-testament/dc/42.24?lang=eng#23).)
 
 My beloved young brethren, despite what the world would have us believe, God
 has never changed that law.
@@ -47,8 +47,7 @@ will come just as certainly as night follows day." (_Messages,_ 6:176.)
 
 The full force of his actions was obvious to my tearful friend, who
 understood, at last, the reality of Alma's words: "Wickedness never was
-happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).)
+happiness." ([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9).)
 
 As I shared those sad moments with that sorrowing young man, I could not help
 contrasting his feelings with those of another whose sealing I had performed
@@ -73,12 +72,12 @@ The Lord has declared: "And no unclean thing can enter into his kingdom;
 therefore nothing entereth into his rest save it be those who have washed
 their garments in my blood, because of their faith, and the repentance of all
 their sins, and their faithfulness unto the end." ([3 Ne.
-27:19](https://www.lds.org/scriptures/bofm/3-ne/27.19?lang=eng#18).)
+27:19](/scriptures/bofm/3-ne/27.19?lang=eng#18).)
 
 I challenge you to be _clean,_ be _worthy,_ be _strong,_ be _happy!_ How? What
 can you do to withstand "the fiery darts of the wicked [one]" ([D&amp;C
-27:17](https://www.lds.org/scriptures/dc-testament/dc/27.17?lang=eng#16)), to
-resist temptation and walk uprightly before the Lord?
+27:17](/scriptures/dc-testament/dc/27.17?lang=eng#16)), to resist temptation
+and walk uprightly before the Lord?
 
 _First--Be patient._ Don't be too anxious to grow up. Bask in the pleasure of
 anticipating what it will be like to be an adult. Remember, you are only young
@@ -98,7 +97,7 @@ forbidden. The more I see of life, the more I am convinced that we must
 impress you young people with the awfulness of sin rather than to content
 ourselves with merely teaching the way of repentance. I wish that someone
 could warn you of the night of hell that follows the committing of a moral sin
-... , as one who has sinned has described it in these words: 'No one knew
+..., as one who has sinned has described it in these words: 'No one knew
 anything about it. You told no one, and no one found out, no one condemned.
 But your face flushed, your heart beat against your ribs. Perspiration broke
 out upon your brow. You went to bed that night, you tied a bandage around the
@@ -114,8 +113,8 @@ My young friends, please be patient.
 
 _Second--Focus on Your Eternal Destiny._ The Lord has promised the faithful,
 "All that my Father hath shall be given unto him." ([D&amp;C
-84:38](https://www.lds.org/scriptures/dc-testament/dc/84.38?lang=eng#37).)
-Think what that means to you as a son of God.
+84:38](/scriptures/dc-testament/dc/84.38?lang=eng#37).) Think what that means
+to you as a son of God.
 
 Brethren, set limits to your actions--bounds you will not pass--far from the
 line which separates good from evil. Be prepared for the experiences that lie
@@ -205,7 +204,7 @@ of the gospel is repentance, that beautiful saving principle without which all
 of us imperfect people would be lost. The Lord has made the promise: "Though
 your sins be as scarlet, they shall be as white as snow; though they be red
 like crimson, they shall be as wool." ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).)
+1:18](/scriptures/ot/isa/1.18?lang=eng#17).)
 
 Isn't that a glorious promise? And it is conditioned only on your repentance.
 Though the roadway may be long and difficult, though the pain and sorrow may
@@ -223,4 +222,6 @@ virile manhood, the crown of beautiful womanhood, the foundation of a happy
 home, and the ultimate and perfect standard underlying all spiritual
 progression. May we who have been called be worthy to be chosen, I pray in the
 name of Jesus Christ, our Savior, amen.
+
+## References
 

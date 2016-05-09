@@ -1,12 +1,11 @@
-# The Developing Welfare Services Department
+# The Developing Welfare Services Department*
 
 A recently organized department of Welfare Services, the Developing Welfare
 Services Department, has been charged to promote the mission of Welfare
 Services by--
 
-  1. assisting in the teaching and implementation of Welfare Services in the developing areas of the Church, thereby enabling members residing there to enjoy the blessings of family and ward preparedness; and
-
-  2. providing stake and mission presidents in developing areas with health, agriculture, and other Welfare Services missionaries.
+  1. assisting in the teaching and implementation of Welfare Services in the developing areas of the Church, thereby enabling members residing there to enjoy the blessings of family and ward preparedness; and 
+  2. providing stake and mission presidents in developing areas with health, agriculture, and other Welfare Services missionaries. 
 
 This department provides a geographical emphasis for Welfare Services in world
 areas where, because of lack of opportunity and other unfavorable
@@ -179,6 +178,4 @@ and the glorification of those who receive, we will be ready for the coming of
 the Savior." May we so prepare, I pray in the name of Jesus Christ. Amen.
 
 ## References
-
-  1.  (_excerpts only_)
 

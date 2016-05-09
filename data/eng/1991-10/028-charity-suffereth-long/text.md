@@ -21,9 +21,8 @@ not; charity vaunteth not itself, is not puffed up. ...
 things.
 
 "Charity never faileth." ([1 Cor. 13:4,
-7-8](https://www.lds.org/scriptures/nt/1-cor/13.4%2C7-8?lang=eng#3); see also
-[Moro.
-7:45-46](https://www.lds.org/scriptures/bofm/moro/7.45-46?lang=eng#44).)
+7-8](/scriptures/nt/1-cor/13.4,7-8?lang=eng#3); see also [Moro.
+7:45-46](/scriptures/bofm/moro/7.45-46?lang=eng#44).)
 
 Howard interrupted the reading, as he often did, with a question, "What _is_
 charity?" He wanted to know the meaning of what we had just heard; I was still
@@ -36,7 +35,7 @@ Book of Mormon:
 
 "But charity is the pure love of Christ, and it endureth forever; and whoso is
 found possessed of it at the last day, it shall be well with him [or her]."
-([Moro. 7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).)
+([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).)
 
 There it was, in one verse, the concentrated essence of a much larger whole, a
 definition given for a profound yet available truth. What I heard that day was
@@ -50,19 +49,18 @@ commandment. Christ answered, "Thou shalt love the Lord thy God with all thy
 heart, and with all thy soul, and with all thy mind. ...
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36).)
+([Matt. 22:37, 39](/scriptures/nt/matt/22.37,39?lang=eng#36).)
 
 In Luke's record, the lawyer who had asked the question wanted to know more.
 Perhaps he feared he might waste his love, so he asked, "Who is my neighbour?"
-([Luke 10:29](https://www.lds.org/scriptures/nt/luke/10.29?lang=eng#28).) And
-Christ gave the parable of the good Samaritan as an answer. The Samaritan saw
-what others with eyes had walked by without seeing. He did what he _could_ do
-that no one else _would_ do, and he dignified himself and put us all in awe of
-him because we didn't expect the Samaritan to be our neighbor. (See [Luke
-10:30-37](https://www.lds.org/scriptures/nt/luke/10.30-37?lang=eng#29).) _We_
-wouldn't tempt Christ by asking him whom we should love or serve, but I think
-occasionally we wonder if we really know.
+([Luke 10:29](/scriptures/nt/luke/10.29?lang=eng#28).) And Christ gave the
+parable of the good Samaritan as an answer. The Samaritan saw what others with
+eyes had walked by without seeing. He did what he _could_ do that no one else
+_would_ do, and he dignified himself and put us all in awe of him because we
+didn't expect the Samaritan to be our neighbor. (See [Luke
+10:30-37](/scriptures/nt/luke/10.30-37?lang=eng#29).) _We_ wouldn't tempt
+Christ by asking him whom we should love or serve, but I think occasionally we
+wonder if we really know.
 
 It is interesting to me that Jesus chose a Samaritan as an example of love
 unfeigned for the Pharisees. They were so remarkable for their observance of
@@ -83,10 +81,9 @@ suffering that will surely come as we have loved ones die, or see them
 struggle or be misled, or have them misunderstand us or even betray us, we can
 find relief in charity to others. We accepted bearing one another's burdens
 and mourning with those who mourn, as we accepted Christ in our baptism. (See
-[Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7).) His
-spirit and power will comfort us as we extend ourselves in help and love to
-those who need us.
+[Mosiah 18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7).) His spirit and
+power will comfort us as we extend ourselves in help and love to those who
+need us.
 
 If charity is not always quick to our understanding, it may occasionally be
 quick to our misunderstanding. It is not charity or kindness to endure any
@@ -134,4 +131,6 @@ I pray in all humility that our faith in God may move us to such action and
 that we may thus know, by the Holy Spirit, the meaning of charity so that we
 can exercise it in our lives, in the name of our Lord and Savior, Jesus
 Christ, amen.
+
+## References
 

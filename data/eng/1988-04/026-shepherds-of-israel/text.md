@@ -69,7 +69,7 @@ follow him: for they know his voice.
 
 "And a stranger will they not follow, but will flee from him: for they know
 not the voice of strangers" ([John
-10:2-5](https://www.lds.org/scriptures/nt/john/10.2-5?lang=eng#1)).
+10:2-5](/scriptures/nt/john/10.2-5?lang=eng#1)).
 
 My dear brothers and sisters, there are great lessons to be learned from these
 stirring words of the Master Shepherd. Into our hands, as members of this
@@ -109,4 +109,6 @@ call. As one of His shepherds, I bear witness of the sacred responsibility
 that has been placed on our shoulders to be true shepherds unto the flocks of
 Israel and to know the personal nature of that calling. In the name of Jesus
 Christ, amen.
+
+## References
 

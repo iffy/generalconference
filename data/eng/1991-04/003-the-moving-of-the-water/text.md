@@ -9,7 +9,7 @@ waiting for the moving of the water.
 "For an angel went down at a certain season into the pool, and troubled the
 water: whosoever then first after the troubling of the water stepped in was
 made whole of whatsoever disease he had." ([John
-5:2-4](https://www.lds.org/scriptures/nt/john/5.2-4?lang=eng#1).)
+5:2-4](/scriptures/nt/john/5.2-4?lang=eng#1).)
 
 There has always been in all of humanity a sprinkling of those who are
 described in the scriptures as the blind, the halt, the lame, the deaf, the
@@ -45,7 +45,7 @@ parents, that he was born blind?
 
 "Jesus answered, Neither hath this man sinned, nor his parents: but that the
 works of God should be made manifest in him." ([John
-9:1-3](https://www.lds.org/scriptures/nt/john/9.1-3?lang=eng#0).)
+9:1-3](/scriptures/nt/john/9.1-3?lang=eng#0).)
 
 There is little room for feelings of guilt in connection with handicaps. Some
 handicaps may result from carelessness or abuse, and some through addiction of
@@ -126,25 +126,23 @@ gorgeous monarch butterfly emerges from a chrysalis, so will spirits emerge.
 "Their sleeping dust [will] be restored unto its perfect frame, bone to bone,
 and the sinews and the flesh upon them, the spirit and the body to be united
 never again to be divided, that they might receive a fulness of joy."
-([D&amp;C 138:17](https://www.lds.org/scriptures/dc-
-testament/dc/138.17?lang=eng#16).)
+([D&amp;C 138:17](/scriptures/dc-testament/dc/138.17?lang=eng#16).)
 
 And, "the soul shall be restored to the body, and the body to the soul; yea,
 and every limb and joint shall be restored to its body; yea, even a hair of
 the head shall not be lost; but all things shall be restored to their _proper_
-and _perfect_ frame." ([Alma
-40:23](https://www.lds.org/scriptures/bofm/alma/40.23?lang=eng#22); italics
-added.)
+and _perfect_ frame." ([Alma 40:23](/scriptures/bofm/alma/40.23?lang=eng#22);
+italics added.)
 
 "O how great the plan of our God! ... The spirit and the body is restored to
 itself again, and all men become incorruptible, and immortal, and they are
 living souls, having a perfect knowledge like unto us in the flesh, save it be
 that our knowledge shall be perfect." ([2 Ne.
-9:13](https://www.lds.org/scriptures/bofm/2-ne/9.13?lang=eng#12).)
+9:13](/scriptures/bofm/2-ne/9.13?lang=eng#12).)
 
 The Apostle Paul said: "If in this life only we have hope in Christ, we are of
 all men most miserable." ([1 Cor.
-15:19](https://www.lds.org/scriptures/nt/1-cor/15.19?lang=eng#18).)
+15:19](/scriptures/nt/1-cor/15.19?lang=eng#18).)
 
 If our view is limited to mortal life, some things become unbearable because
 they seem so unfair and so permanent. There are doctrines which, if
@@ -155,8 +153,7 @@ Truth: We are spirit children of a Father God. We lived with him in our
 premortal existence, of which it must be said that there was not, neither
 could there have been, a beginning. The revelations speak of things "from
 before the foundation of the world" and "before the world was." (See [D&amp;C
-124:33-41](https://www.lds.org/scriptures/dc-
-testament/dc/124.33-41?lang=eng#32).)
+124:33-41](/scriptures/dc-testament/dc/124.33-41?lang=eng#32).)
 
 Truth: Mortal life is temporary and, measured against eternity,
 infinitesimally brief. If a microscopic droplet of water should represent the
@@ -216,8 +213,7 @@ which shall follow after much tribulation.
 
 "For after much tribulation come the blessings. Wherefore the day cometh that
 ye shall be crowned with much glory; the hour is not yet, but is nigh at
-hand." ([D&amp;C 58:3-4](https://www.lds.org/scriptures/dc-
-testament/dc/58.3-4?lang=eng#2).)
+hand." ([D&amp;C 58:3-4](/scriptures/dc-testament/dc/58.3-4?lang=eng#2).)
 
 I bear witness of the restoration which will come. Each body and mind will be
 restored in perfect frame. However long and unfair mortality may seem, however
@@ -227,11 +223,12 @@ long the suffering and the waiting may be, he has said:
 blind, and the deaf, come in unto the marriage of the Lamb, and partake of the
 supper of the Lord, prepared for the great day to come.
 
-"Behold, I, the Lord, have spoken it." ([D&amp;C
-58:11-12](https://www.lds.org/scriptures/dc-
+"Behold, I, the Lord, have spoken it." ([D&amp;C 58:11-12](/scriptures/dc-
 testament/dc/58.11-12?lang=eng#10).)
 
 I am a witness of the condition of those who have gone beyond the veil, and we
 all have reason to glorify Him who is our Father and Him who is our Redeemer,
 of whom I bear witness in the name of Jesus Christ, amen.
+
+## References
 

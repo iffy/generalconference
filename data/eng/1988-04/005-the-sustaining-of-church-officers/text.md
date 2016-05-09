@@ -49,3 +49,5 @@ President Benson, it appears that the voting has been unanimous in the
 affirmative. We invite the newly sustained General Authorities and General
 Primary Presidency to take their places on the stand.
 
+## References
+

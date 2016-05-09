@@ -111,7 +111,7 @@ understand why it has to be this way, we should maintain our understanding,
 our faith, and our courage by a constant rereading of Second Nephi, chapter
 two, the substance of which is set forth in this excerpt: "For it must needs
 be, that there is an opposition in all things." ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).)
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10).)
 
 Now let me make a suggestion that will enable us to maintain our spiritual
 strength and keep our testimonies vitally alive so that the trials, the
@@ -120,7 +120,7 @@ above all, we should heed the words of Jesus to the woman at Jacob's well in
 Samaria when he said, "Whosoever drinketh of the water that I shall give him
 will never thirst; but the water that I shall give him shall be in him a well
 of water springing up into everlasting life." ([John
-4:14](https://www.lds.org/scriptures/nt/john/4.14?lang=eng#13).)
+4:14](/scriptures/nt/john/4.14?lang=eng#13).)
 
 How could one's strength ebb or falter when it may be so dependably and
 continuously nourished and restored? Here it is made clear that life, at its
@@ -133,4 +133,6 @@ church, and that President Spencer W. Kimball is our prophet, seer, and
 revelator, who is guiding the destiny of the true church of our Savior. To
 this, I testify with all the strength I possess, in the name of Jesus Christ.
 Amen.
+
+## References
 

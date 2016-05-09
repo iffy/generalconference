@@ -21,7 +21,7 @@ my life but upon trust in God and obedience to him. Our Heavenly Father knows
 and loves each of us; he knows the circumstances and challenges of our lives,
 and he will help us. The scriptures teach, "Wherefore, be of good cheer, and
 do not fear, for I the Lord am with you, and will stand by you" ([D&amp;C
-68:6](https://www.lds.org/scriptures/dc-testament/dc/68.6?lang=eng#5)).
+68:6](/scriptures/dc-testament/dc/68.6?lang=eng#5)).
 
 As it turned out, I did marry. I was thirty-four, and my husband was thirty-
 seven. We wanted to begin our family quickly, but children did not come
@@ -88,7 +88,7 @@ When we have been honest with ourselves and humble before the Lord in
 decisions about work and in the myriad decisions involved in mothering, we can
 go forward with courage. "For God hath not given us the spirit of fear; but of
 power, and of love, and of a sound mind" ([2 Tim.
-1:7](https://www.lds.org/scriptures/nt/2-tim/1.7?lang=eng#6)).
+1:7](/scriptures/nt/2-tim/1.7?lang=eng#6)).
 
 As I have attempted to establish priorities, I have learned that we may almost
 always have too much to do. As a mother at home with only two children, I have
@@ -129,8 +129,7 @@ able to do everything, but he will bless us in our efforts to do those things
 that he has asked us to do. Like Nephi, we can do the things the Lord has
 commanded, for he "giveth no commandments unto the children of men, save he
 shall prepare a way for them that they may accomplish the thing which he
-commandeth them" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)).
+commandeth them" ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)).
 
 Another source of courage has been the experiences that have taught me that
 God will give mothers guidance concerning the individual needs of their
@@ -147,13 +146,13 @@ may repent and be forgiven but that through his grace our children can be
 healed of the emotional wounds we may have inflicted and compensated for the
 errors we may have made. Christ has said, "Peace I leave with you, my peace I
 give unto you. ... Let not your heart be troubled, neither let it be afraid"
-([John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26)).
+([John 14:27](/scriptures/nt/john/14.27?lang=eng#26)).
 
 I am grateful to be a mother. I bear testimony that mothering is, in the words
 of my patriarchal blessing, "a great and important work given to women of the
 Church." I thank Heavenly Father for this privilege to assist in his work--"to
 bring to pass the immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 I bear testimony of his love and interest in helping us, of the accessibility
 of his guidance through prophets and prayer, and of his kindness and
@@ -161,4 +160,6 @@ forgiveness for the errors we may make. As mothers in Zion and as sisters in
 the gospel of Jesus Christ, we are on the Lord's errand. We may "be of good
 cheer," for he will be with us and stand by us. In the name of Jesus Christ,
 amen.
+
+## References
 

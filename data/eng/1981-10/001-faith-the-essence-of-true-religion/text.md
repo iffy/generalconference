@@ -1,4 +1,4 @@
-# Faith: The Essence of True Religion
+# Faith:The Essence of True Religion
 
 I suppose there has never been a more generous outpouring of love than that
 expressed in behalf of President Kimball, our prophet. Unitedly as a people
@@ -111,7 +111,7 @@ Lord has commanded this people, saying: "Strengthen your brethren in all your
 conversation, in all your prayers, in all your exhortations, and in all your
 doings." This is the commandment, stated unequivocally; and then follows this
 marvelous promise: "And behold, and lo, I am with you to bless you and deliver
-you forever." ([D&amp;C 108:7-8](https://www.lds.org/scriptures/dc-
+you forever." ([D&amp;C 108:7-8](/scriptures/dc-
 testament/dc/108.7-8?lang=eng#6).)
 
 Now, if I may be guided by the Spirit, I should like to talk about another
@@ -137,8 +137,7 @@ There was no uncertainty in Peter's mind when the Lord asked him, "Whom say ye
 that I am?
 
 "And Simon Peter answered and said, Thou art the Christ, the Son of the living
-God." ([Matt.
-16:15-16](https://www.lds.org/scriptures/nt/matt/16.15-16?lang=eng#14).)
+God." ([Matt. 16:15-16](/scriptures/nt/matt/16.15-16?lang=eng#14).)
 
 Nor was there any doubt on the part of Peter when the Lord taught the
 multitude in Capernaum, declaring himself to be the bread of life. Many of his
@@ -151,8 +150,7 @@ with him.
 of eternal life.
 
 "And we believe and are sure that thou art that Christ, the Son of the living
-God." ([John
-6:66-69](https://www.lds.org/scriptures/nt/john/6.66-69?lang=eng#65).)
+God." ([John 6:66-69](/scriptures/nt/john/6.66-69?lang=eng#65).)
 
 Following the death of the Savior, would his Apostles have carried on,
 teaching his doctrine, even giving their lives in the most painful of
@@ -168,7 +166,7 @@ things to come,
 
 "Nor height, nor depth, nor any other creature, shall be able to separate us
 from the love of God, which is in Christ Jesus our Lord." ([Rom.
-8:38-39](https://www.lds.org/scriptures/nt/rom/8.38-39?lang=eng#37).)
+8:38-39](/scriptures/nt/rom/8.38-39?lang=eng#37).)
 
 Executed in Rome, Paul sealed with his death his final testimony of his
 conviction of the divine sonship of Jesus Christ.
@@ -190,8 +188,7 @@ in which the Father and the Son appeared to the boy Joseph Smith. Having had
 that experience, the boy recounted it to one of the preachers of the
 community. He treated the account "with great contempt, saying it was all of
 the devil, that there were no such things as visions or revelations in these
-days." ([JS--H
-1:21](https://www.lds.org/scriptures/pgp/js-h/1.21?lang=eng#20).)
+days." ([JS--H 1:21](/scriptures/pgp/js-h/1.21?lang=eng#20).)
 
 Others took up the cry against him. He became the object of severe
 persecution. But, he said, and note these words: "I had actually seen a light,
@@ -203,7 +200,7 @@ say in my heart: Why persecute me for telling the truth? I have actually seen
 a vision; and who am I that I can withstand God, or why does the world think
 to make me deny what I have actually seen? For I had seen a vision; I knew it,
 and I knew that God knew it, and I could not deny it, neither dared I do it."
-([JS--H 1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+([JS--H 1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 There is no lack of certitude in that statement. For Joseph Smith that
 experience was as real as the warmth of the sun at noonday. He never flagged
@@ -218,8 +215,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 So certain was he of the cause he led, so sure of his divinely-given calling,
 that he placed them above the value of his own life. With prescient knowledge
@@ -278,7 +274,7 @@ The marvelous and wonderful thing is that any individual who desires to know
 the truth may receive that conviction. The Lord himself gave the formula when
 he said, "He that doeth the will of the Father shall know of the doctrine,
 whether I speak of God or whether I speak of myself." (See [John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).)
+7:17](/scriptures/nt/john/7.17?lang=eng#16).)
 
 It will take study of the word of God. It will take prayer and anxious seeking
 of the source of all truth. It will take living the gospel, an experiment, if
@@ -304,7 +300,7 @@ Revelation are appropriate:
 "I know thy works, that thou art neither cold nor hot: I would thou wert cold
 or hot. So then because thou art lukewarm, and neither cold nor hot, I will
 spue thee out of my mouth." ([Rev.
-3:15-16](https://www.lds.org/scriptures/nt/rev/3.15-16?lang=eng#14).)
+3:15-16](/scriptures/nt/rev/3.15-16?lang=eng#14).)
 
 My brethren and sisters, as we begin this great conference, I not only invoke
 the blessings of the Lord upon you but with certitude give you my witness of
@@ -314,4 +310,6 @@ salvation. I know that this work of which we are a part is the work of God;
 that this is the Church of Jesus Christ. Great is our opportunity for service
 therein and strong and certain is our faith concerning it. In the name of
 Jesus Christ, amen.
+
+## References
 

@@ -9,8 +9,7 @@ had come to prepare the way for the coming of Jesus Christ in his glory. He
 quoted Malachi: "Behold, I will send my messenger, and he shall prepare the
 way before me: and the Lord, whom ye seek, shall suddenly come to his temple,
 even the messenger of the covenant, whom ye delight in: behold, he shall come,
-saith the Lord of hosts." ([Mal.
-3:1](https://www.lds.org/scriptures/ot/mal/3.1?lang=eng#0).)
+saith the Lord of hosts." ([Mal. 3:1](/scriptures/ot/mal/3.1?lang=eng#0).)
 
 This emphasizes the fact that when the Lord comes again, he will come "to his
 temple," which means there must be a temple on earth for him to come to.
@@ -24,7 +23,7 @@ prophet, before the coming of the great and dreadful day of the Lord. ...
 "... and he shall plant in the hearts of the children the promises made to the
 fathers, and the hearts of the children shall turn to their fathers. If it
 were not so, the whole earth would be utterly wasted at his coming." ([JS--H
-1:38-39](https://www.lds.org/scriptures/pgp/js-h/1.38-39?lang=eng#37).)
+1:38-39](/scriptures/pgp/js-h/1.38-39?lang=eng#37).)
 
 It seems very significant to me that, among the _first_ instructions to the
 Prophet in the process of the restoration of the gospel, this work, which has
@@ -71,10 +70,9 @@ work done for them.
 
 The promise was given to our forefathers that when the gospel is restored in
 the last days, "the hearts of the children shall turn to their fathers."
-([D&amp;C 2:2](https://www.lds.org/scriptures/dc-
-testament/dc/2.2?lang=eng#1).) This means we must fulfill the promise to our
-ancestors to do the ordinance work for them. If we do not, then our own
-salvation may be in jeopardy.
+([D&amp;C 2:2](/scriptures/dc-testament/dc/2.2?lang=eng#1).) This means we
+must fulfill the promise to our ancestors to do the ordinance work for them.
+If we do not, then our own salvation may be in jeopardy.
 
 Not only the ordinance of baptism, but also the sealing of families together
 as an eternal unit must be done on the earth. Hence, we must perform these
@@ -87,8 +85,8 @@ house to my name, for the Most High to dwell therein.
 
 "For there is not a place found on earth that he may come to and restore again
 that which was lost unto you, or which he hath taken away, even the fulness of
-the priesthood." ([D&amp;C 124: 27-28](https://www.lds.org/scriptures/dc-
-testament/dc/124.title?lang=eng).)
+the priesthood." ([D&amp;C 124: 27-28](/scriptures/dc-
+testament/dc/124?lang=eng).)
 
 These temples are built for a special and most important purpose--where the
 living may receive their most holy ordinances, where families may be sealed
@@ -123,9 +121,8 @@ half true." "No," Satan said, "that's not enough." The third said, "I'll go
 and tell them it's all true, but there is no need to hurry." "Go," Satan said.
 "That will get them every time." Lucifer cannot win. We must do the Lord's
 work for our ancestors or the earth would be "wasted at his coming." ([JS--H
-1:39](https://www.lds.org/scriptures/pgp/js-h/1.39?lang=eng#38).) It seems
-that the destiny of this earth depends on whether or not we get this temple
-work done.
+1:39](/scriptures/pgp/js-h/1.39?lang=eng#38).) It seems that the destiny of
+this earth depends on whether or not we get this temple work done.
 
 The gospel has been restored in these the last days never to be taken from the
 earth again, to bring the blessings of salvation and exaltation to all God's
@@ -137,4 +134,6 @@ I testify that this is the gospel of Jesus Christ, restored in these the
 latter days with all the authority and power of his priesthood to bring about
 the eternity of the family unit for each of us, in the name of Jesus Christ.
 Amen.
+
+## References
 

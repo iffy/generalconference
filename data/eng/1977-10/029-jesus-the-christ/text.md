@@ -8,8 +8,7 @@ and He, who "though he were a Son, yet learned he obedience by the things
 which he suffered;
 
 "And being made perfect, he became the author of eternal salvation unto all
-them that obey him." ([Heb.
-5:8-9](https://www.lds.org/scriptures/nt/heb/5.8-9?lang=eng#7).)
+them that obey him." ([Heb. 5:8-9](/scriptures/nt/heb/5.8-9?lang=eng#7).)
 
 It was this same Jesus Christ who gave revelations to his prophets and
 revealed to them also through John the Revelator: "I am Alpha and Omega, the
@@ -17,23 +16,21 @@ first and the last ...
 
 "I am he that liveth, and was dead; and, behold, I am alive for evermore,
 Amen; and have the keys of hell and of death." ([Rev. 1:11,
-18](https://www.lds.org/scriptures/nt/rev/1.11%2C18?lang=eng#10).)
+18](/scriptures/nt/rev/1.11,18?lang=eng#10).)
 
 It was He, Jesus Christ, in his glorified state who came to the ancestors of
 the Indians, who is variously known by them as the Great White Spirit, the
 Fair God and numerous other names.
 
 It was He, Jesus Christ, our Savior, who was introduced to surprised listeners
-at Jordan (see [Matt.
-3:13-17](https://www.lds.org/scriptures/nt/matt/3.13-17?lang=eng#12)), at the
-holy Mount of Transfiguration (see [Matt.
-17:1-9](https://www.lds.org/scriptures/nt/matt/17.1-9?lang=eng#0)), at the
-temple of the Nephites (see [3 Ne.
-11-26](https://www.lds.org/scriptures/bofm/3-ne/11.title?lang=eng)), and in
-the grove at Palmyra, New York (see [JS--H
-1:17-25](https://www.lds.org/scriptures/pgp/js-h/1.17-25?lang=eng#16)); and
-the introducing person was none other than his actual Father, the holy Elohim,
-in whose image he was and whose will he carried out.
+at Jordan (see [Matt. 3:13-17](/scriptures/nt/matt/3.13-17?lang=eng#12)), at
+the holy Mount of Transfiguration (see [Matt.
+17:1-9](/scriptures/nt/matt/17.1-9?lang=eng#0)), at the temple of the Nephites
+(see [3 Ne. 11-26](/scriptures/bofm/3-ne/11?lang=eng)), and in the grove at
+Palmyra, New York (see [JS--H
+1:17-25](/scriptures/pgp/js-h/1.17-25?lang=eng#16)); and the introducing
+person was none other than his actual Father, the holy Elohim, in whose image
+he was and whose will he carried out.
 
 Many people have grown up with the idea that it was the Father who was in
 charge through the Old Testament history days whenever the title God or Lord
@@ -60,11 +57,11 @@ Jesus Christ is the God of this world. He has made it very plain in his many
 self-introductions.
 
 The Lord Jesus Christ proclaimed to Abraham, "My name is Jehovah." ([Abr.
-2:8](https://www.lds.org/scriptures/pgp/abr/2.8?lang=eng#7).)
+2:8](/scriptures/pgp/abr/2.8?lang=eng#7).)
 
 And Abraham declared, "Thus I, Abraham, talked with the Lord, face to face, as
 one man talketh with another; and he told me of the works which his hands had
-made." ([Abr. 3:11](https://www.lds.org/scriptures/pgp/abr/3.11?lang=eng#10).)
+made." ([Abr. 3:11](/scriptures/pgp/abr/3.11?lang=eng#10).)
 
 And Moses said concerning his Maker: "And he [Moses] saw God face to face, ...
 and the glory of God was upon Moses; therefore Moses could endure his
@@ -72,7 +69,7 @@ presence.
 
 "And God spake unto Moses, saying: Behold, I am the Lord God Almighty, and
 Endless is my name. ..." ([Moses
-1:2-3](https://www.lds.org/scriptures/pgp/moses/1.2-3?lang=eng#1).)
+1:2-3](/scriptures/pgp/moses/1.2-3?lang=eng#1).)
 
 In the first century in this land the people who had read the scriptures and
 realized they were about to be fulfilled gathered in a great multitude around
@@ -107,11 +104,11 @@ world.
 that bitter cup which the Father hath given me, and have glorified the Father
 in taking upon me the sins of the world, in the which I have suffered the will
 of the Father in all things from the beginning." ([3 Ne. 11:3,
-6-11](https://www.lds.org/scriptures/bofm/3-ne/11.3%2C6-11?lang=eng#2).)
+6-11](/scriptures/bofm/3-ne/11.3,6-11?lang=eng#2).)
 
 After a long dissertation in which he explained to them the doctrines of
 Christianity, he said, "Behold, ye have both heard my voice, and seen me." ([3
-Ne. 15:24](https://www.lds.org/scriptures/bofm/3-ne/15.24?lang=eng#23).)
+Ne. 15:24](/scriptures/bofm/3-ne/15.24?lang=eng#23).)
 
 "When Jesus came into the coasts of Caesarea Philippi, he asked his disciples,
 saying, Whom do men say that I the Son of man am?
@@ -135,7 +132,7 @@ against it.
 "And I will give unto thee the keys of the kingdom of heaven: and whatsoever
 thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt
 loose on earth shall be loosed in heaven." ([Matt.
-16:13-19](https://www.lds.org/scriptures/nt/matt/16.13-19?lang=eng#12).)
+16:13-19](/scriptures/nt/matt/16.13-19?lang=eng#12).)
 
 Here were the sacred binding keys of the kingdom of heaven to bind in heaven
 that which was authoritatively bound in the earth.
@@ -151,8 +148,7 @@ God, which taketh away the sin of the world.
 "And I saw, and bare record that this is the Son of God.
 
 "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!"
-([John 1:29, 34,
-36](https://www.lds.org/scriptures/nt/john/1.29%2C34%2C36?lang=eng#28).)
+([John 1:29, 34, 36](/scriptures/nt/john/1.29,34,36?lang=eng#28).)
 
 Then we have the testimony of Peter: "Yea, I think it meet, as long as I am in
 this tabernacle, to stir you up by putting you in remembrance;
@@ -172,8 +168,7 @@ voice to him from the excellent glory, This is my Beloved Son, in whom I am
 well pleased.
 
 "And this voice which came from heaven we heard, when we were with him in the
-holy mount." ([2 Pet.
-1:13-18](https://www.lds.org/scriptures/nt/2-pet/1.13-18?lang=eng#12).)
+holy mount." ([2 Pet. 1:13-18](/scriptures/nt/2-pet/1.13-18?lang=eng#12).)
 
 These are indeed great testimonies of our Savior, Jesus Christ.
 
@@ -196,4 +191,6 @@ will have been a great monument of success in your lives. And now I should
 like to say once more: God lives; Jesus is the Christ. And all the testimonies
 we have borne, and that the prayers have borne, and the singers have borne, we
 communicate to you in the name of Jesus Christ. Amen.
+
+## References
 

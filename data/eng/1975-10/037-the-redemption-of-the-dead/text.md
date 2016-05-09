@@ -7,13 +7,13 @@ sustaining prayers, because of its very sacred nature.
 When the Lord was upon the earth He made it very clear that there was one way,
 and one way only, by which man may be saved. "I am the way, the truth, and the
 life: no man cometh unto the Father, but by me." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).) To proceed on
-that way, these two things emerge as being very fixed. First, in His name
-rests the authority to secure the salvation of mankind. "For there is none
-other name under heaven given ... whereby we must be saved." ([Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11).) And next,
-there is an essential ordinance--baptism--standing as a gate through which
-every soul must pass to obtain eternal life.
+14:6](/scriptures/nt/john/14.6?lang=eng#5).) To proceed on that way, these two
+things emerge as being very fixed. First, in His name rests the authority to
+secure the salvation of mankind. "For there is none other name under heaven
+given ... whereby we must be saved." ([Acts
+4:12](/scriptures/nt/acts/4.12?lang=eng#11).) And next, there is an essential
+ordinance--baptism--standing as a gate through which every soul must pass to
+obtain eternal life.
 
 The Lord was neither hesitant nor was He apologetic in proclaiming exclusive
 authority over those processes, all of them in total, by which we may return
@@ -28,8 +28,7 @@ that there are other ways. So they tempered or tampered with the doctrine.
 This rigid emphasis on "one Lord and one baptism," was thought to be too
 restrictive, and too exclusive, even though the Lord Himself had described it
 as being narrow, for, "Strait is the gate, and narrow is the way, which
-leadeth unto life." ([Matt.
-7:14](https://www.lds.org/scriptures/nt/matt/7.14?lang=eng#13).)
+leadeth unto life." ([Matt. 7:14](/scriptures/nt/matt/7.14?lang=eng#13).)
 
 Since baptism is essential there must be an urgent concern to carry the
 message of the gospel of Jesus Christ to every nation, kindred, tongue, and
@@ -131,7 +130,7 @@ Then another ancient scripture, ignored or overlooked by the Christian world
 in general, was understood and moved into significant prominence: "Else what
 shall they do which are baptized for the dead, if the dead rise not at all?
 why are they then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).)
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).)
 
 Here then, was the answer. With proper authority an individual could be
 baptized for and in behalf of someone who had never had the opportunity. That
@@ -145,14 +144,13 @@ work of redemption goes on beyond the veil as well as here in mortality.
 
 The Lord said, "Verily, verily, I say unto you, The hour is coming, and now
 is, when the dead shall hear the voice of the Son of God: and they that hear
-shall live." ([John
-5:25](https://www.lds.org/scriptures/nt/john/5.25?lang=eng#24).)
+shall live." ([John 5:25](/scriptures/nt/john/5.25?lang=eng#24).)
 
 On October 3, 1918, President Joseph F. Smith was pondering on the scriptures,
 including this one from Peter: "For this cause was the gospel preached also to
 them that are dead, that they might be judged according to men in the flesh,
 but live according to God in the spirit." ([1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5).)
+4:6](/scriptures/nt/1-pet/4.6?lang=eng#5).)
 
 There was opened to him a marvelous vision. In it he saw the concourses of the
 righteous. And he saw Christ ministering among them. Then he saw those who had
@@ -166,8 +164,7 @@ power and authority, and commissioned them to go forth and carry the light of
 the gospel to them that were in darkness, even to all the spirits of men. And
 thus was the gospel preached to the dead." ("Vision of the Redemption of the
 Dead," _The Utah Genealogical and Historical Magazine,_ Jan. 1919, p. 3.)
-[[D&amp;C 138:29-30](https://www.lds.org/scriptures/dc-
-testament/dc/138.29-30?lang=eng#28)]
+[[D&amp;C 138:29-30](/scriptures/dc-testament/dc/138.29-30?lang=eng#28)]
 
 We have been authorized to perform baptisms vicariously so that when they hear
 the gospel preached and desire to accept it, that essential ordinance will
@@ -278,7 +275,7 @@ the field praise the Lord; and ye solid rocks weep for joy! ...
 "Let us, therefore, as a church and a people, and as Latter-day Saints, offer
 unto the Lord an offering in righteousness; and let us present in his holy
 temple ... a book containing the records of our dead, which shall be worthy of
-all acceptation." ([D&amp;C 128:22-24](https://www.lds.org/scriptures/dc-
+all acceptation." ([D&amp;C 128:22-24](/scriptures/dc-
 testament/dc/128.22-24?lang=eng#21).)
 
 I bear witness that this work is true, that God lives, that Jesus is the
@@ -286,4 +283,6 @@ Christ, that there is on this earth today a prophet of God to lead modern
 Israel in this great obligation. I know that the Lord lives and that He broods
 anxiously over the work for the redemption of the dead, in the name of Jesus
 Christ. Amen.
+
+## References
 

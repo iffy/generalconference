@@ -42,7 +42,7 @@ men of God.
 
 I like a scripture that I reflect upon frequently, and I think of it when I
 think of them, "For they were set to be a light unto the world, and to be the
-saviors of men." ([D&amp;C 103:9](https://www.lds.org/scriptures/dc-
+saviors of men." ([D&amp;C 103:9](/scriptures/dc-
 testament/dc/103.9?lang=eng#8).) I bear witness that those who come into the
 kingdom will eventually say unto them who have helped them come into the
 kingdom, "You were a light unto me, and I acknowledge you as literally being a
@@ -51,8 +51,8 @@ savior to me."
 Another of my favorite scriptures that I would like to share with you is,
 "Search diligently, pray always, and be believing, and all things shall work
 together for your good, if ye walk uprightly and remember the covenant
-wherewith ye have covenanted one with another." ([D&amp;C
-90:24](https://www.lds.org/scriptures/dc-testament/dc/90.24?lang=eng#23).)
+wherewith ye have covenanted one with another." ([D&amp;C 90:24](/scriptures
+/dc-testament/dc/90.24?lang=eng#23).)
 
 Inscribed on the granite walls of the temple here in Salt Lake City is the
 constellation of Ursa Major, or the Great Bear, commonly known to you as the
@@ -77,4 +77,6 @@ witness of the atoning sacrifice of our Lord and Savior, Jesus Christ.
 I bear witness that the Church has been restored, that Joseph Smith is a
 prophet of God, as is a living prophet today, President Ezra Taft Benson, in
 the name of Jesus Christ, amen.
+
+## References
 

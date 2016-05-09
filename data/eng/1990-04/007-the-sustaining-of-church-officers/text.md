@@ -65,3 +65,5 @@ affirmative.
 We invite the newly called members of the Seventy and general women's
 presidencies to take their places on the stand at this time.
 
+## References
+

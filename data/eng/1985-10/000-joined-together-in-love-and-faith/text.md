@@ -37,3 +37,5 @@ We are grateful for the continuing strength and vitality of President Ezra
 Taft Benson, President of the Council of the Twelve Apostles. He will be our
 first speaker this morning.
 
+## References
+

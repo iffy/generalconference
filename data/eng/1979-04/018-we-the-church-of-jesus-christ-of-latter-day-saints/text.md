@@ -22,7 +22,7 @@ to a breastplate, constituted what is called the Urim and Thummim--deposited
 with the plates; and the possession and use of these stones were what
 constituted 'seers' in ancient or former times; and that God had prepared them
 for the purpose of translating the book." ([JS--H
-1:33-35](https://www.lds.org/scriptures/pgp/js-h/1.33-35?lang=eng#32).)
+1:33-35](/scriptures/pgp/js-h/1.33-35?lang=eng#32).)
 
 By the power of God, Joseph translated the record and in 1830 published the
 translation in book form, under the title the Book of Mormon.
@@ -40,8 +40,7 @@ Members of the Church do not resent being referred to as Mormons, nor does the
 Church resent being referred to as the Mormon church. As we have said,
 however, it is not the correct name of the Church. Its correct name is, as we
 have already explained, "The Church of Jesus Christ of Latter-day Saints"
-([D&amp;C 115:4](https://www.lds.org/scriptures/dc-
-testament/dc/115.4?lang=eng#3)).
+([D&amp;C 115:4](/scriptures/dc-testament/dc/115.4?lang=eng#3)).
 
 This name was officially confirmed by Jesus Christ himself when, on April 26,
 1838, at Far West, Missouri, in a revelation addressed to the presiding
@@ -52,9 +51,8 @@ officers of the Church, he said--and this is Christ himself speaking:
 Saints,_ scattered abroad in all the world;
 
 "For thus shall my church be called in the last days, even _The Church of
-Jesus Christ of Latter-day Saints._" ([D&amp;C 115:1,
-3-4](https://www.lds.org/scriptures/dc-testament/dc/115.1%2C3-4?lang=eng#0);
-italics added.)
+Jesus Christ of Latter-day Saints._" ([D&amp;C 115:1, 3-4](/scriptures/dc-
+testament/dc/115.1,3-4?lang=eng#0); italics added.)
 
 This declaration by the Lord is reminiscent of the account the Book of Mormon
 gives of Christ's statement to his disciples in America as he ministered among
@@ -143,7 +141,7 @@ faithfulness unto the end.
 and it is still his commandment]: Repent, all ye ends of the earth, and come
 unto me and be baptized in my name, that ye may be sanctified by the reception
 of the Holy Ghost, that ye may stand spotless before me at the last day." ([3
-Ne. 27:1-20](https://www.lds.org/scriptures/bofm/3-ne/27.1-20?lang=eng#0).)
+Ne. 27:1-20](/scriptures/bofm/3-ne/27.1-20?lang=eng#0).)
 
 Such is the name and such are the basic doctrines taught by the Church
 sometimes referred to as the Mormon Church.
@@ -151,8 +149,8 @@ sometimes referred to as the Mormon Church.
 Not only did the Redeemer personally name his Church, "The Church of Jesus
 Christ of Latter-day Saints" as recounted already in these remarks, he also
 declared it to be "the only true and living church upon the face of the whole
-earth, with which I, the Lord, am well pleased" ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29)).
+earth, with which I, the Lord, am well pleased" ([D&amp;C 1:30](/scriptures
+/dc-testament/dc/1.30?lang=eng#29)).
 
 The background for this declaration was as follows:
 
@@ -170,7 +168,7 @@ Commandments._ The Lord's acceptance of the undertaking was made manifest by
 the giving of the revelation ... appearing as Section 1 [of our Doctrine and
 Covenants] ... known as the _Preface._" (D&amp;C, Explanatory Introduction, iii;
 see also _History of the Church,_ 1:222 and the introductory note to [D&amp;C
-1](https://www.lds.org/scriptures/dc-testament/dc/1.title?lang=eng).)
+1](/scriptures/dc-testament/dc/1?lang=eng).)
 
 Because of the universal importance of the content of this revelation, I shall
 conclude these remarks by quoting therefrom. The Lord began it by calling for
@@ -273,9 +271,11 @@ servants, it is the same.
 
 "For behold, and lo, the Lord is God, and the Spirit beareth record, and the
 record is true, and the truth abideth forever and ever. Amen." ([D&amp;C
-1:1-7, 11-18, 24, 29-39](https://www.lds.org/scriptures/dc-
-testament/dc/1.1-7%2C11-18%2C24%2C29-39?lang=eng#0).)
+1:1-7, 11-18, 24, 29-39](/scriptures/dc-
+testament/dc/1.1-7,11-18,24,29-39?lang=eng#0).)
 
 To the truth of these great revelations, I bear my personal witness. In the
 name of Jesus Christ, our Lord, amen.
+
+## References
 

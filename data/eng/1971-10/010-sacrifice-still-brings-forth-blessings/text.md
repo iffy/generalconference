@@ -27,8 +27,7 @@ concerned with what the Lord wanted them to do but rather only with what they
 wanted to do. Of course this kind of action has never been very profitable
 measured in terms of happiness, and happiness is the whole purpose for the
 existence of man. The prophet Lehi's statement that "men are, that they might
-have joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)) is all-
+have joy" ([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)) is all-
 inclusive.
 
 On the other hand, Abraham was told by God to sacrifice his "only" son Isaac
@@ -46,21 +45,21 @@ seed as the stars of the heaven, and as the sand which is upon the sea shore.
 
 "And in thy seed shall all the nations of the earth be blessed; because thou
 hast obeyed my voice." ([Gen.
-22:16-18](https://www.lds.org/scriptures/ot/gen/22.16-18?lang=eng#15).)
+22:16-18](/scriptures/ot/gen/22.16-18?lang=eng#15).)
 
 Jesus, our Lord and Master, was the greatest example of all in following in
 obedience to his Father's commandments. His great agony in the Garden I
 presume has never been approached and cannot be matched by human man. He in
 Gethsemane prayed, saying, "O my Father, if it be possible, let this cup pass
 from me: nevertheless not as I will, but as thou wilt." ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).) The Master
-did not want to endure what was before him even though he knew this was the
-major purpose of his coming to earth--but he did what his Father had asked,
-and because he did, he holds "all power ... in heaven and in earth" ([Matt.
-28:18](https://www.lds.org/scriptures/nt/matt/28.18?lang=eng#17)) and has, as
-Paul records, become "the author and finisher of our faith" ([Heb.
-12:2](https://www.lds.org/scriptures/nt/heb/12.2?lang=eng#1)), and as many as
-receive him become his sons and daughters.
+26:39](/scriptures/nt/matt/26.39?lang=eng#38).) The Master did not want to
+endure what was before him even though he knew this was the major purpose of
+his coming to earth--but he did what his Father had asked, and because he did,
+he holds "all power ... in heaven and in earth" ([Matt.
+28:18](/scriptures/nt/matt/28.18?lang=eng#17)) and has, as Paul records,
+become "the author and finisher of our faith" ([Heb.
+12:2](/scriptures/nt/heb/12.2?lang=eng#1)), and as many as receive him become
+his sons and daughters.
 
 And how was it done? It was possible only through sacrifice. Truly sacrifice
 does "bring forth the blessings of heaven."
@@ -164,4 +163,6 @@ morning; that this is the church and kingdom of God, that the decisions are
 made by revelation in this church under the direction of our Lord and Savior,
 Jesus Christ, whose church it really is. I bear this witness to you in all
 soberness in the name of Jesus Christ. Amen.
+
+## References
 

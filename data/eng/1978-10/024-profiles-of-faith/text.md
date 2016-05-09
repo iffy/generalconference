@@ -127,12 +127,11 @@ Master:
 "And he saw also a certain poor widow casting in thither two mites.
 
 "And he said, Of a truth I say unto you, that this poor widow hath cast in
-more than they all." ([Luke
-12:1-3](https://www.lds.org/scriptures/nt/luke/12.1-3?lang=eng#0).)
+more than they all." ([Luke 12:1-3](/scriptures/nt/luke/12.1-3?lang=eng#0).)
 
 "For all they did cast in of their abundance; but she of her want did cast in
 all that she had, even all her living" ([Mark
-12:44](https://www.lds.org/scriptures/nt/mark/12.44?lang=eng#43)).
+12:44](/scriptures/nt/mark/12.44?lang=eng#43)).
 
 For a second profile, I turn from Mexico to a missionary at the Missionary
 Training Center in Provo, Utah, desperately struggling to become proficient in
@@ -151,7 +150,7 @@ simple yet earnest words her testimony of praise and gratitude. That
 missionary who brought to Sister Hahn the gospel remembered the sacred charge:
 "Go ye therefore, and teach all nations, baptizing them in the name of the
 Father, and of the Son, and of the Holy Ghost" ([Matt.
-28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18)).
+28:19](/scriptures/nt/matt/28.19?lang=eng#18)).
 
 Profile number three also relates to a missionary of unfaltering faith, Elder
 Mark Skidmore. When he received his call to Norway, he knew not one word of
@@ -164,8 +163,7 @@ baptized a choice family. He then spoke in English for the first time in six
 months. I met with him that same week. His expression was one of thanksgiving
 and gratitude. I thought of the words of Moroni, that courageous captain: "I
 seek not for power. ... I seek not for honor of the world, but for the glory of
-my God." ([Alma
-60:36](https://www.lds.org/scriptures/bofm/alma/60.36?lang=eng#35).)
+my God." ([Alma 60:36](/scriptures/bofm/alma/60.36?lang=eng#35).)
 
 For a final profile, I mention the mother of one noble missionary son. The
 family lived in the harsh climate of Star Valley, Wyoming. Summer there is
@@ -204,7 +202,7 @@ men who were true at all times in whatsoever thing they were entrusted.
 
 "Yea, they were men of truth and soberness, for they had been taught to keep
 the commandments of God and to walk uprightly before him." ([Alma
-53:20-21](https://www.lds.org/scriptures/bofm/alma/53.20-21?lang=eng#19).)
+53:20-21](/scriptures/bofm/alma/53.20-21?lang=eng#19).)
 
 Such profiles prompt faith. They instill confidence. They teach truth. They
 testify of goodness. They help provide the answer to that question:
@@ -229,4 +227,6 @@ _Faithful and true [they] will ever stand._
 
 My sincere prayer is that we will stand with the youth of Zion, remain true to
 the faith, for which I pray in the name of Jesus Christ. Amen.
+
+## References
 

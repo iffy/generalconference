@@ -43,8 +43,7 @@ The Savior warned us of these times:
 
 "... there shall arise false Christs, and false prophets, and shall shew great
 signs and wonders; insomuch that, if it were possible, they shall deceive the
-very elect." ([Matt.
-24:24](https://www.lds.org/scriptures/nt/matt/24.24?lang=eng#23).)
+very elect." ([Matt. 24:24](/scriptures/nt/matt/24.24?lang=eng#23).)
 
 Unfortunately, along with much of the world, some of our loved ones are
 influenced by false prophets, false Christs, and modern movements of
@@ -71,7 +70,7 @@ accuser of our brethren is cast down. ...
 
 "... Woe to the inhabiters of the earth ... ! for the devil is come down unto you,
 having great wrath, because he knoweth that he hath but a short time." ([Rev.
-12:7-10, 12](https://www.lds.org/scriptures/nt/rev/12.7-10%2C12?lang=eng#6).)
+12:7-10, 12](/scriptures/nt/rev/12.7-10,12?lang=eng#6).)
 
 There is an eternal struggle with evil forces. John the Revelator has warned
 us, "Woe to the inhabiters of the earth ... !" He is speaking to all of us. He
@@ -87,7 +86,7 @@ that he should be cast down;
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
 not hearken unto my voice." ([Moses
-4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).)
+4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2).)
 
 Does God's warning of this evil power come through to us clearly? "... to
 deceive ... to blind men ... lead them captive ... as many as would not hearken unto
@@ -110,8 +109,7 @@ an angel, and said unto me: ... There is no God; yea, and he taught me that
 which I should say. And I have taught his words; ... and I taught them, even
 until I had much success, ... that I verily believed that they were true; and
 for this cause I withstood the truth; even until I have brought this great
-curse upon me." ([Alma
-30:53](https://www.lds.org/scriptures/bofm/alma/30.53?lang=eng#52).)
+curse upon me." ([Alma 30:53](/scriptures/bofm/alma/30.53?lang=eng#52).)
 
 Many people who believe at least tentatively in the reality of God have a much
 harder time believing in the reality of the devil. Some even soft-pedal the
@@ -163,8 +161,7 @@ home."
 loved ones to distinguish between Satan and our Savior. Teach your loved ones
 that "all things which are good cometh of God; and that which is evil cometh
 of the devil; for the devil is an enemy unto God, ... and inviteth and enticeth
-to sin." ([Moro.
-7:12](https://www.lds.org/scriptures/bofm/moro/7.12?lang=eng#11).)
+to sin." ([Moro. 7:12](/scriptures/bofm/moro/7.12?lang=eng#11).)
 
 Not explaining these eternal truths of the gospel in the warm atmosphere of
 your home could be the difference between exaltation and darkness. At a
@@ -173,7 +170,7 @@ could be recalled and make the difference in a critical decision.
 
 True happiness in this life and the life to come is found in keeping the
 commandments of God. "... you shall live by every word that proceedeth forth
-from the mouth of God." ([D&amp;C 84:44](https://www.lds.org/scriptures/dc-
+from the mouth of God." ([D&amp;C 84:44](/scriptures/dc-
 testament/dc/84.44?lang=eng#43).)
 
 I bear witness this day that the devil is real. I have felt of his influence.
@@ -187,7 +184,7 @@ wiles of the devil.
 
 "For we wrestle not against flesh and blood, but against principalities,
 against powers, against the rulers of the darkness of this world. ..." ([Eph.
-6:11-12](https://www.lds.org/scriptures/nt/eph/6.11-12?lang=eng#10).)
+6:11-12](/scriptures/nt/eph/6.11-12?lang=eng#10).)
 
 If you and your loved ones keep and live the commandments of God, following
 the counsel of his living prophet to strengthen your homes, this protecting
@@ -206,4 +203,6 @@ To trust in God and heaven securely."
 
 May this be your lot with you and your families, I humbly pray in the name of
 Jesus Christ, our Savior. Amen.
+
+## References
 

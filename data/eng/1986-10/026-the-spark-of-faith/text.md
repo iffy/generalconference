@@ -68,7 +68,7 @@ Christ, a Son of God, to atone for the sins of the world.
 "Now, as my mind caught hold upon this thought, I cried within my heart: O
 Jesus, thou Son of God, have mercy on me, who am in the gall of bitterness,
 and am encircled about by the everlasting chains of death" ([Alma
-36:16-18](https://www.lds.org/scriptures/bofm/alma/36.16-18?lang=eng#15)).
+36:16-18](/scriptures/bofm/alma/36.16-18?lang=eng#15)).
 
 Because his father had taught him that the Savior was his only source of hope,
 Alma began the process which took him to full repentance. If I had the chance
@@ -111,8 +111,7 @@ bringeth remission of sins;
 because of meekness and lowliness of heart cometh the visitation of the Holy
 Ghost, which Comforter filleth with hope and perfect love, which love endureth
 by diligence unto prayer, until the end shall come, when all the saints shall
-dwell with God" ([Moro.
-8:25-26](https://www.lds.org/scriptures/bofm/moro/8.25-26?lang=eng#24)).
+dwell with God" ([Moro. 8:25-26](/scriptures/bofm/moro/8.25-26?lang=eng#24)).
 
 If you try to imagine the Savior restoring a lost sheep to the fold, won't you
 picture him cradling it in his arms? That tenderness and love, Mormon
@@ -144,7 +143,7 @@ grieve thee, to weigh thee down unto death; but may Christ lift thee up, and
 may his sufferings and death, and the showing his body unto our fathers, and
 his mercy and long-suffering, and the hope of his glory and of eternal life,
 rest in your mind forever" ([Moro.
-9:25](https://www.lds.org/scriptures/bofm/moro/9.25?lang=eng#24)).
+9:25](/scriptures/bofm/moro/9.25?lang=eng#24)).
 
 What we can do to help--teaching, and doing it with the spirit of
 righteousness, with love, with tenderness, with example--centers on the Savior
@@ -168,4 +167,6 @@ given the power to offer again the full blessings of the gospel of Jesus
 Christ. I pray that we may never cease to offer the opportunity to choose
 those blessings to those in whom the spark of faith may yet be fanned to
 flame. In the name of Jesus Christ, amen.
+
+## References
 

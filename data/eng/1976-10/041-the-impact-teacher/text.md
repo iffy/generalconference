@@ -7,7 +7,7 @@ my flock was scattered upon all the face of the earth, and none did search or
 seek after them.
 
 "Therefore, ye shepherds, hear the word of the Lord." ([Ezek.
-34:6-7](https://www.lds.org/scriptures/ot/ezek/34.6-7?lang=eng#5).)
+34:6-7](/scriptures/ot/ezek/34.6-7?lang=eng#5).)
 
 As we near the close of this momentous conference, I would like to address my
 remarks to all who teach. I would like to discuss the role of the "impact
@@ -97,11 +97,11 @@ unloved and unwanted by me, his father!"
 
 Ezekiel said that the fathers have eaten sour grapes and it hath set the
 children's teeth on edge. (See [Ezek.
-18:2](https://www.lds.org/scriptures/ot/ezek/18.2?lang=eng#1).) Paraphrasing
-President Lee's statement, "The greatest teaching we will ever do is within
-the walls of our own home." We have a sacred trust to teach our children the
-principles of truth; but equally important is to love and care in following
-the way of the Master.
+18:2](/scriptures/ot/ezek/18.2?lang=eng#1).) Paraphrasing President Lee's
+statement, "The greatest teaching we will ever do is within the walls of our
+own home." We have a sacred trust to teach our children the principles of
+truth; but equally important is to love and care in following the way of the
+Master.
 
 Impact teachers are not cast in a certain mold in the spirit world and
 introduced on earth's scene at just the proper time. Every leader in the
@@ -220,7 +220,7 @@ Job:
 "Oh that my words were now written! oh that they were printed in a book!
 
 "That they were graven with an iron pen and lead in the rock for ever!" ([Job
-19:23-24](https://www.lds.org/scriptures/ot/job/19.23-24?lang=eng#22).)
+19:23-24](/scriptures/ot/job/19.23-24?lang=eng#22).)
 
 That the work of the impact teacher is to save every soul in the class or
 quorum!
@@ -257,4 +257,6 @@ of parents, bishops, and Aaronic Priesthood, Young Women, seminary, and Sunday
 School teachers who have been raised up for this special time with a special
 mission as impact teachers to this great generation. In the name of Jesus
 Christ. Amen.
+
+## References
 

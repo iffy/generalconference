@@ -9,11 +9,10 @@ brotherhood and fellowship that is there. Welcome, Elder Hales!
 
 The Book of Mormon begins with these words: "I, Nephi, having been born of
 goodly parents, therefore I was taught somewhat in all the learning of my
-father" ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0)). What a
-different world this would be if the personal journals of each of our Father
-in Heaven's children could begin with a similar phrase--having goodly parents
-and being taught by them.
+father" ([1 Ne. 1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0)). What a different
+world this would be if the personal journals of each of our Father in Heaven's
+children could begin with a similar phrase--having goodly parents and being
+taught by them.
 
 We live in such a special time in history, a time when the Lord's gospel has
 been restored in its fulness. Our missionary force is increasing in quality
@@ -66,7 +65,7 @@ God giveth unto all the obedient.
 
 "And Adam and Eve blessed the name of God, and they made all things known unto
 their sons and their daughters" ([Moses
-5:10-12](https://www.lds.org/scriptures/pgp/moses/5.10-12?lang=eng#9)).
+5:10-12](/scriptures/pgp/moses/5.10-12?lang=eng#9)).
 
 Yes, from the very beginning, the responsibility of parents teaching their
 children was among the instructions the Lord gave to our first earthly
@@ -86,8 +85,8 @@ the cause of your affliction.
 
 "And now a commandment I give unto you--if you will be delivered you shall set
 in order your own house, for there are many things that are not right in your
-house" ([D&amp;C 93:40, 42-43](https://www.lds.org/scriptures/dc-
-testament/dc/93.40%2C42-43?lang=eng#39)).
+house" ([D&amp;C 93:40, 42-43](/scriptures/dc-
+testament/dc/93.40,42-43?lang=eng#39)).
 
 Years ago the Church admonished all parents to hold weekly family home
 evenings. Today that admonition has been institutionalized in the homes of
@@ -219,4 +218,6 @@ the eternities hereafter.
 May God bless us that we may revitalize and strengthen this tremendously
 important program as we counsel together as family members is my prayer in the
 name of our Lord and Savior, Jesus Christ, amen.
+
+## References
 

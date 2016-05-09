@@ -16,10 +16,9 @@ tithing. This, too, was an important distinguishing feature of God's people.
 The Lord entered into covenant with Abraham, stating that He would make of him
 a great nation and make his name great. He said: "I will bless them that bless
 thee, and curse him that curseth thee: and in thee shall all families of the
-earth be blessed." ([Gen.
-12:3](https://www.lds.org/scriptures/ot/gen/12.3?lang=eng#2).) This was an
-everlasting covenant, and it was confirmed upon Isaac and later upon Jacob who
-was called Israel.
+earth be blessed." ([Gen. 12:3](/scriptures/ot/gen/12.3?lang=eng#2).) This was
+an everlasting covenant, and it was confirmed upon Isaac and later upon Jacob
+who was called Israel.
 
 This covenant has been literally realized so far as Abraham's posterity are
 concerned. It is also being fulfilled in that through him and his descendants
@@ -31,8 +30,7 @@ will be blessed.
 
 The Lord also made covenant with Abraham as follows: "Unto thy seed have I
 given this land, from the river of Egypt unto the great river, the river
-Euphrates." ([Gen.
-15:18](https://www.lds.org/scriptures/ot/gen/15.18?lang=eng#17).)
+Euphrates." ([Gen. 15:18](/scriptures/ot/gen/15.18?lang=eng#17).)
 
 At the present time the descendants of Abraham are contending over that land
 and that blessing.
@@ -55,7 +53,7 @@ faces all these words which the Lord commanded him.
 
 "And all the people answered together, and said, All that the Lord hath spoken
 we will do. And Moses returned the words of the people unto the Lord." ([Ex.
-19:3-8](https://www.lds.org/scriptures/ot/ex/19.3-8?lang=eng#2).)
+19:3-8](/scriptures/ot/ex/19.3-8?lang=eng#2).)
 
 However, Israel of old failed to keep the covenants, and as a result the Lord
 was displeased with them and calamities befell them.
@@ -73,19 +71,18 @@ from heaven, and gave him commandments; ...
 
 "That the fulness of my gospel might be proclaimed by the weak and the simple
 unto the ends of the world, and before kings and rulers." ([D&amp;C 1:17,
-22-23](https://www.lds.org/scriptures/dc-
-testament/dc/1.17%2C22-23?lang=eng#16).)
+22-23](/scriptures/dc-testament/dc/1.17,22-23?lang=eng#16).)
 
 And in the twenty-second section of the Doctrine and Covenants the Lord says:
 "This is a new and an everlasting covenant, even that which was from the
-beginning" ([D&amp;C 22:1](https://www.lds.org/scriptures/dc-
-testament/dc/22.1?lang=eng#0)), meaning the gospel of our Lord Jesus Christ.
+beginning" ([D&amp;C 22:1](/scriptures/dc-testament/dc/22.1?lang=eng#0)),
+meaning the gospel of our Lord Jesus Christ.
 
 Again in the forty-fifth section the Lord says: "And even so I have sent mine
 everlasting covenant into the world, to be a light to the world, and to be a
 standard for my people, and for the Gentiles to seek to it, and to be a
 messenger before my face to prepare the way before me." ([D&amp;C
-45:9](https://www.lds.org/scriptures/dc-testament/dc/45.9?lang=eng#8).)
+45:9](/scriptures/dc-testament/dc/45.9?lang=eng#8).)
 
 Baptism by water is a part of that covenant--that everlasting covenant. Before
 entering into the waters of baptism one must learn about the gospel. He must
@@ -111,7 +108,7 @@ do all things whatsoever the Lord their God shall command them;
 not their first estate shall not have glory in the same kingdom with those who
 keep their first estate; and they who keep their second estate [this estate]
 shall have glory added upon their heads for ever and ever." ([Abr.
-3:25-26](https://www.lds.org/scriptures/pgp/abr/3.25-26?lang=eng#24).)
+3:25-26](/scriptures/pgp/abr/3.25-26?lang=eng#24).)
 
 When we enter into the waters of baptism we enter into covenant with the Lord
 that we will keep the commandments that He has given us.
@@ -130,8 +127,7 @@ distinguishing part of the everlasting covenant as revealed to modern Israel
 in this day and age. The Lord has declared: "Behold, now it is called today
 until the coming of the Son of Man, and verily it is a day of sacrifice, and a
 day for the tithing of my people; for he that is tithed shall not be burned at
-his coming." ([D&amp;C 64:23](https://www.lds.org/scriptures/dc-
-testament/dc/64.23?lang=eng#22).)
+his coming." ([D&amp;C 64:23](/scriptures/dc-testament/dc/64.23?lang=eng#22).)
 
 On August 7, 1831, the Lord gave a commandment to the Church regarding the
 observance of the Sabbath day:
@@ -151,20 +147,19 @@ and before the Lord.
 
 "And on this day thou shalt do none other thing, only let thy food be prepared
 with singleness of heart that thy fasting may be perfect, or, in other words,
-that thy joy may be full." ([D&amp;C 59:9-13](https://www.lds.org/scriptures
-/dc-testament/dc/59.9-13?lang=eng#8).)
+that thy joy may be full." ([D&amp;C 59:9-13](/scriptures/dc-
+testament/dc/59.9-13?lang=eng#8).)
 
 This commandment is followed by a promise that if we will do these things the
-fulness of the earth will be ours. (See [D&amp;C
-59:16](https://www.lds.org/scriptures/dc-testament/dc/59.16?lang=eng#15).) The
-Lord outlines in detail what the fulness of the earth comprehends.
+fulness of the earth will be ours. (See [D&amp;C 59:16](/scriptures/dc-
+testament/dc/59.16?lang=eng#15).) The Lord outlines in detail what the fulness
+of the earth comprehends.
 
 Are we living up to this commandment? And if not, are we entitled to the
 blessings that accrue to those who keep their covenants with the Lord? The
 Lord says: "But learn that he who doeth the works of righteousness shall
 receive his reward, even peace in this world, and eternal life in the world to
-come." ([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
-testament/dc/59.23?lang=eng#22).)
+come." ([D&amp;C 59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22).)
 
 When we receive the priesthood we receive it with a covenant and promise. The
 Lord has told us, as recorded in the Doctrine and Covenants:
@@ -187,8 +182,7 @@ priesthood.
 
 "Therefore, all those who receive the priesthood, receive this oath and
 covenant of my Father, which he cannot break, neither can it be moved."
-([D&amp;C 84:33, 35-40](https://www.lds.org/scriptures/dc-
-testament/dc/84.33%2C35-40?lang=eng#32).)
+([D&amp;C 84:33, 35-40](/scriptures/dc-testament/dc/84.33,35-40?lang=eng#32).)
 
 There are among us those who break this covenant after receiving it and turn
 therefrom. We plead with them to repent and seek forgiveness of their folly
@@ -199,16 +193,16 @@ The Lord has made known to us by a revelation through the Prophet Joseph Smith
 that in the celestial kingdom there are three heavens or degrees of glory, and
 that in order to attain the highest degree of glory in our Heavenly Father's
 kingdom a man must enter into the new and everlasting covenant of marriage.
-(See [D&amp;C 132:15-21](https://www.lds.org/scriptures/dc-
-testament/dc/132.15-21?lang=eng#14).) In other words, he must be married for
-all eternity. The Lord explains that in order to receive a blessing at His
-hands, we must abide the law appointed for that blessing. He has said, "There
-is a law, irrevocably decreed in heaven before the foundations of this world,
-upon which all blessings are predicated--
+(See [D&amp;C 132:15-21](/scriptures/dc-testament/dc/132.15-21?lang=eng#14).)
+In other words, he must be married for all eternity. The Lord explains that in
+order to receive a blessing at His hands, we must abide the law appointed for
+that blessing. He has said, "There is a law, irrevocably decreed in heaven
+before the foundations of this world, upon which all blessings are
+predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19).)
+which it is predicated." ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19).)
 
 It must be understood that the covenant of marriage must be made and entered
 into and sealed by the Holy Spirit of Promise through the medium of him whom
@@ -218,10 +212,9 @@ of utmost importance. If we are to return into the presence of our Eternal
 Father and His Beloved Son and obtain eternal life, we must honor the covenant
 pertaining thereto. An ancient Book of Mormon prophet has said, "Adam fell
 that men might be; and men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).) In order to
-have true joy, the joy that our Father desires us to have, we must honor the
-covenants and the commandments involved in the gospel--the new and everlasting
-covenant.
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).) In order to have true joy, the
+joy that our Father desires us to have, we must honor the covenants and the
+commandments involved in the gospel--the new and everlasting covenant.
 
 The Prophet Joseph Smith, the first prophet of this dispensation, said,
 "Happiness is the object and design of our existence; and will be the end
@@ -233,4 +226,6 @@ God lives, Jesus is the Christ, Spencer W. Kimball is His living prophet. The
 everlasting gospel of our Lord and Master, which is the new and everlasting
 covenant, has been restored to earth. It is the plan of life and salvation. To
 these things I testify in the name of Jesus Christ. Amen.
+
+## References
 

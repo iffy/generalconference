@@ -11,12 +11,11 @@ is literally giving and not receiving in the Church of Jesus Christ.
 In the 107th section of the Doctrine and Covenants, we read: "The office of a
 bishop is in administering all temporal things;" and also to be a judge in
 Israel, "to do the business of the church, to sit in judgment upon
-transgressors. ..." ([D&amp;C 107:68, 72](https://www.lds.org/scriptures/dc-
-testament/dc/107.68%2C72?lang=eng#67).)
+transgressors. ..." ([D&amp;C 107:68, 72](/scriptures/dc-
+testament/dc/107.68,72?lang=eng#67).)
 
 And then in the 72nd section, we read that he is to keep the bishops
-storehouse. ([D&amp;C 72:10](https://www.lds.org/scriptures/dc-
-testament/dc/72.10?lang=eng#9).)
+storehouse. ([D&amp;C 72:10](/scriptures/dc-testament/dc/72.10?lang=eng#9).)
 
 Now in the Church in order to fill the bishops storehouse we have a commodity
 budget, and we assign this out to the regions; they in turn assign it to the
@@ -49,10 +48,10 @@ storehouses, not the culls from the farm or from the flocks or from the herds
 of cattle. We think it ought to be the very best, for do we not recall the
 scripture, "Inasmuch as ye have done it unto the least of these my brethren,
 ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).) I believe
-that is a two-edged sword, and if we give to the Lord, or give to these fine
-Saints who receive from the bishops storehouse the culls, I believe then that
-we might be dealt with justly by the Lord in a like manner.
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).) I believe that is a two-edged
+sword, and if we give to the Lord, or give to these fine Saints who receive
+from the bishops storehouse the culls, I believe then that we might be dealt
+with justly by the Lord in a like manner.
 
 Now there are some principles we also need to understand. One is this: when
 stake presidents and bishops contribute to the general committee from your
@@ -129,7 +128,7 @@ Then if you do this, he promises this: "Then shall thy light break forth as
 the morning, and thine health shall spring forth speedily: and thy
 righteousness shall go before thee; the glory of the Lord shall answer; thou
 shalt cry, and he shall say, Here I am." ([Isa.
-58:6-9](https://www.lds.org/scriptures/ot/isa/58.6-9?lang=eng#5).)
+58:6-9](/scriptures/ot/isa/58.6-9?lang=eng#5).)
 
 Now brethren, if I gave to a fast offering fund or contributed to a welfare
 production project, I want to tell you that if I did it for no other reason
@@ -149,7 +148,7 @@ repent; and except he repenteth of that which he hath done he perisheth
 forever, and hath no interest in the Kingdom of God.
 
 "For behold, are we not all beggars?" ([Mosiah
-4:16-19](https://www.lds.org/scriptures/bofm/mosiah/4.16-19?lang=eng#15).)
+4:16-19](/scriptures/bofm/mosiah/4.16-19?lang=eng#15).)
 
 I believe King Benjamin laid it on the line with us, brethren. Now think about
 that principle. I believe if we would use wisdom as we deal with the bishops
@@ -435,4 +434,6 @@ _I lift my lamp beside the golden door."_
 
 The gospel of Jesus Christ is the golden door, in the name of Jesus Christ,
 Amen.
+
+## References
 

@@ -2,20 +2,19 @@
 
 My beloved brothers and sisters and friends, the Savior announced, "Behold, I
 am Jesus Christ, whom the prophets testified shall come into the world." ([3
-Ne. 11:10](https://www.lds.org/scriptures/bofm/3-ne/11.10?lang=eng#9).) "I am
-the light of the world: he that followeth me shall not walk in darkness, but
-shall have the light of life." ([John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).)
+Ne. 11:10](/scriptures/bofm/3-ne/11.10?lang=eng#9).) "I am the light of the
+world: he that followeth me shall not walk in darkness, but shall have the
+light of life." ([John 8:12](/scriptures/nt/john/8.12?lang=eng#11).)
 
 There is much written and many sermons given concerning Christ--his ministry,
 teachings, miracles, atoning sacrifice, resurrection, and ascension to eternal
 glory. He is truly our Lord and Savior, our Redeemer and God. He said, "... I
 came down from heaven, not to do mine own will, but the will of him that sent
-me." ([John 6:38](https://www.lds.org/scriptures/nt/john/6.38?lang=eng#37).)
-"I am come that they might have life, and ... have it more abundantly." ([John
-10:10](https://www.lds.org/scriptures/nt/john/10.10?lang=eng#9).) "And ... I
-will come again, and receive you unto myself; that where I am, there ye may be
-also." ([John 14:3](https://www.lds.org/scriptures/nt/john/14.3?lang=eng#2).)
+me." ([John 6:38](/scriptures/nt/john/6.38?lang=eng#37).) "I am come that they
+might have life, and ... have it more abundantly." ([John
+10:10](/scriptures/nt/john/10.10?lang=eng#9).) "And ... I will come again, and
+receive you unto myself; that where I am, there ye may be also." ([John
+14:3](/scriptures/nt/john/14.3?lang=eng#2).)
 
 This is the purpose of our Savior's ministry on earth: that we might have life
 eternal and dwell in the heavens with him and our Heavenly Father.
@@ -25,10 +24,9 @@ miracles he performed were given as a witness and testimony that he is indeed
 the Son of God. His atoning sacrifice, the giving of his life, shows his great
 love for all mankind. He said, "Greater love hath no man than this, that a man
 lay down his life for his friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).) He has
-proven he is a friend to us. Yet, have we taken the time through prayer and
-study to know our Savior and to make ourselves a friend to him? J. G. Small
-penned these words:
+15:13](/scriptures/nt/john/15.13?lang=eng#12).) He has proven he is a friend
+to us. Yet, have we taken the time through prayer and study to know our Savior
+and to make ourselves a friend to him? J. G. Small penned these words:
 
 I've found a friend, oh, such a friend,
 
@@ -63,12 +61,12 @@ or that are deaf, or that are afflicted in any manner? Bring them hither and I
 will heal them, ...
 
 "... for I see that your faith is sufficient that I should heal you." ([3 Ne.
-17:7-8](https://www.lds.org/scriptures/bofm/3-ne/17.7-8?lang=eng#6).)
+17:7-8](/scriptures/bofm/3-ne/17.7-8?lang=eng#6).)
 
 So they brought their afflicted, their lame, their blind, and their dumb, and
 he healed them, every one. And all who were there, those who were healed and
 those who were whole, bowed down in gratitude and praise. (See [3 Ne.
-17:10](https://www.lds.org/scriptures/bofm/3-ne/17.10?lang=eng#9).)
+17:10](/scriptures/bofm/3-ne/17.10?lang=eng#9).)
 
 Then Christ called the children around him and commanded the multitude to
 kneel down upon the ground. He likewise knelt and prayed to the Father. The
@@ -89,7 +87,7 @@ behold, my joy is full.
 children, one by one, and blessed them, and prayed unto the Father for them.
 
 "And when he had done this he wept again." ([3 Ne.
-17:17-22](https://www.lds.org/scriptures/bofm/3-ne/17.17-22?lang=eng#16).)
+17:17-22](/scriptures/bofm/3-ne/17.17-22?lang=eng#16).)
 
 Do we feel the sweet spirit of those gathered and the great love Christ
 expressed to these good faithful people? Here was the great Master Teacher
@@ -100,7 +98,7 @@ Father in my name;
 
 "Pray in your families unto the Father, ... that your wives and your children
 may be blessed." ([3 Ne. 18:19,
-21](https://www.lds.org/scriptures/bofm/3-ne/18.19%2C21?lang=eng#18).)
+21](/scriptures/bofm/3-ne/18.19,21?lang=eng#18).)
 
 Do we understand what Christ is saying? He is telling us that as he prayed to
 the Father and healed the sick and blessed the children, that we also have the
@@ -110,7 +108,7 @@ together in love and harmony through such a spiritual influence.
 
 Let me repeat one scripture: "Blessed are ye because of your faith. And now
 behold, my joy is full." ([3 Ne.
-17:20](https://www.lds.org/scriptures/bofm/3-ne/17.20?lang=eng#19).)
+17:20](/scriptures/bofm/3-ne/17.20?lang=eng#19).)
 
 Christ's joy is made full when we are repentant, faithful, and keep God's
 commandments.
@@ -119,10 +117,9 @@ commandments.
 receive, for of such is the kingdom of God. Behold, for such I have laid down
 my life, and have taken it up again; therefore repent, and come unto me ye
 ends of the earth, and be saved." ([3 Ne.
-9:22](https://www.lds.org/scriptures/bofm/3-ne/9.22?lang=eng#21).) And "whoso
-repenteth of his sins ... and desireth to be baptized in my name, on this wise
-shall ye baptize them. ..." ([3 Ne.
-11:23](https://www.lds.org/scriptures/bofm/3-ne/11.23?lang=eng#22).)
+9:22](/scriptures/bofm/3-ne/9.22?lang=eng#21).) And "whoso repenteth of his
+sins ... and desireth to be baptized in my name, on this wise shall ye baptize
+them. ..." ([3 Ne. 11:23](/scriptures/bofm/3-ne/11.23?lang=eng#22).)
 
 Herein lies the beauty of the gospel: the opportunity for repentance,
 forgiveness, and life eternal, thus giving meaning to our Savior's atoning
@@ -135,14 +132,14 @@ and the redemption of men, and also their destruction and misery.
 "Therefore, ... whosoever will come may come and partake of the waters of life
 freely; and whosoever will not come the same is not compelled to come; but in
 the last day it shall be restored unto him according to his deeds." ([Alma
-42:26-27](https://www.lds.org/scriptures/bofm/alma/42.26-27?lang=eng#25).)
+42:26-27](/scriptures/bofm/alma/42.26-27?lang=eng#25).)
 
 In other words, the choice is ours: If we do good, good will be restored; if
 we do evil, misery will be our reward. The Lord is desirous of saving us all,
 yet knows some will not heed his plea. His anguish is shown when he says, "O
 Jerusalem, Jerusalem, ... how often would I have gathered thy children together,
 even as a hen gathereth her chickens under her wings, and ye would not!"
-([Matt. 23:37](https://www.lds.org/scriptures/nt/matt/23.37?lang=eng#36).)
+([Matt. 23:37](/scriptures/nt/matt/23.37?lang=eng#36).)
 
 Other prophets have also cried repentance to the people, telling them to
 hearken unto the voice of the Lord:
@@ -152,7 +149,7 @@ world, ye that have professed to have known the ways of righteousness
 nevertheless have gone astray, as sheep having no shepherd, notwithstanding a
 shepherd hath called after you and is still calling after you, but ye will not
 hearken unto his voice!" ([Alma
-5:37](https://www.lds.org/scriptures/bofm/alma/5.37?lang=eng#36).)
+5:37](/scriptures/bofm/alma/5.37?lang=eng#36).)
 
 Through his love and mercy, Jesus, the Good Shepherd, has called to each of
 us. To those who have sinned, he grants pardon. He rejoices in the salvation
@@ -188,7 +185,7 @@ will ye suffer that they transgress the laws of God, ...
 
 "But ye will teach them to walk in the ways of truth and soberness; ye will
 teach them to love one another, and to serve one another." ([Mosiah
-4:11-15](https://www.lds.org/scriptures/bofm/mosiah/4.11-15?lang=eng#10).)
+4:11-15](/scriptures/bofm/mosiah/4.11-15?lang=eng#10).)
 
 In our striving to do right, we are beset at times with trials and testing,
 but the Lord gives us this comforting assurance: "Come unto me, all ye that
@@ -196,18 +193,17 @@ labour and are heavy laden, and I will give you rest.
 
 "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and
 ye shall find rest unto your souls." ([Matt.
-11:28-29](https://www.lds.org/scriptures/nt/matt/11.28-29?lang=eng#27).)
+11:28-29](/scriptures/nt/matt/11.28-29?lang=eng#27).)
 
 "I am the light and the life of the world. I am Alpha and Omega, the beginning
 and the end.
 
 "Behold, I have come unto the world to bring redemption unto the world, to
 save the world from sin." ([3 Ne. 9:18,
-21](https://www.lds.org/scriptures/bofm/3-ne/9.18%2C21?lang=eng#17).)
+21](/scriptures/bofm/3-ne/9.18,21?lang=eng#17).)
 
 "And ... I will come again, and receive you unto myself; that where I am, there
-ye may be also." ([John
-14:3](https://www.lds.org/scriptures/nt/john/14.3?lang=eng#2).)
+ye may be also." ([John 14:3](/scriptures/nt/john/14.3?lang=eng#2).)
 
 Now is the time for us to prepare and be worthy for the fulfillment of this
 great promise. Many people have lost their proper sense of values and have
@@ -227,4 +223,6 @@ admiration for him. I will sustain him; I will uphold him; I will follow him,
 for I know that he is the Lord's anointed to His people today. God bless us
 all to be faithful and true to the covenants we have made with our Lord, I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

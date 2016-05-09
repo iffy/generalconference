@@ -5,7 +5,7 @@ people throughout the world whose hearts are turned to Jesus of Nazareth. To
 the Samaritan woman at Jacob's Well who said, "I know that Messias cometh ... :
 when he is come, he will tell us all things" came Christ's declaration, "I
 that speak unto thee am he." ([John
-4:25-26](https://www.lds.org/scriptures/nt/john/4.25-26?lang=eng#24).)
+4:25-26](/scriptures/nt/john/4.25-26?lang=eng#24).)
 
 Many of the heavenly directed events leading up to and following the
 crucifixion of our Lord have been narrated by the early Apostles and other
@@ -23,14 +23,14 @@ together with spices, according to the Jewish custom of preparing a body for
 burial. They laid the body reverently in the rocky niche of a tomb in a garden
 that belonged to Joseph. The tomb had never been used. It was the day before
 the Jewish Sabbath. (See [John
-19:38-42](https://www.lds.org/scriptures/nt/john/19.38-42?lang=eng#37).)
+19:38-42](/scriptures/nt/john/19.38-42?lang=eng#37).)
 
 The next day Pilate gave permission for the tomb to be carefully guarded until
 the third day, so the disciples could not steal the body and then tell the
 people that Jesus had risen from the dead, as had been prophesied. The chief
 priests and Pharisees made the tomb secure, sealing the stone and leaving a
 guard on watch. (See [Matt.
-27:62-66](https://www.lds.org/scriptures/nt/matt/27.62-66?lang=eng#61).)
+27:62-66](/scriptures/nt/matt/27.62-66?lang=eng#61).)
 
 Before daylight the next morning, Mary Magdalene and Mary the mother of James,
 having prepared fresh spices and ointments, went to the tomb of Jesus and
@@ -57,19 +57,17 @@ my Father, and your Father; and to my God, and your God."
 Filled with amazement, she hastened to obey and repeated that glorious message
 which would give hope through all future ages and to which she added her
 personal declaration that she had seen the Lord. (See [John
-20:1-18](https://www.lds.org/scriptures/nt/john/20.1-18?lang=eng#0).)
+20:1-18](/scriptures/nt/john/20.1-18?lang=eng#0).)
 
 Later, women carrying spices for the final preparation of the body for burial
 looked in the tomb and witnessed angels, who said, "Ye seek Jesus of Nazareth,
 which was crucified. Why seek ye the living among the dead? He is not here,
-but is risen." ([Mark
-16:6](https://www.lds.org/scriptures/nt/mark/16.6?lang=eng#5); [Luke
-24:6](https://www.lds.org/scriptures/nt/luke/24.6?lang=eng#5).)
+but is risen." ([Mark 16:6](/scriptures/nt/mark/16.6?lang=eng#5); [Luke
+24:6](/scriptures/nt/luke/24.6?lang=eng#5).)
 
 The angels told the women to go and notify the disciples, but the men believed
-them not. (See [Mark
-16:7](https://www.lds.org/scriptures/nt/mark/16.7?lang=eng#6); [Luke
-24:9-11](https://www.lds.org/scriptures/nt/luke/24.9-11?lang=eng#8).)
+them not. (See [Mark 16:7](/scriptures/nt/mark/16.7?lang=eng#6); [Luke
+24:9-11](/scriptures/nt/luke/24.9-11?lang=eng#8).)
 
 The Gospel according to Luke relates that on that same day two of Jesus'
 followers were on their way to a village called Emmaus, about eight miles from
@@ -121,8 +119,8 @@ he talked to us on the road and explained the scriptures to us?"
 
 They hurried back to Jerusalem, where they found ten of the Apostles and other
 disciples gathered together, with the doors closed for fear of the Jews. (See
-[John 20:19](https://www.lds.org/scriptures/nt/john/20.19?lang=eng#18).) They
-declared, "The Lord is risen indeed, and hath appeared to Simon."
+[John 20:19](/scriptures/nt/john/20.19?lang=eng#18).) They declared, "The Lord
+is risen indeed, and hath appeared to Simon."
 
 The two men then explained what had happened on the road and how they had
 recognized the Lord when he broke the bread.
@@ -150,7 +148,7 @@ Then he opened their minds to understand the scriptures and said to them,
 the dead the third day: And that repentance and remission of sins should be
 preached in his name among all nations, beginning at Jerusalem." And then he
 reminded them, "Ye are witnesses of these things." (See [Luke
-24:13-48](https://www.lds.org/scriptures/nt/luke/24.13-48?lang=eng#12).)
+24:13-48](/scriptures/nt/luke/24.13-48?lang=eng#12).)
 
 One of the Twelve, named Thomas, was not with them when Jesus came, so the
 other disciples told him, "We have seen the Lord." Thomas said to them,
@@ -172,23 +170,23 @@ Thomas' only answer unto him was, "My Lord and my God."
 
 And Jesus said unto him, "Thomas, because thou hast seen me, thou hast
 believed: blessed are they that have not seen, and yet have believed." (See
-[John 20:25-29](https://www.lds.org/scriptures/nt/john/20.25-29?lang=eng#24).)
+[John 20:25-29](/scriptures/nt/john/20.25-29?lang=eng#24).)
 
 Perhaps no clearer declaration of fact has ever been made than those which
 tell of the literal resurrection of Christ. The record of appearances to the
 Apostles during the forty days following his resurrection--as a group or
 separately, to teach them "the things pertaining to the kingdom of God" ([Acts
-1:3](https://www.lds.org/scriptures/nt/acts/1.3?lang=eng#2))--leaves no cause
-for doubt. John informs us that "there are also many other things which Jesus
-did, the which, if they should be written, ... even the world itself could not
-contain the books that should be written." ([John
-21:25](https://www.lds.org/scriptures/nt/john/21.25?lang=eng#24).)
+1:3](/scriptures/nt/acts/1.3?lang=eng#2))--leaves no cause for doubt. John
+informs us that "there are also many other things which Jesus did, the which,
+if they should be written, ... even the world itself could not contain the books
+that should be written." ([John
+21:25](/scriptures/nt/john/21.25?lang=eng#24).)
 
 Shortly after Jesus' appearance to the disciples on the Eastern Hemisphere, he
 appeared to the Nephites on the Western Hemisphere. God himself introduced his
 Son to the multitude: "Behold my Beloved Son, in whom I am well pleased, in
 whom I have glorified my name--hear ye him." ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).)
+11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).)
 
 "The people beheld a Man, clothed in a white robe, who descended and stood
 among them. He spake, saying: 'Behold, I am Jesus Christ, whom the prophets
@@ -196,26 +194,22 @@ testified shall come into the world; and behold, I am the light and the life
 of the world; and I have drunk out of that bitter cup which the Father hath
 given me, and have glorified the Father in taking upon me the sins of the
 world, in the which I have suffered the will of the Father in all things from
-the beginning.' [[3 Ne.
-11:10-11](https://www.lds.org/scriptures/bofm/3-ne/11.10-11?lang=eng#9).] The
-multitude [knelt] in adoration for they remembered that their prophets had
+the beginning.' [[3 Ne. 11:10-11](/scriptures/bofm/3-ne/11.10-11?lang=eng#9).]
+The multitude [knelt] in adoration for they remembered that their prophets had
 foretold that the Lord would appear among them after His resurrection and
 ascension.
 
 "As He directed, the people arose, and one by one came to Him, and did see and
 feel the prints of the nails in His hands and feet and the spear-wound in His
 side. ... With one accord they cried: "Hosanna! blessed be the name of the Most
-High God!" [[3 Ne.
-11:17](https://www.lds.org/scriptures/bofm/3-ne/11.17?lang=eng#16).] Then,
+High God!" [[3 Ne. 11:17](/scriptures/bofm/3-ne/11.17?lang=eng#16).] Then,
 falling at the feet of Jesus, they worshiped Him." (James E. Talmage, _Jesus
 the Christ,_ Salt Lake City: Deseret Book Co., 1916, p. 725.)
 
 When Joseph Smith was visited by the Father and the resurrected Christ in
 1820, the latter was introduced by the Father, "This is My Beloved Son. Hear
-Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)), thus
-ushering in the marvelous events of the restoration of the gospel of Jesus
-Christ.
+Him!" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)), thus ushering in
+the marvelous events of the restoration of the gospel of Jesus Christ.
 
 Our resurrected Lord was seen in a vision by Joseph Smith and Sidney Rigdon in
 1832. Joseph recorded: "The Lord touched the eyes of our understandings, ...
@@ -234,15 +228,15 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:19-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.19-24?lang=eng#18).)
+([D&amp;C 76:19-24](/scriptures/dc-testament/dc/76.19-24?lang=eng#18).)
 
 Now, these fragmentary events which I have briefly portrayed bear record and
 witness that resurrection and eternal life come to us because of what Christ
 our Lord did for each of us. He declared, "I am the resurrection, and the
 life: he that believeth in me, though he were dead, yet shall he live: And
 whosoever liveth and believeth in me shall never die." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).) To
-this declaration of truth I bear my solemn witness, in the holy name of Jesus
-Christ, amen.
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).) To this declaration of
+truth I bear my solemn witness, in the holy name of Jesus Christ, amen.
+
+## References
 

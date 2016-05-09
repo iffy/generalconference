@@ -23,7 +23,7 @@ absolutely amazing.
 This great magnifying effect can be compared to a profound blessing that came
 to Jacob, who wrestled most of the night for a blessing:
 
-"And Jacob was left alone; and there wrestled [with a messenger [1]  from God]
+"And Jacob was left alone; and there wrestled [with a messenger[1] from God]
 until the breaking of the day. ...
 
 "And he said, Let me go, for the day breaketh. And he said, I will not let
@@ -32,7 +32,7 @@ thee go, except thou bless me.
 "And he said unto him, What is thy name? And he said, Jacob.
 
 "And he said, Thy name shall be called no more Jacob, but Israel: for as a
-prince hast thou power with God and with men, and hast prevailed." [2]
+prince hast thou power with God and with men, and hast prevailed."[2]
 
 Jacob received his blessing in this marvelous experience, and as heirs of
 Abraham through the blood of Israel we also receive our blessings of divine
@@ -42,7 +42,7 @@ favor. As the Lord said in the Doctrine and Covenants:
 
 "Therefore your life and the priesthood have remained, and must needs remain
 through you and your lineage until the restoration of all things spoken by the
-mouths of all the holy prophets since the world began." [3]
+mouths of all the holy prophets since the world began."[3]
 
 Unlike Jacob, we do not need to wrestle physically much of the night for
 blessings to strengthen and magnify us. In the Church, blessings are available
@@ -56,7 +56,7 @@ of Jesus Christ of Latter-day Saints.
 
 Elder John A. Widtsoe stated, "Every father, having children born to him under
 the covenant, is to them as a patriarch, and he has the right to bless his
-posterity in the authority of the Priesthood which he holds." [4]
+posterity in the authority of the Priesthood which he holds."[4]
 
 We know that the gospel always has and always will operate through families.
 Since early biblical times, order has been brought into the house of Israel
@@ -152,7 +152,7 @@ some of the responsibilities I would have in the kingdom of God on earth.
 President Heber J. Grant told of the patriarchal blessing he received: "That
 patriarch put his hands upon my head and bestowed upon me a little blessing
 that would perhaps be about one-third of a typewritten page. That blessing
-foretold my life to the present moment." [5]
+foretold my life to the present moment."[5]
 
 Elder John A. Widtsoe said: "It should always be kept in mind that the
 realization of the promises made may come in this or the future life. Men have
@@ -162,8 +162,7 @@ continues forever and that the labors of earth may be continued in heaven.
 Besides, the Giver of the blessings, the Lord, reserves the right to have them
 become active in our lives, as suits His divine purpose. We and our blessings
 are in the hands of the Lord. But, there is the general testimony that when
-the gospel law has been obeyed, the promised blessings have been realized."
-[6]
+the gospel law has been obeyed, the promised blessings have been realized."[6]
 
 This was well illustrated in my father's patriarchal blessing. He was told in
 his blessing that he would be blessed with "many beautiful daughters." He and
@@ -181,17 +180,17 @@ great many countries of the world, and most stakes have at least one
 patriarch. This growth permits many people across the earth the privilege of
 receiving patriarchal blessings. As President Joseph Fielding Smith stated,
 "The great _majority_ of those who become members of the Church are _literal
-descendants_ of Abraham through Ephraim, son of Joseph." [7]  However,
-Manasseh, the other son of Joseph, as well as the other sons of Jacob, have
-many descendants in the Church. There may be some come into the Church in our
-day who are not of Jacob's blood lineage. No one need assume that he or she
-will be denied any blessing by reason of not being of the blood lineage of
-Israel. The Lord told Abraham, "And I will bless them through thy name; for as
-many as receive this Gospel shall be called after thy name, and shall be
-accounted thy seed, and shall rise up and bless thee, as their father." [8]
+descendants_ of Abraham through Ephraim, son of Joseph."[7] However, Manasseh,
+the other son of Joseph, as well as the other sons of Jacob, have many
+descendants in the Church. There may be some come into the Church in our day
+who are not of Jacob's blood lineage. No one need assume that he or she will
+be denied any blessing by reason of not being of the blood lineage of Israel.
+The Lord told Abraham, "And I will bless them through thy name; for as many as
+receive this Gospel shall be called after thy name, and shall be accounted thy
+seed, and shall rise up and bless thee, as their father."[8]
 
 Nephi tells us that "as many of the Gentiles as will repent are the covenant
-people of the Lord." [9]  Therefore it makes no difference if the blessings of
+people of the Lord."[9] Therefore it makes no difference if the blessings of
 the house of Israel come by lineage or by adoption.
 
 Some might be disturbed because members of the same family have blessings
@@ -223,9 +222,8 @@ be strengthened every time we read our patriarchal blessings.
 Like the images in my grandmother's magnifying glass, we can become stronger,
 our talents and ability can be magnified and multiplied, our understanding can
 be greatly enlarged, and our spirituality can flower. Moroni taught that
-"every good gift cometh of Christ." [10]  But the Lord said, "What doth it
-profit a man if a gift is bestowed upon him, and he receive not the gift?"
-[11]
+"every good gift cometh of Christ."[10] But the Lord said, "What doth it
+profit a man if a gift is bestowed upon him, and he receive not the gift?"[11]
 
 I humbly and prayerfully urge any who for any reason may not have lived so as
 to realize a fulfillment of the priesthood blessings pronounced upon them to
@@ -242,25 +240,25 @@ amen.
 
 ## References
 
-  1.  See Joseph Fielding Smith, _Doctrines of Salvation,_ comp. Bruce R. McConkie, 3 vols. (Salt Lake City: Bookcraft, 1954-56), 1:17.
+  1. See Joseph Fielding Smith, _Doctrines of Salvation,_ comp. Bruce R. McConkie, 3 vols. (Salt Lake City: Bookcraft, 1954-56), 1:17.
 
-  2.   [Gen. 32:24, 26-28](https://www.lds.org/scriptures/ot/gen/32.24%2C26-28?lang=eng#23).
+  2. [Gen. 32:24, 26-28](https://www.lds.org/scriptures/ot/gen/32.24,26-28?lang=eng#23).
 
-  3.   [D&amp;C 86:9-10](https://www.lds.org/scriptures/dc-testament/dc/86.9-10?lang=eng#8).
+  3. [D&amp;C 86:9-10](https://www.lds.org/scriptures/dc-testament/dc/86.9-10?lang=eng#8).
 
-  4.   _Evidences and Reconciliations,_ 3d ed. (Salt Lake City: Bookcraft, 1943), p. 72.
+  4. _Evidences and Reconciliations,_ 3d ed. (Salt Lake City: Bookcraft, 1943), p. 72.
 
-  5.  Quoted in James R. Clark, comp., _Messages of the First Presidency of The Church of Jesus Christ of Latter-day Saints,_ 6 vols. (Salt Lake City: Bookcraft, 1965-75), 5:152.
+  5. Quoted in James R. Clark, comp., _Messages of the First Presidency of The Church of Jesus Christ of Latter-day Saints,_ 6 vols. (Salt Lake City: Bookcraft, 1965-75), 5:152.
 
-  6.   _Evidences and Reconciliations,_ p. 75.
+  6. _Evidences and Reconciliations,_ p. 75.
 
-  7.   _Doctrines of Salvation,_ 3:246.
+  7. _Doctrines of Salvation,_ 3:246.
 
-  8.   [Abr. 2:10](https://www.lds.org/scriptures/pgp/abr/2.10?lang=eng#9).
+  8. [Abr. 2:10](https://www.lds.org/scriptures/pgp/abr/2.10?lang=eng#9).
 
-  9.   [2 Ne. 30:2](https://www.lds.org/scriptures/bofm/2-ne/30.2?lang=eng#1).
+  9. [2 Ne. 30:2](https://www.lds.org/scriptures/bofm/2-ne/30.2?lang=eng#1).
 
-  10.   [Moro. 10:18](https://www.lds.org/scriptures/bofm/moro/10.18?lang=eng#17).
+  10. [Moro. 10:18](https://www.lds.org/scriptures/bofm/moro/10.18?lang=eng#17).
 
-  11.   [D&amp;C 88:33](https://www.lds.org/scriptures/dc-testament/dc/88.33?lang=eng#32).
+  11. [D&amp;C 88:33](https://www.lds.org/scriptures/dc-testament/dc/88.33?lang=eng#32).
 

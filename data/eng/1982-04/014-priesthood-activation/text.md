@@ -24,8 +24,8 @@ Smith and Oliver Cowdery, saying,
 of Aaron, which holds the keys of the ministering of angels, and of the gospel
 of repentance, and of baptism by immersion for the remission of sins; and this
 shall never be taken again from the earth, until the sons of Levi do offer
-again an offering unto the Lord in righteousness." ([D&amp;C
-13](https://www.lds.org/scriptures/dc-testament/dc/13.title?lang=eng).)
+again an offering unto the Lord in righteousness." ([D&amp;C 13](/scriptures
+/dc-testament/dc/13?lang=eng).)
 
 If we just had the capacity to understand the full meaning of the holding of
 the keys of the ministering of angels and of the gospel of repentance and of
@@ -53,7 +53,7 @@ It is so easy to love those who are active and responsive and sometimes so
 difficult to do the same for those who are inactive and rebellious. To help us
 be successful leaders of youth, the Lord gave us a lesson we should learn
 well. It is the story of the prodigal son found in [Luke
-15:11-32](https://www.lds.org/scriptures/nt/luke/15.11-32?lang=eng#10).
+15:11-32](/scriptures/nt/luke/15.11-32?lang=eng#10).
 
 You will remember that a father divided his wealth between his two sons, the
 younger of whom "took his journey into a far country, and there wasted his
@@ -232,4 +232,6 @@ May we be so perceptive as to look through the window of each boy's heart and
 then have the wisdom to reach out, take his hand, and walk beside him on the
 pathway to exaltation and eternal life, I pray in the name of Jesus Christ,
 amen.
+
+## References
 

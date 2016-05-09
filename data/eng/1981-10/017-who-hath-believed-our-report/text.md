@@ -45,8 +45,8 @@ will soon sweep the earth as a devouring fire.
 
 This is a gloomy day of sorrow and sadness. The heavens gather blackness;
 men's hearts are failing them for fear (see [Luke
-21:26](https://www.lds.org/scriptures/nt/luke/21.26?lang=eng#25)); nations are
-perplexed and know not where to turn to find peace and security.
+21:26](/scriptures/nt/luke/21.26?lang=eng#25)); nations are perplexed and know
+not where to turn to find peace and security.
 
 This is a day in which mad men in high places can, in an instant, suddenly,
 unleash such fearful weapons that millions can be slain between the rising and
@@ -65,7 +65,7 @@ devilish that the Lord has given us a message to deliver to our fellowmen.
 "Wherefore, I the Lord, knowing the calamity which should come upon the
 inhabitants of the earth," he said, "called upon my servant Joseph Smith,
 Jun., and spake unto him from heaven, and gave him commandments." ([D&amp;C
-1:17](https://www.lds.org/scriptures/dc-testament/dc/1.17?lang=eng#16).)
+1:17](/scriptures/dc-testament/dc/1.17?lang=eng#16).)
 
 What then is our message for all men? It is the message of the Restoration. It
 is the glad tidings that a gracious God had restored the fulness of his
@@ -95,9 +95,9 @@ God in the full and complete sense; if it means having the true gospel in its
 everlasting fulness; if it means believing what Peter and Paul believed and
 finding fellowship in the same Church to which they belonged; if it means
 feeding the hungry, and clothing the naked, and loving our fellowmen, and
-keeping ourselves unspotted from the world (see [D&amp;C
-59:9](https://www.lds.org/scriptures/dc-testament/dc/59.9?lang=eng#8))--where
-else shall we find true Christians except among the Latter-day Saints?
+keeping ourselves unspotted from the world (see [D&amp;C 59:9](/scriptures/dc-
+testament/dc/59.9?lang=eng#8))--where else shall we find true Christians
+except among the Latter-day Saints?
 
 Let me say as soberly, as plainly, and as clearly as the English tongue
 permits that we believe in Christ and strive with all our power to keep his
@@ -106,8 +106,7 @@ received.
 
 We talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy in
 his name, and we know that his is the only name given under heaven whereby man
-can be saved. (See [Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11).)
+can be saved. (See [Acts 4:12](/scriptures/nt/acts/4.12?lang=eng#11).)
 
 We teach and testify that he is the Firstborn of the Father, that he is the
 one like unto God, that he himself is the Lord Omnipotent, the great Jehovah,
@@ -145,7 +144,7 @@ gospel was restored, and to him the Lord gave the keys of the kingdom.
 For this day, this age, this dispensation, Joseph Smith is the revealer of
 Christ and the knowledge of salvation. At the direction of the Lord, he
 organized the only true and living church on earth. (See [D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29).)
+1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29).)
 
 The Church is an organized body of true believers; it is the congregation of
 those who have accepted the holy gospel; and the gospel is the plan of
@@ -161,11 +160,10 @@ Father dwell.
 
 As it was with the prophets of old in their ministries, so it is with us in
 ours. We say as they did: Repent and believe the gospel, for the kingdom of
-heaven is at hand. (See [Matt.
-3:2](https://www.lds.org/scriptures/nt/matt/3.2?lang=eng#1).) Forsake Babylon;
-flee to Zion; find refuge in one of her stakes. Stand in holy places, and
-prepare for the Second Coming of the Son of Man. (See [D&amp;C
-45:32](https://www.lds.org/scriptures/dc-testament/dc/45.32?lang=eng#31).)
+heaven is at hand. (See [Matt. 3:2](/scriptures/nt/matt/3.2?lang=eng#1).)
+Forsake Babylon; flee to Zion; find refuge in one of her stakes. Stand in holy
+places, and prepare for the Second Coming of the Son of Man. (See [D&amp;C
+45:32](/scriptures/dc-testament/dc/45.32?lang=eng#31).)
 
 Salvation comes to those who accept the true gospel and live its laws. It is
 for those who call upon the Lord in mighty prayer until he pours out his
@@ -178,14 +176,13 @@ they believe in him of whom they have not heard? and how shall they hear
 without a preacher?
 
 "And how shall they preach, except they be sent?" ([Rom.
-10:13-14](https://www.lds.org/scriptures/nt/rom/10.13-14?lang=eng#12).)
+10:13-14](/scriptures/nt/rom/10.13-14?lang=eng#12).)
 
 Truly "faith cometh by hearing" the word of God taught by a legal
 administrator who has been called of God. ([Rom.
-10:17](https://www.lds.org/scriptures/nt/rom/10.17?lang=eng#16).) And as it
-was anciently, so it is today--it pleases "God by the foolishness of preaching
-to save them that believe." ([1 Cor.
-1:21](https://www.lds.org/scriptures/nt/1-cor/1.21?lang=eng#20).)
+10:17](/scriptures/nt/rom/10.17?lang=eng#16).) And as it was anciently, so it
+is today--it pleases "God by the foolishness of preaching to save them that
+believe." ([1 Cor. 1:21](/scriptures/nt/1-cor/1.21?lang=eng#20).)
 
 Our message is one of joy and rejoicing and glory and honor and triumph. True
 believers always rejoice in Christ and in his gospel.
@@ -211,8 +208,7 @@ find place with Abraham, Isaac, and Jacob in the kingdom of God, to go no more
 out.
 
 Now, as Isaiah expressed it, "Who hath believed our report? and to whom is the
-arm of the Lord revealed?" ([Isa.
-53:1](https://www.lds.org/scriptures/ot/isa/53.1?lang=eng#0).)
+arm of the Lord revealed?" ([Isa. 53:1](/scriptures/ot/isa/53.1?lang=eng#0).)
 
 Who will believe our words, and who will hear our message? Who will honor the
 name of Joseph Smith and accept the gospel restored through his
@@ -248,11 +244,11 @@ We invite all men of all sects, parties, and denominations to ponder such
 questions as these:
 
 Do I hunger and thirst after righteousness as did the Saints of old? (See
-[Matt. 5:6](https://www.lds.org/scriptures/nt/matt/5.6?lang=eng#5).)
+[Matt. 5:6](/scriptures/nt/matt/5.6?lang=eng#5).)
 
 Do I have an open mind and a willingness to prove all things and hold fast to
 that which is good? (See [1 Thes.
-5:21](https://www.lds.org/scriptures/nt/1-thes/5.21?lang=eng#20).)
+5:21](/scriptures/nt/1-thes/5.21?lang=eng#20).)
 
 Am I willing to receive new light and truth from heaven, light and truth that
 comes from a gracious God in whose sight a soul is just as precious now as it
@@ -270,4 +266,6 @@ We testify that God has given to us his everlasting gospel, and we invite all
 men to come and partake of its blessings with us.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

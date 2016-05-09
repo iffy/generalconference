@@ -22,15 +22,13 @@ God; that we might know the things that are freely given to us of God.
 
 "Which things also we speak, not in the words which man's wisdom teacheth, but
 which the Holy Ghost teacheth; comparing spiritual things with spiritual."
-(See [1 Cor.
-2:11-14](https://www.lds.org/scriptures/nt/1-cor/2.11-14?lang=eng#10).)
+(See [1 Cor. 2:11-14](/scriptures/nt/1-cor/2.11-14?lang=eng#10).)
 
 Brigham Young was a pragmatist, level-headed and down-to-earth. A glazier by
 trade, he became the second president of the Church after the death of the
 Prophet Joseph Smith. He led the Saints into a trackless waste and kept them
 from perishing until they forged a new life by making the desert blossom as
-the rose (see [Isa.
-35:1](https://www.lds.org/scriptures/ot/isa/35.1?lang=eng#0)). He recognized
+the rose (see [Isa. 35:1](/scriptures/ot/isa/35.1?lang=eng#0)). He recognized
 the practical and sensible aspects of religious life and service to God; yet
 from this down-to-earth, practical prophet come these words:
 
@@ -48,17 +46,16 @@ light of Christ enlightens all who come into the world, the spirit of the Holy
 Ghost is something more. The Holy Ghost is the third member of the Godhead; a
 personage of spirit, he speaks not for himself, but testifies to all that
 Jesus is the Christ, the Son of God, and conveys to man the mind and will of
-the Lord (see [John
-16:13-15](https://www.lds.org/scriptures/nt/john/16.13-15?lang=eng#12)). He
+the Lord (see [John 16:13-15](/scriptures/nt/john/16.13-15?lang=eng#12)). He
 has a sanctifying and cleansing influence upon the souls of men and is the
 source of spiritual gifts. Just as Ephesians tells us that there is one Lord,
 one faith, and one baptism (see [Eph.
-4:5](https://www.lds.org/scriptures/nt/eph/4.5?lang=eng#4)), so this gift of
-the Holy Ghost can only come in one way. Only the right authority is
-acceptable for baptism and conferring the gift of the Holy Ghost, and this was
-made clear when Paul traveled to Ephesus and rebaptized some who had not been
-baptized with the right authority and then conferred upon them the Holy Ghost
-(see [Acts 19](https://www.lds.org/scriptures/nt/acts/19.title?lang=eng)).
+4:5](/scriptures/nt/eph/4.5?lang=eng#4)), so this gift of the Holy Ghost can
+only come in one way. Only the right authority is acceptable for baptism and
+conferring the gift of the Holy Ghost, and this was made clear when Paul
+traveled to Ephesus and rebaptized some who had not been baptized with the
+right authority and then conferred upon them the Holy Ghost (see [Acts
+19](/scriptures/nt/acts/19?lang=eng)).
 
 While the Spirit of the Holy Ghost will witness to a person that this is the
 gospel of Jesus Christ, the gift of the Holy Ghost comes only after a person
@@ -68,9 +65,8 @@ scripture:
 
 "Yea, behold, I will tell you in your mind and in your heart, by the Holy
 Ghost, which shall come upon you and which shall dwell in your heart"
-([D&amp;C 8:2](https://www.lds.org/scriptures/dc-
-testament/dc/8.2?lang=eng#1)). "Therefore, you shall feel that it is right"
-([D&amp;C 9:8](https://www.lds.org/scriptures/dc-
+([D&amp;C 8:2](/scriptures/dc-testament/dc/8.2?lang=eng#1)). "Therefore, you
+shall feel that it is right" ([D&amp;C 9:8](/scriptures/dc-
 testament/dc/9.8?lang=eng#7)).
 
 Some think that our ultimate judgment and reward will be based on how many
@@ -89,11 +85,11 @@ that govern the Spirit. The Spirit in turn will sanctify us, condition us
 spiritually, and eventually prepare us to live in the kingdom where God is.
 Hence the scripture: "They who are not sanctified through the law which I have
 given unto you, even the law of Christ, must inherit another kingdom"
-([D&amp;C 88:21](https://www.lds.org/scriptures/dc-
-testament/dc/88.21?lang=eng#20)). The laws that govern the Spirit are nothing
-more nor less than the laws that govern the Church. In addition, there is also
-an outpouring of the Spirit for those loyal to and willing to uphold the
-prophet and others who have been called to preside.
+([D&amp;C 88:21](/scriptures/dc-testament/dc/88.21?lang=eng#20)). The laws
+that govern the Spirit are nothing more nor less than the laws that govern the
+Church. In addition, there is also an outpouring of the Spirit for those loyal
+to and willing to uphold the prophet and others who have been called to
+preside.
 
 That the Spirit can and should have power in our lives and that we can have
 definite and measurable experiences associated with the Spirit is quite clear.
@@ -102,21 +98,21 @@ all who live the laws and commandments of Christ.
 
 We should seek the Spirit through the prayer of faith and through keeping the
 commandments, including partaking of the sacrament worthily, so that we might
-"have his Spirit to be with [us]" ([D&amp;C
-20:79](https://www.lds.org/scriptures/dc-testament/dc/20.79?lang=eng#78)).
+"have his Spirit to be with [us]" ([D&amp;C 20:79](/scriptures/dc-
+testament/dc/20.79?lang=eng#78)).
 
 The sons of Mosiah, for instance, were fasting and praying in preparation for
 their mission to the Lamanites; they wanted a portion of the Spirit of the
 Lord to go with them and abide with them. The answer is recorded in this
 verse: "And it came to pass that the Lord did visit them with his Spirit, and
 said unto them: Be comforted. And they were comforted" ([Alma
-17:10](https://www.lds.org/scriptures/bofm/alma/17.10?lang=eng#9)). Would you
-not be comforted if the Lord, by his Spirit, gave you the same experience?
+17:10](/scriptures/bofm/alma/17.10?lang=eng#9)). Would you not be comforted if
+the Lord, by his Spirit, gave you the same experience?
 
 The prophet Alma says: "And now behold, I ask of you, my brethren of the
 church, have ye spiritually been born of God? Have ye received his image in
 your countenances? Have ye experienced this mighty change in your hearts?"
-([Alma 5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13).)
+([Alma 5:14](/scriptures/bofm/alma/5.14?lang=eng#13).)
 
 Alma was making sure that the members of the Church had not just received the
 gift of the Holy Ghost, but also had truly received the sanctifying and
@@ -127,17 +123,15 @@ your very appearance will begin to take upon itself the image of Christ.
 
 What a great and powerful friend is this gift of the Holy Ghost! Certainly all
 who will turn to the Savior and abide by his laws will be healed by this
-Spirit (see [3 Ne.
-9:13](https://www.lds.org/scriptures/bofm/3-ne/9.13?lang=eng#12)). They will
+Spirit (see [3 Ne. 9:13](/scriptures/bofm/3-ne/9.13?lang=eng#12)). They will
 have the mind of Christ (see [1 Cor.
-2:16](https://www.lds.org/scriptures/nt/1-cor/2.16?lang=eng#15)), they will be
-"partakers of the divine nature" ([2 Pet.
-1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3)), they will begin
-to have the image of Christ in their countenances (see [Alma
-5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13)). Truly the
-gospel comes, as Paul said, not only in word, "but also in power," the
-sanctifying, cleansing, soul-enlarging power of the Holy Spirit ([1 Thes.
-1:5](https://www.lds.org/scriptures/nt/1-thes/1.5?lang=eng#4)).
+2:16](/scriptures/nt/1-cor/2.16?lang=eng#15)), they will be "partakers of the
+divine nature" ([2 Pet. 1:4](/scriptures/nt/2-pet/1.4?lang=eng#3)), they will
+begin to have the image of Christ in their countenances (see [Alma
+5:14](/scriptures/bofm/alma/5.14?lang=eng#13)). Truly the gospel comes, as
+Paul said, not only in word, "but also in power," the sanctifying, cleansing,
+soul-enlarging power of the Holy Spirit ([1 Thes.
+1:5](/scriptures/nt/1-thes/1.5?lang=eng#4)).
 
 After the death of the Prophet Joseph Smith, Brigham Young had a dream in
 which Joseph Smith appeared to him with the following advice: "Tell the
@@ -155,7 +149,7 @@ And these final words from the Doctrine and Covenants: "Therefore, sanctify
 yourselves that your minds become single to God, and the days will come that
 you shall see him; for he will unveil his face unto you, and it shall be in
 his own time, and in his own way, and according to his own will" ([D&amp;C
-88:68](https://www.lds.org/scriptures/dc-testament/dc/88.68?lang=eng#67)).
+88:68](/scriptures/dc-testament/dc/88.68?lang=eng#67)).
 
 And thus we have the end result of the workings of the Spirit, to bring us
 face to face with Jesus Christ, our Savior and Redeemer.
@@ -216,4 +210,6 @@ _Is fixed before my gaze._
 
 May the Lord help us to reach beyond the words of life and to capture this
 great spirit, I pray. In the name of Jesus Christ, amen.
+
+## References
 

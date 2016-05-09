@@ -207,8 +207,7 @@ the priesthood. May we follow the counsel of James:
 them pray over him, anointing him with oil in the name of the Lord:
 
 "And the _prayer of faith_ shall save the sick, and the Lord shall raise him
-up" ([James
-5:14-15](https://www.lds.org/scriptures/nt/james/5.14-15?lang=eng#13); italics
+up" ([James 5:14-15](/scriptures/nt/james/5.14-15?lang=eng#13); italics
 added).
 
 He who will follow me in speaking, President Howard W. Hunter, is a shining
@@ -252,8 +251,7 @@ Cherith, that is before Jordan.
 ravens to feed thee there.
 
 "So he [Elijah] _went and did_ according unto the word of the Lord" ([1 Kgs.
-17:1-5](https://www.lds.org/scriptures/ot/1-kgs/17.1-5?lang=eng#0); italics
-added).
+17:1-5](/scriptures/ot/1-kgs/17.1-5?lang=eng#0); italics added).
 
 There was no argument. There was no discussion. There was no rationalizing on
 the part of Elijah. He simply _"went and did."_
@@ -263,4 +261,6 @@ increase in faith. And so, dear Father, increase our faith in Thee, and in Thy
 Beloved Son, in Thy great eternal work, in ourselves as Thy children, and in
 our capacity to go and do according to Thy will, and Thy precepts, I humbly
 pray in the name of Jesus Christ, amen.
+
+## References
 

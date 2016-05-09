@@ -1,428 +1,349 @@
 items:
-- article_id: '03115_000_003'
-  item: '000'
+- item: 1
   key: 000-we-need-a-listening-ear
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: we-need-a-listening-ear
   speaker: Spencer W. Kimball
-  title: "\u201CWe Need a Listening Ear\u201D"
+  title: '"We Need a Listening Ear"'
   url: https://www.lds.org/general-conference/1979/10/we-need-a-listening-ear?lang=eng
   year: 1979
-- article_id: '03115_000_004'
-  item: '001'
+- item: 2
   key: 001-an-angel-from-on-high-the-long-long-silence-broke
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: an-angel-from-on-high-the-long-long-silence-broke
   speaker: Gordon B. Hinckley
-  title: "\u201CAn Angel from on High, the Long, Long Silence Broke\u201D"
+  title: '"An Angel from on High, the Long, Long Silence Broke"'
   url: https://www.lds.org/general-conference/1979/10/an-angel-from-on-high-the-long-long-silence-broke?lang=eng
   year: 1979
-- article_id: '03115_000_005'
-  item: '002'
+- item: 3
   key: 002-the-voice-of-the-lord-is-unto-all-people
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-voice-of-the-lord-is-unto-all-people
-  speaker: W. Grant Bangerter
+  speaker: William Grant Bangerter
   title: The Voice of the Lord Is unto All People
   url: https://www.lds.org/general-conference/1979/10/the-voice-of-the-lord-is-unto-all-people?lang=eng
   year: 1979
-- article_id: '03115_000_006'
-  item: '003'
+- item: 4
   key: 003-o-america-america
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: o-america-america
   speaker: Mark E. Petersen
   title: O America, America
   url: https://www.lds.org/general-conference/1979/10/o-america-america?lang=eng
   year: 1979
-- article_id: '03115_000_007'
-  item: '004'
+- item: 5
   key: 004-maintaining-spirituality
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: maintaining-spirituality
   speaker: Marion G. Romney
   title: Maintaining Spirituality
   url: https://www.lds.org/general-conference/1979/10/maintaining-spirituality?lang=eng
   year: 1979
-- article_id: 03115_000_008
-  item: '005'
+- item: 6
   key: 005-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: N. Eldon Tanner
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1979/10/the-sustaining-of-church-officers?lang=eng
   year: 1979
-- article_id: 03115_000_009
-  item: '006'
+- item: 7
   key: 006-prayers-and-answers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: prayers-and-answers
   speaker: Boyd K. Packer
   title: Prayers and Answers
   url: https://www.lds.org/general-conference/1979/10/prayers-and-answers?lang=eng
   year: 1979
-- article_id: '03115_000_010'
-  item: '007'
+- item: 8
   key: 007-joseph-smith-the-prophet
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: joseph-smith-the-prophet
   speaker: David B. Haight
   title: Joseph Smith the Prophet
   url: https://www.lds.org/general-conference/1979/10/joseph-smith-the-prophet?lang=eng
   year: 1979
-- article_id: '03115_000_011'
-  item: 008
+- item: 9
   key: 008-language-a-divine-way-of-communicating
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: language-a-divine-way-of-communicating
-  speaker: Elder Charles Didier
-  title: 'Language: A Divine Way of Communicating'
+  speaker: Charles A. Didier
+  title: Language:A Divine Way of Communicating
   url: https://www.lds.org/general-conference/1979/10/language-a-divine-way-of-communicating?lang=eng
   year: 1979
-- article_id: '03115_000_012'
-  item: 009
+- item: 10
   key: 009-therefore-i-was-taught
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: therefore-i-was-taught
   speaker: A. Theodore Tuttle
   title: Therefore I Was Taught
   url: https://www.lds.org/general-conference/1979/10/therefore-i-was-taught?lang=eng
   year: 1979
-- article_id: '03115_000_013'
-  item: '010'
+- item: 11
   key: 010-send-missionaries-from-every-nation
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: send-missionaries-from-every-nation
-  speaker: Elder Yoshihiko Kikuchi
+  speaker: Yoshihiko Kikuchi
   title: Send Missionaries from Every Nation
   url: https://www.lds.org/general-conference/1979/10/send-missionaries-from-every-nation?lang=eng
   year: 1979
-- article_id: '03115_000_014'
-  item: '011'
+- item: 12
   key: 011-a-witness-and-a-warning
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-witness-and-a-warning
   speaker: Ezra Taft Benson
   title: A Witness and a Warning
   url: https://www.lds.org/general-conference/1979/10/a-witness-and-a-warning?lang=eng
   year: 1979
-- article_id: '03115_000_015'
-  item: '012'
+- item: 13
   key: 012-making-the-right-decisions
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: making-the-right-decisions
   speaker: L. Tom Perry
   title: Making the Right Decisions
   url: https://www.lds.org/general-conference/1979/10/making-the-right-decisions?lang=eng
   year: 1979
-- article_id: '03115_000_016'
-  item: '013'
+- item: 14
   key: 013-the-governing-ones
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-governing-ones
   speaker: William R. Bradford
   title: The Governing Ones
   url: https://www.lds.org/general-conference/1979/10/the-governing-ones?lang=eng
   year: 1979
-- article_id: '03115_000_017'
-  item: '014'
+- item: 15
   key: 014-faith-in-the-lord-jesus-christ
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: faith-in-the-lord-jesus-christ
   speaker: Marion G. Romney
   title: Faith in the Lord Jesus Christ
   url: https://www.lds.org/general-conference/1979/10/faith-in-the-lord-jesus-christ?lang=eng
   year: 1979
-- article_id: 03115_000_018
-  item: '015'
+- item: 16
   key: 015-the-administration-of-the-church
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-administration-of-the-church
   speaker: N. Eldon Tanner
   title: The Administration of the Church
   url: https://www.lds.org/general-conference/1979/10/the-administration-of-the-church?lang=eng
   year: 1979
-- article_id: 03115_000_019
-  item: '016'
+- item: 17
   key: 016-our-sisters-in-the-church
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: our-sisters-in-the-church
   speaker: Spencer W. Kimball
   title: Our Sisters in the Church
   url: https://www.lds.org/general-conference/1979/10/our-sisters-in-the-church?lang=eng
   year: 1979
-- article_id: '03115_000_020'
-  item: '017'
+- item: 18
   key: 017-the-contributions-of-the-prophet-joseph-smith
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-contributions-of-the-prophet-joseph-smith
   speaker: N. Eldon Tanner
   title: The Contributions of the Prophet Joseph Smith
   url: https://www.lds.org/general-conference/1979/10/the-contributions-of-the-prophet-joseph-smith?lang=eng
   year: 1979
-- article_id: '03115_000_021'
-  item: 018
+- item: 19
   key: 018-the-mystery-of-mormonism
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-mystery-of-mormonism
   speaker: Bruce R. McConkie
   title: The Mystery of Mormonism
   url: https://www.lds.org/general-conference/1979/10/the-mystery-of-mormonism?lang=eng
   year: 1979
-- article_id: '03115_000_022'
-  item: 019
+- item: 20
   key: 019-prayer-to-our-heavenly-father
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: prayer-to-our-heavenly-father
   speaker: Bernard P. Brockbank
   title: Prayer to Our Heavenly Father
   url: https://www.lds.org/general-conference/1979/10/prayer-to-our-heavenly-father?lang=eng
   year: 1979
-- article_id: '03115_000_023'
-  item: '020'
+- item: 21
   key: 020-progress-through-change
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: progress-through-change
   speaker: Marvin J. Ashton
   title: Progress through Change
   url: https://www.lds.org/general-conference/1979/10/progress-through-change?lang=eng
   year: 1979
-- article_id: '03115_000_024'
-  item: '021'
+- item: 22
   key: 021-reading-the-scriptures
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: reading-the-scriptures
   speaker: Howard W. Hunter
   title: Reading the Scriptures
   url: https://www.lds.org/general-conference/1979/10/reading-the-scriptures?lang=eng
   year: 1979
-- article_id: '03115_000_025'
-  item: '022'
+- item: 23
   key: 022-pornography-the-deadly-carrier
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: pornography-the-deadly-carrier
   speaker: Thomas S. Monson
   title: "Pornography\u2014the Deadly Carrier"
   url: https://www.lds.org/general-conference/1979/10/pornography-the-deadly-carrier?lang=eng
   year: 1979
-- article_id: '03115_000_026'
-  item: '023'
+- item: 24
   key: 023-after-much-tribulation-come-the-blessings
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: after-much-tribulation-come-the-blessings
   speaker: Adney Y. Komatsu
-  title: "\u201CAfter Much Tribulation Come the Blessings\u201D"
+  title: '"After Much Tribulation Come the Blessings"'
   url: https://www.lds.org/general-conference/1979/10/after-much-tribulation-come-the-blessings?lang=eng
   year: 1979
-- article_id: '03115_000_027'
-  item: '024'
+- item: 25
   key: 024-happiness-now-and-forever
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: happiness-now-and-forever
   speaker: Richard G. Scott
   title: Happiness Now and Forever
   url: https://www.lds.org/general-conference/1979/10/happiness-now-and-forever?lang=eng
   year: 1979
-- article_id: 03115_000_028
-  item: '025'
+- item: 26
   key: 025-commandments-to-live-by
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: commandments-to-live-by
   speaker: O. Leslie Stone
   title: Commandments to Live By
   url: https://www.lds.org/general-conference/1979/10/commandments-to-live-by?lang=eng
   year: 1979
-- article_id: 03115_000_029
-  item: '026'
+- item: 27
   key: 026-we-will-go-with-our-young-and-with-our-old
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: we-will-go-with-our-young-and-with-our-old
   speaker: Hugh W. Pinnock
-  title: "\u201CWe Will Go with Our Young and with Our Old\u201D"
+  title: '"We Will Go with Our Young and with Our Old"'
   url: https://www.lds.org/general-conference/1979/10/we-will-go-with-our-young-and-with-our-old?lang=eng
   year: 1979
-- article_id: '03115_000_030'
-  item: '027'
+- item: 28
   key: 027-the-gift-of-the-holy-ghost
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-gift-of-the-holy-ghost
-  speaker: Elder LeGrand Richards
+  speaker: LeGrand Richards
   title: The Gift of the Holy Ghost
   url: https://www.lds.org/general-conference/1979/10/the-gift-of-the-holy-ghost?lang=eng
   year: 1979
-- article_id: '03115_000_031'
-  item: 028
+- item: 29
   key: 028-give-me-this-mountain
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: give-me-this-mountain
   speaker: Spencer W. Kimball
-  title: "\u201CGive Me This Mountain\u201D"
+  title: '"Give Me This Mountain"'
   url: https://www.lds.org/general-conference/1979/10/give-me-this-mountain?lang=eng
   year: 1979
-- article_id: '03115_000_032'
-  item: 029
+- item: 30
   key: 029-constancy-amid-change
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: constancy-amid-change
   speaker: N. Eldon Tanner
   title: Constancy Amid Change
   url: https://www.lds.org/general-conference/1979/10/constancy-amid-change?lang=eng
   year: 1979
-- article_id: '03115_000_033'
-  item: '030'
+- item: 31
   key: 030-the-relief-society-role-in-priesthood-councils
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: the-relief-society-role-in-priesthood-councils
   speaker: Barbara B. Smith
   title: The Relief Society Role in Priesthood Councils
   url: https://www.lds.org/general-conference/1979/10/the-relief-society-role-in-priesthood-councils?lang=eng
   year: 1979
-- article_id: '03115_000_034'
-  item: '031'
+- item: 32
   key: 031-priesthood-administration-of-welfare-services
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: priesthood-administration-of-welfare-services
   speaker: J. Thomas Fyans
   title: Priesthood Administration of Welfare Services
   url: https://www.lds.org/general-conference/1979/10/priesthood-administration-of-welfare-services?lang=eng
   year: 1979
-- article_id: '03115_000_035'
-  item: '032'
+- item: 33
   key: 032-blessing-the-one
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: blessing-the-one
   speaker: Victor L. Brown
   title: Blessing the One
   url: https://www.lds.org/general-conference/1979/10/blessing-the-one?lang=eng
   year: 1979
-- article_id: '03115_000_036'
-  item: '033'
+- item: 34
   key: 033-establishing-the-church-welfare-services-missionaries-are-an-important-resource
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: establishing-the-church-welfare-services-missionaries-are-an-important-resource
   speaker: James E. Faust
-  title: 'Establishing the Church: Welfare Services Missionaries Are an Important
-    Resource'
+  title: Establishing the Church:Welfare Services Missionaries Are an Important Resource
   url: https://www.lds.org/general-conference/1979/10/establishing-the-church-welfare-services-missionaries-are-an-important-resource?lang=eng
   year: 1979
-- article_id: '03115_000_037'
-  item: '034'
+- item: 35
   key: 034-the-role-of-a-bishop-in-the-church-welfare-program
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: the-role-of-a-bishop-in-the-church-welfare-program
   speaker: Marion G. Romney
   title: The Role of a Bishop in the Church Welfare Program
   url: https://www.lds.org/general-conference/1979/10/the-role-of-a-bishop-in-the-church-welfare-program?lang=eng
   year: 1979
-- article_id: '03115_000_047'
-  item: '035'
+- item: 36
   key: 035-the-role-of-righteous-women
   month: 10
-  session_id: womens meeting
   session_title: Women's Fireside Address
   slug: the-role-of-righteous-women
   speaker: Spencer W. Kimball
   title: The Role of Righteous Women
   url: https://www.lds.org/general-conference/1979/10/the-role-of-righteous-women?lang=eng
   year: 1979
-- article_id: 03115_000_048
-  item: '036'
+- item: 37
   key: 036-teaching-our-little-women
   month: 10
-  session_id: womens meeting
   session_title: Women's Fireside Address
   slug: teaching-our-little-women
   speaker: Naomi M. Shumway
   title: Teaching Our Little Women
   url: https://www.lds.org/general-conference/1979/10/teaching-our-little-women?lang=eng
   year: 1979
-- article_id: 03115_000_049
-  item: '037'
+- item: 38
   key: 037-our-mighty-errand
   month: 10
-  session_id: womens meeting
   session_title: Women's Fireside Address
   slug: our-mighty-errand
-  speaker: Sister Elaine Cannon
+  speaker: Elaine A. Cannon
   title: Our Mighty Errand
   url: https://www.lds.org/general-conference/1979/10/our-mighty-errand?lang=eng
   year: 1979
-- article_id: '03115_000_050'
-  item: 038
+- item: 39
   key: 038-women-for-the-latter-day
   month: 10
-  session_id: womens meeting
   session_title: Women's Fireside Address
   slug: women-for-the-latter-day
   speaker: Barbara B. Smith

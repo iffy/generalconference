@@ -60,7 +60,7 @@ in the midst of pain."
 Our Father in Heaven has promised us peace in times of trial and has provided
 a way for us to come to Him in our need. He has given us the privilege and
 power of prayer. He has told us to "pray always" and has promised He will pour
-out His Spirit upon us. ([D&amp;C 19:38](https://www.lds.org/scriptures/dc-
+out His Spirit upon us. ([D&amp;C 19:38](/scriptures/dc-
 testament/dc/19.38?lang=eng#37).)
 
 Thankfully, we can call upon Him anytime, anywhere. We can speak to Him in the
@@ -68,7 +68,7 @@ quiet thoughts of our mind and from the deepest feelings of our heart. It has
 been said, "prayer is made up of heart throbs and the righteous yearnings of
 the soul." (James E. Talmage, _Jesus the Christ,_ Salt Lake City: Deseret Book
 Co., 1977, p. 238.) Our Heavenly Father has told us He knows our thoughts and
-the intents of our hearts. ([D&amp;C 6:16](https://www.lds.org/scriptures/dc-
+the intents of our hearts. ([D&amp;C 6:16](/scriptures/dc-
 testament/dc/6.16?lang=eng#15).)
 
 President Marion G. Romney taught, "Sometimes the Lord puts thoughts in our
@@ -78,7 +78,7 @@ Conference Report, Taiwan Area Conference, 1975, p. 7.)
 For example, in response to Oliver Cowdery's prayer to know if the translation
 of the plates by Joseph Smith was true, the Lord answered, "Did I not speak
 peace to your mind concerning the matter? What greater witness can you have
-than from God?" ([D&amp;C 6:23](https://www.lds.org/scriptures/dc-
+than from God?" ([D&amp;C 6:23](/scriptures/dc-
 testament/dc/6.23?lang=eng#22).)
 
 The peace God speaks to our minds will let us know when decisions we have made
@@ -97,7 +97,7 @@ prayer, along with searching the scriptures and following the counsel of
 living prophets, keeps us in tune with the Lord and enables us to interpret
 the promptings of the Spirit more easily. The Lord has said; "Learn of me, and
 listen to my words; walk in the meekness of my Spirit, and you shall have
-peace in me." ([D&amp;C 19:23](https://www.lds.org/scriptures/dc-
+peace in me." ([D&amp;C 19:23](/scriptures/dc-
 testament/dc/19.23?lang=eng#22).)
 
 A few days ago I attended the funeral of a lifelong friend, Ralph Poulsen. He
@@ -132,25 +132,23 @@ crucifixion, with "soul ... exceeding sorrowful, even unto death," Jesus knelt
 in the Garden of Gethsemane and prayed to the Father, saying, "O my Father, if
 it be possible [and he acknowledged 'all things are possible unto thee'], let
 this cup pass from me: nevertheless not as I will, but as thou wilt." ([Matt.
-26:38-39](https://www.lds.org/scriptures/nt/matt/26.38-39?lang=eng#37); see
-also [Mark 14:36](https://www.lds.org/scriptures/nt/mark/14.36?lang=eng#35).)
+26:38-39](/scriptures/nt/matt/26.38-39?lang=eng#37); see also [Mark
+14:36](/scriptures/nt/mark/14.36?lang=eng#35).)
 
 We can only try to imagine the anguish the Savior felt when we read in the
 Gospels that He was "sore amazed and very heavy" ([Mark
-14:33](https://www.lds.org/scriptures/nt/mark/14.33?lang=eng#32)), that He
-"fell on his face" and prayed not once, but a second time, and then a third
-([Matt. 26:39, 42,
-44](https://www.lds.org/scriptures/nt/matt/26.39%2C42%2C44?lang=eng#38)).
-"Father, if thou be willing remove this cup from me: nevertheless not my will,
-but thine, be done." ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41).)
+14:33](/scriptures/nt/mark/14.33?lang=eng#32)), that He "fell on his face" and
+prayed not once, but a second time, and then a third ([Matt. 26:39, 42,
+44](/scriptures/nt/matt/26.39,42,44?lang=eng#38)). "Father, if thou be willing
+remove this cup from me: nevertheless not my will, but thine, be done." ([Luke
+22:42](/scriptures/nt/luke/22.42?lang=eng#41).)
 
 We cannot imagine the anguish of a loving Father, who, knowing what had to be
 done, accepted His Beloved Son's willingness to suffer for all mankind. In
 this agony Christ was not left alone. As if the Father were saying, "I cannot
 take it from you, but I can and will send you strength and peace," "there
 appeared an angel unto him from heaven, strengthening him." ([Luke
-22:43](https://www.lds.org/scriptures/nt/luke/22.43?lang=eng#42).)
+22:43](/scriptures/nt/luke/22.43?lang=eng#42).)
 
 If we, like the Savior, have the faith to put our trust in our Father in
 Heaven, to submit to His will, the true spirit of peace will come as a witness
@@ -202,10 +200,12 @@ prayer. May we not forget to pray.
 
 I join with Alma in saying: "May the peace of God rest upon you, ... from this
 time forth and forever." ([Alma
-7:27](https://www.lds.org/scriptures/bofm/alma/7.27?lang=eng#26).)
+7:27](/scriptures/bofm/alma/7.27?lang=eng#26).)
 
 With this testimony of peace through prayer, I bear witness of the reality of
 Jesus Christ and of His Father and of the Holy Ghost, who will lead our lives
 in the same _miraculous_ way through answers to our prayers of faith. In the
 name of Jesus Christ, amen.
+
+## References
 

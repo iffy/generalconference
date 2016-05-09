@@ -79,11 +79,12 @@ mantle, which is the bond of perfectness and peace.
 
 "Pray always, that ye may not faint, until I come. Behold, and lo, I will come
 quickly, and receive you unto myself [saith the Lord]. Amen." ([D&amp;C
-88:121, 123-26](https://www.lds.org/scriptures/dc-
-testament/dc/88.121%2C123-26?lang=eng#120).)
+88:121, 123-26](/scriptures/dc-testament/dc/88.121,123-26?lang=eng#120).)
 
 Our prayers go with you. May there come into your minds remembrances of the
 wonderful things we have heard as we have sat together as the Saints of God
 and partaken of his everlasting truths, I humbly pray in the name of Jesus
 Christ, amen.
+
+## References
 

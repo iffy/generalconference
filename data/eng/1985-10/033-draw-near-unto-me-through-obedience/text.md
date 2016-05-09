@@ -7,24 +7,21 @@ Son Jesus Christ.
 We have heard tonight how we may do this through prayer and the use of the
 scriptures. We have also been reminded that as we partake of the sacrament
 each Sunday our minds and our hearts should be filled with our commitment to
-"remember him and keep his commandments." ([D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76).) As
-we further listen to that prayer, we hear the promise "that they may always
-have his Spirit to be with them." ([D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76).)
+"remember him and keep his commandments." ([D&amp;C 20:77](/scriptures/dc-
+testament/dc/20.77?lang=eng#76).) As we further listen to that prayer, we hear
+the promise "that they may always have his Spirit to be with them." ([D&amp;C
+20:77](/scriptures/dc-testament/dc/20.77?lang=eng#76).)
 
 From the very beginning, God has taught his children that blessings come to
 those who are obedient. As He gave those special rules on Mount Sinai for the
 guidance of Israel, the Lord stated that He would _show mercy_ to them that
-kept His commandments. (See [Ex.
-20:6](https://www.lds.org/scriptures/ot/ex/20.6?lang=eng#5).) In Deuteronomy
-we are told that "the Lord commanded us ... _for our good always._" ([Deut.
-6:24](https://www.lds.org/scriptures/ot/deut/6.24?lang=eng#23); italics
-added.)
+kept His commandments. (See [Ex. 20:6](/scriptures/ot/ex/20.6?lang=eng#5).) In
+Deuteronomy we are told that "the Lord commanded us ... _for our good always._"
+([Deut. 6:24](/scriptures/ot/deut/6.24?lang=eng#23); italics added.)
 
 King Benjamin, giving his farewell address after a long life of service and
 experience, said, "If ye do keep his commandments he doth bless you." ([Mosiah
-2:22](https://www.lds.org/scriptures/bofm/mosiah/2.22?lang=eng#21).)
+2:22](/scriptures/bofm/mosiah/2.22?lang=eng#21).)
 
 Each of us can gain a sense of inner confidence and peace when we obey gospel
 principles.
@@ -64,10 +61,10 @@ year-old daughter during the remaining fifteen days. They had no money saved,
 and very little food.
 
 "The windows of heaven" as described in Malachi 3:10 [[Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9)] did open. That
-week a kind Relief Society sister brought fresh bread, their country's staple
-food. In addition, an overdue debt was paid to the husband, and just three
-months later he received a substantial pay promotion in his work.
+3:10](/scriptures/ot/mal/3.10?lang=eng#9)] did open. That week a kind Relief
+Society sister brought fresh bread, their country's staple food. In addition,
+an overdue debt was paid to the husband, and just three months later he
+received a substantial pay promotion in his work.
 
 Heavenly Father truly looked after their needs as they exercised great faith
 to be obedient.
@@ -75,7 +72,7 @@ to be obedient.
 In 1 Nephi we read, "If it so be that the children of men keep the
 commandments of God he doth nourish them, and strengthen them, and provide
 means whereby they can accomplish the thing which he has commanded them." ([1
-Ne. 17:3](https://www.lds.org/scriptures/bofm/1-ne/17.3?lang=eng#2).)
+Ne. 17:3](/scriptures/bofm/1-ne/17.3?lang=eng#2).)
 
 Again, listen to the words of King Benjamin: "I would desire that ye should
 consider on the blessed and happy state of those that keep the commandments of
@@ -83,13 +80,13 @@ God. For behold, they are blessed in all things, both temporal and spiritual;
 and if they hold out faithful to the end they are received into heaven, that
 thereby they may dwell with God in a state of never-ending happiness. O
 remember, remember that these things are true." ([Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40).)
+2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40).)
 
 Obedience brings blessings here and now. Jesus said, "If ye know these things,
 happy are ye if ye _do_ them." ([John
-13:17](https://www.lds.org/scriptures/nt/john/13.17?lang=eng#16); italics
-added.) Happiness and peace are found when we are in harmony with ourselves,
-with God, and with our fellowmen.
+13:17](/scriptures/nt/john/13.17?lang=eng#16); italics added.) Happiness and
+peace are found when we are in harmony with ourselves, with God, and with our
+fellowmen.
 
 Through obedience we build spiritual strength that sustains us during times of
 adversity. My friend and counselor Joy F. Evans tells of such a time in her
@@ -126,8 +123,7 @@ Peace can come to both the giver and the receiver as we follow the promptings
 of the Spirit to serve one another.
 
 The Lord said, "Keep my commandments, and _assist_ to bring forth my work."
-([D&amp;C 11:9](https://www.lds.org/scriptures/dc-
-testament/dc/11.9?lang=eng#8); italics added.)
+([D&amp;C 11:9](/scriptures/dc-testament/dc/11.9?lang=eng#8); italics added.)
 
 Sisters, as women in the Church, each of us has an important role to fill in
 building His kingdom on earth. The way to do this is clear. We have been
@@ -155,8 +151,10 @@ more of His children."
 Sisters, we are those instruments. He needs us, and we need Him. Instruments
 that are in tune play beautiful melodies. Be obedient. Be prayerful. Remember
 Him. Keep His commandments. Draw near to Him and feel the joy and peace that
-will come as He draws near unto you. (See [D&amp;C
-88:63](https://www.lds.org/scriptures/dc-testament/dc/88.63?lang=eng#62).)
+will come as He draws near unto you. (See [D&amp;C 88:63](/scriptures/dc-
+testament/dc/88.63?lang=eng#62).)
 
 I know these things to be true and say them in the name of Jesus Christ, amen.
+
+## References
 

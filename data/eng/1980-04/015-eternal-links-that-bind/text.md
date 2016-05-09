@@ -23,8 +23,7 @@ to our fathers. We are exalted as family units.
 
 The Prophet Joseph said, "It is necessary ... that a ... welding together of
 dispensations ... should take place ... from the days of Adam even to the present
-time" ([D&amp;C 128:18](https://www.lds.org/scriptures/dc-
-testament/dc/128.18?lang=eng#17)).
+time" ([D&amp;C 128:18](/scriptures/dc-testament/dc/128.18?lang=eng#17)).
 
 Then go, brethren. Be sealed to your wife and your sons and daughters. Be
 sealed to your fathers as far back as you can. Temples are built to perform
@@ -77,7 +76,7 @@ I testify that this is true.
 This testimony is echoed by thousands of humble Latter-day Saints whose labors
 bear witness of this truth! Elisha's words have been vindicated: "Fear not:
 for they that be with us are more than they that be with [the enemy]" ([2 Kgs.
-6:16](https://www.lds.org/scriptures/ot/2-kgs/6.16?lang=eng#15)).
+6:16](/scriptures/ot/2-kgs/6.16?lang=eng#15)).
 
 We have introduced the name-extraction program in many areas in order that the
 work might progress better. Brethren, assist this work wherever possible.
@@ -123,10 +122,12 @@ It was this supernal work--redemption of the living and the dead--of which the
 Prophet Joseph spoke when he said, "Brethren, shall we not go on in so great a
 cause? Go forward and not backward. Courage, brethren; and on, on to the
 victory! ... Let the dead speak forth anthems of eternal praise to the King
-Immanuel, ... for the prisoners shall go free" ([D&amp;C
-128:22](https://www.lds.org/scriptures/dc-testament/dc/128.22?lang=eng#21)).
+Immanuel, ... for the prisoners shall go free" ([D&amp;C 128:22](/scriptures/dc-
+testament/dc/128.22?lang=eng#21)).
 
 O God, please grant that the spirit of Elijah may fall upon the vast body of
 priesthood in thy Church, to cause thy great work to move forward. In the name
 of Jesus Christ, amen.
+
+## References
 

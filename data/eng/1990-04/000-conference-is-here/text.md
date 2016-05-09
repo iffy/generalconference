@@ -43,9 +43,8 @@ when he declared, "Beloved youth, you will have your trials and temptations
 through which you must pass, but there are great moments of eternity which lie
 ahead. You have our love and our confidence. We pray that you will be prepared
 for the reins of leadership. We say to you, 'Arise and shine forth' ([D&amp;C
-115:5](https://www.lds.org/scriptures/dc-testament/dc/115.5?lang=eng#4)) and
-be a light unto the world, a standard to others." (_New Era,_ June 1986, p.
-8.)
+115:5](/scriptures/dc-testament/dc/115.5?lang=eng#4)) and be a light unto the
+world, a standard to others." (_New Era,_ June 1986, p. 8.)
 
 My young brothers and sisters, from the days President Benson was a
 Scoutmaster to the present period of presiding over the entire Church, he has
@@ -88,14 +87,15 @@ Him, we shall indeed find Him.
 
 He may come to us as one unknown, without a name--as of old, by the lakeside,
 He came to those men who knew Him not. He speaks to us the same words, "Follow
-thou me" ([John
-21:22](https://www.lds.org/scriptures/nt/john/21.22?lang=eng#21)), and sets us
-to the task which He has to fulfill for our time. He commands, and to those
-who obey Him, whether they be wise or simple, He will reveal Himself in the
-toils, the conflicts, the sufferings which they shall pass through in His
-fellowship; and they shall learn in their own experience who He is.
+thou me" ([John 21:22](/scriptures/nt/john/21.22?lang=eng#21)), and sets us to
+the task which He has to fulfill for our time. He commands, and to those who
+obey Him, whether they be wise or simple, He will reveal Himself in the toils,
+the conflicts, the sufferings which they shall pass through in His fellowship;
+and they shall learn in their own experience who He is.
 
 I bear to you my witness that God does live, that Jesus is the Christ, our
 Redeemer, and that we are led today by God's prophet, even President Ezra Taft
 Benson. In the name of Jesus Christ, amen.
+
+## References
 

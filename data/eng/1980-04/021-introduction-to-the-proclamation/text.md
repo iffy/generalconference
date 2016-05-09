@@ -48,3 +48,5 @@ Gordon B. Hinckley of the Quorum of the Twelve Apostles, to speak in my behalf
 and in behalf of my brethren, to read this proclamation to you and to the
 world.
 
+## References
+

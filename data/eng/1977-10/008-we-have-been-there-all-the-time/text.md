@@ -7,8 +7,8 @@ President Richards always hits a sensitive note. I have thought through that
 parable of the talents many times and have read it perhaps a little
 differently than you have. The Lord said when we do what we are supposed to
 do, "Well done, ... good and faithful servant." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).) In my case,
-He might well say, "Well, Dunn!"
+25:21](/scriptures/nt/matt/25.21?lang=eng#20).) In my case, He might well say,
+"Well, Dunn!"
 
 On behalf of the Presidency of the First Quorum of the Seventy, we greet these
 three new brethren to our quorum.
@@ -156,4 +156,6 @@ You remember what President Kimball said: "Prevention is far better than
 redemption." God grant us the wisdom to know that life is a great journey, and
 may we have the sense to enjoy it. I bear witness to these truths in the holy
 name of Jesus Christ. Amen.
+
+## References
 

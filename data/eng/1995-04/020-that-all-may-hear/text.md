@@ -21,9 +21,9 @@ Long years ago a divine command was given by our Lord and Savior, Jesus
 Christ, as He said to His beloved eleven disciples: "Go ye therefore, and
 teach all nations, baptizing them in the name of the Father, and of the Son,
 and of the Holy Ghost: Teaching them to observe all things whatsoever I have
-commanded you: and, lo, I am with you alway, even unto the end of the world."
-[1]  Mark records that "they went forth, and preached every where, the Lord
-working with them." [2]
+commanded you: and, lo, I am with you alway, even unto the end of the
+world."[1] Mark records that "they went forth, and preached every where, the
+Lord working with them."[2]
 
 This sacred charge has not been rescinded. Rather, it has been reemphasized.
 The Prophet Joseph Smith set forth the purpose of the Church when he declared:
@@ -40,8 +40,8 @@ precious souls of mankind.
 
 It is almost as though the faces of many have been turned away from Him--even
 the Lord--who solemnly declared: "The worth of souls is great in the sight of
-God." [3]  The gentle words "Come, follow me," [4]  fall on many with stopped
-ears and closed hearts. Such seem to be attuned to another voice.
+God."[3] The gentle words "Come, follow me,"[4] fall on many with stopped ears
+and closed hearts. Such seem to be attuned to another voice.
 
 Do you, with me, remember the story from childhood days of that persuasive
 musician, the Pied Piper of Hamelin? You will recall that he entered Hamelin
@@ -59,7 +59,7 @@ their wake confused minds, troubled hearts, empty lives, and destroyed dreams.
 
 The deep yearning of countless numbers is expressed in the plea of one who
 spoke to Philip of old: "How can I [find my way], except some man should guide
-me?" [5]
+me?"[5]
 
 Brethren of the priesthood, the world is in need of your help. There are feet
 to steady, hands to grasp, minds to encourage, hearts to inspire, and souls to
@@ -75,17 +75,16 @@ the Lord which now numbers fifty thousand strong.
 How might you best respond? May I suggest a formula that will insure your
 success as missionaries:
 
-  1. Prepare with purpose;
+  1. **Prepare with purpose;**
+  2. **Teach with testimony;**
+  3. **Labor with love.**
 
-  2. Teach with testimony;
-
-  3. Labor with love.
-
-First, prepare with purpose. Remember the qualifying statement of the Master:
-"Behold, the Lord requireth the heart and a willing mind." [6]  Missionary
-work is difficult. It taxes one's energies, it strains one's capacity, it
-demands one's best effort--frequently a second effort. No other labor requires
-longer hours or greater devotion or such sacrifice and fervent prayer.
+First, **prepare with purpose.** Remember the qualifying statement of the
+Master: "Behold, the Lord requireth the heart and a willing mind."[6]
+Missionary work is difficult. It taxes one's energies, it strains one's
+capacity, it demands one's best effort--frequently a second effort. No other
+labor requires longer hours or greater devotion or such sacrifice and fervent
+prayer.
 
 President John Taylor summed up the requirements: "The kind of men we want as
 bearers of this Gospel message are men who have faith in God; men who have
@@ -93,35 +92,35 @@ faith in their religion; men who honor their priesthood; men in whom the
 people who know them have faith and in whom God has confidence. ... We want men
 full of the Holy Ghost and the power of God. ... Men who bear the words of life
 among the nations, ought to be men of honor, integrity, virtue and purity; and
-this being the command of God to us, we shall try and carry it out." [7]
+this being the command of God to us, we shall try and carry it out."[7]
 
-Second, teach with testimony. Peter and John, those converted fishermen who
-became Apostles, were warned not to preach Jesus Christ and Him crucified.
+Second, **teach with testimony.** Peter and John, those converted fishermen
+who became Apostles, were warned not to preach Jesus Christ and Him crucified.
 Their answer was firm: "Whether it be right in the sight of God to hearken
 unto you more than unto God, judge ye. For we cannot but speak the things
-which we have seen and heard." [8]
+which we have seen and heard."[8]
 
 Paul, the Apostle, that sterling testifier of truth, was speaking to all of us
 --members and missionaries alike--when he counseled his beloved friend
 Timothy, "Be thou an example of the believers, in word, in conversation, in
-charity, in spirit, in faith, in purity." [9]
+charity, in spirit, in faith, in purity."[9]
 
 Elder Delbert L. Stapley, who served as a member of the Council of the Twelve
 a number of years ago, quoted Paul in his epistle to the Romans: "For I am not
-ashamed of the gospel of Christ: for it is the power of God unto salvation."
-[10]  Then Elder Stapley added: "If we are not ashamed of the gospel of
-Christ, then we should not be ashamed to live it. And if we are not ashamed to
-live it, then we should not be ashamed to share it."
+ashamed of the gospel of Christ: for it is the power of God unto
+salvation."[10] Then Elder Stapley added: "If we are not ashamed of the gospel
+of Christ, then we should not be ashamed to live it. And if we are not ashamed
+to live it, then we should not be ashamed to share it."
 
-Third, labor with love. There is no substitute for love. Often this love is
-kindled in youth by a mother, expanded by a father, and kept vibrant through
-service to God. Remember the Lord's counsel: "And faith, hope, charity and
-love, with an eye single to the glory of God, qualify him for the work." [11]
-Well might each of us ask himself: _Today, have I increased in faith, in hope,
-in charity, in love?_ When our lives comply with God's standard and we labor
-with love to bring souls unto Him, those within our sphere of influence will
-never speak the lament, "The harvest is past, the summer is ended, and we are
-not saved." [12]
+Third, **labor with love.** There is no substitute for love. Often this love
+is kindled in youth by a mother, expanded by a father, and kept vibrant
+through service to God. Remember the Lord's counsel: "And faith, hope, charity
+and love, with an eye single to the glory of God, qualify him for the
+work."[11] Well might each of us ask himself: _Today, have I increased in
+faith, in hope, in charity, in love?_ When our lives comply with God's
+standard and we labor with love to bring souls unto Him, those within our
+sphere of influence will never speak the lament, "The harvest is past, the
+summer is ended, and we are not saved."[12]
 
 Young missionaries always have an idea as to where they would _love_ to serve.
 Usually it's a faraway place with a strange-sounding name.
@@ -164,8 +163,7 @@ Elder Jeffrey R. Holland. It is an excellent tool to be used in a missionary
 open house. Use it. The membership of the Church will grow and the Spirit of
 the Lord will be among us as we do so.
 
-Prepare with purpose. Teach with testimony. Labor with love. I testify to the
-truth of this formula and, indeed, this divine work of the Lord.
+**Prepare with purpose. Teach with testimony. Labor with love.** I testify to the truth of this formula and, indeed, this divine work of the Lord.
 
 Many years ago I boarded a plane in San Francisco en route to Los Angeles. As
 I sat down, the seat next to mine was empty. Soon, however, there occupied
@@ -184,7 +182,7 @@ much about it. However, it has aroused my curiosity."
 
 I wondered silently, _Should I be forward and say more about the Church?_ The
 words of the Apostle Peter crossed my mind: "Be ready always to give an answer
-to every [one] that asketh you a reason of the hope that is in you." [13]  I
+to every [one] that asketh you a reason of the hope that is in you."[13] I
 decided that now was the time for me to share my testimony with her. I told
 her that it had been my privilege years before to assist Elder Richards in
 printing that book. I mentioned the great missionary spirit of this man and
@@ -223,7 +221,7 @@ I sat silently for a few minutes after replacing the telephone receiver. The
 words of our Savior coursed through my mind: "And whoso receiveth you, there I
 will be also, for I will go before your face. I will be on your right hand and
 on your left, and my Spirit shall be in your hearts, and mine angels round
-about you, to bear you up." [14]
+about you, to bear you up."[14]
 
 Such is the promise to all of us when we pursue our missionary opportunities
 and follow the counsel and obey the commandments of Jesus of Nazareth, our
@@ -232,31 +230,31 @@ Christ, amen.
 
 ## References
 
-  1.   [Matt. 28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).
+  1. [Matt. 28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).
 
-  2.   [Mark 16:20](https://www.lds.org/scriptures/nt/mark/16.20?lang=eng#19).
+  2. [Mark 16:20](https://www.lds.org/scriptures/nt/mark/16.20?lang=eng#19).
 
-  3.   [D&amp;C 18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).
+  3. [D&amp;C 18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).
 
-  4.   [Luke 18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).
+  4. [Luke 18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).
 
-  5.   [Acts 8:31](https://www.lds.org/scriptures/nt/acts/8.31?lang=eng#30).
+  5. [Acts 8:31](https://www.lds.org/scriptures/nt/acts/8.31?lang=eng#30).
 
-  6.   [D&amp;C 64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33).
+  6. [D&amp;C 64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33).
 
-  7.  In _Journal of Discourses,_ 21:375.
+  7. In _Journal of Discourses,_ 21:375.
 
-  8.   [Acts 4:19-20](https://www.lds.org/scriptures/nt/acts/4.19-20?lang=eng#18).
+  8. [Acts 4:19-20](https://www.lds.org/scriptures/nt/acts/4.19-20?lang=eng#18).
 
-  9.   [1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).
+  9. [1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).
 
-  10.   [Rom. 1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).
+  10. [Rom. 1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).
 
-  11.   [D&amp;C 4:5](https://www.lds.org/scriptures/dc-testament/dc/4.5?lang=eng#4).
+  11. [D&amp;C 4:5](https://www.lds.org/scriptures/dc-testament/dc/4.5?lang=eng#4).
 
-  12.   [Jer. 8:20](https://www.lds.org/scriptures/ot/jer/8.20?lang=eng#19).
+  12. [Jer. 8:20](https://www.lds.org/scriptures/ot/jer/8.20?lang=eng#19).
 
-  13.   [1 Pet. 3:15](https://www.lds.org/scriptures/nt/1-pet/3.15?lang=eng#14).
+  13. [1 Pet. 3:15](https://www.lds.org/scriptures/nt/1-pet/3.15?lang=eng#14).
 
-  14.   [D&amp;C 84:88](https://www.lds.org/scriptures/dc-testament/dc/84.88?lang=eng#87).
+  14. [D&amp;C 84:88](https://www.lds.org/scriptures/dc-testament/dc/84.88?lang=eng#87).
 

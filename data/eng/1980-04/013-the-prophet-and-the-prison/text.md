@@ -97,7 +97,7 @@ and stature of the one we love so much. Respect and human dignity were
 witnessed. Again he taught well that all people are entitled to be treated as
 human beings, wherever they are found and regardless of where they have been.
 President Kimball, it was obvious, is a foe of sin but a friend of the sinner.
-The scripture found in [D&amp;C 50:26](https://www.lds.org/scriptures/dc-
+The scripture found in [D&amp;C 50:26](/scriptures/dc-
 testament/dc/50.26?lang=eng#25) came forcefully to my mind: "He that is
 ordained of God and sent forth, the same is appointed to be the greatest,
 notwithstanding he is the least and the servant of all."
@@ -157,32 +157,16 @@ trip to the prison? Much, I hope. Could I just quickly mention ten major
 points I observed? I think they can help us all be and do better if we will
 but follow his example.
 
-  1. He demonstrated how to interview "inactives," if you please, with friendly and sincere comments. His questions were free of embarrassment, ridicule, and criticism. How do you approach those who haven't been seen for a while and you want to reactivate?
-
-  2. He made others feel comfortable in his presence. He never talked down to anyone. He was always "one with" and not "one apart." Do we know how to make our associates feel comfortable during our visits, or are they allowed to feel we are just trying to improve our percentages?
-
-  3. He listened intently to the comments of his associates. Those about him knew they had his attention and his interest. I thought of the scripture found in [Luke 2:46-47](https://www.lds.org/scriptures/nt/luke/2.46-47?lang=eng#45): "After three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.
-
-"And all that heard him were astonished at his understanding and answers." In
-this case perhaps we are within our rights to paraphrase this quotation a
-little and say, "After a few minutes they found him in the prison, sitting in
-the midst of the prisoners, both hearing them and asking them questions.
-
-"And all that heard him were astonished at his capacity to ask and listen."
-
-  4. He was courteous. He knows well the fifth point of the Boy Scout Law and has undoubtedly been practicing it for more than seventy-five years.
-
-  5. He treated every person he met like a friend. He seemed to classify all he met into one category--basically good. Do you have the skill and capacity to be friendly to others when, in your limited vision, they may not seem to deserve it?
-
-  6. He expressed appreciation to everyone. No favor or assistance was ever taken for granted. "And in nothing doth man offend God, or against none is his wrath kindled, save those who confess not his hand in all things" ([D&amp;C 59:21](https://www.lds.org/scriptures/dc-testament/dc/59.21?lang=eng#20)). Some who escape our love and quorum associations are starving for a word of encouragement and appreciation.
-
-  7. He exhibited a dignity and poise that was most impressive. Governor Scott M. Matheson of the State of Utah was on hand during President Kimball's tour. As I walked, talked, and visited with both men, I was greatly impressed with the fact that the governor received the same treatment from President Kimball as did the inmates. Do you have the capacity to love the nonattender as much as you do the 100-percent attender?
-
-  8. He despises sin, but he loves the sinner. When I saw his arms go around the shoulders of the prisoners, I was touched. Are we beneath or above this type of behavior?
-
+  1. He demonstrated how to interview "inactives," if you please, with friendly and sincere comments. His questions were free of embarrassment, ridicule, and criticism. How do you approach those who haven't been seen for a while and you want to reactivate? 
+  2. He made others feel comfortable in his presence. He never talked down to anyone. He was always "one with" and not "one apart." Do we know how to make our associates feel comfortable during our visits, or are they allowed to feel we are just trying to improve our percentages? 
+  3. He listened intently to the comments of his associates. Those about him knew they had his attention and his interest. I thought of the scripture found in [Luke 2:46-47](/scriptures/nt/luke/2.46-47?lang=eng#45): "After three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. "And all that heard him were astonished at his understanding and answers." In this case perhaps we are within our rights to paraphrase this quotation a little and say, "After a few minutes they found him in the prison, sitting in the midst of the prisoners, both hearing them and asking them questions. "And all that heard him were astonished at his capacity to ask and listen."
+  4. He was courteous. He knows well the fifth point of the Boy Scout Law and has undoubtedly been practicing it for more than seventy-five years. 
+  5. He treated every person he met like a friend. He seemed to classify all he met into one category--basically good. Do you have the skill and capacity to be friendly to others when, in your limited vision, they may not seem to deserve it? 
+  6. He expressed appreciation to everyone. No favor or assistance was ever taken for granted. "And in nothing doth man offend God, or against none is his wrath kindled, save those who confess not his hand in all things" ([D&amp;C 59:21](/scriptures/dc-testament/dc/59.21?lang=eng#20)). Some who escape our love and quorum associations are starving for a word of encouragement and appreciation. 
+  7. He exhibited a dignity and poise that was most impressive. Governor Scott M. Matheson of the State of Utah was on hand during President Kimball's tour. As I walked, talked, and visited with both men, I was greatly impressed with the fact that the governor received the same treatment from President Kimball as did the inmates. Do you have the capacity to love the nonattender as much as you do the 100-percent attender? 
+  8. He despises sin, but he loves the sinner. When I saw his arms go around the shoulders of the prisoners, I was touched. Are we beneath or above this type of behavior? 
   9. He is available to all God's children. He made prisoners feel they were doing him a favor to let him have his picture taken with them. As I watched him in his personal associations, never once did I see him avoid a situation or an individual. When they wanted to shake his hand or have a picture, there was never "I'm tired" or "not now."
-
-  10. He took long and meaningful strides in the direction of all who were inclined to hesitate. He seems determined to bring those on the edges back. Do we have the same kind of continuing approach with those who are temporarily sidelined?
+  10. He took long and meaningful strides in the direction of all who were inclined to hesitate. He seems determined to bring those on the edges back. Do we have the same kind of continuing approach with those who are temporarily sidelined? 
 
 I am glad the time and conditions were right for President Kimball to visit
 his friends in prison and that I could be with him. One prisoner who stood by
@@ -190,11 +174,13 @@ his side for the picture is serving time for theft and burglary; the other is
 there for manslaughter. One was a member, one a nonmember. His greetings to
 them, "It is an honor for me to have my picture taken with you," continues to
 ring in my ears. "I was in prison, and ye came unto me" ([Matt.
-25:36](https://www.lds.org/scriptures/nt/matt/25.36?lang=eng#35)). Once again
-we have the heartwarming example of seeing how widely our President can spread
-his arms in love. He makes room for all of us. He will not give up on anyone.
+25:36](/scriptures/nt/matt/25.36?lang=eng#35)). Once again we have the
+heartwarming example of seeing how widely our President can spread his arms in
+love. He makes room for all of us. He will not give up on anyone.
 
 It is my hope and prayer that we will have the courage in our lives, homes,
 and quorums to lift, lead, and love in the way I saw demonstrated by a prophet
 in prison. This I humbly ask in the name of Jesus Christ, amen.
+
+## References
 

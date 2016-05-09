@@ -139,18 +139,19 @@ Our greatest challenge as missionaries will be to lift people up, to literally
 remove them from the ways of the world--a world that is being rocked with
 immorality, weakened by unclean thoughts, eroded by selfishness, and riddled
 with human pride. May virtue garnish our thoughts unceasingly; then our
-confidence will be strong in His service. (See [D&amp;C
-121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44).)
-We first must take ourselves out of the world as much as we can; then,
-standing on higher ground, we can reach out; we can lift up; we can then teach
-the truth. It shouldn't matter when the call comes. It shouldn't matter where
-we are asked to go. It may be within the ward, it could be halfway around the
-world; but as the Savior said during His most trying hour, "Father, ... not my
-will, but thine, be done." ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41).) I wonder if
-each of us could say that right here tonight: "Not my will, but thine."
+confidence will be strong in His service. (See [D&amp;C 121:45](/scriptures
+/dc-testament/dc/121.45?lang=eng#44).) We first must take ourselves out of the
+world as much as we can; then, standing on higher ground, we can reach out; we
+can lift up; we can then teach the truth. It shouldn't matter when the call
+comes. It shouldn't matter where we are asked to go. It may be within the
+ward, it could be halfway around the world; but as the Savior said during His
+most trying hour, "Father, ... not my will, but thine, be done." ([Luke
+22:42](/scriptures/nt/luke/22.42?lang=eng#41).) I wonder if each of us could
+say that right here tonight: "Not my will, but thine."
 
 May it be so, I pray, for in this great priesthood assemblage tonight are
 those foreordained to be the hope of the world; and I so declare it as my
 personal testimony, and I do it in the name of Jesus Christ. Amen.
+
+## References
 

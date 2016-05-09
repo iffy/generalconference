@@ -42,12 +42,12 @@ plan for us to progress and reach our highest potential and return to his
 presence. The Prophet Joseph Smith taught, "God himself, finding he was in the
 midst of spirits and glory, because he was more intelligent, saw proper to
 institute laws whereby the rest could have a privilege to advance like
-himself." [1]
+himself."[1]
 
 Jesus Christ is infinitely more than a great teacher and philosopher. He is
 the Firstborn Son of God, the Only Begotten Son in the flesh, the Savior and
 Redeemer of all mankind. He accepted the Father's great plan of happiness,
-saying, "Father, thy will be done, and the glory be thine forever." [2]  The
+saying, "Father, thy will be done, and the glory be thine forever."[2] The
 Father's plan gave us our agency to choose right or wrong, good or evil so we
 can learn, develop, and progress. As part of the plan, Jesus offered to atone
 for the sins of all mankind and bear the suffering for those sins, satisfying
@@ -58,7 +58,7 @@ He also offered his mortal life, was crucified, and became the first to be
 resurrected, making possible the literal resurrection of all of our Father's
 children. He created this earth under his Father's direction as a place for us
 to live in mortality and prove whether we would be obedient and "do all things
-whatsoever the Lord [our] God shall command." [3]  He also created innumerable
+whatsoever the Lord [our] God shall command."[3] He also created innumerable
 other worlds. He is our Mediator with the Father and our Exemplar in all
 things. His loving kindness toward us is beyond our comprehension. He stands
 at the head of his church, which bears his name, and directs it through his
@@ -77,16 +77,16 @@ upon that house; and it fell not: for it was founded upon a rock.
 be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
-upon that house; and it fell." [4]
+upon that house; and it fell."[4]
 
 To the Saints in this dispensation, he said, "Do good; let earth and hell
-combine against you, for if ye are built upon my rock, they cannot prevail."
-[5]
+combine against you, for if ye are built upon my rock, they cannot
+prevail."[5]
 
 The Holy Ghost is the third member of the Godhead. As the Prophet Joseph Smith
 taught, "The Father has a body of flesh and bones as tangible as man's; the
 Son also; but the Holy Ghost has not a body of flesh and bones, but is a
-personage of Spirit." [6]  He is a witness and testifier of the truth of the
+personage of Spirit."[6] He is a witness and testifier of the truth of the
 gospel. He is a revelator and teacher who conveys information to our spirits
 with far more certainty than is possible by our natural senses. He can guide
 us in every choice and decision and never will deceive or mislead us. He is a
@@ -97,7 +97,7 @@ truths. Two of his names are Lucifer and Satan. He is the adversary of our
 Heavenly Father and Jesus Christ and of everything that is good. He rejected
 the Father's plan in premortal life, saying, "Send me, I will be thy son, and
 I will redeem all mankind, that one soul shall not be lost, and surely I will
-do it; wherefore give me thine honor." [7]  The Father then said:
+do it; wherefore give me thine honor."[7] The Father then said:
 
 "Because that Satan rebelled against me, and sought to destroy the agency of
 man, which I, the Lord God, had given him, and also, that I should give unto
@@ -106,7 +106,7 @@ should be cast down;
 
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
-not hearken unto my voice." [8]
+not hearken unto my voice."[8]
 
 From that time forward, Satan has led the forces of evil in a battle for the
 souls of men in his attempt to frustrate the plan of salvation. We learn from
@@ -125,7 +125,7 @@ is sent forth by the power and gift of Christ; ...
 "But whatsoever thing persuadeth men to do evil, and believe not in Christ,
 and deny him, and serve not God ... is of the devil; for after this manner doth
 the devil work, for he persuadeth no man to do good, no, not one; neither do
-his angels; neither do they who subject themselves unto him." [9]
+his angels; neither do they who subject themselves unto him."[9]
 
 The sins of corruption, dishonesty, strife, contention, and other evils in
 this world are not here by chance. They are evidences of the relentless
@@ -139,8 +139,8 @@ no negative consequences. In truth, immorality is the underlying cause of much
 suffering and many other problems that are prevalent today, including rampant
 disease, abortion, broken families, families without fathers, and mothers who
 themselves are children. President Ezra Taft Benson said, "The plaguing sin of
-this generation is sexual immorality." [10]  The Lord said, "Thou shalt not ...
-commit adultery, ... nor do anything like unto it." [11]  That means we are to
+this generation is sexual immorality."[10] The Lord said, "Thou shalt not ...
+commit adultery, ... nor do anything like unto it."[11] That means we are to
 avoid abnormal sexual behavior, including fornication, homosexual behavior,
 child molestation, or any other perversion of God's plan of happiness.
 
@@ -155,21 +155,21 @@ addictive substances are poisons that are harmful to the human body.
 
 We can reach out to others in missionary service in response to the Savior's
 injunction to "go ... into all the world, and preach the gospel to every
-creature." [12]  The Lord used a harvest analogy when he instructed the early
+creature."[12] The Lord used a harvest analogy when he instructed the early
 Saints to proclaim the gospel. He said, "Behold, the field is white already to
 harvest; therefore, whoso desireth to reap, let him thrust in his sickle with
 his might, and reap while the day lasts, that he may treasure up for his soul
-everlasting salvation in the kingdom of God." [13]  That is our sacred
-privilege and obligation.
+everlasting salvation in the kingdom of God."[13] That is our sacred privilege
+and obligation.
 
 The field is still white and all ready to harvest. Church members remain a
 small percentage of the world's population. "For there are many yet on the
 earth among all sects, parties, and denominations ... who are only kept from the
-truth because they know not where to find it." [14]  In proclaiming the gospel
+truth because they know not where to find it."[14] In proclaiming the gospel
 we need to be sensitive to the feelings of others, remembering that "we claim
 the privilege of worshiping Almighty God according to the dictates of our own
 conscience, and allow all men the same privilege, let them worship how, where,
-or what they may." [15]
+or what they may."[15]
 
 Missionaries labor diligently to teach and baptize those who accept the
 gospel. In the process their own testimonies become deeply rooted. Missionary
@@ -177,7 +177,7 @@ service provides the finest foundation possible for young people as they move
 into adulthood. The deep roots they sink into the gospel will sustain them for
 a lifetime and for all eternity. The Church needs more missionaries, many
 more, including couples, to fulfill its charge to proclaim the gospel "unto
-all nations, kindreds, tongues and people." [16]
+all nations, kindreds, tongues and people."[16]
 
 God has revealed everything necessary for our salvation. We should teach and
 dwell on the things that have been revealed and avoid delving into so-called
@@ -187,7 +187,7 @@ religion, seminaries, or even as parents in their homes, is to base their
 teachings on the scriptures and the words of latter-day prophets.
 
 We should follow Paul's counsel to the Ephesians: "Be no more ... tossed to and
-fro, and carried about with every wind of doctrine." [17]  The winds of false
+fro, and carried about with every wind of doctrine."[17] The winds of false
 doctrine that are blowing today both outside and a few within the Church are
 far more dangerous to the ultimate salvation of mankind than are earthquakes,
 hurricanes, typhoons, volcanic eruptions, and other natural disasters. These
@@ -199,7 +199,7 @@ leadership of our prophet, seer, and revelator regardless of what the world
 does. We should strive always to be obedient to our Heavenly Father and Jesus
 Christ and should keep in mind these words of the Savior: "I, the Lord, am
 bound when ye do what I say; but when ye do not what I say, ye have no
-promise." [18]
+promise."[18]
 
 The Lord has reserved this land as the place for the restoration of his
 church. For this land to achieve its full potential, its citizens must remain
@@ -208,7 +208,7 @@ attacking the core foundations of this land. The Lord's law for this land is
 declared in the Book of Mormon, where we read that this land is a "land of
 promise" that "the Lord God had preserved for a righteous people. ... And
 whatsoever nation shall possess it shall serve God, or they shall be swept
-off." [19]  The only power strong enough to withstand a fulness of iniquity is
+off."[19] The only power strong enough to withstand a fulness of iniquity is
 the fulness of the gospel of Jesus Christ.
 
 As we understand and live the fundamental principles, we will develop
@@ -241,41 +241,41 @@ testimony humbly in the name of Jesus Christ, amen.
 
 ## References
 
-  1.   _Teachings of the Prophet Joseph Smith,_ p. 354.
+  1. _Teachings of the Prophet Joseph Smith,_ p. 354.
 
-  2.   [Moses 4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).
+  2. [Moses 4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).
 
-  3.   [Abr. 3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24).
+  3. [Abr. 3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24).
 
-  4.   [Matt. 7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).
+  4. [Matt. 7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).
 
-  5.   [D&amp;C 6:34](https://www.lds.org/scriptures/dc-testament/dc/6.34?lang=eng#33).
+  5. [D&amp;C 6:34](https://www.lds.org/scriptures/dc-testament/dc/6.34?lang=eng#33).
 
-  6.   [D&amp;C 130:22](https://www.lds.org/scriptures/dc-testament/dc/130.22?lang=eng#21).
+  6. [D&amp;C 130:22](https://www.lds.org/scriptures/dc-testament/dc/130.22?lang=eng#21).
 
-  7.   [Moses 4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0).
+  7. [Moses 4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0).
 
-  8.   [Moses 4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).
+  8. [Moses 4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).
 
-  9.   [Moro. 7:12-13, 16-17](https://www.lds.org/scriptures/bofm/moro/7.12-13%2C16-17?lang=eng#11).
+  9. [Moro. 7:12-13, 16-17](https://www.lds.org/scriptures/bofm/moro/7.12-13,16-17?lang=eng#11).
 
-  10.   _The Teachings of Ezra Taft Benson,_ Salt Lake City: Bookcraft, 1988, p. 277.
+  10. _The Teachings of Ezra Taft Benson,_ Salt Lake City: Bookcraft, 1988, p. 277.
 
-  11.   [D&amp;C 59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).
+  11. [D&amp;C 59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).
 
-  12.   [Mark 16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14).
+  12. [Mark 16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14).
 
-  13.   [D&amp;C 6:3](https://www.lds.org/scriptures/dc-testament/dc/6.3?lang=eng#2).
+  13. [D&amp;C 6:3](https://www.lds.org/scriptures/dc-testament/dc/6.3?lang=eng#2).
 
-  14.   [D&amp;C 123:12](https://www.lds.org/scriptures/dc-testament/dc/123.12?lang=eng#11).
+  14. [D&amp;C 123:12](https://www.lds.org/scriptures/dc-testament/dc/123.12?lang=eng#11).
 
-  15.   [A of F 1:11](https://www.lds.org/scriptures/pgp/a-of-f/1.11?lang=eng#10).
+  15. [A of F 1:11](https://www.lds.org/scriptures/pgp/a-of-f/1.11?lang=eng#10).
 
-  16.   [D&amp;C 42:58](https://www.lds.org/scriptures/dc-testament/dc/42.58?lang=eng#57).
+  16. [D&amp;C 42:58](https://www.lds.org/scriptures/dc-testament/dc/42.58?lang=eng#57).
 
-  17.   [Eph. 4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13).
+  17. [Eph. 4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13).
 
-  18.   [D&amp;C 82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9).
+  18. [D&amp;C 82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9).
 
-  19.  See Ether 2:7, 9.
+  19. See Ether 2:7, 9.
 

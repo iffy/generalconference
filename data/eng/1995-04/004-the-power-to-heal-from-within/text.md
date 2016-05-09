@@ -38,14 +38,14 @@ Another lesson taught by death concerns the importance of eternal families.
 Just as there are parents to greet a newborn on earth, the scriptures teach
 that caring family members greet the spirits in paradise and assist them in
 the adjustments to a new life (see [Gen.
-25:8](https://www.lds.org/scriptures/ot/gen/25.8?lang=eng#7); [Gen.
-35:29](https://www.lds.org/scriptures/ot/gen/35.29?lang=eng#28); [Gen.
-49:33](https://www.lds.org/scriptures/ot/gen/49.33?lang=eng#32)). While I was
-standing before the casket, the thought came that separation was not only a
-shock for the parents, but also for the young man as he suddenly found himself
-on the other side of the veil. I suspect that he would like to tell his
-parents once more how much he loves them. Brothers and sisters, heaven only
-exists if families are eternal.
+25:8](/scriptures/ot/gen/25.8?lang=eng#7); [Gen.
+35:29](/scriptures/ot/gen/35.29?lang=eng#28); [Gen.
+49:33](/scriptures/ot/gen/49.33?lang=eng#32)). While I was standing before the
+casket, the thought came that separation was not only a shock for the parents,
+but also for the young man as he suddenly found himself on the other side of
+the veil. I suspect that he would like to tell his parents once more how much
+he loves them. Brothers and sisters, heaven only exists if families are
+eternal.
 
 A fourth lesson, and perhaps the most important, concerns the purpose of life.
 To be meaningful, life must be more than the ephemeral pleasures of youth.
@@ -56,10 +56,9 @@ also be part of life's purpose.
 
 Death teaches that we do not experience a fulness of joy in mortality and that
 everlasting joy can be achieved only with the assistance of the Master (see
-[D&amp;C 93:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/93.33-34?lang=eng#32)). Just as the lame man at the pool of
-Bethesda needed someone stronger than himself to be healed (see [John
-5:1-9](https://www.lds.org/scriptures/nt/john/5.1-9?lang=eng#0)), so we are
+[D&amp;C 93:33-34](/scriptures/dc-testament/dc/93.33-34?lang=eng#32)). Just as
+the lame man at the pool of Bethesda needed someone stronger than himself to
+be healed (see [John 5:1-9](/scriptures/nt/john/5.1-9?lang=eng#0)), so we are
 dependent on the miracles of Christ's atonement if our souls are to be made
 whole from grief, sorrow, and sin. If grieving parents and loved ones have
 faith in the Savior and his plan, death's sting is softened as Jesus bears the
@@ -69,8 +68,7 @@ received a letter from the boy's parents telling me the peace they have found
 through their faith in Christ. They know that they will see their son again
 and be with him in the eternities. As Isaiah stated concerning the Savior,
 "Surely he hath borne our griefs, and carried our sorrows: ... And with his
-stripes we are healed" ([Isa.
-53:4-5](https://www.lds.org/scriptures/ot/isa/53.4-5?lang=eng#3)).
+stripes we are healed" ([Isa. 53:4-5](/scriptures/ot/isa/53.4-5?lang=eng#3)).
 
 The prophet Alma also spoke of Christ's healing power as he taught the
 Gideonites. Referring to Christ, Alma stated that he would go forth "suffering
@@ -79,21 +77,18 @@ might be fulfilled which saith he will take upon him the pains and the
 sicknesses of his people. ... And he will take upon him their infirmities, that
 his bowels may be filled with mercy, ... that he may know according to the flesh
 how to succor his people" ([Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10)).
-Whatever the source of pain, Jesus understands and can heal the spirit as well
-as the body.
+7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10)). Whatever the source of
+pain, Jesus understands and can heal the spirit as well as the body.
 
 The Savior, as a member of the Godhead, knows each of us personally. Isaiah
 and the prophet Abinadi said that when Christ would "make his soul an offering
 for sin, he shall see his seed" ([Isa.
-53:10](https://www.lds.org/scriptures/ot/isa/53.10?lang=eng#9); compare
-[Mosiah 15:10](https://www.lds.org/scriptures/bofm/mosiah/15.10?lang=eng#9)).
-Abinadi explains that "his seed" are the righteous, those who follow the
-prophets (see [Mosiah
-15:11](https://www.lds.org/scriptures/bofm/mosiah/15.11?lang=eng#10)). In the
-garden and on the cross, Jesus saw each of us and not only bore our sins, but
-also experienced our deepest feelings so that he would know how to comfort and
-strengthen us.
+53:10](/scriptures/ot/isa/53.10?lang=eng#9); compare [Mosiah
+15:10](/scriptures/bofm/mosiah/15.10?lang=eng#9)). Abinadi explains that "his
+seed" are the righteous, those who follow the prophets (see [Mosiah
+15:11](/scriptures/bofm/mosiah/15.11?lang=eng#10)). In the garden and on the
+cross, Jesus saw each of us and not only bore our sins, but also experienced
+our deepest feelings so that he would know how to comfort and strengthen us.
 
 As part of his redeeming power, Jesus can remove the sting of death or restore
 the spiritual health of a struggling soul. The scriptures are filled with
@@ -134,11 +129,11 @@ went their way, they were cleansed. One returned, fell on his face at the
 Master's feet, and gave thanks. Jesus said, "Were there not ten cleansed? but
 where are the nine?" And then the Lord said to the one who returned, "Arise,
 go thy way: thy faith hath made thee whole" (see [Luke
-17:12-19](https://www.lds.org/scriptures/nt/luke/17.12-19?lang=eng#11)). In
-becoming a whole person, the grateful leper was healed inside as well as on
-the outside. That day nine lepers were healed skin deep, but only one had the
-faith to be made whole. The tenth leper and Sister Hee were changed eternally
-by their faith in the Savior and the healing power of his atonement.
+17:12-19](/scriptures/nt/luke/17.12-19?lang=eng#11)). In becoming a whole
+person, the grateful leper was healed inside as well as on the outside. That
+day nine lepers were healed skin deep, but only one had the faith to be made
+whole. The tenth leper and Sister Hee were changed eternally by their faith in
+the Savior and the healing power of his atonement.
 
 The Savior's atonement in the garden and on the cross is intimate as well as
 infinite. Infinite in that it spans the eternities. Intimate in that the
@@ -147,4 +142,6 @@ knows how to carry our sorrows and relieve our burdens that we might be healed
 from within, made whole persons, and receive everlasting joy in his kingdom.
 May our faith in the Father and the Son help each of us to become whole. In
 the name of Jesus Christ, amen.
+
+## References
 

@@ -163,7 +163,7 @@ I read these words form that sacred volume:
 "O that I were an angel, and could have the wish of mine heart, that I might
 go forth and speak with the trump of God, with a voice to shake the earth, and
 cry repentance unto every people!" ([Alma
-29:1](https://www.lds.org/scriptures/bofm/alma/29.1?lang=eng#0).)
+29:1](/scriptures/bofm/alma/29.1?lang=eng#0).)
 
 We have not reached that state, but we have taken a giant step forward in that
 direction. Many thousands of you brethren across this land are joined with us
@@ -224,9 +224,11 @@ since it was organized in 1830--and it never will. It is the cause of the
 Master. It is the church of God. It is his work established in this latter
 day. It is the little stone which was cut out of the mountain without hands,
 which should roll forth to fill the whole earth. (See [Dan.
-2:44-45](https://www.lds.org/scriptures/ot/dan/2.44-45?lang=eng#43).) God
-bless it as it moves forward on its great advancing course. And may each of us
-be found faithful and true and doing our part in advancing it, I humbly pray
-as I leave you my witness and testimony of its truth and divinity in the name
-of Jesus Christ, amen.
+2:44-45](/scriptures/ot/dan/2.44-45?lang=eng#43).) God bless it as it moves
+forward on its great advancing course. And may each of us be found faithful
+and true and doing our part in advancing it, I humbly pray as I leave you my
+witness and testimony of its truth and divinity in the name of Jesus Christ,
+amen.
+
+## References
 

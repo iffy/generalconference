@@ -35,12 +35,10 @@ and increase our belief in the words of our Heavenly Father. Would you go home
 and read this chapter and draw a circle around every time it says _the word._
 Then read the first verse in the book of John where it says, "In the beginning
 was _the Word,_ and _the Word_ was with God, and _the Word_ was God" ([John
-1:1](https://www.lds.org/scriptures/nt/john/1.1?lang=eng#0); emphasis added).
-And then in verse 14, "And _the Word_ was made flesh, and dwelt among us, (and
-we beheld his glory, the glory as of the only begotten of the Father,) full of
-grace and truth" ([John
-1:14](https://www.lds.org/scriptures/nt/john/1.14?lang=eng#13); emphasis
-added).
+1:1](/scriptures/nt/john/1.1?lang=eng#0); emphasis added). And then in verse
+14, "And _the Word_ was made flesh, and dwelt among us, (and we beheld his
+glory, the glory as of the only begotten of the Father,) full of grace and
+truth" ([John 1:14](/scriptures/nt/john/1.14?lang=eng#13); emphasis added).
 
 In the book of John, _the Word_ is referring to our Savior Jesus Christ. The
 prophet Alma, in teaching us about faith, helps us understand how our faith in
@@ -57,8 +55,7 @@ enlighten my understanding, yea, it beginneth to be delicious to me.
 
 "Now behold, would not this increase your faith? I say unto you, Yea;
 nevertheless it hath not grown up to a perfect knowledge" ([Alma
-32:28-29](https://www.lds.org/scriptures/bofm/alma/32.28-29?lang=eng#27);
-emphasis added).
+32:28-29](/scriptures/bofm/alma/32.28-29?lang=eng#27); emphasis added).
 
 Personal Progress is like an experiment on _the word._ There are experiences
 with prayer, scripture study, strengthening family relationships, and service
@@ -74,8 +71,7 @@ faith--who will continue to nourish _the word:_
 grow, by your faith with great diligence, and with patience, looking forward
 to the fruit thereof, it shall take root; and behold it shall be a tree
 springing up unto everlasting life" ([Alma
-32:41](https://www.lds.org/scriptures/bofm/alma/32.41?lang=eng#40); emphasis
-added).
+32:41](/scriptures/bofm/alma/32.41?lang=eng#40); emphasis added).
 
 Growing up spiritually requires faith, great diligence, and patience.
 
@@ -132,9 +128,9 @@ spirituality. As you exercise your faith and feel that spirituality grow, you
 will begin to feel more secure. You will feel more confident. Gradually we
 will come to more fully understand what it means to completely trust in our
 Heavenly Father and stand as a witness of God (see [Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)). As we
-become righteous, problem-solving women of faith, we will learn to represent
-Him and do His work.
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)). As we become righteous,
+problem-solving women of faith, we will learn to represent Him and do His
+work.
 
 Three years ago I had another little granddaughter, named after me--Emily
 Janette. On the day of her blessing, I felt a tremendous desire for her
@@ -153,4 +149,6 @@ good from evil. Most of us make mistakes. We can't be perfect alone. The
 atoning gift of Jesus Christ allows us to let go of our weaknesses and be
 strengthened by His perfection. I bear my testimony of His atoning gift to us
 in the name of Jesus Christ, amen.
+
+## References
 

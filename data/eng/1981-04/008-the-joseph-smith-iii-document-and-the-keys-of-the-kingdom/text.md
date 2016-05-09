@@ -71,14 +71,14 @@ For instance, in the great revelation on priesthood which we know as section
 107 of the Doctrine and Covenants, which was received and recorded on March
 28, 1835, the Lord spoke of the governance of his Church and said of the
 Twelve after speaking of the Presidency: "They form a quorum, equal in
-authority and power to" the presidency. ([D&amp;C
-107:24](https://www.lds.org/scriptures/dc-testament/dc/107.24?lang=eng#23).)
+authority and power to" the presidency. ([D&amp;C 107:24](/scriptures/dc-
+testament/dc/107.24?lang=eng#23).)
 
 Two years later, on July 23, 1837, this principle was again affirmed through
 revelation: "For unto you, the Twelve, and those, the First Presidency, who
 are appointed with you to be your counselors and your leaders, is the power of
 this priesthood given, for the last days and for the last time." ([D&amp;C
-112:30](https://www.lds.org/scriptures/dc-testament/dc/112.30?lang=eng#29).)
+112:30](/scriptures/dc-testament/dc/112.30?lang=eng#29).)
 
 Again on January 19, 1841, the Lord said through the Prophet Joseph: "I give
 unto you my servant Brigham Young to be a president over the Twelve traveling
@@ -86,8 +86,7 @@ council;
 
 "Which Twelve hold the keys to open up the authority of my kingdom upon the
 four corners of the earth, and after that to send my word to every creature."
-([D&amp;C 124:127-28](https://www.lds.org/scriptures/dc-
-testament/dc/124.127-28?lang=eng#126).)
+([D&amp;C 124:127-28](/scriptures/dc-testament/dc/124.127-28?lang=eng#126).)
 
 The record of a special conference held in Nauvoo on August 16, 1841, states:
 "The time had come when the Twelve should be called upon to stand in their
@@ -194,7 +193,7 @@ Kimball. Of that I bear solemn witness and testimony before you this day. This
 Church is built upon the sure word of prophecy and revelation--built, as Paul
 wrote to the Ephesians, "upon the foundation of the apostles and prophets,
 Jesus Christ himself being the chief corner stone." ([Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).)
+2:20](/scriptures/nt/eph/2.20?lang=eng#19).)
 
 We were glad to see our brethren of the Reorganized Church get the document
 which contains a father's blessing given upon the head of a son he loved. It
@@ -203,4 +202,6 @@ Smith. It does not seriously raise any question concerning the validity of
 succession in the presidency through the Council of the Twelve Apostles as
 that body was established by the Prophet and as it has functioned under the
 revelations of God. Of this I testify in the name of Jesus Christ, amen.
+
+## References
 

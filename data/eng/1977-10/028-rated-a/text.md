@@ -107,14 +107,14 @@ and stir them up to anger against that which is good.
 he saith unto them: I am no devil, for there is none--and thus he whispereth
 in their ears, until he grasps them with his awful chains, from whence there
 is no deliverance." ([2 Ne.
-28:20-22](https://www.lds.org/scriptures/bofm/2-ne/28.20-22?lang=eng#19).)
+28:20-22](/scriptures/bofm/2-ne/28.20-22?lang=eng#19).)
 
 The great prophet Mormon, viewing his own fallen people, wrote his son Moroni
 a very telling indictment when he said that because of wickedness his people
 were "past feeling." (See [Moro.
-9:20](https://www.lds.org/scriptures/bofm/moro/9.20?lang=eng#19).) How tragic
-to reach the point where the Spirit must withdraw, and we become unable to
-sense or feel right from wrong.
+9:20](/scriptures/bofm/moro/9.20?lang=eng#19).) How tragic to reach the point
+where the Spirit must withdraw, and we become unable to sense or feel right
+from wrong.
 
 If we continue to lose skirmishes in the battle with Satan, the ultimate
 chains with which he grasps us will be as awful as the scriptures indicate.
@@ -124,8 +124,8 @@ offends, perverts, impairs, corrupts, distorts, infects, misleads, poisons,
 warps, weakens, and spoils. When I think of these words and then remember that
 the Prophet Joseph Smith admonished us to seek for things that are "virtuous,
 lovely, or of good report, or praiseworthy" ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)), I shudder
-at the blindness of so many.
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)), I shudder at the blindness of
+so many.
 
 In olden times the call to battle was the sure sound of a trumpet. The call to
 battle that I sound is a call to find so much that is wholesome or "Rated A"
@@ -202,8 +202,10 @@ So now, in the midst of this battle, let us sound our trumpets for that which
 is "Rated A": _A_ for pure actions, _A_ for achievement, and _A_ for
 approbation, even that approbation from Him whose voice can say to you: "Well
 done, thou good and faithful servant ... enter thou into the joy of thy Lord."
-([Matt. 25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).)
+([Matt. 25:21](/scriptures/nt/matt/25.21?lang=eng#20).)
 
 For this I humbly pray in the worthy name of Jesus Christ, our Savior and
 Redeemer. Amen.
+
+## References
 

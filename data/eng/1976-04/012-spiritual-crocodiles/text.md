@@ -212,7 +212,7 @@ I learned from that experience the meaning of the scripture: "If ye continue
 in my word, then are ye my disciples indeed;
 
 "And ye shall know the truth, and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30).)
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30).)
 
 I have not been quite as frightened of spiritual crocodiles since then,
 because I have been alerted on many occasions as to where they were lurking.
@@ -231,4 +231,6 @@ Guide. I bear witness that He lives, that Jesus is the Christ. I know that He
 has a body of flesh and bones, that He directs this Church, and His purpose is
 to see all of us guided safely back into His presence. In the name of Jesus
 Christ. Amen.
+
+## References
 

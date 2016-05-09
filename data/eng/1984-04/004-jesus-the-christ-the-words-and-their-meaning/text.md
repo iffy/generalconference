@@ -1,4 +1,4 @@
-# Jesus the Christ: the Words and Their Meaning
+# Jesus the Christ:the Words and Their Meaning
 
 Recently, while I was driving on the highway, a car passed. This was not
 unusual. The bumper sticker was a little different, saying, "Save the Humans."
@@ -56,7 +56,7 @@ Jehovah,' or, 'Savior.'"
 
 Elder Talmage emphasized that the word _Christ_ is a sacred title, not "an
 ordinary ... common name; it is of Greek derivation, and ... is identical with its
-Hebrew equivalent _Messiah_ ... , signifying the _Anointed One._" (_Jesus the
+Hebrew equivalent _Messiah_ ..., signifying the _Anointed One._" (_Jesus the
 Christ,_ Salt Lake City: Deseret Book Co., 1973, pp. 35-36.)
 
 What was the earliest documented mention of the sacred name _Jesus Christ_ now
@@ -70,7 +70,7 @@ Crucifixion:
 "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which
 is in God the Father and in the Lord Jesus Christ: Grace be unto you, and
 peace, from God our Father, and the Lord Jesus Christ." ([1 Thes.
-1:1](https://www.lds.org/scriptures/nt/1-thes/1.1?lang=eng#0).)
+1:1](/scriptures/nt/1-thes/1.1?lang=eng#0).)
 
 Note that the phrase _God the Father_ is separated by the conjunction _and_
 from the phrase _the Lord Jesus Christ._ This demonstrates first-century
@@ -81,14 +81,14 @@ The opening verse of the Gospel according to St. Mark also comes with great
 force as a historical document fraught with meaning:
 
 "The beginning of the gospel of Jesus Christ, the Son of God." ([Mark
-1:1](https://www.lds.org/scriptures/nt/mark/1.1?lang=eng#0).)
+1:1](/scriptures/nt/mark/1.1?lang=eng#0).)
 
 The Gospel of John the Beloved is even more eloquent. He records the witness
 of the Savior's forerunner, John the Baptist, as follows:
 
 "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of
 God, which taketh away the sin of the world." ([John
-1:29](https://www.lds.org/scriptures/nt/john/1.29?lang=eng#28).)
+1:29](/scriptures/nt/john/1.29?lang=eng#28).)
 
 "Save the Humans"? Think of the Baptist's testimony: "Behold the Lamb of God,
 which taketh away the sin of the world"!
@@ -101,12 +101,11 @@ which is conceived in her is of the Holy Ghost.
 
 "And she shall bring forth a son, and thou shalt call his name JESUS: for he
 shall save his people from their sins." ([Matt.
-1:20-21](https://www.lds.org/scriptures/nt/matt/1.20-21?lang=eng#19).)
+1:20-21](/scriptures/nt/matt/1.20-21?lang=eng#19).)
 
 Here is confirmation of the dictionary meaning of the name, as recorded by
 Matthew: "Thou shalt call his name JESUS: for he shall save his people from
-their sins." ([Matt.
-1:21](https://www.lds.org/scriptures/nt/matt/1.21?lang=eng#20).)
+their sins." ([Matt. 1:21](/scriptures/nt/matt/1.21?lang=eng#20).)
 
 Mary also had angelic confirmation of the name, as recorded by Luke:
 
@@ -115,13 +114,12 @@ God.
 
 "And, behold, thou shalt conceive in thy womb, and bring forth a son, and
 shalt call his name JESUS." ([Luke
-1:30-31](https://www.lds.org/scriptures/nt/luke/1.30-31?lang=eng#29).)
+1:30-31](/scriptures/nt/luke/1.30-31?lang=eng#29).)
 
 The formal naming of the child when eight days old is recorded by Luke:
 
 "His name was called JESUS, which was so named of the angel before he was
-conceived in the womb." ([Luke
-2:21](https://www.lds.org/scriptures/nt/luke/2.21?lang=eng#20).)
+conceived in the womb." ([Luke 2:21](/scriptures/nt/luke/2.21?lang=eng#20).)
 
 The name which means "God is help," "the Anointed One," "the Promised
 Messiah," has thus come to us.
@@ -152,4 +150,6 @@ open to help us move forward without fear in life. That all men everywhere may
 come to realize and know the significance of _Jesus the Christ,_ the One
 chosen before the foundation of the world, is my faith and witness. In the
 name of Jesus Christ, amen.
+
+## References
 

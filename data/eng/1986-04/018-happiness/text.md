@@ -31,7 +31,7 @@ Lehi's words to his son Jacob include a profound truth: "All things have been
 done in the wisdom of him who knoweth all things.
 
 "Adam fell that men might be; and men are, that they might have joy." ([2 Ne.
-2:24-25](https://www.lds.org/scriptures/bofm/2-ne/2.24-25?lang=eng#23).)
+2:24-25](/scriptures/bofm/2-ne/2.24-25?lang=eng#23).)
 
 Our wise and loving Father in Heaven is concerned for the welfare of his
 children. He desires to see us happy. The very purpose of our lives can be
@@ -45,20 +45,18 @@ premortal existence. They are also a foretaste of the fulness of joy that is
 promised to the faithful. We can expect with perfect faith that our Father
 will fulfill our innermost longings for joy. In fact, the plan he has given to
 guide us is called "the plan of happiness." ([Alma
-42:16](https://www.lds.org/scriptures/bofm/alma/42.16?lang=eng#15).) In the
-meridian of time, it was heralded by angelic messengers as "good tidings of
-great joy, which shall be to all people." ([Luke
-2:10](https://www.lds.org/scriptures/nt/luke/2.10?lang=eng#9).)
+42:16](/scriptures/bofm/alma/42.16?lang=eng#15).) In the meridian of time, it
+was heralded by angelic messengers as "good tidings of great joy, which shall
+be to all people." ([Luke 2:10](/scriptures/nt/luke/2.10?lang=eng#9).)
 
 The Book of Mormon makes it clear that happiness is our destiny. It speaks of
 dwelling "with God in a state of never-ending happiness." ([Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40).) It is
-also made clear that "all things shall be restored to their proper order,
-every thing to its natural frame, ... raised to endless happiness to inherit the
-kingdom of God, or to endless misery to inherit the kingdom of the devil." We
-also learn that we are "raised to happiness according to [our] desires of
-happiness." ([Alma
-41:4-5](https://www.lds.org/scriptures/bofm/alma/41.4-5?lang=eng#3).)
+2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40).) It is also made clear that
+"all things shall be restored to their proper order, every thing to its
+natural frame, ... raised to endless happiness to inherit the kingdom of God, or
+to endless misery to inherit the kingdom of the devil." We also learn that we
+are "raised to happiness according to [our] desires of happiness." ([Alma
+41:4-5](/scriptures/bofm/alma/41.4-5?lang=eng#3).)
 
 Words such as _reap, restored,_ and _desire_ imply that happiness is a
 consequence, not a reward. We are _restored_ to a state of happiness when we
@@ -78,20 +76,19 @@ instead of hope.
 The Book of Mormon speaks of men that are in a "carnal state ... and in the
 bonds of iniquity; they are without God in the world, and they have gone
 contrary to the nature of God; therefore, they are in a state contrary to the
-nature of happiness." ([Alma
-41:11](https://www.lds.org/scriptures/bofm/alma/41.11?lang=eng#10).) It also
-records Samuel the Lamanite's warning to the Nephites: "Ye have sought all the
-days of your lives for that which ye could not obtain; and ye have sought for
-happiness in doing iniquity, which thing is contrary to the nature of that
-righteousness which is in our great and Eternal Head." ([Hel.
-13:38](https://www.lds.org/scriptures/bofm/hel/13.38?lang=eng#37).)
+nature of happiness." ([Alma 41:11](/scriptures/bofm/alma/41.11?lang=eng#10).)
+It also records Samuel the Lamanite's warning to the Nephites: "Ye have sought
+all the days of your lives for that which ye could not obtain; and ye have
+sought for happiness in doing iniquity, which thing is contrary to the nature
+of that righteousness which is in our great and Eternal Head." ([Hel.
+13:38](/scriptures/bofm/hel/13.38?lang=eng#37).)
 
 The doctrine is concisely summarized by Alma: "Behold, I say unto you,
 _wickedness never was happiness_." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9); italics
-added.) If we are not pure, we would be miserable in the presence of God and
-Christ, who are by their very nature happy and joyful and cannot look upon sin
-with any allowance.
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9); italics added.) If we are not
+pure, we would be miserable in the presence of God and Christ, who are by
+their very nature happy and joyful and cannot look upon sin with any
+allowance.
 
 The suffering that results from sin is most tragic because through our own
 choices we can choose to avoid it. We have that power. We also have the
@@ -110,7 +107,7 @@ could have said as did Nephi:
 easily beset me.
 
 "And when I desire to rejoice, my heart groaneth because of my sins." ([2 Ne.
-4:18-19](https://www.lds.org/scriptures/bofm/2-ne/4.18-19?lang=eng#17).)
+4:18-19](/scriptures/bofm/2-ne/4.18-19?lang=eng#17).)
 
 Finally, in a night of spiritual turmoil, the man confessed to himself that he
 had never fully forsaken his sins. Although he had not committed sins worthy
@@ -127,8 +124,7 @@ requires eternal vigilance to win the victory. You cannot succeed with
 sporadic little flashes of effort. Constant and valiant living is necessary.
 That is why patience and faith are so often associated in the scriptures. You
 must "withstand every temptation of the devil, with [your] faith on the Lord
-Jesus Christ." ([Alma
-37:33](https://www.lds.org/scriptures/bofm/alma/37.33?lang=eng#32).) But
+Jesus Christ." ([Alma 37:33](/scriptures/bofm/alma/37.33?lang=eng#32).) But
 remember, faith is not a magical formula. It requires that you make a
 deliberate decision to do good and then carry out your decision. Do it. Simply
 do it, and do it long enough that you experience success, no matter how hard
@@ -175,20 +171,20 @@ miserable. (See _Ensign,_ Feb. 1981, pp. 54-55.)
 I would offer one key to maintaining your happiness in spite of adversity.
 Christ said, "For whosoever will save his life shall lose it: but whosoever
 will lose his life for my sake, the same shall save it." ([Luke
-9:24](https://www.lds.org/scriptures/nt/luke/9.24?lang=eng#23).) If you would
-find happiness and joy, lose your life in some noble cause. A worthy purpose
-must be at the center of every worthy life. President Stephen L. Richards
-noted that life is a mission, not a career. (See _Where Is Wisdom,_ Salt Lake
-City: Deseret Book Co., 1955, p. 74.) As Church members, our mission should be
-the greatest, noblest mission in the universe--the salvation of souls.
-President David O. McKay was fond of quoting the poet Robert Browning, who
-said, "There is an answer to the passionate longings of the heart for
-fullness, and I knew it, and the answer is this: Live in all things outside
-yourself by love, and you will have joy. That is the life of God; it ought to
-be our life. In him it is accomplished and perfect; but in all created things
-it is a lesson learned slowly and through difficulty." (Quoted in _Stepping
-Stones to an Abundant Life,_ comp. Llewelyn R. McKay, Salt Lake City: Deseret
-Book Co., 1971, p. 119.)
+9:24](/scriptures/nt/luke/9.24?lang=eng#23).) If you would find happiness and
+joy, lose your life in some noble cause. A worthy purpose must be at the
+center of every worthy life. President Stephen L. Richards noted that life is
+a mission, not a career. (See _Where Is Wisdom,_ Salt Lake City: Deseret Book
+Co., 1955, p. 74.) As Church members, our mission should be the greatest,
+noblest mission in the universe--the salvation of souls. President David O.
+McKay was fond of quoting the poet Robert Browning, who said, "There is an
+answer to the passionate longings of the heart for fullness, and I knew it,
+and the answer is this: Live in all things outside yourself by love, and you
+will have joy. That is the life of God; it ought to be our life. In him it is
+accomplished and perfect; but in all created things it is a lesson learned
+slowly and through difficulty." (Quoted in _Stepping Stones to an Abundant
+Life,_ comp. Llewelyn R. McKay, Salt Lake City: Deseret Book Co., 1971, p.
+119.)
 
 Service helps us forget our own travails; it enlarges our souls and gives us
 greater capacity to endure our own trials.
@@ -203,7 +199,7 @@ Christ told his disciples:
 
 "These things I have spoken unto you, that my joy might remain in you, and
 that your joy might be full." ([John
-15:10-11](https://www.lds.org/scriptures/nt/john/15.10-11?lang=eng#9).)
+15:10-11](/scriptures/nt/john/15.10-11?lang=eng#9).)
 
 The commandments are guides to happiness. I implore you to follow them.
 
@@ -211,4 +207,6 @@ The commandments are guides to happiness. I implore you to follow them.
 great joy in life in obeying and serving. I pray that you may also discover
 the elusive treasure of true happiness through the means that were ordained by
 our Father, in the name of Jesus Christ, amen.
+
+## References
 

@@ -10,19 +10,18 @@ answers to such questions come from the comforting perspective of faith in our
 Heavenly Father and his eternal plan for our happiness.
 
 The prophet Alma called the plan "the great plan of happiness" ([Alma
-42:8](https://www.lds.org/scriptures/bofm/alma/42.8?lang=eng#7)). It is known
-more commonly as the plan of salvation. It is beautiful in its simplicity to
-all who seek prayerfully to know and understand the true meaning and purpose
-of life.
+42:8](/scriptures/bofm/alma/42.8?lang=eng#7)). It is known more commonly as
+the plan of salvation. It is beautiful in its simplicity to all who seek
+prayerfully to know and understand the true meaning and purpose of life.
 
 Through prophets past and present, God has revealed the doctrines of his
 "great plan of happiness." It consists of infinite, eternal, absolute,
 unchanging principles. From Alma we learn that "God gave unto them
 commandments, _after_ having made known ... the plan of redemption" ([Alma
-12:32](https://www.lds.org/scriptures/bofm/alma/12.32?lang=eng#31); emphasis
-added). The plan teaches that all who have or will live on earth are the
-spirit children of heavenly parents. We lived with them before coming to this
-earth to receive our bodies of flesh and bone.
+12:32](/scriptures/bofm/alma/12.32?lang=eng#31); emphasis added). The plan
+teaches that all who have or will live on earth are the spirit children of
+heavenly parents. We lived with them before coming to this earth to receive
+our bodies of flesh and bone.
 
 "If Adam [and Eve] had not transgressed [they] would not have fallen, but
 [they] would have remained in the garden of Eden. ...
@@ -31,15 +30,14 @@ earth to receive our bodies of flesh and bone.
 state of innocence, having no joy. ...
 
 "Adam fell that men might be; and men are, that they might have joy" ([2 Ne.
-2:22-23,
-25](https://www.lds.org/scriptures/bofm/2-ne/2.22-23%2C25?lang=eng#21)).
+2:22-23, 25](/scriptures/bofm/2-ne/2.22-23,25?lang=eng#21)).
 
 After the Fall, God instructed Adam to cleave unto his wife, Eve (see [Moses
-3:24](https://www.lds.org/scriptures/pgp/moses/3.24?lang=eng#23); [D&amp;C
-42:22](https://www.lds.org/scriptures/dc-testament/dc/42.22?lang=eng#21)).
-"God said unto them, Be fruitful, and multiply, and replenish the earth"
-([Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27)), a
-commandment that has never been rescinded.
+3:24](/scriptures/pgp/moses/3.24?lang=eng#23); [D&amp;C 42:22](/scriptures/dc-
+testament/dc/42.22?lang=eng#21)). "God said unto them, Be fruitful, and
+multiply, and replenish the earth" ([Gen.
+1:28](/scriptures/ot/gen/1.28?lang=eng#27)), a commandment that has never been
+rescinded.
 
 Our Father's plan provides for redemption from the Fall through the atonement
 of Jesus Christ. As the Only Begotten Son of God and the only sinless person
@@ -58,20 +56,19 @@ essential to obtain exaltation and eternal life. King Benjamin explained that
 declare these things to every kindred, nation, and tongue, that thereby
 whosoever should believe [in] Christ, ... the same might receive remission of
 their sins, and rejoice with exceedingly great joy" ([Mosiah
-3:13](https://www.lds.org/scriptures/bofm/mosiah/3.13?lang=eng#12)).
+3:13](/scriptures/bofm/mosiah/3.13?lang=eng#12)).
 
 He also taught his people: "Consider on the blessed and happy state of those
 that keep the commandments of God. For behold, they are blessed in all things,
 both temporal and spiritual; and if they hold out faithful to the end they are
 received into heaven, that thereby they may dwell with God in a state of
 never-ending happiness" ([Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40)).
+2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40)).
 
 What a wonderful, warm, and reassuring thing it is to know that the primary
 objective of the very God of heaven is "the immortality and eternal life of
-man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)), or, in
-other words, our eternal happiness and joy. Sometimes I wonder if we really
+man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)), or, in other
+words, our eternal happiness and joy. Sometimes I wonder if we really
 appreciate what that means and how it should affect our lives. We must give
 adequate attention to the doctrines of happiness--real happiness, infinite and
 eternal. They should be the objective of everything we teach in the Church and
@@ -86,11 +83,11 @@ We must understand the basic doctrines and receive the saving ordinances that
 are essential for our eternal exaltation and happiness. Our present mortal
 state places a veil of forgetfulness over our minds, allowing us to prove
 ourselves able to "do all things whatsoever the Lord [our] God shall command"
-([Abr. 3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24)). But
-even though our present long-range view of eternity is limited, the Lord has
-not left us without direction. He has provided scriptures and Apostles and
-prophets through whom he has revealed his plan for our exaltation and eternal
-life. And we have the Comforter, the Holy Ghost, to guide us.
+([Abr. 3:25](/scriptures/pgp/abr/3.25?lang=eng#24)). But even though our
+present long-range view of eternity is limited, the Lord has not left us
+without direction. He has provided scriptures and Apostles and prophets
+through whom he has revealed his plan for our exaltation and eternal life. And
+we have the Comforter, the Holy Ghost, to guide us.
 
 The Prophet Joseph Smith taught that "in obedience there is joy and peace
 unspotted, unalloyed; and as God has designed our happiness ... he never has--He
@@ -124,10 +121,9 @@ Certain weather patterns cause hurricanes, floods, tornadoes, and drought.
 Much adversity is man-made. Men's hearts turn cold, and the spirit of Satan
 controls their actions. In foreseeing the day of suffering in our time, the
 Savior said, "The love of men shall wax cold, and iniquity shall abound"
-([D&amp;C 45:27](https://www.lds.org/scriptures/dc-
-testament/dc/45.27?lang=eng#26)). Violence, immorality, and other evils run
-rampant on the earth. Much adversity has its origin in the principle of
-agency.
+([D&amp;C 45:27](/scriptures/dc-testament/dc/45.27?lang=eng#26)). Violence,
+immorality, and other evils run rampant on the earth. Much adversity has its
+origin in the principle of agency.
 
 We tend to think of agency as a personal matter. If we ask someone to define
 "moral agency," the answer will probably be something like this: "Moral agency
@@ -150,10 +146,10 @@ Father and his beloved Son, Jesus Christ, is the source of inner strength.
 Through faith we can find peace, comfort, and the courage to endure. As we
 trust in God and his plan for our happiness with all our hearts and lean not
 unto our own understanding (see [Prov.
-3:5](https://www.lds.org/scriptures/ot/prov/3.5?lang=eng#4)), hope is born.
-Hope grows out of faith and gives meaning and purpose to all we do. It can
-give us comfort in the face of adversity, strength in times of trial, and
-peace when we have reason for doubt or anguish.
+3:5](/scriptures/ot/prov/3.5?lang=eng#4)), hope is born. Hope grows out of
+faith and gives meaning and purpose to all we do. It can give us comfort in
+the face of adversity, strength in times of trial, and peace when we have
+reason for doubt or anguish.
 
 By focusing on and living the principles of Heavenly Father's plan for our
 eternal happiness, we can separate ourselves from the wickedness of the world.
@@ -212,16 +208,18 @@ at all times and in all places.
 
 My testimony coincides with the testimony of the beloved Apostle John: "If ye
 know these things, happy are ye if ye do them" ([John
-13:17](https://www.lds.org/scriptures/nt/john/13.17?lang=eng#16)). May we
-search for the doctrines and commandments of the great plan of happiness; and
-when we learn them, may we embrace them willingly. By doing so we will find
-lasting joy, happiness, and peace. Jesus said, "Peace I leave with you, my
-peace I give unto you: not as the world giveth, give I unto you. Let not your
-heart be troubled, neither let it be afraid" ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26)).
+13:17](/scriptures/nt/john/13.17?lang=eng#16)). May we search for the
+doctrines and commandments of the great plan of happiness; and when we learn
+them, may we embrace them willingly. By doing so we will find lasting joy,
+happiness, and peace. Jesus said, "Peace I leave with you, my peace I give
+unto you: not as the world giveth, give I unto you. Let not your heart be
+troubled, neither let it be afraid" ([John
+14:27](/scriptures/nt/john/14.27?lang=eng#26)).
 
 I leave you my testimony that the Lord's promise of peace comes from knowing
 and living the principles of our Heavenly Father's plan of happiness. May his
 peace and joy be with all of us I humbly pray in the name of Jesus Christ,
 amen.
+
+## References
 

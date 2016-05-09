@@ -20,25 +20,24 @@ the time I was exposed to this view of man, I was also being taught these
 lines:
 
 "Adam fell that men might be; and men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 "Remember the worth of souls is great in the sight of God." ([D&amp;C
-18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).)
+18:10](/scriptures/dc-testament/dc/18.10?lang=eng#9).)
 
 The worlds were created by the Only Begotten of the Father, "and the
 inhabitants thereof are begotten sons and daughters unto God." ([D&amp;C
-76:24](https://www.lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23).)
+76:24](/scriptures/dc-testament/dc/76.24?lang=eng#23).)
 
 "For a wise and glorious purpose thou hast placed me here on earth. ..." ("O My
 Father," _Hymns, _No. 138.)
 
 "... they who keep their second estate shall have glory added upon their heads
-for ever and ever." ([Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25).)
+for ever and ever." ([Abr. 3:26](/scriptures/pgp/abr/3.26?lang=eng#25).)
 
 "Wherefore, as it is written, they are gods, even the sons of God--Wherefore,
-all things are theirs. ..." ([D&amp;C 76:58-59](https://www.lds.org/scriptures
-/dc-testament/dc/76.58-59?lang=eng#57).)
+all things are theirs. ..." ([D&amp;C 76:58-59](/scriptures/dc-
+testament/dc/76.58-59?lang=eng#57).)
 
 My personal experience converts me to the wisdom of the educational philosophy
 that joins spiritual with secular instruction. At Brigham Young University and
@@ -50,17 +49,10 @@ to prepare them for a balanced and full life of service to God and fellowman.
 From this philosophy I distill four thoughts that I offer for the special
 attention of the young men of the priesthood:
 
-  1. Rigorous standards and high achievement in any field of learning are not at odds with faith and devotion to the gospel of Jesus Christ. Strive for excellence, use the talents that the Lord has given you, meet and master the learning of men.
-
-  2. In approaching any field of learning, remember the Lord's direction to "seek learning, even by study and also by faith." ([D&amp;C 88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
-
-Your faith will sustain you and give added meaning and increased
-accomplishment to your secular studies if you will live to deserve the
-blessings of the Lord.
-
-  3. Cherish and nourish your spiritual life. Seek spiritual growth at the same time that you are seeking to enlarge your learning in other areas. Nourish your spirit just as regularly as you nourish your body or mind. Don't neglect study of the gospel and activity in the Church during the period of your schooling. It is needed then as much as or more than at any time during your life. If you are not in a Church school--BYU, Ricks, Church College of Hawaii--make the institute or seminary or home study part of your program.
-
-  4. Most of all, live so that you can be guided and taught by the Spirit in all your activities, including all your efforts to learn and gain an education: honor your parents; be true to the teachings of the Church; be clean and faithful in all things; and be loyal to the leaders of the Church.
+  1. Rigorous standards and high achievement in any field of learning are not at odds with faith and devotion to the gospel of Jesus Christ. Strive for excellence, use the talents that the Lord has given you, meet and master the learning of men. 
+  2. In approaching any field of learning, remember the Lord's direction to "seek learning, even by study and also by faith." ([D&amp;C 88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).) Your faith will sustain you and give added meaning and increased accomplishment to your secular studies if you will live to deserve the blessings of the Lord. 
+  3. Cherish and nourish your spiritual life. Seek spiritual growth at the same time that you are seeking to enlarge your learning in other areas. Nourish your spirit just as regularly as you nourish your body or mind. Don't neglect study of the gospel and activity in the Church during the period of your schooling. It is needed then as much as or more than at any time during your life. If you are not in a Church school--BYU, Ricks, Church College of Hawaii--make the institute or seminary or home study part of your program. 
+  4. Most of all, live so that you can be guided and taught by the Spirit in all your activities, including all your efforts to learn and gain an education: honor your parents; be true to the teachings of the Church; be clean and faithful in all things; and be loyal to the leaders of the Church. 
 
 I am grateful for my membership in the Church. I am proud to hold the
 priesthood of God. No worldly honor or position can add much to the dignity,
@@ -77,4 +69,6 @@ the chosen servants of the Lord, whom I sustain with all my heart.
 I bear this testimony to you and ask your prayers and the blessings of our
 Father in heaven upon every teacher and worker in the Church Educational
 System, that we may meet our responsibilities to him and to his children.
+
+## References
 

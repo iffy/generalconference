@@ -32,12 +32,12 @@ pluck the fruit from the tree while cutting off the root from which it grows.
 
 The so-called Mormon code of health, widely praised in these days of cancer
 and heart research, is in reality a revelation given to Joseph Smith in 1833
-as a "Word of Wisdom" from the Lord. ([D&amp;C
-89:1](https://www.lds.org/scriptures/dc-testament/dc/89.1?lang=eng#0).) In no
-conceivable way could it have come of the dietary literature of the time, nor
-from the mind of the man who announced it. Today, in terms of medical
-research, it is a miracle, whose observance has saved incalculable suffering
-and premature death for uncounted tens of thousands.
+as a "Word of Wisdom" from the Lord. ([D&amp;C 89:1](/scriptures/dc-
+testament/dc/89.1?lang=eng#0).) In no conceivable way could it have come of
+the dietary literature of the time, nor from the mind of the man who announced
+it. Today, in terms of medical research, it is a miracle, whose observance has
+saved incalculable suffering and premature death for uncounted tens of
+thousands.
 
 Genealogical research is suddenly becoming a popular hobby as a result of Alex
 Haley's book _Roots._ Thousands of eyes across the world have been turned to
@@ -58,8 +58,7 @@ origin, is founded and operated strictly upon principles enunciated by Joseph
 Smith in the early years of the Church. This is likewise true of the family
 home evening program, which is no more than an extension of early revelation
 on the responsibility of parents to bring up their children in "light and
-truth." ([D&amp;C 93:40](https://www.lds.org/scriptures/dc-
-testament/dc/93.40?lang=eng#39).)
+truth." ([D&amp;C 93:40](/scriptures/dc-testament/dc/93.40?lang=eng#39).)
 
 Not long ago, while riding in a plane, I engaged in conversation with a young
 man who was seated beside me. We moved from one subject to another, and then
@@ -127,12 +126,12 @@ have the opportunity to partake of gospel ordinances.
 Peter of old declared: "For this cause was the gospel preached also to them
 that are dead, that they might be judged according to men in the flesh, but
 live according to God in the spirit." ([1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5).) In the case of
-the dead there must be vicarious work if they are to be judged according to
-men in the flesh, and in order to accomplish this they must be identified;
-hence the great genealogical program of The Church of Jesus Christ of Latter-
-day Saints. It was not established to satisfy the interests of a hobby, but to
-accomplish the eternal purposes of God.
+4:6](/scriptures/nt/1-pet/4.6?lang=eng#5).) In the case of the dead there must
+be vicarious work if they are to be judged according to men in the flesh, and
+in order to accomplish this they must be identified; hence the great
+genealogical program of The Church of Jesus Christ of Latter-day Saints. It
+was not established to satisfy the interests of a hobby, but to accomplish the
+eternal purposes of God.
 
 Within the space of that twenty years preceding his death, Joseph Smith set in
 motion a program for carrying the gospel to the nations of the earth. I marvel
@@ -155,7 +154,7 @@ pledged to protect the Prophet and then had left him to the mercy of the
 merciless mob. It was this same Thomas Ford who concluded in his _History_
 that Joseph Smith "never could succeed in establishing a system of policy
 which looked to permanent success in the future." (Thomas Ford, _A History of
-Illinois ... _ , quoted in B. H. Roberts, _Comprehensive History of the Church,_
+Illinois ... _, quoted in B. H. Roberts, _Comprehensive History of the Church,_
 2:347.)
 
 It is this same Thomas Ford who today lies buried in a secluded section of the
@@ -199,4 +198,6 @@ presides at this conference is the legal successor to him of whom I have
 spoken. I know that, and I leave my testimony in the name of him of whom
 Joseph Smith was a witness and of whom I also am a witness, even the Lord,
 Jesus Christ. Amen.
+
+## References
 

@@ -12,7 +12,7 @@ well.
 
 The Church was two years old when the Lord revealed that "the idler shall not
 have place in the church, except he repent and mend his ways." ([D&amp;C
-75:29](https://www.lds.org/scriptures/dc-testament/dc/75.29?lang=eng#28).)
+75:29](/scriptures/dc-testament/dc/75.29?lang=eng#28).)
 
 The Welfare handbook instructs: "[We must] earnestly teach and urge Church
 members to be self-sustaining to the full extent of their powers. No true
@@ -34,7 +34,7 @@ abuses in the welfare program.
 
 When people are _able_ but _unwilling_ to take care of themselves, we are
 responsible to employ the dictum of the Lord that the idler shall not eat the
-bread of the laborer. (See [D&amp;C 42:42](https://www.lds.org/scriptures/dc-
+bread of the laborer. (See [D&amp;C 42:42](/scriptures/dc-
 testament/dc/42.42?lang=eng#41).)
 
 The simple rule has been to take care of one's self. This couplet of truth has
@@ -154,8 +154,7 @@ bosom shall burn within you; therefore, you shall feel that it is right.
 
 "But if it be not right you shall have no such feelings, but you shall have a
 stupor of thought that shall cause you to forget the thing which is wrong."
-([D&amp;C 9:7-9](https://www.lds.org/scriptures/dc-
-testament/dc/9.7-9?lang=eng#6).)
+([D&amp;C 9:7-9](/scriptures/dc-testament/dc/9.7-9?lang=eng#6).)
 
 Spiritual independence and self-reliance is a sustaining power in the Church.
 If we rob the members of that, how can they get revelation for themselves? How
@@ -425,7 +424,7 @@ should do wrong in the sight of God.
 
 "And it came to pass that after he had poured out his whole soul to God, the
 voice of the Lord came to him. ..." ([Mosiah
-26:12-14](https://www.lds.org/scriptures/bofm/mosiah/26.12-14?lang=eng#11).)
+26:12-14](/scriptures/bofm/mosiah/26.12-14?lang=eng#11).)
 
 That voice will speak to you, bishop. That is your privilege. I bear witness
 of that, for I know that He lives.
@@ -434,4 +433,6 @@ May God bless you, bishop, the inspired judge in Israel, and those who come to
 you, as you counsel them in the Lord's own way.
 
 In the name of Jesus Christ, amen.
+
+## References
 

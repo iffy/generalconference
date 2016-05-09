@@ -8,12 +8,11 @@ of Kuwait and the hope of lasting peace in the Persian Gulf area with the
 returning of troops to their homelands.
 
 When Christ was born to this world, angels proclaimed, "Peace on earth, good
-will toward men." (See [Luke
-2:14](https://www.lds.org/scriptures/nt/luke/2.14?lang=eng#13).) Yet in the
-two thousand years since that proclamation there has been little peace in the
-world. Even with the successful cessation of major hostilities in the Gulf,
-there still remains an uneasy peace between some nations and great unrest
-within other nations. Just as Christ's atonement has saved us from both
+will toward men." (See [Luke 2:14](/scriptures/nt/luke/2.14?lang=eng#13).) Yet
+in the two thousand years since that proclamation there has been little peace
+in the world. Even with the successful cessation of major hostilities in the
+Gulf, there still remains an uneasy peace between some nations and great
+unrest within other nations. Just as Christ's atonement has saved us from both
 physical and spiritual death, the peace of which the Savior of mankind spoke
 is also both physical and spiritual.
 
@@ -36,13 +35,13 @@ listening as the Savior tells them what they need to do in order to have peace
 in their lives.
 
 Tenderly Christ speaks: "Blessed are the peacemakers." ([Matt.
-5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8).) Another Bible
-translator quotes the Savior, saying, "Happy are those who _make_ peace."
-(_The New Testament in Modern English,_ trans. J. B. Phillips, New York: The
-Macmillan Co., 1958, p. 9; italics added.) Either way, we focus on the strong
-verb _make_ as in "make peace" or "peacemakers." To follow Christ and bring
-forth the blessings of heaven, we must actively make peace in the world, in
-the community, in the neighborhood, and above all, in the home we live in.
+5:9](/scriptures/nt/matt/5.9?lang=eng#8).) Another Bible translator quotes the
+Savior, saying, "Happy are those who _make_ peace." (_The New Testament in
+Modern English,_ trans. J. B. Phillips, New York: The Macmillan Co., 1958, p.
+9; italics added.) Either way, we focus on the strong verb _make_ as in "make
+peace" or "peacemakers." To follow Christ and bring forth the blessings of
+heaven, we must actively make peace in the world, in the community, in the
+neighborhood, and above all, in the home we live in.
 
 In the meridian of time, many expected Christ to take a political stand
 against Roman rule and offer peace to the oppressed people. Christ did indeed
@@ -70,16 +69,15 @@ problems regarding public opinion both inside and outside the Church.
 President Lee, with great inspiration and wisdom, answered as would a man who
 knows the Savior: "We, together with the whole Christian world, abhor war. But
 the Savior said, 'In me ye might have peace. In the world ye shall have
-tribulation.'" ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).) And then
+tribulation.'" ([John 16:33](/scriptures/nt/john/16.33?lang=eng#32).) And then
 the prophet quoted that other comforting scripture from John: "Peace I leave
 with you, my peace I give unto you: not as the world giveth, give I unto you."
-([John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
-President Lee then explained: "The Savior was not talking about the peace that
-can be achieved between nations, by military force or by negotiation in the
-halls of parliaments. Rather, he was speaking of the peace we can each have in
-our own lives when we live the commandments and come unto Christ with broken
-hearts and contrite spirits." (See _Ensign,_ Nov. 1982, p. 70.)
+([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).) President Lee then
+explained: "The Savior was not talking about the peace that can be achieved
+between nations, by military force or by negotiation in the halls of
+parliaments. Rather, he was speaking of the peace we can each have in our own
+lives when we live the commandments and come unto Christ with broken hearts
+and contrite spirits." (See _Ensign,_ Nov. 1982, p. 70.)
 
 A tender, sweet story about receiving peace from the scriptures appeared in
 the January 1991 _Ensign,_ submitted by Sister Carole Seegmiller. Using a few
@@ -111,7 +109,7 @@ recorder that had run to tape's end. ...
 attack. ... All of our family members ... gathered except Bruce, who had
 determined to finish his mission.
 
-"That evening, after [the funeral] ... , I was feeling low. I went upstairs to
+"That evening, after [the funeral] ..., I was feeling low. I went upstairs to
 Dad's room and dejectedly sat down at his desk. I noticed his well-used tape
 recorder lying nearby; inside was one of our tapes of the New Testament, which
 Dad must have listened to the very night before he died. I began rewinding the
@@ -150,9 +148,9 @@ _And where there is sadness, joy._
 
 To be a maker of peace, it helps if we understand what brings peace. Paul says
 that it is the Spirit: "The fruit of the Spirit is love, joy, peace." ([Gal.
-5:22](https://www.lds.org/scriptures/nt/gal/5.22?lang=eng#21).) Our closeness
-to the Lord will, in great measure, determine the peace and comfort and
-renewed strength that we feel as we invite the Spirit into our lives.
+5:22](/scriptures/nt/gal/5.22?lang=eng#21).) Our closeness to the Lord will,
+in great measure, determine the peace and comfort and renewed strength that we
+feel as we invite the Spirit into our lives.
 
 As I was preparing for this occasion a man phoned. His priesthood leader had
 requested earlier that I accept his call. Desperately he pleaded, "We need to
@@ -165,9 +163,8 @@ sacrifices for others, or even just being an innocent victim. No matter what
 the reason, the solution to achieve peace is always the same: Turn to Christ;
 follow his example; repent of all transgressions. His command to the storm-
 tossed sea, "Peace, be still" ([Mark
-4:39](https://www.lds.org/scriptures/nt/mark/4.39?lang=eng#38)), can also
-apply to his calming influence in our lives as we experience the buffetings of
-life's storms.
+4:39](/scriptures/nt/mark/4.39?lang=eng#38)), can also apply to his calming
+influence in our lives as we experience the buffetings of life's storms.
 
 Personal peace and our level of spirituality will increase as we focus on
 studying and thinking about Christ every day; by loving and thanking Christ
@@ -188,4 +185,6 @@ Father with all your heart, might, mind, and strength.
 
 May peace be with you--this day and always--is my prayer in the name of the
 Lord Jesus Christ, amen.
+
+## References
 

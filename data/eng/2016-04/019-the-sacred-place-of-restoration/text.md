@@ -167,3 +167,19 @@ prayers.
 Because of His great love, Jesus Christ atoned for our sins. He is the Savior
 of the world. Of this I testify in the holy name of Jesus Christ, amen.
 
+## References
+
+  1. [Joseph Smith--History 1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).
+
+  2. [Revelation 14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5).
+
+  3. [John 10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).
+
+  4. [John 10:14](https://www.lds.org/scriptures/nt/john/10.14?lang=eng#13).
+
+  5. See [Genesis 12:3](https://www.lds.org/scriptures/ot/gen/12.3?lang=eng#2); [17:2-8](https://www.lds.org/scriptures/ot/gen/17.2-8?lang=eng#1); [Galatians 3:29](https://www.lds.org/scriptures/nt/gal/3.29?lang=eng#28); [1 Nephi 15:14-18](https://www.lds.org/scriptures/bofm/1-ne/15.14-18?lang=eng#13); [Abraham 2:9-11](https://www.lds.org/scriptures/pgp/abr/2.9-11?lang=eng#8).
+
+  6. [Isaiah 2:2](https://www.lds.org/scriptures/ot/isa/2.2?lang=eng#1).
+
+  7. See introduction to the Book of Mormon.
+

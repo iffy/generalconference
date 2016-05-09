@@ -28,12 +28,11 @@ children.
 
 As members of the Lord's Church, we must take missionary work more seriously.
 The Lord's commission to "preach the gospel to every creature" ([Mark
-16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14)) will never
-change in our dispensation. We have been greatly blessed with the material
-means, the technology, and an inspired message to bring the gospel to all men.
-More is expected of us than any previous generation. Where "much is given much
-is required." ([D&amp;C 82:3](https://www.lds.org/scriptures/dc-
-testament/dc/82.3?lang=eng#2).)
+16:15](/scriptures/nt/mark/16.15?lang=eng#14)) will never change in our
+dispensation. We have been greatly blessed with the material means, the
+technology, and an inspired message to bring the gospel to all men. More is
+expected of us than any previous generation. Where "much is given much is
+required." ([D&amp;C 82:3](/scriptures/dc-testament/dc/82.3?lang=eng#2).)
 
 Permit me to suggest some of the ways you can participate in this glorious
 endeavor to bring the gospel to all mankind.
@@ -42,8 +41,7 @@ First, _you can live the principles of the gospel._
 
 The Lord expects this of us. The Apostle Paul commanded, "Be thou an example
 of the believers, in word, in conversation, in charity, in spirit, in faith,
-in purity." ([1 Tim.
-4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).)
+in purity." ([1 Tim. 4:12](/scriptures/nt/1-tim/4.12?lang=eng#11).)
 
 We are grateful that members of the Church for the most part are striving to
 live the gospel and dealing justly with our fellowman. But are we not all
@@ -62,14 +60,13 @@ my words, the kingdoms of the world shall prevail against them.
 
 "And inasmuch as they are not the saviors of men, they are as salt that has
 lost its savor, and is thenceforth good for nothing but to be cast out and
-trodden under foot of men." ([D&amp;C 103:8-10](https://www.lds.org/scriptures
-/dc-testament/dc/103.8-10?lang=eng#7).)
+trodden under foot of men." ([D&amp;C 103:8-10](/scriptures/dc-
+testament/dc/103.8-10?lang=eng#7).)
 
 One of our best missionary tools is the sterling examples of members who live
 the gospel. This is what the Lord meant when He said to the Church, "Zion must
 increase in beauty, and in holiness; ... Zion must ... put on her beautiful
-garments." ([D&amp;C 82:14](https://www.lds.org/scriptures/dc-
-testament/dc/82.14?lang=eng#13).)
+garments." ([D&amp;C 82:14](/scriptures/dc-testament/dc/82.14?lang=eng#13).)
 
 Second, _we can prepare our sons to serve missions._
 
@@ -132,7 +129,7 @@ labor of his hands, to prepare and accomplish the things which I have
 commanded.
 
 "And let your preaching be the warning voice, every man to his neighbor, in
-mildness and meekness." ([D&amp;C 38:40-41](https://www.lds.org/scriptures/dc-
+mildness and meekness." ([D&amp;C 38:40-41](/scriptures/dc-
 testament/dc/38.40-41?lang=eng#39).)
 
 Also, on December 27, 1832, the Lord commanded:
@@ -141,7 +138,7 @@ Also, on December 27, 1832, the Lord commanded:
 man who hath been warned to warn his neighbor.
 
 "Therefore, they are left without excuse, and their sins are upon their own
-heads." ([D&amp;C 88:81-82](https://www.lds.org/scriptures/dc-
+heads." ([D&amp;C 88:81-82](/scriptures/dc-
 testament/dc/88.81-82?lang=eng#80).)
 
 Our living prophet today has told us how this work is best accomplished:
@@ -182,8 +179,7 @@ in the Church.
 
 You can study the scriptures together, particularly the Book of Mormon. The
 Lord has said that we are condemned if we do not remember the new covenant,
-even the Book of Mormon. (See [D&amp;C
-84:56-57](https://www.lds.org/scriptures/dc-
+even the Book of Mormon. (See [D&amp;C 84:56-57](/scriptures/dc-
 testament/dc/84.56-57?lang=eng#55).)
 
 Missionary service requires great faith. I know how difficult it is for older
@@ -196,7 +192,7 @@ purpose--missionary work.
 Yes, brothers and sisters, the field is "white already to harvest; and lo, he
 that thrusteth in his sickle with his might, the same layeth up in store that
 he perisheth not, but bringeth salvation to his soul." ([D&amp;C
-4:4](https://www.lds.org/scriptures/dc-testament/dc/4.4?lang=eng#3).)
+4:4](/scriptures/dc-testament/dc/4.4?lang=eng#3).)
 
 I am grateful for the great missionary program of the Church. My father's
 family consisted of eleven children. All eleven of us have filled missions. My
@@ -215,4 +211,6 @@ Father's children whose souls are saved in His kingdom.
 
 God bless us all as members of His Church to share the gospel with others, in
 the name of Jesus Christ, amen.
+
+## References
 

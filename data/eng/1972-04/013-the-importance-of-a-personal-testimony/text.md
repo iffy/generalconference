@@ -40,7 +40,7 @@ the head of the corner.
 
 "Neither is there salvation in any other: for there is none other name under
 heaven given among men, whereby we must be saved." ([Acts
-4:8-12](https://www.lds.org/scriptures/nt/acts/4.8-12?lang=eng#7).)
+4:8-12](/scriptures/nt/acts/4.8-12?lang=eng#7).)
 
 A second great testimony was given by Peter of Christ.
 
@@ -65,7 +65,7 @@ build my church; and the gates of hell shall not prevail against it.
 "And I will give unto thee the keys of the kingdom of heaven: and whatsoever
 thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt
 loose on earth shall be loosed in heaven." ([Matt.
-16:13-19](https://www.lds.org/scriptures/nt/matt/16.13-19?lang=eng#12).)
+16:13-19](/scriptures/nt/matt/16.13-19?lang=eng#12).)
 
 In a day when churches are generally losing members and declining in
 popularity, many wonder what the secret is in the growth and stability of The
@@ -135,13 +135,13 @@ prudent shall come to naught.
 "For by my Spirit will I enlighten them, and by my power will I make known
 unto them the secrets of my will--yea, even those things which eye has not
 seen, nor ear heard, nor yet entered into the heart of man." ([D&amp;C
-76:5-10](https://www.lds.org/scriptures/dc-testament/dc/76.5-10?lang=eng#4).)
+76:5-10](/scriptures/dc-testament/dc/76.5-10?lang=eng#4).)
 
 And again the Lord told the Prophet:
 
 "And the Spirit giveth light to every man that cometh into the world; and the
 Spirit enlighteneth every man through the world, that hearkeneth to the voice
-of the Spirit." ([D&amp;C 84:46](https://www.lds.org/scriptures/dc-
+of the Spirit." ([D&amp;C 84:46](/scriptures/dc-
 testament/dc/84.46?lang=eng#45).)
 
 The Twelve Apostles are special witnesses of the Savior. I don't know how many
@@ -168,7 +168,7 @@ men.
 "'And whosoever speaketh a word against the Son of Man, it shall be forgiven
 him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven
 him. ... neither in the world to come.' [[Matt.
-12:31-32](https://www.lds.org/scriptures/nt/matt/12.31-32?lang=eng#30).]
+12:31-32](/scriptures/nt/matt/12.31-32?lang=eng#30).]
 
 "Therefore the seeing, even the Savior, does not leave as deep an impression
 in the mind as does the testimony of the Holy Ghost to the spirit. Both Peter
@@ -181,7 +181,7 @@ the heavenly gift, and were made partakers of the Holy Ghost,
 
 "'If they shall fall away, to renew them again unto repentance; seeing they
 crucify to themselves the Son of God afresh, and put him to an open shame.'
-[[Heb. 6:4-6](https://www.lds.org/scriptures/nt/heb/6.4-6?lang=eng#3).]"
+[[Heb. 6:4-6](/scriptures/nt/heb/6.4-6?lang=eng#3).]"
 
 President Smith concludes: "... the impressions on the soul that come from the
 Holy Ghost are far more significant than a vision. It is where Spirit speaks
@@ -201,8 +201,8 @@ believing that you shall receive. ...
 "Yea, behold, I will tell you in your mind and in your heart, by the Holy
 Ghost, which shall come upon you and which shall dwell in your heart.
 
-"Now, behold, this is the spirit of revelation." ([D&amp;C
-8:1-3](https://www.lds.org/scriptures/dc-testament/dc/8.1-3?lang=eng#0).)
+"Now, behold, this is the spirit of revelation." ([D&amp;C 8:1-3](/scriptures
+/dc-testament/dc/8.1-3?lang=eng#0).)
 
 We need the companionship of the Spirit in our lives to continually confirm to
 us the divinity of the gospel plan. Two things are vital to the assurance of
@@ -210,13 +210,13 @@ the companionship of the Spirit:
 
 1\. Our lives must be in conformity to the gospel standards. "... the Spirit of
 the Lord doth not dwell in unholy temples." ([Hel.
-4:24](https://www.lds.org/scriptures/bofm/hel/4.24?lang=eng#23).)
+4:24](/scriptures/bofm/hel/4.24?lang=eng#23).)
 
 2\. We must be engaged in the work. As the Pharisees listened to the bold
 teachings of the Savior, they said: "How knoweth this man letters, having
 never learned?" He answered them: "If any man will do his will, he shall know
 of the doctrine, whether it be of God, or whether I speak of myself." ([John
-7:15, 17](https://www.lds.org/scriptures/nt/john/7.15%2C17?lang=eng#14).)
+7:15, 17](/scriptures/nt/john/7.15,17?lang=eng#14).)
 
 The Lord plainly told the Prophet Joseph Smith how one might obtain a witness
 of him:
@@ -226,15 +226,14 @@ forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my
 voice, and keepeth my commandments, shall see my face and know that I am;
 
 "And that I am the true light that lighteth every man that cometh into the
-world." ([D&amp;C 93:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/93.1-2?lang=eng#0).)
+world." ([D&amp;C 93:1-2](/scriptures/dc-testament/dc/93.1-2?lang=eng#0).)
 
 Too often we ask the Lord for the direction of his Spirit before we've done
 all we can. The Lord gave Oliver Cowdery the key here when he attempted to
 translate and failed. He said: "But, behold, I say unto you, that you must
 study it out in your mind; then you must ask me if it be right, and if it is
 right I will cause that your bosom shall burn within you; therefore, you shall
-feel that it is right." ([D&amp;C 9:8](https://www.lds.org/scriptures/dc-
+feel that it is right." ([D&amp;C 9:8](/scriptures/dc-
 testament/dc/9.8?lang=eng#7).)
 
 After we have done all we can, having studied it out and determined how best
@@ -254,7 +253,7 @@ Behold, I have fasted and prayed many days that I might know these things of
 myself. And now I do know of myself that they are true; for the Lord God hath
 made them manifest unto me by his Holy Spirit; and this is the spirit of
 revelation which is in me." ([Alma
-5:45-46](https://www.lds.org/scriptures/bofm/alma/5.45-46?lang=eng#44).)
+5:45-46](/scriptures/bofm/alma/5.45-46?lang=eng#44).)
 
 Yes, "the Spirit enlighteneth every man that hearkeneth to the voice of the
 Spirit."
@@ -265,4 +264,6 @@ Joseph Smith was divinely called, that President Joseph Fielding Smith is a
 prophet of God, and that this gospel is the great plan of life and salvation
 as instituted of the Lord. This is my personal testimony to you, my brethren
 and sisters, and I leave it in the name of Jesus Christ. Amen.
+
+## References
 

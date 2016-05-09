@@ -15,7 +15,7 @@ Lehi, an early American Nephite prophet, taught:
 "For it must needs be, that there is an opposition in all things. If not so ...
 righteousness could not be brought to pass, neither wickedness, neither
 holiness nor misery, neither good nor bad." ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).)
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10).)
 
 As sons and daughters of our Heavenly Father, we have this gift of free agency
 to use in our mortal lives. We must be tried, tested, and proved to see if we
@@ -81,7 +81,7 @@ virtue, and virtue has its own reward. To use our agency for good, we must set
 aside the defensive, arrogant, and haughty attitude of a transgressor.
 
 Brigham Young taught: "Men should not be permitted to do as they please in all
-things; for there are rules regulating all good societies ... , the violation of
+things; for there are rules regulating all good societies ..., the violation of
 which cannot be countenanced either by civil or religious usages. ... Men ...
 should not be free to sin against God or against man without suffering such
 penalties as their sins deserve." (_Discourses of Brigham Young,_ p. 65.)
@@ -150,7 +150,7 @@ the Lord has said:
 
 "And it must needs be that the devil should tempt the children of men, or they
 could not be agents unto themselves; for if they never should have bitter they
-could not know the sweet." ([D&amp;C 29:39](https://www.lds.org/scriptures/dc-
+could not know the sweet." ([D&amp;C 29:39](/scriptures/dc-
 testament/dc/29.39?lang=eng#38).)
 
 Be aware and warned of the subtle workings of Satan, for he never stops trying
@@ -176,8 +176,7 @@ Jesus taught:
 
 "No man can serve two masters: for either he will hate the one, and love the
 other; or else he will hold to the one, and despise the other. Ye cannot serve
-God and mammon." ([Matt.
-6:24](https://www.lds.org/scriptures/nt/matt/6.24?lang=eng#23).)
+God and mammon." ([Matt. 6:24](/scriptures/nt/matt/6.24?lang=eng#23).)
 
 _There is no middle road._ Our position must be one of strength in order to
 overcome the evil that Satan would have us do.
@@ -211,4 +210,6 @@ free agency in obeying and keeping God's laws, as against failure to do so.
 May God bless us all that we will have the desire and courage to exercise our
 free agency in righteousness and in truth, I humbly pray in the name of Jesus
 Christ. Amen.
+
+## References
 

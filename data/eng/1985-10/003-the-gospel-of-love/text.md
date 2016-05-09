@@ -30,14 +30,13 @@ The greatest expression of love from our Father in Heaven to the human family
 is probably the infinite atonement of the Savior. "For God so loved the
 world," said John, "that he gave his only begotten Son, that whosoever
 believeth in him should not perish, but have everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 The most noble expression of love by man is to "love the Lord thy God with all
 thy heart, and with all thy soul, and with all thy mind. ...
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36).)
+([Matt. 22:37, 39](/scriptures/nt/matt/22.37,39?lang=eng#36).)
 
 To love our neighbor is a godlike trait and can take many forms.
 
@@ -77,7 +76,7 @@ final message of good-bye in the words she knew best: "I love you."
 Marie Hansen left a great legacy, probably greater than she realized. For did
 not the Savior say, "A new commandment I give unto you, That ye love one
 another; as I have loved you, that ye also love one another"? ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).)
+13:34](/scriptures/nt/john/13.34?lang=eng#33).)
 
 There are those who wish to know us better, to understand us better as a
 religion, as a church. There are those who write about us and study us. But
@@ -113,8 +112,7 @@ in the ward had taken him in and were raising him as their own. The whole ward
 was his home, and he was blossoming in this atmosphere of acceptance.
 
 "Inasmuch as ye have done it unto one of the least of these my brethren, ye
-have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+have done it unto me." ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 A few years ago, when President Kimball was a member of the Quorum of the
 Twelve, he and Sister Kimball were touring missions overseas.
@@ -142,8 +140,8 @@ rejoiceth not in iniquity but rejoiceth in the truth, beareth all things,
 believeth all things, hopeth all things, endureth all things. ...
 
 "[For] charity is the pure love of Christ, and it endureth forever." ([Moro.
-7:45, 47](https://www.lds.org/scriptures/bofm/moro/7.45%2C47?lang=eng#44); see
-also [1 Cor. 13](https://www.lds.org/scriptures/nt/1-cor/13.title?lang=eng).)
+7:45, 47](/scriptures/bofm/moro/7.45,47?lang=eng#44); see also [1 Cor.
+13](/scriptures/nt/1-cor/13?lang=eng).)
 
 Not long ago Sister Dunn and I attended a stake conference in Marilia, Brazil.
 Marilia is a beautiful city of 100,000 in the southeast interior of the
@@ -199,4 +197,6 @@ By way of testimony, I wish to express my love for my Father in Heaven, for
 his son Jesus Christ, for each one of you wherever you are, and for these my
 brethren and associates of the General Authorities. In the name of Jesus
 Christ, amen.
+
+## References
 

@@ -40,3 +40,5 @@ faithfully and cheerfully, as we can." (In Emerson Roy West, _Vital
 Quotations,_ Bookcraft, 1968, p. 201.) This I pray we may all do in the name
 of Jesus Christ, our Master. Amen.
 
+## References
+

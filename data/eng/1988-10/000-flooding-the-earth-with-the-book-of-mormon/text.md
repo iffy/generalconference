@@ -48,9 +48,9 @@ vessel, through the daily reading of the Book of Mormon.
 
 The Book of Mormon is the instrument that God designed to "sweep the earth as
 with a flood, to gather out [His] elect." ([Moses
-7:62](https://www.lds.org/scriptures/pgp/moses/7.62?lang=eng#61).) This sacred
-volume of scripture needs to become more central in our preaching, our
-teaching, and our missionary work.
+7:62](/scriptures/pgp/moses/7.62?lang=eng#61).) This sacred volume of
+scripture needs to become more central in our preaching, our teaching, and our
+missionary work.
 
 At present, the Book of Mormon is studied in our Sunday School and seminary
 classes every fourth year. This four-year pattern, however, must _not_ be
@@ -61,8 +61,8 @@ by its precepts, than by any other book." (_History of the Church,_ 4:461.)
 And when we are called upon to study or teach other scriptures, we need to
 strengthen that undertaking by frequent reference to the additional insights
 which the Book of Mormon may provide on the subject (see [1 Ne.
-13:40](https://www.lds.org/scriptures/bofm/1-ne/13.40?lang=eng#39), [2 Ne.
-3:12](https://www.lds.org/scriptures/bofm/2-ne/3.12?lang=eng#11)).
+13:40](/scriptures/bofm/1-ne/13.40?lang=eng#39), [2 Ne.
+3:12](/scriptures/bofm/2-ne/3.12?lang=eng#11)).
 
 The recent, well-done video on the Book of Mormon entitled _How Rare a
 Possession_ carried many messages. First was the power of the Book of Mormon
@@ -96,8 +96,7 @@ and will and voice of God to all men?" (_Millennial Messiah_ pp. 159, 170,
 Now, my good Saints, we have a great work to perform in a very short time. We
 must flood the earth with the Book of Mormon--and get out from under God's
 condemnation for having treated it lightly. (See [D&amp;C
-84:54-58](https://www.lds.org/scriptures/dc-
-testament/dc/84.54-58?lang=eng#53).)
+84:54-58](/scriptures/dc-testament/dc/84.54-58?lang=eng#53).)
 
 I challenge the members of the Church to participate in the family-to-family
 Book of Mormon program--to send copies of the Book of Mormon on a mission for
@@ -165,7 +164,9 @@ Church, even all the children of Zion.
 Moses never entered the promised land. Joseph Smith never saw Zion redeemed.
 Some of us may not live long enough to see the day when the Book of Mormon
 floods the earth and when the Lord lifts His condemnation. (See [D&amp;C
-84:54-58](https://www.lds.org/scriptures/dc-
-testament/dc/84.54-58?lang=eng#53).) But, God willing, I intend to spend all
-my remaining days in that glorious effort. In the name of Jesus Christ, amen.
+84:54-58](/scriptures/dc-testament/dc/84.54-58?lang=eng#53).) But, God
+willing, I intend to spend all my remaining days in that glorious effort. In
+the name of Jesus Christ, amen.
+
+## References
 

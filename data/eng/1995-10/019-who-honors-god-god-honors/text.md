@@ -18,7 +18,7 @@ _And publish on the mountains salvation, truth, and peace: ..._
 
 _The Comforter will teach you, his richest blessings send._
 
-_Your Savior will be with you forever to the end._ [1]
+_Your Savior will be with you forever to the end._[1]
 
 What a mighty promise these precious words proclaim. They apply to you young
 men who bear the Aaronic Priesthood and to your fathers and other brethren who
@@ -28,7 +28,7 @@ It seems like yesterday that I was secretary of the deacons quorum in my ward.
 We were tutored by wise and patient men who taught us from the holy
 scriptures, even men who knew us well. These men who took time to listen and
 to laugh, to build and to inspire, emphasized that we, like the Lord, could
-increase in wisdom and stature, and in favor with God and man. [2]  They were
+increase in wisdom and stature, and in favor with God and man.[2] They were
 examples to us. Their lives were a reflection of their testimonies.
 
 Youth is a time for growth. Our minds during these formative years are
@@ -47,7 +47,7 @@ _In the right the Holy Spirit guides;_
 
 _And its light is forever shining o'er you,_
 
-_When in the right your heart confides._ [3]
+_When in the right your heart confides._[3]
 
 A spirit of determination to do the right thing can come in earliest boyhood.
 At the cemetery following a lovely funeral I attended, there stood near the
@@ -237,12 +237,11 @@ in appearance, Samuel was told by the Lord that none was to be chosen. "And
 Samuel said unto Jesse, Are here all thy children? And he said, There
 remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said
 unto Jesse, Send and fetch him. ... And he sent, and brought him in. ... And the
-Lord said, Arise, anoint him: for this is he." [4]
+Lord said, Arise, anoint him: for this is he."[4]
 
 The lesson for us to learn is found in the sixteenth chapter of First Samuel,
-verse seven [[1 Sam.
-16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6)]: "Man looketh
-on the outward appearance, but the Lord looketh on the heart." [5]
+verse seven [[1 Sam. 16:7](/scriptures/ot/1-sam/16.7?lang=eng#6)]: "Man
+looketh on the outward appearance, but the Lord looketh on the heart."[5]
 
 As bearers of the priesthood, all of us united as one can qualify for the
 guiding influence of our Heavenly Father as we pursue our respective callings.
@@ -251,22 +250,22 @@ times, have answered His call. We are on His errand. We shall succeed in the
 solemn charge given by Mormon to declare the Lord's word among His people. He
 wrote: "Behold, I am a disciple of Jesus Christ, the Son of God. I have been
 called of him to declare his word among his people, that they might have
-everlasting life." [6]
+everlasting life."[6]
 
 May we ever remember the truth, "Who honors God, God honors." In the name of
 Jesus Christ, amen.
 
 ## References
 
-  1.  "Ye Who Are Called to Labor," _Hymns,_ 1985, no. 321.
+  1. "Ye Who Are Called to Labor," _Hymns,_ 1985, no. 321.
 
-  2.  See [Luke 2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).
+  2. See [Luke 2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).
 
-  3.  "Choose the Right," _Hymns,_ 1985, no. 239.
+  3. "Choose the Right," _Hymns,_ 1985, no. 239.
 
-  4.   [1 Sam. 16:11-12](https://www.lds.org/scriptures/ot/1-sam/16.11-12?lang=eng#10).
+  4. [1 Sam. 16:11-12](https://www.lds.org/scriptures/ot/1-sam/16.11-12?lang=eng#10).
 
-  5.   [1 Sam. 16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).
+  5. [1 Sam. 16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).
 
-  6.   [3 Ne. 5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12).
+  6. [3 Ne. 5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12).
 

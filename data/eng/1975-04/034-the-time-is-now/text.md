@@ -29,12 +29,12 @@ remind ourselves eternity is in process now.
 
 When the wise counsel "men should be anxiously engaged in a good cause, and do
 many things of their own free will, and bring to pass much righteousness"
-([D&amp;C 58:27](https://www.lds.org/scriptures/dc-
-testament/dc/58.27?lang=eng#26)) was said, the time structure referred only to
-now, today, and without delay. How unwise are those who want to delay
-repentance until tomorrow. With each passing day the process becomes more
-difficult to pursue. Most of our hurts and misunderstandings could be cleared
-away if treated today instead of waiting for them to go away tomorrow.
+([D&amp;C 58:27](/scriptures/dc-testament/dc/58.27?lang=eng#26)) was said, the
+time structure referred only to now, today, and without delay. How unwise are
+those who want to delay repentance until tomorrow. With each passing day the
+process becomes more difficult to pursue. Most of our hurts and
+misunderstandings could be cleared away if treated today instead of waiting
+for them to go away tomorrow.
 
 To live more fully each hour and to glean the most from each day is wisdom.
 How unwise we are to waste our todays when they determine the significance of
@@ -83,12 +83,11 @@ in the importance of now and today in preparation for tomorrow.
 In recalling some of the Savior's well-known teachings, the word _now_ can be
 appropriately added to emphasize their impact. "If ye love me, keep my
 commandments" ... NOW. (See [John
-14:25](https://www.lds.org/scriptures/nt/john/14.25?lang=eng#24).) "Go ye into
-all the world, and preach the gospel to every creature" ... NOW. (See [Mark
-16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14).) "Come,
-follow me" ... NOW. (See [Luke
-18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).) Truly, if
-we love God, we will serve him ... NOW.
+14:25](/scriptures/nt/john/14.25?lang=eng#24).) "Go ye into all the world, and
+preach the gospel to every creature" ... NOW. (See [Mark
+16:15](/scriptures/nt/mark/16.15?lang=eng#14).) "Come, follow me" ... NOW. (See
+[Luke 18:22](/scriptures/nt/luke/18.22?lang=eng#21).) Truly, if we love God,
+we will serve him ... NOW.
 
 There are those among us, though they would deny it, who are hungry for
 fellowship and activity in the Church today. They need us and we need them. It
@@ -137,8 +136,7 @@ _To step into eternity._
 As we take time for God, we will become more like him. Robert Louis Stevenson
 is credited with saying, "Saints are sinners who kept trying." It was our
 Savior Jesus Christ who said, "If ye continue in my word, then are ye my
-disciples indeed." ([John
-8:31](https://www.lds.org/scriptures/nt/john/8.31?lang=eng#30).)
+disciples indeed." ([John 8:31](/scriptures/nt/john/8.31?lang=eng#30).)
 
 Brothers and sisters, the message is loud and clear. If we work, serve,
 improve now--each hour, each day will lead us onward and upward to a
@@ -221,13 +219,13 @@ determines the tomorrow. I share from Alma, chapter 34, verses 32 and 33:
 "For behold, this ... is the time for men to prepare to meet God; yea, behold
 the day of this life is the day for men to perform their labors ... do not
 procrastinate the day of your repentance." [[Alma
-34:32-33](https://www.lds.org/scriptures/bofm/alma/34.32-33?lang=eng#31)] The
-best of life is not just around the corner, when I go on a mission, after
-marriage, after the house is paid for, after the recession is over, or after
-the children are raised. The best of life is now. Today is the time to really
-start living. Today is the time to get a head start on tomorrow. The future
-belongs to those who know how to live now. There are no unimportant days in
-the lives of the anxiously engaged.
+34:32-33](/scriptures/bofm/alma/34.32-33?lang=eng#31)] The best of life is not
+just around the corner, when I go on a mission, after marriage, after the
+house is paid for, after the recession is over, or after the children are
+raised. The best of life is now. Today is the time to really start living.
+Today is the time to get a head start on tomorrow. The future belongs to those
+who know how to live now. There are no unimportant days in the lives of the
+anxiously engaged.
 
 There is a tendency on the part of many today, worldwide, to postpone
 appropriate actions and commitments until international unrest settles. To
@@ -244,11 +242,12 @@ Andrew his brother casting a net into the sea: for they were fishers.
 fishers of men.
 
 "And _straightway_ they forsook their nets, and followed him." ([Mark
-1:16-18](https://www.lds.org/scriptures/nt/mark/1.16-18?lang=eng#15). Italics
-added.)
+1:16-18](/scriptures/nt/mark/1.16-18?lang=eng#15). Italics added.)
 
 God help us to forsake our procrastinating ways and straightway follow him.
 Now is the time to serve the Lord. I bear witness to you that I know these
 truths better today than I did yesterday, and I leave you my testimony now in
 the name of Jesus Christ. Amen.
+
+## References
 

@@ -23,114 +23,111 @@ Mormon, that show that Jesus is the Christ. Then let us confirm each of those
 attributes about Him with a brief quote from the Book of Mormon.
 
 He is _Alive:_ "The life of the world ... a life which is endless" ([Mosiah
-16:9](https://www.lds.org/scriptures/bofm/mosiah/16.9?lang=eng#8)).
+16:9](/scriptures/bofm/mosiah/16.9?lang=eng#8)).
 
 He is _Constant:_ "The same yesterday, today, and forever" ([2 Ne.
-27:23](https://www.lds.org/scriptures/bofm/2-ne/27.23?lang=eng#22)).
+27:23](/scriptures/bofm/2-ne/27.23?lang=eng#22)).
 
 He is the _Creator:_ "He created all things, both in heaven and in earth"
-([Mosiah 4:9](https://www.lds.org/scriptures/bofm/mosiah/4.9?lang=eng#8)).
+([Mosiah 4:9](/scriptures/bofm/mosiah/4.9?lang=eng#8)).
 
 He is the _Exemplar:_ He "set the example. ... He said unto the children of men:
-Follow thou me" ([2 Ne. 31:9,
-10](https://www.lds.org/scriptures/bofm/2-ne/31.9%2C10?lang=eng#8)).
+Follow thou me" ([2 Ne. 31:9, 10](/scriptures/bofm/2-ne/31.9,10?lang=eng#8)).
 
 He is _Generous:_ "He commandeth none that they shall not partake of his
-salvation" ([2 Ne.
-26:24](https://www.lds.org/scriptures/bofm/2-ne/26.24?lang=eng#23)).
+salvation" ([2 Ne. 26:24](/scriptures/bofm/2-ne/26.24?lang=eng#23)).
 
 He is _Godly:_ He is God (see [2 Ne.
-27:23](https://www.lds.org/scriptures/bofm/2-ne/27.23?lang=eng#22)).
+27:23](/scriptures/bofm/2-ne/27.23?lang=eng#22)).
 
 He is _Good:_ "All things which are good cometh of God" ([Moro.
-7:12](https://www.lds.org/scriptures/bofm/moro/7.12?lang=eng#11)).
+7:12](/scriptures/bofm/moro/7.12?lang=eng#11)).
 
 He is _Gracious:_ "He is full of grace" ([2 Ne.
-2:6](https://www.lds.org/scriptures/bofm/2-ne/2.6?lang=eng#5)).
+2:6](/scriptures/bofm/2-ne/2.6?lang=eng#5)).
 
 He is the _Healer:_ The "sick, and ... afflicted with all manner of diseases ...
 devils and unclean spirits ... were healed by the power of the Lamb of God" ([1
-Ne. 11:31](https://www.lds.org/scriptures/bofm/1-ne/11.31?lang=eng#30)).
+Ne. 11:31](/scriptures/bofm/1-ne/11.31?lang=eng#30)).
 
 He is _Holy:_ "O how great the holiness of our God!" ([2 Ne.
-9:20](https://www.lds.org/scriptures/bofm/2-ne/9.20?lang=eng#19)).
+9:20](/scriptures/bofm/2-ne/9.20?lang=eng#19)).
 
 He is _Humble:_ "He humbleth himself before the Father" ([2 Ne.
-31:7](https://www.lds.org/scriptures/bofm/2-ne/31.7?lang=eng#6)).
+31:7](/scriptures/bofm/2-ne/31.7?lang=eng#6)).
 
 He is _Joyful:_ "The Father hath given" Him a "fulness of joy" ([3 Ne.
-28:10](https://www.lds.org/scriptures/bofm/3-ne/28.10?lang=eng#9)).
+28:10](/scriptures/bofm/3-ne/28.10?lang=eng#9)).
 
 He is our _Judge:_ We "shall be brought to stand before the bar of God, to be
-judged of him" ([Mosiah
-16:10](https://www.lds.org/scriptures/bofm/mosiah/16.10?lang=eng#9)).
+judged of him" ([Mosiah 16:10](/scriptures/bofm/mosiah/16.10?lang=eng#9)).
 
 He is _Just:_ "The judgments of God are always just" ([Mosiah
-29:12](https://www.lds.org/scriptures/bofm/mosiah/29.12?lang=eng#11)).
+29:12](/scriptures/bofm/mosiah/29.12?lang=eng#11)).
 
 He is _Kind:_ He has "loving kindness ... towards the children of men" ([1 Ne.
-19:9](https://www.lds.org/scriptures/bofm/1-ne/19.9?lang=eng#8)).
+19:9](/scriptures/bofm/1-ne/19.9?lang=eng#8)).
 
 He is the _Lawgiver:_ He "gave the law" ([3 Ne.
-15:5](https://www.lds.org/scriptures/bofm/3-ne/15.5?lang=eng#4)).
+15:5](/scriptures/bofm/3-ne/15.5?lang=eng#4)).
 
 He is the _Liberator:_ "There is no other head whereby ye can be made free"
-([Mosiah 5:8](https://www.lds.org/scriptures/bofm/mosiah/5.8?lang=eng#7)).
+([Mosiah 5:8](/scriptures/bofm/mosiah/5.8?lang=eng#7)).
 
 He is the _Light:_ "The light ... of the world; yea, a light that is endless,
 that can never be darkened" ([Mosiah
-16:9](https://www.lds.org/scriptures/bofm/mosiah/16.9?lang=eng#8)).
+16:9](/scriptures/bofm/mosiah/16.9?lang=eng#8)).
 
 He is _Loving:_ "He loveth the world, even that he layeth down his own life"
-([2 Ne. 26:24](https://www.lds.org/scriptures/bofm/2-ne/26.24?lang=eng#23)).
+([2 Ne. 26:24](/scriptures/bofm/2-ne/26.24?lang=eng#23)).
 
 He is the _Mediator:_ "The great Mediator of all men" ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)).
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)).
 
 He is _Merciful:_ There is a "multitude of his tender mercies" ([1 Ne.
-8:8](https://www.lds.org/scriptures/bofm/1-ne/8.8?lang=eng#7)).
+8:8](/scriptures/bofm/1-ne/8.8?lang=eng#7)).
 
 He is _Mighty:_ "Mightier than all the earth" ([1 Ne.
-4:1](https://www.lds.org/scriptures/bofm/1-ne/4.1?lang=eng#0)).
+4:1](/scriptures/bofm/1-ne/4.1?lang=eng#0)).
 
 He is _Miraculous:_ A "God of miracles" ([2 Ne.
-27:23](https://www.lds.org/scriptures/bofm/2-ne/27.23?lang=eng#22)).
+27:23](/scriptures/bofm/2-ne/27.23?lang=eng#22)).
 
 He is _Obedient:_ Obedient unto the Father "in keeping his commandments" ([2
-Ne. 31:7](https://www.lds.org/scriptures/bofm/2-ne/31.7?lang=eng#6)).
+Ne. 31:7](/scriptures/bofm/2-ne/31.7?lang=eng#6)).
 
 He is _Omnipotent:_ He has "all power, both in heaven and in earth" ([Mosiah
-4:9](https://www.lds.org/scriptures/bofm/mosiah/4.9?lang=eng#8)).
+4:9](/scriptures/bofm/mosiah/4.9?lang=eng#8)).
 
 He is _Omniscient:_ "The Lord knoweth all things from the beginning" ([1 Ne.
-9:6](https://www.lds.org/scriptures/bofm/1-ne/9.6?lang=eng#5)).
+9:6](/scriptures/bofm/1-ne/9.6?lang=eng#5)).
 
 He is our _Redeemer:_ "All mankind were in a lost and in a fallen state, and
 ever would be save they should rely on this Redeemer" ([1 Ne.
-10:6](https://www.lds.org/scriptures/bofm/1-ne/10.6?lang=eng#5)).
+10:6](/scriptures/bofm/1-ne/10.6?lang=eng#5)).
 
 He is the _Resurrection:_ He brought to pass "the resurrection of the dead,
 being the first that should rise" ([2 Ne.
-2:8](https://www.lds.org/scriptures/bofm/2-ne/2.8?lang=eng#7)).
+2:8](/scriptures/bofm/2-ne/2.8?lang=eng#7)).
 
 He is _Righteous:_ "His ways are righteousness forever" ([2 Ne.
-1:19](https://www.lds.org/scriptures/bofm/2-ne/1.19?lang=eng#18)).
+1:19](/scriptures/bofm/2-ne/1.19?lang=eng#18)).
 
 He is the _Ruler:_ He rules "in the heavens above and in the earth beneath"
-([2 Ne. 29:7](https://www.lds.org/scriptures/bofm/2-ne/29.7?lang=eng#6)).
+([2 Ne. 29:7](/scriptures/bofm/2-ne/29.7?lang=eng#6)).
 
 He is our _Savior:_ "There is none other name given under heaven save it be
 this Jesus Christ ... whereby man can be saved" ([2 Ne.
-25:20](https://www.lds.org/scriptures/bofm/2-ne/25.20?lang=eng#19)).
+25:20](/scriptures/bofm/2-ne/25.20?lang=eng#19)).
 
 He is _Sinless:_ He "suffereth temptation, and yieldeth not to the temptation"
-([Mosiah 15:5](https://www.lds.org/scriptures/bofm/mosiah/15.5?lang=eng#4)).
+([Mosiah 15:5](/scriptures/bofm/mosiah/15.5?lang=eng#4)).
 
 He is _Truthful:_ "A God of truth, and canst not lie" ([Ether
-3:12](https://www.lds.org/scriptures/bofm/ether/3.12?lang=eng#11)).
+3:12](/scriptures/bofm/ether/3.12?lang=eng#11)).
 
 He is _Wise:_ "He has all wisdom" ([Mosiah
-4:9](https://www.lds.org/scriptures/bofm/mosiah/4.9?lang=eng#8)).
+4:9](/scriptures/bofm/mosiah/4.9?lang=eng#8)).
 
 As I reflect on these and many other marks of our Lord's divinity, as found in
 the Book of Mormon, my heart cries out with the hymnist:
@@ -172,73 +169,66 @@ matter.
 First we need to know that Christ invites us to come unto Him. "Behold, he
 sendeth an invitation unto all men, for the arms of mercy are extended towards
 them, ... Yea, he saith: Come unto me and ye shall partake of the fruit of the
-tree of life" ([Alma
-5:33-34](https://www.lds.org/scriptures/bofm/alma/5.33-34?lang=eng#32)).
+tree of life" ([Alma 5:33-34](/scriptures/bofm/alma/5.33-34?lang=eng#32)).
 
 Come, for he stands "with open arms to receive you" ([Morm.
-6:17](https://www.lds.org/scriptures/bofm/morm/6.17?lang=eng#16)).
+6:17](/scriptures/bofm/morm/6.17?lang=eng#16)).
 
 Come, for "he will console you in your afflictions, and he will plead your
-cause" ([Jacob
-3:1](https://www.lds.org/scriptures/bofm/jacob/3.1?lang=eng#0)).
+cause" ([Jacob 3:1](/scriptures/bofm/jacob/3.1?lang=eng#0)).
 
 "Come unto him, and offer your whole souls as an offering unto him" ([Omni
-1:26](https://www.lds.org/scriptures/bofm/omni/1.26?lang=eng#25)).
+1:26](/scriptures/bofm/omni/1.26?lang=eng#25)).
 
 As Moroni closed the record of the Jaredite civilization, he wrote, "I would
 commend you to seek this Jesus of whom the prophets and apostles have written"
-([Ether 12:41](https://www.lds.org/scriptures/bofm/ether/12.41?lang=eng#40)).
+([Ether 12:41](/scriptures/bofm/ether/12.41?lang=eng#40)).
 
 In Moroni's closing words written toward the end of the Nephite civilization,
 he said, "Yea, come unto Christ, and be perfected in him, ... and if ye shall
 deny yourselves of all ungodliness, and love God with all your might, mind and
 strength, then is his grace sufficient for you" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31)).
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31)).
 
 Those who are committed to Christ "stand as witnesses of God at all times and
 in all things, and in all places" that they may be in "even until death"
-([Mosiah 18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)).
-They "retain the name" of Christ "written always" in their hearts ([Mosiah
-5:12](https://www.lds.org/scriptures/bofm/mosiah/5.12?lang=eng#11)). They take
-upon themselves "the name of Christ, having a determination to serve him to
-the end" ([Moro.
-6:3](https://www.lds.org/scriptures/bofm/moro/6.3?lang=eng#2)).
+([Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)). They "retain the
+name" of Christ "written always" in their hearts ([Mosiah
+5:12](/scriptures/bofm/mosiah/5.12?lang=eng#11)). They take upon themselves
+"the name of Christ, having a determination to serve him to the end" ([Moro.
+6:3](/scriptures/bofm/moro/6.3?lang=eng#2)).
 
 When we live a Christ-centered life, "we talk of Christ, we rejoice in Christ,
-we preach of Christ" ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25)). We
-"receive the pleasing word of God, and feast upon his love" ([Jacob
-3:2](https://www.lds.org/scriptures/bofm/jacob/3.2?lang=eng#1)). Even when
-Nephi's soul was grieved because of his iniquities, he said, "I know in whom I
-have trusted. My God hath been my support" ([2 Ne.
-4:19-20](https://www.lds.org/scriptures/bofm/2-ne/4.19-20?lang=eng#18)).
+we preach of Christ" ([2 Ne. 25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25)).
+We "receive the pleasing word of God, and feast upon his love" ([Jacob
+3:2](/scriptures/bofm/jacob/3.2?lang=eng#1)). Even when Nephi's soul was
+grieved because of his iniquities, he said, "I know in whom I have trusted. My
+God hath been my support" ([2 Ne.
+4:19-20](/scriptures/bofm/2-ne/4.19-20?lang=eng#18)).
 
 We remember Alma's counsel: "Let all thy doings be unto the Lord, and
 whithersoever thou goest let it be in the Lord; yea, let all thy thoughts be
 directed unto the Lord; yea, let the affections of thy heart be placed upon
 the Lord forever. Counsel with the Lord in all thy doings" ([Alma
-37:36-37](https://www.lds.org/scriptures/bofm/alma/37.36-37?lang=eng#35)).
+37:36-37](/scriptures/bofm/alma/37.36-37?lang=eng#35)).
 
 "Remember, remember," said Helaman, "that it is upon the rock of our Redeemer,
 who is Christ, ... that ye must build your foundation; that when the devil shall
 send forth his mighty winds, ... [they] shall have no power over you to drag you
 down to the gulf of misery" ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11)).
+5:12](/scriptures/bofm/hel/5.12?lang=eng#11)).
 
 Nephi said, the Lord "hath filled me with his love, even unto the consuming of
-my flesh" ([2 Ne.
-4:21](https://www.lds.org/scriptures/bofm/2-ne/4.21?lang=eng#20)). Those who
+my flesh" ([2 Ne. 4:21](/scriptures/bofm/2-ne/4.21?lang=eng#20)). Those who
 are consumed in Christ "are made alive in Christ" ([2 Ne.
-25:25](https://www.lds.org/scriptures/bofm/2-ne/25.25?lang=eng#24)). They
-"suffer no manner of afflictions, save it were swallowed up in the joy of
-Christ" ([Alma
-31:38](https://www.lds.org/scriptures/bofm/alma/31.38?lang=eng#37)). They are
-"clasped in the arms of Jesus" ([Morm.
-5:11](https://www.lds.org/scriptures/bofm/morm/5.11?lang=eng#10)). Nephi said,
-"I glory in my Jesus, for he hath redeemed my soul" ([2 Ne.
-33:6](https://www.lds.org/scriptures/bofm/2-ne/33.6?lang=eng#5)). Lehi said,
-"I am encircled about eternally in the arms of his love" ([2 Ne.
-1:15](https://www.lds.org/scriptures/bofm/2-ne/1.15?lang=eng#14)).
+25:25](/scriptures/bofm/2-ne/25.25?lang=eng#24)). They "suffer no manner of
+afflictions, save it were swallowed up in the joy of Christ" ([Alma
+31:38](/scriptures/bofm/alma/31.38?lang=eng#37)). They are "clasped in the
+arms of Jesus" ([Morm. 5:11](/scriptures/bofm/morm/5.11?lang=eng#10)). Nephi
+said, "I glory in my Jesus, for he hath redeemed my soul" ([2 Ne.
+33:6](/scriptures/bofm/2-ne/33.6?lang=eng#5)). Lehi said, "I am encircled
+about eternally in the arms of his love" ([2 Ne.
+1:15](/scriptures/bofm/2-ne/1.15?lang=eng#14)).
 
 Now, my beloved brethren and sisters, let us read the Book of Mormon and be
 convinced that Jesus is the Christ. Let us continually reread the Book of
@@ -258,9 +248,8 @@ son, notwithstanding their hardness, let us labor diligently; for if we should
 cease to labor, we should be brought under condemnation; for we have a labor
 to perform whilst in this tabernacle of clay, that we may conquer the enemy of
 all righteousness, and rest our souls in the kingdom of God" ([Moro.
-9:6](https://www.lds.org/scriptures/bofm/moro/9.6?lang=eng#5)). You and I have
-a similar labor to perform now--to conquer the enemy and rest our souls in the
-kingdom.
+9:6](/scriptures/bofm/moro/9.6?lang=eng#5)). You and I have a similar labor to
+perform now--to conquer the enemy and rest our souls in the kingdom.
 
 Then that great soul Mormon closes his letter to his beloved son, Moroni, with
 these words.
@@ -274,10 +263,12 @@ rest in your mind forever.
 "And may the grace of God the Father, whose throne is high in the heavens, and
 our Lord Jesus Christ, who sitteth on the right hand of his power, until all
 things shall become subject unto him, be, and abide with you forever" ([Moro.
-9:25-26](https://www.lds.org/scriptures/bofm/moro/9.25-26?lang=eng#24)).
+9:25-26](/scriptures/bofm/moro/9.25-26?lang=eng#24)).
 
 My prayer for each of us is that we too will follow that inspired counsel: "Be
 faithful in Christ." Then He will lift us up and His grace will be and abide
 with us forever. That this may be so, I humbly pray in the name of Jesus
 Christ, amen.
+
+## References
 

@@ -14,7 +14,7 @@ plagues that are written in this book:
 "And if any man shall take away from the words of the book of this prophecy,
 God shall take away his part out of the book of life, and out of the holy
 city, and from the things which are written in this book." ([Rev.
-22:18-19](https://www.lds.org/scriptures/nt/rev/22.18-19?lang=eng#17).)
+22:18-19](/scriptures/nt/rev/22.18-19?lang=eng#17).)
 
 These verses of scripture have been cited repeatedly by those attempting to
 discredit the Book of Mormon, claiming that God's revelation to man is closed.
@@ -68,15 +68,14 @@ death and assumed to be complete, Moses wrote:
 
 "Ye shall not add unto the word which I command you, neither shall ye diminish
 ought from it, that ye may keep the commandments of the Lord your God which I
-command you." ([Deut.
-4:2](https://www.lds.org/scriptures/ot/deut/4.2?lang=eng#1).)
+command you." ([Deut. 4:2](/scriptures/ot/deut/4.2?lang=eng#1).)
 
 Later in this same book of the law, Moses repeated the admonition in similar
 words. He said,
 
 "What thing soever I command you, observe to do it: thou shalt not add
 thereto, nor diminish from it." ([Deut.
-12:32](https://www.lds.org/scriptures/ot/deut/12.32?lang=eng#31).)
+12:32](/scriptures/ot/deut/12.32?lang=eng#31).)
 
 In the minds of some, these admonitions in the Old Testament raise the same
 question as to the Book of Mormon being an attempted addition to scripture as
@@ -109,9 +108,9 @@ Israelites.
 
 Before the ascension of Christ, he promised the remaining eleven apostles,
 "lo, I am with you alway, Even unto the end of the world." ([Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19).) Following
-his ascension, he guided the Church by revelation until the death of the
-Apostles and subsequent apostasy of the Church of Jesus Christ.
+28:20](/scriptures/nt/matt/28.20?lang=eng#19).) Following his ascension, he
+guided the Church by revelation until the death of the Apostles and subsequent
+apostasy of the Church of Jesus Christ.
 
 A distinctive sign of the last days that will precede the eventual second
 coming of the Lord was seen in vision by that same Apostle who recorded the
@@ -119,8 +118,7 @@ book of Revelation. He said:
 
 "I saw another angel fly in the midst of heaven, having the everlasting gospel
 to preach unto them that dwell on the earth, and to every nation, and kindred,
-and tongue, and people." ([Rev.
-14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5).)
+and tongue, and people." ([Rev. 14:6](/scriptures/nt/rev/14.6?lang=eng#5).)
 
 The fact that John saw a messenger from God reveal anew a lost gospel negates
 the argument that further revelation could not be added to the Bible.
@@ -143,8 +141,7 @@ shall be taken from the earth, and the devil shall have power over his own
 dominion.
 
 "And also the Lord shall have power over his saints, and shall reign in their
-midst." ([D&amp;C 1:35-36](https://www.lds.org/scriptures/dc-
-testament/dc/1.35-36?lang=eng#34).)
+midst." ([D&amp;C 1:35-36](/scriptures/dc-testament/dc/1.35-36?lang=eng#34).)
 
 The Savior is reigning in the midst of the Saints today through continuous
 revelation. I testify that he is with his servants in this day and will be
@@ -154,4 +151,6 @@ May our vision not be so narrow that we would relegate revelation to only the
 ancients. God is merciful and loves his children in all ages and has revealed
 himself to this time in history. Of this I solemnly testify, in the name of
 Jesus Christ, amen.
+
+## References
 

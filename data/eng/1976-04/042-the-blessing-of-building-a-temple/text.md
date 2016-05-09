@@ -73,7 +73,7 @@ those who fear me, and delight to honor those who serve me in righteousness
 and in truth unto the end.
 
 "Great shall be their reward and eternal shall be their glory." ([D&amp;C
-76:5-6](https://www.lds.org/scriptures/dc-testament/dc/76.5-6?lang=eng#4).)
+76:5-6](/scriptures/dc-testament/dc/76.5-6?lang=eng#4).)
 
 One of the three great prophets appearing to the Prophet Joseph Smith and
 Oliver Cowdery in the Kirtland Temple was Elijah the prophet, who was taken to
@@ -84,8 +84,7 @@ the great and dreadful day of the Lord come--
 
 "To turn the hearts of the fathers to the children, and the children to the
 fathers, lest the whole earth be smitten with a curse." ([D&amp;C
-110:14-15](https://www.lds.org/scriptures/dc-
-testament/dc/110.14-15?lang=eng#13).)
+110:14-15](/scriptures/dc-testament/dc/110.14-15?lang=eng#13).)
 
 May I share with you this afternoon an experience that happened to a young
 couple who were members of the Church in Japan. They wished to be married, and
@@ -133,4 +132,6 @@ Joseph Smith was an instrument in the hands of the Lord to restore the gospel
 in these last days and we have a living prophet in President Spencer W.
 Kimball, who is guiding and directing The Church of Jesus Christ of Latter-day
 Saints. To this I testify, in the name of Jesus Christ. Amen.
+
+## References
 

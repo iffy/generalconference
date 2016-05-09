@@ -12,13 +12,13 @@ anxiety for your welfare.
 This is a glorious time to live, to be young, to face an exciting future; but
 it is also a very threatening and frightening time, if you are not prepared.
 And if you are prepared, there is no need to fear. (See [D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).) You
-are the pioneers of today and will blaze a trail into a wilderness unlike and
-perhaps even more challenging than that of the pioneers of earlier days. Your
-courage must be equal to, if not greater than, the courage of young women like
-Mary Goble Pay. From her journal we read: "We arrived in Salt Lake City nine
-o'clock at night the 11th of December 1856. Three out of four that were living
-were frozen. My mother was dead in the wagon. ...
+38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29).) You are the pioneers
+of today and will blaze a trail into a wilderness unlike and perhaps even more
+challenging than that of the pioneers of earlier days. Your courage must be
+equal to, if not greater than, the courage of young women like Mary Goble Pay.
+From her journal we read: "We arrived in Salt Lake City nine o'clock at night
+the 11th of December 1856. Three out of four that were living were frozen. My
+mother was dead in the wagon. ...
 
 "Early next morning Bro. Brigham Young ... came. ... When he saw our condition--
 our feet frozen and our mother dead--tears rolled down his cheeks.
@@ -47,9 +47,8 @@ is right.
 
 We are warned in the scriptures, "Yea, and all that will live godly in Christ
 Jesus shall suffer persecution." ([2 Tim.
-3:12](https://www.lds.org/scriptures/nt/2-tim/3.12?lang=eng#11).) Peer
-pressure is a form of persecution. Peer pressure is one of the great tests of
-today.
+3:12](/scriptures/nt/2-tim/3.12?lang=eng#11).) Peer pressure is a form of
+persecution. Peer pressure is one of the great tests of today.
 
 Do you remember the story of the early pioneers and how the terrible plague of
 black crickets came down from the mountains to destroy the crops of grain?
@@ -147,15 +146,15 @@ the crickets, He has provided safety and protection for you and me.
 Spirituality allows us to have the Spirit of the Lord with us, and when we do,
 we will never be deceived. He promises us, "I will ... be your light in the
 wilderness ... if ... [you] shall keep my commandments." ([1 Ne.
-17:13](https://www.lds.org/scriptures/bofm/1-ne/17.13?lang=eng#12).) Now
-listen to this: When you were baptized and then confirmed a member of The
-Church of Jesus Christ of Latter-day Saints, you were given the gift of the
-Holy Ghost. The Holy Ghost will help you recognize good and evil, right and
-wrong, and will teach you and help you remember the lessons you learned even
-before your earth life. He will strengthen you, comfort you, and give you
-peace. But there is something important that you must never forget. To have
-the companionship of the Holy Ghost, you must be clean; and to be clean, you
-must keep the commandments of God.
+17:13](/scriptures/bofm/1-ne/17.13?lang=eng#12).) Now listen to this: When you
+were baptized and then confirmed a member of The Church of Jesus Christ of
+Latter-day Saints, you were given the gift of the Holy Ghost. The Holy Ghost
+will help you recognize good and evil, right and wrong, and will teach you and
+help you remember the lessons you learned even before your earth life. He will
+strengthen you, comfort you, and give you peace. But there is something
+important that you must never forget. To have the companionship of the Holy
+Ghost, you must be clean; and to be clean, you must keep the commandments of
+God.
 
 Let me say it another way. When we keep the commandments, we are clean; and
 when we are clean in our thoughts, our words, and our actions, we can hear the
@@ -198,4 +197,6 @@ are the promise of tomorrow, the hope of Israel. "Rise in might / With the
 sword of truth and right; / Sound the war-cry, 'Watch and pray!' / Vanquish
 ev'ry foe today." (_Hymns,_ 1985, no. 259.) God bless you. In the name of
 Jesus Christ, amen.
+
+## References
 

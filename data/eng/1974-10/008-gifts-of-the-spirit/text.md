@@ -7,12 +7,11 @@ manifestations of spiritual gifts.
 
 During the earthly ministry of the Savior, it is recorded that he "went about
 all Galilee, ... healing all manner of sickness and all manner of disease among
-the people." ([Matt.
-4:23](https://www.lds.org/scriptures/nt/matt/4.23?lang=eng#22).) "And great
+the people." ([Matt. 4:23](/scriptures/nt/matt/4.23?lang=eng#22).) "And great
 multitudes followed him, and he healed them all." ([Matt.
-12:15](https://www.lds.org/scriptures/nt/matt/12.15?lang=eng#14).) Before the
-Savior departed from his apostles after his resurrection, "he said unto them,
-Go ye into all the world, and preach the gospel to every creature.
+12:15](/scriptures/nt/matt/12.15?lang=eng#14).) Before the Savior departed
+from his apostles after his resurrection, "he said unto them, Go ye into all
+the world, and preach the gospel to every creature.
 
 "He that believeth and is baptized shall be saved; but he that believeth not
 shall be damned.
@@ -22,7 +21,7 @@ out devils; they shall speak with new tongues;
 
 "They shall take up serpents; and if they drink any deadly thing, it shall not
 hurt them; they shall lay hands on the sick, and they shall recover." ([Mark
-16:15-18](https://www.lds.org/scriptures/nt/mark/16.15-18?lang=eng#14).)
+16:15-18](/scriptures/nt/mark/16.15-18?lang=eng#14).)
 
 "And by the hands of the apostles were many signs and wonders wrought among
 the people. ...
@@ -30,8 +29,7 @@ the people. ...
 "Insomuch that they brought forth the sick into the streets, ...
 
 "... and them which were vexed with unclean spirits: and they were healed every
-one." ([Acts 5:12,
-15-16](https://www.lds.org/scriptures/nt/acts/5.12%2C15-16?lang=eng#11).)
+one." ([Acts 5:12, 15-16](/scriptures/nt/acts/5.12,15-16?lang=eng#11).)
 
 The apostle Paul said to the Corinthian saints:
 
@@ -52,8 +50,8 @@ all in all.
 
 "For to one is given by the Spirit the word of wisdom; to another the word of
 knowledge by the same Spirit." ([1 Cor. 12:1,
-3-8](https://www.lds.org/scriptures/nt/1-cor/12.1%2C3-8?lang=eng#0).) And he
-stated the many gifts of the Spirit.
+3-8](/scriptures/nt/1-cor/12.1,3-8?lang=eng#0).) And he stated the many gifts
+of the Spirit.
 
 And unto his church in this dispensation the Savior promised these same gifts.
 He said:
@@ -74,8 +72,7 @@ sins, shall receive the Holy Ghost.
 deaf;
 
 "And the tongue of the dumb shall speak." And so on. ([D&amp;C
-84:64-70](https://www.lds.org/scriptures/dc-
-testament/dc/84.64-70?lang=eng#63).)
+84:64-70](/scriptures/dc-testament/dc/84.64-70?lang=eng#63).)
 
 I bear my solemn witness that these gifts are with the Church today. The sick
 are healed, the eyes of the blind are opened, the ears of the deaf are
@@ -120,13 +117,12 @@ them pray over him, anointing him with oil in the name of the Lord:
 and if he have committed sins, they shall be forgiven him.
 
 "Confess your faults one to another, and pray one for another, that ye may be
-healed." ([James
-5:14-16](https://www.lds.org/scriptures/nt/james/5.14-16?lang=eng#13).)
+healed." ([James 5:14-16](/scriptures/nt/james/5.14-16?lang=eng#13).)
 
 "And the elders of the church, two or more, shall be called, and shall pray
 for and lay their hands upon them in my name; and if they die they shall die
 unto me, and if they live they shall live unto me." ([D&amp;C
-42:44](https://www.lds.org/scriptures/dc-testament/dc/42.44?lang=eng#43).)
+42:44](/scriptures/dc-testament/dc/42.44?lang=eng#43).)
 
 The accounts of miraculous healings in the Church are numerous. They warm
 one's soul and give great strength of testimony as to the divinity of this
@@ -134,7 +130,7 @@ great work. But the Lord has instructed us that we are not to boast of these
 great blessings. He said, "But a commandment I give unto them, that they shall
 not boast themselves of these things, neither speak them before the world; for
 these things are given unto you for your profit and for salvation." ([D&amp;C
-84:73](https://www.lds.org/scriptures/dc-testament/dc/84.73?lang=eng#72).)
+84:73](/scriptures/dc-testament/dc/84.73?lang=eng#72).)
 
 It was not intended that we make merchandise out of the gifts of God and shout
 to the world the result of these most wonderful gifts. They are given to us
@@ -145,7 +141,7 @@ not before the world.
 "Behold, faith cometh not by signs, but signs follow those that believe.
 
 "Yea, signs come by faith, not by the will of men, nor as they please, but by
-the will of God." ([D&amp;C 63:9-10](https://www.lds.org/scriptures/dc-
+the will of God." ([D&amp;C 63:9-10](/scriptures/dc-
 testament/dc/63.9-10?lang=eng#8).)
 
 Faith to heal the sick is one of the most desirable gifts of the gospel and
@@ -155,7 +151,7 @@ They should seek to have and develop the gift of faith, faith to heal and
 faith to be healed. "And whoso shall ask it in my name in faith," the Lord has
 said, "they shall cast out devils; they shall heal the sick; they shall cause
 the blind to receive their sight, and the deaf to hear, and the dumb to speak,
-and the lame to walk." ([D&amp;C 35:9](https://www.lds.org/scriptures/dc-
+and the lame to walk." ([D&amp;C 35:9](/scriptures/dc-
 testament/dc/35.9?lang=eng#8).)
 
 Administration to the sick should be done at the request of the sick persons
@@ -163,13 +159,13 @@ or someone close to them who is concerned about them, that it might be done
 through their faith. The Lord said, "And these things ye shall not do, except
 it be required of you by them who desire it, that the scriptures might be
 fulfilled; for ye shall do according to that which is written." ([D&amp;C
-24:14](https://www.lds.org/scriptures/dc-testament/dc/24.14?lang=eng#13).)
+24:14](/scriptures/dc-testament/dc/24.14?lang=eng#13).)
 
 Both the one receiving the blessing and the one giving it should be in tune
 with the Spirit through their worthy lives, and then the Lord has promised,
 "Whatsoever thing ye shall ask the Father in my name, which is good, in faith
 believing that ye shall receive, behold, it shall be done unto you." ([Moro.
-7:26](https://www.lds.org/scriptures/bofm/moro/7.26?lang=eng#25).)
+7:26](/scriptures/bofm/moro/7.26?lang=eng#25).)
 
 After one has demonstrated his worthiness through good works and manifested
 his faith through prayer or proper administration to the sick, it must be left
@@ -188,8 +184,7 @@ for it shall be sweet unto them. ...
 
 "And again, it shall come to pass that he that hath faith in me to be healed,
 and is not appointed unto death, shall be healed." ([D&amp;C 42:45-46,
-48](https://www.lds.org/scriptures/dc-
-testament/dc/42.45-46%2C48?lang=eng#44).)
+48](/scriptures/dc-testament/dc/42.45-46,48?lang=eng#44).)
 
 President Kimball has said:
 
@@ -213,8 +208,7 @@ Co., 1973, pp. 97-98.)
 Even though the Lord has prescribed proper procedures in administration to the
 sick, this does not mean that humble prayers by faithful individuals would not
 be answered. James has said, "The effectual fervent prayer of a righteous man
-availeth much." ([James
-5:16](https://www.lds.org/scriptures/nt/james/5.16?lang=eng#15).)
+availeth much." ([James 5:16](/scriptures/nt/james/5.16?lang=eng#15).)
 
 The Savior said during his administration on earth that in the last days, men
 not authorized of God would, in Christ's name, perform wondrous works. This is
@@ -225,8 +219,7 @@ name? and in thy name have cast out devils? and in thy name done many
 wonderful works?
 
 "And then will I profess unto them, I never knew you: depart from me, ye that
-work iniquity." ([Matt.
-7:22-23](https://www.lds.org/scriptures/nt/matt/7.22-23?lang=eng#21).)
+work iniquity." ([Matt. 7:22-23](/scriptures/nt/matt/7.22-23?lang=eng#21).)
 
 He gave the same warning to the Prophet Joseph Smith:
 
@@ -236,10 +229,12 @@ deceived seek ye earnestly the best gifts, always remembering for what they
 are given;
 
 "... they are given for the benefit of those who love me and keep all my
-commandments, and him that seeketh so to do." ([D&amp;C
-46:7-9](https://www.lds.org/scriptures/dc-testament/dc/46.7-9?lang=eng#6).)
+commandments, and him that seeketh so to do." ([D&amp;C 46:7-9](/scriptures
+/dc-testament/dc/46.7-9?lang=eng#6).)
 
 May we so live that we may always have the companionship of the Holy Spirit
 and be blessed by these beautiful spiritual gifts that are a part of the
 gospel, I pray in the name of Jesus Christ. Amen.
+
+## References
 

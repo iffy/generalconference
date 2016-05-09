@@ -23,29 +23,28 @@ would have me go.
 
 Men and women the world over are invited each day to come and join with us.
 The Savior invited men to "come, follow me." ([Luke
-18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).) It was not
-an ordinary invitation--to follow Jesus. The commitment had everlasting and
-eternal consequences. Peter was invited to "launch out into the deep." ([Luke
-5:4](https://www.lds.org/scriptures/nt/luke/5.4?lang=eng#3).) He was a strong,
-suntanned, ordinary fisherman until he was invited "to let down [the] nets."
-([Luke 5:4](https://www.lds.org/scriptures/nt/luke/5.4?lang=eng#3).)
-Thereafter he would never be the same because the Savior was steering his soul
-more than the ship. Yes, he was an ordinary fisherman until he heard the voice
-of Jesus and accepted His invitation.
+18:22](/scriptures/nt/luke/18.22?lang=eng#21).) It was not an ordinary
+invitation--to follow Jesus. The commitment had everlasting and eternal
+consequences. Peter was invited to "launch out into the deep." ([Luke
+5:4](/scriptures/nt/luke/5.4?lang=eng#3).) He was a strong, suntanned,
+ordinary fisherman until he was invited "to let down [the] nets." ([Luke
+5:4](/scriptures/nt/luke/5.4?lang=eng#3).) Thereafter he would never be the
+same because the Savior was steering his soul more than the ship. Yes, he was
+an ordinary fisherman until he heard the voice of Jesus and accepted His
+invitation.
 
 Another time Peter was invited to walk on the water, and when he couldn't
 continue he learned that when our faith falters we fail. (See [Matt.
-14:28-31](https://www.lds.org/scriptures/nt/matt/14.28-31?lang=eng#27).)
-Accepting the invitation requires unconditional faith.
+14:28-31](/scriptures/nt/matt/14.28-31?lang=eng#27).) Accepting the invitation
+requires unconditional faith.
 
 In the presence of arrogant and angry men who were eager to accuse, the Master
 inscribed in sand and dust that which is now cast in concrete. The crowded
 courtyard of anxious accusers was cleared, and a sinner was saved from stoning
 because the Savior was interested in the person more than the problem. (See
-[John 8:3-11](https://www.lds.org/scriptures/nt/john/8.3-11?lang=eng#2).) He
-invited us to not judge, and then He demonstrated that forgiveness fosters
-love and that casting stones simply wouldn't solve the problem or bring about
-a solution.
+[John 8:3-11](/scriptures/nt/john/8.3-11?lang=eng#2).) He invited us to not
+judge, and then He demonstrated that forgiveness fosters love and that casting
+stones simply wouldn't solve the problem or bring about a solution.
 
 If we are to be as He is, we must be as He was. We must even invite with
 interest those who show disinterest and hope that somehow they will recognize
@@ -96,4 +95,6 @@ My beloved brothers and sisters, I testify that the Book of Mormon is true,
 that Jesus is the Christ and that Spencer W. Kimball is a prophet of God, and
 I invite you to follow them and enjoy the Spirit of the Lord, in the name of
 Jesus Christ, amen.
+
+## References
 

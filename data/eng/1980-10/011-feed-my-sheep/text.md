@@ -55,8 +55,7 @@ is found on page 520 in this volume):
 God, the Eternal Father, in the name of Christ, if these things are not true;
 and if ye shall ask with a sincere heart, with real intent, having faith in
 Christ, he will manifest the truth of it unto you, by the power of the Holy
-Ghost" ([Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3)).
+Ghost" ([Moro. 10:4](/scriptures/bofm/moro/10.4?lang=eng#3)).
 
 Literally thousands upon thousands have tested this promise and have found it
 to be true. They have received a witness. It has brought new meaning, added
@@ -93,20 +92,19 @@ and sisters, that they too might enjoy these great blessings.
 When we were baptized, we entered into a covenant with the Lord, and I quote
 from Mosiah, that with this covenant we "stand as witnesses of God at all
 times and in all things, and in all places that ye may be in, even until
-death" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)).
+death" ([Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)).
 
 Now, silent witnesses are not of much value. The Lord has said: "It becometh
 every man who hath been warned to warn his neighbor.
 
 "Therefore, they are left without excuse, and their sins are upon their own
-heads." ([D&amp;C 88:81-82](https://www.lds.org/scriptures/dc-
+heads." ([D&amp;C 88:81-82](/scriptures/dc-
 testament/dc/88.81-82?lang=eng#80).)
 
 He has also said to us as members of his church: "But with some I am not well
 pleased, for they will not open their mouths, but they hide the talent which I
 have given unto them, because of the fear of man. Wo unto such, for mine anger
-is kindled against them" ([D&amp;C 60:2](https://www.lds.org/scriptures/dc-
+is kindled against them" ([D&amp;C 60:2](/scriptures/dc-
 testament/dc/60.2?lang=eng#1)).
 
 "Open your mouths and they shall be filled, ...
@@ -116,21 +114,21 @@ your backs, for lo, I am with you.
 
 "Yea, open your mouths and they shall be filled, saying: Repent, repent, and
 prepare ye the way of the Lord, and make his paths straight; for the kingdom
-of heaven is at hand." ([D&amp;C 33:8-10](https://www.lds.org/scriptures/dc-
+of heaven is at hand." ([D&amp;C 33:8-10](/scriptures/dc-
 testament/dc/33.8-10?lang=eng#7).)
 
 Then, speaking of members of the Church in another revelation, the Lord has
 said about those members of the Church who would not be in the celestial
 kingdom but would have to be satisfied to be in the terrestrial kingdom:
 "These are they who are not valiant in the testimony of Jesus; wherefore, they
-obtain not the crown over the kingdom of our God" ([D&amp;C
-76:79](https://www.lds.org/scriptures/dc-testament/dc/76.79?lang=eng#78)).
+obtain not the crown over the kingdom of our God" ([D&amp;C 76:79](/scriptures
+/dc-testament/dc/76.79?lang=eng#78)).
 
 And Mark recorded the Savior's words in his day: "Whosoever therefore shall be
 ashamed of me and of my words in this adulterous and sinful generation; of him
 also shall the Son of man be ashamed, when he cometh in the glory of his
 Father with the holy angels" ([Mark
-8:38](https://www.lds.org/scriptures/nt/mark/8.38?lang=eng#37)).
+8:38](/scriptures/nt/mark/8.38?lang=eng#37)).
 
 I'd like to tell you that a person is never nearer the Lord than when he is
 reaching out, Savior-like, to bring another soul to Christ. The words of the
@@ -148,7 +146,7 @@ inquire of the Lord what they could do which would be of most worth for them.
 And each time the answer came: "That ... which will be of the most worth unto
 you will be to declare repentance unto this people, that you may bring souls
 unto me, that you may rest with them in the kingdom of my Father" ([D&amp;C
-15:6](https://www.lds.org/scriptures/dc-testament/dc/15.6?lang=eng#5)).
+15:6](/scriptures/dc-testament/dc/15.6?lang=eng#5)).
 
 Do we keep a missionary ledger where we might record that which will be of
 "most worth" to us?
@@ -206,21 +204,20 @@ The Lord promises great blessings to those who teach this gospel. In section 4
 of the Doctrine and Covenants he says: "He that thrusteth in his sickle with
 his might [now, that means with some muscle], the same layeth up in store that
 he perisheth not, but bringeth salvation to his soul" ([D&amp;C
-4:4](https://www.lds.org/scriptures/dc-testament/dc/4.4?lang=eng#3)).
+4:4](/scriptures/dc-testament/dc/4.4?lang=eng#3)).
 
 "And any man [_any_ man] that shall go and preach this gospel of the kingdom,
 and fail not to continue faithful in all things, shall not be weary in mind,
 neither darkened, neither in body, limb, nor joint; and a hair of his head
 shall not fall to the ground unnoticed. And they shall not go hungry, neither
-athirst." ([D&amp;C 84:80](https://www.lds.org/scriptures/dc-
-testament/dc/84.80?lang=eng#79).)
+athirst." ([D&amp;C 84:80](/scriptures/dc-testament/dc/84.80?lang=eng#79).)
 
 My, what a marvelous promise!
 
 "And whoso receiveth you, there I will be also, for I will go before your
 face. I will be on your right hand and on your left, and my Spirit shall be in
 your hearts, and mine angels round about you, to bear you up." ([D&amp;C
-84:88](https://www.lds.org/scriptures/dc-testament/dc/84.88?lang=eng#87).)
+84:88](/scriptures/dc-testament/dc/84.88?lang=eng#87).)
 
 To you brethren who are stake presidents and bishops: If you really want to
 sanctify your people--if you want to strengthen your wards and stakes--lead
@@ -241,4 +238,6 @@ blessings that we have. Remember now that Christ has no hands but our hands
 and no voice but our voice to do his work today. And I witness to you, it pays
 the greatest dividends, and I say this to you in the name of Jesus Christ, the
 Lord, amen.
+
+## References
 

@@ -11,7 +11,7 @@ strong reemphasis.
 Earning our own way and sustaining ourselves has been the way of life since
 Adam and Eve were instructed as they left the Garden of Eden, "In the sweat of
 thy face shalt thou eat bread, till thou return unto the ground." ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18).)
+3:19](/scriptures/ot/gen/3.19?lang=eng#18).)
 
 You and I as parents and leaders have a God-given opportunity to teach our
 children this great eternal principle. Along with the principle of honest and
@@ -148,13 +148,10 @@ Now, brothers and sisters, we challenge you to return to your people and make
 this employment program work. If you do, it has the capacity of blessing the
 lives of the Saints of all ages. Specifically, you can begin right now--
 
-  1. Through the priesthood leaders, home teachers and visiting teachers, to teach individuals and families to be self-sufficient, and teach them how to solve their own problems to the extent possible;
-
-  2. To have your representatives, the home teachers and visiting teachers, be constantly on the alert to observe and report employment needs;
-
-  3. To identify qualified employment resource people in every ward and every stake;
-
-  4. To use the Church Employment Centers where available.
+  1. Through the priesthood leaders, home teachers and visiting teachers, to teach individuals and families to be self-sufficient, and teach them how to solve their own problems to the extent possible; 
+  2. To have your representatives, the home teachers and visiting teachers, be constantly on the alert to observe and report employment needs; 
+  3. To identify qualified employment resource people in every ward and every stake; 
+  4. To use the Church Employment Centers where available. 
 
 In conclusion, may I remind us all that a successful employment effort is
 based upon eternal principles put into action by people helping people.
@@ -175,4 +172,6 @@ experiences.
 
 May we be blessed to teach these principles, in the name of Jesus Christ.
 Amen.
+
+## References
 

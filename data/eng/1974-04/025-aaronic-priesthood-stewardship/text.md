@@ -58,8 +58,7 @@ confess not his hand in all things, and obey not his commandments.
 
 "'But learn that he who doeth the works of righteousness shall receive his
 reward, even peace in this world, and eternal life in the world to come.'
-([D&amp;C 59:21, 23](https://www.lds.org/scriptures/dc-
-testament/dc/59.21%2C23?lang=eng#20).)
+([D&amp;C 59:21, 23](/scriptures/dc-testament/dc/59.21,23?lang=eng#20).)
 
 "I choose not to offend God by claiming that all of this has come by the will
 of men. I confess with all my soul that these things are of the Lord, and they
@@ -111,7 +110,7 @@ Covenants:
 "And again, verily I say unto you, the duty of a president over the office of
 a deacon is to preside over twelve deacons, to sit in council with them, and
 to teach them their duty, edifying one another, as it is given according to
-the covenants." ([D&amp;C 107:85](https://www.lds.org/scriptures/dc-
+the covenants." ([D&amp;C 107:85](/scriptures/dc-
 testament/dc/107.85?lang=eng#84).) And, of course, the same applies to the
 teachers quorum president.
 
@@ -190,8 +189,7 @@ counselors, the advisers, and quorum presidencies, a new high in leadership
 and devotion of the young men of the Church will be assured. This then will
 surely further prepare the world for the second coming of the Savior and
 ultimately assist him in bringing "to pass the immortality and eternal life of
-man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 There is another responsibility you bishops have that transcends all others
 that I feel impelled to mention, and that is the responsibility to your
@@ -206,4 +204,6 @@ your responsibilities to your family, as well as to the Lord. May your wives
 and your children and all of the youth over whom you preside be blessed with
 your wise and sound stewardship, I humbly pray in the name of Jesus Christ.
 Amen.
+
+## References
 

@@ -1,366 +1,300 @@
 items:
-- article_id: '03206_000_003'
-  item: '000'
+- item: 1
   key: 000-the-book-of-mormon-keystone-of-our-religion
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-book-of-mormon-keystone-of-our-religion
   speaker: Ezra Taft Benson
   title: "The Book of Mormon\u2014Keystone of Our Religion"
   url: https://www.lds.org/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng
   year: 1986
-- article_id: '03206_000_004'
-  item: '001'
+- item: 2
   key: 001-unwanted-messages
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: unwanted-messages
   speaker: James E. Faust
   title: Unwanted Messages
   url: https://www.lds.org/general-conference/1986/10/unwanted-messages?lang=eng
   year: 1986
-- article_id: '03206_000_005'
-  item: '002'
+- item: 3
   key: 002-i-will-look-unto-the-lord
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: i-will-look-unto-the-lord
   speaker: Marion D. Hanks
-  title: "\u201CI Will Look unto the Lord\u201D"
+  title: '"I Will Look unto the Lord"'
   url: https://www.lds.org/general-conference/1986/10/i-will-look-unto-the-lord?lang=eng
   year: 1986
-- article_id: '03206_000_006'
-  item: '003'
+- item: 4
   key: 003-shake-off-the-chains-with-which-ye-are-bound
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: shake-off-the-chains-with-which-ye-are-bound
   speaker: Marvin J. Ashton
-  title: "\u201CShake Off the Chains with Which Ye Are Bound\u201D"
+  title: '"Shake Off the Chains with Which Ye Are Bound"'
   url: https://www.lds.org/general-conference/1986/10/shake-off-the-chains-with-which-ye-are-bound?lang=eng
   year: 1986
-- article_id: '03206_000_007'
-  item: '004'
+- item: 5
   key: 004-little-children
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: little-children
   speaker: Boyd K. Packer
   title: Little Children
   url: https://www.lds.org/general-conference/1986/10/little-children?lang=eng
   year: 1986
-- article_id: 03206_000_008
-  item: '005'
+- item: 6
   key: 005-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Gordon B. Hinckley
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1986/10/the-sustaining-of-church-officers?lang=eng
   year: 1986
-- article_id: 03206_000_009
-  item: '006'
+- item: 7
   key: 006-brothers-keeper
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: brothers-keeper
   speaker: Dallin H. Oaks
-  title: "\u201CBrother\u2019s Keeper\u201D"
+  title: '"Brother''s Keeper"'
   url: https://www.lds.org/general-conference/1986/10/brothers-keeper?lang=eng
   year: 1986
-- article_id: '03206_000_010'
-  item: '007'
+- item: 8
   key: 007-missionary-work-is-the-lifeblood-of-the-church
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: missionary-work-is-the-lifeblood-of-the-church
   speaker: H. Verlan Andersen
   title: Missionary Work Is the Lifeblood of the Church
   url: https://www.lds.org/general-conference/1986/10/missionary-work-is-the-lifeblood-of-the-church?lang=eng
   year: 1986
-- article_id: '03206_000_011'
-  item: 008
+- item: 9
   key: 008-a-father-speaks
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-father-speaks
   speaker: George I. Cannon
   title: A Father Speaks
   url: https://www.lds.org/general-conference/1986/10/a-father-speaks?lang=eng
   year: 1986
-- article_id: '03206_000_012'
-  item: 009
+- item: 10
   key: 009-touching-the-hearts-of-less-active-members
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: touching-the-hearts-of-less-active-members
   speaker: Gardner H. Russell
   title: Touching the Hearts of Less-Active Members
   url: https://www.lds.org/general-conference/1986/10/touching-the-hearts-of-less-active-members?lang=eng
   year: 1986
-- article_id: '03206_000_013'
-  item: '010'
+- item: 11
   key: 010-my-son-and-yours-each-a-remarkable-one
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: my-son-and-yours-each-a-remarkable-one
   speaker: Ted E. Brewerton
   title: "My Son and Yours\u2014Each a Remarkable One"
   url: https://www.lds.org/general-conference/1986/10/my-son-and-yours-each-a-remarkable-one?lang=eng
   year: 1986
-- article_id: '03206_000_014'
-  item: '011'
+- item: 12
   key: 011-we-proclaim-the-gospel
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: we-proclaim-the-gospel
   speaker: M. Russell Ballard
   title: We Proclaim the Gospel
   url: https://www.lds.org/general-conference/1986/10/we-proclaim-the-gospel?lang=eng
   year: 1986
-- article_id: '03206_000_015'
-  item: '012'
+- item: 13
   key: 012-the-lords-touchstone
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-lords-touchstone
   speaker: Howard W. Hunter
-  title: "The Lord\u2019s Touchstone"
+  title: The Lord's Touchstone
   url: https://www.lds.org/general-conference/1986/10/the-lords-touchstone?lang=eng
   year: 1986
-- article_id: '03206_000_016'
-  item: '013'
+- item: 14
   key: 013-spiritual-crevasses
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: spiritual-crevasses
   speaker: David B. Haight
   title: Spiritual Crevasses
   url: https://www.lds.org/general-conference/1986/10/spiritual-crevasses?lang=eng
   year: 1986
-- article_id: '03206_000_017'
-  item: '014'
+- item: 15
   key: 014-presidents-of-the-church
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: presidents-of-the-church
-  speaker: Elder Joseph Anderson
+  speaker: Joseph Anderson
   title: Presidents of the Church
   url: https://www.lds.org/general-conference/1986/10/presidents-of-the-church?lang=eng
   year: 1986
-- article_id: 03206_000_018
-  item: '015'
+- item: 16
   key: 015-courage-counts
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: courage-counts
   speaker: Thomas S. Monson
   title: Courage Counts
   url: https://www.lds.org/general-conference/1986/10/courage-counts?lang=eng
   year: 1986
-- article_id: 03206_000_019
-  item: '016'
+- item: 17
   key: 016-the-war-we-are-winning
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-war-we-are-winning
   speaker: Gordon B. Hinckley
   title: The War We Are Winning
   url: https://www.lds.org/general-conference/1986/10/the-war-we-are-winning?lang=eng
   year: 1986
-- article_id: '03206_000_020'
-  item: '017'
+- item: 18
   key: 017-godly-characteristics-of-the-master
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: godly-characteristics-of-the-master
   speaker: Ezra Taft Benson
   title: Godly Characteristics of the Master
   url: https://www.lds.org/general-conference/1986/10/godly-characteristics-of-the-master?lang=eng
   year: 1986
-- article_id: '03206_000_021'
-  item: 018
+- item: 19
   key: 018-the-father-son-and-holy-ghost
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-father-son-and-holy-ghost
   speaker: Gordon B. Hinckley
   title: The Father, Son, and Holy Ghost
   url: https://www.lds.org/general-conference/1986/10/the-father-son-and-holy-ghost?lang=eng
   year: 1986
-- article_id: '03206_000_022'
-  item: 019
+- item: 20
   key: 019-god-will-yet-reveal
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: god-will-yet-reveal
   speaker: Neal A. Maxwell
-  title: "\u201CGod Will Yet Reveal\u201D"
+  title: '"God Will Yet Reveal"'
   url: https://www.lds.org/general-conference/1986/10/god-will-yet-reveal?lang=eng
   year: 1986
-- article_id: '03206_000_023'
-  item: '020'
+- item: 21
   key: 020-pulling-in-the-gospel-net
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: pulling-in-the-gospel-net
   speaker: Joseph B. Wirthlin
   title: Pulling in the Gospel Net
   url: https://www.lds.org/general-conference/1986/10/pulling-in-the-gospel-net?lang=eng
   year: 1986
-- article_id: '03206_000_024'
-  item: '021'
+- item: 22
   key: 021-the-joy-of-honest-labor
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-joy-of-honest-labor
   speaker: L. Tom Perry
   title: The Joy of Honest Labor
   url: https://www.lds.org/general-conference/1986/10/the-joy-of-honest-labor?lang=eng
   year: 1986
-- article_id: '03206_000_025'
-  item: '022'
+- item: 23
   key: 022-your-patriarchal-blessing-a-liahona-of-light
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: your-patriarchal-blessing-a-liahona-of-light
   speaker: Thomas S. Monson
-  title: 'Your Patriarchal Blessing: A Liahona of Light'
+  title: Your Patriarchal Blessing:A Liahona of Light
   url: https://www.lds.org/general-conference/1986/10/your-patriarchal-blessing-a-liahona-of-light?lang=eng
   year: 1986
-- article_id: '03206_000_026'
-  item: '023'
+- item: 24
   key: 023-joy-cometh-in-the-morning
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: joy-cometh-in-the-morning
   speaker: Russell M. Nelson
-  title: "\u201CJoy Cometh in the Morning\u201D"
+  title: '"Joy Cometh in the Morning"'
   url: https://www.lds.org/general-conference/1986/10/joy-cometh-in-the-morning?lang=eng
   year: 1986
-- article_id: '03206_000_027'
-  item: '024'
+- item: 25
   key: 024-happiness-and-joy-in-temple-work
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: happiness-and-joy-in-temple-work
   speaker: Franklin D. Richards
   title: Happiness and Joy in Temple Work
   url: https://www.lds.org/general-conference/1986/10/happiness-and-joy-in-temple-work?lang=eng
   year: 1986
-- article_id: 03206_000_028
-  item: '025'
+- item: 26
   key: 025-developing-faith
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: developing-faith
   speaker: A. Theodore Tuttle
   title: Developing Faith
   url: https://www.lds.org/general-conference/1986/10/developing-faith?lang=eng
   year: 1986
-- article_id: 03206_000_029
-  item: '026'
+- item: 27
   key: 026-the-spark-of-faith
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-spark-of-faith
   speaker: Henry B. Eyring
   title: The Spark of Faith
   url: https://www.lds.org/general-conference/1986/10/the-spark-of-faith?lang=eng
   year: 1986
-- article_id: '03206_000_030'
-  item: '027'
+- item: 28
   key: 027-come-back-to-the-lord
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: come-back-to-the-lord
   speaker: F. Burton Howard
   title: Come Back to the Lord
   url: https://www.lds.org/general-conference/1986/10/come-back-to-the-lord?lang=eng
   year: 1986
-- article_id: '03206_000_031'
-  item: 028
+- item: 29
   key: 028-the-gift-of-modern-revelation
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-gift-of-modern-revelation
   speaker: Ezra Taft Benson
   title: The Gift of Modern Revelation
   url: https://www.lds.org/general-conference/1986/10/the-gift-of-modern-revelation?lang=eng
   year: 1986
-- article_id: '03206_000_032'
-  item: 029
-  key: 029-to-the-young-women-of-the-church
+- item: 30
+  key: 029-the-light-of-hope
   month: 10
-  session_id: general-womens
-  session_title: null
-  slug: to-the-young-women-of-the-church
-  speaker: Ezra Taft Benson
-  title: To the Young Women of the Church
-  url: https://www.lds.org/general-conference/1986/10/to-the-young-women-of-the-church?lang=eng
-  year: 1986
-- article_id: '03206_000_033'
-  item: '030'
-  key: 030-the-light-of-hope
-  month: 10
-  session_id: general-womens
-  session_title: null
+  session_title: General Women's Meeting
   slug: the-light-of-hope
   speaker: Dwan J. Young
   title: The Light of Hope
   url: https://www.lds.org/general-conference/1986/10/the-light-of-hope?lang=eng
   year: 1986
-- article_id: '03206_000_034'
-  item: '031'
-  key: 031-a-time-for-hope
+- item: 31
+  key: 030-a-time-for-hope
   month: 10
-  session_id: general-womens
-  session_title: null
+  session_title: General Women's Meeting
   slug: a-time-for-hope
   speaker: Ardeth G. Kapp
   title: A Time for Hope
   url: https://www.lds.org/general-conference/1986/10/a-time-for-hope?lang=eng
   year: 1986
-- article_id: '03206_000_035'
-  item: '032'
-  key: 032-hope-in-christ
+- item: 32
+  key: 031-hope-in-christ
   month: 10
-  session_id: general-womens
-  session_title: null
+  session_title: General Women's Meeting
   slug: hope-in-christ
   speaker: Barbara W. Winder
   title: Hope in Christ
   url: https://www.lds.org/general-conference/1986/10/hope-in-christ?lang=eng
+  year: 1986
+- item: 33
+  key: 032-to-the-young-women-of-the-church
+  month: 10
+  session_title: General Women's Meeting
+  slug: to-the-young-women-of-the-church
+  speaker: Ezra Taft Benson
+  title: To the Young Women of the Church
+  url: https://www.lds.org/general-conference/1986/10/to-the-young-women-of-the-church?lang=eng
   year: 1986
 month: 10
 year: 1986

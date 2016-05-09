@@ -3,8 +3,8 @@
 Every missionary in the Church is acquainted with the scriptural passage from
 the book of Amos: "Surely the Lord God will do nothing, but he revealeth his
 secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) Every member of
-the Church rejoices in singing the favorite hymn:
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).) Every member of the Church rejoices
+in singing the favorite hymn:
 
 _We thank thee, O God, for a prophet_
 
@@ -14,8 +14,7 @@ What secrets has the Lord God revealed to His prophet, our beloved leader
 President Spencer W. Kimball? What counsel would President Kimball provide us
 tonight, were he here, to guide us in these latter days? Would we listen?
 Would we obey? Would we be doers of the word, and not hearers only, deceiving
-our own selves? (See [James
-1:22](https://www.lds.org/scriptures/nt/james/1.22?lang=eng#21).)
+our own selves? (See [James 1:22](/scriptures/nt/james/1.22?lang=eng#21).)
 
 Some time ago, as the General Authorities met together on an upper floor of
 the temple, President Kimball stood and instructed us, saying: "Brethren, of
@@ -78,8 +77,7 @@ growth in numbers of prospective elders is to concentrate on the Aaronic
 Priesthood.
 
 The bishop, by revelation, is the president of the Aaronic Priesthood and is
-president of the priests in his ward. (See [D&amp;C
-107:87-88](https://www.lds.org/scriptures/dc-
+president of the priests in his ward. (See [D&amp;C 107:87-88](/scriptures/dc-
 testament/dc/107.87-88?lang=eng#86).) He cannot delegate these God-given
 responsibilities. However, he can place accountability with his counselors and
 name as quorum advisers men who can touch the lives of boys--indeed, men who
@@ -154,10 +152,10 @@ Priesthood quorum presidencies. The revelations are crystal clear in their
 meaning: "Verily I say unto you, the duty of a president over the office of a
 deacon is to preside over twelve deacons, to sit in council with them, and to
 teach them their duty, edifying one another, as it is given according to the
-covenants." ([D&amp;C 107:85](https://www.lds.org/scriptures/dc-
+covenants." ([D&amp;C 107:85](/scriptures/dc-
 testament/dc/107.85?lang=eng#84).) A similar charge is given to the president
 of the teachers quorum and to the bishop as president of the quorum of
-priests. (See [D&amp;C 107:86-88](https://www.lds.org/scriptures/dc-
+priests. (See [D&amp;C 107:86-88](/scriptures/dc-
 testament/dc/107.86-88?lang=eng#85).)
 
 The stake Aaronic Priesthood committee can also provide much needed help.
@@ -204,4 +202,6 @@ I invite each of you men to walk with me, shoulder to shoulder, together with
 all of the Aaronic Priesthood bearers of the Church, along this priesthood
 pathway which leads upward and onward toward perfection. In the name of Jesus
 Christ, amen.
+
+## References
 

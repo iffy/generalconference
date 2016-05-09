@@ -26,9 +26,9 @@ out my salvation, and that I could not blame anyone else if I didn't. Today I
 cannot identify the exact teaching of this principle, but I suspect that it
 came from those testimonies I heard in the Second Ward, the Sunday School
 class, my parents, and the repetition of the second Article of Faith [[A of F
-1:2](https://www.lds.org/scriptures/pgp/a-of-f/1.2?lang=eng#1)], which I
-repeated many times in that day. This article states: "We believe that men
-will be punished for their own sins, and not for Adam's transgression."
+1:2](/scriptures/pgp/a-of-f/1.2?lang=eng#1)], which I repeated many times in
+that day. This article states: "We believe that men will be punished for their
+own sins, and not for Adam's transgression."
 
 I made an early resolve to be good and thus escape the punishment. The word
 _punish_ was also quite common. My father and mother used it to explain to me
@@ -46,38 +46,28 @@ The stern, short statements of the Ten Commandments have always held me in
 awe. They become more sharply etched when I see some of the acts of people.
 Let me quote, in part, Abinadi, who repeated them to King Noah:
 
-  1. Thou shalt have no other God before me.
-
-  2. Thou shalt not make unto thee any graven image.
-
-  3. Thou shalt not take the name of the Lord thy God in vain.
-
-  4. Remember the Sabbath day, to keep it holy.
-
-  5. Honor thy father and thy mother.
-
-  6. Thou shalt not kill.
-
-  7. Thou shalt not commit adultery.
-
-  8. Thou shalt not steal.
-
-  9. Thou shalt not bear false witness.
-
-  10. Thou shalt not covet. (See [Mosiah 12:35-36](https://www.lds.org/scriptures/bofm/mosiah/12.35-36?lang=eng#34); [Mosiah 13:12-24](https://www.lds.org/scriptures/bofm/mosiah/13.12-24?lang=eng#11).)
+  1. Thou shalt have no other God before me. 
+  2. Thou shalt not make unto thee any graven image. 
+  3. Thou shalt not take the name of the Lord thy God in vain. 
+  4. Remember the Sabbath day, to keep it holy. 
+  5. Honor thy father and thy mother. 
+  6. Thou shalt not kill. 
+  7. Thou shalt not commit adultery. 
+  8. Thou shalt not steal. 
+  9. Thou shalt not bear false witness. 
+  10. Thou shalt not covet. (See [Mosiah 12:35-36](/scriptures/bofm/mosiah/12.35-36?lang=eng#34); [Mosiah 13:12-24](/scriptures/bofm/mosiah/13.12-24?lang=eng#11).) 
 
 Abinadi told those present with King Noah that he perceived that these Ten
 Commandments were, to quote him, "not written in your hearts" ([Mosiah
-13:11](https://www.lds.org/scriptures/bofm/mosiah/13.11?lang=eng#10)).
+13:11](/scriptures/bofm/mosiah/13.11?lang=eng#10)).
 
 But there they stand, the immutable word from the great meeting of Moses with
 his Maker amid the thunderings and lightnings of Sinai.
 
 In our day the necessity of following the Ten Commandments is all the more
 urgent. Five of them were repeated in section 42 of the Doctrine and
-Covenants. [[D&amp;C 42](https://www.lds.org/scriptures/dc-
-testament/dc/42.title?lang=eng)] Others are spoken of in other sections. I
-early resolved to keep them all.
+Covenants. [[D&amp;C 42](/scriptures/dc-testament/dc/42?lang=eng)] Others are
+spoken of in other sections. I early resolved to keep them all.
 
 Incidentally, to this generation of young fathers I suggest that they spend
 overtime teaching their children the fifth commandment, which tells them to
@@ -94,13 +84,12 @@ conduct. I quote them, for even now they arouse the best that is in me:
 
 "He hath shewed thee, O man, what is good; and what doth the Lord require of
 thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
-([Micah 6:8](https://www.lds.org/scriptures/ot/micah/6.8?lang=eng#7)).
+([Micah 6:8](/scriptures/ot/micah/6.8?lang=eng#7)).
 
 "To do justly"--I desire that. "To love mercy"--my heart swells at the
 thought. And "to walk humbly with thy God" brings me close to him. These
 thoughts are repeated in section 11, verse 12 of the Doctrine and Covenants
-[[D&amp;C 11:12](https://www.lds.org/scriptures/dc-
-testament/dc/11.12?lang=eng#11)].
+[[D&amp;C 11:12](/scriptures/dc-testament/dc/11.12?lang=eng#11)].
 
 Later I heard Sister Jessie Evans Smith sing a solo as part of a great
 Tabernacle Choir number. Anyone who ever heard her sing those words was lifted
@@ -111,9 +100,9 @@ startling simplicity: "He that hath clean hands, and a pure heart; who hath
 not lifted up his soul unto vanity, nor sworn deceitfully." Then comes the
 promise: "He shall receive the blessing from the Lord, and righteousness from
 the God of his salvation." ([Ps.
-24:3-5](https://www.lds.org/scriptures/ot/ps/24.3-5?lang=eng#2).) The Psalmist
-then goes on to assert that the generation thus obedient is the generation
-that truly seeks his face.
+24:3-5](/scriptures/ot/ps/24.3-5?lang=eng#2).) The Psalmist then goes on to
+assert that the generation thus obedient is the generation that truly seeks
+his face.
 
 These statements of the qualities of character which mark the righteous can be
 held in our hearts as a guide in those situations which confront us in our
@@ -121,10 +110,10 @@ daily intercourse with our fellowmen. We discover then that it is not
 difficult to follow the teaching of the Prophet Joseph Smith when he declared
 that we have as our standard of daily conduct to be "honest, true, chaste,
 benevolent, virtuous, and [to do] good to all men" ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)). For if one
-has clean hands and a pure heart, does justly, loves mercy, seeks not vanity,
-and walks humbly, the temptation to violate the Decalogue will hardly ever
-enter into his head.
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)). For if one has clean hands
+and a pure heart, does justly, loves mercy, seeks not vanity, and walks
+humbly, the temptation to violate the Decalogue will hardly ever enter into
+his head.
 
 I testify that he who obeys the commandments and thus seeks the virtuous,
 righteous life will find the pearl of great price of knowledge of the Son of
@@ -140,4 +129,6 @@ This dual obedience, faithfully kept, is our surest way of bearing testimony
 that we honor the Lord God, keep his commandments, and sustain President
 Kimball as his prophet. These are my desires as I bear witness of the truth
 that the Lord Jesus Christ is our Savior. In his holy name, amen.
+
+## References
 

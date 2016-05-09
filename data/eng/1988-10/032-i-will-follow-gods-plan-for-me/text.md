@@ -35,10 +35,10 @@ in that beautiful hayfield together.
 
 Our Heavenly Father expects and intends for us to be happy. Man is that he
 might have joy, the scripture says. (See [2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).) That means
-ten- and eleven-year-old girls are that they might have joy as well. Life does
-make sense because there is a plan--a plan by which we may have joy and be
-happy here on earth and eternally. My friend didn't know that.
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).) That means ten- and eleven-
+year-old girls are that they might have joy as well. Life does make sense
+because there is a plan--a plan by which we may have joy and be happy here on
+earth and eternally. My friend didn't know that.
 
 You girls have often repeated in Primary this motto: "I can follow God's plan
 for me." What is the plan? I think you know it.
@@ -54,9 +54,9 @@ So we have a choice. We can either choose Heavenly Father's plan, or we can
 follow Satan. It's as simple as that. Now, the scriptures tell us that
 everything good comes from Heavenly Father and that following Satan brings
 misery and unhappiness. (See [2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26); [Alma
-5:40](https://www.lds.org/scriptures/bofm/alma/5.40?lang=eng#39).) This is
-important for us to know.
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26); [Alma
+5:40](/scriptures/bofm/alma/5.40?lang=eng#39).) This is important for us to
+know.
 
 My birthday was a few weeks ago, and my children asked me the question they
 always ask on my birthday or Christmas or Mother's Day--"Mother, what would
@@ -73,8 +73,8 @@ righteousness. He wants us to be good so we can be happy.
 
 The great Book of Mormon prophet Lehi, whom you have learned about this year,
 told his children, "If there be no righteousness there be no happiness." ([2
-Ne. 2:13](https://www.lds.org/scriptures/bofm/2-ne/2.13?lang=eng#12).) When we
-are good, or righteous, we are following God's plan.
+Ne. 2:13](/scriptures/bofm/2-ne/2.13?lang=eng#12).) When we are good, or
+righteous, we are following God's plan.
 
 But isn't it hard to be good sometimes? We struggle with the temptations that
 come from being human, being mortal in a mortal world. But that, too, is part
@@ -87,8 +87,7 @@ life; the one being sweet and the other bitter.
 
 "Wherefore, the Lord gave unto man that he should act for himself. Wherefore,
 man could not act for himself save it should be that he was enticed by the one
-or the other." ([2 Ne.
-2:15-16](https://www.lds.org/scriptures/bofm/2-ne/2.15-16?lang=eng#14).)
+or the other." ([2 Ne. 2:15-16](/scriptures/bofm/2-ne/2.15-16?lang=eng#14).)
 
 Yes, you have a choice. The Lord has given you control of your life by giving
 you a choice. Let me repeat that. The Lord has given you control of your life.
@@ -198,4 +197,6 @@ to follow his plan for you.
 
 Now, let us go forth as sisters, determined that no force will turn us from
 our Heavenly Father's way. In the name of Jesus Christ, amen.
+
+## References
 

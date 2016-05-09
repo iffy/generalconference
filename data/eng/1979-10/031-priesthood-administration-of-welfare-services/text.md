@@ -23,7 +23,7 @@ The First Presidency has counseled priesthood leaders to carefully and
 prayerfully develop a plan that will foster local self-sufficiency of Church
 units. This is important in light of changing needs, rapid Church growth, the
 uncertainty of modern times, and the Lord's commandment to the Church to care
-for members in need (see [D&amp;C 52:40](https://www.lds.org/scriptures/dc-
+for members in need (see [D&amp;C 52:40](/scriptures/dc-
 testament/dc/52.40?lang=eng#39)).
 
 ## Master planning
@@ -41,8 +41,7 @@ The scriptures remind us:
 
 "And remember in all things the poor and the needy, the sick and the
 afflicted, for he that doeth not these things, the same is not my disciple"
-([D&amp;C 52:40](https://www.lds.org/scriptures/dc-
-testament/dc/52.40?lang=eng#39)).
+([D&amp;C 52:40](/scriptures/dc-testament/dc/52.40?lang=eng#39)).
 
 We are very pleased with the initial reports received regarding how you are
 proceeding in this planning process. It is not expected that all areas will
@@ -191,9 +190,11 @@ May we capture the vision of our individual responsibilities in this great
 work. May we actively and consistently apply the welfare points of emphasis
 laid down by the Brethren. May we encircle the children of our Heavenly Father
 with this protecting temporal--no, spiritual--shield, because after all, all
-things are spiritual (see [D&amp;C 29:34](https://www.lds.org/scriptures/dc-
+things are spiritual (see [D&amp;C 29:34](/scriptures/dc-
 testament/dc/29.34?lang=eng#33)).
 
 I bear my witness of the divinity of this, and I do so in the name of Jesus
 Christ, amen.
+
+## References
 

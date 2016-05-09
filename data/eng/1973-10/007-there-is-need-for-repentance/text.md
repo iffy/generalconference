@@ -25,7 +25,7 @@ choose eternal life, according to the will of his Holy Spirit;
 "And not choose eternal death, according to the will of the flesh and the evil
 which is therein, which giveth the spirit of the devil power to captivate, to
 bring you down to hell, that he may reign over you in his own kingdom." ([2
-Ne. 2:27-29](https://www.lds.org/scriptures/bofm/2-ne/2.27-29?lang=eng#26).)
+Ne. 2:27-29](/scriptures/bofm/2-ne/2.27-29?lang=eng#26).)
 
 Because sin is such a devastating, destructive force, the great principle of
 repentance was provided by our Lord and Savior, Jesus Christ, to extricate
@@ -56,8 +56,7 @@ repentance; [only] then God will accept it." (_Gospel Doctrine, _p. 123.)
 
 If one truly repents, it will be manifested by his works, for, "By this ye may
 know if a man repenteth of his sins --behold, he will confess them and forsake
-them." ([D&amp;C 58:43](https://www.lds.org/scriptures/dc-
-testament/dc/58.43?lang=eng#42).)
+them." ([D&amp;C 58:43](/scriptures/dc-testament/dc/58.43?lang=eng#42).)
 
 Thus repentance calls for a heartfelt sorrow for sin resulting not only in a
 cessation thereof but also in reformation of life. That's the important thing
@@ -68,20 +67,16 @@ repent, to improve, and to conscientiously reform our lives. In fact, he set
 for us a lofty goal, saying:
 
 "Be ye therefore perfect, even as your Father which is in heaven is perfect."
-([Matt. 5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).)
+([Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47).)
 
 Admittedly, this is an imperfect world. Nevertheless, each of us should be
 constantly striving toward perfection.
 
-  1. "Let him that stole steal no more. ..." ([Eph. 4:28](https://www.lds.org/scriptures/nt/eph/4.28?lang=eng#27).)
-
-  2. "... let virtue garnish thy thoughts unceasingly. ..." ([D&amp;C 121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44).)
-
-  3. "... pray for them which despitefully use you, and persecute you." ([Matt. 5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43).) Destroy your enemies by making them your friends.
-
-  4. Let the unkind among us become considerate.
-
-  5. Let the truth be spoken always, no matter what the consequences may be.
+  1. "Let him that stole steal no more. ..." ([Eph. 4:28](/scriptures/nt/eph/4.28?lang=eng#27).) 
+  2. "... let virtue garnish thy thoughts unceasingly. ..." ([D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44).) 
+  3. "... pray for them which despitefully use you, and persecute you." ([Matt. 5:44](/scriptures/nt/matt/5.44?lang=eng#43).) Destroy your enemies by making them your friends. 
+  4. Let the unkind among us become considerate. 
+  5. Let the truth be spoken always, no matter what the consequences may be. 
 
 I would like to add Brother Packer's recommendation that we rid ourselves of
 the unmusical music and adopt some that does the soul and the heart good and
@@ -127,8 +122,7 @@ life.
 We have been supplied with heaven-sent programs such as the family home
 evening program, to keep families secure and our homes intact. It has been
 predicted that in the last days men shall become "lovers of pleasures more
-than lovers of God." ([2 Tim.
-3:4](https://www.lds.org/scriptures/nt/2-tim/3.4?lang=eng#3).)
+than lovers of God." ([2 Tim. 3:4](/scriptures/nt/2-tim/3.4?lang=eng#3).)
 
 "For behold, at that day shall he rage in the hearts of the children of men,
 and stir them up to anger against that which is good.
@@ -136,7 +130,7 @@ and stir them up to anger against that which is good.
 "And others will he pacify, and lull them away into carnal security, that they
 will say: All is well in Zion; yea, Zion prospereth, all is well--and thus the
 devil cheateth their souls, and leadeth them away carefully down to hell." ([2
-Ne. 28:20-21](https://www.lds.org/scriptures/bofm/2-ne/28.20-21?lang=eng#19).)
+Ne. 28:20-21](/scriptures/bofm/2-ne/28.20-21?lang=eng#19).)
 
 I like that word _carefully _because that is the way he operates. He never
 jerks. He never pulls--just misleads us gradually, step by step. Now in this
@@ -149,10 +143,11 @@ you.
 sinners; and purify your hearts, ye double minded.
 
 "Humble yourselves in the sight of the Lord, and he shall lift you up."
-([James 4:7-8,
-10](https://www.lds.org/scriptures/nt/james/4.7-8%2C10?lang=eng#6).)
+([James 4:7-8, 10](/scriptures/nt/james/4.7-8,10?lang=eng#6).)
 
 May we all repent and place our lives and our homes in order and in perfect
 harmony with the gospel of Jesus Christ, I pray, testifying to the
 truthfulness of the restored gospel and in the name of Jesus Christ. Amen.
+
+## References
 

@@ -27,7 +27,7 @@ doing things that mattered most--in preparing oil for their lamps.
 In speaking of the foolish, the parable states, "And while they went to buy,
 the bridegroom came; and they that were ready went in with him to the
 marriage: and the door was shut." ([Matt.
-25:10](https://www.lds.org/scriptures/nt/matt/25.10?lang=eng#9).)
+25:10](/scriptures/nt/matt/25.10?lang=eng#9).)
 
 With this as a warning and the word of the Lord instructing us to be about
 more important things, I'd like to remind us of the teachings of one of the
@@ -45,7 +45,7 @@ burdens, that they may be light;
 "Yea, and are willing to mourn with those that mourn; yea, and comfort those
 that stand in need of comfort, and to stand as witnesses of God at all times
 and in all things." ([Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7).)
+18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7).)
 
 He has stated simply: If we are to be the Savior's disciples, if we are to
 become like him, then we must serve one another, then we must assume
@@ -56,8 +56,8 @@ We have been taught in other scripture that no matter how great and
 significant our mortal accomplishments, no matter how much was accomplished
 under our hand--as a bishop, a clerk, a president, a teacher, or a parent--
 unless we learn to exhibit charity, we are nothing. (See [1 Cor.
-13:1-3](https://www.lds.org/scriptures/nt/1-cor/13.1-3?lang=eng#0).) All our
-good deeds will not weigh in our favor if charity is lacking.
+13:1-3](/scriptures/nt/1-cor/13.1-3?lang=eng#0).) All our good deeds will not
+weigh in our favor if charity is lacking.
 
 Charity is measured in several ways. Perhaps a supreme form of charity may be
 exhibited by one who withholds judgment of another's acts or conduct,
@@ -81,7 +81,7 @@ are just--
 "But I say unto you, O man, whosoever doeth this the same hath great cause to
 repent; and except he repenteth of that which he hath done he perisheth
 forever, and hath no interest in the kingdom of God." ([Mosiah
-4:16-18](https://www.lds.org/scriptures/bofm/mosiah/4.16-18?lang=eng#15).)
+4:16-18](/scriptures/bofm/mosiah/4.16-18?lang=eng#15).)
 
 Are not our own family members entitled to every consideration as contained in
 this counsel? Too often, charity is extended to another when his actions or
@@ -138,7 +138,7 @@ of Instructions, 1969, p. 4.)
 And then the handbook repeats the instruction of the Apostle Paul to Timothy:
 "But if any provide not for his own, and specially for those of his own house,
 he hath denied the faith, and is worse than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).)
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).)
 
 Perhaps we should clarify what it means to provide for our own. How do we do
 it? Does it mean money and other physical things only? Are there unmet needs
@@ -175,12 +175,11 @@ Then a pause. "Daddy, what color blanket would you like when I come to visit
 you?"
 
 There is no righteous way to avoid the commandment "Honour thy father and thy
-mother." ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).) No family
-that hopes to endure eternally can exclude grandmother and grandfather,
-brothers and sisters, or other relatives. Heaven forbid that any family member
---regardless of age--should be considered a burden. Wouldn't it be wonderful
-if family members would counsel together as they make plans to assist those in
+mother." ([Ex. 20:12](/scriptures/ot/ex/20.12?lang=eng#11).) No family that
+hopes to endure eternally can exclude grandmother and grandfather, brothers
+and sisters, or other relatives. Heaven forbid that any family member--
+regardless of age--should be considered a burden. Wouldn't it be wonderful if
+family members would counsel together as they make plans to assist those in
 need?
 
 Because of some personal experiences, I am a true believer that families who
@@ -203,8 +202,7 @@ with the law--the Master said:
 their lips; but their heart is far from me.
 
 "But in vain they do worship me, teaching for doctrines the commandments of
-men." ([Matt.
-15:7-9](https://www.lds.org/scriptures/nt/matt/15.7-9?lang=eng#6).)
+men." ([Matt. 15:7-9](/scriptures/nt/matt/15.7-9?lang=eng#6).)
 
 This morning we have given you what the Lord has said. We may use our agency
 as to whether we shall obey or disobey; but, if we disobey, we must abide the
@@ -212,4 +210,6 @@ penalty.
 
 I testify of the truth of these teachings and of the reality of the one who is
 the author, in the name of Jesus Christ, amen.
+
+## References
 

@@ -4,7 +4,7 @@ My brothers and sisters, while I served thirteen and one-half years as
 secretary to the Quorum of the Twelve Apostles, my testimony was strengthened
 concerning living prophets. The Lord said through the Prophet Joseph Smith:
 "The Twelve Apostles [are called to be] special witnesses of the name of
-Christ in all the world." ([D&amp;C 107:23](https://www.lds.org/scriptures/dc-
+Christ in all the world." ([D&amp;C 107:23](/scriptures/dc-
 testament/dc/107.23?lang=eng#22).)
 
 Prophets have a special gift of the Spirit, a prophetic gift. During the time
@@ -22,8 +22,8 @@ continually reminded of section 107, verse 27, of the Doctrine and Covenants,
 which reads, "And every decision made by either of these quorums must be by
 the unanimous voice of the same; that is, every member in each quorum must be
 agreed to its decisions, in order to make their decisions of the same power or
-validity one with the other." [[D&amp;C 107:27](https://www.lds.org/scriptures
-/dc-testament/dc/107.27?lang=eng#26)]
+validity one with the other." [[D&amp;C 107:27](/scriptures/dc-
+testament/dc/107.27?lang=eng#26)]
 
 The members of the Twelve strive to live according to the promptings of the
 Spirit. They speak their mind. However, they are also good listeners and speak
@@ -42,8 +42,7 @@ meekness and long suffering, and in faith, and virtue, and knowledge,
 temperance, patience, godliness, brotherly kindness and charity;
 
 "Because the promise is, if these things abound in them they shall not be
-unfruitful in the knowledge of the Lord." ([D&amp;C
-107:30-31](https://www.lds.org/scriptures/dc-
+unfruitful in the knowledge of the Lord." ([D&amp;C 107:30-31](/scriptures/dc-
 testament/dc/107.30-31?lang=eng#29).)
 
 The members of the First Presidency, the Quorum of the Twelve, the Seventy,
@@ -113,4 +112,6 @@ in your lives that inner peace that surpasseth understanding.
 I leave you my special witness of the reality of our Father in Heaven, that
 Jesus is the Christ, the Savior of all who will come unto him, and that his
 chosen prophets do walk the earth today. In the name of Jesus Christ, amen.
+
+## References
 

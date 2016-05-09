@@ -48,3 +48,5 @@ President Benson, it appears that the voting has been unanimous in the
 affirmative. We invite the newly sustained brethren and Sister Jack to take
 their places on the stand at this time.
 
+## References
+

@@ -21,7 +21,7 @@ the limits of their own responsibility.
 I use as my text the ninth article of faith: "We believe all that God has
 revealed, all that He does now reveal, and we believe that He will yet reveal
 many great and important things pertaining to the Kingdom of God." [[A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8)]
+1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8)]
 
 ## Past Revelation
 
@@ -29,22 +29,22 @@ The first part states: "We believe all that God has revealed." Through the
 ages, God's messages to his children generally have been revealed through
 prophets. Amos tells us, "Surely the Lord God will do nothing, but he
 revealeth his secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) These are the
-prophetic oracles who have tuned in over the centuries to the "celestial
-transmitting station," with a responsibility to relay the Lord's word to
-others. The principal qualifications of a prophet in any age are not wealth,
-title, position, physical stature, scholarship, or intellectual attainment.
-The two qualifications are that a prophet must be called as such by God, by
-open prophecy, and ordained by one known to have legal and spiritual
-authority, and he must receive and declare revelation from God. (See [D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10).) No
-man knows the ways of God except they be revealed unto him. (See [Jacob
-4:8](https://www.lds.org/scriptures/bofm/jacob/4.8?lang=eng#7).)
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).) These are the prophetic oracles who
+have tuned in over the centuries to the "celestial transmitting station," with
+a responsibility to relay the Lord's word to others. The principal
+qualifications of a prophet in any age are not wealth, title, position,
+physical stature, scholarship, or intellectual attainment. The two
+qualifications are that a prophet must be called as such by God, by open
+prophecy, and ordained by one known to have legal and spiritual authority, and
+he must receive and declare revelation from God. (See [D&amp;C
+42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10).) No man knows the ways
+of God except they be revealed unto him. (See [Jacob
+4:8](/scriptures/bofm/jacob/4.8?lang=eng#7).)
 
 Over the centuries revelation from prophets has come incrementally. The Lord
 stated: "For he will give unto the faithful line upon line, precept upon
 precept; and I will try you and prove you herewith." ([D&amp;C
-98:12](https://www.lds.org/scriptures/dc-testament/dc/98.12?lang=eng#11).)
+98:12](/scriptures/dc-testament/dc/98.12?lang=eng#11).)
 
 Revelations have come by different means. Among other ways, they have come by
 the guidance of the Holy Ghost (which is perhaps most common), by the spoken
@@ -87,24 +87,24 @@ however subtly.
 In our lifetime we have been favored with ongoing communication from the
 heavens, which have been open to the prophets of our time. Major divine
 pronouncements have included what we now know as section 138 of the Doctrine
-and Covenants, given in 1918. [[D&amp;C 138](https://www.lds.org/scriptures
-/dc-testament/dc/138.title?lang=eng)] Surely one of the greatest divine
-disclosures came in 1978 when the blessings of the priesthood and temple
-became available to all worthy male members. Line upon line and precept upon
-precept, new knowledge and direction have been given to the Church.
+and Covenants, given in 1918. [[D&amp;C 138](/scriptures/dc-
+testament/dc/138?lang=eng)] Surely one of the greatest divine disclosures came
+in 1978 when the blessings of the priesthood and temple became available to
+all worthy male members. Line upon line and precept upon precept, new
+knowledge and direction have been given to the Church.
 
 Thus, by revelation in our day the Seventies have been given an expanded role
 as members of Area Presidencies and in general Church administration, helping
 the First Presidency and the Twelve "in building up the church and regulating
-all the affairs of the same in all nations." ([D&amp;C
-107:34](https://www.lds.org/scriptures/dc-testament/dc/107.34?lang=eng#33).)
-Many other divine instructions have also been received. Much revelation
-received, in this time as well as anciently, has been doctrinal. Some of it
-has been operational and tactical. Much of it is not spectacular. President
-John Taylor reminds us: "Adam's revelation did not instruct Noah to build his
-ark; nor did Noah's revelation tell Lot to forsake Sodom; nor did either of
-these speak of the departure of the children of Israel from Egypt. These all
-had revelations for themselves." (_Millennial Star,_ 1 Nov. 1847, p. 323.)
+all the affairs of the same in all nations." ([D&amp;C 107:34](/scriptures/dc-
+testament/dc/107.34?lang=eng#33).) Many other divine instructions have also
+been received. Much revelation received, in this time as well as anciently,
+has been doctrinal. Some of it has been operational and tactical. Much of it
+is not spectacular. President John Taylor reminds us: "Adam's revelation did
+not instruct Noah to build his ark; nor did Noah's revelation tell Lot to
+forsake Sodom; nor did either of these speak of the departure of the children
+of Israel from Egypt. These all had revelations for themselves." (_Millennial
+Star,_ 1 Nov. 1847, p. 323.)
 
 In our time God has revealed how to administer the Church with a membership of
 over six million differently than when there were just six members of the
@@ -151,11 +151,11 @@ When will this promised revelation come? Only God knows when. It will come as
 needed. To whom will it come? To obtain the answer to this, we must go back to
 the words of Amos: "Surely the Lord God will do nothing, but he revealeth his
 secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) This continuous
-revelation will not and cannot be forced by outside pressure from people and
-events. It is not the so-called "revelation of social progress." It does not
-originate with the prophets; it comes from God. The Church is governed by the
-prophet under the guidance and direction of God. Parley P. Pratt disclosed:
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).) This continuous revelation will not
+and cannot be forced by outside pressure from people and events. It is not the
+so-called "revelation of social progress." It does not originate with the
+prophets; it comes from God. The Church is governed by the prophet under the
+guidance and direction of God. Parley P. Pratt disclosed:
 
 "The legislative, judicial, and executive power is vested in Him [the Lord].
 He reveals the laws, and he elects, chooses, or appoints the officers; and
@@ -191,12 +191,12 @@ will never lead this people astray? (See Joseph Fielding Smith, _Ensign,_ July
 1972, p. 88.) One answer is contained in the grand principle found in the
 107th section of the Doctrine and Covenants: "And every decision made by
 either of these quorums must be by the unanimous voice of the same." ([D&amp;C
-107:27](https://www.lds.org/scriptures/dc-testament/dc/107.27?lang=eng#26).)
-This requirement of unanimity provides a check on bias and personal
-idiosyncrasies. It ensures that God rules through the Spirit, not man through
-majority or compromise. It ensures that the best wisdom and experience is
-focused on an issue before the deep, unassailable impressions of revealed
-direction are received. It guards against the foibles of man.
+107:27](/scriptures/dc-testament/dc/107.27?lang=eng#26).) This requirement of
+unanimity provides a check on bias and personal idiosyncrasies. It ensures
+that God rules through the Spirit, not man through majority or compromise. It
+ensures that the best wisdom and experience is focused on an issue before the
+deep, unassailable impressions of revealed direction are received. It guards
+against the foibles of man.
 
 The responsibility for determining the divine validity of what one of the
 oracles of God states does not rest solely upon him. President J. Reuben Clark
@@ -240,4 +240,6 @@ responsive to his Spirit and be found listening to the oracles he has
 appointed. I so pray because I know that we mortals, without the aid of
 revelation, cannot know the purposes of God. In the name of Jesus Christ,
 amen.
+
+## References
 

@@ -5,13 +5,10 @@ children of Lehi, the people of the Book of Mormon, a people of great promise.
 For a number of years we have been witnesses to spiritual miracles among that
 people:
 
-  1. We have seen thousands converted to the Lord who had his law put into their minds and written in their hearts (see [Heb. 8:10](https://www.lds.org/scriptures/nt/heb/8.10?lang=eng#9)).
-
-  2. We have seen them organized into numerous stakes of Zion.
-
-  3. We have truly seen them "blossom as the rose" as prophecy has been fulfilled through them (see [D&amp;C 49:24](https://www.lds.org/scriptures/dc-testament/dc/49.24?lang=eng#23)).
-
-  4. We have literally seen the Lord perform miracles among them by their faith.
+  1. We have seen thousands converted to the Lord who had his law put into their minds and written in their hearts (see [Heb. 8:10](/scriptures/nt/heb/8.10?lang=eng#9)). 
+  2. We have seen them organized into numerous stakes of Zion. 
+  3. We have truly seen them "blossom as the rose" as prophecy has been fulfilled through them (see [D&amp;C 49:24](/scriptures/dc-testament/dc/49.24?lang=eng#23)). 
+  4. We have literally seen the Lord perform miracles among them by their faith. 
 
 Why should that be so? Why are changes in that people occurring so
 dramatically? The title page of the record their ancestors gave to the world,
@@ -22,26 +19,24 @@ portion of which contains the conditions on which individual testimonies of
 the truth may be obtained. The record is for all men, but from cover to cover
 the book is filled with prophecies concerning the Lamanites, indicating "that
 the promises of the Lord [would] be fulfilled, which he made to his people"
-(see [D&amp;C 3:18, 19](https://www.lds.org/scriptures/dc-
-testament/dc/3.18%2C19?lang=eng#17)).
+(see [D&amp;C 3:18, 19](/scriptures/dc-testament/dc/3.18,19?lang=eng#17)).
 
 The promises were not exclusively given to the Lamanites but to all nations
 who would possess these lands. The land was blessed: "And thus they did leave
 a blessing upon this land in their prayers, that whosoever should believe in
 this gospel in this land might have eternal life" (see [D&amp;C 10:49,
-50](https://www.lds.org/scriptures/dc-testament/dc/10.49%2C50?lang=eng#48)).
+50](/scriptures/dc-testament/dc/10.49,50?lang=eng#48)).
 
 "And the gospel of Jesus Christ shall be declared among them; ...
 
 "And then shall they rejoice; for they shall know that it is a blessing unto
 them from the hand of God; and their scales of darkness shall begin to fall
-from their eyes." ([2 Ne.
-30:5-6](https://www.lds.org/scriptures/bofm/2-ne/30.5-6?lang=eng#4).)
+from their eyes." ([2 Ne. 30:5-6](/scriptures/bofm/2-ne/30.5-6?lang=eng#4).)
 
 There is even direction to us in our day from President Kimball and the
 scriptures: "Go unto the Lamanites and preach my gospel unto them; and
 inasmuch as they receive thy teachings thou shalt cause my church to be
-established among them" ([D&amp;C 28:8](https://www.lds.org/scriptures/dc-
+established among them" ([D&amp;C 28:8](/scriptures/dc-
 testament/dc/28.8?lang=eng#7)). Our living prophet has also said, "It is a
 people who ... call for assistance from those who can push and lift and open
 doors. It is a people who pray for mercy, for forgiveness, and beg for
@@ -50,8 +45,8 @@ Kimball, in Conference Report, Apr. 1954, p. 107.)
 
 How the Lord has blessed his people, this remnant of the house of Jacob. His
 words have been fulfilled. Where there was once a barren field, today they
-stand strong and truly "blossom as the rose" ([D&amp;C
-49:24](https://www.lds.org/scriptures/dc-testament/dc/49.24?lang=eng#23)).
+stand strong and truly "blossom as the rose" ([D&amp;C 49:24](/scriptures/dc-
+testament/dc/49.24?lang=eng#23)).
 
 What a miracle to behold! Only in _part_ of the Lamanite world, in Latin
 America alone, there are over 600,000 members of the Church, with 7,000
@@ -65,19 +60,18 @@ Yes, the descendants of Lehi have learned much from us, the Church in general,
 as we have established the Church among them. They appreciate the fulfillment
 of the prophecy indicating "that every man shall hear the fulness of the
 gospel in his own tongue, and in his own language" ([D&amp;C
-90:11](https://www.lds.org/scriptures/dc-testament/dc/90.11?lang=eng#10)).
-Thanks belong to you who serve or have served in these countries, and to the
-parents who worried about you but sent you anyway, trusting in the Lord, and
-who found that their sons and daughters received far more in their service to
-this people than they were capable of giving.
+90:11](/scriptures/dc-testament/dc/90.11?lang=eng#10)). Thanks belong to you
+who serve or have served in these countries, and to the parents who worried
+about you but sent you anyway, trusting in the Lord, and who found that their
+sons and daughters received far more in their service to this people than they
+were capable of giving.
 
 They appreciate the fulfillment of these words of the Lord also: "I will
 consecrate of the riches of those who embrace my gospel among the Gentiles
 unto the poor of my people who are of the house of Israel" ([D&amp;C
-42:39](https://www.lds.org/scriptures/dc-testament/dc/42.39?lang=eng#38)).
-Thanks belong to the thousands of you who have contributed generously and
-enabled the work to go forth. You have given much for which the Lord will
-bless you.
+42:39](/scriptures/dc-testament/dc/42.39?lang=eng#38)). Thanks belong to the
+thousands of you who have contributed generously and enabled the work to go
+forth. You have given much for which the Lord will bless you.
 
 You have also received much, as many of you have a personal debt to the
 Lamanites' forefathers for your own testimony obtained from their diligent
@@ -124,9 +118,8 @@ prophets. It seems as though they always have. The premortal existence seems
 to be common knowledge. The Joseph Smith story is believable and reasonable.
 They are not the least bit astonished by the coming of angels. They truly do
 hearken unto the voice of the Good Shepherd and thus truly do come unto God
-(see [Mosiah
-26:21](https://www.lds.org/scriptures/bofm/mosiah/26.21?lang=eng#20); [D&amp;C
-84:47](https://www.lds.org/scriptures/dc-testament/dc/84.47?lang=eng#46)).
+(see [Mosiah 26:21](/scriptures/bofm/mosiah/26.21?lang=eng#20); [D&amp;C
+84:47](/scriptures/dc-testament/dc/84.47?lang=eng#46)).
 
 Their lives teach the basics of prayer, fasting, priesthood blessings. A
 sister unable to have children has a daughter, receiving that gift indirectly
@@ -152,7 +145,7 @@ Even though the Spirit has manifested itself in the lives of these people in
 many miraculous ways, the common way--the most effective way--continues to be
 by the still small voice simply going forth, converting them "in their inward
 parts" by the thousands (see [Jer.
-31:33](https://www.lds.org/scriptures/ot/jer/31.33?lang=eng#32)).
+31:33](/scriptures/ot/jer/31.33?lang=eng#32)).
 
 These are the children of Lehi, the children of the prophets, great in many
 respects but blessed, as are all the children of God, according to their
@@ -169,17 +162,19 @@ Ammon said about the Lamanites:
 his great power, and of his mercy, and of his long-suffering towards the
 children of men? Behold, [we] say unto you, [we] cannot say the smallest part
 which [we] feel." ([Alma 26:11-12,
-16](https://www.lds.org/scriptures/bofm/alma/26.11-12%2C16?lang=eng#10).)
+16](/scriptures/bofm/alma/26.11-12,16?lang=eng#10).)
 
 My brothers and sisters, we must do all that we have been counseled to do here
 in this conference. Let us not forget the simple truths--those godly traits,
 the weightier matters of the law, that have been described (see [Matt.
-23:23](https://www.lds.org/scriptures/nt/matt/23.23?lang=eng#22)). They are
-the very basics, the essence of the gospel, and possession of them in great
-abundance by Latter-day Saints will be in the end the greatest miracle of all.
-Yes, miracles have not ceased. Today is a day of miracles. We believe in
-miracles. The Latter-day Saints may expect miracles according to their faith
-in Jesus Christ, the only being under heaven whereby we and all mankind may be
-saved (see [D&amp;C 18:23](https://www.lds.org/scriptures/dc-
-testament/dc/18.23?lang=eng#22)), in the name of Jesus Christ, amen.
+23:23](/scriptures/nt/matt/23.23?lang=eng#22)). They are the very basics, the
+essence of the gospel, and possession of them in great abundance by Latter-day
+Saints will be in the end the greatest miracle of all. Yes, miracles have not
+ceased. Today is a day of miracles. We believe in miracles. The Latter-day
+Saints may expect miracles according to their faith in Jesus Christ, the only
+being under heaven whereby we and all mankind may be saved (see [D&amp;C
+18:23](/scriptures/dc-testament/dc/18.23?lang=eng#22)), in the name of Jesus
+Christ, amen.
+
+## References
 

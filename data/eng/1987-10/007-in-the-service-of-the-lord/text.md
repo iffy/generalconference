@@ -25,7 +25,7 @@ age to ourselves and whose circumstances likewise are the same as ours.
 Perhaps that same still small voice may also be whispering to you. As it
 comes, remember the promise given in revelation to the Prophet Joseph Smith,
 "And now, verily, verily, I say unto thee, put your trust in that Spirit which
-leadeth to do good" ([D&amp;C 11:12](https://www.lds.org/scriptures/dc-
+leadeth to do good" ([D&amp;C 11:12](/scriptures/dc-
 testament/dc/11.12?lang=eng#11)).
 
 Now my wife and I are in the service of the Lord and have been assigned to
@@ -73,7 +73,7 @@ and blessing of temple marriage for them both.
 As they proudly showed us their baby after conference, and when we considered
 the splendid achievements of this young husband and wife, we recalled the
 Savior's words, "Blessed are they that hear the word of God, and keep it"
-([Luke 11:28](https://www.lds.org/scriptures/nt/luke/11.28?lang=eng#27)).
+([Luke 11:28](/scriptures/nt/luke/11.28?lang=eng#27)).
 
 Since then, we have been to different places in the Philippines. Everywhere we
 meet missionary couples, a number of whom are older than ourselves. The
@@ -94,15 +94,14 @@ are given all the love they can absorb from devoted Filipino Saints.
 
 Like us, all these missionary couples are finding new purpose and fulfillment
 in their lives. Section 4 of the Doctrine and Covenants [[D&amp;C
-4](https://www.lds.org/scriptures/dc-testament/dc/4.title?lang=eng)] is taking
-on new meaning.
+4](/scriptures/dc-testament/dc/4?lang=eng)] is taking on new meaning.
 
 "Therefore, if ye have desires to serve God ye are called to the work;
 
 "For behold the field is white already to harvest; and lo, he that thrusteth
 in his sickle with his might, the same layeth up in store that he perisheth
-not, but bringeth salvation to his soul" ([D&amp;C
-4:3-4](https://www.lds.org/scriptures/dc-testament/dc/4.3-4?lang=eng#2)).
+not, but bringeth salvation to his soul" ([D&amp;C 4:3-4](/scriptures/dc-
+testament/dc/4.3-4?lang=eng#2)).
 
 I pray that couples whose families are grown may indeed listen to and obey the
 Spirit that prompts the call to prepare and serve the Lord in the mission
@@ -111,4 +110,6 @@ of God, and that President Benson is God's prophet on earth today. I am
 grateful to be a member of the Church and for all the blessings it has brought
 into my life and the lives of my family. In the sacred name of Jesus Christ,
 amen.
+
+## References
 

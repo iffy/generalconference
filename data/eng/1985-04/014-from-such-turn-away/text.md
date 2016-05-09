@@ -27,8 +27,7 @@ forty-second section of the Doctrine and Covenants:
 my gospel, or to build up my church, except _he be ordained by some one who
 has authority, and it is known to the church that he has authority and has
 been regularly ordained by the heads of the church." _([D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10);
-italics added.)
+42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10); italics added.)
 
 I read that elder's certificate to show that from the very beginning of the
 Church very careful procedures of authorization have been followed.
@@ -41,15 +40,14 @@ the last days.
 He listed the many evils that would be abroad in those perilous times, such
 things as false accusers, despisers of those that are good, and traitors, and
 he warned, "From such turn away." ([2 Tim.
-3:1-5](https://www.lds.org/scriptures/nt/2-tim/3.1-5?lang=eng#0).)
+3:1-5](/scriptures/nt/2-tim/3.1-5?lang=eng#0).)
 
 "Evil men and seducers shall wax worse and worse, deceiving, and being
 deceived.
 
 "But continue thou in the things which thou hast learned and hast been assured
 of, _knowing of whom thou hast learned them."_ ([2 Tim.
-3:13-14](https://www.lds.org/scriptures/nt/2-tim/3.13-14?lang=eng#12); italics
-added.)
+3:13-14](/scriptures/nt/2-tim/3.13-14?lang=eng#12); italics added.)
 
 That phrase, _knowing of whom thou hast learned them,_ has great significance.
 
@@ -60,8 +58,8 @@ Repeating what the Lord said: "_Again_ I say unto you, that it shall not be
 given to any one to go forth to preach my gospel, or to build up my church,
 except [one:] _he be ordained by some one who has authority,_ and [two:] _it
 is known to the church that he has authority and has been regularly ordained
-by the heads of the church."_ ([D&amp;C 42:11](https://www.lds.org/scriptures
-/dc-testament/dc/42.11?lang=eng#10); italics added.)
+by the heads of the church."_ ([D&amp;C 42:11](/scriptures/dc-
+testament/dc/42.11?lang=eng#10); italics added.)
 
 The Church will always be led by those who have been called by the regularly
 ordained heads of the Church.
@@ -111,9 +109,8 @@ of the Church and his two counselors--the First Presidency.
 I repeat the words of Paul:
 
 "Continue thou in the things which thou hast learned, ... _knowing of whom thou
-hast learned them."_ ([2 Tim.
-3:14](https://www.lds.org/scriptures/nt/2-tim/3.14?lang=eng#13); italics
-added.)
+hast learned them."_ ([2 Tim. 3:14](/scriptures/nt/2-tim/3.14?lang=eng#13);
+italics added.)
 
 Even in that remote little branch the members could identify those who hold
 the keys of authority.
@@ -162,9 +159,9 @@ the Lord or from the Brethren are false on the face of them and really utter
 nonsense!
 
 The Lord never operated that way; these things were not done in a corner (see
-[Acts 26:26](https://www.lds.org/scriptures/nt/acts/26.26?lang=eng#25)); there
-is light on every official call and every authorized ordination, and it has
-always been that way.
+[Acts 26:26](/scriptures/nt/acts/26.26?lang=eng#25)); there is light on every
+official call and every authorized ordination, and it has always been that
+way.
 
 Now, the priesthood is structured so that ordinary men and women and youth are
 called to work in the Church.
@@ -200,8 +197,7 @@ in 1830, the Lord said:
 
 "No person is to be ordained to any office in this church, where there is a
 regularly organized branch of the same, without the vote of that church."
-([D&amp;C 20:65](https://www.lds.org/scriptures/dc-
-testament/dc/20.65?lang=eng#64).)
+([D&amp;C 20:65](/scriptures/dc-testament/dc/20.65?lang=eng#64).)
 
 There is another area where caution means safety. There are some who,
 motivated by one influence or another, seek through writing and publishing
@@ -215,8 +211,7 @@ eight:
 "And _after_" [meaning after they were members of the Church] _after_ "they
 had tasted of the fruit they were ashamed, because of those that were scoffing
 at them; and they fell away into forbidden paths and were lost." ([1 Ne.
-8:28](https://www.lds.org/scriptures/bofm/1-ne/8.28?lang=eng#27); Italics
-added.)
+8:28](/scriptures/bofm/1-ne/8.28?lang=eng#27); Italics added.)
 
 If their spirits are pure and their motives worthy, they will do no harm
 either to themselves or to others. If they are not, we would all do well to
@@ -286,8 +281,7 @@ shall not be moved out of their place.
 
 "But if they will not hearken to my voice, nor unto the voice of these men
 whom I have appointed, they shall not be blest." ([D&amp;C
-124:45-46](https://www.lds.org/scriptures/dc-
-testament/dc/124.45-46?lang=eng#44).)
+124:45-46](/scriptures/dc-testament/dc/124.45-46?lang=eng#44).)
 
 I bear witness, brethren and sisters, that the leaders of the Church were
 called of God by proper authority, and it is known to the Church that they
@@ -301,4 +295,6 @@ I sustain President Spencer W. Kimball as the prophet of God. I know that he
 is the prophet of God. I know that Jesus is the Christ, the Son of God, and by
 His order, and in His order, is the Church moved forward in our generation. In
 the name of Jesus Christ, amen.
+
+## References
 

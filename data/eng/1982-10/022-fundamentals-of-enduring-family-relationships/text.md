@@ -87,16 +87,16 @@ marriage covenant.
 
 First: "See that ye love one another; cease to be covetous; learn to impart
 one to another as the gospel requires. ... Cease to be unclean; cease to find
-fault one with another." ([D&amp;C 88:123-24](https://www.lds.org/scriptures
-/dc-testament/dc/88.123-24?lang=eng#122).)
+fault one with another." ([D&amp;C 88:123-24](/scriptures/dc-
+testament/dc/88.123-24?lang=eng#122).)
 
 Second: "Thou shalt love thy wife with all thy heart, and shalt cleave unto
 her and none else. ... Thou shalt not commit adultery." ([D&amp;C 42:22,
-24](https://www.lds.org/scriptures/dc-testament/dc/42.22%2C24?lang=eng#21).)
+24](/scriptures/dc-testament/dc/42.22,24?lang=eng#21).)
 
 Third: "He that hath the spirit of contention is not of me, but is of the
 devil, who is the father of contention." ([3 Ne.
-11:29](https://www.lds.org/scriptures/bofm/3-ne/11.29?lang=eng#28).)
+11:29](/scriptures/bofm/3-ne/11.29?lang=eng#28).)
 
 And there are many more scriptural admonitions.
 
@@ -114,7 +114,7 @@ guidance and help, particularly when there may be disagreements and problems.
 Spiritual growth comes by solving problems together--not by running from them.
 Today's inordinate emphasis on individualism brings egotism and separation.
 Two individuals becoming "one flesh" is still the Lord's standard. (See [Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23).)
+2:24](/scriptures/ot/gen/2.24?lang=eng#23).)
 
 The secret of a happy marriage is to serve God and each other. The goal of
 marriage is unity and oneness, as well as self-development. Paradoxically, the
@@ -191,10 +191,10 @@ example.
 
 Parents who provide such a home will have, as the Lord has said, "a house of
 prayer, a house of fasting, a house of faith, a house of learning, ... a house
-of order, a house of God." ([D&amp;C 88:119](https://www.lds.org/scriptures
-/dc-testament/dc/88.119?lang=eng#118).) Regardless of how modest or humble
-that home may be, it will have love, happiness, peace, and joy. Children will
-grow up in righteousness and truth and will desire to serve the Lord.
+of order, a house of God." ([D&amp;C 88:119](/scriptures/dc-
+testament/dc/88.119?lang=eng#118).) Regardless of how modest or humble that
+home may be, it will have love, happiness, peace, and joy. Children will grow
+up in righteousness and truth and will desire to serve the Lord.
 
 One past Church President gave this counsel to parents:
 
@@ -218,4 +218,6 @@ and associations of life are there.
 
 God bless us to strengthen our homes with love and unity and by following his
 precepts, I pray in the name of Jesus Christ, amen.
+
+## References
 

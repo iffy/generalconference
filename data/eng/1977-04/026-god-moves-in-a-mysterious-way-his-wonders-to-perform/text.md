@@ -3,24 +3,22 @@
 Following the resurrection of the Savior, he walked along the way toward
 Emmaus with two of his disciples, and we are told that "their eyes were holden
 that they" didn't recognize Him. ([Luke
-24:16](https://www.lds.org/scriptures/nt/luke/24.16?lang=eng#15).) When He
-heard what they had to say about Him and His life and crucifixion, He realized
-that they didn't comprehend what He had tried to teach them, and so He said to
-them: "O fools, and slow of heart to believe all that the prophets have
-spoken." ([Luke
-24:25](https://www.lds.org/scriptures/nt/luke/24.25?lang=eng#24).)
+24:16](/scriptures/nt/luke/24.16?lang=eng#15).) When He heard what they had to
+say about Him and His life and crucifixion, He realized that they didn't
+comprehend what He had tried to teach them, and so He said to them: "O fools,
+and slow of heart to believe all that the prophets have spoken." ([Luke
+24:25](/scriptures/nt/luke/24.25?lang=eng#24).)
 
 Then, commencing with Moses and the prophets, He showed them how in all things
 the prophets had testified of Him; and you know that they did, even to the
 minutest detail, even to the casting of lots for His clothing at the time of
-His crucifixion. ([Ps.
-22:18](https://www.lds.org/scriptures/ot/ps/22.18?lang=eng#17).)
+His crucifixion. ([Ps. 22:18](/scriptures/ot/ps/22.18?lang=eng#17).)
 
 Then Luke tells us that He opened their understandings that they might
 understand the scriptures. Now I ask you here today, do you believe all that
 the prophets have spoken? And if you do, you realize what Isaiah said: that
 the Lord has declared "the end from the beginning." ([Isa.
-46:10](https://www.lds.org/scriptures/ot/isa/46.10?lang=eng#9).)
+46:10](/scriptures/ot/isa/46.10?lang=eng#9).)
 
 It's all in the holy scriptures, and of all the great events of the history of
 the world, as far as the prophets have foretold, the greatest is the
@@ -42,14 +40,12 @@ I first refer to the statement of Malachi when the Lord, speaking through the
 prophet Malachi, said that He would send His messenger to prepare the way for
 His coming, and that He would come swiftly to His temple; and who could abide
 the day of His coming, because He would be as refiner's fire and fullers'
-soap. (See [Mal.
-3:1-2](https://www.lds.org/scriptures/ot/mal/3.1-2?lang=eng#0).) Now obviously
+soap. (See [Mal. 3:1-2](/scriptures/ot/mal/3.1-2?lang=eng#0).) Now obviously
 that had no reference to His first coming, when He was born as a humble babe
 in Bethlehem, for He didn't come to His temple swiftly, and He didn't come
 cleansing or purifying. But we are told that when He comes in the latter days
 the wicked will cry out to the rocks, "Fall on us, and hide us ... from the
-wrath of the Lamb." ([Rev.
-6:16](https://www.lds.org/scriptures/nt/rev/6.16?lang=eng#15).)
+wrath of the Lamb." ([Rev. 6:16](/scriptures/nt/rev/6.16?lang=eng#15).)
 
 Obviously, when the Lord sends a messenger to prepare the way before Him, that
 messenger can be none other than a prophet. When He came in the meridian of
@@ -72,10 +68,10 @@ Then there are the words of Paul. He said that the Lord has revealed the
 mystery of His will, "That in the dispensation of the fulness of times [_and
 we live in that dispensation_] he might gather together in one all things in
 Christ, both which are in heaven, and which are on earth." ([Eph.
-1:10](https://www.lds.org/scriptures/nt/eph/1.10?lang=eng#9).) Isn't that
-something to think about, when you hear that the Lord will reveal the mystery
-of His will? And that the mystery of His will has been revealed to His modern
-prophets of this day?
+1:10](/scriptures/nt/eph/1.10?lang=eng#9).) Isn't that something to think
+about, when you hear that the Lord will reveal the mystery of His will? And
+that the mystery of His will has been revealed to His modern prophets of this
+day?
 
 And we have truths that no other church in this world knows anything about--we
 are the only church in the world that has a program to unite all that is in
@@ -91,9 +87,8 @@ of the prophecies that were yet to be fulfilled in the preparation; and one
 was from the eleventh chapter of Isaiah, where the Lord said that He would
 "set his hand again the second time to gather scattered Israel, and that He
 would bring in the dispersed of Judah, and He would "set up an ensign for the
-nations." ([Isa.
-11:11-12](https://www.lds.org/scriptures/ot/isa/11.11-12?lang=eng#10).) That
-He has done through the gathering of the Latter-day Saints to these valleys of
+nations." ([Isa. 11:11-12](/scriptures/ot/isa/11.11-12?lang=eng#10).) That He
+has done through the gathering of the Latter-day Saints to these valleys of
 the mountains as a witness that He has gathered scattered Israel. And now
 Judah is being gathered back to her native land after centuries--two thousand
 years of wandering and persecution--and now Israel has a nation of her own.
@@ -108,7 +103,7 @@ would be established in the top of the mountains (and we are here) and that
 all nations would flow unto it. "And many people shall go and say, Come ye,
 and let us go up to the mountain of the Lord, to the house of the God of
 Jacob; that he will teach us of his ways, and we will walk in his paths."
-([Isa. 2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2).)
+([Isa. 2:3](/scriptures/ot/isa/2.3?lang=eng#2).)
 
 Thousands can testify how they have been gathered from foreign lands to these
 valleys of the mountains where this beautiful temple is. Just imagine the
@@ -126,8 +121,8 @@ Elijah the prophet before the coming of the great and dreadful day of the Lord
 
 "And he shall turn the heart of the fathers to the children, and the heart of
 the children to their fathers, lest I come and smite the earth with a curse."
-([Mal. 4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4).)
-President Kimball spoke of that in his opening address.
+([Mal. 4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4).) President Kimball spoke
+of that in his opening address.
 
 I doubt if we have any conception of what that really meant, when Elijah came.
 There are unseen powers that operate in this world on the hearts and minds of
@@ -187,4 +182,6 @@ God bless you. I believe the words of the prophets, and I know that this
 Church is the preparation that all of the holy prophets have decreed to
 prepare for the coming of our Savior; and may He hasten that day, I pray in
 the name of the Lord Jesus Christ. Amen.
+
+## References
 

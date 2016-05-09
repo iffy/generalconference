@@ -152,7 +152,7 @@ might, mind, and strength, and make people really happy.
 
 In the book of Proverbs in the Old Testament we read: "Where there is no
 vision, the people perish: but he that keepeth the law, happy is he" ([Prov.
-29:18](https://www.lds.org/scriptures/ot/prov/29.18?lang=eng#17)).
+29:18](/scriptures/ot/prov/29.18?lang=eng#17)).
 
 I know with all my heart that this is true. I testify that the purpose of the
 restored gospel is to create happy families in this life and in the life to
@@ -160,4 +160,6 @@ come.
 
 That we all may come to a perfect understanding of this divine purpose is my
 humble prayer in the name of our Lord and Savior, Jesus Christ. Amen.
+
+## References
 

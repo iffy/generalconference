@@ -79,3 +79,5 @@ the gospel, who strive with all of their might to prepare a people ready for
 the return of the head of the Church, Jesus Christ, at his second coming. Of
 this I testify in the name of Jesus Christ, amen.
 
+## References
+

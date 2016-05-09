@@ -8,15 +8,15 @@ thing as important as knowing who and how we should worship.
 When the Lord created men and placed them on earth, he gave "them commandments
 that they should love and serve him, the only living and true God, and that he
 should be the only being whom they should worship." ([D&amp;C
-20:19](https://www.lds.org/scriptures/dc-testament/dc/20.19?lang=eng#18).)
+20:19](/scriptures/dc-testament/dc/20.19?lang=eng#18).)
 
 Jesus confirmed this most basic of all commands when he said: "Thou shalt
 worship the Lord thy God, and him only shalt thou serve" ([Luke
-4:8](https://www.lds.org/scriptures/nt/luke/4.8?lang=eng#7)); and the constant
-cry of all the prophets of all the ages is: "O come, let us worship and bow
-down: let us kneel before the Lord our maker. For he is our God; and we are
-the people of his pasture, and the sheep of his hand" ([Ps.
-95:6-7](https://www.lds.org/scriptures/ot/ps/95.6-7?lang=eng#5)).
+4:8](/scriptures/nt/luke/4.8?lang=eng#7)); and the constant cry of all the
+prophets of all the ages is: "O come, let us worship and bow down: let us
+kneel before the Lord our maker. For he is our God; and we are the people of
+his pasture, and the sheep of his hand" ([Ps.
+95:6-7](/scriptures/ot/ps/95.6-7?lang=eng#5)).
 
 As the spirit children of the Eternal Father, we have been placed on earth to
 be tried and tested, to see if we will keep his commandments and do those
@@ -95,8 +95,8 @@ Father in my name, and in due time receive of his fulness.
 
 "For if you keep my commandments you shall receive of his fulness, and be
 glorified in me as I am in the Father; therefore, I say unto you, you shall
-receive grace for grace." ([D&amp;C 93:7-20](https://www.lds.org/scriptures
-/dc-testament/dc/93.7-20?lang=eng#6).)
+receive grace for grace." ([D&amp;C 93:7-20](/scriptures/dc-
+testament/dc/93.7-20?lang=eng#6).)
 
 In other words, true and perfect worship consists in following in the steps of
 the Son of God; it consists in keeping the commandments and obeying the will
@@ -176,10 +176,11 @@ shall know increasingly of their verity.
 True and perfect worship is in fact the supreme labor and purpose of man. God
 grant that we may write in our souls with a pen of fire the command of the
 Lord Jesus: "Thou shalt worship the Lord thy God, and him only shalt thou
-serve" ([Luke 4:8](https://www.lds.org/scriptures/nt/luke/4.8?lang=eng#7));
-and may we in fact and with living reality worship the Father in spirit and in
-truth, thereby gaining peace in this life and eternal life in the world to
-come.
+serve" ([Luke 4:8](/scriptures/nt/luke/4.8?lang=eng#7)); and may we in fact
+and with living reality worship the Father in spirit and in truth, thereby
+gaining peace in this life and eternal life in the world to come.
 
 In the name of the Lord Jesus Christ. Amen.
+
+## References
 

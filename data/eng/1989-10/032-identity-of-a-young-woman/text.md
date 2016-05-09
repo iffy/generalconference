@@ -42,7 +42,7 @@ of our Heavenly Father will teach us that we truly are daughters of God. Paul
 says it this way:
 
 "The Spirit itself beareth witness with our spirit, that we are the children
-of God." [[Rom. 8:16](https://www.lds.org/scriptures/nt/rom/8.16?lang=eng#15)]
+of God." [[Rom. 8:16](/scriptures/nt/rom/8.16?lang=eng#15)]
 
 A Mia Maid in the Philippines expressed the same thought like this:
 
@@ -155,12 +155,10 @@ believe, "You're no good; why try?" If you have those thoughts, don't believe
 them. According to Elder Neal A. Maxwell, "Satan delights to have us put
 ourselves down. Self-contempt is of Satan. There is no such thing in Heaven."
 The scriptures tell us that Satan would have you "be miserable like unto
-himself" ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)) and that he
+himself" ([2 Ne. 2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)) and that he
 "desireth to have you" ([3 Ne.
-18:18](https://www.lds.org/scriptures/bofm/3-ne/18.18?lang=eng#17)). He would
-also try to convince you that there is no repentance, no way back, and that no
-one cares.
+18:18](/scriptures/bofm/3-ne/18.18?lang=eng#17)). He would also try to
+convince you that there is no repentance, no way back, and that no one cares.
 
 One young person who had left the activities of the Church and came back was
 asked, "What really made the difference in coming back?" She replied, "I had a
@@ -206,4 +204,6 @@ have been given and the promises you can realize. Remember that we believe in
 you. Say with me: "I am a daughter of my Heavenly Father who loves me."
 
 This I believe, in the name of Jesus Christ, amen.
+
+## References
 

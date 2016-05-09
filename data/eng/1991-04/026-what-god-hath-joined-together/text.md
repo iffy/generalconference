@@ -27,15 +27,15 @@ flesh: ...
 
 "Therefore shall a man leave his father and his mother, and shall cleave unto
 his wife: and they shall be one flesh." ([Gen.
-2:23-24](https://www.lds.org/scriptures/ot/gen/2.23-24?lang=eng#22).)
+2:23-24](/scriptures/ot/gen/2.23-24?lang=eng#22).)
 
 Paul wrote to the Corinthian Saints, "Neither is the man without the woman,
 neither the woman without the man, in the Lord." ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10).)
+11:11](/scriptures/nt/1-cor/11.11?lang=eng#10).)
 
 In modern revelation, the Lord has said, "And again, verily I say unto you,
 that whoso forbiddeth to marry is not ordained of God, for marriage is
-ordained of God unto man." ([D&amp;C 49:15](https://www.lds.org/scriptures/dc-
+ordained of God unto man." ([D&amp;C 49:15](/scriptures/dc-
 testament/dc/49.15?lang=eng#14).)
 
 President Joseph F. Smith once declared "that no man can be saved and exalted
@@ -116,8 +116,8 @@ destroy him, "the king was much moved, and went up to the chamber over the
 gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son
 Absalom! would God I had died for thee, O Absalom, my son, my son! ... [And] the
 king covered his face, and ... cried." ([2 Sam.
-18:33](https://www.lds.org/scriptures/ot/2-sam/18.33?lang=eng#32); [2 Sam.
-19:4](https://www.lds.org/scriptures/ot/2-sam/19.4?lang=eng#3).)
+18:33](/scriptures/ot/2-sam/18.33?lang=eng#32); [2 Sam.
+19:4](/scriptures/ot/2-sam/19.4?lang=eng#3).)
 
 Through the history of the generations of man, the actions of rebellious
 children have been ladened with sorrow and heartbreak, but even when there has
@@ -231,10 +231,10 @@ helpless to stop that drift, they weep and pray.
 There is a remedy for all of this. It is not found in divorce. It is found in
 the gospel of the Son of God. He it was who said, "What therefore God hath
 joined together, let not man put asunder." ([Matt.
-19:6](https://www.lds.org/scriptures/nt/matt/19.6?lang=eng#5).) The remedy for
-most marriage stress is not in divorce. It is in repentance. It is not in
-separation. It is in simple integrity that leads a man to square up his
-shoulders and meet his obligations. It is found in the Golden Rule.
+19:6](/scriptures/nt/matt/19.6?lang=eng#5).) The remedy for most marriage
+stress is not in divorce. It is in repentance. It is not in separation. It is
+in simple integrity that leads a man to square up his shoulders and meet his
+obligations. It is found in the Golden Rule.
 
 Marriage is beautiful when beauty is looked for and cultivated. It can be ugly
 and uncomfortable when one is looking for faults and is blinded to virtue. As
@@ -287,6 +287,8 @@ together and our concerns one for another as fathers and mothers and children.
 God bless the homes of our people. May He bless those homes that there may be
 loyal and true fathers, and good and wonderful mothers, and obedient and
 ambitious children reared in "the nurture and admonition of the Lord" ([Enos
-1:1](https://www.lds.org/scriptures/bofm/enos/1.1?lang=eng#0)), I humbly pray
-in the name of Jesus Christ, amen.
+1:1](/scriptures/bofm/enos/1.1?lang=eng#0)), I humbly pray in the name of
+Jesus Christ, amen.
+
+## References
 

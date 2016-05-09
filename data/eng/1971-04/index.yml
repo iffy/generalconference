@@ -1,460 +1,403 @@
 items:
-- article_id: '03006_000_1010'
-  item: '000'
+- item: 1
   key: 000-out-of-the-darkness
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: out-of-the-darkness
   speaker: Joseph Fielding Smith
   title: Out of the Darkness
   url: https://www.lds.org/general-conference/1971/04/out-of-the-darkness?lang=eng
   year: 1971
-- article_id: '03006_000_1020'
-  item: '001'
+- item: 2
   key: 001-voices-of-the-past-of-the-present-of-the-future
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: voices-of-the-past-of-the-present-of-the-future
   speaker: Spencer W. Kimball
   title: Voices of the Past, of the Present, of the Future
   url: https://www.lds.org/general-conference/1971/04/voices-of-the-past-of-the-present-of-the-future?lang=eng
   year: 1971
-- article_id: '03006_000_1030'
-  item: '002'
+- item: 3
   key: 002-love-of-the-right
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: love-of-the-right
   speaker: Marvin J. Ashton
   title: Love of the Right
   url: https://www.lds.org/general-conference/1971/04/love-of-the-right?lang=eng
   year: 1971
-- article_id: '03006_000_1040'
-  item: '003'
+- item: 4
   key: 003-life-is-eternal
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: life-is-eternal
   speaker: Ezra Taft Benson
   title: Life Is Eternal
   url: https://www.lds.org/general-conference/1971/04/life-is-eternal?lang=eng
   year: 1971
-- article_id: '03006_000_2010'
-  item: '004'
+- item: 5
   key: 004-satan-the-great-deceiver
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: satan-the-great-deceiver
   speaker: Marion G. Romney
   title: "Satan\u2014The Great Deceiver"
   url: https://www.lds.org/general-conference/1971/04/satan-the-great-deceiver?lang=eng
   year: 1971
-- article_id: '03006_000_2020'
-  item: '005'
+- item: 6
   key: 005-be-slow-to-anger
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: be-slow-to-anger
   speaker: ElRay L. Christiansen
   title: Be Slow to Anger
   url: https://www.lds.org/general-conference/1971/04/be-slow-to-anger?lang=eng
   year: 1971
-- article_id: '03006_000_2030'
-  item: '006'
+- item: 7
   key: 006-when-thou-art-converted
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: when-thou-art-converted
   speaker: S. Dilworth Young
-  title: "\u201CWhen Thou Art Converted\u201D"
+  title: '"When Thou Art Converted"'
   url: https://www.lds.org/general-conference/1971/04/when-thou-art-converted?lang=eng
   year: 1971
-- article_id: '03006_000_2040'
-  item: '007'
+- item: 8
   key: 007-thou-shalt-not-commit-adultery
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: thou-shalt-not-commit-adultery
   speaker: Milton R. Hunter
-  title: "\u201CThou Shalt Not Commit Adultery\u201D"
+  title: '"Thou Shalt Not Commit Adultery"'
   url: https://www.lds.org/general-conference/1971/04/thou-shalt-not-commit-adultery?lang=eng
   year: 1971
-- article_id: '03006_000_2050'
-  item: 008
+- item: 9
   key: 008-great-experiences
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: great-experiences
   speaker: Sterling W. Sill
   title: Great Experiences
   url: https://www.lds.org/general-conference/1971/04/great-experiences?lang=eng
   year: 1971
-- article_id: '03006_000_2060'
-  item: 009
+- item: 10
   key: 009-the-law-of-abundance
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-law-of-abundance
   speaker: Franklin D. Richards
   title: The Law of Abundance
   url: https://www.lds.org/general-conference/1971/04/the-law-of-abundance?lang=eng
   year: 1971
-- article_id: '03006_000_2070'
-  item: '010'
+- item: 11
   key: 010-warnings-from-the-past
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: warnings-from-the-past
   speaker: Mark E. Petersen
   title: Warnings from the Past
   url: https://www.lds.org/general-conference/1971/04/warnings-from-the-past?lang=eng
   year: 1971
-- article_id: '03006_000_3010'
-  item: '011'
+- item: 12
   key: 011-our-responsibilities-as-priesthood-holders
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: our-responsibilities-as-priesthood-holders
   speaker: Joseph Fielding Smith
   title: Our Responsibilities As Priesthood Holders
   url: https://www.lds.org/general-conference/1971/04/our-responsibilities-as-priesthood-holders?lang=eng
   year: 1971
-- article_id: '03006_000_3020'
-  item: '012'
+- item: 13
   key: 012-prepare-every-needful-thing
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: prepare-every-needful-thing
   speaker: Howard W. Hunter
   title: Prepare Every Needful Thing
   url: https://www.lds.org/general-conference/1971/04/prepare-every-needful-thing?lang=eng
   year: 1971
-- article_id: '03006_000_3030'
-  item: '013'
+- item: 14
   key: 013-teach-one-another
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: teach-one-another
   speaker: David B. Haight
-  title: "\u201CTeach One Another\u201D"
+  title: '"Teach One Another"'
   url: https://www.lds.org/general-conference/1971/04/teach-one-another?lang=eng
   year: 1971
-- article_id: '03006_000_3040'
-  item: '014'
+- item: 15
   key: 014-the-meaning-of-morality
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-meaning-of-morality
   speaker: Victor L. Brown
   title: The Meaning of Morality
   url: https://www.lds.org/general-conference/1971/04/the-meaning-of-morality?lang=eng
   year: 1971
-- article_id: '03006_000_3050'
-  item: '015'
+- item: 16
   key: 015-unchanging-principles-of-leadership
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: unchanging-principles-of-leadership
   speaker: Wendell J. Ashton
   title: Unchanging Principles of Leadership
   url: https://www.lds.org/general-conference/1971/04/unchanging-principles-of-leadership?lang=eng
   year: 1971
-- article_id: '03006_000_3060'
-  item: '016'
+- item: 17
   key: 016-search-for-the-wanderers
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: search-for-the-wanderers
   speaker: N. Eldon Tanner
   title: Search for the Wanderers
   url: https://www.lds.org/general-conference/1971/04/search-for-the-wanderers?lang=eng
   year: 1971
-- article_id: '03006_000_3070'
-  item: '017'
+- item: 18
   key: 017-todays-young-people
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: todays-young-people
   speaker: Harold B. Lee
-  title: "Today\u2019s Young People"
+  title: Today's Young People
   url: https://www.lds.org/general-conference/1971/04/todays-young-people?lang=eng
   year: 1971
-- article_id: '03006_000_4010'
-  item: 018
+- item: 19
   key: 018-choose-you-this-day
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: choose-you-this-day
   speaker: N. Eldon Tanner
-  title: "\u201CChoose You This Day\u201D"
+  title: '"Choose You This Day"'
   url: https://www.lds.org/general-conference/1971/04/choose-you-this-day?lang=eng
   year: 1971
-- article_id: '03006_000_4020'
-  item: 019
+- item: 20
   key: 019-my-brothers-keeper
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: my-brothers-keeper
   speaker: John H. Vandenberg
-  title: "My Brother\u2019s Keeper"
+  title: My Brother's Keeper
   url: https://www.lds.org/general-conference/1971/04/my-brothers-keeper?lang=eng
   year: 1971
-- article_id: '03006_000_4030'
-  item: '020'
+- item: 21
   key: 020-the-message-of-the-restoration
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-message-of-the-restoration
   speaker: A. Theodore Tuttle
   title: The Message of the Restoration
   url: https://www.lds.org/general-conference/1971/04/the-message-of-the-restoration?lang=eng
   year: 1971
-- article_id: '03006_000_4040'
-  item: '021'
+- item: 22
   key: 021-except-the-lord-build-the-house
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: except-the-lord-build-the-house
   speaker: Gordon B. Hinckley
-  title: "\u201CExcept the Lord Build the House \u2026\u201D"
+  title: '"Except the Lord Build the House ..."'
   url: https://www.lds.org/general-conference/1971/04/except-the-lord-build-the-house?lang=eng
   year: 1971
-- article_id: '03006_000_4050'
-  item: '022'
+- item: 23
   key: 022-where-are-you-really-going
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: where-are-you-really-going
   speaker: Richard L. Evans
   title: Where Are You Really Going?
   url: https://www.lds.org/general-conference/1971/04/where-are-you-really-going?lang=eng
   year: 1971
-- article_id: '03006_000_5010'
-  item: '023'
+- item: 24
   key: 023-the-iron-rod
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-iron-rod
   speaker: Harold B. Lee
   title: The Iron Rod
   url: https://www.lds.org/general-conference/1971/04/the-iron-rod?lang=eng
   year: 1971
-- article_id: '03006_000_5020'
-  item: '024'
+- item: 25
   key: 024-eternal-joy-is-eternal-growth
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: eternal-joy-is-eternal-growth
   speaker: Joseph Anderson
   title: Eternal Joy Is Eternal Growth
   url: https://www.lds.org/general-conference/1971/04/eternal-joy-is-eternal-growth?lang=eng
   year: 1971
-- article_id: '03006_000_5030'
-  item: '025'
+- item: 26
   key: 025-the-lords-people-receive-revelation
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-lords-people-receive-revelation
   speaker: Bruce R. McConkie
-  title: "The Lord\u2019s People Receive Revelation"
+  title: The Lord's People Receive Revelation
   url: https://www.lds.org/general-conference/1971/04/the-lords-people-receive-revelation?lang=eng
   year: 1971
-- article_id: '03006_000_5040'
-  item: '026'
+- item: 27
   key: 026-ignorance-is-expensive
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: ignorance-is-expensive
-  speaker: Hartman Rector, Jr.
+  speaker: Hartman Rector Jr.
   title: Ignorance Is Expensive
   url: https://www.lds.org/general-conference/1971/04/ignorance-is-expensive?lang=eng
   year: 1971
-- article_id: '03006_000_5050'
-  item: '027'
+- item: 28
   key: 027-drink-of-the-pure-water
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: drink-of-the-pure-water
   speaker: Loren C. Dunn
   title: Drink of the Pure Water
   url: https://www.lds.org/general-conference/1971/04/drink-of-the-pure-water?lang=eng
   year: 1971
-- article_id: '03006_000_5060'
-  item: 028
+- item: 29
   key: 028-kingdom-of-god
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: kingdom-of-god
   speaker: Theodore M. Burton
   title: Kingdom of God
   url: https://www.lds.org/general-conference/1971/04/kingdom-of-god?lang=eng
   year: 1971
-- article_id: '03006_000_5070'
-  item: 029
+- item: 30
   key: 029-love-of-god
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: love-of-god
   speaker: Bernard P. Brockbank
   title: Love of God
   url: https://www.lds.org/general-conference/1971/04/love-of-god?lang=eng
   year: 1971
-- article_id: '03006_000_6010'
-  item: '033'
+- item: 31
+  key: 030-1724239030001
+  month: 4
+  session_title: Tuesday Morning Session
+  slug: '1724239030001'
+  speaker: Elder Joseph Anderson
+  title: Statistical Report 1970
+  url: https://www.lds.org/general-conference/1971/04/media/session_6_talk_1/1724239030001?lang=eng
+  year: 1971
+- item: 32
+  key: 031-1724239031001
+  month: 4
+  session_title: Tuesday Morning Session
+  slug: '1724239031001'
+  speaker: Elder Wilford G. Edling
+  title: Church Auditing Committee Report
+  url: https://www.lds.org/general-conference/1971/04/media/session_6_talk_2/1724239031001?lang=eng
+  year: 1971
+- item: 33
+  key: 032-1724239032001
+  month: 4
+  session_title: Tuesday Morning Session
+  slug: '1724239032001'
+  speaker: President N. Eldon Tanner
+  title: Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/1971/04/media/session_6_talk_3/1724239032001?lang=eng
+  year: 1971
+- item: 34
   key: 033-the-spirit-beareth-record
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: the-spirit-beareth-record
   speaker: Boyd K. Packer
-  title: "\u201CThe Spirit Beareth Record\u201D"
+  title: '"The Spirit Beareth Record"'
   url: https://www.lds.org/general-conference/1971/04/the-spirit-beareth-record?lang=eng
   year: 1971
-- article_id: '03006_000_6020'
-  item: '034'
+- item: 35
   key: 034-ye-shall-not-fear
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: ye-shall-not-fear
   speaker: Alvin R. Dyer
   title: Ye Shall Not Fear
   url: https://www.lds.org/general-conference/1971/04/ye-shall-not-fear?lang=eng
   year: 1971
-- article_id: '03006_000_6030'
-  item: '035'
+- item: 36
   key: 035-practicing-what-we-preach
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: practicing-what-we-preach
   speaker: Marion D. Hanks
   title: Practicing What We Preach
   url: https://www.lds.org/general-conference/1971/04/practicing-what-we-preach?lang=eng
   year: 1971
-- article_id: '03006_000_6040'
-  item: '036'
+- item: 37
   key: 036-marriage-is-intended-to-be-forever
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: marriage-is-intended-to-be-forever
   speaker: James A. Cullimore
   title: Marriage Is Intended to Be Forever
   url: https://www.lds.org/general-conference/1971/04/marriage-is-intended-to-be-forever?lang=eng
   year: 1971
-- article_id: '03006_000_6050'
-  item: '037'
+- item: 38
   key: 037-lost-battalions
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: lost-battalions
   speaker: Thomas S. Monson
   title: Lost Battalions
   url: https://www.lds.org/general-conference/1971/04/lost-battalions?lang=eng
   year: 1971
-- article_id: '03006_000_7010'
-  item: 038
+- item: 39
   key: 038-in-the-mountain-of-the-lords-house
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: in-the-mountain-of-the-lords-house
   speaker: LeGrand Richards
-  title: "In the Mountain of the Lord\u2019s House"
+  title: In the Mountain of the Lord's House
   url: https://www.lds.org/general-conference/1971/04/in-the-mountain-of-the-lords-house?lang=eng
   year: 1971
-- article_id: '03006_000_7020'
-  item: 039
+- item: 40
   key: 039-all-may-share-in-adams-blessing
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: all-may-share-in-adams-blessing
   speaker: Eldred G. Smith
-  title: "All May Share in Adam\u2019s Blessing"
+  title: All May Share in Adam's Blessing
   url: https://www.lds.org/general-conference/1971/04/all-may-share-in-adams-blessing?lang=eng
   year: 1971
-- article_id: '03006_000_7030'
-  item: '040'
+- item: 41
   key: 040-young-people-learn-wisdom-in-thy-youth
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: young-people-learn-wisdom-in-thy-youth
   speaker: Paul H. Dunn
   title: "Young People\u2014Learn Wisdom in Thy Youth"
   url: https://www.lds.org/general-conference/1971/04/young-people-learn-wisdom-in-thy-youth?lang=eng
   year: 1971
-- article_id: '03006_000_7040'
-  item: '041'
+- item: 42
   key: 041-honesty-and-integrity
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: honesty-and-integrity
   speaker: Delbert L. Stapley
   title: Honesty and Integrity
   url: https://www.lds.org/general-conference/1971/04/honesty-and-integrity?lang=eng
   year: 1971
-- article_id: '03006_000_7050'
-  item: '042'
+- item: 43
   key: 042-help-needed-in-the-shaded-areas
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: help-needed-in-the-shaded-areas
   speaker: William H. Bennett
   title: Help Needed in the Shaded Areas
   url: https://www.lds.org/general-conference/1971/04/help-needed-in-the-shaded-areas?lang=eng
   year: 1971
-- article_id: '03006_000_7060'
-  item: '043'
+- item: 44
   key: 043-man-cannot-endure-on-borrowed-light
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: man-cannot-endure-on-borrowed-light
   speaker: Henry D. Taylor
   title: Man Cannot Endure on Borrowed Light
   url: https://www.lds.org/general-conference/1971/04/man-cannot-endure-on-borrowed-light?lang=eng
   year: 1971
-- article_id: '03006_000_7070'
-  item: '044'
+- item: 45
   key: 044-a-witness-and-a-blessing
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: a-witness-and-a-blessing
   speaker: Joseph Fielding Smith

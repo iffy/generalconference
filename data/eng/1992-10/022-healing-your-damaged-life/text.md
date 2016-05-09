@@ -62,15 +62,13 @@ light. ...
 _"Light and truth forsake that evil one, ..._
 
 _"And that wicked one cometh and taketh away light and truth, through
-disobedience, from the children of men."_ ([D&amp;C 93:28, 37,
-39](https://www.lds.org/scriptures/dc-
-testament/dc/93.28%2C37%2C39?lang=eng#27); emphasis added.)
+disobedience, from the children of men."_ ([D&amp;C 93:28, 37, 39](/scriptures
+/dc-testament/dc/93.28,37,39?lang=eng#27); emphasis added.)
 
 He also declared, "Every man may act in doctrine and principle, ... according to
 the _moral agency_ which I have given unto him, that every man may be
-accountable ... in the day of judgment" ([D&amp;C
-101:78](https://www.lds.org/scriptures/dc-testament/dc/101.78?lang=eng#77);
-italics added).
+accountable ... in the day of judgment" ([D&amp;C 101:78](/scriptures/dc-
+testament/dc/101.78?lang=eng#77); italics added).
 
 These scriptures teach how to overcome the effects of wrong choices, whether
 they be lying, stealing, gambling, addiction to alcohol or drugs, immorality,
@@ -94,7 +92,7 @@ right to choose the consequences of our acts._ Those who willfully,
 consistently disobey His commandments will inevitably learn that truth. Joseph
 Smith was inspired to record, "When we obtain any blessing from God, it is by
 obedience to that law upon which it is predicated." ([D&amp;C
-130:21](https://www.lds.org/scriptures/dc-testament/dc/130.21?lang=eng#20).)
+130:21](/scriptures/dc-testament/dc/130.21?lang=eng#20).)
 
 Please understand, no one has the privilege to choose what is right. God
 reserved that prerogative to Himself. Our agency does allow us to choose among
@@ -121,8 +119,8 @@ It may be hard in your state of mind to understand that. Please believe me. He
 will help you when you do it His way. A prophet said, "For how knoweth a man
 the master whom he has not served, and who is a stranger unto him, and is _far
 from the thoughts and intents of his heart?_" ([Mosiah
-5:13](https://www.lds.org/scriptures/bofm/mosiah/5.13?lang=eng#12); emphasis
-added.) Read and learn about the Savior until you know Him, then trust Him.
+5:13](/scriptures/bofm/mosiah/5.13?lang=eng#12); emphasis added.) Read and
+learn about the Savior until you know Him, then trust Him.
 
 You may have found that change is hard. But know you _can_ do it. You may
 wonder why you are not believed when you decide to change from a life of
@@ -144,11 +142,9 @@ support you.
 Many people offer advice, but one's suggestions often directly contradict
 another's. How do you know whom to believe? Ask yourself these questions:
 
-  * What motivates the offer of help?
-
-  * Does your common sense confirm it is right? If so, it will be consistent with the teachings of the Savior.
-
-  * Has the advice offered been followed in the giver's life? Has it improved the quality of that life?
+  * What motivates the offer of help? 
+  * Does your common sense confirm it is right? If so, it will be consistent with the teachings of the Savior. 
+  * Has the advice offered been followed in the giver's life? Has it improved the quality of that life? 
 
 Honest evaluation of advice against these standards will help you decide
 whether it is motivated for your benefit or another's self-interest. A true
@@ -211,8 +207,7 @@ will heal them. ...
 "For I see that your faith is sufficient that I should heal you. ...
 
 "And he did heal them every one." ([3 Ne.
-17:7-9](https://www.lds.org/scriptures/bofm/3-ne/17.7-9?lang=eng#6); emphasis
-added.)
+17:7-9](/scriptures/bofm/3-ne/17.7-9?lang=eng#6); emphasis added.)
 
 I testify that the Savior will heal you as you choose to obey truth and use
 your agency according to His counsel.
@@ -220,4 +215,6 @@ your agency according to His counsel.
 May the Lord soften your heart that you may know the things we have discussed
 are true. May he give you the courage and strength to begin to be healed
 _now._ In the name of Jesus Christ, amen.
+
+## References
 

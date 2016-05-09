@@ -55,7 +55,7 @@ upon the inhabitants of the earth, called upon my servant Joseph Smith, Jun.,
 and spake unto him from heaven, and gave him commandments;
 
 "And also gave commandments to others, that they should proclaim these things
-unto the world." ([D&amp;C 1:15-18](https://www.lds.org/scriptures/dc-
+unto the world." ([D&amp;C 1:15-18](/scriptures/dc-
 testament/dc/1.15-18?lang=eng#14).)
 
 The Lord is here referring to communications which had taken place between Him
@@ -99,34 +99,34 @@ and prosperity.
 
 The first commandment He gave to Adam and Eve after they left the garden of
 Eden was "that they should worship the Lord their God." ([Moses
-5:5](https://www.lds.org/scriptures/pgp/moses/5.5?lang=eng#4).) The
-significance of this commandment underlies all the rest of His commandments.
-Note how the Lord has repeatedly emphasized this need:
+5:5](/scriptures/pgp/moses/5.5?lang=eng#4).) The significance of this
+commandment underlies all the rest of His commandments. Note how the Lord has
+repeatedly emphasized this need:
 
 "I am the Lord thy God ...
 
 "Thou shalt have no other gods before me.
 
 "Thou shalt not take the name of the Lord thy God in vain." ([Ex. 20:2-3,
-7](https://www.lds.org/scriptures/ot/ex/20.2-3%2C7?lang=eng#1).)
+7](/scriptures/ot/ex/20.2-3,7?lang=eng#1).)
 
 To the lawyer who asked, "Master, which is the great commandment in the law?
 
 "Jesus said, ... Thou shalt love the Lord thy God with all thy heart, and with
 all thy soul, and with all thy mind." ([Matt.
-22:36-37](https://www.lds.org/scriptures/nt/matt/22.36-37?lang=eng#35).)
+22:36-37](/scriptures/nt/matt/22.36-37?lang=eng#35).)
 
 The Lord was alluding to these commandments when He said to the Prophet Joseph
 Smith concerning this generation: "They seek not the Lord to establish his
 righteousness, but every man walketh in his own way, and after the image of
 his own God, whose image is in the likeness of the world." ([D&amp;C
-1:16](https://www.lds.org/scriptures/dc-testament/dc/1.16?lang=eng#15).)
+1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15).)
 
 These commandments, with others, together with blessings promised to follow
 observance thereof, were thus emphasized in the commandments given to Joseph
 Smith for our instruction in this dispensation.
 
-"Thou shalt not lie." ([D&amp;C 42:21](https://www.lds.org/scriptures/dc-
+"Thou shalt not lie." ([D&amp;C 42:21](/scriptures/dc-
 testament/dc/42.21?lang=eng#20).)
 
 "Thou shalt love the Lord thy God with all thy heart, with all thy might,
@@ -147,8 +147,8 @@ and countenances, ...
 
 "[And you will] learn that he who doeth the works of righteousness shall
 receive his reward, even peace in this world, and eternal life in the world to
-come." ([D&amp;C 59:5-7, 15-16, 23](https://www.lds.org/scriptures/dc-
-testament/dc/59.5-7%2C15-16%2C23?lang=eng#4).)
+come." ([D&amp;C 59:5-7, 15-16, 23](/scriptures/dc-
+testament/dc/59.5-7,15-16,23?lang=eng#4).)
 
 Do you think this generation merits this reward by reason of having observed
 these commandments? Following are samples of what the Lord has said we merit
@@ -163,7 +163,7 @@ destroyed by the brightness of my coming.
 "Behold, I tell you these things," said the Savior, in this dispensation,
 "even as I also told the people of the destruction of Jerusalem; and my word
 shall be verified at this time as it hath hitherto been verified." ([D&amp;C
-5:19-20](https://www.lds.org/scriptures/dc-testament/dc/5.19-20?lang=eng#18).)
+5:19-20](/scriptures/dc-testament/dc/5.19-20?lang=eng#18).)
 
 In the eighty-eighth section of the Doctrine and Covenants, the Lord gives us
 this counsel and prediction: "Abide ye in the liberty wherewith ye are made
@@ -174,8 +174,7 @@ Lord comes.
 drunken man; and the sun shall hide his face, and shall refuse to give light;
 and the moon shall be bathed in blood; and the stars shall become exceedingly
 angry, and shall cast themselves down as a fig that falleth from off a fig-
-tree." ([D&amp;C 88:86-87](https://www.lds.org/scriptures/dc-
-testament/dc/88.86-87?lang=eng#85).)
+tree." ([D&amp;C 88:86-87](/scriptures/dc-testament/dc/88.86-87?lang=eng#85).)
 
 Now all the acts of governments, all the armies of the nations, all the
 learning and the wisdom of man together cannot turn these calamities aside.
@@ -203,25 +202,24 @@ As disobedience brought on the flood, so obedience sanctified Enoch's Zion.
 
 "And the Lord called his people Zion, because they were of one heart and one
 mind, and dwelt in righteousness." ([Moses
-7:17-18](https://www.lds.org/scriptures/pgp/moses/7.17-18?lang=eng#16).)
+7:17-18](/scriptures/pgp/moses/7.17-18?lang=eng#16).)
 
 As in ancient America the rebellious were destroyed by earthquake, whirlwind,
 and fire at the time of Christ's crucifixion, so the righteous survivors
 developed a society which enjoyed perfect peace for several hundred years.
-(See [4 Ne. 1:2,
-16](https://www.lds.org/scriptures/bofm/4-ne/1.2%2C16?lang=eng#1).)
+(See [4 Ne. 1:2, 16](/scriptures/bofm/4-ne/1.2,16?lang=eng#1).)
 
 Through Malachi the Lord promised "Israel that by faithfulness the seasons
 should be made propitious, that nurturing rains should come, bringing such
 harvests that the people would lack room to store their products." (Talmage,
 _Improvement Era,_ June 1921, p. 738; see [Mal.
-3:8-12](https://www.lds.org/scriptures/ot/mal/3.8-12?lang=eng#7).) Like
-assurances have been given in these latter days.
+3:8-12](/scriptures/ot/mal/3.8-12?lang=eng#7).) Like assurances have been
+given in these latter days.
 
 Nephi, envisioning and speaking of our day, said that God "will preserve the
 righteous by his power, ... even unto the destruction of their enemies by fire.
 Wherefore, the righteous need not fear." ([1 Ne.
-22:17](https://www.lds.org/scriptures/bofm/1-ne/22.17?lang=eng#16).)
+22:17](/scriptures/bofm/1-ne/22.17?lang=eng#16).)
 
 Speaking to His apostles concerning our day, Jesus said: "They shall see an
 overflowing scourge; for a desolating sickness shall cover the land.
@@ -238,7 +236,7 @@ were troubled."
 
 "[But He] said unto them: Be not troubled, for, when all these things shall
 come to pass, ye may know that the promises which have been made unto you
-shall be fulfilled." ([D&amp;C 45:31-35](https://www.lds.org/scriptures/dc-
+shall be fulfilled." ([D&amp;C 45:31-35](/scriptures/dc-
 testament/dc/45.31-35?lang=eng#30).)
 
 "I am no respecter of persons," He said, "and will that all men shall know
@@ -246,8 +244,7 @@ that the day speedily cometh; the hour is not yet, but is nigh at hand, when
 peace shall be taken from the earth, and the devil shall have power over his
 own dominion. "And also [and here is _the brightest spot in the silver
 lining_] the Lord shall have power over his saints, and shall reign in their
-midst." ([D&amp;C 1:35-36](https://www.lds.org/scriptures/dc-
-testament/dc/1.35-36?lang=eng#34).)
+midst." ([D&amp;C 1:35-36](/scriptures/dc-testament/dc/1.35-36?lang=eng#34).)
 
 That we shall in full faith, relying upon these assurances, so keep the
 commandments that we shall be sustained by the knowledge that "behind the dim
@@ -262,4 +259,6 @@ peace in the world if we will repent and follow the commandments of the Lord.
 I know that calamity will follow if we do not. And I plead for God to be with
 us that we may merit peace and security, in the name of Jesus Christ, our
 Redeemer. Amen.
+
+## References
 

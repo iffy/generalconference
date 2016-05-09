@@ -20,8 +20,7 @@ sustain me must count double in the days that lie ahead.
 
 Appreciation to President Kimball for his example not only as a bold prophet
 but for his and Sister Kimball's tireless practicing of "pure religion,
-undefiled." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).) The
+undefiled." ([James 1:27](/scriptures/nt/james/1.27?lang=eng#26).) The
 President's greatness is the kind which is not conscious of itself. He truly
 desires not our adulation but our affirmation by how we live.
 
@@ -62,4 +61,6 @@ Finally I testify that what a wise man wrote is true: "If you have not chosen
 the kingdom of God first, it will in the end make no difference what you have
 chosen instead." Having so chosen, may God bless us all to move the kingdom
 along, I pray in the name of Jesus Christ. Amen.
+
+## References
 

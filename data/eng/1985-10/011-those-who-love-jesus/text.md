@@ -23,12 +23,11 @@ with all thy heart, and with all thy soul, and with all thy mind.
 "This is the first and great commandment.
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-([Matt.
-22:36-39](https://www.lds.org/scriptures/nt/matt/22.36-39?lang=eng#35).)
+([Matt. 22:36-39](/scriptures/nt/matt/22.36-39?lang=eng#35).)
 
 Mark concludes the account with the Savior's statement, "There is none other
 commandment greater than these." ([Mark
-12:31](https://www.lds.org/scriptures/nt/mark/12.31?lang=eng#30).)
+12:31](/scriptures/nt/mark/12.31?lang=eng#30).)
 
 His answer could not be faulted. His very actions gave credence to His words.
 He demonstrated genuine love of God by living the perfect life, by honoring
@@ -41,8 +40,7 @@ master of deceit, even the devil; though He was physically weakened from
 fasting forty days and forty nights and was an hungered; yet when the evil one
 proffered Jesus the most alluring and tempting proposals, He gave to us a
 divine example of true love of God by refusing to deviate from what He knew
-was right. (See [Matt.
-4:1-11](https://www.lds.org/scriptures/nt/matt/4.1-11?lang=eng#0).)
+was right. (See [Matt. 4:1-11](/scriptures/nt/matt/4.1-11?lang=eng#0).)
 
 Jesus, throughout His ministry, blessed the sick, restored sight to the blind,
 made the deaf to hear and the maimed to walk. He taught forgiveness by
@@ -75,7 +73,7 @@ In the center of the main hall, inscribed for all to see, is the message of
 the memorial. The skylight overhead permits easy reading. The words almost
 stand up and speak: "Greater love hath no man than this, that a man lay down
 his life for his friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 Today, the challenge which we face and must meet is not that we should go
 forth on the battlefield of war and lay down our lives. Rather, it is that we,
@@ -89,7 +87,7 @@ Jesus teaches us: "If ye love me, keep my commandments. ...
 "He that hath my commandments, and keepeth them, he it is that loveth me: and
 he that loveth me shall be loved of my Father, and I will love him, and will
 manifest myself to him." ([John 14:15,
-21](https://www.lds.org/scriptures/nt/john/14.15%2C21?lang=eng#14).)
+21](/scriptures/nt/john/14.15,21?lang=eng#14).)
 
 Years ago we danced to a popular song, the words of which were, "It's easy to
 say I love you, easy to say I'll be true, easy to say these simple things, but
@@ -199,20 +197,19 @@ unheated building, sitting shoulder to shoulder, wearing their coats, singing
 the hymns of Zion and worshiping Him who counseled, "Be not weary in well
 doing," "Follow me," "Be thou humble; and the Lord thy God shall lead thee by
 the hand, and give thee answer to thy prayers." ([2 Thes.
-3:13](https://www.lds.org/scriptures/nt/2-thes/3.13?lang=eng#12); [Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18); [D&amp;C
-112:10](https://www.lds.org/scriptures/dc-testament/dc/112.10?lang=eng#9).)
+3:13](/scriptures/nt/2-thes/3.13?lang=eng#12); [Matt.
+4:19](/scriptures/nt/matt/4.19?lang=eng#18); [D&amp;C 112:10](/scriptures/dc-
+testament/dc/112.10?lang=eng#9).)
 
 The Apostle Paul taught the Corinthians, "If any man love God, the same is
-known of him." ([1 Cor.
-8:3](https://www.lds.org/scriptures/nt/1-cor/8.3?lang=eng#2).) The love which
-these faithful members have for God, for His Son, Jesus Christ, and for His
-everlasting gospel is confirmed by their very lives. It is reminiscent of the
-love demonstrated by the brother of Jared as described in the Book of Mormon.
-The blessings of a loving, caring, and just Heavenly Father simply could not
-be withheld. Faith preceded the miracle. Eternal ordinances are now performed.
-Everlasting covenants are now made. The love of God has again blessed His
-people.
+known of him." ([1 Cor. 8:3](/scriptures/nt/1-cor/8.3?lang=eng#2).) The love
+which these faithful members have for God, for His Son, Jesus Christ, and for
+His everlasting gospel is confirmed by their very lives. It is reminiscent of
+the love demonstrated by the brother of Jared as described in the Book of
+Mormon. The blessings of a loving, caring, and just Heavenly Father simply
+could not be withheld. Faith preceded the miracle. Eternal ordinances are now
+performed. Everlasting covenants are now made. The love of God has again
+blessed His people.
 
 For those who love Jesus, these prophetic words have sublime meaning:
 
@@ -228,10 +225,11 @@ fear me, and delight to honor those who serve me in righteousness and in truth
 unto the end.
 
 "Great shall be their reward and eternal shall be their glory." ([D&amp;C
-76:1-3, 5-6](https://www.lds.org/scriptures/dc-
-testament/dc/76.1-3%2C5-6?lang=eng#0).)
+76:1-3, 5-6](/scriptures/dc-testament/dc/76.1-3,5-6?lang=eng#0).)
 
 Such is the blessing reserved for those who love Jesus. May each of us qualify
 for this great reward, this eternal glory, I pray in the name of Jesus Christ,
 whom I love and of whom I testify, amen.
+
+## References
 

@@ -95,7 +95,7 @@ drink? or, Wherewithal shall we be clothed?
 
 "But seek ye first the kingdom of God, and his righteousness; and all these
 things shall be added unto you" ([Matt.
-6:31-33](https://www.lds.org/scriptures/nt/matt/6.31-33?lang=eng#30)).
+6:31-33](/scriptures/nt/matt/6.31-33?lang=eng#30)).
 
 Emerging out of the struggles to build Nauvoo are two fundamental principles
 which, when I think about them, are as necessary for our success today in 1980
@@ -191,4 +191,6 @@ mankind.
 I want to add my testimony to this historic conference. God lives. Jesus is
 the Christ. The greatest joy we can find on this earth is conforming our lives
 to His principles. This I humbly pray, in the name of Jesus Christ, amen.
+
+## References
 

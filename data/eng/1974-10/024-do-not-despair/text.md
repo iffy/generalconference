@@ -6,55 +6,51 @@ It is my hope and prayer that what I am about to say will be helpful, both
 physically and spiritually, in the difficult days ahead.
 
 We live in an age when, as the Lord foretold, men's hearts are failing them,
-not only physically but in spirit. (See [D&amp;C
-45:26](https://www.lds.org/scriptures/dc-testament/dc/45.26?lang=eng#25).)
-Many are giving up heart for the battle of life. Suicide ranks as a major
-cause of the deaths to college students. As the showdown between good and evil
-approaches with its accompanying trials and tribulations, Satan is
-increasingly striving to overcome the Saints with despair, discouragement,
-despondency, and depression.
+not only physically but in spirit. (See [D&amp;C 45:26](/scriptures/dc-
+testament/dc/45.26?lang=eng#25).) Many are giving up heart for the battle of
+life. Suicide ranks as a major cause of the deaths to college students. As the
+showdown between good and evil approaches with its accompanying trials and
+tribulations, Satan is increasingly striving to overcome the Saints with
+despair, discouragement, despondency, and depression.
 
 Yet, of all people, we as Latter-day Saints should be the most optimistic and
 the least pessimistic. For while we know that "peace shall be taken from the
 earth, and the devil shall have power over his own dominion," we are also
 assured that "the Lord shall have power over his saints, and shall reign in
-their midst." ([D&amp;C 1:35-36](https://www.lds.org/scriptures/dc-
+their midst." ([D&amp;C 1:35-36](/scriptures/dc-
 testament/dc/1.35-36?lang=eng#34).)
 
 With the assurance that the Church shall remain intact with God directing it
 through the troubled times ahead, it then becomes our individual
 responsibility to see that each of us remains faithful to the Church and its
 teachings. "He that remaineth steadfast and is not overcome, the same shall be
-saved." ([JS--M
-1:11](https://www.lds.org/scriptures/pgp/js-m/1.11?lang=eng#10).) To help us
-from being overcome by the devil's designs of despair, discouragement,
-depression, and despondency, the Lord has provided at least a dozen ways
-which, if followed, will lift our spirits and send us on our way rejoicing.
+saved." ([JS--M 1:11](/scriptures/pgp/js-m/1.11?lang=eng#10).) To help us from
+being overcome by the devil's designs of despair, discouragement, depression,
+and despondency, the Lord has provided at least a dozen ways which, if
+followed, will lift our spirits and send us on our way rejoicing.
 
 First, repentance. In the Book of Mormon we read that "despair cometh because
-of iniquity." ([Moro.
-10:22](https://www.lds.org/scriptures/bofm/moro/10.22?lang=eng#21).) "When I
-do good I feel good," said Abraham Lincoln, "and when I do bad I feel bad."
+of iniquity." ([Moro. 10:22](/scriptures/bofm/moro/10.22?lang=eng#21).) "When
+I do good I feel good," said Abraham Lincoln, "and when I do bad I feel bad."
 Sin pulls a man down into despondency and despair. While a man may take some
 temporary pleasure in sin, the end result is unhappiness. "Wickedness never
-was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).) Sin
+was happiness." ([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9).) Sin
 creates disharmony with God and is depressing to the spirit. Therefore, a man
 would do well to examine himself to see that he is in harmony with all of
 God's laws. Every law kept brings a particular blessing. Every law broken
 brings a particular blight. Those who are heavy laden with despair should come
 unto the Lord, for his yoke is easy and his burden is light. (See [Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 Second, prayer. Prayer in the hour of need is a great boon. From simple trials
 to our Gethsemanes, prayer can put us in touch with God, our greatest source
 of comfort and counsel. "Pray always, that you may come off conqueror"
-([D&amp;C 10:5](https://www.lds.org/scriptures/dc-
-testament/dc/10.5?lang=eng#4))--persistent prayer. "Exerting all my powers to
-call upon God to deliver me" is how the young Joseph Smith describes the
-method which he used in the Sacred Grove to keep the adversary from destroying
-him. ([JS--H 1:16](https://www.lds.org/scriptures/pgp/js-h/1.16?lang=eng#15).)
-This is also a key to use in keeping depression from destroying us.
+([D&amp;C 10:5](/scriptures/dc-testament/dc/10.5?lang=eng#4))--persistent
+prayer. "Exerting all my powers to call upon God to deliver me" is how the
+young Joseph Smith describes the method which he used in the Sacred Grove to
+keep the adversary from destroying him. ([JS--H
+1:16](/scriptures/pgp/js-h/1.16?lang=eng#15).) This is also a key to use in
+keeping depression from destroying us.
 
 Third, service. To lose yourself in righteous service to others can lift your
 sights and get your mind off personal problems, or at least put them in proper
@@ -82,13 +78,12 @@ labors.
 
 Fifth, health. The condition of the physical body can affect the spirit.
 That's why the Lord gave us the Word of Wisdom. He also said that we should
-retire to our beds early and arise early (see [D&amp;C
-88:124](https://www.lds.org/scriptures/dc-testament/dc/88.124?lang=eng#123)),
-that we should not run faster than we have strength (see [D&amp;C
-10:4](https://www.lds.org/scriptures/dc-testament/dc/10.4?lang=eng#3)), and
-that we should use moderation in all good things. In general, the more food we
-eat in its natural state and the less it is refined without additives, the
-healthier it will be for us. Food can affect the mind, and deficiencies in
+retire to our beds early and arise early (see [D&amp;C 88:124](/scriptures/dc-
+testament/dc/88.124?lang=eng#123)), that we should not run faster than we have
+strength (see [D&amp;C 10:4](/scriptures/dc-testament/dc/10.4?lang=eng#3)),
+and that we should use moderation in all good things. In general, the more
+food we eat in its natural state and the less it is refined without additives,
+the healthier it will be for us. Food can affect the mind, and deficiencies in
 certain elements in the body can promote mental depression. A good physical
 examination periodically is a safeguard and may spot problems that can be
 remedied. Rest and physical exercise are essential, and a walk in the fresh
@@ -111,21 +106,21 @@ the hands of Brigham Young and received solace and direction for his soul.
 Fathers, so live that you can bless your own wives and children. To receive,
 and then consistently and prayerfully ponder, one's patriarchal blessing can
 give helpful insight, particularly in an hour of need. The sacrament will
-"bless ... the souls" ([D&amp;C 20:77, 79](https://www.lds.org/scriptures/dc-
-testament/dc/20.77%2C79?lang=eng#76)) of all those who worthily partake of it,
+"bless ... the souls" ([D&amp;C 20:77, 79](/scriptures/dc-
+testament/dc/20.77,79?lang=eng#76)) of all those who worthily partake of it,
 and as such it should be taken often, even by the bedfast.
 
 Eighth, fasting. A certain kind of devil goes not out except by fasting and
 prayer, the scripture tells us. (See [Matt.
-17:21](https://www.lds.org/scriptures/nt/matt/17.21?lang=eng#20).) Periodic
-fasting can help clear up the mind and strengthen the body and the spirit. The
-usual fast, the one we are asked to participate in for fast Sunday, is for 24
-hours without food or drink. Some people, feeling the need, have gone on
-longer fasts of abstaining from food but have taken the needed liquids. Wisdom
-should be used, and the fast should be broken with light eating. To make a
-fast most fruitful, it should be coupled with prayer and meditation; physical
-work should be held to a minimum, and it's a blessing if one can ponder on the
-scriptures and the reason for the fast.
+17:21](/scriptures/nt/matt/17.21?lang=eng#20).) Periodic fasting can help
+clear up the mind and strengthen the body and the spirit. The usual fast, the
+one we are asked to participate in for fast Sunday, is for 24 hours without
+food or drink. Some people, feeling the need, have gone on longer fasts of
+abstaining from food but have taken the needed liquids. Wisdom should be used,
+and the fast should be broken with light eating. To make a fast most fruitful,
+it should be coupled with prayer and meditation; physical work should be held
+to a minimum, and it's a blessing if one can ponder on the scriptures and the
+reason for the fast.
 
 Ninth, friends. The fellowship of true friends who can hear you out, share
 your joys, help carry your burdens, and correctly counsel you is priceless.
@@ -147,12 +142,12 @@ Tenth, music. Inspiring music may fill the soul with heavenly thoughts, move
 one to righteous action, or speak peace to the soul. When Saul was troubled
 with an evil spirit, David played for him with his harp and Saul was refreshed
 and the evil spirit departed. (See [1 Sam.
-16:23](https://www.lds.org/scriptures/ot/1-sam/16.23?lang=eng#22).) Elder Boyd
-K. Packer has wisely suggested memorizing some of the inspiring songs of Zion
-and then, when the mind is afflicted with temptations, to sing aloud, to keep
-before your mind the inspiring words and thus crowd out the evil thoughts.
-(See _Ensign,_ Jan. 1974, p. 28.) This could also be done to crowd out
-debilitating, depressive thoughts.
+16:23](/scriptures/ot/1-sam/16.23?lang=eng#22).) Elder Boyd K. Packer has
+wisely suggested memorizing some of the inspiring songs of Zion and then, when
+the mind is afflicted with temptations, to sing aloud, to keep before your
+mind the inspiring words and thus crowd out the evil thoughts. (See _Ensign,_
+Jan. 1974, p. 28.) This could also be done to crowd out debilitating,
+depressive thoughts.
 
 Eleventh, endurance. When George A. Smith was very ill, he was visited by his
 cousin, the Prophet Joseph Smith. The afflicted man reported: "He [the
@@ -169,7 +164,7 @@ Joseph Smith: "Thine adversity and thine afflictions, shall be but a small
 moment;
 
 "And then, if thou endure it well, God shall exalt thee on high." ([D&amp;C
-121:7-8](https://www.lds.org/scriptures/dc-testament/dc/121.7-8?lang=eng#6).)
+121:7-8](/scriptures/dc-testament/dc/121.7-8?lang=eng#6).)
 
 "To press on in noble endeavors, even while surrounded by a cloud of
 depression, will eventually bring you out on top into the sunshine. Even our
@@ -182,7 +177,7 @@ sure hope of greater ones to follow if you are faithful. And you can have that
 certain knowledge that in due time God will wipe away all tears and that "eye
 hath not seen, nor ear heard, neither have entered into the heart of man, the
 things which God hath prepared for them that love him." ([1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8).)
+2:9](/scriptures/nt/1-cor/2.9?lang=eng#8).)
 
 And twelfth, goals. Every accountable child of God needs to set goals, short-
 and long-range goals. A man who is pressing forward to accomplish worthy goals
@@ -192,30 +187,27 @@ of the sacrament we commit ourselves to the goals of taking upon ourselves the
 name of Christ, of always remembering him and keeping his commandments. Of
 Jesus' preparation for his mission, the scripture states that he "increased in
 wisdom and stature, and in favour with God and man." ([Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).) This
-encompasses four main areas for goals: spiritual, mental, physical, and
-social. "Therefore, what manner of men ought ye to be?" asked the Master, and
-he answered, "Verily I say unto you, even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).) Now there
-is a lifetime goal--to walk in his steps, to perfect ourselves in every virtue
-as he has done, to seek his face, and to work to make our calling and election
-sure.
+2:52](/scriptures/nt/luke/2.52?lang=eng#51).) This encompasses four main areas
+for goals: spiritual, mental, physical, and social. "Therefore, what manner of
+men ought ye to be?" asked the Master, and he answered, "Verily I say unto
+you, even as I am." ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+Now there is a lifetime goal--to walk in his steps, to perfect ourselves in
+every virtue as he has done, to seek his face, and to work to make our calling
+and election sure.
 
 "Brethren," said Paul, "... but this one thing I do, forgetting those things
 which are behind, and reaching forth unto those things which are before,
 
 "I press toward the mark for the prize of the high calling of God in Christ
-Jesus." ([Philip.
-3:13-14](https://www.lds.org/scriptures/nt/philip/3.13-14?lang=eng#12).)
+Jesus." ([Philip. 3:13-14](/scriptures/nt/philip/3.13-14?lang=eng#12).)
 
 Let your minds be filled with the goal of being like the Lord, and you will
 crowd out depressing thoughts as you anxiously seek to know him and do his
 will. "Let this mind be in you," said Paul. ([Philip.
-2:5](https://www.lds.org/scriptures/nt/philip/2.5?lang=eng#4).) "Look unto me
-in every thought," said Jesus. ([D&amp;C 6:36](https://www.lds.org/scriptures
-/dc-testament/dc/6.36?lang=eng#35).) And what will follow if we do? "Thou wilt
-keep him in perfect peace, whose mind is stayed on thee." ([Isa.
-26:3](https://www.lds.org/scriptures/ot/isa/26.3?lang=eng#2).)
+2:5](/scriptures/nt/philip/2.5?lang=eng#4).) "Look unto me in every thought,"
+said Jesus. ([D&amp;C 6:36](/scriptures/dc-testament/dc/6.36?lang=eng#35).)
+And what will follow if we do? "Thou wilt keep him in perfect peace, whose
+mind is stayed on thee." ([Isa. 26:3](/scriptures/ot/isa/26.3?lang=eng#2).)
 
 "Salvation," said the Prophet Joseph Smith, "is nothing more nor less than to
 triumph over all our enemies and put them under our feet." (_Teachings of the
@@ -225,13 +217,12 @@ righteous alternatives, some of which I have mentioned. As it states in the
 Bible, "There hath no temptation taken you but such as is common to man: but
 God is faithful, who will not suffer you to be tempted above that ye are able;
 but will with the temptation also make a way to escape, that ye may be able to
-bear it." ([1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).)
+bear it." ([1 Cor. 10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).)
 
 Yes, life is a test; it is a probation; and perhaps being away from our
 heavenly home we feel sometimes, as holy men in the past have felt, that "they
-were strangers and pilgrims on the earth." (See [D&amp;C
-45:13](https://www.lds.org/scriptures/dc-testament/dc/45.13?lang=eng#12).)
+were strangers and pilgrims on the earth." (See [D&amp;C 45:13](/scriptures
+/dc-testament/dc/45.13?lang=eng#12).)
 
 Some of you will recall in that great book _Pilgrim's Progress_ by John Bunyan
 that the main character known as Christian was trying to press forward to gain
@@ -246,4 +237,6 @@ May we use them all in the difficult days ahead so that we Christian pilgrims
 will have greater happiness here and go on to a fullness of joy in the highest
 realms of the celestial kingdom is my prayer in the name of Jesus Christ.
 Amen.
+
+## References
 

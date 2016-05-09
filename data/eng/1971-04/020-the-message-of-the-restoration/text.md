@@ -19,7 +19,7 @@ of God, the Eternal Father, from whom he inherited immortality, or the power
 to live. He was the son of Mary, from whom he inherited mortality, or the
 power to die. Hence, he could say: "No man taketh ... [my life] from me, but I
 lay it down of myself. ... This commandment have I received of my Father."
-([John 10:18](https://www.lds.org/scriptures/nt/john/10.18?lang=eng#17).)
+([John 10:18](/scriptures/nt/john/10.18?lang=eng#17).)
 
 As the Son of God, he had power to atone for the sins of all mankind. He broke
 the bonds of death, initiated the resurrection, and became the first fruits
@@ -37,8 +37,7 @@ of the things pertaining to the kingdom of God: ...
 "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this
 same Jesus, which is taken up from you into heaven, _shall so come in like
 manner _as ye have see him go into heaven." ([Acts 1:3,
-9-11](https://www.lds.org/scriptures/nt/acts/1.3%2C9-11?lang=eng#2). Italics
-added.)
+9-11](/scriptures/nt/acts/1.3,9-11?lang=eng#2). Italics added.)
 
 Salvation is in Christ; that is, in and through him, his atonement and his
 resurrection, we can be saved by obedience to the principles and ordinances of
@@ -69,7 +68,7 @@ remembrance of me.
 
 "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's
 death till he come." ([1 Cor.
-11:23-26](https://www.lds.org/scriptures/nt/1-cor/11.23-26?lang=eng#22).)
+11:23-26](/scriptures/nt/1-cor/11.23-26?lang=eng#22).)
 
 We declare the divine Sonship of Christ. We know he lives today. We know he
 shall come the second time, as was prophesied.
@@ -80,13 +79,12 @@ apostasy. The priesthood authority to administer the ordinances was lost. The
 Church dwindled in unbelief. Political power usurped what was left of the
 organization, and complete apostasy occurred. Just as this falling away was
 prophesied, so also was the time of restoration--or "the times of restitution
-of all things." ([Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).)
+of all things." ([Acts 3:21](/scriptures/nt/acts/3.21?lang=eng#20).)
 
 In the spring of 1820 a boy not yet fifteen, whose "mind was called up to
 serious reflection," pondered the question which, if any, church was true. He
 followed the scriptural injunction to "ask of God." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) He records:
+1:5](/scriptures/nt/james/1.5?lang=eng#4).) He records:
 
 "... I saw a pillar of light exactly over my head, above the brightness of the
 sun, which descended gradually until it fell upon me.
@@ -95,7 +93,7 @@ sun, which descended gradually until it fell upon me.
 glory defy all description, standing above me in the air. One of them spake
 unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
 
 This marvelous vision, the personal appearance of both the Father and the Son,
 clarified once and for all the _fact _of their existence. The fact that they
@@ -110,15 +108,14 @@ the authorized servant of God. He fulfilled every requirement to complete the
 profile of a prophet. In due time Joseph received the "keys of the kingdom."
 With this apostolic power he reestablished the true church in its fullness and
 power. The Lord said to him: "... this generation shall have my word through
-you." ([D&amp;C 5:10](https://www.lds.org/scriptures/dc-
-testament/dc/5.10?lang=eng#9).)
+you." ([D&amp;C 5:10](/scriptures/dc-testament/dc/5.10?lang=eng#9).)
 
 There is no greater prophet in any dispensation than Joseph Smith. He
 translated the Book of Mormon from ancient plates. Its purpose is to be
 another witness that Jesus is the Christ. Concerning this book, the Lord
 declared: "And he has translated the book, even that part which I have
 commanded him, and as your Lord and your God liveth it is true." ([D&amp;C
-17:6](https://www.lds.org/scriptures/dc-testament/dc/17.6?lang=eng#5).)
+17:6](/scriptures/dc-testament/dc/17.6?lang=eng#5).)
 
 We know that it is not a popular thing to teach that a backwoods boy from
 Vermont, reared in New England and trained on the frontier, was a prophet.
@@ -140,7 +137,7 @@ that there is today a living prophet at its head.
 
 The Lord himself has said it is "the only true and living church upon the face
 of the whole earth, with which I, the Lord, am well pleased. ..." ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29).)
+1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29).)
 
 Our present prophet has been chosen by the Lord to direct his affairs and be
 his mouthpiece. At ninety-five he is moving a bit beyond middle age! But then,
@@ -176,4 +173,6 @@ achieve it. We know Christ is our head. We believe in the final, inevitable
 triumph of truth expressed in the gospel of Jesus Christ. We know we shall
 succeed. We invite all men of goodwill to join us in achieving this great
 destiny. In the name of Jesus Christ. Amen.
+
+## References
 

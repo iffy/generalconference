@@ -6,7 +6,7 @@ history. He was in the great council in heaven--he helped his Father in the
 shaping of the heavens, in the creation of the earth, and in the making of
 man, the latter being in response to the request of the Father when he said:
 "Let us ... form man in our own image, after our likeness" ([Abr.
-4:26](https://www.lds.org/scriptures/pgp/abr/4.26?lang=eng#25)).
+4:26](/scriptures/pgp/abr/4.26?lang=eng#25)).
 
 In opposition to Satan's plan of compulsion, it was He who supported the
 Father's plan of free agency--thus providing the right of choice which means
@@ -27,16 +27,15 @@ and the nations of the earth could live up to this code. We have often heard
 people say, "Well, I will forgive, but I won't forget," which, of course,
 means they do not forgive.
 
-In Doctrine and Covenants 64:8-11 [[D&amp;C
-64:8-11](https://www.lds.org/scriptures/dc-testament/dc/64.8-11?lang=eng#7)]
-the Lord tells us that it is our duty to forgive one another, and that he who
-does not forgive his brother stands condemned and is the _greater sinner of
-the two._
+In Doctrine and Covenants 64:8-11 [[D&amp;C 64:8-11](/scriptures/dc-
+testament/dc/64.8-11?lang=eng#7)] the Lord tells us that it is our duty to
+forgive one another, and that he who does not forgive his brother stands
+condemned and is the _greater sinner of the two._
 
 In Matthew 22:36-39 [[Matt.
-22:36-39](https://www.lds.org/scriptures/nt/matt/22.36-39?lang=eng#35)] we
-read about an instance where Christ was approached by some of the leading
-lawyers of the day, one of whom said:
+22:36-39](/scriptures/nt/matt/22.36-39?lang=eng#35)] we read about an instance
+where Christ was approached by some of the leading lawyers of the day, one of
+whom said:
 
 "Master, which is the great commandment in the law?
 
@@ -52,7 +51,7 @@ himself? When Jesus gave the second commandment, he said it was like unto the
 first, and repeating both, he said:
 
 "On these two commandments hang all the law and the prophets" ([Matt.
-22:40](https://www.lds.org/scriptures/nt/matt/22.40?lang=eng#39)).
+22:40](/scriptures/nt/matt/22.40?lang=eng#39)).
 
 He made them very important--so important that all other laws and commandments
 rest upon them.
@@ -68,12 +67,10 @@ loveth not his brother whom he hath seen, how can he love God whom he hath not
 seen?
 
 "And this commandment have we from him, That he who loveth God love his
-brother also" ([1 Jn.
-4:20-21](https://www.lds.org/scriptures/nt/1-jn/4.20-21?lang=eng#19)).
+brother also" ([1 Jn. 4:20-21](/scriptures/nt/1-jn/4.20-21?lang=eng#19)).
 
 In 3 Nephi 11:29-30 [[3 Ne.
-11:29-30](https://www.lds.org/scriptures/bofm/3-ne/11.29-30?lang=eng#28)] we
-find this statement:
+11:29-30](/scriptures/bofm/3-ne/11.29-30?lang=eng#28)] we find this statement:
 
 "For verily, verily I say unto you, he that hath the spirit of contention is
 not of me, but is of the devil, who is the father of contention, and he
@@ -99,12 +96,12 @@ forgave those who would take his life. At the very time when he was suffering
 the most, he said:
 
 "Father, forgive them; for they know not what they do" ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33)).
+23:34](/scriptures/nt/luke/23.34?lang=eng#33)).
 
 He died that we might have everlasting life. In [John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24) it is
-recorded that he proclaimed: "I am the Resurrection, and the life: he that
-believeth in me, though he were dead, yet shall he live:
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24) it is recorded that he
+proclaimed: "I am the Resurrection, and the life: he that believeth in me,
+though he were dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die."
 
@@ -123,7 +120,7 @@ enumerating the blessings which had been poured down upon his people by the
 Lord, he said this:
 
 "And behold, all that he requires of you is to keep his commandments" ([Mosiah
-2:22](https://www.lds.org/scriptures/bofm/mosiah/2.22?lang=eng#21)).
+2:22](/scriptures/bofm/mosiah/2.22?lang=eng#21)).
 
 Yes, the only thing the Lord requires of us is that we keep his commandments!
 This sounds relatively simple, doesn't it? But we all know that it isn't
@@ -140,7 +137,7 @@ surely as night follows day, we will reap the blessings that are promised to
 the faithful. Remember, the Lord said:
 
 "I, the Lord, am bound when ye do what I say; but when ye do not what I say,
-ye have no promise" ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
+ye have no promise" ([D&amp;C 82:10](/scriptures/dc-
 testament/dc/82.10?lang=eng#9)).
 
 Sometimes the way of fulfillment may not be apparent to us, but the actuality
@@ -149,8 +146,8 @@ of it is assured.
 How many of us on Judgment Day would like to be told that we had failed to do
 our part--that we had been unworthy servants of the Lord because our own lives
 had been such a poor example? In [Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15) the Lord gives
-us a very important message:
+5:16](/scriptures/nt/matt/5.16?lang=eng#15) the Lord gives us a very important
+message:
 
 "Let your light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven."
@@ -158,16 +155,15 @@ glorify your Father which is in heaven."
 To fail to keep the commandments of the Lord not only brings condemnation, but
 actually deprives us of many blessings here on this earth--to say nothing of
 those eternal blessings for which we are all striving. In [1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8) we read this
-important statement: "Eye hath not seen, nor ear heard, neither have entered
-into the heart of man, the _things which God hath prepared for them that love
-him_" (italics added).
+2:9](/scriptures/nt/1-cor/2.9?lang=eng#8) we read this important statement:
+"Eye hath not seen, nor ear heard, neither have entered into the heart of man,
+the _things which God hath prepared for them that love him_" (italics added).
 
 And finally, the great promise given to all men:
 
 "And, if you keep my commandments and endure to the end you shall have eternal
 life, which gift is the greatest of all the gifts of God" ([D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6)).
+14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6)).
 
 In closing, I would like to bear testimony that the Father and the Son did
 appear to Joseph Smith and gave him instructions pertaining to the restoration
@@ -179,4 +175,6 @@ I pray that these brethren may be blessed with inspiration at all times.
 Further, that our Heavenly Father will grant them health and strength
 sufficient to carry out their heavy responsibilities. In the name of Jesus
 Christ, amen.
+
+## References
 

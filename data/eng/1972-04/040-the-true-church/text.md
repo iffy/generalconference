@@ -33,19 +33,18 @@ day:
 "... ye are a chosen generation, a royal priesthood, an holy nation, a peculiar
 people; [Why?] that ye should shew forth the praises of him who hath called
 you out of darkness into his marvellous light." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).)
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).)
 
 We have been admonished in this conference to let our light so shine, as Jesus
 said, that others seeing our good works may be led to glorify our Father which
-is in heaven. (See [Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).)
+is in heaven. (See [Matt. 5:16](/scriptures/nt/matt/5.16?lang=eng#15).)
 
 Paul tells us: "... faith cometh by hearing, and hearing by the word of God."
-([Rom. 10:17](https://www.lds.org/scriptures/nt/rom/10.17?lang=eng#16).)
+([Rom. 10:17](/scriptures/nt/rom/10.17?lang=eng#16).)
 
 "... and how shall they hear without a preacher? And how shall they preach,
 except they be sent? ..." ([Rom.
-10:14-15](https://www.lds.org/scriptures/nt/rom/10.14-15?lang=eng#13).)
+10:14-15](/scriptures/nt/rom/10.14-15?lang=eng#13).)
 
 Therefore, there rests upon this people the great responsibility of bearing
 witness to the entire world of what the Lord has done in restoring his truth
@@ -58,17 +57,17 @@ then he added:
 
 "And this gospel of the kingdom shall be preached in all the world for a
 witness unto all nations; and then shall the end come." ([Matt.
-24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).)
+24:14](/scriptures/nt/matt/24.14?lang=eng#13).)
 
 Where would one look today to find that gospel of the kingdom that Jesus
 referred to? Not according to man's interpretation of the scriptures, but
 where the divine power rests, such as Jesus gave to his Twelve when he said:
 
 "Ye have not chosen me, but I have chosen you, and ordained you. ..." ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).)
+15:16](/scriptures/nt/john/15.16?lang=eng#15).)
 
 "... and whatsoever thou shalt bind on earth shall be bound in heaven. ..."
-([Matt. 16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+([Matt. 16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 Anybody could organize a church and take from the scriptures certain passages
 and base their church upon that, but how can they take a living branch from a
@@ -124,23 +123,22 @@ One can't study the holy scriptures without knowing that the prophets have
 declared an apostasy from the original church. When John the Revelator was
 banished on the Isle of Patmos, the angel of the Lord appeared to him and said
 to him: "Come up hither, and I will shew thee things which must be hereafter."
-([Rev. 4:1](https://www.lds.org/scriptures/nt/rev/4.1?lang=eng#0).)
+([Rev. 4:1](/scriptures/nt/rev/4.1?lang=eng#0).)
 
 Then he showed him all things from the war in heaven to the final winding-up
 scene, and he showed him the power that would be given to Satan to make war
 with the saints (and the saints were the followers of Christ in his church);
 and he said that power was given him over all kindreds and tongues and
-nations. (See [Rev.
-13:7](https://www.lds.org/scriptures/nt/rev/13.7?lang=eng#6).) Why should that
-be in the holy scriptures if the gospel was to remain upon the earth from the
-days of St. Peter down to the present time?
+nations. (See [Rev. 13:7](/scriptures/nt/rev/13.7?lang=eng#6).) Why should
+that be in the holy scriptures if the gospel was to remain upon the earth from
+the days of St. Peter down to the present time?
 
 Paul was constantly warning the people in his day that they should not look
 for the coming of Jesus until there should be a falling away, and the man of
 sin would be revealed. (See [2 Thes.
-2:1-4](https://www.lds.org/scriptures/nt/2-thes/2.1-4?lang=eng#0).) And others
-of the prophets have likewise testified of the day when there should be a
-famine in the land. The prophet Amos said:
+2:1-4](/scriptures/nt/2-thes/2.1-4?lang=eng#0).) And others of the prophets
+have likewise testified of the day when there should be a famine in the land.
+The prophet Amos said:
 
 "Behold, the days come, saith the Lord God, that I will send a famine in the
 land, not a famine of bread, nor a thirst for water, but of hearing the words
@@ -148,8 +146,7 @@ of the Lord:
 
 "And they shall wander from sea to sea, and from the north even to the east,
 they shall run to and fro to seek the word of the Lord, and shall not find
-it." ([Amos
-8:11-12](https://www.lds.org/scriptures/ot/amos/8.11-12?lang=eng#10).)
+it." ([Amos 8:11-12](/scriptures/ot/amos/8.11-12?lang=eng#10).)
 
 Why? Because it was not upon the earth to be found.
 
@@ -170,8 +167,7 @@ when the times of refreshing shall come from the presence of the Lord;
 
 "Whom the heaven must receive until the times of restitution of all things,
 which God hath spoken by the mouth of all his holy prophets since the world
-began." ([Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18).)
+began." ([Acts 3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18).)
 
 If Peter was a prophet of God, we can't look forward to the second coming of
 Christ, and neither can the world, without a restitution--and not a
@@ -207,14 +203,14 @@ said:
 
 "And he shall turn the heart of the fathers to the children, and the heart of
 the children to their fathers, lest I come and smite the earth with a curse."
-([Mal. 4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5).)
+([Mal. 4:6](/scriptures/ot/mal/4.6?lang=eng#5).)
 
 That opened the door for an understanding of the words of the apostle Paul,
 when he said that the Lord had revealed the mystery of his will unto him:
 
 "That in the dispensation of the fulness of times he might gather together in
 one all things in Christ, both which are in heaven, and which are on earth. ..."
-([Eph. 1:10](https://www.lds.org/scriptures/nt/eph/1.10?lang=eng#9).)
+([Eph. 1:10](/scriptures/nt/eph/1.10?lang=eng#9).)
 
 We live in the dispensation of the fulness of times, and the coming of Elijah
 has brought the keys of his mission, and that is why we build these holy
@@ -226,18 +222,15 @@ John, while he was on the Isle of Patmos, didn't only see the power that Satan
 would have to make war with the saints and to reign over them all, but he "saw
 another angel fly in the midst of heaven, having the everlasting gospel to
 preach unto them that dwell on the earth, and to every nation, and kindred,
-and tongue, and people." ([Rev.
-14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5).)
+and tongue, and people." ([Rev. 14:6](/scriptures/nt/rev/14.6?lang=eng#5).)
 
 This would not have been necessary if there had been a continuation of the
 gospel. And then he said: "Fear God, and give glory to him; for the hour of
-his judgment is come. ..." ([Rev.
-14:7](https://www.lds.org/scriptures/nt/rev/14.7?lang=eng#6).) And we live in
-the day of his judgment.
+his judgment is come. ..." ([Rev. 14:7](/scriptures/nt/rev/14.7?lang=eng#6).)
+And we live in the day of his judgment.
 
 Then he adds: "... and worship him that made heaven, and earth, and the sea, and
-the fountains of waters." ([Rev.
-14:7](https://www.lds.org/scriptures/nt/rev/14.7?lang=eng#6).)
+the fountains of waters." ([Rev. 14:7](/scriptures/nt/rev/14.7?lang=eng#6).)
 
 At the time that Joseph Smith had his marvelous vision, there wasn't a church
 in the world worshiping the God who made the heavens and the earth and the sea
@@ -252,32 +245,28 @@ promised land. He told them that they would not remain there long, but that
 they would be scattered among the nations, and then he said: "And there ye
 shall serve gods, the work of men's hands, wood and stone, which neither see,
 nor hear, nor eat, nor smell." ([Deut.
-4:28](https://www.lds.org/scriptures/ot/deut/4.28?lang=eng#27).)
+4:28](/scriptures/ot/deut/4.28?lang=eng#27).)
 
 That is the kind of god this world was worshiping at the time Joseph Smith had
 his marvelous vision.
 
 But Moses saw something more. He saw that in the latter days (and we live in
 the latter days), if his people would search for him, they should surely find
-him. (See [Deut.
-4:29](https://www.lds.org/scriptures/ot/deut/4.29?lang=eng#28).) And Joseph
+him. (See [Deut. 4:29](/scriptures/ot/deut/4.29?lang=eng#28).) And Joseph
 Smith, answering that admonition in James, "If any of you lack wisdom, let him
 ask of God, that giveth to all men liberally, and upbraideth not; and it shall
-be given him" ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4)), went and sought
-after him, as Moses advised, and he found the true and the living God. We have
-a testimony to bear to all of the world to this event.
+be given him" ([James 1:5](/scriptures/nt/james/1.5?lang=eng#4)), went and
+sought after him, as Moses advised, and he found the true and the living God.
+We have a testimony to bear to all of the world to this event.
 
 I think of the words of the apostle Paul when he said that he determined to
 know nothing but Jesus and him crucified. (See [1 Cor.
-2:2](https://www.lds.org/scriptures/nt/1-cor/2.2?lang=eng#1).) That doesn't
-mean that he didn't know the old prophets or appreciate them, but a new day
-had come.
+2:2](/scriptures/nt/1-cor/2.2?lang=eng#1).) That doesn't mean that he didn't
+know the old prophets or appreciate them, but a new day had come.
 
 The Son of God had come, of whom the prophets had spoken, and then he said: "...
 for necessity is laid upon me; yea, woe is unto me, if I preach not the
-gospel!" ([1 Cor.
-9:16](https://www.lds.org/scriptures/nt/1-cor/9.16?lang=eng#15).)
+gospel!" ([1 Cor. 9:16](/scriptures/nt/1-cor/9.16?lang=eng#15).)
 
 In that same sense, we know nothing but the restoration of the gospel, that it
 was brought by the Son of Man himself, so that there is no separation from the
@@ -292,4 +281,6 @@ the Eternal Father, who will not mislead them.
 
 That is my witness and testimony to you, and I leave it in the name of the
 Lord Jesus Christ. Amen.
+
+## References
 

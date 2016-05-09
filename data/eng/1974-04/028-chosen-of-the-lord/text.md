@@ -22,11 +22,10 @@ place.
 When Jesus was upon the earth, he entered into his ministry and organized his
 church, and "he called unto him his disciples: and of them he chose twelve,
 whom also he named apostles." ([Luke
-6:13](https://www.lds.org/scriptures/nt/luke/6.13?lang=eng#12).) And he said
-to his apostles, "Verily I say unto you, Whatsoever ye shall bind on earth
-shall be bound in heaven: and whatsoever ye shall loose on earth shall be
-loosed in heaven." ([Matt.
-18:18](https://www.lds.org/scriptures/nt/matt/18.18?lang=eng#17).)
+6:13](/scriptures/nt/luke/6.13?lang=eng#12).) And he said to his apostles,
+"Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in
+heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
+([Matt. 18:18](/scriptures/nt/matt/18.18?lang=eng#17).)
 
 From this it is evident that he conferred upon each the fullness of the
 apostleship with its keys and authorities so that, should the time come, each
@@ -45,8 +44,8 @@ a translator, a prophet, an apostle of Jesus Christ, an elder of the church
 through the will of God the Father, and the grace of your Lord Jesus Christ.
 
 "Being inspired of the Holy Ghost to lay the foundation thereof, and to build
-it up unto the most holy faith." ([D&amp;C
-21:1-2](https://www.lds.org/scriptures/dc-testament/dc/21.1-2?lang=eng#0).)
+it up unto the most holy faith." ([D&amp;C 21:1-2](/scriptures/dc-
+testament/dc/21.1-2?lang=eng#0).)
 
 Though it was made known to the Prophet and Oliver Cowdery in June of 1829,
 before the Church was organized, that there would be twelve apostles and how
@@ -54,15 +53,15 @@ they were to be chosen, it was not until 1835 that the first Council of the
 Twelve was appointed. Then under the direction of the Lord through the Prophet
 Joseph Smith the Three Witnesses of the Book of Mormon were directed to select
 the twelve who were to be ordained apostles. (_Documentary History of the
-Church,_ vol. 2, pp. 186-87, [D&amp;C 18](https://www.lds.org/scriptures/dc-
-testament/dc/18.title?lang=eng).)
+Church,_ vol. 2, pp. 186-87, [D&amp;C 18](/scriptures/dc-
+testament/dc/18?lang=eng).)
 
 These men were chosen and ordained as apostles under the direction of Joseph
 the Prophet and were given the same authority as was given to Paul and other
 apostles during the time of Jesus Christ. It is recorded, "And they form a
 quorum, equal in authority and power to the three presidents previously
-mentioned" ([D&amp;C 107:24](https://www.lds.org/scriptures/dc-
-testament/dc/107.24?lang=eng#23)), meaning the Presidency of the Church.
+mentioned" ([D&amp;C 107:24](/scriptures/dc-testament/dc/107.24?lang=eng#23)),
+meaning the Presidency of the Church.
 
 Also we read in the _Documentary History of the Church:_ "President Smith next
 proceeded to explain the duty of the Twelve, and their authority, which is
@@ -245,8 +244,7 @@ sure that President Lee would certainly outlive him.
 On this occasion I thought of the Savior in the Garden of Gethsemane as he
 prayed: "... O my Father, if it be possible, let this cup pass from me:
 nevertheless not as I will, but as thou wilt." ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).) And he so
-accepted.
+26:39](/scriptures/nt/matt/26.39?lang=eng#38).) And he so accepted.
 
 He then chose and nominated as his first counselor N. Eldon Tanner and as his
 second counselor Marion G. Romney, each of whom expressed himself in all
@@ -310,8 +308,10 @@ yea, and the Lord God will disperse the powers of darkness from before you,
 and cause the heavens to shake for your good, and his name's glory.
 
 "For thus saith the Lord God: Him have I inspired to move the cause of Zion in
-mighty power for good. ..." ([D&amp;C 21:5-7](https://www.lds.org/scriptures/dc-
+mighty power for good. ..." ([D&amp;C 21:5-7](/scriptures/dc-
 testament/dc/21.5-7?lang=eng#4).)
 
 In the name of Jesus Christ. Amen.
+
+## References
 

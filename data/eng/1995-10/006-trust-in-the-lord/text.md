@@ -35,8 +35,7 @@ commandments.
 Just when all seems to be going right, challenges often come in multiple doses
 applied simultaneously. When those trials are not consequences of your
 disobedience, they are evidence that the Lord feels you are prepared to grow
-more (see [Prov.
-3:11-12](https://www.lds.org/scriptures/ot/prov/3.11-12?lang=eng#10)). He
+more (see [Prov. 3:11-12](/scriptures/ot/prov/3.11-12?lang=eng#10)). He
 therefore gives you experiences that stimulate growth, understanding, and
 compassion which polish you for your everlasting benefit. To get you from
 where you are to where He wants you to be requires a lot of stretching, and
@@ -58,10 +57,9 @@ This life is an experience in profound trust--trust in Jesus Christ, trust in
 His teachings, trust in our capacity as led by the Holy Spirit to obey those
 teachings for happiness now and for a purposeful, supremely happy eternal
 existence. To trust means to obey willingly without knowing the end from the
-beginning (see [Prov.
-3:5-7](https://www.lds.org/scriptures/ot/prov/3.5-7?lang=eng#4)). To produce
-fruit, your trust in the Lord must be more powerful and enduring than your
-confidence in your own personal feelings and experience.
+beginning (see [Prov. 3:5-7](/scriptures/ot/prov/3.5-7?lang=eng#4)). To
+produce fruit, your trust in the Lord must be more powerful and enduring than
+your confidence in your own personal feelings and experience.
 
 To exercise faith is to trust that the Lord knows what He is doing with you
 and that He can accomplish it for your eternal good even though you cannot
@@ -81,34 +79,33 @@ As in all things, the Master is our perfect example. Who could have asked with
 more perfect faith, greater obedience, or more complete understanding than did
 He when He asked His Father in Gethsemane: "O my Father, if it be possible,
 let this cup pass from me: nevertheless not as I will, but as thou wilt"
-([Matt. 26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38)).
-Later He pled twice again: "O my Father, if this cup may not pass away from
-me, except I drink it, thy will be done" ([Matt.
-26:42](https://www.lds.org/scriptures/nt/matt/26.42?lang=eng#41); see also
-[Matt. 26:44](https://www.lds.org/scriptures/nt/matt/26.44?lang=eng#43)).
+([Matt. 26:39](/scriptures/nt/matt/26.39?lang=eng#38)). Later He pled twice
+again: "O my Father, if this cup may not pass away from me, except I drink it,
+thy will be done" ([Matt. 26:42](/scriptures/nt/matt/26.42?lang=eng#41); see
+also [Matt. 26:44](/scriptures/nt/matt/26.44?lang=eng#43)).
 
 How grateful I am personally that our Savior taught we should conclude our
 most urgent, deeply felt prayers, when we ask for that which is of utmost
 importance to us, with "Thy will be done" ([Matt.
-26:42](https://www.lds.org/scriptures/nt/matt/26.42?lang=eng#41)). Your
-willingness to accept the will of the Father will not change what in His
-wisdom He has chosen to do. However, it will certainly change the effect of
-those decisions on you personally. That evidence of the proper exercise of
-agency allows His decisions to produce far greater blessings in your life. I
-have found that because of our Father's desire for us to grow, He may give us
-gentle, almost imperceptible promptings that, if we are willing to accept
-without complaint, He will enlarge to become a very clear indication of His
-will. This enlightenment comes because of our faith and our willingness to do
-what He asks even though we would desire something else.
+26:42](/scriptures/nt/matt/26.42?lang=eng#41)). Your willingness to accept the
+will of the Father will not change what in His wisdom He has chosen to do.
+However, it will certainly change the effect of those decisions on you
+personally. That evidence of the proper exercise of agency allows His
+decisions to produce far greater blessings in your life. I have found that
+because of our Father's desire for us to grow, He may give us gentle, almost
+imperceptible promptings that, if we are willing to accept without complaint,
+He will enlarge to become a very clear indication of His will. This
+enlightenment comes because of our faith and our willingness to do what He
+asks even though we would desire something else.
 
 Our Father in Heaven has invited you to express your needs, hopes, and desires
 unto Him. That should not be done in a spirit of negotiation, but rather as a
 willingness to obey His will no matter what direction that takes. His
 invitation, "Ask, and ye shall receive" ([3 Ne.
-27:29](https://www.lds.org/scriptures/bofm/3-ne/27.29?lang=eng#28)) does not
-assure that you will get what you _want._ It does guarantee that, if worthy,
-you will get what you _need,_ as judged by a Father that loves you perfectly,
-who wants your eternal happiness even more than do you.
+27:29](/scriptures/bofm/3-ne/27.29?lang=eng#28)) does not assure that you will
+get what you _want._ It does guarantee that, if worthy, you will get what you
+_need,_ as judged by a Father that loves you perfectly, who wants your eternal
+happiness even more than do you.
 
 I testify that when the Lord closes one important door in your life, He shows
 His continuing love and compassion by opening many other compensating doors
@@ -172,10 +169,12 @@ growth. But I witness that it is the best way there is for you to find
 strength and understanding. It will free you from the dead ends of your own
 reasoning. It will allow your life to become a productive, meaningful
 experience, when otherwise you may not know how to go on (see [D&amp;C
-24:8](https://www.lds.org/scriptures/dc-testament/dc/24.8?lang=eng#7)).
+24:8](/scriptures/dc-testament/dc/24.8?lang=eng#7)).
 
 I testify that you have a Heavenly Father who loves you. I witness that the
 Savior gave His life for your happiness. I know Him. He understands your every
 need. I positively know that as you accept Their will without complaint, They
 will bless and sustain you. In the name of Jesus Christ, amen.
+
+## References
 

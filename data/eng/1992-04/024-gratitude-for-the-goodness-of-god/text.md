@@ -22,7 +22,7 @@ The Savior tells us:
 "I came into the world to do the will of my Father, because my Father sent me.
 
 "And my Father sent me that I might be lifted up upon the cross." ([3 Ne.
-27:13-14](https://www.lds.org/scriptures/bofm/3-ne/27.13-14?lang=eng#12).)
+27:13-14](/scriptures/bofm/3-ne/27.13-14?lang=eng#12).)
 
 The Prophet Joseph Smith recorded:
 
@@ -30,8 +30,7 @@ The Prophet Joseph Smith recorded:
 to bear the sins of the world, and to sanctify the world, and to cleanse it
 from all unrighteousness;
 
-"That through him all might be saved." ([D&amp;C
-76:41-42](https://www.lds.org/scriptures/dc-
+"That through him all might be saved." ([D&amp;C 76:41-42](/scriptures/dc-
 testament/dc/76.41-42?lang=eng#40).)
 
 I bear my testimony in all gratitude for the knowledge that our Savior lives,
@@ -40,9 +39,9 @@ the Atonement for all mankind--that all will be resurrected. I am thankful for
 that knowledge.
 
 The Lord said, "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).) Our
-obedience to the laws, ordinances, and commandments is the greatest expression
-of love and gratitude that we can bestow upon him.
+14:15](/scriptures/nt/john/14.15?lang=eng#14).) Our obedience to the laws,
+ordinances, and commandments is the greatest expression of love and gratitude
+that we can bestow upon him.
 
 Gratitude is also the foundation upon which repentance is built.
 
@@ -56,8 +55,7 @@ repentance; but then he taught us, "Behold this my joy was vain, for their
 sorrowing was not unto repentance, _because of the goodness of God; _but it
 was rather the sorrowing of the damned, because the Lord would not always
 suffer them to take happiness in sin." ([Morm.
-2:13](https://www.lds.org/scriptures/bofm/morm/2.13?lang=eng#12); italics
-added.)
+2:13](/scriptures/bofm/morm/2.13?lang=eng#12); italics added.)
 
 Mormon teaches us that there will always be suffering and sorrow in sin, but
 to repent only because we feel bad or because we have suffered or because we
@@ -75,13 +73,11 @@ bread:
 
 "And _when he had given thanks, _he brake it, and said, Take, eat: this is my
 body, which is broken for you." ([1 Cor.
-11:23-24](https://www.lds.org/scriptures/nt/1-cor/11.23-24?lang=eng#22);
-italics added.)
+11:23-24](/scriptures/nt/1-cor/11.23-24?lang=eng#22); italics added.)
 
 "And he took the cup, _and when he had given thanks, _he gave it to them: and
-they all drank of it." ([Mark
-14:23](https://www.lds.org/scriptures/nt/mark/14.23?lang=eng#22); italics
-added.)
+they all drank of it." ([Mark 14:23](/scriptures/nt/mark/14.23?lang=eng#22);
+italics added.)
 
 Like the Savior, it is important for each of us to prepare ourselves to give
 thanks for the atoning sacrifice each week as we partake of the sacrament.
@@ -92,29 +88,25 @@ goodness of Jesus.
 Mary greeted Jesus. Her brother, Lazarus, had died. Jesus saw her weeping, and
 the Jews who came with her were also weeping. Jesus, in great compassion,
 "groaned in the spirit, and was troubled." ([John
-11:33](https://www.lds.org/scriptures/nt/john/11.33?lang=eng#32).) Jesus
-asked, "Where have ye laid him?" ([John
-11:34](https://www.lds.org/scriptures/nt/john/11.34?lang=eng#33).) "Jesus
-wept." ([John
-11:35](https://www.lds.org/scriptures/nt/john/11.35?lang=eng#34).)
+11:33](/scriptures/nt/john/11.33?lang=eng#32).) Jesus asked, "Where have ye
+laid him?" ([John 11:34](/scriptures/nt/john/11.34?lang=eng#33).) "Jesus
+wept." ([John 11:35](/scriptures/nt/john/11.35?lang=eng#34).)
 
 "Then they took away the stone from the place where the dead was laid. And
 Jesus lifted up his eyes, and said, Father, _I thank thee that thou hast heard
-me._" ([John 11:41](https://www.lds.org/scriptures/nt/john/11.41?lang=eng#40);
-italics added.)
+me._" ([John 11:41](/scriptures/nt/john/11.41?lang=eng#40); italics added.)
 
 And then Jesus asked Lazarus to come forth from the dead. (See [John
-11:43](https://www.lds.org/scriptures/nt/john/11.43?lang=eng#42).)
+11:43](/scriptures/nt/john/11.43?lang=eng#42).)
 
 Might it be well for us to remember to give thanks to our Heavenly Father
 prior to asking for his help in solving our problems?
 
-[John 6:5-14](https://www.lds.org/scriptures/nt/john/6.5-14?lang=eng#4)
-beautifully tells the account of Jesus and the five loaves and two fishes:
+[John 6:5-14](/scriptures/nt/john/6.5-14?lang=eng#4) beautifully tells the
+account of Jesus and the five loaves and two fishes:
 
 "And Jesus took the loaves; _and when he had given thanks, _he distributed to
-the disciples." ([John
-6:11](https://www.lds.org/scriptures/nt/john/6.11?lang=eng#10); italics
+the disciples." ([John 6:11](/scriptures/nt/john/6.11?lang=eng#10); italics
 added.)
 
 On another occasion, the disciples of Jesus prayed earnestly for the Holy
@@ -127,8 +119,7 @@ out of the world.
 
 "Father, I pray thee that thou wilt give the Holy Ghost unto all them that
 shall believe in their words." ([3 Ne.
-19:20-21](https://www.lds.org/scriptures/bofm/3-ne/19.20-21?lang=eng#19);
-italics added.)
+19:20-21](/scriptures/bofm/3-ne/19.20-21?lang=eng#19); italics added.)
 
 Prayer is an essential part of conveying appreciation to our Heavenly Father.
 He awaits our expressions of gratefulness each morning and night in sincere,
@@ -137,11 +128,10 @@ simple prayer from our hearts for our many blessings, gifts, and talents.
 Through expression of prayerful gratitude and thanksgiving, we show our
 dependence upon a higher source of wisdom and knowledge--God the Father and
 his Son, our Lord and Savior Jesus Christ. We are taught to "live in
-thanksgiving daily." ([Alma
-34:38](https://www.lds.org/scriptures/bofm/alma/34.38?lang=eng#37).)
+thanksgiving daily." ([Alma 34:38](/scriptures/bofm/alma/34.38?lang=eng#37).)
 
 "O how you ought to thank your heavenly King!" King Benjamin taught. ([Mosiah
-2:19](https://www.lds.org/scriptures/bofm/mosiah/2.19?lang=eng#18).)
+2:19](/scriptures/bofm/mosiah/2.19?lang=eng#18).)
 
 As the years pass, I become more grateful for my parents. They lived the
 gospel, studied the scriptures, and bore testimony of God the Father and his
@@ -209,12 +199,11 @@ We must remember to give thanks to our Heavenly Father for the blessings and
 gifts that have been given to us.
 
 "And ye must give thanks unto God in the Spirit for whatsoever blessing ye are
-blessed with." ([D&amp;C 46:32](https://www.lds.org/scriptures/dc-
+blessed with." ([D&amp;C 46:32](/scriptures/dc-
 testament/dc/46.32?lang=eng#31).)
 
 "And all these gifts come from God, for the benefit of the children of God."
-([D&amp;C 46:26](https://www.lds.org/scriptures/dc-
-testament/dc/46.26?lang=eng#25).)
+([D&amp;C 46:26](/scriptures/dc-testament/dc/46.26?lang=eng#25).)
 
 As the Presiding Bishop, I am grateful for the members of this church who so
 willingly give of their time, their means, and their talents through tithes
@@ -247,8 +236,8 @@ help and assistance from the gifts and talents possessed by others.
 
 Gratitude is a divine principle:
 
-"Thou shalt thank the Lord thy God in all things." ([D&amp;C
-59:7](https://www.lds.org/scriptures/dc-testament/dc/59.7?lang=eng#6).)
+"Thou shalt thank the Lord thy God in all things." ([D&amp;C 59:7](/scriptures
+/dc-testament/dc/59.7?lang=eng#6).)
 
 This scripture means that we express thankfulness for what happens, not only
 for the good things in life but also for the opposition and challenges of life
@@ -261,4 +250,6 @@ gratitude and acknowledging that we will accept whatever happens in our lives.
 That we may feel true gratitude for the goodness of God for all the blessings
 that have been given to us and express those feelings of thankfulness in
 prayer to our Heavenly Father is my prayer in the name of Jesus Christ, amen.
+
+## References
 

@@ -96,16 +96,16 @@ love always works for our eternal progress and not against it.
 
 One who loves has and feels responsibility. Paul in 1 Corinthians says love
 thinketh no evil, is not self-seeking, is long-suffering, and is kind. (See [1
-Cor. 13:4-5](https://www.lds.org/scriptures/nt/1-cor/13.4-5?lang=eng#3).) If
-we look at love between two who are preparing for temple marriage, we see the
-elements of sacrifice and of serving each other's best interests, not a
-shortsighted "me" interest. True love and happiness in courtship and marriage
-are based upon honesty, self-respect, sacrifice, consideration, courtesy,
-kindness, and placing "we" ahead of "me." Those who would have us forfeit
-virtue and chastity to prove our love in sexual participation out of wedlock
-are neither friends nor eternally family-oriented. To classify them as selfish
-and unwise is not too severe. Those who serve the flesh will never know the
-love and fruits of purity.
+Cor. 13:4-5](/scriptures/nt/1-cor/13.4-5?lang=eng#3).) If we look at love
+between two who are preparing for temple marriage, we see the elements of
+sacrifice and of serving each other's best interests, not a shortsighted "me"
+interest. True love and happiness in courtship and marriage are based upon
+honesty, self-respect, sacrifice, consideration, courtesy, kindness, and
+placing "we" ahead of "me." Those who would have us forfeit virtue and
+chastity to prove our love in sexual participation out of wedlock are neither
+friends nor eternally family-oriented. To classify them as selfish and unwise
+is not too severe. Those who serve the flesh will never know the love and
+fruits of purity.
 
 A new convert to the Church recently shared this story. "I was in and out of
 enforced confinement most of my teen years. It wasn't so bad being there
@@ -171,8 +171,7 @@ proportion to our service and commitment to the gospel.
 
 The greatest example of love available to all of us is, of course, found in
 the scripture from John: "For God so loved the world, that he gave his only
-begotten Son." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).) By the
+begotten Son." ([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).) By the
 greatest of all acts of love and by this supreme sacrifice, God set the
 pattern. He demonstrated to us that His love was unconditional and sufficient
 to encircle every person.
@@ -186,8 +185,7 @@ thou?" The accusers walked away one by one when Jesus encouraged the one
 without sin to cast the first stone. We recall that Jesus asked of the woman,
 "Where are those thine accusers? hath no man condemned thee?" She answered "No
 man, Lord." And Jesus said to her, "Neither do I condemn thee: go, and sin no
-more." (See [John
-8:1-11](https://www.lds.org/scriptures/nt/john/8.1-11?lang=eng#0).)
+more." (See [John 8:1-11](/scriptures/nt/john/8.1-11?lang=eng#0).)
 
 Jesus did not condone adultery; there is no doubt about His attitude toward
 proper moral conduct. He chose to teach with love--to show the scribes and
@@ -206,8 +204,7 @@ priorities in our lives.
 We live in a complex world. There are many forces calling out, "Love me." A
 sure way to set our guidelines for that which we choose to serve and learn to
 love is to follow the admonition of Joshua: "As for me and my house, we will
-serve the Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+serve the Lord." ([Josh. 24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 Let us look to our own lives. We serve that which we love. If we sacrifice and
 give our love for that which our Father in Heaven asks of us, it will help us
@@ -217,4 +214,6 @@ time is what we love.
 
 May God help us to love the right, love the truth, and love areas of service
 that are rewarding and eternal, I pray in the name of Jesus Christ, amen.
+
+## References
 

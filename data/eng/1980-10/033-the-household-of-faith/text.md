@@ -3,11 +3,9 @@
 My dear brothers and sisters, the greatest test for any generation is how it
 responds to the voice of the prophets. Our prophets have admonished us to--
 
-  1. Increase our personal righteousness.
-
-  2. Live within our means and get out of debt.
-
-  3. Produce, can, and store enough food, clothing, and, where possible, fuel for one year.
+  1. Increase our personal righteousness. 
+  2. Live within our means and get out of debt. 
+  3. Produce, can, and store enough food, clothing, and, where possible, fuel for one year. 
 
 This straightforward counsel has not been followed by all of you. Some have
 believed and complied; others have waited until they could be sure the storm
@@ -79,20 +77,20 @@ prayers, to answer them in the day of their trouble.
 
 "In the day of their peace," he explains, "they esteemed lightly my counsel;
 but, in the day of their trouble, of necessity they feel after me." ([D&amp;C
-101:7-8](https://www.lds.org/scriptures/dc-testament/dc/101.7-8?lang=eng#6).)
+101:7-8](/scriptures/dc-testament/dc/101.7-8?lang=eng#6).)
 
 Later in this same revelation a very powerful lesson is taught in the parable
 of the husbandmen. You will recall that husbandmen were hired to plant twelve
 olive trees in the vineyard, to build a hedge around it, to build a tower, and
 to set a watchman thereon. As they counseled together, however, they couldn't
 understand why the Lord would have need for a tower, "seeing this is a time of
-peace" ([D&amp;C 101:48](https://www.lds.org/scriptures/dc-
-testament/dc/101.48?lang=eng#47)). While they held a committee meeting,
-contending, "at variance one with another they became very slothful. ...
+peace" ([D&amp;C 101:48](/scriptures/dc-testament/dc/101.48?lang=eng#47)).
+While they held a committee meeting, contending, "at variance one with another
+they became very slothful. ...
 
 "And the enemy came by night, and broke down the hedge," scattered the
 frightened servants, and "destroyed their works, and broke down the olive
-trees." ([D&amp;C 101:50-51](https://www.lds.org/scriptures/dc-
+trees." ([D&amp;C 101:50-51](/scriptures/dc-
 testament/dc/101.50-51?lang=eng#49).) It was a terrible way to learn the
 consequences of disobedience. How much better just to follow the simple
 instruction of the Master.
@@ -106,25 +104,23 @@ bone, muscle, and sinew of the church of God in every age. They form the
 household of faith. Here are some classic statements from their ranks:
 
 "I know not, save the Lord commanded me" ([Moses
-5:6](https://www.lds.org/scriptures/pgp/moses/5.6?lang=eng#5)).
+5:6](/scriptures/pgp/moses/5.6?lang=eng#5)).
 
 "As for me and my house, we will serve the Lord" ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14)).
+24:15](/scriptures/ot/josh/24.15?lang=eng#14)).
 
 "I will go and do the things which the Lord hath commanded" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)).
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)).
 
 "Behold the handmaid of the Lord; be it unto me according to thy word" ([Luke
-1:38](https://www.lds.org/scriptures/nt/luke/1.38?lang=eng#37)).
+1:38](/scriptures/nt/luke/1.38?lang=eng#37)).
 
 "I ... feel to say to the Lord, humbly, 'Give me this mountain' ([Josh.
-14:12](https://www.lds.org/scriptures/ot/josh/14.12?lang=eng#11)), give me
-these challenges. ...
+14:12](/scriptures/ot/josh/14.12?lang=eng#11)), give me these challenges. ...
 
 "I will 'wholly follow the Lord my God' (see [Josh.
-14:8](https://www.lds.org/scriptures/ot/josh/14.8?lang=eng#7)) to the fullest
-extent of my energy and ability." (Spencer W. Kimball, in Conference Report,
-Oct. 1979, p. 115.)
+14:8](/scriptures/ot/josh/14.8?lang=eng#7)) to the fullest extent of my energy
+and ability." (Spencer W. Kimball, in Conference Report, Oct. 1979, p. 115.)
 
 Brothers and sisters, we do not always know why the Lord commands us to do
 certain things. His ways are not man's ways. But this much we do know--his
@@ -274,11 +270,12 @@ for good to them that walk uprightly, and to the sanctification of the church.
 righteousness;
 
 "And all that call upon the name of the Lord, and keep his commandments, shall
-be saved." ([D&amp;C 100:15-17](https://www.lds.org/scriptures/dc-
+be saved." ([D&amp;C 100:15-17](/scriptures/dc-
 testament/dc/100.15-17?lang=eng#14).)
 
 Such a people will be known as the "household of faith" ([D&amp;C
-121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44)).
-That we may be found in their midst is my prayer, in the name of Jesus Christ,
-amen.
+121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)). That we may be found
+in their midst is my prayer, in the name of Jesus Christ, amen.
+
+## References
 

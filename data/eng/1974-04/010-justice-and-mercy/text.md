@@ -6,8 +6,7 @@ of Solomon: "My son, despise not the chastening of the Lord; neither be weary
 of his correction:
 
 "For whom the Lord loveth he correcteth; even as a father the son in whom he
-delighteth." ([Prov.
-3:11-12](https://www.lds.org/scriptures/ot/prov/3.11-12?lang=eng#10).)
+delighteth." ([Prov. 3:11-12](/scriptures/ot/prov/3.11-12?lang=eng#10).)
 
 The Lord found it necessary to call to the attention of some of the brethren
 in the early days of the Church their negligence in doing all that they
@@ -25,8 +24,7 @@ thy house. ...
 "My servant Newel K. Whitney also ... hath need to be chastened, and set in
 order his family, and see that they are more diligent and concerned at home,
 and pray always, or they shall be removed out of their place." ([D&amp;C
-93:40-42, 44, 50](https://www.lds.org/scriptures/dc-
-testament/dc/93.40-42%2C44%2C50?lang=eng#39).)
+93:40-42, 44, 50](/scriptures/dc-testament/dc/93.40-42,44,50?lang=eng#39).)
 
 When the Prophet Joseph reluctantly permitted Martin Harris to take part of
 the manuscript of the Book of Mormon, and they were lost, the Lord reproved
@@ -55,8 +53,7 @@ been with you in every time of trouble. ...
 "But remember, God is merciful; therefore, repent of that which thou hast done
 which is contrary to the commandment which I gave you, and thou art still
 chosen, and art again called to the work." ([D&amp;C 3:1-4, 7-8,
-10](https://www.lds.org/scriptures/dc-
-testament/dc/3.1-4%2C7-8%2C10?lang=eng#0).)
+10](/scriptures/dc-testament/dc/3.1-4,7-8,10?lang=eng#0).)
 
 One of the basic concepts of forgiveness is that one must be truly repentant,
 having satisfied justice before forgiveness can take place. The Prophet Joseph
@@ -71,14 +68,14 @@ Kimball, _The Miracle of Forgiveness,_ Bookcraft, 1969, p. 358.)
 
 An eternal aspect of justice has been decreed by divine law, that "... God is
 not mocked: for whatsoever a man soweth, that shall he also reap." ([Gal.
-6:7](https://www.lds.org/scriptures/nt/gal/6.7?lang=eng#6).)
+6:7](/scriptures/nt/gal/6.7?lang=eng#6).)
 
 The gospel of Jesus Christ is founded on law for the salvation and blessing of
 its people. For every law the Lord gives us, there is also a penalty for its
 violation. The prophet Alma explained this very plainly: "Now," he said, "how
 could a man repent except he should sin? How could he sin if there was no law?
 How could there be a law save there was a punishment?" ([Alma
-42:17](https://www.lds.org/scriptures/bofm/alma/42.17?lang=eng#16).)
+42:17](/scriptures/bofm/alma/42.17?lang=eng#16).)
 
 President Stephen L Richards said: "The Savior himself declared that he came
 to fulfill the law, not to do away with it, but with the law he brought the
@@ -106,7 +103,7 @@ which is her own; and thus, none but the truly penitent are saved.
 
 "What, do ye suppose that mercy can rob justice? I say unto you, Nay; not one
 whit. If so, God would cease to be God." ([Alma
-42:24-25](https://www.lds.org/scriptures/bofm/alma/42.24-25?lang=eng#23).)
+42:24-25](/scriptures/bofm/alma/42.24-25?lang=eng#23).)
 
 How plain, then, is the logic as to the necessity of taking appropriate action
 in case of serious transgression. The need is to cleanse the Church and to
@@ -115,7 +112,7 @@ help to bring about full repentance to the individual.
 President Lee said as he spoke to the Brethren in 1972: "Now, this doesn't
 mean when we have to take action that we turn our backs on him who has sinned,
 ... we don't do [that]--we should try not to do it. But we have to be like
-fathers--sometimes we have to discipline ... , we have to spank them, then we
+fathers--sometimes we have to discipline ..., we have to spank them, then we
 have to love them. It is the doctrine of the Lord, and we should do that in
 kindness. It seems to me, that there comes a time in the lives of those who
 have sinned so seriously that, short of disciplinary action, I think some men
@@ -144,12 +141,12 @@ is predicated." (_Strengthening the Home,_ 1973, p. 5.)
 How then, does forgiveness become operative? When is repentance recognized?
 
 True godly sorrow, which the scriptures tell us "worketh repentance to
-salvation ... ," is the first step in repentance. ([2 Cor.
-7:10](https://www.lds.org/scriptures/nt/2-cor/7.10?lang=eng#9).) Confession of
-sins logically follows godly sorrow, prompted by an earnest desire for relief
-from the suffering brought about by positive realization of wrongdoing.
-Confession should be made to demonstrate one's humility and his determination
-to make restitution for the transgressions.
+salvation ..., " is the first step in repentance. ([2 Cor.
+7:10](/scriptures/nt/2-cor/7.10?lang=eng#9).) Confession of sins logically
+follows godly sorrow, prompted by an earnest desire for relief from the
+suffering brought about by positive realization of wrongdoing. Confession
+should be made to demonstrate one's humility and his determination to make
+restitution for the transgressions.
 
 To whom should confession be made? To quote President Richards, "To the Lord,
 of course, whose law has been violated. To the aggrieved person or persons, as
@@ -161,7 +158,7 @@ the Kingdom." (_CR,_ April 1954, pp. 11-12.)
 Closely associated with confession is the matter of probation--of
 demonstration. The Lord said: "By this may ye know if a man repenteth of his
 sins--behold, he will confess them and forsake them." ([D&amp;C
-58:43](https://www.lds.org/scriptures/dc-testament/dc/58.43?lang=eng#42).)
+58:43](/scriptures/dc-testament/dc/58.43?lang=eng#42).)
 
 How may the judge know when repentance is adequate? The individual might
 become impatient as he demonstrates his repentance. But it has been said that
@@ -174,12 +171,11 @@ genuineness of repentance and worthiness for restored confidence." (_CR,_
 April 1954, p. 12.)
 
 Yes, "for whom the Lord loveth he correcteth; even as a father the son in whom
-he delighteth." ([Prov.
-3:12](https://www.lds.org/scriptures/ot/prov/3.12?lang=eng#11).)
+he delighteth." ([Prov. 3:12](/scriptures/ot/prov/3.12?lang=eng#11).)
 
 "For God so loved the world, that he gave his only begotten Son, that
 whosoever believeth in him should not perish, but have everlasting life."
-([John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 Were it not for the atonement of Jesus Christ, in which he assumed our sins on
 condition of our repentance, man could not be forgiven. Even though we were
@@ -206,7 +202,7 @@ which is her own; and thus, none but the truly penitent are saved.
 
 "What, do ye suppose that mercy can rob justice? I say unto you, Nay; not one
 whit. If so, God would cease to be God." ([Alma
-42:22-25](https://www.lds.org/scriptures/bofm/alma/42.22-25?lang=eng#21).)
+42:22-25](/scriptures/bofm/alma/42.22-25?lang=eng#21).)
 
 The prophet Alma said, in recounting the words of Amulek, "... If ye will
 repent, and harden not your hearts, then will I have mercy upon you, through
@@ -215,8 +211,10 @@ mine Only Begotten Son;
 "Therefore, whosoever repenteth, and hardeneth not his heart, he shall have
 claim on mercy through mine Only Begotten Son, unto a remission of his sins;
 and these shall enter into my rest." ([Alma
-12:33-34](https://www.lds.org/scriptures/bofm/alma/12.33-34?lang=eng#32).)
+12:33-34](/scriptures/bofm/alma/12.33-34?lang=eng#32).)
 
 May we so enjoy the blessings of the gospel. I leave you my testimony of the
 divinity of this great work in the name of Jesus Christ. Amen.
+
+## References
 

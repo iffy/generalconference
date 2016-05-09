@@ -128,6 +128,8 @@ This freedom can only be found by accepting the divine plan and keeping the
 commandments of him who gave his life for each of us that we might find
 eternal life--even Jesus Christ. For did he not say: "And ye shall know the
 truth, and the truth shall make you free"? ([John
-8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31).) In the name
-of Jesus Christ. Amen.
+8:32](/scriptures/nt/john/8.32?lang=eng#31).) In the name of Jesus Christ.
+Amen.
+
+## References
 

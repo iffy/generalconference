@@ -3,13 +3,12 @@
 My fellowmen, it matters so very much how we regard and view Jesus Christ.
 Some seek to substitute Caesars for Christ. Others are blinded because they
 are "looking beyond the mark" ([Jacob
-4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13)) when the
-mark is Christ. Many sects--without the reinforcing rods of revelation--have
-been badly shaken by theological tremors; the resulting ecclesiastical erosion
-has been so rapid it is measured in months, not centuries. Some crusaders
-without a cross have actually removed the divinity of Jesus Christ from the
-center of their doctrines--only to see all the other doctrinal dominoes
-tumble, too.
+4:14](/scriptures/bofm/jacob/4.14?lang=eng#13)) when the mark is Christ. Many
+sects--without the reinforcing rods of revelation--have been badly shaken by
+theological tremors; the resulting ecclesiastical erosion has been so rapid it
+is measured in months, not centuries. Some crusaders without a cross have
+actually removed the divinity of Jesus Christ from the center of their
+doctrines--only to see all the other doctrinal dominoes tumble, too.
 
 Thus, foolishness, fear, and fashion have flattened the theology of many. For
 them, there is neither shelter nor landmark on the horizon.
@@ -21,7 +20,7 @@ eccentric, because they are so Christocentric!
 This people strives to follow the counsel of the resurrected Savior, who said,
 "Hold up your light ... unto the world. Behold I am the light which ye shall
 hold up--that which ye have seen me do." ([3 Ne.
-18:24](https://www.lds.org/scriptures/bofm/3-ne/18.24?lang=eng#23).)
+18:24](/scriptures/bofm/3-ne/18.24?lang=eng#23).)
 
 Today I desire to hold up that light by testifying of Jesus Christ and what he
 has done according to what I know, have seen, felt, and heard in my life. This
@@ -45,14 +44,14 @@ brightest mortals in those fields and that his intellect in scope and truth
 far exceeds all human intellects. I thank him for encapsulating that exquisite
 mind in both perfect love and perfect humility. His brilliance is not the
 "catch-me-if-you-can" kind, but a pleading and patient, "Come, follow me."
-([Luke 18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).)
+([Luke 18:22](/scriptures/nt/luke/18.22?lang=eng#21).)
 
 I testify that his premortal performance reflected both an astonishing
 selflessness and a breathtaking commitment to freedom as a condition of our
 genuine growth. I thank him for combining his long view of our needs with a
 short step forward to volunteer his services. Never has anyone offered so much
 to so many in so few words as when Jesus said, "Here am I, send me." ([Abr.
-3:27](https://www.lds.org/scriptures/pgp/abr/3.27?lang=eng#26).)
+3:27](/scriptures/pgp/abr/3.27?lang=eng#26).)
 
 I testify that he assisted in the creation and management not only of this
 planet, but other worlds. His grasp is galactic, yet he noticed the widow
@@ -97,13 +96,12 @@ all that was set before him.
 
 I testify that the Jehovah introduced by thunderings and lightnings to a
 gathered Israel at Sinai (see [Ex.
-19:16-18](https://www.lds.org/scriptures/ot/ex/19.16-18?lang=eng#15)) is the
-same Jesus who later lamented, "O Jerusalem, Jerusalem ... how often would I
-have gathered thy children together, even as a hen gathereth her chickens
-under her wings." ([Matt.
-23:37](https://www.lds.org/scriptures/nt/matt/23.37?lang=eng#36).) I thank him
-for such repeated reachings out to mankind, whether in phenomenal power or in
-quiet conversation at a wellside.
+19:16-18](/scriptures/ot/ex/19.16-18?lang=eng#15)) is the same Jesus who later
+lamented, "O Jerusalem, Jerusalem ... how often would I have gathered thy
+children together, even as a hen gathereth her chickens under her wings."
+([Matt. 23:37](/scriptures/nt/matt/23.37?lang=eng#36).) I thank him for such
+repeated reachings out to mankind, whether in phenomenal power or in quiet
+conversation at a wellside.
 
 I testify that he is the Perfect Example and Leader, not asking us to do what
 he has not done, not asking us to endure what he has not endured, giving us
@@ -140,4 +138,6 @@ Last of all, I witness that he lives--with all that those simple words imply.
 I know I will be held accountable for this testimony; but, as hearers or
 readers, you are now accountable for my witness--which I give in the very name
 of Jesus Christ. Amen.
+
+## References
 

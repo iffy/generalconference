@@ -31,7 +31,7 @@ answer. He was talking to church members when he said:
 "And now behold, I ask of you, my brethren of the church, have ye spiritually
 been born of God? Have ye received his image in your countenances? Have ye
 received this mighty change in your hearts?" ([Alma
-5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13).)
+5:14](/scriptures/bofm/alma/5.14?lang=eng#13).)
 
 What a challenging question not only to them, but to us also! If we truly
 accept God in our lives and live in accordance with his commandments, God will
@@ -45,8 +45,7 @@ someday each one of us must face:
 
 "I say unto you, can ye look up to God at that day with a pure heart and clean
 hands? I say unto you, can you look up, having the image of God engraven upon
-your countenances?" ([Alma
-5:19](https://www.lds.org/scriptures/bofm/alma/5.19?lang=eng#18).)
+your countenances?" ([Alma 5:19](/scriptures/bofm/alma/5.19?lang=eng#18).)
 
 I dare not say that Mormons are perfect, for you know as well as I do that we
 each have many human faults. We do, however, call ourselves saints as did the
@@ -65,8 +64,7 @@ God. As the apostle Paul said in writing to the Philippians:
 "I press toward the mark for the prize of the high calling of God in Christ
 Jesus. Let us therefore, as many as [would] be [come] perfect, be thus minded:
 and if in anything ye be otherwise minded, God shall reveal even this unto
-you." ([Philip.
-3:14-15](https://www.lds.org/scriptures/nt/philip/3.14-15?lang=eng#13).)
+you." ([Philip. 3:14-15](/scriptures/nt/philip/3.14-15?lang=eng#13).)
 
 Thus we should seek to overcome any discovered fault in our characters which
 tends to take us away from a total commitment to God.
@@ -102,7 +100,7 @@ people of King Benjamin that we know of a surety of the truth of the gospel:
 "... because of the Spirit of the Lord God Omnipotent, which has wrought a
 mighty change in us, or in our hearts, that we have no more disposition to do
 evil, but to do good continually." ([Mosiah
-5:2](https://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1).)
+5:2](/scriptures/bofm/mosiah/5.2?lang=eng#1).)
 
 When I speak then of total commitment, I do not refer to a momentary
 dedication which comes from being filled with the Spirit of God only on
@@ -153,8 +151,7 @@ living God;
 temptation;
 
 "Yea, and even let those who are sanctified take heed also." ([D&amp;C
-20:31-34](https://www.lds.org/scriptures/dc-
-testament/dc/20.31-34?lang=eng#30).)
+20:31-34](/scriptures/dc-testament/dc/20.31-34?lang=eng#30).)
 
 As I understand this scripture, it means that Jesus Christ is kind and
 merciful to us when we serve him with our whole hearts, but not any of us can
@@ -176,4 +173,6 @@ us back into his very presence. I invite all of you who hear my voice or who
 read this message to take heed as the scriptures have indicated, and that you
 rededicate yourselves in a total commitment to serve the Lord with all your
 heart, might, mind, and strength. I so pray in the name of Jesus Christ. Amen.
+
+## References
 

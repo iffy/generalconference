@@ -12,14 +12,13 @@ Apostles, except in small measure.
 The doctrine of the priesthood is known only by personal revelation. It comes,
 line upon line and precept upon precept, by the power of the Holy Ghost to
 those who love and serve God with all their heart, might, mind, and strength.
-(See [D&amp;C 98:12](https://www.lds.org/scriptures/dc-
-testament/dc/98.12?lang=eng#11).)
+(See [D&amp;C 98:12](/scriptures/dc-testament/dc/98.12?lang=eng#11).)
 
 We have the revealed promise that if our souls are "full of charity towards
 all men, and to the household of faith" and if we "let virtue garnish [our]
 thoughts unceasingly; then shall [our] confidence wax strong in the presence
 of God; and the doctrine of the priesthood shall distil upon [our souls] as
-the dews from heaven." ([D&amp;C 121:45](https://www.lds.org/scriptures/dc-
+the dews from heaven." ([D&amp;C 121:45](/scriptures/dc-
 testament/dc/121.45?lang=eng#44).)
 
 I have wondered and pondered and prayed about how best to proclaim the
@@ -30,14 +29,12 @@ forth the word by ten thousand trumpets, then men would hear the message.
 
 But I remember how Alma wished that he might go forth and speak with the trump
 of God, with a voice to shake the earth, as he cried repentance unto every
-people. (See [Alma
-29:1](https://www.lds.org/scriptures/bofm/alma/29.1?lang=eng#0).)
+people. (See [Alma 29:1](/scriptures/bofm/alma/29.1?lang=eng#0).)
 
 And I know that the Lord does not work in this way. His word goes forth by the
 mouths of his servants as they minister and labor in their weakness. That word
 is then carried into receptive hearts by the still small voice of the Spirit.
-(See [D&amp;C 85:6](https://www.lds.org/scriptures/dc-
-testament/dc/85.6?lang=eng#5).)
+(See [D&amp;C 85:6](/scriptures/dc-testament/dc/85.6?lang=eng#5).)
 
 How else than by the power of the Spirit can any of us ever understand
 spiritual truths? How does one describe an infinite God in finite terms?
@@ -53,7 +50,7 @@ bless our fellows and save ourselves.
 
 What, then, is the doctrine of the priesthood? What is this doctrine, framed
 in the courts above, which can distil upon faithful men as the dews from
-heaven? (See [D&amp;C 121:45](https://www.lds.org/scriptures/dc-
+heaven? (See [D&amp;C 121:45](/scriptures/dc-
 testament/dc/121.45?lang=eng#44).)
 
 Priesthood is power like none other on earth or in heaven. It is the very
@@ -86,10 +83,10 @@ to be ministers of Christ, and to come here in our appointed days, and to
 labor on his errand.
 
 The holy priesthood did more to perfect men in the days of Enoch than at any
-other time. Known then as the order of Enoch (see [D&amp;C
-76:57](https://www.lds.org/scriptures/dc-testament/dc/76.57?lang=eng#56)), it
-was the power by which he and his people were translated. And they were
-translated because they had faith and exercised the power of the priesthood.
+other time. Known then as the order of Enoch (see [D&amp;C 76:57](/scriptures
+/dc-testament/dc/76.57?lang=eng#56)), it was the power by which he and his
+people were translated. And they were translated because they had faith and
+exercised the power of the priesthood.
 
 It was with Enoch that the Lord made an eternal covenant that all who received
 the priesthood would have power, through faith, to govern and control all
@@ -112,9 +109,8 @@ Jesus Christ himself and by virtue of which he was able to gain eternal life
 in the kingdom of his Father.
 
 Both of these priesthoods are given by covenant. (See [D&amp;C
-84:33-41](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-41?lang=eng#32).) Both of them surpass any earthly power;
-both of them prepare men for salvation.
+84:33-41](/scriptures/dc-testament/dc/84.33-41?lang=eng#32).) Both of them
+surpass any earthly power; both of them prepare men for salvation.
 
 Those who receive the Aaronic Priesthood covenant and promise to magnify their
 callings, to serve in the ministry of the Master, to forsake the world, and to
@@ -126,10 +122,10 @@ Melchizedek Priesthood, out of which eternal life comes.
 
 Those who receive the Melchizedek Priesthood covenant and promise, before God
 and angels, to magnify their callings, to "live by every word that proceedeth
-forth from the mouth of God" ([D&amp;C 84:44](https://www.lds.org/scriptures
-/dc-testament/dc/84.44?lang=eng#43)), to marry for time and all eternity in
-the patriarchal order, and to live and serve as the Lord Jesus did in his life
-and ministry.
+forth from the mouth of God" ([D&amp;C 84:44](/scriptures/dc-
+testament/dc/84.44?lang=eng#43)), to marry for time and all eternity in the
+patriarchal order, and to live and serve as the Lord Jesus did in his life and
+ministry.
 
 In return the Lord covenants and promises to give them all that his Father
 hath, meaning eternal life, which is exaltation and godhood in that eternal
@@ -138,7 +134,7 @@ realm where alone the family unit continues in eternity.
 In return the Lord admits them to his eternal patriarchal order, an order that
 prevails in the highest heaven of the celestial world, an order that assures
 its members of eternal increase, or in other words of spirit children in the
-resurrection. (See [D&amp;C 131:1-4](https://www.lds.org/scriptures/dc-
+resurrection. (See [D&amp;C 131:1-4](/scriptures/dc-
 testament/dc/131.1-4?lang=eng#0).)
 
 These are the most glorious promises given to men. There neither is nor can be
@@ -156,13 +152,11 @@ like exaltation if we are true and faithful in all things.
 
 Speaking messianically of the Lord Jesus, David said, "The Lord hath sworn,
 and will not repent, Thou art a priest for ever after the order of
-Melchizedek." ([Ps.
-110:4](https://www.lds.org/scriptures/ot/ps/110.4?lang=eng#3).)
+Melchizedek." ([Ps. 110:4](/scriptures/ot/ps/110.4?lang=eng#3).)
 
 And Paul, after quoting this messianic word, this eternal oath sworn by God
 himself, said that Christ was "called of God an high priest after the order of
-Melchisedec." ([Heb.
-5:10](https://www.lds.org/scriptures/nt/heb/5.10?lang=eng#9).)
+Melchisedec." ([Heb. 5:10](/scriptures/nt/heb/5.10?lang=eng#9).)
 
 Then of Melchizedek, to whom Abraham paid tithes, Paul said, "For this
 Melchizedek was ordained a priest after the order of the Son of God, which
@@ -192,7 +186,7 @@ For instance: Nephi and his brethren were seeking to obtain the brass plates
 from Laban. Their lives were in peril. Yet Nephi swore this oath: "As the Lord
 liveth, and as we live, we will not go down unto our father in the wilderness
 until we have accomplished the thing which the Lord hath commanded us." ([1
-Ne. 3:15](https://www.lds.org/scriptures/bofm/1-ne/3.15?lang=eng#14).)
+Ne. 3:15](/scriptures/bofm/1-ne/3.15?lang=eng#14).)
 
 Thus Nephi made God his partner. If he failed to get the plates, it meant God
 had failed. And because God does not fail, it was incumbent upon Nephi to get
@@ -202,7 +196,7 @@ One of the most solemn oaths ever given to man is found in these words of the
 Lord relative to Joseph Smith and the Book of Mormon. "He [meaning Joseph
 Smith] has translated the book, even that part which I have commanded him,"
 saith the Lord, "and as your Lord and your God liveth it is true." ([D&amp;C
-17:6](https://www.lds.org/scriptures/dc-testament/dc/17.6?lang=eng#5).)
+17:6](/scriptures/dc-testament/dc/17.6?lang=eng#5).)
 
 This is God's testimony of the Book of Mormon. In it Deity himself has laid
 his godhood on the line. Either the book is true or God ceases to be God.
@@ -235,11 +229,10 @@ is after the order of his Son and which, because it is the power of God, is of
 necessity without beginning of days or end of years.
 
 It is that we can enter an order of the priesthood named the new and
-everlasting covenant of marriage (see [D&amp;C
-131:2](https://www.lds.org/scriptures/dc-testament/dc/131.2?lang=eng#1)),
-named also the patriarchal order, because of which order we can create for
-ourselves eternal family units of our own, patterned after the family of God
-our Heavenly Father.
+everlasting covenant of marriage (see [D&amp;C 131:2](/scriptures/dc-
+testament/dc/131.2?lang=eng#1)), named also the patriarchal order, because of
+which order we can create for ourselves eternal family units of our own,
+patterned after the family of God our Heavenly Father.
 
 It is that we have power, by faith, to govern and control all things, both
 temporal and spiritual; to work miracles and perfect lives; to stand in the
@@ -268,4 +261,6 @@ use, a power which we devoutly pray may rest upon us and upon our posterity
 forever.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

@@ -62,7 +62,7 @@ of these so-called freedoms has been enslavement to debauching habits and
 behavior that leads only to destruction. A prophet, speaking long ago, aptly
 described the process when he said, "And thus the devil cheateth their souls,
 and leadeth them away carefully down to hell." ([2 Ne.
-28:21](https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20).)
+28:21](/scriptures/bofm/2-ne/28.21?lang=eng#20).)
 
 On the other hand, I am satisfied that there are millions upon millions of
 good people in this and in other lands. For the most part, husbands are
@@ -82,7 +82,7 @@ In that spirit, I should like to suggest four points of beginning:
 The first: _Begin with yourself._ Reformation of the world begins with
 reformation of self. It is a fundamental article of our faith that "We believe
 in being honest, true, chaste, benevolent, [and] virtuous." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 We cannot hope to influence others in the direction of virtue unless we live
 lives of virtue. The example of our living will carry a greater influence than
@@ -94,12 +94,12 @@ is a child of God, created in the image of a divine Father and gifted with a
 potential for the exercise of great and godlike virtues, will discipline
 himself against the sordid, lascivious elements to which all are exposed. Said
 Alma to his son Helaman, "Look to God and live." ([Alma
-37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46).)
+37:47](/scriptures/bofm/alma/37.47?lang=eng#46).)
 
 It is a matter of more than passing interest that the Lord, as he spoke to the
 multitude on the Mount, included this marvelous declaration: "Blessed are the
 pure in heart: for they shall see God."([Matt.
-5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7).)
+5:8](/scriptures/nt/matt/5.8?lang=eng#7).)
 
 A wise man once said, "Make of yourself an honest man, and there will be one
 fewer rascals in the world."
@@ -173,8 +173,7 @@ ye are laying the foundation of a great work. And out of small things
 proceedeth that which is great.
 
 "Behold, the Lord requireth the heart and a willing mind." ([D&amp;C
-64:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/64.33-34?lang=eng#32).)
+64:33-34](/scriptures/dc-testament/dc/64.33-34?lang=eng#32).)
 
 This is the essence of the matter--"the heart and a willing mind." Speak to
 those who enact the regulations, the statutes, and the laws--those in
@@ -195,7 +194,7 @@ xviii).
 The apostle Paul, in his defense before Agrippa, gave an account of his
 miraculous conversion while on the way to Damascus, declaring that the voice
 of the Lord commanded him to "rise, and stand upon thy feet." ([Acts
-26:16](https://www.lds.org/scriptures/nt/acts/26.16?lang=eng#15).)
+26:16](/scriptures/nt/acts/26.16?lang=eng#15).)
 
 I think the Lord would say to us, "Rise, and stand upon thy feet, and speak up
 for truth and goodness and decency and virtue."
@@ -215,7 +214,7 @@ spiritual wickedness in high places.
 
 "Wherefore take unto you the whole armour of God, that ye may be able to
 withstand in the evil day, and having done all, to stand." ([Eph.
-6:10-13](https://www.lds.org/scriptures/nt/eph/6.10-13?lang=eng#9).)
+6:10-13](/scriptures/nt/eph/6.10-13?lang=eng#9).)
 
 Brethren and sisters, the tide of evil flows. It has become a veritable flood.
 Most of us, living somewhat sheltered lives, have little idea of the vast
@@ -230,4 +229,6 @@ them to decay.
 God lives. He is our strength and our helper. As we strive, we shall discover
 that legions of good men and women will join with us. For this I humbly pray,
 in the name of him of whom I testify, even the Lord Jesus Christ. Amen.
+
+## References
 

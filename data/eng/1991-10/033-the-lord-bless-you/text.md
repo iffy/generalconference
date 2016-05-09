@@ -15,9 +15,9 @@ convey to you the prophet's love and counsel.
 This has been a glorious conference. The Brethren have been inspired in their
 utterances, the prayers offered have been spoken from the heart, and the music
 truly has been "the song of the righteous" and "a prayer unto [the Lord]."
-([D&amp;C 25:12](https://www.lds.org/scriptures/dc-
-testament/dc/25.12?lang=eng#11).) Our sincere appreciation and gratitude go to
-each who has in any way made the conference most memorable.
+([D&amp;C 25:12](/scriptures/dc-testament/dc/25.12?lang=eng#11).) Our sincere
+appreciation and gratitude go to each who has in any way made the conference
+most memorable.
 
 We miss the association of Elder Derek A. Cuthbert, who was called to his
 heavenly home on April 7, 1991. We recall his testimony of truth concerning
@@ -83,7 +83,9 @@ bless [you], and keep [you]:
 "The Lord make his face shine upon [you], and be gracious unto [you]:
 
 "The Lord lift up his countenance upon [you], and give [you] peace." ([Num.
-6:24-26](https://www.lds.org/scriptures/ot/num/6.24-26?lang=eng#23).)
+6:24-26](/scriptures/ot/num/6.24-26?lang=eng#23).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

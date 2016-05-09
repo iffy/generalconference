@@ -1,4 +1,4 @@
-# “What Think Ye of Christ?” “Whom Say Ye That I Am?”
+# “What Think Ye of Christ?”“Whom Say Ye That I Am?”
 
 I bring you greetings from the Saints and missionaries in the British Isles,
 especially those in the England London Mission where my dear companion, Mary,
@@ -13,19 +13,17 @@ family, and neighbors in mildness and in meekness.
 Every person in the world at some point in his eternal progression is one day
 going to have to come to the moment of truth when he must answer the question,
 "What think ye of Christ?" ([Matt.
-22:42](https://www.lds.org/scriptures/nt/matt/22.42?lang=eng#41)).
+22:42](/scriptures/nt/matt/22.42?lang=eng#41)).
 
 Think of that. At one point in our eternal progression, each one of us is
 going to have to answer the question, Who is Jesus Christ? We are told that
 every eye shall see, every ear shall hear, and every knee shall bow, every
 tongue should confess that Jesus Christ is Lord (see [Philip.
-2:10-11](https://www.lds.org/scriptures/nt/philip/2.10-11?lang=eng#9)); "When
-all men shall stand to be judged of him, then shall they confess that he is
-God" ([Mosiah
-27:31](https://www.lds.org/scriptures/bofm/mosiah/27.31?lang=eng#30); see also
-[Rom. 14:11](https://www.lds.org/scriptures/nt/rom/14.11?lang=eng#10) and
-[D&amp;C 76:110](https://www.lds.org/scriptures/dc-
-testament/dc/76.110?lang=eng#109)).
+2:10-11](/scriptures/nt/philip/2.10-11?lang=eng#9)); "When all men shall stand
+to be judged of him, then shall they confess that he is God" ([Mosiah
+27:31](/scriptures/bofm/mosiah/27.31?lang=eng#30); see also [Rom.
+14:11](/scriptures/nt/rom/14.11?lang=eng#10) and [D&amp;C 76:110](/scriptures
+/dc-testament/dc/76.110?lang=eng#109)).
 
 What think ye of Christ? Whom say ye that I am?
 
@@ -38,14 +36,13 @@ Jesus answered them, "If David then call him Lord, how is he his son?
 
 "And no man was able to answer him a word, neither durst any man from that day
 forth ask him any more questions." ([Matt. 22:41-42,
-45-46](https://www.lds.org/scriptures/nt/matt/22.41-42%2C45-46?lang=eng#40).)
+45-46](/scriptures/nt/matt/22.41-42,45-46?lang=eng#40).)
 
 On another occasion the people answered Jesus, saying, "Who is this Son of
 man? ...
 
 "But though he had done so many miracles before them, yet they believed not on
-him." ([John 12:34,
-37](https://www.lds.org/scriptures/nt/john/12.34%2C37?lang=eng#33).)
+him." ([John 12:34, 37](/scriptures/nt/john/12.34,37?lang=eng#33).)
 
 Still yet another time Jesus asked his disciples, saying, "Whom do men say
 that I the Son of man am?" (Or stated another way, whom do men say that I the
@@ -58,7 +55,7 @@ others, Jeremias, or one of the prophets.
 
 "And Simon Peter [the senior member of the Twelve Apostles] answered and said,
 Thou art the Christ, the Son of the living God." ([Matt.
-16:13-16](https://www.lds.org/scriptures/nt/matt/16.13-16?lang=eng#12).)
+16:13-16](/scriptures/nt/matt/16.13-16?lang=eng#12).)
 
 Jesus conversed on another occasion with a woman in Samaria:
 
@@ -68,14 +65,14 @@ Jesus conversed on another occasion with a woman in Samaria:
 called Christ: when he is come, he will tell us all things.
 
 "Jesus saith unto her, I that speak unto thee am he." ([John 4:19,
-25-26](https://www.lds.org/scriptures/nt/john/4.19%2C25-26?lang=eng#18).)
+25-26](/scriptures/nt/john/4.19,25-26?lang=eng#18).)
 
 What think ye of Christ and whom say ye that he is? Many Christians profess to
 follow Jesus Christ but do not know him:
 
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 Many profess to be Christians and yet do not believe that Jesus Christ is the
 literal Son of God, indeed, the eldest son of God the Father. Men are willing
@@ -92,89 +89,81 @@ the only one who could, as these scriptures testify:
 
 "Neither is there salvation in any other: for there is none other name under
 heaven given among men, whereby we must be saved" ([Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11)).
+4:12](/scriptures/nt/acts/4.12?lang=eng#11)).
 
 "I am the Lord thy God; and I give unto you this commandment--that no man
 shall come unto the Father but by me or by my word, which is my law, saith the
-Lord" ([D&amp;C 132:12](https://www.lds.org/scriptures/dc-
-testament/dc/132.12?lang=eng#11)).
+Lord" ([D&amp;C 132:12](/scriptures/dc-testament/dc/132.12?lang=eng#11)).
 
 "Jesus saith unto him, I am the way, the truth, and the life: no man cometh
 unto the Father, but by me" ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5)).
+14:6](/scriptures/nt/john/14.6?lang=eng#5)).
 
 Who is he? From the scriptures we learn more about him: First, the Light of
 Christ is in all men. It leads men to accept the gospel and gain a testimony
 of Him. It is because of the Light of Christ that all men know good from evil
 --the guidance of a conscience. (See [Moro.
-7:12-19](https://www.lds.org/scriptures/bofm/moro/7.12-19?lang=eng#11).)
+7:12-19](/scriptures/bofm/moro/7.12-19?lang=eng#11).)
 
 Jesus Christ is a god; he is the Jehovah of the Old Testament and the Savior
-of the New Testament (see [Abr.
-2:7-8](https://www.lds.org/scriptures/pgp/abr/2.7-8?lang=eng#6)).
+of the New Testament (see [Abr. 2:7-8](/scriptures/pgp/abr/2.7-8?lang=eng#6)).
 
 Jesus Christ dwelt in the heavens with his Father, and we dwelt with them as
 spirit children of God the Father (see [John
-1:1-5](https://www.lds.org/scriptures/nt/john/1.1-5?lang=eng#0)).
+1:1-5](/scriptures/nt/john/1.1-5?lang=eng#0)).
 
 Jesus Christ presented his Father's eternal plan, that plan of which we are
 all part. We come to this earth to undergo testing for a probationary period
 and to have opposition in all things. Through the eternal principle of free
 agency, we are free to choose liberty and eternal life and return to God's
 presence if we live righteous lives; or to choose captivity and spiritual
-death. (See [Moses
-4:1-4](https://www.lds.org/scriptures/pgp/moses/4.1-4?lang=eng#0).)
+death. (See [Moses 4:1-4](/scriptures/pgp/moses/4.1-4?lang=eng#0).)
 
 Jesus Christ is the creator of all things on earth, under the direction of his
-Father (see [Moses
-1:33](https://www.lds.org/scriptures/pgp/moses/1.33?lang=eng#32); [Eph.
-3:9](https://www.lds.org/scriptures/nt/eph/3.9?lang=eng#8)). "The Father sent
-the Son to be the Saviour of the world" ([1 Jn.
-4:14](https://www.lds.org/scriptures/nt/1-jn/4.14?lang=eng#13)).
+Father (see [Moses 1:33](/scriptures/pgp/moses/1.33?lang=eng#32); [Eph.
+3:9](/scriptures/nt/eph/3.9?lang=eng#8)). "The Father sent the Son to be the
+Saviour of the world" ([1 Jn. 4:14](/scriptures/nt/1-jn/4.14?lang=eng#13)).
 
 Jesus Christ came to this earth, born of Mary, a mortal mother. His Father was
-Almighty God. (See [Luke
-1:26-35](https://www.lds.org/scriptures/nt/luke/1.26-35?lang=eng#25).)
+Almighty God. (See [Luke 1:26-35](/scriptures/nt/luke/1.26-35?lang=eng#25).)
 
 Jesus Christ was baptized by immersion by John the Baptist, and the Holy Ghost
 was manifest in the "Spirit like a dove descending upon him." And his Father
 spoke: "Thou art my beloved Son, in whom I am well pleased." ([Mark
-1:10-11](https://www.lds.org/scriptures/nt/mark/1.10-11?lang=eng#9).)
+1:10-11](/scriptures/nt/mark/1.10-11?lang=eng#9).)
 
 Jesus Christ organized his church and selected twelve apostles, and also
 prophets, seventies, and evangelists (see [Eph.
-4:11](https://www.lds.org/scriptures/nt/eph/4.11?lang=eng#10); [Luke
-6:13](https://www.lds.org/scriptures/nt/luke/6.13?lang=eng#12), [Luke
-10:1](https://www.lds.org/scriptures/nt/luke/10.1?lang=eng#0)).
+4:11](/scriptures/nt/eph/4.11?lang=eng#10); [Luke
+6:13](/scriptures/nt/luke/6.13?lang=eng#12), [Luke
+10:1](/scriptures/nt/luke/10.1?lang=eng#0)).
 
 Jesus Christ's message is unique. He stands between us and his Father; he is
-the Mediator (see [D&amp;C 76:41-43](https://www.lds.org/scriptures/dc-
+the Mediator (see [D&amp;C 76:41-43](/scriptures/dc-
 testament/dc/76.41-43?lang=eng#40); [John
-3:17](https://www.lds.org/scriptures/nt/john/3.17?lang=eng#16)). Through him
-shall all mankind be saved and by him shall all mankind be saved.
+3:17](/scriptures/nt/john/3.17?lang=eng#16)). Through him shall all mankind be
+saved and by him shall all mankind be saved.
 
 Jesus Christ is the Redeemer, our Savior; only he with a mortal mother and an
 immortal Father could fulfill the Atonement and die to save all mankind. He
 did so of his own free will and choice (see [Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38); [Mark
-14:34-36](https://www.lds.org/scriptures/nt/mark/14.34-36?lang=eng#33); [Luke
-22:41-42](https://www.lds.org/scriptures/nt/luke/22.41-42?lang=eng#40)).
+26:39](/scriptures/nt/matt/26.39?lang=eng#38); [Mark
+14:34-36](/scriptures/nt/mark/14.34-36?lang=eng#33); [Luke
+22:41-42](/scriptures/nt/luke/22.41-42?lang=eng#40)).
 
 Jesus Christ was resurrected and appeared to many after his resurrection (see
-[John 20:11-18,
-24-30](https://www.lds.org/scriptures/nt/john/20.11-18%2C24-30?lang=eng#10);
-[Luke 24:13-44](https://www.lds.org/scriptures/nt/luke/24.13-44?lang=eng#12)).
-He taught us the physical characteristics of a resurrected being and told us
-that we could follow his example and that we would be able to progress and be
-like him.
+[John 20:11-18, 24-30](/scriptures/nt/john/20.11-18,24-30?lang=eng#10); [Luke
+24:13-44](/scriptures/nt/luke/24.13-44?lang=eng#12)). He taught us the
+physical characteristics of a resurrected being and told us that we could
+follow his example and that we would be able to progress and be like him.
 
 Jesus Christ's ascension into heaven before the eyes of his disciples was
 accompanied by the promise that in like manner he would come again (see [Acts
-1:9-11](https://www.lds.org/scriptures/nt/acts/1.9-11?lang=eng#8); [Mark
-16:19-20](https://www.lds.org/scriptures/nt/mark/16.19-20?lang=eng#18); [Luke
-24:51-53](https://www.lds.org/scriptures/nt/luke/24.51-53?lang=eng#50)). The
-second coming of Jesus Christ is nigh at hand, as the signs of the Second
-Coming are being fulfilled this very day.
+1:9-11](/scriptures/nt/acts/1.9-11?lang=eng#8); [Mark
+16:19-20](/scriptures/nt/mark/16.19-20?lang=eng#18); [Luke
+24:51-53](/scriptures/nt/luke/24.51-53?lang=eng#50)). The second coming of
+Jesus Christ is nigh at hand, as the signs of the Second Coming are being
+fulfilled this very day.
 
 Jesus Christ appeared with his Father and restored the same organization he
 established during his ministry through Joseph Smith the Prophet in these
@@ -184,20 +173,20 @@ world as another witness to testify of his divine calling and ministry.
 Jesus Christ leads and guides his church today through revelation to a
 prophet, President Spencer W. Kimball, and his counselors in the First
 Presidency and the Twelve Apostles, the same organization that he established
-when he was here on earth (see [D&amp;C 102:9,
-23](https://www.lds.org/scriptures/dc-testament/dc/102.9%2C23?lang=eng#8); [A
-of F 1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8)).
+when he was here on earth (see [D&amp;C 102:9, 23](/scriptures/dc-
+testament/dc/102.9,23?lang=eng#8); [A of F
+1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8)).
 
 Jesus Christ's admonition to "come ... follow me" and "follow thou me" is the
 challenge that he gave to each of us (see [Matt.
-19:21](https://www.lds.org/scriptures/nt/matt/19.21?lang=eng#20); [John
-21:22](https://www.lds.org/scriptures/nt/john/21.22?lang=eng#21)). He lived in
-the preexistence in the spirit world; he dwelt with God his Father. He is the
-Son, Jesus Christ. We took a mortal body upon us. We'll have opposition; we
-will taste death and be resurrected because of the atoning sacrifice of Jesus
-Christ. He will be granted a degree of glory. We can have that same degree of
-glory--the celestial kingdom; if we are worthy. We can dwell once again with
-God the Father and his Son Jesus Christ throughout all the eternities.
+19:21](/scriptures/nt/matt/19.21?lang=eng#20); [John
+21:22](/scriptures/nt/john/21.22?lang=eng#21)). He lived in the preexistence
+in the spirit world; he dwelt with God his Father. He is the Son, Jesus
+Christ. We took a mortal body upon us. We'll have opposition; we will taste
+death and be resurrected because of the atoning sacrifice of Jesus Christ. He
+will be granted a degree of glory. We can have that same degree of glory--the
+celestial kingdom; if we are worthy. We can dwell once again with God the
+Father and his Son Jesus Christ throughout all the eternities.
 
 There are many who will hear this message for the first time today. Ponder it
 carefully. Contact a member or a missionary of The Church of Jesus Christ of
@@ -216,9 +205,10 @@ risen and that he lives; that he is the Son of God, the Only Begotten of the
 Father, the promised Messiah, our Redeemer and Savior; that he came into this
 world to teach the gospel by example. His divine mission is directed to you
 and me to come unto him and he will lead us into life eternal. Salvation is by
-and through his name ([Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11); [D&amp;C
-132:12](https://www.lds.org/scriptures/dc-testament/dc/132.12?lang=eng#11);
-[John 14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5)), and this
-I say in the holy name of our Savior and Redeemer, Jesus Christ, amen.
+and through his name ([Acts 4:12](/scriptures/nt/acts/4.12?lang=eng#11);
+[D&amp;C 132:12](/scriptures/dc-testament/dc/132.12?lang=eng#11); [John
+14:6](/scriptures/nt/john/14.6?lang=eng#5)), and this I say in the holy name
+of our Savior and Redeemer, Jesus Christ, amen.
+
+## References
 

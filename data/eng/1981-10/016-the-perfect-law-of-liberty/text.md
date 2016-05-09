@@ -28,11 +28,10 @@ freedoms, and more. I would have us strive for a freedom of the soul to which
 they all contribute. I would have us attain that blessed state foreshadowed by
 the Prophet Joseph Smith when he said, "Let virtue garnish thy thoughts
 unceasingly; then shall thy confidence wax strong in the presence of God."
-([D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44).) One who enjoys such liberty is, in the
-words of Jesus, "free indeed." ([John
-8:36](https://www.lds.org/scriptures/nt/john/8.36?lang=eng#35).) He is
-possessed of perfect liberty.
+([D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44).) One who
+enjoys such liberty is, in the words of Jesus, "free indeed." ([John
+8:36](/scriptures/nt/john/8.36?lang=eng#35).) He is possessed of perfect
+liberty.
 
 I invite your attention to a few illustrations in support of the thesis that,
 while political independence, economic freedom, and free agency may contribute
@@ -78,11 +77,11 @@ scarcely enjoy any type of liberty--political, economic, or personal. It is
 one of our greatest heritages. For it we are deeply indebted to our Father in
 Heaven, to the Founding Fathers, and to the pioneers. God gave it to man in
 the Garden of Eden. (See [Moses
-7:32](https://www.lds.org/scriptures/pgp/moses/7.32?lang=eng#31).) The
-Founding Fathers, under the Lord's inspiration, wrote a guarantee of it into
-the fundamental law of the land. And the pioneers, led by the inspiration of
-heaven, gave their all to perpetuate it. Surely we ought always to be alert in
-its defense and willing, if necessary, to give our lives for its preservation.
+7:32](/scriptures/pgp/moses/7.32?lang=eng#31).) The Founding Fathers, under
+the Lord's inspiration, wrote a guarantee of it into the fundamental law of
+the land. And the pioneers, led by the inspiration of heaven, gave their all
+to perpetuate it. Surely we ought always to be alert in its defense and
+willing, if necessary, to give our lives for its preservation.
 
 Free agency, however, precious as it is, is not of itself the perfect liberty
 we seek, nor does it necessarily lead thereto. As a matter of fact, through
@@ -96,15 +95,14 @@ the freest exercise of agency. "Their laws and their governments," says the
 record, "were established by the voice of the people, and they who chose evil
 were more numerous than they who chose good." Therefore, "they could not be
 governed by the law nor justice, save it were to their destruction." ([Hel.
-5:2-3](https://www.lds.org/scriptures/bofm/hel/5.2-3?lang=eng#1).) Under these
-circumstances, they chose as rulers wicked men, who would certainly destroy
-their political liberties, to replace righteous men who had in the past
-protected and preserved those liberties and would have continued to do so in
-the future.
+5:2-3](/scriptures/bofm/hel/5.2-3?lang=eng#1).) Under these circumstances,
+they chose as rulers wicked men, who would certainly destroy their political
+liberties, to replace righteous men who had in the past protected and
+preserved those liberties and would have continued to do so in the future.
 
 The freewill choosing of a king by the Jaredites led directly to their
 captivity. (See [Ether
-6:21-7:5](https://www.lds.org/scriptures/bofm/ether/6.21-150?lang=eng#20).)
+6:21-7:5](/scriptures/bofm/ether/6.21-150?lang=eng#20).)
 
 This sequence was repeated in the days of Israel. The people--rejecting
 government by judges, which God had established--clamored for Samuel to give
@@ -114,7 +112,7 @@ them to war, "the people refused to obey the voice of Samuel, [saying,] Nay;
 but we will have a king over us;
 
 "That we also may be like all the nations." ([1 Sam.
-8:19-20](https://www.lds.org/scriptures/ot/1-sam/8.19-20?lang=eng#18).)
+8:19-20](/scriptures/ot/1-sam/8.19-20?lang=eng#18).)
 
 Samuel therefore anointed Saul to be their king. In due time, just as Samuel
 had predicted, heavy burdens were laid upon them, their sons and daughters
@@ -130,8 +128,8 @@ government. As a result, when the famine came they were forced to purchase
 food from the government. First they used their money. When that was gone,
 they gave their livestock, then their lands; and finally they were compelled
 to sell themselves into slavery, that they might eat. (See [Gen.
-41:54-56](https://www.lds.org/scriptures/ot/gen/41.54-56?lang=eng#53); [Gen.
-47:13-26](https://www.lds.org/scriptures/ot/gen/47.13-26?lang=eng#12).)
+41:54-56](/scriptures/ot/gen/41.54-56?lang=eng#53); [Gen.
+47:13-26](/scriptures/ot/gen/47.13-26?lang=eng#12).)
 
 We ourselves have gone a long way down this road during the last century. My
 counsel is that we beware of the doctrine which encourages us to seek
@@ -178,16 +176,15 @@ turn away thine anger from us? And this shall be your language in those days.
 "But behold, your days of probation are past; ye have procrastinated the day
 of your salvation until it is everlastingly too late, and your destruction is
 made sure." ([Hel. 13:32,
-36-38](https://www.lds.org/scriptures/bofm/hel/13.32%2C36-38?lang=eng#31).)
+36-38](/scriptures/bofm/hel/13.32,36-38?lang=eng#31).)
 
 These poor souls have placed themselves in the power of Lucifer and his
 followers, who, as you remember, became Perdition. (See [D&amp;C
-76:26](https://www.lds.org/scriptures/dc-testament/dc/76.26?lang=eng#25).)
-Their final fate is to be cast out into outer darkness, such punishment being
-the natural consequence of the alternatives they elected in the exercise of
-their agency. The fact that they were originally endowed by their Creator with
-free agency does not save them from the most awful bondage, the bondage of
-sin.
+76:26](/scriptures/dc-testament/dc/76.26?lang=eng#25).) Their final fate is to
+be cast out into outer darkness, such punishment being the natural consequence
+of the alternatives they elected in the exercise of their agency. The fact
+that they were originally endowed by their Creator with free agency does not
+save them from the most awful bondage, the bondage of sin.
 
 Just as following wrong alternatives restricts free agency and leads to
 slavery, so pursuing correct alternatives widens the scope of one's agency and
@@ -214,7 +211,7 @@ brethren;
 
 "In weariness and painfulness, in watchings often, in hunger and thirst, in
 fastings often, in cold and nakedness." ([2 Cor.
-11:24-27](https://www.lds.org/scriptures/nt/2-cor/11.24-27?lang=eng#23).)
+11:24-27](/scriptures/nt/2-cor/11.24-27?lang=eng#23).)
 
 Notwithstanding all this, he could write to his beloved Timothy from his
 prison cell in Rome shortly before his death: "I am now ready to be offered,
@@ -225,7 +222,7 @@ and the time of my departure is at hand.
 "Henceforth there is laid up for me a crown of righteousness, which the Lord,
 the righteous judge, shall give me at that day: and not to me only, but unto
 all them also that love his appearing." ([2 Tim.
-4:6-8](https://www.lds.org/scriptures/nt/2-tim/4.6-8?lang=eng#5).)
+4:6-8](/scriptures/nt/2-tim/4.6-8?lang=eng#5).)
 
 Surely Paul, in his soul, enjoyed perfect freedom.
 
@@ -237,10 +234,9 @@ Many years ago, while riding through Cleveland, Ohio, on a train, I saw on a
 building the inscription "Obedience to Law is Liberty." With the proper
 interpretation of the word _law,_ we have in this inscription a statement of
 ultimate truth. By inserting three words, it is made to read, "Obedience to
-the law of Christ is liberty." (See [D&amp;C
-88:21](https://www.lds.org/scriptures/dc-testament/dc/88.21?lang=eng#20).)
-This is not only a statement of the perfect law of liberty, but also a
-statement of the way to perfect liberty.
+the law of Christ is liberty." (See [D&amp;C 88:21](/scriptures/dc-
+testament/dc/88.21?lang=eng#20).) This is not only a statement of the perfect
+law of liberty, but also a statement of the way to perfect liberty.
 
 In the eighth chapter of John is recorded a controversy between Jesus and the
 rulers of the Jews. They, of course, rejected him. But some who heard
@@ -248,7 +244,7 @@ believed, and to them he said, "If ye continue in my word, then are ye my
 disciples indeed;
 
 "And ye shall know the truth, and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30).)
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30).)
 
 Freedom thus obtained--that is, by obedience to the law of Christ--is freedom
 of the soul, the highest form of liberty. And the most glorious thing about it
@@ -259,4 +255,6 @@ mortal life.
 
 That God may attend and prosper each of us on our way to perfect liberty, I
 humbly pray in the name of Jesus Christ, amen.
+
+## References
 

@@ -79,11 +79,11 @@ In Deuteronomy chapter twenty-eight we read: "It shall come to pass, if thou
 shalt hearken diligently unto the voice of the Lord thy God, to observe and to
 do all his commandments which I command thee this day, that the Lord thy God
 will set thee on high _above all nations of the earth._" ([Deut.
-28:1](https://www.lds.org/scriptures/ot/deut/28.1?lang=eng#0); italics added.)
+28:1](/scriptures/ot/deut/28.1?lang=eng#0); italics added.)
 
 And again the Lord said that His purpose for ancient Israel was "to make thee
 high above all nations ... that thou mayest be an holy people unto the Lord."
-([Deut. 26:19](https://www.lds.org/scriptures/ot/deut/26.19?lang=eng#18).)
+([Deut. 26:19](/scriptures/ot/deut/26.19?lang=eng#18).)
 
 He promised them liberty and prosperity and immunity from the diseases that
 plagued other nations. He promised them peace and pledged that the sword would
@@ -93,9 +93,8 @@ to attack them.
 "And the Lord shall make thee the head, and not the tail; and thou shalt be
 above only, and thou shalt not be beneath; if that thou hearken unto the
 commandments of the Lord thy God, which I command thee this day, to observe
-and do them." ([Deut.
-28:13](https://www.lds.org/scriptures/ot/deut/28.13?lang=eng#12); see also
-[Lev. 26](https://www.lds.org/scriptures/ot/lev/26.title?lang=eng).)
+and do them." ([Deut. 28:13](/scriptures/ot/deut/28.13?lang=eng#12); see also
+[Lev. 26](/scriptures/ot/lev/26?lang=eng).)
 
 On the other hand, the Lord declared that if Israel should refuse to obey Him,
 He would withdraw His blessings and would send punishments upon them so that
@@ -180,7 +179,7 @@ a sweet savor.
 But we must remember the Lord's warning: "If the salt have lost his savor
 wherewith shall it be salted? it is thenceforth good for nothing, but to be
 cast out, and to be trodden under foot of men." ([Matt.
-5:13](https://www.lds.org/scriptures/nt/matt/5.13?lang=eng#12).)
+5:13](/scriptures/nt/matt/5.13?lang=eng#12).)
 
 And again, what was it Lincoln said? "If we do not do right, God will let us
 go on our own way to ruin." And that is true, for God will force no man to
@@ -247,4 +246,6 @@ forget the dying man who puts his trust in Him." (Hill, p. 334.)
 May we have sufficient common sense to trust and obey the Lord our God! It is
 the only way to security, both for nations and for individuals. To this I
 testify, in the sacred name of Jesus Christ. Amen.
+
+## References
 

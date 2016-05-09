@@ -8,26 +8,25 @@ The Epistle of James has long been a favorite book of the Holy Bible. I find
 his brief message heart-warming and filled with life. Each of us can quote
 that well-known passage, "If any of you lack wisdom, let him ask of God, that
 giveth to all men liberally, and upbraideth not; and it shall be given him."
-([James 1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) How
-many of us, however, remember his definition of religion? "Pure religion and
-undefiled before God and the Father is this, To visit the fatherless and
-widows in their affliction, and to keep himself unspotted from the world."
-([James 1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+([James 1:5](/scriptures/nt/james/1.5?lang=eng#4).) How many of us, however,
+remember his definition of religion? "Pure religion and undefiled before God
+and the Father is this, To visit the fatherless and widows in their
+affliction, and to keep himself unspotted from the world." ([James
+1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 The word _widow_ appears to have had a most significant meaning to our Lord.
 He cautioned His disciples to beware the example of the scribes, who feigned
 righteousness by their long apparel and their lengthy prayers, but who
 devoured the houses of widows. (See [Mark 12:38,
-40](https://www.lds.org/scriptures/nt/mark/12.38%2C40?lang=eng#37).)
+40](/scriptures/nt/mark/12.38,40?lang=eng#37).)
 
 To the Nephites came the direct warning, "I will come near to you to judgment;
 and I will be a swift witness against ... those that oppress the ... widow." ([3
-Ne. 24:5](https://www.lds.org/scriptures/bofm/3-ne/24.5?lang=eng#4).)
+Ne. 24:5](/scriptures/bofm/3-ne/24.5?lang=eng#4).)
 
 To the Prophet Joseph Smith He directed, "The storehouse shall be kept by the
 consecrations of the church; and widows and orphans shall be provided for, as
-also the poor." ([D&amp;C 83:6](https://www.lds.org/scriptures/dc-
-testament/dc/83.6?lang=eng#5).)
+also the poor." ([D&amp;C 83:6](/scriptures/dc-testament/dc/83.6?lang=eng#5).)
 
 Such teachings were not new then. They are not new now. Consistently the
 Master has taught, by example, His concern for the widow. To the grieving
@@ -74,9 +73,8 @@ and the tender, loving concern of a departed companion. The clock ticks more
 loudly, time passes more slowly, and four walls do indeed a prison make.
 
 Hopefully, all of us may again hear the echo of words spoken by the Master:
-"Inasmuch as ye have done it unto one of the least of these ... , ye have done
-it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+"Inasmuch as ye have done it unto one of the least of these ..., ye have done it
+unto me." ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 As we resolve to minister more diligently to those in need, let us remember to
 include our children in these learning lessons of life.
@@ -224,8 +222,10 @@ will be saved--yours, theirs, and mine.
 
 If we truly listen, we may hear that voice from far away say to us, as it
 spoke to another, "Well done, thou good and faithful servant." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).)
+25:21](/scriptures/nt/matt/25.21?lang=eng#20).)
 
 May we see that special star, may we hear that same salutation, is my humble
 prayer, in the name of Jesus Christ, amen.
+
+## References
 

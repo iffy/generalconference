@@ -16,26 +16,25 @@ crucifixion.
 
 It was in the spring when he prayed so humbly in the garden as he set the
 divine example by saying, "Not as I will, but as thou wilt" ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38)).
+26:39](/scriptures/nt/matt/26.39?lang=eng#38)).
 
 It was then also that he prayed so earnestly for his disciples, that they
 would be united as one in the heavenly cause, even as he and his Father are
-one (see [John
-17:11](https://www.lds.org/scriptures/nt/john/17.11?lang=eng#10)).
+one (see [John 17:11](/scriptures/nt/john/17.11?lang=eng#10)).
 
 In the early part of still another year he said to his followers, "Be one; ...
-if ye are not one ye are not mine" ([D&amp;C
-38:27](https://www.lds.org/scriptures/dc-testament/dc/38.27?lang=eng#26)).
+if ye are not one ye are not mine" ([D&amp;C 38:27](/scriptures/dc-
+testament/dc/38.27?lang=eng#26)).
 
 This oneness, this unity of action and purpose, was vital to the work. There
 was no room for conflict among his disciples, no place for dissension, for as
 Paul demanded of the contending Corinthians, "Is Christ divided?" ([1 Cor.
-1:13](https://www.lds.org/scriptures/nt/1-cor/1.13?lang=eng#12)).
+1:13](/scriptures/nt/1-cor/1.13?lang=eng#12)).
 
 When Jesus established his church nearly 2,000 years ago, it was in the hope
 that all mankind would come in a unity of faith and knowledge of the Son of
 God unto a state of perfection, that we might become Christlike in reality
-(see [Eph. 4:13](https://www.lds.org/scriptures/nt/eph/4.13?lang=eng#12)).
+(see [Eph. 4:13](/scriptures/nt/eph/4.13?lang=eng#12)).
 
 But Christianity as we know it is not united. Among those who profess to
 believe in him there are wide differences, much conflict, contention, and even
@@ -47,14 +46,13 @@ pleaded with the Corinthians as they drifted apart, "I beseech you, brethren,
 by the name of our Lord Jesus Christ, that ye all speak the same thing, and
 that there be no divisions among you; but that ye be perfectly joined together
 in the same mind and in the same judgment" ([1 Cor.
-1:10](https://www.lds.org/scriptures/nt/1-cor/1.10?lang=eng#9)).
+1:10](/scriptures/nt/1-cor/1.10?lang=eng#9)).
 
 Paul named four subdivisions or separate denominations already existing in
 Corinth, a thing which he firmly condemned (see [1 Cor.
-1:12-15](https://www.lds.org/scriptures/nt/1-cor/1.12-15?lang=eng#11)). His
-former converts in that city actually began to alter the doctrines of Christ,
-even denying his resurrection (see [1 Cor.
-15:12](https://www.lds.org/scriptures/nt/1-cor/15.12?lang=eng#11)).
+1:12-15](/scriptures/nt/1-cor/1.12-15?lang=eng#11)). His former converts in
+that city actually began to alter the doctrines of Christ, even denying his
+resurrection (see [1 Cor. 15:12](/scriptures/nt/1-cor/15.12?lang=eng#11)).
 
 But this was not all. Division continued to develop throughout Christianity in
 that first century after Christ. Most of the epistles of the New Testament
@@ -63,22 +61,22 @@ were written to combat it.
 Paul reprimanded not only the Corinthians for their dissension, but also the
 Galatians, saying to them, "I marvel that ye are so soon removed from him that
 called you into the grace of Christ unto another gospel: Which is not another"
-([Gal. 1:6-7](https://www.lds.org/scriptures/nt/gal/1.6-7?lang=eng#5)).
+([Gal. 1:6-7](/scriptures/nt/gal/1.6-7?lang=eng#5)).
 
 He predicted dissension elsewhere when he said, "I know this, that after my
-departing shall grievous wolves enter in among you, not sparing the flock ... ,
+departing shall grievous wolves enter in among you, not sparing the flock ...,
 speaking perverse things, to draw away disciples after them" ([Acts
-20:29-30](https://www.lds.org/scriptures/nt/acts/20.29-30?lang=eng#28)).
+20:29-30](/scriptures/nt/acts/20.29-30?lang=eng#28)).
 
 Peter predicted the rise of false teachers, saying that "many shall follow
 their pernicious ways" (see [2 Pet.
-2:1-2](https://www.lds.org/scriptures/nt/2-pet/2.1-2?lang=eng#0)).
+2:1-2](/scriptures/nt/2-pet/2.1-2?lang=eng#0)).
 
 To Titus, Paul said, "There are many unruly and vain talkers and deceivers"
-([Titus 1:10](https://www.lds.org/scriptures/nt/titus/1.10?lang=eng#9)), and
-Jude wrote of mockers who even then walked "after their own ungodly lusts,"
-separating themselves from the church of God (see [Jude
-1:18-19](https://www.lds.org/scriptures/nt/jude/1.18-19?lang=eng#17)).
+([Titus 1:10](/scriptures/nt/titus/1.10?lang=eng#9)), and Jude wrote of
+mockers who even then walked "after their own ungodly lusts," separating
+themselves from the church of God (see [Jude
+1:18-19](/scriptures/nt/jude/1.18-19?lang=eng#17)).
 
 This secession continued even beyond the time of the Apostles. Historians tell
 us that during the first century of Christianity at least thirty different
@@ -102,8 +100,7 @@ The Gnostics, who confused gospel truth by mixing it with Greek philosophy.
 The Archontics, who believed in seven heavens, each one presided over by a
 prince; they also believed in the Supreme Mother of Heaven, a faith condemned
 in Jeremiah, chapters seven and forty-four. [[Jer.
-7](https://www.lds.org/scriptures/ot/jer/7.title?lang=eng); [Jer.
-44](https://www.lds.org/scriptures/ot/jer/44.title?lang=eng)]
+7](/scriptures/ot/jer/7?lang=eng); [Jer. 44](/scriptures/ot/jer/44?lang=eng)]
 
 The Copts, who are still prominent in Egypt.
 
@@ -133,7 +130,7 @@ But a new day was predicted, a time when all that God had ever given in the
 past would be restored to earth. It was the Apostle Peter who made this
 prediction, saying that in the latter days all that was ever given through the
 prophets from the beginning of the world would be restored. (See [Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).)
+3:21](/scriptures/nt/acts/3.21?lang=eng#20).)
 
 So Christ's church was destined to come back to earth. But it would arrive in
 the midst of these denominational conflicts, which have continued to multiply
@@ -149,28 +146,26 @@ The members of the true church anciently did not call themselves Christians,
 for that was but a nickname applied to them in derision by those who hated
 Christ. The members of the Church called themselves _saints,_ as may be seen
 from various New Testament references (see [Rom.
-16:2](https://www.lds.org/scriptures/nt/rom/16.2?lang=eng#1); [1 Cor.
-1:2](https://www.lds.org/scriptures/nt/1-cor/1.2?lang=eng#1)), which are
-confirmed by Webster's dictionary and by the Bible scholars. This, then, is
-one of the identification marks of the true Church. The members are called
-_saints._
+16:2](/scriptures/nt/rom/16.2?lang=eng#1); [1 Cor.
+1:2](/scriptures/nt/1-cor/1.2?lang=eng#1)), which are confirmed by Webster's
+dictionary and by the Bible scholars. This, then, is one of the identification
+marks of the true Church. The members are called _saints._
 
 Another important sign is that the Church would be guided by constant
 revelation through living prophets. Amos had said that the Lord will do
 nothing except through his authorized prophets (see [Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6)). The divine
-Church as restored, then, will be led by living seers and revelators receiving
-current direction from heaven.
+3:7](/scriptures/ot/amos/3.7?lang=eng#6)). The divine Church as restored,
+then, will be led by living seers and revelators receiving current direction
+from heaven.
 
 Paul explained this to the Ephesians when he said that the whole Church rests
 upon a foundation of apostles and prophets with Jesus Christ as the chief
-cornerstone (see [Eph.
-2:19-20](https://www.lds.org/scriptures/nt/eph/2.19-20?lang=eng#18)).
+cornerstone (see [Eph. 2:19-20](/scriptures/nt/eph/2.19-20?lang=eng#18)).
 
 He added that these apostles and prophets are to continue in the Church until
 we all become perfect (see [Eph.
-4:11-14](https://www.lds.org/scriptures/nt/eph/4.11-14?lang=eng#10); see also
-[Matt. 5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47)).
+4:11-14](/scriptures/nt/eph/4.11-14?lang=eng#10); see also [Matt.
+5:48](/scriptures/nt/matt/5.48?lang=eng#47)).
 
 But prophets also were placed in the Church for the work of the ministry. This
 would include preaching of the word, of course, but also it would be for the
@@ -178,11 +173,10 @@ selection of those who were to serve in the ministry.
 
 Paul said that such persons must be called of God as was Aaron, who was chosen
 by current revelation through a living prophet (see [Heb.
-5:4](https://www.lds.org/scriptures/nt/heb/5.4?lang=eng#3); [Ex.
-28:1](https://www.lds.org/scriptures/ot/ex/28.1?lang=eng#0)). Paul himself was
-called that way (see [Acts
-13:1-3](https://www.lds.org/scriptures/nt/acts/13.1-3?lang=eng#0)). It is the
-divine pattern.
+5:4](/scriptures/nt/heb/5.4?lang=eng#3); [Ex.
+28:1](/scriptures/ot/ex/28.1?lang=eng#0)). Paul himself was called that way
+(see [Acts 13:1-3](/scriptures/nt/acts/13.1-3?lang=eng#0)). It is the divine
+pattern.
 
 Then the Lord's true church may be further identified by the fact that its
 ministers are called of God as was Aaron, by current revelation given to a
@@ -199,18 +193,16 @@ Not an ancient church, but of modern origin. That is a vital sign of
 identification of the true church.
 
 The Apostle Peter indicated that the Church will be restored before Christ's
-second coming (see [Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18)).
+second coming (see [Acts 3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18)).
 
 John the Revelator confirmed this when he said that the Restoration would
 occur in the hour of God's judgment, which could relate to none other than
-modern times (see [Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5)).
+modern times (see [Rev. 14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5)).
 
 The Savior spoke of the same thing, adding that after the gospel is finally
 preached abroad as a warning to the nations, then will the end come (see
-[Matt. 24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13)). That
-certainly indicates modern times.
+[Matt. 24:14](/scriptures/nt/matt/24.14?lang=eng#13)). That certainly
+indicates modern times.
 
 Another vital sign of the true church is that it will produce new and
 additional scripture, in addition to the Bible, as was the case in ancient
@@ -232,9 +224,9 @@ There are various other signs of the true church too, but they are too
 numerous to mention in this short time. But let us say that no one isolated
 point can unerringly identify the Church. All the signs must be there, fitly
 joined together, as the Apostle Paul told the Corinthians (see [1 Cor.
-1:10](https://www.lds.org/scriptures/nt/1-cor/1.10?lang=eng#9); see also [Eph.
-2:19-21](https://www.lds.org/scriptures/nt/eph/2.19-21?lang=eng#18); [Eph.
-4:11-16](https://www.lds.org/scriptures/nt/eph/4.11-16?lang=eng#10)).
+1:10](/scriptures/nt/1-cor/1.10?lang=eng#9); see also [Eph.
+2:19-21](/scriptures/nt/eph/2.19-21?lang=eng#18); [Eph.
+4:11-16](/scriptures/nt/eph/4.11-16?lang=eng#10)).
 
 If we seek the divine church we must find in it all of these infallible marks
 of identification. If these signs are lacking, it is fair notice that we must
@@ -302,4 +294,6 @@ through the righteous men he has raised up today for the perfecting of the
 Saints, for the work of the ministry, and for the edifying of the body of
 Christ. For this I humbly pray, in the sacred name of the Lord Jesus Christ,
 amen.
+
+## References
 

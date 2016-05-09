@@ -21,7 +21,7 @@ In our search for happiness we may get so involved with the "human measure of
 life" that we fail to recognize the temporary value of such riches. Christ
 warned that we can become spiritually "choked" with the "cares and riches and
 pleasures of this life, and bring no fruit to perfection." ([Luke
-8:14](https://www.lds.org/scriptures/nt/luke/8.14?lang=eng#13).)
+8:14](/scriptures/nt/luke/8.14?lang=eng#13).)
 
 The Savior also said, "... a man's life consisteth not in the abundance of the
 things which he possesseth.
@@ -42,22 +42,19 @@ take thine ease, eat, drink, and be merry.
 thee: then whose shall those things be, which thou hast provided?
 
 "So is he that layeth up treasure for himself, and is not rich toward God."
-([Luke
-12:15-21](https://www.lds.org/scriptures/nt/luke/12.15-21?lang=eng#14).)
+([Luke 12:15-21](/scriptures/nt/luke/12.15-21?lang=eng#14).)
 
 It is, then, our blessing and responsibility to become rich toward God. We are
 to go beyond acquiring something for ourselves. The Savior also taught us how
 to do this when he said, "... seek ye the kingdom of God; and all these things
 shall be added unto you" ([Luke
-12:31](https://www.lds.org/scriptures/nt/luke/12.31?lang=eng#30)), and, "...
-whoso desireth to reap, let him thrust in his sickle with his might, and reap
-while the day lasts, that he may treasure up for his soul everlasting
-salvation in the kingdom of God." ([D&amp;C
-6:3](https://www.lds.org/scriptures/dc-testament/dc/6.3?lang=eng#2).)
+12:31](/scriptures/nt/luke/12.31?lang=eng#30)), and, "... whoso desireth to
+reap, let him thrust in his sickle with his might, and reap while the day
+lasts, that he may treasure up for his soul everlasting salvation in the
+kingdom of God." ([D&amp;C 6:3](/scriptures/dc-testament/dc/6.3?lang=eng#2).)
 
 This means we may gain eternal life. "Behold, he that hath eternal life is
-rich." ([D&amp;C 11:7](https://www.lds.org/scriptures/dc-
-testament/dc/11.7?lang=eng#6).)
+rich." ([D&amp;C 11:7](/scriptures/dc-testament/dc/11.7?lang=eng#6).)
 
 The significance of this truth was brought to the heart of a certain man when
 his friend approached him with a plan to obtain the riches of this life. He
@@ -150,4 +147,6 @@ they had not that, and I had given them all the world, they would be poor."
 
 May we all share our wealth of testimony with others that we and they may
 become rich toward God, I pray in the name of Jesus Christ. Amen.
+
+## References
 

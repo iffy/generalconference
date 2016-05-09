@@ -5,7 +5,7 @@ to us, and as Jesus said "to those Jews which believed on him, If ye continue
 in my word, then are ye my disciples indeed;
 
 "And ye shall know the truth, and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30).)
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30).)
 
 We have been greatly blessed also to have heard a message from the Lord's
 prophet, President Spencer W. Kimball, whose words of truth we should all
@@ -44,8 +44,7 @@ believed that thou didst send me. ...
 
 "Holy Father, keep through thine own name those whom thou hast given me, that
 they may be one, as we are." ([John 17:1-6, 8,
-11](https://www.lds.org/scriptures/nt/john/17.1-6%2C8%2C11?lang=eng#0);
-italics added.)
+11](/scriptures/nt/john/17.1-6,8,11?lang=eng#0); italics added.)
 
 In these words we find some of the greatest truths that have ever been uttered
 for the benefit and blessing of mankind. We learn that Jesus lived with his
@@ -61,10 +60,9 @@ as he prayed his apostles might be.
 In this petition to his Father, Jesus defined eternal life when he said: "And
 this is life eternal, that they might know thee the only true God, and Jesus
 Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).) On another
-occasion he said: "This is my work and my glory--to bring to pass the
-immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).) On another occasion he said:
+"This is my work and my glory--to bring to pass the immortality and eternal
+life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 _Why is it so important for us to understand and accept these truths?_
 
@@ -82,8 +80,7 @@ This promise is for all. We read in John:
 word, then are ye my disciples indeed;_
 
 "And ye shall know the truth, and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30); italics
-added.)
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30); italics added.)
 
 Freedom is based on truth, and no man is completely free as long as any part
 of his belief is based on error, for the chains of error bind his mind. This
@@ -126,8 +123,8 @@ heads.
 
 "Abide ye in the liberty wherewith ye are made free; entangle not yourselves
 in sin, but let your hands be clean, until the Lord comes." ([D&amp;C
-88:77-78, 80-83, 86](https://www.lds.org/scriptures/dc-
-testament/dc/88.77-78%2C80-83%2C86?lang=eng#76); italics added.)
+88:77-78, 80-83, 86](/scriptures/dc-
+testament/dc/88.77-78,80-83,86?lang=eng#76); italics added.)
 
 We must know and understand the doctrines in order to be obedient, and we must
 be obedient in order to be free. This applies to the laws of God and the laws
@@ -165,8 +162,7 @@ Christ, "which light proceedeth forth from the presence of God to fill the
 immensity of space--
 
 "The light which is in all things, which giveth life to all things, which is
-the law by which all things are governed." ([D&amp;C
-88:12-13](https://www.lds.org/scriptures/dc-
+the law by which all things are governed." ([D&amp;C 88:12-13](/scriptures/dc-
 testament/dc/88.12-13?lang=eng#11).)
 
 Thus, the _truths_ discovered by such men as Sir Isaac Newton, Thomas Edison,
@@ -218,8 +214,7 @@ To know that God the Eternal Father knows all truth and acts in accordance
 with it explains why he is the same yesterday, today, and forever. All that he
 does is in keeping with the unchanging truths of the universe. The same
 attributes are found in his Son, Jesus Christ, who is "full of grace and
-truth." ([John
-1:14](https://www.lds.org/scriptures/nt/john/1.14?lang=eng#13).)
+truth." ([John 1:14](/scriptures/nt/john/1.14?lang=eng#13).)
 
 One of the great differences between God and man is _God's greater knowledge
 of the truth,_ which makes him _free_ to create worlds and to control the
@@ -247,13 +242,13 @@ progress. I like what the late President David O. McKay said regarding this:
 "I believe that God is love, that He is our Father and desires the happiness
 and eternal life of His children. ... He has placed man upon earth and ... gave to
 man 'that he should be an agent unto himself.' [See [D&amp;C
-29:35](https://www.lds.org/scriptures/dc-testament/dc/29.35?lang=eng#34).] Men
-may choose the right or they may choose the wrong; they may walk in darkness
-or they may walk in the light; and, mind you, God has not left his children
-without the light. He has given them in the various dispensations of the world
-the light of the gospel wherein they could walk and not stumble, wherein they
-could find that peace and happiness which he desires, as a loving father, his
-children should enjoy, but the Lord does not take from them their free agency.
+29:35](/scriptures/dc-testament/dc/29.35?lang=eng#34).] Men may choose the
+right or they may choose the wrong; they may walk in darkness or they may walk
+in the light; and, mind you, God has not left his children without the light.
+He has given them in the various dispensations of the world the light of the
+gospel wherein they could walk and not stumble, wherein they could find that
+peace and happiness which he desires, as a loving father, his children should
+enjoy, but the Lord does not take from them their free agency.
 
 "God is ... deploring now the inevitable result of the follies, the
 transgressions and the sins of His wayward children, but we cannot blame Him
@@ -287,7 +282,7 @@ recognition of the transgression, remorse, and a resolve to overcome. The Lord
 said:
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them." ([D&amp;C 58:43](https://www.lds.org/scriptures/dc-
+them and forsake them." ([D&amp;C 58:43](/scriptures/dc-
 testament/dc/58.43?lang=eng#42).)
 
 From the beginning of time God's concern and love for his children has
@@ -305,14 +300,14 @@ them, and do all manner of iniquity unto them, even as they did of old time. ...
 people, how long will ye suppose that the Lord will suffer you? Yea, how long
 will ye suffer yourselves to be led by foolish and blind guides? Yea, how long
 will ye choose darkness rather than light?" ([Hel. 13:24,
-29](https://www.lds.org/scriptures/bofm/hel/13.24%2C29?lang=eng#23).)
+29](/scriptures/bofm/hel/13.24,29?lang=eng#23).)
 
 But he also gave this assurance:
 
 "But if ye will repent and return unto the Lord your God I will turn away mine
 anger, saith the Lord; yea, thus saith the Lord, Blessed are they who will
 repent and turn unto me, but wo unto him that repenteth not." ([Hel.
-13:11](https://www.lds.org/scriptures/bofm/hel/13.11?lang=eng#10).)
+13:11](/scriptures/bofm/hel/13.11?lang=eng#10).)
 
 May we all yearn for wisdom and for truth that we may inherit the kingdom of
 God and enjoy the promised blessings, for he said:
@@ -323,12 +318,13 @@ of me, saying: He received a fulness of truth, yea, even of all truth;
 "And no man receiveth a fulness unless he keepeth his commandments.
 
 "He that keepeth his commandments receiveth truth and light, until he is
-glorified in truth and knoweth all things." ([D&amp;C
-93:26-28](https://www.lds.org/scriptures/dc-
-testament/dc/93.26-28?lang=eng#25).)
+glorified in truth and knoweth all things." ([D&amp;C 93:26-28](/scriptures
+/dc-testament/dc/93.26-28?lang=eng#25).)
 
 May we all accept God as our Father, and his Son Jesus Christ as our Savior,
 and keep his commandments and continue in our quest for truth, which will make
 us free and lead us to eternal life, I humbly pray in the name of Jesus
 Christ. Amen.
+
+## References
 

@@ -64,31 +64,28 @@ they learned the mother, a beggar, had injured her own child, it gave a new
 dimension to the social studies lesson they had discussed at home. A new level
 of compassion started to develop--greater reverence for the sanctity of life.
 This family put their "trust in that Spirit which leadeth to do good"
-([D&amp;C 11:12](https://www.lds.org/scriptures/dc-
-testament/dc/11.12?lang=eng#11)), and gradually they started to experience the
-power to become changed.
+([D&amp;C 11:12](/scriptures/dc-testament/dc/11.12?lang=eng#11)), and
+gradually they started to experience the power to become changed.
 
 The powers of heaven are available to everyone through righteousness. Mormon
 teaches that "every thing which inviteth to do good, and to persuade to
 believe in Christ, is sent forth by the _power_ and gift of Christ" ([Moro.
-7:16](https://www.lds.org/scriptures/bofm/moro/7.16?lang=eng#15); emphasis
-added).
+7:16](/scriptures/bofm/moro/7.16?lang=eng#15); emphasis added).
 
 Revelation concerning power was given to Joseph Smith when political power had
 turned against him and he was a prisoner in Liberty Jail. His first plea to
 the Lord was for help to avenge his enemies. His prayer: "Let thine anger be
-kindled against our enemies" ([D&amp;C 121:5](https://www.lds.org/scriptures
-/dc-testament/dc/121.5?lang=eng#4)). Our Father in Heaven responded with a
-greater blessing: "My son, peace be unto thy soul" ([D&amp;C
-121:7](https://www.lds.org/scriptures/dc-testament/dc/121.7?lang=eng#6)). Then
-he made a promise if Joseph would endure and be faithful: "God shall exalt
-thee on high; thou shalt triumph over all thy foes" ([D&amp;C
-121:8](https://www.lds.org/scriptures/dc-testament/dc/121.8?lang=eng#7)).
+kindled against our enemies" ([D&amp;C 121:5](/scriptures/dc-
+testament/dc/121.5?lang=eng#4)). Our Father in Heaven responded with a greater
+blessing: "My son, peace be unto thy soul" ([D&amp;C 121:7](/scriptures/dc-
+testament/dc/121.7?lang=eng#6)). Then he made a promise if Joseph would endure
+and be faithful: "God shall exalt thee on high; thou shalt triumph over all
+thy foes" ([D&amp;C 121:8](/scriptures/dc-testament/dc/121.8?lang=eng#7)).
 
 It was in this prison setting that God taught Joseph Smith about priesthood
 power. "No power or influence can or ought to be maintained by virtue of the
 priesthood, only by persuasion, by long-suffering, by gentleness and meekness,
-and by love unfeigned" ([D&amp;C 121:41](https://www.lds.org/scriptures/dc-
+and by love unfeigned" ([D&amp;C 121:41](/scriptures/dc-
 testament/dc/121.41?lang=eng#40)). Priesthood power is used to minister, to
 preach, to teach, to baptize, to ordain, to heal, to seal, to restore, to
 bless, to prophesy, to testify, to do good.
@@ -99,8 +96,8 @@ each need it. We should _use_ it for _good._ Without proper exercise of this
 power, we might lose our freedom. Churches might cease to exist. Of course we
 need rules. We need laws, but we must remember that the scriptures tell us
 "the powers of heaven cannot be controlled nor handled only upon the
-principles of righteousness" ([D&amp;C 121:36](https://www.lds.org/scriptures
-/dc-testament/dc/121.36?lang=eng#35)).
+principles of righteousness" ([D&amp;C 121:36](/scriptures/dc-
+testament/dc/121.36?lang=eng#35)).
 
 A faithful member shared her testimony of how the _power_ of goodness
 influenced her life. She writes:
@@ -145,4 +142,6 @@ walk in obedience to His commandments" (_Ensign,_ May 1995, p. 71). It is my
 prayer that we will seek the power of righteousness in our lives by following
 the counsel of the living prophet, and by living the teachings of our Savior,
 Jesus Christ, in His name, amen.
+
+## References
 

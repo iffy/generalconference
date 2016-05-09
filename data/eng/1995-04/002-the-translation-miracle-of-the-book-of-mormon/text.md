@@ -35,9 +35,9 @@ cared for animals.
 The conditions under which Joseph translated were less than ideal. His life
 was threatened and mobs tried to rob him of the plates, requiring him to hide
 the ancient records and often move them from place to place (see [JS--H
-1:60](https://www.lds.org/scriptures/pgp/js-h/1.60?lang=eng#59)). Joseph had
-no telephone, no dictating equipment, fax, word processor, or copy machine--
-not even electric light.
+1:60](/scriptures/pgp/js-h/1.60?lang=eng#59)). Joseph had no telephone, no
+dictating equipment, fax, word processor, or copy machine--not even electric
+light.
 
 Joseph had little formal education, perhaps no more than three years of
 elementary school. Prior to his translation Joseph had not enrolled in a
@@ -75,11 +75,11 @@ but also the restoration and reestablishment of the Church of Jesus Christ.
 Even as Joseph translated, he received many revelations and visitations from
 heavenly messengers who gave him additional important assignments, such as the
 restoration of the priesthood and the revelation on baptism (see [JS--H
-1:68-75](https://www.lds.org/scriptures/pgp/js-h/1.68-75?lang=eng#67)).
-Joseph's many responsibilities often interrupted the translation process,
-sometimes for several months. Yet, once Joseph was free to dedicate his entire
-effort to translation, the work surged forward and he translated eight to ten
-pages a day, completing the preponderance of the Book of Mormon translation in
+1:68-75](/scriptures/pgp/js-h/1.68-75?lang=eng#67)). Joseph's many
+responsibilities often interrupted the translation process, sometimes for
+several months. Yet, once Joseph was free to dedicate his entire effort to
+translation, the work surged forward and he translated eight to ten pages a
+day, completing the preponderance of the Book of Mormon translation in
 approximately sixty-three working days (see John W. Welch and Tim Rathbone,
 "The Translation of the Book of Mormon: Basic Historical Information," Provo,
 Utah: F.A.R.M.S., 1986, p. 14).
@@ -93,7 +93,7 @@ Joseph was the first person in over fourteen hundred years to read the words
 of the Savior as written by Nephi, Alma, Mormon, Moroni, and the other
 prophets of the Book of Mormon. His ability to translate was nothing short of
 a "marvelous work and a wonder" ([2 Ne.
-25:17](https://www.lds.org/scriptures/bofm/2-ne/25.17?lang=eng#16)).
+25:17](/scriptures/bofm/2-ne/25.17?lang=eng#16)).
 
 Joseph's original English translation, except for a few minor grammatical and
 textual emendations, remains the text that we use today and is the standard
@@ -102,7 +102,7 @@ for all other language translations of the Book of Mormon throughout the world
 Macmillan, 1992, s.v. "Book of Mormon manuscripts"). As Nephi of old
 prophesied, his "words shall [whisper] forth unto the ends of the earth, for a
 standard unto [his] people" ([2 Ne.
-29:2](https://www.lds.org/scriptures/bofm/2-ne/29.2?lang=eng#1)).
+29:2](/scriptures/bofm/2-ne/29.2?lang=eng#1)).
 
 Could any one of us today produce such a work? Could a thousand of the world's
 best theologians and scholars of ancient languages or antiquities write a
@@ -121,10 +121,10 @@ fire is burning!" (_Hymns,_ 1985, no. 2). All over the world people are
 seeking the witness of Jesus Christ as found in the Book of Mormon. They come
 from every nation, kindred, tongue, and people. As was revealed to the Prophet
 Joseph Smith, "The ends of the earth shall inquire after thy name" ([D&amp;C
-122:1](https://www.lds.org/scriptures/dc-testament/dc/122.1?lang=eng#0)). And
-why are they seeking after the name of Joseph Smith? Because the Book of
-Mormon testifies of the divinity and atonement of the Savior, Jesus Christ.
-Because Joseph is the prophet of the Restoration.
+122:1](/scriptures/dc-testament/dc/122.1?lang=eng#0)). And why are they
+seeking after the name of Joseph Smith? Because the Book of Mormon testifies
+of the divinity and atonement of the Savior, Jesus Christ. Because Joseph is
+the prophet of the Restoration.
 
 With deep appreciation for the miracle that transpired through the translation
 of the Book of Mormon, we sing:
@@ -141,11 +141,12 @@ I testify that the translation miracle of the Book of Mormon clearly evidences
 that Joseph is a prophet of God, called to "lay the foundation of [Christ's]
 church, and to bring it forth out of obscurity and out of darkness, the only
 true and living church upon the face of the whole earth" ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29)). The
-Book of Mormon is the "keystone of our religion" and will bring us "nearer to
-God by abiding by its precepts, than by any other book" (_Teachings of the
-Prophet Joseph Smith,_ p. 194). May we appreciate this miraculous translation,
-and may it be our desire to come to know and follow the Savior through his
-teachings in the Book of Mormon, I humbly pray in the name of Jesus Christ,
-amen.
+1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29)). The Book of Mormon is
+the "keystone of our religion" and will bring us "nearer to God by abiding by
+its precepts, than by any other book" (_Teachings of the Prophet Joseph
+Smith,_ p. 194). May we appreciate this miraculous translation, and may it be
+our desire to come to know and follow the Savior through his teachings in the
+Book of Mormon, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

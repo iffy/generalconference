@@ -38,8 +38,8 @@ gift of translation. He told Oliver of marvelous contributions he could make
 toward enlightening the people if he would continue faithfully in his efforts.
 Later when Oliver attempted to translate, he failed. The Lord told Oliver it
 was "because that you did not continue as you commenced." ([D&amp;C
-9:5](https://www.lds.org/scriptures/dc-testament/dc/9.5?lang=eng#4).) Oliver
-had not continued in his righteous efforts, and the gift was taken from him.
+9:5](/scriptures/dc-testament/dc/9.5?lang=eng#4).) Oliver had not continued in
+his righteous efforts, and the gift was taken from him.
 
 Simply stated, the Lord's counsel to one who has "commenced" properly and
 faithfully is, "Continue as you have commenced." We could follow the example
@@ -51,7 +51,7 @@ result from the unwearyingness with which he had labored and taught the people
 and with which he had kept the commandments of God. With renewed vigor and
 determination, Nephi turned from his home and returned to his labors to
 continue as he had commenced. (See [Hel.
-10:2-12](https://www.lds.org/scriptures/bofm/hel/10.2-12?lang=eng#1).)
+10:2-12](/scriptures/bofm/hel/10.2-12?lang=eng#1).)
 
 There is also the enlightening experience which Enos had. He helps us to
 understand the blessing of building upon and following the teachings of
@@ -59,18 +59,17 @@ righteous parents. Enos described his father as a "just man--for he taught me
 in his language, and also in the nurture and admonition of the Lord, ... and the
 words which I had often heard my father speak concerning eternal life, and the
 joy of the saints, sunk deep into my heart." ([Enos 1:1,
-3](https://www.lds.org/scriptures/bofm/enos/1.1%2C3?lang=eng#0).) The
-continual teachings of a just father caused Enos' soul to hunger, and he went
-before the Lord in mighty prayer and supplication for his own soul.
+3](/scriptures/bofm/enos/1.1,3?lang=eng#0).) The continual teachings of a just
+father caused Enos' soul to hunger, and he went before the Lord in mighty
+prayer and supplication for his own soul.
 
 Enos had also learned the value of continuing in righteousness, for he tells
 us that he prayed all day long, "and when the night came I did still raise my
 voice high that it reached the heavens." ([Enos
-1:4](https://www.lds.org/scriptures/bofm/enos/1.4?lang=eng#3).) His continuous
-and fervent humble prayer resulted in a marvelous declaration from on high:
-"And there came a voice unto me, saying: Enos, thy sins are forgiven thee, and
-thou shalt be blessed." ([Enos
-1:5](https://www.lds.org/scriptures/bofm/enos/1.5?lang=eng#4).)
+1:4](/scriptures/bofm/enos/1.4?lang=eng#3).) His continuous and fervent humble
+prayer resulted in a marvelous declaration from on high: "And there came a
+voice unto me, saying: Enos, thy sins are forgiven thee, and thou shalt be
+blessed." ([Enos 1:5](/scriptures/bofm/enos/1.5?lang=eng#4).)
 
 Enos had built upon the righteous teachings of his father as the base for his
 own search for the Lord. He had continued as he commenced.
@@ -83,7 +82,7 @@ be a true follower of Christ.
 word, then are ye my disciples indeed.
 
 "And ye shall know the truth and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30).)
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30).)
 
 To continue means to press forward.
 
@@ -96,7 +95,7 @@ in him, relying wholly upon the merits of him who is mighty to save.
 perfect brightness of hope, and a love of God and of all men. Wherefore, if ye
 shall press forward, feasting upon the word of Christ, and endure to the end,
 behold, thus saith the Father: Ye shall have eternal life." ([2 Ne.
-31:19-20](https://www.lds.org/scriptures/bofm/2-ne/31.19-20?lang=eng#18).)
+31:19-20](/scriptures/bofm/2-ne/31.19-20?lang=eng#18).)
 
 To continue in righteousness takes personal courage and strength of
 commitment. We must recognize that there is an opposing force to that which is
@@ -161,4 +160,6 @@ May the Lord bless each of us with the strength, courage, and faith to
 continue what we commence in righteousness. I testify to you that God lives.
 May we each follow the counsel of the Lord to continue in righteousness
 ourselves, in the name of Jesus Christ. Amen.
+
+## References
 

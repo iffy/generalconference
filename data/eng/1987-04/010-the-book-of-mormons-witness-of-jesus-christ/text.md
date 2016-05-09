@@ -27,15 +27,14 @@ other side? In the Book of Mormon Amulek teaches us:
 
 "That same spirit which doth possess your bodies at the time that ye go out of
 this life, that same spirit will have power to possess your body in that
-eternal world" ([Alma
-34:34](https://www.lds.org/scriptures/bofm/alma/34.34?lang=eng#33)).
+eternal world" ([Alma 34:34](/scriptures/bofm/alma/34.34?lang=eng#33)).
 
 What is to the spirit as air is to the body? A sure knowledge of the Father
 and his Son:
 
 "This is life eternal, that they might know thee the only true God, and Jesus
 Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 Our eternal life is as dependent upon spiritual nutrients as our mortal life
 is upon air. The most important spiritual nutrients are knowledge of God and
@@ -73,22 +72,21 @@ that of the stars in the firmament.
 "And they came down and went forth upon the face of the earth; and the first
 came and stood before my father, and gave unto him a book, and bade him that
 he should read" ([1 Ne. 1:6,
-9-11](https://www.lds.org/scriptures/bofm/1-ne/1.6%2C9-11?lang=eng#5)).
+9-11](/scriptures/bofm/1-ne/1.6,9-11?lang=eng#5)).
 
 What was Lehi's reaction to this heaven-sent scene? "He testified that the
 things which he saw and heard, and also the things which he read in the book,
 manifested plainly of the coming of a Messiah, and also the redemption of the
-world" ([1 Ne.
-1:19](https://www.lds.org/scriptures/bofm/1-ne/1.19?lang=eng#18)).
+world" ([1 Ne. 1:19](/scriptures/bofm/1-ne/1.19?lang=eng#18)).
 
 We were still in the first chapter of 1 Nephi, having barely begun our quest.
 As we continued, verse after verse, chapter after chapter bore witness of his
 reality.
 
 Still in 1 Nephi, but in chapter 13, [[1 Ne.
-13](https://www.lds.org/scriptures/bofm/1-ne/13.title?lang=eng)] we
-discovered, in just sixteen verses, twenty-two references to the Lamb, another
-name for the Lord, the Redeemer, the Messiah, Jesus the Christ.
+13](/scriptures/bofm/1-ne/13?lang=eng)] we discovered, in just sixteen verses,
+twenty-two references to the Lamb, another name for the Lord, the Redeemer,
+the Messiah, Jesus the Christ.
 
 Time dictates that we must now pass by dozens, yes hundreds of references to
 this Savior of mankind found in this sacred record. Six hundred years escape
@@ -100,8 +98,8 @@ temple. ...
 
 "And they were also conversing about this Jesus Christ, of whom the sign had
 been given concerning his death" ([3 Ne.
-11:1-2](https://www.lds.org/scriptures/bofm/3-ne/11.1-2?lang=eng#0)). They
-heard a voice. Again they heard a voice, and they understood it not.
+11:1-2](/scriptures/bofm/3-ne/11.1-2?lang=eng#0)). They heard a voice. Again
+they heard a voice, and they understood it not.
 
 "And again the third time they did hear the voice, and did open their ears to
 hear it, and their eyes were towards the sound thereof; and they did look
@@ -111,8 +109,7 @@ steadfastly towards heaven, from whence the sound came.
 and it said unto them:
 
 "Behold my Beloved Son, in whom I am well pleased, in whom I have glorified my
-name--hear ye him" ([3 Ne.
-11:5-7](https://www.lds.org/scriptures/bofm/3-ne/11.5-7?lang=eng#4)).
+name--hear ye him" ([3 Ne. 11:5-7](/scriptures/bofm/3-ne/11.5-7?lang=eng#4)).
 
 And the Savior responded to the invitation of the Father to speak in this
 manner:
@@ -143,7 +140,7 @@ feet; and this they did do, going forth one by one until they had all gone
 forth, and did see with their eyes and did feel with their hands, and did know
 of a surety and did bear record, that it was he, of whom it was written by the
 prophets, that should come" ([3 Ne.
-11:10-15](https://www.lds.org/scriptures/bofm/3-ne/11.10-15?lang=eng#9)).
+11:10-15](/scriptures/bofm/3-ne/11.10-15?lang=eng#9)).
 
 The heavens were opened and had kissed the earth with certain knowledge. Then
 the Savior continued:
@@ -154,7 +151,7 @@ repent and believe in me.
 
 "And whoso believeth in me, and is baptized, the same shall be saved; and they
 are they who shall inherit the kingdom of God" ([3 Ne.
-11:32-33](https://www.lds.org/scriptures/bofm/3-ne/11.32-33?lang=eng#31)).
+11:32-33](/scriptures/bofm/3-ne/11.32-33?lang=eng#31)).
 
 Once again we must pass by many references and several hundred years of sacred
 history. Now the final page of this record, which speaks with a familiar
@@ -170,7 +167,7 @@ are perfect in Christ, ye can in nowise deny the power of God. ...
 are ye sanctified in Christ by the grace of God, through the shedding of the
 blood of Christ, which is in the covenant of the Father unto the remission of
 your sins, that ye become holy, without spot" ([Moro.
-10:32-33](https://www.lds.org/scriptures/bofm/moro/10.32-33?lang=eng#31)).
+10:32-33](/scriptures/bofm/moro/10.32-33?lang=eng#31)).
 
 By plane or car or bus or train, we traveled safely to this common
 destination. There is another common destination that beckons us--eternal life
@@ -187,4 +184,6 @@ Father.
 
 The Savior lives today. This I witness to you in the very sacred name of Jesus
 Christ, amen.
+
+## References
 

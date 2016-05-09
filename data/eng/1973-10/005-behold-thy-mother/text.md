@@ -67,8 +67,8 @@ noble woman "mother forgotten."
 
 "Hearken unto thy father that begat thee," wrote Solomon, "and despise not thy
 mother when she is old." ([Prov.
-23:22](https://www.lds.org/scriptures/ot/prov/23.22?lang=eng#21).) Can we not
-make of a mother forgotten a "mother remembered"?
+23:22](/scriptures/ot/prov/23.22?lang=eng#21).) Can we not make of a mother
+forgotten a "mother remembered"?
 
 Men turn from evil and yield to their better natures when mother is
 remembered. A famed officer from the Civil War period, Colonel Higgenson, when
@@ -167,8 +167,7 @@ not.
 said, Young man, I say unto thee, Arise.
 
 "And he that was dead sat up, and began to speak. And he delivered him to his
-mother." ([Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).)
+mother." ([Luke 7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10).)
 
 What power, what tenderness, what compassion did our Master and exemplar thus
 demonstrate. We, too, can bless if we will but follow his noble example.
@@ -235,13 +234,13 @@ should fall; then let us go forth; ... Now they never had fought, yet they did
 not fear death; ... yea, they had been taught by their mothers, that if they did
 not doubt, God would deliver them. And they rehearsed unto me the words of
 their mothers, saying: We do not doubt our mothers knew it. ([Alma
-56:45-48](https://www.lds.org/scriptures/bofm/alma/56.45-48?lang=eng#44).)
+56:45-48](/scriptures/bofm/alma/56.45-48?lang=eng#44).)
 
 At the end of the battle, Helaman continued his description: "... behold, to my
 great joy, there had not one soul of them fallen to the earth; yea, and they
 had fought as if with the strength of God; yea, never were men known to have
 fought with such miraculous strength; and with such mighty power. ..." ([Alma
-56:56](https://www.lds.org/scriptures/bofm/alma/56.56?lang=eng#55).)
+56:56](/scriptures/bofm/alma/56.56?lang=eng#55).)
 
 Miraculous strength, mighty power--mother's love and love for mother had met
 and triumphed.
@@ -264,8 +263,7 @@ who, because of this man, live.
 There remained yet a few faithful followers. From his tortured position on the
 cruel cross, he sees his mother and the disciple whom he loved standing by. He
 speaks: "... woman, behold thy son! Then saith he to the disciple, Behold thy
-mother! ..." ([John
-19:26-27](https://www.lds.org/scriptures/nt/john/19.26-27?lang=eng#25).)
+mother! ..." ([John 19:26-27](/scriptures/nt/john/19.26-27?lang=eng#25).)
 
 From that awful night when time stood still, when the earth did quake and
 great mountains were brought down--yes, through the annals of history, over
@@ -285,4 +283,6 @@ service, are as one.
 
 May we, by our thoughts and our actions, honor God and mother, I pray humbly
 yet earnestly, in the name of Jesus Christ. Amen.
+
+## References
 

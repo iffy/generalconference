@@ -16,11 +16,10 @@ members of the restored Church of Jesus Christ. For this we should _all_ be
 eternally grateful.
 
 I desire, therefore, to speak to you about our divine Constitution, which the
-Lord said "belongs to _all_ mankind" ([D&amp;C
-98:5](https://www.lds.org/scriptures/dc-testament/dc/98.5?lang=eng#4); italics
-added) "and should be maintained for the rights and protection of _all_ flesh,
-according to just and holy principles" ([D&amp;C
-101:77](https://www.lds.org/scriptures/dc-testament/dc/101.77?lang=eng#76);
+Lord said "belongs to _all_ mankind" ([D&amp;C 98:5](/scriptures/dc-
+testament/dc/98.5?lang=eng#4); italics added) "and should be maintained for
+the rights and protection of _all_ flesh, according to just and holy
+principles" ([D&amp;C 101:77](/scriptures/dc-testament/dc/101.77?lang=eng#76);
 italics added).
 
 The Constitution of the United States has served as a model for many nations
@@ -28,22 +27,21 @@ and is the oldest constitution in use today.
 
 "I established the Constitution of this land," said the Lord, "by the hands of
 wise men whom I raised up unto this very purpose" ([D&amp;C
-101:80](https://www.lds.org/scriptures/dc-testament/dc/101.80?lang=eng#79)).
+101:80](/scriptures/dc-testament/dc/101.80?lang=eng#79)).
 
 For centuries the Lord kept America hidden in the hollow of His hand until the
 time was right to unveil her for her destiny in the last days. "It is wisdom
 that this land should be kept as yet from the knowledge of other nations,"
 said Lehi, "for behold, many nations would overrun the land, that there would
 be no place for an inheritance" ([2 Ne.
-1:8](https://www.lds.org/scriptures/bofm/2-ne/1.8?lang=eng#7)).
+1:8](/scriptures/bofm/2-ne/1.8?lang=eng#7)).
 
 In the Lord's due time His Spirit "wrought upon" Columbus, the pilgrims, the
 Puritans, and others to come to America. They testified of God's intervention
 in their behalf (see [1 Ne.
-13:12-13](https://www.lds.org/scriptures/bofm/1-ne/13.12-13?lang=eng#11)). The
-Book of Mormon records that they humbled "themselves before the Lord; and the
-power of the Lord was with them" ([1 Ne.
-13:16](https://www.lds.org/scriptures/bofm/1-ne/13.16?lang=eng#15)).
+13:12-13](/scriptures/bofm/1-ne/13.12-13?lang=eng#11)). The Book of Mormon
+records that they humbled "themselves before the Lord; and the power of the
+Lord was with them" ([1 Ne. 13:16](/scriptures/bofm/1-ne/13.16?lang=eng#15)).
 
 Our Father in Heaven planned the coming forth of the Founding Fathers and
 their form of government as the necessary great prologue leading to the
@@ -51,9 +49,9 @@ restoration of the gospel. Recall what our Savior Jesus Christ said nearly two
 thousand years ago when He visited this promised land: "For it is wisdom in
 the Father that they should be established in this land, and be set up as a
 free people by the power of the Father, that these things might come forth"
-([3 Ne. 21:4](https://www.lds.org/scriptures/bofm/3-ne/21.4?lang=eng#3)).
-America, the land of liberty, was to be the Lord's latter-day base of
-operations for His restored church.
+([3 Ne. 21:4](/scriptures/bofm/3-ne/21.4?lang=eng#3)). America, the land of
+liberty, was to be the Lord's latter-day base of operations for His restored
+church.
 
 The Declaration of Independence affirmed the Founding Fathers' belief and
 trust in God in these words: "We hold these Truths to be self-evident, that
@@ -64,8 +62,8 @@ Happiness."
 The Doctrine and Covenants states, "We believe that no government can exist in
 peace, except such laws are framed and held inviolate as will secure to each
 individual the free exercise of conscience, the right and control of property,
-and the protection of life" ([D&amp;C 134:2](https://www.lds.org/scriptures
-/dc-testament/dc/134.2?lang=eng#1)). Life, liberty, property--mankind's three
+and the protection of life" ([D&amp;C 134:2](/scriptures/dc-
+testament/dc/134.2?lang=eng#1)). Life, liberty, property--mankind's three
 great rights.
 
 At the conclusion of the Declaration of Independence, they wrote, "And for the
@@ -77,18 +75,16 @@ traitors and tortured before they died. Twelve had their homes ransacked and
 burned. Two lost their sons in the Revolutionary War; another had two sons
 captured. Nine died from wounds or from the hardships of the war. The Lord
 said He "redeemed the land by the shedding of blood" ([D&amp;C
-101:80](https://www.lds.org/scriptures/dc-testament/dc/101.80?lang=eng#79)).
-Nephi recorded that the Founders "were delivered by the power of God out of
-the hands of all other nations" ([1 Ne.
-13:19](https://www.lds.org/scriptures/bofm/1-ne/13.19?lang=eng#18)).
+101:80](/scriptures/dc-testament/dc/101.80?lang=eng#79)). Nephi recorded that
+the Founders "were delivered by the power of God out of the hands of all other
+nations" ([1 Ne. 13:19](/scriptures/bofm/1-ne/13.19?lang=eng#18)).
 
 The years immediately preceding the Constitutional Convention were filled with
 disappointments and threats to the newly won peace. Washington was offered a
 kingship, which he adamantly refused. Nephi had prophesied hundreds of years
 before that "this land shall be a land of liberty unto the Gentiles, and there
 shall be _no kings_ upon the land" ([2 Ne.
-10:11](https://www.lds.org/scriptures/bofm/2-ne/10.11?lang=eng#10); italics
-added).
+10:11](/scriptures/bofm/2-ne/10.11?lang=eng#10); italics added).
 
 Between the critical years of 1783 and 1787, an outsider viewing the affairs
 of the United States would have thought that the thirteen states, different in
@@ -103,7 +99,7 @@ Republican Government" (26 June 1787, _Records of the Federal Convention,_
 
 "The Lord knoweth all things from the beginning," said Nephi, "wherefore, he
 prepareth a way to accomplish all his works among the children of men" ([1 Ne.
-9:6](https://www.lds.org/scriptures/bofm/1-ne/9.6?lang=eng#5)).
+9:6](/scriptures/bofm/1-ne/9.6?lang=eng#5)).
 
 Four months later, the Convention delegates had completed their work. As
 Gladstone said, it was "the most wonderful work ever struck off at a given
@@ -152,7 +148,7 @@ The dedicatory prayer for the Kirtland Temple, as dictated by the Lord and
 found in the Doctrine and Covenants, contains these words: "May those
 principles, which were so honorably and nobly defended, namely, the
 Constitution of our land, by our fathers, be established forever" ([D&amp;C
-109:54](https://www.lds.org/scriptures/dc-testament/dc/109.54?lang=eng#53)).
+109:54](/scriptures/dc-testament/dc/109.54?lang=eng#53)).
 
 Shortly after President Spencer W. Kimball became President of the Church, he
 assigned me to go into the vault of the St. George Temple and check the early
@@ -201,8 +197,7 @@ perpetuated so that the Church may more easily flourish in the future.
 
 The Lord said, "Therefore, I, the Lord, justify you, and your brethren of my
 church, in befriending that law which is the constitutional law of the land"
-([D&amp;C 98:6](https://www.lds.org/scriptures/dc-
-testament/dc/98.6?lang=eng#5)).
+([D&amp;C 98:6](/scriptures/dc-testament/dc/98.6?lang=eng#5)).
 
 How then can we best befriend the Constitution in this critical hour and
 secure the blessings of liberty and ensure the protection and guidance of our
@@ -223,20 +218,18 @@ given, it shall be a land of liberty unto them; wherefore, they shall never be
 brought down into captivity; if so, it shall be because of iniquity; for if
 iniquity shall abound cursed shall be the land for their sakes, but unto the
 righteous it shall be blessed forever" ([2 Ne.
-1:7](https://www.lds.org/scriptures/bofm/2-ne/1.7?lang=eng#6)).
+1:7](/scriptures/bofm/2-ne/1.7?lang=eng#6)).
 
 "And now," warned Moroni, "we can behold the decrees of God concerning this
 land, that it is a land of promise; and whatsoever nation shall possess it
 shall serve God, or they shall be swept off when the fulness of his wrath
 shall come upon them. And the fulness of his wrath cometh upon them when they
-are ripened in iniquity" ([Ether
-2:9](https://www.lds.org/scriptures/bofm/ether/2.9?lang=eng#8)).
+are ripened in iniquity" ([Ether 2:9](/scriptures/bofm/ether/2.9?lang=eng#8)).
 
 Two great American Christian civilizations--the Jaredites and the Nephites--
 were swept off this land because they did not "serve the God of the land, who
-is Jesus Christ" ([Ether
-2:12](https://www.lds.org/scriptures/bofm/ether/2.12?lang=eng#11)). What will
-become of our civilization?
+is Jesus Christ" ([Ether 2:12](/scriptures/bofm/ether/2.12?lang=eng#11)). What
+will become of our civilization?
 
 _Second, we must learn the principles of the Constitution in the tradition of
 the Founding Fathers._
@@ -256,11 +249,11 @@ represented._
 
 The Lord said that "he holds men accountable for their acts in relation" to
 governments "both in making laws and administering them" ([D&amp;C
-134:1](https://www.lds.org/scriptures/dc-testament/dc/134.1?lang=eng#0)). We
-must follow this counsel from the Lord: "Honest men and wise men should be
-sought for diligently, and good men and wise men ye should observe to uphold;
-otherwise whatsoever is less than these cometh of evil" ([D&amp;C
-98:10](https://www.lds.org/scriptures/dc-testament/dc/98.10?lang=eng#9)).
+134:1](/scriptures/dc-testament/dc/134.1?lang=eng#0)). We must follow this
+counsel from the Lord: "Honest men and wise men should be sought for
+diligently, and good men and wise men ye should observe to uphold; otherwise
+whatsoever is less than these cometh of evil" ([D&amp;C 98:10](/scriptures/dc-
+testament/dc/98.10?lang=eng#9)).
 
 Note the qualities that the Lord demands of those who are to represent us.
 They must be good, wise, and honest.
@@ -291,11 +284,13 @@ help preserve it.
 
 We, the blessed beneficiaries of the Constitution, face difficult days in
 America, "a land which is choice above all other lands" ([Ether
-2:10](https://www.lds.org/scriptures/bofm/ether/2.10?lang=eng#9)).
+2:10](/scriptures/bofm/ether/2.10?lang=eng#9)).
 
 May God give us the faith and the courage exhibited by those patriots who
 pledged their lives, their fortunes, and their sacred honor.
 
 May we be equally as valiant and as free, I pray in the name of Jesus Christ,
 amen.
+
+## References
 

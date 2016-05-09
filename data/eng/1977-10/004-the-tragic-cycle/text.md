@@ -30,7 +30,7 @@ to their children.
 "And Satan came among them, saying: ... Believe it not; and they believed it
 not, and they loved Satan more than God. And men began from that time forth to
 be carnal, sensual, and devilish." ([Moses
-5:13](https://www.lds.org/scriptures/pgp/moses/5.13?lang=eng#12).)
+5:13](/scriptures/pgp/moses/5.13?lang=eng#12).)
 
 For centuries the posterity of Adam was repeatedly called to repentance by the
 prophets. Only the people of Enoch listened and obeyed.
@@ -47,7 +47,7 @@ hearkened not. ...
 
 "Every man was lifted up in the imagination of the thoughts of his heart,
 being only evil continually." ([Moses 8:16-17, 20,
-22](https://www.lds.org/scriptures/pgp/moses/8.16-17%2C20%2C22?lang=eng#15).)
+22](/scriptures/pgp/moses/8.16-17,20,22?lang=eng#15).)
 
 But Noah continued his preaching, saying:
 
@@ -59,8 +59,7 @@ this, the floods will come in upon you; nevertheless they hearkened not. ...
 
 "And God said unto Noah: The end of all flesh is come before me, for the earth
 is filled with violence, and behold I will destroy all flesh from off the
-earth." ([Moses 8:24,
-29-30](https://www.lds.org/scriptures/pgp/moses/8.24%2C29-30?lang=eng#23).)
+earth." ([Moses 8:24, 29-30](/scriptures/pgp/moses/8.24,29-30?lang=eng#23).)
 
 And this He did. Noah and his family were the sole survivors.
 
@@ -70,7 +69,7 @@ brimstone and fire. ...
 
 "He overthrew those cities, and all the plain, and all the inhabitants of the
 cities, and that which grew upon the ground." ([Gen.
-19:24-25](https://www.lds.org/scriptures/ot/gen/19.24-25?lang=eng#23).)
+19:24-25](/scriptures/ot/gen/19.24-25?lang=eng#23).)
 
 Jerusalem was destroyed and its inhabitants were scattered throughout the
 earth because of their rejection of God's laws of righteous living.
@@ -93,7 +92,7 @@ often would I have gathered thy children together, even as a hen gathereth her
 chickens under her wings, and ye would not!
 
 "Behold, your house is left unto you desolate." ([Matt.
-23:34-38](https://www.lds.org/scriptures/nt/matt/23.34-38?lang=eng#33).)
+23:34-38](/scriptures/nt/matt/23.34-38?lang=eng#33).)
 
 In America two great civilizations, the Jaredite and the Nephite, were
 completely annihilated because of their rejection of the laws of righteousness
@@ -121,8 +120,7 @@ hear, neither heart that shall not be penetrated.
 shall be spoken upon the housetops, and their secret acts shall be revealed.
 
 "And the voice of warning shall be unto all people, by the mouths of my
-disciples." ([D&amp;C 1:1-4](https://www.lds.org/scriptures/dc-
-testament/dc/1.1-4?lang=eng#0).)
+disciples." ([D&amp;C 1:1-4](/scriptures/dc-testament/dc/1.1-4?lang=eng#0).)
 
 May I remind you that the elders of Israel are some of those disciples.
 
@@ -140,9 +138,8 @@ it shall fall upon the inhabitants of the earth.
 
 "And the arm of the Lord shall be revealed; and the day cometh that they who
 will not hear the voice of the Lord, neither the voice of his servants, ...
-shall be cut off from among the people." ([D&amp;C 1:5,
-11-14](https://www.lds.org/scriptures/dc-
-testament/dc/1.5%2C11-14?lang=eng#4).)
+shall be cut off from among the people." ([D&amp;C 1:5, 11-14](/scriptures/dc-
+testament/dc/1.5,11-14?lang=eng#4).)
 
 Having so declared, the Lord thus stated the cause of the predicament in which
 the inhabitants of the earth find themselves today. This was His diagnosis:
@@ -161,7 +158,7 @@ earth, called upon my servant Joseph Smith, Jun., and spake unto him from
 heaven, and gave him commandments;
 
 "And also gave commandments to others, that they should proclaim these things
-unto the world." ([D&amp;C 1:15-18](https://www.lds.org/scriptures/dc-
+unto the world." ([D&amp;C 1:15-18](/scriptures/dc-
 testament/dc/1.15-18?lang=eng#14).)
 
 Among the things to be proclaimed unto the world were certain impending
@@ -174,9 +171,8 @@ destroyed by the brightness of my coming." That's the Savior speaking.
 
 "Behold, I tell you these things, even as I also told the people of the
 destruction of Jerusalem; and my word shall be verified at this time as it
-hath hitherto been verified." ([D&amp;C
-5:19-20](https://www.lds.org/scriptures/dc-testament/dc/5.19-20?lang=eng#18);
-italics added.)
+hath hitherto been verified." ([D&amp;C 5:19-20](/scriptures/dc-
+testament/dc/5.19-20?lang=eng#18); italics added.)
 
 Later, He called upon Joseph Smith the Prophet and said, in part:
 
@@ -219,8 +215,8 @@ and shall cause maggots to come in upon them;
 
 "And their tongues shall be stayed that they shall not utter against me; and
 their flesh shall fall from off their bones, and their eyes from their
-sockets." ([D&amp;C 29:1, 7-11, 14-19](https://www.lds.org/scriptures/dc-
-testament/dc/29.1%2C7-11%2C14-19?lang=eng#0).)
+sockets." ([D&amp;C 29:1, 7-11, 14-19](/scriptures/dc-
+testament/dc/29.1,7-11,14-19?lang=eng#0).)
 
 Now my beloved brothers and sisters, I realize that these predictions are not
 pleasing, but nevertheless they speak the truth. They are the words of the
@@ -228,8 +224,7 @@ true and living God, who said:
 
 "I tell you these things, even as I also told the people of the destruction of
 Jerusalem; and my word shall be verified at this time as it hath hitherto been
-verified." ([D&amp;C 5:20](https://www.lds.org/scriptures/dc-
-testament/dc/5.20?lang=eng#19).)
+verified." ([D&amp;C 5:20](/scriptures/dc-testament/dc/5.20?lang=eng#19).)
 
 There is but one way these impending calamities can be avoided, and that way
 is repentance.
@@ -281,15 +276,15 @@ then and it is still true:
 "Thou shalt not bear false witness against thy neighbour.
 
 "Thou shalt not covet." ([Ex. 20:2-3, 7-8,
-12-17](https://www.lds.org/scriptures/ot/ex/20.2-3%2C7-8%2C12-17?lang=eng#1).)
+12-17](/scriptures/ot/ex/20.2-3,7-8,12-17?lang=eng#1).)
 
 If the inhabitants of the earth will obey these commandments and, in addition,
 strive with full purpose of heart to comply with the words of Jesus to "love
 the Lord thy God with all thy heart, and with all thy soul, and with all thy
 mind" and "love thy neighbour as thyself" ([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36)) the
-predicted calamities can be prevented. But only in this manner can the closing
-of the tragic cycle in our day be averted.
+39](/scriptures/nt/matt/22.37,39?lang=eng#36)) the predicted calamities can be
+prevented. But only in this manner can the closing of the tragic cycle in our
+day be averted.
 
 That it will be so I do not say. I do know, and I say, that as there was a
 Zion in the days of Enoch in which those who complied with God's laws were
@@ -298,4 +293,6 @@ who live God's revealed laws will be saved.
 
 To all of these things which the Lord has spoken, I bear my solemn witness in
 the name of Jesus Christ. Amen.
+
+## References
 

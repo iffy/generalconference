@@ -63,3 +63,5 @@ brothers and sisters, for your continued love and confidence.
 We invite the newly called members of the Seventy to take their places on the
 stand at this time.
 
+## References
+

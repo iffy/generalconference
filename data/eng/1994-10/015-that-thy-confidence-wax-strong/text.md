@@ -56,10 +56,9 @@ As recorded in the 121st section of the Doctrine and Covenants, verse 45, the
 Lord tells Joseph Smith during his hour of deep despair in Liberty Jail, "Let
 virtue garnish thy thoughts unceasingly; then shall thy confidence wax strong
 in the presence of God; and the doctrine of the priesthood shall distil upon
-thy soul as the dews from heaven." [[D&amp;C
-121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44)]
-What a wonderful promise for us bearers of the priesthood--confidence in the
-presence of God!
+thy soul as the dews from heaven." [[D&amp;C 121:45](/scriptures/dc-
+testament/dc/121.45?lang=eng#44)] What a wonderful promise for us bearers of
+the priesthood--confidence in the presence of God!
 
 Each of us present in this great body of the priesthood has been called and
 ordained of God. We are His emissaries and have entered into a holy covenant
@@ -90,11 +89,11 @@ the consequences of so-called minor sins until he captures us in major
 transgressions. Nephi describes this technique as one of pacifying, lulling,
 and flattering us away until Satan "grasps [us] with his awful chains, from
 whence there is no deliverance" ([2 Ne.
-28:22](https://www.lds.org/scriptures/bofm/2-ne/28.22?lang=eng#21); see also
-[2 Ne. 28:21](https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20)).
-There are no fringes of sin. We are constantly shooting our foul shots, and
-the basket is either getting bigger or, as Satan would have it, smaller. Our
-confidence is either waxing strong in the Lord or waxing strong in Satan.
+28:22](/scriptures/bofm/2-ne/28.22?lang=eng#21); see also [2 Ne.
+28:21](/scriptures/bofm/2-ne/28.21?lang=eng#20)). There are no fringes of sin.
+We are constantly shooting our foul shots, and the basket is either getting
+bigger or, as Satan would have it, smaller. Our confidence is either waxing
+strong in the Lord or waxing strong in Satan.
 
 When Nephi and his brothers were asked to go back to Jerusalem for the plates
 of brass, Nephi, because of his past experiences and preparation, saw the
@@ -102,11 +101,11 @@ basket as very large. He knew he could do it. He said, "I will go and do the
 things which the Lord hath commanded, for I know that the Lord giveth no
 commandments unto the children of men, save he shall prepare a way for them
 that they may accomplish the thing which he commandeth them" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)). On the other
-hand, Laman and Lemuel, who already had a history of complaining and
-neglecting their responsibilities, saw the basket as very small and thus
-rebelled. Laman and Lemuel did not have the confidence or the faith that comes
-from righteous preparation. They did not believe they could make the shot.
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)). On the other hand, Laman and
+Lemuel, who already had a history of complaining and neglecting their
+responsibilities, saw the basket as very small and thus rebelled. Laman and
+Lemuel did not have the confidence or the faith that comes from righteous
+preparation. They did not believe they could make the shot.
 
 When David went to battle against Goliath, he was discouraged by Saul, who
 reminded him that he was just a child and was not able to go against this
@@ -114,9 +113,8 @@ giant, Goliath. David replied: "Thy servant kept his father's sheep, and there
 came a lion, and a bear, and took a lamb out of the flock:
 
 "And I went out after him, and smote him, and delivered it out of his mouth"
-([1 Sam.
-17:34-35](https://www.lds.org/scriptures/ot/1-sam/17.34-35?lang=eng#33)).
-David had made his previous foul shots, and he saw the basket as very large.
+([1 Sam. 17:34-35](/scriptures/ot/1-sam/17.34-35?lang=eng#33)). David had made
+his previous foul shots, and he saw the basket as very large.
 
 When Joseph Smith went into the grove of trees, when he began the translation
 of the Book of Mormon, and when he organized the Church with just six members,
@@ -150,4 +148,6 @@ every single time we step to the line--that our confidence might wax strong in
 the presence of God, that the doctrine of the priesthood may distill upon
 _our_ souls as the dews from heaven--for we are the priesthood of God. Of this
 I humbly testify in the name of Jesus Christ, amen.
+
+## References
 

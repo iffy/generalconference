@@ -16,7 +16,7 @@ political, but the quiet testimonies of its members.
 Members may describe their testimonies as growing. A few say they have lost
 their testimonies. In bearing testimony, some use the term _know,_ some
 _believe._ Some say, "Lord, I believe; help thou mine unbelief." ([Mark
-9:24](https://www.lds.org/scriptures/nt/mark/9.24?lang=eng#23).)
+9:24](/scriptures/nt/mark/9.24?lang=eng#23).)
 
 I desire to edify all, no matter what the status of their testimonies.
 
@@ -40,11 +40,10 @@ whom the bell tolls; it tolls for thee." (John Donne, _Devotions,_ XVII.)
 The bell tolls for all of us. To those with strong testimonies I say, keep
 them growing. To those who have lost their testimonies I say, we need you back
 once again to take "sweet counsel together, and [to walk] unto the house of
-God in company." ([Ps.
-55:14](https://www.lds.org/scriptures/ot/ps/55.14?lang=eng#13).) Isaiah
+God in company." ([Ps. 55:14](/scriptures/ot/ps/55.14?lang=eng#13).) Isaiah
 promised: "They that wait upon the Lord shall renew their strength; they shall
 mount up with wings as eagles." ([Isa.
-40:31](https://www.lds.org/scriptures/ot/isa/40.31?lang=eng#30).)
+40:31](/scriptures/ot/isa/40.31?lang=eng#30).)
 
 The parable of the sower teaches us the principles by which we can gain or
 retain our testimonies and hints of pitfalls which we need to avoid at the
@@ -77,18 +76,16 @@ come to general conference for the interview resulting in this calling, the
 Savior visited me in spirit before dawn and again provided solace and peace.
 
 "He that keepeth Israel shall neither slumber nor sleep." ([Ps.
-121:4](https://www.lds.org/scriptures/ot/ps/121.4?lang=eng#3).) "Cast thy
-burden upon the Lord, and he shall sustain thee." ([Ps.
-55:22](https://www.lds.org/scriptures/ot/ps/55.22?lang=eng#21).) We can cry in
-times of distress, "O Jesus, thou Son of God, have mercy on me, who am in the
-gall of bitterness, and am encircled about by the everlasting chains of
-death." ([Alma
-36:18](https://www.lds.org/scriptures/bofm/alma/36.18?lang=eng#17).)
+121:4](/scriptures/ot/ps/121.4?lang=eng#3).) "Cast thy burden upon the Lord,
+and he shall sustain thee." ([Ps.
+55:22](/scriptures/ot/ps/55.22?lang=eng#21).) We can cry in times of distress,
+"O Jesus, thou Son of God, have mercy on me, who am in the gall of bitterness,
+and am encircled about by the everlasting chains of death." ([Alma
+36:18](/scriptures/bofm/alma/36.18?lang=eng#17).)
 
 I testify that He lives! I know His presence and have heard His voice in my
-mind and in my heart (see [Enos
-1:10](https://www.lds.org/scriptures/bofm/enos/1.10?lang=eng#9); [D&amp;C
-8:2](https://www.lds.org/scriptures/dc-testament/dc/8.2?lang=eng#1)).
+mind and in my heart (see [Enos 1:10](/scriptures/bofm/enos/1.10?lang=eng#9);
+[D&amp;C 8:2](/scriptures/dc-testament/dc/8.2?lang=eng#1)).
 
 He is the rock, the cornerstone, and our Redeemer. He is the "true vine" to
 which our testimonies must attach. Good soil, then, is enriched by the Savior.
@@ -108,21 +105,20 @@ Abraham became the great patriarch because he desired "to be one who possessed
 great knowledge, and to be a greater follower of righteousness, and to possess
 a greater knowledge, and to be a father of many nations, a prince of peace."
 He desired "to receive instructions, and to keep the commandments of God."
-([Abr. 1:2](https://www.lds.org/scriptures/pgp/abr/1.2?lang=eng#1).)
+([Abr. 1:2](/scriptures/pgp/abr/1.2?lang=eng#1).)
 
 Alma also explained that one must start on the road to a testimony by having a
 desire, or as he stated, you must "awake and arouse your faculties, even to an
 experiment upon my words, and exercise a particle of faith, ... even if ye can
 no more than _desire_ to believe." ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26); italics
-added.)
+32:27](/scriptures/bofm/alma/32.27?lang=eng#26); italics added.)
 
 Desire begets faith and testimony. Testimony isn't achieved by logic and
 study. For example, we can list hundreds of evidences that the Book of Mormon
 and the New Testament are true, but the skeptic can probably match us point by
 point. Without desire, the skeptic is "ever learning, and never able to come
 to the knowledge of the truth." ([2 Tim.
-3:7](https://www.lds.org/scriptures/nt/2-tim/3.7?lang=eng#6).)
+3:7](/scriptures/nt/2-tim/3.7?lang=eng#6).)
 
 I don't believe it was ever intended that the gospel be proven true by
 physical or documentary evidence acceptable to all. In this life, the believer
@@ -138,13 +134,12 @@ may grow.
 
 Jesus explained, "If any man will do his will, he shall know of the doctrine,
 whether it be of God, or whether I speak of myself." ([John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).) In other
-words, as you try it you can know it is true. This requires the faith to try,
-but it yields spiritual evidence. To the disciple who tries the experiment
-will come conviction, knowledge, and light. As the disciple continues, he
-receives "more light; and that light groweth brighter and brighter until the
-perfect day." ([D&amp;C 50:24](https://www.lds.org/scriptures/dc-
-testament/dc/50.24?lang=eng#23).)
+7:17](/scriptures/nt/john/7.17?lang=eng#16).) In other words, as you try it
+you can know it is true. This requires the faith to try, but it yields
+spiritual evidence. To the disciple who tries the experiment will come
+conviction, knowledge, and light. As the disciple continues, he receives "more
+light; and that light groweth brighter and brighter until the perfect day."
+([D&amp;C 50:24](/scriptures/dc-testament/dc/50.24?lang=eng#23).)
 
 So when I declare that I know this gospel is true, that Christ lives, and that
 Ezra Taft Benson is God's prophet, I am saying, in effect, that doing and
@@ -163,7 +158,7 @@ perfect day.
 The seed "will begin to swell ... and when you feel these swelling motions, ye
 will begin to say within yourselves--It must needs be that this is a good
 seed, or that the word is good." ([Alma
-32:28](https://www.lds.org/scriptures/bofm/alma/32.28?lang=eng#27).)
+32:28](/scriptures/bofm/alma/32.28?lang=eng#27).)
 
 Yes, there are other ways to a testimony. Paul was converted by a heavenly
 manifestation. By study and reason one can find the truth. But a testimony
@@ -183,14 +178,9 @@ mortal probation.
 As I have watched beloved friends and family lose their faith, I have tried to
 identify major causes.
 
-  1. Arrogance, or pride. One of the three dangers I shall mention is arrogance, or pride. Intellectual pursuits, financial success, positions of power, and other achievements, in and of themselves neither morally bad nor good, sometimes lead to pride and away from humble dependence on the Lord. Jacob cautioned that "to be learned is good if they hearken unto the counsels of God." (2 Ne. 9:29.) Financial and political power can also be seductive and corrupting influences.
-
-It helps to remember and emulate the meekness of Enoch, Moses, and Spencer
-Kimball.
-
-  2. Sin. Testimonies are weakened by sin, especially sexual transgressions. The sinner sometimes blames someone else, rejects the gospel, and flees. A plant growing in rocky soil withers quickly. Serious transgression, then, is the second danger to our testimonies. The road back includes removing the rocks, turning over and enriching the soil, overcoming the sin, and resisting further temptations. Increasing numbers are returning to the Church by repenting of their sins. They seldom completely lose their testimonies.
-
-  3. Substitution. The final danger I shall call substitution. Some fine and capable people become so committed to science, philosophy, history, art, music, athletics, professional pursuits, intellectual hobbies, or recreation that these interests replace the simple core values, covenants, and doctrines of the gospel. These pursuits become a substitute religion and the governing force in their lives.
+  1. Arrogance, or pride. One of the three dangers I shall mention is arrogance, or pride. Intellectual pursuits, financial success, positions of power, and other achievements, in and of themselves neither morally bad nor good, sometimes lead to pride and away from humble dependence on the Lord. Jacob cautioned that "to be learned is good if they hearken unto the counsels of God." (2 Ne. 9:29.) Financial and political power can also be seductive and corrupting influences. It helps to remember and emulate the meekness of Enoch, Moses, and Spencer Kimball. 
+  2. Sin. Testimonies are weakened by sin, especially sexual transgressions. The sinner sometimes blames someone else, rejects the gospel, and flees. A plant growing in rocky soil withers quickly. Serious transgression, then, is the second danger to our testimonies. The road back includes removing the rocks, turning over and enriching the soil, overcoming the sin, and resisting further temptations. Increasing numbers are returning to the Church by repenting of their sins. They seldom completely lose their testimonies. 
+  3. Substitution. The final danger I shall call substitution. Some fine and capable people become so committed to science, philosophy, history, art, music, athletics, professional pursuits, intellectual hobbies, or recreation that these interests replace the simple core values, covenants, and doctrines of the gospel. These pursuits become a substitute religion and the governing force in their lives. 
 
 The central gospel principles repeated over and over in the covenants and
 ordinances of the temple, embodied in the sacrament, and found in the
@@ -209,9 +199,8 @@ gospel ideals and standards.
 
 As I prepared for this moment, the backyard lawn was beginning to look green
 again, but the sprinkler on the front lawn shut down without warning. One must
-not become weary with well-doing (see [D&amp;C
-64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32)). Our
-testimonies, like our lawns, can wither.
+not become weary with well-doing (see [D&amp;C 64:33](/scriptures/dc-
+testament/dc/64.33?lang=eng#32)). Our testimonies, like our lawns, can wither.
 
 At this point you may be asking, "So what?" I shall limit myself to two
 exhortations, one to all the members of the Church and one to the leadership
@@ -231,4 +220,6 @@ of nothing which will do more to build testimonies and bless people.
 And may I just take this opportunity to express my great love to all of you
 members of the Church. I love you and appreciate you and admire all the things
 you do. In the name of Jesus Christ, amen.
+
+## References
 

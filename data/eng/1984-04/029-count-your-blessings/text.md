@@ -54,7 +54,7 @@ small wisdom. I speak to those who now walk the deep water of life or the
 rivers of sorrow. I testify to you that the Lord loves you, and Jesus Christ
 will never forget you! The Lord has said, "My son [or daughter], ... all these
 things shall give thee experience, and shall be for thy good." ([D&amp;C
-122:7](https://www.lds.org/scriptures/dc-testament/dc/122.7?lang=eng#6).)
+122:7](/scriptures/dc-testament/dc/122.7?lang=eng#6).)
 
 ## Suffering Can Make Saints
 
@@ -92,11 +92,10 @@ Finally, he graduated from law school, passed the Utah bar exam, and became a
 licensed attorney. While he was studying, exercising, and maintaining doctor's
 contact to gain strength, his wife took his two sons and divorced him. This
 was the most "sorrowful and very heavy" period of his life. ([Matt.
-26:37](https://www.lds.org/scriptures/nt/matt/26.37?lang=eng#36).) But he
-never complained and even blessed the leaving loved ones. In his heart he
-prayed, "Thy will be done, O Lord!" ([Matt.
-26:42](https://www.lds.org/scriptures/nt/matt/26.42?lang=eng#41).) It was his
-own Garden of Gethsemane, and he took his own cup and drank it as his
+26:37](/scriptures/nt/matt/26.37?lang=eng#36).) But he never complained and
+even blessed the leaving loved ones. In his heart he prayed, "Thy will be
+done, O Lord!" ([Matt. 26:42](/scriptures/nt/matt/26.42?lang=eng#41).) It was
+his own Garden of Gethsemane, and he took his own cup and drank it as his
 blessing.
 
 In the hymn "How Firm a Foundation" we sing these words:
@@ -122,10 +121,10 @@ no wasted time. He has accomplished more than ever."
 
 ## The Power to Love
 
-The Lord said, "The power is in us." (See [D&amp;C
-58:28](https://www.lds.org/scriptures/dc-testament/dc/58.28?lang=eng#27).) You
-and I have that power, the greatest power, the power of love. We can feel the
-Lord's love if we but listen. Our kindly Heavenly Father gave us--
+The Lord said, "The power is in us." (See [D&amp;C 58:28](/scriptures/dc-
+testament/dc/58.28?lang=eng#27).) You and I have that power, the greatest
+power, the power of love. We can feel the Lord's love if we but listen. Our
+kindly Heavenly Father gave us--
 
 _The power to love!_
 
@@ -217,7 +216,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 I bear you my testimony that Jesus is the Christ, the Son of the Living God.
 He himself testified of his great, sacred mission when he appeared to the
@@ -225,8 +224,10 @@ Nephites: "Arise and come forth unto me, that ye may thrust your hands into my
 side, and also that ye may feel the prints of the nails in my hands and in my
 feet, that ye may know that I am the God of Israel, and the God of the whole
 earth, and have been slain for the sins of the world." ([3 Ne.
-11:14](https://www.lds.org/scriptures/bofm/3-ne/11.14?lang=eng#13).)
+11:14](/scriptures/bofm/3-ne/11.14?lang=eng#13).)
 
 I know that he lives; I know that he loves us; and I bear you my witness in
 the name of the Lord Jesus Christ, amen.
+
+## References
 

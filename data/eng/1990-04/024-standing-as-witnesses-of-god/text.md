@@ -27,7 +27,7 @@ are acting totally alone or in concert with a host of other people, our course
 will be clear and our standards will be obvious. We will have determined, as
 the prophet Alma said, "to stand as witnesses of God at all times and in all
 things, and in all places that [we] may be in, even until death." ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).)
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).)
 
 This loyalty obviously includes support of the institutional church, but one
 of the purposes of that church is to alter and improve the way we live every
@@ -48,12 +48,11 @@ Trouble came to the Israelites the day Nebuchadnezzar made a golden idol and
 commanded all in the province of Babylon to worship it, a command that the
 three young Israelites--Shadrach, Meshach, and Abed-nego--quietly refused. The
 king was full of "rage and fury" and demanded that they be brought before him.
-([Dan. 3:13](https://www.lds.org/scriptures/ot/dan/3.13?lang=eng#12).) He
-informed them that if they did not fall down before the golden image at the
-appointed moment, "ye shall be cast the same hour into the midst of a burning
-fiery furnace." Then with some self-satisfaction he asked, "And who is that
-God that shall deliver you out of my hands?" ([Dan.
-3:15](https://www.lds.org/scriptures/ot/dan/3.15?lang=eng#14).)
+([Dan. 3:13](/scriptures/ot/dan/3.13?lang=eng#12).) He informed them that if
+they did not fall down before the golden image at the appointed moment, "ye
+shall be cast the same hour into the midst of a burning fiery furnace." Then
+with some self-satisfaction he asked, "And who is that God that shall deliver
+you out of my hands?" ([Dan. 3:15](/scriptures/ot/dan/3.15?lang=eng#14).)
 
 The three young men responded courteously but without hesitation:
 
@@ -64,7 +63,7 @@ deliver us out of thine hand, O king.
 "But if not [if for whatever reason he chooses not to save us from the fire],
 be it known unto thee, O king, that we will not serve thy gods, nor worship
 the golden image which thou hast set up." ([Dan.
-3:17-18](https://www.lds.org/scriptures/ot/dan/3.17-18?lang=eng#16).)
+3:17-18](/scriptures/ot/dan/3.17-18?lang=eng#16).)
 
 Of course Nebuchadnezzar was more furious than ever and ordered that one of
 the furnaces be heated to seven times its normal temperature. Then he
@@ -86,8 +85,7 @@ hath ... delivered his servants that trusted in him, ... [who] yielded their
 bodies, that they might not serve nor worship any god, except their own God.
 
 "... Then the king promoted Shadrach, Meshach, and Abed-nego, in the province of
-Babylon." ([Dan. 3:28,
-30](https://www.lds.org/scriptures/ot/dan/3.28%2C30?lang=eng#27).)
+Babylon." ([Dan. 3:28, 30](/scriptures/ot/dan/3.28,30?lang=eng#27).)
 
 The ability to stand by one's principles, to live with integrity and faith
 according to one's belief--that is what matters, that is the difference
@@ -142,8 +140,7 @@ These are some of the routine but crucial tests of our day in which we must be
 willing to stand true and with integrity and honor. Indeed, even in polite
 social situations we must be willing "to stand as witnesses of God at all
 times and in all things, and in all places that [we] may be in, even until
-death." ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).)
+death." ([Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).)
 
 Please permit me to close by stressing one place in society where that
 strength and commitment must be shown if we are to survive as a nation, as a
@@ -186,7 +183,9 @@ honesty and integrity, then no king or contest or fiery furnace will be able
 to compromise us. For the success of the kingdom of God on earth, may we stand
 as witnesses for him "at all times and in all things, and in all places that
 [we] may be in, even until death." ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).)
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

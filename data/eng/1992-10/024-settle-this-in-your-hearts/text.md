@@ -12,17 +12,15 @@ talents are much needed in building the kingdom!
 Any call for greater consecration is, of course, really a call to all of us.
 But these remarks are not primarily for those who are steadily striving and
 who genuinely seek to keep God's commandments and yet sometimes fall short.
-(See [D&amp;C 46:9](https://www.lds.org/scriptures/dc-
-testament/dc/46.9?lang=eng#8).) Nor is this primarily for those few in
-deliberate noncompliance, including some who cast off on intellectual and
-behavioral bungee cords in search of new sensations, only to be jerked about
-by the old heresies and the old sins.
+(See [D&amp;C 46:9](/scriptures/dc-testament/dc/46.9?lang=eng#8).) Nor is this
+primarily for those few in deliberate noncompliance, including some who cast
+off on intellectual and behavioral bungee cords in search of new sensations,
+only to be jerked about by the old heresies and the old sins.
 
 Instead, these comments are for the essentially "honorable" members who are
 skimming over the surface instead of deepening their discipleship and who are
-casually engaged rather than "anxiously engaged." ([D&amp;C
-76:75](https://www.lds.org/scriptures/dc-testament/dc/76.75?lang=eng#74);
-[D&amp;C 58:27](https://www.lds.org/scriptures/dc-
+casually engaged rather than "anxiously engaged." ([D&amp;C 76:75](/scriptures
+/dc-testament/dc/76.75?lang=eng#74); [D&amp;C 58:27](/scriptures/dc-
 testament/dc/58.27?lang=eng#26).) Though nominal in their participation, their
 reservations and hesitations inevitably show through. They may even pass
 through our holy temples, but, alas, they do not let the holy temples pass
@@ -33,15 +31,13 @@ hence, their Church chores must often be done by those already "anxiously
 engaged." Some regard themselves as merely "resting" in between Church
 callings. But we are never in between as to this soaring call from Jesus:
 "What manner of men [and women] ought ye to be? Verily I say unto you, even as
-I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26); see [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47).) It is
-never safe to rest regarding that calling! In fact, being "valiant" in one's
-testimony of Jesus includes striving to become more like Him in mind, heart,
-and attributes. ([D&amp;C 76:79](https://www.lds.org/scriptures/dc-
-testament/dc/76.79?lang=eng#78).) Becoming this manner of men and women is the
-ultimate expression of orthodoxy!
+I am." ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26); see [Matt.
+5:48](/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47).) It is never safe to rest
+regarding that calling! In fact, being "valiant" in one's testimony of Jesus
+includes striving to become more like Him in mind, heart, and attributes.
+([D&amp;C 76:79](/scriptures/dc-testament/dc/76.79?lang=eng#78).) Becoming
+this manner of men and women is the ultimate expression of orthodoxy!
 
 All are free to choose, of course, and we would not have it otherwise.
 Unfortunately, however, when some choose slackness, they are choosing not only
@@ -63,7 +59,7 @@ Casual members are usually very busy with the cares and the things of the
 world--much as honorable Amulek once was. Called many times, he would not
 hear. He really knew concerning the truths of the gospel, but Amulek would not
 acknowledge that he knew. ([Alma
-10:4-6](https://www.lds.org/scriptures/bofm/alma/10.4-6?lang=eng#3).)
+10:4-6](/scriptures/bofm/alma/10.4-6?lang=eng#3).)
 
 One common characteristic of the honorable but slack is their disdain for the
 seemingly unexciting duties of discipleship, such as daily prayer, regular
@@ -79,7 +75,7 @@ of chastity, pay their tithes, and love and serve their spouses and children.
 As good neighbors, they "bear one another's burdens," "mourn with those that
 mourn," "comfort those ... in need of comfort," and valiantly "stand as
 witnesses of God at all times and in all things, and in all places." ([Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7).)
+18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7).)
 
 When the determination is first made to begin to be more spiritually settled,
 there is an initial vulnerability: it is hard to break with the past. But once
@@ -87,22 +83,20 @@ we begin, we see how friends who would hold us back spiritually are not true
 friends at all. Any chiding from them reflects either resentment or
 unconscious worry that somehow they are being deserted. In any attempt to
 explain to them, our tongue is able to speak only "the smallest part." ([Alma
-26:16](https://www.lds.org/scriptures/bofm/alma/26.16?lang=eng#15).) We
-continue to care for them, but we care for our duty to God more. Brigham Young
-counseled candidly: "Some do not understand duties which do not coincide with
-their natural feelings and affections. ... There are duties which are above
-affection." (_Journal of Discourses,_ 7:65.)
+26:16](/scriptures/bofm/alma/26.16?lang=eng#15).) We continue to care for
+them, but we care for our duty to God more. Brigham Young counseled candidly:
+"Some do not understand duties which do not coincide with their natural
+feelings and affections. ... There are duties which are above affection."
+(_Journal of Discourses,_ 7:65.)
 
 Likewise it is only fair to warn that any determination to seek greater
 consecration will soon expose what we yet lack, a painful but necessary thing.
 Remember the rich, righteous young man who was told by Jesus, "One thing thou
-lackest"? ([Mark
-10:21](https://www.lds.org/scriptures/nt/mark/10.21?lang=eng#20).) Ananias and
+lackest"? ([Mark 10:21](/scriptures/nt/mark/10.21?lang=eng#20).) Ananias and
 Sapphira, otherwise good members of the Church, "kept back" a portion instead
 of consecrating their all. ([Acts
-5:1-11](https://www.lds.org/scriptures/nt/acts/5.1-11?lang=eng#0).) Some would
-never _sell_ Jesus for thirty pieces, but they would not _give_ Him their all
-either!
+5:1-11](/scriptures/nt/acts/5.1-11?lang=eng#0).) Some would never _sell_ Jesus
+for thirty pieces, but they would not _give_ Him their all either!
 
 Unfortunately, we tend to think of consecration only in terms of property and
 money. But there are so many ways of keeping back part. One might be giving of
@@ -116,9 +110,8 @@ Still others find it easier to bend their knees than their minds. Exciting
 exploration is preferred to plodding implementation; speculation seems more
 fun than consecration, and so is trying to soften the hard doctrines instead
 of submitting to them. Worse still, by not obeying, these few members lack
-real knowing. (See [John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).) Lacking real
-knowing, they cannot defend their faith and may become critics instead of
+real knowing. (See [John 7:17](/scriptures/nt/john/7.17?lang=eng#16).) Lacking
+real knowing, they cannot defend their faith and may become critics instead of
 defenders!
 
 A few of the latter end up in the self-reinforcing and self-congratulating
@@ -129,9 +122,8 @@ Whitehall, Buckingham Palace, and all of England combined!
 Only greater consecration will cure ambivalence and casualness in any of us!
 As already noted, the tutoring challenges arising from increased consecration
 may be severe but reflect the divine mercy necessary to induce further
-consecration. (See [Hel.
-12:3](https://www.lds.org/scriptures/bofm/hel/12.3?lang=eng#2).) If we have
-grown soft, hard times may be necessary. Deprivation may prepare us for
+consecration. (See [Hel. 12:3](/scriptures/bofm/hel/12.3?lang=eng#2).) If we
+have grown soft, hard times may be necessary. Deprivation may prepare us for
 further consecration, though we shudder at the thought. If we are too easily
 contented, God may administer a dose of divine discontent. His long-suffering
 thus becomes very necessary to maximize our agency and development. But He is
@@ -140,11 +132,10 @@ not an indulgent Father.
 We "cannot bear all things now," but the Lord "will lead [us] along," as we
 "give place" in our thoughts and schedules and "give away" our sins, which are
 the only ways we can begin to make room to receive all that God can give us.
-([D&amp;C 78:18](https://www.lds.org/scriptures/dc-
-testament/dc/78.18?lang=eng#17); [D&amp;C 50:4](https://www.lds.org/scriptures
-/dc-testament/dc/50.4?lang=eng#3); [Alma 32:27,
-28](https://www.lds.org/scriptures/bofm/alma/32.27%2C28?lang=eng#26); [Alma
-22:18](https://www.lds.org/scriptures/bofm/alma/22.18?lang=eng#17).)
+([D&amp;C 78:18](/scriptures/dc-testament/dc/78.18?lang=eng#17); [D&amp;C
+50:4](/scriptures/dc-testament/dc/50.4?lang=eng#3); [Alma 32:27,
+28](/scriptures/bofm/alma/32.27,28?lang=eng#26); [Alma
+22:18](/scriptures/bofm/alma/22.18?lang=eng#17).)
 
 Each of us is an innkeeper who decides if there is room for Jesus!
 
@@ -157,11 +148,10 @@ _The Seven Deadly Sins, _ Indiana: University of Notre Dame Press, 1979, p.
 125.)
 
 But is being consecrated and "swallowed up" a threat to our individuality?
-(See [Mosiah
-15:7](https://www.lds.org/scriptures/bofm/mosiah/15.7?lang=eng#6).) No!
-Heavenly Father is only asking us to lose the old self in order to find the
-new and the real self. It is not a question of losing our identity but of
-finding our true identity!
+(See [Mosiah 15:7](/scriptures/bofm/mosiah/15.7?lang=eng#6).) No! Heavenly
+Father is only asking us to lose the old self in order to find the new and the
+real self. It is not a question of losing our identity but of finding our true
+identity!
 
 When, at last, we are truly pointed homeward, then the world's pointing
 fingers of scorn can better be endured. As we come to know to Whom we belong,
@@ -169,7 +159,7 @@ the other forms of belonging cease to mean very much. Likewise, as Jesus
 begins to have a real place in our lives, we are much less concerned with
 losing our places in the world. When our minds really catch hold of the
 significance of Jesus' atonement, the world's hold on us loosens. (See [Alma
-36:18](https://www.lds.org/scriptures/bofm/alma/36.18?lang=eng#17).)
+36:18](/scriptures/bofm/alma/36.18?lang=eng#17).)
 
 Increased consecration is not so much a demand for more hours of Church work
 as it is for more awareness of Whose work this really is! For now,
@@ -178,11 +168,11 @@ less possessed by them.
 
 Only when things begin to come into focus "with an eye single" do we see
 "things as they really are"! ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12).) What a
-view awaits! Only to the degree that we respond to life's temptations as Jesus
-did, who "gave no heed unto them," will we be "free"--free at last! ([D&amp;C
-20:22](https://www.lds.org/scriptures/dc-testament/dc/20.22?lang=eng#21);
-[John 8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31).)
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12).) What a view awaits! Only to
+the degree that we respond to life's temptations as Jesus did, who "gave no
+heed unto them," will we be "free"--free at last! ([D&amp;C 20:22](/scriptures
+/dc-testament/dc/20.22?lang=eng#21); [John
+8:32](/scriptures/nt/john/8.32?lang=eng#31).)
 
 True orthodoxy thus brings safety and felicity! It is not only correctness but
 happiness. Strange, isn't it, even the very word _orthodoxy_ has fallen into
@@ -209,9 +199,9 @@ and Jerry Root, Wheaton, Ill.: Tindale Publications, 1989, p. 425.) A little
 criticism of the Brethren, which seems harmless enough, may not only damage
 other members but can even lead to one's setting himself up as a substitute
 "light unto the world." ([2 Ne.
-26:29](https://www.lds.org/scriptures/bofm/2-ne/26.29?lang=eng#28).) Yes,
-happily, some such prodigals do come back, but they usually walk alone,
-unaccompanied by those they once led astray!
+26:29](/scriptures/bofm/2-ne/26.29?lang=eng#28).) Yes, happily, some such
+prodigals do come back, but they usually walk alone, unaccompanied by those
+they once led astray!
 
 Jesus counseled His disciples, "Wherefore, settle this in your hearts, that ye
 will do the things which I shall teach, and command you." (JST, Luke 14:28.)
@@ -221,26 +211,24 @@ is no pain so awful as that of suspense." (_Teachings of the Prophet Joseph
 Smith,_ p. 288.) Being settled keeps us from responding to every little ripple
 of dissent as if it were a tidal wave. We are to be disciples, not
 oscillators, like a "reed shaken with the wind." ([Matt.
-11:7](https://www.lds.org/scriptures/nt/matt/11.7?lang=eng#6).) More members
-need the immense relief and peace which can come from being "settled" without
-which those individuals will be like "the troubled sea, when it cannot rest."
-([Isa. 57:20](https://www.lds.org/scriptures/ot/isa/57.20?lang=eng#19).)
+11:7](/scriptures/nt/matt/11.7?lang=eng#6).) More members need the immense
+relief and peace which can come from being "settled" without which those
+individuals will be like "the troubled sea, when it cannot rest." ([Isa.
+57:20](/scriptures/ot/isa/57.20?lang=eng#19).)
 
 There is another special reason to become settled: we will live in a time in
-which "all things shall be in commotion." ([D&amp;C
-88:91](https://www.lds.org/scriptures/dc-testament/dc/88.91?lang=eng#90);
-[D&amp;C 45:26](https://www.lds.org/scriptures/dc-
+which "all things shall be in commotion." ([D&amp;C 88:91](/scriptures/dc-
+testament/dc/88.91?lang=eng#90); [D&amp;C 45:26](/scriptures/dc-
 testament/dc/45.26?lang=eng#25).) The uncertainties, upheavals, and topsy-
 turviness of today's world will be such that those who vacillate and
 equivocate will be tossed about by severe turbulence.
 
 Finally, if we shrink from deeper consecration, then we are not worthy of Him
 who, for our sake, refused to "shrink" in the midst of His deepening agony
-during the Atonement! ([D&amp;C 19:18](https://www.lds.org/scriptures/dc-
+during the Atonement! ([D&amp;C 19:18](/scriptures/dc-
 testament/dc/19.18?lang=eng#17).) Instead, Jesus pressed forward, giving His
 all and completing His marvelous "preparations unto the children of men."
-([D&amp;C 19:19](https://www.lds.org/scriptures/dc-
-testament/dc/19.19?lang=eng#18).)
+([D&amp;C 19:19](/scriptures/dc-testament/dc/19.19?lang=eng#18).)
 
 Consider, what if Jesus' Mortal Messiahship had consisted only of remarkable
 sermons? Or was further enhanced with healings and other miracles--but without
@@ -249,9 +237,10 @@ then would we regard Jesus' ministry? Where would mankind be?
 
 Brothers and sisters, whatever we embrace instead of Jesus and His work will
 keep us from qualifying to enter His kingdom and therefore from being embraced
-by Him. (See [Morm.
-6:17](https://www.lds.org/scriptures/bofm/morm/6.17?lang=eng#16).)
+by Him. (See [Morm. 6:17](/scriptures/bofm/morm/6.17?lang=eng#16).)
 
 May we get settled and prepare now for that marvelous moment then, I pray in
 the name of Jesus Christ, amen!
+
+## References
 

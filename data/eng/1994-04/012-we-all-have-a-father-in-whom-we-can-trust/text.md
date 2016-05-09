@@ -64,7 +64,7 @@ develops that is of greater significance more than the contribution we make.
 As expressed by King Benjamin, "For how knoweth a man the master whom he has
 not served, and who is a stranger unto him, and is far from the thoughts and
 intents of his heart?" ([Mosiah
-5:13](https://www.lds.org/scriptures/bofm/mosiah/5.13?lang=eng#12).)
+5:13](/scriptures/bofm/mosiah/5.13?lang=eng#12).)
 
 Just as I was not able to fully comprehend what my earthly father was building
 until he completed his work, so it is with our Heavenly Father. When his
@@ -82,7 +82,7 @@ It is not necessary for us to know the answer to every question or comprehend
 the reason for every challenge we face to feel secure in the knowledge of our
 divine Creator. In the words of Nephi, "I know that he loveth his children;
 nevertheless, I do not know the meaning of all things" ([1 Ne.
-11:17](https://www.lds.org/scriptures/bofm/1-ne/11.17?lang=eng#16)).
+11:17](/scriptures/bofm/1-ne/11.17?lang=eng#16)).
 
 Twenty-six years after the experience with my father, I continued to learn
 important lessons through a father-and-son relationship. The exterior woodwork
@@ -126,7 +126,7 @@ flourished through the years, giving us an insight into the potential that
 exists in the eternities, as described in the Doctrine and Covenants, section
 130, verse 2: "And that same sociality which exists among us here will exist
 among us there, only it will be coupled with eternal glory, which glory we do
-not now enjoy." [[D&amp;C 130:2](https://www.lds.org/scriptures/dc-
+not now enjoy." [[D&amp;C 130:2](/scriptures/dc-
 testament/dc/130.2?lang=eng#1)]
 
 We should always remember that regardless of our circumstances, we all have a
@@ -135,15 +135,17 @@ He is our Heavenly Father.
 
 What a thrill it is to hear children singing with conviction, "I am a child of
 God." We are in truth his offspring, and he is "not far from every one of us"
-([Acts 17:27](https://www.lds.org/scriptures/nt/acts/17.27?lang=eng#26)).
+([Acts 17:27](/scriptures/nt/acts/17.27?lang=eng#26)).
 
 Each day I enjoy an increasing appreciation for the words of the Savior
 expressed in his great intercessory prayer: "And this is life eternal, that
 they might know thee the only true God, and Jesus Christ, whom thou hast sent"
-([John 17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+([John 17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 I know that he lives; I know that he loves us, for we are his children. His
 son Jesus Christ is our Advocate with the Father and leads his church today
 through living prophets. I testify that their words will guide us safely home.
 In the name of Jesus Christ, amen.
+
+## References
 

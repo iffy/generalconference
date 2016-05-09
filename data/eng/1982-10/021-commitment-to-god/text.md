@@ -8,13 +8,11 @@ exchange for the commitments of the prophets and the people.
 
 The Lord made a covenant with Noah, and the rainbow became the token of that
 eternal covenant with all mankind. (See [Gen.
-9:13](https://www.lds.org/scriptures/ot/gen/9.13?lang=eng#12).) The covenant
-made with Abraham and his seed was sealed by the ceremony of circumcision as a
-sacrament. (See [Gen.
-17:10-11](https://www.lds.org/scriptures/ot/gen/17.10-11?lang=eng#9).) And the
-token or sign of the great covenant with all Israel made at Sinai was the
-Sabbath. (See [Ex.
-31:12-17](https://www.lds.org/scriptures/ot/ex/31.12-17?lang=eng#11).)
+9:13](/scriptures/ot/gen/9.13?lang=eng#12).) The covenant made with Abraham
+and his seed was sealed by the ceremony of circumcision as a sacrament. (See
+[Gen. 17:10-11](/scriptures/ot/gen/17.10-11?lang=eng#9).) And the token or
+sign of the great covenant with all Israel made at Sinai was the Sabbath. (See
+[Ex. 31:12-17](/scriptures/ot/ex/31.12-17?lang=eng#11).)
 
 Several experiences in the life of Joshua are instructive to us today
 regarding the importance placed by the Lord on keeping commitments and on
@@ -32,21 +30,20 @@ forsake thee.
 
 "Be strong and of a good courage: for unto this people shalt thou divide for
 an inheritance the land, which I sware unto their fathers to give them."
-([Josh. 1:5-6](https://www.lds.org/scriptures/ot/josh/1.5-6?lang=eng#4).)
+([Josh. 1:5-6](/scriptures/ot/josh/1.5-6?lang=eng#4).)
 
 The Lord then continues to speak to Joshua by way of commandment:
 
 "Only be thou strong and very courageous that thou mayest observe to do
 according to all the law, which Moses my servant commanded thee: turn not from
 it to the right hand or to the left, that thou mayest prosper whithersoever
-thou goest." ([Josh.
-1:7](https://www.lds.org/scriptures/ot/josh/1.7?lang=eng#6).)
+thou goest." ([Josh. 1:7](/scriptures/ot/josh/1.7?lang=eng#6).)
 
 Then speaking about the law only to Moses, the Lord adds:
 
 "Observe to do according to all that is written therein: for then thou shalt
 make thy way prosperous, and then thou shalt have good success." ([Josh.
-1:8](https://www.lds.org/scriptures/ot/josh/1.8?lang=eng#7).)
+1:8](/scriptures/ot/josh/1.8?lang=eng#7).)
 
 Finally, we have this last reiteration by the Lord of what he had previously
 said, to comfort and to remind Joshua of the relationship between the
@@ -54,7 +51,7 @@ blessings of heaven and obedience to divine law:
 
 "Have not I commanded thee? Be strong and of a good courage; be not afraid,
 neither be thou dismayed: for the Lord thy God is with thee whithersoever thou
-goest." ([Josh. 1:9](https://www.lds.org/scriptures/ot/josh/1.9?lang=eng#8).)
+goest." ([Josh. 1:9](/scriptures/ot/josh/1.9?lang=eng#8).)
 
 Joshua would need courage for what he had to do. He would need the Lord's help
 at every step. Here is a commitment of the Lord to provide that help. With
@@ -67,19 +64,19 @@ The record tells us that the tribes of Israel moved to the Jordan River and
 encamped for three days, preparing to cross at a point near the city of
 Jericho. At that time Joshua gave his people this interesting counsel. He
 said, "Sanctify yourselves: for to morrow the Lord will do wonders among you."
-([Josh. 3:5](https://www.lds.org/scriptures/ot/josh/3.5?lang=eng#4).)
+([Josh. 3:5](/scriptures/ot/josh/3.5?lang=eng#4).)
 
 He knew the victory that would surely come would depend upon their willingness
 to do the will of the Lord. Then the Lord said unto Joshua, "This day will
 begin to magnify thee in the sight of all Israel, that they may know that, as
 I was with Moses, so I will be with thee." ([Josh.
-3:7](https://www.lds.org/scriptures/ot/josh/3.7?lang=eng#6).)
+3:7](/scriptures/ot/josh/3.7?lang=eng#6).)
 
 Joshua now knew that the miracles of the Lord would continue, just as when
 Moses had been the leader of Israel. And so it was that when the feet of the
 priests bearing the ark of the covenant before the people touched the water of
 the Jordan, it dried up, "and all the Israelites passed over on dry ground."
-([Josh. 3:17](https://www.lds.org/scriptures/ot/josh/3.17?lang=eng#16).)
+([Josh. 3:17](/scriptures/ot/josh/3.17?lang=eng#16).)
 
 Soon after, when Joshua was directed to destroy the city of Jericho that lay
 before them, the great walls of the city stood as an imposing and physically
@@ -97,7 +94,7 @@ As Joshua and his people approached Jericho, the instructions of the Lord were
 followed precisely, and according to the scriptural account, "the waIl fell
 down flat, so that the people went up into the city, every man straight before
 him, and they took the city." ([Josh.
-6:20](https://www.lds.org/scriptures/ot/josh/6.20?lang=eng#19).)
+6:20](/scriptures/ot/josh/6.20?lang=eng#19).)
 
 The record states that after Israel had rested from the wars with their
 enemies, Joshua, who was now very old, called all Israel together. In his
@@ -105,22 +102,22 @@ farewell address he reminded them they had been victorious because God had
 fought for them, but if they now ceased to serve the Lord and keep his law
 they would be destroyed. He recalled how the Lord God of Israel had led
 Abraham throughout Canaan and had "multiplied his seed." ([Josh.
-24:3](https://www.lds.org/scriptures/ot/josh/24.3?lang=eng#2).) He reminded
-them of how Jacob and his children had gone down into Egypt. He told of how
-the Lord had been with Moses and Aaron and had brought their fathers out of
-Egypt; how, in all of the battles and conquests, they had prevailed, adding
-this significant statement: "But not with thy sword, nor with thy bow."
-([Josh. 24:12](https://www.lds.org/scriptures/ot/josh/24.12?lang=eng#11).)
-They had been led by the Lord to victory. The battles had not been won by
-swords and bows. He then admonished them: "Fear the Lord, and serve him in
-sincerity and in truth: and put away the gods which your fathers served on the
-other side of the flood, and in Egypt; and serve ye the Lord." ([Josh.
-24:14](https://www.lds.org/scriptures/ot/josh/24.14?lang=eng#13).)
+24:3](/scriptures/ot/josh/24.3?lang=eng#2).) He reminded them of how Jacob and
+his children had gone down into Egypt. He told of how the Lord had been with
+Moses and Aaron and had brought their fathers out of Egypt; how, in all of the
+battles and conquests, they had prevailed, adding this significant statement:
+"But not with thy sword, nor with thy bow." ([Josh.
+24:12](/scriptures/ot/josh/24.12?lang=eng#11).) They had been led by the Lord
+to victory. The battles had not been won by swords and bows. He then
+admonished them: "Fear the Lord, and serve him in sincerity and in truth: and
+put away the gods which your fathers served on the other side of the flood,
+and in Egypt; and serve ye the Lord." ([Josh.
+24:14](/scriptures/ot/josh/24.14?lang=eng#13).)
 
 This great military and spiritual leader then urged a commitment, and made one
 himself and for his family: "Choose you this day whom ye will serve; ... "but as
 for me and my house, we will serve the Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 Here was a great statement of full commitment of a man to God; of a prophet to
 the desires of the Lord; of Joshua the man to his God, who had many times
@@ -143,25 +140,25 @@ God said unto Abraham:
 "Take now thy son, thine only son Isaac, whom thou lovest, and get thee into
 the land of Moriah; and offer him there for a burnt offering upon one of the
 mountains which I will tell thee of." ([Gen.
-22:2](https://www.lds.org/scriptures/ot/gen/22.2?lang=eng#1).)
+22:2](/scriptures/ot/gen/22.2?lang=eng#1).)
 
 The next verse simply states:
 
 "And Abraham rose up early in the morning ... and took ... Isaac his son ... and
 went unto the place of which God had told him." ([Gen.
-22:3](https://www.lds.org/scriptures/ot/gen/22.3?lang=eng#2).)
+22:3](/scriptures/ot/gen/22.3?lang=eng#2).)
 
 Years later, when Rebekah was asked if she would go with the servant of
 Abraham to become Isaac's wife, and no doubt knowing that the servant's
 mission had the blessing of the Lord, she simply said, "I will go." ([Gen.
-24:58](https://www.lds.org/scriptures/ot/gen/24.58?lang=eng#57).)
+24:58](/scriptures/ot/gen/24.58?lang=eng#57).)
 
 A generation after that, when Jacob was instructed to return to the land of
 Canaan, which meant leaving all for which he had worked many years, he called
 Rachel and Leah into the field where his flock was and explained what the Lord
 had said. The reply of Rachel was simple and straightforward and indicative of
 her commitment: "Whatsoever God hath said unto thee, do." ([Gen.
-31:16](https://www.lds.org/scriptures/ot/gen/31.16?lang=eng#15).)
+31:16](/scriptures/ot/gen/31.16?lang=eng#15).)
 
 We have, then, examples from the scriptures of how we should consider and
 evaluate the commandments of the Lord. If we choose to react like Joshua, and
@@ -179,4 +176,6 @@ arrive.
 I pray that we will have the strength to decide now to do what we ought to do.
 I pray that we will decide now to serve the Lord. In the name of Jesus Christ,
 amen.
+
+## References
 

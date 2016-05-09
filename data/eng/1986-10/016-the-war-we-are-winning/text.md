@@ -26,7 +26,7 @@ dragon; and the dragon fought and his angels,
 "And the great dragon was cast out, that old serpent, called the Devil, and
 Satan, which deceiveth the whole world: he was cast out into the earth, and
 his angels were cast out with him" ([Rev.
-12:7-9](https://www.lds.org/scriptures/nt/rev/12.7-9?lang=eng#6)).
+12:7-9](/scriptures/nt/rev/12.7-9?lang=eng#6)).
 
 That war, so bitter, so intense, has gone on, and it has never ceased. It is
 the war between truth and error, between agency and compulsion, between the
@@ -48,8 +48,7 @@ and through His sacrifice brought salvation from death to all men.
 
 That eternal war went on in the decay of the work He established, in the
 corruption which later infected it, when darkness covered the earth and gross
-darkness the people (see [Isa.
-60:2](https://www.lds.org/scriptures/ot/isa/60.2?lang=eng#1)).
+darkness the people (see [Isa. 60:2](/scriptures/ot/isa/60.2?lang=eng#1)).
 
 But the forces of God could not be vanquished. The light of Christ touched the
 heart of a man here and a man there, and vast good came to pass
@@ -149,7 +148,7 @@ Almighty.
 You boys who are here, you deacons, teachers, and priests, are all a part of
 this. The Lord has laid upon you in your priesthood offices the duty to preach
 the gospel, to teach the truth, to encourage the weak to be strong, to "invite
-all to come unto Christ" ([D&amp;C 20:59](https://www.lds.org/scriptures/dc-
+all to come unto Christ" ([D&amp;C 20:59](/scriptures/dc-
 testament/dc/20.59?lang=eng#58)).
 
 You cannot afford to partake of things that will weaken your minds and your
@@ -216,8 +215,7 @@ whom ye have seen to day, ye shall see them again no more for ever.
 "The Lord shall fight for you, and ye shall hold your peace.
 
 "And the Lord said unto Moses, ... speak unto the children of Israel, _that they
-go forward_" ([Ex.
-14:13-15](https://www.lds.org/scriptures/ot/ex/14.13-15?lang=eng#12); italics
+go forward_" ([Ex. 14:13-15](/scriptures/ot/ex/14.13-15?lang=eng#12); italics
 added).
 
 The sea parted, and the children of Israel moved to their salvation. The
@@ -238,8 +236,7 @@ darts of the wicked;
 
 "And take the helmet of salvation, and the sword of my Spirit, ... and be
 faithful until I come, and ye shall be caught up, that where I am ye shall be
-also" ([D&amp;C 27:15-18](https://www.lds.org/scriptures/dc-
-testament/dc/27.15-18?lang=eng#14)).
+also" ([D&amp;C 27:15-18](/scriptures/dc-testament/dc/27.15-18?lang=eng#14)).
 
 The war goes on. It is waged across the world over the issues of agency and
 compulsion. It is waged by an army of missionaries over the issues of truth
@@ -256,7 +253,9 @@ unafraid. "For [to quote the words of Paul to Timothy] God hath not given us
 the spirit of fear; but of power, and of love, and of a sound mind.
 
 "Be not thou therefore ashamed of the testimony of our Lord" ([2 Tim.
-1:7-8](https://www.lds.org/scriptures/nt/2-tim/1.7-8?lang=eng#6)).
+1:7-8](/scriptures/nt/2-tim/1.7-8?lang=eng#6)).
 
 In the name of Jesus Christ, amen.
+
+## References
 

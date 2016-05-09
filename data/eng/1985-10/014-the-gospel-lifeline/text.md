@@ -92,8 +92,8 @@ pressure and strain of opposing forces and remain firmly in place.
 The priesthood anchors the gospel lifeline to Heavenly Father, just as every
 effective lifeline is anchored to a sure place. "Therefore, all those who
 receive the priesthood, receive this oath and covenant of my Father, which he
-cannot break, neither can it be moved." ([D&amp;C
-84:40](https://www.lds.org/scriptures/dc-testament/dc/84.40?lang=eng#39).)
+cannot break, neither can it be moved." ([D&amp;C 84:40](/scriptures/dc-
+testament/dc/84.40?lang=eng#39).)
 
 As bearers of this priesthood, brethren, we have a great and magnificent
 responsibility.
@@ -161,8 +161,8 @@ delegated by God belongs to God. He must be holy and clean before Him. He
 represents the Lord and acts as His agent when officiating in or performing
 his priestly duties. Such priesthood rights are inseparably connected with the
 powers of heaven and can, therefore, be handled or utilized effectively only
-on the basis of personal righteousness. (See [D&amp;C
-121:36](https://www.lds.org/scriptures/dc-testament/dc/121.36?lang=eng#35).)
+on the basis of personal righteousness. (See [D&amp;C 121:36](/scriptures/dc-
+testament/dc/121.36?lang=eng#35).)
 
 We needn't try to chart our own course, brethren. The Lord's lifeline is
 already in place as a sure guide and strength. When a priesthood leader fails
@@ -297,4 +297,6 @@ _The Savior's hand_
 _And know His lifeline pulled me through._
 
 In the name of Jesus Christ, amen.
+
+## References
 

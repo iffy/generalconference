@@ -66,23 +66,22 @@ resume his journey into the wilderness on the morrow. There must have been
 great excitement in their family when the ball was shown to them. You and they
 found it to be "a round ball of curious workmanship," made "of fine brass,"
 and none of you had ever seen anything like it before. ([1 Ne.
-16:10](https://www.lds.org/scriptures/bofm/1-ne/16.10?lang=eng#9).) It had two
-spindles or pointers which were designed to indicate the direction of movement
-of the party as they went forward. For no reason that you could figure out,
-one of the spindles pointed a specific direction which was identified by Lehi
-as the direction that should be followed into the wilderness.
+16:10](/scriptures/bofm/1-ne/16.10?lang=eng#9).) It had two spindles or
+pointers which were designed to indicate the direction of movement of the
+party as they went forward. For no reason that you could figure out, one of
+the spindles pointed a specific direction which was identified by Lehi as the
+direction that should be followed into the wilderness.
 
 If you were greatly interested and observed very carefully the workings of
 this unusual ball, you would note that it worked "according to the faith and
 diligence and heed" which were given unto it concerning the way you should go.
-([1 Ne. 16:28](https://www.lds.org/scriptures/bofm/1-ne/16.28?lang=eng#27).)
-What would you think if, upon closer examination, you noted that there were
-writings upon the ball that were "plain to be read" and went farther than
-pointing direction--they explained the ways of the Lord. And what if the
-instructions were "changed from time to time" as additional demands were made
-of the Lord and this "according to the faith and diligence" which the family
-gave to it? ([1 Ne.
-16:29](https://www.lds.org/scriptures/bofm/1-ne/16.29?lang=eng#28).)
+([1 Ne. 16:28](/scriptures/bofm/1-ne/16.28?lang=eng#27).) What would you think
+if, upon closer examination, you noted that there were writings upon the ball
+that were "plain to be read" and went farther than pointing direction--they
+explained the ways of the Lord. And what if the instructions were "changed
+from time to time" as additional demands were made of the Lord and this
+"according to the faith and diligence" which the family gave to it? ([1 Ne.
+16:29](/scriptures/bofm/1-ne/16.29?lang=eng#28).)
 
 Never had you seen anything like it, for it was curious workmanship. The
 directions to which the spindles pointed were invariable, but the writings
@@ -103,13 +102,13 @@ Suppose you then were obliged to sit in the camp and listen to your older
 brothers "murmur exceedingly, because of their sufferings and afflictions in
 the wilderness" with definite criticisms of their father and yourself and even
 the Lord for having led them into this dry wilderness. ([1 Ne.
-16:20](https://www.lds.org/scriptures/bofm/1-ne/16.20?lang=eng#19).) Food was
-getting very scarce. Suppose in these difficult hours of criticism and
-complaint from your brothers that you made a bow and used a straight stick for
-an arrow, and that you had armed yourself with your new bow and arrow and with
-stones and a sling. Then you asked your father where you should go--in what
-direction--to find meat, and felt the inspiration of the faithfulness of your
-beloved father.
+16:20](/scriptures/bofm/1-ne/16.20?lang=eng#19).) Food was getting very
+scarce. Suppose in these difficult hours of criticism and complaint from your
+brothers that you made a bow and used a straight stick for an arrow, and that
+you had armed yourself with your new bow and arrow and with stones and a
+sling. Then you asked your father where you should go--in what direction--to
+find meat, and felt the inspiration of the faithfulness of your beloved
+father.
 
 But suppose that even your father had begun to murmur against the Lord for
 leaving the family in these desperate straits. How would you feel to know that
@@ -118,23 +117,22 @@ for their lack of faith and humility? Can you imagine yourself with your older
 brothers, your father, and all the family looking intently at the ball and its
 pointers to see what it would say when your father was instructed by the voice
 of the Lord to "look upon the ball, and behold the things which are written"?
-([1 Ne. 16:26](https://www.lds.org/scriptures/bofm/1-ne/16.26?lang=eng#25).)
-Can you imagine all your brothers and members of the family crowding around
-the ball to watch it work, fearing and trembling as they apparently realized
-that it was something out of this world? Would you not tremble when you were
-reminded with the whole family that the pointers of the ball would work
-"according to the faith and diligence and heed" which you paid to it? ([1 Ne.
-16:28](https://www.lds.org/scriptures/bofm/1-ne/16.28?lang=eng#27).)
+([1 Ne. 16:26](/scriptures/bofm/1-ne/16.26?lang=eng#25).) Can you imagine all
+your brothers and members of the family crowding around the ball to watch it
+work, fearing and trembling as they apparently realized that it was something
+out of this world? Would you not tremble when you were reminded with the whole
+family that the pointers of the ball would work "according to the faith and
+diligence and heed" which you paid to it? ([1 Ne.
+16:28](/scriptures/bofm/1-ne/16.28?lang=eng#27).)
 
 What if, after long journeyings and much tribulation, you finally convinced
 your brothers to help you build a ship and embark on the great ocean? Then
 after a short travel, the spindles wouldn't work anymore and the ship was
 driven backward because of lack of faith of the brothers who were very rude
-and cruel? (See [1 Ne.
-18:9](https://www.lds.org/scriptures/bofm/1-ne/18.9?lang=eng#8)ff.) What if
-they bound you hand and foot until your arms and your ankles ached? What would
-you think of all those things when you knew that if they would just live the
-word of the Lord and be faithful, the spindles would work? What would you
+and cruel? (See [1 Ne. 18:9](/scriptures/bofm/1-ne/18.9?lang=eng#8)ff.) What
+if they bound you hand and foot until your arms and your ankles ached? What
+would you think of all those things when you knew that if they would just live
+the word of the Lord and be faithful, the spindles would work? What would you
 think then if finally when the angel came and protected you and released you
 from this bondage and the brethren repented to some degree, the spindles
 worked well, and you went on to your destination?
@@ -178,4 +176,6 @@ will give serious consideration to all the things that we are hearing in this
 conference from the brethren who lead us. May the Lord bless us, brethren. May
 peace be with us and joy and comfort, and I offer this in the name of Jesus
 Christ. Amen.
+
+## References
 

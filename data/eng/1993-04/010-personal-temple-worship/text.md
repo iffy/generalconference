@@ -86,8 +86,8 @@ the ordinances of the temple were available to those entitled to receive them.
 
 The Lord "commanded Moses that he should build a tabernacle, that they should
 bear it with them in the wilderness, ... that those ordinances might be revealed
-which had been hid from before the world was." ([D&amp;C
-124:38](https://www.lds.org/scriptures/dc-testament/dc/124.38?lang=eng#37).)
+which had been hid from before the world was." ([D&amp;C 124:38](/scriptures
+/dc-testament/dc/124.38?lang=eng#37).)
 
 In Exodus the Lord instructed Moses in meticulous detail regarding the
 specifications and requirements for the building of the tabernacle. "Though
@@ -147,7 +147,7 @@ unsealed ancestors.
 _Third: _Don't try to do everything at once. King Benjamin taught: "And see
 that all these things are done in wisdom and order; for it is not requisite
 that a man should run faster than he has strength." ([Mosiah
-4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26).)
+4:27](/scriptures/bofm/mosiah/4.27?lang=eng#26).)
 
 Prayerfully determine what you should do for your ancestors. Many factors
 affect this--what other family members might have done already, your own
@@ -228,4 +228,6 @@ striking similarities on each side of the veil." (_Ensign,_ Jan. 1977, p. 3.)
 
 God bless us to love our ancestors and to be worthy of temple participation. I
 declare this work is true. In the name of Jesus Christ, amen.
+
+## References
 

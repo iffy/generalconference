@@ -12,15 +12,14 @@ in the midst of a multitude, he stretched forth his hand and said:
 world.
 
 "And behold, I am the light and the life of the world" ([3 Ne.
-11:10-11](https://www.lds.org/scriptures/bofm/3-ne/11.10-11?lang=eng#9)).
+11:10-11](/scriptures/bofm/3-ne/11.10-11?lang=eng#9)).
 
 He has repeated this declaration in many modern revelations (see [D&amp;C
-12:9](https://www.lds.org/scriptures/dc-testament/dc/12.9?lang=eng#8),
-[D&amp;C 39:2](https://www.lds.org/scriptures/dc-
-testament/dc/39.2?lang=eng#1), [D&amp;C 45:7](https://www.lds.org/scriptures
-/dc-testament/dc/45.7?lang=eng#6)). In harmony with his words, we solemnly
-affirm that Jesus Christ, the Only Begotten Son of God the Eternal Father, is
-the light and life of the world.
+12:9](/scriptures/dc-testament/dc/12.9?lang=eng#8), [D&amp;C 39:2](/scriptures
+/dc-testament/dc/39.2?lang=eng#1), [D&amp;C 45:7](/scriptures/dc-
+testament/dc/45.7?lang=eng#6)). In harmony with his words, we solemnly affirm
+that Jesus Christ, the Only Begotten Son of God the Eternal Father, is the
+light and life of the world.
 
 Jesus Christ is the light and life of the world because all things were made
 by him. Under the direction and according to the plan of God the Father, Jesus
@@ -31,67 +30,60 @@ came into the world, because the world was made by him, and in him was the
 life of men and the light of men.
 
 "The worlds were made by him; men were made by him; all things were made by
-him, and through him, and of him" ([D&amp;C
-93:9-10](https://www.lds.org/scriptures/dc-testament/dc/93.9-10?lang=eng#8)).
+him, and through him, and of him" ([D&amp;C 93:9-10](/scriptures/dc-
+testament/dc/93.9-10?lang=eng#8)).
 
 ## The Light of the World
 
 Jesus Christ is the _light_ of the world because he is the source of the light
 which "proceedeth forth from the presence of God to fill the immensity of
-space" ([D&amp;C 88:12](https://www.lds.org/scriptures/dc-
-testament/dc/88.12?lang=eng#11)). His light is "the true light that lighteth
-every man that cometh into the world" ([D&amp;C
-93:2](https://www.lds.org/scriptures/dc-testament/dc/93.2?lang=eng#1); see
-also [D&amp;C 84:46](https://www.lds.org/scriptures/dc-
-testament/dc/84.46?lang=eng#45)). The scriptures call this universal light
-"the light of truth" ([D&amp;C 88:6](https://www.lds.org/scriptures/dc-
-testament/dc/88.6?lang=eng#5)), "the light of Christ" ([D&amp;C
-88:7](https://www.lds.org/scriptures/dc-testament/dc/88.7?lang=eng#6); [Moro.
-7:18](https://www.lds.org/scriptures/bofm/moro/7.18?lang=eng#17)), and the
-"Spirit of Christ" ([Moro.
-7:16](https://www.lds.org/scriptures/bofm/moro/7.16?lang=eng#15)). This is the
-light that quickens our understanding (see [D&amp;C
-88:11](https://www.lds.org/scriptures/dc-testament/dc/88.11?lang=eng#10)). It
-is "the light by which [we] may judge" ([Moro.
-7:18](https://www.lds.org/scriptures/bofm/moro/7.18?lang=eng#17)). It "is
-given to every man, that he may know good from evil" ([Moro.
-7:16](https://www.lds.org/scriptures/bofm/moro/7.16?lang=eng#15)).
+space" ([D&amp;C 88:12](/scriptures/dc-testament/dc/88.12?lang=eng#11)). His
+light is "the true light that lighteth every man that cometh into the world"
+([D&amp;C 93:2](/scriptures/dc-testament/dc/93.2?lang=eng#1); see also
+[D&amp;C 84:46](/scriptures/dc-testament/dc/84.46?lang=eng#45)). The
+scriptures call this universal light "the light of truth" ([D&amp;C
+88:6](/scriptures/dc-testament/dc/88.6?lang=eng#5)), "the light of Christ"
+([D&amp;C 88:7](/scriptures/dc-testament/dc/88.7?lang=eng#6); [Moro.
+7:18](/scriptures/bofm/moro/7.18?lang=eng#17)), and the "Spirit of Christ"
+([Moro. 7:16](/scriptures/bofm/moro/7.16?lang=eng#15)). This is the light that
+quickens our understanding (see [D&amp;C 88:11](/scriptures/dc-
+testament/dc/88.11?lang=eng#10)). It is "the light by which [we] may judge"
+([Moro. 7:18](/scriptures/bofm/moro/7.18?lang=eng#17)). It "is given to every
+man, that he may know good from evil" ([Moro.
+7:16](/scriptures/bofm/moro/7.16?lang=eng#15)).
 
 Jesus Christ is also the light of the world because his example and his
 teachings illuminate the path we should walk to return to the presence of our
 Father in Heaven. Before Jesus was born, Zacharias prophesied that the Lord
 God of Israel would visit his people "to give light to them that sit in
 darkness and in the shadow of death, to guide [their] feet into the way of
-peace" ([Luke 1:79](https://www.lds.org/scriptures/nt/luke/1.79?lang=eng#78)).
+peace" ([Luke 1:79](/scriptures/nt/luke/1.79?lang=eng#78)).
 
 During his ministry Jesus taught, "Behold I am the light; I have set an
-example for you" ([3 Ne.
-18:16](https://www.lds.org/scriptures/bofm/3-ne/18.16?lang=eng#15)). Later, he
-told his Apostles, "Hold up your light that it may shine unto the world,"
-adding, "Behold, I am the light which ye shall hold up--that which ye have
-seen me do" ([3 Ne.
-18:24](https://www.lds.org/scriptures/bofm/3-ne/18.24?lang=eng#23)). He taught
-the Nephite multitude, "Ye know the things that ye must do in my church; for
-the works which ye have seen me do that shall ye also do" ([3 Ne.
-27:21](https://www.lds.org/scriptures/bofm/3-ne/27.21?lang=eng#20)).
+example for you" ([3 Ne. 18:16](/scriptures/bofm/3-ne/18.16?lang=eng#15)).
+Later, he told his Apostles, "Hold up your light that it may shine unto the
+world," adding, "Behold, I am the light which ye shall hold up--that which ye
+have seen me do" ([3 Ne. 18:24](/scriptures/bofm/3-ne/18.24?lang=eng#23)). He
+taught the Nephite multitude, "Ye know the things that ye must do in my
+church; for the works which ye have seen me do that shall ye also do" ([3 Ne.
+27:21](/scriptures/bofm/3-ne/27.21?lang=eng#20)).
 
 The Savior emphasized the close relationship between his light and his
 commandments when he taught the Nephites, "Behold I am the law, and the light"
-([3 Ne. 15:9](https://www.lds.org/scriptures/bofm/3-ne/15.9?lang=eng#8)).
+([3 Ne. 15:9](/scriptures/bofm/3-ne/15.9?lang=eng#8)).
 
 The Psalmist expressed that relationship: "Thy word is a lamp unto my feet,
 and a light unto my path" ([Ps.
-119:105](https://www.lds.org/scriptures/ot/ps/119.105?lang=eng#104)).
+119:105](/scriptures/ot/ps/119.105?lang=eng#104)).
 
 As the Lord led Lehi and his people out of Jerusalem, he said, "I will also be
 your light in the wilderness; and I will prepare the way before you, if it so
 be that ye shall keep my commandments" ([1 Ne.
-17:13](https://www.lds.org/scriptures/bofm/1-ne/17.13?lang=eng#12)).
+17:13](/scriptures/bofm/1-ne/17.13?lang=eng#12)).
 
 As we keep the Lord's commandments, we see his light ever brighter on our path
 and we realize the fulfillment of Isaiah's promise, "And the Lord shall guide
-thee continually" ([Isa.
-58:11](https://www.lds.org/scriptures/ot/isa/58.11?lang=eng#10)).
+thee continually" ([Isa. 58:11](/scriptures/ot/isa/58.11?lang=eng#10)).
 
 Jesus Christ is also the light of the world because his power persuades us to
 do good. The prophet Mormon taught: "All things which are good cometh of God;
@@ -99,18 +91,15 @@ do good. The prophet Mormon taught: "All things which are good cometh of God;
 
 "Wherefore, every thing which inviteth and enticeth to do good, and to love
 God, and to serve him, is inspired of God" ([Moro.
-7:12-13](https://www.lds.org/scriptures/bofm/moro/7.12-13?lang=eng#11)).
-Mormon's words anticipate what the Lord later told Moroni while he was
-compiling the Book of Mormon: "He that believeth these things which I have
-spoken, ... shall know that these things are true; for it persuadeth men to do
-good.
+7:12-13](/scriptures/bofm/moro/7.12-13?lang=eng#11)). Mormon's words
+anticipate what the Lord later told Moroni while he was compiling the Book of
+Mormon: "He that believeth these things which I have spoken, ... shall know that
+these things are true; for it persuadeth men to do good.
 
 "And whatsoever thing persuadeth men to do good is of me; for good cometh of
 none save it be of me. ... I am the light, and the life, and the truth of the
-world" ([Ether
-4:11-12](https://www.lds.org/scriptures/bofm/ether/4.11-12?lang=eng#10); see
-also [D&amp;C 11:12](https://www.lds.org/scriptures/dc-
-testament/dc/11.12?lang=eng#11)).
+world" ([Ether 4:11-12](/scriptures/bofm/ether/4.11-12?lang=eng#10); see also
+[D&amp;C 11:12](/scriptures/dc-testament/dc/11.12?lang=eng#11)).
 
 And so we see that Jesus Christ is the _light_ of the world because he is the
 source of the light that quickens our understanding, because his teachings and
@@ -121,17 +110,16 @@ good.
 
 Jesus Christ is the _life_ of the world because of his unique position in what
 the scriptures call "the great and eternal plan of deliverance from death" ([2
-Ne. 11:5](https://www.lds.org/scriptures/bofm/2-ne/11.5?lang=eng#4)).
+Ne. 11:5](/scriptures/bofm/2-ne/11.5?lang=eng#4)).
 
 Jesus taught: "I am the door: by me if any man enter in, he shall be saved. ...
 
 "I am come that they might have life, and that they might have it more
-abundantly" ([John
-10:9-10](https://www.lds.org/scriptures/nt/john/10.9-10?lang=eng#8)).
+abundantly" ([John 10:9-10](/scriptures/nt/john/10.9-10?lang=eng#8)).
 
 Later, Jesus explained to his Apostles, "I am the way, the truth, and the
 life: no man cometh unto the Father, but by me" ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5)).
+14:6](/scriptures/nt/john/14.6?lang=eng#5)).
 
 We come to the Father through the life-giving mission of the Son in two ways.
 In each of these ways, Jesus Christ is the life of the world, our Savior and
@@ -139,40 +127,37 @@ our Redeemer.
 
 Through the power and example of the infinite atonement of Jesus Christ, all
 mankind will be resurrected (see [2 Ne. 9:7,
-12](https://www.lds.org/scriptures/bofm/2-ne/9.7%2C12?lang=eng#6)). Our mortal
-life came into being because of his creative act. Our immortal life has now
-been assured because the Resurrected Lord has redeemed us from death.
-According to the plan of the Father, the Son was "the firstborn from the dead"
-([Col. 1:18](https://www.lds.org/scriptures/nt/col/1.18?lang=eng#17)). "As in
-Adam all die, even so in Christ shall all be made alive" ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21)).
+12](/scriptures/bofm/2-ne/9.7,12?lang=eng#6)). Our mortal life came into being
+because of his creative act. Our immortal life has now been assured because
+the Resurrected Lord has redeemed us from death. According to the plan of the
+Father, the Son was "the firstborn from the dead" ([Col.
+1:18](/scriptures/nt/col/1.18?lang=eng#17)). "As in Adam all die, even so in
+Christ shall all be made alive" ([1 Cor.
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21)).
 
 Jesus Christ is also the life of the world because he has atoned for the sins
 of the world. By yielding to temptation, Adam and Eve were "cut off from the
-presence of the Lord" ([Hel.
-14:16](https://www.lds.org/scriptures/bofm/hel/14.16?lang=eng#15)). In the
-scriptures this separation is called spiritual death (see [Hel.
-14:16](https://www.lds.org/scriptures/bofm/hel/14.16?lang=eng#15); [D&amp;C
-29:41](https://www.lds.org/scriptures/dc-testament/dc/29.41?lang=eng#40)).
+presence of the Lord" ([Hel. 14:16](/scriptures/bofm/hel/14.16?lang=eng#15)).
+In the scriptures this separation is called spiritual death (see [Hel.
+14:16](/scriptures/bofm/hel/14.16?lang=eng#15); [D&amp;C 29:41](/scriptures
+/dc-testament/dc/29.41?lang=eng#40)).
 
 The atonement of our Savior overcame this spiritual death. The scriptures say,
 "The Son of God hath atoned for original guilt" ([Moses
-6:54](https://www.lds.org/scriptures/pgp/moses/6.54?lang=eng#53)). As Paul
-taught the Saints in Rome: "Therefore as by the offence of one judgment came
-upon all men to condemnation; even so by the righteousness of one the free
-gift came upon all men unto justification of life" ([Rom.
-5:18](https://www.lds.org/scriptures/nt/rom/5.18?lang=eng#17)). As a result of
-this atonement, "men will be punished for their own sins, and not for Adam's
-transgression" ([A of F
-1:2](https://www.lds.org/scriptures/pgp/a-of-f/1.2?lang=eng#1)).
+6:54](/scriptures/pgp/moses/6.54?lang=eng#53)). As Paul taught the Saints in
+Rome: "Therefore as by the offence of one judgment came upon all men to
+condemnation; even so by the righteousness of one the free gift came upon all
+men unto justification of life" ([Rom.
+5:18](/scriptures/nt/rom/5.18?lang=eng#17)). As a result of this atonement,
+"men will be punished for their own sins, and not for Adam's transgression"
+([A of F 1:2](/scriptures/pgp/a-of-f/1.2?lang=eng#1)).
 
 Our Savior has redeemed us from the sin of Adam, but what about the effects of
 our own sins? Since "all have sinned" ([Rom.
-3:23](https://www.lds.org/scriptures/nt/rom/3.23?lang=eng#22)), we are all
-spiritually dead. Again, our only hope for life is our Savior, who, the
-prophet Lehi taught, "offereth himself a sacrifice for sin, to answer the ends
-of the law" ([2 Ne.
-2:7](https://www.lds.org/scriptures/bofm/2-ne/2.7?lang=eng#6)).
+3:23](/scriptures/nt/rom/3.23?lang=eng#22)), we are all spiritually dead.
+Again, our only hope for life is our Savior, who, the prophet Lehi taught,
+"offereth himself a sacrifice for sin, to answer the ends of the law" ([2 Ne.
+2:7](/scriptures/bofm/2-ne/2.7?lang=eng#6)).
 
 In order to lay claim upon our Savior's life-giving triumph over the spiritual
 death we suffer because of our own sins, we must follow the conditions he has
@@ -180,8 +165,7 @@ prescribed. As he has told us in modern revelation, "I, God, have suffered
 these things for all, that they might not suffer if they would repent;
 
 "But if they would not repent they must suffer even as I" ([D&amp;C
-19:16-17](https://www.lds.org/scriptures/dc-
-testament/dc/19.16-17?lang=eng#15)).
+19:16-17](/scriptures/dc-testament/dc/19.16-17?lang=eng#15)).
 
 Our third article of faith describes the Savior's conditions in these words:
 "We believe that through the Atonement of Christ, all mankind may be saved, by
@@ -190,7 +174,7 @@ obedience to the laws and ordinances of the Gospel."
 In the words of our Savior, recorded in the Book of Mormon as he taught the
 people on this continent, "And whosoever will hearken unto my words and
 repenteth and is baptized, the same shall be saved" ([3 Ne.
-23:5](https://www.lds.org/scriptures/bofm/3-ne/23.5?lang=eng#4)).
+23:5](/scriptures/bofm/3-ne/23.5?lang=eng#4)).
 
 In summary, the Lord Jesus Christ, our Savior and our Redeemer, is the _life_
 of the world because his resurrection and his atonement save us from both
@@ -198,7 +182,7 @@ physical and spiritual death. Jacob rejoiced in this gift of life: "O how
 great the goodness of our God, who prepareth a way for our escape from the
 grasp of this awful monster; yea, that monster, death and hell, which I call
 the death of the body, and also the death of the spirit" ([2 Ne.
-9:10](https://www.lds.org/scriptures/bofm/2-ne/9.10?lang=eng#9)).
+9:10](/scriptures/bofm/2-ne/9.10?lang=eng#9)).
 
 I wish that everyone could understand our belief and hear our testimony that
 Jesus Christ, our Savior and our Redeemer, is the light and life of the world.
@@ -239,36 +223,32 @@ achieve that same understanding.
 
 We love the Lord Jesus Christ. He is the Messiah, our Savior and our Redeemer.
 His is the only name by which we can be saved (see [Mosiah
-3:17](https://www.lds.org/scriptures/bofm/mosiah/3.17?lang=eng#16), [Mosiah
-5:8](https://www.lds.org/scriptures/bofm/mosiah/5.8?lang=eng#7); [D&amp;C
-18:23](https://www.lds.org/scriptures/dc-testament/dc/18.23?lang=eng#22)). We
-seek to serve him. We belong to his church, The Church of Jesus Christ of
-Latter-day Saints. Our missionaries and members testify of Jesus Christ in
-many nations of the world. As the prophet Nephi wrote in the Book of Mormon,
-"We talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of
-Christ, and we write according to our prophecies, that our children may know
-to what source they may look for a remission of their sins" ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25)).
+3:17](/scriptures/bofm/mosiah/3.17?lang=eng#16), [Mosiah
+5:8](/scriptures/bofm/mosiah/5.8?lang=eng#7); [D&amp;C 18:23](/scriptures/dc-
+testament/dc/18.23?lang=eng#22)). We seek to serve him. We belong to his
+church, The Church of Jesus Christ of Latter-day Saints. Our missionaries and
+members testify of Jesus Christ in many nations of the world. As the prophet
+Nephi wrote in the Book of Mormon, "We talk of Christ, we rejoice in Christ,
+we preach of Christ, we prophesy of Christ, and we write according to our
+prophecies, that our children may know to what source they may look for a
+remission of their sins" ([2 Ne.
+25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25)).
 
 As we state in our first article of faith, "We believe in God, the Eternal
 Father, and in His Son, Jesus Christ, and in the Holy Ghost." [[A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0)] God the
-Father, the great Elohim, the Almighty God, is the Father of our spirits, the
-framer of heaven and earth, and the author of the plan of our salvation (see
-[Moses 1:31-33](https://www.lds.org/scriptures/pgp/moses/1.31-33?lang=eng#30);
-[Moses 2:1-2](https://www.lds.org/scriptures/pgp/moses/2.1-2?lang=eng#0);
-[D&amp;C 20:17-21](https://www.lds.org/scriptures/dc-
-testament/dc/20.17-21?lang=eng#16)). Jesus Christ is his Only Begotten Son,
-Jehovah, the Holy One and God of Israel, the Messiah, "the God of the whole
-earth" ([3 Ne.
-11:14](https://www.lds.org/scriptures/bofm/3-ne/11.14?lang=eng#13)). As the
+1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0)] God the Father, the great Elohim,
+the Almighty God, is the Father of our spirits, the framer of heaven and
+earth, and the author of the plan of our salvation (see [Moses
+1:31-33](/scriptures/pgp/moses/1.31-33?lang=eng#30); [Moses
+2:1-2](/scriptures/pgp/moses/2.1-2?lang=eng#0); [D&amp;C 20:17-21](/scriptures
+/dc-testament/dc/20.17-21?lang=eng#16)). Jesus Christ is his Only Begotten
+Son, Jehovah, the Holy One and God of Israel, the Messiah, "the God of the
+whole earth" ([3 Ne. 11:14](/scriptures/bofm/3-ne/11.14?lang=eng#13)). As the
 Book of Mormon declares, "Salvation was, and is, and is to come, in and
 through the atoning blood of Christ, the Lord Omnipotent" ([Mosiah
-3:18](https://www.lds.org/scriptures/bofm/mosiah/3.18?lang=eng#17); see also
-[Moses 6:52,
-59](https://www.lds.org/scriptures/pgp/moses/6.52%2C59?lang=eng#51)). The
-scriptures proclaim and we reverently affirm that Jesus Christ is the light
-and life of the world.
+3:18](/scriptures/bofm/mosiah/3.18?lang=eng#17); see also [Moses 6:52,
+59](/scriptures/pgp/moses/6.52,59?lang=eng#51)). The scriptures proclaim and
+we reverently affirm that Jesus Christ is the light and life of the world.
 
 What does this knowledge mean to Latter-day Saints? (We call ourselves
 "Saints" because this is the scriptural term for those who have sought to make
@@ -277,18 +257,18 @@ their lives holy by entering into covenants to follow Christ.)
 Our Savior is the light of the world. We should live so that we can be
 enlightened by his Spirit, and so that we may hear and heed the ratifying seal
 of the Holy Ghost, which testifies of the Father and the Son (see [D&amp;C
-20:26](https://www.lds.org/scriptures/dc-testament/dc/20.26?lang=eng#25)). We
-should study the principles of his gospel and receive its ordinances. We
-should keep his commandments, including his two great commandments to love God
-and to love and serve our neighbors (see [Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35)). We
-should be faithful to the covenants we have made in the name of Jesus Christ.
+20:26](/scriptures/dc-testament/dc/20.26?lang=eng#25)). We should study the
+principles of his gospel and receive its ordinances. We should keep his
+commandments, including his two great commandments to love God and to love and
+serve our neighbors (see [Matt.
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35)). We should be faithful to
+the covenants we have made in the name of Jesus Christ.
 
 Our Savior is also the _life_ of the world. We should give thanks for his
 absolute gift of immortality. We should receive the ordinances and keep the
 covenants necessary to receive his conditional gift of life eternal, the
-greatest of all the gifts of God (see [D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6)).
+greatest of all the gifts of God (see [D&amp;C 14:7](/scriptures/dc-
+testament/dc/14.7?lang=eng#6)).
 
 In short, Latter-day Saints invite each other and all men and women everywhere
 to "come unto Christ." As a prophet has told us in the Book of Mormon: "I
@@ -296,9 +276,11 @@ would that ye should come unto Christ, who is the Holy One of Israel, and
 partake of his salvation, and the power of his redemption. Yea, come unto him,
 and offer your whole souls as an offering unto him, and continue in fasting
 and praying, and endure to the end; and as the Lord liveth ye will be saved"
-([Omni 1:26](https://www.lds.org/scriptures/bofm/omni/1.26?lang=eng#25)).
+([Omni 1:26](/scriptures/bofm/omni/1.26?lang=eng#25)).
 
 May God bless all of us to come unto Christ. I testify that he is our Savior
 and our Redeemer, the light and the life of the world, in the name of Jesus
 Christ, amen.
+
+## References
 

@@ -138,3 +138,5 @@ I bear you my witness that that prophet today is Spencer W. Kimball. I know
 that God our Father lives, and that Jesus the Christ is his son. I know this.
 I bear you that witness. In the name of Jesus Christ. Amen.
 
+## References
+

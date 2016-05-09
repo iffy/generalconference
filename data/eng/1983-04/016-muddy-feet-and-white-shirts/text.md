@@ -59,9 +59,9 @@ Of course, it doesn't have to be a great single experience to influence a
 child. Alma the Younger, who had his own youthful problems, said to his son,
 Helaman, "Now ye may suppose that this is foolishness in me; but behold I say
 unto you, that by small and simple things are great things brought to pass."
-([Alma 37:6](https://www.lds.org/scriptures/bofm/alma/37.6?lang=eng#5).) As
-fathers and sons, we should realize what great things we can accomplish by
-actions which might seem unimportant or insignificant at the time.
+([Alma 37:6](/scriptures/bofm/alma/37.6?lang=eng#5).) As fathers and sons, we
+should realize what great things we can accomplish by actions which might seem
+unimportant or insignificant at the time.
 
 For example, my dad and I have gone for ice cream after every general
 priesthood meeting since I became a deacon. We are going again tonight. Now,
@@ -111,4 +111,6 @@ for the way in which he has always honored his priesthood. I love him very
 much. I can honestly say we are the best of friends, and it is my fervent hope
 and prayer that everyone can have such a father-son relationship. In the name
 of Jesus Christ, amen.
+
+## References
 

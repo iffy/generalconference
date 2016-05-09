@@ -134,3 +134,5 @@ prevail, and you will have much to do with the success of his kingdom.
 May God help each of us to "pay the price" so that we may one day be qualified
 to return to him, I pray in the name of Jesus Christ. Amen.
 
+## References
+

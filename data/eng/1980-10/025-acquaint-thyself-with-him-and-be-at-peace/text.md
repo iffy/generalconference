@@ -37,7 +37,7 @@ follow our own devices and wisdom in leading each other astray.
 
 Jeremiah wrote, "Thus saith the Lord; Cursed be the man that trusteth in man,
 and maketh flesh his arm, and whose heart departeth from the Lord" ([Jer.
-17:5](https://www.lds.org/scriptures/ot/jer/17.5?lang=eng#4)).
+17:5](/scriptures/ot/jer/17.5?lang=eng#4)).
 
 Both our past and our present prove that of ourselves we lack the ability to
 solve our own problems. More than anything else and more than ever before, we
@@ -48,11 +48,10 @@ hypocrites, well did Esaias prophesy of you, saying,
 their lips; but their heart is far from me.
 
 "But in vain they do worship me, teaching for doctrines the commandments of
-men." ([Matt.
-15:7-9](https://www.lds.org/scriptures/nt/matt/15.7-9?lang=eng#6).)
+men." ([Matt. 15:7-9](/scriptures/nt/matt/15.7-9?lang=eng#6).)
 
 Again he said, "My doctrine is not mine, but his that sent me" ([John
-7:16](https://www.lds.org/scriptures/nt/john/7.16?lang=eng#15)).
+7:16](/scriptures/nt/john/7.16?lang=eng#15)).
 
 His divine instructions gave us all the answers to any problems that might
 confront us. But his doctrines and teachings did not go over very well with
@@ -73,19 +72,19 @@ world. Crime is at an all-time high. Sin is at an all-time high. Immorality,
 among the youth and the adults, is at an all-time high. Jesus came as our
 example. He lived a sinless life and furnished us with a working model of
 righteousness. His simple message was "Follow me" ([Luke
-9:59](https://www.lds.org/scriptures/nt/luke/9.59?lang=eng#58)). He asked us
-to follow him in his teachings, to follow him in his righteousness, and to
-follow him in his love for others. Unfortunately and sadly, many have not
-followed him; rather, they have followed those who could find no room for his
-teachings, his miracles, or his doctrines. Many have made no room for him
-because their lives are loaded down with sin and pleasures. Others have made
-room for their physical comforts; they have made room to expand their
-educational opportunities; but they have crowded him out. Some have made room
-to work more hours to accumulate material possessions; still others have made
-room to multiply their luxury and increase their leisure time and have made
-room for more sports and entertainment, but they have made no room for him.
-They have made room for many violations of the Sabbath day, but they have made
-no room for the Savior of the world--our Redeemer and Master.
+9:59](/scriptures/nt/luke/9.59?lang=eng#58)). He asked us to follow him in his
+teachings, to follow him in his righteousness, and to follow him in his love
+for others. Unfortunately and sadly, many have not followed him; rather, they
+have followed those who could find no room for his teachings, his miracles, or
+his doctrines. Many have made no room for him because their lives are loaded
+down with sin and pleasures. Others have made room for their physical
+comforts; they have made room to expand their educational opportunities; but
+they have crowded him out. Some have made room to work more hours to
+accumulate material possessions; still others have made room to multiply their
+luxury and increase their leisure time and have made room for more sports and
+entertainment, but they have made no room for him. They have made room for
+many violations of the Sabbath day, but they have made no room for the Savior
+of the world--our Redeemer and Master.
 
 Today the Lord is pleading with us through the spoken word, through the
 scriptures, through the Spirit, through his prophets, through the witness of
@@ -95,7 +94,7 @@ for a religion of convenience--one that takes no time, costs no money,
 requires no effort, and fits our lives without any required changes. It is no
 wonder the Lord said, "The foxes have holes, and the birds of the air have
 nests; but the Son of man hath not where to lay his head" ([Matt.
-8:20](https://www.lds.org/scriptures/nt/matt/8.20?lang=eng#19)).
+8:20](/scriptures/nt/matt/8.20?lang=eng#19)).
 
 As we watch our government hopelessly grapple with the mighty problems of the
 day, perhaps we should take a look at the way the Lord would handle the
@@ -129,7 +128,7 @@ breastplate of righteousness; ...
 
 "And take the helmet of salvation, and the sword of the Spirit, which is the
 word of God." ([Eph. 6:10-11, 14,
-17](https://www.lds.org/scriptures/nt/eph/6.10-11%2C14%2C17?lang=eng#9).)
+17](/scriptures/nt/eph/6.10-11,14,17?lang=eng#9).)
 
 This is not only great counsel for all of us, but it is also a great success
 formula. It is a great philosophy of life which all of us need if we are to
@@ -150,7 +149,7 @@ the Savior to come in. The door of our heart can still be opened from within.
 Our invitation to the Lord to enter our hearts must come from the inside. The
 inspired counsel from the prophet Job should be ringing in our ears. He said,
 "Acquaint now thyself with him, and be at peace" ([Job
-22:21](https://www.lds.org/scriptures/ot/job/22.21?lang=eng#20)).
+22:21](/scriptures/ot/job/22.21?lang=eng#20)).
 
 The Lord is still saying to us as he did in his time when he declared:
 "Behold, I stand at the door, and knock: If any man hear my voice, and open
@@ -158,7 +157,7 @@ the door, I will come in to him, and will sup with him, and he with me.
 
 "To him that overcometh will I grant to sit with me in my throne, even as I
 also overcame, and am set down with my Father in his throne." ([Rev.
-3:20-21](https://www.lds.org/scriptures/nt/rev/3.20-21?lang=eng#19).)
+3:20-21](/scriptures/nt/rev/3.20-21?lang=eng#19).)
 
 My prayer, my brothers and sisters, is that we will make the worst of times
 the very best of times by making room for the Redeemer of the world in our
@@ -167,4 +166,6 @@ heaven. He is the promised Messiah and Savior of the human race. He is the
 eternal judge of the souls of men and conqueror of death and sin. He is our
 deliverer. He is our all because he gave his all for us. He is our salvation
 from sorrow and sin. He is Jesus the Christ! He lives! In his name, amen.
+
+## References
 

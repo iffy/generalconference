@@ -63,12 +63,12 @@ strong testimony of the atonement of the Savior, they are taught and learned
 in an atmosphere of love and trust that goes a long way in ensuring they will
 be retained. As the scripture teaches, "Train up a child in the way he should
 go: and when he is old, he will not depart from it" ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5)). The belief,
-and finally conviction, that Jesus of Nazareth, the carpenter's son, the
-Redeemer of Israel--even our Lord and Savior, Jesus the Christ--gave his life
-in a selfless sacrifice so that we may have immortality and eternal life bring
-into focus every other teaching that we impart to our children and others for
-whom we have a stewardship.
+22:6](/scriptures/ot/prov/22.6?lang=eng#5)). The belief, and finally
+conviction, that Jesus of Nazareth, the carpenter's son, the Redeemer of
+Israel--even our Lord and Savior, Jesus the Christ--gave his life in a
+selfless sacrifice so that we may have immortality and eternal life bring into
+focus every other teaching that we impart to our children and others for whom
+we have a stewardship.
 
 Sometimes I think that we fear too much to link all of our teaching to the
 foundation of gospel truths. Too often, perhaps, we teach children to obey a
@@ -87,12 +87,11 @@ don'ts" under control. We need to learn--and then teach--that we are obedient
 to the laws and principles of the gospel because of our belief, our knowledge,
 our testimony, and our faith in Jesus Christ. Nephi, who reports in the
 scriptures that his "soul delighteth in plainness" ([2 Ne.
-25:4](https://www.lds.org/scriptures/bofm/2-ne/25.4?lang=eng#3)), reminds us
-in the twenty-fifth chapter of 2 Nephi, "We talk of Christ, we rejoice in
-Christ, we preach of Christ, we prophesy of Christ, and we write according to
-our prophecies, that our children may know to what source they may look for a
-remission of their sins" ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25)).
+25:4](/scriptures/bofm/2-ne/25.4?lang=eng#3)), reminds us in the twenty-fifth
+chapter of 2 Nephi, "We talk of Christ, we rejoice in Christ, we preach of
+Christ, we prophesy of Christ, and we write according to our prophecies, that
+our children may know to what source they may look for a remission of their
+sins" ([2 Ne. 25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25)).
 
 Perhaps knowing that it would be difficult at times for us to place our faith
 so fully in our testimonies of the Savior, President Harold B. Lee admonished
@@ -124,8 +123,7 @@ to trust God, and he told them how important it was to exercise faith. And
 then he asked this critical question which we need to ask ourselves today:
 "And now behold, I say unto you, my brethren, if ye have experienced a change
 of heart, and if ye have felt to sing the song of redeeming love, I would ask,
-can ye feel so now?" ([Alma
-5:26](https://www.lds.org/scriptures/bofm/alma/5.26?lang=eng#25).)
+can ye feel so now?" ([Alma 5:26](/scriptures/bofm/alma/5.26?lang=eng#25).)
 
 Brothers and sisters, our goodness--our every righteous endeavor--our good
 works, our obedience, and our efforts to bless others must be anchored in and
@@ -139,7 +137,7 @@ Satan wants us to fail to reach that mountaintop that will allow us to develop
 a testimony so powerful that he will be unable to influence us. His work is to
 thwart our efforts, but the Lord has counseled us, "Fear not, little flock; do
 good; let earth and hell combine against you, for if ye are built upon my
-rock, they cannot prevail" ([D&amp;C 6:34](https://www.lds.org/scriptures/dc-
+rock, they cannot prevail" ([D&amp;C 6:34](/scriptures/dc-
 testament/dc/6.34?lang=eng#33)).
 
 We have every confidence that earth and hell will not overtake you, but it
@@ -167,4 +165,6 @@ and devotion to the teachings of him of whom we testify, and through the
 blessings of his atonement in our behalf, may we teach with the power to bless
 and save our families in the kingdom of God. Of this I testify in the holy
 name of Jesus Christ, amen.
+
+## References
 

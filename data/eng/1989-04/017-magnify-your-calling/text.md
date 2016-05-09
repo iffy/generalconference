@@ -62,7 +62,7 @@ Jacob, the brother of Nephi, in speaking of the call which he and his brother
 Joseph had received, said: "And we did magnify our office unto the Lord,
 taking upon us the responsibility, answering the sins of the people upon our
 own heads if we did not teach them the word of God with all diligence."
-([Jacob 1:19](https://www.lds.org/scriptures/bofm/jacob/1.19?lang=eng#18).)
+([Jacob 1:19](/scriptures/bofm/jacob/1.19?lang=eng#18).)
 
 To every officer, to every teacher in this Church who acts in a priesthood
 office, there comes the sacred responsibility of magnifying that priesthood
@@ -79,7 +79,7 @@ image and makes more distant the object.
 Jacob says further: "Now, my beloved brethren, ... according to the
 responsibility which I am under to God, to magnify mine office with soberness,
 ... I ... declare unto you the word of God." ([Jacob
-2:2](https://www.lds.org/scriptures/bofm/jacob/2.2?lang=eng#1).)
+2:2](/scriptures/bofm/jacob/2.2?lang=eng#1).)
 
 Every missionary has the responsibility to magnify his calling in teaching the
 plan of God. Every teacher has the responsibility to magnify his calling in
@@ -87,12 +87,11 @@ teaching the word of God. Every officer has the responsibility to magnify his
 calling in teaching the order of God.
 
 Said the Lord in this dispensation to Joseph Smith and Oliver Cowdery,
-"Magnify thine office." ([D&amp;C 24:3](https://www.lds.org/scriptures/dc-
+"Magnify thine office." ([D&amp;C 24:3](/scriptures/dc-
 testament/dc/24.3?lang=eng#2).)
 
 Further, "Attend to thy calling and thou shalt have wherewith to magnify thine
-office." ([D&amp;C 24:9](https://www.lds.org/scriptures/dc-
-testament/dc/24.9?lang=eng#8).).
+office." ([D&amp;C 24:9](/scriptures/dc-testament/dc/24.9?lang=eng#8).).
 
 In that same revelation the Lord said concerning Oliver Cowdery some
 interesting and remarkable things:
@@ -102,9 +101,8 @@ strength, whether in bonds or free;
 
 "And at all times, and in all places, he shall open his mouth and declare my
 gospel as with the voice of a trump, both day and night. And I will give unto
-him strength such as is not known among men." ([D&amp;C
-24:11-12](https://www.lds.org/scriptures/dc-
-testament/dc/24.11-12?lang=eng#10).)
+him strength such as is not known among men." ([D&amp;C 24:11-12](/scriptures
+/dc-testament/dc/24.11-12?lang=eng#10).)
 
 Oliver, with Joseph Smith, received the Aaronic Priesthood under the hands of
 John the Baptist, and subsequently the Melchizedek Priesthood under the hands
@@ -166,16 +164,14 @@ diminished that calling, he shrank to oblivion and poverty. He came back, but
 he never regained his previous stature. He never regained the incomparable
 promise given him by the Lord that, conditioned upon his faithfulness, he
 should have glory and be given "strength such as is not known among men."
-([D&amp;C 24:12](https://www.lds.org/scriptures/dc-
-testament/dc/24.12?lang=eng#11).)
+([D&amp;C 24:12](/scriptures/dc-testament/dc/24.12?lang=eng#11).)
 
 Magnificent and moving is the promise to every man and boy who magnifies his
 calling as a holder of the priesthood. Said the Lord concerning you, they are
 to be "sanctified by the Spirit unto the renewing of their bodies.
 
 They become the sons of Moses and of Aaron and the seed of Abraham, and the
-church and kingdom, and the elect of God." ([D&amp;C
-84:33-34](https://www.lds.org/scriptures/dc-
+church and kingdom, and the elect of God." ([D&amp;C 84:33-34](/scriptures/dc-
 testament/dc/84.33-34?lang=eng#32).)
 
 Further, all that the Father hath shall be given unto them.
@@ -201,8 +197,8 @@ of God.
 How do _we_ do this? How do _we_ enlarge the power of the priesthood with
 which we have been endowed? We do it when we teach true and sound doctrine.
 The Lord has said: "And I give unto you a commandment that you shall teach one
-another the doctrine of the kingdom." ([D&amp;C
-88:77](https://www.lds.org/scriptures/dc-testament/dc/88.77?lang=eng#76).)
+another the doctrine of the kingdom." ([D&amp;C 88:77](/scriptures/dc-
+testament/dc/88.77?lang=eng#76).)
 
 We diminish that calling, we shrink that mission when we spend our time
 speculating about or advocating that which is not set forth in the scripture
@@ -213,8 +209,7 @@ come;
 
 "That their souls may escape the wrath of God, the desolation of abomination
 which awaits the wicked, both in this world and in the world to come."
-([D&amp;C 88:84-85](https://www.lds.org/scriptures/dc-
-testament/dc/88.84-85?lang=eng#83).)
+([D&amp;C 88:84-85](/scriptures/dc-testament/dc/88.84-85?lang=eng#83).)
 
 We magnify our priesthood and enlarge our calling when we serve with diligence
 and enthusiasm in those responsibilities to which we are called by proper
@@ -237,7 +232,7 @@ reach out to those in distress and give strength to those who falter. To you
 and to me, who have been clothed with the authority of the holy priesthood,
 the Lord has said: "Be faithful; stand in the office which I have appointed
 unto you; succor the weak, lift up the hands which hang down, and strengthen
-the feeble knees." ([D&amp;C 81:5](https://www.lds.org/scriptures/dc-
+the feeble knees." ([D&amp;C 81:5](/scriptures/dc-
 testament/dc/81.5?lang=eng#4).)
 
 There is so much of distress in this world. There are those, so many of them,
@@ -274,8 +269,7 @@ withdrawn, Amen to the priesthood or the authority of that man.
 
 "Behold, ere he is aware, he is left unto himself, to kick against the pricks,
 to persecute the saints, and to fight against God." ([D&amp;C
-121:37-38](https://www.lds.org/scriptures/dc-
-testament/dc/121.37-38?lang=eng#36).)
+121:37-38](/scriptures/dc-testament/dc/121.37-38?lang=eng#36).)
 
 Strong words, those--but as true as the sunlight in the morning. I have seen
 such men. I have seen them fall and shrivel until today they wallow in a
@@ -293,4 +287,6 @@ My brethren, I bear witness and testimony of these things. I bear testimony of
 this divine power which you and I hold. It comes from God our Eternal Father
 and is exercised in the name of His Beloved Son. In the name of Jesus Christ,
 amen.
+
+## References
 

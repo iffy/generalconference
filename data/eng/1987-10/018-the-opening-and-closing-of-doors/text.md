@@ -24,8 +24,7 @@ Spirit, and putteth off the natural man and becometh a saint through the
 atonement of Christ the Lord, and becometh as a child, submissive, meek,
 humble, patient, full of love, willing to submit to all things which the Lord
 seeth fit to inflict upon him, even as a child doth submit to his father"
-([Mosiah
-3:18-19](https://www.lds.org/scriptures/bofm/mosiah/3.18-19?lang=eng#17)).
+([Mosiah 3:18-19](/scriptures/bofm/mosiah/3.18-19?lang=eng#17)).
 
 Being childlike and submitting to our Father's will is not always easy.
 President Spencer W. Kimball, who knew a good deal about suffering,
@@ -70,9 +69,8 @@ not exempt the Savior himself. The suffering he undertook to endure, and which
 he did endure, equaled the combined suffering of all men [and women
 everywhere. Trembling and bleeding and wishing to shrink from the cup, he
 said,] 'I partook and finished my preparations unto the children of men'
-([D&amp;C 19:18-19](https://www.lds.org/scriptures/dc-
-testament/dc/19.18-19?lang=eng#17).)" (in Conference Report, Oct. 1969, p.
-57).
+([D&amp;C 19:18-19](/scriptures/dc-testament/dc/19.18-19?lang=eng#17).)" (in
+Conference Report, Oct. 1969, p. 57).
 
 All of us must finish our "preparations unto the children of men." Christ's
 preparations were quite different from our own, but we all have preparations
@@ -133,15 +131,14 @@ Jacob, a son born in the wilderness in a time of travail and opposition.
 Jacob's life was not as he might have expected it to be and not as the ideal
 course of experience might have outlined. He had suffered afflictions and
 setbacks, but Lehi promised that such afflictions would be consecrated for his
-son's gain (see [2 Ne.
-2:2](https://www.lds.org/scriptures/bofm/2-ne/2.2?lang=eng#1)).
+son's gain (see [2 Ne. 2:2](/scriptures/bofm/2-ne/2.2?lang=eng#1)).
 
 Then Lehi added these words that have become classic:
 
 "For it must needs be, that there is an opposition in all things. If not so, ...
 righteousness could not be brought to pass, neither wickedness, neither
 holiness nor misery, neither good nor bad" ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10)).
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10)).
 
 I have taken great comfort over the years in this explanation of some of
 life's pain and disappointment. I take even greater comfort that the greatest
@@ -150,8 +147,8 @@ order to better understand the contrast between righteousness and wickedness,
 holiness and misery, good and bad. From out of the dark, damp confinement of
 Liberty Jail, the Prophet Joseph Smith learned that if we are called to pass
 through tribulation, it is for our growth and experience and will ultimately
-be counted for our good (see [D&amp;C 122:5-8](https://www.lds.org/scriptures
-/dc-testament/dc/122.5-8?lang=eng#4)).
+be counted for our good (see [D&amp;C 122:5-8](/scriptures/dc-
+testament/dc/122.5-8?lang=eng#4)).
 
 Where one door shuts, another opens, even for a prophet in prison. We are not
 always wise enough nor experienced enough to judge adequately all of the
@@ -174,8 +171,7 @@ Precedes the Miracle,_ p. 98).
 At various times in our lives, probably at repeated times in our lives, we do
 have to acknowledge that God knows what we do not know and sees what we do not
 see. "For my thoughts are not your thoughts, neither are your ways my ways,
-saith the Lord" ([Isa.
-55:8](https://www.lds.org/scriptures/ot/isa/55.8?lang=eng#7)).
+saith the Lord" ([Isa. 55:8](/scriptures/ot/isa/55.8?lang=eng#7)).
 
 If you have troubles at home with children who stray, if you suffer financial
 reverses and emotional strain that threaten your homes and your happiness, if
@@ -194,4 +190,6 @@ _Thy dross to consume and thy gold to refine._
 
 May God bless us in the ups and downs of life, in the opening and closing of
 doors, I pray in the name of Jesus Christ, amen.
+
+## References
 

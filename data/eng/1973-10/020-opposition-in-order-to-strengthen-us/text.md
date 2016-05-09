@@ -18,15 +18,14 @@ anxious to come to this earth.
 Adam and Eve were the first to come. They were given their free agency without
 the capacity of knowing right from wrong until after they had partaken of the
 fruit of "the tree of knowledge of good and evil. ..." ([Moses
-3:17](https://www.lds.org/scriptures/pgp/moses/3.17?lang=eng#16).)
+3:17](/scriptures/pgp/moses/3.17?lang=eng#16).)
 
 In consequence thereof, the Lord declared to Adam: "... cursed shall be the
 _ground for thy sake. _..." ([Moses
-4:23](https://www.lds.org/scriptures/pgp/moses/4.23?lang=eng#22); italics
-added.) We often hear it said that Adam was cursed because he partook of the
-forbidden fruit. The record says "the ground" was cursed, not Adam. Then the
-Lord added "for thy sake." This means for his benefit; also for your benefit
-and mine.
+4:23](/scriptures/pgp/moses/4.23?lang=eng#22); italics added.) We often hear
+it said that Adam was cursed because he partook of the forbidden fruit. The
+record says "the ground" was cursed, not Adam. Then the Lord added "for thy
+sake." This means for his benefit; also for your benefit and mine.
 
 Adam and Eve had been in a state of stagnation: no progress--no growth--no
 reproduction. Without a change, they would have remained in that state
@@ -43,12 +42,12 @@ In the Book of Moses we read: "And Eve, his wife, heard all these things and
 was glad, saying: Were it not for our transgression we never should have had
 seed, and never should have known good and evil, and the joy of our
 redemption, and the eternal life which God giveth unto all the obedient."
-([Moses 5:11](https://www.lds.org/scriptures/pgp/moses/5.11?lang=eng#10).)
+([Moses 5:11](/scriptures/pgp/moses/5.11?lang=eng#10).)
 
 Modern revelation tells us: "... it must needs be that the devil should tempt
 the children of men, or they could not be agents unto themselves; for if they
 never should have bitter they could not know the sweet." ([D&amp;C
-29:39](https://www.lds.org/scriptures/dc-testament/dc/29.39?lang=eng#38).)
+29:39](/scriptures/dc-testament/dc/29.39?lang=eng#38).)
 
 So it is with us today, we must also have the bitter in order to know the
 sweet. Sometimes some of us think we have the bitter and not enough of the
@@ -61,13 +60,13 @@ character of man.
 
 All progress is made by overcoming an opposing force. Lehi said to his son
 Jacob: "For it must needs be, that there is an opposition in all things. ..."
-([2 Ne. 2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).)
+([2 Ne. 2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10).)
 
 "Adam fell that men might be; and men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 "God ... shall consecrate thine afflictions for thy gain." ([2 Ne.
-2:2](https://www.lds.org/scriptures/bofm/2-ne/2.2?lang=eng#1).)
+2:2](/scriptures/bofm/2-ne/2.2?lang=eng#1).)
 
 Opposition, then, is good for us as long as we don't seek it for opposition's
 sake.
@@ -121,8 +120,7 @@ revealed since the world was until now;
 
 "Which our forefathers have awaited with anxious expectation to be revealed in
 the last times, which their minds were pointed to by the angels, as held in
-reserve for the fulness of their glory." ([D&amp;C
-121:26-27](https://www.lds.org/scriptures/dc-
+reserve for the fulness of their glory." ([D&amp;C 121:26-27](/scriptures/dc-
 testament/dc/121.26-27?lang=eng#25).)
 
 This means that even our forefathers came ahead of us for our benefit, with a
@@ -134,7 +132,7 @@ part?
 
 God has said: "For behold, this is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Remember that this world was created and all the development and the progress
 on this earth from Adam till now have been primarily for _you _as much as
@@ -191,4 +189,6 @@ _--LDS Hymns, _no. 13.
 
 May the Lord bless each one of you to accomplish your goal in life, I pray in
 the name of Jesus Christ. Amen.
+
+## References
 

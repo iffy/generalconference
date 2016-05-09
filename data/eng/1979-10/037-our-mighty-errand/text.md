@@ -42,8 +42,7 @@ of you wherever and whoever you are:
 
 "So being affectionately desirous of you, we were willing to have imparted
 unto you, not the gospel of God only, but also our own souls, because ye were
-dear unto us" ([1 Thes.
-2:7-8](https://www.lds.org/scriptures/nt/1-thes/2.7-8?lang=eng#6)).
+dear unto us" ([1 Thes. 2:7-8](/scriptures/nt/1-thes/2.7-8?lang=eng#6)).
 
 What we say tonight, then, we say in all gentleness but not without strong
 feeling. The Women in this Church need to be prepared--personally prepared--
@@ -125,4 +124,6 @@ the gospel of Jesus Christ, but our own souls to those who have need of us.
 
 It is, after all, the only cause grand enough for woman's precious energies.
 In the name of Jesus Christ, amen.
+
+## References
 

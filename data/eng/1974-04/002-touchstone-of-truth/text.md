@@ -55,8 +55,7 @@ word, nor by letter as from us, as that day of Christ is at hand.
 
 "Let no man deceive you by any means: for that day shall not come, except
 there come a falling away first, and that man of sin be revealed, the son of
-perdition." ([2 Thes.
-2:1-3](https://www.lds.org/scriptures/nt/2-thes/2.1-3?lang=eng#0).)
+perdition." ([2 Thes. 2:1-3](/scriptures/nt/2-thes/2.1-3?lang=eng#0).)
 
 President Joseph Fielding Smith summed up well what had happened as he said:
 "It should be remembered that the entire Christian world in 1820 had lost the
@@ -76,9 +75,9 @@ individual and distinct. He taught that the true knowledge of the Godhead was
 essential to eternal life. He included in a prayer to his Father in heaven:
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).) Other
-references in the scriptures substantiate the individuality of the Holy Ghost.
-(See [Matt. 3:15](https://www.lds.org/scriptures/nt/matt/3.15?lang=eng#14).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).) Other references in the
+scriptures substantiate the individuality of the Holy Ghost. (See [Matt.
+3:15](/scriptures/nt/matt/3.15?lang=eng#14).)
 
 Yet in the light of this truth there was a "strange doctrine" introduced of
 man-made creeds. Says one: "There is but one God, the Creator of heaven and
@@ -103,26 +102,25 @@ image? ...
 
 "Behold, this body, which ye now behold, is the body of my spirit; ... and even
 as I appear unto thee to be in the spirit will I appear unto my people in the
-flesh." ([Ether
-3:13-16](https://www.lds.org/scriptures/bofm/ether/3.13-16?lang=eng#12).)
+flesh." ([Ether 3:13-16](/scriptures/bofm/ether/3.13-16?lang=eng#12).)
 
 Two thousand years later, this same Jesus came to earth in the same form and
 said: "... he that hath seen me hath seen the Father. ..." ([John
-14:9](https://www.lds.org/scriptures/nt/john/14.9?lang=eng#8).)
+14:9](/scriptures/nt/john/14.9?lang=eng#8).)
 
 This corporeal individuality was substantiated by the Prophet Joseph Smith who
 had the revealing experience of seeing the Father and the Son in corporeal
 form and conversing with them. He specifically states: "The Father has a body
 of flesh and bones as tangible as man's; the Son also; but the Holy Ghost has
 not a body of flesh and bones, but is a personage of Spirit. ..." ([D&amp;C
-130:22](https://www.lds.org/scriptures/dc-testament/dc/130.22?lang=eng#21).)
+130:22](/scriptures/dc-testament/dc/130.22?lang=eng#21).)
 
 Another basic scriptural truth is that Jesus taught that his church was
 founded upon the rock of revelation (see [Matt.
-16:16-18](https://www.lds.org/scriptures/nt/matt/16.16-18?lang=eng#15)), in
-harmony with the words of the prophet Amos, who declared: "Surely the Lord God
-will do nothing, but he revealeth his secret unto his servants the prophets."
-([Amos 3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+16:16-18](/scriptures/nt/matt/16.16-18?lang=eng#15)), in harmony with the
+words of the prophet Amos, who declared: "Surely the Lord God will do nothing,
+but he revealeth his secret unto his servants the prophets." ([Amos
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 There seems to be astonishment among mankind generally that God would speak
 again in this latter day. "The heavens are closed," they declare. It was a
@@ -143,14 +141,13 @@ wherefore, brethren, despise not the revelations of God.
 "Wherefore, brethren, seek not to counsel the Lord, but to take counsel from
 his hand. For behold, ye yourselves know that he counseleth in wisdom, and in
 justice, and in great mercy, over all his works." ([Jacob 4:8,
-10](https://www.lds.org/scriptures/bofm/jacob/4.8%2C10?lang=eng#7).)
+10](/scriptures/bofm/jacob/4.8,10?lang=eng#7).)
 
 The whole purpose of the gospel is to teach men that the most important thing
 in life is life itself and that man may pursue happiness. "... Men are, that
-they might have joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)) is the
-decree of the Lord. The purpose of the Book of Mormon is to convince both Jew
-and gentile that Jesus is the Christ, for only through him can salvation,
+they might have joy" ([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)) is
+the decree of the Lord. The purpose of the Book of Mormon is to convince both
+Jew and gentile that Jesus is the Christ, for only through him can salvation,
 eternal life, and eternal joy be obtained.
 
 There is great comfort in the knowledge of truth, for truth has the quality of
@@ -187,13 +184,13 @@ So were the words of Jesus: "... My doctrine is not mine, but his that sent me.
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself." ([John
-7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15).)
+7:16-17](/scriptures/nt/john/7.16-17?lang=eng#15).)
 
 So were the words of Mormon: "... I would exhort you that ye would ask God, the
 Eternal Father, in the name of Christ, if these things are not true; and if ye
 shall ask with a sincere heart, with real intent, having faith in Christ, he
 will manifest the truth of it unto you, by the power of the Holy Ghost."
-([Moro. 10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).)
+([Moro. 10:4](/scriptures/bofm/moro/10.4?lang=eng#3).)
 
 Many souls who have directed their inquiries in this manner can attest to the
 truth.
@@ -215,4 +212,6 @@ of Jesus Christ and his mission.
 May we ponder the privilege of being members of the Church of Jesus Christ and
 live according to its precepts, I humbly pray, in the name of Jesus Christ.
 Amen.
+
+## References
 

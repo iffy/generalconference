@@ -11,7 +11,7 @@ good; and an evil man out of the evil treasure of his heart bringeth forth
 that which is evil: for of the abundance of the heart his mouth speaketh.
 
 "And why call ye me, Lord, Lord, and do not the things which I say?" ([Luke
-6:45-46](https://www.lds.org/scriptures/nt/luke/6.45-46?lang=eng#44).)
+6:45-46](/scriptures/nt/luke/6.45-46?lang=eng#44).)
 
 From the very beginning the Lord taught His children the importance of
 obedience. After Adam and Eve had been driven out of the Garden of Eden, they
@@ -24,14 +24,14 @@ them, and they saw him not; for they were shut out from his presence.
 "And he gave unto them commandments, that they should worship the Lord their
 God, and should offer the firstlings of their flocks, for an offering unto the
 Lord. And Adam was obedient unto the commandments of the Lord." ([Moses
-5:4-5](https://www.lds.org/scriptures/pgp/moses/5.4-5?lang=eng#3).)
+5:4-5](/scriptures/pgp/moses/5.4-5?lang=eng#3).)
 
 Then Adam was tested after many days by an angel, who asked him why he was
 offering sacrifices. Adam said he did not know, save the Lord had commanded
 him. And then the angel explained to him the sacrifice of the Only Begotten,
 and the opportunity there was for mankind to be redeemed from the dead, and,
 if obedient, to enjoy life eternal. (See [Moses
-5:6-9](https://www.lds.org/scriptures/pgp/moses/5.6-9?lang=eng#5).)
+5:6-9](/scriptures/pgp/moses/5.6-9?lang=eng#5).)
 
 "And in that day Adam blessed God and was filled, and began to prophesy
 concerning all the families of the earth, saying: Blessed be the name of God,
@@ -42,7 +42,7 @@ have joy, and again in the flesh I shall see God.
 for our transgression we never should have had seed, and never should have
 known good and evil, and the joy of our redemption, and the eternal life which
 God giveth unto all the obedient." ([Moses
-5:10-11](https://www.lds.org/scriptures/pgp/moses/5.10-11?lang=eng#9).)
+5:10-11](/scriptures/pgp/moses/5.10-11?lang=eng#9).)
 
 Then Adam and Eve perpetuated this teaching by making all things known unto
 their sons and their daughters. Our prophets through the ages have instructed
@@ -84,8 +84,7 @@ maidservant, nor thy cattle, nor thy stranger that is within thy gates:
 
 "For in six days the Lord made heaven and earth, the sea, and all that in them
 is, and rested the seventh day: wherefore the Lord blessed the sabbath day,
-and hallowed it." ([Ex.
-20:8-11](https://www.lds.org/scriptures/ot/ex/20.8-11?lang=eng#7).)
+and hallowed it." ([Ex. 20:8-11](/scriptures/ot/ex/20.8-11?lang=eng#7).)
 
 The Lord has not withheld instructions from His Saints in this day. In fact,
 He has given us some pretty specific instructions about what we should do on
@@ -106,8 +105,8 @@ and before the Lord.
 
 "And on this day thou shalt do none other thing, only let thy food be prepared
 with singleness of heart that thy fasting may be perfect, or, in other words,
-that thy joy may be full." ([D&amp;C 59:9-13](https://www.lds.org/scriptures
-/dc-testament/dc/59.9-13?lang=eng#8).)
+that thy joy may be full." ([D&amp;C 59:9-13](/scriptures/dc-
+testament/dc/59.9-13?lang=eng#8).)
 
 There appear to be three things that the Lord would require of us in keeping
 His day holy. The first: to keep ourselves unspotted from the world. Second is
@@ -195,14 +194,15 @@ With the proper planning, we should be able to use the Lord's day in the way
 that He has intended for us.
 
 From the scriptures, let us remember, "The sabbath was made for man, and not
-man for the sabbath." ([Mark
-2:27](https://www.lds.org/scriptures/nt/mark/2.27?lang=eng#26).) And again He
-has instructed us in the Doctrine and Covenants, "Trifle not with sacred
-things." ([D&amp;C 6:12](https://www.lds.org/scriptures/dc-
+man for the sabbath." ([Mark 2:27](/scriptures/nt/mark/2.27?lang=eng#26).) And
+again He has instructed us in the Doctrine and Covenants, "Trifle not with
+sacred things." ([D&amp;C 6:12](/scriptures/dc-
 testament/dc/6.12?lang=eng#11).)
 
 I give you my witness that the greatest joy you can experience here in
 mortality is being obedient to the will of the Lord. May we always strive to
 keep His commandments, and may we keep His sacred day holy is my prayer, in
 the name of Jesus Christ, amen.
+
+## References
 

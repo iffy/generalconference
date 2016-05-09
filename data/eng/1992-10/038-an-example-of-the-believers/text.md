@@ -6,7 +6,7 @@ who has addressed us. As I contemplate the vast audience assembled tonight, I
 ponder the words of President Heber J. Grant, who declared: "I have often felt
 that a photograph of our dear sisters, with the intelligent, Godlike faces
 they possess, would be a testimony to all the world of the integrity of our
-people." [1]
+people."[1]
 
 We would certainly need the widest wide-angle lens to include all of you in
 one photograph. Such is not available to us, but with God, all things are
@@ -30,9 +30,8 @@ she will never change. She has always been a bad one." A few see beyond the
 outward appearance and recognize the true worth of a human soul. When they do,
 miracles occur. The downtrodden, the discouraged, the helpless become "no more
 strangers and foreigners, but fellowcitizens with the saints, and of the
-household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).) True love can
-alter human lives and change human nature.
+household of God." ([Eph. 2:19](/scriptures/nt/eph/2.19?lang=eng#18).) True
+love can alter human lives and change human nature.
 
 This truth was portrayed so beautifully on the stage in _My Fair Lady._ Eliza
 Doolittle, the flower girl, spoke to one for whom she cared: "You see, really
@@ -48,15 +47,15 @@ provided inspired counsel equally as applicable to you and me today as it was
 to Timothy. Listen carefully to his words: "Neglect not the gift that is in
 thee," "but be thou an example of the believers, in word, in conversation, in
 charity, in spirit, in faith, in purity." ([1 Tim. 4:14,
-12](https://www.lds.org/scriptures/nt/1-tim/4.14%2C12?lang=eng#13).)
+12](/scriptures/nt/1-tim/4.14,12?lang=eng#13).)
 
 We need not wait for a cataclysmic event, a dramatic occurrence in the world
 in which we live, or a special invitation to be an example--even a model to
 follow. Our opportunities lie before us here and now. But they are perishable.
 Likely they will be found in our own homes and in the everyday actions of our
 lives. Our Lord and Master marked the way: "[He] went about doing good."
-([Acts 10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).) He
-in very deed was a model to follow--even an example of the believers.
+([Acts 10:38](/scriptures/nt/acts/10.38?lang=eng#37).) He in very deed was a
+model to follow--even an example of the believers.
 
 Are we?
 
@@ -203,5 +202,5 @@ night, angels." In the name of Jesus Christ, amen.
 
 ## References
 
-  1.   _Gospel Standards,_ comp. G. Homer Durham (Salt Lake City: Improvement Era, 1941), p. 150.
+  1. _Gospel Standards,_ comp. G. Homer Durham (Salt Lake City: Improvement Era, 1941), p. 150.
 

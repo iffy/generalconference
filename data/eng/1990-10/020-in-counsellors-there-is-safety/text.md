@@ -104,9 +104,9 @@ ward, the quorum, the stake, the auxiliary organization, or whatever.
 
 Such a partnership provides a safety valve. The wise writer of Proverbs tells
 us that "in ... counsellors there is safety." ([Prov.
-11:14](https://www.lds.org/scriptures/ot/prov/11.14?lang=eng#13).) When
-problems arise, when difficult decisions face us, it is wonderful to have
-those with whom we can talk with confidence and trust.
+11:14](/scriptures/ot/prov/11.14?lang=eng#13).) When problems arise, when
+difficult decisions face us, it is wonderful to have those with whom we can
+talk with confidence and trust.
 
 I recall that as a boy we had our presidency meetings. Our president would
 present whatever business was before him. We would talk about it. And then we
@@ -243,4 +243,6 @@ I serve as a counselor, just as so many of you present tonight do, you in your
 responsibility and I in mine. I pray, my beloved brethren, that we may be
 faithful and true in these holy callings, in the name of the Lord Jesus
 Christ, amen.
+
+## References
 

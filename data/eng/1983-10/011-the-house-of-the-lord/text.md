@@ -59,14 +59,13 @@ pure in heart that shall come into it shall see God.
 
 "But if it be defiled I will not come into it, and my glory shall not be
 there; for I will not come into unholy temples." ([D&amp;C
-97:10-17](https://www.lds.org/scriptures/dc-
-testament/dc/97.10-17?lang=eng#9).)
+97:10-17](/scriptures/dc-testament/dc/97.10-17?lang=eng#9).)
 
 There were very few members of the Church at this time, but they all greatly
 sacrificed, and the Kirtland Temple was completed and dedicated. The Lord
 appeared in glory and accepted the temple. Moses, Elias, and Elijah also
 appeared, each to commit his keys and dispensations. (See [D&amp;C
-110](https://www.lds.org/scriptures/dc-testament/dc/110.title?lang=eng).)
+110](/scriptures/dc-testament/dc/110?lang=eng).)
 
 However, before the temple work could really begin in the Kirtland Temple, the
 Saints had to flee the attacks of mobs. The temple fell into the hands of
@@ -93,9 +92,8 @@ reveal mine ordinances therein unto my people;
 
 "For I deign to reveal unto my church things which have been kept hid from
 before the foundation of the world, things that pertain to the dispensation of
-the fulness of times." ([D&amp;C 124:28-30,
-40-41](https://www.lds.org/scriptures/dc-
-testament/dc/124.28-30%2C40-41?lang=eng#27).)
+the fulness of times." ([D&amp;C 124:28-30, 40-41](/scriptures/dc-
+testament/dc/124.28-30,40-41?lang=eng#27).)
 
 In this revelation, which is recorded in section 124 of the Doctrine and
 Covenants, reference is made to "the fulness of the priesthood." What is the
@@ -160,12 +158,13 @@ enjoy the blessings of the temple, but they also enjoyed and appreciated the
 generosity and kindness of their brothers and sisters. Surely Paul's teachings
 to the Ephesian Saints apply, when he said, "Now therefore ye are no more
 strangers and foreigners, but fellowcitizens with the saints, and of the
-household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).)
+household of God." ([Eph. 2:19](/scriptures/nt/eph/2.19?lang=eng#18).)
 
 I have a firm and abiding testimony of the importance of this work and the
 blessings it can bring into our lives. I express gratitude for this testimony
 and for the small part I now enjoy in teaching genealogy and temple work. May
 we all be blessed to receive the fulness of the blessings of the House of the
 Lord, I pray in the name of Jesus Christ, amen.
+
+## References
 

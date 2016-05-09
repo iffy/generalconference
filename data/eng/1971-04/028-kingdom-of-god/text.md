@@ -16,7 +16,7 @@ then records his words:
 hands, and that it brake in pieces the iron, the brass, the clay, the silver,
 and the gold; the great God hath made known to the king what shall come to
 pass hereafter: and the dream is certain, and the interpretation thereof
-sure." ([Dan. 2:45](https://www.lds.org/scriptures/ot/dan/2.45?lang=eng#44).)
+sure." ([Dan. 2:45](/scriptures/ot/dan/2.45?lang=eng#44).)
 
 Most religious writers and certainly all Christian authors correctly assure us
 that this kingdom which was to come is the kingdom of Jesus Christ. A serious
@@ -29,8 +29,7 @@ apostasy to come. In speaking of the latter days, Jesus warned:
 
 "For there shall arise false Christs, and false prophets, and shall shew great
 signs and wonders; insomuch that, if it were possible, they shall deceive the
-very elect." ([Matt.
-24:24](https://www.lds.org/scriptures/nt/matt/24.24?lang=eng#23).)
+very elect." ([Matt. 24:24](/scriptures/nt/matt/24.24?lang=eng#23).)
 
 He foretold the death of his apostles, which we now know actually took place.
 Before the destruction of these apostles, Paul warned the saints of his day:
@@ -40,7 +39,7 @@ word, nor by letter as from us, as that the day of Christ is at hand.
 
 "Let no man deceive you by any means; for that day shall not come, except
 there come a falling away first. ..." ([2 Thes.
-2:2-3](https://www.lds.org/scriptures/nt/2-thes/2.2-3?lang=eng#1).)
+2:2-3](/scriptures/nt/2-thes/2.2-3?lang=eng#1).)
 
 The literal fulfillment of the scriptural predictions of a universal apostasy
 is made so plain by a reasonable study of ecclesiastical history as to be
@@ -59,7 +58,7 @@ above the hills; and all nations shall flow unto it.
 of the Lord, to the house of the God of Jacob; and he will teach us of his
 ways, and we will walk in his paths: for out of Zion shall go forth the law,
 and the word of the Lord from Jerusalem." ([Isa.
-2:2-3](https://www.lds.org/scriptures/ot/isa/2.2-3?lang=eng#1).)
+2:2-3](/scriptures/ot/isa/2.2-3?lang=eng#1).)
 
 It has been revealed in these latter days that the kingdom of Jesus Christ has
 already been restored again to man:
@@ -67,7 +66,7 @@ already been restored again to man:
 "The keys of the kingdom of God are committed unto man on the earth, and from
 thence shall the gospel roll forth unto the ends of the earth, as the stone
 which is cut out of the mountain without hands shall roll forth, until it has
-filled the whole earth." ([D&amp;C 65:2](https://www.lds.org/scriptures/dc-
+filled the whole earth." ([D&amp;C 65:2](/scriptures/dc-
 testament/dc/65.2?lang=eng#1).)
 
 When the early missionaries of this church went forth into Canada, they
@@ -76,8 +75,7 @@ glorious tidings of great joy as they explained how God had spoken again from
 heaven. That gospel stone was not cut out of the mountain by the hand of any
 man. The stone was rolled forth by God himself when he revealed himself to
 Joseph Smith and, pointing to his Son, proclaimed: _"This is My Beloved Son.
-Hear Him!" _([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+Hear Him!" _([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 It was Jesus Christ, the Son, who restored to man through the person of Joseph
 Smith a divine message of restored truth and hope. The gospel of Jesus Christ
@@ -175,8 +173,8 @@ happiness to practice the promises and covenants you make with the Lord in
 those temples. As the Lord has warned us: "For if you will that I give unto
 you a place in the celestial world, you must prepare yourselves by doing the
 things which I have commanded you and required of you." ([D&amp;C
-78:7](https://www.lds.org/scriptures/dc-testament/dc/78.7?lang=eng#6).) If we
-desire to receive celestial blessings, we must keep the celestial law.
+78:7](/scriptures/dc-testament/dc/78.7?lang=eng#6).) If we desire to receive
+celestial blessings, we must keep the celestial law.
 
 To those not yet members of the Church, I ask you to examine your own hearts.
 You will recognize that what I have said about these two great prophecies does
@@ -192,4 +190,6 @@ family and friends, as that stone cut out of the mountain without hands rolls
 forth to fill the whole earth. That the kingdom of God is now is process of
 expanding under the leadership of true prophets of God, I testify in the name
 of Jesus Christ. Amen.
+
+## References
 

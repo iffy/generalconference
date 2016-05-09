@@ -25,7 +25,7 @@ should put his hands on them and pray. His disciples rebuked those that
 brought the children. "But when Jesus saw it, he was much displeased, and said
 unto them, Suffer the little children to come unto me, and forbid them not:
 for of such is the kingdom of God." ([Mark
-10:14](https://www.lds.org/scriptures/nt/mark/10.14?lang=eng#13).)
+10:14](/scriptures/nt/mark/10.14?lang=eng#13).)
 
 That lesson has never left me. Indeed, just a few months ago I relearned its
 meaning and partook of its power. My teacher was the Lord. May I share with
@@ -97,12 +97,11 @@ center showed the time to be 7:45. The leadership meeting had been
 inspirational. I was sorting my notes, preparing to step to the pulpit, when I
 heard a voice speak to my spirit. The message was brief, the words familiar:
 "Suffer the little children to come unto me, and forbid them not: for of such
-is the kingdom of God." ([Mark
-10:14](https://www.lds.org/scriptures/nt/mark/10.14?lang=eng#13).) My notes
-became a blur. My thoughts turned to a tiny girl in need of a blessing. The
-decision was made. The meeting schedule was altered. After all, people are
-more important than meetings. I turned to Bishop James Serra and asked that he
-leave the meeting and advise the Methvins.
+is the kingdom of God." ([Mark 10:14](/scriptures/nt/mark/10.14?lang=eng#13).)
+My notes became a blur. My thoughts turned to a tiny girl in need of a
+blessing. The decision was made. The meeting schedule was altered. After all,
+people are more important than meetings. I turned to Bishop James Serra and
+asked that he leave the meeting and advise the Methvins.
 
 The Methvin family had just arisen from their knees when the telephone rang
 and the message was relayed that early Sunday morning--the Lord's day--in a
@@ -185,22 +184,20 @@ _Since he kissed them and put them there._
 For us there is no need to wonder or to wait. Said the Master, "I am the
 resurrection, and the life: he that believeth in me, though he were dead, yet
 shall he live: And whosoever liveth and believeth in me shall never die."
-([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).) To
-you, Jack and Nancy Methvin, he speaks: "Peace I leave with you, my peace I
-give unto you: not as the world giveth, give I unto you. Let not your heart be
-troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).) And from
-your sweet Christal could well come the comforting expression: "I go to
-prepare a place for you. ... that where I am, there ye may be also." ([John
-14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1).)
+([John 11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).) To you, Jack and
+Nancy Methvin, he speaks: "Peace I leave with you, my peace I give unto you:
+not as the world giveth, give I unto you. Let not your heart be troubled,
+neither let it be afraid." ([John
+14:27](/scriptures/nt/john/14.27?lang=eng#26).) And from your sweet Christal
+could well come the comforting expression: "I go to prepare a place for you. ...
+that where I am, there ye may be also." ([John
+14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1).)
 
 To you, my little friend in the upper balcony, and to believers everywhere, I
 bear witness that Jesus of Nazareth does love little children, that he listens
 to your prayers and responds to them. The Master did indeed utter those words,
 "Suffer the little children to come unto me, and forbid them not: for of such
-is the kingdom of God." ([Mark
-10:14](https://www.lds.org/scriptures/nt/mark/10.14?lang=eng#13).)
+is the kingdom of God." ([Mark 10:14](/scriptures/nt/mark/10.14?lang=eng#13).)
 
 I know these are the words he spoke to the throng gathered on the coast of
 Judea by the waters of Jordan--for I have read them.
@@ -209,4 +206,6 @@ I know these are the words he spoke to an apostle on assignment in Shreveport,
 Louisiana--for I heard them.
 
 To these truths I bear record, in the name of Jesus Christ. Amen.
+
+## References
 

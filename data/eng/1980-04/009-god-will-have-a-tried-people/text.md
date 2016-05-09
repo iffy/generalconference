@@ -38,22 +38,21 @@ afflictions and sorrows that had come to him because of the rudeness of his
 brethren, and told him how these afflictions would ultimately result in good.
 These are the words of Jacob to his son: "Thou knowest the greatness of God;
 and he shall consecrate thine afflictions for thy gain" ([2 Ne.
-2:2](https://www.lds.org/scriptures/bofm/2-ne/2.2?lang=eng#1)).
+2:2](/scriptures/bofm/2-ne/2.2?lang=eng#1)).
 
 In other words, the afflictions that had come to him in the form of opposition
 or resistance would be for his good. Then Lehi added these words that have
 become classic: "For it must needs be, that there is an opposition in all
 things. If not so, ... righteousness could not be brought to pass, neither
 wickedness, neither holiness nor misery, neither good nor bad" ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10)).
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10)).
 
 We came to mortal life to encounter resistance. It was part of the plan for
 our eternal progress. Without temptation, sickness, pain, and sorrow, there
 could be no goodness, virtue, appreciation for well-being, or joy. The law of
 opposition makes freedom of choice possible; therefore, our Heavenly Father
 has commanded his children, "Choose ye this day, to serve the Lord God who
-made you" ([Moses
-6:33](https://www.lds.org/scriptures/pgp/moses/6.33?lang=eng#32)). He has
+made you" ([Moses 6:33](/scriptures/pgp/moses/6.33?lang=eng#32)). He has
 counseled us to yield to his spirit and resist temptation. Free agency, of
 course, permits us to oppose his directions; thus, we see many who resist the
 truth and yield to temptation.
@@ -63,8 +62,7 @@ terrain over which we have traveled is a grim reminder that struggle,
 persecution, and sorrow have been the lot of our forebears. Kirtland, Jackson
 County, Clay County, Haun's Mill, and Nauvoo seem synonymous with suffering--a
 part of the tribulation the Lord promised that his people would have to endure
-(see [D&amp;C 58:3](https://www.lds.org/scriptures/dc-
-testament/dc/58.3?lang=eng#2)).
+(see [D&amp;C 58:3](/scriptures/dc-testament/dc/58.3?lang=eng#2)).
 
 As we look back in retrospect, we see that it was because of the opposition
 encountered in our early history that our progress today has been made
@@ -73,19 +71,17 @@ the soul-cry of the Prophet Joseph Smith in these words: "Thine adversity and
 thine afflictions shall be but a small moment;
 
 "And then, if thou endure it well, God shall exalt thee on high" ([D&amp;C
-121:7-8](https://www.lds.org/scriptures/dc-testament/dc/121.7-8?lang=eng#6)).
+121:7-8](/scriptures/dc-testament/dc/121.7-8?lang=eng#6)).
 
 "If thou art called to pass through tribulation, ... know thou, my son, that all
 these things shall give thee experience, and shall be for thy good" ([D&amp;C
-122:5, 7](https://www.lds.org/scriptures/dc-
-testament/dc/122.5%2C7?lang=eng#4)).
+122:5, 7](/scriptures/dc-testament/dc/122.5,7?lang=eng#4)).
 
 By the tribulation well endured by numerous of our progenitors, a desert
-blossomed as a rose (see [Isa.
-35:1](https://www.lds.org/scriptures/ot/isa/35.1?lang=eng#0)), a tried and
-persecuted people provided a heritage of faith, and Zion put on her beautiful
-garments for all to see (see [D&amp;C 82:14](https://www.lds.org/scriptures
-/dc-testament/dc/82.14?lang=eng#13)).
+blossomed as a rose (see [Isa. 35:1](/scriptures/ot/isa/35.1?lang=eng#0)), a
+tried and persecuted people provided a heritage of faith, and Zion put on her
+beautiful garments for all to see (see [D&amp;C 82:14](/scriptures/dc-
+testament/dc/82.14?lang=eng#13)).
 
 One hundred fifty years of Church history provide us with a lesson that when
 resistance and opposition are greatest, our faith, commitment, and growth have
@@ -107,8 +103,7 @@ He lost all his possessions, he suffered great personal affliction and
 physical pain, some of his children met tragic death, and even his friends
 deserted him. Yet he proclaimed his faith: "[God] knoweth the way that I take:
 when he hath tried me, I shall come forth as gold. ... His way have I kept, and
-not declined" ([Job
-23:10-11](https://www.lds.org/scriptures/ot/job/23.10-11?lang=eng#9)).
+not declined" ([Job 23:10-11](/scriptures/ot/job/23.10-11?lang=eng#9)).
 
 We turn the pages to another exemplar of faith, father Abraham. He fought in
 time of war, went through a period of extensive famine, saw his own father
@@ -119,8 +114,8 @@ loss of his beloved wife, Sarah.
 
 To the early Saints of this dispensation, the Lord said, "I, the Lord, have
 suffered the affliction to come upon them. ... They must needs be chastened and
-tried, even as Abraham" ([D&amp;C 101:2, 4](https://www.lds.org/scriptures/dc-
-testament/dc/101.2%2C4?lang=eng#1)).
+tried, even as Abraham" ([D&amp;C 101:2, 4](/scriptures/dc-
+testament/dc/101.2,4?lang=eng#1)).
 
 Abraham's grandson, Jacob, was also no stranger to adversity. As a young man
 he was estranged from his twin brother and didn't return home to see his
@@ -136,11 +131,10 @@ dramatic conversion, he experienced great trial and personal affliction. He
 was imprisoned for his faith, beaten, stoned, and in his own words, buffeted
 by Satan. Yet he wrote: "Most gladly ... will I ... glory in my infirmities, that
 the power of Christ may rest upon me" ([2 Cor.
-12:9](https://www.lds.org/scriptures/nt/2-cor/12.9?lang=eng#8)). Comparing his
-own adversity to that of Paul, the Prophet Joseph once wrote, "I feel, like
-Paul, to glory in tribulation; for to this day has the God of my fathers
-delivered me" ([D&amp;C 127:2](https://www.lds.org/scriptures/dc-
-testament/dc/127.2?lang=eng#1)).
+12:9](/scriptures/nt/2-cor/12.9?lang=eng#8)). Comparing his own adversity to
+that of Paul, the Prophet Joseph once wrote, "I feel, like Paul, to glory in
+tribulation; for to this day has the God of my fathers delivered me" ([D&amp;C
+127:2](/scriptures/dc-testament/dc/127.2?lang=eng#1)).
 
 Last, I refer to the life of Nephi from the Book of Mormon as an example of
 faithful endurance. With his parents, he left prosperous circumstances in
@@ -152,12 +146,12 @@ had to separate themselves from his older brothers because they sought his
 life. Out of his despair, he declared, "My God hath been my support; he hath
 led me through mine afflictions in the wilderness; and he hath preserved me
 upon the waters of the great deep" ([2 Ne.
-4:20](https://www.lds.org/scriptures/bofm/2-ne/4.20?lang=eng#19)).
+4:20](/scriptures/bofm/2-ne/4.20?lang=eng#19)).
 
 These are biographies of faith--men whom God has honored because they relied
 on him in times of their extremity. They learned the truth that God chose them
 "in the furnace of affliction" ([Isa.
-48:10](https://www.lds.org/scriptures/ot/isa/48.10?lang=eng#9)).
+48:10](/scriptures/ot/isa/48.10?lang=eng#9)).
 
 Today other biographies of faith are being written--Saints who, like Job,
 suffer physical pain, emotional sorrow, and even disloyalty from friends--yet
@@ -169,7 +163,7 @@ gospel. There are those who know pain and sorrow because of loss of loved
 ones; who know spiritual sorrow because children go astray; who experience
 loss of health, financial reverses, and emotional distress, and yet, like Job,
 resolve, "When he hath tried me, I shall come forth as gold" ([Job
-23:10](https://www.lds.org/scriptures/ot/job/23.10?lang=eng#9)).
+23:10](/scriptures/ot/job/23.10?lang=eng#9)).
 
 We recently celebrated the birthday of President Spencer W. Kimball. Most of
 us are familiar with the fact that great adversity has been his companion for
@@ -203,4 +197,6 @@ _Thy dross to consume and thy gold to refine._
 
 May God bless us to endure well the purpose for which we were sent, I pray in
 the name of Jesus Christ, amen.
+
+## References
 

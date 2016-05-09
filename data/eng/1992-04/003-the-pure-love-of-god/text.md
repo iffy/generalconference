@@ -75,10 +75,10 @@ President of the Church. What can we learn from this story? Sister Ma Manuhii
 had no idea that this little sixteen-year-old boy would someday be President
 of the Church. She didn't expect anything from him. She helped him because she
 loved the Lord's missionary with the pure love of God. (See [Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) This
-Hawaiian couple honored, respected, loved, and took care of the missionaries
-as the Lord's messengers because they had the pure love of God. That respect
-and reverence remained with her until she died.
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) This Hawaiian couple honored,
+respected, loved, and took care of the missionaries as the Lord's messengers
+because they had the pure love of God. That respect and reverence remained
+with her until she died.
 
 Elder Smith was seasoned and matured by the Lord in the mission field, and his
 love, developed and cultivated by this beautiful Hawaiian mother, never left
@@ -88,46 +88,42 @@ was a mother to me!'"
 
 Brothers and sisters, this type of love, kindness, and thoughtfulness must--
 MUST--exist in our missionary and reactivation work. This "love of God" ([1
-Ne. 11:22,
-25](https://www.lds.org/scriptures/bofm/1-ne/11.22%2C25?lang=eng#21)) is the
-spirit of missionary work, and the spirit of reactivation. This "love of God"
-is the spirit of conversion. This "love of God" is the spirit of nurturing.
-"It is the most desirable above all things" ([1 Ne.
-11:22](https://www.lds.org/scriptures/bofm/1-ne/11.22?lang=eng#21)), and it is
-"the most joyous to the soul" ([1 Ne.
-11:23](https://www.lds.org/scriptures/bofm/1-ne/11.23?lang=eng#22)). Brothers
-and sisters, let's show our noble example like this beautiful Hawaiian mother,
-not only by feeding the missionaries, but by bringing this love as we take
-missionaries to part-member families, less-active members or nonmembers within
-the framework of the home teaching and visiting teaching programs. These
-people will be touched by this love. When Nephi saw the Savior, he exclaimed,
-"Yea, it is the love of God, which sheddeth itself abroad in the hearts of the
-children of men." ([1 Ne.
-11:22](https://www.lds.org/scriptures/bofm/1-ne/11.22?lang=eng#21).) With this
-love, when you and I work with full-time missionaries, combining our efforts,
-we can bring many converts and reactivated members to the temple. Your example
-will teach the missionaries. When they return to their wards and stakes, they
-will emulate your example.
+Ne. 11:22, 25](/scriptures/bofm/1-ne/11.22,25?lang=eng#21)) is the spirit of
+missionary work, and the spirit of reactivation. This "love of God" is the
+spirit of conversion. This "love of God" is the spirit of nurturing. "It is
+the most desirable above all things" ([1 Ne.
+11:22](/scriptures/bofm/1-ne/11.22?lang=eng#21)), and it is "the most joyous
+to the soul" ([1 Ne. 11:23](/scriptures/bofm/1-ne/11.23?lang=eng#22)).
+Brothers and sisters, let's show our noble example like this beautiful
+Hawaiian mother, not only by feeding the missionaries, but by bringing this
+love as we take missionaries to part-member families, less-active members or
+nonmembers within the framework of the home teaching and visiting teaching
+programs. These people will be touched by this love. When Nephi saw the
+Savior, he exclaimed, "Yea, it is the love of God, which sheddeth itself
+abroad in the hearts of the children of men." ([1 Ne.
+11:22](/scriptures/bofm/1-ne/11.22?lang=eng#21).) With this love, when you and
+I work with full-time missionaries, combining our efforts, we can bring many
+converts and reactivated members to the temple. Your example will teach the
+missionaries. When they return to their wards and stakes, they will emulate
+your example.
 
 Missionaries, you must be so _clean, pure, _and _diligent. _Obey and observe
 all the mission rules "with exactness." ([Alma
-57:21](https://www.lds.org/scriptures/bofm/alma/57.21?lang=eng#20).) Like
-Joseph F. Smith, be _studious _in the scriptures. (See [1 Ne.
-11:25](https://www.lds.org/scriptures/bofm/1-ne/11.25?lang=eng#24).) Exercise
-your "exceeding faith," do "not doubt." ([Alma
-57:26](https://www.lds.org/scriptures/bofm/alma/57.26?lang=eng#25).) Put your
-"trust in God." ([Alma
-57:27](https://www.lds.org/scriptures/bofm/alma/57.27?lang=eng#26).) Above
-all, you must cultivate the real missionary quality, "charity ... the pure love
-of Christ." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).)
+57:21](/scriptures/bofm/alma/57.21?lang=eng#20).) Like Joseph F. Smith, be
+_studious _in the scriptures. (See [1 Ne.
+11:25](/scriptures/bofm/1-ne/11.25?lang=eng#24).) Exercise your "exceeding
+faith," do "not doubt." ([Alma
+57:26](/scriptures/bofm/alma/57.26?lang=eng#25).) Put your "trust in God."
+([Alma 57:27](/scriptures/bofm/alma/57.27?lang=eng#26).) Above all, you must
+cultivate the real missionary quality, "charity ... the pure love of Christ."
+([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).)
 
 I testify to you that as Moroni promised us, when we "pray unto the Father
 with all _the energy of heart,_" we "may be _filled with this love, _which he
 hath bestowed upon all who are true followers of his Son, Jesus Christ."
-([Moro. 7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47);
-italics added.) When we work together--missionaries, leaders, and members--the
-Lord will bless us as he did Nephi and Lehi, the sons of Helaman.
+([Moro. 7:48](/scriptures/bofm/moro/7.48?lang=eng#47); italics added.) When we
+work together--missionaries, leaders, and members--the Lord will bless us as
+he did Nephi and Lehi, the sons of Helaman.
 
 The scripture explains, "There was exceedingly great prosperity in the church
 ... there were thousands who did join ... and were baptized unto repentance. ...
@@ -140,11 +136,12 @@ call upon his holy name. ..._
 
 "The gate of heaven [will be] open unto all, even to those who will believe on
 the name of Jesus Christ, who is the Son of God." ([Hel. 3:24,
-26-28](https://www.lds.org/scriptures/bofm/hel/3.24%2C26-28?lang=eng#23);
-italics added.)
+26-28](/scriptures/bofm/hel/3.24,26-28?lang=eng#23); italics added.)
 
 Brothers and sisters, I humbly testify to you that God lives. Jesus is the
 Christ. He loves us. As we emulate his love, we can bring wonderful brothers
 and sisters back into this fold. This is his Church. President Benson is his
 prophet. In the name of Jesus Christ, amen.
+
+## References
 

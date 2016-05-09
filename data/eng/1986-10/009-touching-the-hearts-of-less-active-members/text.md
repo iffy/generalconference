@@ -35,15 +35,14 @@ The Lord requires us--yes, you and me--to locate the less-active members and
 help them to return to the fold.
 
 "For thus saith the Lord God; Behold, I, even I, will both search my sheep,
-and seek them out" ([Ezek.
-34:11](https://www.lds.org/scriptures/ot/ezek/34.11?lang=eng#10)).
+and seek them out" ([Ezek. 34:11](/scriptures/ot/ezek/34.11?lang=eng#10)).
 
 Yes, we are to both "search my sheep" (locate them) and then "seek out" (bring
 back) less-active members and families, with unending and unqualified love.
 
 And in the process, we and they shall learn the true meaning of "ye shall ...
 find me, when ye shall search for me" ([Jer.
-29:13](https://www.lds.org/scriptures/ot/jer/29.13?lang=eng#12)).
+29:13](/scriptures/ot/jer/29.13?lang=eng#12)).
 
 Servants of the Lord prepare in humility, through study of the Book of Mormon,
 prayer, and calling on the Lord, to actually depend on the Lord so that the
@@ -108,4 +107,6 @@ I bear my humble witness that our leaders are inspired and receive revelation
 for us, that the Book of Mormon nurtures the true fountain of Christ's Spirit,
 and that this is the true, restored church of Jesus Christ on the earth. And I
 do this in the name of Jesus Christ, amen.
+
+## References
 

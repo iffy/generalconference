@@ -15,30 +15,27 @@ Modern scripture reminds us that all things belong to the Lord. He declared,
 handiwork; and all things therein are mine, ... all these properties. ...
 
 "And if the properties are mine, then ye are stewards." ([D&amp;C 104:14,
-55-56](https://www.lds.org/scriptures/dc-
-testament/dc/104.14%2C55-56?lang=eng#13).)
+55-56](/scriptures/dc-testament/dc/104.14,55-56?lang=eng#13).)
 
 The lessons of stewardship are vividly taught in the parable of the talents
-(see [Matt.
-25:14-30](https://www.lds.org/scriptures/nt/matt/25.14-30?lang=eng#13)). To be
+(see [Matt. 25:14-30](/scriptures/nt/matt/25.14-30?lang=eng#13)). To be
 profitable servants, we must improve that which the Lord has entrusted to us.
 Stewards are managers, and sound management reduces waste and ensures an
 appropriate return on invested resources. How happy were the servants who
 could report to their lord that they had done all that was expected of them
 and were told, "Well done, thou good and faithful servant: thou hast been
 faithful over a few things, I will make thee ruler over many things" ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20)).
+25:21](/scriptures/nt/matt/25.21?lang=eng#20)).
 
 I believe there are three elements which characterize successful stewardship--
 agency, diligence, and accountability. We are free to accept or reject the
 invitation to serve, but once we accept, we assume full responsibility for the
 results. In section 4 of the Doctrine and Covenants, we read, "O ye that
 embark in the service of God [I see this as the invitation], see that ye serve
-him with all your heart, might, mind and strength" ([D&amp;C
-4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1)). And
-then, in section 72: "It is required of the Lord, at the hand of every
-steward, to render an account of his stewardship, both in time and in
-eternity" ([D&amp;C 72:3](https://www.lds.org/scriptures/dc-
+him with all your heart, might, mind and strength" ([D&amp;C 4:2](/scriptures
+/dc-testament/dc/4.2?lang=eng#1)). And then, in section 72: "It is required of
+the Lord, at the hand of every steward, to render an account of his
+stewardship, both in time and in eternity" ([D&amp;C 72:3](/scriptures/dc-
 testament/dc/72.3?lang=eng#2)). While we are ultimately accountable to the
 Lord, we are also accountable to his mortal priesthood administrators.
 
@@ -151,10 +148,12 @@ either to ourselves or the Lord." (_Ensign,_ Nov. 1977, p. 79.)
 
 To all who diligently labor, the Lord gives this promise: "And whoso is found
 a faithful, a just, and a wise steward shall enter into the joy of his Lord,
-and shall inherit eternal life" ([D&amp;C
-51:19](https://www.lds.org/scriptures/dc-testament/dc/51.19?lang=eng#18)).
+and shall inherit eternal life" ([D&amp;C 51:19](/scriptures/dc-
+testament/dc/51.19?lang=eng#18)).
 
 My brothers and sisters, the Lord loves you for your devotion and untiring
 efforts. May he bless you as you continue to meet the great challenges before
 us today and tomorrow, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -6,8 +6,8 @@ attended the conference or who has listened to or viewed the proceedings.
 
 Following his experience on the Mount of Transfiguration, Peter said to Jesus,
 "Lord, it is good for us to be here." ([Matt.
-17:4](https://www.lds.org/scriptures/nt/matt/17.4?lang=eng#3).) President
-Kimball, it is good for all of us to have been here.
+17:4](/scriptures/nt/matt/17.4?lang=eng#3).) President Kimball, it is good for
+all of us to have been here.
 
 I pray that the same sweet spirit which has prevailed will continue with me as
 I respond to this opportunity to address you.
@@ -48,25 +48,21 @@ position? Whom would I? Candidates are many--competition severe.
 I nominate to the Hall of Fame the name of Adam, the first man to live upon
 the earth. His citation is from Moses: "And Adam was obedient unto the
 commandments of the Lord." ([Moses
-5:5](https://www.lds.org/scriptures/pgp/moses/5.5?lang=eng#4).) Adam
-qualifies.
+5:5](/scriptures/pgp/moses/5.5?lang=eng#4).) Adam qualifies.
 
 For patient endurance there must be nominated a perfect and upright man whose
 name was Job. Though afflicted as no other, he declared: "My witness is in
 heaven, and my record is on high.
 
 "My friends scorn me: but mine eye poureth out tears unto God." ([Job
-16:19-20](https://www.lds.org/scriptures/ot/job/16.19-20?lang=eng#18).) "I
-know that my redeemer liveth." ([Job
-19:25](https://www.lds.org/scriptures/ot/job/19.25?lang=eng#24).) Job
-qualifies.
+16:19-20](/scriptures/ot/job/16.19-20?lang=eng#18).) "I know that my redeemer
+liveth." ([Job 19:25](/scriptures/ot/job/19.25?lang=eng#24).) Job qualifies.
 
 Every Christian would nominate the man Saul, better known as Paul the apostle.
 His sermons are as manna to the spirit, his life of service an example to all.
 This fearless missionary declared to the world: "For I am not ashamed of the
 gospel of Christ: for it is the power of God unto salvation." ([Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).) Paul
-qualifies.
+1:16](/scriptures/nt/rom/1.16?lang=eng#15).) Paul qualifies.
 
 Then there is the man called Simon Peter. His testimony of the Christ stirs
 the heart:
@@ -80,8 +76,7 @@ others, Jeremias, or one of the prophets.
 "He saith unto them, But whom say ye that I am?
 
 "And Simon Peter answered and said, Thou art the Christ, the Son of the living
-God." ([Matt.
-16:13-16](https://www.lds.org/scriptures/nt/matt/16.13-16?lang=eng#12).) Peter
+God." ([Matt. 16:13-16](/scriptures/nt/matt/16.13-16?lang=eng#12).) Peter
 qualifies.
 
 Of another time and place we recall the testimony of Nephi:
@@ -89,16 +84,16 @@ Of another time and place we recall the testimony of Nephi:
 "I will go and do the things which the Lord hath commanded, for I know that
 the Lord giveth no commandments unto the children of men, save he shall
 prepare a way for them that they may accomplish the thing which he commandeth
-them." ([1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
-Surely Nephi is worthy of a place in the Hall of Fame.
+them." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).) Surely Nephi is
+worthy of a place in the Hall of Fame.
 
 There is yet another I choose to nominate--even the Prophet Joseph Smith. His
 faith, his trust, his testimony are reflected by his own words, spoken as he
 went to Carthage Jail and martyrdom: "I am going like a lamb to the slaughter;
 but I am calm as a summer's morning; I have a conscience void of offense
-towards God, and towards all men." ([D&amp;C
-135:4](https://www.lds.org/scriptures/dc-testament/dc/135.4?lang=eng#3).) He
-sealed his testimony with his blood. Joseph Smith qualifies.
+towards God, and towards all men." ([D&amp;C 135:4](/scriptures/dc-
+testament/dc/135.4?lang=eng#3).) He sealed his testimony with his blood.
+Joseph Smith qualifies.
 
 In our selection of heroes, let us nominate also heroines. First, that noble
 example of fidelity--even Ruth. Sensing the grief-stricken heart of her
@@ -108,17 +103,15 @@ Naomi, Ruth uttered what has become that classic statement of loyalty:
 "Intreat me not to leave thee, or to return from following after thee: for
 whither thou goest, I will go; and where thou lodgest, I will lodge: thy
 people shall be my people, and thy God my God." ([Ruth
-1:16](https://www.lds.org/scriptures/ot/ruth/1.16?lang=eng#15).) Ruth's
-actions demonstrated the sincerity of her words. There is place for her name
-in the Hall of Fame.
+1:16](/scriptures/ot/ruth/1.16?lang=eng#15).) Ruth's actions demonstrated the
+sincerity of her words. There is place for her name in the Hall of Fame.
 
 Shall we not name yet another, a descendant of honored Ruth? I speak of Mary
 of Nazareth, espoused to Joseph, destined to become the mother of the only
 sinless man to walk the earth. Her acceptance of this sacred and historic role
 is a hallmark of humility. "And Mary said, Behold the handmaid of the Lord; be
 it unto me according to thy word." ([Luke
-1:38](https://www.lds.org/scriptures/nt/luke/1.38?lang=eng#37).) Surely Mary
-qualifies.
+1:38](/scriptures/nt/luke/1.38?lang=eng#37).) Surely Mary qualifies.
 
 Could we ask the question, "What makes of these men heroes and these women
 heroines?" I answer, unwavering trust in an all-wise Heavenly Father and an
@@ -137,19 +130,18 @@ proclamation:
 to all people.
 
 "For unto you is born this day in the city of David a Saviour, which is Christ
-the Lord." ([Luke
-2:10-11](https://www.lds.org/scriptures/nt/luke/2.10-11?lang=eng#9).)
+the Lord." ([Luke 2:10-11](/scriptures/nt/luke/2.10-11?lang=eng#9).)
 
 This same Jesus "grew, and waxed strong in spirit, filled with wisdom: and the
 grace of God was upon him." ([Luke
-2:40](https://www.lds.org/scriptures/nt/luke/2.40?lang=eng#39).) Baptized of
-John in the river known as Jordan, he commenced his official ministry to men.
-To the sophistry of Satan, Jesus turned his back. To the duty designated by
-his Father, he turned his face, pledged his heart, and gave his life. And what
-a sinless, selfless, noble, and divine life it was. Jesus labored. Jesus
-loved. Jesus served. Jesus wept. Jesus healed. Jesus taught. Jesus testified.
-On a cruel cross, Jesus died. From a borrowed sepulchre, Jesus came forth to
-eternal life.
+2:40](/scriptures/nt/luke/2.40?lang=eng#39).) Baptized of John in the river
+known as Jordan, he commenced his official ministry to men. To the sophistry
+of Satan, Jesus turned his back. To the duty designated by his Father, he
+turned his face, pledged his heart, and gave his life. And what a sinless,
+selfless, noble, and divine life it was. Jesus labored. Jesus loved. Jesus
+served. Jesus wept. Jesus healed. Jesus taught. Jesus testified. On a cruel
+cross, Jesus died. From a borrowed sepulchre, Jesus came forth to eternal
+life.
 
 The name--Jesus of Nazareth--the only name under heaven given among men
 whereby we must be saved, has singular place and honored distinction in our
@@ -230,10 +222,12 @@ May they and each of us so live as to merit the heavenly pronouncement:
 honor those who serve me in righteousness and in truth unto the end.
 
 "Great shall be their reward and eternal shall be their glory." ([D&amp;C
-76:5-6](https://www.lds.org/scriptures/dc-testament/dc/76.5-6?lang=eng#4).)
+76:5-6](/scriptures/dc-testament/dc/76.5-6?lang=eng#4).)
 
 Our place in an everlasting and eternal Hall of Fame will thereby be assured.
 This is my earnest plea as I leave with you my witness that Jesus of Nazareth
 is our Savior and Redeemer, even our Advocate with the Father. In the name of
 Jesus Christ, the Lord. Amen.
+
+## References
 

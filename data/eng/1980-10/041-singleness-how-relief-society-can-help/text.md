@@ -1,4 +1,4 @@
-# Singleness: How Relief Society Can Help
+# Singleness:How Relief Society Can Help
 
 I pray the Lord's spirit will accompany my thoughts and my feelings this
 night.
@@ -76,8 +76,8 @@ law of Christ. Scriptures indicate how we can live and enrich these
 principles:
 
 Galatians 6:2 says, "Bear ye one another's burdens, and so fulfill the law of
-Christ." [[Gal. 6:2](https://www.lds.org/scriptures/nt/gal/6.2?lang=eng#1)]
-And as a folk song repeats:
+Christ." [[Gal. 6:2](/scriptures/nt/gal/6.2?lang=eng#1)] And as a folk song
+repeats:
 
 _Love one another,_
 
@@ -95,4 +95,6 @@ have allowed me to do likewise with them.
 My prayer is that each one of us can have and extend faith, hope, and charity
 by bearing one another's burdens and sharing one another's joys that we may
 arrive home with Jesus Christ. In his name, amen.
+
+## References
 

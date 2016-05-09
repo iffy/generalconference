@@ -38,7 +38,7 @@ the Jews.
 "The Seventy are to act in the name of the Lord, under the direction of the
 Twelve or the traveling high council, in building up the church and regulating
 all the affairs of the same in all nations, first unto the Gentiles and then
-to the Jews." ([D&amp;C 107:33-34](https://www.lds.org/scriptures/dc-
+to the Jews." ([D&amp;C 107:33-34](/scriptures/dc-
 testament/dc/107.33-34?lang=eng#32).)
 
 We see that the Twelve Apostles officiate in the name of the Lord under the
@@ -51,13 +51,13 @@ ministry may require:
 to the Seventy, are not under the responsibility to travel among all nations,
 but are to travel as their circumstances shall allow, notwithstanding they may
 hold as high and responsible offices in the church" ([D&amp;C
-107:98](https://www.lds.org/scriptures/dc-testament/dc/107.98?lang=eng#97)).
+107:98](/scriptures/dc-testament/dc/107.98?lang=eng#97)).
 
 In order that the priesthood administration of his church might be complete,
 the Lord has set forth how "to manage ... all things pertaining to the
 [presiding] bishopric" and the manner in which the temporal work of the
-kingdom is to be accomplished ([D&amp;C 82:12](https://www.lds.org/scriptures
-/dc-testament/dc/82.12?lang=eng#11)). Again from section 107 I quote the
+kingdom is to be accomplished ([D&amp;C 82:12](/scriptures/dc-
+testament/dc/82.12?lang=eng#11)). Again from section 107 I quote the
 following:
 
 "The office of a bishop is in administering all temporal things; ...
@@ -67,8 +67,7 @@ set apart unto the ministering of temporal things, having a knowledge of them
 by the Spirit of truth;
 
 "And also to be a judge in Israel, to do the business of the church" ([D&amp;C
-107:68, 71-72](https://www.lds.org/scriptures/dc-
-testament/dc/107.68%2C71-72?lang=eng#67)).
+107:68, 71-72](/scriptures/dc-testament/dc/107.68,71-72?lang=eng#67)).
 
 We have seen in the last several years a more complete application of these
 revealed instructions. Today we should even more clearly understand how they
@@ -201,8 +200,7 @@ officers the principles and practices of Welfare Services. This includes
 instructing them in gospel principles, duties, and specific assignments. With
 my counselors, I would teach bishops to "[search] after the poor to administer
 to their wants by humbling the rich and the proud" as the scriptures teach
-([D&amp;C 84:112](https://www.lds.org/scriptures/dc-
-testament/dc/84.112?lang=eng#111)).
+([D&amp;C 84:112](/scriptures/dc-testament/dc/84.112?lang=eng#111)).
 
 We would reason with them from the scriptures and teach them the law of the
 fast, the use of the storehouse, the basis of determining individuals' needs,
@@ -229,10 +227,9 @@ self. It means helping each other.
 
 After all, this great plan is to bless both giver and receiver, the _givers_
 knowing that "inasmuch as ye do it unto the least of these, ye [have done] it
-unto me" ([D&amp;C 42:38](https://www.lds.org/scriptures/dc-
-testament/dc/42.38?lang=eng#37)), and the _receiver_ knowing that the Lord
-makes good his promise "to provide for my saints, for all things are mine"
-([D&amp;C 104:15](https://www.lds.org/scriptures/dc-
+unto me" ([D&amp;C 42:38](/scriptures/dc-testament/dc/42.38?lang=eng#37)), and
+the _receiver_ knowing that the Lord makes good his promise "to provide for my
+saints, for all things are mine" ([D&amp;C 104:15](/scriptures/dc-
 testament/dc/104.15?lang=eng#14)).
 
 The Church has always been concerned for all the Lord's children. I recall an
@@ -313,9 +310,8 @@ of this people, be kept in the hands of the bishop. ...
 according to my laws. ...
 
 "Behold, this shall be an example unto my servant Edward Partridge, in other
-places, in all churches." ([D&amp;C 51:13, 15,
-18](https://www.lds.org/scriptures/dc-
-testament/dc/51.13%2C15%2C18?lang=eng#12).)
+places, in all churches." ([D&amp;C 51:13, 15, 18](/scriptures/dc-
+testament/dc/51.13,15,18?lang=eng#12).)
 
 The Lord still permits us today to follow his divine pattern. Our own Bishop
 Brown is responsible to follow this "example ... in all churches" as
@@ -335,11 +331,13 @@ celestial kingdom; otherwise I cannot receive her unto myself.
 needs be, by the things which they suffer. ...
 
 "... Therefore, let us become subject unto her laws." ([D&amp;C 105:5-6,
-32](https://www.lds.org/scriptures/dc-testament/dc/105.5-6%2C32?lang=eng#4).)
+32](/scriptures/dc-testament/dc/105.5-6,32?lang=eng#4).)
 
 Again we express to all of you here our deep gratitude for all that is being
 done.
 
 I know that God lives, I know this is his work, and I ask him to continue to
 bless us with inspiration and judgment. In the name of Jesus Christ, amen.
+
+## References
 

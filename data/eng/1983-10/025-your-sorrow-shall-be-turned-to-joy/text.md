@@ -2,21 +2,16 @@
 
 There are many kinds of sorrow and suffering:
 
-  * Self-inflicted suffering
-
-  * Suffering from infirmities of our mortal bodies and sorrow from separation by death
-
-  * Suffering that tries and tests us
-
-  * Suffering to develop our spiritual strength
-
-  * Suffering to humble us and lead us to repentance
-
-  * The Savior's suffering and atoning sacrifice, the most important event in the history of the world.
+  * Self-inflicted suffering 
+  * Suffering from infirmities of our mortal bodies and sorrow from separation by death 
+  * Suffering that tries and tests us 
+  * Suffering to develop our spiritual strength 
+  * Suffering to humble us and lead us to repentance 
+  * The Savior's suffering and atoning sacrifice, the most important event in the history of the world. 
 
 But if our sorrow and suffering strengthen our faith in our Savior, Jesus
 Christ, "[our] sorrow shall be turned to joy." ([John
-16:20](https://www.lds.org/scriptures/nt/john/16.20?lang=eng#19).)
+16:20](/scriptures/nt/john/16.20?lang=eng#19).)
 
 Thirty years ago, as a branch president, I was interviewing a man and his
 wife. The wife was tearing down her husband: he had not been the provider she
@@ -39,8 +34,7 @@ vulnerable. We know how they can be hurt the most by our actions. To many it
 seems to be a test of faith in life to be wounded by those closest to us. Of
 Jesus it is said in Zechariah that when asked where he had received the wounds
 in his hands, he would say that he "was wounded in the house of [his]
-friends." ([Zech.
-13:6](https://www.lds.org/scriptures/ot/zech/13.6?lang=eng#5).) Isn't it true
+friends." ([Zech. 13:6](/scriptures/ot/zech/13.6?lang=eng#5).) Isn't it true
 that God, our Father, and his Son grieve when we sin? When we fail to be
 obedient and accept the atoning sacrifice of our Lord, aren't we hurting Him
 who loves us most?
@@ -63,18 +57,18 @@ blessings. Jesus told his Apostles:
 
 "I say unto you, That ye shall weep and lament, but the world shall rejoice:
 and ye shall be sorrowful, but your sorrow shall be turned into joy." ([John
-16:16, 20](https://www.lds.org/scriptures/nt/john/16.16%2C20?lang=eng#15).)
+16:16, 20](/scriptures/nt/john/16.16,20?lang=eng#15).)
 
 Jesus likened this to a woman's travail and suffering before her hour of
 delivery: as soon as she gives birth, "she remembereth no more the anguish."
-([John 16:21](https://www.lds.org/scriptures/nt/john/16.21?lang=eng#20).)
+([John 16:21](/scriptures/nt/john/16.21?lang=eng#20).)
 
 After the Crucifixion, the earth was rent by earthquakes and eruptions that
 caused death and destruction. (See [Matt.
-27:51](https://www.lds.org/scriptures/nt/matt/27.51?lang=eng#50).) How could
-those who experienced such suffering have any comprehension of the joyous
-scene described by President Joseph F. Smith's vision of the Savior's visit to
-the spirits of the dead in the spirit world while his body lay in the tomb?
+27:51](/scriptures/nt/matt/27.51?lang=eng#50).) How could those who
+experienced such suffering have any comprehension of the joyous scene
+described by President Joseph F. Smith's vision of the Savior's visit to the
+spirits of the dead in the spirit world while his body lay in the tomb?
 
 "All these had departed the mortal life, firm in the hope of a glorious
 resurrection, through the grace of God the Father and his Only Begotten Son,
@@ -96,16 +90,15 @@ liberty to the captives who had been faithful.
 
 "And there he preached to them the everlasting gospel, the doctrine of the
 resurrection and the redemption of mankind from the fall, and from individual
-sins on conditions of repentance." ([D&amp;C
-138:14-19](https://www.lds.org/scriptures/dc-
+sins on conditions of repentance." ([D&amp;C 138:14-19](/scriptures/dc-
 testament/dc/138.14-19?lang=eng#13).)
 
 Oh, there's the suffering that tries and tests us. Job, a perfect man, was
 tested and tried by Satan. Job's friends assumed his suffering was a result of
 sin, but the scriptures tell us he "sinned not, nor charged God foolishly."
-([Job 1:22](https://www.lds.org/scriptures/ot/job/1.22?lang=eng#21).) Nor
-should we charge God foolishly for our own sufferings or assume we know the
-cause of another's suffering.
+([Job 1:22](/scriptures/ot/job/1.22?lang=eng#21).) Nor should we charge God
+foolishly for our own sufferings or assume we know the cause of another's
+suffering.
 
 Suffering to develop strength will not exceed our ability to endure to the
 end.
@@ -113,8 +106,8 @@ end.
 When Joseph Smith was in Liberty Jail, he cried to the Lord for comfort, and
 the Lord gave it to him. He said that "if the very jaws of hell shall gape
 open the mouth wide after thee, know thou, my son, that all these things shall
-give thee experience, and shall be for thy good." ([D&amp;C
-122:7](https://www.lds.org/scriptures/dc-testament/dc/122.7?lang=eng#6).)
+give thee experience, and shall be for thy good." ([D&amp;C 122:7](/scriptures
+/dc-testament/dc/122.7?lang=eng#6).)
 
 Such trials give us the development of spirituality that we probably never
 would get if we didn't have the experience where the very jaws of hell gape
@@ -126,11 +119,10 @@ fellowmen, we find ourselves.
 Jesus gave us the perfect example at Gethsemane when he forgave his Apostles
 who slept while he bled at every pore for all our sins. He only asked, "Could
 ye not watch with me one hour?" ([Matt.
-26:40](https://www.lds.org/scriptures/nt/matt/26.40?lang=eng#39).) Jesus also
-expressed concern for his mother's care as he suffered on the cross. And even
-while he was suffering, he taught the gospel to those who were suffering next
-to him. (See [John
-19:26-27](https://www.lds.org/scriptures/nt/john/19.26-27?lang=eng#25).)
+26:40](/scriptures/nt/matt/26.40?lang=eng#39).) Jesus also expressed concern
+for his mother's care as he suffered on the cross. And even while he was
+suffering, he taught the gospel to those who were suffering next to him. (See
+[John 19:26-27](/scriptures/nt/john/19.26-27?lang=eng#25).)
 
 One of the greatest examples in my life happened when I was a brand-new
 General Authority on my first assignment. One of the General Authorities had a
@@ -149,8 +141,8 @@ however, is to build and strengthen us. We learn obedience by the things we
 suffer. We should be humbled and drawn to the Lord, as in the case of the
 prodigal son who appreciated his home only after going into the world and
 experiencing sorrow when he shut out his loved ones. (See [Luke
-15:11-32](https://www.lds.org/scriptures/nt/luke/15.11-32?lang=eng#10).) So
-suffering in his case was a vital part of his repentance.
+15:11-32](/scriptures/nt/luke/15.11-32?lang=eng#10).) So suffering in his case
+was a vital part of his repentance.
 
 When suffering comes as a consequence of sin, it should lead to repentance.
 Alma testified to his son Helaman:
@@ -169,7 +161,7 @@ I was harrowed up by the memory of my sins no more.
 
 "And oh, what joy, and what marvelous light I did behold; yea, my soul was
 filled with joy as exceeding as was my pain!" ([Alma
-36:17-20](https://www.lds.org/scriptures/bofm/alma/36.17-20?lang=eng#16).)
+36:17-20](/scriptures/bofm/alma/36.17-20?lang=eng#16).)
 
 After a number of mistakes and failures to live as we know we should, we may
 lose confidence in ourselves and have a poor self-image of who we are and what
@@ -205,21 +197,20 @@ manner?" The scriptures are clear on this.
 obedience of one shall many be made righteous ... that as sin hath reigned unto
 death, even so might grace reign through righteousness unto eternal life by
 Jesus Christ our Lord." ([Rom. 5:19,
-21](https://www.lds.org/scriptures/nt/rom/5.19%2C21?lang=eng#18).)
+21](/scriptures/nt/rom/5.19,21?lang=eng#18).)
 
 "He will take upon him death, that he may loose the bands of death which bind
 his people; and he will take upon him their infirmities, that his bowels may
 be filled with mercy, ... that he may know according to the flesh ... that he
 might take upon him the sins of his people, that he might blot out their
 transgressions according to the power of his deliverance." ([Alma
-7:12-13](https://www.lds.org/scriptures/bofm/alma/7.12-13?lang=eng#11).)
+7:12-13](/scriptures/bofm/alma/7.12-13?lang=eng#11).)
 
 "For behold, I, God, have suffered these things for all, that they might not
 suffer if they would repent;
 
 "But if they would not repent they must suffer even as I." ([D&amp;C
-19:16-17](https://www.lds.org/scriptures/dc-
-testament/dc/19.16-17?lang=eng#15).)
+19:16-17](/scriptures/dc-testament/dc/19.16-17?lang=eng#15).)
 
 _I stand all amazed at the love Jesus offers me,_
 
@@ -254,4 +245,6 @@ _Oh, it is wonderful, wonderful to me!_
 It is my prayer that our sorrow and suffering will strengthen our faith in the
 Lord Jesus Christ, that our sorrow shall be turned to joy, in the name of
 Jesus Christ, amen.
+
+## References
 

@@ -16,7 +16,7 @@ escape.
 
 "And the voice of warning shall be unto all people, by the mouths of my
 disciples, whom I have chosen in these last days." ([D&amp;C 1:1-2,
-4](https://www.lds.org/scriptures/dc-testament/dc/1.1-2%2C4?lang=eng#0).)
+4](/scriptures/dc-testament/dc/1.1-2,4?lang=eng#0).)
 
 Today I shall speak doctrine, by way of warning and of testimony, and shall do
 so as one holding the holy apostleship, whose responsibility it is to proclaim
@@ -29,9 +29,9 @@ Smith as follows:
 
 "Make a solemn proclamation of my gospel ... to all the kings of the world, to
 the four corners thereof ... and to all nations of the earth." ([D&amp;C
-124:2-3](https://www.lds.org/scriptures/dc-testament/dc/124.2-3?lang=eng#1).)
-He was to invite them to come to the light of truth, and use their means to
-build up the kingdom of God on earth.
+124:2-3](/scriptures/dc-testament/dc/124.2-3?lang=eng#1).) He was to invite
+them to come to the light of truth, and use their means to build up the
+kingdom of God on earth.
 
 In the spirit of this divine direction, on the sixth day of April 1845, and
 shortly after the Prophet Joseph Smith and his brother Hyrum had mingled their
@@ -232,4 +232,6 @@ eventually meet my Maker and stand with all men before the judgment bar of
 God. More than anything else in all the world, I am grateful for this
 testimony of the divinity of this great latter-day work and exhort all men
 everywhere to give heed thereto, in the name of Jesus Christ. Amen.
+
+## References
 

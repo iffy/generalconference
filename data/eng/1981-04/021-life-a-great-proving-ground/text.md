@@ -16,8 +16,7 @@ the world is, "What is the purpose of life?"
 The restored gospel of Jesus Christ answers this question. In modern
 revelation the Lord has told us, "If you keep my commandments and endure to
 the end you shall have eternal life, which gift is the greatest of all the
-gifts of God." ([D&amp;C 14:7](https://www.lds.org/scriptures/dc-
-testament/dc/14.7?lang=eng#6).)
+gifts of God." ([D&amp;C 14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).)
 
 Therefore, in essence the purpose of life is to prepare us for the greatest
 gift of God, eternal life.
@@ -27,8 +26,7 @@ born into this sphere of activity--yes, spirit children of our Father in
 Heaven. We came to this earth for our spirits to receive bodies of flesh and
 bones and to receive experiences wherein we are proved and tested to see, as
 the scripture states, if we "will do all things whatsoever the Lord ... shall
-command." ([Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24).)
+command." ([Abr. 3:25](/scriptures/pgp/abr/3.25?lang=eng#24).)
 
 The Church of Jesus Christ of Latter-day Saints teaches the value of eternal
 progression. We progressed in the premortal existence, and we have the
@@ -39,17 +37,17 @@ objectives.
 
 Study, particularly of the scriptures, is an important factor. We are
 counseled to "seek learning, even by study and also by faith." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
-Eternal progress involves continual study. The Lord has told us that "the
-glory of God is intelligence, or, in other words, light and truth." ([D&amp;C
-93:36](https://www.lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35).)
+88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).) Eternal progress
+involves continual study. The Lord has told us that "the glory of God is
+intelligence, or, in other words, light and truth." ([D&amp;C
+93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).)
 
 Also, "Whatever principle of intelligence we attain unto in this life, it will
 rise with us in the resurrection.
 
 "And if a person gains more knowledge and intelligence in this life through
 his diligence and obedience than another, he will have so much the advantage
-in the world to come." ([D&amp;C 130:18-19](https://www.lds.org/scriptures/dc-
+in the world to come." ([D&amp;C 130:18-19](/scriptures/dc-
 testament/dc/130.18-19?lang=eng#17).)
 
 President Spencer W. Kimball has counseled us in this manner: "Let us ... seek
@@ -66,10 +64,9 @@ purposes.
 
 Now, with reference to the part that prayer plays in accomplishing our eternal
 objectives, the Savior instructed his disciples to "pray always" ([Luke
-21:36](https://www.lds.org/scriptures/nt/luke/21.36?lang=eng#35)), saying:
-"Ask, and it shall be given you; seek, and ye shall find; knock, and it shall
-be opened unto you" ([Luke
-11:9](https://www.lds.org/scriptures/nt/luke/11.9?lang=eng#8)).
+21:36](/scriptures/nt/luke/21.36?lang=eng#35)), saying: "Ask, and it shall be
+given you; seek, and ye shall find; knock, and it shall be opened unto you"
+([Luke 11:9](/scriptures/nt/luke/11.9?lang=eng#8)).
 
 The Prophet Joseph Smith observed that "it is the first principle of the
 gospel to know for a certainty the character of God, and to know that we may
@@ -111,7 +108,7 @@ The master returned and asked for an accounting.
 To the servants who had multiplied their talents, the master said: "Well done,
 good and faithful servant; thou hast been faithful over a few things, I will
 make thee ruler over many things." ([Matt.
-25:23](https://www.lds.org/scriptures/nt/matt/25.23?lang=eng#22).)
+25:23](/scriptures/nt/matt/25.23?lang=eng#22).)
 
 The master called the servant who had hidden his talent and did not multiply
 it a slothful servant and said he would take the one talent from him and give
@@ -145,7 +142,7 @@ sacrifice of our time, talents, and means.
 
 Remember the words of King Benjamin: "When ye are in the service of your
 fellow beings ye are only in the service of your God." ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).)
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).)
 
 We should also appreciate that talents are developed by use, and they will not
 grow and multiply unless they are used. This principle was clearly taught in
@@ -183,7 +180,7 @@ The answer came as God replied, "My son, peace be unto thy soul; thine
 adversity and thine afflictions shall be but a small moment;
 
 "And then, if thou endure it well, God shall exalt thee on high." ([D&amp;C
-121:7-8](https://www.lds.org/scriptures/dc-testament/dc/121.7-8?lang=eng#6).)
+121:7-8](/scriptures/dc-testament/dc/121.7-8?lang=eng#6).)
 
 The Liberty Jail experience truly constituted a refiner's fire for those who
 participated in it, and it gives us a better understanding and appreciation of
@@ -200,8 +197,7 @@ we have to surmount.
 
 As we endure to the end, we may need to ask the Lord for comfort, and we, like
 the Prophet Joseph Smith, may hear, "My son, peace be unto thy soul."
-([D&amp;C 121:7](https://www.lds.org/scriptures/dc-
-testament/dc/121.7?lang=eng#6).)
+([D&amp;C 121:7](/scriptures/dc-testament/dc/121.7?lang=eng#6).)
 
 Our Lord and Savior Jesus Christ is called the Prince of Peace, and his
 message is a message of peace to the individual and to the world. It is the
@@ -241,4 +237,6 @@ I sincerely pray that we will understand the purpose of life, conform our
 life-style to eternal gospel principles, enjoy peace, happiness, and growth,
 and receive eternal life, the greatest gift of God, in the name of Jesus
 Christ, amen.
+
+## References
 

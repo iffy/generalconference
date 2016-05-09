@@ -5,8 +5,7 @@ conference and pray for the guidance of the Holy Spirit as I speak to you.
 
 According to scripture, after the Savior instituted the sacrament of the
 Lord's Supper with the Apostles, they sang a hymn and "went out into the mount
-of Olives." ([Matt.
-26:30](https://www.lds.org/scriptures/nt/matt/26.30?lang=eng#29).) From this
+of Olives." ([Matt. 26:30](/scriptures/nt/matt/26.30?lang=eng#29).) From this
 scripture it is evident that the singing of hymns was a part of the religious
 services at that time.
 
@@ -38,7 +37,7 @@ revelation from the Lord was given to Emma Smith through her husband, the
 Prophet Joseph Smith, in which the Lord stated: "For my soul delighteth in the
 song of the heart; yea, the song of the righteous is a prayer unto me, and it
 shall be answered with a blessing upon their heads." ([D&amp;C
-25:12](https://www.lds.org/scriptures/dc-testament/dc/25.12?lang=eng#11).)
+25:12](/scriptures/dc-testament/dc/25.12?lang=eng#11).)
 
 In this revelation, Emma Smith was charged with the responsibility of
 compiling a hymnbook for the use of the Church. Brother W. W. Phelps, one of
@@ -224,4 +223,6 @@ As we sing our hymns, let us be conscious of the beauty and import of each
 hymn, and as we do, our singing will deeply move our souls, bring us in closer
 harmony with the Holy Spirit, and strengthen our testimonies. In the name of
 Jesus Christ, amen.
+
+## References
 

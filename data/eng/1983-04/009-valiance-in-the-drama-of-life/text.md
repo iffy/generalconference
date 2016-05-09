@@ -17,13 +17,13 @@ them with all who would listen.
 
 For example, twenty-six hundred years ago, one of the important characters in
 the drama was shown some scenes of "what shall be in the latter days." ([Dan.
-2:28](https://www.lds.org/scriptures/ot/dan/2.28?lang=eng#27).) Daniel the
-prophet was shown the interpretation of King Nebuchadnezzar's dream, from
-which he related, "And in the days of these kings," referring to the latter-
-day scenes, "shall the God of heaven set up a kingdom, which shall never be
-destroyed: and the kingdom shall not be left to other people, but it shall
-break in pieces and consume all these kingdoms, and it shall stand for ever."
-([Dan. 2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43).)
+2:28](/scriptures/ot/dan/2.28?lang=eng#27).) Daniel the prophet was shown the
+interpretation of King Nebuchadnezzar's dream, from which he related, "And in
+the days of these kings," referring to the latter-day scenes, "shall the God
+of heaven set up a kingdom, which shall never be destroyed: and the kingdom
+shall not be left to other people, but it shall break in pieces and consume
+all these kingdoms, and it shall stand for ever." ([Dan.
+2:44](/scriptures/ot/dan/2.44?lang=eng#43).)
 
 The scenes relating to these clues are now on stage, front-center.
 
@@ -31,27 +31,25 @@ At fourteen and one-half years of age, Joseph Smith went into the woods and
 prayed to our Heavenly Father, wanting to know which church of all the
 churches was true. There appeared before him God the Father and his Son Jesus
 Christ. The Father said, _"This is My Beloved Son. Hear Him!"_ ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) Then Jesus
-Christ told that fourteen-year-old boy that the true church of God was not on
-the earth, and that he had been selected to be an instrument in the hands of
-God in restoring the church of Jesus Christ and the true principles of Jesus
-Christ. In the scenes following, "the God of heaven set up a kingdom" about
-which Daniel the prophet said, "[it] shall never be destroyed."
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) Then Jesus Christ told that
+fourteen-year-old boy that the true church of God was not on the earth, and
+that he had been selected to be an instrument in the hands of God in restoring
+the church of Jesus Christ and the true principles of Jesus Christ. In the
+scenes following, "the God of heaven set up a kingdom" about which Daniel the
+prophet said, "[it] shall never be destroyed."
 
 Joseph Smith permitted manuscript pages of the translation of the Book of
 Mormon to fall into the hands of others, and they were lost. This was
 displeasing to the Lord, who said to him, "The works, and the designs, and the
 purposes of God cannot be frustrated, neither can they come to naught."
-([D&amp;C 3:1](https://www.lds.org/scriptures/dc-
-testament/dc/3.1?lang=eng#0).)
+([D&amp;C 3:1](/scriptures/dc-testament/dc/3.1?lang=eng#0).)
 
 "Remember ... that it is not the work of God that is frustrated, but the work of
-men." ([D&amp;C 3:3](https://www.lds.org/scriptures/dc-
-testament/dc/3.3?lang=eng#2).)
+men." ([D&amp;C 3:3](/scriptures/dc-testament/dc/3.3?lang=eng#2).)
 
 "Behold, thou art Joseph, and thou wast chosen to do the work of the Lord, but
 because of transgression, if thou art not aware thou wilt fall." ([D&amp;C
-3:9](https://www.lds.org/scriptures/dc-testament/dc/3.9?lang=eng#8).)
+3:9](/scriptures/dc-testament/dc/3.9?lang=eng#8).)
 
 Had Joseph not measured up, the Lord would have made a change in the cast by
 appointing another to take his place. But he did measure up, as attested by
@@ -62,8 +60,7 @@ days, "shall never be destroyed." We needn't question whether this church that
 God has set up is going to fail. It will not! For God has so decreed!
 
 Daniel further prophesied that "the kingdom shall not be left to other
-people." ([Dan.
-2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43).) We cannot join
+people." ([Dan. 2:44](/scriptures/ot/dan/2.44?lang=eng#43).) We cannot join
 any ecumenical movement, for if we do so, we will be required to compromise
 principles. We cannot do that, for the Lord has established the principles
 upon which his church is built, and we have no right to change them.
@@ -72,8 +69,8 @@ Eighteen months after the Church was organized, and following heavenly
 visitations during which the authority to act in the name of God was given to
 Joseph Smith, the Lord declared that "The keys of the kingdom of God are
 committed unto man on the earth," and that the kingdom "shall roll forth,
-until it has filled the whole earth." ([D&amp;C
-65:2](https://www.lds.org/scriptures/dc-testament/dc/65.2?lang=eng#1).)
+until it has filled the whole earth." ([D&amp;C 65:2](/scriptures/dc-
+testament/dc/65.2?lang=eng#1).)
 
 Clues to other scenes in the drama have been given to other prophets such as
 Isaiah, Jeremiah, Ezekiel, and John the Revelator, as well as others from
@@ -87,14 +84,14 @@ resurrection of Jesus Christ, who suffered and died to atone for the sins of
 men and women.
 
 The number of people in the cast is unlimited. "If ye have desires to serve
-God," the Lord said, "ye are called to the work." ([D&amp;C
-4:3](https://www.lds.org/scriptures/dc-testament/dc/4.3?lang=eng#2).) To pass
-the screen test, one must repent, be baptized, and keep God's commandments.
-Anyone is welcome to participate, for the prophet Nephi said, "He inviteth
-them all to come unto him and partake of his goodness; and he denieth none
-that come unto him, black and white, bond and free, male and female; and he
-remembereth the heathen; and all are alike unto God, both Jew and Gentile."
-([2 Ne. 26:33](https://www.lds.org/scriptures/bofm/2-ne/26.33?lang=eng#32).)
+God," the Lord said, "ye are called to the work." ([D&amp;C 4:3](/scriptures
+/dc-testament/dc/4.3?lang=eng#2).) To pass the screen test, one must repent,
+be baptized, and keep God's commandments. Anyone is welcome to participate,
+for the prophet Nephi said, "He inviteth them all to come unto him and partake
+of his goodness; and he denieth none that come unto him, black and white, bond
+and free, male and female; and he remembereth the heathen; and all are alike
+unto God, both Jew and Gentile." ([2 Ne.
+26:33](/scriptures/bofm/2-ne/26.33?lang=eng#32).)
 
 The acceptance of the gospel of Jesus Christ is affected by attitude. William
 James, a famous author and psychologist, wrote, "The greatest discovery of my
@@ -103,10 +100,10 @@ their minds." (Richard L. Evans, _Richard Evans' Quote Book_ [Salt Lake City:
 Publishers Press, 1971], p. 161.)
 
 In the book of Proverbs we read, "For as he thinketh in his heart, so is he."
-([Prov. 23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6).) Henry
-David Thoreau sustained that concept when he said that a man becomes what he
-thinks about all day long. (See _Familiar Quotations,_ ed. John Bartlett, 14th
-ed., Boston: Little, Brown and Co., 1968, p. 682.)
+([Prov. 23:7](/scriptures/ot/prov/23.7?lang=eng#6).) Henry David Thoreau
+sustained that concept when he said that a man becomes what he thinks about
+all day long. (See _Familiar Quotations,_ ed. John Bartlett, 14th ed., Boston:
+Little, Brown and Co., 1968, p. 682.)
 
 We have our agency. It is the decision of each of us as to the character we
 play in this drama--as to what kind of person we are or will become.
@@ -127,7 +124,7 @@ we act as if we have that characteristic and we will be that person.
 
 The Savior alluded to this principle when he asked, "What manner of men ought
 ye to be?" Then he answered his own question, "Even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 We should strive to become like him by acting as he would act.
 
@@ -139,11 +136,11 @@ Church of God.
 
 There is a reward for valiancy in this drama of life. The Savior said, "And ...
 you shall have eternal life, which gift is the greatest of all the gifts of
-God." ([D&amp;C 14:7](https://www.lds.org/scriptures/dc-
-testament/dc/14.7?lang=eng#6).) It is difficult to conceive of eternal life
-being a place of joy and happiness without those we love in this life. Based
-upon our valiance, our future life will include our wife or husband, our
-children, our parents--yes, our posterity as well as our progenitors.
+God." ([D&amp;C 14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).) It is
+difficult to conceive of eternal life being a place of joy and happiness
+without those we love in this life. Based upon our valiance, our future life
+will include our wife or husband, our children, our parents--yes, our
+posterity as well as our progenitors.
 
 What can I do for my children to help them qualify for eternal life? Several
 years ago, the Missionary Department made a professional survey to determine
@@ -170,8 +167,8 @@ missions for our sons might begin at birth when we start their own missionary
 savings program which will assist significantly in their being financially,
 morally, physically, and mentally prepared when they reach mission age.
 However, we should, above all else, teach our children "to pray, and to walk
-uprightly before the Lord." ([D&amp;C 68:28](https://www.lds.org/scriptures
-/dc-testament/dc/68.28?lang=eng#27).)
+uprightly before the Lord." ([D&amp;C 68:28](/scriptures/dc-
+testament/dc/68.28?lang=eng#27).)
 
 What can I do for my progenitors to help them qualify for eternal life? I can
 help my parents and grandparents to understand the gospel, to be baptized, and
@@ -182,19 +179,19 @@ temple saving ordinances necessary for them to gain eternal life. By doing
 these things for our posterity and for our progenitors, a forever family can
 be established, resulting in a dynasty of righteous lives that will bring joy
 and happiness "in this world, and eternal life in the world to come, even
-immortal glory." ([Moses
-6:59](https://www.lds.org/scriptures/pgp/moses/6.59?lang=eng#58).)
+immortal glory." ([Moses 6:59](/scriptures/pgp/moses/6.59?lang=eng#58).)
 
 The final scene of this great drama is near at hand. The kingdom of God is
 going forth preparatory to the second coming of Christ when the curtain will
 fall and the Savior will say to each of the valiant, "Well done, thou good and
 faithful servant: thou hast been faithful over a few things, I will make thee
 ruler over many things: enter thou into the joy of thy lord." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).) And thus
-the kingdom of God will continue forever through the eternities to come. As
-the prophet Daniel said, "And it shall stand for ever" ([Dan.
-2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43)), with you and I
-having received judgment and reward according to the role to which we have
-been faithful in this life--to which I testify in the name of Jesus Christ,
-amen.
+25:21](/scriptures/nt/matt/25.21?lang=eng#20).) And thus the kingdom of God
+will continue forever through the eternities to come. As the prophet Daniel
+said, "And it shall stand for ever" ([Dan.
+2:44](/scriptures/ot/dan/2.44?lang=eng#43)), with you and I having received
+judgment and reward according to the role to which we have been faithful in
+this life--to which I testify in the name of Jesus Christ, amen.
+
+## References
 

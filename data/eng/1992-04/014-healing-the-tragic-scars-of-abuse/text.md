@@ -42,12 +42,10 @@ you. You may feel trapped and see no escape. Please believe that _your
 Heavenly Father does not want you to be held captive by unrighteous influence,
 by threats of reprisal, or by fear of repercussion to the family member who
 abuses you. _Trust that the Lord will lead you to a solution. Ask in faith,
-nothing doubting. (See [James
-1:6](https://www.lds.org/scriptures/nt/james/1.6?lang=eng#5); [Enos
-1:15](https://www.lds.org/scriptures/bofm/enos/1.15?lang=eng#14); [Moro.
-7:26](https://www.lds.org/scriptures/bofm/moro/7.26?lang=eng#25); [D&amp;C
-8:10](https://www.lds.org/scriptures/dc-testament/dc/8.10?lang=eng#9);
-[D&amp;C 18:18](https://www.lds.org/scriptures/dc-
+nothing doubting. (See [James 1:6](/scriptures/nt/james/1.6?lang=eng#5); [Enos
+1:15](/scriptures/bofm/enos/1.15?lang=eng#14); [Moro.
+7:26](/scriptures/bofm/moro/7.26?lang=eng#25); [D&amp;C 8:10](/scriptures/dc-
+testament/dc/8.10?lang=eng#9); [D&amp;C 18:18](/scriptures/dc-
 testament/dc/18.18?lang=eng#17).)
 
 _I solemnly testify that when another's acts of violence, perversion, or
@@ -95,7 +93,7 @@ Gain trust in the love and compassion of your elder brother, Jesus Christ, by
 pondering the scriptures. As with the Nephites, he tells _you,_ "I have
 compassion upon you; my bowels are filled with mercy. ... I see that your faith
 is sufficient that I should heal you." ([3 Ne.
-17:7-8](https://www.lds.org/scriptures/bofm/3-ne/17.7-8?lang=eng#6).)
+17:7-8](/scriptures/bofm/3-ne/17.7-8?lang=eng#6).)
 
 Healing best begins with your sincere prayer asking your Father in Heaven for
 help. That use of your agency allows divine intervention. When you permit it,
@@ -103,7 +101,7 @@ the love of the Savior will soften your heart, break the cycle of abuse that
 can transform a victim into an aggressor. Adversity, even when caused
 willfully by others' unrestrained appetite, can be a source of growth when
 viewed from the perspective of eternal principle. (See [D&amp;C
-122:7](https://www.lds.org/scriptures/dc-testament/dc/122.7?lang=eng#6).)
+122:7](/scriptures/dc-testament/dc/122.7?lang=eng#6).)
 
 The victim must do all in his or her power to stop the abuse. Most often, the
 victim is innocent because of being disabled by fear or the power or authority
@@ -113,11 +111,10 @@ help assess your responsibility so that, if needed, it can be addressed.
 Otherwise the seeds of guilt will remain and sprout into bitter fruit. Yet no
 matter what degree of responsibility, from absolutely none to increasing
 consent, the healing power of the atonement of Jesus Christ can provide a
-complete cure. (See [D&amp;C 138:1-4](https://www.lds.org/scriptures/dc-
+complete cure. (See [D&amp;C 138:1-4](/scriptures/dc-
 testament/dc/138.1-4?lang=eng#0).) Forgiveness can be obtained for all
-involved in abuse. (See [A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2).) Then comes a
-restoration of self-respect, self-worth, and a renewal of life.
+involved in abuse. (See [A of F 1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2).)
+Then comes a restoration of self-respect, self-worth, and a renewal of life.
 
 As a victim, do not waste effort in revenge or retribution against your
 aggressor. Focus on your responsibility to do what is in your power to
@@ -133,7 +130,7 @@ ways will be held accountable. Of such the Master warned:
 "But whoso shall offend one of these little ones which believe in me, it were
 better for him that a millstone were hanged about his neck, and that he were
 drowned in the depth of the sea." ([Matt.
-18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5).)
+18:6](/scriptures/nt/matt/18.6?lang=eng#5).)
 
 Understand that healing can take considerable time. Recovery generally comes
 in steps. It is accelerated when gratitude is expressed to the Lord for every
@@ -152,17 +149,16 @@ the handling of aggressors to others. As you experience an easing of your own
 pain, full forgiveness will come more easily.
 
 You cannot erase what has been done, but you can forgive. (see [D&amp;C
-64:10](https://www.lds.org/scriptures/dc-testament/dc/64.10?lang=eng#9).)
-Forgiveness heals terrible, tragic wounds, for it allows the love of God to
-purge your heart and mind of the poison of hate. It cleanses your
-consciousness of the desire for revenge. It makes place for the purifying,
-healing, restoring love of the Lord.
+64:10](/scriptures/dc-testament/dc/64.10?lang=eng#9).) Forgiveness heals
+terrible, tragic wounds, for it allows the love of God to purge your heart and
+mind of the poison of hate. It cleanses your consciousness of the desire for
+revenge. It makes place for the purifying, healing, restoring love of the
+Lord.
 
 The Master counseled, "Love your enemies, bless them that curse you, do good
 to them that hate you, and pray for them _who despitefully use you and
-persecute you._" ([3 Ne.
-12:44](https://www.lds.org/scriptures/bofm/3-ne/12.44?lang=eng#43); italics
-added.)
+persecute you._" ([3 Ne. 12:44](/scriptures/bofm/3-ne/12.44?lang=eng#43);
+italics added.)
 
 Bitterness and hatred are harmful. They produce much that is destructive. They
 postpone the relief and healing you yearn for. Through rationalization and
@@ -218,14 +214,16 @@ life preserver around you. He will heal you as you cease to fear and place
 your trust in him by striving to live his teachings.
 
 Please, don't suffer more. Ask now for the Lord to help you. (See [Morm.
-9:27](https://www.lds.org/scriptures/bofm/morm/9.27?lang=eng#26); [Moro. 7:26,
-33](https://www.lds.org/scriptures/bofm/moro/7.26%2C33?lang=eng#25).) Decide
-now to talk to your bishop. Don't view all that you experience in life through
-lenses darkened by the scars of abuse. There is so much in life that is
-beautiful. Open the windows of your heart and let the love of the Savior in.
-And should ugly thoughts of past abuse come back, remember his love and his
-healing power. Your depression will be converted to peace and assurance. You
-will close an ugly chapter and open volumes of happiness.
+9:27](/scriptures/bofm/morm/9.27?lang=eng#26); [Moro. 7:26,
+33](/scriptures/bofm/moro/7.26,33?lang=eng#25).) Decide now to talk to your
+bishop. Don't view all that you experience in life through lenses darkened by
+the scars of abuse. There is so much in life that is beautiful. Open the
+windows of your heart and let the love of the Savior in. And should ugly
+thoughts of past abuse come back, remember his love and his healing power.
+Your depression will be converted to peace and assurance. You will close an
+ugly chapter and open volumes of happiness.
 
 In the name of Jesus Christ, amen.
+
+## References
 

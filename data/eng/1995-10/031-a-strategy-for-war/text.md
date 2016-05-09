@@ -3,11 +3,10 @@
 I would like to speak to you today about a strategy for war. We sing the hymn
 "Onward, Christian Soldiers! Marching as to war" (_Hymns,_ 1985, no. 246).
 Paul said, "For if the trumpet give an uncertain sound, who shall prepare
-himself to the battle?" ([1 Cor.
-14:8](https://www.lds.org/scriptures/nt/1-cor/14.8?lang=eng#7)). In the book
-of Revelation we are told of a war in heaven (see [Rev.
-12:7](https://www.lds.org/scriptures/nt/rev/12.7?lang=eng#6)). What kind of
-battle? What kind of war?
+himself to the battle?" ([1 Cor. 14:8](/scriptures/nt/1-cor/14.8?lang=eng#7)).
+In the book of Revelation we are told of a war in heaven (see [Rev.
+12:7](/scriptures/nt/rev/12.7?lang=eng#6)). What kind of battle? What kind of
+war?
 
 The war is for the souls of men. The battle lines have been drawn since Adam:
 evil versus righteousness. In this the final dispensation and in preparation
@@ -20,9 +19,9 @@ declaration of good to be good and evil to be evil.
 Isaiah prophesied of our time on this very subject when he said, "Woe unto
 them that call evil good, and good evil; that put darkness for light, and
 light for darkness; that put bitter for sweet, and sweet for bitter!" ([Isa.
-5:20](https://www.lds.org/scriptures/ot/isa/5.20?lang=eng#19).) Satan offers a
-strange mixture of just enough good to disguise the evil along his downward
-path to destruction, as described by Nephi, an ancient prophet, when he said:
+5:20](/scriptures/ot/isa/5.20?lang=eng#19).) Satan offers a strange mixture of
+just enough good to disguise the evil along his downward path to destruction,
+as described by Nephi, an ancient prophet, when he said:
 
 "For behold, at that day shall he rage in the hearts of the children of men,
 and stir them up to anger against that which is good.
@@ -30,7 +29,7 @@ and stir them up to anger against that which is good.
 "And others will he pacify, and lull them away into carnal security, that they
 will say: All is well in Zion; yea, Zion prospereth, all is well--and thus the
 devil cheateth their souls, and leadeth them away carefully down to hell" ([2
-Ne. 28:20-21](https://www.lds.org/scriptures/bofm/2-ne/28.20-21?lang=eng#19)).
+Ne. 28:20-21](/scriptures/bofm/2-ne/28.20-21?lang=eng#19)).
 
 Satan does rage in the hearts of some. Many he will lull away into carnal
 security; others he flattereth, or he says there is no hell. He has lured and
@@ -74,25 +73,16 @@ As you survey your individual responsibility, where do you stand? There are
 symptoms or warnings of the descending path. Ten symptoms to be aware of might
 be:
 
-  * An increasing shortness of vision or an inability to see clearly things of a spiritual nature
-
-  * An ever-increasing callousness to things of God
-
-  * A hardening of the spiritual arteries--attention to spiritual needs moves from daily or weekly to monthly, then occasionally, then not at all
-
-  * An increasing dependence upon a growing army of psychiatric specialists instead of priesthood, God, and self
-
-  * An increasing independence from spiritual things
-
-  * An increasing number of friends with lower moral standards
-
-  * Quotes from talk shows instead of scriptures
-
-  * Raised voices in place of subdued tones
-
-  * Verbal, even physical, abuse replacing a circle of love
-
-  * Gradual acceptance of evil, not all at once, but a little bit at a time
+  * An increasing shortness of vision or an inability to see clearly things of a spiritual nature 
+  * An ever-increasing callousness to things of God 
+  * A hardening of the spiritual arteries--attention to spiritual needs moves from daily or weekly to monthly, then occasionally, then not at all 
+  * An increasing dependence upon a growing army of psychiatric specialists instead of priesthood, God, and self 
+  * An increasing independence from spiritual things 
+  * An increasing number of friends with lower moral standards 
+  * Quotes from talk shows instead of scriptures 
+  * Raised voices in place of subdued tones 
+  * Verbal, even physical, abuse replacing a circle of love 
+  * Gradual acceptance of evil, not all at once, but a little bit at a time 
 
 Some are more familiar with the location of sand traps on the golf course or a
 good tennis backhand than with the location of lifesaving scriptures. Many
@@ -119,4 +109,6 @@ I testify that God lives, that His Son Jesus Christ has brought to pass the
 reality of the plan of redemption. Because of Him and His loving atonement,
 those who desire will win the war and be together with Him eternally. I so
 testify in the name of Jesus Christ, amen.
+
+## References
 

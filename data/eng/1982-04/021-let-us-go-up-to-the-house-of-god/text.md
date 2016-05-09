@@ -3,14 +3,14 @@
 The assignment we were given for Saturday evening sessions of stake conference
 during the first half of 1982 was directed toward the theme "Let us go up to
 the mountain of the Lord, to the house of the God of Jacob." ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2).) The objective of
-these meetings has been to inspire the members to obtain their own temple
-blessings, attend the temple in behalf of their deceased relatives and others,
-complete their four-generation records, extend research on family lines, and
-organize and strengthen the family organizations. The first instruction after
-the glorious First Vision to the Prophet Joseph Smith, in the act of restoring
-the gospel of Jesus Christ, was concerning the eternal family unit. History
-records this account in the words of the Prophet:
+2:3](/scriptures/ot/isa/2.3?lang=eng#2).) The objective of these meetings has
+been to inspire the members to obtain their own temple blessings, attend the
+temple in behalf of their deceased relatives and others, complete their four-
+generation records, extend research on family lines, and organize and
+strengthen the family organizations. The first instruction after the glorious
+First Vision to the Prophet Joseph Smith, in the act of restoring the gospel
+of Jesus Christ, was concerning the eternal family unit. History records this
+account in the words of the Prophet:
 
 "A messenger [was] sent from the presence of God to me, ... that his name was
 Moroni; and God had a work for me to do. ...
@@ -24,8 +24,7 @@ prophet, before the coming of the great and dreadful day of the Lord._
 _"... And he shall plant in the hearts of the children the promises made to the
 fathers, and the hearts of the children shall turn to their fathers. If it
 were not so, the whole earth would be utterly wasted at his coming."_ ([JS--H
-1:30, 33, 36, 38-39](https://www.lds.org/scriptures/pgp/js-h/1.30%2C33%2C36%2C
-38-39?lang=eng#29).)
+1:30, 33, 36, 38-39](/scriptures/pgp/js-h/1.30,33,36,38-39?lang=eng#29).)
 
 Preparation for these conference sessions each weekend has aroused my interest
 in my own progenitors. I was impressed with the phrase that unless families
@@ -123,15 +122,13 @@ inviting them to listen to me today. For the next few minutes I would like to
 address my remarks to these members of our family.
 
 The Lord has declared, "For behold, this life is the time for men to prepare
-to meet God." ([Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31).) In the
+to meet God." ([Alma 34:32](/scriptures/bofm/alma/34.32?lang=eng#31).) In the
 Lord's plan for the salvation of his children, he has made two points clear:
 first, Jesus Christ is the only name under heaven by which authority is given
 for man's salvation (see [Acts
-4:11-12](https://www.lds.org/scriptures/nt/acts/4.11-12?lang=eng#10)); and
-second, every man and woman must accept the gospel and receive its ordinances
-by authority, or they cannot be saved (see [John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4)).
+4:11-12](/scriptures/nt/acts/4.11-12?lang=eng#10)); and second, every man and
+woman must accept the gospel and receive its ordinances by authority, or they
+cannot be saved (see [John 3:5](/scriptures/nt/john/3.5?lang=eng#4)).
 
 The prophets have instructed us concerning the eternity of the family
 organization. President Joseph F. Smith has said:
@@ -156,10 +153,10 @@ faith has taught us that the principles and ordinances of the gospel are
 first, faith in the Lord Jesus Christ; second, repentance; third, baptism by
 immersion for the remission of sins; and fourth, the laying on of hands for
 the gift of the Holy Ghost. (See [A of F
-1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3).) Following the
-acceptance of the first four principles of the gospel and a reasonable time in
-proving ourselves by conducting our lives in harmony with its teachings, it is
-then possible to enter the Lord's temple and receive the endowment.
+1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3).) Following the acceptance of the
+first four principles of the gospel and a reasonable time in proving ourselves
+by conducting our lives in harmony with its teachings, it is then possible to
+enter the Lord's temple and receive the endowment.
 
 Elder James E. Talmage has written this of the endowment:
 
@@ -181,8 +178,8 @@ associations, or expectations, that are not made and entered into and sealed
 by the Holy Spirit of promise, of him who is anointed, both as well for time
 and for all eternity, ... are of no efficacy, virtue, or force in and after the
 resurrection from the dead; for all contracts that are not made unto this end
-have an end when men are dead." ([D&amp;C
-132:7](https://www.lds.org/scriptures/dc-testament/dc/132.7?lang=eng#6).)
+have an end when men are dead." ([D&amp;C 132:7](/scriptures/dc-
+testament/dc/132.7?lang=eng#6).)
 
 Now, regarding our eternal relationship in temple marriage, President Ezra
 Taft Benson has told us:
@@ -216,10 +213,11 @@ I give you my witness that God is our eternal Father, that we are his
 children, that he has provided a way for us to have an eternal family
 organization that will endure beyond the grave. I give you my witness that
 this gift, the gift of life eternal, is the greatest gift of God to his
-children. (See [D&amp;C 14:7](https://www.lds.org/scriptures/dc-
-testament/dc/14.7?lang=eng#6).)
+children. (See [D&amp;C 14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).)
 
 May God bless us that we may find the joy and satisfaction that come from
 learning gospel principles that will lead us to life eternal, is my humble
 prayer in the name of Jesus Christ, amen.
+
+## References
 

@@ -2,7 +2,7 @@
 
 One of the Articles of Faith of The Church of Jesus Christ of Latter-day
 Saints includes the expression, "We believe in being honest." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 But we do not believe in honesty merely as a matter of policy. It is far more
 important than that. Honesty is a principle of salvation in the kingdom of
@@ -69,7 +69,7 @@ in accepting his word, but what a price he will have to pay at the judgment
 bar of God for saying there is no sin in premarital sex when he knows full
 well that the Almighty has thundered from the heights of Mt. Sinai: "Thou
 shalt not commit adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).)
+20:14](/scriptures/ot/ex/20.14?lang=eng#13).)
 
 It is the lie of the hypocrite who berates his wife and belittles his children
 and is a beast in the home that persuades him to assume a pious role on Sunday
@@ -105,7 +105,7 @@ Feet that be swift in running to mischief,
 A false witness that speaketh lies, and
 
 He that soweth discord among brethren." ([Prov.
-6:16-19](https://www.lds.org/scriptures/ot/prov/6.16-19?lang=eng#15).)
+6:16-19](/scriptures/ot/prov/6.16-19?lang=eng#15).)
 
 In the following verses, the scripture ties this outburst to another heinous
 sin that is never without its lies and deception--that of lustful sex, which
@@ -120,7 +120,7 @@ whoremongers, and whosoever loves and makes a lie.
 "These are they who suffer the vengeance of eternal fire.
 
 "These are they who are cast down to hell and suffer the wrath of Almighty
-God. ..." ([D&amp;C 76:103-106](https://www.lds.org/scriptures/dc-
+God. ..." ([D&amp;C 76:103-106](/scriptures/dc-
 testament/dc/76.103-106?lang=eng#102).)
 
 Most of us claim to be Christians, bearing the name of Christ and worshiping
@@ -157,7 +157,7 @@ There is no precision in chance, and there is no certainty in spontaneity. But
 there are both precision and certainty in the universe, and these--as our
 greatest scientists have said--declare the glory of God; and so with the
 psalmist of old they sing aloud: "The earth is the Lord's and all that therein
-is." (See [Ps. 24](https://www.lds.org/scriptures/ot/ps/24.title?lang=eng).)
+is." (See [Ps. 24](/scriptures/ot/ps/24?lang=eng).)
 
 If we are interested in the gospel in the least degree, we should live it
 wholeheartedly. There is no point in deceiving ourselves and becoming victims
@@ -172,46 +172,43 @@ mind, and strength?
 
 Do we not remember that he has said that if we accept his commandments with a
 doubtful heart and keep them with slothfulness, we are damned? (See [D&amp;C
-58:29](https://www.lds.org/scriptures/dc-testament/dc/58.29?lang=eng#28).)
+58:29](/scriptures/dc-testament/dc/58.29?lang=eng#28).)
 
 If we are to be Christians in deed, we should remember and keep these sayings:
 
 "... if thou bring thy gift to the altar, and there rememberest that thy brother
 hath ought against thee; Leave there thy gift before the altar, and go thy
 way; first be reconciled to thy brother, and then come and offer thy gift."
-([Matt. 5:23-24](https://www.lds.org/scriptures/nt/matt/5.23-24?lang=eng#22).)
+([Matt. 5:23-24](/scriptures/nt/matt/5.23-24?lang=eng#22).)
 
 "All things whatsoever ye would that men should do to you, do ye even so to
-them." ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11).)
+them." ([Matt. 7:12](/scriptures/nt/matt/7.12?lang=eng#11).)
 
 "Thou shalt love thy neighbour as thyself." ([Matt.
-22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38).)
+22:39](/scriptures/nt/matt/22.39?lang=eng#38).)
 
 And do you recall that the Savior gave us this particular commandment: "Thou
 shalt not be as the hypocrites are"? ([Matt.
-6:5](https://www.lds.org/scriptures/nt/matt/6.5?lang=eng#4).) He further
-explained that "no man can serve two masters. ... Ye cannot serve God and
-mammon." ([Matt.
-6:24](https://www.lds.org/scriptures/nt/matt/6.24?lang=eng#23).)
+6:5](/scriptures/nt/matt/6.5?lang=eng#4).) He further explained that "no man
+can serve two masters. ... Ye cannot serve God and mammon." ([Matt.
+6:24](/scriptures/nt/matt/6.24?lang=eng#23).)
 
 There is also this vital scriptural text: "He that worketh deceit shall not
 dwell within my house; he that telleth lies shall not tarry in my sight."
-([Ps. 101:7](https://www.lds.org/scriptures/ot/ps/101.7?lang=eng#6).)
+([Ps. 101:7](/scriptures/ot/ps/101.7?lang=eng#6).)
 
 When the Almighty spoke from Sinai commanding that we should not steal, in the
 same breath he said: "Thou shalt not bear false witness against thy
 neighbour," and he also declared that we must covet nothing that is our
-neighbor's. (See [Ex.
-20:16-17](https://www.lds.org/scriptures/ot/ex/20.16-17?lang=eng#15).)
+neighbor's. (See [Ex. 20:16-17](/scriptures/ot/ex/20.16-17?lang=eng#15).)
 
 In modern revelation he said forcefully: "Thou shalt not lie; he that lieth
-and will not repent shall be cast out." ([D&amp;C
-42:21](https://www.lds.org/scriptures/dc-testament/dc/42.21?lang=eng#20).)
+and will not repent shall be cast out." ([D&amp;C 42:21](/scriptures/dc-
+testament/dc/42.21?lang=eng#20).)
 
 And he made an important part of Christian teachings this great precept: "Thou
 shalt not speak evil of thy neighbor, nor do him any harm." ([D&amp;C
-42:27](https://www.lds.org/scriptures/dc-testament/dc/42.27?lang=eng#26).)
+42:27](/scriptures/dc-testament/dc/42.27?lang=eng#26).)
 
 And then quite on the opposite side of the picture, as he taught mankind to
 avoid avarice and greed, which leads into all forms of dishonesty, he urged
@@ -220,8 +217,7 @@ learn to _give_--to be good Samaritans in very deed; to share with our less
 fortunate neighbors, and in reality show love for our fellowmen. So he said:
 "... remember the poor, and consecrate of thy properties for their support. ...
 And inasmuch as ye impart of your substance unto the poor, ye will do it unto
-me. ..." ([D&amp;C 42:30-31](https://www.lds.org/scriptures/dc-
-testament/dc/42.30-31?lang=eng#29).)
+me. ..." ([D&amp;C 42:30-31](/scriptures/dc-testament/dc/42.30-31?lang=eng#29).)
 
 The Savior knows the great burden of sin. He bore that burden in Gethsemane
 and on the cross for each one of us. He knows that the sinful life is the
@@ -236,7 +232,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 The Lord makes it clear that all have need of repentance, and that if we truly
 repent and accept his yoke of love and forgiveness and of obedience, he will
@@ -254,26 +250,28 @@ On the other hand he said:
 
 "If we confess our sins, he is faithful and just to forgive us our sins, and
 to cleanse us from all unrighteousness." ([1 John
-1:7-9](https://www.lds.org/scriptures/nt/1-jn/1.7-9?lang=eng#6).)
+1:7-9](/scriptures/nt/1-jn/1.7-9?lang=eng#6).)
 
 "He that loveth his brother abideth in the light, and there is none occasion
 of stumbling in him.
 
 "But he that hateth his brother is in darkness, and walketh in darkness, and
 knoweth not whither he goeth, because that darkness hath blinded his eyes."
-([1 John 2:10-11](https://www.lds.org/scriptures/nt/1-jn/2.10-11?lang=eng#9).)
+([1 John 2:10-11](/scriptures/nt/1-jn/2.10-11?lang=eng#9).)
 
 And then we have the words from James that faith without works is dead. We
 must combine our faith with our works and our works with our faith to be
 Christians indeed, and our works must be works of truth. (See [James
-2:17-18](https://www.lds.org/scriptures/nt/james/2.17-18?lang=eng#16).)
+2:17-18](/scriptures/nt/james/2.17-18?lang=eng#16).)
 
 The Spirit of God is the spirit of truth. The Savior is the personification of
 truth. Describing himself he said, "I am the way, the truth, and the life: no
 man cometh unto the Father, but by me." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).)
+14:6](/scriptures/nt/john/14.6?lang=eng#5).)
 
 Except through the truth there is no salvation in the kingdom of God, and that
 truth is Christ. And this is my testimony to you in the name of the Lord Jesus
 Christ. Amen.
+
+## References
 

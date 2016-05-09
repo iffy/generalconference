@@ -56,12 +56,10 @@ and show to all "a gentle[r] heart." Yes, Lord, we should follow thee.
 
 "A new commandment I give unto you," he said, "That ye love one another; ... By
 this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33).) This
+another." ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33).) This
 love that we should have for our brothers and sisters in the human family, and
 that Christ has for every one of us, is called charity or "the pure love of
-Christ." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) It is the
+Christ." ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) It is the
 love that prompted the suffering and sacrifice of Christ's atonement. It is
 the highest pinnacle the human soul can reach and the deepest expression of
 the human heart.
@@ -83,8 +81,8 @@ and evil spirits that had caused mental or emotional illness. He purified
 those who were burdened with sin. He taught lessons of love and repeatedly
 demonstrated unselfish service to others. All were recipients of his love. All
 were "privileged the one like unto the other, and none [were] forbidden." ([2
-Ne. 26:28](https://www.lds.org/scriptures/bofm/2-ne/26.28?lang=eng#27).) These
-are all expressions and examples of his unbounded charity.
+Ne. 26:28](/scriptures/bofm/2-ne/26.28?lang=eng#27).) These are all
+expressions and examples of his unbounded charity.
 
 The world in which we live would benefit greatly if men and women everywhere
 would exercise the pure love of Christ, which is kind, meek, and lowly. It is
@@ -96,11 +94,11 @@ in Christian love regardless of religious belief, race, nationality, financial
 standing, education, or culture.
 
 The Savior has commanded us to love one another as he has loved us; to clothe
-ourselves "with the bond of charity" ([D&amp;C
-88:125](https://www.lds.org/scriptures/dc-testament/dc/88.125?lang=eng#124)),
-as he so clothed himself. We are called upon to purify our inner feelings, to
-change our hearts, to make our outward actions and appearance conform to what
-we say we believe and feel inside. We are to be true disciples of Christ.
+ourselves "with the bond of charity" ([D&amp;C 88:125](/scriptures/dc-
+testament/dc/88.125?lang=eng#124)), as he so clothed himself. We are called
+upon to purify our inner feelings, to change our hearts, to make our outward
+actions and appearance conform to what we say we believe and feel inside. We
+are to be true disciples of Christ.
 
 As a young man, Brother Vern Crowley said he learned something of the crucial
 lesson the Prophet Joseph had taught the early Saints in Nauvoo when he told
@@ -158,7 +156,7 @@ world could benefit from such a magnificent lesson. As Moroni declares:
 ...
 
 "In the gift of his Son hath God prepared a more excellent way." ([Ether 12:4,
-11](https://www.lds.org/scriptures/bofm/ether/12.4%2C11?lang=eng#3).)
+11](/scriptures/bofm/ether/12.4,11?lang=eng#3).)
 
 President David O. McKay once said:
 
@@ -176,7 +174,7 @@ drink: I was a stranger, and ye took me in:
 
 "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and
 ye came unto me." ([Matt.
-25:35-36](https://www.lds.org/scriptures/nt/matt/25.35-36?lang=eng#34).)
+25:35-36](/scriptures/nt/matt/25.35-36?lang=eng#34).)
 
 And if we should have occasion to say:
 
@@ -186,11 +184,11 @@ drink?
 "When saw we thee a stranger, and took thee in? or naked, and clothed thee?
 
 "Or when saw we thee sick, or in prison, and came unto thee?" ([Matt.
-22:37-39](https://www.lds.org/scriptures/nt/matt/22.37-39?lang=eng#36).)
+22:37-39](/scriptures/nt/matt/22.37-39?lang=eng#36).)
 
 Then I am certain we will hear this reply: "Inasmuch as ye have done it unto
 one of the least of these my brethren, ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 We need a more peaceful world, growing out of more peaceful families and
 neighborhoods and communities. To secure and cultivate such peace, "we must
@@ -204,4 +202,6 @@ and our desire.
 
 I add my witness that Jesus is the Christ, the Savior of the world, and that
 this is his church, in the name of Jesus Christ, amen.
+
+## References
 

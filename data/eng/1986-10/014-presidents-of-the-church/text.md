@@ -89,7 +89,7 @@ Brethren in a very real sense.
 The Savior, in praying to our Heavenly Father just before his crucifixion,
 said, "This is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 These Brethren to whom I have referred know God and Jesus Christ, whom He has
 sent.
@@ -98,4 +98,6 @@ I know that God lives, that Jesus is the Christ, that these Brethren whom I
 have mentioned were and are true prophets of the living God and have served
 and do serve under the direction of the Lord, who is the true head of the
 Church. I say this in the name of our Lord, Jesus Christ, amen.
+
+## References
 

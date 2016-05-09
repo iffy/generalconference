@@ -14,10 +14,10 @@ Even though we live in very difficult and challenging times, we are on the
 path to eternal life, and we cannot afford to be delayed or deterred.
 
 In Proverbs we read the admonition, "Ponder the path of thy feet" ([Prov.
-4:26](https://www.lds.org/scriptures/ot/prov/4.26?lang=eng#25)). We have busy
-feet in this church. We do much. We have all heard the counsel to "be
-anxiously engaged" and then the qualifier "in a good cause" ([D&amp;C
-58:27](https://www.lds.org/scriptures/dc-testament/dc/58.27?lang=eng#26)).
+4:26](/scriptures/ot/prov/4.26?lang=eng#25)). We have busy feet in this
+church. We do much. We have all heard the counsel to "be anxiously engaged"
+and then the qualifier "in a good cause" ([D&amp;C 58:27](/scriptures/dc-
+testament/dc/58.27?lang=eng#26)).
 
 It is that "good cause" I address tonight.
 
@@ -27,7 +27,7 @@ by choice that we came to this earth to follow the path of the Savior. At
 baptism, we covenanted, as did the Nephites at the waters of Mormon, to be
 called his people, to serve him, to keep his commandments, to stand as
 witnesses of God at all times and in all things and in all places (see [Mosiah
-18:8-10](https://www.lds.org/scriptures/bofm/mosiah/18.8-10?lang=eng#7)).
+18:8-10](/scriptures/bofm/mosiah/18.8-10?lang=eng#7)).
 
 Our covenant to follow Christ is in sharp contrast to many whose voices fill
 the newspapers, whose new morality blankets the screens, and whose values,
@@ -58,16 +58,15 @@ Eliza R. Snow said: "We stand in a different position ... ; we have made
 covenant with God, we understand his order" (_Millennial Star,_ Sept. 1871, p.
 578). These covenants include the counsel to Emma Smith recorded in the
 Doctrine and Covenants to "lay aside the things of this world, and seek for
-the things of a better" ([D&amp;C 25:10](https://www.lds.org/scriptures/dc-
+the things of a better" ([D&amp;C 25:10](/scriptures/dc-
 testament/dc/25.10?lang=eng#9)).
 
 I am dedicated to that charge.
 
 The path, straight and narrow, was marked by Jesus Christ. Isaiah called it
-the "highway ... of holiness" ([Isa.
-35:8](https://www.lds.org/scriptures/ot/isa/35.8?lang=eng#7)). I testify to
-you today that the Lord has trusted the women of this church with most-sacred
-works on the path to perfection.
+the "highway ... of holiness" ([Isa. 35:8](/scriptures/ot/isa/35.8?lang=eng#7)).
+I testify to you today that the Lord has trusted the women of this church with
+most-sacred works on the path to perfection.
 
 I heard from a mother of five small children in South Carolina. She had
 injured her back and was totally bedfast. She wrote to me of the "little mercy
@@ -87,9 +86,9 @@ alone.
 
 Christ's cause was singular and focused, for he proclaimed, "I came into the
 world to do the will of my Father" ([3 Ne.
-27:13](https://www.lds.org/scriptures/bofm/3-ne/27.13?lang=eng#12)). And so
-must we. Our willingness to take seriously our covenants brings comfort amid
-sorrows, joy amid pain, blessings amid suffering.
+27:13](/scriptures/bofm/3-ne/27.13?lang=eng#12)). And so must we. Our
+willingness to take seriously our covenants brings comfort amid sorrows, joy
+amid pain, blessings amid suffering.
 
 All around the Church are wonderful women who exert great influence. Sisters,
 we have much to share: our spiritual strength, our sense of purpose, our
@@ -108,7 +107,7 @@ listen less to the world and more to the promptings from on high.
 Remember that the spirit is not the same as self. The spirit is not enhanced
 by selfishness, self-pity, self-pride, and self-deception. "To be spiritually-
 minded is life eternal" ([2 Ne.
-9:39](https://www.lds.org/scriptures/bofm/2-ne/9.39?lang=eng#38)).
+9:39](/scriptures/bofm/2-ne/9.39?lang=eng#38)).
 
 Our spirituality is also recharged by each other. Show charity for each other.
 Show understanding, not judgment; kindness, not blame; joy, not envy. Love as
@@ -127,8 +126,7 @@ _We are women with a sense of purpose!_
 
 The Old Testament prophet Micah said, "For all people will walk every one in
 the name of his god, ... we will walk in the name of the Lord our God for ever
-and ever" ([Micah
-4:5](https://www.lds.org/scriptures/ot/micah/4.5?lang=eng#4)).
+and ever" ([Micah 4:5](/scriptures/ot/micah/4.5?lang=eng#4)).
 
 How, in this complex world, do we walk in the name of the Lord, our God, when
 questions of home, family, marriage, work, children, age, and death play so
@@ -152,8 +150,7 @@ As a young mother I remember saying to my youngest son, Gordon, when he fell
 from his bike and faced not only skinned knees but the loss of confidence as
 well, "I'm right here." I would say as I put my arms around him to comfort
 him, "I'm right here." Doesn't that remind us of the Lord, who is with us
-always? (see [Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19)). He's not
+always? (see [Matt. 28:20](/scriptures/nt/matt/28.20?lang=eng#19)). He's not
 just at church, in the temple, or when we kneel at our bed. He's "right here"
 when we live by his teachings.
 
@@ -173,9 +170,8 @@ together. The last child, she said with a smile, was born under the covenant.
 She was committed to her covenants, and she valued the blessings of the
 priesthood that came into her life because of her faithfulness. She did not
 stop at baptism, for she understood, where "much is given much is required"
-([D&amp;C 82:3](https://www.lds.org/scriptures/dc-
-testament/dc/82.3?lang=eng#2)). By her efforts, her family was sealed--
-forever. Imagine their joy!
+([D&amp;C 82:3](/scriptures/dc-testament/dc/82.3?lang=eng#2)). By her efforts,
+her family was sealed--forever. Imagine their joy!
 
 _We are women who know the blessings of the priesthood._
 
@@ -189,8 +185,7 @@ therefore the source of all true priesthood authority and power on this earth"
 We know what it is to place our faith, our prayers, our confidence, and our
 esteem in those whom God has appointed to lead. The Lord has told us that
 "whether by mine own voice or by the voice of my servants, it is the same"
-([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37)).
+([D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37)).
 
 I want you to know that I, as the general president of the Relief Society,
 embrace the blessings that come from serving under the direction of leaders
@@ -210,8 +205,7 @@ hearts are set so much upon the things of this world, and aspire to the honors
 of men, that they do not learn this one lesson--
 
 "... the powers of heaven cannot be controlled nor handled only upon the
-principles of righteousness" ([D&amp;C
-121:35-36](https://www.lds.org/scriptures/dc-
+principles of righteousness" ([D&amp;C 121:35-36](/scriptures/dc-
 testament/dc/121.35-36?lang=eng#34)).
 
 Now, once again, may I say, "Ponder the path of thy feet." Look to the Lord
@@ -231,4 +225,6 @@ era most difficult, yet at a time that the angels of God rejoice in our
 efforts. I know that the Lord reigns supreme and that he has prepared a place
 for us in his kingdom on high. I know that as women of covenant we will choose
 that path to life eternal. In the name of Jesus Christ, amen.
+
+## References
 

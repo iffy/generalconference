@@ -30,10 +30,10 @@ words of Nephi are true: "I will go and do the things which the Lord hath
 commanded, for I know that the Lord giveth no commandments unto the children
 of men, save he shall prepare a way for them that they may accomplish the
 thing which he commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).) I have
-implicit faith in the Lord and in His prophets. I have learned not to put
-question marks but to use exclamation points when calls are issued through
-inspired channels of priesthood government.
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).) I have implicit faith in the Lord
+and in His prophets. I have learned not to put question marks but to use
+exclamation points when calls are issued through inspired channels of
+priesthood government.
 
 About twenty years ago, two members of the Quorum of the Twelve were assigned
 to select a new president of the Bonneville stake in which we lived. They were
@@ -89,8 +89,7 @@ Now, I understand fully that the call to the Holy Apostleship is one of
 witness to the world of the divinity of the Lord Jesus the Christ. I know that
 salvation is centered in Him! Said the angel to King Benjamin: "Salvation was,
 and is, and is to come, in and through the atoning blood of Christ, the Lord
-Omnipotent." ([Mosiah
-3:18](https://www.lds.org/scriptures/bofm/mosiah/3.18?lang=eng#17).)
+Omnipotent." ([Mosiah 3:18](/scriptures/bofm/mosiah/3.18?lang=eng#17).)
 
 The Prophet Joseph Smith was asked, "What are the fundamental principles of
 your religion?" He answered: "The fundamental principles of our religion are
@@ -119,4 +118,6 @@ second coming of the Savior. Then, numberless multitudes among every nation,
 kindred, tongue, and people will eventually join in proclaiming that Jesus is
 the Christ, the Son of the living God. So I solemnly testify in the name of
 Jesus Christ, amen.
+
+## References
 

@@ -52,8 +52,7 @@ In finding and trailing this spiritual contact with the infinite, we will feel
 the touch of inspiration and know that God will guide us as we put in Him our
 trust. That wise and righteous man, Job, declared the profound truth: "There
 is a spirit in man: and the inspiration of the Almighty giveth ...
-understanding" ([Job
-32:8](https://www.lds.org/scriptures/ot/job/32.8?lang=eng#7)). It is this
+understanding" ([Job 32:8](/scriptures/ot/job/32.8?lang=eng#7)). It is this
 inspiration which we at times allow to grow dim, causing us to wander far
 below the level of our possibilities.
 
@@ -120,13 +119,11 @@ that Saul threatened the disciples of the Lord. Then came that light from
 heaven and the voice saying unto him: "Saul, Saul, why persecutest thou me?
 
 "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou
-persecutest" ([Acts
-9:4-5](https://www.lds.org/scriptures/nt/acts/9.4-5?lang=eng#3)).
+persecutest" ([Acts 9:4-5](/scriptures/nt/acts/9.4-5?lang=eng#3)).
 
 Saul's answer is a model for each of us: "Lord, what wilt thou have me to do?"
-([Acts 9:6](https://www.lds.org/scriptures/nt/acts/9.6?lang=eng#5)). Saul the
-persecutor became Paul the proselyter. Night had turned to day. Darkness had
-yielded to light.
+([Acts 9:6](/scriptures/nt/acts/9.6?lang=eng#5)). Saul the persecutor became
+Paul the proselyter. Night had turned to day. Darkness had yielded to light.
 
 Simon Peter, that fisherman who left his nets and followed the Lord, had his
 time of struggle. He had been weak and fearful and had denied his Lord with an
@@ -138,9 +135,9 @@ practices and wasteful ways. Conversion came. He became an exponent of truth.
 His tender words of counsel to his sons Helaman and Corianton are literary
 classics. To Helaman: "O, remember, my son, and learn wisdom in thy youth;
 yea, learn in thy youth to keep the commandments of God" ([Alma
-37:35](https://www.lds.org/scriptures/bofm/alma/37.35?lang=eng#34)). To
-Corianton: "Suffer not yourself to be led away by any vain or foolish thing"
-([Alma 39:11](https://www.lds.org/scriptures/bofm/alma/39.11?lang=eng#10)).
+37:35](/scriptures/bofm/alma/37.35?lang=eng#34)). To Corianton: "Suffer not
+yourself to be led away by any vain or foolish thing" ([Alma
+39:11](/scriptures/bofm/alma/39.11?lang=eng#10)).
 
 Then and now, as President David O. McKay so consistently taught, the gospel
 of Jesus Christ can make bad men good and good men better, can alter human
@@ -188,7 +185,7 @@ victorious, John Helander breaks the newly tightened tape. (Officials are
 human beings, too.) The cheering echoes for miles. And just maybe, if the ear
 is carefully attuned, that Great Scorekeeper--even the Lord--can be heard to
 say, "Well done, thou good and faithful servant" ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20)).
+25:21](/scriptures/nt/matt/25.21?lang=eng#20)).
 
 Each of us is a runner in the race of life. Comforting is the fact that there
 are many runners. Reassuring is the knowledge that our eternal Scorekeeper is
@@ -219,4 +216,6 @@ Let us shed any thought of failure. Let us discard any habit that may hinder.
 Let us seek; let us obtain the prize prepared for all, even exaltation in the
 celestial kingdom of God. This is my earnest prayer, in the name of Jesus
 Christ, amen.
+
+## References
 

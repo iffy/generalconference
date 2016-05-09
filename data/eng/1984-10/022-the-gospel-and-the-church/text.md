@@ -73,17 +73,15 @@ Leviticus, noting both the principles and the rules and practices.
 
 In the first two verses we read, "And the Lord spake unto Moses, saying, Speak
 unto all the congregation of the children of Israel." ([Lev.
-19:1-2](https://www.lds.org/scriptures/ot/lev/19.1-2?lang=eng#0).) Here is the
-principle of revelation. God speaks to his children through prophets. He does
-so today.
+19:1-2](/scriptures/ot/lev/19.1-2?lang=eng#0).) Here is the principle of
+revelation. God speaks to his children through prophets. He does so today.
 
 Continuing, the Lord said to Moses, "Say unto them, Ye shall be holy: for I
-the Lord your God am holy." ([Lev.
-19:2](https://www.lds.org/scriptures/ot/lev/19.2?lang=eng#1).) Jesus, in the
-Sermon on the Mount, said, "Be ye therefore perfect, even as your Father which
-is in heaven is perfect." ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).) Here is an
-eternal gospel principle.
+the Lord your God am holy." ([Lev. 19:2](/scriptures/ot/lev/19.2?lang=eng#1).)
+Jesus, in the Sermon on the Mount, said, "Be ye therefore perfect, even as
+your Father which is in heaven is perfect." ([Matt.
+5:48](/scriptures/nt/matt/5.48?lang=eng#47).) Here is an eternal gospel
+principle.
 
 There follow other eternal principles, some from the Ten Commandments. Also
 included are rules and programs intended to implement these principles among
@@ -92,28 +90,28 @@ the ancient Hebrews in their particular circumstances.
 For example, the divinely directed responsibility to care for the poor is
 taught. A program is presented, namely, providing food for the poor by leaving
 the gleanings of the crops and not reaping the corners of the fields. (See
-[Lev. 19:9-10](https://www.lds.org/scriptures/ot/lev/19.9-10?lang=eng#8).)
-Current programs to care for the poor are much different. The divine law is
-the same. Yet another principle underlies both programs, ancient and modern:
-those being assisted are given opportunity to participate in helping
-themselves to the extent of their capacity.
+[Lev. 19:9-10](/scriptures/ot/lev/19.9-10?lang=eng#8).) Current programs to
+care for the poor are much different. The divine law is the same. Yet another
+principle underlies both programs, ancient and modern: those being assisted
+are given opportunity to participate in helping themselves to the extent of
+their capacity.
 
 In verse 13 the principle of honesty is taught, accompanied by a rule
 requiring employers to pay employees for their work at the end of each day
-[[Lev. 19:13](https://www.lds.org/scriptures/ot/lev/19.13?lang=eng#12)].
-Generally, today that rule is not necessary. The eternal principle of honesty
-is implemented by other rules and practices.
+[[Lev. 19:13](/scriptures/ot/lev/19.13?lang=eng#12)]. Generally, today that
+rule is not necessary. The eternal principle of honesty is implemented by
+other rules and practices.
 
 Verse 27 contains a rule about personal grooming [[Lev.
-19:27](https://www.lds.org/scriptures/ot/lev/19.27?lang=eng#26)]. It is
-clearly not applicable to us. However, we also have standards of dress and
-grooming. Neither is an eternal principle; both are intended to help us
-implement and share gospel principles.
+19:27](/scriptures/ot/lev/19.27?lang=eng#26)]. It is clearly not applicable to
+us. However, we also have standards of dress and grooming. Neither is an
+eternal principle; both are intended to help us implement and share gospel
+principles.
 
 The principle of forgiveness is also set forth in the same chapter of
 Leviticus, verse 18, concluding with the second great commandment, "Thou shalt
 love thy neighbour as thyself," with the added divine imprimatur, "I am the
-Lord." [[Lev. 19:18](https://www.lds.org/scriptures/ot/lev/19.18?lang=eng#17)]
+Lord." [[Lev. 19:18](/scriptures/ot/lev/19.18?lang=eng#17)]
 
 Every Church member has the opportunity, right, and privilege to receive a
 personal witness regarding gospel principles and Church practices. Without
@@ -160,6 +158,8 @@ restored Church.
 
 In the words of the Nephite leader Pahoran "May [we] rejoice in the great
 privilege of our church, and in the cause of our Redeemer and our God." ([Alma
-61:14](https://www.lds.org/scriptures/bofm/alma/61.14?lang=eng#13).) In the
-name of Jesus Christ, amen.
+61:14](/scriptures/bofm/alma/61.14?lang=eng#13).) In the name of Jesus Christ,
+amen.
+
+## References
 

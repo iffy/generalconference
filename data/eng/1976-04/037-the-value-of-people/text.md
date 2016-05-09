@@ -86,7 +86,7 @@ people, do not defend ourselves against the assaults of evil? Was it not
 Moroni who took a piece of his garment and wrote on it, in order to keep his
 people from slavery, "In memory of our God, our religion, and freedom and our
 peace, our wives, and our children." ([Alma
-46:12](https://www.lds.org/scriptures/bofm/alma/46.12?lang=eng#11).)
+46:12](/scriptures/bofm/alma/46.12?lang=eng#11).)
 
 I said in the beginning that the value of a country rests upon the values of
 its people. For the people of God, for the people who want peace, for their
@@ -97,11 +97,11 @@ the rest of the nations by listening to a living prophet. The church is The
 Church of Jesus Christ of Latter-day Saints, restored by the Prophet Joseph
 Smith. The Lord is the Lord Jesus Christ, of whom it is said, "For there is
 none other name under heaven given among men, whereby we must be saved."
-([Acts 4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11).)
+([Acts 4:12](/scriptures/nt/acts/4.12?lang=eng#11).)
 
 This is eternal truth, and "whatsoever is more or less than this is the spirit
 of that wicked one who was a liar from the beginning." ([D&amp;C
-93:25](https://www.lds.org/scriptures/dc-testament/dc/93.25?lang=eng#24).)
+93:25](/scriptures/dc-testament/dc/93.25?lang=eng#24).)
 
 Today at school, at work, or wherever we may be, the choice between truth and
 evil will be presented to us in many different ways. It could be by papers,
@@ -115,8 +115,8 @@ our faith and testimony? The key to the righteous answer is given by a loving
 Father:
 
 "He that keepeth his commandments receiveth truth and light, until he is
-glorified in truth and knoweth all things." ([D&amp;C
-93:28](https://www.lds.org/scriptures/dc-testament/dc/93.28?lang=eng#27).)
+glorified in truth and knoweth all things." ([D&amp;C 93:28](/scriptures/dc-
+testament/dc/93.28?lang=eng#27).)
 
 Obedience to the commandments must be the sole and essential condition
 determining our choices and thus determining our eternal life. Alma expressed
@@ -131,17 +131,18 @@ wills, whether they be unto salvation or unto destruction.
 not good from evil is blameless; but he that knoweth good and evil, to him it
 is given according to his desires, whether he desireth good or evil, life or
 death, joy or remorse of conscience." ([Alma
-29:4-5](https://www.lds.org/scriptures/bofm/alma/29.4-5?lang=eng#3).)
+29:4-5](/scriptures/bofm/alma/29.4-5?lang=eng#3).)
 
 May we remember together to "make a joyful noise unto the Lord, all ye lands.
 
 "Serve the Lord with gladness: ... know ye that the Lord he is God: It is he
 that hath made us, and not we ourselves; we are his people, and the sheep of
-his pasture." ([Ps.
-100:1-3](https://www.lds.org/scriptures/ot/ps/100.1-3?lang=eng#0).) The future
-of the world is in the hands of the people, and following a living prophet
-today will determine our salvation. It is my prayer that, thanks to a great
-conference, we will make new resolutions so that we will be remembered forever
-and ever as one people who wanted to serve the Lord. In the name of Jesus
-Christ. Amen.
+his pasture." ([Ps. 100:1-3](/scriptures/ot/ps/100.1-3?lang=eng#0).) The
+future of the world is in the hands of the people, and following a living
+prophet today will determine our salvation. It is my prayer that, thanks to a
+great conference, we will make new resolutions so that we will be remembered
+forever and ever as one people who wanted to serve the Lord. In the name of
+Jesus Christ. Amen.
+
+## References
 

@@ -28,7 +28,7 @@ When it came time to choose a king to replace King Saul, the Lord gave this
 criteria to his prophet Samuel: "Look not on his countenance, or on the height
 of his stature; ... for the Lord seeth not as man seeth; for man looketh on the
 outward appearance, but the Lord looketh on the heart." ([1 Sam.
-16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).)
+16:7](/scriptures/ot/1-sam/16.7?lang=eng#6).)
 
 When the Lord measures an individual, He does not take a tape measure around
 the person's head to determine his mental capacity, nor his chest to determine
@@ -59,8 +59,8 @@ it if they had been permitted to tarry, shall be heirs of the celestial
 kingdom of God; ...
 
 "For I, the Lord, will judge all men according to their works, according to
-the desire of their hearts." ([D&amp;C 137:7,
-9](https://www.lds.org/scriptures/dc-testament/dc/137.7%2C9?lang=eng#6).)
+the desire of their hearts." ([D&amp;C 137:7, 9](/scriptures/dc-
+testament/dc/137.7,9?lang=eng#6).)
 
 If our works and the desires of our hearts are the ultimate criteria of our
 character, how do we measure up? What kind of heart should we seek? For what
@@ -85,7 +85,7 @@ of heart is not only desirable, but essential for eternal life. The Book of
 Mormon describes the conversion experience, which all of us must have, as a
 "mighty change in us, or in our hearts, that we have no more disposition to do
 evil, but to do good continually." ([Mosiah
-5:2](https://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1).)
+5:2](/scriptures/bofm/mosiah/5.2?lang=eng#1).)
 
 The Book of Mormon is a study of interesting contrasts between those who
 hardened their hearts and those whose hearts were softened by the Spirit of
@@ -95,8 +95,7 @@ the Holy Ghost?
 Nephi's testimony provides an answer: "Having great desires to know of the
 mysteries of God, wherefore, I did cry unto the Lord; and behold _he did_ ...
 _soften my heart_ that I did believe all the words which had been spoken by my
-father." ([1 Ne.
-2:16](https://www.lds.org/scriptures/bofm/1-ne/2.16?lang=eng#15); italics
+father." ([1 Ne. 2:16](/scriptures/bofm/1-ne/2.16?lang=eng#15); italics
 added.)
 
 After obtaining a testimony of the gospel and the Lord's church, we should
@@ -110,7 +109,7 @@ Let us look again to the scriptures for guidance.
 
 "Behold, the Lord requireth the heart and a willing mind; and the willing and
 obedient shall eat the good of the land of Zion in these last days." ([D&amp;C
-64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33).)
+64:34](/scriptures/dc-testament/dc/64.34?lang=eng#33).)
 
 A willing heart describes one who desires to please the Lord and to serve His
 cause first. He serves the Lord on the Lord's terms, not his own. There are no
@@ -190,9 +189,8 @@ What does the Lord require for service? A willing heart and intense desire.
 An understanding, loving heart is the pinnacle of all human emotions. As the
 Apostle Paul said, charity "beareth all things, believeth all things, hopeth
 all things, endureth all things." ([1 Cor.
-13:7](https://www.lds.org/scriptures/nt/1-cor/13.7?lang=eng#6).) We come
-closest to becoming Christlike when we are charitable and understanding of
-others.
+13:7](/scriptures/nt/1-cor/13.7?lang=eng#6).) We come closest to becoming
+Christlike when we are charitable and understanding of others.
 
 One may have many talents and knowledge but never acquire wisdom because he
 does not learn to be compassionate with his fellow man.
@@ -238,4 +236,6 @@ loving.
 We are led by a living prophet today. President Ezra Taft Benson has a pure,
 gentle, honest, kind, and loving heart. This I know. In the name of Jesus
 Christ, amen.
+
+## References
 

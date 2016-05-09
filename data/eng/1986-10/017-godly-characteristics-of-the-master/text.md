@@ -11,7 +11,7 @@ it equally great obligations and responsibilities. When I ponder what kind of
 men and boys we should be as priesthood holders, I cannot help but think of
 the Savior's questions to the Nephite twelve when He asked, "Therefore, what
 manner of men ought ye to be? Verily I say unto you, even as I am" ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26)).
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26)).
 
 To be like the Savior--what a challenge for any person! He is a member of the
 Godhead. He is the Savior and Redeemer. He was perfect in every aspect of His
@@ -22,10 +22,10 @@ commandment if He did not mean for us to do it.
 
 The Apostle Peter spoke of the process by which a person can be made a
 partaker "of the divine nature" ([2 Pet.
-1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3)). This is
-important, for if we truly become partakers of the divine nature, we shall
-become like Him. Let us examine closely what Peter teaches us about this
-process. Here is what he said:
+1:4](/scriptures/nt/2-pet/1.4?lang=eng#3)). This is important, for if we truly
+become partakers of the divine nature, we shall become like Him. Let us
+examine closely what Peter teaches us about this process. Here is what he
+said:
 
 "And beside this, giving all diligence, add to your faith virtue; and to
 virtue knowledge;
@@ -34,7 +34,7 @@ virtue knowledge;
 godliness;
 
 "And to godliness brotherly kindness; and to brotherly kindness charity" ([2
-Pet. 1:5-7](https://www.lds.org/scriptures/nt/2-pet/1.5-7?lang=eng#4)).
+Pet. 1:5-7](/scriptures/nt/2-pet/1.5-7?lang=eng#4)).
 
 The virtues outlined by Peter are part of the divine nature, or the Savior's
 character. These are the virtues we are to emulate if we would be more like
@@ -89,26 +89,24 @@ kind of faith.
 Peter goes on to say that we must add to our faith _virtue._ A priesthood
 holder is _virtuous._ Virtuous behavior implies that he has pure thoughts and
 clean actions. He will not lust in his heart, for to do so is to "deny the
-faith" and to lose the Spirit ([D&amp;C 42:23](https://www.lds.org/scriptures
-/dc-testament/dc/42.23?lang=eng#22))--and there is nothing more important in
-this work than the Spirit. You've heard me say that many times.
+faith" and to lose the Spirit ([D&amp;C 42:23](/scriptures/dc-
+testament/dc/42.23?lang=eng#22))--and there is nothing more important in this
+work than the Spirit. You've heard me say that many times.
 
 He will not commit adultery "nor do anything like unto it" ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5)). This
-means fornication, homosexual behavior, self-abuse, child molestation, or any
-other sexual perversion. This means that a young man will honor young women
-and treat them with respect. He would never do anything that would deprive
-them of that which, in Mormon's words, is "most dear and precious above all
-things, which is chastity and virtue" ([Moro.
-9:9](https://www.lds.org/scriptures/bofm/moro/9.9?lang=eng#8)).
+59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5)). This means fornication,
+homosexual behavior, self-abuse, child molestation, or any other sexual
+perversion. This means that a young man will honor young women and treat them
+with respect. He would never do anything that would deprive them of that
+which, in Mormon's words, is "most dear and precious above all things, which
+is chastity and virtue" ([Moro. 9:9](/scriptures/bofm/moro/9.9?lang=eng#8)).
 
 Virtue is akin to holiness, an attribute of godliness. A priesthood holder
 should actively seek for that which is virtuous and lovely and not that which
 is debasing or sordid. Virtue will garnish his thoughts unceasingly (see
-[D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44)). How can any man indulge himself in the
-evils of pornography, profanity, or vulgarity and consider himself totally
-virtuous?
+[D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)). How can any
+man indulge himself in the evils of pornography, profanity, or vulgarity and
+consider himself totally virtuous?
 
 Whenever a priesthood holder departs from the path of virtue in any form or
 expression, he loses the Spirit and comes under Satan's power. He then
@@ -119,19 +117,18 @@ clean to be worthy to bear the authority of Jesus Christ.
 
 The next step Peter describes in the growth process is to add _knowledge_ to
 our faith and virtue. The Lord has told us that "it is impossible for a man to
-be saved in ignorance" ([D&amp;C 131:6](https://www.lds.org/scriptures/dc-
+be saved in ignorance" ([D&amp;C 131:6](/scriptures/dc-
 testament/dc/131.6?lang=eng#5)). In another place God commanded, "Seek ye out
 of the best books words of wisdom; seek learning, even by study and also by
-faith" ([D&amp;C 88:118](https://www.lds.org/scriptures/dc-
-testament/dc/88.118?lang=eng#117)). Every priesthood holder should make
-learning a lifetime pursuit. While any study of truth is of value, the truths
-of salvation are the most important truths any person can learn. The Lord's
-question "For what is a man profited, if he shall gain the whole world, and
-lose his own soul?" ([Matt.
-16:26](https://www.lds.org/scriptures/nt/matt/16.26?lang=eng#25)) can be
-applied to educational pursuits as well as the pursuit of worldly goods. The
-Lord might also have asked, "For what is a man profited, if he shall learn
-everything in the world and not learn how to be saved?"
+faith" ([D&amp;C 88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117)).
+Every priesthood holder should make learning a lifetime pursuit. While any
+study of truth is of value, the truths of salvation are the most important
+truths any person can learn. The Lord's question "For what is a man profited,
+if he shall gain the whole world, and lose his own soul?" ([Matt.
+16:26](/scriptures/nt/matt/16.26?lang=eng#25)) can be applied to educational
+pursuits as well as the pursuit of worldly goods. The Lord might also have
+asked, "For what is a man profited, if he shall learn everything in the world
+and not learn how to be saved?"
 
 We must balance our secular learning with spiritual learning. You young men
 should be as earnest in enrolling in seminary and learning the scriptures as
@@ -219,8 +216,8 @@ understanding of others' faults.
 A patient man also waits on the Lord. We sometimes read or hear of people who
 seek a blessing from the Lord, then grow impatient when it does not come
 swiftly. Part of the divine nature is to trust in the Lord enough to "be still
-and know that [he is] God" ([D&amp;C 101:16](https://www.lds.org/scriptures
-/dc-testament/dc/101.16?lang=eng#15)).
+and know that [he is] God" ([D&amp;C 101:16](/scriptures/dc-
+testament/dc/101.16?lang=eng#15)).
 
 A priesthood holder who is patient will be tolerant of the mistakes and
 failings of his loved ones. Because he loves them, he will not find fault nor
@@ -239,16 +236,16 @@ control of our emotional feelings?
 
 The Apostle Paul used some vivid expressions to illustrate that a member of
 the Church must be different from the world. He commended us to "put on
-Christ" ([Gal. 3:27](https://www.lds.org/scriptures/nt/gal/3.27?lang=eng#26)),
-"put off ... the old man," and "put on the new man" ([Eph. 4:22,
-24](https://www.lds.org/scriptures/nt/eph/4.22%2C24?lang=eng#21)).
+Christ" ([Gal. 3:27](/scriptures/nt/gal/3.27?lang=eng#26)), "put off ... the old
+man," and "put on the new man" ([Eph. 4:22,
+24](/scriptures/nt/eph/4.22,24?lang=eng#21)).
 
 The final and crowning virtue of the divine character is _charity,_ or the
 pure love of Christ (see [Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46)). If we would
-truly seek to be more like our Savior and Master, then learning to love as He
-loves should be our highest goal. Mormon called charity "the greatest of all"
-([Moro. 7:46](https://www.lds.org/scriptures/bofm/moro/7.46?lang=eng#45)).
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46)). If we would truly seek to be
+more like our Savior and Master, then learning to love as He loves should be
+our highest goal. Mormon called charity "the greatest of all" ([Moro.
+7:46](/scriptures/bofm/moro/7.46?lang=eng#45)).
 
 The world today speaks a great deal about love, and it is sought for by many.
 But the pure love of Christ differs greatly from what the world thinks of
@@ -263,8 +260,8 @@ love?
 
 But my father knew a greater vision of love. He knew that "all things shall
 work together for good to them that love God" ([Rom.
-8:28](https://www.lds.org/scriptures/nt/rom/8.28?lang=eng#27)). He knew that
-the best thing he could do for his family was to obey God.
+8:28](/scriptures/nt/rom/8.28?lang=eng#27)). He knew that the best thing he
+could do for his family was to obey God.
 
 While we missed him greatly during those years, and while his absence brought
 many challenges to our family, his acceptance proved to be a gift of charity.
@@ -297,18 +294,16 @@ virtue? If we are to be like Him, we too must become partakers of the divine
 nature.
 
 The Savior declared that life eternal is to know the only true God and His Son
-Jesus Christ (see [John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)). If this is
-true, and I bear you my solemn witness that it _is_ true, then we must ask how
-we come to know God. The process of adding one godly attribute to another, as
-described by Peter, becomes the key to gaining this knowledge that leads to
+Jesus Christ (see [John 17:3](/scriptures/nt/john/17.3?lang=eng#2)). If this
+is true, and I bear you my solemn witness that it _is_ true, then we must ask
+how we come to know God. The process of adding one godly attribute to another,
+as described by Peter, becomes the key to gaining this knowledge that leads to
 eternal life. Note Peter's promise, which immediately follows the process
 described:
 
 "For if these things be in you, _and abound,_ they make you that ye shall
 neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ"
-([2 Pet. 1:8](https://www.lds.org/scriptures/nt/2-pet/1.8?lang=eng#7); italics
-added).
+([2 Pet. 1:8](/scriptures/nt/2-pet/1.8?lang=eng#7); italics added).
 
 Oh, my beloved brethren, I pray that these qualities and attributes of the
 Savior may abound in us so that when we stand at the Judgment and He asks each
@@ -346,4 +341,6 @@ local priesthood leaders by letter from the First Presidency.
 "At this time, we commend all who have served both past and present as members
 of stake seventies quorums of the Church and who have so ably given of their
 time, talents, and resources in spreading forth the gospel of Jesus Christ."
+
+## References
 

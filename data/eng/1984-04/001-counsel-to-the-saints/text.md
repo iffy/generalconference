@@ -43,8 +43,7 @@ Children are likewise counseled in holy writ in their duty to parents:
 "Honour thy father and mother; [which is the first commandment with promise;]
 
 "That it may be well with thee, and thou mayest live long on the earth" ([Eph.
-6:1-3](https://www.lds.org/scriptures/nt/eph/6.1-3?lang=eng#0)), said the
-Apostle Paul.
+6:1-3](/scriptures/nt/eph/6.1-3?lang=eng#0)), said the Apostle Paul.
 
 When parents, in companionship, love, and unity, fulfill their heaven-imposed
 responsibility and children respond with love and obedience, great joy is the
@@ -101,8 +100,7 @@ discussed as a means to help develop spiritual-mindedness.
 
 In successful Latter-day Saint homes, parents teach their children to
 understand faith in God, repentance, baptism, and the gift of the Holy Ghost.
-(See [D&amp;C 68:25](https://www.lds.org/scriptures/dc-
-testament/dc/68.25?lang=eng#24).)
+(See [D&amp;C 68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24).)
 
 Family prayer is a consistent practice in these families. Prayer is the means
 to acknowledge appreciation for blessings and to humbly recognize dependence
@@ -135,8 +133,8 @@ have the Saints been so abundantly blessed with the words of the Lord and His
 prophets.
 
 Now our challenge is to do as the Lord commanded: "Study my word which hath
-gone forth among the children of men" ([D&amp;C
-11:22](https://www.lds.org/scriptures/dc-testament/dc/11.22?lang=eng#21)).
+gone forth among the children of men" ([D&amp;C 11:22](/scriptures/dc-
+testament/dc/11.22?lang=eng#21)).
 
 This year we are to read the Book of Mormon in the adult curriculum of the
 Church. The Prophet Joseph Smith said of this sacred record: "The Book of
@@ -148,7 +146,7 @@ Fielding Smith [Salt Lake City: Deseret Book Co., 1977], p. 194).
 We urge you to study the Book of Mormon as individuals and families and then
 to do as the prophet Nephi counseled: liken the scriptures to yourselves so
 that it will be for your profit and learning. (See [1 Ne.
-19:23-24](https://www.lds.org/scriptures/bofm/1-ne/19.23-24?lang=eng#22).)
+19:23-24](/scriptures/bofm/1-ne/19.23-24?lang=eng#22).)
 
 We have requested priesthood leaders to minimize administrative meetings on
 the Sabbath so that families may engage in worship and family time. Our hope
@@ -166,99 +164,94 @@ be sensitive to the needs of the poor, the sick, and the needy. We have a
 Christian responsibility to see that the widows and fatherless are assisted.
 "Pure religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself unspotted from
-the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+the world." ([James 1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 We urge you to keep the commandments of God. By so doing, you will keep
 yourself free from the bondage of sin.
 
 "Love the Lord thy God with all thy heart, with all thy might, mind, and
 strength; and in the name of Jesus Christ ... serve him." ([D&amp;C
-59:5](https://www.lds.org/scriptures/dc-testament/dc/59.5?lang=eng#4).)
+59:5](/scriptures/dc-testament/dc/59.5?lang=eng#4).)
 
-Confess the hand of God in all things. (See [D&amp;C
-59:21](https://www.lds.org/scriptures/dc-testament/dc/59.21?lang=eng#20).)
+Confess the hand of God in all things. (See [D&amp;C 59:21](/scriptures/dc-
+testament/dc/59.21?lang=eng#20).)
 
-"Be patient in afflictions." ([D&amp;C 24:8](https://www.lds.org/scriptures
-/dc-testament/dc/24.8?lang=eng#7).)
+"Be patient in afflictions." ([D&amp;C 24:8](/scriptures/dc-
+testament/dc/24.8?lang=eng#7).)
 
-"Be of good cheer." ([D&amp;C 61:36](https://www.lds.org/scriptures/dc-
+"Be of good cheer." ([D&amp;C 61:36](/scriptures/dc-
 testament/dc/61.36?lang=eng#35).)
 
 Sustain and support the priesthood in the home and Church. (See [D&amp;C
-107:22](https://www.lds.org/scriptures/dc-testament/dc/107.22?lang=eng#21).)
+107:22](/scriptures/dc-testament/dc/107.22?lang=eng#21).)
 
 Pay an honest tithe and a generous fast offering. (See [D&amp;C
-119:4](https://www.lds.org/scriptures/dc-testament/dc/119.4?lang=eng#3);
-[Mosiah 4:21](https://www.lds.org/scriptures/bofm/mosiah/4.21?lang=eng#20).)
+119:4](/scriptures/dc-testament/dc/119.4?lang=eng#3); [Mosiah
+4:21](/scriptures/bofm/mosiah/4.21?lang=eng#20).)
 
-"Love thy neighbor as thyself." ([D&amp;C 59:6](https://www.lds.org/scriptures
-/dc-testament/dc/59.6?lang=eng#5).)
+"Love thy neighbor as thyself." ([D&amp;C 59:6](/scriptures/dc-
+testament/dc/59.6?lang=eng#5).)
 
 Teach your children. Bring them up in light and truth. (See [D&amp;C 93:40,
-42-43](https://www.lds.org/scriptures/dc-
-testament/dc/93.40%2C42-43?lang=eng#39).)
+42-43](/scriptures/dc-testament/dc/93.40,42-43?lang=eng#39).)
 
-"Cease to find fault one with another." ([D&amp;C
-88:124](https://www.lds.org/scriptures/dc-testament/dc/88.124?lang=eng#123).)
+"Cease to find fault one with another." ([D&amp;C 88:124](/scriptures/dc-
+testament/dc/88.124?lang=eng#123).)
 
-"Forgive one another." ([D&amp;C 64:9](https://www.lds.org/scriptures/dc-
+"Forgive one another." ([D&amp;C 64:9](/scriptures/dc-
 testament/dc/64.9?lang=eng#8).)
 
 Elect honest, good, and wise men to public office. (See [D&amp;C
-98:10](https://www.lds.org/scriptures/dc-testament/dc/98.10?lang=eng#9).)
+98:10](/scriptures/dc-testament/dc/98.10?lang=eng#9).)
 
 Obey and befriend "that law which is the constitutional law of the land."
-([D&amp;C 98:6](https://www.lds.org/scriptures/dc-
-testament/dc/98.6?lang=eng#5).)
+([D&amp;C 98:6](/scriptures/dc-testament/dc/98.6?lang=eng#5).)
 
-Be thrifty. Stay out of debt. (See [D&amp;C
-19:35](https://www.lds.org/scriptures/dc-testament/dc/19.35?lang=eng#34).)
+Be thrifty. Stay out of debt. (See [D&amp;C 19:35](/scriptures/dc-
+testament/dc/19.35?lang=eng#34).)
 
-Do not covet. (See [D&amp;C 88:123](https://www.lds.org/scriptures/dc-
+Do not covet. (See [D&amp;C 88:123](/scriptures/dc-
 testament/dc/88.123?lang=eng#122).)
 
-Be honest in your dealings with others. (See [D&amp;C
-51:9](https://www.lds.org/scriptures/dc-testament/dc/51.9?lang=eng#8).)
+Be honest in your dealings with others. (See [D&amp;C 51:9](/scriptures/dc-
+testament/dc/51.9?lang=eng#8).)
 
 Observe the Sabbath day to keep it holy. (See [D&amp;C 59:10,
-12-13](https://www.lds.org/scriptures/dc-
-testament/dc/59.10%2C12-13?lang=eng#9).)
+12-13](/scriptures/dc-testament/dc/59.10,12-13?lang=eng#9).)
 
 Abstain from the use of liquor, tobacco, and strong and hot drinks. (See
-[D&amp;C 89:5-9](https://www.lds.org/scriptures/dc-
-testament/dc/89.5-9?lang=eng#4).)
+[D&amp;C 89:5-9](/scriptures/dc-testament/dc/89.5-9?lang=eng#4).)
 
-"Cease to be unclean"; shun pornography. ([D&amp;C
-88:124](https://www.lds.org/scriptures/dc-testament/dc/88.124?lang=eng#123).)
+"Cease to be unclean"; shun pornography. ([D&amp;C 88:124](/scriptures/dc-
+testament/dc/88.124?lang=eng#123).)
 
-Seek learning out of the best books. (See [D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
-Avoid literature and movies which portray evil as good and good as evil.
+Seek learning out of the best books. (See [D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117).) Avoid literature and movies which portray
+evil as good and good as evil.
 
 Do not commit adultery "nor do anything like unto it." ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).) That
-means petting, fornication, homosexuality, and any other form of immorality.
+59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).) That means petting,
+fornication, homosexuality, and any other form of immorality.
 
-"Let virtue garnish thy thoughts unceasingly." ([D&amp;C
-121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44).)
+"Let virtue garnish thy thoughts unceasingly." ([D&amp;C 121:45](/scriptures
+/dc-testament/dc/121.45?lang=eng#44).)
 
-"Practice virtue and holiness" continually. ([D&amp;C
-38:24](https://www.lds.org/scriptures/dc-testament/dc/38.24?lang=eng#23).)
+"Practice virtue and holiness" continually. ([D&amp;C 38:24](/scriptures/dc-
+testament/dc/38.24?lang=eng#23).)
 
-"Clothe yourselves with the bond of charity." ([D&amp;C
-88:125](https://www.lds.org/scriptures/dc-testament/dc/88.125?lang=eng#124).)
+"Clothe yourselves with the bond of charity." ([D&amp;C 88:125](/scriptures
+/dc-testament/dc/88.125?lang=eng#124).)
 
 Live by every word that proceedeth forth from the mouth of God. (See [D&amp;C
-98:11](https://www.lds.org/scriptures/dc-testament/dc/98.11?lang=eng#10).)
+98:11](/scriptures/dc-testament/dc/98.11?lang=eng#10).)
 
-Be valiant in your testimony of Christ. (See [D&amp;C 76:51,
-79](https://www.lds.org/scriptures/dc-testament/dc/76.51%2C79?lang=eng#50).)
+Be valiant in your testimony of Christ. (See [D&amp;C 76:51, 79](/scriptures
+/dc-testament/dc/76.51,79?lang=eng#50).)
 
-Honor your covenants. (See [D&amp;C 25:13](https://www.lds.org/scriptures/dc-
+Honor your covenants. (See [D&amp;C 25:13](/scriptures/dc-
 testament/dc/25.13?lang=eng#12).)
 
-"Endure to the end." ([D&amp;C 14:7](https://www.lds.org/scriptures/dc-
+"Endure to the end." ([D&amp;C 14:7](/scriptures/dc-
 testament/dc/14.7?lang=eng#6).)
 
 In a word, though you live in the world, be not of the world!
@@ -295,8 +288,8 @@ encourage priesthood and auxiliary leaders to continue this great effort.
 Latter-day Saints, we commend you! We commend your faithfulness. Never have
 our opportunities and our blessings been so great. In the words of the Prophet
 Joseph Smith, "Shall we not go on in so great a cause? Go forward and not
-backward. Courage ... and on, on to victory!" ([D&amp;C
-128:22](https://www.lds.org/scriptures/dc-testament/dc/128.22?lang=eng#21).)
+backward. Courage ... and on, on to victory!" ([D&amp;C 128:22](/scriptures/dc-
+testament/dc/128.22?lang=eng#21).)
 
 Some of our members have become disturbed because of derogatory things said
 about the Church and its leaders, or because of misrepresentations about our
@@ -314,8 +307,7 @@ brethren of the Twelve have heard me quote. The passage reads as follows:
 "No weapon that is formed against thee shall prosper; and every tongue that
 shall revile against thee in judgment thou shalt condemn. This is the heritage
 of the servants of the Lord, and their righteousness is of me, saith the
-Lord." ([3 Ne.
-22:17](https://www.lds.org/scriptures/bofm/3-ne/22.17?lang=eng#16).)
+Lord." ([3 Ne. 22:17](/scriptures/bofm/3-ne/22.17?lang=eng#16).)
 
 Brothers and sisters, this is the work of the Lord. This is His church on the
 earth. He has entrusted His church to the care of humble men, who have
@@ -332,4 +324,6 @@ families, and good men and women the world over, for we all are children of
 one Father.
 
 To this I testify and leave my blessing, in the name of Jesus Christ, amen.
+
+## References
 

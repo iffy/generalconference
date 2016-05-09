@@ -86,16 +86,15 @@ with in the old MIA. The young people are given a new scripture theme every
 year, and the girls memorize it and recite it each week. They speak of it,
 they set their goals by it, and we hope they try to live by it. This year's
 scripture is the theme of commitment taken from [1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6): "I will go and
-do the things which the Lord hath commanded." "I will go." We say it over and
-over again.
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6): "I will go and do the things which
+the Lord hath commanded." "I will go." We say it over and over again.
 
 You parents listening to this conference have more responsibility than we do
 as church workers. I echo what has been said by the Brethren. This recitation
-of [1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6) should
-become a reality in the lives of the coming generation, who must be prepared,
-as President Kimball told us several years ago, as a covenant generation to
-prepare the way for the coming of the Lord.
+of [1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6) should become a reality
+in the lives of the coming generation, who must be prepared, as President
+Kimball told us several years ago, as a covenant generation to prepare the way
+for the coming of the Lord.
 
 Those of you who are gathered here in this historic Tabernacle or tuned into
 the conference listen to the messages translated into your own languages. This
@@ -115,4 +114,6 @@ my mind that these men here are his special servants. I am happy to have
 served in whatever way I have. And I am grateful that there are people like
 you who will take up the concerns that we have had, who will prepare these
 young ones, who are so precious. In the name of Jesus Christ, amen.
+
+## References
 

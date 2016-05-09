@@ -4,10 +4,10 @@ Forever, I will gratefully acknowledge our Lord's blessings to me, which I do
 again at this time.
 
 As directed, we have assembled "to worship the King, the Lord of hosts"
-([Zech. 14:16](https://www.lds.org/scriptures/ot/zech/14.16?lang=eng#15)) and
-to be built up in our faith and desires for righteousness. We testify to one
-another of our Master and receive counsel from those appointed to administer
-the affairs of His kingdom here on earth.
+([Zech. 14:16](/scriptures/ot/zech/14.16?lang=eng#15)) and to be built up in
+our faith and desires for righteousness. We testify to one another of our
+Master and receive counsel from those appointed to administer the affairs of
+His kingdom here on earth.
 
 Conferences of this Church are far more than a convention where views are
 expressed or policies adopted by vote, but they are assemblies where the mind
@@ -31,13 +31,13 @@ one, am concerned.
 Previous periods of moral decline brought forth divine attention. In past
 times, as at present, prophets of God have delivered a voice of warning. The
 Lord said to Ezekiel, "I have made thee a watchman unto the house of Israel:
-therefore hear the word ... , and give them warning from me." ([Ezek.
-3:17](https://www.lds.org/scriptures/ot/ezek/3.17?lang=eng#16).)
+therefore hear the word ..., and give them warning from me." ([Ezek.
+3:17](/scriptures/ot/ezek/3.17?lang=eng#16).)
 
 From what we are witnessing happening in the world around us, I am impressed
 today to raise a voice of warning for mankind to prepare--by repentance--for
-the great day of the Lord. (See [D&amp;C
-1:11-12](https://www.lds.org/scriptures/dc-testament/dc/1.11-12?lang=eng#10).)
+the great day of the Lord. (See [D&amp;C 1:11-12](/scriptures/dc-
+testament/dc/1.11-12?lang=eng#10).)
 
 I am indebted to Elder Dallin Oaks for an account, a modern-day parable which
 I refer to as the parable of the bushy-tailed squirrel, the tree, and the dog,
@@ -112,8 +112,7 @@ now is whether we will become our own god." (Cal Thomas, _Salt Lake Tribune,_
 18 Sept. 1992, A18; emphasis in original.)
 
 No wonder Isaiah, speaking under inspiration, declared, "Neither are your ways
-my ways, saith the Lord." ([Isa.
-55:8](https://www.lds.org/scriptures/ot/isa/55.8?lang=eng#7).)
+my ways, saith the Lord." ([Isa. 55:8](/scriptures/ot/isa/55.8?lang=eng#7).)
 
 Unchangeable, God-centered principles and ideals adopted by our Founding
 Fathers not only form the basis of freedom but are the rivets that hold it
@@ -132,8 +131,8 @@ Christ! Few of all ever created have ever glimpsed such a vision: Peter, James
 and John, Moses, Abraham, and Adam--only a few--ever. Joseph Smith belonged to
 an elite group who had been tried, trusted, and found true. He was one of
 those described by Abraham as one of the "noble and great ones" ([Abr.
-3:22](https://www.lds.org/scriptures/pgp/abr/3.22?lang=eng#21)) who became one
-of the Lord's choice servants while here on earth.
+3:22](/scriptures/pgp/abr/3.22?lang=eng#21)) who became one of the Lord's
+choice servants while here on earth.
 
 Courageous and faithful people by the tens of thousands heard and believed the
 glorious message of a new hope for a better way of life. Did they expect to
@@ -154,7 +153,7 @@ unto it.
 of the Lord, to the house of the God of Jacob; and he will teach us of his
 ways, and we will walk in his paths: for out of Zion shall go forth the law,
 and the word of the Lord from Jerusalem." ([Isa.
-2:2-3](https://www.lds.org/scriptures/ot/isa/2.2-3?lang=eng#1).)
+2:2-3](/scriptures/ot/isa/2.2-3?lang=eng#1).)
 
 What was their purpose? What was their motive? Not for the gold in California,
 but that they might worship God Almighty according to the dictates of their
@@ -193,16 +192,14 @@ movies as a means of gaining knowledge and understanding as to how to live
 their lives!
 
 The Lord has clearly commanded that parents are to teach their children to do
-good (see [Alma
-39:12](https://www.lds.org/scriptures/bofm/alma/39.12?lang=eng#11))--and to
-teach them "the doctrine of repentance, faith in Christ the Son of the living
-God, and of baptism and the gift of the Holy Ghost by the laying on of the
-hands, when eight years old, [or] the sin [shall] be upon the heads of the
-parents." ([D&amp;C 68:25](https://www.lds.org/scriptures/dc-
-testament/dc/68.25?lang=eng#24).)
+good (see [Alma 39:12](/scriptures/bofm/alma/39.12?lang=eng#11))--and to teach
+them "the doctrine of repentance, faith in Christ the Son of the living God,
+and of baptism and the gift of the Holy Ghost by the laying on of the hands,
+when eight years old, [or] the sin [shall] be upon the heads of the parents."
+([D&amp;C 68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24).)
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord." ([D&amp;C 68:28](https://www.lds.org/scriptures/dc-
+before the Lord." ([D&amp;C 68:28](/scriptures/dc-
 testament/dc/68.28?lang=eng#27).)
 
 "And ye will not suffer your children that they go hungry, or naked; neither
@@ -210,7 +207,7 @@ will ye suffer that they transgress the laws of God. ...
 
 "But ye will teach them to walk in the ways of truth and soberness; ye will
 teach them to love one another, and to serve one another." ([Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
+4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
 
 A concerned God--by his own finger--wrote the Ten Commandments on tablets of
 stone. They represent the basic law of the Almighty and have formed the
@@ -233,4 +230,6 @@ ourselves to worthily enter the temple where we may find a refuge from the
 world and a place of renewal of our capacity to cope with the evils of the
 world. I so declare to you as I leave you my witness and testimony, in the
 name of Jesus Christ, amen.
+
+## References
 

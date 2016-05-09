@@ -1,453 +1,371 @@
 items:
-- article_id: 03083_000_003
-  item: '000'
+- item: 1
   key: 000-the-lord-expects-his-saints-to-follow-the-commandments
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-lord-expects-his-saints-to-follow-the-commandments
   speaker: Spencer W. Kimball
   title: The Lord Expects His Saints to Follow the Commandments
   url: https://www.lds.org/general-conference/1977/04/the-lord-expects-his-saints-to-follow-the-commandments?lang=eng
   year: 1977
-- article_id: 03083_000_004
-  item: '001'
+- item: 2
   key: 001-we-beheld-his-glory
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: we-beheld-his-glory
   speaker: David B. Haight
-  title: "\u201CWe Beheld His Glory\u201D"
+  title: '"We Beheld His Glory"'
   url: https://www.lds.org/general-conference/1977/04/we-beheld-his-glory?lang=eng
   year: 1977
-- article_id: 03083_000_005
-  item: '002'
+- item: 3
   key: 002-church-finance-committee-report
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: church-finance-committee-report
   speaker: Wilford G. Edling
   title: Church Finance Committee Report
   url: https://www.lds.org/general-conference/1977/04/church-finance-committee-report?lang=eng
   year: 1977
-- article_id: 03083_000_006
-  item: '003'
+- item: 4
   key: 003-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sustaining-of-church-officers
   speaker: N. Eldon Tanner
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1977/04/the-sustaining-of-church-officers?lang=eng
   year: 1977
-- article_id: 03083_000_007
-  item: '004'
+- item: 5
   key: 004-come-know-the-lord-jesus
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: come-know-the-lord-jesus
   speaker: Bruce R. McConkie
   title: Come, Know the Lord Jesus
   url: https://www.lds.org/general-conference/1977/04/come-know-the-lord-jesus?lang=eng
   year: 1977
-- article_id: 03083_000_008
-  item: '005'
+- item: 6
   key: 005-integrity
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: integrity
   speaker: N. Eldon Tanner
   title: Integrity
   url: https://www.lds.org/general-conference/1977/04/integrity?lang=eng
   year: 1977
-- article_id: 03083_000_009
-  item: '006'
+- item: 7
   key: 006-statistical-report-1976
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-1976
   speaker: Francis M. Gibbons
   title: Statistical Report 1976
   url: https://www.lds.org/general-conference/1977/04/statistical-report-1976?lang=eng
   year: 1977
-- article_id: 03083_000_010
-  item: '007'
+- item: 8
   key: 007-lengthening-your-stride-as-a-missionary
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: lengthening-your-stride-as-a-missionary
   speaker: Franklin D. Richards
   title: Lengthening Your Stride as a Missionary
   url: https://www.lds.org/general-conference/1977/04/lengthening-your-stride-as-a-missionary?lang=eng
   year: 1977
-- article_id: 03083_000_011
-  item: 008
+- item: 9
   key: 008-what-constitutes-the-true-church
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: what-constitutes-the-true-church
   speaker: Delbert L. Stapley
   title: What Constitutes the True Church
   url: https://www.lds.org/general-conference/1977/04/what-constitutes-the-true-church?lang=eng
   year: 1977
-- article_id: 03083_000_012
-  item: 009
+- item: 10
   key: 009-thoughts-on-the-sacrament
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: thoughts-on-the-sacrament
   speaker: Howard W. Hunter
   title: Thoughts on the Sacrament
   url: https://www.lds.org/general-conference/1977/04/thoughts-on-the-sacrament?lang=eng
   year: 1977
-- article_id: 03083_000_013
-  item: '010'
+- item: 11
   key: 010-the-living-christ
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-living-christ
   speaker: Bernard P. Brockbank
   title: The Living Christ
   url: https://www.lds.org/general-conference/1977/04/the-living-christ?lang=eng
   year: 1977
-- article_id: 03083_000_014
-  item: '011'
+- item: 12
   key: 011-neither-cryptic-nor-hidden
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: neither-cryptic-nor-hidden
   speaker: Theodore M. Burton
   title: Neither Cryptic Nor Hidden
   url: https://www.lds.org/general-conference/1977/04/neither-cryptic-nor-hidden?lang=eng
   year: 1977
-- article_id: 03083_000_015
-  item: '012'
+- item: 13
   key: 012-did-not-our-heart-burn-within-us
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: did-not-our-heart-burn-within-us
   speaker: Loren C. Dunn
   title: Did Not Our Heart Burn Within Us?
   url: https://www.lds.org/general-conference/1977/04/did-not-our-heart-burn-within-us?lang=eng
   year: 1977
-- article_id: 03083_000_016
-  item: '013'
+- item: 14
   key: 013-prayer
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: prayer
   speaker: Ezra Taft Benson
   title: Prayer
   url: https://www.lds.org/general-conference/1977/04/prayer?lang=eng
   year: 1977
-- article_id: 03083_000_017
-  item: '014'
+- item: 15
   key: 014-presentation-of-scouting-award
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: presentation-of-scouting-award
-  speaker: Mr. Arch Monson
+  speaker: Arch Monson
   title: Presentation of Scouting Award
   url: https://www.lds.org/general-conference/1977/04/presentation-of-scouting-award?lang=eng
   year: 1977
-- article_id: 03083_000_018
-  item: '015'
+- item: 16
   key: 015-follow-the-living-prophet
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: follow-the-living-prophet
   speaker: Victor L. Brown
   title: Follow the Living Prophet
   url: https://www.lds.org/general-conference/1977/04/follow-the-living-prophet?lang=eng
   year: 1977
-- article_id: 03083_000_019
-  item: '016'
+- item: 17
   key: 016-prepare-now-for-your-mission
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: prepare-now-for-your-mission
   speaker: J. Thomas Fyans
   title: Prepare Now for Your Mission
   url: https://www.lds.org/general-conference/1977/04/prepare-now-for-your-mission?lang=eng
   year: 1977
-- article_id: 03083_000_020
-  item: '017'
+- item: 18
   key: 017-the-validity-of-the-gospel
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-validity-of-the-gospel
   speaker: G. Homer Durham
   title: The Validity of the Gospel
   url: https://www.lds.org/general-conference/1977/04/the-validity-of-the-gospel?lang=eng
   year: 1977
-- article_id: 03083_000_021
-  item: 018
+- item: 19
   key: 018-a-thousand-witnesses
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: a-thousand-witnesses
   speaker: James M. Paramore
   title: A Thousand Witnesses
   url: https://www.lds.org/general-conference/1977/04/a-thousand-witnesses?lang=eng
   year: 1977
-- article_id: 03083_000_022
-  item: 019
+- item: 20
   key: 019-the-light-of-christ
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-light-of-christ
   speaker: Marion G. Romney
   title: The Light of Christ
   url: https://www.lds.org/general-conference/1977/04/the-light-of-christ?lang=eng
   year: 1977
-- article_id: 03083_000_023
-  item: '020'
+- item: 21
   key: 020-the-greatest-brotherhood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-greatest-brotherhood
   speaker: N. Eldon Tanner
   title: The Greatest Brotherhood
   url: https://www.lds.org/general-conference/1977/04/the-greatest-brotherhood?lang=eng
   year: 1977
-- article_id: 03083_000_024
-  item: '021'
+- item: 22
   key: 021-our-great-potential
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: our-great-potential
   speaker: Spencer W. Kimball
   title: Our Great Potential
   url: https://www.lds.org/general-conference/1977/04/our-great-potential?lang=eng
   year: 1977
-- article_id: 03083_000_025
-  item: '022'
+- item: 23
   key: 022-a-silver-lining
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-silver-lining
   speaker: Marion G. Romney
   title: A Silver Lining
   url: https://www.lds.org/general-conference/1977/04/a-silver-lining?lang=eng
   year: 1977
-- article_id: 03083_000_026
-  item: '023'
+- item: 24
   key: 023-the-mediator
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-mediator
   speaker: Boyd K. Packer
   title: The Mediator
   url: https://www.lds.org/general-conference/1977/04/the-mediator?lang=eng
   year: 1977
-- article_id: 03083_000_027
-  item: '024'
+- item: 25
   key: 024-the-beatitudes-and-our-perfection
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-beatitudes-and-our-perfection
   speaker: Royden G. Derrick
   title: The Beatitudes and Our Perfection
   url: https://www.lds.org/general-conference/1977/04/the-beatitudes-and-our-perfection?lang=eng
   year: 1977
-- article_id: 03083_000_028
-  item: '025'
+- item: 26
   key: 025-but-be-ye-doers-of-the-word
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: but-be-ye-doers-of-the-word
   speaker: L. Tom Perry
   title: But Be Ye Doers of the Word
   url: https://www.lds.org/general-conference/1977/04/but-be-ye-doers-of-the-word?lang=eng
   year: 1977
-- article_id: 03083_000_029
-  item: '026'
+- item: 27
   key: 026-god-moves-in-a-mysterious-way-his-wonders-to-perform
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: god-moves-in-a-mysterious-way-his-wonders-to-perform
-  speaker: Elder LeGrand Richards
+  speaker: LeGrand Richards
   title: God Moves in a Mysterious Way His Wonders to Perform
   url: https://www.lds.org/general-conference/1977/04/god-moves-in-a-mysterious-way-his-wonders-to-perform?lang=eng
   year: 1977
-- article_id: 03083_000_030
-  item: '027'
+- item: 28
   key: 027-joseph-the-seer
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: joseph-the-seer
   speaker: Gordon B. Hinckley
   title: Joseph the Seer
   url: https://www.lds.org/general-conference/1977/04/joseph-the-seer?lang=eng
   year: 1977
-- article_id: 03083_000_031
-  item: 028
+- item: 29
   key: 028-the-power-of-plainness
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-power-of-plainness
   speaker: Marvin J. Ashton
   title: The Power of Plainness
   url: https://www.lds.org/general-conference/1977/04/the-power-of-plainness?lang=eng
   year: 1977
-- article_id: 03083_000_032
-  item: 029
+- item: 30
   key: 029-the-daily-portion-of-love
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-daily-portion-of-love
   speaker: H. Burke Peterson
   title: The Daily Portion of Love
   url: https://www.lds.org/general-conference/1977/04/the-daily-portion-of-love?lang=eng
   year: 1977
-- article_id: 03083_000_033
-  item: '030'
+- item: 31
   key: 030-gratitude
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: gratitude
   speaker: Richard G. Scott
   title: Gratitude
   url: https://www.lds.org/general-conference/1977/04/gratitude?lang=eng
   year: 1977
-- article_id: 03083_000_034
-  item: '031'
+- item: 32
   key: 031-your-jericho-road
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: your-jericho-road
   speaker: Thomas S. Monson
   title: Your Jericho Road
   url: https://www.lds.org/general-conference/1977/04/your-jericho-road?lang=eng
   year: 1977
-- article_id: 03083_000_035
-  item: '032'
+- item: 33
   key: 032-do-unto-others
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: do-unto-others
   speaker: Mark E. Petersen
-  title: "Do Unto Others \u2026 "
+  title: Do Unto Others ...
   url: https://www.lds.org/general-conference/1977/04/do-unto-others?lang=eng
   year: 1977
-- article_id: 03083_000_036
-  item: '033'
+- item: 34
   key: 033-revelation-the-word-of-the-lord-to-his-prophets
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: revelation-the-word-of-the-lord-to-his-prophets
   speaker: Spencer W. Kimball
   title: 'Revelation: The Word of the Lord to His Prophets'
   url: https://www.lds.org/general-conference/1977/04/revelation-the-word-of-the-lord-to-his-prophets?lang=eng
   year: 1977
-- article_id: 03083_000_037
-  item: '034'
+- item: 35
   key: 034-rendering-assistance-in-the-lords-way
   month: 4
-  session_id: welfare
   session_title: Welfare Services Session
   slug: rendering-assistance-in-the-lords-way
   speaker: Victor L. Brown
-  title: "Rendering Assistance in the Lord\u2019s Way"
+  title: Rendering Assistance in the Lord's Way
   url: https://www.lds.org/general-conference/1977/04/rendering-assistance-in-the-lords-way?lang=eng
   year: 1977
-- article_id: 03083_000_038
-  item: '035'
+- item: 36
   key: 035-ministering-to-needs-through-the-lords-storehouse-system
   month: 4
-  session_id: welfare
   session_title: Welfare Services Session
   slug: ministering-to-needs-through-the-lords-storehouse-system
   speaker: Ezra Taft Benson
-  title: "Ministering to Needs through the Lord\u2019s Storehouse System"
+  title: Ministering to Needs through the Lord's Storehouse System
   url: https://www.lds.org/general-conference/1977/04/ministering-to-needs-through-the-lords-storehouse-system?lang=eng
   year: 1977
-- article_id: 03083_000_039
-  item: '036'
+- item: 37
   key: 036-ministering-to-needs-through-lds-social-services
   month: 4
-  session_id: welfare
   session_title: Welfare Services Session
   slug: ministering-to-needs-through-lds-social-services
   speaker: J. Richard Clarke
   title: Ministering to Needs through LDS Social Services
   url: https://www.lds.org/general-conference/1977/04/ministering-to-needs-through-lds-social-services?lang=eng
   year: 1977
-- article_id: 03083_000_040
-  item: '037'
+- item: 38
   key: 037-the-role-of-the-stake-bishops-council-in-welfare-services
   month: 4
-  session_id: welfare
   session_title: Welfare Services Session
   slug: the-role-of-the-stake-bishops-council-in-welfare-services
   speaker: L. Tom Perry
   title: The Role of the Stake Bishops Council in Welfare Services
   url: https://www.lds.org/general-conference/1977/04/the-role-of-the-stake-bishops-council-in-welfare-services?lang=eng
   year: 1977
-- article_id: 03083_000_041
-  item: 038
+- item: 39
   key: 038-a-call-to-action
   month: 4
-  session_id: welfare
   session_title: Welfare Services Session
   slug: a-call-to-action
   speaker: Barbara B. Smith
   title: A Call to Action
   url: https://www.lds.org/general-conference/1977/04/a-call-to-action?lang=eng
   year: 1977
-- article_id: 03083_000_042
-  item: 039
+- item: 40
   key: 039-the-purpose-of-church-welfare-services
   month: 4
-  session_id: welfare
   session_title: Welfare Services Session
   slug: the-purpose-of-church-welfare-services
   speaker: Marion G. Romney
   title: The Purpose of Church Welfare Services
   url: https://www.lds.org/general-conference/1977/04/the-purpose-of-church-welfare-services?lang=eng
   year: 1977
-- article_id: 03083_000_043
-  item: '040'
+- item: 41
   key: 040-come-let-israel-build-zion
   month: 4
-  session_id: welfare
   session_title: Welfare Services Session
   slug: come-let-israel-build-zion
   speaker: Bruce R. McConkie
-  title: 'Come: Let Israel Build Zion'
+  title: Come:Let Israel Build Zion
   url: https://www.lds.org/general-conference/1977/04/come-let-israel-build-zion?lang=eng
   year: 1977
 month: 4

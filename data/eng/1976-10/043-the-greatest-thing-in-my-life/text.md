@@ -8,8 +8,8 @@ unto Christ.
 
 Imagine the importance of that beautiful moment, Peter choosing to be with the
 Savior in his kingdom above; and yet the Savior turned and said to Peter,
-"John my Beloved has chosen the greater thing." (See [D&amp;C
-7](https://www.lds.org/scriptures/dc-testament/dc/7.title?lang=eng).)
+"John my Beloved has chosen the greater thing." (See [D&amp;C 7](/scriptures
+/dc-testament/dc/7?lang=eng).)
 
 The greatest thing of my life has been missionary work--proselyting--and I am
 tremendously honored to be included in this historic missionary Quorum of
@@ -36,4 +36,6 @@ Lord who has my most affectionate loyalty and obedience, as do all of these
 great Brethren who sit before us.
 
 I offer that witness, this testimony, in the name of Jesus Christ. Amen.
+
+## References
 

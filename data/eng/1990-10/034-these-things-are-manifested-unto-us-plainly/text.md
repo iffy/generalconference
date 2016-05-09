@@ -26,16 +26,15 @@ The prophet Jacob taught, "The Spirit speaketh the truth and lieth not.
 Wherefore, it speaketh of things as they really are, and of things as they
 really will be; wherefore, these things are manifested unto us plainly, for
 the salvation of our souls." ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12).)
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12).)
 
 Dear sisters, I wish to speak of "things as they really are, and of things as
-they really will be." ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12).) For many
-of us, comparing ourselves to a practically perfect Latter-day Saint woman is
-part of how things are. While some of us are motivated and encouraged by such
-imagined or real-life models, others of us are disheartened and discouraged by
-this same ideal woman--whether she is a composite of many women, or someone of
-whom we have read, or even someone we know.
+they really will be." ([Jacob 4:13](/scriptures/bofm/jacob/4.13?lang=eng#12).)
+For many of us, comparing ourselves to a practically perfect Latter-day Saint
+woman is part of how things are. While some of us are motivated and encouraged
+by such imagined or real-life models, others of us are disheartened and
+discouraged by this same ideal woman--whether she is a composite of many
+women, or someone of whom we have read, or even someone we know.
 
 As women make these comparisons, I hear such comments as: "When they talk
 about being a good mother in Relief Society, I always feel so guilty because
@@ -59,7 +58,7 @@ things as they really are--now and forever.
 
 The prophet Jacob said things as they "really are" and "really will be" are
 "manifested unto us plainly, for the salvation of our souls." ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12).)
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12).)
 
 Sisters, how are these things manifest unto us? Plainly, through the fulness
 of the gospel of Jesus Christ, through the example of our Savior's life. Only
@@ -94,17 +93,17 @@ The better news is that she is wonderful.
 
 The best news is that she's _you! _And this is who you really are!
 
-  1. -- 2.78 million of you live in 128 countries and territories across the globe from Invercargill to Edmonton, from Chicago to Singapore. 
-  2. -- 8,000 of you are single, full-time missionaries; 1,700 are serving your mission as part of a couple. 
-  3. -- You are raising 1.2 million children, and a half million young women and one-half million young men who are teenagers. 
-  4. -- You made approximately one million visits to each other doing visiting teaching in just the first five months of 1990. 
+  * 2.78 million of you live in 128 countries and territories across the globe from Invercargill to Edmonton, from Chicago to Singapore. 
+  * 8,000 of you are single, full-time missionaries; 1,700 are serving your mission as part of a couple. 
+  * You are raising 1.2 million children, and a half million young women and one-half million young men who are teenagers. 
+  * You made approximately one million visits to each other doing visiting teaching in just the first five months of 1990. 
 
 If I could have the desire of my heart for you, it would be that you feel
 valued for your own goodness. The starting point is knowing that you are a
 daughter of God. The Young Women say together each week, "We are daughters of
 our Heavenly Father who loves us, and we love him. We will stand as witnesses
 of God at all times, and in all things and in all places." (See [Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).)
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).)
 
 The Primary children sing, "I belong to The Church of Jesus Christ of Latter-
 day Saints. I know who I am. I know God's plan. I'll follow him in faith."
@@ -126,7 +125,7 @@ the water that I shall give him shall be in him a well of water springing up
 into everlasting life.
 
 "The woman saith unto him, Sir, give me this water, that I thirst not." ([John
-4:14-15](https://www.lds.org/scriptures/nt/john/4.14-15?lang=eng#13).)
+4:14-15](/scriptures/nt/john/4.14-15?lang=eng#13).)
 
 A Relief Society sister in Ghana visits a woman who thirsts for truth but
 cannot read. To give her sister the opportunity to drink deeply of gospel
@@ -183,7 +182,7 @@ Second: Bless the individual woman. I believe in you. I delight in our
 diversity as Relief Society women and the joy we find in righteous living. The
 prophet Nephi tells us: "Behold, the Lord esteemeth all flesh in one; he that
 is righteous is favored of God." ([1 Ne.
-17:35](https://www.lds.org/scriptures/bofm/1-ne/17.35?lang=eng#34).)
+17:35](/scriptures/bofm/1-ne/17.35?lang=eng#34).)
 
 Third: Develop and exercise charity. Our Relief Society motto, Charity Never
 Faileth, is worth living by. The challenge ahead is to become more active in
@@ -210,4 +209,6 @@ to you.
 
 I pray for the blessings of our Father in Heaven, who loves us, to continue to
 be with you, in every part of the world, in the name of Jesus Christ, amen.
+
+## References
 

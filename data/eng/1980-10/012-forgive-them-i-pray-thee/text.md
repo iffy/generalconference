@@ -16,22 +16,22 @@ The Lord has provided the way whereby our spiritual sicknesses can be healed.
 In the first chapter of Isaiah, verse 18, we read, "Come now, and let us
 reason together, saith the Lord: though your sins be as scarlet they shall be
 as white as snow; though they be red like crimson, they shall be as wool."
-[[Isa. 1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17)]
+[[Isa. 1:18](/scriptures/ot/isa/1.18?lang=eng#17)]
 
 And, again in the Doctrine and Covenants, "Nevertheless, he that repents and
 does the commandments of the Lord shall be forgiven" ([D&amp;C
-1:32](https://www.lds.org/scriptures/dc-testament/dc/1.32?lang=eng#31)).
+1:32](/scriptures/dc-testament/dc/1.32?lang=eng#31)).
 
 Also, "Behold, he who has repented of his sins, the same is forgiven, and I,
-the Lord, remember them no more" ([D&amp;C
-58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41)).
+the Lord, remember them no more" ([D&amp;C 58:42](/scriptures/dc-
+testament/dc/58.42?lang=eng#41)).
 
 For one to be forgiven of sin, the Lord requires that he come unto him, mourn
 over his sins, forsake the sins, be teachable, forgive others, and confess.
 
 Again, in the fifty-eighth section of the Doctrine and Covenants, we read, "By
 this ye may know if a man repenteth of his sins--behold, he will confess them
-and forsake them" ([D&amp;C 58:43](https://www.lds.org/scriptures/dc-
+and forsake them" ([D&amp;C 58:43](/scriptures/dc-
 testament/dc/58.43?lang=eng#42)).
 
 We must always be truly sincere. In _The Adventures of Huckleberry Finn,_ by
@@ -87,11 +87,11 @@ transgression, and we have lived as near Christlike lives as we know how. I
 believe we have been forgiven, but I know that confession is necessary."
 
 Then he quoted from 2 Nephi 9:41 [[2 Ne.
-9:41](https://www.lds.org/scriptures/bofm/2-ne/9.41?lang=eng#40)], which
-states, "Behold, the way for man is narrow, but it lieth in a straight course
-before him, and the keeper of the gate is the Holy One of Israel; and he
-employeth no servant there; and there is none other way save it be by the
-gate; for he cannot be deceived, for the Lord God is his name."
+9:41](/scriptures/bofm/2-ne/9.41?lang=eng#40)], which states, "Behold, the way
+for man is narrow, but it lieth in a straight course before him, and the
+keeper of the gate is the Holy One of Israel; and he employeth no servant
+there; and there is none other way save it be by the gate; for he cannot be
+deceived, for the Lord God is his name."
 
 Then he said, "I would rather confess to you now. I am not a young man, and I
 do not have a lot of years left. I want to be able to meet my Savior with
@@ -217,7 +217,7 @@ punishment which is the very least that our transgression will justify. ...
 
 "I believe that when it comes to making the rewards for our good conduct, he
 will give us the maximum that it is possible to give." (J. Reuben Clark, Jr.,
-_"As Ye Sow ... ,"_ Brigham Young University Speeches of the Year, Provo, 3 May
+_"As Ye Sow ..., "_ Brigham Young University Speeches of the Year, Provo, 3 May
 1955, p. 7.) I, too, believe this with all my heart and soul.
 
 In Exodus 32, Moses had gone up to the mountain. The children of Israel had
@@ -230,7 +230,7 @@ idolaters to be slain.
 Then, when the people had repented (and that is the key), Moses went back
 before the Lord and prayed, "Yet now, if thou wilt forgive their sin--; and if
 not, blot me, I pray thee, out of thy book which thou hast written" ([Ex.
-32:32](https://www.lds.org/scriptures/ot/ex/32.32?lang=eng#31)).
+32:32](/scriptures/ot/ex/32.32?lang=eng#31)).
 
 I have listened to possibly a thousand major transgressions; and each time
 after a truly repentant transgressor has left my office, I have either knelt
@@ -240,9 +240,9 @@ be where they aren't, for they are some of the most Christlike people I have
 ever met."
 
 Though their sins be as scarlet, they may become white as the driven snow (see
-[Isa. 1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17)), and the
-Lord has promised he would remember their sins no more (see [D&amp;C
-58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41)).
+[Isa. 1:18](/scriptures/ot/isa/1.18?lang=eng#17)), and the Lord has promised
+he would remember their sins no more (see [D&amp;C 58:42](/scriptures/dc-
+testament/dc/58.42?lang=eng#41)).
 
 Beloved, the Lord has provided every soul with a Christlike ecclesiastical
 leader who has been endowed with powers and keys from on high to be his agent
@@ -254,4 +254,6 @@ Israel.
 
 I know that he, our Savior, loves us and that he is our Redeemer, our Atoner,
 and our Savior. In the name of Jesus Christ, amen.
+
+## References
 

@@ -23,7 +23,7 @@ And the Lord said: I will send the first.
 
 "And the second was angry, and kept not his first estate; and, at that day,
 many followed after him." ([Abr.
-3:24-28](https://www.lds.org/scriptures/pgp/abr/3.24-28?lang=eng#23).)
+3:24-28](/scriptures/pgp/abr/3.24-28?lang=eng#23).)
 
 Lucifer, who was another of our elder brothers, a son of the morning, must
 have made a very attractive offer. I can imagine his saying, "Follow me and I
@@ -78,7 +78,7 @@ God:
 
 "Whom I shall see for myself, and mine eyes shall behold, and not another;
 though my reins be consumed within me." ([Job
-19:25-27](https://www.lds.org/scriptures/ot/job/19.25-27?lang=eng#24).)
+19:25-27](/scriptures/ot/job/19.25-27?lang=eng#24).)
 
 If we are to attain a degree of perfection, we too must come to that stage
 where, if the Lord desired, he could loose Satan on us with his full power,
@@ -101,13 +101,12 @@ bosom shall burn within you; therefore, you shall feel that it is right.
 "But if it be not right you shall have no such feelings, but you shall have a
 stupor of thought that shall cause you to forget the thing which is wrong;
 therefore, you cannot write that which is sacred save it be given you from
-me." ([D&amp;C 9:7-9](https://www.lds.org/scriptures/dc-
-testament/dc/9.7-9?lang=eng#6).)
+me." ([D&amp;C 9:7-9](/scriptures/dc-testament/dc/9.7-9?lang=eng#6).)
 
 The Lord has said, "Seek and you shall find. Knock and it shall be opened unto
 you. Ask and you shall receive." (See [Matt.
-7:7](https://www.lds.org/scriptures/nt/matt/7.7?lang=eng#6); [Luke
-11:9](https://www.lds.org/scriptures/nt/luke/11.9?lang=eng#8).)
+7:7](/scriptures/nt/matt/7.7?lang=eng#6); [Luke
+11:9](/scriptures/nt/luke/11.9?lang=eng#8).)
 
 It's your decision. Each individual must make his own decisions. No one can
 live someone else's life for him.
@@ -160,4 +159,6 @@ of the Lord through prayer.
 
 I pray for the blessings of the Lord upon all who seek to do his will, in the
 name of Jesus Christ. Amen.
+
+## References
 

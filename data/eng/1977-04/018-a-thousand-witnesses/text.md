@@ -59,6 +59,8 @@ principles of the gospel are true. I pledge my support to the prophet and to
 the Council of the Twelve Apostles, and to Brother Richards and the other
 presidents. I pray that it might be said of me as the apostle Paul said at the
 end of his days: "This one thing I do." ([Philip.
-3:13](https://www.lds.org/scriptures/nt/philip/3.13?lang=eng#12).) In the name
-of Jesus Christ, amen.
+3:13](/scriptures/nt/philip/3.13?lang=eng#12).) In the name of Jesus Christ,
+amen.
+
+## References
 

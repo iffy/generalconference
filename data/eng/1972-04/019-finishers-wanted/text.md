@@ -34,13 +34,12 @@ honor those who finish.
 
 The apostle Paul likened life to a great race when he declared: "Know ye not
 that they which run in a race run all, but one receiveth the prize? So run,
-that ye may obtain." ([1 Cor.
-9:24](https://www.lds.org/scriptures/nt/1-cor/9.24?lang=eng#23).)
+that ye may obtain." ([1 Cor. 9:24](/scriptures/nt/1-cor/9.24?lang=eng#23).)
 
 And before the words of Paul fell upon the ears of his listeners, the counsel
 of the preacher, even the son of David, king in Jerusalem, cautioned: "... the
 race is not to the swift, nor the battle to the strong. ..." ([Eccl.
-9:11](https://www.lds.org/scriptures/ot/eccl/9.11?lang=eng#10).)
+9:11](/scriptures/ot/eccl/9.11?lang=eng#10).)
 
 Could the son of David have been referring to his own father? Judged by any
 standards, the greatest king Israel ever had was David. Anointed by Samuel, he
@@ -49,9 +48,9 @@ was honored by the Lord.
 In the first flush of his incredible triumphs, David rode the crest of
 popularity. As he achieved fresh victories, the women greeted him with a new
 song: "... Saul hath slain his thousands, and David his ten thousands." ([1 Sam.
-18:7](https://www.lds.org/scriptures/ot/1-sam/18.7?lang=eng#6).) In adoration
-the people exclaimed: "Behold, we are thy bone and thy flesh." ([2 Sam.
-5:1](https://www.lds.org/scriptures/ot/2-sam/5.1?lang=eng#0).)
+18:7](/scriptures/ot/1-sam/18.7?lang=eng#6).) In adoration the people
+exclaimed: "Behold, we are thy bone and thy flesh." ([2 Sam.
+5:1](/scriptures/ot/2-sam/5.1?lang=eng#0).)
 
 Power he won. Peace he lost.
 
@@ -61,19 +60,17 @@ beautiful.
 
 "And David sent and inquired after the woman. And one said, Is not this
 Bathsheba, ... the wife of Uriah the Hittite?" So "David sent messengers, and
-took her. ..." ([2 Sam.
-11:3-4](https://www.lds.org/scriptures/ot/2-sam/11.3-4?lang=eng#2).)
+took her. ..." ([2 Sam. 11:3-4](/scriptures/ot/2-sam/11.3-4?lang=eng#2).)
 
 The gross sin of adultery was followed by yet another: "... Set ye Uriah in the
 forefront of the hottest battle, and retire ye from him, that he may be
-smitten, and die." ([2 Sam.
-11:15](https://www.lds.org/scriptures/ot/2-sam/11.15?lang=eng#14).) Lust and
-power had triumphed.
+smitten, and die." ([2 Sam. 11:15](/scriptures/ot/2-sam/11.15?lang=eng#14).)
+Lust and power had triumphed.
 
 David's rebuke came from the Lord God of Israel: "... thou hast killed Uriah the
 Hittite with the sword, and hast taken his wife to be thy wife. ... Now
 therefore the sword shall never depart from thine house. ..." ([2 Sam.
-12:9-10](https://www.lds.org/scriptures/ot/2-sam/12.9-10?lang=eng#8).)
+12:9-10](/scriptures/ot/2-sam/12.9-10?lang=eng#8).)
 
 David commenced well the race, then faltered and failed to finish his course.
 
@@ -94,7 +91,7 @@ give to the poor, ... and come and follow me.
 
 "But when the young man heard that saying, he went away sorrowful: for he had
 great possessions." ([Matt. 19:16-18,
-20-22](https://www.lds.org/scriptures/nt/matt/19.16-18%2C20-22?lang=eng#15).)
+20-22](/scriptures/nt/matt/19.16-18,20-22?lang=eng#15).)
 
 He preferred the comforts of earth to the treasures of heaven. He would not
 purchase the things of eternity by abandoning those of time. He faltered. He
@@ -104,8 +101,7 @@ So it was with Judas Iscariot. He commenced his ministry as an apostle of the
 Lord. He ended it a traitor. For thirty paltry pieces of silver, he sold his
 soul. At last, realizing the enormity of his sin, Judas, to his patrons and
 tempters of his crime, shrieked: "I have sinned in that I have betrayed the
-innocent blood." ([Matt.
-27:4](https://www.lds.org/scriptures/nt/matt/27.4?lang=eng#3).)
+innocent blood." ([Matt. 27:4](/scriptures/nt/matt/27.4?lang=eng#3).)
 
 Remorse had led to despair, despair to madness, and madness to suicide. He had
 succeeded in betraying the Christ. He had failed to finish the apostolic
@@ -135,9 +131,8 @@ prosperous in his fortune, Job was to face a test that would tempt any man.
 Shorn of his possessions, scorned by his friends, afflicted by his suffering,
 even tempted by his wife, Job was to declare from the depths of his noble
 soul: "... behold, my witness is in heaven, and my record is on high." ([Job
-16:19](https://www.lds.org/scriptures/ot/job/16.19?lang=eng#18).) "... I know
-that my redeemer liveth. ..." ([Job
-19:25](https://www.lds.org/scriptures/ot/job/19.25?lang=eng#24).)
+16:19](/scriptures/ot/job/16.19?lang=eng#18).) "... I know that my redeemer
+liveth. ..." ([Job 19:25](/scriptures/ot/job/19.25?lang=eng#24).)
 
 Job did not falter. Job became a finisher.
 
@@ -150,12 +145,11 @@ of one who nobly made the transition from sinner to saint. Though
 disappointment, heartache, and trial were to beset him, yet Paul, at the
 conclusion of his ministry, could say: "I have fought a good fight, I have
 finished my course, I have kept the faith." ([2 Tim.
-4:7](https://www.lds.org/scriptures/nt/2-tim/4.7?lang=eng#6).) Like Job, Paul
-was a finisher.
+4:7](/scriptures/nt/2-tim/4.7?lang=eng#6).) Like Job, Paul was a finisher.
 
 He admonished us to "lay aside ... sin" and to "run with patience the race. ...
 Looking [for an example] unto Jesus the author and finisher of our faith. ..."
-([Heb. 12:1-2](https://www.lds.org/scriptures/nt/heb/12.1-2?lang=eng#0).)
+([Heb. 12:1-2](/scriptures/nt/heb/12.1-2?lang=eng#0).)
 
 Though Jesus was tempted by the evil one, yet he resisted. Though he was
 hated, yet he loved. Though he was betrayed, yet he triumphed. Not in a cloud
@@ -165,9 +159,8 @@ depicted in the simplicity of his words.
 
 To his Father he prayed, "... the hour is come. ... I have glorified thee on the
 earth: I have finished the work which thou gavest me to do." ([John 17:1,
-4](https://www.lds.org/scriptures/nt/john/17.1%2C4?lang=eng#0).) "... into thy
-hands I commend my spirit. ..." ([Luke
-23:46](https://www.lds.org/scriptures/nt/luke/23.46?lang=eng#45).)
+4](/scriptures/nt/john/17.1,4?lang=eng#0).) "... into thy hands I commend my
+spirit. ..." ([Luke 23:46](/scriptures/nt/luke/23.46?lang=eng#45).)
 
 Mortality ended. Immortality began.
 
@@ -208,14 +201,13 @@ Will come life's victories after a while."
 3\. _The Mark of Faith. _Long years ago the psalmist wrote: "It is better to
 trust in the Lord than to put confidence in man: It is better to trust in the
 Lord than to put confidence in princes." ([Ps.
-118:8-9](https://www.lds.org/scriptures/ot/ps/118.8-9?lang=eng#7).) Recognize
-that faith and doubt cannot exist in the same mind at the same time, for one
-will dispel the other.
+118:8-9](/scriptures/ot/ps/118.8-9?lang=eng#7).) Recognize that faith and
+doubt cannot exist in the same mind at the same time, for one will dispel the
+other.
 
 4\. _The Mark of Virtue. _"... let virtue garnish thy thoughts unceasingly. ..."
-([D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44).) This counsel from the Lord will provide
-staying power in the race we run.
+([D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44).) This
+counsel from the Lord will provide staying power in the race we run.
 
 5\. _The Mark of Courage. _Courage becomes a living and attractive virtue when
 it is regarded not as a willingness to die manfully, but the determination to
@@ -246,7 +238,7 @@ flicker and burn low, communication with our Heavenly Father provides peace.
 These, the marks of a true finisher, will be as a lamp to our feet in the
 journey through life. Ever beckoning us onward and lifting us upward is he who
 pleaded, "... come, follow me." ([Luke
-18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).)
+18:22](/scriptures/nt/luke/18.22?lang=eng#21).)
 
 Frequently his help comes silently--on occasion with dramatic impact. Such was
 my experience of some years ago when, as a mission president, I was afforded
@@ -294,5 +286,5 @@ of Jesus Christ. Amen.
 
 ## References
 
-  1.  Joe Darion, "The Impossible Dream," Sam Fox, Publisher, New York, 1965.
+  1. Joe Darion, "The Impossible Dream," Sam Fox, Publisher, New York, 1965.
 

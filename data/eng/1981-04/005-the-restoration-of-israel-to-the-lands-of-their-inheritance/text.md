@@ -38,7 +38,7 @@ covenants which he made to their fathers.
 "Yea, then will he remember the isles of the sea; yea, and all the people who
 are of the house of Israel, will I gather in, saith the Lord, according to the
 words of the prophet Zenos, from the four quarters of the earth." ([1 Ne.
-19:13-16](https://www.lds.org/scriptures/bofm/1-ne/19.13-16?lang=eng#12).)
+19:13-16](/scriptures/bofm/1-ne/19.13-16?lang=eng#12).)
 
 Nephi had earlier--before they crossed the ocean--spoken unto his brothers
 "concerning the restoration of the Jews in the latter days.
@@ -47,7 +47,7 @@ Nephi had earlier--before they crossed the ocean--spoken unto his brothers
 concerning the restoration of the Jews, or of the house of Israel; and after
 they were restored they should no more be confounded, neither should they be
 scattered again." ([1 Ne.
-15:19-20](https://www.lds.org/scriptures/bofm/1-ne/15.19-20?lang=eng#18).)
+15:19-20](/scriptures/bofm/1-ne/15.19-20?lang=eng#18).)
 
 Some twenty-five years later, Nephi's brother Jacob, speaking concerning the
 inhabitants of Jerusalem, said "that the Lord ... should manifest himself unto
@@ -64,7 +64,7 @@ of the prayers of the faithful; they shall be scattered, and smitten, and
 hated; nevertheless, the Lord will be merciful unto them, that when they shall
 come to the knowledge of their Redeemer, they shall be gathered together again
 to the lands of their inheritance." ([2 Ne.
-6:9-11](https://www.lds.org/scriptures/bofm/2-ne/6.9-11?lang=eng#8).)
+6:9-11](/scriptures/bofm/2-ne/6.9-11?lang=eng#8).)
 
 Later Jacob, the brother of Nephi, added:
 
@@ -77,7 +77,7 @@ from the beginning down, from generation to generation, until the time comes
 that they shall be restored to the true church and fold of God; when they
 shall be gathered home to the lands of their inheritance, and shall be
 established in all their lands of promise." ([2 Ne.
-9:1-2](https://www.lds.org/scriptures/bofm/2-ne/9.1-2?lang=eng#0).)
+9:1-2](/scriptures/bofm/2-ne/9.1-2?lang=eng#0).)
 
 "But behold, thus saith the Lord God: When the day cometh that they shall
 believe in me, that I am Christ, then have I covenanted with their fathers
@@ -88,7 +88,7 @@ their inheritance.
 dispersion, from the isles of the sea, and from the four parts of the earth;
 and the nations of the Gentiles shall be great in the eyes of me, saith God,
 in carrying them forth to the lands of their inheritance." ([2 Ne.
-10:7-8](https://www.lds.org/scriptures/bofm/2-ne/10.7-8?lang=eng#6).)
+10:7-8](/scriptures/bofm/2-ne/10.7-8?lang=eng#6).)
 
 Near the end of his life, Nephi, foretelling the future history of the Jews,
 said that, following the crucifixion and resurrection of Jesus, "the Jews
@@ -107,7 +107,7 @@ be expedient that they should believe these things.
 
 "And the Lord will set his hand again the second time to restore his people
 from their lost and fallen state." ([2 Ne.
-25:15-17](https://www.lds.org/scriptures/bofm/2-ne/25.15-17?lang=eng#14).)
+25:15-17](/scriptures/bofm/2-ne/25.15-17?lang=eng#14).)
 
 In the twentieth chapter of 3 Nephi, the resurrected Jesus--speaking of our
 day when the gospel would be restored among the Gentiles as it has now been--
@@ -140,8 +140,7 @@ Jerusalem. ...
 the Father hath commanded me. Then shall this covenant which the Father hath
 covenanted with his people be fulfilled; and then shall Jerusalem be inhabited
 again with my people, and it shall be the land of their inheritance." ([3 Ne.
-20:28-34,
-46](https://www.lds.org/scriptures/bofm/3-ne/20.28-34%2C46?lang=eng#27).)
+20:28-34, 46](/scriptures/bofm/3-ne/20.28-34,46?lang=eng#27).)
 
 "Verily I say unto you," said the Savior to the Nephites, "I give unto you a
 sign, that ye may know the time when these things shall be about to take
@@ -159,7 +158,7 @@ on the Father in my name.
 "Yea, and then shall the work commence, with the Father, among all nations, in
 preparing the way whereby his people may be gathered home to the land of their
 inheritance." ([3 Ne. 21:1,
-26-28](https://www.lds.org/scriptures/bofm/3-ne/21.1%2C26-28?lang=eng#0).)
+26-28](/scriptures/bofm/3-ne/21.1,26-28?lang=eng#0).)
 
 Mormon, finishing his abridged account of Christ's ministry among the
 Nephites, said:
@@ -182,7 +181,7 @@ unto his people of the house of Israel. ...
 nor any of the remnant of the house of Israel; for behold, the Lord
 remembereth his covenant unto them, and he will do unto them according to that
 which he hath sworn." ([3 Ne. 29:1-3,
-8](https://www.lds.org/scriptures/bofm/3-ne/29.1-3%2C8?lang=eng#0).)
+8](/scriptures/bofm/3-ne/29.1-3,8?lang=eng#0).)
 
 Concluding the record which Moroni would deposit in the Hill Cumorah, which
 Joseph Smith would bring forth 1,400 years later, Mormon wrote:
@@ -197,10 +196,12 @@ Son of the living God; that the Father may bring about, through his most
 Beloved, his great and eternal purpose, in restoring the Jews, or all the
 house of Israel, to the land of their inheritance, which the Lord their God
 hath given them, unto the fulfilling of his covenant." ([Morm. 5:12,
-14](https://www.lds.org/scriptures/bofm/morm/5.12%2C14?lang=eng#11).)
+14](/scriptures/bofm/morm/5.12,14?lang=eng#11).)
 
 These predictions by the Book of Mormon prophets make it perfectly clear that
 the restoration of the house of Israel to the lands of their inheritance will
 signal their acceptance of Jesus Christ as their Redeemer, to which I testify,
 in the name of Jesus Christ, amen.
+
+## References
 

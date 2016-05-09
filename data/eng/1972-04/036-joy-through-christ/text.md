@@ -40,7 +40,7 @@ Hundreds of years before Christ, God confronted the willful ignorance of
 Israel in these words: "My people are destroyed for lack of knowledge: because
 thou hast rejected knowledge, I will also reject thee ... seeing thou hast
 forgotten the law of thy God. ..." ([Hosea
-4:6](https://www.lds.org/scriptures/ot/hosea/4.6?lang=eng#5).)
+4:6](/scriptures/ot/hosea/4.6?lang=eng#5).)
 
 The knowledge for lack of which they suffered is plainly explained by Hosea:
 
@@ -48,9 +48,8 @@ The knowledge for lack of which they suffered is plainly explained by Hosea:
 is no truth, nor mercy, nor knowledge of God in the land.
 
 "For I desired mercy, and not sacrifice; and the knowledge of God more than
-burnt offerings." ([Hosea
-4:1](https://www.lds.org/scriptures/ot/hosea/4.1?lang=eng#0); [Hosea
-6:6](https://www.lds.org/scriptures/ot/hosea/6.6?lang=eng#5).)
+burnt offerings." ([Hosea 4:1](/scriptures/ot/hosea/4.1?lang=eng#0); [Hosea
+6:6](/scriptures/ot/hosea/6.6?lang=eng#5).)
 
 In a poem of pessimism which he wrote soon after World War I, Yeats described
 the widening circle--the gyre--in which the falcon flew away from the
@@ -80,7 +79,7 @@ It is well to consider where we are with respect to our Creator. If we are out
 of touch, if we have moved away from him, then we are not as happy as we could
 be. Something is missing. Epictetus said: "God hath made all men to be happy."
 And a prophet wrote: "... men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 Wherein have we erred if we are not happy? Why are we less happy than we could
 be? How can we have more joy?
@@ -112,8 +111,7 @@ to learn our need for him, to open the door to him.
 
 "And therefore," said the prophet, "will the Lord wait, that he may be
 gracious unto you, and therefore will he be exalted, that he may have mercy
-upon you. ..." ([Isa.
-30:18](https://www.lds.org/scriptures/ot/isa/30.18?lang=eng#17).)
+upon you. ..." ([Isa. 30:18](/scriptures/ot/isa/30.18?lang=eng#17).)
 
 2\. For some of us, a reason for unhappiness is that "the world is too much
 with us; late and soon, /Getting and spending, we lay waste our powers," as
@@ -129,7 +127,7 @@ is much too high.
 "For my people have committed two evils," said the Lord to Israel; "they have
 forsaken me the fountain of living waters, and hewed them out cisterns, broken
 cisterns, that can hold no water." ([Jer.
-2:13](https://www.lds.org/scriptures/ot/jer/2.13?lang=eng#12).)
+2:13](/scriptures/ot/jer/2.13?lang=eng#12).)
 
 The substitutions we fashion to take the place of God in our lives truly hold
 no water. To the measure we thus refuse the "living water," we miss the joy we
@@ -150,7 +148,7 @@ have me excused.
 pray thee have me excused.
 
 "And another said, I have married a wife, and therefore I cannot come." ([Luke
-14:16-20](https://www.lds.org/scriptures/nt/luke/14.16-20?lang=eng#15).)
+14:16-20](/scriptures/nt/luke/14.16-20?lang=eng#15).)
 
 Other guests were invited to take their places at the supper.
 
@@ -165,7 +163,7 @@ To recreant Israel God said, "... this is a rebellious people, lying children,
 children that will not hear the law of the Lord: Which say to the seers, See
 not; and to the prophets, Prophesy not unto us right things, speak unto us
 smooth things, prophesy deceits." ([Isa.
-30:9-10](https://www.lds.org/scriptures/ot/isa/30.9-10?lang=eng#8).)
+30:9-10](/scriptures/ot/isa/30.9-10?lang=eng#8).)
 
 From the prophet Jacob in the Book of Mormon comes this sobering warning, well
 known to students in the Church:
@@ -177,7 +175,7 @@ they know of themselves, wherefore, their wisdom is foolishness and it
 profiteth them not. And they shall perish.
 
 "But to be learned is good if they hearken unto the counsels of God." ([2 Ne.
-9:28-29](https://www.lds.org/scriptures/bofm/2-ne/9.28-29?lang=eng#27).)
+9:28-29](/scriptures/bofm/2-ne/9.28-29?lang=eng#27).)
 
 This morning President Lee quoted Paul to the Corinthians--Paul, the brilliant
 author who wrote the letters which constitute the major part of the New
@@ -191,21 +189,19 @@ and he did, so he said:
 "... in demonstration of the Spirit and of power:
 
 "That your faith should not stand in the wisdom of men, but in the power of
-God." ([1 Cor.
-2:3-5](https://www.lds.org/scriptures/nt/1-cor/2.3-5?lang=eng#2).)
+God." ([1 Cor. 2:3-5](/scriptures/nt/1-cor/2.3-5?lang=eng#2).)
 
 It is not enough, is it, to know the scriptures about prayer or the motions of
 prayer or the words of prayer. The man who will not humble himself--really
 humble himself--before the Lord "receiveth not the things of the Spirit of
 God," wrote Paul, "for they are foolishness unto him: neither can he know
 them, because they are spiritually discerned." ([1 Cor.
-2:14](https://www.lds.org/scriptures/nt/1-cor/2.14?lang=eng#13).)
+2:14](/scriptures/nt/1-cor/2.14?lang=eng#13).)
 
 The truths of eternal life, a prophet has written, "are only to be seen and
 understood by the power of the Holy Spirit, which God bestows on those who
 love him, and purify themselves before him; To whom he grants this privilege
-of seeing and knowing for themselves." ([D&amp;C
-76:116-17](https://www.lds.org/scriptures/dc-
+of seeing and knowing for themselves." ([D&amp;C 76:116-17](/scriptures/dc-
 testament/dc/76.116-17?lang=eng#115).)
 
 4\. There are those who have lost faith because of personal tragedies or
@@ -215,8 +211,8 @@ to endure their trials. There is, of course, in the promises of God no warrant
 that we will avoid the very experiences which we came here to undergo and
 through which we can learn reliance on the Lord. Jesus said, "In the world ye
 shall have tribulation: but be of good cheer; I have overcome the world."
-([John 16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).) He
-had tribulation, and he overcame. And so may we, with his help.
+([John 16:33](/scriptures/nt/john/16.33?lang=eng#32).) He had tribulation, and
+he overcame. And so may we, with his help.
 
 Some years ago I became acquainted with the story of a young family whose
 little son was tragically ill with cancer. Every night the father sat with his
@@ -261,8 +257,7 @@ We are all like Paul--sometimes tortured by an inability to do consistently
 and faithfully that which we know we should do. You remember, "... to will is
 present with me," he said; "but how to perform that which is good I find not.
 For the good that I would I do not: but the evil which I would not, that I
-do." ([Rom.
-7:18-19](https://www.lds.org/scriptures/nt/rom/7.18-19?lang=eng#17).)
+do." ([Rom. 7:18-19](/scriptures/nt/rom/7.18-19?lang=eng#17).)
 
 But Paul knew Jesus. He knew him as the Lord, and he accepted his pardon, gave
 him his life, and died for him.
@@ -278,7 +273,7 @@ of my flesh; my soul grieveth because of mine iniquities.
 easily beset me.
 
 "And when I desire to rejoice, my heart groaneth because of my sins. ..." ([2
-Ne. 4:17-19](https://www.lds.org/scriptures/bofm/2-ne/4.17-19?lang=eng#16).)
+Ne. 4:17-19](/scriptures/bofm/2-ne/4.17-19?lang=eng#16).)
 
 And then he cried out to the Lord for help:
 
@@ -286,7 +281,7 @@ And then he cried out to the Lord for help:
 
 "O Lord, I have trusted in thee, and I will trust in thee forever. I will not
 put my trust in the arm of flesh. ..." ([2 Ne. 4:31,
-34](https://www.lds.org/scriptures/bofm/2-ne/4.31%2C34?lang=eng#30).)
+34](/scriptures/bofm/2-ne/4.31,34?lang=eng#30).)
 
 And Nephi gave his life to the Lord.
 
@@ -298,7 +293,7 @@ the responsibilities of being truly Christian, we will be happy,
 notwithstanding problems or troubles.
 
 Said the apostle John, "If ye know these things, happy are ye if ye do them."
-([John 13:17](https://www.lds.org/scriptures/nt/john/13.17?lang=eng#16).)
+([John 13:17](/scriptures/nt/john/13.17?lang=eng#16).)
 
 There is no lasting joy in possessions. There is no peace here or hereafter in
 pride. There _is _comfort and understanding in the loving arms of him whose
@@ -323,7 +318,7 @@ fullness of His eternity He needs you?"
 
 Said the Lord to ancient Israel: "... if ye will obey my voice indeed, and keep
 my covenant, then ye shall be a peculiar treasure unto me ... for all the earth
-is mine." ([Ex. 19:5](https://www.lds.org/scriptures/ot/ex/19.5?lang=eng#4).)
+is mine." ([Ex. 19:5](/scriptures/ot/ex/19.5?lang=eng#4).)
 
 "World, O world, of muddled men,
 
@@ -358,4 +353,6 @@ Take God by the hand again."
 I know that God lives. I know that Jesus is the Christ. I pray for all of us
 that we may have the joy that comes in that knowledge, in the name of Jesus
 Christ. Amen.
+
+## References
 

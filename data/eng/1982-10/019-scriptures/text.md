@@ -9,8 +9,7 @@ thee one stick, and write upon it, For Judah, and for the children of Israel
 his companions: then take another stick, and write upon it, for Joseph, the
 stick of Ephraim, and for all the house of Israel his companions: And join
 them one to another into one stick; and they shall become one in thine hand."
-([Ezek.
-37:15-17](https://www.lds.org/scriptures/ot/ezek/37.15-17?lang=eng#14).)
+([Ezek. 37:15-17](/scriptures/ot/ezek/37.15-17?lang=eng#14).)
 
 The sticks, of course, are records or books. In ancient Israel records were
 written upon tablets of wood or scrolls rolled upon sticks. The record of
@@ -188,7 +187,7 @@ the philosophies of men. We, on the other hand, have been struggling upstream
 against the same current. We are determined to reach the headwaters of divine
 communication and revelation, to have it, as the Doctrine and Covenants
 demands, "that every man might speak in the name of God the Lord, even the
-Savior of the world." ([D&amp;C 1:20](https://www.lds.org/scriptures/dc-
+Savior of the world." ([D&amp;C 1:20](/scriptures/dc-
 testament/dc/1.20?lang=eng#19).)
 
 There are Church watchers, in and out of the Church, who show great interest
@@ -230,7 +229,7 @@ grow together, unto the confounding of false doctrines and laying down of
 contentions, and establishing peace among the fruit of thy loins, and bringing
 them to the knowledge of their fathers in the latter days, and also to the
 knowledge of my covenants, saith the Lord." ([2 Ne.
-3:12](https://www.lds.org/scriptures/bofm/2-ne/3.12?lang=eng#11).)
+3:12](/scriptures/bofm/2-ne/3.12?lang=eng#11).)
 
 One footnote may seem a flimsy thread to tie the two together, but five of the
 ten footnotes lead us to headings in the Topical Guide where 611 other
@@ -252,4 +251,6 @@ He is no stranger to His Saints, to His prophets and Apostles now.
 
 He lives. He is our Savior, our Redeemer, our Lord. Of Him I bear an apostolic
 witness, in the name of Jesus Christ, amen.
+
+## References
 

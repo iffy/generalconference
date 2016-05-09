@@ -5,7 +5,7 @@ people should do. In the case of John Whitmer, the Lord said, "And now,
 behold, I say unto you, that the thing which will be of the most worth unto
 you will be to declare repentance unto this people, that you may bring souls
 unto me, that you may rest with them in the kingdom of my Father" ([D&amp;C
-15:6](https://www.lds.org/scriptures/dc-testament/dc/15.6?lang=eng#5)).
+15:6](/scriptures/dc-testament/dc/15.6?lang=eng#5)).
 
 Jesus repeatedly called upon his disciples to preach the gospel to every
 living soul. Those who would believe were to be baptized in his name and enter
@@ -23,13 +23,13 @@ fishers.
 
 "And Jesus went about all Galilee, teaching in their synagogues, and preaching
 the gospel of the kingdom" ([Matt. 4:17-20,
-23](https://www.lds.org/scriptures/nt/matt/4.17-20%2C23?lang=eng#16)).
+23](/scriptures/nt/matt/4.17-20,23?lang=eng#16)).
 
 With loving patience, Jesus taught his disciples, and especially his twelve
 Apostles, to "preach the kingdom of God" ([Luke
-9:2](https://www.lds.org/scriptures/nt/luke/9.2?lang=eng#1)). After the three
-years of his ministry, crowned by the Atonement, which included his glorious
-resurrection, Jesus gathered his eleven disciples in Galilee.
+9:2](/scriptures/nt/luke/9.2?lang=eng#1)). After the three years of his
+ministry, crowned by the Atonement, which included his glorious resurrection,
+Jesus gathered his eleven disciples in Galilee.
 
 "And Jesus came and spake unto them, saying, All power is given unto me in
 heaven and in earth.
@@ -39,7 +39,7 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world" ([Matt.
-28:18-20](https://www.lds.org/scriptures/nt/matt/28.18-20?lang=eng#17)).
+28:18-20](/scriptures/nt/matt/28.18-20?lang=eng#17)).
 
 These instructions were clear. When Peter, the chief Apostle, finally
 understood them, he became a powerful leader. For example, on the day of
@@ -59,8 +59,8 @@ name of Jesus Christ for the remission of sins, and ye shall receive the gift
 of the Holy Ghost. ...
 
 "Then they that gladly received his word were baptized: and the same day there
-were added unto them about three thousand souls" ([Acts 2:14, 32, 36-38, 41](h
-ttps://www.lds.org/scriptures/nt/acts/2.14%2C32%2C36-38%2C41?lang=eng#13)).
+were added unto them about three thousand souls" ([Acts 2:14, 32, 36-38,
+41](/scriptures/nt/acts/2.14,32,36-38,41?lang=eng#13)).
 
 When Jesus visited this continent, Nephi went forth and bowed himself before
 the Lord.
@@ -73,11 +73,10 @@ people when I am again ascended into heaven.
 
 "And again the Lord called others, and said unto them likewise; and he gave
 unto them power to baptize" ([3 Ne.
-11:20-22](https://www.lds.org/scriptures/bofm/3-ne/11.20-22?lang=eng#19)).
+11:20-22](/scriptures/bofm/3-ne/11.20-22?lang=eng#19)).
 
 To every people through all ages his message remains the same: "Preach the
-kingdom of God" ([Luke
-9:2](https://www.lds.org/scriptures/nt/luke/9.2?lang=eng#1)).
+kingdom of God" ([Luke 9:2](/scriptures/nt/luke/9.2?lang=eng#1)).
 
 The First Presidency has said that one of the threefold missions of the Church
 is to proclaim the gospel. If we accept this mission, we should be willing to
@@ -227,8 +226,7 @@ that receiveth the word by the Spirit of truth receiveth it as it is preached
 by the Spirit of truth. ...
 
 "Wherefore, he that preacheth and he that receiveth, understand one another,
-and both are edified and rejoice together" ([D&amp;C
-50:21-22](https://www.lds.org/scriptures/dc-
+and both are edified and rejoice together" ([D&amp;C 50:21-22](/scriptures/dc-
 testament/dc/50.21-22?lang=eng#20)).
 
 The key to success in bringing souls unto Christ is to act at a time when you
@@ -274,4 +272,6 @@ Church can do much more in the future to build the kingdom of God.
 
 May the Lord bless us all with increased faith to move his work forward, I
 humbly pray in the name of Jesus Christ, amen.
+
+## References
 

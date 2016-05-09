@@ -81,7 +81,7 @@ He had heard of Joseph the prisoner's reputation for interpreting dreams.
 Catch Joseph's reply to Pharaoh's request for an answer to his dream, Joseph's
 first recorded words after emerging from the dungeon: "It is not in me: God
 shall give Pharaoh an answer of peace," said Joseph. ([Gen.
-41:16](https://www.lds.org/scriptures/ot/gen/41.16?lang=eng#15).)
+41:16](/scriptures/ot/gen/41.16?lang=eng#15).)
 
 Joseph had kept the faith--faith in his Heavenly Father. He had remained free
 as a slave and as a prisoner because he had kept close to the Lord. Yet there
@@ -100,7 +100,7 @@ shepherd boy's words as he faced the giant in the Valley of Elah, after
 Goliath had roared out his ridicule.
 
 David replied, "This day will the Lord deliver thee into mine hand. ..." ([1
-Sam. 17:46](https://www.lds.org/scriptures/ot/1-sam/17.46?lang=eng#45).)
+Sam. 17:46](/scriptures/ot/1-sam/17.46?lang=eng#45).)
 
 Owen and Kay, you are going to face some Goliaths ahead--big challenges. Don't
 fear them. Meet them. Move into them, knowing that the Lord is with you, if
@@ -125,8 +125,9 @@ But walk with a toughness in righteousness.
 If you do, Owen and Kay, I promise you as your father and as the presiding
 priesthood bearer in our home that you will know the meaning of that blessing
 of a father of old to his son, when Lehi spoke to Jacob: "... men are, that they
-might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+might have joy." ([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 I give you this witness, in the name of Jesus Christ. Amen.
+
+## References
 

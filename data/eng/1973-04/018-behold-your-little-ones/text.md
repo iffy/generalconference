@@ -22,8 +22,8 @@ children, one by one, and blessed them, and prayed unto the Father for them.
 "And when he had done this he wept again;
 
 "And he spake unto the multitude, and said unto them: Behold your little
-ones." ([3 Ne. 17:16-17, 21-23](https://www.lds.org/scriptures/bofm/3-ne/17.16
--17%2C21-23?lang=eng#15).)
+ones." ([3 Ne. 17:16-17,
+21-23](/scriptures/bofm/3-ne/17.16-17,21-23?lang=eng#15).)
 
 I confess, I am not ashamed to confess, that little children get inside of me
 very easily. We have a little fellow at home not quite four. All he has to say
@@ -31,10 +31,10 @@ to turn lights on in me is one word, "Dad." I am indebted to him for some of
 the help with this assignment today.
 
 "... children are an heritage of the Lord" ([Ps.
-127:3](https://www.lds.org/scriptures/ot/ps/127.3?lang=eng#2)), and I desire
-today to talk to little children. Many of them are here in the choir. Others,
-a great number of them, are listening in. I think the grown-ups won't mind if
-I don't talk to them.
+127:3](/scriptures/ot/ps/127.3?lang=eng#2)), and I desire today to talk to
+little children. Many of them are here in the choir. Others, a great number of
+them, are listening in. I think the grown-ups won't mind if I don't talk to
+them.
 
 There is something very important that I want to say to you children.
 Something I hope you'll always remember. Something you should learn when you
@@ -156,13 +156,13 @@ spiritual truths. For the prophet said:
 "... he imparteth his word by angels unto men, yea, not only men but women also.
 Now this is not all; little children do have words given unto them many times
 which confound the wise and the learned." ([Alma
-32:23](https://www.lds.org/scriptures/bofm/alma/32.23?lang=eng#22).)
+32:23](/scriptures/bofm/alma/32.23?lang=eng#22).)
 
 In the scriptures we learn that our spirits must be clean, in order to return
 to the presence of our Heavenly Father:
 
 "... there cannot any unclean thing enter into the kingdom of God. ..." ([1 Ne.
-15:34](https://www.lds.org/scriptures/bofm/1-ne/15.34?lang=eng#33).)
+15:34](/scriptures/bofm/1-ne/15.34?lang=eng#33).)
 
 Two important things must happen to us then. First, somehow we must get our
 body back after we die--that is, we want to be resurrected; and we must find a
@@ -278,4 +278,6 @@ his service. I bear witness and share with you the witness that has been given
 me, that special witness. He is the Christ! He loves us! I pray for you, our
 little ones, and plead with him to behold our little ones and to bless them,
 in the name of Jesus Christ. Amen.
+
+## References
 

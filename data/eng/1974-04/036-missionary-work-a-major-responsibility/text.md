@@ -1,4 +1,4 @@
-# Missionary Work: A Major Responsibility
+# Missionary Work:A Major Responsibility
 
 Humbly and gratefully I stand before you this glorious Sabbath day. I'm sure,
 President Kimball, that in addition to these lovely sisters of the Tabernacle
@@ -22,7 +22,7 @@ His great objective has been to help save the souls of the children of men.
 The Lord said to the Prophet Joseph Smith:
 
 "Remember the worth of souls is great in the sight of God." ([D&amp;C
-18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).)
+18:10](/scriptures/dc-testament/dc/18.10?lang=eng#9).)
 
 This is our first interest as a church--to save and exalt the souls of the
 children of men. President Lee was interested in this great project above all
@@ -114,40 +114,37 @@ From the days of Father Adam to the days of the Prophet Joseph Smith and his
 successors, whenever the priesthood has been on the earth, a major
 responsibility has been the preaching of the saving, eternal principles of the
 gospel--the plan of salvation. Father Adam taught these things to his own
-children. ([Moses
-5:12](https://www.lds.org/scriptures/pgp/moses/5.12?lang=eng#11).) Consider
+children. ([Moses 5:12](/scriptures/pgp/moses/5.12?lang=eng#11).) Consider
 Noah's long years of missionary effort and the preachings of all the ancient
-prophets. ([Moses
-8:16-20](https://www.lds.org/scriptures/pgp/moses/8.16-20?lang=eng#15).) Each
+prophets. ([Moses 8:16-20](/scriptures/pgp/moses/8.16-20?lang=eng#15).) Each
 in his day was commanded to carry the gospel message to the children of men
 and call them to repentance as the only means of escaping the pending
 judgments. The Master made crystal clear the great mission of his ancient
 apostles to "go ye therefore, and teach all nations. ..." ([Matt.
-28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18).)
+28:19](/scriptures/nt/matt/28.19?lang=eng#18).)
 
 In the early visits of the resurrected Moroni to the Prophet Joseph Smith it
 was emphasized that the Prophet's name would be known for good or evil
 throughout the world and that the new volume of scripture and the restored
 gospel, which it contained, would have to be carried to the entire world "by
 the mouths of my disciples, whom I have chosen in these last days." ([D&amp;C
-1:4](https://www.lds.org/scriptures/dc-testament/dc/1.4?lang=eng#3).)
+1:4](/scriptures/dc-testament/dc/1.4?lang=eng#3).)
 
 More than a year before the Church was organized, the Lord revealed through
 the Prophet that "a marvelous work is about to come forth among the children
 of men" and that the field was "white already to harvest. ..." ([D&amp;C 4:1,
-4](https://www.lds.org/scriptures/dc-testament/dc/4.1%2C4?lang=eng#0).) The
-early converts were charged with the burden of the responsibility as follows:
-"Therefore, O ye that embark in the service of God, see that ye serve him with
-all your heart, might, mind and strength, that ye may stand blameless before
-God at the last day." ([D&amp;C 4:2](https://www.lds.org/scriptures/dc-
-testament/dc/4.2?lang=eng#1).)
+4](/scriptures/dc-testament/dc/4.1,4?lang=eng#0).) The early converts were
+charged with the burden of the responsibility as follows: "Therefore, O ye
+that embark in the service of God, see that ye serve him with all your heart,
+might, mind and strength, that ye may stand blameless before God at the last
+day." ([D&amp;C 4:2](/scriptures/dc-testament/dc/4.2?lang=eng#1).)
 
 Great promises were made to these early missionaries. They were told that "the
 worth of souls is great in the sight of God," and that if they "should labor
 all your days in crying repentance unto this people, and bring, save it be one
 soul unto me, how great shall be your joy with him in the kingdom of my
-Father!" ([D&amp;C 18:10, 15](https://www.lds.org/scriptures/dc-
-testament/dc/18.10%2C15?lang=eng#9).)
+Father!" ([D&amp;C 18:10, 15](/scriptures/dc-
+testament/dc/18.10,15?lang=eng#9).)
 
 All these and many other glorious promises were made even before the Church
 was formally organized on April 6, 1830.
@@ -166,18 +163,16 @@ generation.
 
 "For behold, the field is white already to harvest; and it is the eleventh
 hour, and the last time that I shall call laborers into my vineyard."
-([D&amp;C 33:2-3](https://www.lds.org/scriptures/dc-
-testament/dc/33.2-3?lang=eng#1).)
+([D&amp;C 33:2-3](/scriptures/dc-testament/dc/33.2-3?lang=eng#1).)
 
 The Lord made it plain to these humble ambassadors that they were "preparing
-the way of the Lord for his second coming." ([D&amp;C
-34:6](https://www.lds.org/scriptures/dc-testament/dc/34.6?lang=eng#5).) They
-were promised that their words would be prompted by the power of the Holy
-Ghost and would be the will of the Lord and scripture unto the people,
-inasmuch as they were faithful. They were told in no uncertain terms that they
-were being sent "out to prove the world," that they should "not be weary in
-mind, neither darkened," and a hair of their head should "not fall to the
-ground unnoticed." ([D&amp;C 84:79-80](https://www.lds.org/scriptures/dc-
+the way of the Lord for his second coming." ([D&amp;C 34:6](/scriptures/dc-
+testament/dc/34.6?lang=eng#5).) They were promised that their words would be
+prompted by the power of the Holy Ghost and would be the will of the Lord and
+scripture unto the people, inasmuch as they were faithful. They were told in
+no uncertain terms that they were being sent "out to prove the world," that
+they should "not be weary in mind, neither darkened," and a hair of their head
+should "not fall to the ground unnoticed." ([D&amp;C 84:79-80](/scriptures/dc-
 testament/dc/84.79-80?lang=eng#78).)
 
 Is it any wonder, then, that with their personal testimonies that a new
@@ -198,8 +193,8 @@ utterly destroyed by the brightness of my coming.
 
 "Behold, I tell you these things, even as I also told the people of the
 destruction of Jerusalem; and my word shall be verified at this time as it
-hath hitherto been verified." ([D&amp;C
-5:19-20](https://www.lds.org/scriptures/dc-testament/dc/5.19-20?lang=eng#18).)
+hath hitherto been verified." ([D&amp;C 5:19-20](/scriptures/dc-
+testament/dc/5.19-20?lang=eng#18).)
 
 The time came, in late 1831, to consider the publication of the revelations
 that the Lord had given to his church. By this time many revelations had been
@@ -207,49 +202,45 @@ received and the Church had shown considerable growth in spite of persecution
 and drivings from the powers of evil. At the conference of elders the Lord
 revealed through the Prophet Joseph a great revelation addressed to the people
 of his church and "unto all men, and there is none to escape. ..." ([D&amp;C
-1:2](https://www.lds.org/scriptures/dc-testament/dc/1.2?lang=eng#1).) No
-message heretofore given set forth in such clarity and power the worldwide
-nature of the message of the restored gospel. If there had been any question
-before, this left no room for doubt. Our message is a world message.
+1:2](/scriptures/dc-testament/dc/1.2?lang=eng#1).) No message heretofore given
+set forth in such clarity and power the worldwide nature of the message of the
+restored gospel. If there had been any question before, this left no room for
+doubt. Our message is a world message.
 
 No person can read Section One of the Doctrine and Covenants, realizing that
 the Church accepts it as the word of the Lord, and ask why we send
 missionaries into all parts of the world. The responsibility, and a major one
 it is, falls squarely upon the membership of the Church, for "the voice of
 warning," says the Lord, "shall be unto _all people,_ by the mouths of _my_
-disciples, whom I have chosen in these last days." ([D&amp;C
-1:4](https://www.lds.org/scriptures/dc-testament/dc/1.4?lang=eng#3). Italics
-added.) Then the Lord adds this great promise: "And they shall go forth and
-none shall stay them, for I the Lord have commanded them." ([D&amp;C
-1:5](https://www.lds.org/scriptures/dc-testament/dc/1.5?lang=eng#4).) The
-revelation further states that all these things he has given unto his
-disciple-missionaries "to publish unto you, O inhabitants of the earth."
-([D&amp;C 1:6](https://www.lds.org/scriptures/dc-
+disciples, whom I have chosen in these last days." ([D&amp;C 1:4](/scriptures
+/dc-testament/dc/1.4?lang=eng#3). Italics added.) Then the Lord adds this
+great promise: "And they shall go forth and none shall stay them, for I the
+Lord have commanded them." ([D&amp;C 1:5](/scriptures/dc-
+testament/dc/1.5?lang=eng#4).) The revelation further states that all these
+things he has given unto his disciple-missionaries "to publish unto you, O
+inhabitants of the earth." ([D&amp;C 1:6](/scriptures/dc-
 testament/dc/1.6?lang=eng#5).) After declaring that his voice is unto the ends
 of the earth, the Lord points out that he, "knowing the calamity which should
 come upon the inhabitants of the earth, called upon my servant Joseph Smith,
-Jun., and spake unto him from heaven. ..." ([D&amp;C
-1:17](https://www.lds.org/scriptures/dc-testament/dc/1.17?lang=eng#16).) The
-same as in all other dispensations, a means of escape, revealed through a
-prophet, is provided. Then the Lord emphasizes that he is "willing to make
-these things known unto all flesh" for he is "no respecter of persons."
-([D&amp;C 1:34-35](https://www.lds.org/scriptures/dc-
+Jun., and spake unto him from heaven. ..." ([D&amp;C 1:17](/scriptures/dc-
+testament/dc/1.17?lang=eng#16).) The same as in all other dispensations, a
+means of escape, revealed through a prophet, is provided. Then the Lord
+emphasizes that he is "willing to make these things known unto all flesh" for
+he is "no respecter of persons." ([D&amp;C 1:34-35](/scriptures/dc-
 testament/dc/1.34-35?lang=eng#33).)
 
 As a closing admonition he invites all his children to "search these
 commandments," which have been revealed for the blessing of all mankind,
 because "they are true and faithful, and the prophecies and promises which are
-in them shall all be fulfilled." ([D&amp;C
-1:37](https://www.lds.org/scriptures/dc-testament/dc/1.37?lang=eng#36).)
-Though heaven and earth pass away, his word he says, "shall not pass away, but
-shall all be fulfilled, whether by mine own voice or by the voice of my
-servants, it is the same." ([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37).) Two days after receiving this great
-revelation from which I have quoted, the Lord said this to his church: "Send
-forth the elders of my church unto the nations which are afar off; unto the
-islands of the sea; send forth unto foreign lands; call upon all nations. ..."
-([D&amp;C 133:8](https://www.lds.org/scriptures/dc-
-testament/dc/133.8?lang=eng#7).)
+in them shall all be fulfilled." ([D&amp;C 1:37](/scriptures/dc-
+testament/dc/1.37?lang=eng#36).) Though heaven and earth pass away, his word
+he says, "shall not pass away, but shall all be fulfilled, whether by mine own
+voice or by the voice of my servants, it is the same." ([D&amp;C
+1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).) Two days after receiving
+this great revelation from which I have quoted, the Lord said this to his
+church: "Send forth the elders of my church unto the nations which are afar
+off; unto the islands of the sea; send forth unto foreign lands; call upon all
+nations. ..." ([D&amp;C 133:8](/scriptures/dc-testament/dc/133.8?lang=eng#7).)
 
 And so, as Latter-day Saints everywhere, with personal testimonies of these
 great events, we accept humbly, gratefully, this major responsibility placed
@@ -276,4 +267,6 @@ go forward.
 This great work is divine--directed by the Lord Jesus Christ through his
 church, The Church of Jesus Christ of Latter-day Saints. To this I bear humble
 and grateful testimony in the name of Jesus Christ. Amen.
+
+## References
 

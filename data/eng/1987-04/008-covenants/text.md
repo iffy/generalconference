@@ -76,8 +76,7 @@ Brother Tuttle wanted those blessings from our prayers for those struggling
 souls whom most of us hardly remember, but whom he could not forget.
 
 The scriptures teach that "the effectual fervent prayer of a righteous man
-availeth much" ([James
-5:16](https://www.lds.org/scriptures/nt/james/5.16?lang=eng#15)).
+availeth much" ([James 5:16](/scriptures/nt/james/5.16?lang=eng#15)).
 
 Can you not believe that the Lord may have favored the pleadings of this
 saintly man above our own appeal for his recovery?
@@ -134,9 +133,8 @@ _covenant_ is.
 
 A covenant is a sacred promise, as used in the scriptures, a solemn, enduring
 promise between God and man. The fulness of the gospel itself is defined as
-the new and everlasting covenant (see [D&amp;C
-22:1](https://www.lds.org/scriptures/dc-testament/dc/22.1?lang=eng#0);
-[D&amp;C 66:2](https://www.lds.org/scriptures/dc-
+the new and everlasting covenant (see [D&amp;C 22:1](/scriptures/dc-
+testament/dc/22.1?lang=eng#0); [D&amp;C 66:2](/scriptures/dc-
 testament/dc/66.2?lang=eng#1)).
 
 Several years ago I installed a stake president in England. In another
@@ -253,4 +251,6 @@ minister here, to the end that this work might be completed.
 
 God grant that we who have an opportunity to have part in it might seek that
 opportunity and labor with all our might, in the name of Jesus Christ, amen.
+
+## References
 

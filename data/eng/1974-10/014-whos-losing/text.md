@@ -19,10 +19,10 @@ more important than the score. The direction in which we are moving is more
 important than position or place.
 
 The truth "For as [a man] thinketh in his heart, so is he" ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6)) is as
-applicable today as any time in history. I remember years ago meeting a young
-man who had tattooed on his body the words "A BORN LOSER." I don't think you
-will be surprised to learn that I met him in a state prison.
+23:7](/scriptures/ot/prov/23.7?lang=eng#6)) is as applicable today as any time
+in history. I remember years ago meeting a young man who had tattooed on his
+body the words "A BORN LOSER." I don't think you will be surprised to learn
+that I met him in a state prison.
 
 I also remember once asking two young boys if they could swim. One said, "No."
 The other, "I don't know. I've never tried." Unknowingly, perhaps, their
@@ -38,18 +38,17 @@ contacts with God and encouraging destructive attitudes toward self and
 fellowmen. We need to lead with good cheer, optimism, and courage if we are to
 move onward and upward.
 
-The truths "And in everything give thanks" ([D&amp;C
-98:1](https://www.lds.org/scriptures/dc-testament/dc/98.1?lang=eng#0)) and
-"Thou shalt thank the Lord thy God in all things" ([D&amp;C
-59:7](https://www.lds.org/scriptures/dc-testament/dc/59.7?lang=eng#6)) and "He
+The truths "And in everything give thanks" ([D&amp;C 98:1](/scriptures/dc-
+testament/dc/98.1?lang=eng#0)) and "Thou shalt thank the Lord thy God in all
+things" ([D&amp;C 59:7](/scriptures/dc-testament/dc/59.7?lang=eng#6)) and "He
 who receiveth all things with thankfulness shall be made glorious" ([D&amp;C
-78:19](https://www.lds.org/scriptures/dc-testament/dc/78.19?lang=eng#18)) are
-not only recommended tools of appreciation, but are powerful attitude
-guidelines prescribing rewarding patterns. Think of the personal challenge to
-thank God in all things. If we thank God in all things, we will not permit
-ourselves to get behind. We must work each day to beat yesterday's record, not
-someone else's. With His help we can accomplish all things and be winners
-indeed in the processes of eternity.
+78:19](/scriptures/dc-testament/dc/78.19?lang=eng#18)) are not only
+recommended tools of appreciation, but are powerful attitude guidelines
+prescribing rewarding patterns. Think of the personal challenge to thank God
+in all things. If we thank God in all things, we will not permit ourselves to
+get behind. We must work each day to beat yesterday's record, not someone
+else's. With His help we can accomplish all things and be winners indeed in
+the processes of eternity.
 
 We must strive for an ingrained attitude of self-confidence that will make us
 believers in self. How important it is in all our lives to develop an
@@ -103,7 +102,7 @@ I that I can withstand God, or why does the world think to make me deny what I
 have actually seen? For I had seen a vision; I knew it, and I knew that God
 knew it, and I could not deny it, neither dared I do it; at least I knew that
 by so doing I would offend God, and come under condemnation." ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 Another important ingredient of proper attitude is resilience, the ability to
 cope with change. Adaptability cushions the impact of change or
@@ -120,15 +119,15 @@ tomorrow.
 One of the greatest tragedies of our time is children of God--you and I--
 living and performing below our capabilities. Strength and courage come when
 we realize "come and follow me" ([Matt.
-19:21](https://www.lds.org/scriptures/nt/matt/19.21?lang=eng#20)) was given by
-a loving Savior of hope and trust who extended the invitation to us without
-regard as to where we are or have been. His was the perfect example. His was
-the perfect attitude. His was the perfect life. He would be true to his
-calling at whatever the cost. His labors, his life, and his teachings are
-cherished possessions. Our pathways are clearly marked, thanks to his steps.
-His experiences are our strengths. I have said many times to our missionaries,
-"It is not so important whether a young man has been through the experience of
-a mission as it is whether the mission experience has been through him."
+19:21](/scriptures/nt/matt/19.21?lang=eng#20)) was given by a loving Savior of
+hope and trust who extended the invitation to us without regard as to where we
+are or have been. His was the perfect example. His was the perfect attitude.
+His was the perfect life. He would be true to his calling at whatever the
+cost. His labors, his life, and his teachings are cherished possessions. Our
+pathways are clearly marked, thanks to his steps. His experiences are our
+strengths. I have said many times to our missionaries, "It is not so important
+whether a young man has been through the experience of a mission as it is
+whether the mission experience has been through him."
 
 Though he, Jesus, were a Son busily engaged in his Father's business, he was
 never too busy to assist a troubled mother, a sick man, a friend, a little
@@ -139,9 +138,9 @@ proper attitude helps us find God through service to his children.
 Nazareth was little and looked down upon. It bore the brunt of ridicule. It
 had not been the scene of historic achievement. It had produced no winners:
 "Can any good come out of Nazareth?" (See [John
-1:46](https://www.lds.org/scriptures/nt/john/1.46?lang=eng#45).) His attitude,
-his works, his life had lifted the little village out of obscurity. "Jesus of
-Nazareth" the world later called him, bringing honor to a once-despised town.
+1:46](/scriptures/nt/john/1.46?lang=eng#45).) His attitude, his works, his
+life had lifted the little village out of obscurity. "Jesus of Nazareth" the
+world later called him, bringing honor to a once-despised town.
 
 Once rejected by his own, the will, the way, and the work would yet identify
 him as King of kings and Lord of lords. He experienced scorn, ridicule, and
@@ -149,10 +148,9 @@ abuse, but victory and triumph were his because he was busily engaged in good
 works. To those who would destroy, defeat, discourage, he taught truth shall
 triumph. To those who would desecrate his temples, he fearlessly declared, "It
 is written, My house shall be called the house of prayer; but ye have made it
-a den of thieves." ([Matt.
-21:13](https://www.lds.org/scriptures/nt/matt/21.13?lang=eng#12).) His words
-and actions in this circumstance were yet but another evidence of character,
-conviction, courage, and proper attitude.
+a den of thieves." ([Matt. 21:13](/scriptures/nt/matt/21.13?lang=eng#12).) His
+words and actions in this circumstance were yet but another evidence of
+character, conviction, courage, and proper attitude.
 
 Every person in the world who loves courageous performance and appreciates
 proper attitude should read and reread the final chapters of his life. He
@@ -160,10 +158,9 @@ lived, this Prince of Peace, in true majesty. His home town scorned his
 achievements. Some of his disciples had turned away. His enemies were about to
 triumph (so they supposed). What was his attitude? Was it complaint,
 faultfinding, retaliation, defeat? Never! His majestic words were, "Let not
-your heart be troubled" ([John
-14:1](https://www.lds.org/scriptures/nt/john/14.1?lang=eng#0)); "I have
-overcome the world." ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).)
+your heart be troubled" ([John 14:1](/scriptures/nt/john/14.1?lang=eng#0)); "I
+have overcome the world." ([John
+16:33](/scriptures/nt/john/16.33?lang=eng#32).)
 
 In the final week of his life cries turned from "Hosanna" to "Crucify."
 Unwavering courage carried him onward and upward triumphantly. The honest in
@@ -173,17 +170,16 @@ greatness. Learn with me more of his courage and divinity as we see him
 continue faithfully to the end in those trying days. Recall with me the Last
 Supper with his disciples, a visit to the Garden for high communion with his
 Father ("Let this cup pass, nevertheless thy will be done" [see [Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38)]), a victory
-signal following the battle, and the crucifixion sight with soldiers appearing
-on the scene. When they boldly confronted him, prepared for resistance and
-rebellion, they were greeted with, "Whom seek ye? ... I am he" ([John 18:4,
-5](https://www.lds.org/scriptures/nt/john/18.4%2C5?lang=eng#3)), he answered
-proudly. On a barren hill not far beyond the city wall he was nailed to a
-cross. As he suffered his cruel crucifixion, no doubt there were witnesses and
-spectators who observed with their limited perspective, "He is losing. He is
-confined. He is defeated." How wrong they were and how wrong they are. Jesus
-of Nazareth a loser? Never! He is our Savior, our Redeemer, a winner, a Son of
-God.
+26:39](/scriptures/nt/matt/26.39?lang=eng#38)]), a victory signal following
+the battle, and the crucifixion sight with soldiers appearing on the scene.
+When they boldly confronted him, prepared for resistance and rebellion, they
+were greeted with, "Whom seek ye? ... I am he" ([John 18:4,
+5](/scriptures/nt/john/18.4,5?lang=eng#3)), he answered proudly. On a barren
+hill not far beyond the city wall he was nailed to a cross. As he suffered his
+cruel crucifixion, no doubt there were witnesses and spectators who observed
+with their limited perspective, "He is losing. He is confined. He is
+defeated." How wrong they were and how wrong they are. Jesus of Nazareth a
+loser? Never! He is our Savior, our Redeemer, a winner, a Son of God.
 
 He this day would have us permanently adopt the attitude of conviction and
 commitment so movingly expressed in verse seven of our hymn, "How Firm a
@@ -202,4 +198,6 @@ his reality, his strength, his divinity, and his earthly purposes. This is his
 church. This is his gospel. This is his plan for those who would conquer self,
 continue faithfully, and be victorious. I bear testimony to these truths in
 the name of Jesus Christ. Amen.
+
+## References
 

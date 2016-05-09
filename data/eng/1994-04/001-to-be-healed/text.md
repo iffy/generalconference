@@ -2,7 +2,7 @@
 
 Easter brings thoughts of the Savior, His life, His atonement, His
 resurrection, His love. He _has_ risen from the dead "with healing in his
-wings." [1]
+wings."[1]
 
 Oh, how we all need the healing the Redeemer can provide. Mine is a message of
 hope for you who yearn for relief from heavy burdens that have come through no
@@ -26,12 +26,12 @@ be polished when in His wisdom that is His will.
 Recognize that some challenges in life will not be resolved here on earth.
 Paul pled thrice that "a thorn in the flesh" be removed. The Lord simply
 answered, "My grace is sufficient for thee: for my strength is made perfect in
-weakness." [2]  He gave Paul strength to compensate so he could live a most
+weakness."[2] He gave Paul strength to compensate so he could live a most
 meaningful life. He wants you to learn how to be cured when that is His will
 and how to obtain strength to live with your challenge when He intends it to
 be an instrument for growth. In either case the Redeemer will support you.
 That is why He said, "Take my yoke upon you, and learn of me; ... For my yoke is
-easy, and my burden is light." [3]
+easy, and my burden is light."[3]
 
 When you feel you can do no more, temporarily lay your challenges at His feet.
 The scriptures tell you how. For example, when the oppressed people of Alma
@@ -44,17 +44,17 @@ people in their afflictions.
 
 "And ... the Lord did strengthen them that they could bear up their burdens with
 ease, and they did _submit cheerfully and with patience to all the will of the
-Lord."_ [4]
+Lord."_[4]
 
 Submitting "cheerfully and with patience" to all His will lets you learn
-precious if difficult lessons and eternal truths that will yield blessings.
-[5]  The example of Alma and Amulek is enlightening. While striving to do good
+precious if difficult lessons and eternal truths that will yield blessings.[5]
+The example of Alma and Amulek is enlightening. While striving to do good
 among the people of Ammonihah, they were taken captive. Amulek trusted his
 more seasoned companion, Alma, who led him to greater confidence in the Lord.
 Forced to observe women and children consumed by fire, Amulek said, "Perhaps
 they will burn us also." Alma answered, _"Be it according to the will of the
 Lord"_--a vital principle. "But ... our work is not finished; therefore they
-burn us not." [6]
+burn us not."[6]
 
 The chief judge and others over many days smote, spit upon, starved,
 questioned, and harassed them with mocking words and threats. Though commanded
@@ -62,10 +62,10 @@ to speak, they withstood, bound and naked, in silence waiting patiently for
 the Lord to inspire them to act. Then "the power of God was upon Alma and
 Amulek, and they rose." Alma cried, "Give us strength _according to our faith
 which is in Christ, even unto deliverance._ And they broke the cords with
-which they were bound." [7]  The earth shook; the prison walls were rent. All
+which they were bound."[7] The earth shook; the prison walls were rent. All
 who smote Alma and Amulek were slain, and they were freed. On another occasion
-Alma prayed, "O Lord ... , have mercy on this man, and heal him _according to
-his faith which is in Christ."_ [8]
+Alma prayed, "O Lord ..., have mercy on this man, and heal him _according to his
+faith which is in Christ."_[8]
 
 These two examples give the essential key to healing. The Lord will give
 relief with divine power when you seek deliverance in humility and _faith in
@@ -73,19 +73,18 @@ Jesus Christ._
 
 Don't say, "No one understands me; I can't sort it out, or get the help I
 need." Those comments are self-defeating. No one can help you without faith
-and effort on your part. [9]  Your personal growth requires that. Don't look
-for a life virtually free from discomfort, pain, pressure, challenge, or
-grief, for those are the tools a loving Father uses to stimulate our personal
-growth and understanding. As the scriptures repeatedly affirm, you will be
-helped as you exercise _faith in Jesus Christ._ [10]  That faith is
-demonstrated by a willingness to trust His promises given through His prophets
-[11]  and in His scriptures, which contain His own words. You may not fully
-understand how to do this yet, but trust that He will help you use your agency
-to open the doors for His healing to occur. Faith in Christ means we trust
-Him; we trust His teachings. That leads to hope, and hope brings charity, the
-pure love of Christ--that peaceful feeling that comes when we sense His
-concern, His love, and His capacity to cure us or to ease our burdens with His
-healing power.
+and effort on your part.[9] Your personal growth requires that. Don't look for
+a life virtually free from discomfort, pain, pressure, challenge, or grief,
+for those are the tools a loving Father uses to stimulate our personal growth
+and understanding. As the scriptures repeatedly affirm, you will be helped as
+you exercise _faith in Jesus Christ._[10] That faith is demonstrated by a
+willingness to trust His promises given through His prophets[11] and in His
+scriptures, which contain His own words. You may not fully understand how to
+do this yet, but trust that He will help you use your agency to open the doors
+for His healing to occur. Faith in Christ means we trust Him; we trust His
+teachings. That leads to hope, and hope brings charity, the pure love of
+Christ--that peaceful feeling that comes when we sense His concern, His love,
+and His capacity to cure us or to ease our burdens with His healing power.
 
 Is there a potentially destructive pattern in your life? When discouraged do
 you feel overwhelmed and in desperation seek for others to solve your
@@ -95,37 +94,34 @@ will to help you?
 
 Your access to the Savior's help comes in different ways. The most direct and
 often the most powerful way is through humble, trusting prayers to your Father
-in Heaven, which are answered through the Holy Ghost to your spirit. [12]  Yet
+in Heaven, which are answered through the Holy Ghost to your spirit.[12] Yet
 this help is sometimes difficult to initiate and hard to recognize when you
 are learning how to pray with faith. If so, begin elsewhere. Trust someone
-near to you; then as you learn, that trust will extend to God and His healing.
-[13]  Begin with a friend or bishop who understands the teachings of the
-Savior. Often they have personally obtained healing through application of
+near to you; then as you learn, that trust will extend to God and His
+healing.[13] Begin with a friend or bishop who understands the teachings of
+the Savior. Often they have personally obtained healing through application of
 truth with faith in the Redeemer. They can show you how. Or start by reading,
 pondering, and applying the teachings of the scriptures. They are a very
-powerful source of assistance. [14]  While examples and anecdotes will help to
+powerful source of assistance.[14] While examples and anecdotes will help to
 understand principle, you will find that power comes from scriptural doctrine,
 as these quotes illustrate:
 
-  * "I see that your faith is sufficient that I should heal you." [15] 
-
-  * "Come unto me with full purpose of heart." [16] 
-
-  * "Return unto me, and repent of your sins, and be converted, that I may heal you." [17] 
-
-  * "Turn to the Lord with full purpose of heart, and put your trust in him, and serve him with all diligence of mind, [and] if ye do this, he will, according to his own will and pleasure, deliver you out of bondage." [18] 
+  * "I see that your faith is sufficient that I should heal you."[15]
+  * "Come unto me with full purpose of heart."[16]
+  * "Return unto me, and repent of your sins, and be converted, that I may heal you."[17]
+  * "Turn to the Lord with full purpose of heart, and put your trust in him, and serve him with all diligence of mind, [and] if ye do this, he will, according to his own will and pleasure, deliver you out of bondage."[18]
 
 Even if they had unlimited time and resources, which they don't, priesthood
 leaders could not provide all of the help. They are agents of the Lord, and
 His law requires that you do your part. They will show you the way. They can
-provide priesthood blessings. [19]  Your faith, [20]  purity, and obedience
-and that of the priesthood holder have great effect on the pronouncement and
+provide priesthood blessings.[19] Your faith,[20] purity, and obedience and
+that of the priesthood holder have great effect on the pronouncement and
 realization of the blessing. Healing can occur in the act, yet more often it
 occurs over a period of time determined by the faith and obedience of the
-individual and the will of the Lord. [21]  I feel that the pace is generally
-set by the individual, not by the Lord. He expects you to use other resources
+individual and the will of the Lord.[21] I feel that the pace is generally set
+by the individual, not by the Lord. He expects you to use other resources
 available, including competent professional help when indicated; then He
-provides the balance needed according to His will. [22]
+provides the balance needed according to His will.[22]
 
 Love is a potent healer. Realizing that, Satan would separate you from the
 power of the love of God, kindred, and friends, who want to help. He would
@@ -136,10 +132,10 @@ be driven to further despair and heartache. His strategy is to have you think
 you are not appreciated, loved, or wanted so that you in despair will turn to
 self-criticism, and in the extreme even to despising yourself and feeling evil
 when you are not. Remember the wisdom of the Lord "is greater than the cunning
-of the devil." [23]  If you have such thoughts, break through those helpless
+of the devil."[23] If you have such thoughts, break through those helpless
 feelings by reaching out in love to another in need. That may sound cruel and
 unfeeling when you long so much for healing, but it is based upon truth. Paul
-taught, "Bear ye one another's burdens, and so fulfil the law of Christ." [24]
+taught, "Bear ye one another's burdens, and so fulfil the law of Christ."[24]
 
 Love comes by learning how to give it to another in a spirit of trust. If you
 feel deprived of love, that is difficult. Yet sustained concern and support of
@@ -148,7 +144,7 @@ an instrument through which the Lord can bless another. The Spirit will let
 you feel the Savior's concern and interest, then the warmth and strength of
 His love. President Kimball said: "God does notice us, and he watches over us.
 But it is usually through another mortal that he meets our needs. Therefore,
-it is vital that we serve each other." [25]
+it is vital that we serve each other."[25]
 
 Challenge comes as testing from a wise, knowing Father to give experience,
 that we may be seasoned, mature, and grow in understanding and application of
@@ -167,13 +163,13 @@ When anguish comes from evil acts of others, there should be punishment and
 corrective action taken, but the offended is not the one to initiate that
 action. Leave it to others who have that responsibility. Learn to forgive;
 though terribly hard, it will release you and open the way to a newness of
-life. [26]  Time devoted by one injured to ensure the offender is punished is
+life.[26] Time devoted by one injured to ensure the offender is punished is
 time wasted in the healing process.
 
 In summary, do what you _can_ do a step at a time. Seek to understand the
 principles of healing from the scriptures and through prayer. Help others.
-Forgive. "Submit cheerfully and with patience to all the will of the Lord."
-[27]  Above all, _exercise faith in Jesus Christ._
+Forgive. "Submit cheerfully and with patience to all the will of the
+Lord."[27] Above all, _exercise faith in Jesus Christ._
 
 I testify that the surest, most effective, and shortest path to healing comes
 through application of the teachings of Jesus Christ in your life. It begins
@@ -189,57 +185,57 @@ amen.
 
 ## References
 
-  1.   [Mal. 4:2](https://www.lds.org/scriptures/ot/mal/4.2?lang=eng#1); [2 Ne. 25:13](https://www.lds.org/scriptures/bofm/2-ne/25.13?lang=eng#12).
+  1. [Mal. 4:2](https://www.lds.org/scriptures/ot/mal/4.2?lang=eng#1); [2 Ne. 25:13](https://www.lds.org/scriptures/bofm/2-ne/25.13?lang=eng#12).
 
-  2.   [2 Cor. 12:7-9](https://www.lds.org/scriptures/nt/2-cor/12.7-9?lang=eng#6).
+  2. [2 Cor. 12:7-9](https://www.lds.org/scriptures/nt/2-cor/12.7-9?lang=eng#6).
 
-  3.   [Matt. 11:29-30](https://www.lds.org/scriptures/nt/matt/11.29-30?lang=eng#28).
+  3. [Matt. 11:29-30](https://www.lds.org/scriptures/nt/matt/11.29-30?lang=eng#28).
 
-  4.   [Mosiah 24:12, 14-15](https://www.lds.org/scriptures/bofm/mosiah/24.12%2C14-15?lang=eng#11); emphasis added.
+  4. [Mosiah 24:12, 14-15](https://www.lds.org/scriptures/bofm/mosiah/24.12,14-15?lang=eng#11); emphasis added.
 
-  5.  See [Jacob 4:10](https://www.lds.org/scriptures/bofm/jacob/4.10?lang=eng#9).
+  5. See [Jacob 4:10](https://www.lds.org/scriptures/bofm/jacob/4.10?lang=eng#9).
 
-  6.   [Alma 14:12-13](https://www.lds.org/scriptures/bofm/alma/14.12-13?lang=eng#11); emphasis added.
+  6. [Alma 14:12-13](https://www.lds.org/scriptures/bofm/alma/14.12-13?lang=eng#11); emphasis added.
 
-  7.   [Alma 14:15, 19, 24-26](https://www.lds.org/scriptures/bofm/alma/14.15%2C19%2C24-26?lang=eng#14); emphasis added.
+  7. [Alma 14:15, 19, 24-26](https://www.lds.org/scriptures/bofm/alma/14.15,19,24-26?lang=eng#14); emphasis added.
 
-  8.   [Alma 15:10](https://www.lds.org/scriptures/bofm/alma/15.10?lang=eng#9); emphasis added.
+  8. [Alma 15:10](https://www.lds.org/scriptures/bofm/alma/15.10?lang=eng#9); emphasis added.
 
-  9.  See Harold B. Lee, _Stand Ye in Holy Places_ (Salt Lake City: Deseret Book Co., 1974), pp. 241-42.
+  9. See Harold B. Lee, _Stand Ye in Holy Places_ (Salt Lake City: Deseret Book Co., 1974), pp. 241-42.
 
-  10.  See [Enos 1:15-18](https://www.lds.org/scriptures/bofm/enos/1.15-18?lang=eng#14).
+  10. See [Enos 1:15-18](https://www.lds.org/scriptures/bofm/enos/1.15-18?lang=eng#14).
 
-  11.  See Marion G. Romney, in Conference Report, Oct. 1969, pp. 57-60; or _Improvement Era,_ Dec. 1969, pp. 66-69.
+  11. See Marion G. Romney, in Conference Report, Oct. 1969, pp. 57-60; or _Improvement Era,_ Dec. 1969, pp. 66-69.
 
-  12.  See [Hel. 3:35](https://www.lds.org/scriptures/bofm/hel/3.35?lang=eng#34).
+  12. See [Hel. 3:35](https://www.lds.org/scriptures/bofm/hel/3.35?lang=eng#34).
 
-  13.  See [Ether 12:27-31](https://www.lds.org/scriptures/bofm/ether/12.27-31?lang=eng#26).
+  13. See [Ether 12:27-31](https://www.lds.org/scriptures/bofm/ether/12.27-31?lang=eng#26).
 
-  14.  See [2 Tim. 3:14-17](https://www.lds.org/scriptures/nt/2-tim/3.14-17?lang=eng#13).
+  14. See [2 Tim. 3:14-17](https://www.lds.org/scriptures/nt/2-tim/3.14-17?lang=eng#13).
 
-  15.   [3 Ne. 17:8](https://www.lds.org/scriptures/bofm/3-ne/17.8?lang=eng#7).
+  15. [3 Ne. 17:8](https://www.lds.org/scriptures/bofm/3-ne/17.8?lang=eng#7).
 
-  16.   [3 Ne. 18:32](https://www.lds.org/scriptures/bofm/3-ne/18.32?lang=eng#31).
+  16. [3 Ne. 18:32](https://www.lds.org/scriptures/bofm/3-ne/18.32?lang=eng#31).
 
-  17.   [3 Ne. 9:13](https://www.lds.org/scriptures/bofm/3-ne/9.13?lang=eng#12); see [D&amp;C 112:13](https://www.lds.org/scriptures/dc-testament/dc/112.13?lang=eng#12).
+  17. [3 Ne. 9:13](https://www.lds.org/scriptures/bofm/3-ne/9.13?lang=eng#12); see [D&amp;C 112:13](https://www.lds.org/scriptures/dc-testament/dc/112.13?lang=eng#12).
 
-  18.   [Mosiah 7:33](https://www.lds.org/scriptures/bofm/mosiah/7.33?lang=eng#32).
+  18. [Mosiah 7:33](https://www.lds.org/scriptures/bofm/mosiah/7.33?lang=eng#32).
 
-  19.  See Bruce R. McConkie, _The Mortal Messiah,_ 4 vols. (Salt Lake City: Deseret Book Co., 1979-81), 3:28-29.
+  19. See Bruce R. McConkie, _The Mortal Messiah,_ 4 vols. (Salt Lake City: Deseret Book Co., 1979-81), 3:28-29.
 
-  20.  See _The Teachings of Spencer W. Kimball,_ ed. Edward L. Kimball (Salt Lake City: Bookcraft, 1982), pp. 510-11.
+  20. See _The Teachings of Spencer W. Kimball,_ ed. Edward L. Kimball (Salt Lake City: Bookcraft, 1982), pp. 510-11.
 
-  21.  See James E. Talmage, _The Articles of Faith,_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1968), p. 226.
+  21. See James E. Talmage, _The Articles of Faith,_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1968), p. 226.
 
-  22.  See _Discourses of Brigham Young,_ sel. John A. Widtsoe (Salt Lake City: Deseret Book Co., 1941), p. 163.
+  22. See _Discourses of Brigham Young,_ sel. John A. Widtsoe (Salt Lake City: Deseret Book Co., 1941), p. 163.
 
-  23.   [D&amp;C 10:43](https://www.lds.org/scriptures/dc-testament/dc/10.43?lang=eng#42).
+  23. [D&amp;C 10:43](https://www.lds.org/scriptures/dc-testament/dc/10.43?lang=eng#42).
 
-  24.   [Gal. 6:2](https://www.lds.org/scriptures/nt/gal/6.2?lang=eng#1).
+  24. [Gal. 6:2](https://www.lds.org/scriptures/nt/gal/6.2?lang=eng#1).
 
-  25.   _The Teachings of Spencer W. Kimball,_ ed. Edward L. Kimball (Salt Lake City: Bookcraft, 1982), p. 252.
+  25. _The Teachings of Spencer W. Kimball,_ ed. Edward L. Kimball (Salt Lake City: Bookcraft, 1982), p. 252.
 
-  26.  See Richard G. Scott, _Ensign,_ May 1992, pp. 31-33.
+  26. See Richard G. Scott, _Ensign,_ May 1992, pp. 31-33.
 
-  27.   [Mosiah 24:15](https://www.lds.org/scriptures/bofm/mosiah/24.15?lang=eng#14).
+  27. [Mosiah 24:15](https://www.lds.org/scriptures/bofm/mosiah/24.15?lang=eng#14).
 

@@ -14,27 +14,25 @@ President Ezra Taft Benson has often stated, "We live in a wicked world." The
 Apostle Paul warned, "Men shall be lovers of their own selves, covetous,
 boasters, proud, blasphemers, disobedient to parents, unthankful, unholy. ...
 lovers of pleasures more than lovers of God" ([2 Tim.
-3:2-4](https://www.lds.org/scriptures/nt/2-tim/3.2-4?lang=eng#1)).
+3:2-4](/scriptures/nt/2-tim/3.2-4?lang=eng#1)).
 
 Must we suffer the same fate as those who lived in the cities of the plain?
 Can we not learn the lesson taught in the time of Noah? "Is there no balm in
-Gilead?" ([Jer.
-8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21)). Or is there a
+Gilead?" ([Jer. 8:22](/scriptures/ot/jer/8.22?lang=eng#21)). Or is there a
 doorway that leads us from the morass of worldliness onward and upward to the
 high ground of righteousness? There echoes ever so gently to the honest mind
 that personal invitation of the Lord: "Behold, I stand at the door, and knock:
 if any man hear my voice, and open the door, I will come in to him" ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19)). Does that
-doorway have a name? It surely does. I have chosen to call it "the doorway of
-love."
+3:20](/scriptures/nt/rev/3.20?lang=eng#19)). Does that doorway have a name? It
+surely does. I have chosen to call it "the doorway of love."
 
 Love is the catalyst that causes change. Love is the balm that brings healing
 to the soul. But love doesn't grow like weeds or fall like rain. Love has its
 price. "God so loved the world, that he gave his only begotten Son, that
 whosoever believeth in him should not perish, but have everlasting life"
-([John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15)). That
-Son, even the Lord Jesus Christ, gave His life that we might have eternal
-life, so great was His love for His Father and for us.
+([John 3:16](/scriptures/nt/john/3.16?lang=eng#15)). That Son, even the Lord
+Jesus Christ, gave His life that we might have eternal life, so great was His
+love for His Father and for us.
 
 This same Jesus was approached by a lawyer who asked, "Master, which is the
 great commandment in the law?
@@ -47,15 +45,14 @@ with all thy soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets" ([Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35)).
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35)).
 
 In that tender and touching farewell, as He counseled His beloved disciples,
 Jesus taught: "He that hath my commandments, and keepeth them, he it is that
-loveth me" ([John
-14:21](https://www.lds.org/scriptures/nt/john/14.21?lang=eng#20)).
-Particularly far-reaching was the instruction, "A new commandment I give unto
-you, That ye love one another; as I have loved you" ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33)).
+loveth me" ([John 14:21](/scriptures/nt/john/14.21?lang=eng#20)). Particularly
+far-reaching was the instruction, "A new commandment I give unto you, That ye
+love one another; as I have loved you" ([John
+13:34](/scriptures/nt/john/13.34?lang=eng#33)).
 
 Little children can learn the lesson of love. Profound instruction from holy
 writ ofttimes is not understood by them. However, they respond readily to a
@@ -106,8 +103,7 @@ and characterize the righteous family. Fathers in such homes will not hear the
 denunciation of the Lord as recorded in the book of Jacob: "Ye have broken the
 hearts of your tender wives, and lost the confidence of your children, because
 of your bad examples before them; and the sobbings of their hearts ascend up
-to God against you" ([Jacob
-2:35](https://www.lds.org/scriptures/bofm/jacob/2.35?lang=eng#34)).
+to God against you" ([Jacob 2:35](/scriptures/bofm/jacob/2.35?lang=eng#34)).
 
 In 3 Nephi the Master instructed: "There shall be no disputations among you. ...
 
@@ -117,8 +113,7 @@ stirreth up the hearts of men to contend with anger, one with another.
 
 "Behold, this is not my doctrine, to stir up the hearts of men with anger, one
 against another; but this is my doctrine, that such things should be done
-away" ([3 Ne.
-11:28-30](https://www.lds.org/scriptures/bofm/3-ne/11.28-30?lang=eng#27)).
+away" ([3 Ne. 11:28-30](/scriptures/bofm/3-ne/11.28-30?lang=eng#27)).
 
 Where love is, there is no disputation. Where love is, there is no contention.
 Where love is, there God will be also. Each of us has the responsibility to
@@ -148,8 +143,7 @@ who noticed a vagrant asleep on a sidewalk and who then went to his own
 bedroom, retrieved his own pillow, and placed it beneath the head of that one
 whom he knew not. Perhaps there came from the precious past the welcome words:
 "Inasmuch as ye have done it unto one of the least of these my brethren, ye
-have done it unto me" ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39)).
+have done it unto me" ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39)).
 
 I extol those who, with loving care and compassionate concern, feed the
 hungry, clothe the naked, and house the homeless. He who notes the sparrow's
@@ -178,8 +172,7 @@ In the majesty of his messianic ministry, He declared: "Young man, I say unto
 thee, Arise.
 
 "And he that was dead sat up, and began to speak. And he delivered him to his
-mother" ([Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10)).
+mother" ([Luke 7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10)).
 
 The desire to lift, the willingness to help, and the graciousness to give come
 from a heart filled with love.
@@ -279,7 +272,7 @@ hands. Those hands, that day, were hallowed by heaven and graced by God. The
 herald angels did sing. The words of the Master seemed to have a personal
 meaning never before fully felt: "Woman, behold thy son!" And to his disciple,
 "Behold thy mother!" (see [John
-19:26-27](https://www.lds.org/scriptures/nt/john/19.26-27?lang=eng#25)).
+19:26-27](/scriptures/nt/john/19.26-27?lang=eng#25)).
 
 Outside the sky was blue--azure blue. The air was cool--crispy cool. The snow
 was white--crystal white.
@@ -305,4 +298,6 @@ _The dear Christ enters in_
 The wondrous gift was given, the heavenly blessing was received, the dear
 Christ had entered in--all through the doorway called love. I declare this
 solemn truth in the name of Jesus Christ, amen.
+
+## References
 

@@ -49,7 +49,7 @@ inasmuch as men do good they shall in nowise lose their reward.
 
 "But he that doeth not anything until he is commanded, and receiveth a
 commandment with doubtful heart, and keepeth it with slothfulness, the same is
-damned." ([D&amp;C 58:27-29](https://www.lds.org/scriptures/dc-
+damned." ([D&amp;C 58:27-29](/scriptures/dc-
 testament/dc/58.27-29?lang=eng#26).)
 
 As we search for good causes, we must consider our own needs, but also we must
@@ -77,7 +77,7 @@ betray me.
 
 "And they were exceeding sorrowful, and began every one of them to say unto
 him, Lord, is it I?" ([Matt.
-26:20-22](https://www.lds.org/scriptures/nt/matt/26.20-22?lang=eng#19).)
+26:20-22](/scriptures/nt/matt/26.20-22?lang=eng#19).)
 
 When our progress seems to be at a standstill, it is well for us to ask who is
 at fault. Is it I? Am I sufficiently committed to righteous goals? Do I have
@@ -130,7 +130,7 @@ magic in it.
 The scriptures say it this way: "For I know that the Lord giveth no
 commandments unto the children of men, save he shall prepare a way for them
 that they may accomplish the thing which he commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 A truly committed person does not falter in the face of adversity. Until one
 is committed, there is a chance to hesitate, to go off in another direction,
@@ -147,10 +147,10 @@ taught. They go to the tree, and instead of enjoying the fruit thereof, they
 point out the scars discovered on the tree trunk.
 
 Do not be deceived. God will not be mocked. (See [Gal.
-6:7](https://www.lds.org/scriptures/nt/gal/6.7?lang=eng#6).) We have no
-intention of quarreling or demanding equal time to refute. We invite the
-dissenters as well as all others to open their eyes and see the beauties and
-thrills available to those who walk in His path looking for the good.
+6:7](/scriptures/nt/gal/6.7?lang=eng#6).) We have no intention of quarreling
+or demanding equal time to refute. We invite the dissenters as well as all
+others to open their eyes and see the beauties and thrills available to those
+who walk in His path looking for the good.
 
 For example, it is a sad day in the life of any individual or group when by
 present training, attitude, and design, they would go to a football game and
@@ -195,7 +195,7 @@ was hated and persecuted for saying that I had seen a vision, yet it was true;
 ... For I had seen a vision; I knew it, and I knew that God knew it, and I could
 not deny it, neither dared I do it; at least I knew that by so doing I would
 offend God, and come under condemnation." ([JS--H
-1:24-25](https://www.lds.org/scriptures/pgp/js-h/1.24-25?lang=eng#23).)
+1:24-25](/scriptures/pgp/js-h/1.24-25?lang=eng#23).)
 
 Certainly neither the Apostle Paul nor Joseph Smith waivered, though they
 faced severe trials. As mentioned earlier, in our present day there are many
@@ -238,4 +238,6 @@ The word is _commitment._ To be something, we must be committed. God is our
 Father. Jesus is our Savior, and this is His Church. May we commit ourselves
 to living Christlike lives regardless of the environment or opposition I pray,
 in the worthy name of Jesus Christ, our Redeemer, amen.
+
+## References
 

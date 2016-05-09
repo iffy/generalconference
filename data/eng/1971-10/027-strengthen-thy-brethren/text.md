@@ -9,13 +9,10 @@ order to set the stage for the few thoughts I would like to leave with you.
 Would you check yes or no by the following statements concerning your
 attendance at this priesthood meeting:
 
-  1. I am here because others of the family came.
-
-  2. I am here because there are no football games on TV tonight.
-
+  1. I am here because others of the family came. 
+  2. I am here because there are no football games on TV tonight. 
   3. I am here because Dad said, "You are going to priesthood meeting or else."
-
-  4. I am here because I love the Lord and recognize the priesthood I hold as the most important power for good in the universe.
+  4. I am here because I love the Lord and recognize the priesthood I hold as the most important power for good in the universe. 
 
 Whatever your answer might have been to the foregoing statements, the Lord is
 pleased you are here, and you have already been richly rewarded by listening
@@ -30,15 +27,11 @@ priesthood gathering in the history of the world, let me give you five
 important things to think about that have direct relationship to this meeting
 and what goes on here.
 
-  1. God the Father and his Son Jesus Christ have appeared in this time of the world's history.
-
-  2. All of the keys and powers of the eternal priesthood of God, with all of its attendant authority and blessings for mankind, have been restored to the earth, nevermore to be removed.
-
-  3. No less than nine heavenly beings have appeared by assignment in our time of the world's history to assist in this restoration. Let me name them: God the Father, his Son Jesus Christ, the apostle Peter, accompanied by James and John, John the Baptist, Moroni, Elijah, and Elias.
-
-  4. Three additional books of scripture, totaling 835 pages, have been revealed for the further guidance of mankind and to lend additional direction in these perilous times.
-
-  5. Last but not least, a living prophet stands at our head and presides over this meeting and has just given us the will of the Lord; up-to-the-minute evidence of continuous revelation.
+  1. God the Father and his Son Jesus Christ have appeared in this time of the world's history. 
+  2. All of the keys and powers of the eternal priesthood of God, with all of its attendant authority and blessings for mankind, have been restored to the earth, nevermore to be removed. 
+  3. No less than nine heavenly beings have appeared by assignment in our time of the world's history to assist in this restoration. Let me name them: God the Father, his Son Jesus Christ, the apostle Peter, accompanied by James and John, John the Baptist, Moroni, Elijah, and Elias. 
+  4. Three additional books of scripture, totaling 835 pages, have been revealed for the further guidance of mankind and to lend additional direction in these perilous times. 
+  5. Last but not least, a living prophet stands at our head and presides over this meeting and has just given us the will of the Lord; up-to-the-minute evidence of continuous revelation. 
 
 Now, any one of the foregoing facts should rate banner headlines in every
 newspaper in the world, but about the only response we get from more than
@@ -52,15 +45,15 @@ know by personal revelation, and I think the Spirit of the Lord is anxious to
 confirm these same truths within each of you if he has not done so already.
 
 The scriptures declare that "many are called, but few are chosen." ([D&amp;C
-121:40](https://www.lds.org/scriptures/dc-testament/dc/121.40?lang=eng#39).)
-Do you think that there might be a possibility that you have not only been
-called but may be chosen as well? Why not! You are one out of five who made a
-decision to be here in this great meeting. For each of you here, four others
-who were invited apparently decided that there was something more important to
-do than attend this priesthood meeting. I do not know how you answered those
-previous statements about your attendance here tonight, but one thing is
-crystal clear to me: either you wanted to be here or most certainly the Lord
-wanted you here, and you had better get excited about it.
+121:40](/scriptures/dc-testament/dc/121.40?lang=eng#39).) Do you think that
+there might be a possibility that you have not only been called but may be
+chosen as well? Why not! You are one out of five who made a decision to be
+here in this great meeting. For each of you here, four others who were invited
+apparently decided that there was something more important to do than attend
+this priesthood meeting. I do not know how you answered those previous
+statements about your attendance here tonight, but one thing is crystal clear
+to me: either you wanted to be here or most certainly the Lord wanted you
+here, and you had better get excited about it.
 
 "Behold, there are many called, but few are chosen. And why are they not
 chosen?" The Lord tells us why they were not chosen, and here are his reasons:
@@ -73,8 +66,7 @@ Lord.
 
 "That the rights of the priesthood are inseparably connected with the powers
 of heaven, and that the powers of heaven cannot be controlled nor handled only
-upon the principles of righteousness." ([D&amp;C
-121:34-36](https://www.lds.org/scriptures/dc-
+upon the principles of righteousness." ([D&amp;C 121:34-36](/scriptures/dc-
 testament/dc/121.34-36?lang=eng#33).)
 
 Well, it is exciting that you are here; you are special! And furthermore, the
@@ -87,7 +79,7 @@ A recurring theme during the life of the Savior as he taught the people was
 that each man is his brother's keeper. No priesthood obligation is more
 important. The scriptures say something very similar but in another way that I
 like very much: "... when thou art converted, strengthen thy brethren." ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).)
+22:32](/scriptures/nt/luke/22.32?lang=eng#31).)
 
 No one takes upon himself the covenant of baptism nor the honor of the
 priesthood except he also receives the obligations associated with Church
@@ -116,8 +108,8 @@ with solemnity of heart and in the spirit of meekness, and then he concludes
 with this promise:
 
 "... inasmuch as ye do this the Holy Ghost shall be shed forth in bearing record
-unto all things whatsoever ye shall say." ([D&amp;C
-100:5-8](https://www.lds.org/scriptures/dc-testament/dc/100.5-8?lang=eng#4).)
+unto all things whatsoever ye shall say." ([D&amp;C 100:5-8](/scriptures/dc-
+testament/dc/100.5-8?lang=eng#4).)
 
 Following this divine formula will take your contact with a friend out of the
 usual lip-to-ear communication category. With the help of the Holy Ghost,
@@ -142,8 +134,7 @@ to all of us involved in this great work.
 May I conclude with a word of caution as the Lord gave it to the Prophet
 Joseph Smith. He said this: "What I say unto one I say unto all; pray always
 lest that wicked one have power in you, and remove you out of your place."
-([D&amp;C 93:49](https://www.lds.org/scriptures/dc-
-testament/dc/93.49?lang=eng#48).)
+([D&amp;C 93:49](/scriptures/dc-testament/dc/93.49?lang=eng#48).)
 
 "Many are called, but few are chosen." What a tragedy to be foreordained or to
 be chosen or to be called and ordained only to have the adversary "remove you
@@ -161,7 +152,7 @@ upon thy soul as the dews from heaven.
 "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging
 scepter of righteousness and truth; and thy dominion shall be an everlasting
 dominion, and without compulsory means it shall flow unto thee forever and
-ever." ([D&amp;C 121:45-46](https://www.lds.org/scriptures/dc-
+ever." ([D&amp;C 121:45-46](/scriptures/dc-
 testament/dc/121.45-46?lang=eng#44).)
 
 What a promise! What a challenge! Are you special young men? Why, of course,
@@ -175,4 +166,6 @@ and "when thou art converted, strengthen thy brethren"--for the Church has
 need of every member. That it might start with more than 100,000 faithful
 priesthood holders attending priesthood meeting tonight is my humble prayer,
 and I ask it in the name of Jesus Christ. Amen.
+
+## References
 

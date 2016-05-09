@@ -23,8 +23,8 @@ gospel._
 
 "This greater priesthood administereth the gospel." It "continueth in the
 church of God in all generations, and is without beginning of days or end of
-years." ([D&amp;C 84:19, 17](https://www.lds.org/scriptures/dc-
-testament/dc/84.19%2C17?lang=eng#18).)
+years." ([D&amp;C 84:19, 17](/scriptures/dc-
+testament/dc/84.19,17?lang=eng#18).)
 
 The gospel is the plan of salvation; it is the way and the means, provided by
 the Father, whereby his spirit children have power to advance and progress and
@@ -52,7 +52,7 @@ baptized with the Holy Ghost and with fire.
 The Holy Ghost is a revelator; he bears witness of the Father and the Son,
 those Holy Beings whom to know is eternal life. Thus it is that "this greater
 priesthood ... holdeth the key of the mysteries of the kingdom, even the key of
-the knowledge of God." ([D&amp;C 84:19](https://www.lds.org/scriptures/dc-
+the knowledge of God." ([D&amp;C 84:19](/scriptures/dc-
 testament/dc/84.19?lang=eng#18).)
 
 The spiritual gifts are the signs which follow those that believe; they are
@@ -66,8 +66,7 @@ order "have the privilege of receiving the mysteries of the kingdom of heaven,
 to have the heavens opened unto them, to commune with the general assembly and
 church of the Firstborn, and to enjoy the communion and presence of God the
 Father, and Jesus the mediator of the new covenant." ([D&amp;C
-107:18-19](https://www.lds.org/scriptures/dc-
-testament/dc/107.18-19?lang=eng#17).)
+107:18-19](/scriptures/dc-testament/dc/107.18-19?lang=eng#17).)
 
 _Blessing three: We can be sanctified by the Spirit, have dross and evil
 burned out of us as though by fire, become clean and spotless, and be fit to
@@ -75,9 +74,9 @@ dwell with gods and angels._
 
 The Holy Ghost is the Sanctifier. Those who magnify their callings in the
 priesthood "are sanctified by the Spirit unto the renewing of their bodies."
-([D&amp;C 84:33](https://www.lds.org/scriptures/dc-
-testament/dc/84.33?lang=eng#32).) They are born again; they become new
-creatures of the Holy Ghost; they are alive in Christ.
+([D&amp;C 84:33](/scriptures/dc-testament/dc/84.33?lang=eng#32).) They are
+born again; they become new creatures of the Holy Ghost; they are alive in
+Christ.
 
 Of such faithful persons among the ancients, Alma says: "They were called
 after this holy order"--that is, they held the Melchizedek Priesthood--"and
@@ -86,7 +85,7 @@ of the Lamb. Now they, after being sanctified by the Holy Ghost, having their
 garments made white, being pure and spotless before God, could not look upon
 sin save it were with abhorrence; and there were many, exceeding great many,
 who were made pure and entered into the rest of the Lord their God." ([Alma
-13:11-12](https://www.lds.org/scriptures/bofm/alma/13.11-12?lang=eng#10).)
+13:11-12](/scriptures/bofm/alma/13.11-12?lang=eng#10).)
 
 _Blessing four: We can stand in the place and stead of the Lord Jesus Christ
 in administering salvation to the children of men._
@@ -107,12 +106,12 @@ him as he is one with his Father._
 "Thou art after the order of him who was without beginning of days or end of
 years, from all eternity to all eternity," the Lord said to Adam. "Behold,
 thou art one in me, a son of God; and thus may all become my sons." ([Moses
-6:67-68](https://www.lds.org/scriptures/pgp/moses/6.67-68?lang=eng#66).)
+6:67-68](/scriptures/pgp/moses/6.67-68?lang=eng#66).)
 
 As the sons of God, we also have power to advance and progress until we become
 "joint-heirs with Christ," until we have "conformed to the image" of God's
 Son, as Paul expressed it. ([Rom. 8:17,
-29](https://www.lds.org/scriptures/nt/rom/8.17%2C29?lang=eng#16).)
+29](/scriptures/nt/rom/8.17,29?lang=eng#16).)
 
 _Blessing six: We can enter into the patriarchal order, the order of eternal
 marriage, the order which enables the family unit to continue everlastingly in
@@ -121,9 +120,8 @@ celestial glory._
 To gain the highest heaven and to enjoy the fulness of that light and glory
 which comprise eternal life, we must "enter into" that "order of the
 priesthood" which bears the name "the new and everlasting covenant of
-marriage." ([D&amp;C 131:2](https://www.lds.org/scriptures/dc-
-testament/dc/131.2?lang=eng#1); see also [D&amp;C
-131:1-4](https://www.lds.org/scriptures/dc-testament/dc/131.1-4?lang=eng#0).)
+marriage." ([D&amp;C 131:2](/scriptures/dc-testament/dc/131.2?lang=eng#1); see
+also [D&amp;C 131:1-4](/scriptures/dc-testament/dc/131.1-4?lang=eng#0).)
 
 _Blessing seven: We have power to govern all things, both temporal and
 spiritual kingdoms of the world, and the elements and storms and powers of the
@@ -143,8 +141,7 @@ will of the Son of God which was from before the foundation of the world."
 Indeed, the Melchizedek Priesthood is the very power that Christ himself will
 use to govern the nations in that day when "the kingdoms of this world are
 become the kingdoms of our Lord, and of his Christ; and he shall reign for
-ever and ever." ([Rev.
-11:15](https://www.lds.org/scriptures/nt/rev/11.15?lang=eng#14).)
+ever and ever." ([Rev. 11:15](/scriptures/nt/rev/11.15?lang=eng#14).)
 
 _Blessing eight: We have power, through the priesthood, to gain eternal life,
 the greatest of all the gifts of God._
@@ -161,14 +158,13 @@ I covenant to receive the priesthood;
 I covenant to magnify my calling in the priesthood; and
 
 I covenant to keep the commandments, to "live by every word that proceedeth
-forth from the mouth of God." ([D&amp;C 84:44](https://www.lds.org/scriptures
-/dc-testament/dc/84.44?lang=eng#43).)
+forth from the mouth of God." ([D&amp;C 84:44](/scriptures/dc-
+testament/dc/84.44?lang=eng#43).)
 
 The Lord on his part covenants to give such faithful persons "all that my
 Father hath," which is eternal life in the kingdom of God. ([D&amp;C
-84:38](https://www.lds.org/scriptures/dc-testament/dc/84.38?lang=eng#37); see
-also [D&amp;C 84:33-44](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-44?lang=eng#32).)
+84:38](/scriptures/dc-testament/dc/84.38?lang=eng#37); see also [D&amp;C
+84:33-44](/scriptures/dc-testament/dc/84.33-44?lang=eng#32).)
 
 Then the Lord--to show the binding nature of his promise--swears with an oath
 that the promised reward shall be obtained.
@@ -176,7 +172,7 @@ that the promised reward shall be obtained.
 This oath, as it pertained to the Son of God himself, is spoken of in these
 words: "The Lord hath sworn, and will not repent, Thou art a priest for ever
 after the order of Melchizedek." ([Ps.
-110:4](https://www.lds.org/scriptures/ot/ps/110.4?lang=eng#3).)
+110:4](/scriptures/ot/ps/110.4?lang=eng#3).)
 
 And with reference to all others who also receive the Melchizedek Priesthood,
 the scripture saith: "And all those who are ordained unto this priesthood are
@@ -198,8 +194,7 @@ after the order of Enoch, which was after the order of the Only Begotten Son.
 
 "Wherefore, all things are theirs, whether life or death, or things present,
 or things to come, all are theirs and they are Christ's, and Christ is God's."
-([D&amp;C 76:54-59](https://www.lds.org/scriptures/dc-
-testament/dc/76.54-59?lang=eng#53).)
+([D&amp;C 76:54-59](/scriptures/dc-testament/dc/76.54-59?lang=eng#53).)
 
 _Blessing nine: We have power to make our calling and election sure, so that
 while we yet dwell in mortality, having overcome the world and been true and
@@ -209,7 +204,7 @@ unconditional promise of eternal life in the presence of Him whose we are._
 Our revelations say: "The more sure word of prophecy means a man's knowing
 that he is sealed up unto eternal life, by revelation and the spirit of
 prophecy, through the power of the Holy Priesthood." ([D&amp;C
-131:5](https://www.lds.org/scriptures/dc-testament/dc/131.5?lang=eng#4).)
+131:5](/scriptures/dc-testament/dc/131.5?lang=eng#4).)
 
 During the latter years of his ministry, in particular, the Prophet Joseph
 Smith pleaded fervently with the Saints to press forward in righteousness
@@ -221,8 +216,8 @@ He himself became the pattern for all such attainment in this dispensation,
 when the voice from heaven said to him: "I am the Lord thy God, and will be
 with thee even unto the end of the world, and through all eternity; for verily
 I seal upon you your exaltation, and prepare a throne for you in the kingdom
-of my Father, with Abraham your father." ([D&amp;C
-132:49](https://www.lds.org/scriptures/dc-testament/dc/132.49?lang=eng#48).)
+of my Father, with Abraham your father." ([D&amp;C 132:49](/scriptures/dc-
+testament/dc/132.49?lang=eng#48).)
 
 _Blessing ten: We have the power--and it is our privilege--so to live, that
 becoming pure in heart, we shall see the face of God while we yet dwell as
@@ -234,8 +229,7 @@ no respecter of persons to all the faithful in his kingdom.
 "Verily, thus saith the Lord: It shall come to pass that every soul who
 forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my
 voice, and keepeth my commandments, shall see my face and know that I am."
-([D&amp;C 93:1](https://www.lds.org/scriptures/dc-
-testament/dc/93.1?lang=eng#0).)
+([D&amp;C 93:1](/scriptures/dc-testament/dc/93.1?lang=eng#0).)
 
 "And again, verily I say unto you that it is your privilege, and a promise I
 give unto you that have been ordained unto this ministry"--he is speaking now
@@ -253,8 +247,7 @@ carnal mind.
 
 "Ye are not able to abide the presence of God now, neither the ministering of
 angels; wherefore, continue in patience until ye are perfected." ([D&amp;C
-67:10-13](https://www.lds.org/scriptures/dc-
-testament/dc/67.10-13?lang=eng#9).)
+67:10-13](/scriptures/dc-testament/dc/67.10-13?lang=eng#9).)
 
 These, then, are _the ten blessings of the priesthood, the Holy Priesthood,
 after the order of the Son of God,_ the priesthood which the saints in ancient
@@ -309,4 +302,6 @@ which men can confer.
 
 God grant that we may keep the commandments and be inheritors of all that a
 gracious Lord promises his people. In the name of Jesus Christ, amen.
+
+## References
 

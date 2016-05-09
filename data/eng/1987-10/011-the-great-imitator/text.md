@@ -19,7 +19,7 @@ subtle and more open. It will be masked in greater sophistication and cunning,
 but it will also be more blatant. We will need greater spirituality to
 perceive all of the forms of evil and greater strength to resist it. But the
 disappointments and setbacks to the work of God will be temporary, for the
-work will go forward (see [D&amp;C 65:2](https://www.lds.org/scriptures/dc-
+work will go forward (see [D&amp;C 65:2](/scriptures/dc-
 testament/dc/65.2?lang=eng#1)).
 
 It is not good practice to become intrigued by Satan and his mysteries. No
@@ -38,19 +38,19 @@ evil in the world, it would therefore be essential to realize that he is the
 influence behind the opposition to the work of God. Alma stated the issue
 succinctly: "For I say unto you that whatsoever is good cometh from God, and
 whatsoever is evil cometh from the devil" ([Alma
-5:40](https://www.lds.org/scriptures/bofm/alma/5.40?lang=eng#39)).
+5:40](/scriptures/bofm/alma/5.40?lang=eng#39)).
 
 My principal reason for choosing this subject is to help young people by
 warning them, as Paul said, "lest Satan should get an advantage of us: for we
 are not ignorant of his devices" ([2 Cor.
-2:11](https://www.lds.org/scriptures/nt/2-cor/2.11?lang=eng#10)). We hope that
-young people, unfamiliar with the sophistries of the world, can keep
-themselves free of Satan's enticements and deceitful ways. I personally claim
-no special insight into Satan's methods, but I have at times been able to
-identify his influence and his actions in my life and in the lives of others.
-When I was on my first mission, Satan sought to divert me from my future path
-and, if possible, to destroy my usefulness in the Lord's work. That was almost
-fifty years ago, and I still remember how reasonable his entreaties seemed.
+2:11](/scriptures/nt/2-cor/2.11?lang=eng#10)). We hope that young people,
+unfamiliar with the sophistries of the world, can keep themselves free of
+Satan's enticements and deceitful ways. I personally claim no special insight
+into Satan's methods, but I have at times been able to identify his influence
+and his actions in my life and in the lives of others. When I was on my first
+mission, Satan sought to divert me from my future path and, if possible, to
+destroy my usefulness in the Lord's work. That was almost fifty years ago, and
+I still remember how reasonable his entreaties seemed.
 
 Who has not heard and felt the enticings of the devil? His voice often sounds
 so reasonable and his message so easy to justify. It is an enticing,
@@ -63,8 +63,8 @@ Shakespeare wrote, "The prince of darkness is a gentleman" (_King Lear,_ act
 Merchant of Venice,_ act 1, sc. 3, line 95). As the great deceiver, Lucifer
 has marvelous powers of deception. As Paul said to the Corinthians, "And no
 marvel; for Satan himself is transformed into an angel of light" ([2 Cor.
-11:14](https://www.lds.org/scriptures/nt/2-cor/11.14?lang=eng#13); see also [2
-Ne. 9:9](https://www.lds.org/scriptures/bofm/2-ne/9.9?lang=eng#8)).
+11:14](/scriptures/nt/2-cor/11.14?lang=eng#13); see also [2 Ne.
+9:9](/scriptures/bofm/2-ne/9.9?lang=eng#8)).
 
 Some of Satan's most appealing lines are "Everyone does it"; "If it doesn't
 hurt anybody else, it's all right"; "If you feel all right about it, it's OK";
@@ -79,12 +79,11 @@ our stopping mechanism becomes weak and ineffective.
 The prince of darkness can be found everywhere. He is often in very good
 company. Job said, "Again there was a day when the sons of God came to present
 themselves before the Lord, and Satan came also among them to present himself
-before the Lord" ([Job
-2:1](https://www.lds.org/scriptures/ot/job/2.1?lang=eng#0)). His influence is
-everywhere: "And the Lord said unto Satan, From whence comest thou? And Satan
-answered the Lord, and said, From going to and fro in the earth, and from
-walking up and down in it" ([Job
-2:2](https://www.lds.org/scriptures/ot/job/2.2?lang=eng#1)).
+before the Lord" ([Job 2:1](/scriptures/ot/job/2.1?lang=eng#0)). His influence
+is everywhere: "And the Lord said unto Satan, From whence comest thou? And
+Satan answered the Lord, and said, From going to and fro in the earth, and
+from walking up and down in it" ([Job
+2:2](/scriptures/ot/job/2.2?lang=eng#1)).
 
 Nephi has given to us the pattern or formula by which Satan operates:
 
@@ -96,7 +95,7 @@ devil cheateth their souls, and leadeth them away carefully down to hell.
 he saith unto them: I am no devil, for there is none--and thus he whispereth
 in their ears, until he grasps them with his awful chains, from whence there
 is no deliverance" ([2 Ne.
-28:21-22](https://www.lds.org/scriptures/bofm/2-ne/28.21-22?lang=eng#20)).
+28:21-22](/scriptures/bofm/2-ne/28.21-22?lang=eng#20)).
 
 The First Presidency described Satan: "He is working under such perfect
 disguise that many do not recognize either him or his methods. There is no
@@ -107,37 +106,33 @@ sheep's clothing" (_Messages of the First Presidency,_ comp. James R. Clark, 6
 vols., Salt Lake City: Bookcraft, 1965-75, 6:179).
 
 Satan is the world's master in the use of flattery, and he knows the great
-power of speech (see [Jacob
-7:4](https://www.lds.org/scriptures/bofm/jacob/7.4?lang=eng#3)). He has always
-been one of the great forces of the world.
+power of speech (see [Jacob 7:4](/scriptures/bofm/jacob/7.4?lang=eng#3)). He
+has always been one of the great forces of the world.
 
 We just recently heard President Ernest LeRoy Hatch of the Guatemala City
 Temple say, "The devil is not smart because he is the devil; he is smart
 because he is old." Indeed, the devil is old, and he was not always the devil.
 Initially, he was not the perpetrator of evil. He was with the hosts of heaven
 in the beginning. He was "an angel of God who was in authority in the presence
-of God" ([D&amp;C 76:25](https://www.lds.org/scriptures/dc-
-testament/dc/76.25?lang=eng#24)). He came before Christ and proposed to God
-the Father, "Behold, here am I, send me, I will be thy son, and I will redeem
-all mankind, that one soul shall not be lost, and surely I will do it;
-wherefore give me thine honor" ([Moses
-4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0)). This he
-proposed to do by force, destroying the free agency of man. Does his statement
-"Give me thine honor" mean that he wanted to mount an insurrection to supplant
-even God the Father?
+of God" ([D&amp;C 76:25](/scriptures/dc-testament/dc/76.25?lang=eng#24)). He
+came before Christ and proposed to God the Father, "Behold, here am I, send
+me, I will be thy son, and I will redeem all mankind, that one soul shall not
+be lost, and surely I will do it; wherefore give me thine honor" ([Moses
+4:1](/scriptures/pgp/moses/4.1?lang=eng#0)). This he proposed to do by force,
+destroying the free agency of man. Does his statement "Give me thine honor"
+mean that he wanted to mount an insurrection to supplant even God the Father?
 
 Satan became the devil by seeking glory, power, and dominion by force (see
-[Moses 4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2)). But
-Jesus, chosen "from the beginning" ([Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1)), said unto God,
-"Father, thy will be done, and the glory be thine forever" ([Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1)). What a
-contrast in approaches! Wrong as his plan was, Satan was persuasive enough to
-entice one-third of the hosts of heaven to follow him (see [D&amp;C
-29:36](https://www.lds.org/scriptures/dc-testament/dc/29.36?lang=eng#35);
-[Rev. 12:4](https://www.lds.org/scriptures/nt/rev/12.4?lang=eng#3)). He
-practiced a great deception by saying, "I am also a son of God" ([Moses
-5:13](https://www.lds.org/scriptures/pgp/moses/5.13?lang=eng#12)).
+[Moses 4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2)). But Jesus, chosen
+"from the beginning" ([Moses 4:2](/scriptures/pgp/moses/4.2?lang=eng#1)), said
+unto God, "Father, thy will be done, and the glory be thine forever" ([Moses
+4:2](/scriptures/pgp/moses/4.2?lang=eng#1)). What a contrast in approaches!
+Wrong as his plan was, Satan was persuasive enough to entice one-third of the
+hosts of heaven to follow him (see [D&amp;C 29:36](/scriptures/dc-
+testament/dc/29.36?lang=eng#35); [Rev.
+12:4](/scriptures/nt/rev/12.4?lang=eng#3)). He practiced a great deception by
+saying, "I am also a son of God" ([Moses
+5:13](/scriptures/pgp/moses/5.13?lang=eng#12)).
 
 Free agency, given us through the plan of our Father, is the great alternative
 to Satan's plan of force. With this sublime gift, we can grow, improve,
@@ -147,27 +142,24 @@ develop by learning from our mistakes and errors and those of others.
 Because of his rebellion, Lucifer was cast out and became Satan, the devil,
 "the father of all lies, to deceive and to blind men, and to lead them captive
 at his will, even as many as would not hearken unto my voice" ([Moses
-4:4](https://www.lds.org/scriptures/pgp/moses/4.4?lang=eng#3)). And so this
-personage who was an angel of God and in authority, even in the presence of
-God, was removed from the presence of God and his Son (see [D&amp;C
-76:25](https://www.lds.org/scriptures/dc-testament/dc/76.25?lang=eng#24)).
-This caused great sadness in the heavens, "for the heavens wept over him--he
-was Lucifer, a son of the morning" ([D&amp;C
-76:26](https://www.lds.org/scriptures/dc-testament/dc/76.26?lang=eng#25)).
-Does this not place some responsibility on the followers of Christ to show
-concern for loved ones who have lost their way and "are shut out from the
-presence of God" (see [Moses
-6:49](https://www.lds.org/scriptures/pgp/moses/6.49?lang=eng#48))? I know of
-no better help than to show unconditional love and help lost souls seek
-another path.
+4:4](/scriptures/pgp/moses/4.4?lang=eng#3)). And so this personage who was an
+angel of God and in authority, even in the presence of God, was removed from
+the presence of God and his Son (see [D&amp;C 76:25](/scriptures/dc-
+testament/dc/76.25?lang=eng#24)). This caused great sadness in the heavens,
+"for the heavens wept over him--he was Lucifer, a son of the morning"
+([D&amp;C 76:26](/scriptures/dc-testament/dc/76.26?lang=eng#25)). Does this
+not place some responsibility on the followers of Christ to show concern for
+loved ones who have lost their way and "are shut out from the presence of God"
+(see [Moses 6:49](/scriptures/pgp/moses/6.49?lang=eng#48))? I know of no
+better help than to show unconditional love and help lost souls seek another
+path.
 
 Satan does, however, perform an important negative function. In the book of 2
 Nephi we are told, "For it must needs be, that there is an opposition in all
-things" ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10)). However,
-Peter warns, "Be sober, be vigilant; because your adversary the devil, as a
-roaring lion, walketh about, seeking whom he may devour" ([1 Pet.
-5:8](https://www.lds.org/scriptures/nt/1-pet/5.8?lang=eng#7)).
+things" ([2 Ne. 2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10)). However, Peter
+warns, "Be sober, be vigilant; because your adversary the devil, as a roaring
+lion, walketh about, seeking whom he may devour" ([1 Pet.
+5:8](/scriptures/nt/1-pet/5.8?lang=eng#7)).
 
 Let us not become so intense in our zeal to do good by winning arguments or by
 our pure intention in disputing doctrine that we go beyond good sense and
@@ -204,10 +196,10 @@ However, we need not become paralyzed with fear of Satan's power. He can have
 no power over us unless we permit it. He is really a coward, and if we stand
 firm, he will retreat. The Apostle James counseled: "Submit yourselves
 therefore to God. Resist the devil, and he will flee from you" ([James
-4:7](https://www.lds.org/scriptures/nt/james/4.7?lang=eng#6)). He cannot know
-our thoughts unless we speak them. And Nephi states that "he hath no power
-over the hearts" of people who are righteous (see [1 Ne.
-22:26](https://www.lds.org/scriptures/bofm/1-ne/22.26?lang=eng#25)).
+4:7](/scriptures/nt/james/4.7?lang=eng#6)). He cannot know our thoughts unless
+we speak them. And Nephi states that "he hath no power over the hearts" of
+people who are righteous (see [1 Ne.
+22:26](/scriptures/bofm/1-ne/22.26?lang=eng#25)).
 
 We have heard comedians and others justify or explain their misdeeds by
 saying, "The devil made me do it." I do not really think the devil can make us
@@ -238,15 +230,14 @@ living prophets.
 
 This personal revelation will surely come to all whose eyes are single to the
 glory of God, for it is promised that their bodies will be "filled with light,
-and there shall be no darkness" in them ([D&amp;C
-88:67](https://www.lds.org/scriptures/dc-testament/dc/88.67?lang=eng#66)).
-Satan's efforts can be thwarted by all who come unto Christ by obedience to
-the covenants and ordinances of the gospel. The humble followers of the divine
-Master need not be deceived by the devil if they will be honest and true to
-their fellow men and women, go to the house of the Lord, receive the sacrament
-worthily, observe the Sabbath day, pay their tithes and offerings, offer
-contrite prayers, engage in the Lord's work, and follow those who preside over
-them.
+and there shall be no darkness" in them ([D&amp;C 88:67](/scriptures/dc-
+testament/dc/88.67?lang=eng#66)). Satan's efforts can be thwarted by all who
+come unto Christ by obedience to the covenants and ordinances of the gospel.
+The humble followers of the divine Master need not be deceived by the devil if
+they will be honest and true to their fellow men and women, go to the house of
+the Lord, receive the sacrament worthily, observe the Sabbath day, pay their
+tithes and offerings, offer contrite prayers, engage in the Lord's work, and
+follow those who preside over them.
 
 I wish to testify that there are forces which will save us from the ever-
 increasing lying, disorder, violence, chaos, destruction, misery, and deceit
@@ -265,4 +256,6 @@ world. I also pray that God will overlook our weaknesses, our frailties, and
 our many shortcomings and generously forgive us of our misdeeds. I further
 pray that He will bring solace to the suffering, comfort to those who grieve,
 and peace to the brokenhearted, in the holy name of Jesus Christ, amen.
+
+## References
 

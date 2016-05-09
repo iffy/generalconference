@@ -127,7 +127,7 @@ responsibilities of his office. You are too young for such responsibility? The
 apostle Paul sensed something of the inadequacy young men feel when they are
 thrust into leadership. He counseled his young "son in the faith," Timothy,
 "Let no man despise thy youth. ..." ([1 Tim.
-4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).)
+4:12](/scriptures/nt/1-tim/4.12?lang=eng#11).)
 
 Dana Miller was approaching his twelfth birthday, looking forward to becoming
 a deacon. One evening, just prior to his birthday, the front doorbell rang.
@@ -142,7 +142,7 @@ with that kind of an introduction to the priesthood and example from his
 leaders?
 
 The Lord has assured us, "For the power is in them, wherein they are agents
-unto themselves." ([D&amp;C 58:28](https://www.lds.org/scriptures/dc-
+unto themselves." ([D&amp;C 58:28](/scriptures/dc-
 testament/dc/58.28?lang=eng#27).)
 
 My beloved young brethren, why are we so anxious to have you assume
@@ -159,9 +159,8 @@ in this day, may God bless you with an understanding of who you are and bless
 you with a knowledge and understanding of the mission that he has in store for
 you. May your lives reflect that you are disciples of Jesus Christ, and may
 you, like our elder brother, grow in "wisdom and stature, and in favour with
-God and man" ([Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51)), that you will
-be prepared for the awesome responsibilities that he has before you. I
+God and man" ([Luke 2:52](/scriptures/nt/luke/2.52?lang=eng#51)), that you
+will be prepared for the awesome responsibilities that he has before you. I
 challenge you to do so, to honor your priesthood and to show these good
 brethren of ours, who are placing increased responsibility on you as bearers
 of the priesthood, that you are worthy of that honor.
@@ -172,4 +171,6 @@ experience the joys and the sorrows of life that you can return to him and be
 prepared for even greater service. May God bless all of us who render service
 to him. May we honor our priesthood and truly represent his cause, I pray
 humbly in the name of Jesus Christ. Amen.
+
+## References
 

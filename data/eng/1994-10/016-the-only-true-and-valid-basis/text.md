@@ -69,9 +69,8 @@ coordinates and crashed into Mount Erebus at the South Pole.
 
 The gospel of Jesus Christ is the _only true and valid basis_ for our lives.
 If we enter it into our system--into "all [our] heart, might, mind and
-strength" ([D&amp;C 4:2](https://www.lds.org/scriptures/dc-
-testament/dc/4.2?lang=eng#1))--we will know how to choose the right and to
-whom to listen.
+strength" ([D&amp;C 4:2](/scriptures/dc-testament/dc/4.2?lang=eng#1))--we will
+know how to choose the right and to whom to listen.
 
 On long-range flights, the shortwave radio frequencies are often crowded and
 static distorts the messages. The same is true for our lives. Everybody wants
@@ -90,4 +89,6 @@ Jesus Christ, the Son of God, made the miracle of forgiveness and redemption
 possible. This is truly the Church of Jesus Christ; it proclaims a gospel of
 joy, hope, courage, truth, love, and miracles. This I bear humble witness of
 in the name of Jesus Christ, amen.
+
+## References
 

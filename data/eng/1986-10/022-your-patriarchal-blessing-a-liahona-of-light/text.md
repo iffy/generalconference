@@ -1,4 +1,4 @@
-# Your Patriarchal Blessing: A Liahona of Light
+# Your Patriarchal Blessing:A Liahona of Light
 
 Have you ever cleaned an attic or rummaged through an old storeroom? One
 discovers a bit of history and a whole lot of sentiment. A few weeks ago we
@@ -31,15 +31,14 @@ morning of the historic trek:
 the tent door, to his great astonishment he beheld upon the ground a round
 ball of curious workmanship; and it was of fine brass. And within the ball
 were two spindles; and the one pointed the way whither we should go into the
-wilderness" ([1 Ne.
-16:10](https://www.lds.org/scriptures/bofm/1-ne/16.10?lang=eng#9)).
+wilderness" ([1 Ne. 16:10](/scriptures/bofm/1-ne/16.10?lang=eng#9)).
 
 War and man-made means of destruction could not confuse or destroy this
 curious compass. Neither could the sudden desert sandstorms render useless its
 guiding powers. The prophet Alma explained that this "Liahona," as it was
 called, was a compass prepared by the Lord. It worked for them according to
 their faith and pointed the way they should go (see [Alma
-37:38-40](https://www.lds.org/scriptures/bofm/alma/37.38-40?lang=eng#37)).
+37:38-40](/scriptures/bofm/alma/37.38-40?lang=eng#37)).
 
 The same Lord who provided a Liahona Lehi provides for you and for me today a
 rare and valuable gift to give direction to our lives, to mark the hazards to
@@ -107,7 +106,7 @@ your thoughts, neither are your ways my ways, saith the Lord.
 
 "For as the heavens are higher than the earth, so are my ways higher than your
 ways, and my thoughts than your thoughts" ([Isa.
-55:8-9](https://www.lds.org/scriptures/ot/isa/55.8-9?lang=eng#7)).
+55:8-9](/scriptures/ot/isa/55.8-9?lang=eng#7)).
 
 Your patriarchal blessing is yours and yours alone. It may be brief or
 lengthy, simple or profound. Length and language do not a patriarchal blessing
@@ -176,4 +175,6 @@ _It's right where you are._
 Your patriarchal blessing is your passport to peace in this life. It is a
 Liahona of light to guide you unerringly to your heavenly home. Of these
 sacred truths I testify, in the name of Jesus Christ, amen.
+
+## References
 

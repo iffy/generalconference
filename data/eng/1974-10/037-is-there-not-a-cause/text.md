@@ -11,11 +11,11 @@ the eternal life of man. The plan was to teach the people righteousness and
 permit them to exercise their free agency, choosing for themselves which way
 they would go. Jesus Christ espoused the plan saying, "Father, thy will be
 done, and the glory be thine forever." ([Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).) But Lucifer
-proposed to amend the plan of the Father saying, "Here am I, send me, I will
-be thy son, and I will redeem all mankind, that one soul shall not be lost,
-and surely I will do it; wherefore give me thine honor." ([Moses
-4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0).)
+4:2](/scriptures/pgp/moses/4.2?lang=eng#1).) But Lucifer proposed to amend the
+plan of the Father saying, "Here am I, send me, I will be thy son, and I will
+redeem all mankind, that one soul shall not be lost, and surely I will do it;
+wherefore give me thine honor." ([Moses
+4:1](/scriptures/pgp/moses/4.1?lang=eng#0).)
 
 One-third of the hosts of heaven followed Satan. It was at this point that the
 greatest of all wars began. It has raged ever since with Satan as the
@@ -31,7 +31,7 @@ that he should be cast down;
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
 not hearken unto my voice." ([Moses
-4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).)
+4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2).)
 
 From the multitudes who would not hearken to the voice of the Lord and have
 been led captive at Satan's will, it would seem that Satan has achieved some
@@ -44,7 +44,7 @@ mountain on the other side: and there was a valley between them.
 
 "And there went out a champion out of the camp of the Philistines, named
 Goliath, of Gath, whose height was six cubits and a span." ([1 Sam.
-17:3-4](https://www.lds.org/scriptures/ot/1-sam/17.3-4?lang=eng#2).)
+17:3-4](/scriptures/ot/1-sam/17.3-4?lang=eng#2).)
 
 His armor and his weapons were in the same gigantic proportions to his unusual
 size. For forty days he taunted the Israelites: "Give me a man, that we may
@@ -52,14 +52,14 @@ fight together.
 
 "When Saul and all Israel heard those words of the Philistine, they were
 dismayed, and greatly afraid." ([1 Sam.
-17:10-11](https://www.lds.org/scriptures/ot/1-sam/17.10-11?lang=eng#9).)
+17:10-11](/scriptures/ot/1-sam/17.10-11?lang=eng#9).)
 
 It was at this time that a young shepherd boy named David came on the scene.
 He witnessed the brazenness of the giant and the fear of the Israelites. He
 approached his brothers in the ranks, inquiring as to what was happening. His
 eldest brother criticized him for leaving the sheep, whereupon David said,
 "What have I now done? Is there not a cause?" ([1 Sam.
-17:29](https://www.lds.org/scriptures/ot/1-sam/17.29?lang=eng#28).)
+17:29](/scriptures/ot/1-sam/17.29?lang=eng#28).)
 
 A youth asking his wavering adult leaders, "Is there not a cause?" There are
 thousands of young men and women today who are asking the same question: "Is
@@ -74,7 +74,7 @@ should rally to as he declares war on Satan and his legions. As David said to
 Goliath, so each youth should declare to Satan, "Thou comest to me with a
 sword, and with a spear, and with a shield: but I come to thee in the name of
 the Lord of hosts, the God of the armies of Israel, whom thou hast defied."
-([1 Sam. 17:45](https://www.lds.org/scriptures/ot/1-sam/17.45?lang=eng#44).)
+([1 Sam. 17:45](/scriptures/ot/1-sam/17.45?lang=eng#44).)
 
 In all this I have the greatest of faith in the outcome. Never before in
 history has there lived a more valiant generation of youth. I am convinced the
@@ -101,14 +101,13 @@ In putting on the whole armor of God, we must become acquainted with the
 Savior. At 14 Joseph Smith, in his quest for knowledge and wisdom, sought the
 Lord in prayer. God the Father and his Son Jesus Christ appeared to him in a
 vision. He saw two personages, one saying of the other, "This is My Beloved
-Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) This was the
-beginning of the restoration of the gospel of Jesus Christ to the earth. If we
-have faith, we can prepare ourselves through prayer and study and gain the
-same assurance Joseph Smith had that God lives and that he and his Son are
-separate personages. Jesus of Nazareth then will become the center of our
-lives. With this assurance, our cause cannot be hindered. Without it, we have
-no cause.
+Son. Hear Him!" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) This
+was the beginning of the restoration of the gospel of Jesus Christ to the
+earth. If we have faith, we can prepare ourselves through prayer and study and
+gain the same assurance Joseph Smith had that God lives and that he and his
+Son are separate personages. Jesus of Nazareth then will become the center of
+our lives. With this assurance, our cause cannot be hindered. Without it, we
+have no cause.
 
 Many battles have been lost because of difficulty in not always having a
 clearly defined battlefront. This is not the case in this war. There is but
@@ -153,8 +152,7 @@ and with all thy mind.
 "This is the first and great commandment.
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-([Matt.
-22:37-39](https://www.lds.org/scriptures/nt/matt/22.37-39?lang=eng#36).)
+([Matt. 22:37-39](/scriptures/nt/matt/22.37-39?lang=eng#36).)
 
 As we finally clothe ourselves with the whole armor of God, we will not be
 ashamed of the gospel of Jesus Christ but will be proud to be counted among
@@ -181,4 +179,6 @@ Is there a cause? Most assuredly there is. I challenge each young person in
 this church to grasp the banner and march shoulder to shoulder with his
 parents, his bishop, and other adult and youth leaders to a glorious victory
 in the kingdom of our Heavenly Father, in the name of Jesus Christ. Amen.
+
+## References
 

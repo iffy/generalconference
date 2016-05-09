@@ -4,7 +4,7 @@ My dear sisters, I believe that you, like our priesthood brethren, have been
 "called and prepared from the foundation of the world according to the
 foreknowledge of God, on account of ... exceeding faith and good works, ... having
 chosen good." Therefore you are "called with a holy calling." ([Alma
-13:3](https://www.lds.org/scriptures/bofm/alma/13.3?lang=eng#2).)
+13:3](/scriptures/bofm/alma/13.3?lang=eng#2).)
 
 We stand in awe at Mary's assignment to be the mother of the Lord, but we,
 too, have been called to mother gods. Latter-day Saint women understand that
@@ -14,8 +14,8 @@ children unto eternal life, it is also our work and our glory as mothers. That
 it is work, no mother will deny. That it is glory, our Father's greatest
 promises concern themselves with joy in posterity. "Wherefore, be not weary in
 well-doing, for ye are laying the foundation of a great work" ([D&amp;C
-64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32)).
-Indeed, there is none greater.
+64:33](/scriptures/dc-testament/dc/64.33?lang=eng#32)). Indeed, there is none
+greater.
 
 Our six children were young and completely dependent when my husband invited
 me to accompany him on a business trip. I had never before been far away from
@@ -76,4 +76,6 @@ Let us learn and then teach that the Lord has given us a prophet to guide us
 back to him; learn and then teach that Jesus is the Christ, that he lives, and
 that our only security lies in his arms. To this I testify in the holy name of
 Jesus Christ, amen.
+
+## References
 

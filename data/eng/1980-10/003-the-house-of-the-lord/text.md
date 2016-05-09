@@ -29,7 +29,7 @@ perspective about his personal relationship with his Maker and with the Savior
 --yes, special knowledge about God and Jesus Christ, which is essential to the
 obtaining of life eternal. "And this is life eternal, that they might know
 thee the only true God, and Jesus Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 The temple is a house of revelation--yes, continuing revelation. Whether that
 revelation be to a prophet or a member who seeks after truth, all who come to
@@ -57,19 +57,19 @@ The temple is a house of God where all of those declared worthy are extended
 the privilege of performing the sacred ordinances of the temple on behalf of
 their forebears, that in very deed the hearts of the children might be turned
 to their fathers, as foretold in the holy scriptures (see [Mal.
-4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5)). Like all of
-Heavenly Father's blessings for his children, the eventual realization is
-always on condition of faithfulness and conformity to priesthood principles.
+4:6](/scriptures/ot/mal/4.6?lang=eng#5)). Like all of Heavenly Father's
+blessings for his children, the eventual realization is always on condition of
+faithfulness and conformity to priesthood principles.
 
 The ultimate blessings of the temple are centered in the love and devotion
 between husband and wife. They must set the example--they are the core. The
 scriptures say it best of all: "Nevertheless neither is the man without the
 woman, neither the woman without the man, in the Lord" ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10)). Everything
-in this world that is counter to a tender and loyal husband-wife relationship
-is a tool of the adversary. Everything that promotes and perpetuates family
-unity--mother, father, and children properly endowed with and motivated by the
-light and truth of Christ--is in harmony with the Lord's plan for mortal man.
+11:11](/scriptures/nt/1-cor/11.11?lang=eng#10)). Everything in this world that
+is counter to a tender and loyal husband-wife relationship is a tool of the
+adversary. Everything that promotes and perpetuates family unity--mother,
+father, and children properly endowed with and motivated by the light and
+truth of Christ--is in harmony with the Lord's plan for mortal man.
 
 Husbands, love your wives; wives, honor your husbands. Look to the gospel for
 all solutions to your problems; be a proper example to your children. That is
@@ -118,8 +118,8 @@ authority to bind or seal on earth that which will be bound in heaven.
 
 "Whatsoever you seal on earth shall be sealed in heaven; and whatsoever you
 bind on earth, in my name and by my word, saith the Lord, it shall be
-eternally bound in the heavens" ([D&amp;C
-132:46](https://www.lds.org/scriptures/dc-testament/dc/132.46?lang=eng#45)).
+eternally bound in the heavens" ([D&amp;C 132:46](/scriptures/dc-
+testament/dc/132.46?lang=eng#45)).
 
 Now, let me introduce you to a group of twenty-five teenagers who have come to
 the temple at dawn to participate in the sacred ordinance of vicarious
@@ -128,9 +128,9 @@ bishop. You see, bishops today are bound by the same guidelines as bishops of
 old, who were also taught: "Who shall ascend into the hill of the Lord? or who
 shall stand in his holy place? He that hath clean hands, and a pure heart; who
 hath not lifted up his soul unto vanity, nor sworn deceitfully." ([Ps.
-24:3-4](https://www.lds.org/scriptures/ot/ps/24.3-4?lang=eng#2).) There has
-always been a standard in the house of the Lord: that standard is purity and
-cannot be compromised.
+24:3-4](/scriptures/ot/ps/24.3-4?lang=eng#2).) There has always been a
+standard in the house of the Lord: that standard is purity and cannot be
+compromised.
 
 These teenagers come in a spirit of reverence with the desire to do something
 for others who have lived before. One teenage girl made this comment: "Being
@@ -142,7 +142,7 @@ These teenagers were performing an ordinance that was practiced during Paul's
 ministry, for he wrote to the Saints of Corinth: "Else what shall they do
 which are baptized for the dead, if the dead rise not at all? why are they
 then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).)
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).)
 
 This vicarious work for the dead, which was obviously practiced during New
 Testament times as attested by Paul, was obviously an important ordinance
@@ -151,21 +151,21 @@ Proof of this is found in Paul's own words as he bears testimony to the
 Galatians: "But I certify you, brethren, that the gospel which was preached of
 me is not after man. For I neither received it of man, neither was I taught
 it, but by the revelation of Jesus Christ." ([Gal.
-1:11-12](https://www.lds.org/scriptures/nt/gal/1.11-12?lang=eng#10).)
+1:11-12](/scriptures/nt/gal/1.11-12?lang=eng#10).)
 
 Thousands work long hours in the temples to perform not only baptisms but
 other vicarious ordinances as well for those who had not the opportunity while
 in mortality. "If it were not so," the scriptures attest, "the whole earth
 would be utterly wasted at his coming" ([JS--H
-1:39](https://www.lds.org/scriptures/pgp/js-h/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/js-h/1.39?lang=eng#38)).
 
 The Savior had the power to provide immortality for the entire human race; we
 have the power to do vicarious work for only one at a time, but it is for the
 same glorious purpose and made possible by the same authority. Again, I quote
 the voice of the Lord: "For if you will that I give unto you a place in the
 celestial world, you must prepare yourselves by doing the things which I have
-commanded you and required of you" ([D&amp;C
-78:7](https://www.lds.org/scriptures/dc-testament/dc/78.7?lang=eng#6)).
+commanded you and required of you" ([D&amp;C 78:7](/scriptures/dc-
+testament/dc/78.7?lang=eng#6)).
 
 May I declare without apology that every living person should seek earnestly
 for the blessings of the temple as his ultimate goal. For there you will find
@@ -176,11 +176,13 @@ unselfish--a rarity in today's world.
 
 I conclude with the loving counsel of the Savior, who said, "Therefore, fear
 not, little flock; do good; let earth and hell combine against you, for if ye
-are built upon my rock, they cannot prevail" ([D&amp;C
-6:34](https://www.lds.org/scriptures/dc-testament/dc/6.34?lang=eng#33)).
+are built upon my rock, they cannot prevail" ([D&amp;C 6:34](/scriptures/dc-
+testament/dc/6.34?lang=eng#33)).
 
 There is no foundation more secure than the temple. The work accomplished
 there transcends all other human effort. May we remove all obstacles to
 realize temple blessings; for I testify, He waits there for each of us, His
 children. In the name of Jesus Christ, amen.
+
+## References
 

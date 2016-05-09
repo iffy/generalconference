@@ -103,13 +103,13 @@ The scriptures contain many affirmations that hymn singing is a glorious way
 to worship. Before the Savior and his Apostles left the upper room where they
 had the sublime experience of the Last Supper, they sang a hymn. After their
 hymn, the Savior led them to the Mount of Olives (see [Matt.
-26:30](https://www.lds.org/scriptures/nt/matt/26.30?lang=eng#29)).
+26:30](/scriptures/nt/matt/26.30?lang=eng#29)).
 
 The Apostle Paul advised the Colossians that they should be "teaching and
 admonishing one another in psalms and hymns and spiritual songs, singing with
 grace in your hearts to the Lord" ([Col.
-3:16](https://www.lds.org/scriptures/nt/col/3.16?lang=eng#15); see also [Alma
-26:8](https://www.lds.org/scriptures/bofm/alma/26.8?lang=eng#7)).
+3:16](/scriptures/nt/col/3.16?lang=eng#15); see also [Alma
+26:8](/scriptures/bofm/alma/26.8?lang=eng#7)).
 
 Modern revelation reaffirms the importance of sacred music. In one of the
 earliest revelations given through the Prophet Joseph Smith, the Lord
@@ -118,13 +118,12 @@ given thee, which is pleasing unto me, to be had in my church.
 
 "For my soul delighteth in the song of the heart; yea, the song of the
 righteous is a prayer unto me, and it shall be answered with a blessing upon
-their heads" ([D&amp;C 25:11-12](https://www.lds.org/scriptures/dc-
+their heads" ([D&amp;C 25:11-12](/scriptures/dc-
 testament/dc/25.11-12?lang=eng#10)).
 
 In a revelation given through another prophet a generation later, the Lord
 commanded his people to "praise the Lord with singing, [and] with music"
-([D&amp;C 136:28](https://www.lds.org/scriptures/dc-
-testament/dc/136.28?lang=eng#27)).
+([D&amp;C 136:28](/scriptures/dc-testament/dc/136.28?lang=eng#27)).
 
 This direction to praise the Lord with singing is not limited to large
 meetings. When the Lord's Apostles meet in modern times, the singing of hymns
@@ -254,10 +253,12 @@ effective way to worship our Heavenly Father and his Son, Jesus Christ. We
 should use hymns when we need spiritual strength and inspiration.
 
 We who have "felt to sing the song of redeeming love" ([Alma
-5:26](https://www.lds.org/scriptures/bofm/alma/5.26?lang=eng#25)) need to keep
-singing that we may draw ever closer to him who has inspired sacred music and
-commanded that it be used to worship him. May we be diligent in doing so is my
-humble prayer, which I offer with a testimony of the truthfulness of the
-gospel of Jesus Christ and of the divine calling of those we have sustained
-today. In the name of Jesus Christ, amen.
+5:26](/scriptures/bofm/alma/5.26?lang=eng#25)) need to keep singing that we
+may draw ever closer to him who has inspired sacred music and commanded that
+it be used to worship him. May we be diligent in doing so is my humble prayer,
+which I offer with a testimony of the truthfulness of the gospel of Jesus
+Christ and of the divine calling of those we have sustained today. In the name
+of Jesus Christ, amen.
+
+## References
 

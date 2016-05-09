@@ -45,11 +45,10 @@ At baptism, we demonstrate that we "are willing to bear one another's burdens,
 that they may be light; ... mourn with those that mourn; ... comfort those that
 stand in need of comfort, and ... stand as witnesses of God at all times and in
 all things, and in all places" ([Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7)). And
-that's just the beginning! In the temple, we further covenant to be obedient,
-to sacrifice, to keep ourselves worthily pure, to contribute to the spreading
-of truth, to be chaste, to pray, to live the gospel, and to be forever
-faithful.
+18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7)). And that's just the
+beginning! In the temple, we further covenant to be obedient, to sacrifice, to
+keep ourselves worthily pure, to contribute to the spreading of truth, to be
+chaste, to pray, to live the gospel, and to be forever faithful.
 
 Father in Heaven knows us as individuals. The covenants we make with Him are
 performed one on one. President Howard W. Hunter noted: "I have always been
@@ -91,8 +90,7 @@ because she remained faithful to her covenants.
 There are both stormy seas and calm waters in life. But as Ether tells us,
 "Hope cometh of faith, [and] maketh an anchor to the souls of men, which would
 make them sure and steadfast, always abounding in good works, being led to
-glorify God" ([Ether
-12:4](https://www.lds.org/scriptures/bofm/ether/12.4?lang=eng#3)). Covenants
+glorify God" ([Ether 12:4](/scriptures/bofm/ether/12.4?lang=eng#3)). Covenants
 anchor us to solid ground, which, amidst the storms, makes our promises _not
 only meaningful for eternity but vital for today._ Have your covenants moved
 you to sing the song of redeeming love?
@@ -121,10 +119,9 @@ keeps Satan away."
 What are the rewards of covenant keeping? Gentle-hearted King Benjamin said:
 "Because of the covenant which ye have made ye shall be called the children of
 Christ. ... And under this head ye are made free" ([Mosiah
-5:7-8](https://www.lds.org/scriptures/bofm/mosiah/5.7-8?lang=eng#6)). And we
-will "be redeemed of God, and be numbered with those of the first
-resurrection, that [we] may have eternal life" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)).
+5:7-8](/scriptures/bofm/mosiah/5.7-8?lang=eng#6)). And we will "be redeemed of
+God, and be numbered with those of the first resurrection, that [we] may have
+eternal life" ([Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)).
 
 Brothers and sisters, covenant keeping will help you recall the One with whom
 you're yoked, and your burden will be lighter.
@@ -149,4 +146,6 @@ walk uprightly and steadfastly, that when we most need the Lord's hand, it
 will be there waiting warmly. I treasure the covenants He has made with me and
 with all my heart hope to live faithful to them. In the name of Jesus Christ,
 amen.
+
+## References
 

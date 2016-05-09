@@ -11,8 +11,7 @@ believe on [him] through their word;
 
 "That they all may be one; as thou, Father, art in me, and I in thee, that
 they also may be one in us: that the world may believe that thou hast sent
-me." ([John
-17:20-21](https://www.lds.org/scriptures/nt/john/17.20-21?lang=eng#19).)
+me." ([John 17:20-21](/scriptures/nt/john/17.20-21?lang=eng#19).)
 
 Always the aim has been unity, oneness, and equality among the members of the
 Church of Christ. As an example, I call your attention to the record of Enoch,
@@ -29,9 +28,7 @@ Lord, which was upon his people. And the Lord blessed the land. ...
 
 "And the Lord called his people Zion." Why? "_Because they were of one heart
 and one mind, and dwelt in righteousness; and there was no poor among them."_
-([Moses
-7:15-18](https://www.lds.org/scriptures/pgp/moses/7.15-18?lang=eng#14);
-italics added.)
+([Moses 7:15-18](/scriptures/pgp/moses/7.15-18?lang=eng#14); italics added.)
 
 During his mortal ministry Jesus taught his disciples the same doctrine. After
 his ascension, "they were all filled with the Holy Ghost, and they spake the
@@ -40,7 +37,7 @@ word of God with boldness.
 "And the multitude of them that believed were of one heart and of one soul:
 neither said any of them that ought of the things which he possessed was his
 own; but they had all things common." ([Acts
-4:31-32](https://www.lds.org/scriptures/nt/acts/4.31-32?lang=eng#30).)
+4:31-32](/scriptures/nt/acts/4.31-32?lang=eng#30).)
 
 After the resurrected Savior's ministry among the Nephites, they "were all
 converted unto the Lord, upon all the face of the land, both Nephites and
@@ -49,14 +46,12 @@ every man did deal justly one with another.
 
 "_And they had all things common among them; therefore there were not rich and
 poor, bond and free, but they were all made free, and partakers of the
-heavenly gift."_ ([4 Ne.
-1:2-3](https://www.lds.org/scriptures/bofm/4-ne/1.2-3?lang=eng#1); italics
-added.)
+heavenly gift."_ ([4 Ne. 1:2-3](/scriptures/bofm/4-ne/1.2-3?lang=eng#1);
+italics added.)
 
 Today _we_ are the Church of Christ, and the Lord expects us to come to this
 same unity. He has said to _us:_ "Be one; and if ye are not one ye are not
-mine." ([D&amp;C 38:27](https://www.lds.org/scriptures/dc-
-testament/dc/38.27?lang=eng#26).)
+mine." ([D&amp;C 38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26).)
 
 Some members assume that one can be in full harmony with the spirit of the
 gospel, enjoy full fellowship in the Church, and at the same time be out of
@@ -80,15 +75,15 @@ doctrine, as there have hitherto been.
 "For verily, verily I say unto you, he that hath the spirit of contention is
 not of me, but is of the devil, who is the father of contention, and he
 stirreth up the hearts of men to contend with anger, one with another." ([3
-Ne. 11:28-29](https://www.lds.org/scriptures/bofm/3-ne/11.28-29?lang=eng#27).)
+Ne. 11:28-29](/scriptures/bofm/3-ne/11.28-29?lang=eng#27).)
 
 There is but one way that we can be united, and that way is to seek the Lord
 and his righteousness. (See [3 Ne.
-13:33](https://www.lds.org/scriptures/bofm/3-ne/13.33?lang=eng#32).) Unity
-comes by following the light from above. It does not come out of the
-confusions below. While men depend upon their own wisdom and walk in their own
-way, without the guidance of the Lord they cannot live in unity. Neither can
-they come to unity by following uninspired men.
+13:33](/scriptures/bofm/3-ne/13.33?lang=eng#32).) Unity comes by following the
+light from above. It does not come out of the confusions below. While men
+depend upon their own wisdom and walk in their own way, without the guidance
+of the Lord they cannot live in unity. Neither can they come to unity by
+following uninspired men.
 
 The way to unity is for us to learn the will of the Lord and then to do it.
 Until this basic principle is understood and observed, there will be no unity
@@ -107,14 +102,13 @@ earth. Listen to this ringing declaration:
 covenant;
 
 "They seek not the Lord to establish his righteousness, but every man walketh
-in his own way." ([D&amp;C 1:15-16](https://www.lds.org/scriptures/dc-
+in his own way." ([D&amp;C 1:15-16](/scriptures/dc-
 testament/dc/1.15-16?lang=eng#14).)
 
 Brethren and sisters, do not rely upon the counsel of men nor trust in the arm
-of flesh (see [D&amp;C 1:19](https://www.lds.org/scriptures/dc-
-testament/dc/1.19?lang=eng#18)), but seek the Lord to establish his
-righteousness (see [D&amp;C 1:16](https://www.lds.org/scriptures/dc-
-testament/dc/1.16?lang=eng#15)).
+of flesh (see [D&amp;C 1:19](/scriptures/dc-testament/dc/1.19?lang=eng#18)),
+but seek the Lord to establish his righteousness (see [D&amp;C
+1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15)).
 
 We of this Church can come to a unity and a oneness which will give us
 strength beyond anything we have yet enjoyed if we will obtain a sounder
@@ -128,10 +122,10 @@ it comes to us through the standard works and through the instructions of the
 living prophet and not harden our hearts, but humble ourselves and develop a
 real desire to understand its application to us in our own peculiar
 circumstances, and then ask the Lord in faith, believing that we shall receive
-(see [D&amp;C 18:18](https://www.lds.org/scriptures/dc-
-testament/dc/18.18?lang=eng#17)), all the while being diligent in keeping the
-commandments of the Lord, surely the path we should follow will be made known
-unto us, and we will be able to face the world as a solid unit.
+(see [D&amp;C 18:18](/scriptures/dc-testament/dc/18.18?lang=eng#17)), all the
+while being diligent in keeping the commandments of the Lord, surely the path
+we should follow will be made known unto us, and we will be able to face the
+world as a solid unit.
 
 Surely we need this unity and this strength in this day in which we live. We
 have a great opportunity, the opportunity to rise heavenward, to gain the
@@ -144,9 +138,11 @@ of men, we disown him.
 Only a united people, keeping God's commands, can expect the protection which
 he alone can give when the floods come, and the rains descend, and the winds
 blow, and beat upon our house. (See [Matt.
-7:25](https://www.lds.org/scriptures/nt/matt/7.25?lang=eng#24).)
+7:25](/scriptures/nt/matt/7.25?lang=eng#24).)
 
 It is my conviction that, since we are engaged in the Lord's work, we can
 accomplish everything he requires us to do if we will but be united. That we
 may so be, I pray, in the name of Jesus Christ, amen.
+
+## References
 

@@ -6,15 +6,14 @@ _obligations_ and endure to the end." The word _covenant_ is the subject of my
 message.
 
 The Lord told the ancients, "With thee will I establish my covenant." ([Gen.
-6:18](https://www.lds.org/scriptures/ot/gen/6.18?lang=eng#17).) He told the
-Nephites, "Ye are the children of the covenant." ([3 Ne.
-20:26](https://www.lds.org/scriptures/bofm/3-ne/20.26?lang=eng#25).) And he
-described the restored gospel as the _"new and ... everlasting covenant."_
-([D&amp;C 22:1](https://www.lds.org/scriptures/dc-
-testament/dc/22.1?lang=eng#0); italics added.) Every Latter-day Saint is under
-_covenant._ Baptism is a covenant; so is the sacrament. Through it we renew
-the covenant of baptism and commit to "always remember him and keep his
-commandments." ([D&amp;C 20:77](https://www.lds.org/scriptures/dc-
+6:18](/scriptures/ot/gen/6.18?lang=eng#17).) He told the Nephites, "Ye are the
+children of the covenant." ([3 Ne.
+20:26](/scriptures/bofm/3-ne/20.26?lang=eng#25).) And he described the
+restored gospel as the _"new and ... everlasting covenant."_ ([D&amp;C
+22:1](/scriptures/dc-testament/dc/22.1?lang=eng#0); italics added.) Every
+Latter-day Saint is under _covenant._ Baptism is a covenant; so is the
+sacrament. Through it we renew the covenant of baptism and commit to "always
+remember him and keep his commandments." ([D&amp;C 20:77](/scriptures/dc-
 testament/dc/20.77?lang=eng#76).)
 
 ## Three Dangerous Life-Styles
@@ -44,7 +43,7 @@ law. We are responsible for both.
 Some challenge us to show where the scriptures specifically forbid abortion or
 a gay-lesbian or drug-centered life-style. "If they are so wrong," they ask,
 "why don't the scriptures tell us so in 'letter of the law' plainness?" These
-issues are not ignored in the revelations. [*]  The scriptures are generally
+issues are not ignored in the revelations.* The scriptures are generally
 positive rather than negative in their themes, and it is a mistake to assume
 that anything not specifically prohibited in the "_letter_ of the law" is
 somehow approved of the Lord. All the Lord approves is not detailed in the
@@ -54,23 +53,22 @@ need a revelation to tell us that!
 
 The Lord said, "It is not meet that I should command in all things; for he
 that is compelled in all things, the same is a slothful and not a wise
-servant." ([D&amp;C 58:26](https://www.lds.org/scriptures/dc-
-testament/dc/58.26?lang=eng#25).) The prophets told us in the Book of Mormon
-that "men are instructed sufficiently that they know good from evil." ([2 Ne.
-2:5](https://www.lds.org/scriptures/bofm/2-ne/2.5?lang=eng#4); see [Hel.
-14:31](https://www.lds.org/scriptures/bofm/hel/14.31?lang=eng#30).)
+servant." ([D&amp;C 58:26](/scriptures/dc-testament/dc/58.26?lang=eng#25).)
+The prophets told us in the Book of Mormon that "men are instructed
+sufficiently that they know good from evil." ([2 Ne.
+2:5](/scriptures/bofm/2-ne/2.5?lang=eng#4); see [Hel.
+14:31](/scriptures/bofm/hel/14.31?lang=eng#30).)
 
 Life is meant to be a test to see if we will keep the commandments of God.
-(See [2 Ne. 2:5](https://www.lds.org/scriptures/bofm/2-ne/2.5?lang=eng#4).) We
-are free to obey or to ignore the spirit and the letter of the law. But the
-agency granted to man is a _moral_ agency. (See [D&amp;C
-101:78](https://www.lds.org/scriptures/dc-testament/dc/101.78?lang=eng#77).)
-We are not free to break our covenants and escape the consequences.
+(See [2 Ne. 2:5](/scriptures/bofm/2-ne/2.5?lang=eng#4).) We are free to obey
+or to ignore the spirit and the letter of the law. But the agency granted to
+man is a _moral_ agency. (See [D&amp;C 101:78](/scriptures/dc-
+testament/dc/101.78?lang=eng#77).) We are not free to break our covenants and
+escape the consequences.
 
 The laws of God are ordained to make us happy. Happiness cannot coexist with
 immorality: the prophet Alma told us in profound simplicity that "wickedness
-never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).)
+never was happiness." ([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9).)
 
 ## Right of Choice
 
@@ -101,8 +99,8 @@ In or out of marriage, abortion is not an individual choice. At a minimum,
 three lives are involved.
 
 The scriptures tell us: "Thou shalt not ... kill, nor do _anything_ like unto
-it." ([D&amp;C 59:6](https://www.lds.org/scriptures/dc-
-testament/dc/59.6?lang=eng#5); italics added.)
+it." ([D&amp;C 59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5); italics
+added.)
 
 Except where the wicked crime of incest or rape was involved, or where
 competent medical authorities certify that the life of the mother is in
@@ -141,9 +139,9 @@ I hope none of our young people will be foolish enough to accept those sources
 as authority for what the scriptures mean. Paul, speaking on this very
 subject, condemned those "who changed the truth of God into a lie, and
 worshipped and served the creature more than the Creator." ([Rom.
-1:25](https://www.lds.org/scriptures/nt/rom/1.25?lang=eng#24).) In that same
-reference the word _covenantbreakers_ is used for the only time in scripture.
-(See [Rom. 1:31](https://www.lds.org/scriptures/nt/rom/1.31?lang=eng#30).)
+1:25](/scriptures/nt/rom/1.25?lang=eng#24).) In that same reference the word
+_covenantbreakers_ is used for the only time in scripture. (See [Rom.
+1:31](/scriptures/nt/rom/1.31?lang=eng#30).)
 
 Some choose to reject the scriptures out of hand and forsake their covenants.
 But they cannot choose to avoid the consequences. That choice is not theirs or
@@ -206,7 +204,7 @@ believe?
 The Lord warned, "Whosoever shall offend one of these little ones that believe
 in me, it is better for him that a millstone were hanged about his neck, and
 he were cast into the sea." ([Mark
-9:42](https://www.lds.org/scriptures/nt/mark/9.42?lang=eng#41).)
+9:42](/scriptures/nt/mark/9.42?lang=eng#41).)
 
 ## Support Groups
 
@@ -256,8 +254,7 @@ reinstated, and you can be forgiven. Even for abortion? Yes, even that!
 
 "Come now, and let us reason together, saith the Lord: though your sins be as
 scarlet, they shall be as white as snow; though they be red like crimson, they
-shall be as wool." ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).)
+shall be as wool." ([Isa. 1:18](/scriptures/ot/isa/1.18?lang=eng#17).)
 
 God bless you who are struggling to resist or to free yourself from these
 terrible temptations that now sweep across the world, and from which we are
@@ -269,6 +266,4 @@ sacrificed himself that we might be clean. And of him I bear witness, in the
 name of Jesus Christ, amen.
 
 ## References
-
-  1.  See [Gen. 13:13](https://www.lds.org/scriptures/ot/gen/13.13?lang=eng#12) (footnote 13b); [Gen. 18:20-22](https://www.lds.org/scriptures/ot/gen/18.20-22?lang=eng#19) (footnote 20b); [Gen. 19:4-9](https://www.lds.org/scriptures/ot/gen/19.4-9?lang=eng#3) (footnote 5a); JST, Gen. 19:9-15; [Lev. 18:22, 29](https://www.lds.org/scriptures/ot/lev/18.22%2C29?lang=eng#21); [Lev. 20:13](https://www.lds.org/scriptures/ot/lev/20.13?lang=eng#12) (footnote 13a); [Deut. 23:17](https://www.lds.org/scriptures/ot/deut/23.17?lang=eng#16) (footnote 17b); [Rom. 1:24-27](https://www.lds.org/scriptures/nt/rom/1.24-27?lang=eng#23); [1 Cor. 6:9](https://www.lds.org/scriptures/nt/1-cor/6.9?lang=eng#8) (footnotes 9e, f); [1 Tim. 1:9-10](https://www.lds.org/scriptures/nt/1-tim/1.9-10?lang=eng#8) (footnote 10b, c).
 

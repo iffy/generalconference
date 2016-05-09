@@ -8,14 +8,14 @@ up into heaven. ...
 
 "And ... the God of heaven looked upon the residue of the people [that is, upon
 those who had not been taken up], and he wept" ([Moses 7:19, 21,
-28](https://www.lds.org/scriptures/pgp/moses/7.19%2C21%2C28?lang=eng#18)).
+28](/scriptures/pgp/moses/7.19,21,28?lang=eng#18)).
 
 Then Enoch said to the Lord: "How is it that the heavens weep, and shed forth
 their tears as the rain upon the mountains?
 
 "... How is it that thou canst weep, seeing thou art holy, and from all eternity
 to all eternity?" ([Moses
-7:28-29](https://www.lds.org/scriptures/pgp/moses/7.28-29?lang=eng#27)).
+7:28-29](/scriptures/pgp/moses/7.28-29?lang=eng#27)).
 
 Enoch then reminded God of the limitlessness and ongoing nature of his
 creations, and of his holy perfections and glory and accomplishments, and
@@ -33,9 +33,8 @@ behold, they are without affection, and they hate their own blood.
 
 "... and the whole heavens shall weep over them, even all the workmanship of
 mine hands; wherefore should not the heavens weep, seeing these shall suffer?"
-([Moses 7:31-33,
-37](https://www.lds.org/scriptures/pgp/moses/7.31-33%2C37?lang=eng#30);
-italics added).
+([Moses 7:31-33, 37](/scriptures/pgp/moses/7.31-33,37?lang=eng#30); italics
+added).
 
 God, from whom all blessings come, asked of his children only that they should
 love each other and choose him, their Father.
@@ -90,7 +89,7 @@ In the scripture it is written:
 straight course before him, and the keeper of the gate is the Holy One of
 Israel; and he employeth no servant there; and there is none other way save it
 be by the gate; for he cannot be deceived, for the Lord God is his name" ([2
-Ne. 9:41](https://www.lds.org/scriptures/bofm/2-ne/9.41?lang=eng#40)).
+Ne. 9:41](/scriptures/bofm/2-ne/9.41?lang=eng#40)).
 
 Salvation and exaltation, I believe, are not matters of heavenly bookkeeping,
 but of the qualifying of the soul that comes with knowing the Lord.
@@ -101,8 +100,8 @@ It is also written that one who does not abide laws pertaining to the various
 conditions of eternal opportunity cannot enjoy the blessings of those
 kingdoms. There are those who will not enjoy the blessings of _any_ kingdom of
 glory, but must function, says the record, in a kingdom _not of glory_ (see
-[D&amp;C 88:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/88.22-24?lang=eng#21)). And of them it is written:
+[D&amp;C 88:22-24](/scriptures/dc-testament/dc/88.22-24?lang=eng#21)). And of
+them it is written:
 
 "And they who remain shall also be quickened; nevertheless, they shall return
 again to their own place, to enjoy that which they are willing to receive,
@@ -110,16 +109,15 @@ because they were not willing to enjoy that which they might have received.
 
 "For what doth it profit a man if a gift is bestowed upon him, and he receive
 not the gift? Behold, he rejoices not in that which is given unto him, neither
-rejoices in him who is the giver of the gift" ([D&amp;C
-88:32-33](https://www.lds.org/scriptures/dc-
-testament/dc/88.32-33?lang=eng#31)).
+rejoices in him who is the giver of the gift" ([D&amp;C 88:32-33](/scriptures
+/dc-testament/dc/88.32-33?lang=eng#31)).
 
 Each of us will enjoy all of God's blessings that we are willing to receive.
 
 But how do we manifest that willingness? A prophet answers: "How knoweth a man
 the master whom he has not served, and who is a stranger unto him, and is far
 from the thoughts and intents of his heart?" ([Mosiah
-5:13](https://www.lds.org/scriptures/bofm/mosiah/5.13?lang=eng#12)).
+5:13](/scriptures/bofm/mosiah/5.13?lang=eng#12)).
 
 We know and choose him and enjoy his blessings through serving him, through
 qualifying for his friendship, and by keeping him always in our hearts and
@@ -127,20 +125,19 @@ minds. In our afflictions and gropings and forebodings we turn to him for
 comfort and support. He is always accessible to those who seek him.
 
 "Come unto me, all ye that labour and are heavy laden, and I will give you
-rest" ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27)).
+rest" ([Matt. 11:28](/scriptures/nt/matt/11.28?lang=eng#27)).
 
 "Lo, I am with you alway," he said, "even unto the end of the world" ([Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19)).
+28:20](/scriptures/nt/matt/28.20?lang=eng#19)).
 
 "I will not leave you comfortless" ([John
-14:18](https://www.lds.org/scriptures/nt/john/14.18?lang=eng#17)).
+14:18](/scriptures/nt/john/14.18?lang=eng#17)).
 
 He understands our infirmities and pressures and problems. Better than any
 other, he understands how it is to feel all alone.
 
 "My God, my God, why hast thou forsaken me?" ([Matt.
-27:46](https://www.lds.org/scriptures/nt/matt/27.46?lang=eng#45)).
+27:46](/scriptures/nt/matt/27.46?lang=eng#45)).
 
 ## Love each other
 
@@ -154,13 +151,13 @@ ministry:
 gospel to the poor; he hath sent me to heal the brokenhearted, to preach
 deliverance to the captives, and recovering of sight to the blind, to set at
 liberty them that are bruised" ([Luke
-4:18](https://www.lds.org/scriptures/nt/luke/4.18?lang=eng#17)).
+4:18](/scriptures/nt/luke/4.18?lang=eng#17)).
 
 In the magnificent story of the return of the King, he taught us unforgettably
 our responsibility to the hungry, the thirsty, the stranger, the naked, the
 sick, and those in prison. "Inasmuch as ye have done it unto one of the least
 of these my brethren, ye have done it unto me" ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39)).
+25:40](/scriptures/nt/matt/25.40?lang=eng#39)).
 
 Millennia before, through Isaiah, there was delineated the course of
 helpfulness he expected his children to follow:
@@ -168,8 +165,7 @@ helpfulness he expected his children to follow:
 "To loose the bands of wickedness, ... undo the heavy burdens, ... let the
 oppressed go free, ... deal thy bread to the hungry, ... bring the poor that are
 cast out to thy house, ... when thou seest the naked, ... cover him, ... satisfy the
-afflicted soul" ([Isa. 58:6, 7,
-10](https://www.lds.org/scriptures/ot/isa/58.6%2C7%2C10?lang=eng#5)).
+afflicted soul" ([Isa. 58:6, 7, 10](/scriptures/ot/isa/58.6,7,10?lang=eng#5)).
 
 We know, you and I, that we need the Lord. And he has made it plain that he
 also needs us as instruments of his love to his other children.
@@ -185,12 +181,10 @@ finds this, I love you."
 God's children need to be loved, and to have someone to love.
 
 But it is written, "let us not love in word, neither in tongue; but in deed
-and in truth" ([1 Jn.
-3:18](https://www.lds.org/scriptures/nt/1-jn/3.18?lang=eng#17)).
+and in truth" ([1 Jn. 3:18](/scriptures/nt/1-jn/3.18?lang=eng#17)).
 
 "Not with eyeservice, as menpleasers; but as the servants of Christ, doing the
-will of God from the heart" ([Eph.
-6:6](https://www.lds.org/scriptures/nt/eph/6.6?lang=eng#5)).
+will of God from the heart" ([Eph. 6:6](/scriptures/nt/eph/6.6?lang=eng#5)).
 
 In the sermon Amulek preached, to which Brother Busche has referred,
 encouraging prayer and faith, there was added this invitation:
@@ -201,7 +195,7 @@ and the naked, and visit not the sick and afflicted, and impart of your
 substance, if ye have, to those who stand in need--I say unto you, if ye do
 not any of these things, behold, your prayer is vain, and availeth you
 nothing, and ye are as hypocrites who do deny the faith" ([Alma
-34:28](https://www.lds.org/scriptures/bofm/alma/34.28?lang=eng#27)).
+34:28](/scriptures/bofm/alma/34.28?lang=eng#27)).
 
 The poet expressed it another way:
 
@@ -209,7 +203,7 @@ _Love is not all: it is not meat nor drink_
 
 _Nor slumber nor a roof against the rain;_
 
-_Nor yet a floating spar to men that _ _sink._
+_Nor yet a floating spar to men that __sink._
 
 We speak of the love of Christ that is greater than faith, greater than hope;
 that expresses itself in sacrifice, in service, in giving.
@@ -258,7 +252,9 @@ his people, and God himself shall be with them, and be their God.
 "And God shall wipe away all tears from their eyes; and there shall be no more
 death, neither sorrow, nor crying, neither shall there be any more pain: for
 the former things are passed away" ([Rev.
-21:3-4](https://www.lds.org/scriptures/nt/rev/21.3-4?lang=eng#2)).
+21:3-4](/scriptures/nt/rev/21.3-4?lang=eng#2)).
 
 God bless us that we may meet the test, in the name of Jesus Christ, amen.
+
+## References
 

@@ -9,7 +9,7 @@ own labors._
 
 "In the sweat of thy face shalt thou eat bread, till thou return unto the
 ground," the Lord said to our first parents ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18)).
+3:19](/scriptures/ot/gen/3.19?lang=eng#18)).
 
 As we sift the ways of the world let us reject the commonly accepted attitude
 of expecting the government to supply us with the necessities of life. This
@@ -18,12 +18,11 @@ of slavery. Let us contend for the gospel of work. Let us be self-reliant.
 Salvation is an individual matter. There will be no mass salvation. Some have
 mistakenly concluded from Paul's statement--"For by grace are ye saved through
 faith; and that not of yourselves: it is the gift of God: Not of works" ([Eph.
-2:8-9](https://www.lds.org/scriptures/nt/eph/2.8-9?lang=eng#7))--some have
-erroneously concluded from this statement that works are not necessary.
+2:8-9](/scriptures/nt/eph/2.8-9?lang=eng#7))--some have erroneously concluded
+from this statement that works are not necessary.
 
 The truth was spoken by Nephi when he said, "We are saved [by grace], after
-all we can do" ([2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22)).
+all we can do" ([2 Ne. 25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22)).
 
 It will require maximum effort for us to bring ourselves within the reach of
 the atoning blood of Jesus Christ so that we can be saved. There will be no
@@ -70,10 +69,10 @@ left. When they got to the Red Sea, Pharaoh's armies caught up with them. I
 suppose they were worried, wondering how they could escape from that army.
 They did not know, but the Lord knew. When the time came, he simply said to
 Moses, "Lift ... up [your] rod" ([Ex.
-14:16](https://www.lds.org/scriptures/ot/ex/14.16?lang=eng#15)). He did, and a
-dry-land passage through the Red Sea appeared, and they went through without
-the loss of a man. _They never would have been thus protected and saved if
-they had not been doing what the Lord directed them to do._
+14:16](/scriptures/ot/ex/14.16?lang=eng#15)). He did, and a dry-land passage
+through the Red Sea appeared, and they went through without the loss of a man.
+_They never would have been thus protected and saved if they had not been
+doing what the Lord directed them to do._
 
 Let us do what he has told _us_ to do and then put our trust in him. He _can_
 take care of us, and in the day of need he will do so.
@@ -85,13 +84,13 @@ the efficacy of our prayers depends upon our liberality to the poor. Way back
 in the days of Isaiah, he made this clear. When at that time the people
 complained, "Wherefore have we fasted ... and thou seest not? wherefore have we
 afflicted our soul, and thou takest no knowledge?" ([Isa.
-58:3](https://www.lds.org/scriptures/ot/isa/58.3?lang=eng#2)), the Lord
-responded with this question:
+58:3](/scriptures/ot/isa/58.3?lang=eng#2)), the Lord responded with this
+question:
 
 "Is it such a fast that I have chosen? a day for a man to afflict his soul? is
 it to bow down his head as a bulrush, and to spread sackcloth and ashes under
 him? wilt thou call this a fast, and an acceptable day to the Lord?" ([Isa.
-58:5](https://www.lds.org/scriptures/ot/isa/58.5?lang=eng#4).)
+58:5](/scriptures/ot/isa/58.5?lang=eng#4).)
 
 How like _our_ performances. We are prone to get a headache when we fast, and
 sometimes we pretend to be starving to death. To ancient Israel the Lord put
@@ -112,7 +111,7 @@ say, Here I am. ...
 
 "... if thou draw out thy soul to the hungry, and satisfy the afflicted soul;
 then shall thy light rise in obscurity, and thy darkness be as the noonday."
-([Isa. 58:6-10](https://www.lds.org/scriptures/ot/isa/58.6-10?lang=eng#5).)
+([Isa. 58:6-10](/scriptures/ot/isa/58.6-10?lang=eng#5).)
 
 Think of these matchless blessings. They are all promised to those who will
 liberally contribute to the care of the poor.
@@ -120,7 +119,7 @@ liberally contribute to the care of the poor.
 "And the Lord shall guide thee continually, and satisfy thy soul in drought,
 and make fat thy bones: and thou shalt be like a watered garden, and like a
 spring of water, whose waters fail not" ([Isa.
-58:11](https://www.lds.org/scriptures/ot/isa/58.11?lang=eng#10)).
+58:11](/scriptures/ot/isa/58.11?lang=eng#10)).
 
 According to the teachings of the great Book of Mormon prophet, Amulek, the
 very efficacy of one's prayers turns upon his liberality in caring for the
@@ -130,7 +129,7 @@ in the thirty-fourth chapter of Alma. Having first explained to his hearers
 the atonement of Christ, he continued, "Therefore may God grant unto you, my
 brethren, that ye may begin to exercise your faith unto repentance, that ye
 begin to call upon his holy name, that he would have mercy upon you" ([Alma
-34:17](https://www.lds.org/scriptures/bofm/alma/34.17?lang=eng#16)).
+34:17](/scriptures/bofm/alma/34.17?lang=eng#16)).
 
 He then gave these classic instructions on prayer:
 
@@ -146,8 +145,8 @@ secret places, and in your wilderness.
 
 "Yea, and when you do not cry unto the Lord, let your hearts be full, drawn
 out in prayer unto him continually for your welfare, and also for the welfare
-of those who are around you." ([Alma 34:21, 23-24, 26-27](https://www.lds.org/
-scriptures/bofm/alma/34.21%2C23-24%2C26-27?lang=eng#20).)
+of those who are around you." ([Alma 34:21, 23-24,
+26-27](/scriptures/bofm/alma/34.21,23-24,26-27?lang=eng#20).)
 
 Now one, it might seem, would be justified in thinking that people who prayed
 in this manner would be pretty good people. But Amulek added another
@@ -162,8 +161,7 @@ nothing, and ye are as hypocrites who do deny the faith.
 
 "Therefore, if ye do not remember to be charitable, ye are as dross, which the
 refiners do cast out, (it being of no worth) and is trodden under foot of
-men." ([Alma
-34:28-29](https://www.lds.org/scriptures/bofm/alma/34.28-29?lang=eng#27).)
+men." ([Alma 34:28-29](/scriptures/bofm/alma/34.28-29?lang=eng#27).)
 
 Is it not astonishing that such tremendous consequences attach to liberality
 in caring for the poor? If you think we will not be bound by these scriptures
@@ -209,7 +207,7 @@ things, and have given unto the children of men to be agents unto themselves.
 "Therefore, if any man shall take of the abundance which I have made, and
 impart not his portion, according to the law of my gospel, unto the poor and
 the needy, he shall, with the wicked, lift up his eyes in hell, being in
-torment." ([D&amp;C 104:13-18](https://www.lds.org/scriptures/dc-
+torment." ([D&amp;C 104:13-18](/scriptures/dc-
 testament/dc/104.13-18?lang=eng#12).)
 
 The revelation from which this is taken was given in this dispensation for our
@@ -296,4 +294,6 @@ look for great strides in this work in the months and years ahead.
 That we may all vigorously pursue our duties in living and in implementing the
 Church Welfare Services program, I humbly pray. In the name of Jesus Christ,
 our Redeemer, amen.
+
+## References
 

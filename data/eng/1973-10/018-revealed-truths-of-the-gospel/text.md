@@ -24,9 +24,8 @@ The prophet Isaiah saw our day when men would worship Him through the precepts
 of men, and said because of that He would "proceed to do a marvellous work
 among this people, even a marvellous work and a wonder: for the wisdom of
 their wise men shall perish, and the understanding of their prudent men shall
-be hid." ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13).) Now I take
-it that that marvelous work and a wonder was to correct the precepts of men,
+be hid." ([Isa. 29:14](/scriptures/ot/isa/29.14?lang=eng#13).) Now I take it
+that that marvelous work and a wonder was to correct the precepts of men,
 because Isaiah indicated that it was for that reason that He would do a
 marvelous work and a wonder.
 
@@ -54,10 +53,9 @@ Where in all the world can you find an organization of priesthood like that,
 for every man and every man's son can bear the priesthood of God and help to
 build his kingdom in the earth? Thus they lay away treasures in heaven, where
 moth and rust doth not corrupt and where thieves cannot break through and
-steal (see [Matt.
-6:19](https://www.lds.org/scriptures/nt/matt/6.19?lang=eng#18)), and where
-they can develop their gifts and talents, because the kingdom is here for that
-very express purpose.
+steal (see [Matt. 6:19](/scriptures/nt/matt/6.19?lang=eng#18)), and where they
+can develop their gifts and talents, because the kingdom is here for that very
+express purpose.
 
 Now there is another beautiful tenet of the Church today that I would like to
 mention a few words about, and that is our belief in the eternal duration of
@@ -145,61 +143,56 @@ Now that is what we believe. We believe that the marriage tie is eternal.
 We have had quoted in the conference today the statement made by the Lord when
 Adam was placed in the garden. He said that "it was not good that the man
 should be alone;" and he made a help meet for him, and he said "they shall be
-one flesh," ([Moses 3:18,
-24](https://www.lds.org/scriptures/pgp/moses/3.18%2C24?lang=eng#17)), not two
-halves but one flesh, because he couldn't have peopled this earth without the
-man and the woman, and it took two to make a complete person in that sense.
-Then I say this: if it wasn't good for man to be alone _before _death came
-into the world, it certainly won't be good for man to be alone _after _we are
-resurrected from the dead and restored to the condition that Adam was in
+one flesh," ([Moses 3:18, 24](/scriptures/pgp/moses/3.18,24?lang=eng#17)), not
+two halves but one flesh, because he couldn't have peopled this earth without
+the man and the woman, and it took two to make a complete person in that
+sense. Then I say this: if it wasn't good for man to be alone _before _death
+came into the world, it certainly won't be good for man to be alone _after _we
+are resurrected from the dead and restored to the condition that Adam was in
 before the fall.
 
 That is what Paul meant when he said, "... as in Adam all die, even so in Christ
 shall all be made alive." ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21).) If it
-wasn't good to be without a wife before the fall, it certainly won't be good
-to be without a companion after the resurrection, and anyone who repudiates
-that actually repudiates the great atonement, because in that event the Savior
-would only have atoned in part for the loss that came through the fall of Adam
-and Eve.
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21).) If it wasn't good to be
+without a wife before the fall, it certainly won't be good to be without a
+companion after the resurrection, and anyone who repudiates that actually
+repudiates the great atonement, because in that event the Savior would only
+have atoned in part for the loss that came through the fall of Adam and Eve.
 
 These are great eternal truths that the Lord understood, and so the Savior
 said, "For this cause shall a man leave his father and mother, and cleave to
 his wife; And they twain shall be one flesh: so then they are no more twain,
 but one flesh. What therefore God hath joined together, let not man put
-asunder." ([Mark
-10:7-9](https://www.lds.org/scriptures/nt/mark/10.7-9?lang=eng#6).) It
-couldn't be written much plainer than that, could it? What did he really mean
-when he said that they should be one flesh and never be put asunder if it
-wasn't that the marriage tie should project itself beyond the grave?
+asunder." ([Mark 10:7-9](/scriptures/nt/mark/10.7-9?lang=eng#6).) It couldn't
+be written much plainer than that, could it? What did he really mean when he
+said that they should be one flesh and never be put asunder if it wasn't that
+the marriage tie should project itself beyond the grave?
 
 Paul said, "... neither is the man without the woman, neither the woman without
 the man, in the Lord." ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10).) They might
-get along here in mortality without each other, but not in the eternities that
-are to come.
+11:11](/scriptures/nt/1-cor/11.11?lang=eng#10).) They might get along here in
+mortality without each other, but not in the eternities that are to come.
 
 Peter said that the husband should live with his wife "according to knowledge,
 ... as unto the weaker vessel, and as being heirs together of the grace of life;
 that your prayers be not hindered." ([1 Pet.
-3:7](https://www.lds.org/scriptures/nt/1-pet/3.7?lang=eng#6).) Now what does
-it mean "being heirs together of the grace of life"? What life? They already
-had their lives here in mortality, but they are to become heirs together of
-the blessings of eternal life. How could it be written any plainer than that?
+3:7](/scriptures/nt/1-pet/3.7?lang=eng#6).) Now what does it mean "being heirs
+together of the grace of life"? What life? They already had their lives here
+in mortality, but they are to become heirs together of the blessings of
+eternal life. How could it be written any plainer than that?
 
 Then we remember when Isaiah saw the new heaven and the new earth, when the
 lamb and the wolf should feed together, and "the lion shall eat straw like the
-bullock. ..." ([Isa.
-65:25](https://www.lds.org/scriptures/ot/isa/65.25?lang=eng#24).) He saw that
+bullock. ..." ([Isa. 65:25](/scriptures/ot/isa/65.25?lang=eng#24).) He saw that
 men "shall build houses, and inhabit them; and they shall plant vineyards, and
 eat the fruit of them.
 
 "They shall not build, and another inhabit; they shall not plant, and another
 eat: ... and mine elect shall long enjoy the work of their hands ... for they are
 the seed of the blessed of the Lord, and their offspring with them." ([Isa.
-65:21-23](https://www.lds.org/scriptures/ot/isa/65.21-23?lang=eng#20).) How
-could you make it any more plain than that, that they and their offspring with
-them would inhabit the houses that they would build?
+65:21-23](/scriptures/ot/isa/65.21-23?lang=eng#20).) How could you make it any
+more plain than that, that they and their offspring with them would inhabit
+the houses that they would build?
 
 Now this great eternal principle is one of the great truths that has been
 revealed through the restoration of the gospel. Personally I would just as
@@ -227,10 +220,10 @@ ordinances of the holy priesthood in God's holy temples, we can have our
 children throughout the countless ages of eternity. The Lord has indicated
 through the Prophet Joseph that they should come forth in the morning of the
 first resurrection and "grow up without sin unto salvation." ([D&amp;C
-45:58](https://www.lds.org/scriptures/dc-testament/dc/45.58?lang=eng#57).) To
-those of us who have laid away children in their infancy, just think of the
-joy and happiness that comes from this, compared with feeling that there would
-be no family relationship in the eternal world.
+45:58](/scriptures/dc-testament/dc/45.58?lang=eng#57).) To those of us who
+have laid away children in their infancy, just think of the joy and happiness
+that comes from this, compared with feeling that there would be no family
+relationship in the eternal world.
 
 Brethren and sisters, I thank God for this great truth that has come to us in
 the restoration of his gospel. That is only just a beginning. And to this
@@ -240,4 +233,6 @@ witness and a testimony of the divinity of this work, I bear you my witness. I
 know that it is the marvelous work and a wonder that our Father promised
 through his great prophet that he would send to us, and I leave you my love
 and blessing and witness, in the name of the Lord Jesus Christ. Amen.
+
+## References
 

@@ -37,7 +37,7 @@ _We ask it fearlessly:_
 
 _ Who's on the Lord's team? Who?_
 
-. . . . . . .
+... ... .
 
 _We serve the living God,_
 
@@ -60,14 +60,13 @@ Kimball has told us, "This is something we are heir to; we were born to it,
 and all we need to do is qualify for it to obtain this blessing."
 (_Priesthood,_ Salt Lake City: Deseret Book Co., 1981, p. 2.)
 
-In [Alma 13:1](https://www.lds.org/scriptures/bofm/alma/13.1?lang=eng#0) we
-learn that "the Lord God ordained priests, after his holy order."
+In [Alma 13:1](/scriptures/bofm/alma/13.1?lang=eng#0) we learn that "the Lord
+God ordained priests, after his holy order."
 
-In verses 3 and 4 [[Alma
-13:3-4](https://www.lds.org/scriptures/bofm/alma/13.3-4?lang=eng#2)] we are
-told that "this is the manner after which they were ordained--being called and
-prepared from the foundation of the world according to the foreknowledge of
-God, on account of their exceeding faith and good works; in the first place
+In verses 3 and 4 [[Alma 13:3-4](/scriptures/bofm/alma/13.3-4?lang=eng#2)] we
+are told that "this is the manner after which they were ordained--being called
+and prepared from the foundation of the world according to the foreknowledge
+of God, on account of their exceeding faith and good works; in the first place
 being left to choose good or evil; therefore they have chosen good, and
 exercising exceedingly great faith, are called with a holy calling. ...
 
@@ -76,8 +75,8 @@ faith, while others would reject the Spirit of God on account of the hardness
 of their hearts and blindness of their minds, while, if it had not been for
 this they might have had as great privilege as their brethren."
 
-In [Alma 13:9](https://www.lds.org/scriptures/bofm/alma/13.9?lang=eng#8) we
-are told, "Thus they become high priests forever."
+In [Alma 13:9](/scriptures/bofm/alma/13.9?lang=eng#8) we are told, "Thus they
+become high priests forever."
 
 As you participate on a basketball team, or are part of a drama presentation,
 or sing in a quartet, or join a Scout troop, you are aware that membership in
@@ -178,4 +177,6 @@ And as you too retire at night, your hearts and thoughts and prayers will
 automatically turn, once again, with great desire to the perfecting of your
 performance on the Lord's great priesthood team. In the name of Jesus Christ,
 amen.
+
+## References
 

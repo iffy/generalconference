@@ -20,14 +20,14 @@ Sept. 1985, p. 5.)
 
 The Savior said, "I am come that they might have life, and that they might
 have it more abundantly." ([John
-10:10](https://www.lds.org/scriptures/nt/john/10.10?lang=eng#9).) How is the
-abundant life to be obtained? The abundant life involves an endless search for
-knowledge, light, and truth. President Hugh B. Brown said: "God desires that
-we learn and continue to learn, but this involves some unlearning. As Uncle
-Zeke said: 'It ain't my ignorance that done me up but what I know'd that
-wasn't so.' The ultimate evil is the closing of the mind or steeling it
-against truth, resulting in the hardening of intellectual arteries" (in
-baccalaureate address, Utah State University, Logan, Utah, 4 June 1965.)
+10:10](/scriptures/nt/john/10.10?lang=eng#9).) How is the abundant life to be
+obtained? The abundant life involves an endless search for knowledge, light,
+and truth. President Hugh B. Brown said: "God desires that we learn and
+continue to learn, but this involves some unlearning. As Uncle Zeke said: 'It
+ain't my ignorance that done me up but what I know'd that wasn't so.' The
+ultimate evil is the closing of the mind or steeling it against truth,
+resulting in the hardening of intellectual arteries" (in baccalaureate
+address, Utah State University, Logan, Utah, 4 June 1965.)
 
 We gain knowledge from two sources. One is the divine and the other is
 secular. Rex E. Lee has referred to them as the "rational process and the
@@ -52,7 +52,7 @@ for light, truth, and knowledge, almost everyone may have at one time or
 another some private questions. That is part of the learning process. Many are
 like the biblical father of the child with the "dumb spirit" who pleaded with
 the Savior: "Lord, I believe; help thou mine unbelief." ([Mark
-9:24](https://www.lds.org/scriptures/nt/mark/9.24?lang=eng#23).)
+9:24](/scriptures/nt/mark/9.24?lang=eng#23).)
 
 The Church has not and, in my opinion, should not speak on every disputed
 question. But I cannot help wondering if a member of the Church does not place
@@ -113,7 +113,7 @@ Nothing is mandatory in this church. Free agency is a cardinal principle of
 obedience. Obedience comes from love of God and a commitment to his work. The
 only punishment for serious transgression or apostasy is the removal of
 members from the society and fellowship of the Church. (See [D&amp;C
-134:10](https://www.lds.org/scriptures/dc-testament/dc/134.10?lang=eng#9).)
+134:10](/scriptures/dc-testament/dc/134.10?lang=eng#9).)
 
 Is personal self-sufficiency one of the reasons men and women may lack faith?
 Some seem afraid to look to any source of wisdom and knowledge above
@@ -138,7 +138,7 @@ Some want to justify their criticism by claiming, "But it is the truth." My
 answer is, "How can you be so sure?" Spiritual truth must be bonded to faith
 and righteousness to be fully understood. The Apostle Paul reminded us that
 the misuse of the truth changes it into a lie. (See [Rom.
-1:18-25](https://www.lds.org/scriptures/nt/rom/1.18-25?lang=eng#17).)
+1:18-25](/scriptures/nt/rom/1.18-25?lang=eng#17).)
 
 Since the beginning of the restored Church there have been much opposition and
 many critics both from within and without. What have been the results of all
@@ -166,10 +166,9 @@ revelation and practice that the current President of the Church and his
 counselors have the keys to declare the doctrine of the Church. The
 investiture of this authority comes from revelation. The Presidency are
 constituted "a quorum ... to receive the oracles for the whole church."
-([D&amp;C 124:126](https://www.lds.org/scriptures/dc-
-testament/dc/124.126?lang=eng#125).) Of this authority, President Stephen L
-Richards stated: "They [the Presidency] are the supreme court here on earth in
-the interpretation of God's law.
+([D&amp;C 124:126](/scriptures/dc-testament/dc/124.126?lang=eng#125).) Of this
+authority, President Stephen L Richards stated: "They [the Presidency] are the
+supreme court here on earth in the interpretation of God's law.
 
 "In the exercise of their functions and delegated powers they are controlled
 by a constitution, a part of which is written and a part of which is not. The
@@ -217,4 +216,6 @@ and spirits to the divine source of truth. May we reach above ourselves and
 beyond our mundane concerns and become heirs to the knowledge of all truth and
 to the abundant life promised by our Lord and Savior, Jesus Christ. I pray
 that this may be so, in His holy name, amen.
+
+## References
 

@@ -28,7 +28,7 @@ pray.
 
 "My voice shalt thou hear in the morning, O Lord; in the morning will I direct
 my prayer unto thee, and will look up." ([Ps.
-5:1-3](https://www.lds.org/scriptures/ot/ps/5.1-3?lang=eng#0).)
+5:1-3](/scriptures/ot/ps/5.1-3?lang=eng#0).)
 
 Perhaps what this world needs, as much as anything, is to "look up" as the
 Psalmist said--to look up in our joys as well as our afflictions, in our
@@ -45,11 +45,10 @@ Most High.
 Reverence and adoration were frequently declared in prayer by the Master and
 were beautifully expressed in the Sermon on the Mount when he gave this
 counsel: "After this manner therefore pray ye: Our Father which art in heaven,
-Hallowed be thy name." ([Matt.
-6:9](https://www.lds.org/scriptures/nt/matt/6.9?lang=eng#8).)
+Hallowed be thy name." ([Matt. 6:9](/scriptures/nt/matt/6.9?lang=eng#8).)
 
 "Probably no other words in the Lord's Prayer have been so frequently slurred
-and overlooked as 'Hallowed be thy name.' They lie ... ," as one writer said,
+and overlooked as 'Hallowed be thy name.' They lie ..., " as one writer said,
 "in the valley between the great name of God and the glorious Kingdom for
 which we are looking and waiting. We slide over them as though they were only
 a parenthesis and hasten on to ask for bread and deliverance from our greatest
@@ -93,9 +92,9 @@ was not an ordinary house; it was the house of God. It was erected for God's
 worship. It was a home for the reverent heart. It was intended to be a place
 of solace for men's woes and troubles, the very gate of heaven. "Take these
 things hence" he said, "make not my Father's house an house of merchandise."
-([John 2:16](https://www.lds.org/scriptures/nt/john/2.16?lang=eng#15).) His
-devotion to the Most High kindled a fire in his soul and gave his words the
-force that pierced the offenders like a dagger.
+([John 2:16](/scriptures/nt/john/2.16?lang=eng#15).) His devotion to the Most
+High kindled a fire in his soul and gave his words the force that pierced the
+offenders like a dagger.
 
 How careful Jesus was for even the name of his Father is illustrated in what
 he said regarding oaths. The religious leaders of his day had a certain form
@@ -117,12 +116,12 @@ reverence and worship has vanished. Men and women in many circles are clever,
 interesting, or brilliant, but they lack one crucial element in a complete
 life. They do not look up. They do not offer up vows in righteousness, as the
 requirement is stated in the Doctrine and Covenants, "on all days and at all
-times." ([D&amp;C 59:11](https://www.lds.org/scriptures/dc-
-testament/dc/59.11?lang=eng#10).) Their conversation sparkles, but it is not
-sacred. Their talk is witty, but it is not wise. Whether it be in the office,
-the locker room, or the laboratory, they have come too far down the scale of
-dignity who display their own limited powers and then find it necessary to
-blaspheme those unlimited powers that come from above.
+times." ([D&amp;C 59:11](/scriptures/dc-testament/dc/59.11?lang=eng#10).)
+Their conversation sparkles, but it is not sacred. Their talk is witty, but it
+is not wise. Whether it be in the office, the locker room, or the laboratory,
+they have come too far down the scale of dignity who display their own limited
+powers and then find it necessary to blaspheme those unlimited powers that
+come from above.
 
 Unfortunately we sometimes find this lack of reverence even within the Church.
 Occasionally we visit too loudly, enter and leave meetings too disrespectfully
@@ -139,15 +138,15 @@ has been left miserably undeveloped." (_Reader's Digest,_ March 1941, p. 36.)
 
 If men are no longer awed by the thought of a holy God and are, as Mormon said
 of the people of his day, "without principle, and past feeling" ([Moro.
-9:20](https://www.lds.org/scriptures/bofm/moro/9.20?lang=eng#19)), then we
-face a fearful time. A number of years ago, President David O. McKay made this
-statement: "We are living in a troublous age. Many people in the Church, as
-millions in the world, are stirred with anxiety; hearts are heavy with
-feelings of foreboding. For the third time in half a century lowering war
-clouds threaten world peace. O foolish man! Will he never profit by the
-experiences of the past! ... It is the duty of the members of the Church to hold
-aloft true spiritual standards. Then we shall be better prepared for any
-eventuality." (_Conference Report,_ April 1948, pp. 64-65.)
+9:20](/scriptures/bofm/moro/9.20?lang=eng#19)), then we face a fearful time. A
+number of years ago, President David O. McKay made this statement: "We are
+living in a troublous age. Many people in the Church, as millions in the
+world, are stirred with anxiety; hearts are heavy with feelings of foreboding.
+For the third time in half a century lowering war clouds threaten world peace.
+O foolish man! Will he never profit by the experiences of the past! ... It is
+the duty of the members of the Church to hold aloft true spiritual standards.
+Then we shall be better prepared for any eventuality." (_Conference Report,_
+April 1948, pp. 64-65.)
 
 Prayer, reverence, worship, devotion, respect for the holy--these are basic
 exercises of our spirit and must be actively practiced in our lives or they
@@ -166,8 +165,7 @@ The Lord gave to Moses a code of laws often referred to as the Holiness Code
 of Behavior. There is an instruction in that code that is fitting to this
 occasion today. The Lord said, "Speak unto all the congregation of the
 children of Israel, and say unto them, Ye shall be holy: for I the Lord your
-God am holy." ([Lev.
-19:2](https://www.lds.org/scriptures/ot/lev/19.2?lang=eng#1).)
+God am holy." ([Lev. 19:2](/scriptures/ot/lev/19.2?lang=eng#1).)
 
 "It is not well for man to pray cream and live skim milk." It is worse yet to
 pray skim milk and live _that_ not at all. We must look up, be prayerful, and
@@ -176,4 +174,6 @@ like Christ, understand the true meaning of "Hallowed be thy name."
 May the Lord bless us to be reverent, prayerful, full of worship and devotion,
 until we re-enter the holy presence of him who is our Father, I pray in the
 name of his son, the Lord Jesus Christ. Amen.
+
+## References
 

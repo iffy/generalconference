@@ -62,8 +62,7 @@ welfare, plan consists of three basic elements:
 all his might to maintain it by being self-sustaining. This the Lord enjoined
 upon us when from the Garden of Eden He sent forth our first parents under the
 stern command, 'In the sweat of thy face shalt thou eat bread, till thou
-return unto the ground. ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18)).
+return unto the ground. ([Gen. 3:19](/scriptures/ot/gen/3.19?lang=eng#18)).
 
 "Second, next to himself, the responsibility for sustaining an individual
 rests upon his family--parents for their children, children for their parents.
@@ -75,7 +74,7 @@ members of his family having done what they can to assist him, then the
 Church, through the Welfare plan, stands ready to see that its members, _who
 will accept the plan and work in it to the extent of their ability,_ shall
 each be cared for 'according to his family, according to his circumstances and
-his wants and needs' ([D&amp;C 51:3](https://www.lds.org/scriptures/dc-
+his wants and needs' ([D&amp;C 51:3](/scriptures/dc-
 testament/dc/51.3?lang=eng#2))." (Marion G. Romney, in Conference Report, Apr.
 1943, pp. 27-28.)
 
@@ -96,8 +95,8 @@ prepared for my creatures. ...
 
 "For the earth is full, and there is enough and to spare; yea, I prepared all
 things, and have given unto the children of men to be _agents_ unto
-themselves." ([D&amp;C 104:13, 17](https://www.lds.org/scriptures/dc-
-testament/dc/104.13%2C17?lang=eng#12); italics added.)
+themselves." ([D&amp;C 104:13, 17](/scriptures/dc-
+testament/dc/104.13,17?lang=eng#12); italics added.)
 
 Just as each individual is accountable for his choices and actions in
 spiritual matters, so also is he accountable in temporal matters. It is
@@ -118,8 +117,8 @@ By sacred covenant and eternal priesthood government, the eternal family unit
 is established. The same covenant that obligates parents to care for their
 children obligates children to care for their parents when they need it. The
 commandment to "honour thy father and thy mother" ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11)) extends to
-modern Israel and is required for all who are faithful members of the Church.
+20:12](/scriptures/ot/ex/20.12?lang=eng#11)) extends to modern Israel and is
+required for all who are faithful members of the Church.
 
 As a consequence of the principle of family reliance, we should realize that,
 generally, one has no claim on Church resources to resolve personal temporal
@@ -128,8 +127,7 @@ doctrine the Lord established when he said:
 
 "And after _that,_ they have claim upon the church, or in other words upon the
 Lord's storehouse, if their parents have not wherewith to give them."
-([D&amp;C 83:5](https://www.lds.org/scriptures/dc-
-testament/dc/83.5?lang=eng#4); italics added.)
+([D&amp;C 83:5](/scriptures/dc-testament/dc/83.5?lang=eng#4); italics added.)
 
 Finally, I suppose we could think of _Church reliance;_ that is, when all has
 been done at the individual and family level, then the Lord has given
@@ -178,9 +176,11 @@ hungry, clothing the naked, visiting the sick and administering to their
 relief, both spiritually and temporally, according to their wants.
 
 "And see that all these things are done in wisdom and order." ([Mosiah 4:12,
-26-27](https://www.lds.org/scriptures/bofm/mosiah/4.12%2C26-27?lang=eng#11).)
+26-27](/scriptures/bofm/mosiah/4.12,26-27?lang=eng#11).)
 
 That we may have the wisdom and the discipline and live to implement these
 great principles is my prayer, in the name of Jesus Christ, our Redeemer,
 amen.
+
+## References
 

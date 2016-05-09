@@ -47,14 +47,13 @@ thou shalt repent and call upon God in the name of the Son forevermore._
 Father and the Son, saying: I am the Only Begotten of the Father from the
 beginning, henceforth and forever, _that as thou hast fallen thou mayest be
 redeemed, and all mankind, even as many as will._" ([Moses
-5:5-9](https://www.lds.org/scriptures/pgp/moses/5.5-9?lang=eng#4). Italics
-added.)
+5:5-9](/scriptures/pgp/moses/5.5-9?lang=eng#4). Italics added.)
 
 It is evident therefore that Adam, through revelation, knew that Christ would
 atone and suffer for the sins of men and that there would be a resurrection.
 This is an evidence that, as Amos said, "Surely the Lord God will do nothing,
 but he revealeth his secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 It is hard to understand why so many people are prepared to accept facts as
 recorded by historians in secular history and yet refuse to accept
@@ -78,7 +77,7 @@ not!
 
 "For I say unto you, Ye shall not see me henceforth, till ye shall say,
 Blessed is he that cometh in the name of the Lord." ([Matt.
-23:37-39](https://www.lds.org/scriptures/nt/matt/23.37-39?lang=eng#36).)
+23:37-39](/scriptures/nt/matt/23.37-39?lang=eng#36).)
 
 We must listen to and support the prophets if we are to gain favor with the
 Lord. An early New World prophet, Nephi, complained to his people:
@@ -124,8 +123,8 @@ unclean, ye are heaping up for yourselves wrath against the day of judgment.
 
 "Yea, even at this time ye are ripening, because of your murders and your
 fornication and wickedness, for everlasting destruction; yea, and except ye
-repent it will come unto you soon." ([Hel. 8:11-13, 16, 19-22, 24-26](https://
-www.lds.org/scriptures/bofm/hel/8.11-13%2C16%2C19-22%2C24-26?lang=eng#10).)
+repent it will come unto you soon." ([Hel. 8:11-13, 16, 19-22,
+24-26](/scriptures/bofm/hel/8.11-13,16,19-22,24-26?lang=eng#10).)
 
 Are we today prepared to repent and accept the word of God, or, as these
 ancient people, go on heaping up for ourselves wrath against the day of
@@ -159,8 +158,8 @@ from their brother whom they had sold into Egypt.
 
 Joseph testified later: "... God sent me before you to preserve you a posterity
 in the earth, and to save your lives by a great deliverance." (See [Gen.
-41](https://www.lds.org/scriptures/ot/gen/41.title?lang=eng), [Gen.
-45](https://www.lds.org/scriptures/ot/gen/45.title?lang=eng).)
+41](/scriptures/ot/gen/41?lang=eng), [Gen.
+45](/scriptures/ot/gen/45?lang=eng).)
 
 We have record of many other revelations that were received by the prophets in
 early days as well as in modern times. Prophecies concerning the birth,
@@ -190,7 +189,7 @@ space of three days he shall rise from the dead, with healing in his wings;
 and all those who shall believe on his name shall be saved in the kingdom of
 God. Wherefore, my soul delighteth to prophesy concerning him, for I have seen
 his day, and my heart doth magnify his holy name." ([2 Ne.
-25:12-13](https://www.lds.org/scriptures/bofm/2-ne/25.12-13?lang=eng#11).)
+25:12-13](/scriptures/bofm/2-ne/25.12-13?lang=eng#11).)
 
 This prophecy was made nearly six hundred years before the birth of Christ,
 yet every event foretold transpired just as predicted. The New Testament
@@ -201,12 +200,11 @@ and the Book of Mormon to which we have referred.
 The account in Luke tells us that "a messenger from the Father crossed space
 to announce, 'For unto you is born this day in the city of David a Saviour,
 which is Christ the Lord.' ([Luke
-2:11](https://www.lds.org/scriptures/nt/luke/2.11?lang=eng#10).) And from out
-in space suddenly there came 'a multitude of the heavenly host praising God,
-and saying, Glory to God in the highest, and on earth peace, good will toward
-men.' [[Luke
-2:13-14](https://www.lds.org/scriptures/nt/luke/2.13-14?lang=eng#12).]"
-(Church Information Service editorial, September 1970.)
+2:11](/scriptures/nt/luke/2.11?lang=eng#10).) And from out in space suddenly
+there came 'a multitude of the heavenly host praising God, and saying, Glory
+to God in the highest, and on earth peace, good will toward men.' [[Luke
+2:13-14](/scriptures/nt/luke/2.13-14?lang=eng#12).]" (Church Information
+Service editorial, September 1970.)
 
 God's purpose for having prophets upon the earth is to relay his messages for
 the benefit and blessing of mankind by whatever means of space communication
@@ -237,7 +235,7 @@ There is a prophet upon the earth today through whom the Lord makes known his
 mind and will. We as members of the Church believe "all that God has revealed,
 all that He does now reveal, and we believe that He will yet reveal many great
 and important things pertaining to the Kingdom of God." ([A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8).)
+1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8).)
 
 The greatest event and blessing ever to come to mankind was the atoning
 sacrifice of Jesus Christ and the plan of life and salvation that he gave.
@@ -257,7 +255,7 @@ liberally, and upbraideth not; and it shall be given him.
 
 "But let him ask in faith, nothing wavering. For he that wavereth is like a
 wave of the sea driven with the wind and tossed." ([James
-1:5-6](https://www.lds.org/scriptures/nt/james/1.5-6?lang=eng#4).)
+1:5-6](/scriptures/nt/james/1.5-6?lang=eng#4).)
 
 Joseph said that if anybody needed wisdom, he did, so he went to a grove where
 he could be alone and knelt in prayer.
@@ -268,7 +266,7 @@ brightness of the sun, which descended gradually until it fell upon me.
 "... When the light rested upon me I saw two Personages, whose brightness and
 glory defy all description, standing above me in the air." One of them said:
 _"[Joseph,] This is My Beloved Son. Hear Him!" _([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
 
 Joseph, through this vision, knew as he knew he lived that God the Father and
 his Son, Jesus Christ, were two living Personages: that they knew him by name
@@ -283,7 +281,7 @@ does the world think to make me deny what I have actually seen? For I had seen
 a vision; I knew it, and I knew that God knew it, and I could not deny it,
 neither dared I do it; at least I knew that by so doing I would offend God,
 and come under condemnation." ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 As Joseph called upon God for further direction, the angel Moroni appeared to
 him and told him about the gold plates and showed them to him in vision. At
@@ -303,7 +301,7 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).)
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).)
 
 I humbly bear testimony that the truthfulness of these things has been
 revealed to me and that the gospel has been restored in these the latter days
@@ -335,9 +333,10 @@ yea, and the Lord God will disperse the powers of darkness from before you. ...
 
 "For thus saith the Lord God: Him have I inspired to move the cause of Zion in
 mighty power for good, and his diligence I know, and his prayers I have
-heard." ([D&amp;C 21:4-7](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-7?lang=eng#3).)
+heard." ([D&amp;C 21:4-7](/scriptures/dc-testament/dc/21.4-7?lang=eng#3).)
 
 May we give heed to the Prophet and follow him, I humbly pray in the name of
 Jesus Christ. Amen.
+
+## References
 

@@ -8,18 +8,16 @@ man. I humbly pray that the Spirit and blessings of the Lord will be with us
 as I speak to you.
 
 A simple opening statement in the Bible is, "In the beginning God created the
-heaven and the earth" ([Gen.
-1:1](https://www.lds.org/scriptures/ot/gen/1.1?lang=eng#0)); and therein is to
-be found the basis for man's belief in God, his omnipotence, his love, and the
-reason for man's existence in this mortal state.
+heaven and the earth" ([Gen. 1:1](/scriptures/ot/gen/1.1?lang=eng#0)); and
+therein is to be found the basis for man's belief in God, his omnipotence, his
+love, and the reason for man's existence in this mortal state.
 
 As we read on in that first chapter of Genesis, we learn of the great
 organization of this earth--the division of light from darkness, the earth
 from the heavens; the bringing forth of grass, the herb yielding seed, and
 fruit; the appearance of the sun, moon, and stars; the creation of fish, fowl,
 and animals. And finally "God created man in his own image ... male and female
-created he them" ([Gen.
-1:1-27](https://www.lds.org/scriptures/ot/gen/1.1-27?lang=eng#0)).
+created he them" ([Gen. 1:1-27](/scriptures/ot/gen/1.1-27?lang=eng#0)).
 
 Beyond reading these and other scriptural evidences of the existence of God,
 how well do we really know God, our Creator, and how well do we really
@@ -55,22 +53,19 @@ with Cain and Cain answered.
 
 Adam lived for nine hundred and thirty years, during which time he could give
 personal testimony to eight generations of his descendants, down to Lamech,
-the father of Noah. (See [Gen.
-5:5-31](https://www.lds.org/scriptures/ot/gen/5.5-31?lang=eng#4).) Through
-Noah and his family, a knowledge of God by direct tradition was carried beyond
-the Flood; moreover, Noah held direct communication with God and lived to
-instruct ten generations of his descendants. (See [Gen.
-6:9](https://www.lds.org/scriptures/ot/gen/6.9?lang=eng#8).) There followed
-Abraham, Isaac, and Jacob (or Israel), and among the children of Israel, God
-wrought great wonders. (See [Gen.
-17:1](https://www.lds.org/scriptures/ot/gen/17.1?lang=eng#0); [Ex.
-3:15](https://www.lds.org/scriptures/ot/ex/3.15?lang=eng#14).)
+the father of Noah. (See [Gen. 5:5-31](/scriptures/ot/gen/5.5-31?lang=eng#4).)
+Through Noah and his family, a knowledge of God by direct tradition was
+carried beyond the Flood; moreover, Noah held direct communication with God
+and lived to instruct ten generations of his descendants. (See [Gen.
+6:9](/scriptures/ot/gen/6.9?lang=eng#8).) There followed Abraham, Isaac, and
+Jacob (or Israel), and among the children of Israel, God wrought great
+wonders. (See [Gen. 17:1](/scriptures/ot/gen/17.1?lang=eng#0); [Ex.
+3:15](/scriptures/ot/ex/3.15?lang=eng#14).)
 
 He made himself known by various means of communication to Moses, who even
 beheld the "similitude" of God (see [Num.
-12:8](https://www.lds.org/scriptures/ot/num/12.8?lang=eng#7)); and this
-account of direct communication has been preserved by Israel through all
-generations.
+12:8](/scriptures/ot/num/12.8?lang=eng#7)); and this account of direct
+communication has been preserved by Israel through all generations.
 
 In addition to history and tradition, human reason declares the existence of
 God. We find this confirmed in nature all around us. I quote from Elder James
@@ -137,12 +132,11 @@ come. This great event did actually occur when the Father and the Son appeared
 to the Prophet Joseph Smith, who in his generation could and did testify that
 they were two separate beings and that one said, pointing to the other, "This
 is My Beloved Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 When he reported his vision, the doubters scoffed, ridiculed, and persecuted
 him and he said he felt much like Paul when he made his defense before King
-Agrippa (See [JS--H
-1:21-24](https://www.lds.org/scriptures/pgp/js-h/1.21-24?lang=eng#20)).
+Agrippa (See [JS--H 1:21-24](/scriptures/pgp/js-h/1.21-24?lang=eng#20)).
 
 "He had seen a vision, he knew he had, and all the persecution under heaven
 could not make it otherwise."
@@ -155,7 +149,7 @@ withstand God, or why does the world think to make me deny what I have
 actually seen? For I had seen a vision; I knew it, and I knew that God knew
 it, and I could not deny it, neither dared I do it; at least I knew that by so
 doing I would offend God, and come under condemnation." ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 Later, through heavenly messengers, Joseph Smith was instructed regarding the
 reestablishment of the Church of Jesus Christ with the same organization that
@@ -170,19 +164,17 @@ thirteen statements which became known as the Articles of Faith of The Church
 of Jesus Christ of Latter-day Saints. The first one reads as follows:
 
 "We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in
-the Holy Ghost." [[A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0)]
+the Holy Ghost." [[A of F 1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0)]
 
 Through revelation and the scriptures we know that these three are separate
 individuals, physically distinct from each other. It is recorded that when the
 Savior was baptized, John recognized the sign of the Holy Ghost, he saw Jesus
 in the flesh, and he heard the voice of the Father. Each personage of the
 Godhead manifested himself separately (see [Matt.
-3:13-17](https://www.lds.org/scriptures/nt/matt/3.13-17?lang=eng#12)). Later,
-the Savior separately defined the three members of the Godhead when he told
-his disciples that when he left them, the Father would send a comforter, who
-is the Holy Ghost (see [John
-14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25)).
+3:13-17](/scriptures/nt/matt/3.13-17?lang=eng#12)). Later, the Savior
+separately defined the three members of the Godhead when he told his disciples
+that when he left them, the Father would send a comforter, who is the Holy
+Ghost (see [John 14:26](/scriptures/nt/john/14.26?lang=eng#25)).
 
 Each member of this trinity is called God, and together they constitute the
 Godhead. As indicated, they are three separate beings, but they are one in
@@ -213,7 +205,7 @@ but is your mind in a condition where you can answer yes or no?' Not a
 minister answered 'Yes.' ...
 
 The next question in Senator Beveridge's book was: "'Yes or no, do you believe
-that Christ was the Son of the Living God, sent by Him to save the World ... ,
+that Christ was the Son of the Living God, sent by Him to save the World ...,
 that Christ was God's very Son, with a divinely appointed and definite
 mission, dying on the cross and raised from the dead--yes or no?' Not a
 minister answered 'Yes.'"
@@ -235,7 +227,7 @@ This brings us to another article of our faith which declares:
 
 "We believe that through the Atonement of Christ, all mankind may be saved, by
 obedience to the laws and ordinances of the Gospel" ([A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2)).
+1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2)).
 
 This declaration is clarified in a revelation to the Prophet Joseph Smith as
 recorded in the seventy-sixth section of the Doctrine and Covenants:
@@ -245,8 +237,8 @@ bore record unto us--
 
 "That he came into the world, even Jesus, to be crucified for the world, and
 to bear the sins of the world, and to sanctify the world, and to cleanse it
-from all unrighteousness." ([D&amp;C 76:40-41](https://www.lds.org/scriptures
-/dc-testament/dc/76.40-41?lang=eng#39).)
+from all unrighteousness." ([D&amp;C 76:40-41](/scriptures/dc-
+testament/dc/76.40-41?lang=eng#39).)
 
 The Atonement and redemption was taught by Paul, who said, in writing to the
 Corinthians:
@@ -260,7 +252,7 @@ that slept.
 "For since by man came death, by man came also the resurrection of the dead.
 
 "For as in Adam all die, even so in Christ shall all be made alive." ([1 Cor.
-15:19-22](https://www.lds.org/scriptures/nt/1-cor/15.19-22?lang=eng#18).)
+15:19-22](/scriptures/nt/1-cor/15.19-22?lang=eng#18).)
 
 Christ said:
 
@@ -269,8 +261,7 @@ take it again.
 
 "No man taketh it from me, but I lay it down of myself. I have power to lay it
 down, and I have power to take it again. This commandment have I received of
-my Father." ([John
-10:17-18](https://www.lds.org/scriptures/nt/john/10.17-18?lang=eng#16).)
+my Father." ([John 10:17-18](/scriptures/nt/john/10.17-18?lang=eng#16).)
 
 On another occasion he said:
 
@@ -285,7 +276,7 @@ graves shall hear his voice,
 
 "And shall come forth; they that have done good, unto the resurrection of
 life; and they that have done evil, unto the resurrection of damnation."
-([John 5:26-29](https://www.lds.org/scriptures/nt/john/5.26-29?lang=eng#25).)
+([John 5:26-29](/scriptures/nt/john/5.26-29?lang=eng#25).)
 
 We recall the words of Jesus to Martha when she told him of her brother's
 death:
@@ -294,7 +285,7 @@ death:
 dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 In a glorious promise, beautifully expressed, the Savior declared:
 
@@ -303,7 +294,7 @@ whosoever believeth in him should not perish, but have everlasting life.
 
 "For God sent not his Son into the world to condemn the world; but that the
 world through him might be saved." ([John
-3:16-17](https://www.lds.org/scriptures/nt/john/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/john/3.16-17?lang=eng#15).)
 
 From these scriptures we can plainly see the importance of our understanding
 just what the Atonement is and our responsibility in relation to it. We learn
@@ -327,13 +318,15 @@ that we are his spirit children; that Jesus Christ is his Only Begotten Son in
 the flesh, and is the Savior of us all; that "God so loved the world, that he
 gave his only begotten Son, that whosoever believeth in him should not perish,
 but have everlasting life" ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15)); and that
-through the Atonement of Christ all mankind can enjoy eternal life by
-obedience to the laws and ordinances of the gospel.
+3:16](/scriptures/nt/john/3.16?lang=eng#15)); and that through the Atonement
+of Christ all mankind can enjoy eternal life by obedience to the laws and
+ordinances of the gospel.
 
 I bear further witness that the gospel in its fulness has been restored in
 these the latter days; that this church, under the direction of Jesus Christ,
 is led by a prophet of God, even Spencer W. Kimball. May we all accept the
 gospel of Jesus Christ and so live as to enjoy eternal life with God, I humbly
 pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -16,11 +16,11 @@ earth, and rejoice ye inhabitants thereof, for the Lord is God, and beside him
 there is no Savior.
 
 "Great is his wisdom [and] marvelous are his ways." ([D&amp;C
-76:1-2](https://www.lds.org/scriptures/dc-testament/dc/76.1-2?lang=eng#0).)
+76:1-2](/scriptures/dc-testament/dc/76.1-2?lang=eng#0).)
 
 And he said, "The voice of the Lord is unto all men. ... And the voice of
-warning shall be unto all people." ([D&amp;C 1:2,
-4](https://www.lds.org/scriptures/dc-testament/dc/1.2%2C4?lang=eng#1).)
+warning shall be unto all people." ([D&amp;C 1:2, 4](/scriptures/dc-
+testament/dc/1.2,4?lang=eng#1).)
 
 The crux of our message is that Jesus of Nazareth is Christ the Lord, the
 Redeemer of all mankind, the Savior of the Christians and the Messiah of the
@@ -39,8 +39,7 @@ of God the Father in which he says again, _Hear ye him!_
 Our message is true. It is of vital concern to this troubled world. The Lord
 himself said, "Hearken ye people from afar; and ye that are upon the islands
 of the sea, listen together. For verily the voice of the Lord is unto all
-men." ([D&amp;C 1:1](https://www.lds.org/scriptures/dc-
-testament/dc/1.1?lang=eng#0).)
+men." ([D&amp;C 1:1](/scriptures/dc-testament/dc/1.1?lang=eng#0).)
 
 When we thus declare his modern revealed word, there arises immediately in the
 minds of many people the matter of credibility. This we realize full well,
@@ -58,8 +57,7 @@ the foundation of proper human relationships.
 We teach our men and women fidelity in its loftiest meaning. We believe that
 each of us is a spirit child of God and that the Lord intends that we shall so
 live that eventually we may become perfect, as our Father which is in heaven
-is perfect. (See [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).)
+is perfect. (See [Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47).)
 
 We believe the family was intended to become an eternal unit, to be projected
 beyond death and the resurrection into an everlasting and immortal life.
@@ -67,8 +65,8 @@ beyond death and the resurrection into an everlasting and immortal life.
 It is to prepare ourselves in worthiness for such a destiny that we teach this
 high standard of fidelity on the part of both husband and wife. We have but
 one single standard of morality for all. Our constant cry is "Be ye clean that
-bear the vessels of the Lord." ([D&amp;C 38:42](https://www.lds.org/scriptures
-/dc-testament/dc/38.42?lang=eng#41).)
+bear the vessels of the Lord." ([D&amp;C 38:42](/scriptures/dc-
+testament/dc/38.42?lang=eng#41).)
 
 We are a fast growing people. Honest-hearted men and women respond as they
 hear our message. We now have a Church membership of 3 1/2 million. Ten years
@@ -153,9 +151,9 @@ teen-age group, every Sunday 60 percent of all LDS youth are actually present
 in their classes.
 
 In our Church we teach that "the glory of God is intelligence." (See [D&amp;C
-93:36](https://www.lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35).) We
-believe also that the glory of man is likewise intelligence. With this in
-mind, we are strong advocates of education.
+93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).) We believe also that
+the glory of man is likewise intelligence. With this in mind, we are strong
+advocates of education.
 
 When Dr. Clark Kerr, chairman of the Carnegie Council on Policy Studies in
 Higher Education, addressed the commencement exercises of the University of
@@ -273,4 +271,6 @@ Jesus Christ lives and that he is the Redeemer of this world. And we unitedly
 give voice to God's command with respect to the Christ: _"Hear ye him!"_ There
 is salvation in and through him alone. And to this we testify in his holy
 name. Amen.
+
+## References
 

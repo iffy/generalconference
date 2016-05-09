@@ -93,12 +93,12 @@ Twelve according to various responsibilities delegated to them.
 According to the revelation of the Lord, "of the Melchizedek Priesthood, three
 Presiding High Priests, chosen by the body, appointed and ordained to that
 office, and upheld by the confidence, faith, and prayer of the church, form a
-quorum of the Presidency of the Church." ([D&amp;C
-107:22](https://www.lds.org/scriptures/dc-testament/dc/107.22?lang=eng#21).)
+quorum of the Presidency of the Church." ([D&amp;C 107:22](/scriptures/dc-
+testament/dc/107.22?lang=eng#21).)
 
 This "Presidency of the High Priesthood, after the order of Melchizedek, have
 a right to officiate in all the offices in the church." ([D&amp;C
-107:9](https://www.lds.org/scriptures/dc-testament/dc/107.9?lang=eng#8).)
+107:9](/scriptures/dc-testament/dc/107.9?lang=eng#8).)
 
 Further pertaining to this principle, "it is according to the dignity of his
 office that he [the president] should preside over the council of the church;
@@ -108,8 +108,7 @@ after the same manner that he himself was appointed.
 "And in case of the absence of one or both of those who are appointed to
 assist him, he has power to preside over the council without an assistant; and
 in case he himself is absent, the other presidents have power to preside in
-his stead, both or either of them." ([D&amp;C
-102:10-11](https://www.lds.org/scriptures/dc-
+his stead, both or either of them." ([D&amp;C 102:10-11](/scriptures/dc-
 testament/dc/102.10-11?lang=eng#9).)
 
 We who serve as Counselors recognize and know the parameters of our authority
@@ -138,14 +137,14 @@ witnesses of the name of Christ in all the world--thus differing from other
 officers in the church in the duties of their calling.
 
 "And they form a quorum, equal in authority and power to the three presidents
-previously mentioned." ([D&amp;C 107:23-24](https://www.lds.org/scriptures/dc-
+previously mentioned." ([D&amp;C 107:23-24](/scriptures/dc-
 testament/dc/107.23-24?lang=eng#22).)
 
 You ask, can there be two separate bodies with equal authority, without
 confusion? Yes. The Lord has given the answer to this. He has said, "The
 Twelve are a Traveling Presiding High Council, to officiate in the name of the
 Lord, under the direction of the Presidency of the Church." ([D&amp;C
-107:33](https://www.lds.org/scriptures/dc-testament/dc/107.33?lang=eng#32).)
+107:33](/scriptures/dc-testament/dc/107.33?lang=eng#32).)
 
 Concerning this matter, President Joseph F. Smith said, "The duty of the
 Twelve Apostles of the Church is to preach the gospel to the world, to send it
@@ -183,12 +182,11 @@ How different it is with the work of the Lord. No faithful member of this
 Church would think of applying for ecclesiastical office. Rather, "we believe
 that a man must be called of God, by prophecy, and by the laying on of hands
 by those who are in authority, to preach the Gospel and administer in the
-ordinances thereof." ([A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
+ordinances thereof." ([A of F 1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
 
 The Lord Himself said of the Twelve whom He selected: "Ye have not chosen me,
 but I have chosen you, and ordained you." ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).)
+15:16](/scriptures/nt/john/15.16?lang=eng#15).)
 
 I am confident that no man was ever called as a General Authority of this
 Church, certainly none I have known, who did not get on his knees, confessing
@@ -262,16 +260,16 @@ have taught. He has said that "the decisions of these quorums, or either of
 them, are to be made in all righteousness, in holiness, and lowliness of
 heart, meekness and long suffering, and in faith, and virtue, and knowledge,
 temperance, patience, godliness, brotherly kindness and charity." ([D&amp;C
-107:30](https://www.lds.org/scriptures/dc-testament/dc/107.30?lang=eng#29).)
-It is in this spirit that we seek to serve.
+107:30](/scriptures/dc-testament/dc/107.30?lang=eng#29).) It is in this spirit
+that we seek to serve.
 
 He further said, concerning that which is taught by His servants, that "those
 who receive it in faith, and work righteousness, shall receive a crown of
 eternal life;
 
 "But those who harden their hearts in unbelief, and reject it, it shall turn
-to their own condemnation." ([D&amp;C 20:14-15](https://www.lds.org/scriptures
-/dc-testament/dc/20.14-15?lang=eng#13).)
+to their own condemnation." ([D&amp;C 20:14-15](/scriptures/dc-
+testament/dc/20.14-15?lang=eng#13).)
 
 When we plead with our people to observe the Sabbath day, to refrain from
 making it a day of merchandising, we are only repeating that which the Lord
@@ -287,7 +285,7 @@ drugs, and such, we are doing only that which prophets have always done.
 Ours is the responsibility outlined by Ezekiel: "Son of man, I have made thee
 a watchman unto the house of Israel: therefore hear the word at my mouth, and
 give them warning from me." ([Ezek.
-3:17](https://www.lds.org/scriptures/ot/ezek/3.17?lang=eng#16).)
+3:17](/scriptures/ot/ezek/3.17?lang=eng#16).)
 
 We have no selfish desire in any of this, other than the wish that our
 brethren and sisters will be happy, that peace and love will be found in their
@@ -309,4 +307,6 @@ I make a promise to all who uphold and sustain it, and who strive with faith
 and prayer to live its principles, that they will be blessed with happiness
 and accomplishment in this life and joy and eternal life in the world to come.
 In the name of Jesus Christ, amen.
+
+## References
 

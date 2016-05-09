@@ -238,3 +238,21 @@ righteous efforts to save our marriages and strengthen our families.
 May the Lord bless you in your untiring and righteous efforts to be numbered
 among those who save. This is my prayer in the name of Jesus Christ, amen.
 
+## References
+
+  1. See [1 Corinthians 13:4-7](https://www.lds.org/scriptures/nt/1-cor/13.4-7?lang=eng#3); see also [Moroni 7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).
+
+  2. [Doctrine and Covenants 64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32).
+
+  3. [Matthew 7:7](https://www.lds.org/scriptures/nt/matt/7.7?lang=eng#6); [Luke 11:9](https://www.lds.org/scriptures/nt/luke/11.9?lang=eng#8); [3 Nephi 14:7](https://www.lds.org/scriptures/bofm/3-ne/14.7?lang=eng#6).
+
+  4. See [4 Nephi 1:15-16](https://www.lds.org/scriptures/bofm/4-ne/1.15-16?lang=eng#14).
+
+  5. [1 Corinthians 13:8](https://www.lds.org/scriptures/nt/1-cor/13.8?lang=eng#7); see also [Moroni 7:46](https://www.lds.org/scriptures/bofm/moro/7.46?lang=eng#45).
+
+  6. [James 2:13](https://www.lds.org/scriptures/nt/james/2.13?lang=eng#12), English Standard Version.
+
+  7. [James 2:13](https://www.lds.org/scriptures/nt/james/2.13?lang=eng#12), English Standard Version.
+
+  8. "O God, the Eternal Father," _Hymns,_ no. 175.
+

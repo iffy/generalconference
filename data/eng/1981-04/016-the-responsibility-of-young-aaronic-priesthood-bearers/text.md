@@ -19,7 +19,7 @@ Scott is two years old.
 The story of the expansion of The Church of Jesus Christ of Latter-day Saints
 throughout the world not only is a miracle but is "as the stone ... cut out of
 the mountain without hands [that] shall roll forth, until it has filled the
-whole earth." (See [D&amp;C 65:2](https://www.lds.org/scriptures/dc-
+whole earth." (See [D&amp;C 65:2](/scriptures/dc-
 testament/dc/65.2?lang=eng#1).)
 
 Recently a California family, driving through St. George, Utah, on vacation,
@@ -122,9 +122,9 @@ of faith in a living God.
 
 Our Lord counseled us to "seek ... first the kingdom of God, and his
 righteousness; and all ... things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).) As you study
-the scriptures, pray to understand them, and live in harmony with their
-inspired teachings, then you will grow in wisdom and strength.
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).) As you study the scriptures,
+pray to understand them, and live in harmony with their inspired teachings,
+then you will grow in wisdom and strength.
 
 You hold sacred priesthood keys, rights, and responsibilities. A troubled
 world is waiting to hear from you. What will you say? How will you say it?
@@ -132,7 +132,7 @@ Will the world know that you know for sure where you are going?
 
 Paul taught his young friend Timothy, "For God hath not given us the spirit of
 fear; but of power, and of love, and of a sound mind." ([2 Tim.
-1:7](https://www.lds.org/scriptures/nt/2-tim/1.7?lang=eng#6).)
+1:7](/scriptures/nt/2-tim/1.7?lang=eng#6).)
 
 The Lord has placed in our hands the divine power and authority to act in all
 things, to preach the gospel and perform the ordinances of salvation by which
@@ -147,7 +147,7 @@ cloud of light" and laid his hands upon them and ordained them, saying:
 "Upon you my fellow servants, in the name of Messiah, I confer the Priesthood
 of Aaron, which holds the keys of the ministering of angels, and of the gospel
 of repentance, and of baptism by immersion for the remission of sins." ([JS--H
-1:68-69](https://www.lds.org/scriptures/pgp/js-h/1.68-69?lang=eng#67).)
+1:68-69](/scriptures/pgp/js-h/1.68-69?lang=eng#67).)
 
 Joseph Smith received direction to baptize Oliver Cowdery and Oliver to
 baptize Joseph. Then the Aaronic Priesthood was conferred upon each.
@@ -155,8 +155,7 @@ baptize Joseph. Then the Aaronic Priesthood was conferred upon each.
 The heavenly messenger "said that his name was ... John the Baptist, ... and that
 he acted under the direction of Peter, James and John, who held the keys of
 the Priesthood of Melchizedek, which ... would in due time be conferred on"
-Joseph and Oliver. (See [JS--H
-1:72](https://www.lds.org/scriptures/pgp/js-h/1.72?lang=eng#71).)
+Joseph and Oliver. (See [JS--H 1:72](/scriptures/pgp/js-h/1.72?lang=eng#71).)
 
 You hold this same sacred authority to declare repentance, to baptize, to
 administer the sacrament, to assist the bishop, and to be concerned for those
@@ -171,12 +170,11 @@ Philistine giant, Goliath, on the battlefield. With a prayer in his heart and
 unafraid, David took a stone out of his bag and, whirling the sling around his
 head, flung the stone at Goliath, and it sank deep into his forehead. Goliath
 fell to the earth. A young boy's courage and faith in God had saved the
-Israelites. (See [1 Sam.
-17](https://www.lds.org/scriptures/ot/1-sam/17.title?lang=eng).)
+Israelites. (See [1 Sam. 17](/scriptures/ot/1-sam/17?lang=eng).)
 
 Joseph Smith at age fourteen read in James: "If any of you lack wisdom, let
 him ask of God, ... and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) Later he said:
+1:5](/scriptures/nt/james/1.5?lang=eng#4).) Later he said:
 
 "Never did any passage of scripture come with more power to the heart of man.
 ... It seemed to enter with great force into every feeling of my heart. ...
@@ -184,8 +182,7 @@ him ask of God, ... and it shall be given him." ([James
 "I retired to the woods. ...
 
 "I kneeled down and began to offer up the desire of my heart to God." ([JS--H
-1:12,
-14-15](https://www.lds.org/scriptures/pgp/js-h/1.12%2C14-15?lang=eng#11).)
+1:12, 14-15](/scriptures/pgp/js-h/1.12,14-15?lang=eng#11).)
 
 Thus began the events that led to the restoration of The Church of Jesus
 Christ when God the Father and His Son appeared to the boy, Joseph.
@@ -226,7 +223,7 @@ money."
 
 Jesus taught, "For what shall it profit a man, if he shall gain the whole
 world, and lose his own soul?" ([Mark
-8:36](https://www.lds.org/scriptures/nt/mark/8.36?lang=eng#35).)
+8:36](/scriptures/nt/mark/8.36?lang=eng#35).)
 
 Your character is yours alone to build. No one can injure your character but
 you.
@@ -301,4 +298,6 @@ important, they helped prepare us to be called in our youth to be servants of
 our Savior. He needs every one of you young men who hold the priesthood. I
 testify that this work is true. I do it humbly, in the holy name of Jesus
 Christ, amen.
+
+## References
 

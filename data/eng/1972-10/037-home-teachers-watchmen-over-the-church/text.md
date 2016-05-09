@@ -32,15 +32,15 @@ The importance of the family was emphasized to the Prophet Joseph Smith even
 before the Church was organized. The Lord revealed to him a plan by which the
 priesthood was to watch over the Church. The Saints were instructed "to visit
 the house of each member, and exhort them to pray vocally and in secret and
-attend to all family duties." ([D&amp;C 20:47](https://www.lds.org/scriptures
-/dc-testament/dc/20.47?lang=eng#46).) He told the teachers to "watch over the
+attend to all family duties." ([D&amp;C 20:47](/scriptures/dc-
+testament/dc/20.47?lang=eng#46).) He told the teachers to "watch over the
 church always, and be with and strengthen them;
 
 "And see that there is no iniquity in the church, neither hardness with each
 other, neither lying, backbiting, nor evil speaking;
 
 "And see that the church meet together often, and also see that all the
-members do their duty." ([D&amp;C 20:53-55](https://www.lds.org/scriptures/dc-
+members do their duty." ([D&amp;C 20:53-55](/scriptures/dc-
 testament/dc/20.53-55?lang=eng#52).)
 
 From that time forward, to a degree, all homes in the Church have been visited
@@ -207,4 +207,6 @@ essential functions." (Cited by Elder Harold B. Lee, in CR, September 30,
 May we better fulfill our assignment as home teachers by becoming guardians
 and watchmen over the families of the Church and thus strengthen them, I pray,
 in the name of Jesus Christ. Amen.
+
+## References
 

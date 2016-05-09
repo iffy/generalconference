@@ -24,8 +24,8 @@ pertaining to the ultimate happiness and eternal destiny of man.
 I earnestly seek his divine help and guidance that the intent of my heart will
 not be misunderstood, and perhaps our communication can be like the prophet
 Isaiah when he said, "Come now, and let us reason together" ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17)); and this for
-one purpose only, that we might all be blessed more abundantly.
+1:18](/scriptures/ot/isa/1.18?lang=eng#17)); and this for one purpose only,
+that we might all be blessed more abundantly.
 
 As I proceed now to share these few thoughts with you, I declare with the
 apostle Paul as he taught the saints of Rome:
@@ -36,7 +36,7 @@ apostle Paul as he taught the saints of Rome:
 salvation."
 
 Then he concluded, "It is the power of God ... to every one that believeth."
-([Rom. 1:15-16](https://www.lds.org/scriptures/nt/rom/1.15-16?lang=eng#14).)
+([Rom. 1:15-16](/scriptures/nt/rom/1.15-16?lang=eng#14).)
 
 And I promise you that the Holy Ghost stands ever ready to bear witness to all
 who earnestly seek the truth that they might recognize that truth.
@@ -74,9 +74,9 @@ house of order. His holy purposes are not carried out by man's whim or fancy
 but, rather, in this church which bears his name, sacred ordinances can only
 be performed by proper authority. We agree with Paul that "no man taketh this
 honour unto himself, but he that is called of God, as was Aaron." ([Heb.
-5:4](https://www.lds.org/scriptures/nt/heb/5.4?lang=eng#3).) Priesthood
-authority of the Lord Jesus Christ was restored by John the Baptist, by Peter,
-James, and John in the spring of 1829.
+5:4](/scriptures/nt/heb/5.4?lang=eng#3).) Priesthood authority of the Lord
+Jesus Christ was restored by John the Baptist, by Peter, James, and John in
+the spring of 1829.
 
 Since the reestablishment of the Lord's true church 144 years ago, there has
 been a driving compulsion among the members of the Church to share their good
@@ -124,11 +124,10 @@ and then it happened. Jeff and Angela started to attend Primary with the
 neighbor's children. From then on each Primary day our dinner hour became an
 instant replay of Primary. As parents, we couldn't believe the great thoughts
 and attitudes--yes, and 'a little child shall lead them.' [[Isa.
-11:6](https://www.lds.org/scriptures/ot/isa/11.6?lang=eng#5).] Well, that was
-the beginning, [he writes], and now after two years as members of the Lord's
-true church, we really do have it made. Our family didn't really know what
-family unity and true happiness were all about until Mormonism came into our
-family circle."
+11:6](/scriptures/ot/isa/11.6?lang=eng#5).] Well, that was the beginning, [he
+writes], and now after two years as members of the Lord's true church, we
+really do have it made. Our family didn't really know what family unity and
+true happiness were all about until Mormonism came into our family circle."
 
 One woman in a South American country, intrigued by the sincerity of the
 Mormon missionaries, invited them back to meet the family that evening. But
@@ -162,10 +161,12 @@ of well-meaning critics 2,000 years ago, when he said:
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself." ([John
-7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15).)
+7:16-17](/scriptures/nt/john/7.16-17?lang=eng#15).)
 
 I declare in all kindness and sincerity that your eternal life and the
 salvation of your family depend upon what happened in the life of Joseph
 Smith, a prophet of God. May you find out soon is my humble prayer in the name
 of the Lord Jesus Christ. Amen.
+
+## References
 

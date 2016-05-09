@@ -22,7 +22,7 @@ another. The words of the Lord to Peter are pertinent to their situation.
 Declared he: "Simon. ... Satan hath desired to have you, that he may sift you as
 wheat: But I have prayed for thee, that thy faith fail not: and when thou art
 converted, strengthen thy brethren." ([Luke
-22:31-32](https://www.lds.org/scriptures/nt/luke/22.31-32?lang=eng#30).)
+22:31-32](/scriptures/nt/luke/22.31-32?lang=eng#30).)
 
 This is one of the great purposes of quorum organization in the priesthood of
 the Church--to bring an awareness of the needs of others and an opportunity
@@ -55,10 +55,9 @@ qualified them to manage a home as it should be managed.
 
 Said Paul to the Romans: "We then that are strong ought to bear the
 infirmities of the weak," and then he added, "and not to please ourselves."
-([Rom. 15:1](https://www.lds.org/scriptures/nt/rom/15.1?lang=eng#0).) This is
-the spirit of this great brotherhood of men--to bear the infirmities of one
-another, not necessarily to please themselves, but in fulfillment of a divine
-obligation.
+([Rom. 15:1](/scriptures/nt/rom/15.1?lang=eng#0).) This is the spirit of this
+great brotherhood of men--to bear the infirmities of one another, not
+necessarily to please themselves, but in fulfillment of a divine obligation.
 
 _Second, active membership in the Church will motivate a man to clean up his
 life, if that is necessary._
@@ -133,8 +132,7 @@ of faith, with an endowment of authority to speak in the name of God._
 In the opening of this work, in this dispensation of time, the Lord declared
 one of the purposes of the restoration of the gospel to be "that every man
 might speak in the name of God the Lord, even the Savior of the world."
-([D&amp;C 1:20](https://www.lds.org/scriptures/dc-
-testament/dc/1.20?lang=eng#19).)
+([D&amp;C 1:20](/scriptures/dc-testament/dc/1.20?lang=eng#19).)
 
 Blessed is the man who prays with the assurance that prayers are heard and
 answered. Blessed is the man whose companion is the Holy Spirit. Blessed is
@@ -148,7 +146,7 @@ could not, and the king was greatly troubled.
 And the queen said, "There is a man in thy kingdom, in whom is the spirit of
 the holy gods; and in the days of thy father light and understanding and
 wisdom, like the wisdom of the gods, was found in him. ..." ([Dan.
-5:11](https://www.lds.org/scriptures/ot/dan/5.11?lang=eng#10).)
+5:11](/scriptures/ot/dan/5.11?lang=eng#10).)
 
 Daniel was brought before the king, and by virtue of the power in him he
 interpreted the writing on the wall.
@@ -210,7 +208,7 @@ A loving Eternal Father, with concern for his children, has made possible a
 continuation of those sacred relationships. Declared the Lord to his chosen
 Twelve, "And I will give unto thee the keys of the kingdom of heaven: and
 whatsoever thou shalt bind on earth shall be bound in heaven. ..." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 That same power, to bind in heaven what is bound on earth, is in this church
 today. It is exercised in holy temples, and there, under the authority of the
@@ -248,4 +246,6 @@ previously experienced.
 
 I bear witness of these things in soberness and with appreciation, in the name
 of Jesus Christ. Amen.
+
+## References
 

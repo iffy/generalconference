@@ -2,20 +2,17 @@
 
 The Savior of the world, the Redeemer of all God's children, Jesus of
 Nazareth, has power to forgive sins. His own witness of such power is recorded
-in the New Testament (see [Matt.
-9:6](https://www.lds.org/scriptures/nt/matt/9.6?lang=eng#5); [Mark
-2:10](https://www.lds.org/scriptures/nt/mark/2.10?lang=eng#9); [Luke 5:20,
-24](https://www.lds.org/scriptures/nt/luke/5.20%2C24?lang=eng#19)). His
-Apostles Peter and Paul testified of this truth (see [Acts
-5:31](https://www.lds.org/scriptures/nt/acts/5.31?lang=eng#30); [Acts
-13:38-39](https://www.lds.org/scriptures/nt/acts/13.38-39?lang=eng#37); [Eph.
-1:7](https://www.lds.org/scriptures/nt/eph/1.7?lang=eng#6)), as did also the
-prophets of the Book of Mormon (see [Enos
-1:5](https://www.lds.org/scriptures/bofm/enos/1.5?lang=eng#4); [Mosiah
-4:3](https://www.lds.org/scriptures/bofm/mosiah/4.3?lang=eng#2); [Moro.
-6:8](https://www.lds.org/scriptures/bofm/moro/6.8?lang=eng#7)) and of modern
-times (see [D&amp;C 61:2](https://www.lds.org/scriptures/dc-
-testament/dc/61.2?lang=eng#1)).
+in the New Testament (see [Matt. 9:6](/scriptures/nt/matt/9.6?lang=eng#5);
+[Mark 2:10](/scriptures/nt/mark/2.10?lang=eng#9); [Luke 5:20,
+24](/scriptures/nt/luke/5.20,24?lang=eng#19)). His Apostles Peter and Paul
+testified of this truth (see [Acts
+5:31](/scriptures/nt/acts/5.31?lang=eng#30); [Acts
+13:38-39](/scriptures/nt/acts/13.38-39?lang=eng#37); [Eph.
+1:7](/scriptures/nt/eph/1.7?lang=eng#6)), as did also the prophets of the Book
+of Mormon (see [Enos 1:5](/scriptures/bofm/enos/1.5?lang=eng#4); [Mosiah
+4:3](/scriptures/bofm/mosiah/4.3?lang=eng#2); [Moro.
+6:8](/scriptures/bofm/moro/6.8?lang=eng#7)) and of modern times (see [D&amp;C
+61:2](/scriptures/dc-testament/dc/61.2?lang=eng#1)).
 
 Through the centuries, many have received great joy and peace of mind through
 understanding and accepting the Lord's forgiveness. Yet, many others
@@ -70,7 +67,7 @@ him in mighty prayer and supplication for mine own soul; ...
 "And I said: Lord, how is it done?
 
 "And he said unto me: Because of thy faith in Christ" ([Enos
-1:4-8](https://www.lds.org/scriptures/bofm/enos/1.4-8?lang=eng#3)).
+1:4-8](/scriptures/bofm/enos/1.4-8?lang=eng#3)).
 
 How is it done? The question each of us may ponder. Again we turn to the Book
 of Mormon for additional understanding.
@@ -78,27 +75,24 @@ of Mormon for additional understanding.
 Father Lehi teaches us that the divine purpose of our mortal probation
 requires us to experience opposition in all things and, knowing good from
 evil, to exercise our moral agency, make choices, and be accountable for the
-consequences (see [2 Ne.
-2](https://www.lds.org/scriptures/bofm/2-ne/2.title?lang=eng)).
+consequences (see [2 Ne. 2](/scriptures/bofm/2-ne/2?lang=eng)).
 
 We learn from the prophet Alma that we are subject to divine law, which all
 have transgressed in some respect, making us subject to the demands of justice
-(see [Alma 42:14,
-18](https://www.lds.org/scriptures/bofm/alma/42.14%2C18?lang=eng#13)). God's
+(see [Alma 42:14, 18](/scriptures/bofm/alma/42.14,18?lang=eng#13)). God's
 justice is based upon divine laws, under which we receive what we deserve
 according to our disobedience or obedience to the law.
 
 Justice affords no forgiveness for transgressors but imposes penalties (see
-[D&amp;C 82:4](https://www.lds.org/scriptures/dc-
-testament/dc/82.4?lang=eng#3)). None is exempt (see [D&amp;C
-107:84](https://www.lds.org/scriptures/dc-testament/dc/107.84?lang=eng#83)).
-After all we can do to repent, we are still subject to the demands of justice
-and its penalties, which we cannot satisfy.
+[D&amp;C 82:4](/scriptures/dc-testament/dc/82.4?lang=eng#3)). None is exempt
+(see [D&amp;C 107:84](/scriptures/dc-testament/dc/107.84?lang=eng#83)). After
+all we can do to repent, we are still subject to the demands of justice and
+its penalties, which we cannot satisfy.
 
 However, we learn from Alma of our Father's plan of mercy, whereby the Son of
 God would atone for the sins of the world and "appease the demands of justice,
 that God might be a perfect, just God, and a merciful God also" ([Alma
-42:15](https://www.lds.org/scriptures/bofm/alma/42.15?lang=eng#14)).
+42:15](/scriptures/bofm/alma/42.15?lang=eng#14)).
 
 The Savior's vicarious sacrifice satisfies the justice of God. Therefore, God
 extends his mercy, whereby we may receive forgiveness of our personal
@@ -112,14 +106,14 @@ of grace and truth.
 
 "Behold, he offereth himself a sacrifice for sin, to answer the ends of the
 law, unto all those who have a broken heart and a contrite spirit" ([2 Ne.
-2:6-7](https://www.lds.org/scriptures/bofm/2-ne/2.6-7?lang=eng#5)).
+2:6-7](/scriptures/bofm/2-ne/2.6-7?lang=eng#5)).
 
 The beginning and completion of repentance leading to forgiveness is faith in
 Jesus Christ, who is the "author and the finisher of [our] faith" ([Moro.
-6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3)). Our faith in
-him as Savior and Redeemer engenders in us godly sorrow for our
-transgressions, a broken heart and a contrite spirit, and a sense of personal
-accountability. There follows a change in attitude and a turning toward God.
+6:4](/scriptures/bofm/moro/6.4?lang=eng#3)). Our faith in him as Savior and
+Redeemer engenders in us godly sorrow for our transgressions, a broken heart
+and a contrite spirit, and a sense of personal accountability. There follows a
+change in attitude and a turning toward God.
 
 We resolve to forsake disobedience, even carelessness, and strive better to
 know and love our Father in Heaven and to obey his laws and commandments.
@@ -140,10 +134,9 @@ cannot pay the price for our sins.
 
 The resurrected Christ has said, "For behold, I, God, have suffered these
 things for all, that they might not suffer if they would repent" ([D&amp;C
-19:16](https://www.lds.org/scriptures/dc-testament/dc/19.16?lang=eng#15)). To
-the Nephites he declared, "Return unto me, and repent of your sins, and be
-converted, that _I may heal you_" ([3 Ne.
-9:13](https://www.lds.org/scriptures/bofm/3-ne/9.13?lang=eng#12); italics
+19:16](/scriptures/dc-testament/dc/19.16?lang=eng#15)). To the Nephites he
+declared, "Return unto me, and repent of your sins, and be converted, that _I
+may heal you_" ([3 Ne. 9:13](/scriptures/bofm/3-ne/9.13?lang=eng#12); italics
 added).
 
 The Lord's gift of forgiveness, however, is not complete until it is accepted.
@@ -151,7 +144,7 @@ True and complete repentance is a process by which we may become reconciled
 with God and accept the divine gift of forgiveness.
 
 In the words of Nephi, "It is by grace that we are saved, after all we can do"
-([2 Ne. 25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22)).
+([2 Ne. 25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22)).
 
 The effect of the infinite, atoning sacrifice was twofold: First, resurrection
 and immortality for all, unconditionally granted. Second, eternal life for
@@ -165,8 +158,7 @@ covenants and obey the commandments of God.
 Being mortal, and despite our resolve and efforts, we will continue to fall
 short of perfection. However, with Nephi of old, conscious of our weaknesses,
 temptations, and past mistakes, we may say, "Nevertheless, I know in whom I
-have trusted" ([2 Ne.
-4:19](https://www.lds.org/scriptures/bofm/2-ne/4.19?lang=eng#18)). There
+have trusted" ([2 Ne. 4:19](/scriptures/bofm/2-ne/4.19?lang=eng#18)). There
 follows a natural resolve to renew our efforts.
 
 Essential to receiving divine forgiveness are personal, individual recognition
@@ -183,7 +175,7 @@ blood of Christ they might receive forgiveness of their sins, for, said they,
 "[And] the Spirit of the Lord came upon them, and they were filled with joy,
 having received a remission of their sins, and having peace of conscience,
 because of the exceeding faith which they had in Jesus Christ" ([Mosiah
-4:2-3](https://www.lds.org/scriptures/bofm/mosiah/4.2-3?lang=eng#1)).
+4:2-3](/scriptures/bofm/mosiah/4.2-3?lang=eng#1)).
 
 Each of us may ask, "How may I know that I am forgiven?"
 
@@ -214,13 +206,13 @@ The ancient prophet Isaiah taught us, "Cease to do evil;
 
 "Though your sins be as scarlet, they shall be as white as snow; though they
 be red like crimson, they shall be as wool" ([Isa.
-1:16-18](https://www.lds.org/scriptures/ot/isa/1.16-18?lang=eng#15)).
+1:16-18](/scriptures/ot/isa/1.16-18?lang=eng#15)).
 
 And further, "Surely he hath borne our griefs, and carried our sorrows. ...
 
 "He was wounded for our transgressions, he was bruised for our iniquities: the
 chastisement of our peace was upon him; and with his stripes we are healed"
-([Isa. 53:4-5](https://www.lds.org/scriptures/ot/isa/53.4-5?lang=eng#3)).
+([Isa. 53:4-5](/scriptures/ot/isa/53.4-5?lang=eng#3)).
 
 The prophet of this dispensation, Joseph Smith, and his companion Sidney
 Rigdon gave testimony of the gospel, as recorded in the 76th section of the
@@ -231,11 +223,10 @@ these words:_
 "And this is the gospel ...
 
 "That he came into the world, even Jesus, to be crucified for [me], and to
-bear [my] sins ... , and to sanctify [me], and to cleanse [me] from all
+bear [my] sins ..., and to sanctify [me], and to cleanse [me] from all
 unrighteousness;
 
-"That through him [I] might be saved" ([D&amp;C
-76:40-42](https://www.lds.org/scriptures/dc-
+"That through him [I] might be saved" ([D&amp;C 76:40-42](/scriptures/dc-
 testament/dc/76.40-42?lang=eng#39)).
 
 In conclusion, these verses from a favorite hymn:
@@ -266,4 +257,6 @@ _And bear a song away._
 
 To these truths which I have sought to teach I bear solemn, personal witness,
 in the sacred name of our Lord and Savior, Jesus Christ, amen.
+
+## References
 

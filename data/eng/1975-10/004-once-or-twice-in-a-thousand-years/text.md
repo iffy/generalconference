@@ -85,7 +85,7 @@ selected souls become his servants. And so at the time appointed came Joseph
 Smith, Jr., the man appointed. This spiritual giant of whom it is now said,
 "Joseph Smith, the Prophet and Seer of the Lord, has done more, save Jesus
 only, for the salvation of men in this world, than any other man that ever
-lived in it" ([D&amp;C 135:3](https://www.lds.org/scriptures/dc-
+lived in it" ([D&amp;C 135:3](/scriptures/dc-
 testament/dc/135.3?lang=eng#2))--this foreordained prophet came to usher in
 the Lord's great latter-day work.
 
@@ -101,8 +101,7 @@ fools shall have thee in derision, and hell shall rage against thee;
 
 "While the pure in heart, and the wise, and the noble, and the virtuous, shall
 seek counsel, and authority, and blessings constantly from under thy hand."
-([D&amp;C 122:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/122.1-2?lang=eng#0).)
+([D&amp;C 122:1-2](/scriptures/dc-testament/dc/122.1-2?lang=eng#0).)
 
 It was 1820; the man and the hour joined hands. The vision was soon to be, and
 the burning flames of gospel truth would then consume the briars and weeds of
@@ -113,17 +112,17 @@ concern and unrest swept the frontier areas where the Lord's future prophet
 dwelt in peaceful obscurity. The ministers of a decadent Christendom plied
 their trade with fanatical valor. Their cries went forth, "'Lo, here is
 Christ,' and, 'Lo, there.'" ([JS--H
-1:5](https://www.lds.org/scriptures/pgp/js-h/1.5?lang=eng#4).)
+1:5](/scriptures/pgp/js-h/1.5?lang=eng#4).)
 
 Each professor of religion used all his powers of reason and sophistry to gain
 converts to his particular system of salvation. Feelings were intense;
 bitterness welled up in many hearts. A "war of words and tumult of opinions"
 spread rancor and division among the people. ([JS--H
-1:10](https://www.lds.org/scriptures/pgp/js-h/1.10?lang=eng#9).) In the midst
-of these contentious times, God's future prophet often said to himself: "What
-is to be done? Who of all these parties are right, or are they all wrong
-together? If any one of them be right, which is it, and how shall I know it?"
-([JS--H 1:10](https://www.lds.org/scriptures/pgp/js-h/1.10?lang=eng#9).)
+1:10](/scriptures/pgp/js-h/1.10?lang=eng#9).) In the midst of these
+contentious times, God's future prophet often said to himself: "What is to be
+done? Who of all these parties are right, or are they all wrong together? If
+any one of them be right, which is it, and how shall I know it?" ([JS--H
+1:10](/scriptures/pgp/js-h/1.10?lang=eng#9).)
 
 It was at this critical point that divine providence caused a ray of living
 light to shine forth from God's holy word and enlighten the heart of the
@@ -149,15 +148,14 @@ Lord:
 
 "And thou shalt love the Lord thy God with all thine heart, and with all thy
 soul, and with all thy might." ([Deut.
-6:4-5](https://www.lds.org/scriptures/ot/deut/6.4-5?lang=eng#3).) And Jesus
-our Lord picking up the words of love and service here spoken, called them the
-first and great commandment.
+6:4-5](/scriptures/ot/deut/6.4-5?lang=eng#3).) And Jesus our Lord picking up
+the words of love and service here spoken, called them the first and great
+commandment.
 
 The words which most people believe to be the greatest scriptural utterance of
 New Testament times are, "For God so loved the world, that he gave his only
 begotten Son, that whosoever believeth in him should not perish, but have
-everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+everlasting life." ([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 It is difficult to overstate the importance and influence on the lives of men
 of these and kindred passages. And yet the words of James which opened the
@@ -169,7 +167,7 @@ converts in due course.
 
 These are the words: "If any of you lack wisdom, let him ask of God, that
 giveth to all men liberally, and upbraideth not; and it shall be given him."
-([James 1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+([James 1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 Simple, easy, pure words--words which set the stage for all men in all ages to
 learn the mind and will of Him who made them; words dictated by the Holy Ghost
@@ -190,7 +188,7 @@ James says, "But let him ask in faith, nothing wavering. For he that wavereth
 is like a wave of the sea driven with the wind and tossed.
 
 "For let not that man think that he shall receive any thing of the Lord."
-([James 1:6-7](https://www.lds.org/scriptures/nt/james/1.6-7?lang=eng#5).)
+([James 1:6-7](/scriptures/nt/james/1.6-7?lang=eng#5).)
 
 And so at this turning point in history--while the Spirit of God was brooding
 over the darkness of the world and the spirits of men yet unborn were awaiting
@@ -201,8 +199,7 @@ exist on earth.
 "Never did any passage of scripture come with more power to the heart of man,"
 the young prophet would say later, "than this did at this time to mine. It
 seemed to enter with great force into every feeling of my heart. I reflected
-on it again and again." ([JS--H
-1:12](https://www.lds.org/scriptures/pgp/js-h/1.12?lang=eng#11).)
+on it again and again." ([JS--H 1:12](/scriptures/pgp/js-h/1.12?lang=eng#11).)
 
 Such are the ways of God and such are the workings of his Holy Spirit. With a
 power that none can know save those whose souls are tuned to the Infinite, the
@@ -212,8 +209,7 @@ Of the religious controversy which was pouring venom and confusion throughout
 the whole area, Joseph Smith said, "The teachers of religion of the different
 sects understood the same passages of scripture so differently as to destroy
 all confidence in settling the question [of which church was right] by an
-appeal to the Bible." ([JS--H
-1:12](https://www.lds.org/scriptures/pgp/js-h/1.12?lang=eng#11).)
+appeal to the Bible." ([JS--H 1:12](/scriptures/pgp/js-h/1.12?lang=eng#11).)
 
 He must ask of God, as all men must, and ask he did. He walked a short
 distance from his country home to a secluded place in a grove of trees. There,
@@ -235,7 +231,7 @@ seized upon by some power which entirely overcame me," he said, "and had such
 an astonishing influence over me as to bind my tongue so that I could not
 speak. Thick darkness gathered around me, and it seemed to me for a time as if
 I were doomed to sudden destruction." ([JS--H
-1:15](https://www.lds.org/scriptures/pgp/js-h/1.15?lang=eng#14).)
+1:15](/scriptures/pgp/js-h/1.15?lang=eng#14).)
 
 Such are the ways of Satan that when the God of heaven seeks to send the
 greatest light of the ages into the world, the forces of evil oppose it with
@@ -249,8 +245,7 @@ very moment when I was ready to sink into despair and abandon myself to
 destruction--not to an imaginary ruin, but to the power of some actual being
 from the unseen world, who had such marvelous power as I had never before felt
 in any being--just at this moment of great alarm, I saw a pillar of light
-exactly over my head." ([JS--H
-1:16](https://www.lds.org/scriptures/pgp/js-h/1.16?lang=eng#15).)
+exactly over my head." ([JS--H 1:16](/scriptures/pgp/js-h/1.16?lang=eng#15).)
 
 Thereupon the heavens parted and the veil was rent; the heavens, long brass,
 poured out showers of blessings; the age of light and truth and revelation and
@@ -268,14 +263,14 @@ themselves anew.
 
 "I saw a pillar of light exactly over my head, above the brightness of the
 sun, which descended gradually until it fell upon me," the Prophet said. ([JS
---H 1:16](https://www.lds.org/scriptures/pgp/js-h/1.16?lang=eng#15).)
+--H 1:16](/scriptures/pgp/js-h/1.16?lang=eng#15).)
 
 "It no sooner appeared than I found myself delivered from the enemy which held
 me bound. When the light rested upon me I saw two Personages, whose brightness
 and glory defy all description, standing above me in the air. One of them
 spake unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 Great God in heaven above--what wonders do we now behold! The heavens rend;
 the veil parts; the Creators of the universe come down; the Father and the Son
@@ -293,8 +288,7 @@ the Personage who addressed me said that all their creeds were an abomination
 in his sight; that those professors were all corrupt that: 'they draw near to
 me with their lips, but their hearts are far from me, they teach for doctrines
 the commandments of men, having a form of godliness, but they deny the power
-thereof.'" ([JS--H
-1:18-19](https://www.lds.org/scriptures/pgp/js-h/1.18-19?lang=eng#17).)
+thereof.'" ([JS--H 1:18-19](/scriptures/pgp/js-h/1.18-19?lang=eng#17).)
 
 Once or twice in a thousand years a new door is opened through which all men
 must enter if they are to gain peace in this life and be inheritors of eternal
@@ -314,4 +308,6 @@ Joseph Smith saw the Father and the Son.
 
 These things I know and of them I testify. In the name of the Lord Jesus
 Christ, who is the Son, and whose witnesses we are. Amen.
+
+## References
 

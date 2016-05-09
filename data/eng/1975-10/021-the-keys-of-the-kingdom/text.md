@@ -39,8 +39,8 @@ ability and faith.
 I marveled at how through the Spirit of God this has all come about. Surely it
 is a fulfillment of what Jesus said to his early apostles: "And I will give
 unto thee the keys of the kingdom of heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).) Having seen
-it all from close range, I cannot doubt that this is the work of God.
+16:19](/scriptures/nt/matt/16.19?lang=eng#18).) Having seen it all from close
+range, I cannot doubt that this is the work of God.
 
 What has happened in Brazil has also happened in the other countries as well.
 The day I was at the temple site, President McAllister of the Bolivia La Paz
@@ -156,9 +156,11 @@ love of family and others can be as eternal as the human soul. Said Jesus to
 his apostles of old: "And I will give unto thee the keys of the kingdom of
 heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and
 whatsoever thou shalt loose on earth shall be loosed in heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 I testify that it is by these same keys and these same powers that this
 marvelous work goes forward throughout all of the earth, in the sacred name of
 Jesus Christ. Amen.
+
+## References
 

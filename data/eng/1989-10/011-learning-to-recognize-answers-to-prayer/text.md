@@ -70,8 +70,8 @@ whatsoever things you shall _ask in faith, with an honest heart, believing
 that you shall receive. ... _
 
 "I will tell you in your _mind_ and in your _heart,_ by the Holy Ghost."
-([D&amp;C 8:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/8.1-2?lang=eng#0); italics added.)
+([D&amp;C 8:1-2](/scriptures/dc-testament/dc/8.1-2?lang=eng#0); italics
+added.)
 
 When we receive an impression in our _heart,_ we can use our _mind_ either to
 rationalize it away or to accomplish it. Be careful what you do with an
@@ -82,8 +82,7 @@ therefore ask in _faith._ Trifle not with these things; do not ask for that
 which you ought not. ...
 
 "According to your _faith_ shall it be done unto you." ([D&amp;C
-8:10-11](https://www.lds.org/scriptures/dc-testament/dc/8.10-11?lang=eng#9);
-italics added.)
+8:10-11](/scriptures/dc-testament/dc/8.10-11?lang=eng#9); italics added.)
 
 "Ask in faith" means ask with confidence in our holy Father. Like many of us,
 Oliver did not recognize the evidence of answers to prayers already given by
@@ -97,9 +96,8 @@ thou art at this time.
 
 "Behold, thou knowest that thou hast inquired of me and I did _enlighten thy
 mind;_ and now I tell thee these things that thou mayest know that thou hast
-been enlightened by the Spirit of truth." ([D&amp;C
-6:14-15](https://www.lds.org/scriptures/dc-testament/dc/6.14-15?lang=eng#13);
-italics added.)
+been enlightened by the Spirit of truth." ([D&amp;C 6:14-15](/scriptures/dc-
+testament/dc/6.14-15?lang=eng#13); italics added.)
 
 If you feel that God has not answered _your_ prayers, ponder these scriptures
 --then carefully look for evidence in your own life of His having already
@@ -110,8 +108,7 @@ further witness, cast your mind upon the night that you cried unto me in your
 heart, that you might know concerning the truth of these things.
 
 _"Did I not speak peace to your mind concerning the matter?"_ ([D&amp;C
-6:22-23](https://www.lds.org/scriptures/dc-testament/dc/6.22-23?lang=eng#21);
-italics added).
+6:22-23](/scriptures/dc-testament/dc/6.22-23?lang=eng#21); italics added).
 
 The Lord provides further insight by counseling us to study a problem out in
 our mind and then to ask if it be right: "If it is right I will cause that
@@ -119,7 +116,7 @@ your bosom shall burn within you; therefore, you shall _feel_ that it is
 right.
 
 "But if it be not right you shall have no such _feelings,_ but you shall have
-a stupor of thought." ([D&amp;C 9:8-9](https://www.lds.org/scriptures/dc-
+a stupor of thought." ([D&amp;C 9:8-9](/scriptures/dc-
 testament/dc/9.8-9?lang=eng#7); italics added.)
 
 It is vitally important to recognize that the Lord also responds a third way
@@ -151,26 +148,23 @@ feelings.
 Nephi's efforts to obtain the plates of brass show how the principles work.
 When the older brethren were asked to go, they "murmured" and received no
 help. Nephi was assured, "Thou shalt be favored of the Lord, because thou hast
-not murmured." ([1 Ne.
-3:6](https://www.lds.org/scriptures/bofm/1-ne/3.6?lang=eng#5).) Nephi's words,
-"I will go and do," reveal a positive commitment to act and to succeed by
-using spiritual law. ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+not murmured." ([1 Ne. 3:6](/scriptures/bofm/1-ne/3.6?lang=eng#5).) Nephi's
+words, "I will go and do," reveal a positive commitment to act and to succeed
+by using spiritual law. ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 After two unsuccessful attempts, Nephi remained confident. He crept into the
 city toward the house of Laban without all the answers. He observed, "I was
 led by the Spirit, not knowing beforehand the things which I should do,"
 significantly adding, _"Nevertheless I went forth."_ ([1 Ne.
-4:6-7](https://www.lds.org/scriptures/bofm/1-ne/4.6-7?lang=eng#5); italics
-added.)
+4:6-7](/scriptures/bofm/1-ne/4.6-7?lang=eng#5); italics added.)
 
 Nephi was willing to try time and again, using his best efforts. He expressed
 faith that he would be helped. He refused to be discouraged. But because he
 acted, had confidence in the Lord, was obedient, and properly used his agency,
 he received guidance. He was inspired step after step to success, and in his
 mother's words was "given ... _power_ [to] accomplish the thing which the Lord
-hath commanded." ([1 Ne.
-5:8](https://www.lds.org/scriptures/bofm/1-ne/5.8?lang=eng#7); italics added.)
+hath commanded." ([1 Ne. 5:8](/scriptures/bofm/1-ne/5.8?lang=eng#7); italics
+added.)
 
 Nephi knew he was required to confide in God, to exercise faith, and to act so
 that he could receive help, step by step. He did not murmur nor ask for a full
@@ -230,4 +224,6 @@ your loving Father; you are His beloved child. He loves you perfectly and
 wants to help you.
 
 In the name of Jesus Christ, amen.
+
+## References
 

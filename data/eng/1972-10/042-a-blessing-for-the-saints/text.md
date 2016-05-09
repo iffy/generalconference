@@ -37,8 +37,7 @@ wind and the waves.
 "Therefore, dearly beloved brethren, let us cheerfully do all things that lie
 in our power; and then may we stand still, with the utmost assurance, to see
 the salvation of God, and for his arm to be revealed." ([D&amp;C 123:13-14,
-16-17](https://www.lds.org/scriptures/dc-
-testament/dc/123.13-14%2C16-17?lang=eng#12).)
+16-17](/scriptures/dc-testament/dc/123.13-14,16-17?lang=eng#12).)
 
 I was at Manti, Utah, some years ago. As we came out of the Saturday night
 leadership meeting, there was a heavy snowstorm. As we drove to the home of
@@ -71,8 +70,7 @@ Their attention was called to something that I may have the temerity to
 mention to you today. The Lord said here in a great revelation, "Therefore,
 cease from all your light speeches, from all laughter, from all your lustful
 desires, from all your pride and light-mindedness, and from all your wicked
-doings." ([D&amp;C 88:121](https://www.lds.org/scriptures/dc-
-testament/dc/88.121?lang=eng#120).)
+doings." ([D&amp;C 88:121](/scriptures/dc-testament/dc/88.121?lang=eng#120).)
 
 I wonder sometimes if we forget that all we say in this sensitive building is
 going out over the air from a sacred assembly. It doesn't mean that we should
@@ -137,4 +135,6 @@ your problems.
 
 I bear you my witness to these things and leave you my blessing in the name of
 the Lord, Jesus Christ. Amen.
+
+## References
 

@@ -22,8 +22,8 @@ verse 25, the Lord tells us, "Inasmuch as parents have children in Zion, or in
 any of her stakes which are organized, that teach them not to understand the
 doctrine of repentance, faith in Christ the Son of the living God, and of
 baptism and the gift of the Holy Ghost by the laying on of the hands, ... the
-sin be upon the heads of the parents." [[D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24)]
+sin be upon the heads of the parents." [[D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24)]
 
 In medieval times, great fortresses were built around castles or cities to
 protect them from enemy attacks. In the Book of Mormon, the Nephites built
@@ -78,8 +78,7 @@ disobedience, from the children of men, and because of the tradition of their
 fathers.
 
 "But I have commanded you to bring up your children in light and truth."
-[[D&amp;C 93:39-40](https://www.lds.org/scriptures/dc-
-testament/dc/93.39-40?lang=eng#38)]
+[[D&amp;C 93:39-40](/scriptures/dc-testament/dc/93.39-40?lang=eng#38)]
 
 A loving interview guided by the Spirit can give direction to our children's
 lives, bring about necessary adjustments or changes, and may even result in
@@ -120,4 +119,6 @@ us through his Only Begotten, our Savior and Redeemer. I know that his church
 and his gospel are real fortresses which will give peace and security to our
 most precious treasure on this earth, our family. Of this I testify in the
 name of our Lord Jesus Christ, amen.
+
+## References
 

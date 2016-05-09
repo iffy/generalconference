@@ -33,10 +33,10 @@ ambition. By effective study we can acquire knowledge, build faith, and
 develop an enthusiasm that will lead us to any desired accomplishment.
 
 It was the Savior of the world who said: "Man shall not live by bread alone.
-..." ([Matt. 4:4](https://www.lds.org/scriptures/nt/matt/4.4?lang=eng#3).) And
-because of the wonders of our day, every family may have its own library of
-great books, including the word of God himself. But before anyone can be
-benefited by any of our great literature, he must effectively believe in it.
+..." ([Matt. 4:4](/scriptures/nt/matt/4.4?lang=eng#3).) And because of the
+wonders of our day, every family may have its own library of great books,
+including the word of God himself. But before anyone can be benefited by any
+of our great literature, he must effectively believe in it.
 
 Abraham Lincoln once said, "What I want to know is in books." The two most
 powerful books in Lincoln's life were, first, the Holy Bible, which even in
@@ -92,12 +92,12 @@ expressed in that greatest of all discourses, the Sermon on the Mount?
 
 Just before the resurrected Christ ascended to his Father, he gave a thrice-
 repeated instruction to his chief apostle, saying, "Feed my sheep." ([John
-21:16](https://www.lds.org/scriptures/nt/john/21.16?lang=eng#15).) That
-important responsibility for feeding the flock is also in force among us. But
-our personal salvation is a joint enterprise, and the responsibility for
-feeding our souls is one of the primary do-it-yourself projects that God
-himself has put into our hands. This great Egyptian king had provided the
-library, but the people were required to take the medicine themselves.
+21:16](/scriptures/nt/john/21.16?lang=eng#15).) That important responsibility
+for feeding the flock is also in force among us. But our personal salvation is
+a joint enterprise, and the responsibility for feeding our souls is one of the
+primary do-it-yourself projects that God himself has put into our hands. This
+great Egyptian king had provided the library, but the people were required to
+take the medicine themselves.
 
 Our present state of malnutrition is not because of any famine for bread nor a
 thirst for water, but it is for the hearing and the obeying of the word of the
@@ -112,10 +112,10 @@ away when we are closest by." So frequently that is true.
 Think how near they were who lived contemporaneously with Jesus. He walked
 among them. They heard him speak. And yet they were so far away that they
 said, "His blood be on us, and on our children." ([Matt.
-27:25](https://www.lds.org/scriptures/nt/matt/27.25?lang=eng#24).) And so it
-has been and so it may be with us. We are so near and yet we may be so far
-away. We live on the edge of an ocean of knowledge, but each must take his own
-steps that will bring him there.
+27:25](/scriptures/nt/matt/27.25?lang=eng#24).) And so it has been and so it
+may be with us. We are so near and yet we may be so far away. We live on the
+edge of an ocean of knowledge, but each must take his own steps that will
+bring him there.
 
 On one occasion Lowell Thomas, the great radio commentator and broadcaster,
 was telling about the large amount of money that people spend each year to
@@ -145,16 +145,16 @@ If we would all hear and follow, the Savior of men would be able to realize
 his greatest prayer made nineteen hundred years ago when he looked out beyond
 his own day and said to his Father: "Thy kingdom come. Thy will be done in
 earth, as it is in heaven." ([Matt.
-6:10](https://www.lds.org/scriptures/nt/matt/6.10?lang=eng#9).)
+6:10](/scriptures/nt/matt/6.10?lang=eng#9).)
 
 Our present most urgent needs are that we should read more and understand more
 and think more and do more and be more and live more. Jesus emphasized his own
 mission by saying, "I am come that they might have life, and that they might
 have it more abundantly." ([John
-10:10](https://www.lds.org/scriptures/nt/john/10.10?lang=eng#9).) We must not
-allow the holy scriptures to sit on our shelves unopened while we continue to
-starve to death spiritually because we fail to practice those great success
-laws on which the eternal exaltation of our souls depends.
+10:10](/scriptures/nt/john/10.10?lang=eng#9).) We must not allow the holy
+scriptures to sit on our shelves unopened while we continue to starve to death
+spiritually because we fail to practice those great success laws on which the
+eternal exaltation of our souls depends.
 
 May God help us to be more grateful for those thrilling, lifesaving truths of
 the gospel of Jesus Christ, and may he help us to wholeheartedly eat the bread
@@ -162,4 +162,6 @@ and more freely drink the waters of life that in his abundance our souls might
 live.
 
 For this I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

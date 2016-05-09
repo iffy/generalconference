@@ -8,16 +8,14 @@ commanded to go forth, in his name and by his power, and tell all men
 everywhere what lies ahead and what the Lord wants them to do about it.
 
 Peace has been taken from the earth. This is a day of wars and rumors of wars
-(see [D&amp;C 45:26](https://www.lds.org/scriptures/dc-
-testament/dc/45.26?lang=eng#25)). Plagues and pestilence and desolation shall
-soon sweep the earth.
+(see [D&amp;C 45:26](/scriptures/dc-testament/dc/45.26?lang=eng#25)). Plagues
+and pestilence and desolation shall soon sweep the earth.
 
 We live in a day of distress and perplexity; nations are ill at ease, and all
 things are in commotion. Men's hearts are failing them for fear, and the great
 and dreadful day of the Lord is near, even at the door (see [D&amp;C
-45:26](https://www.lds.org/scriptures/dc-testament/dc/45.26?lang=eng#25);
-[D&amp;C 110:16](https://www.lds.org/scriptures/dc-
-testament/dc/110.16?lang=eng#15)).
+45:26](/scriptures/dc-testament/dc/45.26?lang=eng#25); [D&amp;C
+110:16](/scriptures/dc-testament/dc/110.16?lang=eng#15)).
 
 We live in a day of evil and wickedness. The generality of men are carnal,
 sensual, and devilish. They have forgotten God and are reveling in the lusts
@@ -35,15 +33,14 @@ is the announcement that the heavens have been opened, that the voice of God
 is heard again. It is the proclamation of peace through obedience to the laws
 and ordinances of the holy gospel. It is the glad tidings that once again
 there are legal administrators who hold the keys of the kingdom and have power
-to bind on earth and seal in heaven (see [D&amp;C
-27:13](https://www.lds.org/scriptures/dc-testament/dc/27.13?lang=eng#12)).
+to bind on earth and seal in heaven (see [D&amp;C 27:13](/scriptures/dc-
+testament/dc/27.13?lang=eng#12)).
 
 The only way for men to escape the abomination of desolation to be poured out
 upon the wicked in the last days is for them to repent and live the gospel
-(see [D&amp;C 84:117](https://www.lds.org/scriptures/dc-
-testament/dc/84.117?lang=eng#116)). The gospel is the message of peace and
-salvation for all men. And we have been commanded to proclaim its saving
-truths to all men everywhere.
+(see [D&amp;C 84:117](/scriptures/dc-testament/dc/84.117?lang=eng#116)). The
+gospel is the message of peace and salvation for all men. And we have been
+commanded to proclaim its saving truths to all men everywhere.
 
 And we do now proclaim that the great God, who sits enthroned in yonder
 heavens, has restored in this our day the fulness of his everlasting gospel.
@@ -66,8 +63,8 @@ True religion is found only where men worship the true and living God. False
 religion always results from the worship of false gods. Eternal life itself,
 which is the greatest of all the gifts of God, is available to those and those
 only who know God and Jesus Christ whom he has sent (see [D&amp;C
-6:13](https://www.lds.org/scriptures/dc-testament/dc/6.13?lang=eng#12); [John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+6:13](/scriptures/dc-testament/dc/6.13?lang=eng#12); [John
+17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 It is all the rage in this modern world to worship false gods of every sort
 and kind. There are those who bow before idols of wood and stone, and others
@@ -87,25 +84,23 @@ that he never knew before.
 How belittling it is--it borders on blasphemy--to demean the Lord God
 Omnipotent by saying he is an idol, or an image, or an animal, or a spirit
 essence, or that he is ever learning but never able to come to a knowledge of
-all truth (see [2 Tim.
-3:7](https://www.lds.org/scriptures/nt/2-tim/3.7?lang=eng#6)).
+all truth (see [2 Tim. 3:7](/scriptures/nt/2-tim/3.7?lang=eng#6)).
 
 It is the first principle of revealed religion to know the nature and kind of
 being that God is. As for us, "we know [and testify] that there is a God in
 heaven, who is infinite and eternal, from everlasting to everlasting the same
 unchangeable God, the framer of heaven and earth, and all things which are in
-them" ([D&amp;C 20:17](https://www.lds.org/scriptures/dc-
-testament/dc/20.17?lang=eng#16)).
+them" ([D&amp;C 20:17](/scriptures/dc-testament/dc/20.17?lang=eng#16)).
 
 This great God, the Lord Almighty, is a personage of tabernacle. He "has a
-body of flesh and bones as tangible as man's" ([D&amp;C
-130:22](https://www.lds.org/scriptures/dc-testament/dc/130.22?lang=eng#21)).
-He is omnipotent, omniscient, and omnipresent. He has all power, knows all
-things, and, by the power of his Spirit, is in and through all things.
+body of flesh and bones as tangible as man's" ([D&amp;C 130:22](/scriptures
+/dc-testament/dc/130.22?lang=eng#21)). He is omnipotent, omniscient, and
+omnipresent. He has all power, knows all things, and, by the power of his
+Spirit, is in and through all things.
 
 We know and testify "that he created man, male and female, after his own image
-and in his own likeness, created he them" (see [D&amp;C
-20:18](https://www.lds.org/scriptures/dc-testament/dc/20.18?lang=eng#17)).
+and in his own likeness, created he them" (see [D&amp;C 20:18](/scriptures/dc-
+testament/dc/20.18?lang=eng#17)).
 
 All men are the spirit children of the Eternal Father. We are the offspring of
 celestial parents. We lived and dwelt in the courts of glory before the
@@ -117,21 +112,19 @@ God--which would enable us to advance and progress and become like him.
 We know and testify that when he placed men on earth, he "gave unto them
 commandments that they should love and serve him, the only living and true
 God, and that he should be the only being whom they should worship" ([D&amp;C
-20:19](https://www.lds.org/scriptures/dc-testament/dc/20.19?lang=eng#18)).
+20:19](/scriptures/dc-testament/dc/20.19?lang=eng#18)).
 
 We know and testify that mighty Michael foremost fell that mortal man might
 be, and that "the Almighty God gave his Only Begotten Son" ([D&amp;C
-20:21](https://www.lds.org/scriptures/dc-testament/dc/20.21?lang=eng#20)) to
-ransom men from the temporal and spiritual death brought into the world by
-this fall of Adam.
+20:21](/scriptures/dc-testament/dc/20.21?lang=eng#20)) to ransom men from the
+temporal and spiritual death brought into the world by this fall of Adam.
 
 We know and testify that Christ "was crucified, died, and rose again the third
 day"; that he "ascended into heaven, to sit down on the right hand of the
 Father, to reign with almighty power according to the will of the Father.
 
 "That as many as would believe and be baptized in his holy name, and endure in
-faith to the end, should be saved" ([D&amp;C
-20:23-25](https://www.lds.org/scriptures/dc-
+faith to the end, should be saved" ([D&amp;C 20:23-25](/scriptures/dc-
 testament/dc/20.23-25?lang=eng#22)).
 
 We know and testify that salvation is in Christ; that it comes because of his
@@ -140,8 +133,7 @@ goodness and grace; and that he is our advocate with the Father.
 We bear record that he is the only mediator between man and God; that through
 his atoning sacrifice fallen man may be reconciled with God; and that he "hath
 abolished death, and hath brought life and immortality to light through the
-gospel" ([2 Tim.
-1:10](https://www.lds.org/scriptures/nt/2-tim/1.10?lang=eng#9)).
+gospel" ([2 Tim. 1:10](/scriptures/nt/2-tim/1.10?lang=eng#9)).
 
 We worship the Father, in the name of the Son, by the power of the Holy Ghost,
 and we invite all men everywhere to come and join with us.
@@ -176,14 +168,14 @@ flood.
 
 Crime and evil will increase; iniquity will abound; the love of men toward
 each other shall wax cold (see [Matt.
-24:12](https://www.lds.org/scriptures/nt/matt/24.12?lang=eng#11)). We need not
-look for a day when men of themselves shall usher in an age of righteousness.
+24:12](/scriptures/nt/matt/24.12?lang=eng#11)). We need not look for a day
+when men of themselves shall usher in an age of righteousness.
 
 But those who turn to Christ, who believe his gospel, and join his church, and
 live his laws, and who thereby worship the Father in his holy name--such shall
 find peace and safety and salvation. In the world men shall have tribulation;
 in Christ they shall find peace (see [John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32)).
+16:33](/scriptures/nt/john/16.33?lang=eng#32)).
 
 And so we say: We are the servants of the Lord. He has revealed himself to us
 by the power of the Holy Ghost. We know whom we worship. It is our glorious
@@ -210,7 +202,7 @@ And we now say, as we have been commanded to do, "Fear God and give glory to
 him, for the hour of his judgment is come;
 
 "And worship him that made heaven, and earth, and the sea, and the fountains
-of waters" ([D&amp;C 133:38-39](https://www.lds.org/scriptures/dc-
+of waters" ([D&amp;C 133:38-39](/scriptures/dc-
 testament/dc/133.38-39?lang=eng#37)).
 
 We say: Come worship the Lord in the beauty of holiness. Come worship the
@@ -226,11 +218,12 @@ flee from false gods; seek the truth.
 Do not be deceived by the doctrines of men or of devils. Cleave unto the truth
 and be believing as was the case with those of old for whom the heavens were
 rent and who made their callings and election sure in the days of their mortal
-probation (see [2 Pet.
-1:10](https://www.lds.org/scriptures/nt/2-pet/1.10?lang=eng#9)).
+probation (see [2 Pet. 1:10](/scriptures/nt/2-pet/1.10?lang=eng#9)).
 
 Oh, God our Father, wilt thou look upon thy children everywhere in love and
 mercy, grant them repentance, and lead them in thy holy way so they may gain
 peace in this life and eternal life in the world to come. In the name of the
 Lord Jesus Christ, amen.
+
+## References
 

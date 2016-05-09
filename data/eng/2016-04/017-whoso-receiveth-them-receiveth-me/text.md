@@ -202,3 +202,44 @@ us think about them, welcome them, embrace them, and do everything we can to
 strengthen their love for the Savior. Jesus said, "Whoso shall receive one
 such ... child in my name receiveth me."[14] In the name of Jesus Christ, amen.
 
+## References
+
+  1. [Matthew 19:14](https://www.lds.org/scriptures/nt/matt/19.14?lang=eng#13).
+
+  2. See "Family Structure," Child Trends DataBank (Dec. 2015), appendix 1, page 9, childtrends.org/databank.
+
+  3. "[The Family: A Proclamation to the World](https://www.lds.org/liahona/2010/11/the-family-a-proclamation-to-the-world.p1?lang=eng)," _Ensign_ or _Liahona,_ Nov. 2010, 129, paragraphs 7 and 6.
+
+  4. I want to personally acknowledge the tens of thousands of righteous mothers, many of them single parents, who courageously take the primary responsibility of spiritually strengthening their children. Our friend Shelley from Canada said of her mother:
+
+"Missionaries knocked on my parents' door five years before I was born. My
+parents took a few lessons, and then my father didn't have any more interest.
+My mother continued to take the lessons and desired baptism. For five years my
+mother went to church as a nonmember, and then three months after I was born,
+she was able to be baptized.
+
+"My mother has never been very vocal or in great leadership positions. She has
+a very simple, sweet, steady testimony, ... and she lives every day true to what
+she believes. That quiet, simple example has always kept me close to the Lord
+and to the Church."
+
+  5. Our friend Randall told me: "I was taught and I knew that I was a son of heavenly parents, and knowing my real identity and nature gave me hope that I didn't need to follow the same course as my parents, whom I adored but didn't want to copy. I trusted what I had been taught by Primary, Sunday School, and Young Men and other teachers. I saw examples in the ward and my extended family of faithful, happy families, and I trusted Heavenly Father, knowing that if I remained faithful, He would help me have such a family."
+
+  6. "Families Can Be Together Forever," _Children's Songbook,_ 188.
+
+  7. "Daddy's Homecoming," _Children's Songbook,_ 210.
+
+  8. "Love Is Spoken Here," _Children's Songbook,_ 190-91.
+
+  9. [Matthew 18:2, 5](https://www.lds.org/scriptures/nt/matt/18.2,5?lang=eng#1).
+
+  10. Thomas S. Monson, "[Learn of Me](https://www.lds.org/liahona/2016/03/learn-of-me?lang=eng)," _Ensign_ or _Liahona,_ Mar. 2016, 6.
+
+  11. See Max H. Molgard, _Inviting the Spirit into Our Lives_ (1993), 99.
+
+  12. [3 Nephi 17:11, 21-22](https://www.lds.org/scriptures/bofm/3-ne/17.11,21-22?lang=eng#10).
+
+  13. Emily, although without active parents, spoke lovingly of grandparents, uncles and aunts, and others who "stood in" for her parents. Speaking of a Young Women leader in Michigan, she said: "Her children were grown, and she made it her point to make each of the young women feel as though they were her own daughter. ... Her smile could warm your heart on the hardest of days. ... I've made it my goal to follow her lead and be a Sister Molnar for those children who may feel 'different,' 'left out,' or 'excluded.'"
+
+  14. [Matthew 18:5](https://www.lds.org/scriptures/nt/matt/18.5?lang=eng#4).
+

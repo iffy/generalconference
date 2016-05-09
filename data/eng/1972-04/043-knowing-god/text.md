@@ -21,7 +21,7 @@ come from satanic and worldly sources.
 
 Jesus Christ said, "... this is life eternal, that they might know thee the only
 true God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 We can receive eternal life and salvation from knowing the only true God and
 Jesus Christ, whom he has sent. Many believe that there is a God, many say
@@ -41,17 +41,16 @@ the truth is not in him.
 hereby know we that we are in him.
 
 "He that saith he abideth in him ought himself also so to walk, even as he
-walked." ([1 Jn.
-2:3-6](https://www.lds.org/scriptures/nt/1-jn/2.3-6?lang=eng#2).)
+walked." ([1 Jn. 2:3-6](/scriptures/nt/1-jn/2.3-6?lang=eng#2).)
 
 The apostle James said, "Thou believest that there is one God; thou doest
 well: the devils also believe, and tremble." ([James
-2:19](https://www.lds.org/scriptures/nt/james/2.19?lang=eng#18).)
+2:19](/scriptures/nt/james/2.19?lang=eng#18).)
 
 Jesus was recognized by a man possessed of the devil, and the devil spoke out
 and said, "... I know thee who thou art, the Holy One of God." ([Mark
-1:24](https://www.lds.org/scriptures/nt/mark/1.24?lang=eng#23).) The devils
-know God but do not respect his doctrine or keep his commandments.
+1:24](/scriptures/nt/mark/1.24?lang=eng#23).) The devils know God but do not
+respect his doctrine or keep his commandments.
 
 Knowing God is related to keeping his commandments. Knowing God must come by
 direct revelation from God. You cannot know by the power of flesh and blood.
@@ -67,7 +66,7 @@ heaven.
 
 "And I say also unto thee, That thou art Peter, and upon this rock I will
 build my church; and the gates of hell shall not prevail against it." ([Matt.
-16:15-18](https://www.lds.org/scriptures/nt/matt/16.15-18?lang=eng#14).)
+16:15-18](/scriptures/nt/matt/16.15-18?lang=eng#14).)
 
 The Lord has indicated that the gates of hell cannot prevail against
 revelation from him to any one of his children who desires to know the living
@@ -82,8 +81,8 @@ All through the life of Jesus Christ he showed his knowledge of the living God
 and his loyalty and allegiance to God. Jesus Christ loved his Heavenly Father.
 He even went so far as to say, "My Father and I are one. I came down from
 heaven to do the will of my Father." (See [John
-10:30](https://www.lds.org/scriptures/nt/john/10.30?lang=eng#29); [John
-6:38](https://www.lds.org/scriptures/nt/john/6.38?lang=eng#37).)
+10:30](/scriptures/nt/john/10.30?lang=eng#29); [John
+6:38](/scriptures/nt/john/6.38?lang=eng#37).)
 
 Knowing God does not solve life's problems, but gives purpose and strength to
 master them. Jesus, with his knowledge of his Heavenly Father, still had his
@@ -91,8 +90,7 @@ problems to meet and to work out.
 
 The answers to knowing God the Eternal Father are found in and through Jesus
 Christ. Jesus said, "I am the way, the truth, and the life: no man cometh unto
-the Father, but by me." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).)
+the Father, but by me." ([John 14:6](/scriptures/nt/john/14.6?lang=eng#5).)
 
 In order to know God the Eternal Father, we must receive that knowledge
 through the program and through Jesus Christ, who is the mediator between God
@@ -101,7 +99,7 @@ and man.
 Jesus also gave this information, which is often repeated and known well by
 many; he said, "I am the light of the world: he that followeth me shall not
 walk in darkness, but shall have the light of life." ([John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).)
+8:12](/scriptures/nt/john/8.12?lang=eng#11).)
 
 The light of life is divine light that permeates and radiates in the human
 soul and brings out the godlike qualities and attributes of godliness. The
@@ -120,7 +118,7 @@ lest his deeds should be reproved.
 
 "But he that doeth truth cometh to the light, that his deeds may be made
 manifest, that they are wrought in God." ([John
-3:19-21](https://www.lds.org/scriptures/nt/john/3.19-21?lang=eng#18).)
+3:19-21](/scriptures/nt/john/3.19-21?lang=eng#18).)
 
 To know God, you must walk in the light of life. To know God as a living child
 of God, we should know our relationship to him, our divine potential, and we
@@ -140,21 +138,21 @@ devils, or the commandments of men; for some are of men, and others of devils.
 ye earnestly the best gifts, always remembering for what they are given;
 
 "For verily I say unto you, they are given for the benefit of those who love
-me and keep all my commandments. ..." ([D&amp;C
-46:7-9](https://www.lds.org/scriptures/dc-testament/dc/46.7-9?lang=eng#6).)
+me and keep all my commandments. ..." ([D&amp;C 46:7-9](/scriptures/dc-
+testament/dc/46.7-9?lang=eng#6).)
 
 We must always keep in mind that God's greatest gift is eternal life. Eternal
 life comes from knowing God and from knowing Jesus Christ. Jesus said, "If
 thou wilt do good, yea, and hold out faithful to the end, thou shalt be saved
 in the kingdom of God, which is the greatest of all the gifts of God; for
 there is no gift greater than the gift of salvation." ([D&amp;C
-6:13](https://www.lds.org/scriptures/dc-testament/dc/6.13?lang=eng#12).)
+6:13](/scriptures/dc-testament/dc/6.13?lang=eng#12).)
 
 The central and basic principle of the gospel of Jesus Christ is love. He laid
 the basis of human brotherhood in love. It begins in God's infinite love for
 his children, "For God so loved the world, that he gave his only begotten Son,
 that whosoever believeth in him should not perish, but have everlasting life."
-([John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 As is mentioned by the Savior, to know God means to keep his commandments. The
 Lord also gave this in the first and great commandment relative to the
@@ -162,10 +160,10 @@ importance of keeping his commandments, when we say that we love God. Here is
 the great commandment on love: "Thou shalt love the Lord thy God with all thy
 heart, and with all thy soul, and with all thy mind. This is the first and
 great commandment." ([Matt.
-22:37-38](https://www.lds.org/scriptures/nt/matt/22.37-38?lang=eng#36).)
+22:37-38](/scriptures/nt/matt/22.37-38?lang=eng#36).)
 
 Jesus also said, "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 If we love God, we should keep his commandments. We should love his plan of
 life. We should love his Only Begotten Son, whom he sent to help us meet life
@@ -174,8 +172,7 @@ eternal life possible, and to give us the light of life that we may walk in
 his ways and in the divine light that will lead us to godlike blessings.
 
 Jesus said, "This is my commandment, That ye love one another, as I have loved
-you." ([John
-15:12](https://www.lds.org/scriptures/nt/john/15.12?lang=eng#11).)
+you." ([John 15:12](/scriptures/nt/john/15.12?lang=eng#11).)
 
 We must keep in mind that divine programs and divine ways have been given unto
 us through our Lord and Savior, Jesus Christ; and the way to know God and the
@@ -185,11 +182,11 @@ provided in the great principles of faith and repentance.
 
 I would like to mention briefly repentance. Jesus said, "Repent: for the
 kingdom of heaven is at hand." ([Matt.
-4:17](https://www.lds.org/scriptures/nt/matt/4.17?lang=eng#16).) The light is
-turned on in the human soul through the great principle of repentance. Jesus
-has asked us to repent of past sins, regrets, weaknesses, and failures, and to
-prepare and look ahead into the future of eternal life and salvation in the
-kingdom of heaven.
+4:17](/scriptures/nt/matt/4.17?lang=eng#16).) The light is turned on in the
+human soul through the great principle of repentance. Jesus has asked us to
+repent of past sins, regrets, weaknesses, and failures, and to prepare and
+look ahead into the future of eternal life and salvation in the kingdom of
+heaven.
 
 Repentance by all who are accountable is required for preparation and
 progression, for entrance into the kingdom of heaven. Repentance is God's
@@ -254,17 +251,17 @@ be right because so many fine people indulge in use of these two destroyers
 God.
 
 Parents, do you drink alcohol? The Lord has warned that alcohol is not good
-for man. ([D&amp;C 89:5](https://www.lds.org/scriptures/dc-
-testament/dc/89.5?lang=eng#4).) Alcohol is a drug that can destroy godlike
-character. Alcohol is not good for children and not good for adults.
+for man. ([D&amp;C 89:5](/scriptures/dc-testament/dc/89.5?lang=eng#4).)
+Alcohol is a drug that can destroy godlike character. Alcohol is not good for
+children and not good for adults.
 
 Parents, are you showing and teaching by example in your home how to use
 tobacco? Tobacco is a drug. Doctors say cigarettes are the nation's greatest
 single health peril. A doctor speaking in Salt Lake City recently said that
 cigarettes kill five times more people than do traffic accidents. Jesus Christ
-said that "tobacco ... is not good for man." ([D&amp;C
-89:8](https://www.lds.org/scriptures/dc-testament/dc/89.8?lang=eng#7).)
-Tobacco is not good for children and is not good for adults.
+said that "tobacco ... is not good for man." ([D&amp;C 89:8](/scriptures/dc-
+testament/dc/89.8?lang=eng#7).) Tobacco is not good for children and is not
+good for adults.
 
 A person who knows God would want to be like God, because God is perfect. God
 has all knowledge. God has power to create mankind from the dust of the earth.
@@ -294,4 +291,6 @@ have divine potential, and it is your responsibility to help them to know and
 love God, the only true God, and Jesus Christ, their Savior.
 
 I say this in the name of Jesus Christ. Amen.
+
+## References
 

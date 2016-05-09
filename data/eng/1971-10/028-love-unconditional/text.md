@@ -35,7 +35,7 @@ the performances of the church, to continue in prayer and supplication to God
 daily, that they might not enter into temptation. Yea, in fine, they did
 pervert the ways of the Lord in very many instances; therefore, for this
 cause, Alma and his brethren went into the land to preach the word unto them."
-([Alma 31:9-11](https://www.lds.org/scriptures/bofm/alma/31.9-11?lang=eng#8).)
+([Alma 31:9-11](/scriptures/bofm/alma/31.9-11?lang=eng#8).)
 
 As that happened, Alma offered to the Lord the kind of prayer that is in our
 hearts as we listen to these great servants of youth speak tonight. "O Lord,
@@ -45,7 +45,7 @@ our brethren [I suppose we might parenthetically assume he was thinking that
 many of them are the wives and children of our brethren now and in the
 future]; therefore, give unto us, O Lord, power and wisdom that we may bring
 these, our brethren, again unto thee." ([Alma
-31:34-35](https://www.lds.org/scriptures/bofm/alma/31.34-35?lang=eng#33).)
+31:34-35](/scriptures/bofm/alma/31.34-35?lang=eng#33).)
 
 I recently had called to my attention by Brother Joe Christensen an excerpt
 from Church history that I would like to share with you in part. In the
@@ -193,4 +193,6 @@ Frame."
 God bless us to love them, to accept them, to give to them what they need in
 order that they may be what they want to be and give what they want to give, I
 pray, in the name of Jesus Christ. Amen.
+
+## References
 

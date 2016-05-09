@@ -19,7 +19,7 @@ In 1 Timothy we read some rather sobering words from the Lord:
 
 "But if any provide not for his own, and specially for those of his own house,
 he hath denied the faith, and is worse than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).)
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).)
 
 The positive definition of the word _welfare_ is "happiness, prosperity, and
 well-being." The father's duty is to foster the happiness, prosperity, and
@@ -161,7 +161,9 @@ righteous patriarch.
 May each father this day resolve to fill that high destiny spoken of by Peter,
 for indeed we must be a "chosen generation, a royal priesthood, an holy
 nation, a peculiar people." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).)
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

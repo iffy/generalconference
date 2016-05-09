@@ -53,22 +53,21 @@ her Father in Heaven, for she is a daughter of God.
 I know that this is strong language, plainly spoken. But I feel the trends of
 our times call for strong language and plain words. Jehovah did not speak
 ambiguously when he said, "Thou shalt not commit adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).) Nor did the
-Lord when He said in modern revelation, "Thou shalt not steal; neither commit
-adultery, nor kill, nor do anything like unto it." ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).)
+20:14](/scriptures/ot/ex/20.14?lang=eng#13).) Nor did the Lord when He said in
+modern revelation, "Thou shalt not steal; neither commit adultery, nor kill,
+nor do anything like unto it." ([D&amp;C 59:6](/scriptures/dc-
+testament/dc/59.6?lang=eng#5).)
 
 Before leaving this matter I should like to add that if there be any here who
 have so sinned, there is repentance and there is forgiveness, provided there
-is "godly sorrow." (See [2 Cor.
-7:10](https://www.lds.org/scriptures/nt/2-cor/7.10?lang=eng#9).) All is not
-lost. Each of you has a bishop, who has been ordained and set apart under the
-authority of the holy priesthood and who, in the exercise of his office, is
-entitled to the inspiration of the Lord. He is a man of experience, he is a
-man of understanding, he is a man who carries in his heart a love for the
-youth of his ward. He is a servant of God who understands his obligation of
-confidentiality and who will help you with your problem. Do not be afraid to
-talk with him.
+is "godly sorrow." (See [2 Cor. 7:10](/scriptures/nt/2-cor/7.10?lang=eng#9).)
+All is not lost. Each of you has a bishop, who has been ordained and set apart
+under the authority of the holy priesthood and who, in the exercise of his
+office, is entitled to the inspiration of the Lord. He is a man of experience,
+he is a man of understanding, he is a man who carries in his heart a love for
+the youth of his ward. He is a servant of God who understands his obligation
+of confidentiality and who will help you with your problem. Do not be afraid
+to talk with him.
 
 Now, while I am speaking of youth, I wish to say parenthetically just a word
 about education. I have great respect and appreciation for teachers. I am
@@ -96,8 +95,8 @@ the beguiling and seductive lures that pull us in the direction of immorality
 and nullify our effectiveness as priesthood leaders.
 
 Declared the Lord in 1831: "Go ye out from among the wicked. Save yourselves.
-Be ye clean that bear the vessels of the Lord." ([D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).)
+Be ye clean that bear the vessels of the Lord." ([D&amp;C 38:42](/scriptures
+/dc-testament/dc/38.42?lang=eng#41).)
 
 There is an ever-growing plague of pornography swirling about us. The
 producers and purveyors of smut are assiduously working a mine that yields
@@ -169,7 +168,7 @@ devil cheateth their souls, and leadeth them away carefully down to hell.
 he saith unto them: I am no devil, for there is none--and thus he whispereth
 in their ears, until he grasps them with his awful chains, from whence there
 is no deliverance." ([2 Ne.
-28:19-22](https://www.lds.org/scriptures/bofm/2-ne/28.19-22?lang=eng#18).)
+28:19-22](/scriptures/bofm/2-ne/28.19-22?lang=eng#18).)
 
 Those are interesting and descriptive words--"leadeth them away carefully down
 to hell," and "he whispereth in their ears." How descriptive of the seductive
@@ -226,7 +225,7 @@ There is promise, given under inspiration from the Almighty, set forth in
 these beautiful words:
 
 "God shall give unto you knowledge by his Holy Spirit, yea, by the unspeakable
-gift of the Holy Ghost." ([D&amp;C 121:26](https://www.lds.org/scriptures/dc-
+gift of the Holy Ghost." ([D&amp;C 121:26](/scriptures/dc-
 testament/dc/121.26?lang=eng#25).)
 
 The humanists who criticize us, the so-called intellectuals who demean us,
@@ -236,8 +235,7 @@ it. ...
 
 Do not be trapped by the sophistry of the world which for the most part is
 negative and which seldom, if ever, bears good fruit. ... Rather, "look to God
-and live." ([Alma
-37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46).)
+and live." ([Alma 37:47](/scriptures/bofm/alma/37.47?lang=eng#46).)
 
 Brethren, the Church is true. Those who lead it have only one desire, and that
 is to do the will of the Lord. They seek his direction in all things. There is
@@ -252,4 +250,6 @@ kingdom. God bless you as men and boys holding the priesthood. May your
 example evoke the respect and the admiration of all with whom you associate, I
 humbly pray as I leave you my witness and testimony of the divinity of this
 work, in the name of Jesus Christ, amen.
+
+## References
 

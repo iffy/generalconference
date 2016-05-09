@@ -52,10 +52,9 @@ divine purpose unless sufficient power and authority were delegated. This is
 the principal reason for the Lord bestowing on men the holy priesthood to act
 in his name, to have the power and right to assist him in his divine purpose.
 The Savior said, "[teach] them to observe all things whatsoever I have
-commanded you." ([Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19).) Inactive
-fathers and husbands must first be found and then taught how to live the
-gospel.
+commanded you." ([Matt. 28:20](/scriptures/nt/matt/28.20?lang=eng#19).)
+Inactive fathers and husbands must first be found and then taught how to live
+the gospel.
 
 Six months ago Raymond Gerloch was called as elders quorum president in the
 Durango Colorado Stake. He reports wonderful success in reactivating members.
@@ -96,8 +95,8 @@ had one turn us down."
 Men who had been away from the Church a long time have said, "I thought no one
 really cared." This quorum has caught the spirit exemplified by the Lord: "And
 as all have not faith, search ye diligently and teach one another." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
-President Gerloch has caught the vision of how to recover the lost.
+88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).) President Gerloch
+has caught the vision of how to recover the lost.
 
 Today stake presidents are calling Melchizedek quorum leaders who are being
 taught and trained in effective principles of priesthood organization and
@@ -148,8 +147,10 @@ Our prophet has spoken. Quorums are accepting this challenge, "Why can't we?"
 The quorums know that we can. They all realize that there are thousands of men
 who are waiting only for the friendly extending of the hand. Quorum presidents
 realize, "The night is far spent, the day is at hand." ([Rom.
-13:12](https://www.lds.org/scriptures/nt/rom/13.12?lang=eng#11).)
+13:12](/scriptures/nt/rom/13.12?lang=eng#11).)
 
 I testify that Jesus the Christ is the source of priesthood power. No power
 can stay the progress of his church. In the name of Jesus Christ. Amen.
+
+## References
 

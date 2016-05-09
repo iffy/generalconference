@@ -36,8 +36,7 @@ thine enemy.
 
 "But I say unto you, Love your enemies, bless them that curse you, do good to
 them that hate you, and pray for them which despitefully use you, and
-persecute you." ([Matt.
-5:43-44](https://www.lds.org/scriptures/nt/matt/5.43-44?lang=eng#42).)
+persecute you." ([Matt. 5:43-44](/scriptures/nt/matt/5.43-44?lang=eng#42).)
 
 This love that Christ is teaching us is not the same as the world's love. It
 does not mean just to love the one who is nice, who behaves well and is
@@ -46,19 +45,18 @@ prophets in these latter days, calls us to develop the love of God as a power
 from above that cannot be threatened through outward circumstances. This love
 of God, according to the prophet Nephi of the Book of Mormon, has to be
 achieved and is "the most desirable above all things." ([1 Ne.
-11:22](https://www.lds.org/scriptures/bofm/1-ne/11.22?lang=eng#21).)
+11:22](/scriptures/bofm/1-ne/11.22?lang=eng#21).)
 
 However, as King Benjamin, another great Book of Mormon leader, teaches us,
 this love of God will not be in us as long as we remain in our natural state.
 "The natural man is an enemy to God," he explains. ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).) We have
-to overcome this natural man--this "enemy to God"--our natural self. According
-to King Benjamin, we have to learn to listen to the enticings of the Holy
-Spirit and literally make a covenant with God, accepting the atonement of the
-Savior, and becoming as a child--submissive, meek, humble, patient, full of
-love, and willing to submit to all things, even as a child submits to his
-father. (See [Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).) We have to overcome this
+natural man--this "enemy to God"--our natural self. According to King
+Benjamin, we have to learn to listen to the enticings of the Holy Spirit and
+literally make a covenant with God, accepting the atonement of the Savior, and
+becoming as a child--submissive, meek, humble, patient, full of love, and
+willing to submit to all things, even as a child submits to his father. (See
+[Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 What a powerful message, and what a challenging responsibility! We have to
 learn to commit ourselves every day anew, to have our lives centered around
@@ -72,8 +70,7 @@ found possessed of it at the last day, it shall be well with him.
 "Wherefore, my beloved brethren, pray unto the Father with all the energy of
 heart, that ye may be filled with this love, which he hath bestowed upon all
 who are true followers of his Son, Jesus Christ; that ye may become the sons
-of God." ([Moro.
-7:47-48](https://www.lds.org/scriptures/bofm/moro/7.47-48?lang=eng#46).)
+of God." ([Moro. 7:47-48](/scriptures/bofm/moro/7.47-48?lang=eng#46).)
 
 Our Heavenly Father wants us to fill ourselves with this love--this love which
 is without condition. Filled with this love, we are prepared to receive the
@@ -86,7 +83,7 @@ me.
 
 "He that findeth his life shall lose it: and he that loseth his life for my
 sake shall find it." ([Matt.
-10:38-39](https://www.lds.org/scriptures/nt/matt/10.38-39?lang=eng#37).)
+10:38-39](/scriptures/nt/matt/10.38-39?lang=eng#37).)
 
 A marriage that is built on this foundation of unconditional love in the
 covenant and oath of the eternal dimension does not know the _two_ self-
@@ -116,8 +113,7 @@ divorcement, and to put her away?
 
 "He saith unto them, Moses _because of the hardness of your hearts_ suffered
 you to put away your wives: but from the beginning it was not so." ([Matt.
-19:3-8](https://www.lds.org/scriptures/nt/matt/19.3-8?lang=eng#2); italics
-added.)
+19:3-8](/scriptures/nt/matt/19.3-8?lang=eng#2); italics added.)
 
 The only way that we will not be suffering from the hardness of our hearts, as
 Christ explains, is to build within ourselves that power of love, literally
@@ -165,4 +161,6 @@ not fully exercising the love of God as a power as he has commanded us to do,
 our marriages will not be strong, our families will be weak, and our own
 salvation will be in jeopardy. I bear you this testimony in the name of Jesus
 Christ, amen.
+
+## References
 

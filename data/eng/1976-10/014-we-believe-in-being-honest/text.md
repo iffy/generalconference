@@ -48,7 +48,7 @@ By way of justification for discussing these matters, I remind you that they
 are reported with such frequency in the news media that one is constrained to
 join with the psalmist in his prayer, "Deliver my soul, O Lord, from lying
 lips, and from a deceitful tongue." ([Ps.
-120:2](https://www.lds.org/scriptures/ot/ps/120.2?lang=eng#1).)
+120:2](/scriptures/ot/ps/120.2?lang=eng#1).)
 
 "Sin," said Oliver Wendell Holmes, "has many tools, but a lie is the handle
 which fits them all." (From "The Chambered Nautilus.")
@@ -74,13 +74,12 @@ that he should be cast down;
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
 not hearken unto my voice." ([Moses
-4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).)
+4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2).)
 
 "Wo unto the liar," said Jacob, the brother of Nephi, "for he shall be thrust
-down to hell" ([2 Ne.
-9:34](https://www.lds.org/scriptures/bofm/2-ne/9.34?lang=eng#33)), there to
+down to hell" ([2 Ne. 9:34](/scriptures/bofm/2-ne/9.34?lang=eng#33)), there to
 dwell with "the devil, who is the father of all lies" ([2 Ne.
-2:18](https://www.lds.org/scriptures/bofm/2-ne/2.18?lang=eng#17)).
+2:18](/scriptures/bofm/2-ne/2.18?lang=eng#17)).
 
 Lying is so reprehensible that the Lord Himself cannot lie. As long ago as the
 confusion of tongues at the great tower, the brother of Jared so declared.
@@ -94,8 +93,7 @@ Having shown him His finger, the Lord asked:
 
 "And he answered: Yea, Lord, I know that thou speakest the truth, for thou art
 a God of truth, and _canst not lie._" ([Ether
-3:9-12](https://www.lds.org/scriptures/bofm/ether/3.9-12?lang=eng#8); italics
-added.)
+3:9-12](/scriptures/bofm/ether/3.9-12?lang=eng#8); italics added.)
 
 Some two thousand years later, Enos, the son of Jacob, testified to this same
 truth. Following an all-night vigil praying for forgiveness of his sins,
@@ -104,15 +102,14 @@ thou shalt be blessed."
 
 To this Enos responded: "And I, Enos, knew _that God could not lie;_
 wherefore, my guilt was swept away." ([Enos 1:5,
-6](https://www.lds.org/scriptures/bofm/enos/1.5%2C6?lang=eng#4); italics
-added.)
+6](/scriptures/bofm/enos/1.5,6?lang=eng#4); italics added.)
 
 Not only is it impossible for God to lie, but He hates lying.
 
 Solomon, the son of David, says: "These six things doth the Lord hate: yea,
 seven are an abomination unto him." The first two of the seven which he named
 are "A proud look, [and] a lying tongue." ([Prov.
-6:16-17](https://www.lds.org/scriptures/ot/prov/6.16-17?lang=eng#15).)
+6:16-17](/scriptures/ot/prov/6.16-17?lang=eng#15).)
 
 Throughout the scriptures lying is associated with major transgressions. Hosea
 lists lying with five practices which the Lord said were to bring disaster to
@@ -126,8 +123,7 @@ truth, nor mercy, nor knowledge of God in the land.
 adultery, they break out, and blood toucheth blood.
 
 "Therefore shall the land mourn, and every one that dwelleth therein shall
-languish." ([Hosea
-4:1-3](https://www.lds.org/scriptures/ot/hosea/4.1-3?lang=eng#0); italics
+languish." ([Hosea 4:1-3](/scriptures/ot/hosea/4.1-3?lang=eng#0); italics
 added.)
 
 In the case of Ananias and Sapphira, the Lord impressed upon members of the
@@ -167,9 +163,8 @@ young men came in, and found her dead, and, carrying her forth, buried her by
 her husband.
 
 "And great fear came upon all the church, and upon as many as heard these
-things." ([Acts
-4:35](https://www.lds.org/scriptures/nt/acts/4.35?lang=eng#34); [Acts
-5:1-11](https://www.lds.org/scriptures/nt/acts/5.1-11?lang=eng#0).)
+things." ([Acts 4:35](/scriptures/nt/acts/4.35?lang=eng#34); [Acts
+5:1-11](/scriptures/nt/acts/5.1-11?lang=eng#0).)
 
 Irrespective, however, of immediate consequences, John the Revelator tells of
 the ultimate consequences to follow the unrepentant liar:
@@ -203,34 +198,28 @@ Now comes the fate of the liar:
 "But the fearful, and unbelieving, and the abominable, and murderers, and
 whoremongers, and sorcerers, and idolaters, and all liars, shall have their
 part in the lake which burneth with fire and brimstone: which is the second
-death." ([Rev.
-21:1-8](https://www.lds.org/scriptures/nt/rev/21.1-8?lang=eng#0).)
+death." ([Rev. 21:1-8](/scriptures/nt/rev/21.1-8?lang=eng#0).)
 
 So far in these remarks we have considered several aspects of lying:
 
-  1. That Satan is the father of lying and inaugurated the practice in this world when in the Garden of Eden he lied to Eve.
-
-  2. That God cannot lie.
-
-  3. That God hates lying.
-
-  4. That liars are classified with major transgressors.
-
-  5. That they languish in this world.
-
-  6. That all unrepentant liars "shall have their part in the lake which burneth with fire and brimstone: which is the second death." ([Rev. 21:8](https://www.lds.org/scriptures/nt/rev/21.8?lang=eng#7).)([Rev. 21:1-8](https://www.lds.org/scriptures/nt/rev/21.1-8?lang=eng#0).)
+  1. That Satan is the father of lying and inaugurated the practice in this world when in the Garden of Eden he lied to Eve. 
+  2. That God cannot lie. 
+  3. That God hates lying. 
+  4. That liars are classified with major transgressors. 
+  5. That they languish in this world. 
+  6. That all unrepentant liars "shall have their part in the lake which burneth with fire and brimstone: which is the second death." ([Rev. 21:8](/scriptures/nt/rev/21.8?lang=eng#7).)([Rev. 21:1-8](/scriptures/nt/rev/21.1-8?lang=eng#0).) 
 
 In the twenty-first verse of section 42 of the Doctrine and Covenants, which
 the Prophet Joseph Smith specified to be the law of the Church, it is written:
 
 "Thou shalt not lie; he that lieth and will not repent shall be cast out"--
 meaning, of course, excommunicated from the Church. [[D&amp;C
-42:21](https://www.lds.org/scriptures/dc-testament/dc/42.21?lang=eng#20)]
+42:21](/scriptures/dc-testament/dc/42.21?lang=eng#20)]
 
 The twenty-seventh verse of the same section reads:
 
 "Thou shalt not speak evil of thy neighbor, nor do him any harm." [[D&amp;C
-42:27](https://www.lds.org/scriptures/dc-testament/dc/42.27?lang=eng#26)]
+42:27](/scriptures/dc-testament/dc/42.27?lang=eng#26)]
 
 Remember, brethren and sisters, President Clark's statement: "There is no
 other armor so strong as truth, none other that will turn aside the shafts of
@@ -248,14 +237,13 @@ upon us:
 "Thou shalt not steal.
 
 "Thou shalt not bear false witness against thy neighbour." ([Ex.
-20:15-16](https://www.lds.org/scriptures/ot/ex/20.15-16?lang=eng#14).)
+20:15-16](/scriptures/ot/ex/20.15-16?lang=eng#14).)
 
 In the law of the Church as given in this last dispensation, to which we have
 already referred, the Lord commanded:
 
 "Thou shalt not steal; and he that stealeth and will not repent shall be cast
-out." ([D&amp;C 42:20](https://www.lds.org/scriptures/dc-
-testament/dc/42.20?lang=eng#19).)
+out." ([D&amp;C 42:20](/scriptures/dc-testament/dc/42.20?lang=eng#19).)
 
 This means that the unrepentant thief is to be excommunicated from the Church.
 
@@ -279,4 +267,6 @@ are to the condition we must reach in preparation for the return of the
 Redeemer to the world. I bear my witness to these truths and to the truths of
 the gospel as it has been revealed and as we teach it, and I do it humbly in
 the name of Jesus Christ our Redeemer. Amen.
+
+## References
 

@@ -12,7 +12,7 @@ for these problems, when he said to Malachi: "Bring ye all the tithes into the
 storehouse, that there may be meat in mine house, and prove me now herewith,
 saith the Lord of hosts, if I will not open you the windows of heaven, and
 pour you out a blessing, that there shall not be room enough to receive it."
-([Mal. 3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).)
+([Mal. 3:10](/scriptures/ot/mal/3.10?lang=eng#9).)
 
 Frequently we hear the expression "I can't afford to pay tithing." Persons who
 make such statements have not yet learned that they can't afford _not_ to pay
@@ -64,9 +64,8 @@ year. ..." (Heber J. Grant, _Gospel Doctrine,_ p. 9.)
 The law of tithing has come from the Lord as a commandment, and when we keep
 that law and commandment we are entitled to the blessings that are promised,
 for the Lord has said: "I, the Lord, am bound when ye do what I say; but when
-_ye do not_ what I say, ye have no promise." ([D&amp;C
-82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9).
-Italics added.)
+_ye do not_ what I say, ye have no promise." ([D&amp;C 82:10](/scriptures/dc-
+testament/dc/82.10?lang=eng#9). Italics added.)
 
 In the early days of the Church there was a good and faithful woman, Mary
 Smith, widow of the martyred patriarch Hyrum Smith. She firmly believed in the
@@ -144,4 +143,6 @@ may come in unusual and unexpected ways so that at the time we may not even
 recognize them as blessings; but the promises of the Lord will be kept.
 
 And to this I testify in the name of our Lord and Savior, Jesus Christ. Amen.
+
+## References
 

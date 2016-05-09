@@ -72,10 +72,10 @@ the Church.
 In April of 1980 the Church will observe its sesquicentennial, and at that
 time will have reached an estimated membership of more than 4,300,000. As I
 reflect on the "marvellous work and a wonder" ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13)) which has
-brought this about, I am persuaded to give glory to God and to pay tribute to
-Joseph Smith, the prophet of the Restoration, and to all God's holy prophets
-who have guided his church under divine direction.
+29:14](/scriptures/ot/isa/29.14?lang=eng#13)) which has brought this about, I
+am persuaded to give glory to God and to pay tribute to Joseph Smith, the
+prophet of the Restoration, and to all God's holy prophets who have guided his
+church under divine direction.
 
 Let us briefly review the early life of Joseph Smith. He was born 23 December
 1805 at Sharon, Windsor County, Vermont, a son of Joseph Smith, Sr., and Lucy
@@ -85,7 +85,7 @@ revivals and one day read a scripture in the Epistle of James which reads:
 
 "If any of you lack wisdom, let him ask of God, that giveth to all men
 liberally, and upbraideth not; and it shall be given him" ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4)).
+1:5](/scriptures/nt/james/1.5?lang=eng#4)).
 
 That scripture had great impact on this spiritually minded boy; and as he
 reflected on its meaning, knowing in his heart that he needed God's help in
@@ -93,7 +93,7 @@ determining which of all the churches was true, he retired into the woods to
 offer his first vocal prayer. In a manner graphically described by Joseph in
 his own testimony, two personages appeared in a pillar of light above him, and
 one said, pointing to the other, "[Joseph,] this is My Beloved Son. Hear Him!"
-([JS--H 1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)).
+([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)).
 
 In answer to his question, he was told he must join none of the existing
 churches, and the reasons therefore were given to him. When he related the
@@ -125,7 +125,7 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things"
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3)).
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3)).
 
 It is this power which bears witness to hundreds of thousands of converts each
 year that Joseph Smith was a prophet of God and that the Book of Mormon is
@@ -151,7 +151,7 @@ heaven could not make it otherwise; and though they should persecute him unto
 death, yet he knew, and would know to his latest breath, that he had both seen
 a light and heard a voice speaking unto him, and all the world could not make
 him think or believe otherwise" ([JS--H
-1:24](https://www.lds.org/scriptures/pgp/js-h/1.24?lang=eng#23)).
+1:24](/scriptures/pgp/js-h/1.24?lang=eng#23)).
 
 I sorrow with him as he receives the plates and realizes the heavy
 responsibility in the work of protecting and translating them. With little
@@ -200,8 +200,7 @@ scriptures repeatedly affirm the need for continuous revelation. Consider the
 words of Amos:
 
 "Surely the Lord God will do nothing, but he revealeth his secret unto his
-servants the prophets" ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6)).
+servants the prophets" ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6)).
 
 Following the revelations he received, Joseph Smith taught with authority many
 truths recorded in the Bible which previously had not been understood. Some of
@@ -220,8 +219,7 @@ ourselves good or evil, with the resulting blessings or penalties. We read in
 
 "For we must all appear before the judgment seat of Christ; that every one may
 receive the things done in his body, according to that he hath done, whether
-it be good or bad" ([2 Cor.
-5:10](https://www.lds.org/scriptures/nt/2-cor/5.10?lang=eng#9)).
+it be good or bad" ([2 Cor. 5:10](/scriptures/nt/2-cor/5.10?lang=eng#9)).
 
 He gave the world a new concept of the priesthood--that it is the authority
 given by God for man to act in his name. Through revelation he defined clearly
@@ -259,7 +257,7 @@ mission on earth was to teach us what we must do. He repeatedly said, "Repent
 and be baptized." And he set the pattern in his own baptism by immersion
 performed by John the Baptist. At that time he said, "Suffer it to be so now:
 for thus it becometh us to fulfil all righteousness" ([Matt.
-3:15](https://www.lds.org/scriptures/nt/matt/3.15?lang=eng#14)).
+3:15](/scriptures/nt/matt/3.15?lang=eng#14)).
 
 His last instructions to his disciples were:
 
@@ -268,7 +266,7 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world" ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18)).
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18)).
 
 He made it clear that all the saving ordinances must be performed by those
 called of God and set apart by those having authority to preach the gospel and
@@ -283,7 +281,7 @@ kindred, and tongue, and people,
 "Saying with a loud voice, Fear God, and give glory to him; for the hour of
 his judgment is come: and worship him that made heaven, and earth, and the
 sea, and the fountains of waters" ([Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5)).
+14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5)).
 
 I wish to bear my testimony to all those who are within the sound of my voice
 this morning that _that angel_ has flown and that the everlasting gospel has
@@ -308,14 +306,12 @@ Our missionaries, over 28,000 of them, are preaching the same simple truths
 that were taught by Christ while he was on the earth, the first and great
 commandment being: "Thou shalt love the Lord thy God with all thy heart, and
 with all thy soul, and with all thy strength, and with all thy mind; and thy
-neighbour as thyself" ([Luke
-10:27](https://www.lds.org/scriptures/nt/luke/10.27?lang=eng#26)).
+neighbour as thyself" ([Luke 10:27](/scriptures/nt/luke/10.27?lang=eng#26)).
 
 We teach that the first principles and ordinances of the gospel are: "first,
 Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by
 immersion for the remission of sins; fourth, Laying on of hands for the gift
-of the Holy Ghost" ([A of F
-1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3)).
+of the Holy Ghost" ([A of F 1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3)).
 
 We believe that God still speaks to his people on the earth today, and that
 the Church is being led by a prophet of God--even Spencer W. Kimball--through
@@ -325,4 +321,6 @@ and it offers salvation and exaltation to all who will accept it.
 
 May this testimony come to everyone who is seeking for the truth is my prayer,
 in the name of Jesus Christ, amen.
+
+## References
 

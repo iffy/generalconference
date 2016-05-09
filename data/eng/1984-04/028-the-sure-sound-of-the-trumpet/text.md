@@ -24,7 +24,7 @@ our everyday life.
 
 The words of Paul came to my mind: "For if the trumpet give an uncertain
 sound, who shall prepare himself to the battle?" ([1 Cor.
-14:8](https://www.lds.org/scriptures/nt/1-cor/14.8?lang=eng#7).)
+14:8](/scriptures/nt/1-cor/14.8?lang=eng#7).)
 
 According to the radius of our activity, or within our sphere of
 responsibility, each one of us influences a certain number of God's sons and
@@ -45,13 +45,13 @@ of others.
 "Suffer not yourself to be led away by any vain or foolish thing; suffer not
 the devil to lead away your heart ... for when they saw your conduct they would
 not believe in my words." ([Alma
-39:11](https://www.lds.org/scriptures/bofm/alma/39.11?lang=eng#10).)
+39:11](/scriptures/bofm/alma/39.11?lang=eng#10).)
 
 On the other hand, Nephi gives us a very meaningful example of the power of a
 testimony which produces an attitude of certainty and leaves no room for doubt
 when he was faced with the request from his father, Lehi. He answered, "I will
 go and do the things which the Lord hath commanded." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 He did not say, "I will go and see what happens," or, "I will go and see what
 the circumstances are," which would have caused confusion and uncertainty;
@@ -62,12 +62,12 @@ request, but he further explained the reason for acting in this manner when he
 said, "For I know that the Lord giveth no commandments unto the children of
 men, save he shall prepare a way for them that they may accomplish the thing
 which he commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 On another occasion Nephi received the following assignment from the Lord:
 "Thou shalt construct a ship, after the manner which I shall show thee, that I
 may carry thy people across these waters." ([1 Ne.
-17:8](https://www.lds.org/scriptures/bofm/1-ne/17.8?lang=eng#7).)
+17:8](/scriptures/bofm/1-ne/17.8?lang=eng#7).)
 
 After receiving this commandment, Nephi's reaction was not the usual one that
 many people would expect, or that would be a logical response for some: "Look,
@@ -79,19 +79,18 @@ some other way to accomplish this project?"
 No such thoughts were alternatives used by Nephi when he made a decision. His
 answer was simply, "Lord, whither shall I go that I may find ore to molten,
 that I may make tools to construct the ship?" ([1 Ne.
-17:9](https://www.lds.org/scriptures/bofm/1-ne/17.9?lang=eng#8).) In these
-words, Nephi's firm determination and his decision to do what was asked of him
-are reflected in carrying out the mission which the Lord had assigned to him.
-Then, in the course of events, when his brothers began to murmur against him
-and opposed building the ship, he confronted them with the mighty strength of
-his testimony saying: "If God had commanded me to do all things I could do
-them. If he should command me that I should say unto this water, be thou
-earth, it should be earth; and if I should say it, it would be done.
+17:9](/scriptures/bofm/1-ne/17.9?lang=eng#8).) In these words, Nephi's firm
+determination and his decision to do what was asked of him are reflected in
+carrying out the mission which the Lord had assigned to him. Then, in the
+course of events, when his brothers began to murmur against him and opposed
+building the ship, he confronted them with the mighty strength of his
+testimony saying: "If God had commanded me to do all things I could do them.
+If he should command me that I should say unto this water, be thou earth, it
+should be earth; and if I should say it, it would be done.
 
 "And now, if the Lord has such great power, and has wrought so many miracles
 among the children of men, how is it that he cannot instruct me, that I should
-build a ship?" ([1 Ne.
-17:50-51](https://www.lds.org/scriptures/bofm/1-ne/17.50-51?lang=eng#49).)
+build a ship?" ([1 Ne. 17:50-51](/scriptures/bofm/1-ne/17.50-51?lang=eng#49).)
 
 Attitudes and actions which produce teaching examples are those which are
 motivated by a strong testimony.
@@ -133,8 +132,7 @@ This kind of determination, an exemplary way of life, is not reserved for only
 a small minority, as some would believe, but rather it should be the constant
 attitude of those who desire to follow the Lord's counsel in order to attain
 the promised blessings: "Be thou faithful unto death, and I will give thee a
-crown of life." ([Rev.
-2:10](https://www.lds.org/scriptures/nt/rev/2.10?lang=eng#9).)
+crown of life." ([Rev. 2:10](/scriptures/nt/rev/2.10?lang=eng#9).)
 
 In the scriptures we find examples of how, through their actions, parents can
 send "messages" into the lives of their children which will lead them into
@@ -146,9 +144,8 @@ children, how that ye have grieved their hearts because of the example that ye
 have set before them; and also, remember that ye may, because of your
 filthiness, bring your children unto destruction, and their sins be heaped
 upon your heads at the last day." ([Jacob
-3:10](https://www.lds.org/scriptures/bofm/jacob/3.10?lang=eng#9).) The
-dramatic power of example by parents in the lives of children is clearly
-demonstrated in those words.
+3:10](/scriptures/bofm/jacob/3.10?lang=eng#9).) The dramatic power of example
+by parents in the lives of children is clearly demonstrated in those words.
 
 Sometimes bad examples, or "the uncertain sound of the trumpet," which
 children receive in the home comes in the form of criticism of Church
@@ -170,7 +167,7 @@ issue, in the example of Joshua. When it became necessary for his people to
 make a firm commitment and take a definite stand, he said to them in his final
 speech, "And if it seem evil unto you to serve the Lord, choose you this day
 whom ye will serve; ... but as for me and my house, we will serve the Lord."
-([Josh. 24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+([Josh. 24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 Imagine the impact it would have if every parent took the same attitude and
 the same determination which Joshua took! What a loud and clear sound the
@@ -193,20 +190,21 @@ In the great mission to which we have been called, to be saviors of men, may
 we follow the admonition of the Lord:
 
 "Verily I say unto you all: Arise and shine forth, that thy light may be a
-standard for the nations." ([D&amp;C 115:5](https://www.lds.org/scriptures/dc-
+standard for the nations." ([D&amp;C 115:5](/scriptures/dc-
 testament/dc/115.5?lang=eng#4).)
 
 We cannot fail in that trust because our Savior, Jesus Christ, has shown us by
 example: "Behold I am the light; I have set an example for you." ([3 Ne.
-18:16](https://www.lds.org/scriptures/bofm/3-ne/18.16?lang=eng#15).)
+18:16](/scriptures/bofm/3-ne/18.16?lang=eng#15).)
 
 We know the goal; we have the example; now let us put forth the effort and
 make the decision to follow in that path.
 
 "And now, my beloved brethren, I know by this that unless a man shall endure
 to the end, in following the example of the Son of the living God, he cannot
-be saved." ([2 Ne.
-31:16](https://www.lds.org/scriptures/bofm/2-ne/31.16?lang=eng#15).)
+be saved." ([2 Ne. 31:16](/scriptures/bofm/2-ne/31.16?lang=eng#15).)
 
 In the name of the Redeemer, Jesus Christ, amen.
+
+## References
 

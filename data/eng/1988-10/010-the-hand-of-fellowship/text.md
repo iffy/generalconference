@@ -9,10 +9,9 @@ Savior's resurrection and ascension, was informed in a vision that the gospel
 is for all mankind. He said, "Of a truth I perceive that God is no respecter
 of persons: But in every nation he that feareth him, and worketh
 righteousness, is accepted with him." ([Acts
-10:34-35](https://www.lds.org/scriptures/nt/acts/10.34-35?lang=eng#33).) This
-same message appears in the Book of Mormon and in the Doctrine and Covenants.
-Every soul is to have an opportunity to hear and then accept or reject the
-gospel.
+10:34-35](/scriptures/nt/acts/10.34-35?lang=eng#33).) This same message
+appears in the Book of Mormon and in the Doctrine and Covenants. Every soul is
+to have an opportunity to hear and then accept or reject the gospel.
 
 In the Church we use the word _fellowship_ to describe our efforts (1) to
 encourage less-active members to return to full activity and (2) to help new
@@ -24,18 +23,17 @@ selected nonmembers who express an interest in the Church. Limiting or
 withholding our fellowship seems to me to be contrary to the gospel of Jesus
 Christ. The Savior offered the effects of his atoning sacrifice to all
 mankind. He said, "Remember the worth of souls is great in the sight of God."
-([D&amp;C 18:10](https://www.lds.org/scriptures/dc-
-testament/dc/18.10?lang=eng#9).) Can we justify doing less? Let me give you a
-few examples that illustrate my message.
+([D&amp;C 18:10](/scriptures/dc-testament/dc/18.10?lang=eng#9).) Can we
+justify doing less? Let me give you a few examples that illustrate my message.
 
 Near the end of his earthly ministry, the resurrected Jesus instructed his
 disciples with these words: "Go ye therefore, and teach all nations, baptizing
 them in the name of the Father, and of the Son, and of the Holy Ghost:
 Teaching them to observe all things whatsoever I have commanded you." ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).) That
-instruction is in force today and is the mandate for General Authorities,
-missionaries, and other members of the Church to travel to the four corners of
-the world teaching the gospel.
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).) That instruction is in
+force today and is the mandate for General Authorities, missionaries, and
+other members of the Church to travel to the four corners of the world
+teaching the gospel.
 
 Proclaiming the gospel to all mankind is a fundamental part of the mission of
 the Church. As those of you know who have supported full-time missionaries,
@@ -107,12 +105,11 @@ teachers and was given no Church calling. For several weeks she attended
 Sunday ward meetings, but she was mostly ignored. In due course, the
 missionaries who had taught her left the area, and her interest in the gospel
 waned without the support of members. She was not "remembered and nourished."
-([Moro. 6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3).) Soon
-she stopped attending church services, resumed her old friendships and life-
-style, and married a nonmember. Today she is a fine, productive, contributing
-citizen in her community and a loving, conscientious wife and mother. But she
-does not enjoy the rich blessings that come from full fellowship in the
-Church.
+([Moro. 6:4](/scriptures/bofm/moro/6.4?lang=eng#3).) Soon she stopped
+attending church services, resumed her old friendships and life-style, and
+married a nonmember. Today she is a fine, productive, contributing citizen in
+her community and a loving, conscientious wife and mother. But she does not
+enjoy the rich blessings that come from full fellowship in the Church.
 
 Recently, the _Church News_ featured two older sister missionaries who
 exemplify the attributes of love and caring for others while serving on their
@@ -175,16 +172,15 @@ but their names."
 
 During his earthly ministry, Jesus posed this challenging question: "For if ye
 love them which love you, what reward have ye? do not even the publicans the
-same?" ([Matt.
-5:46](https://www.lds.org/scriptures/nt/matt/5.46?lang=eng#45).) This teaching
-is clear. We should extend our love far beyond family, close friends, and
-fellow members of the Church. Our hearts should be open to everyone.
+same?" ([Matt. 5:46](/scriptures/nt/matt/5.46?lang=eng#45).) This teaching is
+clear. We should extend our love far beyond family, close friends, and fellow
+members of the Church. Our hearts should be open to everyone.
 
 We can share the love of Christ in simple acts. For example, the warmth of a
 radiant smile and friendly greeting can go far in smoothing the way for good
 neighborly relations. Jesus posed another question: "And if ye salute your
 brethren only, what do ye more than others? do not even the publicans so?"
-([Matt. 5:47](https://www.lds.org/scriptures/nt/matt/5.47?lang=eng#46).)
+([Matt. 5:47](/scriptures/nt/matt/5.47?lang=eng#46).)
 
 Some years ago, a friend of mine was doing some work one morning on his garage
 roof. He looked down and saw a load of cement being delivered to his nonmember
@@ -202,8 +198,7 @@ Jesus gave us a new commandment and said it would identify his disciples:
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33).)
+another." ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33).)
 
 As disciples of Christ, we need to feel genuine charity for one another. As we
 do, new light will come into our own lives. This charity is essential in
@@ -226,7 +221,7 @@ has not necessarily rejected the gospel.
 
 Let us adhere to the counsel of the Apostle Paul and be "no more strangers and
 foreigners, but fellowcitizens with the saints, and of the household of God."
-([Eph. 2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).)
+([Eph. 2:19](/scriptures/nt/eph/2.19?lang=eng#18).)
 
 Despite some well-publicized criticism to the contrary, I believe Church
 members want to be good friends and neighbors wherever they live, but some are
@@ -241,4 +236,6 @@ his example in all of our associations with our fellowmen. I testify that
 Jesus Christ is the Son of God, the Savior of all mankind. He loves all men
 and looks to each one of us to do the same. May we so do I pray humbly, in the
 name of Jesus Christ, amen.
+
+## References
 

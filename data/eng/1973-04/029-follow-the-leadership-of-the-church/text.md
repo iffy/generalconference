@@ -175,9 +175,8 @@ man which will embrace it with singleness of heart may be ordained and sent
 forth, even as I have spoken.
 
 "I am Jesus Christ, the Son of God; wherefore, gird up your loins, and I will
-suddenly come to my temple. ..." ([D&amp;C 36:1-2, 4-5,
-7-8](https://www.lds.org/scriptures/dc-
-testament/dc/36.1-2%2C4-5%2C7-8?lang=eng#0).)
+suddenly come to my temple. ..." ([D&amp;C 36:1-2, 4-5, 7-8](/scriptures/dc-
+testament/dc/36.1-2,4-5,7-8?lang=eng#0).)
 
 Now, I want to refer particularly to this one verse, and then make a few
 comments about magnifying the priesthood. Notice what the Lord said: "And I
@@ -210,7 +209,7 @@ doing their duty, and to see that they are all keeping the commandments of
 God." The duties of a priest: The priest is to preach, teach, expound, exhort,
 and baptize, and administer the sacrament; and to visit the house of each
 member, and exhort them to pray vocally and in secret and attend to all family
-duties." ([D&amp;C 20:46-47](https://www.lds.org/scriptures/dc-
+duties." ([D&amp;C 20:46-47](/scriptures/dc-
 testament/dc/20.46-47?lang=eng#45).) They should have in mind when they are
 acting in those capacities it is as though they were acting for and
 responsible to the Lord.
@@ -308,4 +307,6 @@ So I bear you that witness and leave you my blessing this night, and pray
 God's blessings upon you, the priesthood of the Church, the strength of Zion,
 the backbone of the kingdom of God on earth. So I pray and leave you my
 blessing, in the name of Jesus Christ. Amen.
+
+## References
 

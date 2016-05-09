@@ -42,8 +42,7 @@ We think of the disciples waiting outside the Garden of Gethsemane and not
 having the discerning nature to know what the Savior was going through. And
 yet, the Savior himself embodied that characteristic which a bishop and all of
 us should have. He said, "What, could ye not watch with me one hour?" ([Matt.
-26:40](https://www.lds.org/scriptures/nt/matt/26.40?lang=eng#39).) They did
-not understand.
+26:40](/scriptures/nt/matt/26.40?lang=eng#39).) They did not understand.
 
 Sometimes, experience is the best teacher of discernment. We are reminded of
 President Harold B. Lee who had to lose his sweet companion so that he might
@@ -109,18 +108,18 @@ Edward Partridge was called, the superscription says, "The members were
 striving to do the will of God so far as they knew it." And that's true today.
 We strive to do the Lord's will so far as we know it. The section goes on to
 say that the Lord asks us to assemble ourselves together to agree upon his
-word. (See [D&amp;C 41:2](https://www.lds.org/scriptures/dc-
-testament/dc/41.2?lang=eng#1).) If we do that, there will be unity. That unity
-has been here today. May the Lord's blessings continue, that "by the prayer of
-your faith," as the Lord promises, "ye shall receive my law, that ye may know
-how to govern my church and have all things right before me." ([D&amp;C
-41:3](https://www.lds.org/scriptures/dc-testament/dc/41.3?lang=eng#2).)
+word. (See [D&amp;C 41:2](/scriptures/dc-testament/dc/41.2?lang=eng#1).) If we
+do that, there will be unity. That unity has been here today. May the Lord's
+blessings continue, that "by the prayer of your faith," as the Lord promises,
+"ye shall receive my law, that ye may know how to govern my church and have
+all things right before me." ([D&amp;C 41:3](/scriptures/dc-
+testament/dc/41.3?lang=eng#2).)
 
 In conclusion, let's turn to the story of Elijah and Elisha. Elijah had gone
 from his duties to go up to a cave. The Lord came to him, and he was called to
 go back to his duties. He had not had a convert for some period of years, but
 when he went back he found Elisha, who immediately followed him. (See [1 Kgs.
-19](https://www.lds.org/scriptures/ot/1-kgs/19.title?lang=eng).)
+19](/scriptures/ot/1-kgs/19?lang=eng).)
 
 They dwelt and worked together for a few years until the time came when all
 the priesthood leaders knew that it was time for Elijah to be translated.
@@ -133,8 +132,7 @@ imagine? Then Elijah was translated and departed in a flaming chariot, and the
 only thing that was left was his mantle. Elisha picked up the mantle, then
 turned toward the fifty priesthood leaders who were standing afar off. He had
 to return over the river, so he picked up the cloak, smote the River Jordan,
-and it parted. (See [2 Kgs.
-2:1-15](https://www.lds.org/scriptures/ot/2-kgs/2.1-15?lang=eng#0).)
+and it parted. (See [2 Kgs. 2:1-15](/scriptures/ot/2-kgs/2.1-15?lang=eng#0).)
 
 I now stand at the Jordan with two sweet counselors, Bishop Eyring and Bishop
 Pace, as we attempt to cross the River Jordan to serve together. I ask for the
@@ -161,4 +159,6 @@ that God lives, that Jesus is the Christ. Of this I have no doubt. I give you
 my testimony with those who have prophesied this day. As I look into their
 eyes and feel the love I have for them, I ask that we might be able to work
 together in harmony. I say this in the name of Jesus Christ, amen.
+
+## References
 

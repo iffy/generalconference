@@ -51,8 +51,7 @@ responsibility as your Presiding Bishopric. We have but one desire and that
 is, to accomplish the work of the Lord in his own way and in his own time, for
 we recognize that this is his church. We are his servants called to assist him
 in accomplishing his purpose, which is "to bring to pass the immortality and
-eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+eternal life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 The Presiding Bishopric functions under the supervision and direction of the
 First Presidency, who constitute the presidency of all the priesthood
@@ -187,8 +186,8 @@ gift of the Holy Ghost by the laying on of the hands, when eight years old,
 the sin be upon the heads of the parents.
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord." ([D&amp;C 68:25, 28](https://www.lds.org/scriptures/dc-
-testament/dc/68.25%2C28?lang=eng#24).)
+before the Lord." ([D&amp;C 68:25, 28](/scriptures/dc-
+testament/dc/68.25,28?lang=eng#24).)
 
 The first responsibility rests with the parents. The position of the Church is
 to aid the parents and the family, not to replace them.
@@ -209,4 +208,6 @@ Lord for each of you and pray our Heavenly Father's blessings upon us all
 that, through our united and devoted leadership, we may help every young man
 in this church honor his priesthood so that not one of these precious children
 of God will be lost. I pray this humbly in the name of Jesus Christ. Amen.
+
+## References
 

@@ -101,8 +101,7 @@ to perform in church, or visit an inactive member of your class, or plan an
 activity: "I only need to worry about pleasing the Lord." I think some of your
 fears will evaporate. The prophet David said: "The Lord is my light and my
 salvation; whom shall I fear? the Lord is the strength of my life; of whom
-shall I be afraid?" ([Ps.
-27:1](https://www.lds.org/scriptures/ot/ps/27.1?lang=eng#0).)
+shall I be afraid?" ([Ps. 27:1](/scriptures/ot/ps/27.1?lang=eng#0).)
 
 The second idea that has been helpful to me was reportedly expressed by
 Vincent van Gogh, a famous painter. He said, "I am always doing what I can't
@@ -149,40 +148,41 @@ beloved son. ...
 night and day;
 
 "Greatly desiring to see thee, being mindful of thy tears." ([2 Tim.
-1:2-4](https://www.lds.org/scriptures/nt/2-tim/1.2-4?lang=eng#1).)
+1:2-4](/scriptures/nt/2-tim/1.2-4?lang=eng#1).)
 
 Isn't that a tender letter? Pretend it is coming to you from one who is
 mindful of _your_ tears.
 
 Paul then goes on to remind Timothy of his strengths: "I call to remembrance
 the unfeigned faith that is in thee." ([2 Tim.
-1:5](https://www.lds.org/scriptures/nt/2-tim/1.5?lang=eng#4).) He reminds
-Timothy that both his grandmother and his mother were women of faith.
+1:5](/scriptures/nt/2-tim/1.5?lang=eng#4).) He reminds Timothy that both his
+grandmother and his mother were women of faith.
 
 Think of some of the strengths that your grandmothers and mother have passed
 on to you.
 
 Then Paul asks Timothy to remember to use the gift of the Holy Ghost: "I put
 thee in remembrance that thou stir up the gift of God, which is in thee by the
-putting on of my hands." ([2 Tim.
-1:6](https://www.lds.org/scriptures/nt/2-tim/1.6?lang=eng#5).)
+putting on of my hands." ([2 Tim. 1:6](/scriptures/nt/2-tim/1.6?lang=eng#5).)
 
 Are you remembering that you have had hands laid on your head--that you have
 been given a gift? Use that gift to conquer your fears!
 
 And then my favorite part of the letter: "For God hath not given us the spirit
 of fear; but of power, and of love, and of a sound mind." ([2 Tim.
-1:7](https://www.lds.org/scriptures/nt/2-tim/1.7?lang=eng#6).)
+1:7](/scriptures/nt/2-tim/1.7?lang=eng#6).)
 
 Are those just the things you want when you are fearful--power, love, the
 ability to think clearly?
 
 Paul ends one of his letters: "All that are with me salute thee. Greet them
 that love us in the faith. Grace be with you all. Amen." ([Titus
-3:15](https://www.lds.org/scriptures/nt/titus/3.15?lang=eng#14).)
+3:15](/scriptures/nt/titus/3.15?lang=eng#14).)
 
 All that are with me salute you. We love you and are aware of your fears and
 your faith. I bear you my witness that Jesus Christ is our Savior, that he
 loves me, that he loves each of you, and that he will help us to replace our
 fears with faith. I say these things in his name, amen.
+
+## References
 

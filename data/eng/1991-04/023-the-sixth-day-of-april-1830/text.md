@@ -73,7 +73,7 @@ perceive that in all things ye are too superstitious.
 "For as I passed by, and beheld your devotions, I found an altar with this
 inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him
 declare I unto you." ([Acts 17:19-20,
-22-23](https://www.lds.org/scriptures/nt/acts/17.19-20%2C22-23?lang=eng#18).)
+22-23](/scriptures/nt/acts/17.19-20,22-23?lang=eng#18).)
 
 Surely from an intellectual standpoint and in terms of formal education,
 Joseph Smith was as unlearned and wholly untrained in the ministry as Paul was
@@ -95,7 +95,7 @@ How reminiscent of those who loved the Lord when he walked as a man on the
 shores of Galilee. Even as Jesus was persecuted, stoned, condemned, and
 finally crucified, some of his disciples felt as Thomas did when he said, "Let
 us also go, that we may die with him." ([John
-11:16](https://www.lds.org/scriptures/nt/john/11.16?lang=eng#15).)
+11:16](/scriptures/nt/john/11.16?lang=eng#15).)
 
 Joseph Smith was not only a great man, but he was an inspired servant of the
 Lord, a prophet of God. His greatness consists in one thing--the truthfulness
@@ -113,16 +113,14 @@ personal being. Furthermore, the Father and the Son demonstrated the
 undeniable truth that they are separate and distinct personages. Indeed, the
 relationship of the Father and the Son was reaffirmed by the divine
 introduction to the boy prophet, "This is My Beloved Son. Hear Him." ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) Those who
-were baptized into the Church on the sixth of April, 1830, believed in the
-existence of a personal God; they believed that his reality and the reality of
-his Son, Jesus Christ, constitute the eternal foundation upon which this
-church is built.
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) Those who were baptized into
+the Church on the sixth of April, 1830, believed in the existence of a
+personal God; they believed that his reality and the reality of his Son, Jesus
+Christ, constitute the eternal foundation upon which this church is built.
 
 Once we accept Christ as divine, it is easy to visualize his Father as being
 just as personal as he. Christ said, "He that hath seen me hath seen the
-Father." ([John
-14:9](https://www.lds.org/scriptures/nt/john/14.9?lang=eng#8).) Faith in the
+Father." ([John 14:9](/scriptures/nt/john/14.9?lang=eng#8).) Faith in the
 existence of a divine and real and living personal God was the first element
 that contributed to the perpetuity of the Church of Jesus Christ in ancient
 times, and it is the everlasting foundation upon which The Church of Jesus
@@ -161,4 +159,6 @@ within God's hands and under the direction of the Savior of the world, weak
 and simple things should come forth and break down the mighty and strong ones.
 On this anniversary season of the organization of the Church, I bear testimony
 of its truthfulness in the name of Jesus Christ, amen.
+
+## References
 

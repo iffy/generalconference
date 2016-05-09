@@ -80,8 +80,7 @@ noted the frustration of those who have tried to stop this work. We have been
 strengthened, and we have moved forward under the promise of the Lord, who
 said: "I will not suffer that they [the enemy] shall destroy my work; yea, I
 will show unto them that my wisdom is greater than the cunning of the devil."
-([D&amp;C 10:43](https://www.lds.org/scriptures/dc-
-testament/dc/10.43?lang=eng#42).)
+([D&amp;C 10:43](/scriptures/dc-testament/dc/10.43?lang=eng#42).)
 
 In little more than two and a half years we have dedicated sixteen new temples
 and rededicated the restored Manti Temple. Before the end of the year, we
@@ -122,10 +121,9 @@ and attractive. They bore every mark of education and refinement. There was
 something of greatness apparent in them. Most of them have the blood of Lehi
 in their veins. The shackles of darkness have fallen from their eyes, as
 promised by the prophets of the Book of Mormon. They have become "a pure and a
-delightsome people." ([2 Ne.
-30:6](https://www.lds.org/scriptures/bofm/2-ne/30.6?lang=eng#5).) What a
-wonderfully uplifting experience it was to be with them and to witness the
-miraculous power of God in their lives.
+delightsome people." ([2 Ne. 30:6](/scriptures/bofm/2-ne/30.6?lang=eng#5).)
+What a wonderfully uplifting experience it was to be with them and to witness
+the miraculous power of God in their lives.
 
 I could not hold back the tears when we were in the Philippines. It was my
 privilege to participate in the opening of missionary work in that land in
@@ -163,13 +161,13 @@ We recently returned from Johannesburg, South Africa. Here in the United
 States we see in the public press and on television much of conflict in that
 area. But in the house of God, that beautiful Johannesburg Temple, there was
 peace, the peace of the Lord, the peace that "passeth all understanding."
-([Philip. 4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).)
-Mingling together as brethren and sisters, bound by eternal covenants with the
-Almighty, were people with different roots. Among them were those descended
-from the Dutch who long ago went to that land, those who descended from the
-British who had fought the Dutch, and also those who came of the native
-peoples of Africa. There was fellowship, there was love, there was unity and
-mutual respect among all assembled in the house of the Lord.
+([Philip. 4:7](/scriptures/nt/philip/4.7?lang=eng#6).) Mingling together as
+brethren and sisters, bound by eternal covenants with the Almighty, were
+people with different roots. Among them were those descended from the Dutch
+who long ago went to that land, those who descended from the British who had
+fought the Dutch, and also those who came of the native peoples of Africa.
+There was fellowship, there was love, there was unity and mutual respect among
+all assembled in the house of the Lord.
 
 We experienced much of rejoicing on these sacred occasions, not only in the
 temples I have named, but in every other as well. Following the dedication of
@@ -188,15 +186,15 @@ when He walked among them, which keys were restored in this dispensation by
 those who held them anciently--through these have come great added blessings,
 including those unique and remarkable ordinances administered in the house of
 the Lord. Only in those ordinances is there realized the exercise of "the
-fulness of the priesthood." ([D&amp;C 124:28](https://www.lds.org/scriptures
-/dc-testament/dc/124.28?lang=eng#27).)
+fulness of the priesthood." ([D&amp;C 124:28](/scriptures/dc-
+testament/dc/124.28?lang=eng#27).)
 
 I assume there is no Christian who does not acknowledge the necessity for and
 the importance of baptism "of water and of the Spirit." None could
 legitimately deny this necessity in view of the statement given by the Master
 to Nicodemus: "Except a man be born of water and of the Spirit, he cannot
 enter into the kingdom of God." ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4).)
+3:5](/scriptures/nt/john/3.5?lang=eng#4).)
 
 Are the uncounted millions who have died without baptism to be denied the
 blessings of the kingdom of God because they were innocent of the requirement?
@@ -211,7 +209,7 @@ Paul's question to the Corinthian Saints offers scriptural confirmation of the
 practice of proxy baptism in behalf of the deceased: "Else what shall they do
 which are baptized for the dead, if the dead rise not at all? why are they
 then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).)
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).)
 
 The word of Jesus to Nicodemus did not allow for exemption. In each of the
 temples of The Church of Jesus Christ of Latter-day Saints is a font wherein
@@ -240,22 +238,21 @@ light on them, nor any heat.
 "For the Lamb which is in the midst of the throne shall feed them, and shall
 lead them unto living fountains of waters: and God shall wipe away all tears
 from their eyes." ([Rev. 7:13,
-15-17](https://www.lds.org/scriptures/nt/rev/7.13%2C15-17?lang=eng#12).)
+15-17](/scriptures/nt/rev/7.13,15-17?lang=eng#12).)
 
 Here in these holy houses husbands and wives are sealed together under that
 same authority which the Lord gave His Apostles anciently. "When Jesus came
 into the coasts of Caesarea Philippi," he conversed with His disciples, and
 out of that conversation came Peter's moving declaration: "Thou art the
 Christ, the Son of the living God." ([Matt. 16:13,
-16](https://www.lds.org/scriptures/nt/matt/16.13%2C16?lang=eng#12).)
+16](/scriptures/nt/matt/16.13,16?lang=eng#12).)
 
 The Savior then spoke of the power of revelation through which that knowledge
 had come and of that principle of revelation upon which His church should be
 built. He then went on to say to these, His chosen brethren: "And I will give
 unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on
 earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall
-be loosed in heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+be loosed in heaven." ([Matt. 16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 Marriage, solemnized in the temples of the Church, is performed in the
 authority of that same holy priesthood, not only for this life, but for the
@@ -309,6 +306,8 @@ from death which came through the sacrifice of the Savior, of the universality
 of the opportunity for all generations of men and women to the great blessings
 of our Father, who said, "This is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) I so
-testify in the name of the Lord Jesus Christ, amen.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) I so testify in the name of
+the Lord Jesus Christ, amen.
+
+## References
 

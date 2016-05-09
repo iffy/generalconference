@@ -13,13 +13,12 @@ end suffering, eliminate fatigue, and abolish work.
 Of course, if the truth were understood, the things that we're trying to get
 rid of are the very things we ought to have; suffering is essential. "Learned
 he obedience by the things which he suffered" ([Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7)); and how great it
-is to be able to get tired enough to sleep soundly. The glory of work cannot
-be overemphasized. The satisfaction of a difficult task successfully completed
-or accomplished is one of the greatest satisfactions that we know in this
-life. The fulfillment of old age, looking back on a full life, the serenity of
-understanding gained by long experience make old age a golden, glorious time
-of life.
+5:8](/scriptures/nt/heb/5.8?lang=eng#7)); and how great it is to be able to
+get tired enough to sleep soundly. The glory of work cannot be overemphasized.
+The satisfaction of a difficult task successfully completed or accomplished is
+one of the greatest satisfactions that we know in this life. The fulfillment
+of old age, looking back on a full life, the serenity of understanding gained
+by long experience make old age a golden, glorious time of life.
 
 Yes, our society is one that is leaping from one fantasy into the next,
 grasping for happiness, hoping against hope, with faith in some new program.
@@ -82,23 +81,22 @@ children today.
 
 Those who have a testimony know it is the desire of the Father "that man every
 might speak in the name of God the Lord, even the Savior of the world."
-([D&amp;C 1:20](https://www.lds.org/scriptures/dc-
-testament/dc/1.20?lang=eng#19).) Therefore, he has once again given authority
-to man on earth to act for him, and by this authority or priesthood man has
-authority to baptize, to lay on hands for the gift of the Holy Ghost, to heal
-the sick, cast out devils, speak with new tongues, and, in general, show forth
-the signs that Jesus said would always follow the believers. (See [Mark
-16:17-18](https://www.lds.org/scriptures/nt/mark/16.17-18?lang=eng#16).)
+([D&amp;C 1:20](/scriptures/dc-testament/dc/1.20?lang=eng#19).) Therefore, he
+has once again given authority to man on earth to act for him, and by this
+authority or priesthood man has authority to baptize, to lay on hands for the
+gift of the Holy Ghost, to heal the sick, cast out devils, speak with new
+tongues, and, in general, show forth the signs that Jesus said would always
+follow the believers. (See [Mark
+16:17-18](/scriptures/nt/mark/16.17-18?lang=eng#16).)
 
 Further, they know that by this same authority or priesthood a man and woman
 are married--not until death do they part, but for all eternity, for
 whatsoever is bound on earth will be bound in heaven. (See [Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).) When these
-truths are not only believed but indelibly etched upon the heart of a man,
-woman, or child by the Holy Ghost, then the programs that the Lord established
-on the earth to allow his children to grow in light and knowledge and
-experience become a living, vital part of the pathway to immortality and
-eternal life.
+16:19](/scriptures/nt/matt/16.19?lang=eng#18).) When these truths are not only
+believed but indelibly etched upon the heart of a man, woman, or child by the
+Holy Ghost, then the programs that the Lord established on the earth to allow
+his children to grow in light and knowledge and experience become a living,
+vital part of the pathway to immortality and eternal life.
 
 These programs do not run by themselves. They are made to work by people, and
 every program requires sacrifice, just as Elder McConkie has so eloquently
@@ -170,8 +168,7 @@ when the times of refreshing shall come from the presence of the Lord;
 
 "Whom the heaven must receive until the times of restitution of all things,
 which God hath spoken by the mouth of all his holy prophets since the world
-began." ([Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18).)
+began." ([Acts 3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18).)
 
 No, the power or vitality is not in the programs of The Church of Jesus Christ
 of Latter-day Saints. It is in the theology. You cannot have the fruits of
@@ -198,4 +195,6 @@ people to an understanding of their responsibility to their Heavenly Father as
 well as to their fellowman, and they will love to carry out these assignments.
 This is the church of Jesus Christ and he runs this church. I bear this record
 in the name of Jesus Christ. Amen.
+
+## References
 

@@ -22,21 +22,19 @@ the prophets.
 
 Jeremiah said to a people who were rebellious and recalcitrant: "... do no
 violence to the stranger [he may have needed to say it in that day], the
-fatherless, nor the widow." ([Jer.
-22:3](https://www.lds.org/scriptures/ot/jer/22.3?lang=eng#2).)
+fatherless, nor the widow." ([Jer. 22:3](/scriptures/ot/jer/22.3?lang=eng#2).)
 
 Of a king he said with approbation, "He judged the cause of the poor and
 needy; then it was well with him: was not this to know me? saith the Lord."
-([Jer. 22:16](https://www.lds.org/scriptures/ot/jer/22.16?lang=eng#15).)
+([Jer. 22:16](/scriptures/ot/jer/22.16?lang=eng#15).)
 
 These thoughts were later reiterated by the Lord through Micah when he told
 the people that what was required was "to do justly, and to love mercy, and to
-walk humbly with thy God." ([Micah
-6:8](https://www.lds.org/scriptures/ot/micah/6.8?lang=eng#7).)
+walk humbly with thy God." ([Micah 6:8](/scriptures/ot/micah/6.8?lang=eng#7).)
 
 Paul told the saints to be kind to one another, tenderhearted, forgiving,
 having charity one to another. ([Eph.
-4:32](https://www.lds.org/scriptures/nt/eph/4.32?lang=eng#31).)
+4:32](/scriptures/nt/eph/4.32?lang=eng#31).)
 
 Alma was a little more specific. He urged them to cry to the Lord over all of
 their activities and their possessions and for the welfare of themselves and
@@ -50,8 +48,7 @@ are as hypocrites who do deny the faith.
 
 "Therefore, if ye do not remember to be charitable, ye are as dross, which the
 refiners do cast out, (it being of no worth) and is trodden under foot of
-men." ([Alma
-34:28-29](https://www.lds.org/scriptures/bofm/alma/34.28-29?lang=eng#27).)
+men." ([Alma 34:28-29](/scriptures/bofm/alma/34.28-29?lang=eng#27).)
 
 The revelations given to Joseph Smith on this subject are numerous and were
 among the early ones. To care for the poor is one of the first and early
@@ -138,16 +135,18 @@ all can give as individuals.
 This echoes what James said: "Pure religion and undefiled before God and the
 Father is this, To visit the fatherless and widows in their affliction, and to
 keep himself unspotted from the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 One last word from the Lord to us in this day: "And remember in all things the
 poor and the needy, the sick and the afflicted, for he that doeth not these
-things, the same is not my disciple." ([D&amp;C
-52:40](https://www.lds.org/scriptures/dc-testament/dc/52.40?lang=eng#39).)
+things, the same is not my disciple." ([D&amp;C 52:40](/scriptures/dc-
+testament/dc/52.40?lang=eng#39).)
 
 I know that Jesus Christ lives, and that his Holy Father lives also. I sustain
 President Joseph Fielding Smith as the living prophet with all my heart. I
 know too of the blessings that come to both the giver and the receiver when
 one obeys the injunction that the way to love the Lord is to love and serve
 his neighbors. In the name of Jesus Christ. Amen.
+
+## References
 

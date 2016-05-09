@@ -54,7 +54,7 @@ yea, and the Lord God will disperse the powers of darkness from before you,
 and cause the heavens to shake for your good, and his name's glory.
 
 "For thus saith the Lord God: Him have I inspired to move the cause of Zion in
-mighty power for good" ([D&amp;C 21:5-7](https://www.lds.org/scriptures/dc-
+mighty power for good" ([D&amp;C 21:5-7](/scriptures/dc-
 testament/dc/21.5-7?lang=eng#4)).
 
 The first solemn assembly was held in the Kirtland Temple on 27 March 1836.
@@ -68,9 +68,8 @@ Today, by exercising the principle of common consent, we have expressed our
 will. How sacred is this privilege and responsibility? So sacred that in the
 great priesthood revelation, the Lord said that these matters "may be brought
 before a general assembly of the several quorums, _which constitute the
-spiritual authorities of the church"_ ([D&amp;C
-107:32](https://www.lds.org/scriptures/dc-testament/dc/107.32?lang=eng#31);
-emphasis added).
+spiritual authorities of the church"_ ([D&amp;C 107:32](/scriptures/dc-
+testament/dc/107.32?lang=eng#31); emphasis added).
 
 The Prophet Joseph Smith declared, "Where [the President is] not, there is no
 First Presidency" (_Teachings of the Prophet Joseph Smith,_ p. 106). Following
@@ -82,7 +81,7 @@ the Church is officially ordained and set apart in that office.
 Our fifth article of faith declares: "We believe that a man must be called of
 God, by prophecy, and by the laying on of hands by those who are in authority,
 to preach the Gospel and administer in the ordinances thereof." [[A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4)]
+1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4)]
 
 The revealed process by which Howard W. Hunter became the President of the
 Church began when he was called, ordained, and set apart to become a member of
@@ -181,9 +180,9 @@ tomorrow you will be sustained as a member of the Council of the Twelve"
 A prophet is one who knows by personal revelation from the Holy Ghost that
 Jesus Christ is the Son of God, for "the testimony of Jesus is the spirit of
 prophecy," as the Prophet Joseph taught us ([Rev.
-19:10](https://www.lds.org/scriptures/nt/rev/19.10?lang=eng#9); see also
-_Teachings of the Prophet Joseph Smith,_ p. 119). Thus every prophet bears
-record of Jesus Christ.
+19:10](/scriptures/nt/rev/19.10?lang=eng#9); see also _Teachings of the
+Prophet Joseph Smith,_ p. 119). Thus every prophet bears record of Jesus
+Christ.
 
 The sermons, writings, and teachings of him whom we have sustained this day
 attest that he is indeed a prophet and a special witness of our Lord and
@@ -211,4 +210,6 @@ servants of God, will lead the Church forward, on to greater heights and
 expansion throughout the world.
 
 I bear this testimony to you in the name of Jesus Christ, amen.
+
+## References
 

@@ -12,10 +12,10 @@ we came.
 We read in the first chapter of the gospel according to John: "In the
 beginning was the Word, and the Word was with God, and the Word was God. The
 same was in the beginning with God." ([John
-1:1-2](https://www.lds.org/scriptures/nt/john/1.1-2?lang=eng#0).) This would
-indicate that Christ, Jehovah, the Great I Am, was with the Father in that
-early state of existence; he was the firstborn of his spirit children. He was
-taught by the Father during that incalculable time.
+1:1-2](/scriptures/nt/john/1.1-2?lang=eng#0).) This would indicate that
+Christ, Jehovah, the Great I Am, was with the Father in that early state of
+existence; he was the firstborn of his spirit children. He was taught by the
+Father during that incalculable time.
 
 Before we came here we lived in the heavens in the spirit state as children of
 our Heavenly Father. The poet Wordsworth caught a flash from the eternal
@@ -59,8 +59,7 @@ In that previous existence we had our free agency. In the councils where
 consideration was given to the matter of the creation and the peopling of this
 earth, the Father presented an unselfish plan. It had been used in other
 worlds. Jehovah said: "Father, thy will be done, and the glory be thine
-forever." ([Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).)
+forever." ([Moses 4:2](/scriptures/pgp/moses/4.2?lang=eng#1).)
 
 Lucifer, however, contended for an amendment to the plan whereby we would all
 be saved by compulsion. This was contrary to free agency. His was an ambitious
@@ -68,11 +67,11 @@ proposal and one which involved granting to him, Lucifer, the honor that
 belongs to the Father. The scriptures tell us he said: "Behold, here am I,
 send me, I will be thy son, and I will redeem all mankind, that one soul shall
 not be lost, and surely I will do it; wherefore give me thine honor." ([Moses
-4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0).) This would
-destroy the right to free agency and the opportunity for growth and
-development. It would be contrary to the Father's purpose in giving his
-children the opportunity to become like unto him through their own
-faithfulness and efforts. It was a selfish and presumptive proposal.
+4:1](/scriptures/pgp/moses/4.1?lang=eng#0).) This would destroy the right to
+free agency and the opportunity for growth and development. It would be
+contrary to the Father's purpose in giving his children the opportunity to
+become like unto him through their own faithfulness and efforts. It was a
+selfish and presumptive proposal.
 
 We are given to understand that whereas in the preexistence, in that spiritual
 estate, the spirits had their free agency, there were different degrees of
@@ -90,7 +89,7 @@ throne above the stars of God: ...
 "I will ascend above the heights of the clouds: I will be like the most High.
 
 "Yet thou shalt be brought down to hell, to the sides of the pit." ([Isa.
-14:12-15](https://www.lds.org/scriptures/ot/isa/14.12-15?lang=eng#11).)
+14:12-15](/scriptures/ot/isa/14.12-15?lang=eng#11).)
 
 When those spirits who followed Jehovah were sent to earth to take upon
 themselves mortality, they were by no means of equal capacity nor similar in
@@ -159,7 +158,7 @@ world.
 that bitter cup which the Father hath given me, and have glorified the Father
 in taking upon me the sins of the world, in the which I have suffered the will
 of the Father in all things from the beginning." ([3 Ne.
-11:10-11](https://www.lds.org/scriptures/bofm/3-ne/11.10-11?lang=eng#9).)
+11:10-11](/scriptures/bofm/3-ne/11.10-11?lang=eng#9).)
 
 The Church has the further scripture about the Only Begotten and his mission
 as contained in the Pearl of Great Price. How fortunate we are that we have
@@ -200,12 +199,12 @@ resurrection, thereby making possible that all mankind may live again in a
 resurrected state after mortal death. Yes, "God so loved the world, that he
 gave his only begotten Son, that whosoever believeth in him should not perish,
 but have everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 It is his work and his glory to bring to pass the immortality and eternal life
 of man, which is salvation and exaltation in the presence of God the Father
 and his Son Jesus Christ. (See [Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 It is our mission and our responsibility to carry this message to the world.
 It is our work and our glory to assist our Savior in the accomplishment of the
@@ -219,4 +218,6 @@ righteousness.
 I testify to the truth of these things. I know that our Redeemer lives, and I
 bear this testimony in faith and in all sincerity, in the name of our Savior
 and Redeemer, Jesus Christ. Amen.
+
+## References
 

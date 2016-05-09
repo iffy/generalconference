@@ -114,7 +114,7 @@ Some contribute to this personal weakness when they read or experience filthy
 magazines, vulgar movies or television shows, or remain in a group where
 unclean discussions occur. Each of these kinds of experiences will weaken any
 spirit, will make it less able to withstand "the fiery darts" of the adversary
-([Eph. 6:16](https://www.lds.org/scriptures/nt/eph/6.16?lang=eng#15)).
+([Eph. 6:16](/scriptures/nt/eph/6.16?lang=eng#15)).
 
 Now, brethren of the priesthood, there should not be any X- or R-rated movies
 that we participate in viewing or talking about. There must be no pornographic
@@ -161,7 +161,7 @@ It may only be a cheery hello, a short visit to a homebound, a phone call, or
 a note. Maybe even picking up your dirty socks will thrill an unsuspecting
 mother or wife. According to the scripture, a disciple of the Savior is first
 a servant to others (see [Matt.
-20:27](https://www.lds.org/scriptures/nt/matt/20.27?lang=eng#26)).
+20:27](/scriptures/nt/matt/20.27?lang=eng#26)).
 
 And finally, pick up a commandment you are still struggling with and give it
 an honest chance to bless your life.
@@ -189,9 +189,11 @@ this priesthood army and of the work for which we are responsible, I, too, add
 my prayer that we will each be found faithful in the things with which we have
 been entrusted. For the Lord said, "O ye that embark in the service of God,
 see that ye serve him with all your heart, might, mind, and strength, that ye
-may stand blameless before God at the last day" ([D&amp;C
-4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1)).
+may stand blameless before God at the last day" ([D&amp;C 4:2](/scriptures/dc-
+testament/dc/4.2?lang=eng#1)).
 
 My brethren, as your friend and brother, I plead with you to prepare as you
 have never prepared before, in the name of Jesus Christ, amen.
+
+## References
 

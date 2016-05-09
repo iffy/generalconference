@@ -27,8 +27,7 @@ to being governed by judges. They wanted a king. The prophet told them that a
 king would make them servants. But they hearkened not, and persisted in
 demanding a king. This grieved Samuel, and the Lord said to him, "Hearken unto
 the voice of the people ... for they have not rejected thee, but they have
-rejected me." ([1 Sam.
-8:7](https://www.lds.org/scriptures/ot/1-sam/8.7?lang=eng#6).)
+rejected me." ([1 Sam. 8:7](/scriptures/ot/1-sam/8.7?lang=eng#6).)
 
 Israel thus surrendered the form of free government God had given them. They
 got their king all right, and a few decades later they were taken captive into
@@ -65,19 +64,17 @@ every one that loveth is born of God, and knoweth God.
 only begotten Son into the world, that we might live through him. ...
 
 "Beloved, if God so loved us, we ought also to love one another." ([1 Jn.
-4:7-9, 11](https://www.lds.org/scriptures/nt/1-jn/4.7-9%2C11?lang=eng#6).)
+4:7-9, 11](/scriptures/nt/1-jn/4.7-9,11?lang=eng#6).)
 
 _"Whoso hath this world's good, and seeth his brother have need, and shutteth
 up his bowels of compassion from him, how dwelleth the love of God in him?"_
-([1 Jn. 3:17](https://www.lds.org/scriptures/nt/1-jn/3.17?lang=eng#16);
-italics added.)
+([1 Jn. 3:17](/scriptures/nt/1-jn/3.17?lang=eng#16); italics added.)
 
 "If thou lovest me," said Jesus, "... thou wilt remember the poor, and
 consecrate of thy properties for their support. ...
 
 "And inasmuch as ye impart of your substance unto the poor, ye will do it unto
-me." ([D&amp;C 42:29-31](https://www.lds.org/scriptures/dc-
-testament/dc/42.29-31?lang=eng#28).)
+me." ([D&amp;C 42:29-31](/scriptures/dc-testament/dc/42.29-31?lang=eng#28).)
 
 When Jesus was asked, "Master, which is the great commandment in the law?"
 Matthew says that he answered:
@@ -90,12 +87,11 @@ and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35).)
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35).)
 
 Matthew, Mark, and Luke all three report this incident. Luke, however, further
 informs us that the lawyer who put the question said further, "And who is my
-neighbour?" ([Luke
-10:29](https://www.lds.org/scriptures/nt/luke/10.29?lang=eng#28).)
+neighbour?" ([Luke 10:29](/scriptures/nt/luke/10.29?lang=eng#28).)
 
 And Jesus responded with his Good Samaritan parable:
 
@@ -124,7 +120,7 @@ among the thieves?
 
 "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and
 do thou likewise." ([Luke
-10:30-37](https://www.lds.org/scriptures/nt/luke/10.30-37?lang=eng#29).)
+10:30-37](/scriptures/nt/luke/10.30-37?lang=eng#29).)
 
 Two of the three principles upon which the Church Welfare Services must
 function--agency and love of neighbor--are admirably taught in this parable.
@@ -219,8 +215,8 @@ The Lord said in the revelation recorded in section 42 of the Doctrine and
 Covenants, specified by the Prophet Joseph as being the law of the Church:
 
 "Thou shalt not be idle; for he that is idle shall not eat the bread nor wear
-the garments of the laborer." ([D&amp;C 42:42](https://www.lds.org/scriptures
-/dc-testament/dc/42.42?lang=eng#41).)
+the garments of the laborer." ([D&amp;C 42:42](/scriptures/dc-
+testament/dc/42.42?lang=eng#41).)
 
 Later He said:
 
@@ -234,8 +230,7 @@ up in wickedness; they also seek not earnestly the riches of eternity, but
 their eyes are full of greediness.
 
 "These things ought not to be, and must be done away from among them."
-([D&amp;C 68:30-32](https://www.lds.org/scriptures/dc-
-testament/dc/68.30-32?lang=eng#29).)
+([D&amp;C 68:30-32](/scriptures/dc-testament/dc/68.30-32?lang=eng#29).)
 
 And again:
 
@@ -248,24 +243,21 @@ and let him labor. ...
 
 "Let every man be diligent in all things. And the idler shall not have place
 in the church, except he repent and mend his ways." ([D&amp;C 75:3,
-28-29](https://www.lds.org/scriptures/dc-
-testament/dc/75.3%2C28-29?lang=eng#2).)
+28-29](/scriptures/dc-testament/dc/75.3,28-29?lang=eng#2).)
 
 As frequently as the Lord condemned idleness, he spoke of the virtue of labor.
 The day the Church was organized, he said, "I will bless all those who labor
-in my vineyard with a mighty blessing." ([D&amp;C
-21:9](https://www.lds.org/scriptures/dc-testament/dc/21.9?lang=eng#8).) Nine
-months later he added:
+in my vineyard with a mighty blessing." ([D&amp;C 21:9](/scriptures/dc-
+testament/dc/21.9?lang=eng#8).) Nine months later he added:
 
 "I give unto you a commandment, that every man, both elder, priest, teacher,
 and also member, go to with his might, with the labor of his hands, to prepare
 and accomplish the things which I have commanded." ([D&amp;C
-38:40](https://www.lds.org/scriptures/dc-testament/dc/38.40?lang=eng#39).)
+38:40](/scriptures/dc-testament/dc/38.40?lang=eng#39).)
 
 Concerning one who would obtain an interest in the Nauvoo House, the Lord
 said: "Let him ... labor with his own hands that he may obtain the confidence of
-men." ([D&amp;C 124:112](https://www.lds.org/scriptures/dc-
-testament/dc/124.112?lang=eng#111).)
+men." ([D&amp;C 124:112](/scriptures/dc-testament/dc/124.112?lang=eng#111).)
 
 The following is a great scripture in which the Lord speaks to both givers and
 receivers:
@@ -281,16 +273,14 @@ from laying hold upon other men's goods, whose eyes are full of greediness,
 and who will not labor with your own hands!
 
 "But blessed are the poor who are pure in heart, whose hearts are broken, and
-whose spirits are contrite." ([D&amp;C
-56:16-18](https://www.lds.org/scriptures/dc-
+whose spirits are contrite." ([D&amp;C 56:16-18](/scriptures/dc-
 testament/dc/56.16-18?lang=eng#15).)
 
 On the subject of work there are more than 100 references in the revelations.
 All of them are consistent with the declaration, twice repeated, that when the
 Lord comes he will "recompense unto every man according to his work."
-([D&amp;C 1:10](https://www.lds.org/scriptures/dc-
-testament/dc/1.10?lang=eng#9); see also [D&amp;C
-112:34](https://www.lds.org/scriptures/dc-testament/dc/112.34?lang=eng#33).)
+([D&amp;C 1:10](/scriptures/dc-testament/dc/1.10?lang=eng#9); see also
+[D&amp;C 112:34](/scriptures/dc-testament/dc/112.34?lang=eng#33).)
 
 The foregoing scriptures were revealed by the Lord through the Prophet Joseph
 Smith, Jr.
@@ -399,14 +389,13 @@ the people serve God in a perpetual union!" (_Times and Seasons_ 5:679, Oct.
 
 Now, my brothers and sisters, the handwriting is on the wall; "the
 interpretation thereof [is] sure." ([Dan.
-2:45](https://www.lds.org/scriptures/ot/dan/2.45?lang=eng#44).) Both history
-and prophecy--and I may add, common sense--bear witness to the fact that no
-civilization can long endure which follows the course charted by bemused
-manipulators and now being implemented as government welfare programs all
-around the world.
+2:45](/scriptures/ot/dan/2.45?lang=eng#44).) Both history and prophecy--and I
+may add, common sense--bear witness to the fact that no civilization can long
+endure which follows the course charted by bemused manipulators and now being
+implemented as government welfare programs all around the world.
 
 Babylon shall be destroyed, and great shall be the fall thereof. (See [D&amp;C
-1:16](https://www.lds.org/scriptures/dc-testament/dc/1.16?lang=eng#15).)
+1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15).)
 
 But do not be discouraged. Zion will not go down with her, because Zion shall
 be built on the principles of love of God and fellowman, work, and earnest
@@ -418,7 +407,7 @@ as it is among us today. Among those who rejected the word of God in that day
 brought the flood. "But the Lord came and dwelt with his people, and they
 dwelt in righteousness. ... because they were of one heart and one mind, ... and
 there was no poor among them." ([Moses 7:16,
-18](https://www.lds.org/scriptures/pgp/moses/7.16%2C18?lang=eng#15).)
+18](/scriptures/pgp/moses/7.16,18?lang=eng#15).)
 
 As we prepare for the building of Zion, we must not and we shall not abandon
 the basic principles upon which our Church Welfare Services are founded:
@@ -430,4 +419,6 @@ industry, thrift and self respect [are] once more established amongst our
 people."
 
 This is my witness, which I bear to you in the name of Jesus Christ. Amen.
+
+## References
 

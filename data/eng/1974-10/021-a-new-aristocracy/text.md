@@ -135,12 +135,12 @@ be on the stand singing for us this evening.
 
 Jesus spoke of them when he said: "He shall send his angels with a great sound
 of a trumpet, and they shall gather together his elect from the four winds."
-([Matt. 24:31](https://www.lds.org/scriptures/nt/matt/24.31?lang=eng#30).)
+([Matt. 24:31](/scriptures/nt/matt/24.31?lang=eng#30).)
 
 Listen to the counsel of Paul to the Colossians: "Put on therefore, as the
 elect of God, holy and beloved, bowels of mercies, kindness, humbleness of
 mind, meekness, longsuffering." ([Col.
-3:12](https://www.lds.org/scriptures/nt/col/3.12?lang=eng#11).)
+3:12](/scriptures/nt/col/3.12?lang=eng#11).)
 
 How can the young elect of God, as well as those who are older, begin this
 herculean task?
@@ -178,4 +178,6 @@ I know that God lives. I know that this is his work. I know that he inspires
 his great prophet President Spencer W. Kimball. I know his path is the only
 way to peace and happiness here and hereafter, in the name of Jesus Christ.
 Amen.
+
+## References
 

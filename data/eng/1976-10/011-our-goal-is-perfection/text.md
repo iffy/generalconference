@@ -3,10 +3,9 @@
 Our Lord and Savior in His great Sermon on the Mount gave us our greatest
 challenge and most important goal when He said, "Be ye therefore perfect, even
 as your Father which is in heaven is perfect." ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).) In these
-words Jesus challenges us to strive for excellence in all that we do--to
-develop our talents and abilities--and above all to live in accordance with
-His teachings.
+5:48](/scriptures/nt/matt/5.48?lang=eng#47).) In these words Jesus challenges
+us to strive for excellence in all that we do--to develop our talents and
+abilities--and above all to live in accordance with His teachings.
 
 The pursuit of excellence should be major work of our lives. Many people,
 however, give little attention to it. Perhaps they feel that it is not
@@ -157,4 +156,6 @@ for all of God's children who will listen, accept, and live the gospel.
 
 May we be successful in this, our greatest responsibility, is my humble
 prayer, in the name of the Lord, Jesus Christ. Amen.
+
+## References
 

@@ -5,9 +5,9 @@ those things which can cause some in His flock to become inactive,
 indifferent, offended, or to fall away. The cares and pleasures of the world,
 temptation, persecution, tribulation--all take their toll; so do being
 wronged, being ignored, and seeing hypocrisy in others. (See [Matt.
-13:21](https://www.lds.org/scriptures/nt/matt/13.21?lang=eng#20); [Matt.
-24:10](https://www.lds.org/scriptures/nt/matt/24.10?lang=eng#9); [Luke
-8:13-14](https://www.lds.org/scriptures/nt/luke/8.13-14?lang=eng#12).)
+13:21](/scriptures/nt/matt/13.21?lang=eng#20); [Matt.
+24:10](/scriptures/nt/matt/24.10?lang=eng#9); [Luke
+8:13-14](/scriptures/nt/luke/8.13-14?lang=eng#12).)
 
 Brethren, except for our own families, no group of men needs us more than
 these souls. Unlike those who have never heard the gospel, these individuals
@@ -20,11 +20,11 @@ genuine caring, more extending a helping hand than writing new handbooks.
 
 There are no slick tricks, and quickie campaigns usually fail, for "a brother
 offended is harder to be won than a strong city." ([Prov.
-18:19](https://www.lds.org/scriptures/ot/prov/18.19?lang=eng#18).) Further,
-while we must stand on higher ground in order to lift another, there must be
-no condescension or suggestion that our concern is statistical rather than
-spiritual. Nor are souls to be dropped soon after they have been painstakingly
-lifted. How many times are we supposed to find the elect anyway?
+18:19](/scriptures/ot/prov/18.19?lang=eng#18).) Further, while we must stand
+on higher ground in order to lift another, there must be no condescension or
+suggestion that our concern is statistical rather than spiritual. Nor are
+souls to be dropped soon after they have been painstakingly lifted. How many
+times are we supposed to find the elect anyway?
 
 A _first_ step is to recognize, where known, the causes of inactivity in these
 men. This often suggests how to customize our expressions of concern. However,
@@ -34,8 +34,8 @@ wasted.
 
 _Second,_ recognize that this work takes time; it does interrupt our regular
 routine. The parable of the Good Samaritan teaches us that. (See [Luke
-10:29-37](https://www.lds.org/scriptures/nt/luke/10.29-37?lang=eng#28).) Some
-wounds require more than a quick Band-Aid.
+10:29-37](/scriptures/nt/luke/10.29-37?lang=eng#28).) Some wounds require more
+than a quick Band-Aid.
 
 A _third_ step to be overseen by priesthood executive committees and ward
 correlation councils, is the careful matching of person to person. Organized
@@ -48,8 +48,7 @@ to a certain brother.
 
 _Fourth,_ provide such individuals with a fresh opportunity to serve, because
 they are genuinely needed. Moses learned this principle while recruiting Hobab
-as a guide. (See [Num.
-10:29-32](https://www.lds.org/scriptures/ot/num/10.29-32?lang=eng#28).)
+as a guide. (See [Num. 10:29-32](/scriptures/ot/num/10.29-32?lang=eng#28).)
 Remember, while their condition cries out for unconditional love, they usually
 desire a modest chance to express their own love and talents. For instance,
 elders quorum presidencies should organize several appropriate committees,
@@ -90,26 +89,24 @@ woodcarver was asked how one begins to be a woodcarver. He said bluntly,
 
 A _sixth_ step is to remember the Lord's hand is in this work. He can bring
 about those circumstances in which such souls are "in a preparation to hear
-the word." ([Alma
-32:6](https://www.lds.org/scriptures/bofm/alma/32.6?lang=eng#5).) His Spirit
+the word." ([Alma 32:6](/scriptures/bofm/alma/32.6?lang=eng#5).) His Spirit
 can prod the prodigals--some of whom will come to their senses. And as that
 happens, however, let us run to greet them while they are "yet a great way
-off." ([Luke
-15:20](https://www.lds.org/scriptures/nt/luke/15.20?lang=eng#19).)
+off." ([Luke 15:20](/scriptures/nt/luke/15.20?lang=eng#19).)
 
 _Seventh,_ prevention is always better than rehabilitation. Sometimes,
 ironically, prevention requires no more than a few extra minutes of loving
 conversation or an expression of empathy. Being given the priesthood and a
 church assignment soon after baptism not only helps to anchor new converts,
 but assists other Church workers who are busy and whose hands hang down and
-whose knees are feeble. (See [D&amp;C 81:5](https://www.lds.org/scriptures/dc-
+whose knees are feeble. (See [D&amp;C 81:5](/scriptures/dc-
 testament/dc/81.5?lang=eng#4).)
 
 Likewise, as the Lord's undershepherds, let us take preventive care to set a
 prudent pace for Church activities and extra financial contributions. The Lord
 wants dedication, not prostration! Even the vital Book of Mormon was
 translated only as strength and means were provided. (See [D&amp;C
-10:4](https://www.lds.org/scriptures/dc-testament/dc/10.4?lang=eng#3).)
+10:4](/scriptures/dc-testament/dc/10.4?lang=eng#3).)
 
 Now, brethren, let us step back from the details of this demanding challenge
 and speak of overall realities and responsibilities for inactive and active
@@ -129,8 +126,8 @@ difficult to carry our cross and grudges, too.
 
 Quickly forgotten by those who are offended is the fact that the Church is
 "for the perfecting of the saints" ([Eph.
-4:12](https://www.lds.org/scriptures/nt/eph/4.12?lang=eng#11)); it is not a
-well-provisioned rest home for the already perfected.
+4:12](/scriptures/nt/eph/4.12?lang=eng#11)); it is not a well-provisioned rest
+home for the already perfected.
 
 Likewise, unremembered by some is the reality that in the kingdom we are each
 other's clinical material; the Lord allows us to practice on each other, even
@@ -141,23 +138,21 @@ has also inflicted some pain.
 Often unallowed for, too, are the differing styles of leadership we experience
 in the kingdom. Paul was thoughtfully sensitive to the need not to offend weak
 members by eating meat (see [1 Cor.
-8:13](https://www.lds.org/scriptures/nt/1-cor/8.13?lang=eng#12)), while John
-the Baptist's diet of locusts and wild honey may not have proven contagious--
-surely not with Jerusalem's country club set.
+8:13](/scriptures/nt/1-cor/8.13?lang=eng#12)), while John the Baptist's diet
+of locusts and wild honey may not have proven contagious--surely not with
+Jerusalem's country club set.
 
 It is our individual and constant responsibility to avoid "looking beyond the
-mark." ([Jacob
-4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13).) My focus
-is my responsibility! What is most to be focused on--the fact that Peter
-walked briefly on the water or that he did not continue? Has any other mortal
-so walked, even that briefly?
+mark." ([Jacob 4:14](/scriptures/bofm/jacob/4.14?lang=eng#13).) My focus is my
+responsibility! What is most to be focused on--the fact that Peter walked
+briefly on the water or that he did not continue? Has any other mortal so
+walked, even that briefly?
 
 Imperfect people are, in fact, called by our perfect Lord to assist in His
 work. The Lord declared to certain associates of Joseph Smith that He knew
 that they had observed Joseph's minor imperfections. Even so, the Lord then
 testified that the revelations given through the Prophet were true! (See
-[D&amp;C 67:5, 9](https://www.lds.org/scriptures/dc-
-testament/dc/67.5%2C9?lang=eng#4).)
+[D&amp;C 67:5, 9](/scriptures/dc-testament/dc/67.5,9?lang=eng#4).)
 
 Unsurprisingly, therefore, we do notice each other's weaknesses. But we should
 not celebrate them. Let us be grateful for the small strides that we and
@@ -171,8 +166,7 @@ editor Moroni:
 his imperfection, neither them who have written before him; but rather _give
 thanks unto God_ that he hath _made manifest unto you our imperfections,_ that
 _ye may learn to be more wise than we have been._" ([Morm.
-9:31](https://www.lds.org/scriptures/bofm/morm/9.31?lang=eng#30); italics
-added.)
+9:31](/scriptures/bofm/morm/9.31?lang=eng#30); italics added.)
 
 If such is our attitude, we are far less likely to be offended.
 
@@ -187,9 +181,8 @@ heavens wherein God moves in His majesty and power, but God's majesty as He
 improves and shapes a soul.
 
 So in the give-and-take in the kingdom, we jostle and are jostled. Offenses
-will come. (See [Matt.
-18:7](https://www.lds.org/scriptures/nt/matt/18.7?lang=eng#6).) Once ego is
-unwisely committed, no cause seems too trivial for some. In a dispute over
+will come. (See [Matt. 18:7](/scriptures/nt/matt/18.7?lang=eng#6).) Once ego
+is unwisely committed, no cause seems too trivial for some. In a dispute over
 milk, Thomas B. Marsh soon let himself become offended at the Prophet Joseph.
 
 Lorenzo Snow, Marsh's contemporary, said that while he, too, noticed some
@@ -202,15 +195,15 @@ Prophets need tutoring, as do we all. However, this is something the Lord
 seems quite able to manage without requiring a host of helpers. The Lord
 provides discreet but needed feedback, as He did to Peter by the shattering
 sound of a rooster crowing (see [Luke
-22:54-62](https://www.lds.org/scriptures/nt/luke/22.54-62?lang=eng#53)), or to
-an undelegating Moses through a caring, observing, and wise father-in-law--
-without Jethro's placing an ad in the _Sinai Sentinel_ (see [Ex.
-18:13-16](https://www.lds.org/scriptures/ot/ex/18.13-16?lang=eng#12)).
+22:54-62](/scriptures/nt/luke/22.54-62?lang=eng#53)), or to an undelegating
+Moses through a caring, observing, and wise father-in-law--without Jethro's
+placing an ad in the _Sinai Sentinel_ (see [Ex.
+18:13-16](/scriptures/ot/ex/18.13-16?lang=eng#12)).
 
 Happily for us all, the gospel is redemptive. It focuses not on Peter's lapse
 in the hall of the high priest, but on Peter's testimony of Jesus, bold and
 ringing, before Annas and Caiaphas and the council. (See [Acts
-4:5-12](https://www.lds.org/scriptures/nt/acts/4.5-12?lang=eng#4).)
+4:5-12](/scriptures/nt/acts/4.5-12?lang=eng#4).)
 
 Moreover, as we view others, humility should counsel us that we do not have
 all the data. Though Peter and Paul had a difference over a particular, but
@@ -224,21 +217,20 @@ writers of God's word?
 
 "And whoso receiveth this record, and shall not condemn it because of the
 imperfections which are in it, the same shall know of greater things than
-these." ([Morm.
-8:12](https://www.lds.org/scriptures/bofm/morm/8.12?lang=eng#11).)
+these." ([Morm. 8:12](/scriptures/bofm/morm/8.12?lang=eng#11).)
 
 And who, more than the Lord, knows what it costs to process His eternal truths
 through mortals? "Behold, I am God and have spoken it; these commandments are
 of me, and were given unto my servants in their weakness, after the manner of
 their language, that they might come to understanding." ([D&amp;C
-1:24](https://www.lds.org/scriptures/dc-testament/dc/1.24?lang=eng#23).)
+1:24](/scriptures/dc-testament/dc/1.24?lang=eng#23).)
 
 Above and beyond the usual sources of offense, there are those special
 circumstances, and we do well to note them, which can cause even strong people
 to falter briefly. Prior to His arraignment, Jesus told the Twelve how the
 Shepherd would soon be smitten and the sheep would be scattered. Peter denied
 that he would falter, and "likewise also said they all." (See [Mark
-14:26-31](https://www.lds.org/scriptures/nt/mark/14.26-31?lang=eng#25).)
+14:26-31](/scriptures/nt/mark/14.26-31?lang=eng#25).)
 
 Before judging these disciples, consider their anguishing circumstances.
 Things looked really ominous for the flock. They were understandably fearful
@@ -259,8 +251,7 @@ the Twelve, "Will ye also go away?" The question is the same today, and so is
 the answer: "Lord, to whom shall we go? thou hast the words of eternal life.
 
 "And we believe and are sure that thou art that Christ, the Son of the living
-God." ([John
-6:67-69](https://www.lds.org/scriptures/nt/john/6.67-69?lang=eng#66).)
+God." ([John 6:67-69](/scriptures/nt/john/6.67-69?lang=eng#66).)
 
 In closing, I appeal to the offended and inactive: Do not let yesterday hold
 tomorrow hostage! Walk away from your investment in the penny stock of pride;
@@ -268,22 +259,21 @@ it never pays dividends.
 
 Remember, too, that it is not the flock, the body of the Church and its
 leaders, who stray, but individuals who stray. (See [Matt.
-18:12-14](https://www.lds.org/scriptures/nt/matt/18.12-14?lang=eng#11).)
+18:12-14](/scriptures/nt/matt/18.12-14?lang=eng#11).)
 
 Likewise, I appeal to us all to consider anew this counsel from Jesus:
 "Moreover if thy brother shall trespass against thee, go and tell him his
 fault between thee and him alone: if he shall hear thee, thou hast gained thy
-brother." ([Matt.
-18:15](https://www.lds.org/scriptures/nt/matt/18.15?lang=eng#14).) To win a
+brother." ([Matt. 18:15](/scriptures/nt/matt/18.15?lang=eng#14).) To win a
 point does not compare with "gaining" a brother!
 
 Let us all take extra care to avoid both giving and taking offense.
 
 Let us be loving, kind, and forgiving--helping these friends to become, as
 Peter and Paul said, grounded, rooted, established, and settled! (See [Eph.
-3:17](https://www.lds.org/scriptures/nt/eph/3.17?lang=eng#16); [1 Pet.
-5:10](https://www.lds.org/scriptures/nt/1-pet/5.10?lang=eng#9).) "The time is
-far spent." (_Hymns,_ no. 184.)
+3:17](/scriptures/nt/eph/3.17?lang=eng#16); [1 Pet.
+5:10](/scriptures/nt/1-pet/5.10?lang=eng#9).) "The time is far spent."
+(_Hymns,_ no. 184.)
 
 Savor these words quoted by a magnanimous and forgiving Prophet Joseph Smith
 to a repentant and returning W. W. Phelps:
@@ -294,8 +284,9 @@ _For friends at first, are friends again at last._
 
 Such is my counsel, brethren. Such is my prayer. It is given in the name of
 Him who said, "Blessed is he, whosoever shall not be offended" ([Luke
-7:23](https://www.lds.org/scriptures/nt/luke/7.23?lang=eng#22)). Jesus'
-redemptiveness and his love cause Him to stand at the very gate, and we are
-told he waits there for us with open arms. I so certify in the name of Jesus
-Christ, amen.
+7:23](/scriptures/nt/luke/7.23?lang=eng#22)). Jesus' redemptiveness and his
+love cause Him to stand at the very gate, and we are told he waits there for
+us with open arms. I so certify in the name of Jesus Christ, amen.
+
+## References
 

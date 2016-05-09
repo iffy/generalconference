@@ -9,8 +9,7 @@ of the Lord:
 
 "And they shall wander from sea to sea, and from the north even to the east,
 they shall run to and fro to seek the word of the Lord, and shall not find
-it." ([Amos
-8:11-12](https://www.lds.org/scriptures/ot/amos/8.11-12?lang=eng#10).)
+it." ([Amos 8:11-12](/scriptures/ot/amos/8.11-12?lang=eng#10).)
 
 Famine was one of the common scourges of Old Testament times, and people
 understood the devastating consequences of crop failure and starving people.
@@ -20,7 +19,7 @@ but of hearing the words of the Lord."
 
 Long before this time Moses had written: "... man doth not live by bread only,
 but by every word that proceedeth out of the mouth of the Lord doth man live."
-([Deut. 8:3](https://www.lds.org/scriptures/ot/deut/8.3?lang=eng#2).)
+([Deut. 8:3](/scriptures/ot/deut/8.3?lang=eng#2).)
 
 Present-day reports of confusion and frustration of individuals and religious
 institutions, as they attempt to resolve their religious doubts and conflicts,
@@ -29,8 +28,7 @@ word of the Lord, and shall not find it."
 
 They seek to find the solution without building on the rock of revelation, as
 the Lord said must be done, if the gates of hell are not to prevail against
-it. (See [Matt.
-16:17-18](https://www.lds.org/scriptures/nt/matt/16.17-18?lang=eng#16).) This
+it. (See [Matt. 16:17-18](/scriptures/nt/matt/16.17-18?lang=eng#16).) This
 problem has engaged the minds of good and sincere men before and since the
 restoration of the gospel of Jesus Christ in this dispensation.
 
@@ -87,8 +85,7 @@ today, but the answer given him by the Lord takes away the uncertainty, for he
 said that "all their creeds were an abomination in his sight; ... 'they draw
 near to me with their lips, but their hearts are far from me, they teach for
 doctrines the commandments of men, having a form of godliness, but they deny
-the power thereof.'" ([JS--H
-1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18).)
+the power thereof.'" ([JS--H 1:19](/scriptures/pgp/js-h/1.19?lang=eng#18).)
 
 For the world generally, this condition has not changed.
 
@@ -161,9 +158,8 @@ There is hope--God does live--and there is a believable voice to those who
 have faith and the will to believe. Certainly we live in a day of famine, as
 described by Amos, when "they shall run to and fro to seek the word of the
 Lord, and shall not find it." ([Amos
-8:12](https://www.lds.org/scriptures/ot/amos/8.12?lang=eng#11).) Nevertheless,
-in what appears to be a spiritual famine, there are many who have found a
-spiritual abundance.
+8:12](/scriptures/ot/amos/8.12?lang=eng#11).) Nevertheless, in what appears to
+be a spiritual famine, there are many who have found a spiritual abundance.
 
 It is my witness that God lives and Jesus is the Christ, the Savior of the
 world. These few words I have spoken are a portrayal of my humble testimony
@@ -171,4 +167,6 @@ that the gospel in its fullness has been restored in these latter days and
 that there is a prophet on the earth today who speaks the mind and will of the
 Lord to those who will hear and have the faith to follow. That we may do so, I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

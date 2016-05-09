@@ -247,3 +247,5 @@ Swiss, and New Zealand temples; Marriner S. Eccles, former chairman of the
 Federal Reserve Board; and Dr. Florence J. Madsen, composer, educator, and
 director of all Singing Mothers activities for the Church.
 
+## References
+

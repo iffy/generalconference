@@ -12,7 +12,7 @@ declaring all of the joy and eternal promise that event holds for mankind.
 With you, I welcome this season of the year which reminds us that God is a God
 of miracles, that his Only Begotten Son is "the resurrection, and the life: he
 that believeth in [him], though he were dead, yet shall he live." ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24).)
+11:25](/scriptures/nt/john/11.25?lang=eng#24).)
 
 In this beautiful time of year, we remember that death has no sting and the
 grave has no dominion. I testify that after every winter's season there is the
@@ -30,8 +30,7 @@ The Psalmist has written:
 hand of the most High. ...
 
 "Thou art the God that doest wonders: thou hast declared thy strength among
-the people." ([Ps. 77:1, 10,
-14](https://www.lds.org/scriptures/ot/ps/77.1%2C10%2C14?lang=eng#0).)
+the people." ([Ps. 77:1, 10, 14](/scriptures/ot/ps/77.1,10,14?lang=eng#0).)
 
 Among the signs of the true church, and included in the evidences of God's
 work in the world, are the manifestations of his power which we are helpless
@@ -49,18 +48,17 @@ declarations he made:
 
 "The Son can do nothing of himself, but what he seeth the Father do: for what
 things soever he doeth, these also doeth the Son likewise" ([John
-5:19](https://www.lds.org/scriptures/nt/john/5.19?lang=eng#18)) and "I do
-nothing of myself; but as my Father hath taught me" ([John
-8:28](https://www.lds.org/scriptures/nt/john/8.28?lang=eng#27)).
+5:19](/scriptures/nt/john/5.19?lang=eng#18)) and "I do nothing of myself; but
+as my Father hath taught me" ([John
+8:28](/scriptures/nt/john/8.28?lang=eng#27)).
 
 For example, the first miracle by Jesus recorded in the New Testament was the
 turning of water into wine at the marriage at Cana. (See [John
-2:1-11](https://www.lds.org/scriptures/nt/john/2.1-11?lang=eng#0).) But poor,
-indeed, was the making of the wine in the pots of stone, compared with its
-original making in the beauty of the vine and the abundance of the swelling
-grapes. No one could explain the onetime miracle at the wedding feast, but
-then neither could they explain the everyday miracle of the splendor of the
-vineyard itself.
+2:1-11](/scriptures/nt/john/2.1-11?lang=eng#0).) But poor, indeed, was the
+making of the wine in the pots of stone, compared with its original making in
+the beauty of the vine and the abundance of the swelling grapes. No one could
+explain the onetime miracle at the wedding feast, but then neither could they
+explain the everyday miracle of the splendor of the vineyard itself.
 
 It is most remarkable to witness one who is deaf made to hear again. But
 surely that great blessing is no more startling than the wondrous combination
@@ -106,18 +104,17 @@ the local citizens had his vision returned.
 "Therefore said some of the Pharisees, This man [meaning Jesus] is not of God,
 because he keepeth not the sabbath day. Others said, How can a man that is a
 sinner do such miracles? And there was a division among them," the scripture
-tells us. ([John
-9:16](https://www.lds.org/scriptures/nt/john/9.16?lang=eng#15).)
+tells us. ([John 9:16](/scriptures/nt/john/9.16?lang=eng#15).)
 
 With such a controversy inside their ranks, this group did a very intelligent
 thing--they asked the opinion of the man who had been healed. "What sayest
 thou of him, that ... hath opened thine eyes?" ([John
-9:17](https://www.lds.org/scriptures/nt/john/9.17?lang=eng#16)) they asked,
-and waited for his answer.
+9:17](/scriptures/nt/john/9.17?lang=eng#16)) they asked, and waited for his
+answer.
 
 As he spoke, the blind man undoubtedly looked directly into their eyes (a new
 and precious privilege). He said plainly, "He is a prophet." ([John
-9:17](https://www.lds.org/scriptures/nt/john/9.17?lang=eng#16).)
+9:17](/scriptures/nt/john/9.17?lang=eng#16).)
 
 But that was an unsettling answer. After much discussion, including
 conversation with the man's parents, the Pharisees agreed to acknowledge that
@@ -126,12 +123,12 @@ this man must deny any role Christ may have played in the process:
 
 "Then again called they the man that was blind, and said unto him, Give God
 the praise: we know that this man [Jesus] is a sinner." ([John
-9:24](https://www.lds.org/scriptures/nt/john/9.24?lang=eng#23).)
+9:24](/scriptures/nt/john/9.24?lang=eng#23).)
 
 Unencumbered by theory or law, the man said, slowly enough for everyone to
 hear, "Whether [Jesus] be a sinner or no, I know not: [just] one thing I know,
 that, whereas I was blind, now I see." ([John
-9:25](https://www.lds.org/scriptures/nt/john/9.25?lang=eng#24).)
+9:25](/scriptures/nt/john/9.25?lang=eng#24).)
 
 The Pharisees, in total frustration and unable to argue with that single
 greatest and undeniable fact in the case, cast the man out of their presence.
@@ -147,7 +144,7 @@ unto him, Dost thou believe on the Son of God?
 with thee.
 
 "And he said, Lord, I believe. And he worshipped him." ([John
-9:35-38](https://www.lds.org/scriptures/nt/john/9.35-38?lang=eng#34).)
+9:35-38](/scriptures/nt/john/9.35-38?lang=eng#34).)
 
 Now sight had been given _twice_--once to remedy a congenital defect and once
 to behold the King of Kings before He would ascend to His eternal throne.
@@ -171,23 +168,25 @@ Moroni quotes his father in the Book of Mormon:
 
 "Wherefore, my beloved brethren, have miracles ceased because Christ hath
 ascended into heaven? ... Has the day of miracles ceased?" ([Moro. 7:27,
-35](https://www.lds.org/scriptures/bofm/moro/7.27%2C35?lang=eng#26).)
+35](/scriptures/bofm/moro/7.27,35?lang=eng#26).)
 
 "I say unto you, Nay; neither have angels ceased to minister unto the children
 of men. ... [nor will they], so long as time shall last, or the earth shall
 stand, or there shall be one man upon the face thereof to be saved." ([Moro.
-7:29, 36](https://www.lds.org/scriptures/bofm/moro/7.29%2C36?lang=eng#28).)
+7:29, 36](/scriptures/bofm/moro/7.29,36?lang=eng#28).)
 
 I testify of God's goodness and Christ's power, and of the privilege Apostles
 have been given. I know that Peter and John did take a lame man by the right
 hand and, in the name of Jesus Christ of Nazareth, command him to rise up and
 walk--and he did walk. (See [Acts
-3:1-11](https://www.lds.org/scriptures/nt/acts/3.1-11?lang=eng#0).) I testify
-of the restoration of the gospel in these latter days and of the priesthood
-powers that make possible the many modern miracles of our dispensation.
+3:1-11](/scriptures/nt/acts/3.1-11?lang=eng#0).) I testify of the restoration
+of the gospel in these latter days and of the priesthood powers that make
+possible the many modern miracles of our dispensation.
 
 I say of our Father as the Psalmist said, "Thou art the God that doest
 wonders: thou hast declared thy strength among the people." ([Ps.
-77:14](https://www.lds.org/scriptures/ot/ps/77.14?lang=eng#13).) In the sacred
-name of Jesus Christ, amen.
+77:14](/scriptures/ot/ps/77.14?lang=eng#13).) In the sacred name of Jesus
+Christ, amen.
+
+## References
 

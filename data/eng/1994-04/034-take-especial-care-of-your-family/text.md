@@ -1,15 +1,15 @@
 # “Take Especial Care of Your Family”
 
 During the last days, when "all things shall be in commotion" ([D&amp;C
-88:91](https://www.lds.org/scriptures/dc-testament/dc/88.91?lang=eng#90)), the
-restored gospel of Jesus Christ provides so many essential things, including
-precious perspective of seeing "things as they really are" ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12)).
+88:91](/scriptures/dc-testament/dc/88.91?lang=eng#90)), the restored gospel of
+Jesus Christ provides so many essential things, including precious perspective
+of seeing "things as they really are" ([Jacob
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12)).
 
 The eminent historian Will Durant wrote of the human need "to seize the value
 and perspective of passing things. ... We want to know that the little things
 are little, and the big things big, before it is too late; we want to see
-things now as they will seem forever--'in the light of eternity.'" [1]
+things now as they will seem forever--'in the light of eternity.'"[1]
 
 The gospel's illumination provides so much greater perspective for us
 concerning the role of the family.
@@ -23,11 +23,10 @@ one is ever really responsible. If there are no fixed boundaries, then there
 cannot be any excesses. Why should we be surprised, then, at so many
 disturbing outcomes, including the lack of community, when every man does that
 which is "right in his own eyes" ([Judg.
-17:6](https://www.lds.org/scriptures/ot/judg/17.6?lang=eng#5); [Judg.
-21:25](https://www.lds.org/scriptures/ot/judg/21.25?lang=eng#24)) and seeks
-not the righteousness of the Lord but instead walks "in his own way"?
-([D&amp;C 1:16](https://www.lds.org/scriptures/dc-
-testament/dc/1.16?lang=eng#15)).
+17:6](/scriptures/ot/judg/17.6?lang=eng#5); [Judg.
+21:25](/scriptures/ot/judg/21.25?lang=eng#24)) and seeks not the righteousness
+of the Lord but instead walks "in his own way"? ([D&amp;C 1:16](/scriptures
+/dc-testament/dc/1.16?lang=eng#15)).
 
 Reflect, for instance, on how inoperative the Ten Commandments are in many
 lives. Today, _killing, stealing,_ and bearing _false witness_ still carry
@@ -37,27 +36,23 @@ and the taking of the name of the Lord in vain. Some of this decline
 represents the bitter harvest of ethical relativism, the philosophy of choice
 of many, reflecting no fixed, divine truths but merely the mores of the
 moment. No wonder Ortega y Gasset wisely warned, "If truth does not exist,
-relativism cannot take itself seriously." [2]
+relativism cannot take itself seriously."[2]
 
 Note several terrible trends which, _if uncorrected,_ will produce an even
 worse coalition of consequences.
 
-  * In ten years, one-half of all children born in America will be illegitimate. [3] 
-
-  * More and more children have no functioning fathers. Already 70 percent of our juvenile criminals come from fatherless homes. [4] 
-
-  * Less than half of all children born today will live continuously with their own mother and father throughout childhood. [5] 
-
-  * One-fourth of all adolescents ... contract a sexually transmitted disease before they graduate from high school. [6] 
-
-  * Fifty-five percent of American children under the age of six ... have both parents or their only parent working in the labor force. [7] 
+  * In ten years, one-half of all children born in America will be illegitimate.[3]
+  * More and more children have no functioning fathers. Already 70 percent of our juvenile criminals come from fatherless homes.[4]
+  * Less than half of all children born today will live continuously with their own mother and father throughout childhood.[5]
+  * One-fourth of all adolescents ... contract a sexually transmitted disease before they graduate from high school.[6]
+  * Fifty-five percent of American children under the age of six ... have both parents or their only parent working in the labor force.[7]
 
 Father Lehi once described himself as a "trembling parent" ([2 Ne.
-1:14](https://www.lds.org/scriptures/bofm/2-ne/1.14?lang=eng#13)). There are
-trembling parents and grandparents today! Some of today's families already
-exist in a worse wilderness than did Father Lehi's. Healthy, traditional
-families are becoming an endangered species! Perhaps, one day, families may
-even rank with the threatened spotted owl in effective attention given!
+1:14](/scriptures/bofm/2-ne/1.14?lang=eng#13)). There are trembling parents
+and grandparents today! Some of today's families already exist in a worse
+wilderness than did Father Lehi's. Healthy, traditional families are becoming
+an endangered species! Perhaps, one day, families may even rank with the
+threatened spotted owl in effective attention given!
 
 As parenting declines, the need for policing increases. There will always be a
 shortage of police if there is a shortage of effective parents! Likewise,
@@ -88,11 +83,10 @@ even less clear and consistent attitude towards authority than we have
 ourselves, and who will be even less capable than their parents in raising
 children with a sane attitude towards authority, and so an insidious avalanche
 may be developing, gathering a ghastly momentum from generation to
-generation." [8]
+generation."[8]
 
 The "ghastly momentum" increases as profound social changes now occur in "only
-a few years" ([Moro.
-9:12](https://www.lds.org/scriptures/bofm/moro/9.12?lang=eng#11)).
+a few years" ([Moro. 9:12](/scriptures/bofm/moro/9.12?lang=eng#11)).
 
 Unfortunately, it is easier to praise the family than to create a successful
 family. It is easier to talk, as I am doing, of family values than to
@@ -114,33 +108,33 @@ resented, or brushed aside.
 
 After all, mortal families predate the founding of nations, and families will
 exist after the Almighty "hath made a full end of all nations" ([D&amp;C
-87:6](https://www.lds.org/scriptures/dc-testament/dc/87.6?lang=eng#5)). For
-Latter-day Saints, though it is to be done in the Lord's own way, every year
-should be the Year of the Family. However, as Latter-day Saints, we need to do
-better in our families--much better! There should be less wringing of hands
-and more loving arms around our families.
+87:6](/scriptures/dc-testament/dc/87.6?lang=eng#5)). For Latter-day Saints,
+though it is to be done in the Lord's own way, every year should be the Year
+of the Family. However, as Latter-day Saints, we need to do better in our
+families--much better! There should be less wringing of hands and more loving
+arms around our families.
 
 Of all the work of "perfecting the Saints," none compares to that done in
 healthy families. President David O. McKay taught, "The home is the basis of a
 righteous life, and no other instrumentality can take its place, nor fulfill
-its essential functions." [9]  Sometimes, unintentionally, even certain
+its essential functions."[9] Sometimes, unintentionally, even certain
 extracurricular Church activities, insensitively administered, can hamper
 family life.
 
 Instructively, after the resurrected Jesus taught the Nephites, He said, "Go
 ye unto your homes, and ponder upon the things which I have said," and pray
 and prepare "for the morrow" ([3 Ne.
-17:3](https://www.lds.org/scriptures/bofm/3-ne/17.3?lang=eng#2)). Jesus did
-not say go to your civic clubs, town meetings, or even stake centers!
+17:3](/scriptures/bofm/3-ne/17.3?lang=eng#2)). Jesus did not say go to your
+civic clubs, town meetings, or even stake centers!
 
 Attending to all family duties includes really teaching our children "to
 understand the doctrine of repentance, faith in Christ the Son of the living
-God" ([D&amp;C 68:25](https://www.lds.org/scriptures/dc-
-testament/dc/68.25?lang=eng#24)). What a different view of parenting from that
-of the world. Marie Winn lamented in_ Children without Childhood_ how there is
-an emerging but unjustified tendency to treat children as if they have the
-capacity for unrestricted adult experience. [10]  Brothers and sisters, we may
-not be able to change such trends, but we can refuse to be a part of them.
+God" ([D&amp;C 68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24)). What a
+different view of parenting from that of the world. Marie Winn lamented in_
+Children without Childhood_ how there is an emerging but unjustified tendency
+to treat children as if they have the capacity for unrestricted adult
+experience.[10] Brothers and sisters, we may not be able to change such
+trends, but we can refuse to be a part of them.
 
 When parents fail to transmit testimony and theology along with decency, those
 families are only one generation from serious spiritual decline, having lost
@@ -150,24 +144,24 @@ more relentless than in family gardens!
 In addition to our having loving family "sociality," which, one day, will be
 "coupled with eternal glory," we stress again and again the available remedies
 of family prayers, family home evenings, and family scripture study ([D&amp;C
-130:2](https://www.lds.org/scriptures/dc-testament/dc/130.2?lang=eng#1)).
-Moreover, personal revelation regarding parenting can provide customized
-guidance and reassurance!
+130:2](/scriptures/dc-testament/dc/130.2?lang=eng#1)). Moreover, personal
+revelation regarding parenting can provide customized guidance and
+reassurance!
 
 Applying basic remedies will take some time and will not fix everything
 immediately. What could be more basic, however, than "love at home," when
 annually in America there are four million reports of domestic violence,
-rivaling the number of births in America! [11]  Violence in America now kills
-"the equivalent of a classroomful" of children "every two days." [12]
+rivaling the number of births in America![11] Violence in America now kills
+"the equivalent of a classroomful" of children "every two days."[12]
 
 In the face of such challenges, we need more mothers who know the truth, whose
 children do not doubt their mothers know it (see [Alma
-56:48](https://www.lds.org/scriptures/bofm/alma/56.48?lang=eng#47)). My
-children and grandchildren are blessed with such a mother and grandmother. We
-need more kind and thoughtful fathers who also carry the authority of example.
-More parents should be remembered as a prophet's daughter, Helen Lee Goates,
+56:48](/scriptures/bofm/alma/56.48?lang=eng#47)). My children and
+grandchildren are blessed with such a mother and grandmother. We need more
+kind and thoughtful fathers who also carry the authority of example. More
+parents should be remembered as a prophet's daughter, Helen Lee Goates,
 remembers hers: "A father who was gentle beneath his firmness, and a mother
-who was firm beneath her gentleness." [13]
+who was firm beneath her gentleness."[13]
 
 In the healthy family, first and best, we can learn to listen, forgive,
 praise, and to rejoice in the achievements of others. There also we can learn
@@ -179,7 +173,7 @@ down.
 To some, these remedies, and things like them, may seem too simple to heal a
 society stung by so many afflictions. In afflicted ancient Israel, some also
 disdained the simple, divinely provided remedies, and they perished (see [1
-Ne. 17:41](https://www.lds.org/scriptures/bofm/1-ne/17.41?lang=eng#40)).
+Ne. 17:41](/scriptures/bofm/1-ne/17.41?lang=eng#40)).
 
 Obviously, family values mirror our personal priorities. Given the gravity of
 current conditions, would parents be willing to give up just one outside
@@ -187,16 +181,15 @@ thing, giving that time and talent instead to the family? Parents and
 grandparents, please scrutinize your schedules and priorities in order to
 ensure that life's prime relationships get more prime time! Even consecrated
 and devoted Brigham Young was once told by the Lord, "Take especial care of
-your family" ([D&amp;C 126:3](https://www.lds.org/scriptures/dc-
-testament/dc/126.3?lang=eng#2)). Sometimes, it is the most conscientious who
-need this message the most!
+your family" ([D&amp;C 126:3](/scriptures/dc-testament/dc/126.3?lang=eng#2)).
+Sometimes, it is the most conscientious who need this message the most!
 
 Society should focus anew on the headwaters--the family--where values can be
 taught, lived, experienced, and perpetuated. Otherwise, brothers and sisters,
 we will witness even more widespread flooding downstream, featuring even more
 corruption and violence (see [Gen.
-6:11-12](https://www.lds.org/scriptures/ot/gen/6.11-12?lang=eng#10); [Matt.
-24:37](https://www.lds.org/scriptures/nt/matt/24.37?lang=eng#36)).
+6:11-12](/scriptures/ot/gen/6.11-12?lang=eng#10); [Matt.
+24:37](/scriptures/nt/matt/24.37?lang=eng#36)).
 
 If the combination of rainmakers prevails, however, the rains will continue to
 descend, and the floods will continue to come. Dikes and sandbags downstream
@@ -213,9 +206,9 @@ will also lose legitimacy in the eyes of their citizens.
 Amid the Babel of prescriptions from "so many kinds of voices in the world,"
 rescuing and redeeming perspective requires our coming to know who Jesus
 Christ is, how He lived, and what He died for ([1 Cor.
-14:10](https://www.lds.org/scriptures/nt/1-cor/14.10?lang=eng#9); see also
-[John 10:27](https://www.lds.org/scriptures/nt/john/10.27?lang=eng#26)). After
-all, it is Jesus who has given us commanding perspective concerning families.
+14:10](/scriptures/nt/1-cor/14.10?lang=eng#9); see also [John
+10:27](/scriptures/nt/john/10.27?lang=eng#26)). After all, it is Jesus who has
+given us commanding perspective concerning families.
 
 Therefore, as this Easter day draws to a close, how fitting that we
 contemplate atoning Jesus--bending and curved in Gethsemane. His bleeding
@@ -224,39 +217,37 @@ death was a punctuating, rigid exclamation point! Then death, too, curved--
 into a mere comma!
 
 Praise be to Jesus for bearing the sins and pains of all "the family of Adam"
-back then ([2 Ne.
-9:21](https://www.lds.org/scriptures/bofm/2-ne/9.21?lang=eng#20); [2 Ne.
-2:20](https://www.lds.org/scriptures/bofm/2-ne/2.20?lang=eng#19)). Let us
-strive here and now to take especial care of our families as Jesus did of His,
-"even the family of all the earth" ([2 Ne.
-2:20](https://www.lds.org/scriptures/bofm/2-ne/2.20?lang=eng#19)). I so pray
-in the name of Jesus Christ, amen.
+back then ([2 Ne. 9:21](/scriptures/bofm/2-ne/9.21?lang=eng#20); [2 Ne.
+2:20](/scriptures/bofm/2-ne/2.20?lang=eng#19)). Let us strive here and now to
+take especial care of our families as Jesus did of His, "even the family of
+all the earth" ([2 Ne. 2:20](/scriptures/bofm/2-ne/2.20?lang=eng#19)). I so
+pray in the name of Jesus Christ, amen.
 
 ## References
 
-  1.   _The Story of Philosophy_ (New York: Simon and Schuster, 1927), p. 1.
+  1. _The Story of Philosophy_ (New York: Simon and Schuster, 1927), p. 1.
 
-  2.   _The Modern Theme_ (New York: Harper &amp; Row, 1961), as quoted in Duncan Williams, _Trousered Apes_ (New Rochelle, N.Y.: Arlington House, 1971), p. 69.
+  2. _The Modern Theme_ (New York: Harper &amp; Row, 1961), as quoted in Duncan Williams, _Trousered Apes_ (New Rochelle, N.Y.: Arlington House, 1971), p. 69.
 
-  3.  See President Bill Clinton, "State of the Union Address," CNN Specials, 25 Jan. 1994, p. 3.
+  3. See President Bill Clinton, "State of the Union Address," CNN Specials, 25 Jan. 1994, p. 3.
 
-  4.   _Wall Street Journal,_ 18 Nov. 1993, p. A-18.
+  4. _Wall Street Journal,_ 18 Nov. 1993, p. A-18.
 
-  5.  Barbara Dafoe Whitehead, _Atlantic Monthly_ (Apr. 1993), p. 47.
+  5. Barbara Dafoe Whitehead, _Atlantic Monthly_ (Apr. 1993), p. 47.
 
-  6.   _Research Briefs from Utah Foundation,_ 16 July 1993, p. 1.
+  6. _Research Briefs from Utah Foundation,_ 16 July 1993, p. 1.
 
-  7.  Ibid.
+  7. Ibid.
 
-  8.  Quoted in "The Listener," 12 Feb. 1959.
+  8. Quoted in "The Listener," 12 Feb. 1959.
 
-  9.   _Family Home Evening Manual_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1965), preface.
+  9. _Family Home Evening Manual_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1965), preface.
 
-  10.  See Marie Winn, _Children without Childhood_ (New York: Penguin, 1983), p. 5.
+  10. See Marie Winn, _Children without Childhood_ (New York: Penguin, 1983), p. 5.
 
-  11.  See "Callers Weigh in on Domestic Abuse," CNN, 6 Nov. 1993; _The World Almanac_ (Mahwah, N.J.: Funk &amp; Wagnall's, 1994) p. 954.
+  11. See "Callers Weigh in on Domestic Abuse," CNN, 6 Nov. 1993; _The World Almanac_ (Mahwah, N.J.: Funk &amp; Wagnall's, 1994) p. 954.
 
-  12.   _Deseret News,_ 20 Jan. 1994, p. A-1.
+  12. _Deseret News,_ 20 Jan. 1994, p. A-1.
 
-  13.   _That My Family Should Partake_ (Salt Lake City: Deseret Book Co., 1974), p. 56.
+  13. _That My Family Should Partake_ (Salt Lake City: Deseret Book Co., 1974), p. 56.
 

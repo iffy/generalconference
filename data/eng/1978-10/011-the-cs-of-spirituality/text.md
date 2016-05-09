@@ -14,10 +14,9 @@ prophet leaders said, "To be trusted is a greater compliment than to be loved"
 One of the principal purposes of this life is to find out if the Lord _can_
 trust us. One of our familiar scriptures says, "And we will prove them
 herewith, to see if they will do all things whatsoever the Lord their God
-shall command them" ([Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24)). We are
-destined to be tried, tested, and proven during our sojourn on earth to see if
-we are trustworthy.
+shall command them" ([Abr. 3:25](/scriptures/pgp/abr/3.25?lang=eng#24)). We
+are destined to be tried, tested, and proven during our sojourn on earth to
+see if we are trustworthy.
 
 The Prophet Joseph Smith indicated that to attain the highest blessing of this
 life, we will first be tested and proved thoroughly until the Lord is certain
@@ -68,9 +67,9 @@ all the persecution under heaven could not make it otherwise." Then Joseph
 adds his testimony regarding his own vision, revealing his own strength of
 character; "I had seen a vision; I knew it, and I knew that God knew it, and I
 could not deny it, neither dared I do it." ([JS--H
-1:24-25](https://www.lds.org/scriptures/pgp/js-h/1.24-25?lang=eng#23).) Joseph
-Smith was a man of great, noble character that the Lord knew he could trust,
-no matter what the sacrifice.
+1:24-25](/scriptures/pgp/js-h/1.24-25?lang=eng#23).) Joseph Smith was a man of
+great, noble character that the Lord knew he could trust, no matter what the
+sacrifice.
 
 President David O. McKay said: "Man's chief concern in life should not be the
 acquiring of gold, or of fame, or of material possessions. It should not be
@@ -92,19 +91,19 @@ others if he is to trust us.
 The servant who received five talents returned ten and received the praise
 "Well done, thou good and faithful servant: thou hast been faithful over a few
 things, I will make thee ruler over many things" ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20)). The servant
-who had received two talents returned four talents, and he received equal
-praise with the first. However, the Lord chastised the slothful servant that
-received one talent for not multiplying that which had been given to him. The
-principle is clear: The Lord likes to see capacity double; he likes to see his
-servants double that which has been given to them--in talents or in
-responsibilities. It is evident that President Kimball, our great president,
-also likes to see things double. He likes to see double the number of
-missionaries, double the number of new faithful members coming into the
-Church, double the attendance at sacrament meeting, and so on. I believe that
-each one of us has a sacred responsibility to multiply our capacity and our
-performance in every measurable way. If we do so, the Lord can better trust
-our capacity as his servants.
+25:21](/scriptures/nt/matt/25.21?lang=eng#20)). The servant who had received
+two talents returned four talents, and he received equal praise with the
+first. However, the Lord chastised the slothful servant that received one
+talent for not multiplying that which had been given to him. The principle is
+clear: The Lord likes to see capacity double; he likes to see his servants
+double that which has been given to them--in talents or in responsibilities.
+It is evident that President Kimball, our great president, also likes to see
+things double. He likes to see double the number of missionaries, double the
+number of new faithful members coming into the Church, double the attendance
+at sacrament meeting, and so on. I believe that each one of us has a sacred
+responsibility to multiply our capacity and our performance in every
+measurable way. If we do so, the Lord can better trust our capacity as his
+servants.
 
 There are many areas besides Church service in which we could make a sustained
 effort to increase our capacity. We should strive to increase our technical
@@ -153,10 +152,10 @@ Active membership in Christ's church builds strong spiritual capital and
 reserves. Serving a full-time mission builds unwavering spiritual capital and
 reserves.
 
-I read from Doctrine and Covenants 124:20 [[D&amp;C
-124:20](https://www.lds.org/scriptures/dc-testament/dc/124.20?lang=eng#19)]:
-"My servant ... may be trusted because of the integrity of his heart; and for
-the love which he has to my testimony," he adds, "I, the Lord, love him."
+I read from Doctrine and Covenants 124:20 [[D&amp;C 124:20](/scriptures/dc-
+testament/dc/124.20?lang=eng#19)]: "My servant ... may be trusted because of the
+integrity of his heart; and for the love which he has to my testimony," he
+adds, "I, the Lord, love him."
 
 I solemnly testify as a witness that God lives and loves us; that Jesus
 Christ, his divine Son, stands glorified and exalted at the head of this
@@ -164,4 +163,6 @@ church which bears his holy name; that the legal and authorized mouthpiece of
 the Lord here on earth is our living prophet who guides this great and divine
 church which was restored by the Prophet Joseph Smith, in the name of Jesus
 Christ. Amen.
+
+## References
 

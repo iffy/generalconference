@@ -61,7 +61,7 @@ fear me, and delight to honor those who serve me in righteousness and in truth
 unto the end.
 
 "Great shall be their reward and eternal shall be their glory." ([D&amp;C
-76:5-6](https://www.lds.org/scriptures/dc-testament/dc/76.5-6?lang=eng#4).)
+76:5-6](/scriptures/dc-testament/dc/76.5-6?lang=eng#4).)
 
 I am satisfied that He speaks here of His daughters as well as His sons.
 Infinite shall be the reward of each, and everlasting shall be his or her
@@ -78,8 +78,8 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten _sons and daughters_ unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21); italics added.)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21); italics
+added.)
 
 Note that in this tremendous declaration, both sons and daughters are
 mentioned.
@@ -91,13 +91,13 @@ women.
 The revelation then speaks of those who receive the testimony of Jesus, who
 were baptized after the manner of His burial, and who keep the commandments,
 and promises that they "shall dwell in the presence of God and his Christ
-forever and ever." ([D&amp;C 76:62](https://www.lds.org/scriptures/dc-
+forever and ever." ([D&amp;C 76:62](/scriptures/dc-
 testament/dc/76.62?lang=eng#61).)
 
 "These are they whose bodies are celestial, whose glory is that of the sun,
 even the glory of God, the highest of all, whose glory the sun of the
-firmament is written of as being typical." ([D&amp;C
-76:70](https://www.lds.org/scriptures/dc-testament/dc/76.70?lang=eng#69).)
+firmament is written of as being typical." ([D&amp;C 76:70](/scriptures/dc-
+testament/dc/76.70?lang=eng#69).)
 
 Are women included in those who shall partake of such glory? Most assuredly.
 As a matter of fact, in attaining the highest degree of glory in the celestial
@@ -113,14 +113,13 @@ that under the plan of a loving Father and a divine Redeemer, no blessing of
 which you are otherwise worthy will forever be denied you.
 
 Beyond the wonderful and descriptive words found in sections 76 and 137
-[[D&amp;C 76](https://www.lds.org/scriptures/dc-
-testament/dc/76.title?lang=eng); [D&amp;C 137](https://www.lds.org/scriptures
-/dc-testament/dc/137.title?lang=eng)] we know relatively little concerning the
-celestial kingdom and those who will be there. At least some of the rules of
-eligibility for acceptance into that kingdom are clearly set forth, but other
-than that, we are given little understanding. However, I repeat that I am
-confident that the daughters of God will be as eligible as will be the sons of
-God.
+[[D&amp;C 76](/scriptures/dc-testament/dc/76?lang=eng); [D&amp;C
+137](/scriptures/dc-testament/dc/137?lang=eng)] we know relatively little
+concerning the celestial kingdom and those who will be there. At least some of
+the rules of eligibility for acceptance into that kingdom are clearly set
+forth, but other than that, we are given little understanding. However, I
+repeat that I am confident that the daughters of God will be as eligible as
+will be the sons of God.
 
 This should be a glorious goal for every woman in the Church. It should be a
 constant motivation to live with honor, to live with integrity, to live with
@@ -139,7 +138,7 @@ these truths to be self-evident, that all Men are created equal."
 Note that the writers used the word _men._ Do you suppose for one moment that
 they did not intend their declaration to include women also? They might have
 said, "All men, women, and children." But they simply used the word men in its
-generic sense. [1]
+generic sense.[1]
 
 The next question you ask is why Eve was created from Adam.
 
@@ -148,11 +147,10 @@ have noted before, there is something very interesting about this situation.
 
 In the sequence of events as set forth in the scripture, God first created the
 earth, and the earth was without form, and void." ([Gen.
-1:2](https://www.lds.org/scriptures/ot/gen/1.2?lang=eng#1).) He then separated
-the light from the darkness, and the waters from the land. Then came the
-creation of vegetation of all kinds, giving the beauty of trees and grass,
-flowers and shrubs. Then followed the creation of animal life in the sea and
-upon the land.
+1:2](/scriptures/ot/gen/1.2?lang=eng#1).) He then separated the light from the
+darkness, and the waters from the land. Then came the creation of vegetation
+of all kinds, giving the beauty of trees and grass, flowers and shrubs. Then
+followed the creation of animal life in the sea and upon the land.
 
 Having looked over all of this, He declared it to be good. He then created man
 in His own likeness and image. Then as His final creation, the crowning of His
@@ -164,13 +162,12 @@ side as an helpmeet. They were together in the Garden, they were expelled
 together, and they labored together in the world into which they were driven.
 
 Now, Virginia, you call attention to the statement in the scriptures that Adam
-should rule over Eve. (See [Gen.
-3:16](https://www.lds.org/scriptures/ot/gen/3.16?lang=eng#15).) You ask why
-this is so. I do not know. I regrettably recognize that some men have used
-this through centuries of time as justification for abusing and demeaning
-women. But I am confident also that in so doing they have demeaned themselves
-and offended the Father of us all, who, I am confident, loves His daughters
-just as He loves His sons.
+should rule over Eve. (See [Gen. 3:16](/scriptures/ot/gen/3.16?lang=eng#15).)
+You ask why this is so. I do not know. I regrettably recognize that some men
+have used this through centuries of time as justification for abusing and
+demeaning women. But I am confident also that in so doing they have demeaned
+themselves and offended the Father of us all, who, I am confident, loves His
+daughters just as He loves His sons.
 
 I sat with President David O. McKay on one occasion when he talked about that
 statement in Genesis. His eyes flashed with anger as he spoke of despotic
@@ -211,12 +208,11 @@ of it in a generic sense, as I have indicated.
 I remind you of a great and remarkable revelation given through the Prophet
 Joseph Smith to his wife Emma and applicable to every woman in the Church, for
 the Lord said in concluding this revelation "that this is my voice unto all."
-([D&amp;C 25:16](https://www.lds.org/scriptures/dc-
-testament/dc/25.16?lang=eng#15).)
+([D&amp;C 25:16](/scriptures/dc-testament/dc/25.16?lang=eng#15).)
 
 In the first verse of this revelation the Lord states that "all those who
 receive my gospel are sons and daughters in my kingdom." ([D&amp;C
-25:1](https://www.lds.org/scriptures/dc-testament/dc/25.1?lang=eng#0))
+25:1](/scriptures/dc-testament/dc/25.1?lang=eng#0))
 
 Great and true are these words of divine promise. The revelation which follows
 these opening words is rich in counsel, in praise, in instruction, and in
@@ -272,24 +268,22 @@ Heaven.
 Mount, He declared:
 
 'After this manner therefore pray ye: Our _Father_ which art in heaven,
-Hallowed be thy name.' ([Matt.
-6:9](https://www.lds.org/scriptures/nt/matt/6.9?lang=eng#8); italics added
-here and in following references.)
+Hallowed be thy name.' ([Matt. 6:9](/scriptures/nt/matt/6.9?lang=eng#8);
+italics added here and in following references.)
 
 "When the resurrected Lord appeared to the Nephites and taught them, He said:
 'After this manner therefore pray ye: Our _Father _who art in heaven, hallowed
-be thy name.' ([3 Ne.
-13:9](https://www.lds.org/scriptures/bofm/3-ne/13.9?lang=eng#8).)
+be thy name.' ([3 Ne. 13:9](/scriptures/bofm/3-ne/13.9?lang=eng#8).)
 
 "While He was among them, He further taught them by example and precept
 concerning this practice. The record states that 'He himself also knelt upon
 the earth; and behold he prayed unto the _Father,_ and the things which he
 prayed cannot be written, and the multitude did bear record who heard him.'
-([3 Ne. 17:15](https://www.lds.org/scriptures/bofm/3-ne/17.15?lang=eng#14).)
+([3 Ne. 17:15](/scriptures/bofm/3-ne/17.15?lang=eng#14).)
 
 "Furthermore, He said: 'Pray in your families unto the _Father,_ always in my
 name, that your wives and your children may be blessed.' ([3 Ne.
-18:21](https://www.lds.org/scriptures/bofm/3-ne/18.21?lang=eng#20).)
+18:21](/scriptures/bofm/3-ne/18.21?lang=eng#20).)
 
 "On another occasion, 'Jesus departed out of the midst of them, and went a
 little way off from them and bowed himself to the earth, and he said:
@@ -300,7 +294,7 @@ out of the world.
 
 "'_Father,_ I pray thee that thou wilt give the Holy Ghost unto all them that
 shall believe in their words.' ([3 Ne.
-19:19-21](https://www.lds.org/scriptures/bofm/3-ne/19.19-21?lang=eng#18).)
+19:19-21](/scriptures/bofm/3-ne/19.19-21?lang=eng#18).)
 
 "And so I might continue with other specific instances from the scripture.
 Search as I have, I find nowhere in the standard works an account where Jesus
@@ -348,5 +342,5 @@ love and my blessing upon you, in the name of Jesus Christ, amen.
 
 ## References
 
-  1.  I am aware of Abigail Adams's correspondence with John Adams on this point. However, it does not follow that all of the fifty-six signers of the Declaration were of the same view. Subsequent generations have regarded _men_ in its generic sense. I might have used various other examples on which there could be no question.
+  1. I am aware of Abigail Adams's correspondence with John Adams on this point. However, it does not follow that all of the fifty-six signers of the Declaration were of the same view. Subsequent generations have regarded _men_ in its generic sense. I might have used various other examples on which there could be no question.
 

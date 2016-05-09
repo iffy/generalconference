@@ -54,19 +54,18 @@ encourage and help one another.
 
 He said: "And that thou mayest more fully keep thyself unspotted from the
 world, thou shalt go to the house of prayer and offer up thy sacraments upon
-my holy day." ([D&amp;C 59:9](https://www.lds.org/scriptures/dc-
-testament/dc/59.9?lang=eng#8).)
+my holy day." ([D&amp;C 59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).)
 
 Another: "It is expedient that the church meet together often to partake of
 bread and wine in the remembrance of the Lord Jesus." ([D&amp;C
-20:75](https://www.lds.org/scriptures/dc-testament/dc/20.75?lang=eng#74).)
+20:75](/scriptures/dc-testament/dc/20.75?lang=eng#74).)
 
 Further, he said: "And I give unto you a commandment that you shall teach one
-another the doctrine of the kingdom." ([D&amp;C
-88:77](https://www.lds.org/scriptures/dc-testament/dc/88.77?lang=eng#76).)
+another the doctrine of the kingdom." ([D&amp;C 88:77](/scriptures/dc-
+testament/dc/88.77?lang=eng#76).)
 
 And he admonished: "When thou art converted, strengthen thy brethren." ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).)
+22:32](/scriptures/nt/luke/22.32?lang=eng#31).)
 
 All of these instructions are to help us enjoy life here and prepare ourselves
 to go back into the presence of our Heavenly Father. For this purpose the
@@ -78,7 +77,7 @@ materials, and we will make an earth whereon these may dwell;
 
 "And we will prove them herewith, to see if they will do all things whatsoever
 the Lord their God shall command them." ([Abr.
-3:24-25](https://www.lds.org/scriptures/pgp/abr/3.24-25?lang=eng#23).)
+3:24-25](/scriptures/pgp/abr/3.24-25?lang=eng#23).)
 
 To accomplish God's purposes and to prove ourselves, it is necessary that we
 work within his church and under the direction of his authorized servants. We
@@ -150,7 +149,7 @@ between those who are working together and build testimonies of the
 truthfulness of a gospel which teaches that we are our brother's keepers and
 that "inasmuch as ye have done it unto one of the least of these my brethren,
 ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 Sometimes we can get our inactive brethren to assist in such projects; and
 when they catch the spirit of the work, they will want to continue their
@@ -192,8 +191,8 @@ mission, and his funds are getting low. Just ask if you can be of help to him.
 Your thoughtfulness he will never forget. Such acts as these are what the
 Savior had in mind when he said, 'Inasmuch as ye do it unto the least of these
 my brethren, ye do it unto me.' (See [Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)"
-(_Conference Report,_ October 1955, p. 129.)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)" (_Conference Report,_ October
+1955, p. 129.)
 
 In order to extend this brotherhood to all the world, we send out thousands of
 missionaries in keeping with the Savior's injunction to "go ye therefore, and
@@ -202,7 +201,7 @@ and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world." ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).)
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).)
 
 It is always interesting to hear the returned missionaries, no matter where
 they have labored, say they served in the greatest mission in the world. This
@@ -292,8 +291,7 @@ October 1955, p. 88.)
 
 Well, brethren, I have tried to help us all to further understand our duty,
 that it might be truly said of us, "Well done, thou good and faithful
-servant." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).) May we
+servant." ([Matt. 25:21](/scriptures/nt/matt/25.21?lang=eng#20).) May we
 assist our prophet, President Spencer W. Kimball, in accomplishing his great
 desires for the benefit and blessing of all mankind. His primary and most
 worthy goals are to take the gospel to every nation, kindred, tongue, and
@@ -307,4 +305,6 @@ preference to any others to assist him in the consummation of his glorious
 work. I know he lives, that he will come again; and it is my earnest prayer
 that we will be worthy to meet him and assist him. In the name of Jesus
 Christ, amen.
+
+## References
 

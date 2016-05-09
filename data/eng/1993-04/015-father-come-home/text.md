@@ -30,16 +30,15 @@ that fathers are not optional family baggage. We need to honor the position of
 the father as the primary provider for physical and spiritual support. I state
 this with no reluctance because the Lord has revealed that this obligation is
 placed upon husbands. "Women have claim on their husbands for their
-maintenance, until their husbands are taken." ([D&amp;C
-83:2](https://www.lds.org/scriptures/dc-testament/dc/83.2?lang=eng#1).)
-Further, "All children have claim upon their parents for their maintenance
-until they are of age." ([D&amp;C 83:4](https://www.lds.org/scriptures/dc-
-testament/dc/83.4?lang=eng#3).) In addition, their spiritual welfare should be
-"brought to pass by the faith and covenant of their fathers." ([D&amp;C
-84:99](https://www.lds.org/scriptures/dc-testament/dc/84.99?lang=eng#98).) As
-regards little children, the Lord has promised that "great things may be
-required at the hands of their fathers." ([D&amp;C
-29:48](https://www.lds.org/scriptures/dc-testament/dc/29.48?lang=eng#47).)
+maintenance, until their husbands are taken." ([D&amp;C 83:2](/scriptures/dc-
+testament/dc/83.2?lang=eng#1).) Further, "All children have claim upon their
+parents for their maintenance until they are of age." ([D&amp;C
+83:4](/scriptures/dc-testament/dc/83.4?lang=eng#3).) In addition, their
+spiritual welfare should be "brought to pass by the faith and covenant of
+their fathers." ([D&amp;C 84:99](/scriptures/dc-
+testament/dc/84.99?lang=eng#98).) As regards little children, the Lord has
+promised that "great things may be required at the hands of their fathers."
+([D&amp;C 29:48](/scriptures/dc-testament/dc/29.48?lang=eng#47).)
 
 It is useless to debate which parent is most important. No one would doubt
 that a mother's influence is paramount with newborns and in the first years of
@@ -106,7 +105,7 @@ children. He is to extend lifelong care and concern for his children, and
 their children. The plea of David for his rebel son is one of the most moving
 in all of the scriptures, "O my son Absalom, my son, my son Absalom! would God
 I had died for thee, O Absalom, my son, my son!" ([2 Sam.
-18:33](https://www.lds.org/scriptures/ot/2-sam/18.33?lang=eng#32).)
+18:33](/scriptures/ot/2-sam/18.33?lang=eng#32).)
 
 I urge the husbands and fathers of this Church to be the kind of a man your
 wife would not want to be without. I urge the sisters of this Church to be
@@ -121,16 +120,16 @@ flesh: "For this cause shall a man leave father and mother, and shall cleave
 to his wife: and they twain shall be one flesh[.]
 
 "Wherefore they are no more twain, but one flesh" ([Matt.
-19:5-6](https://www.lds.org/scriptures/nt/matt/19.5-6?lang=eng#4).) It is far
-more difficult to be of one heart and mind than to be physically one. This
-unity of heart and mind is manifest in sincere expressions of "I appreciate
-you" and "I am proud of you." Such domestic harmony results from forgiving and
-forgetting, essential elements of a maturing marriage relationship. Someone
-has said that we should keep our eyes wide open before marriage and half shut
-afterward. (Magdeleine de Scudery, as cited in _The International Dictionary
-of Thoughts,_ Chicago: J. G. Ferguson Publishing Co., 1969, p. 472). True
-charity ought to begin in marriage, for it is a relationship that must be
-rebuilt every day.
+19:5-6](/scriptures/nt/matt/19.5-6?lang=eng#4).) It is far more difficult to
+be of one heart and mind than to be physically one. This unity of heart and
+mind is manifest in sincere expressions of "I appreciate you" and "I am proud
+of you." Such domestic harmony results from forgiving and forgetting,
+essential elements of a maturing marriage relationship. Someone has said that
+we should keep our eyes wide open before marriage and half shut afterward.
+(Magdeleine de Scudery, as cited in _The International Dictionary of
+Thoughts,_ Chicago: J. G. Ferguson Publishing Co., 1969, p. 472). True charity
+ought to begin in marriage, for it is a relationship that must be rebuilt
+every day.
 
 I wonder if it is possible for one marriage partner to jettison the other and
 become completely whole. Either partner who diminishes the divine role of the
@@ -170,12 +169,11 @@ distress," nor "personality differences," nor having "grown apart," nor having
 divine counsel comes from Paul:
 
 "Husbands, love your wives, even as Christ also loved the church, and gave
-himself for it." ([Eph.
-5:25](https://www.lds.org/scriptures/nt/eph/5.25?lang=eng#24).)
+himself for it." ([Eph. 5:25](/scriptures/nt/eph/5.25?lang=eng#24).)
 
 "That they may teach the young women to be sober, to love their husbands,
 [and] to love their children." ([Titus
-2:4](https://www.lds.org/scriptures/nt/titus/2.4?lang=eng#3).)
+2:4](/scriptures/nt/titus/2.4?lang=eng#3).)
 
 In my opinion, members of the Church have the most effective cure for our
 decaying family life. It is for men, women, and children to honor and respect
@@ -184,9 +182,9 @@ respect and appreciation among the members of the Church will be fostered by
 the righteousness found there. In this way, the great sealing keys restored by
 Elijah, spoken of by Malachi, might operate "to turn the hearts of the fathers
 to the children, and the children to the fathers, lest the whole earth be
-smitten with a curse." ([D&amp;C 110:15](https://www.lds.org/scriptures/dc-
+smitten with a curse." ([D&amp;C 110:15](/scriptures/dc-
 testament/dc/110.15?lang=eng#14); see also [Mal.
-4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5).)
+4:6](/scriptures/ot/mal/4.6?lang=eng#5).)
 
 President Joseph Fielding Smith stated concerning the keys of Elijah: "This
 sealing power bestowed upon Elijah, is the power which binds husbands and
@@ -203,13 +201,13 @@ dynamic and productive of good only as they reveal themselves in our daily
 lives. Malachi said that the power of Elijah would turn the _hearts_ of the
 fathers and the children to each other. The heart is the seat of the emotions
 and a conduit for revelation. (See [Mal.
-4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4).) This sealing
-power thus reveals itself in family relationships, in attributes and virtues
-developed in a nurturing environment, and in loving service. These are the
-cords that bind families together, and the priesthood advances their
-development. In imperceptible but real ways, the "doctrine of the priesthood
-shall distil upon thy soul [and thy home] as the dews from heaven." ([D&amp;C
-121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44).)
+4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4).) This sealing power thus reveals
+itself in family relationships, in attributes and virtues developed in a
+nurturing environment, and in loving service. These are the cords that bind
+families together, and the priesthood advances their development. In
+imperceptible but real ways, the "doctrine of the priesthood shall distil upon
+thy soul [and thy home] as the dews from heaven." ([D&amp;C
+121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44).)
 
 I so testify that the blessings of the priesthood, honored by fathers and
 husbands and revered by wives and children, can indeed cure the cancer that
@@ -217,4 +215,6 @@ plagues our society. I plead with you, Fathers, come home. Magnify your
 priesthood calling; bless your families through this sacred influence, and
 experience the rewards promised by our Father and God. I say this in the name
 of Jesus Christ, amen.
+
+## References
 

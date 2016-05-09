@@ -45,8 +45,7 @@ teaching when I read that wonderful scripture:
 things of [your] own free will, and bring to pass much righteousness;
 
 "For the power is in [you], wherein [you] are [an agent] unto [yourself]."
-([D&amp;C 58:27-28](https://www.lds.org/scriptures/dc-
-testament/dc/58.27-28?lang=eng#26).)
+([D&amp;C 58:27-28](/scriptures/dc-testament/dc/58.27-28?lang=eng#26).)
 
 You are powerful! Where does that power come from to "do many things of [our]
 own free will"? It comes from the Savior himself. Feel that desire to serve in
@@ -54,7 +53,7 @@ your own heart. Sense within yourself that strength to choose!
 
 Remember Jesus healing the blind beggar. He spat on the ground, rubbed the mud
 on the man's eyes, and said, "Go, wash [your face] in the pool of Siloam."
-(See [John 9:1-7](https://www.lds.org/scriptures/nt/john/9.1-7?lang=eng#0).)
+(See [John 9:1-7](/scriptures/nt/john/9.1-7?lang=eng#0).)
 
 My sisters, this story has a lesson about service in it for us. First,
 remember that Jesus and the man didn't have an appointment. They encountered
@@ -84,11 +83,13 @@ the prophets of old:
 "And let these my words, wherewith I have made supplication before the Lord,
 be nigh unto the Lord our God day and night, that he maintain the cause of ...
 his people Israel at all times." ([1 Kgs.
-8:59](https://www.lds.org/scriptures/ot/1-kgs/8.59?lang=eng#58).)
+8:59](/scriptures/ot/1-kgs/8.59?lang=eng#58).)
 
 "That [we] may be filled with this love, which he hath bestowed upon all who
 are true followers of his Son, Jesus Christ; that [we] may become the
 [daughters] of God; that when he shall appear we shall be like him." ([Moro.
-7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47).) In the name
-of Jesus Christ, amen.
+7:48](/scriptures/bofm/moro/7.48?lang=eng#47).) In the name of Jesus Christ,
+amen.
+
+## References
 

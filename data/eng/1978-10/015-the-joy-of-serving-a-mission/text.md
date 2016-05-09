@@ -110,7 +110,7 @@ moth and rust doth corrupt, and where thieves break through and steal:
 doth corrupt, and where thieves do not break through nor steal:
 
 "For where your treasure is, there will your heart be also." ([Matt.
-6:19-21](https://www.lds.org/scriptures/nt/matt/6.19-21?lang=eng#18).)
+6:19-21](/scriptures/nt/matt/6.19-21?lang=eng#18).)
 
 What do you suppose I could have done during those few years of my young
 manhood that would lay away treasures in heaven like the years I spent over
@@ -165,4 +165,6 @@ mission from the time he is a boy.
 God bless you all, and may we not disappoint our great leader in sending all
 of our boys on missions, I pray, and I leave you my blessing, in the name of
 the Lord Jesus Christ. Amen.
+
+## References
 

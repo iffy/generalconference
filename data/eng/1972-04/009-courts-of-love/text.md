@@ -13,7 +13,7 @@ when he said:
 
 "And even so will I gather mine elect from the four quarters of the earth,
 even as many as will believe in me, and hearken unto my voice." ([D&amp;C
-33:6](https://www.lds.org/scriptures/dc-testament/dc/33.6?lang=eng#5).)
+33:6](/scriptures/dc-testament/dc/33.6?lang=eng#5).)
 
 And how thrilling it is to see these leaders who have listened and who have
 hearkened and who have become faithful and true and are found worthy to be
@@ -23,9 +23,9 @@ As we listened to the prophet this morning and as we listened to the other
 brethren who have responded, I was also struck by the great scripture that we
 hear so often: "What I the Lord have spoken, I have spoken, and I excuse not
 myself; ... whether by mine own voice or by the voice of my servants, it is the
-same." ([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37).) Indeed, it is the same, and as a prophet of
-God talks to us, we are hearing the will of the Lord without question.
+same." ([D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).) Indeed,
+it is the same, and as a prophet of God talks to us, we are hearing the will
+of the Lord without question.
 
 May I just take a brief second to pay personal tribute to two of the greatest
 men I have known in my life, Bishop Vandenberg and Bishop Brown. These two
@@ -99,7 +99,7 @@ there are no shortcuts.
 Heavenly Father is not antiprogress: he is the author of eternal progression.
 In his own words, "For behold, this is my work and my glory--to bring to pass
 the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Our achievement of eternal life adds glory to his name and is the only
 ultimate objective acceptable to a true Latter-day Saint.
@@ -192,8 +192,7 @@ or a lesser kingdom.
 bounds also and conditions.
 
 "All beings who abide not in those conditions are not justified." ([D&amp;C
-88:34-39](https://www.lds.org/scriptures/dc-
-testament/dc/88.34-39?lang=eng#33).)
+88:34-39](/scriptures/dc-testament/dc/88.34-39?lang=eng#33).)
 
 In other words, brothers and sisters, all beings who abide not in those
 conditions, all who fail to correct infractions of the eternal law by proper
@@ -203,4 +202,6 @@ acceptable to the Lord and will likely never be eligible for his presence.
 God bless us to accept eternal law and understand that there can be no other
 way is my humble prayer, and I ask it for each and every one in the name of
 the Lord Jesus Christ. Amen.
+
+## References
 

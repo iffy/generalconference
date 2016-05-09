@@ -5,14 +5,13 @@ great friends.
 
 In the Lord's special revelation on government in the Church, he says that the
 First Presidency is upheld by the confidence, faith, and prayer of the Church.
-(See [D&amp;C 107:22](https://www.lds.org/scriptures/dc-
-testament/dc/107.22?lang=eng#21).) On behalf of these six who have just been
-called, I would like to express to the First Presidency our confidence, our
-faith, and our prayers. We love the First Presidency, and we appreciate the
-confidence they have in us. I would also like to thank those of you who have
-expressed your confidence to us. It's the only possible way we can do this
-work. We have felt a rich outpouring of your love, and that has been an
-outstanding experience.
+(See [D&amp;C 107:22](/scriptures/dc-testament/dc/107.22?lang=eng#21).) On
+behalf of these six who have just been called, I would like to express to the
+First Presidency our confidence, our faith, and our prayers. We love the First
+Presidency, and we appreciate the confidence they have in us. I would also
+like to thank those of you who have expressed your confidence to us. It's the
+only possible way we can do this work. We have felt a rich outpouring of your
+love, and that has been an outstanding experience.
 
 I would like you also to know that we have felt the love of the Saints
 throughout the Church. And especially on behalf of myself, I feel the love of
@@ -63,7 +62,7 @@ through that, you can have peace.
 
 "For we have not an high priest which cannot be touched with the feeling of
 our infirmities; but was in all points tempted like as we are, yet without
-sin." ([Heb. 4:15](https://www.lds.org/scriptures/nt/heb/4.15?lang=eng#14).)
+sin." ([Heb. 4:15](/scriptures/nt/heb/4.15?lang=eng#14).)
 
 I think it was C. S. Lewis--I believe he was quoting George MacDonald--who
 said that we are like a house. When Christ comes in, it hurts abominably. We
@@ -92,4 +91,6 @@ I feel the Savior's love, the love He freely gives me.
 On behalf of these brethren who have joined me, we pledge our energy, our
 love, our prayers, our faith, in humble obedience to a call we did not seek,
 in the name of Jesus Christ, amen.
+
+## References
 

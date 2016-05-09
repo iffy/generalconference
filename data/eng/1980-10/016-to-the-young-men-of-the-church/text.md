@@ -49,7 +49,7 @@ Saint must make as he matures if he is to achieve his potential here and
 hereafter. He had discovered that he really was a son of God--with the
 capacity to become as God is, with all of his power, his might, and his
 majesty. He knew the truth of Christ's oath: "All that my Father hath shall be
-given unto him" ([D&amp;C 84:38](https://www.lds.org/scriptures/dc-
+given unto him" ([D&amp;C 84:38](/scriptures/dc-
 testament/dc/84.38?lang=eng#37)). What a discovery for a young man to make--
 that he is a son of God!
 
@@ -95,11 +95,10 @@ Lord's representative.
 You Aaronic Priesthood holders have that holy power as you prepare for the
 great spiritual gifts that come with the oath and covenant of the Melchizedek
 Priesthood, for you have been given the right to the ministering of angels
-(see [D&amp;C 84:33-39](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-39?lang=eng#32)). The Lord has promised you: "I will go
-before your face. I will be on your right hand and on your left, and my Spirit
-shall be in your hearts, and mine angels round about you, to bear you up (see
-[D&amp;C 84:88](https://www.lds.org/scriptures/dc-
+(see [D&amp;C 84:33-39](/scriptures/dc-testament/dc/84.33-39?lang=eng#32)).
+The Lord has promised you: "I will go before your face. I will be on your
+right hand and on your left, and my Spirit shall be in your hearts, and mine
+angels round about you, to bear you up (see [D&amp;C 84:88](/scriptures/dc-
 testament/dc/84.88?lang=eng#87))--even on the football field, in the
 classrooms, in your studies, in your work, at play--in all you do.
 
@@ -159,13 +158,12 @@ to them: "What's strict about following the true Church of Christ?"
 
 In my lifetime, my young friends, I have discovered that happiness comes in
 keeping the commandments of God. Alma learned the hard way that "wickedness
-never was happiness" ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)). Believe
-his words. Lean on the experience and the faith of men and women you trust as
-you chart your course in life. If you will diligently search for truth and
-live those beautiful principles, your life will be full, rich, rewarding--and
-exciting. Our Father in Heaven needs strong men to build his kingdom, and as I
-look at you, I know you are the best he's got.
+never was happiness" ([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9)).
+Believe his words. Lean on the experience and the faith of men and women you
+trust as you chart your course in life. If you will diligently search for
+truth and live those beautiful principles, your life will be full, rich,
+rewarding--and exciting. Our Father in Heaven needs strong men to build his
+kingdom, and as I look at you, I know you are the best he's got.
 
 We sing, "Hope of Israel, Zion's army, Children of the promised day" (_Hymns,_
 no. 64). Did you realize that song was written about you? President Kimball
@@ -239,4 +237,6 @@ and his Son, bearing witness of the truth of the gospel through your powerful
 example and the precepts you teach your fellowmen. "Hope of Israel, rise in
 might," and be that army that God can use to further his great purpose, I
 pray, in the sacred name of Jesus Christ, our Savior, amen.
+
+## References
 

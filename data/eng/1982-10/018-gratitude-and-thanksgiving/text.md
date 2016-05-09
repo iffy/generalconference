@@ -34,8 +34,7 @@ Samaritan.
 nine?
 
 "There are not found that returned to give glory to God, save this stranger."
-([Luke
-17:11-18](https://www.lds.org/scriptures/nt/luke/17.11-18?lang=eng#10).)
+([Luke 17:11-18](/scriptures/nt/luke/17.11-18?lang=eng#10).)
 
 Christ set an example in giving thanks when, at the last supper, "as they did
 eat, Jesus took bread, and blessed, and brake it, and gave to them, and said,
@@ -43,16 +42,14 @@ Take, eat: this is my body.
 
 "And he took the cup, and _when he had given thanks,_ he gave it to them: and
 they all drank of it." ([Mark
-14:22-23](https://www.lds.org/scriptures/nt/mark/14.22-23?lang=eng#21);
-italics added.)
+14:22-23](/scriptures/nt/mark/14.22-23?lang=eng#21); italics added.)
 
 Both ancient and modern scriptures are replete with references to occasions of
 supplication, praise, and thanksgiving to the Lord.
 
 The Psalmist sang, "Know ye that the Lord he is God: ... Enter into his gates
 with thanksgiving, and into his courts with praise: be thankful unto him, and
-bless his name." ([Ps.
-100:3-4](https://www.lds.org/scriptures/ot/ps/100.3-4?lang=eng#2).)
+bless his name." ([Ps. 100:3-4](/scriptures/ot/ps/100.3-4?lang=eng#2).)
 
 King Benjamin (as recorded in Mosiah in the Book of Mormon) admonished his
 people:
@@ -69,7 +66,7 @@ beginning, and is preserving you from day to day, by lending you breath, that
 ye may live and move and do according to your own will, and even supporting
 you from one moment to another--I say, if ye should serve him with all your
 whole souls yet ye would be unprofitable servants." ([Mosiah
-2:19-21](https://www.lds.org/scriptures/bofm/mosiah/2.19-21?lang=eng#18).)
+2:19-21](/scriptures/bofm/mosiah/2.19-21?lang=eng#18).)
 
 "I believe," said President Joseph F. Smith many years ago, "that one of the
 greatest sins of which the inhabitants of the earth are guilty today is the
@@ -146,8 +143,8 @@ seduced by evil spirits, or doctrines of devils, or the commandments of men;
 for some are of men, and others of devils. ...
 
 "And ye must _give thanks unto God_ in the Spirit for whatsoever blessing ye
-are blessed with." ([D&amp;C 46:7, 32](https://www.lds.org/scriptures/dc-
-testament/dc/46.7%2C32?lang=eng#6); italics added.)
+are blessed with." ([D&amp;C 46:7, 32](/scriptures/dc-
+testament/dc/46.7,32?lang=eng#6); italics added.)
 
 Five months later he gave unto the Church in Zion--that is Jackson County,
 Missouri--this commandment. Now notice how the Lord puts the commandment to be
@@ -160,8 +157,7 @@ mind, and strength; and in the name of Jesus Christ thou shalt serve him.
 adultery, nor kill, nor do anything like unto it.
 
 "_Thou shalt thank the Lord thy God in all things._" ([D&amp;C
-59:5-7](https://www.lds.org/scriptures/dc-testament/dc/59.5-7?lang=eng#4);
-italics added.)
+59:5-7](/scriptures/dc-testament/dc/59.5-7?lang=eng#4); italics added.)
 
 It is perfectly evident from this scripture that to thank the Lord in all
 things is not merely a courtesy, it is a _commandment_ as binding upon us as
@@ -171,19 +167,18 @@ In a later revelation the Lord said:
 
 "And he who receiveth all things with _thankfulness_ shall be made glorious;
 and the things of this earth shall be added unto him, even an hundred fold,
-yea, more." ([D&amp;C 78:19](https://www.lds.org/scriptures/dc-
-testament/dc/78.19?lang=eng#18); italics added.)
+yea, more." ([D&amp;C 78:19](/scriptures/dc-testament/dc/78.19?lang=eng#18);
+italics added.)
 
 "Verily I say unto you my friends"--that always moves me, to think of the Lord
 calling you and me his friends--"Verily I say unto you my friends, fear not,
 let your hearts be comforted; yea, rejoice evermore, and in everything give
-_thanks_." ([D&amp;C 98:1](https://www.lds.org/scriptures/dc-
-testament/dc/98.1?lang=eng#0); italics added.)
+_thanks_." ([D&amp;C 98:1](/scriptures/dc-testament/dc/98.1?lang=eng#0);
+italics added.)
 
 "If thou art merry, praise the Lord with singing, with music, with dancing,
-and with a prayer of praise and _thanksgiving_." ([D&amp;C
-136:28](https://www.lds.org/scriptures/dc-testament/dc/136.28?lang=eng#27);
-italics added.)
+and with a prayer of praise and _thanksgiving_." ([D&amp;C 136:28](/scriptures
+/dc-testament/dc/136.28?lang=eng#27); italics added.)
 
 This last commandment that I have just read came through the prophet Brigham
 Young at Winter Quarters when the Saints were on their way across the plains.
@@ -202,8 +197,7 @@ suffering he endured in Gethsemane so that we might obtain forgiveness of our
 sins. "Which suffering," he said, "caused myself, even God, the greatest of
 all, to tremble because of pain, and to bleed at every pore, and to suffer
 both body and spirit--and would that I might not drink the bitter cup, and
-shrink." ([D&amp;C 19:18](https://www.lds.org/scriptures/dc-
-testament/dc/19.18?lang=eng#17).)
+shrink." ([D&amp;C 19:18](/scriptures/dc-testament/dc/19.18?lang=eng#17).)
 
 But nevertheless, he endured it for our sake. None of us could have endured
 that suffering. No mortal man nor any number of men together could have
@@ -228,4 +222,6 @@ to be grateful and thankful unto him. And if we do these things which he has
 advised us to do, we will be the happiest people who dwell upon the earth, for
 this is the way to the presence and society of our Father in heaven. I so
 testify, in the name of Jesus Christ, amen.
+
+## References
 

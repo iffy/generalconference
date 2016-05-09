@@ -54,11 +54,10 @@ to help us over the rough spots if we do our part.
 
 He read: "Behold, I stand at the door, and knock," said the Savior. "If any
 man hear my voice, and open the door, I will come in to him, and will sup with
-him, and he with me" ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19)). Did you catch
-the point, young men, that it is up to us to open the door? I think the Savior
-gives us another vital key as He declares, "For without me ye can do nothing"
-([John 15:5](https://www.lds.org/scriptures/nt/john/15.5?lang=eng#4)). That's
+him, and he with me" ([Rev. 3:20](/scriptures/nt/rev/3.20?lang=eng#19)). Did
+you catch the point, young men, that it is up to us to open the door? I think
+the Savior gives us another vital key as He declares, "For without me ye can
+do nothing" ([John 15:5](/scriptures/nt/john/15.5?lang=eng#4)). That's
 powerful!
 
 Remember the next comment? "I am not sure if it is worth it all." One of the
@@ -79,20 +78,19 @@ And then skipping down to the thirty-eighth verse:
 that my Father hath shall be given unto him.
 
 "And this is according to the oath and covenant which belongeth to the
-priesthood" ([D&amp;C 84:33, 38-39](https://www.lds.org/scriptures/dc-
-testament/dc/84.33%2C38-39?lang=eng#32)).
+priesthood" ([D&amp;C 84:33, 38-39](/scriptures/dc-
+testament/dc/84.33,38-39?lang=eng#32)).
 
 My young friends, please realize that these conditions that we just read are
 set. They have all been affirmed. We have already had priesthood authority
 conferred upon us. The Lord has promised a guaranteed destiny for all who
 magnify that priesthood; and that destiny is eternal life, which, according to
-scripture, is the greatest of all the gifts (see [D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6)).
-Because we have been ordained, we are on our way. Not only are we on our way,
-but it looks like we have reached the point of no return, for the Savior
-assures us that this is an oath and covenant of the Father "which he cannot
-break, neither can it be moved" ([D&amp;C
-84:40](https://www.lds.org/scriptures/dc-testament/dc/84.40?lang=eng#39)).
+scripture, is the greatest of all the gifts (see [D&amp;C 14:7](/scriptures
+/dc-testament/dc/14.7?lang=eng#6)). Because we have been ordained, we are on
+our way. Not only are we on our way, but it looks like we have reached the
+point of no return, for the Savior assures us that this is an oath and
+covenant of the Father "which he cannot break, neither can it be moved"
+([D&amp;C 84:40](/scriptures/dc-testament/dc/84.40?lang=eng#39)).
 
 Let me interject an interesting little sidelight. As we read that last
 scripture concerning the oath and covenant that cannot be broken and neither
@@ -114,7 +112,7 @@ heaven were available to him. Remember when he declared, "I will go and do the
 things which the Lord hath commanded, for I know that the Lord giveth no
 commandments unto the children of men, save he shall prepare a way for them
 that they may accomplish the thing which he commandeth them" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)).
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)).
 
 At this point, one of the young deacons quipped, "Yeah, but Nephi didn't have
 to go to my school." He was telling us that his problem was just about as big
@@ -138,18 +136,17 @@ Youth of Zion, forget about receiving a miracle, or the so-called sure sign
 from heaven. There are no shortcuts to eternity. Thus, extreme patience
 becomes another key factor as we develop our testimony over a lifetime. It is
 simply "line upon line, precept upon precept; here a little, and there a
-little," just as the scriptures say ([D&amp;C
-128:21](https://www.lds.org/scriptures/dc-testament/dc/128.21?lang=eng#20)).
+little," just as the scriptures say ([D&amp;C 128:21](/scriptures/dc-
+testament/dc/128.21?lang=eng#20)).
 
 There are basic principles that never change in the development of a
 testimony.
 
 Let's use the Book of Mormon as an example. The great promise found in Moroni
-10:4, [[Moro. 10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3)]
-with which we are all familiar, states that we must read the book--then ask
-Heavenly Father about it with a sincere heart, with faith in Christ. Then He
-says when we have done this, the truth will be manifest to us by the power of
-the Holy Ghost.
+10:4, [[Moro. 10:4](/scriptures/bofm/moro/10.4?lang=eng#3)] with which we are
+all familiar, states that we must read the book--then ask Heavenly Father
+about it with a sincere heart, with faith in Christ. Then He says when we have
+done this, the truth will be manifest to us by the power of the Holy Ghost.
 
 Now, whether it be a testimony about the Book of Mormon, tithing, the Word of
 Wisdom, the law of the fast, keeping the Sabbath day holy, or any other
@@ -179,9 +176,11 @@ him as you have, will surely find within his grasp the ability to acquire a
 strong testimony--a testimony that should never stop growing. As with Joshua
 of old, "Choose you this day whom ye will serve; ... but as for me and my house,
 we will serve the Lord" ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14)). And just as
-surely as you do that, the "doctrine of the priesthood shall distil upon thy
-soul as the dews from heaven" ([D&amp;C 121:45](https://www.lds.org/scriptures
-/dc-testament/dc/121.45?lang=eng#44)). May it be so, I pray humbly, in the
-name of Jesus Christ, amen.
+24:15](/scriptures/ot/josh/24.15?lang=eng#14)). And just as surely as you do
+that, the "doctrine of the priesthood shall distil upon thy soul as the dews
+from heaven" ([D&amp;C 121:45](/scriptures/dc-
+testament/dc/121.45?lang=eng#44)). May it be so, I pray humbly, in the name of
+Jesus Christ, amen.
+
+## References
 

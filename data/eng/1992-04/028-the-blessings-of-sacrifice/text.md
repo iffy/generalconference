@@ -149,10 +149,10 @@ our sins forgiven and, through Him, to find our way back into the presence of
 our Heavenly Father.
 
 The sacrifice he requires of us is "a broken heart and a contrite spirit" ([3
-Ne. 9:20](https://www.lds.org/scriptures/bofm/3-ne/9.20?lang=eng#19)) that can
-lead us to repentance. When we consider His example, the demands made upon our
-time or means are slight in comparison. We should, therefore, give gladly and
-count it as a blessing and an opportunity.
+Ne. 9:20](/scriptures/bofm/3-ne/9.20?lang=eng#19)) that can lead us to
+repentance. When we consider His example, the demands made upon our time or
+means are slight in comparison. We should, therefore, give gladly and count it
+as a blessing and an opportunity.
 
 I realize that today many faithful members of the Church are sacrificing a
 great deal to support sons and daughters serving on missions and render other
@@ -171,7 +171,7 @@ ourselves in helping others and contributing to the building of the Lord's
 kingdom. The Lord has instructed us that we "should be anxiously engaged in a
 good cause, and do many things of [our] own free will, and bring to pass much
 righteousness; For the power is in [us], wherein [we] are agents unto
-[ourselves]." ([D&amp;C 58:27-28](https://www.lds.org/scriptures/dc-
+[ourselves]." ([D&amp;C 58:27-28](/scriptures/dc-
 testament/dc/58.27-28?lang=eng#26).)
 
 My brothers and sisters, we must not lose the spirit of sacrifice demonstrated
@@ -206,4 +206,6 @@ God bless you, brothers and sisters, to know as I know that God lives, that
 Jesus is the Christ, and that being a member of His church, the only true and
 living church, is never a burden but always a great blessing. That we may be
 grateful for this blessing I pray humbly in the name of Jesus Christ, amen.
+
+## References
 

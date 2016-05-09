@@ -19,8 +19,7 @@ bring profanity and vulgarity into our homes.
 For many in our day, the profane has become commonplace and the vulgar has
 become acceptable. Surely this is one fulfillment of the Book of Mormon
 prophecy that in the last days "there shall be great pollutions upon the face
-of the earth." ([Morm.
-8:31](https://www.lds.org/scriptures/bofm/morm/8.31?lang=eng#30).)
+of the earth." ([Morm. 8:31](/scriptures/bofm/morm/8.31?lang=eng#30).)
 
 The people of God have always been commanded to abstain from language that is
 profane or vulgar. Latter-day Saints should understand why.
@@ -28,18 +27,17 @@ profane or vulgar. Latter-day Saints should understand why.
 The names of God the Father and his Son, Jesus Christ, are sacred. The prophet
 Isaiah taught that the Lord will not suffer these names to be
 dishonored--"polluted" as the scriptures say. (See [1 Ne.
-20:11](https://www.lds.org/scriptures/bofm/1-ne/20.11?lang=eng#10); [Isa.
-48:11](https://www.lds.org/scriptures/ot/isa/48.11?lang=eng#10).)
+20:11](/scriptures/bofm/1-ne/20.11?lang=eng#10); [Isa.
+48:11](/scriptures/ot/isa/48.11?lang=eng#10).)
 
 In the third of the Ten Commandments, the Lord commanded ancient Israel: "Thou
 shalt not take the name of the Lord thy God in vain; for the Lord will not
 hold him guiltless that taketh his name in vain." ([Ex.
-20:7](https://www.lds.org/scriptures/ot/ex/20.7?lang=eng#6).) This same
-commandment was repeated to the Book of Mormon people by the prophet Abinadi
-(see [Mosiah
-13:15](https://www.lds.org/scriptures/bofm/mosiah/13.15?lang=eng#14)) and to
-each of us through modern prophets. (see [D&amp;C
-136:21](https://www.lds.org/scriptures/dc-testament/dc/136.21?lang=eng#20).)
+20:7](/scriptures/ot/ex/20.7?lang=eng#6).) This same commandment was repeated
+to the Book of Mormon people by the prophet Abinadi (see [Mosiah
+13:15](/scriptures/bofm/mosiah/13.15?lang=eng#14)) and to each of us through
+modern prophets. (see [D&amp;C 136:21](/scriptures/dc-
+testament/dc/136.21?lang=eng#20).)
 
 The Doctrine and Covenants gives this example:
 
@@ -47,8 +45,7 @@ The Doctrine and Covenants gives this example:
 
 "For behold, verily I say, that many there be who are under this condemnation,
 who use the name of the Lord, and use it in vain, having not authority."
-([D&amp;C 63:61-62](https://www.lds.org/scriptures/dc-
-testament/dc/63.61-62?lang=eng#60).)
+([D&amp;C 63:61-62](/scriptures/dc-testament/dc/63.61-62?lang=eng#60).)
 
 This scripture shows that we take the name of the Lord in vain when we use his
 name without authority. This obviously occurs when the sacred names of God the
@@ -71,18 +68,18 @@ Christ:
 
 "And whoso taketh upon him my name, and endureth to the end, the same shall be
 saved at the last day." ([3 Ne.
-27:5-6](https://www.lds.org/scriptures/bofm/3-ne/27.5-6?lang=eng#4).)
+27:5-6](/scriptures/bofm/3-ne/27.5-6?lang=eng#4).)
 
 He has instructed his followers to call the Church in his name. (See [3 Ne.
-27:7-8](https://www.lds.org/scriptures/bofm/3-ne/27.7-8?lang=eng#6); [D&amp;C
-115:4](https://www.lds.org/scriptures/dc-testament/dc/115.4?lang=eng#3).) In
-our time this is The Church of Jesus Christ of Latter-day Saints.
+27:7-8](/scriptures/bofm/3-ne/27.7-8?lang=eng#6); [D&amp;C 115:4](/scriptures
+/dc-testament/dc/115.4?lang=eng#3).) In our time this is The Church of Jesus
+Christ of Latter-day Saints.
 
 The Savior taught that we should begin our prayers by saying, "Our Father who
 art in heaven, hallowed be thy name." ([3 Ne.
-13:9](https://www.lds.org/scriptures/bofm/3-ne/13.9?lang=eng#8); see also
-[Luke 11:2](https://www.lds.org/scriptures/nt/luke/11.2?lang=eng#1).) In the
-Book of Mormon, the risen Lord gave these further instructions:
+13:9](/scriptures/bofm/3-ne/13.9?lang=eng#8); see also [Luke
+11:2](/scriptures/nt/luke/11.2?lang=eng#1).) In the Book of Mormon, the risen
+Lord gave these further instructions:
 
 "Therefore ye must always pray unto the Father in my name;
 
@@ -91,58 +88,56 @@ that ye shall receive, behold it shall be given unto you.
 
 "Pray in your families unto the Father, always in my name, that your wives and
 your children may be blessed." ([3 Ne.
-18:19-21](https://www.lds.org/scriptures/bofm/3-ne/18.19-21?lang=eng#18); see
-also [3 Ne. 27:7](https://www.lds.org/scriptures/bofm/3-ne/27.7?lang=eng#6);
-[John 14:13](https://www.lds.org/scriptures/nt/john/14.13?lang=eng#12); [John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).)
+18:19-21](/scriptures/bofm/3-ne/18.19-21?lang=eng#18); see also [3 Ne.
+27:7](/scriptures/bofm/3-ne/27.7?lang=eng#6); [John
+14:13](/scriptures/nt/john/14.13?lang=eng#12); [John
+15:16](/scriptures/nt/john/15.16?lang=eng#15).)
 
 The scriptures are replete with declarations that the name of Jesus Christ is
 "the only name which shall be given under heaven, whereby salvation shall come
 unto the children of men." ([Moses
-6:52](https://www.lds.org/scriptures/pgp/moses/6.52?lang=eng#51); see also
-[Acts 4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11); [2 Ne.
-25:20](https://www.lds.org/scriptures/bofm/2-ne/25.20?lang=eng#19); [2 Ne.
-31:21](https://www.lds.org/scriptures/bofm/2-ne/31.21?lang=eng#20); [Mosiah
-3:17](https://www.lds.org/scriptures/bofm/mosiah/3.17?lang=eng#16).)
+6:52](/scriptures/pgp/moses/6.52?lang=eng#51); see also [Acts
+4:12](/scriptures/nt/acts/4.12?lang=eng#11); [2 Ne.
+25:20](/scriptures/bofm/2-ne/25.20?lang=eng#19); [2 Ne.
+31:21](/scriptures/bofm/2-ne/31.21?lang=eng#20); [Mosiah
+3:17](/scriptures/bofm/mosiah/3.17?lang=eng#16).)
 
 The Bible has hundreds of references to the name of God, a sacred word which
 usually refers to God the Father, or Elohim. (See
-[Gen.](https://www.lds.org/scriptures/ot/gen/1.title?lang=eng); [John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).) The ancient
-prophets also knew and revered the name of Jehovah, the Holy One of Israel,
-Jesus Christ, whom the Bible usually refers to as the Lord. (See JST, Ex. 6:3;
-[Abr. 1:16](https://www.lds.org/scriptures/pgp/abr/1.16?lang=eng#15), [Abr.
-2:8](https://www.lds.org/scriptures/pgp/abr/2.8?lang=eng#7); [Ether
-3:1-28](https://www.lds.org/scriptures/bofm/ether/3.1-28?lang=eng#0); [Isa.
-43:3](https://www.lds.org/scriptures/ot/isa/43.3?lang=eng#2).)
+[Gen.](/scriptures/ot/gen/1?lang=eng); [John
+3:16](/scriptures/nt/john/3.16?lang=eng#15).) The ancient prophets also knew
+and revered the name of Jehovah, the Holy One of Israel, Jesus Christ, whom
+the Bible usually refers to as the Lord. (See JST, Ex. 6:3; [Abr.
+1:16](/scriptures/pgp/abr/1.16?lang=eng#15), [Abr.
+2:8](/scriptures/pgp/abr/2.8?lang=eng#7); [Ether
+3:1-28](/scriptures/bofm/ether/3.1-28?lang=eng#0); [Isa.
+43:3](/scriptures/ot/isa/43.3?lang=eng#2).)
 
 These names were so sacred that the children of Israel were repeatedly
 commanded not to profane the holy name of their God. (See [Lev.
-18:21](https://www.lds.org/scriptures/ot/lev/18.21?lang=eng#20); [Lev.
-19:12](https://www.lds.org/scriptures/ot/lev/19.12?lang=eng#11); [Lev.
-20:3](https://www.lds.org/scriptures/ot/lev/20.3?lang=eng#2); [Lev.
-21:6](https://www.lds.org/scriptures/ot/lev/21.6?lang=eng#5).) One who
-blasphemed the name of the Lord was commanded to be put to death by stoning.
-(See [Lev. 24:16](https://www.lds.org/scriptures/ot/lev/24.16?lang=eng#15).)
+18:21](/scriptures/ot/lev/18.21?lang=eng#20); [Lev.
+19:12](/scriptures/ot/lev/19.12?lang=eng#11); [Lev.
+20:3](/scriptures/ot/lev/20.3?lang=eng#2); [Lev.
+21:6](/scriptures/ot/lev/21.6?lang=eng#5).) One who blasphemed the name of the
+Lord was commanded to be put to death by stoning. (See [Lev.
+24:16](/scriptures/ot/lev/24.16?lang=eng#15).)
 
 Cataloging the sins of his countrymen, the prophet Ezekiel said, "Her priests
 have ... profaned mine holy things: they have put no difference between the holy
 and the profane ... and I am profaned among them." ([Ezek.
-22:26](https://www.lds.org/scriptures/ot/ezek/22.26?lang=eng#25); see also
-[Ezek.
-36:20-23](https://www.lds.org/scriptures/ot/ezek/36.20-23?lang=eng#19).)
+22:26](/scriptures/ot/ezek/22.26?lang=eng#25); see also [Ezek.
+36:20-23](/scriptures/ot/ezek/36.20-23?lang=eng#19).)
 
 Throughout the ages, the Lord has directed that "whatsoever ye shall do, ye
 shall do it in my name." ([3 Ne.
-27:7](https://www.lds.org/scriptures/bofm/3-ne/27.7?lang=eng#6).) God the
-Father commanded that Adam and Eve and all of their descendants should be
-baptized "in the name of mine Only Begotten Son, who is full of grace and
-truth, which is Jesus Christ." ([Moses
-6:52](https://www.lds.org/scriptures/pgp/moses/6.52?lang=eng#51).)
+27:7](/scriptures/bofm/3-ne/27.7?lang=eng#6).) God the Father commanded that
+Adam and Eve and all of their descendants should be baptized "in the name of
+mine Only Begotten Son, who is full of grace and truth, which is Jesus
+Christ." ([Moses 6:52](/scriptures/pgp/moses/6.52?lang=eng#51).)
 
 At the conclusion of his ministry, the risen Lord identified signs that would
 follow those who believed (see [Mark
-16:17-18](https://www.lds.org/scriptures/nt/mark/16.17-18?lang=eng#16)):
+16:17-18](/scriptures/nt/mark/16.17-18?lang=eng#16)):
 
 "In my name they shall do many wonderful works;
 
@@ -151,12 +146,11 @@ follow those who believed (see [Mark
 "In my name they shall heal the sick;
 
 "In my name they shall open the eyes of the blind, and unstop the ears of the
-deaf." ([D&amp;C 84:66-69](https://www.lds.org/scriptures/dc-
-testament/dc/84.66-69?lang=eng#65).)
+deaf." ([D&amp;C 84:66-69](/scriptures/dc-testament/dc/84.66-69?lang=eng#65).)
 
 When Peter healed the lame beggar, he spoke these words: "Such as I have give
 I thee: In the name of Jesus Christ of Nazareth rise up and walk." ([Acts
-3:6](https://www.lds.org/scriptures/nt/acts/3.6?lang=eng#5).)
+3:6](/scriptures/nt/acts/3.6?lang=eng#5).)
 
 When the names of God the Father and his Son, Jesus Christ, are used with
 reverence and authority, they invoke a power beyond what mortal man can
@@ -167,13 +161,13 @@ miracles are wrought, by which the world was formed, through which man was
 created, and by which we can be saved--are holy and must be treated with the
 utmost reverence. As we read in modern revelation, "Remember that that which
 cometh from above is sacred, and must be spoken with care, and by constraint
-of the Spirit." ([D&amp;C 63:64](https://www.lds.org/scriptures/dc-
+of the Spirit." ([D&amp;C 63:64](/scriptures/dc-
 testament/dc/63.64?lang=eng#63).)
 
 So it is that the Holy Priesthood after the Order of the Son of God is called
 the Melchizedek Priesthood "out of respect or reverence to the name of the
 Supreme Being, to avoid the too frequent repetition of his name." ([D&amp;C
-107:3-4](https://www.lds.org/scriptures/dc-testament/dc/107.3-4?lang=eng#2).)
+107:3-4](/scriptures/dc-testament/dc/107.3-4?lang=eng#2).)
 
 The desire and work of Satan is to mislead and corrupt. He seeks to frustrate
 the gospel plan by which God has provided the opportunity of eternal life for
@@ -195,31 +189,27 @@ That is my Lord whose names you revile.'" (_Improvement Era,_ May 1953, p.
 The words we speak are important. The Savior taught that men will be held to
 account for "every idle word" in the day of judgment. "For by thy words thou
 shalt be justified, and by thy words thou shalt be condemned." ([Matt.
-12:36-37](https://www.lds.org/scriptures/nt/matt/12.36-37?lang=eng#35).) He
-also said, "That which cometh out of the mouth, this defileth a man." ([Matt.
-15:11](https://www.lds.org/scriptures/nt/matt/15.11?lang=eng#10).)
+12:36-37](/scriptures/nt/matt/12.36-37?lang=eng#35).) He also said, "That
+which cometh out of the mouth, this defileth a man." ([Matt.
+15:11](/scriptures/nt/matt/15.11?lang=eng#10).)
 
 Truly, as the Apostle James taught, "The tongue is a fire, ... an unruly evil"
 that can defile the whole body. ([James 3:6,
-8](https://www.lds.org/scriptures/nt/james/3.6%2C8?lang=eng#5).)
+8](/scriptures/nt/james/3.6,8?lang=eng#5).)
 
 Profanity also takes its toll on the one who uses it. As we read in Proverbs,
 "A wholesome tongue is a tree of life: but perverseness therein is a breach in
-the spirit." ([Prov.
-15:4](https://www.lds.org/scriptures/ot/prov/15.4?lang=eng#3).) The Spirit of
-the Lord, the Holy Ghost, testifies of God the Father and his Son, Jesus
-Christ. (See [2 Ne.
-31:18](https://www.lds.org/scriptures/bofm/2-ne/31.18?lang=eng#17).) When
+the spirit." ([Prov. 15:4](/scriptures/ot/prov/15.4?lang=eng#3).) The Spirit
+of the Lord, the Holy Ghost, testifies of God the Father and his Son, Jesus
+Christ. (See [2 Ne. 31:18](/scriptures/bofm/2-ne/31.18?lang=eng#17).) When
 those names are dishonored, that Spirit, which "doth not dwell in unholy
-temples" ([Hel.
-4:24](https://www.lds.org/scriptures/bofm/hel/4.24?lang=eng#23)), is offended
-and withdraws. For this reason, those who profane the name of God inevitably
+temples" ([Hel. 4:24](/scriptures/bofm/hel/4.24?lang=eng#23)), is offended and
+withdraws. For this reason, those who profane the name of God inevitably
 relinquish the companionship of his Spirit.
 
 As the Apostle Paul taught Timothy, in order to be "approved unto God," we
 must "shun profane and vain babblings: for they will increase unto more
-ungodliness." ([2 Tim.
-2:15-16](https://www.lds.org/scriptures/nt/2-tim/2.15-16?lang=eng#14).)
+ungodliness." ([2 Tim. 2:15-16](/scriptures/nt/2-tim/2.15-16?lang=eng#14).)
 Profanity leads to more ungodliness because the Spirit of the Lord withdraws
 and the profane are left without guidance.
 
@@ -227,14 +217,14 @@ Vulgar and crude expressions are also offensive to the Spirit of the Lord.
 
 The Apostle James taught that followers of Christ should be "slow to speak,
 slow to wrath," and should "lay apart all filthiness." ([James 1:19,
-21](https://www.lds.org/scriptures/nt/james/1.19%2C21?lang=eng#18).) In the
-Bible, filthiness is a term associated with sexual sin and with lewd language.
-(See [Ezek. 16:36](https://www.lds.org/scriptures/ot/ezek/16.36?lang=eng#35);
-[Ezek. 24:13](https://www.lds.org/scriptures/ot/ezek/24.13?lang=eng#12); [Eph.
-5:3-4](https://www.lds.org/scriptures/nt/eph/5.3-4?lang=eng#2).) Thus, Paul
-was surely condemning vulgarity when he wrote the Colossians, "Also put off
-all these; anger, wrath, malice, blasphemy, filthy communication out of your
-mouth." ([Col. 3:8](https://www.lds.org/scriptures/nt/col/3.8?lang=eng#7).)
+21](/scriptures/nt/james/1.19,21?lang=eng#18).) In the Bible, filthiness is a
+term associated with sexual sin and with lewd language. (See [Ezek.
+16:36](/scriptures/ot/ezek/16.36?lang=eng#35); [Ezek.
+24:13](/scriptures/ot/ezek/24.13?lang=eng#12); [Eph.
+5:3-4](/scriptures/nt/eph/5.3-4?lang=eng#2).) Thus, Paul was surely condemning
+vulgarity when he wrote the Colossians, "Also put off all these; anger, wrath,
+malice, blasphemy, filthy communication out of your mouth." ([Col.
+3:8](/scriptures/nt/col/3.8?lang=eng#7).)
 
 These biblical condemnations of vulgarity are needed in our day.
 
@@ -247,13 +237,13 @@ utterly revolting is written on the walls and shouted in the streets.
 Twentieth-century men and women of sensitivity can easily understand how Lot,
 a fugitive from the actions and speech of Sodom and Gomorrah, could have been
 "vexed with the filthy conversation of the wicked." ([2 Pet.
-2:7](https://www.lds.org/scriptures/nt/2-pet/2.7?lang=eng#6).)
+2:7](/scriptures/nt/2-pet/2.7?lang=eng#6).)
 
 How soberly we must regard the Book of Mormon teachings that "there cannot any
 unclean thing enter into the kingdom of God; wherefore there must needs be a
 place of filthiness prepared for that which is filthy." ([1 Ne.
-15:34](https://www.lds.org/scriptures/bofm/1-ne/15.34?lang=eng#33); see also
-[Alma 7:21](https://www.lds.org/scriptures/bofm/alma/7.21?lang=eng#20).)
+15:34](/scriptures/bofm/1-ne/15.34?lang=eng#33); see also [Alma
+7:21](/scriptures/bofm/alma/7.21?lang=eng#20).)
 
 Profane and vulgar expressions are public evidence of a speaker's ignorance,
 inadequacy, or immaturity.
@@ -279,14 +269,14 @@ hearts, and our hearts should be pure. As the Savior taught:
 
 "A good man out of the good treasure of the heart bringeth forth good things:
 and an evil man out of the evil treasure bringeth forth evil things." ([Matt.
-12:34-35](https://www.lds.org/scriptures/nt/matt/12.34-35?lang=eng#33).)
+12:34-35](/scriptures/nt/matt/12.34-35?lang=eng#33).)
 
 The Book of Mormon teaches us that when we are brought before the judgment bar
 of God "our words will condemn us ... and our thoughts will also condemn us."
-([Alma 12:14](https://www.lds.org/scriptures/bofm/alma/12.14?lang=eng#13).)
-Let us recognize profanity and vulgarity for what they are. They are sins that
-separate us from God and cripple our spiritual defenses by causing the Holy
-Ghost to withdraw from us.
+([Alma 12:14](/scriptures/bofm/alma/12.14?lang=eng#13).) Let us recognize
+profanity and vulgarity for what they are. They are sins that separate us from
+God and cripple our spiritual defenses by causing the Holy Ghost to withdraw
+from us.
 
 We should abstain and we should teach our children to abstain from all such
 expressions.
@@ -304,11 +294,11 @@ to drive.
 
 We obviously cannot control all that goes on in our presence. Modern
 revelation suggests one alternative for those who would be clean: "Go ye out
-from among the wicked. Save yourselves." ([D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).)
-Sometimes we can remove ourselves from language that is profane or vulgar. If
-this is not possible, we can at least register an objection so that others
-cannot conclude that our silence means approval or acquiescence.
+from among the wicked. Save yourselves." ([D&amp;C 38:42](/scriptures/dc-
+testament/dc/38.42?lang=eng#41).) Sometimes we can remove ourselves from
+language that is profane or vulgar. If this is not possible, we can at least
+register an objection so that others cannot conclude that our silence means
+approval or acquiescence.
 
 Our thirteenth article of faith commits us to seek after things that are
 "virtuous, lovely, or of good report or praiseworthy." The language of Latter-
@@ -318,4 +308,6 @@ Father and the Son.
 
 I testify of God the Father and his Son, Jesus Christ, and pray that we may be
 more faithful in honoring their holy names. In the name of Jesus Christ, amen.
+
+## References
 

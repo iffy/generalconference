@@ -175,7 +175,7 @@ Never misuse these sacred powers.
 And now, my young friends, I must tell you soberly and seriously that God has
 declared in unmistakable language that misery and sorrow will follow the
 violation of the laws of chastity. "... wickedness never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).)
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9).)
 
 These laws were set up to guide all of his children in the use of this gift.
 
@@ -251,4 +251,6 @@ I pray God's blessings upon you, our youth. May our Heavenly Father watch over
 you and sustain you, that in the expression of this sacred gift you may draw
 close to him. He lives. He is our Father. Of this I bear witness in the name
 of Jesus Christ. Amen.
+
+## References
 

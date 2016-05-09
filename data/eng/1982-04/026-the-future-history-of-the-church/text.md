@@ -99,8 +99,7 @@ elsewhere in the world. As Paul wrote to the Galatians, "For as many of you as
 have been baptized into Christ have put on Christ."
 
 "And if ye be Christ's, then are ye Abraham's seed and heirs according to the
-promise." ([Gal. 3:27,
-29](https://www.lds.org/scriptures/nt/gal/3.27%2C29?lang=eng#26).)
+promise." ([Gal. 3:27, 29](/scriptures/nt/gal/3.27,29?lang=eng#26).)
 
 We face serious challenges today. Are Latter-day Saint homes throughout the
 world producing men and women of courage, and obedient children? Will our
@@ -116,7 +115,7 @@ the significance of the many new temples that are being announced? What is
 implied for us in the revelation to the Prophet Joseph Smith in 1831: "The
 keys of the kingdom of God are committed unto man on the earth, and from
 thence shall the gospel roll forth unto the ends of the earth." ([D&amp;C
-65:2](https://www.lds.org/scriptures/dc-testament/dc/65.2?lang=eng#1).)
+65:2](/scriptures/dc-testament/dc/65.2?lang=eng#1).)
 
 There _is_ a great Church history behind us. There is an even greater Church
 history ahead of us for every member, every unit of the Church. That history
@@ -125,15 +124,13 @@ and in every stake.
 
 The vision of the New Jerusalem has moved generations of mankind. It has moved
 our people. We look to the day when "Christ will reign personally upon the
-earth." ([A of F
-1:10](https://www.lds.org/scriptures/pgp/a-of-f/1.10?lang=eng#9).) But, as the
+earth." ([A of F 1:10](/scriptures/pgp/a-of-f/1.10?lang=eng#9).) But, as the
 prophet Malachi asked, "Who may abide the day of his coming? and who shall
-stand when he appeareth?" ([Mal.
-3:2](https://www.lds.org/scriptures/ot/mal/3.2?lang=eng#1).) Let us prepare to
-abide the day of his coming by building Zion in our hearts, in our families,
-as we make pages for the future history of the Church. President Kimball has
-told us repeatedly to beautify our lives, our homes. He has challenged us to
-render more Christlike service.
+stand when he appeareth?" ([Mal. 3:2](/scriptures/ot/mal/3.2?lang=eng#1).) Let
+us prepare to abide the day of his coming by building Zion in our hearts, in
+our families, as we make pages for the future history of the Church. President
+Kimball has told us repeatedly to beautify our lives, our homes. He has
+challenged us to render more Christlike service.
 
 I testify that the gospel of Jesus Christ as restored through the Prophet
 Joseph Smith is the power of God unto salvation, that he is our Savior and
@@ -141,11 +138,12 @@ Redeemer, that God the Father lives, and that President Spencer W. Kimball is
 the Lord's living prophet today. If we respond to his prophetic leadership as
 the Hole-in-the-Rock pioneers did to the call of President Taylor, we will
 help prepare the time when Christ shall reign "King of Kings, and Lord of
-Lords." ([Rev.
-19:16](https://www.lds.org/scriptures/nt/rev/19.16?lang=eng#15).)
+Lords." ([Rev. 19:16](/scriptures/nt/rev/19.16?lang=eng#15).)
 
 We must prepare now to "abide the day of his coming." The future history of
 the Church can then be marked by successful passage through times of trial and
 adversity. That we may each do our part, loving the Lord and our fellowmen in
 doing so, is my prayer in the name of Jesus Christ, amen.
+
+## References
 

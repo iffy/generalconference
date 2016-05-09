@@ -63,7 +63,7 @@ Is this charge to reach out to every household in order to bring light, love,
 and happiness to our fellowmen not a sacred obligation? Especially when we
 know that the Savior said, "Verily I say unto you all: Arise and shine forth,
 that thy light may be a standard for the nations." ([D&amp;C
-115:5](https://www.lds.org/scriptures/dc-testament/dc/115.5?lang=eng#4).)
+115:5](/scriptures/dc-testament/dc/115.5?lang=eng#4).)
 
 Who are "you all" now, on this very day, the fourth of April, 1981?
 
@@ -153,8 +153,8 @@ of the true meaning of the scripture:
 
 "And if it so be that you should labor all your days in crying repentance unto
 this people, and bring, save it be one soul unto me, how great shall be your
-joy with him in the kingdom of my Father!" ([D&amp;C
-18:15](https://www.lds.org/scriptures/dc-testament/dc/18.15?lang=eng#14).)
+joy with him in the kingdom of my Father!" ([D&amp;C 18:15](/scriptures/dc-
+testament/dc/18.15?lang=eng#14).)
 
 Finally, I would like to share with you one more interesting experience, which
 Brother and Sister Edwin Q. Cannon, Jr., had on their mission in West Africa.
@@ -202,4 +202,6 @@ I humbly pray that the missionary spirit will be with us all in the time ahead
 and that we may be an instrument in the hand of the Lord to build his kingdom
 here on earth prior to his glorious return, and do so in the name of Jesus
 Christ, amen.
+
+## References
 

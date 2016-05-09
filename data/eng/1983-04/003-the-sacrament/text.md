@@ -17,12 +17,12 @@ stately pulpit and, of course, the sacrament table.
 
 Sacrament meetings were very special occasions. The Lord instructed that "it
 is expedient that the church meet together often to partake of bread and wine
-in the remembrance of the Lord Jesus." ([D&amp;C
-20:75](https://www.lds.org/scriptures/dc-testament/dc/20.75?lang=eng#74).) We
-of the Aaronic Priesthood knew it was special. We were well trained. We knew
-exactly what we should do. We had been taught at home and in our quorum
-meetings of the high honor placed on us as holders of God's holy priesthood,
-which authorized us to perform sacred ordinances of the gospel.
+in the remembrance of the Lord Jesus." ([D&amp;C 20:75](/scriptures/dc-
+testament/dc/20.75?lang=eng#74).) We of the Aaronic Priesthood knew it was
+special. We were well trained. We knew exactly what we should do. We had been
+taught at home and in our quorum meetings of the high honor placed on us as
+holders of God's holy priesthood, which authorized us to perform sacred
+ordinances of the gospel.
 
 As a deacon, I vividly recall how we admired the two priests seated up on the
 first level of the raised platform who would administer the blessing on the
@@ -52,7 +52,7 @@ sacrament hymns. As we personally sang the words, our souls were better
 prepared to understand this sacred ordinance. At the Last Supper the early
 Apostles joined with the Savior in singing. Matthew records, "And when they
 had sung an hymn, they went out into the mount of Olives." ([Matt.
-26:30](https://www.lds.org/scriptures/nt/matt/26.30?lang=eng#29).)
+26:30](/scriptures/nt/matt/26.30?lang=eng#29).)
 
 And as we would sing in that sacrament meeting ...
 
@@ -117,8 +117,7 @@ that they may eat in remembrance of the body of thy Son, and witness unto
 thee, O God, the Eternal Father, that they are willing to take upon them the
 name of thy Son, and always remember him and keep his commandments which he
 has given them; that they may always have his Spirit to be with them."
-([D&amp;C 20:77](https://www.lds.org/scriptures/dc-
-testament/dc/20.77?lang=eng#76).)
+([D&amp;C 20:77](/scriptures/dc-testament/dc/20.77?lang=eng#76).)
 
 I wish the Aaronic Priesthood boys throughout the Church could have the same
 opportunity of hearing Elder Howard W. Hunter bless the sacrament as we have
@@ -152,9 +151,8 @@ his disciples that they should bring forth some bread and wine unto him. ...
 "He took of the bread and brake and blessed it; and he gave unto the disciples
 and commanded that they should eat.
 
-"And when they had eaten ... , he commanded that they should give unto the
-multitude." ([3 Ne. 18:1,
-3-4](https://www.lds.org/scriptures/bofm/3-ne/18.1%2C3-4?lang=eng#0).)
+"And when they had eaten ..., he commanded that they should give unto the
+multitude." ([3 Ne. 18:1, 3-4](/scriptures/bofm/3-ne/18.1,3-4?lang=eng#0).)
 
 The Savior instructed, "give it unto the people of my church, unto all those
 who shall believe and be baptized in my name.
@@ -169,8 +167,7 @@ always remember me ye shall have my Spirit to be with you.
 
 "And I give unto you a commandment that ye shall do these things. And if ye
 shall always do these things blessed are ye, for ye are built upon my rock."
-([3 Ne. 18:5-6,
-11-12](https://www.lds.org/scriptures/bofm/3-ne/18.5-6%2C11-12?lang=eng#4).)
+([3 Ne. 18:5-6, 11-12](/scriptures/bofm/3-ne/18.5-6,11-12?lang=eng#4).)
 
 The weekly opportunity of partaking of the sacrament of the Lord's Supper is
 one of the most sacred ordinances of The Church of Jesus Christ of Latter-day
@@ -194,11 +191,11 @@ spiritual healing can come to our souls. You and I have felt it.
 By revelation the Lord instructed that "the members shall manifest before the
 church, and also before the elders, by a godly walk and conversation, that
 they are worthy ... walking in holiness before the Lord." ([D&amp;C
-20:69](https://www.lds.org/scriptures/dc-testament/dc/20.69?lang=eng#68).)
+20:69](/scriptures/dc-testament/dc/20.69?lang=eng#68).)
 
 The Savior also taught: "Ye shall not suffer any one knowingly to partake of
 my flesh and blood unworthily." ([3 Ne.
-18:28](https://www.lds.org/scriptures/bofm/3-ne/18.28?lang=eng#27).)
+18:28](/scriptures/bofm/3-ne/18.28?lang=eng#27).)
 
 Some years ago Elder Melvin J. Ballard wrote:
 
@@ -212,8 +209,8 @@ food." (_Crusader for Righteousness_ [Salt Lake City, Bookcraft, 1966], p.
 During the administration and passing of the sacrament those present have the
 opportunity to think of the precious gifts available through His sacrifice for
 each of us, for the sacrament is blessed and sanctified that each may partake
-of it in remembrance of the Son of God. (See [D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76).)
+of it in remembrance of the Son of God. (See [D&amp;C 20:77](/scriptures/dc-
+testament/dc/20.77?lang=eng#76).)
 
 Usually once a week, for a little more than an hour, we have the opportunity
 to attend sacrament meeting and reflect on the life of our Savior; to recall
@@ -227,7 +224,7 @@ my Father, because my Father sent me.
 
 "And my Father sent me that I might be lifted up upon the cross; ... that I
 might draw all men unto me." ([3 Ne.
-27:13-14](https://www.lds.org/scriptures/bofm/3-ne/27.13-14?lang=eng#12).)
+27:13-14](/scriptures/bofm/3-ne/27.13-14?lang=eng#12).)
 
 As we partake of the sacrament and reflect upon His sacrifice for each of us,
 we make a solemn commitment to keep the commandments which He has given us,
@@ -237,7 +234,7 @@ the commandments of God, to live uprightly, virtuously, and honestly. Did not
 Jesus Himself sum them all up as follows: "Love the Lord thy God with all thy
 heart, and with all thy soul, and with all thy strength, and with all thy
 mind; and thy neighbour as thyself." ([Luke
-10:27](https://www.lds.org/scriptures/nt/luke/10.27?lang=eng#26).)
+10:27](/scriptures/nt/luke/10.27?lang=eng#26).)
 
 This is what every person who partakes of the sacrament is committed to do.
 Living God's commandments obligates a person to a life of goodness--goodness
@@ -271,4 +268,6 @@ labor to bring to pass His ultimate purpose--the eternal life of man.
 
 I bear you my humble testimony and witness that this is true, in the name of
 our Lord Jesus Christ, amen.
+
+## References
 

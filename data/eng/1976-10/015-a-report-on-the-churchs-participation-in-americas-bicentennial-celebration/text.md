@@ -181,9 +181,11 @@ now we can behold the decrees of God concerning this land, that it is a land
 of promise; and whatsoever nation shall possess it shall serve God, or they
 shall be swept off when the fulness of his wrath shall come upon them. ... [For
 this] is the everlasting decree of God." ([Ether
-2:9-10](https://www.lds.org/scriptures/bofm/ether/2.9-10?lang=eng#8).)
+2:9-10](/scriptures/bofm/ether/2.9-10?lang=eng#8).)
 
 As we start a new century, may it be a new beginning of governing with
 righteousness based on the eternal laws of God, I humbly pray in the name of
 Jesus Christ. Amen.
+
+## References
 

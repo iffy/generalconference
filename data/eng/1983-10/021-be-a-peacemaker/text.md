@@ -43,14 +43,14 @@ From the Passover Feast of nineteen centuries ago came this great message of
 promise and exhortation from our Lord and Savior Jesus Christ: "Peace I leave
 with you, my peace I give unto you: not as the world giveth, give I unto you.
 Let not your heart be troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 Jesus Christ is called the Prince of Peace (see [Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5)), and his message
-is a message of peace to the individual and to the world. The gospel of Jesus
-Christ is the plan of life that will restore peace to the world, remove inner
-tensions and troubles, and bring happiness to the human soul. It is the
-greatest philosophy of life ever given to man.
+9:6](/scriptures/ot/isa/9.6?lang=eng#5)), and his message is a message of
+peace to the individual and to the world. The gospel of Jesus Christ is the
+plan of life that will restore peace to the world, remove inner tensions and
+troubles, and bring happiness to the human soul. It is the greatest philosophy
+of life ever given to man.
 
 A mission of The Church of Jesus Christ of Latter-day Saints is to establish
 this peace and happiness in the hearts and homes of the people.
@@ -65,9 +65,8 @@ Part of this sermon is referred to as the Beatitudes, and these begin with the
 word _Blessed._ These Beatitudes outline conditions which bring about peace
 and happiness. In this great sermon, the Savior admonished all to be
 peacemakers as he said, "Blessed are the peacemakers: for they shall be called
-the children of God." ([Matt.
-5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8).) _Blessed_ means
-happy, favored, and glorified.
+the children of God." ([Matt. 5:9](/scriptures/nt/matt/5.9?lang=eng#8).)
+_Blessed_ means happy, favored, and glorified.
 
 If ever there was a time when we needed peacemakers, it is today; today seems
 to be a most appropriate time to discuss what we might do to assist in
@@ -148,16 +147,16 @@ Jesus, in the Sermon on the Mount, said:
 "Judge not, that ye be not judged.
 
 "For with what judgment ye judge, ye shall be judged." ([Matt.
-7:1-2](https://www.lds.org/scriptures/nt/matt/7.1-2?lang=eng#0).)
+7:1-2](/scriptures/nt/matt/7.1-2?lang=eng#0).)
 
 We can also be a peacemaker by practicing and teaching forgiveness. Jesus was
 asked how many times one should forgive, and he replied that we should forgive
 without limit. Forgive him "seventy times seven." ([Matt.
-18:22](https://www.lds.org/scriptures/nt/matt/18.22?lang=eng#21).)
+18:22](/scriptures/nt/matt/18.22?lang=eng#21).)
 
 In modern revelation, the Lord has said, "Inasmuch as you have forgiven one
 another your trespasses, even so I, the Lord, forgive you." ([D&amp;C
-82:1](https://www.lds.org/scriptures/dc-testament/dc/82.1?lang=eng#0).)
+82:1](/scriptures/dc-testament/dc/82.1?lang=eng#0).)
 
 An important part of forgiving is forgetting. In some ways, being able to
 forget is almost as valuable as being able to remember.
@@ -171,7 +170,7 @@ such circumstances, patience will develop within us the capacity to accept
 criticism if warranted or not. The ability to exercise forbearance under
 provocation means that we are following the Savior's teachings to do good to
 those that despitefully use us and to turn the other cheek. (See [Matt. 5:39,
-44](https://www.lds.org/scriptures/nt/matt/5.39%2C44?lang=eng#38).)
+44](/scriptures/nt/matt/5.39,44?lang=eng#38).)
 
 Patience is truly a mighty virtue and can be developed as we become
 peacemakers and make up our mind to be patient within our own life as well as
@@ -203,4 +202,6 @@ courage and good judgment to follow his counsel and advice.
 May each of us in our daily lives assume the role of peacemaker that we may
 enjoy the peace that surpasseth all understanding, I pray in the name of Jesus
 Christ, amen.
+
+## References
 

@@ -28,11 +28,11 @@ wanting reassurance.
 
 I, along with you, have taken great consolation in the scriptures as they tell
 us that not even a sparrow falls to the ground without our Father knowing.
-(See [Matt. 10:29](https://www.lds.org/scriptures/nt/matt/10.29?lang=eng#28).)
-We believe the scriptures, but when it happens to _our_ loved one or _our_
-friend, the question of why still rings. I do not have all the answers, but
-hopefully the following experience, which happened several years ago, may be
-helpful to some who are still battling the question of why.
+(See [Matt. 10:29](/scriptures/nt/matt/10.29?lang=eng#28).) We believe the
+scriptures, but when it happens to _our_ loved one or _our_ friend, the
+question of why still rings. I do not have all the answers, but hopefully the
+following experience, which happened several years ago, may be helpful to some
+who are still battling the question of why.
 
 On a small Pacific island an infant girl was born to a faithful family. They
 called her Felila. There was happiness and joy as this grateful spirit made
@@ -138,7 +138,7 @@ wherefore, brethren, despise not the revelations of God. ...
 "Seek not to counsel the Lord, but to take counsel from his hand. For behold,
 ye yourselves know that he counseleth in wisdom, and in justice, and in great
 mercy, over all his works." ([Jacob 4:8,
-10](https://www.lds.org/scriptures/bofm/jacob/4.8%2C10?lang=eng#7).)
+10](/scriptures/bofm/jacob/4.8,10?lang=eng#7).)
 
 I testify that there is total and complete justice in eternity. God's dealings
 with man have no tinge of partiality or of favoritism or of capriciousness or
@@ -171,4 +171,6 @@ caring totally gave his all, and in giving his all, lives forever, and in
 living forever, rules eternally, and in ruling eternally, cares omnipotently,
 whose coming and going is one eternal round I pray in his name, even the
 sacred name of Jesus Christ, amen.
+
+## References
 

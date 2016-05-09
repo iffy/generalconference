@@ -15,8 +15,7 @@ tragedies that are so difficult we cannot understand them. We do not have an
 answer in this life for every adversity. When trials come, it is time to turn
 our souls to God, who is the author of life and the only source of comfort.
 "Peace I leave with you, my peace I give unto you: not as the world giveth,
-give I unto you." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+give I unto you." ([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 Some months ago I heard that the wife of a friend was again threatening
 miscarriage. I hurried, along with others who were concerned about the baby,
@@ -69,8 +68,7 @@ because of pain, and to bleed at every pore, and to suffer both body and
 spirit--and would that I might not drink the bitter cup, and shrink--
 
 "Nevertheless, glory be to the Father, and I partook and finished my
-preparations unto the children of men." ([D&amp;C
-19:18-19](https://www.lds.org/scriptures/dc-
+preparations unto the children of men." ([D&amp;C 19:18-19](/scriptures/dc-
 testament/dc/19.18-19?lang=eng#17).)
 
 Christ has suffered more than any of us, and He knows the intensity of our
@@ -79,10 +77,10 @@ Gethsemane and on Calvary. That is why He understands and can help us.
 
 Christ stated: "I am the resurrection, and the life: he that believeth in me,
 though he were dead, yet shall he live." ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24).) The
-greatest tragedy that can happen to a person is not the loss of his
-possessions, or his intellect, or his mortal life, but rather to lose eternal
-life, which is the free gift of God.
+11:25](/scriptures/nt/john/11.25?lang=eng#24).) The greatest tragedy that can
+happen to a person is not the loss of his possessions, or his intellect, or
+his mortal life, but rather to lose eternal life, which is the free gift of
+God.
 
 The scriptures are a witness of the various prophets--ordinary people, with
 extraordinary callings--who faced great tribulation and opposition. Father
@@ -102,8 +100,7 @@ that the more he struggled to bless the lives of others, the greater was his
 opposition. He went to the Lord seeking justice. Christ did understand Joseph
 and suggested to him that he might have to suffer more. The Lord told him:
 "The Son of Man hath descended below them all. Art thou greater than he?"
-([D&amp;C 122:8](https://www.lds.org/scriptures/dc-
-testament/dc/122.8?lang=eng#7).)
+([D&amp;C 122:8](/scriptures/dc-testament/dc/122.8?lang=eng#7).)
 
 Later, Joseph, with more understanding of the will and purposes of his Savior,
 accepted his glorious destiny by offering his life. It is not important to
@@ -118,10 +115,12 @@ heavenly things do we begin to understand the eternities. Only with the help
 of Christ can we fully overcome tragedy. It is necessary to develop our faith
 in Him as the Redeemer of the world. He taught us: "In the world ye shall have
 tribulation: but be of good cheer; I have overcome the world." ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).) It is my
-prayer that when we have afflictions we will follow the pattern that He taught
-during His bitter experience in Gethsemane. He said: "If thou be willing,
-remove this cup from me: nevertheless not my will, but thine, be done." ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41).) This I
-testify in the name of Jesus Christ, amen.
+16:33](/scriptures/nt/john/16.33?lang=eng#32).) It is my prayer that when we
+have afflictions we will follow the pattern that He taught during His bitter
+experience in Gethsemane. He said: "If thou be willing, remove this cup from
+me: nevertheless not my will, but thine, be done." ([Luke
+22:42](/scriptures/nt/luke/22.42?lang=eng#41).) This I testify in the name of
+Jesus Christ, amen.
+
+## References
 

@@ -1,4 +1,4 @@
-# The Purpose of Life: To Be Proved
+# The Purpose of Life:To Be Proved
 
 My dear brothers and sisters, I stand before you with a humble heart. I am
 grateful for the privilege of attending this semiannual conference and have
@@ -8,8 +8,7 @@ time in the history of the world.
 
 When Adam was cast out of the Garden of Eden, he was told that "in the sweat
 of thy face shalt thou eat bread, till thou return unto the ground; for out of
-it wast thou taken." ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18).)
+it wast thou taken." ([Gen. 3:19](/scriptures/ot/gen/3.19?lang=eng#18).)
 
 I am told that over the entrance to a great European university campus there
 is an inscription that says that "nothing worthwhile ever comes to a person
@@ -53,8 +52,7 @@ The members of the Church in Missouri were being persecuted, and the Prophet
 Joseph made it a matter of prayer and received a revelation on February 24,
 1834. The Lord instructed the Prophet to assemble at least one hundred young
 and middle-aged men and to go to the land of Zion, or Missouri. (See [D&amp;C
-130:19-34](https://www.lds.org/scriptures/dc-
-testament/dc/130.19-34?lang=eng#18).)
+130:19-34](/scriptures/dc-testament/dc/130.19-34?lang=eng#18).)
 
 Zion's Camp, a group of approximately one hundred and fifty men, gathered at
 Kirtland, Ohio, in the spring of 1834 and marched to western Missouri. By the
@@ -127,8 +125,7 @@ The answer came as God replied, "My son, peace be unto thy soul; thine
 adversity and thine afflictions shall be but a small moment;
 
 "And then, _if thou endure it well, _God shall exalt thee on high." ([D&amp;C
-121:7-8](https://www.lds.org/scriptures/dc-testament/dc/121.7-8?lang=eng#6).
-Italics added.)
+121:7-8](/scriptures/dc-testament/dc/121.7-8?lang=eng#6). Italics added.)
 
 The Prophet Joseph was told that if great tribulation should beset him and
 even "if the very jaws of hell shall gape open the mouth wide after thee, know
@@ -136,8 +133,7 @@ thou, my son, that all these things shall give thee experience, and shall be
 for thy good.
 
 "The Son of Man hath descended below them all. Art thou greater than he?"
-([D&amp;C 122:7-8](https://www.lds.org/scriptures/dc-
-testament/dc/122.7-8?lang=eng#6).)
+([D&amp;C 122:7-8](/scriptures/dc-testament/dc/122.7-8?lang=eng#6).)
 
 One of the great truths that came from the so-called prison temple, Liberty
 Jail, had to do with priesthood and Church government. This is found in the
@@ -150,8 +146,7 @@ aspire to the honors of men, that they do not learn this one lesson--
 
 "That the rights of the priesthood are inseparably connected with the powers
 of heaven, and that the powers of heaven cannot be controlled nor handled only
-upon the principles of righteousness." ([D&amp;C
-121:34-35](https://www.lds.org/scriptures/dc-
+upon the principles of righteousness." ([D&amp;C 121:34-35](/scriptures/dc-
 testament/dc/121.34-35?lang=eng#33).)
 
 On one occasion the Prophet Joseph Smith was asked how he governed his people.
@@ -185,8 +180,7 @@ our hearts upon the things of the world, and as we exercise our priesthood,
 let us incorporate the great principle of righteous dominion. By so doing and
 keeping the commandments of the Lord, we shall have joy, happiness, growth,
 and development and "eternal life, which is the greatest of all the gifts of
-God." ([D&amp;C 14:7](https://www.lds.org/scriptures/dc-
-testament/dc/14.7?lang=eng#6).)
+God." ([D&amp;C 14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).)
 
 Like those who participated in the Zion's Camp and Liberty Jail episodes, I
 can bear witness that God lives and that Jesus is the Christ--the Holy Ghost
@@ -201,4 +195,6 @@ Liberty Jail, and remember that when trials, tribulations, and hardships come
 to us, as they will, these are the tests that we must meet in order to enjoy
 eternal life. May we meet them successfully, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

@@ -92,7 +92,7 @@ been deeply homesick? Repentant, and hoping his father would accept him as a
 servant, he finally returned home. His father rejoiced, welcoming him back
 with open arms and complete acceptance. He no doubt knew that welcoming his
 wayward son was crucial if he hoped to ever return to his heavenly home. (See
-[Luke 15:11-32](https://www.lds.org/scriptures/nt/luke/15.11-32?lang=eng#10).)
+[Luke 15:11-32](/scriptures/nt/luke/15.11-32?lang=eng#10).)
 
 Over the years I've counseled with many whose homesickness threatened to
 interfere with their missions, marriages, and families.
@@ -190,8 +190,7 @@ pleased." (_A Mind Awake,_ New York: Harcourt Brace Jovanovich, 1968, p. 168.)
 The prophet Mormon put it another way: "Why are ye ashamed to take upon you
 the name of Christ? Why do ye not think that greater is the value of an
 endless happiness than that misery which never dies--because of the praise of
-the world?" ([Morm.
-8:38](https://www.lds.org/scriptures/bofm/morm/8.38?lang=eng#37).)
+the world?" ([Morm. 8:38](/scriptures/bofm/morm/8.38?lang=eng#37).)
 
 When we have a yearning and don't know what it is for, perhaps it's our soul
 longing for its heartland, longing to be no longer alienated from the Lord and
@@ -202,7 +201,7 @@ After Joseph, youngest son of Jacob, had been reunited with his brothers, he
 asked them to return home to Canaan to bring his father, Jacob, to him in
 Egypt. As the brothers were preparing to depart, Joseph said to them simply,
 "See that ye fall not out by the way." ([Gen.
-45:24](https://www.lds.org/scriptures/ot/gen/45.24?lang=eng#23).)
+45:24](/scriptures/ot/gen/45.24?lang=eng#23).)
 
 Might our Heavenly Father have given us much the same counsel as we departed
 his presence to begin our earthly sojourn?
@@ -210,4 +209,6 @@ his presence to begin our earthly sojourn?
 May our yearning for home be the motivation we need to so live that we can
 return to our heavenly home with God our Father on a forever basis, I humbly
 pray in the name of Jesus Christ, amen.
+
+## References
 

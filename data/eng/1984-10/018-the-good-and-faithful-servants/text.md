@@ -7,13 +7,13 @@ go into the world as a representative of the Lord Jesus Christ.
 
 I wish to say to you boys, you should prepare for that great responsibility.
 Coach Edwards talked to you about the importance of preparation. The Lord
-said, "If ye are prepared, ye shall not fear" ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
-This is the day of preparation for you boys, whether you are twelve or
-fourteen or sixteen or eighteen. Watch yourselves. Never use language when you
-are with your friends that would be incompatible with the calling that will
-come to you, if you are worthy of it, to go into the world to represent this
-church and to serve as an ambassador of the Lord. God bless you to this end.
+said, "If ye are prepared, ye shall not fear" ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29).) This is the day of preparation for you boys,
+whether you are twelve or fourteen or sixteen or eighteen. Watch yourselves.
+Never use language when you are with your friends that would be incompatible
+with the calling that will come to you, if you are worthy of it, to go into
+the world to represent this church and to serve as an ambassador of the Lord.
+God bless you to this end.
 
 I hope that you have listened carefully to what Coach LaVell Edwards has said.
 He is a winner who believes in training and in following the rules of the
@@ -105,4 +105,6 @@ good and faithful servant."
 
 I invoke the blessings of heaven upon each of you and upon your loved ones and
 do it with gratitude in my heart, in the name of Jesus Christ, amen.
+
+## References
 

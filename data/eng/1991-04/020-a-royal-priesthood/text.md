@@ -47,8 +47,8 @@ Perhaps the young man remembered the bold declaration of the Apostle Peter:
 "Ye are a chosen generation, a royal priesthood, an holy nation, a peculiar
 people; that ye should shew forth the praises of him who hath called you out
 of darkness into his marvellous light." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).) Brethren, be
-loyal to the royal within you.
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).) Brethren, be loyal to the royal
+within you.
 
 My thoughts of late have focused upon the words of the Savior during the week
 of the atoning sacrifice, when He said: "Come, ye blessed of my Father,
@@ -69,8 +69,7 @@ hungred, and fed thee? or thirsty, and gave thee drink?
 
 "And the King shall answer and say unto them, Verily I say unto you, Inasmuch
 as ye have done it unto one of the least of these my brethren, ye have done it
-unto me." ([Matt.
-25:34-40](https://www.lds.org/scriptures/nt/matt/25.34-40?lang=eng#33).)
+unto me." ([Matt. 25:34-40](/scriptures/nt/matt/25.34-40?lang=eng#33).)
 
 Brethren, we wish to commend you for your faith in living the law of the fast
 and your generosity in the contribution of your fast offerings. We also
@@ -108,8 +107,7 @@ skills are imparted among neighbors, many thousands stand to benefit.
 Released from the confinement of poverty and want, they will then be better
 able to receive the spiritual gifts He holds in store for them. We, by our
 efforts to assist them, will better understand His words, "I was in prison,
-and ye came unto me." ([Matt.
-25:36](https://www.lds.org/scriptures/nt/matt/25.36?lang=eng#35).)
+and ye came unto me." ([Matt. 25:36](/scriptures/nt/matt/25.36?lang=eng#35).)
 
 The children in African nations are receiving immunizations in an effort to
 eradicate common communicable diseases by the end of the century. A specific
@@ -128,14 +126,14 @@ These efforts not only relieve discomfort and pain, they also brighten the
 smiles, lift the spirits, and gladden the hearts of homeless patients. The
 words of the Master bring peace to the souls of all who participate in such
 endeavors: "I was a stranger, and ye took me in." ([Matt.
-25:35](https://www.lds.org/scriptures/nt/matt/25.35?lang=eng#34).)
+25:35](/scriptures/nt/matt/25.35?lang=eng#34).)
 
 In the Philippines, the Church provides assistance to the Mabuhay Deseret
 Foundation, which aids hundreds of children to receive operations to repair
 deformed palates and lips and to correct untreated fractures or burns.
 Children once shunned now live normal lives. The spring of their step and the
 sound of their joy seem to echo, "I was sick, and ye visited me." ([Matt.
-25:36](https://www.lds.org/scriptures/nt/matt/25.36?lang=eng#35).)
+25:36](/scriptures/nt/matt/25.36?lang=eng#35).)
 
 Generous contributions of wearing apparel to Deseret Industries are being used
 to clothe men, women, and children around the world. Clothing is sorted,
@@ -145,7 +143,7 @@ and comforted those exiled in refugee centers and orphanages. The bright
 patterns and sound fabrics considered surplus by the donors are now new and
 wonderful attire to the aged and impoverished. Meaning is given to the words,
 "I was ... naked and ye clothed me." ([Matt.
-25:35-36](https://www.lds.org/scriptures/nt/matt/25.35-36?lang=eng#34).)
+25:35-36](/scriptures/nt/matt/25.35-36?lang=eng#34).)
 
 The Church's humanitarian efforts are reaching the hungry and homeless of many
 American cities. Throughout the state of Utah, among the border towns of
@@ -157,7 +155,7 @@ processed and packaged in Church canneries and distributed through
 storehouses, where Church welfare recipients and volunteers labor to assist
 their poor and needy neighbors within and outside the Church. Many could say
 with feeling, "I was an hungred, and ye gave me meat." ([Matt.
-25:35](https://www.lds.org/scriptures/nt/matt/25.35?lang=eng#34).)
+25:35](/scriptures/nt/matt/25.35?lang=eng#34).)
 
 Far away in the foothills on the western slopes of Mt. Kenya, along the fringe
 of the colossal Rift Valley, pure water is coming to the thirsty people. A
@@ -166,7 +164,7 @@ with TechnoServe, a private voluntary organization, the Church is assisting in
 a project that will pipe drinkable water through twenty-five miles of pipes to
 waiting homes in a fifteen-village area. The simple blessing of safe drinking
 water recalls the words of the Savior, "I was thirsty, and ye gave me drink."
-([Matt. 25:35](https://www.lds.org/scriptures/nt/matt/25.35?lang=eng#34).)
+([Matt. 25:35](/scriptures/nt/matt/25.35?lang=eng#34).)
 
 In behalf of the hundreds of thousands who have benefited by your generous
 fast offering contributions--children who now walk, who smile, who are fed and
@@ -181,17 +179,17 @@ this water shall thirst again:
 "But whosoever drinketh of the water that I shall give him shall never thirst;
 but the water that I shall give him shall be in him a well of water springing
 up into everlasting life." ([John
-4:13-14](https://www.lds.org/scriptures/nt/john/4.13-14?lang=eng#12).)
+4:13-14](/scriptures/nt/john/4.13-14?lang=eng#12).)
 
 The gospel of the Lord Jesus Christ provides all of us this cherished
 blessing. King Benjamin, in his memorable message, declared, "When ye are in
 the service of your fellow beings ye are only in the service of your God."
-([Mosiah 2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).)
+([Mosiah 2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).)
 
 Brethren of the priesthood, each of us is so employed. Ours is the
 responsibility to teach, to lift, to build, and to inspire our fellowmen, for
 "the worth of souls is great in the sight of God." ([D&amp;C
-18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).)
+18:10](/scriptures/dc-testament/dc/18.10?lang=eng#9).)
 
 There are examples all around us of those who have recognized in others the
 need, even the thirst, for these "living waters," who have through their own
@@ -300,22 +298,23 @@ daughter, and to all who made a difference in the unfolding of eternal
 blessings for Shelley and his family.
 
 Our Lord and Savior said, "Come, follow me." ([Luke
-18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).) When we
-accept His invitation and walk in His footsteps, He will direct our paths. His
-gentle voice guides us in life's journey and reminds us of our duty: "Lay not
-up for yourselves treasures upon earth, where moth and rust doth corrupt, and
-where thieves break through and steal:
+18:22](/scriptures/nt/luke/18.22?lang=eng#21).) When we accept His invitation
+and walk in His footsteps, He will direct our paths. His gentle voice guides
+us in life's journey and reminds us of our duty: "Lay not up for yourselves
+treasures upon earth, where moth and rust doth corrupt, and where thieves
+break through and steal:
 
 "But lay up for yourselves treasures in heaven, where neither moth nor rust
 doth corrupt, and where thieves do not break through nor steal:
 
 "For where your treasure is, there will your heart be also." ([Matt.
-6:19-21](https://www.lds.org/scriptures/nt/matt/6.19-21?lang=eng#18).)
+6:19-21](/scriptures/nt/matt/6.19-21?lang=eng#18).)
 
 May we hear His voice. May we follow His example. May we live His teachings.
 Then we will be as the Apostle Peter declared, even a "royal priesthood." May
 each of us earn the tribute spoken of our Lord: He "went about doing good ...
-for God was with him." ([Acts
-10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).) This is my
-prayer in the name of Jesus Christ, amen.
+for God was with him." ([Acts 10:38](/scriptures/nt/acts/10.38?lang=eng#37).)
+This is my prayer in the name of Jesus Christ, amen.
+
+## References
 

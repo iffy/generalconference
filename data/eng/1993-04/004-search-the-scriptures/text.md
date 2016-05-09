@@ -25,8 +25,7 @@ find ourselves going the wrong way on a one-way highway.
 The Savior gave us a clear concept of what constitutes scripture. Speaking of
 the early elders in this dispensation, he said: "And whatsoever they shall
 speak when moved upon by the Holy Ghost shall be scripture, shall be the will
-of the Lord." ([D&amp;C 68:4](https://www.lds.org/scriptures/dc-
-testament/dc/68.4?lang=eng#3).)
+of the Lord." ([D&amp;C 68:4](/scriptures/dc-testament/dc/68.4?lang=eng#3).)
 
 Scriptures reveal the divine desires of the Lord in our behalf. Each of us
 should have a burning desire to search the scriptures diligently and daily to
@@ -41,7 +40,7 @@ in the scriptures, and my heart pondereth them. ...
 
 "Behold, my soul delighteth in the things of the Lord; and my heart pondereth
 continually upon the things which I have seen and heard." ([2 Ne.
-4:15-16](https://www.lds.org/scriptures/bofm/2-ne/4.15-16?lang=eng#14).)
+4:15-16](/scriptures/bofm/2-ne/4.15-16?lang=eng#14).)
 
 We should show great respect and reverence for these sacred revelations. We
 should have feelings of gratitude for those who recorded and preserved these
@@ -51,14 +50,14 @@ Jacob, one of the four major writers of the Book of Mormon, expressed concerns
 that he could write but a small portion of his words on the plates. He
 recorded that he would be limited in his writing "because of the difficulty of
 engraving our words upon plates." ([Jacob
-4:1](https://www.lds.org/scriptures/bofm/jacob/4.1?lang=eng#0).) Even with the
-difficulty of the task, Jacob felt it important to use a portion of the plates
-to express his tender feelings as to how he hoped that we would receive the
-words he had written. He said: "And we labor diligently to engraven these
-words upon plates, hoping that our beloved brethren and our children will
-receive them with thankful hearts, and look upon them that they may learn with
-joy and not with sorrow, neither with contemp." ([Jacob
-4:3](https://www.lds.org/scriptures/bofm/jacob/4.3?lang=eng#2).)
+4:1](/scriptures/bofm/jacob/4.1?lang=eng#0).) Even with the difficulty of the
+task, Jacob felt it important to use a portion of the plates to express his
+tender feelings as to how he hoped that we would receive the words he had
+written. He said: "And we labor diligently to engraven these words upon
+plates, hoping that our beloved brethren and our children will receive them
+with thankful hearts, and look upon them that they may learn with joy and not
+with sorrow, neither with contemp." ([Jacob
+4:3](/scriptures/bofm/jacob/4.3?lang=eng#2).)
 
 Some have suffered death to make it possible for us to have the scriptures
 today. Historically, the scriptures in the Bible were reserved for the clergy,
@@ -76,12 +75,12 @@ the presence of the Savior. John was specific in giving the purpose of the
 scriptures when he said: "But these [things] are written, that ye might
 believe that Jesus is the Christ, the Son of God; and that believing ye might
 have life through his name." ([John
-20:31](https://www.lds.org/scriptures/nt/john/20.31?lang=eng#30).)
+20:31](/scriptures/nt/john/20.31?lang=eng#30).)
 
 Nephi bore witness as to the reason he had recorded the revelations when he
 said: "And I, Nephi, have written these things unto my people, that perhaps I
 might persuade them that they would remember the Lord their Redeemer." ([1 Ne.
-19:18](https://www.lds.org/scriptures/bofm/1-ne/19.18?lang=eng#17).)
+19:18](/scriptures/bofm/1-ne/19.18?lang=eng#17).)
 
 ## Importance
 
@@ -98,8 +97,7 @@ which were engraven on the brass plates that the Lord commanded Nephi to slay
 Laban in order to obtain them. The Lord knew of their importance for the
 spiritual nourishment of Lehi and his descendants. He explained: "It is better
 that one man should perish than that a nation should dwindle and perish in
-unbelief." ([1 Ne.
-4:13](https://www.lds.org/scriptures/bofm/1-ne/4.13?lang=eng#12).)
+unbelief." ([1 Ne. 4:13](/scriptures/bofm/1-ne/4.13?lang=eng#12).)
 
 In contrast, the Mulekites, who migrated to the American continent shortly
 after Lehi and his family left Jerusalem, failed to bring with them any sacred
@@ -109,7 +107,7 @@ scriptures:
 "They had had many wars and serious contentions, and had fallen by the sword
 from time to time; and their language had become corrupted; and they had
 brought no records with them; and they denied the being of their Creator."
-([Omni 1:17](https://www.lds.org/scriptures/bofm/omni/1.17?lang=eng#16).)
+([Omni 1:17](/scriptures/bofm/omni/1.17?lang=eng#16).)
 
 Even more serious than their continuous contentions and wars and the
 corruption of their language was the tragedy that they did not know the
@@ -120,9 +118,8 @@ searching the scriptures, they cease to know the Savior.
 
 The Savior provided counsel as to the way we should study scripture. He said:
 "And now, whoso readeth, let him understand; he that hath the scriptures, let
-him search them." ([3 Ne.
-10:14](https://www.lds.org/scriptures/bofm/3-ne/10.14?lang=eng#13).) The
-Prophet Joseph Smith counseled:
+him search them." ([3 Ne. 10:14](/scriptures/bofm/3-ne/10.14?lang=eng#13).)
+The Prophet Joseph Smith counseled:
 
 "Search the scriptures--search the revelations ... and ask your Heavenly Father,
 in the name of His Son Jesus Christ, to manifest the truth unto you, and if
@@ -140,17 +137,12 @@ If we are to be effective in our study of the scriptures, we must prepare for
 it to be a special spiritual experience. The following suggestions may be
 helpful.
 
-  1. Schedule
-
-  2. Pray
-
-  3. Search
-
-  4. Ponder
-
-  5. Relate
-
-  6. Apply
+  1. Schedule 
+  2. Pray 
+  3. Search 
+  4. Ponder 
+  5. Relate 
+  6. Apply 
 
 ## Conclusion
 
@@ -159,4 +151,6 @@ for the plain and precious principles, the Lord will reveal his will unto us
 and we will be richly blessed. If we research the revelations and respond
 correctly to them, we will return home safely to Heavenly Father. To this I so
 testify in the sacred name of Jesus Christ, amen.
+
+## References
 

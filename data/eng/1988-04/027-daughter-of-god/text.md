@@ -28,9 +28,7 @@ and with all thy mind.
 "This is the first and great commandment.
 
 "And the second is _like unto it,_ thou shalt love thy neighbour as thyself"
-([Matt.
-22:37-39](https://www.lds.org/scriptures/nt/matt/22.37-39?lang=eng#36);
-italics added).
+([Matt. 22:37-39](/scriptures/nt/matt/22.37-39?lang=eng#36); italics added).
 
 Yesterday, our beloved prophet, President Ezra Taft Benson, said that above
 everything we do in our lives, we must place the first commandment
@@ -43,43 +41,39 @@ Father in Heaven, don't you think your wife is the closest neighbor that you
 can have?
 
 The Lord said, "Thou shalt love thy wife with all thy heart" ([D&amp;C
-42:22](https://www.lds.org/scriptures/dc-testament/dc/42.22?lang=eng#21)).
+42:22](/scriptures/dc-testament/dc/42.22?lang=eng#21)).
 
-Truly, "marriage is ordained of God" ([D&amp;C
-49:15](https://www.lds.org/scriptures/dc-testament/dc/49.15?lang=eng#14)).
-"Marriage is honorable in all" ([Heb.
-13:4](https://www.lds.org/scriptures/nt/heb/13.4?lang=eng#3)).
+Truly, "marriage is ordained of God" ([D&amp;C 49:15](/scriptures/dc-
+testament/dc/49.15?lang=eng#14)). "Marriage is honorable in all" ([Heb.
+13:4](/scriptures/nt/heb/13.4?lang=eng#3)).
 
 ## Abraham's Commitment
 
 When the Lord told Abraham to offer his only son, Isaac, on Mt. Moriah,
 Abraham took Isaac, two servants, and a donkey and built an altar (see [Gen.
-22:2-3](https://www.lds.org/scriptures/ot/gen/22.2-3?lang=eng#1)). On the way,
-Isaac asked, "Where is the lamb for a burnt offering?" Though Father Abraham
-knew that Isaac was the one, he said, "My son, God will provide" ([Gen.
-22:7-8](https://www.lds.org/scriptures/ot/gen/22.7-8?lang=eng#6)).
+22:2-3](/scriptures/ot/gen/22.2-3?lang=eng#1)). On the way, Isaac asked,
+"Where is the lamb for a burnt offering?" Though Father Abraham knew that
+Isaac was the one, he said, "My son, God will provide" ([Gen.
+22:7-8](/scriptures/ot/gen/22.7-8?lang=eng#6)).
 
 When the time came, Abraham was willing to offer Isaac, and Isaac did not run
-away ([Gen.
-22:9-11](https://www.lds.org/scriptures/ot/gen/22.9-11?lang=eng#8)). Brothers
-and sisters, in our marriages, we need both the commitment of Abraham and also
-the spirit of Isaac.
+away ([Gen. 22:9-11](/scriptures/ot/gen/22.9-11?lang=eng#8)). Brothers and
+sisters, in our marriages, we need both the commitment of Abraham and also the
+spirit of Isaac.
 
 ## Behold Thy Mother
 
 At the time of his unendurable agony, the Savior looked down on his mother,
 Mary, and introduced John to her, saying, "Woman, behold thy son!" And to John
 he said, "Behold thy mother!" The scripture records that John "took her unto
-his own home" ([John
-19:26-27](https://www.lds.org/scriptures/nt/john/19.26-27?lang=eng#25)).
+his own home" ([John 19:26-27](/scriptures/nt/john/19.26-27?lang=eng#25)).
 
 Are we worthy to be entrusted by the Lord to take care of one of our Heavenly
 Father's daughters?
 
 The Savior must have a special feeling toward the women of the world, because
 the first person that saw the resurrected Lord was a woman, Mary Magdalene.
-Oh, how special that was! (see [John
-20](https://www.lds.org/scriptures/nt/john/20.title?lang=eng)).
+Oh, how special that was! (see [John 20](/scriptures/nt/john/20?lang=eng)).
 
 ## Jonathon H. Napela
 
@@ -99,15 +93,14 @@ brought out a local gentleman. The previous night, this man had had a dream
 that a messenger of God was coming to his town and that he must feed him.
 Elder Cannon was invited to stay and preach in the home of this man, Jonathon
 H. Napela, who was a very well-educated man and the magistrate of that
-district (see [Alma
-10:4](https://www.lds.org/scriptures/bofm/alma/10.4?lang=eng#3)).
+district (see [Alma 10:4](/scriptures/bofm/alma/10.4?lang=eng#3)).
 
 Subsequently, Elder Cannon and Jonathon Napela became very close friends, like
 Alma and Amulek in the Book of Mormon (see [Alma
-10-15](https://www.lds.org/scriptures/bofm/alma/10.title?lang=eng)). Because
-of the guiding hand of God and Brother Napela's great help, along with the
-hospitality and kindness of the Hawaiian Saints, the missionary work began to
-excel in Hawaii, and the foundation was laid.
+10-15](/scriptures/bofm/alma/10?lang=eng)). Because of the guiding hand of God
+and Brother Napela's great help, along with the hospitality and kindness of
+the Hawaiian Saints, the missionary work began to excel in Hawaii, and the
+foundation was laid.
 
 ## His Great and Deep Love
 
@@ -131,7 +124,7 @@ Jonathon loved his wife? Would I be willing to go to a place like that to be
 with her? Would you be willing to demonstrate your pure love like Jonathon?
 Brethren, are we honoring our companions? Are we caring? Are we thoughtful? We
 must be, because God has joined us together (see [Mark
-10:9](https://www.lds.org/scriptures/nt/mark/10.9?lang=eng#8)).
+10:9](/scriptures/nt/mark/10.9?lang=eng#8)).
 
 History records that this valiant and giant man of God worked in the leper
 colony and fought to obtain government assistance for the lepers to have a
@@ -139,17 +132,19 @@ more comfortable place to live. He was a giant in the pure love of Christ for
 his own people. Oh, I can almost hear the words of Paul to the Corinthians
 when he said, "Though I speak with the tongues of men and of angels, and have
 not charity, I am become as sounding brass, or a tinkling cymbal" ([1 Cor.
-13:1](https://www.lds.org/scriptures/nt/1-cor/13.1?lang=eng#0)).
+13:1](/scriptures/nt/1-cor/13.1?lang=eng#0)).
 
 This good brother later contracted that same disease and died even before his
 wife passed away. She followed him two years later. Husbands, do you love your
 wife as a daughter of God? Oh, "husbands, love your wives" as daughters of
 God, "even as Christ also loved the church and gave himself for it" ([Eph.
-5:25](https://www.lds.org/scriptures/nt/eph/5.25?lang=eng#24)).
+5:25](/scriptures/nt/eph/5.25?lang=eng#24)).
 
 I know that God lives! This is his church. I know that the Savior lives! I
 know that Joseph Smith was a prophet of God, who restored this church. I know
 that our beloved prophet, even President Ezra Taft Benson, is the living
 oracle of God and an example to us. The Book of Mormon is true. In the name of
 Jesus Christ, amen.
+
+## References
 

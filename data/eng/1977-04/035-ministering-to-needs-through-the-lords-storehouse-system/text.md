@@ -17,8 +17,8 @@ needs be that _there be an organization of my people,_ in regulating and
 establishing the affairs of the storehouse for the poor of my people ... through
 my providence, notwithstanding the tribulation which shall descend upon you,
 that the Church may stand independent above all other creatures beneath the
-celestial world." ([D&amp;C 78:3, 14](https://www.lds.org/scriptures/dc-
-testament/dc/78.3%2C14?lang=eng#2); italics added.)
+celestial world." ([D&amp;C 78:3, 14](/scriptures/dc-
+testament/dc/78.3,14?lang=eng#2); italics added.)
 
 The Church storehouse system is an organization of physical warehouses and
 transportation facilities, with operating and managing personnel. This system
@@ -36,12 +36,11 @@ in the program to meet the needs of his people.
 The Lord, by revelation, has commanded that storehouses be established. The
 surpluses, or "residue," from the consecrated properties under the united
 order were to be kept in the storehouses "to administer to the poor and the
-needy." ([D&amp;C 42:34](https://www.lds.org/scriptures/dc-
-testament/dc/42.34?lang=eng#33).) Later, the Lord instructed that the
-Presiding Bishop "appoint a storehouse unto this church; and let all things
-both in money and in [food], which are more than is needful for the wants of
-this people, be kept in the hands of the bishop." ([D&amp;C
-51:13](https://www.lds.org/scriptures/dc-testament/dc/51.13?lang=eng#12).)
+needy." ([D&amp;C 42:34](/scriptures/dc-testament/dc/42.34?lang=eng#33).)
+Later, the Lord instructed that the Presiding Bishop "appoint a storehouse
+unto this church; and let all things both in money and in [food], which are
+more than is needful for the wants of this people, be kept in the hands of the
+bishop." ([D&amp;C 51:13](/scriptures/dc-testament/dc/51.13?lang=eng#12).)
 
 Today there are seventy-eight bishops storehouses in the Church storehouse
 system. These storehouses are used for almost the identical purpose they were
@@ -76,10 +75,9 @@ responsible." (J. Reuben Clark, Jr., unpublished article, 9 July 1941, as
 cited in _Ensign,_ Nov. 1976, p. 112.)
 
 By revelation, the Lord has instructed bishops to search actively "after the
-poor to administer to their wants." ([D&amp;C
-84:112](https://www.lds.org/scriptures/dc-testament/dc/84.112?lang=eng#111).)
-Storehouses were divinely established to assist bishops in performing this
-duty.
+poor to administer to their wants." ([D&amp;C 84:112](/scriptures/dc-
+testament/dc/84.112?lang=eng#111).) Storehouses were divinely established to
+assist bishops in performing this duty.
 
 How does a bishop call on storehouse commodities? Once the poor and needy are
 sought out in his ward, the specific needs of individuals should be
@@ -153,8 +151,8 @@ storehouse commodities instead of fast offerings, the flow of commodities
 through the welfare system is ensured, production is encouraged, and waste is
 eliminated. Even more importantly, in keeping with the Lord's instructions
 cited as my text, the Church will stand "independent above all other creatures
-beneath the celestial world." ([D&amp;C 78:14](https://www.lds.org/scriptures
-/dc-testament/dc/78.14?lang=eng#13).) That should be our objective!
+beneath the celestial world." ([D&amp;C 78:14](/scriptures/dc-
+testament/dc/78.14?lang=eng#13).) That should be our objective!
 
 Occasionally, we receive questions as to the propriety of Church members
 receiving government assistance instead of Church assistance. Let me restate
@@ -185,8 +183,7 @@ that when all is written about our present generation, it may truly be said
 that we had hardly enough time to prepare. To meet the impending crisis, I
 venture to say that all our spiritual and temporal resources will be taxed to
 the very limit. The Lord has declared: "If ye are prepared ye shall not fear."
-([D&amp;C 38:30](https://www.lds.org/scriptures/dc-
-testament/dc/38.30?lang=eng#29).)
+([D&amp;C 38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29).)
 
 Great blessings come to us as individuals and to His Church as we support the
 Lord's program for the care of the poor and needy. I have experienced these
@@ -226,4 +223,6 @@ dignity and self-respect.
 May we through the proper use and expansion of modern storehouses wisely
 provide for the care of our needy brothers and sisters according to the Lord's
 plan, I pray in the name of Jesus Christ. Amen.
+
+## References
 

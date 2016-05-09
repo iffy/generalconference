@@ -154,7 +154,7 @@ Total number holding Melchizedek Priesthood
 
 467,321  
   
-Grand total, holding Aaronic or Melchizedek Priesthood
+Grand total,holding Aaronic or Melchizedek Priesthood
 
 (An increase of 32,387 during the year.)
 
@@ -226,7 +226,7 @@ Teton flood disaster in Idaho.
 Names cleared in 1976 for temple ordinances
 
 The Genealogical Department is acquiring records in 35 countries, using 80
-microfilm careras and five oral interviewers. During 1976 microfilm holdings
+microfilm careras and five oral interviewers.During 1976 microfilm holdings
 increased by 4.5 percent to a total of 910,661 100-foot rolls equivalent to
 4,334,559 volumes of 300 pages each.
 
@@ -275,4 +275,6 @@ Hilo Hawaii Stake; President Daniel O. Trevino of the Mexico Torreon Mission;
 President Millen Dan Atwood of the Ogden Utah Riverdale Stake; Dr. Leland R.
 Cowan, a pioneer in cancer research and treatment; and Sister Kate B. Carter,
 president, Daughters of the Utah Pioneers.
+
+## References
 

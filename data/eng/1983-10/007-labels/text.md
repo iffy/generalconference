@@ -29,8 +29,7 @@ appear beautiful outward, but are within full of dead men's bones, and of all
 uncleanness. ...
 
 "Ye ... outwardly appear righteous unto men, but within ye are full of hypocrisy
-and iniquity." ([Matt.
-23:27-28](https://www.lds.org/scriptures/nt/matt/23.27-28?lang=eng#26).)
+and iniquity." ([Matt. 23:27-28](/scriptures/nt/matt/23.27-28?lang=eng#26).)
 
 Then there are those who may outwardly appear impoverished, without talent,
 and doomed to mediocrity. A classic label appeared beneath a picture of the
@@ -53,16 +52,16 @@ At another time, and in a distant place, the boy Samuel must have appeared
 like any lad his age as he ministered unto the Lord before Eli. As Samuel lay
 down to sleep and heard the voice of the Lord calling him, Samuel mistakenly
 thought it was aged Eli calling and responded, "Here am I." ([1 Sam.
-3:4](https://www.lds.org/scriptures/ot/1-sam/3.4?lang=eng#3).) However, after
-Eli had listened to the boy's account and told him it was of the Lord, Samuel
-followed Eli's counsel and subsequently responded to the Lord's call with the
-memorable reply, "Speak; for thy servant heareth." ([1 Sam.
-3:10](https://www.lds.org/scriptures/ot/1-sam/3.10?lang=eng#9).) The record
-then reveals that "Samuel grew, and the Lord was with him. ...
+3:4](/scriptures/ot/1-sam/3.4?lang=eng#3).) However, after Eli had listened to
+the boy's account and told him it was of the Lord, Samuel followed Eli's
+counsel and subsequently responded to the Lord's call with the memorable
+reply, "Speak; for thy servant heareth." ([1 Sam.
+3:10](/scriptures/ot/1-sam/3.10?lang=eng#9).) The record then reveals that
+"Samuel grew, and the Lord was with him. ...
 
 "And all Israel from Dan even to Beer-sheba knew that Samuel was established
 to be a prophet of the Lord." ([1 Sam.
-3:19-20](https://www.lds.org/scriptures/ot/1-sam/3.19-20?lang=eng#18).)
+3:19-20](/scriptures/ot/1-sam/3.19-20?lang=eng#18).)
 
 The years rolled by, as they relentlessly do, and prophecy came to fulfillment
 when a lowly manger cradled a newborn child. No label could describe this
@@ -70,24 +69,22 @@ event. With the birth of the babe in Bethlehem, there emerged a great
 endowment, a power stronger than weapons, a wealth more lasting than the coins
 of Caesar. This child, born in such primitive circumstances, was to be the
 "King of kings and Lord of lords" ([1 Tim.
-6:15](https://www.lds.org/scriptures/nt/1-tim/6.15?lang=eng#14)), the promised
-Messiah--even Jesus Christ, the Son of God.
+6:15](/scriptures/nt/1-tim/6.15?lang=eng#14)), the promised Messiah--even
+Jesus Christ, the Son of God.
 
 As a boy, Jesus was found in the temple, "sitting in the midst of the doctors,
 both hearing them, and asking them questions.
 
 "And all that heard him were astonished at his understanding and answers." And
 when Joseph and His mother saw Him, "they were amazed." (See [Luke
-2:46-48](https://www.lds.org/scriptures/nt/luke/2.46-48?lang=eng#45).) To the
-learned doctors in the temple, the boy's outward label may have conveyed
-brightness of intellect but certainly not "Son of God and future Redeemer of
-all mankind."
+2:46-48](/scriptures/nt/luke/2.46-48?lang=eng#45).) To the learned doctors in
+the temple, the boy's outward label may have conveyed brightness of intellect
+but certainly not "Son of God and future Redeemer of all mankind."
 
 The Messianic words of the prophet Isaiah convey a special meaning: "He hath
 no form nor comeliness; and when we shall see him, there is no beauty that we
-should desire him." ([Isa.
-53:2](https://www.lds.org/scriptures/ot/isa/53.2?lang=eng#1).) Such was the
-foretold description of our Lord.
+should desire him." ([Isa. 53:2](/scriptures/ot/isa/53.2?lang=eng#1).) Such
+was the foretold description of our Lord.
 
 Matthew records the apparent necessity of that wicked multitude of sinners who
 would seek after the life of the Lord to conspire with the betrayer Judas,
@@ -100,7 +97,7 @@ same is he: hold him fast.
 
 "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and
 laid hands on Jesus, and took him." ([Matt.
-26:48-50](https://www.lds.org/scriptures/nt/matt/26.48-50?lang=eng#47).)
+26:48-50](/scriptures/nt/matt/26.48-50?lang=eng#47).)
 
 The label of a traitor's kiss had identified the Master. Judas now wore his
 own label of inescapable shame and revulsion.
@@ -173,7 +170,7 @@ months ago, his mission in mortality concluded, Gustav Wacker passed away
 peacefully while being held in the loving arms of his eternal companion. Only
 one label appears fitting for such an obedient and faithful servant: "Who
 honors God, God honors." (See [1 Sam.
-2:30](https://www.lds.org/scriptures/ot/1-sam/2.30?lang=eng#29).)
+2:30](/scriptures/ot/1-sam/2.30?lang=eng#29).)
 
 A label frequently seen and grudgingly borne is one which reads:
 "Handicapped."
@@ -225,11 +222,13 @@ The word of the Lord to the prophet Samuel at the time David was designated to
 be a future king of Israel provided a fitting label for the occasion. It
 certainly was the thought of each faithful member: "Man looketh on the outward
 appearance, but the Lord looketh on the heart." ([1 Sam.
-16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).)
+16:7](/scriptures/ot/1-sam/16.7?lang=eng#6).)
 
 Like a golden thread woven through the tapestry of life is the message on the
 label of a humble heart. It was true of the boy Samuel, it was the experience
 of Jesus, it was the testimony of Gustav Wacker, it marked the calling of
 James Womack. May it ever be the label which identifies each of us: "Lord,
 here am I." In the name of Jesus Christ, amen.
+
+## References
 

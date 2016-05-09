@@ -9,7 +9,7 @@ The box included newspapers, mementos, and a few letters. One of those letters
 was written by my grandmother, Sarah Adeline Wight Packer. I quote:
 
 "We moved to a farm in Corinne in the year 1902. There being no branch of the
-Church there at that time ... , myself and Hannah Basley visited all the sisters
+Church there at that time ..., myself and Hannah Basley visited all the sisters
 in Corinne and surrounding territory, to see if there was enough interest
 among them to organize a Relief Society.
 
@@ -182,12 +182,11 @@ sometimes we suspect.
 
 It is possible to be both rich and famous and at the same time succeed
 spiritually. But the Lord warned of the difficulty of it when He talked of
-camels and needles (see [Matt.
-19:24](https://www.lds.org/scriptures/nt/matt/19.24?lang=eng#23)).
+camels and needles (see [Matt. 19:24](/scriptures/nt/matt/19.24?lang=eng#23)).
 
 This message is central to the scriptures. The Book of Mormon tells us that
 "men are instructed sufficiently that they know good from evil" ([2 Ne.
-2:5](https://www.lds.org/scriptures/bofm/2-ne/2.5?lang=eng#4)).
+2:5](/scriptures/bofm/2-ne/2.5?lang=eng#4)).
 
 We are taught, also, "Men are free according to the flesh; and all things are
 given them which are expedient unto man. And they are free to choose"--
@@ -195,19 +194,17 @@ given them which are expedient unto man. And they are free to choose"--
 One: "liberty and eternal life, through the great mediation of all men."
 
 Or, two: "to choose captivity and death, according to the captivity and power
-of the devil." ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).)
+of the devil." ([2 Ne. 2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).)
 
 From the Old Testament:
 
 "A good name is rather to be chosen than great riches" ([Prov.
-22:1](https://www.lds.org/scriptures/ot/prov/22.1?lang=eng#0)).
+22:1](/scriptures/ot/prov/22.1?lang=eng#0)).
 
 From the New Testament:
 
 "Seek ye first the kingdom of God, and his righteousness; and all these things
-shall be added unto you" ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32)).
+shall be added unto you" ([Matt. 6:33](/scriptures/nt/matt/6.33?lang=eng#32)).
 
 Again, from the Book of Mormon:
 
@@ -217,16 +214,16 @@ Again, from the Book of Mormon:
 seek them; and ye will seek them for the intent to do good--to clothe the
 naked, and to feed the hungry, and to liberate the captive, and administer
 relief to the sick and the afflicted." ([Jacob
-2:18-19](https://www.lds.org/scriptures/bofm/jacob/2.18-19?lang=eng#17).)
+2:18-19](/scriptures/bofm/jacob/2.18-19?lang=eng#17).)
 
 And from the Doctrine and Covenants:
 
 "Seek not for riches but for wisdom, and behold, the mysteries of God shall be
-unfolded unto you, and then shall you be made rich" ([D&amp;C
-6:7](https://www.lds.org/scriptures/dc-testament/dc/6.7?lang=eng#6)).
+unfolded unto you, and then shall you be made rich" ([D&amp;C 6:7](/scriptures
+/dc-testament/dc/6.7?lang=eng#6)).
 
-"Behold, he that hath eternal life is rich" ([D&amp;C
-11:7](https://www.lds.org/scriptures/dc-testament/dc/11.7?lang=eng#6)).
+"Behold, he that hath eternal life is rich" ([D&amp;C 11:7](/scriptures/dc-
+testament/dc/11.7?lang=eng#6)).
 
 What, then, do we want you to do? Simply this:
 
@@ -265,4 +262,6 @@ testimony, build Zion. Then you will find true success, complete happiness.
 
 I know that God lives, that Jesus is the Christ, and that in the gospel is
 true success, in the name of Jesus Christ, amen.
+
+## References
 

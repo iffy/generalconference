@@ -51,29 +51,29 @@ During these years of extreme tension, you may constantly have in mind the
 admonition of the Lord himself: "Wherefore, be subject to the powers that be,
 until he reigns whose right it is to reign, and subdues all enemies under his
 feet," and likewise he reminds us that "he that keepeth the laws of God hath
-no need to break the laws of the land." ([D&amp;C 58:22,
-21](https://www.lds.org/scriptures/dc-testament/dc/58.22%2C21?lang=eng#21).)
+no need to break the laws of the land." ([D&amp;C 58:22, 21](/scriptures/dc-
+testament/dc/58.22,21?lang=eng#21).)
 
 We have recorded the angelic refrain at the time of the Savior's birth as
 recorded by Luke: "... on earth peace, good will toward men." ([Luke
-2:14](https://www.lds.org/scriptures/nt/luke/2.14?lang=eng#13).)
+2:14](/scriptures/nt/luke/2.14?lang=eng#13).)
 
 In seeming contradiction to that message are the recorded words of the Master:
 "Think not that I am come to send peace on the earth: I came not to send
 peace, but a sword. For I am come to set a man at variance against his father.
 ... And a man's foes shall be they of his own household." ([Matt.
-10:34-36](https://www.lds.org/scriptures/nt/matt/10.34-36?lang=eng#33).)
+10:34-36](/scriptures/nt/matt/10.34-36?lang=eng#33).)
 
 How can these seemingly contradictory quotations be reconciled?
 
 The earliest revelations of this dispensation speak of two so-called
 conflicting dominions on the earth today. One is spoken of as the dominion of
 the devil, "when peace shall be taken from the earth." ([D&amp;C
-1:35](https://www.lds.org/scriptures/dc-testament/dc/1.35?lang=eng#34).)
+1:35](/scriptures/dc-testament/dc/1.35?lang=eng#34).)
 
 In the book of Revelation, as well as in other scriptures, we read that before
 the earth was peopled "there was war in heaven." ([Rev.
-12:7](https://www.lds.org/scriptures/nt/rev/12.7?lang=eng#6).)
+12:7](/scriptures/nt/rev/12.7?lang=eng#6).)
 
 One of the ambitious sons of God's spiritual creations in the premortal world
 promised salvation for all mankind without effort on their part, provided he
@@ -83,11 +83,10 @@ that son, who became Satan, and those who followed after him, and the beloved
 Son of God and those who followed after him, whose plan of salvation, by
 contrast, would give to every soul the right of choice, and the glory be to
 the Father. He even offered himself as "the Lamb slain from the foundation of
-the world" ([Rev.
-13:8](https://www.lds.org/scriptures/nt/rev/13.8?lang=eng#7)), that by the
+the world" ([Rev. 13:8](/scriptures/nt/rev/13.8?lang=eng#7)), that by the
 redemption of his atoning sacrifice, "all mankind may be saved, by obedience
 to the laws and ordinances of the Gospel" ([A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2)).
+1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2)).
 
 Satan and his hosts were cast out because he set about to destroy the agency
 of man, and he became the author of falsehood to deceive and to blind men and
@@ -96,8 +95,7 @@ eternal plan.
 
 The other dominion in the earth today of which the scriptures speak is the
 Lord's dominion, when he "shall have power over his saints, and shall reign in
-their midst." ([D&amp;C 1:36](https://www.lds.org/scriptures/dc-
-testament/dc/1.36?lang=eng#35).)
+their midst." ([D&amp;C 1:36](/scriptures/dc-testament/dc/1.36?lang=eng#35).)
 
 Today we are constantly hearing from the unenlightened and misguided, who
 demand what they call free agency, by which they apparently mean, as evidenced
@@ -122,12 +120,11 @@ to his son:
 choose liberty and eternal life, through the great mediation of all men
 [meaning the atonement of the Savior], or to choose captivity and death,
 according to the captivity and power of the devil. ..." ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).)
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).)
 
 "... the Lord God gave unto man that he should act for himself. Wherefore, man
 could not act for himself save it should be that he was enticed by the one or
-the other." ([2 Ne.
-2:16](https://www.lds.org/scriptures/bofm/2-ne/2.16?lang=eng#15).)
+the other." ([2 Ne. 2:16](/scriptures/bofm/2-ne/2.16?lang=eng#15).)
 
 What would it be like if we were to live in a vacuum, with everything coming
 our way without any effort or struggle on our part to overcome these
@@ -171,8 +168,8 @@ record; but in our day the Lord himself _has _answered, as he might have
 answered Pilate at that time, and I quote his words: "And truth is knowledge
 of things as they are, and as they were, and as they are to come; And
 whatsoever is more or less than this is the spirit of that wicked one who was
-a liar from the beginning." ([D&amp;C 93:24-25](https://www.lds.org/scriptures
-/dc-testament/dc/93.24-25?lang=eng#23).)
+a liar from the beginning." ([D&amp;C 93:24-25](/scriptures/dc-
+testament/dc/93.24-25?lang=eng#23).)
 
 Now, may I for a few moments speak of certainties upon which one may depend in
 his search for truth.
@@ -181,16 +178,15 @@ The first of which I would speak is that which is referred to in the
 scriptures as the Light of Christ, the Spirit of Truth, or Spirit of God,
 variously spoken of, which in essence means the influence of Deity that
 proceeds forth from the presence of God, that which quickens the understanding
-of man. (See [D&amp;C 88:49](https://www.lds.org/scriptures/dc-
-testament/dc/88.49?lang=eng#48).) The apostle John spoke of it as "the true
-Light, which lighteth every man that cometh into the world." ([John
-1:9](https://www.lds.org/scriptures/nt/john/1.9?lang=eng#8).)
+of man. (See [D&amp;C 88:49](/scriptures/dc-testament/dc/88.49?lang=eng#48).)
+The apostle John spoke of it as "the true Light, which lighteth every man that
+cometh into the world." ([John 1:9](/scriptures/nt/john/1.9?lang=eng#8).)
 
 A president of the Church makes this further explanation: "There is not a man
 [or person] born into the world, but has a portion of the Spirit of God, and
 it is that Spirit of God which gives to his spirit understanding, ... each in
-accordance with his capacity to receive the light . . . [which] will never
-cease to strive with man, until man is brought to the possession of the higher
+accordance with his capacity to receive the light ... [which] will never cease
+to strive with man, until man is brought to the possession of the higher
 intelligence." (Joseph F. Smith, _Gospel Doctrine, _pp. 63, 62.)
 
 To those not acquainted with the language of the scriptures, it might be
@@ -234,8 +230,7 @@ wisdom, declaring unto you the testimony of God.
 him crucified.
 
 "That your faith should not stand in the wisdom of men, but in the power of
-God." ([1 Cor. 2:1-2,
-5](https://www.lds.org/scriptures/nt/1-cor/2.1-2%2C5?lang=eng#0).)
+God." ([1 Cor. 2:1-2, 5](/scriptures/nt/1-cor/2.1-2,5?lang=eng#0).)
 
 It has been well said that one does not teach honesty by telling a man how to
 burglarize a safe, nor do we teach chastity by telling a youth all about
@@ -264,8 +259,8 @@ accordance with righteous principles. Always we would do well to reflect upon
 the counsel of a wise king of ancient times: "Now it is not common that the
 voice of the people desireth anything contrary to that which is right; but it
 is common for the lesser part of the people to desire that which is not right;
-therefore . . . do your business by the voice of the people." ([Mosiah
-29:26](https://www.lds.org/scriptures/bofm/mosiah/29.26?lang=eng#25).)
+therefore ... do your business by the voice of the people." ([Mosiah
+29:26](/scriptures/bofm/mosiah/29.26?lang=eng#25).)
 
 Let this counsel of that wise ancient king be our counsel to our Church
 members and the honorable of the earth everywhere. Be alert and active in your
@@ -276,8 +271,8 @@ or to the election of public officials.
 The fourth certainty to keep in mind in our civic responsibilities is to
 choose those to govern us as "civil officers and magistrates [who will]
 enforce the laws ... and ... administer the law in equity and justice" ([D&amp;C
-134:3](https://www.lds.org/scriptures/dc-testament/dc/134.3?lang=eng#2)), as
-we are admonished by inspired men of God.
+134:3](/scriptures/dc-testament/dc/134.3?lang=eng#2)), as we are admonished by
+inspired men of God.
 
 In a word, we must seek for statesmenlike men who will ask, "Is it right and
 is it good for the country or the community?" instead of those who may merely
@@ -286,14 +281,13 @@ ask, "Is it politically expedient?"
 Remember always _our _declaration of political faith: "We believe in being
 subject to kings, presidents, rulers, and magistrates, in obeying, honoring,
 and sustaining the law." ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
 
 Wherever you are, wherever you live, pray for the leaders of your country, for
 remember that they too hold in their hands all that you hold dear. Again I
 repeat the Lord's injunction: "... be subject to the powers that be, until he
 reigns whose right it is to reign, and subdues all enemies under his feet."
-([D&amp;C 58:22](https://www.lds.org/scriptures/dc-
-testament/dc/58.22?lang=eng#21).)
+([D&amp;C 58:22](/scriptures/dc-testament/dc/58.22?lang=eng#21).)
 
 And now, finally, the supreme of all certainties is God's eternal plan as
 given in the gospel of Jesus Christ. Here we have given us the never-failing
@@ -302,23 +296,23 @@ these eternal principles we can readily detect truth from error. In the
 earliest revelations of our dispensation we were told that the gospel
 teachings were given that "inasmuch as they have erred it might be made known;
 And inasmuch as they sought wisdom they might be instructed." ([D&amp;C
-1:25-26](https://www.lds.org/scriptures/dc-testament/dc/1.25-26?lang=eng#24).)
+1:25-26](/scriptures/dc-testament/dc/1.25-26?lang=eng#24).)
 
 By the light of gospel truths we can be shown that "every thing which inviteth
-to do good, and to persuade to believe in Christ . . . ye may know with a
-perfect knowledge it is of God." ([Moro.
-7:16](https://www.lds.org/scriptures/bofm/moro/7.16?lang=eng#15).)
+to do good, and to persuade to believe in Christ ... ye may know with a perfect
+knowledge it is of God." ([Moro.
+7:16](/scriptures/bofm/moro/7.16?lang=eng#15).)
 
 But also we may know that "whatsoever thing persuadeth men to do evil, and
 believe not in Christ, and deny him, and serve not God, then ye may know with
 a perfect knowledge it is of the devil" ([Moro.
-7:17](https://www.lds.org/scriptures/bofm/moro/7.17?lang=eng#16)), whether it
-be labeled religion, philosophy, science, or political dogma.
+7:17](/scriptures/bofm/moro/7.17?lang=eng#16)), whether it be labeled
+religion, philosophy, science, or political dogma.
 
 What a wonderful feeling of security can come in a crisis to one who has
 learned to pray and has cultivated listening ears so that he can "call, and
 the Lord shall answer"; when he can cry and the Lord shall say, "Here I am."
-([Isa. 58:9](https://www.lds.org/scriptures/ot/isa/58.9?lang=eng#8).)
+([Isa. 58:9](/scriptures/ot/isa/58.9?lang=eng#8).)
 
 The supreme commander of the Allied forces during World War II, General
 Eisenhower, when faced with some of the most momentous military decisions that
@@ -332,22 +326,23 @@ There you have it, all you who are leaders in high places, in business, in
 government, or in the Church, or for that matter in any walk of life: the
 constant reminder that God is in his heaven and all can be right with the
 world, if we seek for him and find him, "though he be not far from every one
-of us: for in him we live, and move, and have our being; . . . For we are also
-his offspring." ([Acts
-17:27-28](https://www.lds.org/scriptures/nt/acts/17.27-28?lang=eng#26).)
+of us: for in him we live, and move, and have our being; ... For we are also his
+offspring." ([Acts 17:27-28](/scriptures/nt/acts/17.27-28?lang=eng#26).)
 
 Now, may I in all humility bear my own witness to the power of these
 guidelines in my life. I have learned by my own experience that the heavier
 the responsibilities, the greater is my dependence on the Lord.
 
 In some measure I begin to understand the import of the declaration of Moses,
-who, after his great spiritual experience, said: "Now . . . I know that man is
+who, after his great spiritual experience, said: "Now ... I know that man is
 nothing, which thing I never had supposed." ([Moses
-1:10](https://www.lds.org/scriptures/pgp/moses/1.10?lang=eng#9).)
+1:10](/scriptures/pgp/moses/1.10?lang=eng#9).)
 
 But through the lights and shadows of my life, I also have the assurance that
 aided by God's holy power, doubts can be resolved into certainties, burdens
 can be lightened, and a literal rebirth can be realized as the nearness to my
 Lord and Master becomes more certain--to all of which I bear humble witness in
 the name of the Lord Jesus Christ. Amen.
+
+## References
 

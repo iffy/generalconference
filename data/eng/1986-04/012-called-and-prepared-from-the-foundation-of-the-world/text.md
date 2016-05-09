@@ -5,35 +5,32 @@ announced that dozens of pages of startling and significant writings,
 including those of Enoch, Abraham, and Moses, had been found? These startling
 writings inform us, among many important things, how the Lord tutored Moses,
 told him of other worlds, and then in regal response told Moses why God
-created and peopled this planet. (See [Moses 1:4-6, 8, 10, 30, 37-39](https://
-www.lds.org/scriptures/pgp/moses/1.4-6%2C8%2C10%2C30%2C37-39?lang=eng#3);
-[Isa. 45:18](https://www.lds.org/scriptures/ot/isa/45.18?lang=eng#17).) These
-writings indicate that Abraham and others were chosen in premortal councils,
-just like Jeremiah, long before they were born. (See [Abr.
-3:23](https://www.lds.org/scriptures/pgp/abr/3.23?lang=eng#22); [Jer.
-1:5](https://www.lds.org/scriptures/ot/jer/1.5?lang=eng#4).) Among this
-distinguished group was the thirteenth President-to-be of The Church of Jesus
-Christ of Latter-day Saints, President Ezra Taft Benson. In fact, we learn
-that all faithful men of the priesthood were "called and prepared from the
-foundation of the world" ([Alma
-13:3](https://www.lds.org/scriptures/bofm/alma/13.3?lang=eng#2)), even though,
-by secular criteria, such are "the weak things of the earth." ([D&amp;C
-133:59](https://www.lds.org/scriptures/dc-testament/dc/133.59?lang=eng#58).)
+created and peopled this planet. (See [Moses 1:4-6, 8, 10, 30,
+37-39](/scriptures/pgp/moses/1.4-6,8,10,30,37-39?lang=eng#3); [Isa.
+45:18](/scriptures/ot/isa/45.18?lang=eng#17).) These writings indicate that
+Abraham and others were chosen in premortal councils, just like Jeremiah, long
+before they were born. (See [Abr. 3:23](/scriptures/pgp/abr/3.23?lang=eng#22);
+[Jer. 1:5](/scriptures/ot/jer/1.5?lang=eng#4).) Among this distinguished group
+was the thirteenth President-to-be of The Church of Jesus Christ of Latter-day
+Saints, President Ezra Taft Benson. In fact, we learn that all faithful men of
+the priesthood were "called and prepared from the foundation of the world"
+([Alma 13:3](/scriptures/bofm/alma/13.3?lang=eng#2)), even though, by secular
+criteria, such are "the weak things of the earth." ([D&amp;C
+133:59](/scriptures/dc-testament/dc/133.59?lang=eng#58).)
 
 This new information about Enoch is eighteen times that which is in the Bible.
 Further, we learn from it that a human utopia was once actually achieved, as
 we receive a portrait of a special people, the City of Enoch. (See [Moses
-7:17-19](https://www.lds.org/scriptures/pgp/moses/7.17-19?lang=eng#16).)
+7:17-19](/scriptures/pgp/moses/7.17-19?lang=eng#16).)
 
 These tremendous discoveries likewise show us that the gospel of Jesus Christ
 was taught and its ordinances administered in Adam's time, in the dawn of
 human history. (See [Moses
-5:58-59](https://www.lds.org/scriptures/pgp/moses/5.58-59?lang=eng#57).)
-Furthermore, Adam gathered his righteous posterity together three years before
-his death. He instructed them, blessed them, and prophesied concerning the
-future. The Lord even appeared at this very special family gathering. (See
-[D&amp;C 107:53-57](https://www.lds.org/scriptures/dc-
-testament/dc/107.53-57?lang=eng#52).)
+5:58-59](/scriptures/pgp/moses/5.58-59?lang=eng#57).) Furthermore, Adam
+gathered his righteous posterity together three years before his death. He
+instructed them, blessed them, and prophesied concerning the future. The Lord
+even appeared at this very special family gathering. (See [D&amp;C
+107:53-57](/scriptures/dc-testament/dc/107.53-57?lang=eng#52).)
 
 Given such sobering and liberating discoveries, would not we and many others
 be deeply impressed and very attentive? Would there not be a stir much, much
@@ -66,19 +63,17 @@ heaven." (In _Journal of Discourses, _8:228.) Through Joseph Smith we have
 additional pages from Moses about God and heaven. We have only to reach to the
 bookshelf or go to priesthood meeting. Perhaps the way is almost too easy and
 too simple; we might be more appreciative if on hands and knees. (See [1 Ne.
-17:41](https://www.lds.org/scriptures/bofm/1-ne/17.41?lang=eng#40).) Only by
-searching the scriptures, not using them occasionally as quote books, can we
-begin to understand the implications as well as the declarations of the
-gospel.
+17:41](/scriptures/bofm/1-ne/17.41?lang=eng#40).) Only by searching the
+scriptures, not using them occasionally as quote books, can we begin to
+understand the implications as well as the declarations of the gospel.
 
 For instance, three verses from Alma, advising of premortal preparations and
 calls, officially broke centuries of silence about mankind's premortal
-existence. (See [Alma
-13:3-5](https://www.lds.org/scriptures/bofm/alma/13.3-5?lang=eng#2).) In 1833,
-further confirmation came. Not only was Jesus "in the beginning with God," but
-"man was also in the beginning with God. Intelligence, or the light of truth,
-was not created or made, neither indeed can be." ([D&amp;C
-93:29](https://www.lds.org/scriptures/dc-testament/dc/93.29?lang=eng#28).)
+existence. (See [Alma 13:3-5](/scriptures/bofm/alma/13.3-5?lang=eng#2).) In
+1833, further confirmation came. Not only was Jesus "in the beginning with
+God," but "man was also in the beginning with God. Intelligence, or the light
+of truth, was not created or made, neither indeed can be." ([D&amp;C
+93:29](/scriptures/dc-testament/dc/93.29?lang=eng#28).)
 
 We can thus sing "O My Father" (_Hymns,_ 1985, no. 292) with real intent and
 assurances of real belonging.
@@ -86,10 +81,9 @@ assurances of real belonging.
 In 1832, Jesus, who was seen on this rapturous occasion, was accompanied by a
 voice bearing record that Jesus had created this and other worlds, whose
 inhabitants are begotten sons and daughters unto God. (See [D&amp;C
-76:23-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.23-24?lang=eng#22); [John
-1:3](https://www.lds.org/scriptures/nt/john/1.3?lang=eng#2); [Heb.
-1:2](https://www.lds.org/scriptures/nt/heb/1.2?lang=eng#1).)
+76:23-24](/scriptures/dc-testament/dc/76.23-24?lang=eng#22); [John
+1:3](/scriptures/nt/john/1.3?lang=eng#2); [Heb.
+1:2](/scriptures/nt/heb/1.2?lang=eng#1).)
 
 Brethren, how can we truly understand who we are unless we know who we were
 and what we have the power to become? How can there be real identity without
@@ -97,21 +91,20 @@ real history? How can one understand his tiny, individual plot without
 knowing, even a little, about Father's grand, galactic plans?
 
 In 1833, information also came indicating that Jesus grew from "grace to
-grace" until He received a fulness. (See [D&amp;C
-93:13](https://www.lds.org/scriptures/dc-testament/dc/93.13?lang=eng#12).)
-This is so helpful, especially in view of how the Father and the Son have
-encouraged us, afresh, to become more like them by developing the requisite
-qualities in our lives. (See [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47); [3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).) What
-Jesus taught in His Sermon on the Mount about striving for this grand goal was
-said in earnest. Moreover, having been advised that we are to become
-childlike, we are firmly told of the specific attributes needed. (See [Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2); [Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18); [Alma
-7:23](https://www.lds.org/scriptures/bofm/alma/7.23?lang=eng#22); [Alma
-13:28](https://www.lds.org/scriptures/bofm/alma/13.28?lang=eng#27).)
+grace" until He received a fulness. (See [D&amp;C 93:13](/scriptures/dc-
+testament/dc/93.13?lang=eng#12).) This is so helpful, especially in view of
+how the Father and the Son have encouraged us, afresh, to become more like
+them by developing the requisite qualities in our lives. (See [Matt.
+5:48](/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47); [3 Ne.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).) What Jesus taught in His
+Sermon on the Mount about striving for this grand goal was said in earnest.
+Moreover, having been advised that we are to become childlike, we are firmly
+told of the specific attributes needed. (See [Matt.
+18:3](/scriptures/nt/matt/18.3?lang=eng#2); [Mosiah
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18); [Alma
+7:23](/scriptures/bofm/alma/7.23?lang=eng#22); [Alma
+13:28](/scriptures/bofm/alma/13.28?lang=eng#27).)
 
 In so striving, each man of the priesthood will love his wife and bless his
 children. He will be a true patriarch, having the authority of example as well
@@ -120,19 +113,17 @@ as the authority of the holy priesthood.
 We learn from terse verses that we are not helpless and hapless victims of
 "original sin." We are responsible for our own actual and individual sins, not
 Adam's, whom the Lord forgave long, long ago. (See [Moses
-6:53-54](https://www.lds.org/scriptures/pgp/moses/6.53-54?lang=eng#52);
-[D&amp;C 93:38](https://www.lds.org/scriptures/dc-
-testament/dc/93.38?lang=eng#37); [A of F
-1:2](https://www.lds.org/scriptures/pgp/a-of-f/1.2?lang=eng#1).) In fact,
-"because that Adam fell, we are" ([Moses
-6:48](https://www.lds.org/scriptures/pgp/moses/6.48?lang=eng#47)), and "men
+6:53-54](/scriptures/pgp/moses/6.53-54?lang=eng#52); [D&amp;C
+93:38](/scriptures/dc-testament/dc/93.38?lang=eng#37); [A of F
+1:2](/scriptures/pgp/a-of-f/1.2?lang=eng#1).) In fact, "because that Adam
+fell, we are" ([Moses 6:48](/scriptures/pgp/moses/6.48?lang=eng#47)), and "men
 are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 Commanded to write of these truths, Moses was also told that many of the
 things he would write would later be taken away. Nevertheless, these would be
 "had again" among the children of men in the last days. (See [Moses
-1:40-41](https://www.lds.org/scriptures/pgp/moses/1.40-41?lang=eng#39).)
+1:40-41](/scriptures/pgp/moses/1.40-41?lang=eng#39).)
 
 My brethren, these truths are "had again." We possess these precious truths!
 Now they must come to possess us! We are to search them, to ponder them, to
@@ -144,41 +135,37 @@ daily and eternal life.
 
 One cannot have adequate faith in a Christ whom he does not adequately know,
 "who is a stranger ... far from the thoughts and intents of his heart." ([Mosiah
-5:13](https://www.lds.org/scriptures/bofm/mosiah/5.13?lang=eng#12).) Instead,
-by laying aside "every weight" of the world and the sins which so "easily
-beset us," by looking unto Jesus and by feasting upon His words, we will be
-able to move forward with intellectual and spiritual vigor. Otherwise, as Paul
-said, we can become wearied and faint in our minds. (See [Heb.
-12:1-3](https://www.lds.org/scriptures/nt/heb/12.1-3?lang=eng#0); see also [2
-Ne. 31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19).) When
-we understand what was revealed to Adam--"[my] plan of salvation unto all men"
-([Moses
-6:62](https://www.lds.org/scriptures/pgp/moses/6.62?lang=eng#61))--then these
-doctrines are keenly relevant for tomorrow's trial, Tuesday's temptation, or
-next month's surge of self-pity. After all, chastening, the trial of our
-faith, and patience are part of the plan. (See [Mosiah
-23:21](https://www.lds.org/scriptures/bofm/mosiah/23.21?lang=eng#20).)
+5:13](/scriptures/bofm/mosiah/5.13?lang=eng#12).) Instead, by laying aside
+"every weight" of the world and the sins which so "easily beset us," by
+looking unto Jesus and by feasting upon His words, we will be able to move
+forward with intellectual and spiritual vigor. Otherwise, as Paul said, we can
+become wearied and faint in our minds. (See [Heb.
+12:1-3](/scriptures/nt/heb/12.1-3?lang=eng#0); see also [2 Ne.
+31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19).) When we understand what was
+revealed to Adam--"[my] plan of salvation unto all men" ([Moses
+6:62](/scriptures/pgp/moses/6.62?lang=eng#61))--then these doctrines are
+keenly relevant for tomorrow's trial, Tuesday's temptation, or next month's
+surge of self-pity. After all, chastening, the trial of our faith, and
+patience are part of the plan. (See [Mosiah
+23:21](/scriptures/bofm/mosiah/23.21?lang=eng#20).)
 
 It is all so wondrously Christ-centered. Whether in the structure of the atom
 or of the galaxies, or in the truths about temples and families, for those who
 have eyes to see, all things "from the beginning of the world" ([2 Ne.
-11:4](https://www.lds.org/scriptures/bofm/2-ne/11.4?lang=eng#3)) "bear record
-of [God]." ([Moses
-6:63](https://www.lds.org/scriptures/pgp/moses/6.63?lang=eng#62).) They are
-designed to point us to Christ, typifying Him, so that we might follow Him,
-have faith in Him, and keep His commandments.
+11:4](/scriptures/bofm/2-ne/11.4?lang=eng#3)) "bear record of [God]." ([Moses
+6:63](/scriptures/pgp/moses/6.63?lang=eng#62).) They are designed to point us
+to Christ, typifying Him, so that we might follow Him, have faith in Him, and
+keep His commandments.
 
 If sought by faith (see [Rom.
-9:30-32](https://www.lds.org/scriptures/nt/rom/9.30-32?lang=eng#29)), these
-doctrines of the radiant restoration enclose us in divine purpose during our
-sojourn in this "far country." Like the prodigal son who "came to himself," we
-thus receive needed perspective and direction as we also begin to "arise and
-go to [our] Father." (See [Luke
-15:11-32](https://www.lds.org/scriptures/nt/luke/15.11-32?lang=eng#10).)
+9:30-32](/scriptures/nt/rom/9.30-32?lang=eng#29)), these doctrines of the
+radiant restoration enclose us in divine purpose during our sojourn in this
+"far country." Like the prodigal son who "came to himself," we thus receive
+needed perspective and direction as we also begin to "arise and go to [our]
+Father." (See [Luke 15:11-32](/scriptures/nt/luke/15.11-32?lang=eng#10).)
 
 The initial labor we have to perform with regard to these doctrines is only to
-look (see [1 Ne.
-17:41](https://www.lds.org/scriptures/bofm/1-ne/17.41?lang=eng#40)), firmly
+look (see [1 Ne. 17:41](/scriptures/bofm/1-ne/17.41?lang=eng#40)), firmly
 averting our gaze from the comparative slums of the secular world, with its
 grabbiness and grubbiness.
 
@@ -186,53 +173,48 @@ The gospel, in fact, gives us glimpses of the far horizon, revealing a glow
 from the lights of the City of God. It is a place of happy countenances, where
 justice and mercy as well as righteousness and truth are constant companions.
 Herein gentleness and generosity prevail, "without compulsory means."
-([D&amp;C 121:46](https://www.lds.org/scriptures/dc-
-testament/dc/121.46?lang=eng#45).) Coarseness and selfishness are unknown,
-belonging to a previous and primitive place. Here envy would be a sure
-embarrassment. Neighbors are esteemed as self. This city, where all the
-residents keep the first and second great commandments, is a community of
-striking individuals of one heart and of one mind.
+([D&amp;C 121:46](/scriptures/dc-testament/dc/121.46?lang=eng#45).) Coarseness
+and selfishness are unknown, belonging to a previous and primitive place. Here
+envy would be a sure embarrassment. Neighbors are esteemed as self. This city,
+where all the residents keep the first and second great commandments, is a
+community of striking individuals of one heart and of one mind.
 
 We will not be strangers in the City of God. We were there before, when the
 morning stars sang together and the sons of God shouted for joy at the
 prospects of this stern but necessary mortal existence. (See [Job
-38:4-7](https://www.lds.org/scriptures/ot/job/38.4-7?lang=eng#3).) What we
-sang then was doubtless an anthem of praise far greater than the "Hallelujah
-Chorus," more glorious than Moses' and Israel's song after crossing the Red
-Sea. (See [Ex.
-15:1-2](https://www.lds.org/scriptures/ot/ex/15.1-2?lang=eng#0).)
+38:4-7](/scriptures/ot/job/38.4-7?lang=eng#3).) What we sang then was
+doubtless an anthem of praise far greater than the "Hallelujah Chorus," more
+glorious than Moses' and Israel's song after crossing the Red Sea. (See [Ex.
+15:1-2](/scriptures/ot/ex/15.1-2?lang=eng#0).)
 
 Wonder is added to wonder as temples and scriptures tell us of still other
 worlds--of a universe drenched in divine design, with, as it were, spiritual
 "cousins" in the cosmos.
 
 When we see things as they really were, really are, and really will be (see
-[Jacob 4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12);
-[D&amp;C 93:24](https://www.lds.org/scriptures/dc-
-testament/dc/93.24?lang=eng#23)), dispensations are merely seasons, new
-friendships are but relationships resumed, and prophets sent forth on their
-errands from the Lord reflect associations which arc across the ages as they
-later rendezvous on mountaintops and hills, in woods, fields, groves, and even
-jails. (See [Moses
-1:1-2](https://www.lds.org/scriptures/pgp/moses/1.1-2?lang=eng#0); [Matt.
-17:1-7](https://www.lds.org/scriptures/nt/matt/17.1-7?lang=eng#0); [JS--H
-1:14,
-48-50](https://www.lds.org/scriptures/pgp/js-h/1.14%2C48-50?lang=eng#13);
-[Acts 23:11](https://www.lds.org/scriptures/nt/acts/23.11?lang=eng#10).)
+[Jacob 4:13](/scriptures/bofm/jacob/4.13?lang=eng#12); [D&amp;C
+93:24](/scriptures/dc-testament/dc/93.24?lang=eng#23)), dispensations are
+merely seasons, new friendships are but relationships resumed, and prophets
+sent forth on their errands from the Lord reflect associations which arc
+across the ages as they later rendezvous on mountaintops and hills, in woods,
+fields, groves, and even jails. (See [Moses
+1:1-2](/scriptures/pgp/moses/1.1-2?lang=eng#0); [Matt.
+17:1-7](/scriptures/nt/matt/17.1-7?lang=eng#0); [JS--H 1:14,
+48-50](/scriptures/pgp/js-h/1.14,48-50?lang=eng#13); [Acts
+23:11](/scriptures/nt/acts/23.11?lang=eng#10).)
 
 We are not now ready for all things the Lord has prepared in the City of God
 for them that love Him. (See [1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8).) Our present
-eyes are unready for things which they have not yet seen, and our ears are not
-prepared for the transcending sounds and music of that city.
+2:9](/scriptures/nt/1-cor/2.9?lang=eng#8).) Our present eyes are unready for
+things which they have not yet seen, and our ears are not prepared for the
+transcending sounds and music of that city.
 
 The trek will be proving and trying. Faith, patience, and obedience are
-essential (see [Mosiah
-23:21](https://www.lds.org/scriptures/bofm/mosiah/23.21?lang=eng#20); [Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24)), but he who
-completes the journey successfully will be immeasurably added upon. (see [Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25).) And he who
-does not will have subtracted from the sum of his possibilities.
+essential (see [Mosiah 23:21](/scriptures/bofm/mosiah/23.21?lang=eng#20);
+[Abr. 3:25](/scriptures/pgp/abr/3.25?lang=eng#24)), but he who completes the
+journey successfully will be immeasurably added upon. (see [Abr.
+3:26](/scriptures/pgp/abr/3.26?lang=eng#25).) And he who does not will have
+subtracted from the sum of his possibilities.
 
 When we arrive home, we shall be weary and bruised. But at last our aching
 homesicknesses will cease. Meanwhile, our mortal homecomings are but faint
@@ -258,32 +240,30 @@ then"--for the duties which await us "here and now!"
 Men and young men of the priesthood, let us be about those duties as doers and
 messengers. The gospel message is worthy of work like that performed by Ether,
 "from the morning, even until the going down of the sun." ([Ether
-12:3](https://www.lds.org/scriptures/bofm/ether/12.3?lang=eng#2).)
+12:3](/scriptures/bofm/ether/12.3?lang=eng#2).)
 
 This work is worthy of sacrifice and courage like that of Abinadi. He suffered
 death by fire, saying that after "I finish my message," then "it matters not."
-([Mosiah 13:9](https://www.lds.org/scriptures/bofm/mosiah/13.9?lang=eng#8).)
+([Mosiah 13:9](/scriptures/bofm/mosiah/13.9?lang=eng#8).)
 
 Doers, said Jesus, will know that these doctrines are of God. (See [John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).) Therefore, do
-not be surprised when nondoers scoff. Do not be surprised, either, if these
-doctrines unsettle some. Such was the case when the ancient Apostles filled
-Jerusalem with their doctrines. (See [Acts
-5:28](https://www.lds.org/scriptures/nt/acts/5.28?lang=eng#27).) And when
+7:17](/scriptures/nt/john/7.17?lang=eng#16).) Therefore, do not be surprised
+when nondoers scoff. Do not be surprised, either, if these doctrines unsettle
+some. Such was the case when the ancient Apostles filled Jerusalem with their
+doctrines. (See [Acts 5:28](/scriptures/nt/acts/5.28?lang=eng#27).) And when
 Jesus focused His hearers on doctrines, "they were astonished at his
-doctrine." ([Matt.
-22:33](https://www.lds.org/scriptures/nt/matt/22.33?lang=eng#32).) The only
+doctrine." ([Matt. 22:33](/scriptures/nt/matt/22.33?lang=eng#32).) The only
 cure for the doctrinal illiteracy of those who murmur will be to learn
-doctrine. (See [Isa.
-29:24](https://www.lds.org/scriptures/ot/isa/29.24?lang=eng#23).)
+doctrine. (See [Isa. 29:24](/scriptures/ot/isa/29.24?lang=eng#23).)
 
 Given the grandness of the Restoration, "My heart is brim with joy." ([Alma
-26:11](https://www.lds.org/scriptures/bofm/alma/26.11?lang=eng#10).) I
-apologize for my inability to speak of Jesus as He deserves, being able to
-speak only "the smallest part which I feel." ([Alma
-26:16](https://www.lds.org/scriptures/bofm/alma/26.16?lang=eng#15).) Yet, even
-so, "There is music in my soul today, a carol to my King, and Jesus listening
-can hear, the songs I cannot sing." (_Hymns,_ 1985, no. 227.)
+26:11](/scriptures/bofm/alma/26.11?lang=eng#10).) I apologize for my inability
+to speak of Jesus as He deserves, being able to speak only "the smallest part
+which I feel." ([Alma 26:16](/scriptures/bofm/alma/26.16?lang=eng#15).) Yet,
+even so, "There is music in my soul today, a carol to my King, and Jesus
+listening can hear, the songs I cannot sing." (_Hymns,_ 1985, no. 227.)
 
 In the holy name of Jesus Christ, amen.
+
+## References
 

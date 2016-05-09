@@ -79,9 +79,8 @@ ones they shall be severed from the ordinances of mine house.
 
 "Their basket shall not be full, their houses and their barns shall perish,
 and they themselves shall be despised by those that flattered them." ([D&amp;C
-121:19-20](https://www.lds.org/scriptures/dc-
-testament/dc/121.19-20?lang=eng#18).) What a statement that is, concerning
-those who would offend little children!
+121:19-20](/scriptures/dc-testament/dc/121.19-20?lang=eng#18).) What a
+statement that is, concerning those who would offend little children!
 
 I feel likewise that it ill becomes any man who holds the priesthood of God to
 abuse his wife in any way, to demean or injure or take undue advantage of the
@@ -136,10 +135,10 @@ Harper and Brothers, Publishers, 1950, p. 349.)
 We have so much to do in this world to spread the influence of this gospel.
 Let us go forth on our assigned mission. We feel the compulsion of the Lord's
 mandate to teach the gospel to every nation, kindred, tongue, and people. (See
-[D&amp;C 133:37](https://www.lds.org/scriptures/dc-
-testament/dc/133.37?lang=eng#36).) We hope that in so doing we shall not
-offend, but rather that we shall do so with graciousness and in that spirit of
-love which was of the very essence of him of whom we testify.
+[D&amp;C 133:37](/scriptures/dc-testament/dc/133.37?lang=eng#36).) We hope
+that in so doing we shall not offend, but rather that we shall do so with
+graciousness and in that spirit of love which was of the very essence of him
+of whom we testify.
 
 We shall continue the great work of strengthening our people wherever they may
 be found in the nations of the earth. We shall give encouragement to those who
@@ -159,4 +158,6 @@ God bless all of us to open our eyes and to unstop our ears, to look, to
 listen, to learn, and to come to an understanding and appreciation of the
 great, eternal truths of which we bear witness, I humbly pray in the name of
 Jesus Christ, amen.
+
+## References
 

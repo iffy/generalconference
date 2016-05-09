@@ -99,8 +99,8 @@ Sometimes the people do heed the prophet's warning. When Jonah was sent to
 Nineveh to prophesy the destruction of that great, wicked city, "the people of
 Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the
 greatest of them even to the least of them" ([Jonah
-3:5](https://www.lds.org/scriptures/ot/jonah/3.5?lang=eng#4)). They turned
-from their evil ways in repentance, and God spared their city.
+3:5](/scriptures/ot/jonah/3.5?lang=eng#4)). They turned from their evil ways
+in repentance, and God spared their city.
 
 In the production _Because of Elizabeth _presented in Nauvoo this summer at
 the dedication of the Monument to Women, Elizabeth concludes that she will not
@@ -130,4 +130,6 @@ priesthood.
 May the Lord bless us as women with that eternal perspective. May our
 decisions be those that will allow us to work in love and unity and
 faithfulness I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

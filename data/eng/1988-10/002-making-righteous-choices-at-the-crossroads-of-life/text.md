@@ -94,19 +94,17 @@ you, when you took no thought save it was to ask me.
 "But, behold, I say unto you, that you must study it out in your mind; then
 you must ask me if it be right, and if it is right I will cause that your
 bosom shall burn within you; therefore, you shall feel that it is right."
-([D&amp;C 9:7-8](https://www.lds.org/scriptures/dc-
-testament/dc/9.7-8?lang=eng#6).)
+([D&amp;C 9:7-8](/scriptures/dc-testament/dc/9.7-8?lang=eng#6).)
 
 After we have attained knowledge and understanding, it is important to feel
 that our decision is right. Then when we act, we will do what is right.
 
 "Happy is the man that findeth wisdom, and the man that getteth
-understanding." ([Prov.
-3:13](https://www.lds.org/scriptures/ot/prov/3.13?lang=eng#12).)
+understanding." ([Prov. 3:13](/scriptures/ot/prov/3.13?lang=eng#12).)
 
 "Wisdom is the principal thing; therefore get wisdom: and with all thy getting
 get understanding" in your heart. ([Prov.
-4:7](https://www.lds.org/scriptures/ot/prov/4.7?lang=eng#6).)
+4:7](/scriptures/ot/prov/4.7?lang=eng#6).)
 
 Last Saturday, I had the experience of visiting Joe and Linda in their home in
 Boise, Idaho. They gave me permission to share their story with you in the
@@ -146,14 +144,13 @@ Each time a stake president is chosen, members of the Council of the Twelve
 and the First Quorum of the Seventy have feelings similar to those Josh and
 Joe had. What an important lesson to learn about prayer and the feelings of
 reassurance that come when we ask in faith, with nothing wavering (see [James
-1:6](https://www.lds.org/scriptures/nt/james/1.6?lang=eng#5)), as the Prophet
-Joseph did!
+1:6](/scriptures/nt/james/1.6?lang=eng#5)), as the Prophet Joseph did!
 
 Along with study and prayer, we must seek wise counsel.
 
 "A wise man will hear, and will increase learning; and a man of understanding
 shall attain unto wise counsels." ([Prov.
-1:5](https://www.lds.org/scriptures/ot/prov/1.5?lang=eng#4).)
+1:5](/scriptures/ot/prov/1.5?lang=eng#4).)
 
 When seeking wise counsel, turn to those who have exhibited obedience to the
 commandments and willingness to follow the promptings of the Spirit in their
@@ -191,7 +188,7 @@ and compatible with the golden rule? Have I considered the impact of my
 decision on others?"
 
 "Let all your [decisions] be done with charity." ([1 Cor.
-16:14](https://www.lds.org/scriptures/nt/1-cor/16.14?lang=eng#13).)
+16:14](/scriptures/nt/1-cor/16.14?lang=eng#13).)
 
 Beware of fear and greed. Be aware of your true motives.
 
@@ -200,8 +197,7 @@ greediness: greed for monetary gain; greed that results in a conflict of
 interest; desire for power, titles, and recognition of men.
 
 "He that is greedy of gain troubleth his own house; but he that hateth gifts
-shall live." ([Prov.
-15:27](https://www.lds.org/scriptures/ot/prov/15.27?lang=eng#26).)
+shall live." ([Prov. 15:27](/scriptures/ot/prov/15.27?lang=eng#26).)
 
 Likewise, we make poor and irrational decisions if we are motivated by fear:
 fear of man, fear of not being popular, fear of failure, fear of public
@@ -209,8 +205,7 @@ opinion.
 
 As Saul said to Samuel, "I have sinned: for I have transgressed the
 commandment of the Lord, and thy words: because I feared the people, and
-obeyed their voice." ([1 Sam.
-15:24](https://www.lds.org/scriptures/ot/1-sam/15.24?lang=eng#23).)
+obeyed their voice." ([1 Sam. 15:24](/scriptures/ot/1-sam/15.24?lang=eng#23).)
 
 The poet Robert Frost, in the poem "The Road Not Taken," gives us a vivid,
 visual image of standing at the crossroads of life, having to make a decision:
@@ -245,4 +240,6 @@ goal of eternal life in view. That we may study and pray each day to _know_
 and _understand_ what is right but, more importantly, to _do_ what is right;
 that we may have those who stand by us say: "Thee lift me, and I'll lift thee,
 and we'll ascend together," is my prayer, in the name of Jesus Christ, amen.
+
+## References
 

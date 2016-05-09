@@ -40,8 +40,7 @@ testimony of a noble and loving father to his children shortly before his
 death. Says Lehi, "I have spoken these few words unto you ... in the last days
 of my probation; and I have chosen the good part, according to the words of
 the prophet. And I have none other object save it be the everlasting welfare
-of your souls." ([2 Ne.
-2:30](https://www.lds.org/scriptures/bofm/2-ne/2.30?lang=eng#29).)
+of your souls." ([2 Ne. 2:30](/scriptures/bofm/2-ne/2.30?lang=eng#29).)
 
 That is the object also of every good father and mother and grandparent and
 teacher and priesthood leader and friend.
@@ -49,18 +48,17 @@ teacher and priesthood leader and friend.
 As we switch rapidly to another scene or two tonight, look for the principles
 of love and agency shining through the thoughts and illustrations. They are
 central principles of the gospel, encompassing "all the law and the prophets"
-([Matt. 22:40](https://www.lds.org/scriptures/nt/matt/22.40?lang=eng#39)), as
-Jesus said of the commandments to love God and love our neighbor, and they
-emphasize the individual responsibility and accountability in our choices with
-respect to all other virtues and values (see [Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35)).
+([Matt. 22:40](/scriptures/nt/matt/22.40?lang=eng#39)), as Jesus said of the
+commandments to love God and love our neighbor, and they emphasize the
+individual responsibility and accountability in our choices with respect to
+all other virtues and values (see [Matt.
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35)).
 
 The Bible teaches us that "God so loved the world, that he gave his only
-begotten Son." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).) The Doctrine
-and Covenants teaches that "Jesus Christ your Redeemer ... so loved the world
-that he gave his own life." ([D&amp;C 34:1, 3](https://www.lds.org/scriptures
-/dc-testament/dc/34.1%2C3?lang=eng#0).)
+begotten Son." ([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).) The
+Doctrine and Covenants teaches that "Jesus Christ your Redeemer ... so loved the
+world that he gave his own life." ([D&amp;C 34:1, 3](/scriptures/dc-
+testament/dc/34.1,3?lang=eng#0).)
 
 God so loved that _he gave._
 
@@ -72,8 +70,7 @@ learn to do the will of the Father.
 
 The love we speak of is not just a word or a feeling or a sentiment. John
 wrote: "My little children, let us not love in word, neither in tongue; but in
-deed and in truth." ([1 Jn.
-3:18](https://www.lds.org/scriptures/nt/1-jn/3.18?lang=eng#17).)
+deed and in truth." ([1 Jn. 3:18](/scriptures/nt/1-jn/3.18?lang=eng#17).)
 
 So we are speaking of choosing a course of sharing, of giving, of
 graciousness, of kindness, not as optional elements of the gospel, but the
@@ -81,7 +78,7 @@ heart of it. Decency and honor and unselfishness, good manners and good taste
 are expected of us. What really matters, after all, is what kind of people we
 are and _that_ we are daily, hourly, deciding and manifesting. Jesus said,
 "Behold I am the light which ye shall hold up--that which ye have seen me do."
-([3 Ne. 18:24](https://www.lds.org/scriptures/bofm/3-ne/18.24?lang=eng#23).)
+([3 Ne. 18:24](/scriptures/bofm/3-ne/18.24?lang=eng#23).)
 
 A sobering and poignant scene appears on our screen as we switch channels. A
 grieving young father and his two children sit before a television set in
@@ -113,7 +110,7 @@ from evil; to act for themselves and not to be acted upon. ...
 
 "Wherefore ... they are free to choose liberty and eternal life ... or to choose
 captivity and death." ([2 Ne.
-2:26-27](https://www.lds.org/scriptures/bofm/2-ne/2.26-27?lang=eng#25).)
+2:26-27](/scriptures/bofm/2-ne/2.26-27?lang=eng#25).)
 
 Switch channels with me to a scene on a Saturday night in a ranch home
 kitchen, where a boy who has just answered the telephone nervously approaches
@@ -158,7 +155,7 @@ because he was a little arrogant and proud, he rejected good counsel and let
 himself be led away by individuals who were described perfectly in the Book of
 Mormon, thousands of years ago, in their sinful persuasion of others. It is
 written of them that "they do it for a token of bravery." ([Moro.
-9:10](https://www.lds.org/scriptures/bofm/moro/9.10?lang=eng#9).)
+9:10](/scriptures/bofm/moro/9.10?lang=eng#9).)
 
 Imitation men being imitated; these "macho" visions of life, so pitifully
 empty, can lead only to tragedy.
@@ -175,7 +172,7 @@ knowledge, as the daylight is from the dark night.
 
 "For behold, the Spirit of Christ is given to every man, that he may know good
 from evil." ([Moro. 7:12,
-15-16](https://www.lds.org/scriptures/bofm/moro/7.12%2C15-16?lang=eng#11).)
+15-16](/scriptures/bofm/moro/7.12,15-16?lang=eng#11).)
 
 A new picture comes on the screen and rivets our attention. A strong-looking
 young football player is responding to questions from sportswriters about his
@@ -240,7 +237,9 @@ The scriptures teach us:
 
 "My sons, be not now negligent: for the Lord hath chosen you to stand before
 him, to serve him, and that ye should minister unto him." ([2 Chr.
-29:11](https://www.lds.org/scriptures/ot/2-chr/29.11?lang=eng#10).)
+29:11](/scriptures/ot/2-chr/29.11?lang=eng#10).)
 
 That we may, faithfully, I pray in the name of Jesus Christ, amen.
+
+## References
 

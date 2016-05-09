@@ -10,8 +10,7 @@ visitest him?
 with glory and honour.
 
 "Thou madest him to have dominion over the works of thy hands; thou hast put
-all things under his feet" ([Ps.
-8:3-6](https://www.lds.org/scriptures/ot/ps/8.3-6?lang=eng#2)).
+all things under his feet" ([Ps. 8:3-6](/scriptures/ot/ps/8.3-6?lang=eng#2)).
 
 This clearly puts into perspective the importance of us, his children, in the
 plan of mortality and eternal life. We also have the word of the Lord to Job
@@ -25,7 +24,7 @@ the line upon it?
 thereof;
 
 "When the morning stars sang together, and all the sons of God shouted for
-joy?" ([Job 38:4-7](https://www.lds.org/scriptures/ot/job/38.4-7?lang=eng#3).)
+joy?" ([Job 38:4-7](/scriptures/ot/job/38.4-7?lang=eng#3).)
 
 Brothers and sisters, we were in that council in heaven when this plan was
 introduced, and we were happy for the privilege, and opportunity, and blessing
@@ -33,9 +32,8 @@ of coming to earth to receive bodies, which would permit us to have
 experiences for good or for evil. My brothers and sisters, how grateful we are
 to have had part in this plan of redemption, rather than to feel as Paul told
 the Corinthians, "If in this life only we have hope in Christ, we are of all
-men most miserable" ([1 Cor.
-15:19](https://www.lds.org/scriptures/nt/1-cor/15.19?lang=eng#18)). Are we
-willing to give thanks for blessings and knowledge received?
+men most miserable" ([1 Cor. 15:19](/scriptures/nt/1-cor/15.19?lang=eng#18)).
+Are we willing to give thanks for blessings and knowledge received?
 
 I believe one of the greatest sins that we, the children of our Heavenly
 Father, are guilty of is the sin of ingratitude. President Joseph F. Smith
@@ -64,7 +62,7 @@ angry with them because they will not acknowledge his hand in all things.
 
 "And in nothing doth man offend God, or against none is his wrath kindled,
 save those who confess not his hand in all things, and obey not his
-commandments" ([D&amp;C 59:21](https://www.lds.org/scriptures/dc-
+commandments" ([D&amp;C 59:21](/scriptures/dc-
 testament/dc/59.21?lang=eng#20)).
 
 A classic example of ingratitude as spoken of by the Savior is in Luke,
@@ -91,8 +89,7 @@ nine?
 "There are not found that returned to give glory to God, save this stranger.
 
 "And he said unto him, Arise, go thy way: thy faith hath made thee whole"
-([Luke
-17:11-19](https://www.lds.org/scriptures/nt/luke/17.11-19?lang=eng#10)).
+([Luke 17:11-19](/scriptures/nt/luke/17.11-19?lang=eng#10)).
 
 I publicly express my gratitude. I am grateful this day to be able to testify
 to you that I know and understand the plan of our Father, that I can accept it
@@ -146,8 +143,8 @@ God help us to be grateful for our blessings, never to be guilty of the sin of
 ingratitude, and to instill this same gratitude into the lives of our
 children. The Lord has said, "And he who receiveth all things with
 thankfulness shall be made glorious; and the things of this earth shall be
-added unto him, even an hundred fold, yea, more" ([D&amp;C
-78:19](https://www.lds.org/scriptures/dc-testament/dc/78.19?lang=eng#18)).
+added unto him, even an hundred fold, yea, more" ([D&amp;C 78:19](/scriptures
+/dc-testament/dc/78.19?lang=eng#18)).
 
 This great principle of gratitude, made a daily part of our lives and our
 prayers, can lift and bless us as individuals, as members of the Church, and
@@ -155,4 +152,6 @@ as parents and families.
 
 This testimony, and with a love unfeigned to all the special children of our
 Heavenly Father, I bear humbly and in the name of Jesus Christ, amen.
+
+## References
 

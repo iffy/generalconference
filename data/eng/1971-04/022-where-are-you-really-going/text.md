@@ -151,8 +151,8 @@ it is sincere. This he has said:
 them _and forsake them._"
 
 "... he who has repented of his sins, the same is forgiven, and I, the Lord,
-remember them no more." ([D&amp;C 58:43, 42](https://www.lds.org/scriptures
-/dc-testament/dc/58.43%2C42?lang=eng#42). Italics added.)
+remember them no more." ([D&amp;C 58:43, 42](/scriptures/dc-
+testament/dc/58.43,42?lang=eng#42). Italics added.)
 
 This you can count on. O turn from those ways which will take you where no one
 really wants to go. Turn to that which will bring you peace and self-respect
@@ -186,13 +186,13 @@ everywhere, in the name of our Lord and Savior, Jesus the Christ. Amen.
 
 ## References
 
-  1.  John Ruskin, "Little Brass Nails."
+  1. John Ruskin, "Little Brass Nails."
 
-  2.  George Eliot, _Scenes from Clerical Life: Amos Barton._
+  2. George Eliot, _Scenes from Clerical Life: Amos Barton._
 
-  3.  Juvenal, _Satires, _xiii.
+  3. Juvenal, _Satires, _xiii.
 
-  4.  Cecil B. DeMille, Brigham Young University Commencement Address, 1957.
+  4. Cecil B. DeMille, Brigham Young University Commencement Address, 1957.
 
-  5.  Marcus Aurelius, _Meditations, _Book xii, sec. 17, line 68.
+  5. Marcus Aurelius, _Meditations, _Book xii, sec. 17, line 68.
 

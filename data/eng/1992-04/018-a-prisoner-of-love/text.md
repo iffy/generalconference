@@ -10,7 +10,7 @@ great consequence that the Savior, in his final instructions to his disciples,
 charges them with it: "Greater love hath no man than this, that a man lay down
 his life for his friends. ... I have chosen you ... that ye should go ... and that
 your fruit should remain." ([John 15:13,
-16](https://www.lds.org/scriptures/nt/john/15.13%2C16?lang=eng#12).)
+16](/scriptures/nt/john/15.13,16?lang=eng#12).)
 
 There has never been a greater need than now for an army of mature couples to
 go out into every far corner of this earth and retain the fruit of the
@@ -21,14 +21,13 @@ words of Ammon:
 abyss, but behold, how many of them are brought to behold the marvelous light
 of God! And this is the blessing which hath been bestowed upon us, that we
 have been made instruments in the hands of God to bring about this great
-work." ([Alma
-26:3](https://www.lds.org/scriptures/bofm/alma/26.3?lang=eng#2).)
+work." ([Alma 26:3](/scriptures/bofm/alma/26.3?lang=eng#2).)
 
 Imagine what thousands of couples could do this year, followed by hosts more
 in succeeding years. We could move into the fields of harvest, and we could
 nurture, care for, and gather them "into the garners, that they are not
 wasted. Yea, they shall not be beaten down by the storm at the last day."
-([Alma 26:5-6](https://www.lds.org/scriptures/bofm/alma/26.5-6?lang=eng#4).)
+([Alma 26:5-6](/scriptures/bofm/alma/26.5-6?lang=eng#4).)
 
 I think we will not be tested in the way the pioneers were tested. They were
 called to leave all worldly possessions, homes, even family and loved ones, to
@@ -43,8 +42,7 @@ There is a need--_not _to leave homes forever, but for a time--then return and
 reap the rich harvest of the faithful labor. Your children and grandchildren
 will be blessed. The power of good will go out from Zion. "How beautiful upon
 the mountains are the feet of him that bringeth good tidings; that publisheth
-peace." ([Mosiah
-12:21](https://www.lds.org/scriptures/bofm/mosiah/12.21?lang=eng#20).)
+peace." ([Mosiah 12:21](/scriptures/bofm/mosiah/12.21?lang=eng#20).)
 
 Can you imagine any more Christlike service than to secure the harvest?
 
@@ -153,18 +151,18 @@ share.
 
 The Apostle Paul asked the Ephesians "to know the love of Christ, which
 passeth knowledge, that ye might be filled with all the fulness of God."
-([Eph. 3:19](https://www.lds.org/scriptures/nt/eph/3.19?lang=eng#18).) We
-should be filled with all the fulness of God.
+([Eph. 3:19](/scriptures/nt/eph/3.19?lang=eng#18).) We should be filled with
+all the fulness of God.
 
 We ask along with James, "What doth it profit, my brethren, though a man say
 he hath faith, and have not works? Can faith save him?" ([James
-2:14](https://www.lds.org/scriptures/nt/james/2.14?lang=eng#13).)
+2:14](/scriptures/nt/james/2.14?lang=eng#13).)
 
 And in the last verse of the book of James, the Apostle gives us a key to our
 service. "Let him know, that he which converteth the sinner from the error of
 his way shall save a soul from death, and shall hide a multitude of sins."
-([James 5:20](https://www.lds.org/scriptures/nt/james/5.20?lang=eng#19).)
-Should the reward be less for the nurturer, the garnerer, the carer?
+([James 5:20](/scriptures/nt/james/5.20?lang=eng#19).) Should the reward be
+less for the nurturer, the garnerer, the carer?
 
 President Harold B. Lee taught the principle that only as we make ourselves
 totally available are we worthy disciples of Christ and obtain another promise
@@ -175,7 +173,7 @@ great key in verse five:
 "Therefore, thrust in your sickle with all your soul, and your sins are
 forgiven you, and you shall be laden with sheaves upon your back, for the
 laborer is worthy of his hire. Wherefore, your family shall live." [[D&amp;C
-31:5](https://www.lds.org/scriptures/dc-testament/dc/31.5?lang=eng#4)]
+31:5](/scriptures/dc-testament/dc/31.5?lang=eng#4)]
 
 Ours has been a giving generation. Why not one more time, that our families
 should live?
@@ -244,4 +242,6 @@ great for those who follow. Have we been "steeled" for the very purpose about
 which I have been speaking? Let the ranks of missionaries swell with couples
 from every broad reach of this earth that the fruit will remain, I pray in the
 name of Jesus Christ, amen.
+
+## References
 

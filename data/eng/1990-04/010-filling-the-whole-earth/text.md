@@ -54,8 +54,7 @@ determination has released new springs of faith and hope in the hearts of
 hundreds of millions of oppressed souls. Where there was despair, now the
 bright light of freedom shines forth. This only could have happened in such a
 miraculous way by the intervening hand of the Almighty! "Is anything too hard
-for the Lord?" ([Gen.
-18:14](https://www.lds.org/scriptures/ot/gen/18.14?lang=eng#13).)
+for the Lord?" ([Gen. 18:14](/scriptures/ot/gen/18.14?lang=eng#13).)
 
 Just after the Israelites had walked across the Jordan River from Moab into
 Canaan, Joshua instructed twelve men, one from each tribe, to each take a
@@ -67,8 +66,7 @@ the time when Israel crossed the Jordan on dry ground. Tell them that the Lord
 your God dried up the water of the Jordan for you until you had crossed, just
 as He dried up the Red Sea for us. Because of this, everyone on earth will
 know how great the Lord's power is, and you will honor the Lord your God
-forever." (See [Josh.
-4:21-24](https://www.lds.org/scriptures/ot/josh/4.21-24?lang=eng#20).)
+forever." (See [Josh. 4:21-24](/scriptures/ot/josh/4.21-24?lang=eng#20).)
 
 The Bible is replete with admonitions to remember the mighty acts of God as He
 has intervened in history for His people. We are witnesses of His mighty,
@@ -78,7 +76,7 @@ God is our Father. He is concerned about the welfare of His children
 everywhere. But even a patient, loving Heavenly Father must weary of
 tolerating ungodliness as evidenced when "the Lord rained upon Sodom and ...
 Gomorrah brimstone and fire from ... out of heaven." ([Gen.
-19:24](https://www.lds.org/scriptures/ot/gen/19.24?lang=eng#23).)
+19:24](/scriptures/ot/gen/19.24?lang=eng#23).)
 
 Julia Ward Howe felt impressed to share her deep personal feelings for the
 need of divine direction in the struggle between the states in America. During
@@ -120,7 +118,7 @@ the plain and precious truths of the Book of Mormon "to the convincing of the
 Jew and Gentile that JESUS is the CHRIST, the ETERNAL GOD, manifesting himself
 unto all nations." (Preface to the Book of Mormon.) These writings are to come
 unto the Gentiles that they may "know the decrees of God" and repent. ([Ether
-2:11](https://www.lds.org/scriptures/bofm/ether/2.11?lang=eng#10).)
+2:11](/scriptures/bofm/ether/2.11?lang=eng#10).)
 
 It is incumbent upon the members of the Church who have had the gift of
 religious freedom to share this knowledge and testimony with the peoples of
@@ -161,9 +159,8 @@ current." Then a fitting parallel came to his mind of the "scriptural
 description of minds and souls darkened and deceived by outward appearances
 while devoid of spirituality: '_Having a form of godliness, but denying the
 power thereof.'_ (II Tim. 3:5)." [[2 Tim.
-3:5](https://www.lds.org/scriptures/nt/2-tim/3.5?lang=eng#4)] (_Handbook of
-the Restoration,_ Independence, Mo.: Zion's Printing and Publishing Co., 1944,
-pp. 389-90.)
+3:5](/scriptures/nt/2-tim/3.5?lang=eng#4)] (_Handbook of the Restoration,_
+Independence, Mo.: Zion's Printing and Publishing Co., 1944, pp. 389-90.)
 
 A few years ago I had an interesting view of the tallest spire in Reykjavik,
 Iceland, as we were landing at the airport. We were told that this tall
@@ -217,11 +214,13 @@ The Lord instructed his young prophet Joseph in October of 1831:
 "The keys of the kingdom of God are committed unto man on the earth, and from
 thence shall the gospel roll forth unto the ends of the earth, as the stone
 which is cut out of the mountain without hands shall roll forth, until it has
-filled the whole earth." ([D&amp;C 65:2](https://www.lds.org/scriptures/dc-
+filled the whole earth." ([D&amp;C 65:2](/scriptures/dc-
 testament/dc/65.2?lang=eng#1).)
 
 I testify we are witnessing the fulfillment of this promise, and that this
 work, given by Almighty God to His Son to proclaim, to teach, and finally to
 judge, will be done with eternal love, in the name of our Lord and Savior,
 Jesus Christ, amen.
+
+## References
 

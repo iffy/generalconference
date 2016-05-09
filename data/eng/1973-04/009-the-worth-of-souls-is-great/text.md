@@ -68,14 +68,12 @@ Smith just prior to the organization of the Church, the Lord said:
 suffered the pain of all men, that all men might repent and come unto him.
 
 "And he hath risen again from the dead, that he might bring all men unto him,
-on conditions of repentance." ([D&amp;C
-18:10-12](https://www.lds.org/scriptures/dc-
+on conditions of repentance." ([D&amp;C 18:10-12](/scriptures/dc-
 testament/dc/18.10-12?lang=eng#9).)
 
 Our Lord's response to the Pharisees' question, "Why do they on the sabbath
 day that which is not lawful?" was, "The sabbath was made for man, and not man
-for the sabbath." ([Mark 2:24,
-27](https://www.lds.org/scriptures/nt/mark/2.24%2C27?lang=eng#23).)
+for the sabbath." ([Mark 2:24, 27](/scriptures/nt/mark/2.24,27?lang=eng#23).)
 
 I understand from what the Lord has revealed to us through the prophets that
 _people _are his greatest concern. We are his children. We are somebody, as
@@ -132,4 +130,6 @@ God grant us the vision as leaders, teachers, and parents to put people first.
 Remember the worth of souls is great in the sight of God. I add my personal
 witness. God lives. Jesus is the Christ. This is his church. This is his
 prophet. I so testify in the name of Jesus Christ. Amen.
+
+## References
 

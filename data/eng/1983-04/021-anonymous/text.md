@@ -22,8 +22,7 @@ disciples the true spirit of giving when He counseled, "Take heed that ye do
 not your alms before men, to be seen of them. ...
 
 "But when thou doest alms, let not thy left hand know what thy right hand
-doeth." ([Matt. 6:1,
-3](https://www.lds.org/scriptures/nt/matt/6.1%2C3?lang=eng#0).)
+doeth." ([Matt. 6:1, 3](/scriptures/nt/matt/6.1,3?lang=eng#0).)
 
 Then, as though to indelibly impress on their souls the practical application
 of this sacred truth, He came down from the mountain with a great multitude
@@ -34,8 +33,8 @@ Lord, if thou wilt, thou canst make me clean.
 And immediately his leprosy was cleansed.
 
 "And Jesus saith unto him, See thou tell no man." ([Matt.
-8:2-4](https://www.lds.org/scriptures/nt/matt/8.2-4?lang=eng#1).) The word
-_anonymous_ had a precious meaning then. It still has.
+8:2-4](/scriptures/nt/matt/8.2-4?lang=eng#1).) The word _anonymous_ had a
+precious meaning then. It still has.
 
 The classics of literature, as well as the words from holy writ, teach us the
 endurability of anonymity. A favorite of mine is Charles Dickens'"A Christmas
@@ -164,7 +163,7 @@ read to himself the words: "Lay not up for yourselves treasures upon earth,
 where moth and rust doth corrupt, and where thieves break through and steal:
 
 "But lay up for yourselves treasures in heaven." ([Matt.
-6:19-20](https://www.lds.org/scriptures/nt/matt/6.19-20?lang=eng#18).)
+6:19-20](/scriptures/nt/matt/6.19-20?lang=eng#18).)
 
 The book seemed to float away from him. He leaned forward upon the table, his
 head resting on his folded hands. He slipped into a deep sleep.
@@ -226,14 +225,15 @@ May this truth guide our lives. May we look upward as we press forward in the
 service of our God and our fellowmen. And may we incline an ear toward
 Galilee, that we might hear perhaps an echo of the Savior's teachings: "Do not
 your alms before men, to be seen of them." ([Matt.
-6:1](https://www.lds.org/scriptures/nt/matt/6.1?lang=eng#0).) "Let not thy
-left hand know what thy right hand doeth." ([Matt.
-6:3](https://www.lds.org/scriptures/nt/matt/6.3?lang=eng#2).) And of our good
-deeds: "See thou tell no man." ([Matt.
-8:4](https://www.lds.org/scriptures/nt/matt/8.4?lang=eng#3).) Our hearts will
-then be lighter, our lives brighter, and our souls richer.
+6:1](/scriptures/nt/matt/6.1?lang=eng#0).) "Let not thy left hand know what
+thy right hand doeth." ([Matt. 6:3](/scriptures/nt/matt/6.3?lang=eng#2).) And
+of our good deeds: "See thou tell no man." ([Matt.
+8:4](/scriptures/nt/matt/8.4?lang=eng#3).) Our hearts will then be lighter,
+our lives brighter, and our souls richer.
 
 Loving service anonymously given may be unknown to man--but the gift and the
 giver are known to God. Of this truth I testify, in the name of Jesus Christ,
 amen.
+
+## References
 

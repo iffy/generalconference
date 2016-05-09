@@ -24,22 +24,20 @@ time of need.
 We urge all Latter-day Saints to be good neighbors and to be good citizens,
 loyal to their flag and country. "We believe in being subject to kings,
 presidents, rulers, and magistrates, in obeying, honoring, and sustaining the
-law." ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).) All
-Americans, and indeed people throughout the civilized world, were shocked and
-saddened last week when an attempt was made to assassinate the president of
-the United States, at which time he and three others near him were seriously
-wounded. I am confident all of you join with me in a fervent prayer that
-President Reagan and his associates will speedily return to full health and
-strength. We deplore such acts of violence wherever they may occur in the
-world.
+law." ([A of F 1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).) All Americans,
+and indeed people throughout the civilized world, were shocked and saddened
+last week when an attempt was made to assassinate the president of the United
+States, at which time he and three others near him were seriously wounded. I
+am confident all of you join with me in a fervent prayer that President Reagan
+and his associates will speedily return to full health and strength. We
+deplore such acts of violence wherever they may occur in the world.
 
 During this conference we have focused on the basic mission of the Church. We
 have been counseled to manage the growth of the Church "in wisdom and order."
-([Mosiah 4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26).)
-We have been urged to qualify ourselves to receive all the ordinances and
-blessings of the gospel by keeping the commandments, doing our duty, and
-paying a true tithe and generous fast offerings.
+([Mosiah 4:27](/scriptures/bofm/mosiah/4.27?lang=eng#26).) We have been urged
+to qualify ourselves to receive all the ordinances and blessings of the gospel
+by keeping the commandments, doing our duty, and paying a true tithe and
+generous fast offerings.
 
 As we have met in this historic Tabernacle and have contemplated things of
 eternity, it has seemed as though time has stood still even though outside
@@ -91,4 +89,6 @@ head and the chief cornerstone. God lives, and Jesus is the Christ. He is the
 Only Begotten Son, the Savior and Redeemer of this world. I leave you with
 this testimony and with my blessings and my love and affection, in the name of
 Jesus Christ, amen.
+
+## References
 

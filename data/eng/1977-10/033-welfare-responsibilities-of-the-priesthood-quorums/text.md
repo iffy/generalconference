@@ -137,8 +137,7 @@ underemployed.
 In a revelation given in 1831, the Lord charged the elders to watch over the
 Church: "And remember in all things the poor and the needy, the sick and the
 afflicted, for he that doeth not these things, the same is not my disciple."
-([D&amp;C 52:40](https://www.lds.org/scriptures/dc-
-testament/dc/52.40?lang=eng#39).)
+([D&amp;C 52:40](/scriptures/dc-testament/dc/52.40?lang=eng#39).)
 
 Each quorum has direct access to the home of every member through assigned
 home teachers. These brethren of the priesthood have not only the
@@ -176,4 +175,6 @@ adversity that might blow, be it economic, social, or spiritual."
 God help us to increase our efforts toward that day of realization, I humbly
 pray, as I leave with you my testimony of the divinity of this work in the
 name of the Lord Jesus Christ. Amen.
+
+## References
 

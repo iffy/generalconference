@@ -14,11 +14,10 @@ toward the application of this principle in other settings. Parents should
 also teach powerful ideas. So should home teachers, visiting teachers, and the
 teachers in various classes. The Savior warned that we will be judged for
 "every idle word that [we] shall speak" ([Matt.
-12:36](https://www.lds.org/scriptures/nt/matt/12.36?lang=eng#35)). Modern
-revelation commands us to cease from "light speeches" and "light-mindedness"
-([D&amp;C 88:121](https://www.lds.org/scriptures/dc-
-testament/dc/88.121?lang=eng#120)) and to cast away "idle thoughts" and
-"excess of laughter" ([D&amp;C 88:69](https://www.lds.org/scriptures/dc-
+12:36](/scriptures/nt/matt/12.36?lang=eng#35)). Modern revelation commands us
+to cease from "light speeches" and "light-mindedness" ([D&amp;C
+88:121](/scriptures/dc-testament/dc/88.121?lang=eng#120)) and to cast away
+"idle thoughts" and "excess of laughter" ([D&amp;C 88:69](/scriptures/dc-
 testament/dc/88.69?lang=eng#68)). There are plenty of other spokesmen for
 trivial things. Latter-day Saints should be constantly concerned with teaching
 and emphasizing those great and powerful eternal truths that will help us find
@@ -80,17 +79,15 @@ A. Widtsoe, Salt Lake City: Deseret Book, 1978, p. 37). The idea of eternal
 progress is one of the most powerful ideas in our theology. It gives us hope
 when we falter and challenge when we soar. Surely this is one of the great
 "solemnities of eternity" that we are commanded to let "rest upon [our] minds"
-([D&amp;C 43:34](https://www.lds.org/scriptures/dc-
-testament/dc/43.34?lang=eng#33)).
+([D&amp;C 43:34](/scriptures/dc-testament/dc/43.34?lang=eng#33)).
 
 Another idea that is powerful to lift us from discouragement is that the work
 of The Church of Jesus Christ of Latter-day Saints, "to bring to pass the ...
-eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)), is an
-eternal work. Not all problems are overcome and not all needed relationships
-are fixed in mortality. The work of salvation goes on beyond the veil of
-death, and we should not be too apprehensive about incompleteness within the
-limits of mortality.
+eternal life of man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)),
+is an eternal work. Not all problems are overcome and not all needed
+relationships are fixed in mortality. The work of salvation goes on beyond the
+veil of death, and we should not be too apprehensive about incompleteness
+within the limits of mortality.
 
 A powerful idea with immediate practical application is the reality that we
 can pray to our Heavenly Father, and he will hear our prayers and help us in
@@ -133,7 +130,7 @@ between God and the Devil," he said, "is that God creates and organizes, while
 the whole study of the Devil is to destroy" (_Discourses of Brigham Young,_ p.
 69). In that contrast we have an important example of the reality of
 "opposition in all things" ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10)).
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10)).
 
 Remember, our Savior, Jesus Christ, always builds us up and never tears us
 down. We should apply the power of that example in the ways we use our time,
@@ -153,8 +150,8 @@ example should give us direction.
 
 We should always put the Savior first. The first commandment Jehovah gave to
 the children of Israel was, "Thou shalt have no other gods before me" ([Ex.
-20:3](https://www.lds.org/scriptures/ot/ex/20.3?lang=eng#2)). This seems like
-a simple idea, but in practice many find it difficult.
+20:3](/scriptures/ot/ex/20.3?lang=eng#2)). This seems like a simple idea, but
+in practice many find it difficult.
 
 It is surprisingly easy to take what should be our first devotion and
 subordinate it to other priorities. Fifty years ago, the Christian philosopher
@@ -222,17 +219,18 @@ I conclude with an example from the life of the Apostle Paul. During his
 ministry he was exposed to ample light-mindedness, idle thoughts, and trivial
 things. In Athens he observed that "all the Athenians and strangers which were
 there [in the market] spent their time in nothing else, but ... to tell, or to
-hear some new thing" ([Acts
-17:21](https://www.lds.org/scriptures/nt/acts/17.21?lang=eng#20)). Paul's
-determination to focus on powerful ideas is evident in one of his letters to
-the Saints in Corinth. He had not come "with excellency of speech or of
-wisdom," he reminded them. "For I determined not to know any thing among you,
-save Jesus Christ, and him crucified" ([1 Cor.
-2:1-2](https://www.lds.org/scriptures/nt/1-cor/2.1-2?lang=eng#0)).
+hear some new thing" ([Acts 17:21](/scriptures/nt/acts/17.21?lang=eng#20)).
+Paul's determination to focus on powerful ideas is evident in one of his
+letters to the Saints in Corinth. He had not come "with excellency of speech
+or of wisdom," he reminded them. "For I determined not to know any thing among
+you, save Jesus Christ, and him crucified" ([1 Cor.
+2:1-2](/scriptures/nt/1-cor/2.1-2?lang=eng#0)).
 
 Let us follow the commandments of God and the examples of his servants. Let us
 focus our teachings on those great and powerful ideas that have eternal
 significance in promoting righteousness, building up the children of God, and
 helping each of us toward our destiny of eternal life. That we may do so is my
 fervent prayer, in the name of Jesus Christ, amen.
+
+## References
 

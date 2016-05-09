@@ -4,9 +4,9 @@ As members and leaders of this church, we are often depicted as "always going
 to or coming from meetings." This is generally true, but we need to remember
 why we do so. The Lord, by revelation, reminds us that when we are assembled,
 as we are here tonight, we are to be instructed and edified that we may know
-how to act upon his law and commandments (see [D&amp;C
-43:8-9](https://www.lds.org/scriptures/dc-testament/dc/43.8-9?lang=eng#7)).
-How important is it to remember these instructions?
+how to act upon his law and commandments (see [D&amp;C 43:8-9](/scriptures/dc-
+testament/dc/43.8-9?lang=eng#7)). How important is it to remember these
+instructions?
 
 To remember is to keep in mind, to store in memory for later attention or
 consideration. I remember something so I can use it later for a certain
@@ -27,8 +27,7 @@ Reflecting on this spiritual teaching pattern in my life, I would like to
 share with you some of my memories as a convert to the Church. This might help
 someone--young or older--learn how to "stand as witnesses of God at all times
 and in all things, and in all places" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)) under any
-circumstances.
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)) under any circumstances.
 
 It all started on the day of my baptism. I was twenty-two years old and a
 college student. I was part of a small group that assembled at a swimming pool
@@ -67,9 +66,9 @@ different. It impressed me that now I was blessing the emblems of the
 Atonement and memorizing "that they may eat in remembrance of the body of thy
 Son, and witness unto thee, ... and always remember him and keep his
 commandments ... that they may always have his Spirit to be with them" ([D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76)). It
-was an unforgettable experience, and I still visualize it today when I bless
-the sacrament as a General Authority.
+20:77](/scriptures/dc-testament/dc/20.77?lang=eng#76)). It was an
+unforgettable experience, and I still visualize it today when I bless the
+sacrament as a General Authority.
 
 Two years passed after my baptism, and the day arrived for me to receive the
 Melchizedek Priesthood and to be ordained an elder. The mission president once
@@ -100,16 +99,14 @@ without temple ordinances. I wanted to avoid these tragedies.
 
 What is this doctrine? In the Bible, it states that Adam was created, but he
 was alone. We read, "But for Adam there was not found an help meet for him"
-([Gen. 2:20](https://www.lds.org/scriptures/ot/gen/2.20?lang=eng#19)). Thus,
-the Lord created woman--not another man--and commanded that they should be
-united in the sacred bonds of marriage. The first divine, righteous, ordained
-union between a man and a woman was sealed by these words, "A man ... shall
-cleave unto his wife" ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23)). This is the
-established doctrine, and it will never change. It is repeated in modern
-revelation: "Thou shalt love thy wife with all thy heart, and shalt cleave
-unto her and none else" ([D&amp;C 42:22](https://www.lds.org/scriptures/dc-
-testament/dc/42.22?lang=eng#21)).
+([Gen. 2:20](/scriptures/ot/gen/2.20?lang=eng#19)). Thus, the Lord created
+woman--not another man--and commanded that they should be united in the sacred
+bonds of marriage. The first divine, righteous, ordained union between a man
+and a woman was sealed by these words, "A man ... shall cleave unto his wife"
+([Gen. 2:24](/scriptures/ot/gen/2.24?lang=eng#23)). This is the established
+doctrine, and it will never change. It is repeated in modern revelation: "Thou
+shalt love thy wife with all thy heart, and shalt cleave unto her and none
+else" ([D&amp;C 42:22](/scriptures/dc-testament/dc/42.22?lang=eng#21)).
 
 This union is solemnized by the authority of the everlasting priesthood into a
 holy and sacred ordinance, the temple sealing. It is also called the new and
@@ -117,8 +114,7 @@ everlasting covenant of marriage, and its purpose is to bind couples together
 on earth and bring them to a fulness of exaltation in the kingdom of God in
 the hereafter. Then, Adam and Eve were also commanded to multiply and
 replenish the earth. "And Adam called his wife's name Eve; because she was the
-mother of all living" ([Gen.
-3:20](https://www.lds.org/scriptures/ot/gen/3.20?lang=eng#19)).
+mother of all living" ([Gen. 3:20](/scriptures/ot/gen/3.20?lang=eng#19)).
 
 The true concept of marriage and family, the unit composed of a husband, wife,
 and children sealed together, was instituted at the beginning by God to create
@@ -178,7 +174,7 @@ Dei_ can be literally interpreted in the Church as "the voice of the people is
 the voice of God." The commercial slogan "Have it your way" certainly does not
 apply in God's plan for the salvation of his children when we read that the
 very cause of apostasy is when "every man walketh in his own way, and after
-the image of his own god" ([D&amp;C 1:16](https://www.lds.org/scriptures/dc-
+the image of his own god" ([D&amp;C 1:16](/scriptures/dc-
 testament/dc/1.16?lang=eng#15)). How do you overcome the temptation to have it
 your own way, to satisfy your own appetites, and to follow the world's trends?
 
@@ -193,4 +189,6 @@ priesthood of the Son of God is vested herein, and that prophets, seers, and
 revelators who preside over this church are appointed to preserve the pure
 doctrine of Jesus Christ and the authority of his priesthood for the salvation
 of his people. In the name of Jesus Christ, amen.
+
+## References
 

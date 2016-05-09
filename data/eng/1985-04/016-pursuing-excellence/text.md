@@ -47,7 +47,7 @@ said, Son, go work today in my vineyard.
 sir: and went not.
 
 "Whether of them twain did the will of his father?" [[Matt.
-21:28-31](https://www.lds.org/scriptures/nt/matt/21.28-31?lang=eng#27)]
+21:28-31](/scriptures/nt/matt/21.28-31?lang=eng#27)]
 
 Let's not just talk about what we want to be. Let's not just dream about what
 we want to be. Let's just do it, whatever it takes. To reach your goals, you
@@ -186,4 +186,6 @@ I know I have a long way to go, but I pray that I may always improve and
 someday be found worthy of all the blessings that Heavenly Father has in store
 for those that truly serve him, in the name of our Lord and Savior, Jesus
 Christ, amen.
+
+## References
 

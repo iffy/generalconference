@@ -1,431 +1,353 @@
 items:
-- article_id: '92911_000_003'
-  item: '000'
+- item: 1
   key: 000-sin-will-not-prevail
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: sin-will-not-prevail
   speaker: Gordon B. Hinckley
   title: Sin Will Not Prevail
   url: https://www.lds.org/general-conference/1992/10/sin-will-not-prevail?lang=eng
   year: 1992
-- article_id: '92911_000_004'
-  item: '001'
+- item: 2
   key: 001-where-is-wisdom
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: where-is-wisdom
   speaker: Russell M. Nelson
   title: Where Is Wisdom?
   url: https://www.lds.org/general-conference/1992/10/where-is-wisdom?lang=eng
   year: 1992
-- article_id: '92911_000_005'
-  item: '002'
+- item: 3
   key: 002-by-the-power-of-his-word-did-they-cause-prisons-to-tumble
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: by-the-power-of-his-word-did-they-cause-prisons-to-tumble
   speaker: James M. Paramore
-  title: "\u201CBy the Power of His Word Did They Cause Prisons to Tumble\u201D"
+  title: '"By the Power of His Word Did They Cause Prisons to Tumble"'
   url: https://www.lds.org/general-conference/1992/10/by-the-power-of-his-word-did-they-cause-prisons-to-tumble?lang=eng
   year: 1992
-- article_id: '92911_000_006'
-  item: '003'
+- item: 4
   key: 003-spiritual-revival
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: spiritual-revival
   speaker: Glenn L. Pace
   title: Spiritual Revival
   url: https://www.lds.org/general-conference/1992/10/spiritual-revival?lang=eng
   year: 1992
-- article_id: '92911_000_007'
-  item: '004'
+- item: 5
   key: 004-the-golden-years
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-golden-years
   speaker: Robert L. Backman
   title: The Golden Years
   url: https://www.lds.org/general-conference/1992/10/the-golden-years?lang=eng
   year: 1992
-- article_id: '92911_000_008'
-  item: '005'
+- item: 6
   key: 005-behold-the-lord-hath-shown-unto-me-great-and-marvelous-things
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: behold-the-lord-hath-shown-unto-me-great-and-marvelous-things
   speaker: L. Tom Perry
-  title: "\u201CBehold, the Lord Hath Shown unto Me Great and Marvelous Things\u201D"
+  title: '"Behold, the Lord Hath Shown unto Me Great and Marvelous Things"'
   url: https://www.lds.org/general-conference/1992/10/behold-the-lord-hath-shown-unto-me-great-and-marvelous-things?lang=eng
   year: 1992
-- article_id: '92911_000_009'
-  item: '006'
+- item: 7
   key: 006-the-beacon-in-the-harbor-of-peace
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-beacon-in-the-harbor-of-peace
   speaker: Howard W. Hunter
   title: The Beacon in the Harbor of Peace
   url: https://www.lds.org/general-conference/1992/10/the-beacon-in-the-harbor-of-peace?lang=eng
   year: 1992
-- article_id: '92911_000_010'
-  item: '007'
+- item: 8
   key: 007-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Gordon B. Hinckley
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1992/10/the-sustaining-of-church-officers?lang=eng
   year: 1992
-- article_id: '92911_000_011'
-  item: 008
+- item: 9
   key: 008-a-yearning-for-home
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-yearning-for-home
   speaker: Marvin J. Ashton
   title: A Yearning for Home
   url: https://www.lds.org/general-conference/1992/10/a-yearning-for-home?lang=eng
   year: 1992
-- article_id: '92911_000_012'
-  item: 009
+- item: 10
   key: 009-honour-thy-father-and-thy-mother
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: honour-thy-father-and-thy-mother
   speaker: Lino Alvarez
-  title: "\u201CHonour Thy Father and Thy Mother\u201D"
+  title: '"Honour Thy Father and Thy Mother"'
   url: https://www.lds.org/general-conference/1992/10/honour-thy-father-and-thy-mother?lang=eng
   year: 1992
-- article_id: '92911_000_013'
-  item: '010'
+- item: 11
   key: 010-born-of-goodly-parents
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: born-of-goodly-parents
   speaker: Dallas N. Archibald
-  title: "\u201CBorn of Goodly Parents\u201D"
+  title: '"Born of Goodly Parents"'
   url: https://www.lds.org/general-conference/1992/10/born-of-goodly-parents?lang=eng
   year: 1992
-- article_id: '92911_000_014'
-  item: '011'
+- item: 12
   key: 011-coming-unto-christ-by-searching-the-scriptures
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: coming-unto-christ-by-searching-the-scriptures
   speaker: Merrill J. Bateman
   title: Coming unto Christ by Searching the Scriptures
   url: https://www.lds.org/general-conference/1992/10/coming-unto-christ-by-searching-the-scriptures?lang=eng
   year: 1992
-- article_id: '92911_000_015'
-  item: '012'
+- item: 13
   key: 012-love-of-christ
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: love-of-christ
   speaker: C. Max Caldwell
   title: Love of Christ
   url: https://www.lds.org/general-conference/1992/10/love-of-christ?lang=eng
   year: 1992
-- article_id: '92911_000_016'
-  item: '013'
+- item: 14
   key: 013-the-joy-of-hope-fulfilled
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-joy-of-hope-fulfilled
   speaker: M. Russell Ballard
   title: The Joy of Hope Fulfilled
   url: https://www.lds.org/general-conference/1992/10/the-joy-of-hope-fulfilled?lang=eng
   year: 1992
-- article_id: '92911_000_017'
-  item: '014'
+- item: 15
   key: 014-spiritual-bonfires-of-testimony
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: spiritual-bonfires-of-testimony
   speaker: Joseph B. Wirthlin
   title: Spiritual Bonfires of Testimony
   url: https://www.lds.org/general-conference/1992/10/spiritual-bonfires-of-testimony?lang=eng
   year: 1992
-- article_id: '92911_000_018'
-  item: '015'
+- item: 16
   key: 015-bible-stories-and-personal-protection
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: bible-stories-and-personal-protection
   speaker: Dallin H. Oaks
   title: Bible Stories and Personal Protection
   url: https://www.lds.org/general-conference/1992/10/bible-stories-and-personal-protection?lang=eng
   year: 1992
-- article_id: '92911_000_019'
-  item: '016'
+- item: 17
   key: 016-the-lord-will-prosper-the-righteous
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-lord-will-prosper-the-righteous
   speaker: Dean L. Larsen
   title: The Lord Will Prosper the Righteous
   url: https://www.lds.org/general-conference/1992/10/the-lord-will-prosper-the-righteous?lang=eng
   year: 1992
-- article_id: '92911_000_020'
-  item: '017'
+- item: 18
   key: 017-jesus-christ-is-at-the-center-of-the-restoration-of-the-gospel
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: jesus-christ-is-at-the-center-of-the-restoration-of-the-gospel
   speaker: Gary J. Coleman
   title: Jesus Christ Is at the Center of the Restoration of the Gospel
   url: https://www.lds.org/general-conference/1992/10/jesus-christ-is-at-the-center-of-the-restoration-of-the-gospel?lang=eng
   year: 1992
-- article_id: '92911_000_021'
-  item: 018
+- item: 19
   key: 018-nobody-said-that-it-would-be-easy
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: nobody-said-that-it-would-be-easy
   speaker: John B. Dickson
   title: Nobody Said That It Would Be Easy
   url: https://www.lds.org/general-conference/1992/10/nobody-said-that-it-would-be-easy?lang=eng
   year: 1992
-- article_id: '92911_000_022'
-  item: 019
+- item: 20
   key: 019-the-priesthood-in-action
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-priesthood-in-action
   speaker: Thomas S. Monson
   title: The Priesthood in Action
   url: https://www.lds.org/general-conference/1992/10/the-priesthood-in-action?lang=eng
   year: 1992
-- article_id: '92911_000_023'
-  item: '020'
+- item: 21
   key: 020-building-your-tabernacle
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: building-your-tabernacle
   speaker: Gordon B. Hinckley
   title: Building Your Tabernacle
   url: https://www.lds.org/general-conference/1992/10/building-your-tabernacle?lang=eng
   year: 1992
-- article_id: '92911_000_024'
-  item: '021'
+- item: 22
   key: 021-the-church-is-on-course
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-church-is-on-course
   speaker: Gordon B. Hinckley
   title: The Church Is on Course
   url: https://www.lds.org/general-conference/1992/10/the-church-is-on-course?lang=eng
   year: 1992
-- article_id: '92911_000_025'
-  item: '022'
+- item: 23
   key: 022-healing-your-damaged-life
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: healing-your-damaged-life
   speaker: Richard G. Scott
   title: Healing Your Damaged Life
   url: https://www.lds.org/general-conference/1992/10/healing-your-damaged-life?lang=eng
   year: 1992
-- article_id: '92911_000_026'
-  item: '023'
+- item: 24
   key: 023-a-loving-communicating-god
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-loving-communicating-god
   speaker: Marion D. Hanks
   title: A Loving, Communicating God
   url: https://www.lds.org/general-conference/1992/10/a-loving-communicating-god?lang=eng
   year: 1992
-- article_id: '92911_000_027'
-  item: '024'
+- item: 25
   key: 024-settle-this-in-your-hearts
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: settle-this-in-your-hearts
   speaker: Neal A. Maxwell
-  title: "\u201CSettle This in Your Hearts\u201D"
+  title: '"Settle This in Your Hearts"'
   url: https://www.lds.org/general-conference/1992/10/settle-this-in-your-hearts?lang=eng
   year: 1992
-- article_id: '92911_000_028'
-  item: '025'
+- item: 26
   key: 025-miracles-then-and-now
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: miracles-then-and-now
   speaker: Thomas S. Monson
   title: "Miracles\u2014Then and Now"
   url: https://www.lds.org/general-conference/1992/10/miracles-then-and-now?lang=eng
   year: 1992
-- article_id: '92911_000_029'
-  item: '026'
+- item: 27
   key: 026-to-be-learned-is-good-if
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: to-be-learned-is-good-if
   speaker: Boyd K. Packer
-  title: "\u201CTo Be Learned Is Good If \u2026\u201D"
+  title: '"To Be Learned Is Good If ..."'
   url: https://www.lds.org/general-conference/1992/10/to-be-learned-is-good-if?lang=eng
   year: 1992
-- article_id: '92911_000_030'
-  item: '027'
+- item: 28
   key: 027-successful-living-of-gospel-principles
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: successful-living-of-gospel-principles
   speaker: David B. Haight
   title: Successful Living of Gospel Principles
   url: https://www.lds.org/general-conference/1992/10/successful-living-of-gospel-principles?lang=eng
   year: 1992
-- article_id: '92911_000_031'
-  item: 028
+- item: 29
   key: 028-by-way-of-invitation-alma-5-62
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: by-way-of-invitation-alma-5-62
-  speaker: Jo N. Jepsen
-  title: "\u201CBy Way of Invitation\u201D (Alma 5:62)"
+  speaker: Betty Jo N. Jepsen
+  title: '"By Way of Invitation" (Alma 5:62)'
   url: https://www.lds.org/general-conference/1992/10/by-way-of-invitation-alma-5-62?lang=eng
   year: 1992
-- article_id: '92911_000_032'
-  item: 029
+- item: 30
   key: 029-becoming-wise-unto-salvation
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: becoming-wise-unto-salvation
   speaker: John E. Fowler
   title: Becoming Wise unto Salvation
   url: https://www.lds.org/general-conference/1992/10/becoming-wise-unto-salvation?lang=eng
   year: 1992
-- article_id: '92911_000_033'
-  item: '030'
+- item: 31
   key: 030-remember-also-the-promises
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: remember-also-the-promises
   speaker: Jay E. Jensen
-  title: "\u201CRemember Also the Promises\u201D"
+  title: '"Remember Also the Promises"'
   url: https://www.lds.org/general-conference/1992/10/remember-also-the-promises?lang=eng
   year: 1992
-- article_id: '92911_000_034'
-  item: '031'
+- item: 32
   key: 031-missionary-work-in-the-philippines
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: missionary-work-in-the-philippines
   speaker: Augusto A. Lim
   title: Missionary Work in the Philippines
   url: https://www.lds.org/general-conference/1992/10/missionary-work-in-the-philippines?lang=eng
   year: 1992
-- article_id: '92911_000_035'
-  item: '032'
+- item: 33
   key: 032-a-priceless-heritage
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-priceless-heritage
   speaker: James E. Faust
   title: A Priceless Heritage
   url: https://www.lds.org/general-conference/1992/10/a-priceless-heritage?lang=eng
   year: 1992
-- article_id: '92911_000_036'
-  item: '033'
+- item: 34
   key: 033-at-parting
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: at-parting
   speaker: Thomas S. Monson
   title: At Parting
   url: https://www.lds.org/general-conference/1992/10/at-parting?lang=eng
   year: 1992
-- article_id: '92911_000_037'
-  item: '034'
+- item: 35
   key: 034-confidence-through-conversion
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: confidence-through-conversion
   speaker: Aileen H. Clyde
   title: Confidence through Conversion
   url: https://www.lds.org/general-conference/1992/10/confidence-through-conversion?lang=eng
   year: 1992
-- article_id: '92911_000_038'
-  item: '035'
+- item: 36
   key: 035-fear
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: fear
   speaker: Virginia H. Pearce
   title: Fear
   url: https://www.lds.org/general-conference/1992/10/fear?lang=eng
   year: 1992
-- article_id: '92911_000_039'
-  item: '036'
+- item: 37
   key: 036-behold-your-little-ones
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: behold-your-little-ones
   speaker: Michaelene P. Grassli
-  title: "\u201CBehold Your Little Ones\u201D"
+  title: '"Behold Your Little Ones"'
   url: https://www.lds.org/general-conference/1992/10/behold-your-little-ones?lang=eng
   year: 1992
-- article_id: '92911_000_040'
-  item: '037'
+- item: 38
   key: 037-to-the-women-of-the-church
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: to-the-women-of-the-church
   speaker: Howard W. Hunter
   title: To the Women of the Church
   url: https://www.lds.org/general-conference/1992/10/to-the-women-of-the-church?lang=eng
   year: 1992
-- article_id: '92911_000_041'
-  item: 038
+- item: 39
   key: 038-an-example-of-the-believers
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: an-example-of-the-believers
   speaker: Thomas S. Monson
-  title: "\u201CAn Example of the Believers\u201D"
+  title: '"An Example of the Believers"'
   url: https://www.lds.org/general-conference/1992/10/an-example-of-the-believers?lang=eng
   year: 1992
 month: 10

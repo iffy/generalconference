@@ -13,11 +13,10 @@ spiritual.
 In a recent conference, Elder Boyd K. Packer said, "As we test the _moral_
 environment, we find the _pollution_ index is spiraling upward" (_Ensign,_ May
 1992, p. 66). The Apostle Paul foresaw "that in the last days perilous times
-shall come" ([2 Tim.
-3:1](https://www.lds.org/scriptures/nt/2-tim/3.1?lang=eng#0)). And speaking of
-the last days, the prophet Moroni declared, "Yea, it shall come in a day when
-there shall be great pollutions upon the face of the earth" ([Morm.
-8:31](https://www.lds.org/scriptures/bofm/morm/8.31?lang=eng#30)).
+shall come" ([2 Tim. 3:1](/scriptures/nt/2-tim/3.1?lang=eng#0)). And speaking
+of the last days, the prophet Moroni declared, "Yea, it shall come in a day
+when there shall be great pollutions upon the face of the earth" ([Morm.
+8:31](/scriptures/bofm/morm/8.31?lang=eng#30)).
 
 Sadly, the effects of this great pollution are perhaps most evident in the
 mass media, films, television, and popular music. Of this, Senator Robert D.
@@ -119,7 +118,7 @@ Then he concludes:
 
 "Lawmakers in their overeagerness to protect the child have legislated until
 the pendulum has swung to the other extreme. But no law prohibits most work
-[here] suggested ... , and parents can make work" (_The Teachings of Spencer W.
+[here] suggested ..., and parents can make work" (_The Teachings of Spencer W.
 Kimball,_ ed. Edward L. Kimball, Salt Lake City: Bookcraft, 1982, pp. 360-61).
 
 In addition, help your children learn self-discipline by such activities as
@@ -139,11 +138,9 @@ are much more successful.
 Third, create an environment in your family in which spiritual experiences can
 occur. For example:
 
-  * Remember family prayer every day. With schedules as they are, you may need to have more than one prayer. Sending children out of your home without the spiritual protection of prayer is like sending them out into a blizzard without sufficient clothing.
-
-  * Hold family home evenings _every week_ without fail. This is a wonderful time to share your testimony with your children. Give them an opportunity to share their feelings about the gospel. Help them to learn to recognize when they feel the presence of the Spirit. Family home evenings will help create an island of refuge and security within your own home.
-
-  * Read the scriptures together daily as a family. There is real power in the scriptures.
+  * Remember family prayer every day. With schedules as they are, you may need to have more than one prayer. Sending children out of your home without the spiritual protection of prayer is like sending them out into a blizzard without sufficient clothing. 
+  * Hold family home evenings _every week_ without fail. This is a wonderful time to share your testimony with your children. Give them an opportunity to share their feelings about the gospel. Help them to learn to recognize when they feel the presence of the Spirit. Family home evenings will help create an island of refuge and security within your own home. 
+  * Read the scriptures together daily as a family. There is real power in the scriptures. 
 
 Is the Book of Mormon a significant part of your reading? Count the number of
 rich promises President Marion G. Romney made to parents when he said:
@@ -168,14 +165,13 @@ for your own family's sake, make some changes.
 President Harold B. Lee said: "We must learn to give heed to the words and
 commandments that the Lord shall give through his prophet ... [and quoting from
 the Doctrine and Covenants] 'as if from mine own mouth, in all patience and
-faith' ([D&amp;C 21:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-5?lang=eng#3))." He continued: "There will be some things
-that take patience and faith. You may not like what comes from the authority
-of the Church. It may contradict your political views. It may contradict your
-social views. It may interfere with some of your social life. ... Your safety
-and ours depends upon whether or not we follow the ones whom the Lord has
-placed to preside over his church" (in Conference Report, Oct. 1970, pp.
-152-53).
+faith' ([D&amp;C 21:4-5](/scriptures/dc-testament/dc/21.4-5?lang=eng#3))." He
+continued: "There will be some things that take patience and faith. You may
+not like what comes from the authority of the Church. It may contradict your
+political views. It may contradict your social views. It may interfere with
+some of your social life. ... Your safety and ours depends upon whether or not
+we follow the ones whom the Lord has placed to preside over his church" (in
+Conference Report, Oct. 1970, pp. 152-53).
 
 From a personal standpoint, of what value is it to have living prophets if we
 do not heed their counsel?
@@ -185,8 +181,7 @@ can begin today to apply these suggestions and others you may add. We can help
 our children and grandchildren to survive spiritually and morally in a world
 where the pollution index continues to spiral upward. The intent is not to
 take our children out of the world but, as the Lord prayed, to keep them from
-evil (see [John
-17:15](https://www.lds.org/scriptures/nt/john/17.15?lang=eng#14)).
+evil (see [John 17:15](/scriptures/nt/john/17.15?lang=eng#14)).
 
 I know that our Heavenly Father lives. We are his spirit children, and he
 loves his family.
@@ -194,4 +189,6 @@ loves his family.
 Jesus is the Christ, and this is his church, which is led by living prophets.
 
 Of this I sincerely testify in the name of Jesus the Christ, amen.
+
+## References
 

@@ -25,16 +25,14 @@ idolatrous sacrifice. He introduced Himself as Jehovah and declared,
 even the Priesthood of thy father, and my power shall be over thee. ...
 
 [And] through thy ministry my name shall be known in the earth forever, for I
-am thy God." ([Abr.
-1:18-19](https://www.lds.org/scriptures/pgp/abr/1.18-19?lang=eng#17).)
+am thy God." ([Abr. 1:18-19](/scriptures/pgp/abr/1.18-19?lang=eng#17).)
 
 This blessing was extended to Abraham's posterity, who would "bear this
 ministry and Priesthood unto all nations." (See [Abr.
-2:9](https://www.lds.org/scriptures/pgp/abr/2.9?lang=eng#8).) The covenant
-children of Abraham were to be distinguished by their sacred obligation to
-declare to the world the true and living God. Not only were they to be
-believers and worshipers, but His witnesses, boldly testifying of Him among
-the unbelievers.
+2:9](/scriptures/pgp/abr/2.9?lang=eng#8).) The covenant children of Abraham
+were to be distinguished by their sacred obligation to declare to the world
+the true and living God. Not only were they to be believers and worshipers,
+but His witnesses, boldly testifying of Him among the unbelievers.
 
 God has once again spoken from the heavens and restored the fulness of the
 gospel through His chosen prophet. We have become the covenant children of
@@ -46,9 +44,9 @@ is an awesome responsibility.
 In the Book of Mormon we are told that "to be called His people" we must be
 willing "to stand as witnesses of God at all times and in all things, and in
 all places, ... even until death." ([Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7).) As
-individual members of the Church it is in the everyday context of our lives
-that this witness we exemplify comes under constant scrutiny.
+18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7).) As individual members of
+the Church it is in the everyday context of our lives that this witness we
+exemplify comes under constant scrutiny.
 
 May I share with you a personal experience to illustrate how humbling this can
 be? I was employed by a major corporation for almost twenty-five years. During
@@ -71,8 +69,8 @@ foretaste of Judgment Day!
 I thought of the scripture in Revelation in which John saw the books opened,
 "and the dead were judged out of those things which were written in the books,
 according to their works." ([Rev.
-20:12](https://www.lds.org/scriptures/nt/rev/20.12?lang=eng#11).) It was a
-most sobering experience.
+20:12](/scriptures/nt/rev/20.12?lang=eng#11).) It was a most sobering
+experience.
 
 All of us give our lives daily for what we believe is important. Those with
 whom we associate are silently assessing us, our values and character traits.
@@ -98,7 +96,7 @@ ready?"
 
 To the Nephites Jesus said, "Hold up your light that it may shine unto the
 world. Behold I am the light which ye shall hold up." ([3 Ne.
-18:24](https://www.lds.org/scriptures/bofm/3-ne/18.24?lang=eng#23).)
+18:24](/scriptures/bofm/3-ne/18.24?lang=eng#23).)
 
 In a related admonition, Peter counseled "that ye should shew forth the
 praises of him who hath called you out of darkness into his marvellous light.
@@ -108,15 +106,13 @@ praises of him who hath called you out of darkness into his marvellous light.
 
 "Having your conversation honest among the Gentiles: that ... they may by your
 good works, which they shall behold, glorify God in the day of visitation."
-([1 Pet. 2:9,
-11-12](https://www.lds.org/scriptures/nt/1-pet/2.9%2C11-12?lang=eng#8).)
+([1 Pet. 2:9, 11-12](/scriptures/nt/1-pet/2.9,11-12?lang=eng#8).)
 
 To the Israelites and again to the Nephites the Lord commanded: "Thou shalt
 not bear false witness." (See [Ex.
-20:16](https://www.lds.org/scriptures/ot/ex/20.16?lang=eng#15); [Mosiah
-13:23](https://www.lds.org/scriptures/bofm/mosiah/13.23?lang=eng#22).) Are we
-not false witnesses if we are untrue to gospel principles we profess but do
-not practice?
+20:16](/scriptures/ot/ex/20.16?lang=eng#15); [Mosiah
+13:23](/scriptures/bofm/mosiah/13.23?lang=eng#22).) Are we not false witnesses
+if we are untrue to gospel principles we profess but do not practice?
 
 Most damage to the collective reputation of the Church is done by those
 members who want to straddle the line, with one foot in the kingdom and the
@@ -196,14 +192,15 @@ while, they pretty well stopped swearing altogether."
 
 When I heard this tribute, I thought of Paul's counsel to Timothy: "Be thou an
 example of the believers, in word, in conversation, in charity, in spirit, in
-faith, in purity." ([1 Tim.
-4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).)
+faith, in purity." ([1 Tim. 4:12](/scriptures/nt/1-tim/4.12?lang=eng#11).)
 
 "Ye are my witnesses," said the Lord through Isaiah. ([Isa.
-43:10](https://www.lds.org/scriptures/ot/isa/43.10?lang=eng#9).)
+43:10](/scriptures/ot/isa/43.10?lang=eng#9).)
 
 Let us stand tall, brothers and sisters, and be not ashamed to take upon us
 the name of Christ. May God bless us as a church and as individuals that the
 testimony we bear as His witnesses will be true and clear and fully reliable,
 I humbly pray in the name of the Lord Jesus Christ, amen.
+
+## References
 

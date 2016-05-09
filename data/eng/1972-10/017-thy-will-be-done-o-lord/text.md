@@ -26,7 +26,7 @@ faithfulness, holiness, and keeping all the commandments of God."
 Our Lord and Savior Jesus Christ, in his life, set the pattern for us to
 follow in our quest for this eternal joy and happiness. He admonished his
 disciples to be perfect, "even as your Father which is in heaven is perfect."
-([Matt. 5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).)
+([Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47).)
 
 There is tremendous power in focusing upon an ideal. People are inclined to
 become like those whom they admire. As we increase our knowledge and love of
@@ -43,7 +43,7 @@ desired privacy for prayer and meditation.
 
 He left eight of the apostles near the entrance, with the suggestion, "Sit ye
 here, while I go and pray yonder." ([Matt.
-26:36](https://www.lds.org/scriptures/nt/matt/26.36?lang=eng#35).)
+26:36](/scriptures/nt/matt/26.36?lang=eng#35).)
 
 Peter, James, and John accompanied the Savior further and "then, saith he unto
 them, My soul is exceeding sorrowful, even unto death: tarry ye here, and
@@ -52,7 +52,7 @@ watch with me.
 "And he went a little farther, and fell on his face, and prayed, saying, O my
 Father, if it be possible, let this cup pass from me: nevertheless not as I
 will, but as thou wilt." ([Matt.
-26:38-39](https://www.lds.org/scriptures/nt/matt/26.38-39?lang=eng#37).)
+26:38-39](/scriptures/nt/matt/26.38-39?lang=eng#37).)
 
 The life of the Savior is replete with instances where he applied the
 principle of "Thy will be done, not mine." Christ's ability to apply this
@@ -63,7 +63,7 @@ toward perfection and true happiness.
 
 But how can we know God's will in order to make our life conform? The Savior
 said, "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 Live so that the Holy Ghost will guide and direct you.
 
@@ -72,8 +72,8 @@ contemplation of the words of Christ and those whom God has appointed to teach
 and instruct us.
 
 And pray always, remembering the promise given to us: "Draw near unto me and I
-will draw near unto you. ..." ([D&amp;C 88:63](https://www.lds.org/scriptures
-/dc-testament/dc/88.63?lang=eng#62).)
+will draw near unto you. ..." ([D&amp;C 88:63](/scriptures/dc-
+testament/dc/88.63?lang=eng#62).)
 
 As we live in this type of environment, we will know God's will and have the
 desire and courage to conform. This doctrine or philosophy requires one to
@@ -84,7 +84,7 @@ Let me illustrate:
 In the prayer offered by the Prophet Joseph Smith at the dedication of the
 Kirtland Temple, which prayer was given to him by revelation, he said, "... Help
 thy servants to say, with thy grace assisting them: Thy will be done, O Lord,
-and not ours." ([D&amp;C 109:44](https://www.lds.org/scriptures/dc-
+and not ours." ([D&amp;C 109:44](/scriptures/dc-
 testament/dc/109.44?lang=eng#43).)
 
 In the fall of 1834 the Prophet was busily engaged in preparing for the school
@@ -177,7 +177,7 @@ me apart, he promised me that it would be the happiest time of our lives. And
 it was, because our entire time was spent in serving our fellowmen. And we
 remembered the words of King Benjamin, "... when ye are in the service of your
 fellow beings ye are only in the service of your God." ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).)
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).)
 
 Why should we consider it a sacrifice to enjoy such happiness, growth, and
 development?
@@ -228,4 +228,6 @@ we are doing his will, and this will bring us great happiness and eternal
 life.
 
 I bear you this witness in the name of Jesus Christ. Amen.
+
+## References
 

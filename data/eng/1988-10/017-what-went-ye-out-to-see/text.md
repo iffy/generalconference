@@ -35,12 +35,12 @@ calling of John the Baptist. He said, "What went ye out into the wilderness to
 see? A reed shaken with the wind? ... A man clothed in soft raiment?" Then he
 declared that John was a prophet "and more than a prophet," for "all the
 prophets and the law prophesied until John." ([Matt.
-11:7-13](https://www.lds.org/scriptures/nt/matt/11.7-13?lang=eng#6).)
+11:7-13](/scriptures/nt/matt/11.7-13?lang=eng#6).)
 
 On another occasion he asked the scribes and Pharisees who had been
 questioning him, "The baptism of John, was it from heaven, or of men?" ([Mark
-11:30](https://www.lds.org/scriptures/nt/mark/11.30?lang=eng#29).) Of course,
-the works of John, as of all prophets, were of heaven.
+11:30](/scriptures/nt/mark/11.30?lang=eng#29).) Of course, the works of John,
+as of all prophets, were of heaven.
 
 As I have read the scriptures, I have watched all of the prophets who have
 affected my life, and I have seen that they have fulfilled the role that the
@@ -49,4 +49,6 @@ as one of us. I have knelt with him as we have called, by prophecy, a stake
 president. I have felt his divine call as he leads and directs this church
 through the spirit of revelation. And I bear that testimony in the name of
 Jesus Christ, amen.
+
+## References
 

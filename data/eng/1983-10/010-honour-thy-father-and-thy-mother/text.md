@@ -22,22 +22,14 @@ Well, speaking of age, someone else has said, "Do you know how to tell when
 you are getting a little older?" I said no. He said, "You know you're getting
 old--
 
-  * "When, after you get it all together, you realize you'd do better if you took it apart.
-
-  * "When you get a little winded while brushing your teeth.
-
-  * "When you reach the age when you know all the answers but nobody asks any of the questions.
-
-  * "When your crow's feet need orthopedic shoes.
-
-  * "When your appendix scar hits your knee.
-
-  * "When instead of Max Factor you may want to consider Kemtone.
-
-  * "While sitting in a rocking chair you have difficulty in getting it started.
-
-  * "When you get out of the shower, you're glad the mirror's fogged up.
-
+  * "When, after you get it all together, you realize you'd do better if you took it apart. 
+  * "When you get a little winded while brushing your teeth. 
+  * "When you reach the age when you know all the answers but nobody asks any of the questions. 
+  * "When your crow's feet need orthopedic shoes. 
+  * "When your appendix scar hits your knee. 
+  * "When instead of Max Factor you may want to consider Kemtone. 
+  * "While sitting in a rocking chair you have difficulty in getting it started. 
+  * "When you get out of the shower, you're glad the mirror's fogged up. 
   * "When you get up in the morning and you have one shoe on and one shoe off and you can't tell whether you are getting up or going to bed."
 
 Well, you may have some different signs, but despite our best plans and
@@ -97,19 +89,18 @@ lives. Remember the admonitions of the Lord.
 First from Proverbs:
 
 "The glory of young men is their strength: and the beauty of old men is the
-gray head." ([Prov.
-20:29](https://www.lds.org/scriptures/ot/prov/20.29?lang=eng#28).)
+gray head." ([Prov. 20:29](/scriptures/ot/prov/20.29?lang=eng#28).)
 
 Next from Job:
 
 "With the ancient is wisdom; and in length of days understanding.
 
 "With him is wisdom and strength, he hath counsel and understanding." ([Job
-12:12-13](https://www.lds.org/scriptures/ot/job/12.12-13?lang=eng#11).)
+12:12-13](/scriptures/ot/job/12.12-13?lang=eng#11).)
 
 And then there is this concern recorded in Psalms: "Cast me not off in the
 time of old age; forsake me not when my strength faileth." ([Ps.
-71:9](https://www.lds.org/scriptures/ot/ps/71.9?lang=eng#8).)
+71:9](/scriptures/ot/ps/71.9?lang=eng#8).)
 
 Many is the time in my current position when those in their advanced years
 have sought counsel in getting their families to share and take an interest in
@@ -162,35 +153,30 @@ a shelf.
 
 To those who wonder if we have an obligation to bring these conclusions to
 pass, the Lord's answer to Cain's question, "Am I my brother's keeper?" (see
-[Gen. 4:9](https://www.lds.org/scriptures/ot/gen/4.9?lang=eng#8)) is a
-resounding _yes!_ He said, "Thou shalt love thy neighbour as thyself." ([Matt.
-19:19](https://www.lds.org/scriptures/nt/matt/19.19?lang=eng#18).)
+[Gen. 4:9](/scriptures/ot/gen/4.9?lang=eng#8)) is a resounding _yes!_ He said,
+"Thou shalt love thy neighbour as thyself." ([Matt.
+19:19](/scriptures/nt/matt/19.19?lang=eng#18).)
 
 The final question, I suppose, then, ought to be: "How are we going to
 accomplish this?" With older friends and family, why don't you and I first--
 
-  1. Seek their counsel.
-
-  2. Visit or call on them regularly.
-
-  3. Include them in our activities.
-
-  4. Let them share their experiences.
-
-  5. See to it that they have the basic necessities of life.
-
-  6. Provide care for them when they are sick.
-
-  7. Treat them as dignified human beings, not as charity cases.
+  1. Seek their counsel. 
+  2. Visit or call on them regularly. 
+  3. Include them in our activities. 
+  4. Let them share their experiences. 
+  5. See to it that they have the basic necessities of life. 
+  6. Provide care for them when they are sick. 
+  7. Treat them as dignified human beings, not as charity cases. 
 
 Let us take advantage of having grandfathers, grandmothers, great-
 grandparents, friends, and neighbors around us. May we in our own special way
 reach out to them--not with pity, but with love. Consider again, brothers and
 sisters, this counsel from the Lord: "_Honour_ thy father and thy mother,"
 that their days--and ours--might be long upon the earth. (See [Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11); italics
-added.)
+20:12](/scriptures/ot/ex/20.12?lang=eng#11); italics added.)
 
 Finally, may we do unto the aged what we would want to have done to us.
 Remember: our time is coming. In the name of Jesus Christ, amen.
+
+## References
 

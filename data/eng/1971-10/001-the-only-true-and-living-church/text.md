@@ -68,8 +68,8 @@ quote:
 "... to lay the foundation of this church, and to bring it forth out of
 obscurity and out of darkness, the only true and living church upon the face
 of the whole earth, with which I, the Lord, am well pleased, speaking unto the
-church collectively and not individually." ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29).)
+church collectively and not individually." ([D&amp;C 1:30](/scriptures/dc-
+testament/dc/1.30?lang=eng#29).)
 
 Now this is not to say that the churches, all of them, are without some truth.
 They have some truth--some of them very much of it. They have a form of
@@ -77,8 +77,7 @@ godliness. Often the clergy and adherents are not without dedication, and many
 of them practice remarkably well the virtues of Christianity. They are,
 nonetheless, incomplete. By his declaration, "... they teach for doctrines the
 commandments of men, having a form of godliness, but they deny the power
-thereof." ([JS--H
-1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18).)
+thereof." ([JS--H 1:19](/scriptures/pgp/js-h/1.19?lang=eng#18).)
 
 The gospel might be likened to the keyboard of a piano--a full keyboard with a
 selection of keys on which one who is trained can play a variety without
@@ -130,8 +129,7 @@ mysteries of the kingdom, even the key of the knowledge of God.
 
 "And without the ordinances thereof, and the authority of the priesthood, the
 power of godliness is not manifest unto men in the flesh." ([D&amp;C
-84:19-21](https://www.lds.org/scriptures/dc-
-testament/dc/84.19-21?lang=eng#18).)
+84:19-21](/scriptures/dc-testament/dc/84.19-21?lang=eng#18).)
 
 Now in these last days when the consummate power of evil moves against us, the
 great apostasy spoken of in the scriptures moves to its inevitable conclusion.
@@ -172,7 +170,7 @@ I counseled, think about this matter. More than that, I would urge you to pray
 about this matter. Thinking alone can be the basis for man's wisdom. There is
 another more perfect manner of communication through the spirit: "... for the
 Spirit searcheth all things, yea, the deep things of God." ([1 Cor.
-2:10](https://www.lds.org/scriptures/nt/1-cor/2.10?lang=eng#9).)
+2:10](/scriptures/nt/1-cor/2.10?lang=eng#9).)
 
 Paul, speaking to the Corinthians, said: "Which things also we speak, not in
 the words which man's wisdom teacheth, but which the Holy Ghost teacheth;
@@ -181,7 +179,7 @@ comparing spiritual things with spiritual.
 "But the natural man receiveth not the things of the Spirit of God: for they
 are foolishness unto him: neither can he know them, because they are
 spiritually discerned." ([1 Cor.
-2:13-14](https://www.lds.org/scriptures/nt/1-cor/2.13-14?lang=eng#12).)
+2:13-14](/scriptures/nt/1-cor/2.13-14?lang=eng#12).)
 
 Any soul has the right, indeed the obligation, to make an appeal through
 prayer for the answer to this question: Is there a true church? That is how it
@@ -199,5 +197,5 @@ the name of Jesus Christ. Amen.
 
 ## References
 
-  1.  "To an Atheist," in _The Search _(Trilogy Arts, 1970), p. 34.
+  1. "To an Atheist," in _The Search _(Trilogy Arts, 1970), p. 34.
 

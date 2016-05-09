@@ -6,7 +6,7 @@ From the pen of Paul, we take this challenge:
 meekness.
 
 "Fight the good fight of faith, lay hold on eternal life." ([1 Tim.
-6:11-12](https://www.lds.org/scriptures/nt/1-tim/6.11-12?lang=eng#10).)
+6:11-12](/scriptures/nt/1-tim/6.11-12?lang=eng#10).)
 
 So wrote our fellow apostle to those who had accepted the Son of God as their
 Savior, who had taken upon themselves the yoke of Christ, who had covenanted
@@ -23,7 +23,7 @@ Paul said:
 "Henceforth there is laid up for me a crown of righteousness, which the Lord,
 the righteous judge, shall give me at that day: and not to me only, but unto
 all them also that love his appearing." ([2 Tim.
-4:7-8](https://www.lds.org/scriptures/nt/2-tim/4.7-8?lang=eng#6).)
+4:7-8](/scriptures/nt/2-tim/4.7-8?lang=eng#6).)
 
 As members of the Church, we are engaged in a mighty conflict. We are at war.
 We have enlisted in the cause of Christ to fight against Lucifer and all that
@@ -32,7 +32,7 @@ our friends and against our enemies, and we must not be confused in
 distinguishing friends from foes. As another of our ancient fellow apostles
 wrote: "Know ye not that the friendship of the world is enmity with God?
 whosoever therefore will be a friend of the world is the enemy of God."
-([James 4:4](https://www.lds.org/scriptures/nt/james/4.4?lang=eng#3).)
+([James 4:4](/scriptures/nt/james/4.4?lang=eng#3).)
 
 The great war that rages on every side and which unfortunately is resulting in
 many casualties, some fatal, is no new thing. There was war even in heaven,
@@ -43,12 +43,12 @@ established by an all-wise Father.
 That war is continuing on earth, and the devil is still wroth with the Church
 and goes forth "to make war with the remnant of her seed, which keep the
 commandments of God, and have the testimony of Jesus Christ." ([Rev.
-12:17](https://www.lds.org/scriptures/nt/rev/12.17?lang=eng#16).)
+12:17](/scriptures/nt/rev/12.17?lang=eng#16).)
 
 And it is now as it has always been. The Saints can only overcome him and his
 forces "by the blood of the Lamb, ... by the word of their testimony," and if
 they love "not their lives unto the death." ([Rev.
-12:11](https://www.lds.org/scriptures/nt/rev/12.11?lang=eng#10).)
+12:11](/scriptures/nt/rev/12.11?lang=eng#10).)
 
 Now there neither are nor can be any neutrals in this war. Every member of the
 Church is on one side or the other. The soldiers who fight in its battles will
@@ -57,12 +57,11 @@ they shall, in Paul's language, "be punished with everlasting destruction from
 the presence of the Lord, and from the glory of his power" in that day when he
 comes to take "vengeance on them that know not God, and that obey not the
 gospel of our Lord Jesus Christ." ([2 Thes. 1:9,
-8](https://www.lds.org/scriptures/nt/2-thes/1.9%2C8?lang=eng#8).)
+8](/scriptures/nt/2-thes/1.9,8?lang=eng#8).)
 
 In this war all who do not stand forth courageously and valiantly are by that
 fact alone aiding the cause of the enemy. "They who are not for me are against
-me, saith our God." ([2 Ne.
-10:16](https://www.lds.org/scriptures/bofm/2-ne/10.16?lang=eng#15).)
+me, saith our God." ([2 Ne. 10:16](/scriptures/bofm/2-ne/10.16?lang=eng#15).)
 
 We are either for the Church or we are against it. We either take its part or
 we take the consequences. We cannot survive spiritually with one foot in the
@@ -76,31 +75,29 @@ To certain members of his ancient church, he said:
 or hot.
 
 "So then because thou art lukewarm, and neither cold nor hot, I will spue thee
-out of my mouth." ([Rev.
-3:15-16](https://www.lds.org/scriptures/nt/rev/3.15-16?lang=eng#14).) The
-summer patriot and the sunshine saint retreat when the battle wages fiercely
-around them. Theirs is not the conqueror's crown. They are overcome by the
-world.
+out of my mouth." ([Rev. 3:15-16](/scriptures/nt/rev/3.15-16?lang=eng#14).)
+The summer patriot and the sunshine saint retreat when the battle wages
+fiercely around them. Theirs is not the conqueror's crown. They are overcome
+by the world.
 
 Members of the Church who have testimonies and who live clean and upright
 lives, but who are not courageous and valiant, do not gain the celestial
 kingdom. Theirs is a terrestrial inheritance. Of them the revelation says,
 "These are they who are not valiant in the testimony of Jesus; wherefore, they
 obtain not the crown over the kingdom of our God." ([D&amp;C
-76:79](https://www.lds.org/scriptures/dc-testament/dc/76.79?lang=eng#78).)
+76:79](/scriptures/dc-testament/dc/76.79?lang=eng#78).)
 
 As Jesus said, "No man, having put his hand to the plough, and looking back,
 is fit for the kingdom of God." ([Luke
-9:62](https://www.lds.org/scriptures/nt/luke/9.62?lang=eng#61).)
+9:62](/scriptures/nt/luke/9.62?lang=eng#61).)
 
 What is the testimony of Jesus? And what must we do to be valiant therein?
 
 "Be not ... ashamed of the testimony of our Lord," Paul wrote to Timothy, "... but
 be thou partaker of the afflictions of the gospel." ([2 Tim.
-1:8](https://www.lds.org/scriptures/nt/2-tim/1.8?lang=eng#7).) And to the
-Beloved John came this divine message: "The testimony of Jesus is the spirit
-of prophecy." ([Rev.
-19:10](https://www.lds.org/scriptures/nt/rev/19.10?lang=eng#9).)
+1:8](/scriptures/nt/2-tim/1.8?lang=eng#7).) And to the Beloved John came this
+divine message: "The testimony of Jesus is the spirit of prophecy." ([Rev.
+19:10](/scriptures/nt/rev/19.10?lang=eng#9).)
 
 The testimony of our Lord! The testimony of Jesus! What a glorious and
 wondrous concept! It opens the door to glory and honor with the Father and the
@@ -111,11 +108,10 @@ Jesus is the Lord. He is God's own Son who came into the world to ransom us
 men from the temporal and spiritual death brought upon us by the fall of Adam.
 Jesus has bought us with his blood. He is the resurrection and the life. He
 "hath abolished death, and hath brought life and immortality to light through
-the gospel." ([2 Tim.
-1:10](https://www.lds.org/scriptures/nt/2-tim/1.10?lang=eng#9).) He is our
+the gospel." ([2 Tim. 1:10](/scriptures/nt/2-tim/1.10?lang=eng#9).) He is our
 Savior, our Redeemer, our Advocate with the Father. "There is one God, and one
 mediator between God and men, the man Christ Jesus." ([1 Tim.
-2:5](https://www.lds.org/scriptures/nt/1-tim/2.5?lang=eng#4).)
+2:5](/scriptures/nt/1-tim/2.5?lang=eng#4).)
 
 Salvation is in Christ. His is the only name given under heaven whereby this
 priceless gift may be won. Without him there would be no resurrection and all
@@ -126,8 +122,7 @@ saints.
 No tongue can tell, no mind can envision, no heart can conceive of all that
 comes to us because of him. "Worthy is the Lamb that was slain to receive
 power, and riches, and wisdom, and strength, and honour, and glory, and
-blessing." ([Rev
-5:12](https://www.lds.org/scriptures/nt/rev/5.12?lang=eng#11).)
+blessing." ([Rev 5:12](/scriptures/nt/rev/5.12?lang=eng#11).)
 
 Now there can be no perfect testimony of the divine Sonship of Christ and his
 saving goodness unless and until we receive the fulness of his everlasting
@@ -147,7 +142,7 @@ reserved for those whose right it is to have the constant companionship of the
 Holy Ghost. It is the spiritual endowment which sets a man apart as a prophet
 in fulfillment of the prayer of Moses: "Would God that all the Lord's people
 were prophets, and that the Lord would put his spirit upon them!" ([Num.
-11:29](https://www.lds.org/scriptures/ot/num/11.29?lang=eng#28).)
+11:29](/scriptures/ot/num/11.29?lang=eng#28).)
 
 Now what does it mean to be valiant in the testimony of Jesus?
 
@@ -156,14 +151,14 @@ in the warfare with the world; to fight the good fight of faith. "Be strong
 and of a good courage," the Lord commanded Joshua, and then specified that
 this strength and courage consisted of meditating upon and observing to do all
 that is written in the law of the Lord. (See [Josh.
-1:6-9](https://www.lds.org/scriptures/ot/josh/1.6-9?lang=eng#5).) The great
-cornerstone of valiance in the cause of righteousness is obedience to the
-whole law of the whole gospel.
+1:6-9](/scriptures/ot/josh/1.6-9?lang=eng#5).) The great cornerstone of
+valiance in the cause of righteousness is obedience to the whole law of the
+whole gospel.
 
 To be valiant in the testimony of Jesus is to "come unto Christ, and be
 perfected in him"; it is to deny ourselves "of all ungodliness," and "love
 God" with all our "might, mind and strength." ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).)
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31).)
 
 To be valiant in the testimony of Jesus is to believe in Christ and his gospel
 with unshakable conviction. It is to know of the verity and divinity of the
@@ -175,17 +170,16 @@ simply confessing with the mouth the divine Sonship of the Savior. It is
 obedience and conformity and personal righteousness. "Not every one that saith
 unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth
 the will of my Father which is in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).)
+7:21](/scriptures/nt/matt/7.21?lang=eng#20).)
 
 To be valiant in the testimony of Jesus is to "press forward with a
 steadfastness in Christ, having a perfect brightness of hope, and a love of
 God and of all men." It is to "endure to the end." ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19).) It is to
-live our religion, to practice what we preach, to keep the commandments. It is
-the manifestation of "pure religion" in the lives of men; it is visiting "the
-fatherless and widows in their affliction" and keeping ourselves "unspotted
-from the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19).) It is to live our religion,
+to practice what we preach, to keep the commandments. It is the manifestation
+of "pure religion" in the lives of men; it is visiting "the fatherless and
+widows in their affliction" and keeping ourselves "unspotted from the world."
+([James 1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 To be valiant in the testimony of Jesus is to bridle our passions, control our
 appetites, and rise above carnal and evil things. It is to overcome the world
@@ -268,4 +262,6 @@ God grant us the wisdom and vision and determination, the valiance and
 courage, to fight manfully in his army and to be, as President George Albert
 Smith so graphically expressed it, "on the Lord's side of the line." In the
 name of Jesus Christ. Amen.
+
+## References
 

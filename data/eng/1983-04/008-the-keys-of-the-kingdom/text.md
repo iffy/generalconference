@@ -28,20 +28,19 @@ age, to overthrow the kingdom of the Jews.
 It is that John to whom the Judean hosts came at Bethabara, seeking the
 cleansing power of his baptism. Then it was that the Beloved Baptist, "to
 fulfil all righteousness" ([Matt.
-3:15](https://www.lds.org/scriptures/nt/matt/3.15?lang=eng#14)), immersed the
-very Son of God himself in the murky waters of a miserable Palestinian river.
+3:15](/scriptures/nt/matt/3.15?lang=eng#14)), immersed the very Son of God
+himself in the murky waters of a miserable Palestinian river.
 
 It is that John for whom the heavens opened and who saw the Holy Ghost descend
 in bodily form, in quiet serenity like a dove, and rest upon the One of whom
 the Divine Voice then said: "This is my beloved Son, in whom I am well
-pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+pleased." ([Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 Now in resurrected glory, speaking in the name of that Messiah for whom he had
 died a martyr's death, he confers upon his mortal friends the Priesthood of
 Aaron and the keys of the ministering of angels and of baptism by immersion
-for the remission of sins. (See [D&amp;C 13](https://www.lds.org/scriptures
-/dc-testament/dc/13.title?lang=eng).)
+for the remission of sins. (See [D&amp;C 13](/scriptures/dc-
+testament/dc/13?lang=eng).)
 
 Now, for the first time in nearly 1700 years, there are mortal men on earth
 who can stand in the place of the Lord Jesus in ministering for the salvation
@@ -77,9 +76,8 @@ glorious age of restoration and refreshment in which God designs to gather all
 things in one in Christ; that age of revelation and gifts and miracles in
 which he will bring to pass the restitution of all things spoken by the mouths
 of all the holy prophets since the world began. (See [D&amp;C
-27:12-13](https://www.lds.org/scriptures/dc-
-testament/dc/27.12-13?lang=eng#11); [D&amp;C
-81:2](https://www.lds.org/scriptures/dc-testament/dc/81.2?lang=eng#1).)
+27:12-13](/scriptures/dc-testament/dc/27.12-13?lang=eng#11); [D&amp;C
+81:2](/scriptures/dc-testament/dc/81.2?lang=eng#1).)
 
 Being thus commissioned, and having thus the gospel of salvation, mortal men
 can set up anew God's kingdom on earth and can preach again the gospel in all
@@ -92,7 +90,7 @@ day in April of 1836, Moses and Elijah and Elias each come, bringing from
 their dispensations the keys and powers they had exercised as mortals. It is a
 day akin to that wondrous day 1800 years before on the Mount of
 Transfiguration. (See [Matt.
-17:1-13](https://www.lds.org/scriptures/nt/matt/17.1-13?lang=eng#0).)
+17:1-13](/scriptures/nt/matt/17.1-13?lang=eng#0).)
 
 Then it was, on the snowy mountain heights, after the Father had spoken from
 the cloud, that Moses and Elijah, both taken to heaven without tasting death,
@@ -127,8 +125,7 @@ them.
 Elijah brings back the keys of the sealing power, the power that enables men
 now living, as it was with Peter of old, to bind on the earth below and have
 their acts sealed everlastingly in the heavens above. (See [D&amp;C
-110:11-16](https://www.lds.org/scriptures/dc-
-testament/dc/110.11-16?lang=eng#10).)
+110:11-16](/scriptures/dc-testament/dc/110.11-16?lang=eng#10).)
 
 Because Elijah came, the baptisms we perform on earth will have efficacy,
 virtue, and force in eternity. In literal reality they give us membership in
@@ -137,13 +134,13 @@ the celestial realm where God and Christ are.
 
 And so, in process of time, there is "a whole and complete and perfect union,
 and welding together of dispensations, and keys, and powers, and glories ...
-from the days of Adam even to the present time." ([D&amp;C
-128:18](https://www.lds.org/scriptures/dc-testament/dc/128.18?lang=eng#17).)
+from the days of Adam even to the present time." ([D&amp;C 128:18](/scriptures
+/dc-testament/dc/128.18?lang=eng#17).)
 
 In the meridian of time Jesus ordained the Twelve in the coasts of Capernaum;
 he gave the keys of the kingdom to Peter, James, and John on the holy mount;
 and later he gave these same keys to all of the Twelve. (See [Matt.
-18:18](https://www.lds.org/scriptures/nt/matt/18.18?lang=eng#17).)
+18:18](/scriptures/nt/matt/18.18?lang=eng#17).)
 
 In our dispensation the Melchizedek Priesthood came in 1829; men were ordained
 to the holy apostleship in February of 1835; various keys were given at divers
@@ -177,7 +174,7 @@ dispensation at any time from the beginning of the creation;
 
 "For verily I say unto you, the keys of the dispensation, which ye have
 received, have come down from the fathers, and last of all, being sent down
-from heaven unto you." ([D&amp;C 112:30-32](https://www.lds.org/scriptures/dc-
+from heaven unto you." ([D&amp;C 112:30-32](/scriptures/dc-
 testament/dc/112.30-32?lang=eng#29).)
 
 And thus also is established the Lord's system for succession in the
@@ -222,4 +219,6 @@ Now, this testimony I bear for myself and for all the faithful elders of the
 kingdom, and for all the sainted sisters who stand so valiantly at their
 sides, and above all I do it in the sacred and holy name of the Lord Jesus
 Christ. Even so, amen.
+
+## References
 

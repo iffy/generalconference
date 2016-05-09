@@ -103,7 +103,7 @@ and he said:
 
 "Suffer little children, and forbid them not, to come unto me: for of such is
 the kingdom of heaven." ([Matt.
-19:14](https://www.lds.org/scriptures/nt/matt/19.14?lang=eng#13).)
+19:14](/scriptures/nt/matt/19.14?lang=eng#13).)
 
 Let no Latter-day Saint parent ever be guilty of the heinous crime of abusing
 one of Christ's little ones!
@@ -159,14 +159,14 @@ It was Goethe who said, "The Eternal Feminine draws us on." (Johann W. von
 Goethe, _Faust._)
 
 "A good woman," as the scriptures tell us, "is the glory of the man." ([1 Cor.
-11:7](https://www.lds.org/scriptures/nt/1-cor/11.7?lang=eng#6).)
+11:7](/scriptures/nt/1-cor/11.7?lang=eng#6).)
 
 The scriptures remind us that "Women have claim on their husbands for their
-maintenance, until their husbands are taken." ([D&amp;C
-83:2](https://www.lds.org/scriptures/dc-testament/dc/83.2?lang=eng#1).) Women
-also have a claim on their husbands for respect, fidelity, and thoughtfulness
-for in that subtle, sweet relationship that should obtain between men and
-women, there is partnership with the priesthood.
+maintenance, until their husbands are taken." ([D&amp;C 83:2](/scriptures/dc-
+testament/dc/83.2?lang=eng#1).) Women also have a claim on their husbands for
+respect, fidelity, and thoughtfulness for in that subtle, sweet relationship
+that should obtain between men and women, there is partnership with the
+priesthood.
 
 We delight and marvel in the appropriate development and expressions of our
 sisters' many talents. Surely the Church's educational effort in behalf of its
@@ -228,7 +228,7 @@ What was the purpose of Christ's mission in life?
 
 "God created man in his own image, in the image of God created he him; male
 and female created he them." ([Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26).)
+1:27](/scriptures/ot/gen/1.27?lang=eng#26).)
 
 Man, created in the image of God, was placed on the earth to experience mortal
 life, an intermediate state between premortal life and immortality.
@@ -258,7 +258,7 @@ baptized by immersion by his cousin John, called the Baptist. By participating
 in this symbolic ordinance, he demonstrated to all that baptism is the door
 into this church. From heaven, his Father acknowledged the important occasion,
 saying, "This is my beloved Son, in whom I am well pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 For the next three years the Savior served mankind. He healed the sick,
 restored sight to the blind, cast out evil spirits, restored life to the dead,
@@ -272,12 +272,11 @@ Christ's own church; he was its head.
 That Christ established a church is well documented in the New Testament. In
 Ephesians we are told that the Church of Jesus Christ was "built upon the
 foundation of the apostles and prophets, Jesus Christ himself being the chief
-corner stone." ([Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).) The Savior,
+corner stone." ([Eph. 2:20](/scriptures/nt/eph/2.20?lang=eng#19).) The Savior,
 speaking to Peter, said, "And I will give unto thee the keys of the kingdom of
 heaven; and whatsoever thou shalt bind on earth shall be bound in heaven; and
 whatsoever thou shalt loose on earth shall be loosed in heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 In his church Christ selected twelve apostles and a council of seventy, and,
 having endowed them with authority he sent them forth to preach that the
@@ -286,8 +285,7 @@ the temple at the approach of the Lord Jesus Christ, he was introduced again
 by his Father, who said,
 
 "Behold my Beloved Son, in whom I am well pleased, in whom I have glorified my
-name--hear ye him." ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).)
+name--hear ye him." ([3 Ne. 11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).)
 
 Toward the end of his earthly ministry he took his beloved apostles Peter,
 James and John with him to the Mount of Transfiguration. It is couched in
@@ -315,7 +313,7 @@ afraid.
 "And Jesus came and touched them, and said, Arise, and be not afraid.
 
 "And when they had lifted up their eyes, they saw no man, save Jesus only."
-([Matt. 17:1-8](https://www.lds.org/scriptures/nt/matt/17.1-8?lang=eng#0).)
+([Matt. 17:1-8](/scriptures/nt/matt/17.1-8?lang=eng#0).)
 
 And in our own dispensation there came the blessed experience of the Prophet
 Joseph Smith and we have his testimony concerning it.
@@ -324,7 +322,7 @@ After an extended vision, the Prophet Joseph saw "two Personages, whose
 brightness and glory defy all description, standing above me in the air. One
 of them spake unto me, calling me by name and said, pointing to the other--
 _This is My Beloved Son. Hear Him!"_([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 And this was another testimony of the actuality and the life of Jesus Christ,
 our Savior.
@@ -337,4 +335,6 @@ I bear testimony to this, the divinity of this cause, the truth of this
 church, the divinity of its ordinances, the importance of the celestial life
 in everyone's life, and I bear this testimony in the name of Jesus Christ our
 Lord. Amen.
+
+## References
 

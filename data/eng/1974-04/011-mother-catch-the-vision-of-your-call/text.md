@@ -179,3 +179,5 @@ especially be enlightened by the spirit of truth as you weigh carefully in the
 balance the things of real value in this life. In the name of Jesus Christ.
 Amen.
 
+## References
+

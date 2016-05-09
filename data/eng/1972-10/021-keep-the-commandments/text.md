@@ -30,13 +30,12 @@ fights for and lives by. Our eternal exaltation will not be awarded according
 to whether or not we make a good living, but according to whether or not we
 live a good life. Jesus announced the purpose of his own mission by saying, "...
 I am come that they might have life, and that they might have it more
-abundantly." ([John
-10:10](https://www.lds.org/scriptures/nt/john/10.10?lang=eng#9).) And to
+abundantly." ([John 10:10](/scriptures/nt/john/10.10?lang=eng#9).) And to
 produce the most abundant lives is our primary responsibility.
 
 The Lord himself has said: "... this is my work and my glory--to bring to pass
 the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 When we are called to assist in this all-important undertaking, it then
 becomes our work and our glory to bring to pass the immortality and eternal
@@ -88,7 +87,7 @@ truth, which is Jesus Christ, the only name which shall be given under heaven,
 whereby salvation shall come unto the children of men, ye shall receive the
 gift of the Holy Ghost, asking all things in his name, and whatsoever ye shall
 ask, it shall be given you." ([Moses
-6:51-52](https://www.lds.org/scriptures/pgp/moses/6.51-52?lang=eng#50).)
+6:51-52](/scriptures/pgp/moses/6.51-52?lang=eng#50).)
 
 The other day I had occasion to reread the genealogy of the ten patriarchs in
 their succession from Adam to Noah. Excluding Enoch, who was translated at age
@@ -114,8 +113,7 @@ art a prince over them forever.
 "And Adam stood up in the midst of the congregation; and, notwithstanding he
 was bowed down with age, being full of the Holy Ghost, predicted whatsoever
 should befall his posterity unto the latest generation." ([D&amp;C
-107:54-56](https://www.lds.org/scriptures/dc-
-testament/dc/107.54-56?lang=eng#53).)
+107:54-56](/scriptures/dc-testament/dc/107.54-56?lang=eng#53).)
 
 And the primary message of that great general conference was also centered in
 that fundamental human requirement to "Keep the commandments." Many of those
@@ -127,8 +125,7 @@ gospel, which lasted for the next 365 years. The record says of him:
 "And he saw the Lord, and he walked with him, and was before his face
 continually; and Enoch walked with God three hundred and sixty-five years,
 making him four hundred and thirty years old when he was translated."
-([D&amp;C 107:49](https://www.lds.org/scriptures/dc-
-testament/dc/107.49?lang=eng#48).)
+([D&amp;C 107:49](/scriptures/dc-testament/dc/107.49?lang=eng#48).)
 
 Certainly Enoch was one of the best educated men who ever lived in the world.
 The record says that he was taught in all of the ways of God. He was not only
@@ -139,9 +136,9 @@ world 1052.
 
 All of these founding patriarchs lived in the days of great wickedness, and
 yet the scripture says that Noah was also perfect in his generation. It says,
-"and Noah walked with God." ([Gen.
-6:9](https://www.lds.org/scriptures/ot/gen/6.9?lang=eng#8).) And most of his
-life was spent saying to the antediluvians, "Keep the commandments."
+"and Noah walked with God." ([Gen. 6:9](/scriptures/ot/gen/6.9?lang=eng#8).)
+And most of his life was spent saying to the antediluvians, "Keep the
+commandments."
 
 We have many interests in common with the founding fathers of our world. They
 lived on one end of our civilization, and we live on the other. They stood in
@@ -150,7 +147,7 @@ important last-day period. Both periods have great intensities of good and
 bad. The Lord himself looked forward to our day and made a rather
 uncomplimentary comparison when he said: "... as the days of Noe were, so shall
 also the coming of the Son of man be." ([Matt.
-24:37](https://www.lds.org/scriptures/nt/matt/24.37?lang=eng#36).)
+24:37](/scriptures/nt/matt/24.37?lang=eng#36).)
 
 This first period was brought to its end by the flood. The last will be
 brought to its close by the glorious second coming of the Son of God.
@@ -164,16 +161,15 @@ they obeyed, their city was saved.
 In concluding his book of Ecclesiastes, the wise man Solomon said: "Let us
 hear the conclusion of the whole matter: Fear God, and keep his commandments:
 for this is the whole duty of man." ([Eccl.
-12:13](https://www.lds.org/scriptures/ot/eccl/12.13?lang=eng#12).)
+12:13](/scriptures/ot/eccl/12.13?lang=eng#12).)
 
 When one came to Jesus and said, "... what good thing shall I do, that I may
 have eternal life?" Jesus said unto him, "[Thou knowest the law], keep the
-commandments." ([Matt.
-19:16-17](https://www.lds.org/scriptures/nt/matt/19.16-17?lang=eng#15).)
+commandments." ([Matt. 19:16-17](/scriptures/nt/matt/19.16-17?lang=eng#15).)
 
 Then on the night preceding his crucifixion he said to the apostles, "If ye
 love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 When the people chose apostasy rather than obedience, the dark ages came upon
 the world.
@@ -190,7 +186,7 @@ kindred, and tongue, and people,
 "Saying with a loud voice, Fear God, and give glory to him; for the hour of
 his judgment is come: and worship him that made heaven, and earth, and the
 sea, and the fountains of waters." ([Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5).)
+14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5).)
 
 The church of Jesus Christ, founded upon the foundation of apostles and
 prophets, has again been restored. And in 1972 a great modern prophet,
@@ -199,4 +195,6 @@ all the world and to each of us individually, "Keep the commandments."
 
 May God help us to hear and to obey, I humbly pray in the name of Jesus
 Christ. Amen.
+
+## References
 

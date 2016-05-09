@@ -18,7 +18,7 @@ warmth of our home and in the warmth of our love. My heart is full, and I am
 at peace. Sometimes, I wish I could just stay like that forever, with my
 family gathered around me, protected, shut off from the evil influences of the
 world. But alas, the storm blows itself out eventually, we dig ourselves out,
-and off we go to face the world again." [1]
+and off we go to face the world again."[1]
 
 Perhaps all of us sometimes would like to withdraw and isolate ourselves from
 the storms of life and from the fiery darts of Satan. However, we must be in
@@ -27,7 +27,7 @@ evil, and corruption that are in the world but resist and reject them. Being
 in the world can be frightening because we live at a time when Satan is
 becoming more and more bold. The Lord said, "I pray not that thou shouldest
 take them out of the world, but that thou shouldest keep them from the evil."
-([John 17:15](https://www.lds.org/scriptures/nt/john/17.15?lang=eng#14).)
+([John 17:15](/scriptures/nt/john/17.15?lang=eng#14).)
 
 ## Evil in the World
 
@@ -45,8 +45,8 @@ them about drugs. ... A good public education, safe streets, and family dinners
 distant past. ... The parents of nearly 2,750 children separate or divorce each
 day. ... Every day over 500 children ages 10 to 14 begin using illegal drugs,
 and over 1,000 start drinking alcohol. Nearly half of all middle-schoolers
-abuse drugs or alcohol or [become involved in immorality]." [2]  Data from
-other nations are equally alarming.
+abuse drugs or alcohol or [become involved in immorality]."[2] Data from other
+nations are equally alarming.
 
 These and many other ills of our society today have their source in the
 breakdown of the family. If Satan can weaken or destroy the loving
@@ -79,31 +79,29 @@ winds, yea, his shafts in the whirlwind, yea, when all his hail and his mighty
 storm shall beat upon you, it shall have no power over you to drag you down to
 the gulf of misery and endless wo, because of the rock upon which ye are
 built, which is a sure foundation, a foundation whereon if men build they
-cannot fall." ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11).)
+cannot fall." ([Hel. 5:12](/scriptures/bofm/hel/5.12?lang=eng#11).)
 
 The Lord's standards for building a temple apply also to building spiritual
 strength in our homes: "Organize yourselves; prepare every needful thing; and
 establish a house, even a house of prayer, a house of fasting, a house of
 faith, a house of learning, a house of glory, a house of order, a house of
-God." ([D&amp;C 88:119](https://www.lds.org/scriptures/dc-
-testament/dc/88.119?lang=eng#118).) Do we heed this counsel from the Lord? Do
-we do what He asks? We would do well to build our homes according to this plan
-or they are destined to fail.
+God." ([D&amp;C 88:119](/scriptures/dc-testament/dc/88.119?lang=eng#118).) Do
+we heed this counsel from the Lord? Do we do what He asks? We would do well to
+build our homes according to this plan or they are destined to fail.
 
 ## Divine Patterns for Spiritual Strength
 
-_A House of Prayer and Fasting_
+**_A House of Prayer and Fasting_**
 
 To make our homes become houses of prayer and fasting, we "pray always, that
 [we] may come off conqueror; yea, that [we] may ... escape the hands of the
-servants of Satan that do uphold his work." ([D&amp;C
-10:5](https://www.lds.org/scriptures/dc-testament/dc/10.5?lang=eng#4).)
+servants of Satan that do uphold his work." ([D&amp;C 10:5](/scriptures/dc-
+testament/dc/10.5?lang=eng#4).)
 
 Our families should gather for family prayer morning and night. In addition,
 we should offer our own individual prayers for our personal needs.
 
-_A House of Faith_
+**_A House of Faith_**
 
 We can make each home a house of faith by believing in the goodness of God and
 believing that we _can_ live gospel principles and live in peace and security.
@@ -115,15 +113,13 @@ horse and ride on." We can never give up.
 When I think of faith, I think of the two great Book of Mormon prophets Nephi
 and Alma as models. In faith, Nephi returned to Jerusalem for the plates of
 brass, "not knowing beforehand the things which [he] should do." ([1 Ne.
-4:6](https://www.lds.org/scriptures/bofm/1-ne/4.6?lang=eng#5).) Alma prayed in
-faith for the repentance of his wayward son, who had become "a very wicked and
-an idolatrous man" and "was going about to destroy the church of God."
-([Mosiah 27:8,
-10](https://www.lds.org/scriptures/bofm/mosiah/27.8%2C10?lang=eng#7); see
-[Mosiah
-27:8-37](https://www.lds.org/scriptures/bofm/mosiah/27.8-37?lang=eng#7).)
+4:6](/scriptures/bofm/1-ne/4.6?lang=eng#5).) Alma prayed in faith for the
+repentance of his wayward son, who had become "a very wicked and an idolatrous
+man" and "was going about to destroy the church of God." ([Mosiah 27:8,
+10](/scriptures/bofm/mosiah/27.8,10?lang=eng#7); see [Mosiah
+27:8-37](/scriptures/bofm/mosiah/27.8-37?lang=eng#7).)
 
-_A House of Learning and Glory_
+**_A House of Learning and Glory_**
 
 Every home is a house of learning, either for good or otherwise. Family
 members may learn to be obedient, honest, industrious, self-reliant, and
@@ -138,13 +134,13 @@ and quarrel one with another, and serve the devil. ...
 
 "But ye will teach them to walk in the ways of truth and soberness; ye will
 teach them to love one another, and to serve one another." ([Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
+4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
 
 Emphasizing this duty, the Lord cautioned that if parents do not teach their
 children "to understand the doctrine of repentance, faith in Christ the Son of
 the living God, and of baptism and the gift of the Holy Ghost by the laying on
 of the hands, ... the sin be upon the heads of the parents." ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
+68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24).)
 
 A personal word of counsel to parents: Teach your children to pray, to rely on
 the Lord for guidance, and to express appreciation for their blessings.
@@ -157,11 +153,11 @@ respect. Help them to find pleasure in work and to feel the satisfaction that
 comes from a job well done.
 
 In 1904, President Joseph F. Smith said to parents: "Do not let your children
-out to specialists ... , but teach them by your own precept and example, by your
+out to specialists ..., but teach them by your own precept and example, by your
 own fireside. Be a specialist yourself in the truth. ... Not one child in a
 hundred would go astray, if the home environment, example and training, were
 in harmony with the truth in the gospel of Christ, as revealed and taught to
-the Latter-day Saints." [3]
+the Latter-day Saints."[3]
 
 The ideal way to transform your home into a house of learning is to hold
 family home evening faithfully. The Church has reserved Monday evening for
@@ -171,22 +167,22 @@ families the principles of the gospel. The Presidency wrote: "If the Saints
 obey this counsel, we promise that great blessings will result. Love at home
 and obedience to parents will increase. Faith will be developed in the hearts
 of the youth of Israel, and they will gain power to combat the evil influence
-and temptations which beset them." [4]
+and temptations which beset them."[4]
 
 President David O. McKay gave the same promise in 1965 and added that the
 youth will gain power "to choose righteousness and peace, and be assured an
-eternal place in the family circle of our Father." [5]  In 1976, the
-Presidency reaffirmed that "regular participation in family home evening will
-develop increased personal worth, family unity, love for our fellowmen, and
-trust in our Father in heaven. [6]
+eternal place in the family circle of our Father."[5] In 1976, the Presidency
+reaffirmed that "regular participation in family home evening will develop
+increased personal worth, family unity, love for our fellowmen, and trust in
+our Father in heaven.[6]
 
 Considering these glorious promises, we would expect every faithful member to
 be exceedingly diligent in following this prophetic counsel. But, of course,
 we are all human, and our best plans don't always materialize. Why not? Let it
 not be for lack of commitment. I know the Lord will keep his promises. I know
 also that we can keep this commandment if we will organize ourselves and
-prepare "every needful thing." ([D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118).)
+prepare "every needful thing." ([D&amp;C 88:119](/scriptures/dc-
+testament/dc/88.119?lang=eng#118).)
 
 I am grateful that my parents and grandparents provided such traditions of
 learning for our family. My father wrote this account of how his parents
@@ -210,8 +206,8 @@ for ... teaching me the doctrines of repentance, faith, baptism, and the gift of
 the Holy Ghost. She taught me the power and blessing of prayer, of the actual
 existence of the Father and the Son, and that Joseph Smith saw and talked to
 them when a boy fourteen years of age. We knew from her teaching that our
-Prophet saw other heavenly messengers ... , and that through them the Church of
-Jesus Christ was restored to the earth." [7]
+Prophet saw other heavenly messengers ..., and that through them the Church of
+Jesus Christ was restored to the earth."[7]
 
 When I was a boy, our family home evening took place at the dinner table. It
 was most pleasant and enjoyable. It was a time when our father would reminisce
@@ -225,7 +221,7 @@ their great faith in the gospel.
 Home can literally become a house of glory. Memories of early childhood can
 become significant in our daily lives.
 
-_A House of Order_
+**_A House of Order_**
 
 To instill order in our homes, parents should be in charge and exercise
 parental authority in righteous dominion and establish acceptable standards of
@@ -233,8 +229,7 @@ behavior for their children, setting limits and adhering to them consistently.
 They are to teach and guide their children "by persuasion, by long-suffering,
 by gentleness and meekness, and by love unfeigned; by kindness, ... reproving
 betimes with sharpness, when moved upon by the Holy Ghost; and then showing
-forth afterwards an increase of love." ([D&amp;C
-121:41-43](https://www.lds.org/scriptures/dc-
+forth afterwards an increase of love." ([D&amp;C 121:41-43](/scriptures/dc-
 testament/dc/121.41-43?lang=eng#40).) Parents then will earn the respect of
 their children, and children will honor their parents, unifying families.
 
@@ -243,7 +238,7 @@ blessed, baptized, and sons ordained to the priesthood. In addition, they
 should be worthy to enter the holy temples, become missionaries, and receive
 the crowning blessing of an eternal marriage.
 
-_A House of God_
+**_A House of God_**
 
 My brothers and sisters, if you will make your home a house of prayer and
 fasting, faith, learning and glory, and order, it can become a house of God.
@@ -259,17 +254,17 @@ Ezra Taft Benson. In the name of Jesus Christ, amen.
 
 ## References
 
-  1.  Unpublished manuscript, Winnipeg Manitoba Stake conference, 27 Oct. 1990.
+  1. Unpublished manuscript, Winnipeg Manitoba Stake conference, 27 Oct. 1990.
 
-  2.  Louis S. Richman, "Struggling to Save Our Kids," _Fortune,_ 10 Aug. 1992, pp. 34-35.
+  2. Louis S. Richman, "Struggling to Save Our Kids," _Fortune,_ 10 Aug. 1992, pp. 34-35.
 
-  3.   _Gospel Doctrine: Selections fromt the Sermons and Writings of Joseph F. Smith_ (Salt Lake City: Deseret Book Co., 1939), p. 302.
+  3. _Gospel Doctrine: Selections fromt the Sermons and Writings of Joseph F. Smith_ (Salt Lake City: Deseret Book Co., 1939), p. 302.
 
-  4.  James R. Clark, comp., _Messages of the First Presidency of The Church of Jesus Christ of Latter-day Saints,_ 6 vols. (Salt Lake City: Bookcraft, 1970), 4:339.
+  4. James R. Clark, comp., _Messages of the First Presidency of The Church of Jesus Christ of Latter-day Saints,_ 6 vols. (Salt Lake City: Bookcraft, 1970), 4:339.
 
-  5.   _Family Home Evening Manual_ (Salt Lake City: The Council of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, 1965), p. iii.
+  5. _Family Home Evening Manual_ (Salt Lake City: The Council of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, 1965), p. iii.
 
-  6.   _Family Home Evening Manual_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1976), p. 3.
+  6. _Family Home Evening Manual_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1976), p. 3.
 
-  7.  Joseph L. Wirthlin, _A Heritage of Faith,_ comp. Richard B. Wirthlin (Salt Lake City: Deseret Book Co., 1964), pp. 42-43.
+  7. Joseph L. Wirthlin, _A Heritage of Faith,_ comp. Richard B. Wirthlin (Salt Lake City: Deseret Book Co., 1964), pp. 42-43.
 

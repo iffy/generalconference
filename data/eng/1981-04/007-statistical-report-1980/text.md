@@ -33,14 +33,13 @@ Number of independent branches in stakes
   
 Number of mission branches
 
-(These statistics reflect an increase of 1,105 wards and branches during
-1980.)
+(These statistics reflect an increase of1,105 wards and branches during 1980.)
 
 |
 
 2,267  
   
-Number of countries with organized wards or branches
+Number ofcountries with organized wards or branches
 
 |
 
@@ -69,7 +68,7 @@ Children of record baptized
   
 Converts baptized
 
-(This convert baptism figure is an estimate based on 1980 reports received at
+(Thisconvert baptism figure is an estimate based on 1980 reports received at
 Church headquarers prior to conference.)  
   
 221,000  
@@ -237,4 +236,6 @@ Olympic Committee and participant in the International Olympic Academy; Junius
 M. Jackson, former president of the Church Genealogical Society; Pearl B.
 Johnson, secretary to members of the First Presidency or Quorum of the Twelve
 for over forty years and former member of the YWMIA General Board.
+
+## References
 

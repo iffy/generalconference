@@ -1,4 +1,4 @@
-# Joseph Smith: Prophet to Our Generation
+# Joseph Smith:Prophet to Our Generation
 
 I would like to discuss with you this morning the calling and mission of a
 modern prophet to our generation.
@@ -28,7 +28,7 @@ and tongue, and people,
 "Saying with a loud voice, Fear God, and give glory to him; for the hour of
 his judgment is come: and worship him that made heaven, and earth, and the
 sea, and the fountains of waters." ([Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5).)
+14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5).)
 
 If one accepts the testimony of John the Revelator, new revelation and a
 visitation by a heavenly messenger to earth should be expected.
@@ -86,7 +86,7 @@ are his words:
 glory defy all description, standing above me in the air. One of them spake
 unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 Joseph asked the second personage, who was Jesus Christ, which one of the
 Christian sects was correct. He was told that he must not join any of them,
@@ -99,7 +99,7 @@ of old, would not recant his testimony, but defended his claim in these words:
 "I had seen a vision; I knew it, and I knew that God knew it, and I could not
 deny it, neither dared I do it; at least I knew that by so doing I would
 offend God, and come under condemnation." ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 The ultimate test of a true prophet is that when he speaks in the name of the
 Lord his words come to pass. That standard was explained by the Lord to Moses
@@ -108,7 +108,7 @@ in these words:
 "When a prophet speaketh in the name of the Lord, if the thing follow not, nor
 come to pass, that is the thing which the Lord hath not spoken, but the
 prophet hath spoken it presumptuously." ([Deut.
-18:22](https://www.lds.org/scriptures/ot/deut/18.22?lang=eng#21).)
+18:22](/scriptures/ot/deut/18.22?lang=eng#21).)
 
 Many prophecies of Joseph Smith are recorded to which this test might be
 applied. May I illustrate with two examples.
@@ -117,9 +117,8 @@ In 1832, he prophesied that the southern states and northern states would
 shortly be divided in civil war, that this war would be the beginning of world
 wars which would eventually involve all nations and result in the death and
 misery of many souls. Specifically, he said that the great Civil War would
-begin with a rebellion in South Carolina. (See [D&amp;C
-87](https://www.lds.org/scriptures/dc-testament/dc/87.title?lang=eng).) This
-prophecy was published to the world in 1851.
+begin with a rebellion in South Carolina. (See [D&amp;C 87](/scriptures/dc-
+testament/dc/87?lang=eng).) This prophecy was published to the world in 1851.
 
 As every schoolboy knows, the Civil War began with the secession of South
 Carolina from the Union, and other states followed. When Lincoln sent
@@ -157,14 +156,14 @@ life.
 Another test of a true prophet was established by the Savior Himself. True
 prophets should be distinguished from false prophets by the standard, "By
 their fruits ye shall know them." ([Matt.
-7:20](https://www.lds.org/scriptures/nt/matt/7.20?lang=eng#19).) Consider some
-of the "fruits" of Joseph Smith's teachings:
+7:20](/scriptures/nt/matt/7.20?lang=eng#19).) Consider some of the "fruits" of
+Joseph Smith's teachings:
 
 The Church of Jesus Christ of Latter-day Saints takes care of its poor and
 needy by tithes and offerings from Church members. Latter-day Saints take
 seriously the Savior's statement that "inasmuch as ye have done it unto one of
 the least of these my brethren, ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 The Prophet Joseph Smith said the Church was not fully organized until the
 women had their own organization. So he organized, in 1842, the women's Relief
@@ -175,7 +174,7 @@ Utah was one of the first states to grant voting rights to women.
 This is a missionary church, as you've heard this morning. Jesus said one of
 the signs of the times before His second coming was that the gospel of the
 kingdom would be preached to all the world as a witness unto all nations. (See
-[Matt. 24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).)
+[Matt. 24:14](/scriptures/nt/matt/24.14?lang=eng#13).)
 
 Missionary service is expected from all young men and many married couples.
 Training begins in the home and is augmented by additional training in Church
@@ -221,7 +220,7 @@ that revelation given in 1833, Church members were directed to abstain from
 coffee, tea, tobacco, and all alcoholic beverages.
 
 Those who obey the commandment are promised "health in their navel and marrow
-to their bones." ([D&amp;C 89:18](https://www.lds.org/scriptures/dc-
+to their bones." ([D&amp;C 89:18](/scriptures/dc-
 testament/dc/89.18?lang=eng#17).)
 
 A number of scientific studies have been made involving members of the LDS
@@ -243,10 +242,10 @@ Joseph Smith received the Word of Wisdom in 1833. Today medical science has
 validated the soundness of that revelation.
 
 Yes, "by their fruits ye shall know them"! ([Matt.
-7:20](https://www.lds.org/scriptures/nt/matt/7.20?lang=eng#19).) The fruits of
-Joseph Smith's teachings have withstood over 150 years of investigation,
-criticism, and persecution. The message, the Church, and the people stand as a
-vindication of the truth of his testimony and works.
+7:20](/scriptures/nt/matt/7.20?lang=eng#19).) The fruits of Joseph Smith's
+teachings have withstood over 150 years of investigation, criticism, and
+persecution. The message, the Church, and the people stand as a vindication of
+the truth of his testimony and works.
 
 Just as prophets of the past were without honor in their own countries and
 were persecuted and killed, Joseph Smith was maligned and martyred in his
@@ -256,7 +255,7 @@ Was Joseph Smith sent from God? We answer an emphatic "yes"!
 
 "He lived great, and he died great in the eyes of God and his people; and like
 most of the Lord's anointed in ancient times, has sealed his mission and his
-works with his own blood." ([D&amp;C 135:3](https://www.lds.org/scriptures/dc-
+works with his own blood." ([D&amp;C 135:3](/scriptures/dc-
 testament/dc/135.3?lang=eng#2).)
 
 I testify to you that God has again spoken from the heavens; that the
@@ -277,4 +276,6 @@ Father's program for the blessing of His children.
 
 As God lives, I know these things are true and bear this witness to you, in
 the name of Jesus Christ, amen.
+
+## References
 

@@ -22,24 +22,24 @@ that leadeth to destruction, and many there be which go in thereat:
 
 "Because strait is the gate, and narrow is the way, which leadeth unto life,
 and few there be that find it." ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).)
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).)
 
 In modern-day revelation he taught further, "For strait is the gate, and
 narrow the way that leadeth unto the exaltation and continuation of the lives,
-and few there be that find it." ([D&amp;C
-132:22](https://www.lds.org/scriptures/dc-testament/dc/132.22?lang=eng#21).)
+and few there be that find it." ([D&amp;C 132:22](/scriptures/dc-
+testament/dc/132.22?lang=eng#21).)
 
 King Josiah was a king of Judah who reigned in righteousness. When he was only
 eight years old, he succeeded his father as king. Scripture tells us that
 although he was just a boy, Josiah "did that which was right in the sight of
 the Lord, ... and turned not aside to the right hand or to the left." ([2 Kgs.
-22:2](https://www.lds.org/scriptures/ot/2-kgs/22.2?lang=eng#1).)
+22:2](/scriptures/ot/2-kgs/22.2?lang=eng#1).)
 
 The Lord revealed to the Prophet Joseph Smith, "For God doth not walk in
 crooked paths, neither doth he turn to the right hand nor to the left, neither
 doth he vary from that which he hath said, therefore his paths are straight,
-and his course is one eternal round." ([D&amp;C
-3:2](https://www.lds.org/scriptures/dc-testament/dc/3.2?lang=eng#1).)
+and his course is one eternal round." ([D&amp;C 3:2](/scriptures/dc-
+testament/dc/3.2?lang=eng#1).)
 
 Even though these teachings of the Savior are plain and direct, we are still
 at risk of getting sidetracked. Some people choose to follow the teachings of
@@ -63,13 +63,11 @@ that are much more important.
 Good physical and spiritual health can help us to stay on the straight and
 narrow way. The Lord gave his code of health in the Word of Wisdom, a
 "principle with promise" that modern medical science continues to
-substantiate. ([D&amp;C 89:3](https://www.lds.org/scriptures/dc-
-testament/dc/89.3?lang=eng#2).) All of God's commandments, including the Word
-of Wisdom, are spiritual. (See [D&amp;C
-29:34-35](https://www.lds.org/scriptures/dc-
-testament/dc/29.34-35?lang=eng#33).) We need to nourish ourselves spiritually
-even more than physically. Are we giving adequate emphasis to our spiritual
-health?
+substantiate. ([D&amp;C 89:3](/scriptures/dc-testament/dc/89.3?lang=eng#2).)
+All of God's commandments, including the Word of Wisdom, are spiritual. (See
+[D&amp;C 29:34-35](/scriptures/dc-testament/dc/29.34-35?lang=eng#33).) We need
+to nourish ourselves spiritually even more than physically. Are we giving
+adequate emphasis to our spiritual health?
 
 Another activity that can detract us from the proper way is watching
 television excessively or viewing improper movies. While fine productions on
@@ -87,8 +85,8 @@ the kingdom of God or to feed and clothe our needy brothers and sisters.
 
 Jacob, the Book of Mormon prophet, warned us, "Do not spend money for that
 which is of no worth, nor your labor for that which cannot satisfy." ([2 Ne.
-9:51](https://www.lds.org/scriptures/bofm/2-ne/9.51?lang=eng#50).) And in even
-stronger words, he said:
+9:51](/scriptures/bofm/2-ne/9.51?lang=eng#50).) And in even stronger words, he
+said:
 
 "Because some of you have obtained more abundantly than ... your brethren ye are
 lifted up in the pride of your hearts, and wear stiff necks and high heads
@@ -100,8 +98,7 @@ Behold, I say unto you, Nay. But he condemneth you. ...
 
 "Do ye not suppose that such things are abominable unto him who created all
 flesh? And the one being is as precious in his sight as the other." ([Jacob
-2:13-14,
-21](https://www.lds.org/scriptures/bofm/jacob/2.13-14%2C21?lang=eng#12).)
+2:13-14, 21](/scriptures/bofm/jacob/2.13-14,21?lang=eng#12).)
 
 Pride and vanity, the opposites of humility, can destroy our spiritual health
 as surely as a debilitating disease can destroy our physical health.
@@ -112,8 +109,8 @@ have eternal life; he had kept all the commandments from his youth. He asked
 the Master what he still lacked. Jesus told him to sell all that he had and
 give to the poor, and come and follow Him. But the man went away sorrowing,
 for he loved his possessions. (See [Matt.
-19:16-22](https://www.lds.org/scriptures/nt/matt/19.16-22?lang=eng#15).) How
-many of us would pass this test?
+19:16-22](/scriptures/nt/matt/19.16-22?lang=eng#15).) How many of us would
+pass this test?
 
 Many of us have made sacred covenants to live the laws of sacrifice and
 consecration. But when the Lord blesses us with riches and affluence, we may
@@ -123,8 +120,8 @@ church.
 The scriptures are full of warnings against worldliness and pride because
 they, too, can lead us off course. The Lord explained to the Prophet Joseph
 Smith that many people veer from the path "because their hearts are set so
-much [on] the things of this world." ([D&amp;C
-121:35](https://www.lds.org/scriptures/dc-testament/dc/121.35?lang=eng#34).)
+much [on] the things of this world." ([D&amp;C 121:35](/scriptures/dc-
+testament/dc/121.35?lang=eng#34).)
 
 My brothers and sisters, I plead with you also to be certain that you do not
 cross over the lines of safety into the paths of immorality. Our living
@@ -133,10 +130,9 @@ of this generation is sexual immorality. ... It permeates our society."
 (_Ensign,_ May 1986, p. 4.) The broken hearts and broken families that come to
 my attention likewise demonstrate that immorality is, indeed, a very serious
 problem in the world and even among some Church members. Remember, "wickedness
-never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).) "You
-cannot do wrong and feel right." (Ezra Taft Benson, _New Era,_ June 1986, p.
-5.)
+never was happiness." ([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9).)
+"You cannot do wrong and feel right." (Ezra Taft Benson, _New Era,_ June 1986,
+p. 5.)
 
 The first deviation toward moral breakdown in a man or woman is similar to a
 spark that ignites a devastating forest fire. On a hot, windy summer day this
@@ -163,7 +159,7 @@ that led to the tree?
 unto the word of God, and would hold fast unto it, they would never perish;
 neither could the temptations and the fiery darts of the adversary overpower
 them unto blindness, to lead them away to destruction." ([1 Ne.
-15:23-24](https://www.lds.org/scriptures/bofm/1-ne/15.23-24?lang=eng#22).)
+15:23-24](/scriptures/bofm/1-ne/15.23-24?lang=eng#22).)
 
 In other words, Nephi taught that by clinging to the word of God, as though it
 be a handrail, we would be able to avoid temptations and not lose our way in
@@ -171,7 +167,7 @@ darkness. Thus, we would remain on the narrow path.
 
 Using another apt symbol, the Psalmist wrote: "Thy word is a lamp unto my
 feet, and a light unto my path." ([Ps.
-119:105](https://www.lds.org/scriptures/ot/ps/119.105?lang=eng#104).)
+119:105](/scriptures/ot/ps/119.105?lang=eng#104).)
 
 God's word, then, is the light for our path, the iron rod or railing to which
 we can cling. It provides the limiting lines that we must not cross if we are
@@ -181,15 +177,15 @@ Through daily study of the scriptures and the words of the modern-day
 prophets, we can keep our values in line with the will of our Heavenly Father.
 The scriptures lead us "to the fountain of living waters, or to the tree of
 life; which waters are a representation of the love of God." ([1 Ne.
-11:25](https://www.lds.org/scriptures/bofm/1-ne/11.25?lang=eng#24).)
+11:25](/scriptures/bofm/1-ne/11.25?lang=eng#24).)
 
 Daily prayers can help us keep on the path that leads to eternal life. In
 Proverbs we read: "In all thy ways acknowledge him, and he shall direct thy
-paths." ([Prov. 3:6](https://www.lds.org/scriptures/ot/prov/3.6?lang=eng#5).)
-Daily prayer in private and as families will help us stay close to our
-Heavenly Father and help us know what is of most value to us and to him. We
-are very unlikely to stray if we offer a humble, simple prayer at least each
-morning and evening to express thanks and to seek divine guidance.
+paths." ([Prov. 3:6](/scriptures/ot/prov/3.6?lang=eng#5).) Daily prayer in
+private and as families will help us stay close to our Heavenly Father and
+help us know what is of most value to us and to him. We are very unlikely to
+stray if we offer a humble, simple prayer at least each morning and evening to
+express thanks and to seek divine guidance.
 
 The Savior taught the value of service to our fellowmen in the parable of the
 sheep and the goats when he said to the righteous:
@@ -212,12 +208,11 @@ hungred, and fed thee? or thirsty, and gave thee drink?
 
 "And the King shall answer, and say unto them, Verily I say unto you, Inasmuch
 as ye have done it unto one of the least of these my brethren, ye have done it
-unto me." ([Matt.
-25:34-40](https://www.lds.org/scriptures/nt/matt/25.34-40?lang=eng#33).)
+unto me." ([Matt. 25:34-40](/scriptures/nt/matt/25.34-40?lang=eng#33).)
 
 King Benjamin taught the same principle, saying, "When ye are in the service
 of your fellow beings ye are only in the service of your God." ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).)
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).)
 
 As you pray, occasionally take a personal inventory to see how you measure up
 in your righteousness, in meeting the standards of the gospel of Jesus Christ.
@@ -244,8 +239,7 @@ The Book of Mormon prophet Jacob declared: "O then, my beloved brethren, come
 unto the Lord, the Holy One. Remember that his paths are righteous. Behold,
 the way for man is narrow, but it lieth in a straight course before him, and
 the keeper of the gate is the Holy One of Israel; and he employeth no servant
-there." ([2 Ne.
-9:41](https://www.lds.org/scriptures/bofm/2-ne/9.41?lang=eng#40).)
+there." ([2 Ne. 9:41](/scriptures/bofm/2-ne/9.41?lang=eng#40).)
 
 I pray that we may all enjoy the fruits of the gospel. Let us be faithful and
 true to our covenants. Let us each be mindful of the straight and narrow way
@@ -255,11 +249,13 @@ word of God, be prayerful in all we do, and perform Christlike acts of
 service. May we be filled with charity, the pure love of Christ, and may that
 love be reflected in our actions. We then will observe the "weightier matters"
 of God's law while not leaving the rest undone. ([Matt.
-23:23](https://www.lds.org/scriptures/nt/matt/23.23?lang=eng#22).)
+23:23](/scriptures/nt/matt/23.23?lang=eng#22).)
 
 I bear solemn testimony that Jesus is the Holy One of Israel, our Savior, and
 our Redeemer. This is his Church. He is the Son of God, our Heavenly Father.
 Joseph Smith is the Prophet of the Restoration in these latter days, and
 President Ezra Taft Benson is a living prophet today. I bear this testimony in
 the sacred name of Jesus Christ, amen.
+
+## References
 

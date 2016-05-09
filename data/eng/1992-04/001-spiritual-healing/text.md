@@ -3,11 +3,10 @@
 I humbly come to this pulpit today to speak about a sure cure for heartache,
 disappointment, torment, anguish, and despair. The psalmist stated, "He
 healeth the broken in heart, and bindeth up their wounds." ([Ps.
-147:3](https://www.lds.org/scriptures/ot/ps/147.3?lang=eng#2).) The healing is
-a divine miracle; the wounds are a common lot of all mankind. Shakespeare has
-said, "He jests at scars that never felt a wound." (_Romeo and Juliet,_
-II.ii.1.) It seems that no one escapes the troubles, challenges, and
-disappointments of this world.
+147:3](/scriptures/ot/ps/147.3?lang=eng#2).) The healing is a divine miracle;
+the wounds are a common lot of all mankind. Shakespeare has said, "He jests at
+scars that never felt a wound." (_Romeo and Juliet,_ II.ii.1.) It seems that
+no one escapes the troubles, challenges, and disappointments of this world.
 
 In today's overloaded society, some of the healing agents that our parents
 enjoyed seem not to be at work in our lives. Fewer and fewer are able to
@@ -29,7 +28,7 @@ and other forms of evil are often held up to ridicule. Many things are just
 plain and simply wrong, whether they are illegal or not. Those who persist in
 following after the evil things of the world cannot know the "peace of God,
 which passeth all understanding." ([Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).)
+4:7](/scriptures/nt/philip/4.7?lang=eng#6).)
 
 Someway, somehow, we must find the healing influence that brings solace to the
 soul. Where is this balm? Where is the compensating relief so desperately
@@ -100,8 +99,7 @@ manifested in many ways. They are rich, and full, and abundant in the Church
 today. They flow from the proper and humble use of a testimony. They also come
 through the administering to the sick following an anointing with consecrated
 oil. Christ is the great Physician, who rose from the dead "with healing in
-his wings" ([2 Ne.
-25:13](https://www.lds.org/scriptures/bofm/2-ne/25.13?lang=eng#12)), while the
+his wings" ([2 Ne. 25:13](/scriptures/bofm/2-ne/25.13?lang=eng#12)), while the
 Comforter is the agency of healing.
 
 The Lord has provided many avenues by which we may receive this healing
@@ -110,8 +108,7 @@ It is an important part of the work of salvation for both the living and the
 dead. Our temples provide a sanctuary where we may go to lay aside many of the
 anxieties of the world. Our temples are places of peace and tranquillity. In
 these hallowed sanctuaries God "healeth the broken in heart, and bindeth up
-their wounds." ([Ps.
-147:3](https://www.lds.org/scriptures/ot/ps/147.3?lang=eng#2).)
+their wounds." ([Ps. 147:3](/scriptures/ot/ps/147.3?lang=eng#2).)
 
 The reading and the study of the scriptures can bring great comfort. President
 Marion G. Romney stated:
@@ -132,8 +129,8 @@ abstinence from tobacco, alcoholic drinks, tea, and coffee, were not as well
 established as they are today. However, the spiritual benefits have long been
 validated. The Word of Wisdom promises that those who remember to keep this
 counsel and walk in obedience to the commandments "shall receive health in
-their navel and marrow to their bones." ([D&amp;C
-89:18](https://www.lds.org/scriptures/dc-testament/dc/89.18?lang=eng#17).)
+their navel and marrow to their bones." ([D&amp;C 89:18](/scriptures/dc-
+testament/dc/89.18?lang=eng#17).)
 
 Marrow has long been a symbol of vibrant, healthful living. But in a day of
 life-saving bone marrow transplants, the phrase "marrow to their bones" takes
@@ -145,8 +142,7 @@ wisdom and great treasures of knowledge, even hidden treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C
-89:19-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.19-21?lang=eng#18).)
+89:19-21](/scriptures/dc-testament/dc/89.19-21?lang=eng#18).)
 
 If we are to be spared, we do indeed need to be fortified against the many
 destroying agents at work in the world today.
@@ -177,12 +173,12 @@ and concerns of our hearts.
 I doubt that sincere members of this church can achieve complete spiritual
 healing without our being in harmony with the foundation of the Church, which,
 the Apostle Paul stated, is "the apostles and prophets." ([Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).) This may not
-be the popular thing to do based upon the long history of rejection by the
-world of the prophets and their messages. Nevertheless, they are the oracles
-of God on earth and those called to lead and direct the work in this day and
-time. It is also essential for us to be found sustaining our bishops and our
-stake presidents and other leaders.
+2:20](/scriptures/nt/eph/2.20?lang=eng#19).) This may not be the popular thing
+to do based upon the long history of rejection by the world of the prophets
+and their messages. Nevertheless, they are the oracles of God on earth and
+those called to lead and direct the work in this day and time. It is also
+essential for us to be found sustaining our bishops and our stake presidents
+and other leaders.
 
 Recent information seems to confirm that the ultimate spiritual healing comes
 in the forgetting of self. A review of the accounts indicates that those who
@@ -199,7 +195,7 @@ life]." (_Man's Search for Meaning, _New York: Simon and Schuster, 1963, p.
 
 The Savior of the world said it very simply: "And whosoever shall lose his
 life shall preserve it." ([Luke
-17:33](https://www.lds.org/scriptures/nt/luke/17.33?lang=eng#32).)
+17:33](/scriptures/nt/luke/17.33?lang=eng#32).)
 
 Of all that we might do to find solace, prayer is perhaps the most comforting.
 We are instructed to pray to the Father in the name of his Son, the Lord Jesus
@@ -219,39 +215,39 @@ will and a sympathetic interest in the welfare and happiness of others."
 
 There is hope for all to be healed through repentance and obedience. The
 Prophet Isaiah verified that "though your sins be as scarlet, they shall be as
-white as snow." ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).) The Prophet
-Joseph Smith stated, "There is never a time when the spirit is too old to
-approach God. All are [in] reach of pardoning mercy." (_Teachings of the
+white as snow." ([Isa. 1:18](/scriptures/ot/isa/1.18?lang=eng#17).) The
+Prophet Joseph Smith stated, "There is never a time when the spirit is too old
+to approach God. All are [in] reach of pardoning mercy." (_Teachings of the
 Prophet Joseph Smith, _p. 191.)
 
 After full repentance, the formula is wonderfully simple. Indeed, the Lord has
 given it to us in these words: "Will ye not now return unto me, and repent of
 your sins, and be converted, that I may heal you?" ([3 Ne.
-9:13](https://www.lds.org/scriptures/bofm/3-ne/9.13?lang=eng#12).) In so
-doing, we have his promise that "he healeth the broken in heart, and bindeth
-up their wounds." ([Ps.
-147:3](https://www.lds.org/scriptures/ot/ps/147.3?lang=eng#2).)
+9:13](/scriptures/bofm/3-ne/9.13?lang=eng#12).) In so doing, we have his
+promise that "he healeth the broken in heart, and bindeth up their wounds."
+([Ps. 147:3](/scriptures/ot/ps/147.3?lang=eng#2).)
 
 We find solace in Christ through the agency of the Comforter, and he extends
 this invitation to us: "Come unto me, all ye that labour and are heavy laden,
 and I will give you rest." ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).) The Apostle
-Peter speaks of "casting all your care upon him; for he careth for you." ([1
-Pet. 5:7](https://www.lds.org/scriptures/nt/1-pet/5.7?lang=eng#6).) As we do
-this, healing takes place, just as the Lord promised through the prophet
-Jeremiah when he said, "I will turn their mourning into joy, and will comfort
-them, and make them rejoice from their sorrow. ... I have satiated the weary
-soul, and I have replenished every sorrowful soul." ([Jer. 31:13,
-25](https://www.lds.org/scriptures/ot/jer/31.13%2C25?lang=eng#12).)
+11:28](/scriptures/nt/matt/11.28?lang=eng#27).) The Apostle Peter speaks of
+"casting all your care upon him; for he careth for you." ([1 Pet.
+5:7](/scriptures/nt/1-pet/5.7?lang=eng#6).) As we do this, healing takes
+place, just as the Lord promised through the prophet Jeremiah when he said, "I
+will turn their mourning into joy, and will comfort them, and make them
+rejoice from their sorrow. ... I have satiated the weary soul, and I have
+replenished every sorrowful soul." ([Jer. 31:13,
+25](/scriptures/ot/jer/31.13,25?lang=eng#12).)
 
 In the celestial glory, we are told, "God shall wipe away all tears from their
 eyes; and there shall be no more death, neither sorrow, nor crying, neither
 shall there be any more pain." ([Rev.
-21:4](https://www.lds.org/scriptures/nt/rev/21.4?lang=eng#3).) Then faith and
-hope will replace heartache, disappointment, torment, anguish, and despair,
-and the Lord will give us strength, as Alma says, that we "should suffer no
-manner of afflictions, save it were swallowed up in the joy of Christ." ([Alma
-31:38](https://www.lds.org/scriptures/bofm/alma/31.38?lang=eng#37).) Of this I
-have a testimony, and I so declare it in the name of Jesus Christ, amen.
+21:4](/scriptures/nt/rev/21.4?lang=eng#3).) Then faith and hope will replace
+heartache, disappointment, torment, anguish, and despair, and the Lord will
+give us strength, as Alma says, that we "should suffer no manner of
+afflictions, save it were swallowed up in the joy of Christ." ([Alma
+31:38](/scriptures/bofm/alma/31.38?lang=eng#37).) Of this I have a testimony,
+and I so declare it in the name of Jesus Christ, amen.
+
+## References
 

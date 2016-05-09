@@ -199,14 +199,14 @@ The Savior implores us to give all that we have to his work.
 You recall that the New Testament states that Jesus stood watching as
 offerings were given. Some gave of their abundance, and then a poor widow came
 and approached the treasury: "She threw in two mites" ([Mark
-12:42](https://www.lds.org/scriptures/nt/mark/12.42?lang=eng#41)).
+12:42](/scriptures/nt/mark/12.42?lang=eng#41)).
 
 The Lord accepted her offering, for he said, "Verily I say unto you, That this
 poor widow hath cast more in, than all they which have cast into the treasury:
 
 "For all they did cast in of their abundance; but she of her want did cast in
 all that she had, even all her living" ([Mark
-12:43-44](https://www.lds.org/scriptures/nt/mark/12.43-44?lang=eng#42)).
+12:43-44](/scriptures/nt/mark/12.43-44?lang=eng#42)).
 
 The Lord herein points the way for the sons and daughters of God. If we who
 believe will give all that we have, a way will be opened so that we can
@@ -218,4 +218,6 @@ their abundance and even all their "living" as you place them in a situation
 where they can act with you in the priesthood councils of the Church to
 successfully accomplish this great work of love. I so testify in the name of
 Jesus Christ, amen.
+
+## References
 

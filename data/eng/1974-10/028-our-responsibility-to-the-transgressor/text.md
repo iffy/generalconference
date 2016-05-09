@@ -33,9 +33,8 @@ He said, "I became attracted to them and engaged in conversation with them to
 find out why they were different. They told me they were Mormons, that they
 observed a Word of Wisdom, which they explained to me, and that the Lord had
 said, 'Thou shalt not commit adultery' ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13)), and that
-sexual transgression was considered by the Church as one of the most grievous
-sins."
+20:14](/scriptures/ot/ex/20.14?lang=eng#13)), and that sexual transgression
+was considered by the Church as one of the most grievous sins."
 
 He said further, "I became very close to these young men and liked what they
 taught and the way they lived. They were very free in telling me about the
@@ -200,8 +199,8 @@ responsibility to sit in righteous judgment where it becomes necessary. Let me
 read from the twentieth section of the Doctrine and Covenants an important
 reminder to those who have the responsibility of judging: "Any member of the
 Church of Christ transgressing, or being overtaken in a fault, shall be dealt
-with as the scriptures direct." ([D&amp;C
-20:80](https://www.lds.org/scriptures/dc-testament/dc/20.80?lang=eng#79).)
+with as the scriptures direct." ([D&amp;C 20:80](/scriptures/dc-
+testament/dc/20.80?lang=eng#79).)
 
 Brethren, study the scriptures and the handbook and do as they direct and
 discipline the members of the Church when necessary. Remember that it is no
@@ -238,7 +237,7 @@ which he is appointed, in all diligence.
 
 "He that is slothful shall not be counted worthy to stand, and he that learns
 not his duty and shows himself not approved shall not be counted worthy to
-stand." ([D&amp;C 107:99-100](https://www.lds.org/scriptures/dc-
+stand." ([D&amp;C 107:99-100](/scriptures/dc-
 testament/dc/107.99-100?lang=eng#98).)
 
 In the scriptures it is abundantly clear that the cases which are to be
@@ -262,7 +261,7 @@ We read in the Doctrine and Covenants:
 Lord, remember them no more.
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them." ([D&amp;C 58:42-43](https://www.lds.org/scriptures/dc-
+them and forsake them." ([D&amp;C 58:42-43](/scriptures/dc-
 testament/dc/58.42-43?lang=eng#41).)
 
 Let me emphasize to all assembled, wherever you may be this evening, it is our
@@ -286,4 +285,6 @@ to work. If we will follow him, we cannot go astray.
 May we magnify our priesthood and enjoy the blessings of the Lord, and as
 President Romney said, "Prove our integrity," I humbly pray in the name of
 Jesus Christ. Amen.
+
+## References
 

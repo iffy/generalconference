@@ -37,8 +37,7 @@ from their sin, when thou afflictest them:
 "Then hear thou in heaven, and forgive the sin of thy servants, and of thy
 people Israel, that thou teach them the good way wherein they should walk, and
 give rain upon thy land, which thou hast given to thy people for an
-inheritance." ([1 Kgs.
-8:35-36](https://www.lds.org/scriptures/ot/1-kgs/8.35-36?lang=eng#34).)
+inheritance." ([1 Kgs. 8:35-36](/scriptures/ot/1-kgs/8.35-36?lang=eng#34).)
 
 The Lord uses the weather sometimes to discipline his people for the violation
 of his laws. He said to the children of Israel:
@@ -54,7 +53,7 @@ your land safely.
 
 "And I will give peace in the land, and ye shall lie down, and none shall make
 you afraid: ... neither shall the sword go through your land." ([Lev.
-26:3-6](https://www.lds.org/scriptures/ot/lev/26.3-6?lang=eng#2).)
+26:3-6](/scriptures/ot/lev/26.3-6?lang=eng#2).)
 
 With the great worry and suffering in the East and threats of drouth here in
 the West and elsewhere, we asked the people to join in a solemn prayer circle
@@ -75,7 +74,7 @@ ourselves unworthy of receiving the blessings.
 
 The Lord gave strict commandments: "Ye shall keep my sabbaths, and reverence
 my sanctuary: I am the Lord." ([Lev.
-19:30](https://www.lds.org/scriptures/ot/lev/19.30?lang=eng#29).)
+19:30](/scriptures/ot/lev/19.30?lang=eng#29).)
 
 Innumerous times we have quoted this, asking our people not to profane the
 Sabbath; and yet we see numerous cars lined up at merchandise stores on the
@@ -93,8 +92,7 @@ maidservant, nor thy cattle, nor thy stranger that is within thy gates:
 
 "For in six days the Lord made heaven and earth, the sea, and all that in them
 is, and rested the seventh day: wherefore the Lord blessed the sabbath day,
-and hallowed it." ([Ex.
-20:8-11](https://www.lds.org/scriptures/ot/ex/20.8-11?lang=eng#7).)
+and hallowed it." ([Ex. 20:8-11](/scriptures/ot/ex/20.8-11?lang=eng#7).)
 
 But today numerous of the people of this land spend the Sabbath working,
 devoting the day to the beaches, to entertainment, to shows, to their weekly
@@ -102,22 +100,21 @@ purchases. The Lord makes definite promises. He says:
 
 "Then I will give you rain in due season, and the land shall yield her
 increase, and the trees of the field shall yield their fruit." ([Lev.
-26:4](https://www.lds.org/scriptures/ot/lev/26.4?lang=eng#3).)
+26:4](/scriptures/ot/lev/26.4?lang=eng#3).)
 
 God does what _he_ promises, and many of us continue to defile the Sabbath
 day. He then continues:
 
 "And your threshing shall reach unto the vintage, and the vintage shall reach
 unto the sowing time: and ye shall eat your bread to the full, and dwell in
-your land safely." ([Lev.
-26:5](https://www.lds.org/scriptures/ot/lev/26.5?lang=eng#4).)
+your land safely." ([Lev. 26:5](/scriptures/ot/lev/26.5?lang=eng#4).)
 
 These promises are dependable. The Lord says further:
 
 "And I will walk among you, and will be your God, and ye shall be my people.
 
 "I am the Lord your God ... and I have broken the bands of your yoke." ([Lev.
-26:12-13](https://www.lds.org/scriptures/ot/lev/26.12-13?lang=eng#11).)
+26:12-13](/scriptures/ot/lev/26.12-13?lang=eng#11).)
 
 The Lord reverses now and warns:
 
@@ -140,14 +137,12 @@ iron, and your earth as brass:
 
 "And your strength shall be spent in vain: for your land shall not yield her
 increase, neither shall the trees of the land yield their fruits." ([Lev.
-26:14-17,
-19-20](https://www.lds.org/scriptures/ot/lev/26.14-17%2C19-20?lang=eng#13).)
+26:14-17, 19-20](/scriptures/ot/lev/26.14-17,19-20?lang=eng#13).)
 
 The Lord goes further and says:
 
 "I will ... destroy your cattle, and make you few in number; and your high ways
-shall be desolate." ([Lev.
-26:22](https://www.lds.org/scriptures/ot/lev/26.22?lang=eng#21).)
+shall be desolate." ([Lev. 26:22](/scriptures/ot/lev/26.22?lang=eng#21).)
 
 Can you think how the highways could be made desolate? When fuel and power are
 limited, when there is none to use, when men will walk instead of ride?
@@ -156,13 +151,13 @@ Have you ever thought, my good folks, that the matter of peace is in the hands
 of the Lord who says:
 
 "And I will bring a sword upon you. ..." ([Lev.
-26:25](https://www.lds.org/scriptures/ot/lev/26.25?lang=eng#24)).
+26:25](/scriptures/ot/lev/26.25?lang=eng#24)).
 
 Would that be difficult? Do you read the papers? Are you acquainted with the
 hatreds in the world? What guarantee have you for permanent peace?
 
 "... and ye shall be delivered into the hand of the enemy." ([Lev.
-26:25](https://www.lds.org/scriptures/ot/lev/26.25?lang=eng#24).)
+26:25](/scriptures/ot/lev/26.25?lang=eng#24).)
 
 Are there enemies who could and would afflict us? Have you thought of that?
 
@@ -175,7 +170,7 @@ sabbaths.
 
 "As long as it lieth desolate it shall rest; because it did not rest [when it
 could] in your sabbaths, when ye dwelt upon it." ([Lev. 26:31,
-34-35](https://www.lds.org/scriptures/ot/lev/26.31%2C34-35?lang=eng#30).)
+34-35](/scriptures/ot/lev/26.31,34-35?lang=eng#30).)
 
 Those are difficult and very serious situations, but they are possible.
 
@@ -183,7 +178,7 @@ And the Lord concludes:
 
 "These are the statutes and judgments and laws, which the Lord made between
 him and the children of Israel in Mount Sinai by the hand of Moses." ([Lev.
-26:46](https://www.lds.org/scriptures/ot/lev/26.46?lang=eng#45).)
+26:46](/scriptures/ot/lev/26.46?lang=eng#45).)
 
 This applies to you and me.
 
@@ -212,23 +207,21 @@ Is the time to enter new life? As the clear-thinking apostle Paul said:
 affection, evil concupiscence, and covetousness, which is idolatry:
 
 "For which things' sake the wrath of God cometh on the children of
-disobedience." ([Col.
-3:5-6](https://www.lds.org/scriptures/nt/col/3.5-6?lang=eng#4).)
+disobedience." ([Col. 3:5-6](/scriptures/nt/col/3.5-6?lang=eng#4).)
 
 Would this be a good time to eliminate "the works of the flesh ... ; Adultery,
 fornication, uncleanness, lasciviousness, idolatry, witchcraft, hatred,
 variance, emulations, wrath, strife, seditions, heresies, envyings, murders,
 drunkenness, revellings, and such like," remembering that "they which do such
 things shall not inherit the kingdom of God"? ([Gal.
-5:19-21](https://www.lds.org/scriptures/nt/gal/5.19-21?lang=eng#18).)
+5:19-21](/scriptures/nt/gal/5.19-21?lang=eng#18).)
 
 The Lord asks, "And why call ye me, Lord, Lord, and do not the things which I
-say?" ([Luke 6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).)
+say?" ([Luke 6:46](/scriptures/nt/luke/6.46?lang=eng#45).)
 
 "Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of
 heaven; but he that _doeth_ the will of my Father which is in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20); italics
-added.)
+7:21](/scriptures/nt/matt/7.21?lang=eng#20); italics added.)
 
 The temple work for the Church is going forward. We are proud of the service
 rendered, attendance at the temple; but is not total service required? It was
@@ -268,14 +261,14 @@ explain to them the theological basis for our emphasis on the family.
 This is a firm and positive and important element of our religious teaching.
 
 "Behold, I will send my messenger, and he shall prepare the way before me."
-([Mal. 3:1](https://www.lds.org/scriptures/ot/mal/3.1?lang=eng#0).)
+([Mal. 3:1](/scriptures/ot/mal/3.1?lang=eng#0).)
 
 "Behold, I will send you Elijah the prophet before the coming of the great and
 dreadful day of the Lord:
 
 "And he shall turn the heart of the fathers to the children, and the heart of
 the children to their fathers, lest I come and smite the earth with a curse."
-([Mal. 4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4).)
+([Mal. 4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4).)
 
 That's an ominous, portentous thing.
 
@@ -291,7 +284,7 @@ which the Lord hath said will we do.
 
 "And he took the book of the covenant, and read in the audience of the people:
 and they said, All that the Lord hath said will we do, and be obedient." ([Ex.
-24:3, 7](https://www.lds.org/scriptures/ot/ex/24.3%2C7?lang=eng#2).)
+24:3, 7](/scriptures/ot/ex/24.3,7?lang=eng#2).)
 
 May I mention again our program on home gardens. From all over the globe come
 notes from members who participate in the production projects. Here is a
@@ -315,4 +308,6 @@ commandments. And I beg of you--all of us--that we live the commandments of
 the Lord which are brought forth in these conferences from time to time by the
 various Brethren. And I bear testimony to the divinity of it all, in the name
 of Jesus Christ. Amen.
+
+## References
 

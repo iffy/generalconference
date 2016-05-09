@@ -1,11 +1,11 @@
-# Application of Welfare Principles in the Home: A Key to Many Family Problems
+# Application of Welfare Principles in the Home:A Key to Many Family Problems
 
 My beloved brethren and sisters, "In the beginning was the Word" ([John
-1:1](https://www.lds.org/scriptures/nt/john/1.1?lang=eng#0))--or, in the words
-of the Joseph Smith translation, "In the beginning was the gospel preached
-through the Son. And the gospel was the word." (JST, John 1:1.) And further,
-"In [the Son] was the gospel, and the gospel was the life, and the life was
-the light of men." (JST, John 1:4.)
+1:1](/scriptures/nt/john/1.1?lang=eng#0))--or, in the words of the Joseph
+Smith translation, "In the beginning was the gospel preached through the Son.
+And the gospel was the word." (JST, John 1:1.) And further, "In [the Son] was
+the gospel, and the gospel was the life, and the life was the light of men."
+(JST, John 1:4.)
 
 Sadly, not all men and women enjoy the light that was intended for them. Not
 all who have the gospel know how to bring its radiance into their lives.
@@ -57,8 +57,7 @@ for which we each bear personal responsibility is converting the words of the
 gospel into actions, attitudes, and habits.
 
 The gospel principle of love suggests action in the injunction to "love one
-another." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).) When these
+another." ([John 13:34](/scriptures/nt/john/13.34?lang=eng#33).) When these
 words are translated into a determined effort to change a behavior that brings
 hurt or embarrassment or sorrow to one who loves you, it becomes a key to
 solving a family problem. These few lines, written by a wife to her husband,
@@ -203,15 +202,14 @@ trials she may have experienced; but going on foot, living in tents, and
 cooking over an open fire could have been devastating after their comfortable
 life in Jerusalem. We do read of her anguished waiting when she feared her
 beloved sons had perished in their return to obtain the plates. (See [1 Ne.
-5:2](https://www.lds.org/scriptures/bofm/1-ne/5.2?lang=eng#1).) But in spite
-of troubles, she did love and serve her family. With the return of her sons,
-she knew of a certainty that the Lord had commanded her husband to flee into
-the wilderness, and in their safe return she found the assurance that the Lord
-was with them. (See [1 Ne.
-5:8](https://www.lds.org/scriptures/bofm/1-ne/5.8?lang=eng#7).) Their
-circumstances did not change; they still slept in tents. But she had joy and
-comfort in the knowledge that the Lord was guiding them. In that light she
-could carry on and meet further difficulties as they came.
+5:2](/scriptures/bofm/1-ne/5.2?lang=eng#1).) But in spite of troubles, she did
+love and serve her family. With the return of her sons, she knew of a
+certainty that the Lord had commanded her husband to flee into the wilderness,
+and in their safe return she found the assurance that the Lord was with them.
+(See [1 Ne. 5:8](/scriptures/bofm/1-ne/5.8?lang=eng#7).) Their circumstances
+did not change; they still slept in tents. But she had joy and comfort in the
+knowledge that the Lord was guiding them. In that light she could carry on and
+meet further difficulties as they came.
 
 For each of us, whatever our knowledge of the gospel, can continue to learn.
 But learning is just the beginning. The fulness of blessings comes as we adopt
@@ -224,4 +222,6 @@ children, and to their children, and to theirs.
 May we press on, with a perfect brightness of hope, overcome our problems, and
 enjoy the love of God and of all men, I humbly pray, in the name of Jesus
 Christ, amen.
+
+## References
 

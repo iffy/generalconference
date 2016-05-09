@@ -68,14 +68,14 @@ and tell us that she loved us. Through her example, she taught me about
 patience. She taught me about prayer. She taught me about love.
 
 In Timothy, we are admonished to be an example of the believers. (See [1 Tim.
-4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).) A believer
-is someone who follows and knows the teachings of Christ not only in his mind
-but also in his heart and whose actions are a witness of that belief. It isn't
-easy to be an example of the believers. We don't usually wake up in the
-morning and say, "Today I'm going to be an example of the believers!" Yet we
-can say, "Today I will be kind and thoughtful, or considerate, or honest, or
-whatever quality I need to work on." And _then_ we will try hard all day to
-make a conscious effort to do so. That we can do!
+4:12](/scriptures/nt/1-tim/4.12?lang=eng#11).) A believer is someone who
+follows and knows the teachings of Christ not only in his mind but also in his
+heart and whose actions are a witness of that belief. It isn't easy to be an
+example of the believers. We don't usually wake up in the morning and say,
+"Today I'm going to be an example of the believers!" Yet we can say, "Today I
+will be kind and thoughtful, or considerate, or honest, or whatever quality I
+need to work on." And _then_ we will try hard all day to make a conscious
+effort to do so. That we can do!
 
 We can live in such a way that people can look to us as their examples.
 
@@ -147,8 +147,7 @@ italics added.)
 We can always feel secure in looking to Christ as our perfect example. He
 showed us by his own life not only what we should do, but also what we are to
 become. "Therefore, what manner of men ought ye to be? Verily I say unto you,
-even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+even as I am." ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 Jesus resisted temptations. He treated all equally. He was patient in his
 teaching yet bold in his condemnation of evil. He forgave the repentant,
@@ -158,11 +157,11 @@ Among the Nephites, Christ taught many beautiful gospel principles. He
 instructed them to follow the commandments so they could be happy. He
 commanded them not to argue or fight but love one another. He taught them how
 to pray and said, "Behold I am the light; I have set an example for you." ([3
-Ne. 18:16](https://www.lds.org/scriptures/bofm/3-ne/18.16?lang=eng#15).)
+Ne. 18:16](/scriptures/bofm/3-ne/18.16?lang=eng#15).)
 
 Above all, Jesus was the perfect example of love. "A new commandment I give
 unto you, That ye love one another; as I have loved you. ..." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).)
+13:34](/scriptures/nt/john/13.34?lang=eng#33).)
 
 One Sunday I was substituting in a Primary class of particularly rambunctious
 five-year-olds. The lesson was about love. We began by singing the song "Jesus
@@ -193,10 +192,9 @@ nails in his hands and feet?"
 
 "Yes, it did. Even after that happened, as Jesus hung on the cross in great
 pain, he said, 'Father, forgive them; for they know not what they do.' ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).) Jesus was
-speaking about the men who had placed him on the cross. He asked Heavenly
-Father to forgive them. Yes, Robbie, Jesus even loved these people, and he
-forgave them."
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).) Jesus was speaking about the
+men who had placed him on the cross. He asked Heavenly Father to forgive them.
+Yes, Robbie, Jesus even loved these people, and he forgave them."
 
 Robbie looked at me, furrowed his brow, and said, "I'm going to ask my dad if
 Jesus really did say that."
@@ -214,4 +212,6 @@ Each of us can feel our Savior's love through the righteous example of others.
 We, too, can strive to live in such a way that we can be examples of the
 believers. I testify that Jesus, our Savior, is the Christ, our perfect
 example, in his name, amen.
+
+## References
 

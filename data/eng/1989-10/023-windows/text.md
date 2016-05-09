@@ -115,7 +115,7 @@ in the markets, and the highest seats in the synagogues, and the chief rooms
 at feasts;
 
 "Which devour widows' houses, and for a shew make long prayers." ([Luke
-20:45-47](https://www.lds.org/scriptures/nt/luke/20.45-47?lang=eng#44).)
+20:45-47](/scriptures/nt/luke/20.45-47?lang=eng#44).)
 
 "And he looked up, and saw the rich men casting their gifts into the treasury.
 
@@ -126,8 +126,8 @@ more than they all:
 
 "For all these have of their abundance cast in unto the offerings of God: but
 she of her penury hath cast in all the living that she had." ([Luke
-21:1-4](https://www.lds.org/scriptures/nt/luke/21.1-4?lang=eng#0).) What a
-beautiful lesson, as taught through the window of example.
+21:1-4](/scriptures/nt/luke/21.1-4?lang=eng#0).) What a beautiful lesson, as
+taught through the window of example.
 
 At a city called Nain, the Lord opened to his disciples and to many people who
 followed him a window through which they might view true compassion:
@@ -143,8 +143,7 @@ not.
 said, Young man, I say unto thee, Arise.
 
 "And he that was dead sat up, and began to speak. And he delivered him to his
-mother." ([Luke
-7:12-15](https://www.lds.org/scriptures/nt/luke/7.12-15?lang=eng#11).)
+mother." ([Luke 7:12-15](/scriptures/nt/luke/7.12-15?lang=eng#11).)
 
 The disciples of the Lord witnessed through the windows Jesus opened the power
 of God and were made partakers of this same power when, in righteousness, they
@@ -173,7 +172,7 @@ when she saw Peter, she sat up.
 saints and widows, presented her alive.
 
 "And it was known throughout all Joppa; and many believed in the Lord." ([Acts
-9:36-42](https://www.lds.org/scriptures/nt/acts/9.36-42?lang=eng#35).)
+9:36-42](/scriptures/nt/acts/9.36-42?lang=eng#35).)
 
 Would it not be ever so sad if such a window to priesthood power, to faith, to
 healing, were to be restricted to Joppa alone? Are these sacred and moving
@@ -268,7 +267,7 @@ son loves you."
 
 From sacred soil far away, and from a timeless truth taught long ago, came the
 message, "With God all things are possible." ([Matt.
-19:26](https://www.lds.org/scriptures/nt/matt/19.26?lang=eng#25).)
+19:26](/scriptures/nt/matt/19.26?lang=eng#25).)
 
 Once more a gentle but unseen hand had opened a window to the soul, that
 precious lives might receive blessings heaven-sent.
@@ -279,4 +278,6 @@ the priceless opportunities He provides to bless the lives of others.
 
 That each may experience this privilege is my humble prayer, in the name of
 Jesus Christ, amen.
+
+## References
 

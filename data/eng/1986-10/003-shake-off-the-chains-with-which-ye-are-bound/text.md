@@ -23,7 +23,7 @@ death. He pleads with his sons with these words:
 
 "Awake, my sons; put on the armor of righteousness. Shake off the chains with
 which ye are bound, and come forth out of obscurity, and arise from the dust"
-([2 Ne. 1:23](https://www.lds.org/scriptures/bofm/2-ne/1.23?lang=eng#22)).
+([2 Ne. 1:23](/scriptures/bofm/2-ne/1.23?lang=eng#22)).
 
 Those words apply to us today. Who among us hasn't felt the chains of bad
 habits? These habits may have impeded our progress, may have made us forget
@@ -37,12 +37,12 @@ restrict our mobility, growth, and happiness. They cause us to become confused
 and less able to be guided by God's Spirit. Lehi also reminded his sons that
 their new land should "be a land of liberty unto them; wherefore, they shall
 never be brought down into captivity; if so, it shall be because of iniquity"
-([2 Ne. 1:7](https://www.lds.org/scriptures/bofm/2-ne/1.7?lang=eng#6)). He
-could have said, "If so, it shall be because ye have been bound into captivity
-by the chains of unrighteous living." Samuel Johnson wisely shared, "The
-chains of habit are too small to be felt until they are too strong to be
-broken" (_International Dictionary of Thoughts,_ Chicago: J. G. Ferguson
-Publishing Co., 1969, p. 348).
+([2 Ne. 1:7](/scriptures/bofm/2-ne/1.7?lang=eng#6)). He could have said, "If
+so, it shall be because ye have been bound into captivity by the chains of
+unrighteous living." Samuel Johnson wisely shared, "The chains of habit are
+too small to be felt until they are too strong to be broken" (_International
+Dictionary of Thoughts,_ Chicago: J. G. Ferguson Publishing Co., 1969, p.
+348).
 
 The lady of whom I spoke was able to break the chains of a bad habit because
 she became committed to change. Some of the Lamanites under King Lamoni were
@@ -83,7 +83,7 @@ find satisfaction or comfort in exercising this type of domination.
 
 "No power or influence can or ought to be maintained by virtue of the
 priesthood, only by persuasion, by long-suffering, by gentleness and meekness,
-and by love unfeigned" ([D&amp;C 121:41](https://www.lds.org/scriptures/dc-
+and by love unfeigned" ([D&amp;C 121:41](/scriptures/dc-
 testament/dc/121.41?lang=eng#40)).
 
 Let me share some chains I have recently observed in the lives of some
@@ -123,7 +123,7 @@ they can cause!
 hell, and shake off the awful chains by which ye are bound, which are the
 chains which bind the children of men, that they are carried away captive down
 to the eternal gulf of misery and woe" ([2 Ne.
-1:13](https://www.lds.org/scriptures/bofm/2-ne/1.13?lang=eng#12)).
+1:13](/scriptures/bofm/2-ne/1.13?lang=eng#12)).
 
 Listen to the words of a friend who understands well the meaning of this
 scripture, a man who was bound by the chains of indifference. But when he
@@ -184,7 +184,7 @@ lose the good we oft might win by fearing to attempt" (act 1, scene 4).
 
 Even the chains of fear can be broken by those who will humbly seek God's help
 and strength. It can be done with this strengthening promise in Doctrine and
-Covenants 122:4 [[D&amp;C 122:4](https://www.lds.org/scriptures/dc-
+Covenants 122:4 [[D&amp;C 122:4](/scriptures/dc-
 testament/dc/122.4?lang=eng#3)]: "Because of thy righteousness ... thy God shall
 stand by thee forever and ever."
 
@@ -203,4 +203,6 @@ God's help they can be shaken off by faith, works, prayer, constant
 commitment, and self-discipline. May we have the will and strength to shake
 off the chains that would control and destroy our progress, I pray in the name
 of Jesus Christ, amen.
+
+## References
 

@@ -56,8 +56,7 @@ crucial years we tighten the foundation knots of prayer, testimony, and the
 joy of righteous living. How often we should remember that the Lord has
 encouraged us to "be not weary in well-doing, for ye are laying the foundation
 of a great work. And out of small things proceedeth that which is great"
-([D&amp;C 64:33](https://www.lds.org/scriptures/dc-
-testament/dc/64.33?lang=eng#32)).
+([D&amp;C 64:33](/scriptures/dc-testament/dc/64.33?lang=eng#32)).
 
 If from our girls of today there will proceed that which is great, and I
 believe this to be true, then in their crucial years we must help them
@@ -75,7 +74,7 @@ salvation was unfolded and she understood the role she would play. Her loving
 response was, "My soul doth magnify the Lord,
 
 "And my spirit hath rejoiced in God, my Savior" ([Luke
-1:46-47](https://www.lds.org/scriptures/nt/luke/1.46-47?lang=eng#45)).
+1:46-47](/scriptures/nt/luke/1.46-47?lang=eng#45)).
 
 At that moment Mary committed her life to bringing our Savior into mortality,
 and we as Latter-day Saints know that he had already committed his life unto
@@ -113,4 +112,6 @@ committed, as never before, to joyously accepting our role and our
 responsibility as women. May we move forward and upward as daughters of God
 toward the great fulfillment of our lives, I pray in the name of Jesus Christ,
 amen.
+
+## References
 

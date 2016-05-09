@@ -12,8 +12,7 @@ and Zwieback. I was almost afraid I was not going to die!
 
 As the days passed it dawned on me--"I'm really going on a mission." Do I
 truly have a testimony? Am I prepared to bear it "at all times and ... in all
-places"? ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).)
+places"? ([Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).)
 
 I thought I had a testimony, but now the real trial of my faith was coming. I
 was going to a foreign land where the only words I could speak in German were
@@ -28,10 +27,9 @@ know that the Book of Mormon is thy word. Please, Father, help me."
 
 Somewhere out on the lonely Atlantic, during those turbulent days, a sweet
 spirit and peace came to me--"the peace of God, which passeth all
-understanding." ([Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).) I received a
-witness that the Book of Mormon is the word of God, and that supernal event
-became my hour of conversion.
+understanding." ([Philip. 4:7](/scriptures/nt/philip/4.7?lang=eng#6).) I
+received a witness that the Book of Mormon is the word of God, and that
+supernal event became my hour of conversion.
 
 If you question whether you have a testimony of the restored gospel, I
 encourage you to read, ponder, and study the Book of Mormon. Why the Book of
@@ -56,12 +54,11 @@ which contained the Book of Mormon record. The Lord said to Oliver: "If you
 desire a further witness, cast your mind upon the night that you cried unto me
 in your heart, that you might know concerning the truth of these things. Did I
 not speak peace to your mind concerning the matter?" ([D&amp;C
-6:22-23](https://www.lds.org/scriptures/dc-testament/dc/6.22-23?lang=eng#21).)
-The Lord told Oliver that, first of all, a person needs to have desire.
+6:22-23](/scriptures/dc-testament/dc/6.22-23?lang=eng#21).) The Lord told
+Oliver that, first of all, a person needs to have desire.
 
 Alma said, "Even if ye can no more than desire to believe, let this desire
-work in you." ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26).)
+work in you." ([Alma 32:27](/scriptures/bofm/alma/32.27?lang=eng#26).)
 
 _Second, Works:_ Oliver Cowdery took a positive action. He moved himself from
 thinking to doing. In my case, while on board that ship, I had more intimately
@@ -71,41 +68,39 @@ grandmother Nelson boarded a ship in Denmark, with a flock of little children,
 to join the Mormons in Utah. Righteous works yield a divine harvest. The Lord
 said, "He who doeth the works of righteousness shall receive his reward, even
 peace in this world, and eternal life in the world to come." ([D&amp;C
-59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22).)
+59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22).)
 
 _Third, Prayer:_ "Prayer is the soul's sincere desire, Uttered or
 unexpressed." (_Hymns,_ 1985, no. 145.)
 
 As we sincerely pray to the Lord and rely upon his divine whisperings, that
 still, small voice will come to us. (See [Hel.
-5:30](https://www.lds.org/scriptures/bofm/hel/5.30?lang=eng#29).) We will
-receive a peace, knowing that God has answered our prayers. Remember the peace
-that Oliver received. These spiritual embers can grow into a flame of
-testimony. (See [Hel.
-5:45](https://www.lds.org/scriptures/bofm/hel/5.45?lang=eng#44).)
+5:30](/scriptures/bofm/hel/5.30?lang=eng#29).) We will receive a peace,
+knowing that God has answered our prayers. Remember the peace that Oliver
+received. These spiritual embers can grow into a flame of testimony. (See
+[Hel. 5:45](/scriptures/bofm/hel/5.45?lang=eng#44).)
 
 Alma, upon meeting the four sons of Mosiah, who had been on a fourteen-year
 mission, rejoiced at their knowledge of the truth. He said, "They had searched
 the scriptures diligently, [and] ... they had given themselves to much prayer,
 and fasting, ... [and] they taught with power and authority of God." ([Alma
-17:2-3](https://www.lds.org/scriptures/bofm/alma/17.2-3?lang=eng#1).)
+17:2-3](/scriptures/bofm/alma/17.2-3?lang=eng#1).)
 
 "Ask God, the Eternal Father, in the name of Christ," counseled Moroni, "if
 these things are not true; and if ye shall ask with a sincere heart, ... he will
 manifest the truth of it unto you, by the power of the Holy Ghost." ([Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).)
+10:4](/scriptures/bofm/moro/10.4?lang=eng#3).)
 
 Surely the Lord would not ask us to pray if he did not intend to answer our
 prayers. "He is a rewarder of them that diligently seek him." ([Heb.
-11:6](https://www.lds.org/scriptures/nt/heb/11.6?lang=eng#5).)
+11:6](/scriptures/nt/heb/11.6?lang=eng#5).)
 
 _Fourth, "Trust in the Lord with all thine heart; and lean not unto thine own
-understanding."_ ([Prov.
-3:5](https://www.lds.org/scriptures/ot/prov/3.5?lang=eng#4).) We can trust the
-Lord. He is our truest Friend. He always keeps his word. "Dispute not because
-ye see not, for ye receive no witness until after the trial of your faith,"
-admonished Ether. ([Ether
-12:6](https://www.lds.org/scriptures/bofm/ether/12.6?lang=eng#5).)
+understanding."_ ([Prov. 3:5](/scriptures/ot/prov/3.5?lang=eng#4).) We can
+trust the Lord. He is our truest Friend. He always keeps his word. "Dispute
+not because ye see not, for ye receive no witness until after the trial of
+your faith," admonished Ether. ([Ether
+12:6](/scriptures/bofm/ether/12.6?lang=eng#5).)
 
 May I ask you to extend your trust in the Lord. Take the Book of Mormon into
 your hands. As you read it, ask yourself: "Could any man write this?" Then ask
@@ -116,19 +111,20 @@ and weaken your desire, your righteous works, your sincere prayers, and your
 trust in the Lord. Do not be afraid. We have already overcome the evil one at
 another time and place. We are told that in the great premortal war, "[we]
 overcame [Lucifer] by the blood of the Lamb, and by the word of [our]
-testimony." ([Rev.
-12:11](https://www.lds.org/scriptures/nt/rev/12.11?lang=eng#10).) We had a
+testimony." ([Rev. 12:11](/scriptures/nt/rev/12.11?lang=eng#10).) We had a
 valiant testimony in our preexistent state, and we can resist Satan and awaken
 that testimony again today.
 
 The Book of Mormon is our testimonial Liahona. (See [Alma
-37:45](https://www.lds.org/scriptures/bofm/alma/37.45?lang=eng#44).) This
-voice from the dust guides us to know that God lives, that Jesus is the
-Christ, and that his Church has been restored.
+37:45](/scriptures/bofm/alma/37.45?lang=eng#44).) This voice from the dust
+guides us to know that God lives, that Jesus is the Christ, and that his
+Church has been restored.
 
 If you have even a small desire for a greater witness, please do the works of
 righteousness, trust in the Lord, pray and anxiously explore the Book of
 Mormon. I testify that it is the word of God. This iron rod marks the path
 that will guide your soul to your hour of conversion. I rejoice with you in
 that glorious event. In the name of the Lord Jesus Christ, amen.
+
+## References
 

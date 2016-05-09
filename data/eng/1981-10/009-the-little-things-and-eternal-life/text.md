@@ -59,7 +59,7 @@ just resting from our labors. Keeping the Sabbath day holy inherently builds
 spiritual character and prepares us for what is to come. By observing this
 commandment, we will have power over evil; we will be more capable of keeping
 the commandments of the Lord and maintaining ourselves unspotted from the sins
-of the world. (See [D&amp;C 59:9](https://www.lds.org/scriptures/dc-
+of the world. (See [D&amp;C 59:9](/scriptures/dc-
 testament/dc/59.9?lang=eng#8).)
 
 More specifically, speaking about the Sabbath day, have we thought about the
@@ -81,8 +81,7 @@ Have we ever stopped to think what it means to our salvation when we neglect
 prayer, or don't develop daily from our prayers repeatedly gratifying
 experiences? We are continually referring to the "power of prayer,". but are
 we always willing to pay the price so that the promise we find in [3 Ne.
-18:18-20](https://www.lds.org/scriptures/bofm/3-ne/18.18-20?lang=eng#17) may
-be fulfilled?
+18:18-20](/scriptures/bofm/3-ne/18.18-20?lang=eng#17) may be fulfilled?
 
 "Behold, verily, verily, I say unto you, ye must watch and pray always lest ye
 enter into temptation; for Satan desireth to have you, that he may sift you as
@@ -165,20 +164,21 @@ capability of each individual.
 
 "For the power is in them, wherein they are agents unto themselves. And
 inasmuch as men do good they shall in nowise lose their reward." ([D&amp;C
-58:28](https://www.lds.org/scriptures/dc-testament/dc/58.28?lang=eng#27).)
+58:28](/scriptures/dc-testament/dc/58.28?lang=eng#27).)
 
 The Lord hasn't sent us to the world to fail. We have been invested with all
 of the talents and abilities necessary for the journey to arrive, to be once
 again in His presence. Our greatest challenge is to use faithfully and
 decidedly all that He has given us to reach our exaltation. If such is our
 accomplishment--if we "live by every word that proceedeth forth from the mouth
-of God" ([D&amp;C 84:44](https://www.lds.org/scriptures/dc-
-testament/dc/84.44?lang=eng#43))--at the end of our journey we will once again
-be part of a glorious experience such as we had at the start, when "all the
-sons of God shouted for joy." ([Job
-38:7](https://www.lds.org/scriptures/ot/job/38.7?lang=eng#6).)
+of God" ([D&amp;C 84:44](/scriptures/dc-testament/dc/84.44?lang=eng#43))--at
+the end of our journey we will once again be part of a glorious experience
+such as we had at the start, when "all the sons of God shouted for joy." ([Job
+38:7](/scriptures/ot/job/38.7?lang=eng#6).)
 
 I know that the Lord has made this possible and that he blesses us and will
 continue to bless us as we progress to our glorious destination. In the name
 of Jesus Christ, amen.
+
+## References
 

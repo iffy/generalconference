@@ -145,35 +145,23 @@ of the Scout Law, I reflect upon the life of one who knew the laws of God and
 who kept them--even the Lord, Jesus Christ. The twelve points of the Scout Law
 have their counterpart in the message of the Master.
 
-  1. _A Scout is trustworthy._ What did the Lord say? "I have finished the work which thou gavest me to do." ([John 17:4](https://www.lds.org/scriptures/nt/john/17.4?lang=eng#3).)
-
-  2. _A Scout is loyal._ "Get thee behind me, Satan." ([Luke 4:8](https://www.lds.org/scriptures/nt/luke/4.8?lang=eng#7).)
-
-  3. _A Scout is helpful._ "Rise, take up thy bed, and walk." ([John 5:8](https://www.lds.org/scriptures/nt/john/5.8?lang=eng#7).)
-
-  4. _A Scout is friendly._ "Ye are my friends." ([John 15:14](https://www.lds.org/scriptures/nt/john/15.14?lang=eng#13).)
-
-  5. _A Scout is courteous._ "Therefore all things whatsoever ye would that men should do to you, do ye even so to them." ([Matt. 7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11).)
-
-  6. _A Scout is kind._ "Suffer the little children to come unto me. ... And he took them up in his arms, put his hands upon them, and blessed them." ([Mark 10:14, 16](https://www.lds.org/scriptures/nt/mark/10.14%2C16?lang=eng#13).)
-
-  7. _A Scout is obedient._ "For I came down from heaven, not to do mine own will, but the will of him that sent me." ([John 6:38](https://www.lds.org/scriptures/nt/john/6.38?lang=eng#37).)
-
-  8. _A Scout is cheerful._ "Be of good cheer; I have overcome the world." ([John 16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).)
-
-  9. _A Scout is thrifty._ "Sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me." ([Luke 18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).)
-
-  10. _A Scout is brave._ "O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt." ([Matt. 26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).)
-
-  11. _A Scout is clean._ "Be ye clean that bear the vessels of the Lord." ([D&amp;C 38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).)
-
-  12. _A Scout is reverent._ "Our Father which art in heaven, Hallowed be thy name." ([Matt. 6:9](https://www.lds.org/scriptures/nt/matt/6.9?lang=eng#8).)
+  1. _A Scout is trustworthy._ What did the Lord say? "I have finished the work which thou gavest me to do." ([John 17:4](/scriptures/nt/john/17.4?lang=eng#3).) 
+  2. _A Scout is loyal._ "Get thee behind me, Satan." ([Luke 4:8](/scriptures/nt/luke/4.8?lang=eng#7).) 
+  3. _A Scout is helpful._ "Rise, take up thy bed, and walk." ([John 5:8](/scriptures/nt/john/5.8?lang=eng#7).) 
+  4. _A Scout is friendly._ "Ye are my friends." ([John 15:14](/scriptures/nt/john/15.14?lang=eng#13).) 
+  5. _A Scout is courteous._ "Therefore all things whatsoever ye would that men should do to you, do ye even so to them." ([Matt. 7:12](/scriptures/nt/matt/7.12?lang=eng#11).) 
+  6. _A Scout is kind._ "Suffer the little children to come unto me. ... And he took them up in his arms, put his hands upon them, and blessed them." ([Mark 10:14, 16](/scriptures/nt/mark/10.14,16?lang=eng#13).) 
+  7. _A Scout is obedient._ "For I came down from heaven, not to do mine own will, but the will of him that sent me." ([John 6:38](/scriptures/nt/john/6.38?lang=eng#37).) 
+  8. _A Scout is cheerful._ "Be of good cheer; I have overcome the world." ([John 16:33](/scriptures/nt/john/16.33?lang=eng#32).) 
+  9. _A Scout is thrifty._ "Sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me." ([Luke 18:22](/scriptures/nt/luke/18.22?lang=eng#21).) 
+  10. _A Scout is brave._ "O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt." ([Matt. 26:39](/scriptures/nt/matt/26.39?lang=eng#38).) 
+  11. _A Scout is clean._ "Be ye clean that bear the vessels of the Lord." ([D&amp;C 38:42](/scriptures/dc-testament/dc/38.42?lang=eng#41).) 
+  12. _A Scout is reverent._ "Our Father which art in heaven, Hallowed be thy name." ([Matt. 6:9](/scriptures/nt/matt/6.9?lang=eng#8).) 
 
 Such inspired teachings, when taught by devoted leaders to precious boys of
 promise, influence not only the lives of the boys; they also affect eternity.
 "Cast thy bread upon the waters: for thou shalt find it after many days."
-([Eccl. 11:1](https://www.lds.org/scriptures/ot/eccl/11.1?lang=eng#0).) Such
-is Scouting.
+([Eccl. 11:1](/scriptures/ot/eccl/11.1?lang=eng#0).) Such is Scouting.
 
 Several years ago a group of men, leaders of Scouts, assembled in the
 mountains near Sacramento for Wood Badge training. This experience, where men
@@ -229,4 +217,6 @@ to share a part of his life with him." To leaders who build bridges to the
 hearts of boys, to parents of Scouts, and to Scouts everywhere, on this our
 75th anniversary, I salute you and pray our Heavenly Father's blessings upon
 you. In the name of Jesus Christ, amen.
+
+## References
 

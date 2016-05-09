@@ -10,7 +10,7 @@ We hope that the conference has brought to the people generally a stirring
 toward spirituality, and we recall that the Lord said, "For what is a man
 profited, if he shall gain the whole world, and lose his own soul? or what
 shall a man give in exchange for his soul?" ([Matt.
-16:26](https://www.lds.org/scriptures/nt/matt/16.26?lang=eng#25).)
+16:26](/scriptures/nt/matt/16.26?lang=eng#25).)
 
 Very early in his ministry the Lord said, "What seekest thou?" He was
 referring to the incentive prompting the seeking of wealth, worldly honors,
@@ -23,7 +23,7 @@ desires and accomplishments.
 We reiterate over and over the exhortation of the Christ when he admonished
 his hearers to "seek ye first the kingdom of God, and his righteousness; and
 all these things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).)
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).)
 
 This, then, is the paramount issue which brings large numbers of people from
 all over the world to prepare for this choice--the material or the spiritual
@@ -226,8 +226,8 @@ strong ones, that man should not counsel his fellow man, neither trust in the
 arm of flesh--
 
 "But every man might speak in the name of God the Lord." ([D&amp;C 1:1-4,
-12-14, 16, 19-20](https://www.lds.org/scriptures/dc-
-testament/dc/1.1-4%2C12-14%2C16%2C19-20?lang=eng#0).)
+12-14, 16, 19-20](/scriptures/dc-
+testament/dc/1.1-4,12-14,16,19-20?lang=eng#0).)
 
 I would like to conclude with the thought about Job, whose wife came to him
 with a tempting suggestion:
@@ -250,9 +250,8 @@ integrity from me.
 reproach me so long as I live. ...
 
 "For what is the hope of the hypocrite, though he hath gained, when God taketh
-away his soul?" ([Job
-2:9-10](https://www.lds.org/scriptures/ot/job/2.9-10?lang=eng#8); [Job 27:3-6,
-8](https://www.lds.org/scriptures/ot/job/27.3-6%2C8?lang=eng#2).)
+away his soul?" ([Job 2:9-10](/scriptures/ot/job/2.9-10?lang=eng#8); [Job
+27:3-6, 8](/scriptures/ot/job/27.3-6,8?lang=eng#2).)
 
 And then as I have heard the many sermons throughout this conference, a number
 of times Matthew 16 has been quoted. I would like to quote it once more, for
@@ -268,7 +267,7 @@ others, Jeremias, or one of the prophets.
 
 And Simon Peter was the spokesman. He answered and said, "Thou art the Christ,
 the Son of the living God." ([Matt.
-16:13-16](https://www.lds.org/scriptures/nt/matt/16.13-16?lang=eng#12).)
+16:13-16](/scriptures/nt/matt/16.13-16?lang=eng#12).)
 
 There are a half a hundred special witnesses in this room this day. There are
 tens of thousands of men under the sound of my voice, all of whom would, in
@@ -287,7 +286,7 @@ I revealed this unto thee that Jesus is the Christ.
 "And I will give unto thee the keys of the kingdom of heaven: and whatsoever
 thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt
 loose on earth shall be loosed in heaven." (See [Matt.
-16:17-19](https://www.lds.org/scriptures/nt/matt/16.17-19?lang=eng#16).)
+16:17-19](/scriptures/nt/matt/16.17-19?lang=eng#16).)
 
 And that is my testimony to you, my brothers and sisters, as we conclude this
 marvelous conference when we have all rejoiced so much together. My testimony
@@ -301,4 +300,6 @@ we make our special efforts. And I bear this testimony to you and ask the
 blessings of the Lord to be upon you in your home going, that you may be
 protected and safe, and that the message of this conference may sink deep into
 your hearts and last forever, in the name of Jesus Christ. Amen.
+
+## References
 

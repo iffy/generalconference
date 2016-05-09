@@ -221,7 +221,7 @@ You are taught of the still, small voice of personal revelation.
 You read of the appearance of the Lord to his other sheep. And you are
 promised that he will "manifest the truth of [this sacred book] unto you, by
 the power of the Holy Ghost." ([Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).)
+10:4](/scriptures/bofm/moro/10.4?lang=eng#3).)
 
 All of these courses are taught in a school setting with excellent teachers.
 But seminary is not all study. There are some fun and games. The scripture-
@@ -259,11 +259,10 @@ you can think of anything better to say, say it and quote me."
 Paul prophesied that in the last days perilous times would come. He prophesied
 that men would be "unholy, without natural affection, ... despisers of those
 that are good, ... lovers of pleasures more than lovers of God." ([2 Tim.
-3:1-7](https://www.lds.org/scriptures/nt/2-tim/3.1-7?lang=eng#0).)
+3:1-7](/scriptures/nt/2-tim/3.1-7?lang=eng#0).)
 
 He said that "evil men and seducers shall wax worse and worse, deceiving, and
-being deceived." ([2 Tim.
-3:13](https://www.lds.org/scriptures/nt/2-tim/3.13?lang=eng#12).)
+being deceived." ([2 Tim. 3:13](/scriptures/nt/2-tim/3.13?lang=eng#12).)
 
 Then, he gave the answer to it all:
 
@@ -275,19 +274,17 @@ to make thee wise unto salvation through faith which is in Christ Jesus.
 
 "All scripture," Paul continued, "is given by inspiration of God, and is
 profitable for doctrine, for reproof, for correction, for instruction in
-righteousness." ([2 Tim.
-3:13-16](https://www.lds.org/scriptures/nt/2-tim/3.13-16?lang=eng#12); italics
-added.)
+righteousness." ([2 Tim. 3:13-16](/scriptures/nt/2-tim/3.13-16?lang=eng#12);
+italics added.)
 
 The Lord said that when we read the revelations to one another, by his power
 we "can testify that you have heard my voice, and know my words." ([D&amp;C
-18:35-36](https://www.lds.org/scriptures/dc-
-testament/dc/18.35-36?lang=eng#34).)
+18:35-36](/scriptures/dc-testament/dc/18.35-36?lang=eng#34).)
 
 These things are the true measure of our progress. Far more important than
 counting things we can _see_ are those spiritual things we can _feel._ "Search
 the scriptures," the Lord has told us, "for ... they are they which testify of
-me." ([John 5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).)
+me." ([John 5:39](/scriptures/nt/john/5.39?lang=eng#38).)
 
 I reverently give thanks to the Lord for the revelations, the scriptures, the
 standard works which He has given to us in our generation. These are the
@@ -295,4 +292,6 @@ handbook for the priesthood. For you young men of the Aaronic Priesthood and
 you brethren of the Melchizedek Priesthood, I bear witness that He lives and
 that they do testify of Him. And I testify of Him, in the name of Jesus
 Christ, amen.
+
+## References
 

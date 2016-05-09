@@ -40,7 +40,7 @@ he made it again another vessel, as seemed good to the potter to make it.
 
 "O house of Israel, cannot I do with you as this potter? ... Behold, as the clay
 is in the potter's hand, so are ye in mine hand, O house of Israel." ([Jer.
-18:2-6](https://www.lds.org/scriptures/ot/jer/18.2-6?lang=eng#1).)
+18:2-6](/scriptures/ot/jer/18.2-6?lang=eng#1).)
 
 The Lord explained to Jeremiah that when we make mistakes, as ancient Israel
 was making, we can take what we have marred and begin again. The potter did
@@ -63,8 +63,8 @@ is the time to go and express sorrow for what you have done, beg their
 forgiveness, and whenever possible, restore that which has been taken. When?
 Now! It is God's design that we pay our obligations. In the Doctrine and
 Covenants he said, "Behold it is my will that you _shall_ pay all your debts."
-([D&amp;C 104:78](https://www.lds.org/scriptures/dc-
-testament/dc/104.78?lang=eng#77); italics added.)
+([D&amp;C 104:78](/scriptures/dc-testament/dc/104.78?lang=eng#77); italics
+added.)
 
 At the peak of its power, the Greek Empire sprawled from the Mediterranean
 Basin on the west to what is present-day India on the east. Through military
@@ -86,10 +86,10 @@ battles do not end as dramatically as the one fought at Cumorah. All miracles
 are not as immediate as when Joseph Smith blessed the sick on the banks of the
 Missouri River. But problems do go away, battles are won, and miracles do
 occur in the lives of us all. In Deuteronomy 7:22 [[Deut.
-7:22](https://www.lds.org/scriptures/ot/deut/7.22?lang=eng#21)] the Lord
-described his battle plan for purifying Israel in this way: "And the Lord thy
-God will put out those nations before thee by little and little." Victory
-often does come little by little.
+7:22](/scriptures/ot/deut/7.22?lang=eng#21)] the Lord described his battle
+plan for purifying Israel in this way: "And the Lord thy God will put out
+those nations before thee by little and little." Victory often does come
+little by little.
 
 Let me suggest the steps necessary to turn our lives in a new direction. The
 business of life is to climb higher. The divine step is to repent. Repentance
@@ -106,7 +106,7 @@ have humbled himself and stayed with the Church.
 
 _If only_ the rich man could have seen beyond the grave, he might have started
 praying sooner; but only in hell did he become a praying man. (See [Luke
-16:19-25](https://www.lds.org/scriptures/nt/luke/16.19-25?lang=eng#18).)
+16:19-25](/scriptures/nt/luke/16.19-25?lang=eng#18).)
 
 _If only_ you had not gone on that date, or taken that trip, or made that
 investment, or met that person, your life might have been different.
@@ -118,16 +118,15 @@ and where we want to be, and not dwell on the "what ifs" of yesterday.
 
 _Second,_ do not wait for tomorrow to begin again. "Boast not thyself of to
 morrow; for thou knowest not what a day may bring forth." ([Prov.
-27:1](https://www.lds.org/scriptures/ot/prov/27.1?lang=eng#0).) _Today_ is the
-day for each of us to erect those monuments on our own battlefields and mark
-the place where we began again. One of the reasons we have conferences is to
-learn how to be better.
+27:1](/scriptures/ot/prov/27.1?lang=eng#0).) _Today_ is the day for each of us
+to erect those monuments on our own battlefields and mark the place where we
+began again. One of the reasons we have conferences is to learn how to be
+better.
 
 _Third,_ resolve to live the gospel of Jesus Christ in its entirety. "For you
 shall live by every word that proceedeth forth from the mouth of God."
-([D&amp;C 84:44](https://www.lds.org/scriptures/dc-
-testament/dc/84.44?lang=eng#43).) Many people live the gospel according to
-themselves. That is self-deception.
+([D&amp;C 84:44](/scriptures/dc-testament/dc/84.44?lang=eng#43).) Many people
+live the gospel according to themselves. That is self-deception.
 
 There is only one true gospel. We may alter it or tint it with our own
 notions. But if we will adhere to the pure teachings of Jesus Christ, we will
@@ -139,17 +138,17 @@ _Fourth,_ face reality. Sometimes we wish we could fly from our troubles. King
 David did. He had been a good man, but he engulfed himself in great
 difficulties. It seemed to be more than he could bear. One day he cried, "Oh
 that I had wings like a dove! for then would I fly away, and be at rest."
-([Ps. 55:6](https://www.lds.org/scriptures/ot/ps/55.6?lang=eng#5).) His guilt-
-fired emotions had gained the upper hand. He wanted to get away from
-everything. Some try to fly away physically, and others try to do so
-emotionally. That does not solve problems. The only true escape route is
-marked with the sign "personal responsibility."
+([Ps. 55:6](/scriptures/ot/ps/55.6?lang=eng#5).) His guilt-fired emotions had
+gained the upper hand. He wanted to get away from everything. Some try to fly
+away physically, and others try to do so emotionally. That does not solve
+problems. The only true escape route is marked with the sign "personal
+responsibility."
 
 Remember, the Savior said, "Come unto me, all ye that labour and are heavy
 laden, and I will give you rest." ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).) He invited
-us to learn of him and to take his yoke upon us. (See [Matt.
-11:29](https://www.lds.org/scriptures/nt/matt/11.29?lang=eng#28).)
+11:28](/scriptures/nt/matt/11.28?lang=eng#27).) He invited us to learn of him
+and to take his yoke upon us. (See [Matt.
+11:29](/scriptures/nt/matt/11.29?lang=eng#28).)
 
 _Fifth,_ approach our challenges positively! Take over! Lead out! A poet
 wrote:
@@ -167,57 +166,55 @@ the kingdom of God, and to establish his righteousness; and all these things
 shall be added unto you." (JST, Matt. 6:38.) Just a few verses later, the
 Savior tells us, "Ask, and it shall be given you; seek, and ye shall find;
 knock, and it shall be opened unto you." ([Matt.
-7:7](https://www.lds.org/scriptures/nt/matt/7.7?lang=eng#6).)
+7:7](/scriptures/nt/matt/7.7?lang=eng#6).)
 
 _Sixth,_ don't begin again partially. Be complete! Otherwise, you may be
 patching up an old article of clothing with a little piece of new material.
 The old fabric will not hold. As Jesus said, "No man putteth a piece of new
 cloth unto an old garment, for ... the rent is made worse." ([Matt.
-9:16](https://www.lds.org/scriptures/nt/matt/9.16?lang=eng#15).) Don't patch.
-Begin a whole new life. The wealthy young man was unwilling to give all, to
-follow the Master totally, and so "he went away sorrowful" ([Matt.
-19:22](https://www.lds.org/scriptures/nt/matt/19.22?lang=eng#21)), and was
-never heard from again.
+9:16](/scriptures/nt/matt/9.16?lang=eng#15).) Don't patch. Begin a whole new
+life. The wealthy young man was unwilling to give all, to follow the Master
+totally, and so "he went away sorrowful" ([Matt.
+19:22](/scriptures/nt/matt/19.22?lang=eng#21)), and was never heard from
+again.
 
 _Seventh,_ be open and candid in your relationships with others. So many of
 life's difficulties are brought about by being double-minded. Let us learn to
 say it as it is. Think of Peter's extreme discomfort when the Master addressed
 him after Peter had been teaching a false concept: "Thou art an offence unto
 me: for thou savourest not the things that be of God, but those that be of
-man." ([Matt.
-16:23](https://www.lds.org/scriptures/nt/matt/16.23?lang=eng#22).) From that
+man." ([Matt. 16:23](/scriptures/nt/matt/16.23?lang=eng#22).) From that
 moment, Peter was a greater disciple. The person who is open and honest will
 be vindicated. Time is his friend. Trust is his reward.
 
 _Last,_ and perhaps the hardest of all, forgive. Paul said, "To whom ye
 forgive any thing, I forgive also." ([2 Cor.
-2:10](https://www.lds.org/scriptures/nt/2-cor/2.10?lang=eng#9).) Certainly
-part of beginning again is to "love your enemies, do good to them which hate
-you, Bless them that curse you, and pray for them which despitefully use you."
-([Luke 6:27-28](https://www.lds.org/scriptures/nt/luke/6.27-28?lang=eng#26).)
-Paul reinforced this admonition when he said, "See that none render evil for
-evil unto any man; but ever follow that which is good, both among yourselves,
-and to all men." ([1 Thes.
-5:15](https://www.lds.org/scriptures/nt/1-thes/5.15?lang=eng#14).) Revenge has
-no place in the life of a person who has found the "Land of Beginning Again."
+2:10](/scriptures/nt/2-cor/2.10?lang=eng#9).) Certainly part of beginning
+again is to "love your enemies, do good to them which hate you, Bless them
+that curse you, and pray for them which despitefully use you." ([Luke
+6:27-28](/scriptures/nt/luke/6.27-28?lang=eng#26).) Paul reinforced this
+admonition when he said, "See that none render evil for evil unto any man; but
+ever follow that which is good, both among yourselves, and to all men." ([1
+Thes. 5:15](/scriptures/nt/1-thes/5.15?lang=eng#14).) Revenge has no place in
+the life of a person who has found the "Land of Beginning Again."
 
 Think how young Joseph had been wronged by jealous brothers anciently. They
 sold him into slavery. He had every reason to seek revenge. But when
 circumstances joined them together again in Egypt, Joseph said, "But as for
 you, ye thought evil against me; but God meant it unto good, ... to save much
-people." ([Gen.
-50:20](https://www.lds.org/scriptures/ot/gen/50.20?lang=eng#19).)
+people." ([Gen. 50:20](/scriptures/ot/gen/50.20?lang=eng#19).)
 
 Yes, so much of heartache and grief eventually become blessings, our earthly
 instructions, and condition us spiritually. Even if we cannot understand the
 "whys" of our tribulations, we can still turn to God and rededicate our lives
 to his safekeeping. Yes, "he who doeth the works of righteousness shall
 receive his reward, even peace in this world, and eternal life in the world to
-come." ([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
-testament/dc/59.23?lang=eng#22).)
+come." ([D&amp;C 59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22).)
 
 May each of us, where necessary, Begin Again. I testify that the gospel of
 Jesus Christ has been restored and that we are to live its principles and
 precepts, and by so doing will be exalted. And this I say humbly in the worthy
 name of Jesus Christ, our Master, amen.
+
+## References
 

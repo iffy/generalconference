@@ -15,8 +15,7 @@ of one heart and one mind, and dwelt in righteousness; and there was no poor
 among them.
 
 "... and lo, Zion, in process of time, was taken up into heaven. ..." ([Moses
-7:17-18,
-21](https://www.lds.org/scriptures/pgp/moses/7.17-18%2C21?lang=eng#16).)
+7:17-18, 21](/scriptures/pgp/moses/7.17-18,21?lang=eng#16).)
 
 Of the Nephites who survived the cataclysm which accompanied the crucifixion
 of Jesus and thereafter lived the program, the record says:
@@ -31,7 +30,7 @@ heavenly gift.
 
 "... and surely there could not be a happier people among all the people who had
 been created by the hand of God." ([4 Ne. 1:2-3,
-16](https://www.lds.org/scriptures/bofm/4-ne/1.2-3%2C16?lang=eng#1).)
+16](/scriptures/bofm/4-ne/1.2-3,16?lang=eng#1).)
 
 The basis of God's perfect economic program is labor. In Eden the Lord said to
 Adam:
@@ -41,8 +40,7 @@ thee, saying--Thou shalt not eat of it, cursed shall be the ground for thy
 sake; in sorrow shalt thou eat of it all the days of thy life.
 
 "By the sweat of thy face shalt thou eat bread, until thou shalt return unto
-the ground. ..." ([Moses 4:23,
-25](https://www.lds.org/scriptures/pgp/moses/4.23%2C25?lang=eng#22).)
+the ground. ..." ([Moses 4:23, 25](/scriptures/pgp/moses/4.23,25?lang=eng#22).)
 
 Now this was not a vindictive decree. The Lord was not retaliating against
 Adam. He was simply placing Adam in a situation where he would have to work to
@@ -89,21 +87,20 @@ contrary course would ruin any community in the world and make them idlers."
 The Lord himself in revealing the gospel in this dispensation, said:
 
 "Thou shalt not be idle; for he that is idle shall not eat the bread nor wear
-the garments of the laborer." ([D&amp;C 42:42](https://www.lds.org/scriptures
-/dc-testament/dc/42.42?lang=eng#41).)
+the garments of the laborer." ([D&amp;C 42:42](/scriptures/dc-
+testament/dc/42.42?lang=eng#41).)
 
 And to the missionaries, he said, "Thou shalt not idle away thy time. ..."
-([D&amp;C 60:13](https://www.lds.org/scriptures/dc-
-testament/dc/60.13?lang=eng#12).)
+([D&amp;C 60:13](/scriptures/dc-testament/dc/60.13?lang=eng#12).)
 
 "... the inhabitants of Zion," he added, "... shall remember their labors ... in all
 faithfulness; for the idler shall be had in remembrance before the Lord."
-([D&amp;C 68:30](https://www.lds.org/scriptures/dc-
-testament/dc/68.30?lang=eng#29).) And finally he decreed:
+([D&amp;C 68:30](/scriptures/dc-testament/dc/68.30?lang=eng#29).) And finally
+he decreed:
 
 "Let every man be diligent in all things. And the idler shall not have place
 in the church, except he repent and mend his ways." ([D&amp;C
-75:29](https://www.lds.org/scriptures/dc-testament/dc/75.29?lang=eng#28).)
+75:29](/scriptures/dc-testament/dc/75.29?lang=eng#28).)
 
 Perhaps we can appropriately say concerning the implementation of this edict
 what President Brigham Young said about the payment of tithing:
@@ -138,8 +135,7 @@ ago. We must not forget or neglect our family obligations in this respect.
 
 Paul writing to Timothy declared that "... if any provide not for his own, and
 specially for those of his own house, he hath denied the faith, and is worse
-than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).)
+than an infidel." ([1 Tim. 5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).)
 
 To the Church in this dispensation, the Lord gave this law:
 
@@ -147,8 +143,8 @@ To the Church in this dispensation, the Lord gave this law:
 husbands are taken; ...
 
 "All children have claim upon their parents for their maintenance until they
-are of age." ([D&amp;C 83:2, 4](https://www.lds.org/scriptures/dc-
-testament/dc/83.2%2C4?lang=eng#1).)
+are of age." ([D&amp;C 83:2, 4](/scriptures/dc-
+testament/dc/83.2,4?lang=eng#1).)
 
 Although each of us is under divine command to work and sustain ourselves and
 our families, the varied circumstances under which we live make it impossible
@@ -172,8 +168,7 @@ continued:
 "And now, I give unto the church in these parts a commandment, that certain
 men among them shall be appointed, and they shall look to the poor and the
 needy, and administer to their relief that they shall not suffer. ..." ([D&amp;C
-38:16, 27, 34-35](https://www.lds.org/scriptures/dc-
-testament/dc/38.16%2C27%2C34-35?lang=eng#15).)
+38:16, 27, 34-35](/scriptures/dc-testament/dc/38.16,27,34-35?lang=eng#15).)
 
 "... repeatedly [thereafter, He emphasized] the duty of the Saints to look after
 the poor. ..."
@@ -182,30 +177,30 @@ In the revelation referred to by the Lord as "the law of my church," he said:
 
 "'... behold, thou wilt remember the poor, and consecrate of thy properties for
 their support. ... And inasmuch as ye impart of your substance unto the poor, ye
-will do it unto me.' ([D&amp;C 42:30, 31](https://www.lds.org/scriptures/dc-
-testament/dc/42.30%2C31?lang=eng#29).)
+will do it unto me.' ([D&amp;C 42:30, 31](/scriptures/dc-
+testament/dc/42.30,31?lang=eng#29).)
 
 "... later the Lord said:
 
 "'Behold, I say unto you, that ye must visit the poor and the needy and
-administer to their relief. ..." ([D&amp;C 44:6](https://www.lds.org/scriptures
-/dc-testament/dc/44.6?lang=eng#5).)
+administer to their relief. ..." ([D&amp;C 44:6](/scriptures/dc-
+testament/dc/44.6?lang=eng#5).)
 
 "Still later:
 
 "'Wo unto you rich men, that will not give your substance to the poor, for
 your riches will canker your souls; and this shall be your lamentation in the
 day of visitation, and of judgment, and of indignation: The harvest is past,
-the summer is ended, and my soul is not saved!' ([D&amp;C
-56:16](https://www.lds.org/scriptures/dc-testament/dc/56.16?lang=eng#15).)
+the summer is ended, and my soul is not saved!' ([D&amp;C 56:16](/scriptures
+/dc-testament/dc/56.16?lang=eng#15).)
 
 "And when giving instructions regarding the united order, the Lord said:
 
 "'Therefore, if any man shall take of the abundance which I have made, and
 impart not his portion, according to the law of my gospel, unto the poor and
 the needy, he shall, with the wicked, lift up his eyes in hell, being in
-torment.' ([D&amp;C 104:18](https://www.lds.org/scriptures/dc-
-testament/dc/104.18?lang=eng#17).) (_Church Relief Activities, _1933, p. 4.)
+torment.' ([D&amp;C 104:18](/scriptures/dc-testament/dc/104.18?lang=eng#17).)
+(_Church Relief Activities, _1933, p. 4.)
 
 In light of these teachings it seems to me that every Church member, and
 particularly every priesthood bearer who wishes peace and joy here and eternal
@@ -243,10 +238,9 @@ necessary therefor.
 "In the next place, the standard of care has been indicated. The bishop has
 been directed [by the Lord] 'To keep the Lord's storehouse; to receive the
 funds of the church ... and to administer to their wants . ...' ([D&amp;C
-72:10-11](https://www.lds.org/scriptures/dc-
-testament/dc/72.10-11?lang=eng#9).)" (Unpublished article by President J.
-Reuben Clark, Jr., on the role of bishops and the Relief Society, July 9,
-1941.)
+72:10-11](/scriptures/dc-testament/dc/72.10-11?lang=eng#9).)" (Unpublished
+article by President J. Reuben Clark, Jr., on the role of bishops and the
+Relief Society, July 9, 1941.)
 
 In his administering aid to the needy the bishop must ever keep in mind that
 in doing so he is the Lord's agent and that the Lord said:
@@ -255,8 +249,7 @@ in doing so he is the Lord's agent and that the Lord said:
 
 "But it must needs be done in mine own way; and behold this is the way that I,
 the Lord, have decreed to provide for my saints, that the poor shall be
-exalted, in that the rich are made low." ([D&amp;C
-104:15-16](https://www.lds.org/scriptures/dc-
+exalted, in that the rich are made low." ([D&amp;C 104:15-16](/scriptures/dc-
 testament/dc/104.15-16?lang=eng#14).)
 
 And the bishops must never forget that the only way the poor can be exalted in
@@ -283,10 +276,11 @@ priesthood, only by persuasion, by long-suffering, by gentleness and meekness,
 and by love unfeigned;
 
 "By kindness, and pure knowledge, which shall greatly enlarge the soul without
-hypocrisy, and without guile." ([D&amp;C
-121:41-42](https://www.lds.org/scriptures/dc-
+hypocrisy, and without guile." ([D&amp;C 121:41-42](/scriptures/dc-
 testament/dc/121.41-42?lang=eng#40).)
 
 God bless us in performing this great service, I pray, in the name of Jesus
 Christ. Amen.
+
+## References
 

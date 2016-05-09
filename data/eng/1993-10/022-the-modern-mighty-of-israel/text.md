@@ -5,17 +5,16 @@ have a leader introduce me to the Old Testament story "David's" mighty men.
 This is a detailed account of the actions of the finest soldiers under David's
 command. At one time, only thirty-seven men of the huge armies of Israel were
 considered good enough to receive the coveted title of "mighty man" (see [2
-Sam. 23:39](https://www.lds.org/scriptures/ot/2-sam/23.39?lang=eng#38)).
+Sam. 23:39](/scriptures/ot/2-sam/23.39?lang=eng#38)).
 
 Let us learn more about the qualities of this outstanding group of soldiers.
 In Chronicles we read, "They were armed with bows, and could use both the
 right hand and the left in hurling stones and shooting arrows out of a bow"
-([1 Chr. 12:2](https://www.lds.org/scriptures/ot/1-chr/12.2?lang=eng#1)).
+([1 Chr. 12:2](/scriptures/ot/1-chr/12.2?lang=eng#1)).
 
 They were men "fit for the battle, that could handle shield and buckler, whose
 faces were like the faces of lions, and were as swift as the roes upon the
-mountains" ([1 Chr.
-12:8](https://www.lds.org/scriptures/ot/1-chr/12.8?lang=eng#7)).
+mountains" ([1 Chr. 12:8](/scriptures/ot/1-chr/12.8?lang=eng#7)).
 
 These mighty men had developed the skills of a warrior to a very high degree.
 They were determined and, as with the faces of lions, completely without fear.
@@ -46,9 +45,8 @@ was so overcome by this demonstrated act of personal, unsolicited service that
 he refused to drink the water. He considered the act so brave and wonderful
 that he poured the water upon the ground. The scripture says, "He ... poured it
 out unto the Lord" ([2 Sam.
-23:14-17](https://www.lds.org/scriptures/ot/2-sam/23.14-17?lang=eng#13); see
-also [1 Chr.
-11:17-19](https://www.lds.org/scriptures/ot/1-chr/11.17-19?lang=eng#16)).
+23:14-17](/scriptures/ot/2-sam/23.14-17?lang=eng#13); see also [1 Chr.
+11:17-19](/scriptures/ot/1-chr/11.17-19?lang=eng#16)).
 
 Isn't that an inspiring story of dedication and volunteer service? Such an act
 of loyalty and initiative without command was common among these men. Is it
@@ -56,8 +54,7 @@ any wonder that these mighty men would become heroes to a young boy? Let us
 examine other qualities and contributions of these mighty men.
 
 They were "men that had understanding of the times, to know what Israel ought
-to do" ([1 Chr.
-12:32](https://www.lds.org/scriptures/ot/1-chr/12.32?lang=eng#31)).
+to do" ([1 Chr. 12:32](/scriptures/ot/1-chr/12.32?lang=eng#31)).
 
 This special understanding of the times and the resultant ability to know what
 Israel ought to do are most significant. In other words, these mighty were
@@ -72,7 +69,7 @@ challenges of the times. So with this understanding, they came to know what
 Israel ought to do.
 
 They were men "which could keep rank: they were not of double heart" ([1 Chr.
-12:33](https://www.lds.org/scriptures/ot/1-chr/12.33?lang=eng#32)).
+12:33](/scriptures/ot/1-chr/12.33?lang=eng#32)).
 
 These mighty men understood the need for an organization which would stay in
 place during difficult and challenging times. These men did not have a "double
@@ -89,7 +86,7 @@ most important quality of these mighty men. Again we read:
 "All these men of war, that could keep rank, came with a perfect heart to
 Hebron, to make David king over all Israel: and all the rest also of Israel
 were of one heart to make David king" ([1 Chr.
-12:38](https://www.lds.org/scriptures/ot/1-chr/12.38?lang=eng#37)).
+12:38](/scriptures/ot/1-chr/12.38?lang=eng#37)).
 
 This quality was the condition of their "perfect heart," which was
 demonstrated by complete devotion to building the ancient kingdom of Israel.
@@ -106,7 +103,7 @@ is made manifest by his response to the third question:
 
 "Lovest thou me? And he said unto him, Lord, thou knowest all things; thou
 knowest that I love thee" ([John
-21:17](https://www.lds.org/scriptures/nt/john/21.17?lang=eng#16)).
+21:17](/scriptures/nt/john/21.17?lang=eng#16)).
 
 And there is mighty Apostle Paul, whose courage and initiative are summarized
 in these words of more sure prophecy:
@@ -114,8 +111,7 @@ in these words of more sure prophecy:
 "For I am now ready to be offered, and the time of my departure is at hand.
 
 "I have fought a good fight, I have finished my course, I have kept the faith"
-([2 Tim. 4:6-7](https://www.lds.org/scriptures/nt/2-tim/4.6-7?lang=eng#5)).
-What mighty men!
+([2 Tim. 4:6-7](/scriptures/nt/2-tim/4.6-7?lang=eng#5)). What mighty men!
 
 Lest anyone misunderstand, let us also include one of the most beautiful
 examples of the qualities of the mighty men. This statement was offered by a
@@ -126,16 +122,14 @@ whither thou goest, I will go; and where thou lodgest, I will lodge: thy
 people shall be my people, and thy God my God:
 
 "Where thou diest, will I die, and there will I be buried" ([Ruth
-1:16-17](https://www.lds.org/scriptures/ot/ruth/1.16-17?lang=eng#15)). What a
-mighty woman!
+1:16-17](/scriptures/ot/ruth/1.16-17?lang=eng#15)). What a mighty woman!
 
 David himself, as a youth, provided an example of the qualities of the mighty
 men he would later lead. As he faced the giant warrior, he affirmed:
 
 "Thou comest to me with a sword, and with a spear, and with a shield: but I
 come to thee in the name of the Lord of hosts, the God of the armies of
-Israel" ([1 Sam.
-17:45](https://www.lds.org/scriptures/ot/1-sam/17.45?lang=eng#44)). What a
+Israel" ([1 Sam. 17:45](/scriptures/ot/1-sam/17.45?lang=eng#44)). What a
 mighty youth!
 
 Of mortal men, Joseph Smith may best exemplify the qualities of the mighty
@@ -144,8 +138,8 @@ his final statements:
 
 "I am going like a lamb to the slaughter; but I am calm as a summer's morning;
 I have a conscience void of offense towards God, and towards all men"
-([D&amp;C 135:4](https://www.lds.org/scriptures/dc-
-testament/dc/135.4?lang=eng#3)). What a mighty, mighty man!
+([D&amp;C 135:4](/scriptures/dc-testament/dc/135.4?lang=eng#3)). What a
+mighty, mighty man!
 
 Even now I am searching for additional examples of mighty men and mighty
 women. Let me tell you what I know about the General Authorities and general
@@ -194,8 +188,7 @@ declaration of devotion and obedience to His Father:
 "I am Jesus Christ. ... I have drunk out of that bitter cup which the Father
 hath given me, and have glorified the Father in taking upon me the sins of the
 world, in the which I have suffered the will of the Father in all things from
-the beginning" ([3 Ne.
-11:10-11](https://www.lds.org/scriptures/bofm/3-ne/11.10-11?lang=eng#9)).
+the beginning" ([3 Ne. 11:10-11](/scriptures/bofm/3-ne/11.10-11?lang=eng#9)).
 
 Brothers and sisters, during this conference please listen to the voices of
 the modern mighty. They speak with a single, perfect heart which, I promise
@@ -203,4 +196,6 @@ you, gives them an understanding of our times and of what the Church ought to
 do.
 
 In the name of Jesus Christ, amen.
+
+## References
 

@@ -18,20 +18,20 @@ The early Israelites practiced fasting, although there are very few references
 to it. Usually such references as are made are associated with some particular
 occasion or in connection with attempts to receive communications from God, as
 was the case of the fasting of Moses and Elijah. (See [Ex.
-34:28](https://www.lds.org/scriptures/ot/ex/34.28?lang=eng#27); [1 Kgs.
-19:8](https://www.lds.org/scriptures/ot/1-kgs/19.8?lang=eng#7).)
+34:28](/scriptures/ot/ex/34.28?lang=eng#27); [1 Kgs.
+19:8](/scriptures/ot/1-kgs/19.8?lang=eng#7).)
 
 Prior to the period of the exile, there are few records of fasting by the
 people of Israel as a whole, except those fasts held for the needs of special
 occasions such as the deaths of Saul and Jonathan. (See [1 Sam.
-31:13](https://www.lds.org/scriptures/ot/1-sam/31.13?lang=eng#12); [2 Sam.
-1:12](https://www.lds.org/scriptures/ot/2-sam/1.12?lang=eng#11).) There were
-other public fasts to seek divine assistance before wars or battles. (See
-[Judg. 20:26](https://www.lds.org/scriptures/ot/judg/20.26?lang=eng#25); [2
-Sam. 14:24](https://www.lds.org/scriptures/ot/2-sam/14.24?lang=eng#23); [2
-Chr. 20:3](https://www.lds.org/scriptures/ot/2-chr/20.3?lang=eng#2).) It can
-be presumed that Moses fasted because he mentioned fasting, without advocating
-any particular fast in his writings.
+31:13](/scriptures/ot/1-sam/31.13?lang=eng#12); [2 Sam.
+1:12](/scriptures/ot/2-sam/1.12?lang=eng#11).) There were other public fasts
+to seek divine assistance before wars or battles. (See [Judg.
+20:26](/scriptures/ot/judg/20.26?lang=eng#25); [2 Sam.
+14:24](/scriptures/ot/2-sam/14.24?lang=eng#23); [2 Chr.
+20:3](/scriptures/ot/2-chr/20.3?lang=eng#2).) It can be presumed that Moses
+fasted because he mentioned fasting, without advocating any particular fast in
+his writings.
 
 After the period of the exile, however, both public and private fasts began to
 be observed, sometimes accompanied by weeping and wearing sackcloth and ashes.
@@ -44,10 +44,9 @@ extreme groups of the Jews, particularly the Pharisees; but Jesus did not
 instruct his disciples by setting down any specific requirements regarding the
 nature or frequency of fasting. In his Sermon on the Mount, however, he said:
 "When ye fast, be not, as the hypocrites, of a sad countenance." ([Matt.
-6:16](https://www.lds.org/scriptures/nt/matt/6.16?lang=eng#15).) This would
-indicate that there should be sincerity when fasting was observed. He himself
-had fasted forty days and forty nights. (See [Matt.
-4:2](https://www.lds.org/scriptures/nt/matt/4.2?lang=eng#1).)
+6:16](/scriptures/nt/matt/6.16?lang=eng#15).) This would indicate that there
+should be sincerity when fasting was observed. He himself had fasted forty
+days and forty nights. (See [Matt. 4:2](/scriptures/nt/matt/4.2?lang=eng#1).)
 
 Many of the things established by the early Church during the time of Christ
 were changed and corrupted after the death of the last of the Apostles.
@@ -67,8 +66,8 @@ background of the religious culture of the colonists, and fasting was part of
 their religious beliefs. Because of this background, it may be that many of
 them felt the need of close communion with their Heavenly Father. They
 followed the teaching of the Lord by fasting in secret (see [Matt.
-6:17-18](https://www.lds.org/scriptures/nt/matt/6.17-18?lang=eng#16)), but no
-mention is made of this principle in the early history of the Church.
+6:17-18](/scriptures/nt/matt/6.17-18?lang=eng#16)), but no mention is made of
+this principle in the early history of the Church.
 
 Modern revelation as contained in the Doctrine and Covenants makes little
 mention of fasting and gives no specific instructions regarding it. A year and
@@ -82,8 +81,7 @@ with singleness of heart that thy fasting may be perfect, or, in other words,
 that thy joy may be full.
 
 "Verily, this is fasting and prayer, or in other words, rejoicing and prayer."
-([D&amp;C 59:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/59.13-14?lang=eng#12).)
+([D&amp;C 59:13-14](/scriptures/dc-testament/dc/59.13-14?lang=eng#12).)
 
 This is an echo from Old Testament times, and the principle of fasting in the
 spirit of prayer is confirmed in this dispensation.
@@ -91,7 +89,7 @@ spirit of prayer is confirmed in this dispensation.
 The following year came a more explicit revelation on the subject from the
 Lord in which he said, "Also, I give unto you a commandment that ye shall
 continue in prayer and fasting from this time forth." ([D&amp;C
-88:76](https://www.lds.org/scriptures/dc-testament/dc/88.76?lang=eng#75).)
+88:76](/scriptures/dc-testament/dc/88.76?lang=eng#75).)
 
 Prior to this time there had been no observance of a fast in the Church on any
 regular basis. The wording of this revelation that "ye shall continue in
@@ -102,13 +100,12 @@ Kirtland Temple in 1836.
 The only other mention of fasting in modern revelation is in reference to the
 building of the Kirtland Temple and in the prayer of dedication, in which the
 temple is referred to as "a house of prayer, a house of fasting." (See
-[D&amp;C 88:119](https://www.lds.org/scriptures/dc-
-testament/dc/88.119?lang=eng#118); [D&amp;C
-95:7](https://www.lds.org/scriptures/dc-testament/dc/95.7?lang=eng#6), 16; and
-[D&amp;C 109:8, 16](https://www.lds.org/scriptures/dc-
-testament/dc/109.8%2C16?lang=eng#7).) There is frequent mention in the Book of
-Mormon of fasting, but these are ancient writings, as are those in the Bible.
-The scriptures of this dispensation give us little information.
+[D&amp;C 88:119](/scriptures/dc-testament/dc/88.119?lang=eng#118); [D&amp;C
+95:7](/scriptures/dc-testament/dc/95.7?lang=eng#6), 16; and [D&amp;C 109:8,
+16](/scriptures/dc-testament/dc/109.8,16?lang=eng#7).) There is frequent
+mention in the Book of Mormon of fasting, but these are ancient writings, as
+are those in the Bible. The scriptures of this dispensation give us little
+information.
 
 We do not know when fasting was adopted in the Church as a regular observance,
 but there are records that indicate that some fast meetings were held in the
@@ -198,4 +195,6 @@ understand the needs of those who are less fortunate.
 
 May the Lord bless us as we live his commandments and share with our brothers
 and sisters, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

@@ -31,11 +31,11 @@ Despite feelings of personal inadequacy, I am at peace. For the Lord has said,
 weakness that they may be humble; and my grace is sufficient for all men that
 humble themselves before me; for if they humble themselves before me, and have
 faith in me, then will I make weak things become strong unto them." ([Ether
-12:27](https://www.lds.org/scriptures/bofm/ether/12.27?lang=eng#26).)
+12:27](/scriptures/bofm/ether/12.27?lang=eng#26).)
 
 And again, "I will tell you in your mind and in your heart, by the Holy Ghost,
 which shall come upon you and shall dwell in your heart." ([D&amp;C
-8:2](https://www.lds.org/scriptures/dc-testament/dc/8.2?lang=eng#1).)
+8:2](/scriptures/dc-testament/dc/8.2?lang=eng#1).)
 
 I know the reality of the promptings of the Holy Ghost. In times of urgent
 need, after meditation and prayer to receive confirmation of a selected course
@@ -50,4 +50,6 @@ Christ lives and loves each one of us. I know that God our Eternal Father
 answers prayer, unmistakably, when we live worthy of such answers. I publicly
 commit my life, my energy, all that I am to the service of the Master and to
 the building of His kingdom, in Jesus' name. Amen.
+
+## References
 

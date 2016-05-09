@@ -26,53 +26,50 @@ way along the narrow streets of Jerusalem, through the massive wall at the
 city gate, to a place called Golgotha. I can hear women weeping and Jesus
 offering words of warning: "Daughters of Jerusalem, weep not for me, but weep
 for yourselves, and for your children" ([Luke
-23:28](https://www.lds.org/scriptures/nt/luke/23.28?lang=eng#27)). The Savior
-knew destructive events would shortly come.
+23:28](/scriptures/nt/luke/23.28?lang=eng#27)). The Savior knew destructive
+events would shortly come.
 
 In my mind's eye I can see the executioners going about their abhorrent,
 heartless tasks. I can hear the Savior, in the spirit of compassion, appealing
 for his crucifiers as he uttered, "Father, forgive them; for they know not
-what they do" ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33)).
+what they do" ([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33)).
 
 As this brutal incident proceeded, one of the thieves also suffering
 crucifixion discerned something divine in the Savior's demeanor and said to
 Jesus, "Lord, remember me when thou comest into thy kingdom." Jesus responded
 with a promise only he could make: "Verily I say unto thee, To day shalt thou
 be with me in paradise" ([Luke
-23:42-43](https://www.lds.org/scriptures/nt/luke/23.42-43?lang=eng#41)).
+23:42-43](/scriptures/nt/luke/23.42-43?lang=eng#41)).
 
 Picture in your minds a weeping mother and a devoted disciple invited past the
 centurion to the foot of the cross. Jesus, in his agony, looked down upon them
 and said to Mary, with an economy of words, "Woman, behold thy son!" and,
 looking steadily at John, said, "Behold thy mother!" ([John
-19:26-27](https://www.lds.org/scriptures/nt/john/19.26-27?lang=eng#25).)
+19:26-27](/scriptures/nt/john/19.26-27?lang=eng#25).)
 
 Who can forget the pleading voice calling out at about the ninth hour through
 the oppressive darkness that gripped the land, "My God, my God, why hast thou
-forsaken me?" ([Mark
-15:34](https://www.lds.org/scriptures/nt/mark/15.34?lang=eng#33).) The Father
-seemingly withdrew, allowing the Savior of mankind to complete his victory
-over death and sin.
+forsaken me?" ([Mark 15:34](/scriptures/nt/mark/15.34?lang=eng#33).) The
+Father seemingly withdrew, allowing the Savior of mankind to complete his
+victory over death and sin.
 
 I can imagine the bitter taste of the vinegar that was pressed to his lips
 when he said, "I thirst" ([John
-19:28](https://www.lds.org/scriptures/nt/john/19.28?lang=eng#27)), his one
-recorded response to physical suffering.
+19:28](/scriptures/nt/john/19.28?lang=eng#27)), his one recorded response to
+physical suffering.
 
 When the atoning sacrifice had been accepted, Jesus declared in a loud voice,
-"It is finished" ([John
-19:30](https://www.lds.org/scriptures/nt/john/19.30?lang=eng#29)). And then in
-final petition he said, "Father, into thy hands I commend my spirit" ([Luke
-23:46](https://www.lds.org/scriptures/nt/luke/23.46?lang=eng#45)). His body
-sagged on the cross; Jesus gave up his life.
+"It is finished" ([John 19:30](/scriptures/nt/john/19.30?lang=eng#29)). And
+then in final petition he said, "Father, into thy hands I commend my spirit"
+([Luke 23:46](/scriptures/nt/luke/23.46?lang=eng#45)). His body sagged on the
+cross; Jesus gave up his life.
 
 In the early morning darkness of the third day, Sunday, the first Easter, the
 earth began to quake. An angel rolled away the stone blocking the tomb and
 announced: "Fear not ye: for I know that ye seek Jesus, which was crucified.
 
 "He is not here: for he is risen, as he said" ([Matt. 28:2,
-5-6](https://www.lds.org/scriptures/nt/matt/28.2%2C5-6?lang=eng#1)).
+5-6](/scriptures/nt/matt/28.2,5-6?lang=eng#1)).
 
 Later in the morning, the grieving Mary Magdalene returned to the cold,
 dreary, empty tomb. She heard a familiar voice call, "Mary." Turning, she saw
@@ -80,22 +77,20 @@ the Lord and reached out to him. In a worshipful greeting, she lovingly
 declared, "Rabboni." Jesus responded, "Touch me not; for I am not yet ascended
 to my Father: but go to my brethren, and say unto them, I ascend unto my
 Father, and your Father; and to my God, and your God" ([John
-20:16-17](https://www.lds.org/scriptures/nt/john/20.16-17?lang=eng#15)).
+20:16-17](/scriptures/nt/john/20.16-17?lang=eng#15)).
 
 During the following forty days, the Savior frequently taught and ate with his
 Apostles. He concluded with the glorious charge: "Go ye therefore, and teach
 all nations, ... teaching them to observe all things whatsoever I have commanded
 you: and, lo, I am with you alway, even unto the end of the world. Amen"
-([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18)).
+([Matt. 28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18)).
 
 Jesus Christ is _the_ magnificent example of courage in hearkening to the will
 of the Father.
 
 The wise Psalmist said, "Be of good _courage,_ and he shall strengthen your
 heart, all ye that hope in the Lord" ([Ps.
-31:24](https://www.lds.org/scriptures/ot/ps/31.24?lang=eng#23); emphasis
-added).
+31:24](/scriptures/ot/ps/31.24?lang=eng#23); emphasis added).
 
 President Thomas S. Monson explained _courage_ by saying, "Courage becomes a
 living and attractive virtue when it is regarded not as a willingness to die
@@ -157,7 +152,7 @@ exciting, and acceptable.
 Many of the young people hearkened to their stake presidency and courageously
 destroyed their tapes, discs, and videos which were not "virtuous, lovely, or
 of good report or praiseworthy" ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)).
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)).
 
 Young people, please don't listen to music that contains ideas that contradict
 principles of the gospel. "Don't listen to music that promotes Satanism or
@@ -173,8 +168,7 @@ learned they think they are wise, and they _hearken_ not unto the counsel of
 God. ...
 
 "But to be learned is good if they _hearken_ unto the counsels of God" ([2 Ne.
-9:28-29](https://www.lds.org/scriptures/bofm/2-ne/9.28-29?lang=eng#27);
-emphasis added).
+9:28-29](/scriptures/bofm/2-ne/9.28-29?lang=eng#27); emphasis added).
 
 President Hinckley said: "One of the great tragedies we witness almost daily
 is the tragedy of men of high aim and low achievement. Their motives are
@@ -186,8 +180,8 @@ Perhaps the greatest obstacle to our ability to _hearken courageously_ to the
 word of the Lord involves our egos, vain ambitions, and pride. It seems that
 the proud find it burdensome to hear and accept the instruction of God. We are
 told in Proverbs that "pride goeth before destruction" ([Prov.
-16:18](https://www.lds.org/scriptures/ot/prov/16.18?lang=eng#17)). The proud
-are more anxious about man's judgment than they are of God's judgment.
+16:18](/scriptures/ot/prov/16.18?lang=eng#17)). The proud are more anxious
+about man's judgment than they are of God's judgment.
 
 You may remember a story about a ship's captain who had a problem with his
 pride. One night at sea, this captain saw what looked like the light of
@@ -204,8 +198,8 @@ Michigan).
 Like the captain, if we fail to modify our course and purge ourselves of
 pride, we may find ourselves shipwrecked upon the shoals of life, unable to
 _courageously hearken_ to the beckonings of the Savior to "come unto me"
-([Matt. 11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27)). I
-like what Edgar A. Guest said in a few lines of his poem entitled "Equipment":
+([Matt. 11:28](/scriptures/nt/matt/11.28?lang=eng#27)). I like what Edgar A.
+Guest said in a few lines of his poem entitled "Equipment":
 
 _Two arms, two hands, two legs, two eyes,_
 
@@ -245,4 +239,6 @@ and say, "I can be courageous in hearkening to the invitation of the Lord."
 to know Christ because they know you" (author unknown). In the holy name of
 him for whose glorious resurrection and atoning sacrifice I express my deepest
 appreciation this Easter Sunday--even Jesus Christ--amen.
+
+## References
 

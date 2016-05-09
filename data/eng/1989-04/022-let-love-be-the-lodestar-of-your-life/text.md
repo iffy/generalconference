@@ -88,7 +88,7 @@ of our work. It stems from that love which is divine:
 
 "For God so loved the world, that he gave his only begotten Son, that
 whosoever believeth in him should not perish, but have everlasting life."
-([John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 I wish to say a few words about that love, that constant, never-failing
 quality that has the power to lift us above the evil, the conflict, and the
@@ -173,25 +173,22 @@ kind words can bring to pass miracles. Many there are who walk in frightening
 circumstances, fearful and unable to cope. There are good bishops and Relief
 Society officers who are available to help, but these cannot do it all. Each
 of us can and must be anxiously engaged. It was said of the Savior, "He went
-about doing good." ([Acts
-10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).)
+about doing good." ([Acts 10:38](/scriptures/nt/acts/10.38?lang=eng#37).)
 
 Said Isaiah: "Strengthen ye the weak hands, and confirm the feeble knees.
 
 "Say to them that are of a fearful heart, Be strong, fear not: behold, your
 God will come with vengeance, even God with a recompence; he will come and
-save you." ([Isa.
-35:3-4](https://www.lds.org/scriptures/ot/isa/35.3-4?lang=eng#2).)
+save you." ([Isa. 35:3-4](/scriptures/ot/isa/35.3-4?lang=eng#2).)
 
 Declared Micah: "He hath shewed thee, O man, what is good; and what doth the
 Lord require of thee, but to do justly, and to love mercy, and to walk humbly
-with thy God?" ([Micah
-6:8](https://www.lds.org/scriptures/ot/micah/6.8?lang=eng#7).)
+with thy God?" ([Micah 6:8](/scriptures/ot/micah/6.8?lang=eng#7).)
 
 And the divine voice of revelation speaks: "Therefore, strengthen your
 brethren in all your conversation, in all your prayers, in all your
-exhortations, and in all your doings." ([D&amp;C
-108:7](https://www.lds.org/scriptures/dc-testament/dc/108.7?lang=eng#6).)
+exhortations, and in all your doings." ([D&amp;C 108:7](/scriptures/dc-
+testament/dc/108.7?lang=eng#6).)
 
 Such are the injunctions--these and many more--to reach out to those in
 distress with a measure of that love which was epitomized in the life and
@@ -205,11 +202,11 @@ this generation, who appear to be possessed of a sickness that so manifests
 itself. In such circumstances, we draw comfort from the words of the Master:
 "Blessed are ye, when men shall revile you, and persecute you, and shall say
 all manner of evil against you falsely, for my sake." ([Matt.
-5:11](https://www.lds.org/scriptures/nt/matt/5.11?lang=eng#10).)
+5:11](/scriptures/nt/matt/5.11?lang=eng#10).)
 
 We think also of the mandate of modern revelation: "I, the Lord, will forgive
 whom I will forgive, but of you it is required to forgive all men." ([D&amp;C
-64:10](https://www.lds.org/scriptures/dc-testament/dc/64.10?lang=eng#9).)
+64:10](/scriptures/dc-testament/dc/64.10?lang=eng#9).)
 
 We think of a public figure who, when driven from office, said: "Those who
 hate you don't win unless you hate them--and then you destroy yourself."
@@ -243,13 +240,11 @@ whether there be tongues, they shall cease; whether there be knowledge, it
 shall vanish away. ...
 
 "And now abideth, faith, hope, [love], these three; but the greatest of these
-is [love]." ([1 Cor. 13:8,
-13](https://www.lds.org/scriptures/nt/1-cor/13.8%2C13?lang=eng#7).)
+is [love]." ([1 Cor. 13:8, 13](/scriptures/nt/1-cor/13.8,13?lang=eng#7).)
 
 Speaking to us in this dispensation, the Lord has said: "And faith, hope,
 charity and love, with an eye single to the glory of God, qualify [us] for the
-work." ([D&amp;C 4:5](https://www.lds.org/scriptures/dc-
-testament/dc/4.5?lang=eng#4).)
+work." ([D&amp;C 4:5](/scriptures/dc-testament/dc/4.5?lang=eng#4).)
 
 Few of us see the Polar Star anymore. We live in urban centers, and the city
 lights affect our vision of the wondrous firmament above us. But, as it has
@@ -257,9 +252,11 @@ been for centuries, the star is there, in its place, its constancy a guide and
 an anchor. So likewise is love--unyielding, unchanging, "the pure love of
 Christ," as Moroni declared, "and it endureth forever; and whoso is found
 possessed of it at the last day, it shall be well with him." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).)
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46).)
 
 I leave with you my love and extend my blessing and pray that there may be
 peace in your hearts and in your homes, in the name of Him whose life was the
 supreme offering of love, even the Lord Jesus Christ, amen.
+
+## References
 

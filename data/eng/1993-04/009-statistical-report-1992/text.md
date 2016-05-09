@@ -77,3 +77,5 @@ and Ruth Pingree Smith, widow of Elder Joseph F. Smith, Patriarch to the
 Church. We also announce the passing in December 1991 of Sister Velma N.
 Simonsen, former counselor in the Relief Society General Presidency.
 
+## References
+

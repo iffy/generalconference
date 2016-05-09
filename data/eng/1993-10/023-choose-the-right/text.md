@@ -83,7 +83,7 @@ the people.
 last day, and that they need not fear nor tremble, but that they might lift up
 their heads and rejoice; for the Lord had created all men, and had also
 redeemed all men; and, in the end, all men should have eternal life" ([Alma
-1:3-4](https://www.lds.org/scriptures/bofm/alma/1.3-4?lang=eng#2)).
+1:3-4](/scriptures/bofm/alma/1.3-4?lang=eng#2)).
 
 Nehor's words appealed to the people, but his doctrine, while popular to many,
 was incorrect. As we face the many decisions in life, the easy and popular
@@ -96,7 +96,7 @@ the true and living gospel. Zeezrom, a man who was expert in the devices of
 the devil, challenged the teachings of Amulek. Zeezrom asked Amulek, "Shall he
 [Christ] save his people in their sins?" Amulek answered and said, "I say unto
 you he shall not, for it is impossible for him to deny his word" ([Alma
-11:34](https://www.lds.org/scriptures/bofm/alma/11.34?lang=eng#33)).
+11:34](/scriptures/bofm/alma/11.34?lang=eng#33)).
 
 Then Zeezrom taunted Amulek, but Amulek's response was marvelous as he
 explained the plan of redemption:
@@ -114,7 +114,7 @@ that shall have eternal life, and salvation cometh to none else.
 except it be the loosing of the bands of death; for behold, the day cometh
 that all shall rise from the dead and stand before God, and be judged
 according to their works" ([Alma 11:37,
-40-41](https://www.lds.org/scriptures/bofm/alma/11.37%2C40-41?lang=eng#36)).
+40-41](/scriptures/bofm/alma/11.37,40-41?lang=eng#36)).
 
 Later, after considerable tribulation and a blessing of healing, Zeezrom
 joined the Church.
@@ -232,7 +232,7 @@ We are at a time in the world's history when Satan is marshalling all his
 forces to lead the people off the strait and narrow path. Fortunately, most
 members of the Church are clear about who it is that they will serve. Like
 Joshua of old, they proclaim, "As for me and my house, we will serve the Lord"
-([Josh. 24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14)).
+([Josh. 24:15](/scriptures/ot/josh/24.15?lang=eng#14)).
 
 I hope and pray that you great young people of the Church will have the
 courage to consistently choose the right! Moreover, I suggest that each of you
@@ -250,4 +250,6 @@ choose to do what is right.
 God lives! Jesus is the Christ! Obedience to His laws will lead us to life
 eternal is my solemn witness to you in the name of our Lord and Savior Jesus
 Christ, amen.
+
+## References
 

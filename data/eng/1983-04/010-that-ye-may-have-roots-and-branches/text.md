@@ -1,31 +1,28 @@
 # That Ye May Have Roots and Branches
 
-"Will a man rob God?" ([Mal.
-3:8](https://www.lds.org/scriptures/ot/mal/3.8?lang=eng#7).) This must be one
-of the most pointed questions ever asked in the holy scriptures. The
-implications are that an affirmative answer would mean that those who rob God
-will be cursed by God and burned as stubble at the Lord's second coming. (See
-[Mal. 3:9](https://www.lds.org/scriptures/ot/mal/3.9?lang=eng#8); [Mal.
-4:1](https://www.lds.org/scriptures/ot/mal/4.1?lang=eng#0).)
+"Will a man rob God?" ([Mal. 3:8](/scriptures/ot/mal/3.8?lang=eng#7).) This
+must be one of the most pointed questions ever asked in the holy scriptures.
+The implications are that an affirmative answer would mean that those who rob
+God will be cursed by God and burned as stubble at the Lord's second coming.
+(See [Mal. 3:9](/scriptures/ot/mal/3.9?lang=eng#8); [Mal.
+4:1](/scriptures/ot/mal/4.1?lang=eng#0).)
 
 This query was made of ancient Israel through the prophet Malachi, but it
 didn't apply only to ancient Israel. It quite obviously applied to the
 Nephites and Lamanites on this continent, too, for the resurrected Lord
-repeated it to them when he visited them in about A.D. 34\. (See [3 Ne.
-24:8-9](https://www.lds.org/scriptures/bofm/3-ne/24.8-9?lang=eng#7).) I
-presume modern Israel is also included under the same injunction, for surely
-the Lord used almost the same words when he warned of the burning that would
-precede his second coming, and tithing seems to be the critical judgment
-criterion. (See [D&amp;C 64:23-24](https://www.lds.org/scriptures/dc-
-testament/dc/64.23-24?lang=eng#22).)
+repeated it to them when he visited them in about A.D. 34. (See [3 Ne.
+24:8-9](/scriptures/bofm/3-ne/24.8-9?lang=eng#7).) I presume modern Israel is
+also included under the same injunction, for surely the Lord used almost the
+same words when he warned of the burning that would precede his second coming,
+and tithing seems to be the critical judgment criterion. (See [D&amp;C
+64:23-24](/scriptures/dc-testament/dc/64.23-24?lang=eng#22).)
 
 On the other hand, those who do pay tithing (give the Lord _his_ tenth) are
 promised that the windows of heaven will be opened to them and their blessings
 will exceed their ability to receive. (See [Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).) Further, the
-Lord "will rebuke the devourer for [their] sakes, and he shall not destroy the
-fruits of [their] ground." ([Mal.
-3:11](https://www.lds.org/scriptures/ot/mal/3.11?lang=eng#10).) This is a
+3:10](/scriptures/ot/mal/3.10?lang=eng#9).) Further, the Lord "will rebuke the
+devourer for [their] sakes, and he shall not destroy the fruits of [their]
+ground." ([Mal. 3:11](/scriptures/ot/mal/3.11?lang=eng#10).) This is a
 blessing of great magnitude.
 
 Obedience to the commandments of the Lord, including the important commandment
@@ -70,18 +67,17 @@ blessings, which include rebuking the devourer. "There is a law, irrevocably
 decreed in heaven before the foundations of this world, upon which _all_
 blessings are predicated." When we receive a blessing from God, it is by
 obedience to that law upon which it is predicated. (See [D&amp;C
-130:20-21](https://www.lds.org/scriptures/dc-
-testament/dc/130.20-21?lang=eng#19); italics added.) This could reach even to
-a Stop sign, too, I suppose.
+130:20-21](/scriptures/dc-testament/dc/130.20-21?lang=eng#19); italics added.)
+This could reach even to a Stop sign, too, I suppose.
 
 "Let no man break the laws of the land," says the Lord. "For he that keepeth
 the laws of God hath no need to break the laws of the land." ([D&amp;C
-58:21](https://www.lds.org/scriptures/dc-testament/dc/58.21?lang=eng#20).)
+58:21](/scriptures/dc-testament/dc/58.21?lang=eng#20).)
 
 Malachi continues, "Neither shall your vine cast her fruit before the time in
 the field." (We will avoid waste.) "And all nations shall call you blessed:
 for ye shall be a delightsome land, saith the Lord of hosts." ([Mal.
-3:11-12](https://www.lds.org/scriptures/ot/mal/3.11-12?lang=eng#10).)
+3:11-12](/scriptures/ot/mal/3.11-12?lang=eng#10).)
 
 It is a fact that we even look better when we pay tithing. There is a
 happiness that comes into the heart of the tithe payer that even reflects in
@@ -97,7 +93,7 @@ the Lord of hosts?
 
 "And now we call the proud happy; yea, they that work wickedness are set up;
 yea, they that tempt God are even delivered." ([Mal.
-3:13-15](https://www.lds.org/scriptures/ot/mal/3.13-15?lang=eng#12).)
+3:13-15](/scriptures/ot/mal/3.13-15?lang=eng#12).)
 
 Did you ever look at the boat in the driveway of the nonmember next door and
 think: "He doesn't pay tithing, or perhaps attend church on Sunday. He gets to
@@ -112,36 +108,33 @@ doing now. Did you ever notice that those who love the Lord are always talking
 to each other? One meeting after another.) "And the Lord hearkened, and heard
 it, and a book of remembrance was written before him for them that feared the
 Lord, and that thought upon his name." ([Mal.
-3:16](https://www.lds.org/scriptures/ot/mal/3.16?lang=eng#15) and [3 Ne.
-24:16](https://www.lds.org/scriptures/bofm/3-ne/24.16?lang=eng#15).)
+3:16](/scriptures/ot/mal/3.16?lang=eng#15) and [3 Ne.
+24:16](/scriptures/bofm/3-ne/24.16?lang=eng#15).)
 
 Ah! the light breaks. There is a record kept--and surely there is one. One
 group is receiving its reward now; the other is laying it up in heaven; and
 out of the books which are written and shall be written shall the dead be
-judged. (See [Rev.
-20:12](https://www.lds.org/scriptures/nt/rev/20.12?lang=eng#11).) Then the
+judged. (See [Rev. 20:12](/scriptures/nt/rev/20.12?lang=eng#11).) Then the
 Lord gives his word, which he cannot break, for surely "I, the Lord, am bound
-_when_ ye do what I say." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
+_when_ ye do what I say." ([D&amp;C 82:10](/scriptures/dc-
 testament/dc/82.10?lang=eng#9); italics added.) And here is the Lord's
 promise: "And they shall be mine, saith the Lord of hosts, in that day when I
 make up my jewels; and I will spare them, as a man spareth his own son that
-serveth him." ([Mal.
-3:17](https://www.lds.org/scriptures/ot/mal/3.17?lang=eng#16).) Surely, it is
-very difficult not to be partial to your own son who is working for you, if he
-does a good job. I presume there is nothing wrong in feeling that way about
+serveth him." ([Mal. 3:17](/scriptures/ot/mal/3.17?lang=eng#16).) Surely, it
+is very difficult not to be partial to your own son who is working for you, if
+he does a good job. I presume there is nothing wrong in feeling that way about
 your own son. The Lord seems to think not.
 
 The Lord continues: "Then shall ye return, and discern between the righteous
 and the wicked, between him that serveth God and him that serveth him not."
-([Mal. 3:18](https://www.lds.org/scriptures/ot/mal/3.18?lang=eng#17).) This
-will be quite easy to tell by looking at the record.
+([Mal. 3:18](/scriptures/ot/mal/3.18?lang=eng#17).) This will be quite easy to
+tell by looking at the record.
 
 Now comes the crux of the whole matter of tithing: "For, behold, the day
 cometh [saith the Lord], that shall burn as an oven; and all the proud, yea,
 and all that do wickedly, shall be as stubble: and the day that cometh shall
 burn them up, saith the Lord of hosts, that it shall leave them neither root
-nor branch." ([Mal.
-4:1](https://www.lds.org/scriptures/ot/mal/4.1?lang=eng#0).)
+nor branch." ([Mal. 4:1](/scriptures/ot/mal/4.1?lang=eng#0).)
 
 In other words, those who pay tithing will have roots and branches at the last
 day and those who do not will have neither roots nor branches. Now what are
@@ -169,6 +162,8 @@ principle of great promise and brings eternal joy and happiness.
 Who, then, can afford not to give the Lord his tenth? Surely neither you nor
 I; which witness I bear. For surely the Lord God has spoken it. And in the
 words of King Benjamin, "He never doth vary from that which he hath said."
-([Mosiah 2:22](https://www.lds.org/scriptures/bofm/mosiah/2.22?lang=eng#21).)
-In the name of the Lord Jesus Christ, amen.
+([Mosiah 2:22](/scriptures/bofm/mosiah/2.22?lang=eng#21).) In the name of the
+Lord Jesus Christ, amen.
+
+## References
 

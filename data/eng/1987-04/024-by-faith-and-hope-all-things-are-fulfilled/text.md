@@ -89,7 +89,7 @@ of hope and faith:
 yea, even a place at the right hand of God, which hope cometh of faith, maketh
 an anchor to the souls of men, which would make them sure and steadfast,
 always abounding in good works, being led to glorify God" ([Ether
-12:3-4](https://www.lds.org/scriptures/bofm/ether/12.3-4?lang=eng#2)).
+12:3-4](/scriptures/bofm/ether/12.3-4?lang=eng#2)).
 
 Throughout the whole of this marvelous chapter we are taught the wonders
 accomplished by faith, love, and hope. It seems to me that dwelling on
@@ -203,11 +203,13 @@ And as the prophet Mormon taught us:
 "But charity [in this case, the charity in our thinking of and appreciation of
 others] is the pure love of Christ, and it endureth forever; and whoso is
 found possessed of it at the last day, it shall be well with him" ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46)).
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46)).
 
 Remember, my brothers and sisters, particularly you young people, Christ came
 to lift us up, not put us down. I, with these great brethren on this stand, as
 a witness, invite you to come unto him.
 
 In the name of Jesus Christ, amen.
+
+## References
 

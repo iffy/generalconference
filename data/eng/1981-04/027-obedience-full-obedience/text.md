@@ -8,8 +8,8 @@ obey, the power to obey is lessened. Our capability to recognize good is
 weakened.
 
 As the Lord says in section 93: "And that wicked one cometh and taketh away
-light and truth, through disobedience." ([D&amp;C
-93:39](https://www.lds.org/scriptures/dc-testament/dc/93.39?lang=eng#38).)
+light and truth, through disobedience." ([D&amp;C 93:39](/scriptures/dc-
+testament/dc/93.39?lang=eng#38).)
 
 Aristotle said that wicked men obey because of fear and that good men obey
 because of love. (See _Useful Quotations,_ ed. Tyron Edwards, New York:
@@ -94,23 +94,21 @@ of the Lord._
 In Alma 57 we read about the 2,060 sons of Helaman who fought valiantly in
 many wars, administering death to all who opposed them and the Church. Yet not
 one lost his life because they knew "that if they did not doubt, God would
-deliver them." ([Alma
-56:47](https://www.lds.org/scriptures/bofm/alma/56.47?lang=eng#46).)
+deliver them." ([Alma 56:47](/scriptures/bofm/alma/56.47?lang=eng#46).)
 
-In [Alma 57:21](https://www.lds.org/scriptures/bofm/alma/57.21?lang=eng#20) we
-read: "Yea, and they did _obey and observe to perform every word of command
-with exactness._" (Italics added.) _They were totally obedient._ Hence, they
-had unbelievable protection and success.
+In [Alma 57:21](/scriptures/bofm/alma/57.21?lang=eng#20) we read: "Yea, and
+they did _obey and observe to perform every word of command with exactness._"
+(Italics added.) _They were totally obedient._ Hence, they had unbelievable
+protection and success.
 
 Let us for a moment look at some examples of disobedience, even men who had
 righteous intent but nevertheless disobeyed. One example would be Uzza in [1
-Chr. 13:7-10](https://www.lds.org/scriptures/ot/1-chr/13.7-10?lang=eng#6). The
-people had been warned not to touch the ark, the symbol of the covenant. But
-when the oxen stumbled and the ark appeared to be falling, Uzza stretched
-forth his hand to steady it and was immediately killed by the Lord. Uzza
-seemed justified and today we think his punishment was very severe, but as
-President David O. McKay stated, this incident conveys a lesson of life:
-obedience--full obedience.
+Chr. 13:7-10](/scriptures/ot/1-chr/13.7-10?lang=eng#6). The people had been
+warned not to touch the ark, the symbol of the covenant. But when the oxen
+stumbled and the ark appeared to be falling, Uzza stretched forth his hand to
+steady it and was immediately killed by the Lord. Uzza seemed justified and
+today we think his punishment was very severe, but as President David O. McKay
+stated, this incident conveys a lesson of life: obedience--full obedience.
 
 May I give an example of one great man, chosen of God, who showed some
 disobedience and lost everything of importance: King Saul.
@@ -118,14 +116,13 @@ disobedience and lost everything of importance: King Saul.
 The Lord gave Saul a particular assignment: Destroy the people of Amalek! "Now
 go and smite Amalek and utterly destroy all that they have, and spare them
 not; but slay both man and woman, infant and suckling, ox and sheep, camel and
-ass." ([1 Sam.
-15:3](https://www.lds.org/scriptures/ot/1-sam/15.3?lang=eng#2).) It was a
-mighty army that Saul took to destroy the Amalekites--210,000 men.
+ass." ([1 Sam. 15:3](/scriptures/ot/1-sam/15.3?lang=eng#2).) It was a mighty
+army that Saul took to destroy the Amalekites--210,000 men.
 
 "But Saul and the people spared [King] Agag, and the best of the sheep, and of
 the oxen, and of the fatlings, and the lambs, and all that was good, and would
 not utterly destroy them." ([1 Sam.
-15:9](https://www.lds.org/scriptures/ot/1-sam/15.9?lang=eng#8).)
+15:9](/scriptures/ot/1-sam/15.9?lang=eng#8).)
 
 Saul failed. Angered by this disobedience, the Lord sent Samuel again to
 upbraid the king.
@@ -143,8 +140,7 @@ than sacrifice. ... _
 
 "Because thou hast rejected the word of the Lord, he hath also rejected thee
 from being king." ([1 Sam. 15:14-15,
-22-23](https://www.lds.org/scriptures/ot/1-sam/15.14-15%2C22-23?lang=eng#13);
-italics added.)
+22-23](/scriptures/ot/1-sam/15.14-15,22-23?lang=eng#13); italics added.)
 
 Today President Kimball is the Lord's mouthpiece on the earth, and when he
 says we should do certain things, even small things, what is our answer? For
@@ -158,13 +154,12 @@ Now, why obey? In Deuteronomy it states, "Thou shalt keep therefore his
 statutes, and his commandments, which I command thee this day." Now, why:
 _"that it may go well with thee, and with thy children after thee, and that
 thou mayest prolong thy days upon the earth, which the Lord thy God giveth
-thee, for ever."_ ([Deut.
-4:40](https://www.lds.org/scriptures/ot/deut/4.40?lang=eng#39).)
+thee, for ever."_ ([Deut. 4:40](/scriptures/ot/deut/4.40?lang=eng#39).)
 
 And again in the Doctrine and Covenants, section 98: "And again I say unto
 you, if ye observe to do whatsoever I command you, I, the Lord, _will turn
 away all wrath and indignation from you, and the gates of hell shall not
-prevail against you._" ([D&amp;C 98:22](https://www.lds.org/scriptures/dc-
+prevail against you._" ([D&amp;C 98:22](/scriptures/dc-
 testament/dc/98.22?lang=eng#21).)
 
 Let's just cite one more example where the Lord watched over and protected his
@@ -201,7 +196,7 @@ Why were they protected? Because of their collective _obedience_ to the Lord.
 
 Let this be our decision: "Speak thou unto us all that the Lord our God shall
 speak unto thee; _and we will hear it, and do it._" ([Deut.
-5:27](https://www.lds.org/scriptures/ot/deut/5.27?lang=eng#26).)
+5:27](/scriptures/ot/deut/5.27?lang=eng#26).)
 
 My true feelings about the Church are that I know in a definite, decisive,
 indelible manner that Jesus is our Redeemer. He lives, as does the Father, and
@@ -209,4 +204,6 @@ President Kimball is the living servant of the living God. Let us watch the
 prophet, listen to him, follow him, and we will never go astray. This is the
 only true church of Jesus Christ upon the face of the earth, to which I
 testify in the name of our Redeemer, amen.
+
+## References
 

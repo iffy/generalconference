@@ -18,10 +18,9 @@ with wan looks on their feathered faces. Whether they are birds of passage or
 frost-bound nonachievers, they remind us of this truth spoken of by the
 Master: "Behold the fowls of the air: for they sow not, neither do they reap,
 nor gather into barns; yet your heavenly Father feedeth them. Are ye not much
-better than they?" ([Matt.
-6:26](https://www.lds.org/scriptures/nt/matt/6.26?lang=eng#25).) Indeed--if
-you know, as I know, that the Lord does watch over each one of us with love;
-for that I'm grateful.
+better than they?" ([Matt. 6:26](/scriptures/nt/matt/6.26?lang=eng#25).)
+Indeed--if you know, as I know, that the Lord does watch over each one of us
+with love; for that I'm grateful.
 
 In springtime, too, as Tennyson said, a young man's fancy turns to thoughts of
 love. On campuses everywhere the three Rs tend to become "romance and red
@@ -48,7 +47,7 @@ commitment to life's higher priorities.
 
 You recall the words of the Old Testament poet: "To everything there is a
 season, and _a time to every purpose under ... heaven."_ ([Eccl.
-3:1](https://www.lds.org/scriptures/ot/eccl/3.1?lang=eng#0). Italics added.)
+3:1](/scriptures/ot/eccl/3.1?lang=eng#0). Italics added.)
 
 "A time to every purpose under heaven," suggesting that there is a proper
 sequence for all things. Our prophet, President Kimball, has counseled you,
@@ -179,4 +178,6 @@ this pulpit. I add my concern for you and my witness that I too know that God
 lives, and I think you know I know he lives. God bless us to put into action
 the counsel you have heard, I pray as I leave my blessing and witness here
 this day, in the name of Jesus Christ. Amen.
+
+## References
 

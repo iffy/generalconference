@@ -4,15 +4,15 @@ My beloved brethren, I am humbled and honored to speak to the priesthood of
 the Lord's church. This priesthood now numbers more than two million
 throughout the world who have made a covenant with the Lord to be His servants
 here upon the earth. We do _His_ work. Great is the charge He has given us to
-"warn, expound, exhort, and teach, and invite all to come unto Christ." [1]
-Ours is a call to labor with all our "heart, might, mind and strength" [2]
-"to bring forth and establish the cause of Zion." [3]  We are "called to
-serve" [4]  by the Father of us all.
+"warn, expound, exhort, and teach, and invite all to come unto Christ."[1]
+Ours is a call to labor with all our "heart, might, mind and strength"[2] "to
+bring forth and establish the cause of Zion."[3] We are "called to serve"[4]
+by the Father of us all.
 
 Tonight I would like to address the Aaronic Priesthood. I pray fervently for
 the guidance of the Holy Spirit that the Lord's promise might be fulfilled
 that "he that preacheth and he that receiveth, understand one another, and
-both are edified and rejoice together." [5]
+both are edified and rejoice together."[5]
 
 My message to you young men is this: by obedience to the laws of the gospel,
 you can lift yourselves above the quagmire of sin that surrounds us in this
@@ -26,16 +26,16 @@ you will know that your life is acceptable to your Heavenly Father and His
 Beloved Son, Jesus Christ.
 
 We who serve in this great body of the priesthood do so because each of us has
-been called and chosen. [6]  God wants us to serve willingly and obediently.
-We who have made baptismal covenants and have accepted the call to serve in
-the Lord's kingdom as bearers of the holy priesthood have agreed to conform
-our will to His. We "should be humble, ... submissive and ... diligent in keeping
-the commandments of God at all times." [7]  My young brethren, "learn wisdom
-in [your] youth; yea, learn in [your] youth to keep the commandments of God."
-[8]  Nothing is more important to you than obedience to God's commandments.
+been called and chosen.[6] God wants us to serve willingly and obediently. We
+who have made baptismal covenants and have accepted the call to serve in the
+Lord's kingdom as bearers of the holy priesthood have agreed to conform our
+will to His. We "should be humble, ... submissive and ... diligent in keeping the
+commandments of God at all times."[7] My young brethren, "learn wisdom in
+[your] youth; yea, learn in [your] youth to keep the commandments of God."[8]
+Nothing is more important to you than obedience to God's commandments.
 
 President Ezra Taft Benson has stated that "obedience is the first law of
-heaven." [9]  This principle applies to all of us.
+heaven."[9] This principle applies to all of us.
 
 I observed a marvelous display of obedience during a recent visit to a large
 cattle ranch in Argentina. Early one morning, the gauchos brought forty horses
@@ -61,8 +61,8 @@ lasso or a whip.
 
 Watching this display of obedience, I thought of you Aaronic Priesthood
 brethren and how you are taught by your mothers, like the two thousand
-stripling sons of Helaman, [10]  and by caring fathers and priesthood leaders.
-I thought of you following their good example, disciplining yourselves, and
+stripling sons of Helaman,[10] and by caring fathers and priesthood leaders. I
+thought of you following their good example, disciplining yourselves, and
 keeping yourselves alert--willing to serve your Lord and Master as He chooses
 and calls you.
 
@@ -70,7 +70,7 @@ As you grow and mature, you will want and will earn more freedom to live your
 lives your way and to make your own choices. This you should do. Our hope and
 prayer is that you will grow up strong and obedient in the faith and that,
 like the young Jesus, you will increase "in wisdom and stature, and in favour
-with God and man." [11]
+with God and man."[11]
 
 We urge you to be obedient and faithful to your priesthood duties. God has
 given you the authority to act in His name during this youthful season of your
@@ -101,42 +101,42 @@ protect you from evil and help you to obey even when obedience is difficult.
 
 As you build your lives in obedience to the gospel and strive to achieve your
 goals, do not become discouraged by temporary setbacks and disappointments.
-Remember that "it must needs be, that there is an opposition in all things."
-[12]  You will grow and learn by overcoming obstacles. The Lord has admonished
-all of us to "keep [His] commandments and endure to the end." [13]
+Remember that "it must needs be, that there is an opposition in all
+things."[12] You will grow and learn by overcoming obstacles. The Lord has
+admonished all of us to "keep [His] commandments and endure to the end."[13]
 
 No doubt, you young men have learned that obedience is not always easy. In
 fact, it can sometimes seem stifling, uncomfortable, or even impossible. "But
-with God all things are possible." [14]  You can be obedient. You can defeat
+with God all things are possible."[14] You can be obedient. You can defeat
 Satan and overcome temptation. God "will not suffer you to be tempted above
 that ye are able; but will with the temptation also make a way to escape, that
-ye may be able to bear it." [15]  The Lord does not expect anything of you
-that you cannot do. Remember Nephi's faith when he testified that "the Lord
-giveth no commandments unto the children of men, save he shall prepare a way
-for them that they may accomplish the thing which he commandeth them." [16]
+ye may be able to bear it."[15] The Lord does not expect anything of you that
+you cannot do. Remember Nephi's faith when he testified that "the Lord giveth
+no commandments unto the children of men, save he shall prepare a way for them
+that they may accomplish the thing which he commandeth them."[16]
 
 We live in a world filled with evil. Swirling all around us are the whirlwinds
 of strife and contention, temptation and sin. "The priesthood is a shield
 against temptation; it motivates and inspires young men to the highest and
 noblest of deeds; every young man, whether he holds the office of deacon,
-teacher, or priest, is a servant of the Lord Jesus Christ." [17]
+teacher, or priest, is a servant of the Lord Jesus Christ."[17]
 
 How could we serve Him unless we were free from the evils of mortal life? Some
 mistakenly think it is impossible to avoid the sins of the world. To escape
 evil, a few even attempt to isolate themselves from society. The Savior prayed
 "not that thou shouldest take them out of the world, but that thou shouldest
-keep them from the evil." [18]  That, too, is our prayer for you young men.
+keep them from the evil."[18] That, too, is our prayer for you young men.
 
 Willing obedience provides lasting protection against Satan's alluring and
 tantalizing temptations. Jesus is our perfect example of obedience. Learn to
 do as He did when Satan tempted Him in the wilderness. Even though He was
 weakened by fasting, His answer was quick and firm: "Get thee behind me,
-Satan." [19]  Elder Neal A. Maxwell said this of the Savior's example in
+Satan."[19] Elder Neal A. Maxwell said this of the Savior's example in
 resisting temptation: "Jesus noticed the tremendous temptations that came to
 Him, but He did not process and reprocess them. Instead, He rejected them
-promptly. _If we entertain temptations, soon they begin entertaining us!"_
-[20]  When Satan comes calling, cast him out as quickly as possible. Do not
-let temptation even begin to entertain you.
+promptly. _If we entertain temptations, soon they begin entertaining us!"_[20]
+When Satan comes calling, cast him out as quickly as possible. Do not let
+temptation even begin to entertain you.
 
 I plead with you young brethren of the priesthood to live above the curse of
 immorality that is plaguing the earth. Rise above the squalor of pornography,
@@ -221,7 +221,7 @@ way. Obedience brings great strength and power into your lives.
 The commandments of the gospel come from a tender, loving Father whose laws
 are given to make us happy, to protect us, and to help us avoid the
 inescapable pain and misery that always result when we yield to Satan and give
-in to temptation. "Wickedness never was happiness." [21]  God is, indeed, our
+in to temptation. "Wickedness never was happiness."[21] God is, indeed, our
 loving Father. Everything He does is for our good. He knows all things. He
 knows us much better than we know ourselves, and He knows what is best for us.
 
@@ -231,45 +231,45 @@ pray humbly in the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [D&amp;C 20:59](https://www.lds.org/scriptures/dc-testament/dc/20.59?lang=eng#58).
+  1. [D&amp;C 20:59](https://www.lds.org/scriptures/dc-testament/dc/20.59?lang=eng#58).
 
-  2.   [D&amp;C 4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1).
+  2. [D&amp;C 4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1).
 
-  3.   [D&amp;C 6:6](https://www.lds.org/scriptures/dc-testament/dc/6.6?lang=eng#5).
+  3. [D&amp;C 6:6](https://www.lds.org/scriptures/dc-testament/dc/6.6?lang=eng#5).
 
-  4.   _Hymns,_ 1985, no. 249.
+  4. _Hymns,_ 1985, no. 249.
 
-  5.   [D&amp;C 50:22](https://www.lds.org/scriptures/dc-testament/dc/50.22?lang=eng#21).
+  5. [D&amp;C 50:22](https://www.lds.org/scriptures/dc-testament/dc/50.22?lang=eng#21).
 
-  6.  See [John 15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).
+  6. See [John 15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).
 
-  7.   [Alma 7:23](https://www.lds.org/scriptures/bofm/alma/7.23?lang=eng#22).
+  7. [Alma 7:23](https://www.lds.org/scriptures/bofm/alma/7.23?lang=eng#22).
 
-  8.   [Alma 37:35](https://www.lds.org/scriptures/bofm/alma/37.35?lang=eng#34).
+  8. [Alma 37:35](https://www.lds.org/scriptures/bofm/alma/37.35?lang=eng#34).
 
-  9.  Ezra Taft Benson, Mission Presidents' Seminar, 21 June 1988; see _Teachings of Ezra Taft Benson_ (Salt Lake City: Bookcraft, 1988), p. 26.
+  9. Ezra Taft Benson, Mission Presidents' Seminar, 21 June 1988; see _Teachings of Ezra Taft Benson_ (Salt Lake City: Bookcraft, 1988), p. 26.
 
-  10.  See [Alma 56:47-48](https://www.lds.org/scriptures/bofm/alma/56.47-48?lang=eng#46).
+  10. See [Alma 56:47-48](https://www.lds.org/scriptures/bofm/alma/56.47-48?lang=eng#46).
 
-  11.   [Luke 2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).
+  11. [Luke 2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).
 
-  12.   [2 Ne. 2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).
+  12. [2 Ne. 2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).
 
-  13.   [D&amp;C 14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).
+  13. [D&amp;C 14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).
 
-  14.   [Matt. 19:26](https://www.lds.org/scriptures/nt/matt/19.26?lang=eng#25).
+  14. [Matt. 19:26](https://www.lds.org/scriptures/nt/matt/19.26?lang=eng#25).
 
-  15.   [1 Cor. 10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).
+  15. [1 Cor. 10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).
 
-  16.   [1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).
+  16. [1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).
 
-  17.  Joseph L. Wirthlin, _A Heritage of Faith_ (Salt Lake City: Deseret Book Co., 1964), p. 78.
+  17. Joseph L. Wirthlin, _A Heritage of Faith_ (Salt Lake City: Deseret Book Co., 1964), p. 78.
 
-  18.   [John 17:15](https://www.lds.org/scriptures/nt/john/17.15?lang=eng#14).
+  18. [John 17:15](https://www.lds.org/scriptures/nt/john/17.15?lang=eng#14).
 
-  19.   [Luke 4:8](https://www.lds.org/scriptures/nt/luke/4.8?lang=eng#7).
+  19. [Luke 4:8](https://www.lds.org/scriptures/nt/luke/4.8?lang=eng#7).
 
-  20.  Neal A. Maxwell, _Ensign,_ May 1987, p. 71; emphasis added.
+  20. Neal A. Maxwell, _Ensign,_ May 1987, p. 71; emphasis added.
 
-  21.   [Alma 41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).
+  21. [Alma 41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).
 

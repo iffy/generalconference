@@ -28,9 +28,9 @@ are looking forward to her return from the hospital.
 
 The apostle Paul tells us: "... faith is the substance of things hoped for, and
 the evidence of things not seen." ([Heb.
-11:1](https://www.lds.org/scriptures/nt/heb/11.1?lang=eng#0).) Faith and
-belief have been used synonymously, and it is sometimes difficult for us to
-differentiate between the two. There _is _a difference.
+11:1](/scriptures/nt/heb/11.1?lang=eng#0).) Faith and belief have been used
+synonymously, and it is sometimes difficult for us to differentiate between
+the two. There _is _a difference.
 
 We cannot have faith without belief, but we can believe without having faith.
 Belief is the foundation of faith. Faith is trusting in our Lord and Savior,
@@ -38,14 +38,14 @@ Jesus Christ.
 
 The scriptures contain many assurances of salvation to those who exercise
 faith and obey the commandments. One such assurance is found in [Mark
-16:16](https://www.lds.org/scriptures/nt/mark/16.16?lang=eng#15), which reads:
-"He that believeth and is baptized shall be saved; but he that believeth not
-shall be damned." Note that the Lord said: "He that believeth and is baptized
-shall be saved." In other words, we must do more than believe--we must act.
-Faith is the motivating force that impels action.
+16:16](/scriptures/nt/mark/16.16?lang=eng#15), which reads: "He that believeth
+and is baptized shall be saved; but he that believeth not shall be damned."
+Note that the Lord said: "He that believeth and is baptized shall be saved."
+In other words, we must do more than believe--we must act. Faith is the
+motivating force that impels action.
 
-In [James 2:20](https://www.lds.org/scriptures/nt/james/2.20?lang=eng#19) we
-read: "But wilt thou know, O vain man, that faith without works is dead?"
+In [James 2:20](/scriptures/nt/james/2.20?lang=eng#19) we read: "But wilt thou
+know, O vain man, that faith without works is dead?"
 
 Many believe that God will provide, but we cannot sit idly by and expect to
 get results. The Lord requires us to work for that which we seek. If we do our
@@ -123,8 +123,7 @@ left.
 
 "And the Egyptians pursued, and went in after them to the midst of the sea,
 even all Pharaoh's horses, his chariots, and his horsemen." ([Ex. 14:12-14,
-16, 21-23](https://www.lds.org/scriptures/ot/ex/14.12-14%2C16%2C21-23?lang=eng
-#11).)
+16, 21-23](/scriptures/ot/ex/14.12-14,16,21-23?lang=eng#11).)
 
 And then the Lord told Moses to stretch out his hand, and the water would come
 back and destroy the Egyptians. Moses again exercised his faith in God, and
@@ -139,7 +138,7 @@ liberally, and upbraideth not; and it shall be given him.
 
 "But let him ask in faith, nothing wavering. For he that wavereth is like a
 wave of the sea driven with the wind and tossed." [[James
-1:5-6](https://www.lds.org/scriptures/nt/james/1.5-6?lang=eng#4)]
+1:5-6](/scriptures/nt/james/1.5-6?lang=eng#4)]
 
 This passage of scripture rocked his very soul, for he felt that if ever a
 person needed wisdom in deciding what to do, it was he.
@@ -216,4 +215,6 @@ and worthy to receive the greatest of all blessings, which is salvation,
 exaltation, and eternal life in the kingdom of our Heavenly Father.
 
 In the name of Jesus Christ. Amen.
+
+## References
 

@@ -3,12 +3,11 @@
 The apostle James said: "Pure religion and undefiled before God and the Father
 is this, To visit the fatherless and widows in their affliction, and to keep
 himself unspotted from the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 The apostle Paul said: "... by love serve one another. For all the law is
 fulfilled in one word, even in this; Thou shalt love thy neighbour as
-thyself." ([Gal.
-5:13-14](https://www.lds.org/scriptures/nt/gal/5.13-14?lang=eng#12).)
+thyself." ([Gal. 5:13-14](/scriptures/nt/gal/5.13-14?lang=eng#12).)
 
 He further said: "Though I speak with the tongues of men and of angels, and
 have not charity, I am become as sounding brass, or a tinkling cymbal.
@@ -18,8 +17,7 @@ knowledge; and though I have all faith, so that I could remove mountains, and
 have not charity, I am nothing.
 
 "And now abideth faith, hope, charity, these three; but the greatest of these
-is charity." ([1 Cor. 13:1-2,
-13](https://www.lds.org/scriptures/nt/1-cor/13.1-2%2C13?lang=eng#0).)
+is charity." ([1 Cor. 13:1-2, 13](/scriptures/nt/1-cor/13.1-2,13?lang=eng#0).)
 
 With these scriptures as background, I should like to share with you some
 experiences of some wonderful groups of unheralded workers who have made these
@@ -203,4 +201,6 @@ well-being of the whole man.
 I bear my humble witness that this is the gospel of Jesus Christ, that he
 reigns at the head of this church and speaks through a living prophet, Harold
 B. Lee. In the name of Jesus Christ. Amen.
+
+## References
 

@@ -21,8 +21,8 @@ that of a broken heart and a contrite spirit.
 shalt go to the house of prayer and offer up thy sacraments upon my holy day;
 
 "For verily this is a day appointed unto you to rest from your labors, and to
-pay thy devotions unto the Most High" ([D&amp;C
-59:8-10](https://www.lds.org/scriptures/dc-testament/dc/59.8-10?lang=eng#7)).
+pay thy devotions unto the Most High" ([D&amp;C 59:8-10](/scriptures/dc-
+testament/dc/59.8-10?lang=eng#7)).
 
 We need, every one of us needs, to pause from the hectic pace of our lives and
 to reflect upon things sacred and divine. I recall that when I was a
@@ -69,11 +69,11 @@ these should take place in the foyer, and when we enter the chapel we should
 understand that we are in sacred precincts. All of us are familiar with the
 account in Exodus of the Lord's appearance to Moses at the burning bush. When
 the Lord called, Moses answered, "Here am I" ([Ex.
-3:4](https://www.lds.org/scriptures/ot/ex/3.4?lang=eng#3)).
+3:4](/scriptures/ot/ex/3.4?lang=eng#3)).
 
 And the Lord said, "Draw not nigh hither: put off thy shoes from off thy feet,
 for the place whereon thou standest is holy ground" ([Ex.
-3:5](https://www.lds.org/scriptures/ot/ex/3.5?lang=eng#4)).
+3:5](/scriptures/ot/ex/3.5?lang=eng#4)).
 
 We do not ask our people to remove their shoes when they come into the chapel.
 But all who come into the Lord's house should have a feeling that they are
@@ -120,8 +120,7 @@ can leave quietly to care for their children.
 
 To ancient Israel Jehovah said, "Ye shall keep my sabbaths, and _reverence my
 sanctuary:_ I am the Lord" ([Lev.
-19:30](https://www.lds.org/scriptures/ot/lev/19.30?lang=eng#29); italics
-added).
+19:30](/scriptures/ot/lev/19.30?lang=eng#29); italics added).
 
 Brethren, we ask that you discuss this important matter in your homes and that
 you who are officers discuss it in your planning meetings. There is much room
@@ -163,22 +162,22 @@ which are expedient unto man. And they are free to choose liberty and eternal
 life, through the great Mediator of all men, or to choose captivity and death,
 according to the captivity and power of the devil; for he seeketh that all men
 might be miserable like unto himself" ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)).
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)).
 
 I repeat, each of us has a choice between right and wrong. But with that
 choice there inevitably will follow consequences. Those who choose to violate
 the commandments of God put themselves at great spiritual and physical
 jeopardy. The Apostle Paul said, "The wages of sin is death" ([Rom.
-6:23](https://www.lds.org/scriptures/nt/rom/6.23?lang=eng#22)).
+6:23](/scriptures/nt/rom/6.23?lang=eng#22)).
 
 Jacob taught, "Remember, to be carnally-minded is death, and to be
 spiritually-minded is life eternal" ([2 Ne.
-9:39](https://www.lds.org/scriptures/bofm/2-ne/9.39?lang=eng#38)).
+9:39](/scriptures/bofm/2-ne/9.39?lang=eng#38)).
 
 Jesus gave a commandment to control our thoughts as well as our deeds. He
 said, "Whosoever looketh on a woman to lust after her hath committed adultery
 with her already in his heart" ([Matt.
-5:28](https://www.lds.org/scriptures/nt/matt/5.28?lang=eng#27)).
+5:28](/scriptures/nt/matt/5.28?lang=eng#27)).
 
 There is a principle of accountability with reference to human behavior. The
 prophet Alma declared:
@@ -190,7 +189,7 @@ awful state we shall not dare to look up to our God. ...
 "But this cannot be; we must come forth and stand before him in his glory, and
 in his power, and in his might, majesty, and dominion, and acknowledge to our
 everlasting shame that all his judgments are just" ([Alma
-12:14-15](https://www.lds.org/scriptures/bofm/alma/12.14-15?lang=eng#13)).
+12:14-15](/scriptures/bofm/alma/12.14-15?lang=eng#13)).
 
 Mental control must be stronger than physical appetites or desires of the
 flesh. As thoughts are brought into complete harmony with revealed truth,
@@ -198,7 +197,7 @@ actions will then become appropriate.
 
 The timeless proverb is as true now as when it was first spoken: "For as he
 thinketh in his heart, so is he" ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6)).
+23:7](/scriptures/ot/prov/23.7?lang=eng#6)).
 
 Each of us, with discipline and effort, has the capacity to control his
 thoughts and his actions. This is part of the process of developing spiritual,
@@ -207,8 +206,7 @@ physical, and emotional maturity.
 A prophet taught that "the natural man is an enemy to God, ... and will be,
 forever and ever, unless he yields to the enticings of the Holy Spirit, and
 putteth off the natural man and becometh a saint through the atonement of
-Christ the Lord" ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18)).
+Christ the Lord" ([Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18)).
 
 We plead with people everywhere to live in accordance with the teachings of
 our Creator and rise above carnal attractions that often result in the
@@ -230,13 +228,13 @@ the afflicted, ministering to their needs and assisting them with their
 problems. We repeat, however, that the way of safety and the road to happiness
 lie in abstinence before marriage and fidelity following marriage. Declared
 the Lord in this dispensation: "Let virtue garnish thy thoughts unceasingly"
-([D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44)). There follows a remarkable and wonderful
-promise: "Then shall thy confidence wax strong in the presence of God. ...
+([D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)). There
+follows a remarkable and wonderful promise: "Then shall thy confidence wax
+strong in the presence of God. ...
 
 "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging
 scepter of righteousness and truth; and thy dominion shall be an everlasting
-dominion" ([D&amp;C 121:45-46](https://www.lds.org/scriptures/dc-
+dominion" ([D&amp;C 121:45-46](/scriptures/dc-
 testament/dc/121.45-46?lang=eng#44)).
 
 Now, in conclusion, this leads to a related matter I wish to mention, and that
@@ -306,7 +304,8 @@ weak. Your own example will give determination to others.
 
 God bless you, my beloved brethren--you of the noble birthright, you of the
 great promise. "Look to God and live" ([Alma
-37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46)). May you
-do so, I humbly pray as I leave my love and blessing with you, in the name of
-Jesus Christ, amen.
+37:47](/scriptures/bofm/alma/37.47?lang=eng#46)). May you do so, I humbly pray
+as I leave my love and blessing with you, in the name of Jesus Christ, amen.
+
+## References
 

@@ -15,8 +15,8 @@ some mistakes. One time, when I did a thoughtless thing, I remember my own
 mother exclaiming, "Where did I fail?"
 
 The Lord has directed, "Bring up your children in light and truth." ([D&amp;C
-93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39).) To
-me, there is no more important human effort.
+93:40](/scriptures/dc-testament/dc/93.40?lang=eng#39).) To me, there is no
+more important human effort.
 
 Being a father or a mother is not only a great challenge, it is a divine
 calling. It is an effort requiring consecration. President David O. McKay
@@ -31,16 +31,16 @@ happy, honorable, and productive. Parents will find no more fulfilling
 happiness than to have their children honor them and their teachings. It is
 the glory of parenthood. John testified, "I have no greater joy than to hear
 that my children walk in truth." ([3 Jn.
-1:4](https://www.lds.org/scriptures/nt/3-jn/1.4?lang=eng#3).) In my opinion,
-the teaching, rearing, and training of children requires more intelligence,
-intuitive understanding, humility, strength, wisdom, spirituality,
-perseverance, and hard work than any other challenge we might have in life.
-This is especially so when moral foundations of honor and decency are eroding
-around us. To have successful homes, values must be taught, and there must be
-rules, there must be standards, and there must be absolutes. Many societies
-give parents very little support in teaching and honoring moral values. A
-number of cultures are becoming essentially valueless, and many of the younger
-people in those societies are becoming moral cynics.
+1:4](/scriptures/nt/3-jn/1.4?lang=eng#3).) In my opinion, the teaching,
+rearing, and training of children requires more intelligence, intuitive
+understanding, humility, strength, wisdom, spirituality, perseverance, and
+hard work than any other challenge we might have in life. This is especially
+so when moral foundations of honor and decency are eroding around us. To have
+successful homes, values must be taught, and there must be rules, there must
+be standards, and there must be absolutes. Many societies give parents very
+little support in teaching and honoring moral values. A number of cultures are
+becoming essentially valueless, and many of the younger people in those
+societies are becoming moral cynics.
 
 As societies as a whole have decayed and lost their moral identity and so many
 homes are broken, the best hope is to turn greater attention and effort to the
@@ -107,7 +107,7 @@ beginning with the child's own parents and family; respect for the symbols of
 faith and patriotic beliefs of others; respect for law and order; respect for
 the property of others; respect for authority. Paul reminds us that children
 should "learn first to shew piety at home." ([1 Tim.
-5:4](https://www.lds.org/scriptures/nt/1-tim/5.4?lang=eng#3).)
+5:4](/scriptures/nt/1-tim/5.4?lang=eng#3).)
 
 One of the most difficult parental challenges is to appropriately discipline
 children. Child rearing is so individualistic. Every child is different and
@@ -146,7 +146,7 @@ lessons learned are valuable. Children need to learn responsibility and
 independence. Are the parents personally taking the time to show and
 demonstrate and explain so that children can, as Lehi taught, "act for
 themselves and not ... be acted upon"? ([2 Ne.
-2:26](https://www.lds.org/scriptures/bofm/2-ne/2.26?lang=eng#25).)
+2:26](/scriptures/bofm/2-ne/2.26?lang=eng#25).)
 
 Luther Burbank, one of the world's greatest horticulturists, said, "If we had
 paid no more attention to our plants than we have to our children, we would
@@ -191,7 +191,7 @@ dishonesty, and other vices. They are like Helaman's two thousand young men
 who "had been taught by their mothers, that if they did not doubt, God would
 deliver them" from death. "And they rehearsed ... the words of their mothers,
 saying: We do not doubt our mothers knew it." ([Alma
-56:47-48](https://www.lds.org/scriptures/bofm/alma/56.47-48?lang=eng#46).)
+56:47-48](/scriptures/bofm/alma/56.47-48?lang=eng#46).)
 
 What seems to help cement parental teachings and values in place in children's
 lives is a firm belief in Deity. When this belief becomes part of their very
@@ -199,11 +199,10 @@ souls, they have inner strength. So, of all that is important to be taught,
 what should parents teach? The scriptures tell us that parents are to teach
 their children "faith in Christ the Son of the living God, and of baptism and
 the gift of the Holy Ghost," and "the doctrine of repentance." ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
-These truths must be taught in the home. They cannot be taught in the public
-schools, nor will they be fostered by the government or by society. Of course,
-Church programs can help, but the most effective teaching takes place in the
-home.
+68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24).) These truths must be
+taught in the home. They cannot be taught in the public schools, nor will they
+be fostered by the government or by society. Of course, Church programs can
+help, but the most effective teaching takes place in the home.
 
 Parental teaching moments need not be big or dramatic or powerful. We learn
 this from the Master Teacher. Charles Henry Parkhurst said:
@@ -236,4 +235,6 @@ God bless the struggling, sacrificing, honorable parents of this world. May He
 especially honor the covenants kept by faithful parents among our people and
 watch over these children of the covenant. I pray that this may be so in the
 sacred name of Jesus Christ, amen.
+
+## References
 

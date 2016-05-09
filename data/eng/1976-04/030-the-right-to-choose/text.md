@@ -23,7 +23,7 @@ line upon it?
 thereof;
 
 "When the morning stars sang together, and all the sons of God shouted for
-joy?" ([Job 38:3-7](https://www.lds.org/scriptures/ot/job/38.3-7?lang=eng#2).)
+joy?" ([Job 38:3-7](/scriptures/ot/job/38.3-7?lang=eng#2).)
 
 We believe that a grand council was held to select one who would come to the
 earth to represent us, and who would atone for the sins of mankind. Joseph
@@ -39,8 +39,7 @@ lost, and surely I will do it; wherefore give me thine honor.
 
 Then the Lord continued: "But, behold, my Beloved Son ... said unto me--Father,
 thy will be done, and the glory be _thine_ forever." ([Moses
-4:1-2](https://www.lds.org/scriptures/pgp/moses/4.1-2?lang=eng#0); italics
-added.)
+4:1-2](/scriptures/pgp/moses/4.1-2?lang=eng#0); italics added.)
 
 Abraham quotes the words of the Lord when he said: "Whom shall I send? And one
 answered like unto the Son of Man: Here am I, send me. And another answered
@@ -48,7 +47,7 @@ and said: Here am I, send me. And the Lord said: I will send the first.
 
 "And the second was angry, and kept not his first estate; and, at that day,
 many followed after him." ([Abr.
-3:27-28](https://www.lds.org/scriptures/pgp/abr/3.27-28?lang=eng#26).)
+3:27-28](/scriptures/pgp/abr/3.27-28?lang=eng#26).)
 
 John explains in the book of Revelation that as a result of Satan's anger:
 "And there was war in heaven: Michael [who came to earth and was named Adam]
@@ -59,7 +58,7 @@ fought and his angels,
 
 "And the great dragon was cast out, that old serpent, called the Devil, and
 Satan, ... was cast out into the earth, and his angels were cast out with him."
-([Rev. 12:7-9](https://www.lds.org/scriptures/nt/rev/12.7-9?lang=eng#6).)
+([Rev. 12:7-9](/scriptures/nt/rev/12.7-9?lang=eng#6).)
 
 We understand that Satan exerted such a powerful influence upon his associates
 that one-third of the hosts of heaven followed after him.
@@ -102,7 +101,7 @@ decision, then ask the Lord if his decision is right. If it is right, he can
 receive a burning in his bosom and he will know and have the assurance that
 his decision is right; but if it is not right, there will be a stupor of
 thought that will cause one to forget the thing which is wrong. (See [D&amp;C
-9:8-9](https://www.lds.org/scriptures/dc-testament/dc/9.8-9?lang=eng#7).)
+9:8-9](/scriptures/dc-testament/dc/9.8-9?lang=eng#7).)
 
 The words of one of our meaningful hymns have great significance for us. It
 carries this message:
@@ -137,9 +136,11 @@ pleasing to our Heavenly Father? Or will they be self-centered and selfish?
 Joshua, an ancient prophet, determined that he would try to live righteously,
 and after making this decision he proclaimed: "choose you this day whom ye
 will serve; ... but as for me and my house, we will serve the Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 May we be inspired to make wise decisions that will meet with the approval of
 the Lord and be for our best good and the blessing of our fellowmen. For this
 I pray, in the name of our Lord and Savior, Jesus Christ. Amen.
+
+## References
 

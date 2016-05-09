@@ -88,38 +88,19 @@ it needs to be understood.
 
 In chapter 36 of the book of Alma in the Book of Mormon is a remarkable lesson
 for every father, or for those who stand in place of a father. [[Alma
-36](https://www.lds.org/scriptures/bofm/alma/36.title?lang=eng)] To his son
-Helaman, Alma bore a strong testimony of faith and repentance. Remember that
-Alma, in youthful rebelliousness, had made some serious mistakes. He wanted
-his sons to avoid those mistakes and to find what he, Alma, had discovered of
-the tender mercies of God, without the terrible, painful experiences through
-which he had gone. In this deeply honest account Alma bore record of the
-torment through which he had passed and shared with Helaman three great
-messages which every father would want to deliver to his own son. I deliver
-them tonight to my son and invite you to join me:
+36](/scriptures/bofm/alma/36?lang=eng)] To his son Helaman, Alma bore a strong
+testimony of faith and repentance. Remember that Alma, in youthful
+rebelliousness, had made some serious mistakes. He wanted his sons to avoid
+those mistakes and to find what he, Alma, had discovered of the tender mercies
+of God, without the terrible, painful experiences through which he had gone.
+In this deeply honest account Alma bore record of the torment through which he
+had passed and shared with Helaman three great messages which every father
+would want to deliver to his own son. I deliver them tonight to my son and
+invite you to join me:
 
-  1. "And now, O my son Helaman, behold, thou art in thy youth, and therefore, I beseech of thee that thou wilt hear my words and learn of me; for I do know that whosoever shall put their trust in God shall be supported in their trials, and their troubles, and their afflictions, and shall be lifted up at the last day.
-
-"And I would not that ye think that I know of myself--not of the temporal but
-of the spiritual, not of the carnal mind but of God." ([Alma
-36:3-4](https://www.lds.org/scriptures/bofm/alma/36.3-4?lang=eng#2).)
-
-Then Alma added something, and so do I:
-
-  2. "Yea, and ... I have labored without ceasing, that I might bring souls unto repentance; that I might bring them to taste of the exceeding joy of which I did taste; that they might also be born of God, and be filled with the Holy Ghost.
-
-"... And now behold, O my son, the Lord doth give me exceeding great joy in the
-fruit of my labors;
-
-"For because of the word which he has imparted unto me, behold, many have been
-born of God, and have tasted as I have tasted, and have seen eye to eye as I
-have seen; therefore they do know of these things of which I have spoken, as I
-do know; and the knowledge which I have is of God." ([Alma
-36:24-26](https://www.lds.org/scriptures/bofm/alma/36.24-26?lang=eng#23).)
-
-But these messages were not enough. There is a third:
-
-  3. "But behold, my son, this is not all; for ye ought to know as I do know, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and ye ought to know also, that inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence. ..." ([Alma 36:30](https://www.lds.org/scriptures/bofm/alma/36.30?lang=eng#29).)
+  1. "And now, O my son Helaman, behold, thou art in thy youth, and therefore, I beseech of thee that thou wilt hear my words and learn of me; for I do know that whosoever shall put their trust in God shall be supported in their trials, and their troubles, and their afflictions, and shall be lifted up at the last day. "And I would not that ye think that I know of myself--not of the temporal but of the spiritual, not of the carnal mind but of God." ([Alma 36:3-4](/scriptures/bofm/alma/36.3-4?lang=eng#2).) Then Alma added something, and so do I: 
+  2. "Yea, and ... I have labored without ceasing, that I might bring souls unto repentance; that I might bring them to taste of the exceeding joy of which I did taste; that they might also be born of God, and be filled with the Holy Ghost. "... And now behold, O my son, the Lord doth give me exceeding great joy in the fruit of my labors; "For because of the word which he has imparted unto me, behold, many have been born of God, and have tasted as I have tasted, and have seen eye to eye as I have seen; therefore they do know of these things of which I have spoken, as I do know; and the knowledge which I have is of God." ([Alma 36:24-26](/scriptures/bofm/alma/36.24-26?lang=eng#23).) But these messages were not enough. There is a third: 
+  3. "But behold, my son, this is not all; for ye ought to know as I do know, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and ye ought to know also, that inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence. ..." ([Alma 36:30](/scriptures/bofm/alma/36.30?lang=eng#29).) 
 
 So a father testified to his son.
 
@@ -143,14 +124,13 @@ follow, and spoke the message of his heart:
 "And now the Spirit of the Lord doth say unto me: Command thy children to do
 good, lest they lead away the hearts of many people to destruction; therefore
 I command you, my son, in the fear of God, that ye refrain from your
-iniquities." ([Alma
-39:12](https://www.lds.org/scriptures/bofm/alma/39.12?lang=eng#11).)
+iniquities." ([Alma 39:12](/scriptures/bofm/alma/39.12?lang=eng#11).)
 
 In this marvelous lesson for sinners--and those who seek to help sinners--are
 some of the saddest and most moving words that I know from a faithful father
 who had tried to do missionary work in the very area where his son had been
 immoral: "... when they saw your conduct, they would not believe in my words."
-([Alma 39:11](https://www.lds.org/scriptures/bofm/alma/39.11?lang=eng#10).)
+([Alma 39:11](/scriptures/bofm/alma/39.11?lang=eng#10).)
 
 There are other accounts in the Book of Mormon, of course, like that of the
 boy who heeded his father's teachings and who made up his mind early in his
@@ -160,7 +140,7 @@ life about what he really wanted. He wrote these words (You know him!):
 having great desires to know of the mysteries of God ... I did cry unto the
 Lord; and behold he did visit me, and did soften my heart that I did believe
 all the words which had been spoken by my father. ..." ([1 Ne.
-2:16](https://www.lds.org/scriptures/bofm/1-ne/2.16?lang=eng#15).)
+2:16](/scriptures/bofm/1-ne/2.16?lang=eng#15).)
 
 Nephi performed many great tasks, and one I remember best was his help to his
 father who had murmured when the company lost its hunting equipment and faced
@@ -280,12 +260,14 @@ words of Moroni:
 "Condemn [us] not because of [our] imperfection ... but rather give thanks unto
 God that he hath made manifest unto you our imperfections, that ye may learn
 to be more wise than we have been." ([Morm.
-9:31](https://www.lds.org/scriptures/bofm/morm/9.31?lang=eng#30).)
+9:31](/scriptures/bofm/morm/9.31?lang=eng#30).)
 
 And to those a little older, these words from ancient times:
 
 "For how shall I go up to my father and the lad [is] not with me. ..." ([Gen.
-44:34](https://www.lds.org/scriptures/ot/gen/44.34?lang=eng#33).)
+44:34](/scriptures/ot/gen/44.34?lang=eng#33).)
 
 In the name of Jesus Christ. Amen.
+
+## References
 

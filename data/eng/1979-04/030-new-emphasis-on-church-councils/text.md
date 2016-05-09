@@ -55,8 +55,7 @@ edifying of the body of Christ:
 
 "Till we all come in the unity of the faith, and of the knowledge of the Son
 of God, unto a perfect man, unto the measure of the stature of the fulness of
-Christ" ([Eph.
-4:12-13](https://www.lds.org/scriptures/nt/eph/4.12-13?lang=eng#11)).
+Christ" ([Eph. 4:12-13](/scriptures/nt/eph/4.12-13?lang=eng#11)).
 
 Now may I give emphasis to two subsequent verses of Paul's letter which we do
 not always quote, but which have particular meaning in light of these newly
@@ -68,9 +67,7 @@ which is the head, even Christ:
 "From whom the whole body _fitly joined together_ and compacted by that which
 _every joint supplieth,_ according to the _effectual working_ in the measure
 of every part, maketh increase of the body unto the edifying of itself in
-love" ([Eph.
-4:15-16](https://www.lds.org/scriptures/nt/eph/4.15-16?lang=eng#14); italics
-added).
+love" ([Eph. 4:15-16](/scriptures/nt/eph/4.15-16?lang=eng#14); italics added).
 
 Please note now, brothers and sisters, the whole body is compacted by that
 which every _joint_ or _council_ supplies. With this action today, we are
@@ -81,4 +78,6 @@ from participation in priesthood councils at your several levels.
 May the Lord richly bless you in carrying forth this great work of
 establishing Zion and preparing us for the Lord's eventual rule on earth. In
 the name of Jesus Christ, amen.
+
+## References
 

@@ -17,13 +17,12 @@ proclaimed--to see that "the truth of God [goes] forth boldly, nobly ... till it
 has penetrated every continent ... swept every country, and sounded in every
 ear, till the purposes of God shall be accomplished. ..." _(Documentary History
 of the Church, _vol. 4, p. 540.) The Lord has said: "Prepare ye the way. ..."
-([D&amp;C 65:1](https://www.lds.org/scriptures/dc-
-testament/dc/65.1?lang=eng#0).) Then it is our duty to prepare all of our
-members so that we might develop a strong foundation and belief in the true
-gospel of Jesus Christ. The Church-wide teacher development program was
-developed to help accomplish this purpose. It is now in various stages of
-implementation in the stakes and the wards and in English-speaking missions
-throughout the world.
+([D&amp;C 65:1](/scriptures/dc-testament/dc/65.1?lang=eng#0).) Then it is our
+duty to prepare all of our members so that we might develop a strong
+foundation and belief in the true gospel of Jesus Christ. The Church-wide
+teacher development program was developed to help accomplish this purpose. It
+is now in various stages of implementation in the stakes and the wards and in
+English-speaking missions throughout the world.
 
 The aim of the teacher development program is to improve teaching wherever
 teaching is done in priesthood quorums, auxiliary organizations, and in our
@@ -145,14 +144,15 @@ he admonished Peter in that great encounter on the seashore when he queried
 Peter: "... lovest thou me more than these?" And then, to the dismay of Peter,
 he repeated his instructions three times, saying, "Feed my lambs," and then,
 "Feed my sheep. ... Feed my sheep." ([John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).)
+21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14).)
 
 We must understand these instructions and our responsibility to "teach one
-another the doctrine of the kingdom" ([D&amp;C
-88:77](https://www.lds.org/scriptures/dc-testament/dc/88.77?lang=eng#76)), but
-to teach it effectively so that all of us, our children, our children's
-children, and generations yet unborn will be able to perceive and comprehend
-the true meaning of life as proclaimed by the Master, and then have a desire
-to live it and eventually gain exaltation in the kingdom of our Heavenly
-Father, in the name of Jesus Christ. Amen.
+another the doctrine of the kingdom" ([D&amp;C 88:77](/scriptures/dc-
+testament/dc/88.77?lang=eng#76)), but to teach it effectively so that all of
+us, our children, our children's children, and generations yet unborn will be
+able to perceive and comprehend the true meaning of life as proclaimed by the
+Master, and then have a desire to live it and eventually gain exaltation in
+the kingdom of our Heavenly Father, in the name of Jesus Christ. Amen.
+
+## References
 

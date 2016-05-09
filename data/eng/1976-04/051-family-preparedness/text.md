@@ -8,7 +8,7 @@ As I listened to their addresses, I kept thinking over and over of something
 the Savior said,"Why call ye me Lord, Lord, and do not the things which I
 say?" It rolled over and over and over in my mind: "Why call ye me, Lord,
 Lord, and do not the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).)
+6:46](/scriptures/nt/luke/6.46?lang=eng#45).)
 
 There are many people in the Church today who have failed to do, and continue
 to argue against doing, the things that are requested and suggested by this
@@ -16,8 +16,7 @@ great organization.
 
 The Lord said also, "Not every one that saith unto me, Lord, Lord, shall enter
 into the kingdom of heaven; but he that doeth the will of my Father which is
-in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).) And I was
+in heaven." ([Matt. 7:21](/scriptures/nt/matt/7.21?lang=eng#20).) And I was
 thinking that there are as many wards and branches in the Church as there are
 people in this room, one for one. And what great accomplishment there would be
 if every bishop and every branch president in all the world, wherever it's
@@ -61,9 +60,9 @@ six days a week." That willpower apparently is the most important.
 There are some countries which prohibit savings or surpluses. We do not
 understand it, but it is true. And we honor, obey, and sustain the laws of the
 country which is ours. (See [A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).) Where it
-is permitted, though, which is most of the world, we should listen to the
-counsel of the Brethren and to the Lord.
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).) Where it is permitted,
+though, which is most of the world, we should listen to the counsel of the
+Brethren and to the Lord.
 
 Recognizing that the family is the basic unit of both the Church and society
 generally, we call upon Latter-day Saints everywhere to strengthen and
@@ -136,11 +135,11 @@ at all, but are busybodies.
 
 "Now them that are such, we command and exhort by our Lord Jesus Christ, that
 with quietness they work, and eat their own bread." ([2 Thes. 3:8,
-10-12](https://www.lds.org/scriptures/nt/2-thes/3.8%2C10-12?lang=eng#7).)
+10-12](/scriptures/nt/2-thes/3.8,10-12?lang=eng#7).)
 
 "But if any provide not for his own, and specially for those of his own house,
 he hath denied the faith, and is worse [worse!] than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).)
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).)
 
 I'm so grateful for the inspiration of the Brethren who have helped once again
 to fasten our attention on the particular matters involved in the Priesthood
@@ -247,4 +246,6 @@ Romney to you and say that this is a gospel of action and whatever we learn we
 should put into action. God bless us that we may have the determination to
 carry forward all of these commandments of the Lord which have been conveyed
 to us. I say this in the name of Jesus Christ. Amen.
+
+## References
 

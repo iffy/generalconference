@@ -2,7 +2,7 @@
 
 More than 6,000 years ago, Father Adam received the commandment, "In the sweat
 of thy face shalt thou eat bread." ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18).)
+3:19](/scriptures/ot/gen/3.19?lang=eng#18).)
 
 Some 2,700 years ago, a Greek poet observed that "in front of excellence the
 immortal gods have put sweat, and long and steep is the way to it." (Hesiod,
@@ -18,7 +18,7 @@ now," "I can't wait that long" coming from our young people. The ugly disease
 of "nothing to do" is growing in epidemic proportions among us. It undermines
 the basic fabric of our nations. The prophet Ezekiel clearly defined iniquity
 as an "abundance of idleness." ([Ezek.
-16:49](https://www.lds.org/scriptures/ot/ezek/16.49?lang=eng#48).)
+16:49](/scriptures/ot/ezek/16.49?lang=eng#48).)
 
 We are what we are as a people because our ancestors were not afraid of
 honest, hard work. Our forefathers understood the necessity of it; sheer
@@ -29,9 +29,9 @@ whatever it takes." That means, "I'll work hard, with integrity, to achieve my
 goal."
 
 Hard work is a blessing of God. It involves going after it "with all your
-heart, might, mind and strength." ([D&amp;C
-4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1).) That
-alone is the difference between the average and the excellent.
+heart, might, mind and strength." ([D&amp;C 4:2](/scriptures/dc-
+testament/dc/4.2?lang=eng#1).) That alone is the difference between the
+average and the excellent.
 
 Great athletes are hard workers. Points, rebounds, assists, tackles, goals,
 and home runs are all the result of long hours of painstaking practice and
@@ -87,7 +87,7 @@ from hard work. We must work smarter and much harder."
 
 The prophet Alma said it very well while glorying in the success of Ammon and
 his brethren. He said, "Behold, they have labored exceedingly." ([Alma
-29:15](https://www.lds.org/scriptures/bofm/alma/29.15?lang=eng#14).)
+29:15](/scriptures/bofm/alma/29.15?lang=eng#14).)
 
 That is a pure definition of work.
 
@@ -131,4 +131,6 @@ Young men, learn it and do it. Let it become a part of you.
 
 God lives, and I know it. This is his work, and he expects each of us to do
 it. In the name of Jesus Christ, amen.
+
+## References
 

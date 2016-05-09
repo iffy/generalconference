@@ -21,7 +21,7 @@ the work.
 But it is sad and disappointing to see the names of young men in many wards
 not able to take advantage of the divine direction: "Send forth the elders of
 my church unto the nations; ... the islands of the sea; ... unto foreign lands;
-call upon all nations." ([D&amp;C 133:8](https://www.lds.org/scriptures/dc-
+call upon all nations." ([D&amp;C 133:8](/scriptures/dc-
 testament/dc/133.8?lang=eng#7).) Some of our choice young men have been caught
 up in the ways of a permissive society.
 
@@ -56,7 +56,7 @@ actions involving young women are most disappointing. Some are even ugly and
 are far, far different from what is expected of you. The Savior knew so well
 our weaknesses. He warned: "Watch and pray, that ye enter not into temptation:
 the spirit ... is willing, but the flesh is weak." ([Matt.
-26:41](https://www.lds.org/scriptures/nt/matt/26.41?lang=eng#40).)
+26:41](/scriptures/nt/matt/26.41?lang=eng#40).)
 
 Young women, lift the tenor of your association with our young men now
 preparing to be worthy so their bishops will be impressed to call them on
@@ -81,22 +81,20 @@ persons they admire. You may be such a person. In a matter of months these
 young men will become missionaries and will be blessed so as to be able to
 teach investigators by the Spirit. The Lord said, "And the Spirit shall be
 given ... by the prayer of faith; and if ye receive not the Spirit ye shall not
-teach." ([D&amp;C 42:14](https://www.lds.org/scriptures/dc-
-testament/dc/42.14?lang=eng#13).) Our missionaries teach and testify by the
-Spirit. But they must be in tune with the Lord. Hoping for the Spirit is not
-enough. Praying is not enough. Missionaries must do what the Lord requires:
-live the commandments, be clean, be wholesome in deed and thoughts. "The Lord
-hath said he dwelleth not in unholy temples." ([Alma
-34:36](https://www.lds.org/scriptures/bofm/alma/34.36?lang=eng#35).)
+teach." ([D&amp;C 42:14](/scriptures/dc-testament/dc/42.14?lang=eng#13).) Our
+missionaries teach and testify by the Spirit. But they must be in tune with
+the Lord. Hoping for the Spirit is not enough. Praying is not enough.
+Missionaries must do what the Lord requires: live the commandments, be clean,
+be wholesome in deed and thoughts. "The Lord hath said he dwelleth not in
+unholy temples." ([Alma 34:36](/scriptures/bofm/alma/34.36?lang=eng#35).)
 
 "Who shall ascend into the hill of the Lord? or who shall stand in his holy
 place?
 
 "He that hath clean hands, and a pure heart." ([Ps.
-24:3-4](https://www.lds.org/scriptures/ot/ps/24.3-4?lang=eng#2).) The Psalmist
-is teaching the necessity of clean actions that comply with divine law--a pure
-heart, pure thoughts, a desire to live in harmony with the Lord and to love
-Him.
+24:3-4](/scriptures/ot/ps/24.3-4?lang=eng#2).) The Psalmist is teaching the
+necessity of clean actions that comply with divine law--a pure heart, pure
+thoughts, a desire to live in harmony with the Lord and to love Him.
 
 While serving as a mission president I asked a missionary who was having
 difficulty developing the spirit of his calling to go for a drive. We drove
@@ -108,16 +106,16 @@ missionary virtually come to life with the spirit of his calling.
 Most missionary concerns are worthiness concerns, the product of their dating
 and social activities. The Lord's instruction to "Go ye into all the world,
 and preach ... to every creature" ([Mark
-16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14)) involves us
-all--all who have taken upon themselves the name of Christ. All members of His
-Church--the old, the young--everyone is involved. Young men at an appropriate
-age are called by the prophet to leave home and go out in the world. Others
-serve and spread the gospel at home. Some give financial support. But every
-member is obligated to be part of the Lord's plan to spread and share the
-gospel. You young women have a vital role in this preparation and pretraining
-of our young men. If you live worthily and develop a strong, positive self-
-image of your divine role of joint-inheritor of the fulness of all things, you
-will be a blessing to the young men who may come under your influence.
+16:15](/scriptures/nt/mark/16.15?lang=eng#14)) involves us all--all who have
+taken upon themselves the name of Christ. All members of His Church--the old,
+the young--everyone is involved. Young men at an appropriate age are called by
+the prophet to leave home and go out in the world. Others serve and spread the
+gospel at home. Some give financial support. But every member is obligated to
+be part of the Lord's plan to spread and share the gospel. You young women
+have a vital role in this preparation and pretraining of our young men. If you
+live worthily and develop a strong, positive self-image of your divine role of
+joint-inheritor of the fulness of all things, you will be a blessing to the
+young men who may come under your influence.
 
 In an article in the October 1977 _New Era_ entitled "Treat Everyone As If He
 Were a Mormon" (pp. 42-43), a group of young people talk about their sense of
@@ -174,23 +172,22 @@ As we reflect on life's real goal, what should our desire be? The Lord, in a
 rather personal revelation given through the Prophet Joseph Smith in 1829 to
 John Whitmer, said, "The thing which will be of the most worth unto you will
 be to declare repentance unto this people, that you may bring souls unto me."
-([D&amp;C 15:6](https://www.lds.org/scriptures/dc-
-testament/dc/15.6?lang=eng#5).)
+([D&amp;C 15:6](/scriptures/dc-testament/dc/15.6?lang=eng#5).)
 
 President Kimball has asked not only for more missionaries but that they
 arrive in the field better prepared and with a desire to go and serve. The
 Lord said, "If ye have desires to serve God ye are called to the work."
 Missionaries are expected to serve "with all [their] heart[s], might, mind[s]
-and strength." ([D&amp;C 4:3, 2](https://www.lds.org/scriptures/dc-
-testament/dc/4.3%2C2?lang=eng#2).) Wouldn't it be a great source of
-satisfaction to you young women to know that you have helped a young man
-visualize the majesty of his call and have encouraged him to become an
-outstanding modern missionary. Many of our young men are. We need them all to
-be that kind of missionary. The Lord has said, "The field is ... already to
-harvest; ... he that thrusteth in his sickle with his might, ... bringeth
-salvation to his soul." ([D&amp;C 4:4](https://www.lds.org/scriptures/dc-
-testament/dc/4.4?lang=eng#3).) President Vaughn Featherstone of the Texas San
-Antonio Mission remarked: "Let's not use a sickle. Let's use a combine."
+and strength." ([D&amp;C 4:3, 2](/scriptures/dc-
+testament/dc/4.3,2?lang=eng#2).) Wouldn't it be a great source of satisfaction
+to you young women to know that you have helped a young man visualize the
+majesty of his call and have encouraged him to become an outstanding modern
+missionary. Many of our young men are. We need them all to be that kind of
+missionary. The Lord has said, "The field is ... already to harvest; ... he that
+thrusteth in his sickle with his might, ... bringeth salvation to his soul."
+([D&amp;C 4:4](/scriptures/dc-testament/dc/4.4?lang=eng#3).) President Vaughn
+Featherstone of the Texas San Antonio Mission remarked: "Let's not use a
+sickle. Let's use a combine."
 
 President Kimball has said, "If there were no converts the Church would
 shrivel and die." ("It Becometh Every Man," _Ensign, _Oct. 1977, p. 3.) You
@@ -198,9 +195,9 @@ young women have a vital role in converting the world to the gospel of Jesus
 Christ. You can encourage, influence, and even shield a young man at a
 critical time in his life. The Lord holds to this promise: "Eye hath not seen,
 nor ear heard ... the things which God hath prepared for them that love him."
-([1 Cor. 2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8).) You
-demonstrate your love for the Lord when you help a young man remain worthy and
-prepared to serve the Lord.
+([1 Cor. 2:9](/scriptures/nt/1-cor/2.9?lang=eng#8).) You demonstrate your love
+for the Lord when you help a young man remain worthy and prepared to serve the
+Lord.
 
 In Maxwell Anderson's play about the youthful Joan of Arc, she says, "Every
 woman gives her life for what she believes. Sometimes people believe in little
@@ -212,16 +209,18 @@ of Lorraine," New York: Dramatists' Play Service, 1945, act 2, scene 4.)
 
 Let there radiate from you young women a spirit and influence that will have
 the power to cause "a mighty change" ([Alma
-5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13)) when needed
-in the hearts of our young men. May there come forth through your efforts
-generations of young men in the Church who have spiritually been born of God,
-who reflect his Spirit in their countenances. You possess a divine key given
-by the Creator to lock or unlock, destroy or bless, that can make young men
-become as great as they ought to be.
+5:14](/scriptures/bofm/alma/5.14?lang=eng#13)) when needed in the hearts of
+our young men. May there come forth through your efforts generations of young
+men in the Church who have spiritually been born of God, who reflect his
+Spirit in their countenances. You possess a divine key given by the Creator to
+lock or unlock, destroy or bless, that can make young men become as great as
+they ought to be.
 
 God's work cannot fail. His work and purpose will succeed. In the end
 righteousness must and will prevail. I challenge you, the young women of the
 Church, to fulfill your duty to assist in presenting to President Kimball and
 the Lord young men who are worthy to testify of Christ and the restoration of
 His gospel. To this truth I testify in the holy name of Jesus Christ. Amen.
+
+## References
 

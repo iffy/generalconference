@@ -9,8 +9,8 @@ prepare them, and then when grown send them forth to their allotted destiny.
 We all know the story of Joseph, of his enslavement, of his prophetic gift of
 interpretation, of his great temptation by the wife of Potiphar when he set
 the example for the youth of all future ages and "got him out." ([Gen.
-39:12](https://www.lds.org/scriptures/ot/gen/39.12?lang=eng#11).) And we know
-of his success in saving his people from famine.
+39:12](/scriptures/ot/gen/39.12?lang=eng#11).) And we know of his success in
+saving his people from famine.
 
 I have often wondered how he felt crouching in that pit and looking fearfully
 up at the leering faces of his blood brothers and at other strange faces as
@@ -27,11 +27,11 @@ see him arise and go to Eli, asking if he called. You will notice the
 impatience of Eli until he finally realized who was speaking to Samuel. After
 the third awakening, you will hear Eli say, "Go, lie down: and it shall be, if
 he call thee, that thou shalt say, Speak, Lord; for thy servant heareth." ([1
-Sam. 3:9](https://www.lds.org/scriptures/ot/1-sam/3.9?lang=eng#8).) Remember,
-you are living ten hundred years before Christ when people knew that the Lord
-spoke intelligible words of instruction and reproof, as well as words of
-acceptance and praise. Of course, you will say to yourselves, "But Samuel was
-chosen to be a prophet."
+Sam. 3:9](/scriptures/ot/1-sam/3.9?lang=eng#8).) Remember, you are living ten
+hundred years before Christ when people knew that the Lord spoke intelligible
+words of instruction and reproof, as well as words of acceptance and praise.
+Of course, you will say to yourselves, "But Samuel was chosen to be a
+prophet."
 
 As with me, it will thrill you that the Lord takes a pure boy and teaches him
 the truth before he can be taught what uninspired men conceive to be truth.
@@ -40,13 +40,12 @@ prophets what he wants them to think and say rather than the thoughts of
 philosophical men. Remember what he said to Isaiah:
 
 "For my thoughts are not your thoughts, neither are your ways my ways, saith
-the Lord." ([Isa.
-55:8](https://www.lds.org/scriptures/ot/isa/55.8?lang=eng#7).)
+the Lord." ([Isa. 55:8](/scriptures/ot/isa/55.8?lang=eng#7).)
 
 In the case of Samuel, the Lord spoke His thoughts, not men's thoughts. Samuel
 heard the voice of the Lord. Would it have surprised you in that day to learn
 that sometime after hearing the voice of the Lord, Samuel saw the Lord. (See
-[1 Sam. 3:21](https://www.lds.org/scriptures/ot/1-sam/3.21?lang=eng#20).)
+[1 Sam. 3:21](/scriptures/ot/1-sam/3.21?lang=eng#20).)
 
 What do you suppose would have happened to Samuel if he had declared in the
 streets that he had heard the Lord without having the protection of the
@@ -98,8 +97,8 @@ as to which church was right. Even as a boy he knew that in such diversity of
 ideas and ordinances, not all could be the truth. He read the verse in James
 which says, "If any of you lack wisdom, let him ask of God, that giveth to all
 men liberally, and upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) The words
-stirred him as much as the voice of the Lord stirred Samuel.
+1:5](/scriptures/nt/james/1.5?lang=eng#4).) The words stirred him as much as
+the voice of the Lord stirred Samuel.
 
 Many have read that verse and received comfort. Many have followed the
 admonition and have asked for wisdom. As they have had faith, they have
@@ -128,9 +127,8 @@ God for nearly 1,800 years were dispersed. There stood God, the Father of us
 all, glorious beyond description, and by his side the glorified resurrected
 Lord Jesus Christ. Joseph saw that each was a personage--that men are truly
 formed in the image and likeness of God. The Eternal Father spoke: "This is My
-Beloved Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) Joseph
-heard.
+Beloved Son. Hear Him!" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
+Joseph heard.
 
 He was told the true church was nowhere on the earth. He was told that _all_
 had gone astray, and that no man had the power to speak for the Lord, that all
@@ -178,4 +176,6 @@ Saints.
 The power and the authority of this kingdom on earth rest upon President
 Spencer W. Kimball. I bear you this, my solemn witness--Joseph Smith was a
 prophet. President Kimball is a prophet--in the name of Jesus Christ. Amen.
+
+## References
 

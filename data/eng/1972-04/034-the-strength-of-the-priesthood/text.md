@@ -14,10 +14,10 @@ They called on a young man to speak first. He announced his text from the
 prayer of the Master when he prayed for his disciples: "I pray not that thou
 shouldest take them [my disciples] out of the world, but that thou shouldest
 keep them from the evil." ([John
-17:15](https://www.lds.org/scriptures/nt/john/17.15?lang=eng#14).) Then this
-lad delivered one of the finest talks on chastity that I have ever heard. He
-closed by saying, "Rather than lose my virtue, I would die and have my body
-sent home in a pine box and my dog tags follow after."
+17:15](/scriptures/nt/john/17.15?lang=eng#14).) Then this lad delivered one of
+the finest talks on chastity that I have ever heard. He closed by saying,
+"Rather than lose my virtue, I would die and have my body sent home in a pine
+box and my dog tags follow after."
 
 There was a hush over that audience of servicemen, and then he bore his
 testimony; and as he started to leave the pulpit, he stumbled and fell, draped
@@ -175,4 +175,6 @@ General Authorities to know that is true; and I bear witness that the Lord is
 guiding this church, and we see daily and constantly in the councils of this
 church that there is divine guidance. I bear that humble witness in the name
 of the Lord Jesus Christ. Amen.
+
+## References
 

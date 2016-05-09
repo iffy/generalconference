@@ -5,8 +5,7 @@ message. I have chosen to speak about maintaining spirituality. This subject
 came to mind as I pondered the admonition of Jacob, Nephi's brother:
 
 "Remember, to be carnally-minded is death, and to be spiritually-minded is
-life eternal" ([2 Ne.
-9:39](https://www.lds.org/scriptures/bofm/2-ne/9.39?lang=eng#38)).
+life eternal" ([2 Ne. 9:39](/scriptures/bofm/2-ne/9.39?lang=eng#38)).
 
 President McKay defined spirituality as "the consciousness of victory over
 self, and of communion with the infinite. Spirituality," he said, "impels one
@@ -17,28 +16,25 @@ Llewelyn R. McKay, Salt Lake City: Deseret Book Co., 1971, p. 99).
 
 Through the Prophet Joseph Smith, the Lord revealed the truth that "all spirit
 is matter, but it is more fine or pure, and can only be discerned by purer
-eyes" ([D&amp;C 131:7](https://www.lds.org/scriptures/dc-
-testament/dc/131.7?lang=eng#6)).
+eyes" ([D&amp;C 131:7](/scriptures/dc-testament/dc/131.7?lang=eng#6)).
 
 Abraham said: "The Lord had shown unto me ... the intelligences that were
 organized before the world was; ...
 
 "And God saw these souls that they were good, ... for he stood among those that
-were spirits" ([Abr.
-3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21)).
+were spirits" ([Abr. 3:22-23](/scriptures/pgp/abr/3.22-23?lang=eng#21)).
 
 These spirits were the offspring of God, who, according to John, is also a
 spirit. He--that is, John--wrote:
 
 "God is a Spirit: and they that worship him must worship him in spirit" ([John
-4:24](https://www.lds.org/scriptures/nt/john/4.24?lang=eng#23)).
+4:24](/scriptures/nt/john/4.24?lang=eng#23)).
 
 Although God's spirit is clothed in "a body of flesh and bones as tangible as
-man's" ([D&amp;C 130:22](https://www.lds.org/scriptures/dc-
-testament/dc/130.22?lang=eng#21)), his body is neither temporal nor carnal,
-for, says he, "all things unto me are spiritual" ([D&amp;C
-29:34](https://www.lds.org/scriptures/dc-testament/dc/29.34?lang=eng#33)). "I
-... created [all things] by the word of my power, which is the power of my
+man's" ([D&amp;C 130:22](/scriptures/dc-testament/dc/130.22?lang=eng#21)), his
+body is neither temporal nor carnal, for, says he, "all things unto me are
+spiritual" ([D&amp;C 29:34](/scriptures/dc-testament/dc/29.34?lang=eng#33)).
+"I ... created [all things] by the word of my power, which is the power of my
 Spirit.
 
 "... both spiritual and temporal--
@@ -47,21 +43,20 @@ Spirit.
 again, first temporal, and secondly spiritual, which is the last of my work--
 
 "... all things unto me are spiritual, and not at any time have I given unto you
-a law which was temporal" ([D&amp;C 29:30-32,
-34](https://www.lds.org/scriptures/dc-
-testament/dc/29.30-32%2C34?lang=eng#29)).
+a law which was temporal" ([D&amp;C 29:30-32, 34](/scriptures/dc-
+testament/dc/29.30-32,34?lang=eng#29)).
 
 Being in tune with God is being spiritual. Man himself is naturally spiritual.
 His spirit is a child of God. The spirits of "the inhabitants [of all worlds]
-are begotten sons and daughters unto God" ([D&amp;C
-76:24](https://www.lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23)).
+are begotten sons and daughters unto God" ([D&amp;C 76:24](/scriptures/dc-
+testament/dc/76.24?lang=eng#23)).
 
 Furthermore, "the Spirit [of the Lord] giveth light to every man that cometh
 into the world; and the Spirit enlighteneth every man through the world, that
 hearkeneth to the voice of the Spirit.
 
 "And every one that hearkeneth to the voice of the Spirit cometh unto God,
-even the Father" ([D&amp;C 84:46-47](https://www.lds.org/scriptures/dc-
+even the Father" ([D&amp;C 84:46-47](/scriptures/dc-
 testament/dc/84.46-47?lang=eng#45)).
 
 "Every spirit of man was innocent in the beginning; and God having redeemed
@@ -69,18 +64,17 @@ man from the fall, men became again, in their infant state, innocent before
 God.
 
 "And that wicked one cometh and taketh away light and truth" ([D&amp;C
-93:38-39](https://www.lds.org/scriptures/dc-
-testament/dc/93.38-39?lang=eng#37)).
+93:38-39](/scriptures/dc-testament/dc/93.38-39?lang=eng#37)).
 
 This loss of spirituality began with the children of Adam and Eve when they
 refused to obey the teachings of their parents.
 
 You will recall that Adam was taught the gospel by an angel (see [Moses
-5:6-8](https://www.lds.org/scriptures/pgp/moses/5.6-8?lang=eng#5)), and that
-thereafter "he was caught away by the Spirit of the Lord," and was baptized
-and received the Holy Ghost. "And thus he was born of the Spirit" (see [Moses
-6:64-65](https://www.lds.org/scriptures/pgp/moses/6.64-65?lang=eng#63); see
-also [Moses 5:10](https://www.lds.org/scriptures/pgp/moses/5.10?lang=eng#9)).
+5:6-8](/scriptures/pgp/moses/5.6-8?lang=eng#5)), and that thereafter "he was
+caught away by the Spirit of the Lord," and was baptized and received the Holy
+Ghost. "And thus he was born of the Spirit" (see [Moses
+6:64-65](/scriptures/pgp/moses/6.64-65?lang=eng#63); see also [Moses
+5:10](/scriptures/pgp/moses/5.10?lang=eng#9)).
 
 "And Adam and Eve blessed the name of God, and they made all things known unto
 their sons and their daughters.
@@ -89,8 +83,7 @@ their sons and their daughters.
 of God; and he commanded them, saying: Believe it not [that is, the teachings
 of their parents]; and they believed it not, and they loved Satan more than
 God. And men began from that time forth to be carnal, sensual, and devilish"
-([Moses
-5:12-13](https://www.lds.org/scriptures/pgp/moses/5.12-13?lang=eng#11)).
+([Moses 5:12-13](/scriptures/pgp/moses/5.12-13?lang=eng#11)).
 
 Spirituality comes by faith, repentance, baptism, and reception of the Holy
 Ghost. One who has the companionship of the Holy Ghost is in harmony with God.
@@ -101,15 +94,14 @@ A sure way for us to do this is to learn what our duties are and perform them.
 They include obeying the first and second great commandments: "Thou shalt love
 the Lord thy God with all thy heart, and with all thy soul, and with all thy
 mind" and "Thou shalt love thy neighbour as thyself" ([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36)). They also
-include obedience to the Ten Commandments and the Sermon on the Mount,
-implementing the Articles of Faith, and prayer.
+39](/scriptures/nt/matt/22.37,39?lang=eng#36)). They also include obedience to
+the Ten Commandments and the Sermon on the Mount, implementing the Articles of
+Faith, and prayer.
 
 As to the importance of prayer in maintaining spirituality, it is interesting
 to note that the first recorded commandment Adam and Eve received from the
 Lord, following their expulsion from the garden, was "that they should worship
-the Lord their God" ([Moses
-5:5](https://www.lds.org/scriptures/pgp/moses/5.5?lang=eng#4)).
+the Lord their God" ([Moses 5:5](/scriptures/pgp/moses/5.5?lang=eng#4)).
 
 The next heavenly being who spoke to Adam was the angel who told him that the
 sacrifice he was offering was "a similitude of the sacrifice of the Only
@@ -117,8 +109,7 @@ Begotten of the Father. ...
 
 "Wherefore," he added, "thou shalt do all that thou doest in the name of the
 Son, and thou shalt repent and call upon God in the name of the Son
-forevermore" ([Moses
-5:7-8](https://www.lds.org/scriptures/pgp/moses/5.7-8?lang=eng#6)).
+forevermore" ([Moses 5:7-8](/scriptures/pgp/moses/5.7-8?lang=eng#6)).
 
 From then until now, no divine commandment has been more frequently repeated
 than the commandment to pray in the name of the Lord Jesus Christ.
@@ -133,7 +124,7 @@ he had done, and did call upon the name of the Lord for his brethren who were
 with him. And the Lord said unto him: I will forgive thee and thy brethren of
 their sins; but thou shalt not sin any more, for ye shall remember that my
 Spirit will not always strive with man" ([Ether
-2:14-15](https://www.lds.org/scriptures/bofm/ether/2.14-15?lang=eng#13)).
+2:14-15](/scriptures/bofm/ether/2.14-15?lang=eng#13)).
 
 It was not very long thereafter that the brother of Jared prayed with such
 faith that the Lord Jesus Christ, then a premortal spirit, appeared to him,
@@ -141,8 +132,7 @@ and said: "Behold, I am Jesus Christ. ...
 
 "... this body, which ye now behold, is the body of my spirit; ... and even as I
 appear unto thee to be in the spirit will I appear unto my people in the
-flesh" ([Ether 3:14,
-16](https://www.lds.org/scriptures/bofm/ether/3.14%2C16?lang=eng#13)).
+flesh" ([Ether 3:14, 16](/scriptures/bofm/ether/3.14,16?lang=eng#13)).
 
 Another convincing evidence of the power of prayer in helping one to maintain
 spirituality is the account given by Enos, Jacob's son, who wrote:
@@ -177,7 +167,7 @@ my whole soul unto God for them.
 "And while I was thus struggling in the spirit, behold, the voice of the Lord
 came into my mind again, saying: I will visit thy brethren according to their
 diligence in keeping my commandments" ([Enos
-1:2-10](https://www.lds.org/scriptures/bofm/enos/1.2-10?lang=eng#1)).
+1:2-10](/scriptures/bofm/enos/1.2-10?lang=eng#1)).
 
 Searching the scriptures is another powerful assist in maintaining
 spirituality. Alma bears witness to this in his account of the miraculous
@@ -190,26 +180,24 @@ that they might know the word of God.
 "But this is not all; they had given themselves to much prayer, and fasting;
 therefore they had the spirit of prophecy, and the spirit of revelation, and
 when they taught, they taught with power and authority of God" ([Alma
-17:2-3](https://www.lds.org/scriptures/bofm/alma/17.2-3?lang=eng#1)).
+17:2-3](/scriptures/bofm/alma/17.2-3?lang=eng#1)).
 
 Prayer and searching the scriptures are companion aids in both obtaining and
 maintaining spirituality.
 
 "Pray always," said the Lord to the Prophet Joseph, "that you may come off
 conqueror; yea, that you my conquer Satan, and that you may escape the hands
-of the servants of Satan that do uphold his work" ([D&amp;C
-10:5](https://www.lds.org/scriptures/dc-testament/dc/10.5?lang=eng#4)).
+of the servants of Satan that do uphold his work" ([D&amp;C 10:5](/scriptures
+/dc-testament/dc/10.5?lang=eng#4)).
 
 Concerning the scriptures, John reports that Jesus said, "Search the
 scriptures; for in them ye think ye have eternal life: and they are they which
-testify of me" ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38)).
+testify of me" ([John 5:39](/scriptures/nt/john/5.39?lang=eng#38)).
 
 The purpose of the sacrament is to promote the maintenance of spirituality.
 Both the revealed prayers over the bread and over the water contain the
 phrase, "that they [who partake] may ... have his Spirit to be with them" (see
-[D&amp;C 20:77, 79](https://www.lds.org/scriptures/dc-
-testament/dc/20.77%2C79?lang=eng#76)).
+[D&amp;C 20:77, 79](/scriptures/dc-testament/dc/20.77,79?lang=eng#76)).
 
 In a revelation recorded in section 59 of the Doctrine and Covenants, given
 through the Prophet Joseph Smith 7 August 1831 for the guidance of the Saints
@@ -295,7 +283,7 @@ commandments.
 reward, even peace in this world, and eternal life in the world to come.
 
 "I, the Lord, have spoken it, and the Spirit beareth record" ([D&amp;C
-59:1-24](https://www.lds.org/scriptures/dc-testament/dc/59.1-24?lang=eng#0)).
+59:1-24](/scriptures/dc-testament/dc/59.1-24?lang=eng#0)).
 
 Spirituality, brothers and sisters, will come to all who will follow this
 pattern, for the Lord himself has said: "It shall come to pass that every soul
@@ -306,10 +294,11 @@ my voice, and keepeth my commandments, shall see my face and know that I am;
 world;
 
 "And that I am in the Father, and the Father in me, and the Father and I are
-one" ([D&amp;C 93:1-3](https://www.lds.org/scriptures/dc-
-testament/dc/93.1-3?lang=eng#0)).
+one" ([D&amp;C 93:1-3](/scriptures/dc-testament/dc/93.1-3?lang=eng#0)).
 
 Such is the pattern, my beloved brothers and sisters, for maintaining
 spirituality. May we all succeed in attaining it and pleasing the Lord and
 find him, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

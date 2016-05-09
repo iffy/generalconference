@@ -5,17 +5,12 @@ weak, lift up the hands which hang down, and strengthen the feeble knees."
 (D&amp;C 81:5.) As the father of the ward, he is looked to for answers to a
 whole range of human problems:
 
-  * To an unemployed father--a job
-
-  * To a family home gutted by fire--furniture and clothing
-
-  * To a grateful recipient harvesting the corn crop--meaningful work
-
-  * To an unwed mother--a new home and loving parents
-
-  * To an emotionally disturbed couple--a trained therapist
-
-  * To a willing but unemployable member--dignity through labor
+  * To an unemployed father--a job 
+  * To a family home gutted by fire--furniture and clothing 
+  * To a grateful recipient harvesting the corn crop--meaningful work 
+  * To an unwed mother--a new home and loving parents 
+  * To an emotionally disturbed couple--a trained therapist 
+  * To a willing but unemployable member--dignity through labor 
 
 Each bishop knows that ministering to the temporal needs of stricken members
 awakens in him a spark of the divine nature. The Savior taught us that all
@@ -39,12 +34,12 @@ to the poor, and the needy, and the sick, and the afflicted; ...
 "And thus, in their prosperous circumstances, they did not send away any who
 were naked, or that were hungry, or that were athirst, or that were sick, or
 that had not been nourished." ([Alma 1:27,
-30](https://www.lds.org/scriptures/bofm/alma/1.27%2C30?lang=eng#26).)
+30](/scriptures/bofm/alma/1.27,30?lang=eng#26).)
 
 In this dispensation, the Lord has declared, "I give unto the church in these
 parts a commandment, that certain men among them shall be appointed. ... And
 they shall look to the poor and the needy, and administer to their relief that
-they shall not suffer." ([D&amp;C 38:34-35](https://www.lds.org/scriptures/dc-
+they shall not suffer." ([D&amp;C 38:34-35](/scriptures/dc-
 testament/dc/38.34-35?lang=eng#33).)
 
 From then until now, the Lord has patiently allowed us to learn the principles
@@ -87,17 +82,12 @@ store where food and clothing may be obtained on a bishop's order. However, as
 members' needs have expanded, the Storehouse Resource System has broadened to
 include:
 
-  * Employment services
-
-  * Bishops storehouses
-
-  * Production projects
-
-  * LDS Social Service
-
-  * Deseret Industries
-
-  * Fast offerings and other welfare resources
+  * Employment services 
+  * Bishops storehouses 
+  * Production projects 
+  * LDS Social Service 
+  * Deseret Industries 
+  * Fast offerings and other welfare resources 
 
 Bishops may now provide clothing, shelter, food, medical assistance,
 employment, adoption and foster care services, and professional therapy for
@@ -216,8 +206,8 @@ Commentary,_ vol. I, Salt Lake City: Bookcraft, 1973, p. 675.) Now there is
 always some risk in speaking of prophetic events in connection with welfare
 planning because there are those who jump to speculative conclusions. But the
 Lord gives us prophecy that we might prepare ourselves: for he said, "If ye
-are prepared ye shall not fear." ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+are prepared ye shall not fear." ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29).)
 
 The Storehouse Resource System enables us to apply the principles of
 preparation, love, service, sacrifice, and consecration. It is only upon these
@@ -225,4 +215,6 @@ principles and these works that Zion is ever established. I bear witness that
 while we now face and will always face difficult challenges, this is God's
 kingdom; this is his work; we are his people; and our ultimate triumph through
 the Lord is assured, to which I testify in the name of Jesus Christ. Amen.
+
+## References
 

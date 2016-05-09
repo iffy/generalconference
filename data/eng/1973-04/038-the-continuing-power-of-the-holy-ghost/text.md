@@ -26,7 +26,7 @@ of the Holy Ghost."
 Through modern revelation we are told that "the Father has a body of flesh and
 bones as tangible as man's, the Son also; but the Holy Ghost has not a body of
 flesh and bones, but is a personage of Spirit. Were it not so, the Holy Ghost
-could not dwell in us." ([D&amp;C 130:22](https://www.lds.org/scriptures/dc-
+could not dwell in us." ([D&amp;C 130:22](/scriptures/dc-
 testament/dc/130.22?lang=eng#21).)
 
 This is the simple and beautiful conception of the Godhead as taught by The
@@ -35,30 +35,27 @@ Church of Jesus Christ of Latter-day Saints.
 When Nicodemus, one of the rulers of the Jews, came to Jesus at night and
 asked him what he should do to be saved, he was told, "Except a man be born of
 water and of the Spirit, he cannot enter into the kingdom of God." ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4).)
+3:5](/scriptures/nt/john/3.5?lang=eng#4).)
 
 In this dispensation we have been admonished to "go among this people, and say
 unto them, ... Repent and be baptized in the name of Jesus Christ, ... for the
 remission of sins; And whoso doeth this shall receive the gift of the Holy
 Ghost, by the laying on of the hands of the elders of the church." ([D&amp;C
-49:11, 13-14](https://www.lds.org/scriptures/dc-
-testament/dc/49.11%2C13-14?lang=eng#10).)
+49:11, 13-14](/scriptures/dc-testament/dc/49.11,13-14?lang=eng#10).)
 
 That this new birth included a spiritual regeneration was indicated when the
 Savior explained, "That which is born of the flesh is flesh; and that which is
 born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be
-born again." ([John
-3:6:7](https://www.lds.org/scriptures/nt/john/3.6%2C7?lang=eng#5).)
+born again." ([John 3:6:7](/scriptures/nt/john/3.6,7?lang=eng#5).)
 
 Faith in the Lord Jesus Christ, repentance, and baptism by water are
 prerequisites to receiving the Holy Ghost.
 
 The apostle Paul, in writing the Corinthian saints, stated: "... know ye not
 that your body is the temple of the Holy Ghost which is in you ..." ([1 Cor.
-6:19](https://www.lds.org/scriptures/nt/1-cor/6.19?lang=eng#18)), and "If any
-man defile the temple of God, him shall God destroy; for the temple of God is
-holy, which temple ye are" ([1 Cor.
-3:17](https://www.lds.org/scriptures/nt/1-cor/3.17?lang=eng#16)).
+6:19](/scriptures/nt/1-cor/6.19?lang=eng#18)), and "If any man defile the
+temple of God, him shall God destroy; for the temple of God is holy, which
+temple ye are" ([1 Cor. 3:17](/scriptures/nt/1-cor/3.17?lang=eng#16)).
 
 To keep in tune with the Holy Ghost, we must keep our bodies clean in every
 respect.
@@ -80,8 +77,7 @@ of our existence?
 One of the chief functions of the Holy Ghost is to bear witness of God the
 Father and Jesus Christ, his Son. The apostle Paul, in writing to the
 Corinthian saints, told them that "no man can say that Jesus is the Lord, but
-by the Holy Ghost." ([1 Cor.
-12:3](https://www.lds.org/scriptures/nt/1-cor/12.3?lang=eng#2).)
+by the Holy Ghost." ([1 Cor. 12:3](/scriptures/nt/1-cor/12.3?lang=eng#2).)
 
 To know that God lives and that Jesus Christ is his Son and our Savior and
 Redeemer is absolutely essential to understand the purpose of life.
@@ -91,7 +87,7 @@ comforter. As the Savior was about to be crucified, he promised the disciples
 another comforter as he told them, "... the Comforter, which is the Holy Ghost,
 whom the Father will send in my name, he shall teach you all things, and bring
 all things to your remembrance, whatsoever I have said unto you." ([John
-14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25).)
+14:26](/scriptures/nt/john/14.26?lang=eng#25).)
 
 Thus we see that the Holy Ghost is a witness of the Father and the Son, a
 comforter, a teacher, and the bearer of valuable gifts of the spirit, such as
@@ -202,4 +198,6 @@ Yes, one of the great differences between The Church of Jesus Christ of
 Latter-day Saints and any other church is that the worthy members may enjoy
 the continuing power and gifts of the Holy Ghost. May we all seek these gifts
 and be worthy of them, I pray in the name of Jesus Christ. Amen.
+
+## References
 

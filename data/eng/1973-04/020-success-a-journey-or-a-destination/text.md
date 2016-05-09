@@ -35,10 +35,10 @@ power or wealth. A prophet in the Book of Mormon (where, by the way, the most
 succinct and unvarnished truths can be found) said, "But behold, all things
 have been done in the wisdom of him who knoweth all things. Adam fell that men
 might be; and men are, that they might have joy." ([2 Ne.
-2:24-25](https://www.lds.org/scriptures/bofm/2-ne/2.24-25?lang=eng#23).) If
-man is that he might have joy, then success to the Lord must include the
-attainment of real joy. On the basis of this definition, then, no one is
-really successful who is not happy.
+2:24-25](/scriptures/bofm/2-ne/2.24-25?lang=eng#23).) If man is that he might
+have joy, then success to the Lord must include the attainment of real joy. On
+the basis of this definition, then, no one is really successful who is not
+happy.
 
 If this be the Lord's definition, then there is precious little success in
 this world. Success in its practical application seems to be more a state of
@@ -118,10 +118,10 @@ happy.
 The Master emphasized this when he said, "For what is a man profited, if he
 gain the whole world, and lose his own soul? or what shall a man give in
 exchange for his soul?" ([Matt.
-16:26](https://www.lds.org/scriptures/nt/matt/16.26?lang=eng#25).) And then he
-added significantly, "But seek ye first the kingdom of God, and his
-righteousness; and all these things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).)
+16:26](/scriptures/nt/matt/16.26?lang=eng#25).) And then he added
+significantly, "But seek ye first the kingdom of God, and his righteousness;
+and all these things shall be added unto you." ([Matt.
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).)
 
 A young man came to see me recently who had been called by the Lord to fill a
 mission. He was a fine young man--handsome, strong, sharp--but he said he
@@ -132,16 +132,15 @@ life for a dune buggy; and he decided, perhaps, that was not exactly a fair
 exchange. I suggested to him that if he still wanted to drive a dune buggy
 after he had filled his mission, the Lord would probably let him do so, since
 the Lord always grants unto men "according to their desire." ([Alma
-29:4](https://www.lds.org/scriptures/bofm/alma/29.4?lang=eng#3).)
+29:4](/scriptures/bofm/alma/29.4?lang=eng#3).)
 
 We must not be misled. The only real joy and happiness we can know here upon
 this earth, as well as in the eternities, will come through obedience to the
 Lord's commandments. Alma's statement that "wickedness never was happiness"
-([Alma 41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)) is
-still valid. Again he has said, "If ye know these things, happy are ye if ye
-do them." ([John
-13:17](https://www.lds.org/scriptures/nt/john/13.17?lang=eng#16).) He did not
-say, but could have said, "Unhappy are ye if you don't."
+([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9)) is still valid. Again
+he has said, "If ye know these things, happy are ye if ye do them." ([John
+13:17](/scriptures/nt/john/13.17?lang=eng#16).) He did not say, but could have
+said, "Unhappy are ye if you don't."
 
 Sometimes young people get upset because they do not know what profession to
 follow. They feel it is so vital that they must have a revelation from the
@@ -164,8 +163,8 @@ you will ever do will be the work you do within the walls of your own home."
 (First Presidency Directive, April 14, 1969.) These statements and others
 update and reemphasize the Lord's injunction to Adam and Eve in the Garden
 when he commanded them to "be fruitful, and multiply and replenish the earth."
-([Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27).) Why
-should they do this? "That ye may have joy and rejoicing in your posterity."
+([Gen. 1:28](/scriptures/ot/gen/1.28?lang=eng#27).) Why should they do this?
+"That ye may have joy and rejoicing in your posterity."
 
 The Lord gives no commandments to his children that are not calculated to make
 them happy and thus successful. Therefore, he has added to the basic
@@ -211,8 +210,8 @@ to love the Lord, keep his commandments, and walk uprightly before him. When
 they do this, they have given these children the foundation for attaining real
 joy here in this world and in the world to come. For they will have eternal
 life, which is the ultimate success, and they will be made rich. "... Behold, he
-that has eternal life is rich." ([D&amp;C 6:7](https://www.lds.org/scriptures
-/dc-testament/dc/6.7?lang=eng#6).)
+that has eternal life is rich." ([D&amp;C 6:7](/scriptures/dc-
+testament/dc/6.7?lang=eng#6).)
 
 May this be our goal, and may we be willing to pay the price to obtain it and
 not be taken in by all the misinformation which is abroad in the land today
@@ -225,4 +224,6 @@ might have immortality and eternal life.
 
 May we follow him, and may we keep his commandments, and may we be successful,
 I pray in the name of Jesus Christ. Amen.
+
+## References
 

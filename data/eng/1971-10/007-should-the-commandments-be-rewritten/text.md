@@ -69,7 +69,7 @@ discovered or concocted that are not good for men.
 Obviously, all of them couldn't be catalogued. In the words of King Benjamin:
 "And finally, I cannot tell you all the things whereby ye may commit sin; for
 there are divers ways and means, even so many that I cannot number them."
-([Mosiah 4:29](https://www.lds.org/scriptures/bofm/mosiah/4.29?lang=eng#28).)
+([Mosiah 4:29](/scriptures/bofm/mosiah/4.29?lang=eng#28).)
 
 The Lord expects us to use wisdom and common sense and not quibble about what
 obviously isn't good for the body or mind or spirit or morals of man. And
@@ -90,10 +90,10 @@ uncleanness and excesses, all unwise habits and unbecoming conduct.
 Why quibble? Why not simply accept the facts and be honest with ourselves?
 
 "... fear God, and keep his commandments: for this is the whole duty of man."
-([Eccl. 12:13](https://www.lds.org/scriptures/ot/eccl/12.13?lang=eng#12).)
+([Eccl. 12:13](/scriptures/ot/eccl/12.13?lang=eng#12).)
 
 "If ye love me," said our Savior, "keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 But we ought also to keep the commandments simply as a favor to ourselves.
 
@@ -216,4 +216,6 @@ we accept the counsels God has given, and that we will fall somewhat,
 somewhere short of what we might have been, or might have had, if we run
 contrary to his commandments. God bless you and be with you always, I pray in
 the name of Jesus Christ. Amen.
+
+## References
 

@@ -1,4 +1,4 @@
-# Welfare Services: Past, Present, and Future
+# Welfare Services:Past, Present, and Future
 
 My dear brothers and sisters, it is always an inspiring experience to meet
 with you in the welfare session of general conference. When we consider the
@@ -10,57 +10,51 @@ The eternal principles upon which welfare services exist today were given by
 the Lord at the time of Adam. They have not changed over the centuries, nor
 will they change in the future. The Lord instructed Adam to subdue the earth
 with this charge: "In the sweat of thy face shalt thou eat bread" ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18)). Thus, in the
-beginning he taught the principles of work and self-reliance. In modern
-scripture the Lord declared: "Thou shalt not be idle; for he that is idle
-shall not eat the bread nor wear the garments of the laborer" ([D&amp;C
-42:42](https://www.lds.org/scriptures/dc-testament/dc/42.42?lang=eng#41)).
+3:19](/scriptures/ot/gen/3.19?lang=eng#18)). Thus, in the beginning he taught
+the principles of work and self-reliance. In modern scripture the Lord
+declared: "Thou shalt not be idle; for he that is idle shall not eat the bread
+nor wear the garments of the laborer" ([D&amp;C 42:42](/scriptures/dc-
+testament/dc/42.42?lang=eng#41)).
 
 To the head of the family he gave this latter-day charge: "And again, verily I
 say unto you, that every man who is obliged to provide for his own family, let
 him provide, and he shall in nowise lose his crown" ([D&amp;C
-75:28](https://www.lds.org/scriptures/dc-testament/dc/75.28?lang=eng#27)).
+75:28](/scriptures/dc-testament/dc/75.28?lang=eng#27)).
 
 After providing for our own, the Lord explained that our next duty is to the
 poor and distressed among us. In section 44 of the Doctrine and Covenants we
 read:
 
 "Behold, I say unto you, that ye must visit the poor and the needy and
-administer to their relief" ([D&amp;C 44:6](https://www.lds.org/scriptures/dc-
+administer to their relief" ([D&amp;C 44:6](/scriptures/dc-
 testament/dc/44.6?lang=eng#5)).
 
 Administering to the relief of our neighbor is born of pure love or charity.
 In his memorable letter to the Corinthians, Paul explained, "Though I speak
 with the tongues of men and of angels, and have not charity, I am become as
 sounding brass, or a tinkling cymbal" ([1 Cor.
-13:1](https://www.lds.org/scriptures/nt/1-cor/13.1?lang=eng#0)).
+13:1](/scriptures/nt/1-cor/13.1?lang=eng#0)).
 
 Moroni further explained: "Charity is the pure love of Christ, and it endureth
 forever; and whoso is found possessed of it at the last day, it shall be well
-with him" ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46)).
+with him" ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46)).
 
 By following the pure impulses of charity, members contribute resources to the
 Church from which the bishop may draw to help those in need. The Lord's charge
 to Bishop Whitney was to "travel round about and among all the churches,
 searching after the poor to administer to their wants by humbling the rich and
-the proud" ([D&amp;C 84:112](https://www.lds.org/scriptures/dc-
+the proud" ([D&amp;C 84:112](/scriptures/dc-
 testament/dc/84.112?lang=eng#111)).
 
 From these scriptures we learn that the Lord expects several basic things of
 his people:
 
-  1. He expects each individual to work and to provide for himself.
-
-  2. He expects each family to work together, to be independent and self-reliant.
-
-  3. He expects the husband and father to provide for his own.
-
-  4. He expects us as individuals and families to share our abundance with the poor and distressed.
-
-  5. He expects the bishop to search out the poor and the sick and to see that they are cared for.
-
-  6. And above all, he expects his people to have charity in their hearts for their fellowmen.
+  1. He expects each individual to work and to provide for himself. 
+  2. He expects each family to work together, to be independent and self-reliant. 
+  3. He expects the husband and father to provide for his own. 
+  4. He expects us as individuals and families to share our abundance with the poor and distressed. 
+  5. He expects the bishop to search out the poor and the sick and to see that they are cared for. 
+  6. And above all, he expects his people to have charity in their hearts for their fellowmen. 
 
 Since welfare services are the gospel in action, we know that these divine
 principles are unchanging. They are eternal.
@@ -145,8 +139,7 @@ possible, fuel; to have savings in reserve; and to possess basic production
 skills. This counsel has been given at least twice a year for all these years.
 Some have followed the counsel of the Brethren and are prepared, as were the
 five wise virgins. Some, like the foolish virgins, do not have enough oil in
-their lamps. (See [Matt.
-25:1-13](https://www.lds.org/scriptures/nt/matt/25.1-13?lang=eng#0).)
+their lamps. (See [Matt. 25:1-13](/scriptures/nt/matt/25.1-13?lang=eng#0).)
 
 A recent Church survey of a representative number of members in the United
 States indicates that in emergency circumstances--such as job loss, illness,
@@ -156,7 +149,7 @@ days. This is not even close to a year's supply. The survey also indicates
 that financial reserves are low. Only 17 percent could live for more than one
 year on their financial reserves if income were cut off; 45 percent reported
 they could only live for three months. The Lord says, "If ye are prepared ye
-shall not fear" ([D&amp;C 38:30](https://www.lds.org/scriptures/dc-
+shall not fear" ([D&amp;C 38:30](/scriptures/dc-
 testament/dc/38.30?lang=eng#29)). I suppose each of us knows into which
 category he falls. What a wonderful thing it would be if all were prepared.
 
@@ -178,11 +171,12 @@ not be weary; arise early, that your bodies and your minds may be invigorated.
 mantle, which is the bond of perfectness and peace._
 
 "Pray always, that ye may not faint, until I come. Behold, and lo, I will come
-quickly, and receive you unto myself" ([D&amp;C
-88:123-26](https://www.lds.org/scriptures/dc-
+quickly, and receive you unto myself" ([D&amp;C 88:123-26](/scriptures/dc-
 testament/dc/88.123-26?lang=eng#122); italics added).
 
 May we be blessed to provide the leadership throughout the Church that will
 cause the membership to be prepared to be received by the Lord when he comes,
 I pray in the name of Jesus Christ, amen.
+
+## References
 

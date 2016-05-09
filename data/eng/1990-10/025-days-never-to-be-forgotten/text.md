@@ -17,9 +17,9 @@ And now, official recognition of our Leningrad Branch in the Soviet Union.
 Who, except the Lord Himself, could have foreseen these historic events? It
 was He who declared, "This gospel of the kingdom shall be preached in all the
 world for a witness unto all nations." ([Matt.
-24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).) Surely the
-purposes of the Lord continue to unfold to our view if we but have eyes that
-truly see and hearts that know and feel.
+24:14](/scriptures/nt/matt/24.14?lang=eng#13).) Surely the purposes of the
+Lord continue to unfold to our view if we but have eyes that truly see and
+hearts that know and feel.
 
 Another transcendent blessing came the last weekend of August when a
 magnificent temple of the Lord was dedicated in Toronto, Ontario, Canada. In
@@ -64,7 +64,7 @@ Speakers recounted the history of the Church in the Toronto area, and the
 beautiful dedicatory prayer given at each session whispered peace. The words
 of Oliver Cowdery, spoken of another time, seemed to capture the spirit of the
 dedication: "These were days never to be forgotten." ([JS--H
-1:71](https://www.lds.org/scriptures/pgp/js-h/1.71?lang=eng#70), note.)
+1:71](/scriptures/pgp/js-h/1.71?lang=eng#70), note.)
 
 As we recount the history of the Church in eastern Canada, we come to
 appreciate the tender feelings of the members of the Church on having a temple
@@ -86,7 +86,7 @@ Joseph, your families are well; they are in mine hands, ...
 
 "Behold, ... I have much people in this place, in the regions round about; and
 an effectual door shall be opened ... in this eastern land." ([D&amp;C
-100:1-3](https://www.lds.org/scriptures/dc-testament/dc/100.1-3?lang=eng#0).)
+100:1-3](/scriptures/dc-testament/dc/100.1-3?lang=eng#0).)
 
 Toward the people, the Prophet evidenced the same kind feelings that the Lord
 had shown to him and Sidney Rigdon. Of them he makes entries in his journal,
@@ -237,8 +237,7 @@ When I reflect on the town of St. Thomas, I dwell not on the ward's hundreds
 of members and many dozens of families; rather, in memory I return to that
 sparse sacrament meeting in the lodge-hall basement and the Lord's promise,
 "Where two or three are gathered together in my name, there am I in the midst
-of them." ([Matt.
-18:20](https://www.lds.org/scriptures/nt/matt/18.20?lang=eng#19).)
+of them." ([Matt. 18:20](/scriptures/nt/matt/18.20?lang=eng#19).)
 
 Temples like the Toronto Temple are built with stone, glass, wood, and metal.
 But they are also a product of faith and an example of sacrifice. The funds to
@@ -290,9 +289,9 @@ Italian predominated, but there were also members from Greece, Hungary,
 Finland, Holland, Estonia, and Poland. Surely, Toronto is an example of the
 promise of the Lord found in Jeremiah: "I will take you one of a city, and two
 of a family, and I will bring you to Zion." ([Jer.
-3:14](https://www.lds.org/scriptures/ot/jer/3.14?lang=eng#13).) This He has
-done; and from this Zion called Toronto, the word now goes forth in these
-native tongues to the home nations of those He has gathered.
+3:14](/scriptures/ot/jer/3.14?lang=eng#13).) This He has done; and from this
+Zion called Toronto, the word now goes forth in these native tongues to the
+home nations of those He has gathered.
 
 When I prepared to leave Toronto following the concluding dedicatory session,
 I gazed upward toward heaven, that I might offer a silent prayer of gratitude
@@ -307,4 +306,6 @@ to family, homeward to God.
 
 That all of us may travel safely to our eternal home is my humble prayer. In
 the name of Jesus Christ, amen.
+
+## References
 

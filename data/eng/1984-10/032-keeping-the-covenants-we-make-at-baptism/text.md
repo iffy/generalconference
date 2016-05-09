@@ -41,7 +41,7 @@ have looked something like this beautiful place where we stood. I could almost
 hear John protesting, "I have need to be baptized of thee, and comest thou to
 me?" Then the quiet, calm reply of the Savior, "Suffer it to be so now: for
 thus it becometh us to fulfil all righteousness." ([Matt.
-3:14-15](https://www.lds.org/scriptures/nt/matt/3.14-15?lang=eng#13).)
+3:14-15](/scriptures/nt/matt/3.14-15?lang=eng#13).)
 
 And Jesus was baptized to fulfill the law and to give us the pattern to
 follow.
@@ -91,8 +91,8 @@ to be called his people, ... what have you against being baptized in the name of
 the Lord, as a witness before him that ye have entered into a covenant with
 him, That ye will serve him and keep his commandments, that he may pour out
 his Spirit more abundantly upon you?" ([Mosiah
-18:8-10](https://www.lds.org/scriptures/bofm/mosiah/18.8-10?lang=eng#7).) Then
-one by one Alma took them into the waters and baptized them.
+18:8-10](/scriptures/bofm/mosiah/18.8-10?lang=eng#7).) Then one by one Alma
+took them into the waters and baptized them.
 
 Baptism is the beginning of a new life for each one of us, a life of purpose.
 The Lord is very clear as to what it means to keep his commandments, come into
@@ -101,19 +101,18 @@ another's burdens, that they may be light;
 
 "Yea, and are willing to mourn with those that mourn; yea, and comfort those
 that stand in need of comfort." ([Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7).)
+18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7).)
 
 And, like Lisa, the eleven-year-old girl from England, his people are willing
 "to stand as witnesses of God at all times and in all things, and in all
-places." ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).) It is the
+places." ([Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).) It is the
 Lord's will that children at the age of eight _begin_ to be responsible for
 the kind of lives they lead. You girls who are ten and eleven, and all of us,
 must assume this same responsibility. In so doing we are becoming a Zion
 people, which the Doctrine and Covenants says are people who are "pure in
-heart." ([D&amp;C 97:21](https://www.lds.org/scriptures/dc-
-testament/dc/97.21?lang=eng#20).) After baptism we can live a new, more
-thoughtful life as described by the Christ.
+heart." ([D&amp;C 97:21](/scriptures/dc-testament/dc/97.21?lang=eng#20).)
+After baptism we can live a new, more thoughtful life as described by the
+Christ.
 
 Into our office come countless stories of the faithfulness of children who are
 keeping the promises they have made at baptism.
@@ -176,12 +175,11 @@ _And in my home above._
 In this song the ten- and eleven-year-old girls have told us we can be happy
 now and forever if we follow God's plan, which begins with baptism. It is the
 gate to the celestial kingdom. (See [2 Ne.
-31:18](https://www.lds.org/scriptures/bofm/2-ne/31.18?lang=eng#17).)
+31:18](/scriptures/bofm/2-ne/31.18?lang=eng#17).)
 
 As followers of Christ, we should "look forward with one eye, having one faith
 and one baptism, having ... hearts knit together in unity and in love one
-towards another." ([Mosiah
-18:21](https://www.lds.org/scriptures/bofm/mosiah/18.21?lang=eng#20).)
+towards another." ([Mosiah 18:21](/scriptures/bofm/mosiah/18.21?lang=eng#20).)
 
 Each of us who has been baptized has covenanted with the Lord to serve him and
 keep his commandments. Like Lisa, we must stand as a witness of God. Like
@@ -190,4 +188,6 @@ another's burdens. Like Ellen, we must repent.
 
 I pray that we will have unity and love as we strive together to keep the
 covenant we have made at baptism, in the name of Jesus Christ, amen.
+
+## References
 

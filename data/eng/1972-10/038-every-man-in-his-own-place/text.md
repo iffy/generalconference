@@ -30,13 +30,13 @@ Father, to stand before me, to be judged of their works, whether they be good
 or whether they be evil--
 
 "And for this cause have I been lifted up. ..." ([3 Ne.
-27:13-15](https://www.lds.org/scriptures/bofm/3-ne/27.13-15?lang=eng#12).)
+27:13-15](/scriptures/bofm/3-ne/27.13-15?lang=eng#12).)
 
 And then the Master taught what we know to be the first principles and
 ordinances of the gospel, concluding as he had begun: "Verily, verily, I say
 unto you, this is my gospel." Then he added: "Therefore, what manner of men
 ought ye to be? Verily I say unto you, even as I am." ([3 Ne. 27:21,
-27](https://www.lds.org/scriptures/bofm/3-ne/27.21%2C27?lang=eng#20).)
+27](/scriptures/bofm/3-ne/27.21,27?lang=eng#20).)
 
 Christ's commission was clear, and it seems to me that through him _our
 _commission becomes clear, that we are so to live that through him and his
@@ -81,7 +81,7 @@ the scriptures teach.
 lusts of the flesh, through much wantonness, those that were clean escaped
 from them who live in error. While they promise them liberty, they themselves
 are the servants of corruption. ..." ([2 Pet.
-2:18-19](https://www.lds.org/scriptures/nt/2-pet/2.18-19?lang=eng#17).)
+2:18-19](/scriptures/nt/2-pet/2.18-19?lang=eng#17).)
 
 Some other adults are not wise or sensitive to the needs of the young, or are
 guilty of cowardice masquerading as enlightenment and liberalism, or are
@@ -220,17 +220,16 @@ thrilling story of Gideon of old, humble in the face of a seemingly
 insuperable challenge but called of God, who, through his resourcefulness and
 the strength of the Almighty, won a battle. His rallying cry is remembered:
 "The sword of the Lord, and of Gideon." ([Judg.
-7:18](https://www.lds.org/scriptures/ot/judg/7.18?lang=eng#17).)
+7:18](/scriptures/ot/judg/7.18?lang=eng#17).)
 
 One other line from that marvelous story is so important that I call it to
 your attention: "they stood every man in his own place round about the camp.
-..." ([Judg. 7:21](https://www.lds.org/scriptures/ot/judg/7.21?lang=eng#20).)
-The battle was won.
+..." ([Judg. 7:21](/scriptures/ot/judg/7.21?lang=eng#20).) The battle was won.
 
 Asa, king of Judah, commissioned of God to the conflict, facing an enemy army
 of more than a million soldiers, gave us the key. He said, "... we rest on thee,
 and in thy name we go. ..." ([2 Chr.
-14:11](https://www.lds.org/scriptures/ot/2-chr/14.11?lang=eng#10).)
+14:11](/scriptures/ot/2-chr/14.11?lang=eng#10).)
 
 I thank God for the multitude of marvelous young people I know. I pray for
 them and invoke God's Spirit to be with them, and as plainly as I know how,
@@ -249,4 +248,6 @@ I'll never, no never, no never forsake!"
 --_Hymns, _no. 66
 
 God bless us, I pray in the name of Jesus Christ. Amen.
+
+## References
 

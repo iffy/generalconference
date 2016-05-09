@@ -23,15 +23,11 @@ to human beings?" (_Treasures of Life,_ Deseret Book Company, 1965, p. 71.)
 
 And then he said that among delinquent parents are these:
 
-  1. Those who quarrel in the presence of their children;
-
-  2. Those who pollute the home atmosphere with vulgarity and profanity;
-
-  3. Those whose daily home life does not conform to their Church pretensions;
-
-  4. Those who fail to teach obedience to their children;
-
-  5. Those who neglect to teach their children religion by saying, "Let them grow up and choose for themselves," thus failing in the discharge of a parental responsibility. (See _Treasures of Life,_ pp. 72-74.)
+  1. Those who quarrel in the presence of their children; 
+  2. Those who pollute the home atmosphere with vulgarity and profanity; 
+  3. Those whose daily home life does not conform to their Church pretensions; 
+  4. Those who fail to teach obedience to their children; 
+  5. Those who neglect to teach their children religion by saying, "Let them grow up and choose for themselves," thus failing in the discharge of a parental responsibility. (See _Treasures of Life,_ pp. 72-74.) 
 
 He then asks a question and makes a suggestion: "Parents, how do you measure
 up? Take a personal inventory and see if you are fulfilling your sacred
@@ -40,14 +36,13 @@ obligations."
 This statement in the Doctrine and Covenants makes clear our responsibility in
 teaching our children the fundamentals of the gospel:
 
-"Inasmuch as parents have children ... , that teach them not to understand the
+"Inasmuch as parents have children ..., that teach them not to understand the
 doctrine of repentance, faith in Christ the Son of the living God, and of
 baptism and the gift of the Holy Ghost by the laying on of the hands, when
 eight years old, the sin be upon the heads of the parents.
 
 "For this shall be a law unto the inhabitants of Zion." ([D&amp;C
-68:25-26](https://www.lds.org/scriptures/dc-
-testament/dc/68.25-26?lang=eng#24).)
+68:25-26](/scriptures/dc-testament/dc/68.25-26?lang=eng#24).)
 
 Note that this does not say the sin be upon the head of the Sunday School, the
 Primary, or the seminary teacher, _but upon the heads of the parents._
@@ -191,23 +186,25 @@ were poor examples to the spirits He entrusted to your care?
 To paraphrase an admonition the Lord has given us: Let your light so shine
 before your children, that they may see your good works, and glorify your
 Father which is in heaven. (See [Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).)
+5:16](/scriptures/nt/matt/5.16?lang=eng#15).)
 
 As we and our children live the gospel, we make ourselves worthy to receive
 this great promise recorded in the Doctrine and Covenants: "And, if you keep
 my commandments and endure to the end you shall have eternal life, which gift
-is the greatest of all the gifts of God." ([D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).)
+is the greatest of all the gifts of God." ([D&amp;C 14:7](/scriptures/dc-
+testament/dc/14.7?lang=eng#6).)
 
 What a glorious promise--eternal life. And it _will_ be ours if we keep the
 commandments and endure to the end. The Lord always keeps His promises.
 Remember that He says in the Doctrine and Covenants:
 
 "I, the Lord, am bound when ye do what I say; but when ye do not what I say,
-ye have no promise." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
+ye have no promise." ([D&amp;C 82:10](/scriptures/dc-
 testament/dc/82.10?lang=eng#9).)
 
 May we all live to bring this promise of eternal life to ourselves and our
 family. Such wonderful blessings are within our grasp, if we live righteous
 lives. I so testify in the name of the Lord Jesus Christ. Amen.
+
+## References
 

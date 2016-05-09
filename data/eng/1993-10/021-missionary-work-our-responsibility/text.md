@@ -80,8 +80,7 @@ additional countries where we were _not_ serving five years ago.
 Who but the prophets of God could have foreseen the miracle of the rapid
 expansion of the work of the Lord? Truly, as the Lord foretold in section 88
 of the Doctrine and Covenants, He is hastening His work in its time (see
-[D&amp;C 88:73](https://www.lds.org/scriptures/dc-
-testament/dc/88.73?lang=eng#72)).
+[D&amp;C 88:73](/scriptures/dc-testament/dc/88.73?lang=eng#72)).
 
 I am inspired as I continue to understand more and more the depth and
 significance of the vision and inspiration the Prophet Joseph Smith received
@@ -101,15 +100,15 @@ harmony with truth, that they may someday respond to an opportunity to serve.
 This is the same spirit and heavenly influence that directed John Taylor,
 Wilford Woodruff, and others to take leave of the Saints from the city of Far
 West early on the morning of April 26, 1839, before departing for their
-missions to Great Britain (see [D&amp;C
-118:4-5](https://www.lds.org/scriptures/dc-testament/dc/118.4-5?lang=eng#3)).
-On that occasion each prayed in turn at the temple site and bore testimony.
-Then, after a song, they took leave, directed by revelation, filled with the
-blessings of heaven and the confirming influence of the Holy Ghost. These
-early Apostles departed for their missions having been spiritually fed and
-blessed in a manner that would sustain them and their families throughout
-their many hardships and inspire their powerful testimonies of the
-truthfulness of the message of the restored church upon the earth.
+missions to Great Britain (see [D&amp;C 118:4-5](/scriptures/dc-
+testament/dc/118.4-5?lang=eng#3)). On that occasion each prayed in turn at the
+temple site and bore testimony. Then, after a song, they took leave, directed
+by revelation, filled with the blessings of heaven and the confirming
+influence of the Holy Ghost. These early Apostles departed for their missions
+having been spiritually fed and blessed in a manner that would sustain them
+and their families throughout their many hardships and inspire their powerful
+testimonies of the truthfulness of the message of the restored church upon the
+earth.
 
 What a privilege and a blessing to be a small part of this great work! With
 that heritage, however, comes a great responsibility. The Lord needs
@@ -118,7 +117,7 @@ mighty and eternal influence that He has placed in their hands. In section 88,
 where the Lord speaks of hastening His work, He gives to the laborers of His
 kingdom a commandment to "prepare yourselves, and sanctify yourselves; yea,
 purify your hearts, and cleanse your hands and your feet before me, that I may
-make you clean" ([D&amp;C 88:74](https://www.lds.org/scriptures/dc-
+make you clean" ([D&amp;C 88:74](/scriptures/dc-
 testament/dc/88.74?lang=eng#73)).
 
 The calling to serve the Lord places a tremendous but ennobling responsibility
@@ -222,4 +221,6 @@ Church,_ 3:397).
 
 When that glorious day comes, may each of us have some part in it, I humbly
 pray in the name of Jesus Christ, amen.
+
+## References
 

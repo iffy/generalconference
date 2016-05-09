@@ -11,8 +11,7 @@ Mormon. You are helping to cleanse the inner vessel. God bless you for it.
 
 _The great test of life_ is obedience to God. "We will prove them herewith,"
 said the Lord, "to see if they will do all things whatsoever the Lord their
-God shall command them" ([Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24)).
+God shall command them" ([Abr. 3:25](/scriptures/pgp/abr/3.25?lang=eng#24)).
 
 _The great task of life_ is to learn the will of the Lord and then do it.
 
@@ -20,36 +19,35 @@ _The great commandment of life_ is to love the Lord.
 
 "Come unto Christ," exhorts Moroni in his closing testimony, "... and love God
 with all your might, mind and strength" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31)).
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31)).
 
 This, then, is the first and great commandment: "Thou shalt love the Lord thy
 God with all thy heart, and with all thy soul, and with all thy mind, and with
-all thy strength" ([Mark
-12:30](https://www.lds.org/scriptures/nt/mark/12.30?lang=eng#29); see also
-[Matt. 22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36);
-[Deut. 6:5](https://www.lds.org/scriptures/ot/deut/6.5?lang=eng#4); [Luke
-10:27](https://www.lds.org/scriptures/nt/luke/10.27?lang=eng#26); [Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31); [D&amp;C
-59:5](https://www.lds.org/scriptures/dc-testament/dc/59.5?lang=eng#4)).
+all thy strength" ([Mark 12:30](/scriptures/nt/mark/12.30?lang=eng#29); see
+also [Matt. 22:37](/scriptures/nt/matt/22.37?lang=eng#36); [Deut.
+6:5](/scriptures/ot/deut/6.5?lang=eng#4); [Luke
+10:27](/scriptures/nt/luke/10.27?lang=eng#26); [Moro.
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31); [D&amp;C 59:5](/scriptures
+/dc-testament/dc/59.5?lang=eng#4)).
 
 It is the pure love of Christ, called charity, that the Book of Mormon
 testifies is the greatest of all--that never faileth, that endureth forever,
 that all men should have, and that without which they are nothing (see [Moro.
-7:44-47](https://www.lds.org/scriptures/bofm/moro/7.44-47?lang=eng#43); [2 Ne.
-26:30](https://www.lds.org/scriptures/bofm/2-ne/26.30?lang=eng#29)).
+7:44-47](/scriptures/bofm/moro/7.44-47?lang=eng#43); [2 Ne.
+26:30](/scriptures/bofm/2-ne/26.30?lang=eng#29)).
 
 "Wherefore, my beloved brethren," pleads Moroni, "pray unto the Father with
 all the energy of [your] heart, that ye may be filled with this love, which he
 hath bestowed upon all who are true followers of his Son, Jesus Christ; that
 ye may become the sons of God; that when he shall appear we shall be like him"
-([Moro. 7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47)).
+([Moro. 7:48](/scriptures/bofm/moro/7.48?lang=eng#47)).
 
 In the closing accounts of both the Jaredites and the Nephites, Moroni records
 that except men shall have this pure love of Christ, called charity, they
 cannot inherit that place which Christ has prepared in the mansions of His
 Father nor can they be saved in the kingdom of God (see [Ether
-12:34](https://www.lds.org/scriptures/bofm/ether/12.34?lang=eng#33); [Moro.
-10:21](https://www.lds.org/scriptures/bofm/moro/10.21?lang=eng#20)).
+12:34](/scriptures/bofm/ether/12.34?lang=eng#33); [Moro.
+10:21](/scriptures/bofm/moro/10.21?lang=eng#20)).
 
 The fruit that Lehi partook of in his vision and that filled his soul with
 exceeding great joy and that was most desirable above all things was the love
@@ -65,18 +63,17 @@ one's life. Our desires, be they spiritual or temporal, should be rooted in a
 love of the Lord. Our thoughts and affections should be centered on the Lord.
 "Let all thy thoughts be directed unto the Lord," said Alma, "yea, let the
 affections of thy heart be placed upon the Lord forever" ([Alma
-37:36](https://www.lds.org/scriptures/bofm/alma/37.36?lang=eng#35)).
+37:36](/scriptures/bofm/alma/37.36?lang=eng#35)).
 
 Why did God put the first commandment first? Because He knew that if we truly
 loved Him we would want to keep all of His other commandments. "For this is
 the love of God," says John, "that we keep his commandments" ([1 Jn.
-5:3](https://www.lds.org/scriptures/nt/1-jn/5.3?lang=eng#2); see also [2 Jn.
-1:6](https://www.lds.org/scriptures/nt/2-jn/1.6?lang=eng#5)).
+5:3](/scriptures/nt/1-jn/5.3?lang=eng#2); see also [2 Jn.
+1:6](/scriptures/nt/2-jn/1.6?lang=eng#5)).
 
 We must put God in the forefront of everything else in our lives. He must come
 first, just as He declares in the first of His Ten Commandments: "Thou shalt
-have no other gods before me" ([Ex.
-20:3](https://www.lds.org/scriptures/ot/ex/20.3?lang=eng#2)).
+have no other gods before me" ([Ex. 20:3](/scriptures/ot/ex/20.3?lang=eng#2)).
 
 When we put God first, all other things fall into their proper place or drop
 out of our lives. Our love of the Lord will govern the claims for our
@@ -88,7 +85,7 @@ We should put God ahead of _everyone else_ in our lives.
 When Joseph was in Egypt, what came first in his life--God, his job, or
 Potiphar's wife? When she tried to seduce him, he responded by saying, "How
 then can I do this great wickedness, and sin against God?" ([Gen.
-39:9](https://www.lds.org/scriptures/ot/gen/39.9?lang=eng#8)).
+39:9](/scriptures/ot/gen/39.9?lang=eng#8)).
 
 Joseph was put in prison because he put God first. If we were faced with a
 similar choice, where would we place our first loyalty? Can we put God ahead
@@ -100,21 +97,20 @@ anxious to please God than our boss, our teacher, our neighbor, or our date?
 
 The Lord said, "He that loveth father or mother more than me is not worthy of
 me: and he that loveth son or daughter more than me is not worthy of me"
-([Matt. 10:37](https://www.lds.org/scriptures/nt/matt/10.37?lang=eng#36)). One
-of the most difficult tests of all is when you have to choose between pleasing
-God or pleasing someone you love or respect--particularly a family member.
+([Matt. 10:37](/scriptures/nt/matt/10.37?lang=eng#36)). One of the most
+difficult tests of all is when you have to choose between pleasing God or
+pleasing someone you love or respect--particularly a family member.
 
 Nephi faced that test and handled it well when his good father temporarily
 murmured against the Lord (see [1 Ne.
-16:18-25](https://www.lds.org/scriptures/bofm/1-ne/16.18-25?lang=eng#17)). Job
-maintained his integrity with the Lord even though his wife told him to curse
-God and die (see [Job
-2:9-10](https://www.lds.org/scriptures/ot/job/2.9-10?lang=eng#8)).
+16:18-25](/scriptures/bofm/1-ne/16.18-25?lang=eng#17)). Job maintained his
+integrity with the Lord even though his wife told him to curse God and die
+(see [Job 2:9-10](/scriptures/ot/job/2.9-10?lang=eng#8)).
 
 The scripture says, "Honour thy father and thy mother" ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11); see also
-[Mosiah 13:20](https://www.lds.org/scriptures/bofm/mosiah/13.20?lang=eng#19)).
-Sometimes one must choose to honor Heavenly Father over a mortal father.
+20:12](/scriptures/ot/ex/20.12?lang=eng#11); see also [Mosiah
+13:20](/scriptures/bofm/mosiah/13.20?lang=eng#19)). Sometimes one must choose
+to honor Heavenly Father over a mortal father.
 
 We should give God, the Father of our spirits, an exclusive preeminence in our
 lives. He has a prior parental claim on our eternal welfare, ahead of all
@@ -130,7 +126,7 @@ their mortal relatives. By putting God first, many later became the
 instruments to lead those loved ones into the kingdom of God.
 
 Jesus said, "I do always those things that please [God]" ([John
-8:29](https://www.lds.org/scriptures/nt/john/8.29?lang=eng#28)).
+8:29](/scriptures/nt/john/8.29?lang=eng#28)).
 
 What is the condition in our homes? Are we striving to put the Lord first and
 to please Him?
@@ -160,8 +156,7 @@ please--God or a mortal? If you insist on a temple marriage, you will be
 pleasing the Lord and blessing the other party. Why? Because that person will
 either become worthy to go to the temple--which would be a blessing--or will
 leave--which could also be a blessing--because neither of you should want to
-be unequally yoked (see [2 Cor.
-6:14](https://www.lds.org/scriptures/nt/2-cor/6.14?lang=eng#13)).
+be unequally yoked (see [2 Cor. 6:14](/scriptures/nt/2-cor/6.14?lang=eng#13)).
 
 You should qualify for the temple. Then you will know that there is no one
 good enough for you to marry outside the temple. If such individuals are that
@@ -177,21 +172,20 @@ sacrifice Isaac.
 
 Had Abraham loved Isaac more than God, would he have consented? As the Lord
 indicates in the Doctrine and Covenants, both Abraham and Isaac now sit as
-gods (see [D&amp;C 132:37](https://www.lds.org/scriptures/dc-
-testament/dc/132.37?lang=eng#36)). They were willing to offer or to be offered
-up as God required. They have a deeper love and respect for each other because
-both were willing to put God first.
+gods (see [D&amp;C 132:37](/scriptures/dc-testament/dc/132.37?lang=eng#36)).
+They were willing to offer or to be offered up as God required. They have a
+deeper love and respect for each other because both were willing to put God
+first.
 
 The Book of Mormon teaches that "it must needs be, that there is an opposition
-in all things" ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10))--and so
+in all things" ([2 Ne. 2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10))--and so
 there is. Opposition provides choices, and choices bring consequences--good or
 bad.
 
 The Book of Mormon explains that men "are free to choose liberty and eternal
 life, through the great Mediator of all men, or to choose captivity and death,
 according to the captivity and power of the devil" ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)).
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)).
 
 God loves us; the devil hates us. God wants us to have a fulness of joy as He
 has. The devil wants us to be miserable as he is. God gives us commandments to
@@ -208,7 +202,7 @@ In the meantime the wicked think they are getting away with something. The
 Book of Mormon teaches that the wicked "have joy in their works for a season,
 [but] by and by the end cometh, and they are hewn down and cast into the fire,
 from whence there is no return" ([3 Ne.
-27:11](https://www.lds.org/scriptures/bofm/3-ne/27.11?lang=eng#10)).
+27:11](/scriptures/bofm/3-ne/27.11?lang=eng#10)).
 
 During this testing time the righteous must continue to love God, trust in His
 promises, be patient, and be assured, as the poet said, that--
@@ -243,10 +237,11 @@ _The great task of life_ is to learn the will of the Lord and then do it.
 
 _The great commandment of life_ is, "Thou shalt love the Lord thy God with all
 thy heart, and with all thy soul, and with all thy mind, and with all thy
-strength" ([Mark
-12:30](https://www.lds.org/scriptures/nt/mark/12.30?lang=eng#29)).
+strength" ([Mark 12:30](/scriptures/nt/mark/12.30?lang=eng#29)).
 
 May God bless us to put the first commandment first and, as a result, reap
 peace in this life and eternal life with a fulness of joy in the life to come,
 I pray in the name of Jesus Christ, amen.
+
+## References
 

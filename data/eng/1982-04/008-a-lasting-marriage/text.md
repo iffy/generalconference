@@ -48,20 +48,20 @@ they are meant to share equally in every priesthood blessing that accrues to
 their family circle. Through the eternities the Lord's eternal objective for a
 married couple is that they become one!
 
-Next, the Lord instructs us to "reason together" ([D&amp;C
-50:10](https://www.lds.org/scriptures/dc-testament/dc/50.10?lang=eng#9))--no
-arguing, no haranguing, no backbiting, but rather reasoning together with
-soft-spoken voices. What a great example for the children! How can a family go
-wrong if each major decision is carefully measured by gospel teachings? And
-then, after reasoning together, the decision can be made to move forward
-confidently and in harmony with divine law.
+Next, the Lord instructs us to "reason together" ([D&amp;C 50:10](/scriptures
+/dc-testament/dc/50.10?lang=eng#9))--no arguing, no haranguing, no backbiting,
+but rather reasoning together with soft-spoken voices. What a great example
+for the children! How can a family go wrong if each major decision is
+carefully measured by gospel teachings? And then, after reasoning together,
+the decision can be made to move forward confidently and in harmony with
+divine law.
 
 The Savior taught the extra mile (see [Matt.
-5:41](https://www.lds.org/scriptures/nt/matt/5.41?lang=eng#40)), which means
-unselfishness. By just going the extra mile almost every couple could make
-their marriage relationship successful. But an extra effort on just one side
-of the boat means imbalance, and a capsized marriage is likely. Unselfishness
-must come from both sides.
+5:41](/scriptures/nt/matt/5.41?lang=eng#40)), which means unselfishness. By
+just going the extra mile almost every couple could make their marriage
+relationship successful. But an extra effort on just one side of the boat
+means imbalance, and a capsized marriage is likely. Unselfishness must come
+from both sides.
 
 Every couple, whether in the first or the twenty-first year of marriage,
 should discover the value of pillow-talk time at the end of the day--the
@@ -92,8 +92,7 @@ virtue of the priesthood, only by persuasion, by long-suffering, by gentleness
 and meekness, and by love unfeigned:
 
 "By kindness, and pure knowledge, which shall greatly enlarge the soul without
-hypocrisy, and without guile." ([D&amp;C
-121:41-42](https://www.lds.org/scriptures/dc-
+hypocrisy, and without guile." ([D&amp;C 121:41-42](/scriptures/dc-
 testament/dc/121.41-42?lang=eng#40).)
 
 I like the advice given by President Joseph F. Smith. He said this to fathers:
@@ -156,10 +155,9 @@ life depended upon it, because gospel truth confirms that your eternal life
 most certainly does depend upon fidelity in your marriage.
 
 The scriptures confirm the eternal truth that "marriage is ordained of God."
-([D&amp;C 49:15](https://www.lds.org/scriptures/dc-
-testament/dc/49.15?lang=eng#14).) And then this: "Neither is the man without
-the woman, neither the woman without the man, in the Lord." ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10).)
+([D&amp;C 49:15](/scriptures/dc-testament/dc/49.15?lang=eng#14).) And then
+this: "Neither is the man without the woman, neither the woman without the
+man, in the Lord." ([1 Cor. 11:11](/scriptures/nt/1-cor/11.11?lang=eng#10).)
 
 And according to a prophet in this dispensation, "God not only commends but he
 commands marriage. While man was yet immortal, before sin had entered the
@@ -170,8 +168,7 @@ changed, abrogated or annulled; but it has continued in force throughout all
 the generations of mankind." (Smith, _Gospel Doctrine,_ p. 274.)
 
 Mark confirms: "What therefore God hath joined together, let not man put
-asunder." ([Mark
-10:9](https://www.lds.org/scriptures/nt/mark/10.9?lang=eng#8).)
+asunder." ([Mark 10:9](/scriptures/nt/mark/10.9?lang=eng#8).)
 
 Now, brothers and sisters, every divorce in the Church affects the work of the
 kingdom adversely. There needs to be greater effort on the part of each
@@ -193,9 +190,7 @@ And don't you agree that perhaps the most important questions that will need
 to be answered by a divorced person in the hereafter will be these:
 
   1. "Did you do everything possible to save your marriage?"
-
   2. "Were gospel truths applied to the fullest?"
-
   3. "Did you seek out, listen to, and abide by priesthood counsel?"
 
 May He bless us to regard every marriage as an act ordained of God; for, as
@@ -203,4 +198,6 @@ President Joseph F. Smith said, it is the hope of the human race.
 
 And these thoughts I leave with you in the name of the Lord Jesus Christ,
 amen.
+
+## References
 

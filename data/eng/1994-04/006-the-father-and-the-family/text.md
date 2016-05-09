@@ -19,11 +19,11 @@ parents and their children are happy at home, sealed in an eternal marriage,
 and linked to their generations.
 
 The ultimate purpose of the adversary, who has "great wrath, because he
-knoweth that he hath but a short time," [1]  is to disrupt, disturb, and
-destroy the home and the family. Like a ship without a rudder, without a
-compass, we drift from the family values which have anchored us in the past.
-Now we are caught in a current so strong that unless we correct our course,
-civilization as we know it will surely be wrecked to pieces.
+knoweth that he hath but a short time,"[1] is to disrupt, disturb, and destroy
+the home and the family. Like a ship without a rudder, without a compass, we
+drift from the family values which have anchored us in the past. Now we are
+caught in a current so strong that unless we correct our course, civilization
+as we know it will surely be wrecked to pieces.
 
 Moral values are being neglected and prayer expelled from public schools on
 the pretext that moral teaching belongs to religion. At the same time,
@@ -44,16 +44,16 @@ souls than I have hitherto been. ...
 
 "It grieveth me that I must use so much boldness of speech concerning you,
 before your wives and your children, many of whose feelings are exceedingly
-tender and chaste and delicate before God." [2]
+tender and chaste and delicate before God."[2]
 
 This crisis of the family is no surprise to the Church. We have certainly
 known what was coming. I know of no better testimony that we are led by
 prophets than our preparation for this present emergency.
 
 The scriptures speak of prophets as "watch[men] upon the tower" who see "the
-enemy while he [is] yet afar off" [3]  and who have "beheld also things which
+enemy while he [is] yet afar off"[3] and who have "beheld also things which
 were not visible to the natural eye ... [for] a seer hath the Lord raised up
-unto his people." [4]
+unto his people."[4]
 
 Thirty-three years ago the Brethren warned us of the disintegration of the
 family and told us to prepare. It was announced by the First Presidency and
@@ -61,10 +61,10 @@ the Quorum of the Twelve Apostles that the Church would be restructured.
 
 The weekly family home evening was introduced by the First Presidency, who
 said that "the home [is] the basis of a righteous life and ... no other
-instrumentality can take its place nor fulfil its essential functions." [5]
+instrumentality can take its place nor fulfil its essential functions."[5]
 
 Parents are provided with excellent materials for teaching their children,
-with a promise that the faithful will be blessed. [6]
+with a promise that the faithful will be blessed.[6]
 
 While the doctrines and revealed organization remain unchanged, all agencies
 of the Church have been reshaped in their relationship to one another and to
@@ -103,7 +103,7 @@ more.
 We, like Jacob, must teach "according to the strict commands of God,"
 "notwithstanding the greatness of the task." Like Jacob, we also run the risk
 of enlarging "the wounds of those who are already wounded, instead of
-consoling and healing their wounds." [7]
+consoling and healing their wounds."[7]
 
 When we speak plainly of divorce, abuse, gender identity, contraception,
 abortion, parental neglect, we are thought by some to be way out of touch or
@@ -131,7 +131,7 @@ grateful for what she taught me.
 
 Now, following the example of Jacob, I speak to the men of the Church. Most of
 you are worthy fathers and husbands who do what you should do. But there are
-women whose hearts have been broken [8]  and children who are neglected, even
+women whose hearts have been broken[8] and children who are neglected, even
 abused.
 
 If we are to help them, we must begin with the men. The next series of stake
@@ -154,24 +154,23 @@ doctrines.
 If you understand the great plan of happiness and follow it, what goes on in
 the world will not determine your happiness. You will be tried, for that is
 part of the plan, but "thine afflictions shall be but a small moment; and
-then, if thou endure it well, God shall exalt thee on high." [9]
+then, if thou endure it well, God shall exalt thee on high."[9]
 
 Your responsibility as a father and a husband transcends any other interest in
 life. It is unthinkable that a Latter-day Saint man would cheat on his wife or
 abandon the children he has fathered, or neglect or abuse them.
 
-The Lord has "commanded you to bring up your children in light and truth."
-[10]
+The Lord has "commanded you to bring up your children in light and truth."[10]
 
 You are responsible, unless disabled, to provide temporal support for your
-wife and children. [11]  You are to devote, even sacrifice yourself to the
-bringing up of your children in light and truth. [12]
+wife and children.[11] You are to devote, even sacrifice yourself to the
+bringing up of your children in light and truth.[12]
 
 That requires perfect moral fidelity to your wife, with no reason ever for her
 to doubt your faithfulness.
 
 Never should there be a domineering or unworthy behavior in the tender,
-intimate relationship between husband and wife. [13]
+intimate relationship between husband and wife.[13]
 
 Your wife is your partner in the leadership of the family and should have full
 knowledge of and full participation in all decisions relating to your home.
@@ -198,7 +197,7 @@ a person."
 I was overwhelmed with love for him. I realized he was a child of God. How
 much I wanted him to be "a person"--one of eternal worth. From such ordinary
 experiences, I have learned to understand doctrine. "Children," truly, "are an
-heritage of the Lord." [14]
+heritage of the Lord."[14]
 
 The family is safe within the Church. We are not in doubt as to the course we
 must follow. It was given in the beginning, and guidance from on high is
@@ -220,31 +219,31 @@ name of Jesus Christ, amen.
 
 ## References
 
-  1.   [Rev. 12:12](https://www.lds.org/scriptures/nt/rev/12.12?lang=eng#11).
+  1. [Rev. 12:12](https://www.lds.org/scriptures/nt/rev/12.12?lang=eng#11).
 
-  2.   [Jacob 2:3, 7](https://www.lds.org/scriptures/bofm/jacob/2.3%2C7?lang=eng#2); see [Jacob 2:1-13](https://www.lds.org/scriptures/bofm/jacob/2.1-13?lang=eng#0).
+  2. [Jacob 2:3, 7](https://www.lds.org/scriptures/bofm/jacob/2.3,7?lang=eng#2); see [Jacob 2:1-13](https://www.lds.org/scriptures/bofm/jacob/2.1-13?lang=eng#0).
 
-  3.   [D&amp;C 101:54](https://www.lds.org/scriptures/dc-testament/dc/101.54?lang=eng#53); see [D&amp;C 101:45, 53-54](https://www.lds.org/scriptures/dc-testament/dc/101.45%2C53-54?lang=eng#44); [2 Kgs. 9:17](https://www.lds.org/scriptures/ot/2-kgs/9.17?lang=eng#16).
+  3. [D&amp;C 101:54](https://www.lds.org/scriptures/dc-testament/dc/101.54?lang=eng#53); see [D&amp;C 101:45, 53-54](https://www.lds.org/scriptures/dc-testament/dc/101.45,53-54?lang=eng#44); [2 Kgs. 9:17](https://www.lds.org/scriptures/ot/2-kgs/9.17?lang=eng#16).
 
-  4.   [Moses 6:36](https://www.lds.org/scriptures/pgp/moses/6.36?lang=eng#35); see also [Mosiah 8:15-17](https://www.lds.org/scriptures/bofm/mosiah/8.15-17?lang=eng#14).
+  4. [Moses 6:36](https://www.lds.org/scriptures/pgp/moses/6.36?lang=eng#35); see also [Mosiah 8:15-17](https://www.lds.org/scriptures/bofm/mosiah/8.15-17?lang=eng#14).
 
-  5.  In Conference Report, 6 Oct. 1961, p. 79; _Improvement Era,_ Jan. 1962, p. 36.
+  5. In Conference Report, 6 Oct. 1961, p. 79; _Improvement Era,_ Jan. 1962, p. 36.
 
-  6.  See "Message from the First Presidency,"_ Family Home Evening Resource Book,_ Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1983, p. iv.
+  6. See "Message from the First Presidency,"_ Family Home Evening Resource Book,_ Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1983, p. iv.
 
-  7.   [Jacob 2:9-10](https://www.lds.org/scriptures/bofm/jacob/2.9-10?lang=eng#8).
+  7. [Jacob 2:9-10](https://www.lds.org/scriptures/bofm/jacob/2.9-10?lang=eng#8).
 
-  8.  See [Jacob 2:35](https://www.lds.org/scriptures/bofm/jacob/2.35?lang=eng#34).
+  8. See [Jacob 2:35](https://www.lds.org/scriptures/bofm/jacob/2.35?lang=eng#34).
 
-  9.   [D&amp;C 121:7-8](https://www.lds.org/scriptures/dc-testament/dc/121.7-8?lang=eng#6).
+  9. [D&amp;C 121:7-8](https://www.lds.org/scriptures/dc-testament/dc/121.7-8?lang=eng#6).
 
-  10.   [D&amp;C 93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39); see [D&amp;C 93:36-40](https://www.lds.org/scriptures/dc-testament/dc/93.36-40?lang=eng#35).
+  10. [D&amp;C 93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39); see [D&amp;C 93:36-40](https://www.lds.org/scriptures/dc-testament/dc/93.36-40?lang=eng#35).
 
-  11.  See [D&amp;C 83:2](https://www.lds.org/scriptures/dc-testament/dc/83.2?lang=eng#1).
+  11. See [D&amp;C 83:2](https://www.lds.org/scriptures/dc-testament/dc/83.2?lang=eng#1).
 
-  12.  See [D&amp;C 93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39).
+  12. See [D&amp;C 93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39).
 
-  13.  See [D&amp;C 121:41-43](https://www.lds.org/scriptures/dc-testament/dc/121.41-43?lang=eng#40).
+  13. See [D&amp;C 121:41-43](https://www.lds.org/scriptures/dc-testament/dc/121.41-43?lang=eng#40).
 
-  14.   [Ps. 127:3](https://www.lds.org/scriptures/ot/ps/127.3?lang=eng#2).
+  14. [Ps. 127:3](https://www.lds.org/scriptures/ot/ps/127.3?lang=eng#2).
 

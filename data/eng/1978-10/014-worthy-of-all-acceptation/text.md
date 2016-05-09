@@ -27,27 +27,16 @@ consider what has and what has not changed.
 
 First, I mention some things which have not changed:
 
-  1. The Lord's mandate given in section 128 of the Doctrine and Covenants has not changed: "Brethren, shall we not go on in so great a cause? ...
-
-"Let us, therefore, as a church and a people, and as Latter-day Saints, offer
-unto the Lord an offering in righteousness; and let us present in his holy
-temple ... a book containing the records of our dead, which shall be worthy of
-all acceptation." ([D&amp;C 128:22, 24](https://www.lds.org/scriptures/dc-
-testament/dc/128.22%2C24?lang=eng#21).)
-
-  2. Our responsibility to keep a journal and to write our own personal histories and those of our ancestors, particularly those who belong to the first four generations of our pedigree, has not changed.
-
-  3. Our responsibility to make certain that all living family members have the opportunity to receive the ordinances of the temple has not changed.
-
-  4. Our responsibility to compile our books of remembrance, including the submission of the names of our ancestors for at least the first four generations, and to have the temple ordinances performed in their behalf has not changed.
-
-  5. Our responsibility to organize our families at the immediate family level begins when a couple is married. The grandparent family organization develops as children from the immediate family marry and have children. Through such family organizations, every family in the Church should become actively involved in missionary work, family preparedness, genealogy and temple work, teaching the gospel, and cultural and social activities. These vital responsibilities certainly have not changed.
+  1. The Lord's mandate given in section 128 of the Doctrine and Covenants has not changed: "Brethren, shall we not go on in so great a cause? ... "Let us, therefore, as a church and a people, and as Latter-day Saints, offer unto the Lord an offering in righteousness; and let us present in his holy temple ... a book containing the records of our dead, which shall be worthy of all acceptation." ([D&amp;C 128:22, 24](/scriptures/dc-testament/dc/128.22,24?lang=eng#21).) 
+  2. Our responsibility to keep a journal and to write our own personal histories and those of our ancestors, particularly those who belong to the first four generations of our pedigree, has not changed. 
+  3. Our responsibility to make certain that all living family members have the opportunity to receive the ordinances of the temple has not changed. 
+  4. Our responsibility to compile our books of remembrance, including the submission of the names of our ancestors for at least the first four generations, and to have the temple ordinances performed in their behalf has not changed. 
+  5. Our responsibility to organize our families at the immediate family level begins when a couple is married. The grandparent family organization develops as children from the immediate family marry and have children. Through such family organizations, every family in the Church should become actively involved in missionary work, family preparedness, genealogy and temple work, teaching the gospel, and cultural and social activities. These vital responsibilities certainly have not changed. 
 
 Next, consider some things which have changed:
 
-  1. The four-generation program has changed in a very significant way. In the past each individual was responsible for the submission of his or her four-generation family group record forms. December 1978 marks the end of the old (current) four-generation program. Beginning July 1979, the Church will accept newly prepared pedigree charts and family group record forms from family organizations, rather than from individuals. In the interim between now and July 1979, members of the Church are encouraged to organize as families--each individual with his brothers, sisters, and parents--to compare the information on the family group sheets which they have in common, check the accuracy of the information, verify the dates, and formulate _one_ record to be submitted on behalf of _all_ family members appearing on the group sheet. This process repeats itself next with the parents (if still living), and so on until all generations are completed, verified, and corrected as necessary. You can readily see the importance of the family organization.
-
-  2. A second major change is that original research beyond the four-generation level will be accepted but will no longer be required of individual members or individual families in the Church. Instead, the Church has assumed the responsibility to begin a massive record-gathering and extraction program in order to prepare names for temple work.
+  1. The four-generation program has changed in a very significant way. In the past each individual was responsible for the submission of his or her four-generation family group record forms. December 1978 marks the end of the old (current) four-generation program. Beginning July 1979, the Church will accept newly prepared pedigree charts and family group record forms from family organizations, rather than from individuals. In the interim between now and July 1979, members of the Church are encouraged to organize as families--each individual with his brothers, sisters, and parents--to compare the information on the family group sheets which they have in common, check the accuracy of the information, verify the dates, and formulate _one_ record to be submitted on behalf of _all_ family members appearing on the group sheet. This process repeats itself next with the parents (if still living), and so on until all generations are completed, verified, and corrected as necessary. You can readily see the importance of the family organization. 
+  2. A second major change is that original research beyond the four-generation level will be accepted but will no longer be required of individual members or individual families in the Church. Instead, the Church has assumed the responsibility to begin a massive record-gathering and extraction program in order to prepare names for temple work. 
 
 Those who are acquainted with Latter-day Saint scriptures and the process of
 genealogical research will recognize that the extraction program is but a
@@ -166,9 +155,10 @@ to redeem them out of their prison; for the prisoners shall go free.
 "... Let us, therefore, as a church and a people, and as Latter-day Saints,
 offer unto the Lord an offering in righteousness; and let us present in His
 holy temple ... a book containing the records of our dead, _which shall be
-worthy of all acceptation._" ([D&amp;C 128:22,
-24](https://www.lds.org/scriptures/dc-testament/dc/128.22%2C24?lang=eng#21);
-italics added.)
+worthy of all acceptation._" ([D&amp;C 128:22, 24](/scriptures/dc-
+testament/dc/128.22,24?lang=eng#21); italics added.)
 
 In the name of Jesus Christ, amen.
+
+## References
 

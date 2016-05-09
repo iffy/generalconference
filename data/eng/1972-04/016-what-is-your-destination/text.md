@@ -64,8 +64,7 @@ happiness. It should prepare him for the enjoyment of pure religion.
 
 "Pure religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself unspotted from
-the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+the world." ([James 1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 I am reminded of a missionary friend who had difficulty remaining busily
 engaged the last six months of his mission. He had been assigned to labor in a
@@ -85,7 +84,7 @@ if he is also walking in truth and preparing himself for eternal progress,
 which I declare is underway today.
 
 "I have no greater joy than to hear that my children walk in truth." ([3 Jn.
-1:4](https://www.lds.org/scriptures/nt/3-jn/1.4?lang=eng#3).)
+1:4](/scriptures/nt/3-jn/1.4?lang=eng#3).)
 
 May we emphasize that the joy is in the walking and in the traveling in truth,
 and not in anticipated arrival.
@@ -117,7 +116,7 @@ souls down to hell; and thus he causeth them to catch themselves in their own
 snare.
 
 "And thus he goeth up and down, to and fro in the earth, seeking to destroy
-the souls of men." ([D&amp;C 10:26-27](https://www.lds.org/scriptures/dc-
+the souls of men." ([D&amp;C 10:26-27](/scriptures/dc-
 testament/dc/10.26-27?lang=eng#25).)
 
 Since my recent call to serve as a member of the Council of the Twelve
@@ -198,7 +197,7 @@ make that possible.
 "If thou wilt do good, yea, and hold out faithful to the end, thou shalt be
 saved in the kingdom of God, which is the greatest of all the gifts of God;
 for there is no gift greater than the gift of salvation." ([D&amp;C
-6:13](https://www.lds.org/scriptures/dc-testament/dc/6.13?lang=eng#12).)
+6:13](/scriptures/dc-testament/dc/6.13?lang=eng#12).)
 
 As we pursue our journeys, let us ever bear in mind that in train travel and
 in life, there are stations, there are departures, calls, schedules, and
@@ -212,4 +211,6 @@ of us realize it is eternal life, exaltation in our Father's kingdom. I bear
 you my witness that the gift of salvation is possible through this, the gospel
 of Jesus Christ, as we continue faithful, and I say it in the name of Jesus
 Christ. Amen.
+
+## References
 

@@ -32,11 +32,9 @@ first month at a new high school.
 In each instance, the Church leader is interested in doing at least three
 things:
 
-  1. Understanding the problem
-
-  2. Helping resolve the problem by assisting the individual to help himself
-
-  3. Encouraging a closer relationship between the Lord and the individual
+  1. Understanding the problem 
+  2. Helping resolve the problem by assisting the individual to help himself 
+  3. Encouraging a closer relationship between the Lord and the individual 
 
 May I share with you two true stories of how helping in the Lord's own way has
 blessed the one--how the spirit of love and charity which permeates the
@@ -100,13 +98,12 @@ by Elder Spencer W. Kimball, then a member of the Quorum of the Twelve.
 Brother Wilson, who was a bishop at the time of Elder Kimball's address, was
 impressed with the words of a scripture from the Book of Mormon: "I will
 soften the hearts of the Gentiles that they shall be like unto a father to
-them" ([2 Ne.
-10:18](https://www.lds.org/scriptures/bofm/2-ne/10.18?lang=eng#17)). As the
-meeting continued, Bishop Wilson was further touched in his heart and
-determined within himself to help with the Indian student placement program.
-In the fall of 1967, a wonderful new experience came into the lives of the
-Wilson family when sixteen-year-old Celia Red Horse came to live with them for
-the school year.
+them" ([2 Ne. 10:18](/scriptures/bofm/2-ne/10.18?lang=eng#17)). As the meeting
+continued, Bishop Wilson was further touched in his heart and determined
+within himself to help with the Indian student placement program. In the fall
+of 1967, a wonderful new experience came into the lives of the Wilson family
+when sixteen-year-old Celia Red Horse came to live with them for the school
+year.
 
 To quote the Wilsons: "We enjoyed Celia and had some special times with her.
 She was a good student and very obedient. When she went home to the
@@ -218,4 +215,6 @@ reason for being of this Church."
 It is my prayer, my brothers and sisters, that each of us as leaders and
 parents will constantly strive to lift, ennoble, and bless the one through the
 teachings of the gospel of Jesus Christ. In the name of Jesus Christ, amen.
+
+## References
 

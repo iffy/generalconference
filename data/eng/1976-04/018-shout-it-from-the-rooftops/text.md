@@ -4,16 +4,14 @@ My beloved brethren, what a glorious occasion it is to make the personal
 acquaintance, in my new calling to assist in building His kingdom, of so many
 worthy, chosen sons of our Heavenly Father, of whom I know for sure that Jesus
 said, "Ye have not chosen me, but I have chosen you" ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15)); and of whom
-the Prophet Joseph Smith said, "Ye are they whom my Father hath given me; ye
-are my friends." ([D&amp;C 84:63](https://www.lds.org/scriptures/dc-
-testament/dc/84.63?lang=eng#62).)
+15:16](/scriptures/nt/john/15.16?lang=eng#15)); and of whom the Prophet Joseph
+Smith said, "Ye are they whom my Father hath given me; ye are my friends."
+([D&amp;C 84:63](/scriptures/dc-testament/dc/84.63?lang=eng#62).)
 
 There is no doubt in my mind that the Lord has brought us together here, since
 it was revealed through the Prophet Joseph Smith: "And he that is faithful
 shall be made strong in every place; and I, the Lord, will go with you."
-([D&amp;C 66:8](https://www.lds.org/scriptures/dc-
-testament/dc/66.8?lang=eng#7).)
+([D&amp;C 66:8](/scriptures/dc-testament/dc/66.8?lang=eng#7).)
 
 We have come here from all corners of the world, and I myself from a small
 town in Holland where only a handful of four members of the Church reside.
@@ -44,14 +42,14 @@ When he left Holland to go to Java, the island where he was born, we had done
 what was in our power to prepare him for the sacred calling of being a
 missionary, as the Lord has commanded. For it is written in Doctrine and
 Covenants, section 68: "And they [the parents] shall also teach their children
-to pray, and to walk uprightly before the Lord." ([D&amp;C
-68:28](https://www.lds.org/scriptures/dc-testament/dc/68.28?lang=eng#27).)
+to pray, and to walk uprightly before the Lord." ([D&amp;C 68:28](/scriptures
+/dc-testament/dc/68.28?lang=eng#27).)
 
 How grateful and delighted we were when we heard that by inspiration he was
 called to serve in a place completely in accordance with a revelation given
 through the Prophet Joseph Smith: "Send forth the elders of my church unto the
 nations which are afar off; unto the islands of the sea; send forth unto
-foreign lands." ([D&amp;C 133:8](https://www.lds.org/scriptures/dc-
+foreign lands." ([D&amp;C 133:8](/scriptures/dc-
 testament/dc/133.8?lang=eng#7).)
 
 I testify in great joy and in all humbleness to all of you assembled here that
@@ -63,14 +61,14 @@ that we are a happier family because of it.
 May I therefore remind and encourage all fathers to prepare their children to
 fulfill a mission as the prophet of God has commanded. Fathers know: "And
 whoso is found a faithful, a just, and a wise steward shall enter into the joy
-of his Lord, and shall inherit eternal life." ([D&amp;C
-51:19](https://www.lds.org/scriptures/dc-testament/dc/51.19?lang=eng#18).) The
-part of this promise "shall enter into the joy of his Lord" is even given to
-us for this life while we are here on earth. And if we are faithful and just
-and a wise steward now, we "shall enter into the joy of [our] Lord" and Savior
-now and prepare ourselves for eternal life. Now, brethren, we determine where
-we will be when we leave this mortal life, because when the hour of redemption
-has come, the hour of preparation has passed.
+of his Lord, and shall inherit eternal life." ([D&amp;C 51:19](/scriptures/dc-
+testament/dc/51.19?lang=eng#18).) The part of this promise "shall enter into
+the joy of his Lord" is even given to us for this life while we are here on
+earth. And if we are faithful and just and a wise steward now, we "shall enter
+into the joy of [our] Lord" and Savior now and prepare ourselves for eternal
+life. Now, brethren, we determine where we will be when we leave this mortal
+life, because when the hour of redemption has come, the hour of preparation
+has passed.
 
 I testify to you as a happy Dutchman who found the gospel of Jesus Christ as a
 Liahona in his life that by living the commandments the joy is ours today,
@@ -110,4 +108,6 @@ of others, and better equipped with the knowledge we need in our homes and
 therefore will be happier and closer to our Heavenly Father. May peace and
 happiness be with you this day and always, I humbly pray in the name of Jesus
 Christ. Amen.
+
+## References
 

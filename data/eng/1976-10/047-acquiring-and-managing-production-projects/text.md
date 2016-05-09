@@ -25,7 +25,7 @@ are of age.
 
 "And after that, they have claim upon the church, or in other words upon the
 Lord's storehouse, if their parents have not wherewith to give them
-inheritances." ([D&amp;C 83:4-5](https://www.lds.org/scriptures/dc-
+inheritances." ([D&amp;C 83:4-5](/scriptures/dc-
 testament/dc/83.4-5?lang=eng#3).)
 
 When an individual cannot care for himself, his family should provide every
@@ -100,17 +100,12 @@ could assist with a feasibility study. The proposal should conform to the
 purposes of production projects as herein outlined. The following
 considerations should be attended to:
 
-  1. Is the type of project suitable to the area?
-
-  2. Is it compatible with other local projects? Are there too many of one kind? Does it fit into the total welfare plan?
-
-  3. What are the estimated financial and time commitments required of ward or stake members?
-
-  4. What are the projected dates for approval, acquisition, and operation?
-
-  5. The outline of the operating plan should include estimated production, cost of production, net returns, potential for involvement of welfare recipients, and whether the project will fill the commodity production budget that may be assigned.
-
-  6. Further, the proposal should answer such questions as these:
+  1. Is the type of project suitable to the area? 
+  2. Is it compatible with other local projects? Are there too many of one kind? Does it fit into the total welfare plan? 
+  3. What are the estimated financial and time commitments required of ward or stake members? 
+  4. What are the projected dates for approval, acquisition, and operation? 
+  5. The outline of the operating plan should include estimated production, cost of production, net returns, potential for involvement of welfare recipients, and whether the project will fill the commodity production budget that may be assigned. 
+  6. Further, the proposal should answer such questions as these: 
 
 a. Will the project be accessible to the members? (For example, a ward project
 may be a better alternative than a stake or regional project if the stake is
@@ -172,8 +167,7 @@ and teach the principles as outlined therein. If our people are taught these
 and related principles, they feel the redeeming power of contributing and
 caring for their fellow-beings according to their covenants. They feel the
 power that comes from imparting of their substance to care for the poor and
-the needy in the Lord's way. (See [D&amp;C
-104:14-18](https://www.lds.org/scriptures/dc-
+the needy in the Lord's way. (See [D&amp;C 104:14-18](/scriptures/dc-
 testament/dc/104.14-18?lang=eng#13).)
 
 Now let's turn our attention to project management. Here we will discuss
@@ -206,17 +200,12 @@ pp. 125-26; italics added.)
 With these general things in mind, let me list six specific management
 techniques.
 
-  1. _Organization._ Establish a competent committee with a chairman and representation from all units who own the project. When necessary, appoint a qualified manager to operate the project. Committee members should have the sound doctrinal, technical, and practical experience necessary to carry out their responsibilities. This committee should be as permanent as possible to ensure continuity of management. In general, the chairman should have the responsibility for day-to-day decision making. The committee function is similar to that of a board of directors. The manager, if one is hired, should spend the majority of his time in basic production activities that will produce food commodities.
-
-  2. _Planning._ Develop and follow a yearly operational plan and budget. An operational plan should detail what, when, why, and how commodities are to be produced and marketed. It will indicate when and how much operating capital will be needed and how and when it can be repaid if borrowed. A carefully prepared and followed plan ensures that your project is economically and operationally sound and efficiently operated.
-
-  3. _Operations._ It is critical for the success of agricultural projects that things be done on time. Sound management practices and proven technology are required in today's agriculture. There is a time to plant and there is a time to harvest. Wise planning and diligent, consistent follow-through will help make each project successful. Again, stay with proven local agricultural projects.
-
-  4. _Records._ Appoint a competent financial clerk to maintain accurate records and open a separate bank account for the project. The clerk should complete not only monthly reports for Church headquarters, but also production records that can be used by the committee to determine efficiency, cost of operation, profitability, etc. The timely preparation, study, and use of financial reports will improve control of the project and indicate that you truly honor your stewardship. Record keeping must be a joint effort involving the manager as well as the clerk.
-
-  5. _Marketing._ A part of planning often overlooked in welfare operations is the marketing of the farm commodities. The Welfare Production-Distribution Department has established a quality assurance program. Only quality products will be accepted by the canneries and storehouses. All crop production above the amount turned to the storehouse needs to be wisely and effectively marketed. The principal challenge is to market quality commodities at the right time and at the best price to help ensure financial viability.
-
-  6. _Volunteer Services._ A unique factor of welfare production is the volunteer labor which comes from the members. It takes real planning and follow-through to maximize the efficient use of volunteer labor. As well as the volunteer labor, in many instances projects can benefit from using volunteer local resources such as agricultural extension personnel, businessmen, and experienced farm operators. The training and supervision of volunteer labor on a project by a committee member and/or priesthood leader will allow the manager to spend his time in critical operational functions.
+  1. _Organization._ Establish a competent committee with a chairman and representation from all units who own the project. When necessary, appoint a qualified manager to operate the project. Committee members should have the sound doctrinal, technical, and practical experience necessary to carry out their responsibilities. This committee should be as permanent as possible to ensure continuity of management. In general, the chairman should have the responsibility for day-to-day decision making. The committee function is similar to that of a board of directors. The manager, if one is hired, should spend the majority of his time in basic production activities that will produce food commodities. 
+  2. _Planning._ Develop and follow a yearly operational plan and budget. An operational plan should detail what, when, why, and how commodities are to be produced and marketed. It will indicate when and how much operating capital will be needed and how and when it can be repaid if borrowed. A carefully prepared and followed plan ensures that your project is economically and operationally sound and efficiently operated. 
+  3. _Operations._ It is critical for the success of agricultural projects that things be done on time. Sound management practices and proven technology are required in today's agriculture. There is a time to plant and there is a time to harvest. Wise planning and diligent, consistent follow-through will help make each project successful. Again, stay with proven local agricultural projects. 
+  4. _Records._ Appoint a competent financial clerk to maintain accurate records and open a separate bank account for the project. The clerk should complete not only monthly reports for Church headquarters, but also production records that can be used by the committee to determine efficiency, cost of operation, profitability, etc. The timely preparation, study, and use of financial reports will improve control of the project and indicate that you truly honor your stewardship. Record keeping must be a joint effort involving the manager as well as the clerk. 
+  5. _Marketing._ A part of planning often overlooked in welfare operations is the marketing of the farm commodities. The Welfare Production-Distribution Department has established a quality assurance program. Only quality products will be accepted by the canneries and storehouses. All crop production above the amount turned to the storehouse needs to be wisely and effectively marketed. The principal challenge is to market quality commodities at the right time and at the best price to help ensure financial viability. 
+  6. _Volunteer Services._ A unique factor of welfare production is the volunteer labor which comes from the members. It takes real planning and follow-through to maximize the efficient use of volunteer labor. As well as the volunteer labor, in many instances projects can benefit from using volunteer local resources such as agricultural extension personnel, businessmen, and experienced farm operators. The training and supervision of volunteer labor on a project by a committee member and/or priesthood leader will allow the manager to spend his time in critical operational functions. 
 
 These six principles, if consistently practiced, will ensure project success
 and generate the satisfaction that always comes when we follow the Lord's
@@ -266,4 +255,6 @@ wards in the Church become involved in or improve production projects during
 the term of your administration.
 
 May the Lord bless us to do this. In the name of Jesus Christ. Amen.
+
+## References
 

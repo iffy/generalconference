@@ -19,8 +19,8 @@ responsibility of concluding a meeting on this most fundamental subject.
 
 The first principle of the gospel is not "faith." The first principle of the
 gospel is "Faith in the Lord Jesus Christ" ([A of F
-1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3)). I wish to
-speak to you young women about that supremely important truth.
+1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3)). I wish to speak to you young
+women about that supremely important truth.
 
 Faith does not exist by itself. Faith requires an object. It must be faith in
 something or someone.
@@ -53,17 +53,16 @@ within us.
 
 The first principle of the gospel is faith in the Lord Jesus Christ. Without
 this faith, the prophet Mormon said, we "are not fit to be numbered among the
-people of his church" ([Moro.
-7:39](https://www.lds.org/scriptures/bofm/moro/7.39?lang=eng#38)).
+people of his church" ([Moro. 7:39](/scriptures/bofm/moro/7.39?lang=eng#38)).
 
 The scriptures teach us that faith comes by hearing the word of God (see [Rom.
-10:17](https://www.lds.org/scriptures/nt/rom/10.17?lang=eng#16)). That word,
-which comes to us by scripture, by prophetic teaching, and by personal
-revelation, teaches us that we are children of God, the Eternal Father. It
-teaches us about the identity and mission of Jesus Christ, his Only Begotten
-Son, our Savior and Redeemer. Founded on our knowledge of those things, faith
-in the Lord Jesus Christ is a conviction and trust that God knows us and loves
-us and will hear our prayers and answer them with what is best for us.
+10:17](/scriptures/nt/rom/10.17?lang=eng#16)). That word, which comes to us by
+scripture, by prophetic teaching, and by personal revelation, teaches us that
+we are children of God, the Eternal Father. It teaches us about the identity
+and mission of Jesus Christ, his Only Begotten Son, our Savior and Redeemer.
+Founded on our knowledge of those things, faith in the Lord Jesus Christ is a
+conviction and trust that God knows us and loves us and will hear our prayers
+and answer them with what is best for us.
 
 In fact, God will do more than what is best for us. He will do what is best
 for us and for all of our Heavenly Father's children. The conviction that the
@@ -112,33 +111,31 @@ event of his life, the climactic fulfillment of his mission as our Savior. The
 gospel of Luke, as corrected in the inspired translation of the Prophet Joseph
 Smith, describes how he knelt down and prayed: "Father, if thou be willing,
 remove this cup from me; nevertheless, not my will, but thine be done" ([JST,
-Luke 22:42](https://www.lds.org/scriptures/jst/bible-jst-
-luke/22.42?lang=eng#41)).
+Luke 22:42](/scriptures/jst/bible-jst-luke/22.42?lang=eng#41)).
 
 Here we see the Savior's absolute faith and trust in the Father.
 "Nevertheless," he said, "not my will, but thine be done." The Father's answer
 was to deny the plea of his Only Begotten Son. The Atonement had to be worked
 out by that lamb without blemish. But though the Son's request was denied, his
 prayer was answered. The scripture records: "And there appeared an angel unto
-him from heaven, strengthening him" ([JST, Luke
-22:43](https://www.lds.org/scriptures/jst/bible-jst-luke/22.43?lang=eng#42)).
+him from heaven, strengthening him" ([JST, Luke 22:43](/scriptures/jst/bible-
+jst-luke/22.43?lang=eng#42)).
 
 Strengthened from heaven to do the will of the Father, the Savior fulfilled
 his mission. "And being in an agony, he prayed more earnestly; and he sweat as
 it were great drops of blood falling down to the ground" ([JST, Luke
-22:44](https://www.lds.org/scriptures/jst/bible-jst-luke/22.44?lang=eng#43)).
+22:44](/scriptures/jst/bible-jst-luke/22.44?lang=eng#43)).
 
 When we try to develop faith in the Lord Jesus Christ rather than merely
 cultivating faith as an abstract principle of power, we understand the meaning
 of the Savior's words: "If ye will have faith in me ye shall have power to do
 whatsoever thing is expedient in me" ([Moro.
-7:33](https://www.lds.org/scriptures/bofm/moro/7.33?lang=eng#32)).
+7:33](/scriptures/bofm/moro/7.33?lang=eng#32)).
 
 Similarly, the Savior taught the Nephites that they must always pray to the
 Father in his name, adding: "And whatsoever ye shall ask the Father in my
 name, which is right, believing that ye shall receive, behold it shall be
-given unto you" ([3 Ne.
-18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19)).
+given unto you" ([3 Ne. 18:20](/scriptures/bofm/3-ne/18.20?lang=eng#19)).
 
 Here the Savior reminds us that faith, no matter how strong it is, cannot
 produce a result contrary to the will of him whose power it is. The exercise
@@ -196,11 +193,10 @@ or service interferes with your personal preferences.
 You need the strength that comes from faith and trust in the Lord Jesus Christ
 if you are to fulfill your duty "to stand as witnesses of God at all times and
 in all things, and in all places" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)). In times
-of trial you need the comfort offered in the holy scriptures, which assure you
-that when you have the shield of faith you will "be able to quench all the
-fiery darts of the wicked" ([D&amp;C 27:17](https://www.lds.org/scriptures/dc-
-testament/dc/27.17?lang=eng#16)).
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)). In times of trial you need
+the comfort offered in the holy scriptures, which assure you that when you
+have the shield of faith you will "be able to quench all the fiery darts of
+the wicked" ([D&amp;C 27:17](/scriptures/dc-testament/dc/27.17?lang=eng#16)).
 
 Faith in the Lord Jesus Christ prepares you for whatever life brings. This
 kind of faith prepares you to deal with life's opportunities--to take
@@ -210,10 +206,12 @@ disappointments of those that are lost.
 Most importantly, faith in the Lord Jesus Christ opens the door of salvation
 and exaltation: "For no [one] can be saved, according to the words of Christ,
 save they shall have faith in his name" ([Moro.
-7:38](https://www.lds.org/scriptures/bofm/moro/7.38?lang=eng#37)).
+7:38](/scriptures/bofm/moro/7.38?lang=eng#37)).
 
 I testify that these things are true. I invoke the blessings of Almighty God
 upon you, my faithful young sisters, as you seek to develop and exercise your
 faith and trust in the Lord Jesus Christ and as you seek to serve him and keep
 his commandments, in the name of Jesus Christ, amen.
+
+## References
 

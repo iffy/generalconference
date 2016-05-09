@@ -48,7 +48,7 @@ which are expedient unto man. And they are free to choose liberty and eternal
 life, through the great Mediator of all men, or to choose captivity and death,
 according to the captivity and power of the devil; for he seeketh that all men
 might be miserable like unto himself." ([2 Ne.
-2:26-27](https://www.lds.org/scriptures/bofm/2-ne/2.26-27?lang=eng#25).)
+2:26-27](/scriptures/bofm/2-ne/2.26-27?lang=eng#25).)
 
 As President Brigham Young said:
 
@@ -78,12 +78,12 @@ foundation upon which the others can rise.
 
 In the eighth chapter of John, the Savior says, "I am the light of the world:
 he that followeth me shall not walk in darkness, but shall have the light of
-life." ([John 8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).)
-If we accept this statement of the Lord, others will naturally fold into
-proper place. What does it mean to have the "light of life" and "not walk in
-darkness"? A rich young ruler may have had this question in mind when he asked
-Jesus what he should do to inherit eternal life, which is the greatest gift of
-God to man. The Savior responded:
+life." ([John 8:12](/scriptures/nt/john/8.12?lang=eng#11).) If we accept this
+statement of the Lord, others will naturally fold into proper place. What does
+it mean to have the "light of life" and "not walk in darkness"? A rich young
+ruler may have had this question in mind when he asked Jesus what he should do
+to inherit eternal life, which is the greatest gift of God to man. The Savior
+responded:
 
 "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not
 steal, Do not bear false witness, Honour thy father and thy mother.
@@ -101,7 +101,7 @@ that have riches enter into the kingdom of God!
 
 "For it is easier for a camel to go through a needle's eye, than for a rich
 man to enter into the kingdom of God." ([Luke
-18:20-25](https://www.lds.org/scriptures/nt/luke/18.20-25?lang=eng#19).)
+18:20-25](/scriptures/nt/luke/18.20-25?lang=eng#19).)
 
 May I restate part of President Young's quotation: "When salvation is sent to
 me, I can reject or receive it. In receiving it, I yield implicit obedience
@@ -109,13 +109,12 @@ and submission to its great Author throughout my life."
 
 One of the great lessons on obedience is taught in the story of Naaman. Naaman
 was "captain of the host of the king of Syria, ... and a mighty man in valour,
-but he was a leper." ([2 Kgs.
-5:1](https://www.lds.org/scriptures/ot/2-kgs/5.1?lang=eng#0).)
+but he was a leper." ([2 Kgs. 5:1](/scriptures/ot/2-kgs/5.1?lang=eng#0).)
 
 One of his wife's maidens, an Israelite who had great faith and concern for
 Naaman's condition, "said unto her mistress, Would God my lord were with the
 prophet that is in Samaria! for he would recover him of his leprosy." ([2 Kgs.
-5:3](https://www.lds.org/scriptures/ot/2-kgs/5.3?lang=eng#2).)
+5:3](/scriptures/ot/2-kgs/5.3?lang=eng#2).)
 
 When the king learned of this, he sent Naaman to the king of Israel with a
 letter and with gifts, requesting that the king of Israel cure Naaman of his
@@ -131,7 +130,7 @@ the house of Elisha.
 
 "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven
 times, and thy flesh shall come again to thee, and thou shalt be clean." ([2
-Kgs. 5:8-10](https://www.lds.org/scriptures/ot/2-kgs/5.8-10?lang=eng#7).)
+Kgs. 5:8-10](/scriptures/ot/2-kgs/5.8-10?lang=eng#7).)
 
 Naaman being a man of high position was insulted that Elisha would send a
 messenger and not show him the respect of coming himself. In addition, the
@@ -152,7 +151,7 @@ much rather then, when he said to thee, Wash, and be clean?
 "Then went he down, and dipped himself seven times in Jordan, according to the
 saying of the man of God: and his flesh came again like unto the flesh of a
 little child, and he was clean." ([2 Kgs.
-5:11-14](https://www.lds.org/scriptures/ot/2-kgs/5.11-14?lang=eng#10).)
+5:11-14](/scriptures/ot/2-kgs/5.11-14?lang=eng#10).)
 
 Naaman needed to have the faith of a child to be obedient as a child before
 his flesh became clean as a little child's.
@@ -163,7 +162,7 @@ Lord wishes done. In the parable of the ten virgins, we are taught the folly
 of procrastinating and delaying our preparation for the day when the Savior
 will come again--but it is our choice. We "are free to choose liberty and
 eternal life ... or to choose captivity and death." ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).)
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).)
 
 "Then shall the kingdom of heaven be likened unto ten virgins, which took
 their lamps, and went forth to meet the bridegroom"--who is the Savior--at his
@@ -195,7 +194,7 @@ went in with him to the marriage: and the door was shut.
 
 "Watch therefore, for ye know neither the day nor the hour wherein the Son of
 man cometh." ([Matt. 25:1-4,
-6-13](https://www.lds.org/scriptures/nt/matt/25.1-4%2C6-13?lang=eng#0).)
+6-13](/scriptures/nt/matt/25.1-4,6-13?lang=eng#0).)
 
 The foolish virgins expected that they could borrow oil from others. To their
 sorrow, they learned that they were individually responsible for their
@@ -216,7 +215,8 @@ multiply and wax strong, and their children shall grow up without sin unto
 salvation.
 
 "For the Lord shall be in their midst, and his glory shall be upon them, and
-he will be their king and their lawgiver." ([D&amp;C
-45:56-59](https://www.lds.org/scriptures/dc-
+he will be their king and their lawgiver." ([D&amp;C 45:56-59](/scriptures/dc-
 testament/dc/45.56-59?lang=eng#55).) In the name of Jesus Christ, amen.
+
+## References
 

@@ -16,10 +16,10 @@ needs to know what a testimony is, how we can get it, and what our
 responsibilities are once we have received a testimony.
 
 A testimony is the spirit of prophecy (see [Rev.
-19:10](https://www.lds.org/scriptures/nt/rev/19.10?lang=eng#9)). It is a
-personal revelation from God, revealing the truthfulness of the gospel of
-Jesus Christ. A testimony comes through the Holy Ghost; it makes a deep and
-lasting impression on the soul.
+19:10](/scriptures/nt/rev/19.10?lang=eng#9)). It is a personal revelation from
+God, revealing the truthfulness of the gospel of Jesus Christ. A testimony
+comes through the Holy Ghost; it makes a deep and lasting impression on the
+soul.
 
 Individual testimonies are the foundation and strength of the Church. Our
 testimony provides a guiding light that leads to a commitment which directs
@@ -33,8 +33,7 @@ Addresses 1973,_ Provo: Brigham Young University Press, 1973, p. 101).
 Our testimony is the fruit of obedience in the form of peace, joy, and
 understanding in our hearts of gospel principles. A testimony is a shield of
 faith "wherewith ye shall be able to quench all the fiery darts of the wicked"
-([D&amp;C 27:17](https://www.lds.org/scriptures/dc-
-testament/dc/27.17?lang=eng#16)).
+([D&amp;C 27:17](/scriptures/dc-testament/dc/27.17?lang=eng#16)).
 
 Our testimony is a measurement of our faith. Faith is testimony; testimony is
 faith. Having a strong testimony allows us to help others in their search for
@@ -73,10 +72,10 @@ he obtained his testimony of God the Father and his Son Jesus Christ. Joseph
 had serious reflection about religions of his time. He read in the scriptures
 that if he lacked wisdom, he could ask of God, and wisdom would be given to
 him. The passage of scripture found in [James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4) came to his heart
-with great power and feeling. Joseph reflected on the scripture again and
-again. He retired to the woods to express in humble prayer the desire of his
-heart, to do as James directed--to ask of God.
+1:5](/scriptures/nt/james/1.5?lang=eng#4) came to his heart with great power
+and feeling. Joseph reflected on the scripture again and again. He retired to
+the woods to express in humble prayer the desire of his heart, to do as James
+directed--to ask of God.
 
 As we humbly testify to the world, there appeared to Joseph in answer to his
 prayer the very Eternal God of heaven and earth and his Only Begotten Son, who
@@ -92,12 +91,12 @@ of true religion.
 
 Joseph Smith sealed his testimony with his own blood. The Prophet's martyrdom
 was a voluntary acceptance of death to seal the testimony of the Book of
-Mormon and the Doctrine and Covenants (see [D&amp;C
-135:1](https://www.lds.org/scriptures/dc-testament/dc/135.1?lang=eng#0)) and
-to bear holy witness of Jesus Christ and his gospel in this dispensation. We
-do not give our testimony and life in the manner that Joseph Smith, the
-martyred Prophet, gave his life. Rather, we give testimony by devoted service
-in our lives each day to lift and strengthen others.
+Mormon and the Doctrine and Covenants (see [D&amp;C 135:1](/scriptures/dc-
+testament/dc/135.1?lang=eng#0)) and to bear holy witness of Jesus Christ and
+his gospel in this dispensation. We do not give our testimony and life in the
+manner that Joseph Smith, the martyred Prophet, gave his life. Rather, we give
+testimony by devoted service in our lives each day to lift and strengthen
+others.
 
 The prophets who followed Joseph Smith in this dispensation each obtained
 their own testimonies by the same basic principles with individual
@@ -171,7 +170,7 @@ personal experience the process and phases we go through to gain a testimony:
 Have a sincere desire to know the truth and express that desire in humble
 prayer to our Heavenly Father. "If ye can no more than desire to believe, let
 this desire work in you" ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26)).
+32:27](/scriptures/bofm/alma/32.27?lang=eng#26)).
 
 Search the scriptures. Continue to pray. The scriptures are filled with the
 testimonies of those who have gone before. Even they, though long dead, can
@@ -195,11 +194,10 @@ searching for the truth.
 
 Share our testimony. "O that I were an angel," proclaimed Alma, "and could
 have the wish of mine heart, that I might go forth and speak with the trump of
-God" ([Alma 29:1](https://www.lds.org/scriptures/bofm/alma/29.1?lang=eng#0)).
-Let others know that you know. Bear your testimony in fast meeting. Tell your
-family; tell your friends. You will find when you share your testimony it
-becomes stronger, and there are many others around you who also want to
-embrace the truth.
+God" ([Alma 29:1](/scriptures/bofm/alma/29.1?lang=eng#0)). Let others know
+that you know. Bear your testimony in fast meeting. Tell your family; tell
+your friends. You will find when you share your testimony it becomes stronger,
+and there are many others around you who also want to embrace the truth.
 
 Be willing to endure the test of time. Do not think that it is easy to
 maintain a testimony. Others will test you. Sometimes they will point the
@@ -252,4 +250,6 @@ testimony to the gift and power of the Holy Ghost, the eternal nature of the
 priesthood, the calling of the Prophet Joseph Smith, the Book of Mormon, and
 the assurance that God has again spoken through a living prophet in President
 Howard W. Hunter, in the name of Jesus Christ, amen.
+
+## References
 

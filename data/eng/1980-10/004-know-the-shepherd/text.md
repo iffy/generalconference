@@ -38,7 +38,7 @@ anointest my head with oil: my cup runneth over.
 
 "Surely goodness and mercy shall follow me all the days of my life: and I will
 dwell in the house of the Lord for ever." [[Ps.
-23:1-6](https://www.lds.org/scriptures/ot/ps/23.1-6?lang=eng#0)]
+23:1-6](/scriptures/ot/ps/23.1-6?lang=eng#0)]
 
 When the old man finished, there was no applause, but there was not a dry eye
 in that house. The actor came to the front of the stage. He, too, was wiping
@@ -108,7 +108,7 @@ gradually until it fell upon me. ... When the light rested upon me, I saw two
 Personages, whose brightness and glory defy all description, standing above me
 in the air. One of them spake unto me, calling me by name and said, pointing
 to the other--_This is My Beloved Son. Hear Him!_" ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
 
 The young prophet continues describing this unprecedented and heaven-opening
 event: "My object in going to inquire of the Lord was to know which of all the
@@ -116,8 +116,7 @@ event: "My object in going to inquire of the Lord was to know which of all the
 did I get possession of myself, so as to be able to speak, than I asked the
 Personages who stood above me in the light, which of all the [churches] was
 right--and which I should join. I was answered that I must join none of them."
-([JS--H
-1:18-19](https://www.lds.org/scriptures/pgp/js-h/1.18-19?lang=eng#17).)
+([JS--H 1:18-19](/scriptures/pgp/js-h/1.18-19?lang=eng#17).)
 
 For a period of ten years Joseph, the Prophet, was taught by resurrected
 beings, by ancient prophets who returned, and by angels from beyond the veil.
@@ -137,22 +136,24 @@ pure snow; his countenance shone above the brightness of the sun; and his
 voice was as the sound of the rushing of great waters, ... saying:
 
 "I am the first and the last; I am he who liveth, I am he who was slain; I am
-your advocate with the Father." ([D&amp;C
-110:1-4](https://www.lds.org/scriptures/dc-testament/dc/110.1-4?lang=eng#0).)
-The Prophet who wrote that description knew the Shepherd.
+your advocate with the Father." ([D&amp;C 110:1-4](/scriptures/dc-
+testament/dc/110.1-4?lang=eng#0).) The Prophet who wrote that description knew
+the Shepherd.
 
 The Prophet Joseph Smith met a martyr's death. He died for his testimony,
 sealing his witness with his blood. We pay tribute to him as the first prophet
 of this dispensation and the most important prophet of all dispensations of
 time. He "has done more, save Jesus only, for the salvation of men in this
-world, than any other man that ever lived" ([D&amp;C
-135:3](https://www.lds.org/scriptures/dc-testament/dc/135.3?lang=eng#2)). We
-honor Joseph Smith this 150th anniversary year of the founding of the Church
-as a prophet who knew the Shepherd intimately.
+world, than any other man that ever lived" ([D&amp;C 135:3](/scriptures/dc-
+testament/dc/135.3?lang=eng#2)). We honor Joseph Smith this 150th anniversary
+year of the founding of the Church as a prophet who knew the Shepherd
+intimately.
 
 We should each ask, "Am I loving enough, am I studying enough, am I serving
 enough to _know_ the Shepherd?" May we all come to know the Savior, through
 obeying his commandments, that when we meet him face to face, we each can say,
 "I know thee; thou art my Shepherd." This I testify in the name of Jesus
 Christ, our loving Shepherd, amen.
+
+## References
 

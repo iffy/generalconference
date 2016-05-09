@@ -19,7 +19,7 @@ fulfill all of the decrees of a loving Heavenly Father for "the salvation of
 
 An inspired Prophet Joseph Smith wrote, "It is necessary ... that a ... welding
 together of dispensations ... should take place ... from the days of Adam even to
-the present time." ([D&amp;C 128:18](https://www.lds.org/scriptures/dc-
+the present time." ([D&amp;C 128:18](/scriptures/dc-
 testament/dc/128.18?lang=eng#17).)
 
 The gospel, of course, is of great antiquity. In the heavenly kingdom it was
@@ -95,13 +95,13 @@ he enter the second time into his mother's womb, and be born?
 
 "Jesus answered, Verily, verily, I say unto thee, Except a man be born of
 water and of the Spirit, he cannot enter into the kingdom of God." ([John
-3:3-5](https://www.lds.org/scriptures/nt/john/3.3-5?lang=eng#2).)
+3:3-5](/scriptures/nt/john/3.3-5?lang=eng#2).)
 
 I also made reference to the early Apostles' teachings regarding Christ's
 resurrection and the resurrection of all, including Paul's great statement:
 "Else what shall they do which are baptized for the dead, if the dead rise not
 at all? why are they then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28)).
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28)).
 
 The engaged lawyer seemed comfortable. He presented our case effectively. We
 won our building permit. The chapel now stands in Glasgow, Scotland.
@@ -112,8 +112,7 @@ The Prophet Joseph Smith declared:
 living that cannot be lightly passed over, as pertaining to our salvation. For
 their salvation is necessary and essential to our salvation. ... They without us
 cannot be made perfect--neither can we without our dead be made perfect."
-([D&amp;C 128:15](https://www.lds.org/scriptures/dc-
-testament/dc/128.15?lang=eng#14).)
+([D&amp;C 128:15](/scriptures/dc-testament/dc/128.15?lang=eng#14).)
 
 "But how?" you might say. "Even with the millions of rolls of microfilm at my
 fingertips, even with the Family History Library in Salt Lake City and the
@@ -236,7 +235,9 @@ The Church of Jesus Christ of Latter-day Saints, 1924, p. 145.)
 church and a people, and as Latter-day Saints, offer unto the Lord an offering
 in righteousness; and let us present in his holy temple ... a book containing
 the records of our dead, which shall be worthy of all [acceptance]." ([D&amp;C
-128:24](https://www.lds.org/scriptures/dc-testament/dc/128.24?lang=eng#23).)
+128:24](/scriptures/dc-testament/dc/128.24?lang=eng#23).)
 
 This I pray in the name of Jesus Christ, amen.
+
+## References
 

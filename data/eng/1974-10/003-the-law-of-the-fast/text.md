@@ -32,12 +32,11 @@ and principle. He said:
 "Fasting and prayer in the present dispensation have been carried over from
 primitive times. From the organization of the Church the principle of fasting
 in the spirit of prayer has been a commandment of the Lord. [See [D&amp;C
-59:8-13](https://www.lds.org/scriptures/dc-testament/dc/59.8-13?lang=eng#7);
-[D&amp;C 88:76, 119](https://www.lds.org/scriptures/dc-
-testament/dc/88.76%2C119?lang=eng#75).] In regard to the choosing of a set day
-of the month, we have this testimony coming from President Brigham Young in a
-discourse [which was delivered] in the old tabernacle, [in] Salt Lake City,
-[on] December 8, 1867.
+59:8-13](/scriptures/dc-testament/dc/59.8-13?lang=eng#7); [D&amp;C 88:76,
+119](/scriptures/dc-testament/dc/88.76,119?lang=eng#75).] In regard to the
+choosing of a set day of the month, we have this testimony coming from
+President Brigham Young in a discourse [which was delivered] in the old
+tabernacle, [in] Salt Lake City, [on] December 8, 1867.
 
 "President Young said, '... You know that the first Thursday in each month we
 hold ... fast day. How many here know the origin of this day? Before tithing was
@@ -148,4 +147,6 @@ increase our prosperity, both spiritually and temporally."
 
 I firmly believe that the paying of fast offerings does result in rich
 blessings. And to this I testify in the name of the Lord Jesus Christ. Amen.
+
+## References
 

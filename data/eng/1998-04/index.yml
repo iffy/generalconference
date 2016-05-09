@@ -1,427 +1,349 @@
 items:
-- article_id: '98905_000_003'
-  item: '002'
-  key: 002-we-bear-witness-of-him
+- item: 1
+  key: 000-we-bear-witness-of-him
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: we-bear-witness-of-him
   speaker: Gordon B. Hinckley
   title: We Bear Witness of Him
   url: https://www.lds.org/general-conference/1998/04/we-bear-witness-of-him?lang=eng
   year: 1998
-- article_id: '98905_000_004'
-  item: '003'
-  key: 003-live-the-commandments
+- item: 2
+  key: 001-live-the-commandments
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: live-the-commandments
   speaker: David B. Haight
   title: Live the Commandments
   url: https://www.lds.org/general-conference/1998/04/live-the-commandments?lang=eng
   year: 1998
-- article_id: '98905_000_005'
-  item: '005'
-  key: 005-teaching-our-children-to-love-the-scriptures
+- item: 3
+  key: 002-teaching-our-children-to-love-the-scriptures
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: teaching-our-children-to-love-the-scriptures
   speaker: Anne G. Wirthlin
   title: Teaching Our Children to Love the Scriptures
   url: https://www.lds.org/general-conference/1998/04/teaching-our-children-to-love-the-scriptures?lang=eng
   year: 1998
-- article_id: '98905_000_006'
-  item: '006'
-  key: 006-a-disciple-a-friend
+- item: 4
+  key: 003-a-disciple-a-friend
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: a-disciple-a-friend
   speaker: Richard C. Edgley
   title: A Disciple, a Friend
   url: https://www.lds.org/general-conference/1998/04/a-disciple-a-friend?lang=eng
   year: 1998
-- article_id: '98905_000_007'
-  item: 008
-  key: 008-the-time-to-prepare
+- item: 5
+  key: 004-the-time-to-prepare
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-time-to-prepare
   speaker: Joseph B. Wirthlin
   title: The Time to Prepare
   url: https://www.lds.org/general-conference/1998/04/the-time-to-prepare?lang=eng
   year: 1998
-- article_id: '98905_000_008'
-  item: '010'
-  key: 010-search-me-o-god-and-know-my-heart
+- item: 6
+  key: 005-search-me-o-god-and-know-my-heart
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: search-me-o-god-and-know-my-heart
   speaker: James E. Faust
-  title: "\u201CSearch Me, O God, and Know My Heart\u201D"
+  title: '"Search Me, O God, and Know My Heart"'
   url: https://www.lds.org/general-conference/1998/04/search-me-o-god-and-know-my-heart?lang=eng
   year: 1998
-- article_id: '98905_000_009'
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: James E. Faust
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1998/04/the-sustaining-of-church-officers?lang=eng
   year: 1998
-- article_id: '98905_000_010'
-  item: '015'
-  key: 015-the-church-audit-committee-report
+- item: 8
+  key: 007-the-church-audit-committee-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-church-audit-committee-report
   speaker: Ted E. Davis
   title: The Church Audit Committee Report
   url: https://www.lds.org/general-conference/1998/04/the-church-audit-committee-report?lang=eng
   year: 1998
-- article_id: '98905_000_011'
-  item: '016'
-  key: 016-statistical-report-1997
+- item: 9
+  key: 008-statistical-report-1997
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-1997
   speaker: F. Michael Watson
   title: Statistical Report, 1997
   url: https://www.lds.org/general-conference/1998/04/statistical-report-1997?lang=eng
   year: 1998
-- article_id: '98905_000_012'
-  item: '017'
-  key: 017-the-articles-of-faith
+- item: 10
+  key: 009-the-articles-of-faith
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-articles-of-faith
   speaker: L. Tom Perry
   title: The Articles of Faith
   url: https://www.lds.org/general-conference/1998/04/the-articles-of-faith?lang=eng
   year: 1998
-- article_id: '98905_000_013'
-  item: 018
-  key: 018-a-teacher-come-from-god
+- item: 11
+  key: 010-a-teacher-come-from-god
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-teacher-come-from-god
   speaker: Jeffrey R. Holland
-  title: "\u201CA Teacher Come from God\u201D"
+  title: '"A Teacher Come from God"'
   url: https://www.lds.org/general-conference/1998/04/a-teacher-come-from-god?lang=eng
   year: 1998
-- article_id: '98905_000_014'
-  item: '020'
-  key: 020-christ-can-change-human-behavior
+- item: 12
+  key: 011-christ-can-change-human-behavior
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: christ-can-change-human-behavior
   speaker: Richard E. Cook
   title: Christ Can Change Human Behavior
   url: https://www.lds.org/general-conference/1998/04/christ-can-change-human-behavior?lang=eng
   year: 1998
-- article_id: '98905_000_015'
-  item: '021'
-  key: 021-the-kingdoms-perfecting-pathway
+- item: 13
+  key: 012-the-kingdoms-perfecting-pathway
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-kingdoms-perfecting-pathway
   speaker: Dale E. Miller
-  title: "The Kingdom\u2019s Perfecting Pathway"
+  title: The Kingdom's Perfecting Pathway
   url: https://www.lds.org/general-conference/1998/04/the-kingdoms-perfecting-pathway?lang=eng
   year: 1998
-- article_id: '98905_000_016'
-  item: '022'
-  key: 022-marvelous-are-the-revelations-of-the-lord
+- item: 14
+  key: 013-marvelous-are-the-revelations-of-the-lord
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: marvelous-are-the-revelations-of-the-lord
   speaker: M. Russell Ballard
   title: Marvelous Are the Revelations of the Lord
   url: https://www.lds.org/general-conference/1998/04/marvelous-are-the-revelations-of-the-lord?lang=eng
   year: 1998
-- article_id: '98905_000_017'
-  item: '023'
-  key: 023-a-new-harvest-time
+- item: 15
+  key: 014-a-new-harvest-time
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-new-harvest-time
   speaker: Russell M. Nelson
   title: A New Harvest Time
   url: https://www.lds.org/general-conference/1998/04/a-new-harvest-time?lang=eng
   year: 1998
-- article_id: '98905_000_018'
-  item: '027'
-  key: 027-put-your-shoulder-to-the-wheel
+- item: 16
+  key: 015-put-your-shoulder-to-the-wheel
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: put-your-shoulder-to-the-wheel
   speaker: Neal A. Maxwell
-  title: "\u201CPut Your Shoulder to the Wheel\u201D"
+  title: '"Put Your Shoulder to the Wheel"'
   url: https://www.lds.org/general-conference/1998/04/put-your-shoulder-to-the-wheel?lang=eng
   year: 1998
-- article_id: '98905_000_019'
-  item: 028
-  key: 028-missionary-service
+- item: 17
+  key: 016-missionary-service
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: missionary-service
   speaker: Earl C. Tingey
   title: Missionary Service
   url: https://www.lds.org/general-conference/1998/04/missionary-service?lang=eng
   year: 1998
-- article_id: '98905_000_020'
-  item: 029
-  key: 029-the-heart-and-a-willing-mind
+- item: 18
+  key: 017-the-heart-and-a-willing-mind
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-heart-and-a-willing-mind
   speaker: James M. Paramore
-  title: "\u201CThe Heart and a Willing Mind\u201D"
+  title: '"The Heart and a Willing Mind"'
   url: https://www.lds.org/general-conference/1998/04/the-heart-and-a-willing-mind?lang=eng
   year: 1998
-- article_id: '98905_000_021'
-  item: '031'
-  key: 031-we-seek-after-these-things
+- item: 19
+  key: 018-we-seek-after-these-things
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: we-seek-after-these-things
   speaker: James E. Faust
-  title: "\u201CWe Seek After These Things\u201D"
+  title: '"We Seek After These Things"'
   url: https://www.lds.org/general-conference/1998/04/we-seek-after-these-things?lang=eng
   year: 1998
-- article_id: '98905_000_022'
-  item: '032'
-  key: 032-in-harms-way
+- item: 20
+  key: 019-in-harms-way
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: in-harms-way
   speaker: Thomas S. Monson
-  title: "In Harm\u2019s Way"
+  title: In Harm's Way
   url: https://www.lds.org/general-conference/1998/04/in-harms-way?lang=eng
   year: 1998
-- article_id: '98905_000_023'
-  item: '033'
-  key: 033-living-worthy-of-the-girl-you-will-someday-marry
+- item: 21
+  key: 020-living-worthy-of-the-girl-you-will-someday-marry
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: living-worthy-of-the-girl-you-will-someday-marry
   speaker: Gordon B. Hinckley
   title: Living Worthy of the Girl You Will Someday Marry
   url: https://www.lds.org/general-conference/1998/04/living-worthy-of-the-girl-you-will-someday-marry?lang=eng
   year: 1998
-- article_id: '98905_000_024'
-  item: '037'
-  key: 037-look-to-god-and-live
+- item: 22
+  key: 021-look-to-god-and-live
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: look-to-god-and-live
   speaker: Thomas S. Monson
   title: Look to God and Live
   url: https://www.lds.org/general-conference/1998/04/look-to-god-and-live?lang=eng
   year: 1998
-- article_id: '98905_000_025'
-  item: 039
-  key: 039-have-you-been-saved
+- item: 23
+  key: 022-have-you-been-saved
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: have-you-been-saved
   speaker: Dallin H. Oaks
   title: Have You Been Saved?
   url: https://www.lds.org/general-conference/1998/04/have-you-been-saved?lang=eng
   year: 1998
-- article_id: '98905_000_026'
-  item: '041'
-  key: 041-children-and-the-family
+- item: 24
+  key: 023-children-and-the-family
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: children-and-the-family
   speaker: W. Eugene Hansen
   title: Children and the Family
   url: https://www.lds.org/general-conference/1998/04/children-and-the-family?lang=eng
   year: 1998
-- article_id: '98905_000_027'
-  item: '043'
-  key: 043-come-unto-christ
+- item: 25
+  key: 024-come-unto-christ
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: come-unto-christ
   speaker: Margaret D. Nadauld
   title: Come unto Christ
   url: https://www.lds.org/general-conference/1998/04/come-unto-christ?lang=eng
   year: 1998
-- article_id: '98905_000_028'
-  item: '044'
-  key: 044-that-we-may-be-one
+- item: 26
+  key: 025-that-we-may-be-one
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: that-we-may-be-one
   speaker: Henry B. Eyring
   title: That We May Be One
   url: https://www.lds.org/general-conference/1998/04/that-we-may-be-one?lang=eng
   year: 1998
-- article_id: '98905_000_029'
-  item: '046'
-  key: 046-testimony
+- item: 27
+  key: 026-testimony
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: testimony
   speaker: Gordon B. Hinckley
   title: Testimony
   url: https://www.lds.org/general-conference/1998/04/testimony?lang=eng
   year: 1998
-- article_id: '98905_000_030'
-  item: '050'
-  key: 050-the-relief-society
+- item: 28
+  key: 027-the-relief-society
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-relief-society
   speaker: Boyd K. Packer
   title: The Relief Society
   url: https://www.lds.org/general-conference/1998/04/the-relief-society?lang=eng
   year: 1998
-- article_id: '98905_000_031'
-  item: '051'
-  key: 051-behold-we-count-them-happy-which-endure
+- item: 29
+  key: 028-behold-we-count-them-happy-which-endure
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: behold-we-count-them-happy-which-endure
   speaker: Robert D. Hales
-  title: "\u201CBehold, We Count Them Happy Which Endure\u201D"
+  title: '"Behold, We Count Them Happy Which Endure"'
   url: https://www.lds.org/general-conference/1998/04/behold-we-count-them-happy-which-endure?lang=eng
   year: 1998
-- article_id: '98905_000_032'
-  item: '052'
-  key: 052-tithing-a-privilege
+- item: 30
+  key: 029-tithing-a-privilege
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: tithing-a-privilege
   speaker: Ronald E. Poelman
-  title: 'Tithing: A Privilege'
+  title: Tithing:A Privilege
   url: https://www.lds.org/general-conference/1998/04/tithing-a-privilege?lang=eng
   year: 1998
-- article_id: '98905_000_033'
-  item: '054'
-  key: 054-agency-and-anger
+- item: 31
+  key: 030-agency-and-anger
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: agency-and-anger
   speaker: Lynn G. Robbins
   title: Agency and Anger
   url: https://www.lds.org/general-conference/1998/04/agency-and-anger?lang=eng
   year: 1998
-- article_id: '98905_000_034'
-  item: '055'
-  key: 055-obedience-lifes-great-challenge
+- item: 32
+  key: 031-obedience-lifes-great-challenge
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: obedience-lifes-great-challenge
   speaker: Donald L. Staheli
-  title: "Obedience\u2014Life\u2019s Great Challenge"
+  title: "Obedience\u2014Life's Great Challenge"
   url: https://www.lds.org/general-conference/1998/04/obedience-lifes-great-challenge?lang=eng
   year: 1998
-- article_id: '98905_000_035'
-  item: '056'
-  key: 056-bridging-the-gap-between-uncertainty-and-certainty
+- item: 33
+  key: 032-bridging-the-gap-between-uncertainty-and-certainty
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: bridging-the-gap-between-uncertainty-and-certainty
   speaker: Richard E. Turley Sr.
   title: Bridging the Gap between Uncertainty and Certainty
   url: https://www.lds.org/general-conference/1998/04/bridging-the-gap-between-uncertainty-and-certainty?lang=eng
   year: 1998
-- article_id: '98905_000_036'
-  item: '057'
-  key: 057-removing-barriers-to-happiness
+- item: 34
+  key: 033-removing-barriers-to-happiness
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: removing-barriers-to-happiness
   speaker: Richard G. Scott
   title: Removing Barriers to Happiness
   url: https://www.lds.org/general-conference/1998/04/removing-barriers-to-happiness?lang=eng
   year: 1998
-- article_id: '98905_000_037'
-  item: 058
-  key: 058-new-temples-to-provide-crowning-blessings-of-the-gospel
+- item: 35
+  key: 034-new-temples-to-provide-crowning-blessings-of-the-gospel
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: new-temples-to-provide-crowning-blessings-of-the-gospel
   speaker: Gordon B. Hinckley
-  title: "New Temples to Provide \u201CCrowning Blessings\u201D of the Gospel"
+  title: New Temples to Provide "Crowning Blessings" of the Gospel
   url: https://www.lds.org/general-conference/1998/04/new-temples-to-provide-crowning-blessings-of-the-gospel?lang=eng
   year: 1998
-- article_id: '98905_000_038'
-  item: '061'
-  key: 061-turning-hearts-to-the-family
+- item: 36
+  key: 035-turning-hearts-to-the-family
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: turning-hearts-to-the-family
   speaker: Margaret D. Nadauld
   title: Turning Hearts to the Family
   url: https://www.lds.org/general-conference/1998/04/turning-hearts-to-the-family?lang=eng
   year: 1998
-- article_id: '98905_000_039'
-  item: '064'
-  key: 064-understanding-our-true-identity
+- item: 37
+  key: 036-understanding-our-true-identity
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: understanding-our-true-identity
   speaker: Carol B. Thomas
   title: Understanding Our True Identity
   url: https://www.lds.org/general-conference/1998/04/understanding-our-true-identity?lang=eng
   year: 1998
-- article_id: '98905_000_040'
-  item: '066'
-  key: 066-young-women-titles-of-liberty
+- item: 38
+  key: 037-young-women-titles-of-liberty
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: young-women-titles-of-liberty
   speaker: Sharon G. Larsen
   title: "Young Women\u2014Titles of Liberty"
   url: https://www.lds.org/general-conference/1998/04/young-women-titles-of-liberty?lang=eng
   year: 1998
-- article_id: '98905_000_041'
-  item: 068
-  key: 068-how-near-to-the-angels
+- item: 39
+  key: 038-how-near-to-the-angels
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: how-near-to-the-angels
   speaker: James E. Faust

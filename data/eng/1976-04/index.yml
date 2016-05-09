@@ -1,548 +1,466 @@
 items:
-- article_id: '03070_000_003'
-  item: '000'
+- item: 1
   key: 000-the-stone-cut-without-hands
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-stone-cut-without-hands
   speaker: Spencer W. Kimball
   title: The Stone Cut without Hands
   url: https://www.lds.org/general-conference/1976/04/the-stone-cut-without-hands?lang=eng
   year: 1976
-- article_id: '03070_000_004'
-  item: '001'
+- item: 2
   key: 001-hopeless-dawn-joyful-morning
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: hopeless-dawn-joyful-morning
   speaker: Thomas S. Monson
   title: "Hopeless Dawn\u2014Joyful Morning"
   url: https://www.lds.org/general-conference/1976/04/hopeless-dawn-joyful-morning?lang=eng
   year: 1976
-- article_id: '03070_000_005'
-  item: '002'
+- item: 3
   key: 002-the-lamanites-must-rise-in-majesty-and-power
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-lamanites-must-rise-in-majesty-and-power
   speaker: J. Thomas Fyans
   title: The Lamanites Must Rise in Majesty and Power
   url: https://www.lds.org/general-conference/1976/04/the-lamanites-must-rise-in-majesty-and-power?lang=eng
   year: 1976
-- article_id: '03070_000_006'
-  item: '003'
+- item: 4
   key: 003-the-message-of-elijah
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-message-of-elijah
   speaker: Mark E. Petersen
   title: The Message of Elijah
   url: https://www.lds.org/general-conference/1976/04/the-message-of-elijah?lang=eng
   year: 1976
-- article_id: 03070_000_008
-  item: '006'
+- item: 5
+  key: 004-1510651794001
+  month: 4
+  session_title: Saturday Afternoon Session
+  slug: '1510651794001'
+  speaker: Elder Francis M. Gibbons
+  title: Statistical Report 1975
+  url: https://www.lds.org/general-conference/1976/04/media/session_2_talk_1/1510651794001?lang=eng
+  year: 1976
+- item: 6
+  key: 005-1510651795001
+  month: 4
+  session_title: Saturday Afternoon Session
+  slug: '1510651795001'
+  speaker: Elder Wilford G. Edling
+  title: Church Finance Committee Report
+  url: https://www.lds.org/general-conference/1976/04/media/session_2_talk_2/1510651795001?lang=eng
+  year: 1976
+- item: 7
   key: 006-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: N. Eldon Tanner
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1976/04/the-sustaining-of-church-officers?lang=eng
   year: 1976
-- article_id: '03070_000_010'
-  item: '007'
+- item: 8
   key: 007-he-is-the-son-of-god
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: he-is-the-son-of-god
   speaker: David B. Haight
   title: He Is the Son of God
   url: https://www.lds.org/general-conference/1976/04/he-is-the-son-of-god?lang=eng
   year: 1976
-- article_id: '03070_000_011'
-  item: 008
+- item: 9
   key: 008-the-still-small-voice
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-still-small-voice
   speaker: S. Dilworth Young
   title: The Still Small Voice
   url: https://www.lds.org/general-conference/1976/04/the-still-small-voice?lang=eng
   year: 1976
-- article_id: '03070_000_012'
-  item: 009
+- item: 10
   key: 009-you-are-your-greatest-treasure
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: you-are-your-greatest-treasure
   speaker: John H. Vandenberg
   title: You Are Your Greatest Treasure
   url: https://www.lds.org/general-conference/1976/04/you-are-your-greatest-treasure?lang=eng
   year: 1976
-- article_id: '03070_000_013'
-  item: '010'
+- item: 11
   key: 010-jesus-of-nazareth-savior-and-king
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: jesus-of-nazareth-savior-and-king
   speaker: Neal A. Maxwell
-  title: "\u201CJesus of Nazareth, Savior and King\u201D"
+  title: '"Jesus of Nazareth, Savior and King"'
   url: https://www.lds.org/general-conference/1976/04/jesus-of-nazareth-savior-and-king?lang=eng
   year: 1976
-- article_id: '03070_000_014'
-  item: '011'
+- item: 12
   key: 011-the-word-of-wisdom
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-word-of-wisdom
   speaker: Theodore M. Burton
   title: The Word of Wisdom
   url: https://www.lds.org/general-conference/1976/04/the-word-of-wisdom?lang=eng
   year: 1976
-- article_id: '03070_000_015'
-  item: '012'
+- item: 13
   key: 012-spiritual-crocodiles
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: spiritual-crocodiles
   speaker: Boyd K. Packer
   title: Spiritual Crocodiles
   url: https://www.lds.org/general-conference/1976/04/spiritual-crocodiles?lang=eng
   year: 1976
-- article_id: '03070_000_016'
-  item: '013'
+- item: 14
   key: 013-priesthood-authority-and-power
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: priesthood-authority-and-power
   speaker: H. Burke Peterson
   title: "Priesthood\u2014Authority and Power"
   url: https://www.lds.org/general-conference/1976/04/priesthood-authority-and-power?lang=eng
   year: 1976
-- article_id: '03070_000_017'
-  item: '014'
+- item: 15
   key: 014-seek-not-for-riches-but-for-wisdom
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: seek-not-for-riches-but-for-wisdom
   speaker: Franklin D. Richards
-  title: "\u201CSeek Not for Riches But for Wisdom\u201D"
+  title: '"Seek Not for Riches But for Wisdom"'
   url: https://www.lds.org/general-conference/1976/04/seek-not-for-riches-but-for-wisdom?lang=eng
   year: 1976
-- article_id: 03070_000_018
-  item: '015'
+- item: 16
   key: 015-a-missionary-opportunity
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: a-missionary-opportunity
   speaker: Carlos E. Asay
   title: A Missionary Opportunity
   url: https://www.lds.org/general-conference/1976/04/a-missionary-opportunity?lang=eng
   year: 1976
-- article_id: 03070_000_019
-  item: '016'
+- item: 17
   key: 016-learn-obedience-and-service
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: learn-obedience-and-service
-  speaker: Russell Ballard, Jr.
+  speaker: M. Russell Ballard
   title: Learn Obedience and Service
   url: https://www.lds.org/general-conference/1976/04/learn-obedience-and-service?lang=eng
   year: 1976
-- article_id: '03070_000_020'
-  item: '017'
+- item: 18
   key: 017-on-accepting-the-call
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: on-accepting-the-call
   speaker: John H. Groberg
   title: On Accepting the Call
   url: https://www.lds.org/general-conference/1976/04/on-accepting-the-call?lang=eng
   year: 1976
-- article_id: '03070_000_021'
-  item: 018
+- item: 19
   key: 018-shout-it-from-the-rooftops
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: shout-it-from-the-rooftops
   speaker: Jacob de Jager
   title: Shout It from the Rooftops
   url: https://www.lds.org/general-conference/1976/04/shout-it-from-the-rooftops?lang=eng
   year: 1976
-- article_id: '03070_000_022'
-  item: 019
+- item: 20
   key: 019-are-you-taking-your-priesthood-for-granted
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: are-you-taking-your-priesthood-for-granted
   speaker: N. Eldon Tanner
   title: Are You Taking Your Priesthood for Granted?
   url: https://www.lds.org/general-conference/1976/04/are-you-taking-your-priesthood-for-granted?lang=eng
   year: 1976
-- article_id: '03070_000_023'
-  item: '020'
+- item: 21
   key: 020-boys-need-heroes-close-by
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: boys-need-heroes-close-by
   speaker: Spencer W. Kimball
   title: Boys Need Heroes Close By
   url: https://www.lds.org/general-conference/1976/04/boys-need-heroes-close-by?lang=eng
   year: 1976
-- article_id: '03070_000_024'
-  item: '021'
+- item: 22
   key: 021-if-they-will-but-serve-the-god-of-the-land
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: if-they-will-but-serve-the-god-of-the-land
   speaker: N. Eldon Tanner
   title: If They Will But Serve the God of the Land
   url: https://www.lds.org/general-conference/1976/04/if-they-will-but-serve-the-god-of-the-land?lang=eng
   year: 1976
-- article_id: '03070_000_025'
-  item: '022'
+- item: 23
   key: 022-family-communications
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: family-communications
   speaker: Marvin J. Ashton
   title: Family Communications
   url: https://www.lds.org/general-conference/1976/04/family-communications?lang=eng
   year: 1976
-- article_id: '03070_000_026'
-  item: '023'
+- item: 24
   key: 023-there-am-i-in-the-midst-of-them
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: there-am-i-in-the-midst-of-them
   speaker: Joseph B. Wirthlin
-  title: "\u201CThere Am I in the Midst of Them\u201D"
+  title: '"There Am I in the Midst of Them"'
   url: https://www.lds.org/general-conference/1976/04/there-am-i-in-the-midst-of-them?lang=eng
   year: 1976
-- article_id: '03070_000_027'
-  item: '024'
+- item: 25
   key: 024-these-four-things
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: these-four-things
   speaker: Robert L. Simpson
   title: These Four Things
   url: https://www.lds.org/general-conference/1976/04/these-four-things?lang=eng
   year: 1976
-- article_id: 03070_000_028
-  item: '025'
+- item: 26
   key: 025-an-honest-man-gods-noblest-work
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: an-honest-man-gods-noblest-work
   speaker: Gordon B. Hinckley
-  title: "\u201CAn Honest Man\u2014God\u2019s Noblest Work\u201D"
+  title: "\"An Honest Man\u2014God's Noblest Work\""
   url: https://www.lds.org/general-conference/1976/04/an-honest-man-gods-noblest-work?lang=eng
   year: 1976
-- article_id: 03070_000_029
-  item: '026'
+- item: 27
   key: 026-as-a-man-soweth
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: as-a-man-soweth
   speaker: L. Tom Perry
-  title: "\u201CAs a Man Soweth\u201D"
+  title: '"As a Man Soweth"'
   url: https://www.lds.org/general-conference/1976/04/as-a-man-soweth?lang=eng
   year: 1976
-- article_id: '03070_000_030'
-  item: '027'
+- item: 28
   key: 027-a-living-prophet
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-living-prophet
   speaker: Loren C. Dunn
   title: A Living Prophet
   url: https://www.lds.org/general-conference/1976/04/a-living-prophet?lang=eng
   year: 1976
-- article_id: '03070_000_031'
-  item: 028
+- item: 29
   key: 028-who-is-jesus
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: who-is-jesus
   speaker: Eldred G. Smith
   title: Who Is Jesus?
   url: https://www.lds.org/general-conference/1976/04/who-is-jesus?lang=eng
   year: 1976
-- article_id: '03070_000_032'
-  item: 029
+- item: 30
   key: 029-relationships
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: relationships
   speaker: William Grant Bangerter
   title: Relationships
   url: https://www.lds.org/general-conference/1976/04/relationships?lang=eng
   year: 1976
-- article_id: '03070_000_033'
-  item: '030'
+- item: 31
   key: 030-the-right-to-choose
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-right-to-choose
   speaker: Henry D. Taylor
   title: The Right to Choose
   url: https://www.lds.org/general-conference/1976/04/the-right-to-choose?lang=eng
   year: 1976
-- article_id: '03070_000_034'
-  item: '031'
+- item: 32
   key: 031-the-leaves-are-commencing-to-show-on-the-fig-tree
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-leaves-are-commencing-to-show-on-the-fig-tree
   speaker: Bernard P. Brockbank
-  title: "\u201CThe Leaves Are Commencing to Show on the Fig Tree\u201D"
+  title: '"The Leaves Are Commencing to Show on the Fig Tree"'
   url: https://www.lds.org/general-conference/1976/04/the-leaves-are-commencing-to-show-on-the-fig-tree?lang=eng
   year: 1976
-- article_id: '03070_000_035'
-  item: '032'
+- item: 33
   key: 032-easter-thoughts
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: easter-thoughts
   speaker: Delbert L. Stapley
   title: Easter Thoughts
   url: https://www.lds.org/general-conference/1976/04/easter-thoughts?lang=eng
   year: 1976
-- article_id: '03070_000_036'
-  item: '033'
+- item: 34
   key: 033-the-way-of-life
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: the-way-of-life
   speaker: Marion G. Romney
   title: The Way of Life
   url: https://www.lds.org/general-conference/1976/04/the-way-of-life?lang=eng
   year: 1976
-- article_id: '03070_000_037'
-  item: '034'
+- item: 35
   key: 034-value-of-the-holy-scriptures
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: value-of-the-holy-scriptures
-  speaker: Elder LeGrand Richards
+  speaker: LeGrand Richards
   title: Value of the Holy Scriptures
   url: https://www.lds.org/general-conference/1976/04/value-of-the-holy-scriptures?lang=eng
   year: 1976
-- article_id: 03070_000_038
-  item: '035'
+- item: 36
   key: 035-the-book-of-mormon
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: the-book-of-mormon
   speaker: James A. Cullimore
   title: The Book of Mormon
   url: https://www.lds.org/general-conference/1976/04/the-book-of-mormon?lang=eng
   year: 1976
-- article_id: 03070_000_039
-  item: '036'
+- item: 37
   key: 036-the-matter-of-personal-testimony
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: the-matter-of-personal-testimony
-  speaker: Elder Joseph Anderson
+  speaker: Joseph Anderson
   title: The Matter of Personal Testimony
   url: https://www.lds.org/general-conference/1976/04/the-matter-of-personal-testimony?lang=eng
   year: 1976
-- article_id: '03070_000_040'
-  item: '037'
+- item: 38
   key: 037-the-value-of-people
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: the-value-of-people
   speaker: Charles A. Didier
   title: The Value of People
   url: https://www.lds.org/general-conference/1976/04/the-value-of-people?lang=eng
   year: 1976
-- article_id: '03070_000_041'
-  item: 038
+- item: 39
   key: 038-the-constitution-a-glorious-standard
   month: 4
-  session_id: tuesday-morning
   session_title: Tuesday Morning Session
   slug: the-constitution-a-glorious-standard
   speaker: Ezra Taft Benson
   title: "The Constitution\u2014A Glorious Standard"
   url: https://www.lds.org/general-conference/1976/04/the-constitution-a-glorious-standard?lang=eng
   year: 1976
-- article_id: '03070_000_042'
-  item: 039
+- item: 40
   key: 039-joseph-smith-the-mighty-prophet-of-the-restoration
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: joseph-smith-the-mighty-prophet-of-the-restoration
   speaker: Bruce R. McConkie
   title: "Joseph Smith\u2014The Mighty Prophet of the Restoration"
   url: https://www.lds.org/general-conference/1976/04/joseph-smith-the-mighty-prophet-of-the-restoration?lang=eng
   year: 1976
-- article_id: '03070_000_043'
-  item: '040'
+- item: 41
   key: 040-are-we-following-christs-pattern
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: are-we-following-christs-pattern
   speaker: William R. Bradford
-  title: "Are We Following Christ\u2019s Pattern?"
+  title: Are We Following Christ's Pattern?
   url: https://www.lds.org/general-conference/1976/04/are-we-following-christs-pattern?lang=eng
   year: 1976
-- article_id: '03070_000_044'
-  item: '041'
+- item: 42
   key: 041-but-they-were-in-one
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: but-they-were-in-one
   speaker: George P. Lee
-  title: "\u201CBut They Were in One\u201D"
+  title: '"But They Were in One"'
   url: https://www.lds.org/general-conference/1976/04/but-they-were-in-one?lang=eng
   year: 1976
-- article_id: '03070_000_045'
-  item: '042'
+- item: 43
   key: 042-the-blessing-of-building-a-temple
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: the-blessing-of-building-a-temple
   speaker: Adney Y. Komatsu
   title: The Blessing of Building a Temple
   url: https://www.lds.org/general-conference/1976/04/the-blessing-of-building-a-temple?lang=eng
   year: 1976
-- article_id: '03070_000_046'
-  item: '043'
+- item: 44
   key: 043-are-you-a-member-missionary
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: are-you-a-member-missionary
   speaker: Gene R. Cook
   title: Are You a Member Missionary?
   url: https://www.lds.org/general-conference/1976/04/are-you-a-member-missionary?lang=eng
   year: 1976
-- article_id: '03070_000_047'
-  item: '044'
+- item: 45
   key: 044-that-we-may-be-one
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: that-we-may-be-one
   speaker: Howard W. Hunter
   title: That We May Be One
   url: https://www.lds.org/general-conference/1976/04/that-we-may-be-one?lang=eng
   year: 1976
-- article_id: 03070_000_048
-  item: '045'
+- item: 46
   key: 045-seeking-eternal-riches
   month: 4
-  session_id: tuesday-afternoon
   session_title: Tuesday Afternoon Session
   slug: seeking-eternal-riches
   speaker: Spencer W. Kimball
   title: Seeking Eternal Riches
   url: https://www.lds.org/general-conference/1976/04/seeking-eternal-riches?lang=eng
   year: 1976
-- article_id: 03070_000_049
-  item: '046'
+- item: 47
   key: 046-the-church-and-the-family-in-welfare-services
   month: 4
-  session_id: welfare
   session_title: Welfare Session
   slug: the-church-and-the-family-in-welfare-services
   speaker: Victor L. Brown
   title: The Church and the Family in Welfare Services
   url: https://www.lds.org/general-conference/1976/04/the-church-and-the-family-in-welfare-services?lang=eng
   year: 1976
-- article_id: '03070_000_050'
-  item: '047'
+- item: 48
   key: 047-the-church-employment-system
   month: 4
-  session_id: welfare
   session_title: Welfare Session
   slug: the-church-employment-system
   speaker: H. Burke Peterson
   title: The Church Employment System
   url: https://www.lds.org/general-conference/1976/04/the-church-employment-system?lang=eng
   year: 1976
-- article_id: '03070_000_051'
-  item: 048
+- item: 49
   key: 048-food-storage
   month: 4
-  session_id: welfare
   session_title: Welfare Session
   slug: food-storage
   speaker: Vaughn J. Featherstone
   title: Food Storage
   url: https://www.lds.org/general-conference/1976/04/food-storage?lang=eng
   year: 1976
-- article_id: '03070_000_052'
-  item: 049
+- item: 50
   key: 049-teach-lds-women-self-sufficiency
   month: 4
-  session_id: welfare
   session_title: Welfare Session
   slug: teach-lds-women-self-sufficiency
   speaker: Barbara B. Smith
   title: Teach LDS Women Self-Sufficiency
   url: https://www.lds.org/general-conference/1976/04/teach-lds-women-self-sufficiency?lang=eng
   year: 1976
-- article_id: '03070_000_053'
-  item: '050'
+- item: 51
   key: 050-church-welfare-services-basic-principles
   month: 4
-  session_id: welfare
   session_title: Welfare Session
   slug: church-welfare-services-basic-principles
   speaker: Marion G. Romney
-  title: "Church Welfare Services\u2019 Basic Principles"
+  title: Church Welfare Services' Basic Principles
   url: https://www.lds.org/general-conference/1976/04/church-welfare-services-basic-principles?lang=eng
   year: 1976
-- article_id: '03070_000_054'
-  item: '051'
+- item: 52
   key: 051-family-preparedness
   month: 4
-  session_id: welfare
   session_title: Welfare Session
   slug: family-preparedness
   speaker: Spencer W. Kimball

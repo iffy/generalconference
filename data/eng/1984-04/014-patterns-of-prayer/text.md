@@ -16,7 +16,7 @@ It is pleasing to that God whose we are when we fast and pray and seek his
 blessings; when we plead with all the energy of our souls for those things we
 so much desire; when, as Paul says, we "come boldly unto the throne of grace,
 that we may obtain mercy, and find grace to help in time of need." ([Heb.
-4:16](https://www.lds.org/scriptures/nt/heb/4.16?lang=eng#15).)
+4:16](/scriptures/nt/heb/4.16?lang=eng#15).)
 
 Prayer is the way and means, given us by our Creator, whereby we can counsel
 and communicate with him. It is one of the chief cornerstones of pure and
@@ -235,4 +235,6 @@ peace in this life and eternal life in the world to come.
 
 And such is my prayer for myself and my family and for all Israel. In the name
 of the Lord Jesus Christ, amen.
+
+## References
 

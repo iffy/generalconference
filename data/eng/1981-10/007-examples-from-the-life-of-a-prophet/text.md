@@ -18,12 +18,10 @@ The story of Job in the Old Testament relates three of the great tests we all
 should be prepared to face at some period in our lives. First, temporal
 setbacks. Job lost all he owned. Second, physical illness that will test our
 faith and testimony. And third, depression. Job said, "Why died I not from the
-womb?" ([Job 3:11](https://www.lds.org/scriptures/ot/job/3.11?lang=eng#10).)
-"My soul is weary of my life." ([Job
-10:1](https://www.lds.org/scriptures/ot/job/10.1?lang=eng#0).) But the great
+womb?" ([Job 3:11](/scriptures/ot/job/3.11?lang=eng#10).) "My soul is weary of
+my life." ([Job 10:1](/scriptures/ot/job/10.1?lang=eng#0).) But the great
 lesson of Job is that, "in all this Job sinned not, nor charged God
-foolishly." ([Job
-1:22](https://www.lds.org/scriptures/ot/job/1.22?lang=eng#21).) Too often when
+foolishly." ([Job 1:22](/scriptures/ot/job/1.22?lang=eng#21).) Too often when
 adversity strikes, we use it as a justification to commit sin and turn away
 from the teachings of Jesus Christ, the prophets who lead us, and our family
 and friends. Job maintained his testimony and was blessed for his unwavering
@@ -38,7 +36,7 @@ President Kimball has not sinned or charged God foolishly. He has kept his
 integrity and his testimony, and sung the praises of his Lord throughout his
 many physical trials. We have never heard him complain about his trials. On
 the contrary, his challenge has been, "Give me this mountain" to climb. (See
-[Josh. 14:12](https://www.lds.org/scriptures/ot/josh/14.12?lang=eng#11).)
+[Josh. 14:12](/scriptures/ot/josh/14.12?lang=eng#11).)
 
 The courage and faith of President Kimball to overcome adversity are an
 example to all of us, to testify that we, too, can meet the challenges of
@@ -182,7 +180,7 @@ be but a small moment;
 triumph over all thy foes.
 
 "Thy friends do stand by thee, and they shall hail thee again with warm hearts
-and friendly hands." ([D&amp;C 121:7-9](https://www.lds.org/scriptures/dc-
+and friendly hands." ([D&amp;C 121:7-9](/scriptures/dc-
 testament/dc/121.7-9?lang=eng#6).)
 
 In testimony, I ask the Lord's blessing upon us that we might feel the urgency
@@ -197,4 +195,6 @@ One time, in closing a general conference, President Kimball said, "My people
 say 'Lord, Lord,' and do not what I say." It is my prayer that we will say,
 "Lord, Lord," and do as our prophet and those who lead this Church today say,
 and follow their example, in the name of Jesus Christ, amen.
+
+## References
 

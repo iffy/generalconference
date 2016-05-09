@@ -38,19 +38,18 @@ this probation."
 
 As to who we are, I had explained, of course, as Paul told the Athenians on
 Mars' hill, that we are "the offspring of God." ([Acts
-17:28-29](https://www.lds.org/scriptures/nt/acts/17.28-29?lang=eng#27).) This
-statement required some explanation because, as he pointed out, our physical
-bodies are the offspring of our mortal parents. At this point I let him read
-in the revelation the Lord's statement that "the spirit and the body are the
-soul of man" ([D&amp;C 88:15](https://www.lds.org/scriptures/dc-
-testament/dc/88.15?lang=eng#14)) and emphasized the fact to him that it is
-man's spirit which is the offspring of God. This opened the way for an
-explanation that God himself is a soul, composed of a body of flesh and bones
-as tangible as man's, and a spirit; that he is a resurrected, glorified,
-exalted, omniscient, omnipotent, and--in spirit, and power, and influence--an
-omnipresent person, the ruler of the heavens and the earth and all things
-therein; that the spirits of all men are literally his "begotten sons and
-daughters." ([D&amp;C 76:24](https://www.lds.org/scriptures/dc-
+17:28-29](/scriptures/nt/acts/17.28-29?lang=eng#27).) This statement required
+some explanation because, as he pointed out, our physical bodies are the
+offspring of our mortal parents. At this point I let him read in the
+revelation the Lord's statement that "the spirit and the body are the soul of
+man" ([D&amp;C 88:15](/scriptures/dc-testament/dc/88.15?lang=eng#14)) and
+emphasized the fact to him that it is man's spirit which is the offspring of
+God. This opened the way for an explanation that God himself is a soul,
+composed of a body of flesh and bones as tangible as man's, and a spirit; that
+he is a resurrected, glorified, exalted, omniscient, omnipotent, and--in
+spirit, and power, and influence--an omnipresent person, the ruler of the
+heavens and the earth and all things therein; that the spirits of all men are
+literally his "begotten sons and daughters." ([D&amp;C 76:24](/scriptures/dc-
 testament/dc/76.24?lang=eng#23).)
 
 This concept is what he must have had in mind when he wrote, "I shall never
@@ -86,7 +85,7 @@ the Lord their God shall command them;
 not their first estate shall not have glory in the same kingdom with those who
 keep their first estate; and they who keep their second estate shall have
 glory added upon their heads for ever and ever." ([Abr.
-3:22-26](https://www.lds.org/scriptures/pgp/abr/3.22-26?lang=eng#21).)
+3:22-26](/scriptures/pgp/abr/3.22-26?lang=eng#21).)
 
 We all know, of course, that the program thus announced was implemented. The
 spirits who kept their first estate--that was their spirit estate--are added
@@ -120,7 +119,7 @@ celestial is one, and the glory of the terrestrial is another.
 glory of the stars: for one star differeth from another star in glory.
 
 "So also is the resurrection of the dead." ([1 Cor.
-15:40-42](https://www.lds.org/scriptures/nt/1-cor/15.40-42?lang=eng#39).)
+15:40-42](/scriptures/nt/1-cor/15.40-42?lang=eng#39).)
 
 If we here keep the commandments of God, we shall return to his presence and
 dwell with him in eternal life and glory. If we do not keep his commandments,
@@ -128,7 +127,7 @@ we shall dwell in a far less comfortable place. It is up to us.
 
 "According to the moral agency" which God has given us, we are free to act as
 we choose and every person will "be accountable for his own [acts] in the day
-of judgment." ([D&amp;C 101:78](https://www.lds.org/scriptures/dc-
+of judgment." ([D&amp;C 101:78](/scriptures/dc-
 testament/dc/101.78?lang=eng#77).)
 
 An ancient American prophet put this truth in these beautiful words:
@@ -137,7 +136,7 @@ An ancient American prophet put this truth in these beautiful words:
 free to choose liberty and eternal life, ... or to choose captivity and death,
 according to the captivity and power of the devil; for he seeketh that all men
 might be miserable like unto himself." ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).)
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).)
 
 Another ancient American prophet describes in this language the situation we
 will be in between death and resurrection:
@@ -164,7 +163,7 @@ by the will of the devil.
 state of awful, fearful looking for the fiery indignation of the wrath of God
 upon them; thus they remain in this state, as well as the righteous in
 paradise, until the time of their resurrection." ([Alma
-40:11-14](https://www.lds.org/scriptures/bofm/alma/40.11-14?lang=eng#10).)
+40:11-14](/scriptures/bofm/alma/40.11-14?lang=eng#10).)
 
 In the Garden of Eden, God endowed Adam and all his posterity with that free
 agency which they had enjoyed in the spirit world.
@@ -172,8 +171,8 @@ agency which they had enjoyed in the spirit world.
 Furthermore, he said: "I, the Lord God, gave unto Adam and unto his seed, that
 they should not die as to the temporal death, until I, the Lord God, should
 send forth angels to declare unto them repentance and redemption, through
-faith on the name of mine Only Begotten Son." ([D&amp;C
-29:42](https://www.lds.org/scriptures/dc-testament/dc/29.42?lang=eng#41).)
+faith on the name of mine Only Begotten Son." ([D&amp;C 29:42](/scriptures/dc-
+testament/dc/29.42?lang=eng#41).)
 
 Beginning with Adam and repeated in every subsequent gospel dispensation, the
 Lord has revealed the gospel of Jesus Christ, which embraces the principles
@@ -223,7 +222,7 @@ learned?
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself." ([John
-7:14-17](https://www.lds.org/scriptures/nt/john/7.14-17?lang=eng#13).)
+7:14-17](/scriptures/nt/john/7.14-17?lang=eng#13).)
 
 No person is, nor can he be, justified in rejecting these teachings and
 commandments, which have been revealed by the Lord, on the basis that he does
@@ -237,18 +236,20 @@ that cometh into the world; and the Spirit enlighteneth every man through the
 world, that hearkeneth to the voice of the Spirit.
 
 "And every one that hearkeneth to the voice of the Spirit cometh unto God,
-even the Father." ([D&amp;C 84:45-47](https://www.lds.org/scriptures/dc-
+even the Father." ([D&amp;C 84:45-47](/scriptures/dc-
 testament/dc/84.45-47?lang=eng#44).)
 
 The prophet Lehi bore like witness when he said to his son, Jacob, "men are
 instructed [hearing by the Spirit] sufficiently that they know good from
-evil." ([2 Ne. 2:5](https://www.lds.org/scriptures/bofm/2-ne/2.5?lang=eng#4).)
-And so did Mormon, by teaching his brethren that "the Spirit of Christ is
-given to every man, that he may know good from evil." ([Moro.
-7:16](https://www.lds.org/scriptures/bofm/moro/7.16?lang=eng#15).)
+evil." ([2 Ne. 2:5](/scriptures/bofm/2-ne/2.5?lang=eng#4).) And so did Mormon,
+by teaching his brethren that "the Spirit of Christ is given to every man,
+that he may know good from evil." ([Moro.
+7:16](/scriptures/bofm/moro/7.16?lang=eng#15).)
 
 That we may all know by the witness of the Holy Spirit where we came from, why
 we are here, and where we go after we leave this life; and that by living
 righteously we "shall have glory added upon [our] heads for ever and ever," I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

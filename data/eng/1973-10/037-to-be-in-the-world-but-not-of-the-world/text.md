@@ -13,7 +13,7 @@ not of the world, even as I am not of the world.
 
 "I pray not that thou shouldest take them out of the world, but that thou
 shouldest keep them from the evil." ([John 17:11,
-14-15](https://www.lds.org/scriptures/nt/john/17.11%2C14-15?lang=eng#10).)
+14-15](/scriptures/nt/john/17.11,14-15?lang=eng#10).)
 
 The members of the Church are constantly being reminded that even though they
 are "_in_ the world, they should not be _of_ the world."
@@ -29,7 +29,7 @@ R. McConkie, _Mormon Doctrine, _[Salt Lake City: Bookcraft, 1966], p. 847.)
 
 John, in his epistle, describes the "world" as "the lust of the flesh, and the
 lust of the eyes, and the pride of life." ([1 Jn.
-2:16](https://www.lds.org/scriptures/nt/1-jn/2.16?lang=eng#15).) He said:
+2:16](/scriptures/nt/1-jn/2.16?lang=eng#15).) He said:
 
 "Love not the world, neither the things that are in the world. If any man love
 the world, the love of the Father is not in him.
@@ -39,7 +39,7 @@ eyes, and the pride of life, is not of the Father, but is of the world.
 
 "And the world passeth away, and the lust thereof: but he that doeth the will
 of God abideth for ever." ([1 Jn.
-2:15-17](https://www.lds.org/scriptures/nt/1-jn/2.15-17?lang=eng#14).)
+2:15-17](/scriptures/nt/1-jn/2.15-17?lang=eng#14).)
 
 It is obvious the "world," as referred to by the Savior, does not mean the
 sphere on which we live, but an environment created by individuals who live
@@ -62,18 +62,18 @@ will make an earth whereon these may dwell;
 
 "And we will prove them herewith, to see if they will do all things whatsoever
 the Lord their God shall command them." ([Abr.
-3:24-25](https://www.lds.org/scriptures/pgp/abr/3.24-25?lang=eng#23).)
+3:24-25](/scriptures/pgp/abr/3.24-25?lang=eng#23).)
 
 It is important that each of us overcome the "world." "That every man may act
 in doctrine and principle pertaining to futurity, according to the moral
 agency which I have given unto him, that every man may be accountable for his
-own sins in the day of judgment," says the Lord. ([D&amp;C
-101:78](https://www.lds.org/scriptures/dc-testament/dc/101.78?lang=eng#77).)
+own sins in the day of judgment," says the Lord. ([D&amp;C 101:78](/scriptures
+/dc-testament/dc/101.78?lang=eng#77).)
 
 Lehi taught, "For it must needs be, that there is an opposition in all things.
 If not so, ... righteousness could not be brought to pass, neither wickedness,
 neither holiness nor misery, neither good nor bad. ..." ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).)
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10).)
 
 It matters not what our nationality, our race, our culture, our academic
 degree, or our political or social standing. We build security and strength in
@@ -89,8 +89,8 @@ where we live, by living the gospel, by being pure in heart, by being worthy.
 
 Zion is defined by the Lord as the "pure in heart." The Lord said, "... let Zion
 rejoice, for this is Zion--THE PURE IN HEART; therefore, let Zion rejoice,
-while all the wicked shall mourn." ([D&amp;C
-97:21](https://www.lds.org/scriptures/dc-testament/dc/97.21?lang=eng#20).)
+while all the wicked shall mourn." ([D&amp;C 97:21](/scriptures/dc-
+testament/dc/97.21?lang=eng#20).)
 
 Since Zion is defined as the "pure in heart," those who make up Zion must be
 free from worldly practices and indulgences.
@@ -100,9 +100,8 @@ people of God must live in order to be worthy of acceptance in the sight of
 God" is indicated in this scripture: "For Zion must increase in beauty, and in
 holiness; her borders must be enlarged; her stakes must be strengthened; yea,
 verily I say unto you, Zion must arise and put on her beautiful garments."
-([D&amp;C 82:14](https://www.lds.org/scriptures/dc-
-testament/dc/82.14?lang=eng#13).) ("Strengthen the Stakes of Zion," Harold B.
-Lee, _Ensign, _July 1973, p. 3.)
+([D&amp;C 82:14](/scriptures/dc-testament/dc/82.14?lang=eng#13).) ("Strengthen
+the Stakes of Zion," Harold B. Lee, _Ensign, _July 1973, p. 3.)
 
 President McKay referred to Zion as the pure in heart and said: "... the
 strength of this Church lies in the purity of the thoughts and lives of its
@@ -176,13 +175,13 @@ of the world, have so many conveniences, enjoy so many luxuries.
 
 We are living in the Dispensation of the Fulness of Times, in which the Lord
 has said: "... in the which I will gather together in one all things, both which
-are in heaven, and which are on earth." ([D&amp;C
-27:13](https://www.lds.org/scriptures/dc-testament/dc/27.13?lang=eng#12).)
+are in heaven, and which are on earth." ([D&amp;C 27:13](/scriptures/dc-
+testament/dc/27.13?lang=eng#12).)
 
 He said further, "For I deign to reveal unto my church things which have been
 kept hid from before the foundation of the world, things that pertain to the
-dispensation of the fulness of times." ([D&amp;C
-124:41](https://www.lds.org/scriptures/dc-testament/dc/124.41?lang=eng#40).)
+dispensation of the fulness of times." ([D&amp;C 124:41](/scriptures/dc-
+testament/dc/124.41?lang=eng#40).)
 
 The prophet Joel prophesied of the times in which we live when he said, "And
 it shall come to pass afterward, that I will pour out my spirit upon all
@@ -191,7 +190,7 @@ dream dreams, your young men shall see visions:
 
 "And also upon the servants and upon the handmaids in those days will I pour
 out my spirit. And I will shew wonders in the heavens and in the earth. ..."
-([Joel 2:28-30](https://www.lds.org/scriptures/ot/joel/2.28-30?lang=eng#27).)
+([Joel 2:28-30](/scriptures/ot/joel/2.28-30?lang=eng#27).)
 
 The Lord has already commenced to pour out his spirit upon all flesh. Since
 the restoration of the gospel, the Spirit of the Lord has inspired men in the
@@ -222,4 +221,6 @@ May we appreciate the privilege that is ours in living in this time, in the
 beautiful, wonderful world in which we live. May we let the gospel light guide
 us that we may be in the world and yet not partake of the evil of the world. I
 so ask in the name of Jesus Christ. Amen.
+
+## References
 

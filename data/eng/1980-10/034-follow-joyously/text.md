@@ -18,17 +18,15 @@ greatest welfare sagas of ecclesiastical history.
 
 Recall the circumstances of Joseph's Egyptian servitude, his time in the
 household of Potiphar as overseer of the house (see [Gen.
-39](https://www.lds.org/scriptures/ot/gen/39.title?lang=eng)). Remember the
-test of faith during his unjust imprisonment. Consider his interpretation of
-dreams that ultimately led to his elevation to the highest office in Pharaoh's
-government.
+39](/scriptures/ot/gen/39?lang=eng)). Remember the test of faith during his
+unjust imprisonment. Consider his interpretation of dreams that ultimately led
+to his elevation to the highest office in Pharaoh's government.
 
 Note Joseph's obedience to the Lord's warning of impending famine, that "the
 land perish not through the famine" ([Gen.
-41:36](https://www.lds.org/scriptures/ot/gen/41.36?lang=eng#35)). "Joseph
-gathered corn as the sand of the sea" ([Gen.
-41:49](https://www.lds.org/scriptures/ot/gen/41.49?lang=eng#48)) during the
-seven plenteous years against the seven years of famine.
+41:36](/scriptures/ot/gen/41.36?lang=eng#35)). "Joseph gathered corn as the
+sand of the sea" ([Gen. 41:49](/scriptures/ot/gen/41.49?lang=eng#48)) during
+the seven plenteous years against the seven years of famine.
 
 Observe the drama unfold which brought Joseph's brothers to him to plead for
 food. Joseph was the agent of their deliverance. Feel the emotion as Joseph
@@ -70,15 +68,11 @@ In the area of welfare, the board member, working under the direction of the
 president, is expected to become knowledgeable about _all_ aspects of welfare
 and to help the presidency by--
 
-  1. Interpreting welfare services material; studying, compiling, and evaluating welfare services information.
-
-  2. Investigating resources; becoming familiar with Church and community resources.
-
-  3. Increasing understanding; meeting regularly with the presidency to discuss Relief Society's role in welfare services.
-
-  4. Initiating goal setting; setting short- and long-term goals with the Relief Society president.
-
-  5. Implementing approved plans and revising plans when directed.
+  1. Interpreting welfare services material; studying, compiling, and evaluating welfare services information. 
+  2. Investigating resources; becoming familiar with Church and community resources. 
+  3. Increasing understanding; meeting regularly with the presidency to discuss Relief Society's role in welfare services. 
+  4. Initiating goal setting; setting short- and long-term goals with the Relief Society president. 
+  5. Implementing approved plans and revising plans when directed. 
 
 She correlates her work with other board members as she helps to carry out
 approved welfare plans. In this assignment, the board member extends the
@@ -108,11 +102,9 @@ living" be further expanded and fully practiced by every member.
 
 We encourage women to economize in creative ways such as--
 
-  1. Exchanging skills, when practical, instead of money; exchanging excess vegetable produce from one garden for fruit from another; exchanging rather than buying books, musical instruments, Scout uniforms, etc.
-
-  2. Becoming more knowledgeable gardeners; developing their own garden seeds gathered from their own high quality produce.
-
-  3. Saving time and money by organizing their homes into efficient work and storage centers and by preparing food with their own mixes.
+  1. Exchanging skills, when practical, instead of money; exchanging excess vegetable produce from one garden for fruit from another; exchanging rather than buying books, musical instruments, Scout uniforms, etc. 
+  2. Becoming more knowledgeable gardeners; developing their own garden seeds gathered from their own high quality produce. 
+  3. Saving time and money by organizing their homes into efficient work and storage centers and by preparing food with their own mixes. 
 
 This means that all will make wise use of the resources available to them as
 they live each day and prepare for the future.
@@ -158,9 +150,8 @@ parts that many discard to provide a base for the aromatic broth from which
 soups are made for the days ahead. This woman draws from a home garden of
 beautiful fruits, vegetables, and herbal seasonings to make the family meals
 to "please the eye and to gladden the heart; ... for taste and for smell, to
-strengthen the body and to enliven the soul" ([D&amp;C
-59:18-19](https://www.lds.org/scriptures/dc-
-testament/dc/59.18-19?lang=eng#17)).
+strengthen the body and to enliven the soul" ([D&amp;C 59:18-19](/scriptures
+/dc-testament/dc/59.18-19?lang=eng#17)).
 
 I sense in this homemaker a happy, creative spirit that makes provident living
 an enriched way of life.
@@ -186,6 +177,8 @@ this vital welfare work, may we be great teachers of welfare services
 principles. Led by chosen priesthood leaders, may we all work together, as
 Joseph of old proclaimed, "to preserve ... a posterity in the earth, and to save
 ... lives by a great deliverance" ([Gen.
-45:7](https://www.lds.org/scriptures/ot/gen/45.7?lang=eng#6)), I humbly pray,
-in the name of Jesus Christ, amen.
+45:7](/scriptures/ot/gen/45.7?lang=eng#6)), I humbly pray, in the name of
+Jesus Christ, amen.
+
+## References
 

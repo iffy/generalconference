@@ -20,7 +20,7 @@ It is God's design that this longing of the human heart should lead to the one
 who alone is able to satisfy it. That fulness is found only in Jesus the
 Christ, the Son of our Eternal Father in Heaven. Paul declared, "For it
 pleased the Father that in him should all fulness dwell." ([Col.
-1:19](https://www.lds.org/scriptures/nt/col/1.19?lang=eng#18).)
+1:19](/scriptures/nt/col/1.19?lang=eng#18).)
 
 Jesus Christ was chosen and ordained to be the one and only Savior and
 Redeemer of the world. To the brother of Jared He said:
@@ -28,8 +28,7 @@ Redeemer of the world. To the brother of Jared He said:
 "Behold, I am he who was prepared from the foundation of the world to redeem
 my people. Behold, I am Jesus Christ. ... In me shall all mankind have life, and
 that eternally, even they who shall believe on my name." ([Ether
-3:14](https://www.lds.org/scriptures/bofm/ether/3.14?lang=eng#13), 1982
-edition.)
+3:14](/scriptures/bofm/ether/3.14?lang=eng#13), 1982 edition.)
 
 He taught His disciples:
 
@@ -38,14 +37,14 @@ sent me. ...
 
 "That every one which seeth the Son, and believeth on him, may have
 everlasting life: and I will raise him up at the last day." ([John 6:38,
-40](https://www.lds.org/scriptures/nt/john/6.38%2C40?lang=eng#37).)
+40](/scriptures/nt/john/6.38,40?lang=eng#37).)
 
 Today, much of the world is celebrating Palm Sunday--commemorating our Lord's
 entrance into Jerusalem. The multitudes, as described by Matthew and John,
 "spread their garments in the way" ([Matt.
-21:8](https://www.lds.org/scriptures/nt/matt/21.8?lang=eng#7)), and "took
-branches of palm trees, and went forth to meet him" ([John
-12:13](https://www.lds.org/scriptures/nt/john/12.13?lang=eng#12)).
+21:8](/scriptures/nt/matt/21.8?lang=eng#7)), and "took branches of palm trees,
+and went forth to meet him" ([John
+12:13](/scriptures/nt/john/12.13?lang=eng#12)).
 
 It was the time of the annual feast of the Passover. For some time the chief
 priests of the Sanhedrin had conspired together to find an excuse for taking
@@ -62,8 +61,7 @@ and said to them:
 
 "If I then, your Lord and Master, have washed your feet; ye also ought to wash
 one another's feet." ([John
-13:13-14](https://www.lds.org/scriptures/nt/john/13.13-14?lang=eng#12).) Then
-He taught them:
+13:13-14](/scriptures/nt/john/13.13-14?lang=eng#12).) Then He taught them:
 
 "Now is the Son of man glorified, and God is glorified in him. ...
 
@@ -74,8 +72,7 @@ said unto the Jews, Whither I go, ye cannot come; ...
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John 13:31,
-33-35](https://www.lds.org/scriptures/nt/john/13.31%2C33-35?lang=eng#30).)
+another." ([John 13:31, 33-35](/scriptures/nt/john/13.31,33-35?lang=eng#30).)
 
 He continued to teach:
 
@@ -88,11 +85,10 @@ you. I go to prepare a place for you.
 unto myself; that where I am, there ye may be also.
 
 "And whither I go ye know, and the way ye know." ([John
-14:1-4](https://www.lds.org/scriptures/nt/john/14.1-4?lang=eng#0).)
+14:1-4](/scriptures/nt/john/14.1-4?lang=eng#0).)
 
 But Thomas asked, "Lord, we know not whither thou goest; and how can we know
-the way?" ([John
-14:5](https://www.lds.org/scriptures/nt/john/14.5?lang=eng#4).) The Savior
+the way?" ([John 14:5](/scriptures/nt/john/14.5?lang=eng#4).) The Savior
 replied:
 
 "I am the way, the truth, and the life: no man cometh unto the Father, but by
@@ -100,14 +96,14 @@ me.
 
 "If ye had known me, ye should have known my Father also: and from henceforth
 ye know him, and have seen him." ([John
-14:6-7](https://www.lds.org/scriptures/nt/john/14.6-7?lang=eng#5).)
+14:6-7](/scriptures/nt/john/14.6-7?lang=eng#5).)
 
 "I came forth from the Father, and am come into the world: again, I leave the
 world, and go to the Father." ([John
-16:28](https://www.lds.org/scriptures/nt/john/16.28?lang=eng#27).)
+16:28](/scriptures/nt/john/16.28?lang=eng#27).)
 
 "Whatsoever ye shall ask the Father in my name, he will give it you." ([John
-16:23](https://www.lds.org/scriptures/nt/john/16.23?lang=eng#22).)
+16:23](/scriptures/nt/john/16.23?lang=eng#22).)
 
 While in that upper room, Jesus, initiating the sacrament, picked up bread,
 brake it, prayed over it, and passed it to the disciples, saying:
@@ -115,12 +111,12 @@ brake it, prayed over it, and passed it to the disciples, saying:
 "This is my body which is given for you: this do in remembrance of me.
 
 "... This cup is the new testament in my blood, which is shed for you." ([Luke
-22:19-20](https://www.lds.org/scriptures/nt/luke/22.19-20?lang=eng#18).)
+22:19-20](/scriptures/nt/luke/22.19-20?lang=eng#18).)
 
 After introducing the sacrament, the Savior said to His disciples, "It is
 expedient for you that I go away: for if I go not away, the Comforter will not
 come unto you; but if I depart, I will send him unto you." ([John
-16:7](https://www.lds.org/scriptures/nt/john/16.7?lang=eng#6).)
+16:7](/scriptures/nt/john/16.7?lang=eng#6).)
 
 The Savior prayed to the Father for the Apostles and all believers:
 
@@ -132,7 +128,7 @@ to as many as thou hast given him.
 
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent." ([John
-17:1-3](https://www.lds.org/scriptures/nt/john/17.1-3?lang=eng#0).)
+17:1-3](/scriptures/nt/john/17.1-3?lang=eng#0).)
 
 After Jesus had finished His prayer to His Father, He left the upper room with
 the disciples and entered the Garden of Gethsemane to seek solitude and to
@@ -140,7 +136,7 @@ pray:
 
 "O my Father, if it be possible, let this cup pass from me: nevertheless not
 as I will, but as thou wilt." ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).)
+26:39](/scriptures/nt/matt/26.39?lang=eng#38).)
 
 Of His suffering in the garden, the Savior Himself has said:
 
@@ -149,51 +145,45 @@ because of pain, and to bleed at every pore, and to suffer both body and
 spirit--and would that I might not drink the bitter cup, and shrink--
 
 "Nevertheless, glory be to the Father, and I partook and finished my
-preparations unto the children of men." ([D&amp;C
-19:18-19](https://www.lds.org/scriptures/dc-
+preparations unto the children of men." ([D&amp;C 19:18-19](/scriptures/dc-
 testament/dc/19.18-19?lang=eng#17).)
 
 "Behold, I, God, have suffered these things for all, that they might not
-suffer if they would repent." ([D&amp;C 19:16](https://www.lds.org/scriptures
-/dc-testament/dc/19.16?lang=eng#15).)
+suffer if they would repent." ([D&amp;C 19:16](/scriptures/dc-
+testament/dc/19.16?lang=eng#15).)
 
 As the guards and Judas approached Him, the Lord said, "Behold, he is at hand
-that doth betray me." ([Matt.
-26:46](https://www.lds.org/scriptures/nt/matt/26.46?lang=eng#45).)
+that doth betray me." ([Matt. 26:46](/scriptures/nt/matt/26.46?lang=eng#45).)
 
 Then Judas kissed Him on the cheek.
 
 Jesus asked, "Friend, wherefore art thou come?" ([Matt.
-26:50](https://www.lds.org/scriptures/nt/matt/26.50?lang=eng#49).)
+26:50](/scriptures/nt/matt/26.50?lang=eng#49).)
 
-"Whom seek ye?" ([John
-18:4](https://www.lds.org/scriptures/nt/john/18.4?lang=eng#3).)
+"Whom seek ye?" ([John 18:4](/scriptures/nt/john/18.4?lang=eng#3).)
 
 A guard replied, "Jesus of Nazareth."
 
 The Savior said, "I am he." ([John
-18:5](https://www.lds.org/scriptures/nt/john/18.5?lang=eng#4).)
+18:5](/scriptures/nt/john/18.5?lang=eng#4).)
 
 The guards then led Jesus away to the Jewish rulers and then to Caiaphas, the
-high priest. (See [Matt.
-26:57](https://www.lds.org/scriptures/nt/matt/26.57?lang=eng#56).)
+high priest. (See [Matt. 26:57](/scriptures/nt/matt/26.57?lang=eng#56).)
 
 "I adjure thee by the living God," said Caiaphas, "that thou tell us whether
 thou be the Christ, the Son of God." ([Matt.
-26:63](https://www.lds.org/scriptures/nt/matt/26.63?lang=eng#62).)
+26:63](/scriptures/nt/matt/26.63?lang=eng#62).)
 
 "I am: and ye shall see the Son of man sitting on the right hand of power, and
 coming in the clouds of heaven." ([Mark
-14:62](https://www.lds.org/scriptures/nt/mark/14.62?lang=eng#61).)
+14:62](/scriptures/nt/mark/14.62?lang=eng#61).)
 
 Jesus was then taken before Pilate, who asked, "Art thou the King of the
-Jews?" ([John
-18:33](https://www.lds.org/scriptures/nt/john/18.33?lang=eng#32).)
+Jews?" ([John 18:33](/scriptures/nt/john/18.33?lang=eng#32).)
 
 Jesus replied, "My kingdom is not of this world: if my kingdom were of this
 world, then would my servants fight, that I should not be delivered to the
-Jews." ([John
-18:36](https://www.lds.org/scriptures/nt/john/18.36?lang=eng#35).)
+Jews." ([John 18:36](/scriptures/nt/john/18.36?lang=eng#35).)
 
 Pilate said to the crowd:
 
@@ -201,59 +191,55 @@ Pilate said to the crowd:
 
 "But ye have a custom, that I should release unto you one at the passover:
 will ye therefore that I release unto you the King of the Jews?" ([John
-18:38-39](https://www.lds.org/scriptures/nt/john/18.38-39?lang=eng#37).)
+18:38-39](/scriptures/nt/john/18.38-39?lang=eng#37).)
 
 The crowd shouted, "No! No! Not this man, but Barabbas." (See [John
-18:40](https://www.lds.org/scriptures/nt/john/18.40?lang=eng#39).)
+18:40](/scriptures/nt/john/18.40?lang=eng#39).)
 
 Then Pilate took Jesus and scourged Him. And the soldiers platted a crown of
 thorns and put it on His head, and they put on Him a purple robe. (See [Mark
-15:15-17](https://www.lds.org/scriptures/nt/mark/15.15-17?lang=eng#14).)
+15:15-17](/scriptures/nt/mark/15.15-17?lang=eng#14).)
 
 Pilate said, "I find no fault in this man." ([Luke
-23:4](https://www.lds.org/scriptures/nt/luke/23.4?lang=eng#3).)
+23:4](/scriptures/nt/luke/23.4?lang=eng#3).)
 
 The crowd shouted, "Crucify him. Crucify him. Away with him. Crucify him."
-(See [Luke 23:21](https://www.lds.org/scriptures/nt/luke/23.21?lang=eng#20).)
+(See [Luke 23:21](/scriptures/nt/luke/23.21?lang=eng#20).)
 
 And they took Him, the Master--He whom Peter denied three times--and led Him
 forth. He carried His own cross. He began the long journey to the hill, past
 the crowds that lined the way, past the weeping women, past the murderous mob
 that had cried for His crucifixion and through the gates of the city, out to
 the hill called Golgotha--the "place of a skull." (See [John
-19:17](https://www.lds.org/scriptures/nt/john/19.17?lang=eng#16).) And there
-they crucified Him.
+19:17](/scriptures/nt/john/19.17?lang=eng#16).) And there they crucified Him.
 
 To the penitent thief hanging beside Him, Jesus said, "To day shalt thou be
-with me in paradise." ([Luke
-23:43](https://www.lds.org/scriptures/nt/luke/23.43?lang=eng#42).)
+with me in paradise." ([Luke 23:43](/scriptures/nt/luke/23.43?lang=eng#42).)
 
 The last mortal words of Jesus:
 
 "Woman, behold thy son!" ([John
-19:26](https://www.lds.org/scriptures/nt/john/19.26?lang=eng#25).)
+19:26](/scriptures/nt/john/19.26?lang=eng#25).)
 
 And then turning to John, "Behold thy mother!" ([John
-19:27](https://www.lds.org/scriptures/nt/john/19.27?lang=eng#26).)
+19:27](/scriptures/nt/john/19.27?lang=eng#26).)
 
 And then, "Father, into thy hands I commend my spirit." ([Luke
-23:46](https://www.lds.org/scriptures/nt/luke/23.46?lang=eng#45).)
+23:46](/scriptures/nt/luke/23.46?lang=eng#45).)
 
-"It is finished." ([John
-19:30](https://www.lds.org/scriptures/nt/john/19.30?lang=eng#29).)
+"It is finished." ([John 19:30](/scriptures/nt/john/19.30?lang=eng#29).)
 
 "Now upon the first day of the week, very early in the morning," women went to
 the sepulchre with spices they had prepared, and "found the stone rolled away
-from the sepulchre." ([Luke
-24:1-2](https://www.lds.org/scriptures/nt/luke/24.1-2?lang=eng#0).)
+from the sepulchre." ([Luke 24:1-2](/scriptures/nt/luke/24.1-2?lang=eng#0).)
 
 The voice of an angel asked:
 
 "Why seek ye the living among the dead?
 
 "He is not here, but is risen." ([Luke
-24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4).) This
-announcement proclaimed the most glorious event since the dawn of creation.
+24:5-6](/scriptures/nt/luke/24.5-6?lang=eng#4).) This announcement proclaimed
+the most glorious event since the dawn of creation.
 
 Mary heard a voice ask: "Woman, why weepest thou? whom seekest thou?"
 
@@ -267,7 +253,7 @@ Then she knew Him and replied, "Master."
 "Touch me not," He said, "for I am not yet ascended to my Father: but go to my
 brethren, and say unto them, I ascend unto my Father, and your Father; and to
 my God, and your God." (See [John
-20:15-17](https://www.lds.org/scriptures/nt/john/20.15-17?lang=eng#14).)
+20:15-17](/scriptures/nt/john/20.15-17?lang=eng#14).)
 
 Later Jesus appeared to the Apostles in the upper room where He had spent the
 evening with them prior to His death. They were frightened. Then they heard
@@ -279,7 +265,7 @@ the voice of the Master:
 
 "Behold my hands and my feet, that it is I myself: handle me, and see; for a
 spirit hath not flesh and bones, as ye see me have." ([Luke 24:36,
-38-39](https://www.lds.org/scriptures/nt/luke/24.36%2C38-39?lang=eng#35).)
+38-39](/scriptures/nt/luke/24.36,38-39?lang=eng#35).)
 
 Later, on the seashore at Galilee, while the Savior and the disciples were
 eating fish together, Jesus asked Peter, "Simon, son of Jonas, lovest thou me
@@ -300,14 +286,14 @@ more than these?"
 "Lord, thou knowest all things; thou knowest that I love thee."
 
 And the Savior replied yet again, "Feed my sheep." (See [John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).)
+21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14).)
 
 Three times Peter had openly denied the Lord. Now, three times Jesus drew from
 him the assurance of his love and loyalty.
 
 The time had come for Jesus to ascend to His Father's throne. Before His death
 He had declared to His Father, "I have finished the work which thou gavest me
-to do." ([John 17:4](https://www.lds.org/scriptures/nt/john/17.4?lang=eng#3).)
+to do." ([John 17:4](/scriptures/nt/john/17.4?lang=eng#3).)
 
 After His resurrection He tarried on the earth for some forty days, that His
 disciples might more fully comprehend His risen and glorified being and be
@@ -332,20 +318,21 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world." ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).)
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).)
 
 I testify by the power of the Holy Ghost that this same Jesus is the Christ,
 the Son of the Living God, crucified for the sins of the world "to cleanse it
 from all unrighteousness;
 
-"That through him all might be saved." (See [D&amp;C
-76:41-42](https://www.lds.org/scriptures/dc-
+"That through him all might be saved." (See [D&amp;C 76:41-42](/scriptures/dc-
 testament/dc/76.41-42?lang=eng#40).) "He shall feed his flock like a shepherd:
 he shall gather the lambs with his arm, and carry them in his bosom." ([Isa.
-40:11](https://www.lds.org/scriptures/ot/isa/40.11?lang=eng#10).)
+40:11](/scriptures/ot/isa/40.11?lang=eng#10).)
 
 He is our Redeemer, our Lord, our King. His kingdom is again established on
 the earth, which is The Church of Jesus Christ of Latter-day Saints. This
 church, by divine direction, is preparing the world for His second coming--for
 He will come again--I humbly declare in His holy name, amen.
+
+## References
 

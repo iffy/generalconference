@@ -54,9 +54,8 @@ clamour, and evil speaking, be put away from you, with all malice:
 
 "And be ye kind one to another, tenderhearted, forgiving one another, even as
 God for Christ's sake hath forgiven you" ([Eph.
-4:31-32](https://www.lds.org/scriptures/nt/eph/4.31-32?lang=eng#30)). It is
-alarming how many older people go through life without ever becoming real
-adults.
+4:31-32](/scriptures/nt/eph/4.31-32?lang=eng#30)). It is alarming how many
+older people go through life without ever becoming real adults.
 
 For many years I have had a very vivid picture in my mind of Jesus Christ
 standing before Pilate. While Jesus stood in front of an angry mob, who
@@ -74,8 +73,7 @@ thou the King of the Jews? And Jesus said unto him, Thou sayest.
 against thee?
 
 "And he answered him to never a word; insomuch that the governor marvelled
-greatly" ([Matt.
-27:11-14](https://www.lds.org/scriptures/nt/matt/27.11-14?lang=eng#10)).
+greatly" ([Matt. 27:11-14](/scriptures/nt/matt/27.11-14?lang=eng#10)).
 
 There are many opportunities to acquire mature behavior in the organizations
 in the Church. The other day a charming teenager paid a deserving tribute to
@@ -94,8 +92,7 @@ honors awarded, is the maturing element of the program.
 
 "And the younger ... said to his father, Father, give me the portion of goods
 that falleth to me [I am an adult now]. And he divided unto them his living"
-([Luke
-15:11-12](https://www.lds.org/scriptures/nt/luke/15.11-12?lang=eng#10)).
+([Luke 15:11-12](/scriptures/nt/luke/15.11-12?lang=eng#10)).
 
 The prodigal son parable is well known to all of us. He left and wasted his
 substance with riotous living. "When he came to himself, he said, ...
@@ -107,13 +104,13 @@ sinned against heaven, and before thee,
 
 "And he arose, and came to his father. ... His father saw him, and had
 compassion, and ran, and fell on his neck, and kissed him" ([Luke
-15:17-20](https://www.lds.org/scriptures/nt/luke/15.17-20?lang=eng#16)).
+15:17-20](/scriptures/nt/luke/15.17-20?lang=eng#16)).
 
 I believe it appropriate to say the father, too, had become more mature during
 the separation. Think, too, of the maturing and the becoming of more of an
 adult on the part of the elder son when he witnessed and participated in the
 Christ-like example of his father (see [Luke
-15:25-32](https://www.lds.org/scriptures/nt/luke/15.25-32?lang=eng#24)).
+15:25-32](/scriptures/nt/luke/15.25-32?lang=eng#24)).
 
 There is no doubt in my mind that one of the primary reasons Laman and Lemuel
 murmured and spoke harsh words to their brother Nephi and did smite him with a
@@ -127,9 +124,9 @@ that the Lord giveth no commandments unto the children of men, save he shall
 prepare a way for them that they may accomplish the thing which he commandeth
 them. And it came to pass that when my father had heard these words he was
 exceedingly glad, for he knew that I had been blessed of the Lord" ([1 Ne.
-3:7-8](https://www.lds.org/scriptures/bofm/1-ne/3.7-8?lang=eng#6)). Lehi was
-adult enough to know which son was the most mature and who would be blessed of
-the Lord accordingly.
+3:7-8](/scriptures/bofm/1-ne/3.7-8?lang=eng#6)). Lehi was adult enough to know
+which son was the most mature and who would be blessed of the Lord
+accordingly.
 
 Too many of us fail to realize adult conduct is a process, not a status. To
 become a disciple of Jesus Christ, we must continue in righteousness and in
@@ -193,8 +190,7 @@ of hell shall gape open the mouth wide after thee, know thou, my son, that all
 these things shall give thee experience, and shall be for thy good.
 
 "The Son of Man hath descended below them all. Art thou greater than he?"
-([D&amp;C 122:7-8](https://www.lds.org/scriptures/dc-
-testament/dc/122.7-8?lang=eng#6)).
+([D&amp;C 122:7-8](/scriptures/dc-testament/dc/122.7-8?lang=eng#6)).
 
 My young friends, in a spirit of love I make the suggestion that we avoid the
 placing of self-labels. For you to classify yourself as all-state, all-
@@ -219,4 +215,6 @@ the authenticity of the statement "I am an adult now."
 God is our Father. Jesus is the Christ. May our knowledge of them on a
 continuing basis give us Christ-centered adult conduct, I pray in the name of
 Jesus Christ, amen.
+
+## References
 

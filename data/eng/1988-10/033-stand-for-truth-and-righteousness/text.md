@@ -132,10 +132,9 @@ song. You may feel the need to resist compromising or making excuses or
 rationalizing to justify what you want to do, or maybe the whispering will
 come in the words of a scripture you have read: "A new commandment I give unto
 you, That ye love one another; as I have loved you, that ye also love one
-another." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).) But when
-you follow these promptings, a warm, good feeling will come over you, and you
-will know that what you are doing is right.
+another." ([John 13:34](/scriptures/nt/john/13.34?lang=eng#33).) But when you
+follow these promptings, a warm, good feeling will come over you, and you will
+know that what you are doing is right.
 
 The second sure way to have oil to light your way is to become familiar with a
 few favorite scriptures and then gradually add new ones as you study the
@@ -146,16 +145,15 @@ good and evil, why we must be tried and tested. We learn why we must choose
 for ourselves and why we must be responsible for our choices.
 
 Young women, choose you this day whom you will serve. (See [Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).) Choose to
-be obedient, not disobedient; choose to be self-disciplined, not self-
-indulgent. Shun temptation; listen to counsel; don't follow the crowd in
-fashion and fad. Choose to follow the words of the scriptures and living
-prophets without compromise or complaint. We need young women who will not
-yield to unrighteous peer pressure or submit to immoral activities. We need
-young women who will maintain their purity, whose actions are the same as
-their beliefs, who can say with Job, "Till I die I will not remove mine
-integrity from me." ([Job
-27:5](https://www.lds.org/scriptures/ot/job/27.5?lang=eng#4).)
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).) Choose to be obedient, not
+disobedient; choose to be self-disciplined, not self-indulgent. Shun
+temptation; listen to counsel; don't follow the crowd in fashion and fad.
+Choose to follow the words of the scriptures and living prophets without
+compromise or complaint. We need young women who will not yield to unrighteous
+peer pressure or submit to immoral activities. We need young women who will
+maintain their purity, whose actions are the same as their beliefs, who can
+say with Job, "Till I die I will not remove mine integrity from me." ([Job
+27:5](/scriptures/ot/job/27.5?lang=eng#4).)
 
 The third sure way to obtain the oil, the light to guide you, is to keep the
 commandments of God. As you look forward to going to the temple one day and
@@ -204,4 +202,6 @@ true light through us will shine, His name to glorify.
 
 God is our Father, and we are His daughters. Just think of that! He knows us
 and loves each one of us. To this I testify in the name of Jesus Christ, amen.
+
+## References
 

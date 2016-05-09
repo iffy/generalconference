@@ -15,15 +15,13 @@ messianic message of hope to all who would hear; that he was taken by evil
 men, condemned, and crucified on Calvary's Hill; that he rose the third day,
 the firstfruits of them that slept, the conqueror of death, the master of
 eternal life; that "as in Adam all die, even so in Christ shall all be made
-alive" ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21)); that he
-and his Father, the great Elohim, appeared to the boy Joseph Smith in the
-spring of 1820, ushering in this, the dispensation of the fulness of times;
-that he stands at the head of this church which bears his name; that in
-fulfillment of Isaiah's prophecy, the government of the kingdom of God is upon
-his shoulder, and his name is "called Wonderful, Counsellor, The mighty God,
-The everlasting Father, The Prince of Peace." ([Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+alive" ([1 Cor. 15:22](/scriptures/nt/1-cor/15.22?lang=eng#21)); that he and
+his Father, the great Elohim, appeared to the boy Joseph Smith in the spring
+of 1820, ushering in this, the dispensation of the fulness of times; that he
+stands at the head of this church which bears his name; that in fulfillment of
+Isaiah's prophecy, the government of the kingdom of God is upon his shoulder,
+and his name is "called Wonderful, Counsellor, The mighty God, The everlasting
+Father, The Prince of Peace." ([Isa. 9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 I bear solemn witness of him and of his unique and singular place in the plan
 of eternal salvation of God our Eternal Father. I bear witness of these things
@@ -85,8 +83,8 @@ It has always seemed a remarkable thing to me that, although the Lord chose
 twelve Apostles to assist him in the work of the ministry, and to extend it
 following his death; and that although Paul, who was an Apostle, declared that
 the Church should be "built upon the foundation of the apostles and prophets,
-Jesus Christ himself being the chief corner stone" ([Eph. 2:20](https://www.ld
-s.org/scriptures/nt/eph/2.20?lang=eng#19))--notwithstanding all of this, the
+Jesus Christ himself being the chief corner stone" ([Eph.
+2:20](/scriptures/nt/eph/2.20?lang=eng#19))--notwithstanding all of this, the
 office of Apostle, and certainly a Council of Twelve Apostles, is not found to
 my knowledge in other Christian churches.
 
@@ -104,7 +102,7 @@ and continued all night in prayer to God.
 
 "And when it was day, he called unto him his disciples: and of them he chose
 twelve, whom also he named apostles." ([Luke
-6:12-13](https://www.lds.org/scriptures/nt/luke/6.12-13?lang=eng#11).)
+6:12-13](/scriptures/nt/luke/6.12-13?lang=eng#11).)
 
 It is significant to me that the Lord chose those who should walk next to him
 only after he had prayed all night concerning the matter.
@@ -124,7 +122,7 @@ have received, freely give. ...
 
 "For it is not ye that speak, but the Spirit of your Father which speaketh in
 you." ([Matt. 10:1, 5, 7, 8,
-20](https://www.lds.org/scriptures/nt/matt/10.1%2C5%2C7%2C8%2C20?lang=eng#0).)
+20](/scriptures/nt/matt/10.1,5,7,8,20?lang=eng#0).)
 
 This same office of Apostle was restored to the earth when the Church was
 reestablished in this dispensation. In the revelation on Church organization
@@ -134,8 +132,7 @@ church;
 
 "And to Oliver Cowdery, who was also called of God, an apostle of Jesus
 Christ, to be the second elder of this church, and ordained under his hand."
-([D&amp;C 20:2-3](https://www.lds.org/scriptures/dc-
-testament/dc/20.2-3?lang=eng#1).)
+([D&amp;C 20:2-3](/scriptures/dc-testament/dc/20.2-3?lang=eng#1).)
 
 Brigham Young recounts the interesting circumstances associated with the
 organization of the first Quorum of the Twelve in this dispensation. In 1834 a
@@ -187,7 +184,7 @@ Lake City: Deseret Book Co., 1938, p. 74.)
 
 As set forth in the further revelations, they are to work under the direction
 of the First Presidency and to go forth as "special witnesses of the name of
-Christ in all the world." ([D&amp;C 107:23](https://www.lds.org/scriptures/dc-
+Christ in all the world." ([D&amp;C 107:23](/scriptures/dc-
 testament/dc/107.23?lang=eng#22).)
 
 When they need assistance in this duty they are to call upon the Seventy and
@@ -255,4 +252,6 @@ drink of the fountain of eternal truth. May you be blessed in your basket and
 in your store as you walk honestly with the Lord in the support of his great
 kingdom. May the peace of Christ abide in your hearts and in your homes, I
 humbly pray in his holy name, even the name of Jesus Christ, amen.
+
+## References
 

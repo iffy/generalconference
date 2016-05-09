@@ -2,34 +2,30 @@
 
 "The Lord declared that it is his work and his glory 'to bring to pass the
 immortality and eternal life of man.' ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) He has
-established his Church to help in this great work. Accordingly, the Church's
-mission is to 'invite all to come unto Christ' ([D&amp;C
-20:59](https://www.lds.org/scriptures/dc-testament/dc/20.59?lang=eng#58)) and
-'be perfected in him' ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31))."
-(_Melchizedek Priesthood Leadership Handbook,_ 1990, p. 3.)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) He has established his Church
+to help in this great work. Accordingly, the Church's mission is to 'invite
+all to come unto Christ' ([D&amp;C 20:59](/scriptures/dc-
+testament/dc/20.59?lang=eng#58)) and 'be perfected in him' ([Moro.
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31))." (_Melchizedek Priesthood
+Leadership Handbook,_ 1990, p. 3.)
 
 I would like to discuss at least in part what The Church of Jesus Christ of
 Latter-day Saints asks people to do when it invites them "to come unto
-Christ." ([D&amp;C 20:59](https://www.lds.org/scriptures/dc-
-testament/dc/20.59?lang=eng#58).)
+Christ." ([D&amp;C 20:59](/scriptures/dc-testament/dc/20.59?lang=eng#58).)
 
 It should be understood this invitation is not a request to participate in a
 single event, but to participate in a process.
 
 This process leads individuals to eternal life, which "is the greatest of all
 the gifts of God; for there is no gift greater than the gift of salvation."
-([D&amp;C 6:13](https://www.lds.org/scriptures/dc-
-testament/dc/6.13?lang=eng#12).)
+([D&amp;C 6:13](/scriptures/dc-testament/dc/6.13?lang=eng#12).)
 
 How do we begin this most exciting and important process? The Book of Mormon
 records the events that occurred when Christ, following his resurrection,
 visited the people of Nephi in the land Bountiful. So important was this event
 that his Father introduced him, saying, "Behold my Beloved Son, in whom I am
 well pleased, in whom I have glorified my name--_hear ye him._" ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6); emphasis
-added.)
+11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6); emphasis added.)
 
 From this introduction we learn the first required action: _"hear ye him."_ If
 we are to come unto Christ, we must first listen to him. We must learn who he
@@ -42,19 +38,18 @@ world.
 that bitter cup which the Father hath given me, and have glorified the Father
 in taking upon me the sins of the world, in the which I have suffered the will
 of the Father in all things from the beginning." ([3 Ne.
-11:10-11](https://www.lds.org/scriptures/bofm/3-ne/11.10-11?lang=eng#9).)
+11:10-11](/scriptures/bofm/3-ne/11.10-11?lang=eng#9).)
 
 He then invited them to come forth, one by one and "see with their eyes and ...
 feel with their hands." ([3 Ne.
-11:15](https://www.lds.org/scriptures/bofm/3-ne/11.15?lang=eng#14).) These
-people experienced personal knowledge of who he was. However, Jesus reminded
-them that coming to him through faith is even more acceptable.
+11:15](/scriptures/bofm/3-ne/11.15?lang=eng#14).) These people experienced
+personal knowledge of who he was. However, Jesus reminded them that coming to
+him through faith is even more acceptable.
 
 "And again, _more blessed_ are they who shall believe in your words because
 that ye shall testify that ye have seen me, and that ye know that I am. Yea,
 blessed are they who shall believe in your words." ([3 Ne.
-12:2](https://www.lds.org/scriptures/bofm/3-ne/12.2?lang=eng#1); emphasis
-added.)
+12:2](/scriptures/bofm/3-ne/12.2?lang=eng#1); emphasis added.)
 
 We are fortunate to have the scriptures, which contain the words of ancient
 Apostles and prophets, and to have the privilege of listening to modern-day
@@ -72,8 +67,7 @@ become as a little child, or ye can in nowise inherit the kingdom of God.
 
 "Verily, verily, I say unto you, that this is my doctrine, and whoso buildeth
 upon this buildeth upon my rock, and the gates of hell shall not prevail
-against them." ([3 Ne.
-11:38-39](https://www.lds.org/scriptures/bofm/3-ne/11.38-39?lang=eng#37).)
+against them." ([3 Ne. 11:38-39](/scriptures/bofm/3-ne/11.38-39?lang=eng#37).)
 
 Not only did the Lord teach the need for baptism, but he called special
 disciples and gave them power to baptize. He also taught them the correct
@@ -84,19 +78,17 @@ Lord Jesus Christ, repent of our sins, and be baptized in the proper manner,
 by those holding the proper authority and using the proper prayer. After this
 kind of baptism we can "be visited with fire and with the Holy Ghost, and ...
 receive a remission of ... sins." ([3 Ne.
-12:2](https://www.lds.org/scriptures/bofm/3-ne/12.2?lang=eng#1).) However, in
-order to progress we must yield "to the enticings of the Holy Spirit, and
-putteth off the natural man and becometh a saint through the atonement of
-Christ the Lord." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+12:2](/scriptures/bofm/3-ne/12.2?lang=eng#1).) However, in order to progress
+we must yield "to the enticings of the Holy Spirit, and putteth off the
+natural man and becometh a saint through the atonement of Christ the Lord."
+([Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 As we come unto Christ, we must surrender our worldly ways, our pride, and our
 selfishness. As we yield to the promptings of the Holy Ghost, we should
 experience a "mighty change in [our] hearts" ([Alma
-5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13)) and become
-willing to submit to or accept "all things which the Lord seeth fit to inflict
-upon [us]" ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18)).
+5:14](/scriptures/bofm/alma/5.14?lang=eng#13)) and become willing to submit to
+or accept "all things which the Lord seeth fit to inflict upon [us]" ([Mosiah
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18)).
 
 Life is often difficult. There are trials, disappointments, challenges,
 sickness, unemployment even for the Saints. These must be borne with
@@ -123,10 +115,10 @@ grandparents, concerned uncles, aunts, and priesthood leaders. It reminded me
 of my responsibility to be a good example to younger brothers and sisters.
 
 Heavenly Father provides us with a similar request. He asks us to "always
-remember him" ([D&amp;C 20:77, 79](https://www.lds.org/scriptures/dc-
-testament/dc/20.77%2C79?lang=eng#76)) and "to stand as witnesses of [him] at
-all times and in all things, and in all places that [we] may be in" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)).
+remember him" ([D&amp;C 20:77, 79](/scriptures/dc-
+testament/dc/20.77,79?lang=eng#76)) and "to stand as witnesses of [him] at all
+times and in all things, and in all places that [we] may be in" ([Mosiah
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)).
 
 These reminders provide a simple, but effective, decision-making tool that can
 help us develop needed self-control and self-discipline.
@@ -147,8 +139,7 @@ the process of coming unto Christ and being perfected in him. The Book of
 Mormon promised if we "come unto him, and offer [our] whole souls as an
 offering unto him, and _continue in fasting and praying,_ and _endure to the
 end_ ... [we] will be saved." ([Omni
-1:26](https://www.lds.org/scriptures/bofm/omni/1.26?lang=eng#25); emphasis
-added.)
+1:26](/scriptures/bofm/omni/1.26?lang=eng#25); emphasis added.)
 
 If you have not yet accepted the invitation to come unto him, please do so
 now. Missionaries of The Church of Jesus Christ of Latter-day Saints are
@@ -160,10 +151,11 @@ took a detour, do not despair; begin again. Come back, come back now! Come
 unto Christ and enjoy the "fruit of the Spirit," namely, "love, joy, peace,
 longsuffering, gentleness, goodness, faith, meekness, temperance" and begin to
 "walk in the Spirit" ([Gal. 5:22-23,
-25](https://www.lds.org/scriptures/nt/gal/5.22-23%2C25?lang=eng#21)) and to
-"lay hold upon every good gift" ([Moro.
-10:30](https://www.lds.org/scriptures/bofm/moro/10.30?lang=eng#29)).
+25](/scriptures/nt/gal/5.22-23,25?lang=eng#21)) and to "lay hold upon every
+good gift" ([Moro. 10:30](/scriptures/bofm/moro/10.30?lang=eng#29)).
 
 I testify that he lives, that he is the light and life of the world, that he
 is our Savior and our Redeemer, and I do it in the name of Jesus Christ, amen.
+
+## References
 

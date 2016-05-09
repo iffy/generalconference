@@ -29,14 +29,14 @@ his principles.
 
 It is very significant that when Jesus came forth from the tomb and appeared
 to his disciples, his first greeting was, "Peace be unto you." ([Luke
-24:36](https://www.lds.org/scriptures/nt/luke/24.36?lang=eng#35).) Peace--not
-passion, not personal possessions, not personal accomplishments nor happiness
---is one of the greatest blessings a man can receive. Our trust and our
-relationship with our Heavenly Father should be one similar to that of the
-little blind girl and her earthly father. When sorrow, tragedy, and
-heartbreaks occur in our lives, wouldn't it be comforting if when the
-whisperings of God say, "Do you know why this has happened to you?" we could
-have the peace of mind to answer "No, but you do."
+24:36](/scriptures/nt/luke/24.36?lang=eng#35).) Peace--not passion, not
+personal possessions, not personal accomplishments nor happiness--is one of
+the greatest blessings a man can receive. Our trust and our relationship with
+our Heavenly Father should be one similar to that of the little blind girl and
+her earthly father. When sorrow, tragedy, and heartbreaks occur in our lives,
+wouldn't it be comforting if when the whisperings of God say, "Do you know why
+this has happened to you?" we could have the peace of mind to answer "No, but
+you do."
 
 Certainly peace is the opposite of fear. Peace is a blessing that comes to
 those who trust in God. It is established through individual righteousness.
@@ -70,7 +70,7 @@ with feelings of peace.
 up mire and dirt.
 
 "There is no peace, saith my God, to the wicked." ([Isa.
-57:20-21](https://www.lds.org/scriptures/ot/isa/57.20-21?lang=eng#19).)
+57:20-21](/scriptures/ot/isa/57.20-21?lang=eng#19).)
 
 However, only those at peace can properly cope with accusations and slander.
 Inner peace is the prized possession of God's valiant. A testimony of the
@@ -80,12 +80,12 @@ adversity.
 There are those who dangle false enticements of peace before us. These are
 they who are greedy and power hungry. "Be not deceived; God is not mocked: ...
 He that soweth to his flesh shall of the flesh reap corruption." ([Gal.
-6:7-8](https://www.lds.org/scriptures/nt/gal/6.7-8?lang=eng#6).) Inner peace
-flees from those who sacrifice virtue for sexual promiscuity. There are some
-who advocate and promote new sexual exploits under the guise of "relief from
-stress." These people are only sowing unto the flesh and peddling devilish
-deeds. Wickedness, no matter how it is labeled or camouflaged, will eventually
-bring grief and heartache and wipe out inner peace.
+6:7-8](/scriptures/nt/gal/6.7-8?lang=eng#6).) Inner peace flees from those who
+sacrifice virtue for sexual promiscuity. There are some who advocate and
+promote new sexual exploits under the guise of "relief from stress." These
+people are only sowing unto the flesh and peddling devilish deeds. Wickedness,
+no matter how it is labeled or camouflaged, will eventually bring grief and
+heartache and wipe out inner peace.
 
 Peace will never be the possession of those who participate in vulgar
 conversations and behavior. Let us not be planters of poisonous seeds. Rather
@@ -123,8 +123,7 @@ truths. Flabbiness of character should always be more of a concern than
 flabbiness of muscles. Body building and body conditioning are worthwhile
 goals, but there is more needed to gain true inner peace. We must blend
 balance in our lives and increase in wisdom and stature, and in favor with God
-and man (see [Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51)) to reach our
+and man (see [Luke 2:52](/scriptures/nt/luke/2.52?lang=eng#51)) to reach our
 full potential.
 
 No peace will be lasting unless it is built upon the solid foundation of
@@ -161,16 +160,15 @@ to block the way. We cry out today with urgency, "Have mercy, O Lord, upon all
 the nations of the earth; have mercy upon the rulers of our land; may those
 principles, which were so honorably and nobly defended, namely, the
 Constitution of our land, by our fathers, be established forever." ([D&amp;C
-109:54](https://www.lds.org/scriptures/dc-testament/dc/109.54?lang=eng#53).)
-The respected Winston Churchill once said, "The day will come when ...
-victorious nations will plan and build in justice and freedom a house of many
-mansions, where there will be room for all."
+109:54](/scriptures/dc-testament/dc/109.54?lang=eng#53).) The respected
+Winston Churchill once said, "The day will come when ... victorious nations will
+plan and build in justice and freedom a house of many mansions, where there
+will be room for all."
 
 We would pray earnestly today that all leaders of nations, large and small,
 free or oppressed, would know: "And above all things, clothe yourselves with
 the bond of charity, as with a mantle, which is the bond of perfectness and
-peace." ([D&amp;C 88:125](https://www.lds.org/scriptures/dc-
-testament/dc/88.125?lang=eng#124).)
+peace." ([D&amp;C 88:125](/scriptures/dc-testament/dc/88.125?lang=eng#124).)
 
 Despite the challenges of curbing federal budget deficits and riots and
 terrorism, of controlling the arms race and inflation, and of winning an
@@ -178,13 +176,11 @@ ambitious battle for tax reform, thank God America is at peace. Thank God for
 those other nations who teach and live in peace. Thank God for worthy men who
 work to keep it that way. Our responsibility as a nation and its people is to
 continue to take the lead in furthering peace on earth and goodwill toward all
-men. (See [Luke
-2:14](https://www.lds.org/scriptures/nt/luke/2.14?lang=eng#13).) To all
-mankind worldwide who would anxiously engage themselves in lasting peace, we
-share: "But learn that he who doeth the works of righteousness shall receive
-his reward, even peace in this world, and eternal life in the world to come."
-([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
-testament/dc/59.23?lang=eng#22).)
+men. (See [Luke 2:14](/scriptures/nt/luke/2.14?lang=eng#13).) To all mankind
+worldwide who would anxiously engage themselves in lasting peace, we share:
+"But learn that he who doeth the works of righteousness shall receive his
+reward, even peace in this world, and eternal life in the world to come."
+([D&amp;C 59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22).)
 
 The individual, the home, the Church, the school, the government are the
 fundamental institutions upon which lasting peace depends. The main purpose of
@@ -218,4 +214,6 @@ periodically interfere with our chosen course. The laws of the gospel can
 bring us back on course and guide us to peaceful waters.
 
 To this I bear my special witness in the name of Jesus Christ, amen.
+
+## References
 

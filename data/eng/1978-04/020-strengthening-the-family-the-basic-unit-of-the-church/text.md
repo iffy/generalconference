@@ -77,8 +77,7 @@ area of the world headquarters of the Church.
 
 Brethren, by being alert to what enters your home, you can do much in helping
 your family seek that which is "virtuous, lovely, or of good report or
-praiseworthy." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+praiseworthy." ([A of F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 I had a note one day from a little boy who said, "I know a man who is such a
 wonderful man, and his name is The Bishop." We always had a good bishop. We
@@ -92,7 +91,7 @@ accomplishments and his service and his example and his great program.
 
 He gave to Moses this: "For behold, this is my work and my glory--to bring to
 pass the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 I take this opportunity to express our appreciation to the leaders of the
 organizations and all who serve in this great cause of priesthood activity,
@@ -369,7 +368,7 @@ head of Peter, James, and John in that dispensation these privileges and these
 powers, these keys, that they might go forth and perform this labor. That is
 why they came to the Prophet Joseph Smith, and the Lord said, "I will send you
 Elijah the prophet before ... the great and dreadful day of the Lord." ([Mal.
-4:5](https://www.lds.org/scriptures/ot/mal/4.5?lang=eng#4).)
+4:5](/scriptures/ot/mal/4.5?lang=eng#4).)
 
 Why should he send Elijah? Because he held the keys of the authority to
 administer in all the ordinances of the priesthood, and without the authority
@@ -385,4 +384,6 @@ sealing is to be called, elected, and the election made sure.
 "I know that God lives. I know that Jesus Christ lives," said John Taylor, my
 predecessor, "for I have seen him." I bear this testimony to you brethren in
 the name of Jesus Christ. Amen.
+
+## References
 

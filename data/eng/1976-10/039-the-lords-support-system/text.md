@@ -54,9 +54,8 @@ teacher spends hours in preparation--not minutes, but hours. Scriptural
 references and concepts are pondered. The right words need to be found. Then
 those right words need to come out modulated by the Spirit, for this church
 has always been taught, "If ye receive not the Spirit ye shall not teach."
-([D&amp;C 42:14](https://www.lds.org/scriptures/dc-
-testament/dc/42.14?lang=eng#13).) May we ever bless the name of those who
-convey the truth.
+([D&amp;C 42:14](/scriptures/dc-testament/dc/42.14?lang=eng#13).) May we ever
+bless the name of those who convey the truth.
 
 In one of Carol Lynn Pearson's poems, she likens eternity to a school play.
 Reference is made to the unlikely persons who frequently receive the starring
@@ -70,7 +69,7 @@ talents begin to develop. Were it not for the inspiration connected with a
 Church calling--if we were forced to use the yardstick of the world in
 measuring the potential of an individual--our progress would be greatly
 impaired, for it is true: "Where there is no vision, the people perish."
-([Prov. 29:18](https://www.lds.org/scriptures/ot/prov/29.18?lang=eng#17).)
+([Prov. 29:18](/scriptures/ot/prov/29.18?lang=eng#17).)
 
 In the work of the Lord we don't seek positions, nor should we refuse the
 opportunity to serve when called. The story is told of one good brother,
@@ -116,7 +115,7 @@ Gospel concepts as taught by the Savior are sometimes difficult for the mind
 of mortal man. You see, God's ways are not man's ways, and all of us need to
 learn that lesson well. I suppose some of what we have been talking about here
 today is involved in the divine truth that "the first shall be last, and that
-the last shall be first." ([D&amp;C 29:30](https://www.lds.org/scriptures/dc-
+the last shall be first." ([D&amp;C 29:30](/scriptures/dc-
 testament/dc/29.30?lang=eng#29).) There could be many surprises in the
 hereafter as we look up ahead and exclaim in our amazement, "But he was only a
 home teacher." You know and I know that if he was the kind of home teacher
@@ -140,4 +139,6 @@ be blessed so abundantly.
 
 That we may all go forth willingly, effectively, full of faith, with an eye
 single to His glory is my prayer in the name of the Lord Jesus Christ. Amen.
+
+## References
 

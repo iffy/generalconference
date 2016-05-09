@@ -92,8 +92,7 @@ which are good?_ And because the branches have overcome the roots thereof,
 _behold they grew faster than the strength of the roots,_ taking strength unto
 themselves. Behold, I say, is not this the cause that the trees of thy
 vineyard have become corrupted?" ([Jacob
-5:47-48](https://www.lds.org/scriptures/bofm/jacob/5.47-48?lang=eng#46);
-italics added).
+5:47-48](/scriptures/bofm/jacob/5.47-48?lang=eng#46); italics added).
 
 It seems that some among us have this same problem; they want bountiful
 harvests--both spiritual and temporal--without developing the root system that
@@ -136,8 +135,7 @@ when they take on serious proportions, it sometimes means we have not been
 fully obedient to counsel--both that of the Lord through his Spirit and that
 of our appointed leaders. Let us practice the principles of personal and
 family preparedness in our daily lives. "If ye are prepared ye shall not fear"
-([D&amp;C 38:30](https://www.lds.org/scriptures/dc-
-testament/dc/38.30?lang=eng#29)).
+([D&amp;C 38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29)).
 
 ## Church Fruits
 
@@ -147,11 +145,11 @@ the fruit of our labors is the building of Zion.
 The Lord declared: "For Zion _must_ increase in beauty, and in holiness; her
 borders _must_ be enlarged; her stakes _must_ be strengthened; yea, verily I
 say unto you, Zion _must_ arise and put on her beautiful garments." ([D&amp;C
-82:14](https://www.lds.org/scriptures/dc-testament/dc/82.14?lang=eng#13);
-italics added.) Zion consists of the pure in heart--those who are sanctified
-and whose garments are washed white through the blood of the Lamb (see [Alma
-13:11](https://www.lds.org/scriptures/bofm/alma/13.11?lang=eng#10)). These are
-they who take charity as a mantle and serve others out of a pure heart.
+82:14](/scriptures/dc-testament/dc/82.14?lang=eng#13); italics added.) Zion
+consists of the pure in heart--those who are sanctified and whose garments are
+washed white through the blood of the Lamb (see [Alma
+13:11](/scriptures/bofm/alma/13.11?lang=eng#10)). These are they who take
+charity as a mantle and serve others out of a pure heart.
 
 We are building up the strength of Zion--her cords or stakes--throughout the
 world. Therefore, we counsel our people to remain in their native lands and
@@ -165,10 +163,10 @@ required of us to build up Zion are those which underlie welfare services. For
 we must be "united according to the union required by the law of the celestial
 kingdom; And Zion cannot be built up unless it is by the principles of the law
 of the celestial kingdom; otherwise I cannot receive her unto myself"
-([D&amp;C 105:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/105.4-5?lang=eng#3)). It is our present opportunity and
-responsibility to give, nurture, and work to bring forth the final fruits of
-welfare services, shown in vision to Enoch and recorded in the Book of Moses:
+([D&amp;C 105:4-5](/scriptures/dc-testament/dc/105.4-5?lang=eng#3)). It is our
+present opportunity and responsibility to give, nurture, and work to bring
+forth the final fruits of welfare services, shown in vision to Enoch and
+recorded in the Book of Moses:
 
 "And righteousness will I send down out of Heaven; and truth will I send forth
 out of the earth, to bear testimony of mine Only Begotten; his resurrection
@@ -178,7 +176,7 @@ elect from the four quarters of the earth, unto a place which I shall prepare,
 an Holy City, that my people may gird up their loins, and be looking forth for
 the time of my coming; for there shall be my tabernacle, and it shall be
 called Zion, a New Jerusalem" ([Moses
-7:62](https://www.lds.org/scriptures/pgp/moses/7.62?lang=eng#61)).
+7:62](/scriptures/pgp/moses/7.62?lang=eng#61)).
 
 It is my plea that we may keep our houses in order, individually and
 collectively, and prepare to receive the fruits of the gospel--even a fulness
@@ -322,4 +320,6 @@ Church and in the home.
 
 May the Lord bless us in this great and divinely inspired welfare work, I
 humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

@@ -19,10 +19,10 @@ days.
 Brothers and sisters, our challenge is the same as it always is when we have
 been taught correct principles. The challenge has been put well by an ancient
 prophet who said, "Now, if you believe all these things see that ye do them"
-([Mosiah 4:10](https://www.lds.org/scriptures/bofm/mosiah/4.10?lang=eng#9)).
-We must not let the inner resolves we have made during this conference be
-forgotten as we return to the trials and tribulations and responsibilities of
-a workaday world, a world of turmoil and strife.
+([Mosiah 4:10](/scriptures/bofm/mosiah/4.10?lang=eng#9)). We must not let the
+inner resolves we have made during this conference be forgotten as we return
+to the trials and tribulations and responsibilities of a workaday world, a
+world of turmoil and strife.
 
 For a few hours we have been apart from the world in general conference, and
 the Spirit has whispered peace to our souls. Now we must return to our places
@@ -41,8 +41,7 @@ We are bound to note events and trends in the world which will constitute
 special challenges. We cannot expect to live in times of turbulence without
 experiencing some of that turbulence ourselves. But we do not need to be
 "tossed to and fro, and carried about [by] every wind of doctrine" without
-anchor (see [Eph.
-4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13)). We have
+anchor (see [Eph. 4:14](/scriptures/nt/eph/4.14?lang=eng#13)). We have
 fellowship in a divine church. We have present-day prophets to guide us. We
 have Christ as our shepherd to lead us.
 
@@ -101,4 +100,6 @@ totally in our work.
 We pray that the Lord may continue to bless you, and we would be glad if you
 take back to your homes and to your people our sincere and deep love. God
 bless you, in the name of Jesus Christ, amen.
+
+## References
 

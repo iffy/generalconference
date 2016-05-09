@@ -1,4 +1,4 @@
-# Sacrifice: Missionary-Style
+# Sacrifice:Missionary-Style
 
 My dear brothers and sisters and friends, I am humbly grateful for this
 opportunity to share my testimony of the truthfulness of the gospel of Jesus
@@ -24,8 +24,7 @@ lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou
 shalt have treasure in heaven: and come, take up the cross, and follow me.
 
 "And he was sad at that saying, and went away grieved: for he had great
-possessions." ([Mark
-10:17-22](https://www.lds.org/scriptures/nt/mark/10.17-22?lang=eng#16).)
+possessions." ([Mark 10:17-22](/scriptures/nt/mark/10.17-22?lang=eng#16).)
 
 The law of sacrifice is a fundamental doctrine of the gospel of Jesus Christ
 and contributes to the building of faith, love, and many other virtues. Many
@@ -61,7 +60,7 @@ take up his cross, and follow me.
 
 "For whosoever will save his life shall lose it: and whosoever will lose his
 life for my sake shall find it." ([Matt.
-16:24-25](https://www.lds.org/scriptures/nt/matt/16.24-25?lang=eng#23).)
+16:24-25](/scriptures/nt/matt/16.24-25?lang=eng#23).)
 
 The word _deny_ implies sacrifice or giving up one's personal desires for the
 happiness of others. We often hear it said that a missionary sacrifices two
@@ -87,7 +86,7 @@ and becometh a saint through the atonement of Christ the Lord, and becometh as
 a child, submissive, meek, humble, patient, full of love, willing to submit to
 all things which the Lord seeth fit to inflict upon him, even as a child doth
 submit to his Father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 I assured this young missionary that if he would adhere to the enticings of
 the Holy Spirit and submit to all things which the Lord saw fit to inflict
@@ -160,8 +159,7 @@ the sacrifice of the Savior, his obedience and suffering:
 suffered;
 
 "And being made perfect, he became the author of eternal salvation unto all
-them that obey him." ([Heb.
-5:8-9](https://www.lds.org/scriptures/nt/heb/5.8-9?lang=eng#7).)
+them that obey him." ([Heb. 5:8-9](/scriptures/nt/heb/5.8-9?lang=eng#7).)
 
 I know if we practice the principles of sacrifice daily and deny our personal
 desires for the happiness of others, we too will be able to receive the Holy
@@ -173,4 +171,6 @@ ordained to restore the gospel of Jesus Christ in these last days. And
 President Spencer W. Kimball today is indeed the prophet of the Lord and is
 administering to the needs of the Church all over the world. In the name of
 Jesus Christ, amen.
+
+## References
 

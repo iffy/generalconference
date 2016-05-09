@@ -178,3 +178,5 @@ May we be blessed with the ability to touch hearts and lift up as we follow
 the life of the Master and the example of his living prophet on earth today as
 we just simply DO IT is my prayer in the name of the Lord Jesus Christ. Amen.
 
+## References
+

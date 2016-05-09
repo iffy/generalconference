@@ -38,8 +38,7 @@ unless ye have believed in vain.
 Christ died for our sins according to the scriptures;
 
 "And that he was buried, and that he rose again the third day according to the
-scriptures." ([1 Cor.
-15:1-4](https://www.lds.org/scriptures/nt/1-cor/15.1-4?lang=eng#0).)
+scriptures." ([1 Cor. 15:1-4](/scriptures/nt/1-cor/15.1-4?lang=eng#0).)
 
 At this Easter season our thoughts turn to the events that comprise what is
 perhaps the most exciting part of the good news that we bear. I'm speaking of
@@ -47,13 +46,13 @@ those events which followed the crucifixion of the Savior. The Gospel writers
 described the hurried burial of the Lord because of the onset of the Sabbath
 day; the early-morning discovery of the empty tomb by Mary and other faithful
 women; the announcement of the angel, "He is not here: for he is risen, as he
-said" ([Matt. 28:6](https://www.lds.org/scriptures/nt/matt/28.6?lang=eng#5));
-the message, delivered by Mary to Peter and John, that the body had been
-removed from the sepulcher; the realization on the part of Peter and John that
-the tomb truly was empty; and finally, the two brief conversations Mary had--
-first, with the two personages in white in the sepulcher, and second, with the
-one whom she thought was the caretaker of the garden, but soon realized when
-he spoke to her that he was in fact the Master himself.
+said" ([Matt. 28:6](/scriptures/nt/matt/28.6?lang=eng#5)); the message,
+delivered by Mary to Peter and John, that the body had been removed from the
+sepulcher; the realization on the part of Peter and John that the tomb truly
+was empty; and finally, the two brief conversations Mary had--first, with the
+two personages in white in the sepulcher, and second, with the one whom she
+thought was the caretaker of the garden, but soon realized when he spoke to
+her that he was in fact the Master himself.
 
 These are events that confirm the messiahship of Jesus. It is to these events
 that Christians look for support of the hope that there is life after death.
@@ -77,8 +76,7 @@ for the sheep.
 
 "And other sheep I have, which are not of this fold: them also I must bring,
 and they shall hear my voice; and there shall be one fold, and one shepherd."
-([John
-10:14-16](https://www.lds.org/scriptures/nt/john/10.14-16?lang=eng#13).)
+([John 10:14-16](/scriptures/nt/john/10.14-16?lang=eng#13).)
 
 Who were these "other sheep" which were not of the Jewish fold in Palestine,
 who would hear the voice of the Lord and be brought into the light of the
@@ -96,7 +94,7 @@ them also I must bring, and they shall hear my voice; and there shall be one
 fold, and one shepherd.
 
 "And they understood me not, for they supposed it had been the Gentiles." ([3
-Ne. 15:21-22](https://www.lds.org/scriptures/bofm/3-ne/15.21-22?lang=eng#20).)
+Ne. 15:21-22](/scriptures/bofm/3-ne/15.21-22?lang=eng#20).)
 
 Those who are familiar with the life and teachings of the Master from their
 knowledge of the books of the Bible will be interested to know there is also a
@@ -136,7 +134,7 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).)
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).)
 
 If you have a sincere desire to know, and if you are willing to live in
 accordance with all of the commandments He has given, this counsel of Moroni
@@ -160,16 +158,14 @@ because of pain, and to bleed at every pore, and to suffer both body and
 spirit--and would that I might not drink the bitter cup, and shrink--
 
 "Nevertheless, glory be to the Father, and I partook and finished my
-preparations unto the children of men." ([D&amp;C
-19:16-19](https://www.lds.org/scriptures/dc-
+preparations unto the children of men." ([D&amp;C 19:16-19](/scriptures/dc-
 testament/dc/19.16-19?lang=eng#15).)
 
 And again he said: "I am the resurrection, and the life: he that believeth in
 me, though he were dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die. Believest thou
-this?" ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+this?" ([John 11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 It is truly a beautiful message--there will be life after death; we can return
 to live with our Father in Heaven once again, because of the sacrifice the
@@ -183,8 +179,9 @@ that has been provided for us. We should turn toward unselfishness and careful
 adherence to the principles of righteousness. In doing so, let us remember
 that the time of preparation is growing short, that soon the Savior will
 return. As the Apostle Paul has said: "For yet a little while, and he that
-shall come will come." ([Heb.
-10:37](https://www.lds.org/scriptures/nt/heb/10.37?lang=eng#36).)
+shall come will come." ([Heb. 10:37](/scriptures/nt/heb/10.37?lang=eng#36).)
 
 That we may be found worthy at his coming is my prayer in his name, amen.
+
+## References
 

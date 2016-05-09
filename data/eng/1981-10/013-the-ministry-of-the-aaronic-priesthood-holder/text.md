@@ -99,31 +99,20 @@ sister or brother.
 If I wanted to develop power in the priesthood--if I wanted to be inspired in
 the things I did every day--here are some of the things I would do:
 
-  1. I believe I would try to read the scriptures every day for ten or fifteen minutes. I would probably start with the Book of Mormon. I wouldn't worry if I didn't understand everything I read the first time--or the second time--or the third. But I'd read often.
-
-  2. I would kneel and say my prayers every night and morning. When I was a boy, I couldn't always remember to say my prayers at night. I wanted to, but sometimes I would forget because I'd be too sleepy. When I got older, I had a great idea.
-
-If I were you, I would go out in the field and find a rock about the size of
-your fist. I'd wash it clean and put it under my pillow. Then, when I would
-get in bed at night and drop my head on my pillow--crack! I would remember to
-get out of bed and kneel down by it. I would then put the rock on the floor by
-my bed and go to sleep. Then, in the morning, I would jump out of bed, and as
-my foot would come down on the rock--"Ouch!" And I would remember to kneel
-down and say my morning prayers. Sometimes we need reminders to form good
-habits.
-
-  3. I would decide tonight that I am going to pray for a desire to go on a mission. I would pray every day until it happened! And I would start now with a missionary savings fund. I would go home tonight and get a can or a jar with a lid on it, clean it out, and put it in my room. Then, after I had paid my tithing I would start putting something aside for a mission.
+  1. I believe I would try to read the scriptures every day for ten or fifteen minutes. I would probably start with the Book of Mormon. I wouldn't worry if I didn't understand everything I read the first time--or the second time--or the third. But I'd read often. 
+  2. I would kneel and say my prayers every night and morning. When I was a boy, I couldn't always remember to say my prayers at night. I wanted to, but sometimes I would forget because I'd be too sleepy. When I got older, I had a great idea. If I were you, I would go out in the field and find a rock about the size of your fist. I'd wash it clean and put it under my pillow. Then, when I would get in bed at night and drop my head on my pillow--crack! I would remember to get out of bed and kneel down by it. I would then put the rock on the floor by my bed and go to sleep. Then, in the morning, I would jump out of bed, and as my foot would come down on the rock--"Ouch!" And I would remember to kneel down and say my morning prayers. Sometimes we need reminders to form good habits. 
+  3. I would decide tonight that I am going to pray for a desire to go on a mission. I would pray every day until it happened! And I would start now with a missionary savings fund. I would go home tonight and get a can or a jar with a lid on it, clean it out, and put it in my room. Then, after I had paid my tithing I would start putting something aside for a mission. 
 
 Now, maybe we ought to say one more thing to our friends who have made some
 very serious mistakes and because of this have either lost or have not yet
 received this special power we've been talking about. The Lord has made a
 great promise to all of us, for he said: "Behold, he who has repented of his
 sins, the same is forgiven, and I, the Lord, remember them no more." ([D&amp;C
-58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41).)
+58:42](/scriptures/dc-testament/dc/58.42?lang=eng#41).)
 
 Think of it! He'll forget what we did wrong, if we do the following: "By this
 ye may know if a man repenteth of his sins--behold, he will _confess_ them and
-_forsake_ them." ([D&amp;C 58:43](https://www.lds.org/scriptures/dc-
+_forsake_ them." ([D&amp;C 58:43](/scriptures/dc-
 testament/dc/58.43?lang=eng#42); italics added.)
 
 The first step in getting your life right when these very serious mistakes
@@ -160,7 +149,7 @@ felt good inside. The day was set for her baptism. We were all invited to go.
 Dressed in white, she and one of the missionaries entered the water, and she
 was baptized as he said, calling her by name, "Having been commissioned of
 Jesus Christ, I baptize you in the name of the Father, and of the Son, and of
-the Holy Ghost." ([D&amp;C 20:73](https://www.lds.org/scriptures/dc-
+the Holy Ghost." ([D&amp;C 20:73](/scriptures/dc-
 testament/dc/20.73?lang=eng#72).)
 
 The next step was for her to be confirmed. Some of us stood in the circle as
@@ -200,4 +189,6 @@ relationship with the Savior. I testify that he lives! I testify that he knows
 your name! He knows you intimately! He loves you! May his power and blessing
 be with you in your Aaronic Priesthood ministry. In the name of Jesus Christ,
 amen.
+
+## References
 

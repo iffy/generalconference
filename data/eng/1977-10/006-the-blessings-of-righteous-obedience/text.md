@@ -13,10 +13,9 @@ Some people do not obey because they feel their free agency will be trampled
 upon if they consider themselves subservient to Church authorities or enter
 into binding ordinances. Others willfully choose an existence of being
 "contrary to the nature of happiness." ([Alma
-41:11](https://www.lds.org/scriptures/bofm/alma/41.11?lang=eng#10).) Still
-others, products of an undisciplined life, persist in their weaknesses and
-justify their course of action by shrugging and saying, "That's just the way I
-am."
+41:11](/scriptures/bofm/alma/41.11?lang=eng#10).) Still others, products of an
+undisciplined life, persist in their weaknesses and justify their course of
+action by shrugging and saying, "That's just the way I am."
 
 Disobedience to God and His chosen servants ignores the fact that we are all
 the children of an Eternal Father who has endowed us with the capacity to be
@@ -29,8 +28,7 @@ as our Lawgiver and Lord. In Hebrews we read:
 suffered;
 
 "And being made perfect, he became the author of eternal salvation unto all
-them that obey him." ([Heb.
-5:8-9](https://www.lds.org/scriptures/nt/heb/5.8-9?lang=eng#7).)
+them that obey him." ([Heb. 5:8-9](/scriptures/nt/heb/5.8-9?lang=eng#7).)
 
 We now tread in the same path that He trod. That path has been clearly marked
 out for each of us with signs and warnings to guide us along the way,
@@ -69,8 +67,7 @@ of the earth. ...
 
 "The Lord shall establish thee an holy people unto himself, as he hath sworn
 unto thee, if thou shalt keep the commandments of the Lord thy God, and walk
-in his ways." ([Deut. 28: 1,
-9](https://www.lds.org/scriptures/ot/deut/28.title?lang=eng).)
+in his ways." ([Deut. 28: 1, 9](/scriptures/ot/deut/28?lang=eng).)
 
 Now a quote from the Book of Mormon:
 
@@ -85,18 +82,16 @@ lives, for which ye are indebted unto him.
 "And secondly, he doth require that ye should do as he hath commanded you; for
 which if ye do, he doth immediately bless you; and therefore he hath paid you.
 And ye are still indebted unto him, and are, and will be, forever and ever."
-([Mosiah
-2:22-24](https://www.lds.org/scriptures/bofm/mosiah/2.22-24?lang=eng#21).)
+([Mosiah 2:22-24](/scriptures/bofm/mosiah/2.22-24?lang=eng#21).)
 
 Next, from the Doctrine and Covenants:
 
 "For if you will that I give unto you a place in the celestial world, you must
 prepare yourselves by doing the things which I have commanded you and required
-of you." ([D&amp;C 78:7](https://www.lds.org/scriptures/dc-
-testament/dc/78.7?lang=eng#6).)
+of you." ([D&amp;C 78:7](/scriptures/dc-testament/dc/78.7?lang=eng#6).)
 
 "I, the Lord, am bound when ye do what I say; but when ye do not what I say,
-ye have no promise." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
+ye have no promise." ([D&amp;C 82:10](/scriptures/dc-
 testament/dc/82.10?lang=eng#9).)
 
 Finally, from the Pearl of Great Price:
@@ -108,7 +103,7 @@ the Lord their God shall command them;
 not their first estate shall not have glory in the same kingdom with those who
 keep their first estate; and they who keep their second estate shall have
 glory added upon their heads for ever and ever." ([Abr.
-3:25-26](https://www.lds.org/scriptures/pgp/abr/3.25-26?lang=eng#24).)
+3:25-26](/scriptures/pgp/abr/3.25-26?lang=eng#24).)
 
 These scriptural passages clearly state that great rewards are promised to
 those who obey.
@@ -124,15 +119,15 @@ been clearly stated to the Church as follows:
 unto you as he receiveth them, walking in all holiness before me;
 
 "For his word ye shall receive, _as if from mine own mouth,_ in all patience
-and faith." ([D&amp;C 21:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-5?lang=eng#3); italics added.)
+and faith." ([D&amp;C 21:4-5](/scriptures/dc-testament/dc/21.4-5?lang=eng#3);
+italics added.)
 
 Then follows this promise to us when we heed the Lord's admonition:
 
 "For by doing these things the gates of hell shall not prevail against you;
 yea, and the Lord God will disperse the powers of darkness from before you,
 and cause the heavens to shake for your good, and his name's glory." ([D&amp;C
-21:6](https://www.lds.org/scriptures/dc-testament/dc/21.6?lang=eng#5).)
+21:6](/scriptures/dc-testament/dc/21.6?lang=eng#5).)
 
 The Lord has also provided local authorities--stake and district presidents,
 bishops and branch presidents. In a letter from the First Presidency, dated
@@ -172,8 +167,7 @@ darkness wherein there can be no labor performed. ...
 
 "That same spirit which doth possess your bodies at the time that ye go out of
 this life, that same spirit will have power to possess your body in that
-eternal world." ([Alma
-34:31-34](https://www.lds.org/scriptures/bofm/alma/34.31-34?lang=eng#30).)
+eternal world." ([Alma 34:31-34](/scriptures/bofm/alma/34.31-34?lang=eng#30).)
 
 It is obvious we either discipline our lives here, or pay the price for the
 undisciplined life in the world to come.
@@ -183,14 +177,13 @@ As we consider the lives of Saints in both past and present dispensations, we
 learn their lives were refined by affliction, hardship, persecution, and
 personal suffering. Job, who was no stranger to affliction, said in the time
 of his trials: "[God] knoweth the way that I take: when he hath tried me, I
-shall come forth as gold." ([Job
-23:10](https://www.lds.org/scriptures/ot/job/23.10?lang=eng#9).)
+shall come forth as gold." ([Job 23:10](/scriptures/ot/job/23.10?lang=eng#9).)
 
 In the despair of his own personal suffering, Joseph Smith was reminded that
 suffering can make saints of mortal men when they are "willing to submit to
 all things which the Lord seeth fit to inflict upon [them], even as a child
 doth submit to his father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 Sometime in the eternities to come, we will see that our trials were
 calculated to cause us to turn to our Heavenly Father for strength and
@@ -207,7 +200,7 @@ degrees of glory have been prepared, for the scriptures record:
 kingdom, even that of a terrestrial kingdom, or that of a telestial kingdom.
 
 "For he who is not able to abide the law of a celestial kingdom cannot abide a
-celestial glory." ([D&amp;C 88:21-22](https://www.lds.org/scriptures/dc-
+celestial glory." ([D&amp;C 88:21-22](/scriptures/dc-
 testament/dc/88.21-22?lang=eng#20).)
 
 And this is the promised reward for those who completely comply with the laws
@@ -216,7 +209,7 @@ of the celestial kingdom and endure to the end:
 "They are they into whose hands the Father has given all things--
 
 "They are they who are priests and kings, who have received of his fulness,
-and of his glory." ([D&amp;C 76:55-56](https://www.lds.org/scriptures/dc-
+and of his glory." ([D&amp;C 76:55-56](/scriptures/dc-
 testament/dc/76.55-56?lang=eng#54).)
 
 In the light of these glorious promises, it is difficult to understand how any
@@ -226,17 +219,12 @@ reassess ourselves to determine where we presently stand in relation to the
 fundamental law of the celestial kingdom--the law of obedience. The results
 should reveal to us which kingdom we have chosen as our goal. For instance:
 
-  1. Do I study and ponder the scriptures in an effort to know the will of God and understand His commandments regarding His children?
-
-  2. Do I follow the counsel of God's living prophet, or do I merely select those things with which I agree, disregarding the others?
-
-  3. Do I seek the advice and counsel of my bishop and stake president on matters of concern to me and my family?
-
-  4. Am I earnestly striving to discipline myself, placing my physical appetites under the subjection of my will?
-
-  5. Am I making every effort to repent of past or present wrongdoings and correct them by doing right?
-
-  6. Do I have an attitude of faith in God even though I experience trials, adversity, and affliction? And do I bear my burden without a complaining spirit?
+  1. Do I study and ponder the scriptures in an effort to know the will of God and understand His commandments regarding His children? 
+  2. Do I follow the counsel of God's living prophet, or do I merely select those things with which I agree, disregarding the others? 
+  3. Do I seek the advice and counsel of my bishop and stake president on matters of concern to me and my family? 
+  4. Am I earnestly striving to discipline myself, placing my physical appetites under the subjection of my will? 
+  5. Am I making every effort to repent of past or present wrongdoings and correct them by doing right? 
+  6. Do I have an attitude of faith in God even though I experience trials, adversity, and affliction? And do I bear my burden without a complaining spirit? 
 
 Keeping the commandments of God is not a difficult burden when we do it out of
 love of Him who has so graciously blessed us. The Savior has implored us to
@@ -244,7 +232,7 @@ love of Him who has so graciously blessed us. The Savior has implored us to
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:29-30](https://www.lds.org/scriptures/nt/matt/11.29-30?lang=eng#28).)
+11:29-30](/scriptures/nt/matt/11.29-30?lang=eng#28).)
 
 Our willingness to comply with the commandments of God is a witness of our
 faith in Him and our love for Him. A rebellious disposition cannot inherit the
@@ -263,8 +251,8 @@ celestial kingdom;
 celestial kingdom; otherwise I cannot receive her unto myself.
 
 "And my people must needs be chastened until they learn obedience, if it must
-needs be, by the things which they suffer." ([D&amp;C
-105:3-6](https://www.lds.org/scriptures/dc-testament/dc/105.3-6?lang=eng#2).)
+needs be, by the things which they suffer." ([D&amp;C 105:3-6](/scriptures/dc-
+testament/dc/105.3-6?lang=eng#2).)
 
 By reading the scriptures, heeding the counsel of God's prophets and other
 divinely called Church leaders, disciplining our lives, and enduring our
@@ -284,4 +272,6 @@ ordinances." (_History of The Church of Jesus Christ of Latter-day Saints,_
 "When the Lord commands, do it," was a rule in the life of the first prophet
 of this dispensation. May that be the motto and practice of each one of us, I
 humbly pray, as I bear witness to the truth in the name of Jesus Christ. Amen.
+
+## References
 

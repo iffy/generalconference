@@ -117,7 +117,7 @@ whosoever believeth in him should not perish, but have everlasting life.
 
 "For God sent not his Son into the world to condemn the world; but that the
 world through him might be saved." ([John
-3:16-17](https://www.lds.org/scriptures/nt/john/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/john/3.16-17?lang=eng#15).)
 
 The Book of Mormon records these comforting words of the Savior:
 
@@ -134,7 +134,7 @@ shall be filled with the Holy Ghost. ...
 "Blessed are the merciful, for they shall obtain mercy. ...
 
 "Blessed are the pure in heart, for they shall see God." ([3 Ne.
-12:3-8](https://www.lds.org/scriptures/bofm/3-ne/12.3-8?lang=eng#2).)
+12:3-8](/scriptures/bofm/3-ne/12.3-8?lang=eng#2).)
 
 When Jesus prayed to his father in humility, faith, and obedience for others,
 his Father answered. When he prayed for strength and comfort in his hour of
@@ -151,4 +151,6 @@ pour into your heart. Pray that the miracle of the Atonement will bring
 forgiveness because you are willing to change. I know that those prayers will
 be answered, for God loves you. His Son gave his life for you. I know they
 will help you. In the name of Jesus Christ, amen.
+
+## References
 

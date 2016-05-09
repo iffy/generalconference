@@ -1,4 +1,4 @@
-# What Manner of Men? “As I Am”
+# What Manner of Men?“As I Am”
 
 It is my purpose today to bear testimony to some who have special needs, and
 to those who have accepted commission from the Lord and covenanted with him to
@@ -6,8 +6,7 @@ try to help satisfy those needs.
 
 As Christ taught the gospel to the people of this hemisphere, he asked them,
 "... what manner of men ought ye to be?" and answered, "Verily I say unto you,
-even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+even as I am." ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 As Christians, we accept that instruction reverently as our guide and our
 goal.
@@ -31,7 +30,7 @@ Christ knows the worth of souls. He came as Isaiah had prophesied and as he
 affirmed in the synagogue in Nazareth: "... to preach the gospel to the poor; ...
 to heal the brokenhearted, to preach deliverance to the captives, and
 recovering of sight to the blind, to set at liberty them that are bruised."
-([Luke 4:18](https://www.lds.org/scriptures/nt/luke/4.18?lang=eng#17).)
+([Luke 4:18](/scriptures/nt/luke/4.18?lang=eng#17).)
 
 He taught the parables of the lost sheep and the lost coin and the lost son,
 and he lunched with accused Zacchaeus; admonished men to emulate the
@@ -39,8 +38,8 @@ compassionate act of the demeaned Samaritan--"Go thou and do likewise." He
 exalted the humble Publican, who, in contrast to the self-righteous Pharisee,
 "would not lift up so much as his eyes unto heaven, but smote upon his breast,
 saying, God be merciful to me a sinner" ([Luke
-18:13](https://www.lds.org/scriptures/nt/luke/18.13?lang=eng#12)); and he
-confronted the accusers of the repentant woman.
+18:13](/scriptures/nt/luke/18.13?lang=eng#12)); and he confronted the accusers
+of the repentant woman.
 
 So closely is he tied with his fellowmen that in one of the most powerful
 parables he taught that bread given to one of the least of his brethren is
@@ -51,21 +50,20 @@ deny him.
 His message is one of hope and promise and peace to those who mourn the loss
 of loved ones: "And ye now therefore have sorrow; but I will see you again,
 and your heart shall rejoice, and your joy no man taketh from you." ([John
-16:22](https://www.lds.org/scriptures/nt/john/16.22?lang=eng#21).)
+16:22](/scriptures/nt/john/16.22?lang=eng#21).)
 
 To the lonely and the hopeless and those who are afraid, his reassurance
 reaches out: "I will never leave thee, nor forsake thee." ([Heb.
-13:5](https://www.lds.org/scriptures/nt/heb/13.5?lang=eng#4).)
+13:5](/scriptures/nt/heb/13.5?lang=eng#4).)
 
 Christ understands. "Wherefore in all things it behoved him to be made like
 unto his brethren, that he might be a merciful and faithful high priest in
 things pertaining to God, to make reconciliation for the sins of the people.
 For in that he himself hath suffered being tempted, he is able to succour them
-that are tempted." ([Heb.
-2:17-18](https://www.lds.org/scriptures/nt/heb/2.17-18?lang=eng#16).) "For we
-have not an high priest which cannot be touched with the feeling of our
-infirmities; but was in all points tempted like as we are, yet without sin."
-([Heb. 4:15](https://www.lds.org/scriptures/nt/heb/4.15?lang=eng#14).)
+that are tempted." ([Heb. 2:17-18](/scriptures/nt/heb/2.17-18?lang=eng#16).)
+"For we have not an high priest which cannot be touched with the feeling of
+our infirmities; but was in all points tempted like as we are, yet without
+sin." ([Heb. 4:15](/scriptures/nt/heb/4.15?lang=eng#14).)
 
 He prayed to the Father for those who were not obedient, and he wept.
 
@@ -81,8 +79,7 @@ the Firstborn in the spirit and the Only Begotten in the flesh. He was the
 Prince of Peace. He "came into the world ... to be crucified for the world, and
 to bear the sins of the world, and to sanctify the world, and to cleanse it
 from all unrighteousness; That through him all might be saved. ..." ([D&amp;C
-76:41-42](https://www.lds.org/scriptures/dc-
-testament/dc/76.41-42?lang=eng#40).)
+76:41-42](/scriptures/dc-testament/dc/76.41-42?lang=eng#40).)
 
 What he did for us we could never do for ourselves, and his example of love
 and service and sacrifice and seeking first the kingdom of God is our
@@ -101,7 +98,7 @@ find the pet without success. "What more can I do, son?" she asked. "You can
 cry with me," he said.
 
 "Bear ye one another's burdens, and so fulfil the law of Christ." ([Gal.
-6:2](https://www.lds.org/scriptures/nt/gal/6.2?lang=eng#1).)
+6:2](/scriptures/nt/gal/6.2?lang=eng#1).)
 
 A cherished friend who works with little children who have difficulties told
 me recently of a nine-year-old girl who has lived in 17 foster homes. She
@@ -151,7 +148,7 @@ the words of Jacob to his brethren:
 "And now my beloved brethren, seeing that our merciful God has given us so
 great knowledge concerning these things, let us remember him, and lay aside
 our sins, and not hang down our heads, for we are not cast off. ..." ([2 Ne.
-10:20](https://www.lds.org/scriptures/bofm/2-ne/10.20?lang=eng#19).)
+10:20](/scriptures/bofm/2-ne/10.20?lang=eng#19).)
 
 In the last recorded letter of the great prophet Mormon to his son Moroni are
 written the lamentings of the prophet over the wickedness of the people,
@@ -162,8 +159,7 @@ son, be faithful in Christ; and may not the things which I have written grieve
 thee, to weigh thee down unto death; but may Christ lift thee up, and may his
 sufferings and death [and his resurrection], ... and his mercy and long-
 suffering, and the hope of his glory of eternal life, rest in your mind
-forever." ([Moro.
-9:25](https://www.lds.org/scriptures/bofm/moro/9.25?lang=eng#24).)
+forever." ([Moro. 9:25](/scriptures/bofm/moro/9.25?lang=eng#24).)
 
 Christ in our lives is not meant to grieve us or weigh us down unto death
 because we have been imperfect. Through him we may be lifted up by accepting
@@ -171,7 +167,7 @@ his gifts and his mercy and long-suffering. These blessings we must seek to
 keep in our minds always. "For how knoweth a man the master whom he has not
 served, and who is a stranger unto him, and is far from the thoughts and
 intents of his heart?" ([Mosiah
-5:13](https://www.lds.org/scriptures/bofm/mosiah/5.13?lang=eng#12).)
+5:13](/scriptures/bofm/mosiah/5.13?lang=eng#12).)
 
 They who would follow him and be the manner of person he is will, as he did,
 lift up the repentant who suffer and sorrow for sin, and bless them with love
@@ -184,7 +180,7 @@ bore this witness at the conclusion of his ordeal, when, seeing God, he said,
 "I know that thou canst do every thing, and that no thought can be withholden
 from thee. I have heard of thee by the hearing of the ear: but now mine eye
 seeth thee. Wherefore I abhor myself, and repent in dust and ashes." ([Job
-42:2, 5-6](https://www.lds.org/scriptures/ot/job/42.2%2C5-6?lang=eng#1).)
+42:2, 5-6](/scriptures/ot/job/42.2,5-6?lang=eng#1).)
 
 But Christ will lift us up and help us to become as he is as we do as he did;
 as we love our Father and give him our lives; as we love each other and all
@@ -203,9 +199,11 @@ and the naked, and visit not the sick and afflicted, and impart of your
 substance, if ye have, to those who stand in need--I say unto you, if ye do
 not any of these things, behold, your prayer is vain, and availeth you
 nothing, and ye are as hypocrites who do deny the faith." ([Alma
-34:27-28](https://www.lds.org/scriptures/bofm/alma/34.27-28?lang=eng#26).)
+34:27-28](/scriptures/bofm/alma/34.27-28?lang=eng#26).)
 
 God bless us to look up and to look around and to kneel down, and to be
 worthy, and to become the manner of person he is, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

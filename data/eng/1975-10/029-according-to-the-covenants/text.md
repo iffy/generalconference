@@ -32,19 +32,19 @@ were baptized into his death?
 
 "Therefore we are buried with him by baptism into death: that like as Christ
 was raised up from the dead ... even so we also should walk in newness of life."
-([Rom. 6:3-4](https://www.lds.org/scriptures/nt/rom/6.3-4?lang=eng#2).)
+([Rom. 6:3-4](/scriptures/nt/rom/6.3-4?lang=eng#2).)
 
 Peter taught that by walking in the newness of life one escapes "the
 corruption that is in the world through lust," and by developing within
 himself faith, virtue, knowledge, temperance, patience, godliness, brotherly
 kindness, and charity, he becomes a partaker "of the divine nature." (See [2
-Pet. 1:4-7](https://www.lds.org/scriptures/nt/2-pet/1.4-7?lang=eng#3).)
+Pet. 1:4-7](/scriptures/nt/2-pet/1.4-7?lang=eng#3).)
 
 One who walks in newness of life is converted. On the other hand, says Peter,
 "he that lacketh these things is blind, and cannot see afar off, and hath
 forgotten that he was purged from his old sins." ([2 Pet.
-1:9](https://www.lds.org/scriptures/nt/2-pet/1.9?lang=eng#8).) Such a one is
-not converted, even though he may have been baptized.
+1:9](/scriptures/nt/2-pet/1.9?lang=eng#8).) Such a one is not converted, even
+though he may have been baptized.
 
 There is a striking example of the change wrought by conversion in Mormon's
 account of King Benjamin's farewell address. This sermon was so powerful that
@@ -52,8 +52,7 @@ as Benjamin delivered it, the multitude fell to the earth, for "they ... viewed
 themselves in their own carnal state. ... And they all cried aloud ... O have
 mercy, and apply the atoning blood of Christ that we may receive forgiveness
 of our sins, and our hearts may be purified; for we believe in Jesus Christ,
-the Son of God." ([Mosiah
-4:2](https://www.lds.org/scriptures/bofm/mosiah/4.2?lang=eng#1).)
+the Son of God." ([Mosiah 4:2](/scriptures/bofm/mosiah/4.2?lang=eng#1).)
 
 Observing their humility, King Benjamin continued:
 
@@ -63,13 +62,13 @@ believe that he has all wisdom, and all power, both in heaven and in earth. ...
 "... believe that ye must repent of your sins and forsake them, and humble
 yourselves before God; and ask in sincerity of heart that he would forgive
 you; and now, if you believe all these things see that ye do them." ([Mosiah
-4:9-10](https://www.lds.org/scriptures/bofm/mosiah/4.9-10?lang=eng#8).)
+4:9-10](/scriptures/bofm/mosiah/4.9-10?lang=eng#8).)
 
 When he had concluded, he inquired as to whether they believed his words.
 
 "And they all cried ... Yea, we believe all [thy] words ... and also, we know of
 their surety and truth." ([Mosiah
-5:2](https://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1).)
+5:2](/scriptures/bofm/mosiah/5.2?lang=eng#1).)
 
 And why were they so confident? "Because," as they said, "the Spirit of the
 Lord ... has wrought a mighty change in us, or in our hearts, that we have no
@@ -78,7 +77,7 @@ more disposition to do evil, but to do good continually.
 "And," they continued, "we are willing to enter into a covenant with our God
 to do his will, and to be obedient to his commandments in all things ... all the
 remainder of our days." ([Mosiah 5:2,
-5](https://www.lds.org/scriptures/bofm/mosiah/5.2%2C5?lang=eng#1).)
+5](/scriptures/bofm/mosiah/5.2,5?lang=eng#1).)
 
 Wouldn't it be wonderful if all of our inactive men could be brought to this
 state of conversion?
@@ -93,8 +92,7 @@ with them, and to teach them according to the covenants._
 
 "This presidency is a distinct one from that of the seventy, and is designed
 for those who do not travel into all the world." ([D&amp;C
-107:89-90](https://www.lds.org/scriptures/dc-
-testament/dc/107.89-90?lang=eng#88); italics added.)
+107:89-90](/scriptures/dc-testament/dc/107.89-90?lang=eng#88); italics added.)
 
 Teach them the covenant. A covenant is a binding and solemn agreement between
 two or more parties. From the beginning God's people have been a covenant
@@ -168,15 +166,14 @@ testimony that ye have entered into a covenant to serve him until you are dead
 as to the mortal body; and may the Spirit of the Lord be poured out upon you;
 and may he grant unto you eternal life, through the redemption of Christ, whom
 he has prepared from the foundation of the world." ([Mosiah
-18:8-13](https://www.lds.org/scriptures/bofm/mosiah/18.8-13?lang=eng#7).)
+18:8-13](/scriptures/bofm/mosiah/18.8-13?lang=eng#7).)
 
 The Lord considers this covenant, this baptismal covenant, to be of such
 import that he has charged us to renew it weekly:
 
 "That thou mayest more fully keep thyself unspotted from the world, thou shalt
 go to the house of prayer and offer up thy sacraments upon my holy day."
-([D&amp;C 59:9](https://www.lds.org/scriptures/dc-
-testament/dc/59.9?lang=eng#8).)
+([D&amp;C 59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).)
 
 With the wording of the sacrament prayers in our minds as we partake of the
 sacrament, we renew our baptismal covenant each week.
@@ -184,9 +181,8 @@ sacrament, we renew our baptismal covenant each week.
 In addition to our baptismal covenant, in common with all bearers of the holy
 priesthood, we have entered into another special, sacred, and most important
 covenant: The "covenant which belongeth to the priesthood." ([D&amp;C
-84:39](https://www.lds.org/scriptures/dc-testament/dc/84.39?lang=eng#38).)
-This covenant is recorded in the 84th section of the Doctrine and Covenants as
-follows:
+84:39](/scriptures/dc-testament/dc/84.39?lang=eng#38).) This covenant is
+recorded in the 84th section of the Doctrine and Covenants as follows:
 
 "Whoso is faithful unto the obtaining these two priesthoods of which I have
 spoken [he was talking about the holy priesthood and the lesser priesthood],
@@ -213,14 +209,14 @@ covenant of my Father, which he cannot break, neither can it be moved.
 
 "But whoso breaketh this covenant after he hath received it, and altogether
 turneth therefrom, shall not have forgiveness of sins in this world nor in the
-world to come." ([D&amp;C 84:33-41](https://www.lds.org/scriptures/dc-
+world to come." ([D&amp;C 84:33-41](/scriptures/dc-
 testament/dc/84.33-41?lang=eng#32).)
 
 I used to think if that was the penalty, it would have been maybe better for
 me not to have received the covenant, with that penalty over me, if I break
 it. And then I read the next verse, and it said, "And wo unto all those who
 come not unto this priesthood which ye have received." ([D&amp;C
-84:42](https://www.lds.org/scriptures/dc-testament/dc/84.42?lang=eng#41).)
+84:42](/scriptures/dc-testament/dc/84.42?lang=eng#41).)
 
 I knew I had only one chance--that was to receive it and honor it. From these
 scriptures it seems perfectly clear to me that to receive the holy priesthood
@@ -233,9 +229,8 @@ To me this is the meaning of the Lord's concluding statement:
 give diligent heed to the words of eternal life.
 
 "For you shall live [you priesthood bearers, you shall live] by every word
-that proceedeth forth from the mouth of God." ([D&amp;C
-84:43-44](https://www.lds.org/scriptures/dc-
-testament/dc/84.43-44?lang=eng#42).)
+that proceedeth forth from the mouth of God." ([D&amp;C 84:43-44](/scriptures
+/dc-testament/dc/84.43-44?lang=eng#42).)
 
 Now a fourth covenant--we have considered three: the "new and everlasting
 covenant" of the gospel, the baptismal covenant, and the "covenant which
@@ -246,7 +241,7 @@ marriage.
 The significance of these holy covenants that I have just mentioned is
 serious. They are of the "solemnities" which the Lord directs us to "treasure
 ... up in [our] hearts, and let ... rest upon [our] minds." ([D&amp;C
-43:34](https://www.lds.org/scriptures/dc-testament/dc/43.34?lang=eng#33).)
+43:34](/scriptures/dc-testament/dc/43.34?lang=eng#33).)
 
 The obligations they entail must be met by all who are to receive the rewards.
 We are individually responsible and will be held accountable for the way in
@@ -265,10 +260,12 @@ act in the office in which he is appointed, in all diligence.
 
 "He that is slothful shall not be counted worthy to stand, and he that learns
 not his duty and shows himself not approved shall not be counted worthy to
-stand." ([D&amp;C 107:89, 99-100](https://www.lds.org/scriptures/dc-
-testament/dc/107.89%2C99-100?lang=eng#88).)
+stand." ([D&amp;C 107:89, 99-100](/scriptures/dc-
+testament/dc/107.89,99-100?lang=eng#88).)
 
 God help us to live the covenants ourselves and to teach those the Lord has
 put under our charge and commanded us to teach, I pray, in the name of Jesus
 Christ, our Redeemer. Amen.
+
+## References
 

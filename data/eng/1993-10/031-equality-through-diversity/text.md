@@ -44,10 +44,9 @@ by identical principles. For example, faith, repentance, baptism, and the gift
 of the Holy Ghost are requirements for all of God's children, regardless of
 _gender._ The same is true of temple covenants and blessings. Our Father's
 work and glory is to bring to pass the immortality and eternal life of His
-children (see [Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). He loves us
-all equally, and His greatest gift, the gift of eternal life, is available to
-all.
+children (see [Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). He loves
+us all equally, and His greatest gift, the gift of eternal life, is available
+to all.
 
 Even though men and women are equal before God in their eternal opportunities,
 they have different, but equally significant, duties in His eternal plan. We
@@ -91,18 +90,18 @@ ways in which they do so are sometimes different. For example, God has
 revealed through his prophets that men are to receive the priesthood, become
 fathers, and with gentleness and pure, unfeigned love they are to lead and
 nurture their families in righteousness as the Savior leads the Church (see
-[Eph. 5:23](https://www.lds.org/scriptures/nt/eph/5.23?lang=eng#22)). They
-have been given the primary responsibility for the temporal and physical needs
-of the family (see [D&amp;C 83:2](https://www.lds.org/scriptures/dc-
-testament/dc/83.2?lang=eng#1)). Women have the power to bring children into
-the world and have been given the primary duty and opportunity as mothers to
-lead, nurture, and teach them in a loving, spiritual environment. In this
-divine partnership, husbands and wives support one another in their God-given
-capacities. By appointing different accountabilities to men and women,
-Heavenly Father provides the greatest opportunity for growth, service, and
-progress. He did not give different tasks to men and women simply to
-perpetuate the idea of a family; rather, He did so to ensure that the family
-can continue forever, the ultimate goal of our Heavenly Father's eternal plan.
+[Eph. 5:23](/scriptures/nt/eph/5.23?lang=eng#22)). They have been given the
+primary responsibility for the temporal and physical needs of the family (see
+[D&amp;C 83:2](/scriptures/dc-testament/dc/83.2?lang=eng#1)). Women have the
+power to bring children into the world and have been given the primary duty
+and opportunity as mothers to lead, nurture, and teach them in a loving,
+spiritual environment. In this divine partnership, husbands and wives support
+one another in their God-given capacities. By appointing different
+accountabilities to men and women, Heavenly Father provides the greatest
+opportunity for growth, service, and progress. He did not give different tasks
+to men and women simply to perpetuate the idea of a family; rather, He did so
+to ensure that the family can continue forever, the ultimate goal of our
+Heavenly Father's eternal plan.
 
 We need to recognize the hard mortal realities in all of this and must use
 common sense and guidance by personal revelation. Some will not marry in this
@@ -167,16 +166,16 @@ that your Heavenly Father loves you and that His plan is fair and true and we
 should strive to understand it and enjoy living it.
 
 Third, reach out to one another with love, for "charity never faileth" ([Moro.
-7:46](https://www.lds.org/scriptures/bofm/moro/7.46?lang=eng#45)). Many of
-your sisters, including some who are here tonight, may be hurting for one
-reason or another. Reach out to those who suffer, listen to their concerns, be
-worthy of their trust, and always keep their confidences. Share their burdens.
-Teach them, both by precept and by example, about Heavenly Father's plan for
-His children. Help them understand our Father's unalterable commitment to the
-principle of moral agency. Teach them about the essential part adversity plays
-in our eternal lives. Take them by the hand and help them to repent, forgive,
-have faith, endure, or do whatever is needed. Never forget that the Lord may
-work a miracle in their lives through you.
+7:46](/scriptures/bofm/moro/7.46?lang=eng#45)). Many of your sisters,
+including some who are here tonight, may be hurting for one reason or another.
+Reach out to those who suffer, listen to their concerns, be worthy of their
+trust, and always keep their confidences. Share their burdens. Teach them,
+both by precept and by example, about Heavenly Father's plan for His children.
+Help them understand our Father's unalterable commitment to the principle of
+moral agency. Teach them about the essential part adversity plays in our
+eternal lives. Take them by the hand and help them to repent, forgive, have
+faith, endure, or do whatever is needed. Never forget that the Lord may work a
+miracle in their lives through you.
 
 Sisters, you belong to Relief Society. It is organized under priesthood
 direction in every ward and branch. The members of your local Relief Society
@@ -193,4 +192,6 @@ each one of you, His daughters, and that the way He marks for you is the way
 to perfect fairness and freedom in this life and in eternity. To this I
 testify and humbly pray for the Lord's blessings to be with you, in the name
 of Jesus Christ, amen.
+
+## References
 

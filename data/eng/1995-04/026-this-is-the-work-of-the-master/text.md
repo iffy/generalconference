@@ -27,7 +27,7 @@ to a man of goodness and greatness who now belongs to the ages. Our hearts
 reach out with love and sympathy to his bereaved widow and to his sons and
 their families, now spanning three generations. May they be comforted,
 sustained, and blessed by Him who declared, "I, even I, am he that comforteth
-you" ([Isa. 51:12](https://www.lds.org/scriptures/ot/isa/51.12?lang=eng#11)).
+you" ([Isa. 51:12](/scriptures/ot/isa/51.12?lang=eng#11)).
 
 With President Hunter's passing, the First Presidency was dissolved. Brother
 Monson and I, who had served as his counselors, took our places in the Quorum
@@ -165,22 +165,22 @@ This church does not belong to its President. Its head is the Lord Jesus
 Christ, whose name each of us has taken upon ourselves. We are all in this
 great endeavor together. We are here to assist our Father in His work and His
 glory, "to bring to pass the immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). Your
-obligation is as serious in your sphere of responsibility as is my obligation
-in my sphere. No calling in this church is small or of little consequence. All
-of us in the pursuit of our duty touch the lives of others. To each of us in
-our respective responsibilities the Lord has said: "Wherefore, be faithful;
-stand in the office which I have appointed unto you; succor the weak, lift up
-the hands which hang down, and strengthen the feeble knees" ([D&amp;C
-81:5](https://www.lds.org/scriptures/dc-testament/dc/81.5?lang=eng#4)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). Your obligation is as serious
+in your sphere of responsibility as is my obligation in my sphere. No calling
+in this church is small or of little consequence. All of us in the pursuit of
+our duty touch the lives of others. To each of us in our respective
+responsibilities the Lord has said: "Wherefore, be faithful; stand in the
+office which I have appointed unto you; succor the weak, lift up the hands
+which hang down, and strengthen the feeble knees" ([D&amp;C 81:5](/scriptures
+/dc-testament/dc/81.5?lang=eng#4)).
 
 "And in doing these things thou wilt do the greatest good unto thy fellow
 beings, and wilt promote the glory of him who is your Lord" ([D&amp;C
-81:4](https://www.lds.org/scriptures/dc-testament/dc/81.4?lang=eng#3)).
+81:4](/scriptures/dc-testament/dc/81.4?lang=eng#3)).
 
 Further, "And if thou art faithful unto the end thou shalt have a crown of
 immortality, and eternal life in the mansions which I have prepared in the
-house of my Father" ([D&amp;C 81:6](https://www.lds.org/scriptures/dc-
+house of my Father" ([D&amp;C 81:6](/scriptures/dc-
 testament/dc/81.6?lang=eng#5)).
 
 All of us in this great cause are of one mind, of one belief, of one faith.
@@ -232,14 +232,13 @@ promise none of us can doubt.
 
 The little stone which was cut out of the mountain without hands as seen in
 Daniel's vision is rolling forth to fill the whole earth (see [Dan.
-2:44-45](https://www.lds.org/scriptures/ot/dan/2.44-45?lang=eng#43)). No force
-under the heavens can stop it if we will walk in righteousness and be faithful
-and true. The Almighty Himself is at our head. Our Savior, who is our
-Redeemer, the Great Jehovah, the mighty Messiah, has promised: "I will go
-before your face. I will be on your right hand and on your left, and my Spirit
-shall be in your hearts, and mine angels round about you, to bear you up"
-([D&amp;C 84:88](https://www.lds.org/scriptures/dc-
-testament/dc/84.88?lang=eng#87)).
+2:44-45](/scriptures/ot/dan/2.44-45?lang=eng#43)). No force under the heavens
+can stop it if we will walk in righteousness and be faithful and true. The
+Almighty Himself is at our head. Our Savior, who is our Redeemer, the Great
+Jehovah, the mighty Messiah, has promised: "I will go before your face. I will
+be on your right hand and on your left, and my Spirit shall be in your hearts,
+and mine angels round about you, to bear you up" ([D&amp;C 84:88](/scriptures
+/dc-testament/dc/84.88?lang=eng#87)).
 
 "Therefore," said He, "fear not, little flock; do good; let earth and hell
 combine against you, for if ye are built upon my rock, they cannot prevail. ...
@@ -248,8 +247,8 @@ combine against you, for if ye are built upon my rock, they cannot prevail. ...
 
 "Behold the wounds which pierced my side, and also the prints of the nails in
 my hands and feet; be faithful, keep my commandments, and ye shall inherit the
-kingdom of heaven" ([D&amp;C 6:34, 36-37](https://www.lds.org/scriptures/dc-
-testament/dc/6.34%2C36-37?lang=eng#33)).
+kingdom of heaven" ([D&amp;C 6:34, 36-37](/scriptures/dc-
+testament/dc/6.34,36-37?lang=eng#33)).
 
 Unitedly, working hand in hand, we shall move forward as servants of the
 living God, doing the work of His Beloved Son, our Master, whom we serve and
@@ -261,4 +260,6 @@ love beyond comprehension gave His life for each of us. It is a divine work
 restored through a chosen prophet. It is a work to which we dedicate our lives
 as we invoke choice blessings upon you, our beloved associates, in the name of
 Jesus Christ, amen.
+
+## References
 

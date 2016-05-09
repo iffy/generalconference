@@ -31,13 +31,12 @@ Certainly this is one of the evils which afflicts this generation--the
 security of not doing, the security of not being. It is the same type of evil
 that the Savior referred to when he pointed out the uselessness of the
 unprofitable servant (see [Matt.
-25:30](https://www.lds.org/scriptures/nt/matt/25.30?lang=eng#29)), of the fig
-tree that didn't bear fruit (see [Matt.
-21:19-22](https://www.lds.org/scriptures/nt/matt/21.19-22?lang=eng#18)), of
-the light that did not shine (see [Luke
-11:33-36](https://www.lds.org/scriptures/nt/luke/11.33-36?lang=eng#32)), and
-of the salt that had lost its savor (see [Luke
-14:34-35](https://www.lds.org/scriptures/nt/luke/14.34-35?lang=eng#33)).
+25:30](/scriptures/nt/matt/25.30?lang=eng#29)), of the fig tree that didn't
+bear fruit (see [Matt. 21:19-22](/scriptures/nt/matt/21.19-22?lang=eng#18)),
+of the light that did not shine (see [Luke
+11:33-36](/scriptures/nt/luke/11.33-36?lang=eng#32)), and of the salt that had
+lost its savor (see [Luke
+14:34-35](/scriptures/nt/luke/14.34-35?lang=eng#33)).
 
 Jesus Christ did not alter concepts in order to make incorrect actions
 compatible with a false sense of reality; he always clarified them in order to
@@ -47,8 +46,7 @@ judged.
 
 He described things as they were and lived his life as a clear example to us
 all of how to live and how to act, even saying, "For I have given you an
-example" ([John
-13:15](https://www.lds.org/scriptures/nt/john/13.15?lang=eng#14)).
+example" ([John 13:15](/scriptures/nt/john/13.15?lang=eng#14)).
 
 Today there are many people, just as the farmer in our story, who, out of
 fear, create within themselves mental scarecrows and eventually end up
@@ -62,27 +60,24 @@ as they want, using as their yardstick precepts totally apart from reality.
 
 In the face of this distorted understanding of the truth, Latter-day Saints
 who have received the assignment through revelation to "take upon you the name
-of Christ, and speak the truth in soberness" ([D&amp;C
-18:21](https://www.lds.org/scriptures/dc-testament/dc/18.21?lang=eng#20))
-could appear to be proud and lacking humility to those who hold to incorrect
-concepts. This is because faithful members of the Church are filled with a
-deep assurance that comes from a firm testimony of the gospel, a sure
-knowledge of the divinity of the work in which we have embarked, received
-through revelation from the Holy Ghost.
+of Christ, and speak the truth in soberness" ([D&amp;C 18:21](/scriptures/dc-
+testament/dc/18.21?lang=eng#20)) could appear to be proud and lacking humility
+to those who hold to incorrect concepts. This is because faithful members of
+the Church are filled with a deep assurance that comes from a firm testimony
+of the gospel, a sure knowledge of the divinity of the work in which we have
+embarked, received through revelation from the Holy Ghost.
 
 This assurance and firm commitment "to stand as witnesses of God at all times
 and in all things, and in all places that ye may be in, even until death"
-([Mosiah 18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8))
-could appear as boastful pride before those accustomed to using mental
-scarecrows.
+([Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)) could appear as
+boastful pride before those accustomed to using mental scarecrows.
 
 But it is not that way. To confuse pride with safety, and vanity with
 testimony, shows lack of understanding by those who have not allowed the
 tempering of the Spirit to enter their hearts, who have not had the experience
 Nephi did when he said, "I did cry unto the Lord; and behold he did visit me,
 and did soften my heart that I did believe all the words which had been spoken
-by my father" ([1 Ne.
-2:16](https://www.lds.org/scriptures/bofm/1-ne/2.16?lang=eng#15)).
+by my father" ([1 Ne. 2:16](/scriptures/bofm/1-ne/2.16?lang=eng#15)).
 
 So in most cases the problem is not with the sower, but with the soil where
 the seed is planted, and very often those who are insecure challenge the self-
@@ -109,8 +104,7 @@ it, and I could not deny it, neither dared I do it; at least I knew that by so
 doing I would offend God, and come under condemnation.
 
 "I had now got my mind satisfied so far as the sectarian world was concerned"
-([JS--H
-1:25-26](https://www.lds.org/scriptures/pgp/js-h/1.25-26?lang=eng#24)).
+([JS--H 1:25-26](/scriptures/pgp/js-h/1.25-26?lang=eng#24)).
 
 What better way could he express the reality of his vision than to say, "I
 knew it, and I knew that God knew it"?
@@ -122,8 +116,8 @@ knew?
 
 Is this pride? Definitely not. This is assurance that comes from knowing. This
 is a sure knowledge which, through the Holy Ghost, "shall come upon you and
-which shall dwell in your heart" ([D&amp;C 8:2](https://www.lds.org/scriptures
-/dc-testament/dc/8.2?lang=eng#1)).
+which shall dwell in your heart" ([D&amp;C 8:2](/scriptures/dc-
+testament/dc/8.2?lang=eng#1)).
 
 This is the assurance found in the lives of faithful Latter-day Saints, coming
 from a change brought about by the power of the Spirit, that prompts them to
@@ -139,7 +133,7 @@ Behold, I have fasted and prayed many days that I might know these things of
 myself. And now I do know of myself that they are true; for the Lord God hath
 made them manifest unto me by his Holy Spirit; and this is the spirit of
 revelation which is in me" ([Alma
-5:45-46](https://www.lds.org/scriptures/bofm/alma/5.45-46?lang=eng#44)).
+5:45-46](/scriptures/bofm/alma/5.45-46?lang=eng#44)).
 
 The world may claim that this is pride, but members of the Lord's kingdom,
 those who do not live by borrowed light, those who have gained a testimony for
@@ -147,24 +141,22 @@ themselves that this work is true, call it assurance.
 
 It is the testimony, it is the true knowledge that "God hath not given us the
 spirit of fear; but of power, and of love, and of a sound mind" ([2 Tim.
-1:7](https://www.lds.org/scriptures/nt/2-tim/1.7?lang=eng#6)). This gives us
-the courage, the strength, and the commitment to testify of Christ and his
-gospel regardless of circumstances or external factors. But for the weak, the
-unsure, or those who question that the Latter-day Saints are Christians, these
-circumstances and external factors prove to be more important than learning of
-Christ and gaining a testimony.
+1:7](/scriptures/nt/2-tim/1.7?lang=eng#6)). This gives us the courage, the
+strength, and the commitment to testify of Christ and his gospel regardless of
+circumstances or external factors. But for the weak, the unsure, or those who
+question that the Latter-day Saints are Christians, these circumstances and
+external factors prove to be more important than learning of Christ and
+gaining a testimony.
 
 The assurance seen in faithful members of The Church of Jesus Christ of
 Latter-day Saints is the result of being "doers of the word, and not hearers
-only" ([James
-1:22](https://www.lds.org/scriptures/nt/james/1.22?lang=eng#21)); it is the
-result of striving to "live by every word that proceedeth forth from the mouth
-of God" ([D&amp;C 84:44](https://www.lds.org/scriptures/dc-
-testament/dc/84.44?lang=eng#43)) instead of talking of God yet not conforming
-actions to His word, as do those who are insecure. It is this assurance, the
-firm testimony of thousands of missionaries who are "occupied" with all their
-"heart, might, mind and strength" ([D&amp;C
-4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1)) in
+only" ([James 1:22](/scriptures/nt/james/1.22?lang=eng#21)); it is the result
+of striving to "live by every word that proceedeth forth from the mouth of
+God" ([D&amp;C 84:44](/scriptures/dc-testament/dc/84.44?lang=eng#43)) instead
+of talking of God yet not conforming actions to His word, as do those who are
+insecure. It is this assurance, the firm testimony of thousands of
+missionaries who are "occupied" with all their "heart, might, mind and
+strength" ([D&amp;C 4:2](/scriptures/dc-testament/dc/4.2?lang=eng#1)) in
 serving their fellowmen, as contrasted with millions who are "preoccupied"
 with worldly involvements and give only lip service.
 
@@ -172,14 +164,14 @@ It is important, then, in our determination to proclaim the gospel, in our
 desire to clarify the thinking of confused and insecure people, in our
 decision to be part of that great work of our Father in Heaven "to bring to
 pass the immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)), that we
-should remember, as King Benjamin admonished his people, to "always retain in
-remembrance, the greatness of God, and your own nothingness, ... and humble
-yourselves even in the depths of humility, calling on the name of the Lord
-daily, and standing steadfastly in the faith" ([Mosiah
-4:11](https://www.lds.org/scriptures/bofm/mosiah/4.11?lang=eng#10)). "No one
-can assist in this work except he shall be humble" ([D&amp;C
-12:8](https://www.lds.org/scriptures/dc-testament/dc/12.8?lang=eng#7)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)), that we should remember, as
+King Benjamin admonished his people, to "always retain in remembrance, the
+greatness of God, and your own nothingness, ... and humble yourselves even in
+the depths of humility, calling on the name of the Lord daily, and standing
+steadfastly in the faith" ([Mosiah
+4:11](/scriptures/bofm/mosiah/4.11?lang=eng#10)). "No one can assist in this
+work except he shall be humble" ([D&amp;C 12:8](/scriptures/dc-
+testament/dc/12.8?lang=eng#7)).
 
 There is no guarantee of a great reward for anyone; there is no way that any
 of God's children can be assured of blessings from the Most High without
@@ -220,7 +212,7 @@ is not mine, but his that sent me.
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself" ([John
-7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15)).
+7:16-17](/scriptures/nt/john/7.16-17?lang=eng#15)).
 
 It is from this principle that Latter-day Saints receive the strength of their
 testimonies, the assurance of their convictions, as they practice what they
@@ -232,4 +224,6 @@ mine, with the assurance that I know that God knows I know that The Church of
 Jesus Christ of Latter-day Saints has the power to administer the saving
 ordinances that crown the efforts of all those who, through an obedient and
 faithful life, come unto Christ. In the name of Jesus Christ, amen.
+
+## References
 

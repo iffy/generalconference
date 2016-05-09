@@ -4,7 +4,7 @@ The greatest blessing that can come to mankind is to be numbered with the
 Saints of the Lord. Today there are millions of God's children waiting to be
 taught the gospel of Jesus Christ. Yes, as Jesus said, "The harvest truly is
 great, but the labourers are few." ([Luke
-10:2](https://www.lds.org/scriptures/nt/luke/10.2?lang=eng#1).)
+10:2](/scriptures/nt/luke/10.2?lang=eng#1).)
 
 In accordance with latter-day revelation from the Lord, we are living in the
 last days of the dispensation of the fulness of times. And according to
@@ -24,27 +24,26 @@ people. He said, "Proclaim my gospel from land to land, and from city to city.
 ...
 
 "Bear testimony in every place, unto every people." ([D&amp;C 66:5,
-7](https://www.lds.org/scriptures/dc-testament/dc/66.5%2C7?lang=eng#4).)
+7](/scriptures/dc-testament/dc/66.5,7?lang=eng#4).)
 
 "For verily the voice of the Lord is unto all men, and there is none to
 escape; and there is no eye that shall not see, neither ear that shall not
-hear, neither heart that shall not be penetrated." ([D&amp;C
-1:2](https://www.lds.org/scriptures/dc-testament/dc/1.2?lang=eng#1).)
+hear, neither heart that shall not be penetrated." ([D&amp;C 1:2](/scriptures
+/dc-testament/dc/1.2?lang=eng#1).)
 
 "This gospel shall be preached unto every nation, and kindred, and tongue, and
-people." ([D&amp;C 133:37](https://www.lds.org/scriptures/dc-
-testament/dc/133.37?lang=eng#36).)
+people." ([D&amp;C 133:37](/scriptures/dc-testament/dc/133.37?lang=eng#36).)
 
 "Every man shall hear the fulness of the gospel in his own tongue, and in his
 own language, through those who are ordained unto this power." ([D&amp;C
-90:11](https://www.lds.org/scriptures/dc-testament/dc/90.11?lang=eng#10).)
+90:11](/scriptures/dc-testament/dc/90.11?lang=eng#10).)
 
 The scriptures are filled with commands and promises and calls and rewards
 regarding missionary work.
 
 The Lord gave this important warning by commandment to his Latter-day Saints:
 "Labor ye in my vineyard for the last time--for the last time call upon the
-inhabitants of the earth." ([D&amp;C 43:28](https://www.lds.org/scriptures/dc-
+inhabitants of the earth." ([D&amp;C 43:28](/scriptures/dc-
 testament/dc/43.28?lang=eng#27).)
 
 "It is the eleventh hour, and the last time that I shall call laborers into my
@@ -75,7 +74,7 @@ of heaven is at hand;
 
 "Yea, repent and be baptized, every one of you, for a remission of your sins;
 yea, be baptized even by water, and then cometh the baptism of fire and of the
-Holy Ghost." ([D&amp;C 33:3-11](https://www.lds.org/scriptures/dc-
+Holy Ghost." ([D&amp;C 33:3-11](/scriptures/dc-
 testament/dc/33.3-11?lang=eng#2).)
 
 Again, by commandment of the Lord missionary work is the duty and
@@ -91,8 +90,7 @@ mildness and in meekness.
 
 "And go ye out from among the wicked," the Lord said. "Save yourselves." And
 the Lord commanded, "Be ye clean that bear the vessels of the Lord." ([D&amp;C
-38:40-42](https://www.lds.org/scriptures/dc-
-testament/dc/38.40-42?lang=eng#39).)
+38:40-42](/scriptures/dc-testament/dc/38.40-42?lang=eng#39).)
 
 Upon no other group of men in the world rests greater responsibility than upon
 the priesthood holders of The Church of Jesus Christ of Latter-day Saints. And
@@ -102,8 +100,7 @@ become saviors of men. Of his Saints the Lord said, "They were set to be a
 light unto the world, and to be saviors of men." And he added these words of
 warning: "And inasmuch as they are not the saviors of men, they are as salt
 that has lost its savor, and is henceforth good for nothing but to be cast out
-and trodden under foot of men." ([D&amp;C
-103:9-10](https://www.lds.org/scriptures/dc-
+and trodden under foot of men." ([D&amp;C 103:9-10](/scriptures/dc-
 testament/dc/103.9-10?lang=eng#8).)
 
 Saints who do not become saviors will be cast out and trodden under foot of
@@ -119,8 +116,8 @@ last day. ...
 
 "For behold the field is white already to harvest; and lo, he that thrusteth
 in his sickle with his might, the same layeth up in store that he perisheth
-not, but bringeth salvation to his soul." ([D&amp;C 4:2,
-4](https://www.lds.org/scriptures/dc-testament/dc/4.2%2C4?lang=eng#1).)
+not, but bringeth salvation to his soul." ([D&amp;C 4:2, 4](/scriptures/dc-
+testament/dc/4.2,4?lang=eng#1).)
 
 I would like to quote several statements that were given by President Kimball.
 He said:
@@ -154,8 +151,7 @@ on conditions of repentance.
 "And how great is his joy in the soul that repenteth!
 
 "Wherefore, you are called to cry repentance unto this people." ([D&amp;C
-18:10-14](https://www.lds.org/scriptures/dc-
-testament/dc/18.10-14?lang=eng#9).)
+18:10-14](/scriptures/dc-testament/dc/18.10-14?lang=eng#9).)
 
 Brothers and sisters, we are all called to cry repentance unto the people.
 "And if it so be that you should labor all your days in crying repentance into
@@ -165,24 +161,23 @@ and achievement it is when you help one of God's children to become godlike
 and prepare to live with our Heavenly Father in his celestial kingdom. "And
 now, if your joy will be great with one soul that you have brought unto me
 into the kingdom of my Father," the Lord said, "how great will be your joy if
-you should bring many souls unto me!" ([D&amp;C
-18:15-16](https://www.lds.org/scriptures/dc-
+you should bring many souls unto me!" ([D&amp;C 18:15-16](/scriptures/dc-
 testament/dc/18.15-16?lang=eng#14).)
 
 Jesus said the harvest truly is great, but the laborers are few. Then he gave
 this important commandment that often we overlook, "Pray ye therefore the Lord
 of the harvest, that he would send forth labourers into his harvest." ([Luke
-10:2](https://www.lds.org/scriptures/nt/luke/10.2?lang=eng#1).) If all the
-Saints would pray to the Lord to send forth laborers unto the harvest, we'd
-have many more. A prophet of God said, "Every member a missionary." That is a
-prophetic statement with prophetic power.
+10:2](/scriptures/nt/luke/10.2?lang=eng#1).) If all the Saints would pray to
+the Lord to send forth laborers unto the harvest, we'd have many more. A
+prophet of God said, "Every member a missionary." That is a prophetic
+statement with prophetic power.
 
 The following divine promise has great eternal meaning to the Saints of the
 Lord. Jesus said, "By hearkening to observe all the words which I, the Lord
 their God, shall speak unto them, they shall never cease to prevail until the
 kingdoms of the world are subdued under my feet, and the earth is given unto
-the saints, to possess it forever and ever." ([D&amp;C
-103:7](https://www.lds.org/scriptures/dc-testament/dc/103.7?lang=eng#6).)
+the saints, to possess it forever and ever." ([D&amp;C 103:7](/scriptures/dc-
+testament/dc/103.7?lang=eng#6).)
 
 The number of saints that will possess this earth "forever and ever" depends,
 in part, on the missionary effort of the valiant Saints that live on this
@@ -190,10 +185,12 @@ earth in the latter days.
 
 Jesus said, "This is life eternal, that they might know thee the only true
 God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).) We should
-give, we that have testimonies, the Lord's children a chance and opportunity
-to know the only true God and Jesus Christ.
+17:3](/scriptures/nt/john/17.3?lang=eng#2).) We should give, we that have
+testimonies, the Lord's children a chance and opportunity to know the only
+true God and Jesus Christ.
 
 I love and sustain President Spencer W. Kimball. He's truly a prophet of God.
 I bear witness that God lives, in the name of Jesus Christ. Amen.
+
+## References
 

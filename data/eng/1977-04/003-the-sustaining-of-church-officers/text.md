@@ -104,3 +104,5 @@ President Kimball has suggested that Brothers Homer Durham, James Paramore,
 and Richard Scott, whom you have just sustained, take their seats in their
 proper order.
 
+## References
+

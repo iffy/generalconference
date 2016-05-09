@@ -30,10 +30,10 @@ that [you] have truly repented of all [your] sins, and are willing to take
 upon [yourselves] the name of Jesus Christ, having a determination to serve
 him to the end, and truly manifest by [your] works that [you] have received of
 the Spirit of Christ unto the remission of [your] sins." ([D&amp;C
-20:37](https://www.lds.org/scriptures/dc-testament/dc/20.37?lang=eng#36).) You
-were therefore bound by covenant to "a godly walk and conversation, ... walking
-in holiness before the Lord." ([D&amp;C 20:69](https://www.lds.org/scriptures
-/dc-testament/dc/20.69?lang=eng#68).)
+20:37](/scriptures/dc-testament/dc/20.37?lang=eng#36).) You were therefore
+bound by covenant to "a godly walk and conversation, ... walking in holiness
+before the Lord." ([D&amp;C 20:69](/scriptures/dc-
+testament/dc/20.69?lang=eng#68).)
 
 Many of you were baptized when you were eight years old, and you may not
 realize that this is the promise you made to your Heavenly Father when you
@@ -41,34 +41,31 @@ were baptized. Always remember that you are under this covenant. Your Heavenly
 Father has promised in return that He will give marvelous blessings to those
 who honor their covenants, keep His commandments, and endure faithfully to the
 end. They will be sealed by the Holy Spirit of promise and will be "given
-_all_ things" ([D&amp;C 76:55](https://www.lds.org/scriptures/dc-
-testament/dc/76.55?lang=eng#54); emphasis added; see also [D&amp;C 76:50-54,
-70](https://www.lds.org/scriptures/dc-
-testament/dc/76.50-54%2C70?lang=eng#49)), including an inheritance in the
+_all_ things" ([D&amp;C 76:55](/scriptures/dc-testament/dc/76.55?lang=eng#54);
+emphasis added; see also [D&amp;C 76:50-54, 70](/scriptures/dc-
+testament/dc/76.50-54,70?lang=eng#49)), including an inheritance in the
 celestial kingdom (see [2 Ne.
-31:16-20](https://www.lds.org/scriptures/bofm/2-ne/31.16-20?lang=eng#15)).
+31:16-20](/scriptures/bofm/2-ne/31.16-20?lang=eng#15)).
 
 The Apostle Paul wrote that "eye hath not seen, nor ear heard, neither have
 entered into the heart of man, the things which God hath prepared for them
-that love him." ([1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8).) Those who live
-clean lives and keep the commandments "shall dwell in the presence of God and
-his Christ forever and ever." ([D&amp;C 76:62](https://www.lds.org/scriptures
-/dc-testament/dc/76.62?lang=eng#61).) They "shall have eternal life ... the
-greatest of all the gifts of God." ([D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).)
+that love him." ([1 Cor. 2:9](/scriptures/nt/1-cor/2.9?lang=eng#8).) Those who
+live clean lives and keep the commandments "shall dwell in the presence of God
+and his Christ forever and ever." ([D&amp;C 76:62](/scriptures/dc-
+testament/dc/76.62?lang=eng#61).) They "shall have eternal life ... the greatest
+of all the gifts of God." ([D&amp;C 14:7](/scriptures/dc-
+testament/dc/14.7?lang=eng#6).)
 
 I remind you young men who have been ordained to the priesthood that you have
 made an additional covenant with God. When you were ordained, you made a
 sacred promise with the Lord that you would honor your priesthood faithfully.
-(See [D&amp;C 84:33-42](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-42?lang=eng#32).) We are pleased to know that many of you
-are true and faithful in every way to your priesthood covenants and are
-preparing yourselves to receive the Lord's promised blessings. Unfortunately,
-we know also that too many young men of the priesthood pay little attention to
-the serious nature of their sacred promises made with Heavenly Father. Let me
-explain why you young men and women must keep your covenants you have made
-with God.
+(See [D&amp;C 84:33-42](/scriptures/dc-testament/dc/84.33-42?lang=eng#32).) We
+are pleased to know that many of you are true and faithful in every way to
+your priesthood covenants and are preparing yourselves to receive the Lord's
+promised blessings. Unfortunately, we know also that too many young men of the
+priesthood pay little attention to the serious nature of their sacred promises
+made with Heavenly Father. Let me explain why you young men and women must
+keep your covenants you have made with God.
 
 In the premortal world before we left the presence of Heavenly Father, He
 warned and cautioned us about new experiences we would have in mortality. We
@@ -110,7 +107,7 @@ efforts to take you into his power.
 You must be honest with yourself and remain true to the covenants you have
 made with God. Do not fall into the trap of thinking you can sin a little and
 it will not matter. Remember, "the Lord cannot look upon sin with the least
-degree of allowance." ([D&amp;C 1:31](https://www.lds.org/scriptures/dc-
+degree of allowance." ([D&amp;C 1:31](/scriptures/dc-
 testament/dc/1.31?lang=eng#30).) Some young men and women in the Church talk
 openly about sexual transgression. They seem to forget that the Lord forbids
 all sexual relations before marriage, including petting, sex perversion of any
@@ -154,8 +151,8 @@ proven yourselves worthy of an eternity of joy in His presence. ...
 
 "We counsel you to choose to live a morally clean life. The prophet Alma
 declared, 'Wickedness never was happiness' ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)). Truer
-words were never spoken!
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9)). Truer words were never
+spoken!
 
 "You cannot do wrong and feel right. It is impossible! ...
 
@@ -228,4 +225,6 @@ prepared for your responsibilities in your homes, in the Church, and in your
 communities and will be prepared to return to your Heavenly Father. May God
 bless every one of our precious youth, I pray, in the name of Jesus Christ,
 amen.
+
+## References
 

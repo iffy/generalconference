@@ -50,14 +50,13 @@ too dangerous, and the fog and darkness are moving in.
 
 Although our detractors might as well "stretch forth [their] puny arm[s] to
 stop the Missouri river in its decreed course, or to turn it up stream"
-([D&amp;C 121:33](https://www.lds.org/scriptures/dc-
-testament/dc/121.33?lang=eng#32)) as try to derail this train, they are
-occasionally successful in coaxing individuals off. With all the prophecies we
-have seen fulfilled, what great event are we awaiting prior to saying, "Count
-me in"? What more do we need to see or experience before we get on the train
-and stay on it until we reach our destination? It is time for a spiritual
-revival. It is time to dig down deep within ourselves and rekindle our own
-light.
+([D&amp;C 121:33](/scriptures/dc-testament/dc/121.33?lang=eng#32)) as try to
+derail this train, they are occasionally successful in coaxing individuals
+off. With all the prophecies we have seen fulfilled, what great event are we
+awaiting prior to saying, "Count me in"? What more do we need to see or
+experience before we get on the train and stay on it until we reach our
+destination? It is time for a spiritual revival. It is time to dig down deep
+within ourselves and rekindle our own light.
 
 President Joseph F. Smith said, "One fault to be avoided by the Saints, young
 and old, is the tendency to live on borrowed light [and] to permit ... the light
@@ -75,20 +74,17 @@ hurricane and have become so desensitized they don't even feel a breeze.
 We are following a cycle which was repeated over and over again in the Book of
 Mormon. As the Lord tells us, "In the day of their peace they esteemed lightly
 my counsel; but, in the day of their trouble, of necessity they feel after me"
-([D&amp;C 101:8](https://www.lds.org/scriptures/dc-
-testament/dc/101.8?lang=eng#7)).
+([D&amp;C 101:8](/scriptures/dc-testament/dc/101.8?lang=eng#7)).
 
 We shouldn't be too surprised, therefore, that the Lord is allowing some wake-
 up calls to jar us loose from apathy just as he has done in previous
 dispensations. In the book of Helaman, Nephi said, "And thus we see that
 except the Lord doth chasten his people with many afflictions, ... they will not
-remember him" ([Hel.
-12:3](https://www.lds.org/scriptures/bofm/hel/12.3?lang=eng#2)).
+remember him" ([Hel. 12:3](/scriptures/bofm/hel/12.3?lang=eng#2)).
 
 In our dispensation the Lord has said, "And my people must needs be chastened
 until they learn obedience, if it must needs be, by the things which they
-suffer" ([D&amp;C 105:6](https://www.lds.org/scriptures/dc-
-testament/dc/105.6?lang=eng#5)).
+suffer" ([D&amp;C 105:6](/scriptures/dc-testament/dc/105.6?lang=eng#5)).
 
 To some, the events unfolding in the world today are frightening. This is not
 a time to panic, but it is definitely a time to prepare. What can we do to
@@ -107,8 +103,7 @@ revelation relative to the kingdom to which their mantle entitles them. We
 follow the Brethren. Finally, we prepare ourselves to receive an endowment in
 the temple. If we remain faithful, this endowment literally gives us
 additional power to overcome the sins of the world and "stand in holy places."
-([D&amp;C 45:32](https://www.lds.org/scriptures/dc-
-testament/dc/45.32?lang=eng#31).)
+([D&amp;C 45:32](/scriptures/dc-testament/dc/45.32?lang=eng#31).)
 
 I make a special appeal to the youth. You will remain much safer and
 infinitely happier if you will place your energy into current obedience rather
@@ -141,7 +136,7 @@ frequency which is out of this world. Adversity can help fine-tune this
 frequency. Even the Savior communicated more intensely with our Father in
 Heaven when he was in agony. When the Lord was in Gethsemane, Luke recorded,
 "And being in an agony he prayed more earnestly." ([Luke
-22:44](https://www.lds.org/scriptures/nt/luke/22.44?lang=eng#43).)
+22:44](/scriptures/nt/luke/22.44?lang=eng#43).)
 
 The challenge for each of us, in order to prevent having to receive constant
 wake-up calls, is to remain obedient once we have turned upward. As the storm
@@ -160,4 +155,6 @@ greatest and most exciting part of our dispensation since the Restoration
 itself. We plead with everyone to become active participants in building the
 kingdom. This is the hour of our opportunity, to which I testify in the name
 of Jesus Christ, amen.
+
+## References
 

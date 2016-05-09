@@ -51,13 +51,12 @@ Lake City: Deseret Book Company, 1977, p. 328).
 Revelations come in many ways, but they are always manifest by the power of
 the Holy Ghost. Jesus' promise to the ancient apostles was: "The Comforter,
 which is the Holy Ghost, whom the Father will send in my name, he shall teach
-you all things" ([John
-14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25)). Our modern
-scriptures say: "The Comforter knoweth all things, and beareth record of the
-Father and of the Son" ([D&amp;C 42:17](https://www.lds.org/scriptures/dc-
+you all things" ([John 14:26](/scriptures/nt/john/14.26?lang=eng#25)). Our
+modern scriptures say: "The Comforter knoweth all things, and beareth record
+of the Father and of the Son" ([D&amp;C 42:17](/scriptures/dc-
 testament/dc/42.17?lang=eng#16)). They also give us this promise: "By the
 power of the Holy Ghost ye may know the truth of all things" ([Moro.
-10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4)).
+10:5](/scriptures/bofm/moro/10.5?lang=eng#4)).
 
 When men are quickened by the power of the Spirit, then the Lord can reveal
 his truths to them in whatever way he chooses.
@@ -84,34 +83,32 @@ your advocate with the Father.
 "... I will manifest myself to my people in mercy. ...
 
 "Yea, I will appear unto my servants, and speak unto them with mine own voice,
-if my people will keep my commandments." ([D&amp;C 110:3-4,
-7-8](https://www.lds.org/scriptures/dc-
-testament/dc/110.3-4%2C7-8?lang=eng#2).)
+if my people will keep my commandments." ([D&amp;C 110:3-4, 7-8](/scriptures
+/dc-testament/dc/110.3-4,7-8?lang=eng#2).)
 
 Michael, Gabriel, Raphael, and divers angels came--"all declaring their
 dispensation, their rights, their keys, their honors, their majesty and glory,
-and the power of their priesthood" ([D&amp;C
-128:21](https://www.lds.org/scriptures/dc-testament/dc/128.21?lang=eng#20)).
+and the power of their priesthood" ([D&amp;C 128:21](/scriptures/dc-
+testament/dc/128.21?lang=eng#20)).
 
 Moses returned to bring the keys of the gathering of Israel; Elias came to
 restore "the gospel of Abraham" and promise mortal men, once again, that in
 them and in their seed all generations might be blessed; and Elijah came to
 confer the sealing power so that once again legal administrators might have
 power to bind on earth and have their acts sealed everlastingly in the
-heavens. (See [D&amp;C 110:11-13](https://www.lds.org/scriptures/dc-
+heavens. (See [D&amp;C 110:11-13](/scriptures/dc-
 testament/dc/110.11-13?lang=eng#10).)
 
 Peter, James, and John restored the keys of the kingdom of God and brought
 back again the apostolic commission to preach the gospel in all nations and to
 every creature. Moroni came to restore the Book of Mormon, and John the
 Baptist to bring again the Aaronic Priesthood with all its keys and powers.
-(See [D&amp;C 128:20-21](https://www.lds.org/scriptures/dc-
-testament/dc/128.20-21?lang=eng#19).)
+(See [D&amp;C 128:20-21](/scriptures/dc-testament/dc/128.20-21?lang=eng#19).)
 
 Joseph Smith and Sidney Rigdon, on February 16, 1832, at Hiram, Ohio, saw in
 vision the kingdoms of glory in the eternal world and received such an
 outpouring of grace and truth as has seldom come to mortal men. (See [D&amp;C
-76](https://www.lds.org/scriptures/dc-testament/dc/76.title?lang=eng).)
+76](/scriptures/dc-testament/dc/76?lang=eng).)
 
 The voice of God--speaking audibly after the manner of our language, and also
 speaking by the power of the Spirit in the minds of men--has been heard over
@@ -136,22 +133,22 @@ Speaking "unto all those who" are "ordained unto" his "priesthood," the Lord
 says: "And whatsoever they shall speak when moved upon by the Holy Ghost shall
 be scripture, shall be the will of the Lord, shall be the mind of the Lord,
 shall be the word of the Lord, shall be the voice of the Lord, and the power
-of God unto salvation" ([D&amp;C 68:2-4](https://www.lds.org/scriptures/dc-
+of God unto salvation" ([D&amp;C 68:2-4](/scriptures/dc-
 testament/dc/68.2-4?lang=eng#1)).
 
 Truly this is that promised day when "every man might speak in the name of God
-the Lord, even the Savior of the world" ([D&amp;C
-1:20](https://www.lds.org/scriptures/dc-testament/dc/1.20?lang=eng#19)).
+the Lord, even the Savior of the world" ([D&amp;C 1:20](/scriptures/dc-
+testament/dc/1.20?lang=eng#19)).
 
 If all of the Latter-day Saints lived as they should, then Moses' petition
 would be granted: "Would God that all the Lord's people were prophets, and
 that the Lord would put his spirit upon them!" ([Num.
-11:29](https://www.lds.org/scriptures/ot/num/11.29?lang=eng#28)).
+11:29](/scriptures/ot/num/11.29?lang=eng#28)).
 
 This is the promised day when "God shall give unto" us "knowledge by his Holy
 Spirit," when, "by the unspeakable gift of the Holy Ghost," we shall gain
 knowledge "that has not been revealed since the world was until now" ([D&amp;C
-121:26](https://www.lds.org/scriptures/dc-testament/dc/121.26?lang=eng#25)).
+121:26](/scriptures/dc-testament/dc/121.26?lang=eng#25)).
 
 This is the day of which Joseph Smith said: "God hath not revealed anything to
 Joseph, but what He will make known unto the Twelve, and even the least Saint
@@ -160,21 +157,19 @@ may know all things as fast as he is able to bear them" (_Teachings,_ p. 149).
 And we look forward to that glorious millennial day when "they shall teach no
 more every man his neighbour, and every man his brother, saying, Know the
 Lord: for they shall all know me, from the least of them unto the greatest of
-them, saith the Lord" ([Jer.
-31:34](https://www.lds.org/scriptures/ot/jer/31.34?lang=eng#33)).
+them, saith the Lord" ([Jer. 31:34](/scriptures/ot/jer/31.34?lang=eng#33)).
 
 But even now there is no end to the revelations we may receive. "We believe
 all that God has revealed, all that He does now reveal, and we believe that He
 will yet reveal many great and important things pertaining to the Kingdom of
-God" ([A of F 1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8)).
+God" ([A of F 1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8)).
 
 To the prophets, seers, and revelators he will manifest his mind and his will
 concerning the Church and the world. To the presiding officers in the stakes
 and wards and quorums he will reveal what should be for those organizations.
 To fathers and mothers and children he will reveal "great treasures of
-knowledge, even hidden treasures" ([D&amp;C
-89:19](https://www.lds.org/scriptures/dc-testament/dc/89.19?lang=eng#18)) to
-guide them along the way to perfection.
+knowledge, even hidden treasures" ([D&amp;C 89:19](/scriptures/dc-
+testament/dc/89.19?lang=eng#18)) to guide them along the way to perfection.
 
 It is his will that we gain testimonies, that we seek revelation, that we
 covet to prophesy, that we desire spiritual gifts, and that we seek the face
@@ -187,15 +182,14 @@ visions of eternity.
 By his own mouth he has given us this promise: "It shall come to pass that
 every soul who forsaketh his sins and cometh unto me, and calleth on my name,
 and obeyeth my voice, and keepeth my commandments, shall see my face and know
-that I am" ([D&amp;C 93:1](https://www.lds.org/scriptures/dc-
-testament/dc/93.1?lang=eng#0)).
+that I am" ([D&amp;C 93:1](/scriptures/dc-testament/dc/93.1?lang=eng#0)).
 
 Such is his promise to us here and now while we yet dwell as mortals in a
 world of sorrow and sin. It is our privilege even now--the privilege of all
 who hold the holy priesthood--if we will strip ourselves from jealousies and
 fears and humble ourselves before him, as he has said, to have the veil rent
-and see him and know that he is. (See [D&amp;C
-67:10](https://www.lds.org/scriptures/dc-testament/dc/67.10?lang=eng#9).)
+and see him and know that he is. (See [D&amp;C 67:10](/scriptures/dc-
+testament/dc/67.10?lang=eng#9).)
 
 To carnal men, and even to those among us whose souls are not attuned to the
 Infinite, these promises may seem as the gibberish of alien tongues, but to
@@ -208,4 +202,6 @@ Now may I bear a solemn witness, one borne of the Spirit, that these doctrines
 are true, that the Lord God is raining down righteousness upon his people, and
 that he will continue to do so until that perfect day when they know all
 things and become as he is. In the name of the Lord Jesus Christ, amen.
+
+## References
 

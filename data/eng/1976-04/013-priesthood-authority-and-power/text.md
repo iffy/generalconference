@@ -41,8 +41,7 @@ the lesson, brethren]--
 
 "That the rights of the priesthood are inseparably connected with the powers
 of heaven, and that the powers of heaven cannot be controlled nor handled only
-upon the principles of righteousness." ([D&amp;C
-121:34-36](https://www.lds.org/scriptures/dc-
+upon the principles of righteousness." ([D&amp;C 121:34-36](/scriptures/dc-
 testament/dc/121.34-36?lang=eng#33).)
 
 From this I understand that there is a difference between priesthood authority
@@ -103,9 +102,8 @@ further in the Doctrine and Covenants:
 almost all men, as soon as they get a little authority, as they suppose, they
 will immediately begin to exercise unrighteous dominion.
 
-"Hence many are called, but few are chosen." ([D&amp;C
-121:39-40](https://www.lds.org/scriptures/dc-
-testament/dc/121.39-40?lang=eng#38).)
+"Hence many are called, but few are chosen." ([D&amp;C 121:39-40](/scriptures
+/dc-testament/dc/121.39-40?lang=eng#38).)
 
 Many are the brethren who do not understand what these sacred words mean:
 
@@ -168,9 +166,8 @@ deliver them.
 
 "And they rehearsed unto me the words of their mothers, saying: We do not
 doubt our mothers knew it." ([Alma 53:18,
-20-21](https://www.lds.org/scriptures/bofm/alma/53.18%2C20-21?lang=eng#17);
-[Alma
-56:47-48](https://www.lds.org/scriptures/bofm/alma/56.47-48?lang=eng#46).)
+20-21](/scriptures/bofm/alma/53.18,20-21?lang=eng#17); [Alma
+56:47-48](/scriptures/bofm/alma/56.47-48?lang=eng#46).)
 
 It seems more than a coincidence to me that when mention is made of all who
 could be counted as being responsible for the great valor and spirit of these
@@ -217,7 +214,7 @@ priesthood shall distil upon thy soul as the dews from heaven.
 "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging
 scepter of righteousness and truth; and thy dominion shall be an everlasting
 dominion, and without compulsory means it shall flow unto thee forever and
-ever." ([D&amp;C 121:41-46](https://www.lds.org/scriptures/dc-
+ever." ([D&amp;C 121:41-46](/scriptures/dc-
 testament/dc/121.41-46?lang=eng#40).)
 
 What a beautiful promise! Blessed is the family that can look to you brethren
@@ -225,4 +222,6 @@ as the vital conduit joining heaven and home.
 
 I testify to you that I know that He lives, that Jesus is the Christ, in the
 name of Jesus Christ. Amen.
+
+## References
 

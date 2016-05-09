@@ -142,13 +142,11 @@ the wall.
 
 At first their enemies ridiculed them. Tobiah, the Ammonite, mocked them,
 saying, "Even that which they build, if a fox go up, he shall even break down
-their stone wall" ([Neh.
-4:3](https://www.lds.org/scriptures/ot/neh/4.3?lang=eng#2)).
+their stone wall" ([Neh. 4:3](/scriptures/ot/neh/4.3?lang=eng#2)).
 
 But Nehemiah consoled his people and set to work. The enemy was everywhere.
 "Nevertheless," he recorded, "we made [a] prayer unto our God, and set a watch
-against them" ([Neh.
-4:9](https://www.lds.org/scriptures/ot/neh/4.9?lang=eng#8)).
+against them" ([Neh. 4:9](/scriptures/ot/neh/4.9?lang=eng#8)).
 
 Sisters, think carefully upon that. They "made a prayer," and "set a watch,"
 and proceeded with their work.
@@ -168,7 +166,7 @@ Sanballat and Tobiah and Geshem sent for Nehemiah. "Come," they enticed, "let
 us meet together in some one of the villages in the plain of Ono." They
 endeavored to draw him away from his work on the wall. But the prophet knew
 their hearts and said, "They thought to do me mischief." ([Neh.
-6:2](https://www.lds.org/scriptures/ot/neh/6.2?lang=eng#1).)
+6:2](/scriptures/ot/neh/6.2?lang=eng#1).)
 
 Five times they sent for him to come out to them. Their importuning came then,
 just as it comes now to us: "Come parley with us, come join our cause, come do
@@ -178,7 +176,7 @@ His answer to them holds counsel for every sister in Relief Society. It is a
 message as well to the brethren of the priesthood. "I sent messengers unto
 them," Nehemiah recorded, "saying, I am doing a great work, so that I cannot
 come down: why should the work cease, whilst I leave it, and come down to
-you?" ([Neh. 6:3](https://www.lds.org/scriptures/ot/neh/6.3?lang=eng#2).)
+you?" ([Neh. 6:3](/scriptures/ot/neh/6.3?lang=eng#2).)
 
 Sisters, you have a great work to do. Build Relief Society! Strengthen its
 organization! Do not be enticed to leave it and go down to the worldly plains
@@ -237,12 +235,12 @@ Those who tell you that in the kingdom of God a woman's lot is less than that
 of the man know nothing of the love, akin to worship, that the worthy man has
 for his wife. He cannot have his priesthood, not the fulness of it, without
 her. "For no man," the Prophet said, "can get the fulness of the priesthood
-outside the temple of the Lord" (see [D&amp;C
-131:1-3](https://www.lds.org/scriptures/dc-testament/dc/131.1-3?lang=eng#0)).
-And she is there beside him in that sacred place. She is there and shares in
-all that he receives. Each, individually, receives the washings and
-anointings, each may be endowed. But he cannot ascend to the highest
-ordinances--the sealing ordinances--without her at his side.
+outside the temple of the Lord" (see [D&amp;C 131:1-3](/scriptures/dc-
+testament/dc/131.1-3?lang=eng#0)). And she is there beside him in that sacred
+place. She is there and shares in all that he receives. Each, individually,
+receives the washings and anointings, each may be endowed. But he cannot
+ascend to the highest ordinances--the sealing ordinances--without her at his
+side.
 
 Oh, how powerful the tender, tempering teachings and the disarming wisdom of
 our sisters can be. I found the spirit of Relief Society--the whole of it--in
@@ -265,4 +263,6 @@ great eternal circle of sisters--God's organization for women upon this earth
 
 I bear witness that God lives, that He directs this work, that His benevolent
 power is upon this great circle of sisters, in the name of Jesus Christ, amen.
+
+## References
 

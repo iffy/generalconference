@@ -78,7 +78,7 @@ continue to be vitally interested in temporal matters; the Presiding Bishopric
 continue to be vitally concerned with ecclesiastical matters. To us it is one
 great program. This division of responsibility is intended for administrative
 convenience. All things are spiritual to the Lord (see [D&amp;C
-29:34](https://www.lds.org/scriptures/dc-testament/dc/29.34?lang=eng#33)).
+29:34](/scriptures/dc-testament/dc/29.34?lang=eng#33)).
 
 I'll now speak briefly about each of these councils at the respective levels.
 
@@ -154,27 +154,19 @@ presidents could be invited by the executive administrator, if needed.
 The responsibilities of the executive administrator throughout the world will
 be--
 
-  1. To preside over and provide ecclesiastical leadership in the area.
-
-  2. To preside in all area council meetings.
-
-  3. To set priorities.
-
-  4. To control planning.
-
-  5. To regulate within policy.
-
-  6. To train.
+  1. To preside over and provide ecclesiastical leadership in the area. 
+  2. To preside in all area council meetings. 
+  3. To set priorities. 
+  4. To control planning. 
+  5. To regulate within policy. 
+  6. To train. 
 
 The director for temporal affairs will have the responsibility to--
 
-  1. Manage operations to service ecclesiastical needs.
-
-  2. Assist in planning.
-
-  3. Provide technical services.
-
-  4. Assist in training.
+  1. Manage operations to service ecclesiastical needs. 
+  2. Assist in planning. 
+  3. Provide technical services. 
+  4. Assist in training. 
 
 While both the executive administrator (General Authority) and the director
 for temporal affairs (representing the Presiding Bishopric) have independent
@@ -214,13 +206,10 @@ invitations for headquarters staff to attend periodic area council meetings.
 These individuals assigned by the Presiding Bishopric will have the
 responsibility to--
 
-  1. Manage operations to service ecclesiastical needs.
-
-  2. Assist in planning.
-
-  3. Provide technical services.
-
-  4. Assist in training.
+  1. Manage operations to service ecclesiastical needs. 
+  2. Assist in planning. 
+  3. Provide technical services. 
+  4. Assist in training. 
 
 ## Third: The Multiregion and Region Councils
 
@@ -319,8 +308,7 @@ godliness, brotherly kindness and charity;
 
 "Because the promise is, if these things abound in them they shall not be
 unfruitful in the knowledge of the Lord." ([D&amp;C 107:27, 30,
-31](https://www.lds.org/scriptures/dc-
-testament/dc/107.27%2C30%2C31?lang=eng#26).)
+31](/scriptures/dc-testament/dc/107.27,30,31?lang=eng#26).)
 
 This seems to me to be the pattern by which the Lord would have us operate
 through priesthood councils at all levels of Church government. We must be one
@@ -336,4 +324,6 @@ good of the kingdom. May the Lord bless us in our efforts as we implement this
 system of priesthood councils so that we, under the operation of the Spirit,
 may have greater unity, accord, and effectiveness in building the Lord's
 kingdom, which I pray in the name of Jesus Christ, amen.
+
+## References
 

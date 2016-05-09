@@ -134,10 +134,10 @@ After compiling some of the revelations, the ancient prophet Moroni said, "...
 if there be faults they be the faults of a man. But behold, we know no fault;
 nevertheless God knoweth all things; therefore, he that condemneth, let him be
 aware lest he shall be in danger of hell fire." ([Morm.
-8:17](https://www.lds.org/scriptures/bofm/morm/8.17?lang=eng#16).) "And whoso
-receiveth this record, and shall not condemn it because of the imperfections
-which are in it, the same shall know of greater things than these. ..." ([Morm.
-8:12](https://www.lds.org/scriptures/bofm/morm/8.12?lang=eng#11).)
+8:17](/scriptures/bofm/morm/8.17?lang=eng#16).) "And whoso receiveth this
+record, and shall not condemn it because of the imperfections which are in it,
+the same shall know of greater things than these. ..." ([Morm.
+8:12](/scriptures/bofm/morm/8.12?lang=eng#11).)
 
 A man might take a stone and, in order to verify precisely what it is, subject
 it to a test to identify slate or sandstone. After conducting these tests, he
@@ -157,7 +157,7 @@ examine these revelations by every formula save the right one. Each becomes
 evidence, as Paul said, "the natural man receiveth not the things of the
 Spirit of God: for they are foolishness unto him: neither can he know them,
 because they are spiritually discerned." ([1 Cor.
-2:14](https://www.lds.org/scriptures/nt/1-cor/2.14?lang=eng#13).)
+2:14](/scriptures/nt/1-cor/2.14?lang=eng#13).)
 
 These scriptural diamonds, as we have described them, will stand the test. As
 surely as a man may determine whether a purported diamond is genuine by
@@ -194,7 +194,7 @@ who tears down and has nothing to put in its place.
 
 The prophet Nephi said, "... wherefore, the guilty taketh the truth to be hard,
 for it cutteth them to the very center." ([1 Ne.
-16:2](https://www.lds.org/scriptures/bofm/1-ne/16.2?lang=eng#1).)
+16:2](/scriptures/bofm/1-ne/16.2?lang=eng#1).)
 
 This ancient prophet said that he was not "mighty in writing, like unto
 speaking; for when a man speaketh by the power of the Holy Ghost the power of
@@ -203,7 +203,7 @@ the Holy Ghost carrieth it unto the hearts of the children of men.
 "But behold, there are many that harden their hearts against the Holy Spirit,
 that it hath no place in them; wherefore, they cast many things away which are
 written and esteem them as things of naught." ([2 Ne.
-33:1-2](https://www.lds.org/scriptures/bofm/2-ne/33.1-2?lang=eng#0).)
+33:1-2](/scriptures/bofm/2-ne/33.1-2?lang=eng#0).)
 
 He further said that the words that he had written were to persuade men to do
 good and "speaketh of Jesus, and persuadeth them to believe in him, and to
@@ -212,28 +212,27 @@ endure to the end, which is life eternal.
 "And it speaketh harshly against sin, according to the plainness of the truth;
 wherefore, no man will be angry at the words which I have written save he
 shall be of the spirit of the devil." ([2 Ne.
-33:4-5](https://www.lds.org/scriptures/bofm/2-ne/33.4-5?lang=eng#3).)
+33:4-5](/scriptures/bofm/2-ne/33.4-5?lang=eng#3).)
 
 There is a warning in the New Testament worthy of our attention. Peter and the
 other apostles were imprisoned by the Sanhedrin. They were released by an
 angel, but came a second time before that council. They bore testimony that,
 "... We are his witnesses of these things; and so is also the Holy Ghost, whom
 God hath given to them that obey him." ([Acts
-5:32](https://www.lds.org/scriptures/nt/acts/5.32?lang=eng#31).)
+5:32](/scriptures/nt/acts/5.32?lang=eng#31).)
 
 Some of the Sanhedrin sought to kill the apostles, but Gamaliel, a doctor of
 law, wisely said, "Ye men of Israel, take heed to yourselves what ye intend to
 do as touching these men." ([Acts
-5:34-35](https://www.lds.org/scriptures/nt/acts/5.34-35?lang=eng#33).) He then
-cited two examples of preachers who "also perished; and all, even as many as
-obeyed [them], were dispersed.
+5:34-35](/scriptures/nt/acts/5.34-35?lang=eng#33).) He then cited two examples
+of preachers who "also perished; and all, even as many as obeyed [them], were
+dispersed.
 
 "... Refrain from these men, and let them alone," Gamaliel cautioned, "... for if
 this counsel or this work be of men, it will come to nought:
 
 "But if it be of God, ye cannot overthrow it; lest haply ye be found even to
-fight against God." ([Acts
-5:37-39](https://www.lds.org/scriptures/nt/acts/5.37-39?lang=eng#36).)
+fight against God." ([Acts 5:37-39](/scriptures/nt/acts/5.37-39?lang=eng#36).)
 
 Revelation continues in the Church: the prophet receiving it for the Church;
 the president for his stake, his mission, or his quorum; the bishop for his
@@ -243,8 +242,7 @@ Many revelations have been received and are found in evidence in the onrolling
 work of the Lord. Perhaps one day other revelations which have been received
 and have been recorded will be published, and we stand in expectation that "...
 He will yet reveal many great and important things pertaining to the Kingdom
-of God." ([A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8).)
+of God." ([A of F 1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8).)
 
 I conclude with a verse in the Doctrine and Covenants which has within it a
 formula and a promise:
@@ -252,8 +250,7 @@ formula and a promise:
 "Verily, thus saith the Lord: It shall come to pass that every soul who
 forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my
 voice, and keepeth my commandments, shall see my face and know that I am."
-([D&amp;C 93:1](https://www.lds.org/scriptures/dc-
-testament/dc/93.1?lang=eng#0).)
+([D&amp;C 93:1](/scriptures/dc-testament/dc/93.1?lang=eng#0).)
 
 I do not invite anyone to become a seeker after a sign, but to prepare a mind
 and a heart and a body that is clean.
@@ -261,8 +258,8 @@ and a heart and a body that is clean.
 "Therefore," the Lord has said, "sanctify yourselves that your minds become
 single to God, and the days will come that you shall see him; for he will
 unveil his face unto you, and it shall be in his own time, and in his own way,
-and according to his own will." ([D&amp;C
-88:68](https://www.lds.org/scriptures/dc-testament/dc/88.68?lang=eng#67).)
+and according to his own will." ([D&amp;C 88:68](/scriptures/dc-
+testament/dc/88.68?lang=eng#67).)
 
 I bear witness that the revelations are true. I have tested them. There sit
 before us in this conference the General Authorities of the Church, fifteen
@@ -271,4 +268,6 @@ Lord Jesus Christ. I bear witness that he lives. I have that witness, and
 testify that the gospel of Jesus Christ is the power unto salvation, and that
 each of us through seeking can know that these diamonds are genuine, in the
 name of Jesus Christ. Amen.
+
+## References
 

@@ -8,18 +8,16 @@ of Jesus Christ.
 
 In the beginning, God commanded Adam, "Thou shalt do all that thou doest in
 the name of the Son, and thou shalt repent and call upon God in the name of
-the Son forevermore." ([Moses
-5:8](https://www.lds.org/scriptures/pgp/moses/5.8?lang=eng#7).) Then the Holy
-Ghost, "which beareth record of the Father and the Son," came upon Adam and
-Eve, and they "blessed the name of God, and they made all things known unto
-their sons and their daughters." ([Moses 5:9,
-12](https://www.lds.org/scriptures/pgp/moses/5.9%2C12?lang=eng#8).)
+the Son forevermore." ([Moses 5:8](/scriptures/pgp/moses/5.8?lang=eng#7).)
+Then the Holy Ghost, "which beareth record of the Father and the Son," came
+upon Adam and Eve, and they "blessed the name of God, and they made all things
+known unto their sons and their daughters." ([Moses 5:9,
+12](/scriptures/pgp/moses/5.9,12?lang=eng#8).)
 
 Later, Enoch described how God had taught Adam that all must repent and be
 baptized in the name of Jesus Christ, whose atoning sacrifice made possible
 the forgiveness of sins, and that they must teach these things to their
-children. (See [Moses
-6:52-59](https://www.lds.org/scriptures/pgp/moses/6.52-59?lang=eng#51).)
+children. (See [Moses 6:52-59](/scriptures/pgp/moses/6.52-59?lang=eng#51).)
 
 And so our first parents established the pattern, receiving a testimony from
 the Holy Ghost and then bearing witness of the Father and the Son to those
@@ -28,28 +26,25 @@ around them.
 The prophet Nephi described the ordinance of baptism as an occasion when
 persons would witness unto the Father that they were willing to take upon them
 the name of Christ. (See [2 Ne.
-31:13](https://www.lds.org/scriptures/bofm/2-ne/31.13?lang=eng#12).)
-Similarly, the Lord has specified that those who desire to be baptized in this
-dispensation should "come forth with broken hearts and contrite spirits, and
-witness before the church that they ... are willing to take upon them the name
-of Jesus Christ." ([D&amp;C 20:37](https://www.lds.org/scriptures/dc-
-testament/dc/20.37?lang=eng#36); see also [Moro.
-6:3](https://www.lds.org/scriptures/bofm/moro/6.3?lang=eng#2).) We renew that
-promise when we partake of the sacrament. (See [D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76);
-[Moro. 4:3](https://www.lds.org/scriptures/bofm/moro/4.3?lang=eng#2).)
+31:13](/scriptures/bofm/2-ne/31.13?lang=eng#12).) Similarly, the Lord has
+specified that those who desire to be baptized in this dispensation should
+"come forth with broken hearts and contrite spirits, and witness before the
+church that they ... are willing to take upon them the name of Jesus Christ."
+([D&amp;C 20:37](/scriptures/dc-testament/dc/20.37?lang=eng#36); see also
+[Moro. 6:3](/scriptures/bofm/moro/6.3?lang=eng#2).) We renew that promise when
+we partake of the sacrament. (See [D&amp;C 20:77](/scriptures/dc-
+testament/dc/20.77?lang=eng#76); [Moro.
+4:3](/scriptures/bofm/moro/4.3?lang=eng#2).)
 
 We also witness of Christ by our membership in the Church that bears his name.
-(See [3 Ne. 27:7](https://www.lds.org/scriptures/bofm/3-ne/27.7?lang=eng#6);
-[D&amp;C 115:4](https://www.lds.org/scriptures/dc-
-testament/dc/115.4?lang=eng#3).)
+(See [3 Ne. 27:7](/scriptures/bofm/3-ne/27.7?lang=eng#6); [D&amp;C
+115:4](/scriptures/dc-testament/dc/115.4?lang=eng#3).)
 
 We are commanded to pray unto the Father in the name of his Son, Jesus Christ
-(see [3 Ne. 18:19, 21,
-23](https://www.lds.org/scriptures/bofm/3-ne/18.19%2C21%2C23?lang=eng#18); see
-also [Moses 5:8](https://www.lds.org/scriptures/pgp/moses/5.8?lang=eng#7)),
-and to do "all things ... in the name of Christ" ([D&amp;C
-46:31](https://www.lds.org/scriptures/dc-testament/dc/46.31?lang=eng#30)).
+(see [3 Ne. 18:19, 21, 23](/scriptures/bofm/3-ne/18.19,21,23?lang=eng#18); see
+also [Moses 5:8](/scriptures/pgp/moses/5.8?lang=eng#7)), and to do "all things
+... in the name of Christ" ([D&amp;C 46:31](/scriptures/dc-
+testament/dc/46.31?lang=eng#30)).
 
 If we follow these commandments, we serve as witnesses of Jesus Christ through
 our baptism, our membership in his Church, our partaking of the sacrament, and
@@ -83,22 +78,21 @@ appendages to it." (_Teachings of the Prophet Joseph Smith,_ p. 121.)
 When Alma spoke to a group of prospective members at the Waters of Mormon, he
 instructed them on the duties of those who were "desirous to come into the
 fold of God, and to be called his people." ([Mosiah
-18:8](https://www.lds.org/scriptures/bofm/mosiah/18.8?lang=eng#7).) One of
-those duties was "to stand as witnesses of God at all times and in all things,
-and in all places that ye may be in, even until death." ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).)
+18:8](/scriptures/bofm/mosiah/18.8?lang=eng#7).) One of those duties was "to
+stand as witnesses of God at all times and in all things, and in all places
+that ye may be in, even until death." ([Mosiah
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).)
 
 How do members become witnesses? The original Apostles were eyewitnesses to
 the ministry and resurrection of the Savior. (See [Acts
-10:39-41](https://www.lds.org/scriptures/nt/acts/10.39-41?lang=eng#38).) He
-told them, "Ye shall be witnesses unto me both in Jerusalem, and in all
-Judaea, and in Samaria, and unto the uttermost part of the earth." ([Acts
-1:8](https://www.lds.org/scriptures/nt/acts/1.8?lang=eng#7); see also [Acts
-10:42-43](https://www.lds.org/scriptures/nt/acts/10.42-43?lang=eng#41).)
-However, he cautioned them that their witnessing would be after they had
-received the Holy Ghost. (See [Acts
-1:8](https://www.lds.org/scriptures/nt/acts/1.8?lang=eng#7); see also [Luke
-24:49](https://www.lds.org/scriptures/nt/luke/24.49?lang=eng#48).)
+10:39-41](/scriptures/nt/acts/10.39-41?lang=eng#38).) He told them, "Ye shall
+be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and
+unto the uttermost part of the earth." ([Acts
+1:8](/scriptures/nt/acts/1.8?lang=eng#7); see also [Acts
+10:42-43](/scriptures/nt/acts/10.42-43?lang=eng#41).) However, he cautioned
+them that their witnessing would be after they had received the Holy Ghost.
+(See [Acts 1:8](/scriptures/nt/acts/1.8?lang=eng#7); see also [Luke
+24:49](/scriptures/nt/luke/24.49?lang=eng#48).)
 
 An eyewitness was not enough. Even the witness and testimony of the original
 Apostles had to be rooted in the testimony of the Holy Ghost. A prophet has
@@ -107,29 +101,27 @@ that is more significant than "a visitation of an angel." (Joseph Fielding
 Smith, _Doctrines of Salvation,_ comp. Bruce R. McConkie, Salt Lake City:
 Bookcraft, 1954, 1:44.) And the Bible shows that when we testify on the basis
 of this witness, the Holy Ghost testifies to those who hear our words. (See
-[Acts 2](https://www.lds.org/scriptures/nt/acts/2.title?lang=eng); [Acts
-10:44-47](https://www.lds.org/scriptures/nt/acts/10.44-47?lang=eng#43).)
+[Acts 2](/scriptures/nt/acts/2?lang=eng); [Acts
+10:44-47](/scriptures/nt/acts/10.44-47?lang=eng#43).)
 
 When Peter and the other Apostles were brought before the civil authorities,
 he testified that Jesus Christ was "a Prince and a Saviour, for to give
 repentance to Israel, and forgiveness of sins." ([Acts
-5:31](https://www.lds.org/scriptures/nt/acts/5.31?lang=eng#30).) Then Peter
-added, "And we are his witnesses of these things; and so is also the Holy
-Ghost, whom God hath given to them that obey him." ([Acts
-5:32](https://www.lds.org/scriptures/nt/acts/5.32?lang=eng#31).) The mission
-of the Holy Ghost is to witness of the Father and the Son. (See [2 Ne.
-31:18](https://www.lds.org/scriptures/bofm/2-ne/31.18?lang=eng#17); [3 Ne.
-28:11](https://www.lds.org/scriptures/bofm/3-ne/28.11?lang=eng#10); [D&amp;C
-20:27](https://www.lds.org/scriptures/dc-testament/dc/20.27?lang=eng#26).)
-Consequently, everyone who has received the witness of the Holy Ghost has a
-duty to share that testimony with others.
+5:31](/scriptures/nt/acts/5.31?lang=eng#30).) Then Peter added, "And we are
+his witnesses of these things; and so is also the Holy Ghost, whom God hath
+given to them that obey him." ([Acts
+5:32](/scriptures/nt/acts/5.32?lang=eng#31).) The mission of the Holy Ghost is
+to witness of the Father and the Son. (See [2 Ne.
+31:18](/scriptures/bofm/2-ne/31.18?lang=eng#17); [3 Ne.
+28:11](/scriptures/bofm/3-ne/28.11?lang=eng#10); [D&amp;C 20:27](/scriptures
+/dc-testament/dc/20.27?lang=eng#26).) Consequently, everyone who has received
+the witness of the Holy Ghost has a duty to share that testimony with others.
 
 Apostles have the calling and ordination to be special witnesses of the name
-of Christ in all the world (see [D&amp;C
-107:23](https://www.lds.org/scriptures/dc-testament/dc/107.23?lang=eng#22)),
-but the duty to witness and testify of Christ at all times and in all places
-applies to every member of the Church who has received the testimony of the
-Holy Ghost.
+of Christ in all the world (see [D&amp;C 107:23](/scriptures/dc-
+testament/dc/107.23?lang=eng#22)), but the duty to witness and testify of
+Christ at all times and in all places applies to every member of the Church
+who has received the testimony of the Holy Ghost.
 
 The book of Luke records two examples of this. In obedience to the law of
 Moses, Joseph and Mary brought the infant Jesus to the temple at Jerusalem
@@ -138,81 +130,76 @@ temple workers received a witness of his identity and testified of him.
 Simeon, who had known by revelation from the Holy Ghost that he should not
 taste of death until he had seen the Messiah, took the infant in his arms and
 testified to his divine mission. (See [Luke
-2:25-35](https://www.lds.org/scriptures/nt/luke/2.25-35?lang=eng#24).) Anna,
-whom the scripture called "a prophetess" ([Luke
-2:36](https://www.lds.org/scriptures/nt/luke/2.36?lang=eng#35)), recognized
-the Messiah "and spake of him to all them that looked for redemption in
-Jerusalem" ([Luke
-2:38](https://www.lds.org/scriptures/nt/luke/2.38?lang=eng#37)).
+2:25-35](/scriptures/nt/luke/2.25-35?lang=eng#24).) Anna, whom the scripture
+called "a prophetess" ([Luke 2:36](/scriptures/nt/luke/2.36?lang=eng#35)),
+recognized the Messiah "and spake of him to all them that looked for
+redemption in Jerusalem" ([Luke 2:38](/scriptures/nt/luke/2.38?lang=eng#37)).
 
 Anna and Simeon were eyewitnesses to the infant, but, just like the Apostles,
 their knowledge of his divine mission came through the witness of the Holy
 Ghost. "The testimony of Jesus is the spirit of prophecy." ([Rev.
-19:10](https://www.lds.org/scriptures/nt/rev/19.10?lang=eng#9).) Therefore, we
-can properly say that when each received this witness, Simeon was a prophet
-and Anna was a prophetess. Each then fulfilled the prophetic duty to testify
-to those around them. As Peter said, "To [Christ] give all the prophets
-witness." ([Acts
-10:43](https://www.lds.org/scriptures/nt/acts/10.43?lang=eng#42).) This was
-what Moses meant when he expressed the wish "that all the Lord's people were
-prophets, and that the Lord would put his spirit upon them!" ([Num.
-11:29](https://www.lds.org/scriptures/ot/num/11.29?lang=eng#28).)
+19:10](/scriptures/nt/rev/19.10?lang=eng#9).) Therefore, we can properly say
+that when each received this witness, Simeon was a prophet and Anna was a
+prophetess. Each then fulfilled the prophetic duty to testify to those around
+them. As Peter said, "To [Christ] give all the prophets witness." ([Acts
+10:43](/scriptures/nt/acts/10.43?lang=eng#42).) This was what Moses meant when
+he expressed the wish "that all the Lord's people were prophets, and that the
+Lord would put his spirit upon them!" ([Num.
+11:29](/scriptures/ot/num/11.29?lang=eng#28).)
 
 The scriptures describe other occasions when ordinary members--men and women--
 bore witness of Christ. The Book of Mormon tells of King Lamoni and his queen,
 who testified of their Redeemer. (See [Alma
-19](https://www.lds.org/scriptures/bofm/alma/19.title?lang=eng).) The Bible
-describes the witness of the Holy Ghost coming upon the kinsmen and friends of
-Cornelius, who were then heard to "magnify God." ([Acts 10:24,
-46](https://www.lds.org/scriptures/nt/acts/10.24%2C46?lang=eng#23).)
+19](/scriptures/bofm/alma/19?lang=eng).) The Bible describes the witness of
+the Holy Ghost coming upon the kinsmen and friends of Cornelius, who were then
+heard to "magnify God." ([Acts 10:24,
+46](/scriptures/nt/acts/10.24,46?lang=eng#23).)
 
 Our scriptural duty to witness of the Savior and to testify of his divine
 Sonship has been affirmed by the prophets in our own day.
 
 We are told that the commandments are given and the gospel is proclaimed that
 every person "might speak in the name of God the Lord, even the Savior of the
-world." ([D&amp;C 1:20](https://www.lds.org/scriptures/dc-
-testament/dc/1.20?lang=eng#19).)
+world." ([D&amp;C 1:20](/scriptures/dc-testament/dc/1.20?lang=eng#19).)
 
 Spiritual gifts come by the power of the Holy Ghost, that all the faithful may
 be benefited. One of these gifts is "to know that Jesus Christ is the Son of
 God, and that he was crucified for the sins of the world." ([D&amp;C
-46:13](https://www.lds.org/scriptures/dc-testament/dc/46.13?lang=eng#12).)
-Those who receive that gift have the duty to testify of it. We know this
-because immediately after describing the gift of knowing that Jesus Christ is
-the Son of God, the Lord says: "To others it is given to believe on their
-words, that they also might have eternal life if they continue faithful."
-([D&amp;C 46:14](https://www.lds.org/scriptures/dc-
+46:13](/scriptures/dc-testament/dc/46.13?lang=eng#12).) Those who receive that
+gift have the duty to testify of it. We know this because immediately after
+describing the gift of knowing that Jesus Christ is the Son of God, the Lord
+says: "To others it is given to believe on their words, that they also might
+have eternal life if they continue faithful." ([D&amp;C 46:14](/scriptures/dc-
 testament/dc/46.14?lang=eng#13); see also [3 Ne.
-19:28](https://www.lds.org/scriptures/bofm/3-ne/19.28?lang=eng#27).) Those who
-have the gift to know must give their witness so that those who have the gift
-to believe on their words can enjoy the benefit of that gift.
+19:28](/scriptures/bofm/3-ne/19.28?lang=eng#27).) Those who have the gift to
+know must give their witness so that those who have the gift to believe on
+their words can enjoy the benefit of that gift.
 
 Speaking to some of the earliest missionaries of this dispensation, the Lord
 said: "But with some I am not well pleased, for they will not open their
 mouths, but they hide the talent which I have given unto them, because of the
 fear of man. Wo unto such, for mine anger is kindled against them." ([D&amp;C
-60:2](https://www.lds.org/scriptures/dc-testament/dc/60.2?lang=eng#1).)
+60:2](/scriptures/dc-testament/dc/60.2?lang=eng#1).)
 
 In contrast, the Lord gave this great promise to those who were valiant in
 bearing testimony: "For I will forgive you of your sins with this commandment
 --that you remain steadfast ... in bearing testimony to all the world of those
-things which are communicated unto you." ([D&amp;C
-84:61](https://www.lds.org/scriptures/dc-testament/dc/84.61?lang=eng#60).)
+things which are communicated unto you." ([D&amp;C 84:61](/scriptures/dc-
+testament/dc/84.61?lang=eng#60).)
 
 This caution and promise were directed specifically to missionaries, but other
 scriptures suggest that they apply to other members as well.
 
 In his vision of the spirits of the dead, President Joseph F. Smith described
 "the spirits of the just" as those "who had been faithful in the testimony of
-Jesus while they lived in mortality." ([D&amp;C
-138:12](https://www.lds.org/scriptures/dc-testament/dc/138.12?lang=eng#11).)
+Jesus while they lived in mortality." ([D&amp;C 138:12](/scriptures/dc-
+testament/dc/138.12?lang=eng#11).)
 
 In contrast, in his vision of the three degrees of glory, the Prophet Joseph
 Smith described those souls who go to the terrestrial kingdom as the
 "honorable men of the earth," who were "not valiant in the testimony of
-Jesus." ([D&amp;C 76:75, 79](https://www.lds.org/scriptures/dc-
-testament/dc/76.75%2C79?lang=eng#74).)
+Jesus." ([D&amp;C 76:75, 79](/scriptures/dc-
+testament/dc/76.75,79?lang=eng#74).)
 
 What does it mean to be "valiant in the testimony of Jesus"? Surely this
 includes keeping his commandments and serving him. But wouldn't it also
@@ -220,23 +207,19 @@ include bearing witness of Jesus Christ, our Savior and our Redeemer, to
 believers and nonbelievers alike? As the Apostle Peter taught the Saints of
 his day, we should "sanctify the Lord God in [our] hearts: and be ready always
 to give an answer to every man that asketh [us] a reason of the hope that is
-in [us]." ([1 Pet.
-3:15](https://www.lds.org/scriptures/nt/1-pet/3.15?lang=eng#14).)
+in [us]." ([1 Pet. 3:15](/scriptures/nt/1-pet/3.15?lang=eng#14).)
 
 All of us need to be valiant in the testimony of Jesus. As believers in
 Christ, we affirm the truth of Peter's testimony in the name of Jesus Christ
 of Nazareth that "there is none other name under heaven given among men,
-whereby we must be saved." ([Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11); see also
-[D&amp;C 109:4](https://www.lds.org/scriptures/dc-
-testament/dc/109.4?lang=eng#3).) We know from modern revelation that we can
-come unto the Father only in his name. (See [D&amp;C
-93:19](https://www.lds.org/scriptures/dc-testament/dc/93.19?lang=eng#18).) As
-the Book of Mormon teaches, salvation is "in and through the atoning blood of
+whereby we must be saved." ([Acts 4:12](/scriptures/nt/acts/4.12?lang=eng#11);
+see also [D&amp;C 109:4](/scriptures/dc-testament/dc/109.4?lang=eng#3).) We
+know from modern revelation that we can come unto the Father only in his name.
+(See [D&amp;C 93:19](/scriptures/dc-testament/dc/93.19?lang=eng#18).) As the
+Book of Mormon teaches, salvation is "in and through the atoning blood of
 Christ, the Lord Omnipotent." ([Mosiah
-3:18](https://www.lds.org/scriptures/bofm/mosiah/3.18?lang=eng#17); see also
-[Moses 6:52,
-59](https://www.lds.org/scriptures/pgp/moses/6.52%2C59?lang=eng#51).)
+3:18](/scriptures/bofm/mosiah/3.18?lang=eng#17); see also [Moses 6:52,
+59](/scriptures/pgp/moses/6.52,59?lang=eng#51).)
 
 To those who are devoted to the Lord Jesus Christ, I say there has never been
 a greater need for us to profess our faith, privately and publicly.
@@ -302,14 +285,15 @@ of his divine mission, and our determination to serve him.
 
 If we do all of this, we can say, like the Apostle Paul, "I am not ashamed of
 the gospel of Christ: for it is the power of God unto salvation to every one
-that believeth." ([Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).)
+that believeth." ([Rom. 1:16](/scriptures/nt/rom/1.16?lang=eng#15).)
 
 And, we can say, like the prophet Nephi, "We talk of Christ, we rejoice in
 Christ, we preach of Christ, we prophesy of Christ, ... that our children may
 know to what source they may look for a remission of their sins." ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25).)
+25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25).)
 
 I testify of Jesus Christ, the Lord God of Israel, the light and life of the
 world, as I affirm the truth of his gospel, in the name of Jesus Christ, amen.
+
+## References
 

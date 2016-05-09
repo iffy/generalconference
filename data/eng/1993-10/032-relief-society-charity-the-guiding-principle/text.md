@@ -1,4 +1,4 @@
-# Relief Society: Charity, the Guiding Principle
+# Relief Society:Charity, the Guiding Principle
 
 Thank you for that beautiful music. Thank you to those who wrote it and to
 those who performed it. I am grateful for the personal nature of that powerful
@@ -18,16 +18,16 @@ them an integral part of building God's kingdom. Shortly after the founding,
 the Prophet Joseph Smith said, "I now turn the key to you in the name of God
 and this Society shall _rejoice_ and knowledge and intelligence shall flow
 down from this time--this is the beginning of better days to this Society"
-(emphasis added). [1]  In the book _Women of Covenant,_ a recently published
+(emphasis added).[1] In the book _Women of Covenant,_ a recently published
 history of Relief Society, we read that the temporal duties of the Relief
 Society organization would change as contemporary circumstances would require,
 but its spiritual mandate was a _permanent_ mandate. The Prophet Joseph Smith
-said, "Teach the female part of the community ... [and] save souls." [2]  In
-1906, President Joseph F. Smith restated the purpose for us: They (meaning
-Relief Society) should "look after the spiritual welfare and salvation of the
-mothers and daughters of Zion; and to see that none is neglected, but that all
-are guarded against misfortune, calamity, the powers of darkness, and the
-evils that threaten them in the world." [3]
+said, "Teach the female part of the community ... [and] save souls."[2] In 1906,
+President Joseph F. Smith restated the purpose for us: They (meaning Relief
+Society) should "look after the spiritual welfare and salvation of the mothers
+and daughters of Zion; and to see that none is neglected, but that all are
+guarded against misfortune, calamity, the powers of darkness, and the evils
+that threaten them in the world."[3]
 
 When President Elaine Jack was called in 1990, and Chieko Okazaki and I became
 her counselors, we humbly sought to be instruments to augment and multiply
@@ -37,8 +37,7 @@ welfare that Relief Society must not neglect. We centered on Jacob chapter 4,
 verse 13: "For the Spirit speaketh the truth and lieth not. Wherefore, it
 speaketh of things as they really are, and of things as they really will be;
 wherefore, these things are manifested unto us plainly, for the salvation of
-our souls." [[Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12)] We knew
+our souls." [[Jacob 4:13](/scriptures/bofm/jacob/4.13?lang=eng#12)] We knew
 that women struggling to clarify their identities could best do that not by
 comparing themselves to other women but by understanding their important place
 as full and equal partners with men in receiving, in righteousness, the saving
@@ -49,7 +48,7 @@ try to describe an ideal Mormon woman. We would seek instead to teach that
 Christ is our model and that as we are filled with his love, we are his
 disciples. We sought the blessing described in Moroni chapter 7, verse 48,
 that "we shall be like him." [[Moro.
-7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47)]
+7:48](/scriptures/bofm/moro/7.48?lang=eng#47)]
 
 We looked at our organization and we saw that structurally, Relief Society can
 be described today as Sunday lessons, visiting teaching, homemaking meetings,
@@ -77,8 +76,8 @@ others moves us along the way from self-concern, but the selflessness of the
 kind of love that Christ commanded us to learn is a high step indeed. "Bless
 them that curse you, do good to them that hate you, and pray for them who
 despitefully use you" ([3 Ne.
-12:44](https://www.lds.org/scriptures/bofm/3-ne/12.44?lang=eng#43)). He
-_promises_ that as we learn that kind of love, we can become perfect!
+12:44](/scriptures/bofm/3-ne/12.44?lang=eng#43)). He _promises_ that as we
+learn that kind of love, we can become perfect!
 
 I have seen some of that in practice lately. A woman whom I had not met before
 came to my home and recounted her heartbreak at a marriage ruined by deceit
@@ -94,8 +93,7 @@ courage and resolve. In the midst of such trouble, she was steadfast in
 Christ, and her intent was charity. I knew she and her children still had much
 to endure and to work through, but the words from Moroni echoed for us both
 that "whoso is found possessed of [charity] at the last day, it shall be well
-with [her" ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46)). Through her
+with [her" ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46)). Through her
 excruciating experience of sifting for the true nature of love, she was
 literally offering what God requires of each of us, a broken heart and a
 contrite spirit. Her offering was also building in _her_ strength and peace.
@@ -141,9 +139,9 @@ I testify in the name of Jesus Christ, amen.
 
 ## References
 
-  1.  Jill Mulvay Derr, Janath Russell Cannon, Maureen Ursenbach Beecher, _Women of Covenant: The Story of Relief Society _(Salt Lake City, Deseret Book Co., 1992), p. 47.
+  1. Jill Mulvay Derr, Janath Russell Cannon, Maureen Ursenbach Beecher, _Women of Covenant: The Story of Relief Society _(Salt Lake City, Deseret Book Co., 1992), p. 47.
 
-  2.  Ibid., p. 48.
+  2. Ibid., p. 48.
 
-  3.  Ibid.
+  3. Ibid.
 

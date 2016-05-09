@@ -77,7 +77,7 @@ All society, including the adult single members, for whom I have special
 concern, have a vested interest in fathers and mothers and families. Recently,
 Elder Boyd K. Packer said to the single members of the Church, "We talk a lot
 about families. Sometimes in bitterness, you will want to say 'all this talk
-about families, but I don't have a family, and ... ,' stop there! Don't add that
+about families, but I don't have a family, and ..., ' stop there! Don't add that
 extra phrase, 'I wish they would stop talking so much about families.' You
 pray that we do keep talking about families; about fathers and mothers and
 children and family home evening, temple marriage and companionship and all of
@@ -157,7 +157,7 @@ do?" Having turned to the scriptures for the answer to this question,
 President [Marion G.] Romney testifies, "There in the gospel as recorded by
 St. John, I found the clear and certain answer: Jesus would always do the will
 of his Father. 'For I do always those things that please him.'" ([John
-8:29](https://www.lds.org/scriptures/nt/john/8.29?lang=eng#28).)
+8:29](/scriptures/nt/john/8.29?lang=eng#28).)
 
 God bless you children to have listening ears and understanding hearts.
 
@@ -168,7 +168,9 @@ God bless you fathers to be equal to your overwhelming responsibilities and to
 have a father's special caring for each one under your protective arms. "For
 God so loved the world, that he gave his only begotten Son, that whosoever
 believeth in him should not perish, but have everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 That this may be so, I pray, in the name of the Lord, Jesus Christ. Amen.
+
+## References
 

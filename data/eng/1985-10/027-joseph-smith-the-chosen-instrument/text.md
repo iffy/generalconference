@@ -11,7 +11,7 @@ The Lord has said:
 "Verily, verily, I say unto you, as I said unto my disciples, where two or
 three are gathered together in my name, as touching one thing, behold, there
 will I be in the midst of them--even so am I in the midst of you." ([D&amp;C
-6:32](https://www.lds.org/scriptures/dc-testament/dc/6.32?lang=eng#31).)
+6:32](/scriptures/dc-testament/dc/6.32?lang=eng#31).)
 
 We have surely been blessed by the fulfillment of this promise at this great
 conference.
@@ -25,8 +25,8 @@ bore record unto us--
 
 "That he came into the world, even Jesus, to be crucified for the world, and
 to bear the sins of the world, and to sanctify the world, and to cleanse it
-from all unrighteousness." ([D&amp;C 76:40-41](https://www.lds.org/scriptures
-/dc-testament/dc/76.40-41?lang=eng#39).)
+from all unrighteousness." ([D&amp;C 76:40-41](/scriptures/dc-
+testament/dc/76.40-41?lang=eng#39).)
 
 In our day he restored again to earth his gospel and also his authority to
 preach and administer in its saving ordinances.
@@ -46,8 +46,7 @@ his father's name.
 "And his name shall be called after me; and it shall be after the name of his
 father. And he shall be like unto me; for the thing, which the Lord shall
 bring forth by his hand, by the power of the Lord shall bring my people unto
-salvation." ([2 Ne. 3:6,
-14-15](https://www.lds.org/scriptures/bofm/2-ne/3.6%2C14-15?lang=eng#5).)
+salvation." ([2 Ne. 3:6, 14-15](/scriptures/bofm/2-ne/3.6,14-15?lang=eng#5).)
 
 When the Lord wants to change the world, he doesn't send armies or use
 powerful groups.
@@ -105,7 +104,7 @@ these words:
 
 "If any of you lack wisdom, let him ask of God, that giveth to all men
 liberally, and upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 In the Sacred Grove where he went to pray, he did see and he did hear God the
 Father and his Son, Jesus Christ. In answer to his question as to which church
@@ -115,7 +114,7 @@ he should join, he was answered (and I quote his words):
 'they draw near to me with their lips, but their hearts are far from me, they
 teach for doctrines the commandments of men, having a form of godliness, but
 they deny the power thereof.'" ([JS--H
-1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18)).
+1:19](/scriptures/pgp/js-h/1.19?lang=eng#18)).
 
 There is something special about this grove. The feeling, the spirit there is
 different. A hallowed reverence pervades the area.
@@ -149,8 +148,8 @@ The Lord commanded the Saints to go to Ohio. I quote his words:
 
 "Wherefore, for this cause I gave unto you the commandment that ye should go
 to the Ohio; and there I will give unto you my law; and there you shall be
-endowed with power from on high." ([D&amp;C
-38:32](https://www.lds.org/scriptures/dc-testament/dc/38.32?lang=eng#31)).
+endowed with power from on high." ([D&amp;C 38:32](/scriptures/dc-
+testament/dc/38.32?lang=eng#31)).
 
 As I studied the great events which took place in Ohio, I found that many
 marvelous things transpired. There was the incident at the Whitney store as
@@ -197,9 +196,8 @@ manifest myself to my people in mercy in this house. ...
 
 "And the fame of this house shall spread to foreign lands; and this is the
 beginning of the blessing which shall be poured out upon the heads of my
-people. Even so. Amen." ([D&amp;C 110:1-4, 6-7,
-10](https://www.lds.org/scriptures/dc-
-testament/dc/110.1-4%2C6-7%2C10?lang=eng#0)).
+people. Even so. Amen." ([D&amp;C 110:1-4, 6-7, 10](/scriptures/dc-
+testament/dc/110.1-4,6-7,10?lang=eng#0)).
 
 Following this vision, Moses, Elias, and Elijah appeared to Joseph and Oliver,
 to bring keys of the priesthood which are of such great worth to us and to all
@@ -249,4 +247,6 @@ till the purposes of God shall be accomplished, and the Great Jehovah shall
 say the work is done." (_History of the Church,_ 4:540.)
 
 Of this I testify, in the name of Jesus Christ, the Lord, amen.
+
+## References
 

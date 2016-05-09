@@ -56,9 +56,9 @@ _Happy day! All is well!_
 Sometime to each of us will come questions of life and death, purpose and our
 own inevitable parting. All of us have had losses or will have. Perhaps it is
 for this that we are taught "to mourn with those that mourn" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)) and to
-"weep for the loss of them that die" ([D&amp;C
-42:45](https://www.lds.org/scriptures/dc-testament/dc/42.45?lang=eng#44)).
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)) and to "weep for the loss of
+them that die" ([D&amp;C 42:45](/scriptures/dc-
+testament/dc/42.45?lang=eng#44)).
 
 David Macbeth Moir once penned these words:
 
@@ -133,7 +133,7 @@ forgiveness.
 Mormon wrote of other people in another time and place who also were in such a
 state of wickedness. He said, as it might be said today, "Now they did not sin
 ignorantly, for they knew the will of God concerning them" ([3 Ne.
-6:18](https://www.lds.org/scriptures/bofm/3-ne/6.18?lang=eng#17)).
+6:18](/scriptures/bofm/3-ne/6.18?lang=eng#17)).
 
 I have a sweet friend who some time ago found herself in such a state. I do
 not know, nor need I know, what her problem was, but she did summon the
@@ -177,8 +177,7 @@ acknowledge your dependence on the Lord. Let him help and heal you.
 
 As Alma taught us of faith, the desire to believe, to change, can be as a seed
 that will grow, sprout, and bear fruit (see [Alma
-32:27-43](https://www.lds.org/scriptures/bofm/alma/32.27-43?lang=eng#26)). All
-can be well again.
+32:27-43](/scriptures/bofm/alma/32.27-43?lang=eng#26)). All can be well again.
 
 There may be times when we do not understand the "why" of the challenges we
 face, when whatever is happening doesn't seem fair or the people about us seem
@@ -216,32 +215,30 @@ two teenage sons remembered the training they had been given, picked up the
 little ones, and ran from the house. All were safe. And they felt great
 comfort from their ward and neighborhood, who rallied around with food,
 clothing, and offers of help. Such a blessing it is to belong to "the
-household of God" ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18)). No one simply
-turned away or sailed calmly on.
+household of God" ([Eph. 2:19](/scriptures/nt/eph/2.19?lang=eng#18)). No one
+simply turned away or sailed calmly on.
 
 For this family, as for others who experience trials and grief, love and help
 were extended, along with priesthood blessings and the assurance from the
 Father of us all that "blessed are they who are faithful and endure, whether
 in life or in death, for they shall inherit eternal life" ([D&amp;C
-50:5](https://www.lds.org/scriptures/dc-testament/dc/50.5?lang=eng#4)). They
-have the same promise given to Joseph that "thine adversity and thine
-afflictions shall be but a ... moment" ([D&amp;C
-121:7](https://www.lds.org/scriptures/dc-testament/dc/121.7?lang=eng#6)).
+50:5](/scriptures/dc-testament/dc/50.5?lang=eng#4)). They have the same
+promise given to Joseph that "thine adversity and thine afflictions shall be
+but a ... moment" ([D&amp;C 121:7](/scriptures/dc-
+testament/dc/121.7?lang=eng#6)).
 
 May we never be indifferent, sisters, to the suffering of others. May we be
 sensitive to those about us who are hurting for whatever reason.
 
 May we, when the trials are our own, look up with "a perfect brightness of
-hope" ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19)) in the
-Lord Jesus Christ and say, as did Paul:
+hope" ([2 Ne. 31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19)) in the Lord
+Jesus Christ and say, as did Paul:
 
 "We are troubled on every side, yet not distressed; we are perplexed, but not
 in despair;
 
 "Persecuted, but not forsaken; cast down, but not destroyed" ([2 Cor.
-4:8](https://www.lds.org/scriptures/nt/2-cor/4.8?lang=eng#7)).
+4:8](/scriptures/nt/2-cor/4.8?lang=eng#7)).
 
 Death and adversity come to us all, but so does life everlasting!
 
@@ -253,4 +250,6 @@ I bear you my testimony that the gospel is true, that we are led today by a
 prophet and by the priesthood of God. May we heed their counsel as we meet our
 personal challenges and help others to do so, I pray in the name of Jesus
 Christ, amen.
+
+## References
 

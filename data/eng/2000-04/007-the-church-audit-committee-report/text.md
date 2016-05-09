@@ -1,0 +1,49 @@
+# The Church Audit Committee Report
+
+_To the First Presidency of The Church of Jesus Christ of Latter-day Saints_
+
+Dear Brethren: The Church Audit Committee consists of three members who are
+independent of all Church officers, employees, departments, and Church-
+affiliated organizations. We report directly to the First Presidency and have
+access to Church records and personnel necessary to perform our
+responsibilities.
+
+The Church Auditing Department is separate and independent from the Church
+Audit Committee. This department performs internal audits of worldwide Church
+operations and audits the various financial statements of the Church in
+accordance with recognized professional auditing standards. It also monitors
+contributions and expenditures of local ecclesiastical units.
+
+The Church Audit Committee has reviewed the controls over contributions and
+expenditures of Church funds that safeguard assets of the Church. We have also
+reviewed budgeting, accounting and reporting, and auditing systems for the
+year ended 31 December 1999. Expenditures of Church funds for 1999 were
+authorized by the Council on the Disposition of the Tithes according to
+written policies. This Council is composed of the First Presidency, the Quorum
+of the Twelve Apostles, and the Presiding Bishopric, as prescribed under
+revelation. Administration of approved budgets is controlled through the
+Budget Department under direction of the Appropriation and Budget Committees.
+
+Based on our review of financial, budgeting, and other controls and our review
+of Church audit reports for 1999 and responses thereto, the Church Audit
+Committee is of the opinion that, in all material respects, Church
+contributions received and expended during the year ended 31 December 1999
+have been managed in accordance with revelation and established Church
+policies and procedures.
+
+Church-affiliated organizations, including Deseret Trust Company and Deseret
+Management Corporation and its subsidiaries, are operated separately from the
+Church. The financial activities of these affiliated organizations were not
+reviewed by the Church Audit Committee in 1999. However, we have verified that
+these organizations, as well as Brigham Young University and other
+institutions of higher education, are being audited annually by independent
+public accounting firms.
+
+Respectfully submitted,
+
+CHURCH AUDIT COMMITTEE
+
+Frank M. McCord
+
+## References
+

@@ -189,3 +189,5 @@ striving together in righteousness, we of all people have reason to take heart
 and rejoice. With our eyes fixed on heaven, we'll watch the Red Sea part. In
 the name of Jesus Christ, amen.
 
+## References
+

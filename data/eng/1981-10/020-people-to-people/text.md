@@ -40,7 +40,7 @@ give you rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 He did not limit or say "all who are perfect come unto me" or just the rich,
 or just the poor, or just the healthy, or those without sin, or those who pray
@@ -50,7 +50,7 @@ that labour and are heavy laden, and I will give you rest," comfort, peace;
 
 His plea to all is to love God, love His children, keep His commandments, and
 believe that Jesus is the Christ, born of God. (See [1 Jn.
-5:1-3](https://www.lds.org/scriptures/nt/1-jn/5.1-3?lang=eng#0).)
+5:1-3](/scriptures/nt/1-jn/5.1-3?lang=eng#0).)
 
 Some who accepted the teachings of the Savior and were baptized into His
 Church are now temporarily lost from the fold, some through their own
@@ -70,7 +70,7 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world." ([Matt.
-28:18-20](https://www.lds.org/scriptures/nt/matt/28.18-20?lang=eng#17).)
+28:18-20](/scriptures/nt/matt/28.18-20?lang=eng#17).)
 
 Those final instructions were not only to find and baptize, but to teach. The
 future of the disciples was now clear--as with the Church and its members
@@ -90,7 +90,7 @@ the Pharisees, who believed sinners should not be guests in their houses.
 
 Christ rebuked their unkindliness, saying, "They that be whole need not a
 physician, but they that are sick." ([Matt.
-9:12](https://www.lds.org/scriptures/nt/matt/9.12?lang=eng#11).)
+9:12](/scriptures/nt/matt/9.12?lang=eng#11).)
 
 His enemies complained that Jesus mingled and ate with sinners, but Jesus
 justified His ways and taught more clearly the purpose of God's love toward
@@ -105,7 +105,7 @@ that sheep, than of the ninety and nine which went not astray.
 
 "Even so it is not the will of your Father which is in heaven, that one of
 these little ones should perish." ([Matt.
-18:12-14](https://www.lds.org/scriptures/nt/matt/18.12-14?lang=eng#11).)
+18:12-14](/scriptures/nt/matt/18.12-14?lang=eng#11).)
 
 And then He continued, "And when he cometh home, he calleth together his
 friends and neighbours, saying unto them, Rejoice with me; for I have found my
@@ -113,8 +113,7 @@ sheep which was lost.
 
 "I say unto you, that likewise joy shall be in heaven over one sinner that
 repenteth, more than over ninety and nine just persons, which need no
-repentance." ([Luke
-15:6-7](https://www.lds.org/scriptures/nt/luke/15.6-7?lang=eng#5).)
+repentance." ([Luke 15:6-7](/scriptures/nt/luke/15.6-7?lang=eng#5).)
 
 Michael Duffy related: "I didn't catch their names or pay much attention to
 what they were saying, except they were from the Mormon Church. Somehow they
@@ -156,7 +155,7 @@ The Prophet Ezekiel warned: "Ye feed not the flock.
 "The diseased have ye not strengthened, neither have ye healed that which was
 sick, neither have ye bound up that which was broken, neither have ye brought
 again that which was driven away, neither have ye sought that which was lost."
-([Ezek. 34:3-4](https://www.lds.org/scriptures/ot/ezek/34.3-4?lang=eng#2).)
+([Ezek. 34:3-4](/scriptures/ot/ezek/34.3-4?lang=eng#2).)
 
 Driving to the Los Angeles Airport with a busy radio executive, I learned that
 he and his wife, though born in the Church, had never participated. Their
@@ -197,11 +196,11 @@ He said, "I found myself working on our new chapel and then one day quietly
 telling the bishop, 'I'm ready, now. You can call on me to pray.'"
 
 The Savior taught Peter, "When thou art converted, strengthen thy brethren."
-([Luke 22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).)
+([Luke 22:32](/scriptures/nt/luke/22.32?lang=eng#31).)
 
 Souls are committed to the care of the Church--to watch over and keep them in
 the right way, to remember their names and nourish them. (See [Moro.
-6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3).)
+6:4](/scriptures/bofm/moro/6.4?lang=eng#3).)
 
 An older couple living in a little Mormon community in Idaho had been members
 of the Church all their lives. The husband was eighty-six years old and his
@@ -227,8 +226,8 @@ replaced with fame or money or worldly pleasures.
 The Savior placed a little child in the midst of the disciples and taught that
 they must become as little children in order to enter into the kingdom of
 heaven. He said, "For the Son of man is come to save that which was lost"
-([Matt. 18:11](https://www.lds.org/scriptures/nt/matt/18.11?lang=eng#10)), and
-to call all sinners to repentance.
+([Matt. 18:11](/scriptures/nt/matt/18.11?lang=eng#10)), and to call all
+sinners to repentance.
 
 Michael Weir said:
 
@@ -273,7 +272,7 @@ him. ...
 "Hath he commanded any that they should not partake of his salvation? ... Nay;
 but ... hath given it free for all men; and ... hath commanded his people that
 they should persuade all men to repentance." ([2 Ne. 26:23-25,
-27](https://www.lds.org/scriptures/bofm/2-ne/26.23-25%2C27?lang=eng#22).)
+27](/scriptures/bofm/2-ne/26.23-25,27?lang=eng#22).)
 
 We are his people. God expects us to find, teach, and recover those whose
 strings may need tuning. May we be directed by the pure love of Christ to
@@ -281,4 +280,6 @@ sound for them the perfect note of an "A."
 
 God lives. Jesus is the Christ. This is His work, to which I testify, in the
 name of Jesus Christ, amen.
+
+## References
 

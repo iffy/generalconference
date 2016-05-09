@@ -22,8 +22,7 @@ in the celestial kingdom.
 Our temporal preparation consists in using the good earth in the way the Lord
 designed and intended so as to supply all our just wants and needs. It is his
 purpose to provide for his Saints for all things are his, but, he says, it
-must needs be done in his own way. (See [D&amp;C
-104:14-18](https://www.lds.org/scriptures/dc-
+must needs be done in his own way. (See [D&amp;C 104:14-18](/scriptures/dc-
 testament/dc/104.14-18?lang=eng#13).)
 
 There is a common axiom among us which states: A religion that cannot save a
@@ -33,11 +32,10 @@ things in the world to come?
 
 Thus, speaking of temporal things--of lands and houses and crops, of work and
 sweat and toil, of the man Adam eating his bread in the sweat of his face (see
-[Gen. 3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18))--the Lord
-says: "If you will that I give unto you a place in the celestial world, you
-must prepare yourselves by doing the things which I have commanded you and
-required of you" ([D&amp;C 78:7](https://www.lds.org/scriptures/dc-
-testament/dc/78.7?lang=eng#6)).
+[Gen. 3:19](/scriptures/ot/gen/3.19?lang=eng#18))--the Lord says: "If you will
+that I give unto you a place in the celestial world, you must prepare
+yourselves by doing the things which I have commanded you and required of you"
+([D&amp;C 78:7](/scriptures/dc-testament/dc/78.7?lang=eng#6)).
 
 Then he commands both the Church and its members "to prepare and organize"
 their temporal affairs according to the law of his gospel, "that through my
@@ -46,9 +44,8 @@ descend upon you, that the church may stand independent above all other
 creatures beneath the celestial world;
 
 "That you may come up unto the crown prepared for you, and be made rulers over
-many kingdoms, saith the Lord God" ([D&amp;C 78:11,
-14-15](https://www.lds.org/scriptures/dc-
-testament/dc/78.11%2C14-15?lang=eng#10)).
+many kingdoms, saith the Lord God" ([D&amp;C 78:11, 14-15](/scriptures/dc-
+testament/dc/78.11,14-15?lang=eng#10)).
 
 The Church, which administers the gospel, and the Saints who have received the
 gospel, must be independent of all the powers of earth, as they work out their
@@ -70,10 +67,10 @@ and the crops of the earth shall wither and die.
 There will be plagues and pestilence and disease and death. An overflowing
 scourge shall cover the earth and a desolating sickness shall sweep the land.
 Flies shall take hold of the inhabitants of the earth, and maggots shall come
-in upon them. (See [D&amp;C 29:14-20](https://www.lds.org/scriptures/dc-
+in upon them. (See [D&amp;C 29:14-20](/scriptures/dc-
 testament/dc/29.14-20?lang=eng#13).) "Their flesh shall fall from off their
-bones, and their eyes from their sockets" ([D&amp;C
-29:19](https://www.lds.org/scriptures/dc-testament/dc/29.19?lang=eng#18)).
+bones, and their eyes from their sockets" ([D&amp;C 29:19](/scriptures/dc-
+testament/dc/29.19?lang=eng#18)).
 
 Bands of Gadianton robbers will infest every nation, immorality and murder and
 crime will increase, and it will seem as though every man's hand is against
@@ -104,11 +101,10 @@ to overcome carnality and worldliness of every sort and shall invite all men
 to flee from Babylon, join with us, and live as becometh Saints.
 
 As the Saints of the Most High we shall strive to "stand independent above all
-other creatures beneath the celestial world" ([D&amp;C
-78:14](https://www.lds.org/scriptures/dc-testament/dc/78.14?lang=eng#13)). Our
-only hope is to free ourselves from the bondage of sin, to rid ourselves from
-the chains of darkness, to rise above the world, to live godly and upright
-lives.
+other creatures beneath the celestial world" ([D&amp;C 78:14](/scriptures/dc-
+testament/dc/78.14?lang=eng#13)). Our only hope is to free ourselves from the
+bondage of sin, to rid ourselves from the chains of darkness, to rise above
+the world, to live godly and upright lives.
 
 Relying always on the Lord, we must become independent of the world. We must
 be self-reliant. Using the agency God has given us, we must work out our own
@@ -154,19 +150,18 @@ He rained manna from heaven upon all Israel, six days each week for forty
 years, lest they perish for want of bread, but the manna ceased on the morrow
 after they ate of the parched corn of Canaan. Then they were required to
 supply their own food. (See [Ex. 16:3-4,
-35](https://www.lds.org/scriptures/ot/ex/16.3-4%2C35?lang=eng#2).)
+35](/scriptures/ot/ex/16.3-4,35?lang=eng#2).)
 
 During forty years in the wilderness the clothes worn by all Israel waxed not
 old and their shoes wore not out, but when they entered their promised land,
 then the Lord required them to provide their own wearing apparel. (See [Deut.
-29:5](https://www.lds.org/scriptures/ot/deut/29.5?lang=eng#4).)
+29:5](/scriptures/ot/deut/29.5?lang=eng#4).)
 
 When there was a famine in the land, at Elijah's word, a certain barrel of
 meal did not waste, and a certain cruse of oil did not fail, until the Lord
 sent again rain on the earth. And it is worthy of note, as Jesus said, that
 though there were many widows in Israel, unto one only was Elijah sent. (See
-[1 Kgs.
-17:10-16](https://www.lds.org/scriptures/ot/1-kgs/17.10-16?lang=eng#9).)
+[1 Kgs. 17:10-16](/scriptures/ot/1-kgs/17.10-16?lang=eng#9).)
 
 We do not say that all of the Saints will be spared and saved from the coming
 day of desolation. But we do say there is no promise of safety and no promise
@@ -191,8 +186,7 @@ have commanded her," saith the Lord.
 "But if she observe not to do whatsoever I have commanded her, I will visit
 her according to all her works, with sore affliction, with pestilence, with
 plague, with sword, with vengeance, with devouring fire." ([D&amp;C 97:23,
-25-26](https://www.lds.org/scriptures/dc-
-testament/dc/97.23%2C25-26?lang=eng#22).)
+25-26](/scriptures/dc-testament/dc/97.23,25-26?lang=eng#22).)
 
 O God, our Father, wilt thou grant us peace and security and safety in the
 days of tribulation that shall come like a whirlwind upon all the earth.
@@ -206,4 +200,6 @@ wilt thou save us with an everlasting salvation in thy kingdom--for all of
 which we pray.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

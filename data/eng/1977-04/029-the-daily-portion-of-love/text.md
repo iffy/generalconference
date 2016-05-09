@@ -82,7 +82,7 @@ spoken of by our fathers, he being an enemy to all righteousness.
 
 "But ye will teach them to walk in the ways of truth and soberness; ye will
 teach them to love one another, and to serve one another." ([Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
+4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
 
 May I suggest that parents' teachings will be listened to more intently and be
 more closely heeded if they are preceded by and woven together with that
@@ -97,12 +97,12 @@ waiting for the other to give some expression first, please listen to this.
 One of the most effective secrets for happiness is contained in the fourth
 chapter of 1 John, verse 19. It is only eight words long--listen carefully:
 "We love him, because he first loved us." [[1 Jn.
-4:19](https://www.lds.org/scriptures/nt/1-jn/4.19?lang=eng#18)] This will
-cause a change to happen because it is right. Do you get the message? "He
-first loved us." Your children will love you; your brothers and sisters will
-love you; your eternal companion will love you--because you first loved them.
-Now I don't mean it will all happen in a day, a week, or a year. But it will
-happen if you do not give up.
+4:19](/scriptures/nt/1-jn/4.19?lang=eng#18)] This will cause a change to
+happen because it is right. Do you get the message? "He first loved us." Your
+children will love you; your brothers and sisters will love you; your eternal
+companion will love you--because you first loved them. Now I don't mean it
+will all happen in a day, a week, or a year. But it will happen if you do not
+give up.
 
 If you haven't been in the habit of expressing your love regularly, start out
 easily--maybe only as much as an eye-dropper or two at first. At the beginning
@@ -130,8 +130,7 @@ He told us, as we read in John: "A new commandment I give unto you, That ye
 love one another; as I have loved you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33).)
+another." ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33).)
 
 We can all be his disciples.
 
@@ -146,4 +145,6 @@ If it comes from the heart, it will work, brothers and sisters. It will bring
 peace and happiness to a troubled soul. Please try again ... and again ... and
 again. I know he who set this pattern lives. I know Jesus is the Christ. Of
 this I testify in the name of Jesus Christ. Amen.
+
+## References
 

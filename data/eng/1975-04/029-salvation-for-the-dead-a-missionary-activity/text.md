@@ -6,8 +6,8 @@ about a challenging concept of the priesthood missionary work.
 One thing we often fail to realize is that our priesthood comes to us through
 the lineage of our fathers and mothers. The Lord explained it in these words:
 "Therefore, thus saith the Lord unto you, with whom the priesthood hath
-continued through the lineage of your fathers. ..." ([D&amp;C
-86:8](https://www.lds.org/scriptures/dc-testament/dc/86.8?lang=eng#7).)
+continued through the lineage of your fathers. ..." ([D&amp;C 86:8](/scriptures
+/dc-testament/dc/86.8?lang=eng#7).)
 
 "Oh," I can hear some of you say, "there must be something wrong with that
 statement, for I am the only member of my family who has joined the Church.
@@ -18,14 +18,14 @@ authority. He was talking about your inherited right to receive and use
 priesthood power. This readiness to listen and believe is an inherited gift
 which enabled you to recognize and accept the truth. Jesus explained this
 thought as he said: "My sheep hear my voice, and I know them, and they follow
-me." ([John 10:27](https://www.lds.org/scriptures/nt/john/10.27?lang=eng#26).)
+me." ([John 10:27](/scriptures/nt/john/10.27?lang=eng#26).)
 
 That spirit of acceptance is a manifestation of your inherited right to
 priesthood blessings. Such willingness to believe does not represent
 predestination, but it does represent foreordination. The Lord continues the
 revelation: "For ye are lawful heirs, according to the flesh, and have been
-hid from the world with Christ in God." ([D&amp;C
-86:9](https://www.lds.org/scriptures/dc-testament/dc/86.9?lang=eng#8).)
+hid from the world with Christ in God." ([D&amp;C 86:9](/scriptures/dc-
+testament/dc/86.9?lang=eng#8).)
 
 This means we receive a right to priesthood blessings from our blood ancestry.
 I hope you can understand that priesthood with its accompanying blessings is
@@ -43,7 +43,7 @@ with all spiritual blessings in heavenly places in Christ:
 
 "According as he hath chosen us in him before the foundation of the world,
 that we should be holy and without blame before him in love." ([Eph.
-1:3-4](https://www.lds.org/scriptures/nt/eph/1.3-4?lang=eng#2).)
+1:3-4](/scriptures/nt/eph/1.3-4?lang=eng#2).)
 
 He then further explained to the Ephesian saints:
 
@@ -52,7 +52,7 @@ one all things in Christ, both which are in heaven, and which are on earth;
 even in him:
 
 "In whom also we have obtained an inheritance." ([Eph.
-1:10-11](https://www.lds.org/scriptures/nt/eph/1.10-11?lang=eng#9).)
+1:10-11](/scriptures/nt/eph/1.10-11?lang=eng#9).)
 
 From the time the earth was originally planned, God the Eternal Father knew
 that in the last days Satan would become desperate. As the second coming of
@@ -75,7 +75,7 @@ finest men ever to be born on the earth. You are an elect generation, a royal
 priesthood. As Peter expressed it, "Ye are a chosen generation, a royal
 priesthood, an holy nation, a peculiar people; that ye should shew forth the
 praises of him who hath called you out of darkness into his marvellous light."
-([1 Pet. 2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).)
+([1 Pet. 2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).)
 
 This birthright is only possible for you because you have the finest fathers
 and mothers ever given to any generation. Alma, referring to men who receive
@@ -89,8 +89,7 @@ and works you demonstrated while you were still in the premortal world]; in
 the first place being left to choose good or evil; therefore they having
 chosen good, and exercising exceeding great faith, are called with a holy
 calling ... which was prepared with, and according to, a preparatory redemption
-for such." ([Alma
-13:3](https://www.lds.org/scriptures/bofm/alma/13.3?lang=eng#2).)
+for such." ([Alma 13:3](/scriptures/bofm/alma/13.3?lang=eng#2).)
 
 Thus, you and your fathers were reserved to be born at a time and in a place
 where you could not fail to hear the gospel preached and accept the holy
@@ -102,8 +101,8 @@ priesthood?" The Lord himself answers that question in the following words,
 continuing from the Doctrine and Covenants: "Therefore your life and the
 priesthood have remained, and must needs remain through you and your lineage
 until the restoration of all things spoken by the mouths of all the holy
-prophets since the world began." ([D&amp;C
-86:10](https://www.lds.org/scriptures/dc-testament/dc/86.10?lang=eng#9).)
+prophets since the world began." ([D&amp;C 86:10](/scriptures/dc-
+testament/dc/86.10?lang=eng#9).)
 
 What _were_ those things spoken by the mouths of all the holy prophets since
 the world began? Why, they were those promises made to the fathers or
@@ -128,7 +127,7 @@ bring you to Zion:
 
 "And I will give you pastors according to mine heart, which shall feed you
 with knowledge and understanding." ([Jer.
-3:14-15](https://www.lds.org/scriptures/ot/jer/3.14-15?lang=eng#13).)
+3:14-15](/scriptures/ot/jer/3.14-15?lang=eng#13).)
 
 Everybody knows that more people live in a city than live in a family. Why
 then didn't the Lord say two of a city and one of a family? It was because of
@@ -139,7 +138,7 @@ Now the Lord concludes the revelation with these inspiring and challenging
 words of instruction and promise: "Therefore, blessed are ye if ye continue in
 my goodness, a light unto the Gentiles, and through this priesthood, a savior
 unto my people Israel. The Lord hath said it. Amen." ([D&amp;C
-86:11](https://www.lds.org/scriptures/dc-testament/dc/86.11?lang=eng#10).)
+86:11](/scriptures/dc-testament/dc/86.11?lang=eng#10).)
 
 In this final verse the Lord reminds us of two things. First, he reminds us of
 our responsibility to do missionary work here on the earth. Second, he informs
@@ -230,9 +229,10 @@ So, my brethren of the priesthood, the time has come for all of us to become
 more knowledgeable of our personal responsibilities to be saviors on Mount
 Zion. I repeat the statement Jesus made to Peter when he said: "When thou art
 converted, strengthen thy brethren." ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).) I testify
-that the work for the salvation of our kindred dead is a personal
-responsibility for everyone who holds the priesthood. Salvation for the dead
-is a divine activity, of which I bear my witness in the name of Jesus Christ.
-Amen.
+22:32](/scriptures/nt/luke/22.32?lang=eng#31).) I testify that the work for
+the salvation of our kindred dead is a personal responsibility for everyone
+who holds the priesthood. Salvation for the dead is a divine activity, of
+which I bear my witness in the name of Jesus Christ. Amen.
+
+## References
 

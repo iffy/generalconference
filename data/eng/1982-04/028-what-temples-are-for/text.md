@@ -22,7 +22,7 @@ the hills; and all nations shall flow unto it.
 of the Lord, to the house of the God of Jacob; and he will teach us of his
 ways, and we will walk in his paths: for out of Zion shall go forth the law,
 and the word of the Lord from Jerusalem." ([Isa.
-2:2-3](https://www.lds.org/scriptures/ot/isa/2.2-3?lang=eng#1).)
+2:2-3](/scriptures/ot/isa/2.2-3?lang=eng#1).)
 
 The meaning, depth, and power of that expression can only be perceived by
 those who know about temples.
@@ -40,17 +40,12 @@ I think it will serve a purpose, however, to mention some generalizations and
 misconceptions about temples which have developed which show a less than
 perfect understanding. For example, it is sometimes said:
 
-  1. My genealogy has all been done.
-
-  2. Computers and the name extraction will do the work for me.
-
-  3. Temple work is for the dead.
-
-  4. Temple work is for old people.
-
-  5. We go to the temple to do a name.
-
-  6. Going to the temple is optional.
+  1. My genealogy has all been done. 
+  2. Computers and the name extraction will do the work for me. 
+  3. Temple work is for the dead. 
+  4. Temple work is for old people. 
+  5. We go to the temple to do a name. 
+  6. Going to the temple is optional. 
 
 As we study the scriptures, we learn that the doctrine of the temple requires
 the following of the Latter-day Saints:
@@ -71,21 +66,20 @@ First: _Temples are for the living members of the Church._ Going to the temple
 is _not_ optional. Temples are "a place of instruction for all those who are
 called to the work of the ministry ... that they may be perfected in [their]
 understanding ... in all things pertaining to the kingdom of God on the earth."
-([D&amp;C 97:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/97.13-14?lang=eng#12).) "Therefore, verily I say unto you, that
-your anointings, and your washings, ... your solemn assemblies, ... and ... your
-oracles in your most holy places ... [are] for the glory, honor, and endowment
-of [Zion's] municipals [or in other words, her citizens, and] are ordained by
-the ordinance of my holy house, which my people are always commanded to build
-unto my holy name." ([D&amp;C 124:39](https://www.lds.org/scriptures/dc-
-testament/dc/124.39?lang=eng#38).)
+([D&amp;C 97:13-14](/scriptures/dc-testament/dc/97.13-14?lang=eng#12).)
+"Therefore, verily I say unto you, that your anointings, and your washings, ...
+your solemn assemblies, ... and ... your oracles in your most holy places ... [are]
+for the glory, honor, and endowment of [Zion's] municipals [or in other words,
+her citizens, and] are ordained by the ordinance of my holy house, which my
+people are always commanded to build unto my holy name." ([D&amp;C
+124:39](/scriptures/dc-testament/dc/124.39?lang=eng#38).)
 
 The endowment in the temple is a necessary and sacred blessing as essential
 for the members of the Church as baptism. Thereafter come the sealings of
 wives to their husbands and of children to their parents. Without these
 blessings there is no fulness of the gospel. Without them, said Moroni, the
-"earth would be utterly wasted at his coming." ([D&amp;C
-2:3](https://www.lds.org/scriptures/dc-testament/dc/2.3?lang=eng#2).)
+"earth would be utterly wasted at his coming." ([D&amp;C 2:3](/scriptures/dc-
+testament/dc/2.3?lang=eng#2).)
 
 Countless families in distant areas have never had this privilege. Even in
 areas where temples have been established for generations, half of the
@@ -95,15 +89,12 @@ members of the Church._
 Second: _Temple work is for the redemption of the dead._ The scriptures and
 the doctrine, however, refer more specifically to a particular group of the
 dead. Malachi spoke about "binding" fathers to children and children to
-fathers. (See [Mal.
-4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5).) Joseph Smith
+fathers. (See [Mal. 4:6](/scriptures/ot/mal/4.6?lang=eng#5).) Joseph Smith
 emphasized temple blessings for our _kindred_ dead, _our_ dead. (See [D&amp;C
-124:32-36](https://www.lds.org/scriptures/dc-
-testament/dc/124.32-36?lang=eng#31), [D&amp;C
-127:5-6](https://www.lds.org/scriptures/dc-testament/dc/127.5-6?lang=eng#4);
-[D&amp;C 128:8, 14-15](https://www.lds.org/scriptures/dc-
-testament/dc/128.8%2C14-15?lang=eng#7).) The emphasis is on the family. The
-priority is to seek out our own deceased relatives.
+124:32-36](/scriptures/dc-testament/dc/124.32-36?lang=eng#31), [D&amp;C
+127:5-6](/scriptures/dc-testament/dc/127.5-6?lang=eng#4); [D&amp;C 128:8,
+14-15](/scriptures/dc-testament/dc/128.8,14-15?lang=eng#7).) The emphasis is
+on the family. The priority is to seek out our own deceased relatives.
 
 _Your genealogy has not all been done._ My own grandparents performed "all"
 the temple work for their deceased relatives fifty-five years ago. Since that
@@ -179,4 +170,6 @@ else can help, and those lacking that knowledge ought not yet to go.
 May God bless this people to embrace the blessings and perform the sacred
 service provided in the temples, is my sincere prayer in the name of Jesus
 Christ, amen.
+
+## References
 

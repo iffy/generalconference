@@ -29,9 +29,8 @@ who were personal witnesses.
 The New Testament writers tell us the Savior took with Him the three dearest
 and most enlightened of His apostles and went up a lofty mountain--Luke says
 simply "a mountain" (see [Luke
-9:28](https://www.lds.org/scriptures/nt/luke/9.28?lang=eng#27))--to find a
-secluded spot where He could kneel in prayer and prepare for the events soon
-to come.
+9:28](/scriptures/nt/luke/9.28?lang=eng#27))--to find a secluded spot where He
+could kneel in prayer and prepare for the events soon to come.
 
 It must have been early evening when the Savior ascended the mountain with
 those three chosen witnesses--James and John, known as the "sons of thunder,"
@@ -70,14 +69,14 @@ As the vision began to fade, Peter, the account says, spoke the first thoughts
 that came to his mind, and, apparently anxious to delay the departure of the
 heavenly visitors, said: "Master, it is good for us to be here: and let us
 make three tabernacles; one for thee and one for Moses, and one for Elias."
-([Luke 9:33](https://www.lds.org/scriptures/nt/luke/9.33?lang=eng#32).)
+([Luke 9:33](/scriptures/nt/luke/9.33?lang=eng#32).)
 
 They may have been surprised at the inappropriate proposal made by the eager
 Peter, who would yet learn the meaning of the night's events. But even as
 Peter spoke, a bright cloud of brilliant light overshadowed Jesus and his
 heavenly visitors, Moses and Elijah, and also the three apostles; and a voice
 was heard: "This is my beloved Son: hear him." ([Luke
-9:35](https://www.lds.org/scriptures/nt/luke/9.35?lang=eng#34).)
+9:35](/scriptures/nt/luke/9.35?lang=eng#34).)
 
 The three apostles fell prostrate and hid their faces. How long it was before
 Jesus came to them and touched them is not clear from the account; but when
@@ -88,8 +87,7 @@ with Jesus. Now only the light from the stars was on the mountain slopes.
 After such an experience, the apostles may have hesitated to rise; but Jesus,
 now appearing as they had seen Him before He knelt in prayer, touched them
 saying, "Arise, and be not afraid." ([Matt.
-17:7](https://www.lds.org/scriptures/nt/matt/17.7?lang=eng#6).) He was their
-dear friend.
+17:7](/scriptures/nt/matt/17.7?lang=eng#6).) He was their dear friend.
 
 The day was probably dawning as they descended the mountain. Jesus instructed
 them to tell no man until He had risen from the dead. The vision was for them;
@@ -111,19 +109,18 @@ resurrection, teachings that would strengthen each of them in the eventful
 days ahead.
 
 Testifying later, John said, "We beheld his glory, the glory as of the only
-begotten of the Father" ([John
-1:14](https://www.lds.org/scriptures/nt/john/1.14?lang=eng#13)); and the
-apostle Peter, speaking of this personal experience, wrote: "For we have not
-followed cunningly devised fables, when we made known unto you the power and
-coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
+begotten of the Father" ([John 1:14](/scriptures/nt/john/1.14?lang=eng#13));
+and the apostle Peter, speaking of this personal experience, wrote: "For we
+have not followed cunningly devised fables, when we made known unto you the
+power and coming of our Lord Jesus Christ, but were eyewitnesses of his
+majesty.
 
 "For he received from God the Father honour and glory, when there came such a
 voice to him from the excellent glory, This is my beloved Son, in whom I am
 well pleased.
 
 "And this voice which came from heaven we heard, when we were with him in the
-holy mount." ([2 Pet.
-1:16-18](https://www.lds.org/scriptures/nt/2-pet/1.16-18?lang=eng#15).)
+holy mount." ([2 Pet. 1:16-18](/scriptures/nt/2-pet/1.16-18?lang=eng#15).)
 
 Peter, James, and John--they alone beheld the glory and majesty of the
 transfigured Jesus and undoubtedly received the keys of the kingdom. These
@@ -172,8 +169,7 @@ stood before us, and said: ...
 "Therefore, the keys of this dispensation are committed into your hands; and
 by this ye may know that the great and dreadful day of the Lord is near, even
 at the doors." (D&amp;C 110: Chapter heading; [D&amp;C 110:1-2, 4, 11-13,
-16.)](https://www.lds.org/scriptures/dc-
-testament/dc/110.1-2%2C4%2C11-13%2C16?lang=eng#0)
+16.)](/scriptures/dc-testament/dc/110.1-2,4,11-13,16?lang=eng#0)
 
 The divine keys, power, and authority were committed by heavenly messengers to
 Joseph Smith in this the dispensation of the fulness of times. Those keys--the
@@ -187,4 +183,6 @@ divine message which we have to offer to all mankind.
 I testify in all sincerity to the truth of these things, in the name of Him
 whom we honor, worship, and love as our Savior and Redeemer, Jesus the Christ.
 In His holy name, amen.
+
+## References
 

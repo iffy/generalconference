@@ -31,36 +31,35 @@ that the teachings and life of the Master seem to you all to be more
 beautiful, more necessary, and more applicable to human happiness than ever
 before. ... Accepting him as my Redeemer, Savior, and Lord, I accept his gospel
 as the plan of salvation, as the one perfect way to human happiness and
-peace." [1]
+peace."[1]
 
 President Joseph Fielding Smith for whom President Benson had such great love,
 said as he concluded a conference: "Now I pray that our Father in heaven will
 bless his people--bless them abundantly and in full measure. I pray that the
 Saints shall stand firm against the pressures and enticements of the world;
 that they shall put first in their lives the things of God's kingdom; that
-they shall be true to every trust and keep every covenant." [2]
+they shall be true to every trust and keep every covenant."[2]
 
 President Harold B. Lee, boyhood friend and companion, and later esteemed
 associate of President Benson in the Lord's work, declared: "I can't leave
 this conference without saying to you that I have a conviction that the Master
 hasn't been absent from us on these occasions. This is his church. ... He isn't
 an absentee master; he is concerned about us. He wants us to follow where he
-leads." [3]
+leads."[3]
 
 President Spencer W. Kimball, who was sustained as an Apostle and member of
 the Council of the Twelve at the same time as President Benson, closed a
 general conference by saying: "As each one of these wonderful sermons has been
 rendered I've listened with [rapt] attention, and I have made up my mind that
-I shall go home and be a [better] man than I have ever been before." [4]
+I shall go home and be a [better] man than I have ever been before."[4]
 
 President Benson, these have been declarations from four of your associates
 who have been an ongoing influence in your life. You, yourself, have said in a
 similar close of a conference: "May we all go to our homes rededicated to the
 sacred mission of the Church as so beautifully set forth in these conference
-sessions--to 'invite all to come unto Christ,' ([D&amp;C
-20:59](https://www.lds.org/scriptures/dc-testament/dc/20.59?lang=eng#58))
-'yea, come unto Christ, and be perfected in him' ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31))." [5]
+sessions--to 'invite all to come unto Christ,' ([D&amp;C 20:59](/scriptures
+/dc-testament/dc/20.59?lang=eng#58)) 'yea, come unto Christ, and be perfected
+in him' ([Moro. 10:32](/scriptures/bofm/moro/10.32?lang=eng#31))."[5]
 
 My brothers and sisters, I know the love President Benson has for you, for the
 Lord, and for His work. He would urge us to keep the commandments, sanctify
@@ -83,7 +82,7 @@ _For his tender care,_
 
 _Let our songs of gladness_
 
-_Fill this Sabbath air._ [6]
+_Fill this Sabbath air._[6]
 
 The work is true. Jesus is the Christ. Ezra Taft Benson is a prophet of God. I
 so testify and pray that heaven's blessings may attend all of us in the name
@@ -91,15 +90,15 @@ of Jesus Christ, amen.
 
 ## References
 
-  1.  In Conference Report, 3 Oct. 1965, p. 144.
+  1. In Conference Report, 3 Oct. 1965, p. 144.
 
-  2.   _Ensign,_ June 1971, p. 110.
+  2. _Ensign,_ June 1971, p. 110.
 
-  3.   _Ensign,_ Jan. 1973, p. 134.
+  3. _Ensign,_ Jan. 1973, p. 134.
 
-  4.   _Ensign,_ Nov. 1977, p. 75.
+  4. _Ensign,_ Nov. 1977, p. 75.
 
-  5.   _Ensign,_ May 1988, p. 84.
+  5. _Ensign,_ May 1988, p. 84.
 
-  6.   _Hymns,_ 1985, no. 156.
+  6. _Hymns,_ 1985, no. 156.
 

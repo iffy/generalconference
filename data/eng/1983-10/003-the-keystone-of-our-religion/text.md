@@ -50,7 +50,7 @@ Said Moroni, "Ask God, the Eternal Father, in the name of Christ, if these
 things are not true; and if ye shall ask with a sincere heart, with real
 intent, having faith in Christ, he will manifest the truth of it unto you, by
 the power of the Holy Ghost." ([Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).)
+10:4](/scriptures/bofm/moro/10.4?lang=eng#3).)
 
 Joseph Smith, who translated the gold plates from which the Book of Mormon
 came, had this to say: "I told the brethren that the Book of Mormon was the
@@ -71,8 +71,8 @@ is the crowning gem in the diadem of our holy scriptures.
 It is a keystone for other reasons also. In the promise of Moroni previously
 referred to--namely, that God will manifest the truth of the Book of Mormon to
 every sincere inquirer having faith in Christ (see [Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3))--we have a
-key link in a self-locking chain.
+10:4](/scriptures/bofm/moro/10.4?lang=eng#3))--we have a key link in a self-
+locking chain.
 
 A confirming testimony of the Book of Mormon convinces that "Jesus is the
 Christ, the Eternal God" (Title Page, Book of Mormon) and also spiritually
@@ -113,7 +113,7 @@ Redeemer. Nephi writes about the Book of Mormon: "All ye ends of the earth,
 hearken unto these words and believe in Christ; and if ye believe not in these
 words believe in Christ. And if ye shall believe in Christ ye will believe in
 these words, for they are the words of Christ." ([2 Ne.
-33:10](https://www.lds.org/scriptures/bofm/2-ne/33.10?lang=eng#9).)
+33:10](/scriptures/bofm/2-ne/33.10?lang=eng#9).)
 
 Nephi and his brother Jacob join with Isaiah to constitute three powerful pre-
 Messianic voices proclaiming the first coming of Jesus. Isaiah is quoted
@@ -121,12 +121,11 @@ extensively by Nephi because he is the principal Old Testament prophet who
 prophesied of the coming of the Messiah.
 
 The Book of Mormon establishes the truthfulness of the Bible. (See [1 Ne.
-13:40](https://www.lds.org/scriptures/bofm/1-ne/13.40?lang=eng#39).) It is
-evidence "to the world that the holy scriptures are true." ([D&amp;C
-20:11](https://www.lds.org/scriptures/dc-testament/dc/20.11?lang=eng#10).) It
-foretells the establishment of the fulness of the gospel of peace and
-salvation. It was written to give us principles and guidelines for our eternal
-journey.
+13:40](/scriptures/bofm/1-ne/13.40?lang=eng#39).) It is evidence "to the world
+that the holy scriptures are true." ([D&amp;C 20:11](/scriptures/dc-
+testament/dc/20.11?lang=eng#10).) It foretells the establishment of the
+fulness of the gospel of peace and salvation. It was written to give us
+principles and guidelines for our eternal journey.
 
 One of the ultimate messages of the Book of Mormon, and indeed of the Old
 Testament and all human history, is that mankind cannot reach perfection on
@@ -136,14 +135,13 @@ perish." When the Book of Mormon people listened to this prophetic message,
 they flourished. When they forgot the message, they perished.
 
 In Galatians Paul said, "The law was our schoolmaster to bring us unto
-Christ." ([Gal.
-3:24](https://www.lds.org/scriptures/nt/gal/3.24?lang=eng#23).) The records
+Christ." ([Gal. 3:24](/scriptures/nt/gal/3.24?lang=eng#23).) The records
 maintained by the Book of Mormon prophets--and portions of what is now the
 Bible brought from the eastern continent--served, according to Abinadi, "to
 keep them in remembrance of God and their duty towards him." ([Mosiah
-13:30](https://www.lds.org/scriptures/bofm/mosiah/13.30?lang=eng#29).) So the
-Book of Mormon is a schoolmaster to bring us unto Christ. (See [Mosiah
-13:27-32](https://www.lds.org/scriptures/bofm/mosiah/13.27-32?lang=eng#26).)
+13:30](/scriptures/bofm/mosiah/13.30?lang=eng#29).) So the Book of Mormon is a
+schoolmaster to bring us unto Christ. (See [Mosiah
+13:27-32](/scriptures/bofm/mosiah/13.27-32?lang=eng#26).)
 
 The test for understanding this sacred book is preeminently spiritual. An
 obsession with secular knowledge rather than spiritual understanding will make
@@ -183,10 +181,9 @@ the Holy Spirit that the story of the Book of Mormon is true.
 All scriptures are one in that they testify of Jesus. Jacob, a Book of Mormon
 prophet, reminds us that "none of the prophets have written, nor prophesied,
 save they have spoken concerning this Christ." ([Jacob
-7:11](https://www.lds.org/scriptures/bofm/jacob/7.11?lang=eng#10).) Speaking
-of the scriptures, the Psalmist said, "Thy word is a lamp unto my feet, and a
-light unto my path." ([Ps.
-119:105](https://www.lds.org/scriptures/ot/ps/119.105?lang=eng#104).)
+7:11](/scriptures/bofm/jacob/7.11?lang=eng#10).) Speaking of the scriptures,
+the Psalmist said, "Thy word is a lamp unto my feet, and a light unto my
+path." ([Ps. 119:105](/scriptures/ot/ps/119.105?lang=eng#104).)
 
 The Book of Mormon will encourage only righteousness. Why, then, has hostility
 been engendered against the book? In part, no doubt, it may have come because
@@ -197,23 +194,20 @@ work of ancient prophets here on the American continent.
 
 The great worth of the Book of Mormon was declared by the Savior himself. He
 said in 3 Nephi, "This is my doctrine, and it is the doctrine which the Father
-hath given unto me." ([3 Ne.
-11:32](https://www.lds.org/scriptures/bofm/3-ne/11.32?lang=eng#31).)
+hath given unto me." ([3 Ne. 11:32](/scriptures/bofm/3-ne/11.32?lang=eng#31).)
 
 The Redeemer further declared in the Book of Mormon, "Behold I have given unto
-you my gospel." ([3 Ne.
-27:13](https://www.lds.org/scriptures/bofm/3-ne/27.13?lang=eng#12).) As a
+you my gospel." ([3 Ne. 27:13](/scriptures/bofm/3-ne/27.13?lang=eng#12).) As a
 special witness, I testify that Jesus is the Christ and that Nephi's and
 Isaiah's prophecies of His coming have in fact been fulfilled. Like Nephi, "We
 talk of Christ, we rejoice in Christ, we preach of Christ, we prophecy of
-Christ." ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25).)
+Christ." ([2 Ne. 25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25).)
 
 I testify that the Savior will come again, and that at his second coming some
 will say, "What are these wounds in thine hands and in thy feet?" He will show
 the wounds in His hands, wrists, and feet, and they will ask when and where he
 received these wounds. He will answer: "I am Jesus that was crucified. I am
-the Son of God." ([D&amp;C 45:51-52](https://www.lds.org/scriptures/dc-
+the Son of God." ([D&amp;C 45:51-52](/scriptures/dc-
 testament/dc/45.51-52?lang=eng#50).)
 
 I testify through the sure conviction that springs from the witness of the
@@ -221,8 +215,7 @@ Spirit that it is possible to know things that have been revealed with greater
 certainty than by actually seeing them. We can have a more absolute knowledge
 than eyes can perceive or ears can hear. God himself has put his approval on
 the Book of Mormon, having said, "As your Lord and your God liveth it is
-true." ([D&amp;C 17:6](https://www.lds.org/scriptures/dc-
-testament/dc/17.6?lang=eng#5).)
+true." ([D&amp;C 17:6](/scriptures/dc-testament/dc/17.6?lang=eng#5).)
 
 I can now see more clearly through the eyes of my own understanding what my
 mother could see in her precious old worn-out copy of the Book of Mormon. I
@@ -230,4 +223,6 @@ pray that we may live in such a way as to merit and gain a testimony of and
 abide by the great truths of the Book of Mormon. I testify that the keystone
 of our religion is solidly in place, bearing the weight of truth as it moves
 through all the earth, in the name of Jesus Christ, amen.
+
+## References
 

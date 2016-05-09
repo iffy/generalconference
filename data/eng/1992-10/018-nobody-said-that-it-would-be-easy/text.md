@@ -134,19 +134,19 @@ your desire to serve.
 
 When in the twenty-fifth chapter of Matthew the Lord said, "Inasmuch as ye
 have done it unto one of the least of these my brethren, ye have done it unto
-me" ([Matt. 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39)),
-he was talking about the importance of being of service to our fellowmen if we
-want to be worthy of his presence. What better way could there be to serve and
-to sacrifice than to accept a full-time mission call? At the same time, please
+me" ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39)), he was talking
+about the importance of being of service to our fellowmen if we want to be
+worthy of his presence. What better way could there be to serve and to
+sacrifice than to accept a full-time mission call? At the same time, please
 realize that there are some handicaps and limitations that make other types of
 local service more practical than serving a full-time mission.
 
 In the priesthood session of April conference, Elder Neal A. Maxwell said,
 "Now, my brethren, 'these are [your] days' ([Hel.
-7:9](https://www.lds.org/scriptures/bofm/hel/7.9?lang=eng#8)) in the history
-of the Church." (_Ensign,_ May 1992, p. 39.) Yes, my young brethren, these are
-your days, to be a part of 50,000, 75,000, and 100,000 missionaries serving in
-the army of the Lord, armed with peace, righteousness, and power.
+7:9](/scriptures/bofm/hel/7.9?lang=eng#8)) in the history of the Church."
+(_Ensign,_ May 1992, p. 39.) Yes, my young brethren, these are your days, to
+be a part of 50,000, 75,000, and 100,000 missionaries serving in the army of
+the Lord, armed with peace, righteousness, and power.
 
 While presiding over the Mexico City North Mission in the late seventies, we
 decided to open the work in an area called the Huasteca, where there was only
@@ -183,4 +183,6 @@ I leave you with my testimony of the truthfulness of the gospel of the Lord,
 Jesus Christ and my testimony of the blessings which accompany unselfish
 service and hard work that is done in his holy name, and I say it in the name
 of Jesus Christ, amen.
+
+## References
 

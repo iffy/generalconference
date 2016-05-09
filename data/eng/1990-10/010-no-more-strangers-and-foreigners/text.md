@@ -62,8 +62,7 @@ for a moment, and then the tears came to both of our eyes. He then said in a
 very weak and soft voice, "I knew you would come. I knew you would come. Would
 you please give me a blessing." In his dear, sweet faith, he was asking for a
 priesthood blessing, the same that is taught of and recorded in the Bible. We
-read in [James
-5:14-15](https://www.lds.org/scriptures/nt/james/5.14-15?lang=eng#13): "Is any
+read in [James 5:14-15](/scriptures/nt/james/5.14-15?lang=eng#13): "Is any
 sick among you? let him call for the elders of the church; and let them pray
 over him, anointing him with oil in the name of the Lord:
 
@@ -94,17 +93,16 @@ As the Apostle Paul wrote to the members of the Church, or Saints as they were
 called and are called today, he reminded the newly baptized members of the
 Church of the blessings of belonging when he told them, "Ye are no more
 strangers and foreigners, but fellowcitizens with the saints, and of the
-household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).) What a
+household of God." ([Eph. 2:19](/scriptures/nt/eph/2.19?lang=eng#18).) What a
 blessing it is to belong and to be wanted and needed! It becomes even more
 apparent during life's tender moments.
 
 To all who find themselves outside the household of faith and away from the
 Saints, would you please accept this invitation to come unto Christ that we
 might all, as Alma said, "bear one another's burdens." ([Mosiah
-18:8](https://www.lds.org/scriptures/bofm/mosiah/18.8?lang=eng#7).) Join with
-the Saints, that you might not be any longer strangers alone in this world,
-but truly cared for, loved, and appreciated.
+18:8](/scriptures/bofm/mosiah/18.8?lang=eng#7).) Join with the Saints, that
+you might not be any longer strangers alone in this world, but truly cared
+for, loved, and appreciated.
 
 And to all of us--those of us who are members of the Church, could I just
 counsel with you for a moment? Do you have anyone that you know who might be
@@ -115,4 +113,6 @@ moment and let such people know how much you love them?
 And may we also, as members of the Church, truly do our part to make His
 church a welcome refuge for all of our Father in Heaven's children, I pray
 humbly in the name of the Lord and Savior Jesus Christ, amen.
+
+## References
 

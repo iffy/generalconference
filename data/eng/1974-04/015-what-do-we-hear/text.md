@@ -11,8 +11,8 @@ President Lorenzo Snow.
 The Prophet Joseph Smith spoke concerning the solemn assembly:
 
 "Tarry ye, tarry ye in this place, and call a solemn assembly, even of those
-who are the first laborers in this last kingdom." ([D&amp;C
-88:70](https://www.lds.org/scriptures/dc-testament/dc/88.70?lang=eng#69).)
+who are the first laborers in this last kingdom." ([D&amp;C 88:70](/scriptures
+/dc-testament/dc/88.70?lang=eng#69).)
 
 Joseph Smith and Brigham Young were first sustained by a congregation,
 including a fully organized priesthood. Brigham Young was sustained on March
@@ -69,12 +69,12 @@ apostle of long ago, as he urged the Colossian saints to "... Seek those things
 which are above, where Christ sitteth on the right hand of God.
 
 "Set your affection on things above, not on things on the earth." ([Col.
-3:1-2](https://www.lds.org/scriptures/nt/col/3.1-2?lang=eng#0).)
+3:1-2](/scriptures/nt/col/3.1-2?lang=eng#0).)
 
 "Let the word of Christ dwell in you richly in all wisdom; teaching and
 admonishing one another in psalms and hymns and spiritual songs, singing with
 grace in your hearts to the Lord." ([Col.
-3:16](https://www.lds.org/scriptures/nt/col/3.16?lang=eng#15).)
+3:16](/scriptures/nt/col/3.16?lang=eng#15).)
 
 And so with this melody of love in our hearts, unitedly we move forward to
 advance the work of the Lord, knowing that it is not for a century or a
@@ -85,31 +85,31 @@ Now as we listen to the sweet melody of eternity, what do we hear?
 We hear the voice of God calling on our father Adam, person to person, saying:
 
 "I am God; I made the world, and men before they were in the flesh. ..." ([Moses
-6:51](https://www.lds.org/scriptures/pgp/moses/6.51?lang=eng#50).)
+6:51](/scriptures/pgp/moses/6.51?lang=eng#50).)
 
 And our father Adam gave unto us truths which have been basic since the
 foundation of the world. The gospel is the same yesterday, today, and forever.
 It is eternal. He proclaimed to us: "... the Son of God hath atoned for original
 guilt, wherein the sins of the parents cannot be answered upon the heads of
 the children, for they are whole from the foundation of the world." ([Moses
-6:54](https://www.lds.org/scriptures/pgp/moses/6.54?lang=eng#53).)
+6:54](/scriptures/pgp/moses/6.54?lang=eng#53).)
 
 Adam was baptized and received the Holy Ghost.
 
 And from Adam we learned of the ultimate coming of the Son, Jehovah. We
 learned of the redemption of fallen man from the grave. We hear Adam say, "...
 In this life I shall have joy, and again in the flesh I shall see God."
-([Moses 5:10](https://www.lds.org/scriptures/pgp/moses/5.10?lang=eng#9).)
+([Moses 5:10](/scriptures/pgp/moses/5.10?lang=eng#9).)
 
 Mortality made it possible for them to have seed, and as a result, the
 families of the earth have eternity in their grasp. This prophet and his wife
 "... ceased not to call upon God." ([Moses
-5:16](https://www.lds.org/scriptures/pgp/moses/5.16?lang=eng#15).)
+5:16](/scriptures/pgp/moses/5.16?lang=eng#15).)
 
 "And thus all things were confirmed unto Adam, by an holy ordinance, and the
 Gospel preached, and a decree sent forth, that it should be in the world,
 until the end thereof; and thus it was. ..." ([Moses
-5:59](https://www.lds.org/scriptures/pgp/moses/5.59?lang=eng#58).)
+5:59](/scriptures/pgp/moses/5.59?lang=eng#58).)
 
 And thus it is eternal.
 
@@ -125,7 +125,7 @@ prophesied and taught the ways of God:
 "Behold my Spirit is upon you, wherefore all thy words will I justify; and the
 mountains shall flee before you, and the rivers shall turn from their course;
 and thou shalt abide in me, and I in you; therefore walk with me." ([Moses
-6:34](https://www.lds.org/scriptures/pgp/moses/6.34?lang=eng#33).)
+6:34](/scriptures/pgp/moses/6.34?lang=eng#33).)
 
 This holy prophet did walk with God and beheld his creations back to the
 beginning and forward to the resurrection of Christ and of all men, and the
@@ -133,8 +133,7 @@ scripture says:
 
 "And Enoch and all his people walked with God, and he dwelt in the midst of
 Zion; and it came to pass that Zion was not, for God received it up into his
-own bosom. ..." ([Moses
-7:69](https://www.lds.org/scriptures/pgp/moses/7.69?lang=eng#68).)
+own bosom. ..." ([Moses 7:69](/scriptures/pgp/moses/7.69?lang=eng#68).)
 
 Again, what do we hear as we listen? The voice of righteous Abraham, the
 father of a race. We thank thee, O God, for this prophet Abraham, a holy and
@@ -152,8 +151,7 @@ When asked to sacrifice his son Isaac, with a superhuman faith, he offered the
 son, even though he had been promised that Isaac would live and would have an
 immense posterity, for Abraham had the unshakable faith to assure him that
 even if Isaac's life were taken, "... God was able to raise him up, even from
-the dead. ..." ([Heb.
-11:19](https://www.lds.org/scriptures/nt/heb/11.19?lang=eng#18).) So we thank
+the dead. ..." ([Heb. 11:19](/scriptures/nt/heb/11.19?lang=eng#18).) So we thank
 thee, O God, for this great prophet.
 
 Again we listen and what do we hear?
@@ -165,8 +163,7 @@ thy shoes from off thy feet, for the place whereon thou standest is holy
 ground.
 
 "... I am the God of thy father, the God of Abraham, the God of Isaac, and the
-God of Jacob. ..." ([Ex.
-3:5-6](https://www.lds.org/scriptures/ot/ex/3.5-6?lang=eng#4).)
+God of Jacob. ..." ([Ex. 3:5-6](/scriptures/ot/ex/3.5-6?lang=eng#4).)
 
 And we sing again, "We thank thee, O God,"--for the prophet, the great Moses,
 who lighted the lamps before the Lord.
@@ -175,12 +172,12 @@ Again as we listen, what do we hear?
 
 We hear the voice of Jehovah addressing Peter, the president of his church,
 and when asked: "... Whom do men say that I the Son of man am?" ([Matt.
-16:13](https://www.lds.org/scriptures/nt/matt/16.13?lang=eng#12)), we hear the
-great prophet Peter saying with a conviction that knew no doubt: "... Thou art
-the Christ, the Son of the living God." ([Matt.
-16:16](https://www.lds.org/scriptures/nt/matt/16.16?lang=eng#15).) And we hear
-him again giving his never waning testimony, recalling his experience on the
-Mount of Transfiguration, and he said:
+16:13](/scriptures/nt/matt/16.13?lang=eng#12)), we hear the great prophet
+Peter saying with a conviction that knew no doubt: "... Thou art the Christ, the
+Son of the living God." ([Matt.
+16:16](/scriptures/nt/matt/16.16?lang=eng#15).) And we hear him again giving
+his never waning testimony, recalling his experience on the Mount of
+Transfiguration, and he said:
 
 "For we have not followed cunningly devised fables, when we made known unto
 you the power and coming of our Lord Jesus Christ, but were eyewitnesses of
@@ -191,8 +188,7 @@ voice to him from the excellent glory, this is my beloved Son, in whom I am
 well pleased.
 
 "And this voice which came from heaven we heard, when we were with him in the
-holy mount." ([2 Pet.
-1:16-18](https://www.lds.org/scriptures/nt/2-pet/1.16-18?lang=eng#15).)
+holy mount." ([2 Pet. 1:16-18](/scriptures/nt/2-pet/1.16-18?lang=eng#15).)
 
 There followed an apostasy after the crucifixion, and centuries were to pass
 when gross spiritual darkness covered the earth. And then when the time was
@@ -206,12 +202,11 @@ is the truth? Which church shall I join? And another great prophet opens
 another final dispensation. We hear the voice of almighty God, the Father,
 saying of the one beside him in perhaps the most spectacular vision of the
 ages: _"This is My Beloved Son. Hear Him!"_ ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 Then listening further, we hear the voice of another who says, "I am Jesus
-Christ, the son of God ... the first and the last." ([D&amp;C
-11:28](https://www.lds.org/scriptures/dc-testament/dc/11.28?lang=eng#27);
-[D&amp;C 110:4](https://www.lds.org/scriptures/dc-
+Christ, the son of God ... the first and the last." ([D&amp;C 11:28](/scriptures
+/dc-testament/dc/11.28?lang=eng#27); [D&amp;C 110:4](/scriptures/dc-
 testament/dc/110.4?lang=eng#3).)
 
 The young prophet was advised that he would be an instrument in the hands of
@@ -240,8 +235,7 @@ moon, and the morning stars sing together, and let all the sons of God shout
 for joy! And let the eternal creations declare his name forever and ever! And
 again I say, how glorious is the voice we hear from heaven, proclaiming in our
 ears, glory, and salvation, and honor, and immortality, and eternal life;
-kingdoms, principalities, and powers!" ([D&amp;C
-128:22-23](https://www.lds.org/scriptures/dc-
+kingdoms, principalities, and powers!" ([D&amp;C 128:22-23](/scriptures/dc-
 testament/dc/128.22-23?lang=eng#21).)
 
 These voices have been heard. These prophets have spoken. This is the day of
@@ -256,4 +250,6 @@ looking upward; we enter into our "Father's business" with fear and trembling
 and love._ We _know_ our Heavenly Father lives. We _know_ his glorified Son
 Jesus Christ lives. And we _know_ his work is divine. And we bear this solemn
 testimony to you in the name of the Lord Jesus Christ. Amen.
+
+## References
 

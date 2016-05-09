@@ -43,7 +43,7 @@ commandment.
 
 "And the second is like [unto it], namely this, Thou shalt love thy neighbour
 as thyself. There is none other commandment greater than these." ([Mark
-12:30-31](https://www.lds.org/scriptures/nt/mark/12.30-31?lang=eng#29).)
+12:30-31](/scriptures/nt/mark/12.30-31?lang=eng#29).)
 
 It is that love for the Lord and for our neighbors--all men everywhere--that
 is the motivating force which prompts my friend's son, and twenty-seven
@@ -87,11 +87,11 @@ Kristen and all of us should remember that while we are commanded to love God,
 he has a perfect love for us. All the world needs to be taught of the great
 redeeming power of the Savior's love. He loves us so much he has promised to
 forgive us of those things we do that are wrong and remember them no more if
-we will only repent and come unto him (see [D&amp;C
-58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41)). He
-loves us so much that he was willing to pay the price for those sins. He
-suffered for us. He died for us. He said, Come follow me; cast your burdens on
-the Lord. His desire is to lift us, to help us, to guide us, to save us.
+we will only repent and come unto him (see [D&amp;C 58:42](/scriptures/dc-
+testament/dc/58.42?lang=eng#41)). He loves us so much that he was willing to
+pay the price for those sins. He suffered for us. He died for us. He said,
+Come follow me; cast your burdens on the Lord. His desire is to lift us, to
+help us, to guide us, to save us.
 
 Henry Drummond, in his classic writing on the subject of Christ's love, tells
 of a man who went to see a dying boy. He put his hand on the boy's head to
@@ -108,7 +108,7 @@ Thing in the World,_ Old Tappon, N.J.: Fleming H. Revell Co., n.d., pp.
 
 It is this knowledge of his great love for us that influences our actions
 toward him and others. He said, "Love one another; as I have loved you" ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33)).
+13:34](/scriptures/nt/john/13.34?lang=eng#33)).
 
 A few weeks ago someone gave me a gift. As I unwrapped the handsome package
 and discovered its contents, I was overcome with emotion. It was a precious
@@ -135,4 +135,6 @@ neighbors as ourselves. May we show that love by living all the commandments
 of God and by sharing with our neighbors our greatest gift of love, the gospel
 of Jesus Christ, which I testify is the truth and the best on the face of the
 earth. In the name of Jesus Christ, amen.
+
+## References
 

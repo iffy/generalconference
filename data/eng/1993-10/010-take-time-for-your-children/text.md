@@ -2,7 +2,7 @@
 
 Speaking to the inhabitants of Zion, the Lord said, "They shall ... teach their
 children to pray, and to walk uprightly before the Lord" ([D&amp;C
-68:28](https://www.lds.org/scriptures/dc-testament/dc/68.28?lang=eng#27)).
+68:28](/scriptures/dc-testament/dc/68.28?lang=eng#27)).
 
 Early one Saturday morning while serving as stake president, I received a
 phone call from Bishop Nelson asking for help. He said the Janzen family from
@@ -33,8 +33,7 @@ are aware that within the home environment children are provided the best
 opportunity to be taught gospel principles and gospel understanding. The risen
 Lord, while visiting the Nephites, referred to the words of Isaiah, "And all
 thy children shall be taught of the Lord; and great shall be the peace of thy
-children" ([3 Ne.
-22:13](https://www.lds.org/scriptures/bofm/3-ne/22.13?lang=eng#12)).
+children" ([3 Ne. 22:13](/scriptures/bofm/3-ne/22.13?lang=eng#12)).
 
 A few weeks ago, while attending a stake conference in the Philippines, where
 I currently live, I listened to eleven-year-old Joseph stand at the pulpit
@@ -81,27 +80,19 @@ the spirit of trying to be helpful, a few thoughts that parents might use to
 strengthen their families against worldly temptations and to bring the love,
 unity, and success that all desire.
 
-  1. Start early. "Columnist Sydney Harris was once asked by an anxious parent, 'How can I get my 16-year-old son to mind me?' He answered simply, 'Shrink him down to six months and start over, differently.'
-
-  2. Effective communication. Parents should spend a great deal of time listening, not just telling. This listening should be done with an open mind and heart. When children feel they can talk freely about their feelings, problems, and successes, wonderful relationships develop between parents and children.
-
-  3. Enthrone love and unity. It is important to make your children aware of your love and feelings. This can be done by a hundred little acts and gestures, such as tucking children into bed at night after listening to their prayers, offering a comforting arm or ear even though he or she may not be hurt very badly. Encourage children to support each other through attendance at ball games and concerts where a family member is participating.
-
-  4. Do things together. Vacations and recreational activities, also family work projects, give parents a good opportunity to teach the importance of developing a good work ethic. Doing things together gives a child and parent an opportunity to share their attention in a common objective.
-
-  5. Provide opportunities to learn how to be independent and responsible. Teach children how to make their own decisions, even if it involves their failing once in a while. We need to help children come to an understanding such as Lehi taught, "knowing good from evil; to act for themselves and not to be acted upon" ([2 Ne. 2:26](https://www.lds.org/scriptures/bofm/2-ne/2.26?lang=eng#25)).
-
-  6. Discipline with love. "'Discipline' and 'punishment' are not synonymous. Punishment suggests hurting, paying someone back for a wrong committed. Discipline implies an action directed toward a goal ... of helping the recipient to improve himself" (William E. Homan, "How to Be a Better Parent," _Reader's Digest,_ Oct. 1969, pp. 187-91). Discipline should always be with love.
-
-  7. Service. In his great farewell address, King Benjamin taught, "When ye are in the service of your fellow beings ye are only in the service of your God" ([Mosiah 2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16)). There are few rewards in life that bring greater feelings of satisfaction, joy, and peace than when one gives meaningful service to a fellow being standing in need.
-
-  8. The last and most important is to establish a "house of God." The instruction the Lord gave the Prophet Joseph Smith in the 88th section of the Doctrine and Covenants referred to building a temple. Yet this verse of scripture also beautifully describes the type of home we ought to have:
+  1. **Start early.** "Columnist Sydney Harris was once asked by an anxious parent, 'How can I get my 16-year-old son to mind me?' He answered simply, 'Shrink him down to six months and start over, differently.'
+  2. **Effective communication.** Parents should spend a great deal of time listening, not just telling. This listening should be done with an open mind and heart. When children feel they can talk freely about their feelings, problems, and successes, wonderful relationships develop between parents and children. 
+  3. **Enthrone love and unity. **It is important to make your children aware of your love and feelings. This can be done by a hundred little acts and gestures, such as tucking children into bed at night after listening to their prayers, offering a comforting arm or ear even though he or she may not be hurt very badly. Encourage children to support each other through attendance at ball games and concerts where a family member is participating. 
+  4. **Do things together.** Vacations and recreational activities, also family work projects, give parents a good opportunity to teach the importance of developing a good work ethic. Doing things together gives a child and parent an opportunity to share their attention in a common objective. 
+  5. **Provide opportunities to learn how to be independent and responsible.** Teach children how to make their own decisions, even if it involves their failing once in a while. We need to help children come to an understanding such as Lehi taught, "knowing good from evil; to act for themselves and not to be acted upon" ([2 Ne. 2:26](/scriptures/bofm/2-ne/2.26?lang=eng#25)). 
+  6. **Discipline with love. **"'Discipline' and 'punishment' are not synonymous. Punishment suggests hurting, paying someone back for a wrong committed. Discipline implies an action directed toward a goal ... of helping the recipient to improve himself" (William E. Homan, "How to Be a Better Parent," _Reader's Digest,_ Oct. 1969, pp. 187-91). Discipline should always be with love. 
+  7. **Service.** In his great farewell address, King Benjamin taught, "When ye are in the service of your fellow beings ye are only in the service of your God" ([Mosiah 2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16)). There are few rewards in life that bring greater feelings of satisfaction, joy, and peace than when one gives meaningful service to a fellow being standing in need. 
+  8. **The last and most important is to establish a "house of God."** The instruction the Lord gave the Prophet Joseph Smith in the 88th section of the Doctrine and Covenants referred to building a temple. Yet this verse of scripture also beautifully describes the type of home we ought to have: 
 
 It is not easy for children to stay clean and pure in today's world. There are
 times when it becomes hard for them to tell right from wrong. We need to teach
 our children, as Alma taught his son Corianton, "Wickedness never was
-happiness" ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)). Teach them
+happiness" ([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9)). Teach them
 to stay on the Lord's side of the line. Hold family home evening regularly.
 Hold family prayer twice a day, if possible. Teach them to love the scriptures
 and how to experience the sweet answer to individual prayer. Teach them to
@@ -122,4 +113,6 @@ That all who are parents might be successful in convincing their children that
 true joy and happiness come from living the gospel of Jesus Christ, and that
 parents might find joy and fulfillment in their efforts and sacred role, is my
 prayer, in the name of Jesus Christ, amen.
+
+## References
 

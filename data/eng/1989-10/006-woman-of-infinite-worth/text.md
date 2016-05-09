@@ -6,18 +6,14 @@ Church. We appreciate their marvelous ministry and powerful influence for good
 in the world.
 
 Our privilege of sustaining leaders is granted by the Lord. (See [D&amp;C
-20:63-66](https://www.lds.org/scriptures/dc-
-testament/dc/20.63-66?lang=eng#62); [D&amp;C
-26:2](https://www.lds.org/scriptures/dc-testament/dc/26.2?lang=eng#1);
-[D&amp;C 28:13](https://www.lds.org/scriptures/dc-
-testament/dc/28.13?lang=eng#12); [D&amp;C
-38:34](https://www.lds.org/scriptures/dc-testament/dc/38.34?lang=eng#33);
-[D&amp;C 93:51](https://www.lds.org/scriptures/dc-
-testament/dc/93.51?lang=eng#50); [D&amp;C
-104:21](https://www.lds.org/scriptures/dc-testament/dc/104.21?lang=eng#20);
-[D&amp;C 124:144](https://www.lds.org/scriptures/dc-
-testament/dc/124.144?lang=eng#143).) Sustaining makes known to the Church who
-has authority (see [D&amp;C 42:11](https://www.lds.org/scriptures/dc-
+20:63-66](/scriptures/dc-testament/dc/20.63-66?lang=eng#62); [D&amp;C
+26:2](/scriptures/dc-testament/dc/26.2?lang=eng#1); [D&amp;C
+28:13](/scriptures/dc-testament/dc/28.13?lang=eng#12); [D&amp;C
+38:34](/scriptures/dc-testament/dc/38.34?lang=eng#33); [D&amp;C
+93:51](/scriptures/dc-testament/dc/93.51?lang=eng#50); [D&amp;C
+104:21](/scriptures/dc-testament/dc/104.21?lang=eng#20); [D&amp;C
+124:144](/scriptures/dc-testament/dc/124.144?lang=eng#143).) Sustaining makes
+known to the Church who has authority (see [D&amp;C 42:11](/scriptures/dc-
 testament/dc/42.11?lang=eng#10)) and enables each of us to show support. We
 honor all our leaders, both men and women, and are grateful for brothers and
 sisters so united in this kingdom of God on earth.
@@ -45,39 +41,34 @@ scriptures. Mother Eve was a great example. She labored beside her husband as
 a partner. They both knew the plan of salvation. They both heeded commandments
 of obedience to God. Likewise, she prayed for divine guidance. She bore
 children. She taught the gospel to them. (See [Moses
-5:1-12](https://www.lds.org/scriptures/pgp/moses/5.1-12?lang=eng#0); [D&amp;C
-138:39](https://www.lds.org/scriptures/dc-testament/dc/138.39?lang=eng#38).)
+5:1-12](/scriptures/pgp/moses/5.1-12?lang=eng#0); [D&amp;C 138:39](/scriptures
+/dc-testament/dc/138.39?lang=eng#38).)
 
 Sarah, in becoming the mother of Isaac in her advanced years, verified that
 nothing is "too hard for the Lord." ([Gen.
-18:14](https://www.lds.org/scriptures/ot/gen/18.14?lang=eng#13).)
+18:14](/scriptures/ot/gen/18.14?lang=eng#13).)
 
 Mary, mother of our Redeemer, was the perfect example of complete submission
-to the will of God. (See [Luke
-1:38](https://www.lds.org/scriptures/nt/luke/1.38?lang=eng#37).) She kept
-confidences. (See [Luke
-2:19](https://www.lds.org/scriptures/nt/luke/2.19?lang=eng#18).) In faith, she
-endured grief. (See [John
-20:11](https://www.lds.org/scriptures/nt/john/20.11?lang=eng#10).)
+to the will of God. (See [Luke 1:38](/scriptures/nt/luke/1.38?lang=eng#37).)
+She kept confidences. (See [Luke 2:19](/scriptures/nt/luke/2.19?lang=eng#18).)
+In faith, she endured grief. (See [John
+20:11](/scriptures/nt/john/20.11?lang=eng#10).)
 
 The stories of these and other scriptural heroines show that women are
 essential in God's plan for His children. Likewise, men have important but
 different assignments. We learn from the scriptures that men are to hold
 priesthood responsibilities and, as husbands and fathers, provide for (see
-[Rom. 12:17](https://www.lds.org/scriptures/nt/rom/12.17?lang=eng#16); [1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7); [D&amp;C
-75:28](https://www.lds.org/scriptures/dc-testament/dc/75.28?lang=eng#27);
-[D&amp;C 83:2, 4](https://www.lds.org/scriptures/dc-
-testament/dc/83.2%2C4?lang=eng#1)) and protect their families (see [D&amp;C
-134:6, 11](https://www.lds.org/scriptures/dc-
-testament/dc/134.6%2C11?lang=eng#5)). From the beginning, the priesthood has
-been conferred only upon men, coming through the "lineage of the fathers."
-(See [D&amp;C 84:6-16](https://www.lds.org/scriptures/dc-
-testament/dc/84.6-16?lang=eng#5); [D&amp;C
-86:8](https://www.lds.org/scriptures/dc-testament/dc/86.8?lang=eng#7);
-[D&amp;C 107:40-41](https://www.lds.org/scriptures/dc-
+[Rom. 12:17](/scriptures/nt/rom/12.17?lang=eng#16); [1 Tim.
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7); [D&amp;C 75:28](/scriptures/dc-
+testament/dc/75.28?lang=eng#27); [D&amp;C 83:2, 4](/scriptures/dc-
+testament/dc/83.2,4?lang=eng#1)) and protect their families (see [D&amp;C
+134:6, 11](/scriptures/dc-testament/dc/134.6,11?lang=eng#5)). From the
+beginning, the priesthood has been conferred only upon men, coming through the
+"lineage of the fathers." (See [D&amp;C 84:6-16](/scriptures/dc-
+testament/dc/84.6-16?lang=eng#5); [D&amp;C 86:8](/scriptures/dc-
+testament/dc/86.8?lang=eng#7); [D&amp;C 107:40-41](/scriptures/dc-
 testament/dc/107.40-41?lang=eng#39); [Abr.
-1:3-4](https://www.lds.org/scriptures/pgp/abr/1.3-4?lang=eng#2).)
+1:3-4](/scriptures/pgp/abr/1.3-4?lang=eng#2).)
 
 Blessings of the priesthood are shared by men and women. All may qualify for
 baptism and the gift of the Holy Ghost. All may take upon themselves the name
@@ -85,7 +76,7 @@ of the Lord and partake of the sacrament. All may pray and receive answers to
 their prayers. Gifts of the Spirit and testimonies of the truth are bestowed
 regardless of gender. Men and women receive the highest ordinance in the house
 of the Lord together and equally, or not at all (see [D&amp;C
-131:1-3](https://www.lds.org/scriptures/dc-testament/dc/131.1-3?lang=eng#0)).
+131:1-3](/scriptures/dc-testament/dc/131.1-3?lang=eng#0)).
 
 Opportunities for development of spiritual and intellectual potential are
 equal. Masculinity has no monopoly on the mind, and femininity has no
@@ -112,9 +103,8 @@ lost articles and solve on a daily basis baffling "who done it" mysteries.
 Frequently, her eager audience requests her talent as a musician by calling
 upon her to sing--any time, any place. She is an artist, using crayons and
 coloring books, needles and thread, or other means to create works of art by
-her own hands. (See [Ps.
-90:17](https://www.lds.org/scriptures/ot/ps/90.17?lang=eng#16); [D&amp;C
-42:40](https://www.lds.org/scriptures/dc-testament/dc/42.40?lang=eng#39).)
+her own hands. (See [Ps. 90:17](/scriptures/ot/ps/90.17?lang=eng#16); [D&amp;C
+42:40](/scriptures/dc-testament/dc/42.40?lang=eng#39).)
 
 During the early life of most children, a woman is the principal
 disciplinarian. She treads the tightrope of judgment between being too strict
@@ -175,33 +165,30 @@ The Prophet Joseph Smith was taught this lesson while unjustly incarcerated in
 Liberty Jail--scene of so few rights, so little freedom, and so much abusive
 authority. As the Master tutored His Prophet regarding rights, those
 instructions were surrounded by schooling about obligations and
-responsibilities. (See [D&amp;C 121](https://www.lds.org/scriptures/dc-
-testament/dc/121.title?lang=eng).)
+responsibilities. (See [D&amp;C 121](/scriptures/dc-
+testament/dc/121?lang=eng).)
 
 A righteous woman is a student of the scriptures. Many apply uniquely to her
-life. (See [Gen.
-27:46](https://www.lds.org/scriptures/ot/gen/27.46?lang=eng#45); [Ps.
-113:9](https://www.lds.org/scriptures/ot/ps/113.9?lang=eng#8); [Prov.
-31:10-31](https://www.lds.org/scriptures/ot/prov/31.10-31?lang=eng#9); [Eph.
-5:22-33](https://www.lds.org/scriptures/nt/eph/5.22-33?lang=eng#21); [Col.
-3:18](https://www.lds.org/scriptures/nt/col/3.18?lang=eng#17); [Titus
-2:3-5](https://www.lds.org/scriptures/nt/titus/2.3-5?lang=eng#2); [Jacob
-3:7](https://www.lds.org/scriptures/bofm/jacob/3.7?lang=eng#6); [Mosiah 4:14--
-16](https://www.lds.org/scriptures/bofm/mosiah/4.14-16?lang=eng#13); [D&amp;C
-25](https://www.lds.org/scriptures/dc-testament/dc/25.title?lang=eng).) In the
-scriptures she finds "great treasures of knowledge, even hidden treasures."
-([D&amp;C 89:19](https://www.lds.org/scriptures/dc-
+life. (See [Gen. 27:46](/scriptures/ot/gen/27.46?lang=eng#45); [Ps.
+113:9](/scriptures/ot/ps/113.9?lang=eng#8); [Prov.
+31:10-31](/scriptures/ot/prov/31.10-31?lang=eng#9); [Eph.
+5:22-33](/scriptures/nt/eph/5.22-33?lang=eng#21); [Col.
+3:18](/scriptures/nt/col/3.18?lang=eng#17); [Titus
+2:3-5](/scriptures/nt/titus/2.3-5?lang=eng#2); [Jacob
+3:7](/scriptures/bofm/jacob/3.7?lang=eng#6); [Mosiah 4:14--
+16](/scriptures/bofm/mosiah/4.14-16?lang=eng#13); [D&amp;C 25](/scriptures/dc-
+testament/dc/25?lang=eng).) In the scriptures she finds "great treasures of
+knowledge, even hidden treasures." ([D&amp;C 89:19](/scriptures/dc-
 testament/dc/89.19?lang=eng#18).)
 
 She need not have majored in physics to know divine truths, as "there is no
-such thing as immaterial matter." ([D&amp;C
-131:7](https://www.lds.org/scriptures/dc-testament/dc/131.7?lang=eng#6).) She
-need not have graduated in astronomy to learn lessons taught by God to Abraham
---the relation of the earth to the sun, the sun to the planets, the planets to
-the center of the universe, and more. (See [Abr.
-3](https://www.lds.org/scriptures/pgp/abr/3.title?lang=eng).) When she sings
-"Twinkle, twinkle, little star, how I wonder what you are," she knows
-scriptural answers.
+such thing as immaterial matter." ([D&amp;C 131:7](/scriptures/dc-
+testament/dc/131.7?lang=eng#6).) She need not have graduated in astronomy to
+learn lessons taught by God to Abraham--the relation of the earth to the sun,
+the sun to the planets, the planets to the center of the universe, and more.
+(See [Abr. 3](/scriptures/pgp/abr/3?lang=eng).) When she sings "Twinkle,
+twinkle, little star, how I wonder what you are," she knows scriptural
+answers.
 
 Well do I remember attending an important international symposium. The speaker
 was one of the world's leading scholars, addressing a learned society with
@@ -226,14 +213,14 @@ Her self-esteem cannot be based on physical features, possession or lack of a
 particular talent, or comparative quantities of anything. Her self-esteem is
 earned by individual righteousness and a close relationship with God. Her
 outward glow is generated by goodness within. And her patience is much more
-apparent than any imperfection. (See [D&amp;C
-67:13](https://www.lds.org/scriptures/dc-testament/dc/67.13?lang=eng#12).)
+apparent than any imperfection. (See [D&amp;C 67:13](/scriptures/dc-
+testament/dc/67.13?lang=eng#12).)
 
 Sweet serenity is found in fervent prayer. Then, we forget ourselves and
 remember the reaching hands of the Savior, who said, "Come unto me, all ye
 that labour and are heavy laden, and I will give you rest." ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).) As our
-burdens are shared with Him, they do become lighter.
+11:28](/scriptures/nt/matt/11.28?lang=eng#27).) As our burdens are shared with
+Him, they do become lighter.
 
 Feelings of worth come when a woman follows the example of the Master. Her
 sense of infinite worth comes from her own Christlike yearning to reach out
@@ -248,25 +235,23 @@ to love unconditionally.
 Sometimes this true love necessarily takes the tone of tough love. Her lessons
 of obedience and accountability must resemble those of her Master, who said,
 "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14); see also
-[Ex. 20:6](https://www.lds.org/scriptures/ot/ex/20.6?lang=eng#5); [Deut.
-5:10](https://www.lds.org/scriptures/ot/deut/5.10?lang=eng#9); [Mosiah
-13:14](https://www.lds.org/scriptures/bofm/mosiah/13.14?lang=eng#13); [D&amp;C
-46:9](https://www.lds.org/scriptures/dc-testament/dc/46.9?lang=eng#8);
-[D&amp;C 124:87](https://www.lds.org/scriptures/dc-
+14:15](/scriptures/nt/john/14.15?lang=eng#14); see also [Ex.
+20:6](/scriptures/ot/ex/20.6?lang=eng#5); [Deut.
+5:10](/scriptures/ot/deut/5.10?lang=eng#9); [Mosiah
+13:14](/scriptures/bofm/mosiah/13.14?lang=eng#13); [D&amp;C 46:9](/scriptures
+/dc-testament/dc/46.9?lang=eng#8); [D&amp;C 124:87](/scriptures/dc-
 testament/dc/124.87?lang=eng#86).)
 
 The Good Shepherd said, "Feed my lambs." ([John
-21:15](https://www.lds.org/scriptures/nt/john/21.15?lang=eng#14).) So a woman
-feeds her loved ones, providing succor and sustenance just as the Savior would
-do. Her divine gift is to nurture, to help the young, to care for the poor, to
-lift the brokenhearted.
+21:15](/scriptures/nt/john/21.15?lang=eng#14).) So a woman feeds her loved
+ones, providing succor and sustenance just as the Savior would do. Her divine
+gift is to nurture, to help the young, to care for the poor, to lift the
+brokenhearted.
 
 The Lord said, "My work and my glory [is] to bring to pass the immortality and
-eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) So His
-devoted daughter-disciple may truly say, "My work and my glory is to help my
-loved ones reach that heavenly goal."
+eternal life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
+So His devoted daughter-disciple may truly say, "My work and my glory is to
+help my loved ones reach that heavenly goal."
 
 To help another human being reach one's celestial potential is part of the
 divine mission of woman. As mother, teacher, or nurturing saint, she molds
@@ -285,19 +270,20 @@ The gospel has been restored in these latter days so that the light of the
 Lord can prevail over efforts of the adversary. This day has long been
 prophesied. The Lord has promised worthy Saints of our time: "Upon the
 servants and upon the handmaids in those days will I pour out my spirit."
-([Joel 2:29](https://www.lds.org/scriptures/ot/joel/2.29?lang=eng#28).)
+([Joel 2:29](/scriptures/ot/joel/2.29?lang=eng#28).)
 
 A woman's richest rewards will come as she rises to fulfill her destiny as a
 devoted daughter of God. To all faithful Saints He has promised thrones,
 kingdoms, principalities, glory, immortality, and eternal lives. (See [Rom.
-2:7](https://www.lds.org/scriptures/nt/rom/2.7?lang=eng#6); [D&amp;C
-75:5](https://www.lds.org/scriptures/dc-testament/dc/75.5?lang=eng#4);
-[D&amp;C 128:12, 23](https://www.lds.org/scriptures/dc-
-testament/dc/128.12%2C23?lang=eng#11); [D&amp;C
-132:19](https://www.lds.org/scriptures/dc-testament/dc/132.19?lang=eng#18).)
-That is the potential for women in The Church of Jesus Christ of Latter-day
-Saints. It is exalting, everlasting, and divine.
+2:7](/scriptures/nt/rom/2.7?lang=eng#6); [D&amp;C 75:5](/scriptures/dc-
+testament/dc/75.5?lang=eng#4); [D&amp;C 128:12, 23](/scriptures/dc-
+testament/dc/128.12,23?lang=eng#11); [D&amp;C 132:19](/scriptures/dc-
+testament/dc/132.19?lang=eng#18).) That is the potential for women in The
+Church of Jesus Christ of Latter-day Saints. It is exalting, everlasting, and
+divine.
 
 God bless us to honor each woman in her divine mission as a woman of infinite
 worth, I pray in the name of Jesus Christ, amen.
+
+## References
 

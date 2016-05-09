@@ -45,14 +45,12 @@ comes from the book of Moses in the Pearl of Great Price.
 We read in the first chapter of Moses that God talked to Moses face to face,
 taught him that he was a son of God, and showed him the earth from its
 beginning to the end. Then "Satan came tempting him, saying: Moses, son of
-man, worship me" ([Moses
-1:12](https://www.lds.org/scriptures/pgp/moses/1.12?lang=eng#11)).
+man, worship me" ([Moses 1:12](/scriptures/pgp/moses/1.12?lang=eng#11)).
 
 And how did Moses respond to Satan's confrontation? "It came to pass that
 Moses looked upon Satan and said: Who art thou? For behold, I am a son of God,
 in the similitude of his Only Begotten; and where is thy glory, that I should
-worship thee?" ([Moses
-1:13](https://www.lds.org/scriptures/pgp/moses/1.13?lang=eng#12)).
+worship thee?" ([Moses 1:13](/scriptures/pgp/moses/1.13?lang=eng#12)).
 
 Because Moses knew God, he recognized that Satan was an imposter. If our
 children know truth, they can recognize error.
@@ -61,18 +59,18 @@ When Moses recognized error, he took action. He didn't hang around with Satan
 for the experience. No, he said: "I can judge between thee and God; ...
 
 "Get thee hence, Satan; deceive me not" ([Moses
-1:15-16](https://www.lds.org/scriptures/pgp/moses/1.15-16?lang=eng#14)).
+1:15-16](/scriptures/pgp/moses/1.15-16?lang=eng#14)).
 
 He prayed for help and continued to do so, although Satan became agitated and
 insistent and redoubled his efforts, tempting Moses again. Satan told him, "I
 am the Only Begotten, worship me" ([Moses
-1:19](https://www.lds.org/scriptures/pgp/moses/1.19?lang=eng#18)).
+1:19](/scriptures/pgp/moses/1.19?lang=eng#18)).
 
 Moses knew this was not true, but Satan's rantings had a terrifying effect on
 him. However, he did not let fear overtake him. He prayed again, received
 strength from God, and commanded Satan again to depart. Then with loud
 wailing, weeping, and gnashing of teeth, Satan finally departed (see [Moses
-1:20-22](https://www.lds.org/scriptures/pgp/moses/1.20-22?lang=eng#19)).
+1:20-22](/scriptures/pgp/moses/1.20-22?lang=eng#19)).
 
 Moses recognized error, he prayed continually for help, and he overcame fear.
 Thus he was able to defy Satan's attempts to intimidate him.
@@ -160,4 +158,6 @@ _I feel my Savior's love,_
 _The love he freely gives me._
 
 In the name of Jesus Christ, amen.
+
+## References
 

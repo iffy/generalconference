@@ -8,7 +8,7 @@ the people of the world to recognize him as their Savior, Lord, and God.
 Although the house of Israel possessed a written record of numerous prophecies
 concerning Christ's earthly life, still the Eternal Father sent a special
 messenger, John the Baptist, "to make ready a people prepared for the Lord."
-([Luke 1:17](https://www.lds.org/scriptures/nt/luke/1.17?lang=eng#16).)
+([Luke 1:17](/scriptures/nt/luke/1.17?lang=eng#16).)
 
 The predictions of the early prophets concerning Christ's birth, life, and
 ministry were fulfilled, and those who sincerely believed were prepared to
@@ -21,7 +21,7 @@ Tell us, when shall these things be? And what shall be the sign of thy coming,
 and of the end of the world?
 
 "And Jesus answered and said unto them, Take heed that no man deceive you."
-([Matt. 24:3-4](https://www.lds.org/scriptures/nt/matt/24.3-4?lang=eng#2).)
+([Matt. 24:3-4](/scriptures/nt/matt/24.3-4?lang=eng#2).)
 
 The Savior then explained to his disciples the signs and happenings which will
 occur prior to his second coming. These are recorded in the twenty-fourth
@@ -58,8 +58,7 @@ overflowing scourge; for a desolating sickness shall cover the land. ...
 "And there shall be earthquakes ... in divers places, and many desolations; yet
 men will harden their hearts against me, and they will take up the sword, one
 against another, and they will kill one another." ([D&amp;C 45:26-27, 31,
-33](https://www.lds.org/scriptures/dc-
-testament/dc/45.26-27%2C31%2C33?lang=eng#25).)
+33](/scriptures/dc-testament/dc/45.26-27,31,33?lang=eng#25).)
 
 For many years there have been wars somewhere in the world, and the constant
 rumors of wars are of great concern to many nations today. Nations are rising
@@ -97,12 +96,12 @@ their own course, misunderstandings and problems will increase, bringing even
 greater contention and strife.
 
 The Lord instructed the Prophet Joseph Smith, "Prepare ye, prepare ye for that
-which is to come, for the Lord is nigh." ([D&amp;C
-1:12](https://www.lds.org/scriptures/dc-testament/dc/1.12?lang=eng#11).)
+which is to come, for the Lord is nigh." ([D&amp;C 1:12](/scriptures/dc-
+testament/dc/1.12?lang=eng#11).)
 
 In this last dispensation of his work, he cautioned, "Prepare yourselves for
-the great day of the Lord." ([D&amp;C 133:10](https://www.lds.org/scriptures
-/dc-testament/dc/133.10?lang=eng#9).)
+the great day of the Lord." ([D&amp;C 133:10](/scriptures/dc-
+testament/dc/133.10?lang=eng#9).)
 
 Let us be sure we thoroughly understand the most important things we can do to
 prepare ourselves for our Lord's second coming to earth and, by our obedience
@@ -118,7 +117,7 @@ home. It means spreading the gospel of Jesus Christ to all the peoples of the
 world.
 
 The Lord has said: "I will hasten my work in its time." ([D&amp;C
-88:73](https://www.lds.org/scriptures/dc-testament/dc/88.73?lang=eng#72).)
+88:73](/scriptures/dc-testament/dc/88.73?lang=eng#72).)
 
 There is an urgency in his work. Time is getting short. This sense of urgency
 in promoting the Lord's kingdom in these last days does not arise out of
@@ -131,17 +130,17 @@ messengers to his prophets to warn his children to prepare themselves to
 receive their Lord at his second coming.
 
 The Christ has emphasized, "It is the eleventh hour, and the last time that I
-shall call laborers into my vineyard." ([D&amp;C
-33:3](https://www.lds.org/scriptures/dc-testament/dc/33.3?lang=eng#2).)
+shall call laborers into my vineyard." ([D&amp;C 33:3](/scriptures/dc-
+testament/dc/33.3?lang=eng#2).)
 
 In setting up his latter-day Church, the Savior has affirmed that this is the
 last time his kingdom shall be established upon the earth. (See [D&amp;C
-27:13](https://www.lds.org/scriptures/dc-testament/dc/27.13?lang=eng#12).)
+27:13](/scriptures/dc-testament/dc/27.13?lang=eng#12).)
 
 The prophet Daniel, speaking of God's work in the last days, revealed that the
 God of heaven will set up a kingdom which shall never be destroyed, nor left
 to another people, and it shall stand forever. (See [Dan.
-2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43).)
+2:44](/scriptures/ot/dan/2.44?lang=eng#43).)
 
 This dispensation of the gospel, then, is the last. The Lord has never
 indicated that his Church of the latter days would fail. God will ultimately
@@ -152,7 +151,7 @@ warning to the world is vital. The Savior said:
 
 "The harvest truly is great, but the labourers are few: pray ye therefore the
 Lord of the harvest, that he would send forth labourers into his harvest."
-([Luke 10:2](https://www.lds.org/scriptures/nt/luke/10.2?lang=eng#1).)
+([Luke 10:2](/scriptures/nt/luke/10.2?lang=eng#1).)
 
 To meet this challenge of sending forth more labourers into his harvest of
 souls, The Church of Jesus Christ of Latter-day Saints is calling an increased
@@ -161,13 +160,12 @@ Christ to every nation, kindred, tongue, and people.
 
 The Lord cautioned his people: "And again, verily I say unto you, the coming
 of the Lord draweth nigh, and it overtaketh the world as a thief in the
-night." ([D&amp;C 106:4](https://www.lds.org/scriptures/dc-
-testament/dc/106.4?lang=eng#3).)
+night." ([D&amp;C 106:4](/scriptures/dc-testament/dc/106.4?lang=eng#3).)
 
 Also he said: "For behold, the Lord God hath sent forth the angel crying
 through the midst of heaven, saying: Prepare ye the way of the Lord, and make
 his paths straight, for the hour of his coming is nigh." ([D&amp;C
-133:17](https://www.lds.org/scriptures/dc-testament/dc/133.17?lang=eng#16).)
+133:17](/scriptures/dc-testament/dc/133.17?lang=eng#16).)
 
 How are we to meet the challenge of readying Church members and the peoples of
 the world for Christ's second coming and being sure they are prepared to
@@ -184,14 +182,13 @@ covenant;
 "They seek _not_ the Lord to establish his righteousness, but every man
 walketh in his own way, and after the image of his own God, whose image is in
 the likeness of the world, and whose substance is that of an idol." ([D&amp;C
-1:14-16](https://www.lds.org/scriptures/dc-testament/dc/1.14-16?lang=eng#13);
-italics added.)
+1:14-16](/scriptures/dc-testament/dc/1.14-16?lang=eng#13); italics added.)
 
 Again He said: "What I the Lord have spoken, I have spoken, and I excuse not
 myself; and though the heavens and the earth pass away, my word shall not pass
 away, but shall all be fulfilled, whether by mine own voice or by the voice of
-my servants, it is the same." ([D&amp;C 1:38](https://www.lds.org/scriptures
-/dc-testament/dc/1.38?lang=eng#37).)
+my servants, it is the same." ([D&amp;C 1:38](/scriptures/dc-
+testament/dc/1.38?lang=eng#37).)
 
 The Lord has placed prophets, apostles, and teachers in his Church to
 interpret and point the way for his people in both spiritual and temporal
@@ -233,10 +230,12 @@ you unawares. ...
 "Watch ye therefore, and pray always, that ye may be accounted worthy to
 escape all these things that shall come to pass, and to stand before the Son
 of man." ([Luke 21:25-28, 34,
-36](https://www.lds.org/scriptures/nt/luke/21.25-28%2C34%2C36?lang=eng#24).)
+36](/scriptures/nt/luke/21.25-28,34,36?lang=eng#24).)
 
 Let us all, my brothers and sisters, discern prophecy's fulfillment, set in
 order our homes, and be prepared for this important day. And finally, let us
 meet the challenge to "make ready a people" for the Lord's second coming, I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

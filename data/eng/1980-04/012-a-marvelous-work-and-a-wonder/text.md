@@ -3,11 +3,11 @@
 Seven centuries before the birth of Christ, Isaiah foresaw and foretold the
 restoration of the gospel of Jesus Christ in these latter days. He declared it
 would be a "marvelous work and a wonder" to all mankind ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13)). When Jesus
-appeared to the Nephites in America, He confirmed the prophecy of Isaiah in
-these words: "For my sake shall the Father work a work, which shall be a great
-and a marvelous work" among the people of the land of America in the last days
-([3 Ne. 21:9](https://www.lds.org/scriptures/bofm/3-ne/21.9?lang=eng#8)).
+29:14](/scriptures/ot/isa/29.14?lang=eng#13)). When Jesus appeared to the
+Nephites in America, He confirmed the prophecy of Isaiah in these words: "For
+my sake shall the Father work a work, which shall be a great and a marvelous
+work" among the people of the land of America in the last days ([3 Ne.
+21:9](/scriptures/bofm/3-ne/21.9?lang=eng#8)).
 
 April 6, 1830, in the state of New York, The Church of Jesus Christ of Latter-
 day Saints had its beginning in this dispensation, a beginning that went
@@ -23,12 +23,11 @@ enjoy phenomenal growth was likewise predicted. Jesus used the comparison of
 the small mustard seed to describe the early beginning of His church. But
 eventually, He declared, that insignificant seed would become a great tree and
 many would find refuge in its branches (see [Matt.
-13:31-32](https://www.lds.org/scriptures/nt/matt/13.31-32?lang=eng#30)).
+13:31-32](/scriptures/nt/matt/13.31-32?lang=eng#30)).
 
 The prophet Daniel described the beginning and remarkable growth of the Church
 as a small stone which would become a great mountain and fill the entire
-earth! (see [Dan. 2:34-35,
-44](https://www.lds.org/scriptures/ot/dan/2.34-35%2C44?lang=eng#33)).
+earth! (see [Dan. 2:34-35, 44](/scriptures/ot/dan/2.34-35,44?lang=eng#33)).
 
 As men have attempted to assess the Church at a given period of time, in many
 instances they have not been able to see its forward movement and potential.
@@ -43,8 +42,7 @@ efforts to destroy the work--even the murder of the Prophet Joseph Smith and
 his brother--the Church prospered and grew. There were those who thought the
 Church would fail with the deaths of the martyrs Joseph and Hyrum, but they
 did not perceive, as Daniel foretold, that this latter-day kingdom should
-"never be destroyed" ([Dan.
-2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43)).
+"never be destroyed" ([Dan. 2:44](/scriptures/ot/dan/2.44?lang=eng#43)).
 
 Just before the Prophet's death, Brigham Young said, "The kingdom is
 organized; and, although as yet no bigger than a grain of mustard seed, the
@@ -52,12 +50,11 @@ little plant is in a flourishing condition" (_History of the Church,_ 6:354).
 
 The Church of Jesus Christ of Latter-day Saints is, as Daniel prophesied, a
 spiritual kingdom "cut out of the mountain without hands" ([Dan.
-2:45](https://www.lds.org/scriptures/ot/dan/2.45?lang=eng#44)), meaning that
-it was begun through the intervention of God. It is not just another human
-institution. What other organizations or churches ascribe their founding to
-the declaration that messengers have come to human beings from the God of
-heaven with authority and power to restore ordinances and keys lost by
-apostasy?
+2:45](/scriptures/ot/dan/2.45?lang=eng#44)), meaning that it was begun through
+the intervention of God. It is not just another human institution. What other
+organizations or churches ascribe their founding to the declaration that
+messengers have come to human beings from the God of heaven with authority and
+power to restore ordinances and keys lost by apostasy?
 
 The Church has survived exile from four states, the harassment and persecution
 of its members, an extermination order from a governor, the execution of its
@@ -67,7 +64,7 @@ first sixty years of its history--and it was through such adversity,
 persecution, and impoverishment that the Church gained strength and matured.
 By the time Joseph F. Smith, the son of the Prophet Joseph's brother Hyrum,
 became President, he could say, "We have passed through the stages of infancy
-... , and are indeed approaching ... manhood and womanhood" (in Conference Report,
+..., and are indeed approaching ... manhood and womanhood" (in Conference Report,
 Apr. 1909, p. 2).
 
 Opposition to the Church did not subside with the twentieth century, but
@@ -82,13 +79,13 @@ endeavors.
 The missionary force brought a harvest of converts from all over the world.
 Seeds planted abroad as missions became stakes. Truly Zion had put on her
 beautiful garments; her borders had become enlarged (see [D&amp;C
-82:14](https://www.lds.org/scriptures/dc-testament/dc/82.14?lang=eng#13)).
-When Joseph Fielding Smith, son of President Joseph F. Smith, became President
-of the Church, he declared: "We are coming of age as a church and as a people.
-We have attained the stature and strength that are enabling us to fulfill the
-commission given us by the Lord through the Prophet Joseph Smith that we
-should carry the glad tidings of the restoration to every nation and to all
-people" (in Conference Report, Manchester England Area Conference 1971, p. 5).
+82:14](/scriptures/dc-testament/dc/82.14?lang=eng#13)). When Joseph Fielding
+Smith, son of President Joseph F. Smith, became President of the Church, he
+declared: "We are coming of age as a church and as a people. We have attained
+the stature and strength that are enabling us to fulfill the commission given
+us by the Lord through the Prophet Joseph Smith that we should carry the glad
+tidings of the restoration to every nation and to all people" (in Conference
+Report, Manchester England Area Conference 1971, p. 5).
 
 Two years later, President Smith's successor, President Harold B. Lee, said:
 "Today we are witnessing the demonstration of the Lord's hand even in the
@@ -102,7 +99,7 @@ enlarged, her stakes are being strengthened. ...
 the earth" (_Ensign,_ July 1973, pp. 4, 5).
 
 One year ago, President Kimball stood at this pulpit and said: "Since we last
-met in general conference ... , we have witnessed much growth and expansion of
+met in general conference ..., we have witnessed much growth and expansion of
 the Lord's kingdom. ...
 
 "We have established new missions covering almost all of the free world, and
@@ -158,10 +155,9 @@ and standards of virtue and honor, we may expect opposition to the work of the
 Church. We may expect to see the time, as the Book of Mormon forecasts, when
 "multitudes ... among all the nations of the Gentiles [will gather] to fight
 against the Lamb of God" ([1 Ne.
-14:13](https://www.lds.org/scriptures/bofm/1-ne/14.13?lang=eng#12)). The power
-of God and the righteousness of the Saints will be the means by which the
-Church will be spared (see [1 Ne.
-14:14-15](https://www.lds.org/scriptures/bofm/1-ne/14.14-15?lang=eng#13)).
+14:13](/scriptures/bofm/1-ne/14.13?lang=eng#12)). The power of God and the
+righteousness of the Saints will be the means by which the Church will be
+spared (see [1 Ne. 14:14-15](/scriptures/bofm/1-ne/14.14-15?lang=eng#13)).
 
 Never before in our 150-year history has there been greater need for
 faithfulness among our members. Now is the time for all who claim membership
@@ -232,4 +228,6 @@ the world.
 
 May God bless us all to be faithful and valiant, giving our first allegiance
 to God and His kingdom. In the name of Jesus Christ, amen.
+
+## References
 

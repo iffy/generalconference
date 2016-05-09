@@ -4,7 +4,7 @@ My dear brothers and sisters, first let me affirm my belief in the words of
 Nephi: "I will go and do the things which the Lord hath commanded, for I know
 that the Lord giveth no commandments unto the children of men, save he shall
 prepare a way ... that they may accomplish the thing which he commandeth them."
-([1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 Without this belief there would be no way to accept the awesome responsibility
 to serve as Relief Society general president.
@@ -59,4 +59,6 @@ My counselors and I look forward eagerly to serving. And we want to serve in a
 way that will help women everywhere contribute to the great forward movement
 of the Church. I know that in the strength of the Lord we can do all things
 required of us. In the name of Jesus Christ, amen.
+
+## References
 

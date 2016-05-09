@@ -70,8 +70,8 @@ Surely the prayer of President Hinckley is being fulfilled as thousands of
 young men and women, as well as elderly couples, are responding to the clarion
 call of the Lord, "that it is my will that you should proclaim my gospel from
 land to land, and from city to city, yea, in those regions round about where
-it has not been proclaimed." ([D&amp;C 66:5](https://www.lds.org/scriptures
-/dc-testament/dc/66.5?lang=eng#4).)
+it has not been proclaimed." ([D&amp;C 66:5](/scriptures/dc-
+testament/dc/66.5?lang=eng#4).)
 
 After three years of working closely as mission president with these young,
 devoted, upright, and virtuous missionaries, I am humbled and grateful for the
@@ -94,22 +94,20 @@ Indeed our modern day heralds of truth laboring in the Philippines and other
 lands work hard and pray constantly to be worthy instruments of the Lord in
 testifying and challenging all to come unto Christ through repentance and
 baptism, "teaching them to [do] all things" which the Lord has commanded.
-([Matt. 28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19).)
+([Matt. 28:20](/scriptures/nt/matt/28.20?lang=eng#19).)
 
 Like the sons of Mosiah, "they had searched the scriptures diligently, that
 they might know the word of God." ([Alma
-17:2](https://www.lds.org/scriptures/bofm/alma/17.2?lang=eng#1).) And "they
-had given themselves to much prayer, and fasting; therefore they had the
-spirit of prophecy, and the spirit of revelation, and when they taught, they
-taught with power and authority of God." ([Alma
-17:3](https://www.lds.org/scriptures/bofm/alma/17.3?lang=eng#2).) And "they
-did suffer much, both in body and in mind, such as hunger, thirst and fatigue,
-and also much labor in the spirit." ([Alma
-17:5](https://www.lds.org/scriptures/bofm/alma/17.5?lang=eng#4).) But after
-the completion of an honorable mission, like Ammon, one of the sons of Mosiah,
-these missionaries can also say, "My joy is full, yea, my heart is brim with
-joy, and I will rejoice in my God." ([Alma
-26:11](https://www.lds.org/scriptures/bofm/alma/26.11?lang=eng#10).)
+17:2](/scriptures/bofm/alma/17.2?lang=eng#1).) And "they had given themselves
+to much prayer, and fasting; therefore they had the spirit of prophecy, and
+the spirit of revelation, and when they taught, they taught with power and
+authority of God." ([Alma 17:3](/scriptures/bofm/alma/17.3?lang=eng#2).) And
+"they did suffer much, both in body and in mind, such as hunger, thirst and
+fatigue, and also much labor in the spirit." ([Alma
+17:5](/scriptures/bofm/alma/17.5?lang=eng#4).) But after the completion of an
+honorable mission, like Ammon, one of the sons of Mosiah, these missionaries
+can also say, "My joy is full, yea, my heart is brim with joy, and I will
+rejoice in my God." ([Alma 26:11](/scriptures/bofm/alma/26.11?lang=eng#10).)
 
 We are also witnessing the literal fulfillment of the prayers and blessings
 for the people of our land given by President Hinckley that lovely April
@@ -138,15 +136,16 @@ who are now living in a more sanitary condition and are healthier, more
 educated, always ready and delighted to help others, grateful for what they
 have, no matter how humble, and generally happier. They have obeyed the Lord's
 counsel to "learn of me, and listen to my words; walk in the meekness of my
-Spirit, and you shall have peace in me." ([D&amp;C
-19:23](https://www.lds.org/scriptures/dc-testament/dc/19.23?lang=eng#22).)
-Generally, however, the faith, devotion, and living of correct gospel
-principles by the members have improved their lives not only spiritually but
-also temporally, for did not the Lord say that the "willing and obedient shall
-eat the good of the land of Zion in these last days"? ([D&amp;C
-64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33).)
+Spirit, and you shall have peace in me." ([D&amp;C 19:23](/scriptures/dc-
+testament/dc/19.23?lang=eng#22).) Generally, however, the faith, devotion, and
+living of correct gospel principles by the members have improved their lives
+not only spiritually but also temporally, for did not the Lord say that the
+"willing and obedient shall eat the good of the land of Zion in these last
+days"? ([D&amp;C 64:34](/scriptures/dc-testament/dc/64.34?lang=eng#33).)
 
 That the Lord will continue to bless our people with joy and peace of mind as
 they obey His commandments and the counsels of our leaders in the midst of
 adversity is my humble prayer in Jesus' name, amen.
+
+## References
 

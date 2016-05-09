@@ -45,17 +45,18 @@ the outset of this ministry, I acknowledge that anything I may achieve will be
 by virtue of the power and the grace and the gift of God. I am not, in
 Isaiah's words, the axe that shall "boast itself against him that heweth
 therewith"; I am not the saw that shall "magnify itself against him that
-shaketh it." ([Isa.
-10:15](https://www.lds.org/scriptures/ot/isa/10.15?lang=eng#14).) With Nephi,
+shaketh it." ([Isa. 10:15](/scriptures/ot/isa/10.15?lang=eng#14).) With Nephi,
 I know in whom I have trusted. (See [2 Ne.
-4:19](https://www.lds.org/scriptures/bofm/2-ne/4.19?lang=eng#18).)
+4:19](/scriptures/bofm/2-ne/4.19?lang=eng#18).)
 
 I am particularly gratified, and it is of great significance to me, that I may
 at any moment and in any circumstance approach through prayer the throne of
 grace, that my Heavenly Father will hear my petition, that my Advocate, him
 who did no sin, whose blood was shed, will plead my cause. (See [D&amp;C
-45:3-5](https://www.lds.org/scriptures/dc-testament/dc/45.3-5?lang=eng#2).) I
-rely heavily on that access to God, which he gives to all his children, for he
-is indeed no respecter of persons, and he that asks shall receive. I so
-witness in the name of Jesus Christ, amen.
+45:3-5](/scriptures/dc-testament/dc/45.3-5?lang=eng#2).) I rely heavily on
+that access to God, which he gives to all his children, for he is indeed no
+respecter of persons, and he that asks shall receive. I so witness in the name
+of Jesus Christ, amen.
+
+## References
 

@@ -29,8 +29,7 @@ of the truth heareth my voice.
 
 "Pilate saith unto him, What is truth? And when he had said this, he went out
 again unto the Jews, and saith unto them, I find in him no fault at all."
-([John
-18:33-38](https://www.lds.org/scriptures/nt/john/18.33-38?lang=eng#32).)
+([John 18:33-38](/scriptures/nt/john/18.33-38?lang=eng#32).)
 
 Further negotiations, however, between Pilate and the accusers of Jesus
 brought about the crucifixion.
@@ -66,12 +65,12 @@ quoting Lucretius, in "Essay of Truth," p. 8.)
 
 It is fitting that we remember the words of Jesus: "And for this cause came I
 into the world, that I should bear witness unto the truth." ([John
-18:37](https://www.lds.org/scriptures/nt/john/18.37?lang=eng#36).)
+18:37](/scriptures/nt/john/18.37?lang=eng#36).)
 
 Truth is knowledge! "This is life eternal, that they might know thee the only
 true God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).) Truth defined
-is found in the gospel of Jesus Christ.
+17:3](/scriptures/nt/john/17.3?lang=eng#2).) Truth defined is found in the
+gospel of Jesus Christ.
 
 During the Savior's ministry on earth, He organized His church, choosing
 humble but sincere men to be His apostles; He lived with them; He made
@@ -97,7 +96,7 @@ heaven.
 
 "And I say also unto thee, That thou art Peter, and upon this rock I will
 build my church; and the gates of hell shall not prevail against it." ([Matt.
-16:13-18](https://www.lds.org/scriptures/nt/matt/16.13-18?lang=eng#12).)
+16:13-18](/scriptures/nt/matt/16.13-18?lang=eng#12).)
 
 The rock of revelation is the foundation of His church. The principle of
 revelation is indispensable in the living church. This principle is inherent
@@ -108,15 +107,15 @@ authority of divine revelation.
 Early in the nineteenth century a sincere young man whose name was Joseph
 Smith, a seeker after truth, found in the Epistle of James (which was written
 to the "twelve tribes which are scattered abroad" [[James
-1:1](https://www.lds.org/scriptures/nt/james/1.1?lang=eng#0)]) these powerful
-words: "If any of you lack wisdom, let him ask of God, that giveth to all men
-liberally, and upbraideth not; and it shall be given him.
+1:1](/scriptures/nt/james/1.1?lang=eng#0)]) these powerful words: "If any of
+you lack wisdom, let him ask of God, that giveth to all men liberally, and
+upbraideth not; and it shall be given him.
 
 "But let him ask in faith, nothing wavering. For he that wavereth is like a
 wave of the sea driven with the wind and tossed.
 
 "For let not that man think that he shall receive any thing of the Lord."
-([James 1:5-7](https://www.lds.org/scriptures/nt/james/1.5-7?lang=eng#4).)
+([James 1:5-7](/scriptures/nt/james/1.5-7?lang=eng#4).)
 
 With that heavenly invitation to truth, Joseph Smith ventured into the sphere
 of prayer and received the knowledge of the Father and the Son, two
@@ -125,14 +124,13 @@ his inquiry Joseph was told that none of the churches existent were true, that
 "they draw near to me with their lips, but their hearts are far from me, they
 teach for doctrines the commandments of men, having a form of godliness, but
 they deny the power thereof." ([JS--H
-1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18).)
+1:19](/scriptures/pgp/js-h/1.19?lang=eng#18).)
 
 Further instruction came to him at that time that he would be God's instrument
 in restoring His true church upon the earth.
 
 "Surely the Lord God will do nothing, but he revealeth his secret unto his
-servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+servants the prophets." ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 Sometime later in 1841, eleven years after the organization of the restored
 church, Joseph Smith was requested to set forth a brief statement of the
@@ -142,12 +140,11 @@ revelation from the divine source. It says:
 
 "We believe the Bible to be the word of God as far as it is translated
 correctly; we also believe the Book of Mormon to be the word of God. [[A of F
-1:8](https://www.lds.org/scriptures/pgp/a-of-f/1.8?lang=eng#7)]
+1:8](/scriptures/pgp/a-of-f/1.8?lang=eng#7)]
 
 "We believe all that God has revealed, all that He does now reveal, and we
 believe that He will yet reveal many great and important things pertaining to
-the Kingdom of God." [[A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8)]
+the Kingdom of God." [[A of F 1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8)]
 
 We know that the Bible is a compilation of the available revealed messages
 received by the prophets from God for the benefit and guidance of God's
@@ -167,8 +164,7 @@ made.
 "In him was life; and the life was the light of men.
 
 "He was in the world, and the world was made by him, and the world knew him
-not." ([John 1:1-4,
-10](https://www.lds.org/scriptures/nt/john/1.1-4%2C10?lang=eng#0).)
+not." ([John 1:1-4, 10](/scriptures/nt/john/1.1-4,10?lang=eng#0).)
 
 Jesus was the Creator of this world and all things pertaining to it. He was
 Jehovah who revealed His will to the prophets, thus ushering in all of the
@@ -182,9 +178,9 @@ Prophet Joseph Smith. It stands as a new witness of Jesus Christ and discloses
 that His gospel was known to the ancient inhabitants of the Americas and that
 He visited the Americas after His ascension. These inhabitants were known to
 Him as "other sheep of my fold" (see [John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15); [3 Ne.
-15:21](https://www.lds.org/scriptures/bofm/3-ne/15.21?lang=eng#20)) for they
-carried in their veins the blood of Israel.
+10:16](/scriptures/nt/john/10.16?lang=eng#15); [3 Ne.
+15:21](/scriptures/bofm/3-ne/15.21?lang=eng#20)) for they carried in their
+veins the blood of Israel.
 
 Through modern revelation we now know that Adam received the gospel. It has
 been revealed that "Adam and Eve, his wife, called upon the name of the Lord,
@@ -209,15 +205,15 @@ shalt repent and call upon God in the name of the Son forevermore.
 Father and the Son, saying: I am the Only Begotten of the Father from the
 beginning, henceforth and forever, that as thou hast fallen thou mayest be
 redeemed, and all mankind, even as many as will." ([Moses
-5:4-9](https://www.lds.org/scriptures/pgp/moses/5.4-9?lang=eng#3).)
+5:4-9](/scriptures/pgp/moses/5.4-9?lang=eng#3).)
 
 We now know more concerning Enoch. The Bible gives but little information
 about this great prophet. Latter-day revelation tells of his work among his
 people. Says Enoch, "The Lord which spake with me, the same is the God of
 heaven, and he is my God, and your God." ([Moses
-6:43](https://www.lds.org/scriptures/pgp/moses/6.43?lang=eng#42).) He
-explained to Enoch the whole plan of salvation, the gospel of Jesus Christ as
-it had been declared to father Adam.
+6:43](/scriptures/pgp/moses/6.43?lang=eng#42).) He explained to Enoch the
+whole plan of salvation, the gospel of Jesus Christ as it had been declared to
+father Adam.
 
 We now know more of Noah, that the "Lord ordained Noah after his own order,
 and commanded him that he should go forth and declare his Gospel unto the
@@ -229,7 +225,7 @@ children of men, even as it was given unto Enoch.
 the Son of God, even as our fathers, and ye shall receive the Holy Ghost, that
 ye may have all things made manifest; and if ye do not this, the floods will
 come in upon you; nevertheless they hearkened not." ([Moses 8:19,
-23-24](https://www.lds.org/scriptures/pgp/moses/8.19%2C23-24?lang=eng#18).)
+23-24](/scriptures/pgp/moses/8.19,23-24?lang=eng#18).)
 
 Now we know more of Abraham, as Jehovah spoke to him and said: "My name is
 Jehovah, and I know the end from the beginning; therefore my hand shall be
@@ -238,7 +234,7 @@ over thee.
 "And I will make of thee a great nation, ... and thou shalt be a blessing unto
 thy seed after thee, that in their hands they shall bear this ministry and
 Priesthood unto all nations." ([Abr.
-2:8-9](https://www.lds.org/scriptures/pgp/abr/2.8-9?lang=eng#7).)
+2:8-9](/scriptures/pgp/abr/2.8-9?lang=eng#7).)
 
 He declared to Abraham the vision of the preexistence of mankind: "Now the
 Lord had shown unto me ... the intelligences that were organized before the
@@ -246,13 +242,13 @@ world was; and among all these there were many of the noble and great ones;
 
 "And God saw these souls that they were good ... and he said unto me: Abraham,
 thou art one of them; thou wast chosen before thou wast born." ([Abr.
-3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21).)
+3:22-23](/scriptures/pgp/abr/3.22-23?lang=eng#21).)
 
 Were we to continue to review all of the modern revelations, we would come to
 realize that this is now the time of which Paul revealed to the Ephesians
 "that in the dispensation of the fulness of times he might gather together in
 one all things in Christ, both which are in heaven and which are on earth."
-([Eph. 1:10](https://www.lds.org/scriptures/nt/eph/1.10?lang=eng#9).)
+([Eph. 1:10](/scriptures/nt/eph/1.10?lang=eng#9).)
 
 The gospel reveals to us the need for Jesus to offer Himself as a sacrifice
 for the sins of men that all mankind may be redeemed, that man may be saved by
@@ -282,4 +278,6 @@ May that be done in the attitude of prayer.
 
 I bear witness to the truth, that revelation and prayer are indispensable in
 attaining eternal life, and this I do in the name of Jesus Christ. Amen.
+
+## References
 

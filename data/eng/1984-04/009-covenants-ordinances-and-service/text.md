@@ -43,15 +43,15 @@ more subtle and more brazen than it has ever been. It is taking its toll among
 our families. It will be difficult to escape these influences.
 
 However, if we act more wisely, we will be safe. "If ye are prepared ye shall
-not fear." ([D&amp;C 38:30](https://www.lds.org/scriptures/dc-
-testament/dc/38.30?lang=eng#29).) The solution is simple. The results are
-certain. _No longer can we expect the Church to assume the major role in
-teaching our children--parents have this prime responsibility._ Parents will
-be held fully accountable by the Lord to teach their children the principles
-and ordinances of the gospel and inspire them to serve. The Church, of course,
-will support parents through home teachers, visiting teachers, classes,
-counseling, and other assistance. No single parent in this Church needs to
-feel abandoned in carrying out the duties imposed by the Lord.
+not fear." ([D&amp;C 38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+The solution is simple. The results are certain. _No longer can we expect the
+Church to assume the major role in teaching our children--parents have this
+prime responsibility._ Parents will be held fully accountable by the Lord to
+teach their children the principles and ordinances of the gospel and inspire
+them to serve. The Church, of course, will support parents through home
+teachers, visiting teachers, classes, counseling, and other assistance. No
+single parent in this Church needs to feel abandoned in carrying out the
+duties imposed by the Lord.
 
 Recent studies by the Church have identified some things that parents can do
 to achieve our goals. Elder Dean Larsen reported the results:
@@ -79,7 +79,7 @@ Parents, we must start each day by kneeling in family prayer. Children need to
 pray and gain knowledge for _themselves_ from the Holy Ghost. Nephi said, "For
 if ye would hearken unto the Spirit which teacheth a man to pray ye would know
 that ye must pray; for the evil spirit teacheth not a man to pray." ([2 Ne.
-32:8](https://www.lds.org/scriptures/bofm/2-ne/32.8?lang=eng#7).)
+32:8](/scriptures/bofm/2-ne/32.8?lang=eng#7).)
 
 ## Scripture Study
 
@@ -89,14 +89,13 @@ appropriately be used for both personal and family scripture study.
 
 Few things sponsor spiritual growth more than studying from the scriptures.
 The Savior said, "He that hath the scriptures, let him search them, and see.
-..." ([3 Ne.
-10:14](https://www.lds.org/scriptures/bofm/3-ne/10.14?lang=eng#13).) The Lord
-has promised that if you will search, you shall see marvelous spiritual truths
+..." ([3 Ne. 10:14](/scriptures/bofm/3-ne/10.14?lang=eng#13).) The Lord has
+promised that if you will search, you shall see marvelous spiritual truths
 that will persuade you to turn to Christ as your great exemplar. You will be
 strengthened in your desire to make covenants with the Lord, to receive the
 ordinances, and to serve. Alma taught a great principle when he said to
 Helaman, "My son, ... see that ye look to God and live." ([Alma
-37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46).)
+37:47](/scriptures/bofm/alma/37.47?lang=eng#46).)
 
 Parents, when you desire to really teach, what do you do? Should we not do as
 the Savior did? He used questions. He quoted the scriptures, used parables,
@@ -115,8 +114,7 @@ covenants, ordinances, and service.
 
 A covenant is a mutual exchange of enforceable promises. "I, the Lord, am
 bound when ye do what I say; but when ye do not what I say, ye have no
-promise." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
-testament/dc/82.10?lang=eng#9).)
+promise." ([D&amp;C 82:10](/scriptures/dc-testament/dc/82.10?lang=eng#9).)
 
 Gospel covenants are made between God and man. The terms are stipulated by the
 Lord. Gospel covenants have been given to us by revelation. He has given us
@@ -143,7 +141,7 @@ live with the Lord.
 Service, then, becomes one of the highest virtues. The Savior is our example
 of unselfish service. Service is a divinely appointed duty. King Benjamin
 taught that service to others is the same as service to our God. (See [Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).)
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).)
 
 Parents, if you will keep in mind that you are preparing your sons and
 daughters to make covenants, receive ordinances, and render service, you will
@@ -160,4 +158,6 @@ When we as parents have a genuine _desire_ to teach the gospel to our
 children, the Lord will give us entrance into their hearts. Then may we know
 that as we enter there we stand on holy ground. In the name of Jesus Christ,
 amen.
+
+## References
 

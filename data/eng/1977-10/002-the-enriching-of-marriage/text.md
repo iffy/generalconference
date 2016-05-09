@@ -56,7 +56,7 @@ dull.
 
 You might wonder, "How can a marriage be constantly enriched?" Adam, speaking
 of Eve, said, "This is now bone of my bones, and flesh of my flesh." ([Gen.
-2:23](https://www.lds.org/scriptures/ot/gen/2.23?lang=eng#22).)
+2:23](/scriptures/ot/gen/2.23?lang=eng#22).)
 
 We build our marriages with endless friendship, confidence, integrity, and by
 administering and sustaining each other in our difficulties.
@@ -113,8 +113,7 @@ by shunning any questionable contact with another to whom we are not married.
 
 Virtue is the strong glue which holds it all together. Said the Lord, "Thou
 shalt love thy wife with all thy heart, and shalt cleave unto her and none
-else." ([D&amp;C 42:22](https://www.lds.org/scriptures/dc-
-testament/dc/42.22?lang=eng#21).)
+else." ([D&amp;C 42:22](/scriptures/dc-testament/dc/42.22?lang=eng#21).)
 
 Of all that can bless marriages, there is one special enriching ingredient,
 which above all else will help join a man and a woman together in a very real,
@@ -162,10 +161,11 @@ Marriage is a joint quest for the good, the beautiful, and the divine.
 
 The Savior has said, "Behold, I stand at the door, and knock: if any man hear
 my voice, and open the door, I will come in to him, and will sup with him, and
-he with me." ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).)
+he with me." ([Rev. 3:20](/scriptures/nt/rev/3.20?lang=eng#19).)
 
 May the presence of God be found enriching and blessing all marriages and
 homes, especially those of His Saints, as part of His eternal plan, I pray
 humbly in the sacred name of Jesus Christ. Amen.
+
+## References
 

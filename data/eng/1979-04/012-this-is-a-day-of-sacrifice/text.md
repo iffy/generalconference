@@ -7,8 +7,8 @@ for this _is_ a day of sacrifice.
 
 The Lord said in September 1831, "Now it is called today until the coming of
 the Son of Man, and verily _it is a day of sacrifice ... of my people_"
-([D&amp;C 64:23](https://www.lds.org/scriptures/dc-
-testament/dc/64.23?lang=eng#22); italics added).
+([D&amp;C 64:23](/scriptures/dc-testament/dc/64.23?lang=eng#22); italics
+added).
 
 The Prophet Joseph Smith prepared this remarkable statement on the principle
 of sacrifice for the _Lectures on Faith:_
@@ -60,20 +60,18 @@ become as He is. Moroni, a Book of Mormon prophet, described the way:
 ungodliness;_ and if ye shall deny yourselves of all ungodliness and love God
 with all your might, mind and strength, then is his grace sufficient for you,
 that by his grace ye may be perfect in Christ" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31); italics
-added).
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31); italics added).
 
 The Savior himself declared: "Repent, all ye ends of the earth, and _come unto
 me_ and be baptized in my name, that ye may be sanctified by the reception of
 the Holy Ghost, that ye may stand spotless before me at the last day" ([3 Ne.
-27:20](https://www.lds.org/scriptures/bofm/3-ne/27.20?lang=eng#19); italics
-added).
+27:20](/scriptures/bofm/3-ne/27.20?lang=eng#19); italics added).
 
 To deny oneself of all ungodliness is to come to Christ by ordinances and
 covenants to repent of any sins which prevent the Spirit of the Lord from
 taking precedence in our lives. To deny oneself of all ungodliness is to
-"offer a sacrifice unto the Lord thy God ... , even that of a broken heart and a
-contrite spirit" ([D&amp;C 59:8](https://www.lds.org/scriptures/dc-
+"offer a sacrifice unto the Lord thy God ..., even that of a broken heart and a
+contrite spirit" ([D&amp;C 59:8](/scriptures/dc-
 testament/dc/59.8?lang=eng#7)).
 
 It is a willingness to forgo personal bad habits such as tobacco, alcohol,
@@ -93,8 +91,7 @@ contrite spirits, repenting of our sins, may we do so now. May our prayers
 contain the same sentiment of sacrifice expressed by an ancient Book of Mormon
 king who petitioned, "O God, ... wilt thou make thyself known unto me, and I
 will _give away all my sins_ to know thee" ([Alma
-22:18](https://www.lds.org/scriptures/bofm/alma/22.18?lang=eng#17); italics
-added).
+22:18](/scriptures/bofm/alma/22.18?lang=eng#17); italics added).
 
 Second: _To sacrifice, be willing to serve a mission._ Concerning serving a
 mission, President Kimball has said, "How selfish and thoughtless would it be
@@ -168,10 +165,10 @@ Doctrine and Covenants. Essentially you will receive, as the Lord said:
 
 "Ye shall come forth in the first resurrection; ... and shall inherit thrones,
 kingdoms, principalities, and powers ... ; [Ye] shall pass by the angels, and
-the gods, ... to [your] exaltation ... , which glory shall be a fulness and a
-continuation of the seeds forever and ever" ([D&amp;C
-132:19](https://www.lds.org/scriptures/dc-testament/dc/132.19?lang=eng#18)).
-Temple marriage is a gospel ordinance for exaltation.
+the gods, ... to [your] exaltation ..., which glory shall be a fulness and a
+continuation of the seeds forever and ever" ([D&amp;C 132:19](/scriptures/dc-
+testament/dc/132.19?lang=eng#18)). Temple marriage is a gospel ordinance for
+exaltation.
 
 Don't trifle away your happiness by an involvement with someone who cannot
 take you worthily to the temple. Make a decision now that this is the place
@@ -201,8 +198,7 @@ and follow me.
 
 "For whosoever will save his life shall lose it: and whosoever will lose his
 life for my sake shall find it." ([Matt.
-16:24-25](https://www.lds.org/scriptures/nt/matt/16.24-25?lang=eng#23);
-italics added.)
+16:24-25](/scriptures/nt/matt/16.24-25?lang=eng#23); italics added.)
 
 Opportunities to lose oneself for the good of others present themselves daily:
 the mother who serves her children's needs; the father who gives his time for
@@ -234,6 +230,8 @@ day of sacrifice" for the people of the Lord!
 I testify to you that this is a day of sacrifice, that it is part of the
 Lord's plan to bless us, His children. I pray we will do as the Psalmist
 exhorted--"offer the sacrifices of righteousness, and put [our] trust in the
-Lord" ([Ps. 4:5](https://www.lds.org/scriptures/ot/ps/4.5?lang=eng#4)). In the
-name of Jesus Christ, amen.
+Lord" ([Ps. 4:5](/scriptures/ot/ps/4.5?lang=eng#4)). In the name of Jesus
+Christ, amen.
+
+## References
 

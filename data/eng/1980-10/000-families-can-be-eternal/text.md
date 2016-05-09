@@ -59,11 +59,10 @@ the first place.
 
 Whether we like it or not, so many of the difficulties which beset the family
 today stem from the breaking of the seventh commandment (see [Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13)). Total
-chastity before marriage and total fidelity after are still the standard from
-which there can be no deviation without sin, misery, and unhappiness. The
-breaking of the seventh commandment usually means the breaking of one or more
-homes.
+20:14](/scriptures/ot/ex/20.14?lang=eng#13)). Total chastity before marriage
+and total fidelity after are still the standard from which there can be no
+deviation without sin, misery, and unhappiness. The breaking of the seventh
+commandment usually means the breaking of one or more homes.
 
 Delinquent adults still tend to produce delinquent children, and that awful
 reality will not change simply by our lowering standards as to what
@@ -99,8 +98,7 @@ to discipline themselves or be disciplined.
 
 Rising generations who have been taught that authority and loving discipline
 are wrong will not keep the fifth commandment, honoring their fathers and
-mothers (see [Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11)). How can the
+mothers (see [Ex. 20:12](/scriptures/ot/ex/20.12?lang=eng#11)). How can the
 rising generations honor their parents if their parents have dishonored
 themselves--especially by breaking the seventh commandment?
 
@@ -143,4 +141,6 @@ go together, hand in hand, and so must we!
 I bear you my solemn witness that God lives, that Jesus Christ lives, and that
 he is our Savior and Redeemer. I leave you my love and my blessings, in the
 name of Jesus Christ, amen.
+
+## References
 

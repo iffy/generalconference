@@ -9,7 +9,7 @@ centered in and through His holy name.
 
 We proclaim, as did John the Baptist upon seeing Jesus approaching the River
 Jordan, "Behold the Lamb of God, which taketh away the sin of the world."
-([John 1:29](https://www.lds.org/scriptures/nt/john/1.29?lang=eng#28).)
+([John 1:29](/scriptures/nt/john/1.29?lang=eng#28).)
 
 He taught the doctrines of His gospel, that every soul may have the
 opportunity to gain the blessings of eternal life.
@@ -37,7 +37,7 @@ and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:37-40](https://www.lds.org/scriptures/nt/matt/22.37-40?lang=eng#36).)
+22:37-40](/scriptures/nt/matt/22.37-40?lang=eng#36).)
 
 Love is this divine ingredient. It alone describes what can be our perfect
 relationship to our Heavenly Father and our family and neighbors, and the
@@ -48,7 +48,7 @@ by Jewish teachers, but Jesus brought them together and made the second "like"
 the first; and by the example of His own life, He made love of God and love of
 mankind the heart of the gospel. "By this," He said, "shall all men know that
 ye are my disciples, if ye have love one to another." ([John
-13:35](https://www.lds.org/scriptures/nt/john/13.35?lang=eng#34).)
+13:35](/scriptures/nt/john/13.35?lang=eng#34).)
 
 Besides loving God, we are commanded to do what to many is a more difficult
 commandment--to love all, even enemies, and to go beyond the barriers of race
@@ -65,8 +65,8 @@ To the lawyer who asked, "Master, what shall I do to inherit eternal life?"
 and the lawyer's subsequent reciting of the commandments to "love ... God ... and
 thy neighbour as thyself," Jesus replied, "This do, and thou shalt live." Then
 the lawyer pressed further, "And who is my neighbour?" (See [Luke
-10:25-29](https://www.lds.org/scriptures/nt/luke/10.25-29?lang=eng#24).) The
-Savior's parable that followed is the pure essence of love:
+10:25-29](/scriptures/nt/luke/10.25-29?lang=eng#24).) The Savior's parable
+that followed is the pure essence of love:
 
 "A certain man went down from Jerusalem to Jericho, and fell among thieves,
 which stripped him of his raiment, and wounded him, and departed, leaving him
@@ -93,7 +93,7 @@ among the thieves?
 
 "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and
 do thou likewise." ([Luke
-10:30-37](https://www.lds.org/scriptures/nt/luke/10.30-37?lang=eng#29).)
+10:30-37](/scriptures/nt/luke/10.30-37?lang=eng#29).)
 
 The essential difference between the Samaritan and the other two men was that
 one had a compassionate heart and the others had selfish hearts. Though
@@ -126,8 +126,7 @@ Knowing that we should love is not enough. But when knowledge is applied
 through service, love can secure for us the blessings of heaven. Jesus taught:
 
 "Greater love hath no man than this, that a man lay down his life for his
-friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+friends." ([John 15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 A commercial airplane plunged into the Potomac River near Washington, D.C.,
 earlier this year, and an unidentified passenger gave his life for his
@@ -163,7 +162,7 @@ How can we earn God's love? The Savior taught:
 
 "If ye keep my commandments, ye shall abide in my love; even as I have kept my
 Father's commandments, and abide in his love." ([John
-15:10](https://www.lds.org/scriptures/nt/john/15.10?lang=eng#9).)
+15:10](/scriptures/nt/john/15.10?lang=eng#9).)
 
 Love is a gift of God, and as we obey His laws and genuinely learn to serve
 others, we develop God's love in our lives.
@@ -183,14 +182,12 @@ spread.
 God accomplishes His purposes heart to heart. The prophet Nephi helps us to
 understand this: "It is the love of God, which sheddeth itself abroad in the
 hearts of the children of men; wherefore, it is the most desirable above all
-things." ([1 Ne.
-11:22](https://www.lds.org/scriptures/bofm/1-ne/11.22?lang=eng#21).)
+things." ([1 Ne. 11:22](/scriptures/bofm/1-ne/11.22?lang=eng#21).)
 
 The depth and magnitude of God's love for all of His children is emphasized in
 the writings of John: "For God so loved the world, that he gave his only
 begotten Son, that whosoever believeth in him should not perish, but have
-everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+everlasting life." ([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 Brother and Sister Willes Cheney were called as missionaries to the Canada
 Halifax Mission and assigned to the far north, to Canbrook, Newfoundland. The
@@ -223,7 +220,7 @@ John the Beloved, who had a special closeness to our Lord, wrote:
 to be the propitiation for our sins.
 
 "Beloved, if God so loved us, we ought also to love one another." ([1 Jn.
-4:10-11](https://www.lds.org/scriptures/nt/1-jn/4.10-11?lang=eng#9).)
+4:10-11](/scriptures/nt/1-jn/4.10-11?lang=eng#9).)
 
 By his paying the debt of sin for each of us, Jesus brings us, if we desire,
 to his Father. We sing these expressive words, which truly convey our
@@ -255,10 +252,11 @@ _Until at the glorified throne I kneel at his feet._
 
 May each of us adequately play our role in the final accomplishment of God's
 declared work and glory, "to bring to pass the immortality and eternal life of
-man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)), by striving
-for perfection and by being obedient to all the laws and ordinances of the
-gospel--all of us strengthened by our compliance with the great commandments
-to love God and our neighbors, I pray as I bear witness that this is His work,
-that He loves us all. In the name of Jesus Christ, amen.
+man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)), by striving for
+perfection and by being obedient to all the laws and ordinances of the gospel
+--all of us strengthened by our compliance with the great commandments to love
+God and our neighbors, I pray as I bear witness that this is His work, that He
+loves us all. In the name of Jesus Christ, amen.
+
+## References
 

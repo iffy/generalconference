@@ -34,34 +34,32 @@ willingly and unselfishly manifest this principle in the way they live.
 I speak of that second commandment, linked inseparably by the Lord Jesus
 Christ with the "first and great commandment," being indeed "like unto it. ...
 On these two commandments hang all the law and the prophets," he said ([Matt.
-22:38-40](https://www.lds.org/scriptures/nt/matt/22.38-40?lang=eng#37)).
+22:38-40](/scriptures/nt/matt/22.38-40?lang=eng#37)).
 
 The Apostle James called the second commandment the "royal law" ([James
-2:8](https://www.lds.org/scriptures/nt/james/2.8?lang=eng#7)). Paul wrote to
-the Corinthians that "all the law is fulfilled in one word, even in this; Thou
-shalt love thy neighbour as thyself" ([Gal.
-5:14](https://www.lds.org/scriptures/nt/gal/5.14?lang=eng#13)).
+2:8](/scriptures/nt/james/2.8?lang=eng#7)). Paul wrote to the Corinthians that
+"all the law is fulfilled in one word, even in this; Thou shalt love thy
+neighbour as thyself" ([Gal. 5:14](/scriptures/nt/gal/5.14?lang=eng#13)).
 
 Christ's ministry and his teachings leave no room to doubt with what
 seriousness we must accept and apply this sacred instruction. As he taught the
 law of love, Jesus was asked, "And who is my neighbour?" ([Luke
-10:29](https://www.lds.org/scriptures/nt/luke/10.29?lang=eng#28)). In answer
-he told the story of a man traveling from Jerusalem to Jericho who fell among
-thieves and was robbed and wounded and left at the wayside half dead. A priest
-and a Levite came by, and "looked on him, and passed by on the other side"
-([Luke 10:32](https://www.lds.org/scriptures/nt/luke/10.32?lang=eng#31); see
-also [Luke 10:31](https://www.lds.org/scriptures/nt/luke/10.31?lang=eng#30)).
+10:29](/scriptures/nt/luke/10.29?lang=eng#28)). In answer he told the story of
+a man traveling from Jerusalem to Jericho who fell among thieves and was
+robbed and wounded and left at the wayside half dead. A priest and a Levite
+came by, and "looked on him, and passed by on the other side" ([Luke
+10:32](/scriptures/nt/luke/10.32?lang=eng#31); see also [Luke
+10:31](/scriptures/nt/luke/10.31?lang=eng#30)).
 
 Into this scene came a Samaritan, a man to whose people and cities the Twelve
 had been forbidden to go (see [Matt.
-10:5-6](https://www.lds.org/scriptures/nt/matt/10.5-6?lang=eng#4)), and he
-stopped and gave immediate and continuing aid to the troubled man. Jesus said:
-"Which now of these three, thinkest thou, was neighbour unto him that fell
-among the thieves?
+10:5-6](/scriptures/nt/matt/10.5-6?lang=eng#4)), and he stopped and gave
+immediate and continuing aid to the troubled man. Jesus said: "Which now of
+these three, thinkest thou, was neighbour unto him that fell among the
+thieves?
 
 "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and
-do thou likewise" ([Luke
-10:36-37](https://www.lds.org/scriptures/nt/luke/10.36-37?lang=eng#35)).
+do thou likewise" ([Luke 10:36-37](/scriptures/nt/luke/10.36-37?lang=eng#35)).
 
 Can there be any question as to the meaning of that story?
 
@@ -71,9 +69,9 @@ understand the place of vital importance in the fundamentals of our faith that
 Jesus gave it. For him, in his life and teachings, it was not an option.
 Indeed, he declared that without it one could not qualify for the greatest of
 eternal blessings--eternal life (see [Matt.
-25:31-46](https://www.lds.org/scriptures/nt/matt/25.31-46?lang=eng#30)). The
-scriptures consistently so teach--acts of Christian service are expressions of
-Christian love. My observation and experience confirm the truth of it for me.
+25:31-46](/scriptures/nt/matt/25.31-46?lang=eng#30)). The scriptures
+consistently so teach--acts of Christian service are expressions of Christian
+love. My observation and experience confirm the truth of it for me.
 
 Religion is not a thing apart from life. It is not principles and ordinances
 or missionary work or leadership as an end in themselves. It is manifested by
@@ -125,18 +123,17 @@ quiet rooms in homes and hospitals and places of confinement, in military
 barracks and refugee camps, and in other places far from public attention.
 Usually it is unheralded, but it reflects the standard set by the Savior for
 those who will "inherit the kingdom prepared ... from the foundation of the
-world." ([Matt.
-25:34](https://www.lds.org/scriptures/nt/matt/25.34?lang=eng#33).) These are
-they who serve the hungry and the thirsty and the naked and the homeless and
-those who are sick or imprisoned, and who do this after the pattern and in the
+world." ([Matt. 25:34](/scriptures/nt/matt/25.34?lang=eng#33).) These are they
+who serve the hungry and the thirsty and the naked and the homeless and those
+who are sick or imprisoned, and who do this after the pattern and in the
 spirit of him who said, "Inasmuch as ye have done it unto one of the least of
 these my brethren, ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).) To those
-who so serve he promised eternal life (see [Matt.
-25:46](https://www.lds.org/scriptures/nt/matt/25.46?lang=eng#45)), while to
-those who fail to minister to the needy he said, "Inasmuch as ye did it not to
-one of the least of these, ye did it not to me." ([Matt.
-25:45](https://www.lds.org/scriptures/nt/matt/25.45?lang=eng#44).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).) To those who so serve he
+promised eternal life (see [Matt.
+25:46](/scriptures/nt/matt/25.46?lang=eng#45)), while to those who fail to
+minister to the needy he said, "Inasmuch as ye did it not to one of the least
+of these, ye did it not to me." ([Matt.
+25:45](/scriptures/nt/matt/25.45?lang=eng#44).)
 
 An inspiring Book of Mormon teaching deals with the mission of Christ, with
 his "great and last sacrifice," "infinite and eternal," in bringing about the
@@ -149,30 +146,29 @@ and the naked, and visit not the sick and afflicted, and impart of your
 substance, if ye have, to those who stand in need--I say unto you, if ye do
 not any of these things, behold, your prayer is vain, and availeth you
 nothing, and ye are as hypocrites who do deny the faith." ([Alma
-34:28](https://www.lds.org/scriptures/bofm/alma/34.28?lang=eng#27).)
+34:28](/scriptures/bofm/alma/34.28?lang=eng#27).)
 
 At a time of intense concern to the developing Church, a revelation was
 received issuing missionary calls, emphasizing the vital importance of
 ordinances, assigning local leadership of the churches, and then declaring
 these words: "And remember in all things the poor and the needy, the sick and
 the afflicted, for he that doeth not these things, the same _is not my
-disciple._" ([D&amp;C 52:40](https://www.lds.org/scriptures/dc-
-testament/dc/52.40?lang=eng#39), italics added; see also [Moses
-7:33](https://www.lds.org/scriptures/pgp/moses/7.33?lang=eng#32).)
+disciple._" ([D&amp;C 52:40](/scriptures/dc-testament/dc/52.40?lang=eng#39),
+italics added; see also [Moses 7:33](/scriptures/pgp/moses/7.33?lang=eng#32).)
 
 Through Ezekiel of old the Lord gave us a broader view of the diversity of
 needs which we are under obligation to serve: "The diseased have ye not
 strengthened, neither have ye healed that which was sick, neither have ye
 bound up that which was broken, neither have ye brought again that which was
 driven away, neither have ye sought that which was lost." ([Ezek.
-34:4](https://www.lds.org/scriptures/ot/ezek/34.4?lang=eng#3).)
+34:4](/scriptures/ot/ezek/34.4?lang=eng#3).)
 
 The book of Alma describes a group of people who were forced to leave their
 homes and country for a new land, where their fellow Christians "did receive
 all the poor ... that came over unto them; and they did nourish them, and did
 clothe them, and did give unto them lands for their inheritance; and they did
 administer unto them according to their wants." ([Alma
-35:9](https://www.lds.org/scriptures/bofm/alma/35.9?lang=eng#8).)
+35:9](/scriptures/bofm/alma/35.9?lang=eng#8).)
 
 That spirit is still operative among the people of the Church. For several
 years in the refugee camps in Asia, young representatives of the Church have
@@ -213,8 +209,9 @@ acting upon it on occasions of great need across the earth.
 My purpose this morning has been, in these few words, to honor that
 commandment and those who do so well personally to accept his invitation to
 impart to others "both temporally and spiritually, according to their needs."
-([Mosiah
-18:29](https://www.lds.org/scriptures/bofm/mosiah/18.29?lang=eng#28).)
+([Mosiah 18:29](/scriptures/bofm/mosiah/18.29?lang=eng#28).)
 
 That we may do so, I humbly pray, in the name of Jesus Christ, amen.
+
+## References
 

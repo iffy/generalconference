@@ -82,8 +82,7 @@ determined and made strong by our parental and family life.
 In each of us is the potentiality to become a God--pure, holy, true,
 influential, powerful, independent of earthly forces. We learn from the
 scriptures that we each have eternal existence, that we were in the beginning
-with God. (See [Abr.
-3:22](https://www.lds.org/scriptures/pgp/abr/3.22?lang=eng#21).) That
+with God. (See [Abr. 3:22](/scriptures/pgp/abr/3.22?lang=eng#21).) That
 understanding gives to us a unique sense of man's dignity.
 
 I have sometimes seen children of good families rebel, resist, stray, sin, and
@@ -108,10 +107,9 @@ But if we as parents fail to influence our families and set them on the
 evil will carry the posterity away from the path.
 
 "Train up a child in the way he should go; and when he is old, he will not
-depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).) What we do
-know is that righteous parents who strive to develop wholesome influences for
-their children will be held blameless at the last day, and that they will
+depart from it." ([Prov. 22:6](/scriptures/ot/prov/22.6?lang=eng#5).) What we
+do know is that righteous parents who strive to develop wholesome influences
+for their children will be held blameless at the last day, and that they will
 succeed in saving most of their children, if not all.
 
 The competition for our souls is described in Mosiah.
@@ -122,7 +120,7 @@ Spirit, and putteth off the natural man and becometh a saint through the
 atonement of Christ ... and becometh as a child, submissive, meek, humble,
 patient, full of love, willing to submit to all things which the Lord seeth
 fit to inflict upon him, even as a child doth submit to his father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 The "natural man" is the "earthy man" who has allowed rude animal passions to
 overshadow his spiritual inclinations.
@@ -226,19 +224,17 @@ your souls.
 
 I know that the Lord lives--that God who was with Adam, that God who came to
 the banks of the Jordan River to say, "This is my beloved Son, in whom I am
-well pleased" ([Matt.
-13:17](https://www.lds.org/scriptures/nt/matt/13.17?lang=eng#16)), to
+well pleased" ([Matt. 13:17](/scriptures/nt/matt/13.17?lang=eng#16)), to
 introduce his Son to a world that was to depend so completely on him. I know
 that was the God that we worship, who came on the Mount of Transfiguration and
 said again to those servants, Peter, James, and John, who were to carry on the
 work of the Lord even in their imperfections: "This is my beloved Son, in whom
-I am well pleased" ([Matt.
-17:5](https://www.lds.org/scriptures/nt/matt/17.5?lang=eng#4)), the same God--
-we know he lives and exists--who came in the state of New York and said those
-same things that he had already said to the Nephites--and now said to a world
-that had been traveling in darkness for a long, long time--"This is My Beloved
-Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+I am well pleased" ([Matt. 17:5](/scriptures/nt/matt/17.5?lang=eng#4)), the
+same God--we know he lives and exists--who came in the state of New York and
+said those same things that he had already said to the Nephites--and now said
+to a world that had been traveling in darkness for a long, long time--"This is
+My Beloved Son. Hear Him!" ([JS--H
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 I know that Jesus is the Christ, the Son of the living God. I know that. I
 know that the gospel which we teach is the gospel of Jesus Christ and the
@@ -248,4 +244,6 @@ live the program as he has given it and will continue to give it, that all the
 blessings promised will be ours. Now God bless you, and we leave his blessings
 with you with our affection, our appreciation for you, in the name of his Son,
 Jesus Christ. Amen.
+
+## References
 

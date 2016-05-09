@@ -4,8 +4,7 @@ So many times prophets warn about the dangers of selfishness--the inordinate
 and excessive concern with self. The distance between constant self-pleasing
 and self-worship is shorter than we think. Stubborn selfishness is actually
 rebellion against God, because, warned Samuel, "stubbornness is as ...
-idolatry." ([1 Sam.
-15:23](https://www.lds.org/scriptures/ot/1-sam/15.23?lang=eng#22).)
+idolatry." ([1 Sam. 15:23](/scriptures/ot/1-sam/15.23?lang=eng#22).)
 
 Selfishness is much more than an ordinary problem because it activates all the
 cardinal sins! It is the detonator in the breaking of the Ten Commandments.
@@ -25,21 +24,21 @@ break a covenant in order to fix an appetite.
 
 Selfishness has little time to regard the sufferings of others seriously,
 hence the love of many waxes cold. (See [Moses
-6:27](https://www.lds.org/scriptures/pgp/moses/6.27?lang=eng#26); [Matt.
-24:12](https://www.lds.org/scriptures/nt/matt/24.12?lang=eng#11); [D&amp;C
-45:27](https://www.lds.org/scriptures/dc-testament/dc/45.27?lang=eng#26).)
+6:27](/scriptures/pgp/moses/6.27?lang=eng#26); [Matt.
+24:12](/scriptures/nt/matt/24.12?lang=eng#11); [D&amp;C 45:27](/scriptures/dc-
+testament/dc/45.27?lang=eng#26).)
 
 The last days will be rampant with the cardinal sins, just "as in the days of
 Noah." Society in the days of Noah, scriptures advise, was "corrupt before
 God" and "filled with violence." ([Gen.
-6:11-12](https://www.lds.org/scriptures/ot/gen/6.11-12?lang=eng#10); [Moses
-8:28](https://www.lds.org/scriptures/pgp/moses/8.28?lang=eng#27).) Corruption
-and violence--sound familiar? Both of these awful conditions crest because of
-surging individual selfishness. When thus engulfed, no wonder men's hearts in
-our day will fail them because of fear. (See [Luke
-21:26](https://www.lds.org/scriptures/nt/luke/21.26?lang=eng#25); [D&amp;C
-45:26](https://www.lds.org/scriptures/dc-testament/dc/45.26?lang=eng#25).)
-Even the faithful can expect a few fibrillations.
+6:11-12](/scriptures/ot/gen/6.11-12?lang=eng#10); [Moses
+8:28](/scriptures/pgp/moses/8.28?lang=eng#27).) Corruption and violence--sound
+familiar? Both of these awful conditions crest because of surging individual
+selfishness. When thus engulfed, no wonder men's hearts in our day will fail
+them because of fear. (See [Luke
+21:26](/scriptures/nt/luke/21.26?lang=eng#25); [D&amp;C 45:26](/scriptures/dc-
+testament/dc/45.26?lang=eng#25).) Even the faithful can expect a few
+fibrillations.
 
 Some selfishness exists even in good people. Jane Austen's character Elizabeth
 mused, "I have been a selfish being all my life, in practice, though not in
@@ -55,11 +54,11 @@ We see in ourselves other familiar forms of selfishness: accepting or claiming
 undeserved credit; puffing deserved credit; being glad when others go wrong;
 resenting the genuine successes of others; preferring public vindication to
 private reconciliation; and taking "advantage of one because of his words."
-([2 Ne. 28:8](https://www.lds.org/scriptures/bofm/2-ne/28.8?lang=eng#7).) All
-things are thus viewed selfishly--what are their implications for "me," much
-like the mattress on the highway which delayed traffic. When frustrated
-motorists finally got around the mattress, none stopped to remove it because
-now there was nothing in it for him.
+([2 Ne. 28:8](/scriptures/bofm/2-ne/28.8?lang=eng#7).) All things are thus
+viewed selfishly--what are their implications for "me," much like the mattress
+on the highway which delayed traffic. When frustrated motorists finally got
+around the mattress, none stopped to remove it because now there was nothing
+in it for him.
 
 The Prophet Joseph Smith declared, "Mankind [is] naturally selfish, ambitious,
 and striving to excel one above another." (_The Words of Joseph Smith,_ comp.
@@ -68,45 +67,41 @@ Religious Studies Center, 1980, p. 201.)
 
 Saul, swollen with selfishness, was reminded about an earlier time "when thou
 wast little in thine own sight." ([1 Sam.
-15:17](https://www.lds.org/scriptures/ot/1-sam/15.17?lang=eng#16).)
+15:17](/scriptures/ot/1-sam/15.17?lang=eng#16).)
 
 Selfishness is often expressed in stubbornness of mind. Having a "mind
 hardened in pride" often afflicts the brightest who could also be the best.
-([Dan. 5:20](https://www.lds.org/scriptures/ot/dan/5.20?lang=eng#19).) "One
-thing" the brightest often lack: meekness! Instead of having "a willing mind"
-which seeks to emulate the "mind of Christ," a "mind hardened in pride" is
-impervious to counsel and often seeks ascendancy. ([1 Chr.
-28:9](https://www.lds.org/scriptures/ot/1-chr/28.9?lang=eng#8); [1 Cor.
-2:16](https://www.lds.org/scriptures/nt/1-cor/2.16?lang=eng#15); [D&amp;C
-64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33).)
-Jesus, who was and is "more intelligent than they all," is also more meek than
-they all. ([Abr.
-3:19](https://www.lds.org/scriptures/pgp/abr/3.19?lang=eng#18).)
+([Dan. 5:20](/scriptures/ot/dan/5.20?lang=eng#19).) "One thing" the brightest
+often lack: meekness! Instead of having "a willing mind" which seeks to
+emulate the "mind of Christ," a "mind hardened in pride" is impervious to
+counsel and often seeks ascendancy. ([1 Chr.
+28:9](/scriptures/ot/1-chr/28.9?lang=eng#8); [1 Cor.
+2:16](/scriptures/nt/1-cor/2.16?lang=eng#15); [D&amp;C 64:34](/scriptures/dc-
+testament/dc/64.34?lang=eng#33).) Jesus, who was and is "more intelligent than
+they all," is also more meek than they all. ([Abr.
+3:19](/scriptures/pgp/abr/3.19?lang=eng#18).)
 
 Jesus put everything on the altar without fanfare or bargaining. Both before
 and after His astonishing atonement, He declared, "Glory be to the Father."
-([D&amp;C 19:19](https://www.lds.org/scriptures/dc-
-testament/dc/19.19?lang=eng#18); [Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).) Jesus,
-stunningly brilliant, nevertheless allowed His will to be "swallowed up in the
-will of the Father." ([Mosiah
-15:7](https://www.lds.org/scriptures/bofm/mosiah/15.7?lang=eng#6); see also
-[John 6:38](https://www.lds.org/scriptures/nt/john/6.38?lang=eng#37).) Those
-with pride-hardened minds are simply unable to do this.
+([D&amp;C 19:19](/scriptures/dc-testament/dc/19.19?lang=eng#18); [Moses
+4:2](/scriptures/pgp/moses/4.2?lang=eng#1).) Jesus, stunningly brilliant,
+nevertheless allowed His will to be "swallowed up in the will of the Father."
+([Mosiah 15:7](/scriptures/bofm/mosiah/15.7?lang=eng#6); see also [John
+6:38](/scriptures/nt/john/6.38?lang=eng#37).) Those with pride-hardened minds
+are simply unable to do this.
 
 Stubborn selfishness leads otherwise good people to fight over herds, patches
 of sand, and strippings of milk. All this results from what the Lord calls
 coveting "the drop," while neglecting the "more weighty matters." ([D&amp;C
-117:8](https://www.lds.org/scriptures/dc-testament/dc/117.8?lang=eng#7).)
-Myopic selfishness magnifies a mess of pottage and makes thirty pieces of
-silver look like a treasure trove. In our intense acquisitiveness, we forget
-Him who once said, "What is property unto me?" ([D&amp;C
-117:4](https://www.lds.org/scriptures/dc-testament/dc/117.4?lang=eng#3).)
+117:8](/scriptures/dc-testament/dc/117.8?lang=eng#7).) Myopic selfishness
+magnifies a mess of pottage and makes thirty pieces of silver look like a
+treasure trove. In our intense acquisitiveness, we forget Him who once said,
+"What is property unto me?" ([D&amp;C 117:4](/scriptures/dc-
+testament/dc/117.4?lang=eng#3).)
 
 Such is the scope of putting off the burdensome natural man who is naturally
-selfish. (See [Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).) So much
-of our fatigue, brothers and sisters, in fact, comes from carrying that
+selfish. (See [Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).) So
+much of our fatigue, brothers and sisters, in fact, comes from carrying that
 needless load. This heaviness of the natural man prevents us from doing our
 Christian calisthenics; so we end up too swollen with selfishness to pass
 through the narrow needle's eye.
@@ -129,25 +124,23 @@ The question is, "How goes the battle?" Is our selfishness being put off--even
 if only gradually? Or is the natural man like "the man who came to dinner"?
 Divine tutoring is given largely in order to help us shed our selfishness,
 "for what son [or daughter] is [there] whom the father chasteneth not?" ([Heb.
-12:7](https://www.lds.org/scriptures/nt/heb/12.7?lang=eng#6).)
+12:7](/scriptures/nt/heb/12.7?lang=eng#6).)
 
 Restoration scriptures tell us much more about how we can really be forgiven
 through the atonement of Christ by means of which, finally, "mercy ...
 overpowereth justice." ([Alma
-34:15](https://www.lds.org/scriptures/bofm/alma/34.15?lang=eng#14).) We can
-have real and justified hope for the future--enough hope to develop the faith
-necessary to both put off the natural man and to strive to become more
-saintly.
+34:15](/scriptures/bofm/alma/34.15?lang=eng#14).) We can have real and
+justified hope for the future--enough hope to develop the faith necessary to
+both put off the natural man and to strive to become more saintly.
 
 Furthermore, because the centerpiece of the Atonement is already in place, we
 know that everything else in God's plan will likewise finally succeed. God is
 surely able to do His own work! (See [2 Ne.
-27:20-21](https://www.lds.org/scriptures/bofm/2-ne/27.20-21?lang=eng#19).) In
-His plans for the human family, long ago God made ample provision for all
-mortal mistakes. His purposes will all triumph and without abrogating man's
-moral agency. Moreover, all His purposes will come to pass in their time. (See
-[D&amp;C 64:32](https://www.lds.org/scriptures/dc-
-testament/dc/64.32?lang=eng#31).)
+27:20-21](/scriptures/bofm/2-ne/27.20-21?lang=eng#19).) In His plans for the
+human family, long ago God made ample provision for all mortal mistakes. His
+purposes will all triumph and without abrogating man's moral agency. Moreover,
+all His purposes will come to pass in their time. (See [D&amp;C
+64:32](/scriptures/dc-testament/dc/64.32?lang=eng#31).)
 
 However, without these later and other spiritual perspectives, see how
 differently we behave. Take away an acknowledgment of divine design and then
@@ -169,8 +162,8 @@ celebration of sex, the secular religion with its own liturgy of lust and
 supporting music. Its theology focuses on "self." Its hereafter is "now." Its
 chief ritual is "sensation"--though, ironically, it finally desensitizes its
 obsessed adherents, who become "past feeling." ([Eph.
-4:19](https://www.lds.org/scriptures/nt/eph/4.19?lang=eng#18); [Moro.
-9:20](https://www.lds.org/scriptures/bofm/moro/9.20?lang=eng#19).)
+4:19](/scriptures/nt/eph/4.19?lang=eng#18); [Moro.
+9:20](/scriptures/bofm/moro/9.20?lang=eng#19).)
 
 Thus, in all its various expressions, selfishness is really self-destruction
 in slow motion!
@@ -189,14 +182,13 @@ listeners. There are more neglected and aging parents than there are attentive
 sons and daughters--though, numerically, clearly it should not be so!
 
 Just as Jesus warned that some evil spirits would _come out_ only with "prayer
-and fasting" ([Matt.
-17:21](https://www.lds.org/scriptures/nt/matt/17.21?lang=eng#20)), the
+and fasting" ([Matt. 17:21](/scriptures/nt/matt/17.21?lang=eng#20)), the
 "natural man" does not _come off_ without difficulty either.
 
 Of this personal battle, the Lord has urged us to so live that we would "come
-off conqueror." ([D&amp;C 10:5](https://www.lds.org/scriptures/dc-
-testament/dc/10.5?lang=eng#4).) But we cannot "come off conqueror," except we
-first "put off" the selfish, natural man!
+off conqueror." ([D&amp;C 10:5](/scriptures/dc-testament/dc/10.5?lang=eng#4).)
+But we cannot "come off conqueror," except we first "put off" the selfish,
+natural man!
 
 The natural man is truly God's enemy, because the natural man will keep God's
 precious children from true and everlasting happiness. Our full happiness
@@ -215,27 +207,25 @@ one.
 The men and women of Christ magnify their callings without magnifying
 themselves. Whereas the natural man says "Worship me" and "Give me thine
 power," the men and women of Christ seek to exercise power by long-suffering
-and unfeigned love. (See [Moses
-1:12](https://www.lds.org/scriptures/pgp/moses/1.12?lang=eng#11); [Moses
-4:3](https://www.lds.org/scriptures/pgp/moses/4.3?lang=eng#2); [D&amp;C
-121:41](https://www.lds.org/scriptures/dc-testament/dc/121.41?lang=eng#40).)
+and unfeigned love. (See [Moses 1:12](/scriptures/pgp/moses/1.12?lang=eng#11);
+[Moses 4:3](/scriptures/pgp/moses/4.3?lang=eng#2); [D&amp;C
+121:41](/scriptures/dc-testament/dc/121.41?lang=eng#40).)
 
 Whereas the natural man vents his anger, the men and women of Christ are "not
-easily provoked." ([1 Cor.
-13:5](https://www.lds.org/scriptures/nt/1-cor/13.5?lang=eng#4).) Whereas the
-natural man is filled with greed, the men and women of Christ "seeketh not
-[their] own." ([1 Cor.
-13:5](https://www.lds.org/scriptures/nt/1-cor/13.5?lang=eng#4).) Whereas the
-natural man seldom denies himself worldly pleasures, the men and women of
-Christ seek to bridle all their passions. (See [Alma
-38:12](https://www.lds.org/scriptures/bofm/alma/38.12?lang=eng#11).)
+easily provoked." ([1 Cor. 13:5](/scriptures/nt/1-cor/13.5?lang=eng#4).)
+Whereas the natural man is filled with greed, the men and women of Christ
+"seeketh not [their] own." ([1 Cor.
+13:5](/scriptures/nt/1-cor/13.5?lang=eng#4).) Whereas the natural man seldom
+denies himself worldly pleasures, the men and women of Christ seek to bridle
+all their passions. (See [Alma
+38:12](/scriptures/bofm/alma/38.12?lang=eng#11).)
 
 Whereas the natural man covets praise and riches, the men and women of Christ
-know such things are but the "drop." ([D&amp;C
-117:8](https://www.lds.org/scriptures/dc-testament/dc/117.8?lang=eng#7).)
-Human history's happiest irony will be that the covenant-keeping, unselfish
-individuals will finally receive "all that [the] Father hath"! ([D&amp;C
-84:38](https://www.lds.org/scriptures/dc-testament/dc/84.38?lang=eng#37).)
+know such things are but the "drop." ([D&amp;C 117:8](/scriptures/dc-
+testament/dc/117.8?lang=eng#7).) Human history's happiest irony will be that
+the covenant-keeping, unselfish individuals will finally receive "all that
+[the] Father hath"! ([D&amp;C 84:38](/scriptures/dc-
+testament/dc/84.38?lang=eng#37).)
 
 One of the last, subtle strongholds of selfishness is the natural feeling that
 we "own" ourselves. Of course we are free to choose and are personally
@@ -250,8 +240,7 @@ The Prophet Joseph promised that when selfishness is annihilated, we "may
 comprehend all things, present, past, and future." (_The Personal Writings of
 Joseph Smith,_ comp. Dean C. Jessee, Salt Lake City: Deseret Book Co., 1984,
 p. 485.) Even now, however, in gospel glimpses we can "see things as they
-really are." ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12).)
+really are." ([Jacob 4:13](/scriptures/bofm/jacob/4.13?lang=eng#12).)
 
 Indeed, the gospel brings glorious illumination as to our possibilities.
 Scales fall from our eyes with the shedding of selfishness. Then we see our
@@ -270,4 +259,6 @@ _And on a clear day ..._
 _You can see forever and ever more."_
 
 In the name of Jesus Christ, amen!
+
+## References
 

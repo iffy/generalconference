@@ -1,431 +1,353 @@
 items:
-- article_id: '95911_000_003'
-  item: '000'
+- item: 1
   key: 000-as-we-gather-together
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: as-we-gather-together
   speaker: Gordon B. Hinckley
   title: As We Gather Together
   url: https://www.lds.org/general-conference/1995/10/as-we-gather-together?lang=eng
   year: 1995
-- article_id: '95911_000_004'
-  item: '001'
+- item: 2
   key: 001-hyrum-smith-firm-as-the-pillars-of-heaven
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: hyrum-smith-firm-as-the-pillars-of-heaven
   speaker: M. Russell Ballard
-  title: "Hyrum Smith: \u201CFirm As the Pillars of Heaven\u201D"
+  title: Hyrum Smith:"Firm As the Pillars of Heaven"
   url: https://www.lds.org/general-conference/1995/10/hyrum-smith-firm-as-the-pillars-of-heaven?lang=eng
   year: 1995
-- article_id: '95911_000_005'
-  item: '002'
+- item: 3
   key: 002-spiritual-mountaintops
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: spiritual-mountaintops
-  speaker: Jack H Goaslind
+  speaker: Jack H Goaslind Jr.
   title: Spiritual Mountaintops
   url: https://www.lds.org/general-conference/1995/10/spiritual-mountaintops?lang=eng
   year: 1995
-- article_id: '95911_000_006'
-  item: '003'
+- item: 4
   key: 003-the-power-of-goodness
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-power-of-goodness
   speaker: Janette Hales Beckham
   title: The Power of Goodness
   url: https://www.lds.org/general-conference/1995/10/the-power-of-goodness?lang=eng
   year: 1995
-- article_id: '95911_000_007'
-  item: '004'
+- item: 5
   key: 004-encircled-in-the-saviors-love
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: encircled-in-the-saviors-love
   speaker: W. Craig Zwick
-  title: "Encircled in the Savior\u2019s Love"
+  title: Encircled in the Savior's Love
   url: https://www.lds.org/general-conference/1995/10/encircled-in-the-saviors-love?lang=eng
   year: 1995
-- article_id: '95911_000_008'
-  item: '005'
+- item: 6
   key: 005-redeemer-of-israel
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: redeemer-of-israel
   speaker: Bruce D. Porter
   title: Redeemer of Israel
   url: https://www.lds.org/general-conference/1995/10/redeemer-of-israel?lang=eng
   year: 1995
-- article_id: '95911_000_009'
-  item: '006'
+- item: 7
   key: 006-trust-in-the-lord
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: trust-in-the-lord
   speaker: Richard G. Scott
   title: Trust in the Lord
   url: https://www.lds.org/general-conference/1995/10/trust-in-the-lord?lang=eng
   year: 1995
-- article_id: '95911_000_010'
-  item: '007'
+- item: 8
   key: 007-the-brilliant-morning-of-forgiveness
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-brilliant-morning-of-forgiveness
   speaker: Boyd K. Packer
   title: The Brilliant Morning of Forgiveness
   url: https://www.lds.org/general-conference/1995/10/the-brilliant-morning-of-forgiveness?lang=eng
   year: 1995
-- article_id: '95911_000_011'
-  item: 008
+- item: 9
   key: 008-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1995/10/the-sustaining-of-church-officers?lang=eng
   year: 1995
-- article_id: '95911_000_012'
-  item: 009
+- item: 10
   key: 009-swallowed-up-in-the-will-of-the-father
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: swallowed-up-in-the-will-of-the-father
   speaker: Neal A. Maxwell
-  title: "\u201CSwallowed Up in the Will of the Father\u201D"
+  title: '"Swallowed Up in the Will of the Father"'
   url: https://www.lds.org/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=eng
   year: 1995
-- article_id: '95911_000_013'
-  item: '010'
+- item: 11
   key: 010-powerful-ideas
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: powerful-ideas
   speaker: Dallin H. Oaks
   title: Powerful Ideas
   url: https://www.lds.org/general-conference/1995/10/powerful-ideas?lang=eng
   year: 1995
-- article_id: '95911_000_014'
-  item: '011'
+- item: 12
   key: 011-witnesses
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: witnesses
   speaker: Loren C. Dunn
   title: Witnesses
   url: https://www.lds.org/general-conference/1995/10/witnesses?lang=eng
   year: 1995
-- article_id: '95911_000_015'
-  item: '012'
+- item: 13
   key: 012-the-book-of-mormon-a-sacred-ancient-record
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-book-of-mormon-a-sacred-ancient-record
   speaker: Ted E. Brewerton
-  title: 'The Book of Mormon: A Sacred Ancient Record'
+  title: The Book of Mormon:A Sacred Ancient Record
   url: https://www.lds.org/general-conference/1995/10/the-book-of-mormon-a-sacred-ancient-record?lang=eng
   year: 1995
-- article_id: '95911_000_016'
-  item: '013'
+- item: 14
   key: 013-blessings-of-the-priesthood
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: blessings-of-the-priesthood
   speaker: Robert D. Hales
   title: Blessings of the Priesthood
   url: https://www.lds.org/general-conference/1995/10/blessings-of-the-priesthood?lang=eng
   year: 1995
-- article_id: '95911_000_017'
-  item: '014'
+- item: 15
   key: 014-if-ye-are-prepared-ye-shall-not-fear
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: if-ye-are-prepared-ye-shall-not-fear
   speaker: L. Tom Perry
-  title: "\u201CIf Ye Are Prepared Ye Shall Not Fear\u201D"
+  title: '"If Ye Are Prepared Ye Shall Not Fear"'
   url: https://www.lds.org/general-conference/1995/10/if-ye-are-prepared-ye-shall-not-fear?lang=eng
   year: 1995
-- article_id: '95911_000_018'
-  item: '015'
+- item: 16
   key: 015-to-touch-a-life-with-faith
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: to-touch-a-life-with-faith
   speaker: Henry B. Eyring
   title: To Touch a Life with Faith
   url: https://www.lds.org/general-conference/1995/10/to-touch-a-life-with-faith?lang=eng
   year: 1995
-- article_id: '95911_000_019'
-  item: '016'
+- item: 17
   key: 016-sacrifice-in-the-service
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: sacrifice-in-the-service
   speaker: Harold G. Hillam
   title: Sacrifice in the Service
   url: https://www.lds.org/general-conference/1995/10/sacrifice-in-the-service?lang=eng
   year: 1995
-- article_id: '95911_000_020'
-  item: '017'
+- item: 18
   key: 017-i-will-go
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: i-will-go
   speaker: H. David Burton
-  title: "\u201CI Will Go\u201D"
+  title: '"I Will Go"'
   url: https://www.lds.org/general-conference/1995/10/i-will-go?lang=eng
   year: 1995
-- article_id: '95911_000_021'
-  item: 018
+- item: 19
   key: 018-acting-for-ourselves-and-not-being-acted-upon
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: acting-for-ourselves-and-not-being-acted-upon
   speaker: James E. Faust
   title: Acting for Ourselves and Not Being Acted Upon
   url: https://www.lds.org/general-conference/1995/10/acting-for-ourselves-and-not-being-acted-upon?lang=eng
   year: 1995
-- article_id: '95911_000_022'
-  item: 019
+- item: 20
   key: 019-who-honors-god-god-honors
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: who-honors-god-god-honors
   speaker: Thomas S. Monson
   title: Who Honors God, God Honors
   url: https://www.lds.org/general-conference/1995/10/who-honors-god-god-honors?lang=eng
   year: 1995
-- article_id: '95911_000_023'
-  item: '020'
+- item: 21
   key: 020-of-missions-temples-and-stewardship
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: of-missions-temples-and-stewardship
   speaker: Gordon B. Hinckley
   title: Of Missions, Temples, and Stewardship
   url: https://www.lds.org/general-conference/1995/10/of-missions-temples-and-stewardship?lang=eng
   year: 1995
-- article_id: '95911_000_024'
-  item: '021'
+- item: 22
   key: 021-patience-a-heavenly-virtue
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: patience-a-heavenly-virtue
   speaker: Thomas S. Monson
   title: "Patience\u2014A Heavenly Virtue"
   url: https://www.lds.org/general-conference/1995/10/patience-a-heavenly-virtue?lang=eng
   year: 1995
-- article_id: '95911_000_025'
-  item: '022'
+- item: 23
   key: 022-priesthood-blessings
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: priesthood-blessings
   speaker: James E. Faust
   title: Priesthood Blessings
   url: https://www.lds.org/general-conference/1995/10/priesthood-blessings?lang=eng
   year: 1995
-- article_id: '95911_000_026'
-  item: '023'
+- item: 24
   key: 023-our-message-to-the-world
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: our-message-to-the-world
   speaker: Robert E. Wells
   title: Our Message to the World
   url: https://www.lds.org/general-conference/1995/10/our-message-to-the-world?lang=eng
   year: 1995
-- article_id: '95911_000_027'
-  item: '024'
+- item: 25
   key: 024-this-do-in-remembrance-of-me
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: this-do-in-remembrance-of-me
   speaker: Jeffrey R. Holland
-  title: "\u201CThis Do in Remembrance of Me\u201D"
+  title: '"This Do in Remembrance of Me"'
   url: https://www.lds.org/general-conference/1995/10/this-do-in-remembrance-of-me?lang=eng
   year: 1995
-- article_id: '95911_000_028'
-  item: '025'
+- item: 26
   key: 025-stay-the-course-keep-the-faith
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: stay-the-course-keep-the-faith
   speaker: Gordon B. Hinckley
   title: "Stay the Course\u2014Keep the Faith"
   url: https://www.lds.org/general-conference/1995/10/stay-the-course-keep-the-faith?lang=eng
   year: 1995
-- article_id: '95911_000_029'
-  item: '026'
+- item: 27
   key: 026-seek-first-the-kingdom-of-god
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: seek-first-the-kingdom-of-god
   speaker: David B. Haight
   title: Seek First the Kingdom of God
   url: https://www.lds.org/general-conference/1995/10/seek-first-the-kingdom-of-god?lang=eng
   year: 1995
-- article_id: '95911_000_030'
-  item: '027'
+- item: 28
   key: 027-windows-of-light-and-truth
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: windows-of-light-and-truth
   speaker: Joseph B. Wirthlin
   title: Windows of Light and Truth
   url: https://www.lds.org/general-conference/1995/10/windows-of-light-and-truth?lang=eng
   year: 1995
-- article_id: '95911_000_031'
-  item: 028
+- item: 29
   key: 028-eternal-laws-of-happiness
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: eternal-laws-of-happiness
   speaker: Lynn A. Mickelsen
   title: Eternal Laws of Happiness
   url: https://www.lds.org/general-conference/1995/10/eternal-laws-of-happiness?lang=eng
   year: 1995
-- article_id: '95911_000_032'
-  item: 029
+- item: 30
   key: 029-touch-the-hearts-of-the-children
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: touch-the-hearts-of-the-children
   speaker: Anne G. Wirthlin
   title: Touch the Hearts of the Children
   url: https://www.lds.org/general-conference/1995/10/touch-the-hearts-of-the-children?lang=eng
   year: 1995
-- article_id: '95911_000_033'
-  item: '030'
+- item: 31
   key: 030-lord-to-whom-shall-we-go
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: lord-to-whom-shall-we-go
   speaker: Hans B. Ringger
-  title: "\u201CLord, to Whom Shall We Go?\u201D"
+  title: '"Lord, to Whom Shall We Go?"'
   url: https://www.lds.org/general-conference/1995/10/lord-to-whom-shall-we-go?lang=eng
   year: 1995
-- article_id: '95911_000_034'
-  item: '031'
+- item: 32
   key: 031-a-strategy-for-war
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-strategy-for-war
   speaker: Durrel A. Woolsey
   title: A Strategy for War
   url: https://www.lds.org/general-conference/1995/10/a-strategy-for-war?lang=eng
   year: 1995
-- article_id: '95911_000_035'
-  item: '032'
+- item: 33
   key: 032-perfection-pending
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: perfection-pending
   speaker: Russell M. Nelson
   title: Perfection Pending
   url: https://www.lds.org/general-conference/1995/10/perfection-pending?lang=eng
   year: 1995
-- article_id: '95911_000_036'
-  item: '033'
+- item: 34
   key: 033-the-fabric-of-faith-and-testimony
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-fabric-of-faith-and-testimony
   speaker: Gordon B. Hinckley
   title: The Fabric of Faith and Testimony
   url: https://www.lds.org/general-conference/1995/10/the-fabric-of-faith-and-testimony?lang=eng
   year: 1995
-- article_id: '95911_000_037'
-  item: '034'
+- item: 35
   key: 034-relief-society-a-balm-in-gilead
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: relief-society-a-balm-in-gilead
   speaker: Elaine L. Jack
-  title: 'Relief Society: A Balm in Gilead'
+  title: Relief Society:A Balm in Gilead
   url: https://www.lds.org/general-conference/1995/10/relief-society-a-balm-in-gilead?lang=eng
   year: 1995
-- article_id: '95911_000_038'
-  item: '035'
+- item: 36
   key: 035-a-living-network
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: a-living-network
   speaker: Chieko N. Okazaki
   title: A Living Network
   url: https://www.lds.org/general-conference/1995/10/a-living-network?lang=eng
   year: 1995
-- article_id: '95911_000_039'
-  item: '036'
+- item: 37
   key: 036-what-is-relief-society-for
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: what-is-relief-society-for
   speaker: Aileen H. Clyde
   title: What Is Relief Society For?
   url: https://www.lds.org/general-conference/1995/10/what-is-relief-society-for?lang=eng
   year: 1995
-- article_id: '95911_000_040'
-  item: '037'
+- item: 38
   key: 037-stand-strong-against-the-wiles-of-the-world
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: stand-strong-against-the-wiles-of-the-world
   speaker: Gordon B. Hinckley
   title: Stand Strong against the Wiles of the World
   url: https://www.lds.org/general-conference/1995/10/stand-strong-against-the-wiles-of-the-world?lang=eng
   year: 1995
-- article_id: '95911_000_041'
-  item: 038
+- item: 39
   key: 038-the-family-a-proclamation-to-the-world
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: the-family-a-proclamation-to-the-world
-  speaker: of Latter-day Saints
-  title: 'The Family: A Proclamation to the World'
+  speaker: Gordon B. Hinckley
+  title: The Family:A Proclamation to the World
   url: https://www.lds.org/general-conference/1995/10/the-family-a-proclamation-to-the-world?lang=eng
   year: 1995
 month: 10

@@ -42,8 +42,7 @@ covenant of my Father, which he cannot break, neither can it be moved.
 
 "But whoso breaketh this covenant after he hath received it, and altogether
 turneth therefrom, shall not have forgiveness of sins. ..." ([D&amp;C
-84:33-41](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-41?lang=eng#32).)
+84:33-41](/scriptures/dc-testament/dc/84.33-41?lang=eng#32).)
 
 It is up to us whether that covenant is kept. We make that covenant. The Lord
 cannot break it, and we have the responsibility of keeping it.
@@ -78,11 +77,11 @@ disorganized, and the counselors take their places in the Quorum of the
 Twelve, which, according to revelation, assumes the responsibility of the
 presidency of the Church, because they hold the Holy Melchizedek Priesthood
 and are the next quorum in authority according to the Doctrine and Covenants.
-(See [D&amp;C 107:23-24](https://www.lds.org/scriptures/dc-
-testament/dc/107.23-24?lang=eng#22).) The Church, therefore, is never left
-without a presidency. The President of the Quorum naturally is the chief or
-executive officer, and the Twelve continue as the presidency of the Church
-until such time as the First Presidency is reorganized.
+(See [D&amp;C 107:23-24](/scriptures/dc-testament/dc/107.23-24?lang=eng#22).)
+The Church, therefore, is never left without a presidency. The President of
+the Quorum naturally is the chief or executive officer, and the Twelve
+continue as the presidency of the Church until such time as the First
+Presidency is reorganized.
 
 While Joseph the Prophet was President of the Church, the Lord through him
 bestowed all of the keys of the priesthood upon the Quorum of the Twelve with
@@ -200,8 +199,8 @@ Presidency of the High Priesthood:
 inasmuch as thou art faithful in counsel, in the office which I have appointed
 unto you, in prayer always, vocally and in thy heart, in public and in
 private, also in thy ministry in proclaiming the gospel in the land of the
-living, and among thy brethren." ([D&amp;C
-81:1-3](https://www.lds.org/scriptures/dc-testament/dc/81.1-3?lang=eng#0).)
+living, and among thy brethren." ([D&amp;C 81:1-3](/scriptures/dc-
+testament/dc/81.1-3?lang=eng#0).)
 
 This applies to every holder of the priesthood.
 
@@ -227,8 +226,8 @@ mighty power for good, and his diligence I know, and his prayers I have heard.
 blessing, and they shall believe on his words, which are given him through me
 by the Comforter, which manifesteth that Jesus was crucified by sinful men for
 the sins of the world, yea, for the remission of sins unto the contrite
-heart." ([D&amp;C 21:1, 4-7, 9](https://www.lds.org/scriptures/dc-
-testament/dc/21.1%2C4-7%2C9?lang=eng#0).)
+heart." ([D&amp;C 21:1, 4-7, 9](/scriptures/dc-
+testament/dc/21.1,4-7,9?lang=eng#0).)
 
 You deacons, you teachers, you priests, you elders and seventies and high
 priests, what a tremendous privilege it is to hold the priesthood of God and
@@ -249,7 +248,7 @@ whole church, and to be like unto Moses--
 
 "Behold, here is wisdom; yea, to be a seer, a revelator, a translator, and a
 prophet, having all the gifts of God which he bestows upon the head of the
-church." ([D&amp;C 107:91-92](https://www.lds.org/scriptures/dc-
+church." ([D&amp;C 107:91-92](/scriptures/dc-
 testament/dc/107.91-92?lang=eng#90).)
 
 It is most important that we, as members of the Church, accept without
@@ -314,8 +313,8 @@ and to act in the office in which he is appointed, in all diligence.
 
 "He that is slothful shall not be counted worthy to stand, and he that learns
 not his duty and shows himself not approved shall not be counted worthy to
-stand. Even so. Amen." ([D&amp;C 107:99-100](https://www.lds.org/scriptures
-/dc-testament/dc/107.99-100?lang=eng#98).)
+stand. Even so. Amen." ([D&amp;C 107:99-100](/scriptures/dc-
+testament/dc/107.99-100?lang=eng#98).)
 
 "Why should we think to earn a great reward, If we now shun the fight?" It is
 important that every holder of the priesthood, old and young, discipline
@@ -344,12 +343,13 @@ treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 May we all express our appreciation every night and every morning to the Lord
 for the privilege we have of being members of his church and of holding his
 priesthood, and pray for courage and strength to live as we should and thereby
 prepare ourselves and help others to prepare themselves for eternal life, I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

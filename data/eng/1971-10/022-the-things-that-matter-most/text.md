@@ -47,8 +47,7 @@ In modern revelation the Lord said:
 chosen?
 
 "Because their hearts are set so much upon the things of this world, and
-aspire to the honors of men. ..." ([D&amp;C
-121:34-35](https://www.lds.org/scriptures/dc-
+aspire to the honors of men. ..." ([D&amp;C 121:34-35](/scriptures/dc-
 testament/dc/121.34-35?lang=eng#33).)
 
 Here is instruction to straighten out our values.
@@ -120,7 +119,7 @@ hungry, or naked; neither ... that they transgress the laws of God, and fight
 and quarrel one with another, and serve the devil. ... But ... teach them to walk
 in the ways of truth and soberness; ... teach them to love one another, and to
 serve one another." ([Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
+4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
 
 The Lord placed upon parents the responsibility to teach their children. This
 means more than to teach them verbally. There are better, basic ways to
@@ -143,8 +142,7 @@ get more "things," it is a poor place to teach the worth of a human being in
 terms of love and sacrifice.
 
 The Lord has said: "I have commanded you to bring up your children in light
-and truth." ([D&amp;C 93:40](https://www.lds.org/scriptures/dc-
-testament/dc/93.40?lang=eng#39).)
+and truth." ([D&amp;C 93:40](/scriptures/dc-testament/dc/93.40?lang=eng#39).)
 
 Dr. [Paul] Popenoe said, "Our youth are not products of their own lives, but
 of what their parents give them. If we can get parents to set a good example,
@@ -152,7 +150,7 @@ we will take away the greatest stumbling block between generations."
 
 The Lord said: "Train up a child in the way he should go: and when he is old,
 he will not depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).)
+22:6](/scriptures/ot/prov/22.6?lang=eng#5).)
 
 We must learn, before it is too late, the truth spoken by Elder Richard L.
 Evans: "There never was a tonic that would cure more social ailments than a
@@ -172,4 +170,6 @@ God. I know that President Joseph Fielding Smith is a living prophet today,
 with the keys of the kingdom. I know that if we will follow the counsel we
 have been given in this conference, our homes will be better, our service more
 effective, and our joy more full. In the name of Jesus Christ. Amen.
+
+## References
 

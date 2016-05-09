@@ -18,20 +18,19 @@ seem to understand this. Modern man has lost his capacity to love. Jesus
 warned us that one of the principal characteristics of the last days would be
 that love among the people would gradually die. Jesus said, "Because iniquity
 shall abound, the love of many shall wax cold" ([JS--M
-1:10](https://www.lds.org/scriptures/pgp/js-m/1.10?lang=eng#9); see also
-[Matt. 24:12](https://www.lds.org/scriptures/nt/matt/24.12?lang=eng#11)). My
-thesis is that the iniquity of which he spoke is based on personal
-selfishness. That is the reason why love among the people is dying.
+1:10](/scriptures/pgp/js-m/1.10?lang=eng#9); see also [Matt.
+24:12](/scriptures/nt/matt/24.12?lang=eng#11)). My thesis is that the iniquity
+of which he spoke is based on personal selfishness. That is the reason why
+love among the people is dying.
 
 Jesus warned that iniquities in the last days would become so great "that, if
 possible, they shall deceive the very elect, who are the elect according to
-the covenant" ([JS--M
-1:22](https://www.lds.org/scriptures/pgp/js-m/1.22?lang=eng#21); see also
-[Matt. 24:24](https://www.lds.org/scriptures/nt/matt/24.24?lang=eng#23)). I
-understand this to mean that eventually even the most faithful of the Lord's
-covenant Saints will become contaminated and threatened by modern-day
-philosophies. I believe it is for this reason that unless these days are
-shortened none of us could long remain unaffected by such trends.
+the covenant" ([JS--M 1:22](/scriptures/pgp/js-m/1.22?lang=eng#21); see also
+[Matt. 24:24](/scriptures/nt/matt/24.24?lang=eng#23)). I understand this to
+mean that eventually even the most faithful of the Lord's covenant Saints will
+become contaminated and threatened by modern-day philosophies. I believe it is
+for this reason that unless these days are shortened none of us could long
+remain unaffected by such trends.
 
 It may well be that the present attitude of personal selfishness is the cause
 of most of the unhappiness with life among the people of the world. It shows
@@ -51,8 +50,8 @@ it to learn to know that other person's character, interests, talents, and
 abilities? Or is dating merely an opportunity to satisfy one's passions? Each
 person will have to answer that question for himself. However, a sure guide
 would be to follow the words of the Savior: "Again I say unto you, let every
-man esteem his brother as himself" ([D&amp;C
-38:25](https://www.lds.org/scriptures/dc-testament/dc/38.25?lang=eng#24)).
+man esteem his brother as himself" ([D&amp;C 38:25](/scriptures/dc-
+testament/dc/38.25?lang=eng#24)).
 
 The necessity to practice unselfish love in courtship becomes imperative in
 marriage. Persons interested only in romance soon find the realisms of
@@ -108,8 +107,7 @@ always, and be with and strengthen them;
 
 "And see that there is no iniquity in the church, neither hardness with each
 other, neither lying, backbiting, nor evil speaking" ([D&amp;C
-20:53-54](https://www.lds.org/scriptures/dc-
-testament/dc/20.53-54?lang=eng#52)).
+20:53-54](/scriptures/dc-testament/dc/20.53-54?lang=eng#52)).
 
 Jesus, out of pure unselfish love, gave his life for our sakes. Had he been as
 selfish as people are nowadays, there would have been no atonement. We would
@@ -132,4 +130,6 @@ to love God and one another with all their heart, might, mind, and strength.
 I testify that God lives, that Jesus is the risen Christ, and that God speaks
 to us today in the only way he can, through divinely called prophets who know
 the truth of these things. Please listen! In the name of Jesus Christ, amen.
+
+## References
 

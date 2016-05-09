@@ -33,7 +33,7 @@ world. But you do not need thanks. Every man and woman who pays his or her
 honest tithing has a testimony of the blessings that come therefrom. He or she
 can bear witness that the Lord opens the windows of heaven and pours out
 blessings as he has promised. (See [Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).)
+3:10](/scriptures/ot/mal/3.10?lang=eng#9).)
 
 I give you the assurance, my brothers and sisters, that the work is moving
 forward. Wherever it is established in more than eighty nations, it is growing
@@ -41,11 +41,10 @@ in strength. The faith of the people is increasing, as reflected in their
 increased activity. The missionary work continues to flourish. Our young men
 and women continue to leave their homes to go into the world to bear witness
 of the Savior and of the restoration of his eternal gospel in this the
-dispensation of the fulness of times. (See [D&amp;C
-124:41](https://www.lds.org/scriptures/dc-testament/dc/124.41?lang=eng#40).)
-The work of salvation for the dead, through the vast genealogical program of
-the Church and the selfless labor of love that goes on in the temples, is
-moving at a pace never previously known.
+dispensation of the fulness of times. (See [D&amp;C 124:41](/scriptures/dc-
+testament/dc/124.41?lang=eng#40).) The work of salvation for the dead, through
+the vast genealogical program of the Church and the selfless labor of love
+that goes on in the temples, is moving at a pace never previously known.
 
 Our people are more faithful in attendance at their meetings, and since our
 last conference a very substantial number of them have had opportunity to
@@ -182,7 +181,7 @@ liberally, and upbraideth not; and it shall be given him.
 
 "But let him ask in faith, nothing wavering. For he that wavereth is like a
 wave of the sea driven with the wind and tossed." ([James
-1:5-6](https://www.lds.org/scriptures/nt/james/1.5-6?lang=eng#4).)
+1:5-6](/scriptures/nt/james/1.5-6?lang=eng#4).)
 
 It was faith, the simple faith of a fourteen-year-old boy, that took him into
 the woods that spring morning. It was faith that took him to his knees in
@@ -235,11 +234,10 @@ a great selfless labor of love.
 
 Wrote Paul to the Hebrews, "Now faith is the substance of things hoped for,
 the evidence of things not seen." ([Heb.
-11:1](https://www.lds.org/scriptures/nt/heb/11.1?lang=eng#0).) All of the
-great accomplishments of which I have spoken were once only "the substance of
-things hoped for, the evidence of things not seen." But with vision, with
-labor, and with confidence in the power of God working through them, they
-brought their faith to reality.
+11:1](/scriptures/nt/heb/11.1?lang=eng#0).) All of the great accomplishments
+of which I have spoken were once only "the substance of things hoped for, the
+evidence of things not seen." But with vision, with labor, and with confidence
+in the power of God working through them, they brought their faith to reality.
 
 Behind us is a glorious history. It is bespangled with heroism, tenacity to
 principle, and unflagging fidelity. It is the product of faith. Before us is a
@@ -283,12 +281,12 @@ what you shall do and whither you shall go. ...
 
 "Be faithful unto the end, and lo, I am with you. These words are not of man
 nor of men, but of me, even Jesus Christ, your Redeemer, by the will of the
-Father." ([D&amp;C 31:9, 11, 13](https://www.lds.org/scriptures/dc-
-testament/dc/31.9%2C11%2C13?lang=eng#8).)
+Father." ([D&amp;C 31:9, 11, 13](/scriptures/dc-
+testament/dc/31.9,11,13?lang=eng#8).)
 
 Said the Savior to his disciples, "Be ye therefore perfect, even as your
 Father which is in heaven is perfect." ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).)
+5:48](/scriptures/nt/matt/5.48?lang=eng#47).)
 
 This is the commandment which is before us. Regrettably we have not reached
 perfection. We have a great distance to go. We must cultivate the faith to
@@ -315,11 +313,12 @@ made, but we can do it, walking in faith.
 
 "If ye have faith as a grain of mustard seed, ye shall say unto this mountain,
 Remove hence to yonder place; and it shall remove; _and nothing shall be
-impossible unto you_." ([Matt.
-17:20](https://www.lds.org/scriptures/nt/matt/17.20?lang=eng#19); italics
-added.)
+impossible unto you_." ([Matt. 17:20](/scriptures/nt/matt/17.20?lang=eng#19);
+italics added.)
 
 So declared the Lord.
 
 God grant us faith, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

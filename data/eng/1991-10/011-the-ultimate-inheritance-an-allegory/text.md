@@ -4,7 +4,7 @@ Standing at this historic pulpit with memories of those men and women who have
 stood here before me filling my thoughts, I am reminded of the admonition
 given to Moses when he was told, "Put off thy shoes from off thy feet, for the
 place whereon thou standest is holy ground." ([Ex.
-3:5](https://www.lds.org/scriptures/ot/ex/3.5?lang=eng#4).)
+3:5](/scriptures/ot/ex/3.5?lang=eng#4).)
 
 I pray that as I stand upon this holy ground I may do so with my shoes from
 off my feet.
@@ -61,16 +61,14 @@ river. Humbly, softly, meaningfully, and compellingly, he pled your case. I
 knew the impact he was having when I saw tears streaming down the cheeks of
 many in the courtroom. I don't remember all of his arguments and logic, but I
 do remember him saying that man is a little lower than the angels (see [Ps.
-8:5](https://www.lds.org/scriptures/ot/ps/8.5?lang=eng#4)) and that the worth
-of souls is great (see [D&amp;C 18:10](https://www.lds.org/scriptures/dc-
-testament/dc/18.10?lang=eng#9)). In one of the most majestic moments, his eyes
-filled with compassion and his voice quivering with indignation, he
-admonished, "He that is without sin among you, let him first cast a stone."
-([John 8:7](https://www.lds.org/scriptures/nt/john/8.7?lang=eng#6).)
+8:5](/scriptures/ot/ps/8.5?lang=eng#4)) and that the worth of souls is great
+(see [D&amp;C 18:10](/scriptures/dc-testament/dc/18.10?lang=eng#9)). In one of
+the most majestic moments, his eyes filled with compassion and his voice
+quivering with indignation, he admonished, "He that is without sin among you,
+let him first cast a stone." ([John 8:7](/scriptures/nt/john/8.7?lang=eng#6).)
 
 He went on to argue that "this life is the time for men to prepare to meet
-God" (see [Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31)) and closed
+God" (see [Alma 34:32](/scriptures/bofm/alma/34.32?lang=eng#31)) and closed
 with a breathtaking summary in which he said no one has the right to judge the
 sum total of a man's life until that life has been lived.
 
@@ -84,35 +82,26 @@ advised that, in the law, we have what are known as threshold questions. These
 are simply questions that are the point of beginning, or the starting place.
 The threshold question in your trial is, Do you love the Lord God with all
 your heart and with all your soul and with all your mind? (See [Matt.
-22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36).) If the
-answer is no, there will be a motion for judgment against you. That motion
-will be granted.
+22:37](/scriptures/nt/matt/22.37?lang=eng#36).) If the answer is no, there
+will be a motion for judgment against you. That motion will be granted.
 
 On the other hand, if you answer yes, opposing counsel will immediately test
 the validity of your answer with the question, Do you keep his commandments?
-(See [John 14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
-A negative response will reveal your fraud, and you will stand judged by your
-own testimony. If your answer is in the affirmative, there will then follow
-hours, perhaps days, of questions, each designed to prove that you do not, in
-fact, keep his commandments. Among those questions will be the following:
+(See [John 14:15](/scriptures/nt/john/14.15?lang=eng#14).) A negative response
+will reveal your fraud, and you will stand judged by your own testimony. If
+your answer is in the affirmative, there will then follow hours, perhaps days,
+of questions, each designed to prove that you do not, in fact, keep his
+commandments. Among those questions will be the following:
 
-  1. Do you love your neighbor as yourself? (See [Matt. 22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38).)
-
-  2. Do you place worldly pursuits or personal pleasures above your service to God? (See [Ex. 20:3](https://www.lds.org/scriptures/ot/ex/20.3?lang=eng#2).)
-
-  3. Do you take the name of the Lord God in vain? (See [Ex. 20:7](https://www.lds.org/scriptures/ot/ex/20.7?lang=eng#6).)
-
-  4. Do you keep the Sabbath day holy? (See [Ex. 20:8](https://www.lds.org/scriptures/ot/ex/20.8?lang=eng#7).)
-
-  5. Do you honor your father and mother? (See [Ex. 20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).)
-
-  6. Do you commit adultery or fornication? (See [Ex. 20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).)
-
-  7. Do you steal? (See [Ex. 20:15](https://www.lds.org/scriptures/ot/ex/20.15?lang=eng#14).)
-
-  8. Do you bear false witness? (See [Ex. 20:16](https://www.lds.org/scriptures/ot/ex/20.16?lang=eng#15).)
-
-  9. Do you covet? (See [Ex. 20:17](https://www.lds.org/scriptures/ot/ex/20.17?lang=eng#16).)
+  1. Do you love your neighbor as yourself? (See [Matt. 22:39](/scriptures/nt/matt/22.39?lang=eng#38).) 
+  2. Do you place worldly pursuits or personal pleasures above your service to God? (See [Ex. 20:3](/scriptures/ot/ex/20.3?lang=eng#2).) 
+  3. Do you take the name of the Lord God in vain? (See [Ex. 20:7](/scriptures/ot/ex/20.7?lang=eng#6).) 
+  4. Do you keep the Sabbath day holy? (See [Ex. 20:8](/scriptures/ot/ex/20.8?lang=eng#7).) 
+  5. Do you honor your father and mother? (See [Ex. 20:12](/scriptures/ot/ex/20.12?lang=eng#11).) 
+  6. Do you commit adultery or fornication? (See [Ex. 20:14](/scriptures/ot/ex/20.14?lang=eng#13).) 
+  7. Do you steal? (See [Ex. 20:15](/scriptures/ot/ex/20.15?lang=eng#14).) 
+  8. Do you bear false witness? (See [Ex. 20:16](/scriptures/ot/ex/20.16?lang=eng#15).) 
+  9. Do you covet? (See [Ex. 20:17](/scriptures/ot/ex/20.17?lang=eng#16).) 
 
 Remember, opposing counsel and his trial team will be fully conversant with
 your conduct and behavior. Witnesses will have been subpoenaed by them to
@@ -147,4 +136,6 @@ our twelve grandchildren, who regularly teach me the joy of unconditional
 love.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

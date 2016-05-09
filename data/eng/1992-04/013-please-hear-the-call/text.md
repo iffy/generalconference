@@ -14,8 +14,8 @@ excommunicated because of serious transgressions.
 
 "To all such we reach out in love. We are anxious to forgive in the spirit of
 Him who said: 'I, the Lord, will forgive whom I will forgive, but of you it is
-required to forgive all men.' ([D&amp;C 64:10](https://www.lds.org/scriptures
-/dc-testament/dc/64.10?lang=eng#9).)
+required to forgive all men.' ([D&amp;C 64:10](/scriptures/dc-
+testament/dc/64.10?lang=eng#9).)
 
 "We encourage Church members to forgive those who may have wronged them. To
 those who have ceased _activity_ and to those who have become critical, we
@@ -52,7 +52,7 @@ Perceived in this manner, activities become another vehicle to show charity,
 love, kindness, forgiveness, service, and to include and not exclude. Amulek
 said, "If ye do not remember to be charitable, ye are as dross, which the
 refiners do cast out, (it being of no worth)." ([Alma
-34:29](https://www.lds.org/scriptures/bofm/alma/34.29?lang=eng#28).)
+34:29](/scriptures/bofm/alma/34.29?lang=eng#28).)
 
 Those whose formal Church participation may be limited for a season can
 experience the warmth of loving arms and open hearts as they are invited to
@@ -89,18 +89,15 @@ participate fully in Church might be reinstated?
 Through a variety of family, priesthood, Relief Society, or ward and stake
 activities, we can create a setting that--
 
-  1. Helps all of us participate in wholesome activities that should be free from the sensuality and coarseness of many activities offered and promoted by the world.
-
-  2. Places a premium on including rather than excluding individuals and groups, regardless of age, station in life, Church callings, etc.
-
-  3. Offers opportunities for participation to the active, those who are less active, and those who are winning their way back to full fellowship.
-
-  4. Displays forgiveness and forgetting as individuals feel the warmth and concern of loving arms and open hearts. When we do not forgive and forget, the Lord warns: "My disciples, in days of old, sought occasion against one another and forgave not one another in their hearts; ... for this evil they were afflicted and sorely chastened.
+  1. Helps all of us participate in wholesome activities that should be free from the sensuality and coarseness of many activities offered and promoted by the world. 
+  2. Places a premium on including rather than excluding individuals and groups, regardless of age, station in life, Church callings, etc. 
+  3. Offers opportunities for participation to the active, those who are less active, and those who are winning their way back to full fellowship. 
+  4. Displays forgiveness and forgetting as individuals feel the warmth and concern of loving arms and open hearts. When we do not forgive and forget, the Lord warns: "My disciples, in days of old, sought occasion against one another and forgave not one another in their hearts; ... for this evil they were afflicted and sorely chastened. 
 
 "Wherefore, I say unto you, that ye ought to forgive one another; for he that
 forgiveth not his brother his trespasses standeth condemned before the Lord;
-for there remaineth in him the greater sin." ([D&amp;C
-64:8-9](https://www.lds.org/scriptures/dc-testament/dc/64.8-9?lang=eng#7).)
+for there remaineth in him the greater sin." ([D&amp;C 64:8-9](/scriptures/dc-
+testament/dc/64.8-9?lang=eng#7).)
 
 When a person returns to full fellowship in the Church as a result of love,
 kindness, and forgiveness from those who care, the feeling of joy is almost
@@ -113,7 +110,7 @@ and he fell again to the earth.
 
 "Now was not this exceeding joy? Behold, this is joy which none receiveth save
 it be the truly penitent and humble seeker of happiness." ([Alma
-27:17-18](https://www.lds.org/scriptures/bofm/alma/27.17-18?lang=eng#16).)
+27:17-18](/scriptures/bofm/alma/27.17-18?lang=eng#16).)
 
 Activities can be so much more than fun and games, and so much more than
 momentary pleasure. Activities planned with purpose and carried out with real
@@ -140,8 +137,7 @@ life for the sins of all. We know there are many who carry heavy burdens of
 guilt and bitterness. To such we say, 'Set them aside and give heed to the
 words of the Savior: "Come unto me, all ye that labour and are heavy laden,
 and I will give you rest. ... For my yoke is easy, and my burden is light."'"
-([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+([Matt. 11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 The First Presidency continues by saying:
 
@@ -153,4 +149,6 @@ Back," p. 3.)
 
 May I invite all to come unto Christ. Come back, and partake of His joy. In
 the name of Jesus Christ, amen.
+
+## References
 

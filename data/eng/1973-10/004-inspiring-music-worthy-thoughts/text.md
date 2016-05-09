@@ -155,8 +155,8 @@ a great blessing.
 
 The Lord has said, "For my soul delighteth in the song of the heart; yea, the
 song of the righteous is a prayer unto me, and it shall be answered with a
-blessing upon their heads." ([D&amp;C 25:12](https://www.lds.org/scriptures
-/dc-testament/dc/25.12?lang=eng#11).)
+blessing upon their heads." ([D&amp;C 25:12](/scriptures/dc-
+testament/dc/25.12?lang=eng#11).)
 
 I think I would like to share with the young people something about how such
 music has been very important in my life, although I am not trained as a
@@ -165,8 +165,8 @@ musician.
 Probably the greatest challenge to people of any age, particularly young
 people, and the most difficult thing you will face in mortal life is to learn
 to control your thoughts. As a man "thinketh in his heart, so is he." ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6).) One who can
-control his thoughts has conquered himself.
+23:7](/scriptures/ot/prov/23.7?lang=eng#6).) One who can control his thoughts
+has conquered himself.
 
 When I was about ten years old, we lived in a home surrounded by an orchard.
 There never seemed to be enough water for the trees. The ditches, always
@@ -308,11 +308,13 @@ There are many references in the scriptures, both ancient and modern, that
 attest to the influence of righteous music. The Lord, Himself, was prepared
 for His greatest test through its influence, for the scripture records: "And
 when they had sung an hymn, they went out into the mount of Olives." ([Mark
-14:26](https://www.lds.org/scriptures/nt/mark/14.26?lang=eng#25).)
+14:26](/scriptures/nt/mark/14.26?lang=eng#25).)
 
 I bear witness that God is our Father, that we are His children, that He loves
 us and has provided great and glorious things in this life. I know this, and I
 thank Him for the uplifting influence of good music in my life and in the
 lives of my children. There are many things we can do together as a family;
 inspired music we can feel together. In the name of Jesus Christ. Amen.
+
+## References
 

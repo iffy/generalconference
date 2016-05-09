@@ -30,8 +30,8 @@ of the church through the will of God the Father, and the grace of your Lord
 Jesus Christ,
 
 "Being inspired of the Holy Ghost to lay the foundation thereof, and to build
-it up unto the most holy faith" ([D&amp;C
-21:1-2](https://www.lds.org/scriptures/dc-testament/dc/21.1-2?lang=eng#0)).
+it up unto the most holy faith" ([D&amp;C 21:1-2](/scriptures/dc-
+testament/dc/21.1-2?lang=eng#0)).
 
 Today we have had the opportunity of raising our right arms to the square and
 sustaining Howard W. Hunter as our President. This is a historic occasion, as
@@ -70,7 +70,7 @@ come, and by them shall all things be revealed, or, rather, shall secret
 things be made manifest, and hidden things shall come to light, and things
 which are not known shall be made known by them, and also things shall be made
 known by them which otherwise could not be known" ([Mosiah 8:13,
-15-17](https://www.lds.org/scriptures/bofm/mosiah/8.13%2C15-17?lang=eng#12)).
+15-17](/scriptures/bofm/mosiah/8.13,15-17?lang=eng#12)).
 
 What does it mean to be a prophet? The word _prophet_ in the Greek language
 means "inspired teacher" (_Encyclopedia of Mormonism,_ ed. Daniel H. Ludlow, 4
@@ -141,8 +141,7 @@ What a comfort it is to know that the Lord keeps a channel of communication
 open to His children through the prophet. What a blessing it is to know we
 have a voice we can trust to declare the will of the Lord. As the prophet Amos
 taught, "Surely the Lord God will do nothing, but he revealeth his secret unto
-his servants the prophets" ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6)).
+his servants the prophets" ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6)).
 
 The Lord surely understood the need to keep His doctrines pure and to trust
 its interpretation to only one source. Of course, we are all admonished to
@@ -193,4 +192,6 @@ seer, and revelator. I give witness that divine intervention has preserved and
 prepared President Hunter for this great and important responsibility. He is
 the Lord's servant. Of this I testify in the name of Him whose church this is,
 even our Lord and Savior, Jesus Christ, amen.
+
+## References
 

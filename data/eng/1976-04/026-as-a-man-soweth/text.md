@@ -5,7 +5,7 @@ unto you concerning this heaven, and this earth; write the words which I
 speak. I am the Beginning and the End, the Almighty God; by mine Only Begotten
 I created these things; yea, in the beginning I created the heaven, and the
 earth upon which thou standest." ([Moses
-2:1](https://www.lds.org/scriptures/pgp/moses/2.1?lang=eng#0).)
+2:1](/scriptures/pgp/moses/2.1?lang=eng#0).)
 
 As I study the scriptures and the marvelous preparation the Lord made for the
 creation of our earthly home, I am impressed with the system and order he uses
@@ -56,7 +56,7 @@ responsibilities: "And I God, blessed them, and said unto them: Be fruitful,
 and multiply, and replenish the earth, and subdue it, and have dominion over
 the fish of the sea, and over the fowl of the air, and over every living thing
 that moveth upon the earth." ([Moses
-2:28](https://www.lds.org/scriptures/pgp/moses/2.28?lang=eng#27).)
+2:28](/scriptures/pgp/moses/2.28?lang=eng#27).)
 
 The operation of the Lord's physical creation was clearly predictable. His
 physical laws are eternal and unchangeable. As man grows in his understanding
@@ -81,8 +81,7 @@ preserved by law and perfected and sanctified by the same.
 "That which breaketh a law, and abideth not by law, but seeketh to become a
 law unto itself, and willeth to abide in sin, and altogether abideth in sin,
 cannot be sanctified by law, neither by mercy, justice, nor judgment.
-Therefore, they must remain filthy still." ([D&amp;C
-88:33-35](https://www.lds.org/scriptures/dc-
+Therefore, they must remain filthy still." ([D&amp;C 88:33-35](/scriptures/dc-
 testament/dc/88.33-35?lang=eng#32).)
 
 In commentary, it has been written about these particular verses of scripture
@@ -169,8 +168,8 @@ system.
 world, upon which all blessings are predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19).)
+which it is predicated." ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19).)
 
 The Lord has clearly charted a course for us to obtain his blessings. He is
 bound by his divine law to bless us for our righteousness. The overwhelming
@@ -188,8 +187,10 @@ he also reap.
 that soweth to the Spirit shall of the Spirit reap life everlasting.
 
 "And let us not be weary in well doing; for in due season we shall reap."
-([Gal. 6:7-9](https://www.lds.org/scriptures/nt/gal/6.7-9?lang=eng#6).)
+([Gal. 6:7-9](/scriptures/nt/gal/6.7-9?lang=eng#6).)
 
 May God bless us that we may sow to the Spirit in order that our harvest will
 be life everlasting, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

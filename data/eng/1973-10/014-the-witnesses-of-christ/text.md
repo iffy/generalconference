@@ -19,21 +19,19 @@ with the poor; and he witnessed that they were about to see their salvation.
 
 Those who heard him were much affected by what he said, and some asked him if
 he were the Christ. (See [Luke
-3:11-15](https://www.lds.org/scriptures/nt/luke/3.11-15?lang=eng#10).)
+3:11-15](/scriptures/nt/luke/3.11-15?lang=eng#10).)
 
 Then one day there came to him a man asking to be baptized. When John saw him,
 he recognized him to be the Son of God and protested that the situation should
 be reversed. He said: "... I have need to be baptized of thee, and comest thou
-to me?" ([Matt.
-3:14](https://www.lds.org/scriptures/nt/matt/3.14?lang=eng#13).) The Lord, for
-it truly was he, said: "Suffer it to be so now: for thus it becometh us to
+to me?" ([Matt. 3:14](/scriptures/nt/matt/3.14?lang=eng#13).) The Lord, for it
+truly was he, said: "Suffer it to be so now: for thus it becometh us to
 fulfill all righteousness. ..." ([Matt.
-3:15](https://www.lds.org/scriptures/nt/matt/3.15?lang=eng#14).)
+3:15](/scriptures/nt/matt/3.15?lang=eng#14).)
 
 Then John witnessed that the Holy Ghost fell upon Jesus like a dove, and he
 heard the voice of the Father from heaven say: "This is my beloved Son, in
-whom I am well pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+whom I am well pleased." ([Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 In this manner the earthly work of the Lord began. A prophet testified and
 identified him, after which the voice of God confirmed the identification.
@@ -52,27 +50,25 @@ the redemption of men on earth was completed long before the earth was made.
 
 Enoch asked the Lord when the great sacrifice would be made and was told that
 it would "be in the meridian of time, in the days of wickedness and
-vengeance." ([Moses
-7:46](https://www.lds.org/scriptures/pgp/moses/7.46?lang=eng#45).)
+vengeance." ([Moses 7:46](/scriptures/pgp/moses/7.46?lang=eng#45).)
 
 By the mouths of the prophets as the time drew closer to the eventful year,
 the Lord spelled out to the people how they might know of the coming of the
 true Redeemer. Witness: "Therefore the Lord himself shall give you a sign;
 Behold, a virgin shall conceive, and bear a son, and shall call his name
-Immanuel." ([Isa.
-7:14](https://www.lds.org/scriptures/ot/isa/7.14?lang=eng#13).)
+Immanuel." ([Isa. 7:14](/scriptures/ot/isa/7.14?lang=eng#13).)
 
 He was to be despised and rejected and bruised for our iniquity. He was to
 bear our grief and carry our sorrows; he was himself to be a man of sorrow and
 acquainted with grief. He was to be brought as a lamb to the slaughter, yet he
 would open not his mouth, even as sheep brought to be sheared are dumb. He was
 to make his grave with the wicked and the rich. He was to be an offering for
-sin. (See [Isa. 53](https://www.lds.org/scriptures/ot/isa/53.title?lang=eng).)
+sin. (See [Isa. 53](/scriptures/ot/isa/53?lang=eng).)
 
 It was prophesied also that this son should "be called Wonderful, Counsellor,"
 and with a final burst of inspired words Isaiah revealed him as "The mighty
 God, The everlasting Father, The Prince of Peace." ([Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 And now in our day, our message is that once more the voice of God, the
 Eternal Father, has been heard. In this dispensation he has revealed himself
@@ -89,9 +85,8 @@ return even as he had ascended into heaven.
 The visit of these two to Joseph Smith, their persons filling the forest aisle
 with heavenly light, testified that indeed they live. The young prophet heard
 the heavenly voice of the Father affirm his Son: "... _this is My Beloved Son.
-Hear Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) Joseph Smith
-heard! He saw! He bore solemn testimony of the great revelation.
+Hear Him!_" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) Joseph
+Smith heard! He saw! He bore solemn testimony of the great revelation.
 
 We bear witness that this revelation is true. From that glorious morning until
 now The Church of Jesus Christ of Latter-day Saints, which Joseph Smith was
@@ -148,7 +143,7 @@ people, saying:
 world.
 
 "And behold, I am the light and the life of the world. ..." ([3 Ne. 11:3-4,
-6-11](https://www.lds.org/scriptures/bofm/3-ne/11.3-4%2C6-11?lang=eng#2).)
+6-11](/scriptures/bofm/3-ne/11.3-4,6-11?lang=eng#2).)
 
 I shall not take time to describe his visit except to say that he taught them
 his gospel and organized his church here in America among them. He taught the
@@ -169,30 +164,32 @@ where all men shall know that my garments are not spotted with your blood.
 "And then shall ye know that I have seen Jesus, and that he hath talked with
 me face to face, and that he told me in plain humility, even as a man telleth
 another in mine own language, concerning these things." ([Ether
-12:38-39](https://www.lds.org/scriptures/bofm/ether/12.38-39?lang=eng#37).)
+12:38-39](/scriptures/bofm/ether/12.38-39?lang=eng#37).)
 
 This prophet sealed his record and deposited it in a stone box in a hill. In
 1827 this same prophet, resurrected, delivered the record to Joseph Smith, who
 by the power of God translated it. In it is a promise that any man who will
 read the book with a contrite heart and desire to know the truth will receive
 a witness that it is true. (See [Moro.
-10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).) This
-book is called the Book of Mormon. It could not have been written by a man
-without divine help. It is an abridgment of more than a thousand years of
-records kept, yet it rings true. No person mentioned in the book is out of
-place or out of character. The Lord stands forth as sharp and vivid as in
-Palestine, and he completed his witness when the translation wag published in
-1830, a witness began two thousand years before Christ. Anyone reading this
-book, the Book of Mormon, with a desire to know, and who will ponder as he
-reads and then ask the Lord if it be true, will know that it is a true
-account. He will know too that this Church is Christ's Church and he will know
-that Joseph Smith was a prophet, a true prophet of the Lord Jesus Christ and
-his Father, the living God. Jesus Christ is the God of this earth, and he has
-carried its destiny in his hands from the beginning and will continue to do so
-until he gives the work complete to his Father, who is our Father in heaven.
+10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).) This book is called the
+Book of Mormon. It could not have been written by a man without divine help.
+It is an abridgment of more than a thousand years of records kept, yet it
+rings true. No person mentioned in the book is out of place or out of
+character. The Lord stands forth as sharp and vivid as in Palestine, and he
+completed his witness when the translation wag published in 1830, a witness
+began two thousand years before Christ. Anyone reading this book, the Book of
+Mormon, with a desire to know, and who will ponder as he reads and then ask
+the Lord if it be true, will know that it is a true account. He will know too
+that this Church is Christ's Church and he will know that Joseph Smith was a
+prophet, a true prophet of the Lord Jesus Christ and his Father, the living
+God. Jesus Christ is the God of this earth, and he has carried its destiny in
+his hands from the beginning and will continue to do so until he gives the
+work complete to his Father, who is our Father in heaven.
 
 Anyone who will do these things will also know that President Harold B. Lee is
 a prophet of God. I add my witness to that of the others, that I know he is as
 I know the others have been, and I know that God will see that this work goes
 on to its end as he plans it, in the name of the Lord Jesus Christ. Amen.
+
+## References
 

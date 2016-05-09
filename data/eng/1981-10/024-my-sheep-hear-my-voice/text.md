@@ -27,8 +27,7 @@ and it said unto them;
 
 _"Behold my Beloved Son, in whom I am well pleased, in whom I have glorified
 my name--hear ye him."_ ([3 Ne. 11:3,
-5-7](https://www.lds.org/scriptures/bofm/3-ne/11.3%2C5-7?lang=eng#2); italics
-added.)
+5-7](/scriptures/bofm/3-ne/11.3,5-7?lang=eng#2); italics added.)
 
 I know that the same Father spoke to the Jewish people in the eastern
 hemisphere. When our Lord Jesus Christ was baptized, the Bible testifies,
@@ -36,8 +35,7 @@ hemisphere. When our Lord Jesus Christ was baptized, the Bible testifies,
 descending like a dove, and lighting upon him:
 
 "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well
-pleased." ([Matt.
-3:16-17](https://www.lds.org/scriptures/nt/matt/3.16-17?lang=eng#15).)
+pleased." ([Matt. 3:16-17](/scriptures/nt/matt/3.16-17?lang=eng#15).)
 
 _I know that early one morning in the spring of 1820, in the state of New
 York, the Father and the Son appeared to the boy Joseph Smith._ Joseph Smith
@@ -48,7 +46,7 @@ of the sun, which descended gradually until it fell upon me.
 glory defy all description, standing above me in the air. One of them spake
 unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
 
 _I know Joseph Smith saw God, the Father, and his Son, Jesus Christ. And I
 know that Joseph was a true living prophet of God. Like Joseph Smith of our
@@ -65,8 +63,7 @@ friend Lazarus. Yesterday Elder Monson referred to this scripture:
 dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die. Believest thou
-this?" ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+this?" ([John 11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 Brothers and sisters, I believe this with all my heart and with all my soul.
 _I know that this same Jesus conferred upon Joseph Smith all the power and
@@ -110,7 +107,7 @@ been reestablished here upon this earth. I humbly extend my invitation to all
 my friends everywhere, and I say humbly today, "Come partake of this living
 water. Believe the testimony of the Father: '[This is] my Beloved Son, in whom
 I am well pleased, ... hear ye him.'" ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).)
+11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).)
 
 I know for those who wish to hear the Father's beloved Son, the Book of Mormon
 like the Bible has a familiar voice. It is the word of God and has the power
@@ -159,4 +156,6 @@ Brothers and sisters, why don't we pay more humble attention to this servant
 of the Lord so that we can lengthen our own stride and share this beautiful
 gospel of the Lord Jesus Christ with another Bishop Choi and another Sister
 Anan. I humbly pray in the sacred name of the Lord Jesus Christ, amen.
+
+## References
 

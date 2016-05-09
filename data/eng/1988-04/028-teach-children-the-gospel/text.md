@@ -75,17 +75,17 @@ touched her father and moved him to action. Within a year their family was
 sealed in the temple.
 
 _Fourth,_ parents are commanded to teach their children gospel principles. In
-Doctrine and Covenants 68:25 [[D&amp;C 68:25](https://www.lds.org/scriptures
-/dc-testament/dc/68.25?lang=eng#24)], the Lord instructs parents to teach
-their children "the doctrine of repentance, faith in Christ the Son of the
-living God, and of baptism and the gift of the Holy Ghost by the laying on of
-the hands."
+Doctrine and Covenants 68:25 [[D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24)], the Lord instructs parents to teach their
+children "the doctrine of repentance, faith in Christ the Son of the living
+God, and of baptism and the gift of the Holy Ghost by the laying on of the
+hands."
 
 The Savior also teaches parents something more--that they should be as
 teachable as their children. He said, "Teach parents that they must repent and
 be baptized, and humble themselves as their little children, and they shall
 all be saved with their little children" ([Moro.
-8:10](https://www.lds.org/scriptures/bofm/moro/8.10?lang=eng#9)).
+8:10](/scriptures/bofm/moro/8.10?lang=eng#9)).
 
 _Fifth,_ gospel truths make a difference in the lives of children. Over the
 past few years, I've seen countless examples of children who have been taught
@@ -122,4 +122,6 @@ On this beautiful Easter Sunday I bear witness that Jesus Christ lived and
 died for us, and that he lives again. He is my Savior, my example, my friend,
 and I love him. I pledge my continued devotion and service to him, in the name
 of Jesus Christ, amen.
+
+## References
 

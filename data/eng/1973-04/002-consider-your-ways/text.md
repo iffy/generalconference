@@ -7,7 +7,7 @@ drink, but ye are not filled with drink; ye clothe you, but there is none
 warm; and he that earneth wages earneth wages to put it into a bag with holes.
 
 "Thus saith the Lord of hosts; Consider your ways." ([Hag.
-1:5-7](https://www.lds.org/scriptures/ot/hag/1.5-7?lang=eng#4).)
+1:5-7](/scriptures/ot/hag/1.5-7?lang=eng#4).)
 
 I have read this great scripture and continue to be impressed with how clearly
 the Old Testament prophet describes the conditions of today. Almost daily we
@@ -20,13 +20,10 @@ supply his needs.
 A noted historian several years ago summarized the reasons for the fall of
 Rome as follows:
 
-  1. The breakdown of the family and the rapid increase of divorce.
-
-  2. The spiraling rise of taxes and extravagant spending.
-
-  3. The mounting craze for pleasure and the brutalization of sports.
-
-  4. The decay of religion into myriads of confused forms, leaving the people without a uniform guide.
+  1. The breakdown of the family and the rapid increase of divorce. 
+  2. The spiraling rise of taxes and extravagant spending. 
+  3. The mounting craze for pleasure and the brutalization of sports. 
+  4. The decay of religion into myriads of confused forms, leaving the people without a uniform guide. 
 
 Our unconquered appetites and consuming drive for material possessions appear
 to be leading us on a course so often repeated in history. Greed, lust, and
@@ -65,8 +62,7 @@ strong in the presence of God; and the doctrine of the priesthood shall distil
 upon thy soul as the dews from heaven.
 
 "The Holy Ghost shall be thy constant companion. ..." ([D&amp;C
-121:45-46](https://www.lds.org/scriptures/dc-
-testament/dc/121.45-46?lang=eng#44).)
+121:45-46](/scriptures/dc-testament/dc/121.45-46?lang=eng#44).)
 
 I have watched them armed with the Holy Ghost as a constant companion, taking
 on enormous work loads at an age when most men would be confined to rocking
@@ -134,7 +130,7 @@ become one of my favorite places. Here is where I can shut myself off from the
 world and communicate with my Father in heaven. "But thou, when thou prayest,
 enter into thy closet, and when thou hast shut thy door, pray to thy Father
 which is in secret; and thy Father which seeth in secret shall reward thee
-openly." ([Matt. 6:6](https://www.lds.org/scriptures/nt/matt/6.6?lang=eng#5).)
+openly." ([Matt. 6:6](/scriptures/nt/matt/6.6?lang=eng#5).)
 
 "Consider your ways." Couldn't your life stand some open rewarding by the
 Father? Isn't this the time to learn how to communicate with our Father which
@@ -147,4 +143,6 @@ sustain and support him.
 "Consider your ways." If that witness has not been given to you, isn't now the
 time to seek it? Come and join with us, and let us continue to build the
 kingdom of God here and now, I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

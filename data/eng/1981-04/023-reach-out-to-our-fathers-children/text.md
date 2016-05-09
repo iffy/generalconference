@@ -21,7 +21,7 @@ Having said this, she turned around and saw Jesus, but she did not recognize
 him. The Savior also asked why she was weeping. Mary said, thinking she was
 talking to the gardener, "Sir, if thou have borne him hence, tell me where
 thou hast laid him, and I will take him away." ([John
-20:11-15](https://www.lds.org/scriptures/nt/john/20.11-15?lang=eng#10).)
+20:11-15](/scriptures/nt/john/20.11-15?lang=eng#10).)
 
 The Savior then called her by name, as he also could each of us, and she
 immediately recognized him. Because of her great love for him and her witness
@@ -30,8 +30,7 @@ that he lives, she extended her arms to embrace him.
 With love, concern, and assurance, he spoke these eternally significant words:
 "Touch me not; for I am not yet ascended to my Father: but go to my brethren,
 and say unto them, I ascend unto my Father, and your Father; and to my God,
-and your God." ([John
-20:17](https://www.lds.org/scriptures/nt/john/20.17?lang=eng#16).)
+and your God." ([John 20:17](/scriptures/nt/john/20.17?lang=eng#16).)
 
 "To _my Father,_ and _your Father;_ to _my God,_ and _your God._" How
 important this message was then, and how vital it is for us today! The Apostle
@@ -42,8 +41,7 @@ poets have said, For we are also his offspring.
 
 "Forasmuch then as we are the offspring of God, we ought not to think that the
 Godhead is like unto gold, or silver, or stone, graven by art and man's
-device." ([Acts
-17:28-29](https://www.lds.org/scriptures/nt/acts/17.28-29?lang=eng#27).)
+device." ([Acts 17:28-29](/scriptures/nt/acts/17.28-29?lang=eng#27).)
 
 Through prayer, study, and living the gospel, I have come to appreciate the
 fact that we are all our Father's children--part of one large family. We are
@@ -70,7 +68,7 @@ with all thy soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35).)
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35).)
 
 And again, in the closing moments of his life he made this glorious
 pronouncement:
@@ -79,8 +77,7 @@ pronouncement:
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33).)
+another." ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33).)
 
 William Shakespeare once said, "They do not love that do not show their love."
 (_The Two Gentlemen of Verona,_ act 1, sc. 2, line 31.) We need to show our
@@ -108,7 +105,7 @@ fellowmen in today's world. However, Peter did not stop with mere words. The
 scripture records that he then "took him by the right hand, and lifted him
 up," and immediately the man's feet and ankles received strength and he stood,
 walked, leaped, and entered the temple praising God. (See [Acts
-3:1-9](https://www.lds.org/scriptures/nt/acts/3.1-9?lang=eng#0).)
+3:1-9](/scriptures/nt/acts/3.1-9?lang=eng#0).)
 
 It isn't silver and gold the world needs today but the extended hand and the
 lifting influence of the Spirit of the Lord.
@@ -142,7 +139,7 @@ love one another: for love is of God; and every one that loveth is born of God
 and knoweth God.
 
 "He that loveth not knoweth not God; for God is love." ([1 Jn.
-4:7-8](https://www.lds.org/scriptures/nt/1-jn/4.7-8?lang=eng#6).)
+4:7-8](/scriptures/nt/1-jn/4.7-8?lang=eng#6).)
 
 Jesus Christ, our perfect exemplar, consistently demonstrated his love through
 acts of compassion, and he understood the most appropriate ways to express
@@ -151,28 +148,26 @@ love.
 At Jacob's well, he took the time to teach a woman of Samaria some glorious
 eternal truths. She accepted his testimony that he was the Messiah and
 returned to the city to testify, "Is not this the Christ?" ([John
-4:29](https://www.lds.org/scriptures/nt/john/4.29?lang=eng#28).)
+4:29](/scriptures/nt/john/4.29?lang=eng#28).)
 
 He gave of himself to the outcasts of society. A despised leper worshiped the
 Lord and said, "Lord, if thou wilt, thou canst make me clean." The scripture
 records--note it well--that "Jesus put forth his hand, and touched him,
 saying, I will; be thou clean. And immediately his leprosy was cleansed."
-([Matt. 8:2-3](https://www.lds.org/scriptures/nt/matt/8.2-3?lang=eng#1).)
+([Matt. 8:2-3](/scriptures/nt/matt/8.2-3?lang=eng#1).)
 
 In one of his most dramatic miracles, Jesus still paid attention to
 individuals. As he prepared to raise Lazarus from the dead, he saw Mary
 weeping, and, the record states, "he groaned in the spirit, and was troubled."
 And then, "Jesus wept." ([John
-11:33-35](https://www.lds.org/scriptures/nt/john/11.33-35?lang=eng#32).) He
-used this occasion to express a divine testimony of his mission: "I am the
-resurrection, and the life: he that believeth in me, though he were dead, yet
-shall he live." ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24).)
+11:33-35](/scriptures/nt/john/11.33-35?lang=eng#32).) He used this occasion to
+express a divine testimony of his mission: "I am the resurrection, and the
+life: he that believeth in me, though he were dead, yet shall he live." ([John
+11:25](/scriptures/nt/john/11.25?lang=eng#24).)
 
 In his visit to the Nephites, the Savior gave this important admonition:
 "Therefore, what manner of men ought ye to be? Verily I say unto you, even as
-I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+I am." ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 It is my witness that we can be even as he is. We can demonstrate our love in
 ways that have eternal benefits both for ourselves and for those we serve.
@@ -196,4 +191,6 @@ active or nonmember neighbors, our departed kindred, or anyone who has need of
 love. I testify that great blessings will come to us as individuals, as a
 Church, and as a brotherhood of mankind when we learn to live outside
 ourselves in love, in the name of Jesus Christ, amen.
+
+## References
 

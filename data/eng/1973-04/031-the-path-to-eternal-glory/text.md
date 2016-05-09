@@ -24,7 +24,7 @@ while he may be found, call ye upon him while he is near:
 "Let the wicked forsake his way, and the unrighteous man his thoughts: and let
 him return unto the Lord, and he will have mercy upon him; and to our God, for
 he will abundantly pardon." ([Isa.
-55:6-7](https://www.lds.org/scriptures/ot/isa/55.6-7?lang=eng#5).)
+55:6-7](/scriptures/ot/isa/55.6-7?lang=eng#5).)
 
 This counsel is as important for us today as it was in those ancient times.
 Worsening, frustrating world problems, aggravated by a general departure from
@@ -53,7 +53,7 @@ proclaimed to the prophet Isaiah:
 
 "For as the heavens are higher than the earth, so are my ways higher than your
 ways, and my thoughts than your thoughts." ([Isa.
-55:8-9](https://www.lds.org/scriptures/ot/isa/55.8-9?lang=eng#7).)
+55:8-9](/scriptures/ot/isa/55.8-9?lang=eng#7).)
 
 By revelation the Savior has furnished the following formula to guide our path
 to eternal glory:
@@ -63,8 +63,7 @@ forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my
 voice, and keepeth my commandments, shall see my face and know that I am;
 
 "And that I am the true light that lighteth every man that cometh into the
-world." ([D&amp;C 93:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/93.1-2?lang=eng#0).)
+world." ([D&amp;C 93:1-2](/scriptures/dc-testament/dc/93.1-2?lang=eng#0).)
 
 The Church of Jesus Christ of Latter-day Saints teaches the complete way of
 life. Our whole life requires that we reach constantly for high ideals and
@@ -77,7 +76,7 @@ a man soweth, that shall he also reap.
 
 "For he that soweth to his flesh shall of the flesh reap corruption; but he
 that soweth to the Spirit shall of the Spirit reap life everlasting." ([Gal.
-6:7-8](https://www.lds.org/scriptures/nt/gal/6.7-8?lang=eng#6).)
+6:7-8](/scriptures/nt/gal/6.7-8?lang=eng#6).)
 
 Seek learning by faith and earnest prayer to know the mind and will of the
 Lord. Have the courage to obey. Remember, the Lord gives no commandment or law
@@ -94,8 +93,7 @@ scripture sustains this thought:
 
 "For if you will that I give unto you a place in the celestial world, you must
 prepare yourselves by doing the things which I have commanded you and required
-of you." ([D&amp;C 78:7](https://www.lds.org/scriptures/dc-
-testament/dc/78.7?lang=eng#6).)
+of you." ([D&amp;C 78:7](/scriptures/dc-testament/dc/78.7?lang=eng#6).)
 
 It is unfortunate that so many have to learn the lessons of life the hard way,
 but what a great blessing it is to have an Eternal Father who cares enough to
@@ -103,12 +101,12 @@ teach us, to bring us to repentance, and to forgive. Hear the words of
 encouragement as given to the prophet Ezekiel: "Have I any pleasure at all
 that the wicked should die? saith the Lord God: and not that he should return
 from his ways, and live?" ([Ezek.
-18:23](https://www.lds.org/scriptures/ot/ezek/18.23?lang=eng#22).)
+18:23](/scriptures/ot/ezek/18.23?lang=eng#22).)
 
 The Lord expressed to Moses great concern for the welfare of his children when
 he said: "... behold, this is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Immortality is assured to all of us through the atonement of our Lord and
 Savior, Jesus Christ. But eternal life is a personal responsibility we must
@@ -124,8 +122,7 @@ visitest him?
 with glory and honour.
 
 "Thou madest him to have dominion over the works of thy hands; thou hast put
-all things under his feet." ([Ps.
-8:4-6](https://www.lds.org/scriptures/ot/ps/8.4-6?lang=eng#3).)
+all things under his feet." ([Ps. 8:4-6](/scriptures/ot/ps/8.4-6?lang=eng#3).)
 
 Man's recent scientific and technological accomplishments, his desire and
 courage to explore the universe, and his attainment in so many fields of
@@ -137,15 +134,14 @@ unity of faith, understanding, and devotion. The apostle Paul so encouraged
 the Corinthian saints: "Now I beseech you, brethren, by the name of our Lord
 Jesus Christ, that ye all speak the same thing, and that there be no divisions
 among you; but that ye be perfectly joined together in the same mind and in
-the same judgment." ([1 Cor.
-1:10](https://www.lds.org/scriptures/nt/1-cor/1.10?lang=eng#9).)
+the same judgment." ([1 Cor. 1:10](/scriptures/nt/1-cor/1.10?lang=eng#9).)
 
 We are here to help each other progress, to inspire one another unto love and
 good works, and not just to sit in judgment. Our responsibility is to give
 encouragement to those who are inactive and erring. We have a duty to "see
 that there is no iniquity in the Church, neither hardness with each other,
-neither lying, backbiting, nor evil speaking." ([D&amp;C
-20:54](https://www.lds.org/scriptures/dc-testament/dc/20.54?lang=eng#53).)
+neither lying, backbiting, nor evil speaking." ([D&amp;C 20:54](/scriptures
+/dc-testament/dc/20.54?lang=eng#53).)
 
 This teaching was emphasized by the apostle Peter when he gave this advice:
 
@@ -154,17 +150,16 @@ be pitiful, be courteous:
 
 "Not rendering evil for evil, or railing for railing: but contrariwise
 blessing; knowing that ye are thereunto called, that ye should inherit a
-blessing." ([1 Pet.
-3:8-9](https://www.lds.org/scriptures/nt/1-pet/3.8-9?lang=eng#7).)
+blessing." ([1 Pet. 3:8-9](/scriptures/nt/1-pet/3.8-9?lang=eng#7).)
 
 The real strength of the Church is in the character and dedication of its
 members. The apostle Paul instructed the Corinthians: "Even so hath the Lord
 ordained that they which preach the gospel should live of the gospel." ([1
-Cor. 9:14](https://www.lds.org/scriptures/nt/1-cor/9.14?lang=eng#13).) This
-counsel can be applied to every member of The Church of Jesus Christ of
-Latter-day Saints--that by living the gospel and setting a good example we are
-automatically preaching its tenets and showing the right way for others to
-follow. The greatest gift we can give another is the gift of a good example.
+Cor. 9:14](/scriptures/nt/1-cor/9.14?lang=eng#13).) This counsel can be
+applied to every member of The Church of Jesus Christ of Latter-day Saints--
+that by living the gospel and setting a good example we are automatically
+preaching its tenets and showing the right way for others to follow. The
+greatest gift we can give another is the gift of a good example.
 
 President Spencer W. Kimball said: "Our challenge today is to be a light unto
 the world. ... if the three million members of the Church would live the gospel
@@ -177,16 +172,14 @@ gospel of Christ. Our eternal happiness and joy depends upon the kind of life
 we chart and live here in mortality. The apostle Paul taught: "Ye cannot drink
 the cup of the Lord, and the cup of devils: ye cannot be partakers of the
 Lord's table, and of the table of devils." ([1 Cor.
-10:21](https://www.lds.org/scriptures/nt/1-cor/10.21?lang=eng#20).) In other
-words, we cannot serve two masters, for either we will hate the one and love
-the other, or else we will hold to the one and despise the other. We cannot
-serve both God and mammon. (See [Matt.
-6:24](https://www.lds.org/scriptures/nt/matt/6.24?lang=eng#23).)
+10:21](/scriptures/nt/1-cor/10.21?lang=eng#20).) In other words, we cannot
+serve two masters, for either we will hate the one and love the other, or else
+we will hold to the one and despise the other. We cannot serve both God and
+mammon. (See [Matt. 6:24](/scriptures/nt/matt/6.24?lang=eng#23).)
 
 Anyone who thinks he can obtain eternal goals some other way than outlined in
 the gospel of Christ should remember the Savior classified such as a thief and
-robber. (See [John
-10:1](https://www.lds.org/scriptures/nt/john/10.1?lang=eng#0).) Christ gave
+robber. (See [John 10:1](/scriptures/nt/john/10.1?lang=eng#0).) Christ gave
 this parable to his disciples:
 
 "Again, the kingdom of heaven is like unto a merchant man, seeking goodly
@@ -194,15 +187,15 @@ pearls:
 
 "Who, when he had found one pearl of great price, went and sold all that he
 had, and bought it." ([Matt.
-13:45-46](https://www.lds.org/scriptures/nt/matt/13.45-46?lang=eng#44).)
+13:45-46](/scriptures/nt/matt/13.45-46?lang=eng#44).)
 
 Each of us has the responsibility to seek that goodly pearl, the kingdom of
 heaven, which is, according to the Savior's parable, the pearl of great price.
 Its attainment is worth every effort and sacrifice we make. To be saved in the
 kingdom of God is the greatest of all the gifts of God, for there is no gift
 greater than the gift of salvation, and he that hath eternal life, proclaims
-the Lord, is rich. (See [D&amp;C 6:13, 7](https://www.lds.org/scriptures/dc-
-testament/dc/6.13%2C7?lang=eng#12).)
+the Lord, is rich. (See [D&amp;C 6:13, 7](/scriptures/dc-
+testament/dc/6.13,7?lang=eng#12).)
 
 To those members who are not living the gospel, I challenge you to do so,
 obeying all gospel requirements and attending church regularly for a full
@@ -217,7 +210,7 @@ testimony and create in you a desire to love the Lord. You will manifest that
 love by keeping his laws and commandments and serving him. The Holy Spirit
 will testify to the truth of these teachings and you will know, as the apostle
 Paul knew, that the gospel of Jesus Christ is the power of God unto salvation.
-(See [Rom. 1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).)
+(See [Rom. 1:16](/scriptures/nt/rom/1.16?lang=eng#15).)
 
 It will also give you the perfect assurance that the Lord's way is the only
 way one can find the abundant life the Savior promised.
@@ -240,4 +233,6 @@ everywhere.
 May God bless and guide us aright; may we be blessed with the spiritual
 strength to close the door to all temptations of evil and walk uprightly
 before the Lord, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

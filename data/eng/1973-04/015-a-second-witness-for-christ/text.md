@@ -16,14 +16,13 @@ an account of the resurrection. The one, of course, is the Holy Bible. Who can
 help but gain peace and reassurance from the words of John which say, "Jesus
 said unto her, I am the resurrection, and the life: he that believeth in me,
 though he were dead, yet shall he live" ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24)), or the
-words of Mark describing the experience of those going to the tomb after the
-death of the Savior: "And entering into the sepulchre, they saw a young man
-sitting on the right side, clothed in a long white garment; and they were
-affrighted. And he saith unto them, Be not affrighted: Ye seek Jesus of
-Nazareth, which was crucified: he is risen; he is not here: behold the place
-where they laid him" ([Mark
-16:5-6](https://www.lds.org/scriptures/nt/mark/16.5-6?lang=eng#4)).
+11:25](/scriptures/nt/john/11.25?lang=eng#24)), or the words of Mark
+describing the experience of those going to the tomb after the death of the
+Savior: "And entering into the sepulchre, they saw a young man sitting on the
+right side, clothed in a long white garment; and they were affrighted. And he
+saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was
+crucified: he is risen; he is not here: behold the place where they laid him"
+([Mark 16:5-6](/scriptures/nt/mark/16.5-6?lang=eng#4)).
 
 Following these experiences in the land of the Bible, another people in a far-
 off land, a remnant of the house of Israel who also had prophets and kept
@@ -47,7 +46,7 @@ world.
 that bitter cup which the Father hath given me, and have glorified the Father
 in taking upon me the sins of the world, in the which I have suffered the will
 of the Father in all things from the beginning." ([3 Ne.
-11:8-11](https://www.lds.org/scriptures/bofm/3-ne/11.8-11?lang=eng#7).)
+11:8-11](/scriptures/bofm/3-ne/11.8-11?lang=eng#7).)
 
 A second evidence then is recorded to verify what was mentioned in the Holy
 Bible concerning the resurrection of the Savior. This second witness for
@@ -112,7 +111,7 @@ save the world from sin.
 receive, for of such is the kingdom of God. Behold, for such I have laid down
 my life, and have taken it up again; therefore repent, and come unto me ye
 ends of the earth, and be saved." ([3 Ne. 9:15,
-21-22](https://www.lds.org/scriptures/bofm/3-ne/9.15%2C21-22?lang=eng#14).)
+21-22](/scriptures/bofm/3-ne/9.15,21-22?lang=eng#14).)
 
 A second message of the Book of Mormon is to teach mankind the plan of
 salvation in its pure and basic form so that we might know what the Lord
@@ -125,7 +124,7 @@ to repent and believe in me.
 
 "And whoso believeth in me, and is baptized, the same shall be saved; and they
 are they who shall inherit the kingdom of God." ([3 Ne.
-11:32-33](https://www.lds.org/scriptures/bofm/3-ne/11.32-33?lang=eng#31).)
+11:32-33](/scriptures/bofm/3-ne/11.32-33?lang=eng#31).)
 
 At the same time the Savior spoke these words, he also commissioned certain
 disciples with specific authority to perform the baptism just spoken of. He
@@ -138,7 +137,7 @@ divinely inspired to bring forth this work. In the revelation concerning the
 coming forth of the Book of Mormon the Lord referred to Joseph Smith in the
 following way: "... he has translated the book, even that part which I have
 commanded him, and as your Lord and your God liveth it is true." ([D&amp;C
-17:6](https://www.lds.org/scriptures/dc-testament/dc/17.6?lang=eng#5).)
+17:6](/scriptures/dc-testament/dc/17.6?lang=eng#5).)
 
 Joseph Smith once made the statement that the Book of Mormon was the keystone
 of this religion, that a person could get closer to God by following its
@@ -165,7 +164,7 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:3-5](https://www.lds.org/scriptures/bofm/moro/10.3-5?lang=eng#2).)
+([Moro. 10:3-5](/scriptures/bofm/moro/10.3-5?lang=eng#2).)
 
 This promise is made, then, to all who want to know, that if they will read
 these things and ponder them in their hearts and do it prayerfully, the truth
@@ -191,4 +190,6 @@ To this I bear my humble witness that I know God lives and that Jesus the
 Christ is his Son, and that this work is true, for the Lord God has revealed
 it to me. And if we are the children of God, then all men can and should have
 this experience, in the name of Jesus Christ. Amen.
+
+## References
 

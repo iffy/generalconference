@@ -61,7 +61,7 @@ told that all the churches were wrong--they had corrupted the doctrine, had
 changed the ordinances, and had lost the authority of the priesthood--and that
 he, unlearned but humble, was to be the instrument through whom the Almighty
 would reestablish his work. (See [JS--H
-1:15-20](https://www.lds.org/scriptures/pgp/js-h/1.15-20?lang=eng#14)).
+1:15-20](/scriptures/pgp/js-h/1.15-20?lang=eng#14)).
 
 The prevalent religious teachings of the world had reduced God, in the minds
 of people, to a fragile spirit, spread throughout the universe, nowhere yet
@@ -71,7 +71,7 @@ prophet came out of the grove, he had no doubts--he knew. He had looked upon
 the Father and the Son. They had visited him and instructed him. In the
 Prophet's own words: "I had seen a vision; I knew it, and I knew that God knew
 it, and I could not deny it" ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24)).
+1:25](/scriptures/pgp/js-h/1.25?lang=eng#24)).
 
 Joseph now knew God is in the form of a man. He has a voice, he speaks, he is
 kind, he answers prayers. His Son is like the Father--but a separate and
@@ -115,7 +115,7 @@ as commissioned by the Savior when he was on the earth. Once again man is
 ordained with power and authority to carry out His purposes. Uncertainty is
 removed, the Savior's church and work restored. The doctrine of the restored
 gospel is comprehensive and complete. It teaches that _"man was ... in the
-beginning with God" _([D&amp;C 93:29](https://www.lds.org/scriptures/dc-
+beginning with God" _([D&amp;C 93:29](/scriptures/dc-
 testament/dc/93.29?lang=eng#28); italics added). That is, man lived before he
 came to this earth. He is an eternal being. Joseph Smith gave to the world the
 true understanding of the origin of man, that man comes to earth with a divine
@@ -133,13 +133,12 @@ mankind will be resurrected from the grave and given the possibility of
 eternal life if obedient to gospel principles.
 
 We are taught further enlightenment on Jesus' statement "In my Father's house
-are many mansions" ([John
-14:2](https://www.lds.org/scriptures/nt/john/14.2?lang=eng#1)). We learn not
-only of the degrees of glory and those eligible, but that man should strive
-for the highest "heaven" which is available, and is reachable only through
-obedience to all of God's commandments. President George Albert Smith said:
-"One of the beautiful things to me in the Gospel of Jesus Christ is that it
-brings us all to a common level. It is not necessary for a man to be a
+are many mansions" ([John 14:2](/scriptures/nt/john/14.2?lang=eng#1)). We
+learn not only of the degrees of glory and those eligible, but that man should
+strive for the highest "heaven" which is available, and is reachable only
+through obedience to all of God's commandments. President George Albert Smith
+said: "One of the beautiful things to me in the Gospel of Jesus Christ is that
+it brings us all to a common level. It is not necessary for a man to be a
 president of a stake, or a member of the Quorum of the Twelve, in order to
 attain a high place in the celestial kingdom. The humblest member of the
 Church, if he keeps the commandments of God, will obtain an exaltation just as
@@ -156,7 +155,7 @@ gospel and accept it while on this earth will have the privilege in the spirit
 world. If they would have received it, given the opportunity, they will be
 heirs of the celestial kingdom. The Lord "will judge all men according to
 their works, according to the desire of their hearts" ([D&amp;C
-137:9](https://www.lds.org/scriptures/dc-testament/dc/137.9?lang=eng#8)).
+137:9](/scriptures/dc-testament/dc/137.9?lang=eng#8)).
 
 "Joseph Smith, the Prophet and Seer of the Lord," wrote President John Taylor,
 "has done more, save Jesus only, for the salvation of men in this world, than
@@ -171,7 +170,7 @@ many thousands of the Latter-day Saints, founded a great city, and left a fame
 and name that cannot be slain. He lived great, and he died great in the eyes
 of God and his people; and like most of the Lord's anointed in ancient times,
 has sealed his mission and his works with his own blood" ([D&amp;C
-135:3](https://www.lds.org/scriptures/dc-testament/dc/135.3?lang=eng#2)).
+135:3](/scriptures/dc-testament/dc/135.3?lang=eng#2)).
 
 While the Saints were still mourning their loss, William W. Phelps, a loyal
 associate, expressed their feelings when he wrote:
@@ -195,7 +194,7 @@ _Crowned in the midst of the prophets of old._
 Now, the final restoration has taken place, I testify to all of you--the
 restoration of all things "which God hath spoken by the mouth of all his holy
 prophets since the world began" has been accomplished ([Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18)).
+3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18)).
 
 The gifts of the Spirit, signs that the gospel has been restored, are with the
 true Saints.
@@ -204,8 +203,8 @@ The gift of the Holy Ghost, through whose power and influence men learn the
 truth and knowledge of the plan of salvation, is available.
 
 Temples have been built where the Lord may come "and restore again that which
-was lost ... even the fulness of the priesthood" ([D&amp;C
-124:28](https://www.lds.org/scriptures/dc-testament/dc/124.28?lang=eng#27)).
+was lost ... even the fulness of the priesthood" ([D&amp;C 124:28](/scriptures
+/dc-testament/dc/124.28?lang=eng#27)).
 
 The Lord himself testified of the Prophet Joseph Smith as He gave a revelation
 to the Saints at Winter Quarters in January of 1847. He said, "Marvel not at
@@ -214,9 +213,10 @@ words that I have given ... to Joseph Smith, whom I did call upon by mine
 angels, ... and by mine own voice out of the heavens, to bring forth my work;
 
 "Which foundation he did lay, and was faithful; and I took him to myself"
-([D&amp;C 136:37-38](https://www.lds.org/scriptures/dc-
-testament/dc/136.37-38?lang=eng#36)).
+([D&amp;C 136:37-38](/scriptures/dc-testament/dc/136.37-38?lang=eng#36)).
 
 Joseph was the prophet of the Restoration. I testify to you of his divinity
 and of his greatness, in the name of Jesus Christ, amen.
+
+## References
 

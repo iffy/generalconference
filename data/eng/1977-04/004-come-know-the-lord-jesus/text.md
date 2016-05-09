@@ -145,7 +145,7 @@ and work the works of righteousness.
 Christ and his laws were revealed to all the holy prophets. As Peter said, "To
 him give all the prophets witness, that through his name whosoever believeth
 in him shall receive remission of sins." ([Acts
-10:43](https://www.lds.org/scriptures/nt/acts/10.43?lang=eng#42).)
+10:43](/scriptures/nt/acts/10.43?lang=eng#42).)
 
 He was the God of Abraham, Isaac, and Jacob, the God of Israel, the Holy One,
 the Lord Omnipotent. He was the promised Messiah, the Savior and Redeemer, the
@@ -176,7 +176,7 @@ has redeemed us from death, hell, the devil, and endless torment.
 After his resurrection he ascended up on high to sit on the right hand of the
 Father. He has appeared in our day, with his Father, who said: _"This is My
 Beloved Son. Hear Him!" _([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 He has appeared many other times to converse with his earthly friends; and in
 the not distant future he will come again, with ten thousand of his angels, in
@@ -193,7 +193,7 @@ it is by grace that we are saved, after all we can do." As one of our fellow
 laborers of old said: "We talk of Christ, we rejoice in Christ, we preach of
 Christ, we prophesy of Christ," so that all men "may know to what source they
 may look for a remission of their sins." ([2 Ne. 25:23,
-26](https://www.lds.org/scriptures/bofm/2-ne/25.23%2C26?lang=eng#22).)
+26](/scriptures/bofm/2-ne/25.23,26?lang=eng#22).)
 
 And so now, in keeping with our established practice and pursuant to the
 divine obligation laid upon us, I bear personal testimony of the divine
@@ -201,4 +201,6 @@ Sonship of him who has saved us by his blood. He is truly God's Almighty Son
 in whom we shall rejoice both now and forever.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

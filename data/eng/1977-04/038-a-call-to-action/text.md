@@ -7,7 +7,7 @@ us in the April 1976 welfare session of general conference of the words of the
 Lord:
 
 "Why call ye me, Lord, Lord, and do not the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).)
+6:46](/scriptures/nt/luke/6.46?lang=eng#45).)
 
 On February 2 of this year, at a historic meeting of the General Welfare
 Services Committee of the Church, President Marion G. Romney stated:
@@ -50,23 +50,15 @@ teach so that ward and branch presidencies will more fully understand and
 carry out their welfare duties efficiently and effectively. Specifically, they
 should teach how a ward Relief Society president--
 
-  1. _Assists_ the bishop in determining and matching needs and resources.
-
-  2. _Makes visits_ to the family and follows up as assigned by the bishop.
-
-  3. _Directs_ the use of Relief Society resources in providing compassionate services.
-
-  4. _Instructs_ visiting teachers in ways they can assist.
-
-  5. _Keeps strictly confidential_ all matters relating to each case and encourages others to do likewise.
-
-  6. _Becomes familiar_ with bishops storehouse items or items which must be purchased commercially and counsels with the woman in the home as to what to buy and how to use her resources.
-
-  7. _Becomes familiar_ with acceptable community resources and makes effective use of them.
-
-  8. _Consults_ with her counselors on their welfare duties.
-
-  9. _Correlates,_ under the direction of the bishop, all welfare activities assigned to the Relief Society.
+  1. _Assists_ the bishop in determining and matching needs and resources. 
+  2. _Makes visits_ to the family and follows up as assigned by the bishop. 
+  3. _Directs_ the use of Relief Society resources in providing compassionate services. 
+  4. _Instructs_ visiting teachers in ways they can assist. 
+  5. _Keeps strictly confidential_ all matters relating to each case and encourages others to do likewise. 
+  6. _Becomes familiar_ with bishops storehouse items or items which must be purchased commercially and counsels with the woman in the home as to what to buy and how to use her resources. 
+  7. _Becomes familiar_ with acceptable community resources and makes effective use of them. 
+  8. _Consults_ with her counselors on their welfare duties. 
+  9. _Correlates,_ under the direction of the bishop, all welfare activities assigned to the Relief Society. 
 
 As Relief Society presidents perform these functions they will be fulfilling a
 primary purpose of the Relief Society as laid down by the Prophet Joseph Smith
@@ -151,8 +143,9 @@ sympathetically, appropriately, and lovingly--even in the spirit of Jesus
 Christ when he said:
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:35](https://www.lds.org/scriptures/nt/john/13.35?lang=eng#34).)
+another." ([John 13:35](/scriptures/nt/john/13.35?lang=eng#34).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

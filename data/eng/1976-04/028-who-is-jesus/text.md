@@ -6,33 +6,31 @@ When he was praying to the Father, just prior to his crucifixion, he said:
 
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 In that council in heaven, the plan and purpose of this earth life was
 explained to all the spirits, and then "the Lord said: Whom shall I send? And
 one answered like unto the Son of Man: Here am I, send me. And another
 answered and said: Here am I, send me. And the Lord said: I will send the
-first." ([Abr.
-3:27](https://www.lds.org/scriptures/pgp/abr/3.27?lang=eng#26).)
+first." ([Abr. 3:27](/scriptures/pgp/abr/3.27?lang=eng#26).)
 
 He who was selected was Jehovah, the oldest, who had promised that in going he
 would honor the Father and give him all the glory.
 
 The Father has declared: "This is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Jehovah was, then, under the direction of the Father, the creator of this
 earth and many other worlds. Moses was shown in vision "many lands; and each
 land was called earth, and there were inhabitants on the face thereof."
-([Moses 1:29](https://www.lds.org/scriptures/pgp/moses/1.29?lang=eng#28).) God
-declared to Moses; "By the word of my power, have I created them, which is
-mine Only Begotten Son, who is full of grace and truth.
+([Moses 1:29](/scriptures/pgp/moses/1.29?lang=eng#28).) God declared to Moses;
+"By the word of my power, have I created them, which is mine Only Begotten
+Son, who is full of grace and truth.
 
 "And worlds without number have I created; and I also created them for mine
 own purpose; and by the Son I created them, which is mine Only Begotten."
-([Moses
-1:32-33](https://www.lds.org/scriptures/pgp/moses/1.32-33?lang=eng#31).)
+([Moses 1:32-33](/scriptures/pgp/moses/1.32-33?lang=eng#31).)
 
 To get some idea of the magnitude of these creations: President J. Reuben
 Clark, Jr., said, "Astronomers now yield what they did not formerly yield,
@@ -60,13 +58,12 @@ He declared who he was. Throughout his life on earth, he repeatedly declared
 that he was the Son of God. At the age of twelve, he was found "in the temple"
 conversing with the "doctors." In answer to his mother's reproof, he said,
 "Wist ye not that I must be about my Father's business?" ([Luke
-2:49](https://www.lds.org/scriptures/nt/luke/2.49?lang=eng#48).)
+2:49](/scriptures/nt/luke/2.49?lang=eng#48).)
 
 At the baptism of Jesus by John, as also at the transfiguration of Jesus, a
 voice from heaven declared, "This is my beloved Son, in whom I am well
-pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16), [Matt.
-17:5](https://www.lds.org/scriptures/nt/matt/17.5?lang=eng#4).)
+pleased." ([Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16), [Matt.
+17:5](/scriptures/nt/matt/17.5?lang=eng#4).)
 
 When Jesus was about to raise Lazarus from the dead, "Martha saith unto him, I
 know that he shall rise again in the resurrection at the last day.
@@ -79,7 +76,7 @@ this?
 
 "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of
 God, which should come into the world." ([John
-11:24-27](https://www.lds.org/scriptures/nt/john/11.24-27?lang=eng#23).)
+11:24-27](/scriptures/nt/john/11.24-27?lang=eng#23).)
 
 On another occasion, when Jesus stopped at Jacob's well, he asked a Samaritan
 woman to draw water for him, and, in the conversation that followed, the
@@ -87,7 +84,7 @@ Samaritan woman said to Jesus, "I know that Messias cometh, which is called
 Christ: when he is come, he will tell us all things.
 
 "Jesus saith unto her, I that speak unto thee am he." ([John
-4:25-26](https://www.lds.org/scriptures/nt/john/4.25-26?lang=eng#24).)
+4:25-26](/scriptures/nt/john/4.25-26?lang=eng#24).)
 
 Then again:
 
@@ -104,8 +101,7 @@ God.
 
 "And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for
 flesh and blood hath not revealed it unto thee, but my Father which is in
-heaven." ([Matt.
-16:13-17](https://www.lds.org/scriptures/nt/matt/16.13-17?lang=eng#12).)
+heaven." ([Matt. 16:13-17](/scriptures/nt/matt/16.13-17?lang=eng#12).)
 
 On numerous occasions, he declared that he was the Christ, the Son of God.
 
@@ -119,21 +115,21 @@ wine at the wedding feast to change the water to wine.
 Nor was it a trick of the imagination when he fed five thousand plus the women
 and children with a few loaves and fishes, and on another occasion, four
 thousand plus the women and children. (See [Matt.
-14:16-21](https://www.lds.org/scriptures/nt/matt/14.16-21?lang=eng#15), [Matt.
-15:32-38](https://www.lds.org/scriptures/nt/matt/15.32-38?lang=eng#31).)
+14:16-21](/scriptures/nt/matt/14.16-21?lang=eng#15), [Matt.
+15:32-38](/scriptures/nt/matt/15.32-38?lang=eng#31).)
 
 He also showed his power over the elements when at his command to "be still,"
 the stormy sea was calmed. ([Mark
-4:39](https://www.lds.org/scriptures/nt/mark/4.39?lang=eng#38).)
+4:39](/scriptures/nt/mark/4.39?lang=eng#38).)
 
 He demonstrated his power over the _animal_ kingdom; on two separate
 occasions, at his command, a great catch of fish was made when they had had no
 success before. (See [Matt.
-14:16-21](https://www.lds.org/scriptures/nt/matt/14.16-21?lang=eng#15), [Matt.
-15:32-38](https://www.lds.org/scriptures/nt/matt/15.32-38?lang=eng#31).)
+14:16-21](/scriptures/nt/matt/14.16-21?lang=eng#15), [Matt.
+15:32-38](/scriptures/nt/matt/15.32-38?lang=eng#31).)
 
 He showed his power over the _vegetable_ kingdom when he cursed the fig tree.
-(See [Matt. 21:19](https://www.lds.org/scriptures/nt/matt/21.19?lang=eng#18).)
+(See [Matt. 21:19](/scriptures/nt/matt/21.19?lang=eng#18).)
 
 On each occasion, he was declared to be the Christ, the literal Son of God.
 
@@ -143,9 +139,9 @@ to walk. Yes, he even controlled life itself, for he restored Lazarus to life,
 who had been declared dead for four days. There were others, too.
 
 Yes, "the earth is the Lord's, and the fulness thereof." ([1 Cor.
-10:26](https://www.lds.org/scriptures/nt/1-cor/10.26?lang=eng#25).) He had
-dominion over all the kingdoms of the earth--in the earth, on the earth, and
-in the heaven above the earth.
+10:26](/scriptures/nt/1-cor/10.26?lang=eng#25).) He had dominion over all the
+kingdoms of the earth--in the earth, on the earth, and in the heaven above the
+earth.
 
 _All_ he did was for others--his was a life of service. There was not one
 selfish act.
@@ -156,7 +152,7 @@ do.
 
 "And now, O Father, glorify thou me with thine own self with the glory which I
 had with thee before the world was." ([John
-17:4-5](https://www.lds.org/scriptures/nt/john/17.4-5?lang=eng#3).)
+17:4-5](/scriptures/nt/john/17.4-5?lang=eng#3).)
 
 He took upon himself the sins of all who shall repent, and gave his life that
 all might live. He brought about the resurrection for all. Do you realize that
@@ -183,7 +179,7 @@ spirit--and would that I might not drink the bitter cup, and shrink--
 preparations unto the children of men.
 
 "Wherefore, I _command_ you _again_ to _repent,_ lest I humble you with my
-almighty power." ([D&amp;C 19:15-20](https://www.lds.org/scriptures/dc-
+almighty power." ([D&amp;C 19:15-20](/scriptures/dc-
 testament/dc/19.15-20?lang=eng#14); italics added.)
 
 Do you so think of him when partaking of the sacrament, and covenant to keep
@@ -204,11 +200,12 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 I testify that God lives and that Jesus is the Christ, the Son of God, and
 that it was under his direction that the gospel of Jesus Christ has been
 restored in this dispensation for the last time. I so testify to these truths
 in the name of Jesus Christ. Amen.
+
+## References
 

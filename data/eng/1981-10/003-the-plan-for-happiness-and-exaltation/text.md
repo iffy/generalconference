@@ -10,25 +10,24 @@ behave like robots.
 
 How different is the plan of the Lord. Consider the birth of an infant--an
 independent spirit created by God (see [Moses
-6:36](https://www.lds.org/scriptures/pgp/moses/6.36?lang=eng#35)) and matured
-in the premortal existence, tabernacled in a body of flesh and bones. A mother
-and father participate with God in this sacred experience. These parents love,
-guide, and inspire the growing child. With proper understanding of and
-obedience to the teachings of the Savior, the child learns "precept upon
-precept" (see [D&amp;C 98:12](https://www.lds.org/scriptures/dc-
-testament/dc/98.12?lang=eng#11)), and by practice of truth, is converted into
-a self-reliant, loving, serving son or daughter of God, whose potential for
-growth and accomplishment is limitless; whose destiny, if he is fully
-obedient, is to return to the presence of God to partake of his glory and to
-share in his exalted work. Such an individual can have great happiness in this
-life as well.
+6:36](/scriptures/pgp/moses/6.36?lang=eng#35)) and matured in the premortal
+existence, tabernacled in a body of flesh and bones. A mother and father
+participate with God in this sacred experience. These parents love, guide, and
+inspire the growing child. With proper understanding of and obedience to the
+teachings of the Savior, the child learns "precept upon precept" (see [D&amp;C
+98:12](/scriptures/dc-testament/dc/98.12?lang=eng#11)), and by practice of
+truth, is converted into a self-reliant, loving, serving son or daughter of
+God, whose potential for growth and accomplishment is limitless; whose
+destiny, if he is fully obedient, is to return to the presence of God to
+partake of his glory and to share in his exalted work. Such an individual can
+have great happiness in this life as well.
 
 Mortal life is a proving ground. God said, "We will make an earth whereon
 these may dwell;
 
 "And we will prove them herewith, to see if they will do all things whatsoever
 the Lord their God shall command them." (see [Abr.
-3:24-26](https://www.lds.org/scriptures/pgp/abr/3.24-26?lang=eng#23).)
+3:24-26](/scriptures/pgp/abr/3.24-26?lang=eng#23).)
 
 Our proving grounds vary. Some of us are born with physical limitations;
 others are lonely or do not enjoy good health. Some are challenged by economic
@@ -74,7 +73,7 @@ whosoever believeth in him should not perish, but have everlasting life.
 
 "For God sent not his Son into the world to condemn the world; but that the
 world through him might be saved." ([John
-3:16-17](https://www.lds.org/scriptures/nt/john/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/john/3.16-17?lang=eng#15).)
 
 Our happiness on earth, as well as our eternal salvation, requires many
 correct decisions, no one of which is difficult to make. Together they forge a
@@ -92,13 +91,12 @@ Humility is the precious, fertile soil of righteous character. It germinates
 the seeds of personal growth. When cultivated through the exercise of faith,
 pruned by repentance, and fortified by obedience and good works, such seeds
 produce the cherished fruit of spirituality. (See [Alma
-26:22](https://www.lds.org/scriptures/bofm/alma/26.22?lang=eng#21).) Divine
-inspiration and power then result. Inspiration is to know the will of the
-Lord. Power is the capability to accomplish that inspired will. (See [D&amp;C
-43:15-16](https://www.lds.org/scriptures/dc-
-testament/dc/43.15-16?lang=eng#14).) Such power comes from God after we have
-done "all we can do." ([2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22).)
+26:22](/scriptures/bofm/alma/26.22?lang=eng#21).) Divine inspiration and power
+then result. Inspiration is to know the will of the Lord. Power is the
+capability to accomplish that inspired will. (See [D&amp;C
+43:15-16](/scriptures/dc-testament/dc/43.15-16?lang=eng#14).) Such power comes
+from God after we have done "all we can do." ([2 Ne.
+25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22).)
 
 May I share these introspective thoughts of an individual that found the path
 to happiness: "I am truly, deeply loved of the Lord. He will do all that I
@@ -123,4 +121,6 @@ fulness of an understanding of the plan of happiness and exaltation provided
 by the Savior. I testify that this fulness is found in The Church of Jesus
 Christ of Latter-day Saints. I love you and ask you to seek that fulness, in
 the name of Jesus Christ, amen.
+
+## References
 

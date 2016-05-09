@@ -4,8 +4,7 @@ And any man that shall go and preach this gospel of the kingdom, and fail not
 to continue faithful in all things, shall not be weary in mind, neither
 darkened, neither in body, limb, nor joint; and a hair of his head shall not
 fall to the ground unnoticed. And they shall not go hungry, neither athirst."
-([D&amp;C 84:80](https://www.lds.org/scriptures/dc-
-testament/dc/84.80?lang=eng#79).)
+([D&amp;C 84:80](/scriptures/dc-testament/dc/84.80?lang=eng#79).)
 
 For the past two years our family has served a mission in Texas. It has been
 glorious and fulfilling beyond all expectations. When we first arrived, Sister
@@ -168,7 +167,7 @@ mission, I would not spend one day in the hospital during the two years no
 matter how sick I was or how much I suffered."
 
 What are the blessings of a mission? "Can ye tell?" ([Alma
-26:2](https://www.lds.org/scriptures/bofm/alma/26.2?lang=eng#1)).
+26:2](/scriptures/bofm/alma/26.2?lang=eng#1)).
 
 Maybe Brother and Sister William Keith Clark can. "Dear President
 Featherstone," they wrote, "we were happy to receive your letter. I'm sure we
@@ -191,8 +190,7 @@ of hearing about the restoration of the gospel of Jesus Christ. Those who
 respond to the call to be a missionary shall "not be weary in mind, neither
 darkened, neither in body, limb, nor joint; and a hair of [their] head[s]
 shall not fall to the ground unnoticed. And they shall not go hungry, neither
-athirst." ([D&amp;C 84:80](https://www.lds.org/scriptures/dc-
-testament/dc/84.80?lang=eng#79).)
+athirst." ([D&amp;C 84:80](/scriptures/dc-testament/dc/84.80?lang=eng#79).)
 
 We must seek out every soul and do it with the pure love of Christ.
 
@@ -208,4 +206,6 @@ Great Jehovah shall say the work is done" (_History of the Church,_ 4:540).
 God bless that _all_--all--who may be able to serve will make themselves
 available for a mission call. The blessings are sure, I know, in the name of
 Jesus Christ. Amen.
+
+## References
 

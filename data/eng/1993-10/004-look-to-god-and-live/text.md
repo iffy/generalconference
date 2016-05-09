@@ -14,7 +14,7 @@ nations and large, we see individuals and families facing heightened anxiety
 and fear. It would seem that discouragement, depression, and despair are our
 contemporary "Black Plague." Ours is, as Jesus said it would be, a time of
 distress with perplexity (see [Luke
-21:25](https://www.lds.org/scriptures/nt/luke/21.25?lang=eng#24)).
+21:25](/scriptures/nt/luke/21.25?lang=eng#24)).
 
 We know that some of the world's most painful suffering is done in silence, in
 the sorrow of a lonely life. But some of it has more violent expression.
@@ -53,11 +53,10 @@ should we: "Angels and ministers of grace defend us!" (act 1, scene 4, line
 My testimony today is of the angels and ministers of grace who will always
 defend us if, as the prophet Alma commanded us, we "take care of ... sacred
 things," we "look to God and live" ([Alma
-37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46)). More
-prayer and humility, more faith and forgiveness, more repentance and
-revelation and reinforcement from heaven--these are where we seek remedy and
-deliverance for "feverish and delirious humanity" (_The Character of Jesus,_
-p. 17).
+37:47](/scriptures/bofm/alma/37.47?lang=eng#46)). More prayer and humility,
+more faith and forgiveness, more repentance and revelation and reinforcement
+from heaven--these are where we seek remedy and deliverance for "feverish and
+delirious humanity" (_The Character of Jesus,_ p. 17).
 
 I testify this morning of God's limitless love for his children, of his
 unquenchable desire to help us heal our wounds, individually and collectively.
@@ -70,11 +69,10 @@ uncaring, or capricious, or cantankerous. Above all, he is not some sort of
 divine referee trying to tag us off third base.
 
 The first and great commandment on earth is for us to love God with all our
-heart, might, mind, and strength (see [D&amp;C
-59:5](https://www.lds.org/scriptures/dc-testament/dc/59.5?lang=eng#4); [Matt.
-22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36)) because
-surely the first and great promise in heaven is that he will always love us
-that way.
+heart, might, mind, and strength (see [D&amp;C 59:5](/scriptures/dc-
+testament/dc/59.5?lang=eng#4); [Matt.
+22:37](/scriptures/nt/matt/22.37?lang=eng#36)) because surely the first and
+great promise in heaven is that he will always love us that way.
 
 So much of what so many think about God (if they think about him at all) must
 make him weep. In fact, we know it makes him weep. Could there be a more
@@ -95,8 +93,8 @@ another, and that they should choose me, their Father; but behold, they are
 without affection, and they hate their own blood; ...
 
 "The whole heavens ... weep over them ... ; wherefore should not the heavens weep,
-seeing these [who] suffer?" ([Moses 7:28, 29, 32-33, 37](https://www.lds.org/s
-criptures/pgp/moses/7.28%2C29%2C32-33%2C37?lang=eng#27)).
+seeing these [who] suffer?" ([Moses 7:28, 29, 32-33,
+37](/scriptures/pgp/moses/7.28,29,32-33,37?lang=eng#27)).
 
 Angels and ministers of grace to defend us? They are all about us, and their
 holy sovereign, the Father of us all, is divinely anxious to bless us this
@@ -113,8 +111,8 @@ God. He said that God was "quick to hear the cries of his people, and [quick]
 to answer their prayers." Out of very personal experience, Alma testified, "I
 have been supported [in] trials and troubles [and afflictions] of every kind,
 ... God has delivered me. ... I do put my trust in him, and he will still deliver
-me" ([Alma 9:26](https://www.lds.org/scriptures/bofm/alma/9.26?lang=eng#25);
-[Alma 36:27](https://www.lds.org/scriptures/bofm/alma/36.27?lang=eng#26)).
+me" ([Alma 9:26](/scriptures/bofm/alma/9.26?lang=eng#25); [Alma
+36:27](/scriptures/bofm/alma/36.27?lang=eng#26)).
 
 My witness this morning is that he will deliver all the rest of us, too, that
 he will deliver the entire human family, if we will but "take care of sacred
@@ -125,8 +123,7 @@ of God's perfect and precious Firstborn Son, a gift given not in condemnation
 of the world, but to soothe and save and make the world secure: "For God so
 loved the world, that he gave his only begotten Son, that whosoever believeth
 in him should _not_ perish, but have everlasting life" ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15); emphasis
-added).
+3:16](/scriptures/nt/john/3.16?lang=eng#15); emphasis added).
 
 Katie Lewis is my neighbor. Her father, Randy, is my bishop; her mother,
 Melanie, is a saint. And her older brother, Jimmie, is battling leukemia.
@@ -180,4 +177,6 @@ _And trust in his redeeming blood,_
 _And try his works to do._
 
 In the name of Jesus Christ, amen.
+
+## References
 

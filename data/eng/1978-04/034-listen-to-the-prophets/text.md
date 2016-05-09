@@ -38,16 +38,16 @@ feeling that these men pulled any punches or that their counsel went unheeded.
 Various excuses have been used over the centuries to dismiss these divine
 messengers. There has been denial because the prophet came from an obscure
 place. "Can there any good thing come out of Nazareth?" ([John
-1:46](https://www.lds.org/scriptures/nt/john/1.46?lang=eng#45).) Jesus was
-also met with the question, "Is not this the carpenter's son?" ([Matt.
-13:55](https://www.lds.org/scriptures/nt/matt/13.55?lang=eng#54).) By one
-means or another, the swiftest method of rejection of the holy prophets has
-been to find a pretext, however false or absurd, to dismiss the man so that
-his message could also be dismissed. Prophets who were not glib, but slow of
-speech, were esteemed as naught. Instead of responding to Paul's message, some
-saw his bodily presence as weak and regarded his speech as contemptible.
-Perhaps they judged Paul by the timbre of his voice or by his style of speech,
-not the truths uttered by him.
+1:46](/scriptures/nt/john/1.46?lang=eng#45).) Jesus was also met with the
+question, "Is not this the carpenter's son?" ([Matt.
+13:55](/scriptures/nt/matt/13.55?lang=eng#54).) By one means or another, the
+swiftest method of rejection of the holy prophets has been to find a pretext,
+however false or absurd, to dismiss the man so that his message could also be
+dismissed. Prophets who were not glib, but slow of speech, were esteemed as
+naught. Instead of responding to Paul's message, some saw his bodily presence
+as weak and regarded his speech as contemptible. Perhaps they judged Paul by
+the timbre of his voice or by his style of speech, not the truths uttered by
+him.
 
 We wonder how often hearers first rejected the prophets because they despised
 them, and finally despised the prophets even more because they had rejected
@@ -57,8 +57,8 @@ from following the truth because they care too much for the things of the
 world, such as the young man who had kept all the commandments from his youth
 up. He could not do the one last thing that Jesus asked: "Sell all that thou
 hast, and distribute unto the poor." ([Luke
-18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).) We read
-that he went away sorrowful for he had great possessions.
+18:22](/scriptures/nt/luke/18.22?lang=eng#21).) We read that he went away
+sorrowful for he had great possessions.
 
 Sometimes people let their hearts get so set upon things and the honors of
 this world that they cannot learn the lessons they most need to learn. Simple
@@ -80,12 +80,11 @@ because they first rejected the wrong ways of their own society.
 These excuses for rejection of the prophets are poor excuses. The trouble with
 using obscurity as a test of validity is that God has so often chosen to bring
 forth his work out of obscurity. He has even said it would be so. (See
-[D&amp;C 1:30](https://www.lds.org/scriptures/dc-
-testament/dc/1.30?lang=eng#29).) Christianity did not go from Rome to Galilee;
-it was the other way around. In our day the routing is from Palmyra to Paris,
-not the reverse. Just because something is in our midst does not mean that we
-have been in the midst of it. We can daily drive by a museum or an art gallery
-but know nothing of what is inside.
+[D&amp;C 1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29).) Christianity
+did not go from Rome to Galilee; it was the other way around. In our day the
+routing is from Palmyra to Paris, not the reverse. Just because something is
+in our midst does not mean that we have been in the midst of it. We can daily
+drive by a museum or an art gallery but know nothing of what is inside.
 
 The trouble with rejection because of personal familiarity with the prophets
 is that the prophets are always somebody's son or somebody's neighbor. They
@@ -97,14 +96,14 @@ presumptuousness of David for even being at the front where Goliath taunted
 the armies of Israel. Those who were so busy being indignant with David missed
 the purity in David's indignation at Goliath, for the giant was defying the
 armies of the living God. (See [1 Sam.
-17:28-32](https://www.lds.org/scriptures/ot/1-sam/17.28-32?lang=eng#27).)
+17:28-32](/scriptures/ot/1-sam/17.28-32?lang=eng#27).)
 
 David was a local boy and was ignored until he could no longer be ignored. The
 trouble with rejecting the prophets because they lack prestige is that Paul,
 who knew something of rejection, forewarned us when he said, speaking of the
 work of God, "For ye see your calling, brethren, how that not many wise men
 after the flesh, not many mighty, not many noble are called." ([1 Cor.
-1:26](https://www.lds.org/scriptures/nt/1-cor/1.26?lang=eng#25).)
+1:26](/scriptures/nt/1-cor/1.26?lang=eng#25).)
 
 In multiple scriptures the Lord has indicated that he will perform his work
 through those whom the world regards as weak and despised. Of course,
@@ -126,17 +125,16 @@ If we need a reminder of harsh realities and the dangers of duty which
 prophets face, Jonah gives us a glimpse in relation to his call to the
 exceeding great city of Nineveh, which took three days just to walk through,
 its size was so intimidating. (See [Jonah
-3:3](https://www.lds.org/scriptures/ot/jonah/3.3?lang=eng#2).) One cannot read
-about the prophet Ether, warning the city by day and hiding by night in a
-cave, without marveling at his capacity to go each day once again into that
-hostile city. (See [Ether
-13](https://www.lds.org/scriptures/bofm/ether/13.title?lang=eng).) We read of
-Enoch who was called when but a lad. He describes himself as a lad whom the
-people despised and who was slow of speech; yet he did his duty in love and
-compassion with stunning success. (See [Moses
-6](https://www.lds.org/scriptures/pgp/moses/6.title?lang=eng).) I marvel at
-the empathy of these men in all ages, because even prophets have no immunity
-from thorns in the flesh. They learn to cast all their cares upon the Lord.
+3:3](/scriptures/ot/jonah/3.3?lang=eng#2).) One cannot read about the prophet
+Ether, warning the city by day and hiding by night in a cave, without
+marveling at his capacity to go each day once again into that hostile city.
+(See [Ether 13](/scriptures/bofm/ether/13?lang=eng).) We read of Enoch who was
+called when but a lad. He describes himself as a lad whom the people despised
+and who was slow of speech; yet he did his duty in love and compassion with
+stunning success. (See [Moses 6](/scriptures/pgp/moses/6?lang=eng).) I marvel
+at the empathy of these men in all ages, because even prophets have no
+immunity from thorns in the flesh. They learn to cast all their cares upon the
+Lord.
 
 The testimonies of the holy prophets of God have been written in the
 scriptures but also have often been written in red because these individuals
@@ -204,8 +202,8 @@ drive out all of these. Then, finally, it reaches a point when, as one prophet
 declared, "There was no remedy." In such moments the prophets of God speak out
 even more forcibly, doing as Alma did when he began bearing down in pure
 testimony against the evils of his time. (See [Alma
-4:19](https://www.lds.org/scriptures/bofm/alma/4.19?lang=eng#18).) Nothing
-less will do under those conditions.
+4:19](/scriptures/bofm/alma/4.19?lang=eng#18).) Nothing less will do under
+those conditions.
 
 We read of sections of this land where abortions outnumber live births, of how
 illegitimate births outnumber legitimate, and we wonder how long the judgments
@@ -220,9 +218,8 @@ right which is at variance with the laws of God.
 
 We note the increasing coarseness of language and understand how Lot must have
 felt when he was, according to Peter, "vexed with the filthy conversation of
-the wicked." ([2 Pet.
-2:7](https://www.lds.org/scriptures/nt/2-pet/2.7?lang=eng#6).) We wonder why
-those of coarse and profane conversation, even if they refuse obedience to
+the wicked." ([2 Pet. 2:7](/scriptures/nt/2-pet/2.7?lang=eng#6).) We wonder
+why those of coarse and profane conversation, even if they refuse obedience to
 God's will, are so stunted mentally that they let their capacity to
 communicate grow more and more narrow. Language is like music; we rejoice in
 beauty, range, and quality in both, and we are demeaned by the repetition of a
@@ -252,4 +249,6 @@ home to which you return a real Latter-day Saint home with all the gospel in
 it. I bear testimony to the divinity also of this great work which is the
 greatest thing in the world, as was said by one of the Brethren. In the name
 of Jesus Christ, amen.
+
+## References
 

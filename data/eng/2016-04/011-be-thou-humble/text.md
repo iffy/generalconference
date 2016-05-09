@@ -144,3 +144,29 @@ worship through song, and I am grateful for humility. It is my prayer we will
 all strive for humility in our lives so we might become better parents, sons
 and daughters, and followers of the Savior. In the name of Jesus Christ, amen.
 
+## References
+
+  1. "First Presidency Preface,"_ Hymns of The Church of Jesus Christ of Latter-day Saints_ (1985), ix.
+
+  2. [Doctrine and Covenants 25:11](https://www.lds.org/scriptures/dc-testament/dc/25.11?lang=eng#10).
+
+  3. The title page of the first edition of the Latter-day Saint hymnal is dated 1835, but it was not completed and made available until early 1836.
+
+  4. Twenty-six of the hymns that appeared in the 1835 hymnal are included in our current hymnal (see Kathleen Lubeck, "[The New Hymnbook: The Saints Are Singing!](https://www.lds.org/ensign/1985/09/the-new-hymnbook-the-saints-are-singing?lang=eng)" _Ensign,_ Sept. 1985, 7).
+
+  5. "Be Thou Humble,"_ Hymns,_ no. 130.
+
+  6. See[ Matthew 18:1-4](https://www.lds.org/scriptures/nt/matt/18.1-4?lang=eng#0).
+
+  7. Howard W. Hunter, "[The Pharisee and the Publican](https://www.lds.org/general-conference/1984/04/the-pharisee-and-the-publican?lang=eng)," _Ensign,_ May 1984, 66.
+
+  8. Anthon H. Lund, in Conference Report, Apr. 1901, 22.
+
+  9. [Alma 32:16, 15](https://www.lds.org/scriptures/bofm/alma/32.15,16?lang=eng#14).
+
+  10. _The Teachings of Spencer W. Kimball, _ed. Edward L. Kimball (1982), 233.
+
+  11. "I Need Thee Every Hour," _Hymns,_ no. 98; see also Brent H. Nielson, "[I Need Thee Every Hour](https://www.lds.org/ensign/2011/04/i-need-thee-every-hour?lang=eng)," _Ensign, _Apr. 2011, 16.
+
+  12. Dallin H. Oaks, "[Worship through Music](https://www.lds.org/general-conference/1994/10/worship-through-music?lang=eng)," _Ensign, _Nov. 1994, 10.
+

@@ -1,486 +1,398 @@
 items:
-- article_id: '03102_000_003'
-  item: '000'
+- item: 1
   key: 000-hold-fast-to-the-iron-rod
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: hold-fast-to-the-iron-rod
   speaker: Spencer W. Kimball
-  title: "\u201CHold Fast to the Iron Rod\u201D"
+  title: '"Hold Fast to the Iron Rod"'
   url: https://www.lds.org/general-conference/1978/10/hold-fast-to-the-iron-rod?lang=eng
   year: 1978
-- article_id: '03102_000_004'
-  item: '001'
+- item: 2
   key: 001-the-relief-society
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-relief-society
   speaker: Boyd K. Packer
   title: The Relief Society
   url: https://www.lds.org/general-conference/1978/10/the-relief-society?lang=eng
   year: 1978
-- article_id: '03102_000_005'
-  item: '002'
+- item: 3
   key: 002-the-gift-of-love
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-gift-of-love
   speaker: Rex D. Pinegar
   title: The Gift of Love
   url: https://www.lds.org/general-conference/1978/10/the-gift-of-love?lang=eng
   year: 1978
-- article_id: '03102_000_006'
-  item: '003'
+- item: 4
   key: 003-true-religion
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: true-religion
   speaker: Howard W. Hunter
   title: True Religion
   url: https://www.lds.org/general-conference/1978/10/true-religion?lang=eng
   year: 1978
-- article_id: '03102_000_007'
-  item: '004'
+- item: 5
   key: 004-the-worth-of-souls
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-worth-of-souls
   speaker: Marion G. Romney
   title: The Worth of Souls
   url: https://www.lds.org/general-conference/1978/10/the-worth-of-souls?lang=eng
   year: 1978
-- article_id: 03102_000_008
-  item: '005'
+- item: 6
   key: 005-revelation-on-priesthood-accepted-church-officers-sustained
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: revelation-on-priesthood-accepted-church-officers-sustained
   speaker: N. Eldon Tanner
-  title: Revelation on Priesthood Accepted, Church Officers Sustained
+  title: Revelation on Priesthood Accepted,Church Officers Sustained
   url: https://www.lds.org/general-conference/1978/10/revelation-on-priesthood-accepted-church-officers-sustained?lang=eng
   year: 1978
-- article_id: 03102_000_009
-  item: '006'
+- item: 7
   key: 006-behold-your-little-ones
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: behold-your-little-ones
   speaker: Gordon B. Hinckley
-  title: "\u201CBehold Your Little Ones\u201D"
+  title: '"Behold Your Little Ones"'
   url: https://www.lds.org/general-conference/1978/10/behold-your-little-ones?lang=eng
   year: 1978
-- article_id: '03102_000_010'
-  item: '007'
+- item: 8
   key: 007-response-to-the-call
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: response-to-the-call
   speaker: James E. Faust
   title: Response to the Call
   url: https://www.lds.org/general-conference/1978/10/response-to-the-call?lang=eng
   year: 1978
-- article_id: '03102_000_011'
-  item: 008
+- item: 9
   key: 008-be-one-with-the-prophet
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: be-one-with-the-prophet
   speaker: F. Burton Howard
   title: Be One with the Prophet
   url: https://www.lds.org/general-conference/1978/10/be-one-with-the-prophet?lang=eng
   year: 1978
-- article_id: '03102_000_012'
-  item: 009
+- item: 10
   key: 009-the-gospel-makes-people-happy
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-gospel-makes-people-happy
-  speaker: Teddy E. Brewerton
+  speaker: Ted E. Brewerton
   title: The Gospel Makes People Happy
   url: https://www.lds.org/general-conference/1978/10/the-gospel-makes-people-happy?lang=eng
   year: 1978
-- article_id: '03102_000_013'
-  item: '010'
+- item: 11
   key: 010-never-be-weary-of-good-works
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: never-be-weary-of-good-works
-  speaker: H. Goaslind, Jr.
-  title: "\u201CNever Be Weary of Good Works\u201D"
+  speaker: Jack H Goaslind Jr.
+  title: '"Never Be Weary of Good Works"'
   url: https://www.lds.org/general-conference/1978/10/never-be-weary-of-good-works?lang=eng
   year: 1978
-- article_id: '03102_000_014'
-  item: '011'
+- item: 12
   key: 011-the-cs-of-spirituality
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-cs-of-spirituality
   speaker: Robert E. Wells
   title: The Cs of Spirituality
   url: https://www.lds.org/general-conference/1978/10/the-cs-of-spirituality?lang=eng
   year: 1978
-- article_id: '03102_000_015'
-  item: '012'
+- item: 13
   key: 012-what-are-the-blessings-of-a-mission-can-ye-tell
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: what-are-the-blessings-of-a-mission-can-ye-tell
   speaker: Vaughn J. Featherstone
-  title: "\u201CWhat Are the Blessings of a Mission? Can Ye Tell?\u201D"
+  title: '"What Are the Blessings of a Mission? Can Ye Tell?"'
   url: https://www.lds.org/general-conference/1978/10/what-are-the-blessings-of-a-mission-can-ye-tell?lang=eng
   year: 1978
-- article_id: '03102_000_016'
-  item: '013'
+- item: 14
   key: 013-ours-is-a-shared-ancestry
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: ours-is-a-shared-ancestry
   speaker: J. Thomas Fyans
   title: Ours Is a Shared Ancestry
   url: https://www.lds.org/general-conference/1978/10/ours-is-a-shared-ancestry?lang=eng
   year: 1978
-- article_id: '03102_000_017'
-  item: '014'
+- item: 15
   key: 014-worthy-of-all-acceptation
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: worthy-of-all-acceptation
   speaker: Ezra Taft Benson
   title: Worthy of All Acceptation
   url: https://www.lds.org/general-conference/1978/10/worthy-of-all-acceptation?lang=eng
   year: 1978
-- article_id: 03102_000_018
-  item: '015'
+- item: 16
   key: 015-the-joy-of-serving-a-mission
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-joy-of-serving-a-mission
-  speaker: Elder LeGrand Richards
+  speaker: LeGrand Richards
   title: The Joy of Serving a Mission
   url: https://www.lds.org/general-conference/1978/10/the-joy-of-serving-a-mission?lang=eng
   year: 1978
-- article_id: 03102_000_019
-  item: '016'
+- item: 17
   key: 016-faith-courage-and-making-choices
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: faith-courage-and-making-choices
   speaker: Dean L. Larsen
   title: Faith, Courage, and Making Choices
   url: https://www.lds.org/general-conference/1978/10/faith-courage-and-making-choices?lang=eng
   year: 1978
-- article_id: '03102_000_020'
-  item: '017'
+- item: 18
   key: 017-let-your-light-so-shine
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: let-your-light-so-shine
   speaker: Joseph B. Wirthlin
   title: Let Your Light So Shine
   url: https://www.lds.org/general-conference/1978/10/let-your-light-so-shine?lang=eng
   year: 1978
-- article_id: '03102_000_021'
-  item: 018
+- item: 19
   key: 018-a-disciple-of-christ
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: a-disciple-of-christ
   speaker: Marion G. Romney
   title: A Disciple of Christ
   url: https://www.lds.org/general-conference/1978/10/a-disciple-of-christ?lang=eng
   year: 1978
-- article_id: '03102_000_022'
-  item: 019
+- item: 20
   key: 019-the-blessing-of-church-interviews
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-blessing-of-church-interviews
   speaker: N. Eldon Tanner
   title: The Blessing of Church Interviews
   url: https://www.lds.org/general-conference/1978/10/the-blessing-of-church-interviews?lang=eng
   year: 1978
-- article_id: '03102_000_023'
-  item: '020'
+- item: 21
   key: 020-fundamental-principles-to-ponder-and-live
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: fundamental-principles-to-ponder-and-live
   speaker: Spencer W. Kimball
   title: Fundamental Principles to Ponder and Live
   url: https://www.lds.org/general-conference/1978/10/fundamental-principles-to-ponder-and-live?lang=eng
   year: 1978
-- article_id: '03102_000_024'
-  item: '021'
+- item: 22
   key: 021-a-basis-for-faith-in-the-living-god
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-basis-for-faith-in-the-living-god
   speaker: N. Eldon Tanner
   title: A Basis for Faith in the Living God
   url: https://www.lds.org/general-conference/1978/10/a-basis-for-faith-in-the-living-god?lang=eng
   year: 1978
-- article_id: '03102_000_025'
-  item: '022'
+- item: 23
   key: 022-who-will-forfeit-the-harvest
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: who-will-forfeit-the-harvest
   speaker: Marvin J. Ashton
   title: Who Will Forfeit the Harvest?
   url: https://www.lds.org/general-conference/1978/10/who-will-forfeit-the-harvest?lang=eng
   year: 1978
-- article_id: '03102_000_026'
-  item: '023'
+- item: 24
   key: 023-look-to-god-and-live
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: look-to-god-and-live
   speaker: Carlos E. Asay
-  title: "\u201CLook to God and Live\u201D"
+  title: '"Look to God and Live"'
   url: https://www.lds.org/general-conference/1978/10/look-to-god-and-live?lang=eng
   year: 1978
-- article_id: '03102_000_027'
-  item: '024'
+- item: 25
   key: 024-profiles-of-faith
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: profiles-of-faith
   speaker: Thomas S. Monson
   title: Profiles of Faith
   url: https://www.lds.org/general-conference/1978/10/profiles-of-faith?lang=eng
   year: 1978
-- article_id: 03102_000_028
-  item: '025'
+- item: 26
   key: 025-the-last-words-of-moroni
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-last-words-of-moroni
   speaker: Mark E. Petersen
   title: The Last Words of Moroni
   url: https://www.lds.org/general-conference/1978/10/the-last-words-of-moroni?lang=eng
   year: 1978
-- article_id: 03102_000_029
-  item: '026'
+- item: 27
   key: 026-thou-shalt-receive-revelation
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: thou-shalt-receive-revelation
   speaker: Bruce R. McConkie
-  title: "\u201CThou Shalt Receive Revelation\u201D"
+  title: '"Thou Shalt Receive Revelation"'
   url: https://www.lds.org/general-conference/1978/10/thou-shalt-receive-revelation?lang=eng
   year: 1978
-- article_id: '03102_000_030'
-  item: '027'
+- item: 28
   key: 027-come-home-felila
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: come-home-felila
   speaker: John H. Groberg
-  title: "\u201CCome Home, Felila\u201D"
+  title: '"Come Home, Felila"'
   url: https://www.lds.org/general-conference/1978/10/come-home-felila?lang=eng
   year: 1978
-- article_id: '03102_000_031'
-  item: 028
+- item: 29
   key: 028-he-hath-showed-thee-o-man-what-is-good
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: he-hath-showed-thee-o-man-what-is-good
   speaker: S. Dilworth Young
-  title: "\u201CHe Hath Showed Thee, O Man, What Is Good\u201D"
+  title: '"He Hath Showed Thee, O Man, What Is Good"'
   url: https://www.lds.org/general-conference/1978/10/he-hath-showed-thee-o-man-what-is-good?lang=eng
   year: 1978
-- article_id: '03102_000_032'
-  item: 029
+- item: 30
   key: 029-spiritual-development
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: spiritual-development
   speaker: M. Russell Ballard
   title: Spiritual Development
   url: https://www.lds.org/general-conference/1978/10/spiritual-development?lang=eng
   year: 1978
-- article_id: '03102_000_033'
-  item: '030'
+- item: 31
   key: 030-let-there-be-no-misunderstanding
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: let-there-be-no-misunderstanding
   speaker: Jacob de Jager
   title: Let There Be No Misunderstanding
   url: https://www.lds.org/general-conference/1978/10/let-there-be-no-misunderstanding?lang=eng
   year: 1978
-- article_id: '03102_000_034'
-  item: '031'
+- item: 32
   key: 031-home-teaching-a-sacred-calling
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: home-teaching-a-sacred-calling
   speaker: L. Tom Perry
   title: "Home Teaching\u2014A Sacred Calling"
   url: https://www.lds.org/general-conference/1978/10/home-teaching-a-sacred-calling?lang=eng
   year: 1978
-- article_id: '03102_000_035'
-  item: '032'
+- item: 33
   key: 032-an-eternal-hope-in-christ
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: an-eternal-hope-in-christ
   speaker: Spencer W. Kimball
   title: An Eternal Hope in Christ
   url: https://www.lds.org/general-conference/1978/10/an-eternal-hope-in-christ?lang=eng
   year: 1978
-- article_id: '03102_000_036'
-  item: '033'
+- item: 34
   key: 033-the-fruit-of-our-welfare-services-labors
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: the-fruit-of-our-welfare-services-labors
   speaker: Spencer W. Kimball
   title: The Fruit of Our Welfare Services Labors
   url: https://www.lds.org/general-conference/1978/10/the-fruit-of-our-welfare-services-labors?lang=eng
   year: 1978
-- article_id: 03102_000_038
-  item: '034'
+- item: 35
   key: 034-the-remarkable-example-of-the-bermejillo-mexico-branch
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: the-remarkable-example-of-the-bermejillo-mexico-branch
   speaker: Victor L. Brown
   title: The Remarkable Example of the Bermejillo, Mexico, Branch
   url: https://www.lds.org/general-conference/1978/10/the-remarkable-example-of-the-bermejillo-mexico-branch?lang=eng
   year: 1978
-- article_id: '03102_000_037'
-  item: '035'
+- item: 36
   key: 035-good-health-a-key-to-joyous-living
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: good-health-a-key-to-joyous-living
   speaker: Barbara B. Smith
   title: "Good Health\u2014A Key to Joyous Living"
   url: https://www.lds.org/general-conference/1978/10/good-health-a-key-to-joyous-living?lang=eng
   year: 1978
-- article_id: 03102_000_039
-  item: '036'
+- item: 37
   key: 036-successful-welfare-stewardship
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: successful-welfare-stewardship
   speaker: J. Richard Clarke
   title: Successful Welfare Stewardship
   url: https://www.lds.org/general-conference/1978/10/successful-welfare-stewardship?lang=eng
   year: 1978
-- article_id: '03102_000_040'
-  item: '037'
+- item: 38
   key: 037-attending-to-personal-and-family-preparedness
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: attending-to-personal-and-family-preparedness
   speaker: H. Burke Peterson
   title: Attending to Personal and Family Preparedness
   url: https://www.lds.org/general-conference/1978/10/attending-to-personal-and-family-preparedness?lang=eng
   year: 1978
-- article_id: '03102_000_041'
-  item: 038
+- item: 39
   key: 038-the-stake-presidents-role-in-welfare-services
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: the-stake-presidents-role-in-welfare-services
   speaker: David B. Haight
-  title: "The Stake President\u2019s Role in Welfare Services"
+  title: The Stake President's Role in Welfare Services
   url: https://www.lds.org/general-conference/1978/10/the-stake-presidents-role-in-welfare-services?lang=eng
   year: 1978
-- article_id: '03102_000_042'
-  item: 039
+- item: 40
   key: 039-caring-for-the-poor-a-covenantal-obligation
   month: 10
-  session_id: welfare
   session_title: Welfare session
   slug: caring-for-the-poor-a-covenantal-obligation
   speaker: Marion G. Romney
   title: "Caring for the Poor\u2014A Covenantal Obligation"
   url: https://www.lds.org/general-conference/1978/10/caring-for-the-poor-a-covenantal-obligation?lang=eng
   year: 1978
-- article_id: '03102_000_055'
-  item: '040'
+- item: 41
   key: 040-privileges-and-responsibilities-of-sisters
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: privileges-and-responsibilities-of-sisters
   speaker: Spencer W. Kimball
   title: Privileges and Responsibilities of Sisters
   url: https://www.lds.org/general-conference/1978/10/privileges-and-responsibilities-of-sisters?lang=eng
   year: 1978
-- article_id: '03102_000_056'
-  item: '041'
+- item: 42
   key: 041-come-listen-to-a-prophets-voice
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: come-listen-to-a-prophets-voice
   speaker: Ruth H. Funk
-  title: "\u201CCome, Listen to a Prophet\u2019s Voice\u201D"
+  title: '"Come, Listen to a Prophet''s Voice"'
   url: https://www.lds.org/general-conference/1978/10/come-listen-to-a-prophets-voice?lang=eng
   year: 1978
-- article_id: '03102_000_057'
-  item: '042'
+- item: 43
   key: 042-if-we-want-to-go-up-we-have-to-get-on
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: if-we-want-to-go-up-we-have-to-get-on
-  speaker: Sister Elaine Cannon
+  speaker: Elaine A. Cannon
   title: If We Want to Go Up, We Have to Get On
   url: https://www.lds.org/general-conference/1978/10/if-we-want-to-go-up-we-have-to-get-on?lang=eng
   year: 1978
-- article_id: 03102_000_058
-  item: '043'
+- item: 44
   key: 043-womens-greatest-challenge
   month: 10
-  session_id: womens
   session_title: General Women's Meeting
   slug: womens-greatest-challenge
   speaker: Barbara B. Smith
-  title: "Women\u2019s Greatest Challenge"
+  title: Women's Greatest Challenge
   url: https://www.lds.org/general-conference/1978/10/womens-greatest-challenge?lang=eng
   year: 1978
 month: 10

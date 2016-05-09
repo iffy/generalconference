@@ -13,7 +13,7 @@ Before God created woman, He knew that man should not be alone. Following the
 creation of Eve, the first woman, the Lord instituted the union of marriage,
 then instructed the first man, Adam, "Therefore shall a man leave his father
 and his mother, and shall cleave unto his wife: and they shall be one flesh"
-([Gen. 2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23)).
+([Gen. 2:24](/scriptures/ot/gen/2.24?lang=eng#23)).
 
 Adam learned that the bonds of marriage are stronger than any other family
 bond. The sacred bonds of marriage invite unity, fidelity, respect, and mutual
@@ -22,7 +22,7 @@ the time they were cast out of the garden, it is recorded "that Adam began to
 till the earth, and to have dominion over all the beasts of the field, and to
 eat his bread by the sweat of his brow, as I the Lord had commanded him. And
 Eve, also, his wife, did labor with him" ([Moses
-5:1](https://www.lds.org/scriptures/pgp/moses/5.1?lang=eng#0)).
+5:1](/scriptures/pgp/moses/5.1?lang=eng#0)).
 
 No single issue causes more concern among the leaders of churches and the
 leaders of nations than the alarming rate of breakup of marriages today.
@@ -204,4 +204,6 @@ Sister Hinckley, you are a wonderful example to all of us. May the Lord
 continue to bless you with good health and a long, long life. May each of us
 catch the enthusiastic spirit you have for the gospel of our Lord and Savior,
 I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

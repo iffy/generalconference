@@ -113,3 +113,5 @@ Elder Royden G. Derrick, whom you have just sustained as a member of the First
 Quorum of the Seventy, is abroad serving as president of the Ireland Dublin
 Mission.
 
+## References
+

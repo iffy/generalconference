@@ -18,7 +18,7 @@ the Lord their God shall command them;
 not their first estate shall not have glory in the same kingdom with those who
 keep their first estate; and they who keep their second estate shall have
 glory added upon their heads for ever and ever." ([Abr.
-3:25-26](https://www.lds.org/scriptures/pgp/abr/3.25-26?lang=eng#24).)
+3:25-26](/scriptures/pgp/abr/3.25-26?lang=eng#24).)
 
 "And I, God, created man in mine own image, in the image of mine Only Begotten
 created I him; male and female created I them.
@@ -26,8 +26,7 @@ created I him; male and female created I them.
 "And I, God, blessed them, and said unto them: Be fruitful, and multiply, and
 replenish the earth, and subdue it, and have dominion over the fish of the
 sea, and over the fowl of the air, and over every living thing that moveth
-upon the earth." ([Moses
-2:27-28](https://www.lds.org/scriptures/pgp/moses/2.27-28?lang=eng#26).)
+upon the earth." ([Moses 2:27-28](/scriptures/pgp/moses/2.27-28?lang=eng#26).)
 
 "And I, the Lord God, planted a garden eastward in Eden, and there I put the
 man whom I had formed ... to dress it, and to keep it.
@@ -38,7 +37,7 @@ freely eat,
 "But of the tree of the knowledge of good and evil, thou shalt not eat of it,
 nevertheless, thou mayest choose for thyself, for it is given unto thee; but,
 remember that I forbid it. ..." ([Moses 3:8,
-15-17](https://www.lds.org/scriptures/pgp/moses/3.8%2C15-17?lang=eng#7).)
+15-17](/scriptures/pgp/moses/3.8,15-17?lang=eng#7).)
 
 It is evident, therefore, that the earth was made as a dwelling place for man,
 and all things therein were given to him for his use, for his good, and for
@@ -60,7 +59,7 @@ that he should be cast down;
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
 not hearken unto my voice." ([Moses
-4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).)
+4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2).)
 
 In the Doctrine and Covenants we read:
 
@@ -76,8 +75,8 @@ lie. ...
 ...
 
 "And thus he goeth up and down, to and fro in the earth, seeking to destroy
-the souls of men." ([D&amp;C 10:22-23, 25-27](https://www.lds.org/scriptures
-/dc-testament/dc/10.22-23%2C25-27?lang=eng#21).)
+the souls of men." ([D&amp;C 10:22-23, 25-27](/scriptures/dc-
+testament/dc/10.22-23,25-27?lang=eng#21).)
 
 Immediately after God left Adam and Eve in the garden, telling them to partake
 freely of the fruit of all the trees except one, of which they were commanded
@@ -100,7 +99,7 @@ Adam, as we all are inclined to do, tried to blame someone else, and replied:
 did eat."
 
 And Eve said: "... The serpent [meaning Satan] beguiled me, and I did eat."
-([Gen. 3:9-13](https://www.lds.org/scriptures/ot/gen/3.9-13?lang=eng#8).)
+([Gen. 3:9-13](/scriptures/ot/gen/3.9-13?lang=eng#8).)
 
 Conditions surrounding Adam and Eve, and those surrounding us today, point up
 clearly the influence of Satan and the frailties of man, the temptations and
@@ -130,8 +129,7 @@ explicit faith.
 
 Then, too, we must understand the importance of obedience. The prophet Samuel
 taught that "to obey is better than sacrifice, and to hearken than the fat of
-rams." ([1 Sam.
-15:22](https://www.lds.org/scriptures/ot/1-sam/15.22?lang=eng#21).) The
+rams." ([1 Sam. 15:22](/scriptures/ot/1-sam/15.22?lang=eng#21).) The
 scriptures give us many examples of obedience by faith alone. After Adam and
 Eve were driven out of the Garden of Eden, the Lord "gave unto them
 commandments, that they should worship the Lord their God, and should offer
@@ -144,7 +142,7 @@ the Lord commanded me.
 
 "And then the angel spake, saying: This thing is a similitude of the sacrifice
 of the Only Begotten of the Father, which is full of grace and truth." ([Moses
-5:5-7](https://www.lds.org/scriptures/pgp/moses/5.5-7?lang=eng#4).)
+5:5-7](/scriptures/pgp/moses/5.5-7?lang=eng#4).)
 
 When Nephi was recording the history of his people, he explained that he had
 received a commandment to make two sets of records--one for an account of the
@@ -156,7 +154,7 @@ in him, which purpose I know not.
 
 "But the Lord knoweth all things from the beginning; wherefore, he prepareth a
 way to accomplish all his works among the children of men. ..." ([1 Ne.
-9:5-6](https://www.lds.org/scriptures/bofm/1-ne/9.5-6?lang=eng#4).)
+9:5-6](/scriptures/bofm/1-ne/9.5-6?lang=eng#4).)
 
 This, as we now know, proved to be of great importance at the time of the
 translation of these records. If we will only have the faith to keep the
@@ -217,7 +215,7 @@ neighbors as ourselves. Are my family and I qualifying in this respect? Are we
 interested in their welfare and ready to help wherever possible? We read in
 James that "pure religion and undefiled before God and the Father is this, To
 visit the fatherless and widows in their affliction." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 We are aware that there has always been a conflict between right and wrong,
 righteousness and evil, good and bad. We must prepare ourselves to meet these
@@ -265,8 +263,7 @@ fierce, despisers of those that are good,
 "Traitors, heady, highminded, lovers of pleasures more than lovers of God;
 
 "Having a form of godliness, but denying the power thereof: from such turn
-away." ([2 Tim.
-3:1-5](https://www.lds.org/scriptures/nt/2-tim/3.1-5?lang=eng#0).)
+away." ([2 Tim. 3:1-5](/scriptures/nt/2-tim/3.1-5?lang=eng#0).)
 
 This causes us to ask: Where are we individually on each of these counts?
 Where are we as a nation and as the world? Are conditions in this great
@@ -299,8 +296,7 @@ God which did dwell in the hearts of the people.
 "And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor
 lyings, nor murders, nor any manner of lasciviousness; and surely there could
 not be a happier people among all the people who had been created by the hand
-of God." ([4 Ne. 1:2,
-15-16](https://www.lds.org/scriptures/bofm/4-ne/1.2%2C15-16?lang=eng#1).)
+of God." ([4 Ne. 1:2, 15-16](/scriptures/bofm/4-ne/1.2,15-16?lang=eng#1).)
 
 As individuals, families, communities, leaders, and governments, we must turn
 to God, acknowledge him as the Creator of the world and the universe, and as
@@ -324,4 +320,6 @@ and repent, and prove ourselves worthy of the great promise that those who
 keep their second estate shall have glory added upon their heads forever and
 ever. May this be our happy lot I humbly pray, in the name of Jesus Christ.
 Amen.
+
+## References
 

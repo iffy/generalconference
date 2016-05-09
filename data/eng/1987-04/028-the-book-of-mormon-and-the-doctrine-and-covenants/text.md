@@ -15,17 +15,17 @@ coming of the Lord.
 
 The bringing forth of these sacred volumes of scripture "for the salvation of
 a ruined world" cost "the best blood of the nineteenth century"--that of
-Joseph Smith and his brother Hyrum ([D&amp;C
-135:6](https://www.lds.org/scriptures/dc-testament/dc/135.6?lang=eng#5)).
+Joseph Smith and his brother Hyrum ([D&amp;C 135:6](/scriptures/dc-
+testament/dc/135.6?lang=eng#5)).
 
 Each divine witness contains a great proclamation to all the world--the title
 page of the Book of Mormon, and section 1, the Lord's preface to the Doctrine
 and Covenants.
 
 "This generation," said the Lord to Joseph Smith, "shall have my word through
-you" ([D&amp;C 5:10](https://www.lds.org/scriptures/dc-
-testament/dc/5.10?lang=eng#9)). And so it has through the Book of Mormon, the
-Doctrine and Covenants, and other modern revelations.
+you" ([D&amp;C 5:10](/scriptures/dc-testament/dc/5.10?lang=eng#9)). And so it
+has through the Book of Mormon, the Doctrine and Covenants, and other modern
+revelations.
 
 The Book of Mormon and the Doctrine and Covenants testify of each other. You
 cannot believe one and not the other.
@@ -33,27 +33,23 @@ cannot believe one and not the other.
 The Book of Mormon testifies of modern books of scripture. It refers to them
 as "other books" and "last records" which "establish the truth" of the Bible
 and make known the "plain and precious things which have been taken away" from
-the Bible ([1 Ne.
-13:39-40](https://www.lds.org/scriptures/bofm/1-ne/13.39-40?lang=eng#38)).
+the Bible ([1 Ne. 13:39-40](/scriptures/bofm/1-ne/13.39-40?lang=eng#38)).
 
 Excluding the witnesses to the Book of Mormon, the Doctrine and Covenants is
 by far the greatest external witness and evidence which we have from the Lord
 that the Book of Mormon is true. At least thirteen sections in the Doctrine
 and Covenants give us confirming knowledge and divine witness that the Book of
-Mormon is the word of God (see [D&amp;C 1](https://www.lds.org/scriptures/dc-
-testament/dc/1.title?lang=eng); [D&amp;C 3](https://www.lds.org/scriptures/dc-
-testament/dc/3.title?lang=eng); [D&amp;C 5](https://www.lds.org/scriptures/dc-
-testament/dc/5.title?lang=eng); [D&amp;C 8](https://www.lds.org/scriptures/dc-
-testament/dc/8.title?lang=eng); [D&amp;C 10-11](https://www.lds.org/scriptures
-/dc-testament/dc/10.title?lang=eng); [D&amp;C
-17-18](https://www.lds.org/scriptures/dc-testament/dc/17.title?lang=eng);
-[D&amp;C 20](https://www.lds.org/scriptures/dc-
-testament/dc/20.title?lang=eng); [D&amp;C 27](https://www.lds.org/scriptures
-/dc-testament/dc/27.title?lang=eng); [D&amp;C
-42](https://www.lds.org/scriptures/dc-testament/dc/42.title?lang=eng);
-[D&amp;C 84](https://www.lds.org/scriptures/dc-
-testament/dc/84.title?lang=eng); [D&amp;C 135](https://www.lds.org/scriptures
-/dc-testament/dc/135.title?lang=eng)).
+Mormon is the word of God (see [D&amp;C 1](/scriptures/dc-
+testament/dc/1?lang=eng); [D&amp;C 3](/scriptures/dc-testament/dc/3?lang=eng);
+[D&amp;C 5](/scriptures/dc-testament/dc/5?lang=eng); [D&amp;C 8](/scriptures
+/dc-testament/dc/8?lang=eng); [D&amp;C 10-11](/scriptures/dc-
+testament/dc/10?lang=eng); [D&amp;C 17-18](/scriptures/dc-
+testament/dc/17?lang=eng); [D&amp;C 20](/scriptures/dc-
+testament/dc/20?lang=eng); [D&amp;C 27](/scriptures/dc-
+testament/dc/27?lang=eng); [D&amp;C 42](/scriptures/dc-
+testament/dc/42?lang=eng); [D&amp;C 84](/scriptures/dc-
+testament/dc/84?lang=eng); [D&amp;C 135](/scriptures/dc-
+testament/dc/135?lang=eng)).
 
 The Doctrine and Covenants is the binding link between the Book of Mormon and
 the continuing work of the Restoration through the Prophet Joseph Smith and
@@ -70,14 +66,13 @@ shall all be fulfilled.
 "What I the Lord have spoken, I have spoken, and I excuse not myself; and
 though the heavens and the earth pass away, my word shall not pass away, but
 shall all be fulfilled, whether by mine own voice or by the voice of my
-servants, it is the same" ([D&amp;C 1:37-38](https://www.lds.org/scriptures
-/dc-testament/dc/1.37-38?lang=eng#36)).
+servants, it is the same" ([D&amp;C 1:37-38](/scriptures/dc-
+testament/dc/1.37-38?lang=eng#36)).
 
 The Book of Mormon brings men to Christ. The Doctrine and Covenants brings men
 to Christ's kingdom, even The Church of Jesus Christ of Latter-day Saints,
 "the only true and living church upon the face of the whole earth" ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29)). I
-know that.
+1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29)). I know that.
 
 The Book of Mormon is the "keystone" of our religion, and the Doctrine and
 Covenants is the capstone, with continuing latter-day revelation. The Lord has
@@ -87,7 +82,7 @@ The ancient preparation of the Book of Mormon, its preservation, and its
 publication verify Nephi's words that "the Lord knoweth all things from the
 beginning; wherefore, he prepareth a way to accomplish all his works among the
 children of men; for behold, he hath all power unto the fulfilling of all his
-words" ([1 Ne. 9:6](https://www.lds.org/scriptures/bofm/1-ne/9.6?lang=eng#5)).
+words" ([1 Ne. 9:6](/scriptures/bofm/1-ne/9.6?lang=eng#5)).
 
 We are not required to prove that the Book of Mormon is true or is an
 authentic record through external evidences--though there are many. It never
@@ -108,11 +103,11 @@ truthfulness.
 
 Nephi testifies that the Book of Mormon contains the "words of Christ" and
 that if people "believe in Christ," they will believe in the Book of Mormon
-([2 Ne. 33:10](https://www.lds.org/scriptures/bofm/2-ne/33.10?lang=eng#9)).
+([2 Ne. 33:10](/scriptures/bofm/2-ne/33.10?lang=eng#9)).
 
 It is important that in our teaching we make use of the language of holy writ.
 Alma said, "I ... do command you in the language of him who hath commanded me"
-([Alma 5:61](https://www.lds.org/scriptures/bofm/alma/5.61?lang=eng#60)).
+([Alma 5:61](/scriptures/bofm/alma/5.61?lang=eng#60)).
 
 The words and the way they are used in the Book of Mormon by the Lord should
 become our source of understanding and should be used by us in teaching gospel
@@ -124,14 +119,13 @@ lead the people to do that which was just--yea, it had had more powerful
 effect upon the minds of the people than the sword, or anything else, which
 had happened unto them--therefore Alma thought it was expedient that they
 should try the virtue of the word of God" ([Alma
-31:5](https://www.lds.org/scriptures/bofm/alma/31.5?lang=eng#4)).
+31:5](/scriptures/bofm/alma/31.5?lang=eng#4)).
 
 Alma reminded his brethren of the Church how God delivered their fathers'
 souls from hell: "Behold, he changed their hearts; yea, he awakened them out
 of a deep sleep, and they awoke unto God. Behold, they were in the midst of
 darkness; nevertheless, their souls were illuminated by the light of the
-everlasting word" ([Alma
-5:7](https://www.lds.org/scriptures/bofm/alma/5.7?lang=eng#6)).
+everlasting word" ([Alma 5:7](/scriptures/bofm/alma/5.7?lang=eng#6)).
 
 We need to use the everlasting word to awaken those in deep sleep so they will
 awake "unto God."
@@ -140,7 +134,7 @@ I am deeply concerned about what we are doing to teach the Saints at all
 levels the gospel of Jesus Christ as completely and authoritatively as do the
 Book of Mormon and the Doctrine and Covenants. By this I mean teaching the
 "great plan of the Eternal God," to use the words of Amulek ([Alma
-34:9](https://www.lds.org/scriptures/bofm/alma/34.9?lang=eng#8)).
+34:9](/scriptures/bofm/alma/34.9?lang=eng#8)).
 
 Are we using the messages and the method of teaching found in the Book of
 Mormon and other scriptures of the Restoration to teach this great plan of the
@@ -161,14 +155,13 @@ Christ, for all whosoever would believe on his name.
 
 "And since man had fallen he could not merit anything of himself; but the
 sufferings and death of Christ atone for their sins, through faith and
-repentance" ([Alma
-22:12-14](https://www.lds.org/scriptures/bofm/alma/22.12-14?lang=eng#11)).
+repentance" ([Alma 22:12-14](/scriptures/bofm/alma/22.12-14?lang=eng#11)).
 
 The Book of Mormon Saints knew that the plan of redemption must start with the
 account of the fall of Adam. In the words of Moroni, "By Adam came the fall of
 man. And because of the fall of man came Jesus Christ, ... and because of Jesus
 Christ came the redemption of man" ([Morm.
-9:12](https://www.lds.org/scriptures/bofm/morm/9.12?lang=eng#11)).
+9:12](/scriptures/bofm/morm/9.12?lang=eng#11)).
 
 Just as a man does not really desire food until he is hungry, so he does not
 desire the salvation of Christ until he knows why he needs Christ.
@@ -193,7 +186,7 @@ have for each of us?
 
 What does redemption from the Fall mean to us? In the words of Alma, do we
 "sing the song of redeeming love"? ([Alma
-5:26](https://www.lds.org/scriptures/bofm/alma/5.26?lang=eng#25)).
+5:26](/scriptures/bofm/alma/5.26?lang=eng#25)).
 
 Now, what should be the source for teaching the great plan of the Eternal God?
 The scriptures, of course--particularly the Book of Mormon. This should also
@@ -202,13 +195,12 @@ words of the Apostles and prophets and the promptings of the Spirit.
 
 Alma "commanded them that they should teach nothing save it were the things
 which he had taught, and which had been spoken by the mouth of the holy
-prophets" ([Mosiah
-18:19](https://www.lds.org/scriptures/bofm/mosiah/18.19?lang=eng#18)).
+prophets" ([Mosiah 18:19](/scriptures/bofm/mosiah/18.19?lang=eng#18)).
 
 The Doctrine and Covenants states, "Let them journey from thence preaching the
 word by the way, saying none other things than that which the prophets and
 apostles have written, and that which is taught them by the Comforter through
-the prayer of faith" ([D&amp;C 52:9](https://www.lds.org/scriptures/dc-
+the prayer of faith" ([D&amp;C 52:9](/scriptures/dc-
 testament/dc/52.9?lang=eng#8)).
 
 Now, after we teach the great plan of the eternal God, we must personally bear
@@ -227,7 +219,7 @@ Behold, I have fasted and prayed many days that I might know these things of
 myself. And now I do know of myself that they are true; for the Lord God hath
 made them manifest unto me by his Holy Spirit; and this is the spirit of
 revelation which is in me" ([Alma
-5:45-46](https://www.lds.org/scriptures/bofm/alma/5.45-46?lang=eng#44)).
+5:45-46](/scriptures/bofm/alma/5.45-46?lang=eng#44)).
 
 Later Amulek joined Alma as his missionary companion. After Alma had delivered
 to the Zoramites his message concerning faith in Christ, Amulek sealed with
@@ -237,19 +229,18 @@ his testimony the message of his companion in these words:
 true. Behold, I say unto you, that I do know that Christ shall come among the
 children of men, to take upon him the transgressions of his people, and that
 he shall atone for the sins of the world; for the Lord God hath spoken it"
-([Alma 34:8](https://www.lds.org/scriptures/bofm/alma/34.8?lang=eng#7)).
+([Alma 34:8](/scriptures/bofm/alma/34.8?lang=eng#7)).
 
 In His preface to the Doctrine and Covenants, the Lord said that the "voice of
 warning shall be unto all people, by the mouths of my disciples, whom I have
-chosen in these last days" ([D&amp;C 1:4](https://www.lds.org/scriptures/dc-
+chosen in these last days" ([D&amp;C 1:4](/scriptures/dc-
 testament/dc/1.4?lang=eng#3)).
 
 The responsibility of the seed of Abraham, which we are, is to be missionaries
 to "bear this ministry and Priesthood unto all nations" ([Abr.
-2:9](https://www.lds.org/scriptures/pgp/abr/2.9?lang=eng#8)). Moses bestowed
-upon Joseph Smith in the Kirtland Temple the keys to gather Israel (see
-[D&amp;C 110:11](https://www.lds.org/scriptures/dc-
-testament/dc/110.11?lang=eng#10)).
+2:9](/scriptures/pgp/abr/2.9?lang=eng#8)). Moses bestowed upon Joseph Smith in
+the Kirtland Temple the keys to gather Israel (see [D&amp;C
+110:11](/scriptures/dc-testament/dc/110.11?lang=eng#10)).
 
 Now, what is the instrument that God has designed for this gathering? It is
 the same instrument that is designed to convince the world that Jesus is the
@@ -290,4 +281,6 @@ those who have died.
 I testify that the Book of Mormon is the word of God. Jesus is the Christ.
 Joseph Smith is His prophet. The Church of Jesus Christ of Latter-day Saints
 is true, in the name of Jesus Christ, amen.
+
+## References
 

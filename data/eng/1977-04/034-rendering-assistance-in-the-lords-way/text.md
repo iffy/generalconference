@@ -23,7 +23,7 @@ that had not been nourished; and they did not set their hearts upon riches;
 therefore they were liberal to all, both old and young, both bond and free,
 both male and female, whether out of the church or in the church, having no
 respect to persons as to those who stood in need." ([Alma 1:27-28,
-30](https://www.lds.org/scriptures/bofm/alma/1.27-28%2C30?lang=eng#26).)
+30](/scriptures/bofm/alma/1.27-28,30?lang=eng#26).)
 
 As we have been taught so often from the Doctrine and Covenants, the bishop is
 commanded to search after the poor to administer to their wants. This refers
@@ -186,9 +186,11 @@ both male and female, whether out of the church or in the church, having no
 respect to persons as to those who stood in need.
 
 "And thus they did prosper. ..." ([Alma
-1:30-31](https://www.lds.org/scriptures/bofm/alma/1.30-31?lang=eng#29).)
+1:30-31](/scriptures/bofm/alma/1.30-31?lang=eng#29).)
 
 May we be blessed as the psalmist said: "Blessed is he that considereth the
-poor." ([Ps. 41:1](https://www.lds.org/scriptures/ot/ps/41.1?lang=eng#0).) In
-the name of Jesus Christ, amen.
+poor." ([Ps. 41:1](/scriptures/ot/ps/41.1?lang=eng#0).) In the name of Jesus
+Christ, amen.
+
+## References
 

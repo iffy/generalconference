@@ -1,438 +1,358 @@
 items:
-- article_id: PD10029598_000_002
-  item: '002'
-  key: 002-the-church-goes-forward
+- item: 1
+  key: 000-the-church-goes-forward
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-church-goes-forward
   speaker: Gordon B. Hinckley
   title: The Church Goes Forward
   url: https://www.lds.org/general-conference/2002/04/the-church-goes-forward?lang=eng
   year: 2002
-- article_id: PD10029598_000_003
-  item: '004'
-  key: 004-children
+- item: 2
+  key: 001-children
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: children
   speaker: Boyd K. Packer
   title: Children
   url: https://www.lds.org/general-conference/2002/04/children?lang=eng
   year: 2002
-- article_id: PD10029598_000_004
-  item: '005'
-  key: 005-the-law-of-tithing
+- item: 3
+  key: 002-the-law-of-tithing
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-law-of-tithing
   speaker: Earl C. Tingey
   title: The Law of Tithing
   url: https://www.lds.org/general-conference/2002/04/the-law-of-tithing?lang=eng
   year: 2002
-- article_id: PD10029598_000_005
-  item: '007'
-  key: 007-developing-inner-strength
+- item: 4
+  key: 003-developing-inner-strength
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: developing-inner-strength
-  speaker: Ellen W. Smoot
+  speaker: Mary Ellen W. Smoot
   title: Developing Inner Strength
   url: https://www.lds.org/general-conference/2002/04/developing-inner-strength?lang=eng
   year: 2002
-- article_id: PD10029598_000_006
-  item: 008
-  key: 008-follow-me
+- item: 5
+  key: 004-follow-me
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: follow-me
   speaker: Joseph B. Wirthlin
-  title: "\u201CFollow Me\u201D"
+  title: '"Follow Me"'
   url: https://www.lds.org/general-conference/2002/04/follow-me?lang=eng
   year: 2002
-- article_id: PD10029598_000_007
-  item: '010'
-  key: 010-hidden-wedges
+- item: 6
+  key: 005-hidden-wedges
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: hidden-wedges
   speaker: Thomas S. Monson
   title: Hidden Wedges
   url: https://www.lds.org/general-conference/2002/04/hidden-wedges?lang=eng
   year: 2002
-- article_id: PD10029598_000_008
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2002/04/the-sustaining-of-church-officers?lang=eng
   year: 2002
-- article_id: PD10029598_000_009
-  item: '015'
-  key: 015-church-auditing-department-report
+- item: 8
+  key: 007-church-auditing-department-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: church-auditing-department-report
   speaker: Wesley L. Jones
   title: Church Auditing Department Report
   url: https://www.lds.org/general-conference/2002/04/church-auditing-department-report?lang=eng
   year: 2002
-- article_id: PD10029598_000_010
-  item: '016'
-  key: 016-statistical-report-2001
+- item: 9
+  key: 008-statistical-report-2001
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-2001
   speaker: F. Michael Watson
   title: Statistical Report, 2001
   url: https://www.lds.org/general-conference/2002/04/statistical-report-2001?lang=eng
   year: 2002
-- article_id: PD10029598_000_011
-  item: '017'
-  key: 017-full-conversion-brings-happiness
+- item: 10
+  key: 009-full-conversion-brings-happiness
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: full-conversion-brings-happiness
   speaker: Richard G. Scott
   title: Full Conversion Brings Happiness
   url: https://www.lds.org/general-conference/2002/04/full-conversion-brings-happiness?lang=eng
   year: 2002
-- article_id: PD10029598_000_012
-  item: 018
-  key: 018-true-friends
+- item: 11
+  key: 010-true-friends
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: true-friends
   speaker: Henry B. Eyring
   title: True Friends
   url: https://www.lds.org/general-conference/2002/04/true-friends?lang=eng
   year: 2002
-- article_id: PD10029598_000_013
-  item: 019
-  key: 019-faith-obedience
+- item: 12
+  key: 011-faith-obedience
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: faith-obedience
   speaker: R. Conrad Schultz
   title: Faith Obedience
   url: https://www.lds.org/general-conference/2002/04/faith-obedience?lang=eng
   year: 2002
-- article_id: PD10029598_000_014
-  item: '021'
-  key: 021-being-teachable
+- item: 13
+  key: 012-being-teachable
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: being-teachable
   speaker: Robert R. Steuer
   title: Being Teachable
   url: https://www.lds.org/general-conference/2002/04/being-teachable?lang=eng
   year: 2002
-- article_id: PD10029598_000_015
-  item: '022'
-  key: 022-the-gospel-in-our-lives
+- item: 14
+  key: 013-the-gospel-in-our-lives
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-gospel-in-our-lives
   speaker: Dallin H. Oaks
   title: The Gospel in Our Lives
   url: https://www.lds.org/general-conference/2002/04/the-gospel-in-our-lives?lang=eng
   year: 2002
-- article_id: PD10029598_000_016
-  item: '023'
-  key: 023-consecrate-thy-performance
+- item: 15
+  key: 014-consecrate-thy-performance
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: consecrate-thy-performance
   speaker: Neal A. Maxwell
   title: Consecrate Thy Performance
   url: https://www.lds.org/general-conference/2002/04/consecrate-thy-performance?lang=eng
   year: 2002
-- article_id: PD10029598_000_017
-  item: '027'
-  key: 027-becoming-men-in-whom-the-spirit-of-god-is
+- item: 16
+  key: 015-becoming-men-in-whom-the-spirit-of-god-is
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: becoming-men-in-whom-the-spirit-of-god-is
   speaker: L. Tom Perry
   title: Becoming Men in Whom the Spirit of God Is
   url: https://www.lds.org/general-conference/2002/04/becoming-men-in-whom-the-spirit-of-god-is?lang=eng
   year: 2002
-- article_id: PD10029598_000_018
-  item: 028
-  key: 028-this-road-we-call-life
+- item: 17
+  key: 016-this-road-we-call-life
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: this-road-we-call-life
   speaker: Ben B. Banks
   title: This Road We Call Life
   url: https://www.lds.org/general-conference/2002/04/this-road-we-call-life?lang=eng
   year: 2002
-- article_id: PD10029598_000_019
-  item: 029
-  key: 029-becoming-a-great-benefit-to-our-fellow-beings
+- item: 18
+  key: 017-becoming-a-great-benefit-to-our-fellow-beings
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: becoming-a-great-benefit-to-our-fellow-beings
   speaker: Spencer J. Condie
   title: Becoming a Great Benefit to Our Fellow Beings
   url: https://www.lds.org/general-conference/2002/04/becoming-a-great-benefit-to-our-fellow-beings?lang=eng
   year: 2002
-- article_id: PD10029598_000_020
-  item: '030'
-  key: 030-it-can-t-happen-to-me
+- item: 19
+  key: 018-it-can-t-happen-to-me
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: it-can-t-happen-to-me
   speaker: James E. Faust
-  title: "It Can\u2019t Happen to Me"
+  title: It Can't Happen to Me
   url: https://www.lds.org/general-conference/2002/04/it-can-t-happen-to-me?lang=eng
   year: 2002
-- article_id: PD10029598_000_021
-  item: '031'
-  key: 031-they-pray-and-they-go
+- item: 20
+  key: 019-they-pray-and-they-go
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: they-pray-and-they-go
   speaker: Thomas S. Monson
   title: They Pray and They Go
   url: https://www.lds.org/general-conference/2002/04/they-pray-and-they-go?lang=eng
   year: 2002
-- article_id: PD10029598_000_022
-  item: '033'
-  key: 033-personal-worthiness-to-exercise-the-priesthood
+- item: 21
+  key: 020-personal-worthiness-to-exercise-the-priesthood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: personal-worthiness-to-exercise-the-priesthood
   speaker: Gordon B. Hinckley
   title: Personal Worthiness to Exercise the Priesthood
   url: https://www.lds.org/general-conference/2002/04/personal-worthiness-to-exercise-the-priesthood?lang=eng
   year: 2002
-- article_id: PD10029598_000_023
-  item: 038
-  key: 038-the-lifeline-of-prayer
+- item: 22
+  key: 021-the-lifeline-of-prayer
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-lifeline-of-prayer
   speaker: James E. Faust
   title: The Lifeline of Prayer
   url: https://www.lds.org/general-conference/2002/04/the-lifeline-of-prayer?lang=eng
   year: 2002
-- article_id: PD10029598_000_024
-  item: 039
-  key: 039-the-other-prodigal
+- item: 23
+  key: 022-the-other-prodigal
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-other-prodigal
   speaker: Jeffrey R. Holland
   title: The Other Prodigal
   url: https://www.lds.org/general-conference/2002/04/the-other-prodigal?lang=eng
   year: 2002
-- article_id: PD10029598_000_025
-  item: '040'
-  key: 040-for-thy-good
+- item: 24
+  key: 023-for-thy-good
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: for-thy-good
   speaker: Richard C. Edgley
   title: For Thy Good
   url: https://www.lds.org/general-conference/2002/04/for-thy-good?lang=eng
   year: 2002
-- article_id: PD10029598_000_026
-  item: '042'
-  key: 042-the-language-of-love
+- item: 25
+  key: 024-the-language-of-love
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-language-of-love
   speaker: Gayle M. Clegg
   title: The Language of Love
   url: https://www.lds.org/general-conference/2002/04/the-language-of-love?lang=eng
   year: 2002
-- article_id: PD10029598_000_027
-  item: '043'
-  key: 043-out-of-darkness-into-his-marvelous-light
+- item: 26
+  key: 025-out-of-darkness-into-his-marvelous-light
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: out-of-darkness-into-his-marvelous-light
   speaker: Robert D. Hales
   title: Out of Darkness into His Marvelous Light
   url: https://www.lds.org/general-conference/2002/04/out-of-darkness-into-his-marvelous-light?lang=eng
   year: 2002
-- article_id: PD10029598_000_028
-  item: '045'
-  key: 045-we-walk-by-faith
+- item: 27
+  key: 026-we-walk-by-faith
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: we-walk-by-faith
   speaker: Gordon B. Hinckley
   title: We Walk by Faith
   url: https://www.lds.org/general-conference/2002/04/we-walk-by-faith?lang=eng
   year: 2002
-- article_id: PD10029598_000_029
-  item: 049
-  key: 049-how-firm-our-foundation
+- item: 28
+  key: 027-how-firm-our-foundation
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: how-firm-our-foundation
   speaker: Russell M. Nelson
   title: How Firm Our Foundation
   url: https://www.lds.org/general-conference/2002/04/how-firm-our-foundation?lang=eng
   year: 2002
-- article_id: PD10029598_000_030
-  item: '050'
-  key: 050-eternal-life-through-jesus-christ
+- item: 29
+  key: 028-eternal-life-through-jesus-christ
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: eternal-life-through-jesus-christ
   speaker: John M. Madsen
   title: Eternal Life through Jesus Christ
   url: https://www.lds.org/general-conference/2002/04/eternal-life-through-jesus-christ?lang=eng
   year: 2002
-- article_id: PD10029598_000_031
-  item: '051'
-  key: 051-some-basic-teachings-from-the-history-of-joseph-smith
+- item: 30
+  key: 029-some-basic-teachings-from-the-history-of-joseph-smith
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: some-basic-teachings-from-the-history-of-joseph-smith
   speaker: Carlos H. Amado
   title: Some Basic Teachings from the History of Joseph Smith
   url: https://www.lds.org/general-conference/2002/04/some-basic-teachings-from-the-history-of-joseph-smith?lang=eng
   year: 2002
-- article_id: PD10029598_000_032
-  item: '052'
-  key: 052-charity-perfect-and-everlasting-love
+- item: 31
+  key: 030-charity-perfect-and-everlasting-love
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: charity-perfect-and-everlasting-love
   speaker: Gene R. Cook
-  title: 'Charity: Perfect and Everlasting Love'
+  title: Charity:Perfect and Everlasting Love
   url: https://www.lds.org/general-conference/2002/04/charity-perfect-and-everlasting-love?lang=eng
   year: 2002
-- article_id: PD10029598_000_033
-  item: '054'
-  key: 054-feel-the-love-of-the-lord
+- item: 32
+  key: 031-feel-the-love-of-the-lord
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: feel-the-love-of-the-lord
   speaker: Bonnie D. Parkin
   title: Feel the Love of the Lord
   url: https://www.lds.org/general-conference/2002/04/feel-the-love-of-the-lord?lang=eng
   year: 2002
-- article_id: PD10029598_000_034
-  item: '055'
-  key: 055-the-opportunity-to-serve
+- item: 33
+  key: 032-the-opportunity-to-serve
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-opportunity-to-serve
   speaker: Gerald N. Lund
   title: The Opportunity to Serve
   url: https://www.lds.org/general-conference/2002/04/the-opportunity-to-serve?lang=eng
   year: 2002
-- article_id: PD10029598_000_035
-  item: '056'
-  key: 056-i-ll-go-where-you-want-me-to-go
+- item: 34
+  key: 033-i-ll-go-where-you-want-me-to-go
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: i-ll-go-where-you-want-me-to-go
   speaker: William R. Walker
-  title: "I\u2019ll Go Where You Want Me to Go"
+  title: I'll Go Where You Want Me to Go
   url: https://www.lds.org/general-conference/2002/04/i-ll-go-where-you-want-me-to-go?lang=eng
   year: 2002
-- article_id: PD10029598_000_036
-  item: '057'
-  key: 057-the-peaceable-things-of-the-kingdom
+- item: 35
+  key: 034-the-peaceable-things-of-the-kingdom
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-peaceable-things-of-the-kingdom
   speaker: M. Russell Ballard
   title: The Peaceable Things of the Kingdom
   url: https://www.lds.org/general-conference/2002/04/the-peaceable-things-of-the-kingdom?lang=eng
   year: 2002
-- article_id: PD10029598_000_037
-  item: 059
-  key: 059-we-look-to-christ
+- item: 36
+  key: 035-we-look-to-christ
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: we-look-to-christ
   speaker: Gordon B. Hinckley
   title: We Look to Christ
   url: https://www.lds.org/general-conference/2002/04/we-look-to-christ?lang=eng
   year: 2002
-- article_id: PD10029598_000_038
-  item: '062'
-  key: 062-standing-in-holy-places
+- item: 37
+  key: 036-standing-in-holy-places
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: standing-in-holy-places
   speaker: Sharon G. Larsen
   title: Standing in Holy Places
   url: https://www.lds.org/general-conference/2002/04/standing-in-holy-places?lang=eng
   year: 2002
-- article_id: PD10029598_000_039
-  item: '064'
-  key: 064-strengthen-home-and-family
+- item: 38
+  key: 037-strengthen-home-and-family
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: strengthen-home-and-family
   speaker: Carol B. Thomas
   title: Strengthen Home and Family
   url: https://www.lds.org/general-conference/2002/04/strengthen-home-and-family?lang=eng
   year: 2002
-- article_id: PD10029598_000_040
-  item: '066'
-  key: 066-hold-high-the-torch
+- item: 39
+  key: 038-hold-high-the-torch
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: hold-high-the-torch
   speaker: Margaret D. Nadauld
   title: Hold High the Torch
   url: https://www.lds.org/general-conference/2002/04/hold-high-the-torch?lang=eng
   year: 2002
-- article_id: PD10029598_000_041
-  item: 068
-  key: 068-pathways-to-perfection
+- item: 40
+  key: 039-pathways-to-perfection
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: pathways-to-perfection
   speaker: Thomas S. Monson

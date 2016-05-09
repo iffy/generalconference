@@ -198,3 +198,65 @@ I humbly testify and pray that we will always remember Him--in all times, all
 things, and all places we may be in.[30] In the sacred and holy name of Jesus
 Christ, amen.
 
+## References
+
+  1. "We'll Sing All Hail to Jesus' Name," _Hymns,_ no. 182.
+
+  2. Joseph Smith Translation, Genesis 9:22 (in the Bible appendix).
+
+  3. See [Doctrine and Covenants 18:10-16](https://www.lds.org/scriptures/dc-testament/dc/18.10-16?lang=eng#9).
+
+  4. See [Doctrine and Covenants 45:26](https://www.lds.org/scriptures/dc-testament/dc/45.26?lang=eng#25); [88:91](https://www.lds.org/scriptures/dc-testament/dc/88.91?lang=eng#90).
+
+  5. [Psalm 20:7](https://www.lds.org/scriptures/ot/ps/20.7?lang=eng#6).
+
+  6. "Be Still, My Soul," _Hymns,_ no. 124.
+
+  7. [2 Timothy 3:1](https://www.lds.org/scriptures/nt/2-tim/3.1?lang=eng#0); see also [verses 2-7](https://www.lds.org/scriptures/nt/2-tim/3.2-7?lang=eng#1).
+
+  8. [Doctrine and Covenants 3:3](https://www.lds.org/scriptures/dc-testament/dc/3.3?lang=eng#2).
+
+  9. _Kierkegaard's Journals and Notebooks: Volume 2, Journals EE-KK,_ Bruce H. Kirmmse and others, ed. (2008), 2:179; emphasis in original.
+
+  10. See "Count Your Blessings," _Hymns,_ no. 241.
+
+  11. [Doctrine and Covenants 58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41); see also [Isaiah 43:25](https://www.lds.org/scriptures/ot/isa/43.25?lang=eng#24).
+
+  12. [Enos 1:7, 8](https://www.lds.org/scriptures/bofm/enos/1.7,8?lang=eng#6).
+
+  13. [Isaiah 43:26](https://www.lds.org/scriptures/ot/isa/43.26?lang=eng#25).
+
+  14. See [Moroni 10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).
+
+  15. See [John 14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).
+
+  16. [Psalm 24:3](https://www.lds.org/scriptures/ot/ps/24.3?lang=eng#2); see also [verse 4](https://www.lds.org/scriptures/ot/ps/24.4?lang=eng#3); experience used with permission.
+
+  17. T. S. Eliot, "Little Gidding," in _Four Quartets_ (1943), section 5, lines 241-42.
+
+  18. See, for example, [Ether 12:23-28](https://www.lds.org/scriptures/bofm/ether/12.23-28?lang=eng#22); Dieter F. Uchtdorf, "[Come, Join with Us](https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng)," _Ensign _or_ Liahona,_ Nov. 2013, 21-24.
+
+  19. _Teachings of Presidents of the Church: Joseph Smith_ (2007), 522. He continues here, "Must I, then, be thrown away as a thing of naught?"
+
+  20. See [Doctrine and Covenants 27:2-4](https://www.lds.org/scriptures/dc-testament/dc/27.2-4?lang=eng#1) for modern revelation on the use of water instead of wine.
+
+  21. Joseph Smith Translation, Mark 14:21 (in the Bible appendix).
+
+  22. See [Moroni 4:3](https://www.lds.org/scriptures/bofm/moro/4.3?lang=eng#2); [5:2](https://www.lds.org/scriptures/bofm/moro/5.2?lang=eng#1); [Doctrine and Covenants 20:77, 79](https://www.lds.org/scriptures/dc-testament/dc/20.77,79?lang=eng#76).
+
+  23. See [Alma 34:20-21, 28-29](https://www.lds.org/scriptures/bofm/alma/34.20-21,28-29?lang=eng#19). In modern revelation, the Lord likewise enjoins us, "Remember in all things the poor and the needy, the sick and the afflicted" ([Doctrine and Covenants 52:40](https://www.lds.org/scriptures/dc-testament/dc/52.40?lang=eng#39)).
+
+  24. See [3 Nephi 11:14-15](https://www.lds.org/scriptures/bofm/3-ne/11.14-15?lang=eng#13).
+
+  25. [Alma 40:23](https://www.lds.org/scriptures/bofm/alma/40.23?lang=eng#22).
+
+  26. See [Doctrine and Covenants 6:37](https://www.lds.org/scriptures/dc-testament/dc/6.37?lang=eng#36).
+
+  27. See [3 Nephi 27:14](https://www.lds.org/scriptures/bofm/3-ne/27.14?lang=eng#13); see also, for example, [John 12:32-33](https://www.lds.org/scriptures/nt/john/12.32-33?lang=eng#31); [1 Nephi 11:33](https://www.lds.org/scriptures/bofm/1-ne/11.33?lang=eng#32); [Mosiah 23:22](https://www.lds.org/scriptures/bofm/mosiah/23.22?lang=eng#21); [Alma 13:29](https://www.lds.org/scriptures/bofm/alma/13.29?lang=eng#28); [33:19](https://www.lds.org/scriptures/bofm/alma/33.19?lang=eng#18); [Helaman 8:14-15](https://www.lds.org/scriptures/bofm/hel/8.14-15?lang=eng#13).
+
+  28. [Isaiah 49:15-16](https://www.lds.org/scriptures/ot/isa/49.15, 16?#14); see also [1 Nephi 21:15-16](https://www.lds.org/scriptures/bofm/1-ne/21.15, 16?#14).
+
+  29. [Doctrine and Covenants 45:52](https://www.lds.org/scriptures/dc-testament/dc/45.52?lang=eng#51).
+
+  30. See [Mosiah 18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).
+

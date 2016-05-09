@@ -1,430 +1,352 @@
 items:
-- article_id: 10791_000_11monson
-  item: '002'
-  key: 002-welcome-to-conference
+- item: 1
+  key: 000-welcome-to-conference
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: welcome-to-conference
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: Welcome to Conference
   url: https://www.lds.org/general-conference/2013/10/welcome-to-conference?lang=eng
   year: 2013
-- article_id: 10791_000_12hales
-  item: '004'
-  key: 004-general-conference-strengthening-faith-and-testimony
+- item: 2
+  key: 001-general-conference-strengthening-faith-and-testimony
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: general-conference-strengthening-faith-and-testimony
-  speaker: "By Elder Robert\_D. Hales"
+  speaker: Robert D. Hales
   title: 'General Conference: Strengthening Faith and Testimony'
   url: https://www.lds.org/general-conference/2013/10/general-conference-strengthening-faith-and-testimony?lang=eng
   year: 2013
-- article_id: 10791_000_13soares
-  item: '005'
-  key: 005-be-meek-and-lowly-of-heart
+- item: 3
+  key: 002-be-meek-and-lowly-of-heart
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: be-meek-and-lowly-of-heart
-  speaker: By Elder Ulisses Soares
+  speaker: Ulisses Soares
   title: Be Meek and Lowly of Heart
   url: https://www.lds.org/general-conference/2013/10/be-meek-and-lowly-of-heart?lang=eng
   year: 2013
-- article_id: 10791_000_14stephens
-  item: '006'
-  key: 006-do-we-know-what-we-have
+- item: 4
+  key: 003-do-we-know-what-we-have
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: do-we-know-what-we-have
-  speaker: "By Carole\_M. Stephens"
+  speaker: Carole M. Stephens
   title: Do We Know What We Have?
   url: https://www.lds.org/general-conference/2013/10/do-we-know-what-we-have?lang=eng
   year: 2013
-- article_id: 10791_000_15dube
-  item: 008
-  key: 008-look-ahead-and-believe
+- item: 5
+  key: 004-look-ahead-and-believe
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: look-ahead-and-believe
-  speaker: By Elder Edward Dube
+  speaker: Edward Dube
   title: Look Ahead and Believe
   url: https://www.lds.org/general-conference/2013/10/look-ahead-and-believe?lang=eng
   year: 2013
-- article_id: 10791_000_16bednar
-  item: 009
-  key: 009-the-windows-of-heaven
+- item: 6
+  key: 005-the-windows-of-heaven
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-windows-of-heaven
-  speaker: "By Elder David\_A. Bednar"
+  speaker: David A. Bednar
   title: The Windows of Heaven
   url: https://www.lds.org/general-conference/2013/10/the-windows-of-heaven?lang=eng
   year: 2013
-- article_id: 10791_000_17uchtdorf
-  item: '011'
-  key: 011-come-join-with-us
+- item: 7
+  key: 006-come-join-with-us
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: come-join-with-us
-  speaker: "By President Dieter\_F. Uchtdorf"
+  speaker: Dieter F. Uchtdorf
   title: Come, Join with Us
   url: https://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng
   year: 2013
-- article_id: 10791_000_21eyring
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 8
+  key: 007-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
-  speaker: "Presented by President Henry\_B. Eyring"
+  speaker: Henry B. Eyring
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2013/10/the-sustaining-of-church-officers?lang=eng
   year: 2013
-- article_id: 10791_000_22packer
-  item: '016'
-  key: 016-the-key-to-spiritual-protection
+- item: 9
+  key: 008-the-key-to-spiritual-protection
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-key-to-spiritual-protection
-  speaker: "By President Boyd\_K. Packer"
+  speaker: Boyd K. Packer
   title: The Key to Spiritual Protection
   url: https://www.lds.org/general-conference/2013/10/the-key-to-spiritual-protection?lang=eng
   year: 2013
-- article_id: 10791_000_23christofferson
-  item: '017'
-  key: 017-the-moral-force-of-women
+- item: 10
+  key: 009-the-moral-force-of-women
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-moral-force-of-women
-  speaker: "By Elder D.\_Todd Christofferson"
+  speaker: D. Todd Christofferson
   title: The Moral Force of Women
   url: https://www.lds.org/general-conference/2013/10/the-moral-force-of-women?lang=eng
   year: 2013
-- article_id: 10791_000_24nielsen
-  item: 018
-  key: 018-hastening-the-lords-game-plan
+- item: 11
+  key: 010-hastening-the-lords-game-plan
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: hastening-the-lords-game-plan
-  speaker: "By Elder S.\_Gifford Nielsen"
-  title: "Hastening the Lord\u2019s Game Plan!"
+  speaker: S. Gifford Nielsen
+  title: Hastening the Lord's Game Plan!
   url: https://www.lds.org/general-conference/2013/10/hastening-the-lords-game-plan?lang=eng
   year: 2013
-- article_id: 10791_000_25valenzuela
-  item: '020'
-  key: 020-small-and-simple-things
+- item: 12
+  key: 011-small-and-simple-things
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: small-and-simple-things
-  speaker: By Elder Arnulfo Valenzuela
+  speaker: Arnulfo Valenzuela
   title: Small and Simple Things
   url: https://www.lds.org/general-conference/2013/10/small-and-simple-things?lang=eng
   year: 2013
-- article_id: 10791_000_26dyches
-  item: '021'
-  key: 021-wilt-thou-be-made-whole
+- item: 13
+  key: 012-wilt-thou-be-made-whole
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: wilt-thou-be-made-whole
-  speaker: "By Elder Timothy\_J. Dyches"
+  speaker: Timothy J. Dyches
   title: Wilt Thou Be Made Whole?
   url: https://www.lds.org/general-conference/2013/10/wilt-thou-be-made-whole?lang=eng
   year: 2013
-- article_id: 10791_000_27holland
-  item: '022'
-  key: 022-like-a-broken-vessel
+- item: 14
+  key: 013-like-a-broken-vessel
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: like-a-broken-vessel
-  speaker: "By Elder Jeffrey\_R. Holland"
+  speaker: Jeffrey R. Holland
   title: Like a Broken Vessel
   url: https://www.lds.org/general-conference/2013/10/like-a-broken-vessel?lang=eng
   year: 2013
-- article_id: 10791_000_28ballard
-  item: '023'
-  key: 023-put-your-trust-in-the-lord
+- item: 15
+  key: 014-put-your-trust-in-the-lord
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: put-your-trust-in-the-lord
-  speaker: "By Elder M.\_Russell Ballard"
+  speaker: M. Russell Ballard
   title: Put Your Trust in the Lord
   url: https://www.lds.org/general-conference/2013/10/put-your-trust-in-the-lord?lang=eng
   year: 2013
-- article_id: 10791_000_31perry
-  item: '027'
-  key: 027-the-doctrines-and-principles-contained-in-the-articles-of-faith
+- item: 16
+  key: 015-the-doctrines-and-principles-contained-in-the-articles-of-faith
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-doctrines-and-principles-contained-in-the-articles-of-faith
-  speaker: "By Elder L.\_Tom Perry"
+  speaker: L. Tom Perry
   title: The Doctrines and Principles Contained in the Articles of Faith
   url: https://www.lds.org/general-conference/2013/10/the-doctrines-and-principles-contained-in-the-articles-of-faith?lang=eng
   year: 2013
-- article_id: 10791_000_32causse
-  item: 028
-  key: 028-ye-are-no-more-strangers
+- item: 17
+  key: 016-ye-are-no-more-strangers
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: ye-are-no-more-strangers
-  speaker: "By Bishop G\xE9rald Causs\xE9"
+  speaker: "G\xE9rald Causs\xE9"
   title: Ye Are No More Strangers
   url: https://www.lds.org/general-conference/2013/10/ye-are-no-more-strangers?lang=eng
   year: 2013
-- article_id: 10791_000_33funk
-  item: 029
-  key: 029-called-of-him-to-declare-his-word
+- item: 18
+  key: 017-called-of-him-to-declare-his-word
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: called-of-him-to-declare-his-word
-  speaker: "By Elder Randy\_D. Funk"
+  speaker: Randy D. Funk
   title: Called of Him to Declare His Word
   url: https://www.lds.org/general-conference/2013/10/called-of-him-to-declare-his-word?lang=eng
   year: 2013
-- article_id: 10791_000_34uchtdorf
-  item: '031'
-  key: 031-you-can-do-it-now
+- item: 19
+  key: 018-you-can-do-it-now
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: you-can-do-it-now
-  speaker: "By President Dieter\_F. Uchtdorf"
+  speaker: Dieter F. Uchtdorf
   title: You Can Do It Now!
   url: https://www.lds.org/general-conference/2013/10/you-can-do-it-now?lang=eng
   year: 2013
-- article_id: 10791_000_35eyring
-  item: '032'
-  key: 032-bind-up-their-wounds
+- item: 20
+  key: 019-bind-up-their-wounds
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: bind-up-their-wounds
-  speaker: "By President Henry\_B. Eyring"
+  speaker: Henry B. Eyring
   title: Bind Up Their Wounds
   url: https://www.lds.org/general-conference/2013/10/bind-up-their-wounds?lang=eng
   year: 2013
-- article_id: 10791_000_36monson
-  item: '033'
-  key: 033-true-shepherds
+- item: 21
+  key: 020-true-shepherds
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: true-shepherds
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: True Shepherds
   url: https://www.lds.org/general-conference/2013/10/true-shepherds?lang=eng
   year: 2013
-- article_id: 10791_000_41eyring
-  item: 038
-  key: 038-to-my-grandchildren
+- item: 22
+  key: 021-to-my-grandchildren
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: to-my-grandchildren
-  speaker: "By President Henry\_B. Eyring"
+  speaker: Henry B. Eyring
   title: To My Grandchildren
   url: https://www.lds.org/general-conference/2013/10/to-my-grandchildren?lang=eng
   year: 2013
-- article_id: 10791_000_42oaks
-  item: 039
-  key: 039-no-other-gods
+- item: 23
+  key: 022-no-other-gods
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: no-other-gods
-  speaker: "By Elder Dallin\_H. Oaks"
+  speaker: Dallin H. Oaks
   title: No Other Gods
   url: https://www.lds.org/general-conference/2013/10/no-other-gods?lang=eng
   year: 2013
-- article_id: 10791_000_43oscarson
-  item: '040'
-  key: 040-be-ye-converted
+- item: 24
+  key: 023-be-ye-converted
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: be-ye-converted
-  speaker: "By Bonnie\_L. Oscarson"
+  speaker: Bonnie L. Oscarson
   title: Be Ye Converted
   url: https://www.lds.org/general-conference/2013/10/be-ye-converted?lang=eng
   year: 2013
-- article_id: 10791_000_44maynes
-  item: '042'
-  key: 042-the-strength-to-endure
+- item: 25
+  key: 024-the-strength-to-endure
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-strength-to-endure
-  speaker: "By Elder Richard\_J. Maynes"
+  speaker: Richard J. Maynes
   title: The Strength to Endure
   url: https://www.lds.org/general-conference/2013/10/the-strength-to-endure?lang=eng
   year: 2013
-- article_id: 10791_000_45scott
-  item: '043'
-  key: 043-personal-strength-through-the-atonement-of-jesus-christ
+- item: 26
+  key: 025-personal-strength-through-the-atonement-of-jesus-christ
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: personal-strength-through-the-atonement-of-jesus-christ
-  speaker: "By Elder Richard\_G. Scott"
+  speaker: Richard G. Scott
   title: Personal Strength through the Atonement of Jesus Christ
   url: https://www.lds.org/general-conference/2013/10/personal-strength-through-the-atonement-of-jesus-christ?lang=eng
   year: 2013
-- article_id: 10791_000_46monson
-  item: '045'
-  key: 045-i-will-not-fail-thee-nor-forsake-thee
+- item: 27
+  key: 026-i-will-not-fail-thee-nor-forsake-thee
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: i-will-not-fail-thee-nor-forsake-thee
-  speaker: "By President Thomas\_S. Monson"
-  title: "\u201CI Will Not Fail Thee, nor Forsake Thee\u201D"
+  speaker: Thomas S. Monson
+  title: '"I Will Not Fail Thee, nor Forsake Thee"'
   url: https://www.lds.org/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng
   year: 2013
-- article_id: 10791_000_51cook
-  item: 049
-  key: 049-lamentations-of-jeremiah-beware-of-bondage
+- item: 28
+  key: 027-lamentations-of-jeremiah-beware-of-bondage
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: lamentations-of-jeremiah-beware-of-bondage
-  speaker: "By Elder Quentin\_L. Cook"
+  speaker: Quentin L. Cook
   title: 'Lamentations of Jeremiah: Beware of Bondage'
   url: https://www.lds.org/general-conference/2013/10/lamentations-of-jeremiah-beware-of-bondage?lang=eng
   year: 2013
-- article_id: 10791_000_52andersen
-  item: '050'
-  key: 050-power-in-the-priesthood
+- item: 29
+  key: 028-power-in-the-priesthood
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: power-in-the-priesthood
-  speaker: "By Elder Neil\_L. Andersen"
+  speaker: Neil L. Andersen
   title: Power in the Priesthood
   url: https://www.lds.org/general-conference/2013/10/power-in-the-priesthood?lang=eng
   year: 2013
-- article_id: 10791_000_53mcconkie
-  item: '051'
-  key: 051-teaching-with-the-power-and-authority-of-god
+- item: 30
+  key: 029-teaching-with-the-power-and-authority-of-god
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: teaching-with-the-power-and-authority-of-god
-  speaker: "By David\_M. McConkie"
+  speaker: David M. McConkie
   title: Teaching with the Power and Authority of God
   url: https://www.lds.org/general-conference/2013/10/teaching-with-the-power-and-authority-of-god?lang=eng
   year: 2013
-- article_id: 10791_000_54hamilton
-  item: '053'
-  key: 053-continually-holding-fast
+- item: 31
+  key: 030-continually-holding-fast
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: continually-holding-fast
-  speaker: "By Elder Kevin\_S. Hamilton"
+  speaker: Kevin S. Hamilton
   title: Continually Holding Fast
   url: https://www.lds.org/general-conference/2013/10/continually-holding-fast?lang=eng
   year: 2013
-- article_id: 10791_000_55ochoa
-  item: '054'
-  key: 054-look-up
+- item: 32
+  key: 031-look-up
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: look-up
-  speaker: "By Elder Adri\xE1n Ochoa"
+  speaker: "Adri\xE1n Ochoa"
   title: Look Up
   url: https://www.lds.org/general-conference/2013/10/look-up?lang=eng
   year: 2013
-- article_id: 10791_000_56vinson
-  item: '055'
-  key: 055-drawing-closer-to-god
+- item: 33
+  key: 032-drawing-closer-to-god
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: drawing-closer-to-god
-  speaker: "By Elder Terence\_M. Vinson"
+  speaker: Terence M. Vinson
   title: Drawing Closer to God
   url: https://www.lds.org/general-conference/2013/10/drawing-closer-to-god?lang=eng
   year: 2013
-- article_id: 10791_000_57nelson
-  item: '056'
-  key: 056-decisions-for-eternity
+- item: 34
+  key: 033-decisions-for-eternity
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: decisions-for-eternity
-  speaker: "By Elder Russell\_M. Nelson"
+  speaker: Russell M. Nelson
   title: Decisions for Eternity
   url: https://www.lds.org/general-conference/2013/10/decisions-for-eternity?lang=eng
   year: 2013
-- article_id: 10791_000_58monson
-  item: '057'
-  key: 057-till-we-meet-again
+- item: 35
+  key: 034-till-we-meet-again
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: till-we-meet-again
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: Till We Meet Again
   url: https://www.lds.org/general-conference/2013/10/till-we-meet-again?lang=eng
   year: 2013
-- article_id: 10791_000_61burton
-  item: '060'
-  key: 060-the-power-joy-and-love-of-covenant-keeping
+- item: 36
+  key: 035-the-power-joy-and-love-of-covenant-keeping
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: the-power-joy-and-love-of-covenant-keeping
-  speaker: "By Linda\_K. Burton"
+  speaker: Linda K. Burton
   title: The Power, Joy, and Love of Covenant Keeping
   url: https://www.lds.org/general-conference/2013/10/the-power-joy-and-love-of-covenant-keeping?lang=eng
   year: 2013
-- article_id: 10791_000_62stephens
-  item: '062'
-  key: 062-we-have-great-reason-to-rejoice
+- item: 37
+  key: 036-we-have-great-reason-to-rejoice
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: we-have-great-reason-to-rejoice
-  speaker: "By Carole\_M. Stephens"
+  speaker: Carole M. Stephens
   title: We Have Great Reason to Rejoice
   url: https://www.lds.org/general-conference/2013/10/we-have-great-reason-to-rejoice?lang=eng
   year: 2013
-- article_id: 10791_000_63reeves
-  item: '063'
-  key: 063-claim-the-blessings-of-your-covenants
+- item: 38
+  key: 037-claim-the-blessings-of-your-covenants
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: claim-the-blessings-of-your-covenants
-  speaker: "By Linda\_S. Reeves"
+  speaker: Linda S. Reeves
   title: Claim the Blessings of Your Covenants
   url: https://www.lds.org/general-conference/2013/10/claim-the-blessings-of-your-covenants?lang=eng
   year: 2013
-- article_id: 10791_000_64monson
-  item: '065'
-  key: 065-we-never-walk-alone
+- item: 39
+  key: 038-we-never-walk-alone
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: we-never-walk-alone
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: We Never Walk Alone
   url: https://www.lds.org/general-conference/2013/10/we-never-walk-alone?lang=eng
   year: 2013

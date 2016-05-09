@@ -238,3 +238,65 @@ all the blessings the Lord and His Church can bestow in this life and
 eternity. I bear my sure witness that the Savior lives. In the name of Jesus
 Christ, amen.
 
+## References
+
+  1. See [Doctrine and Covenants 112:30-32](https://www.lds.org/scriptures/dc-testament/dc/112.30-32?lang=eng#29).
+
+  2. The 12th temple, the London England Temple, was dedicated on September 7, 1958.
+
+  3. [Doctrine and Covenants 110:6-7](https://www.lds.org/scriptures/dc-testament/dc/110.6-7?lang=eng#5).
+
+  4. Shelly Senior, email, Apr. 6, 2015.
+
+  5. Thomas S. Monson, "[The Holy Temple--a Beacon to the World](https://www.lds.org/general-conference/2011/04/the-holy-temple-a-beacon-to-the-world?lang=eng),"_ Ensign _or_ Liahona,_ May 2011, 93.
+
+  6. See[ Isaiah 2:2](https://www.lds.org/scriptures/ot/isa/2.2?lang=eng#1).
+
+  7. See[ Obadiah 1:21](https://www.lds.org/scriptures/ot/obad/1.21?lang=eng#20).
+
+  8. See[ 1 Peter 4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5).
+
+  9. See _Teachings of Presidents of the Church: Joseph Smith_ (2007), 409.
+
+  10. See_ Teachings of Presidents of the Church: Wilford Woodruff_ (2004), 177, 192-93.
+
+  11. [Doctrine and Covenants 97:15](https://www.lds.org/scriptures/dc-testament/dc/97.15?lang=eng#14); see also [verse 17](https://www.lds.org/scriptures/dc-testament/dc/97.17?lang=eng#16).
+
+  12. [Isaiah 1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).
+
+  13. [Jeremiah 31:34](https://www.lds.org/scriptures/ot/jer/31.34?lang=eng#33).
+
+  14. See[ Doctrine and Covenants 59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22).
+
+  15. In addition to the recommend held by endowed adults, a limited-use recommend for baptisms for the dead may be received by worthy youth and unendowed adults. Both recommends require the signature of the recipient certifying personal worthiness. The limited-use recommend is valid for one year and provides an opportunity for the bishopric to discuss with each person his or her worthiness annually.
+
+  16. _Teachings of Presidents of the Church: Brigham Young_ (1997), 32.
+
+  17. See[ Doctrine and Covenants 58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41).
+
+  18. [Acts 10:34](https://www.lds.org/scriptures/nt/acts/10.34?lang=eng#33); see also [Moroni 8:12](https://www.lds.org/scriptures/bofm/moro/8.12?lang=eng#11); [Doctrine and Covenants 1:35](https://www.lds.org/scriptures/dc-testament/dc/1.35?lang=eng#34);[ 38:16](https://www.lds.org/scriptures/dc-testament/dc/38.16?lang=eng#15).
+
+  19. See[ Doctrine and Covenants 100:16](https://www.lds.org/scriptures/dc-testament/dc/100.16?lang=eng#15).
+
+  20. "[The Family: A Proclamation to the World](https://www.lds.org/liahona/2010/11/the-family-a-proclamation-to-the-world.p1?lang=eng)_," Ensign _or_ Liahona,_ Nov. 2010, 129.
+
+  21. Gerrit W. Gong, "[Temple Mirrors of Eternity: A Testimony of Family](https://www.lds.org/general-conference/2010/10/temple-mirrors-of-eternity-a-testimony-of-family?lang=eng),"_ Ensign _or_ Liahona,_ Nov. 2010, 37.
+
+  22. _Teachings of the Presidents of the Church: Howard W. Hunter _(2015), 183.
+
+  23. _Teachings: Howard W. Hunter,_ 178.
+
+  24. See[ Doctrine and Covenants 97:13-14](https://www.lds.org/scriptures/dc-testament/dc/97.13-14?lang=eng#12).
+
+  25. See[ Doctrine and Covenants 45:26-27](https://www.lds.org/scriptures/dc-testament/dc/45.26-27?lang=eng#25).
+
+  26. We often refer to this as the spirit of Elijah. President Russell M. Nelson has taught that the spirit of Elijah is "a manifestation of the Holy Ghost bearing witness of the divine nature of the family" ("[A New Harvest Time](https://www.lds.org/general-conference/1998/04/a-new-harvest-time?lang=eng)," _Ensign,_ May 1998, 34).
+
+  27. Shared with permission.
+
+  28. Thomas S. Monson, "[The Holy Temple--a Beacon to the World](https://www.lds.org/general-conference/2011/04/the-holy-temple-a-beacon-to-the-world?lang=eng)," 93.
+
+  29. Missionaries and youth brought in from outer islands were housed in safe Church schools and Church buildings and were safe from the worst aspects of Cyclone Winston.
+
+  30. Gordon B. Hinckley, "[Four Cornerstones of Faith](https://www.lds.org/liahona/2004/02/four-cornerstones-of-faith?lang=eng)_,_"_ Ensign _or_ Liahona,_ Feb. 2004, 4-5.
+

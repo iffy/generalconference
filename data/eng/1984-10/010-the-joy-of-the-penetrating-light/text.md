@@ -57,7 +57,7 @@ ear heavy, that it cannot hear:
 
 "But your iniquities have separated between you and your God, and your sins
 have hid his face from you, that he will not hear." ([Isa.
-59:1-2](https://www.lds.org/scriptures/ot/isa/59.1-2?lang=eng#0).)
+59:1-2](/scriptures/ot/isa/59.1-2?lang=eng#0).)
 
 He can now see that no matter how numerous the sins of a human being can be,
 they all can be traced back to one single source or origin--the laziness,
@@ -71,7 +71,7 @@ and follow me.
 
 "For whosoever will save his life shall lose it: and whosoever will lose his
 life for my sake shall find it." ([Matt.
-16:24-25](https://www.lds.org/scriptures/nt/matt/16.24-25?lang=eng#23).)
+16:24-25](/scriptures/nt/matt/16.24-25?lang=eng#23).)
 
 He understands that the Lord knew there could be no compromise made. When we
 are not fully dedicated, we cannot truly stand in His light and be His
@@ -82,7 +82,7 @@ farewell, which are at home at my house.
 
 "And Jesus said unto him, No man, having put his hand to the plough, and
 looking back, is fit for the kingdom of God." ([Luke
-9:61-62](https://www.lds.org/scriptures/nt/luke/9.61-62?lang=eng#60).)
+9:61-62](/scriptures/nt/luke/9.61-62?lang=eng#60).)
 
 In light of this Spirit within him, he is not afraid of what his friends and
 relatives might think of him now that he has taken upon himself Christ's name.
@@ -112,14 +112,14 @@ this light gives him the knowledge that he will always listen to that Spirit
 that teaches a man to pray, about which Nephi, the prophet of whom he has just
 learned, testified: "For if ye would hearken unto the Spirit which teacheth a
 man to pray ye would know that ye must pray." ([2 Ne.
-32:8](https://www.lds.org/scriptures/bofm/2-ne/32.8?lang=eng#7).)
+32:8](/scriptures/bofm/2-ne/32.8?lang=eng#7).)
 
 He now understands that by the authority of this Spirit he was led to grow in
 reverence, that the words of his prayers became fewer and fewer until he
 became quiet and was changed from someone who was speaking to someone who was
 listening--listening to the still, soft, sweet voice whose word is quick and
-powerful, and "sharper than a two-edged sword." ([D&amp;C
-6:2](https://www.lds.org/scriptures/dc-testament/dc/6.2?lang=eng#1).)
+powerful, and "sharper than a two-edged sword." ([D&amp;C 6:2](/scriptures/dc-
+testament/dc/6.2?lang=eng#1).)
 
 My dear brothers and sisters in the covenant, how blessed are we that _our_
 eyes have been opened and _our_ hearts have been touched with the awareness of
@@ -142,8 +142,7 @@ sins? ...
 
 "Behold, he sendeth an invitation unto all men, for the arms of mercy are
 extended towards them, and he saith: Repent, and I will receive you." ([Alma
-5:14, 27,
-33](https://www.lds.org/scriptures/bofm/alma/5.14%2C27%2C33?lang=eng#13).)
+5:14, 27, 33](/scriptures/bofm/alma/5.14,27,33?lang=eng#13).)
 
 My dear brothers and sisters, let us learn to be always enlightened with the
 powerful understanding of the need for a constant change of heart, that the
@@ -156,4 +155,6 @@ without whom there will be no peace and no salvation, even the Lord, Jesus
 Christ.
 
 I say this humbly in His name, amen.
+
+## References
 

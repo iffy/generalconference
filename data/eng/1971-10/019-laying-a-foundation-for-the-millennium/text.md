@@ -6,11 +6,11 @@ Saints here present this afternoon.
 
 The Savior said, "Man shall not live by bread alone, but by every word that
 proceedeth out of the mouth of God." ([Matt.
-4:4](https://www.lds.org/scriptures/nt/matt/4.4?lang=eng#3).) I am sure that
-those of us who have been privileged to attend the last three sessions of this
-conference have felt a realization that we have truly been fed the bread of
-life eternal. We have had some wonderful counsel and inspiration given to us
-by the servants of the Lord.
+4:4](/scriptures/nt/matt/4.4?lang=eng#3).) I am sure that those of us who have
+been privileged to attend the last three sessions of this conference have felt
+a realization that we have truly been fed the bread of life eternal. We have
+had some wonderful counsel and inspiration given to us by the servants of the
+Lord.
 
 Bread will keep the body alive, but it takes more than that to keep the spirit
 alive. The music has been wonderful, and I would like to compliment these
@@ -44,14 +44,14 @@ those things which were written in the books, according to their works--not
 just their faith, not just what they say with their mouths, but by their
 works. And death and hell delivered up the dead which were in them and they
 were judged every man according to his works. (See [Rev.
-20:12-14](https://www.lds.org/scriptures/nt/rev/20.12-14?lang=eng#11).)
+20:12-14](/scriptures/nt/rev/20.12-14?lang=eng#11).)
 
 "... and they lived and reigned with Christ a thousand years. But the rest of
 the dead lived not again until the thousand years were finished. ... Blessed and
 holy is he that hath part in the first resurrection: on such the second death
 hath no power, but they shall be priests of God and of Christ, and shall reign
 with him a thousand years." ([Rev.
-20:4-6](https://www.lds.org/scriptures/nt/rev/20.4-6?lang=eng#3).)
+20:4-6](/scriptures/nt/rev/20.4-6?lang=eng#3).)
 
 Who is there whose testimony has ever been touched by the divine Spirit who
 would be satisfied to remain a thousand years when the trump of God should
@@ -61,9 +61,9 @@ obedience on our part to prepare ourselves for that glorious event.
 
 The Savior said, "... strait is the gate, and narrow is the way, which leadeth
 unto life, and few there be that find it." ([Matt.
-7:14](https://www.lds.org/scriptures/nt/matt/7.14?lang=eng#13).) And so we
-want to be sure that we are on that straight and narrow way which leadeth to
-life. He said on another occasion:
+7:14](/scriptures/nt/matt/7.14?lang=eng#13).) And so we want to be sure that
+we are on that straight and narrow way which leadeth to life. He said on
+another occasion:
 
 "... whosoever heareth these sayings of mine, and doeth them, I will liken him
 unto a wise man, which built his house upon a rock:
@@ -76,7 +76,7 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 The kind of foundation upon which we build our lives is just as important for
 our eternal happiness as is the kind of a foundation upon which they built
@@ -96,18 +96,17 @@ and how marriages could be performed in the churches all over the world until
 death do you part. What a flimsy concept! Why don't they go back to the time
 when God had finished the creation of this earth, and looked upon it and found
 it good, and placed Adam here, at which time he said: "It is not good that the
-man should be alone. ..." ([Gen.
-2:18](https://www.lds.org/scriptures/ot/gen/2.18?lang=eng#17).) He made a
-helpmeet for him, saying, "... and they shall be one flesh." ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23).) Now what God
-joins together and makes one flesh, you couldn't separate without having two
-halves instead of two wholes. Jesus repeated that statement when he said:
+man should be alone. ..." ([Gen. 2:18](/scriptures/ot/gen/2.18?lang=eng#17).) He
+made a helpmeet for him, saying, "... and they shall be one flesh." ([Gen.
+2:24](/scriptures/ot/gen/2.24?lang=eng#23).) Now what God joins together and
+makes one flesh, you couldn't separate without having two halves instead of
+two wholes. Jesus repeated that statement when he said:
 
 "For this cause shall a man leave father and mother, and shall cleave to his
 wife: and they twain shall be one flesh?
 
 "... what therefore God hath joined together, let not man put asunder." ([Matt.
-19:5-6](https://www.lds.org/scriptures/nt/matt/19.5-6?lang=eng#4).)
+19:5-6](/scriptures/nt/matt/19.5-6?lang=eng#4).)
 
 At the close of that meeting, I stood at the door to shake hands with the
 people as they left, and a man came up and introduced himself to me as a
@@ -162,8 +161,7 @@ asked if he could have gotten his boy back again. And yet here we come along
 with the knowledge of life eternal. Brother Marion G. Romney quoted this
 morning the revelation of the Lord where he said that in the resurrection
 children would come forth and grow up without sin unto salvation. (See
-[D&amp;C 45:58](https://www.lds.org/scriptures/dc-
-testament/dc/45.58?lang=eng#57).)
+[D&amp;C 45:58](/scriptures/dc-testament/dc/45.58?lang=eng#57).)
 
 There are those of us who have laid away our little ones in the grave, and we
 had that responsibility. A little daughter was born to us over in Holland
@@ -216,29 +214,26 @@ No other church in the world has such a foundation to build upon. In closing,
 I would like to recite some of them:
 
 "We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in
-the Holy Ghost." [[A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0)] Two separate,
-distinct personages, the Prophet Joseph taught, with bodies of flesh and bone,
-and the Holy Ghost a personage of spirit.
+the Holy Ghost." [[A of F 1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0)] Two
+separate, distinct personages, the Prophet Joseph taught, with bodies of flesh
+and bone, and the Holy Ghost a personage of spirit.
 
 "We believe that men will be punished for their own sins, and not for Adam's
-transgression." [[A of F
-1:2](https://www.lds.org/scriptures/pgp/a-of-f/1.2?lang=eng#1)] There are not
-very many churches that believe this.
+transgression." [[A of F 1:2](/scriptures/pgp/a-of-f/1.2?lang=eng#1)] There
+are not very many churches that believe this.
 
 "We believe that through the Atonement of Christ, all mankind may be saved, by
 obedience to the laws and ordinances of the Gospel." [[A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2)] Most of the
-preaching today is that all you have to do is to confess him as your Savior,
-but our statement is that we have to _do _what he says.
+1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2)] Most of the preaching today is
+that all you have to do is to confess him as your Savior, but our statement is
+that we have to _do _what he says.
 
 "We believe that the first principles and ordinances of the Gospel are: first,
 Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by
 immersion for the remission of sins; fourth, Laying on of hands for the gift
-of the Holy Ghost." [[A of F
-1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3)] I don't
-believe there is any other church in the world built upon that foundation, and
-yet if we turn to the sixth chapter of Hebrews, Paul says:
+of the Holy Ghost." [[A of F 1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3)] I
+don't believe there is any other church in the world built upon that
+foundation, and yet if we turn to the sixth chapter of Hebrews, Paul says:
 
 "... leaving the principles of the doctrine of Christ, let us go on unto
 perfection; not laying again the foundation of repentance from dead works, and
@@ -246,57 +241,56 @@ of faith toward God.
 
 "Of the doctrine of baptisms, and of laying on of hands, and of resurrection
 of the dead, and of eternal judgment." ([Heb.
-6:1-2](https://www.lds.org/scriptures/nt/heb/6.1-2?lang=eng#0).)
+6:1-2](/scriptures/nt/heb/6.1-2?lang=eng#0).)
 
 That is exactly the same as we have it in our Articles of Faith.
 
 "We believe that a man must be called of God, by prophecy, and by the laying
 on of hands, by those who are in authority to preach the Gospel and administer
 in the ordinances thereof." [[A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4)] No other
-church believes that; they think they have authority by reading their Bibles.
+1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4)] No other church believes that;
+they think they have authority by reading their Bibles.
 
 "We believe in the same organization that existed in the Primitive Church,
 viz., apostles, prophets, pastors, teachers, evangelists, etc." [[A of F
-1:6](https://www.lds.org/scriptures/pgp/a-of-f/1.6?lang=eng#5)] Paul tells us
-that his church is built upon the foundation of apostles and prophets, with
-Christ himself being the chief cornerstone; and no other church has such a
-foundation.
+1:6](/scriptures/pgp/a-of-f/1.6?lang=eng#5)] Paul tells us that his church is
+built upon the foundation of apostles and prophets, with Christ himself being
+the chief cornerstone; and no other church has such a foundation.
 
 "We believe in the gift of tongues, prophecy, revelation, visions, healings,
 interpretation of tongues, and so forth." [[A of F
-1:7](https://www.lds.org/scriptures/pgp/a-of-f/1.7?lang=eng#6)]
+1:7](/scriptures/pgp/a-of-f/1.7?lang=eng#6)]
 
 "We believe the Bible to be the word of God as far as it is translated
 correctly; we also believe the Book of Mormon to be the word of God." [[A of F
-1:8](https://www.lds.org/scriptures/pgp/a-of-f/1.8?lang=eng#7)] And no man can
-believe the Bible without knowing that there is another volume of scripture
-that God has promised to bring forth and put with it and make them one in his
-hands.
+1:8](/scriptures/pgp/a-of-f/1.8?lang=eng#7)] And no man can believe the Bible
+without knowing that there is another volume of scripture that God has
+promised to bring forth and put with it and make them one in his hands.
 
 "We believe all that God has revealed, all that He does now reveal, and we
 believe that He will yet reveal many great and important things pertaining to
-the Kingdom of God." [[A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8)] In other
-words, we believe in continuous revelation and that Christ's true church is
-directed by revelation today.
+the Kingdom of God." [[A of F 1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8)] In
+other words, we believe in continuous revelation and that Christ's true church
+is directed by revelation today.
 
 And then, "We believe in the literal gathering of Israel and in the
 restoration of the Ten Tribes; that Zion will be built upon this [the
 American] continent; that Christ will reign personally upon the earth; and,
 that the earth will be renewed and receive its paradisiacal glory." [[A of F
-1:10](https://www.lds.org/scriptures/pgp/a-of-f/1.10?lang=eng#9)] We know
-these things, and Isaiah tells us that when that day shall come there shall be
-a new heaven and a new earth in which the lamb and the lion shall lie down
-together, and we shall build houses and inhabit them, and we shall plant
-vineyards and eat the fruit thereof. We shall not build that another shall
-inhabit, but every man shall enjoy the works of his own hands, and they are
-the blessed of the Lord and their offspring with them. (See [Isa.
-65:17-23](https://www.lds.org/scriptures/ot/isa/65.17-23?lang=eng#16).)
+1:10](/scriptures/pgp/a-of-f/1.10?lang=eng#9)] We know these things, and
+Isaiah tells us that when that day shall come there shall be a new heaven and
+a new earth in which the lamb and the lion shall lie down together, and we
+shall build houses and inhabit them, and we shall plant vineyards and eat the
+fruit thereof. We shall not build that another shall inhabit, but every man
+shall enjoy the works of his own hands, and they are the blessed of the Lord
+and their offspring with them. (See [Isa.
+65:17-23](/scriptures/ot/isa/65.17-23?lang=eng#16).)
 
 No wonder we ought to want to lay a foundation comparable to that foundation
 upon which the holy temple stands, so we can be sure that we will stand with
 our loved ones through the millennium. May God help each one of us and our
 families so to do, I pray, and leave you my blessing, in the name of the Lord
 Jesus Christ. Amen.
+
+## References
 

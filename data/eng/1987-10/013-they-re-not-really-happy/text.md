@@ -38,7 +38,7 @@ temptations of the world:
 "And it was filled with people, both old and young, ... and their manner of
 dress was exceedingly fine; and they were in the attitude of mocking and
 pointing their fingers towards those who ... were partaking of the fruit" ([1
-Ne. 8:26-27](https://www.lds.org/scriptures/bofm/1-ne/8.26-27?lang=eng#25)).
+Ne. 8:26-27](/scriptures/bofm/1-ne/8.26-27?lang=eng#25)).
 
 Even though you have a testimony and want to do what is right, it is difficult
 not to be drawn to the great and spacious building. From all appearances, the
@@ -100,9 +100,8 @@ intelligence insulted by such reasoning.
 When all of the evidence is in, the world's graduate school of hard knocks
 will teach what you young men were taught in the kindergarten of your
 spiritual training, "Wickedness never was happiness" ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)). Why wait
-for finite man to prove what his infinite Creator has already revealed to his
-prophets?
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9)). Why wait for finite man to
+prove what his infinite Creator has already revealed to his prophets?
 
 I know how much you like thrills, adventure, and excitement. Do you want
 excitement? I'll give you excitement. Do you realize you are outnumbered in
@@ -140,4 +139,6 @@ place at the table in front of your empty chair. You will see clearly the
 difference between telestial happiness and celestial happiness, and you will
 experience and savor celestial joy through this life and throughout all
 eternity. I so testify and promise, in the name of Jesus Christ, amen.
+
+## References
 

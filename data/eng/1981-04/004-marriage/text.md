@@ -2,8 +2,7 @@
 
 The prophet Jacob foretold the destruction of a people because they were blind
 to ordinary things, "which blindness," he said, "came by looking beyond the
-mark." ([Jacob
-4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13).)
+mark." ([Jacob 4:14](/scriptures/bofm/jacob/4.14?lang=eng#13).)
 
 We often seek for things we cannot seem to find when they are within easy
 reach--ordinary, obvious things.
@@ -185,7 +184,7 @@ death.
 
 The Lord has declared, "For behold, this is my work and my glory--to bring to
 pass the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 The ultimate end of all activity in the Church is that a man and his wife and
 their children can be happy at home and that the family can continue through
@@ -285,4 +284,6 @@ I thank God for marriage. I thank God for temples. I thank God for the
 glorious sealing power, that power which transcends all that we have been
 given, through which our marriages may become eternal. May we be worthy of
 this sacred gift, I pray in the name of Jesus Christ, amen.
+
+## References
 

@@ -4,11 +4,11 @@ _The following four addresses were given at the women's fireside held
 September 15 in the Tabernacle in Salt Lake City. Latter-day Saint women
 twelve and older met in 1,500 locations worldwide to listen to messages from
 President Spencer W. Kimball; Sister Barbara B. Smith, general president of
-the Relief Society; Sister Elaine Cannon, Young Women general president; and
-Sister Naomi Shumway, Primary general president. Since President Kimball was
-hospitalized at the time of the conference, his message was read by his wife,
-Camilla E. Kimball. Translations of addresses were recorded and sent in the
-appropriate languages to women of the Church who reside in non-English-
+the Relief Society; Sister Elaine A. Cannon, Young Women general president;
+and Sister Naomi Shumway, Primary general president. Since President Kimball
+was hospitalized at the time of the conference, his message was read by his
+wife, Camilla E. Kimball. Translations of addresses were recorded and sent in
+the appropriate languages to women of the Church who reside in non-English-
 speaking areas of the world. Tapes of the conference were sent to areas where
 direct-line broadcasts were not available._
 
@@ -26,15 +26,15 @@ truths. Let us begin with a few examples.
 
 The scriptures and the prophets have taught us clearly that God, who is
 perfect in his attribute of justice, "is no respecter of persons" ([Acts
-10:34](https://www.lds.org/scriptures/nt/acts/10.34?lang=eng#33)). We know
-also that God is perfect in his love for each and all of us as his spirit
-children. When we know these truths, my sisters and associates in this divine
-cause, it should help us greatly as we all experience much less than perfect
-love and perfect justice in the world. If, in the short term, we are sometimes
-dealt with insensitively and thoughtlessly by others, by imperfect men and
-women, it may still cause us pain, but such pain and disappointment are not
-the whole of life. The ways of the world will not prevail, for the ways of God
-will triumph.
+10:34](/scriptures/nt/acts/10.34?lang=eng#33)). We know also that God is
+perfect in his love for each and all of us as his spirit children. When we
+know these truths, my sisters and associates in this divine cause, it should
+help us greatly as we all experience much less than perfect love and perfect
+justice in the world. If, in the short term, we are sometimes dealt with
+insensitively and thoughtlessly by others, by imperfect men and women, it may
+still cause us pain, but such pain and disappointment are not the whole of
+life. The ways of the world will not prevail, for the ways of God will
+triumph.
 
 We had full equality as his spirit children. We have equality as recipients of
 God's perfected love for each of us. The late Elder John A. Widtsoe wrote:
@@ -49,9 +49,8 @@ These are eternal differences--with women being given many tremendous
 responsibilities of motherhood and sisterhood and men being given the
 tremendous responsibilities of fatherhood and the priesthood--but the man is
 not without the woman nor the woman without the man in the Lord (see [1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10)). Both a
-righteous man and a righteous woman are a blessing to all those their lives
-touch.
+11:11](/scriptures/nt/1-cor/11.11?lang=eng#10)). Both a righteous man and a
+righteous woman are a blessing to all those their lives touch.
 
 Remember, in the world before we came here, faithful women were given certain
 assignments while faithful men were foreordained to certain priesthood tasks.
@@ -90,7 +89,7 @@ True, there are some temporary differences and some constraining
 circumstances. Some of you have lost your husbands through death, others
 through divorce. Some of you have not yet had the great privilege of marriage.
 But, on the scale of eternity, the missing of these blessings "shall be but a
-small moment" (see [D&amp;C 121:7](https://www.lds.org/scriptures/dc-
+small moment" (see [D&amp;C 121:7](/scriptures/dc-
 testament/dc/121.7?lang=eng#6)).
 
 Others of the sisters are experiencing the anguish that often goes with aging.
@@ -187,9 +186,8 @@ days.
 No wonder the adversary strives, even now, to prevent this from happening!
 Regardless of who is getting the adversary's special attention at any given
 time, he seeks to make all people "miserable like unto himself" ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)). Indeed, he
-seeks "the misery of all mankind" ([2 Ne.
-2:18](https://www.lds.org/scriptures/bofm/2-ne/2.18?lang=eng#17)). He is
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)). Indeed, he seeks "the misery
+of all mankind" ([2 Ne. 2:18](/scriptures/bofm/2-ne/2.18?lang=eng#17)). He is
 undeviating in his purposes and is clever and relentless in his pursuit of
 them.
 
@@ -208,4 +206,6 @@ I know that God lives, that Jesus is his Only Begotten Son, the Redeemer of
 the world, and that this is the Church of Jesus Christ, with him as its head.
 I leave this testimony with you with my love and my blessings. In the name of
 Jesus Christ, amen.
+
+## References
 

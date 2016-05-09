@@ -30,14 +30,7 @@ needs is our own energy and ability, with help to and from our own families.
 I should like to discuss five prescriptions which, if followed, will make each
 of us better able to control our destinies.
 
-First prescription: Practice thrift and frugality. There is a wise old saying:
-"Eat it up, wear it out, make it do, or do without." Thrift is a practice of
-not wasting anything. Some people are able to get by because of the absence of
-expense. They have their shoes resoled, they patch, they mend, they sew, and
-they save money. They avoid installment buying, and make purchases only after
-saving enough to pay cash, thus avoiding interest charges. _Frugality_ means
-to practice careful economy. (See _Webster's New World Dictionary,_ 2d.
-college edition.)
+**First prescription: Practice thrift and frugality. **There is a wise old saying: "Eat it up, wear it out, make it do, or do without." Thrift is a practice of not wasting anything. Some people are able to get by because of the absence of expense. They have their shoes resoled, they patch, they mend, they sew, and they save money. They avoid installment buying, and make purchases only after saving enough to pay cash, thus avoiding interest charges. _Frugality_ means to practice careful economy. (See _Webster's New World Dictionary,_ 2d. college edition.)
 
 The old couplet "Waste not, want not" still has much merit. Frugality requires
 that we live within our income and save a little for a rainy day, which always
@@ -65,8 +58,7 @@ family unprotected against severe financial storms. Homes that are free and
 clear of mortgages and liens cannot be foreclosed on. When there are good
 financial times, it is the most opportune time to retire our debts and pay
 installments in advance. It is a truth that "the borrower is servant to the
-lender." ([Prov.
-22:7](https://www.lds.org/scriptures/ot/prov/22.7?lang=eng#6).)
+lender." ([Prov. 22:7](/scriptures/ot/prov/22.7?lang=eng#6).)
 
 Many young people have become so hypnotized by the rhythm of monthly payments
 they scarcely think of the total cost of what they buy. They immediately want
@@ -76,14 +68,7 @@ stylish clothes just so we can "keep up with the Joneses." Payment of
 obligations is a sacred trust. Most of us will never be rich, but we can feel
 greatly unburdened when we are debt-free.
 
-Second prescription: Seek to be independent. The Lord said that it is
-important for the Church to "stand independent above all other creatures
-beneath the celestial world." ([D&amp;C 78:14](https://www.lds.org/scriptures
-/dc-testament/dc/78.14?lang=eng#13).) Members of the Church are also counseled
-to be independent. Independence means many things. It means being free of
-drugs that addict, habits that bind, and diseases that curse. It also means
-being free of personal debt and of the interest and carrying charges required
-by debt the world over.
+**Second prescription: Seek to be independent. **The Lord said that it is important for the Church to "stand independent above all other creatures beneath the celestial world." ([D&amp;C 78:14](/scriptures/dc-testament/dc/78.14?lang=eng#13).) Members of the Church are also counseled to be independent. Independence means many things. It means being free of drugs that addict, habits that bind, and diseases that curse. It also means being free of personal debt and of the interest and carrying charges required by debt the world over.
 
 President J. Reuben Clark's classic statement on interest bears repeating:
 
@@ -120,10 +105,7 @@ discharging this debt to the Lord, one enjoys great personal satisfaction.
 Unfortunately this great satisfaction will be known only by those who have the
 faith and strength to keep this commandment.
 
-Third prescription: Be industrious. To be industrious involves energetically
-managing our circumstances to our advantage. It also means to be enterprising
-and to take advantage of opportunities. Industry requires resourcefulness. A
-good idea can be worth years of struggle.
+**Third prescription: Be industrious. **To be industrious involves energetically managing our circumstances to our advantage. It also means to be enterprising and to take advantage of opportunities. Industry requires resourcefulness. A good idea can be worth years of struggle.
 
 A friend who owned some fertile fields complained to his sister about his lack
 of means. "What about your crops?" asked the sister. The impoverished man
@@ -137,7 +119,7 @@ The great poet Virgil said, "They conquer who believe they can."
 Daniels, Thomas C. Jones, Chicago: J. C. Ferguson Publishing Co., 1969, p.
 661.) Alma testified, speaking of a just God, "I know that he granteth unto
 men according to their desire." ([Alma
-29:4](https://www.lds.org/scriptures/bofm/alma/29.4?lang=eng#3).)
+29:4](/scriptures/bofm/alma/29.4?lang=eng#3).)
 
 To be industrious involves work. It involves creativity. It also involves
 rest. It includes both aspects of Sabbath day observance. On the one hand, we
@@ -145,12 +127,7 @@ are to labor six days. On the other hand, we are to rest one day. This rest
 will leave us with more energy and resources to make the rest of the week more
 productive and fruitful.
 
-Fourth prescription: Become self-reliant. I have always admired those who have
-the ability and skills to make things with their hands. When those skills were
-passed out in the previous world, I must have been out to lunch. The ability
-to make repairs around the home, to improvise, to take care of our own
-machinery, to keep our automobiles running, is not only an economic advantage,
-but it also provides much emotional resilience.
+**Fourth prescription: Become self-reliant. **I have always admired those who have the ability and skills to make things with their hands. When those skills were passed out in the previous world, I must have been out to lunch. The ability to make repairs around the home, to improvise, to take care of our own machinery, to keep our automobiles running, is not only an economic advantage, but it also provides much emotional resilience.
 
 President Spencer W. Kimball counseled: "I hope that we understand that, while
 having a garden, for instance, is often useful in reducing food costs and
@@ -165,19 +142,7 @@ live providently and extend to our children their pioneer heritage." (in
 Conference Report, Oct. 1977, p. 125; or _Ensign,_ Nov. 1977, p. 78.) This
 heritage includes teaching our children how to work.
 
-Fifth prescription: Strive to have a year's supply of food and clothing. The
-counsel to have a year's supply of basic food, clothing, and commodities was
-given fifty years ago and has been repeated many times since. Every father and
-mother are the family's storekeepers. They should store whatever their own
-family would like to have in the case of an emergency. Most of us cannot
-afford to store a year's supply of luxury items, but find it more practical to
-store staples that might keep us from starving in case of emergency. Surely we
-all hope that the hour of need will never come. Some have said, "We have
-followed this counsel in the past and have never had need to use our year's
-supply, so we have difficulty keeping this in mind as a major priority."
-Perhaps following this counsel could be the reason why they have not needed to
-use their reserve. By continued rotation of the supply it can be kept usable
-with no waste.
+**Fifth prescription: Strive to have a year's supply of food and clothing. **The counsel to have a year's supply of basic food, clothing, and commodities was given fifty years ago and has been repeated many times since. Every father and mother are the family's storekeepers. They should store whatever their own family would like to have in the case of an emergency. Most of us cannot afford to store a year's supply of luxury items, but find it more practical to store staples that might keep us from starving in case of emergency. Surely we all hope that the hour of need will never come. Some have said, "We have followed this counsel in the past and have never had need to use our year's supply, so we have difficulty keeping this in mind as a major priority." Perhaps following this counsel could be the reason why they have not needed to use their reserve. By continued rotation of the supply it can be kept usable with no waste.
 
 The Church cannot be expected to provide for every one of its millions of
 members in case of public or personal disaster. It is therefore necessary that
@@ -188,8 +153,7 @@ are provident and wise in the management of our personal and family affairs
 and are faithful, God will sustain us through our trials. He has revealed:
 "For the earth is full, and there is enough and to spare; yea, I prepared all
 things, and have given unto the children of men to be agents unto themselves."
-([D&amp;C 104:17](https://www.lds.org/scriptures/dc-
-testament/dc/104.17?lang=eng#16).)
+([D&amp;C 104:17](/scriptures/dc-testament/dc/104.17?lang=eng#16).)
 
 Much of our own well-being is bound up in caring for others. Good King
 Benjamin, speaking through the pages of the Book of Mormon, counsels, "I would
@@ -197,7 +161,7 @@ that ye should impart of your substance to the poor, every man according to
 that which he hath, such as feeding the hungry, clothing the naked, visiting
 the sick and administering to their relief, both spiritually and temporally,
 according to their wants." ([Mosiah
-4:26](https://www.lds.org/scriptures/bofm/mosiah/4.26?lang=eng#25).)
+4:26](/scriptures/bofm/mosiah/4.26?lang=eng#25).)
 
 You may ask, "How can I discern which of the prophetic utterances of this
 conference have a particular message for me?" My answer is, you can know. You
@@ -206,9 +170,9 @@ earnestly seek to know. Your own inspiration will be an unerring vibration
 through the companionship of the Holy Ghost. As the Lord spoke to Elijah, this
 will come, not in the great strong wind, nor in the earthquake, nor in the
 fire, but in a still, small voice. (See [1 Kgs.
-19:11-12](https://www.lds.org/scriptures/ot/1-kgs/19.11-12?lang=eng#10).) This
-will help us, if necessary, to make the required change in our lives and life-
-styles to get onto a sure course.
+19:11-12](/scriptures/ot/1-kgs/19.11-12?lang=eng#10).) This will help us, if
+necessary, to make the required change in our lives and life-styles to get
+onto a sure course.
 
 The parable of the ten virgins, five wise and five foolish, has both a
 spiritual and a temporal application. Each of us has a lamp to light the way,
@@ -216,10 +180,11 @@ but it requires that every one of us put the oil in our own lamps to produce
 that light. It is not enough to sit idly by and say, "The Lord will provide."
 He has promised that they who are wise and "have taken the Holy Spirit for
 their guide" will have the earth given unto them. ([D&amp;C
-45:57-58](https://www.lds.org/scriptures/dc-
-testament/dc/45.57-58?lang=eng#56).) It is further promised that "the Lord
-shall be in their midst, and his glory shall be upon them, and he will be
-their king and their lawgiver." ([D&amp;C
-45:59](https://www.lds.org/scriptures/dc-testament/dc/45.59?lang=eng#58).) May
-it ever be so I pray humbly in the name of Jesus Christ, amen.
+45:57-58](/scriptures/dc-testament/dc/45.57-58?lang=eng#56).) It is further
+promised that "the Lord shall be in their midst, and his glory shall be upon
+them, and he will be their king and their lawgiver." ([D&amp;C
+45:59](/scriptures/dc-testament/dc/45.59?lang=eng#58).) May it ever be so I
+pray humbly in the name of Jesus Christ, amen.
+
+## References
 

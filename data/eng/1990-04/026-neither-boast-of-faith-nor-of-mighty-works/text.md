@@ -37,7 +37,7 @@ rejoice in my God.
 not boast of myself, but I will boast of my God, for in his strength I can do
 all things; yea, behold, many mighty miracles we have wrought in this land,
 for which we will praise his name forever." ([Alma
-26:10-12](https://www.lds.org/scriptures/bofm/alma/26.10-12?lang=eng#9).)
+26:10-12](/scriptures/bofm/alma/26.10-12?lang=eng#9).)
 
 In our conversations and conduct we can be much more effective if we avoid the
 demeaning effect of that which could be classified as boasting. We should
@@ -87,27 +87,24 @@ Helaman's advice to his sons, Nephi and Lehi, can give us strength today:
 "And now my sons, behold I have somewhat more to desire of you, which desire
 is, that ye may not do these things that ye may boast, but that ye may do
 these things to lay up for yourselves a treasure in heaven, yea, which is
-eternal." ([Hel.
-5:7-8](https://www.lds.org/scriptures/bofm/hel/5.7-8?lang=eng#6).)
+eternal." ([Hel. 5:7-8](/scriptures/bofm/hel/5.7-8?lang=eng#6).)
 
 Helaman wanted his sons to do good for the right reasons--not to boast, but to
 lay up treasures in heaven.
 
 "Let not thy left hand know what thy right hand doeth" is counsel often
-stated. ([Matt. 6:3](https://www.lds.org/scriptures/nt/matt/6.3?lang=eng#2).)
-This is especially true when we have had the opportunity to comfort, console,
-or counsel any fellowmen who are confused, troubled, or weary. Whatever
-success we might have had as we have tried to help should usually not be
-discussed, let alone boasted about. Humble, quiet, compassionate service is so
-soul-rewarding; who would need to point out the subject or location of kindly
-deeds?
+stated. ([Matt. 6:3](/scriptures/nt/matt/6.3?lang=eng#2).) This is especially
+true when we have had the opportunity to comfort, console, or counsel any
+fellowmen who are confused, troubled, or weary. Whatever success we might have
+had as we have tried to help should usually not be discussed, let alone
+boasted about. Humble, quiet, compassionate service is so soul-rewarding; who
+would need to point out the subject or location of kindly deeds?
 
 "For although a man may have many revelations, and have power to do many
 mighty works, yet if he boasts in his own strength, and sets at naught the
 counsels of God, and follows after the dictates of his own will and carnal
 desires, he must fall and incur the vengeance of a just God upon him."
-([D&amp;C 3:4](https://www.lds.org/scriptures/dc-
-testament/dc/3.4?lang=eng#3).)
+([D&amp;C 3:4](/scriptures/dc-testament/dc/3.4?lang=eng#3).)
 
 How easy it is for man to believe that temporal success has been achieved by
 his own skills and labor. Everything good comes from the Lord.
@@ -148,8 +145,7 @@ It pleases God to have us humbly recognize his powers and his influence in our
 accomplishments rather than to indicate by words or innuendo that we have been
 responsible for remarkable achievements.
 
-We learn from [James
-3:5](https://www.lds.org/scriptures/nt/james/3.5?lang=eng#4) that often "the
+We learn from [James 3:5](/scriptures/nt/james/3.5?lang=eng#4) that often "the
 tongue is a little member, and boasteth great things." No thinking Latter-day
 Saint will permit his comments, attitudes, or expressions to be construed as
 boasting in his own strength. Those who persist in boasting fail to recognize
@@ -176,22 +172,21 @@ We would all do well to take a lesson from the Savior, who repeatedly
 acknowledged and gave credit to the Father in all things. Indeed, that
 precedent was set in the premortal council when Jesus Christ pledged the
 fruits of all he might himself accomplish to go to the Father: "And the glory
-be thine forever." ([Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).)
+be thine forever." ([Moses 4:2](/scriptures/pgp/moses/4.2?lang=eng#1).)
 
 During his mortal ministry, Jesus raised Jairus's daughter to life. "And her
 parents were astonished," Luke says, as well they should have been, "but he
 charged them that they should tell no man." ([Luke
-8:56](https://www.lds.org/scriptures/nt/luke/8.56?lang=eng#55).) Mark's
-account says, "he charged them straitly that no man should know it." ([Mark
-5:43](https://www.lds.org/scriptures/nt/mark/5.43?lang=eng#42).)
+8:56](/scriptures/nt/luke/8.56?lang=eng#55).) Mark's account says, "he charged
+them straitly that no man should know it." ([Mark
+5:43](/scriptures/nt/mark/5.43?lang=eng#42).)
 
 This wondrous deed that turned death into life, that bore record of the
 divinity of the One who even now was forecasting his own future victory over
 the grave, that could be performed only in righteousness and only by the power
 of God--this mighty miracle should, as Matthew says, send His fame into all
 the land on its own merits. (See [Matt.
-4:24](https://www.lds.org/scriptures/nt/matt/4.24?lang=eng#23).)
+4:24](/scriptures/nt/matt/4.24?lang=eng#23).)
 
 Indeed, the parents could not enshroud in secrecy that which was already
 public knowledge; everyone in the whole area would soon know, because of the
@@ -199,9 +194,9 @@ way Jesus himself had handled the successive events, that the little maid who
 once was dead now lived. Her death had been announced openly to the multitude.
 Jesus himself had replied before the multitude that, notwithstanding her
 death, she would "be made whole." ([Luke
-8:50](https://www.lds.org/scriptures/nt/luke/8.50?lang=eng#49).) All the
-people would soon know that she now lived and could only be expected to wonder
-how and by what means life had come to her again.
+8:50](/scriptures/nt/luke/8.50?lang=eng#49).) All the people would soon know
+that she now lived and could only be expected to wonder how and by what means
+life had come to her again.
 
 The parents were charged to tell no man, but instead left the telling of this
 wondrous event to outsiders who were aware of the miracle. We as a matter of
@@ -213,8 +208,8 @@ the very truth taught by Jesus anciently, the Lord has said:
 
 "But a commandment I give unto them, that they shall not boast themselves of
 these things, neither speak them before the world; for these things are given
-unto you for your profit and for salvation." ([D&amp;C
-84:73](https://www.lds.org/scriptures/dc-testament/dc/84.73?lang=eng#72).)
+unto you for your profit and for salvation." ([D&amp;C 84:73](/scriptures/dc-
+testament/dc/84.73?lang=eng#72).)
 
 Perhaps the charge to "tell no man" meant they were not to tell the account in
 a boastful way, lest a spirit of pride--a spirit of self-adopted superiority--
@@ -228,9 +223,8 @@ we should realize the source of all our blessings.
 Everything is given by God. All talent, creativity, ability, insight, and
 strength comes from him. In our own strength we can do nothing, as Ammon
 admitted to his brother. (See [Alma
-26:10-12](https://www.lds.org/scriptures/bofm/alma/26.10-12?lang=eng#9).) When
-we seek the praise of man more than the praise of God, it will become easy to
-fall.
+26:10-12](/scriptures/bofm/alma/26.10-12?lang=eng#9).) When we seek the praise
+of man more than the praise of God, it will become easy to fall.
 
 Boasting will be erased when we seek the Lord's help and thank him for all we
 have and are.
@@ -243,4 +237,6 @@ boastings.
 I leave you my special witness of the truthfulness of this great work. All of
 us can more effectively share our knowledge and testimonies if we boast not.
 This I say in the name of Jesus Christ, amen.
+
+## References
 

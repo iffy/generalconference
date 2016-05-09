@@ -55,90 +55,8 @@ some of the bumps and bruises of life.
 I should like to offer what I have chosen to call "Four Bs for Boys." They
 are: (1) Be Smart, (2) Be Fair, (3) Be Clean, and (4) Be True.
 
-  1. _Be smart._
-
-By this I do not mean be smart-alecky or anything of that nature. I mean be
-wise. Be smart about training your minds and hands for the future. Each of you
-is a member of The Church of Jesus Christ of Latter-day Saints. Each of you is
-a son of God. You have an obligation to make the most of your life. Plan now
-for all the education you can get, and then work to bring to pass a
-fulfillment of that plan.
-
-You live in a complex age. The world needs men and women of ability and
-training. Do not short-circuit your education.
-
-I am not suggesting that all of you should become professional men. What I am
-suggesting is this: whatever you choose to do, train for it. Qualify
-yourselves. Take advantage of the experience and learning of those who have
-gone before you in whatever field you choose. Education is a shortcut to
-proficiency. It makes it possible to leapfrog over the mistakes of the past.
-Regardless of the vocation you choose, you can speed your journey in getting
-there through education.
-
-The Lord himself has said to all of us: "Seek ye out of the best books words
-of wisdom; seek learning, even by study and also by faith." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
-
-Over the years the Church has put vast sums of money into education, secular
-as well as religious. From the beginning of this work, our leaders have taught
-us the importance of training.
-
-Be smart. Do not forfeit the schooling that will enhance your future in order
-to satisfy your desire for immediate, fleeting pleasure. Cultivate the long
-view of your life. Most of you are going to be around for a good while.
-
-Be smart--in your appearance, in your deportment, in your manners. I am not
-suggesting that you go about dressed as a fashion plate. I am suggesting that
-you be clean and neat in your appearance, that you be gentle in your speech,
-that you be courteous and respectful in your manner. Each of you is a Mormon
-boy. Whether you think it or not, you will reflect good or ill on the Church
-by reason of your behavior.
-
-Be smart. Do not be so shortsighted as to indulge in the use of alcohol,
-tobacco, and drugs. It simply is not smart to do so. It is stupid, if you will
-pardon that harsh word, to use cocaine, marijuana, or any of the other drugs
-that rob you of control of your mind. After every drug-induced "high," there
-is a reactionary "low." Why spend money on that which can only harm you? Why
-become enslaved to a habit that can only hinder and short-circuit your future?
-
-Beer and other forms of alcohol will do you no good. Their use will be
-expensive, will dull your conscience, and could lead to the disease called
-alcoholism, which is humiliating, dangerous, and even deadly. Tobacco will
-shorten your life. Studies show that it will enslave you, weaken your lungs,
-and statistically that it will shorten your life seven minutes for each
-cigarette smoked.
-
-Be smart. Take the Lord at his word. His is the wonderful promise that those
-Saints who follow his counsel in these matters "shall find wisdom and great
-treasures of knowledge, even hidden treasures;
-
-"And shall run and not be weary, and shall walk and not faint." ([D&amp;C
-89:19-20](https://www.lds.org/scriptures/dc-
-testament/dc/89.19-20?lang=eng#18).)
-
-Young men, do you wish to run and not be weary and to walk and not faint and
-to grow in knowledge and understanding? Then be smart in shunning those things
-which inevitably will shackle you, adversely affect your health, cloud your
-minds, and shorten your lives.
-
-  2. _Be fair._
-
-We hear complaints that in high schools where Latter-day Saints are in the
-majority, those not of our faith feel discriminated against. Most of you will
-go on missions, we hope all of you. You will learn the importance of
-friendshipping and fellowshipping. Now is the time to practice these
-principles, to reach out with appreciation and kindness to others. Many a
-young man has come into this Church because of the friendship of a high school
-associate. I earnestly hope that no boy within the sound of my voice will ever
-do anything to prejudice an associate against the Church or its people.
-
-I should like to add that I feel that there is no real basis for such charges
-of discrimination. But, be they true or not, I want to suggest that we develop
-an outreaching attitude to help those who are not of us, to encourage them, to
-lead them in a gracious and kindly way toward those associations which could
-expose them to the wonderful programs of the Church.
-
-I think of Edwin Markham's poem:
+  1. _Be smart._ By this I do not mean be smart-alecky or anything of that nature. I mean be wise. Be smart about training your minds and hands for the future. Each of you is a member of The Church of Jesus Christ of Latter-day Saints. Each of you is a son of God. You have an obligation to make the most of your life. Plan now for all the education you can get, and then work to bring to pass a fulfillment of that plan. You live in a complex age. The world needs men and women of ability and training. Do not short-circuit your education. I am not suggesting that all of you should become professional men. What I am suggesting is this: whatever you choose to do, train for it. Qualify yourselves. Take advantage of the experience and learning of those who have gone before you in whatever field you choose. Education is a shortcut to proficiency. It makes it possible to leapfrog over the mistakes of the past. Regardless of the vocation you choose, you can speed your journey in getting there through education. The Lord himself has said to all of us: "Seek ye out of the best books words of wisdom; seek learning, even by study and also by faith." ([D&amp;C 88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).) Over the years the Church has put vast sums of money into education, secular as well as religious. From the beginning of this work, our leaders have taught us the importance of training. Be smart. Do not forfeit the schooling that will enhance your future in order to satisfy your desire for immediate, fleeting pleasure. Cultivate the long view of your life. Most of you are going to be around for a good while. Be smart--in your appearance, in your deportment, in your manners. I am not suggesting that you go about dressed as a fashion plate. I am suggesting that you be clean and neat in your appearance, that you be gentle in your speech, that you be courteous and respectful in your manner. Each of you is a Mormon boy. Whether you think it or not, you will reflect good or ill on the Church by reason of your behavior. Be smart. Do not be so shortsighted as to indulge in the use of alcohol, tobacco, and drugs. It simply is not smart to do so. It is stupid, if you will pardon that harsh word, to use cocaine, marijuana, or any of the other drugs that rob you of control of your mind. After every drug-induced "high," there is a reactionary "low." Why spend money on that which can only harm you? Why become enslaved to a habit that can only hinder and short-circuit your future? Beer and other forms of alcohol will do you no good. Their use will be expensive, will dull your conscience, and could lead to the disease called alcoholism, which is humiliating, dangerous, and even deadly. Tobacco will shorten your life. Studies show that it will enslave you, weaken your lungs, and statistically that it will shorten your life seven minutes for each cigarette smoked. Be smart. Take the Lord at his word. His is the wonderful promise that those Saints who follow his counsel in these matters "shall find wisdom and great treasures of knowledge, even hidden treasures; "And shall run and not be weary, and shall walk and not faint." ([D&amp;C 89:19-20](/scriptures/dc-testament/dc/89.19-20?lang=eng#18).) Young men, do you wish to run and not be weary and to walk and not faint and to grow in knowledge and understanding? Then be smart in shunning those things which inevitably will shackle you, adversely affect your health, cloud your minds, and shorten your lives. 
+  2. _Be fair._ We hear complaints that in high schools where Latter-day Saints are in the majority, those not of our faith feel discriminated against. Most of you will go on missions, we hope all of you. You will learn the importance of friendshipping and fellowshipping. Now is the time to practice these principles, to reach out with appreciation and kindness to others. Many a young man has come into this Church because of the friendship of a high school associate. I earnestly hope that no boy within the sound of my voice will ever do anything to prejudice an associate against the Church or its people. I should like to add that I feel that there is no real basis for such charges of discrimination. But, be they true or not, I want to suggest that we develop an outreaching attitude to help those who are not of us, to encourage them, to lead them in a gracious and kindly way toward those associations which could expose them to the wonderful programs of the Church. I think of Edwin Markham's poem: 
 
 _He drew a circle that shut me out--_
 
@@ -154,50 +72,21 @@ Felleman, New York: Doubleday, 1936, p. 67.)
 Now, in saying this I am not suggesting that LDS boys date non-LDS girls, or
 vice versa. Your chances for a happy and lasting marriage will be far greater
 if you will date those who are active and faithful in the Church. Such dating
-is most likely to lead to marriage in the House of the Lord.
+is most likely to lead to marriage in the House of the Lord. What I am
+speaking against is any attitude whatever that demeans, that downgrades, that
+leads to evil speaking of another. In athletic contests there is no occasion
+for booing and catcalls. Of course mistakes are made by umpires and referees.
+Of course players do things outside the rules. But the score will not be
+changed by all the booing in the world. Be fair. As you move onward in your
+lives, in your university studies and beyond, avoid shady and unfair
+practices. Clean competition is wholesome; but immoral, dishonest, or unfair
+practices are reprehensible, and particularly on the part of a Latter-day
+Saint. Be fair. The best rule ever given concerning standards of fairness was
+spoken by the Lord when he said, "Whatsoever ye would that men should do to
+you, do ye even so to them." ([Matt.
+7:12](/scriptures/nt/matt/7.12?lang=eng#11).)
 
-What I am speaking against is any attitude whatever that demeans, that
-downgrades, that leads to evil speaking of another.
-
-In athletic contests there is no occasion for booing and catcalls. Of course
-mistakes are made by umpires and referees. Of course players do things outside
-the rules. But the score will not be changed by all the booing in the world.
-
-Be fair. As you move onward in your lives, in your university studies and
-beyond, avoid shady and unfair practices. Clean competition is wholesome; but
-immoral, dishonest, or unfair practices are reprehensible, and particularly on
-the part of a Latter-day Saint.
-
-Be fair. The best rule ever given concerning standards of fairness was spoken
-by the Lord when he said, "Whatsoever ye would that men should do to you, do
-ye even so to them." ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11).)
-
-  3. _Be clean._
-
-The Lord himself said, "Be ye clean." ([D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).) I
-speak particularly of moral cleanliness. There is no substitute under the
-heavens for personal virtue.
-
-We live in a time when the world considers virtue lightly. You young men of
-the Church cannot consider it lightly. For a Latter-day Saint, loss of virtue
-inevitably means loss of self-respect, loss of respect for her with whom he
-transgresses, loss of discipline in managing one's mind and body, and loss of
-integrity as a holder of the priesthood. Of course there is repentance, and of
-course there is forgiveness. But there will also be heartache and regret and
-disappointment. There may likewise be cast a cloud upon your opportunity for
-future service in the Church.
-
-I am not asking you to be prudish. I am asking you to be virtuous, and I think
-there is a vast difference between the two.
-
-Be clean. Watch what you read. No good and much harm can come of reading
-pornographic magazines and other such literature. They will only stimulate
-within you thoughts that will weaken your discipline of yourself. No good will
-come of going to movies that are designed to take from you your money and give
-you in exchange only weakened wills and base desires.
-
+  3. _Be clean._ The Lord himself said, "Be ye clean." ([D&amp;C 38:42](/scriptures/dc-testament/dc/38.42?lang=eng#41).) I speak particularly of moral cleanliness. There is no substitute under the heavens for personal virtue. We live in a time when the world considers virtue lightly. You young men of the Church cannot consider it lightly. For a Latter-day Saint, loss of virtue inevitably means loss of self-respect, loss of respect for her with whom he transgresses, loss of discipline in managing one's mind and body, and loss of integrity as a holder of the priesthood. Of course there is repentance, and of course there is forgiveness. But there will also be heartache and regret and disappointment. There may likewise be cast a cloud upon your opportunity for future service in the Church. I am not asking you to be prudish. I am asking you to be virtuous, and I think there is a vast difference between the two. Be clean. Watch what you read. No good and much harm can come of reading pornographic magazines and other such literature. They will only stimulate within you thoughts that will weaken your discipline of yourself. No good will come of going to movies that are designed to take from you your money and give you in exchange only weakened wills and base desires. 
   4. Finally, _be true._
 
 You are youth of the noble birthright. You may not at this time know what that
@@ -271,4 +160,6 @@ _Faithful and true we will ever stand._
 And so, there are my "Four Bs for Boys": Be Smart, Be Fair, Be Clean, Be True.
 God has given you his holy priesthood. May you walk as young men so endowed, I
 humbly pray, in the name Jesus Christ, amen.
+
+## References
 

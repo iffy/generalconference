@@ -121,9 +121,7 @@ Rather than do that, I am going to ask him to tell it himself.
 May I introduce Brother William Sheffield, who was baptized last November.
 Brother Sheffield, come and tell us of your experience.
 
-William Sheffield: My dear brothers, following law school at Berkeley, I
-developed a successful private practice, particularly with international
-clients, including Indira Ghandi, former prime minister of India.
+**William Sheffield: **My dear brothers, following law school at Berkeley, I developed a successful private practice, particularly with international clients, including Indira Ghandi, former prime minister of India.
 
 For years as a lawyer I had sought a judicial appointment. The day the
 governor of California called to say I had been appointed to the Superior
@@ -141,7 +139,7 @@ there a purpose to life? Why am I here? Where am I going? Is the meaning of
 life found in chasing after the most pleasurable way to get through it--or is
 there something more? My Christian friends told me all I had to do was "knock
 and the door will be opened unto you, seek and ye shall find." (See [Matt.
-7:7](https://www.lds.org/scriptures/nt/matt/7.7?lang=eng#6).)
+7:7](/scriptures/nt/matt/7.7?lang=eng#6).)
 
 I began knocking. And as I knocked, the Lord answered. Like a seed growing
 within me, the gospel began taking over my life. I felt the Spirit calling me.
@@ -224,9 +222,11 @@ a priest and teacher unto the people:
 "And we did magnify our office unto the Lord, taking upon us the
 responsibility, answering the sins of the people upon our own heads if we did
 not teach them the word of God with all diligence." ([Jacob
-1:19](https://www.lds.org/scriptures/bofm/jacob/1.19?lang=eng#18).)
+1:19](/scriptures/bofm/jacob/1.19?lang=eng#18).)
 
 God bless you, my beloved brethren, young and old, to be faithful to the great
 responsibility placed upon us to share with others this most precious of all
 things, I humbly ask, in the name of Jesus Christ, amen.
+
+## References
 

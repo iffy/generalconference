@@ -4,7 +4,7 @@ After the resurrection of Christ, the Twelve Apostles preached the gospel in
 the city of Jerusalem. Their message touched the hearts of many people, and,
 upon testifying of the truthfulness of the Resurrection, they were asked, "Men
 and brethren, what shall we do?" ([Acts
-2:37](https://www.lds.org/scriptures/nt/acts/2.37?lang=eng#36).)
+2:37](/scriptures/nt/acts/2.37?lang=eng#36).)
 
 Ever since, this very question has been asked by people all over the world, by
 people like you and me. Daily we are confronted with decisions concerning our
@@ -42,22 +42,20 @@ helped me in my quest to take the Christian course.
 
 When a man asked Christ what he should do to inherit eternal life, He
 answered, "Love the Lord thy God ... and thy neighbour as thyself." ([Luke
-10:27](https://www.lds.org/scriptures/nt/luke/10.27?lang=eng#26).) Love is the
-essence of the gospel and the guiding light for a Christlike life. It not only
-teaches us to look upward but also to look around us. Our heart, might, and
-mind must be dedicated to the Lord and to our fellow men, women, and children.
-But what does that really mean? It means that we follow the admonition of the
+10:27](/scriptures/nt/luke/10.27?lang=eng#26).) Love is the essence of the
+gospel and the guiding light for a Christlike life. It not only teaches us to
+look upward but also to look around us. Our heart, might, and mind must be
+dedicated to the Lord and to our fellow men, women, and children. But what
+does that really mean? It means that we follow the admonition of the
 scripture, "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).) It means
-that we live the example of the good Samaritan, who was free of prejudice and
-excuses and therefore truly loved his neighbor. He went the second mile and
-gave of what he had despite all the odds. His life was one of single-minded
-service.
+14:15](/scriptures/nt/john/14.15?lang=eng#14).) It means that we live the
+example of the good Samaritan, who was free of prejudice and excuses and
+therefore truly loved his neighbor. He went the second mile and gave of what
+he had despite all the odds. His life was one of single-minded service.
 
 By contrast, the Apostle James observed that "a double minded man is unstable
-in all his ways." ([James
-1:8](https://www.lds.org/scriptures/nt/james/1.8?lang=eng#7).) An old Swiss
-saying describes such indecision in the following words:
+in all his ways." ([James 1:8](/scriptures/nt/james/1.8?lang=eng#7).) An old
+Swiss saying describes such indecision in the following words:
 
 _With one foot in,_
 
@@ -102,10 +100,10 @@ is our understanding and support.
 
 When Jesus came to the coast of Judea, a young man said to him, "All these
 things have I kept from my youth up: what lack I yet?" ([Matt.
-19:20](https://www.lds.org/scriptures/nt/matt/19.20?lang=eng#19).) The answer
-Christ gave was simple but powerful: "Go and sell that thou hast, and give to
-the poor, and thou shalt have treasure in heaven: and come and follow me."
-([Matt. 19:21](https://www.lds.org/scriptures/nt/matt/19.21?lang=eng#20).)
+19:20](/scriptures/nt/matt/19.20?lang=eng#19).) The answer Christ gave was
+simple but powerful: "Go and sell that thou hast, and give to the poor, and
+thou shalt have treasure in heaven: and come and follow me." ([Matt.
+19:21](/scriptures/nt/matt/19.21?lang=eng#20).)
 
 Christ speaks to all of us, not only to the young rich man who went away
 sorrowful. He commands us to give of our wealth, whatever it might be. For
@@ -160,10 +158,12 @@ all, it is a decision against a Christlike life.
 
 I testify to you that we can only be in the service of our God if we are in
 the service of our fellowmen. (See [Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).) I hope
-that we all have the wisdom and determination to decide today whom we want to
-serve. And I pray that we will decide together with the prophet Joshua, "As
-for me and my house, we will serve the Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).) In the name
-of Jesus Christ, amen.
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).) I hope that we all have the
+wisdom and determination to decide today whom we want to serve. And I pray
+that we will decide together with the prophet Joshua, "As for me and my house,
+we will serve the Lord." ([Josh.
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).) In the name of Jesus Christ,
+amen.
+
+## References
 

@@ -29,7 +29,7 @@ give them true freedom. There is no true freedom without responsibility, and
 there is no enduring freedom without a knowledge of the truth. The Lord said,
 "If ye continue in my word, then are ye my disciples indeed; and ye shall know
 the truth, and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30).)
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30).)
 
 The general quickly understood a truth that is missed even by some in the
 Church. Latter-day Saints are not obedient because they are compelled to be
@@ -39,7 +39,7 @@ commandments of God.
 
 We are the sons and daughters of God, willing followers, disciples of the Lord
 Jesus Christ, and "under this head are [we] made free." ([Mosiah
-5:8](https://www.lds.org/scriptures/bofm/mosiah/5.8?lang=eng#7).)
+5:8](/scriptures/bofm/mosiah/5.8?lang=eng#7).)
 
 Those who talk of blind obedience may appear to know many things, but they do
 not understand the doctrines of the gospel. There is an obedience that comes
@@ -55,9 +55,8 @@ Responsibility for teaching the doctrines rests upon parents.
 
 "The glory of God is intelligence, or, in other words, light and truth. Light
 and truth forsake [the] evil one. ... I have commanded _you_ to bring up _your
-children_ in light and truth." ([D&amp;C 93:36, 37,
-40](https://www.lds.org/scriptures/dc-
-testament/dc/93.36%2C37%2C40?lang=eng#35); italics added.)
+children_ in light and truth." ([D&amp;C 93:36, 37, 40](/scriptures/dc-
+testament/dc/93.36,37,40?lang=eng#35); italics added.)
 
 If all your children know about the gospel is what you have taught them at
 home, how safe will they be? Will they reject evil because they choose to
@@ -206,10 +205,11 @@ chosen for, the better part.
 In those discouraging hours before immature, disinterested, and sometimes
 impudent students, may you hear a voice as well. That still, small voice of
 inspiration whispering, "Teach ye diligently and my grace shall attend you."
-([D&amp;C 88:78](https://www.lds.org/scriptures/dc-
-testament/dc/88.78?lang=eng#77).)
+([D&amp;C 88:78](/scriptures/dc-testament/dc/88.78?lang=eng#77).)
 
 The Lord was a teacher. I bear testimony of Him, and pray that He will bless
 all those who follow in His footsteps to teach the gospel of Jesus Christ. In
 the name of Jesus Christ, amen.
+
+## References
 

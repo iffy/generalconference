@@ -8,23 +8,22 @@ first section of the Doctrine and Covenants, which reads:
 
 "He that receiveth my law and doeth it, the same is my disciple; and he that
 saith he receiveth it and doeth it not, the same is not my disciple, and shall
-be cast out from among you." [[D&amp;C 41:5](https://www.lds.org/scriptures
-/dc-testament/dc/41.5?lang=eng#4)]
+be cast out from among you." [[D&amp;C 41:5](/scriptures/dc-
+testament/dc/41.5?lang=eng#4)]
 
 Christ's invitation to become his disciple is universal. He extends it to
 everyone. His call and promise is "Come unto me, all ye that labour and are
 heavy laden, and I will give you rest" ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27)).
+11:28](/scriptures/nt/matt/11.28?lang=eng#27)).
 
 And he has said "that every soul who forsaketh his sins and cometh unto me,
 and calleth on my name, and obeyeth my voice, and keepeth my commandments,
-shall see my face and know that I am" ([D&amp;C
-93:1](https://www.lds.org/scriptures/dc-testament/dc/93.1?lang=eng#0)).
+shall see my face and know that I am" ([D&amp;C 93:1](/scriptures/dc-
+testament/dc/93.1?lang=eng#0)).
 
 Jesus put no money price tag on his invitation. Nephi quotes him as saying,
 "Come unto me all ye ends of the earth, buy milk and honey, without money and
-without price" ([2 Ne.
-26:25](https://www.lds.org/scriptures/bofm/2-ne/26.25?lang=eng#24)).
+without price" ([2 Ne. 26:25](/scriptures/bofm/2-ne/26.25?lang=eng#24)).
 
 This does not mean, however, that because he put no money price on it that
 there is no cost involved. There is a cost to be paid in becoming a disciple
@@ -53,7 +52,7 @@ farewell, which are at home at my house.
 
 "And Jesus said unto him, No man, having put his hand to the plough, and
 looking back, is fit for the kingdom of God." ([Luke
-9:57-62](https://www.lds.org/scriptures/nt/luke/9.57-62?lang=eng#56).)
+9:57-62](/scriptures/nt/luke/9.57-62?lang=eng#56).)
 
 Jesus was not looking for, or calling, men to do lip service only. He a wanted
 them to realize that following him meant effort and sacrifice. Luke tells us
@@ -69,7 +68,7 @@ disciple.
 
 "So likewise, whosoever he be of you that forsaketh not all that he hath, he
 cannot be my disciple." ([Luke 14:25-27,
-33](https://www.lds.org/scriptures/nt/luke/14.25-27%2C33?lang=eng#24).)
+33](/scriptures/nt/luke/14.25-27,33?lang=eng#24).)
 
 In these seemingly harsh statements, Jesus was not specifying "literal hatred
 toward one's family ... as a condition of discipleship." He was emphasizing "the
@@ -87,7 +86,7 @@ and counteth the cost, whether he have sufficient to finish it?
 all that behold it begin to mock him,
 
 "Saying, This man began to build, and was not able to finish." ([Luke
-14:28-30](https://www.lds.org/scriptures/nt/luke/14.28-30?lang=eng#27).)
+14:28-30](/scriptures/nt/luke/14.28-30?lang=eng#27).)
 
 In this last dispensation, the Lord has taught the importance of complete
 dedication to his service and strict obedience to his commandments as
@@ -95,10 +94,9 @@ emphatically as he did during his earthly ministry. For example, in 1831, the
 first year after the Church was organized, the Lord revealed through the
 Prophet Joseph Smith, who was visiting the Saints then assembled in Jackson
 County, Missouri, that they were in "the land of promise, ... the place for the
-city of Zion" ([D&amp;C 57:2](https://www.lds.org/scriptures/dc-
-testament/dc/57.2?lang=eng#1)). This good news heightened the enthusiasm of
-the Saints, who were already eagerly anticipating the blessings of Zion as it
-would be in its glory.
+city of Zion" ([D&amp;C 57:2](/scriptures/dc-testament/dc/57.2?lang=eng#1)).
+This good news heightened the enthusiasm of the Saints, who were already
+eagerly anticipating the blessings of Zion as it would be in its glory.
 
 At this juncture, to calm them down a little and impress upon them the fact
 that the establishment of Zion would depend upon their obedience to his law,
@@ -115,8 +113,8 @@ reward of the same is greater in the kingdom of heaven._
 "For after much tribulation come the blessings. ...
 
 "Remember this, which I tell you before, that you may lay it to heart."
-([D&amp;C 58:1-2, 4-5](https://www.lds.org/scriptures/dc-
-testament/dc/58.1-2%2C4-5?lang=eng#0); italics added.)
+([D&amp;C 58:1-2, 4-5](/scriptures/dc-testament/dc/58.1-2,4-5?lang=eng#0);
+italics added.)
 
 The Lord was reminding the Saints there that there was some tribulation ahead
 before they could enjoy the promised blessings of Zion as it will be in its
@@ -149,8 +147,8 @@ faithful and diligent_ before me.
 "Wherefore, I give unto them a commandment, saying thus: Thou shalt love the
 Lord thy God _with all thy heart, with all thy might, mind,_ and _strength;_
 and in the name of Jesus Christ thou shalt serve him." ([D&amp;C
-59:1-5](https://www.lds.org/scriptures/dc-testament/dc/59.1-5?lang=eng#0);
-italics added.) _Confessing and accepting is not sufficient._
+59:1-5](/scriptures/dc-testament/dc/59.1-5?lang=eng#0); italics added.)
+_Confessing and accepting is not sufficient._
 
 Then he named some specific things that these Saints had to learn to do before
 they prospered in Zion:
@@ -165,8 +163,7 @@ that of a broken heart and a contrite spirit.
 
 "And that thou mayest more fully keep thyself unspotted from the world, thou
 shalt go to the house of prayer and offer up thy sacraments upon my holy day."
-([D&amp;C 59:6-9](https://www.lds.org/scriptures/dc-
-testament/dc/59.6-9?lang=eng#5).)
+([D&amp;C 59:6-9](/scriptures/dc-testament/dc/59.6-9?lang=eng#5).)
 
 These are some of the specific things the Lord told the Missouri Saints to do
 in order to prove themselves to be his disciples when he first took them to
@@ -174,30 +171,30 @@ Jackson County, Missouri, the center stake of Zion.
 
 His concluding instruction was: "Learn that he who doeth the works of
 righteousness shall receive his reward, even peace in this world, and eternal
-life in the world to come" ([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
+life in the world to come" ([D&amp;C 59:23](/scriptures/dc-
 testament/dc/59.23?lang=eng#22)).
 
 This is not the occasion to review the history of the Saints in Jackson
 County, Missouri. Suffice it to say that they did not demonstrate the
 necessary dedication and commitment to establish Zion at that time. On
 February 24, 1834, after they had been "driven and smitten by the hands of
-[their] enemies" ([D&amp;C 103:2](https://www.lds.org/scriptures/dc-
+[their] enemies" ([D&amp;C 103:2](/scriptures/dc-
 testament/dc/103.2?lang=eng#1)), the Lord told the Prophet Joseph that the
 reason he had permitted their expulsion was so "that those who call themselves
 after my name might be chastened for a little season with a sore and grievous
 chastisement, because they _did not hearken altogether unto the precepts and
-commandments which I gave unto them_" ([D&amp;C
-103:4](https://www.lds.org/scriptures/dc-testament/dc/103.4?lang=eng#3);
-italics added). They were not yet his disciples in the true sense of the term.
-He did, however, give them this great promise:
+commandments which I gave unto them_" ([D&amp;C 103:4](/scriptures/dc-
+testament/dc/103.4?lang=eng#3); italics added). They were not yet his
+disciples in the true sense of the term. He did, however, give them this great
+promise:
 
 "They shall ... begin to prevail against mine enemies from this very hour.
 
 "And by hearkening to observe all the words which I, the Lord their God, shall
 speak unto them, they shall never cease to prevail until the kingdoms of the
 world are subdued under my feet, and the earth is given unto the saints, to
-possess it forever and ever." ([D&amp;C
-103:6-7](https://www.lds.org/scriptures/dc-testament/dc/103.6-7?lang=eng#5).)
+possess it forever and ever." ([D&amp;C 103:6-7](/scriptures/dc-
+testament/dc/103.6-7?lang=eng#5).)
 
 That's our great promise. We will never cease to prevail until the Lord
 establishes his Zion in this world. The true discipleship of the priesthood of
@@ -207,20 +204,19 @@ going on in this world.
 
 And then the Lord said, "Let no man be afraid to lay down his life for my
 sake; for whoso layeth down his life for my sake shall find it again"
-([D&amp;C 103:27](https://www.lds.org/scriptures/dc-
-testament/dc/103.27?lang=eng#26)).
+([D&amp;C 103:27](/scriptures/dc-testament/dc/103.27?lang=eng#26)).
 
 And this is a shocking statement to me: "And whoso is not willing to lay down
-his life for my sake is not my disciple" ([D&amp;C
-103:28](https://www.lds.org/scriptures/dc-testament/dc/103.28?lang=eng#27)).
+his life for my sake is not my disciple" ([D&amp;C 103:28](/scriptures/dc-
+testament/dc/103.28?lang=eng#27)).
 
 As we contemplate this great declaration, it may be well for us to be reminded
 of the oath and covenant which belongeth to the priesthood, by which all of us
 who hold the Melchizedek Priesthood are bound. Following a discussion of the
-"Holy Priesthood" ([D&amp;C 84:6](https://www.lds.org/scriptures/dc-
+"Holy Priesthood" ([D&amp;C 84:6](/scriptures/dc-
 testament/dc/84.6?lang=eng#5)) and the "lesser priesthood" ([D&amp;C
-84:30](https://www.lds.org/scriptures/dc-testament/dc/84.30?lang=eng#29)), the
-revelation which gives the oath and covenant of the priesthood continues:
+84:30](/scriptures/dc-testament/dc/84.30?lang=eng#29)), the revelation which
+gives the oath and covenant of the priesthood continues:
 
 "Whoso is faithful unto the obtaining these two priesthoods [the greater
 priesthood and the lesser priesthood--meaning, of course, the Melchizedek and
@@ -249,8 +245,7 @@ And then this warning:
 
 "But whoso breaketh this covenant [of the priesthood] after he hath received
 it, and altogether turneth therefrom, shall not have forgiveness of sins in
-this world nor in the world to come." ([D&amp;C
-84:33-41](https://www.lds.org/scriptures/dc-
+this world nor in the world to come." ([D&amp;C 84:33-41](/scriptures/dc-
 testament/dc/84.33-41?lang=eng#32).)
 
 I hope and pray that each of us will remember and perform our obligations
@@ -261,7 +256,7 @@ following declaration:
 said of all of us here tonight--that every soul "who forsaketh his sins and
 cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my
 commandments, shall see my face and know that I am" ([D&amp;C
-93:1](https://www.lds.org/scriptures/dc-testament/dc/93.1?lang=eng#0)).
+93:1](/scriptures/dc-testament/dc/93.1?lang=eng#0)).
 
 Now, my brethren, I want to leave with you my witness. I know that God lives,
 and I am striving with all my soul to know God himself. I do not remember the
@@ -287,4 +282,6 @@ bear you this testimony I pray that we shall all _fully_ live the gospel and
 thereby qualify as true disciples of Christ, to obtain the promised peace in
 this world and eternal life in the world to come. This I do in the name of
 Jesus Christ. Amen.
+
+## References
 

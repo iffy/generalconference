@@ -29,15 +29,14 @@ go back to Him.
 In order to go back, we need to love and have faith in Jesus Christ. The Lord
 said a very important thing to all of us. "I am the way, the truth, and the
 life: no man cometh unto the Father, but by me." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).) Now, that's a
-very, very important thing to know. _No one goes back without His help._ Very
-important.
+14:6](/scriptures/nt/john/14.6?lang=eng#5).) Now, that's a very, very
+important thing to know. _No one goes back without His help._ Very important.
 
 But then He said something else. "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).) So, we love
-Him by keeping His commandments. And He loves us by helping us go back. Now,
-that's an agreement between Him and us. It's a very sacred agreement. Sacred
-agreements between Him and us are called _covenants._
+14:15](/scriptures/nt/john/14.15?lang=eng#14).) So, we love Him by keeping His
+commandments. And He loves us by helping us go back. Now, that's an agreement
+between Him and us. It's a very sacred agreement. Sacred agreements between
+Him and us are called _covenants._
 
 Remember your baptism? You first agreed to have faith in Him, repent of your
 sins, and live a good, righteous life. And He agreed to help you go back. That
@@ -118,4 +117,6 @@ eternal life. Help us to make it a real probability as we come unto Christ
 through sacred covenants and ordinances. Please forgive our sins. And help us
 always recognize thy hand all around us and always, always keep thy
 commandments, in the name of Jesus Christ, amen.
+
+## References
 

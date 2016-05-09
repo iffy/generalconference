@@ -2,11 +2,11 @@
 
 In the Old Testament, in 2 Kings, we read of a man by the name of Naaman. He
 was the "captain of the host of the king of Syria, ... but he was a leper." ([2
-Kgs. 5:1](https://www.lds.org/scriptures/ot/2-kgs/5.1?lang=eng#0).)
+Kgs. 5:1](/scriptures/ot/2-kgs/5.1?lang=eng#0).)
 
 An Israelite maid who "waited on Naaman's wife" said: "Would God my lord were
 with the prophet that is in Samaria! for he would recover him of his leprosy."
-([2 Kgs. 5:2-3](https://www.lds.org/scriptures/ot/2-kgs/5.2-3?lang=eng#1).)
+([2 Kgs. 5:2-3](/scriptures/ot/2-kgs/5.2-3?lang=eng#1).)
 
 Captain Naaman, not a member of the Church, accepted this in full faith and
 hope. The Syrian king gave him a letter for the king of Israel, and gold,
@@ -14,12 +14,11 @@ silver, and fine clothing as gifts.
 
 The king of Israel, a man of little faith, was upset about this because he
 knew he could not heal Naaman, and he said, "See how he seeketh a quarrel
-against me." ([2 Kgs.
-5:7](https://www.lds.org/scriptures/ot/2-kgs/5.7?lang=eng#6).)
+against me." ([2 Kgs. 5:7](/scriptures/ot/2-kgs/5.7?lang=eng#6).)
 
 "When Elisha the man of God had heard" this "he sent to the king, saying, ...
 let him come ... to me, and he shall know that there is a prophet in Israel."
-([2 Kgs. 5:8](https://www.lds.org/scriptures/ot/2-kgs/5.8?lang=eng#7).)
+([2 Kgs. 5:8](/scriptures/ot/2-kgs/5.8?lang=eng#7).)
 
 Naaman went to the prophet. "Elisha sent a messenger unto him, saying, Go and
 wash in Jordan seven times, and thy flesh shall come again to thee, and thou
@@ -31,7 +30,7 @@ and strike his hand over the place, and recover the leper.
 
 "Are not ... rivers of Damascus, better than all the waters of Israel? ... So he
 turned and went away in a rage." ([2 Kgs.
-5:10-12](https://www.lds.org/scriptures/ot/2-kgs/5.10-12?lang=eng#9).)
+5:10-12](/scriptures/ot/2-kgs/5.10-12?lang=eng#9).)
 
 His pride would not let him follow the prophet's direction. He was going home,
 and he was leprous still. Could this be because of a proud heart?
@@ -43,7 +42,7 @@ have done it?
 "Then went he down, and dipped himself seven times in Jordan, according to the
 saying of the man of God: and his flesh came again like unto the flesh of a
 little child, and he was clean." ([2 Kgs.
-5:13-14](https://www.lds.org/scriptures/ot/2-kgs/5.13-14?lang=eng#12).)
+5:13-14](/scriptures/ot/2-kgs/5.13-14?lang=eng#12).)
 
 Naaman was grateful for this and went to the prophet with the gold and silver
 and fine clothes. But the prophet of God, of course, would not accept payment
@@ -64,7 +63,7 @@ And Elisha said: "Whence comest thou? ...
 
 "The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for
 ever. And he went out from his presence a leper as white as snow." ([2 Kgs.
-5:25-27](https://www.lds.org/scriptures/ot/2-kgs/5.25-27?lang=eng#24).)
+5:25-27](/scriptures/ot/2-kgs/5.25-27?lang=eng#24).)
 
 President Benson, the prophet of God, has counseled us on so many important
 things. Are we doing them? Or do we say:
@@ -90,13 +89,12 @@ the natural man and becometh a saint through the atonement of Christ the Lord,
 and becometh as a child, _submissive,_ meek, humble, patient, full of love,
 _willing to submit to all things which the Lord seeth fit to inflict upon him,
 even as a child doth submit to his father._" ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18); italics
-added.)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18); italics added.)
 
 The prophet Lehi said to his son Nephi, "And now, behold thy brothers
 _murmur,_ saying it is a hard thing which I have required of them; but behold
 I have not required it of them, but it is a commandment of the Lord." ([1 Ne.
-3:5](https://www.lds.org/scriptures/bofm/1-ne/3.5?lang=eng#4); italics added.)
+3:5](/scriptures/bofm/1-ne/3.5?lang=eng#4); italics added.)
 
 Can you hear President Benson saying, "But behold, I have not told you to go
 on a mission or marry in the temple; but it is a commandment of the Lord"?
@@ -108,8 +106,7 @@ because thou hast _not murmured._
 things which the Lord hath commanded, for I know that the Lord giveth no
 commandments unto the children of men, save he shall prepare a way for them
 that they may accomplish the thing which he commandeth them." ([1 Ne.
-3:6-7](https://www.lds.org/scriptures/bofm/1-ne/3.6-7?lang=eng#5); italics
-added.)
+3:6-7](/scriptures/bofm/1-ne/3.6-7?lang=eng#5); italics added.)
 
 Do we have the faith of Nephi?
 
@@ -117,8 +114,7 @@ The Lord told his disciples on this continent, "And it shall come to pass,
 that whoso repenteth and is baptized in my name shall be filled; _and if he
 endureth to the end,_ behold, him will I hold guiltless before my Father at
 that day when I shall stand to judge the world." ([3 Ne.
-27:16](https://www.lds.org/scriptures/bofm/3-ne/27.16?lang=eng#15); italics
-added.)
+27:16](/scriptures/bofm/3-ne/27.16?lang=eng#15); italics added.)
 
 My dear brothers and sisters and family, can't you see what we need to do? _Be
 submissive--do not murmur--endure to the end._ If we will do this, the Lord
@@ -132,8 +128,7 @@ Keep the commandments! Pray, walk in righteousness, and through the Holy
 Spirit you can know by that sweet, calm feeling that it is true.
 
 Moroni said, "By the power of the Holy Ghost ye may know the truth of all
-things." ([Moro.
-10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4).)
+things." ([Moro. 10:5](/scriptures/bofm/moro/10.5?lang=eng#4).)
 
 We can know by the Spirit that it is right, if, like Nephi, we have faith, are
 obedient, and keep the commandments.
@@ -149,7 +144,7 @@ The Lord told the Prophet Joseph Smith, "And the arm of the Lord shall be
 revealed; and the day cometh that they who will not hear the voice of the
 Lord, neither the voice of his servants, neither give heed to the words of the
 prophets and apostles, shall be cut off from among the people." ([D&amp;C
-1:14](https://www.lds.org/scriptures/dc-testament/dc/1.14?lang=eng#13).)
+1:14](/scriptures/dc-testament/dc/1.14?lang=eng#13).)
 
 I testify that God, our Heavenly Father, lives. His Son, Jesus Christ, lives,
 and he is our Savior and Redeemer. This is his church, and he directs it
@@ -163,4 +158,6 @@ seers, and revelators. I respect them, I sustain them, and I pray for them.
 I love my family; and I love you, my brothers and sisters; and I pray that we
 will follow the prophets and Apostles and keep the commandments of God. In the
 name of Jesus Christ, amen.
+
+## References
 

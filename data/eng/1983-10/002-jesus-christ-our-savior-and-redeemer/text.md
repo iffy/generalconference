@@ -1,4 +1,4 @@
-# Jesus Christ: Our Savior and Redeemer
+# Jesus Christ:Our Savior and Redeemer
 
 As members of The Church of Jesus Christ of Latter-day Saints, we need to
 place unreserved confidence in the Lord Jesus Christ, whom we accept as the
@@ -23,9 +23,9 @@ and live by His laws and teachings.
 Why faith in Jesus Christ?
 
 Jesus Christ was and is the _Lord God Omnipotent._ (See [Mosiah
-3:5](https://www.lds.org/scriptures/bofm/mosiah/3.5?lang=eng#4).) He was
-chosen before He was born. He was the all-powerful Creator of the heavens and
-the earth. He is the source of life and light to all things.
+3:5](/scriptures/bofm/mosiah/3.5?lang=eng#4).) He was chosen before He was
+born. He was the all-powerful Creator of the heavens and the earth. He is the
+source of life and light to all things.
 
 His word is the law by which all things are governed in the universe. All
 things created and made by Him are subject to His infinite power.
@@ -39,21 +39,18 @@ mortal mother and the divine attributes and powers of His Eternal Father.
 His unique heredity made Him heir to the honored title--The Only Begotten Son
 of God in the flesh. As the Son of God, He inherited powers and intelligence
 which no human ever had before or since. He was literally Immanuel, which
-means "God with us." (See [Matt.
-1:23](https://www.lds.org/scriptures/nt/matt/1.23?lang=eng#22).)
+means "God with us." (See [Matt. 1:23](/scriptures/nt/matt/1.23?lang=eng#22).)
 
 Even though He was God's Son sent to earth, the divine plan of the Father
 required that Jesus be subjected to all the difficulties and tribulations of
 mortality. Thus He became subject to "temptations, ... hunger, thirst, and
-fatigue." ([Mosiah
-3:7](https://www.lds.org/scriptures/bofm/mosiah/3.7?lang=eng#6).)
+fatigue." ([Mosiah 3:7](/scriptures/bofm/mosiah/3.7?lang=eng#6).)
 
 To qualify as the _Redeemer_ of all our Father's children, Jesus had to be
 perfectly obedient to all the laws of God. Because He subjected Himself to the
 will of the Father, He grew "from grace to grace, until he received a fulness"
 of the Father's power. Thus He had "all power, both in heaven and on earth."
-([D&amp;C 93:13, 17](https://www.lds.org/scriptures/dc-
-testament/dc/93.13%2C17?lang=eng#12).)
+([D&amp;C 93:13, 17](/scriptures/dc-testament/dc/93.13,17?lang=eng#12).)
 
 Once this truth about the One we worship as the Son of God is understood, we
 can more readily comprehend how He had power to heal the sick, cure all manner
@@ -66,8 +63,7 @@ covenants with the house of Israel. Said He:
 
 "Behold, I am the law, and the light. Look unto me, and endure to the end, and
 ye shall live; for unto him that endureth to the end will I give eternal
-life." ([3 Ne.
-15:9](https://www.lds.org/scriptures/bofm/3-ne/15.9?lang=eng#8).)
+life." ([3 Ne. 15:9](/scriptures/bofm/3-ne/15.9?lang=eng#8).)
 
 His law required all mankind, regardless of station in life, to repent and be
 baptized in His name and receive the Holy Ghost as the sanctifying power to
@@ -75,10 +71,10 @@ cleanse themselves from sin. Compliance with these laws and ordinances will
 enable each individual to stand guiltless before Him at the day of judgment.
 Those who so comply are likened to one who builds his house on a firm
 foundation so that even "the gates of hell shall not prevail against them."
-([3 Ne. 11:39](https://www.lds.org/scriptures/bofm/3-ne/11.39?lang=eng#38).)
+([3 Ne. 11:39](/scriptures/bofm/3-ne/11.39?lang=eng#38).)
 
 Appropriately we praise Him as the Rock of our salvation. (See [2 Ne.
-4:30](https://www.lds.org/scriptures/bofm/2-ne/4.30?lang=eng#29).)
+4:30](/scriptures/bofm/2-ne/4.30?lang=eng#29).)
 
 To have any measure of appreciation and gratitude for what He accomplished in
 our behalf, we must remember these vital truths:
@@ -116,8 +112,7 @@ suffer if they would repent; ...
 "Which suffering caused myself, even God, the greatest of all, to tremble
 because of pain, and to bleed at every pore, and to suffer both body and
 spirit--and would that I might not drink the bitter cup, and shrink."
-([D&amp;C 19:16, 18](https://www.lds.org/scriptures/dc-
-testament/dc/19.16%2C18?lang=eng#15).)
+([D&amp;C 19:16, 18](/scriptures/dc-testament/dc/19.16,18?lang=eng#15).)
 
 As was so characteristic of His entire mortal experience, the Savior submitted
 to our Father's will and took the bitter cup and drank.
@@ -133,16 +128,15 @@ did He voluntarily submit to death. In His words:
 
 "No man taketh it [my life] from me, but I lay it down of myself. I have power
 to lay it down, and I have power to take it again. This commandment have I
-received of my Father" ([John
-10:18](https://www.lds.org/scriptures/nt/john/10.18?lang=eng#17).)
+received of my Father" ([John 10:18](/scriptures/nt/john/10.18?lang=eng#17).)
 
 He is the _Resurrection_ and the _Life._ (See [John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24).)
+11:25](/scriptures/nt/john/11.25?lang=eng#24).)
 
 This power to revive His own life was possible because Jesus Christ was God--
 even the Son of God. Because He had the power to overcome death, all mankind
 will be resurrected. "Because I live, ye shall live also." ([John
-14:19](https://www.lds.org/scriptures/nt/john/14.19?lang=eng#18).)
+14:19](/scriptures/nt/john/14.19?lang=eng#18).)
 
 How we reverence His name--yes, even the hallowed titles that represent His
 deeds!
@@ -157,30 +151,28 @@ and to demonstrate affection, love, and charity in our relationships with
 others.
 
 He is the _Bread of Life._ (See [John
-6:35](https://www.lds.org/scriptures/nt/john/6.35?lang=eng#34).)
+6:35](/scriptures/nt/john/6.35?lang=eng#34).)
 
 By fasting, prayer, and service to others, He showed that "man shall not live
-by bread alone" ([Matt.
-4:4](https://www.lds.org/scriptures/nt/matt/4.4?lang=eng#3)) but must be
+by bread alone" ([Matt. 4:4](/scriptures/nt/matt/4.4?lang=eng#3)) but must be
 nourished by the word of God.
 
 He was "in all points tempted like as we are, yet without sin" ([Heb.
-4:15](https://www.lds.org/scriptures/nt/heb/4.15?lang=eng#14)), and so He is
-able to help them that are tempted (see [Heb.
-2:18](https://www.lds.org/scriptures/nt/heb/2.18?lang=eng#17).)
+4:15](/scriptures/nt/heb/4.15?lang=eng#14)), and so He is able to help them
+that are tempted (see [Heb. 2:18](/scriptures/nt/heb/2.18?lang=eng#17).)
 
 He is the _Prince of Peace_--the ultimate _Comforter._ (See [Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 As such He has power to comfort an anguished heart pierced by sorrow or sin.
 He provides a special kind of peace that no human agency can provide:
 
 "Peace I leave with you, my peace I give unto you: not as the world giveth,
 give I unto you. Let not your heart be troubled, neither let it be afraid."
-([John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 He is the _Good Shepherd._ (See [John
-10:11](https://www.lds.org/scriptures/nt/john/10.11?lang=eng#10).)
+10:11](/scriptures/nt/john/10.11?lang=eng#10).)
 
 He possesses all the attributes of the divine nature of God. He is virtuous,
 patient, kind, long-suffering, gentle, meek, and charitable. If we are weak or
@@ -188,7 +180,7 @@ deficient in any of these qualities, He stands willing to strengthen and
 compensate.
 
 He is a _Wonderful Counselor._ (See [Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 Indeed there is no human condition--be it suffering, incapacity, inadequacy,
 mental deficiency, or sin--which He cannot comprehend or for which His love
@@ -197,8 +189,7 @@ will not reach out to the individual.
 He pleads today:
 
 "Come unto me, all ye that labour and are heavy laden, and I will give you
-rest." ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).)
+rest." ([Matt. 11:28](/scriptures/nt/matt/11.28?lang=eng#27).)
 
 He is our _Advocate, Mediator,_ and _Judge._
 
@@ -211,13 +202,12 @@ professing belief.
 Faith in Jesus Christ consists of complete reliance on Him. As God, He has
 infinite power, intelligence, and love. There is no human problem beyond His
 capacity to solve. Because He descended below all things (see [D&amp;C
-122:8](https://www.lds.org/scriptures/dc-testament/dc/122.8?lang=eng#7)), He
-knows how to help us rise above our daily difficulties.
+122:8](/scriptures/dc-testament/dc/122.8?lang=eng#7)), He knows how to help us
+rise above our daily difficulties.
 
 Faith in Him means believing that even though we do not understand all things,
 He does. We, therefore, must look to Him "in every thought; doubt not, fear
-not." ([D&amp;C 6:36](https://www.lds.org/scriptures/dc-
-testament/dc/6.36?lang=eng#35).)
+not." ([D&amp;C 6:36](/scriptures/dc-testament/dc/6.36?lang=eng#35).)
 
 Faith in Him means trusting that He has all power over all men and all
 nations. There is no evil which He cannot arrest. All things are in His hands.
@@ -229,7 +219,7 @@ His gospel is the perfect prescription for all human problems and social ills.
 But His gospel is only effective as it is applied in our lives. Therefore, we
 must "feast upon the words of Christ; for behold, the words of Christ will
 tell you all things what ye should do." ([2 Ne.
-32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2).)
+32:3](/scriptures/bofm/2-ne/32.3?lang=eng#2).)
 
 Unless we _do_ His teachings, we do not demonstrate faith in Him.
 
@@ -238,7 +228,7 @@ Think what a different world this would be if all mankind would do as He said:
 thy mind. ...
 
 "Thou shalt love thy neighbour as thyself." ([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36).)
+39](/scriptures/nt/matt/22.37,39?lang=eng#36).)
 
 What then is the answer to the question "What is to be done?" concerning the
 problems and dilemmas that individuals, communities, and nations face today?
@@ -252,8 +242,7 @@ which the Lord can comprehend.
 "... Believe that ye must repent of your sins and forsake them, and humble
 yourselves before God; and ask in sincerity of heart that he would forgive
 you; and now, if you believe all these things _see that ye do them._" ([Mosiah
-4:9-10](https://www.lds.org/scriptures/bofm/mosiah/4.9-10?lang=eng#8); italics
-added.)
+4:9-10](/scriptures/bofm/mosiah/4.9-10?lang=eng#8); italics added.)
 
 As members of the Church, we are "under obligation to make the sinless Son of
 Man [our] ideal--the one perfect being who ever walked the earth. "Sublimest
@@ -272,4 +261,6 @@ He lives today as our Lord, our Master, our Savior, our Redeemer, and our God.
 God bless us all to believe Him, to accept Him, to worship Him, and to fully
 trust in Him, and to follow Him is my humble prayer, in the name of Jesus
 Christ, amen.
+
+## References
 

@@ -9,8 +9,7 @@ abilities with us in our quorum. Welcome! Welcome! Welcome!
 
 I have selected as the theme for my conference message a line from Proverbs:
 "Train up a child in the way he should go: and when he is old, he will not
-depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).)
+depart from it." ([Prov. 22:6](/scriptures/ot/prov/22.6?lang=eng#5).)
 
 The Lord has been very specific in His instructions to parents in this day.
 From the Doctrine and Covenants we read:
@@ -33,8 +32,8 @@ they also seek not earnestly the riches of eternity, but their eyes are full
 of greediness.
 
 "These things ought not to be, and must be done away from among them."
-([D&amp;C 68:25, 28-29, 31-32](https://www.lds.org/scriptures/dc-
-testament/dc/68.25%2C28-29%2C31-32?lang=eng#24).)
+([D&amp;C 68:25, 28-29, 31-32](/scriptures/dc-
+testament/dc/68.25,28-29,31-32?lang=eng#24).)
 
 The language is direct, and it leaves no room for misunderstanding. The
 responsibility for training children rests primarily with the parents.
@@ -229,4 +228,6 @@ Savior. I give you my witness that this is his work in which we are engaged,
 and I pray that we will be earnestly involved in bringing about an
 understanding in the hearts and souls of our children. This is my prayer in
 the name of Jesus Christ, amen.
+
+## References
 

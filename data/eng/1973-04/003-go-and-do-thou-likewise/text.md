@@ -25,7 +25,7 @@ that he has greater capacity for concern and love than do we mortals. He also
 has a superior knowledge of the gospel plan and man's potential in God's
 divine, eternal scheme. As stated by one prophet, God's work and glory is
 achieved through our attainment of immortality and eternal life. (See [Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Someone once suggested that it would be relatively simple for Christ to do all
 of the religious teaching here on earth. How easy it would be for the Creator
@@ -59,22 +59,20 @@ drink: I was a stranger, and ye took me in:
 
 "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and
 ye came unto me." ([Matt.
-25:35-36](https://www.lds.org/scriptures/nt/matt/25.35-36?lang=eng#34).)
+25:35-36](/scriptures/nt/matt/25.35-36?lang=eng#34).)
 
 Then the righteous answered, stating that not once had they found him hungry
 or thirsty or a stranger; and then the Savior's classic teaching: "Verily I
 say unto you, Inasmuch as ye have done it unto one of the least of these my
 brethren, ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 Other expressions of the Savior further confirm the same charges. He said:
-"Feed my sheep" ([John
-21:16](https://www.lds.org/scriptures/nt/john/21.16?lang=eng#15)); "... all
+"Feed my sheep" ([John 21:16](/scriptures/nt/john/21.16?lang=eng#15)); "... all
 things whatsoever ye would that men should do to you, do ye even so to them"
-([Matt. 7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11)). Then,
-having set the perfect example of service during his ministry, he concluded by
-saying, "Go, and do thou likewise." ([Luke
-10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).)
+([Matt. 7:12](/scriptures/nt/matt/7.12?lang=eng#11)). Then, having set the
+perfect example of service during his ministry, he concluded by saying, "Go,
+and do thou likewise." ([Luke 10:37](/scriptures/nt/luke/10.37?lang=eng#36).)
 
 During the past 12 months it has been my privilege to work closely with many
 emotionally disturbed people; others who have transgressed; some who have
@@ -119,11 +117,11 @@ remember that his gifts were in the form of personal attention, in performing
 an administration, and in sharing the gifts of the Spirit. In fact, it was the
 Savior who said: "Peace I leave with you, my peace I give unto you: not as the
 world giveth, give I unto you. ..." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).) We could
-add to peace the gift of love, the gift of immortality, the gift of eternal
-life, the gift of understanding, the gift of compassion, the gift of eternal
-justice. All of these gifts are beyond monetary consideration and could well
-be our gift to someone sometime, if we weren't "too busy."
+14:27](/scriptures/nt/john/14.27?lang=eng#26).) We could add to peace the gift
+of love, the gift of immortality, the gift of eternal life, the gift of
+understanding, the gift of compassion, the gift of eternal justice. All of
+these gifts are beyond monetary consideration and could well be our gift to
+someone sometime, if we weren't "too busy."
 
 Members of this church understand clearly that baptism is essential for
 entrance into the celestial kingdom. We also know and understand that total
@@ -141,15 +139,15 @@ this excellent example:
 "And one of you say unto them, Depart in peace, be ye warmed and filled;
 notwithstanding ye give them not those things which are needful to the body;
 what doth it profit?" ([James
-2:15-16](https://www.lds.org/scriptures/nt/james/2.15-16?lang=eng#14).)
+2:15-16](/scriptures/nt/james/2.15-16?lang=eng#14).)
 
 After citing other similar examples, he concludes with this thought: "Ye see
 then how that by works a man is justified, and not by faith only." ([James
-2:24](https://www.lds.org/scriptures/nt/james/2.24?lang=eng#23).)
+2:24](/scriptures/nt/james/2.24?lang=eng#23).)
 
 Moroni explained that we are sanctified "by the grace of God" as we become
 "perfect in Christ" and "deny not his power." ([Moro.
-10:33](https://www.lds.org/scriptures/bofm/moro/10.33?lang=eng#32).)
+10:33](/scriptures/bofm/moro/10.33?lang=eng#32).)
 
 No man can become "perfect in Christ" without a deep, abiding, and sincere
 concern for his fellow beings. This example just read from James cites
@@ -173,8 +171,7 @@ continuing attempt to justify or, in other words, to conform our actions with
 the example of the Master. The central theme of his mortal span was purely and
 simply serving those about him. He fulfilled an eternal truth which should be
 a part of your life and my life. "And whosoever will be chief among you, let
-him be your servant." ([Matt.
-20:27](https://www.lds.org/scriptures/nt/matt/20.27?lang=eng#26).)
+him be your servant." ([Matt. 20:27](/scriptures/nt/matt/20.27?lang=eng#26).)
 
 If our life's effort is to be sanctified or, in other words, ratified by the
 standards of eternal truth, then our actions must be in harmony with the
@@ -188,4 +185,6 @@ way, he said very simply, "Go, and do thou likewise."
 
 Brothers and sisters, may we go and do likewise, is my fervent prayer in the
 name of the Lord Jesus Christ. Amen.
+
+## References
 

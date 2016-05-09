@@ -5,18 +5,16 @@ to a land they called Bountiful because it was a place of much fruit and wild
 honey. They came to a great sea, and they rejoiced unto the Lord because He
 had preserved them. After they had been in the land Bountiful for a space of
 many days, the Lord spoke to Nephi and said, "Arise, and get thee into the
-mountain." ([1 Ne.
-17:7](https://www.lds.org/scriptures/bofm/1-ne/17.7?lang=eng#6).)
+mountain." ([1 Ne. 17:7](/scriptures/bofm/1-ne/17.7?lang=eng#6).)
 
 Nephi obeyed the Lord; he went into the mountain and prayed. And the Lord
 commanded Nephi, "Thou shalt construct a ship, after the manner which I shall
 show thee, that I may carry thy people across these waters." ([1 Ne.
-17:8](https://www.lds.org/scriptures/bofm/1-ne/17.8?lang=eng#7).)
+17:8](/scriptures/bofm/1-ne/17.8?lang=eng#7).)
 
 Then Nephi asked the Lord, "Whither shall I go that I may find ore to molten,
 that I may make tools to construct the ship after the manner which thou hast
-shown unto me?" ([1 Ne.
-17:9](https://www.lds.org/scriptures/bofm/1-ne/17.9?lang=eng#8)).
+shown unto me?" ([1 Ne. 17:9](/scriptures/bofm/1-ne/17.9?lang=eng#8)).
 
 The Lord instructed Nephi where he could find ore, but then Nephi was on his
 own. In 1 Nephi, chapter 17, we read:
@@ -195,4 +193,6 @@ The principle of self-reliance is spiritual as well as temporal. It is not a
 doomsday program; it is something to be practiced each and every day of our
 lives. May we continue to hold fast to the eternal truths of self-reliance is
 my prayer in the name of Jesus Christ, amen.
+
+## References
 

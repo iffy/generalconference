@@ -10,14 +10,13 @@ Lord came to the prophet-leader of this dispensation. After the announcement
 of the establishment of the church of Christ in these latter days, the Lord
 gave to the President of the Church commandments and "gave him power from on
 high," first, to bring forth "a record of a fallen people, and the fulness of
-the gospel of Jesus Christ" ([D&amp;C 20:8-9](https://www.lds.org/scriptures
-/dc-testament/dc/20.8-9?lang=eng#7)); then, to be a light to the world and a
+the gospel of Jesus Christ" ([D&amp;C 20:8-9](/scriptures/dc-
+testament/dc/20.8-9?lang=eng#7)); then, to be a light to the world and a
 standard for Church members and for those who are not members to seek for it
-([D&amp;C 45:9](https://www.lds.org/scriptures/dc-
-testament/dc/45.9?lang=eng#8)); third, to prepare a people ready to receive
-the coming of the Lord; and finally, to teach the fullness of the gospel with
-power unto all nations (see _Documentary History of the Church, _vol. 4, p.
-537).
+([D&amp;C 45:9](/scriptures/dc-testament/dc/45.9?lang=eng#8)); third, to
+prepare a people ready to receive the coming of the Lord; and finally, to
+teach the fullness of the gospel with power unto all nations (see _Documentary
+History of the Church, _vol. 4, p. 537).
 
 In our day, when grave problems are before the nation and the world, men
 everywhere are seeking panaceas for the ills that afflict mankind and the
@@ -29,7 +28,7 @@ their problems in the wrong way. The prophets foresaw the day when there would
 be "a famine in the land, not a famine of bread, nor a thirst for water, but
 of hearing the words of the Lord." Furthermore, said the prophet, "... they
 shall run to and fro to seek the word of the Lord, and shall not find it."
-([Amos 8:11-12](https://www.lds.org/scriptures/ot/amos/8.11-12?lang=eng#10).)
+([Amos 8:11-12](/scriptures/ot/amos/8.11-12?lang=eng#10).)
 
 It seems that in these days of frustration, from every side we are being asked
 such questions as:
@@ -72,8 +71,7 @@ with all longsuffering and doctrine.
 their own lusts shall they heap to themselves teachers, having itching ears;
 
 "And they shall turn away their ears from the truth, and shall be turned unto
-fables." ([2 Tim.
-4:2-4](https://www.lds.org/scriptures/nt/2-tim/4.2-4?lang=eng#1).)
+fables." ([2 Tim. 4:2-4](/scriptures/nt/2-tim/4.2-4?lang=eng#1).)
 
 Quoting again from President McKay's remarks:
 
@@ -98,8 +96,8 @@ Eternal Father, in his Son Jesus Christ, and in the Holy Ghost.
 
 "Proclaim that fundamental in the gospel plan is the sacredness of the
 individual; that God's work and glory is 'to bring to pass the immortality and
-eternal life of man.' ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) ...
+eternal life of man.' ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
+...
 
 "Proclaim that God lives, and that his Beloved Son is the Redeemer and Savior
 of mankind; that he stands at the head of his Church that bears his name; that
@@ -137,15 +135,15 @@ enemies.
 
 The answer came: "Therefore, renounce war and proclaim peace, and seek
 diligently to turn the hearts of the children to their fathers, and the hearts
-of the fathers to the children." ([D&amp;C
-98:16](https://www.lds.org/scriptures/dc-testament/dc/98.16?lang=eng#15).)
+of the fathers to the children." ([D&amp;C 98:16](/scriptures/dc-
+testament/dc/98.16?lang=eng#15).)
 
 And then came this significant promise:
 
 "And again I say unto you, if ye observe to do whatsoever I command you, I,
 the Lord, will turn away all wrath and indignation from you, and the gates of
-hell shall not prevail against you." ([D&amp;C
-98:22](https://www.lds.org/scriptures/dc-testament/dc/98.22?lang=eng#21).)
+hell shall not prevail against you." ([D&amp;C 98:22](/scriptures/dc-
+testament/dc/98.22?lang=eng#21).)
 
 Early in the history of the Church came the enlightening word of the Lord:
 
@@ -154,17 +152,15 @@ hath no need to break the laws of the land.
 
 "Wherefore, be subject to the powers that be, until he reigns whose right it
 is to reign, and subdues all enemies under his feet." ([D&amp;C
-58:21-22](https://www.lds.org/scriptures/dc-
-testament/dc/58.21-22?lang=eng#20).)
+58:21-22](/scriptures/dc-testament/dc/58.21-22?lang=eng#20).)
 
 The inspired prophet-leader of this dispensation declared the faith of this
 people in what we call the Articles of Faith:
 
 "We believe in being subject to kings, presidents, rulers, and magistrates, in
 obeying, honoring, and sustaining the law." ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).) Obedient
-to that declaration, even in times of national emergency, we yield obedience
-to civil authority.
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).) Obedient to that declaration,
+even in times of national emergency, we yield obedience to civil authority.
 
 In plain language, then, the Saints were told that to avoid war with their
 enemies they must renounce war and proclaim peace and to see that this was to
@@ -183,8 +179,8 @@ After giving his law to parents to teach and train their children to walk
 uprightly before the Lord, he indicated his displeasure relative to those
 among us who, in his language, "are idlers ... and [our] children are also
 growing up in wickedness; they also seek not earnestly the riches of eternity,
-but their eyes are full of greediness." ([D&amp;C
-68:31](https://www.lds.org/scriptures/dc-testament/dc/68.31?lang=eng#30).)
+but their eyes are full of greediness." ([D&amp;C 68:31](/scriptures/dc-
+testament/dc/68.31?lang=eng#30).)
 
 If these words are clearly understood, we have been told where the roots of
 all evil are to be found. Our children have not been properly taught by
@@ -250,7 +246,7 @@ Here are the Lord's own prophetic words that, instead of peace, there would be
 a sword; a son would be "at variance against his father, and the daughter
 against her mother, and the daughter in law against her mother in law. And a
 man's foes shall be they of his own household." ([Matt.
-10:35-36](https://www.lds.org/scriptures/nt/matt/10.35-36?lang=eng#34).)
+10:35-36](/scriptures/nt/matt/10.35-36?lang=eng#34).)
 
 Are you aware that this is what is happening in many families throughout the
 world? Do I need to say more to bring us back to the complete application of
@@ -259,8 +255,8 @@ counsel from your leaders, you have the promise that, as the Lord said:
 
 "... the gates of hell shall not prevail against you; yea, and the Lord God will
 disperse the powers of darkness from before you, and cause the heavens to
-shake for your good, and his name's glory." ([D&amp;C
-21:6](https://www.lds.org/scriptures/dc-testament/dc/21.6?lang=eng#5).)
+shake for your good, and his name's glory." ([D&amp;C 21:6](/scriptures/dc-
+testament/dc/21.6?lang=eng#5).)
 
 We would be so bold also to invite the honorable of the earth everywhere to
 follow a similar course to the blessing of all mankind.
@@ -297,8 +293,8 @@ established in the top of the mountains, ... nations shall flow unto it. And
 many people shall go and say, Come ye, and let us go up to the mountain of the
 Lord ... and he will teach us of his ways, and we will walk in his paths: for
 out of Zion shall go forth the law, and the word of the Lord from Jerusalem."
-([Isa. 2:2-3](https://www.lds.org/scriptures/ot/isa/2.2-3?lang=eng#1). See
-also [Micah 4:1-2](https://www.lds.org/scriptures/ot/micah/4.1-2?lang=eng#0).)
+([Isa. 2:2-3](/scriptures/ot/isa/2.2-3?lang=eng#1). See also [Micah
+4:1-2](/scriptures/ot/micah/4.1-2?lang=eng#0).)
 
 With regard to the political turmoil among the nations, we would earnestly
 pray that if this and other nations would be constrained to live by and adopt
@@ -320,8 +316,8 @@ continent, as recorded in an ancient scripture we call the Book of Mormon,
 after they were all converted to the Lord, "there were not rich and poor, bond
 and free, but they were all ... partakers of the heavenly gift" and "surely
 there could not be a happier people" on the face of the earth ([4 Ne. 1:3,
-16](https://www.lds.org/scriptures/bofm/4-ne/1.3%2C16?lang=eng#2)), by living
-fully the law of sacrifice and consecration.
+16](/scriptures/bofm/4-ne/1.3,16?lang=eng#2)), by living fully the law of
+sacrifice and consecration.
 
 There are some well-intentioned persons within the Church who seem to have
 taken upon themselves to substitute for the great principles of the gospel of
@@ -339,7 +335,7 @@ If we follow the leadership of the priesthood, the Lord will fulfill his
 promise contained in the preface to his revelations, when Satan would have
 power over his own dominion. This was his promise: "... the Lord shall have
 power over his saints, and shall reign in their midst, and shall come down in
-judgment upon ... the world." ([D&amp;C 1:36](https://www.lds.org/scriptures/dc-
+judgment upon ... the world." ([D&amp;C 1:36](/scriptures/dc-
 testament/dc/1.36?lang=eng#35).)
 
 I earnestly urge all our people to unite under the true banner of the Master,
@@ -373,7 +369,7 @@ purposes."
 I add to that humble prayer my witness to the members of this church and to
 the world that through the atonement of the Lord Jesus Christ, "all mankind
 may be saved by obedience to the laws and ordinances of the Gospel." ([A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2).)
+1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2).)
 
 This is indeed the Lord's work in which we are engaged. He lives and is ever
 ready to draw near to us when we prepare ourselves to be worthy to draw close
@@ -383,4 +379,6 @@ From my own personal experience, I know this which I declare in all soberness
 to be true, and in the name of the Lord Jesus Christ.
 
 Amen.
+
+## References
 

@@ -3,8 +3,7 @@
 I pray for your faith and prayers that my utterances will be received and
 understood "by the Spirit of truth" and that my expressions will be given "by
 the Spirit of truth" so that we might all be "edified and rejoice together."
-(See [D&amp;C 50:21-22](https://www.lds.org/scriptures/dc-
-testament/dc/50.21-22?lang=eng#20).)
+(See [D&amp;C 50:21-22](/scriptures/dc-testament/dc/50.21-22?lang=eng#20).)
 
 As I stand here today--a well man--words of gratitude and acknowledgment of
 divine intervention are so very inadequate in expressing the feelings in my
@@ -33,7 +32,7 @@ myriad golden stars. Her caption, taken from Psalms, reads:
 "He telleth the number of the stars; he calleth them all by their names.
 
 "... His understanding is infinite." ([Ps. 147:1,
-3-5](https://www.lds.org/scriptures/ot/ps/147.1%2C3-5?lang=eng#0).)
+3-5](/scriptures/ot/ps/147.1,3-5?lang=eng#0).)
 
 As I lay in the hospital bed, I meditated on all that had happened to me and
 studied the contemplative painting by President Marion G. Romney's sister and
@@ -50,8 +49,7 @@ which thou hast ordained;
 "What is man, that thou art mindful of him? ...
 
 "For thou hast made him a little lower than the angels, and hast crowned him
-with glory and honour." ([Ps.
-8:3-5](https://www.lds.org/scriptures/ot/ps/8.3-5?lang=eng#2).)
+with glory and honour." ([Ps. 8:3-5](/scriptures/ot/ps/8.3-5?lang=eng#2).)
 
 To be remembered is a wonderful thing.
 
@@ -103,7 +101,7 @@ place.
 Then followed the Savior's solemn discourse when He said to the Eleven: "These
 things I have spoken unto you, that in me ye might have peace. In the world ye
 shall have tribulation: but be of good cheer; I have overcome the world."
-([John 16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).)
+([John 16:33](/scriptures/nt/john/16.33?lang=eng#32).)
 
 Our Savior prayed to His Father and acknowledged the Father as the source of
 His authority and power--even to the extending of eternal life to all who are
@@ -119,21 +117,20 @@ gavest me to do.
 
 "And now, O Father, glorify thou me with thine own self with the glory which I
 had with thee before the world was." ([John
-17:3-5](https://www.lds.org/scriptures/nt/john/17.3-5?lang=eng#2).)
+17:3-5](/scriptures/nt/john/17.3-5?lang=eng#2).)
 
 He pled not only for the disciples called out from the world who had been true
 to their testimony of Him, "but for them also which shall believe on me
-through their word." ([John
-17:20](https://www.lds.org/scriptures/nt/john/17.20?lang=eng#19).)
+through their word." ([John 17:20](/scriptures/nt/john/17.20?lang=eng#19).)
 
 When they had sung a hymn, Jesus and the Eleven went out to the Mount of
 Olives. There, in the garden, in some manner beyond our comprehension, the
 Savior took upon Himself the burden of the sins of mankind from Adam to the
 end of the world. His agony in the garden, Luke tells us, was so intense "his
 sweat was as ... great drops of blood falling ... to the ground." ([Luke
-22:44](https://www.lds.org/scriptures/nt/luke/22.44?lang=eng#43).) He suffered
-an agony and a burden the like of which no human person would be able to bear.
-In that hour of anguish our Savior overcame all the power of Satan.
+22:44](/scriptures/nt/luke/22.44?lang=eng#43).) He suffered an agony and a
+burden the like of which no human person would be able to bear. In that hour
+of anguish our Savior overcame all the power of Satan.
 
 The glorified Lord revealed to Joseph Smith this admonition to all mankind:
 
@@ -147,8 +144,8 @@ because of pain, and to bleed at every pore, ...
 
 "Wherefore, I command you again to repent, lest I humble you with my almighty
 power; and that you confess your sins, lest you suffer these punishments."
-([D&amp;C 19:15-16, 18, 20](https://www.lds.org/scriptures/dc-
-testament/dc/19.15-16%2C18%2C20?lang=eng#14).)
+([D&amp;C 19:15-16, 18, 20](/scriptures/dc-
+testament/dc/19.15-16,18,20?lang=eng#14).)
 
 During those days of unconsciousness I was given, by the gift and power of the
 Holy Ghost, a more perfect knowledge of His mission. I was also given a more
@@ -164,8 +161,7 @@ and feet to secure His body as it hung on the cross for public display.
 Crucifixion--the horrible and painful death which He suffered--was chosen from
 the beginning. By that excruciating death, He descended below all things, as
 is recorded, that through His resurrection He would ascend above all things.
-(See [D&amp;C 88:6](https://www.lds.org/scriptures/dc-
-testament/dc/88.6?lang=eng#5).)
+(See [D&amp;C 88:6](/scriptures/dc-testament/dc/88.6?lang=eng#5).)
 
 Jesus Christ died in the literal sense in which we will all die. His body lay
 in the tomb. The immortal spirit of Jesus, chosen as the Savior of mankind,
@@ -203,8 +199,7 @@ resurrection of the dead, being the first that should rise.
 
 "Wherefore, he is the firstfruits unto God, inasmuch as he shall make
 intercession for all the children of men; and they that believe in him shall
-be saved." ([2 Ne.
-2:6-9](https://www.lds.org/scriptures/bofm/2-ne/2.6-9?lang=eng#5).)
+be saved." ([2 Ne. 2:6-9](/scriptures/bofm/2-ne/2.6-9?lang=eng#5).)
 
 Our most valuable worship experience in the sacrament meeting is the sacred
 ordinance of the sacrament, for it provides the opportunity to focus our minds
@@ -212,11 +207,11 @@ and hearts upon the Savior and His sacrifice.
 
 The Apostle Paul warned the early Saints against eating this bread and
 drinking this cup of the Lord unworthily. (See [1 Cor.
-11:27-30](https://www.lds.org/scriptures/nt/1-cor/11.27-30?lang=eng#26).)
+11:27-30](/scriptures/nt/1-cor/11.27-30?lang=eng#26).)
 
 Our Savior Himself instructed the Nephites, "Whoso eateth and drinketh my
 flesh and blood unworthily [brings] damnation to his soul." ([3 Ne.
-18:29](https://www.lds.org/scriptures/bofm/3-ne/18.29?lang=eng#28).)
+18:29](/scriptures/bofm/3-ne/18.29?lang=eng#28).)
 
 Worthy partakers of the sacrament are in harmony with the Lord and put
 themselves under covenant with Him to always remember His sacrifice for the
@@ -229,9 +224,8 @@ Our Lord revealed to Joseph Smith that "there is no gift greater than the gift
 of salvation," which plan includes the ordinance of the sacrament as a
 continuous reminder of the Savior's atoning sacrifice. He gave instructions
 that "it is expedient that the church meet together often to partake of bread
-and wine in the remembrance of the Lord Jesus." ([D&amp;C
-6:13](https://www.lds.org/scriptures/dc-testament/dc/6.13?lang=eng#12);
-[D&amp;C 20:75](https://www.lds.org/scriptures/dc-
+and wine in the remembrance of the Lord Jesus." ([D&amp;C 6:13](/scriptures
+/dc-testament/dc/6.13?lang=eng#12); [D&amp;C 20:75](/scriptures/dc-
 testament/dc/20.75?lang=eng#74).)
 
 Immortality comes to us all as a free gift by the grace of God alone, without
@@ -243,4 +237,6 @@ pleadings. The added knowledge which has come to me has made a great impact
 upon my life. The gift of the Holy Ghost is a priceless possession and opens
 the door to our ongoing knowledge of God and eternal joy. Of this I bear
 witness, in the holy name of Jesus Christ, amen.
+
+## References
 

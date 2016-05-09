@@ -16,7 +16,7 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 Years ago I had the privilege of serving on the New York World's Fair
 Committee. I remember that after months of planning we were ready to start
@@ -52,17 +52,16 @@ remember them; and when ye remember them ye may remember their works ... that
 they were good.
 
 "Therefore, my sons, I would that ye should do that which is good." ([Hel.
-5:6-7](https://www.lds.org/scriptures/bofm/hel/5.6-7?lang=eng#5).)
+5:6-7](/scriptures/bofm/hel/5.6-7?lang=eng#5).)
 
 Then Helaman continued to teach his sons "to lay up for yourselves a treasure
 in heaven, yea, which is eternal ... that precious gift of eternal life." ([Hel.
-5:8](https://www.lds.org/scriptures/bofm/hel/5.8?lang=eng#7).)
+5:8](/scriptures/bofm/hel/5.8?lang=eng#7).)
 
 Then he said to them, "My sons, remember, remember that it is upon the rock of
 our Redeemer, who is Christ, the Son of God, that ye must build your
 foundation ... which is a sure foundation, a foundation whereon if men build
-they cannot fall." ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11).)
+they cannot fall." ([Hel. 5:12](/scriptures/bofm/hel/5.12?lang=eng#11).)
 
 We have been taught by the prophets concerning foundations. President Joseph
 F. Smith has said: "But the men and the women who are honest before God, who
@@ -86,7 +85,7 @@ dreadful day of the Lord:
 
 "And he shall turn the heart of the fathers to the children, and the heart of
 the children to their fathers." ([Mal.
-4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4).)
+4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4).)
 
 Can we think of anything more important than residing in an eternal family
 unit with parents loving children, and children loving parents? It begins, of
@@ -94,8 +93,8 @@ course, with a husband and wife married in the holy temple of God for all
 eternity by those holding priesthood authority. For we know that "in the
 celestial glory there are three heavens or degrees; and in order to obtain the
 highest, a man must enter into this order of the priesthood [meaning the new
-and everlasting covenant of marriage]." ([D&amp;C
-131:1-2](https://www.lds.org/scriptures/dc-testament/dc/131.1-2?lang=eng#0).)
+and everlasting covenant of marriage]." ([D&amp;C 131:1-2](/scriptures/dc-
+testament/dc/131.1-2?lang=eng#0).)
 
 There is no other way to start an eternal family unit than to be married in
 the proper place, at the proper time, by the proper authority, receiving the
@@ -124,23 +123,21 @@ Ideals,_ Salt Lake City: Improvement Era, 1953, p. 462.)
 As a marriage is blessed with children, we realize even more the necessity of
 teaching and training in the family. We recall the words of Nephi at the
 beginning of the Book of Mormon as he said, "I, Nephi, having been born of
-goodly parents." ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0).)
+goodly parents." ([1 Ne. 1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0).)
 
 What a blessing it would be to have it said of all fathers and mothers that
 they were goodly parents, righteous parents, active parents, faithful parents,
 exemplary parents, celestial parents. Then Nephi goes on further to say, "I,
 Nephi, having been born of goodly parents, therefore I was taught somewhat in
 all the learning of my father." ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0).)
+1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0).)
 
 Nephi was taught in the ways of the gospel by his father, Lehi. It was this
 good father, Lehi, who in a dream saw the tree of life whose fruit was most
 desirable to make one happy. When he partook of the fruit of the tree, he knew
 it was desirable above all other fruit. After partaking, his first thought was
 of his family. And he said, "I began to be desirous that my family should
-partake of it also." ([1 Ne.
-8:12](https://www.lds.org/scriptures/bofm/1-ne/8.12?lang=eng#11).)
+partake of it also." ([1 Ne. 8:12](/scriptures/bofm/1-ne/8.12?lang=eng#11).)
 
 Lehi wanted more than anything else for his family to partake of the blessings
 of life--eternal life.
@@ -155,7 +152,7 @@ language, and also in the nurture and admonition of the Lord. ...
 life, and the joy of the saints, sunk deep into my heart.
 
 "And my soul hungered." ([Enos 1:1,
-3-4](https://www.lds.org/scriptures/bofm/enos/1.1%2C3-4?lang=eng#0).)
+3-4](/scriptures/bofm/enos/1.1,3-4?lang=eng#0).)
 
 Praise be to the father and mother who bestow the blessings of a good name, a
 noble heritage, and a testimony of the gospel, and who teach their children
@@ -184,8 +181,8 @@ grandmother, grandfather, aunts, uncles, cousins, and so on. Each must
 contribute energy and effort in driving piles right down to the bedrock of the
 gospel until the foundation is strong enough to endure through the eternities.
 The Lord has promised us in the Doctrine and Covenants that "he that buildeth
-upon this rock shall never fall." ([D&amp;C
-50:44](https://www.lds.org/scriptures/dc-testament/dc/50.44?lang=eng#43).)
+upon this rock shall never fall." ([D&amp;C 50:44](/scriptures/dc-
+testament/dc/50.44?lang=eng#43).)
 
 Build traditions in your families that will bring you together, for they can
 demonstrate your devotion, love, and support for one another. For each of the
@@ -199,9 +196,9 @@ us build a foundation established upon a rock.
 Does this not lend great strength in any family? It is so essential that we
 build homes that are strengthened by the support of an extended family.
 "Honour thy father and thy mother." ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).) If we show
-love for our parents, we will, in turn, be teaching our children love and
-respect in the family unit.
+20:12](/scriptures/ot/ex/20.12?lang=eng#11).) If we show love for our parents,
+we will, in turn, be teaching our children love and respect in the family
+unit.
 
 Continue building lasting, loving relationships for all family members. Listen
 to one another, be united, work together, play together, pray together, study
@@ -212,22 +209,20 @@ opportunities go by in your relationships with your family members that will
 help build eternal principles.
 
 The Lord has declared in the Doctrine and Covenants, "I have commanded you to
-bring up your children in light and truth." ([D&amp;C
-93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39).)
+bring up your children in light and truth." ([D&amp;C 93:40](/scriptures/dc-
+testament/dc/93.40?lang=eng#39).)
 
 Jesus, as He appeared to the Nephites, instructed them to "pray in your
 families unto the Father, always in my name, that your wives and your children
-may be blessed." ([3 Ne.
-18:21](https://www.lds.org/scriptures/bofm/3-ne/18.21?lang=eng#20).)
+may be blessed." ([3 Ne. 18:21](/scriptures/bofm/3-ne/18.21?lang=eng#20).)
 
 "And if ye shall always do these things blessed are ye, for ye are built upon
-my rock." ([3 Ne.
-18:12](https://www.lds.org/scriptures/bofm/3-ne/18.12?lang=eng#11).)
+my rock." ([3 Ne. 18:12](/scriptures/bofm/3-ne/18.12?lang=eng#11).)
 
 These are wise words from the book of Proverbs: "Train up a child in the way
 he should go: and when he is old, he will not depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).) If we want an
-eternal family, we must work for it. It does not come by chance.
+22:6](/scriptures/ot/prov/22.6?lang=eng#5).) If we want an eternal family, we
+must work for it. It does not come by chance.
 
 Let us each day search from the scriptures and from the prophets that which it
 takes to make an eternal family. The scriptures that are never read will never
@@ -244,4 +239,6 @@ foundation as a child of God.
 Brothers and sisters, God lives! Jesus is the Christ, the Son of God, the sure
 foundation upon which all else is built, for He is the cornerstone. Of this I
 bear solemn witness to you in the name of Jesus Christ, amen.
+
+## References
 

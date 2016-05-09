@@ -70,8 +70,7 @@ was he who spoke of those who would ask the stranger this question:
 that I am the Lord; for I will say unto them: These wounds are the wounds with
 which I was wounded in the house of my friends. I am he who was lifted up. I
 am Jesus that was crucified. I am the Son of God." ([D&amp;C
-45:51-52](https://www.lds.org/scriptures/dc-
-testament/dc/45.51-52?lang=eng#50).)
+45:51-52](/scriptures/dc-testament/dc/45.51-52?lang=eng#50).)
 
 And remembering that life is a time of rewards and punishments, may we
 consider the positive side today for a while, the rewards which come from him
@@ -84,7 +83,7 @@ fishers.
 "And he said unto them, Follow me, and I will make you fishers of men.
 
 "And they straightway left their nets and followed him." ([Matt.
-4:18-20](https://www.lds.org/scriptures/nt/matt/4.18-20?lang=eng#17).)
+4:18-20](/scriptures/nt/matt/4.18-20?lang=eng#17).)
 
 And two others, James and John, the sons of Zebedee, followed him.
 
@@ -119,8 +118,7 @@ after the order of Enoch, which was after the order of the Only Begotten Son.
 "Wherefore, all things are theirs, whether life or death, or things present,
 or things to come, all are theirs and they are Christ's, and Christ is God's.
 
-"And they shall overcome all things." ([D&amp;C
-76:52-60](https://www.lds.org/scriptures/dc-
+"And they shall overcome all things." ([D&amp;C 76:52-60](/scriptures/dc-
 testament/dc/76.52-60?lang=eng#51).)
 
 "These shall dwell in the presence of God and his Christ forever and ever.
@@ -129,15 +127,14 @@ testament/dc/76.52-60?lang=eng#51).)
 
 "These are they who are just men made perfect through Jesus the mediator of
 the new covenant, who wrought out this perfect atonement through the shedding
-of his own blood." ([D&amp;C 76:62, 65, 69](https://www.lds.org/scriptures/dc-
-testament/dc/76.62%2C65%2C69?lang=eng#61).)
+of his own blood." ([D&amp;C 76:62, 65, 69](/scriptures/dc-
+testament/dc/76.62,65,69?lang=eng#61).)
 
 "Jesus went about all Galilee, teaching in their synagogues, and preaching the
 gospel of the kingdom and healing ...
 
 "And there followed him great multitudes of people from Galilee. ..." ([Matt.
-4:23, 25](https://www.lds.org/scriptures/nt/matt/4.23%2C25?lang=eng#22)), and
-other places,
+4:23, 25](/scriptures/nt/matt/4.23,25?lang=eng#22)), and other places,
 
 "And seeing the multitudes he went up into a mountain ... his disciples came
 unto him: And he opened his mouth and taught them, saying:
@@ -164,7 +161,7 @@ the kingdom of heaven.
 all manner of evil against you falsely, for my sake.
 
 "Rejoice, and be exceeding glad: for great is your reward in heaven. ..."
-([Matt. 5:1-12](https://www.lds.org/scriptures/nt/matt/5.1-12?lang=eng#0).)
+([Matt. 5:1-12](/scriptures/nt/matt/5.1-12?lang=eng#0).)
 
 It seems that Jesus' heart was always filled with blessings.
 
@@ -174,27 +171,25 @@ As the Prophet Joseph records:
 God, even the Father, reigns upon his throne forever and ever;
 
 "Before whose throne all things bow in humble reverence, and give him glory
-forever and ever." ([D&amp;C 76:92-93](https://www.lds.org/scriptures/dc-
+forever and ever." ([D&amp;C 76:92-93](/scriptures/dc-
 testament/dc/76.92-93?lang=eng#91).)
 
 "And the glory of the celestial is one, even as the glory of the sun is one."
-([D&amp;C 76:96](https://www.lds.org/scriptures/dc-
-testament/dc/76.96?lang=eng#95).)
+([D&amp;C 76:96](/scriptures/dc-testament/dc/76.96?lang=eng#95).)
 
 And again:
 
 "But great and marvelous are the works of the Lord, and the mysteries of his
 kingdom which he showed unto us, which surpass all understanding in glory, and
-in might, and in dominion." ([D&amp;C 76:114](https://www.lds.org/scriptures
-/dc-testament/dc/76.114?lang=eng#113).)
+in might, and in dominion." ([D&amp;C 76:114](/scriptures/dc-
+testament/dc/76.114?lang=eng#113).)
 
 "Neither is man capable to make them known, for they are only to be seen and
 understood by the power of the Holy Spirit, which God bestows on those who
 love him, and purify themselves before him;
 
 "To whom he grants this privilege of seeing and knowing for themselves."
-([D&amp;C 76:116, 117](https://www.lds.org/scriptures/dc-
-testament/dc/76.116%2C117?lang=eng#115).)
+([D&amp;C 76:116, 117](/scriptures/dc-testament/dc/76.116,117?lang=eng#115).)
 
 The revelation of 1832, known as The Vision, begins thus:
 
@@ -213,7 +208,7 @@ fear me, and delight to honor those who serve me in righteousness and in truth
 unto the end.
 
 "Great shall be their reward and eternal shall be their glory." ([D&amp;C
-76:1-6](https://www.lds.org/scriptures/dc-testament/dc/76.1-6?lang=eng#0).)
+76:1-6](/scriptures/dc-testament/dc/76.1-6?lang=eng#0).)
 
 And when be gives a blessing, he fulfills it; when he makes a promise, it
 comes to pass. In 1831 the Lord said:
@@ -221,7 +216,7 @@ comes to pass. In 1831 the Lord said:
 "What I the Lord have spoken, I have spoken, and I excuse not myself; and
 though the heavens and the earth pass away, my word shall not pass away, but
 shall all be fulfilled, whether by mine own voice or by the voice of my
-servants, it is the same." ([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
+servants, it is the same." ([D&amp;C 1:38](/scriptures/dc-
 testament/dc/1.38?lang=eng#37).)
 
 The message of the Lord was love and peace.
@@ -229,7 +224,7 @@ The message of the Lord was love and peace.
 As the Lord began to prepare his apostles for his crucifixion, he said, "He
 that believeth on me, the works that I do shall he do also; and greater works
 than these shall he do; because I go unto my Father." ([John
-14:12](https://www.lds.org/scriptures/nt/john/14.12?lang=eng#11).)
+14:12](/scriptures/nt/john/14.12?lang=eng#11).)
 
 And we remember the story of Abraham, when three persons came to him in the
 Plains of Mamre, and Abraham bowed himself to the ground. They asked, "Where
@@ -248,7 +243,7 @@ have pleasure, my lord being old also?
 a surety bear a child, which am old?
 
 "Is any thing too hard for the Lord? ... Sarah shall have a son." ([Gen.
-18:9-14](https://www.lds.org/scriptures/ot/gen/18.9-14?lang=eng#8).)
+18:9-14](/scriptures/ot/gen/18.9-14?lang=eng#8).)
 
 Certainly nothing is impossible with the Lord. His promises are fulfilled.
 
@@ -262,14 +257,13 @@ their bones and health in their navel.
 
 And perhaps even greater promises than those: "And shall find wisdom and great
 treasures of knowledge, even hidden treasures." (See [D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 All these blessings to all of us who remember the sayings and walk in
 obedience.
 
 "If ye love me, keep my commandments," he told his people constantly. ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 There are depths in the sea which the storms that lash the surface into fury
 never reach. They who reach down into the depths of life where, in the
@@ -283,21 +277,20 @@ commandments of the Lord.
 And another solemn promise came from the Lord:
 
 "And [he that liveth in righteousness] shall be changed in the twinkling of an
-eye. ..." ([D&amp;C 101:31](https://www.lds.org/scriptures/dc-
-testament/dc/101.31?lang=eng#30).)
+eye. ..." ([D&amp;C 101:31](/scriptures/dc-testament/dc/101.31?lang=eng#30).)
 
 "Hearken ye to these words. Behold, I am Jesus Christ, the Savior of the
 world. Treasure these things up in your hearts, and let the solemnities of
 eternity rest upon your minds.
 
-"Be sober. Keep all my commandments." ([D&amp;C 43:34,
-35](https://www.lds.org/scriptures/dc-testament/dc/43.34%2C35?lang=eng#33).)
+"Be sober. Keep all my commandments." ([D&amp;C 43:34, 35](/scriptures/dc-
+testament/dc/43.34,35?lang=eng#33).)
 
 Another blessing promised:
 
 "For in mine own due time will I come upon the earth in judgment, and my
 people shall be redeemed and shall reign with me on earth." ([D&amp;C
-43:29](https://www.lds.org/scriptures/dc-testament/dc/43.29?lang=eng#28).)
+43:29](/scriptures/dc-testament/dc/43.29?lang=eng#28).)
 
 From the Psalms we have this promised blessing. He said:
 
@@ -309,13 +302,13 @@ place?
 
 "He that hath clean hands, and a pure heart; ... He shall receive the blessing
 from the LORD, and righteousness from the God of his salvation." ([Ps.
-24:1-5](https://www.lds.org/scriptures/ot/ps/24.1-5?lang=eng#0).)
+24:1-5](/scriptures/ot/ps/24.1-5?lang=eng#0).)
 
 Then in our own dispensation comes this great reward:
 
 "For all who will have a blessing at my hands shall abide the law which was
-appointed for that blessing." ([D&amp;C 132:5](https://www.lds.org/scriptures
-/dc-testament/dc/132.5?lang=eng#4).)
+appointed for that blessing." ([D&amp;C 132:5](/scriptures/dc-
+testament/dc/132.5?lang=eng#4).)
 
 Then he speaks about the blessings of eternity. He said of those who keep the
 commandments and live worthily:
@@ -330,8 +323,7 @@ because they have all power, and the angels are subject unto them ...
 
 "... if ye receive me in the world, then shall ye know me, and shall receive
 your exaltation; that where I am ye shall be also." ([D&amp;C 132:19, 20,
-23](https://www.lds.org/scriptures/dc-
-testament/dc/132.19%2C20%2C23?lang=eng#18).)
+23](/scriptures/dc-testament/dc/132.19,20,23?lang=eng#18).)
 
 To the children of Israel he spoke. He promises this to us today.
 
@@ -343,13 +335,13 @@ and establish my covenant with you.
 "And I will set my tabernacle among you: and my soul shall not abhor you.
 
 "And I will walk among you, and be your God, and ye shall be my people."
-([Lev. 26:9-12](https://www.lds.org/scriptures/ot/lev/26.9-12?lang=eng#8).)
+([Lev. 26:9-12](/scriptures/ot/lev/26.9-12?lang=eng#8).)
 
 And as he left them, he promised:
 
 "Peace I leave with you, my peace I give unto you: not as the world giveth,
 give I unto you. Let not your heart be troubled, neither let it be afraid."
-([John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 All this--what more could be desired or asked for? All these blessings and
 numerous others to every one of us who is willing to live the commandments and
@@ -362,4 +354,6 @@ toward perfection; and he has given us prophets to lead and guide us. And
 President Harold B. Lee today is the leader of this kingdom and this people,
 and he is a prophet of God. This I know. To this I bear solemn witness in the
 name of Jesus Christ. Amen.
+
+## References
 

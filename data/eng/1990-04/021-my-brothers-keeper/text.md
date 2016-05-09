@@ -9,13 +9,13 @@ Particularly do I enjoy reading from the book of Genesis the account
 describing the creation of the world. Ponder the power of that culminating
 declaration: "God created man in his own image, in the image of God created he
 him; male and female created he them. And God blessed them." ([Gen.
-1:27-28](https://www.lds.org/scriptures/ot/gen/1.27-28?lang=eng#26).)
+1:27-28](/scriptures/ot/gen/1.27-28?lang=eng#26).)
 
 Joy turns to sadness as we learn of Abel's tragic death at the hands of his
 brother Cain. Chapters of counsel, lessons for living, guidance from God are
 found in one brief verse: "And the Lord said unto Cain, Where is Abel thy
 brother? And he said, I know not: Am I my brother's keeper?" ([Gen.
-4:9](https://www.lds.org/scriptures/ot/gen/4.9?lang=eng#8).)
+4:9](/scriptures/ot/gen/4.9?lang=eng#8).)
 
 These two significant questions are asked, then answered, in themes taught
 throughout the scriptures. One such example is found in the life of Joseph and
@@ -27,7 +27,7 @@ caravan of merchants, Joseph's brothers determined to sell him rather than to
 leave him to die. Twenty pieces of silver extricated Joseph from the pit and
 placed him eventually in the house of Potiphar in the land of Egypt. There
 Joseph prospered, for "the Lord was with Joseph." ([Gen.
-39:2](https://www.lds.org/scriptures/ot/gen/39.2?lang=eng#1).)
+39:2](/scriptures/ot/gen/39.2?lang=eng#1).)
 
 After the years of plenty, there followed the years of famine. In the midst of
 this latter period, when the brothers of Joseph came to Egypt to buy corn,
@@ -46,20 +46,19 @@ save your lives by a great deliverance.
 
 "Moreover [Joseph] kissed all his brethren, and wept upon them: and after that
 his brethren talked with him." ([Gen. 45:5, 7-8,
-15](https://www.lds.org/scriptures/ot/gen/45.5%2C7-8%2C15?lang=eng#4).)
+15](/scriptures/ot/gen/45.5,7-8,15?lang=eng#4).)
 
 They had found their brother. Joseph in very deed was his brothers' keeper.
 
 In the touching account of the good Samaritan, Jesus teaches vividly the
 interpretation of the lesson, "Thou shalt love thy neighbour as thyself."
-([Matt. 19:19](https://www.lds.org/scriptures/nt/matt/19.19?lang=eng#18).)
-Answered effectively is the haunting question, "Am I my brother's keeper?"
+([Matt. 19:19](/scriptures/nt/matt/19.19?lang=eng#18).) Answered effectively
+is the haunting question, "Am I my brother's keeper?"
 
 An entire vista of opportunity is unfolded to our view when we contemplate the
 magnitude of King Benjamin's admonition, recorded in the Book of Mormon: "When
 ye are in the service of your fellow beings ye are only in the service of your
-God." ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).)
+God." ([Mosiah 2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).)
 
 Just last week the First Presidency and the Council of the Twelve were
 provided the opportunity to view the new Church-history exhibit situated in
@@ -128,7 +127,7 @@ corrupt, and where thieves break through and steal:
 doth corrupt, and where thieves do not break through nor steal:
 
 "For where your treasure is, there will your heart be also." ([Matt.
-6:19-21](https://www.lds.org/scriptures/nt/matt/6.19-21?lang=eng#18).)
+6:19-21](/scriptures/nt/matt/6.19-21?lang=eng#18).)
 
 After the session during which this passage of scripture had been presented, a
 handwritten letter, carefully tucked away in a sealed envelope, was handed to
@@ -217,8 +216,7 @@ voice glorified God,
 "And fell down on his face at his feet. ...
 
 "And [Jesus] said unto him, Arise, go thy way: thy faith hath made thee
-whole." ([Luke 17:15-16,
-19](https://www.lds.org/scriptures/nt/luke/17.15-16%2C19?lang=eng#14).)
+whole." ([Luke 17:15-16, 19](/scriptures/nt/luke/17.15-16,19?lang=eng#14).)
 
 The desire to help another, the quest for the lost sheep, may not always yield
 success at once. On occasion progress is slow--even indiscernible. Such was
@@ -256,15 +254,15 @@ felt by Bishop Warner as he, dressed in white, stood with Douglas in water
 waist-deep and, raising his right arm to the square, repeated those sacred
 words, "Having been commissioned of Jesus Christ, I baptize you in the name of
 the Father, and of the Son, and of the Holy Ghost." ([D&amp;C
-20:73](https://www.lds.org/scriptures/dc-testament/dc/20.73?lang=eng#72).)
+20:73](/scriptures/dc-testament/dc/20.73?lang=eng#72).)
 
 He that was lost was found. A 26-year mission, marked by love and pursued with
 determination, had been successfully completed. Gil Warner said to me, "This
 was one of the greatest days of my life. I know the joy promised by the Lord
 when He declared, 'And if it so be that you should labor all your days ... and
 bring, save it be one soul unto me, how great shall be your joy with him in
-the kingdom of my Father!'" ([D&amp;C 18:15](https://www.lds.org/scriptures
-/dc-testament/dc/18.15?lang=eng#14).)
+the kingdom of my Father!'" ([D&amp;C 18:15](/scriptures/dc-
+testament/dc/18.15?lang=eng#14).)
 
 Were the Lord to say to Gil Warner today, as He said to Adam's son long years
 ago, "Where is Douglas, thy brother?" Bishop Warner could reply, "I am my
@@ -272,4 +270,6 @@ brother's keeper, Lord. Behold Douglas, thy son."
 
 May all of us who hold the priesthood of God demonstrate by our lives that we
 are our brothers' keepers, I pray, in the name of Jesus Christ, amen.
+
+## References
 

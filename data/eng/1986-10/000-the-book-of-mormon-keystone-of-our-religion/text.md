@@ -16,21 +16,19 @@ clearly of the importance of this modern book of scripture than what the Lord
 Himself has said about it.
 
 By His own mouth He has borne witness (1) that it is true ([D&amp;C
-17:6](https://www.lds.org/scriptures/dc-testament/dc/17.6?lang=eng#5)), (2)
-that it contains the truth and His words ([D&amp;C
-19:26](https://www.lds.org/scriptures/dc-testament/dc/19.26?lang=eng#25)), (3)
-that it was translated by power from on high ([D&amp;C
-20:8](https://www.lds.org/scriptures/dc-testament/dc/20.8?lang=eng#7)), (4)
-that it contains the fulness of the gospel of Jesus Christ ([D&amp;C
-20:9](https://www.lds.org/scriptures/dc-testament/dc/20.9?lang=eng#8),
-[D&amp;C 42:12](https://www.lds.org/scriptures/dc-
-testament/dc/42.12?lang=eng#11)), (5) that it was given by inspiration and
-confirmed by the ministering of angels ([D&amp;C
-20:10](https://www.lds.org/scriptures/dc-testament/dc/20.10?lang=eng#9)), (6)
-that it gives evidence that the holy scriptures are true ([D&amp;C
-20:11](https://www.lds.org/scriptures/dc-testament/dc/20.11?lang=eng#10)), and
-(7) that those who receive it in faith shall receive eternal life ([D&amp;C
-20:14](https://www.lds.org/scriptures/dc-testament/dc/20.14?lang=eng#13)).
+17:6](/scriptures/dc-testament/dc/17.6?lang=eng#5)), (2) that it contains the
+truth and His words ([D&amp;C 19:26](/scriptures/dc-
+testament/dc/19.26?lang=eng#25)), (3) that it was translated by power from on
+high ([D&amp;C 20:8](/scriptures/dc-testament/dc/20.8?lang=eng#7)), (4) that
+it contains the fulness of the gospel of Jesus Christ ([D&amp;C
+20:9](/scriptures/dc-testament/dc/20.9?lang=eng#8), [D&amp;C
+42:12](/scriptures/dc-testament/dc/42.12?lang=eng#11)), (5) that it was given
+by inspiration and confirmed by the ministering of angels ([D&amp;C
+20:10](/scriptures/dc-testament/dc/20.10?lang=eng#9)), (6) that it gives
+evidence that the holy scriptures are true ([D&amp;C 20:11](/scriptures/dc-
+testament/dc/20.11?lang=eng#10)), and (7) that those who receive it in faith
+shall receive eternal life ([D&amp;C 20:14](/scriptures/dc-
+testament/dc/20.14?lang=eng#13)).
 
 A second powerful testimony to the importance of the Book of Mormon is to note
 where the Lord placed its coming forth in the timetable of the unfolding
@@ -51,16 +49,16 @@ Once we realize how the Lord feels about this book, it should not surprise us
 that He also gives us solemn warnings about how we receive it. After
 indicating that those who receive the Book of Mormon with faith, working
 righteousness, will receive a crown of eternal glory (see [D&amp;C
-20:14](https://www.lds.org/scriptures/dc-testament/dc/20.14?lang=eng#13)), the
-Lord follows with this warning: "But those who harden their hearts in
-unbelief, and reject it, it shall turn to their own condemnation" ([D&amp;C
-20:15](https://www.lds.org/scriptures/dc-testament/dc/20.15?lang=eng#14)).
+20:14](/scriptures/dc-testament/dc/20.14?lang=eng#13)), the Lord follows with
+this warning: "But those who harden their hearts in unbelief, and reject it,
+it shall turn to their own condemnation" ([D&amp;C 20:15](/scriptures/dc-
+testament/dc/20.15?lang=eng#14)).
 
 In 1829, the Lord warned the Saints that they are not to trifle with sacred
-things (see [D&amp;C 6:12](https://www.lds.org/scriptures/dc-
-testament/dc/6.12?lang=eng#11)). Surely the Book of Mormon is a sacred thing,
-and yet many trifle with it, or in other words, take it lightly, treat it as
-though it is of little importance.
+things (see [D&amp;C 6:12](/scriptures/dc-testament/dc/6.12?lang=eng#11)).
+Surely the Book of Mormon is a sacred thing, and yet many trifle with it, or
+in other words, take it lightly, treat it as though it is of little
+importance.
 
 In 1832, as some early missionaries returned from their fields of labor, the
 Lord reproved them for treating the Book of Mormon lightly. As a result of
@@ -69,8 +67,7 @@ this sacred book lightly brought a loss of light to themselves, it had also
 brought the whole Church under condemnation, even all the children of Zion.
 And then the Lord said, "And they shall remain under this condemnation until
 they repent and remember the new covenant, even the Book of Mormon" ([D&amp;C
-84:54-57](https://www.lds.org/scriptures/dc-
-testament/dc/84.54-57?lang=eng#53)).
+84:54-57](/scriptures/dc-testament/dc/84.54-57?lang=eng#53)).
 
 Has the fact that we have had the Book of Mormon with us for over a century
 and a half made it seem less significant to us today? Do we remember the new
@@ -120,14 +117,14 @@ world that Jesus is the Christ (see title page of the Book of Mormon).
 The Book of Mormon is also the keystone of the doctrine of the Resurrection.
 As mentioned before, the Lord Himself has stated that the Book of Mormon
 contains the "fulness of the gospel of Jesus Christ" ([D&amp;C
-20:9](https://www.lds.org/scriptures/dc-testament/dc/20.9?lang=eng#8)). That
-does not mean it contains every teaching, every doctrine ever revealed.
-Rather, it means that in the Book of Mormon we will find the fulness of those
-doctrines required for our salvation. And they are taught plainly and simply
-so that even children can learn the ways of salvation and exaltation. The Book
-of Mormon offers so much that broadens our understandings of the doctrines of
-salvation. Without it, much of what is taught in other scriptures would not be
-nearly so plain and precious.
+20:9](/scriptures/dc-testament/dc/20.9?lang=eng#8)). That does not mean it
+contains every teaching, every doctrine ever revealed. Rather, it means that
+in the Book of Mormon we will find the fulness of those doctrines required for
+our salvation. And they are taught plainly and simply so that even children
+can learn the ways of salvation and exaltation. The Book of Mormon offers so
+much that broadens our understandings of the doctrines of salvation. Without
+it, much of what is taught in other scriptures would not be nearly so plain
+and precious.
 
 Finally, the Book of Mormon is the keystone of testimony. Just as the arch
 crumbles if the keystone is removed, so does all the Church stand or fall with
@@ -155,28 +152,25 @@ Each of the major writers of the Book of Mormon testified that he wrote for
 future generations. Nephi said: "The Lord God promised unto me that these
 things which I write shall be kept and preserved, and handed down unto my
 seed, from generation to generation" ([2 Ne.
-25:21](https://www.lds.org/scriptures/bofm/2-ne/25.21?lang=eng#20)). His
-brother Jacob, who succeeded him, wrote similar words: "For [Nephi] said that
-the history of his people should be engraven upon his other plates, and that I
-should preserve these plates and hand them down unto my seed, from generation
-to generation" ([Jacob
-1:3](https://www.lds.org/scriptures/bofm/jacob/1.3?lang=eng#2)). Enos and
-Jarom both indicated that they too were writing not for their own peoples but
-for future generations (see [Enos
-1:15-16](https://www.lds.org/scriptures/bofm/enos/1.15-16?lang=eng#14), [Jarom
-1:2](https://www.lds.org/scriptures/bofm/jarom/1.2?lang=eng#1)).
+25:21](/scriptures/bofm/2-ne/25.21?lang=eng#20)). His brother Jacob, who
+succeeded him, wrote similar words: "For [Nephi] said that the history of his
+people should be engraven upon his other plates, and that I should preserve
+these plates and hand them down unto my seed, from generation to generation"
+([Jacob 1:3](/scriptures/bofm/jacob/1.3?lang=eng#2)). Enos and Jarom both
+indicated that they too were writing not for their own peoples but for future
+generations (see [Enos 1:15-16](/scriptures/bofm/enos/1.15-16?lang=eng#14),
+[Jarom 1:2](/scriptures/bofm/jarom/1.2?lang=eng#1)).
 
 Mormon himself said, "Yea, I speak unto you, ye remnant of the house of
-Israel" ([Morm.
-7:1](https://www.lds.org/scriptures/bofm/morm/7.1?lang=eng#0)). And Moroni,
-the last of the inspired writers, actually saw our day and time. "Behold," he
+Israel" ([Morm. 7:1](/scriptures/bofm/morm/7.1?lang=eng#0)). And Moroni, the
+last of the inspired writers, actually saw our day and time. "Behold," he
 said, "the Lord hath shown unto me great and marvelous things concerning that
 which must shortly come, at that day when these things shall come forth among
 you.
 
 "Behold, I speak unto you as if ye were present, and yet ye are not. But
 behold, Jesus Christ hath shown you unto me, and I know your doing" ([Morm.
-8:34-35](https://www.lds.org/scriptures/bofm/morm/8.34-35?lang=eng#33)).
+8:34-35](/scriptures/bofm/morm/8.34-35?lang=eng#33)).
 
 If they saw our day and chose those things which would be of greatest worth to
 us, is not that how we should study the Book of Mormon? We should constantly
@@ -219,10 +213,10 @@ book which will begin to flow into your lives the moment you begin a serious
 study of the book. You will find greater power to resist temptation. You will
 find the power to avoid deception. You will find the power to stay on the
 strait and narrow path. The scriptures are called "the words of life"
-([D&amp;C 84:85](https://www.lds.org/scriptures/dc-
-testament/dc/84.85?lang=eng#84)), and nowhere is that more true than it is of
-the Book of Mormon. When you begin to hunger and thirst after those words, you
-will find life in greater and greater abundance.
+([D&amp;C 84:85](/scriptures/dc-testament/dc/84.85?lang=eng#84)), and nowhere
+is that more true than it is of the Book of Mormon. When you begin to hunger
+and thirst after those words, you will find life in greater and greater
+abundance.
 
 Our beloved brother, President Marion G. Romney, who celebrated his eighty-
 ninth birthday last month and who knows of himself of the power that resides
@@ -283,8 +277,7 @@ written--
 
 "That they may bring forth fruit meet for their Father's kingdom; otherwise
 there remaineth a scourge and judgment to be poured out upon the children of
-Zion." [[D&amp;C 84:54-58](https://www.lds.org/scriptures/dc-
-testament/dc/84.54-58?lang=eng#53)]
+Zion." [[D&amp;C 84:54-58](/scriptures/dc-testament/dc/84.54-58?lang=eng#53)]
 
 Since last general conference, I have received many letters from Saints, both
 young and old, from all over the world who accepted the challenge to read and
@@ -299,4 +292,6 @@ than by any other book."
 
 This is my prayer, that the Book of Mormon may become the keystone of our
 lives, in the name of Jesus Christ, amen.
+
+## References
 

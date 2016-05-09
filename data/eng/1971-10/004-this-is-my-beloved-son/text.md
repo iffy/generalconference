@@ -14,7 +14,7 @@ which are organized.
 eight years old, and receive the laying on of the hands.
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord." ([D&amp;C 68:25-28](https://www.lds.org/scriptures/dc-
+before the Lord." ([D&amp;C 68:25-28](/scriptures/dc-
 testament/dc/68.25-28?lang=eng#24).)
 
 To help us with these sacred responsibilities, the Lord has given us the
@@ -87,7 +87,7 @@ occasionally some special conflicts. In the 75th section of the Doctrine and
 Covenants the Lord says: "And again, verily I say unto you, that every man who
 is obliged to provide for his own family, let him provide, and he shall in
 nowise lose his crown; and let him labor in the church." ([D&amp;C
-75:28](https://www.lds.org/scriptures/dc-testament/dc/75.28?lang=eng#27).)
+75:28](/scriptures/dc-testament/dc/75.28?lang=eng#27).)
 
 This spells out two basic responsibilities: providing for our families and
 laboring in the Church. There arise questions sometimes as to a seeming
@@ -213,5 +213,5 @@ Christ. Amen.
 
 ## References
 
-  1.  "Sunrise, Sunset," from _Fiddler on the Roof, _lyrics by Sheldon Harnick (New York: Sunbeam Music Corp.,1964). Used by permission.
+  1. "Sunrise, Sunset," from _Fiddler on the Roof, _lyrics by Sheldon Harnick (New York: Sunbeam Music Corp.,1964). Used by permission.
 

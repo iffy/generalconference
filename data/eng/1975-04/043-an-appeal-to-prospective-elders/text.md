@@ -213,8 +213,7 @@ the labourers, and give them their hire, beginning from the last unto the
 first.
 
 "And when they came that were hired about the eleventh hour, they received
-every man a penny." ([Matt.
-20:1-9](https://www.lds.org/scriptures/nt/matt/20.1-9?lang=eng#0).)
+every man a penny." ([Matt. 20:1-9](/scriptures/nt/matt/20.1-9?lang=eng#0).)
 
 There is enough pay--a penny, as it were--for everyone: those who start early
 and, I thank the Lord, those who are latecomers. There is no shortage of room
@@ -263,8 +262,7 @@ thee.
 because I am good?
 
 "So the last shall be first, and the first last: for many be called, but few
-chosen." ([Matt.
-20:8-16](https://www.lds.org/scriptures/nt/matt/20.8-16?lang=eng#7).)
+chosen." ([Matt. 20:8-16](/scriptures/nt/matt/20.8-16?lang=eng#7).)
 
 I wish you brethren of the prospective elders knew how hard we are working for
 your redemption. How anxiously we pray that you can return to the Church and
@@ -307,4 +305,6 @@ home and in your family, can return and speak once again, after your sojourn
 in the wilderness with the language of inspiration. You likewise can bear
 witness that you know, as I know, that He lives. In the name of Jesus Christ.
 Amen.
+
+## References
 

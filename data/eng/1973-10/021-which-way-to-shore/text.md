@@ -39,7 +39,7 @@ verse 12, which reads as follows:
 "For there are many yet on the earth among all sects, parties, and
 denominations, who are blinded by the subtle craftiness of men, whereby they
 lie in wait to deceive, and who are only kept from the truth because they know
-not where to find it." [[D&amp;C 123:12](https://www.lds.org/scriptures/dc-
+not where to find it." [[D&amp;C 123:12](/scriptures/dc-
 testament/dc/123.12?lang=eng#11)]
 
 My brothers and sisters, The Church of Jesus Christ of Latter-day Saints has
@@ -72,7 +72,7 @@ shall surely find him, and these are the words:
 
 "But if from thence thou shalt seek the Lord thy God, thou shalt find him, if
 thou seek him with all thy heart and with all thy soul." [[Deut.
-4:29](https://www.lds.org/scriptures/ot/deut/4.29?lang=eng#28)]
+4:29](/scriptures/ot/deut/4.29?lang=eng#28)]
 
 Remember that, you, the honest in heart, wherever you may be and listen to our
 message.
@@ -150,8 +150,7 @@ It is to be lived. That is when it takes on its great power in the lives of
 men and women, and in building the kingdom of God. As we learn to do that, my
 brothers and sisters, we are blessed, for the Lord has said, "I, the Lord, am
 bound when ye do what I say; but when ye do not what I say, ye have no
-promise." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
-testament/dc/82.10?lang=eng#9).)
+promise." ([D&amp;C 82:10](/scriptures/dc-testament/dc/82.10?lang=eng#9).)
 
 As we are able to perfect our lives, the blessings of the gospel of Jesus
 Christ become more and more meaningful, and we experience that inner joy and
@@ -181,8 +180,7 @@ read verse 67 from chapter 7 of Moses in the Pearl of Great Price:
 
 "And the Lord showed Enoch all things, even unto the end of the world; and he
 saw the day of the righteous, the hour of their redemption; and received a
-fulness of joy." [[Moses
-7:67](https://www.lds.org/scriptures/pgp/moses/7.67?lang=eng#66)]
+fulness of joy." [[Moses 7:67](/scriptures/pgp/moses/7.67?lang=eng#66)]
 
 There are many other things that could be said, but let me just summarize some
 of the things that have already been said pertaining to the great blessings
@@ -211,8 +209,7 @@ treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." [[D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17)]
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17)]
 
 What great promises! My brothers and sisters, let me just end by emphasizing
 the great blessings of eternal happiness, eternal joy, and eternal life, and
@@ -226,4 +223,6 @@ guiding us today, pointing the way under guidance and direction from on high
 in the troubled conditions under which we live. I leave you that testimony, my
 brothers and sisters, in all humility, and in the name of the Lord Jesus
 Christ. Amen.
+
+## References
 

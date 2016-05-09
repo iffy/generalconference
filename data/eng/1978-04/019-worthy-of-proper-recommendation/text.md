@@ -264,3 +264,5 @@ delegated to us to act in his name.
 May we strive every day to live worthy in every way of this great privilege
 and blessing, I humbly pray in the name of the Lord Jesus Christ. Amen.
 
+## References
+

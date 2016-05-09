@@ -20,7 +20,7 @@ these stones?
 ark of the covenant of the Lord; when it passed over Jordan, the waters of
 Jordan were cut off: and these stones shall be for a memorial unto the
 children of Israel for ever." ([Josh.
-4:6-7](https://www.lds.org/scriptures/ot/josh/4.6-7?lang=eng#5).)
+4:6-7](/scriptures/ot/josh/4.6-7?lang=eng#5).)
 
 Fathers have been leaving memorials for their children, and children have been
 raising them to their fathers, since time began. Here on Temple Square we have
@@ -50,7 +50,7 @@ President Abraham Lincoln had earlier warned, using the Savior's own words,
 "If a kingdom be divided against itself, that kingdom cannot stand.
 
 "And if a house be divided against itself, that house cannot stand." ([Mark
-3:24-25](https://www.lds.org/scriptures/nt/mark/3.24-25?lang=eng#23).)
+3:24-25](/scriptures/nt/mark/3.24-25?lang=eng#23).)
 
 However great the need may be for unity within nations, there is even greater
 need for harmony and interdependence within the worldwide Church of Jesus
@@ -83,24 +83,23 @@ through their word;
 they also may be one in us: that the world may believe that thou hast sent me.
 
 "And the glory which thou gavest me I have given them; that they may be one,
-even as we are one." (See [John
-17](https://www.lds.org/scriptures/nt/john/17.title?lang=eng).)
+even as we are one." (See [John 17](/scriptures/nt/john/17?lang=eng).)
 
 Within this Church there is a constant need for unity, for if we are not one,
-we are not his. (See [D&amp;C 38:27](https://www.lds.org/scriptures/dc-
+we are not his. (See [D&amp;C 38:27](/scriptures/dc-
 testament/dc/38.27?lang=eng#26).) We are truly dependent on each other, "and
 the eye cannot say unto the hand, I have no need of thee: nor again the head
 to the feet, I have no need of you." ([1 Cor.
-12:21](https://www.lds.org/scriptures/nt/1-cor/12.21?lang=eng#20).) Nor can
-the North Americans say to the Asians, nor the Europeans to the islanders of
-the sea, "I have no need of thee." No, in this church we have need of every
-member, and we pray, as did Paul when he wrote to the church in Corinth, "that
-there should be no schism in the body; but that the members should have the
-same care one for another.
+12:21](/scriptures/nt/1-cor/12.21?lang=eng#20).) Nor can the North Americans
+say to the Asians, nor the Europeans to the islanders of the sea, "I have no
+need of thee." No, in this church we have need of every member, and we pray,
+as did Paul when he wrote to the church in Corinth, "that there should be no
+schism in the body; but that the members should have the same care one for
+another.
 
 "And whether one member suffer, all the members suffer with it; or one member
 be honoured, all the members rejoice with it." ([1 Cor.
-12:25-26](https://www.lds.org/scriptures/nt/1-cor/12.25-26?lang=eng#24).)
+12:25-26](/scriptures/nt/1-cor/12.25-26?lang=eng#24).)
 
 Paul's words are as applicable to us today as they were to the saints at
 Corinth.
@@ -153,8 +152,7 @@ Christ, having a perfect brightness of hope, and a love of God and of all men.
 ...
 
 "My beloved brethren," continued Nephi, "this is the way; and there is none
-other way." ([2 Ne.
-31:20-21](https://www.lds.org/scriptures/bofm/2-ne/31.20-21?lang=eng#19).)
+other way." ([2 Ne. 31:20-21](/scriptures/bofm/2-ne/31.20-21?lang=eng#19).)
 
 For the entire worldwide Church, for the great body of Saints to the east and
 to the west, to the north and to the south, we pray that we may be one.
@@ -165,4 +163,6 @@ sustaining him, the Lord has blessed us. I bear witness that God lives and
 will continue to bless us if we remain as one and follow his commandments.
 That we may do so is my humble prayer, in the name of our Savior and Master,
 Jesus Christ. Amen.
+
+## References
 

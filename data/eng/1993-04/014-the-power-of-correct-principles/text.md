@@ -50,7 +50,7 @@ a joyous, satisfying experience.
 We can understand what motivates missionaries to sacrifice to serve others by
 examining their early youth. Proverbs records this principle: "Train up a
 child in the way he should go: and when he is old, he will not depart from
-it." ([Prov. 22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).)
+it." ([Prov. 22:6](/scriptures/ot/prov/22.6?lang=eng#5).)
 
 When, as mothers, you are consistently in the home, at least during the hours
 the children are predominantly there, you can detect the individual needs of
@@ -234,4 +234,6 @@ you.
 I solemnly testify that your Heavenly Father and His Beloved Son live, that
 they know you, that they love you, that they want to help you. In the name of
 Jesus Christ, amen.
+
+## References
 

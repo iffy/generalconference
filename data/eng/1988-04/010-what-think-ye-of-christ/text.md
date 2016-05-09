@@ -10,14 +10,13 @@ His work is growing and prospering there as well as throughout the world.
 
 As Jesus approached that fateful hour when he would give himself as the
 supreme sacrifice for all mankind, he asked those who challenged him, "What
-think ye of Christ?" ([Matt.
-22:42](https://www.lds.org/scriptures/nt/matt/22.42?lang=eng#41)). I have
-pondered many times that searching inquiry as it applies to my life and to all
-of us in this time of history. I wonder, as the register of our lives is
-indelibly written, and from which we will be judged, what that heavenly record
-will say of us in this generation of time. Do we fully accept him as the only
-begotten Son of God sent to earth to redeem the world? King Benjamin, as Nephi
-recorded, so testified.
+think ye of Christ?" ([Matt. 22:42](/scriptures/nt/matt/22.42?lang=eng#41)). I
+have pondered many times that searching inquiry as it applies to my life and
+to all of us in this time of history. I wonder, as the register of our lives
+is indelibly written, and from which we will be judged, what that heavenly
+record will say of us in this generation of time. Do we fully accept him as
+the only begotten Son of God sent to earth to redeem the world? King Benjamin,
+as Nephi recorded, so testified.
 
 We read from Helaman:
 
@@ -25,7 +24,7 @@ We read from Helaman:
 people; yea, remember that there is no other way nor means whereby man can be
 saved, only through the atoning blood of Jesus Christ, who shall come; yea,
 remember that he cometh to redeem the world" ([Hel.
-5:9](https://www.lds.org/scriptures/bofm/hel/5.9?lang=eng#8)).
+5:9](/scriptures/bofm/hel/5.9?lang=eng#8)).
 
 The Lamb of God came to earth to redeem and to teach. He taught the blessed
 law of love:
@@ -34,11 +33,11 @@ law of love:
 and with all thy mind. ...
 
 "Thou shalt love thy neighbour as thyself" ([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36)).
+39](/scriptures/nt/matt/22.37,39?lang=eng#36)).
 
 "A new commandment I give unto you, That ye love one another; as I have loved
 you, that ye also love one another" ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33)).
+13:34](/scriptures/nt/john/13.34?lang=eng#33)).
 
 The Holy One of Israel sought no earthly personal gain or glory. He strove
 only to serve his Father and to show forth eternal love to the children of God
@@ -50,7 +49,7 @@ love, compassion, kindness, and forgiveness. The poor and downtrodden
 continuously had his benevolence, and, as he came to the end of his mortal
 life, his heart was full of sympathy for those who had caused his crucifixion.
 He prayed to the Father, "Forgive them; for they know not what they do" ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33)).
+23:34](/scriptures/nt/luke/23.34?lang=eng#33)).
 
 As the dark and dreadful days in the world's history came to pass, Jesus was
 betrayed, apprehended, bound, and led away captive to answer the trumped-up
@@ -79,17 +78,19 @@ Again, I ask the question, "What think ye of Christ?" I bear you my solemn
 testimony and stand by the side of the disciple Peter who, when asked the
 direct and pointed question, "But whom say _ye_ that I am?" answered, "Thou
 art the Christ, the Son of the living God" ([Matt.
-16:15-16](https://www.lds.org/scriptures/nt/matt/16.15-16?lang=eng#14);
-italics added). I witness it unto you, that he is the divine Savior of the
-world, the promised Messiah. I reiterate the bold utterance of the disciple,
-"Thou art [truly] the Christ, the Son of ... God"; and I beckon to all to come
-unto Christ and receive the blessings of heaven which await those who will
-keep his commandments and endure to the end.
+16:15-16](/scriptures/nt/matt/16.15-16?lang=eng#14); italics added). I witness
+it unto you, that he is the divine Savior of the world, the promised Messiah.
+I reiterate the bold utterance of the disciple, "Thou art [truly] the Christ,
+the Son of ... God"; and I beckon to all to come unto Christ and receive the
+blessings of heaven which await those who will keep his commandments and
+endure to the end.
 
 I certify to you that we are led by living prophets today who receive
 inspiration and revelation from the Lord. I further clasp hands with Joshua,
 who said, "Choose you this day whom ye will serve; ... but as for me and my
 house, we will serve the Lord" ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14)). In the
-sacred name of Jesus Christ, our Savior, amen.
+24:15](/scriptures/ot/josh/24.15?lang=eng#14)). In the sacred name of Jesus
+Christ, our Savior, amen.
+
+## References
 

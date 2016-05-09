@@ -57,11 +57,11 @@ the church--
 "To have the privilege of receiving the mysteries of the kingdom of heaven, to
 have the heavens opened unto them, to commune with the general assembly and
 church of the Firstborn, and to enjoy the communion and presence of God the
-Father, and Jesus the mediator of the new covenant." [1]
+Father, and Jesus the mediator of the new covenant."[1]
 
 To merit this blessing, it is necessary for each of us to recall who is the
 Giver of every gift and the Provider of every blessing. "The worth of souls is
-great in the sight of God" [2]  is not an idle phrase but a heaven-sent
+great in the sight of God"[2] is not an idle phrase but a heaven-sent
 declaration for our enlightenment and guidance. We must ever remember who we
 are and what God expects us to become. This pearl of philosophy is hidden away
 in the delightful musical _Fiddler on the Roof,_ as the peasant father Tevye
@@ -91,7 +91,7 @@ consuming, but ever realize three guidelines to be a successful bishop: feed
 the poor, have no favorites, and tolerate no iniquity." Commenting on this
 last guideline, President Spencer W. Kimball declared, "When dealing with
 transgression, apply a bandage large enough to cover the wound--no larger, no
-smaller." [3]
+smaller."[3]
 
 Second, prior to the creation of the Toronto Ontario Stake in 1960, Elder
 ElRay L. Christiansen, then an Assistant to the Council of the Twelve,
@@ -122,8 +122,8 @@ membership of the East Cache Stake had shown marked improvement.
 
 Spirituality is not bestowed simply by wishing; rather, it comes quietly and
 imperceptibly by serving. The Lord counseled, "Therefore, if ye have desires
-to serve God ye are called to the work." [4]  Many years ago, while attending
-a district conference in Ottawa, Canada, I called two men from the small
+to serve God ye are called to the work."[4] Many years ago, while attending a
+district conference in Ottawa, Canada, I called two men from the small
 Cornwall Branch to serve in responsible positions in the Lord's service. I
 jotted down their heartfelt response and share with you tonight the words of
 yesteryear. From John Brady: "I have covenanted; I will faithfully serve."
@@ -132,7 +132,7 @@ serve."
 
 President John Taylor provided rather direct counsel to those of us who hold
 the priesthood: "If you do not magnify your callings, God will hold you
-responsible for those whom you might have saved had you done your duty." [5]
+responsible for those whom you might have saved had you done your duty."[5]
 
 Somehow I feel that if we will always remember who it is we serve, and on
 whose errand we are, we will draw closer to the source of the inspiration we
@@ -276,40 +276,40 @@ _Join in the joy of the Sabbath School throng._
 
 _Great be the glory of those who do right,_
 
-_Who overcome evil, in good take delight._ [6]
+_Who overcome evil, in good take delight._[6]
 
 I was all alone in the car--or was I? The miles hurried by. In silent reverie,
 I reflected on the events of the conference. Francis Winters, a bookkeeper at
 the community cheese factory, a man of modest means and humble home, had
 walked the path that Jesus walked and, like the Master, he "went about doing
-good." [7]  He qualified for the Savior's description of Nathanael as he
-approached Him from afar: "Behold an Israelite indeed, in whom is no guile!"
-[8]
+good."[7] He qualified for the Savior's description of Nathanael as he
+approached Him from afar: "Behold an Israelite indeed, in whom is no
+guile!"[8]
 
 Brethren, my prayer tonight is that all of us, in whatever capacities we serve
 in the Church, may merit the gentle touch on our shoulder of the Master's hand
 and qualify for that same salutation received by Nathanael. That we, at the
 conclusion of life's journey, may hear those divinely spoken words, "Well
-done, thou good and faithful servant" [9]  is my prayer in the name of Jesus
+done, thou good and faithful servant"[9] is my prayer in the name of Jesus
 Christ, amen.
 
 ## References
 
-  1.   [D&amp;C 107:18-19](https://www.lds.org/scriptures/dc-testament/dc/107.18-19?lang=eng#17).
+  1. [D&amp;C 107:18-19](https://www.lds.org/scriptures/dc-testament/dc/107.18-19?lang=eng#17).
 
-  2.   [D&amp;C 18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).
+  2. [D&amp;C 18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).
 
-  3.  See _Faith Precedes the Miracle_ (Salt Lake City: Deseret Book Co., 1975), p. 178.
+  3. See _Faith Precedes the Miracle_ (Salt Lake City: Deseret Book Co., 1975), p. 178.
 
-  4.   [D&amp;C 4:3](https://www.lds.org/scriptures/dc-testament/dc/4.3?lang=eng#2).
+  4. [D&amp;C 4:3](https://www.lds.org/scriptures/dc-testament/dc/4.3?lang=eng#2).
 
-  5.  In _Journal of Discourses,_ 20:23.
+  5. In _Journal of Discourses,_ 20:23.
 
-  6.   _Hymns,_ 1985, no. 278.
+  6. _Hymns,_ 1985, no. 278.
 
-  7.   [Acts 10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).
+  7. [Acts 10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).
 
-  8.   [John 1:47](https://www.lds.org/scriptures/nt/john/1.47?lang=eng#46).
+  8. [John 1:47](https://www.lds.org/scriptures/nt/john/1.47?lang=eng#46).
 
-  9.   [Matt. 25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).
+  9. [Matt. 25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).
 

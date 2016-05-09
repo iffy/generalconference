@@ -1,471 +1,403 @@
 items:
-- article_id: '03057_000_003'
-  item: '000'
+- item: 1
   key: 000-why-call-me-lord-lord-and-do-not-the-things-which-i-say
   month: 4
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: why-call-me-lord-lord-and-do-not-the-things-which-i-say
   speaker: Spencer W. Kimball
-  title: "\u201CWhy Call Me Lord, Lord, and Do Not the Things Which I Say?\u201D"
+  title: '"Why Call Me Lord, Lord, and Do Not the Things Which I Say?"'
   url: https://www.lds.org/general-conference/1975/04/why-call-me-lord-lord-and-do-not-the-things-which-i-say?lang=eng
   year: 1975
-- article_id: '03057_000_004'
-  item: '001'
+- item: 2
   key: 001-testimony
   month: 4
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: testimony
   speaker: O. Leslie Stone
   title: Testimony
   url: https://www.lds.org/general-conference/1975/04/testimony?lang=eng
   year: 1975
-- article_id: '03057_000_005'
-  item: '002'
+- item: 3
   key: 002-feed-the-flock
   month: 4
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: feed-the-flock
   speaker: David B. Haight
   title: Feed the Flock
   url: https://www.lds.org/general-conference/1975/04/feed-the-flock?lang=eng
   year: 1975
-- article_id: '03057_000_006'
-  item: '003'
+- item: 4
   key: 003-trust-in-the-lord
   month: 4
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: trust-in-the-lord
   speaker: Marion D. Hanks
   title: Trust in the Lord
   url: https://www.lds.org/general-conference/1975/04/trust-in-the-lord?lang=eng
   year: 1975
-- article_id: '03057_000_007'
-  item: '004'
+- item: 5
   key: 004-the-way-home
   month: 4
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: the-way-home
   speaker: Thomas S. Monson
   title: The Way Home
   url: https://www.lds.org/general-conference/1975/04/the-way-home?lang=eng
   year: 1975
-- article_id: '03057_000_010'
-  item: '007'
+- item: 6
+  key: 005-1795404136001
+  month: 4
+  session_title: Friday Afternoon Session
+  slug: '1795404136001'
+  speaker: Elder Francis M. Gibbons
+  title: Statistical Report 1974
+  url: https://www.lds.org/general-conference/1975/04/media/session_2_talk_1/1795404136001?lang=eng
+  year: 1975
+- item: 7
+  key: 006-1795404137001
+  month: 4
+  session_title: Friday Afternoon Session
+  slug: '1795404137001'
+  speaker: Elder Wilford G. Edling
+  title: Church Auditing Committee Report
+  url: https://www.lds.org/general-conference/1975/04/media/session_2_talk_2/1795404137001?lang=eng
+  year: 1975
+- item: 8
   key: 007-the-sustaining-of-church-officers
   month: 4
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: the-sustaining-of-church-officers
-  speaker: 'N. Eldon Tanner:'
+  speaker: N. Eldon Tanner
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1975/04/the-sustaining-of-church-officers?lang=eng
   year: 1975
-- article_id: '03057_000_011'
-  item: 008
+- item: 9
   key: 008-using-our-free-agency
   month: 4
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: using-our-free-agency
   speaker: Delbert L. Stapley
   title: Using Our Free Agency
   url: https://www.lds.org/general-conference/1975/04/using-our-free-agency?lang=eng
   year: 1975
-- article_id: '03057_000_012'
-  item: 009
+- item: 10
   key: 009-the-laws-of-god-are-blessings
   month: 4
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: the-laws-of-god-are-blessings
   speaker: ElRay L. Christiansen
   title: The Laws of God Are Blessings
   url: https://www.lds.org/general-conference/1975/04/the-laws-of-god-are-blessings?lang=eng
   year: 1975
-- article_id: '03057_000_013'
-  item: '010'
+- item: 11
   key: 010-faithful-laborers
   month: 4
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: faithful-laborers
   speaker: Loren C. Dunn
   title: Faithful Laborers
   url: https://www.lds.org/general-conference/1975/04/faithful-laborers?lang=eng
   year: 1975
-- article_id: '03057_000_014'
-  item: '011'
+- item: 12
   key: 011-the-sanctity-of-life
   month: 4
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: the-sanctity-of-life
   speaker: James E. Faust
   title: The Sanctity of Life
   url: https://www.lds.org/general-conference/1975/04/the-sanctity-of-life?lang=eng
   year: 1975
-- article_id: '03057_000_015'
-  item: '012'
+- item: 13
   key: 012-the-road-to-happiness
   month: 4
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: the-road-to-happiness
-  speaker: Elder Joseph Anderson
+  speaker: Joseph Anderson
   title: The Road to Happiness
   url: https://www.lds.org/general-conference/1975/04/the-road-to-happiness?lang=eng
   year: 1975
-- article_id: '03057_000_016'
-  item: '013'
+- item: 14
   key: 013-a-tribute
   month: 4
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: a-tribute
   speaker: L. Tom Perry
   title: A Tribute
   url: https://www.lds.org/general-conference/1975/04/a-tribute?lang=eng
   year: 1975
-- article_id: '03057_000_017'
-  item: '014'
+- item: 15
   key: 014-christ-in-america
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: christ-in-america
   speaker: N. Eldon Tanner
   title: Christ in America
   url: https://www.lds.org/general-conference/1975/04/christ-in-america?lang=eng
   year: 1975
-- article_id: 03057_000_018
-  item: '015'
+- item: 16
   key: 015-faith-the-first-step
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: faith-the-first-step
   speaker: Howard W. Hunter
   title: "Faith\u2014The First Step"
   url: https://www.lds.org/general-conference/1975/04/faith-the-first-step?lang=eng
   year: 1975
-- article_id: 03057_000_019
-  item: '016'
+- item: 17
   key: 016-the-people-who-influence-us
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-people-who-influence-us
   speaker: William Grant Bangerter
   title: The People Who Influence Us
   url: https://www.lds.org/general-conference/1975/04/the-people-who-influence-us?lang=eng
   year: 1975
-- article_id: '03057_000_020'
-  item: '017'
+- item: 18
   key: 017-birth
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: birth
   speaker: Sterling W. Sill
   title: Birth
   url: https://www.lds.org/general-conference/1975/04/birth?lang=eng
   year: 1975
-- article_id: '03057_000_021'
-  item: 018
+- item: 19
   key: 018-a-question-of-free-agency
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: a-question-of-free-agency
   speaker: Robert D. Hales
   title: A Question of Free Agency
   url: https://www.lds.org/general-conference/1975/04/a-question-of-free-agency?lang=eng
   year: 1975
-- article_id: '03057_000_022'
-  item: 019
+- item: 20
   key: 019-today-millions-are-waiting
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: today-millions-are-waiting
   speaker: Bernard P. Brockbank
   title: Today Millions Are Waiting
   url: https://www.lds.org/general-conference/1975/04/today-millions-are-waiting?lang=eng
   year: 1975
-- article_id: '03057_000_023'
-  item: '020'
+- item: 21
   key: 020-the-sabbath-day
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sabbath-day
   speaker: Mark E. Petersen
   title: The Sabbath Day
   url: https://www.lds.org/general-conference/1975/04/the-sabbath-day?lang=eng
   year: 1975
-- article_id: '03057_000_024'
-  item: '021'
+- item: 22
   key: 021-obedience-consecration-and-sacrifice
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: obedience-consecration-and-sacrifice
   speaker: Bruce R. McConkie
   title: Obedience, Consecration, and Sacrifice
   url: https://www.lds.org/general-conference/1975/04/obedience-consecration-and-sacrifice?lang=eng
   year: 1975
-- article_id: '03057_000_025'
-  item: '022'
+- item: 23
   key: 022-help-for-parents
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: help-for-parents
   speaker: H. Burke Peterson
   title: Help for Parents
   url: https://www.lds.org/general-conference/1975/04/help-for-parents?lang=eng
   year: 1975
-- article_id: '03057_000_026'
-  item: '023'
+- item: 24
   key: 023-the-roots-of-mormonism
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-roots-of-mormonism
-  speaker: Hartman Rector, Jr.
+  speaker: Hartman Rector Jr.
   title: The Roots of Mormonism
   url: https://www.lds.org/general-conference/1975/04/the-roots-of-mormonism?lang=eng
   year: 1975
-- article_id: '03057_000_027'
-  item: '024'
+- item: 25
   key: 024-a-time-to-prepare
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-time-to-prepare
   speaker: William H. Bennett
   title: A Time to Prepare
   url: https://www.lds.org/general-conference/1975/04/a-time-to-prepare?lang=eng
   year: 1975
-- article_id: 03057_000_028
-  item: '025'
+- item: 26
   key: 025-the-message-of-easter
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-message-of-easter
   speaker: Franklin D. Richards
   title: The Message of Easter
   url: https://www.lds.org/general-conference/1975/04/the-message-of-easter?lang=eng
   year: 1975
-- article_id: 03057_000_029
-  item: '026'
+- item: 27
   key: 026-a-time-for-every-purpose
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-time-for-every-purpose
   speaker: Paul H. Dunn
   title: A Time for Every Purpose
   url: https://www.lds.org/general-conference/1975/04/a-time-for-every-purpose?lang=eng
   year: 1975
-- article_id: '03057_000_030'
-  item: '027'
+- item: 28
   key: 027-the-book-of-mormon-is-the-word-of-god
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-book-of-mormon-is-the-word-of-god
   speaker: Ezra Taft Benson
   title: The Book of Mormon Is the Word of God
   url: https://www.lds.org/general-conference/1975/04/the-book-of-mormon-is-the-word-of-god?lang=eng
   year: 1975
-- article_id: '03057_000_031'
-  item: 028
+- item: 29
   key: 028-a-self-inflicted-purging
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: a-self-inflicted-purging
   speaker: Vaughn J. Featherstone
   title: A Self-Inflicted Purging
   url: https://www.lds.org/general-conference/1975/04/a-self-inflicted-purging?lang=eng
   year: 1975
-- article_id: '03057_000_032'
-  item: 029
+- item: 30
   key: 029-salvation-for-the-dead-a-missionary-activity
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: salvation-for-the-dead-a-missionary-activity
   speaker: Theodore M. Burton
   title: "Salvation for the Dead\u2014A Missionary Activity"
   url: https://www.lds.org/general-conference/1975/04/salvation-for-the-dead-a-missionary-activity?lang=eng
   year: 1975
-- article_id: '03057_000_033'
-  item: '030'
+- item: 31
   key: 030-we-need-men-of-courage
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: we-need-men-of-courage
   speaker: Marion G. Romney
   title: We Need Men of Courage
   url: https://www.lds.org/general-conference/1975/04/we-need-men-of-courage?lang=eng
   year: 1975
-- article_id: '03057_000_034'
-  item: '031'
+- item: 32
   key: 031-success-is-gauged-by-self-mastery
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: success-is-gauged-by-self-mastery
   speaker: N. Eldon Tanner
   title: Success Is Gauged by Self-Mastery
   url: https://www.lds.org/general-conference/1975/04/success-is-gauged-by-self-mastery?lang=eng
   year: 1975
-- article_id: '03057_000_035'
-  item: '032'
+- item: 33
   key: 032-to-bear-the-priesthood-worthily
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: to-bear-the-priesthood-worthily
   speaker: Spencer W. Kimball
   title: To Bear the Priesthood Worthily
   url: https://www.lds.org/general-conference/1975/04/to-bear-the-priesthood-worthily?lang=eng
   year: 1975
-- article_id: '03057_000_036'
-  item: '033'
+- item: 34
   key: 033-easter-thoughts
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: easter-thoughts
   speaker: Marion G. Romney
   title: Easter Thoughts
   url: https://www.lds.org/general-conference/1975/04/easter-thoughts?lang=eng
   year: 1975
-- article_id: '03057_000_037'
-  item: '034'
+- item: 35
   key: 034-the-time-is-now
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-time-is-now
   speaker: Marvin J. Ashton
   title: The Time Is Now
   url: https://www.lds.org/general-conference/1975/04/the-time-is-now?lang=eng
   year: 1975
-- article_id: 03057_000_038
-  item: '035'
+- item: 36
   key: 035-make-haste-to-obey
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: make-haste-to-obey
   speaker: J. Thomas Fyans
   title: Make Haste to Obey
   url: https://www.lds.org/general-conference/1975/04/make-haste-to-obey?lang=eng
   year: 1975
-- article_id: 03057_000_039
-  item: '036'
+- item: 37
   key: 036-come-drink-the-living-water
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: come-drink-the-living-water
   speaker: A. Theodore Tuttle
   title: Come Drink the Living Water
   url: https://www.lds.org/general-conference/1975/04/come-drink-the-living-water?lang=eng
   year: 1975
-- article_id: '03057_000_040'
-  item: '037'
+- item: 38
   key: 037-the-symbol-of-christ
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-symbol-of-christ
   speaker: Gordon B. Hinckley
   title: The Symbol of Christ
   url: https://www.lds.org/general-conference/1975/04/the-symbol-of-christ?lang=eng
   year: 1975
-- article_id: '03057_000_041'
-  item: 038
+- item: 39
   key: 038-one-lord-one-faith-one-baptism
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: one-lord-one-faith-one-baptism
-  speaker: Elder LeGrand Richards
+  speaker: LeGrand Richards
   title: One Lord, One Faith, One Baptism
   url: https://www.lds.org/general-conference/1975/04/one-lord-one-faith-one-baptism?lang=eng
   year: 1975
-- article_id: '03057_000_042'
-  item: 039
+- item: 40
   key: 039-scouters-lead-them-to-a-mission
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: scouters-lead-them-to-a-mission
   speaker: S. Dilworth Young
-  title: 'Scouters: Lead Them to a Mission'
+  title: Scouters:Lead Them to a Mission
   url: https://www.lds.org/general-conference/1975/04/scouters-lead-them-to-a-mission?lang=eng
   year: 1975
-- article_id: '03057_000_043'
-  item: '040'
+- item: 41
   key: 040-my-mother-gained-a-better-son
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: my-mother-gained-a-better-son
   speaker: Adney Y. Komatsu
   title: My Mother Gained a Better Son
   url: https://www.lds.org/general-conference/1975/04/my-mother-gained-a-better-son?lang=eng
   year: 1975
-- article_id: '03057_000_044'
-  item: '041'
+- item: 42
   key: 041-the-man-of-christ
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-man-of-christ
   speaker: Neal A. Maxwell
   title: The Man of Christ
   url: https://www.lds.org/general-conference/1975/04/the-man-of-christ?lang=eng
   year: 1975
-- article_id: '03057_000_045'
-  item: '042'
+- item: 43
   key: 042-anchored-in-testimony
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: anchored-in-testimony
   speaker: Joseph B. Wirthlin
   title: Anchored in Testimony
   url: https://www.lds.org/general-conference/1975/04/anchored-in-testimony?lang=eng
   year: 1975
-- article_id: '03057_000_046'
-  item: '043'
+- item: 44
   key: 043-an-appeal-to-prospective-elders
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: an-appeal-to-prospective-elders
   speaker: Boyd K. Packer
   title: An Appeal to Prospective Elders
   url: https://www.lds.org/general-conference/1975/04/an-appeal-to-prospective-elders?lang=eng
   year: 1975
-- article_id: '03057_000_047'
-  item: '044'
+- item: 45
   key: 044-why-do-we-continue-to-tolerate-sin
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: why-do-we-continue-to-tolerate-sin
   speaker: Spencer W. Kimball

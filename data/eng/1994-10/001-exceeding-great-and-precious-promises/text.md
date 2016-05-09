@@ -99,8 +99,7 @@ Those words of President Joseph F. Smith represent my feelings today.
 Like my Brethren before me, I receive with this calling the assurance that God
 will direct his prophet. I humbly accept the call to serve and declare with
 the Psalmist, "The Lord is my strength and my shield; my heart trusted in him,
-and I am helped" ([Ps.
-28:7](https://www.lds.org/scriptures/ot/ps/28.7?lang=eng#6)).
+and I am helped" ([Ps. 28:7](/scriptures/ot/ps/28.7?lang=eng#6)).
 
 At the time of my call, I issued two invitations to the members of the Church.
 I feel impressed to give these continued emphasis.
@@ -117,15 +116,15 @@ perfect forgiveness.
 To those who are hurt or are struggling and afraid, we say, let us stand with
 you and dry your tears. Come back. Stand with us in The Church of Jesus Christ
 of Latter-day Saints. Take literally his invitation to "come, follow me" (see
-[Matt. 16:24](https://www.lds.org/scriptures/nt/matt/16.24?lang=eng#23);
-[Matt. 19:21](https://www.lds.org/scriptures/nt/matt/19.21?lang=eng#20); [Mark
-8:34](https://www.lds.org/scriptures/nt/mark/8.34?lang=eng#33); [Mark
-10:21](https://www.lds.org/scriptures/nt/mark/10.21?lang=eng#20); [Luke
-9:23](https://www.lds.org/scriptures/nt/luke/9.23?lang=eng#22); [Luke
-18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21); [John
-21:22](https://www.lds.org/scriptures/nt/john/21.22?lang=eng#21); [D&amp;C
-38:22](https://www.lds.org/scriptures/dc-testament/dc/38.22?lang=eng#21)). He
-is the only sure way; he is the light of the world.
+[Matt. 16:24](/scriptures/nt/matt/16.24?lang=eng#23); [Matt.
+19:21](/scriptures/nt/matt/19.21?lang=eng#20); [Mark
+8:34](/scriptures/nt/mark/8.34?lang=eng#33); [Mark
+10:21](/scriptures/nt/mark/10.21?lang=eng#20); [Luke
+9:23](/scriptures/nt/luke/9.23?lang=eng#22); [Luke
+18:22](/scriptures/nt/luke/18.22?lang=eng#21); [John
+21:22](/scriptures/nt/john/21.22?lang=eng#21); [D&amp;C 38:22](/scriptures/dc-
+testament/dc/38.22?lang=eng#21)). He is the only sure way; he is the light of
+the world.
 
 We will, as you would expect us to do, continue to hold to the high standards
 of conduct which define a Latter-day Saint. It is the Lord who established
@@ -135,14 +134,13 @@ Let us study the Master's every teaching and devote ourselves more fully to
 his example. He has given us "all things that pertain unto life and
 godliness." He has "called us to glory and virtue" and has "given unto us
 exceeding great and precious promises: that by these [we] might be partakers
-of the divine nature" ([2 Pet.
-1:3-4](https://www.lds.org/scriptures/nt/2-pet/1.3-4?lang=eng#2)).
+of the divine nature" ([2 Pet. 1:3-4](/scriptures/nt/2-pet/1.3-4?lang=eng#2)).
 
 I believe in those "exceeding great and precious promises," and I invite all
 within the sound of my voice to claim them. We should strive to "be partakers
 of the divine nature." Only then may we truly hope for "peace in this world,
-and eternal life in the world to come" ([D&amp;C
-59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22)).
+and eternal life in the world to come" ([D&amp;C 59:23](/scriptures/dc-
+testament/dc/59.23?lang=eng#22)).
 
 In that spirit I invite the Latter-day Saints to look to the temple of the
 Lord as the great symbol of your membership. It is the deepest desire of my
@@ -174,21 +172,20 @@ family life, instituted from before the foundation of the world, provides for
 children to be born to and nurtured by a father and mother who are husband and
 wife, lawfully married. Parenthood is a sacred obligation and privilege, with
 children welcomed as a "heritage of the Lord" ([Ps.
-127:3](https://www.lds.org/scriptures/ot/ps/127.3?lang=eng#2)).
+127:3](/scriptures/ot/ps/127.3?lang=eng#2)).
 
 A worried society now begins to see that the disintegration of the family
 brings upon the world the calamities foretold by the prophets. The world's
 councils and deliberations will succeed only when they define the family as
 the Lord has revealed it to be. "Except the Lord build the house, they labour
-in vain that build it" ([Ps.
-127:1](https://www.lds.org/scriptures/ot/ps/127.1?lang=eng#0)).
+in vain that build it" ([Ps. 127:1](/scriptures/ot/ps/127.1?lang=eng#0)).
 
 As we become more removed from the lifestyle of the world, the Church becomes
 more the welcome refuge for hundreds of thousands who come each year and say,
 "Let us go up to the mountain of the Lord, to the house of the God of Jacob;
 and he will teach us of his ways, and we will walk in his paths: for out of
 Zion shall go forth the law, and the word of the Lord from Jerusalem" ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2)).
+2:3](/scriptures/ot/isa/2.3?lang=eng#2)).
 
 My brothers and sisters, I testify that the impressions of the Spirit have
 weighed heavily upon me in considering these matters. Our Eternal Heavenly
@@ -198,8 +195,7 @@ through his prophets.
 Let us, as Latter-day Saints, claim those "exceeding great and precious
 promises" so that we, "Holy Father, ... may grow up in thee, and receive a
 fulness of the Holy Ghost, and be organized according to thy laws, and be
-prepared to obtain every needful thing" ([D&amp;C
-109:14-15](https://www.lds.org/scriptures/dc-
+prepared to obtain every needful thing" ([D&amp;C 109:14-15](/scriptures/dc-
 testament/dc/109.14-15?lang=eng#13)).
 
 I invoke his blessings upon you in your homes, in your work, in your service
@@ -208,4 +204,6 @@ in his church.
 I pledge my life, my strength, and the full measure of my soul to serving him.
 May we have ears to hear and hearts to feel, and the courage to follow, I
 humbly pray in the name of Jesus Christ, amen.
+
+## References
 

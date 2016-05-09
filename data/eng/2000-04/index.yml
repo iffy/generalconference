@@ -1,420 +1,344 @@
 items:
-- article_id: PD10033256_000_003
-  item: '002'
-  key: 002-to-all-the-world-in-testimony
+- item: 1
+  key: 000-to-all-the-world-in-testimony
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: to-all-the-world-in-testimony
   speaker: Gordon B. Hinckley
   title: To All the World in Testimony
   url: https://www.lds.org/general-conference/2000/04/to-all-the-world-in-testimony?lang=eng
   year: 2000
-- article_id: PD10033256_000_004
-  item: '004'
-  key: 004-the-cloven-tongues-of-fire
+- item: 2
+  key: 001-the-cloven-tongues-of-fire
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-cloven-tongues-of-fire
   speaker: Boyd K. Packer
   title: The Cloven Tongues of Fire
   url: https://www.lds.org/general-conference/2000/04/the-cloven-tongues-of-fire?lang=eng
   year: 2000
-- article_id: PD10033256_000_005
-  item: '005'
-  key: 005-future-leaders
+- item: 3
+  key: 002-future-leaders
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: future-leaders
   speaker: Harold G. Hillam
   title: Future Leaders
   url: https://www.lds.org/general-conference/2000/04/future-leaders?lang=eng
   year: 2000
-- article_id: PD10033256_000_006
-  item: '007'
-  key: 007-living-happily-ever-after
+- item: 4
+  key: 003-living-happily-ever-after
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: living-happily-ever-after
   speaker: Coleen K. Menlove
   title: Living Happily Ever After
   url: https://www.lds.org/general-conference/2000/04/living-happily-ever-after?lang=eng
   year: 2000
-- article_id: PD10033256_000_007
-  item: 008
-  key: 008-resurrection
+- item: 5
+  key: 004-resurrection
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: resurrection
   speaker: Dallin H. Oaks
   title: Resurrection
   url: https://www.lds.org/general-conference/2000/04/resurrection?lang=eng
   year: 2000
-- article_id: PD10033256_000_008
-  item: '010'
-  key: 010-the-shield-of-faith
+- item: 6
+  key: 005-the-shield-of-faith
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-shield-of-faith
   speaker: James E. Faust
   title: The Shield of Faith
   url: https://www.lds.org/general-conference/2000/04/the-shield-of-faith?lang=eng
   year: 2000
-- article_id: PD10033256_000_009
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2000/04/the-sustaining-of-church-officers?lang=eng
   year: 2000
-- article_id: PD10033256_000_010
-  item: '015'
-  key: 015-the-church-audit-committee-report
+- item: 8
+  key: 007-the-church-audit-committee-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-church-audit-committee-report
   speaker: Ted E. Davis
   title: The Church Audit Committee Report
   url: https://www.lds.org/general-conference/2000/04/the-church-audit-committee-report?lang=eng
   year: 2000
-- article_id: PD10033256_000_011
-  item: '016'
-  key: 016-statistical-report-1999
+- item: 9
+  key: 008-statistical-report-1999
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-1999
   speaker: F. Michael Watson
   title: Statistical Report, 1999
   url: https://www.lds.org/general-conference/2000/04/statistical-report-1999?lang=eng
   year: 2000
-- article_id: PD10033256_000_012
-  item: '017'
-  key: 017-thou-shalt-give-heed-unto-all-his-words
+- item: 10
+  key: 009-thou-shalt-give-heed-unto-all-his-words
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: thou-shalt-give-heed-unto-all-his-words
   speaker: L. Tom Perry
-  title: "\u201CThou Shalt Give Heed unto All His Words\u201D"
+  title: '"Thou Shalt Give Heed unto All His Words"'
   url: https://www.lds.org/general-conference/2000/04/thou-shalt-give-heed-unto-all-his-words?lang=eng
   year: 2000
-- article_id: PD10033256_000_013
-  item: 018
-  key: 018-a-temple-for-west-africa
+- item: 11
+  key: 010-a-temple-for-west-africa
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-temple-for-west-africa
   speaker: Glenn L. Pace
   title: A Temple for West Africa
   url: https://www.lds.org/general-conference/2000/04/a-temple-for-west-africa?lang=eng
   year: 2000
-- article_id: PD10033256_000_014
-  item: 019
-  key: 019-keep-an-eternal-perspective
+- item: 12
+  key: 011-keep-an-eternal-perspective
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: keep-an-eternal-perspective
   speaker: Jay E. Jensen
   title: Keep an Eternal Perspective
   url: https://www.lds.org/general-conference/2000/04/keep-an-eternal-perspective?lang=eng
   year: 2000
-- article_id: PD10033256_000_015
-  item: '021'
-  key: 021-are-you-still-here
+- item: 13
+  key: 012-are-you-still-here
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: are-you-still-here
   speaker: Gary J. Coleman
-  title: "\u201CAre You Still Here?\u201D"
+  title: '"Are You Still Here?"'
   url: https://www.lds.org/general-conference/2000/04/are-you-still-here?lang=eng
   year: 2000
-- article_id: PD10033256_000_016
-  item: '022'
-  key: 022-how-is-it-with-us
+- item: 14
+  key: 013-how-is-it-with-us
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: how-is-it-with-us
   speaker: M. Russell Ballard
-  title: "\u201CHow Is It with Us?\u201D"
+  title: '"How Is It with Us?"'
   url: https://www.lds.org/general-conference/2000/04/how-is-it-with-us?lang=eng
   year: 2000
-- article_id: PD10033256_000_017
-  item: '023'
-  key: 023-faith-devotion-and-gratitude
+- item: 15
+  key: 014-faith-devotion-and-gratitude
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: faith-devotion-and-gratitude
   speaker: David B. Haight
   title: Faith, Devotion, and Gratitude
   url: https://www.lds.org/general-conference/2000/04/faith-devotion-and-gratitude?lang=eng
   year: 2000
-- article_id: PD10033256_000_018
-  item: '027'
-  key: 027-the-sanctity-of-womanhood
+- item: 16
+  key: 015-the-sanctity-of-womanhood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-sanctity-of-womanhood
   speaker: Richard G. Scott
   title: The Sanctity of Womanhood
   url: https://www.lds.org/general-conference/2000/04/the-sanctity-of-womanhood?lang=eng
   year: 2000
-- article_id: PD10033256_000_019
-  item: 028
-  key: 028-honoring-the-priesthood
+- item: 17
+  key: 016-honoring-the-priesthood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: honoring-the-priesthood
   speaker: H. David Burton
   title: Honoring the Priesthood
   url: https://www.lds.org/general-conference/2000/04/honoring-the-priesthood?lang=eng
   year: 2000
-- article_id: PD10033256_000_020
-  item: 029
-  key: 029-your-own-personal-testimony
+- item: 18
+  key: 017-your-own-personal-testimony
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: your-own-personal-testimony
-  speaker: Elder Angel Abrea
+  speaker: Angel Abrea
   title: Your Own Personal Testimony
   url: https://www.lds.org/general-conference/2000/04/your-own-personal-testimony?lang=eng
   year: 2000
-- article_id: PD10033256_000_021
-  item: '030'
-  key: 030-the-power-of-self-mastery
+- item: 19
+  key: 018-the-power-of-self-mastery
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-power-of-self-mastery
   speaker: James E. Faust
   title: The Power of Self-Mastery
   url: https://www.lds.org/general-conference/2000/04/the-power-of-self-mastery?lang=eng
   year: 2000
-- article_id: PD10033256_000_022
-  item: '032'
-  key: 032-your-eternal-voyage
+- item: 20
+  key: 019-your-eternal-voyage
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: your-eternal-voyage
   speaker: Thomas S. Monson
   title: Your Eternal Voyage
   url: https://www.lds.org/general-conference/2000/04/your-eternal-voyage?lang=eng
   year: 2000
-- article_id: PD10033256_000_023
-  item: '033'
-  key: 033-the-stake-president
+- item: 21
+  key: 020-the-stake-president
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-stake-president
   speaker: Gordon B. Hinckley
   title: The Stake President
   url: https://www.lds.org/general-conference/2000/04/the-stake-president?lang=eng
   year: 2000
-- article_id: PD10033256_000_024
-  item: '037'
-  key: 037-your-eternal-home
+- item: 22
+  key: 021-your-eternal-home
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: your-eternal-home
   speaker: Thomas S. Monson
   title: Your Eternal Home
   url: https://www.lds.org/general-conference/2000/04/your-eternal-home?lang=eng
   year: 2000
-- article_id: PD10033256_000_025
-  item: 039
-  key: 039-finding-a-safe-harbor
+- item: 23
+  key: 022-finding-a-safe-harbor
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: finding-a-safe-harbor
   speaker: Joseph B. Wirthlin
   title: Finding a Safe Harbor
   url: https://www.lds.org/general-conference/2000/04/finding-a-safe-harbor?lang=eng
   year: 2000
-- article_id: PD10033256_000_026
-  item: '040'
-  key: 040-the-widows-of-zion
+- item: 24
+  key: 023-the-widows-of-zion
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-widows-of-zion
   speaker: Earl C. Tingey
   title: The Widows of Zion
   url: https://www.lds.org/general-conference/2000/04/the-widows-of-zion?lang=eng
   year: 2000
-- article_id: PD10033256_000_027
-  item: '042'
-  key: 042-we-are-creators
+- item: 25
+  key: 024-we-are-creators
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: we-are-creators
-  speaker: Mary Ellen Smoot
+  speaker: Mary Ellen W. Smoot
   title: We Are Creators
   url: https://www.lds.org/general-conference/2000/04/we-are-creators?lang=eng
   year: 2000
-- article_id: PD10033256_000_028
-  item: '043'
-  key: 043-watch-over-and-strengthen
+- item: 26
+  key: 025-watch-over-and-strengthen
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: watch-over-and-strengthen
   speaker: Henry B. Eyring
   title: Watch Over and Strengthen
   url: https://www.lds.org/general-conference/2000/04/watch-over-and-strengthen?lang=eng
   year: 2000
-- article_id: PD10033256_000_029
-  item: '045'
-  key: 045-my-testimony
+- item: 27
+  key: 026-my-testimony
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: my-testimony
   speaker: Gordon B. Hinckley
   title: My Testimony
   url: https://www.lds.org/general-conference/2000/04/my-testimony?lang=eng
   year: 2000
-- article_id: PD10033256_000_030
-  item: 049
-  key: 049-content-with-the-things-allotted-unto-us
+- item: 28
+  key: 027-content-with-the-things-allotted-unto-us
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: content-with-the-things-allotted-unto-us
   speaker: Neal A. Maxwell
   title: Content with the Things Allotted unto Us
   url: https://www.lds.org/general-conference/2000/04/content-with-the-things-allotted-unto-us?lang=eng
   year: 2000
-- article_id: PD10033256_000_031
-  item: '050'
-  key: 050-as-doves-to-our-windows
+- item: 29
+  key: 028-as-doves-to-our-windows
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: as-doves-to-our-windows
   speaker: Jeffrey R. Holland
   title: As Doves to Our Windows
   url: https://www.lds.org/general-conference/2000/04/as-doves-to-our-windows?lang=eng
   year: 2000
-- article_id: PD10033256_000_032
-  item: '051'
-  key: 051-heavenly-father-has-a-special-plan
+- item: 30
+  key: 029-heavenly-father-has-a-special-plan
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: heavenly-father-has-a-special-plan
-  speaker: Elder Yoshihiko Kikuchi
+  speaker: Yoshihiko Kikuchi
   title: Heavenly Father Has a Special Plan
   url: https://www.lds.org/general-conference/2000/04/heavenly-father-has-a-special-plan?lang=eng
   year: 2000
-- article_id: PD10033256_000_033
-  item: '053'
-  key: 053-because-my-father-sent-me
+- item: 31
+  key: 030-because-my-father-sent-me
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: because-my-father-sent-me
   speaker: Loren C. Dunn
-  title: "\u201CBecause My Father Sent Me\u201D"
+  title: '"Because My Father Sent Me"'
   url: https://www.lds.org/general-conference/2000/04/because-my-father-sent-me?lang=eng
   year: 2000
-- article_id: PD10033256_000_034
-  item: '054'
-  key: 054-a-brief-introduction-to-the-church
+- item: 32
+  key: 031-a-brief-introduction-to-the-church
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-brief-introduction-to-the-church
   speaker: John B. Dickson
   title: A Brief Introduction to the Church
   url: https://www.lds.org/general-conference/2000/04/a-brief-introduction-to-the-church?lang=eng
   year: 2000
-- article_id: PD10033256_000_035
-  item: '055'
-  key: 055-the-creation
+- item: 33
+  key: 032-the-creation
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-creation
   speaker: Russell M. Nelson
   title: The Creation
   url: https://www.lds.org/general-conference/2000/04/the-creation?lang=eng
   year: 2000
-- article_id: PD10033256_000_036
-  item: '056'
-  key: 056-a-time-of-new-beginnings
+- item: 34
+  key: 033-a-time-of-new-beginnings
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-time-of-new-beginnings
   speaker: Gordon B. Hinckley
   title: A Time of New Beginnings
   url: https://www.lds.org/general-conference/2000/04/a-time-of-new-beginnings?lang=eng
   year: 2000
-- article_id: PD10033256_000_037
-  item: 059
-  key: 059-standing-with-god
+- item: 35
+  key: 034-standing-with-god
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: standing-with-god
   speaker: Sharon G. Larsen
   title: Standing with God
   url: https://www.lds.org/general-conference/2000/04/standing-with-god?lang=eng
   year: 2000
-- article_id: PD10033256_000_038
-  item: '062'
-  key: 062-integrity
+- item: 36
+  key: 035-integrity
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: integrity
   speaker: Carol B. Thomas
   title: Integrity
   url: https://www.lds.org/general-conference/2000/04/integrity?lang=eng
   year: 2000
-- article_id: PD10033256_000_039
-  item: '064'
-  key: 064-stand-as-a-witness
+- item: 37
+  key: 036-stand-as-a-witness
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: stand-as-a-witness
   speaker: Margaret D. Nadauld
   title: Stand as a Witness
   url: https://www.lds.org/general-conference/2000/04/stand-as-a-witness?lang=eng
   year: 2000
-- article_id: PD10033256_000_040
-  item: '066'
-  key: 066-womanhood-the-highest-place-of-honor
+- item: 38
+  key: 037-womanhood-the-highest-place-of-honor
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: womanhood-the-highest-place-of-honor
   speaker: James E. Faust
-  title: 'Womanhood: The Highest Place of Honor'
+  title: Womanhood:The Highest Place of Honor
   url: https://www.lds.org/general-conference/2000/04/womanhood-the-highest-place-of-honor?lang=eng
   year: 2000
 month: 4

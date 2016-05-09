@@ -50,8 +50,7 @@ same bringeth forth much fruit: for without me ye can do nothing.
 it shall be done unto you.
 
 "Herein is my Father glorified, that ye bear much fruit; so shall ye be my
-disciples." ([John 15:3-5,
-7-8](https://www.lds.org/scriptures/nt/john/15.3-5%2C7-8?lang=eng#2).)
+disciples." ([John 15:3-5, 7-8](/scriptures/nt/john/15.3-5,7-8?lang=eng#2).)
 
 I bear witness today, brothers and sisters, that the Lord Jesus Christ lives,
 that this is his work, that President Kimball is indeed the Lord's prophet
@@ -59,4 +58,6 @@ upon the earth. The Lord will come again to reign as King of kings and as Lord
 of lords. May we be worthy to be with those who serve and live with him when
 that time comes, I pray, and solemnly invoke his blessings upon us all this
 day, in the name of Jesus Christ. Amen.
+
+## References
 

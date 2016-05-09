@@ -15,7 +15,7 @@ of the priesthood in the government of the church and kingdom of God.
 In this revelation the Lord specified four requisites in the establishment of
 the First Presidency, or the presidency of the Melchizedek, or High,
 Priesthood of the Church, as the Lord speaks of it. ([D&amp;C
-107:22](https://www.lds.org/scriptures/dc-testament/dc/107.22?lang=eng#21).)
+107:22](/scriptures/dc-testament/dc/107.22?lang=eng#21).)
 
 First, it was requisite that there be three presiding high priests.
 
@@ -57,8 +57,7 @@ direction we are to serve! Indeed, I would remind you what he declared in a
 similar conference of Saints in Fayette, New York, and undoubtedly would
 remind us again today. The Lord said: "Behold, verily, verily, I say unto you
 that mine eyes are upon you. I am in your midst and ye cannot see me."
-([D&amp;C 38:7](https://www.lds.org/scriptures/dc-
-testament/dc/38.7?lang=eng#6).)
+([D&amp;C 38:7](/scriptures/dc-testament/dc/38.7?lang=eng#6).)
 
 On the sacred occasion three months ago when I began to sense the magnitude of
 the overwhelming responsibility which I must now assume, I went to the holy
@@ -206,8 +205,8 @@ _Life of Heber C. Kimball _[Bookcraft, 1967], p. 131.)
 There is no shadow of doubt in my mind that these things are as certain today
 as in that day, but also I am certain that, as the Lord said, "No weapon that
 is formed against you shall prosper; And if any man lift his voice against you
-he stall be confounded in mine own due time." ([D&amp;C
-71:9-10](https://www.lds.org/scriptures/dc-testament/dc/71.9-10?lang=eng#8).)
+he stall be confounded in mine own due time." ([D&amp;C 71:9-10](/scriptures
+/dc-testament/dc/71.9-10?lang=eng#8).)
 
 How grateful I am for your loyalty and your sustaining vote! I bear you solemn
 witness as to the divine mission of the Savior and the certainty as to his
@@ -222,10 +221,11 @@ which is cut out of the mountain without hands shall roll forth, until it has
 filled the whole earth.
 
 "Wherefore, may the kingdom of God go forth, that the kingdom of heaven may
-come. ..." ([D&amp;C 65:2, 6](https://www.lds.org/scriptures/dc-
-testament/dc/65.2%2C6?lang=eng#1).)
+come. ..." ([D&amp;C 65:2, 6](/scriptures/dc-testament/dc/65.2,6?lang=eng#1).)
 
 I bear that testimony with all the conviction of my soul and leave my blessing
 upon the membership of the Church and the pure in heart everywhere, in the
 name of the Lord Jesus Christ. Amen.
+
+## References
 

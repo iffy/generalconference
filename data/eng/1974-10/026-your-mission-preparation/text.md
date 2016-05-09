@@ -39,7 +39,7 @@ character when spiritual strength is required. Study! Get some colored
 pencils. Keep them with your Book of Mormon. Underline verses important to
 you. Another tool of missionary work is an additional language. Study one. We
 should "become acquainted with ... languages, tongues, and people." ([D&amp;C
-90:15](https://www.lds.org/scriptures/dc-testament/dc/90.15?lang=eng#14).)
+90:15](/scriptures/dc-testament/dc/90.15?lang=eng#14).)
 
 Learn to pray constantly. Kneel down morning and evening. Get on good terms
 with the Lord. Like the young man who said: "Whenever I pass the church, I
@@ -138,12 +138,12 @@ feel inept. Your grades are not all that good. You are wondering if _you_ can
 qualify to serve a mission. Young man, fix firmly on your heart a desire to
 serve the Lord and to declare the gospel: "For I know that he granteth unto
 men according to their desire, whether it be unto death or unto life." ([Alma
-29:4](https://www.lds.org/scriptures/bofm/alma/29.4?lang=eng#3).) I know this
-promise is true. The Lord loves you. He needs you. You may not have all of the
-qualities you would like to have. You have great potential. Some of you have
-made mistakes. Some have troublesome personal habits. Talk to the Lord about
-them tonight. If you are greatly troubled, talk to your father. You may even
-need to see your bishop. Get things straightened out now.
+29:4](/scriptures/bofm/alma/29.4?lang=eng#3).) I know this promise is true.
+The Lord loves you. He needs you. You may not have all of the qualities you
+would like to have. You have great potential. Some of you have made mistakes.
+Some have troublesome personal habits. Talk to the Lord about them tonight. If
+you are greatly troubled, talk to your father. You may even need to see your
+bishop. Get things straightened out now.
 
 The greatest missionaries in the Church have been humble men--men who have
 paid the price of honest toil, men who lived close to the Lord and relied on
@@ -152,8 +152,7 @@ him. You too can be numbered among the great. Decide tonight.
 Imagine standing in the baptismal font with _your_ convert, raising your right
 arm to the square, and saying these words: "Having been commissioned of Jesus
 Christ, I baptize you in the name of the Father, and of the Son, and of the
-Holy Ghost." ([D&amp;C 20:73](https://www.lds.org/scriptures/dc-
-testament/dc/20.73?lang=eng#72).)
+Holy Ghost." ([D&amp;C 20:73](/scriptures/dc-testament/dc/20.73?lang=eng#72).)
 
 You may make the winning touchdown, cross the finish line first, swish down
 the mountain on perfect powder, drive "a beauty" to the left-field stands, or
@@ -165,4 +164,6 @@ children. They are a fantastic family!"
 I know that God lives. I know that Jesus is the Christ. I know that Joseph
 Smith was a prophet. I know that President Spencer W. Kimball is the living
 prophet on the earth today, in the name of Jesus Christ. Amen.
+
+## References
 

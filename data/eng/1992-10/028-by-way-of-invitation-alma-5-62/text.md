@@ -30,9 +30,9 @@ In this latter day I have been invited to witness marvelous things for myself.
 The invitation of The Church of Jesus Christ of Latter-day Saints, "Come unto
 Christ" and "Come back," is meant for each of God's children. This invitation
 has stood true since Jesus said to His disciples, "Come, follow me." (See
-[Matt. 4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18).)
-Through the dispensations, prophets have issued the same invitation to all who
-will listen.
+[Matt. 4:19](/scriptures/nt/matt/4.19?lang=eng#18).) Through the
+dispensations, prophets have issued the same invitation to all who will
+listen.
 
 The prophet Alma, the son of Alma, carried this important message to the
 members in Zarahemla who needed to be reminded. The prophet said,
@@ -41,7 +41,7 @@ members in Zarahemla who needed to be reminded. The prophet said,
 extended towards them, and he saith: Repent, and I will receive you. ...
 
 "Yea, come unto me and bring forth works of righteousness." ([Alma 5:33,
-35](https://www.lds.org/scriptures/bofm/alma/5.33%2C35?lang=eng#32).)
+35](/scriptures/bofm/alma/5.33,35?lang=eng#32).)
 
 As a baptized member of the Church, I hear the invitation, and I wonder, How
 do I get there from here? Because I know the Lord intends to include all of us
@@ -49,26 +49,26 @@ in this invitation, my personal, honest response is the same as my friend
 Matthew's--"I'm coming." Now, what is my duty? Alma reminded the people of
 Zarahemla of their duty, ending with the important phrase, "Come unto me and
 bring forth works of righteousness." ([Alma
-5:35](https://www.lds.org/scriptures/bofm/alma/5.35?lang=eng#34); see also
-[Alma 4:3](https://www.lds.org/scriptures/bofm/alma/4.3?lang=eng#2).) By using
-Alma's counsel as our guide, come with me on a journey to remember what we can
-do to answer His invitation.
+5:35](/scriptures/bofm/alma/5.35?lang=eng#34); see also [Alma
+4:3](/scriptures/bofm/alma/4.3?lang=eng#2).) By using Alma's counsel as our
+guide, come with me on a journey to remember what we can do to answer His
+invitation.
 
 ## We Can Search the Word of God
 
 Through studying and pondering the scriptures and the words of the latter-day
 prophets, we can _feast_ upon the words of Christ, and the words will tell us
 all the things that we should do. (See [2 Ne.
-32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2).) Then we must
-_nourish the word_ and allow it to _take root._ (See [Alma
-32:41-43](https://www.lds.org/scriptures/bofm/alma/32.41-43?lang=eng#40).)
-After we hearken to the word and hold fast to it, we are promised that
-temptations and the fiery darts of the adversary will not overpower us. (See
-[1 Ne. 15:24](https://www.lds.org/scriptures/bofm/1-ne/15.24?lang=eng#23).) We
-will be able to recognize the truth when we hear it just as the shepherds and
-the Wise Men knew when they were told about the Savior's birth. The scriptures
-are the word of God and a light to us and the world, and we can follow this
-light as if they were our guiding star.
+32:3](/scriptures/bofm/2-ne/32.3?lang=eng#2).) Then we must _nourish the word_
+and allow it to _take root._ (See [Alma
+32:41-43](/scriptures/bofm/alma/32.41-43?lang=eng#40).) After we hearken to
+the word and hold fast to it, we are promised that temptations and the fiery
+darts of the adversary will not overpower us. (See [1 Ne.
+15:24](/scriptures/bofm/1-ne/15.24?lang=eng#23).) We will be able to recognize
+the truth when we hear it just as the shepherds and the Wise Men knew when
+they were told about the Savior's birth. The scriptures are the word of God
+and a light to us and the world, and we can follow this light as if they were
+our guiding star.
 
 ## We Can Pray
 
@@ -76,7 +76,7 @@ We can call upon our Heavenly Father in the name of our Savior. Prayer
 provides an opportunity for us to express gratitude. Taking an inventory of
 our blessings fills us with hope. "Pray unto the Father with all the energy of
 heart, that ye may be filled with this love." ([Moro.
-7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47).)
+7:48](/scriptures/bofm/moro/7.48?lang=eng#47).)
 
 We can ask for what we need hour by hour and minute by minute. It is possible
 to have this personal conversation with our Heavenly Father through Jesus
@@ -124,15 +124,14 @@ and comfortable settings to serve and to gain experience.
 I believe that each of us can re-create that familiar scene in Bethlehem in
 our own lives. We can have a star to follow just as the Wise Men did. "Thy
 word is a lamp unto my feet, and a light unto my path." ([Ps.
-119:105](https://www.lds.org/scriptures/ot/ps/119.105?lang=eng#104).) The
-scriptures can light our way, and our testimonies can be a light from within.
-The voices of angels can be the voices of our beloved prophet and His
-servants. We can kneel at the feet of our Savior just as literally as the
-shepherds and the Wise Men, but we do it in prayer. The gifts we bring are our
-talents. We can shout "Hosanna" like that angelic choir and spread the good
-news by bearing our testimonies. Each new day is an opportunity to bind
-ourselves to act according to what we know. (See [D&amp;C
-43:8](https://www.lds.org/scriptures/dc-testament/dc/43.8?lang=eng#7).) By
+119:105](/scriptures/ot/ps/119.105?lang=eng#104).) The scriptures can light
+our way, and our testimonies can be a light from within. The voices of angels
+can be the voices of our beloved prophet and His servants. We can kneel at the
+feet of our Savior just as literally as the shepherds and the Wise Men, but we
+do it in prayer. The gifts we bring are our talents. We can shout "Hosanna"
+like that angelic choir and spread the good news by bearing our testimonies.
+Each new day is an opportunity to bind ourselves to act according to what we
+know. (See [D&amp;C 43:8](/scriptures/dc-testament/dc/43.8?lang=eng#7).) By
 _works of righteousness,_ we can come unto Him each day of our lives just as
 if we had trod in our sandaled feet the rocky path to Bethlehem, holding a
 staff or bearing gifts.
@@ -140,13 +139,12 @@ staff or bearing gifts.
 I pray that Heavenly Father will help us be wise men and wise women--wise
 enough to accept His invitation, nourish His word, and follow a "straight
 course to eternal bliss." ([Alma
-37:44](https://www.lds.org/scriptures/bofm/alma/37.44?lang=eng#43).) May we
-all cheerfully answer, "I'm coming." For I testify that "if a man bringeth
-forth good works he hearkeneth unto the voice of that good shepherd, and he
-doth follow him." ([Alma
-5:41](https://www.lds.org/scriptures/bofm/alma/5.41?lang=eng#40).) This I do
-in the name of the "shepherd [who] hath called after you and is still calling
-after you" ([Alma
-5:37](https://www.lds.org/scriptures/bofm/alma/5.37?lang=eng#36)), Jesus
-Christ, amen.
+37:44](/scriptures/bofm/alma/37.44?lang=eng#43).) May we all cheerfully
+answer, "I'm coming." For I testify that "if a man bringeth forth good works
+he hearkeneth unto the voice of that good shepherd, and he doth follow him."
+([Alma 5:41](/scriptures/bofm/alma/5.41?lang=eng#40).) This I do in the name
+of the "shepherd [who] hath called after you and is still calling after you"
+([Alma 5:37](/scriptures/bofm/alma/5.37?lang=eng#36)), Jesus Christ, amen.
+
+## References
 

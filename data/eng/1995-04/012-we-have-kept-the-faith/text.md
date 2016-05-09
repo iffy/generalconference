@@ -30,11 +30,7 @@ headquarters of the Church. In the things that we learned, we were able to
 distinguish at least five principles which aided them to overcome their
 difficulties.
 
-First: They never stopped trusting in the Lord, and they placed all of their
-faith in him. This was the foundation for their assurance. They trusted in the
-fact that he would protect and guide them. The Lord has said, "If ye will have
-faith in me ye shall have power to do whatsoever thing is expedient in me"
-([Moro. 7:33](https://www.lds.org/scriptures/bofm/moro/7.33?lang=eng#32)).
+**First: They never stopped trusting in the Lord, and they placed all of their faith in him.** This was the foundation for their assurance. They trusted in the fact that he would protect and guide them. The Lord has said, "If ye will have faith in me ye shall have power to do whatsoever thing is expedient in me" ([Moro. 7:33](/scriptures/bofm/moro/7.33?lang=eng#32)).
 
 Occasionally, in the midst of our desperation, we seek other ways, other
 guides. But those who counsel us are not always prepared to help, because they
@@ -49,42 +45,21 @@ comforted. ...
 "Yet ye shall be patient in long-suffering and afflictions, that ye may show
 forth good examples unto them in me, and I will make an instrument of thee in
 my hands unto the salvation of many souls" ([Alma
-17:10-11](https://www.lds.org/scriptures/bofm/alma/17.10-11?lang=eng#9)).
+17:10-11](/scriptures/bofm/alma/17.10-11?lang=eng#9)).
 
-Second: They remained faithful in prayer. Each member, whether adult, child,
-or adolescent, faithfully followed this holy practice each day, praying
-individually and as families with all of their faith. As we know, prayer is
-the means by which we communicate with our Heavenly Father. He listens to us
-because we are his children and he loves us, and he is anxious to bless us
-when we keep the commandments.
+**Second: They remained faithful in prayer.** Each member, whether adult, child, or adolescent, faithfully followed this holy practice each day, praying individually and as families with all of their faith. As we know, prayer is the means by which we communicate with our Heavenly Father. He listens to us because we are his children and he loves us, and he is anxious to bless us when we keep the commandments.
 
 As the Savior instructed the Nephites, he taught them: "Pray in your families
 unto the Father, always in my name, that your wives and your children may be
-blessed" ([3 Ne.
-18:21](https://www.lds.org/scriptures/bofm/3-ne/18.21?lang=eng#20)). No one
+blessed" ([3 Ne. 18:21](/scriptures/bofm/3-ne/18.21?lang=eng#20)). No one
 could have given them greater assurance that they would be heard by the Father
 than his own Son.
 
-Third: They never stopped studying the scriptures. In the scriptures they
-found faith to overcome fear, solutions to their problems, divine comfort from
-the Master, the loving counsel of the Father, and especially the assurance of
-being guided in righteousness towards eternal life. "Search the scriptures;
-for in them ye think ye have eternal life: and they are they which testify of
-me" ([John 5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38)).
-They lived this commandment even in the midst of all their difficulties. One
-of the Saints there said, "We have never been as close to the Lord as when we
-were reading the scriptures."
+**Third: They never stopped studying the scriptures.** In the scriptures they found faith to overcome fear, solutions to their problems, divine comfort from the Master, the loving counsel of the Father, and especially the assurance of being guided in righteousness towards eternal life. "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me" ([John 5:39](/scriptures/nt/john/5.39?lang=eng#38)). They lived this commandment even in the midst of all their difficulties. One of the Saints there said, "We have never been as close to the Lord as when we were reading the scriptures."
 
-Fourth: They implemented priesthood programs. Due to the fatal incident that
-had taken place there, it was necessary to remove full-time missionaries. In
-order to make up for the help that was lost, it became necessary to organize
-the returned missionaries so that they could teach the gospel to those who
-wanted to hear it. References came in from member families. Home teaching
-increased. Nobody was overlooked. Just as they said, they had kept the faith.
+**Fourth: They implemented priesthood programs.** Due to the fatal incident that had taken place there, it was necessary to remove full-time missionaries. In order to make up for the help that was lost, it became necessary to organize the returned missionaries so that they could teach the gospel to those who wanted to hear it. References came in from member families. Home teaching increased. Nobody was overlooked. Just as they said, they had kept the faith.
 
-Fifth: They humbled themselves before the Lord. They purified their lives,
-they repented, they tried to live together as Saints, sharing much of what
-they had, fasting when problems arose or when they were threatened.
+**Fifth: They humbled themselves before the Lord.** They purified their lives, they repented, they tried to live together as Saints, sharing much of what they had, fasting when problems arose or when they were threatened.
 
 These simple yet powerful principles enabled them to sustain themselves, to be
 preserved, to remain faithful and active as members of the Church in that
@@ -164,8 +139,10 @@ Someday our journey here on the earth will end, and we will return to the
 presence of our Heavenly Father. I pray that on that day we may have the same
 courage and give the same testimony given by the Apostle Paul to Timothy: "I
 have fought a good fight, I have finished my course, I have kept the faith"
-([2 Tim. 4:7](https://www.lds.org/scriptures/nt/2-tim/4.7?lang=eng#6)).
+([2 Tim. 4:7](/scriptures/nt/2-tim/4.7?lang=eng#6)).
 
 May the Lord bless us to continue being valiant, humble, and faithful. In the
 name of Jesus Christ, amen.
+
+## References
 

@@ -79,8 +79,7 @@ through their word;
 
 "That they all may be one; as thou, Father, art in me, and I in thee, that
 they also may be one in us: that the world may believe that thou hast sent
-me." ([John 17:15-18,
-20-21](https://www.lds.org/scriptures/nt/john/17.15-18%2C20-21?lang=eng#14).)
+me." ([John 17:15-18, 20-21](/scriptures/nt/john/17.15-18,20-21?lang=eng#14).)
 
 President Heber J. Grant once counseled us:
 
@@ -116,12 +115,11 @@ to pray standing in the synagogues and in the corners of the streets, that
 they may be seen of men. Verily I say unto you, They have their reward. ...
 
 "After this manner therefore pray ye: Our Father which art in heaven, Hallowed
-be thy name." ([Matt. 6:5,
-9](https://www.lds.org/scriptures/nt/matt/6.5%2C9?lang=eng#4).)
+be thy name." ([Matt. 6:5, 9](/scriptures/nt/matt/6.5,9?lang=eng#4).)
 
 In the words of other prayers given to us by the Savior, the term _Father_ is
 also used. "O God, the Eternal Father" is the way the Lord instructed us to
-bless the sacrament. (See [D&amp;C 20:77](https://www.lds.org/scriptures/dc-
+bless the sacrament. (See [D&amp;C 20:77](/scriptures/dc-
 testament/dc/20.77?lang=eng#76).) By use of the word _Father,_ we understand
 our relationship to Him. He is our Eternal Father, and we are His children.
 Teach your children how to address the Lord in prayer.
@@ -206,7 +204,7 @@ in this manner, don't you see that it will make a mighty cord of faith?"
 Let us teach our children to pray for courage, for opportunity, for comfort,
 for peace, for understanding, and not for material gifts. Let us teach them to
 pray, "Thy will be done in earth, as it is in heaven." ([Matt.
-6:10](https://www.lds.org/scriptures/nt/matt/6.10?lang=eng#9).)
+6:10](/scriptures/nt/matt/6.10?lang=eng#9).)
 
 President Kimball has counseled us: "There will _always_ be time for prayer.
 There will _always_ be the moments of blessed solitude, of closeness to the
@@ -245,4 +243,6 @@ express our gratitude unto Him for the blessings He has given to us.
 
 May the power of prayer bless our homes, I pray in the name of Jesus Christ,
 amen.
+
+## References
 

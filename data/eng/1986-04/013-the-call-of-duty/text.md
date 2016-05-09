@@ -7,7 +7,7 @@ minds, from the depths of their souls, and from the warmth of their hearts,
 have given us direction. President J. Reuben Clark, Jr., was such a man. Time
 and again, his fervent plea was for the priesthood of God to be united. Citing
 the teachings of Jesus, he inevitably admonished us, "Be one; and if ye are
-not one ye are not mine." ([D&amp;C 38:27](https://www.lds.org/scriptures/dc-
+not one ye are not mine." ([D&amp;C 38:27](/scriptures/dc-
 testament/dc/38.27?lang=eng#26).)
 
 It was my great privilege to know President Clark rather well. I was his
@@ -20,10 +20,9 @@ back from his large desk, which was stacked with books and papers. He held the
 scriptures in his hand, lifted his eyes from the printed page, and read aloud
 to me: "Let us hear the conclusion of the whole matter: Fear God, and keep his
 commandments: for this is the whole duty of man." ([Eccl.
-12:13](https://www.lds.org/scriptures/ot/eccl/12.13?lang=eng#12).) He
-exclaimed, "A treasured truth! A profound philosophy!" Through the years that
-conversation has remained bright in my memory. I love, I cherish the noble
-word _duty._
+12:13](/scriptures/ot/eccl/12.13?lang=eng#12).) He exclaimed, "A treasured
+truth! A profound philosophy!" Through the years that conversation has
+remained bright in my memory. I love, I cherish the noble word _duty._
 
 The legendary General Robert E. Lee of American Civil War fame declared, "Duty
 is the sublimest word in our language. ... You cannot do more. You should never
@@ -39,7 +38,7 @@ diminish. Catastrophic conflicts come and go, but the war waged for the souls
 of men continues without abatement. Like a clarion call comes the word of the
 Lord to you, to me, and to priesthood holders everywhere: "Wherefore, now let
 every man learn his duty, and to act in the office in which he is appointed,
-in all diligence." ([D&amp;C 107:99](https://www.lds.org/scriptures/dc-
+in all diligence." ([D&amp;C 107:99](/scriptures/dc-
 testament/dc/107.99?lang=eng#98).)
 
 The call of duty came to Adam, to Noah, to Abraham, to Moses, to Samuel, to
@@ -72,7 +71,7 @@ hast not murmured.
 things which the Lord hath commanded, for I know that the Lord giveth no
 commandments unto the children of men, save he shall prepare a way for them
 that they may accomplish the thing which he commandeth them." ([1 Ne.
-3:1-7](https://www.lds.org/scriptures/bofm/1-ne/3.1-7?lang=eng#0).)
+3:1-7](/scriptures/bofm/1-ne/3.1-7?lang=eng#0).)
 
 When that same call comes to you and to me, what will be our response? Will we
 murmur, as did Laman and Lemuel, and say, "This is a hard thing required of
@@ -222,17 +221,18 @@ walked, let us listen for the sound of sandaled feet. Let us reach out for the
 Carpenter's hand. Then we shall come to know Him. He may come to us as one
 unknown, without a name, as by the lakeside He came to those men who knew Him
 not. He speaks to us the same words, "Follow thou me" ([John
-21:22](https://www.lds.org/scriptures/nt/john/21.22?lang=eng#21)), and sets us
-to the task which He has to fulfill for our time. He commands, and to those
-who obey Him, whether they be wise or simple, He will reveal Himself in the
-toils, the conflicts, the sufferings that they shall pass through in His
-fellowship; and they shall learn by their own experience who He is.
+21:22](/scriptures/nt/john/21.22?lang=eng#21)), and sets us to the task which
+He has to fulfill for our time. He commands, and to those who obey Him,
+whether they be wise or simple, He will reveal Himself in the toils, the
+conflicts, the sufferings that they shall pass through in His fellowship; and
+they shall learn by their own experience who He is.
 
 We will discover He is more than the Babe in Bethlehem, more than the
 carpenter's son, more than the greatest teacher ever to live. We will come to
 know Him as the Son of God, our Savior and our Redeemer. When to Him came the
 call of duty, He answered, "Father, thy will be done, and the glory be thine
-forever." ([Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).) May we do
+forever." ([Moses 4:2](/scriptures/pgp/moses/4.2?lang=eng#1).) May we do
 likewise I pray, in the name of Jesus Christ, amen.
+
+## References
 

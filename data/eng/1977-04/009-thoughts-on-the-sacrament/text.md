@@ -9,7 +9,7 @@ priesthood bearer of the home, whose responsibility it is to guide the family
 in keeping the commandments of God. The Lord said, "And that thou mayest more
 fully keep thyself unspotted from the world, thou shalt go to the house of
 prayer and offer up thy sacraments upon my holy day." ([D&amp;C
-59:9](https://www.lds.org/scriptures/dc-testament/dc/59.9?lang=eng#8).)
+59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).)
 
 It was interesting to watch people going to the chapel, some walking down the
 street, others coming by automobiles and turning into the parking lot. From
@@ -62,8 +62,8 @@ The time will not be long, I thought, until these priests and deacons will be
 in the mission field to fulfill the commandment given to all faithful elders
 in the Church: "Go ye into all the world, preach the gospel to every creature,
 acting in the authority which I have given you, baptizing in the name of the
-Father, and of the Son, and of the Holy Ghost." ([D&amp;C
-68:8](https://www.lds.org/scriptures/dc-testament/dc/68.8?lang=eng#7).)
+Father, and of the Son, and of the Holy Ghost." ([D&amp;C 68:8](/scriptures
+/dc-testament/dc/68.8?lang=eng#7).)
 
 After a hymn and prayer, and while the priests were preparing the sacrament,
 we were led in singing:
@@ -79,12 +79,12 @@ _On our Savior's love we rest._
 A priest kneeled over the broken bread and prayed: "That they may eat in
 remembrance of the body of thy Son, and witness unto thee, O God, the Eternal
 Father, that they are willing to take upon them the name of thy Son, and
-always remember him and keep his commandments." ([D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76).) The
-deacons dispersed throughout the chapel to serve the broken bread. One of them
-came to our row and held the silver tray while I partook. Then I held the tray
-so Sister Hunter could partake, and she held it for the person next to her.
-Thus the tray went down the row, each serving and being served.
+always remember him and keep his commandments." ([D&amp;C 20:77](/scriptures
+/dc-testament/dc/20.77?lang=eng#76).) The deacons dispersed throughout the
+chapel to serve the broken bread. One of them came to our row and held the
+silver tray while I partook. Then I held the tray so Sister Hunter could
+partake, and she held it for the person next to her. Thus the tray went down
+the row, each serving and being served.
 
 I thought of the events that took place on the evening nearly two thousand
 years ago when Jesus was betrayed. He had sent Peter and John into Jerusalem
@@ -102,8 +102,7 @@ and said, Take, eat: this is my body.
 they all drank of it.
 
 "And he said unto them, This is my blood of the new testament, which is shed
-for many." ([Mark
-14:22-24](https://www.lds.org/scriptures/nt/mark/14.22-24?lang=eng#21).)
+for many." ([Mark 14:22-24](/scriptures/nt/mark/14.22-24?lang=eng#21).)
 
 Thus was the sacrament of the Lord's Supper introduced to replace sacrifice
 and be a reminder to all those who partake that He truly made a sacrifice for
@@ -120,7 +119,7 @@ that cup.
 
 "For he that eateth and drinketh unworthily, eateth and drinketh damnation to
 himself, not discerning the Lord's body." ([1 Cor.
-11:27-29](https://www.lds.org/scriptures/nt/1-cor/11.27-29?lang=eng#26).)
+11:27-29](/scriptures/nt/1-cor/11.27-29?lang=eng#26).)
 
 I was troubled. I asked myself this question: "Do I place God above all other
 things and keep all of His commandments?" Then came reflection and resolution.
@@ -133,7 +132,7 @@ introspection, self-discernment--a time to reflect and to resolve.
 By this time the other priest was kneeling at the table, praying that all who
 should drink "may do it in remembrance of the blood of thy Son, which was shed
 for them; ... that they do always remember him, that they may have his Spirit to
-be with them." ([D&amp;C 20:79](https://www.lds.org/scriptures/dc-
+be with them." ([D&amp;C 20:79](/scriptures/dc-
 testament/dc/20.79?lang=eng#78).)
 
 There was quiet meditation, the silence broken only by the voice of a tiny
@@ -171,11 +170,13 @@ thou shalt go to the house of prayer and offer up thy sacraments upon my holy
 day;
 
 "For verily this is a day appointed unto you to rest from your labors, and to
-pay thy devotions unto the Most High." ([D&amp;C
-59:9-10](https://www.lds.org/scriptures/dc-testament/dc/59.9-10?lang=eng#8).)
+pay thy devotions unto the Most High." ([D&amp;C 59:9-10](/scriptures/dc-
+testament/dc/59.9-10?lang=eng#8).)
 
 I know that Jesus is the Christ and that He lives, having been put to death as
 the atoning sacrifice and resurrected that all men may live again and have
 eternal life. I pray that we may faithfully follow Him, in the name of Jesus
 Christ. Amen.
+
+## References
 

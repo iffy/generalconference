@@ -7,13 +7,13 @@ of his divinity and entered the holy city of Jerusalem as the promised Messiah
 that he was.
 
 Riding on a young donkey in fulfillment of Zechariah's ancient prophecy (see
-[Zech. 9:9](https://www.lds.org/scriptures/ot/zech/9.9?lang=eng#8)), he
-approached the temple on a path that the jubilant crowd lined for him with
-palm leaves, flowering branches, and some of their own garments, thus
-carpeting the way properly for the passing of a king. He was their king; these
-were his subjects. "Hosanna to the Son of David," they shouted. "Blessed is he
-that cometh in the name of the Lord; Hosanna in the highest." ([Matt.
-21:9](https://www.lds.org/scriptures/nt/matt/21.9?lang=eng#8).)
+[Zech. 9:9](/scriptures/ot/zech/9.9?lang=eng#8)), he approached the temple on
+a path that the jubilant crowd lined for him with palm leaves, flowering
+branches, and some of their own garments, thus carpeting the way properly for
+the passing of a king. He was their king; these were his subjects. "Hosanna to
+the Son of David," they shouted. "Blessed is he that cometh in the name of the
+Lord; Hosanna in the highest." ([Matt.
+21:9](/scriptures/nt/matt/21.9?lang=eng#8).)
 
 Of course, that path so lovingly lined was soon to lead to an upper room and
 then to Gethsemane. After stops at the home of Annas, the court of Caiaphas,
@@ -67,7 +67,7 @@ we have to claim that greater joy, that sweeter prize: someday his loving
 Every day of our lives and in every season of the year (not just at Easter
 time), Jesus asks each of us, as he did following his triumphant entry into
 Jerusalem those many years ago, "What think ye of Christ? whose son is he?"
-([Matt. 22:42](https://www.lds.org/scriptures/nt/matt/22.42?lang=eng#41).)
+([Matt. 22:42](/scriptures/nt/matt/22.42?lang=eng#41).)
 
 We declare that he is the Son of God, and the reality of that fact should stir
 our souls more frequently. I pray that it will, this Easter season and always.
@@ -103,8 +103,8 @@ In our own day as in ancient times, Christ has declared, "Let all men beware
 how they take my name in their lips--
 
 "Remember that that which cometh from above is sacred, and must be spoken with
-care, and by constraint of the Spirit." ([D&amp;C 63:61,
-64](https://www.lds.org/scriptures/dc-testament/dc/63.61%2C64?lang=eng#60).)
+care, and by constraint of the Spirit." ([D&amp;C 63:61, 64](/scriptures/dc-
+testament/dc/63.61,64?lang=eng#60).)
 
 We love the name of our Redeemer. May we redeem it from misuse to its rightful
 lofty position.
@@ -128,9 +128,9 @@ especially costs us our sins. For, as King Lamoni's father knew twenty
 centuries ago, this is the price of true hope. "O God," he cried, "wilt thou
 make thyself known unto me, and I will give away all my sins to know thee ...
 that I may be raised from the dead, and be saved at the last day." ([Alma
-22:18](https://www.lds.org/scriptures/bofm/alma/22.18?lang=eng#17).) When we,
-too, are willing to give away all our sins to know him and follow him, we,
-too, will be filled with the joy of eternal life.
+22:18](/scriptures/bofm/alma/22.18?lang=eng#17).) When we, too, are willing to
+give away all our sins to know him and follow him, we, too, will be filled
+with the joy of eternal life.
 
 And what of the meek? In a world too preoccupied with winning through
 intimidation and seeking to be number one, no large crowd of folk is standing
@@ -177,4 +177,6 @@ _Jesus, be thou our glory now,_
 _And thru eternity._
 
 In the name of Jesus Christ, amen.
+
+## References
 

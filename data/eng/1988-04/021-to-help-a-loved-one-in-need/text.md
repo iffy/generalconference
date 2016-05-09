@@ -11,25 +11,14 @@ you how you can be comforted by the Lord.
 
 First, you must recognize two foundation principles:
 
-  1. While there are many things you can do to help a loved one in need, there are some things that must be done by the Lord.
-
-  2. Also, no enduring improvement can occur without righteous exercise of agency. Do not attempt to override agency. The Lord himself would not do that. Forced obedience yields no blessings (see [D&amp;C 58:26-33](https://www.lds.org/scriptures/dc-testament/dc/58.26-33?lang=eng#25)).
+  1. While there are many things you can do to help a loved one in need, there are some things that must be done by the Lord. 
+  2. Also, no enduring improvement can occur without righteous exercise of agency. Do not attempt to override agency. The Lord himself would not do that. Forced obedience yields no blessings (see [D&amp;C 58:26-33](/scriptures/dc-testament/dc/58.26-33?lang=eng#25)). 
 
 I will suggest seven ways you can help.
 
-First--Love without limitations. When in a dream Lehi partook of the fruit of
-the tree of life and was filled with joy, his first thought was to share it
-with each member of his family, including the disobedient (see [1 Ne. 8:3-4,
-12-13](https://www.lds.org/scriptures/bofm/1-ne/8.3-4%2C12-13?lang=eng#2)).
+**First--Love without limitations.** When in a dream Lehi partook of the fruit of the tree of life and was filled with joy, his first thought was to share it with each member of his family, including the disobedient (see [1 Ne. 8:3-4, 12-13](/scriptures/bofm/1-ne/8.3-4,12-13?lang=eng#2)).
 
-Second--Do not condone the transgressions, but extend every hope and support
-to the transgressor. To his missionary son Corianton, who had violated the law
-of chastity, Alma said, "Behold, O my son, how great iniquity ye brought upon
-the Zoramites; for when they saw your conduct, they would not believe in my
-words" ([Alma
-39:11](https://www.lds.org/scriptures/bofm/alma/39.11?lang=eng#10)). Then he
-clarified in careful detail principles which his son had improperly used to
-justify his acts. Subsequently, that loving father gave this counsel:
+**Second--Do not condone the transgressions, but extend every hope and support to the transgressor.** To his missionary son Corianton, who had violated the law of chastity, Alma said, "Behold, O my son, how great iniquity ye brought upon the Zoramites; for when they saw your conduct, they would not believe in my words" ([Alma 39:11](/scriptures/bofm/alma/39.11?lang=eng#10)). Then he clarified in careful detail principles which his son had improperly used to justify his acts. Subsequently, that loving father gave this counsel:
 
 "O, my son, I desire that ye should deny the justice of God no more. Do not
 endeavor to excuse yourself in the least point because of your sins, ... but do
@@ -37,42 +26,31 @@ you let the justice of God, and his mercy, and his long-suffering have full
 sway in your heart; and let it bring you down to the dust in humility. ...
 
 "And now, my son, go thy way, declare the word with truth and soberness"
-([Alma
-42:30-31](https://www.lds.org/scriptures/bofm/alma/42.30-31?lang=eng#29)).
-Corianton repented and became a powerful servant.
+([Alma 42:30-31](/scriptures/bofm/alma/42.30-31?lang=eng#29)). Corianton
+repented and became a powerful servant.
 
-Third--Teach truth. Nephi taught his brothers: "Whoso would hearken unto the
-word of God, and would hold fast unto it, they would never perish; neither
-could the temptations and the fiery darts of the adversary overpower them unto
-blindness, to lead them away to destruction" ([1 Ne.
-15:24](https://www.lds.org/scriptures/bofm/1-ne/15.24?lang=eng#23)).
+**Third--Teach truth.** Nephi taught his brothers: "Whoso would hearken unto the word of God, and would hold fast unto it, they would never perish; neither could the temptations and the fiery darts of the adversary overpower them unto blindness, to lead them away to destruction" ([1 Ne. 15:24](/scriptures/bofm/1-ne/15.24?lang=eng#23)).
 
 Then he gave this example of how to teach: "I did exhort them with all the
 energies of my soul, and with all the faculty which I possessed, that they
 would give heed to the word of God and remember to keep his commandments
 always in all things" ([1 Ne.
-15:25](https://www.lds.org/scriptures/bofm/1-ne/15.25?lang=eng#24)).
+15:25](/scriptures/bofm/1-ne/15.25?lang=eng#24)).
 
-Fourth--Honestly forgive as often as is required. The Lord declared: "If he ...
-repenteth in the sincerity of his heart, him shall ye forgive, and I will
-forgive him also. ...
+**Fourth--Honestly forgive as often as is required.** The Lord declared: "If he ... repenteth in the sincerity of his heart, him shall ye forgive, and I will forgive him also. ...
 
 "And as often as my people repent will I forgive them" ([Mosiah
-26:29-30](https://www.lds.org/scriptures/bofm/mosiah/26.29-30?lang=eng#28)).
+26:29-30](/scriptures/bofm/mosiah/26.29-30?lang=eng#28)).
 
-Fifth--Pray trustingly. "The ... fervent prayer of a righteous man availeth
-much" ([James
-5:16](https://www.lds.org/scriptures/nt/james/5.16?lang=eng#15)).
+**Fifth--Pray trustingly.** "The ... fervent prayer of a righteous man availeth much" ([James 5:16](/scriptures/nt/james/5.16?lang=eng#15)).
 
 The Master taught: "Whatsoever ye shall ask the Father in my name, which is
 right, believing that ye shall receive, behold it shall be given unto you" ([3
-Ne. 18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19)). "Pray
-always, and I will pour out my Spirit upon you, and great shall be your
-blessing" ([D&amp;C 19:38](https://www.lds.org/scriptures/dc-
-testament/dc/19.38?lang=eng#37)).
+Ne. 18:20](/scriptures/bofm/3-ne/18.20?lang=eng#19)). "Pray always, and I will
+pour out my Spirit upon you, and great shall be your blessing" ([D&amp;C
+19:38](/scriptures/dc-testament/dc/19.38?lang=eng#37)).
 
-Sixth--Keep perspective. When you have done all that you can reasonably do,
-rest the burden in the hands of the Lord.
+**Sixth--Keep perspective.** When you have done all that you can reasonably do, rest the burden in the hands of the Lord.
 
 When I take a small pebble and place it directly in front of my eye, it takes
 on the appearance of a mighty boulder. It is all I can see. It becomes all-
@@ -90,7 +68,7 @@ Abraham labored that his own father would overcome transgression. Despite his
 best efforts, his father turned to idolatry. Had Abraham let that proper
 concern for a father consume his every thought, he could not have received
 this promise: "In thy seed shall all the kindreds of the earth be blessed" ([3
-Ne. 20:25](https://www.lds.org/scriptures/bofm/3-ne/20.25?lang=eng#24)).
+Ne. 20:25](/scriptures/bofm/3-ne/20.25?lang=eng#24)).
 
 Some who have overcome serious sin in their own lives blame themselves because
 of that prior disobedience when a loved one does not respond as desired. Such
@@ -123,15 +101,13 @@ is mighty to save.
 perfect brightness of hope, and a love of God and of all men. Wherefore, if ye
 shall press forward, feasting upon the word of Christ, and endure to the end,
 behold, thus saith the Father: Ye shall have eternal life" ([2 Ne.
-31:19-20](https://www.lds.org/scriptures/bofm/2-ne/31.19-20?lang=eng#18)).
+31:19-20](/scriptures/bofm/2-ne/31.19-20?lang=eng#18)).
 
 He could well have added, "and shall have peace and happiness now." Happiness
 comes from understanding and living the teachings of the Lord. It comes from
 not being critical of ourselves when we don't accomplish all we want to do.
 
-One last suggestion--Never give up on a loved one, never! I know we have a
-loving Father in Heaven. He asks us to worship him that we may feel his love.
-He entreats us to love his Son that we may be comforted and strengthened.
+**One last suggestion--Never give up on a loved one, never!** I know we have a loving Father in Heaven. He asks us to worship him that we may feel his love. He entreats us to love his Son that we may be comforted and strengthened.
 
 Sometimes, we foolishly recite facts about the Father and the Son,
 mechanically, and--forgive us--preach to them, preen before them, and display
@@ -150,4 +126,6 @@ all mankind, each individual, without exception, or not one soul could ever
 return to the presence of God. He did it. He did it perfectly. Neither he nor
 his Father will ever fail us--never in all eternity. I bear that witness, in
 the name of Jesus Christ, amen.
+
+## References
 

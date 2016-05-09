@@ -35,9 +35,9 @@ ladder independently to ascend to the level of the Master. If we are to
 achieve perfection, we must emulate the works of Jesus as well as his words.
 The Apostle Peter instructed those who would be disciples of Christ to be
 "partakers of the divine nature." ([2 Pet.
-1:4-7](https://www.lds.org/scriptures/nt/2-pet/1.4-7?lang=eng#3).) He told
-them, "For even hereunto were ye called: ... that ye should follow his steps."
-([1 Pet. 2:21](https://www.lds.org/scriptures/nt/1-pet/2.21?lang=eng#20).)
+1:4-7](/scriptures/nt/2-pet/1.4-7?lang=eng#3).) He told them, "For even
+hereunto were ye called: ... that ye should follow his steps." ([1 Pet.
+2:21](/scriptures/nt/1-pet/2.21?lang=eng#20).)
 
 In 1897 Dr. Charles Sheldon, a young minister in Topeka, Kansas, wrote a book
 which he titled _In His Steps._ It was a novel based upon an experiment he
@@ -58,34 +58,31 @@ The book describes the fascinating experience of those who accepted the
 challenge. I have been intrigued by the experiment and wonder, if it were
 conducted today among the Latter-day Saints, how we would measure up. As
 latter-day Christians, we know that the "royal law" ([James
-2:8](https://www.lds.org/scriptures/nt/james/2.8?lang=eng#7)) of love in
-action is to "succor the weak, lift up the hands which hang down, and
-strengthen the feeble knees." ([D&amp;C 81:5](https://www.lds.org/scriptures
-/dc-testament/dc/81.5?lang=eng#4).) Do we catch the significance of this
-thought? We demonstrate the depth of our love for the Savior when we care
-enough to seek out the suffering among us and attend to their needs.
+2:8](/scriptures/nt/james/2.8?lang=eng#7)) of love in action is to "succor the
+weak, lift up the hands which hang down, and strengthen the feeble knees."
+([D&amp;C 81:5](/scriptures/dc-testament/dc/81.5?lang=eng#4).) Do we catch the
+significance of this thought? We demonstrate the depth of our love for the
+Savior when we care enough to seek out the suffering among us and attend to
+their needs.
 
 The philosopher William George Jordan has identified "four great hungers of
 life--body-hunger, mind-hunger, heart-hunger, and soul-hunger. They are all
 real; all need recognition, all need feeding." (William George Jordan, _The
 Crown of Individuality,_ New York: Fleming H. Revell Company, 1909, p. 63.)
 
-  1. Body-hunger is our most conscious biological need. It is difficult to be spiritually strong when temporally deficient.
-
-  2. Mind-hunger is a craving for intellectual food, for education, and for personal development.
-
-  3. Heart-hunger is to be lonely, to have low self-esteem, to be misunderstood, to crave companionship, sympathy, and appreciation. However, we find that as we seek to satisfy the heart-hunger of our neighbor, we reduce our own.
-
-  4. Soul-hunger is the burning desire to know eternal truth. It is the yearning of the spirit to commune with God. (See Jordan, pp. 63-75.)
+  1. Body-hunger is our most conscious biological need. It is difficult to be spiritually strong when temporally deficient. 
+  2. Mind-hunger is a craving for intellectual food, for education, and for personal development. 
+  3. Heart-hunger is to be lonely, to have low self-esteem, to be misunderstood, to crave companionship, sympathy, and appreciation. However, we find that as we seek to satisfy the heart-hunger of our neighbor, we reduce our own. 
+  4. Soul-hunger is the burning desire to know eternal truth. It is the yearning of the spirit to commune with God. (See Jordan, pp. 63-75.) 
 
 The restored gospel of Jesus Christ provides the solution to all the hungers
 of life. Jesus said: "I am the bread of life: he that cometh to me shall never
 hunger; and he that believeth on me shall never thirst." ([John
-6:35](https://www.lds.org/scriptures/nt/john/6.35?lang=eng#34).) We would all
-like to have the Savior's capacity to assuage the hungers of the world; but
-let us not forget that there are many simple ways by which we can walk in His
-steps. Let us remember that in giving of ourselves, it is less a question of
-giving a lot than of giving at the right moment.
+6:35](/scriptures/nt/john/6.35?lang=eng#34).) We would all like to have the
+Savior's capacity to assuage the hungers of the world; but let us not forget
+that there are many simple ways by which we can walk in His steps. Let us
+remember that in giving of ourselves, it is less a question of giving a lot
+than of giving at the right moment.
 
 A noted columnist, Erma Bombeck, described an experience which reminds us that
 little things can mean a lot. She recounted a frustrating morning of numerous
@@ -199,10 +196,9 @@ Priesthood Quorums 1976-77, pp. 154-55.)
 
 Perhaps the most heroic acts are done quietly and with no recognition except
 from a loving Heavenly Father who rewards us with the sweet peace that passeth
-understanding (see [Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6)) and by His
-Spirit whispers, "Well done, [my] good and faithful servant." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).)
+understanding (see [Philip. 4:7](/scriptures/nt/philip/4.7?lang=eng#6)) and by
+His Spirit whispers, "Well done, [my] good and faithful servant." ([Matt.
+25:21](/scriptures/nt/matt/25.21?lang=eng#20).)
 
 I was touched by an experience that was recently related to me. A dear sister
 had been incapacitated for the past eight years--she could not walk or talk
@@ -272,7 +268,7 @@ him the pains and the sicknesses of his people.
 "... And he will take upon him their infirmities, that his bowels may be filled
 with mercy, according to the flesh, that he may know according to the flesh
 how to succor his people." ([Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10).)
+7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10).)
 
 After a recent stake conference meeting where I had discussed the role of the
 family in the Church, I was approached by a sweet woman who said: "Bishop, I'm
@@ -326,8 +322,8 @@ This has been a difficult assignment for me. As I have pondered how practicing
 welfare principles brings us to Christ, I have searched my own soul and
 realized that I am far short of my ideal--the Savior. As a result, I have
 recommitted myself to achieve the "divine nature" of Christ (see [2 Pet.
-1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3)) by becoming more
-aware of ways in which to bless those in need.
+1:4](/scriptures/nt/2-pet/1.4?lang=eng#3)) by becoming more aware of ways in
+which to bless those in need.
 
 I bear my testimony to you that there is a special Spirit of the Savior which
 accompanies welfare services. I know He loves this work and the thousands of
@@ -342,9 +338,10 @@ shall ye also do; ...
 the last day. ...
 
 "Therefore, what manner of men ought ye to be? Verily I say unto you, even as
-I am." ([3 Ne. 27:21-22,
-27](https://www.lds.org/scriptures/bofm/3-ne/27.21-22%2C27?lang=eng#20).)
+I am." ([3 Ne. 27:21-22, 27](/scriptures/bofm/3-ne/27.21-22,27?lang=eng#20).)
 
 That we may walk in his steps and become even as he is I pray, in the sacred
 name of the Lord Jesus Christ, amen.
+
+## References
 

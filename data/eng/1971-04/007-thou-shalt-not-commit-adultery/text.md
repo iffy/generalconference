@@ -2,10 +2,10 @@
 
 We still hear the voice of Jehovah as it thundered down from Mount Sinai,
 commanding, "Thou shalt not commit adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).) For over
-three thousand years this commandment has reverberated throughout the Hebrew
-and Christian world. It has been the guideline by which millions of people
-have patterned their lives.
+20:14](/scriptures/ot/ex/20.14?lang=eng#13).) For over three thousand years
+this commandment has reverberated throughout the Hebrew and Christian world.
+It has been the guideline by which millions of people have patterned their
+lives.
 
 Many people throughout the Church and, generally speaking, throughout the
 world have now abandoned the anciently cherished Hebraic-Christian moral
@@ -22,7 +22,7 @@ his time during the past year with another man's wife. She explained that on a
 number of occasions she followed him in her car to the other woman's place.
 Naturally, the sinful husband was miserable, the wife was very sorrowful, and
 the children were brokenhearted. "... wickedness never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).)
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9).)
 
 About a year ago a young man came to my office and wept as if his heart would
 break. He said, "I committed adultery about two years ago. The sin is causing
@@ -88,27 +88,26 @@ expressed in one of the most pitiful prayers in the holy scriptures:
 "Wash me thoroughly from mine iniquity, and cleanse me from my sin.
 
 "For I acknowledge my transgressions: and my sin is ever before me." ([Ps.
-51:1-3](https://www.lds.org/scriptures/ot/ps/51.1-3?lang=eng#0).)
+51:1-3](/scriptures/ot/ps/51.1-3?lang=eng#0).)
 
 Having an understanding of the plan of salvation and a thorough knowledge of
 the seriousness of the gross sins of adultery and murder which he had
 committed, King David in anguish cried out unto the Lord: "... thou wilt not
-leave my soul in hell." ([Ps.
-16:10](https://www.lds.org/scriptures/ot/ps/16.10?lang=eng#9).)
+leave my soul in hell." ([Ps. 16:10](/scriptures/ot/ps/16.10?lang=eng#9).)
 
 More than two thousand years after King David's death and only 127 years ago,
 Jesus Christ spoke from heaven and informed us that because of David's sin
 against him in the case of Uriah and his wife, David "hath fallen from his
 exaltation" and his wives have been given to another. ([D&amp;C
-132:39](https://www.lds.org/scriptures/dc-testament/dc/132.39?lang=eng#38).)
+132:39](/scriptures/dc-testament/dc/132.39?lang=eng#38).)
 
 Perhaps the most famous Bible example of a stalwart and noble man who was
 tempted but retained his chastity was Joseph, the young, handsome servant of
 Potiphar, the Egyptian ruler. He resisted the vile allurements of Potiphar's
 wife, refusing to commit adultery with her. Joseph's reply was: "... how ... can I
 do this great wickedness, and sin against God? ..." ([Gen. 39:9,
-12](https://www.lds.org/scriptures/ot/gen/39.9%2C12?lang=eng#8).) And then he
-fled from her presence.
+12](/scriptures/ot/gen/39.9,12?lang=eng#8).) And then he fled from her
+presence.
 
 Rather than betray his ideals, he went to jail, where he was confined in a
 dungeon for several years.
@@ -139,13 +138,13 @@ blood or denying the Holy Ghost?
 
 "Now my son, I would that ye should repent and forsake your sins, ... for except
 ye do this ye can in nowise inherit the kingdom of God." ([Alma 39:5,
-9](https://www.lds.org/scriptures/bofm/alma/39.5%2C9?lang=eng#4).)
+9](/scriptures/bofm/alma/39.5,9?lang=eng#4).)
 
 Throughout the ages the prophets of God have proclaimed that no unclean thing
 can inherit the kingdom of God. ([Moses
-6:57](https://www.lds.org/scriptures/pgp/moses/6.57?lang=eng#56); [Gal.
-5:19-21](https://www.lds.org/scriptures/nt/gal/5.19-21?lang=eng#18); [1 Cor.
-6:9](https://www.lds.org/scriptures/nt/1-cor/6.9?lang=eng#8).)
+6:57](/scriptures/pgp/moses/6.57?lang=eng#56); [Gal.
+5:19-21](/scriptures/nt/gal/5.19-21?lang=eng#18); [1 Cor.
+6:9](/scriptures/nt/1-cor/6.9?lang=eng#8).)
 
 Jesus Christ while in mortality vigorously taught the law of chastity. He
 said: "Ye have heard that it was said by them of old time, Thou shalt not
@@ -153,10 +152,10 @@ commit adultery:
 
 "But I say unto you, That whosoever looketh on a woman to lust after her hath
 committed adultery with her already in his heart." ([Matt.
-5:27-28](https://www.lds.org/scriptures/nt/matt/5.27-28?lang=eng#26).)
+5:27-28](/scriptures/nt/matt/5.27-28?lang=eng#26).)
 
 Jesus also declared: "Blessed are the pure in heart: for they shall see God."
-([Matt. 5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7).)
+([Matt. 5:8](/scriptures/nt/matt/5.8?lang=eng#7).)
 
 Nearly two thousand years have passed since Alma and Jesus gave their
 teachings on chastity. Has God withdrawn the laws relative to chastity? Isn't
@@ -174,8 +173,7 @@ none else.
 
 "And he that looketh upon a woman to lust after her shall deny the faith, and
 shall not have the Spirit; and if he repents not he shall be cast out."
-([D&amp;C 42:22-23](https://www.lds.org/scriptures/dc-
-testament/dc/42.22-23?lang=eng#21).)
+([D&amp;C 42:22-23](/scriptures/dc-testament/dc/42.22-23?lang=eng#21).)
 
 Joseph Smith and Sidney Rigdon were shown the fate of adulterers after death
 in the world to come in telestial glory. The Lord told them:
@@ -184,8 +182,8 @@ in the world to come in telestial glory. The Lord told them:
 whoremongers. ...
 
 "These are they who are cast down to hell to suffer the wrath of the Almighty
-God. ..." ([D&amp;C 76:103, 106](https://www.lds.org/scriptures/dc-
-testament/dc/76.103%2C106?lang=eng#102).)
+God. ..." ([D&amp;C 76:103, 106](/scriptures/dc-
+testament/dc/76.103,106?lang=eng#102).)
 
 The Lord commanded the priesthood holders in our dispensation as follows:
 
@@ -194,8 +192,7 @@ strong in the presence of God; and the doctrine of the priesthood shall distil
 upon thy soul as the dews from heaven.
 
 "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging
-scepter of righteousness and truth. ..." ([D&amp;C
-121:45-46](https://www.lds.org/scriptures/dc-
+scepter of righteousness and truth. ..." ([D&amp;C 121:45-46](/scriptures/dc-
 testament/dc/121.45-46?lang=eng#44).)
 
 May we think clean thoughts and refrain from all impure actions, living by
@@ -204,4 +201,6 @@ in this life and prepare to come back into the presence of the Lord to be
 crowned with glory and eternal life.
 
 In the name of Jesus Christ. Amen.
+
+## References
 

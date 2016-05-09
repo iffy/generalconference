@@ -3,8 +3,8 @@
 After the Lord had created Adam, he made it crystal clear that he did not
 intend that Adam should go through life without a companion, when he said: "It
 is not good that the man should be alone; I will make him an help meet for
-him." ([Gen. 2:18](https://www.lds.org/scriptures/ot/gen/2.18?lang=eng#17).)
-So Eve was created and given to Adam to be his wife and companion.
+him." ([Gen. 2:18](/scriptures/ot/gen/2.18?lang=eng#17).) So Eve was created
+and given to Adam to be his wife and companion.
 
 Many of you young people in the Church have reached an age where you are old
 enough to look for a companion and mate. As you commence dating on a steady
@@ -93,7 +93,7 @@ too many divorces are a result of unfaithfulness on the part of the wife, the
 husband, or both. There would be fewer divorces if the counsel and guidance
 given by the Lord were followed. In a revelation to the Prophet Joseph he
 said: "Thou shalt love thy wife with all thy heart, and shalt cleave unto her
-and none else." ([D&amp;C 42:22](https://www.lds.org/scriptures/dc-
+and none else." ([D&amp;C 42:22](/scriptures/dc-
 testament/dc/42.22?lang=eng#21).)
 
 I am persuaded that many divorces today could be avoided and are not
@@ -136,4 +136,6 @@ It is my sincere and humble prayer that we may all live in such a way that we
 will have happy and serene homes where love abounds and the Spirit of the Lord
 is ever present, for which I pray in the name of Jesus Christ, our Lord and
 Savior. Amen.
+
+## References
 

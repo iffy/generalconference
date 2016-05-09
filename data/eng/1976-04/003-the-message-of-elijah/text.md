@@ -11,8 +11,7 @@ respecter of persons?
 Is not the same gospel required to save us as was needed in the days of Peter
 and Paul? There is only one gospel. There is only one Savior, and he gave us
 only one straight and narrow way to salvation, although, unfortunately, "few
-there be that find it." ([Matt.
-7:14](https://www.lds.org/scriptures/nt/matt/7.14?lang=eng#13).)
+there be that find it." ([Matt. 7:14](/scriptures/nt/matt/7.14?lang=eng#13).)
 
 Over the centuries there has been a great departure from the original
 Christian teachings, resulting in a multiplicity of creeds and denominations.
@@ -23,14 +22,14 @@ them for the divisions which existed among them.
 
 "Is Christ divided?" he demanded of them. "Was Paul crucified for you? or were
 ye baptized in the name of Paul?" ([1 Cor.
-1:13](https://www.lds.org/scriptures/nt/1-cor/1.13?lang=eng#12).)
+1:13](/scriptures/nt/1-cor/1.13?lang=eng#12).)
 
 So he challenged them, saying, "Every one of you saith, I am of Paul; and I of
 Apollos; and I of Cephas; and I of Christ" ([1 Cor.
-1:12](https://www.lds.org/scriptures/nt/1-cor/1.12?lang=eng#11)), thus showing
-the ruptures which had broken out among these people whom Paul had converted
-only a short time before. But this was one of the symptoms of those times--
-evidence that even in Paul's day Christianity was beginning to disintegrate.
+1:12](/scriptures/nt/1-cor/1.12?lang=eng#11)), thus showing the ruptures which
+had broken out among these people whom Paul had converted only a short time
+before. But this was one of the symptoms of those times--evidence that even in
+Paul's day Christianity was beginning to disintegrate.
 
 It is evident from the scriptures that through the foreknowledge of God the
 ancient apostles were shown in advance that Christianity would be splintered,
@@ -45,14 +44,13 @@ Peter as one day he discoursed upon the second coming of the Lord. He
 explained that the Lord's second coming would be preceded in the latter days
 by a restoration of the gospel which would be so extensive as to return all
 that God had spoken by the mouth of his holy prophets from the beginning of
-the world. (See [Acts
-3](https://www.lds.org/scriptures/nt/acts/3.title?lang=eng).)
+the world. (See [Acts 3](/scriptures/nt/acts/3?lang=eng).)
 
 But how was this to be accomplished? Do the scriptures tell us? Indeed they
 do, for they say that the gospel would be brought back to earth by an angel,
 "flying in the midst of heaven" in the hour of God's judgment, that this truth
 might be preached to "every nation, kindred, tongue and people." ([Rev.
-14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5).)
+14:6](/scriptures/nt/rev/14.6?lang=eng#5).)
 
 But the scriptures also say that a second angel would come as part of this
 great new revelation of God. They even identify him by name, and say that this
@@ -73,7 +71,7 @@ the great and dreadful day of the Lord:
 
 "And he shall turn the heart of the fathers to the children, and the heart of
 the children to their fathers, lest I come and smite the earth with a curse."
-([Mal. 4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4).)
+([Mal. 4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4).)
 
 This is a passage of scripture which has greatly puzzled the Bible scholars.
 They cannot tell what it means. Many have guessed and speculated, but none
@@ -96,7 +94,7 @@ But how can this be?
 
 Jesus explained that he is God of both the living and the dead, and that, in
 fact, even the dead are alive unto him. (See [Luke
-20:38](https://www.lds.org/scriptures/nt/luke/20.38?lang=eng#37).)
+20:38](/scriptures/nt/luke/20.38?lang=eng#37).)
 
 However, he has but one gospel; and since both living and dead are alike unto
 him, both living and dead must be saved by the same gospel principles. The
@@ -113,13 +111,12 @@ Peter taught that while Christ's body lay in the tomb after the crucifixion
 his eternal spirit went to the realm of the dead, who were alive and alert in
 a spirit existence. Each person was still himself. Each could listen and learn
 --and so they did, for Jesus taught them his gospel just as he had taught it
-here on earth. (See [1 Pet.
-3](https://www.lds.org/scriptures/nt/1-pet/3.title?lang=eng).)
+here on earth. (See [1 Pet. 3](/scriptures/nt/1-pet/3?lang=eng).)
 
 Peter further said: "For for this cause was the gospel preached also to them
 that are dead, that they might be judged according to men in the flesh, but
 live according to God in the spirit." ([1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5).)
+4:6](/scriptures/nt/1-pet/4.6?lang=eng#5).)
 
 Would Jesus have preached to them if they could not hear and understand? Would
 he have preached faith and repentance if they were not able to believe and
@@ -158,8 +155,8 @@ do they understand their responsibility in it.
 Be it known that each living person is responsible to assist in the salvation
 of his own deceased relatives. Our own salvation is largely dependent upon it.
 We cannot be made perfect without our ancestors, and they cannot be made
-perfect without us. (See [Heb.
-11:40](https://www.lds.org/scriptures/nt/heb/11.40?lang=eng#39).) And why?
+perfect without us. (See [Heb. 11:40](/scriptures/nt/heb/11.40?lang=eng#39).)
+And why?
 
 The requirement of the Lord is that each couple must be married for eternity
 and each child must be bound to his or her own parents by the power of the
@@ -267,4 +264,6 @@ But each of us must do our part for our own deceased relatives. It is so
 essential that it must be given a high priority in our daily lives. And that
 we may give it this great priority is my humble prayer in the sacred name of
 Jesus Christ. Amen.
+
+## References
 

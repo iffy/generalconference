@@ -2,7 +2,7 @@
 
 In a revelation the Lord said, "Blessed is my servant Hyrum Smith; for I, the
 Lord, love him because of the integrity of his heart, and because he loveth
-that which is right." ([D&amp;C 124:15](https://www.lds.org/scriptures/dc-
+that which is right." ([D&amp;C 124:15](/scriptures/dc-
 testament/dc/124.15?lang=eng#14).) I personally know of no higher praise that
 any man could receive.
 
@@ -16,8 +16,7 @@ being false to a trust or covenant.
 
 We all have within us the ability to know what is right and good. Speaking to
 the "peaceable followers of Christ" ([Moro.
-7:3](https://www.lds.org/scriptures/bofm/moro/7.3?lang=eng#2)), the prophet
-Mormon said:
+7:3](/scriptures/bofm/moro/7.3?lang=eng#2)), the prophet Mormon said:
 
 "It is given unto you to judge, that ye may know good from evil; and the way
 to judge is as plain, that ye may know with a perfect knowledge, as the
@@ -34,7 +33,7 @@ and deny him, and serve not God, then ye may know with a perfect knowledge it
 is of the devil; for after this manner doth the devil work, for he persuadeth
 no man to do good, no, not one; neither do his angels; neither do they who
 subject themselves unto him." ([Moro.
-7:15-17](https://www.lds.org/scriptures/bofm/moro/7.15-17?lang=eng#14).)
+7:15-17](/scriptures/bofm/moro/7.15-17?lang=eng#14).)
 
 Having received the Spirit of Christ to know good from evil, we should always
 choose the good. We need not be misled, even though fraud, deception, deceit,
@@ -43,18 +42,18 @@ cheating are commonplace. Integrity, a firm adherence to the highest moral and
 ethical standards, is essential to the life of a true Latter-day Saint.
 
 Like Job of old, we need to say, "Till I die I will not remove mine integrity
-from me." ([Job 27:5](https://www.lds.org/scriptures/ot/job/27.5?lang=eng#4).)
-Though he had lost almost everything he valued--his family, his friends, his
-health, his wealth--he refused to give up his integrity. In sharp contrast,
-many today trade away their integrity for a very small price tag. A person who
-shoplifts for a candy bar, or makeup, or jewelry trades priceless integrity
-for a meager gain. A person who falsifies a tax return by not reporting income
-or claiming invalid deductions compromises valued integrity for a pittance of
-unpaid income tax. One who avoids paying bills promptly for goods or services
-received exchanges cherished integrity for a perceived temporary advantage.
-Husbands or wives who are unfaithful to their spouses trade their prized
-integrity for a fleeting moment of mirth. Integrity is so precious that it is
-beyond price; it is invaluable.
+from me." ([Job 27:5](/scriptures/ot/job/27.5?lang=eng#4).) Though he had lost
+almost everything he valued--his family, his friends, his health, his wealth--
+he refused to give up his integrity. In sharp contrast, many today trade away
+their integrity for a very small price tag. A person who shoplifts for a candy
+bar, or makeup, or jewelry trades priceless integrity for a meager gain. A
+person who falsifies a tax return by not reporting income or claiming invalid
+deductions compromises valued integrity for a pittance of unpaid income tax.
+One who avoids paying bills promptly for goods or services received exchanges
+cherished integrity for a perceived temporary advantage. Husbands or wives who
+are unfaithful to their spouses trade their prized integrity for a fleeting
+moment of mirth. Integrity is so precious that it is beyond price; it is
+invaluable.
 
 Joseph, the son of Jacob, was a model of integrity. No doubt many of you have
 been reminded of him recently in a Sunday School class. Joseph's integrity
@@ -65,9 +64,9 @@ to violate a trust.
 Because of his integrity and righteousness, Joseph was favored and blessed of
 the Lord in every circumstance. His life is evidence that "all things work
 together for good to [those who] love God." ([Rom.
-8:28](https://www.lds.org/scriptures/nt/rom/8.28?lang=eng#27).) His example is
-especially pertinent to us because most members of the Church have descended
-from his loins.
+8:28](/scriptures/nt/rom/8.28?lang=eng#27).) His example is especially
+pertinent to us because most members of the Church have descended from his
+loins.
 
 His father, Jacob, loved Joseph even from his youth. The Lord revealed future
 events to Joseph in dreams. However, his brothers hated him, plotted to take
@@ -103,7 +102,7 @@ hither. ...
 lives by a great deliverance.
 
 "So now it was not you that sent me hither, but God." ([Gen. 45:4-5,
-7-8](https://www.lds.org/scriptures/ot/gen/45.4-5%2C7-8?lang=eng#3).)
+7-8](/scriptures/ot/gen/45.4-5,7-8?lang=eng#3).)
 
 Through Joseph, the Lord preserved the children of Israel and provided a place
 in Egypt for them to flourish and increase.
@@ -112,11 +111,11 @@ This story is well known, but I urge you to read it again, focusing your
 attention on the integrity of Joseph and on the blessings it brought to him.
 He became the birthright son in the house of Israel and received an
 inheritance in the lands of the Americas. (See [Ether
-13:8](https://www.lds.org/scriptures/bofm/ether/13.8?lang=eng#7).) The Lord
-permitted him to prophesy of Moses, who would deliver the children of Israel
-out of Egypt (see JST, Gen. 50:27-29), and of Joseph Smith, the prophet of the
-restoration of the gospel in the latter days (see JST, Gen. 50:30-33; [2 Ne.
-3:6-21](https://www.lds.org/scriptures/bofm/2-ne/3.6-21?lang=eng#5)).
+13:8](/scriptures/bofm/ether/13.8?lang=eng#7).) The Lord permitted him to
+prophesy of Moses, who would deliver the children of Israel out of Egypt (see
+JST, Gen. 50:27-29), and of Joseph Smith, the prophet of the restoration of
+the gospel in the latter days (see JST, Gen. 50:30-33; [2 Ne.
+3:6-21](/scriptures/bofm/2-ne/3.6-21?lang=eng#5)).
 
 A more modern life of integrity is exemplified by George Washington, first
 president of the United States of America. His integrity and character, more
@@ -152,37 +151,33 @@ determines what we really are.
 
 The Lord expects us to live lives of integrity and to be obedient to his
 commandments. He said, "And why call ye me, Lord, Lord, and do not the things
-which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).) On another
+which I say?" ([Luke 6:46](/scriptures/nt/luke/6.46?lang=eng#45).) On another
 occasion, he said, "Not every one that saith unto me, Lord, Lord, shall enter
 into the kingdom of heaven; but he that doeth the will of my Father which is
-in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).)
+in heaven." ([Matt. 7:21](/scriptures/nt/matt/7.21?lang=eng#20).)
 
 A little lying, a little cheating, or taking a little unfair advantage are not
 acceptable to the Lord. (See [2 Ne.
-28:8-9](https://www.lds.org/scriptures/bofm/2-ne/28.8-9?lang=eng#7).) The
-scriptures warn that these are Satan's ways to lead us "carefully down to
-[destruction]." ([2 Ne.
-28:21](https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20).)
+28:8-9](/scriptures/bofm/2-ne/28.8-9?lang=eng#7).) The scriptures warn that
+these are Satan's ways to lead us "carefully down to [destruction]." ([2 Ne.
+28:21](/scriptures/bofm/2-ne/28.21?lang=eng#20).)
 
 To Saints of the Restoration, the Savior said, "For of him unto whom much is
-given much is required." ([D&amp;C 82:3](https://www.lds.org/scriptures/dc-
+given much is required." ([D&amp;C 82:3](/scriptures/dc-
 testament/dc/82.3?lang=eng#2).) Church members have been given much, indeed:
 the gospel of Jesus Christ. That blessing carries a risk. We have been warned,
 "Therefore to him that knoweth to do good, and doeth it not, to him it is
-sin." ([James
-4:17](https://www.lds.org/scriptures/nt/james/4.17?lang=eng#16).)
+sin." ([James 4:17](/scriptures/nt/james/4.17?lang=eng#16).)
 
 The world desperately needs men and women of integrity. Nearly every day we
 hear of fraud, misapplication of funds, false advertising, or other dealings
 designed to obtain gain by cheating or deception. The Lord abhors such
 practices. A proverb states, "A false balance [that is, a deceptive scale] is
 abomination to the Lord: but a just weight is his delight." ([Prov.
-11:1](https://www.lds.org/scriptures/ot/prov/11.1?lang=eng#0).) The Lord
-commanded, "If thou borrowest ... , thou shalt restore that which thou hast
-borrowed." ([D&amp;C 136:25](https://www.lds.org/scriptures/dc-
-testament/dc/136.25?lang=eng#24).) He commanded the ancient Israelites:
+11:1](/scriptures/ot/prov/11.1?lang=eng#0).) The Lord commanded, "If thou
+borrowest ..., thou shalt restore that which thou hast borrowed." ([D&amp;C
+136:25](/scriptures/dc-testament/dc/136.25?lang=eng#24).) He commanded the
+ancient Israelites:
 
 "Ye shall not steal, neither deal falsely, neither lie one to another. ...
 
@@ -191,7 +186,7 @@ testament/dc/136.25?lang=eng#24).) He commanded the ancient Israelites:
 "Ye shall do no [injustice] in judgment, ... in weight, or in measure.
 
 "Just balances, just weights ... shall ye have." ([Lev. 19:11, 13,
-35-36](https://www.lds.org/scriptures/ot/lev/19.11%2C13%2C35-36?lang=eng#10).)
+35-36](/scriptures/ot/lev/19.11,13,35-36?lang=eng#10).)
 
 The Lord commanded the Israelites to be more than honest. If they came upon a
 lost ox, they were to search out the owner so they could return the animal.
@@ -199,11 +194,11 @@ Today, our intentions and dealings must be similarly pure and sound before the
 Lord. We must be fair with suppliers, customers, and employees; repay
 obligations and keep agreements; and never deceive by failing to disclose all
 the facts about an investment or business venture. If our selfish "hearts are
-set so much upon the things of this world" ([D&amp;C
-121:35](https://www.lds.org/scriptures/dc-testament/dc/121.35?lang=eng#34)),
-we can easily lose our integrity. We must remember that "we believe in being
-honest, true, chaste, benevolent, virtuous, and in doing good to all men." ([A
-of F 1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+set so much upon the things of this world" ([D&amp;C 121:35](/scriptures/dc-
+testament/dc/121.35?lang=eng#34)), we can easily lose our integrity. We must
+remember that "we believe in being honest, true, chaste, benevolent, virtuous,
+and in doing good to all men." ([A of F
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 Elder Neal A. Maxwell stated, "Oh, how we wish for more honesty and less
 corruption, more goodness instead of so much cleverness, and more wisdom in
@@ -212,13 +207,12 @@ lieu of unanchored brilliance."
 We must be honest with the Lord as we pay our tithes. Faithful Saints have
 learned that he will "open ... the windows of heaven, and pour ... out a blessing,
 that there shall not be room enough to receive it." ([Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).) The payment of
-tithing has less to do with money, but more to do with faith. Let us return
-one-tenth of our income to the Lord (see [D&amp;C
-119:4](https://www.lds.org/scriptures/dc-testament/dc/119.4?lang=eng#3)) and
-never be guilty of robbing him by failing to pay our tithes. Then, we also
-should remember those in need and contribute generous fast offerings for their
-assistance.
+3:10](/scriptures/ot/mal/3.10?lang=eng#9).) The payment of tithing has less to
+do with money, but more to do with faith. Let us return one-tenth of our
+income to the Lord (see [D&amp;C 119:4](/scriptures/dc-
+testament/dc/119.4?lang=eng#3)) and never be guilty of robbing him by failing
+to pay our tithes. Then, we also should remember those in need and contribute
+generous fast offerings for their assistance.
 
 We show our integrity by caring for and serving others. Let me cite an
 instance where family members, a Christlike bishop, home teachers, visiting
@@ -249,10 +243,10 @@ wheelchair, built shelves for food storage, and helped with yard work.
 All of this kindness lifted her spirits and gave her courage to meet the
 trials and hardships of each day. Those who looked after this young mother
 practiced "pure religion" ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26)) because of
-their integrity. Let us "go, and do ... likewise" ([Luke
-10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36)), as the
-Savior taught in the parable of the good Samaritan.
+1:27](/scriptures/nt/james/1.27?lang=eng#26)) because of their integrity. Let
+us "go, and do ... likewise" ([Luke
+10:37](/scriptures/nt/luke/10.37?lang=eng#36)), as the Savior taught in the
+parable of the good Samaritan.
 
 The rewards of integrity are immeasurable. One is the indescribable inner
 peace and serenity that come from knowing we are doing what is right; another
@@ -260,16 +254,15 @@ is an absence of the guilt and anxiety that accompany sin.
 
 Another reward of integrity is the confidence it can give us in approaching
 God. When virtue garnishes our thoughts unceasingly, our confidence is strong
-in the presence of God. (See [D&amp;C 121:45](https://www.lds.org/scriptures
-/dc-testament/dc/121.45?lang=eng#44).) When we are doing what is right, we
-will not feel timid and hesitant about seeking divine direction. We will know
-the Lord will answer our prayers and help us in our need.
+in the presence of God. (See [D&amp;C 121:45](/scriptures/dc-
+testament/dc/121.45?lang=eng#44).) When we are doing what is right, we will
+not feel timid and hesitant about seeking divine direction. We will know the
+Lord will answer our prayers and help us in our need.
 
 The consummate reward of integrity is the constant companionship of the Holy
-Ghost. (See [D&amp;C 121:46](https://www.lds.org/scriptures/dc-
-testament/dc/121.46?lang=eng#45).) The Holy Ghost does not attend us when we
-do evil. But when we do what is right, he can dwell with us and guide us in
-all we do.
+Ghost. (See [D&amp;C 121:46](/scriptures/dc-testament/dc/121.46?lang=eng#45).)
+The Holy Ghost does not attend us when we do evil. But when we do what is
+right, he can dwell with us and guide us in all we do.
 
 My brothers and sisters, let us live true to the trust the Lord has placed in
 us. Let us strive for personal, practical integrity in every endeavor,
@@ -280,4 +273,6 @@ I bear my witness that Jesus is the Christ, the Son of God, and is our Lord
 and Savior. This is his church. Joseph Smith is a true prophet of God, as is
 President Ezra Taft Benson. I bear this testimony humbly, in the name of Jesus
 Christ, amen.
+
+## References
 

@@ -6,14 +6,14 @@ time, Why does she always say that? And, by the way, who am I?
 
 Others have also asked this very important question:
 
-"Moses said unto God, Who am I?" [1]
+"Moses said unto God, Who am I?"[1]
 
 "Then went king David in, and sat before the Lord, and he said, Who am I, O
-Lord God?" [2]
+Lord God?"[2]
 
 Among the magnificent and abundant teachings of President Howard W. Hunter is
 this assertion, "The greatest search of our time is the search for personal
-identity and for human dignity." [3]  This search for personal identity is
+identity and for human dignity."[3] This search for personal identity is
 essentially a search for role models that can become instructive in the
 conduct of our lifestyles. With only a few exceptions, a young person cannot
 find adequate role models among those in athletics, entertainment, or
@@ -60,7 +60,7 @@ this horse till I found Jim, and here I stayed. I turned around and headed for
 home. When I got to Bears Valley, ... I could hardly walk. Mr. Potter tried to
 get me to stop and rest, but I could not stay. At last I got home. Jimmie took
 me off the horse and carried me into the house. Mother cried to think I had
-been in the saddle while the horse went over eighty miles." [4]
+been in the saddle while the horse went over eighty miles."[4]
 
 Let us consider also the eloquent language of Gustave Henriod:
 
@@ -74,12 +74,12 @@ unloading boxes and bedding mornings and evenings, in the saddle or on foot
 guarding the stock every night and driving loose cattle in the day, digging
 trenches around the tents to keep from being drowned by the torrents, singing
 the songs of Zion, mending a broken wagon, ... washing your clothes--everybody
-forgot a clothes line." [5]
+forgot a clothes line."[5]
 
 Another important quality to emulate is humor in the face of challenge. Hannah
 Cornaby, another member of the 1853 migration, wrote:
 
-"It was three years, to a day, from that memorable first of June ... , when our
+"It was three years, to a day, from that memorable first of June ..., when our
 oxen having arrived, we left Keokuk. I wish I could afford a page to a
 description of our starting. The oxen were wild, and getting them yoked was
 the most laughable sight I had ever witnessed; everybody giving orders, and
@@ -90,7 +90,7 @@ comical to witness the bewildered look of some innocent brother, who, after
 having labored an hour or more to get [an ox] secured to one end of the yoke,
 would hold the other end aloft, trying to persuade [the other ox] to come
 under, only to see [the first] careering across the country, the yoke lashing
-the air, and he not even giving a hint as to when he intended to stop." [6]
+the air, and he not even giving a hint as to when he intended to stop."[6]
 
 Of course, there were political and social conflicts in the lives of some of
 our ancestors, but even these become instructional in the ways they dealt with
@@ -114,7 +114,7 @@ loyal to the king. Listen to this about John Davies:
 a number of cattle from his farm, and had committed other acts of plunder,
 having become destitute, applied for relief in his extremity to Mr. Davies,
 who not only pardoned him for the wrongs he had done, but liberally relieved
-his wants." [7]
+his wants."[7]
 
 Tamma Miner's first husband, Albert, died in January of 1848 when their
 youngest child was not yet two years old and their oldest only fifteen years
@@ -132,7 +132,7 @@ persecutions from Huron county to Kirtland and from Kirtland to Missouri back
 to Illinois and then across the desert. I write this that my children may have
 a little idea of what their parents passed through. I hope my children will
 appreciate these lines for I do feel highly honored to be numbered with the
-Latter-day Saints." [8]
+Latter-day Saints."[8]
 
 These are a few great examples of role models which are available to all of us
 as we learn of our own family history.
@@ -180,26 +180,26 @@ world with Christ in God--
 
 "Therefore your life and the priesthood have remained, and must needs remain
 through you and your lineage until the restoration of all things spoken by the
-mouths of all the holy prophets since the world began." [9]  In the name of
+mouths of all the holy prophets since the world began."[9] In the name of
 Jesus Christ, amen.
 
 ## References
 
-  1.   [Ex. 3:11](https://www.lds.org/scriptures/ot/ex/3.11?lang=eng#10).
+  1. [Ex. 3:11](https://www.lds.org/scriptures/ot/ex/3.11?lang=eng#10).
 
-  2.   [2 Sam. 7:18](https://www.lds.org/scriptures/ot/2-sam/7.18?lang=eng#17).
+  2. [2 Sam. 7:18](https://www.lds.org/scriptures/ot/2-sam/7.18?lang=eng#17).
 
-  3.  In Conference Report, Apr. 1967, p. 115.
+  3. In Conference Report, Apr. 1967, p. 115.
 
-  4.  Personal journal of Manasseh Byrd Kearl, copy in possession of author.
+  4. Personal journal of Manasseh Byrd Kearl, copy in possession of author.
 
-  5.  In _Our Pioneer Heritage,_ comp. Kate B. Carter, 20 vols. (Salt Lake City: Daughters of Utah Pioneers, 1968), 11:320.
+  5. In _Our Pioneer Heritage,_ comp. Kate B. Carter, 20 vols. (Salt Lake City: Daughters of Utah Pioneers, 1968), 11:320.
 
-  6.   _Autobiography and Poems_ (Salt Lake City, J. C. Graham &amp; Co., 1881), p. 32.
+  6. _Autobiography and Poems_ (Salt Lake City, J. C. Graham &amp; Co., 1881), p. 32.
 
-  7.  In Henry Eugene Davies, _Davies Memoir_ (n.p., 1895), pp. 21-22.
+  7. In Henry Eugene Davies, _Davies Memoir_ (n.p., 1895), pp. 21-22.
 
-  8.  In _Our Pioneer Heritage,_ 2:323.
+  8. In _Our Pioneer Heritage,_ 2:323.
 
-  9.   [D&amp;C 86:8-10](https://www.lds.org/scriptures/dc-testament/dc/86.8-10?lang=eng#7).
+  9. [D&amp;C 86:8-10](https://www.lds.org/scriptures/dc-testament/dc/86.8-10?lang=eng#7).
 

@@ -64,8 +64,8 @@ the commencement of the meeting.
 The words of the Lord seemed so appropriate then. They are equally appropriate
 now: "And if it so be that you should labor all your days in crying repentance
 unto this people, and bring, save it be one soul unto me, how great shall be
-your joy with him in the kingdom of my Father!" ([D&amp;C
-18:15](https://www.lds.org/scriptures/dc-testament/dc/18.15?lang=eng#14)).
+your joy with him in the kingdom of my Father!" ([D&amp;C 18:15](/scriptures
+/dc-testament/dc/18.15?lang=eng#14)).
 
 We are a missionary-minded people. We have a divine mandate to proclaim the
 message of the Restoration. You young men here this night are on the threshold
@@ -73,7 +73,7 @@ of your missionary opportunity. That energetic missionary from the Book of
 Mormon, even Alma, provides for us a blueprint for missionary conduct: "This
 is my glory, that perhaps I may be an instrument in the hands of God to bring
 some soul to repentance; and this is my joy" ([Alma
-29:9](https://www.lds.org/scriptures/bofm/alma/29.9?lang=eng#8)).
+29:9](/scriptures/bofm/alma/29.9?lang=eng#8)).
 
 I add my personal witness: Our missionaries are not salesmen with wares to
 peddle; rather, they are servants of the Most High God, with testimonies to
@@ -83,13 +83,13 @@ Each missionary who goes forth in response to a sacred call becomes a servant
 of the Lord whose work this truly is. Do not fear, young men, for He will be
 with you. He never fails. He has promised: "I will go before your face. I will
 be on your right hand and on your left, and my Spirit shall be in your hearts,
-and mine angels round about you, to bear you up" ([D&amp;C
-84:88](https://www.lds.org/scriptures/dc-testament/dc/84.88?lang=eng#87)).
+and mine angels round about you, to bear you up" ([D&amp;C 84:88](/scriptures
+/dc-testament/dc/84.88?lang=eng#87)).
 
 "And ye shall go forth in the power of my Spirit, preaching my gospel, two by
 two, in my name, lifting up your voices as with the sound of a trump,
-declaring my word like unto angels of God" ([D&amp;C
-42:6](https://www.lds.org/scriptures/dc-testament/dc/42.6?lang=eng#5)).
+declaring my word like unto angels of God" ([D&amp;C 42:6](/scriptures/dc-
+testament/dc/42.6?lang=eng#5)).
 
 Fathers, bishops, quorum advisers, yours is the responsibility to prepare this
 generation of missionaries, to quicken in the hearts of these deacons,
@@ -225,7 +225,7 @@ No missionary stood so tall as did Craig Sudbury when, in far-off Australia,
 he helped his father into water waist-deep and, raising his right arm to the
 square, repeated those sacred words: "Fred Sudbury, having been commissioned
 of Jesus Christ, I baptize you in the name of the Father, and of the Son, and
-of the Holy Ghost" (see [D&amp;C 20:73](https://www.lds.org/scriptures/dc-
+of the Holy Ghost" (see [D&amp;C 20:73](/scriptures/dc-
 testament/dc/20.73?lang=eng#72)).
 
 The prayer of a mother, the faith of a father, the service of a son brought
@@ -233,8 +233,10 @@ forth the miracle of God.
 
 "How beautiful are the feet of them that preach the gospel of peace, and bring
 glad tidings of good things!" ([Rom.
-10:15](https://www.lds.org/scriptures/nt/rom/10.15?lang=eng#14)).
+10:15](/scriptures/nt/rom/10.15?lang=eng#14)).
 
 God bless us, my brethren, with missionary memories of stalwart service in the
 cause of Christ, I pray in His holy name, amen.
+
+## References
 

@@ -214,3 +214,17 @@ great plan of salvation, which tells us the purpose of life and gives us the
 assurance of a Savior, in whose name I testify of the truth of these things.
 In the name of Jesus Christ, amen.
 
+## References
+
+  1. "[The Family: A Proclamation to the World](https://www.lds.org/liahona/2010/11/the-family-a-proclamation-to-the-world.p1?lang=eng),"_ Ensign_ or_ Liahona,_ Nov. 2010, 129.
+
+  2. Similarly, modern revelation teaches that if we never had the bitter, we could not know the sweet (see [Doctrine and Covenants 29:39](https://www.lds.org/scriptures/dc-testament/dc/29.39?lang=eng#38)).
+
+  3. See Michael Hubbard MacKay and Gerrit J. Dirkmaat, _From Darkness unto Light: Joseph Smith's Translation and Publication of the Book of Mormon _(2015), 163-79.
+
+  4. Thomas S. Monson, "[Joy in the Journey](http://womensconference.ce.byu.edu/sites/womensconference.ce.byu.edu/files/presidentmonson2008.pdf?lang=eng)" (address given at the BYU Women's Conference, May 2, 2008), womensconference.ce.byu.edu. A short essay on sportsmanship and democracy by John S. Tanner, now president of BYU-Hawaii, includes this insight on a subject with which we are all familiar: "Learning how to lose gracefully is not only a civil duty; it is a religious imperative. God designed mortality to ensure 'opposition in all things' ([2 Nephi 2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10)). Setbacks and defeats are part of his plan for our perfection. ... Defeat plays an integral role in our 'quest for perfection'" (_Notes from an Amateur: A Disciple's Life in the Academy_ [2011], 57).
+
+  5. See Dallin H. Oaks, "[Good, Better, Best](https://www.lds.org/general-conference/2007/10/good-better-best?lang=eng),"_ Ensign_ or_ Liahona,_ Nov. 2007, 104-8.
+
+  6. See Sarah Jane Weaver, "Rededication Goes Forward," _Church News,_ Feb. 28, 2016, 3-4.
+

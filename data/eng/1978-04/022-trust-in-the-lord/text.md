@@ -12,8 +12,7 @@ heart.
 pass.
 
 "And he shall bring forth thy righteousness as the light, and thy judgment, as
-the noonday." ([Ps.
-37:3-6](https://www.lds.org/scriptures/ot/ps/37.3-6?lang=eng#2).)
+the noonday." ([Ps. 37:3-6](/scriptures/ot/ps/37.3-6?lang=eng#2).)
 
 The scriptures have always seemed to equate righteous living with a special
 light, spirit, joy, and happiness in the lives of those who so live.
@@ -55,8 +54,7 @@ large number of boys. One of the sons, Joseph, was loved by his father more
 than his other brothers. To show his love and appreciation for his son, his
 father made him a coat of many colors. "And when his brethren saw that their
 father loved him more than all his brethren, they hated him, and could not
-speak peaceably unto him." ([Gen.
-37:4](https://www.lds.org/scriptures/ot/gen/37.4?lang=eng#3).)
+speak peaceably unto him." ([Gen. 37:4](/scriptures/ot/gen/37.4?lang=eng#3).)
 
 Joseph didn't help matters much. He dreamed dreams and then would tell them to
 his brethren, and they hated him even more. Could you imagine how such a dream
@@ -70,8 +68,7 @@ obeisance to my sheaf.
 
 "And his brethren said to him, Shalt thou indeed reign over us? or shalt thou
 indeed have dominion over us? And they hated him yet the more for his dreams,
-and for his words." ([Gen.
-37:6-8](https://www.lds.org/scriptures/ot/gen/37.6-8?lang=eng#5).)
+and for his words." ([Gen. 37:6-8](/scriptures/ot/gen/37.6-8?lang=eng#5).)
 
 To complicate the process, his father allowed Joseph to stay home with him and
 sent his brethren out into the fields to tend the flocks. Every now and then
@@ -87,7 +84,7 @@ A brother saw a caravan coming from a distance on its way to Egypt, and said,
 
 "Come, and let us sell him to the Ishmeelites, and let not our hand be upon
 him; for he is our brother and our flesh. And his brethren were content."
-([Gen. 37:26-27](https://www.lds.org/scriptures/ot/gen/37.26-27?lang=eng#25).)
+([Gen. 37:26-27](/scriptures/ot/gen/37.26-27?lang=eng#25).)
 
 And they took their seventeen-year-old brother and sold him as a slave to a
 caravan going into Egypt, a strange land, where they spoke a strange tongue
@@ -116,10 +113,10 @@ within the prison, and he gained favor in the sight of the keeper of the
 prison. Insomuch that the scriptures record, "And the keeper of the prison
 committed to Joseph's hand all the prisoners that were in the prison; and
 whatsoever they did there, he was the doer of it." ([Gen.
-39:22](https://www.lds.org/scriptures/ot/gen/39.22?lang=eng#21).) You see,
-Joseph was given the position of the highest prisoner, and all the prisoners
-were turned over to his charge. Again in a difficult circumstance, Joseph
-became the best--even as a prisoner.
+39:22](/scriptures/ot/gen/39.22?lang=eng#21).) You see, Joseph was given the
+position of the highest prisoner, and all the prisoners were turned over to
+his charge. Again in a difficult circumstance, Joseph became the best--even as
+a prisoner.
 
 Cast into prison shortly after Joseph were two of the king's officers, the
 chief butler and the chief baker. Joseph soon became acquainted with them.
@@ -140,15 +137,14 @@ with the inspiration of the Lord, interpreted the king's dream. The king was
 so impressed with Joseph, he was released from prison and became a servant to
 the Pharaoh. Joseph again so distinguished himself as to become chief in all
 the land, second only to the Pharaoh himself. (See [Gen.
-40-41](https://www.lds.org/scriptures/ot/gen/40.title?lang=eng).)
+40-41](/scriptures/ot/gen/40?lang=eng).)
 
 Because of the service Joseph rendered, the Pharaoh said unto his servants,
 "Can we find such a one as this is, a man in whom the Spirit of God is?"
-([Gen. 41:38](https://www.lds.org/scriptures/ot/gen/41.38?lang=eng#37).) The
-Pharaoh recognized that Joseph was, indeed, directed by the Lord when he said
-unto Joseph, "forasmuch as God hath shewed thee all this, there is none so
-discreet and wise as thou art." ([Gen.
-41:39](https://www.lds.org/scriptures/ot/gen/41.39?lang=eng#38).)
+([Gen. 41:38](/scriptures/ot/gen/41.38?lang=eng#37).) The Pharaoh recognized
+that Joseph was, indeed, directed by the Lord when he said unto Joseph,
+"forasmuch as God hath shewed thee all this, there is none so discreet and
+wise as thou art." ([Gen. 41:39](/scriptures/ot/gen/41.39?lang=eng#38).)
 
 When one follows the course marked by the road signs of the gospel of Jesus
 Christ and places his trust in the Lord, its influence is such that it is
@@ -241,8 +237,10 @@ I humbly pray that we will place our "trust in the Lord and do good" so that
 it may also be said of us, as it was of Joseph of old, as we live as examples
 of the gospel of Jesus Christ, "Can we find such a one as this is, a man in
 whom the Spirit of God is?" ([Gen.
-41:38](https://www.lds.org/scriptures/ot/gen/41.38?lang=eng#37).)
+41:38](/scriptures/ot/gen/41.38?lang=eng#37).)
 
 God lives. Jesus is the Christ. This is his church. This is my humble witness
 to you today, in the name of Jesus Christ. Amen.
+
+## References
 

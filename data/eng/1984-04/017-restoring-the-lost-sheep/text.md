@@ -45,16 +45,14 @@ be accomplished in a person's life.
 
 It is no wonder, then, that Nephi admonished his people to "feast upon the
 words of Christ; for behold, the words of Christ will tell you all things what
-ye should do." ([2 Ne.
-32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2).)
+ye should do." ([2 Ne. 32:3](/scriptures/bofm/2-ne/32.3?lang=eng#2).)
 
 Jesus said, "Not every one that saith unto me, Lord, Lord, shall enter into
 the kingdom of heaven; but he that doeth the will of my Father which is in
-heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).)
+heaven." ([Matt. 7:21](/scriptures/nt/matt/7.21?lang=eng#20).)
 
 "Enter ye in at the strait gate." ([Matt.
-7:13](https://www.lds.org/scriptures/nt/matt/7.13?lang=eng#12).)
+7:13](/scriptures/nt/matt/7.13?lang=eng#12).)
 
 President Marion G. Romney expressed most clearly what is meant as follows:
 "It is not enough to do our best. Unless we do all we can, we do less than we
@@ -74,13 +72,10 @@ News,_ 16 Feb. 1984, p. D-2.)
 In seeking to strengthen the inactive, we are concerned with four general
 groups:
 
-  1. Lifetime members who have never been active and, as a result, ofttimes raise their families in inactivity.
-
-  2. New converts who become spiritually disaffected and fall away, usually in their first few years of membership.
-
-  3. Active members who slip into transgression or have other problems that cause them to fall away. Often their problems include lack of knowledge and testimony of the gospel, hurt feelings that result in attitudes of unworthiness and guilt, and sometimes fear of participation in Church assignments.
-
-  4. Youth who are caught up by the philosophies or behavior of the world and stray from their Church commitments. Some of these youth are persuaded by worldly attitudes of instant pleasure. Some are influenced by peer groups that take nothing seriously until the realities of life force them to.
+  1. Lifetime members who have never been active and, as a result, ofttimes raise their families in inactivity. 
+  2. New converts who become spiritually disaffected and fall away, usually in their first few years of membership. 
+  3. Active members who slip into transgression or have other problems that cause them to fall away. Often their problems include lack of knowledge and testimony of the gospel, hurt feelings that result in attitudes of unworthiness and guilt, and sometimes fear of participation in Church assignments. 
+  4. Youth who are caught up by the philosophies or behavior of the world and stray from their Church commitments. Some of these youth are persuaded by worldly attitudes of instant pleasure. Some are influenced by peer groups that take nothing seriously until the realities of life force them to. 
 
 This work of reclaiming the lost sheep, as Jesus so vividly expressed it, must
 receive top priority by every stake, ward, branch, and quorum leader. All
@@ -190,8 +185,7 @@ their brothers and sisters.
 The Lord has said in modern revelation, "And if it so be that you should labor
 all your days in crying repentance unto this people, and bring, save it be one
 soul unto me, how great shall be your joy with him in the kingdom of my
-Father!" ([D&amp;C 18:15](https://www.lds.org/scriptures/dc-
-testament/dc/18.15?lang=eng#14).)
+Father!" ([D&amp;C 18:15](/scriptures/dc-testament/dc/18.15?lang=eng#14).)
 
 I wish I could engrave on every heart what I so keenly know and feel. I bear
 unwavering testimony that our Heavenly Father and His Divine Son, Jesus
@@ -201,4 +195,6 @@ accountable.
 
 May the Lord bless us in this important work, I pray, in the name of Jesus
 Christ, amen.
+
+## References
 

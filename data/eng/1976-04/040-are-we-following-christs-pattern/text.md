@@ -15,8 +15,7 @@ that ye must do in my church; for the works which ye have seen me do that
 shall ye also do; for that which ye have seen me do even that shall ye do.
 
 "Therefore, what manner of men ought ye to be? Verily I say unto you, even as
-I am." ([3 Ne. 27:21,
-27](https://www.lds.org/scriptures/bofm/3-ne/27.21%2C27?lang=eng#20).)
+I am." ([3 Ne. 27:21, 27](/scriptures/bofm/3-ne/27.21,27?lang=eng#20).)
 
 Now may I ask you, does your life follow this pattern? May I point out to you
 a few parts of the pattern and suggest that you compare your life to them?
@@ -24,8 +23,8 @@ a few parts of the pattern and suggest that you compare your life to them?
 By what name are you called?
 
 "Behold, Jesus Christ is the name which is given of the Father, and there is
-none other name given whereby man can be saved." ([D&amp;C
-18:23](https://www.lds.org/scriptures/dc-testament/dc/18.23?lang=eng#22).)
+none other name given whereby man can be saved." ([D&amp;C 18:23](/scriptures
+/dc-testament/dc/18.23?lang=eng#22).)
 
 Do the things which you think and do entitle you to bear the name of Jesus
 Christ? Does your love for that holy name inspire and lift you to lofty
@@ -45,7 +44,7 @@ him. He praised him. He represents him in all he does. He serves him and
 delights to do his work. He obeys perfectly his every instruction. If we would
 be like Christ, we too must do these things, for hasn't he said, "For that
 which ye have seen me do even that shall ye do"? ([3 Ne.
-27:21](https://www.lds.org/scriptures/bofm/3-ne/27.21?lang=eng#20).)
+27:21](/scriptures/bofm/3-ne/27.21?lang=eng#20).)
 
 What is your relationship with your fellowman? The Master again has set the
 pattern:
@@ -58,8 +57,7 @@ holiness before me.
 "And again I say unto you, let every man esteem his brother as himself.
 
 "... I say unto you, be one; and if ye are not one ye are not mine." ([D&amp;C
-38:22, 24-25, 27](https://www.lds.org/scriptures/dc-
-testament/dc/38.22%2C24-25%2C27?lang=eng#21).)
+38:22, 24-25, 27](/scriptures/dc-testament/dc/38.22,24-25,27?lang=eng#21).)
 
 Do you really love the people around you? Love is the only element that can
 tenderize the human heart. The love that Christ has for us caused that he
@@ -71,8 +69,7 @@ pain, and to bleed at every pore, and to suffer both body and spirit--and
 would that I might not drink the bitter cup, and shrink--
 
 "Nevertheless, glory be to the Father, and I partook and finished my
-preparations unto the children of men." ([D&amp;C
-19:18-19](https://www.lds.org/scriptures/dc-
+preparations unto the children of men." ([D&amp;C 19:18-19](/scriptures/dc-
 testament/dc/19.18-19?lang=eng#17).)
 
 How much of yourself do you give to your fellowmen?
@@ -84,7 +81,7 @@ need for all men to be baptized:
 are they who shall inherit the kingdom of God.
 
 "And whoso believeth not in me, and is not baptized, shall be damned." ([3 Ne.
-11:33-34](https://www.lds.org/scriptures/bofm/3-ne/11.33-34?lang=eng#32).)
+11:33-34](/scriptures/bofm/3-ne/11.33-34?lang=eng#32).)
 
 There are many who mock and scoff at this vital ordinance. It has been changed
 to fit the convenience of men or, in some instances, has been cast aside
@@ -99,7 +96,7 @@ preached by Jesus Christ from the beginning.
 
 Repent and be baptized. Christ was. And "what manner of men ought ye to be?
 Verily I say unto you, even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 To be like Jesus Christ demands that men change. In all earnestness and
 sincerity of heart, I exhort you to change and be like the Master.
@@ -138,4 +135,6 @@ I testify that Jesus Christ directs the righteous affairs of this earth, that
 Spencer W. Kimball is a living prophet and receives and follows the
 instruction of the Master for the salvation of all men who will follow him.
 That we may do so is my constant prayer, in the name of Jesus Christ. Amen.
+
+## References
 

@@ -8,25 +8,22 @@ Presidency as they prepare for the rapid expansion of the gospel of Jesus
 Christ to every corner of the earth. It will be successful. It must be
 accomplished by us. He has declared: "I am Jesus Christ; I came by the will of
 the Father, and I do his will. Learn of me, and listen to my words." ([D&amp;C
-19:24, 23](https://www.lds.org/scriptures/dc-
-testament/dc/19.24%2C23?lang=eng#23).)
+19:24, 23](/scriptures/dc-testament/dc/19.24,23?lang=eng#23).)
 
 He has committed to mankind the promise that all who believe and are baptized
 in His holy name and endure in faith to the end will be saved. (See [D&amp;C
-20:25](https://www.lds.org/scriptures/dc-testament/dc/20.25?lang=eng#24).) As
-of today the Church is even more effectively prepared to reach and encourage
-all men to hearken unto His voice, for His everlasting covenant is established
-and is a standard for His people. They are to be messengers and prepare the
-way before Him. (See [D&amp;C 45:2, 9](https://www.lds.org/scriptures/dc-
-testament/dc/45.2%2C9?lang=eng#1).) Inhabitants of the earth are to receive
-the gospel that the kingdom of God might go forth. The Lord has said, "Thou
-[meaning us] shalt declare glad tidings, ... publish it upon the mountains, ...
-upon every high place, ... among every people that thou shalt be permitted to
-see.
+20:25](/scriptures/dc-testament/dc/20.25?lang=eng#24).) As of today the Church
+is even more effectively prepared to reach and encourage all men to hearken
+unto His voice, for His everlasting covenant is established and is a standard
+for His people. They are to be messengers and prepare the way before Him. (See
+[D&amp;C 45:2, 9](/scriptures/dc-testament/dc/45.2,9?lang=eng#1).) Inhabitants
+of the earth are to receive the gospel that the kingdom of God might go forth.
+The Lord has said, "Thou [meaning us] shalt declare glad tidings, ... publish it
+upon the mountains, ... upon every high place, ... among every people that thou
+shalt be permitted to see.
 
 "... thou shalt declare repentance ... and remission of sins by baptism."
-([D&amp;C 19:29, 31](https://www.lds.org/scriptures/dc-
-testament/dc/19.29%2C31?lang=eng#28).)
+([D&amp;C 19:29, 31](/scriptures/dc-testament/dc/19.29,31?lang=eng#28).)
 
 Baptism is the gate through which all must enter to accomplish the Lord's
 desire to bring to pass the immortality and eternal life of man.
@@ -64,7 +61,7 @@ Have we forgotten our obligation? Have we forgotten what the Lord said?
 
 "Behold, I sent you out to testify and warn the people, and it becometh every
 man who hath been warned to warn his neighbor. Therefore, they are left
-without excuse." ([D&amp;C 88:81-82](https://www.lds.org/scriptures/dc-
+without excuse." ([D&amp;C 88:81-82](/scriptures/dc-
 testament/dc/88.81-82?lang=eng#80).)
 
 "I give unto you a commandment, that every man, both elder, priest, teacher,
@@ -72,8 +69,7 @@ and also member, go to with his might, ... to prepare and accomplish the things
 which I have commanded.
 
 "And let your preaching be the warning voice, every man to his neighbor."
-([D&amp;C 38:40-41](https://www.lds.org/scriptures/dc-
-testament/dc/38.40-41?lang=eng#39).)
+([D&amp;C 38:40-41](/scriptures/dc-testament/dc/38.40-41?lang=eng#39).)
 
 Your missionary sons and daughters are trained to teach the gospel, to teach
 in an orderly, inspired manner, which hopefully leads to baptism. To a
@@ -103,8 +99,7 @@ Will Be Converted," Regional Representatives Seminar, April 4, 1974.)
 
 The prophet Nephi said: "For the day should come that they must be judged of
 their works, yea, even the works which were done by the temporal body in their
-days." ([1 Ne.
-15:32](https://www.lds.org/scriptures/bofm/1-ne/15.32?lang=eng#31).)
+days." ([1 Ne. 15:32](/scriptures/bofm/1-ne/15.32?lang=eng#31).)
 
 On an airplane flight a few weeks ago, a friend of mine engaged a lady in
 conversation. He told her about his trip to Anderson, South Carolina, to visit
@@ -130,7 +125,7 @@ people if they could not do anything about it?"
 He proceeded to explain baptism for the dead and the resurrection. He quoted
 Paul: "Else what shall they do which are baptized for the dead, if the dead
 rise not at all? why are they then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).)
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).)
 
 "Do you remember the phrase 'until death do you part' being used when you were
 married? Your marriage contract ends when either of you dies."
@@ -164,14 +159,13 @@ by Brother Cummings to the lady on the plane planted a desire for that
 baptismal certificate.
 
 "For this is a day of warning, and not a day of many words. For I, the Lord,
-am not to be mocked in the last days." ([D&amp;C
-63:58](https://www.lds.org/scriptures/dc-testament/dc/63.58?lang=eng#57).)
+am not to be mocked in the last days." ([D&amp;C 63:58](/scriptures/dc-
+testament/dc/63.58?lang=eng#57).)
 
 "And thou shalt declare glad tidings, yea, publish it upon the mountains. ...
 
 "And thou shalt do it with all humility, trusting in me." ([D&amp;C
-19:29-30](https://www.lds.org/scriptures/dc-
-testament/dc/19.29-30?lang=eng#28).)
+19:29-30](/scriptures/dc-testament/dc/19.29-30?lang=eng#28).)
 
 Last January in an effort to stimulate missionary activity, our Ohio stakes
 presented a program on the Word of Wisdom entitled "What Makes Mormons Run?"
@@ -212,8 +206,8 @@ The Lord declared: "For all men must repent and be baptized. ...
 
 "And by your hands I will work among the children of men, unto the convincing
 of many of their sins, that they may come unto repentance, and ... may come unto
-the kingdom of my Father." ([D&amp;C 18:42, 44](https://www.lds.org/scriptures
-/dc-testament/dc/18.42%2C44?lang=eng#41).)
+the kingdom of my Father." ([D&amp;C 18:42, 44](/scriptures/dc-
+testament/dc/18.42,44?lang=eng#41).)
 
 If you will involve your whole family--pray as a family for success; select a
 family to fellowship; set goals and dates for accomplishment; commit
@@ -225,4 +219,6 @@ You will witness friends enter the waters of baptism.
 The lives you touch may forget what you said, but they will never forget how
 you made them feel. Families are forever, I testify to you in all humility, in
 the name of our Lord and Savior Jesus Christ. Amen.
+
+## References
 

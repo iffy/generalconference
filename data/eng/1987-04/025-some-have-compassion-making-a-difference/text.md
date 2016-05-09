@@ -7,7 +7,7 @@ The sons of Mosiah "were desirous that salvation should be declared to every
 creature, for they could not bear that any human soul should perish; yea, even
 the very thoughts that any soul should endure endless torment did cause them
 to quake and tremble" ([Mosiah
-28:3](https://www.lds.org/scriptures/bofm/mosiah/28.3?lang=eng#2)).
+28:3](/scriptures/bofm/mosiah/28.3?lang=eng#2)).
 
 This spirit of being anxiously engaged in caring about those who are not
 partaking of the blessings of the gospel is not confined to those who are
@@ -46,11 +46,10 @@ into the fold, knowing Jesus can heal them when none other can.
 
 In 1829, the Lord instructed us through his first latter-day prophet, Joseph
 Smith, to "remember the worth of souls is great in the sight of God; ... And how
-great is his joy in the soul that repenteth!" ([D&amp;C 18:10,
-13](https://www.lds.org/scriptures/dc-testament/dc/18.10%2C13?lang=eng#9).) We
-need to be as Lehi, who said in Book of Mormon times, "I have none other
-object save it be the everlasting welfare of your souls" ([2 Ne.
-2:30](https://www.lds.org/scriptures/bofm/2-ne/2.30?lang=eng#29)).
+great is his joy in the soul that repenteth!" ([D&amp;C 18:10, 13](/scriptures
+/dc-testament/dc/18.10,13?lang=eng#9).) We need to be as Lehi, who said in
+Book of Mormon times, "I have none other object save it be the everlasting
+welfare of your souls" ([2 Ne. 2:30](/scriptures/bofm/2-ne/2.30?lang=eng#29)).
 
 In this, the last dispensation, we have prophets to guide and direct us with
 their counsel.
@@ -68,8 +67,8 @@ excommunicated because of serious transgressions.
 
 "To all such _we reach out in love._ We are _anxious to forgive_ in the spirit
 of Him who said: 'I, the Lord, will forgive whom I will forgive, but of you it
-is required to forgive all men.' ([D&amp;C
-64:10](https://www.lds.org/scriptures/dc-testament/dc/64.10?lang=eng#9)).
+is required to forgive all men.' ([D&amp;C 64:10](/scriptures/dc-
+testament/dc/64.10?lang=eng#9)).
 
 "_We encourage Church members to forgive those who may have wronged them._ To
 those who have ceased activity and to those who have become critical, we say,
@@ -88,7 +87,7 @@ unto me, all ye that labour and are heavy laden, and I will give you rest.
 and ye shall find rest unto your souls.
 
 "'"For my yoke is easy and my burden is light"' ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27)).
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27)).
 
 "We plead with you. We pray for you. We invite and welcome you with love and
 appreciation" (_Ensign, _Mar. 1986, p. 88; italics added).
@@ -96,14 +95,13 @@ appreciation" (_Ensign, _Mar. 1986, p. 88; italics added).
 For you and me, as members of The Church of Jesus Christ of Latter-day Saints,
 our responsibilities are clear; we are to:
 
-  1. -- Reach out in love and be anxious to forgive those who have wronged us. 
-  2. -- Help by fellowshipping and caring for those who want to come back, receiving them with open arms and willing hands. 
+  * Reach out in love and be anxious to forgive those who have wronged us. 
+  * Help by fellowshipping and caring for those who want to come back, receiving them with open arms and willing hands. 
 
 We must do as Jude, the brother of James, admonished:
 
 _"Have compassion, making a difference" _([Jude
-1:22](https://www.lds.org/scriptures/nt/jude/1.22?lang=eng#21); italics
-added).
+1:22](/scriptures/nt/jude/1.22?lang=eng#21); italics added).
 
 There are principles that will help us to "have compassion, making a
 difference." These principles are encompassed in Luke, chapter 15, where Jesus
@@ -112,11 +110,11 @@ those who are lost and rendering "compassion, making a difference."
 
 In the parable of the lost sheep, the shepherd went after the lost sheep and
 searched until he found the lost lamb. He then returned, rejoicing (see [Luke
-15:4-7](https://www.lds.org/scriptures/nt/luke/15.4-7?lang=eng#3)).
+15:4-7](/scriptures/nt/luke/15.4-7?lang=eng#3)).
 
 In the parable of the lost coin, the widow lit a candle, which gave light, and
 swept every corner to find the lost coin. She rejoiced upon finding it (see
-[Luke 15:8-10](https://www.lds.org/scriptures/nt/luke/15.8-10?lang=eng#7)).
+[Luke 15:8-10](/scriptures/nt/luke/15.8-10?lang=eng#7)).
 
 Both of these parables are examples of action taken to search, light up the
 darkness, and sweep until a treasured possession or lost soul is found and
@@ -124,10 +122,10 @@ returned to a rejoicing home.
 
 On the other hand, in the parable of the prodigal son, a caring father
 patiently waited for his son to "come to himself" (see [Luke
-15:11-32](https://www.lds.org/scriptures/nt/luke/15.11-32?lang=eng#10)). He
-provided a loving atmosphere at home to welcome his son with open arms and
-willing hands so that they might rejoice together. The key is that the son
-knew that upon his return he would be loved and welcomed home by his father.
+15:11-32](/scriptures/nt/luke/15.11-32?lang=eng#10)). He provided a loving
+atmosphere at home to welcome his son with open arms and willing hands so that
+they might rejoice together. The key is that the son knew that upon his return
+he would be loved and welcomed home by his father.
 
 Coming home can have its challenges, too. When the prodigal son came home, his
 faithful brother was jealous of the attention extended to his repentant
@@ -208,9 +206,8 @@ Nephites:
 worship, for unto such shall ye continue to minister; _for ye know not but
 what they will return and repent,_ and come unto me with full purpose of
 heart, and _I shall heal them;_ and _ye shall be the means_ of bringing
-salvation unto them" ([3 Ne.
-18:32](https://www.lds.org/scriptures/bofm/3-ne/18.32?lang=eng#31); italics
-added).
+salvation unto them" ([3 Ne. 18:32](/scriptures/bofm/3-ne/18.32?lang=eng#31);
+italics added).
 
 Brothers and sisters, may we leave this conference with a renewed
 determination, through our prayers of faith and "compassion, making a
@@ -229,9 +226,11 @@ again unto thee in Christ.
 "Behold, O Lord, their souls are precious, and many of them are our brethren;
 therefore, _give unto us, O Lord, power and wisdom that we may bring these,
 our brethren, again unto thee_" ([Alma
-31:32-35](https://www.lds.org/scriptures/bofm/alma/31.32-35?lang=eng#31)).
+31:32-35](/scriptures/bofm/alma/31.32-35?lang=eng#31)).
 
 "We love you; we miss you; we need you. Please come back." Come back to go to
 the temple, enter into the covenants, and receive the ordinances of eternal
 salvation. In the name of our Savior and Redeemer, Jesus Christ, amen.
+
+## References
 

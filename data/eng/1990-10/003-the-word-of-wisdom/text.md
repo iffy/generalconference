@@ -31,7 +31,7 @@ studies, he discovered the blessings that come through obedience to the Word
 of Wisdom. He asked the Lord in humility and love that the promises contained
 in section 89 of the Doctrine and Covenants would be made manifest in him so
 he could bless the lives of those who would depend on his skill. [[D&amp;C
-89](https://www.lds.org/scriptures/dc-testament/dc/89.title?lang=eng)]
+89](/scriptures/dc-testament/dc/89?lang=eng)]
 
 During those difficult learning years, he worked untiringly to become the best
 in his area of specialization. As the years went by, he gained great dexterity
@@ -40,11 +40,11 @@ brain. As we can imagine, any physical slip or unsteadiness in his hands could
 cause damage to his patients, perhaps injuring them for life.
 
 As he studied section 89 of the Doctrine and Covenants, [[D&amp;C
-89](https://www.lds.org/scriptures/dc-testament/dc/89.title?lang=eng)] he
-obtained a strong testimony that when we refrain from taking into our bodies
-substances that are harmful to it, we are blessed with intelligence and a
-healthy and strong body. As a doctor, he knew that these promises were there,
-within his reach, and he had earnestly sought them in his own behalf.
+89](/scriptures/dc-testament/dc/89?lang=eng)] he obtained a strong testimony
+that when we refrain from taking into our bodies substances that are harmful
+to it, we are blessed with intelligence and a healthy and strong body. As a
+doctor, he knew that these promises were there, within his reach, and he had
+earnestly sought them in his own behalf.
 
 As the time arrived for his proficiency exam, the final exam in his chosen
 career, he prepared himself with great care in order to perform to his very
@@ -79,8 +79,7 @@ marrow to their bones;
 treasures;
 
 "And shall run and not be weary, and shall walk and not faint." ([D&amp;C
-89:18-20](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-20?lang=eng#17).)
+89:18-20](/scriptures/dc-testament/dc/89.18-20?lang=eng#17).)
 
 Today as he visits some of the famous clinics and hospitals, and his
 colleagues have the opportunity of listening to him, he expresses to them and
@@ -99,15 +98,14 @@ substances.
 This commandment is very important today. As an example of the power of the
 Word of Wisdom, I quote another verse from section 89 of the Doctrine and
 Covenants. The Lord said, "And again, tobacco is not for the body, neither for
-the belly, and is not good for man." ([D&amp;C
-89:8](https://www.lds.org/scriptures/dc-testament/dc/89.8?lang=eng#7).) The
-Prophet Joseph Smith received this revelation in February of 1833, and it has
-been the cause of many controversies. Perhaps in that early period it was only
-significant to the faithful members of the Church, but now medical doctors
-have come to recognize that tobacco, in addition to being addictive, also
-kills those who use it. Used to any degree, tobacco has been the cause of so
-much damage among mankind that the need to carry out great campaigns against
-its use cannot be avoided.
+the belly, and is not good for man." ([D&amp;C 89:8](/scriptures/dc-
+testament/dc/89.8?lang=eng#7).) The Prophet Joseph Smith received this
+revelation in February of 1833, and it has been the cause of many
+controversies. Perhaps in that early period it was only significant to the
+faithful members of the Church, but now medical doctors have come to recognize
+that tobacco, in addition to being addictive, also kills those who use it.
+Used to any degree, tobacco has been the cause of so much damage among mankind
+that the need to carry out great campaigns against its use cannot be avoided.
 
 How I wish that each of us could have a strong testimony of the Word of Wisdom
 and that we could share with others the results of its sacred promises so that
@@ -116,9 +114,9 @@ nations can be strengthened. In this way, we can become worthy of the final
 promise of the Lord as contained in this section of the Doctrine and
 Covenants: "And I, the Lord, give unto them a promise, that the destroying
 angel shall pass by them, as the children of Israel, and not slay them."
-([D&amp;C 89:21](https://www.lds.org/scriptures/dc-
-testament/dc/89.21?lang=eng#20).) When we humbly recognize and fully accept
-the counsel of the Lord, nothing will be able to hold back man's intelligence.
+([D&amp;C 89:21](/scriptures/dc-testament/dc/89.21?lang=eng#20).) When we
+humbly recognize and fully accept the counsel of the Lord, nothing will be
+able to hold back man's intelligence.
 
 The living prophets constantly teach us about these sacred principles, but men
 seem to mock them, even as they are being undermined and destroyed by those
@@ -133,4 +131,6 @@ could cause their destruction.
 
 I earnestly desire that we will accept the wisdom of this word of warning, in
 the sacred name of Jesus Christ, amen.
+
+## References
 

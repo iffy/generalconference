@@ -113,3 +113,5 @@ sacred callings, and we now invite those newly called General Authorities and
 the Primary general presidency to come forward and take their seats on the
 stand.
 
+## References
+

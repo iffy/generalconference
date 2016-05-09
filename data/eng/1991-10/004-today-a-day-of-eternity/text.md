@@ -3,7 +3,7 @@
 "Behold, now is the time and the day of your salvation. ... This life is the
 time for men to prepare to meet God; ... the day of this life is the day for men
 to perform their labors." ([Alma
-34:31-32](https://www.lds.org/scriptures/bofm/alma/34.31-32?lang=eng#30).)
+34:31-32](/scriptures/bofm/alma/34.31-32?lang=eng#30).)
 
 These words are as applicable today as when expressed by Amulek centuries ago.
 
@@ -50,9 +50,8 @@ more humble and teachable.
 
 Each day will be a good day if we will think of the Savior and make Him the
 center of our lives, for He is "the light, and the life, and the truth of the
-world." ([Ether
-4:12](https://www.lds.org/scriptures/bofm/ether/4.12?lang=eng#11).) Following
-the Savior will help us to be honest. I would like to tell you about a twelve-
+world." ([Ether 4:12](/scriptures/bofm/ether/4.12?lang=eng#11).) Following the
+Savior will help us to be honest. I would like to tell you about a twelve-
 year-old boy in the Philippines who is following the Savior.
 
 Julius had gone to school without eating any breakfast, and during class his
@@ -163,7 +162,7 @@ suffering;
 "Having faith on the Lord; having a hope that [we] shall receive eternal life;
 having the love of God always in [our] hearts, that [we] may be lifted up at
 the last day and enter into his rest." ([Alma
-13:28-29](https://www.lds.org/scriptures/bofm/alma/13.28-29?lang=eng#27).)
+13:28-29](/scriptures/bofm/alma/13.28-29?lang=eng#27).)
 
 Today, my heart is full of gratitude as my service as a Seventy comes to a
 close.
@@ -187,4 +186,6 @@ day a good day.
 Above all, I express my gratitude and love to my Savior, Jesus Christ. He is
 the life, light, and truth of the world. I leave my witness that He is our
 Savior and Redeemer. In the name of Jesus Christ, amen.
+
+## References
 

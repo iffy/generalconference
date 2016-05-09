@@ -281,8 +281,8 @@ comes to families who pray together, work together, and help one another.
 
 "Honour thy father and thy mother: that thy days may be long upon the land
 which the Lord thy God giveth thee." ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).) As a boy I
-came to believe in that divine commandment.
+20:12](/scriptures/ot/ex/20.12?lang=eng#11).) As a boy I came to believe in
+that divine commandment.
 
 I think it is such a great commandment from the Lord. If it were only observed
 more widely, there would be far less misery in the homes of the people.
@@ -316,4 +316,6 @@ no. 239.)
 Fathers, be good men, that your wives will speak of you with love and
 appreciation and your children will remember you with gratitude everlasting, I
 humbly pray in the name of Jesus Christ, amen.
+
+## References
 

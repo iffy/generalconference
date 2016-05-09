@@ -29,7 +29,7 @@ president must make.
 
 The Lord has said: "This is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 When the gospel plan was explained to Lorenzo Snow, he put the whole plan in a
 nice epigram: "As man now is, our God once was; as now God is, so man may be."
@@ -64,8 +64,7 @@ shall burn within you; therefore, you shall feel that it is right.
 
 "But if it be not right you shall have no such feelings, but you shall have a
 stupor of thought that shall cause you to forget the thing which is wrong."
-([D&amp;C 9:8-9](https://www.lds.org/scriptures/dc-
-testament/dc/9.8-9?lang=eng#7).)
+([D&amp;C 9:8-9](/scriptures/dc-testament/dc/9.8-9?lang=eng#7).)
 
 This should be our guide in all our major decisions. We are making decisions
 constantly every day, either mentally or orally. This is what free agency is--
@@ -83,15 +82,13 @@ things of their own free will, and bring to pass much righteousness;
 
 "For _the power is in them,_ wherein they are agents unto _themselves._ And
 inasmuch as men do good they shall in nowise lose their reward." ([D&amp;C
-58:26-28](https://www.lds.org/scriptures/dc-
-testament/dc/58.26-28?lang=eng#25); italics added.)
+58:26-28](/scriptures/dc-testament/dc/58.26-28?lang=eng#25); italics added.)
 
 Thus we say today as did Moses when he came down off Mt. Sinai: "Who is on the
-Lord's side?" ([Ex.
-32:26](https://www.lds.org/scriptures/ot/ex/32.26?lang=eng#25).) And as did
+Lord's side?" ([Ex. 32:26](/scriptures/ot/ex/32.26?lang=eng#25).) And as did
 also Joshua cry: "Now therefore fear the Lord, and serve him in sincerity and
 in truth: ... Choose you this day whom ye will serve." ([Josh.
-24:14-15](https://www.lds.org/scriptures/ot/josh/24.14-15?lang=eng#13).)
+24:14-15](/scriptures/ot/josh/24.14-15?lang=eng#13).)
 
 Use your God-given free agency to choose honesty against dishonesty, to serve
 your fellowmen, and to build up the kingdom of God.
@@ -114,7 +111,7 @@ ceremony is to multiply and replenish the earth. In the Doctrine and Covenants
 when the Lord is referring to the blessings of celestial marriage (He is
 talking about husband-wife relationships), He makes this statement: "And if ye
 abide in my covenant, and commit no murder whereby to shed innocent blood,"
-and so forth. ([D&amp;C 132:19](https://www.lds.org/scriptures/dc-
+and so forth. ([D&amp;C 132:19](/scriptures/dc-
 testament/dc/132.19?lang=eng#18).) What do you think He's talking about? Is it
 possible that He was referring to abortion? Think about it! Is there more
 innocent life than that of the unborn child? And why is murder referred to
@@ -132,4 +129,6 @@ Seek the guidance of the Lord in making decisions, but use that God-given
 right of free agency. Then you, too, will know, as I know, that this is His
 church, the church of Jesus Christ, and I so testify to you in the name of
 Jesus Christ. Amen.
+
+## References
 

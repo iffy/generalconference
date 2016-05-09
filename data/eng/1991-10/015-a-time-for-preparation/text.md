@@ -68,9 +68,9 @@ His gospel. Pouring out his troubled soul and firm conviction, he pleads in a
 letter written to his dear young friend, Timothy, to be faithful to the truths
 that have been taught to him and to remember "the gift of God, which is in
 thee by the putting on of my hands." ([2 Tim.
-1:6](https://www.lds.org/scriptures/nt/2-tim/1.6?lang=eng#5).) Paul had
-personally blessed and ordained Timothy and now urged him to be strong and not
-ashamed of his testimony of our Lord, come what may.
+1:6](/scriptures/nt/2-tim/1.6?lang=eng#5).) Paul had personally blessed and
+ordained Timothy and now urged him to be strong and not ashamed of his
+testimony of our Lord, come what may.
 
 The Apostle Paul was fearless and never wavered in his testimony of Jesus. His
 faith and determination lifted him from being a tentmaker to become a teacher,
@@ -94,8 +94,7 @@ where.
 
 The Lord asked, "Unto what were ye ordained?" and then answered, "To preach my
 gospel by the Spirit, even ... to teach the truth." ([D&amp;C
-50:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/50.13-14?lang=eng#12).)
+50:13-14](/scriptures/dc-testament/dc/50.13-14?lang=eng#12).)
 
 President Spencer W. Kimball stated that "You are the sons of God, [that] you
 are the elect of God, and you have within your [grasp] the possibility to
@@ -111,8 +110,8 @@ giant blocks of granite. He declared: "We are building this temple to stand
 through the millennium" (LeGrand Richards, _Ensign,_ Dec. 1971, p. 81.)
 
 "Wherefore, be not weary in well-doing," the Lord admonishes, "for ye are
-laying the foundation of a great work." ([D&amp;C
-64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32).)
+laying the foundation of a great work." ([D&amp;C 64:33](/scriptures/dc-
+testament/dc/64.33?lang=eng#32).)
 
 You Aaronic Priesthood holders are setting your personal foundation stones in
 place--stones of granite--character stones that hopefully will last forever.
@@ -140,18 +139,16 @@ know about Satan and his evil influence. _Satan_ is a Hebrew name for the
 devil. It means adversary--one who wages open war with the truth and those who
 obey truthful principles. Satan chose the evil course from the beginning. His
 greatest aim, as taught by Moses and Enoch, is to get men to worship him. (See
-[Moses 1:12](https://www.lds.org/scriptures/pgp/moses/1.12?lang=eng#11);
-[Moses 6:49](https://www.lds.org/scriptures/pgp/moses/6.49?lang=eng#48).) He
-has had great success. As the professed god of this world, Satan has the
-adoration and worship of those who live after the manner of the world. All
-forms of wickedness and evil and rebellion against God's holy purposes are of
-the devil. However, we are tested and challenged and must work out our
-salvation in the presence of evil. Lehi taught: "It must needs be, that there
-is an opposition in all things." ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).) We have our
-agency to choose right from wrong, good from evil. But just because evil
-exists does _not_ mean that we must partake of it. You cannot _do_ wrong and
-_feel_ right.
+[Moses 1:12](/scriptures/pgp/moses/1.12?lang=eng#11); [Moses
+6:49](/scriptures/pgp/moses/6.49?lang=eng#48).) He has had great success. As
+the professed god of this world, Satan has the adoration and worship of those
+who live after the manner of the world. All forms of wickedness and evil and
+rebellion against God's holy purposes are of the devil. However, we are tested
+and challenged and must work out our salvation in the presence of evil. Lehi
+taught: "It must needs be, that there is an opposition in all things." ([2 Ne.
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10).) We have our agency to choose
+right from wrong, good from evil. But just because evil exists does _not_ mean
+that we must partake of it. You cannot _do_ wrong and _feel_ right.
 
 Members of our Church know that tobacco and beer and alcohol, in all of their
 forms, have been condemned by the medical and scientific world as well as by
@@ -179,7 +176,7 @@ sexually pure before the Lord. Movies and television scenes often imply moral
 cleanliness is old fashioned and not in tune with this modern world, but
 commandments cut into the stone tablets by the finger of God have not changed.
 The Lord declared, "Thou shalt not ... commit adultery," and later added, "nor
-do anything like unto it." ([D&amp;C 59:6](https://www.lds.org/scriptures/dc-
+do anything like unto it." ([D&amp;C 59:6](/scriptures/dc-
 testament/dc/59.6?lang=eng#5).) The commandments are clear and understandable
 and uncompromising.
 
@@ -234,9 +231,8 @@ enough to make the atoning sacrifice for you.
 Sounds difficult? I promise you that you can know, but only if you desire,
 with humble prayer and careful study of the scriptures. The Lord taught,
 "Search the scriptures ... which testify of me" and "ponder upon the things
-which I have said." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38); [3 Ne.
-17:3](https://www.lds.org/scriptures/bofm/3-ne/17.3?lang=eng#2).)
+which I have said." ([John 5:39](/scriptures/nt/john/5.39?lang=eng#38); [3 Ne.
+17:3](/scriptures/bofm/3-ne/17.3?lang=eng#2).)
 
 Your continuing preparation is to be worthy to receive the Melchizedek
 Priesthood, keeping yourself clean and honorable and praying for strength and
@@ -260,4 +256,6 @@ be whipping the trees, your roots will be deeply entrenched in the ground.
 I am a living witness of our Eternal Heavenly Father's love and mercy. He
 lives as does His Son, our Savior. This is His holy work, I testify in the
 name of Jesus Christ, amen.
+
+## References
 

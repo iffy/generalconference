@@ -73,7 +73,7 @@ lifting the head of a wounded Union soldier to give him a drink of refreshing
 water. A tablet to Kirkland's honor hangs in the Episcopal church in
 Gettysburg, Pennsylvania. With simple eloquence, it captures the essence of
 the young soldier's mission of mercy. It reads: "A hero of benevolence, at the
-risk of his own life, he gave his enemy drink at Fredericksburg." [1]
+risk of his own life, he gave his enemy drink at Fredericksburg."[1]
 
 The words of William Shakespeare describe Kirkland's deed:
 
@@ -85,7 +85,7 @@ _Upon the place beneath: it is twice blest;_
 
 _It blesseth him that gives and him that takes: ..._
 
-_It is an attribute to God himself._ [2]
+_It is an attribute to God himself._[2]
 
 Two brilliant and faith-filled counselors to President David O. McKay spoke to
 us everlasting counsel concerning the greatest act of mercy ever known to man.
@@ -93,7 +93,7 @@ President Stephen L Richards said: "The Savior himself declared that he came
 to fulfill the law, not to do away with it, but with the law he brought the
 principle of mercy to temper its enforcement, and to bring hope and
 encouragement to [the] offenders for forgiveness through [mercy and]
-repentance." [3]
+repentance."[3]
 
 President J. Reuben Clark, Jr., testified: "You know, I believe that the Lord
 will help us. I believe if we go to him, he will give us wisdom, if we are
@@ -108,7 +108,7 @@ lesser things.
 be expressed in this way: I believe that in his justice and mercy, he will
 give us the maximum reward for our acts, give us all that he can give, and in
 the reverse, I believe that he will impose upon us the minimum penalty which
-it is possible for him to impose." [4]
+it is possible for him to impose."[4]
 
 "I often think that one of the most beautiful things in the Christ's life was
 his words on the cross, when, suffering under the agony of a death that is
@@ -117,21 +117,20 @@ the cross, after he had been unjustly, illegally, contrary to all the rules of
 mercy, condemned and then crucified, when he had been nailed to the cross and
 was about to give up his life, he said to his Father in heaven, as those who
 were within hearing testify: '... Father, forgive them; for they know not what
-they do' ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33))." [5]
+they do' ([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33))."[5]
 
 In the Book of Mormon, Alma describes beautifully the foregoing with his
 words: "The plan of mercy could not be brought about except an atonement
 should be made; therefore God himself atoneth for the sins of the world, to
 bring about the plan of mercy, to appease the demands of justice, that God
-might be a perfect, just God, and a merciful God also." [6]
+might be a perfect, just God, and a merciful God also."[6]
 
 From the springboard of such knowledge we ask ourselves, _Why, then, do we see
 on every side those instances where people decline to forgive one another and
 show forth the cleansing act of mercy and forgiveness? What blocks the way for
 such healing balm to cleanse human wounds? Is it stubbornness? Could it be
 pride? Maybe hatred has yet to melt and disappear._ "Blame keeps wounds open.
-Only forgiveness heals!" [7]
+Only forgiveness heals!"[7]
 
 Recently I read where an elderly man disclosed at the funeral of his brother,
 with whom he had shared, from early manhood, a small, one-room cabin near
@@ -165,11 +164,10 @@ a ward position because he could not show mercy to himself. He could forgive
 others but not himself; mercy was seemingly beyond his grasp. President Brown
 suggested that I visit with that individual and counsel him along these lines:
 "I, the Lord, will forgive whom I will forgive, but of you it is required to
-forgive all men." [8]  Then, from Isaiah and the Doctrine and Covenants:
-"Though your sins be as scarlet, they shall be as white as snow; though they
-be red like crimson, they shall be as wool." [9]  "Behold, he who has repented
-of his sins, the same is forgiven, and I, the Lord, remember them no more."
-[10]
+forgive all men."[8] Then, from Isaiah and the Doctrine and Covenants: "Though
+your sins be as scarlet, they shall be as white as snow; though they be red
+like crimson, they shall be as wool."[9] "Behold, he who has repented of his
+sins, the same is forgiven, and I, the Lord, remember them no more."[10]
 
 With a pensive expression on his face, President Brown added: "Tell that man
 that he should not persist in remembering that which the Lord has said He is
@@ -179,7 +177,7 @@ spirit of any who applies it.
 The Prophet Joseph urged, "Be merciful and you shall find mercy. Seek to help
 save souls, not to destroy them: for verily you know, that 'there is more joy
 in heaven, over one sinner that repents, than there is over ninety and nine
-just persons [who] need no repentance.'" [11]
+just persons [who] need no repentance.'"[11]
 
 At times a small mistake can fester and bring distress and heartache to him or
 her who harbors and dwells on the matter, leaving it uncorrected. All of us
@@ -209,7 +207,7 @@ The key was returned to her, mounted on an attractive plaque.
 Should you or I have erred or spoken harshly to another, it is good to take
 steps to straighten out the matter and to move onward with our lives. "He
 [who] cannot forgive others breaks the bridge over which he himself must pass
-if he would ever reach heaven; for every one has need to be forgiven." [12]
+if he would ever reach heaven; for every one has need to be forgiven."[12]
 
 One of the most touching examples of mercy and forgiveness is the well-
 remembered experience in the life of Jesus, when he "went unto the mount of
@@ -243,7 +241,7 @@ alone, and the woman standing in the midst.
 her, Woman, where are ... thine accusers? hath no man condemned thee?
 
 "She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee:
-go, and sin no more." [13]
+go, and sin no more."[13]
 
 The sands of time quickly erased what the Savior had written, but forever will
 be remembered the mercy He showed.
@@ -262,14 +260,14 @@ _Such mercy, such love, and devotion can I forget?_
 
 _No, no, I will praise and adore at the mercy seat,_
 
-_Until at the glorified throne I kneel at his feet._ [14]
+_Until at the glorified throne I kneel at his feet._[14]
 
 This same Jesus, "seeing the multitudes, he went up into a mountain: and when
 he was set, his disciples came unto him:
 
 "And he opened his mouth, and taught them, saying, ...
 
-"Blessed are the merciful: for they shall obtain mercy." [15]
+"Blessed are the merciful: for they shall obtain mercy."[15]
 
 My sincere and humble prayer this Sabbath day is that each of us may be the
 provider and the recipient of mercy--the divine gift. In the name of Jesus
@@ -277,33 +275,33 @@ Christ, amen.
 
 ## References
 
-  1.   _The Battle Fredericksburg,_ Eastern Acorn Press, 1990; "'He Gave His Enemy Drink,'" _CWT Illustrated,_ Oct. 1962, pp. 38-39\. Information on Richard Kirkland provided by staff of the Fredericksburg and Spotsylvania National Military Park, National Park Service, U.S. Department of the Interior.
+  1. _The Battle Fredericksburg,_ Eastern Acorn Press, 1990; "'He Gave His Enemy Drink,'" _CWT Illustrated,_ Oct. 1962, pp. 38-39\. Information on Richard Kirkland provided by staff of the Fredericksburg and Spotsylvania National Military Park, National Park Service, U.S. Department of the Interior.
 
-  2.   _The Merchant of Venice,_ act 4, sc. 1, lines 184-95.
+  2. _The Merchant of Venice,_ act 4, sc. 1, lines 184-95.
 
-  3.  In Conference Report, 3 Apr. 1954, p. 11.
+  3. In Conference Report, 3 Apr. 1954, p. 11.
 
-  4.  In Conference Report, 3 Oct. 1953, p. 84.
+  4. In Conference Report, 3 Oct. 1953, p. 84.
 
-  5.  J. Reuben Clark, Jr., in Conference Report, 30 Sept. 1955, p. 24.
+  5. J. Reuben Clark, Jr., in Conference Report, 30 Sept. 1955, p. 24.
 
-  6.   [Alma 42:15](https://www.lds.org/scriptures/bofm/alma/42.15?lang=eng#14).
+  6. [Alma 42:15](https://www.lds.org/scriptures/bofm/alma/42.15?lang=eng#14).
 
-  7.  From _O Pioneers!_ by Willa Cather.
+  7. From _O Pioneers!_ by Willa Cather.
 
-  8.   [D&amp;C 64:10](https://www.lds.org/scriptures/dc-testament/dc/64.10?lang=eng#9).
+  8. [D&amp;C 64:10](https://www.lds.org/scriptures/dc-testament/dc/64.10?lang=eng#9).
 
-  9.   [Isa. 1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).
+  9. [Isa. 1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).
 
-  10.   [D&amp;C 58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41).
+  10. [D&amp;C 58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41).
 
-  11.   _Teachings of the Prophet Joseph Smith,_ p. 77.
+  11. _Teachings of the Prophet Joseph Smith,_ p. 77.
 
-  12.  George Herbert.
+  12. George Herbert.
 
-  13.   [John 8:1-11](https://www.lds.org/scriptures/nt/john/8.1-11?lang=eng#0).
+  13. [John 8:1-11](https://www.lds.org/scriptures/nt/john/8.1-11?lang=eng#0).
 
-  14.   _Hymns,_ 1985, no. 193.
+  14. _Hymns,_ 1985, no. 193.
 
-  15.   [Matt. 5:1-2, 7](https://www.lds.org/scriptures/nt/matt/5.1-2%2C7?lang=eng#0).
+  15. [Matt. 5:1-2, 7](https://www.lds.org/scriptures/nt/matt/5.1-2,7?lang=eng#0).
 

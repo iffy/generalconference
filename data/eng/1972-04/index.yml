@@ -1,486 +1,425 @@
 items:
-- article_id: '03020_000_1010'
-  item: '003'
+- item: 1
+  key: 000-1789534103001
+  month: 4
+  session_title: Thursday Morning Session
+  slug: '1789534103001'
+  speaker: Elder Francis M. Gibbons
+  title: Statistical Report 1971
+  url: https://www.lds.org/general-conference/1972/04/media/session_1_talk_1/1789534103001?lang=eng
+  year: 1972
+- item: 2
+  key: 001-1789534104001
+  month: 4
+  session_title: Thursday Morning Session
+  slug: '1789534104001'
+  speaker: Elder Wilford G. Edling
+  title: Church Auditing Committee Report
+  url: https://www.lds.org/general-conference/1972/04/media/session_1_talk_2/1789534104001?lang=eng
+  year: 1972
+- item: 3
+  key: 002-1789534105001
+  month: 4
+  session_title: Thursday Morning Session
+  slug: '1789534105001'
+  speaker: President N. Eldon Tanner
+  title: Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/1972/04/media/session_1_talk_3/1789534105001?lang=eng
+  year: 1972
+- item: 4
   key: 003-counsel-to-the-saints-and-to-the-world
   month: 4
-  session_id: thursday-morning
   session_title: Thursday Morning Session
   slug: counsel-to-the-saints-and-to-the-world
   speaker: Joseph Fielding Smith
   title: Counsel to the Saints and to the World
   url: https://www.lds.org/general-conference/1972/04/counsel-to-the-saints-and-to-the-world?lang=eng
   year: 1972
-- article_id: '03020_000_1020'
-  item: '004'
+- item: 5
   key: 004-a-people-of-sound-judgment
   month: 4
-  session_id: thursday-morning
   session_title: Thursday Morning Session
   slug: a-people-of-sound-judgment
   speaker: Mark E. Petersen
   title: A People of Sound Judgment
   url: https://www.lds.org/general-conference/1972/04/a-people-of-sound-judgment?lang=eng
   year: 1972
-- article_id: '03020_000_1030'
-  item: '005'
+- item: 6
   key: 005-we-are-called-of-god
   month: 4
-  session_id: thursday-morning
   session_title: Thursday Morning Session
   slug: we-are-called-of-god
   speaker: Loren C. Dunn
   title: We Are Called of God
   url: https://www.lds.org/general-conference/1972/04/we-are-called-of-god?lang=eng
   year: 1972
-- article_id: '03020_000_1040'
-  item: '006'
+- item: 7
   key: 006-a-challenge-to-the-priesthood
   month: 4
-  session_id: thursday-morning
   session_title: Thursday Morning Session
   slug: a-challenge-to-the-priesthood
   speaker: Vaughn J. Featherstone
   title: A Challenge to the Priesthood
   url: https://www.lds.org/general-conference/1972/04/a-challenge-to-the-priesthood?lang=eng
   year: 1972
-- article_id: '03020_000_1050'
-  item: '007'
+- item: 8
   key: 007-setting-the-example-in-the-home
   month: 4
-  session_id: thursday-morning
   session_title: Thursday Morning Session
   slug: setting-the-example-in-the-home
   speaker: H. Burke Peterson
   title: Setting the Example in the Home
   url: https://www.lds.org/general-conference/1972/04/setting-the-example-in-the-home?lang=eng
   year: 1972
-- article_id: '03020_000_1060'
-  item: 008
+- item: 9
   key: 008-keep-the-lines-of-communication-strong
   month: 4
-  session_id: thursday-morning
   session_title: Thursday Morning Session
   slug: keep-the-lines-of-communication-strong
   speaker: Spencer W. Kimball
   title: Keep the Lines of Communication Strong
   url: https://www.lds.org/general-conference/1972/04/keep-the-lines-of-communication-strong?lang=eng
   year: 1972
-- article_id: '03020_000_2010'
-  item: 009
+- item: 10
   key: 009-courts-of-love
   month: 4
-  session_id: thursday-afternoon
   session_title: Thursday Afternoon Session
   slug: courts-of-love
   speaker: Robert L. Simpson
   title: Courts of Love
   url: https://www.lds.org/general-conference/1972/04/courts-of-love?lang=eng
   year: 1972
-- article_id: '03020_000_2020'
-  item: '010'
+- item: 11
   key: 010-the-miracle-of-missionary-work
   month: 4
-  session_id: thursday-afternoon
   session_title: Thursday Afternoon Session
   slug: the-miracle-of-missionary-work
   speaker: Milton R. Hunter
   title: The Miracle of Missionary Work
   url: https://www.lds.org/general-conference/1972/04/the-miracle-of-missionary-work?lang=eng
   year: 1972
-- article_id: '03020_000_2030'
-  item: '011'
+- item: 12
   key: 011-the-last-dispensation
   month: 4
-  session_id: thursday-afternoon
   session_title: Thursday Afternoon Session
   slug: the-last-dispensation
   speaker: Alvin R. Dyer
   title: The Last Dispensation
   url: https://www.lds.org/general-conference/1972/04/the-last-dispensation?lang=eng
   year: 1972
-- article_id: '03020_000_2040'
-  item: '012'
+- item: 13
   key: 012-successful-parenthood-a-noteworthy-accomplishment
   month: 4
-  session_id: thursday-afternoon
   session_title: Thursday Afternoon Session
   slug: successful-parenthood-a-noteworthy-accomplishment
   speaker: ElRay L. Christiansen
   title: "Successful Parenthood\u2014A Noteworthy Accomplishment"
   url: https://www.lds.org/general-conference/1972/04/successful-parenthood-a-noteworthy-accomplishment?lang=eng
   year: 1972
-- article_id: '03020_000_2050'
-  item: '013'
+- item: 14
   key: 013-the-importance-of-a-personal-testimony
   month: 4
-  session_id: thursday-afternoon
   session_title: Thursday Afternoon Session
   slug: the-importance-of-a-personal-testimony
   speaker: James A. Cullimore
   title: The Importance of a Personal Testimony
   url: https://www.lds.org/general-conference/1972/04/the-importance-of-a-personal-testimony?lang=eng
   year: 1972
-- article_id: '03020_000_2060'
-  item: '014'
+- item: 15
   key: 014-civic-standards-for-the-faithful-saints
   month: 4
-  session_id: thursday-afternoon
   session_title: Thursday Afternoon Session
   slug: civic-standards-for-the-faithful-saints
   speaker: Ezra Taft Benson
   title: Civic Standards for the Faithful Saints
   url: https://www.lds.org/general-conference/1972/04/civic-standards-for-the-faithful-saints?lang=eng
   year: 1972
-- article_id: '03020_000_3010'
-  item: '015'
+- item: 16
   key: 015-judge-not-that-ye-be-not-judged
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: judge-not-that-ye-be-not-judged
   speaker: N. Eldon Tanner
-  title: "\u201CJudge Not, That Ye Be Not Judged\u201D"
+  title: '"Judge Not, That Ye Be Not Judged"'
   url: https://www.lds.org/general-conference/1972/04/judge-not-that-ye-be-not-judged?lang=eng
   year: 1972
-- article_id: '03020_000_3020'
-  item: '016'
+- item: 17
   key: 016-what-is-your-destination
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: what-is-your-destination
   speaker: Marvin J. Ashton
   title: What Is Your Destination?
   url: https://www.lds.org/general-conference/1972/04/what-is-your-destination?lang=eng
   year: 1972
-- article_id: '03020_000_3030'
-  item: '017'
+- item: 18
   key: 017-our-witness-to-the-world
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: our-witness-to-the-world
-  speaker: Hartman Rector, Jr.
+  speaker: Hartman Rector Jr.
   title: Our Witness to the World
   url: https://www.lds.org/general-conference/1972/04/our-witness-to-the-world?lang=eng
   year: 1972
-- article_id: '03020_000_3040'
-  item: 018
+- item: 19
   key: 018-the-importance-of-prayer
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-importance-of-prayer
   speaker: Franklin D. Richards
   title: The Importance of Prayer
   url: https://www.lds.org/general-conference/1972/04/the-importance-of-prayer?lang=eng
   year: 1972
-- article_id: '03020_000_3050'
-  item: 019
+- item: 20
   key: 019-finishers-wanted
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: finishers-wanted
   speaker: Thomas S. Monson
-  title: "\u201CFinishers Wanted\u201D"
+  title: '"Finishers Wanted"'
   url: https://www.lds.org/general-conference/1972/04/finishers-wanted?lang=eng
   year: 1972
-- article_id: '03020_000_4010'
-  item: '020'
+- item: 21
   key: 020-what-will-the-church-do-for-you-a-man
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: what-will-the-church-do-for-you-a-man
   speaker: Gordon B. Hinckley
   title: What Will the Church Do for You, a Man?
   url: https://www.lds.org/general-conference/1972/04/what-will-the-church-do-for-you-a-man?lang=eng
   year: 1972
-- article_id: '03020_000_4020'
-  item: '021'
+- item: 22
   key: 021-am-i-my-brothers-keeper
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: am-i-my-brothers-keeper
   speaker: Henry D. Taylor
-  title: "Am I My Brother\u2019s Keeper?"
+  title: Am I My Brother's Keeper?
   url: https://www.lds.org/general-conference/1972/04/am-i-my-brothers-keeper?lang=eng
   year: 1972
-- article_id: '03020_000_4030'
-  item: '022'
+- item: 23
   key: 022-missionary-training-begins-early
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: missionary-training-begins-early
   speaker: S. Dilworth Young
   title: Missionary Training Begins Early
   url: https://www.lds.org/general-conference/1972/04/missionary-training-begins-early?lang=eng
   year: 1972
-- article_id: '03020_000_4040'
-  item: '023'
+- item: 24
   key: 023-salvation-and-exaltation
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: salvation-and-exaltation
   speaker: Theodore M. Burton
   title: Salvation and Exaltation
   url: https://www.lds.org/general-conference/1972/04/salvation-and-exaltation?lang=eng
   year: 1972
-- article_id: '03020_000_4050'
-  item: '024'
+- item: 25
   key: 024-mans-eternal-horizon
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: mans-eternal-horizon
   speaker: Joseph Anderson
-  title: "Man\u2019s Eternal Horizon"
+  title: Man's Eternal Horizon
   url: https://www.lds.org/general-conference/1972/04/mans-eternal-horizon?lang=eng
   year: 1972
-- article_id: '03020_000_4060'
-  item: '025'
+- item: 26
   key: 025-be-a-missionary-always-everywhere-you-go
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: be-a-missionary-always-everywhere-you-go
   speaker: William H. Bennett
   title: "Be A Missionary\u2014Always\u2014Everywhere You Go!"
   url: https://www.lds.org/general-conference/1972/04/be-a-missionary-always-everywhere-you-go?lang=eng
   year: 1972
-- article_id: '03020_000_4070'
-  item: '026'
+- item: 27
   key: 026-a-teacher
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-teacher
   speaker: Howard W. Hunter
   title: A Teacher
   url: https://www.lds.org/general-conference/1972/04/a-teacher?lang=eng
   year: 1972
-- article_id: 03020_000_4080
-  item: '027'
+- item: 28
   key: 027-a-missionary-and-his-message
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-missionary-and-his-message
   speaker: Hugh B. Brown
   title: A Missionary and His Message
   url: https://www.lds.org/general-conference/1972/04/a-missionary-and-his-message?lang=eng
   year: 1972
-- article_id: '03020_000_5010'
-  item: 028
+- item: 29
   key: 028-eternal-keys-and-the-right-to-preside
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: eternal-keys-and-the-right-to-preside
   speaker: Joseph Fielding Smith
   title: Eternal Keys and the Right to Preside
   url: https://www.lds.org/general-conference/1972/04/eternal-keys-and-the-right-to-preside?lang=eng
   year: 1972
-- article_id: '03020_000_5020'
-  item: 029
+- item: 30
   key: 029-the-aaronic-priesthood-a-sure-foundation
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-aaronic-priesthood-a-sure-foundation
   speaker: Victor L. Brown
   title: "The Aaronic Priesthood\u2014A Sure Foundation"
   url: https://www.lds.org/general-conference/1972/04/the-aaronic-priesthood-a-sure-foundation?lang=eng
   year: 1972
-- article_id: '03020_000_5030'
-  item: '030'
+- item: 31
   key: 030-the-fullness-of-the-gospel-in-each-mans-language
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-fullness-of-the-gospel-in-each-mans-language
   speaker: J. Thomas Fyans
-  title: "The Fullness of the Gospel in Each Man\u2019s Language"
+  title: The Fullness of the Gospel in Each Man's Language
   url: https://www.lds.org/general-conference/1972/04/the-fullness-of-the-gospel-in-each-mans-language?lang=eng
   year: 1972
-- article_id: '03020_000_5040'
-  item: '031'
+- item: 32
   key: 031-know-thyself-control-thyself-give-thyself
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: know-thyself-control-thyself-give-thyself
   speaker: Paul H. Dunn
   title: Know Thyself, Control Thyself, Give Thyself
   url: https://www.lds.org/general-conference/1972/04/know-thyself-control-thyself-give-thyself?lang=eng
   year: 1972
-- article_id: '03020_000_5050'
-  item: '032'
+- item: 33
   key: 032-the-covenant-of-the-priesthood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-covenant-of-the-priesthood
   speaker: Marion G. Romney
   title: The Covenant of the Priesthood
   url: https://www.lds.org/general-conference/1972/04/the-covenant-of-the-priesthood?lang=eng
   year: 1972
-- article_id: '03020_000_5060'
-  item: '033'
+- item: 34
   key: 033-the-priesthood-a-royal-army
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-priesthood-a-royal-army
   speaker: N. Eldon Tanner
-  title: 'The Priesthood: A Royal Army'
+  title: The Priesthood:A Royal Army
   url: https://www.lds.org/general-conference/1972/04/the-priesthood-a-royal-army?lang=eng
   year: 1972
-- article_id: '03020_000_5070'
-  item: '034'
+- item: 35
   key: 034-the-strength-of-the-priesthood
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-strength-of-the-priesthood
   speaker: Harold B. Lee
   title: The Strength of the Priesthood
   url: https://www.lds.org/general-conference/1972/04/the-strength-of-the-priesthood?lang=eng
   year: 1972
-- article_id: '03020_000_6010'
-  item: '035'
+- item: 36
   key: 035-a-time-of-decision
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-time-of-decision
   speaker: Harold B. Lee
   title: A Time of Decision
   url: https://www.lds.org/general-conference/1972/04/a-time-of-decision?lang=eng
   year: 1972
-- article_id: '03020_000_6020'
-  item: '036'
+- item: 37
   key: 036-joy-through-christ
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: joy-through-christ
   speaker: Marion D. Hanks
   title: Joy through Christ
   url: https://www.lds.org/general-conference/1972/04/joy-through-christ?lang=eng
   year: 1972
-- article_id: '03020_000_6030'
-  item: '037'
+- item: 38
   key: 037-a-foundation-whereon-men-cannot-fall
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-foundation-whereon-men-cannot-fall
   speaker: David B. Haight
   title: A Foundation Whereon Men Cannot Fall
   url: https://www.lds.org/general-conference/1972/04/a-foundation-whereon-men-cannot-fall?lang=eng
   year: 1972
-- article_id: '03020_000_6040'
-  item: 038
+- item: 39
   key: 038-the-testimony-of-jesus
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-testimony-of-jesus
   speaker: Bruce R. McConkie
   title: The Testimony of Jesus
   url: https://www.lds.org/general-conference/1972/04/the-testimony-of-jesus?lang=eng
   year: 1972
-- article_id: '03020_000_6050'
-  item: 039
+- item: 40
   key: 039-why-stay-morally-clean
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: why-stay-morally-clean
   speaker: Boyd K. Packer
   title: Why Stay Morally Clean
   url: https://www.lds.org/general-conference/1972/04/why-stay-morally-clean?lang=eng
   year: 1972
-- article_id: '03020_000_7010'
-  item: '040'
+- item: 41
   key: 040-the-true-church
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-true-church
   speaker: LeGrand Richards
   title: The True Church
   url: https://www.lds.org/general-conference/1972/04/the-true-church?lang=eng
   year: 1972
-- article_id: '03020_000_7020'
-  item: '041'
+- item: 42
   key: 041-peace
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: peace
   speaker: Eldred G. Smith
   title: Peace
   url: https://www.lds.org/general-conference/1972/04/peace?lang=eng
   year: 1972
-- article_id: '03020_000_7030'
-  item: '042'
+- item: 43
   key: 042-priesthood-its-power-and-vitality
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: priesthood-its-power-and-vitality
   speaker: A. Theodore Tuttle
   title: "Priesthood\u2014Its Power and Vitality"
   url: https://www.lds.org/general-conference/1972/04/priesthood-its-power-and-vitality?lang=eng
   year: 1972
-- article_id: '03020_000_7040'
-  item: '043'
+- item: 44
   key: 043-knowing-god
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: knowing-god
   speaker: Bernard P. Brockbank
   title: Knowing God
   url: https://www.lds.org/general-conference/1972/04/knowing-god?lang=eng
   year: 1972
-- article_id: '03020_000_7050'
-  item: '044'
+- item: 45
   key: 044-medicine-for-the-soul
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: medicine-for-the-soul
   speaker: Sterling W. Sill
   title: Medicine for the Soul
   url: https://www.lds.org/general-conference/1972/04/medicine-for-the-soul?lang=eng
   year: 1972
-- article_id: '03020_000_7060'
-  item: '045'
+- item: 46
   key: 045-whence-cometh-our-peace
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: whence-cometh-our-peace
   speaker: John H. Vandenberg
   title: Whence Cometh Our Peace?
   url: https://www.lds.org/general-conference/1972/04/whence-cometh-our-peace?lang=eng
   year: 1972
-- article_id: '03020_000_7070'
-  item: '046'
+- item: 47
   key: 046-a-prophets-blessing
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: a-prophets-blessing
   speaker: Joseph Fielding Smith
-  title: "A Prophet\u2019s Blessing"
+  title: A Prophet's Blessing
   url: https://www.lds.org/general-conference/1972/04/a-prophets-blessing?lang=eng
   year: 1972
 month: 4

@@ -47,7 +47,7 @@ sins. But behold, I did cry unto him and I did find peace to my soul.
 
 "And now, ... I have told you this that ye may learn wisdom, ... that there is no
 other way or means whereby man can be saved, only in and through Christ. ..."
-([Alma 38:8-9](https://www.lds.org/scriptures/bofm/alma/38.8-9?lang=eng#7).)
+([Alma 38:8-9](/scriptures/bofm/alma/38.8-9?lang=eng#7).)
 
 From this scripture you can see that suffering does not bring forgiveness. It
 comes through faith in Christ and obedience to His teachings, so that His gift
@@ -63,7 +63,7 @@ from sin.
 "Therefore, whoso repenteth and cometh unto me as a little child, him will I
 receive, for of such is the kingdom of God. ... Therefore repent, and come unto
 me ... and be saved." ([3 Ne.
-9:21-22](https://www.lds.org/scriptures/bofm/3-ne/9.21-22?lang=eng#20).)
+9:21-22](/scriptures/bofm/3-ne/9.21-22?lang=eng#20).)
 
 As you ponder such teachings, your own forgiveness will seem more attainable.
 As you pray from the depth of humility, with total honesty, our Father will
@@ -96,7 +96,7 @@ declaration:
 Lord, _remember them no more._
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them." ([D&amp;C 58:42-43](https://www.lds.org/scriptures/dc-
+them and forsake them." ([D&amp;C 58:42-43](/scriptures/dc-
 testament/dc/58.42-43?lang=eng#41); italics added.)
 
 Can't you see that to continue to suffer for sins, when there has been proper
@@ -138,8 +138,8 @@ not let the sword of his justice fall upon us, and doom us to eternal despair?
 ...
 
 "Behold, he did not exercise his justice upon us, but in his great mercy hath
-brought us ... the salvation of our souls." ([Alma 26:4, 10-11, 17, 19-20](https
-://www.lds.org/scriptures/bofm/alma/26.4%2C10-11%2C17%2C19-20?lang=eng#3).)
+brought us ... the salvation of our souls." ([Alma 26:4, 10-11, 17,
+19-20](/scriptures/bofm/alma/26.4,10-11,17,19-20?lang=eng#3).)
 
 That is the secret, stated simply by a servant of God. When memory of prior
 mistakes encroaches upon your mind, turn your thoughts to Jesus Christ, to the
@@ -175,4 +175,6 @@ place you on the path to happiness.
 We love you; we need you. Please come back. Don't wait until all is in perfect
 order. We'll walk beside you. We love you. Please come back. In the name of
 Jesus Christ, amen.
+
+## References
 

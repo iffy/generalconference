@@ -23,7 +23,7 @@ name of the Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world." ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).)
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).)
 
 With faith we shall do as the Lord directed, for the Prophet Joseph Smith
 declared, "The truth of God will go forth boldly, nobly, and independent, till
@@ -78,12 +78,11 @@ additional help in being forgiven of our sins." (_Ensign,_ Oct. 1977, p. 5.)
 In the Doctrine and Covenants we read: "For I will forgive you of your sins
 with this commandment--that you remain steadfast in your minds in solemnity
 and the spirit of prayer, in _bearing testimony to all the world_ of those
-things which are communicated unto you." ([D&amp;C
-84:61](https://www.lds.org/scriptures/dc-testament/dc/84.61?lang=eng#60);
-italics added.) And also in the Doctrine and Covenants: "Nevertheless, ye are
-blessed, for the testimony which ye have borne is recorded in heaven for the
-angels to look upon; and they rejoice over you, and _your sins are forgiven
-you._" ([D&amp;C 62:3](https://www.lds.org/scriptures/dc-
+things which are communicated unto you." ([D&amp;C 84:61](/scriptures/dc-
+testament/dc/84.61?lang=eng#60); italics added.) And also in the Doctrine and
+Covenants: "Nevertheless, ye are blessed, for the testimony which ye have
+borne is recorded in heaven for the angels to look upon; and they rejoice over
+you, and _your sins are forgiven you._" ([D&amp;C 62:3](/scriptures/dc-
 testament/dc/62.3?lang=eng#2); italics added.)
 
 A former prophet of God, President George Albert Smith, said, "My
@@ -97,7 +96,7 @@ than to help others of our Heavenly Father's children find the truth.
 
 When we partake of the sacrament, we covenant that we are willing to take upon
 us the name of Jesus Christ and that we will always remember Him and keep His
-commandments. (See [D&amp;C 20:77](https://www.lds.org/scriptures/dc-
+commandments. (See [D&amp;C 20:77](/scriptures/dc-
 testament/dc/20.77?lang=eng#76).) Is there any better way that you and I can
 demonstrate to the Lord our love for Him than to share His gospel? We need not
 be sent to far-flung cities or set our feet on distant lands to be
@@ -122,8 +121,7 @@ suffered the pain of all men, that all men might repent and come unto him. ...
 "And if it so be that you should labor all your days in crying repentance unto
 this people, and bring, save it be one soul unto me, how great shall be your
 joy with him in the kingdom of my Father!" ([D&amp;C 18:10-11,
-13-15](https://www.lds.org/scriptures/dc-
-testament/dc/18.10-11%2C13-15?lang=eng#9).)
+13-15](/scriptures/dc-testament/dc/18.10-11,13-15?lang=eng#9).)
 
 Just think of it, brothers and sisters, Jesus Christ suffered the pain of all
 men that you and I might have the promise of eternal life. Surely He can
@@ -178,4 +176,6 @@ proceed to call upon the Lord to guide our efforts so that thousands of our
 Heavenly Father's children will receive the gospel of Jesus Christ. May we all
 look upon this not as a duty but rather as a great privilege. This I pray
 humbly in the name of Jesus Christ, amen.
+
+## References
 

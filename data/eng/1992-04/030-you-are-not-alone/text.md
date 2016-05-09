@@ -28,8 +28,8 @@ happy, and I loved my family, and I felt like being nice to everyone."
 
 When the prophet Enos listened to the words of the Lord, he began to feel a
 desire for the welfare of others. (See [Enos
-1:9](https://www.lds.org/scriptures/bofm/enos/1.9?lang=eng#8).) When we start
-to think of others, we feel less alone.
+1:9](/scriptures/bofm/enos/1.9?lang=eng#8).) When we start to think of others,
+we feel less alone.
 
 Another thing that helps is to build a support system. As a president needs
 counselors, we all need caring and interested family and friends. A father
@@ -39,8 +39,8 @@ there and who cares. In fact, you probably already know who they are because
 they are the ones you have always been able to count on. That won't change."
 (Joseph Walker, "ValueSpeak," _Chicago Tribune, _3 June 1991.) We need people
 who care. "Thy friends do stand by thee, and they shall hail thee again with
-warm hearts and friendly hands." ([D&amp;C
-121:9](https://www.lds.org/scriptures/dc-testament/dc/121.9?lang=eng#8).)
+warm hearts and friendly hands." ([D&amp;C 121:9](/scriptures/dc-
+testament/dc/121.9?lang=eng#8).)
 
 Growing up does not take place without a work effort. Not long ago, my
 youngest daughter came home and said her bishop had asked her to be a Sunday
@@ -77,4 +77,6 @@ do. They need our support, and we need theirs. Probably the hardest thing
 about growing up is that you have to keep doing it. But we are not alone. I
 bear testimony and express gratitude for this knowledge, in the name of Jesus
 Christ, amen.
+
+## References
 

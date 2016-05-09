@@ -1,4 +1,4 @@
-# Genealogy: A Personal Responsibility
+# Genealogy:A Personal Responsibility
 
 Brothers and sisters: I desire this afternoon to bear my witness to you of the
 divine calling that has come to these brethren who lead us. For almost forty
@@ -67,7 +67,7 @@ Testament times:
 
 "And saviours shall come up on mount Zion to judge the mount of Esau; and the
 kingdom shall be the Lord's." ([Obad.
-1:21](https://www.lds.org/scriptures/ot/obad/1.21?lang=eng#20).)
+1:21](/scriptures/ot/obad/1.21?lang=eng#20).)
 
 It was prophesied by Paul in New Testament times, referring to people who had
 lived on the earth in times of old:
@@ -76,14 +76,13 @@ lived on the earth in times of old:
 promise:
 
 "God having provided some better thing for us, that they without us should not
-be made perfect." ([Heb.
-11:39-40](https://www.lds.org/scriptures/nt/heb/11.39-40?lang=eng#38).)
+be made perfect." ([Heb. 11:39-40](/scriptures/nt/heb/11.39-40?lang=eng#38).)
 
 It has also been prophesied of us who live today:
 
 "Therefore, blessed are ye if ye continue in my goodness, a light unto the
 Gentiles, and through this priesthood, a savior unto my people Israel. The
-Lord hath said it. Amen." ([D&amp;C 86:11](https://www.lds.org/scriptures/dc-
+Lord hath said it. Amen." ([D&amp;C 86:11](/scriptures/dc-
 testament/dc/86.11?lang=eng#10).)
 
 So the Lord himself has placed his seal of approval upon this work.
@@ -91,8 +90,8 @@ So the Lord himself has placed his seal of approval upon this work.
 A logical question then follows: For _whom _am I to be a savior? In section
 127 of the Doctrine and Covenants, verse 6, the Prophet Joseph Smith used
 these words: "for your dead." In the next section, in verse 15, he continued
-speaking of our ancestors: [[D&amp;C 127:6, 15](https://www.lds.org/scriptures
-/dc-testament/dc/127.6%2C15?lang=eng#5)]
+speaking of our ancestors: [[D&amp;C 127:6, 15](/scriptures/dc-
+testament/dc/127.6,15?lang=eng#5)]
 
 "For their salvation is necessary and essential to our salvation, as Paul says
 concerning the fathers [speaking collectively]--that they without us cannot be
@@ -103,8 +102,8 @@ Joseph Smith explained the coming of Elijah as follows:
 
 "... It is sufficient to know, in this case, that the earth will be smitten with
 a curse unless there is a welding link of some kind or other between the
-fathers and the children. ..." ([D&amp;C 128:18](https://www.lds.org/scriptures
-/dc-testament/dc/128.18?lang=eng#17).)
+fathers and the children. ..." ([D&amp;C 128:18](/scriptures/dc-
+testament/dc/128.18?lang=eng#17).)
 
 Our dead, then, are clearly our own progenitors or direct ancestors, as Joseph
 Smith explained:
@@ -134,7 +133,7 @@ you this day:
 "And a curse, if ye will not obey the commandments of the Lord your God, but
 turn aside out of the way which I command you this day, to go after other
 gods, which ye have not known." ([Deut.
-11:26-28](https://www.lds.org/scriptures/ot/deut/11.26-28?lang=eng#25).)
+11:26-28](/scriptures/ot/deut/11.26-28?lang=eng#25).)
 
 So this command of God, given through his prophets today, is as binding upon
 us as were the commands of God binding upon the children of Israel.
@@ -159,7 +158,7 @@ for I give unto thee a promise that this right shall continue in thee, and in
 thy seed after thee (that is to say, the literal seed, or the seed of the
 body) shall all the families of the earth be blessed, even with the blessings
 of the Gospel, which are the blessings of salvation, even of life eternal."
-([Abr. 2:10-11](https://www.lds.org/scriptures/pgp/abr/2.10-11?lang=eng#9).)
+([Abr. 2:10-11](/scriptures/pgp/abr/2.10-11?lang=eng#9).)
 
 Brigham Young taught that our genealogical responsibility is to our own family
 first. He said:
@@ -223,4 +222,6 @@ eternal family of God the Eternal Father.
 
 I bear my witness of the divinity of this priesthood goal, in the name of
 Jesus Christ. Amen.
+
+## References
 

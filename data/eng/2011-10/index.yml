@@ -1,394 +1,322 @@
 items:
-- article_id: PD50029123_000_1010
-  item: '002'
-  key: 002-the-power-of-scripture
+- item: 1
+  key: 000-the-power-of-scripture
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-power-of-scripture
   speaker: Richard G. Scott
   title: The Power of Scripture
   url: https://www.lds.org/general-conference/2011/10/the-power-of-scripture?lang=eng
   year: 2011
-- article_id: PD50029123_000_1020
-  item: '004'
-  key: 004-personal-revelation-and-testimony
+- item: 2
+  key: 001-personal-revelation-and-testimony
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: personal-revelation-and-testimony
   speaker: Barbara Thompson
   title: Personal Revelation and Testimony
   url: https://www.lds.org/general-conference/2011/10/personal-revelation-and-testimony?lang=eng
   year: 2011
-- article_id: PD50029123_000_1030
-  item: '005'
-  key: 005-the-time-shall-come
+- item: 3
+  key: 002-the-time-shall-come
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-time-shall-come
   speaker: L. Whitney Clayton
   title: The Time Shall Come
   url: https://www.lds.org/general-conference/2011/10/the-time-shall-come?lang=eng
   year: 2011
-- article_id: PD50029123_000_1040
-  item: '007'
-  key: 007-as-we-meet-again
+- item: 4
+  key: 003-as-we-meet-again
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: as-we-meet-again
   speaker: Thomas S. Monson
   title: As We Meet Again
   url: https://www.lds.org/general-conference/2011/10/as-we-meet-again?lang=eng
   year: 2011
-- article_id: PD50029123_000_1050
-  item: 008
-  key: 008-doing-the-right-thing-at-the-right-time-without-delay
+- item: 5
+  key: 004-doing-the-right-thing-at-the-right-time-without-delay
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: doing-the-right-thing-at-the-right-time-without-delay
   speaker: "Jos\xE9 L. Alonso"
   title: Doing the Right Thing at the Right Time, without Delay
   url: https://www.lds.org/general-conference/2011/10/doing-the-right-thing-at-the-right-time-without-delay?lang=eng
   year: 2011
-- article_id: PD50029123_000_1060
-  item: 009
-  key: 009-counsel-to-youth
+- item: 6
+  key: 005-counsel-to-youth
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: counsel-to-youth
   speaker: Boyd K. Packer
   title: Counsel to Youth
   url: https://www.lds.org/general-conference/2011/10/counsel-to-youth?lang=eng
   year: 2011
-- article_id: PD50029123_000_1070
-  item: '011'
-  key: 011-you-matter-to-him
+- item: 7
+  key: 006-you-matter-to-him
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: you-matter-to-him
   speaker: Dieter F. Uchtdorf
   title: You Matter to Him
   url: https://www.lds.org/general-conference/2011/10/you-matter-to-him?lang=eng
   year: 2011
-- article_id: PD50029123_000_2010
-  item: '015'
-  key: 015-the-sustaining-of-church-officers
+- item: 8
+  key: 007-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Henry B. Eyring
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2011/10/the-sustaining-of-church-officers?lang=eng
   year: 2011
-- article_id: PD50029123_000_2020
-  item: '016'
-  key: 016-the-hearts-of-the-children-shall-turn
+- item: 9
+  key: 008-the-hearts-of-the-children-shall-turn
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-hearts-of-the-children-shall-turn
   speaker: David A. Bednar
   title: The Hearts of the Children Shall Turn
   url: https://www.lds.org/general-conference/2011/10/the-hearts-of-the-children-shall-turn?lang=eng
   year: 2011
-- article_id: PD50029123_000_2030
-  item: '017'
-  key: 017-children
+- item: 10
+  key: 009-children
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: children
   speaker: Neil L. Andersen
   title: Children
   url: https://www.lds.org/general-conference/2011/10/children?lang=eng
   year: 2011
-- article_id: PD50029123_000_2040
-  item: 018
-  key: 018-a-time-to-prepare
+- item: 11
+  key: 010-a-time-to-prepare
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-time-to-prepare
   speaker: Ian S. Ardern
   title: A Time to Prepare
   url: https://www.lds.org/general-conference/2011/10/a-time-to-prepare?lang=eng
   year: 2011
-- article_id: PD50029123_000_2050
-  item: '020'
-  key: 020-it-is-better-to-look-up
+- item: 12
+  key: 011-it-is-better-to-look-up
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: it-is-better-to-look-up
   speaker: Carl B. Cook
   title: It Is Better to Look Up
   url: https://www.lds.org/general-conference/2011/10/it-is-better-to-look-up?lang=eng
   year: 2011
-- article_id: PD50029123_000_2060
-  item: '021'
-  key: 021-redemption
+- item: 13
+  key: 012-redemption
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: redemption
   speaker: LeGrand R. Curtis Jr.
   title: Redemption
   url: https://www.lds.org/general-conference/2011/10/redemption?lang=eng
   year: 2011
-- article_id: PD50029123_000_2070
-  item: '022'
-  key: 022-the-divine-gift-of-repentance
+- item: 14
+  key: 013-the-divine-gift-of-repentance
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-divine-gift-of-repentance
   speaker: D. Todd Christofferson
   title: The Divine Gift of Repentance
   url: https://www.lds.org/general-conference/2011/10/the-divine-gift-of-repentance?lang=eng
   year: 2011
-- article_id: PD50029123_000_2080
-  item: '023'
-  key: 023-perfect-love-casteth-out-fear
+- item: 15
+  key: 014-perfect-love-casteth-out-fear
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: perfect-love-casteth-out-fear
   speaker: L. Tom Perry
   title: Perfect Love Casteth Out Fear
   url: https://www.lds.org/general-conference/2011/10/perfect-love-casteth-out-fear?lang=eng
   year: 2011
-- article_id: PD50029123_000_3010
-  item: '027'
-  key: 027-we-are-all-enlisted
+- item: 16
+  key: 015-we-are-all-enlisted
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: we-are-all-enlisted
   speaker: Jeffrey R. Holland
   title: We Are All Enlisted
   url: https://www.lds.org/general-conference/2011/10/we-are-all-enlisted?lang=eng
   year: 2011
-- article_id: PD50029123_000_3020
-  item: 028
-  key: 028-the-power-of-the-aaronic-priesthood
+- item: 17
+  key: 016-the-power-of-the-aaronic-priesthood
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-power-of-the-aaronic-priesthood
   speaker: Keith B. McMullin
   title: The Power of the Aaronic Priesthood
   url: https://www.lds.org/general-conference/2011/10/the-power-of-the-aaronic-priesthood?lang=eng
   year: 2011
-- article_id: PD50029123_000_3030
-  item: 029
-  key: 029-the-opportunity-of-a-lifetime
+- item: 18
+  key: 017-the-opportunity-of-a-lifetime
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-opportunity-of-a-lifetime
   speaker: W. Christopher Waddell
   title: The Opportunity of a Lifetime
   url: https://www.lds.org/general-conference/2011/10/the-opportunity-of-a-lifetime?lang=eng
   year: 2011
-- article_id: PD50029123_000_3040
-  item: '031'
-  key: 031-providing-in-the-lords-way
+- item: 19
+  key: 018-providing-in-the-lords-way
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: providing-in-the-lords-way
   speaker: Dieter F. Uchtdorf
-  title: "Providing in the Lord\u2019s Way"
+  title: Providing in the Lord's Way
   url: https://www.lds.org/general-conference/2011/10/providing-in-the-lords-way?lang=eng
   year: 2011
-- article_id: PD50029123_000_3050
-  item: '032'
-  key: 032-preparation-in-the-priesthood-i-need-your-help
+- item: 20
+  key: 019-preparation-in-the-priesthood-i-need-your-help
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: preparation-in-the-priesthood-i-need-your-help
   speaker: Henry B. Eyring
-  title: "Preparation in the Priesthood: \u201CI Need Your Help\u201D"
+  title: 'Preparation in the Priesthood: "I Need Your Help"'
   url: https://www.lds.org/general-conference/2011/10/preparation-in-the-priesthood-i-need-your-help?lang=eng
   year: 2011
-- article_id: PD50029123_000_3060
-  item: '033'
-  key: 033-dare-to-stand-alone
+- item: 21
+  key: 020-dare-to-stand-alone
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: dare-to-stand-alone
   speaker: Thomas S. Monson
   title: Dare to Stand Alone
   url: https://www.lds.org/general-conference/2011/10/dare-to-stand-alone?lang=eng
   year: 2011
-- article_id: PD50029123_000_4010
-  item: 038
-  key: 038-a-witness
+- item: 22
+  key: 021-a-witness
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-witness
   speaker: Henry B. Eyring
   title: A Witness
   url: https://www.lds.org/general-conference/2011/10/a-witness?lang=eng
   year: 2011
-- article_id: PD50029123_000_4020
-  item: 039
-  key: 039-waiting-upon-the-lord-thy-will-be-done
+- item: 23
+  key: 022-waiting-upon-the-lord-thy-will-be-done
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: waiting-upon-the-lord-thy-will-be-done
   speaker: Robert D. Hales
   title: 'Waiting upon the Lord: Thy Will Be Done'
   url: https://www.lds.org/general-conference/2011/10/waiting-upon-the-lord-thy-will-be-done?lang=eng
   year: 2011
-- article_id: PD50029123_000_4030
-  item: '040'
-  key: 040-the-book-of-mormon-a-book-from-god
+- item: 24
+  key: 023-the-book-of-mormon-a-book-from-god
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-book-of-mormon-a-book-from-god
   speaker: Tad R. Callister
   title: "The Book of Mormon\u2014a Book from God"
   url: https://www.lds.org/general-conference/2011/10/the-book-of-mormon-a-book-from-god?lang=eng
   year: 2011
-- article_id: PD50029123_000_4040
-  item: '042'
-  key: 042-love-her-mother
+- item: 25
+  key: 024-love-her-mother
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: love-her-mother
   speaker: Elaine S. Dalton
   title: Love Her Mother
   url: https://www.lds.org/general-conference/2011/10/love-her-mother?lang=eng
   year: 2011
-- article_id: PD50029123_000_4050
-  item: '043'
-  key: 043-the-importance-of-a-name
+- item: 26
+  key: 025-the-importance-of-a-name
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-importance-of-a-name
   speaker: M. Russell Ballard
   title: The Importance of a Name
   url: https://www.lds.org/general-conference/2011/10/the-importance-of-a-name?lang=eng
   year: 2011
-- article_id: PD50029123_000_4060
-  item: '045'
-  key: 045-stand-in-holy-places
+- item: 27
+  key: 026-stand-in-holy-places
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: stand-in-holy-places
   speaker: Thomas S. Monson
   title: Stand in Holy Places
   url: https://www.lds.org/general-conference/2011/10/stand-in-holy-places?lang=eng
   year: 2011
-- article_id: PD50029123_000_5010
-  item: 049
-  key: 049-covenants
+- item: 28
+  key: 027-covenants
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: covenants
   speaker: Russell M. Nelson
   title: Covenants
   url: https://www.lds.org/general-conference/2011/10/covenants?lang=eng
   year: 2011
-- article_id: PD50029123_000_5020
-  item: '050'
-  key: 050-teachings-of-jesus
+- item: 29
+  key: 028-teachings-of-jesus
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: teachings-of-jesus
   speaker: Dallin H. Oaks
   title: Teachings of Jesus
   url: https://www.lds.org/general-conference/2011/10/teachings-of-jesus?lang=eng
   year: 2011
-- article_id: PD50029123_000_5030
-  item: '051'
-  key: 051-teaching-after-the-manner-of-the-spirit
+- item: 30
+  key: 029-teaching-after-the-manner-of-the-spirit
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: teaching-after-the-manner-of-the-spirit
   speaker: Matthew O. Richardson
   title: Teaching after the Manner of the Spirit
   url: https://www.lds.org/general-conference/2011/10/teaching-after-the-manner-of-the-spirit?lang=eng
   year: 2011
-- article_id: PD50029123_000_5040
-  item: '053'
-  key: 053-missionaries-are-a-treasure-of-the-church
+- item: 31
+  key: 030-missionaries-are-a-treasure-of-the-church
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: missionaries-are-a-treasure-of-the-church
   speaker: Kazuhiko Yamashita
   title: Missionaries Are a Treasure of the Church
   url: https://www.lds.org/general-conference/2011/10/missionaries-are-a-treasure-of-the-church?lang=eng
   year: 2011
-- article_id: PD50029123_000_5050
-  item: '054'
-  key: 054-choose-eternal-life
+- item: 32
+  key: 031-choose-eternal-life
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: choose-eternal-life
   speaker: Randall K. Bennett
   title: Choose Eternal Life
   url: https://www.lds.org/general-conference/2011/10/choose-eternal-life?lang=eng
   year: 2011
-- article_id: PD50029123_000_5060
-  item: '055'
-  key: 055-the-privilege-of-prayer
+- item: 33
+  key: 032-the-privilege-of-prayer
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-privilege-of-prayer
   speaker: J. Devn Cornish
   title: The Privilege of Prayer
   url: https://www.lds.org/general-conference/2011/10/the-privilege-of-prayer?lang=eng
   year: 2011
-- article_id: PD50029123_000_5070
-  item: '056'
-  key: 056-the-songs-they-could-not-sing
+- item: 34
+  key: 033-the-songs-they-could-not-sing
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-songs-they-could-not-sing
   speaker: Quentin L. Cook
   title: The Songs They Could Not Sing
   url: https://www.lds.org/general-conference/2011/10/the-songs-they-could-not-sing?lang=eng
   year: 2011
-- article_id: PD50029123_000_5080
-  item: '057'
-  key: 057-until-we-meet-again
+- item: 35
+  key: 034-until-we-meet-again
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: until-we-meet-again
   speaker: Thomas S. Monson
   title: Until We Meet Again
   url: https://www.lds.org/general-conference/2011/10/until-we-meet-again?lang=eng
   year: 2011
-- article_id: PD50029123_000_0010
-  item: '060'
-  key: 060-what-i-hope-my-granddaughters-and-grandsons-will-understand-about-relief-society
+- item: 36
+  key: 035-what-i-hope-my-granddaughters-and-grandsons-will-understand-about-relief-society
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: what-i-hope-my-granddaughters-and-grandsons-will-understand-about-relief-society
   speaker: Julie B. Beck
@@ -396,33 +324,27 @@ items:
     Society
   url: https://www.lds.org/general-conference/2011/10/what-i-hope-my-granddaughters-and-grandsons-will-understand-about-relief-society?lang=eng
   year: 2011
-- article_id: PD50029123_000_0020
-  item: '062'
-  key: 062-charity-never-faileth
+- item: 37
+  key: 036-charity-never-faileth
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: charity-never-faileth
   speaker: Silvia H. Allred
   title: Charity Never Faileth
   url: https://www.lds.org/general-conference/2011/10/charity-never-faileth?lang=eng
   year: 2011
-- article_id: PD50029123_000_0030
-  item: '063'
-  key: 063-cleave-unto-the-covenants
+- item: 38
+  key: 037-cleave-unto-the-covenants
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: cleave-unto-the-covenants
   speaker: Barbara Thompson
   title: Cleave unto the Covenants
   url: https://www.lds.org/general-conference/2011/10/cleave-unto-the-covenants?lang=eng
   year: 2011
-- article_id: PD50029123_000_0040
-  item: '065'
-  key: 065-forget-me-not
+- item: 39
+  key: 038-forget-me-not
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: forget-me-not
   speaker: Dieter F. Uchtdorf

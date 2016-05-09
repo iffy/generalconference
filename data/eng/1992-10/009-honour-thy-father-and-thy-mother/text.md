@@ -8,8 +8,8 @@ I pray that the Spirit of the Lord may be present this afternoon so that as I
 express myself in a language which is not my own, you may understand in your
 mind and in your heart what I will try to say, that his promise that we both
 may be edified and rejoice together may be fulfilled. (See [D&amp;C
-50:22](https://www.lds.org/scriptures/dc-testament/dc/50.22?lang=eng#21).) I
-ask you to have a prayer in your heart that this may be possible.
+50:22](/scriptures/dc-testament/dc/50.22?lang=eng#21).) I ask you to have a
+prayer in your heart that this may be possible.
 
 First of all I would like to express to my Heavenly Father gratitude for his
 love, his mercy, his patience, and, above all, for his confidence in me. I
@@ -37,7 +37,7 @@ The Lord gave to Israel, through Moses, the Ten Commandments on Mount Sinai. I
 wish to call to your attention today the fifth of these commandments, which
 says, "Honour thy father and thy mother: that thy days may be long upon the
 land which the Lord thy God giveth thee" ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11)).
+20:12](/scriptures/ot/ex/20.12?lang=eng#11)).
 
 There are two things that our parents did with all of their children for which
 we now honor them. First, they taught us correct principles and helped us walk
@@ -54,7 +54,7 @@ with gladness because of you, that I might not be brought down with grief and
 sorrow to the grave, arise from the dust, my sons, and be men, and be
 determined in one mind and in one heart, united in all things, that ye may not
 come down into captivity." ([2 Ne.
-1:21](https://www.lds.org/scriptures/bofm/2-ne/1.21?lang=eng#20).)
+1:21](/scriptures/bofm/2-ne/1.21?lang=eng#20).)
 
 When I was about to go on a mission, I worried about the same things that
 today worry the young men and young women who will also serve missions. I
@@ -98,13 +98,12 @@ day by day and to try to do those things that bring honor to them. I testify
 with all my heart that God lives, that his son Jesus Christ honored him by
 keeping his commandments and obeying his will. Our Savior taught us this when
 he said, "For I came down from heaven, not to do mine own will, but the will
-of him that sent me." ([John
-6:38](https://www.lds.org/scriptures/nt/john/6.38?lang=eng#37).)
+of him that sent me." ([John 6:38](/scriptures/nt/john/6.38?lang=eng#37).)
 
 I testify that the Savior is our example and model of life. We must strive
 every day to follow his teachings and do the things that he did, for "the Son
 can do nothing of himself, but what he seeth the Father do" ([John
-5:19](https://www.lds.org/scriptures/nt/john/5.19?lang=eng#18)).
+5:19](/scriptures/nt/john/5.19?lang=eng#18)).
 
 I testify that Joseph Smith was a prophet of God and that through him the
 fulness of the gospel has been restored to bless the families of the earth. I
@@ -112,4 +111,6 @@ also testify that Ezra Taft Benson is the prophet of God for our day and that
 The Church of Jesus Christ of Latter-day Saints is the only true and living
 church upon the face of the earth. I testify of these things in the name of
 Jesus Christ, amen.
+
+## References
 

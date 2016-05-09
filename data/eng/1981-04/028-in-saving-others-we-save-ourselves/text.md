@@ -117,27 +117,27 @@ expect us to try to bring others who are lost with us as well?
 
 The answer is clear. To what else did He refer when He said, "All things
 whatsoever ye would that men should do to you, do ye even so to them?" ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11).) Surely He had
-in mind our obligations to others when He spoke of lost sheep and living
-water. If the parable of the good Samaritan has application anywhere, it must
-apply to one who, having the gospel, encounters another in need without it.
-But lest there be any doubt, the Lord has directed plain language to the
-Latter-day Saints. His words in the Doctrine and Covenants are pointed: "The
-gospel is unto all who have not received it. But, verily I say unto all those
-to whom the kingdom _has_ been given--from _you_ it _must_ be preached unto
-_them._" ([D&amp;C 84:75-76](https://www.lds.org/scriptures/dc-
-testament/dc/84.75-76?lang=eng#74); italics added.)
+7:12](/scriptures/nt/matt/7.12?lang=eng#11).) Surely He had in mind our
+obligations to others when He spoke of lost sheep and living water. If the
+parable of the good Samaritan has application anywhere, it must apply to one
+who, having the gospel, encounters another in need without it. But lest there
+be any doubt, the Lord has directed plain language to the Latter-day Saints.
+His words in the Doctrine and Covenants are pointed: "The gospel is unto all
+who have not received it. But, verily I say unto all those to whom the kingdom
+_has_ been given--from _you_ it _must_ be preached unto _them._" ([D&amp;C
+84:75-76](/scriptures/dc-testament/dc/84.75-76?lang=eng#74); italics added.)
 
 What directions has He given to help us arrive at our destination? Once again,
 He has clearly spoken through a modern prophet: "And now, behold, I say unto
 you, that the thing which will be of the _most_ worth unto you will be to
 declare repentance unto this people, that _you_ may bring souls unto me, that
 _you_ may rest with _them_ in the kingdom of my Father." ([D&amp;C
-15:6](https://www.lds.org/scriptures/dc-testament/dc/15.6?lang=eng#5); italics
-added.) For, as he spoke to the disciples of old, "As I have loved you, ... love
-one another." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).)
+15:6](/scriptures/dc-testament/dc/15.6?lang=eng#5); italics added.) For, as he
+spoke to the disciples of old, "As I have loved you, ... love one another."
+([John 13:34](/scriptures/nt/john/13.34?lang=eng#33).)
 
 My brothers and sisters, may we better understand the duties associated with
 our discipleship, I pray humbly in the name of the Lord Jesus Christ, amen.
+
+## References
 

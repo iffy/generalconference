@@ -229,8 +229,7 @@ vision; and who am I that I can withstand God, or why does the world think to
 make me deny what I have actually seen? For I had seen a vision; I knew it,
 and I knew that God knew it, and I could not deny it, neither dared I do it;
 at least I knew that by so doing I would offend God, and come under
-condemnation." ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+condemnation." ([JS--H 1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 Joseph Smith also gave us another declaration incorporating integrity. In
 writing the Articles of Faith of The Church of Jesus Christ of Latter-day
@@ -241,7 +240,7 @@ good to all men; indeed, we may say that we follow the admonition of Paul--We
 believe all things, we hope all things, we have endured many things, and hope
 to be able to endure all things. If there is anything virtuous, lovely, or of
 good report or praiseworthy, we seek after these things." [[A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)]
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)]
 
 Let each and every one of us incorporate this admonition into our everyday
 living.
@@ -273,7 +272,7 @@ two were murdered in Carthage Jail in 1844. I quote:
 "And again, verily I say unto you, blessed is my servant Hyrum Smith; for I,
 the Lord, love him because of the integrity of his heart, and because he
 loveth that which is right before me, saith the Lord." ([D&amp;C
-124:15](https://www.lds.org/scriptures/dc-testament/dc/124.15?lang=eng#14).)
+124:15](/scriptures/dc-testament/dc/124.15?lang=eng#14).)
 
 This applies equally to the multitudes of righteous people throughout the
 world who deal with their fellowmen with integrity.
@@ -299,4 +298,6 @@ I would this day, with all my soul, pray that the hearts of men everywhere
 will be touched by that divine spark which will cause them to understand,
 accept, and live the teachings of Jesus Christ, which will prepare them for
 eternal life with God, our Heavenly Father. In the name of Jesus Christ, amen.
+
+## References
 

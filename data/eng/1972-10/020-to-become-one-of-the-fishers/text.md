@@ -68,3 +68,5 @@ of him as the Savior of the world, and of his church as established in these
 days, now headed by President Harold B. Lee, in the name of Jesus Christ.
 Amen.
 
+## References
+

@@ -29,11 +29,10 @@ Moroni who revealed to him the existence of the gold plates which were
 translated into the Book of Mormon. Later came John the Baptist, who restored
 the Aaronic Priesthood; and Peter, James, and John, who restored the
 Melchizedek Priesthood; also the beings mentioned in what is usually called
-the Kirtland Temple vision. (See [D&amp;C 13](https://www.lds.org/scriptures
-/dc-testament/dc/13.title?lang=eng); [D&amp;C
-27](https://www.lds.org/scriptures/dc-testament/dc/27.title?lang=eng);
-[D&amp;C 110](https://www.lds.org/scriptures/dc-
-testament/dc/110.title?lang=eng).)
+the Kirtland Temple vision. (See [D&amp;C 13](/scriptures/dc-
+testament/dc/13?lang=eng); [D&amp;C 27](/scriptures/dc-
+testament/dc/27?lang=eng); [D&amp;C 110](/scriptures/dc-
+testament/dc/110?lang=eng).)
 
 As we read the Doctrine and Covenants, we become aware that many of the
 revelations recorded there were received by the Prophet through the use of the
@@ -41,26 +40,25 @@ Urim and Thummim. This was the instrument employed by the Prophet in
 translating the Book of Mormon.
 
 The Prophet received divine intelligence by open visions. Such is section 76.
-[[D&amp;C 76](https://www.lds.org/scriptures/dc-
-testament/dc/76.title?lang=eng)] He also received revelation through the
-inspiration of God operating upon his mind. Indeed, the larger number of the
-revelations in the Doctrine and Covenants were received in this manner.
+[[D&amp;C 76](/scriptures/dc-testament/dc/76?lang=eng)] He also received
+revelation through the inspiration of God operating upon his mind. Indeed, the
+larger number of the revelations in the Doctrine and Covenants were received
+in this manner.
 
 As we study the scriptures, we learn of the other different ways in which the
 Lord communicates with His children here upon the earth. Stephen, who was
 stoned to death, became filled with the Holy Ghost. He looked up steadfastly
 into heaven and beheld "Jesus standing on the right hand of God." ([Acts
-7:55](https://www.lds.org/scriptures/nt/acts/7.55?lang=eng#54).) Saul, who was
-present at the stoning, was active in persecuting Stephen and other followers
-of Jesus. Later, while on the road to Damascus, he beheld "a light from
-heaven.
+7:55](/scriptures/nt/acts/7.55?lang=eng#54).) Saul, who was present at the
+stoning, was active in persecuting Stephen and other followers of Jesus.
+Later, while on the road to Damascus, he beheld "a light from heaven.
 
 "... he fell to the earth, and heard a voice saying unto him, Saul, Saul, why
 persecutest thou me?
 
 "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou
 persecutest: it is hard for thee to kick against the pricks." ([Acts
-9:3-5](https://www.lds.org/scriptures/nt/acts/9.3-5?lang=eng#2).)
+9:3-5](/scriptures/nt/acts/9.3-5?lang=eng#2).)
 
 Saul was converted, and changed his ways, and became known as Paul. Later, he
 was chosen as an apostle and was a faithful follower and disciple of the
@@ -74,7 +72,7 @@ Pharaoh had dreamed that he was near a river and that seven head of cattle
 came up out of the river and fed in the meadow. They were fat, beautiful
 animals and well fed. Then seven more head came up. They were lean, scrawny,
 and undernourished; and, falling upon the fat cattle, they devoured them. (See
-[Gen. 41:1-4](https://www.lds.org/scriptures/ot/gen/41.1-4?lang=eng#0).)
+[Gen. 41:1-4](/scriptures/ot/gen/41.1-4?lang=eng#0).)
 
 Pharaoh learned that there was a young man who had been unjustly cast into
 prison. He had been able to interpret the dreams of Pharaoh's butler and
@@ -88,8 +86,8 @@ the time of famine that was to follow. Pharaoh was deeply impressed and,
 having complete confidence in Joseph, appointed him to be in charge of the
 storing project. Joseph was granted unlimited powers and authority and was
 second only to Pharaoh in all of Egypt. (See [Gen.
-41:9-40](https://www.lds.org/scriptures/ot/gen/41.9-40?lang=eng#8); [Gen.
-37:28](https://www.lds.org/scriptures/ot/gen/37.28?lang=eng#27).)
+41:9-40](/scriptures/ot/gen/41.9-40?lang=eng#8); [Gen.
+37:28](/scriptures/ot/gen/37.28?lang=eng#27).)
 
 One of the best examples of the voice of the Lord coming into one's mind is
 Enos. Enos was taught well by his father, but being young and immature, he was
@@ -104,7 +102,7 @@ continued his prayers into the night. Finally, a voice came unto him saying,
 "Enos, thy sins are forgiven thee." Also, having concern for his brethren, he
 prayed for them. While he was thus struggling in the spirit, the voice of the
 Lord came into his mind, giving him certain assurances. (See [Enos
-1:1-17](https://www.lds.org/scriptures/bofm/enos/1.1-17?lang=eng#0).)
+1:1-17](/scriptures/bofm/enos/1.1-17?lang=eng#0).)
 
 While we know that designated leaders of the Church are sustained as prophets,
 seers, and revelators, and receive revelation in connection with their
@@ -133,4 +131,6 @@ Kimball. I testify that he does receive revelation from the Lord for the
 guidance of this Church. May we hearken unto his counsel and have the wisdom
 and good judgment to follow that counsel, for which I pray in the name of the
 Lord Jesus Christ. Amen.
+
+## References
 

@@ -12,8 +12,7 @@ of them. During that winter the Lord declared in a revelation to President
 Young, "My people must be _tried_ in all things, that they may be prepared to
 receive the glory that I have for them, even the glory of Zion; and he that
 will not bear chastisement is not worthy of my kingdom." ([D&amp;C
-136:31](https://www.lds.org/scriptures/dc-testament/dc/136.31?lang=eng#30);
-italics added.)
+136:31](/scriptures/dc-testament/dc/136.31?lang=eng#30); italics added.)
 
 Few miracles in our history exceed that of establishing our settlements in a
 desolate land no one else wanted and then making the desert blossom as a rose.
@@ -77,4 +76,6 @@ conference. They are timely and worthy of both our attention and our action.
 May the Lord bless us to heed them and then to lead our people in the path
 that has been marked for us by our leaders and by the Lord, I humbly pray, in
 the name of Jesus Christ, amen.
+
+## References
 

@@ -161,8 +161,8 @@ involved in this exciting work at any age. We're committed to it!"
 The Prophet Joseph Smith gave us this sober warning: "The earth will be
 smitten with a curse unless there is a welding link ... between the fathers and
 the children. ... For we without them cannot be made perfect; neither can they
-without us be made perfect." ([D&amp;C 128:18](https://www.lds.org/scriptures
-/dc-testament/dc/128.18?lang=eng#17).)
+without us be made perfect." ([D&amp;C 128:18](/scriptures/dc-
+testament/dc/128.18?lang=eng#17).)
 
 In the councils of heaven before the world began, we made a solemn agreement
 with the Lord to assist in bringing to pass the eternal life of man. Elder
@@ -177,4 +177,6 @@ glorious reunion with our kindred family through the covenant blessings of the
 priesthood. I pray that we will heed the prophets and inherit the supreme joy
 which comes from performing this marvelous work of salvation, in the name of
 Jesus Christ, amen.
+
+## References
 

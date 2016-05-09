@@ -49,21 +49,14 @@ assembled.
 
 The quorums and groups of quorums will vote in the following order:
 
-  1. The First Presidency
-
-  2. The Quorum of the Twelve
-
-  3. The patriarchs
-
-  4. The high priests, including the Assistants to the Twelve, Regional Representatives and Mission Representatives, the presidents of stakes and their counselors, the high councilors, presidencies of quorums, quorum members, the Presiding Bishopric, and ward bishoprics.
-
-  5. The seventies
-
-  6. The elders
-
-  7. The Aaronic Priesthood (priests, teachers, and deacons).
-
-  8. The whole congregation here assembled, including the priesthood.
+  1. The First Presidency 
+  2. The Quorum of the Twelve 
+  3. The patriarchs 
+  4. The high priests, including the Assistants to the Twelve, Regional Representatives and Mission Representatives, the presidents of stakes and their counselors, the high councilors, presidencies of quorums, quorum members, the Presiding Bishopric, and ward bishoprics. 
+  5. The seventies 
+  6. The elders 
+  7. The Aaronic Priesthood (priests, teachers, and deacons). 
+  8. The whole congregation here assembled, including the priesthood. 
 
 The voting will be in the following manner:
 
@@ -757,4 +750,6 @@ by the same sign.
 
 President Kimball, so far as I have observed, the voting in each case was
 unanimous in the affirmative.
+
+## References
 

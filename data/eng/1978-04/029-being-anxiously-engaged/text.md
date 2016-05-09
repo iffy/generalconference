@@ -6,8 +6,7 @@ righteousness;
 
 "For the power is in them, wherein they are agents unto themselves. And
 inasmuch as men do good they shall in nowise lose their reward." ([D&amp;C
-58:27-28](https://www.lds.org/scriptures/dc-
-testament/dc/58.27-28?lang=eng#26).)
+58:27-28](/scriptures/dc-testament/dc/58.27-28?lang=eng#26).)
 
 This quotation refers to nonmembers as well as Church members; all men and
 women have the power to do good. It is of the utmost importance that they have
@@ -46,12 +45,12 @@ I like to think that people generally want to do good; they feel happier when
 they are doing good. Sin never was happiness. It builds up an iron curtain
 between man and God. The Lord gave us the right pattern when he said, "Do unto
 others as you would that men should do unto you." (See [Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11); [Luke
-6:31](https://www.lds.org/scriptures/nt/luke/6.31?lang=eng#30).) The Lord has
-given us no commandment that is not for our good and benefit and that does not
-bring satisfaction and happiness if we follow it. We need the help of the
-Lord, and he will give us that help if we seek it and follow the course that
-he has provided.
+7:12](/scriptures/nt/matt/7.12?lang=eng#11); [Luke
+6:31](/scriptures/nt/luke/6.31?lang=eng#30).) The Lord has given us no
+commandment that is not for our good and benefit and that does not bring
+satisfaction and happiness if we follow it. We need the help of the Lord, and
+he will give us that help if we seek it and follow the course that he has
+provided.
 
 Our young missionaries who go into the world to preach the gospel return home
 happy because they have been in the service of the Lord, trying to bless
@@ -88,8 +87,8 @@ righteousness. We must warn our fellowmen. We must teach our children true
 doctrines and lead them in the paths of rectitude.
 
 The Lord has said to this people: "After your testimony cometh wrath and
-indignation upon the people." ([D&amp;C 88:88](https://www.lds.org/scriptures
-/dc-testament/dc/88.88?lang=eng#87).)
+indignation upon the people." ([D&amp;C 88:88](/scriptures/dc-
+testament/dc/88.88?lang=eng#87).)
 
 It is innate in human nature that when we have something interesting in life,
 something precious, something vital, we desire to share it with those whom we
@@ -130,9 +129,9 @@ thus declared:
 
 "'For behold, this is my work and my glory--to bring to pass the immortality
 and eternal life of man.' ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)" ("The
-Earth to Be Redeemed," _Sunday Night Talks by Radio,_ Salt Lake City: Deseret
-News Press, 1931, pp. 357-58.)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)" ("The Earth to Be Redeemed,"
+_Sunday Night Talks by Radio,_ Salt Lake City: Deseret News Press, 1931, pp.
+357-58.)
 
 Think of the great tragedy, the terrible responsibility, that men take upon
 themselves when they treat so lightly, as is sometimes the case, the
@@ -167,4 +166,6 @@ I bear testimony that this is the Lord's work, that the gospel of Jesus Christ
 has been restored to earth with its keys, powers, and authorities, that it is
 the Lord's work and glory to bring to pass the immortality and eternal life of
 man. In the name of Jesus Christ, amen.
+
+## References
 

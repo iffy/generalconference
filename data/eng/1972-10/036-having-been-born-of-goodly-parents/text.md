@@ -229,8 +229,7 @@ truth.
 Twenty-five hundred and seventy-two years ago, give or take a year, a prophet
 accepted of the Lord began to write his history: "I, Nephi, having been born
 of goodly parents. ..." And then he went on to say, "I make a record of my
-proceedings in my days." ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0).)
+proceedings in my days." ([1 Ne. 1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0).)
 
 And so the first prophet of our times might have said the same words: "I,
 Joseph Smith, having been born of goodly parents ... make my record."
@@ -246,8 +245,7 @@ Those of us who are parents have children who may become prophets or sons of
 prophets. Let us raise them in truth and in virtue.
 
 Said the Lord: "Abraham, thou art one of them; thou wast chosen before thou
-wast born." ([Abr.
-3:23](https://www.lds.org/scriptures/pgp/abr/3.23?lang=eng#22).) And the Lord
+wast born." ([Abr. 3:23](/scriptures/pgp/abr/3.23?lang=eng#22).) And the Lord
 designated the others who have been chosen. I do not presume; rather, I am
 sure, President Lee, thou wast chosen before thou wast born.
 
@@ -263,4 +261,6 @@ soul that the Lord has chosen him and sustains him.
 God our Father, through his Son, Jesus Christ, directs the work of this the
 true and living church established by the Lord Jesus Christ on the earth. I
 know it, and bear witness of it, in the name of Jesus Christ. Amen.
+
+## References
 

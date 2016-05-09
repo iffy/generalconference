@@ -68,8 +68,8 @@ blossom and they press on toward new frontiers. (Ibid., p. 55.)
 
 The Lord emphasized one such frontier when he declared, "purify your hearts
 before me; and then go ye into all the world, and preach my gospel unto every
-creature who has not received it." ([D&amp;C
-112:28](https://www.lds.org/scriptures/dc-testament/dc/112.28?lang=eng#27).)
+creature who has not received it." ([D&amp;C 112:28](/scriptures/dc-
+testament/dc/112.28?lang=eng#27).)
 
 An inspired prophet, David O. McKay, expanded this fundamental principle in
 1959 while at the Hyde Park chapel in London, England. He proclaimed these
@@ -90,9 +90,8 @@ teaching of the doctrines of salvation and the temple.
 
 "All three are part of one work--to assist our Father in Heaven and His Son ...
 in Their grand and glorious mission 'to bring to pass the immortality and
-eternal life of man' ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38))." (Spencer
-W. Kimball, _Ensign,_ May 1981, p. 5).
+eternal life of man' ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38))."
+(Spencer W. Kimball, _Ensign,_ May 1981, p. 5).
 
 In the spirit of these prophetic watchwords, there is a continuing but growing
 need to extend the frontiers of new member conversion, fellowshipping, and
@@ -148,10 +147,10 @@ September 1988, pp. 8, 9, 12.)
 When people are taught and then fellowshipped with warmth and continued
 interest until they are integrated into the mainstream of the Church, they are
 "remembered and nourished by the good word of God, to keep them in the right
-way." ([Moro. 6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3).)
-By working together, stake missionaries and full-time missionaries are able to
-keep new converts involved as they gain gospel knowledge and a needed
-testimony. They are also bringing back into fellowship the less active.
+way." ([Moro. 6:4](/scriptures/bofm/moro/6.4?lang=eng#3).) By working
+together, stake missionaries and full-time missionaries are able to keep new
+converts involved as they gain gospel knowledge and a needed testimony. They
+are also bringing back into fellowship the less active.
 
 In stressing the need for mature men and women to be about the work of the
 Lord, President Benson related the experience of his two widowed sisters. One
@@ -175,7 +174,7 @@ There is an unusual opportunity for qualifed individuals to do their utmost to
 fulfill the Lord's injunction to preach his gospel to the ends of the earth
 and not only to _teach_ but _convert,_ as Alma said, that as many "as believed
 in their preaching, and were converted unto the Lord, never did fall away."
-([Alma 23:6](https://www.lds.org/scriptures/bofm/alma/23.6?lang=eng#5).)
+([Alma 23:6](/scriptures/bofm/alma/23.6?lang=eng#5).)
 
 The Lord's work is blessed to have more than eleven hundred couples now
 serving throughout the world. In Latin America--including Mexico, all of
@@ -204,10 +203,9 @@ heavenly invitation to "come unto the Christ" and feel of his goodness, but
 those who answer the call will be blessed also.
 
 The Lord instructed in the Doctrine and Covenants, "If ye have desires to
-serve God ye are called to the work." ([D&amp;C
-4:3](https://www.lds.org/scriptures/dc-testament/dc/4.3?lang=eng#2).) Many of
-you undoubtedly have the desire but may need some gentle encouragement to
-complete your decision.
+serve God ye are called to the work." ([D&amp;C 4:3](/scriptures/dc-
+testament/dc/4.3?lang=eng#2).) Many of you undoubtedly have the desire but may
+need some gentle encouragement to complete your decision.
 
 I challenged eight couples in my former home stake in California to set aside
 their comfortable lives of planned retirement and to bless the Scottish Saints
@@ -280,7 +278,7 @@ Eternal justice requires that all of God's children have adequate opportunity
 to hear and receive the gospel message. Christ taught, "And this gospel of the
 kingdom shall be preached in all the world for a witness unto all nations; and
 then shall the end come." ([Matt.
-24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).)
+24:14](/scriptures/nt/matt/24.14?lang=eng#13).)
 
 Now, my dear friends, as we near the closing moments of this historic
 conference and receive counsel from our prophet, I add my witness of his
@@ -290,4 +288,6 @@ divine purposes and, if followed in our actions, will lead us unerringly to
 eternal life. I leave you this witness and my blessings as you move forward to
 fulfill your commitments and to live the Lord's commandments. This work is
 true, in the name of Jesus Christ, amen.
+
+## References
 

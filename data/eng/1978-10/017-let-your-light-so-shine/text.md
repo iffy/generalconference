@@ -39,7 +39,7 @@ according to St. Mark, had suffered for twelve years and still grew worse. And
 "when she had heard of Jesus, ... she said, If I may touch but his clothes, I
 shall be whole." This she did, and Jesus "said unto her, Daughter, thy faith
 hath made thee whole; go in peace." (See [Mark
-5:25-34](https://www.lds.org/scriptures/nt/mark/5.25-34?lang=eng#24).)
+5:25-34](/scriptures/nt/mark/5.25-34?lang=eng#24).)
 
 Sister Hellmann had asked her grandson, Frank, to bring her to the service at
 an early hour and position her wheelchair near the aisle where the prophet was
@@ -93,13 +93,13 @@ candlestick; and it giveth light unto all that are in the house.
 
 "Let your light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven." ([Matt.
-5:14-16](https://www.lds.org/scriptures/nt/matt/5.14-16?lang=eng#13).)
+5:14-16](/scriptures/nt/matt/5.14-16?lang=eng#13).)
 
 If we live the principles of the gospel, we are the fulfillment of the
 Savior's pronouncement: "Ye are the light of the world" ([Matt.
-5:14](https://www.lds.org/scriptures/nt/matt/5.14?lang=eng#13)). And
-possessing this light, we can shine among our fellowmen through our lives and
-deeds, influencing them to glorify our Father in Heaven.
+5:14](/scriptures/nt/matt/5.14?lang=eng#13)). And possessing this light, we
+can shine among our fellowmen through our lives and deeds, influencing them to
+glorify our Father in Heaven.
 
 Jesus wants every one of us to know him because of the transforming power of
 that knowledge and because of the indescribable joy it brings into our lives.
@@ -123,8 +123,7 @@ advocates) Christ is not as divine as he used to be." (_Time,_ 27 Feb. 1978.)
 
 Such a twisted and compromising viewpoint sounds a clarion call for the
 priesthood and the sisters, pillars of the Church whose example "is like unto
-leaven" ([Matt.
-13:33](https://www.lds.org/scriptures/nt/matt/13.33?lang=eng#32)), to make an
+leaven" ([Matt. 13:33](/scriptures/nt/matt/13.33?lang=eng#32)), to make an
 even greater effort to move in and fill the tragic void. On the divinity of
 our Lord and Savior Jesus Christ, the position of the restored church and its
 members is eloquently stated by Elder James E. Talmage in these words:
@@ -169,4 +168,6 @@ Lord. His divinely inspired words and example convey the certainty of an
 unwavering testimony. Upon us he pronounces rich blessings and unbounded love
 and encouragement. May we follow his great leadership, I pray in the name of
 Jesus Christ. Amen.
+
+## References
 

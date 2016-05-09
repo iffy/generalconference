@@ -5,7 +5,7 @@ Philippines.
 
 One of the inspired dedicatory prayers offered by President Gordon B. Hinckley
 implored God our Father to "bless thy saints in their faith ... [to] remain true
-as ... [a] covenant people ... , that they shall grow in wisdom" he continued,
+as ... [a] covenant people ..., that they shall grow in wisdom" he continued,
 "both spiritual and temporal ... [that] they [shall] grow in virtue and in
 knowledge and in love for thee ... [and that] the evil designs of ... [thine]
 enemies be frustrated." (_Church News,_ 30 Sep. 1984, p. 10.)
@@ -83,12 +83,10 @@ those words ("I Am a Child of God," _Sing With Me,_ B-76.) The Savior reserved
 His harshest condemnation for those who would offend little children. He said:
 "Take heed that ye despise not one of these little ones; for ... it is not the
 will of your Father which is in heaven, that one of these little ones should
-perish." ([Matt. 18:10,
-14](https://www.lds.org/scriptures/nt/matt/18.10%2C14?lang=eng#9).)
+perish." ([Matt. 18:10, 14](/scriptures/nt/matt/18.10,14?lang=eng#9).)
 
 The Lord further commanded: "Neither commit adultery ... nor do anything like
-unto it." ([D&amp;C 59:6](https://www.lds.org/scriptures/dc-
-testament/dc/59.6?lang=eng#5).)
+unto it." ([D&amp;C 59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).)
 
 "The early apostles and prophets [warned against] sins that are reprehensible
 ... --adultery ... infidelity ... impurity, inordinate affection ... sexual relations
@@ -186,20 +184,19 @@ spirits free from the corrupting influence of pornography, including
 everything that is obscene and indecent. Let it have no place in our homes,
 our minds, or our hearts. The psalmist David wrote, "Who shall ascend into the
 hill of the Lord? or who shall stand in his holy place? He that hath clean
-hands, and a pure heart." ([Ps.
-24:3-4](https://www.lds.org/scriptures/ot/ps/24.3-4?lang=eng#2).) If those who
-hear my voice have in their possession offensive materials that should be
-destroyed, let this be the day of decision and action. If someone listening
-has been tempted or has thought of, or even considered abusing or offending a
-child, may he, this day, confess and repent and forsake such evil thoughts or
-actions.
+hands, and a pure heart." ([Ps. 24:3-4](/scriptures/ot/ps/24.3-4?lang=eng#2).)
+If those who hear my voice have in their possession offensive materials that
+should be destroyed, let this be the day of decision and action. If someone
+listening has been tempted or has thought of, or even considered abusing or
+offending a child, may he, this day, confess and repent and forsake such evil
+thoughts or actions.
 
 James the Apostle and the brother of our Lord wrote:
 
 "Blessed is the man that endureth temptation. ... Let no man say when he is
 tempted, I am tempted of God: for God cannot be tempted with evil, neither
 tempteth he any man." ([James
-1:12-13](https://www.lds.org/scriptures/nt/james/1.12-13?lang=eng#11).)
+1:12-13](/scriptures/nt/james/1.12-13?lang=eng#11).)
 
 Parents, discuss with your children of appropriate age, and in sensitive ways,
 the harmful effects and addictive nature of such material. Rigidly monitor the
@@ -268,4 +265,6 @@ talk about it, but strengthen our homes--and recognize the evil forces that
 are working through insidious ways to thwart our eternal progress, I humbly
 pray, as I declare the reality of our eternal Father in Heaven and His beloved
 Son Jesus Christ, our Savior and Redeemer. In His holy name, amen.
+
+## References
 

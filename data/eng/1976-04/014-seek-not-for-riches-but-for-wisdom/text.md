@@ -19,7 +19,7 @@ I told them that the Lord had already answered that question when he said:
 
 "Seek not for riches but for wisdom, and behold, the mysteries of God shall be
 unfolded unto you, and then shall you be made rich. Behold, he that hath
-eternal life is rich." ([D&amp;C 6:7](https://www.lds.org/scriptures/dc-
+eternal life is rich." ([D&amp;C 6:7](/scriptures/dc-
 testament/dc/6.7?lang=eng#6).)
 
 I suggested that they probably needed to change their priorities in life and
@@ -68,9 +68,9 @@ knowledge of the gospel and in seeking wisdom.
 
 The Lord has told us to "seek ... out of the best books words of wisdom; seek
 learning, even by study and also by faith," and also to "teach one another
-words of wisdom." ([D&amp;C 88:118](https://www.lds.org/scriptures/dc-
-testament/dc/88.118?lang=eng#117); see also [D&amp;C
-109:7](https://www.lds.org/scriptures/dc-testament/dc/109.7?lang=eng#6).)
+words of wisdom." ([D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117); see also [D&amp;C 109:7](/scriptures/dc-
+testament/dc/109.7?lang=eng#6).)
 
 In studying the gospel, we learn of a preexistent state, we learn of the
 purpose of this life and of a life hereafter: yes, as the scripture promises,
@@ -137,8 +137,8 @@ Home teaching is another priesthood function we are concerned with. The Lord
 has told us the duty of a priesthood home teacher is to "visit the house of
 each member, exhorting them to pray vocally and in secret and attend to all
 family duties ... to watch over the church always, and be with and strengthen
-them." ([D&amp;C 20:51, 53](https://www.lds.org/scriptures/dc-
-testament/dc/20.51%2C53?lang=eng#50).)
+them." ([D&amp;C 20:51, 53](/scriptures/dc-
+testament/dc/20.51,53?lang=eng#50).)
 
 Brethren, let each of us magnify our callings as home teachers, and the
 families we visit as well as our own will be blessed and strengthened.
@@ -192,4 +192,6 @@ the Lord in restoring the gospel of Jesus Christ in its fulness as well as the
 power to act in the name of God. I also bear witness that President Spencer W.
 Kimball is a prophet of God. May the Lord sustain and magnify him, and may we
 also sustain him in every way, I pray in the name of Jesus Christ. Amen.
+
+## References
 

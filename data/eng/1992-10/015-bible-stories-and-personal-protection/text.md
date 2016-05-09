@@ -21,8 +21,7 @@ understand until later.
 
 The Lord spoke to Abraham and told him to take his only son, Isaac, and go to
 the top of a mountain in the land of Moriah "and offer him there for a burnt
-offering." ([Gen.
-22:2](https://www.lds.org/scriptures/ot/gen/22.2?lang=eng#1).)
+offering." ([Gen. 22:2](/scriptures/ot/gen/22.2?lang=eng#1).)
 
 The first time I read this story I didn't know what a burnt offering was. But
 I lived on a farm with animals and mountains nearby, so I could easily
@@ -35,27 +34,25 @@ father on such a trip.
 On the third day, Abraham and Isaac climbed the mountain to worship. Like most
 young men, Isaac was curious. He saw the fire and the wood and the knife they
 carried, "but," he asked his father, "where is the lamb for a burnt offering?"
-([Gen. 22:7](https://www.lds.org/scriptures/ot/gen/22.7?lang=eng#6).) I did
-not realize until I had sons of my own how much pain Abraham must have felt
-when he answered simply, "My son, God will provide." ([Gen.
-22:8](https://www.lds.org/scriptures/ot/gen/22.8?lang=eng#7).)
+([Gen. 22:7](/scriptures/ot/gen/22.7?lang=eng#6).) I did not realize until I
+had sons of my own how much pain Abraham must have felt when he answered
+simply, "My son, God will provide." ([Gen.
+22:8](/scriptures/ot/gen/22.8?lang=eng#7).)
 
 When they came to the prescribed place, Abraham built an altar and laid wood
 upon it. Then, the Bible says, "Abraham ... bound Isaac his son, and laid him on
-the altar upon the wood." ([Gen.
-22:9](https://www.lds.org/scriptures/ot/gen/22.9?lang=eng#8).) What did Isaac
-think when Abraham did such a strange thing? The Bible mentions no struggle or
-objection. Isaac's silence can only be explained in terms of his trust in and
-obedience to his father.
+the altar upon the wood." ([Gen. 22:9](/scriptures/ot/gen/22.9?lang=eng#8).)
+What did Isaac think when Abraham did such a strange thing? The Bible mentions
+no struggle or objection. Isaac's silence can only be explained in terms of
+his trust in and obedience to his father.
 
 And then the Bible says, "Abraham stretched forth his hand, and took the knife
-to slay his son." ([Gen.
-22:10](https://www.lds.org/scriptures/ot/gen/22.10?lang=eng#9).)
+to slay his son." ([Gen. 22:10](/scriptures/ot/gen/22.10?lang=eng#9).)
 
 As you know, Abraham had passed his test, and the Lord saved young Isaac. "Lay
 not thine hand upon the lad," an angel commanded Abraham. ([Gen.
-22:12](https://www.lds.org/scriptures/ot/gen/22.12?lang=eng#11).) A ram whose
-horns were caught in a thicket became the offering, instead of Isaac.
+22:12](/scriptures/ot/gen/22.12?lang=eng#11).) A ram whose horns were caught
+in a thicket became the offering, instead of Isaac.
 
 As a young man, I saw mostly the adventure in that story, though I was surely
 impressed with Isaac's obedience. When I was older, I learned that the
@@ -63,7 +60,7 @@ experience of Abraham and Isaac was what the scriptures call a _type,_ which
 is a likeness or reminder of something else. The Book of Mormon prophet Jacob
 said that the command for Abraham to sacrifice his son Isaac was "a similitude
 of God and his Only Begotten Son." ([Jacob
-4:5](https://www.lds.org/scriptures/bofm/jacob/4.5?lang=eng#4).)
+4:5](/scriptures/bofm/jacob/4.5?lang=eng#4).)
 
 This story also shows the goodness of God in protecting Isaac and in providing
 a substitute so he would not have to die. Because of our sins and our
@@ -73,33 +70,33 @@ sacrifice.
 
 The Apostle Paul taught that the scriptures are "given by inspiration of God"
 and are "profitable ... for instruction in righteousness." ([2 Tim.
-3:16](https://www.lds.org/scriptures/nt/2-tim/3.16?lang=eng#15).) We obtain
-instruction in righteousness from the experiences recorded in the scriptures.
-They provide what we might call case studies of the results of keeping or
-breaking the commandments of God.
+3:16](/scriptures/nt/2-tim/3.16?lang=eng#15).) We obtain instruction in
+righteousness from the experiences recorded in the scriptures. They provide
+what we might call case studies of the results of keeping or breaking the
+commandments of God.
 
 One example of special importance to young people involved young Joseph, who
 was sold into Egypt. Though only a slave, Joseph's abilities were so
 impressive to his master that he was put in charge of all that his master had,
 in the house and in the field. (See [Gen.
-39:4-6](https://www.lds.org/scriptures/ot/gen/39.4-6?lang=eng#3).) Then, in
-that position of prominence and power, Joseph met a test.
+39:4-6](/scriptures/ot/gen/39.4-6?lang=eng#3).) Then, in that position of
+prominence and power, Joseph met a test.
 
 His master's wife tempted him to commit adultery with her. Joseph rejected her
 advances, telling her he would not betray the trust of her husband, or the
 even greater trust he would violate by sinning against God in doing what
 Joseph called "this great wickedness." ([Gen.
-39:9](https://www.lds.org/scriptures/ot/gen/39.9?lang=eng#8).) He rejected her
-again and again. Then one day, when no one else was in the house, she seized
-hold of his clothing. In a marvelously vivid description, the scripture says,
-"And he left his garment in her hand, and fled, and got him out." ([Gen.
-39:12](https://www.lds.org/scriptures/ot/gen/39.12?lang=eng#11).)
+39:9](/scriptures/ot/gen/39.9?lang=eng#8).) He rejected her again and again.
+Then one day, when no one else was in the house, she seized hold of his
+clothing. In a marvelously vivid description, the scripture says, "And he left
+his garment in her hand, and fled, and got him out." ([Gen.
+39:12](/scriptures/ot/gen/39.12?lang=eng#11).)
 
 What a persuasive instruction in righteousness! The same teaching was given in
 this modern revelation: "And go ye out from among the wicked. Save yourselves.
-Be ye clean that bear the vessels of the Lord." ([D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).)
-Those words command all of us to follow the example of Joseph.
+Be ye clean that bear the vessels of the Lord." ([D&amp;C 38:42](/scriptures
+/dc-testament/dc/38.42?lang=eng#41).) Those words command all of us to follow
+the example of Joseph.
 
 A common element in many of my best-loved Bible stories was the way the Lord
 protected his righteous and faithful sons. When I was young, that was my
@@ -110,25 +107,24 @@ favored younger brother. After seizing Joseph and throwing him into a pit,
 they decided to sell him into slavery instead. Even as they told their father
 that Joseph had been killed by wild beasts, the traders who had purchased him
 on the plains of Canaan were leading him down into Egypt and slavery. (See
-[Gen. 37](https://www.lds.org/scriptures/ot/gen/37.title?lang=eng).)
+[Gen. 37](/scriptures/ot/gen/37?lang=eng).)
 
 In Egypt, Joseph was unjustly sent to prison. But even there he excelled, and
 the Lord blessed him. In time he came forth to interpret Pharaoh's dream, and
 he was made ruler of all Egypt. In that powerful position, he became the
 instrument to save his people from famine and to love and forgive the brothers
-who had wronged him. (See [Gen.
-40-45](https://www.lds.org/scriptures/ot/gen/40.title?lang=eng).)
+who had wronged him. (See [Gen. 40-45](/scriptures/ot/gen/40?lang=eng).)
 
 As a young boy, I was thrilled with Joseph's adventures and impressed with how
 the Lord had rescued him from the perils of murder, slavery, and prison. The
 first time I read the Book of Mormon, I found the statement that "Joseph ... who
 was sold into Egypt ... was preserved by the hand of the Lord." ([1 Ne.
-5:14](https://www.lds.org/scriptures/bofm/1-ne/5.14?lang=eng#13).) In later
-readings in the scriptures, I found that this kind of protection is available
-to all. For example, the Bible states that "the Lord preserveth the faithful"
-([Ps. 31:23](https://www.lds.org/scriptures/ot/ps/31.23?lang=eng#22)), and
-that God "is a shield unto them that put their trust in him" ([Prov.
-30:5](https://www.lds.org/scriptures/ot/prov/30.5?lang=eng#4)).
+5:14](/scriptures/bofm/1-ne/5.14?lang=eng#13).) In later readings in the
+scriptures, I found that this kind of protection is available to all. For
+example, the Bible states that "the Lord preserveth the faithful" ([Ps.
+31:23](/scriptures/ot/ps/31.23?lang=eng#22)), and that God "is a shield unto
+them that put their trust in him" ([Prov.
+30:5](/scriptures/ot/prov/30.5?lang=eng#4)).
 
 Another favorite example of God's protecting care is the shepherd boy David.
 David had a firm faith in the God of Israel, and that faith gave him great
@@ -137,25 +133,23 @@ courage.
 When the armies of the Philistines were gathered to battle against the
 Israelites, the mighty Goliath came forward and hurled his challenge to
 individual combat. King Saul and all Israel "were dismayed, and greatly
-afraid." ([1 Sam.
-17:11](https://www.lds.org/scriptures/ot/1-sam/17.11?lang=eng#10).) Day after
+afraid." ([1 Sam. 17:11](/scriptures/ot/1-sam/17.11?lang=eng#10).) Day after
 day he renewed his challenge, but no one would face him.
 
 When young David came to the camp of Israel to deliver provisions, he heard
 Goliath's roar. In surprise David asked, "Who is this uncircumcised
 Philistine, that he should defy the armies of the living God?" ([1 Sam.
-17:26](https://www.lds.org/scriptures/ot/1-sam/17.26?lang=eng#25).) David
-asked if he could fight the man. The king refused, saying, "Thou art but a
-youth." ([1 Sam.
-17:33](https://www.lds.org/scriptures/ot/1-sam/17.33?lang=eng#32).) David
-replied with courage and faith: "The Lord that delivered me out of the paw of
-the lion, ... he will deliver me out of the hand of this Philistine." ([1 Sam.
-17:37](https://www.lds.org/scriptures/ot/1-sam/17.37?lang=eng#36).)
+17:26](/scriptures/ot/1-sam/17.26?lang=eng#25).) David asked if he could fight
+the man. The king refused, saying, "Thou art but a youth." ([1 Sam.
+17:33](/scriptures/ot/1-sam/17.33?lang=eng#32).) David replied with courage
+and faith: "The Lord that delivered me out of the paw of the lion, ... he will
+deliver me out of the hand of this Philistine." ([1 Sam.
+17:37](/scriptures/ot/1-sam/17.37?lang=eng#36).)
 
 As David went onto the field of battle, Goliath mocked him for his youth,
 cursed him by his gods, and shouted that he would feed his flesh to the birds
 and beasts of the field. (See [1 Sam.
-17:42-44](https://www.lds.org/scriptures/ot/1-sam/17.42-44?lang=eng#41).)
+17:42-44](/scriptures/ot/1-sam/17.42-44?lang=eng#41).)
 
 David's reply is one of the great expressions of faith and courage in all our
 literature. It thrilled me as a boy, and it still thrills me.
@@ -171,7 +165,7 @@ earth; that all the earth may know that there is a God in Israel.
 
 "And all this assembly shall know that the Lord saveth not with sword and
 spear: for the battle is the Lord's, and he will give you into our hands." ([1
-Sam. 17:45-47](https://www.lds.org/scriptures/ot/1-sam/17.45-47?lang=eng#44).)
+Sam. 17:45-47](/scriptures/ot/1-sam/17.45-47?lang=eng#44).)
 
 You all know what happened next. David stunned the Philistine with a sling-
 stone and cut off his head with his own sword. Frightened by the fall of their
@@ -187,15 +181,15 @@ of the Lord of Hosts.
 
 Our missionaries also seem weak and defenseless, powerless against the
 armaments of the adversary and those who serve him. But the Lord has promised
-them that he "will be their shield" ([D&amp;C
-35:14](https://www.lds.org/scriptures/dc-testament/dc/35.14?lang=eng#13)), and
-that promise is fulfilled every day in many places around the world.
+them that he "will be their shield" ([D&amp;C 35:14](/scriptures/dc-
+testament/dc/35.14?lang=eng#13)), and that promise is fulfilled every day in
+many places around the world.
 
 The shield the Lord gives to the faithful also protects us against our own
 harmful impulses. The revelation that commands modern Saints to refrain from
 alcohol, tobacco, hot drinks, and other harmful things promises the faithful
 that "the destroying angel shall pass by them, as the children of Israel, and
-not slay them." ([D&amp;C 89:21](https://www.lds.org/scriptures/dc-
+not slay them." ([D&amp;C 89:21](/scriptures/dc-
 testament/dc/89.21?lang=eng#20).)
 
 Another story of protection involved a prophet and his young servant. Because
@@ -209,7 +203,7 @@ Elisha reassured him:
 "And Elisha prayed, and said, Lord, I pray thee, open his eyes, that he may
 see. And the Lord opened the eyes of the young man; and he saw: and, behold,
 the mountain was full of horses and chariots of fire round about Elisha." ([2
-Kgs. 6:16-17](https://www.lds.org/scriptures/ot/2-kgs/6.16-17?lang=eng#15).)
+Kgs. 6:16-17](/scriptures/ot/2-kgs/6.16-17?lang=eng#15).)
 
 The Lord intervened to confuse and blind the Syrians, and they were taken
 prisoners by the armies of Israel.
@@ -346,13 +340,15 @@ trusting in the arm of flesh and to put my trust in the protecting care of our
 Heavenly Father. I am grateful for the Book of Mormon promise to us of the
 last days that "the righteous need not fear," for the Lord "will preserve the
 righteous by his power." ([1 Ne.
-22:17](https://www.lds.org/scriptures/bofm/1-ne/22.17?lang=eng#16).) I am
-grateful for the protection promised to those who have kept their covenants
-and qualified for the blessings promised in sacred places.
+22:17](/scriptures/bofm/1-ne/22.17?lang=eng#16).) I am grateful for the
+protection promised to those who have kept their covenants and qualified for
+the blessings promised in sacred places.
 
 These and all promises to the faithful children of God are made by the voice
 and power of the Lord God of Israel. I testify of that God, our Savior Jesus
 Christ, whose resurrection and atonement have assured immortality and provided
 the opportunity and direction toward eternal life. In the name of Jesus
 Christ, amen.
+
+## References
 

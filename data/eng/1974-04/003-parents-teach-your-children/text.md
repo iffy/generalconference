@@ -13,8 +13,7 @@ scripture. New revelation is the mind and will of the Lord through current
 prophets, and when they speak when moved upon by the Holy Ghost, it is "the
 _will_ of the Lord, ... the _mind_ of the Lord, ... the _word_ of the Lord, ... the
 _voice_ of the Lord, and the _power_ of God unto salvation." ([D&amp;C
-68:4](https://www.lds.org/scriptures/dc-testament/dc/68.4?lang=eng#3). Italics
-added.)
+68:4](/scriptures/dc-testament/dc/68.4?lang=eng#3). Italics added.)
 
 This morning we heard from a prophet of God, and he communicated the mind and
 will of the Lord to all who would listen and receive counsel. Concerning the
@@ -36,8 +35,8 @@ I remember hearing President Kimball just the other day quote from Samuel:
 
 "And the Lord said to Samuel, Behold, I will do a thing in Israel, at which
 both the ears of every one that heareth it shall tingle." ([1 Sam.
-3:11](https://www.lds.org/scriptures/ot/1-sam/3.11?lang=eng#10).) Today our
-president has caused our ears to tingle.
+3:11](/scriptures/ot/1-sam/3.11?lang=eng#10).) Today our president has caused
+our ears to tingle.
 
 Now for a few moments I would like to direct some remarks to parents
 everywhere in this great listening audience.
@@ -50,8 +49,8 @@ Doctrine and Covenants:
 which are organized, that teach them not to understand the doctrine of
 repentance, faith in Christ the Son of the Living God, and of baptism and the
 gift of the Holy Ghost by the laying on of hands, when eight years old, the
-sin be upon the heads of the parents." ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
+sin be upon the heads of the parents." ([D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24).)
 
 I don't know how many times you have heard this passage of scripture, and
 appropriately so, but certainly no counsel could be more timely or pertinent
@@ -172,16 +171,16 @@ dead, neither did they believe concerning the coming of Christ.
 
 "And now because of their unbelief they could not understand the word of God;
 and their hearts were hardened." ([Mosiah
-26:1-3](https://www.lds.org/scriptures/bofm/mosiah/26.1-3?lang=eng#0).)
+26:1-3](/scriptures/bofm/mosiah/26.1-3?lang=eng#0).)
 
 One of these of the "rising generation" was Alma the Younger. He was "a man of
 many words, and did speak much flattery to the people," leading away "many ...
 to do after the manner of his iniquities." ([Mosiah
-27:8](https://www.lds.org/scriptures/bofm/mosiah/27.8?lang=eng#7).)
+27:8](/scriptures/bofm/mosiah/27.8?lang=eng#7).)
 
 We are further told that he was "a great hinderment to the prosperity of the
 church of God" because of the dissension that he caused. ([Mosiah
-27:9](https://www.lds.org/scriptures/bofm/mosiah/27.9?lang=eng#8).)
+27:9](/scriptures/bofm/mosiah/27.9?lang=eng#8).)
 
 I suppose the tendency then, as it often seems to be today, was to "write him
 off." But you know the miraculous story of how an angel of the Lord appeared
@@ -189,8 +188,7 @@ to that young man and how he became one of the greatest missionaries in the
 church of Christ. What was it that caused that great change to occur? The
 angel testified to Alma the following: "... Behold, the Lord hath heard the
 prayers of his people, and also the prayers of his servant, Alma, who is thy
-father. ..." ([Mosiah
-27:14](https://www.lds.org/scriptures/bofm/mosiah/27.14?lang=eng#13).)
+father. ..." ([Mosiah 27:14](/scriptures/bofm/mosiah/27.14?lang=eng#13).)
 
 Think of it! The power of parental prayer! As we consider the challenge of
 rearing children in a world fraught with temptations, false ideologies, and
@@ -206,7 +204,7 @@ prayers were heard and answered.
 
 Remember what Alma said: "Counsel with the Lord in all thy doings, and he will
 direct thee for good. ..." ([Alma
-37:37](https://www.lds.org/scriptures/bofm/alma/37.37?lang=eng#36).)
+37:37](/scriptures/bofm/alma/37.37?lang=eng#36).)
 
 May I testify to all parents in Zion everywhere to the efficacy of these great
 principles in rearing our children righteously: the power of precept, the
@@ -216,4 +214,6 @@ the earth, and that this morning we heard from his appointed prophet and
 servant, Spencer W. Kimball. May we abide by the counsel and teachings given
 to us by the Lord through his servants, I humbly pray as I testify to these
 things in the name of Jesus Christ. Amen.
+
+## References
 

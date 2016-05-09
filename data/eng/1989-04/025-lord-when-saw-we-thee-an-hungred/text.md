@@ -5,8 +5,8 @@ glory, all the nations of the earth shall be gathered before him and he shall
 separate them one from another, as a shepherd divides the sheep from the
 goats. Those on his right hand shall be blessed and shall inherit the kingdom
 prepared for them from the foundation of the world. (See [Matt.
-25:31-34](https://www.lds.org/scriptures/nt/matt/25.31-34?lang=eng#30).) And
-the King shall say unto them:
+25:31-34](/scriptures/nt/matt/25.31-34?lang=eng#30).) And the King shall say
+unto them:
 
 "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me
 drink: I was a stranger, and ye took me in:
@@ -23,8 +23,7 @@ thee? or thirsty, and gave thee drink?
 
 "And the King shall answer, ... Verily I say unto you, Inasmuch as ye have done
 it unto one of the least of these my brethren, ye have done it unto me."
-([Matt.
-25:35-40](https://www.lds.org/scriptures/nt/matt/25.35-40?lang=eng#34).)
+([Matt. 25:35-40](/scriptures/nt/matt/25.35-40?lang=eng#34).)
 
 Almost every day we have the opportunity to feed the hungry, to visit the
 sick, to help bear one another's burdens, even as the Savior taught. Sometimes
@@ -50,8 +49,7 @@ us. But it is usually through another person that he meets our needs.
 Therefore, it is vital that we serve each other in the kingdom." (Spencer W.
 Kimball, _ Ensign,_ Dec. 1974, p. 5.) The book of Proverbs admonishes us to
 "withhold not good from them to whom it is due, when it is in the power of
-thine hand to do it." ([Prov.
-3:27](https://www.lds.org/scriptures/ot/prov/3.27?lang=eng#26).)
+thine hand to do it." ([Prov. 3:27](/scriptures/ot/prov/3.27?lang=eng#26).)
 
 Perhaps a personal experience will help to illustrate this loving, watchful
 care that we are to extend to one another.
@@ -93,13 +91,13 @@ made infinitely more comfortable.
 But chronic and terminal illness still exist--sometimes for the young,
 sometimes for the elderly--and death must still be faced. We still are to help
 "bear ... one another's burdens" ([Gal.
-6:2](https://www.lds.org/scriptures/nt/gal/6.2?lang=eng#1)), "comfort those
-that stand in need of comfort," and "mourn with those that mourn" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)).
+6:2](/scriptures/nt/gal/6.2?lang=eng#1)), "comfort those that stand in need of
+comfort," and "mourn with those that mourn" ([Mosiah
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)).
 
 Compassionate service can be a sweet, sustaining help to the patient and the
 family during such times. "I was sick, ... and ye came unto me." ([Matt.
-25:36](https://www.lds.org/scriptures/nt/matt/25.36?lang=eng#35).)
+25:36](/scriptures/nt/matt/25.36?lang=eng#35).)
 
 Many times people do nothing in such a situation simply because they do not
 know what to do. They are afraid of intruding or of saying the wrong thing.
@@ -199,21 +197,20 @@ want to believe. We may worry or fret or doubt, yet we want to believe. It is
 comforting to me to know that the Lord knew even that this would be so and
 gave us in the book of Mark a wonderful story of a distraught father who
 brought his son to the Savior to be healed of a condition which sounds perhaps
-like epilepsy. (See [Mark
-9:14-29](https://www.lds.org/scriptures/nt/mark/9.14-29?lang=eng#13).)
+like epilepsy. (See [Mark 9:14-29](/scriptures/nt/mark/9.14-29?lang=eng#13).)
 
 Jesus said: "If thou canst believe, all things are possible to him that
 believeth.
 
 "And straightway the father of the child cried out, and said with tears, Lord,
 I believe; help thou mine unbelief." ([Mark
-9:23-24](https://www.lds.org/scriptures/nt/mark/9.23-24?lang=eng#22).)
+9:23-24](/scriptures/nt/mark/9.23-24?lang=eng#22).)
 
 We can help each other, also, on our days of unbelief. We can strengthen and
 lift and bless those whose faith might be weak. As Alma said, "Even if ye can
 no more than desire to believe, let this desire work in you." ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26).) This is
-the planting of the seed of faith.
+32:27](/scriptures/bofm/alma/32.27?lang=eng#26).) This is the planting of the
+seed of faith.
 
 We must recognize that life is a precious gift (Florence Nightingale called it
 a "splendid gift"), that trust and tenderness are fragile, that we must love
@@ -229,9 +226,10 @@ thee?
 
 "And the King shall answer, ... Verily I say unto you, Inasmuch as ye have done
 it unto one of the least of these my brethren, ye have done it unto me."
-([Matt.
-25:37-40](https://www.lds.org/scriptures/nt/matt/25.37-40?lang=eng#36).)
+([Matt. 25:37-40](/scriptures/nt/matt/25.37-40?lang=eng#36).)
 
 That we may do so, brothers and sisters, each of us, as we have the
 opportunity, I pray, in the name of Jesus Christ, amen.
+
+## References
 

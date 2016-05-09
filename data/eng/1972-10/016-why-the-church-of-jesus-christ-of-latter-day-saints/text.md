@@ -18,9 +18,9 @@ spring of 1820, stirred by a religious revival in the vicinity of Palmyra, New
 York, where he lived; perplexed by the conflicting claims of the churches;
 motivated by the admonition and promise of James, "If any of you lack wisdom,
 let him ask of God, ... and it shall be given him" ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4)), Joseph, in
-childlike faith, inquired of the Lord "which of all the sects was right," that
-he "might know which to join."
+1:5](/scriptures/nt/james/1.5?lang=eng#4)), Joseph, in childlike faith,
+inquired of the Lord "which of all the sects was right," that he "might know
+which to join."
 
 "... I kneeled down [he said] and began to offer up the desire of my heart to
 God. I had scarcely done so, when immediately I was seized upon by some power
@@ -36,37 +36,33 @@ me bound. When the light rested upon me I saw two Personages, whose brightness
 and glory defy all description, standing above me in the air. One of them
 spake unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:15-18](https://www.lds.org/scriptures/pgp/js-h/1.15-18?lang=eng#14)).
+1:15-18](/scriptures/pgp/js-h/1.15-18?lang=eng#14)).
 
 This vision was the opening scene in an awesome drama that some ten years
 later culminated in the organization of the Church.
 
 By the Son, with whom he conversed in the heavenly vision, Joseph was told to
 join none of the existing churches because they "were all wrong." ([JS--H
-1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18).) They lacked
-both necessary components of the church of Jesus Christ, namely, his gospel
-and his name.
+1:19](/scriptures/pgp/js-h/1.19?lang=eng#18).) They lacked both necessary
+components of the church of Jesus Christ, namely, his gospel and his name.
 
 Indispensable elements of the gospel, which they lacked, included:
 
-  1. The truth concerning the personality of God and man's relationship to him,
-
-  2. A knowledge of its saving principles and ordinances,
-
-  3. The priesthood of God, and
-
-  4. Continuing revelation.
+  1. The truth concerning the personality of God and man's relationship to him, 
+  2. A knowledge of its saving principles and ordinances, 
+  3. The priesthood of God, and 
+  4. Continuing revelation. 
 
 As to the first element, the personality of God the Father and his Son, Jesus
 Christ, Joseph learned the truth in the vision above referred to. Later he
 said of them, "The Father has a body of flesh and bones as tangible as man's;
-the Son also. ..." ([D&amp;C 130:22](https://www.lds.org/scriptures/dc-
+the Son also. ..." ([D&amp;C 130:22](/scriptures/dc-
 testament/dc/130.22?lang=eng#21).)
 
 As to man's relationship to God, Joseph learned from a subsequent revelation
 that the inhabitants of "the worlds" (including those of us on this earth)
-"are begotten sons and daughters unto God." ([D&amp;C
-76:24](https://www.lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23).)
+"are begotten sons and daughters unto God." ([D&amp;C 76:24](/scriptures/dc-
+testament/dc/76.24?lang=eng#23).)
 
 These fundamental truths concerning God and man's relationship to him were not
 being taught by the churches of Joseph Smith's day, for the obvious reason
@@ -111,8 +107,7 @@ and said:
 "Upon you my fellow servants, in the name of Messiah, I confer the Priesthood
 of Aaron, which holds the keys of the ministering of angels, and of the gospel
 of repentance, and of baptism by immersion for the remission of sins. ..."
-([D&amp;C 13](https://www.lds.org/scriptures/dc-
-testament/dc/13.title?lang=eng).)
+([D&amp;C 13](/scriptures/dc-testament/dc/13?lang=eng).)
 
 A few weeks later Peter, James, and John conferred upon Joseph and Oliver the
 Melchizedek Priesthood and ordained them apostles. (See _Documentary History
@@ -128,14 +123,13 @@ Every member of Christ's church in the meridian of time received the gift of
 the Holy Ghost. The Holy Ghost is a revelator. To receive him is to be
 spiritually reborn. Remember, Jesus said to Nicodemus: "Except a man be born
 of water and of the Spirit, he cannot enter into the kingdom of God." ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4).)
+3:5](/scriptures/nt/john/3.5?lang=eng#4).)
 
 To receive the gift of the Holy Ghost is to be born of the Spirit. The Lord
 instructed the priesthood officers of The Church of Jesus Christ of Latter-day
 Saints "to confirm those who are baptized into the church, by the laying on of
 hands for the baptism of fire and the Holy Ghost, according to the
-scriptures." ([D&amp;C 20:41](https://www.lds.org/scriptures/dc-
-testament/dc/20.41?lang=eng#40).)
+scriptures." ([D&amp;C 20:41](/scriptures/dc-testament/dc/20.41?lang=eng#40).)
 
 The priesthood and the power of the Holy Ghost is what gives life to the
 Church and its members:
@@ -173,7 +167,7 @@ church, Jesus, as he ministered among them, said:
 in Moses' name then it be Moses' church; or if it be called in the name of a
 man then it be the church of a man; but if it be called in my name then it is
 my church, if it so be that they are built upon my gospel." ([3 Ne.
-27:8](https://www.lds.org/scriptures/bofm/3-ne/27.8?lang=eng#7).)
+27:8](/scriptures/bofm/3-ne/27.8?lang=eng#7).)
 
 This statement gives us the twofold test: Christ's church (1) must bear his
 name, and (2) must be built upon his gospel.
@@ -181,8 +175,7 @@ name, and (2) must be built upon his gospel.
 That there should be no uncertainty about the name in this last dispensation,
 the Lord said to Joseph Smith: "... thus shall my church be called in the last
 days, even _The Church of Jesus Christ of Latter-day Saints._" ([D&amp;C
-115:4](https://www.lds.org/scriptures/dc-testament/dc/115.4?lang=eng#3).
-Italics added.)
+115:4](/scriptures/dc-testament/dc/115.4?lang=eng#3). Italics added.)
 
 The phrase "Mormon Church" is a nickname.
 
@@ -218,8 +211,7 @@ power over his own dominion.
 
 "And also the Lord shall have power over his saints, and shall reign in their
 midst, and shall come down in judgment upon ... the world." ([D&amp;C 1:1-2,
-34-36](https://www.lds.org/scriptures/dc-
-testament/dc/1.1-2%2C34-36?lang=eng#0).)
+34-36](/scriptures/dc-testament/dc/1.1-2,34-36?lang=eng#0).)
 
 Today, more than 140 years since the foregoing words were spoken, peace has
 been taken from the earth. The devil now has power over his dominion, and the
@@ -230,9 +222,8 @@ Between now and then, however, if men and nations continue on their present
 course, great tribulation will come upon us. There shall be more "wars and
 rumors of wars, ... there shall be earthquakes also in divers places, and many
 [other] desolations. ... the whole earth shall be in commotion. ..." ([D&amp;C
-45:26, 33](https://www.lds.org/scriptures/dc-
-testament/dc/45.26%2C33?lang=eng#25).) Those are the words of the Lord
-himself.
+45:26, 33](/scriptures/dc-testament/dc/45.26,33?lang=eng#25).) Those are the
+words of the Lord himself.
 
 The Lord foresaw the coming of these calamities and gave warning of them. He
 restored his gospel and reestablished his church as a means of escape
@@ -254,7 +245,7 @@ inhabitants of the earth, called upon my servant Joseph Smith, Jun., and spake
 unto him from heaven, and gave him commandments;
 
 "And also gave commandments to others, that they should proclaim these things
-unto the world. ..." ([D&amp;C 1:15-18](https://www.lds.org/scriptures/dc-
+unto the world. ..." ([D&amp;C 1:15-18](/scriptures/dc-
 testament/dc/1.15-18?lang=eng#14).)
 
 The commandments to be proclaimed to the world are the principles and
@@ -264,13 +255,12 @@ our temporal as well as for our spiritual salvation.
 
 The restoration fulfills the prediction of Daniel that in the days of the
 disunited kingdoms "the God of heaven [would] set up a kingdom, which [would]
-never be destroyed. ..." ([Dan.
-2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43).)
+never be destroyed. ..." ([Dan. 2:44](/scriptures/ot/dan/2.44?lang=eng#43).)
 
 It fulfills Micah's prophecy that "in the last days ... the mountain of the
 house of the Lord shall be established in the top of the mountains, and it
 shall be exalted above the hills; and people shall flow unto it." ([Micah
-4:1](https://www.lds.org/scriptures/ot/micah/4.1?lang=eng#0).)
+4:1](/scriptures/ot/micah/4.1?lang=eng#0).)
 
 It is the fulfillment of John's vision in which he saw an "angel fly in the
 midst of heaven, having the everlasting gospel to preach unto them that dwell
@@ -278,11 +268,11 @@ on the earth, and to every nation, and kindred, and tongue, and people,
 
 "Saying with a loud voice, Fear God, and give glory to him; for the hour of
 his judgment is come. ..." ([Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5).)
+14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5).)
 
 Yes, verily, it is the "restitution of all things" which Peter said would come
 in preparation for the second advent of the Lord. (See [Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).)
+3:21](/scriptures/nt/acts/3.21?lang=eng#20).)
 
 And now, as a special witness of Jesus Christ, I add my personal testimony
 that all these things are true. And I bear further witness to all of you who
@@ -293,4 +283,6 @@ like assurance by the power of the Holy Ghost. In the name of Jesus Christ,
 our Lord.
 
 Amen.
+
+## References
 

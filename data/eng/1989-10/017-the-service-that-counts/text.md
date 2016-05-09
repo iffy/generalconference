@@ -17,8 +17,8 @@ interesting that the multitude "pitched their tents round about the temple,
 every man having his tent with the door thereof towards the temple, that
 thereby they might remain in their tents and hear the words which king
 Benjamin should speak unto them." ([Mosiah
-2:6](https://www.lds.org/scriptures/bofm/mosiah/2.6?lang=eng#5).) Even a high
-tower had to be erected that the people might hear his words.
+2:6](/scriptures/bofm/mosiah/2.6?lang=eng#5).) Even a high tower had to be
+erected that the people might hear his words.
 
 In the true humility of an inspired leader, King Benjamin recounted his desire
 to serve his people and lead them in paths of righteousness. He then declared
@@ -30,7 +30,7 @@ desire to boast, for I have only been in the service of God.
 "And behold, I tell you these things that ye may learn wisdom; that ye may
 learn that when ye are in the service of your fellow beings ye are only in the
 service of your God." ([Mosiah
-2:16-17](https://www.lds.org/scriptures/bofm/mosiah/2.16-17?lang=eng#15).)
+2:16-17](/scriptures/bofm/mosiah/2.16-17?lang=eng#15).)
 
 This is the service that counts, brethren--the service to which all of us have
 been called, the service of the Lord Jesus Christ.
@@ -45,13 +45,12 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 To all who go forth in His service, He provides this assurance: "I will go
 before your face. I will be on your right hand and on your left, and my Spirit
 shall be in your hearts, and mine angels round about you, to bear you up."
-([D&amp;C 84:88](https://www.lds.org/scriptures/dc-
-testament/dc/84.88?lang=eng#87).)
+([D&amp;C 84:88](/scriptures/dc-testament/dc/84.88?lang=eng#87).)
 
 Many assembled tonight have responsibility to provide leadership to those
 holding the Aaronic Priesthood. To you I say: The finest teaching you can
@@ -78,9 +77,8 @@ joy with him in the kingdom of my Father!
 
 "And now, if your joy will be great with one soul that you have brought unto
 me into the kingdom of my Father, how great will be your joy if you should
-bring many souls unto me!" ([D&amp;C 18:10-11,
-13-16](https://www.lds.org/scriptures/dc-
-testament/dc/18.10-11%2C13-16?lang=eng#9).)
+bring many souls unto me!" ([D&amp;C 18:10-11, 13-16](/scriptures/dc-
+testament/dc/18.10-11,13-16?lang=eng#9).)
 
 Some years ago while I was attending a priesthood leadership session of the
 Monument Park West Stake conference, this scripture became the theme for the
@@ -88,8 +86,8 @@ visitor from the Welfare Committee, my former stake president, Paul C. Child.
 In his accustomed style, Brother Child left the stand and began to walk down
 the aisle among the assembled priesthood brethren. He quoted the verse,
 "Remember the worth of souls is great in the sight of God." ([D&amp;C
-18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).) Then
-he asked the question, "Who can tell me the worth of a human soul?"
+18:10](/scriptures/dc-testament/dc/18.10?lang=eng#9).) Then he asked the
+question, "Who can tell me the worth of a human soul?"
 
 Every man in attendance began to think of an answer in the event Brother Child
 were to call on him. I had grown up under his leadership, and I knew he would
@@ -144,8 +142,7 @@ I reflected on my association with this lovely widow, now grown old but ever
 serving the Lord. There came to mind the words from the Epistle of James:
 "Pure religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself unspotted from
-the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+the world." ([James 1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 I add my own commendation: God bless the leaders, the young men, and the young
 women who so unselfishly brought such joy to the lonely and such peace to
@@ -316,9 +313,10 @@ hungred, and fed thee? or thirsty, and gave thee drink?
 
 "And the King shall answer and say unto them, Verily I say unto you, Inasmuch
 as ye have done it unto one of the least of these my brethren, ye have done it
-unto me." ([Matt.
-25:31-40](https://www.lds.org/scriptures/nt/matt/25.31-40?lang=eng#30).)
+unto me." ([Matt. 25:31-40](/scriptures/nt/matt/25.31-40?lang=eng#30).)
 
 That each of us may qualify for this blessing from our Lord is my prayer, in
 the name of Jesus Christ, amen.
+
+## References
 

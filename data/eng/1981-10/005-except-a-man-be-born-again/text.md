@@ -3,7 +3,7 @@
 In the seventeenth chapter of John, it is recorded that as Jesus prayed to the
 Father in behalf of his disciples, he said, "And this is life eternal, that
 they might know thee the only true God, and Jesus Christ, whom thou hast
-sent." ([John 17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+sent." ([John 17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 In his prayer Jesus made it perfectly clear that the eleven disciples knew him
 to be the Son of God. He had taught them who he was and that he had been sent
@@ -25,18 +25,17 @@ thee.
 "For I have given unto them the words which thou gavest me; and they have
 received them, and have known surely that I came out from thee, and they have
 believed that thou didst send me." ([John 17:1-2,
-6-8](https://www.lds.org/scriptures/nt/john/17.1-2%2C6-8?lang=eng#0).)
+6-8](/scriptures/nt/john/17.1-2,6-8?lang=eng#0).)
 
 By receiving the Savior's message and accepting him for what he was and is,
 the Apostles obtained eternal life.
 
 This knowledge of "the only true God, and Jesus Christ" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)) is the most
-important knowledge in the universe; it is the knowledge without which the
-Prophet Joseph Smith said no man could be saved. The lack of it is the
-ignorance referred to in the revelation wherein it is written: "It is
-impossible for a man to be saved in ignorance." ([D&amp;C
-131:6](https://www.lds.org/scriptures/dc-testament/dc/131.6?lang=eng#5).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2)) is the most important knowledge in
+the universe; it is the knowledge without which the Prophet Joseph Smith said
+no man could be saved. The lack of it is the ignorance referred to in the
+revelation wherein it is written: "It is impossible for a man to be saved in
+ignorance." ([D&amp;C 131:6](/scriptures/dc-testament/dc/131.6?lang=eng#5).)
 
 We should keep in mind that there is more than one source of knowledge. There
 is the knowledge obtainable through man's normal sensory organs. Such
@@ -77,7 +76,7 @@ Jesus by night, and said:
 
 "Rabbi, we know that thou art a teacher come from God: for no man can do these
 miracles that thou doest, except God be with him." ([John
-3:2](https://www.lds.org/scriptures/nt/john/3.2?lang=eng#1).)
+3:2](/scriptures/nt/john/3.2?lang=eng#1).)
 
 In this statement Nicodemus unwittingly but clearly revealed the fact that he
 did not know who Jesus was. All he could see in the Son of God was a great
@@ -87,7 +86,7 @@ miracles. Perceiving this, Jesus informed him that the knowledge of divine
 things could not be had through man's normal senses.
 
 "Except a man be born again, he cannot see the kingdom of God," said Jesus.
-([John 3:3](https://www.lds.org/scriptures/nt/john/3.3?lang=eng#2).)
+([John 3:3](/scriptures/nt/john/3.3?lang=eng#2).)
 
 Although Nicodemus was wise in the things of the world, he could not
 understand this simple statement of truth. As a matter of fact, his answer
@@ -95,21 +94,20 @@ revealed amazement:
 
 "How can a man be born when he is old?" he said. "Can he enter the second time
 into his mother's womb, and be born?" ([John
-3:4](https://www.lds.org/scriptures/nt/john/3.4?lang=eng#3).)
+3:4](/scriptures/nt/john/3.4?lang=eng#3).)
 
 Jesus, still persisting in his efforts to get him to understand, continued:
 "Except a man be born of water and of the Spirit, he cannot enter into the
-kingdom of God." ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4).) Here we have the
-Savior saying that the kingdom of God can neither be seen nor entered except
-one be born again.
+kingdom of God." ([John 3:5](/scriptures/nt/john/3.5?lang=eng#4).) Here we
+have the Savior saying that the kingdom of God can neither be seen nor entered
+except one be born again.
 
 But Nicodemus still could not understand. Jesus then stated the great law:
 "That which is born of the flesh is flesh." That is, that which we learn
 through our normal senses has to do with this earth. "And that which is born
 of the Spirit," he said, "is spirit." ([John
-3:6](https://www.lds.org/scriptures/nt/john/3.6?lang=eng#5).) The things that
-we learn through the process of inspiration are of God, of the Spirit.
+3:6](/scriptures/nt/john/3.6?lang=eng#5).) The things that we learn through
+the process of inspiration are of God, of the Spirit.
 
 Everyone who would know God the Eternal Father and Jesus Christ, whom he has
 sent, must receive such knowledge by the Spirit. Church members have, of
@@ -170,8 +168,8 @@ already have that knowledge. You know the way now. It is not a mass
 experience. It must come to each individually. It must come to you. It must
 come to those whom you teach. We must teach by the Spirit, "and if ye receive
 not the Spirit ye shall not teach," said the Savior. "The Spirit shall be
-given unto you by the prayer of faith." ([D&amp;C
-42:14](https://www.lds.org/scriptures/dc-testament/dc/42.14?lang=eng#13).)
+given unto you by the prayer of faith." ([D&amp;C 42:14](/scriptures/dc-
+testament/dc/42.14?lang=eng#13).)
 
 You who have been baptized have the right to it. Desire it. Pray for it. Work
 for it, and God will give it to you.
@@ -179,4 +177,6 @@ for it, and God will give it to you.
 That you may each receive that knowledge of God the Eternal Father and Jesus
 Christ whom he has sent, to know which is eternal life, I humbly pray, in the
 name of Jesus Christ, amen.
+
+## References
 

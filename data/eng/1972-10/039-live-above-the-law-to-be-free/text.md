@@ -5,13 +5,13 @@ the lead of Brother Hanks. I love them and they know it.
 
 The story of Joseph, the son of Jacob who was called Israel, is a vivid
 representation of the great truth that "all things work together for good to
-[those] who" love God. (See [Rom.
-8:28](https://www.lds.org/scriptures/nt/rom/8.28?lang=eng#27).) Joseph always
-seemed to do the right thing; but still, more importantly, he did it for the
-right reason. And how very, very significant that is! Joseph was sold by his
-own brothers as a slave and was purchased by Potiphar, a captain of the guard
-of Pharaoh. But even as an indentured servant, Joseph turned every experience
-and all circumstances, no matter how trying, into something good.
+[those] who" love God. (See [Rom. 8:28](/scriptures/nt/rom/8.28?lang=eng#27).)
+Joseph always seemed to do the right thing; but still, more importantly, he
+did it for the right reason. And how very, very significant that is! Joseph
+was sold by his own brothers as a slave and was purchased by Potiphar, a
+captain of the guard of Pharaoh. But even as an indentured servant, Joseph
+turned every experience and all circumstances, no matter how trying, into
+something good.
 
 This ability to turn everything into something good appears to be a godly
 characteristic. Our Heavenly Father always seems able to do this. Everything,
@@ -40,15 +40,14 @@ with her, saying:
 
 "There is none greater in this house than I; neither hath he kept back any
 thing from me but thee, because thou art his wife ..." ([Gen.
-39:8-9](https://www.lds.org/scriptures/ot/gen/39.8-9?lang=eng#7).)
+39:8-9](/scriptures/ot/gen/39.8-9?lang=eng#7).)
 
 Then, it would seem that he would have followed this declaration with a
 profession of loyalty to his master because of his appreciation of the trust
 that Potiphar had placed in him. But he did not; instead, his statement of why
 he could not submit to her demands revealed the real strength of this choice
 young man. He said: "... how then can I do this great wickedness, and sin
-against God?" ([Gen.
-39:9](https://www.lds.org/scriptures/ot/gen/39.9?lang=eng#8).) With this
+against God?" ([Gen. 39:9](/scriptures/ot/gen/39.9?lang=eng#8).) With this
 statement Joseph showed that he was determined to do the right thing, but do
 it for the right reason. That reason: because he loved the Lord.
 
@@ -62,9 +61,8 @@ you make a mistake, all is not lost. You can always be used as a bad example.
 
 Joseph vividly demonstrated why he was favored of the Lord, or, as the
 scriptures said, why "the Lord was with Joseph, and he was a prosperous man.
-..." ([Gen. 39:2](https://www.lds.org/scriptures/ot/gen/39.2?lang=eng#1).) His
-reliance was upon the Lord. His trust was in the Lord, and his allegiance ran
-to the Lord.
+..." ([Gen. 39:2](/scriptures/ot/gen/39.2?lang=eng#1).) His reliance was upon
+the Lord. His trust was in the Lord, and his allegiance ran to the Lord.
 
 I believe this is the greatest lesson that can be learned by the youth of Zion
 --to do the right thing because you love the Lord. It is so vitally important
@@ -100,7 +98,7 @@ about me.
 
 "Yea, the darkness hideth not from thee; but the night shineth as the day: the
 darkness and the light are both alike to thee." ([Ps.
-139:7-12](https://www.lds.org/scriptures/ot/ps/139.7-12?lang=eng#6).)
+139:7-12](/scriptures/ot/ps/139.7-12?lang=eng#6).)
 
 Whether walking on the moon, or probing the immensity and vastness of space,
 or in the depths of the sea, or in darkest Africa, or in Salt Lake City, he is
@@ -118,15 +116,15 @@ difficult situations by following Joseph's example. The scripture records that
 Joseph stoutly resisted the advances of Potiphar's wife, but one day as he
 went into the house "to do his business," it so happened that "there was none
 of the men of the house there within." ([Gen.
-39:11](https://www.lds.org/scriptures/ot/gen/39.11?lang=eng#10).)
+39:11](/scriptures/ot/gen/39.11?lang=eng#10).)
 
 Now, this is always a dangerous situation and should be avoided if at all
 possible. Potiphar's wife became particularly insistent, even to taking hold
 of his coat and attempting to draw him to her. But Joseph did the very best
 thing he could do under the circumstances. The scripture records, "... he left
 his garment in her hand, and fled, and got him out." ([Gen.
-39:12](https://www.lds.org/scriptures/ot/gen/39.12?lang=eng#11).) Or, in
-today's language--_he ran._
+39:12](/scriptures/ot/gen/39.12?lang=eng#11).) Or, in today's language--_he
+ran._
 
 Maybe that doesn't sound like a very sophisticated thing to do, but sometimes
 running is the only thing to do. This was such a time. I am sure that Joseph
@@ -162,28 +160,21 @@ We should studiously avoid placing ourselves in positions where we could be
 overcome by temptation. Paul's admonition that we avoid even the appearance of
 evil certainly represents an addition to the Lord's commandment, which is, to
 "forsake all evil" and "entangle not yourselves in sin." (See [D&amp;C
-98:11](https://www.lds.org/scriptures/dc-testament/dc/98.11?lang=eng#10);
-[D&amp;C 88:86](https://www.lds.org/scriptures/dc-
-testament/dc/88.86?lang=eng#85).) But if we follow Paul's admonition, we will
-find the Lord's commandment much easier to live.
+98:11](/scriptures/dc-testament/dc/98.11?lang=eng#10); [D&amp;C
+88:86](/scriptures/dc-testament/dc/88.86?lang=eng#85).) But if we follow
+Paul's admonition, we will find the Lord's commandment much easier to live.
 
 It is so important that young people who are unmarried erect barriers against
 temptation to help them avoid the compromising situations. May I suggest a few
 barriers.
 
-  1. Never go into a house alone with one of the opposite sex.
-
-  2. Never, never enter a bedroom alone with one of the opposite sex.
-
+  1. Never go into a house alone with one of the opposite sex. 
+  2. Never, never enter a bedroom alone with one of the opposite sex. 
   3. Do not neck or pet. Now, admittedly there is no place in the scriptures where the Lord has said, "Thou shalt not neck or pet." I know that, but he has said, "Thou shalt not commit adultery, or fornication, or anything like unto it."
-
-  4. Never park on a lonely road with just the two of you alone.
-
-  5. Do not read pornographic literature.
-
-  6. Do not attend R- or X-rated movies, and avoid drive-ins.
-
-  7. Do not spend time in drinking or gambling establishments.
+  4. Never park on a lonely road with just the two of you alone. 
+  5. Do not read pornographic literature. 
+  6. Do not attend R- or X-rated movies, and avoid drive-ins. 
+  7. Do not spend time in drinking or gambling establishments. 
 
 Admittedly, these are just a few personal commandments that you might adopt.
 You should make up your own special and specific list of commandments, such
@@ -206,19 +197,21 @@ today if they will but walk uprightly before him and keep his commandments and
 thus qualify for his blessings. As it is written, "Eye hath not seen, nor ear
 heard, neither have entered into the heart of man, the things which God hath
 prepared for them that love him." ([1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8).) Such blessings
-come only through obedience to his commandments.
+2:9](/scriptures/nt/1-cor/2.9?lang=eng#8).) Such blessings come only through
+obedience to his commandments.
 
 "There is a law, irrevocably decreed in heaven before the foundations of this
 world, upon which all blessings are predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19).)
+which it is predicated." ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19).)
 
 Again, he has said, "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 I pray that we may walk in righteousness because we love the Lord, for surely
 this _is_ the right reason. In the name of Jesus Christ. Amen.
+
+## References
 

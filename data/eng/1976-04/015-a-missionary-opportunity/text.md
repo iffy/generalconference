@@ -56,19 +56,20 @@ take an active role again in missionary work.
 
 Perhaps I can conclude by making reference to something that Nephi said. He
 said: "My soul delighteth in the scriptures." ([2 Ne.
-4:15](https://www.lds.org/scriptures/bofm/2-ne/4.15?lang=eng#14).) Mine does.
-He said: "My soul delighteth in proving unto my people the truth of the coming
-of Christ." My soul delights in that also. He said: "My soul delighteth in the
-covenants of the Lord which he hath made to our fathers; yea, my soul
-delighteth in his grace, and in his justice, and power, and mercy in the great
-and eternal plan of deliverance from death." My soul delights in that too. And
-he said: "My soul delighteth in proving unto my people that save Christ should
-come all men must perish." ([2 Ne.
-11:4-6](https://www.lds.org/scriptures/bofm/2-ne/11.4-6?lang=eng#3).) I know
-this to be fact.
+4:15](/scriptures/bofm/2-ne/4.15?lang=eng#14).) Mine does. He said: "My soul
+delighteth in proving unto my people the truth of the coming of Christ." My
+soul delights in that also. He said: "My soul delighteth in the covenants of
+the Lord which he hath made to our fathers; yea, my soul delighteth in his
+grace, and in his justice, and power, and mercy in the great and eternal plan
+of deliverance from death." My soul delights in that too. And he said: "My
+soul delighteth in proving unto my people that save Christ should come all men
+must perish." ([2 Ne. 11:4-6](/scriptures/bofm/2-ne/11.4-6?lang=eng#3).) I
+know this to be fact.
 
 I pray the Lord will bless me and make me capable and equal to the task ahead,
 that he will be patient with me and forgiving of all my sins and shortcomings.
 I sustain the prophet; I sustain the Brethren. I am humbled with the prospects
 of working with them. In the name of Jesus Christ. Amen.
+
+## References
 

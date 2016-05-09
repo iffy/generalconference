@@ -28,7 +28,7 @@ life might be. Now with this broadening, my brothers and sisters, of the base
 of my understanding, I came to realize that the most important business of
 this life is to prepare for eternal life, which, as the Lord has said, is the
 greatest of all of God's gifts to his children. (See [D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).)
+14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).)
 
 Let me share with you some of the words of the Nephite prophet Alma on this
 matter:
@@ -41,23 +41,21 @@ therefore, I beseech of you that ye do not procrastinate the day of your
 repentance until the end; for after this day of life, which is given us to
 prepare for eternity, behold, if we do not improve our time while in this
 life, then cometh the night of darkness wherein there can be no labor
-performed." ([Alma
-34:32-33](https://www.lds.org/scriptures/bofm/alma/34.32-33?lang=eng#31).)
+performed." ([Alma 34:32-33](/scriptures/bofm/alma/34.32-33?lang=eng#31).)
 
 "And we see that death comes upon mankind, yea, the death which has been
 spoken of by Amulek, which is the temporal death; nevertheless there was a
 space granted unto man in which he might repent; therefore this life became a
 probationary state; a time to prepare to meet God; a time to prepare for that
 endless state which has been spoken of by us, which is after the resurrection
-of the dead." ([Alma
-12:24](https://www.lds.org/scriptures/bofm/alma/12.24?lang=eng#23).)
+of the dead." ([Alma 12:24](/scriptures/bofm/alma/12.24?lang=eng#23).)
 
 Now, the Book of Mormon contains some comments and some very significant
 predictions of the prophet Nephi relative to conditions that will exist in
 these the latter days. Let me share some of his statements with respect
 thereto. Nephi said: "There shall be many which shall teach ... false and vain
 and foolish doctrines ... and their works shall be in the dark." ([2 Ne.
-28:9](https://www.lds.org/scriptures/bofm/2-ne/28.9?lang=eng#8).)
+28:9](/scriptures/bofm/2-ne/28.9?lang=eng#8).)
 
 He also said that in these latter days Satan would "rage in the hearts of ...
 men, and stir them up to anger against that which is good.
@@ -68,7 +66,7 @@ them away carefully down to hell.
 "Others he flattereth away, and telleth them there is no hell ... [and] no
 devil, ... and thus he whispereth in their ears, until he grasps them with his
 awful chains, from which there is no deliverance." ([2 Ne.
-28:20-22](https://www.lds.org/scriptures/bofm/2-ne/28.20-22?lang=eng#19).)
+28:20-22](/scriptures/bofm/2-ne/28.20-22?lang=eng#19).)
 
 I should like to emphasize, my brothers and sisters, that those words of Nephi
 apply to some members of our Church today and not just to some individuals who
@@ -111,7 +109,7 @@ is in keeping with the gospel of Jesus Christ.
 No one can begin to serve the Lord too early. Alma, in counseling his son
 Helaman, said this: "O, remember, my son, and learn wisdom in thy youth; yea,
 learn in thy youth to keep the commandments of God." ([Alma
-37:35](https://www.lds.org/scriptures/bofm/alma/37.35?lang=eng#34).)
+37:35](/scriptures/bofm/alma/37.35?lang=eng#34).)
 
 Hans Christian Andersen, a great story writer, said this: "Time is so fleeting
 that if we do not remember God in our youth, age may find us incapable of
@@ -136,10 +134,10 @@ Some individuals seem to feel that there is no need for haste in the
 observance of gospel principles and in keeping the commandments. However,
 those who refuse to serve the Lord early are forsaken in their hour of
 trouble. In the Doctrine and Covenants, section 101, verse 7, [[D&amp;C
-101:7](https://www.lds.org/scriptures/dc-testament/dc/101.7?lang=eng#6)] we
-read the following: "They were slow to hearken unto the voice of the Lord
-their God; therefore, the Lord their God is slow to hearken unto their
-prayers, to answer them in the day of their trouble."
+101:7](/scriptures/dc-testament/dc/101.7?lang=eng#6)] we read the following:
+"They were slow to hearken unto the voice of the Lord their God; therefore,
+the Lord their God is slow to hearken unto their prayers, to answer them in
+the day of their trouble."
 
 Let me conclude, my brothers and sisters, by emphasizing that no matter who we
 are, no matter what our age or circumstances may be, we all have the same
@@ -187,4 +185,6 @@ is to be lived. It is my humble prayer that all of us will rededicate
 ourselves to doing the kind of job we are capable of doing in attaining the
 joy and happiness in eternity that are there for us if we will just do our
 part. And this I do in the name of Jesus Christ. Amen.
+
+## References
 

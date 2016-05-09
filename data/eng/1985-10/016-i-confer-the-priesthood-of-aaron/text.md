@@ -76,7 +76,7 @@ king took those "children in whom was no blemish, but well favoured, and
 skilful in all wisdom, and cunning in knowledge, and understanding science,
 and such as had ability in them to stand in the king's palace, and whom they
 might teach the learning and the tongue of the Chaldeans." ([Dan.
-1:4](https://www.lds.org/scriptures/ot/dan/1.4?lang=eng#3).)
+1:4](/scriptures/ot/dan/1.4?lang=eng#3).)
 
 Daniel was one of those who was taken back to the palace as a slave of
 Nebuchadnezzar, to be trained in the king's ways in order that Nebuchadnezzar
@@ -103,7 +103,7 @@ then eat the king's portion of meat and drink the wine.
 
 Of course, because Daniel followed the Lord's way, at the end of the tenth day
 he was the strongest of all who were taken before the king. (See [Dan.
-1](https://www.lds.org/scriptures/ot/dan/1.title?lang=eng).)
+1](/scriptures/ot/dan/1?lang=eng).)
 
 Terry, many times in your life you will be tested, tried, and tempted to use
 things that you have been taught are not good for your body. You may be
@@ -116,15 +116,13 @@ His blessings. He has promised us that "all saints who remember to keep and do
 these sayings, walking in obedience to the commandments, shall receive health,
 ... wisdom and great treasures of knowledge, even hidden treasures; And shall
 run and not be weary, and shall walk and not faint." ([D&amp;C
-89:18-20](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-20?lang=eng#17).) Daniel passed the first test and was
-blessed by the Lord.
+89:18-20](/scriptures/dc-testament/dc/89.18-20?lang=eng#17).) Daniel passed
+the first test and was blessed by the Lord.
 
 At the end of the three-year training period, these young men were brought
 before the king to be judged. Daniel had not wasted his time and had studied
 hard. His efforts had blessed him with "knowledge and skill in all learning
-and wisdom." ([Dan.
-1:17](https://www.lds.org/scriptures/ot/dan/1.17?lang=eng#16).) He was now
+and wisdom." ([Dan. 1:17](/scriptures/ot/dan/1.17?lang=eng#16).) He was now
 prepared for the test to be given him by the king.
 
 As the king met with them, he found none to be like Daniel. In all matters of
@@ -162,7 +160,7 @@ When not one of all the noble and wise men present could interpret the
 writings on the wall, they sent for Daniel who, of course, with the power of
 the Lord, could interpret what was written there. Daniel let the king know
 that the Lord's displeasure with him was so great that his life would be
-taken. (See [Dan. 5](https://www.lds.org/scriptures/ot/dan/5.title?lang=eng).)
+taken. (See [Dan. 5](/scriptures/ot/dan/5?lang=eng).)
 
 This story has always been interesting to me because those at the party had to
 send for Daniel. Even though he was one of the most prestigious of all the
@@ -180,8 +178,7 @@ surely as liquor and drugs can intoxicate and destroy your body.
 Have the courage to turn off unfit television programs, and stay away from
 movies and videotapes that would fill your mind with thoughts of evil and
 violence. Remember, the scripture has said, "For as [a man] thinketh in his
-heart, so is he." ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6).)
+heart, so is he." ([Prov. 23:7](/scriptures/ot/prov/23.7?lang=eng#6).)
 
 The fourth challenge which came to Daniel was far, far more important to him
 than life itself. The king had selected 120 princes to preside over his entire
@@ -213,7 +210,7 @@ Daniel's God had protected him from the lions. His joy was exceedingly great
 when he found Daniel had been protected by the Lord and was alive and
 unharmed. The king was in awe over this great miracle and declared that
 Daniel's God was the living God and steadfast forever. (See [Dan.
-6](https://www.lds.org/scriptures/ot/dan/6.title?lang=eng).)
+6](/scriptures/ot/dan/6?lang=eng).)
 
 Terry, this story of Daniel teaches us of the great blessings in store for
 those who place their trust in the Lord, even the protection of life itself.
@@ -232,4 +229,6 @@ have a direct testimony of its power. It has blessed my life in so many ways.
 
 We love you and ask the Lord's blessings to continually be with you. I bear
 witness of His work, in the name of Jesus Christ, amen.
+
+## References
 

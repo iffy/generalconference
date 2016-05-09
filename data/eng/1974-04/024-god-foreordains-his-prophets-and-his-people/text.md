@@ -26,8 +26,8 @@ and faith.
 
 "'For thus saith the Lord God: Him have I inspired to move the cause of Zion
 in mighty power for good, and his diligence I know, and his prayers I have
-heard.'" ([D&amp;C 21:4-5, 7](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-5%2C7?lang=eng#3).)
+heard.'" ([D&amp;C 21:4-5, 7](/scriptures/dc-
+testament/dc/21.4-5,7?lang=eng#3).)
 
 It seems easy to believe in the prophets who have passed on and to suppose
 that we believe and follow the counsel they gave under different circumstances
@@ -121,11 +121,11 @@ foreordination.
 Abraham, our father, who also was present in this council, was privileged to
 see in vision the hosts of preexistent spirits. "Among all these," he said, "...
 were many of the noble and great ones," whom he described as being "good."
-([Abr. 3:22](https://www.lds.org/scriptures/pgp/abr/3.22?lang=eng#21).)
-Abraham saw that God the Eternal Father "stood in the midst" of those mighty
-ones and said, "These I will make my rulers; ... and he said unto me: Abraham,
-thou art one of them; thou wast chosen before thou wast born." ([Abr.
-3:23](https://www.lds.org/scriptures/pgp/abr/3.23?lang=eng#22).)
+([Abr. 3:22](/scriptures/pgp/abr/3.22?lang=eng#21).) Abraham saw that God the
+Eternal Father "stood in the midst" of those mighty ones and said, "These I
+will make my rulers; ... and he said unto me: Abraham, thou art one of them;
+thou wast chosen before thou wast born." ([Abr.
+3:23](/scriptures/pgp/abr/3.23?lang=eng#22).)
 
 And as with Abraham, so with all the prophets, and for that matter so, to one
 degree or another, with the whole house of Israel and with all the members of
@@ -135,31 +135,29 @@ foreordination.
 To Jeremiah the Lord said: "Before I formed thee in the belly I knew thee; and
 before thou camest forth out of the womb I sanctified thee, and I ordained
 thee a prophet unto the nations." ([Jer.
-1:5](https://www.lds.org/scriptures/ot/jer/1.5?lang=eng#4).)
+1:5](/scriptures/ot/jer/1.5?lang=eng#4).)
 
 All those who receive the Melchizedek Priesthood in this life were, as Alma
 teaches, "called and prepared from the foundation of the world according to
 the foreknowledge of God," because they were among the noble and great in that
-premortal sphere. ([Alma
-13:3](https://www.lds.org/scriptures/bofm/alma/13.3?lang=eng#2).)
+premortal sphere. ([Alma 13:3](/scriptures/bofm/alma/13.3?lang=eng#2).)
 
 And Paul says that through this law of foreordination, which he calls the
 doctrine of election, there came to the whole house of Israel "the adoption,
 and the glory, and the covenants, and the giving of the law, and the service
-of God, and the promises." ([Rom.
-9:4](https://www.lds.org/scriptures/nt/rom/9.4?lang=eng#3).) He says that the
-faithful members of the Church, those "that love God" and "are called
-according to his purpose," are foreordained "to be conformed to the image of
-his Son," to be "joint-heirs with Christ," and to have eternal life in our
-Father's kingdom. ([Rom. 8:17,
-28](https://www.lds.org/scriptures/nt/rom/8.17%2C28?lang=eng#16).)
+of God, and the promises." ([Rom. 9:4](/scriptures/nt/rom/9.4?lang=eng#3).) He
+says that the faithful members of the Church, those "that love God" and "are
+called according to his purpose," are foreordained "to be conformed to the
+image of his Son," to be "joint-heirs with Christ," and to have eternal life
+in our Father's kingdom. ([Rom. 8:17,
+28](/scriptures/nt/rom/8.17,28?lang=eng#16).)
 
 He says also of members of the Church that God "hath chosen us in him before
 the foundation of the world, that we should be holy and without blame before
 him in love," and that we were foreordained to become the children of Jesus
 Christ by adoption, thus gaining a "forgiveness of sins" in this life and an
 inheritance of eternal glory in the life to come. ([Eph.
-1:7](https://www.lds.org/scriptures/nt/eph/1.7?lang=eng#6).)
+1:7](/scriptures/nt/eph/1.7?lang=eng#6).)
 
 Our revelations, ancient and modern, abound in pronouncements relative to the
 law of foreordination, both as it applies to specific individuals called
@@ -172,18 +170,18 @@ Christ himself is the great prototype of all foreordained prophets. He was
 chosen in the councils of eternity to be the Savior and Redeemer. Of him Peter
 said he was "a lamb without blemish and without spot: Who verily was
 foreordained before the foundation of the world" ([1 Pet.
-1:19-20](https://www.lds.org/scriptures/nt/1-pet/1.19-20?lang=eng#18)), as the
-one who should come in the meridian of time to work out the infinite and
-eternal atonement. For 4,000 years all the prophets testified of his coming
-and proclaimed his goodness and grace.
+1:19-20](/scriptures/nt/1-pet/1.19-20?lang=eng#18)), as the one who should
+come in the meridian of time to work out the infinite and eternal atonement.
+For 4,000 years all the prophets testified of his coming and proclaimed his
+goodness and grace.
 
 Mary, the mother of our Lord "after the manner of the flesh" ([1 Ne.
-11:18](https://www.lds.org/scriptures/bofm/1-ne/11.18?lang=eng#17)); Moses,
-the greatest prophet ever to minister in Israel; John the Revelator, whose
-mission it was to see the visions of the end of the world; and Joseph Smith,
-the prophet and seer of the restoration, were all designated by name hundreds
-or thousands of years before their mortal ministries, because their
-foreordained work was known and envisioned in advance.
+11:18](/scriptures/bofm/1-ne/11.18?lang=eng#17)); Moses, the greatest prophet
+ever to minister in Israel; John the Revelator, whose mission it was to see
+the visions of the end of the world; and Joseph Smith, the prophet and seer of
+the restoration, were all designated by name hundreds or thousands of years
+before their mortal ministries, because their foreordained work was known and
+envisioned in advance.
 
 The work to be done by John the Baptist, by the ancient Twelve, by Columbus,
 by the signers of the Declaration of Independence, and by the framers of the
@@ -208,10 +206,10 @@ talent for spirituality--the talent to believe and accept the truth, the
 talent to desire righteousness.
 
 He knew and worshiped the Lord Jehovah, who was "like unto God." ([Abr.
-3:24](https://www.lds.org/scriptures/pgp/abr/3.24?lang=eng#23).) He was a
-friend of Adam and Enoch. He took counsel from Noah and Abraham. He sat in
-meetings with Isaiah and Nephi. He served in the heavenly kingdom with Joseph
-Smith and Brigham Young.
+3:24](/scriptures/pgp/abr/3.24?lang=eng#23).) He was a friend of Adam and
+Enoch. He took counsel from Noah and Abraham. He sat in meetings with Isaiah
+and Nephi. He served in the heavenly kingdom with Joseph Smith and Brigham
+Young.
 
 Preexistence is not some remote and mysterious place. All of us are but a few
 years removed from the Eternal Presence, from him whose children we are and in
@@ -238,7 +236,7 @@ God, and stopped the mouths of lions, and quenched the violence of fire."
 (JST, Gen. 14:26.) Cain, on the other hand, like Lucifer, was a liar from the
 beginning and was told in this life: "... thou shalt be called Perdition; for
 thou wast also before the world." ([Moses
-5:24](https://www.lds.org/scriptures/pgp/moses/5.24?lang=eng#23).)
+5:24](/scriptures/pgp/moses/5.24?lang=eng#23).)
 
 Now this is the doctrine of foreordination; this is the doctrine of election.
 This is the reason why the Lord has a chosen and favored and peculiar people
@@ -246,7 +244,7 @@ on earth; and this is the reason he said: "My sheep hear my voice, and I know
 them, and they follow me:
 
 "And I give unto them eternal life. ..." ([John
-10:27-28](https://www.lds.org/scriptures/nt/john/10.27-28?lang=eng#26).)
+10:27-28](/scriptures/nt/john/10.27-28?lang=eng#26).)
 
 A knowledge of these wondrous truths places upon us a greater burden than
 rests upon any other people to follow Christ--to take his yoke upon us, to
@@ -268,4 +266,6 @@ his prophet!
 God be thanked that he has poured out his Spirit upon us so that we know of
 the truth and divinity of the great latter-day work, and to its eternal verity
 I testify in the name of the Lord Jesus Christ. Amen.
+
+## References
 

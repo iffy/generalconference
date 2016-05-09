@@ -6,21 +6,19 @@ morning and walked to the Garden Tomb. To our great delight, we were alone in
 the garden. A feeling of awesome reverence filled our hearts. We gazed at the
 hill Golgotha, the place of the skull. We could imagine the three crosses
 there and the sign "This is Jesus--the King of the Jews" over the agonized
-figure of Christ. (See [Matt.
-27:37](https://www.lds.org/scriptures/nt/matt/27.37?lang=eng#36).) The thought
-comes, "Are we worth all his suffering for us?"
+figure of Christ. (See [Matt. 27:37](/scriptures/nt/matt/27.37?lang=eng#36).)
+The thought comes, "Are we worth all his suffering for us?"
 
 Then we turned to the tomb--historically the property of Joseph of Arimathaea.
 Here Joseph and Nicodemus placed him, assisted by the women. His disciples had
 left him. The stone was rolled to cover the door, and everyone departed--all
 but Mary Magdalene and the other Mary. (See [Matt.
-27:60-61](https://www.lds.org/scriptures/nt/matt/27.60-61?lang=eng#59).) They
-sat huddled next to the sepulcher. Then a watch was placed at the tomb.
+27:60-61](/scriptures/nt/matt/27.60-61?lang=eng#59).) They sat huddled next to
+the sepulcher. Then a watch was placed at the tomb.
 
 We are told there was great destruction in Jerusalem; the veil of the temple
-was "rent in twain." ([Matt.
-27:51](https://www.lds.org/scriptures/nt/matt/27.51?lang=eng#50).) The
-destruction was much greater, however, on this continent. There were great
+was "rent in twain." ([Matt. 27:51](/scriptures/nt/matt/27.51?lang=eng#50).)
+The destruction was much greater, however, on this continent. There were great
 convulsions of the earth. In three hours cities were destroyed, some buried,
 some burnt. Mountains appeared where cities had been. There was storm, then
 tempest, and a great dense darkness covered the entire land. At the conclusion
@@ -35,7 +33,7 @@ glorified his name.
 
 "I came unto my own, and my own received me not. And the scriptures concerning
 my coming are fulfilled." ([3 Ne.
-9:15-16](https://www.lds.org/scriptures/bofm/3-ne/9.15-16?lang=eng#14).)
+9:15-16](/scriptures/bofm/3-ne/9.15-16?lang=eng#14).)
 
 He told them the destruction had been because of their wickedness, and that
 only the more righteous had been spared. Possibly preparing them for his visit
@@ -47,23 +45,22 @@ your burnt offerings shall be done away, for I will accept none of your
 sacrifices and your burnt offerings.
 
 "And ye shall offer for a sacrifice unto me a broken heart and a contrite
-spirit. ..." ([3 Ne.
-9:19-20](https://www.lds.org/scriptures/bofm/3-ne/9.19-20?lang=eng#18).)
+spirit. ..." ([3 Ne. 9:19-20](/scriptures/bofm/3-ne/9.19-20?lang=eng#18).)
 
 On two separate occasions during his ministry he had said, "... I will have
 mercy, and not sacrifice. ..." ([Matt.
-9:13](https://www.lds.org/scriptures/nt/matt/9.13?lang=eng#12) and [Matt.
-12:7](https://www.lds.org/scriptures/nt/matt/12.7?lang=eng#6).)
+9:13](/scriptures/nt/matt/9.13?lang=eng#12) and [Matt.
+12:7](/scriptures/nt/matt/12.7?lang=eng#6).)
 
 Another main activity, while his body lay in the tomb, was to visit the
 spirits of those who had died. He said on one occasion, "Verily, verily, I say
 unto you, The hour is coming, and now is, when the dead shall hear the voice
 of the Son of God: and they that hear shall live." ([John
-5:25](https://www.lds.org/scriptures/nt/john/5.25?lang=eng#24).)
+5:25](/scriptures/nt/john/5.25?lang=eng#24).)
 
 While on the cross, to the condemned, believing thief, he said, "... Verily I
 say unto thee, To day shalt thou be with me in paradise." ([Luke
-23:43](https://www.lds.org/scriptures/nt/luke/23.43?lang=eng#42).)
+23:43](/scriptures/nt/luke/23.43?lang=eng#42).)
 
 Peter tells us, "For Christ also hath once suffered for sins, the just for the
 unjust, that he might bring us to God, being put to death in the flesh, but
@@ -74,7 +71,7 @@ quickened by the Spirit:
 "Which sometime were disobedient, when once the long-suffering of God waited
 in the days of Noah, while the ark was a preparing, wherein few, that is,
 eight souls were saved by water." ([1 Pet.
-3:18-20](https://www.lds.org/scriptures/nt/1-pet/3.18-20?lang=eng#17).)
+3:18-20](/scriptures/nt/1-pet/3.18-20?lang=eng#17).)
 
 This is a great principle of the gospel. This gives all mankind an opportunity
 to hear and receive the gospel, and to make further progress after death.
@@ -82,7 +79,7 @@ to hear and receive the gospel, and to make further progress after death.
 Peter also tells us that, "for this cause was the gospel preached also to them
 that are dead, that they might be judged according to men in the flesh, but
 live according to God in the spirit." ([1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5).)
+4:6](/scriptures/nt/1-pet/4.6?lang=eng#5).)
 
 So two great and marvelous things transpired while the body of Christ lay in
 the tomb. One, his voice was heard by the people on this continent preaching
@@ -107,7 +104,7 @@ arrived first, looked into the tomb, but did not enter until after Peter had
 entered. The body was gone, but the linens were there, neatly folded. John and
 Peter then returned to their home. "For as yet they knew not the scripture,
 that he must rise again from the dead." ([John
-20:9](https://www.lds.org/scriptures/nt/john/20.9?lang=eng#8).)
+20:9](/scriptures/nt/john/20.9?lang=eng#8).)
 
 "But Mary stood without at the sepulchre weeping: and as she wept, she stooped
 down, and looked into the sepulchre,
@@ -130,12 +127,12 @@ turned herself, and saith unto him, Rabboni; which is to say, Master.
 "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father:
 but go to my brethren, and say unto them, I ascend unto my Father, and your
 Father; and to my God, and your God." ([John
-20:11-17](https://www.lds.org/scriptures/nt/john/20.11-17?lang=eng#10).)
+20:11-17](/scriptures/nt/john/20.11-17?lang=eng#10).)
 
 The other women who had come to the sepulcher had been told by the angel to go
 tell the disciples that He had risen. Jesus met them on their way, "saying,
 All hail. And they came and held him by the feet, and worshipped him." ([Matt.
-28:9](https://www.lds.org/scriptures/nt/matt/28.9?lang=eng#8).)
+28:9](/scriptures/nt/matt/28.9?lang=eng#8).)
 
 They, too, were instructed to go tell his brethren.
 
@@ -144,7 +141,7 @@ himself. Later he appeared to all the disciples including Thomas.
 
 "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed:
 blessed are they that have not seen, and yet have believed." ([John
-20:29](https://www.lds.org/scriptures/nt/john/20.29?lang=eng#28).)
+20:29](/scriptures/nt/john/20.29?lang=eng#28).)
 
 He not only appeared to his disciples on several occasions and to 500 in
 Galilee, he also appeared to those on _this_ continent. The Book of Mormon
@@ -154,12 +151,11 @@ As we wandered in the garden, Jeanne and I were alone. We walked into the
 tomb. There we witnessed a spirit of peace, as he had said, "Peace I leave
 with you, my peace I give unto you: not as the world giveth, give I unto you.
 Let not your heart be troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 We received a witness there, and then, as he said to Martha, "... I am the
 resurrection, and the life: he that believeth in me, though he were dead, yet
-shall he live." ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24).)
+shall he live." ([John 11:25](/scriptures/nt/john/11.25?lang=eng#24).)
 
 Through his resurrection, eternal progress for all mankind has been made
 possible. He opened the way that we may go on and on and on forever.
@@ -175,4 +171,6 @@ for his coming in glory to reign upon the earth.
 May God give us knowledge and understanding to know his will and give us the
 desire and strength to abide by his teachings, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

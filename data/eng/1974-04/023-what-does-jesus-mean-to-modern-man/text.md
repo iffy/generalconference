@@ -13,8 +13,7 @@ to raise my hand and sustain President Spencer W. Kimball as the mouthpiece of
 God on earth and as the presiding high priest over the priesthood of the
 Church. The Lord says that he is "to be like unto Moses-- ... a seer, a
 revelator, a translator, and a prophet, having all the gifts of God which he
-bestows upon the head of the church." ([D&amp;C
-107:91-92](https://www.lds.org/scriptures/dc-
+bestows upon the head of the church." ([D&amp;C 107:91-92](/scriptures/dc-
 testament/dc/107.91-92?lang=eng#90).)
 
 I know that he has been prepared and raised up at this particular time, and I
@@ -36,7 +35,7 @@ Some will think of Jesus as a prophet; some will think of him as a teacher;
 some will think of him as just an ordinary man. Unfortunately, not many will
 think of him as our Savior and Redeemer, and fewer still will believe the
 Father's words, "... This is my beloved Son, in whom I am well pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 What does Jesus mean to you and to me?
 
@@ -55,41 +54,39 @@ Jesus. What did Jesus mean to the ancient apostles? What did he mean to Peter?
 Mark, writing of the events on the morning of the resurrection, states that
 Mary Magdalene and Mary the mother of James were directed by the young man
 they encountered as they entered the sepulcher, "Go ... tell his disciples and
-Peter. ..." ([Mark
-16:7](https://www.lds.org/scriptures/nt/mark/16.7?lang=eng#6).) They were
+Peter. ..." ([Mark 16:7](/scriptures/nt/mark/16.7?lang=eng#6).) They were
 directed specifically to inform Peter. Peter and John hurried to the
 sepulcher. Peter entered, saw the neatly folded linen cloths and the
 handkerchief that had been about his head. Peter was now a personal witness of
 this great event.
 
 On the day of Pentecost, Peter witnessed the "rushing [of the] mighty wind"
-([Acts 2:2](https://www.lds.org/scriptures/nt/acts/2.2?lang=eng#1)) and the
-pouring out of the Holy Ghost. He preached of the glorious gospel and
-testified of Jesus of Nazareth. People were pricked in their hearts and asked,
-"... Men and brethren, what shall we do?" ([Acts
-2:37](https://www.lds.org/scriptures/nt/acts/2.37?lang=eng#36).) And Peter,
-with that newly developed depth of conviction, replied, "... Repent, and be
-baptized every one of you in the name of Jesus Christ for the remission of
+([Acts 2:2](/scriptures/nt/acts/2.2?lang=eng#1)) and the pouring out of the
+Holy Ghost. He preached of the glorious gospel and testified of Jesus of
+Nazareth. People were pricked in their hearts and asked, "... Men and brethren,
+what shall we do?" ([Acts 2:37](/scriptures/nt/acts/2.37?lang=eng#36).) And
+Peter, with that newly developed depth of conviction, replied, "... Repent, and
+be baptized every one of you in the name of Jesus Christ for the remission of
 sins, and ye shall receive the gift of the Holy Ghost." ([Acts
-2:38](https://www.lds.org/scriptures/nt/acts/2.38?lang=eng#37).) Three
-thousand souls believed and were baptized. They felt of the spirit and power
-of our Lord's senior apostle. Could we ever doubt what Jesus meant to Peter?
+2:38](/scriptures/nt/acts/2.38?lang=eng#37).) Three thousand souls believed
+and were baptized. They felt of the spirit and power of our Lord's senior
+apostle. Could we ever doubt what Jesus meant to Peter?
 
 I am always strengthened by the fervor and magnitude of John's conviction.
 There was never any doubt. He testified, "In the beginning was the Word, and
 the Word was with God, and the Word was God. All things were made by him. ... In
 him was life; and the life was the light of men. And the light shineth in
 darkness; and the darkness comprehended it not." ([John 1:1,
-3-5](https://www.lds.org/scriptures/nt/john/1.1%2C3-5?lang=eng#0).)
+3-5](/scriptures/nt/john/1.1,3-5?lang=eng#0).)
 
 The apostle Paul knew, understood, and testified of Jesus. The manifestation
 to Paul on the road to Damascus changed the course of his life as indicated by
 his own words: "... Lord, what wilt thou have me to do? ..." ([Acts
-9:6](https://www.lds.org/scriptures/nt/acts/9.6?lang=eng#5).) And later
-testifying to the Corinthian saints he said, "... Christ died for our sins ... was
-buried ... rose again the third day ... was seen of above five hundred. ... And last
-of all he was seen of me also. ..." ([1 Cor. 15:3-4, 6,
-8](https://www.lds.org/scriptures/nt/1-cor/15.3-4%2C6%2C8?lang=eng#2).)
+9:6](/scriptures/nt/acts/9.6?lang=eng#5).) And later testifying to the
+Corinthian saints he said, "... Christ died for our sins ... was buried ... rose
+again the third day ... was seen of above five hundred. ... And last of all he was
+seen of me also. ..." ([1 Cor. 15:3-4, 6,
+8](/scriptures/nt/1-cor/15.3-4,6,8?lang=eng#2).)
 
 It may be beyond our own comprehension to realize what Jesus meant to Nephi
 when the resurrected Christ appeared on the western continent, saying,
@@ -109,9 +106,8 @@ his side, and did feel the prints of the nails in his hands and in his feet; ...
 "And when they had all gone forth and had witnessed for themselves, they did
 cry out with one accord, saying: Hosanna! Blessed be the name of the Most High
 God! And they did fall down at the feet of Jesus, and did worship him." ([3
-Ne. 11:10-11,
-14-17](https://www.lds.org/scriptures/bofm/3-ne/11.10-11%2C14-17?lang=eng#9).)
-They had been in his presence and they could testify.
+Ne. 11:10-11, 14-17](/scriptures/bofm/3-ne/11.10-11,14-17?lang=eng#9).) They
+had been in his presence and they could testify.
 
 What did Jesus mean to the boy Joseph Smith? The appearance of God the Father
 and Jesus Christ to the boy prophet in modern times is described in his own
@@ -120,7 +116,7 @@ of the sun. ... When the light rested upon me I saw two Personages, whose
 brightness and glory defy all description, standing above me in the air. One
 of them spake unto me, calling me by name and said, pointing to the other--
 _This is My Beloved Son. Hear Him!"_ ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
 
 President Joseph F. Smith declared, "The greatest event that has ever occurred
 in the world since the resurrection of the Son of God from the tomb and his
@@ -153,10 +149,12 @@ All can be placed on the pathway to eternal progression. Everyone who accepts
 him and is repentant receives forgiveness of his past sins and the opportunity
 to gain exaltation. "... I am the way, the truth, and the life: no man cometh
 unto the Father, but by me. ..." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).) Could the mind
-of man possibly develop a more noble concept for the destiny of man? Jesus
-Christ is the central figure.
+14:6](/scriptures/nt/john/14.6?lang=eng#5).) Could the mind of man possibly
+develop a more noble concept for the destiny of man? Jesus Christ is the
+central figure.
 
 To the question "What does Jesus mean to modern man?" I testify that he means
 everything. To this statement I bear solemn witness in his name. Amen.
+
+## References
 

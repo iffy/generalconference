@@ -12,7 +12,7 @@ earth, when Joseph Smith, as a boy, read:
 
 "If any of you lack wisdom, let him ask of God, that giveth to all men
 liberally, and upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 I wonder if we realize just what a blessing it is to have our prayers
 answered, and to be able to ask for what we need.
@@ -46,4 +46,6 @@ know it is true, and if we will live according to its teachings we will have
 greater joy than we will find in any other way.
 
 May the Lord bless us to this end, I pray in the name of Jesus Christ, amen.
+
+## References
 

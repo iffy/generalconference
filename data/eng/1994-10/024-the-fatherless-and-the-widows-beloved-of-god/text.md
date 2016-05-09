@@ -61,8 +61,8 @@ times it is after long-suffering and is a blessing, while in other instances
 those in the prime of life are taken by its grasp.
 
 As of old, the heartbroken frequently and silently repeat the ancient
-question: "Is there no balm in Gilead ... ?" [1]  "Why me; why now?" The words
-of a beautiful hymn provide a partial answer:
+question: "Is there no balm in Gilead ... ?"[1] "Why me; why now?" The words of
+a beautiful hymn provide a partial answer:
 
 _Where can I turn for peace? Where is my solace_
 
@@ -78,7 +78,7 @@ _In my Gethsemane, Savior and Friend._
 
 _Gentle the peace he finds for my beseeching._
 
-_Constant he is and kind, Love without end._ [2]
+_Constant he is and kind, Love without end._[2]
 
 The plight of the widow is a recurring theme through holy writ. Our hearts go
 out to the widow at Zarephath. Gone was her husband. Consumed was her scant
@@ -87,7 +87,7 @@ the seemingly brazen command that the widow woman should feed him. Her
 response is particularly touching: "As the Lord thy God liveth, I have not a
 cake, but an handful of meal in a barrel, and a little oil in a cruse: and,
 behold, I am gathering two sticks, that I may go in and dress it for me and my
-son, that we may eat it, and die." [3]
+son, that we may eat it, and die."[3]
 
 The reassuring words of Elijah penetrated her very being:
 
@@ -99,7 +99,7 @@ neither shall the cruse of oil fail. ...
 
 "And she went and did according to the saying of Elijah. ...
 
-"And the barrel of meal wasted not, neither did the cruse of oil fail." [4]
+"And the barrel of meal wasted not, neither did the cruse of oil fail."[4]
 
 Like the widow at Zarephath was the widow of Nain. The New Testament of our
 Lord records a moving and soul-stirring account of the Master's tender regard
@@ -119,7 +119,7 @@ not.
 said, Young man, I say unto thee, Arise.
 
 "And he that was dead sat up, and began to speak. And he delivered him to his
-mother." [5]
+mother."[5]
 
 What power, what tenderness, what compassion did our Master and Exemplar
 demonstrate. We, too, can bless if we will but follow his noble example.
@@ -131,14 +131,14 @@ in the majestic style of the Savior, even heart to heart.
 The word _widow_ appears to have had a most significant meaning to our Lord.
 He cautioned his disciples to beware the example of the scribes, who feigned
 righteousness by their long apparel and their lengthy prayers, but who
-devoured the houses of widows. [6]
+devoured the houses of widows.[6]
 
 To the Nephites came the direct warning, "I will come near to you to judgment;
-and I will be a swift witness against ... those that oppress ... the widow." [7]
+and I will be a swift witness against ... those that oppress ... the widow."[7]
 
 And to the Prophet Joseph Smith, he directed: "The storehouse shall be kept by
 the consecrations of the church; and widows and orphans shall be provided for,
-as also the poor." [8]
+as also the poor."[8]
 
 The widow's home is generally not large or ornate. Frequently it is a modest
 one in size and humble in appearance. Often it is tucked away at the top of
@@ -155,7 +155,7 @@ _Go, comfort the weeping, the weary;_
 
 _Go, scatter kind deeds on your way;_
 
-_Oh, make the world brighter today!_ [9]
+_Oh, make the world brighter today!_[9]
 
 Let us remember that after the funeral flowers fade, the well wishes of
 friends become memories, and the prayers offered and words spoken dim in the
@@ -166,7 +166,7 @@ time passes more slowly, and four walls do indeed a prison make.
 
 Hopefully, all of us may again hear the echo of words spoken by the Master,
 inspiring us to good deeds: "Inasmuch as ye have done it unto one of the least
-of these ... ye have done it unto me." [10]
+of these ... ye have done it unto me."[10]
 
 The late Elder Richard L. Evans left for our contemplation and action this
 admonition:
@@ -178,7 +178,7 @@ bring them back the morning hours of youth. But we can help them live in the
 warm glow of a sunset made more beautiful by our thoughtfulness, by our
 provision, and by our active and unfeigned love. Life in its fulness is a
 loving ministry of service from generation to generation. God grant that those
-who belong to us may never be left in loneliness." [11]
+who belong to us may never be left in loneliness."[11]
 
 Long years ago a severe drought struck the Salt Lake Valley. The commodities
 at the storehouse on Welfare Square had not been their usual quality, nor were
@@ -210,7 +210,7 @@ out and touches vanished hands and listens to voices forever stilled. The
 words of the Prophet Joseph Smith describe their mission: "I attended by
 request, the Female Relief Society, whose object is the relief of the poor,
 the destitute, the widow and the orphan, and for the exercise of all
-benevolent purposes." [12]
+benevolent purposes."[12]
 
 Thank you to thoughtful and caring bishops who ensure that no widow's cupboard
 is empty, no house unwarmed, no life unblessed. I admire the ward leaders who
@@ -262,7 +262,7 @@ ourselves the mystery of that special card and the life it had gladdened and
 the heart it had touched. Heaven was nearby.
 
 We need not wait for Christmas, we need not postpone till Thanksgiving Day our
-response to the Savior's tender admonition: "Go, and do thou likewise." [13]
+response to the Savior's tender admonition: "Go, and do thou likewise."[13]
 
 As we follow in his footsteps, as we ponder his thoughts and his deeds, as we
 keep his commandments, we will be blessed. The grieving widow, the fatherless
@@ -270,7 +270,7 @@ child, and the lonely of heart everywhere will be gladdened, comforted, and
 sustained through our service, and we will experience a deeper understanding
 of the words recorded in the Epistle of James: "Pure religion and undefiled
 before God and the Father is this, To visit the fatherless and widows in their
-affliction, and to keep himself unspotted from the world." [14]
+affliction, and to keep himself unspotted from the world."[14]
 
 May the peace promised by the Savior be the gift of one and all this Sabbath
 day and always is my fervent and humble prayer, in the name of Jesus Christ,
@@ -278,31 +278,31 @@ amen.
 
 ## References
 
-  1.   [Jer. 8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).
+  1. [Jer. 8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).
 
-  2.   _Hymns,_ 1985, no. 129.
+  2. _Hymns,_ 1985, no. 129.
 
-  3.   [1 Kgs. 17:12](https://www.lds.org/scriptures/ot/1-kgs/17.12?lang=eng#11).
+  3. [1 Kgs. 17:12](https://www.lds.org/scriptures/ot/1-kgs/17.12?lang=eng#11).
 
-  4.   [1 Kgs. 17:13-16](https://www.lds.org/scriptures/ot/1-kgs/17.13-16?lang=eng#12).
+  4. [1 Kgs. 17:13-16](https://www.lds.org/scriptures/ot/1-kgs/17.13-16?lang=eng#12).
 
-  5.   [Luke 7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).
+  5. [Luke 7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).
 
-  6.  See [Luke 20:46-47](https://www.lds.org/scriptures/nt/luke/20.46-47?lang=eng#45).
+  6. See [Luke 20:46-47](https://www.lds.org/scriptures/nt/luke/20.46-47?lang=eng#45).
 
-  7.   [3 Ne. 24:5](https://www.lds.org/scriptures/bofm/3-ne/24.5?lang=eng#4).
+  7. [3 Ne. 24:5](https://www.lds.org/scriptures/bofm/3-ne/24.5?lang=eng#4).
 
-  8.   [D&amp;C 83:6](https://www.lds.org/scriptures/dc-testament/dc/83.6?lang=eng#5).
+  8. [D&amp;C 83:6](https://www.lds.org/scriptures/dc-testament/dc/83.6?lang=eng#5).
 
-  9.   _Deseret Sunday School Songs_ (Salt Lake City: Deseret Sunday School Union, 1909), no. 197.
+  9. _Deseret Sunday School Songs_ (Salt Lake City: Deseret Sunday School Union, 1909), no. 197.
 
-  10.   [Matt. 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).
+  10. [Matt. 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).
 
-  11.  Richard L. Evans, _Thoughts for One Hundred Days_ (Salt Lake City: Publishers Press, 1966), p. 222.
+  11. Richard L. Evans, _Thoughts for One Hundred Days_ (Salt Lake City: Publishers Press, 1966), p. 222.
 
-  12.   _History of the Church,_ 4:567.
+  12. _History of the Church,_ 4:567.
 
-  13.   [Luke 10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).
+  13. [Luke 10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).
 
-  14.   [James 1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).
+  14. [James 1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).
 

@@ -81,7 +81,7 @@ Ghost and from knowing the Master's voice in the scriptures, he could hear
 what he needed to hear. The memory of that black recorder with its tape
 turning will always remind me of the scripture which says, "He that hath ears
 to hear, let him hear." ([Matt.
-11:15](https://www.lds.org/scriptures/nt/matt/11.15?lang=eng#14).)
+11:15](/scriptures/nt/matt/11.15?lang=eng#14).)
 
 I spoke at his funeral just a few years later. He lived about as many years as
 the Prophet Joseph had lived when he saw God the Father and Jesus Christ in
@@ -134,4 +134,6 @@ received all the keys of the priesthood. And President Kimball holds them
 today. I testify that God loves his children and can tell us what is true. I
 pray that we all may have ears to hear, that he may guide us. I pray that I
 may serve you and him, in the name of the Lord Jesus Christ, amen.
+
+## References
 

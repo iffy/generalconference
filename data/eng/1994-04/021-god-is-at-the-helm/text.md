@@ -33,7 +33,7 @@ revelation of the Lord, which states:
 preach my gospel, or to build up my church, except he be ordained by some one
 who has authority, and it is known to the church that he has authority and has
 been regularly ordained by the heads of the church" ([D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10)).
+42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10)).
 
 Concerning the sustaining of officers, President John Taylor once said:
 
@@ -56,7 +56,7 @@ declaration found in the fifth article of our faith:
 "We believe that a man must be called of God, by prophecy, and by the laying
 on of hands by those who are in authority, to preach the Gospel and administer
 in the ordinances thereof." [[A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4)]
+1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4)]
 
 Here again is set forth a significant and unique feature established by the
 Lord in the governance of His church. The right to nominate rests with the
@@ -135,16 +135,14 @@ I quote from the Doctrine and Covenants:
 "Of the Melchizedek Priesthood, three Presiding High Priests, chosen by the
 body, appointed and ordained to that office, and upheld by the confidence,
 faith, and prayer of the church, form a quorum of the Presidency of the
-Church" ([D&amp;C 107:22](https://www.lds.org/scriptures/dc-
-testament/dc/107.22?lang=eng#21)).
+Church" ([D&amp;C 107:22](/scriptures/dc-testament/dc/107.22?lang=eng#21)).
 
 When the President is ill or not able to function fully in all of the duties
 of his office, his two Counselors together comprise a Quorum of the First
 Presidency. They carry on with the day-to-day work of the Presidency. In
 exceptional circumstances, when only one may be able to function, he may act
 in the authority of the office of the Presidency as set forth in the Doctrine
-and Covenants, section 102, verses 10-11 [[D&amp;C
-102:10-11](https://www.lds.org/scriptures/dc-
+and Covenants, section 102, verses 10-11 [[D&amp;C 102:10-11](/scriptures/dc-
 testament/dc/102.10-11?lang=eng#9)].
 
 When, on 10 November 1985, President Benson called his two Counselors, it was
@@ -169,7 +167,7 @@ And now I quote again from the word of the Lord: "And every decision made by
 either of these quorums must be by the unanimous voice of the same; that is,
 every member in each quorum must be agreed to its decisions, in order to make
 their decisions of the same power or validity one with the other" ([D&amp;C
-107:27](https://www.lds.org/scriptures/dc-testament/dc/107.27?lang=eng#26)).
+107:27](/scriptures/dc-testament/dc/107.27?lang=eng#26)).
 
 No decision emanates from the deliberations of the First Presidency and the
 Twelve without total unanimity among all concerned. At the outset in
@@ -187,8 +185,7 @@ suffering, and in faith, and virtue, and knowledge, temperance, patience,
 godliness, brotherly kindness and charity;
 
 "Because the promise is, if these things abound in them they shall not be
-unfruitful in the knowledge of the Lord" ([D&amp;C
-107:30-31](https://www.lds.org/scriptures/dc-
+unfruitful in the knowledge of the Lord" ([D&amp;C 107:30-31](/scriptures/dc-
 testament/dc/107.30-31?lang=eng#29)).
 
 I add by way of personal testimony that during the twenty years I served as a
@@ -270,14 +267,12 @@ will walk after His pattern and in His light.
 Let not any voices of discontent disturb you. Let not the critics worry you.
 As Alma declared long ago, "Trust no one to be your teacher nor your minister,
 except he be a man of God, walking in his ways and keeping his commandments"
-([Mosiah
-23:14](https://www.lds.org/scriptures/bofm/mosiah/23.14?lang=eng#13)).
+([Mosiah 23:14](/scriptures/bofm/mosiah/23.14?lang=eng#13)).
 
 The truth is in this church. The authority is in this priesthood. The
 leadership is in this great body of priesthood at every level of governance.
 As the Psalmist declared: "Behold, he that keepeth Israel shall neither
-slumber nor sleep" ([Ps.
-121:4](https://www.lds.org/scriptures/ot/ps/121.4?lang=eng#3)).
+slumber nor sleep" ([Ps. 121:4](/scriptures/ot/ps/121.4?lang=eng#3)).
 
 He who is our Savior slumbers not nor sleeps as He watches over this His
 kingdom.
@@ -301,22 +296,24 @@ against you, for if ye are built upon my rock, they cannot prevail. ...
 
 "Behold the wounds which pierced my side, and also the prints of the nails in
 my hands and feet; be faithful, keep my commandments, and ye shall inherit the
-kingdom of heaven" ([D&amp;C 6:34, 36-37](https://www.lds.org/scriptures/dc-
-testament/dc/6.34%2C36-37?lang=eng#33)).
+kingdom of heaven" ([D&amp;C 6:34, 36-37](/scriptures/dc-
+testament/dc/6.34,36-37?lang=eng#33)).
 
 God is our Father. His is "the kingdom, and the power, and the glory, for
-ever" ([Matt. 6:13](https://www.lds.org/scriptures/nt/matt/6.13?lang=eng#12)).
-Jesus Christ is our Redeemer. He is the head of this church. He makes known
-His will and will continue to make known His will concerning it. Joseph Smith
-was a prophet through whom all of the keys of the priesthood under which we
-operate were restored in this the dispensation of the fulness of times. Each
-man who has succeeded him as President of the Church has been a prophet. We
-have a prophet today. He may not be able to speak to us as he once did. He
-need not. During the time that he stood before us as the President of this
-church, he pleaded with us to do more than we are now doing and to be better
-than we now are. When the Lord calls him home, there will be another to take
-his place. No one knows who that will be. No one need speculate.
+ever" ([Matt. 6:13](/scriptures/nt/matt/6.13?lang=eng#12)). Jesus Christ is
+our Redeemer. He is the head of this church. He makes known His will and will
+continue to make known His will concerning it. Joseph Smith was a prophet
+through whom all of the keys of the priesthood under which we operate were
+restored in this the dispensation of the fulness of times. Each man who has
+succeeded him as President of the Church has been a prophet. We have a prophet
+today. He may not be able to speak to us as he once did. He need not. During
+the time that he stood before us as the President of this church, he pleaded
+with us to do more than we are now doing and to be better than we now are.
+When the Lord calls him home, there will be another to take his place. No one
+knows who that will be. No one need speculate.
 
 I leave you my blessing and love, and my testimony of these things in the name
 of Jesus Christ, amen.
+
+## References
 

@@ -104,13 +104,13 @@ principle of freedom in maintaining rights and privileges, [that it] belongs
 to all mankind, and is justifiable before me.
 
 "Therefore, I, the Lord, justify you ... in befriending that law which is the
-constitutional law of the land." ([D&amp;C
-98:4-6](https://www.lds.org/scriptures/dc-testament/dc/98.4-6?lang=eng#3).)
+constitutional law of the land." ([D&amp;C 98:4-6](/scriptures/dc-
+testament/dc/98.4-6?lang=eng#3).)
 
 In harmony with this statement, the Church later adopted as one of its
 Articles of Faith: "We believe in being subject to kings, presidents, rulers,
 and magistrates, in obeying, honoring, and sustaining the law." ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
 
 In 1835 at a general assembly the Church adopted by unanimous vote a
 "Declaration of Belief regarding Governments and Laws in general," in which it
@@ -120,7 +120,7 @@ said:
 magistrates to enforce the laws of the same; and that such as will administer
 the law in equity and justice should be sought for and upheld by the voice of
 the people if a republic, or the will of the sovereign." ([D&amp;C
-134:3](https://www.lds.org/scriptures/dc-testament/dc/134.3?lang=eng#2).)
+134:3](/scriptures/dc-testament/dc/134.3?lang=eng#2).)
 
 In 1903 President Joseph F. Smith said, "The Church [as such] does not engage
 in politics; its members belong to the political parties at their own
@@ -159,7 +159,7 @@ any man love the world, the love of the Father is not in him.
 
 "For all that is in the world, the lust of the flesh, and the lust of the
 eyes, and the pride of life, is not of the Father, but is of the world." ([1
-Jn. 2:15-16](https://www.lds.org/scriptures/nt/1-jn/2.15-16?lang=eng#14).)
+Jn. 2:15-16](/scriptures/nt/1-jn/2.15-16?lang=eng#14).)
 
 The encroachment of the world into our lives is threatening! How hard it seems
 for many of us to live _in_ the world and yet not _of_ the world.
@@ -169,11 +169,11 @@ Through Isaiah the word of the Lord comes:
 "And I will punish the world for their evil, and the wicked for their
 iniquity; and I will cause the arrogancy of the proud to cease, and will lay
 low the haughtiness of the terrible." ([Isa.
-13:11](https://www.lds.org/scriptures/ot/isa/13.11?lang=eng#10).)
+13:11](/scriptures/ot/isa/13.11?lang=eng#10).)
 
 When Satan took the Lord into an exceeding high mountain, he promised, "All
 these things will I give thee, if thou wilt fall down and worship me." ([Matt.
-4:9](https://www.lds.org/scriptures/nt/matt/4.9?lang=eng#8).)
+4:9](/scriptures/nt/matt/4.9?lang=eng#8).)
 
 "These things" were the dens of vice and areas of sin and physical
 gratification and lustful temptations.
@@ -181,50 +181,46 @@ gratification and lustful temptations.
 Long ago the Lord made his plans with great precision and announced them,
 saying, "For behold, this is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 His further words: "... that ye might be sanctified from all sin, and enjoy the
 words of eternal life in this world, and eternal life in the world to come,
-even immortal glory." ([Moses
-6:59](https://www.lds.org/scriptures/pgp/moses/6.59?lang=eng#58).)
+even immortal glory." ([Moses 6:59](/scriptures/pgp/moses/6.59?lang=eng#58).)
 
 Now the works of the flesh are many, as given by Paul: "... perilous times shall
 come. [They are upon us!] For men shall be lovers of their own selves, ...
 Without natural affection ... incontinent ..." ([2 Tim.
-3:1-3](https://www.lds.org/scriptures/nt/2-tim/3.1-3?lang=eng#0)), "... [with]
-vile affections: for even their women did change the natural use into that
-which is against nature: And likewise also the men, leaving the natural use of
-the woman, burned in their lust one toward another ... inventors of evil things
-..." ([Rom. 1:26, 27,
-30](https://www.lds.org/scriptures/nt/rom/1.26%2C27%2C30?lang=eng#25)),
-thieves, drunkards, extortioners.
+3:1-3](/scriptures/nt/2-tim/3.1-3?lang=eng#0)), "... [with] vile affections: for
+even their women did change the natural use into that which is against nature:
+And likewise also the men, leaving the natural use of the woman, burned in
+their lust one toward another ... inventors of evil things ..." ([Rom. 1:26, 27,
+30](/scriptures/nt/rom/1.26,27,30?lang=eng#25)), thieves, drunkards,
+extortioners.
 
 "Ye adulterers and adulteresses, know ye not that the friendship of the world
 is enmity with God? Whosoever therefore will be a friend of the world is the
-enemy of God." ([James
-4:4](https://www.lds.org/scriptures/nt/james/4.4?lang=eng#3).)
+enemy of God." ([James 4:4](/scriptures/nt/james/4.4?lang=eng#3).)
 
 These are some of the ugly acts and activities that we call the world.
 
 Just before the crucifixion, the Lord pleaded, "I pray not that thou shouldest
 take them out of the world, but that thou shouldest keep them from the evil."
-([John 17:15](https://www.lds.org/scriptures/nt/john/17.15?lang=eng#14).)
+([John 17:15](/scriptures/nt/john/17.15?lang=eng#14).)
 
 This is the prayer we continually utter, and our major effort is to see that
 the members of the Church are sanctified through their righteousness.
 
 These ugly transgressions Paul called "doctrines of devils," and their authors
-"seducing spirits." (See [1 Tim.
-4:1](https://www.lds.org/scriptures/nt/1-tim/4.1?lang=eng#0).) These
-distortions of the normal life have not changed in this century, except
+"seducing spirits." (See [1 Tim. 4:1](/scriptures/nt/1-tim/4.1?lang=eng#0).)
+These distortions of the normal life have not changed in this century, except
 possibly to grow more vile and permissive and vulgar and degenerate.
 
 And we plead with our people everywhere, "Submit yourselves therefore to God.
 Resist the devil, and he will flee from you." ([James
-4:7](https://www.lds.org/scriptures/nt/james/4.7?lang=eng#6).)
+4:7](/scriptures/nt/james/4.7?lang=eng#6).)
 
 Our sermon is one of reaffirmation and reassurance. We urge our people to
-"stand in holy places." ([D&amp;C 45:32](https://www.lds.org/scriptures/dc-
+"stand in holy places." ([D&amp;C 45:32](/scriptures/dc-
 testament/dc/45.32?lang=eng#31).)
 
 What we are saying today is not new doctrine, but as old as the day of
@@ -232,10 +228,10 @@ creation.
 
 There may be some who have a general feeling of uneasiness because of world
 conditions and lengthening shadows of evil, but the Lord said, "... if ye are
-prepared ye shall not fear" ([D&amp;C 38:30](https://www.lds.org/scriptures
-/dc-testament/dc/38.30?lang=eng#29)), and again, "Peace I leave with you. ...
-Let not your heart be troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+prepared ye shall not fear" ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29)), and again, "Peace I leave with you. ... Let
+not your heart be troubled, neither let it be afraid." ([John
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 You have come here seeking guidance. It is the purpose of your leaders to give
 that direction. As the brethren speak, you will feel the inspiration of our
@@ -260,7 +256,7 @@ women, coming eventually to a virtuous union at an altar where a fully
 authorized servant of God seals the union for eternity. The Hebrew saints were
 properly taught, "Marriage is honourable in all, and the bed undefiled: but
 whoremongers and adulterers God will judge." ([Heb.
-13:4](https://www.lds.org/scriptures/nt/heb/13.4?lang=eng#3).)
+13:4](/scriptures/nt/heb/13.4?lang=eng#3).)
 
 And to those who might decry marriage or postpone it or forbid it Paul spoke,
 condemning them. It is generally selfishness, cold and self-centered, which
@@ -275,31 +271,30 @@ marriage presupposes a family. The psalmist said:
 reward.
 
 "Happy is the man that hath his quiver full of them. ..." ([Ps. 127:3,
-5](https://www.lds.org/scriptures/ot/ps/127.3%2C5?lang=eng#2).)
+5](/scriptures/ot/ps/127.3,5?lang=eng#2).)
 
 Certainly anyone who purposely denies himself or herself honorable parenthood
 is to be pitied, for the great joy of parenthood is fundamental in the normal,
 full life, and we remember the command of God in the beginning, "... Be
 fruitful, and multiply, and replenish the earth, and subdue it. ..." ([Gen.
-1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27).)
+1:28](/scriptures/ot/gen/1.28?lang=eng#27).)
 
 Then the recorder writes: "And God saw every thing that he had made, and,
 behold, it was very good. ..." ([Gen.
-1:31](https://www.lds.org/scriptures/ot/gen/1.31?lang=eng#30).)
+1:31](/scriptures/ot/gen/1.31?lang=eng#30).)
 
 In our dispensation comes the doctrine: "... for [virgins] are given unto [man]
 to multiply and replenish the earth, according to [God's] commandment, ... and
 for their exaltation in the eternal worlds, that they may bear the souls of
 men; for herein is the work of my Father continued, that he may be glorified."
-([D&amp;C 132:63](https://www.lds.org/scriptures/dc-
-testament/dc/132.63?lang=eng#62).)
+([D&amp;C 132:63](/scriptures/dc-testament/dc/132.63?lang=eng#62).)
 
 We decry the prevalence of broken homes. Every man should love his wife and
 cherish and protect her all the days of their lives and she should love,
 honor, and appreciate her husband; and we hear the historian Moses quoting his
 Lord: "Therefore shall a man leave his father and his mother, and shall cleave
 unto his wife: and they shall be one flesh." ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23).)
+2:24](/scriptures/ot/gen/2.24?lang=eng#23).)
 
 Paul says: "Wives, submit yourselves unto your own husbands, as unto the Lord.
 
@@ -313,8 +308,8 @@ himself for it. ...
 loveth himself.
 
 "For no man ever yet hated his own flesh; but nourisheth and cherisheth it,
-even as the Lord the church." ([Eph. 5:22, 23, 25, 28-29](https://www.lds.org/
-scriptures/nt/eph/5.22%2C23%2C25%2C28-29?lang=eng#21).)
+even as the Lord the church." ([Eph. 5:22, 23, 25,
+28-29](/scriptures/nt/eph/5.22,23,25,28-29?lang=eng#21).)
 
 This is often misunderstood, both by husbands and by wives. Consider it well,
 and do not contend nor argue with your Heavenly Father. When a man gives
@@ -372,12 +367,10 @@ tampering with or defilement of this sacred tabernacle can bring only remorse
 and regret. We urge: stay clean, uncontaminated, undefiled.
 
 Jude says: "... There should be mockers in the last time, who should walk after
-their own ungodly lusts." ([Jude
-1:18](https://www.lds.org/scriptures/nt/jude/1.18?lang=eng#17).)
+their own ungodly lusts." ([Jude 1:18](/scriptures/nt/jude/1.18?lang=eng#17).)
 
 We urge, with Peter, "... Abstain from fleshly lusts, which war against the
-soul." ([1 Pet.
-2:11](https://www.lds.org/scriptures/nt/1-pet/2.11?lang=eng#10).) No indecent
+soul." ([1 Pet. 2:11](/scriptures/nt/1-pet/2.11?lang=eng#10).) No indecent
 exposure or pornography or other aberrations to defile the mind and spirit. No
 fondling of bodies, one's own or that of others, and no sex between persons
 except in proper marriage relationships. This is positively prohibited by our
@@ -412,10 +405,9 @@ the Lord's plans, a consecration of devotion to the uprearing and fostering,
 the nurturing in body, mind, and spirit, of those who kept their first estate
 and who come to this earth for their second estate 'to see if they will do all
 things whatsoever the Lord their God shall command them.' ([Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24).) To lead them
-to keep their second estate is the work of motherhood, and 'they who keep
-their second estate shall have glory added upon their heads for ever and
-ever.'
+3:25](/scriptures/pgp/abr/3.25?lang=eng#24).) To lead them to keep their
+second estate is the work of motherhood, and 'they who keep their second
+estate shall have glory added upon their heads for ever and ever.'
 
 "This divine service of motherhood can be rendered only by mothers. It may not
 be passed to others. Nurses cannot do it; public nurseries cannot do it; hired
@@ -426,10 +418,10 @@ care.
 "The mother who entrusts her child to the care of others, that she may do non-
 motherly work, whether for gold, for fame, or for civic service should
 remember that 'a child left to himself bringeth his mother to shame.' ([Prov.
-29:15](https://www.lds.org/scriptures/ot/prov/29.15?lang=eng#14).) In our day
-the Lord has said that unless parents teach their children the doctrines of
-the Church 'the sin be upon the heads of the parents.' ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
+29:15](/scriptures/ot/prov/29.15?lang=eng#14).) In our day the Lord has said
+that unless parents teach their children the doctrines of the Church 'the sin
+be upon the heads of the parents.' ([D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24).)
 
 "Motherhood is near to Divinity. It is the highest, holiest service to be
 assumed by mankind. It places her who honors its holy calling and service next
@@ -452,4 +444,6 @@ I know this is true and right. I love our Heavenly Father and I love his Son,
 and I am proud to be even a weak vessel to push forward their great eternal
 work. I testify to all this humbly, sincerely, in the name of Jesus Christ.
 Amen.
+
+## References
 

@@ -28,13 +28,13 @@ children.
 From the pages of modern scripture revealed in the tender years of the
 establishment of the Lord's kingdom in our day, the following truths seem most
 appropriate: "... three Presiding High Priests ... form a quorum of the Presidency
-of the Church"; ([D&amp;C 107:22](https://www.lds.org/scriptures/dc-
+of the Church"; ([D&amp;C 107:22](/scriptures/dc-
 testament/dc/107.22?lang=eng#21)) and the Twelve, "under the direction of the
-Presidency ... , [are] to build up the church, and regulate all the affairs of
-the same in all nations. ..." ([D&amp;C 107:33](https://www.lds.org/scriptures
-/dc-testament/dc/107.33?lang=eng#32).) "... Whatsoever they shall speak when
-moved upon by the Holy Ghost shall be scripture. ..." ([D&amp;C
-68:4](https://www.lds.org/scriptures/dc-testament/dc/68.4?lang=eng#3).)
+Presidency ..., [are] to build up the church, and regulate all the affairs of
+the same in all nations. ..." ([D&amp;C 107:33](/scriptures/dc-
+testament/dc/107.33?lang=eng#32).) "... Whatsoever they shall speak when moved
+upon by the Holy Ghost shall be scripture. ..." ([D&amp;C 68:4](/scriptures/dc-
+testament/dc/68.4?lang=eng#3).)
 
 When these words distill upon my soul, I stand in reverential awe in the
 presence of these appointed brethren. Particularly am I indebted to the four
@@ -58,9 +58,9 @@ coming week. I love my associates.
 The first commandment instructs us to love the Lord with all our heart, might,
 mind, and strength, "And the second is like unto it, Thou shalt love thy
 neighbour as thyself." ([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36).) We love
-our neighbors. We think they love us. I submit as evidence homemade lemon
-cream pies and salads that were brought to our home yesterday.
+39](/scriptures/nt/matt/22.37,39?lang=eng#36).) We love our neighbors. We
+think they love us. I submit as evidence homemade lemon cream pies and salads
+that were brought to our home yesterday.
 
 As food moves from their home to ours and from our home to theirs, my eternal
 companion is responding to her desire to be in the service of her fellow
@@ -77,4 +77,6 @@ special witnesses who form your quorum, as we assist you we place on the altar
 before you our hearts, our might, our minds, and our strength. In unity, my
 companion and I commit whatever we are to His service. In the name of Jesus
 Christ. Amen.
+
+## References
 

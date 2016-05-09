@@ -18,23 +18,23 @@ yourself."
 
 The Savior has given each of us the soul-stretching commandment not only to
 behave ourselves but to become perfect, even as He and His Father are perfect
-(see [Matt. 5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47); [3
-Ne. 12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47)).
-Sometimes this quest for perfection tries our patience and our faith as we
-continue to wrestle with the weaknesses of the flesh. But a loving Heavenly
-Father has not left us alone in our battle with the adversary. A recurrent
-doctrine of the Book of Mormon is that the Holy Ghost is an active participant
-in our lives, influencing us for good. Both Nephi and Mormon teach us that the
-Holy Ghost _strives_ with us to help us resist evil (see [2 Ne.
-26:11](https://www.lds.org/scriptures/bofm/2-ne/26.11?lang=eng#10); [Morm.
-5:16](https://www.lds.org/scriptures/bofm/morm/5.16?lang=eng#15)). King
-Benjamin exhorts us to yield to the _enticings_ of the Spirit in order to
-overcome the natural man, who is an enemy to God (see [Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18)). Amulek
-admonishes us to "_contend_ no more against the Holy Ghost" ([Alma
-34:38](https://www.lds.org/scriptures/bofm/alma/34.38?lang=eng#37); emphasis
-added), and Moroni assures us that the Holy Ghost _persuades_ us to do good
-([Ether 4:11](https://www.lds.org/scriptures/bofm/ether/4.11?lang=eng#10)).
+(see [Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47)). Sometimes this quest for
+perfection tries our patience and our faith as we continue to wrestle with the
+weaknesses of the flesh. But a loving Heavenly Father has not left us alone in
+our battle with the adversary. A recurrent doctrine of the Book of Mormon is
+that the Holy Ghost is an active participant in our lives, influencing us for
+good. Both Nephi and Mormon teach us that the Holy Ghost _strives_ with us to
+help us resist evil (see [2 Ne.
+26:11](/scriptures/bofm/2-ne/26.11?lang=eng#10); [Morm.
+5:16](/scriptures/bofm/morm/5.16?lang=eng#15)). King Benjamin exhorts us to
+yield to the _enticings_ of the Spirit in order to overcome the natural man,
+who is an enemy to God (see [Mosiah
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18)). Amulek admonishes us to
+"_contend_ no more against the Holy Ghost" ([Alma
+34:38](/scriptures/bofm/alma/34.38?lang=eng#37); emphasis added), and Moroni
+assures us that the Holy Ghost _persuades_ us to do good ([Ether
+4:11](/scriptures/bofm/ether/4.11?lang=eng#10)).
 
 The words _strive, entice, contend,_ and _persuade_ are all very strong action
 verbs indicating a positive influence which the Holy Ghost can have in our
@@ -60,13 +60,12 @@ ourselves as we are, declaring, "That's just the way I am."
 
 One of the powerful doctrines of the Book of Mormon is that we _can,_ indeed
 we _must,_ undergo a mighty change of heart (see [Mosiah
-5:2](https://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1); [Alma
-5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13)). The Book of
-Mormon also teaches us that "wickedness never was happiness" ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)) and that
-"men are, that they might have joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)). The journey
-from wickedness to joy requires a mighty change of heart.
+5:2](/scriptures/bofm/mosiah/5.2?lang=eng#1); [Alma
+5:14](/scriptures/bofm/alma/5.14?lang=eng#13)). The Book of Mormon also
+teaches us that "wickedness never was happiness" ([Alma
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9)) and that "men are, that they
+might have joy" ([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)). The
+journey from wickedness to joy requires a mighty change of heart.
 
 ## Overcoming Evil Habits
 
@@ -119,8 +118,8 @@ caught hold of the book with a dark-blue cover, which the missionaries had
 given him several years before. He began to read. On the second page of this
 book, he read of Father Lehi's vision in which he was given a book to read,
 and "as he read, he was filled with the Spirit of the Lord" ([1 Ne.
-1:12](https://www.lds.org/scriptures/bofm/1-ne/1.12?lang=eng#11)). And as my
-good friend continued reading, he too was filled with the Spirit of the Lord.
+1:12](/scriptures/bofm/1-ne/1.12?lang=eng#11)). And as my good friend
+continued reading, he too was filled with the Spirit of the Lord.
 
 He read King Benjamin's benedictory challenge to undergo a mighty change of
 heart--not a little change, but a mighty change. He was given hope by the
@@ -129,7 +128,7 @@ inspired by the account of the Savior's visit to the ancient Nephites. By the
 time he reached the final page of the Book of Mormon, he was prepared to
 accept Moroni's loving invitation to "come unto Christ, and be perfected in
 him, and deny yourselves of all ungodliness" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31)).
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31)).
 
 My friend contacted the Church and was taught the gospel and was baptized.
 Within a relatively short time, he married a lovely young woman, and they are
@@ -175,7 +174,7 @@ is concerned with _what_ is right." When we humble ourselves, the Spirit will
 always tell us what is right.
 
 In the Doctrine and Covenants the Lord promised us, "The power of my Spirit
-quickeneth all things" ([D&amp;C 33:16](https://www.lds.org/scriptures/dc-
+quickeneth all things" ([D&amp;C 33:16](/scriptures/dc-
 testament/dc/33.16?lang=eng#15)). Through the instrumentality of the Holy
 Ghost, His Spirit comforts those who mourn, teaches and testifies to those who
 thirst for the truth, purifies the brokenhearted who would be clean, and warns
@@ -207,15 +206,16 @@ I am grateful for these Brethren whom we sustain as prophets, seers, and
 revelators who forewarn us of bridges not to be crossed. These great men whom
 we sustain as prophets, seers, and revelators preach "not with enticing words
 of man's wisdom, but in demonstration of the Spirit and of power" ([1 Cor.
-2:4](https://www.lds.org/scriptures/nt/1-cor/2.4?lang=eng#3)). Their motives
-are pure as they strive to build the kingdom of God and to uplift and edify
-the Saints of God. In the words of the Apostle Paul, they have become
-"prisoners of Christ" (see [Eph.
-3:1](https://www.lds.org/scriptures/nt/eph/3.1?lang=eng#0); [Eph.
-4:1](https://www.lds.org/scriptures/nt/eph/4.1?lang=eng#0); [Philem. 1:1,
-9](https://www.lds.org/scriptures/nt/philem/1.1%2C9?lang=eng#0); [2 Tim.
-1:8](https://www.lds.org/scriptures/nt/2-tim/1.8?lang=eng#7)), whose only
-desire is to do the Lord's will. Nothing more. Nothing less. And nothing else.
-_These are men of God!_ May we heed their warning voices, I humbly pray in the
-name of Jesus Christ, amen.
+2:4](/scriptures/nt/1-cor/2.4?lang=eng#3)). Their motives are pure as they
+strive to build the kingdom of God and to uplift and edify the Saints of God.
+In the words of the Apostle Paul, they have become "prisoners of Christ" (see
+[Eph. 3:1](/scriptures/nt/eph/3.1?lang=eng#0); [Eph.
+4:1](/scriptures/nt/eph/4.1?lang=eng#0); [Philem. 1:1,
+9](/scriptures/nt/philem/1.1,9?lang=eng#0); [2 Tim.
+1:8](/scriptures/nt/2-tim/1.8?lang=eng#7)), whose only desire is to do the
+Lord's will. Nothing more. Nothing less. And nothing else. _These are men of
+God!_ May we heed their warning voices, I humbly pray in the name of Jesus
+Christ, amen.
+
+## References
 

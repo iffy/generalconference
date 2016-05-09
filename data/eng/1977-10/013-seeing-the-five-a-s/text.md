@@ -194,12 +194,11 @@ and suffer with them and work with them and wait for them, even as the father
 in the Lord's parable waited for the prodigal who finally came to his senses
 and headed home: "When he was yet a great way off, his father saw him, and had
 compassion and ran, and fell on his neck, and kissed him." ([Luke
-15:20](https://www.lds.org/scriptures/nt/luke/15.20?lang=eng#19).) We will
-watch and pray, even as the Lord himself waits with godly mercy, as He
-declared through His prophet 2,700 years ago: "And therefore will the Lord
-wait, that he may be gracious unto you, and therefore will he be exalted, that
-he may have mercy upon you." ([Isa.
-30:18](https://www.lds.org/scriptures/ot/isa/30.18?lang=eng#17).)
+15:20](/scriptures/nt/luke/15.20?lang=eng#19).) We will watch and pray, even
+as the Lord himself waits with godly mercy, as He declared through His prophet
+2,700 years ago: "And therefore will the Lord wait, that he may be gracious
+unto you, and therefore will he be exalted, that he may have mercy upon you."
+([Isa. 30:18](/scriptures/ot/isa/30.18?lang=eng#17).)
 
 As you young men (and the wonderful young women you will one day have the
 privilege to marry) accept your responsibility to strengthen the families you
@@ -251,8 +250,10 @@ and help us, and then help us help others.
 In the scriptures is a magnificent sermon in a single line, in which I
 interpolate an additional word: "For how shall I go up to my father, and the
 lad [or lass] be not with me?" ([Gen.
-44:34](https://www.lds.org/scriptures/ot/gen/44.34?lang=eng#33).)
+44:34](/scriptures/ot/gen/44.34?lang=eng#33).)
 
 God bless us, young men and men, to be what God permits us and expects us to
 be. In the name of Jesus Christ, amen.
+
+## References
 

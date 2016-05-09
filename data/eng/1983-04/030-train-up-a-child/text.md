@@ -2,7 +2,7 @@
 
 "Train up a child in the way he should go," writes the author of Proverbs,
 "and when he is old, he will not depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).)
+22:6](/scriptures/ot/prov/22.6?lang=eng#5).)
 
 My mind was drawn to this admonition recently while reading an article in one
 of our current news publications on "Our Neglected Kids." The article pointed
@@ -71,20 +71,20 @@ and truth,
 and that will by no means clear the guilty; visiting the iniquity of the
 fathers upon the children, and upon the children's children, unto the third
 and to the fourth generation." ([Ex.
-34:6-7](https://www.lds.org/scriptures/ot/ex/34.6-7?lang=eng#5).)
+34:6-7](/scriptures/ot/ex/34.6-7?lang=eng#5).)
 
 In the New Testament, Paul, writing to the Ephesians, counseled them:
 
 "And, ye fathers, provoke not your children to wrath: but bring them up in the
 nurture and admonition of the Lord." ([Eph.
-6:4](https://www.lds.org/scriptures/nt/eph/6.4?lang=eng#3).)
+6:4](/scriptures/nt/eph/6.4?lang=eng#3).)
 
 The Book of Mormon begins with a son giving credit to the training of goodly
 parents:
 
 "I, Nephi, having been born of goodly parents, therefore I was taught somewhat
 in all the learning of my father." ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0).)
+1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0).)
 
 Instructions through the Prophet Joseph Smith to members of the Church in this
 day are explicit regarding the responsibilities of parents to children:
@@ -93,8 +93,8 @@ day are explicit regarding the responsibilities of parents to children:
 which are organized, that teach them not to understand the doctrines of
 repentance, faith in Christ the Son of the living God, and of baptism and the
 gift of the Holy Ghost by the laying on of the hands, when eight years old,
-the sin be upon the heads of the parents." ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
+the sin be upon the heads of the parents." ([D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24).)
 
 At the time I was a new parent, President David O. McKay presided over the
 Church. His counsel was clear and direct regarding our responsibilities to our
@@ -172,7 +172,7 @@ love. He taught,
 
 "A new commandment I give unto you, That ye love one another; as I have loved
 you, that ye also love one another." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).)
+13:34](/scriptures/nt/john/13.34?lang=eng#33).)
 
 I recently enjoyed an article in the _Reader's Digest_ written about enduring
 values. It stated "that the climate of our times tends to support the idea
@@ -210,22 +210,19 @@ Dr. Nick Stinnett of the University of Nebraska gave a most interesting talk
 at an annual meeting of the National Council on Family Relations. It was
 titled "Characteristics of Strong Families." His six points were:
 
-  1. A strong family spends a significant amount of time together while playing, working, eating, or in recreation. Although family members all have outside interests, they find adequate time to spend together.
-
-  2. Strong families have a high degree of commitment to each family member, as indicated not only by the time spent together, but also by their ability to work together in a common cause.
-
-  3. Strong families have good communication patterns, as indicated by the time spent listening and speaking to each other in conversation.
-
-  4. Strong families have a high degree of religious orientation.
-
-  5. Strong families have the ability to deal with crises in a positive way because they have spent time together, are committed to each other, and have good communication patterns.
-
-  6. Strong family members frequently give compliments to each other which are genuine and not superficial. (See "In Search of Strong Families," in Building Family Strengths: Blueprints for Action, ed. Nick Stinnett, et al., Lincoln: University of Nebraska Press, 1979, pp. 23-30.)
+  1. A strong family spends a significant amount of time together while playing, working, eating, or in recreation. Although family members all have outside interests, they find adequate time to spend together. 
+  2. Strong families have a high degree of commitment to each family member, as indicated not only by the time spent together, but also by their ability to work together in a common cause. 
+  3. Strong families have good communication patterns, as indicated by the time spent listening and speaking to each other in conversation. 
+  4. Strong families have a high degree of religious orientation. 
+  5. Strong families have the ability to deal with crises in a positive way because they have spent time together, are committed to each other, and have good communication patterns. 
+  6. Strong family members frequently give compliments to each other which are genuine and not superficial. (See "In Search of Strong Families," in Building Family Strengths: Blueprints for Action, ed. Nick Stinnett, et al., Lincoln: University of Nebraska Press, 1979, pp. 23-30.) 
 
 We who have embraced the gospel of Jesus Christ ought to have the devotion and
 the determination necessary to build strong family units. May God bless us
 that we may "organize [ourselves]; prepare every needful thing; and establish
-a house" ([D&amp;C 109:8](https://www.lds.org/scriptures/dc-
-testament/dc/109.8?lang=eng#7)) for those we love that is worthy of an eternal
-family unit is my prayer in the name of Jesus Christ, amen.
+a house" ([D&amp;C 109:8](/scriptures/dc-testament/dc/109.8?lang=eng#7)) for
+those we love that is worthy of an eternal family unit is my prayer in the
+name of Jesus Christ, amen.
+
+## References
 

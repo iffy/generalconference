@@ -126,8 +126,7 @@ is much of affection, there is shown much of love, there is prayer together,
 then there will more likely be peace in the hearts and strength in the
 character of your children. Teach them the ways of the Lord. Declared Isaiah,
 "All thy children shall be taught of the Lord; and great shall be the peace of
-thy children" ([Isa.
-54:13](https://www.lds.org/scriptures/ot/isa/54.13?lang=eng#12)).
+thy children" ([Isa. 54:13](/scriptures/ot/isa/54.13?lang=eng#12)).
 
 The more surely you rear your children in the ways of the gospel of Jesus
 Christ, with love and high expectation, the more likely that there will be
@@ -316,4 +315,6 @@ blessing, that your lives may be filled with peace and gladness. It can be so.
 Many of you can testify that it has been so. The Lord bless you now and
 through the years to come, I humbly pray in the name of our Savior, the Lord
 Jesus Christ, amen.
+
+## References
 

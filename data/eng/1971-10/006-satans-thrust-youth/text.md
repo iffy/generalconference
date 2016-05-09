@@ -105,24 +105,24 @@ is no deliverance. ...
 "Wo be unto him that crieth: All is well!
 
 "Yea, wo be unto him that hearkeneth unto the precepts of men, and denieth the
-power of God, and the gift of the Holy Ghost!" ([2 Ne. 28:20-22, 24-26](https:
-//www.lds.org/scriptures/bofm/2-ne/28.20-22%2C24-26?lang=eng#19).)
+power of God, and the gift of the Holy Ghost!" ([2 Ne. 28:20-22,
+24-26](/scriptures/bofm/2-ne/28.20-22,24-26?lang=eng#19).)
 
 The Lord, through a modern prophet, has given us a solemn charge:
 
 "Verily I say unto you all: Arise and shine forth, that thy light may be a
-standard for the nations." ([D&amp;C 115:5](https://www.lds.org/scriptures/dc-
+standard for the nations." ([D&amp;C 115:5](/scriptures/dc-
 testament/dc/115.5?lang=eng#4).)
 
 "For Zion must increase in beauty, and in holiness; her borders must be
 enlarged; her stakes must be strengthened; yea, verily I say unto you, Zion
-must arise and put on her beautiful garments." ([D&amp;C
-82:14](https://www.lds.org/scriptures/dc-testament/dc/82.14?lang=eng#13).)
+must arise and put on her beautiful garments." ([D&amp;C 82:14](/scriptures
+/dc-testament/dc/82.14?lang=eng#13).)
 
 "Wherefore, lift up your hearts and rejoice, and gird up your loins, and take
 upon you my whole armor, that ye may be able to withstand the evil day, having
-done all, that ye may be able to stand." ([D&amp;C
-27:15](https://www.lds.org/scriptures/dc-testament/dc/27.15?lang=eng#14).)
+done all, that ye may be able to stand." ([D&amp;C 27:15](/scriptures/dc-
+testament/dc/27.15?lang=eng#14).)
 
 We love the youth of the Church and we know the Lord loves them. There isn't
 anything the Church wouldn't do that's right to help our young people--to save
@@ -221,15 +221,15 @@ and rock recordings of its unprecedented filth were big business in our own
 mountain home.
 
 The Lord said, "For my soul delighteth in the song of the heart; yea, the song
-of the righteous is a prayer unto me. ..." ([D&amp;C
-25:12](https://www.lds.org/scriptures/dc-testament/dc/25.12?lang=eng#11).) It
-was pleasing unto the Lord where in Third Nephi in the great Book of Mormon we
-read: "... they did break forth, all as one, in singing, and praising their God.
-..." ([3 Ne. 4:31](https://www.lds.org/scriptures/bofm/3-ne/4.31?lang=eng#30).)
-It was pleasing unto Satan when in First Nephi, Lehi's children and the "sons
-of Ishmael and also their wives began to make themselves merry, insomuch that
-they began to dance, and to sing, and to speak with much rudeness. ..." ([1 Ne.
-18:9](https://www.lds.org/scriptures/bofm/1-ne/18.9?lang=eng#8).)
+of the righteous is a prayer unto me. ..." ([D&amp;C 25:12](/scriptures/dc-
+testament/dc/25.12?lang=eng#11).) It was pleasing unto the Lord where in Third
+Nephi in the great Book of Mormon we read: "... they did break forth, all as
+one, in singing, and praising their God. ..." ([3 Ne.
+4:31](/scriptures/bofm/3-ne/4.31?lang=eng#30).) It was pleasing unto Satan
+when in First Nephi, Lehi's children and the "sons of Ishmael and also their
+wives began to make themselves merry, insomuch that they began to dance, and
+to sing, and to speak with much rudeness. ..." ([1 Ne.
+18:9](/scriptures/bofm/1-ne/18.9?lang=eng#8).)
 
 And now a music scholar points to "a new direction in the rock-drug culture
 [which is] hailed by many ministers and the music industry as a silver lining
@@ -241,9 +241,9 @@ religion to mythology, rock assumes the mantle of righteousness while
 rejecting the reality of sin. Without sin the new morality can continue in its
 Godless revel behind the pretense of religious robes. By reversing the roles
 of Jesus and Judas, one fast-selling album fits perfectly the warning of
-Isaiah [[Isa. 5:20](https://www.lds.org/scriptures/ot/isa/5.20?lang=eng#19)]:
-'Woe unto them that call evil good, and good evil; that put darkness for
-light, and light for darkness.'" (Richard Nibley.)
+Isaiah [[Isa. 5:20](/scriptures/ot/isa/5.20?lang=eng#19)]: 'Woe unto them that
+call evil good, and good evil; that put darkness for light, and light for
+darkness.'" (Richard Nibley.)
 
 Little wonder that the leadership of the Church felt impelled to speak out
 against this sacrilegious, apostate deception by calling this wickedness to
@@ -258,7 +258,7 @@ How can we thwart his designs? The MIA scriptural recitation for last year
 gives us a pattern to follow. The Thirteenth Article of Faith of the Church
 contains an important key: "... If there is anything virtuous, lovely, or of
 good report or praiseworthy, we seek after these things." [[A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)]
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)]
 
 But will we really seek? To seek requires effort.
 
@@ -322,4 +322,6 @@ said to have a fair choice between the Way of Light and the Way of Darkness."
 God grant that we as parents and leaders of youth may have the power and the
 good common sense to give them "a fair choice," I humbly pray in the name of
 Jesus Christ. Amen.
+
+## References
 

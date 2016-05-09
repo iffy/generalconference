@@ -22,7 +22,7 @@ now, we also have our free agency. We may choose whom we will follow, either
 Satan or the Savior. "Therefore, cheer up your hearts, and remember that ye
 are free to act for yourselves--to choose the way of everlasting death or the
 way of eternal life." ([2 Ne.
-10:23](https://www.lds.org/scriptures/bofm/2-ne/10.23?lang=eng#22).)
+10:23](/scriptures/bofm/2-ne/10.23?lang=eng#22).)
 
 Our mortal environment and its influences upon us may be somewhat different
 from those of our premortal existence. Nevertheless, there were positive and
@@ -37,47 +37,45 @@ upon; and they who keep not their first estate [those who followed Satan]
 shall not have glory in the same kingdom with those who keep their first
 estate; and they who keep their second estate [this life] shall have glory
 added upon their heads for ever and ever." ([Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25).)
+3:26](/scriptures/pgp/abr/3.26?lang=eng#25).)
 
 Being sons of God, we were created in his image. In other words, our physical
 appearance is similar to his, just as it is to our earthly father.
 Recognizing, then, that we are literally spiritual sons of our Father in
 heaven--"... And I, the Lord God, had created all the children of men ... for in
 heaven created I them" ([Moses
-3:5](https://www.lds.org/scriptures/pgp/moses/3.5?lang=eng#4))--and
-recognizing that we are created in his image, that this human form of flesh
-and bone is the tabernacle for our spirits in this mortal life, that we had
-the wisdom to make proper choices in the life before this, and further that we
-who are present in this priesthood meeting have the authority to act in his
-name and officiate in his holy ordinances here among men--recognizing all of
-this, it should not be difficult to catch the vision of the responsibilities
-associated with such blessings, responsibilities far and beyond those held by
-those who do not hold the priesthood.
+3:5](/scriptures/pgp/moses/3.5?lang=eng#4))--and recognizing that we are
+created in his image, that this human form of flesh and bone is the tabernacle
+for our spirits in this mortal life, that we had the wisdom to make proper
+choices in the life before this, and further that we who are present in this
+priesthood meeting have the authority to act in his name and officiate in his
+holy ordinances here among men--recognizing all of this, it should not be
+difficult to catch the vision of the responsibilities associated with such
+blessings, responsibilities far and beyond those held by those who do not hold
+the priesthood.
 
 Let us consider just a few of these responsibilities. In the scriptures we
 read, "So God created man in his own image, in the image of God created he
 him; male and female created he them." ([Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26).) The Lord
-defined some very basic differences between men and women. He gave the male
-what we call masculine traits and the female feminine traits. He did not
-intend either of the sexes to adopt the other's traits but, rather, that men
-should look and act like men and that women should look and act like women.
-When these differences are ignored, an unwholesome relationship develops,
-which, if not checked, can lead to the reprehensible, tragic sin of
-homosexuality. In other words, we have a responsibility as priesthood bearers
-to be examples of true manhood.
+1:27](/scriptures/ot/gen/1.27?lang=eng#26).) The Lord defined some very basic
+differences between men and women. He gave the male what we call masculine
+traits and the female feminine traits. He did not intend either of the sexes
+to adopt the other's traits but, rather, that men should look and act like men
+and that women should look and act like women. When these differences are
+ignored, an unwholesome relationship develops, which, if not checked, can lead
+to the reprehensible, tragic sin of homosexuality. In other words, we have a
+responsibility as priesthood bearers to be examples of true manhood.
 
 The Lord commanded men and women to multiply and replenish the earth. "And God
 blessed them, and God said unto them, Be fruitful, and multiply, and replenish
 the earth, and subdue it: and have dominion over the fish of the sea, and over
 the fowl of the air, and over every living thing that moveth upon the earth."
-([Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27).) To
-insure that this would take place, he gave to each a powerful emotion which
-causes a male and female to be attracted to each other. To man he gave a mind
-with which to reason so that he might have dominion over "every living thing
-that moveth upon the earth." With this mind he also expects man to have
-dominion over himself. He expects man to exercise control over his sexual
-drives.
+([Gen. 1:28](/scriptures/ot/gen/1.28?lang=eng#27).) To insure that this would
+take place, he gave to each a powerful emotion which causes a male and female
+to be attracted to each other. To man he gave a mind with which to reason so
+that he might have dominion over "every living thing that moveth upon the
+earth." With this mind he also expects man to have dominion over himself. He
+expects man to exercise control over his sexual drives.
 
 Sexual activity is to be indulged in only within the bonds of marriage. When
 this is the case, it is one of the most rewarding and satisfying experiences
@@ -85,7 +83,7 @@ man can have. When this is not the case, the same experience becomes base and
 evil. Notwithstanding the attitude of much of the world toward sexual
 permissiveness, the Lord has never changed his commandment in this regard. He
 said, "Thou shalt not commit adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).)
+20:14](/scriptures/ot/ex/20.14?lang=eng#13).)
 
 Infidelity and promiscuous sex activity destroy the basic, vital institution
 of the family, which in turn destroys all that is good in life. If we as
@@ -166,14 +164,14 @@ are, men of honesty and integrity.
 You may ask what all of this has to do with the responsibility of a priesthood
 holder. My answer is, Everything. The Lord has said, "He that worketh deceit
 shall not dwell within my house: he that telleth lies shall not tarry in my
-sight." ([Ps. 101:7](https://www.lds.org/scriptures/ot/ps/101.7?lang=eng#6).)
+sight." ([Ps. 101:7](/scriptures/ot/ps/101.7?lang=eng#6).)
 
 Alma, speaking of the people of Ammon, said, "And they were among the people
 of Nephi, and also numbered among the people who were of the church of God.
 And they were also distinguished for their zeal towards God, and also towards
 men; for they were perfectly honest and upright in all things; and they were
 firm in the faith of Christ, even unto the end." ([Alma
-27:27](https://www.lds.org/scriptures/bofm/alma/27.27?lang=eng#26).)
+27:27](/scriptures/bofm/alma/27.27?lang=eng#26).)
 
 The dictionary says integrity implies trustworthiness and incorruptibility to
 a degree that one is incapable of being false to trust, responsibility, or
@@ -217,7 +215,8 @@ bring honor to his name. We are his emissaries in the world. He has shown
 unbounded love for us through the blessing of the priesthood and through
 having given his life that we might have eternal life. In return for all of
 these blessings, he has said, "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).) That we may
-do this more perfectly each day I humbly pray in the name of Jesus Christ.
-Amen.
+14:15](/scriptures/nt/john/14.15?lang=eng#14).) That we may do this more
+perfectly each day I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -108,7 +108,7 @@ prosper and grow, but when they disregard him and his word, there comes a
 decay that, unless arrested by righteousness, leads to impotence and death.
 The Book of Mormon is an affirmation of the Old Testament proverb,
 "Righteousness exalteth a nation: but sin is a reproach to any people" ([Prov.
-14:34](https://www.lds.org/scriptures/ot/prov/14.34?lang=eng#33)).
+14:34](/scriptures/ot/prov/14.34?lang=eng#33)).
 
 We in this good land of America are now hearing much debate concerning the
 treaty designed to reduce the likelihood of nuclear attack on this continent.
@@ -120,7 +120,7 @@ we are speaking:
 "Behold, this is a choice land, and whatsoever nation shall possess it shall
 be free from bondage, and from captivity, and from all other nations under
 heaven, if they will but serve the God of the land, who is Jesus Christ"
-([Ether 2:12](https://www.lds.org/scriptures/bofm/ether/2.12?lang=eng#11)).
+([Ether 2:12](/scriptures/bofm/ether/2.12?lang=eng#11)).
 
 While it speaks with power to the issues that affect our modern society, the
 great and stirring burden of its message is a testimony, vibrant and true,
@@ -131,7 +131,7 @@ appearing to many; and who, prior to his final ascension, visited the people
 of this Western Hemisphere, concerning whom he earlier had said: "And other
 sheep I have, which are not of this fold: them also I must bring, and they
 shall hear my voice; and there shall be one fold, and one shepherd" ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15)).
+10:16](/scriptures/nt/john/10.16?lang=eng#15)).
 
 For centuries the Bible stood alone as a written testimony of the divinity of
 Jesus of Nazareth. Now, at its side, stands a second and powerful witness
@@ -165,7 +165,7 @@ written by this man, like as one crying from the dead, yea, even as one
 speaking out of the dust?
 
 "And God shall show unto you, that that which I have written is true" ([Moro.
-10:27, 29](https://www.lds.org/scriptures/bofm/moro/10.27%2C29?lang=eng#26)).
+10:27, 29](/scriptures/bofm/moro/10.27,29?lang=eng#26)).
 
 My brothers and sisters, without reservation I promise you that if each of you
 will observe this simple program, regardless of how many times you previously
@@ -174,4 +174,6 @@ your homes an added measure of the Spirit of the Lord, a strengthened
 resolution to walk in obedience to his commandments, and a stronger testimony
 of the living reality of the Son of God, which promise I solemnly make in his
 holy name, even the name of Jesus Christ, amen.
+
+## References
 

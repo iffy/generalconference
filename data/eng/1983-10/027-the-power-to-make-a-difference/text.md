@@ -117,7 +117,7 @@ doeth:
 
 "That thine alms may be in secret: and thy Father which seeth in secret
 himself shall reward thee openly." ([Matt.
-6:1-4](https://www.lds.org/scriptures/nt/matt/6.1-4?lang=eng#0).)
+6:1-4](/scriptures/nt/matt/6.1-4?lang=eng#0).)
 
 I am convinced that when we give unconditional love; when our interest is
 first in serving, building, edifying, strengthening without thought of self;
@@ -128,8 +128,8 @@ diminished, but selflessly seek to build another, the miracle of the power of
 the gospel is released in our lives. When we permit the Lord to work through
 us to bless others, that sacred experience releases power in our own lives,
 and miracles occur. Well did the Master say, "For inasmuch as ye do it unto
-the least of these, ye do it unto me." ([D&amp;C
-42:38](https://www.lds.org/scriptures/dc-testament/dc/42.38?lang=eng#37).)
+the least of these, ye do it unto me." ([D&amp;C 42:38](/scriptures/dc-
+testament/dc/42.38?lang=eng#37).)
 
 Respect and love must be earned, and there is no better way to earn them than
 to lift another.
@@ -139,4 +139,6 @@ of the Lord flow through you. Your own self-respect will return, and you can
 love yourself again. Your life will be enriched and given purpose, and you
 will be given the power to make a difference in everything around you. Of this
 I testify, in the name of Jesus Christ, amen.
+
+## References
 

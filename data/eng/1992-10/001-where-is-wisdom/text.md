@@ -1,38 +1,36 @@
 # Where Is Wisdom?
 
 Today I would like to pose a question asked long ago by Job: "Where shall
-wisdom be found?" ([Job
-28:12](https://www.lds.org/scriptures/ot/job/28.12?lang=eng#11).)
+wisdom be found?" ([Job 28:12](/scriptures/ot/job/28.12?lang=eng#11).)
 
 Leaders of this Church have repeatedly emphasized the importance of education.
 It is a vital component of wisdom. Not long after the pioneers began
 construction of their temple in Illinois, they established the University of
 the City of Nauvoo. The First Presidency proclaimed that this university "will
 enable us to teach our children wisdom, to instruct them in all the knowledge
-and learning, in the arts, sciences, and learned professions." [1]
+and learning, in the arts, sciences, and learned professions."[1]
 
 A similar scene followed after the persecuted pioneers entered the valley of
 the Great Salt Lake. Less than three years later, on 28 February 1850, they
-instituted the University of the State of Deseret. [2]  Later several
-academies of learning were established.
+instituted the University of the State of Deseret.[2] Later several academies
+of learning were established.
 
 Now as Church membership worldwide exceeds eight million, it is evident that a
 direct role of the Church in secular education is no longer feasible. Yet our
 commitment to education remains constant.
 
 Scriptures teach that "the glory of God is intelligence." ([D&amp;C
-93:36](https://www.lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35).)
-They also teach that individual "intelligences ... were organized before the
-world was." ([Abr.
-3:22](https://www.lds.org/scriptures/pgp/abr/3.22?lang=eng#21).) "Man was also
-in the beginning with God. Intelligence, or the light of truth, was not
-created or made, neither indeed can be." ([D&amp;C
-93:29](https://www.lds.org/scriptures/dc-testament/dc/93.29?lang=eng#28).)
+93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).) They also teach that
+individual "intelligences ... were organized before the world was." ([Abr.
+3:22](/scriptures/pgp/abr/3.22?lang=eng#21).) "Man was also in the beginning
+with God. Intelligence, or the light of truth, was not created or made,
+neither indeed can be." ([D&amp;C 93:29](/scriptures/dc-
+testament/dc/93.29?lang=eng#28).)
 
 Our personal intelligence is everlasting and divine. I believe Thomas
 Jefferson felt that dignity of the human spirit when he wrote: "I have sworn
 upon the Altar of God, eternal hostility against every form of tyranny over
-the mind of man." [3]
+the mind of man."[3]
 
 ## Seek Education
 
@@ -45,10 +43,9 @@ than faculty.
 Our Creator expects His children everywhere to educate themselves. He issued a
 commandment: "Seek ye diligently and teach one another words of wisdom; yea,
 seek ye out of the best books words of wisdom; seek learning, even by study
-and also by faith." ([D&amp;C 88:118](https://www.lds.org/scriptures/dc-
+and also by faith." ([D&amp;C 88:118](/scriptures/dc-
 testament/dc/88.118?lang=eng#117).) And He assures us that knowledge acquired
-here will be ours forever. (See [D&amp;C
-130:18-19](https://www.lds.org/scriptures/dc-
+here will be ours forever. (See [D&amp;C 130:18-19](/scriptures/dc-
 testament/dc/130.18-19?lang=eng#17).)
 
 Measured by this celestial standard, it is apparent that those who impulsively
@@ -93,7 +90,7 @@ God, for they set it aside, supposing they know of themselves, wherefore,
 their wisdom is foolishness and it profiteth them not. And they shall perish.
 
 "But to be learned is good if they hearken unto the counsels of God." ([2 Ne.
-9:28-29](https://www.lds.org/scriptures/bofm/2-ne/9.28-29?lang=eng#27).)
+9:28-29](/scriptures/bofm/2-ne/9.28-29?lang=eng#27).)
 
 That scripture reminds me of a friend who proudly boasted that his climb
 toward wealth had come from tireless work and lessons learned in the "school
@@ -104,9 +101,9 @@ instruction from his Maker:
 
 "Seek not for riches but for wisdom, and behold, the mysteries of God shall be
 unfolded unto you, and then shall you be made rich. Behold, he that hath
-eternal life is rich." ([D&amp;C 6:7](https://www.lds.org/scriptures/dc-
-testament/dc/6.7?lang=eng#6); see also [D&amp;C
-11:7](https://www.lds.org/scriptures/dc-testament/dc/11.7?lang=eng#6).)
+eternal life is rich." ([D&amp;C 6:7](/scriptures/dc-
+testament/dc/6.7?lang=eng#6); see also [D&amp;C 11:7](/scriptures/dc-
+testament/dc/11.7?lang=eng#6).)
 
 Mankind's unfamiliarity with the scriptures has sometimes brought sorrow to
 great numbers of people over long periods of time. The suffering that has
@@ -116,20 +113,19 @@ from history that pertain to the spread of infection.
 In the nineteenth century, health officials and others were concerned about
 pollution of the air, not by visible smoggy hydrocarbons of today, but by an
 invisible miasma that was blamed for almost any infection. In 1867, for
-example, Lord Lister indicted bad air as the chief cause of infection. [4]
+example, Lord Lister indicted bad air as the chief cause of infection.[4]
 Because of that, in 1869 Simpson from Edinburgh urged that hospitals be taken
-down and rebuilt every few years. [5]  Such an extravagant practice was also
-advocated by other experts. [6]
+down and rebuilt every few years.[5] Such an extravagant practice was also
+advocated by other experts.[6]
 
 Even Florence Nightingale, a living legend following her heroic efforts in the
 Crimean War, failed to recognize the transmission of infection from one
 patient to another--this despite her careful notations that wound infection
-accounted for 40 percent of postoperative mortality. [7]
+accounted for 40 percent of postoperative mortality.[7]
 
 But others missed the connection, too. For centuries, lives of innumerable
 mothers and children were claimed by "childbirth fever"--infections
-unknowingly transmitted among the innocent by unwashed hands of attendants.
-[8]
+unknowingly transmitted among the innocent by unwashed hands of attendants.[8]
 
 It was only a short century ago that the great work of Koch, Pasteur, and
 others proved that infection could be caused by bacteria in contaminated body
@@ -153,22 +149,21 @@ water. ...
 
 "And he that toucheth the flesh of him that hath the issue shall wash his
 clothes, and bathe himself in water." ([Lev. 15:1-5,
-7](https://www.lds.org/scriptures/ot/lev/15.1-5%2C7?lang=eng#0); emphasis
-added.)
+7](/scriptures/ot/lev/15.1-5,7?lang=eng#0); emphasis added.)
 
 Several verses follow which re-emphasize and illustrate those important
 principles. Then we read this conclusion:
 
 "And when he that hath an issue is cleansed of his issue; then he shall ... wash
 his clothes, and bathe his flesh in running water, and shall be clean." ([Lev.
-15:13](https://www.lds.org/scriptures/ot/lev/15.13?lang=eng#12).)
+15:13](/scriptures/ot/lev/15.13?lang=eng#12).)
 
 Thus, our loving Heavenly Father had clearly revealed principles of clean
 technique in the handling of infected patients more than three thousand years
-ago! These scriptures are in complete harmony with modern medical guidelines.
-[9]  But during those many millennia, how many mothers needlessly perished?
-How many children suffered because man's quest for knowledge had failed to
-incorporate the word of the Lord?
+ago! These scriptures are in complete harmony with modern medical
+guidelines.[9] But during those many millennia, how many mothers needlessly
+perished? How many children suffered because man's quest for knowledge had
+failed to incorporate the word of the Lord?
 
 ## Contemporary Challenges
 
@@ -188,16 +183,16 @@ the list of insidious qualities goes on] ...
 "Having a form of godliness, but denying the power thereof: ...
 
 "Ever learning, and never able to come to the knowledge of the truth." ([2
-Tim. 3:1-5, 7](https://www.lds.org/scriptures/nt/2-tim/3.1-5%2C7?lang=eng#0).)
+Tim. 3:1-5, 7](/scriptures/nt/2-tim/3.1-5,7?lang=eng#0).)
 
 Paul's warnings describe apostasy and other dangers of our day. Some of these
 perils are contrary to God's purposes and are championed by persuasive people
 possessing more ability than morality, more knowledge than wisdom. Their
 rationalization breeds justification. The Bible affirms that the "way of a
 fool is right in his own eyes." ([Prov.
-12:15](https://www.lds.org/scriptures/ot/prov/12.15?lang=eng#14).) Indeed,
-individuals with malignity of purpose often wear the mask of honesty. So we
-must constantly be on guard.
+12:15](/scriptures/ot/prov/12.15?lang=eng#14).) Indeed, individuals with
+malignity of purpose often wear the mask of honesty. So we must constantly be
+on guard.
 
 To build a house straight and strong, you do not choose crooked boards. So to
 build your eternal destiny, you cannot--you must not--limit lessons only to
@@ -207,7 +202,7 @@ note of caution and hope:
 "Seek not to counsel the Lord, but to take counsel from his hand. For behold,
 ye yourselves know that he counseleth in wisdom, and in justice, and in great
 mercy, over all his works." ([Jacob
-4:10](https://www.lds.org/scriptures/bofm/jacob/4.10?lang=eng#9).)
+4:10](/scriptures/bofm/jacob/4.10?lang=eng#9).)
 
 Remember the terrible price paid for ignorance of divine instruction. Until
 the turn of this century, infection was spread as if no one had ever read or
@@ -224,21 +219,20 @@ plagues, many innocent victims are doomed to suffer. Where is wisdom?
 
 Avoidable deaths and mounting financial burdens are also incurred worldwide
 because of indifference to or ignorance of God's declaration that tobacco "is
-not good for man." ([D&amp;C 89:8](https://www.lds.org/scriptures/dc-
+not good for man." ([D&amp;C 89:8](/scriptures/dc-
 testament/dc/89.8?lang=eng#7).) Many other societal problems could be listed,
 such as alcohol and drug abuse, gambling, civil strife, and erosion of family
-stability. [10]  We may know so much, yet learn so little. "Where is the
-wisdom we have lost in knowledge? Where is the knowledge we have lost in
-information?" [11]  Again I ask, Where is wisdom?
+stability.[10] We may know so much, yet learn so little. "Where is the wisdom
+we have lost in knowledge? Where is the knowledge we have lost in
+information?"[11] Again I ask, Where is wisdom?
 
 ## Wisdom Found
 
 Wisdom is to be found in pure intelligence--in that divine light which can
 guide people in all countries, all climes, and all continents. The Lord has
 promised that "a light shall break forth among them that sit in darkness, and
-it shall be the fulness of my gospel." ([D&amp;C
-45:28](https://www.lds.org/scriptures/dc-testament/dc/45.28?lang=eng#27).)
-Then He lamented:
+it shall be the fulness of my gospel." ([D&amp;C 45:28](/scriptures/dc-
+testament/dc/45.28?lang=eng#27).) Then He lamented:
 
 "But they receive it not; for they perceive not the light, and they turn their
 hearts from me because of the precepts of men. ...
@@ -252,39 +246,37 @@ among the wicked, men shall lift up their voices and curse God and die.
 
 "And there shall be earthquakes also in divers places, and many desolations;
 yet men will harden their hearts against me." ([D&amp;C 45:29,
-31-33](https://www.lds.org/scriptures/dc-
-testament/dc/45.29%2C31-33?lang=eng#28); see also [D&amp;C
-87:6](https://www.lds.org/scriptures/dc-testament/dc/87.6?lang=eng#5).)
+31-33](/scriptures/dc-testament/dc/45.29,31-33?lang=eng#28); see also [D&amp;C
+87:6](/scriptures/dc-testament/dc/87.6?lang=eng#5).)
 
 In bright contrast to such bitter chaos, the light of the gospel of Jesus
 Christ beams as the hope of the world. Missionaries and members courageously
 proclaim its brilliance. Wise students throughout the world heed its light and
 enrich their education by adding the curriculum of Church Seminaries and
 Institutes. The Lord hides His wisdom from no one: "If any of you lack wisdom,
-let him ask of God." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+let him ask of God." ([James 1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 Again I pose the question once asked by Job: "Where shall wisdom be found?"
-([Job 28:12](https://www.lds.org/scriptures/ot/job/28.12?lang=eng#11).)
-Answer: It emanates from the Lord. He Himself said,
+([Job 28:12](/scriptures/ot/job/28.12?lang=eng#11).) Answer: It emanates from
+the Lord. He Himself said,
 
 "I will give unto the children of men line upon line, precept upon precept,
 here a little and there a little; and blessed are those who hearken unto my
 precepts, and lend an ear unto my counsel, for they shall learn wisdom; for
 unto him that receiveth I will give more." ([2 Ne.
-28:30](https://www.lds.org/scriptures/bofm/2-ne/28.30?lang=eng#29).)
+28:30](/scriptures/bofm/2-ne/28.30?lang=eng#29).)
 
 Divine light and wisdom continue to increase when love for Deity grows:
 
 "That which is of God is light; and he that receiveth light, and continueth in
 God, receiveth more light; and that light groweth brighter and brighter until
-the perfect day." ([D&amp;C 50:24](https://www.lds.org/scriptures/dc-
-testament/dc/50.24?lang=eng#23); see also [D&amp;C
-88:67](https://www.lds.org/scriptures/dc-testament/dc/88.67?lang=eng#66).)
+the perfect day." ([D&amp;C 50:24](/scriptures/dc-
+testament/dc/50.24?lang=eng#23); see also [D&amp;C 88:67](/scriptures/dc-
+testament/dc/88.67?lang=eng#66).)
 
 "He that keepeth his commandments receiveth truth and light, until he is
-glorified in truth and knoweth all things." ([D&amp;C
-93:28](https://www.lds.org/scriptures/dc-testament/dc/93.28?lang=eng#27).)
+glorified in truth and knoweth all things." ([D&amp;C 93:28](/scriptures/dc-
+testament/dc/93.28?lang=eng#27).)
 
 Where is wisdom? It pulses and surges with the Lord's light of truth! With
 that light He lifts us toward eternal life, I testify in the name of Jesus
@@ -292,25 +284,25 @@ Christ, amen.
 
 ## References
 
-  1.   _History of the Church,_ 4:269.
+  1. _History of the Church,_ 4:269.
 
-  2.  Journal History of The Church of Jesus Christ of Latter-day Saints, 28 Feb. 1850, pp. 1-2.
+  2. Journal History of The Church of Jesus Christ of Latter-day Saints, 28 Feb. 1850, pp. 1-2.
 
-  3.  Elbert D. Thomas, _Thomas Jefferson, World Citizen_ (New York: Modern Age Books, 1942), p. 251.
+  3. Elbert D. Thomas, _Thomas Jefferson, World Citizen_ (New York: Modern Age Books, 1942), p. 251.
 
-  4.  J. Lister, "On a New Method of Treating Compound Fracture, Abscess, etc., with Observations on the Conditions of Suppuration," _Lancet,_ 1 (1867): 326.
+  4. J. Lister, "On a New Method of Treating Compound Fracture, Abscess, etc., with Observations on the Conditions of Suppuration," _Lancet,_ 1 (1867): 326.
 
-  5.  J. Y. Simpson, "Our Existing System of Hospitalism and Its Effects," _Edinburgh Medical Journal,_ 14 (1869): 817.
+  5. J. Y. Simpson, "Our Existing System of Hospitalism and Its Effects," _Edinburgh Medical Journal,_ 14 (1869): 817.
 
-  6.  L. A. Stimson, "Bacteria and Their Influence upon the Origin and Development of Septic Complications of Wounds," _New York Medical Journal,_ 22 (1875): 144.
+  6. L. A. Stimson, "Bacteria and Their Influence upon the Origin and Development of Septic Complications of Wounds," _New York Medical Journal,_ 22 (1875): 144.
 
-  7.  See Edward Cook, _The Life of Florence Nightingale,_ 2 vols. (London: Macmillan and Co., 1913), 1:352-438.
+  7. See Edward Cook, _The Life of Florence Nightingale,_ 2 vols. (London: Macmillan and Co., 1913), 1:352-438.
 
-  8.  See Ignaz Philipp Semmelweiss, _Die Aetiologie, der Begriff und die Prophylaxis des Kindbettfiebers,_ reprinted from 1861 ed. (New York: Johnson Reprint Co., 1966), pp. 102-13.
+  8. See Ignaz Philipp Semmelweiss, _Die Aetiologie, der Begriff und die Prophylaxis des Kindbettfiebers,_ reprinted from 1861 ed. (New York: Johnson Reprint Co., 1966), pp. 102-13.
 
-  9.  See _Isolation Techniques for Use in Hospitals_ (Washington, D.C.: U.S. Department of Health, Education, and Welfare, 1970), p. 9.
+  9. See _Isolation Techniques for Use in Hospitals_ (Washington, D.C.: U.S. Department of Health, Education, and Welfare, 1970), p. 9.
 
-  10.  See Bryce J. Christensen, "Critically Ill: The Family and Health Care," _The Family in America,_ The Rockford Institute Center on the Family in America, Mount Morris, Ill., May 1992, pp. 1-8.
+  10. See Bryce J. Christensen, "Critically Ill: The Family and Health Care," _The Family in America,_ The Rockford Institute Center on the Family in America, Mount Morris, Ill., May 1992, pp. 1-8.
 
-  11.  T. S. Eliot, "Choruses from 'The Rock,'" _The Complete Poems and Plays_ (New York: Harcourt, Brace &amp; World, 1971), p. 96.
+  11. T. S. Eliot, "Choruses from 'The Rock,'" _The Complete Poems and Plays_ (New York: Harcourt, Brace &amp; World, 1971), p. 96.
 

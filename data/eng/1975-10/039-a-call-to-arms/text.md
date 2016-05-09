@@ -184,3 +184,5 @@ in the vineyard of the Lord. I testify that this is the kingdom of God on
 earth and that his chief steward and our prophet is Spencer W. Kimball. In the
 name of Jesus Christ. Amen.
 
+## References
+

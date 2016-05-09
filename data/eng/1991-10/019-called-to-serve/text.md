@@ -12,7 +12,7 @@ and Andrew his brother, casting a net into the sea: for they were fishers.
 "And he saith unto them, Follow me, and I will make you fishers of men.
 
 "And they straightway left their nets, and followed him." ([Matt.
-4:18-20](https://www.lds.org/scriptures/nt/matt/4.18-20?lang=eng#17).)
+4:18-20](/scriptures/nt/matt/4.18-20?lang=eng#17).)
 
 Brethren, we too have been called to follow Him as fishers of men, laborers in
 the vineyard to build boys and mend men and bring all unto Christ. We are
@@ -31,8 +31,7 @@ insignificant to receive such a call. President Spencer W. Kimball often
 taught: "Let there be no 'ditch bank' appointments in this Church." Calls to
 serve are to be preceded by careful thought and earnest prayer. As the Lord
 declared, "Remember the worth of souls is great in the sight of God."
-([D&amp;C 18:10](https://www.lds.org/scriptures/dc-
-testament/dc/18.10?lang=eng#9).)
+([D&amp;C 18:10](/scriptures/dc-testament/dc/18.10?lang=eng#9).)
 
 Some of you are called to serve the young men who hold the Aaronic Priesthood.
 These precious young men come in all sizes and with varying dispositions and
@@ -70,8 +69,8 @@ The quorum meetings of the Aaronic Priesthood provide you advisers and members
 of bishoprics with ideal opportunities to teach and train these young men in
 gospel scholarship and in dedicated service. Be examples worthy of emulation.
 Youth need fewer critics and more models to follow. "Teach ye diligently,"
-said the Lord, "and my grace shall attend you." ([D&amp;C
-88:78](https://www.lds.org/scriptures/dc-testament/dc/88.78?lang=eng#77).)
+said the Lord, "and my grace shall attend you." ([D&amp;C 88:78](/scriptures
+/dc-testament/dc/88.78?lang=eng#77).)
 
 These young men of the Aaronic Priesthood, many of whom are assembled here
 tonight, have a vital interest in athletics. The Church recognizes this fact
@@ -139,16 +138,14 @@ serve him with all your heart, might, mind and strength, that ye may stand
 blameless before God at the last day.
 
 "Therefore, if ye have desires to serve God ye are called to the work."
-([D&amp;C 4:2-3](https://www.lds.org/scriptures/dc-
-testament/dc/4.2-3?lang=eng#1).)
+([D&amp;C 4:2-3](/scriptures/dc-testament/dc/4.2-3?lang=eng#1).)
 
 In a revelation to the Prophet Joseph Smith, the Lord counseled, "Wherefore,
 be not weary in well-doing, for ye are laying the foundation of a great work.
 And out of small things proceedeth that which is great.
 
 "Behold, the Lord requireth the heart and a willing mind." ([D&amp;C
-64:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/64.33-34?lang=eng#32).)
+64:33-34](/scriptures/dc-testament/dc/64.33-34?lang=eng#32).)
 
 Through humble prayer, diligent preparation, and faithful service we can
 succeed in our sacred callings. Some priesthood bearers are gifted with the
@@ -286,7 +283,7 @@ merciful and gracious unto those who fear me, and delight to honor those who
 serve me in righteousness and in truth unto the end.
 
 "Great shall be their reward and eternal shall be their glory." ([D&amp;C
-76:5-6](https://www.lds.org/scriptures/dc-testament/dc/76.5-6?lang=eng#4).)
+76:5-6](/scriptures/dc-testament/dc/76.5-6?lang=eng#4).)
 
 _Called to know the richness of his blessing--_
 
@@ -308,4 +305,6 @@ _Called to serve our King._
 
 May we ever be found serving faithfully, I pray humbly in the name of Jesus
 Christ, amen.
+
+## References
 

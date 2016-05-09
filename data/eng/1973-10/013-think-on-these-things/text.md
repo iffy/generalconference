@@ -8,7 +8,7 @@ blessing and benefit and salvation?
 Such an appearance is not wholly outside the realm of possibility. The Prophet
 Joseph Smith said that if we would come together and strip ourselves of
 jealousies and have perfect faith, that the veil might as well be rent today
-as at any time. (See [D&amp;C 67:10](https://www.lds.org/scriptures/dc-
+as at any time. (See [D&amp;C 67:10](/scriptures/dc-
 testament/dc/67.10?lang=eng#9); _Teachings of the Prophet Joseph Smith, _p.
 9.) I think that when the Lord dwelt in the city of Enoch, without question he
 spoke in their congregations; and when in due course he will reign in
@@ -67,7 +67,7 @@ to the House of Israel, to the members of the Lord's Kingdom. He asked:
 
 "... Who among us shall dwell with the devouring fire? who among us shall dwell
 with everlasting burrlings? ([Isa.
-33:14](https://www.lds.org/scriptures/ot/isa/33.14?lang=eng#13).)
+33:14](/scriptures/ot/isa/33.14?lang=eng#13).)
 
 That is, who in the Church shall gain an inheritance in the celestial kingdom?
 Who will go where God and Christ and holy beings are? Who will overcome the
@@ -81,7 +81,7 @@ Isaiah answers:
 gain of oppressions, that shaketh his hands from holding of bribes, that
 stoppeth his ears from hearing of blood, and shutteth his eyes from seeing
 evil; He shall dwell on high. ..." ([Isa.
-33:15-16](https://www.lds.org/scriptures/ot/isa/33.15-16?lang=eng#14).)
+33:15-16](/scriptures/ot/isa/33.15-16?lang=eng#14).)
 
 Now if I may, I shall take these words of Isaiah, spoken by the power of the
 Holy Ghost in the first instance, and give some indication as to how they
@@ -120,28 +120,25 @@ immorality in our minds, we will soon think everybody is immoral and unclean
 and it will break down the barrier between us and the world. And so with every
 other unwholesome, unclean, impure, and ungodly course. And so it is that the
 Lord says he hates and esteems as an abomination, "an heart that deviseth
-wicked imaginations. ..." ([Prov.
-6:18](https://www.lds.org/scriptures/ot/prov/6.18?lang=eng#17).)
+wicked imaginations. ..." ([Prov. 6:18](/scriptures/ot/prov/6.18?lang=eng#17).)
 
 On the other hand, if we are pondering in our hearts the things of
 righteousness, we shall become righteous. If virtue garnishes our thoughts
 unceasingly, our confidence shall wax strong in the presence of God and he in
 turn will rain down righteousness upon us. Truly as Jacob said, "... to be
 carnally-minded is death, and to be spiritually-minded is life eternal." ([2
-Ne. 9:39](https://www.lds.org/scriptures/bofm/2-ne/9.39?lang=eng#38).) And as
-Paul said, "Be not deceived; God is not mocked: for whatsoever a man soweth,
-that shall he also reap. For he that soweth to his flesh shall of the flesh
-reap corruption; but he that soweth to the Spirit shall of the Spirit reap
-life everlasting." ([Gal.
-6:7-8](https://www.lds.org/scriptures/nt/gal/6.7-8?lang=eng#6).)
+Ne. 9:39](/scriptures/bofm/2-ne/9.39?lang=eng#38).) And as Paul said, "Be not
+deceived; God is not mocked: for whatsoever a man soweth, that shall he also
+reap. For he that soweth to his flesh shall of the flesh reap corruption; but
+he that soweth to the Spirit shall of the Spirit reap life everlasting."
+([Gal. 6:7-8](/scriptures/nt/gal/6.7-8?lang=eng#6).)
 
 And yet again from Paul:
 
 "... whatsoever things are true, whatsoever things are honest, whatsoever things
 are just, whatsoever things are pure, whatsoever things are lovely, whatsoever
 things are of good report; if there be any virtue, and if there be any praise,
-think on these things." ([Philip.
-4:8](https://www.lds.org/scriptures/nt/philip/4.8?lang=eng#7).)
+think on these things." ([Philip. 4:8](/scriptures/nt/philip/4.8?lang=eng#7).)
 
 To enable us to keep our minds centered on righteousness, we should
 consciously elect to ponder the truths of salvation in our hearts. Brother
@@ -227,4 +224,6 @@ keeping his commandments and walking uprightly before him, we shall indeed see
 his face and eventually be inheritors with him of eternal life in his Father's
 kingdom. Of this I testify, and for this I pray for all of us, in the name of
 Jesus Christ. Amen.
+
+## References
 

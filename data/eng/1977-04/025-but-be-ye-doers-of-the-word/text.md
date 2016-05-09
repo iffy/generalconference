@@ -11,7 +11,7 @@ manner of man he was.
 "But whoso looketh into the perfect law of liberty, and continueth therein, he
 being not a forgetful hearer, but a doer of the work, this man shall be
 blessed in his deed." ([James
-1:22-25](https://www.lds.org/scriptures/nt/james/1.22-25?lang=eng#21).)
+1:22-25](/scriptures/nt/james/1.22-25?lang=eng#21).)
 
 I marvel as I study the scriptures how often the Lord has found it necessary
 to remind us of the blessings He has given to us, and how we should use those
@@ -27,16 +27,14 @@ scarcity, pain, and sorrow.
 
 The word of the Lord in modern scriptures again commands, "Thou shalt not be
 idle; for he that is idle shall not eat the bread nor wear the garments of the
-laborer." ([D&amp;C 42:42](https://www.lds.org/scriptures/dc-
-testament/dc/42.42?lang=eng#41).)
+laborer." ([D&amp;C 42:42](/scriptures/dc-testament/dc/42.42?lang=eng#41).)
 
 It is evident from the scriptures that the Lord wants us to use the raw
 materials He has so abundantly blessed us with.
 
 The Savior in His earthly ministry taught us this principle by example,
 exhortation, and parable. The message was especially emphasized in the parable
-of the talents. ([Matt.
-25:14-30](https://www.lds.org/scriptures/nt/matt/25.14-30?lang=eng#13).)
+of the talents. ([Matt. 25:14-30](/scriptures/nt/matt/25.14-30?lang=eng#13).)
 
 Here the Savior tells us of a man who was traveling into a far-off country and
 called his servants together to deliver unto them his goods. To one he gave
@@ -49,24 +47,22 @@ digged in the earth and hid his lord's money. After some time the lord
 returned. To those who had gained the five and the two, the lord said, "Well
 done, thou good and faithful servant: thou hast been faithful over a few
 things, I will make thee ruler over many things: enter thou into the joy of
-thy lord." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).)
+thy lord." ([Matt. 25:21](/scriptures/nt/matt/25.21?lang=eng#20).)
 
 Now he who had received the one went and digged in the earth and brought his
 talent forth, and he tried to alibi for not multiplying that which the lord
 had given him.
 
 The lord didn't greet him with "Well done." His greeting was, "Thou wicked and
-slothful servant." ([Matt.
-25:26](https://www.lds.org/scriptures/nt/matt/25.26?lang=eng#25).) And then
-the lord said, "Take therefore the talent from him, and give it unto him which
-hath ten talents.
+slothful servant." ([Matt. 25:26](/scriptures/nt/matt/25.26?lang=eng#25).) And
+then the lord said, "Take therefore the talent from him, and give it unto him
+which hath ten talents.
 
 "For unto every one that hath shall be given, and he shall have abundance; but
 from him that hath not shall be taken away even that which he hath." ([Matt.
-25:28-29](https://www.lds.org/scriptures/nt/matt/25.28-29?lang=eng#27).) As a
-kind and loving father, the Lord has taught His children the joy and
-satisfaction and the rewards associated with accomplishment.
+25:28-29](/scriptures/nt/matt/25.28-29?lang=eng#27).) As a kind and loving
+father, the Lord has taught His children the joy and satisfaction and the
+rewards associated with accomplishment.
 
 As those who have received the light of the gospel, we should be especially
 motivated to be the best in our performance. Could I challenge you in five
@@ -115,7 +111,7 @@ would kneel before him and ask for strength to have forgiveness.
 I challenge you today to make something special of your marriage. Follow the
 counsel of the scriptures and have your marriage built on a foundation of
 faith in Christ and have it rooted and grounded in love. ([Eph.
-3:17](https://www.lds.org/scriptures/nt/eph/3.17?lang=eng#16).)
+3:17](/scriptures/nt/eph/3.17?lang=eng#16).)
 
 Second, the greatest of all blessings of an eternal union is the right to have
 an eternal family. If the Lord wills, righteous marriages should bring forth
@@ -141,8 +137,8 @@ or how the cattle were in the field. This family had as their motto the 88th
 section of the Doctrine and Covenants, 119th verse: "Organize yourselves;
 prepare every needful thing; and establish a house, even a house of prayer, a
 house of fasting, a house of faith, a house of learning, a house of glory, a
-house of order, a house of God." [[D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118)]
+house of order, a house of God." [[D&amp;C 88:119](/scriptures/dc-
+testament/dc/88.119?lang=eng#118)]
 
 I challenge you to make your home a house of God.
 
@@ -164,11 +160,11 @@ Fourth, we have embraced the gospel of Jesus Christ. We have willingly placed
 our hand on the plow. We have accepted the obligation of building the kingdom
 of God here on earth. The scriptures tell us, "But covet earnestly the best
 gifts: and yet shew I unto you a more excellent way." ([1 Cor.
-12:31](https://www.lds.org/scriptures/nt/1-cor/12.31?lang=eng#30).) Surely
-only the standard of excellence is the goal we should be attempting to achieve
-in the assignment we have been given in Church service. I challenge you to
-enthusiastically accept Church calls and with diligence make every effort to
-achieve the highest level of performance.
+12:31](/scriptures/nt/1-cor/12.31?lang=eng#30).) Surely only the standard of
+excellence is the goal we should be attempting to achieve in the assignment we
+have been given in Church service. I challenge you to enthusiastically accept
+Church calls and with diligence make every effort to achieve the highest level
+of performance.
 
 Finally, our children deserve the right to grow up in a clean and wholesome
 environment. We have an obligation and a responsibility to safeguard this
@@ -217,4 +213,6 @@ ourselves to be doers of the word--quality builders in our Father in heaven's
 kingdom. May our lives be filled with the joy of accomplishment. May our
 knowledge of the gospel help us to be the best of whatever the Lord has called
 us to be, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

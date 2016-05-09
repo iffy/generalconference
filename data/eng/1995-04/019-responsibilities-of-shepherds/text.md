@@ -8,8 +8,8 @@ memory.
 
 Brethren, I confess to you that I am not very comfortable in the calling I
 have received. I earnestly desire, with all humility, your faith and prayers.
-If I did not have the absolute conviction that "a man must be called of God"
-[1]  to any office in the Church, I could not serve for one hour in this
+If I did not have the absolute conviction that "a man must be called of
+God"[1] to any office in the Church, I could not serve for one hour in this
 calling. I express my profound appreciation to President Gordon B. Hinckley
 for the honor and the trust he has shown to me in calling me to be his second
 counselor. He has my total loyalty and support.
@@ -37,7 +37,7 @@ the Lord's shepherds. Elder Bruce R. McConkie stated: "Anyone serving in any
 capacity in the Church in which he is responsible for the spiritual or
 temporal well-being of any of the Lord's children is a shepherd to those
 sheep. The Lord holds his shepherds accountable for the safety [meaning the
-salvation] of his sheep." [2]  The bearers of the priesthood have this great
+salvation] of his sheep."[2] The bearers of the priesthood have this great
 responsibility, whether it is father, grandfather, home teacher, elders quorum
 president, bishop, stake president, or other Church calling.
 
@@ -86,24 +86,24 @@ the Lord's shepherds. By that I mean those responsibilities which are
 contained in the revelations given by the Lord himself. There is no greater
 responsibility than that of being a husband and a father, from which there is
 no release. The Lord said, "Thou shalt love thy wife with all thy heart, and
-shalt cleave unto her and none else." [3]  The Lord further says to the
-fathers of this church, "I have commanded you to bring up your children in
-light and truth." [4]
+shalt cleave unto her and none else."[3] The Lord further says to the fathers
+of this church, "I have commanded you to bring up your children in light and
+truth."[4]
 
 "And they shall also teach their children to pray, and to walk uprightly
 before the Lord.
 
 "And the inhabitants of Zion shall also observe the Sabbath day to keep it
-holy." [5]
+holy."[5]
 
 Another great responsibility is that of the home teacher. "The teacher's duty
 is to watch over the church always, and be with and strengthen them;
 
 "And see that there is no iniquity in the church, neither hardness with each
-other, neither lying, backbiting, nor evil speaking." [6]  A further
-commandment is to "see that the church meet together often, and also see that
-all the members do their duty." [7]  They are to "warn, expound, exhort, and
-teach, and invite all to come unto Christ." [8]
+other, neither lying, backbiting, nor evil speaking."[6] A further commandment
+is to "see that the church meet together often, and also see that all the
+members do their duty."[7] They are to "warn, expound, exhort, and teach, and
+invite all to come unto Christ."[8]
 
 The priesthood quorum presidents and their counselors are also shepherds of
 the sheepfold and bear the responsibility to lovingly care for the members of
@@ -123,19 +123,19 @@ brawler, not covetous;
 all gravity;
 
 "(For if a man know not how to rule his own house, how shall he take care of
-the church of God?)" [9]
+the church of God?)"[9]
 
 Of the Aaronic Priesthood, the Lord has said, "The bishopric is the presidency
-of this priesthood, and holds the keys or authority of the same." [10]
-Bishops, our young men are experiencing the storms of life. There are vicious
-wolves prowling to devour them. Many of them are like my little lamb, crying
-out for help. We plead with you bishops to do all you can to keep them safe.
+of this priesthood, and holds the keys or authority of the same."[10] Bishops,
+our young men are experiencing the storms of life. There are vicious wolves
+prowling to devour them. Many of them are like my little lamb, crying out for
+help. We plead with you bishops to do all you can to keep them safe.
 
 The stake president is also a constitutional officer of the Church, for he
 presides over the stake which the Lord has said "may be for a defense, and for
 a refuge from the storm, and from wrath when it shall be poured out without
-mixture upon the whole earth." [11]  The stakes are "the curtains or the
-strength of Zion." [12]  They are to be spiritual centers of righteousness,
+mixture upon the whole earth."[11] The stakes are "the curtains or the
+strength of Zion."[12] They are to be spiritual centers of righteousness,
 strength, and protection.
 
 The Presiding Bishopric, each of whom is an ordained bishop, have the
@@ -152,13 +152,13 @@ officers in the church in the duties of their calling. ...
 "The Seventy are to act in the name of the Lord, under the direction of the
 Twelve or the traveling high council, in building up the church and regulating
 all the affairs of the same in all nations, first unto the Gentiles and then
-to the Jews." [13]
+to the Jews."[13]
 
 The Twelve Apostles are the "special witnesses of the name of Christ in all
 the world, thus differing from other officers in the church in the duties of
-their calling." [14]  The Lord said they are "being sent out, holding the
-keys, to open the door by the proclamation of the gospel of Jesus Christ."
-[15]  The Twelve are the legates of the Lord.
+their calling."[14] The Lord said they are "being sent out, holding the keys,
+to open the door by the proclamation of the gospel of Jesus Christ."[15] The
+Twelve are the legates of the Lord.
 
 The First Presidency have the ultimate responsibility for the affairs of the
 kingdom of God on the earth. Of them the Lord has said:
@@ -171,15 +171,15 @@ Church. ...
 "And the Presidency of the council of the High Priesthood shall have power to
 call other high priests, even twelve, to assist as counselors; and thus the
 Presidency of the High Priesthood and its counselors shall have power to
-decide upon testimony according to the laws of the church." [16]
+decide upon testimony according to the laws of the church."[16]
 
 Of the President of the Church, the Lord has said that he is the "President of
 the High Priesthood of the Church;
 
 "Or, in other words, the Presiding High Priest over the High Priesthood of the
-Church." [17]  He is "to preside over the whole church, and to be like unto
+Church."[17] He is "to preside over the whole church, and to be like unto
 Moses-- ... to be a seer, a revelator, a translator, and a prophet, having all
-the gifts of God which he bestows upon the head of the church." [18]
+the gifts of God which he bestows upon the head of the church."[18]
 
 The President of the Church directs the use of all of the keys and authority
 of the priesthood and is the only person who can exercise all of them, even
@@ -226,47 +226,47 @@ him, Feed my sheep.
 "He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter
 was grieved because he said unto him the third time, Lovest thou me? And he
 said unto him, Lord, thou knowest all things; thou knowest that I love thee.
-Jesus saith unto him, Feed my sheep." [19]
+Jesus saith unto him, Feed my sheep."[19]
 
 That we may do so, I pray humbly in the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [A of F 1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).
+  1. [A of F 1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).
 
-  2.   _Mormon Doctrine_ (Salt Lake City: Bookcraft, 1966), p. 710.
+  2. _Mormon Doctrine_ (Salt Lake City: Bookcraft, 1966), p. 710.
 
-  3.   [D&amp;C 42:22](https://www.lds.org/scriptures/dc-testament/dc/42.22?lang=eng#21).
+  3. [D&amp;C 42:22](https://www.lds.org/scriptures/dc-testament/dc/42.22?lang=eng#21).
 
-  4.   [D&amp;C 93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39).
+  4. [D&amp;C 93:40](https://www.lds.org/scriptures/dc-testament/dc/93.40?lang=eng#39).
 
-  5.   [D&amp;C 68:28-29](https://www.lds.org/scriptures/dc-testament/dc/68.28-29?lang=eng#27).
+  5. [D&amp;C 68:28-29](https://www.lds.org/scriptures/dc-testament/dc/68.28-29?lang=eng#27).
 
-  6.   [D&amp;C 20:53-54](https://www.lds.org/scriptures/dc-testament/dc/20.53-54?lang=eng#52).
+  6. [D&amp;C 20:53-54](https://www.lds.org/scriptures/dc-testament/dc/20.53-54?lang=eng#52).
 
-  7.   [D&amp;C 20:55](https://www.lds.org/scriptures/dc-testament/dc/20.55?lang=eng#54).
+  7. [D&amp;C 20:55](https://www.lds.org/scriptures/dc-testament/dc/20.55?lang=eng#54).
 
-  8.   [D&amp;C 20:59](https://www.lds.org/scriptures/dc-testament/dc/20.59?lang=eng#58).
+  8. [D&amp;C 20:59](https://www.lds.org/scriptures/dc-testament/dc/20.59?lang=eng#58).
 
-  9.   [1 Tim. 3:1-5](https://www.lds.org/scriptures/nt/1-tim/3.1-5?lang=eng#0).
+  9. [1 Tim. 3:1-5](https://www.lds.org/scriptures/nt/1-tim/3.1-5?lang=eng#0).
 
-  10.   [D&amp;C 107:15](https://www.lds.org/scriptures/dc-testament/dc/107.15?lang=eng#14).
+  10. [D&amp;C 107:15](https://www.lds.org/scriptures/dc-testament/dc/107.15?lang=eng#14).
 
-  11.   [D&amp;C 115:6](https://www.lds.org/scriptures/dc-testament/dc/115.6?lang=eng#5).
+  11. [D&amp;C 115:6](https://www.lds.org/scriptures/dc-testament/dc/115.6?lang=eng#5).
 
-  12.   [D&amp;C 101:21](https://www.lds.org/scriptures/dc-testament/dc/101.21?lang=eng#20).
+  12. [D&amp;C 101:21](https://www.lds.org/scriptures/dc-testament/dc/101.21?lang=eng#20).
 
-  13.   [D&amp;C 107:25, 34](https://www.lds.org/scriptures/dc-testament/dc/107.25%2C34?lang=eng#24).
+  13. [D&amp;C 107:25, 34](https://www.lds.org/scriptures/dc-testament/dc/107.25,34?lang=eng#24).
 
-  14.   [D&amp;C 107:23](https://www.lds.org/scriptures/dc-testament/dc/107.23?lang=eng#22).
+  14. [D&amp;C 107:23](https://www.lds.org/scriptures/dc-testament/dc/107.23?lang=eng#22).
 
-  15.   [D&amp;C 107:35](https://www.lds.org/scriptures/dc-testament/dc/107.35?lang=eng#34).
+  15. [D&amp;C 107:35](https://www.lds.org/scriptures/dc-testament/dc/107.35?lang=eng#34).
 
-  16.   [D&amp;C 107:22, 79](https://www.lds.org/scriptures/dc-testament/dc/107.22%2C79?lang=eng#21).
+  16. [D&amp;C 107:22, 79](https://www.lds.org/scriptures/dc-testament/dc/107.22,79?lang=eng#21).
 
-  17.   [D&amp;C 107:65-66](https://www.lds.org/scriptures/dc-testament/dc/107.65-66?lang=eng#64).
+  17. [D&amp;C 107:65-66](https://www.lds.org/scriptures/dc-testament/dc/107.65-66?lang=eng#64).
 
-  18.   [D&amp;C 107:91-92](https://www.lds.org/scriptures/dc-testament/dc/107.91-92?lang=eng#90); see also [D&amp;C 21:1](https://www.lds.org/scriptures/dc-testament/dc/21.1?lang=eng#0).
+  18. [D&amp;C 107:91-92](https://www.lds.org/scriptures/dc-testament/dc/107.91-92?lang=eng#90); see also [D&amp;C 21:1](https://www.lds.org/scriptures/dc-testament/dc/21.1?lang=eng#0).
 
-  19.   [John 21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).
+  19. [John 21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).
 

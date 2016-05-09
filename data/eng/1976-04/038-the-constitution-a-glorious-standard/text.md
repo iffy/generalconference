@@ -21,8 +21,8 @@ these words:
 
 "I established the Constitution of this land, by the hands of _wise men whom I
 raised up unto this very purpose,_ and redeemed the land by the shedding of
-blood." ([D&amp;C 101:80](https://www.lds.org/scriptures/dc-
-testament/dc/101.80?lang=eng#79); italics added.)
+blood." ([D&amp;C 101:80](/scriptures/dc-testament/dc/101.80?lang=eng#79);
+italics added.)
 
 Yes, this is a land fertilized by the blood of patriots. During the struggle
 for independence, nearly 9,000 of the colonist forces were killed. Among those
@@ -85,8 +85,7 @@ president of the nation. This date, I believe, was not accidental.
 In the final analysis, what the framers did, under the inspiration of God, was
 to draft a document that merited the approval of God himself, who declared it
 to "be maintained for the rights and protection of _all_ flesh." ([D&amp;C
-101:77](https://www.lds.org/scriptures/dc-testament/dc/101.77?lang=eng#76);
-italics added.)
+101:77](/scriptures/dc-testament/dc/101.77?lang=eng#76); italics added.)
 
 The document has been criticized by some as outmoded, and even a recent
 president of the United States criticized it as a document "written for an
@@ -161,18 +160,15 @@ everlasting decree of God. ...
 "Behold, this is a choice land, and whatsoever nation shall possess it shall
 be free from bondage, and from captivity, and from all other nations under
 heaven, if they will but serve the God of the land, who is Jesus Christ. ..."
-([Ether 2:9, 10,
-12](https://www.lds.org/scriptures/bofm/ether/2.9%2C10%2C12?lang=eng#8).)
+([Ether 2:9, 10, 12](/scriptures/bofm/ether/2.9,10,12?lang=eng#8).)
 
 The Lord has also decreed that this land should be "the place of the New
 Jerusalem, which should come down out of heaven, ... the holy sanctuary of the
-Lord." ([Ether
-13:3](https://www.lds.org/scriptures/bofm/ether/13.3?lang=eng#2).) Here is our
+Lord." ([Ether 13:3](/scriptures/bofm/ether/13.3?lang=eng#2).) Here is our
 nation's destiny! To serve God's eternal purposes and to prepare this land and
 people for America's eventual destiny, the Lord established the Constitution
 of this land by the hands of wise men whom he raised up to this very purpose.
-(See [D&amp;C 101:80](https://www.lds.org/scriptures/dc-
-testament/dc/101.80?lang=eng#79).)
+(See [D&amp;C 101:80](/scriptures/dc-testament/dc/101.80?lang=eng#79).)
 
 Many Americans have lost sight of the truth that righteousness is the one
 indispensable ingredient to liberty. Perhaps as never before in our history is
@@ -214,8 +210,7 @@ righteousness. An unvirtuous citizenry tend to elect representatives who will
 pander to their covetous lustings. The burden of self-government is a great
 responsibility. It calls for restraint, righteousness, responsibility, and
 reliance upon God. It is a truism from the Lord that "when the wicked rule the
-people mourn." ([D&amp;C 98:9](https://www.lds.org/scriptures/dc-
-testament/dc/98.9?lang=eng#8).)
+people mourn." ([D&amp;C 98:9](/scriptures/dc-testament/dc/98.9?lang=eng#8).)
 
 As presiding officer of the Constitutional Convention, George Washington
 appealed to the delegates in these words: "Let us raise a standard to which
@@ -228,8 +223,8 @@ appropriate and vital it is at the time of our nation's 200th birthday to
 remember this counsel from the Lord:
 
 "_Honest_ men and _wise_ men should be sought for diligently, and good men and
-wise men ye should observe to uphold." ([D&amp;C
-98:10](https://www.lds.org/scriptures/dc-testament/dc/98.10?lang=eng#9).)
+wise men ye should observe to uphold." ([D&amp;C 98:10](/scriptures/dc-
+testament/dc/98.10?lang=eng#9).)
 
 Goodness, wisdom, and honesty are the three qualities of statesmanship,
 qualities this country needs more than ever before. May we be wise--
@@ -261,7 +256,8 @@ coming of our Savior.
 May God bless us to protect this sacred instrument. In the words of the
 Prophet Joseph Smith, "May those principles, which were so honorably and nobly
 defended, namely, the Constitution of our land, by our fathers, be established
-forever." ([D&amp;C 109:54](https://www.lds.org/scriptures/dc-
-testament/dc/109.54?lang=eng#53).) For this I pray, in the name of Jesus
-Christ. Amen.
+forever." ([D&amp;C 109:54](/scriptures/dc-testament/dc/109.54?lang=eng#53).)
+For this I pray, in the name of Jesus Christ. Amen.
+
+## References
 

@@ -63,8 +63,7 @@ and honors you. We are honored to be associated with you.
 I have been interested in the theme which has been selected for this meeting.
 It comes from the first chapter of the Epistle of Paul to the Philippians, and
 reads, "Stand fast in one spirit, with one mind striving together for the
-faith of the gospel." [[Philip.
-1:27](https://www.lds.org/scriptures/nt/philip/1.27?lang=eng#26)]
+faith of the gospel." [[Philip. 1:27](/scriptures/nt/philip/1.27?lang=eng#26)]
 
 Those are the last words of the twenty-seventh verse. The opening words of
 that same verse are equally challenging: "Let your conversation be as it
@@ -83,11 +82,11 @@ This, as you know, is a revelation given through Joseph the Prophet to his
 wife Emma. It was given at Harmony, Pennsylvania, in July of 1830, only a
 short time after the Church was organized. Insofar as I know, this is the only
 revelation given specifically to a woman, and in concluding it the Lord said,
-"This is my voice unto all." ([D&amp;C 25:16](https://www.lds.org/scriptures
-/dc-testament/dc/25.16?lang=eng#15).) Therefore, the counsel given by the Lord
-on this occasion is applicable to each of you. It includes you girls of ten
-and eleven years of age. I am grateful that you are with us tonight. I thank
-you for the effort you have made to come here. Many of you are here with your
+"This is my voice unto all." ([D&amp;C 25:16](/scriptures/dc-
+testament/dc/25.16?lang=eng#15).) Therefore, the counsel given by the Lord on
+this occasion is applicable to each of you. It includes you girls of ten and
+eleven years of age. I am grateful that you are with us tonight. I thank you
+for the effort you have made to come here. Many of you are here with your
 mothers, and that is a wonderful thing, for there is nothing more beautiful,
 no picture more lovely, than that of a mother with her daughters.
 
@@ -102,8 +101,8 @@ Said he to Emma, and to each of us:
 
 "A revelation I give unto you concerning my will; and if thou art faithful and
 walk in the paths of virtue before me, I will preserve thy life, and thou
-shalt receive an inheritance in Zion." ([D&amp;C
-25:2](https://www.lds.org/scriptures/dc-testament/dc/25.2?lang=eng#1).)
+shalt receive an inheritance in Zion." ([D&amp;C 25:2](/scriptures/dc-
+testament/dc/25.2?lang=eng#1).)
 
 "If thou art faithful and walk in the paths of virtue before me"--those words
 might become the theme of a very long sermon. I shall comment only briefly.
@@ -136,36 +135,35 @@ attire so attractive.
 
 It is interesting that in this revelation, when the Lord gave that great
 conditional promise to Emma, he went on to say, "Thy sins are forgiven thee,
-and thou art an elect lady." ([D&amp;C 25:3](https://www.lds.org/scriptures
-/dc-testament/dc/25.3?lang=eng#2).) I am so grateful for the gift of
-forgiveness extended by a merciful Father. Said the Lord through the prophet
-Isaiah concerning those who repent and are forgiven, "Though your sins be as
-scarlet, they shall be as white as snow; though they be red like crimson, they
-shall be as wool." ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).)
+and thou art an elect lady." ([D&amp;C 25:3](/scriptures/dc-
+testament/dc/25.3?lang=eng#2).) I am so grateful for the gift of forgiveness
+extended by a merciful Father. Said the Lord through the prophet Isaiah
+concerning those who repent and are forgiven, "Though your sins be as scarlet,
+they shall be as white as snow; though they be red like crimson, they shall be
+as wool." ([Isa. 1:18](/scriptures/ot/isa/1.18?lang=eng#17).)
 
 To any within the sound of my voice who may be grieving over serious mistakes
 in their lives, I hold out the assurance, given anciently and in modern
 revelation, that where there is repentance there may be forgiveness. Do not
 dwell upon the tragic mistakes of the past. Rather, "look to God and live."
-([Alma 37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46).)
+([Alma 37:47](/scriptures/bofm/alma/37.47?lang=eng#46).)
 
 Emma was called "an elect lady." That is, to use another line of scripture,
 she was a "chosen vessel of the Lord." (See [Moro.
-7:31](https://www.lds.org/scriptures/bofm/moro/7.31?lang=eng#30).) Each of you
-is an elect lady. You have come out of the world as partakers of the restored
-gospel of Jesus Christ. You have made your election, and if you are living
-worthy of it, the Lord will honor you in it and magnify you.
+7:31](/scriptures/bofm/moro/7.31?lang=eng#30).) Each of you is an elect lady.
+You have come out of the world as partakers of the restored gospel of Jesus
+Christ. You have made your election, and if you are living worthy of it, the
+Lord will honor you in it and magnify you.
 
 He then went on to say to Emma, "Murmur not because of the things which thou
-hast not seen." ([D&amp;C 25:4](https://www.lds.org/scriptures/dc-
-testament/dc/25.4?lang=eng#3).) He was speaking of the plates which her
-husband was translating, she serving at the time as his scribe. Evidently she
-complained because Joseph would not show them to her. The Lord is saying to
-her, "Murmur not. Complain not. Accept what must be in my eternal wisdom, and
-do not find fault." There are a few women in the Church who complain because
-they do not hold the priesthood. I think the Lord would say to you, "murmur
-not because of the things which are not given thee."
+hast not seen." ([D&amp;C 25:4](/scriptures/dc-testament/dc/25.4?lang=eng#3).)
+He was speaking of the plates which her husband was translating, she serving
+at the time as his scribe. Evidently she complained because Joseph would not
+show them to her. The Lord is saying to her, "Murmur not. Complain not. Accept
+what must be in my eternal wisdom, and do not find fault." There are a few
+women in the Church who complain because they do not hold the priesthood. I
+think the Lord would say to you, "murmur not because of the things which are
+not given thee."
 
 This is his work. Joseph did not set the rule about not showing the plates to
 others. He was instructed concerning it. Nor have we set the rule concerning
@@ -174,18 +172,16 @@ work this is, and he alone could change it.
 
 Emma was called, in the words of this revelation, to be "a comfort unto my
 servant, Joseph Smith, Jun., thy husband, in his afflictions, with consoling
-words, in the spirit of meekness." ([D&amp;C
-25:5](https://www.lds.org/scriptures/dc-testament/dc/25.5?lang=eng#4).) That
-is interesting language. She was his wife, his companion, his strength in his
-afflictions. She was to comfort with consoling words, given in a spirit of
-meekness.
+words, in the spirit of meekness." ([D&amp;C 25:5](/scriptures/dc-
+testament/dc/25.5?lang=eng#4).) That is interesting language. She was his
+wife, his companion, his strength in his afflictions. She was to comfort with
+consoling words, given in a spirit of meekness.
 
 I see in that the challenge to every woman who is a wife to set the tone of
 that which is spoken in the home. It was said of old that "a soft answer
-turneth away wrath." ([Prov.
-15:1](https://www.lds.org/scriptures/ot/prov/15.1?lang=eng#0).) It is
-interesting to me that in this revelation the Lord spoke of consoling words in
-the spirit of meekness.
+turneth away wrath." ([Prov. 15:1](/scriptures/ot/prov/15.1?lang=eng#0).) It
+is interesting to me that in this revelation the Lord spoke of consoling words
+in the spirit of meekness.
 
 There is so much of argument in the homes of the people. It is so destructive.
 It is so corrosive. It leads only to bitterness, heartbreak, and tears. How
@@ -195,14 +191,12 @@ spirit of meekness.
 
 Emma was to be ordained under the hand of Joseph "to expound scriptures, and
 to exhort the church, according as it shall be given thee by my Spirit."
-([D&amp;C 25:7](https://www.lds.org/scriptures/dc-
-testament/dc/25.7?lang=eng#6).)
+([D&amp;C 25:7](/scriptures/dc-testament/dc/25.7?lang=eng#6).)
 
 She was to be a teacher. She was to be a teacher of righteousness and truth.
 For the Lord said concerning this calling to her, "thou shalt receive the Holy
 Ghost, and thy time shall be given to writing, and to learning much."
-([D&amp;C 25:8](https://www.lds.org/scriptures/dc-
-testament/dc/25.8?lang=eng#7).)
+([D&amp;C 25:8](/scriptures/dc-testament/dc/25.8?lang=eng#7).)
 
 She was to study the gospel. She also was to study the things of the world in
 which she lived. That was made clear in subsequent revelations applicable to
@@ -225,8 +219,8 @@ thought, there must be an expounding of the scripture, there must be an
 exhortation to good works as directed by the Holy Spirit.
 
 The Lord continued, "I say unto thee that thou shalt lay aside the things of
-this world, and seek for the things of a better." ([D&amp;C
-25:10](https://www.lds.org/scriptures/dc-testament/dc/25.10?lang=eng#9).)
+this world, and seek for the things of a better." ([D&amp;C 25:10](/scriptures
+/dc-testament/dc/25.10?lang=eng#9).)
 
 I feel he was not telling Emma that she should not feel concerned about a
 place to live, food on her table, and clothing. He was saying to her that she
@@ -240,16 +234,16 @@ interesting that this counsel came only three months after the Church was
 organized. In connection with that call the Lord made a remarkable declaration
 which is often quoted among us: "For my soul delighteth in the song of the
 heart; yea, the song of the righteous is a prayer unto me, and it shall be
-answered with a blessing upon their heads." ([D&amp;C
-25:12](https://www.lds.org/scriptures/dc-testament/dc/25.12?lang=eng#11).)
+answered with a blessing upon their heads." ([D&amp;C 25:12](/scriptures/dc-
+testament/dc/25.12?lang=eng#11).)
 
 As this gifted chorus has sung to us tonight, those words have gone through my
 mind. The song of the righteous is a prayer unto God, and it shall be answered
 with a blessing upon their heads.
 
 Continuing, the Lord said: "Wherefore, lift up thy heart and rejoice, and
-cleave unto the covenants which thou hast made." ([D&amp;C
-25:13](https://www.lds.org/scriptures/dc-testament/dc/25.13?lang=eng#12).)
+cleave unto the covenants which thou hast made." ([D&amp;C 25:13](/scriptures
+/dc-testament/dc/25.13?lang=eng#12).)
 
 I believe he is saying to each of us, be happy. The gospel is a thing of joy.
 It provides us with a reason for gladness. Of course there are times of
@@ -262,17 +256,17 @@ nature, in the goodness of those you love, in the testimony which you carry in
 your heart concerning things divine.
 
 "Continue in the spirit of meekness, and beware of pride." ([D&amp;C
-25:14](https://www.lds.org/scriptures/dc-testament/dc/25.14?lang=eng#13).)
-Those words are from this same revelation. They are meaningful for each of us.
+25:14](/scriptures/dc-testament/dc/25.14?lang=eng#13).) Those words are from
+this same revelation. They are meaningful for each of us.
 
 "Keep my commandments continually, and a crown of righteousness thou shalt
-receive." ([D&amp;C 25:15](https://www.lds.org/scriptures/dc-
-testament/dc/25.15?lang=eng#14).) That was the promise of the Lord to Emma
-Hale Smith. It is the promise of the Lord to each of you. Happiness lies in
-keeping the commandments. For a Latter-day Saint woman there can be only
-misery in the violation of those commandments. And for each who observes them,
-there is the promise of a crown, a queenly crown for each daughter of God, a
-crown of righteousness and eternal truth.
+receive." ([D&amp;C 25:15](/scriptures/dc-testament/dc/25.15?lang=eng#14).)
+That was the promise of the Lord to Emma Hale Smith. It is the promise of the
+Lord to each of you. Happiness lies in keeping the commandments. For a Latter-
+day Saint woman there can be only misery in the violation of those
+commandments. And for each who observes them, there is the promise of a crown,
+a queenly crown for each daughter of God, a crown of righteousness and eternal
+truth.
 
 I commend to each of you the words of this great revelation given 154 years
 ago. It is as timely today as it was when it was spoken. May I urge that each
@@ -288,4 +282,6 @@ love and honor and respect. God bless you with every righteous desire, with
 peace in your hearts and joy in your days, as daughters of God blessed with
 the light of his everlasting gospel, I humbly pray in the name of Jesus
 Christ, amen.
+
+## References
 

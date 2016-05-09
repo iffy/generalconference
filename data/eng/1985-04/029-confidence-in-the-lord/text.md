@@ -52,7 +52,7 @@ the assignment that he or she is given. Therefore, I state clearly but humbly,
 "I will go and do the things which the Lord hath commanded, for I know that
 the Lord giveth no commandments unto the children of men, save he shall
 prepare a way for them that they may accomplish the thing which he commandeth
-them." ([1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+them." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 Brothers and sisters, I have never been a bishop. Since Friday afternoon I
 have felt puzzled, almost bewildered and overwhelmed, at how a man could be
@@ -92,10 +92,9 @@ feelings on this Easter afternoon. May I add my simple testimony to those who
 have spoken articulately. I once was in darkness, and now see light. I once
 lost all of my confidence, and now know all things are possible in the Lord. I
 once felt shame and now am "filled with his love, even unto the consuming of
-my flesh." ([2 Ne.
-4:21](https://www.lds.org/scriptures/bofm/2-ne/4.21?lang=eng#20).) "I am
+my flesh." ([2 Ne. 4:21](/scriptures/bofm/2-ne/4.21?lang=eng#20).) "I am
 encircled about eternally in the arms of his love." ([2 Ne.
-1:15](https://www.lds.org/scriptures/bofm/2-ne/1.15?lang=eng#14).)
+1:15](/scriptures/bofm/2-ne/1.15?lang=eng#14).)
 
 I express my deepest loyalty to Bishop Hales and his First Counselor, Bishop
 Eyring. I will not betray their trust. I express my love and loyalty to the
@@ -124,4 +123,6 @@ brother, Hyrum. And lastly, may we as a Bishopric acquire the same love,
 respect, and unity I felt in the bishopric of the Bountiful Thirteenth Ward
 with Bishop Lee J. Lalli and D. Ray Alexander, in the name of Jesus Christ,
 amen.
+
+## References
 

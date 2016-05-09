@@ -7,14 +7,12 @@ have.
 
 Throughout the ages, the Lord has referred to his people, those who love him
 and keep his commandments, in words that set them apart. He has called them a
-"peculiar treasure" ([Ex.
-19:5](https://www.lds.org/scriptures/ot/ex/19.5?lang=eng#4)), a "special
-people" ([Deut. 7:6](https://www.lds.org/scriptures/ot/deut/7.6?lang=eng#5)),
-"a royal priesthood, an holy nation" ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)). Scriptures
-refer to such people as Saints. As the Savior taught, "by their fruits ye
-shall know them." ([Matt.
-7:20](https://www.lds.org/scriptures/nt/matt/7.20?lang=eng#19).)
+"peculiar treasure" ([Ex. 19:5](/scriptures/ot/ex/19.5?lang=eng#4)), a
+"special people" ([Deut. 7:6](/scriptures/ot/deut/7.6?lang=eng#5)), "a royal
+priesthood, an holy nation" ([1 Pet.
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)). Scriptures refer to such people as
+Saints. As the Savior taught, "by their fruits ye shall know them." ([Matt.
+7:20](/scriptures/nt/matt/7.20?lang=eng#19).)
 
 In sharp contrast to those who live by gospel principles, I see accounts of
 people who either ignore or don't understand these principles. Some do not
@@ -34,7 +32,7 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 This analogy teaches us an important lesson. We cannot have the fruits of the
 gospel without its roots. Through revelation, the Lord has established those
@@ -49,11 +47,10 @@ May I give you some of the major principles of the gospel.
 
 One distinctive principle is a true concept of the nature of the Godhead: "We
 believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the
-Holy Ghost." ([A of F
-1:1](https://www.lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0).) The Godhead
-consists of three separate, distinct personages who are one in purpose. The
-Father and the Son have tangible bodies of flesh and bone while the Holy Ghost
-is a personage of spirit.
+Holy Ghost." ([A of F 1:1](/scriptures/pgp/a-of-f/1.1?lang=eng#0).) The
+Godhead consists of three separate, distinct personages who are one in
+purpose. The Father and the Son have tangible bodies of flesh and bone while
+the Holy Ghost is a personage of spirit.
 
 God truly is our Father, the Father of the spirits of all mankind. We are his
 literal offspring and are formed in his image. We have inherited divine
@@ -96,8 +93,7 @@ Next I turn to our assurance of a literal resurrection, the uniting, after
 mortal death, of the spirit with a body of flesh and bone. Jesus, the first on
 this earth to be resurrected, made the resurrection a certainty for all
 mankind. This reality is a center point of hope in the gospel of Jesus Christ.
-(See [1 Cor.
-15:19-22](https://www.lds.org/scriptures/nt/1-cor/15.19-22?lang=eng#18).)
+(See [1 Cor. 15:19-22](/scriptures/nt/1-cor/15.19-22?lang=eng#18).)
 
 I have seen the contrast between those who have spiritual confidence in the
 resurrection and others who are confused and uncertain about our postmortal
@@ -130,12 +126,11 @@ and praised. Meanwhile, faithful Saints have observed it as a token of their
 obedience to God. For many years, they could obey it only on faith, in much
 the same spirit that Adam offered sacrifice. An angel asked him, "Why dost
 thou offer sacrifices unto the Lord? And Adam said unto him: I know not, save
-the Lord commanded me." ([Moses
-5:6](https://www.lds.org/scriptures/pgp/moses/5.6?lang=eng#5).) Early members
-of the Church obeyed the Lord's counsel without the benefit of present medical
-knowledge, which has validated the physical benefits of their obedience. We
-now know by scientific evidence what the Saints have known by revelation for
-158 years.
+the Lord commanded me." ([Moses 5:6](/scriptures/pgp/moses/5.6?lang=eng#5).)
+Early members of the Church obeyed the Lord's counsel without the benefit of
+present medical knowledge, which has validated the physical benefits of their
+obedience. We now know by scientific evidence what the Saints have known by
+revelation for 158 years.
 
 Imagine the results we would see if the total populace were to live this law
 of health and never abuse their bodies with alcoholic beverages, tobacco, and
@@ -155,19 +150,17 @@ A sure indicator of true religion is a concern for the poor of the earth. This
 leads us to provide for their needs by acts of charity. I quote James: "Pure
 religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep ... unspotted from the
-world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+world." ([James 1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 Stated simply, charity means subordinating our interests and needs to those of
 others, as the Savior has done for all of us. The Apostle Paul wrote that of
 faith, hope, and charity, "the greatest of these is charity" ([1 Cor.
-13:13](https://www.lds.org/scriptures/nt/1-cor/13.13?lang=eng#12)), and Moroni
-wrote that "except ye have charity ye can in nowise be saved in the kingdom of
-God" ([Moro.
-10:21](https://www.lds.org/scriptures/bofm/moro/10.21?lang=eng#20)). I believe
-that selfless service is a distinctive part of the gospel. As President
-Spencer W. Kimball said, welfare service "is not a program, but the essence of
-the gospel. _It is the gospel in action._
+13:13](/scriptures/nt/1-cor/13.13?lang=eng#12)), and Moroni wrote that "except
+ye have charity ye can in nowise be saved in the kingdom of God" ([Moro.
+10:21](/scriptures/bofm/moro/10.21?lang=eng#20)). I believe that selfless
+service is a distinctive part of the gospel. As President Spencer W. Kimball
+said, welfare service "is not a program, but the essence of the gospel. _It is
+the gospel in action._
 
 "It is the crowning principle of a Christian life." (_Ensign,_ Nov. 1977, p.
 77.)
@@ -194,13 +187,13 @@ others to provide for us that which we can provide for ourselves.
 Missionary work was a distinct part of the Savior's mortal ministry. This is
 also true today. The Savior commanded, "Go ye into all the world, and preach
 the gospel to every creature." ([Mark
-16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14).) His
-disciples, especially Paul, proclaimed the gospel message widely in the years
-following the Savior's crucifixion. In 1831, the Lord revealed through the
-Prophet Joseph Smith, "The voice of the Lord is unto all men, and there is
-none to escape; and there is no eye that shall not see, neither ear that shall
-not hear, neither heart that shall not be penetrated." ([D&amp;C
-1:2](https://www.lds.org/scriptures/dc-testament/dc/1.2?lang=eng#1).)
+16:15](/scriptures/nt/mark/16.15?lang=eng#14).) His disciples, especially
+Paul, proclaimed the gospel message widely in the years following the Savior's
+crucifixion. In 1831, the Lord revealed through the Prophet Joseph Smith, "The
+voice of the Lord is unto all men, and there is none to escape; and there is
+no eye that shall not see, neither ear that shall not hear, neither heart that
+shall not be penetrated." ([D&amp;C 1:2](/scriptures/dc-
+testament/dc/1.2?lang=eng#1).)
 
 Today more than 44,000 missionaries are working to fulfill the divine mandate
 to preach the gospel. They bless the people they teach by acquainting them
@@ -255,7 +248,7 @@ exceeding joy of which I did taste. ...
 
 "For because of the word which he has imparted unto me, behold, many have been
 born of God, and have tasted as I have tasted." ([Alma
-36:24-26](https://www.lds.org/scriptures/bofm/alma/36.24-26?lang=eng#23).)
+36:24-26](/scriptures/bofm/alma/36.24-26?lang=eng#23).)
 
 In addition, if you will sustain the Lord's anointed, your confidence in them
 will wax strong. Your families and your posterity will be blessed and
@@ -266,4 +259,6 @@ My brothers and sisters, your leaders of the Church love you and labor to
 bring you the fruits of the gospel that you may taste as we have tasted. May
 you feel that marvelous joy of God's love and his blessings in your life, I
 pray in the name of Jesus Christ, amen.
+
+## References
 

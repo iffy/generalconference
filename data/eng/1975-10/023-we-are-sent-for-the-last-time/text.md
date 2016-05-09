@@ -25,8 +25,8 @@ How can a man put into words the love in his heart for his eternal wife and
 sweetheart and for the priceless joy that the children she gives him bring.
 This is a sacred joy. It's the joy the scriptures tell us about when they say,
 "And men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).) Our
-companionship brings great tenderness to this mortality.
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).) Our companionship brings great
+tenderness to this mortality.
 
 During the new mission presidents' seminar which was held in June, my wife and
 I had the privilege to be taught by President Kimball and many of the other
@@ -40,7 +40,7 @@ The Lord has said, "Therefore, let the wheat and the tares grow together until
 the harvest is fully ripe; then ye shall first gather out the wheat from among
 the tares, and after the gathering of the wheat, behold and lo, the tares are
 bound in bundles, and the field remaineth to be burned." ([D&amp;C
-86:7](https://www.lds.org/scriptures/dc-testament/dc/86.7?lang=eng#6).)
+86:7](/scriptures/dc-testament/dc/86.7?lang=eng#6).)
 
 The harvest is fully ripe. We are now sent for the last time to gather it in.
 The sickle is in our hands. We must use it while the day lasts. I feel the
@@ -74,9 +74,11 @@ against you, for if ye are built upon my rock, they cannot prevail. ...
 
 "Behold the wounds which pierced my side, and also the prints of the nails in
 my hands and feet; be faithful, keep my commandments, and ye shall inherit the
-kingdom of heaven." ([D&amp;C 6:33-34, 36-37](https://www.lds.org/scriptures
-/dc-testament/dc/6.33-34%2C36-37?lang=eng#32).)
+kingdom of heaven." ([D&amp;C 6:33-34, 36-37](/scriptures/dc-
+testament/dc/6.33-34,36-37?lang=eng#32).)
 
 I bear solemn witness that this church is true, in the name of Jesus Christ.
 Amen.
+
+## References
 

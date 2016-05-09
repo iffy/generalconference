@@ -222,3 +222,5 @@ in the Presiding Bishopric; Blanche Black Stoddard, former general Relief
 Society secretary; and Paul Benjamin Tanner, former general Sunday School
 treasurer.
 
+## References
+

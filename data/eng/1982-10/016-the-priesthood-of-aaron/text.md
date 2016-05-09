@@ -4,8 +4,8 @@
 of Aaron, which holds the keys of the ministering of angels, and of the gospel
 of repentance, and of baptism by immersion for the remission of sins; and this
 shall never be taken again from the earth, until the sons of Levi do offer
-again an offering unto the Lord in righteousness." ([D&amp;C
-13](https://www.lds.org/scriptures/dc-testament/dc/13.title?lang=eng).)
+again an offering unto the Lord in righteousness." ([D&amp;C 13](/scriptures
+/dc-testament/dc/13?lang=eng).)
 
 All of you recognize these words as section 13 of the Doctrine and Covenants.
 They are the words of John the Baptist to Joseph Smith and Oliver Cowdery as
@@ -245,8 +245,8 @@ shalt go to the house of prayer and offer up thy sacraments upon my holy day;
 
 "Remember that on this, the Lord's day, thou shall offer thine oblations and
 thy sacraments unto the Most High, confessing thy sins unto thy brethren, and
-before the Lord." ([D&amp;C 59:9, 12](https://www.lds.org/scriptures/dc-
-testament/dc/59.9%2C12?lang=eng#8).)
+before the Lord." ([D&amp;C 59:9, 12](/scriptures/dc-
+testament/dc/59.9,12?lang=eng#8).)
 
 How shall our people keep themselves unspotted from the world unless they
 develop within themselves the spiritual strength and capacity to resist
@@ -274,4 +274,6 @@ That direction is clear and unequivocal. I pray that we shall follow it, as I
 leave with you, my brethren of the holy priesthood, my testimony and witness
 of the divinity of this work, and invoke the blessings of the Lord upon you.
 In the name of him whom we serve, even the Lord Jesus Christ, amen.
+
+## References
 

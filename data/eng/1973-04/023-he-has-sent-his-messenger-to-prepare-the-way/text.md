@@ -16,36 +16,31 @@ of the gospel to help us to understand the holy scriptures.
 
 Now, we don't only live in the past, by what is in the scriptures that has
 already transpired, for Isaiah said the Lord hath declared "the end from the
-beginning." (See [Isa.
-46:10](https://www.lds.org/scriptures/ot/isa/46.10?lang=eng#9).) It is all
+beginning." (See [Isa. 46:10](/scriptures/ot/isa/46.10?lang=eng#9).) It is all
 there in the holy scriptures when we know how to understand it. He said, "The
 grass withereth, the flower fadeth: but the word of our God shall stand
-forever." ([Isa.
-40:8](https://www.lds.org/scriptures/ot/isa/40.8?lang=eng#7).)
+forever." ([Isa. 40:8](/scriptures/ot/isa/40.8?lang=eng#7).)
 
 I think of the words of the Lord to the prophet Malachi when he said: "Behold,
 I will send my messenger, and he shall prepare the way before me: and the
 Lord, whom ye seek, shall suddenly come to his temple. ... But who may abide the
 day of his coming? ... for he is like a refiner's fire, and like fullers' soap."
-([Mal. 3:1-2](https://www.lds.org/scriptures/ot/mal/3.1-2?lang=eng#0).)
+([Mal. 3:1-2](/scriptures/ot/mal/3.1-2?lang=eng#0).)
 
 Obviously that had no reference to his first coming. He did not come suddenly
 to his temple. All men could abide the day of his coming. He did not come
 cleansing and purifying as a refiner's fire and fullers' soap, but we are told
 that when he shall come in the latter days, the wicked shall cry out, and
 "then shall they begin to say to the mountains, Fall on us; and to the hills,
-Cover us." ([Luke
-23:30](https://www.lds.org/scriptures/nt/luke/23.30?lang=eng#29).)
+Cover us." ([Luke 23:30](/scriptures/nt/luke/23.30?lang=eng#29).)
 
 If the Lord were to send a messenger to prepare the way for his coming, that
 messenger could be none other than a prophet. You remember Amos said, "Surely
 the Lord God will do nothing, but he revealeth his secret unto his servants
-the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) When John the
+the prophets." ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).) When John the
 Baptist was sent to prepare the way for the Savior in the meridian of time,
 the Savior bore testimony that there was no greater prophet in Israel than
-John the Baptist. (See [Luke
-7:28](https://www.lds.org/scriptures/nt/luke/7.28?lang=eng#27).)
+John the Baptist. (See [Luke 7:28](/scriptures/nt/luke/7.28?lang=eng#27).)
 
 Now, it being true that the Lord would send a messenger in these latter days
 to prepare for the second coming of the Savior, just as he did at his first
@@ -56,20 +51,19 @@ relate to the day in which we live.
 
 For instance, when John was banished upon the Isle of Patmos, the angel of the
 Lord said, "Come up hither, and I will shew thee things which must be
-hereafter." ([Rev.
-4:1](https://www.lds.org/scriptures/nt/rev/4.1?lang=eng#0).) This was 30 years
+hereafter." ([Rev. 4:1](/scriptures/nt/rev/4.1?lang=eng#0).) This was 30 years
 after the crucifixion of the Savior. He saw the power that would be given to
 Satan to make war with the saints (and the saints were the followers of Jesus)
 and to overcome them and to rule over all kindreds, and tongues, and nations
-(See [Rev. 13:7](https://www.lds.org/scriptures/nt/rev/13.7?lang=eng#6)),
-showing a complete apostasy from the original church.
+(See [Rev. 13:7](/scriptures/nt/rev/13.7?lang=eng#6)), showing a complete
+apostasy from the original church.
 
 But the Lord didn't leave it at that. This same angel showed John another
 angel flying in the midst of heaven, "having the everlasting gospel [and that
 is the only gospel that can save men] to preach unto them that dwell on the
 earth, and to every nation, and kindred, and tongue, and people." ([Rev.
-14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5).) That isn't the
-gospel of men. That is the gospel of Jesus Christ that has been restored.
+14:6](/scriptures/nt/rev/14.6?lang=eng#5).) That isn't the gospel of men. That
+is the gospel of Jesus Christ that has been restored.
 
 Now why do you suppose that that passage of scripture is in the Bible, if we
 are not to look for an angel coming with the everlasting gospel to be preached
@@ -80,15 +74,14 @@ send his messenger so that this work could be restored to the earth.
 Now John did not only see that the angel would bring the everlasting gospel,
 but he would call men back to the worship of the true and the living God "that
 made heaven, and earth, and the sea, and the fountains of waters." ([Rev.
-14:7](https://www.lds.org/scriptures/nt/rev/14.7?lang=eng#6).) And if you will
-just stop to think, at the time that Joseph Smith had that marvelous vision of
-the Father and the Son, he saw that they were two glorified personages, that
-they were not three in one, without body, parts, or passions. There wasn't a
-church in the world at that time, so far as we know, that was worshiping the
-true and the living God; so when the angel was to come with the everlasting
-gospel, he was also to bring men back to the worship of the true and living
-God who made the heavens and the earth, and the sea, and the fountains of
-waters.
+14:7](/scriptures/nt/rev/14.7?lang=eng#6).) And if you will just stop to
+think, at the time that Joseph Smith had that marvelous vision of the Father
+and the Son, he saw that they were two glorified personages, that they were
+not three in one, without body, parts, or passions. There wasn't a church in
+the world at that time, so far as we know, that was worshiping the true and
+the living God; so when the angel was to come with the everlasting gospel, he
+was also to bring men back to the worship of the true and living God who made
+the heavens and the earth, and the sea, and the fountains of waters.
 
 In fact, at that time the whole Christian world believed in a God without
 body, parts, or passions. That means he had no eyes; he couldn't see. He had
@@ -100,12 +93,12 @@ children of Israel into the promised land, he told them that they would not
 remain there long, but that they would be scattered among the nations, and
 that they would "serve gods, the work of men's hands [that is, man's doing], ...
 which neither see, nor hear, nor eat, nor smell." ([Deut.
-4:28](https://www.lds.org/scriptures/ot/deut/4.28?lang=eng#27).)
+4:28](/scriptures/ot/deut/4.28?lang=eng#27).)
 
 And then Moses said that in the latter days (and we live in the latter days),
 if Israel would seek after God, they would surely find him. (See [Deut.
-4:29](https://www.lds.org/scriptures/ot/deut/4.29?lang=eng#28).) The Prophet
-Joseph sought after him, and he found him.
+4:29](/scriptures/ot/deut/4.29?lang=eng#28).) The Prophet Joseph sought after
+him, and he found him.
 
 Why do you think that should be in the Bible if it should not happen? And when
 we announce that it has happened in our day, you would think that men would
@@ -114,8 +107,7 @@ second coming and the end of the world, he told them of the wars and
 pestilence and earthquakes and famine, and we read a lot about them. Then he
 said, "And this gospel of the kingdom [the gospel that he taught] shall be
 preached in all the world for a witness unto all nations; and then shall the
-end come." ([Matt.
-24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).)
+end come." ([Matt. 24:14](/scriptures/nt/matt/24.14?lang=eng#13).)
 
 If we expect to see him come again, we have to look for the preaching of that
 very same gospel, and that is the message of every Mormon elder who goes out
@@ -149,7 +141,7 @@ me is taught by the precept of men:
 "Therefore, behold, I will proceed to do a marvellous work among this people,
 even a marvellous work and a wonder: for the wisdom of their wise men shall
 perish, and the understanding of their prudent men shall be hid." ([Isa.
-29:13-14](https://www.lds.org/scriptures/ot/isa/29.13-14?lang=eng#12).)
+29:13-14](/scriptures/ot/isa/29.13-14?lang=eng#12).)
 
 There are so many marvelous things that have happened in the restoration of
 the gospel. Take the Book of Mormon, for example. Why, that is a miracle that
@@ -163,26 +155,25 @@ Joseph that the Lord had promised Joseph who was sold into Egypt that he would
 raise up a prophet in the latter days from his loins like unto Moses; that his
 name would be Joseph, his father's name would be Joseph, and that he should
 bring forth his word. (See [2 Ne. 3:6, 9,
-15](https://www.lds.org/scriptures/bofm/2-ne/3.6%2C9%2C15?lang=eng#5).) That
-obviously was the Prophet Joseph Smith. He brought us the Book of Mormon. He
-brought us the Doctrine and Covenants. He brought us the Pearl of Great Price
-and many other writings.
+15](/scriptures/bofm/2-ne/3.6,9,15?lang=eng#5).) That obviously was the
+Prophet Joseph Smith. He brought us the Book of Mormon. He brought us the
+Doctrine and Covenants. He brought us the Pearl of Great Price and many other
+writings.
 
 Then the Lord said: "... unto him will I give power to bring forth my word ... and
 not to the bringing forth my word only, ... but to the convincing them of my
 word, which shall have already gone forth among them." ([2 Ne.
-3:11](https://www.lds.org/scriptures/bofm/2-ne/3.11?lang=eng#10).) In other
-words, he would bring them to a true understanding of the Bible.
+3:11](/scriptures/bofm/2-ne/3.11?lang=eng#10).) In other words, he would bring
+them to a true understanding of the Bible.
 
 Then he said, ["He] shall bring my people unto salvation." ([2 Ne. 3:
-15](https://www.lds.org/scriptures/bofm/2-ne/3.title?lang=eng).) Why? Because
-he had the holy priesthood restored so that he could administer the saving
-ordinances of the gospel. And then the Lord adds, "And I will make him great
-in mine eyes." ([2 Ne.
-3:8](https://www.lds.org/scriptures/bofm/2-ne/3.8?lang=eng#7).) Whatever the
-world may think of the prophet of this dispensation, the Lord knew he would be
-great, for he had him in waiting for three thousand years when he promised
-Joseph that out of his loins he would raise up a prophet in our day.
+15](/scriptures/bofm/2-ne/3?lang=eng).) Why? Because he had the holy
+priesthood restored so that he could administer the saving ordinances of the
+gospel. And then the Lord adds, "And I will make him great in mine eyes." ([2
+Ne. 3:8](/scriptures/bofm/2-ne/3.8?lang=eng#7).) Whatever the world may think
+of the prophet of this dispensation, the Lord knew he would be great, for he
+had him in waiting for three thousand years when he promised Joseph that out
+of his loins he would raise up a prophet in our day.
 
 I would like to mention an experience to indicate what I think he meant when
 he said, "... unto him will I give power to bring forth my word ... and not to the
@@ -298,41 +289,38 @@ proceed to illustrate to you what I mean."
 I said that in Canon Frederick William Farrar's work _Life of Christ
 _(Cassell, 1902), he said there were two passages in the New Testament for
 which he could find no excuse. The first is [John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15), where Jesus
-said, "And other sheep I have, which are not of this fold: them also I must
-bring, and they shall hear my voice; and there shall be one fold, and one
-shepherd."
+10:16](/scriptures/nt/john/10.16?lang=eng#15), where Jesus said, "And other
+sheep I have, which are not of this fold: them also I must bring, and they
+shall hear my voice; and there shall be one fold, and one shepherd."
 
 I said, "Do any of you men know why that is in the Bible? Do any of you know
 any church in the world that does know why it is in the Bible? Well, we know
 all about it." And then I explained the promise to Joseph of a new land in the
 utmost bounds of the everlasting hills, and in describing that land, Moses
 uses the word _precious _five times in just a few verses. (See [Deut.
-33:13-16](https://www.lds.org/scriptures/ot/deut/33.13-16?lang=eng#12).)
+33:13-16](/scriptures/ot/deut/33.13-16?lang=eng#12).)
 
 I said, "Do any of you know where that land of Joseph is?" Then I explained
 that it was the land of America, and that Jesus visited his people here in
 America, and he told them that they were the other sheep of whom he spoke to
-his disciples. (See [2 Ne.
-15:21](https://www.lds.org/scriptures/bofm/2-ne/15.21?lang=eng#20).) He said
-that not at any time did the Father command him to tell his disciples who the
-other sheep were, only that he had other sheep. (See [3 Ne.
-15:15-17](https://www.lds.org/scriptures/bofm/3-ne/15.15-17?lang=eng#14).)
+his disciples. (See [2 Ne. 15:21](/scriptures/bofm/2-ne/15.21?lang=eng#20).)
+He said that not at any time did the Father command him to tell his disciples
+who the other sheep were, only that he had other sheep. (See [3 Ne.
+15:15-17](/scriptures/bofm/3-ne/15.15-17?lang=eng#14).)
 
 The other passage they couldn't understand was the one where Paul said, "Else
 what shall they do which are baptized for the dead, if the dead rise not at
 all? why are they then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).) I said,
-"Do any of you know why that is in the Bible? Do any of you know any church in
-the world that does know why it is in the Bible?" Then I explained this
-doctrine to them.
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).) I said, "Do any of you know
+why that is in the Bible? Do any of you know any church in the world that does
+know why it is in the Bible?" Then I explained this doctrine to them.
 
 I quoted to them the words of Peter following the day of Pentecost, when he
 said to those who had put to death the Christ, "And he shall send Jesus
 Christ, which before was preached unto you: Whom the heaven must receive until
 the times of restitution of all things, which God hath spoken by the mouth of
 all his holy prophets since the world began." ([Acts
-3:20-21](https://www.lds.org/scriptures/nt/acts/3.20-21?lang=eng#19).)
+3:20-21](/scriptures/nt/acts/3.20-21?lang=eng#19).)
 
 That is not a reformation; that is a restitution. I said, "That is what I have
 been telling you here for two hours and a half, and you can't look for the
@@ -343,7 +331,7 @@ When I concluded, the man in charge said, "Mr. Richards, this has been one of
 the most interesting experiences of my entire life." That is what Isaiah meant
 when he said, "... the wisdom of their wise men shall perish, and the
 understanding of their prudent men shall be hid." ([Isa. 29:
-14](https://www.lds.org/scriptures/ot/isa/29.title?lang=eng).)
+14](/scriptures/ot/isa/29?lang=eng).)
 
 I bear you my witness that there isn't a man or a woman in this world who
 really loves the Lord with all their heart who wouldn't join this church if
@@ -351,4 +339,6 @@ they would just take time to find out what it is, for I know that it is God's
 eternal truth. He has sent his messenger to prepare the way for his coming. I
 pray God to bless us and help us all to be missionaries. I leave you my
 blessing in the name of the Lord Jesus Christ. Amen.
+
+## References
 

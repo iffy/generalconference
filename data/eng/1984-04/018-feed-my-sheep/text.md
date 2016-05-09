@@ -63,7 +63,7 @@ things. We could take a little of this and a little of that and lure the
 little children back to their own table. Then we could enjoy our feast without
 interruption. After all, we earned what we have. Did we not "obtain it by [our
 own] industry," as the Book of Mormon says? (See [Alma
-4:6](https://www.lds.org/scriptures/bofm/alma/4.6?lang=eng#5).)
+4:6](/scriptures/bofm/alma/4.6?lang=eng#5).)
 
 I hope you would not do that. There is a better answer. You already know what
 it is.
@@ -85,7 +85,7 @@ conceivable manner of spiritual nourishment is ours. Every part of the
 spiritual menu is included. It provides an unending supply of spiritual
 strength. Like the widow's cruse of oil, it is replenished as we use it and
 shall never fail. (See [1 Kgs.
-17:8-16](https://www.lds.org/scriptures/ot/1-kgs/17.8-16?lang=eng#7).)
+17:8-16](/scriptures/ot/1-kgs/17.8-16?lang=eng#7).)
 
 And yet, there are people across the world and about us--our neighbors, our
 friends, some in our own families--who, spiritually speaking, are
@@ -109,9 +109,9 @@ the Gentiles. Then Peter had a vision. He saw a vessel full of all kinds of
 creatures and was commanded to kill and to eat. But he refused, saying they
 were common and unclean. Then the voice said, "What God hath cleansed, that
 call not thou common." (See [Acts
-10:9-16](https://www.lds.org/scriptures/nt/acts/10.9-16?lang=eng#8).) That
-vision, and the experience they had immediately following, convinced them of
-their duty; thus began the great missionary work of all Christianity.
+10:9-16](/scriptures/nt/acts/10.9-16?lang=eng#8).) That vision, and the
+experience they had immediately following, convinced them of their duty; thus
+began the great missionary work of all Christianity.
 
 Almost any returned missionary will have a question: "If they are starving
 spiritually, why do they not accept what we have? Why do they slam the door on
@@ -136,10 +136,9 @@ reject the rich food we offer. They must be fed carefully and gently.
 Some are so near spiritual death that they must be spoonfed on the broth of
 fellowship, or nourished carefully on activities and programs. As the
 scriptures say, they must have milk before meat. (See [1 Cor.
-3:2](https://www.lds.org/scriptures/nt/1-cor/3.2?lang=eng#1); [D&amp;C
-19:22](https://www.lds.org/scriptures/dc-testament/dc/19.22?lang=eng#21).) But
-we must take care lest the only nourishment they receive thereafter is that
-broth.
+3:2](/scriptures/nt/1-cor/3.2?lang=eng#1); [D&amp;C 19:22](/scriptures/dc-
+testament/dc/19.22?lang=eng#21).) But we must take care lest the only
+nourishment they receive thereafter is that broth.
 
 But feed them we must. We are commanded to preach the gospel to every nation,
 kindred, tongue, and people. That message, my young friends, appears more than
@@ -199,7 +198,7 @@ one, for which I bear no shame. It reminds me of my duty!
 
 Young brethren, I can hear the voice of the Lord saying to each of us just as
 He said to Peter, "Feed my lambs. ... Feed my sheep. ... Feed my sheep." (See
-[John 21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).)
+[John 21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14).)
 
 I have unbounded confidence and faith in you, our young brethren. You are the
 warriors of the Restoration. And in this spiritual battle, you are to relieve
@@ -209,4 +208,6 @@ We have the fullness of the everlasting gospel. We have the obligation to
 share it with those who do not have it. God grant that we will honor that
 commission from the Lord and prepare ourselves and answer the call, I humbly
 pray, in the name of Jesus Christ, amen.
+
+## References
 

@@ -81,8 +81,7 @@ follows the course charted by bemused manipulators and now being implemented
 as government welfare programs all around the world.
 
 "Babylon shall be destroyed, and great shall be the fall thereof. (See
-[D&amp;C 1:16](https://www.lds.org/scriptures/dc-
-testament/dc/1.16?lang=eng#15).)
+[D&amp;C 1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15).)
 
 "But do not be discouraged. Zion will not go down with her, because Zion shall
 be built on the principles of love of God and fellowman, work, and earnest
@@ -103,8 +102,7 @@ great work." (In _Conference Report,_ Apr. 1977, p. 118.)
 Now, brethren, listen to Alma's landmark counsel for leaders: "And he
 commanded them [the leaders] that they should teach nothing save it were the
 things which he had taught, and which had been spoken by the mouth of the holy
-prophets." ([Mosiah
-18:19](https://www.lds.org/scriptures/bofm/mosiah/18.19?lang=eng#18).) We are
+prophets." ([Mosiah 18:19](/scriptures/bofm/mosiah/18.19?lang=eng#18).) We are
 under that same obligation.
 
 President Tanner said that President Romney was the best informed and greatest
@@ -157,4 +155,6 @@ principles. It is crucial!
 This work is divine. It will yet save and exalt us. That exaltation will come
 by living this law. May we in unity rise to this challenge and do it, I humbly
 pray in the name of Jesus Christ. Amen.
+
+## References
 

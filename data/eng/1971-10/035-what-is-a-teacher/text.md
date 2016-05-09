@@ -127,13 +127,13 @@ without even a pause, he goes into a second parable like unto it, which says:
 "Either what woman having ten pieces of silver, if she lose one piece, doth
 not light a candle, and sweep the house, and seek diligently till she find
 it." And she too rejoices with her neighbors. ([Luke 15:4,
-8](https://www.lds.org/scriptures/nt/luke/15.4%2C8?lang=eng#3).)
+8](/scriptures/nt/luke/15.4,8?lang=eng#3).)
 
 And then he goes into that parable of parables, the Prodigal Son: "A certain
 man had two sons: And the younger of them said to his father, 'Father, give me
 the portion of goods that falleth to me.'" And we recognize how with his
 agency he squandered it all. (See [Luke
-15:11-32](https://www.lds.org/scriptures/nt/luke/15.11-32?lang=eng#10).)
+15:11-32](/scriptures/nt/luke/15.11-32?lang=eng#10).)
 
 I used to wonder, as a teacher so-called, why the Savior would spend time
 citing three parables about things that get lost. And then one day it dawned.
@@ -161,7 +161,7 @@ And then the great parable of the Prodigal Son, with the Savior saying that
 there are those who get lost by choice; and in the concluding of that parable,
 he says: "And when he came to himself he [the Prodigal Son] said, How many
 hired servants of my father's have bread enough and to spare. ..." ([Luke
-15:17](https://www.lds.org/scriptures/nt/luke/15.17?lang=eng#16).)
+15:17](/scriptures/nt/luke/15.17?lang=eng#16).)
 
 There are those who get lost because their free agency takes them down that
 path. We can't do a lot at some points to recover this kind of a person except
@@ -222,4 +222,6 @@ And now he begs no more.
 
 Such is the gospel of Jesus Christ, to which I bear solemn testimony in the
 name of Jesus Christ. Amen.
+
+## References
 

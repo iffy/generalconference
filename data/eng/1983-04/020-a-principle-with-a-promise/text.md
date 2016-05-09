@@ -26,10 +26,9 @@ the Whitney home. This revelation is known as the Word of Wisdom.
 
 At first the revelation was not given as a commandment. It was given as "a
 principle with promise, adapted to the capacity of the weak and the weakest of
-all saints, who are or can be called saints." ([D&amp;C
-89:3](https://www.lds.org/scriptures/dc-testament/dc/89.3?lang=eng#2).) This
-allowed time for the Saints to adjust to the principles contained in the
-revelation.
+all saints, who are or can be called saints." ([D&amp;C 89:3](/scriptures/dc-
+testament/dc/89.3?lang=eng#2).) This allowed time for the Saints to adjust to
+the principles contained in the revelation.
 
 While I was on my first mission in Great Britain in 1922, some of the sisters
 had difficulty giving up their tea. I read that passage to them, and most of
@@ -85,14 +84,13 @@ The revelation defines and admonishes abstinence from harmful substances and
 beverages in these words:
 
 "Strong drinks [or, in other words, alcoholic or harmful beverages] are not
-for the belly." ([D&amp;C 89:7](https://www.lds.org/scriptures/dc-
-testament/dc/89.7?lang=eng#6).)
+for the belly." ([D&amp;C 89:7](/scriptures/dc-testament/dc/89.7?lang=eng#6).)
 
 "Tobacco is not for the body ... and is not good for man." ([D&amp;C
-89:8](https://www.lds.org/scriptures/dc-testament/dc/89.8?lang=eng#7).)
+89:8](/scriptures/dc-testament/dc/89.8?lang=eng#7).)
 
 "Hot drinks [defined as tea and coffee] are not for the body." ([D&amp;C
-89:9](https://www.lds.org/scriptures/dc-testament/dc/89.9?lang=eng#8).)
+89:9](/scriptures/dc-testament/dc/89.9?lang=eng#8).)
 
 Those foods which are good for man are described in these words:
 
@@ -106,15 +104,14 @@ of man--
 "All grain is ordained for the use of man ... to be the staff of life. ...
 
 "All grain is good for the food of man; as also the fruit of the vine."
-([D&amp;C 89:10-12, 14, 16](https://www.lds.org/scriptures/dc-
-testament/dc/89.10-12%2C14%2C16?lang=eng#9).)
+([D&amp;C 89:10-12, 14, 16](/scriptures/dc-
+testament/dc/89.10-12,14,16?lang=eng#9).)
 
 In this revelation the Lord counsels us to use meat sparingly. I have often
 felt that the Lord is further counseling us in this revelation against
 indiscriminately killing animals, for He has said elsewhere in scripture, "Wo
 be unto man that sheddeth blood or that wasteth flesh and hath no need."
-([D&amp;C 49:21](https://www.lds.org/scriptures/dc-
-testament/dc/49.21?lang=eng#20).)
+([D&amp;C 49:21](/scriptures/dc-testament/dc/49.21?lang=eng#20).)
 
 Wheat is particularly singled out as being good for man, as is the fruit of
 the vine--vegetables and all fruits. This is the wisdom of the Lord on the
@@ -126,8 +123,8 @@ health, endurance, and resistance to many diseases.
 
 The temporal promise for obedience is: They "shall receive health in their
 navel and marrow to their bones; ... [they] shall run and not be weary, and
-shall walk and not faint." ([D&amp;C 89:18, 20](https://www.lds.org/scriptures
-/dc-testament/dc/89.18%2C20?lang=eng#17).)
+shall walk and not faint." ([D&amp;C 89:18, 20](/scriptures/dc-
+testament/dc/89.18,20?lang=eng#17).)
 
 I have always felt, however, that the greater blessing of obedience to the
 Word of Wisdom and all other commandments is spiritual.
@@ -135,8 +132,7 @@ Word of Wisdom and all other commandments is spiritual.
 Listen to the spiritual promise: "All saints who remember to keep and do these
 sayings, walking in obedience _to the commandments,_ ... shall find wisdom and
 great treasures of knowledge, even hidden treasures." ([D&amp;C 89:18,
-19](https://www.lds.org/scriptures/dc-testament/dc/89.18%2C19?lang=eng#17);
-italics added.)
+19](/scriptures/dc-testament/dc/89.18,19?lang=eng#17); italics added.)
 
 Some have thought this promise was contingent on just keeping the provisions
 of the Word of Wisdom. But you will notice we must walk in obedience to _all_
@@ -145,8 +141,8 @@ means we must obey the law of tithing, keep the Sabbath day holy, keep morally
 clean and chaste, and obey all other commandments.
 
 When we do all this, the promise is: They "shall find wisdom and great
-treasures of knowledge, even hidden treasures." ([D&amp;C
-89:19](https://www.lds.org/scriptures/dc-testament/dc/89.19?lang=eng#18).)
+treasures of knowledge, even hidden treasures." ([D&amp;C 89:19](/scriptures
+/dc-testament/dc/89.19?lang=eng#18).)
 
 What father and mother would not want the inspiration of the Lord in rearing
 their children? I testify these blessings can be yours. Surely parents would
@@ -178,8 +174,7 @@ There is another part of this revelation that constitutes a pertinent warning
 to this modern generation: "In consequence of evils and designs which do and
 will exist in the hearts of conspiring men in the last days, I have warned
 you, and forewarn you, by giving unto you this word of wisdom by revelation."
-([D&amp;C 89:4](https://www.lds.org/scriptures/dc-
-testament/dc/89.4?lang=eng#3).)
+([D&amp;C 89:4](/scriptures/dc-testament/dc/89.4?lang=eng#3).)
 
 The Lord foresaw the situation of today when motives for money would cause men
 to conspire to entice others to take noxious substances into their bodies.
@@ -227,4 +222,6 @@ servants.
 I further testify that obedience to all of God's laws brings the precious
 promise of peace in this life and eternal life in the world to come, in the
 name of Jesus Christ, amen.
+
+## References
 

@@ -6,7 +6,7 @@ the Lord.
 From the book of 3 Nephi we read: "Behold, I am a disciple of Jesus Christ,
 the Son of God. I have been called of him to declare his word among his
 people, that they might have everlasting life." ([3 Ne.
-5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12).)
+5:13](/scriptures/bofm/3-ne/5.13?lang=eng#12).)
 
 I came from Korea, traveling halfway around the world to bear my testimony of
 the truthfulness of the gospel of Jesus Christ. Korea has experienced wars.
@@ -103,7 +103,7 @@ and how to love these people.
 
 In the book of Mark we read, "Whosoever will come after me, let him deny
 himself, and take up his cross, and follow me." ([Mark
-8:34](https://www.lds.org/scriptures/nt/mark/8.34?lang=eng#33).)
+8:34](/scriptures/nt/mark/8.34?lang=eng#33).)
 
 Bearing this cross is not easy, but it will not be too difficult because God
 lives and He loves us.
@@ -124,4 +124,6 @@ ta! _I know that God, our Heavenly Father, lives and that Jesus Christ is our
 Savior. Joseph Smith was a true prophet of the Lord in this dispensation.
 
 In the name of Jesus Christ, amen.
+
+## References
 

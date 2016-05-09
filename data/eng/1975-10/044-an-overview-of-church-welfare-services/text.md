@@ -81,8 +81,7 @@ of consecration."
 
 The Lord has said, "And Zion cannot be built up unless it is by the principles
 of the law of the celestial kingdom; otherwise I cannot receive her unto
-myself." ([D&amp;C 105:5](https://www.lds.org/scriptures/dc-
-testament/dc/105.5?lang=eng#4).)
+myself." ([D&amp;C 105:5](/scriptures/dc-testament/dc/105.5?lang=eng#4).)
 
 We recognize that we are building upon the work of the brethren who have gone
 before us. We are also very much aware of the scriptural admonition which the
@@ -92,8 +91,7 @@ whereby you may accomplish the commandments which are given you;
 
 "That through my providence, notwithstanding the tribulation which shall
 descend upon you, that the church may stand independent above all other
-creatures beneath the celestial world." ([D&amp;C
-78:13-14](https://www.lds.org/scriptures/dc-
+creatures beneath the celestial world." ([D&amp;C 78:13-14](/scriptures/dc-
 testament/dc/78.13-14?lang=eng#12).)
 
 All levels of the Church organization must be prepared--individuals, families,
@@ -273,8 +271,7 @@ went in with him to the marriage: and the door was shut.
 "But he answered and said, Verily I say unto you, I know you not.
 
 "Watch therefore, for ye know neither the day nor the hour wherein the Son of
-man cometh." ([Matt.
-25:1-13](https://www.lds.org/scriptures/nt/matt/25.1-13?lang=eng#0).)
+man cometh." ([Matt. 25:1-13](/scriptures/nt/matt/25.1-13?lang=eng#0).)
 
 Brothers and sisters, may I suggest that the oil which the wise virgins
 carried was the oil of consecration. The only complete welfare services
@@ -285,4 +282,6 @@ I bear my witness that this is the gospel of Jesus Christ; that we have a
 stewardship; that the Lord expects us to honor that stewardship and to bless
 the people of this earth with his program and in his own way. I bear this
 witness in the name of the Lord Jesus Christ. Amen.
+
+## References
 

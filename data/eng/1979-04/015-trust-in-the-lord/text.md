@@ -5,7 +5,7 @@ I have to say I think would be applicable to all of us, however. I would like
 to start with Alma's testimony to his son. He testified "that whosoever shall
 put their trust in God shall be supported in their trials, and their troubles,
 and their afflictions, and shall be lifted up at the last day" ([Alma
-36:3](https://www.lds.org/scriptures/bofm/alma/36.3?lang=eng#2)).
+36:3](/scriptures/bofm/alma/36.3?lang=eng#2)).
 
 I plead with you young Aaronic Priesthood bearers--and all of us--to determine
 now, in your youth, to put your trust in the Lord, and by obeying his
@@ -22,8 +22,7 @@ treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 This reference to the destroying angel passing by the children of Israel
 refers to the occasion when, to persuade the Egyptians to let Israel go, "the
@@ -32,8 +31,7 @@ Pharaoh that sat on his throne unto the firstborn of the captive that was in
 the dungeon; and all the firstborn of cattle.
 
 "... and there was a great cry in Egypt; for there was not a house where there
-was not one dead." ([Ex.
-12:29-30](https://www.lds.org/scriptures/ot/ex/12.29-30?lang=eng#28).)
+was not one dead." ([Ex. 12:29-30](/scriptures/ot/ex/12.29-30?lang=eng#28).)
 
 But in his death-dealing mission the destroying angel passed by the homes of
 those Israelites who had marked their door lintels and side posts with the
@@ -45,7 +43,7 @@ last dispensation. The Lord told the Prophet Joseph Smith in 1831 that because
 all flesh was corrupted before him, and because the powers of darkness
 prevailed upon the earth, these angels were "waiting the great command to reap
 down the earth, to gather the tares that they [might] be burned" ([D&amp;C
-38:12](https://www.lds.org/scriptures/dc-testament/dc/38.12?lang=eng#11)).
+38:12](/scriptures/dc-testament/dc/38.12?lang=eng#11)).
 
 In 1894 President Woodruff said: "God has held the angels of destruction for
 many years, lest they should reap down the wheat with the tares. But I want to
@@ -88,7 +86,7 @@ room enough to receive it.
 "And I will rebuke the devourer for your sakes, and he shall not destroy the
 fruits of your ground; neither shall your vine cast her fruit before the time
 in the fields, saith the Lord of Hosts." ([3 Ne.
-24:10-11](https://www.lds.org/scriptures/bofm/3-ne/24.10-11?lang=eng#9).)
+24:10-11](/scriptures/bofm/3-ne/24.10-11?lang=eng#9).)
 
 President Grant's boundless faith that the Lord would prosper those who were
 liberal with their means in building his kingdom has had a distinct effect
@@ -128,34 +126,32 @@ A further reward for paying tithing is a guarantee against being consumed in
 the burning which is to accompany the second coming of the Savior. In the
 eighty-fifth section of the Doctrine and Covenants, the Lord explains that his
 purpose in tithing his people is "to prepare them against the day of vengeance
-and burning," ([D&amp;C 85:3](https://www.lds.org/scriptures/dc-
-testament/dc/85.3?lang=eng#2)) and in the sixty-fourth section he says,
-"Behold, now it is called today until the coming of the Son of Man, and verily
-it is a day of sacrifice, and a day for the tithing of my people; for he that
-is tithed shall not be burned at his coming" ([D&amp;C
-64:23](https://www.lds.org/scriptures/dc-testament/dc/64.23?lang=eng#22)).
+and burning," ([D&amp;C 85:3](/scriptures/dc-testament/dc/85.3?lang=eng#2))
+and in the sixty-fourth section he says, "Behold, now it is called today until
+the coming of the Son of Man, and verily it is a day of sacrifice, and a day
+for the tithing of my people; for he that is tithed shall not be burned at his
+coming" ([D&amp;C 64:23](/scriptures/dc-testament/dc/64.23?lang=eng#22)).
 
 Personally, I have always considered tithing to be the law of inheritance in
 the land of Zion, for the Lord said when he gave the law that all those who
 gathered to Zion should observe it or they should not be worthy to abide among
-the inhabitants of that land (see [D&amp;C
-119:5](https://www.lds.org/scriptures/dc-testament/dc/119.5?lang=eng#4)).
+the inhabitants of that land (see [D&amp;C 119:5](/scriptures/dc-
+testament/dc/119.5?lang=eng#4)).
 
 And now, the third specific commandment to which I direct your attention is,
-"Thou shalt not commit adultery" ([D&amp;C
-42:24](https://www.lds.org/scriptures/dc-testament/dc/42.24?lang=eng#23)).
+"Thou shalt not commit adultery" ([D&amp;C 42:24](/scriptures/dc-
+testament/dc/42.24?lang=eng#23)).
 
 You will recall, of course, Alma's teaching his son Corianton that unchastity
 is the most serious offense there is in the sight of God, save murder only
-(see [Alma
-39:3-5](https://www.lds.org/scriptures/bofm/alma/39.3-5?lang=eng#2)). You will
+(see [Alma 39:3-5](/scriptures/bofm/alma/39.3-5?lang=eng#2)). You will
 remember, too, these words from Paul's epistle to the Corinthians:
 
 "Know ye not that ye are the temple of God, and that the Spirit of God
 dwelleth in you?
 
 "If any man defile the temple of God, him shall God destroy." ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
 
 Some years ago the First Presidency said to the youth of the Church, "Better
 dead, clean, than alive, unclean" (In Conference Report, Apr. 1942, p. 89).
@@ -180,13 +176,12 @@ I can think of no blessings to be more fervently desired than those promised
 to the pure and the virtuous. Jesus spoke of specific rewards for different
 virtues but reserved the greatest, so it seems to me, for the pure in heart,
 "for they," said he, "shall see God" ([Matt.
-5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7)). And not only
-shall they see the Lord, but they shall feel at home in his presence.
+5:8](/scriptures/nt/matt/5.8?lang=eng#7)). And not only shall they see the
+Lord, but they shall feel at home in his presence.
 
 Here is his promise--the Savior's promise: "Let virtue garnish thy thoughts
 unceasingly; then shall thy confidence wax strong in the presence of God"
-([D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44)).
+([D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)).
 
 The rewards for virtue and the consequences of unchastity are dramatically
 portrayed in the lives of Joseph and David.
@@ -199,7 +194,7 @@ us take pride in being numbered among his posterity.
 David, on the other hand, though highly favored of the Lord (he was, in fact,
 referred to as a man after God's own heart), yielded to temptation. His
 unchastity led to murder, and as a consequence, he lost his families and his
-exaltation (see [D&amp;C 132:39](https://www.lds.org/scriptures/dc-
+exaltation (see [D&amp;C 132:39](/scriptures/dc-
 testament/dc/132.39?lang=eng#38)).
 
 And now, my brethren, I shall not say more except to renew my plea that we all
@@ -207,12 +202,12 @@ believe in and live worthy of the promises of the Lord. Let us not be like
 some people were in the days of Malachi. They argued that it was unprofitable
 and vain to serve God because, as they saw it, the proud were made happy, the
 wicked set up, and they that tempted God were delivered (see [Mal.
-3:14-15](https://www.lds.org/scriptures/ot/mal/3.14-15?lang=eng#13)). Let us
-have the good sense to realize and remember that today, as well as in the days
-of Malachi, a book of remembrance is written before the Lord for those that
-fear him and think upon his name, and "they shall be mine, saith the Lord of
-hosts, in that day when I make up my jewels; and I will spare them, as a man
-spareth his own son that serveth him.
+3:14-15](/scriptures/ot/mal/3.14-15?lang=eng#13)). Let us have the good sense
+to realize and remember that today, as well as in the days of Malachi, a book
+of remembrance is written before the Lord for those that fear him and think
+upon his name, and "they shall be mine, saith the Lord of hosts, in that day
+when I make up my jewels; and I will spare them, as a man spareth his own son
+that serveth him.
 
 "Then shall ye return, and discern between the righteous and the wicked,
 between him that serveth God and him that serveth him not.
@@ -225,8 +220,8 @@ nor branch.
 "But," says the Lord in a glorious promise to the righteous, "unto you that
 fear my name shall the Sun of righteousness arise with healing in his wings;
 and ye shall go forth, and grow up as calves of the stall." ([Mal.
-3:17-18](https://www.lds.org/scriptures/ot/mal/3.17-18?lang=eng#16); [Mal.
-4:1-2](https://www.lds.org/scriptures/ot/mal/4.1-2?lang=eng#0).)
+3:17-18](/scriptures/ot/mal/3.17-18?lang=eng#16); [Mal.
+4:1-2](/scriptures/ot/mal/4.1-2?lang=eng#0).)
 
 Oh, my beloved brethren, believe in and live for the promises of the Lord by
 keeping his commandments. If you will do this, even though you do not now have
@@ -248,9 +243,10 @@ placed upon the Lord forever.
 yea, when thou liest down at night lie down unto the Lord, that he may watch
 over you in your sleep; and when thou risest in the morning let thy heart be
 full of thanks unto God; and if ye do these things, ye shall be lifted up at
-the last day." ([Alma
-37:34-37](https://www.lds.org/scriptures/bofm/alma/37.34-37?lang=eng#33).)
+the last day." ([Alma 37:34-37](/scriptures/bofm/alma/37.34-37?lang=eng#33).)
 
 That it may be so with all of you and all of us, I humbly pray. In the name of
 Jesus Christ, amen.
+
+## References
 

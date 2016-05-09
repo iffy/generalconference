@@ -50,8 +50,7 @@ Each time I have stood before such a group, there has come into my mind the
 great and prophetic statement made by Peter of old. Said he: "Ye are a chosen
 generation, a royal priesthood, an holy nation, a peculiar people; that ye
 should shew forth the praises of him who hath called you out of darkness into
-his marvellous light." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).)
+his marvellous light." ([1 Pet. 2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).)
 
 I know of no other statement which more aptly describes you, nor which sets
 before you a higher ideal by which to shape and guide your lives.
@@ -109,8 +108,8 @@ of an attitude that says, "We will not teach moral values. We will leave the
 determination of such to the individual." Parents, in all too many cases, have
 abdicated their responsibility to "train up a child in the way he should go"
 so that "when he is old, he will not depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).) Educators in
-all too many cases have adopted an attitude of moral neutrality.
+22:6](/scriptures/ot/prov/22.6?lang=eng#5).) Educators in all too many cases
+have adopted an attitude of moral neutrality.
 
 Many public officers have abandoned any reverent use of the name of God in
 public meetings, thereby closing the door to Deity when it is plainly evident
@@ -162,14 +161,14 @@ Redeemer of the world.
 John the Baptist has come to earth and conferred the priesthood of Aaron with
 "the keys of the ministering of angels, and of the gospel of repentance, and
 of baptism by immersion for the remission of sins." ([D&amp;C
-13:1](https://www.lds.org/scriptures/dc-testament/dc/13.1?lang=eng#0).)
+13:1](/scriptures/dc-testament/dc/13.1?lang=eng#0).)
 
 Peter, James, and John, who in mortality were ordained of the Lord, have
 restored to earth the divine power given by Jesus Himself when He said to them
 in the flesh, "I will give unto thee the keys of the kingdom of heaven: and
 whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever
 thou shalt loose on earth shall be loosed in heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 As a part of this great unfolding of knowledge and light and truth, there has
 come the Book of Mormon, this added testimony of the Lord Jesus Christ, a
@@ -276,4 +275,6 @@ yours in the world in which you will live.
 
 God bless you, I humbly pray, as I bear witness and testimony of these things
 in the name of Jesus Christ, amen.
+
+## References
 

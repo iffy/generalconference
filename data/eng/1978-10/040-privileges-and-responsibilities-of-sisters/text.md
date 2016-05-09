@@ -286,8 +286,7 @@ homes as the mothers are able to draw upon their experiences in the Church to
 add to the serenity of our homes. Especially is this true if we approach these
 things in the spirit of the thirteenth Article of Faith: "If there is anything
 virtuous, lovely, or of good report or praiseworthy, we seek after these
-things." [[A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)]
+things." [[A of F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)]
 
 The cultivation of Christlike qualities is a demanding and relentless task--it
 is not for the seasonal worker or for those who will not stretch themselves,
@@ -307,7 +306,7 @@ trust his knowledge and love and each other.
 God is the same, yesterday, today, and forever, as are his purposes. It is
 written: "And I, God, created man in mine own image, in the image of mine Only
 Begotten created I him; male and female created I them" ([Moses
-2:27](https://www.lds.org/scriptures/pgp/moses/2.27?lang=eng#26)).
+2:27](/scriptures/pgp/moses/2.27?lang=eng#26)).
 
 And Genesis goes on to say something very beautiful about that creation:
 
@@ -317,7 +316,7 @@ And Genesis goes on to say something very beautiful about that creation:
 wherein there is life, ... and it was so.
 
 "And God saw every thing that he had made, and, behold, it was very good."
-([Gen. 1:28-31](https://www.lds.org/scriptures/ot/gen/1.28-31?lang=eng#27).)
+([Gen. 1:28-31](/scriptures/ot/gen/1.28-31?lang=eng#27).)
 
 This is a partnership. God and his creation. The Primary song says, "I am a
 child of God." Born with a noble birthright. God is your father. He loves you.
@@ -360,7 +359,7 @@ efforts to destroy. He strikes the moral sanctity of the home. It is labeled
 "a new morality" in which freedom of sexual relations is proclaimed. It seeks
 destruction of the faithfulness and fidelity of husband and wife in the face
 of the Lord's commandment, "Thou shalt not commit adultery" ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13)).
+20:14](/scriptures/ot/ex/20.14?lang=eng#13)).
 
 I would have you lovely sisters understand that there is no new morality. That
 the Church's stand on morality may be understood, we declare firmly and
@@ -443,10 +442,11 @@ flesh; and your sons and your _daughters _shall prophesy, your old men shall
 dream dreams, your young men shall see visions:
 
 "And also upon the servants and upon the _handmaids _in those days will I pour
-out my spirit." ([Joel
-2:28-29](https://www.lds.org/scriptures/ot/joel/2.28-29?lang=eng#27); italics
-added.)
+out my spirit." ([Joel 2:28-29](/scriptures/ot/joel/2.28-29?lang=eng#27);
+italics added.)
 
 May the Lord bless you and your loved ones this day and always, I humbly pray,
 in the name of Jesus Christ. Amen.
+
+## References
 

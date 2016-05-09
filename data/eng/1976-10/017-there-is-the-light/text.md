@@ -55,8 +55,7 @@ already dark universe--no stars, no moon, no rest--only turmoil of sea and
 body and mind and spirit. And as we toiled on through that fearsome night, I
 found my spirit communing with the spirit of the father of an afflicted child
 in the New Testament, as he exclaimed, "Lord, I believe; help thou mine
-unbelief." ([Mark
-9:24](https://www.lds.org/scriptures/nt/mark/9.24?lang=eng#23).) And He did,
+unbelief." ([Mark 9:24](/scriptures/nt/mark/9.24?lang=eng#23).) And He did,
 and He does, and He will. That I know.
 
 As we rolled and tossed closer and closer to the reef, all eyes searched for
@@ -151,4 +150,6 @@ despair, when destruction seems close and the raging fury of men and demons
 ensnares us in seemingly insoluble problems, listen as he calmly says, "There
 is the light. This is the way." I testify that he will so guide us safely home
 if we will but listen and obey. In the name of Jesus Christ. Amen.
+
+## References
 

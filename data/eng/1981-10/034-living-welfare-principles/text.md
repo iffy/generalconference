@@ -29,8 +29,7 @@ the Lord," he said, "stretched out the heavens, and built the earth, my very
 handiwork; and all things therein are mine.
 
 "And it is my purpose to provide for my saints, for all things are mine."
-([D&amp;C 104:14-15](https://www.lds.org/scriptures/dc-
-testament/dc/104.14-15?lang=eng#13).)
+([D&amp;C 104:14-15](/scriptures/dc-testament/dc/104.14-15?lang=eng#13).)
 
 It would be a simple thing for the Lord to reveal to President Kimball where
 the deposits of oil and precious ores are. We could then hire someone to dig
@@ -56,8 +55,8 @@ Prophet,_ Salt Lake City: Deseret Book Company, 1958, p. 117.) I call these
 facts to your attention that you may have in mind the background against which
 the Lord said to these men as they started, "Remember in all things the poor
 and the needy, the sick and the afflicted, for he that doeth not these things,
-the same is not my disciple." ([D&amp;C 52:40](https://www.lds.org/scriptures
-/dc-testament/dc/52.40?lang=eng#39).) Imagine that! These elders were nearly
+the same is not my disciple." ([D&amp;C 52:40](/scriptures/dc-
+testament/dc/52.40?lang=eng#39).) Imagine that! These elders were nearly
 destitute and the Lord said, "Remember ... the poor and the needy."
 
 That the commandment to give is directed to all people is emphasized by King
@@ -68,8 +67,7 @@ hearts that: I give not because I have not, but if I had I would give.
 
 "And now, if ye say this in your hearts ye remain guiltless, otherwise ye are
 condemned; and your condemnation is just for ye covet that which ye have not
-received." ([Mosiah
-4:24-25](https://www.lds.org/scriptures/bofm/mosiah/4.24-25?lang=eng#23).)
+received." ([Mosiah 4:24-25](/scriptures/bofm/mosiah/4.24-25?lang=eng#23).)
 
 Once we are convinced that we have an obligation to give, we must learn that
 to render service in the proper spirit is of first importance. Mormon,
@@ -82,21 +80,19 @@ him nothing.
 "For behold, if a man being evil giveth a gift, he doeth it grudgingly;
 wherefore it is counted unto him the same as if he had retained the gift;
 wherefore he is counted evil before God." ([Moro.
-7:6-8](https://www.lds.org/scriptures/bofm/moro/7.6-8?lang=eng#5).)
+7:6-8](/scriptures/bofm/moro/7.6-8?lang=eng#5).)
 
 Only by voluntarily giving, out of an abundant love for his neighbor, can one
 develop that charity characterized by Mormon as the "pure love of Christ."
-([Moro. 7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) In
-Mosiah we read: "And ... Alma commanded that the people of the church should
-impart of their substance, every one according to that which he had; if he
-have more abundantly he should impart more abundantly; and of him that had but
-little, but little should be required; and to him that had not should be
-given.
+([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) In Mosiah we read:
+"And ... Alma commanded that the people of the church should impart of their
+substance, every one according to that which he had; if he have more
+abundantly he should impart more abundantly; and of him that had but little,
+but little should be required; and to him that had not should be given.
 
 "And thus they should impart of their substance _of their own free will and
 good desires towards God._" ([Mosiah
-18:27-28](https://www.lds.org/scriptures/bofm/mosiah/18.27-28?lang=eng#26);
-italics added.)
+18:27-28](/scriptures/bofm/mosiah/18.27-28?lang=eng#26); italics added.)
 
 Some may ask, "How do I obtain these righteous feelings in giving? How do I
 overcome giving grudgingly? How do I obtain the _'pure love of Christ?' _" To
@@ -110,7 +106,7 @@ which thou hast spoken unto us; and also, we know of their surety and truth,
 because of the Spirit of the Lord Omnipotent, which has wrought a mighty
 change in us, or in our hearts, that we have no more disposition to do evil,
 but to do good continually." ([Mosiah
-5:2](https://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1).)
+5:2](/scriptures/bofm/mosiah/5.2?lang=eng#1).)
 
 This charity in its perfection is demonstrated by the Lord in everything that
 he does. The Lord revealed to Moses the numerous worlds which have been
@@ -120,26 +116,24 @@ they unto man. ...
 
 "And as one earth shall pass away, and the heavens thereof even so shall
 another come; and there is no end to my works, neither to my words." ([Moses
-1:35, 38](https://www.lds.org/scriptures/pgp/moses/1.35%2C38?lang=eng#34).)
+1:35, 38](/scriptures/pgp/moses/1.35,38?lang=eng#34).)
 
 After revealing to Moses the vastness of his creations, the Lord gave Moses
 some insight into his reason for doing all this when he said, "For behold,
 this is my work and my glory--to bring to pass the immortality and eternal
-life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) Hence, we
-see the complete unselfishness of our Father in Heaven. His whole work and
+life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) Hence,
+we see the complete unselfishness of our Father in Heaven. His whole work and
 glory is to bring eternal life and happiness to his children. Should not our
 whole purpose in this life, therefore, be made up of righteous service one to
 another? If not, how can we ever hope to be as he is? As we individually
 become filled with the "pure love of Christ" ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46)), we
-collectively evolve into a church which is "pure in heart" ([D&amp;C
-97:21](https://www.lds.org/scriptures/dc-testament/dc/97.21?lang=eng#20)). We
-can therefore become as the people of Enoch of whom was written, "The Lord
-blessed the land ... and ... called his people ZION, because they were of one
-heart and one mind, and dwelt in righteousness; and there was no poor among
-them." ([Moses
-7:17-18](https://www.lds.org/scriptures/pgp/moses/7.17-18?lang=eng#16).)
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46)), we collectively evolve into a
+church which is "pure in heart" ([D&amp;C 97:21](/scriptures/dc-
+testament/dc/97.21?lang=eng#20)). We can therefore become as the people of
+Enoch of whom was written, "The Lord blessed the land ... and ... called his
+people ZION, because they were of one heart and one mind, and dwelt in
+righteousness; and there was no poor among them." ([Moses
+7:17-18](/scriptures/pgp/moses/7.17-18?lang=eng#16).)
 
 Of the Nephites who survived the cataclysm which accompanied the crucifixion
 of Jesus and thereafter lived the program, the record says, "And it came to
@@ -151,7 +145,7 @@ with another.
 poor, bond and free, but they were all made free, and partakers of the
 heavenly gift. ... And surely there could not be a happier people among all the
 people who had been created by the hand of God." ([4 Ne. 1:2, 3,
-16](https://www.lds.org/scriptures/bofm/4-ne/1.2%2C3%2C16?lang=eng#1).)
+16](/scriptures/bofm/4-ne/1.2,3,16?lang=eng#1).)
 
 Why were these people so happy? Because they were free of the shackles of
 selfishness and had learned what the Lord knows--that ultimate joy comes only
@@ -161,8 +155,7 @@ Becoming a people which is collectively pure in heart is not an impossible
 dream or an idealistic goal. We know this because the Lord has commanded us to
 become such, and the Lord gives "no commandments unto the children of men,
 save he shall prepare a way for them that they may accomplish the thing which
-he commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+he commandeth them." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 When we reach the state of having the "pure love of Christ," our desire to
 serve one another will have grown to the point where we will be living fully
@@ -173,8 +166,7 @@ rise to their full potential, both temporally and spiritually. The rich, by
 consecration and the imparting of their surplus for the benefit of the poor,
 _not by constraint, but willingly as an act of free will,_ evidence that
 charity for their fellowmen characterized by Mormon as "the pure love of
-Christ." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) This will
+Christ." ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) This will
 bring both the giver and receiver to the common ground on which the Spirit of
 God can meet them.
 
@@ -195,4 +187,6 @@ all that we have to the building up of the kingdom of God--which includes
 caring for our fellowmen. Doing this, we will hasten the advent of the
 Millennium. God grant that we do not fail, I humbly pray in the name of Jesus
 Christ, amen.
+
+## References
 

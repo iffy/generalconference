@@ -4,7 +4,7 @@ The fourth article of faith states: "We believe that the first principles and
 ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second,
 Repentance; third, Baptism by immersion for the remission of sins; fourth,
 Laying on of hands for the gift of the Holy Ghost." [[A of F
-1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3)]
+1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3)]
 
 If we think deeply, we realize that the first principle--faith in the Lord
 Jesus Christ--underlies all else; that is, it takes faith in Christ to repent
@@ -24,8 +24,7 @@ very things that would give us that strength. Too often we seek the easy way,
 forgetting that strength comes from overcoming things that require us to put
 forth more effort than we normally would be inclined to do. The Apostle Paul
 said, "I can do all things through Christ which strengtheneth me" ([Philip.
-4:13](https://www.lds.org/scriptures/nt/philip/4.13?lang=eng#12)). Let me give
-an example:
+4:13](/scriptures/nt/philip/4.13?lang=eng#12)). Let me give an example:
 
 Years ago, as a young missionary, I was assigned to a group of seventeen small
 islands in the South Pacific. At that time, the only means of travel between
@@ -172,4 +171,6 @@ strengthens and encourages. I know He helps and heals. I know He forgives and
 saves.
 
 In the name of Jesus Christ, amen.
+
+## References
 

@@ -18,15 +18,14 @@ vision. He simply says:
 "After I had desired to know the things that my father had seen, and believing
 that the Lord was able to make them known unto me, as I sat pondering in mine
 heart I was caught away in the Spirit of the Lord, yea, into an exceeding high
-mountain." ([1 Ne.
-11:1](https://www.lds.org/scriptures/bofm/1-ne/11.1?lang=eng#0).)
+mountain." ([1 Ne. 11:1](/scriptures/bofm/1-ne/11.1?lang=eng#0).)
 
 There is no doubt in my mind but that Nephi's pondering was in essence a
 prayer.
 
 The Lord said to Emma Smith, "My soul delighteth in the song of the heart;
 yea, the song of the righteous is a prayer unto me." ([D&amp;C
-25:12](https://www.lds.org/scriptures/dc-testament/dc/25.12?lang=eng#11).)
+25:12](/scriptures/dc-testament/dc/25.12?lang=eng#11).)
 
 Frequently, prayers are requests for specific blessings. They may, however,
 and should, include expressions of thanksgiving, praise, worship, and
@@ -82,7 +81,7 @@ And later "an angel of the Lord appeared unto Adam, saying: ...
 
 "Thou shalt do all that thou doest in the name of the Son, and thou shalt
 repent and call upon God in the name of the Son forevermore." ([Moses 5:5-6,
-8](https://www.lds.org/scriptures/pgp/moses/5.5-6%2C8?lang=eng#4).)
+8](/scriptures/pgp/moses/5.5-6,8?lang=eng#4).)
 
 The Lord took occasion to personally instruct the brother of Jared as to the
 importance of prayer. When he, with the Jaredite colony, reached the great
@@ -97,8 +96,7 @@ call upon the name of the Lord._
 shalt not sin any more, for ye shall remember that my Spirit will not always
 strive with man; wherefore, if ye will sin until ye are fully ripe ye shall be
 cut off from the presence of the Lord." ([Ether
-2:13-15](https://www.lds.org/scriptures/bofm/ether/2.13-15?lang=eng#12);
-italics added.)
+2:13-15](/scriptures/bofm/ether/2.13-15?lang=eng#12); italics added.)
 
 Amulek admonished the backsliding Nephites in these words:
 
@@ -132,7 +130,7 @@ secret places, and in your wilderness.
 "... And when you do not cry unto the Lord, let your hearts be full, drawn out
 in prayer unto him continually for your welfare, and also for the welfare of
 those who are around you." ([Alma
-34:17-27](https://www.lds.org/scriptures/bofm/alma/34.17-27?lang=eng#16).)
+34:17-27](/scriptures/bofm/alma/34.17-27?lang=eng#16).)
 
 As Jesus after His resurrection administered among the Nephites, He taught
 them how to pray by giving them the Lord's Prayer as a pattern. And
@@ -151,59 +149,55 @@ that ye shall receive, behold it shall be given unto you.
 
 "Pray in your families unto the Father, always in my name, that your wives and
 your children may be blessed." ([3 Ne.
-18:18-21](https://www.lds.org/scriptures/bofm/3-ne/18.18-21?lang=eng#17).)
+18:18-21](/scriptures/bofm/3-ne/18.18-21?lang=eng#17).)
 
 In this last dispensation, almost two years before the Church was organized,
 the Lord said to the Prophet Joseph Smith:
 
 "Pray always, that you may come off conqueror; yea, that you may conquer
 Satan, and that you may escape the hands of the servants of Satan that do
-uphold his work." ([D&amp;C 10:5](https://www.lds.org/scriptures/dc-
+uphold his work." ([D&amp;C 10:5](/scriptures/dc-
 testament/dc/10.5?lang=eng#4).)
 
 Later He said to Martin Harris:
 
 "I command thee that thou shalt pray vocally as well as in thy heart; yea,
 before the world as well as in secret, in public as well as in private."
-([D&amp;C 19:28](https://www.lds.org/scriptures/dc-
-testament/dc/19.28?lang=eng#27).)
+([D&amp;C 19:28](/scriptures/dc-testament/dc/19.28?lang=eng#27).)
 
 He directed the priests of the Church to "visit the house of each member, and
-exhort them to pray vocally and in secret." ([D&amp;C
-20:47](https://www.lds.org/scriptures/dc-testament/dc/20.47?lang=eng#46). See
-also [D&amp;C 20:51](https://www.lds.org/scriptures/dc-
+exhort them to pray vocally and in secret." ([D&amp;C 20:47](/scriptures/dc-
+testament/dc/20.47?lang=eng#46). See also [D&amp;C 20:51](/scriptures/dc-
 testament/dc/20.51?lang=eng#50).)
 
 He admonished Joseph Knight, "You must _pray vocally before the world_ as well
 as in secret, and in your family, and among your friends, and in all places."
-([D&amp;C 23:6](https://www.lds.org/scriptures/dc-
-testament/dc/23.6?lang=eng#5); italics added.)
+([D&amp;C 23:6](/scriptures/dc-testament/dc/23.6?lang=eng#5); italics added.)
 
 And to Thomas B. Marsh: "Pray always, lest you enter into temptation and lose
-your reward." ([D&amp;C 31:12](https://www.lds.org/scriptures/dc-
+your reward." ([D&amp;C 31:12](/scriptures/dc-
 testament/dc/31.12?lang=eng#11).)
 
 To others He said, _"Pray always ... that you may abide the day of his coming,
-whether in life or in death."_ ([D&amp;C 61:39](https://www.lds.org/scriptures
-/dc-testament/dc/61.39?lang=eng#38); italics added.)
+whether in life or in death."_ ([D&amp;C 61:39](/scriptures/dc-
+testament/dc/61.39?lang=eng#38); italics added.)
 
 "What I say unto one I say unto all; pray always lest that wicked one have
-power in you, and remove you out of your place." ([D&amp;C
-93:49](https://www.lds.org/scriptures/dc-testament/dc/93.49?lang=eng#48).)
+power in you, and remove you out of your place." ([D&amp;C 93:49](/scriptures
+/dc-testament/dc/93.49?lang=eng#48).)
 
 Parents "shall ... teach their children to pray, and to walk uprightly before
-the Lord." ([D&amp;C 68:28](https://www.lds.org/scriptures/dc-
-testament/dc/68.28?lang=eng#27).)
+the Lord." ([D&amp;C 68:28](/scriptures/dc-testament/dc/68.28?lang=eng#27).)
 
 Speaking of the Church members in Zion, the Lord said, "He that observeth not
 his prayers before the Lord in the season thereof, let him be had in
-remembrance before the judge of my people." ([D&amp;C
-68:33](https://www.lds.org/scriptures/dc-testament/dc/68.33?lang=eng#32).)
+remembrance before the judge of my people." ([D&amp;C 68:33](/scriptures/dc-
+testament/dc/68.33?lang=eng#32).)
 
 The purpose of prayer, however, is not to appease a vindictive Deity; nor is
 it to court favors from an indulgent Father. It is to attune oneself with the
 spirit or light which "proceedeth forth from the presence of God to fill the
-immensity of space." ([D&amp;C 88:12](https://www.lds.org/scriptures/dc-
+immensity of space." ([D&amp;C 88:12](/scriptures/dc-
 testament/dc/88.12?lang=eng#11).) In that light is to be found sure answers to
 all our needs.
 
@@ -211,26 +205,25 @@ Prayer is the key which unlocks the door and lets Christ into our lives.
 
 "Behold," said He, "I stand at the door, and knock: if any man hear my voice,
 and open the door, I will come in to him, and will sup with him, and he with
-me." ([Rev. 3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).)
+me." ([Rev. 3:20](/scriptures/nt/rev/3.20?lang=eng#19).)
 
 Just as prayer is the means by which men address the Lord, so revelation is
 the means by which God communicates to men. In doing so, He uses various
 means. The spoken word, for example, was the method He used to answer Adam's
 prayer. Adam and Eve "_heard_ the voice of the Lord from the way toward the
 Garden of Eden, speaking unto them." ([Moses
-5:4](https://www.lds.org/scriptures/pgp/moses/5.4?lang=eng#3); italics added.)
+5:4](/scriptures/pgp/moses/5.4?lang=eng#3); italics added.)
 
 In addition to the spoken word, the Lord at times appears personally.
 
 "Abraham, talked with the Lord, face to face, as one man talketh with
-another." ([Abr.
-3:11](https://www.lds.org/scriptures/pgp/abr/3.11?lang=eng#10).)
+another." ([Abr. 3:11](/scriptures/pgp/abr/3.11?lang=eng#10).)
 
 "And God spake unto Moses. ...
 
 "And ... the glory of the Lord was upon Moses, so that Moses stood in the
 presence of God, and talked with him face to face." ([Moses 1:3,
-31](https://www.lds.org/scriptures/pgp/moses/1.3%2C31?lang=eng#2).)
+31](/scriptures/pgp/moses/1.3,31?lang=eng#2).)
 
 Joseph Smith the Prophet gives us this testimony of the personal appearance to
 him of both the Father and the Son:
@@ -241,12 +234,11 @@ brightness of the sun, which descended gradually until it fell upon me.
 "[In it] I saw two Personages, whose brightness and glory defy all
 description, standing above me in the air. One of them spake unto me, calling
 me by name and said, pointing to the other--_This is My Beloved Son._" ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
 
 Sometimes the Lord sends personal representatives to communicate with men He
 sent Moroni, for example, to visit and instruct the Prophet Joseph Smith
-several times. ([JS--H
-1:28-59](https://www.lds.org/scriptures/pgp/js-h/1.28-59?lang=eng#27).)
+several times. ([JS--H 1:28-59](/scriptures/pgp/js-h/1.28-59?lang=eng#27).)
 
 Introducing his account of these visits, the Prophet wrote:
 
@@ -256,15 +248,14 @@ supplication to Almighty God. ...
 "While I was thus in the act of calling upon God, I discovered a light
 appearing in my room, which continued to increase until the room was lighter
 than at noonday, when immediately a personage appeared at my bedside, standing
-in the air." ([JS--H
-1:29-30](https://www.lds.org/scriptures/pgp/js-h/1.29-30?lang=eng#28).)
+in the air." ([JS--H 1:29-30](/scriptures/pgp/js-h/1.29-30?lang=eng#28).)
 
 On other occasions the Lord has communicated with men by means of dreams and
 visions--Daniel's dream, for example, and Nephi's vision.
 
 Enos says, "The voice of the Lord came into my mind again, saying: I will
 visit thy brethren according to their diligence in keeping my commandments."
-([Enos 1:10](https://www.lds.org/scriptures/bofm/enos/1.10?lang=eng#9).)
+([Enos 1:10](/scriptures/bofm/enos/1.10?lang=eng#9).)
 
 I can personally testify to this form of revelation because I have experienced
 it.
@@ -300,15 +291,14 @@ Concerning the truthfulness of the Prophet's testimony about the gold plates
 containing the Book of Mormon record, the Lord said in a revelation through
 the Prophet Joseph Smith to Oliver Cowdery: "Behold, thou knowest that thou
 hast inquired of me and I did enlighten thy mind," and added, "Did I not speak
-peace to your mind concerning the matter?" ([D&amp;C 6:15,
-23](https://www.lds.org/scriptures/dc-testament/dc/6.15%2C23?lang=eng#14).)
+peace to your mind concerning the matter?" ([D&amp;C 6:15, 23](/scriptures/dc-
+testament/dc/6.15,23?lang=eng#14).)
 
 With respect to Oliver's receiving "a knowledge concerning the engravings" on
-the plates which Joseph was translating (see [D&amp;C
-8:1](https://www.lds.org/scriptures/dc-testament/dc/8.1?lang=eng#0)), the Lord
-said, "Behold, I will tell you in your mind and in your heart, by the Holy
-Ghost, which shall come upon you and which shall dwell in your heart."
-([D&amp;C 8:2](https://www.lds.org/scriptures/dc-
+the plates which Joseph was translating (see [D&amp;C 8:1](/scriptures/dc-
+testament/dc/8.1?lang=eng#0)), the Lord said, "Behold, I will tell you in your
+mind and in your heart, by the Holy Ghost, which shall come upon you and which
+shall dwell in your heart." ([D&amp;C 8:2](/scriptures/dc-
 testament/dc/8.2?lang=eng#1).)
 
 In making decisions, revelation from the Lord is available to everyone who
@@ -319,9 +309,11 @@ if it is right I will cause that your bosom shall burn within you; therefore,
 you shall feel that it is right.
 
 "But if it be not right you shall have no such feelings." ([D&amp;C
-9:8-9](https://www.lds.org/scriptures/dc-testament/dc/9.8-9?lang=eng#7).)
+9:8-9](/scriptures/dc-testament/dc/9.8-9?lang=eng#7).)
 
 To the truthfulness of these divine teachings concerning prayer and
 revelation, I bear witness to you in the name of Jesus Christ, our Redeemer.
 Amen.
+
+## References
 

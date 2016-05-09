@@ -36,9 +36,8 @@ after truth.
 An example: the Master, while speaking to his disciples in the Old World,
 said, "And other sheep I have, which are not of this fold: them also I must
 bring, and they shall hear my voice; and there shall be one fold, and one
-shepherd" ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15)). We have
-known for 150 years that the other sheep were those sons and daughters of our
+shepherd" ([John 10:16](/scriptures/nt/john/10.16?lang=eng#15)). We have known
+for 150 years that the other sheep were those sons and daughters of our
 Heavenly Father living here in the Americas. These are they whom the Savior
 visited after his resurrection. Their lives and trials are recorded in the
 Book of Mormon. No other logical explanation can be given for that verse in
@@ -59,9 +58,9 @@ seventies, bishops, and teachers?
 
 Here is a church that responds to the Savior's admonition, "Suffer the little
 children to come unto me, ... for of such is the kingdom of God" ([Mark
-10:14](https://www.lds.org/scriptures/nt/mark/10.14?lang=eng#13)). The great
-programs we have for our little ones assure them from their first
-consciousness that we love them and desire to teach them the truth.
+10:14](/scriptures/nt/mark/10.14?lang=eng#13)). The great programs we have for
+our little ones assure them from their first consciousness that we love them
+and desire to teach them the truth.
 
 Consider these additional aspects of the restored Church: a great women's
 program involving in meaningful ways over 400,000 of our sisters who are
@@ -72,10 +71,9 @@ temples where eternal marriage and other ordinances are performed, including
 baptism for the dead; a worldwide missionary system wherein 30,000 men and
 women serve; baptism by immersion for the remission of sins; an unpaid clergy
 ("freely ye have received, freely give" [[Matt.
-10:8](https://www.lds.org/scriptures/nt/matt/10.8?lang=eng#7)]); teachings
-that stress the redeeming and positive in life; and an extensive welfare
-program to assist the poor and needy in dignity and love. The list goes on and
-on.
+10:8](/scriptures/nt/matt/10.8?lang=eng#7)]); teachings that stress the
+redeeming and positive in life; and an extensive welfare program to assist the
+poor and needy in dignity and love. The list goes on and on.
 
 The events of this day further testify that the happenings of fifteen decades
 ago, which occurred here in western New York state, began a moral revolution
@@ -112,26 +110,24 @@ concerning this great restoration. In a revelation given on this very day one
 and one-half centuries ago, Jesus expressed the necessity of being effective
 missionaries when he said, "That as many as would believe and be baptized in
 his holy name, and endure in faith to the end, should be saved" ([D&amp;C
-20:25](https://www.lds.org/scriptures/dc-testament/dc/20.25?lang=eng#24)).
+20:25](/scriptures/dc-testament/dc/20.25?lang=eng#24)).
 
 Third, serve, as called, in the kingdom. In this same April 1830 revelation,
 the Lord said: "All those who ... are willing to take upon them the name of
 Jesus Christ, having a determination _to serve him to the end,_ and truly
 manifest _by their works_ that they have received of the Spirit of Christ ...
-shall be received by baptism into his church" ([D&amp;C
-20:37](https://www.lds.org/scriptures/dc-testament/dc/20.37?lang=eng#36);
-italics added).
+shall be received by baptism into his church" ([D&amp;C 20:37](/scriptures/dc-
+testament/dc/20.37?lang=eng#36); italics added).
 
-Fourth, walk "in holiness before the Lord" ([D&amp;C
-20:69](https://www.lds.org/scriptures/dc-testament/dc/20.69?lang=eng#68); see
-also [D&amp;C 21:4](https://www.lds.org/scriptures/dc-
+Fourth, walk "in holiness before the Lord" ([D&amp;C 20:69](/scriptures/dc-
+testament/dc/20.69?lang=eng#68); see also [D&amp;C 21:4](/scriptures/dc-
 testament/dc/21.4?lang=eng#3)). The Lord went on to say, a sesquicentennial
 ago, that "by doing these things the gates of hell shall not prevail against
 you; yea, and the Lord God will disperse the powers of darkness from before
 you, and cause the heavens to shake for _your good, and his name's glory_"
-([D&amp;C 21:6](https://www.lds.org/scriptures/dc-
-testament/dc/21.6?lang=eng#5); italics added). The most significant sermons we
-will ever preach will be through the acts we perform.
+([D&amp;C 21:6](/scriptures/dc-testament/dc/21.6?lang=eng#5); italics added).
+The most significant sermons we will ever preach will be through the acts we
+perform.
 
 These are four simple steps, but from them can come happiness and _peace that
 surpass understanding._ To reiterate:
@@ -149,4 +145,6 @@ May each of us, as part of this great jubilee year and sesquicentennial
 celebration, conform our lives in building, loving, forgiving, and healing
 ways to express gratitude for all we have, I pray in the name of Jesus Christ,
 amen.
+
+## References
 

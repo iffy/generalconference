@@ -1,427 +1,349 @@
 items:
-- article_id: PD10031248_000_003
-  item: '002'
-  key: 002-the-church-grows-stronger
+- item: 1
+  key: 000-the-church-grows-stronger
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-church-grows-stronger
   speaker: Gordon B. Hinckley
   title: The Church Grows Stronger
   url: https://www.lds.org/general-conference/2004/04/the-church-grows-stronger?lang=eng
   year: 2004
-- article_id: PD10031248_000_004
-  item: '003'
-  key: 003-how-great-the-wisdom-and-the-love
+- item: 2
+  key: 001-how-great-the-wisdom-and-the-love
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: how-great-the-wisdom-and-the-love
   speaker: David B. Haight
   title: How Great the Wisdom and the Love
   url: https://www.lds.org/general-conference/2004/04/how-great-the-wisdom-and-the-love?lang=eng
   year: 2004
-- article_id: PD10031248_000_005
-  item: '005'
-  key: 005-preparation-for-the-second-coming
+- item: 3
+  key: 002-preparation-for-the-second-coming
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: preparation-for-the-second-coming
   speaker: Dallin H. Oaks
   title: Preparation for the Second Coming
   url: https://www.lds.org/general-conference/2004/04/preparation-for-the-second-coming?lang=eng
   year: 2004
-- article_id: PD10031248_000_006
-  item: '006'
-  key: 006-when-thou-art-converted
+- item: 4
+  key: 003-when-thou-art-converted
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: when-thou-art-converted
   speaker: D. Todd Christofferson
   title: When Thou Art Converted
   url: https://www.lds.org/general-conference/2004/04/when-thou-art-converted?lang=eng
   year: 2004
-- article_id: PD10031248_000_007
-  item: 008
-  key: 008-the-finished-story
+- item: 5
+  key: 004-the-finished-story
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-finished-story
   speaker: Gayle M. Clegg
   title: The Finished Story
   url: https://www.lds.org/general-conference/2004/04/the-finished-story?lang=eng
   year: 2004
-- article_id: PD10031248_000_008
-  item: 009
-  key: 009-in-the-strength-of-the-lord
+- item: 6
+  key: 005-in-the-strength-of-the-lord
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: in-the-strength-of-the-lord
   speaker: Henry B. Eyring
   title: In the Strength of the Lord
   url: https://www.lds.org/general-conference/2004/04/in-the-strength-of-the-lord?lang=eng
   year: 2004
-- article_id: PD10031248_000_009
-  item: '011'
-  key: 011-your-personal-influence
+- item: 7
+  key: 006-your-personal-influence
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: your-personal-influence
   speaker: Thomas S. Monson
   title: Your Personal Influence
   url: https://www.lds.org/general-conference/2004/04/your-personal-influence?lang=eng
   year: 2004
-- article_id: PD10031248_000_010
-  item: '015'
-  key: 015-the-sustaining-of-church-officers
+- item: 8
+  key: 007-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2004/04/the-sustaining-of-church-officers?lang=eng
   year: 2004
-- article_id: PD10031248_000_011
-  item: '016'
-  key: 016-church-auditing-department-report-2003
+- item: 9
+  key: 008-church-auditing-department-report-2003
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: church-auditing-department-report-2003
   speaker: Wesley L. Jones
   title: Church Auditing Department Report, 2003
   url: https://www.lds.org/general-conference/2004/04/church-auditing-department-report-2003?lang=eng
   year: 2004
-- article_id: PD10031248_000_012
-  item: '017'
-  key: 017-statistical-report-2003
+- item: 10
+  key: 009-statistical-report-2003
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-2003
   speaker: F. Michael Watson
   title: Statistical Report, 2003
   url: https://www.lds.org/general-conference/2004/04/statistical-report-2003?lang=eng
   year: 2004
-- article_id: PD10031248_000_013
-  item: 018
-  key: 018-roots-and-branches
+- item: 11
+  key: 010-roots-and-branches
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: roots-and-branches
   speaker: Russell M. Nelson
   title: Roots and Branches
   url: https://www.lds.org/general-conference/2004/04/roots-and-branches?lang=eng
   year: 2004
-- article_id: PD10031248_000_014
-  item: 019
-  key: 019-abide-in-me
+- item: 12
+  key: 011-abide-in-me
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: abide-in-me
   speaker: Jeffrey R. Holland
-  title: "\u201CAbide in Me\u201D"
+  title: '"Abide in Me"'
   url: https://www.lds.org/general-conference/2004/04/abide-in-me?lang=eng
   year: 2004
-- article_id: PD10031248_000_015
-  item: '021'
-  key: 021-jesus-the-very-thought-of-thee
+- item: 13
+  key: 012-jesus-the-very-thought-of-thee
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: jesus-the-very-thought-of-thee
   speaker: Keith B. McMullin
   title: Jesus, the Very Thought of Thee
   url: https://www.lds.org/general-conference/2004/04/jesus-the-very-thought-of-thee?lang=eng
   year: 2004
-- article_id: PD10031248_000_016
-  item: '022'
-  key: 022-the-words-of-christ-our-spiritual-liahona
+- item: 14
+  key: 013-the-words-of-christ-our-spiritual-liahona
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-words-of-christ-our-spiritual-liahona
   speaker: W. Rolfe Kerr
   title: "The Words of Christ\u2014Our Spiritual Liahona"
   url: https://www.lds.org/general-conference/2004/04/the-words-of-christ-our-spiritual-liahona?lang=eng
   year: 2004
-- article_id: PD10031248_000_017
-  item: '023'
-  key: 023-applying-the-simple-and-plain-gospel-principles-in-the-family
+- item: 15
+  key: 014-applying-the-simple-and-plain-gospel-principles-in-the-family
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: applying-the-simple-and-plain-gospel-principles-in-the-family
   speaker: "Francisco J. Vi\xF1as"
   title: Applying the Simple and Plain Gospel Principles in the Family
   url: https://www.lds.org/general-conference/2004/04/applying-the-simple-and-plain-gospel-principles-in-the-family?lang=eng
   year: 2004
-- article_id: PD10031248_000_018
-  item: '025'
-  key: 025-earthly-debts-heavenly-debts
+- item: 16
+  key: 015-earthly-debts-heavenly-debts
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: earthly-debts-heavenly-debts
   speaker: Joseph B. Wirthlin
   title: Earthly Debts, Heavenly Debts
   url: https://www.lds.org/general-conference/2004/04/earthly-debts-heavenly-debts?lang=eng
   year: 2004
-- article_id: PD10031248_000_019
-  item: 029
-  key: 029-remember-how-merciful-the-lord-hath-been
+- item: 17
+  key: 016-remember-how-merciful-the-lord-hath-been
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: remember-how-merciful-the-lord-hath-been
   speaker: Neal A. Maxwell
   title: Remember How Merciful the Lord Hath Been
   url: https://www.lds.org/general-conference/2004/04/remember-how-merciful-the-lord-hath-been?lang=eng
   year: 2004
-- article_id: PD10031248_000_020
-  item: '030'
-  key: 030-strengthen-thy-brethren
+- item: 18
+  key: 017-strengthen-thy-brethren
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: strengthen-thy-brethren
   speaker: Mervyn B. Arnold
   title: Strengthen Thy Brethren
   url: https://www.lds.org/general-conference/2004/04/strengthen-thy-brethren?lang=eng
   year: 2004
-- article_id: PD10031248_000_021
-  item: '031'
-  key: 031-for-the-strength-of-youth
+- item: 19
+  key: 018-for-the-strength-of-youth
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: for-the-strength-of-youth
   speaker: Earl C. Tingey
   title: For the Strength of Youth
   url: https://www.lds.org/general-conference/2004/04/for-the-strength-of-youth?lang=eng
   year: 2004
-- article_id: PD10031248_000_022
-  item: '032'
-  key: 032-choices
+- item: 20
+  key: 019-choices
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: choices
   speaker: James E. Faust
   title: Choices
   url: https://www.lds.org/general-conference/2004/04/choices?lang=eng
   year: 2004
-- article_id: PD10031248_000_023
-  item: '034'
-  key: 034-the-call-for-courage
+- item: 21
+  key: 020-the-call-for-courage
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-call-for-courage
   speaker: Thomas S. Monson
   title: The Call for Courage
   url: https://www.lds.org/general-conference/2004/04/the-call-for-courage?lang=eng
   year: 2004
-- article_id: PD10031248_000_024
-  item: '035'
-  key: 035-i-was-an-hungred-and-ye-gave-me-meat
+- item: 22
+  key: 021-i-was-an-hungred-and-ye-gave-me-meat
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: i-was-an-hungred-and-ye-gave-me-meat
   speaker: Gordon B. Hinckley
-  title: "\u201CI Was an Hungred, and Ye Gave Me Meat\u201D"
+  title: '"I Was an Hungred, and Ye Gave Me Meat"'
   url: https://www.lds.org/general-conference/2004/04/i-was-an-hungred-and-ye-gave-me-meat?lang=eng
   year: 2004
-- article_id: PD10031248_000_025
-  item: '040'
-  key: 040-did-you-get-the-right-message
+- item: 23
+  key: 022-did-you-get-the-right-message
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: did-you-get-the-right-message
   speaker: James E. Faust
   title: Did You Get the Right Message?
   url: https://www.lds.org/general-conference/2004/04/did-you-get-the-right-message?lang=eng
   year: 2004
-- article_id: PD10031248_000_026
-  item: '041'
-  key: 041-fatherhood-an-eternal-calling
+- item: 24
+  key: 023-fatherhood-an-eternal-calling
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: fatherhood-an-eternal-calling
   speaker: L. Tom Perry
   title: Fatherhood, an Eternal Calling
   url: https://www.lds.org/general-conference/2004/04/fatherhood-an-eternal-calling?lang=eng
   year: 2004
-- article_id: PD10031248_000_027
-  item: '042'
-  key: 042-but-if-not
+- item: 25
+  key: 024-but-if-not
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: but-if-not
   speaker: Dennis E. Simmons
-  title: "But If Not \u2026 "
+  title: But If Not ...
   url: https://www.lds.org/general-conference/2004/04/but-if-not?lang=eng
   year: 2004
-- article_id: PD10031248_000_028
-  item: '044'
-  key: 044-a-mother-heart
+- item: 26
+  key: 025-a-mother-heart
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-mother-heart
   speaker: Julie B. Beck
-  title: "A \u201CMother Heart\u201D"
+  title: A "Mother Heart"
   url: https://www.lds.org/general-conference/2004/04/a-mother-heart?lang=eng
   year: 2004
-- article_id: PD10031248_000_029
-  item: '045'
-  key: 045-do-not-fear
+- item: 27
+  key: 026-do-not-fear
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: do-not-fear
   speaker: Boyd K. Packer
   title: Do Not Fear
   url: https://www.lds.org/general-conference/2004/04/do-not-fear?lang=eng
   year: 2004
-- article_id: PD10031248_000_030
-  item: '047'
-  key: 047-the-dawning-of-a-brighter-day
+- item: 28
+  key: 027-the-dawning-of-a-brighter-day
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-dawning-of-a-brighter-day
   speaker: Gordon B. Hinckley
   title: The Dawning of a Brighter Day
   url: https://www.lds.org/general-conference/2004/04/the-dawning-of-a-brighter-day?lang=eng
   year: 2004
-- article_id: PD10031248_000_031
-  item: '051'
-  key: 051-the-atonement-and-the-value-of-one-soul
+- item: 29
+  key: 028-the-atonement-and-the-value-of-one-soul
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-atonement-and-the-value-of-one-soul
   speaker: M. Russell Ballard
   title: The Atonement and the Value of One Soul
   url: https://www.lds.org/general-conference/2004/04/the-atonement-and-the-value-of-one-soul?lang=eng
   year: 2004
-- article_id: PD10031248_000_032
-  item: '052'
-  key: 052-with-all-the-feeling-of-a-tender-parent-a-message-of-hope-to-families
+- item: 30
+  key: 029-with-all-the-feeling-of-a-tender-parent-a-message-of-hope-to-families
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: with-all-the-feeling-of-a-tender-parent-a-message-of-hope-to-families
   speaker: Robert D. Hales
-  title: 'With All the Feeling of a Tender Parent: A Message of Hope to Families'
+  title: With All the Feeling of a Tender Parent:A Message of Hope to Families
   url: https://www.lds.org/general-conference/2004/04/with-all-the-feeling-of-a-tender-parent-a-message-of-hope-to-families?lang=eng
   year: 2004
-- article_id: PD10031248_000_033
-  item: '053'
-  key: 053-standing-spotless-before-the-lord
+- item: 31
+  key: 030-standing-spotless-before-the-lord
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: standing-spotless-before-the-lord
-  speaker: Elder Clate W. Mask Jr.
+  speaker: Clate W. Mask Jr.
   title: Standing Spotless before the Lord
   url: https://www.lds.org/general-conference/2004/04/standing-spotless-before-the-lord?lang=eng
   year: 2004
-- article_id: PD10031248_000_034
-  item: '055'
-  key: 055-marriage-and-family-our-sacred-responsibility
+- item: 32
+  key: 031-marriage-and-family-our-sacred-responsibility
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: marriage-and-family-our-sacred-responsibility
   speaker: W. Douglas Shumway
-  title: 'Marriage and Family: Our Sacred Responsibility'
+  title: Marriage and Family:Our Sacred Responsibility
   url: https://www.lds.org/general-conference/2004/04/marriage-and-family-our-sacred-responsibility?lang=eng
   year: 2004
-- article_id: PD10031248_000_035
-  item: '056'
-  key: 056-the-atonement-all-for-all
+- item: 33
+  key: 032-the-atonement-all-for-all
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-atonement-all-for-all
   speaker: Bruce C. Hafen
-  title: 'The Atonement: All for All'
+  title: The Atonement:All for All
   url: https://www.lds.org/general-conference/2004/04/the-atonement-all-for-all?lang=eng
   year: 2004
-- article_id: PD10031248_000_036
-  item: '057'
-  key: 057-how-to-live-well-amid-increasing-evil
+- item: 34
+  key: 033-how-to-live-well-amid-increasing-evil
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: how-to-live-well-amid-increasing-evil
   speaker: Richard G. Scott
   title: How to Live Well amid Increasing Evil
   url: https://www.lds.org/general-conference/2004/04/how-to-live-well-amid-increasing-evil?lang=eng
   year: 2004
-- article_id: PD10031248_000_037
-  item: 058
-  key: 058-concluding-remarks
+- item: 35
+  key: 034-concluding-remarks
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: concluding-remarks
   speaker: Gordon B. Hinckley
   title: Concluding Remarks
   url: https://www.lds.org/general-conference/2004/04/concluding-remarks?lang=eng
   year: 2004
-- article_id: PD10031248_000_038
-  item: '061'
-  key: 061-all-things-shall-work-together-for-your-good
+- item: 36
+  key: 035-all-things-shall-work-together-for-your-good
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: all-things-shall-work-together-for-your-good
   speaker: Susan W. Tanner
   title: All Things Shall Work Together for Your Good
   url: https://www.lds.org/general-conference/2004/04/all-things-shall-work-together-for-your-good?lang=eng
   year: 2004
-- article_id: PD10031248_000_039
-  item: '064'
-  key: 064-my-soul-delighteth-in-the-scriptures
+- item: 37
+  key: 036-my-soul-delighteth-in-the-scriptures
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: my-soul-delighteth-in-the-scriptures
   speaker: Julie B. Beck
   title: My Soul Delighteth in the Scriptures
   url: https://www.lds.org/general-conference/2004/04/my-soul-delighteth-in-the-scriptures?lang=eng
   year: 2004
-- article_id: PD10031248_000_040
-  item: '065'
-  key: 065-believe
+- item: 38
+  key: 037-believe
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: believe
   speaker: Elaine S. Dalton
   title: Believe!
   url: https://www.lds.org/general-conference/2004/04/believe?lang=eng
   year: 2004
-- article_id: PD10031248_000_041
-  item: '067'
-  key: 067-stay-on-the-high-road
+- item: 39
+  key: 038-stay-on-the-high-road
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: stay-on-the-high-road
   speaker: Gordon B. Hinckley

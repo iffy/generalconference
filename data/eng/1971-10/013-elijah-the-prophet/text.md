@@ -34,7 +34,7 @@ dreadful day of the Lord:
 
 "And he shall turn the heart of the fathers to the children, and the heart of
 the children to their fathers, lest I come and smite the earth with a curse."
-([Mal. 4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4).)
+([Mal. 4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4).)
 
 No passage in scripture gives students of the Old Testament greater problems
 of interpretation than this one in the Book of Malachi regarding the sending
@@ -61,8 +61,7 @@ found her at the gate of the city and asked for water and bread. The widow
 answered: "As the Lord thy God liveth, I have not a cake, but an handful of
 meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two
 sticks, that I may go in and dress it for me and my son, that we may eat it,
-and die." ([1 Kgs.
-17:12](https://www.lds.org/scriptures/ot/1-kgs/17.12?lang=eng#11).)
+and die." ([1 Kgs. 17:12](/scriptures/ot/1-kgs/17.12?lang=eng#11).)
 
 Elijah told her to fear not, that the handful of meal and the cruse of oil
 would not diminish; and it did sustain them through the long drouth.
@@ -106,7 +105,7 @@ trench.
 
 "And when all the people saw it, they fell on their faces: and they said, The
 Lord, he is the God; the Lord, he is the God." ([1 Kgs.
-18:36-39](https://www.lds.org/scriptures/ot/1-kgs/18.36-39?lang=eng#35).)
+18:36-39](/scriptures/ot/1-kgs/18.36-39?lang=eng#35).)
 
 The heavens turned black with clouds and wind, and torrential rains came and
 ended the drouth.
@@ -121,9 +120,9 @@ pieces, there was an earthquake and fire, and in the calm that followed, the
 voice of the Lord was heard to say, "What doest thou here, Elijah?" He
 answered, "... the children of Israel have forsaken thy covenant, ... and they
 seek my life, to take it away." ([1 Kgs.
-19:9-10](https://www.lds.org/scriptures/ot/1-kgs/19.9-10?lang=eng#8).) Two
-troops of soldiers were sent to capture him, but Elijah called down fire from
-heaven, and they were consumed.
+19:9-10](/scriptures/ot/1-kgs/19.9-10?lang=eng#8).) Two troops of soldiers
+were sent to capture him, but Elijah called down fire from heaven, and they
+were consumed.
 
 Elijah, the great defender of Jehovah, and his friend Elisha walked together
 from Jericho to the Jordan. Elijah took his mantle and smote the waters. They
@@ -132,7 +131,7 @@ divided, and the two crossed over on dry ground.
 "And it came to pass, as they still went on, and talked, that, behold, there
 appeared a chariot of fire, and horses of fire, and parted them both asunder;
 and Elijah went up by a whirlwind into heaven." ([2 Kgs.
-2:11](https://www.lds.org/scriptures/ot/2-kgs/2.11?lang=eng#10).)
+2:11](/scriptures/ot/2-kgs/2.11?lang=eng#10).)
 
 The story of Elijah is in the Old Testament and reference is made to him in
 the New Testament, but without further revelation we would be left in darkness
@@ -159,18 +158,16 @@ day of the Lord come--
 
 "To turn the hearts of the fathers to the children, and the children to the
 fathers, lest the whole earth be smitten with a curse." ([D&amp;C 110:1,
-13-15](https://www.lds.org/scriptures/dc-
-testament/dc/110.1%2C13-15?lang=eng#0).)
+13-15](/scriptures/dc-testament/dc/110.1,13-15?lang=eng#0).)
 
 In centuries past many people have lived and died without knowing of the
 gospel. How will they be judged in the absence of this knowledge? Peter said
 that after Christ was crucified, "but quickened by the Spirit ... he went and
 preached unto the spirits in prison." ([1 Pet.
-3:18-19](https://www.lds.org/scriptures/nt/1-pet/3.18-19?lang=eng#17).) Then
-he adds, "For for this cause was the gospel preached also to them that are
-dead, that they might be judged according to men in the flesh, but live
-according to God in the spirit." ([1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5).) Thus, those who
+3:18-19](/scriptures/nt/1-pet/3.18-19?lang=eng#17).) Then he adds, "For for
+this cause was the gospel preached also to them that are dead, that they might
+be judged according to men in the flesh, but live according to God in the
+spirit." ([1 Pet. 4:6](/scriptures/nt/1-pet/4.6?lang=eng#5).) Thus, those who
 die without knowledge of the gospel will have the opportunity to hear and
 accept it and to accept baptism.
 
@@ -220,4 +217,6 @@ forth in the first resurrection. ..." (_Documentary History of the Church, _vol.
 
 May the spirit of Elijah burn deep into our hearts and turn us toward the
 temples, I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

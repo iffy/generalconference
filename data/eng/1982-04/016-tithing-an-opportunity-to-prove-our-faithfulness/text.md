@@ -1,4 +1,4 @@
-# Tithing: An Opportunity to Prove Our Faithfulness
+# Tithing:An Opportunity to Prove Our Faithfulness
 
 That's a great song ("The World Has Need of Willing Men") and I'm sorry we did
 not sing the last verse--
@@ -47,8 +47,8 @@ had to accomplish.
 We did not do it with the expectation of material blessings, although we can
 testify that we have been so blessed. The Lord has opened the windows of
 heaven and poured out his blessings in marvelous measure. (See [Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).) I am satisfied
-that he will bless all who walk in obedience to this commandment.
+3:10](/scriptures/ot/mal/3.10?lang=eng#9).) I am satisfied that he will bless
+all who walk in obedience to this commandment.
 
 Now, do not get me wrong. I am not here to say that if you pay an honest
 tithing you will realize your dream of a fine house, a Rolls Royce, and a
@@ -66,7 +66,7 @@ in the field. ...
 
 "And all nations shall call you blessed: for ye shall be a delightsome land,
 saith the Lord of hosts." ([Mal.
-3:11-12](https://www.lds.org/scriptures/ot/mal/3.11-12?lang=eng#10).)
+3:11-12](/scriptures/ot/mal/3.11-12?lang=eng#10).)
 
 There are many ways in which the Lord can bless us beyond the riches of the
 world. There is the great boon of health. The Lord has promised that he will
@@ -154,7 +154,7 @@ favorably impressed.
 of his stature [or I might add parenthetically, on his financial statement];
 because I have refused him: for the Lord seeth not as man seeth; for man
 looketh on the outward appearance, but the Lord looketh on the heart." ([1
-Sam. 16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).)
+Sam. 16:7](/scriptures/ot/1-sam/16.7?lang=eng#6).)
 
 I am confident that it is so, likewise, with stake presidents in nominating
 men to serve as bishops, and with others in the selection of various Church
@@ -167,7 +167,7 @@ fitness for office in the kingdom of God.
 "We believe that a man must be called of God, by prophecy, and by the laying
 on of hands by those who are in authority, to preach the Gospel and administer
 in the ordinances thereof." ([A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
+1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
 
 It must always be so in this, the work of the Lord.
 
@@ -256,4 +256,6 @@ drugs, no immorality or anything approaching that.
 God bless you, my brethren of the priesthood, with faith and testimony and a
 love for him and his great and sacred work. You know it is true, and I know it
 is true, and together we so testify in the name of Jesus Christ, amen.
+
+## References
 

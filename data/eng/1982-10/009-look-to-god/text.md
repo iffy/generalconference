@@ -36,33 +36,32 @@ materials, and we will make an earth whereon these may dwell;
 
 "And we will prove them herewith, to see if they will do all things whatsoever
 the Lord their God shall command them." ([Abr.
-3:24-25](https://www.lds.org/scriptures/pgp/abr/3.24-25?lang=eng#23).)
+3:24-25](/scriptures/pgp/abr/3.24-25?lang=eng#23).)
 
 Yes, this life is a time of testing. It is not the reward time. That will come
 later. We are here being tested. The test is going on now!
 
 He wants us to know how we feel in our heart. He has said, "For as [a man]
 thinketh in his heart, so is he." ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6).)
+23:7](/scriptures/ot/prov/23.7?lang=eng#6).)
 
 "They draw near to me with their lips, but their hearts are far from me." ([JS
---H 1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18).)
+--H 1:19](/scriptures/pgp/js-h/1.19?lang=eng#18).)
 
 When our hearts are not right, the Lord withholds His spirit. "They sought
 evil in their hearts, and I, the Lord, withheld my Spirit." ([D&amp;C
-64:16](https://www.lds.org/scriptures/dc-testament/dc/64.16?lang=eng#15).)
+64:16](/scriptures/dc-testament/dc/64.16?lang=eng#15).)
 
 He "granteth unto men" according to the desire of their heart. (See [Alma
-29:4](https://www.lds.org/scriptures/bofm/alma/29.4?lang=eng#3).)
+29:4](/scriptures/bofm/alma/29.4?lang=eng#3).)
 
 "O ye that embark in the service of God, see that ye serve him with all your
 heart ... that ye may stand blameless before God at the last day." ([D&amp;C
-4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1).)
+4:2](/scriptures/dc-testament/dc/4.2?lang=eng#1).)
 
 Of offerings, the Lord has said, "Speak unto the children of Israel, that they
 may bring me an offering: of every man that giveth it willingly with his heart
-ye shall take my offering." ([Ex.
-25:2](https://www.lds.org/scriptures/ot/ex/25.2?lang=eng#1).)
+ye shall take my offering." ([Ex. 25:2](/scriptures/ot/ex/25.2?lang=eng#1).)
 
 There was no concern as to the gift itself, but only that he give "it
 willingly with his heart."
@@ -99,14 +98,14 @@ Yes, worship is really of the heart.
 
 "But if from thence thou shalt seek the Lord thy God, thou shalt find him, if
 thou seek him with all thy heart and all thy soul." ([Deut.
-4:29](https://www.lds.org/scriptures/ot/deut/4.29?lang=eng#28).)
+4:29](/scriptures/ot/deut/4.29?lang=eng#28).)
 
 This question was asked of Jesus: "Master, which is the great commandment in
 the law?
 
 "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and
 with all thy soul, and with all thy mind." ([Matt.
-22:36-37](https://www.lds.org/scriptures/nt/matt/22.36-37?lang=eng#35).)
+22:36-37](/scriptures/nt/matt/22.36-37?lang=eng#35).)
 
 We need to grow in respect and reverence and love of God, the Father, and His
 Son, Jesus Christ. This can come as we desire and seek. It will not come
@@ -114,8 +113,7 @@ automatically, but we as individuals, free to choose, must desire and seek and
 pray and ask. It must grow from the deep feelings in our hearts.
 
 The Lord has said, "For where your treasure is, there will your heart be
-also." ([Matt.
-6:21](https://www.lds.org/scriptures/nt/matt/6.21?lang=eng#20).)
+also." ([Matt. 6:21](/scriptures/nt/matt/6.21?lang=eng#20).)
 
 To you wonderful young men of the Church, turn your hearts to the Lord, put
 Him first in your lives. The finest thing each of you can do for the Lord and
@@ -189,4 +187,6 @@ testify that Jesus is the Christ, and that He will be as close to us as we
 will let Him be by how we live and feel in our hearts.
 
 In the name of Jesus Christ, amen.
+
+## References
 

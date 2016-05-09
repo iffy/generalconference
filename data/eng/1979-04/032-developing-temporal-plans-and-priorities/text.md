@@ -186,16 +186,14 @@ planning.
 
 Welfare services master planning is the process of--
 
-  1. Developing a plan for teaching welfare services principles.
-
-  2. Identifying needs of the poor, needy, and distressed.
-
-  3. Programming Church resources to meet those needs.
+  1. Developing a plan for teaching welfare services principles. 
+  2. Identifying needs of the poor, needy, and distressed. 
+  3. Programming Church resources to meet those needs. 
 
 When the master plan is fully implemented, there will exist within an area
 those elements of the storehouse resource system required to assist bishops in
-caring for the Lord's poor and distressed. (See [D&amp;C
-52:40](https://www.lds.org/scriptures/dc-testament/dc/52.40?lang=eng#39).)
+caring for the Lord's poor and distressed. (See [D&amp;C 52:40](/scriptures
+/dc-testament/dc/52.40?lang=eng#39).)
 
 The purposes of master planning can be achieved best through a phased
 approach. Phase one relates to strategic or "big picture" matters. The product
@@ -208,19 +206,13 @@ so that the area or zone may become self-sufficient.
 There are seven steps in the master planning process. Through the area
 council, ecclesiastical and temporal officers are to--
 
-  1. Prepare and implement a formal area plan for teaching principles and programs.
-
-  2. Complete a needs and resources survey.
-
-  3. Review and adjust the bishop's stocklist.
-
-  4. Study local conditions and constraints--legal, tax, agricultural, etc.
-
-  5. Prepare a map showing ecclesiastical boundaries and proposed placement of facilities and projects.
-
-  6. Recommend needed projects, facilities, and services.
-
-  7. Submit the plan to the General Welfare Services Committee for approval.
+  1. Prepare and implement a formal area plan for teaching principles and programs. 
+  2. Complete a needs and resources survey. 
+  3. Review and adjust the bishop's stocklist. 
+  4. Study local conditions and constraints--legal, tax, agricultural, etc. 
+  5. Prepare a map showing ecclesiastical boundaries and proposed placement of facilities and projects. 
+  6. Recommend needed projects, facilities, and services. 
+  7. Submit the plan to the General Welfare Services Committee for approval. 
 
 While the process of master planning is not complicated, it does require some
 time and effort. We hope that under the guidance of your respective executive
@@ -267,8 +259,8 @@ be open by late summer. An LDS Social Services office has also been opened.
 Bishops have been better trained in caring for the needy, and the Saints have
 felt a great upsurge of security by being a part of this effort. They all have
 less need to fear than they had fifteen months ago, for the Lord said, "If ye
-are prepared ye shall not fear" ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29)).
+are prepared ye shall not fear" ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29)).
 
 As we witness what takes place when priesthood and temporal leaders first
 catch the vision of what the Lord expects, then, working in the proper
@@ -276,6 +268,8 @@ councils, plan well, and then execute the plan, we see the fulfillment of the
 teachings of modern prophets as well as those of ancient times. May we go
 forth from this conference with a desire to "learn [our] duty, and ... act in
 the office in which [we are] appointed, in all diligence" ([D&amp;C
-107:99](https://www.lds.org/scriptures/dc-testament/dc/107.99?lang=eng#98)). I
-pray. In the name of Jesus Christ, amen.
+107:99](/scriptures/dc-testament/dc/107.99?lang=eng#98)). I pray. In the name
+of Jesus Christ, amen.
+
+## References
 

@@ -2,7 +2,7 @@
 
 In October of 1833, the Prophet Joseph Smith received a revelation in which
 the Lord said, "I will raise up unto myself a pure people, that will serve me
-in righteousness." ([D&amp;C 100:16](https://www.lds.org/scriptures/dc-
+in righteousness." ([D&amp;C 100:16](/scriptures/dc-
 testament/dc/100.16?lang=eng#15).) The Lord was speaking of our pioneer
 forefathers, and also of the Saints of this day. In view of that implied
 responsibility, I would like to discuss with you today the way to perfection,
@@ -45,41 +45,35 @@ Christ and His divine sonship and following His precepts.
 Jesus showed us the way. Its simplicity is encompassed in His Beatitudes,
 which have echoed down through the centuries of time and will yet echo through
 the millenniums of time: "Blessed are the poor in spirit: for theirs is the
-kingdom of heaven." ([Matt.
-5:3](https://www.lds.org/scriptures/nt/matt/5.3?lang=eng#2).) In repeating the
-Sermon on the Mount to the people in ancient America, He said it differently:
-"Blessed are the poor in spirit _who come unto me,_ for theirs is the kingdom
-of heaven." ([3 Ne.
-12:3](https://www.lds.org/scriptures/bofm/3-ne/12.3?lang=eng#2); italics
-added.) This addition, "who come unto me," enables one to better understand
-the meaning of this verse. The Lord said he is angered with the inhabitants of
-the earth, for "they seek not the Lord to establish his righteousness, but
-every man walketh in his own way, and after the image of his own god."
-([D&amp;C 1:16](https://www.lds.org/scriptures/dc-
-testament/dc/1.16?lang=eng#15).) The Beatitudes are steps we can take to come
-to Christ.
+kingdom of heaven." ([Matt. 5:3](/scriptures/nt/matt/5.3?lang=eng#2).) In
+repeating the Sermon on the Mount to the people in ancient America, He said it
+differently: "Blessed are the poor in spirit _who come unto me,_ for theirs is
+the kingdom of heaven." ([3 Ne. 12:3](/scriptures/bofm/3-ne/12.3?lang=eng#2);
+italics added.) This addition, "who come unto me," enables one to better
+understand the meaning of this verse. The Lord said he is angered with the
+inhabitants of the earth, for "they seek not the Lord to establish his
+righteousness, but every man walketh in his own way, and after the image of
+his own god." ([D&amp;C 1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15).)
+The Beatitudes are steps we can take to come to Christ.
 
 _Step 1._ To come unto Christ, one's first step is to come forth with a broken
 heart and a contrite spirit that results in overcoming unrighteous pride and
 becoming submissive to His will.
 
 _Step 2._ "Blessed are they that mourn: for they shall be comforted." ([Matt.
-5:4](https://www.lds.org/scriptures/nt/matt/5.4?lang=eng#3).) The Apostle Paul
-spoke of a godly sorrow for our sins that is essential to our spiritual
-progress.
+5:4](/scriptures/nt/matt/5.4?lang=eng#3).) The Apostle Paul spoke of a godly
+sorrow for our sins that is essential to our spiritual progress.
 
 _Step 3._ "Blessed are the meek: for they shall inherit the earth." ([Matt.
-5:5](https://www.lds.org/scriptures/nt/matt/5.5?lang=eng#4).) The dictionary
-defines _meek_ as "enduring injury with patience and without resentment." This
-is an important virtue that one must develop in preparation for entrance into
-the celestial kingdom, which kingdom the earth will become when it is
-celestialized.
+5:5](/scriptures/nt/matt/5.5?lang=eng#4).) The dictionary defines _meek_ as
+"enduring injury with patience and without resentment." This is an important
+virtue that one must develop in preparation for entrance into the celestial
+kingdom, which kingdom the earth will become when it is celestialized.
 
 _Step 4._ "Blessed are they which do hunger and thirst after righteousness:
-for they shall be filled." ([Matt.
-5:6](https://www.lds.org/scriptures/nt/matt/5.6?lang=eng#5).) The scripture
-from ancient America adds, "shall be filled with the Holy Ghost." ([3 Ne.
-12:6](https://www.lds.org/scriptures/bofm/3-ne/12.6?lang=eng#5).)
+for they shall be filled." ([Matt. 5:6](/scriptures/nt/matt/5.6?lang=eng#5).)
+The scripture from ancient America adds, "shall be filled with the Holy
+Ghost." ([3 Ne. 12:6](/scriptures/bofm/3-ne/12.6?lang=eng#5).)
 
 A young man approached Socrates and asked him to be his tutor and to teach him
 what he knew. Socrates took the young man to the seaside and out into the
@@ -91,26 +85,26 @@ know." To understand the gospel of Jesus Christ, one must first have a strong
 desire to learn and a willingness to study.
 
 _Step 5._ "Blessed are the merciful: for they shall obtain mercy." ([Matt.
-5:7](https://www.lds.org/scriptures/nt/matt/5.7?lang=eng#6).) Webster's
-dictionary defines _mercy_ as "compassion or forbearance shown to an
-offender." Such is the by-product of gospel living.
+5:7](/scriptures/nt/matt/5.7?lang=eng#6).) Webster's dictionary defines
+_mercy_ as "compassion or forbearance shown to an offender." Such is the by-
+product of gospel living.
 
 _Step 6._ When one extends mercy to others, he develops purity of heart. The
 Savior said, "Blessed are the pure in heart: for they shall see God." ([Matt.
-5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7).) The dictionary
-has twenty-two different definitions for the word _see,_ one of which is "to
-understand." When one develops purity of heart, he will come to understand
-God. As one develops an understanding of God, he comes to know Him. The Savior
-said, addressing the Father, "And this is life eternal, that they might know
-thee the only true God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+5:8](/scriptures/nt/matt/5.8?lang=eng#7).) The dictionary has twenty-two
+different definitions for the word _see,_ one of which is "to understand."
+When one develops purity of heart, he will come to understand God. As one
+develops an understanding of God, he comes to know Him. The Savior said,
+addressing the Father, "And this is life eternal, that they might know thee
+the only true God, and Jesus Christ, whom thou hast sent." ([John
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 _Step 7._ Once one has gained purity of heart, he receives peace in his mind
 and peace in his heart. The Savior continued, "Blessed are the peacemakers:
 for they shall be called the children of God." ([Matt.
-5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8).) Having gained
-inner peace, we have put on the full armor of God. Now we can more easily
-withstand persecution, which leads to--
+5:9](/scriptures/nt/matt/5.9?lang=eng#8).) Having gained inner peace, we have
+put on the full armor of God. Now we can more easily withstand persecution,
+which leads to--
 
 _Step 8._ "Blessed are they which are persecuted for righteousness' sake: for
 theirs is the kingdom of heaven.
@@ -120,7 +114,7 @@ all manner of evil against you falsely, for my sake.
 
 "Rejoice, and be exceeding glad: for great is your reward in heaven: for so
 persecuted they the prophets which were before you." ([Matt.
-5:10-12](https://www.lds.org/scriptures/nt/matt/5.10-12?lang=eng#9).)
+5:10-12](/scriptures/nt/matt/5.10-12?lang=eng#9).)
 
 The Savior concluded His sermon by encouraging us to become perfect, as our
 Heavenly Father is perfect. While these steps follow one another in a natural
@@ -141,23 +135,21 @@ and we start anew. It is truly a marvelous and a merciful process, one which
 enables us to grow and progress.
 
 When we partake of the sacrament, we witness unto God that we are willing to
-take upon ourselves the name of Jesus Christ. (See [D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76).)
-What does that mean?
+take upon ourselves the name of Jesus Christ. (See [D&amp;C 20:77](/scriptures
+/dc-testament/dc/20.77?lang=eng#76).) What does that mean?
 
 The Savior said to Peter, "Come follow me." (See [Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18); [Mark
-1:17](https://www.lds.org/scriptures/nt/mark/1.17?lang=eng#16).) Peter walked
-in His footsteps for three years. He went where Jesus went. He did what Jesus
-instructed him to do. Then the Savior said to Peter and to His other Apostles
-also:
+4:19](/scriptures/nt/matt/4.19?lang=eng#18); [Mark
+1:17](/scriptures/nt/mark/1.17?lang=eng#16).) Peter walked in His footsteps
+for three years. He went where Jesus went. He did what Jesus instructed him to
+do. Then the Savior said to Peter and to His other Apostles also:
 
 "In my Father's house are many mansions: if it were not so, I would have told
 you. I go to prepare a place for you.
 
 "And if I go and prepare a place for you, I will come again, and receive you
 unto myself; that where I am, there ye may be also." ([John
-14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1).)
+14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1).)
 
 And where did Jesus go? He went to His Father. But before He went to His
 Father, He went someplace else. He went to Gethsemane. We are not required to
@@ -168,17 +160,15 @@ remain faithful.
 The Lord said, "My people must be tried in all things, that they may be
 prepared to receive the glory that I have for them, even the glory of Zion;
 and he that will not bear chastisement is not worthy of my kingdom." ([D&amp;C
-136:31](https://www.lds.org/scriptures/dc-testament/dc/136.31?lang=eng#30).)
+136:31](/scriptures/dc-testament/dc/136.31?lang=eng#30).)
 
 At the conclusion of the Sermon on the Mount in the Holy Land, the Savior
 said, "Be ye therefore perfect, even as your Father which is in Heaven is
-perfect." ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).) But when the
+perfect." ([Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47).) But when the
 Savior repeated the Sermon on the Mount to the people of ancient America, He
 said, "Therefore I would that ye should be perfect _even as I,_ or your Father
 who is in heaven is perfect." ([3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47); italics
-added.)
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47); italics added.)
 
 Something important occurred between the time He taught this sermon to the
 people in the Holy Land and when He taught it to the people of ancient
@@ -198,4 +188,6 @@ Spirit bore witness to him that truly it is.
 I testify that this restored gospel which we espouse is indeed the real truth
 and the _right_ way to a glorious and eternal reward. In the name of Jesus
 Christ, amen.
+
+## References
 

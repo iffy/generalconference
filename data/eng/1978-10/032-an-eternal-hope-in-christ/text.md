@@ -21,8 +21,7 @@ Our beloved brother Paul, after acclaiming "that Christ died for our sins ...
 scriptures," then said:
 
 "If in this life only we have hope in Christ, we are of all men most
-miserable" ([1 Cor. 15:3-4,
-19](https://www.lds.org/scriptures/nt/1-cor/15.3-4%2C19?lang=eng#2)).
+miserable" ([1 Cor. 15:3-4, 19](/scriptures/nt/1-cor/15.3-4,19?lang=eng#2)).
 
 Then he taught and testified that even as Christ is risen from the dead, so
 will all men come forth from the grave; each will then be judged according to
@@ -59,7 +58,7 @@ We have a hope in Christ here and now. He died for our sins. Because of him
 and his gospel, our sins are washed away in the waters of baptism; sin and
 iniquity are burned out of our souls as though by fire; and we become clean,
 have clear consciences, and gain that peace which passeth understanding. (See
-[Philip. 4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).)
+[Philip. 4:7](/scriptures/nt/philip/4.7?lang=eng#6).)
 
 By living the laws of his gospel, we gain temporal prosperity and maintain
 health of body and strength of mind. The gospel blesses us today.
@@ -67,7 +66,7 @@ health of body and strength of mind. The gospel blesses us today.
 But today is just a grain of sand in the Sahara of eternity. We have also a
 hope in Christ for the eternity that lies ahead; otherwise, as Paul said, we
 would be "of all men most miserable" ([1 Cor.
-15:19](https://www.lds.org/scriptures/nt/1-cor/15.19?lang=eng#18)).
+15:19](/scriptures/nt/1-cor/15.19?lang=eng#18)).
 
 How great would be our sorrow--and justly so--if there were no resurrection!
 How miserable we would be if there were no hope of life eternal! If our hope
@@ -75,21 +74,19 @@ of salvation and eternal reward should fade away, we would certainly be more
 miserable than those who never had such an expectancy.
 
 "But now is Christ risen from the dead, and become the firstfruits of them
-that slept" ([1 Cor.
-15:20](https://www.lds.org/scriptures/nt/1-cor/15.20?lang=eng#19)).
+that slept" ([1 Cor. 15:20](/scriptures/nt/1-cor/15.20?lang=eng#19)).
 
 Now the effects of his resurrection shall pass upon all men, "for as in Adam
 all die, even so in Christ shall all be made alive" ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21)).
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21)).
 
 Now "as we have borne the image of the earthy, we shall also bear the image of
-the heavenly" ([1 Cor.
-15:49](https://www.lds.org/scriptures/nt/1-cor/15.49?lang=eng#48)).
+the heavenly" ([1 Cor. 15:49](/scriptures/nt/1-cor/15.49?lang=eng#48)).
 
 Now provision has been made whereby "this corruptible shall ... put on
 incorruption, and this mortal shall ... put on immortality, then shall be
 brought to pass the saying that is written, Death is swallowed up in victory"
-([1 Cor. 15:54](https://www.lds.org/scriptures/nt/1-cor/15.54?lang=eng#53)).
+([1 Cor. 15:54](/scriptures/nt/1-cor/15.54?lang=eng#53)).
 
 Then shall all men stand before the bar of the great Jehovah to be judged
 according to the deeds done in the flesh.
@@ -106,19 +103,18 @@ altar, those who have kept the commandments of God--they shall go to a
 celestial kingdom whose glory is as the sun.
 
 "O death, where is thy sting? O grave, where is thy victory?" Paul asks. ([1
-Cor. 15:55](https://www.lds.org/scriptures/nt/1-cor/15.55?lang=eng#54)).
+Cor. 15:55](/scriptures/nt/1-cor/15.55?lang=eng#54)).
 
 There is no victory in the grave, for death is replaced with life. Immortality
 is a free gift for all men through the atoning ransom paid by the Son of God.
 
 But, Paul says, "The sting of death is sin," meaning that if men die in their
 sins, they will suffer the prescribed penalty and gain a lesser glory in the
-realms ahead ([1 Cor.
-15:56](https://www.lds.org/scriptures/nt/1-cor/15.56?lang=eng#55)).
+realms ahead ([1 Cor. 15:56](/scriptures/nt/1-cor/15.56?lang=eng#55)).
 
 "But thanks be to God," the ancient apostle continues, "which giveth us the
 victory through our Lord Jesus Christ" ([1 Cor.
-15:57](https://www.lds.org/scriptures/nt/1-cor/15.57?lang=eng#56)).
+15:57](/scriptures/nt/1-cor/15.57?lang=eng#56)).
 
 If we are true and faithful, we shall rise, not alone in immortality but unto
 eternal life. Immortality is to live forever in an assigned kingdom. Eternal
@@ -131,25 +127,25 @@ in the work of the Lord, forasmuch as ye know that your labour is not in vain
 in the Lord.
 
 "Watch ye, stand fast in the faith, quit you like men, be strong." ([1 Cor.
-15:58](https://www.lds.org/scriptures/nt/1-cor/15.58?lang=eng#57); [1 Cor.
-16:13](https://www.lds.org/scriptures/nt/1-cor/16.13?lang=eng#12).)
+15:58](/scriptures/nt/1-cor/15.58?lang=eng#57); [1 Cor.
+16:13](/scriptures/nt/1-cor/16.13?lang=eng#12).)
 
 We have an eternal hope in Christ. We know this life is given us to prepare
 for eternity, "and that same sociality which exists among us here will exist
 among us there, only it will be coupled with eternal glory, which glory we do
-not now enjoy" ([D&amp;C 130:2](https://www.lds.org/scriptures/dc-
+not now enjoy" ([D&amp;C 130:2](/scriptures/dc-
 testament/dc/130.2?lang=eng#1)).
 
 We _believe,_ and it is our testimony, and we proclaim it to the world "that
 there shall be no other name given nor any other way nor means whereby
 salvation can come unto the children of men, only in and through the name of
 Christ, the Lord Omnipotent" ([Mosiah
-3:17](https://www.lds.org/scriptures/bofm/mosiah/3.17?lang=eng#16)).
+3:17](/scriptures/bofm/mosiah/3.17?lang=eng#16)).
 
 We _know,_ and it is our testimony, and we also proclaim it to the world that
 to be saved men must "believe that salvation was, and is, and is to come, in
 and through the atoning blood of Christ, the Lord Omnipotent" ([Mosiah
-3:18](https://www.lds.org/scriptures/bofm/mosiah/3.18?lang=eng#17)).
+3:18](/scriptures/bofm/mosiah/3.18?lang=eng#17)).
 
 Thus, with Nephi, "we labor diligently to write, to persuade our children, and
 also our brethren, to believe in Christ, and to be reconciled to God; for we
@@ -158,8 +154,7 @@ know that it is by grace that we are saved, after all _we_ can do.
 "And we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy
 of Christ, and we write according to our prophecies, that our children may
 know to what source they may look for a remission of their sins." ([2 Ne.
-25:23, 26](https://www.lds.org/scriptures/bofm/2-ne/25.23%2C26?lang=eng#22);
-italics added.)
+25:23, 26](/scriptures/bofm/2-ne/25.23,26?lang=eng#22); italics added.)
 
 Also, with Nephi, we know the course all men must pursue to gain an eternal
 hope.
@@ -168,7 +163,7 @@ hope.
 Christ is the Holy One of Israel; wherefore ye must bow down before him, and
 worship him with all your might, mind, and strength, and your whole soul; and
 if ye do this ye shall in nowise be cast out" ([2 Ne.
-25:29](https://www.lds.org/scriptures/bofm/2-ne/25.29?lang=eng#28)).
+25:29](/scriptures/bofm/2-ne/25.29?lang=eng#28)).
 
 We glory with Paul in these words spoken of our beloved Lord: in him "we have
 redemption through his blood, even the forgiveness of sins:
@@ -185,7 +180,7 @@ principalities, or powers: all things were created by him, and for him:
 firstborn from the dead; that in all things he might have the preeminence.
 
 "For it pleased the Father that in him should all fulness dwell." ([Col.
-1:14-19](https://www.lds.org/scriptures/nt/col/1.14-19?lang=eng#13).)
+1:14-19](/scriptures/nt/col/1.14-19?lang=eng#13).)
 
 And again with Paul we say:
 
@@ -200,8 +195,7 @@ of God the Father.
 
 "Wherefore, my beloved, as ye have always obeyed, not as in my presence only,
 but now much more in my absence, work out your own salvation with fear and
-trembling." ([Philip.
-2:9-12](https://www.lds.org/scriptures/nt/philip/2.9-12?lang=eng#8).)
+trembling." ([Philip. 2:9-12](/scriptures/nt/philip/2.9-12?lang=eng#8).)
 
 Now, relive with me this beautiful testimony of Peter:
 
@@ -222,7 +216,7 @@ heaven.
 
 "And I say also unto thee, That thou art Peter, and upon this rock I will
 build my church; and the gates of hell shall not prevail against it." ([Matt.
-16:13-18](https://www.lds.org/scriptures/nt/matt/16.13-18?lang=eng#12).)
+16:13-18](/scriptures/nt/matt/16.13-18?lang=eng#12).)
 
 To the testimonies of these mighty men and apostles of old--our brethren in
 the ministry of the same Master--I add my own testimony. I know that Jesus
@@ -252,4 +246,6 @@ ever been before. I pray the Lord to bless you; and as his servant, I bless
 you and bid you a fond farewell.
 
 In the name of Jesus Christ, amen.
+
+## References
 

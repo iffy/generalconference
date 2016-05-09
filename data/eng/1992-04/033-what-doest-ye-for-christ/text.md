@@ -17,20 +17,19 @@ given from this pulpit at this conference. What a blessing to have a wife who
 worries for you and over you.
 
 In Matthew chapter 22, verse 42 [[Matt.
-22:42](https://www.lds.org/scriptures/nt/matt/22.42?lang=eng#41)] is recorded
-a question of great import to you and me who profess to be disciples of the
-Lord Jesus Christ. The question, as raised by Jesus Himself, is: "What think
-ye of Christ?" I'm sure we have thought of or have been asked this question
-before. No doubt we have come up with many responses, and all have been
-reflective of the deep love and esteem we have for Him. It is not surprising
-we have given or have heard others give, time and time again, such
-descriptions as the Only Begotten Son, Lord and Savior, Redeemer of the World,
-Sinless Sacrifice, Lamb of God, Light of the World, and countless more. And
-each time we bear testimony of what we think of Him, I'm sure we do it with
-utmost reverence and endearment. It is also reassuring to know that what we
-testify is made sure by the Spirit, for "no man can say that Jesus is the
-Lord, but by the Holy Ghost." ([1 Cor.
-12:3](https://www.lds.org/scriptures/nt/1-cor/12.3?lang=eng#2).)
+22:42](/scriptures/nt/matt/22.42?lang=eng#41)] is recorded a question of great
+import to you and me who profess to be disciples of the Lord Jesus Christ. The
+question, as raised by Jesus Himself, is: "What think ye of Christ?" I'm sure
+we have thought of or have been asked this question before. No doubt we have
+come up with many responses, and all have been reflective of the deep love and
+esteem we have for Him. It is not surprising we have given or have heard
+others give, time and time again, such descriptions as the Only Begotten Son,
+Lord and Savior, Redeemer of the World, Sinless Sacrifice, Lamb of God, Light
+of the World, and countless more. And each time we bear testimony of what we
+think of Him, I'm sure we do it with utmost reverence and endearment. It is
+also reassuring to know that what we testify is made sure by the Spirit, for
+"no man can say that Jesus is the Lord, but by the Holy Ghost." ([1 Cor.
+12:3](/scriptures/nt/1-cor/12.3?lang=eng#2).)
 
 And now may I humbly pose another important question that may be considered a
 follow-up to "What think ye of Christ?" It is not a question found in the
@@ -57,8 +56,7 @@ be in terms of works more than words.
 
 Jesus taught us: "Not every one that saith unto me, Lord, Lord, shall enter
 into the kingdom of heaven; but he that doeth the will of my Father which is
-in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).) He brings
+in heaven." ([Matt. 7:21](/scriptures/nt/matt/7.21?lang=eng#20).) He brings
 home the powerful message that to do His Father's will is the key to entering
 the kingdom of heaven. To think and to testify of Christ are very important,
 but in addition, these must be followed by good works patterned after those of
@@ -80,25 +78,23 @@ diligently to answer the question by the works we do may well be called
 character--hopefully even a Christlike character. The meaning and heart of a
 Christlike character is beautifully described in Jesus' simple but profound
 statement, "What manner of men ought ye to be? ... even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).) And
-typical of the great man He is, He not only tells us what a Christlike
-character is, He also extends a helping hand to you and me as to what we can
-and must do to have a Christlike character. In loving terms, He said, "Verily,
-verily, I say unto you, this is my gospel; and ye know the things that ye must
-do in my church; for the works which ye have seen me do [even] that shall ye
-also do; for that which ye have seen me do even that shall ye do;
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).) And typical of the great man
+He is, He not only tells us what a Christlike character is, He also extends a
+helping hand to you and me as to what we can and must do to have a Christlike
+character. In loving terms, He said, "Verily, verily, I say unto you, this is
+my gospel; and ye know the things that ye must do in my church; for the works
+which ye have seen me do [even] that shall ye also do; for that which ye have
+seen me do even that shall ye do;
 
 "Therefore, if ye do these things blessed are ye, for ye shall be lifted up at
-the last day." ([3 Ne.
-27:21-22](https://www.lds.org/scriptures/bofm/3-ne/27.21-22?lang=eng#20).)
+the last day." ([3 Ne. 27:21-22](/scriptures/bofm/3-ne/27.21-22?lang=eng#20).)
 
 Furthermore, He said, "For I have given you an example, that ye should do as I
-have done to you." ([John
-13:15](https://www.lds.org/scriptures/nt/john/13.15?lang=eng#14).) And still
-further, "If ye continue in my word, then are ye my disciples indeed." ([John
-8:31](https://www.lds.org/scriptures/nt/john/8.31?lang=eng#30).) And finally,
-simply but majestically, "Follow thou me." ([2 Ne.
-31:10](https://www.lds.org/scriptures/bofm/2-ne/31.10?lang=eng#9).)
+have done to you." ([John 13:15](/scriptures/nt/john/13.15?lang=eng#14).) And
+still further, "If ye continue in my word, then are ye my disciples indeed."
+([John 8:31](/scriptures/nt/john/8.31?lang=eng#30).) And finally, simply but
+majestically, "Follow thou me." ([2 Ne.
+31:10](/scriptures/bofm/2-ne/31.10?lang=eng#9).)
 
 It becomes clear the wisest and most sensible thing for us to do as His
 disciples is to labor diligently during this mortal estate to become like Him
@@ -117,4 +113,6 @@ His ways are our ways and His thoughts our thoughts.
 That we may all achieve this through dedicated effort and steadfast faith in
 Him who is our Exemplar of truth and righteousness is my humble prayer in the
 name of Jesus Christ, amen.
+
+## References
 

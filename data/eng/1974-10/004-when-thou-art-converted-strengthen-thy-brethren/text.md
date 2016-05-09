@@ -34,15 +34,14 @@ It is in moments like this that I think of that great scripture our prophet
 quoted to us this morning:
 
 "The earth is the Lord's, and the fulness thereof; the world, and they that
-dwell therein." ([Ps.
-24:1](https://www.lds.org/scriptures/ot/ps/24.1?lang=eng#0).)
+dwell therein." ([Ps. 24:1](/scriptures/ot/ps/24.1?lang=eng#0).)
 
 It has always interested me to note that in the scriptures when the Lord talks
 about righteousness, we hear him declare abundance, fullness, and plenty.
 Shortage and scarcity are not from him, but are man-made because of our
 failure to follow his original instructions to "be fruitful, and multiply, and
 replenish the earth, and subdue it: and have dominion over [it]." ([Gen.
-1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27).)
+1:28](/scriptures/ot/gen/1.28?lang=eng#27).)
 
 Now to maximize our potential, he has given us direction from the beginning on
 our behavior while we sojourn here as mortals on earth. He has asked us first
@@ -59,7 +58,7 @@ and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35).)
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35).)
 
 From this reply by our Savior, we gain a knowledge of the two great
 fundamental commandments. I would like to reaffirm these to you in an effort
@@ -75,7 +74,7 @@ departed from the teachings of his father. The scriptures record:
 "He became a very wicked and an idolatrous man. And he was a man of many
 words, and did speak much flattery to the people; therefore he led many of the
 people to do after the manner of his iniquities." ([Mosiah
-27:8](https://www.lds.org/scriptures/bofm/mosiah/27.8?lang=eng#7).)
+27:8](/scriptures/bofm/mosiah/27.8?lang=eng#7).)
 
 After his father had tried diligently to change the ways of Alma the Younger
 and to no avail, he [Alma] went to the Lord and asked that Alma [his son]
@@ -104,7 +103,7 @@ being redeemed of God, becoming his sons and daughters;
 
 "And thus they become new creatures; and unless they do this [the warning],
 they can in nowise inherit the kingdom of God." ([Mosiah
-27:24-26](https://www.lds.org/scriptures/bofm/mosiah/27.24-26?lang=eng#23).)
+27:24-26](/scriptures/bofm/mosiah/27.24-26?lang=eng#23).)
 
 Alma's words became a witness to each of us of what must occur in our lives if
 we are to find the rewarding, fulfilling experience of being converted to the
@@ -123,7 +122,7 @@ fishers.
 "And he saith unto them, Follow me, and I will make you fishers of men.
 
 "And they straightway left their nets, and followed him." ([Matt.
-4:18-20](https://www.lds.org/scriptures/nt/matt/4.18-20?lang=eng#17).)
+4:18-20](/scriptures/nt/matt/4.18-20?lang=eng#17).)
 
 Now fishing, to Peter, represented his wealth or his ability to gain the
 things of the world. You will note that right from the beginning Peter was
@@ -134,7 +133,7 @@ scriptures record the great witness that was given to him when he, with James
 and John, was taken to a high mountain apart from the rest of the world: "And
 [the Savior] was transfigured before them: and his face did shine as the sun,
 and his raiment was white as the light." ([Matt.
-17:2](https://www.lds.org/scriptures/nt/matt/17.2?lang=eng#1).)
+17:2](/scriptures/nt/matt/17.2?lang=eng#1).)
 
 Even after such a remarkable witness, we find the Savior continually reminding
 Peter of his commitments and responsibilities:
@@ -144,7 +143,7 @@ he may sift you as wheat:
 
 "But I have prayed for thee, that thy faith fail not: and when thou art
 converted, strengthen thy brethren." ([Luke
-22:31-32](https://www.lds.org/scriptures/nt/luke/22.31-32?lang=eng#30).)
+22:31-32](/scriptures/nt/luke/22.31-32?lang=eng#30).)
 
 Peter was then privileged to witness the greatest of all manifestations given
 by the Savior to mankind, for he witnessed the sorrow of the crucifixion and
@@ -167,8 +166,7 @@ No.
 
 "And he said unto them, Cast the net on the right side of the ship, and ye
 shall find. They cast therefore, and now they were not able to draw it for the
-multitude of fishes." ([John
-21:3-6](https://www.lds.org/scriptures/nt/john/21.3-6?lang=eng#2).)
+multitude of fishes." ([John 21:3-6](/scriptures/nt/john/21.3-6?lang=eng#2).)
 
 Here the Savior teaches Peter a great lesson. The things of God are above
 those of man. The Lord has power to supply the fishes, the things of the
@@ -180,12 +178,12 @@ they dine together:
 "Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than
 these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith
 unto him, Feed my lambs." ([John
-21:15](https://www.lds.org/scriptures/nt/john/21.15?lang=eng#14).)
+21:15](/scriptures/nt/john/21.15?lang=eng#14).)
 
 Then the question a second and third time. And finally, Peter, being grieved,
 replied to the Lord, "Thou knowest all things; thou knowest that I love thee.
 Jesus saith unto him, Feed my sheep." ([John
-21:17](https://www.lds.org/scriptures/nt/john/21.17?lang=eng#16).)
+21:17](/scriptures/nt/john/21.17?lang=eng#16).)
 
 Finally Peter understood: "when thou art converted"--a condition carries with
 it a responsibility to do something with that conversion, to feed the sheep of
@@ -232,7 +230,7 @@ converted John Taylor had an inspirational effect in the life of Brother
 Parley P. Pratt.
 
 "When thou art converted, strengthen thy brethren." ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).)
+22:32](/scriptures/nt/luke/22.32?lang=eng#31).)
 
 All of the abundance, fullness, and plenty of this earth was given to us by
 God to be enjoyed in righteousness. We in turn are expected to love him; to be
@@ -249,4 +247,6 @@ Savior of this world, that Spencer W. Kimball, who conducts this conference
 session here today, is a prophet. Think of it--a prophet of the Lord on the
 earth today! May I give this witness as I know it, in the name of Jesus
 Christ. Amen.
+
+## References
 

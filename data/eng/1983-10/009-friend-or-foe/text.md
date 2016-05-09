@@ -14,7 +14,7 @@ Ephraimite? If he said, Nay;
 
 "Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he
 could not frame to pronounce it right." ([Judg.
-12:5-6](https://www.lds.org/scriptures/ot/judg/12.5-6?lang=eng#4).)
+12:5-6](/scriptures/ot/judg/12.5-6?lang=eng#4).)
 
 And that mispronunciation meant death. Forty-two thousand perished that day.
 Apparently the process was very successful and did not leave room for
@@ -37,8 +37,7 @@ Today, in our very complex world, we may well be reminded of the true message
 that comes from Christ himself to avoid constant battles and a final holocaust
 when he declared: "Love your enemies, bless them that curse you, do good to
 them that hate you, and pray for them who despitefully use you and persecute
-you." ([3 Ne.
-12:44](https://www.lds.org/scriptures/bofm/3-ne/12.44?lang=eng#43).)
+you." ([3 Ne. 12:44](/scriptures/bofm/3-ne/12.44?lang=eng#43).)
 
 However, the essential personal question that we need to consider is whether
 our relationship with deity will be that of friend or foe. If well understood,
@@ -59,14 +58,13 @@ your lusts.
 
 "Ye adulterers and adulteresses, know ye not that the friendship of the world
 is enmity with God? whosoever therefore will be a friend of the world is the
-enemy of God." ([James
-4:1-4](https://www.lds.org/scriptures/nt/james/4.1-4?lang=eng#0).)
+enemy of God." ([James 4:1-4](/scriptures/nt/james/4.1-4?lang=eng#0).)
 
 What is an enemy to God? A scripture defines it concisely:
 
 "For the natural man is an enemy to God, and has been from the fall of Adam,
 and will be, forever and ever." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 One might wonder, after listening to this very strong statement, if man can
 abandon this carnal nature and this belief that earth is his final resource,
@@ -75,8 +73,7 @@ discover, by faith, that it is our Heavenly Father who constitutes the eternal
 resource when he knows how to cultivate this friendship?
 
 "For by grace are ye saved through faith; and that not of yourselves: it is
-the gift of God." ([Eph.
-2:8](https://www.lds.org/scriptures/nt/eph/2.8?lang=eng#7).)
+the gift of God." ([Eph. 2:8](/scriptures/nt/eph/2.8?lang=eng#7).)
 
 What then is a true friend of God?
 
@@ -101,8 +98,7 @@ Spirit, and putteth off the natural man and becometh a saint through the
 atonement of Christ the Lord, and becometh as a child, submissive, meek,
 humble, patient, full of love, willing to submit to all things which the Lord
 seeth fit to inflict upon him, even as a child doth submit to his father."
-([Mosiah 3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18);
-italics added.)
+([Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18); italics added.)
 
 One of the real purposes of life is to become a friend of the Mediator, our
 Savior and Redeemer, and not only understand his mission but also support it
@@ -111,8 +107,8 @@ presence of his Father.
 
 "I give unto you these sayings that you may understand and know how to
 worship, and know what you worship, that you may come unto the Father in my
-name, and in due time receive of his fulness." ([D&amp;C
-93:19](https://www.lds.org/scriptures/dc-testament/dc/93.19?lang=eng#18).)
+name, and in due time receive of his fulness." ([D&amp;C 93:19](/scriptures
+/dc-testament/dc/93.19?lang=eng#18).)
 
 Prophets and Apostles testify of the importance of Christ being our friend.
 The testimony of President Spencer W. Kimball last year in general conference
@@ -132,16 +128,15 @@ was based on a covenant to be faithful to the Lord. Let me share some excerpts
 of the qualities of that friendship.
 
 "The soul of Jonathan was knit with the soul of David, and Jonathan loved him
-as his own soul." ([1 Sam.
-18:1](https://www.lds.org/scriptures/ot/1-sam/18.1?lang=eng#0).)
+as his own soul." ([1 Sam. 18:1](/scriptures/ot/1-sam/18.1?lang=eng#0).)
 
 "Jonathan spake good of David unto Saul his father." ([1 Sam.
-19:4](https://www.lds.org/scriptures/ot/1-sam/19.4?lang=eng#3).)
+19:4](/scriptures/ot/1-sam/19.4?lang=eng#3).)
 
 "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of
 us in the name of the Lord, saying, The Lord be between me and thee, and
 between my seed and thy seed for ever." ([1 Sam.
-20:42](https://www.lds.org/scriptures/ot/1-sam/20.42?lang=eng#41).)
+20:42](/scriptures/ot/1-sam/20.42?lang=eng#41).)
 
 As individuals, and especially teenagers, what kinds of friends do we select,
 adopt, confide in, and visit with? Are we strong enough to refuse to be a
@@ -151,15 +146,14 @@ lower standards, or is it to maintain Christlike standards and defend them? Do
 we consider mutual friendship as a way to maintain and develop the foundation
 of our testimony of Christ? "Feast upon the words of Christ; for behold, the
 words of Christ will tell you all things what ye should do." ([2 Ne.
-32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2).) The
-conditions are set; the model is given. Then why not become his disciple by
-being his witness? Why entertain the constant dilemma of your mind? Be
-committed to be his friend!
+32:3](/scriptures/bofm/2-ne/32.3?lang=eng#2).) The conditions are set; the
+model is given. Then why not become his disciple by being his witness? Why
+entertain the constant dilemma of your mind? Be committed to be his friend!
 
 We find the same challenge with teaching our children to build an eternal
 association of friendship and love. "But I have commanded you to bring up your
-children in light and truth." ([D&amp;C 93:40](https://www.lds.org/scriptures
-/dc-testament/dc/93.40?lang=eng#39).) Do we treat our sons and daughters as
+children in light and truth." ([D&amp;C 93:40](/scriptures/dc-
+testament/dc/93.40?lang=eng#39).) Do we treat our sons and daughters as
 children of God? Do we teach by example? Do we pray with them? Do we attend
 church with them? Do we have family home evening regularly? Our spiritual
 progress and qualifying to become friends with Christ and his Father depend on
@@ -169,18 +163,20 @@ the teachings to our children.
 "Ye will not suffer your children that they go hungry, or naked; neither will
 ye suffer that they transgress the laws of God, and fight and quarrel one with
 another, and serve the devil, ... he being an enemy to all righteousness."
-([Mosiah 4:14](https://www.lds.org/scriptures/bofm/mosiah/4.14?lang=eng#13).)
+([Mosiah 4:14](/scriptures/bofm/mosiah/4.14?lang=eng#13).)
 
 Our challenge is to choose the right, to declare that we are friends of our
 Heavenly Father. The covenant that we made through baptism is a contract to
 become a friend of God.
 
 Abraham "was called the Friend of God." ([James
-2:23](https://www.lds.org/scriptures/nt/james/2.23?lang=eng#22).) Prophets and
-Apostles down through the dispensations have been friends of God. If you have
-not done so previously, now is the time to become friends of God. We have the
-knowledge of the scriptures, the testimonies of the prophets. I know that my
-Redeemer lives. I want to call him my friend; I want to be called his friend.
-May we all qualify to be his disciples, his friends, I pray in the name of
-Jesus Christ, amen.
+2:23](/scriptures/nt/james/2.23?lang=eng#22).) Prophets and Apostles down
+through the dispensations have been friends of God. If you have not done so
+previously, now is the time to become friends of God. We have the knowledge of
+the scriptures, the testimonies of the prophets. I know that my Redeemer
+lives. I want to call him my friend; I want to be called his friend. May we
+all qualify to be his disciples, his friends, I pray in the name of Jesus
+Christ, amen.
+
+## References
 

@@ -30,11 +30,10 @@ and guides our deliberations.
 
 Being members of the Church truly is a privilege and an honor. We must be as
 Paul the Apostle and never be ashamed of the gospel of Jesus Christ (see [Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15)) nor feel
-threatened when the Church, its leaders, its members, or its doctrines are
-criticized or maligned. On the contrary, we should be bold and assertive in
-proclaiming the gospel. We should be grateful to participate in this great
-latter-day movement.
+1:16](/scriptures/nt/rom/1.16?lang=eng#15)) nor feel threatened when the
+Church, its leaders, its members, or its doctrines are criticized or maligned.
+On the contrary, we should be bold and assertive in proclaiming the gospel. We
+should be grateful to participate in this great latter-day movement.
 
 I wish to speak first to the young men who bear the Aaronic Priesthood. I want
 you to understand that we have trust and confidence in you. We realize that
@@ -42,8 +41,8 @@ from your ranks will come the next generation of Church officers, teachers,
 and community leaders. Most importantly, you will be fathers and patriarchs in
 your own families. Your tasks then will be to teach and prepare the generation
 that follows you. My counsel to you is very simple. In the words of the Lord,
-"Prepare ye for that which is to come." ([D&amp;C
-1:12](https://www.lds.org/scriptures/dc-testament/dc/1.12?lang=eng#11).)
+"Prepare ye for that which is to come." ([D&amp;C 1:12](/scriptures/dc-
+testament/dc/1.12?lang=eng#11).)
 
 The best source of instruction, guidance, and counsel that most of you young
 men have is your parents. In the divine wisdom of our Heavenly Father, each of
@@ -59,12 +58,10 @@ kind of thinking; it is false. Your parents are wise. They have a maturity
 that comes only from experience. The Lord has given them the fundamental task
 of teaching, guiding, and caring for you and helping you prepare for the
 challenges that are necessary for your growth and progress. (See [Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13);
-[D&amp;C 68:25-28](https://www.lds.org/scriptures/dc-
-testament/dc/68.25-28?lang=eng#24); [D&amp;C
-93:40-50](https://www.lds.org/scriptures/dc-
-testament/dc/93.40-50?lang=eng#39); [Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).)
+4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13); [D&amp;C
+68:25-28](/scriptures/dc-testament/dc/68.25-28?lang=eng#24); [D&amp;C
+93:40-50](/scriptures/dc-testament/dc/93.40-50?lang=eng#39); [Prov.
+22:6](/scriptures/ot/prov/22.6?lang=eng#5).)
 
 When I was a young man, I looked up to my priesthood leaders. They included
 Charles E. Forsberg, my bishop when I was five years old. His English was
@@ -81,10 +78,10 @@ beautiful, heavenly creations on the one hand and with the evil designs of
 Satan, the enemy of God, on the other. Always have the courage to make the
 right choice. You can do it because "it is given unto you to judge, that ye
 may know good from evil." ([Moro.
-7:15](https://www.lds.org/scriptures/bofm/moro/7.15?lang=eng#14).) We learn
-that in the Book of Mormon. The Lord has given you that judgment. Remember,
-"God ... will not suffer you to be tempted above that ye are able." ([1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).)
+7:15](/scriptures/bofm/moro/7.15?lang=eng#14).) We learn that in the Book of
+Mormon. The Lord has given you that judgment. Remember, "God ... will not suffer
+you to be tempted above that ye are able." ([1 Cor.
+10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).)
 
 Always be aware of the privilege you have received of bearing the priesthood
 of God. It is a unique gift to the world. Bearing the priesthood is an honor
@@ -147,8 +144,7 @@ of control in some homes; the set is rarely turned off, regardless of the
 programming. Some programs are filthy and evil and are poisoning the minds of
 God's children today. Likewise, many movies and videotapes are blatantly
 corrupt and evil, making their viewers insensible to the promptings of the
-Spirit. (See [Hel.
-4:24](https://www.lds.org/scriptures/bofm/hel/4.24?lang=eng#23).) Satan has
+Spirit. (See [Hel. 4:24](/scriptures/bofm/hel/4.24?lang=eng#23).) Satan has
 made the television and film media among his most effective tools to destroy
 minds and souls.
 
@@ -194,18 +190,18 @@ placed at a gate to the temple asked them for help. Apparently he expected to
 receive money. "Then Peter said, Silver and gold have I none; but such as I
 have give I thee: In the name of Jesus Christ of Nazareth rise up and walk.
 And he took him by the right hand, and lifted him up." ([Acts
-3:6-7](https://www.lds.org/scriptures/nt/acts/3.6-7?lang=eng#5).)
+3:6-7](/scriptures/nt/acts/3.6-7?lang=eng#5).)
 
 The phrase "lifted him up" is, to me, a key point in this miracle. That is
 what the priesthood does. To be lifted up in this sense means to "be called of
 God, by prophecy, and by the laying on of hands by those who are in authority,
 to preach the Gospel and administer in the ordinances thereof." ([A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).) You brethren
-can trace your priesthood authority directly to the Savior. The priesthood
-lifts us and enables us to do things far beyond our own unassisted abilities
-if we are worthy to exercise it. Also, it gives us the power and authority to
-lift others. In fact, it places on us the obligation to lift all who come
-under our influence, much as Peter lifted the afflicted man.
+1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4).) You brethren can trace your
+priesthood authority directly to the Savior. The priesthood lifts us and
+enables us to do things far beyond our own unassisted abilities if we are
+worthy to exercise it. Also, it gives us the power and authority to lift
+others. In fact, it places on us the obligation to lift all who come under our
+influence, much as Peter lifted the afflicted man.
 
 The Lord has lifted up his prophets, both ancient and modern. The latter-day
 prophets, from Joseph Smith to President Ezra Taft Benson, are representatives
@@ -219,15 +215,14 @@ Ghost reconfirmed to me that the First Vision did occur, and, in the words of
 the Prophet Joseph Smith, "I saw two Personages, whose brightness and glory
 defy all description, standing above me in the air. One of them spake unto me,
 calling me by name and said, pointing to the other--_This is My Beloved Son.
-Hear Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+Hear Him!_" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 You brethren are entitled to call on the Lord for guidance just as Joseph
 Smith did in his fifteenth year. You should have the same quest for truth and
 the same desire to know what you should do and how you should act. Remember,
 he went into the grove and prayed for guidance to know for himself which
 church was right and how he would know it. (See [JS--H
-1:10-13](https://www.lds.org/scriptures/pgp/js-h/1.10-13?lang=eng#9).)
+1:10-13](/scriptures/pgp/js-h/1.10-13?lang=eng#9).)
 
 Brethren, the mission of the Church is much more than a lofty ideal conceived
 at Church headquarters. It should be a part of the personal mission of every
@@ -252,4 +247,6 @@ I bear my witness that Jesus is the Christ, the Son of God. This is his
 church; he directs it through his prophets. Joseph Smith is the prophet of the
 Restoration. President Ezra Taft Benson is the present prophet of God. In the
 name of Jesus Christ, amen.
+
+## References
 

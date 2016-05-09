@@ -24,8 +24,7 @@ I testify that these stipulations are true because this knowledge has been
 revealed to me by the unquestionable Spirit of God.
 
 In a time described in the scriptures as being filled with wickedness and
-vengeance ([Moses
-7:60](https://www.lds.org/scriptures/pgp/moses/7.60?lang=eng#59)), the First
+vengeance ([Moses 7:60](/scriptures/pgp/moses/7.60?lang=eng#59)), the First
 Presidency has sent out the special message to the Church in our stake
 conferences: "Staying on the strait and narrow path by keeping our covenants."
 
@@ -33,7 +32,7 @@ For us who claim leadership through prophets called of God, it is a good time
 to pay attention. For those who ignore the commandments, you may not receive
 many other warnings, "for wide is the gate, and broad is the way, that leadeth
 to destruction, and many there be which go in thereat." ([Matt.
-7:13](https://www.lds.org/scriptures/nt/matt/7.13?lang=eng#12).)
+7:13](/scriptures/nt/matt/7.13?lang=eng#12).)
 
 The warning is against unrighteousness. That means sin and wickedness. This is
 defined by Peter as if he were speaking of this present time. He speaks of
@@ -41,7 +40,7 @@ defined by Peter as if he were speaking of this present time. He speaks of
 example of the iniquity of Sodom and Gomorrah, and of "the filthy conversation
 of the wicked, ... having eyes full of adultery, and that cannot cease from
 sin." ([2 Pet. 2:1, 3, 6, 7,
-14](https://www.lds.org/scriptures/nt/2-pet/2.1%2C3%2C6%2C7%2C14?lang=eng#0).)
+14](/scriptures/nt/2-pet/2.1,3,6,7,14?lang=eng#0).)
 
 A moment's reflection on the displays in the media and in advertising, the
 inducement to use drugs, alcohol, and so forth, makes it very plain that for
@@ -49,9 +48,8 @@ the sake of making money there is an attempt to buy or sell our souls, making
 "merchandise of you."
 
 Newspaper articles and public expressions often carry the "filthy conversation
-of the wicked." ([2 Pet.
-2:7](https://www.lds.org/scriptures/nt/2-pet/2.7?lang=eng#6).) We call it what
-it is: "A wicked and adulterous generation."
+of the wicked." ([2 Pet. 2:7](/scriptures/nt/2-pet/2.7?lang=eng#6).) We call
+it what it is: "A wicked and adulterous generation."
 
 We are indeed constantly bombarded by a display of wickedness as it flashes
 before us, sometimes in ways that we cannot avoid.
@@ -209,4 +207,6 @@ _The iron rod is the word of God,_
 _'Twill safely guide us through._
 
 In the name of Jesus Christ, amen.
+
+## References
 

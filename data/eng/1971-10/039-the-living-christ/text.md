@@ -74,8 +74,7 @@ God.
 
 "And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for
 flesh and blood hath not revealed it unto thee, but my Father which is in
-heaven." ([Matt.
-16:13-17](https://www.lds.org/scriptures/nt/matt/16.13-17?lang=eng#12).)
+heaven." ([Matt. 16:13-17](/scriptures/nt/matt/16.13-17?lang=eng#12).)
 
 Peter and others were permitted to witness the Master's transfiguration, and
 they had seen the wonderful miracles that he had performed; yet it was not
@@ -86,15 +85,14 @@ fear that he was the Christ, the Son of the living God.
 
 The holy scriptures tell us that following his resurrection, the risen Lord
 was seen by Mary Magdalene at the sepulcher. ([John
-20:16](https://www.lds.org/scriptures/nt/john/20.16?lang=eng#15).)
+20:16](/scriptures/nt/john/20.16?lang=eng#15).)
 
 He appeared unto two of his disciples as they walked and went into the
 country, and they knew not that it was he.
 
 He appeared to his apostles on several different occasions following his
 resurrection, and, according to Apostle Paul, he was seen by above five
-hundred brethren at once. (See [1 Cor.
-15](https://www.lds.org/scriptures/nt/1-cor/15.title?lang=eng).)
+hundred brethren at once. (See [1 Cor. 15](/scriptures/nt/1-cor/15?lang=eng).)
 
 Yes, and following his resurrection and ascension, he appeared to the people
 on this the American continent and established his church and proclaimed his
@@ -144,8 +142,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 And again:
 
@@ -157,7 +154,7 @@ to bear the sins of the world, and to sanctify the world, and to cleanse it
 from all unrighteousness;
 
 "That through him all might be saved whom the Father had put into his power
-and made by him." ([D&amp;C 76:40-42](https://www.lds.org/scriptures/dc-
+and made by him." ([D&amp;C 76:40-42](/scriptures/dc-
 testament/dc/76.40-42?lang=eng#39).)
 
 Then again, in the 110th section of the Doctrine and Covenants the Prophet
@@ -175,8 +172,8 @@ voice was as the sound of the rushing of great waters, even the voice of
 Jehovah, saying:
 
 "I am the first and the last; I am he who liveth, I am he who was slain; I am
-your advocate with the Father." ([D&amp;C
-110:1-4](https://www.lds.org/scriptures/dc-testament/dc/110.1-4?lang=eng#0).)
+your advocate with the Father." ([D&amp;C 110:1-4](/scriptures/dc-
+testament/dc/110.1-4?lang=eng#0).)
 
 Others in this dispensation have seen the Lord. We are not restricted to the
 testimonies of Joseph Smith, Sidney Rigdon, Oliver Cowdery, and others who
@@ -184,7 +181,7 @@ have seen the Lord in this day and time. We may and do know for ourselves that
 Jesus the Christ does live, that he is the mediator between us and the Father.
 We have that gift and power that Peter had when he said: "Thou art the Christ,
 the Son of the living God." ([Matt.
-16:16](https://www.lds.org/scriptures/nt/matt/16.16?lang=eng#15).)
+16:16](/scriptures/nt/matt/16.16?lang=eng#15).)
 
 We have had hands laid upon our heads by men of divine authority, men holding
 the priesthood of God, which has been restored to earth in our time, and have
@@ -205,7 +202,7 @@ truth, which comes from the Lord himself, burning within our souls, and that
 that light shall so shine that others may be led to find the way to salvation,
 exaltation, and eternal life. Jesus has said: "I am the light of the world: he
 that followeth me shall not walk in darkness, but shall have the light of
-life." ([John 8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).)
+life." ([John 8:12](/scriptures/nt/john/8.12?lang=eng#11).)
 
 Our message to the world, which we have been proclaiming for more than 140
 years, is that God lives and that Jesus was and is the living Christ; that the
@@ -221,4 +218,6 @@ thereto.
 May the peace that passeth understanding come into the hearts of men and women
 everywhere through a knowledge of these things, I humbly pray in the name of
 Jesus Christ. Amen.
+
+## References
 

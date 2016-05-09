@@ -14,14 +14,13 @@ That experience reminded me of the difficulty Moses had persuading Pharaoh to
 let the Israelites leave Egypt. One plague followed another until the Egyptian
 ruler finally gave in. After being threatened with hordes of locusts, Pharaoh
 agreed to let the men go if Moses would leave the women, the young, and the
-old behind. (See [Ex.
-10:3-11](https://www.lds.org/scriptures/ot/ex/10.3-11?lang=eng#2).)
+old behind. (See [Ex. 10:3-11](/scriptures/ot/ex/10.3-11?lang=eng#2).)
 
 However, Moses insisted that all should go. He said, "We will go with our
 young and with our old, with our sons and with our daughters, with our flocks
 and with our herds will we go" ([Ex.
-10:9](https://www.lds.org/scriptures/ot/ex/10.9?lang=eng#8)). Moses refused to
-divide the people of God.
+10:9](/scriptures/ot/ex/10.9?lang=eng#8)). Moses refused to divide the people
+of God.
 
 All ages would share the adventure and the dangers together, just as our own
 pioneers did 132 years ago during their great exodus. The solidarity of the
@@ -34,8 +33,7 @@ isolated. None of us can settle into infancy, youth, middle age, or old age.
 We all _grow_ older, and, incidentally, it is an exciting thought if the
 accent is on _growing._ "Though our outward man perish," said Paul, "yet the
 inward man is renewed _day by day_" ([2 Cor.
-4:16](https://www.lds.org/scriptures/nt/2-cor/4.16?lang=eng#15); italics
-added).
+4:16](/scriptures/nt/2-cor/4.16?lang=eng#15); italics added).
 
 I cannot think on my own life without feeling deep gratitude for the older
 people who have walked and talked with me. A great-aunt taught me many lessons
@@ -56,10 +54,9 @@ elderly, I address my brief comments.
 Few men whose names occur in the New Testament have so little said about them
 as did Mnason. His name appears only once: "one Mnason of Cyprus, an old
 disciple, with whom we should lodge" ([Acts
-21:16](https://www.lds.org/scriptures/nt/acts/21.16?lang=eng#15)). As the
-early missionaries traveled, they wanted to be with an elderly disciple, one
-with whom they felt comfortable. Apparently, they were seeking his wisdom and
-his knowledge.
+21:16](/scriptures/nt/acts/21.16?lang=eng#15)). As the early missionaries
+traveled, they wanted to be with an elderly disciple, one with whom they felt
+comfortable. Apparently, they were seeking his wisdom and his knowledge.
 
 "_Then what can we do?" _I can almost hear some of our older members of the
 Church inquiring.
@@ -110,10 +107,9 @@ have been filled both with success and with experiences you might change if
 you could. But you can't, so stop any self-inflicted sadness or despair. When
 the Savior said, "Judge not," he was speaking, in part, about your
 relationship with yourself (see [Matt.
-7:1](https://www.lds.org/scriptures/nt/matt/7.1?lang=eng#0)). Live the
-repentant life happily. The scripture "Men are, that they might have joy" ([2
-Ne. 2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)) applies
-to you right now.
+7:1](/scriptures/nt/matt/7.1?lang=eng#0)). Live the repentant life happily.
+The scripture "Men are, that they might have joy" ([2 Ne.
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)) applies to you right now.
 
 Bernard Baruch, on his eighty-fifth birthday, said (in a news report dated 20
 August 1955), "To me, old age is always fifteen years older than I am." Yes,
@@ -148,4 +144,6 @@ lovingly wiped away ours.
 In closing, I say to you--our elder mentors, our examples, some of our dearest
 friends--thank you, and may we be one, as the Father and the Son are one, I
 pray in the blessed name of Jesus Christ, amen.
+
+## References
 

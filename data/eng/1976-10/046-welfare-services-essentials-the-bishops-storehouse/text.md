@@ -1,4 +1,4 @@
-# Welfare Services Essentials: The Bishops Storehouse
+# Welfare Services Essentials:The Bishops Storehouse
 
 My dear brothers and sisters, I would like to discuss with you this morning
 some of the essentials in Church welfare services, giving particular attention
@@ -35,13 +35,12 @@ Let us next consider what the Lord says about this subject as recorded in the
 Doctrine and Covenants:
 
 "The office of bishop is in administering all temporal things, ... having a
-knowledge of them by the Spirit of truth." ([D&amp;C 107:68,
-71](https://www.lds.org/scriptures/dc-testament/dc/107.68%2C71?lang=eng#67).)
-In his calling he is to be endowed with the spirit of discernment to detect
-those "professing and yet ... not of God" ([D&amp;C
-46:27](https://www.lds.org/scriptures/dc-testament/dc/46.27?lang=eng#26)); he
-is to search "after the poor to administer to their wants by humbling the rich
-and the proud" ([D&amp;C 84:112](https://www.lds.org/scriptures/dc-
+knowledge of them by the Spirit of truth." ([D&amp;C 107:68, 71](/scriptures
+/dc-testament/dc/107.68,71?lang=eng#67).) In his calling he is to be endowed
+with the spirit of discernment to detect those "professing and yet ... not of
+God" ([D&amp;C 46:27](/scriptures/dc-testament/dc/46.27?lang=eng#26)); he is
+to search "after the poor to administer to their wants by humbling the rich
+and the proud" ([D&amp;C 84:112](/scriptures/dc-
 testament/dc/84.112?lang=eng#111)).
 
 Again from President Clark: "Thus to the bishop is given all the powers, and
@@ -146,8 +145,8 @@ things both in money and in meat, which are more than is needful for the wants
 of this people, be kept in the hands of the bishop. ...
 
 "Behold, this shall be an example unto my servant Edward Partridge, in other
-places, in all churches." ([D&amp;C 51:13, 18](https://www.lds.org/scriptures
-/dc-testament/dc/51.13%2C18?lang=eng#12).)
+places, in all churches." ([D&amp;C 51:13, 18](/scriptures/dc-
+testament/dc/51.13,18?lang=eng#12).)
 
 With the establishment of the present welfare plan in 1930, one hundred years
 after this revelation, and from then until now, the Brethren have counseled
@@ -159,7 +158,7 @@ We recognize that current distribution needs and the availability of
 production projects do not always permit a storehouse in each stake. We know,
 however, that the Lord's kingdom will not attain its full maturity until we
 have met his charge to be "independent above all other creatures beneath the
-celestial world." ([D&amp;C 78:14](https://www.lds.org/scriptures/dc-
+celestial world." ([D&amp;C 78:14](/scriptures/dc-
 testament/dc/78.14?lang=eng#13).) We also know that caring for the poor and
 needy in the Lord's own way cannot be fully accomplished without every bishop
 having access to a physical storehouse.
@@ -181,16 +180,15 @@ charity, but we exemplify it in action.
 Storehouses bless the members of the Church by helping them live their
 covenants of sacrifice and consecration. Indeed, the Lord states in the
 eighty-third section of the Doctrine and Covenants that "the storehouse shall
-be kept by the consecrations of the church." ([D&amp;C
-83:6](https://www.lds.org/scriptures/dc-testament/dc/83.6?lang=eng#5).)
-President Clark reminds us: "Our storehouses today under the welfare plan are
-kept, in fact, by the consecrations of the Church, that is, of the membership
-of the Church. The storehouses we have now are ... stocked by the produce raised
-and materials fabricated for the purpose by the Church members. These
-contributions are truly consecrations, for they are freely and gratuitously
-given, with no claim back by the donor either as to the contributions
-themselves or to compensations therefor." (President J. Reuben Clark, Jr.,
-address at bishops' meeting, Oct. 6, 1944.)
+be kept by the consecrations of the church." ([D&amp;C 83:6](/scriptures/dc-
+testament/dc/83.6?lang=eng#5).) President Clark reminds us: "Our storehouses
+today under the welfare plan are kept, in fact, by the consecrations of the
+Church, that is, of the membership of the Church. The storehouses we have now
+are ... stocked by the produce raised and materials fabricated for the purpose
+by the Church members. These contributions are truly consecrations, for they
+are freely and gratuitously given, with no claim back by the donor either as
+to the contributions themselves or to compensations therefor." (President J.
+Reuben Clark, Jr., address at bishops' meeting, Oct. 6, 1944.)
 
 If the bishops and stake presidents are to move the Church forward to
 maturity, they will accept this challenge: each will become involved in a
@@ -201,4 +199,6 @@ implementation of the full program so that our people can literally be
 
 That this may be our goal, and that we may accomplish it, is my prayer in the
 name of the Lord Jesus Christ. Amen.
+
+## References
 

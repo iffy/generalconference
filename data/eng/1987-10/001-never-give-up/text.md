@@ -15,7 +15,7 @@ creation as sons and daughters of our Heavenly Father--that is, to reach
 exaltation and eternal life. The obstacles and opposition we meet are the
 temptations and enticements of Satan that are designed to frustrate the Lord's
 work and glory: "To bring to pass the immortality and eternal life of man"
-([Moses 1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 Perseverance is a positive, active characteristic. It is not idly, passively
 waiting and hoping for some good thing to happen. It gives us hope by helping
@@ -56,17 +56,17 @@ included the loss of his seven sons and three daughters, the loss of his
 wealth in flocks and herds and serious physical illnesses. Remaining faithful
 to the Lord through his indescribable sorrow and suffering, Job was able to
 say, "Blessed be the name of the Lord" ([Job
-1:21](https://www.lds.org/scriptures/ot/job/1.21?lang=eng#20)). "Though he
-slay me, yet will I trust in him. ... He also shall be my salvation. ... For I
-know that my redeemer liveth, and that he shall stand at the latter day upon
-the earth ... yet in my flesh shall I see God" ([Job
-13:15-16](https://www.lds.org/scriptures/ot/job/13.15-16?lang=eng#14); [Job
-19:25-26](https://www.lds.org/scriptures/ot/job/19.25-26?lang=eng#24)).
+1:21](/scriptures/ot/job/1.21?lang=eng#20)). "Though he slay me, yet will I
+trust in him. ... He also shall be my salvation. ... For I know that my redeemer
+liveth, and that he shall stand at the latter day upon the earth ... yet in my
+flesh shall I see God" ([Job
+13:15-16](/scriptures/ot/job/13.15-16?lang=eng#14); [Job
+19:25-26](/scriptures/ot/job/19.25-26?lang=eng#24)).
 
 The result of Job's perseverance is told in the conclusion of the story. The
 Lord blessed him with a family, good health, and great possessions. He
 continued in his course, despite unrelenting opposition, until he saw the Lord
-(see [Job 42:5](https://www.lds.org/scriptures/ot/job/42.5?lang=eng#4)).
+(see [Job 42:5](/scriptures/ot/job/42.5?lang=eng#4)).
 
 The Book of Mormon is filled with stories of great people who endured to the
 very end, from Lehi and his family through Moroni, the son of Mormon. The life
@@ -75,33 +75,30 @@ faced may seem beyond belief to us. He saw the entire Nephite nation destroyed
 by the sword in a terrible war because of the wickedness of the people. His
 father and all of his kinsfolk and friends were slain. He was alone for about
 twenty years, perhaps hiding and fleeing from savage Lamanites who sought to
-take his life (see [Morm.
-8:2-7](https://www.lds.org/scriptures/bofm/morm/8.2-7?lang=eng#1)). Yet he
-continued to keep the record as his father had commanded him.
+take his life (see [Morm. 8:2-7](/scriptures/bofm/morm/8.2-7?lang=eng#1)). Yet
+he continued to keep the record as his father had commanded him.
 
 As a result of his perseverance and righteousness, he was ministered to by the
 Three Nephites, whom the Savior permitted to tarry until His second coming
-(see [Morm. 8:11](https://www.lds.org/scriptures/bofm/morm/8.11?lang=eng#10)).
-In these latter days, Moroni had the divine commission of instructing Joseph
-Smith in his calling as the Prophet of the Restoration and delivering the Book
-of Mormon record to him.
+(see [Morm. 8:11](/scriptures/bofm/morm/8.11?lang=eng#10)). In these latter
+days, Moroni had the divine commission of instructing Joseph Smith in his
+calling as the Prophet of the Restoration and delivering the Book of Mormon
+record to him.
 
 Joseph Smith's determination and perseverance is another good example. After
-reading [James 1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4),
-"If any of you lack wisdom, let him ask of God, that giveth to all men
-liberally, and upbraideth not; and it shall be given him," Joseph knew that he
-must do as James directed or remain in darkness and confusion. From the moment
-he knelt in prayer, he encountered enormous obstacles and opposition. First,
-an evil, unseen power seized him. Then, he wrote, "Just at this moment of
-great alarm, I saw a pillar of light exactly over my head, above the
-brightness of the sun. ...
+reading [James 1:5](/scriptures/nt/james/1.5?lang=eng#4), "If any of you lack
+wisdom, let him ask of God, that giveth to all men liberally, and upbraideth
+not; and it shall be given him," Joseph knew that he must do as James directed
+or remain in darkness and confusion. From the moment he knelt in prayer, he
+encountered enormous obstacles and opposition. First, an evil, unseen power
+seized him. Then, he wrote, "Just at this moment of great alarm, I saw a
+pillar of light exactly over my head, above the brightness of the sun. ...
 
 "It no sooner appeared than I found myself delivered from the enemy which held
 me bound. When the light rested upon me I saw two Personages, whose brightness
 and glory defy all description, standing above me. ... One of them spake unto
 me, calling me by name and said, pointing to the other--'This is My Beloved
-Son. Hear Him!'" ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15)).
+Son. Hear Him!'" ([JS--H 1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15)).
 
 This marvelous event, near the start of the Prophet's mortal ministry, proved
 to be a pattern in his life. He suffered ridicule, violent attack by his
@@ -151,55 +148,52 @@ Of course, the ultimate example of perseverance is our Lord and Savior, Jesus
 Christ, who has and will overcome every obstacle in doing the will of our
 Heavenly Father. Indeed, Jesus is perfect in perseverance and has taught us to
 be perfect even as he and his Father are perfect (see [3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47)). Studying
-his life can help us learn and live this important principle.
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47)). Studying his life can help
+us learn and live this important principle.
 
 From the time of the premortal council, in which Jesus became the Christ, the
 Messiah, the Savior of all mankind, through his millennial reign, he has and
 will persevere in perfection, doing all that his Father commanded. Because of
 his love for us, he offered to fulfill the plan of salvation with these words,
 "Father, thy will be done, and the glory be thine forever" ([Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1)). How different
-from Satan's response to the plan: "I will redeem all mankind, that one soul
-shall not be lost, and surely I will do it; ... give me thine honor" ([Moses
-4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0)). The conflict
-between the forces of good and the forces of evil persists in the world today
---with Jesus persevering in striving to save souls, and Satan striving to
-destroy them.
+4:2](/scriptures/pgp/moses/4.2?lang=eng#1)). How different from Satan's
+response to the plan: "I will redeem all mankind, that one soul shall not be
+lost, and surely I will do it; ... give me thine honor" ([Moses
+4:1](/scriptures/pgp/moses/4.1?lang=eng#0)). The conflict between the forces
+of good and the forces of evil persists in the world today--with Jesus
+persevering in striving to save souls, and Satan striving to destroy them.
 
 During his mortal ministry, as the Only Begotten of the Father in the flesh,
 Jesus again taught the gospel. At the beginning of this ministry, we see his
 perseverance in one of the most stirring dramas ever recorded. He completely
 overcame every temptation that the cunning of Satan could devise (see [Matt.
-4:1-11](https://www.lds.org/scriptures/nt/matt/4.1-11?lang=eng#0)). After
-Jesus had fasted forty days and forty nights, gathering miraculous inner
-strength, came a battle of opposing powers in the wilderness of Judea. First,
-Satan tempted Jesus by appealing to the basic appetite of hunger, asking him
-to transform stones into bread. Jesus held to his divine course and refused.
-Satan next tempted the Savior to cast himself down from a pinnacle of the
-temple, saying angels would protect him if he were the Son of God. Jesus
-refused this request to misuse his divine power, saying, "Thou shalt not tempt
-the Lord thy God" ([Matt.
-4:7](https://www.lds.org/scriptures/nt/matt/4.7?lang=eng#6)). Satan seldom
-gives up. He next appealed to a drive that causes the downfall of otherwise
-invulnerable individuals--the almost irresistible hunger to have great
-possessions. Satan showed all the kingdoms of the world and offered them to
-Jesus if he would worship him. Jesus commanded Satan to leave, saying, "Thou
-shalt worship the Lord thy God, and him only shalt thou serve" ([Matt.
-4:10](https://www.lds.org/scriptures/nt/matt/4.10?lang=eng#9)). This is the
-type of perseverance in the face of temptation that each of us can and must
-exercise if we are to avoid the misery of sin.
+4:1-11](/scriptures/nt/matt/4.1-11?lang=eng#0)). After Jesus had fasted forty
+days and forty nights, gathering miraculous inner strength, came a battle of
+opposing powers in the wilderness of Judea. First, Satan tempted Jesus by
+appealing to the basic appetite of hunger, asking him to transform stones into
+bread. Jesus held to his divine course and refused. Satan next tempted the
+Savior to cast himself down from a pinnacle of the temple, saying angels would
+protect him if he were the Son of God. Jesus refused this request to misuse
+his divine power, saying, "Thou shalt not tempt the Lord thy God" ([Matt.
+4:7](/scriptures/nt/matt/4.7?lang=eng#6)). Satan seldom gives up. He next
+appealed to a drive that causes the downfall of otherwise invulnerable
+individuals--the almost irresistible hunger to have great possessions. Satan
+showed all the kingdoms of the world and offered them to Jesus if he would
+worship him. Jesus commanded Satan to leave, saying, "Thou shalt worship the
+Lord thy God, and him only shalt thou serve" ([Matt.
+4:10](/scriptures/nt/matt/4.10?lang=eng#9)). This is the type of perseverance
+in the face of temptation that each of us can and must exercise if we are to
+avoid the misery of sin.
 
 Jesus persevered through the final days of his mortal life as the mood of the
 people changed from shouts of "Hosanna to the Son of David" ([Matt.
-21:9](https://www.lds.org/scriptures/nt/matt/21.9?lang=eng#8)) to cries of
-"Crucify him" ([Mark
-15:13](https://www.lds.org/scriptures/nt/mark/15.13?lang=eng#12)). He endured
-the indignities and physical abuse of his trials before Jewish and Roman
-leaders. Through his atonement and resurrection, he provided for all mankind
-both immortality and the possibility of eternal life. He paid the penalty for
-our sins if we will repent of them. How grateful I am for the effect upon me
-of his love and his perseverance!
+21:9](/scriptures/nt/matt/21.9?lang=eng#8)) to cries of "Crucify him" ([Mark
+15:13](/scriptures/nt/mark/15.13?lang=eng#12)). He endured the indignities and
+physical abuse of his trials before Jewish and Roman leaders. Through his
+atonement and resurrection, he provided for all mankind both immortality and
+the possibility of eternal life. He paid the penalty for our sins if we will
+repent of them. How grateful I am for the effect upon me of his love and his
+perseverance!
 
 Probably few of us will face opposition and obstacles like those encountered
 by the great ones I have mentioned. However, we each have our own challenges
@@ -215,4 +209,6 @@ of his divinity. The gospel has been restored in these latter days through the
 Prophet Joseph Smith. President Ezra Taft Benson is our prophet, seer, and
 revelator. May we follow his stirring address this morning. I bear this
 testimony humbly in the name of Jesus Christ, amen.
+
+## References
 

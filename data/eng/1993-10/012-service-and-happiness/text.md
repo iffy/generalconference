@@ -42,19 +42,13 @@ organization to which we all belong.
 Yes, I have maintained a cheerful disposition and I will gladly share with you
 some positive ideas:
 
-  * Learn to _love_ the calling that you have in the Church. You can learn to love it so much it becomes invigorating.
-
-  * Learn to be satisfied. It is just as easy as being dissatisfied--and much more pleasant.
-
-  * Learn to accept adversity. No matter who you are or where you serve, you are going to have some. But do not fear the winds of adversity. Remember, a kite rises against the wind, rather than with it!
-
-  * Get in the habit of saying _pleasant_ things rather than making negative remarks.
-
-  * Live the present moment to the hilt, and do not live in the past or in the future. Success is a journey, _not_ a destination.
-
-  * Live and honor the covenants that you made at the time of your baptism and in the temple.
-
-  * And when you have reached the age of seventy, you must resist the urge to straighten out everybody's affairs and admit occasionally that you might be mistaken.
+  * Learn to _love_ the calling that you have in the Church. You can learn to love it so much it becomes invigorating. 
+  * Learn to be satisfied. It is just as easy as being dissatisfied--and much more pleasant. 
+  * Learn to accept adversity. No matter who you are or where you serve, you are going to have some. But do not fear the winds of adversity. Remember, a kite rises against the wind, rather than with it! 
+  * Get in the habit of saying _pleasant_ things rather than making negative remarks. 
+  * Live the present moment to the hilt, and do not live in the past or in the future. Success is a journey, _not_ a destination. 
+  * Live and honor the covenants that you made at the time of your baptism and in the temple. 
+  * And when you have reached the age of seventy, you must resist the urge to straighten out everybody's affairs and admit occasionally that you might be mistaken. 
 
 Not long ago I had the privilege of attending a mission presidents' seminar in
 San Francisco with Elder David B. Haight of the Council of the Twelve. He
@@ -92,4 +86,6 @@ living God; and that every man who has succeeded him as President of the
 Church has been a living prophet, including President Ezra Taft Benson in our
 day and time. This is my personal, eternal testimony, in the name of Jesus
 Christ, amen.
+
+## References
 

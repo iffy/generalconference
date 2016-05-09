@@ -1,441 +1,370 @@
 items:
-- article_id: 10485_000_11monso
-  item: '002'
-  key: 002-as-we-gather-once-again
+- item: 1
+  key: 000-as-we-gather-once-again
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: as-we-gather-once-again
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: As We Gather Once Again
   url: https://www.lds.org/general-conference/2012/04/as-we-gather-once-again?lang=eng
   year: 2012
-- article_id: 10485_000_12packe
-  item: '004'
-  key: 004-and-a-little-child-shall-lead-them
+- item: 2
+  key: 001-and-a-little-child-shall-lead-them
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: and-a-little-child-shall-lead-them
-  speaker: "By President Boyd\_K. Packer"
+  speaker: Boyd K. Packer
   title: And a Little Child Shall Lead Them
   url: https://www.lds.org/general-conference/2012/04/and-a-little-child-shall-lead-them?lang=eng
   year: 2012
-- article_id: 10485_000_13espli
-  item: '005'
-  key: 005-teaching-our-children-to-understand
+- item: 3
+  key: 002-teaching-our-children-to-understand
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: teaching-our-children-to-understand
-  speaker: "By Cheryl\_A. Esplin"
+  speaker: Cheryl A. Esplin
   title: Teaching Our Children to Understand
   url: https://www.lds.org/general-conference/2012/04/teaching-our-children-to-understand?lang=eng
   year: 2012
-- article_id: 10485_000_14halls
-  item: '006'
-  key: 006-converted-to-his-gospel-through-his-church
+- item: 4
+  key: 003-converted-to-his-gospel-through-his-church
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: converted-to-his-gospel-through-his-church
-  speaker: "By Elder Donald\_L. Hallstrom"
+  speaker: Donald L. Hallstrom
   title: Converted to His Gospel through His Church
   url: https://www.lds.org/general-conference/2012/04/converted-to-his-gospel-through-his-church?lang=eng
   year: 2012
-- article_id: 10485_000_15koell
-  item: 008
-  key: 008-he-truly-loves-us
+- item: 5
+  key: 004-he-truly-loves-us
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: he-truly-loves-us
-  speaker: "By Elder Paul\_E. Koelliker"
+  speaker: Paul E. Koelliker
   title: He Truly Loves Us
   url: https://www.lds.org/general-conference/2012/04/he-truly-loves-us?lang=eng
   year: 2012
-- article_id: 10485_000_16oaksd
-  item: 009
-  key: 009-sacrifice
+- item: 6
+  key: 005-sacrifice
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: sacrifice
-  speaker: "By Elder Dallin\_H. Oaks"
+  speaker: Dallin H. Oaks
   title: Sacrifice
   url: https://www.lds.org/general-conference/2012/04/sacrifice?lang=eng
   year: 2012
-- article_id: 10485_000_17eyrin
-  item: '011'
-  key: 011-mountains-to-climb
+- item: 7
+  key: 006-mountains-to-climb
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: mountains-to-climb
-  speaker: "By President Henry\_B. Eyring"
+  speaker: Henry B. Eyring
   title: Mountains to Climb
   url: https://www.lds.org/general-conference/2012/04/mountains-to-climb?lang=eng
   year: 2012
-- article_id: 10485_000_21susta
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 8
+  key: 007-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
-  speaker: "Presented by President Dieter\_F. Uchtdorf"
+  speaker: Dieter F. Uchtdorf
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2012/04/the-sustaining-of-church-officers?lang=eng
   year: 2012
-- article_id: 10485_000_22audit
-  item: '015'
-  key: 015-church-auditing-department-report-2011
+- item: 9
+  key: 008-church-auditing-department-report-2011
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: church-auditing-department-report-2011
-  speaker: "Presented by Robert\_W. Cantwell"
+  speaker: Robert W. Cantwell
   title: Church Auditing Department Report, 2011
   url: https://www.lds.org/general-conference/2012/04/church-auditing-department-report-2011?lang=eng
   year: 2012
-- article_id: 10485_000_23stati
-  item: '016'
-  key: 016-statistical-report-2011
+- item: 10
+  key: 009-statistical-report-2011
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-2011
-  speaker: "Presented by Brook\_P. Hales"
+  speaker: Brook P. Hales
   title: Statistical Report, 2011
   url: https://www.lds.org/general-conference/2012/04/statistical-report-2011?lang=eng
   year: 2012
-- article_id: 10485_000_24holla
-  item: '017'
-  key: 017-the-laborers-in-the-vineyard
+- item: 11
+  key: 010-the-laborers-in-the-vineyard
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-laborers-in-the-vineyard
-  speaker: "By Elder Jeffrey\_R. Holland"
+  speaker: Jeffrey R. Holland
   title: The Laborers in the Vineyard
   url: https://www.lds.org/general-conference/2012/04/the-laborers-in-the-vineyard?lang=eng
   year: 2012
-- article_id: 10485_000_25hales
-  item: 019
-  key: 019-coming-to-ourselves-the-sacrament-the-temple-and-sacrifice-in-service
+- item: 12
+  key: 011-coming-to-ourselves-the-sacrament-the-temple-and-sacrifice-in-service
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: coming-to-ourselves-the-sacrament-the-temple-and-sacrifice-in-service
-  speaker: "By Elder Robert\_D. Hales"
+  speaker: Robert D. Hales
   title: 'Coming to Ourselves: The Sacrament, the Temple, and Sacrifice in Service'
   url: https://www.lds.org/general-conference/2012/04/coming-to-ourselves-the-sacrament-the-temple-and-sacrifice-in-service?lang=eng
   year: 2012
-- article_id: 10485_000_27baxte
-  item: '021'
-  key: 021-faith-fortitude-fulfillment-a-message-to-single-parents
+- item: 13
+  key: 012-faith-fortitude-fulfillment-a-message-to-single-parents
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: faith-fortitude-fulfillment-a-message-to-single-parents
-  speaker: "By Elder David\_S. Baxter"
+  speaker: David S. Baxter
   title: 'Faith, Fortitude, Fulfillment: A Message to Single Parents'
   url: https://www.lds.org/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents?lang=eng
   year: 2012
-- article_id: 10485_000_26soare
-  item: '022'
-  key: 022-abide-in-the-lords-territory
+- item: 14
+  key: 013-abide-in-the-lords-territory
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: abide-in-the-lords-territory
-  speaker: By Elder Ulisses Soares
-  title: "Abide in the Lord\u2019s Territory!"
+  speaker: Ulisses Soares
+  title: Abide in the Lord's Territory!
   url: https://www.lds.org/general-conference/2012/04/abide-in-the-lords-territory?lang=eng
   year: 2012
-- article_id: 10485_000_28cookq
-  item: '023'
-  key: 023-in-tune-with-the-music-of-faith
+- item: 15
+  key: 014-in-tune-with-the-music-of-faith
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: in-tune-with-the-music-of-faith
-  speaker: "By Elder Quentin\_L. Cook"
+  speaker: Quentin L. Cook
   title: In Tune with the Music of Faith
   url: https://www.lds.org/general-conference/2012/04/in-tune-with-the-music-of-faith?lang=eng
   year: 2012
-- article_id: 10485_000_29scott
-  item: '024'
-  key: 024-how-to-obtain-revelation-and-inspiration-for-your-personal-life
+- item: 16
+  key: 015-how-to-obtain-revelation-and-inspiration-for-your-personal-life
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: how-to-obtain-revelation-and-inspiration-for-your-personal-life
-  speaker: "By Elder Richard\_G. Scott"
+  speaker: Richard G. Scott
   title: How to Obtain Revelation and Inspiration for Your Personal Life
   url: https://www.lds.org/general-conference/2012/04/how-to-obtain-revelation-and-inspiration-for-your-personal-life?lang=eng
   year: 2012
-- article_id: 10485_000_31bedna
-  item: 028
-  key: 028-the-powers-of-heaven
+- item: 17
+  key: 016-the-powers-of-heaven
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-powers-of-heaven
-  speaker: "By Elder David\_A. Bednar"
+  speaker: David A. Bednar
   title: The Powers of Heaven
   url: https://www.lds.org/general-conference/2012/04/the-powers-of-heaven?lang=eng
   year: 2012
-- article_id: 10485_000_32edgle
-  item: 029
-  key: 029-the-rescue-for-real-growth
+- item: 18
+  key: 017-the-rescue-for-real-growth
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-rescue-for-real-growth
-  speaker: "By Bishop Richard\_C. Edgley"
+  speaker: Richard C. Edgley
   title: The Rescue for Real Growth
   url: https://www.lds.org/general-conference/2012/04/the-rescue-for-real-growth?lang=eng
   year: 2012
-- article_id: 10485_000_33ochoa
-  item: '030'
-  key: 030-aaronic-priesthood-arise-and-use-the-power-of-god
+- item: 19
+  key: 018-aaronic-priesthood-arise-and-use-the-power-of-god
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: aaronic-priesthood-arise-and-use-the-power-of-god
-  speaker: "By Adri\xE1n Ochoa"
+  speaker: "Adri\xE1n Ochoa"
   title: 'Aaronic Priesthood: Arise and Use the Power of God'
   url: https://www.lds.org/general-conference/2012/04/aaronic-priesthood-arise-and-use-the-power-of-god?lang=eng
   year: 2012
-- article_id: 10485_000_34uchtd
-  item: '032'
-  key: 032-the-why-of-priesthood-service
+- item: 20
+  key: 019-the-why-of-priesthood-service
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-why-of-priesthood-service
-  speaker: "By President Dieter\_F. Uchtdorf"
+  speaker: Dieter F. Uchtdorf
   title: The Why of Priesthood Service
   url: https://www.lds.org/general-conference/2012/04/the-why-of-priesthood-service?lang=eng
   year: 2012
-- article_id: 10485_000_35eyrin
-  item: '033'
-  key: 033-families-under-covenant
+- item: 21
+  key: 020-families-under-covenant
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: families-under-covenant
-  speaker: "By President Henry\_B. Eyring"
+  speaker: Henry B. Eyring
   title: Families under Covenant
   url: https://www.lds.org/general-conference/2012/04/families-under-covenant?lang=eng
   year: 2012
-- article_id: 10485_000_36monso
-  item: '034'
-  key: 034-willing-and-worthy-to-serve
+- item: 22
+  key: 021-willing-and-worthy-to-serve
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: willing-and-worthy-to-serve
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: Willing and Worthy to Serve
   url: https://www.lds.org/general-conference/2012/04/willing-and-worthy-to-serve?lang=eng
   year: 2012
-- article_id: 10485_000_41uchtd
-  item: 039
-  key: 039-the-merciful-obtain-mercy
+- item: 23
+  key: 022-the-merciful-obtain-mercy
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-merciful-obtain-mercy
-  speaker: "By President Dieter\_F. Uchtdorf"
+  speaker: Dieter F. Uchtdorf
   title: The Merciful Obtain Mercy
   url: https://www.lds.org/general-conference/2012/04/the-merciful-obtain-mercy?lang=eng
   year: 2012
-- article_id: 10485_000_42nelso
-  item: '040'
-  key: 040-thanks-be-to-god
+- item: 24
+  key: 023-thanks-be-to-god
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: thanks-be-to-god
-  speaker: "By Elder Russell\_M. Nelson"
+  speaker: Russell M. Nelson
   title: Thanks Be to God
   url: https://www.lds.org/general-conference/2012/04/thanks-be-to-god?lang=eng
   year: 2012
-- article_id: 10485_000_43rasba
-  item: '041'
-  key: 041-special-lessons
+- item: 25
+  key: 024-special-lessons
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: special-lessons
-  speaker: "By Elder Ronald\_A. Rasband"
+  speaker: Ronald A. Rasband
   title: Special Lessons
   url: https://www.lds.org/general-conference/2012/04/special-lessons?lang=eng
   year: 2012
-- article_id: 10485_000_44beckj
-  item: '043'
-  key: 043-the-vision-of-prophets-regarding-relief-society-faith-family-relief
+- item: 26
+  key: 025-the-vision-of-prophets-regarding-relief-society-faith-family-relief
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-vision-of-prophets-regarding-relief-society-faith-family-relief
-  speaker: "By Julie\_B. Beck"
+  speaker: Julie B. Beck
   title: 'The Vision of Prophets regarding Relief Society: Faith, Family, Relief'
   url: https://www.lds.org/general-conference/2012/04/the-vision-of-prophets-regarding-relief-society-faith-family-relief?lang=eng
   year: 2012
-- article_id: 10485_000_45chris
-  item: '044'
-  key: 044-the-doctrine-of-christ
+- item: 27
+  key: 026-the-doctrine-of-christ
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-doctrine-of-christ
-  speaker: "By Elder D.\_Todd Christofferson"
+  speaker: D. Todd Christofferson
   title: The Doctrine of Christ
   url: https://www.lds.org/general-conference/2012/04/the-doctrine-of-christ?lang=eng
   year: 2012
-- article_id: 10485_000_46monso
-  item: '046'
-  key: 046-the-race-of-life
+- item: 28
+  key: 027-the-race-of-life
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-race-of-life
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: The Race of Life
   url: https://www.lds.org/general-conference/2012/04/the-race-of-life?lang=eng
   year: 2012
-- article_id: 10485_000_51perry
-  item: '050'
-  key: 050-the-power-of-deliverance
+- item: 29
+  key: 028-the-power-of-deliverance
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-power-of-deliverance
-  speaker: "By Elder L.\_Tom Perry"
+  speaker: L. Tom Perry
   title: The Power of Deliverance
   url: https://www.lds.org/general-conference/2012/04/the-power-of-deliverance?lang=eng
   year: 2012
-- article_id: 10485_000_52balla
-  item: '051'
-  key: 051-that-the-lost-may-be-found
+- item: 30
+  key: 029-that-the-lost-may-be-found
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: that-the-lost-may-be-found
-  speaker: "By Elder M.\_Russell Ballard"
+  speaker: M. Russell Ballard
   title: That the Lost May Be Found
   url: https://www.lds.org/general-conference/2012/04/that-the-lost-may-be-found?lang=eng
   year: 2012
-- article_id: 10485_000_53halec
-  item: '052'
-  key: 052-having-the-vision-to-do
+- item: 31
+  key: 030-having-the-vision-to-do
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: having-the-vision-to-do
-  speaker: "By Elder O.\_Vincent Haleck"
+  speaker: O. Vincent Haleck
   title: Having the Vision to Do
   url: https://www.lds.org/general-conference/2012/04/having-the-vision-to-do?lang=eng
   year: 2012
-- article_id: 10485_000_54wilso
-  item: '054'
-  key: 054-only-upon-the-principles-of-righteousness
+- item: 32
+  key: 031-only-upon-the-principles-of-righteousness
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: only-upon-the-principles-of-righteousness
-  speaker: "By Elder Larry\_Y. Wilson"
+  speaker: Larry Y. Wilson
   title: Only upon the Principles of Righteousness
   url: https://www.lds.org/general-conference/2012/04/only-upon-the-principles-of-righteousness?lang=eng
   year: 2012
-- article_id: 10485_000_55evans
-  item: '055'
-  key: 055-was-it-worth-it
+- item: 33
+  key: 032-was-it-worth-it
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: was-it-worth-it
-  speaker: "By Elder David\_F. Evans"
+  speaker: David F. Evans
   title: Was It Worth It?
   url: https://www.lds.org/general-conference/2012/04/was-it-worth-it?lang=eng
   year: 2012
-- article_id: 10485_000_56piepe
-  item: '056'
-  key: 056-to-hold-sacred
+- item: 34
+  key: 033-to-hold-sacred
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: to-hold-sacred
-  speaker: "By Elder Paul\_B. Pieper"
+  speaker: Paul B. Pieper
   title: To Hold Sacred
   url: https://www.lds.org/general-conference/2012/04/to-hold-sacred?lang=eng
   year: 2012
-- article_id: 10485_000_57ander
-  item: '057'
-  key: 057-what-thinks-christ-of-me
+- item: 35
+  key: 034-what-thinks-christ-of-me
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: what-thinks-christ-of-me
-  speaker: "By Elder Neil\_L. Andersen"
+  speaker: Neil L. Andersen
   title: What Thinks Christ of Me?
   url: https://www.lds.org/general-conference/2012/04/what-thinks-christ-of-me?lang=eng
   year: 2012
-- article_id: 10485_000_58monso
-  item: 058
-  key: 058-as-we-close-this-conference
+- item: 36
+  key: 035-as-we-close-this-conference
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: as-we-close-this-conference
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: As We Close This Conference
   url: https://www.lds.org/general-conference/2012/04/as-we-close-this-conference?lang=eng
   year: 2012
-- article_id: 10485_000_61dibba
-  item: '062'
-  key: 062-arise-and-shine-forth
+- item: 37
+  key: 036-arise-and-shine-forth
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: arise-and-shine-forth
-  speaker: "By Ann\_M. Dibb"
+  speaker: Ann M. Dibb
   title: Arise and Shine Forth
   url: https://www.lds.org/general-conference/2012/04/arise-and-shine-forth?lang=eng
   year: 2012
-- article_id: 10485_000_62cookm
-  item: '063'
-  key: 063-seek-learning-you-have-a-work-to-do
+- item: 38
+  key: 037-seek-learning-you-have-a-work-to-do
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: seek-learning-you-have-a-work-to-do
-  speaker: "By Mary\_N. Cook"
+  speaker: Mary N. Cook
   title: 'Seek Learning: You Have a Work to Do'
   url: https://www.lds.org/general-conference/2012/04/seek-learning-you-have-a-work-to-do?lang=eng
   year: 2012
-- article_id: 10485_000_63dalto
-  item: '065'
-  key: 065-now-is-the-time-to-arise-and-shine
+- item: 39
+  key: 038-1520978635001
   month: 4
-  session_id: young-women
+  session_title: General Young Women Meeting
+  slug: '1520978635001'
+  speaker: The Church of Jesus Christ of Latter-day Saints
+  title: Arise to the Mountain
+  url: https://www.lds.org/general-conference/2012/04/media/session_6_talk_5/1520978635001?lang=eng
+  year: 2012
+- item: 40
+  key: 039-now-is-the-time-to-arise-and-shine
+  month: 4
   session_title: General Young Women Meeting
   slug: now-is-the-time-to-arise-and-shine
-  speaker: "By Elaine\_S. Dalton"
+  speaker: Elaine S. Dalton
   title: Now Is the Time to Arise and Shine!
   url: https://www.lds.org/general-conference/2012/04/now-is-the-time-to-arise-and-shine?lang=eng
   year: 2012
-- article_id: 10485_000_64monso
-  item: '067'
-  key: 067-believe-obey-and-endure
+- item: 41
+  key: 040-believe-obey-and-endure
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: believe-obey-and-endure
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: Believe, Obey, and Endure
   url: https://www.lds.org/general-conference/2012/04/believe-obey-and-endure?lang=eng
   year: 2012

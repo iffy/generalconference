@@ -9,7 +9,7 @@ However, a look at the causes of the difficulties proves that they are man-
 made and that solutions are within man's ability to accomplish.
 
 The Lord has given us the comforting assurance that "if ye are prepared ye
-shall not fear." ([D&amp;C 38:30](https://www.lds.org/scriptures/dc-
+shall not fear." ([D&amp;C 38:30](/scriptures/dc-
 testament/dc/38.30?lang=eng#29).) The gospel of Jesus Christ teaches hope and
 opportunity. To find the happiness we are seeking and rid ourselves of fear,
 we must be prepared to follow the system and order the Lord has established
@@ -35,8 +35,7 @@ aspire to the honors of men, that they do not learn this one lesson--
 
 "That the rights of the priesthood are inseparably connected with the powers
 of heaven, and that the powers of heaven cannot be controlled nor handled only
-upon the principles of righteousness." ([D&amp;C
-121:33-36](https://www.lds.org/scriptures/dc-
+upon the principles of righteousness." ([D&amp;C 121:33-36](/scriptures/dc-
 testament/dc/121.33-36?lang=eng#32).)
 
 If man is limited in his growth and perfection by his ability to use his
@@ -60,8 +59,8 @@ _First, a class._ In the Doctrine and Covenants we read,
 
 "And as all have not faith, seek ye diligently and teach one another words of
 wisdom; yea, seek ye out of the best books words of wisdom; seek learning,
-even by study and also by faith." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
+even by study and also by faith." ([D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117).)
 
 The quorum meetings have been designed for the purpose of teaching us the law
 of the Lord. Fundamental in this teaching is instruction in our duties as
@@ -157,9 +156,8 @@ Let us build a bond of brotherhood for each member of our quorum.
 
 _Third, the quorum is a service unit._ "When thou art converted, strengthen
 thy brethren" was the counsel of the Savior to Peter. ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).) The
-obligation of membership in our Father in Heaven's kingdom is to be of service
-to His children.
+22:32](/scriptures/nt/luke/22.32?lang=eng#31).) The obligation of membership
+in our Father in Heaven's kingdom is to be of service to His children.
 
 President Joseph F. Smith once told of an instance he remembered from his
 boyhood. He said that when he was very young he was attending a party in the
@@ -188,8 +186,7 @@ ever hope to realize the full import and vitality of this endowment. It is an
 instrument of service. Its uses and purposes are all defined in terms of
 service and the man who fails to use it is apt to lose it, for we are plainly
 told by revelation that he who neglects it 'shall not be counted worthy to
-stand.' [[D&amp;C 107:100](https://www.lds.org/scriptures/dc-
-testament/dc/107.100?lang=eng#99).]"
+stand.' [[D&amp;C 107:100](/scriptures/dc-testament/dc/107.100?lang=eng#99).]"
 
 Elder Richards continues:
 
@@ -227,4 +224,6 @@ communities in which they are organized?
 May we be quickened in our hearts this night with a firm resolve that high on
 the priority list during the months ahead will be the strengthening of our
 priesthood quorums, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

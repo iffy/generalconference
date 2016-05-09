@@ -62,9 +62,9 @@ train, he met one of your missionary sons.
 
 It reminds me that the Savior said, "I am the good shepherd, and know my
 sheep, and are known of mine" ([John
-10:14](https://www.lds.org/scriptures/nt/john/10.14?lang=eng#13)). "My sheep
-hear my voice, and I know them, and they follow me" ([John
-10:27](https://www.lds.org/scriptures/nt/john/10.27?lang=eng#26)).
+10:14](/scriptures/nt/john/10.14?lang=eng#13)). "My sheep hear my voice, and I
+know them, and they follow me" ([John
+10:27](/scriptures/nt/john/10.27?lang=eng#26)).
 
 Cottage meetings began immediately. In them, Mr. Sugiyama learned that the
 gospel is true, that Jesus Christ is our Savior, Joseph Smith was a prophet of
@@ -83,15 +83,14 @@ never expected him to come to church. But Brother Sugiyama felt the pure love
 of God from the missionaries and members and felt himself drawn to it.
 
 The Savior said, "A new commandment I give unto you, That ye love one another;
-as I have loved you" ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33)).
+as I have loved you" ([John 13:34](/scriptures/nt/john/13.34?lang=eng#33)).
 
 Shortly afterward, Brother Sugiyama followed the Lord's commandment by
 becoming baptized.
 
 The Lord said: "Except a man be born of water and of the Spirit, he cannot
 enter into the kingdom of God" ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4)).
+3:5](/scriptures/nt/john/3.5?lang=eng#4)).
 
 The morning following his baptism, he woke up bright and early. He stretched
 his legs out in preparation to roll over as usual. But this time, brothers and
@@ -102,7 +101,7 @@ morning! He found that his body had been made whole.
 
 Said the Savior to a similar one who had been healed by faith, "Thy faith hath
 made thee whole; go in peace" ([Mark
-5:34](https://www.lds.org/scriptures/nt/mark/5.34?lang=eng#33)).
+5:34](/scriptures/nt/mark/5.34?lang=eng#33)).
 
 Brother Sugiyama said, "Love hath made me whole, and I will go in peace in the
 Lord's way." Brothers and sisters, miracles are not the only evidences of the
@@ -114,11 +113,10 @@ Love precedes the miracle. Love is a process; it is not a program. The love of
 Christ can overcome any of the worries of our lives and heal any human
 affliction. To all my friends wherever they may be, let us come unto Jesus and
 "be born of water and of the Spirit" ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4)). For as the Lord
-said, "Whosoever believeth on my words, them will I visit with the
-manifestation of my Spirit; and they shall be born of me, even of water and of
-the Spirit" ([D&amp;C 5:16](https://www.lds.org/scriptures/dc-
-testament/dc/5.16?lang=eng#15)).
+3:5](/scriptures/nt/john/3.5?lang=eng#4)). For as the Lord said, "Whosoever
+believeth on my words, them will I visit with the manifestation of my Spirit;
+and they shall be born of me, even of water and of the Spirit" ([D&amp;C
+5:16](/scriptures/dc-testament/dc/5.16?lang=eng#15)).
 
 Oh, how I appreciate my own missionaries who taught me the most glorious
 message that we can hear. Elder Law and Elder Porter, I thank you. Oh, how
@@ -127,21 +125,22 @@ send great missionaries from every nation as our prophet has asked us to do.
 And may we members of this true Church have enough courage to stand before the
 world to share this great message of the everlasting gospel, the restored
 gospel of Jesus Christ, with "every nation, kindred, tongue, and people"
-([D&amp;C 77:8](https://www.lds.org/scriptures/dc-
-testament/dc/77.8?lang=eng#7)). Brothers and sisters, we must be "the light of
-the world" ([Matt.
-5:14](https://www.lds.org/scriptures/nt/matt/5.14?lang=eng#13)). There,
-someone is waiting for you.
+([D&amp;C 77:8](/scriptures/dc-testament/dc/77.8?lang=eng#7)). Brothers and
+sisters, we must be "the light of the world" ([Matt.
+5:14](/scriptures/nt/matt/5.14?lang=eng#13)). There, someone is waiting for
+you.
 
 I bear you my testimony of the divinity of this gospel. I know that God lives
 and that Jesus Christ is the Savior of the whole world. There is no other name
 under heaven whereby we might be saved (see [Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11)). Only through
-Jesus of Nazareth can we be saved.
+4:12](/scriptures/nt/acts/4.12?lang=eng#11)). Only through Jesus of Nazareth
+can we be saved.
 
 I know that Joseph Smith was a prophet of God and that the Book of Mormon
 contains the true word of God. This Church is true. I know that President
 Spencer W. Kimball--a modern Job--is a living prophet of God today. I love him
 with all my heart and sustain him with all my soul. In the name of our Savior,
 Jesus Christ, amen.
+
+## References
 

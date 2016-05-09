@@ -54,7 +54,7 @@ among the thieves?
 
 "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and
 do thou likewise." ([Luke
-10:25-37](https://www.lds.org/scriptures/nt/luke/10.25-37?lang=eng#24).)
+10:25-37](/scriptures/nt/luke/10.25-37?lang=eng#24).)
 
 Each of us, in the journey through mortality, will travel his own Jericho
 Road. What will be your experience? What will be mine? Will I fail to notice
@@ -79,15 +79,14 @@ of Jairus; Lazarus, brother of Mary and Martha--each represented a casualty on
 the Jericho Road. Each needed help.
 
 To the cripple at Bethesda, Jesus said, "Rise, take up thy bed, and walk."
-([John 5:8](https://www.lds.org/scriptures/nt/john/5.8?lang=eng#7).) To the
-sinful woman came the counsel, "Go, and sin no more." ([John
-8:11](https://www.lds.org/scriptures/nt/john/8.11?lang=eng#10).) To her who
-came to draw water, He provided a well of water springing up into everlasting
-life. To the dead daughter of Jairus came the command, "Damsel, I say unto
-thee, arise." ([Mark
-5:41](https://www.lds.org/scriptures/nt/mark/5.41?lang=eng#40).) To the
-entombed Lazarus, the memorable words, "Lazarus, come forth." ([John
-11:43](https://www.lds.org/scriptures/nt/john/11.43?lang=eng#42).)
+([John 5:8](/scriptures/nt/john/5.8?lang=eng#7).) To the sinful woman came the
+counsel, "Go, and sin no more." ([John
+8:11](/scriptures/nt/john/8.11?lang=eng#10).) To her who came to draw water,
+He provided a well of water springing up into everlasting life. To the dead
+daughter of Jairus came the command, "Damsel, I say unto thee, arise." ([Mark
+5:41](/scriptures/nt/mark/5.41?lang=eng#40).) To the entombed Lazarus, the
+memorable words, "Lazarus, come forth." ([John
+11:43](/scriptures/nt/john/11.43?lang=eng#42).)
 
 One may well ask the penetrating question, "These accounts pertained to the
 Redeemer of the world. Can there actually occur in my own life, on my Jericho
@@ -240,4 +239,6 @@ voice which ever so gently beckons, "Come, follow me. This way to Jericho."
 
 May each of us follow Him along that Jericho Road, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

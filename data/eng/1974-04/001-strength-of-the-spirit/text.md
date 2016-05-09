@@ -16,7 +16,7 @@ conscientiously reflect upon their spiritual assets. Man is a dual being,
 spiritual and physical. Whether it be an individual or a nation, he or it
 cannot achieve permanent success or happiness without spirituality. Paul said:
 "For to be carnally minded is death; but to be spiritually minded is life and
-peace." ([Rom. 8:6](https://www.lds.org/scriptures/nt/rom/8.6?lang=eng#5).)
+peace." ([Rom. 8:6](/scriptures/nt/rom/8.6?lang=eng#5).)
 
 There is a constant battle between the things of the flesh and the things of
 God--the desire for peace and the attractions of the flesh. It is also a well-
@@ -58,7 +58,7 @@ shall in no wise pass from the law, till all be fulfilled.
 teach men so, he shall be called the least in the kingdom of heaven: but
 whosoever shall do and teach them, the same shall be called great in the
 kingdom of heaven." ([Matt.
-5:18-19](https://www.lds.org/scriptures/nt/matt/5.18-19?lang=eng#17).)
+5:18-19](/scriptures/nt/matt/5.18-19?lang=eng#17).)
 
 In our own modern scriptures, we read:
 
@@ -66,14 +66,13 @@ In our own modern scriptures, we read:
 kills shall not have forgiveness in this world, nor in the world to come.
 
 "Thou shalt not steal; and he that stealeth and will not repent shall be cast
-out." ([D&amp;C 42:18, 20](https://www.lds.org/scriptures/dc-
-testament/dc/42.18%2C20?lang=eng#17).)
+out." ([D&amp;C 42:18, 20](/scriptures/dc-testament/dc/42.18,20?lang=eng#17).)
 
 And again:
 
 "Thou shalt love thy neighbor as thyself. Thou shalt not steal; neither commit
-adultery, nor kill, nor do anything like unto it." ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).)
+adultery, nor kill, nor do anything like unto it." ([D&amp;C 59:6](/scriptures
+/dc-testament/dc/59.6?lang=eng#5).)
 
 We are living in a time of unrest, or fear, in many respects. Men with money
 are in doubt as to how they should invest it so that it may be safe. Parents
@@ -92,7 +91,7 @@ coming of the Son of man be ...
 
 "Therefore be ye also ready: for in such an hour as ye think not the Son of
 man cometh." ([Matt. 24:37-39,
-44](https://www.lds.org/scriptures/nt/matt/24.37-39%2C44?lang=eng#36).)
+44](/scriptures/nt/matt/24.37-39,44?lang=eng#36).)
 
 We cannot expect permanent peace, nor will it come until such time as the
 hearts of men are turned to peace, and men will not have peace in their hearts
@@ -130,8 +129,7 @@ succumbing to the wiles of the adversary and indulging in unrighteous
 behavior, by yielding to evil passions and destructive appetites, by failure
 to give heed to the revealed will of the Lord, one cannot enjoy the peace of
 which the Lord spoke when he said: "Peace I leave with you, my peace I give
-unto you. ..." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+unto you. ..." ([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 The commandments which have been given by the Lord to his prophets in this
 dispensation pertain to eternal truth and set forth the mind and will of the
@@ -202,4 +200,6 @@ Again may I say it is of the utmost importance that people everywhere reflect
 upon their spiritual assets and spiritual strength, thus preparing themselves
 for eternal life in the kingdom of our Heavenly Father. That we may do this I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

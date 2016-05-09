@@ -52,53 +52,50 @@ ultimately enter into her glory and be equal to any of her four sisters who
 have tarried here upon this earth and raised their families. I thank God for
 the statement of the apostle Paul when he said that "If in this life only we
 have hope in Christ, we are of all men most miserable." ([1 Cor.
-15:19](https://www.lds.org/scriptures/nt/1-cor/15.19?lang=eng#18).) In this
-brief period of mortality, it would not be possible for God to accomplish for
-all of his children all that he has in mind for them, the ones that are true
-and faithful.
+15:19](/scriptures/nt/1-cor/15.19?lang=eng#18).) In this brief period of
+mortality, it would not be possible for God to accomplish for all of his
+children all that he has in mind for them, the ones that are true and
+faithful.
 
 I think of the statement of Moses as recorded in the Pearl of Great Price:
 "For behold, this is my work and my glory--to bring to pass the immortality
 and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) I wonder
-sometimes if we ever stop to analyze that statement. I think we can understand
-what "to bring to pass immortality" is, that we will never die after we come
-forth in the resurrection, as President Romney pointed out this morning. But
-what about eternal life? As I interpret this, I find in it the feeling that
-all that God has ultimately planned for his children who are faithful and true
-shall come to them in his own due time.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) I wonder sometimes if we ever
+stop to analyze that statement. I think we can understand what "to bring to
+pass immortality" is, that we will never die after we come forth in the
+resurrection, as President Romney pointed out this morning. But what about
+eternal life? As I interpret this, I find in it the feeling that all that God
+has ultimately planned for his children who are faithful and true shall come
+to them in his own due time.
 
 We read in the Book of Mormon that we are not all born at the same time (and
 that doesn't matter) and that we don't all die at the same time. (See [Alma
-40:8](https://www.lds.org/scriptures/bofm/alma/40.8?lang=eng#7).) I think of
-the words of Abraham when he saw the placing of the spirits here upon this
-earth, that the Lord would prove them to see if they would do all things
-whatsoever he had commanded them. Then he adds: "And they who keep their first
-estate shall be added upon." ([Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25).) That was in
+40:8](/scriptures/bofm/alma/40.8?lang=eng#7).) I think of the words of Abraham
+when he saw the placing of the spirits here upon this earth, that the Lord
+would prove them to see if they would do all things whatsoever he had
+commanded them. Then he adds: "And they who keep their first estate shall be
+added upon." ([Abr. 3:26](/scriptures/pgp/abr/3.26?lang=eng#25).) That was in
 the spirit life before we came to mortality. "They who keep their second
 estate shall have glory added upon their heads for ever and ever." ([Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25).) This little
-girl of ours kept her second estate as far as she could at her age.
+3:26](/scriptures/pgp/abr/3.26?lang=eng#25).) This little girl of ours kept
+her second estate as far as she could at her age.
 
 Then I think of the statement of the Lord to the Prophet Joseph Smith when he
 said: "The works, and the designs, and the purposes of God cannot be
-frustrated, neither can they come to naught." ([D&amp;C
-3:1](https://www.lds.org/scriptures/dc-testament/dc/3.1?lang=eng#0).) In other
-words, no one can stand in the way of God achieving what he has decreed for
-his children. Then a further statement in the Doctrine &amp; Covenants where
-the Lord said: "His purposes fail not, neither are there any who can stay his
-hand. From eternity to eternity he is the same." ([D&amp;C
-76:3-4](https://www.lds.org/scriptures/dc-testament/dc/76.3-4?lang=eng#2).)
+frustrated, neither can they come to naught." ([D&amp;C 3:1](/scriptures/dc-
+testament/dc/3.1?lang=eng#0).) In other words, no one can stand in the way of
+God achieving what he has decreed for his children. Then a further statement
+in the Doctrine &amp; Covenants where the Lord said: "His purposes fail not,
+neither are there any who can stay his hand. From eternity to eternity he is
+the same." ([D&amp;C 76:3-4](/scriptures/dc-testament/dc/76.3-4?lang=eng#2).)
 
 Then there are the words of the Lord to the prophet Nephi when he said: "For
 my work is not yet finished; neither shall it be until the end of man, neither
 from that time henceforth and forever." ([2 Ne.
-29:9](https://www.lds.org/scriptures/bofm/2-ne/29.9?lang=eng#8).) Now that
-should enable us to comprehend and realize that there will never be a time
-when God will cease to do his work to bring to pass, as we read in the Pearl
-of Great Price, the glory that will be added upon their heads forever and
-ever.
+29:9](/scriptures/bofm/2-ne/29.9?lang=eng#8).) Now that should enable us to
+comprehend and realize that there will never be a time when God will cease to
+do his work to bring to pass, as we read in the Pearl of Great Price, the
+glory that will be added upon their heads forever and ever.
 
 Coming back to our family, we had four daughters before we got a boy and he
 grew into beautiful young manhood; we lost him in an accident down at the
@@ -126,7 +123,7 @@ counteth the cost, whether he have sufficient to finish it?
 
 "Lest haply, after he hath laid the foundation, and is not able to finish it,
 all that behold it begin to mock him." ([Luke
-14:28-29](https://www.lds.org/scriptures/nt/luke/14.28-29?lang=eng#27).)
+14:28-29](/scriptures/nt/luke/14.28-29?lang=eng#27).)
 
 If God started to bring to pass the immortality and eternal life of man and
 did not provide an opportunity to complete the program, he would be like the
@@ -138,7 +135,7 @@ auxiliaries and she was a noble character. But she never married, and I can't
 believe that the Lord's plan is imperfect, that she will not ultimately enjoy
 all that her sister (my wife) with our wonderful family has enjoyed. "His
 purposes fail not, neither are there any who can stay his hand." ([D&amp;C
-76:3](https://www.lds.org/scriptures/dc-testament/dc/76.3?lang=eng#2).)
+76:3](/scriptures/dc-testament/dc/76.3?lang=eng#2).)
 
 So I thank God for the thousand years of the millennial reign. My, what a lot
 of work needs to be done during that period! I can't take time to tell you
@@ -149,18 +146,17 @@ ox. His people should build houses and inhabit them, and should plant
 vineyards and eat the fruit thereof. They should not build and another
 inhabit. They should not plant and another eat, for every man would enjoy the
 work of his own hands. (See [Isa.
-65:17-25](https://www.lds.org/scriptures/ot/isa/65.17-25?lang=eng#16) and
-[Isa. 11:6-9](https://www.lds.org/scriptures/ot/isa/11.6-9?lang=eng#5).) Then
-he adds: "For they are the seed of the blessed of the Lord, and their
-offspring with them." ([Isa.
-65:23](https://www.lds.org/scriptures/ot/isa/65.23?lang=eng#22).) That sounds
-like a continuation of the family, doesn't it?
+65:17-25](/scriptures/ot/isa/65.17-25?lang=eng#16) and [Isa.
+11:6-9](/scriptures/ot/isa/11.6-9?lang=eng#5).) Then he adds: "For they are
+the seed of the blessed of the Lord, and their offspring with them." ([Isa.
+65:23](/scriptures/ot/isa/65.23?lang=eng#22).) That sounds like a continuation
+of the family, doesn't it?
 
 Then I thank God for the statement of the apostle Paul when he said: "Neither
 is the man without the woman, neither the woman without the man, in the Lord."
-([1 Cor. 11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10).)
-That being true, the Lord must have a plan so that these children can
-ultimately enjoy that great blessing.
+([1 Cor. 11:11](/scriptures/nt/1-cor/11.11?lang=eng#10).) That being true, the
+Lord must have a plan so that these children can ultimately enjoy that great
+blessing.
 
 I will now read you a statement from the Lord regarding this millennial reign.
 He said:
@@ -172,7 +168,7 @@ the age of a tree;
 
 "And when he dies he shall not sleep, that is to say in the earth, but shall
 be changed in the twinkling of an eye, and shall be caught up, and his rest
-shall be glorious." ([D&amp;C 101:29-31](https://www.lds.org/scriptures/dc-
+shall be glorious." ([D&amp;C 101:29-31](/scriptures/dc-
 testament/dc/101.29-31?lang=eng#28).)
 
 So he is to live to the age of a tree, and then he is to be changed in the
@@ -186,14 +182,13 @@ relationship of husband and wife_) and their children shall grow up without
 sin unto salvation.
 
 "For the Lord shall be in their midst, and his glory shall be upon them, and
-he will be their king and their lawgiver." ([D&amp;C
-45:58-59](https://www.lds.org/scriptures/dc-
+he will be their king and their lawgiver." ([D&amp;C 45:58-59](/scriptures/dc-
 testament/dc/45.58-59?lang=eng#57).)
 
 Then I think of the revelation concerning those who will inherit the celestial
 kingdom, and the Lord said: "... which glory shall be a fulness and a
-continuation of the seeds forever and ever." ([D&amp;C
-132:19](https://www.lds.org/scriptures/dc-testament/dc/132.19?lang=eng#18).)
+continuation of the seeds forever and ever." ([D&amp;C 132:19](/scriptures/dc-
+testament/dc/132.19?lang=eng#18).)
 
 And so I expect some day to see the bride that my son has selected over there
 in the spirit world. If he can find one as noble as his little niece I have
@@ -221,8 +216,9 @@ I therefore conclude with the words of the apostle Paul, who was caught up
 into the third heaven and paradise of God, and he saw things he was not
 permitted to write. But he did say: "Eye hath not seen, nor ear heard, neither
 have entered into the heart of man, the things which God hath prepared for
-them that love him." ([1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8).) That is my
-faith in my God, and I leave you my blessing in the name of the Lord, Jesus
-Christ. Amen.
+them that love him." ([1 Cor. 2:9](/scriptures/nt/1-cor/2.9?lang=eng#8).) That
+is my faith in my God, and I leave you my blessing in the name of the Lord,
+Jesus Christ. Amen.
+
+## References
 

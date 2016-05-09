@@ -21,15 +21,15 @@ across the world nor in its universities or seminaries and institutes. These
 are all facilities, desirable means to an end, but only auxiliary to that
 which is the true strength. The strength of this Church lies in the hearts of
 its people, in the individual testimony and conviction of the truth of this
-work." [1]
+work."[1]
 
 All of us women have an image of the ideal family--a marriage in the temple to
 an active priesthood holder, and children who are obedient and faithful. But
 President Ezra Taft Benson has pointed out that only 14 percent of American
 households in 1980 match the traditional image of a family--working husband,
-full-time mother with children still in the home. [2]  Reliable statistics
+full-time mother with children still in the home.[2] Reliable statistics
 indicate that only one out of five LDS families in the United States have a
-husband and wife married in the temple with children in their home. [3]
+husband and wife married in the temple with children in their home.[3]
 
 As Elder M. Russell Ballard has already reminded us, there is great diversity
 in LDS homes. But all of these homes can be righteous homes where individuals
@@ -63,11 +63,11 @@ life.
 
 If we have faith, we will desire to pray often and sincerely, and his Spirit
 will teach us what to pray for (see [Rom.
-8:26-27](https://www.lds.org/scriptures/nt/rom/8.26-27?lang=eng#25)). We will
-have the sensitivity to serve compassionately. We will have the wisdom that we
-need for our Church callings. We can build a loving and respectful partnership
-with our husbands, children, parents, and friends. If we always have Christ's
-Spirit with us, we will have a wise consultant when we are perplexed by our
+8:26-27](/scriptures/nt/rom/8.26-27?lang=eng#25)). We will have the
+sensitivity to serve compassionately. We will have the wisdom that we need for
+our Church callings. We can build a loving and respectful partnership with our
+husbands, children, parents, and friends. If we always have Christ's Spirit
+with us, we will have a wise consultant when we are perplexed by our
 children's needs. We will receive help in making correct decisions and
 strength in carrying them out. We will give and receive loyal friendship, and
 feel in ourselves when the advice we receive from others is truly suited to
@@ -142,33 +142,31 @@ strengthen us.
 
 We do not know the challenges and adversities that life will give us. But the
 scriptures promise us that "with God nothing shall be impossible" ([Luke
-1:37](https://www.lds.org/scriptures/nt/luke/1.37?lang=eng#36)), and we can
-say with the Apostle Paul, "I can do all things through Christ which
-strengtheneth me" ([Philip.
-4:13](https://www.lds.org/scriptures/nt/philip/4.13?lang=eng#12)).
+1:37](/scriptures/nt/luke/1.37?lang=eng#36)), and we can say with the Apostle
+Paul, "I can do all things through Christ which strengtheneth me" ([Philip.
+4:13](/scriptures/nt/philip/4.13?lang=eng#12)).
 
 The scriptures are filled with testimonies of the strength that comes from the
 Savior. I always feel a lift of the heart that comes to me when I read these
 rejoicings of the prophets:
 
 Moses exulted, "The Lord is my strength and song, and he is become my
-salvation" ([Ex. 15:2](https://www.lds.org/scriptures/ot/ex/15.2?lang=eng#1)).
+salvation" ([Ex. 15:2](/scriptures/ot/ex/15.2?lang=eng#1)).
 
 David sang, "God is my strength and power: and he maketh my way perfect" ([2
-Sam. 22:33](https://www.lds.org/scriptures/ot/2-sam/22.33?lang=eng#32)).
+Sam. 22:33](/scriptures/ot/2-sam/22.33?lang=eng#32)).
 
 To Isaiah, the Lord promised, "Fear thou not; for I am with thee: be not
 dismayed; for I am thy God: I will strengthen thee; yea, I will help thee;
 yea, I will uphold thee with the right hand of my righteousness" ([Isa.
-41:10](https://www.lds.org/scriptures/ot/isa/41.10?lang=eng#9)).
+41:10](/scriptures/ot/isa/41.10?lang=eng#9)).
 
 How can we build this kind of faith in the strength of the Savior? David had
 counsel for the people of his time that I repeat to you: "Seek the Lord and
 his strength ... continually" ([1 Chr.
-16:11](https://www.lds.org/scriptures/ot/1-chr/16.11?lang=eng#10)). "Blessed
-is the man [or woman] whose strength is in thee. ... Go from strength to
-strength" ([Ps. 84:5,
-7](https://www.lds.org/scriptures/ot/ps/84.5%2C7?lang=eng#4)).
+16:11](/scriptures/ot/1-chr/16.11?lang=eng#10)). "Blessed is the man [or
+woman] whose strength is in thee. ... Go from strength to strength" ([Ps. 84:5,
+7](/scriptures/ot/ps/84.5,7?lang=eng#4)).
 
 Sisters, strengthen yourselves by seeking the source of true strength--the
 Savior. Come unto him. He loves you. He desires your happiness and exults in
@@ -198,9 +196,9 @@ I say this in the name of our Savior Jesus Christ, amen.
 
 ## References
 
-  1.   _Ensign,_ July 1993, pp. 4-5.
+  1. _Ensign,_ July 1993, pp. 4-5.
 
-  2.   _Ensign,_ Nov. 1982, p. 59.
+  2. _Ensign,_ Nov. 1982, p. 59.
 
-  3.  Tim B. Heaton, "Vital Statistics," _Encyclopedia of Mormonism_ (New York: Macmillan, 1992), 4:1532.
+  3. Tim B. Heaton, "Vital Statistics," _Encyclopedia of Mormonism_ (New York: Macmillan, 1992), 4:1532.
 

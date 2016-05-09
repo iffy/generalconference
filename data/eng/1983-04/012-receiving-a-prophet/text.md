@@ -55,14 +55,16 @@ behalf.
 
 There is a scripture that goes this way: "He that receiveth a prophet in the
 name of a prophet shall receive a prophet's reward." ([Matt.
-10:41](https://www.lds.org/scriptures/nt/matt/10.41?lang=eng#40).) I have come
-to realize the literalness of that promise. I have seen those blessings in the
-life of my father because of his loyalty. I would like those blessings for my
-family and myself, and I would like to see those blessings in the life of
-every Latter-day Saint.
+10:41](/scriptures/nt/matt/10.41?lang=eng#40).) I have come to realize the
+literalness of that promise. I have seen those blessings in the life of my
+father because of his loyalty. I would like those blessings for my family and
+myself, and I would like to see those blessings in the life of every Latter-
+day Saint.
 
 May I end where I began. God does live. Jesus is the Christ. Joseph Smith is a
 true prophet, and we are led by a prophet of God today. The prophet has my
 loyalty and he has my love, because how can I uphold the Lord unless I uphold
 him? In the name of Jesus Christ, amen.
+
+## References
 

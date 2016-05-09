@@ -133,7 +133,7 @@ sent unto thee; how often would I have gathered thy children together, as a
 hen doth gather her brood under her wings, and ye would not!
 
 "Behold, your house is left unto you desolate" ([Luke
-13:34-35](https://www.lds.org/scriptures/nt/luke/13.34-35?lang=eng#33)).
+13:34-35](/scriptures/nt/luke/13.34-35?lang=eng#33)).
 
 Today we have a rebirth of ancient Sodom and Gomorrah. From seldom-read pages
 in dusty Bibles they come forth as real cities in a real world, depicting a
@@ -146,9 +146,9 @@ suggest three specific steps in our battle plan:
 First, a return to righteousness. An understanding of who we are and what God
 expects us to become will prompt us to pray--as individuals and as families.
 Such a return reveals the constant truth: "Wickedness never was happiness"
-([Alma 41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)). Let
-not the evil one dissuade. We can yet be guided by that still small voice--
-unerring in its direction and all-powerful in its influence.
+([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9)). Let not the evil one
+dissuade. We can yet be guided by that still small voice--unerring in its
+direction and all-powerful in its influence.
 
 Second, a quest for the good life. I speak not of the fun life, the
 sophisticated life, the popular life. Rather, I urge each to seek eternal life
@@ -162,9 +162,8 @@ America, "Don't tread on me" (John Bartlett, _Familiar Quotations,_ p. 1090).
 
 Let us join in the fervent declaration of Joshua: "Choose you this day whom ye
 will serve ... but as for me and my house, we will serve the Lord" ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14)). Let our
-hearts be pure. Let our lives be clean. Let our voices be heard. Let our
-actions be felt.
+24:15](/scriptures/ot/josh/24.15?lang=eng#14)). Let our hearts be pure. Let
+our lives be clean. Let our voices be heard. Let our actions be felt.
 
 Then the beetle of pornography will be halted in its deadly course. Pernicious
 permissiveness will have met its match. And we, with Joshua, will safely cross
@@ -172,4 +171,6 @@ over Jordan into the promised land--even to eternal life in the celestial
 kingdom of our God.
 
 That we may do so is my sincere prayer, in the name of Jesus Christ, amen.
+
+## References
 

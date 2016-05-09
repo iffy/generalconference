@@ -4,9 +4,8 @@ With a prayer in my heart for understanding, and with some timidity, I speak
 today concerning parents and children with special problems. I do so because I
 am persuaded that these extraordinary challenges are, as the Savior himself
 said, that "the works of God should be made manifest." ([John
-9:3](https://www.lds.org/scriptures/nt/john/9.3?lang=eng#2).) How these
-challenges are met can often be the expression of the very essence of the
-gospel of Christ.
+9:3](/scriptures/nt/john/9.3?lang=eng#2).) How these challenges are met can
+often be the expression of the very essence of the gospel of Christ.
 
 It is a common sight in our congregations to have a small group of people near
 the front who communicate by the graceful motion of the hands as well as by
@@ -77,7 +76,7 @@ parents, that he was born blind?
 
 "Jesus answered, Neither hath this man sinned, nor his parents: but that the
 works of God should be made manifest in him." ([John
-9:1-3](https://www.lds.org/scriptures/nt/john/9.1-3?lang=eng#0).)
+9:1-3](/scriptures/nt/john/9.1-3?lang=eng#0).)
 
 How are the works of God manifest in these, our handicapped brothers and
 sisters? Surely they are manifested greatly in the loving care and attention
@@ -111,8 +110,8 @@ infinite mercy of God, those with physical and mental limitations will not
 remain so after the Resurrection. At this time, Alma says, "the spirit and the
 body shall be reunited again in its perfect form; both limb and joint shall be
 restored to its proper frame." ([Alma
-11:43](https://www.lds.org/scriptures/bofm/alma/11.43?lang=eng#42).)
-Afflictions, like mortality, are temporary.
+11:43](/scriptures/bofm/alma/11.43?lang=eng#42).) Afflictions, like mortality,
+are temporary.
 
 Surely more sharing of the burden will contribute to the emotional salvation
 of the person who is the primary caregiver. Just an hour of help now and then
@@ -129,17 +128,15 @@ substances which might affect their offspring imagine that the birth of a
 disabled child is some form of divine disapproval? Usually, both the parents
 and the children are blameless. The Savior of the world reminds us that God
 "maketh his sun to rise on the evil and on the good, and sendeth rain on the
-just and on the unjust." ([Matt.
-5:45](https://www.lds.org/scriptures/nt/matt/5.45?lang=eng#44).)
+just and on the unjust." ([Matt. 5:45](/scriptures/nt/matt/5.45?lang=eng#44).)
 
 May I express a word of gratitude and appreciation to those many who minister
 with such kindness and skill to our handicapped people. Special commendation
 belongs to parents and family members who have cared for their own children
 with special needs in the loving atmosphere of their own home. The care of
 those who are diminished is a special service rendered to the Master himself,
-for "inasmuch as ye have done it unto one of the least of these ... , ye have
-done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+for "inasmuch as ye have done it unto one of the least of these ..., ye have
+done it unto me." ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 Parents of handicapped children are occasionally embarrassed or hurt by others
 who awkwardly express sympathy but cannot know or appreciate the depth of the
@@ -172,7 +169,7 @@ degradation. Children have their agency and often express it when very young.
 They may or may not follow the teachings and wishes of their parents. Most
 parents do the best they know how, but also understand well the words of Lehi:
 "Hear the words of a trembling parent." ([2 Ne.
-1:14](https://www.lds.org/scriptures/bofm/2-ne/1.14?lang=eng#13).)
+1:14](/scriptures/bofm/2-ne/1.14?lang=eng#13).)
 
 We are indebted to Elder Howard W. Hunter for these wise words: "A successful
 parent is one who has loved, one who has sacrificed, and one who has cared
@@ -190,12 +187,11 @@ have so much to learn. Parents need to teach their children so many things.
 They are commanded to teach their children specifically "the doctrine of
 repentance, faith in Christ the Son of the living God, and of baptism and the
 gift of the Holy Ghost by the laying on of the hands, when eight years old."
-([D&amp;C 68:25](https://www.lds.org/scriptures/dc-
-testament/dc/68.25?lang=eng#24).) But, having lived by these truths and having
-taught them in their home, parents cannot always ensure their children's good
-behavior. Said Ezekiel, "The son shall not bear the iniquity of the father,
-neither shall the father bear the iniquity of the son." ([Ezek.
-18:20](https://www.lds.org/scriptures/ot/ezek/18.20?lang=eng#19).)
+([D&amp;C 68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24).) But, having
+lived by these truths and having taught them in their home, parents cannot
+always ensure their children's good behavior. Said Ezekiel, "The son shall not
+bear the iniquity of the father, neither shall the father bear the iniquity of
+the son." ([Ezek. 18:20](/scriptures/ot/ezek/18.20?lang=eng#19).)
 
 Parents have the obligation to teach, not force, and having prayerfully and
 conscientiously taught, parents cannot be answerable for all their children's
@@ -214,7 +210,7 @@ mastery in them. A great mother who scrubbed floors to help her children
 through school said, "I taught my children to pray, to have good manners, and
 to work." The Lord reminds us that we should continually teach repentance,
 faith in Christ, baptism, and the gift of the Holy Ghost. (See [D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
+68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24).)
 
 The works of God are manifest in so many ways in the challenges of parents and
 children, especially to those who are handicapped and to those who have lost
@@ -225,13 +221,15 @@ laboring with the wayward is a manifestation of the pure love of Christ. For
 those who carry such a challenge in this life, God himself provides a
 response. That response is patience and the strength to endure. It lies, as
 Paul and Job testify, "in hope of eternal life, ... promised before the world
-began" ([Titus 1:2](https://www.lds.org/scriptures/nt/titus/1.2?lang=eng#1)),
-"when the morning stars sang together, and all the sons of God shouted for
-joy." ([Job 38:7](https://www.lds.org/scriptures/ot/job/38.7?lang=eng#6).)
+began" ([Titus 1:2](/scriptures/nt/titus/1.2?lang=eng#1)), "when the morning
+stars sang together, and all the sons of God shouted for joy." ([Job
+38:7](/scriptures/ot/job/38.7?lang=eng#6).)
 
 I bear witness that Jesus is the Christ, the Savior of the world and the
 Redeemer of mankind. I testify that through obedience to His commandments we
 may enjoy the strength to triumph over every challenge of this life. May God
 grant this peaceful sustaining influence to all and especially to those in
 greatest need. I so pray in the name of Jesus Christ, amen.
+
+## References
 

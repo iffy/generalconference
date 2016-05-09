@@ -74,7 +74,7 @@ the heed and diligence which they give unto him.
 portion of the word; and he that will not harden his heart, to him is given
 the greater portion of the word, until it is given unto him to know the
 mysteries of God until he know them in full." ([Alma
-12:9-10](https://www.lds.org/scriptures/bofm/alma/12.9-10?lang=eng#8).)
+12:9-10](/scriptures/bofm/alma/12.9-10?lang=eng#8).)
 
 There are those who hear testimonies borne in the Church, by those in high
 station and by members in the wards and branches, all using the same words--"I
@@ -92,7 +92,7 @@ We would do well not to disregard the testimonies of the prophets or of the
 children, for "he imparteth his words by angels unto men, yea, not only men
 but women also. Now this is not all; little children do have words given unto
 them many times which confound the wise and the learned." ([Alma
-32:23](https://www.lds.org/scriptures/bofm/alma/32.23?lang=eng#22).)
+32:23](/scriptures/bofm/alma/32.23?lang=eng#22).)
 
 Some seek for a witness to be given in some new and dramatic and different
 way.
@@ -120,8 +120,8 @@ I said there was a question that could not be taken lightly nor answered at
 all without the prompting of the Spirit. I have not asked that question of
 others, but I have heard them answer it--but not when they were asked. They
 have answered it under the prompting of the Spirit, on sacred occasions, when
-"the Spirit beareth record." ([D&amp;C 1:39](https://www.lds.org/scriptures
-/dc-testament/dc/1.39?lang=eng#38).)
+"the Spirit beareth record." ([D&amp;C 1:39](/scriptures/dc-
+testament/dc/1.39?lang=eng#38).)
 
 I have heard one of my brethren declare: "I know from experiences, too sacred
 to relate, that Jesus is the Christ."
@@ -132,7 +132,7 @@ lives. And more than that, I know the Lord."
 It was not their words that held the meaning or the power. It was the Spirit.
 "... for when a man speaketh by the power of the Holy Ghost the power of the
 Holy Ghost carrieth it unto the hearts of the children of men." ([2 Ne.
-33:1](https://www.lds.org/scriptures/bofm/2-ne/33.1?lang=eng#0).)
+33:1](/scriptures/bofm/2-ne/33.1?lang=eng#0).)
 
 I speak upon this subject in humility, with the constant feeling that I am the
 least in every way of those who are called to this holy office.
@@ -165,5 +165,5 @@ him I am a witness. In the name of Jesus Christ. Amen.
 
 ## References
 
-  1.  Alma P. Burton, _Karl G. Maeser, Mormon Educator _(Deseret Book Co., 1953), p. 22.
+  1. Alma P. Burton, _Karl G. Maeser, Mormon Educator _(Deseret Book Co., 1953), p. 22.
 

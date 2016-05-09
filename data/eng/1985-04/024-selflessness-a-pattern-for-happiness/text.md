@@ -1,4 +1,4 @@
-# Selflessness: A Pattern for Happiness
+# Selflessness:A Pattern for Happiness
 
 This morning my spirit is subdued as I express my thanks to the Lord for the
 opportunity to serve and to learn. I am grateful for his trust and confidence.
@@ -82,7 +82,7 @@ him, and saith unto them, ... whosoever will be great among you, shall be your
 minister: And whosoever of you will be the chiefest, shall be servant of all.
 For even the son of man came not to be ministered unto, but to minister, and
 to give his life a ransom for many." ([Mark
-10:42-45](https://www.lds.org/scriptures/nt/mark/10.42-45?lang=eng#41).)
+10:42-45](/scriptures/nt/mark/10.42-45?lang=eng#41).)
 
 There is another word that sounds almost like the one we have been using.
 However, it is an ugly word. It describes a characteristic of satanic
@@ -102,10 +102,10 @@ divine quality of selflessness? May I suggest, as a first step, that there be
 a very careful, introspective evaluation. Consider the behavioral patterns we
 have just referred to. Do any of them fit your style or conduct? For instance:
 
-  1. -- Could you be obedient if you were asked to give up your home for two or three years, leave your children and grandchildren, and go across the world to live in a place much less comfortable than your own home, in a culture strange to you? Many here today have done it without a backward glance. 
-  2. -- To those who live alone: will you feel as lonely if you make a nursing home visit after work before you go home for dinner? 
-  3. -- As a parent, can you take precious time to listen to a son or daughter tell you about what the young people are wearing, or what the teacher said? If you do, _without interrupting,_ you may find they'll talk to you when they are _really_ troubled because they've learned you listen. 
-  4. -- At a dinner or in a group, notice yourself. Do you take up a large share of the conversation time? 
+  * Could you be obedient if you were asked to give up your home for two or three years, leave your children and grandchildren, and go across the world to live in a place much less comfortable than your own home, in a culture strange to you? Many here today have done it without a backward glance. 
+  * To those who live alone: will you feel as lonely if you make a nursing home visit after work before you go home for dinner? 
+  * As a parent, can you take precious time to listen to a son or daughter tell you about what the young people are wearing, or what the teacher said? If you do, _without interrupting,_ you may find they'll talk to you when they are _really_ troubled because they've learned you listen. 
+  * At a dinner or in a group, notice yourself. Do you take up a large share of the conversation time? 
 
 As part of this self-evaluation process, it is important to remember there can
 be no successful change in any of us unless we recognize a need to change.
@@ -117,10 +117,10 @@ begin to develop an attitude of service--the ongoing desire for the well-being
 of others. A beginning would be feeling empathy for those who need uplifting,
 then acting with caring thoughtfulness. It could be:
 
-  1. -- A telephone visit with someone who lives alone--just to chat about the day's experiences. 
-  2. -- Or perhaps a note to a youth speaker who did his best last Sunday. 
-  3. -- Even a thank-you to an unruly neighbor boy when he _doesn't_ jump your fence or smash your flower garden. Remember, those who are not the most attractive in their behavior or looks are the ones who need our caring concern the most. 
-  4. -- Or could it be stopping to talk to someone who is handicapped with whom you've never before taken the time to get acquainted? Are we cultivating an awareness that they have the same longings for love and friendship all of us have and yet usually get so much less? 
+  * A telephone visit with someone who lives alone--just to chat about the day's experiences. 
+  * Or perhaps a note to a youth speaker who did his best last Sunday. 
+  * Even a thank-you to an unruly neighbor boy when he _doesn't_ jump your fence or smash your flower garden. Remember, those who are not the most attractive in their behavior or looks are the ones who need our caring concern the most. 
+  * Or could it be stopping to talk to someone who is handicapped with whom you've never before taken the time to get acquainted? Are we cultivating an awareness that they have the same longings for love and friendship all of us have and yet usually get so much less? 
 
 It is important to break the chains of "self" that bind us. Sincere and
 sensitive acts in behalf of _others_ are the mark of the selfless.
@@ -153,7 +153,7 @@ in his final address to his people, he said, "And again, I say unto the poor,
 ye who have not and yet have sufficient, that ye remain from day to day; I
 mean all you who deny the beggar, because ye have not; I would that ye say in
 your hearts that: I give not because I have not, but if I had I would give."
-([Mosiah 4:24](https://www.lds.org/scriptures/bofm/mosiah/4.24?lang=eng#23).)
+([Mosiah 4:24](/scriptures/bofm/mosiah/4.24?lang=eng#23).)
 
 It is my feeling that, after all is said and done, it will be the intent of
 the heart by which we shall be judged. However, let us be careful that we do
@@ -176,8 +176,7 @@ hungred, and fed thee? or thirsty, and gave thee drink?
 
 "And the King shall answer and say unto them, Verily I say unto you, Inasmuch
 as ye have done it unto one of the least of these my brethren, ye have done it
-unto me." ([Matt. 25:34,
-37-40](https://www.lds.org/scriptures/nt/matt/25.34%2C37-40?lang=eng#33).)
+unto me." ([Matt. 25:34, 37-40](/scriptures/nt/matt/25.34,37-40?lang=eng#33).)
 
 _Selflessness_ is a beautifully expressive word. It is a divine word
 expressing a divine pattern of living.
@@ -187,4 +186,6 @@ his atoning sacrifice, and his resurrection, he has made possible resurrection
 for all mankind, and eternal life for the obedient. I know that he lives!
 
 In the name of Jesus Christ, amen.
+
+## References
 

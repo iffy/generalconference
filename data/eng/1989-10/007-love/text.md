@@ -11,8 +11,7 @@ Savior than the word_ love._
 The Savior's mission was begun out of love which the Father had for His
 children. In John we read, "For God so loved the world, that he gave his only
 begotten Son, that whosoever believeth in him should not perish, but have
-everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+everlasting life." ([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 Thus, the greatest mission in the history of the world was ordained and begun
 because of the love of our kind and caring Eternal Father.
@@ -33,7 +32,7 @@ with all thy soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35).)
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35).)
 
 Elder James E. Talmage has commented that these two commandments "are so
 closely related as to be virtually one: ... 'Thou shalt love.' He who abideth
@@ -60,8 +59,7 @@ material assistance.
 
 The brotherhood and warmth of our priesthood quorums, Relief Society, and
 youth organizations are available to all who will "come unto Christ, and be
-perfected in him." ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).)
+perfected in him." ([Moro. 10:32](/scriptures/bofm/moro/10.32?lang=eng#31).)
 
 Countless thousands of hours are spent in meaningful Christian service by
 bishops, stake presidents, Relief Society presidents, home teachers, nursery
@@ -76,7 +74,7 @@ relationships with one another.
 As the Savior was closing His ministry in preparation for the sacrifice that
 was to be the greatest of all gifts of love, He gave the powerful admonition,
 "Love one another; as I have loved you." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).)
+13:34](/scriptures/nt/john/13.34?lang=eng#33).)
 
 May I offer four suggestions to help focus on principles that will make us
 kinder, gentler, more harmonious, and loving persons.
@@ -91,12 +89,11 @@ Second, be complimentary. Look for attributes and acts of others that you can
 be genuinely complimentary of. Everyone is lifted by sincere and deserved
 commendation. Third, be charitable. The prophet Moroni counsels us with
 respect to the need for charity: "For if he have not charity he is nothing."
-([Moro. 7:44](https://www.lds.org/scriptures/bofm/moro/7.44?lang=eng#43).) In
-his epistle to the Corinthians, the Apostle Paul sums up the importance of
-charity in that familiar verse: "Though I speak with the tongues of men and of
-angels, and have not charity, I am become as sounding brass, or a tinkling
-cymbal." ([1 Cor.
-13:1](https://www.lds.org/scriptures/nt/1-cor/13.1?lang=eng#0).)
+([Moro. 7:44](/scriptures/bofm/moro/7.44?lang=eng#43).) In his epistle to the
+Corinthians, the Apostle Paul sums up the importance of charity in that
+familiar verse: "Though I speak with the tongues of men and of angels, and
+have not charity, I am become as sounding brass, or a tinkling cymbal." ([1
+Cor. 13:1](/scriptures/nt/1-cor/13.1?lang=eng#0).)
 
 What does it mean to be charitable? Charity is the opposite of selfishness. It
 means being generous and giving of both one's means and one's time in the
@@ -108,7 +105,7 @@ are forlorn or who despair. We should take a special interest in the youth
 around us.
 
 "Charity is the pure love of Christ." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).)
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46).)
 
 Fourth, be grateful. If we would show our love to our Heavenly Father, we
 would be grateful. We would show our gratitude by the way we live, not just by
@@ -164,6 +161,8 @@ May we all strive more diligently to show our love of the Lord by the way we
 emulate Christlike love in our relationships with others, that we may lay
 claim to the "crown of life" referred to by James, "which the Lord hath
 promised to them that love him" ([James
-1:12](https://www.lds.org/scriptures/nt/james/1.12?lang=eng#11)), I pray, in
-the name of Jesus Christ, amen.
+1:12](/scriptures/nt/james/1.12?lang=eng#11)), I pray, in the name of Jesus
+Christ, amen.
+
+## References
 

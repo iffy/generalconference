@@ -33,8 +33,7 @@ earth; and if I should say it, it would be done.
 
 "And now, if the Lord has such great power, and has wrought so many miracles
 among the children of men, how is it that he cannot instruct me, that I should
-build a ship?" ([1 Ne.
-17:50-51](https://www.lds.org/scriptures/bofm/1-ne/17.50-51?lang=eng#49).)
+build a ship?" ([1 Ne. 17:50-51](/scriptures/bofm/1-ne/17.50-51?lang=eng#49).)
 
 So Nephi built a ship.
 
@@ -51,10 +50,10 @@ he recognized his calling was from God.
 think that I of myself am more than a mortal man.
 
 "But I am like as yourselves, subject to all manner of infirmities in body and
-mind ... , and was suffered by the hand of the Lord that I should be a ruler and
+mind ..., and was suffered by the hand of the Lord that I should be a ruler and
 a king over this people ... to serve you with all the might, mind and strength
 which the Lord hath granted unto me." ([Mosiah
-2:10-11](https://www.lds.org/scriptures/bofm/mosiah/2.10-11?lang=eng#9).)
+2:10-11](/scriptures/bofm/mosiah/2.10-11?lang=eng#9).)
 
 When I feel inadequate and overwhelmed with my own weaknesses, I think of King
 Benjamin and try again.
@@ -73,7 +72,7 @@ These young men, who were taught correct principles by their mothers, "were
 exceedingly valiant for courage, and also for strength and activity; but
 behold, this was not all--they were men who were true at all times in
 whatsoever thing they were entrusted." ([Alma
-53:20](https://www.lds.org/scriptures/bofm/alma/53.20?lang=eng#19).)
+53:20](/scriptures/bofm/alma/53.20?lang=eng#19).)
 
 Now, that means being true when you are tempted, being true when you don't
 want to be, being true when it means standing alone from the rest of the
@@ -110,8 +109,8 @@ world.
 "And behold, I am the light and the life of the world; and I have drunk out of
 that bitter cup which the Father hath given me, and have glorified the Father
 in taking upon me the sins of the world, in the which I have suffered the will
-of the Father in all things from the beginning." ([3 Ne. 11:3, 6-8, 10-11](htt
-ps://www.lds.org/scriptures/bofm/3-ne/11.3%2C6-8%2C10-11?lang=eng#2).)
+of the Father in all things from the beginning." ([3 Ne. 11:3, 6-8,
+10-11](/scriptures/bofm/3-ne/11.3,6-8,10-11?lang=eng#2).)
 
 After my friend listened to this passage, a sweet peace enveloped her. For the
 first time in months she felt relief. Her fears were calmed. She gained
@@ -131,7 +130,7 @@ saw the heavens open, and they saw angels descending out of heaven as it were
 in the midst of fire; and they came down and encircled those little ones
 about, and they were encircled about with fire; and the angels did minister
 unto them." ([3 Ne. 17:21,
-23-24](https://www.lds.org/scriptures/bofm/3-ne/17.21%2C23-24?lang=eng#20).)
+23-24](/scriptures/bofm/3-ne/17.21,23-24?lang=eng#20).)
 
 When I read this passage, I am filled to overflowing with the love Jesus
 Christ and Heavenly Father have for me and you and the whole world. He blesses
@@ -143,4 +142,6 @@ pondering the Book of Mormon, each of us can gain strength to meet our daily
 challenges. I know the Book of Mormon is the word of God. Every time I read
 from its pages I receive a confirmation of its truth. In the name of Jesus
 Christ, amen.
+
+## References
 

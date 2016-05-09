@@ -23,7 +23,7 @@ to make the organizational changes he has in recent months.
 
 I believe herein lies one of the most important and basic principles we should
 all be aware of. This lesson is taught by the Savior as recorded in [Matt.
-16:13-18](https://www.lds.org/scriptures/nt/matt/16.13-18?lang=eng#12):
+16:13-18](/scriptures/nt/matt/16.13-18?lang=eng#12):
 
 "When Jesus came into the coasts of Caesarea Philippi, he asked his disciples,
 saying, Whom do men say that I the Son of man am?
@@ -136,7 +136,7 @@ much rather then, when he saith to thee, Wash, and be clean?
 "Then went he down, and dipped himself seven times in Jordan, according to the
 saying of the man of God: and his flesh came again like unto the flesh of a
 little child, and he was clean." [[2 Kgs.
-5:9-14](https://www.lds.org/scriptures/ot/2-kgs/5.9-14?lang=eng#8)]
+5:9-14](/scriptures/ot/2-kgs/5.9-14?lang=eng#8)]
 
 President Romney tells an interesting experience he had with regard to
 following the living prophet:
@@ -178,4 +178,6 @@ hear the direction from a living prophet of God--direction that can bring
 inner peace in a time of great confusion and difficulty. I pray that each of
 us will listen to and follow President Kimball, who, I testify, is the
 mouthpiece of the Lord to mankind today. In the name of Jesus Christ, amen.
+
+## References
 

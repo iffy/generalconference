@@ -35,10 +35,9 @@ equal validity, and they sustain one another.
 Fifth: while much must be taken on faith alone, there is individual revelation
 through which we may know the truth. "There is a spirit in man: and the
 inspiration of the Almighty giveth them understanding." ([Job
-32:8](https://www.lds.org/scriptures/ot/job/32.8?lang=eng#7).) What may be
-obscure in the scriptures can be made plain through the gift of the Holy
-Ghost. We can have as full an understanding of spiritual things as we are
-willing to earn.
+32:8](/scriptures/ot/job/32.8?lang=eng#7).) What may be obscure in the
+scriptures can be made plain through the gift of the Holy Ghost. We can have
+as full an understanding of spiritual things as we are willing to earn.
 
 And I add one more conviction: there is an adversary who has his own channels
 of spiritual communication. He confuses the careless and prompts those who
@@ -63,8 +62,8 @@ The doctrine I wish to discuss concerns the nature of man and of God.
 
 There is a question in both the Old and the New Testaments: "What is man, that
 thou art mindful of him? and the son of man, that thou visitest him?" ([Ps.
-8:4](https://www.lds.org/scriptures/ot/ps/8.4?lang=eng#3); see also [Heb.
-2:5-7](https://www.lds.org/scriptures/nt/heb/2.5-7?lang=eng#4).)
+8:4](/scriptures/ot/ps/8.4?lang=eng#3); see also [Heb.
+2:5-7](/scriptures/nt/heb/2.5-7?lang=eng#4).)
 
 The answer is taught most simply in the song we sang together at the
 intermission of the meeting:
@@ -92,10 +91,10 @@ God. That doctrine is not hidden away in an obscure verse. It is taught over
 and over again in scripture. These clear examples are from the Bible:
 
 "All of you are children of the most High." ([Ps.
-82:6](https://www.lds.org/scriptures/ot/ps/82.6?lang=eng#5).)
+82:6](/scriptures/ot/ps/82.6?lang=eng#5).)
 
 And: "We are the offspring of God." ([Acts
-17:29](https://www.lds.org/scriptures/nt/acts/17.29?lang=eng#28).)
+17:29](/scriptures/nt/acts/17.29?lang=eng#28).)
 
 Doctrinal truths are interrelated. There is an old saying that if you pick up
 one end of a stick, you pick up the other end as well.
@@ -111,11 +110,10 @@ many references that I could not even begin to read them to you.
 But I make this point: Christ did not speak only of _the_ Father, or _my_
 Father; He spoke of _your_ Father, and _our_ Father. He even put them together
 in one sentence, saying, "_Your_ Father, and _your_ God, and _my_ God."
-([D&amp;C 88:75](https://www.lds.org/scriptures/dc-
-testament/dc/88.75?lang=eng#74); italics added.) God is addressed universally
-in the Christian world as Father. Were we not commanded to pray "Our Father
-which art in heaven"? ([Matt.
-6:9](https://www.lds.org/scriptures/nt/matt/6.9?lang=eng#8).)
+([D&amp;C 88:75](/scriptures/dc-testament/dc/88.75?lang=eng#74); italics
+added.) God is addressed universally in the Christian world as Father. Were we
+not commanded to pray "Our Father which art in heaven"? ([Matt.
+6:9](/scriptures/nt/matt/6.9?lang=eng#8).)
 
 You may respond, "Every Christian knows that." Perhaps every Christian does,
 but so-called Christians, with the help of clergymen, belittle in most
@@ -134,9 +132,8 @@ depression fade away. We then can yield to the discipline of a loving Father
 and accept even the very hard lessons of life.
 
 Christ taught us to be "perfect, even as your Father which is in heaven is
-perfect" ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47)), to take on
-His attributes, to follow the pattern of our parentage.
+perfect" ([Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47)), to take on His
+attributes, to follow the pattern of our parentage.
 
 A little girl taught me a profound lesson on this subject. Surely you are not
 above learning from little children. Much of what I know that really matters I
@@ -167,12 +164,11 @@ that without having had a course in genetics, without a lesson or a lecture.
 
 No lesson is more manifest in nature than that all living things do as the
 Lord commanded in the Creation. They reproduce "after their own kind." (See
-[Moses 2:12,
-24](https://www.lds.org/scriptures/pgp/moses/2.12%2C24?lang=eng#11).) They
-follow the pattern of their parentage. Everyone knows that; every four-year-
-old knows that! A bird will not become an animal nor a fish. A mammal will not
-beget reptiles, nor "do men gather ... figs of thistles." ([Matt.
-7:16](https://www.lds.org/scriptures/nt/matt/7.16?lang=eng#15).)
+[Moses 2:12, 24](/scriptures/pgp/moses/2.12,24?lang=eng#11).) They follow the
+pattern of their parentage. Everyone knows that; every four-year-old knows
+that! A bird will not become an animal nor a fish. A mammal will not beget
+reptiles, nor "do men gather ... figs of thistles." ([Matt.
+7:16](/scriptures/nt/matt/7.16?lang=eng#15).)
 
 In the countless billions of opportunities in the reproduction of living
 things, one kind does not beget another. If a species ever does cross, the
@@ -199,7 +195,7 @@ ultimate destiny of mankind? We may now be young in our progression--juvenile,
 even infantile, compared with Him. Nevertheless, in the eternities to come, if
 we are worthy, we may be like unto Him, enter His presence, "see as [we] are
 seen, and know as [we] are known," and receive a "fulness." ([D&amp;C
-76:94](https://www.lds.org/scriptures/dc-testament/dc/76.94?lang=eng#93).)
+76:94](/scriptures/dc-testament/dc/76.94?lang=eng#93).)
 
 This doctrine is not at variance with the scriptures. Nevertheless, it is easy
 to understand why some Christians reject it, because it introduces the
@@ -209,8 +205,8 @@ possibility that man may achieve Godhood.
 
 Their concern centers on certain verses of scripture, for there are many
 references (at least twenty in the Bible alone) which speak of _one_ God. For
-example, [Eph. 4:6](https://www.lds.org/scriptures/nt/eph/4.6?lang=eng#5):
-There is "one God and Father of all."
+example, [Eph. 4:6](/scriptures/nt/eph/4.6?lang=eng#5): There is "one God and
+Father of all."
 
 But if you hold strictly to a too rigid interpretation of those verses, you
 create serious theological problems for yourself.
@@ -222,24 +218,23 @@ Bible, that speak in plural terms of "lords" and "gods." The first chapter of
 Genesis states:
 
 "And God said, Let _us_ make man in _our_ image, after _our_ likeness." ([Gen.
-1:26](https://www.lds.org/scriptures/ot/gen/1.26?lang=eng#25); italics added.)
+1:26](/scriptures/ot/gen/1.26?lang=eng#25); italics added.)
 
 Such references are found from Genesis to Revelation. (See [Rev.
-1:6](https://www.lds.org/scriptures/nt/rev/1.6?lang=eng#5).)
+1:6](/scriptures/nt/rev/1.6?lang=eng#5).)
 
 The strongest one was given by Christ Himself when He quoted that very clear
 verse from the Eighty-second Psalm:
 
 "Is it not written in your law, _I said, Ye are gods?_ [See [Ps.
-82:6](https://www.lds.org/scriptures/ot/ps/82.6?lang=eng#5).]
+82:6](/scriptures/ot/ps/82.6?lang=eng#5).]
 
 "If he called them _gods,_ unto whom the word of God came, _and the scripture
 cannot be broken;_
 
 "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou
 blasphemest; because I said, I am the _Son_ of God?" ([John
-10:34-36](https://www.lds.org/scriptures/nt/john/10.34-36?lang=eng#33);
-italics added.)
+10:34-36](/scriptures/nt/john/10.34-36?lang=eng#33); italics added.)
 
 The acceptance of this truth does not mean accepting the multiple gods of
 mythology nor the polytheism of the pagans, which was so roundly condemned by
@@ -260,7 +255,7 @@ Paul used the plural _many_ and the singular _one_ in the same verse:
 there be gods many, and lords many,)
 
 "But to us there is but one God, the Father." ([1 Cor.
-8:5-6](https://www.lds.org/scriptures/nt/1-cor/8.5-6?lang=eng#4).)
+8:5-6](/scriptures/nt/1-cor/8.5-6?lang=eng#4).)
 
 Anyone who believes and teaches of God the Father, and accepts the divinity of
 Christ, and of the Holy Ghost, teaches a plurality of Gods.
@@ -284,7 +279,7 @@ The Apostle Paul understood this doctrine and wrote to the Philippians:
 "Let this mind be in you, which was also in Christ Jesus:
 
 "Who, being in the form of God, thought it not robbery to be equal with God."
-([Philip. 2:5-6](https://www.lds.org/scriptures/nt/philip/2.5-6?lang=eng#4).)
+([Philip. 2:5-6](/scriptures/nt/philip/2.5-6?lang=eng#4).)
 
 Lorenzo Snow, a modern Apostle, wrote a poem to his ancient counterpart Paul,
 from which I quote only one verse:
@@ -340,7 +335,7 @@ joint heirs with Him. Paul wrote to the Romans:
 of God:
 
 "And if children, then heirs; heirs of God, and joint-heirs with Christ"
-([Rom. 8:16-17](https://www.lds.org/scriptures/nt/rom/8.16-17?lang=eng#15).)
+([Rom. 8:16-17](/scriptures/nt/rom/8.16-17?lang=eng#15).)
 
 There are those who mock our beliefs in the most uncharitable ways. And we
 will bear what they do with long-suffering, for it does not change truth. And
@@ -354,7 +349,7 @@ lived, to endure as He endured.
 We began with this question: "What is man that thou art mindful of him?"
 Christ, our Redeemer, our Elder Brother, asked, "What manner of men ought ye
 to be?" And then He answered, "Verily I say unto you, even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 I bear solemn witness that Jesus is the Christ, the Only Begotten of the
 Father in the flesh; that He is our Redeemer, our Savior; that God is our
@@ -362,4 +357,6 @@ Father. This we know through the gift of the Holy Ghost. And I humbly but
 resolutely affirm that we will not, we cannot, stray from this doctrine. On
 this fundamental truth we will _never_ yield! In the name of Jesus Christ,
 amen.
+
+## References
 

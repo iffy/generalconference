@@ -31,15 +31,14 @@ spoke with Mary, who was first at the tomb. He spoke with the other women who
 ran to tell their brethren, two of whom came running. He appeared unto ten of
 His Apostles, Thomas being absent. And then He came again when Thomas was
 present. The doubter, upon seeing Him, declared, "My Lord and my God" ([John
-20:28](https://www.lds.org/scriptures/nt/john/20.28?lang=eng#27)). He talked
-with the two brethren on the way to Emmaus, and they said, "Did not our heart
-burn within us ... ?" ([Luke
-24:32](https://www.lds.org/scriptures/nt/luke/24.32?lang=eng#31)). And Paul
+20:28](/scriptures/nt/john/20.28?lang=eng#27)). He talked with the two
+brethren on the way to Emmaus, and they said, "Did not our heart burn within
+us ... ?" ([Luke 24:32](/scriptures/nt/luke/24.32?lang=eng#31)). And Paul
 declared that "after that, he was seen of above five hundred brethren at once"
-([1 Cor. 15:6](https://www.lds.org/scriptures/nt/1-cor/15.6?lang=eng#5)).
+([1 Cor. 15:6](/scriptures/nt/1-cor/15.6?lang=eng#5)).
 
 Then Paul adds that "last of all he was seen of me" ([1 Cor.
-15:8](https://www.lds.org/scriptures/nt/1-cor/15.8?lang=eng#7)).
+15:8](/scriptures/nt/1-cor/15.8?lang=eng#7)).
 
 All of this and more is found in the New Testament. It has served as the
 foundation of the faith of uncounted millions across the world into whose
@@ -47,9 +46,8 @@ hearts there has come the witness of the Holy Spirit that it is true. They
 have lived by this testimony, and they have died by it. When the dark shadow
 of death has crossed their paths, when hope normally would have fled, there
 has come the reassurance that "as in Adam all die, even so in Christ shall all
-be made alive" ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21)). In such
-hours of darkness there has shown forth a light, steady and certain, to
+be made alive" ([1 Cor. 15:22](/scriptures/nt/1-cor/15.22?lang=eng#21)). In
+such hours of darkness there has shown forth a light, steady and certain, to
 sustain and comfort and bless.
 
 But if that is not enough, there is another testament. This so-called Book of
@@ -66,7 +64,7 @@ women in the western continent. The testimony is here to handle; it is here to
 be read; it is here to be pondered; it is here to be prayed over with a
 promise that he who prays shall know by the power of the Holy Ghost of its
 truth and validity (see [Moro.
-10:3-5](https://www.lds.org/scriptures/bofm/moro/10.3-5?lang=eng#2)).
+10:3-5](/scriptures/bofm/moro/10.3-5?lang=eng#2)).
 
 And again, if this is not enough, there is the testimony of a prophet, whose
 name was Joseph, who sealed with his blood the testimony of his Lord. Today we
@@ -83,8 +81,8 @@ lived in it. ... He lived great, and he died great in the eyes of God and his
 people; and like most of the Lord's anointed in ancient times, has sealed his
 mission and his works with his own blood; and so has his brother Hyrum. ...
 Their innocent blood ... is a witness to the truth of the everlasting gospel
-that all the world cannot impeach" ([D&amp;C 135:3,
-7](https://www.lds.org/scriptures/dc-testament/dc/135.3%2C7?lang=eng#2)).
+that all the world cannot impeach" ([D&amp;C 135:3, 7](/scriptures/dc-
+testament/dc/135.3,7?lang=eng#2)).
 
 Because this is the sesquicentennial year of that tragic event, I wish to say
 a few words about the leading character on each side of that equation at
@@ -263,7 +261,7 @@ afforded by the atonement of the Savior of mankind.
 
 On another occasion Joseph had been incarcerated in another jail, that in
 Liberty, Missouri. In the misery of that foul place he cried out, "O God,
-where art thou?" ([D&amp;C 121:1](https://www.lds.org/scriptures/dc-
+where art thou?" ([D&amp;C 121:1](/scriptures/dc-
 testament/dc/121.1?lang=eng#0)).
 
 In answer to that prayer came this remarkable promise:
@@ -275,8 +273,7 @@ in derision, and hell shall rage against thee;
 seek counsel, and authority, and blessings constantly from under thy hand.
 
 "And thy people shall never be turned against thee by the testimony of
-traitors" ([D&amp;C 122:1-3](https://www.lds.org/scriptures/dc-
-testament/dc/122.1-3?lang=eng#0)).
+traitors" ([D&amp;C 122:1-3](/scriptures/dc-testament/dc/122.1-3?lang=eng#0)).
 
 You and I are witnesses to the fulfillment of these remarkable and prophetic
 words. As I speak today I am heard in thousands of halls across this and other
@@ -301,8 +298,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God"
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21)).
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21)).
 
 And so, on this Easter Sabbath, we bear testimony of the Redeemer of the
 world, He who was born the Only Begotten of the Father, He who went about
@@ -315,4 +311,6 @@ witness of the Risen Redeemer. And by the power of the Holy Ghost, we give our
 personal testimony that He who was slain on Calvary's hill rose from the dead,
 our Savior, whose sacrifice made possible the gift of eternal life to all who
 will keep His commandments. In the name of Jesus Christ, our Redeemer, amen.
+
+## References
 

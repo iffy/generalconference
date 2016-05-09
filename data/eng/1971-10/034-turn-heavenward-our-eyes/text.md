@@ -15,7 +15,7 @@ the line upon it?
 thereof;
 
 "When the morning stars sang together, and all the sons of God shouted for
-joy?" ([Job 38:3-7](https://www.lds.org/scriptures/ot/job/38.3-7?lang=eng#2).)
+joy?" ([Job 38:3-7](/scriptures/ot/job/38.3-7?lang=eng#2).)
 
 This bit of scripture, we believe, alludes to our preexistence with God when
 we, in his presence, rejoiced at his announcing to us, his children, the plan
@@ -140,13 +140,11 @@ go to bed."
 Can you imagine how Moses felt when he said: "Now, for this cause I know that
 man is nothing, which thing I never had supposed" after he "was caught up into
 an exceedingly high mountain, And he saw God face to face, and he talked with
-him"? ([Moses 1:10,
-1-2](https://www.lds.org/scriptures/pgp/moses/1.10%2C1-2?lang=eng#9).) We read
+him"? ([Moses 1:10, 1-2](/scriptures/pgp/moses/1.10,1-2?lang=eng#9).) We read
 in the first chapter of Moses that "Moses looked, and beheld the world upon
 which he was created; and Moses beheld the world and the ends thereof, and all
 the children of men which are, and which were created; of the same he greatly
-marveled and wondered." ([Moses
-1:8](https://www.lds.org/scriptures/pgp/moses/1.8?lang=eng#7).)
+marveled and wondered." ([Moses 1:8](/scriptures/pgp/moses/1.8?lang=eng#7).)
 
 And then Satan appeared and tempted Moses and commanded in a loud voice: "I am
 the Only Begotten, worship me.
@@ -198,8 +196,8 @@ mine.
 another come; and there is no end to my works, neither to my words.
 
 "For behold, this is my work and my glory--to bring to pass the immortality
-and eternal life of man." ([Moses 1:19-22, 24-25, 30-33, 35-39](https://www.ld
-s.org/scriptures/pgp/moses/1.19-22%2C24-25%2C30-33%2C35-39?lang=eng#18).)
+and eternal life of man." ([Moses 1:19-22, 24-25, 30-33,
+35-39](/scriptures/pgp/moses/1.19-22,24-25,30-33,35-39?lang=eng#18).)
 
 Think of the impact of that statement. All the creations of God were made for
 this one purpose--to bring to pass the immortality and eternal life of his
@@ -242,8 +240,7 @@ judgment.
 
 "And now, behold, I say unto you: This is the plan of salvation unto all men,
 through the blood of mine Only Begotten, who shall come in the meridian of
-time." ([Moses
-6:57-62](https://www.lds.org/scriptures/pgp/moses/6.57-62?lang=eng#56).)
+time." ([Moses 6:57-62](/scriptures/pgp/moses/6.57-62?lang=eng#56).)
 
 And so the creation of the world, the plan of salvation--all this is for us.
 It behooves all parents to know of it, that they may respond to desires of the
@@ -324,4 +321,6 @@ greatest gift of God is his plan of salvation.
 
 May we guide our lives and those of our children in this direction, I pray
 humbly in the name of Jesus Christ. Amen.
+
+## References
 

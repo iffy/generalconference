@@ -90,17 +90,16 @@ father's words: "And I also beheld a strait and narrow path, which came along
 by the rod of iron, even to the tree. ... And I saw numberless concourses of
 people, many of whom were pressing forward, that they might obtain the path
 which led unto the tree." ([1 Ne.
-8:20-21](https://www.lds.org/scriptures/bofm/1-ne/8.20-21?lang=eng#19).) Many
-of these people later "fell away into forbidden paths and were lost." ([1 Ne.
-8:28](https://www.lds.org/scriptures/bofm/1-ne/8.28?lang=eng#27).) But those
-who ignored the scoffing and ridicule of the world and held tightly to the rod
-of iron enjoyed the fruit of the tree. The rod of iron represents the word of
-God, that leads us to the love of God. (See [1 Ne.
-11:25](https://www.lds.org/scriptures/bofm/1-ne/11.25?lang=eng#24).) You must
-hold firmly to the rod of iron through the mists and darknesses, the hardships
-and trials of life. If you relax your grip and slip from the path, the iron
-rod might become lost in the darkness for a time until you repent and regain
-your grasp of it.
+8:20-21](/scriptures/bofm/1-ne/8.20-21?lang=eng#19).) Many of these people
+later "fell away into forbidden paths and were lost." ([1 Ne.
+8:28](/scriptures/bofm/1-ne/8.28?lang=eng#27).) But those who ignored the
+scoffing and ridicule of the world and held tightly to the rod of iron enjoyed
+the fruit of the tree. The rod of iron represents the word of God, that leads
+us to the love of God. (See [1 Ne.
+11:25](/scriptures/bofm/1-ne/11.25?lang=eng#24).) You must hold firmly to the
+rod of iron through the mists and darknesses, the hardships and trials of
+life. If you relax your grip and slip from the path, the iron rod might become
+lost in the darkness for a time until you repent and regain your grasp of it.
 
 Remember that success results when preparation meets opportunity in your
 lives. You will not always know precisely what opportunities will come or when
@@ -131,7 +130,7 @@ Relying only on your own abilities can lead to the sin of pride. In the
 opening section of the Doctrine and Covenants, the Lord described the wicked
 condition of many in the world, and I quote: "They seek not the Lord to
 establish his righteousness, but every man walketh in his own way, and after
-the image of his own god." ([D&amp;C 1:16](https://www.lds.org/scriptures/dc-
+the image of his own god." ([D&amp;C 1:16](/scriptures/dc-
 testament/dc/1.16?lang=eng#15).) If we boast in our own strength and "walk in
 our own way," we can slip easily from the straight and narrow path to the
 broad roadways of the world. Do not be misled by the occasional easiness of
@@ -160,23 +159,22 @@ effects.
 Always be willing, even anxious, to help others. Nothing else you do will give
 you the same genuine satisfaction and joy within because, and I quote, "when
 ye are in the service of your fellow beings ye are only in the service of your
-God." ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).) Ignoring
-the needs of others is a serious sin. Think of the words of Alma to the people
-of the Church in Zarahemla. He asked: "Will ye ... persist in the wearing of
-costly apparel and setting your hearts upon the vain things of the world, upon
-your riches? "Yea, will ye persist in supposing that ye are better one than
+God." ([Mosiah 2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).) Ignoring the
+needs of others is a serious sin. Think of the words of Alma to the people of
+the Church in Zarahemla. He asked: "Will ye ... persist in the wearing of costly
+apparel and setting your hearts upon the vain things of the world, upon your
+riches? "Yea, will ye persist in supposing that ye are better one than
 another; ...
 
 "Yea, and will you persist in turning your backs upon the poor, and the needy,
 and in withholding your substance from them?" ([Alma
-5:53-55](https://www.lds.org/scriptures/bofm/alma/5.53-55?lang=eng#52).)
+5:53-55](/scriptures/bofm/alma/5.53-55?lang=eng#52).)
 
 King Benjamin taught that we must care for those in need--the poor, hungry,
 naked, and sick--both spiritually and temporally if we are to receive a
 remission of our sins from day to day or, in other words, if we are to walk
 guiltless before God. (See [Mosiah
-18:29](https://www.lds.org/scriptures/bofm/mosiah/18.29?lang=eng#28).)
+18:29](/scriptures/bofm/mosiah/18.29?lang=eng#28).)
 
 ## Hitting the Wall
 
@@ -191,11 +189,11 @@ You young people face the same temptations that have been common throughout
 history, plus many others that were unknown to earlier generations. However,
 be sure you understand that God will not allow you to be tempted beyond your
 ability to resist. (See [1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).) He does
-not give you challenges that you cannot surmount. He will not ask more than
-you can do, but may ask right up to your limits so you can prove yourselves.
-The Lord will never forsake or abandon anyone. You may abandon him, but he
-will not abandon you. You never need to feel that you are alone.
+10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).) He does not give you
+challenges that you cannot surmount. He will not ask more than you can do, but
+may ask right up to your limits so you can prove yourselves. The Lord will
+never forsake or abandon anyone. You may abandon him, but he will not abandon
+you. You never need to feel that you are alone.
 
 The reason to stay on course in a marathon is obvious. The reason to stay on a
 course that leads to a righteous life may be less obvious but is much more
@@ -207,43 +205,41 @@ thereof, if we pursue the path that leads to it; and this path is virtue,
 uprightness, faithfulness, holiness, and keeping all the commandments of God.
 ...
 
-"In obedience there is joy and peace ... and as God has designed our happiness ...
-, he never has--He never will ... give a commandment to His people that is not
+"In obedience there is joy and peace ... and as God has designed our happiness
+..., he never has--He never will ... give a commandment to His people that is not
 calculated in its nature to promote that happiness which He has designed."
 (_History of the Church,_ 5:134-35.)
 
 We read in the Book of Mormon: "Men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 Our Heavenly Father knows the way for you to enjoy happiness and peace; the
 principles of the gospel mark the way. They are a gift to you, his children.
 
 On the other hand, Satan will try, at every step of the way, to lead you off
 course. His objective is to make you unhappy and miserable like he is. (See [2
-Ne. 2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).) Vast
-sums of money are spent each year to package and disguise sin and evil to make
-them appear enticing, attractive, even harmless. However, regardless of
-appearances, "wickedness never was happiness" ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)) and never
-will be. Never find yourselves in the position of the Nephites just a few
-years before the birth of the Savior. They "sought ... for that which [they]
-could not obtain; ... for happiness in doing iniquity, which thing is contrary
-to the nature of that righteousness which is in our great and Eternal Head."
-([Hel. 13:38](https://www.lds.org/scriptures/bofm/hel/13.38?lang=eng#37).) You
-cannot find happiness in sin and iniquity.
+Ne. 2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).) Vast sums of money are
+spent each year to package and disguise sin and evil to make them appear
+enticing, attractive, even harmless. However, regardless of appearances,
+"wickedness never was happiness" ([Alma
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9)) and never will be. Never find
+yourselves in the position of the Nephites just a few years before the birth
+of the Savior. They "sought ... for that which [they] could not obtain; ... for
+happiness in doing iniquity, which thing is contrary to the nature of that
+righteousness which is in our great and Eternal Head." ([Hel.
+13:38](/scriptures/bofm/hel/13.38?lang=eng#37).) You cannot find happiness in
+sin and iniquity.
 
 The Lord has given you the gift of agency (see [Moses
-7:32](https://www.lds.org/scriptures/pgp/moses/7.32?lang=eng#31)) and
-instructed you sufficiently to know good from evil (see [2 Ne.
-2:5](https://www.lds.org/scriptures/bofm/2-ne/2.5?lang=eng#4)). You are free
-to choose (see [2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)) and are
-permitted to act (see [2 Ne.
-10:23](https://www.lds.org/scriptures/bofm/2-ne/10.23?lang=eng#22); [Hel.
-14:30](https://www.lds.org/scriptures/bofm/hel/14.30?lang=eng#29)), but you
-are not free to choose the consequences. With absolute certainty, choices of
-good and right lead to happiness and peace, while choices of sin and evil
-eventually lead to unhappiness, sorrow, and misery.
+7:32](/scriptures/pgp/moses/7.32?lang=eng#31)) and instructed you sufficiently
+to know good from evil (see [2 Ne.
+2:5](/scriptures/bofm/2-ne/2.5?lang=eng#4)). You are free to choose (see [2
+Ne. 2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)) and are permitted to act
+(see [2 Ne. 10:23](/scriptures/bofm/2-ne/10.23?lang=eng#22); [Hel.
+14:30](/scriptures/bofm/hel/14.30?lang=eng#29)), but you are not free to
+choose the consequences. With absolute certainty, choices of good and right
+lead to happiness and peace, while choices of sin and evil eventually lead to
+unhappiness, sorrow, and misery.
 
 ## Endure to the End
 
@@ -252,22 +248,22 @@ diligently and endure to the end. Among his final words to his people, Nephi
 told them: "And now, ... after ye have gotten into this strait and narrow path,
 I would ask if all is done? Behold, I say unto you, Nay; ... Ye must press
 forward with a steadfastness in Christ ... and endure to the end." ([2 Ne.
-31:19-20](https://www.lds.org/scriptures/bofm/2-ne/31.19-20?lang=eng#18).) I
-think of this promise of the Lord: "But they that wait upon the Lord shall
-renew their strength; they shall mount up with wings as eagles; they shall
-run, and not be weary; and they shall walk, and not faint." ([Isa.
-40:31](https://www.lds.org/scriptures/ot/isa/40.31?lang=eng#30).) You have
-that promise.
+31:19-20](/scriptures/bofm/2-ne/31.19-20?lang=eng#18).) I think of this
+promise of the Lord: "But they that wait upon the Lord shall renew their
+strength; they shall mount up with wings as eagles; they shall run, and not be
+weary; and they shall walk, and not faint." ([Isa.
+40:31](/scriptures/ot/isa/40.31?lang=eng#30).) You have that promise.
 
 My dear young friends, I pray that the Lord will guide and strengthen each of
 you in running your personal marathon. Then you can say, as Paul wrote to
 Timothy: "I have fought a good fight, I have finished my course, I have kept
-the faith." ([2 Tim.
-4:7](https://www.lds.org/scriptures/nt/2-tim/4.7?lang=eng#6).) I know that you
-_can_ live righteous lives and, with the help of the Lord, _do_ all that you
-should do. I bear testimony that our Heavenly Father and Jesus Christ love
+the faith." ([2 Tim. 4:7](/scriptures/nt/2-tim/4.7?lang=eng#6).) I know that
+you _can_ live righteous lives and, with the help of the Lord, _do_ all that
+you should do. I bear testimony that our Heavenly Father and Jesus Christ love
 each of you and want you to be happy. Joseph Smith is the prophet of the
 restoration of the gospel in these latter days, and President Ezra Taft Benson
 is the prophet today. This is the Church of our Lord and Savior; I am one of
 His witnesses. I bear this humble testimony in the name of Jesus Christ, amen.
+
+## References
 

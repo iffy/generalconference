@@ -102,7 +102,7 @@ of wicked men and women who would have you participate in bad things such as
 pornography, drugs, profanity, and immorality. Stay away from these evils.
 Avoid books, magazines, videos, movies, and television shows that are not
 good. As the scriptures tell us, avoid the very _appearance_ of evil. (See [1
-Thes. 5:22](https://www.lds.org/scriptures/nt/1-thes/5.22?lang=eng#21).)
+Thes. 5:22](/scriptures/nt/1-thes/5.22?lang=eng#21).)
 
 Dress modestly. Choose clothing that covers your body properly. Behave in a
 courteous and polite way. Live the Word of Wisdom. Keep the Sabbath day holy.
@@ -158,8 +158,7 @@ prayed unto the Father for them.
 saw the heavens open, and they saw angels descending out of heaven as it were
 in the midst of fire; and they came down and encircled those little ones
 about, and they were encircled about with fire; and the angels did minister
-unto them." ([3 Ne.
-17:18-24](https://www.lds.org/scriptures/bofm/3-ne/17.18-24?lang=eng#17).)
+unto them." ([3 Ne. 17:18-24](/scriptures/bofm/3-ne/17.18-24?lang=eng#17).)
 
 I promise you, dear children, that angels will minister unto you also. You may
 not see them, but they will be there to help you, and you will feel of their
@@ -237,4 +236,6 @@ _Gladly, gladly we'll walk in the light._
 
 For this I fervently pray for the children of the Church, in the name of Jesus
 Christ, amen.
+
+## References
 

@@ -16,7 +16,7 @@ own."
 
 This touching declaration reminded me of a similar quotation found in the book
 of Mark: "... Jesus took him by the hand, and lifted him up; and he arose."
-([Mark 9:27](https://www.lds.org/scriptures/nt/mark/9.27?lang=eng#26).)
+([Mark 9:27](/scriptures/nt/mark/9.27?lang=eng#26).)
 
 Certainly the day is here when, if we are to follow in his paths, we must take
 the weary, lonely, depressed, the troubled soul, and the gospel-hungry by the
@@ -31,7 +31,7 @@ respect.
 "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me
 drink: I was a stranger, and ye took me in: Naked, and ye clothed me: I was
 sick, and ye visited me: I was in prison, and ye came unto me." ([Matt.
-25:35-36](https://www.lds.org/scriptures/nt/matt/25.35-36?lang=eng#34).)
+25:35-36](/scriptures/nt/matt/25.35-36?lang=eng#34).)
 
 Today we can appropriately add, "I was down and ye lifted me up. My soul was
 sick and ye comforted me. My steps were unsteady and ye took my hand. I was
@@ -48,15 +48,14 @@ ministry, but real joy and happiness were not always realized. People may be
 healed but not lifted. Happiness does not come from physical, social, or
 economic success. "... a man's life consisteth not in the abundance of the
 things which he possesseth." ([Luke
-12:15](https://www.lds.org/scriptures/nt/luke/12.15?lang=eng#14).)
+12:15](/scriptures/nt/luke/12.15?lang=eng#14).)
 
 Frequently the Savior admonished the physically healed to boast not of their
 new strength, but rather to go their ways, walking in truth and using their
 new powers to lift others. Evidence teaches us many were healed physically but
 remained undisciplined and spiritually ill. "... return unto me, and repent of
 your sins, and be converted, that I may heal you" ([3 Ne.
-9:13](https://www.lds.org/scriptures/bofm/3-ne/9.13?lang=eng#12)), the Savior
-said.
+9:13](/scriptures/bofm/3-ne/9.13?lang=eng#12)), the Savior said.
 
 Healings are not to be made the subject of pride and boasting. Rather,
 healings should be used to lift self and others to greater heights and
@@ -73,7 +72,7 @@ This healing comes through conversion to truth and adherence to correct
 principles. We have the scriptural promise that Christ "shall rise from the
 dead, with healing in his wings; and all those who shall believe on his name
 shall be saved in the kingdom of God. ..." ([2 Ne.
-25:13](https://www.lds.org/scriptures/bofm/2-ne/25.13?lang=eng#12).)
+25:13](/scriptures/bofm/2-ne/25.13?lang=eng#12).)
 
 Spiritual death and spiritual sickness vanish for those who would be healed by
 him and his atoning sacrifice.
@@ -113,8 +112,7 @@ and giving her a lift.
 In this great Church we must try to lift those who need us economically,
 socially, physically, and spiritually as we earnestly link hands with the Lord
 in "this is my work and my glory--to bring to pass the immortality and eternal
-life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 "Now Peter and John went up together into the temple at the hour of prayer,
 being the ninth hour.
@@ -139,12 +137,12 @@ feet and ancle bones received strength.
 walking, and leaping, and praising God.
 
 "And all the people saw him walking and praising God." ([Acts
-3:1-9](https://www.lds.org/scriptures/nt/acts/3.1-9?lang=eng#0).) This
-scripture is used for many purposes, to put over many points, but this morning
-I would just like to say that this man did not know he could walk until Peter
-took him by the hand and lifted him. He didn't realize or believe he could now
-walk and go forth on his own. This initial lift started him on his way. Peter
-was able to lift him because he stood on high ground in God's service.
+3:1-9](/scriptures/nt/acts/3.1-9?lang=eng#0).) This scripture is used for many
+purposes, to put over many points, but this morning I would just like to say
+that this man did not know he could walk until Peter took him by the hand and
+lifted him. He didn't realize or believe he could now walk and go forth on his
+own. This initial lift started him on his way. Peter was able to lift him
+because he stood on high ground in God's service.
 
 In this area of thinking, lifting, and taking by the hand, it seems to me a
 scripture that is often misunderstood and one quoted by President Tanner so
@@ -152,7 +150,7 @@ effectively earlier in this session is this:
 
 "Therefore shall a man leave his father and his mother, and shall cleave unto
 his wife: and they shall be one flesh." ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23).)
+2:24](/scriptures/ot/gen/2.24?lang=eng#23).)
 
 Certainly a now-married man should cleave unto his wife in faithfulness,
 protection, comfort, and total support, but in leaving father, mother, and
@@ -220,8 +218,7 @@ up; and he arose.
 privately, Why could not we cast him out?
 
 "And he said unto them, This kind can come forth by nothing, but by prayer and
-fasting." ([Mark
-9:27-29](https://www.lds.org/scriptures/nt/mark/9.27-29?lang=eng#26).)
+fasting." ([Mark 9:27-29](/scriptures/nt/mark/9.27-29?lang=eng#26).)
 
 I pray our Heavenly Father to help us so live that we may have that inner
 strength and power to take those about us by the hand and lift.
@@ -233,4 +230,6 @@ Munich and thousands of others, has the God-given capacity to take us all by
 the hand and lift us to new heights if we will keep the commandments and
 follow his counsel. To this I declare and testify in the name of Jesus Christ.
 Amen.
+
+## References
 

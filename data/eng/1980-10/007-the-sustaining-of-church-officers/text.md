@@ -84,3 +84,5 @@ It seems, President Kimball, that the voting has been unanimous, with the
 exceptions already noted, in favor of these officers and the General
 Authorities.
 
+## References
+

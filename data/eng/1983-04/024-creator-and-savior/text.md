@@ -4,8 +4,8 @@ Springtime always brings Easter, and Easter turns our minds to Jesus Christ,
 our Savior.
 
 It was He who was born in Bethlehem, the Son of God, the Prince of Peace
-([Isa. 9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5)), who holds
-out the promise of good will to all mankind.
+([Isa. 9:6](/scriptures/ot/isa/9.6?lang=eng#5)), who holds out the promise of
+good will to all mankind.
 
 It was He who gave us the true meaning of Easter through His glorious
 resurrection, with the assurance of everlasting life. Think of it! Everlasting
@@ -13,8 +13,7 @@ life!
 
 When He was born, He was called Jesus because He would save His people from
 their sins. But He also was Immanuel ([Isa.
-7:14](https://www.lds.org/scriptures/ot/isa/7.14?lang=eng#13)), meaning "God
-with us."
+7:14](/scriptures/ot/isa/7.14?lang=eng#13)), meaning "God with us."
 
 How appropriate that name, for He was God, and indeed He came into the world
 to be with us. "God with us"! This He was in fact. He was deity before he was
@@ -33,19 +32,18 @@ Calvary.
 Offerings were burned on the altars of Israel throughout Old Testament times
 in symbolic anticipation of the great sacrifice of Him who was called the
 "Lamb slain from the foundation of the world." ([Rev.
-13:8](https://www.lds.org/scriptures/nt/rev/13.8?lang=eng#7).)
+13:8](/scriptures/nt/rev/13.8?lang=eng#7).)
 
 As Jehovah of the premortal life, Jesus was the central figure in making the
 primeval arrangements for the mortal existence of the human race.
 
 It was He who volunteered to die for us. It was He who gave all honor to our
 Heavenly Father. It was He who became the author of eternal salvation "unto
-all them that obey him." ([Heb.
-5:9](https://www.lds.org/scriptures/nt/heb/5.9?lang=eng#8).)
+all them that obey him." ([Heb. 5:9](/scriptures/nt/heb/5.9?lang=eng#8).)
 
 As the Apostle Peter said, "There is none other name under heaven given among
 men, whereby we must be saved." ([Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11).)
+4:12](/scriptures/nt/acts/4.12?lang=eng#11).)
 
 Much advance preparation was required for His atonement, even before He was
 born in the flesh. For one thing, an earth was required on which we, the
@@ -84,9 +82,9 @@ Could He have manifested Himself physically to His disciples as proof of His
 resurrection?
 
 Would "the other" Mary have been in the garden on that first Easter morning
-([Matt. 28:1](https://www.lds.org/scriptures/nt/matt/28.1?lang=eng#0)) to hear
-the angel say: _"He is not here: for he is risen"?_ ([Matt.
-28:6](https://www.lds.org/scriptures/nt/matt/28.6?lang=eng#5).)
+([Matt. 28:1](/scriptures/nt/matt/28.1?lang=eng#0)) to hear the angel say:
+_"He is not here: for he is risen"?_ ([Matt.
+28:6](/scriptures/nt/matt/28.6?lang=eng#5).)
 
 The special creation of this earth was a vital part of the plan of salvation.
 It had a particular purpose. It was no afterthought. Neither was it an
@@ -100,7 +98,7 @@ This earth was not designed merely as a home for mortals, however. Not at all.
 It has a greater destiny than that. This earth will not remain in its present
 condition. It is to become immortal. It will pass through a refining process
 by which it will become a celestial globe and be like a Urim and Thummim in
-the skies. (See [D&amp;C 130:9](https://www.lds.org/scriptures/dc-
+the skies. (See [D&amp;C 130:9](/scriptures/dc-
 testament/dc/130.9?lang=eng#8).) That will require further acts of divine
 creation, and, of course, ordinary common sense tells us that no spontaneous
 accident could produce a change like that.
@@ -124,26 +122,23 @@ the mighty task.
 
 "All things were made by him; and without him was not anything made that was
 made," said the Apostle John. ([John
-1:3](https://www.lds.org/scriptures/nt/john/1.3?lang=eng#2).)
+1:3](/scriptures/nt/john/1.3?lang=eng#2).)
 
 "By him were all things created, that are in heaven, and that are in earth,
 visible and invisible, whether they be thrones, or dominions, or
 principalities, or powers: all things were created by him, and for him:
 
 "And he is before all things, and by him all things consist." ([Col.
-1:16-17](https://www.lds.org/scriptures/nt/col/1.16-17?lang=eng#15).) So said
-the Apostle Paul.
+1:16-17](/scriptures/nt/col/1.16-17?lang=eng#15).) So said the Apostle Paul.
 
 The Almighty also affirmed it when he told Moses: "Worlds without number have
 I created; and I also created them for mine own purpose; and _by the Son I
 created them, which is mine Only Begotten._" ([Moses
-1:33](https://www.lds.org/scriptures/pgp/moses/1.33?lang=eng#32); italics
-added.)
+1:33](/scriptures/pgp/moses/1.33?lang=eng#32); italics added.)
 
 Christ also taught that He Himself was the Creator. Said He to the Prophet
 Joseph Smith: "Behold, I am Jesus Christ ... who created the heavens and the
-earth." ([D&amp;C 14:9](https://www.lds.org/scriptures/dc-
-testament/dc/14.9?lang=eng#8).)
+earth." ([D&amp;C 14:9](/scriptures/dc-testament/dc/14.9?lang=eng#8).)
 
 One of our most touching and impressive revelations of the Savior is provided
 in the Book of Ether, where the appearance of the Lord to the brother of Jared
@@ -159,8 +154,7 @@ even all men were created in the beginning after mine own image. ...
 "This body, which ye now behold, is the body of my spirit; and _man have I
 created_ after the body of my spirit; and even as I appear unto thee to be in
 the spirit will I appear unto my people in the flesh." ([Ether
-3:14-16](https://www.lds.org/scriptures/bofm/ether/3.14-16?lang=eng#13);
-italics added.)
+3:14-16](/scriptures/bofm/ether/3.14-16?lang=eng#13); italics added.)
 
 There we have it in His own words! The glorious, irrefutable truth! Christ is
 the Creator! Shall we not accept His word in preference to uninspired theories
@@ -194,8 +188,7 @@ than is given in our scriptures?
 
 We even have the word of our Eternal Heavenly Father. He bore testimony that
 Jesus Christ is His Beloved Son and in addition declared that He is very well
-pleased with Him. (See [Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+pleased with Him. (See [Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 He not only affirmed that Christ created the worlds, but, after each step in
 creation, did He not say that the work was well done?
@@ -203,31 +196,27 @@ creation, did He not say that the work was well done?
 When the waters and the firmament were put in position, "God saw that it was
 good." When life was placed on the earth, "God saw that it was good," and when
 creation was finished, "God saw everything that he had made, and, behold, _it
-was very good._" (See [Gen.
-1:10-31](https://www.lds.org/scriptures/ot/gen/1.10-31?lang=eng#9); italics
-added.)
+was very good._" (See [Gen. 1:10-31](/scriptures/ot/gen/1.10-31?lang=eng#9);
+italics added.)
 
 The Father is a God of truth, and He said that the Savior is "full of grace
-and truth." ([Moses
-1:6](https://www.lds.org/scriptures/pgp/moses/1.6?lang=eng#5).) Then dare we
+and truth." ([Moses 1:6](/scriptures/pgp/moses/1.6?lang=eng#5).) Then dare we
 disbelieve Him or reject His words? The Savior did the work of creation, and
 the Father was well pleased with Him! Then should we not be pleased to accept
 Him and serve Him?
 
 The Father repeatedly expressed His satisfaction with the ministry of His Son.
 Did He not so speak at the baptism of Christ? "This is my beloved Son, _in
-whom I am well pleased._" ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16); italics
-added.)
+whom I am well pleased._" ([Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16);
+italics added.)
 
 Did He not repeat it on the Mount of Transfiguration? "This is my beloved Son,
 _in whom I am well pleased._" ([Matt.
-17:5](https://www.lds.org/scriptures/nt/matt/17.5?lang=eng#4); italics added.)
+17:5](/scriptures/nt/matt/17.5?lang=eng#4); italics added.)
 
 Did He not introduce the Savior to the Nephites with the same expression?
 "Behold my Beloved Son, _in whom I am well pleased._" ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6); italics
-added.)
+11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6); italics added.)
 
 And when He appeared to the boy Joseph Smith, did He not give His Beloved Son
 another positive endorsement?
@@ -254,7 +243,7 @@ heavy laden, and I will give you rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 When He was born the angels sang.
 
@@ -276,4 +265,6 @@ testimony to the world.
 Yes, today is Easter, and to us Easter means Christ--the resurrected Christ,
 the Son of God, our Creator and our Redeemer. In the name of Jesus Christ,
 amen.
+
+## References
 

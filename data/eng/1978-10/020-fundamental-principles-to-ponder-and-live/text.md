@@ -15,28 +15,27 @@ In following up on that event, I want to counsel you as sons, brothers,
 fathers, and husbands. As you serve with the women of the Church, follow what
 Paul said when he urged Timothy to "intreat ... the elder women as mothers; the
 younger as sisters, with all purity" ([1 Tim.
-5:1-2](https://www.lds.org/scriptures/nt/1-tim/5.1-2?lang=eng#0)). We men of
-the priesthood ought to so do. We must be different than other men, and I am
-sure most priesthood holders are. Paul's suggestion that we treat older women
-as if they were our mothers and younger women as if they were our sisters and
-to do so with "all purity" is excellent instruction. Men of the world may
-disregard women or see them only as objects of desire or as someone to be used
-for selfish purposes. Let us, however, be different in our conduct and in our
-relationships with women.
+5:1-2](/scriptures/nt/1-tim/5.1-2?lang=eng#0)). We men of the priesthood ought
+to so do. We must be different than other men, and I am sure most priesthood
+holders are. Paul's suggestion that we treat older women as if they were our
+mothers and younger women as if they were our sisters and to do so with "all
+purity" is excellent instruction. Men of the world may disregard women or see
+them only as objects of desire or as someone to be used for selfish purposes.
+Let us, however, be different in our conduct and in our relationships with
+women.
 
 Peter urged us to give honor unto our wives. (See [1 Pet.
-3:7](https://www.lds.org/scriptures/nt/1-pet/3.7?lang=eng#6).) It seems to me
-we should be even more courteous to our wives and mothers, our sisters and our
-daughters, than we are to others. When Paul said that a man who did not
-_provide_ for his own and those of his own household was "worse than an
-infidel" ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7)), I like to think
-of providing for our own as including providing them with affectional security
-as well as economic security. When the Lord told us in this dispensation that
-"women have claim on their husbands for their maintenance" ([D&amp;C
-83:2](https://www.lds.org/scriptures/dc-testament/dc/83.2?lang=eng#1)), I like
-to think of _maintenance_ as including our obligation to maintain loving
-affection and to provide consideration and thoughtfulness as well as food.
+3:7](/scriptures/nt/1-pet/3.7?lang=eng#6).) It seems to me we should be even
+more courteous to our wives and mothers, our sisters and our daughters, than
+we are to others. When Paul said that a man who did not _provide_ for his own
+and those of his own household was "worse than an infidel" ([1 Tim.
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7)), I like to think of providing for
+our own as including providing them with affectional security as well as
+economic security. When the Lord told us in this dispensation that "women have
+claim on their husbands for their maintenance" ([D&amp;C 83:2](/scriptures/dc-
+testament/dc/83.2?lang=eng#1)), I like to think of _maintenance_ as including
+our obligation to maintain loving affection and to provide consideration and
+thoughtfulness as well as food.
 
 President Lee once observed that the "needy" around us may need friendship and
 fellowship as well as food. I sometimes think our own Latter-day Saint women
@@ -71,7 +70,7 @@ green herb for meat: and it was so.
 
 "And God saw every thing that he had made, and, behold, it was very good. And
 the evening and the morning were the sixth day." ([Gen. 1:20,
-29-31](https://www.lds.org/scriptures/ot/gen/1.20%2C29-31?lang=eng#19).)
+29-31](/scriptures/ot/gen/1.20,29-31?lang=eng#19).)
 
 I read at the priesthood meeting at the last conference the words to the verse
 of the song years ago, "Don't Kill the Little Birds," with which I was
@@ -321,4 +320,6 @@ my deep interest and great prayer to you that this will be accomplished.
 And now in closing, I wish to express appreciation for all that has been said
 by these beloved brethren who have spoken. I bear my testimony to the truth of
 the gospel and to the greatness of it, in the name of Jesus Christ. Amen.
+
+## References
 

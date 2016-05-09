@@ -166,3 +166,55 @@ you for your service. I testify that each temple is God's holy, sacred house
 and that therein each of us may learn and know the powers of godliness, in the
 name of Jesus Christ, amen.
 
+## References
+
+  1. _Teachings of Presidents of the Church: __Joseph Smith_ (2007), 416; emphasis added.
+
+  2. [Doctrine and Covenants 124:34](https://www.lds.org/scriptures/dc-testament/dc/124.34?lang=eng#33).
+
+  3. [Doctrine and Covenants 84:20](https://www.lds.org/scriptures/dc-testament/dc/84.20?lang=eng#19).
+
+  4. See [Mark 4:20, 24-25](https://www.lds.org/scriptures/nt/mark/4.20,24-25?lang=eng#19).
+
+  5. [Doctrine and Covenants 71:6](https://www.lds.org/scriptures/dc-testament/dc/71.6?lang=eng#5).
+
+  6. See [Doctrine and Covenants 84:38](https://www.lds.org/scriptures/dc-testament/dc/84.38?lang=eng#37): "And he that receiveth my Father receiveth my Father's kingdom; therefore all that my Father hath shall be given unto him." These are the promises associated with the covenants in the temple ordinances; see also [Doctrine and Covenants 132:20-24](https://www.lds.org/scriptures/dc-testament/dc/132.20-24?lang=eng#19).
+
+  7. See [Doctrine and Covenants 39:4](https://www.lds.org/scriptures/dc-testament/dc/39.4?lang=eng#3); see also [Doctrine and Covenants 45:8](https://www.lds.org/scriptures/dc-testament/dc/45.8?lang=eng#7); [Moses 6:65-68](https://www.lds.org/scriptures/pgp/moses/6.65-68?lang=eng#64).
+
+  8. [Doctrine and Covenants 121:36](https://www.lds.org/scriptures/dc-testament/dc/121.36?lang=eng#35).
+
+  9. See [Doctrine and Covenants 1:20](https://www.lds.org/scriptures/dc-testament/dc/1.20?lang=eng#19): "But that every man might speak in the name of God the Lord, even the Savior of the world."
+
+  10. [Doctrine and Covenants 29:30](https://www.lds.org/scriptures/dc-testament/dc/29.30?lang=eng#29).
+
+  11. [1 Nephi 14:14](https://www.lds.org/scriptures/bofm/1-ne/14.14?lang=eng#13); emphasis added.
+
+  12. See Russell M. Nelson, "[Personal Preparation for Temple Blessings](https://www.lds.org/general-conference/2001/04/personal-preparation-for-temple-blessings?lang=eng),"_ Ensign,_ May 2001, 32;_ Liahona, _July 2001, 37.
+
+  13. [Doctrine and Covenants 138:58](https://www.lds.org/scriptures/dc-testament/dc/138.58?lang=eng#57); see also [verses 53-54](https://www.lds.org/scriptures/dc-testament/dc/138.53-54?lang=eng#52).
+
+  14. _Teachings: Joseph Smith, _415.
+
+  15. [Revelation 7:13-15](https://www.lds.org/scriptures/nt/rev/7.13-15?lang=eng#12).
+
+  16. Gordon B. Hinckley, "[Some Thoughts on Temples, Retention of Converts, and Missionary Service](https://www.lds.org/general-conference/1997/10/some-thoughts-on-temples-retention-of-converts-and-missionary-service?lang=eng)," _Ensign,_ Nov. 1997, 49.
+
+  17. John A. Widtsoe, "Temple Worship," _Utah Genealogical and Historical Magazine, _Apr. 1921, 51-52.
+
+  18. Personal correspondence from President Brent Belliston, Boise Idaho Temple.
+
+  19. Personal correspondence.
+
+  20. Russell M. Nelson, "[The Spirit of Elijah](https://www.lds.org/general-conference/1994/10/the-spirit-of-elijah?lang=eng),"_ Ensign, _Nov. 1994, 86.
+
+  21. "Discourse by President Wilford Woodruff," _Millennial Star, _May 14, 1896, 307.
+
+  22. _Teachings of Presidents of the Church: Wilford Woodruff _(2004), xxx.
+
+  23. _Teachings: Wilford Woodruff,_ 177.
+
+  24. Thomas S. Monson, "[Blessings of the Temple](https://www.lds.org/general-conference/2015/04/blessings-of-the-temple?lang=eng),"_ Ensign_ or _Liahona,_ May 2015, 93.
+
+  25. Thomas S. Monson, "[The Holy Temple--a Beacon to the World](https://www.lds.org/general-conference/2011/04/the-holy-temple-a-beacon-to-the-world?lang=eng),"_ Ensign _or _Liahona, _May 2011, 92.
+

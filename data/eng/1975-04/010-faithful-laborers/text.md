@@ -15,8 +15,8 @@ labor of his hands, to prepare and accomplish the things which I have
 commanded.
 
 "And let your preaching be the warning voice, every man to his neighbor, in
-mildness and in meekness." ([D&amp;C 38:40-41](https://www.lds.org/scriptures
-/dc-testament/dc/38.40-41?lang=eng#39).)
+mildness and in meekness." ([D&amp;C 38:40-41](/scriptures/dc-
+testament/dc/38.40-41?lang=eng#39).)
 
 Every family in the Church is asked to friendship a nonmember family on a
 family-to-family basis.
@@ -37,7 +37,7 @@ is at hand; crying: Hosanna! blessed be the name of the Most High God.
 of my coming;
 
 "For the time is at hand; the day or the hour no man knoweth; but it surely
-shall come." ([D&amp;C 39:17-21](https://www.lds.org/scriptures/dc-
+shall come." ([D&amp;C 39:17-21](/scriptures/dc-
 testament/dc/39.17-21?lang=eng#16). Italics added.)
 
 It is this last point I would like to enlarge upon. I had the honor recently
@@ -187,4 +187,6 @@ be taken care of by relatives while he finished his service to the Lord.
 Is it not time that we listen to a prophet's voice? Is it not time that we
 lengthen our stride? Is it not time that we teach the gospel of the kingdom to
 the world, to our neighbor? In the name of Jesus Christ. Amen.
+
+## References
 

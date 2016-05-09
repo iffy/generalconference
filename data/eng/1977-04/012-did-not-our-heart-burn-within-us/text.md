@@ -10,9 +10,8 @@ and Charles Wandell, who arrived in Sydney on October 30, 1851. Brother
 Murdock was fifty-nine years of age at the time and was one of the early
 stalwarts of the Church. He was in the first group to be ordained high priests
 by Joseph Smith. He was called on two of his missions by revelations which are
-in the Doctrine and Covenants. (See [D&amp;C
-52:8](https://www.lds.org/scriptures/dc-testament/dc/52.8?lang=eng#7);
-[D&amp;C 99:1](https://www.lds.org/scriptures/dc-
+in the Doctrine and Covenants. (See [D&amp;C 52:8](/scriptures/dc-
+testament/dc/52.8?lang=eng#7); [D&amp;C 99:1](/scriptures/dc-
 testament/dc/99.1?lang=eng#0).) His wife died, leaving him twins only six
 hours old. These were the twins that the Prophet Joseph Smith received into
 his home to raise.
@@ -60,8 +59,7 @@ God.
 
 "And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for
 flesh and blood hath not revealed it unto thee, but my Father which is in
-heaven." ([Matt
-16:13-17](https://www.lds.org/scriptures/nt/matt/16.13-17?lang=eng#12).)
+heaven." ([Matt 16:13-17](/scriptures/nt/matt/16.13-17?lang=eng#12).)
 
 Although Peter walked and talked with the Savior and had observed many of his
 miracles, yet when he said, "Thou art the Christ, the Son of the living God,"
@@ -79,8 +77,7 @@ Savior himself came and walked and talked with them, but they did "not know
 him" until right at the very end when their eyes were opened and they knew
 him. Verse 32 says: "And they said one to another, did not our heart burn
 within us, while he talked with us by the way, and while he opened to us the
-scriptures?" [[Luke
-24:32](https://www.lds.org/scriptures/nt/luke/24.32?lang=eng#31)]
+scriptures?" [[Luke 24:32](/scriptures/nt/luke/24.32?lang=eng#31)]
 
 With all the logic and outward evidences of the truthfulness of the gospel, it
 still comes down to the witness of the Spirit.
@@ -95,7 +92,7 @@ He says in the ninth section of the Doctrine and Covenants simply: "But,
 behold, I say unto you, that you must study it out in your mind; then you must
 ask me if it be right, and if it is right I will cause that your bosom shall
 burn within you; therefore, you shall feel that it is right." ([D&amp;C
-9:8](https://www.lds.org/scriptures/dc-testament/dc/9.8?lang=eng#7).)
+9:8](/scriptures/dc-testament/dc/9.8?lang=eng#7).)
 
 The words "you shall feel that it is right" refer to a feeling of peace and
 warmth, a feeling that touches the soul. For an investigator of the truth,
@@ -160,4 +157,6 @@ Christ is his Son. This is not my philosophy; this is not my belief. This is a
 knowledge borne by the Spirit. This Church is true. Joseph Smith was a prophet
 of God. Spencer W. Kimball is a prophet of God today. We are in the Lord's
 service. In the name of Jesus Christ, amen.
+
+## References
 

@@ -55,7 +55,7 @@ be opened unto you:
 
 "For every one that asketh receiveth; and he that seeketh findeth; and to him
 that knocketh it shall be opened." ([Matt.
-7:7-8](https://www.lds.org/scriptures/nt/matt/7.7-8?lang=eng#6).)
+7:7-8](/scriptures/nt/matt/7.7-8?lang=eng#6).)
 
 This seems to be an admonition to search with determination and make earnest
 inquiry for truth. It is as applicable to religion as it is to science--the
@@ -97,10 +97,10 @@ must have faith. This becomes the starting point. Faith has been defined in
 many ways, but the most classic definition was given by the author of the
 letter to the Hebrews in these meaningful words: "Now faith is the substance
 of things hoped for, the evidence of things not seen." ([Heb.
-11:1](https://www.lds.org/scriptures/nt/heb/11.1?lang=eng#0).) In other words,
-faith makes us confident of what we hope for and convinced of what we do not
-see. The scientist does not see molecules, atoms, or electrons, yet he knows
-they exist. He does not see electricity, radiation, or magnetism, but he knows
+11:1](/scriptures/nt/heb/11.1?lang=eng#0).) In other words, faith makes us
+confident of what we hope for and convinced of what we do not see. The
+scientist does not see molecules, atoms, or electrons, yet he knows they
+exist. He does not see electricity, radiation, or magnetism, but he knows
 these are unseen realities. In like manner, those who earnestly seek for God
 do not see him, but they know of his reality by faith. It is more than hope.
 Faith makes it a conviction--an evidence of things not seen.
@@ -108,35 +108,34 @@ Faith makes it a conviction--an evidence of things not seen.
 The author of the letter to the Hebrews continues: "Through faith we
 understand that the worlds were framed by the word of God, so that things
 which are seen were not made of things which do appear." ([Heb.
-11:3](https://www.lds.org/scriptures/nt/heb/11.3?lang=eng#2).) Faith is here
-described as believing or having the conviction that the world was created by
-the word of God. Witnesses cannot be produced to prove this fact, but faith
-gives the knowledge that what we see in the wonders of the earth and in all
-nature was created by God. It is just as reasonable to believe in an unseen
-God, in a literal resurrection, or in the miracles of the things pertaining to
-the spiritual as it is to believe in some of the discoveries in the field of
-the physical sciences. Faith is the primary tool in the realm of religion, and
-it is also the tool of the scientist.
+11:3](/scriptures/nt/heb/11.3?lang=eng#2).) Faith is here described as
+believing or having the conviction that the world was created by the word of
+God. Witnesses cannot be produced to prove this fact, but faith gives the
+knowledge that what we see in the wonders of the earth and in all nature was
+created by God. It is just as reasonable to believe in an unseen God, in a
+literal resurrection, or in the miracles of the things pertaining to the
+spiritual as it is to believe in some of the discoveries in the field of the
+physical sciences. Faith is the primary tool in the realm of religion, and it
+is also the tool of the scientist.
 
 Christ, during his ministry, explained the manner in which one could know the
 truth about God. He said, "If any man will do his will, he shall know of the
 doctrine, whether it be of God, or whether I speak of myself." ([John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).) The Master
-also explained the will of the Father and the great commandment in this
-manner: "Thou shalt love the Lord thy God with all thy heart, and with all thy
-soul, and with all thy mind." ([Matt.
-22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36).) Those who
-will strive to do God's will and keep his commandments will receive personal
+7:17](/scriptures/nt/john/7.17?lang=eng#16).) The Master also explained the
+will of the Father and the great commandment in this manner: "Thou shalt love
+the Lord thy God with all thy heart, and with all thy soul, and with all thy
+mind." ([Matt. 22:37](/scriptures/nt/matt/22.37?lang=eng#36).) Those who will
+strive to do God's will and keep his commandments will receive personal
 revelation as to the divinity of the Lord's work in bearing testimony of the
 Father.
 
 To those who desire understanding, the words of James explain how it may be
 obtained: "If any of you lack wisdom, let him ask of God, that giveth to all
 men liberally, and upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) It doesn't
-appear that James was referring to factual knowledge in the sense of science,
-but rather to the revelation that comes from on high which answers men's
-questions as the result of following this admonition to pray.
+1:5](/scriptures/nt/james/1.5?lang=eng#4).) It doesn't appear that James was
+referring to factual knowledge in the sense of science, but rather to the
+revelation that comes from on high which answers men's questions as the result
+of following this admonition to pray.
 
 Listen carefully to these words of the Lord: "I, the Lord, am merciful and
 gracious unto those who fear me, and delight to honor those who serve me in
@@ -159,14 +158,14 @@ prudent shall come to naught.
 "For by my Spirit will I enlighten them, and by my power will I make known
 unto them the secrets of my will--yea, even those things which eye has not
 seen, nor ear heard, nor yet entered into the heart of man." ([D&amp;C
-76:5-10](https://www.lds.org/scriptures/dc-testament/dc/76.5-10?lang=eng#4).)
+76:5-10](/scriptures/dc-testament/dc/76.5-10?lang=eng#4).)
 
 Thus we have the formula for the search for God and the tools to accomplish
 the quest--faith, love, and prayer. Science has done marvelous things for man,
 but it cannot accomplish the things he must do for himself, the greatest of
 which is to find the reality of God. The task is not easy; the labor is not
 light; but as stated by the Master, "Great shall be their reward and eternal
-shall be their glory." ([D&amp;C 76:6](https://www.lds.org/scriptures/dc-
+shall be their glory." ([D&amp;C 76:6](/scriptures/dc-
 testament/dc/76.6?lang=eng#5).)
 
 I have a positive conviction that God is a reality--that he lives. He is our
@@ -180,4 +179,6 @@ everlasting to all men. May the Lord bless us with the desire for an upward
 reach to the spiritual--to know God, to find him, and to have the
 determination to serve him and keep his commandments. This is my humble prayer
 in the name of Jesus Christ. Amen.
+
+## References
 

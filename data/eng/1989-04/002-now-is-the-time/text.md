@@ -11,8 +11,7 @@ us must stand before our Redeemer _alone_ and account for what we have done.
 We must assume responsibility for our actions. Jacob wrote, "Now, my beloved
 brethren, ... according to the _responsibility_ which I am under to God, to
 magnify mine office with soberness, [I] declare unto you the word of God."
-([Jacob 2:2](https://www.lds.org/scriptures/bofm/jacob/2.2?lang=eng#1);
-italics added.)
+([Jacob 2:2](/scriptures/bofm/jacob/2.2?lang=eng#1); italics added.)
 
 Of course, heartache and pain can be spilled upon us by dishonest,
 manipulative, or unkind people. Accidents happen that can inflict terrible
@@ -23,13 +22,13 @@ is not responsible.
 Why should we demand or even want another to provide what we need if we can
 furnish it ourselves? Father Lehi taught, "Wherefore, the Lord God gave unto
 man that he should act for himself." ([2 Ne.
-2:16](https://www.lds.org/scriptures/bofm/2-ne/2.16?lang=eng#15).)
+2:16](/scriptures/bofm/2-ne/2.16?lang=eng#15).)
 
 However, too many look to the government, the Church, or some other
 institution to carry them. Why do we not resolve to take responsibility for
 our own actions and thoughts? "Choose ye this day, whom ye will serve." ([Alma
-30:8](https://www.lds.org/scriptures/bofm/alma/30.8?lang=eng#7); see also
-[Josh. 24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+30:8](/scriptures/bofm/alma/30.8?lang=eng#7); see also [Josh.
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 It is entirely appropriate to depend upon others for some of what we need.
 There is no substitute for loving and supportive parents, priesthood and
@@ -231,4 +230,6 @@ or our circumstances for what might disturb us.
 It is time to take responsibility for ourselves.
 
 To these things I testify, in the name of Jesus Christ, our Savior, amen.
+
+## References
 

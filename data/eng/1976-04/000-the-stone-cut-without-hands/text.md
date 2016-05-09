@@ -197,7 +197,7 @@ of time--take next year to pay.
 
 In 1830, in Doctrine and Covenants 19:35, the Lord gave a revelation to Martin
 Harris: "Pay the debt thou hast contracted with the printer. Release thyself
-from bondage." [[D&amp;C 19:35](https://www.lds.org/scriptures/dc-
+from bondage." [[D&amp;C 19:35](/scriptures/dc-
 testament/dc/19.35?lang=eng#34)]
 
 "A man who will run into debt, when he has no prospect of paying it back
@@ -229,7 +229,7 @@ We talked to you last conference about a carefully planned budget for every
 family. Such will save many family quarrels and much misunderstanding.
 
 "And why call ye me, Lord, Lord, and do not the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).)
+6:46](/scriptures/nt/luke/6.46?lang=eng#45).)
 
 This, a question from the Lord himself, is very strong and important to us.
 
@@ -238,12 +238,12 @@ conference to conference. As I study the utterances of the prophets through
 the centuries, their pattern is very clear. We seek, in the words of Alma, to
 teach people "an everlasting hatred against sin and iniquity." We preach
 "repentance, and faith on the Lord Jesus Christ." ([Alma 37:32,
-33](https://www.lds.org/scriptures/bofm/alma/37.32%2C33?lang=eng#31).) We
-praise humility. We seek to teach people "to withstand every temptation of the
-devil, with their faith on the Lord Jesus Christ." ([Alma
-37:33](https://www.lds.org/scriptures/bofm/alma/37.33?lang=eng#32).) We teach
-our people "to never be weary of good works." ([Alma
-37:34](https://www.lds.org/scriptures/bofm/alma/37.34?lang=eng#33).)
+33](/scriptures/bofm/alma/37.32,33?lang=eng#31).) We praise humility. We seek
+to teach people "to withstand every temptation of the devil, with their faith
+on the Lord Jesus Christ." ([Alma
+37:33](/scriptures/bofm/alma/37.33?lang=eng#32).) We teach our people "to
+never be weary of good works." ([Alma
+37:34](/scriptures/bofm/alma/37.34?lang=eng#33).)
 
 Prophets say the same things because we face basically the same problems.
 Brothers and sisters, the solutions to these problems have not changed. It
@@ -295,7 +295,7 @@ religion claiming succession from those who shared Christ's earthly ministry;
 nor is it a Protestant religion. It is a divine restoration of Christ's
 earthly kingdom, organized, as was his primitive church, with "apostles,
 prophets, pastors, teachers, evangelists, etc." ([A of F
-1:6](https://www.lds.org/scriptures/pgp/a-of-f/1.6?lang=eng#5).)
+1:6](/scriptures/pgp/a-of-f/1.6?lang=eng#5).)
 
 In your study of this restored church, you will find herein the divinely
 restored powers and authorities of the holy priesthood. By this divine
@@ -340,8 +340,7 @@ me.
 
 "Wherefore, come ye unto it, and with him that cometh I will reason as with
 men in days of old, and I will show unto you my strong reasoning." ([D&amp;C
-45:1-3, 9, 10](https://www.lds.org/scriptures/dc-
-testament/dc/45.1-3%2C9%2C10?lang=eng#0).)
+45:1-3, 9, 10](/scriptures/dc-testament/dc/45.1-3,9,10?lang=eng#0).)
 
 This is the restored church. This is the kingdom of God upon the earth, for it
 is Jesus Christ who organized this kingdom.
@@ -359,7 +358,7 @@ and his people.
 "And in all matters of wisdom," the scripture says, "and understanding, that
 the king inquired of them, he found them ten times better than all the
 magicians and astrologers that were in all his realm." ([Dan.
-1:20](https://www.lds.org/scriptures/ot/dan/1.20?lang=eng#19).)
+1:20](/scriptures/ot/dan/1.20?lang=eng#19).)
 
 King Nebuchadnezzar had a dream which he required his magicians and
 astrologers and sorcerers to reproduce and then to interpret. The penalty for
@@ -376,7 +375,7 @@ Daniel, would interpret the dream. And then he says:
 
 "Then was the secret revealed unto Daniel in a night vision. Then Daniel
 blessed the God of heaven." ([Dan.
-2:19](https://www.lds.org/scriptures/ot/dan/2.19?lang=eng#18).)
+2:19](/scriptures/ot/dan/2.19?lang=eng#18).)
 
 And Daniel, the inspired one, praised the Lord and said:
 
@@ -391,7 +390,7 @@ and the light dwelleth with him.
 
 "I thank thee, and praise thee, O thou God of my fathers, who hast given me
 wisdom and might, and hast made known unto me now what we desired of thee."
-([Dan. 2:20-23](https://www.lds.org/scriptures/ot/dan/2.20-23?lang=eng#19).)
+([Dan. 2:20-23](/scriptures/ot/dan/2.20-23?lang=eng#19).)
 
 And now with a knowledge of the future as revealed, Daniel begged for the
 lives of the soothsayers and the wise.
@@ -399,15 +398,14 @@ lives of the soothsayers and the wise.
 Taken before the king, he was asked,
 
 "Art thou able to make known unto me the dream which I have seen, and the
-interpretation thereof?" ([Dan.
-2:26](https://www.lds.org/scriptures/ot/dan/2.26?lang=eng#25).)
+interpretation thereof?" ([Dan. 2:26](/scriptures/ot/dan/2.26?lang=eng#25).)
 
 And Daniel said the king's secret could not be interpreted and revealed by the
 wise men, the astrologers, the magicians, and the soothsayers of the king:
 
 "But there is a God in heaven that revealeth secrets, and maketh known to the
 king Nebuchadnezzar what shall be in the latter days." ([Dan.
-2:28](https://www.lds.org/scriptures/ot/dan/2.28?lang=eng#27).)
+2:28](/scriptures/ot/dan/2.28?lang=eng#27).)
 
 Daniel said to the king that his dream was a portrayal of the history of the
 world. Then came the picture of the great image with head of fine gold, and
@@ -416,13 +414,13 @@ and feet of iron and clay. Then the revelation continued:
 
 "Thou sawest till that a stone was cut out without hands, which smote the
 image upon his feet that were of iron and clay, and brake them to pieces."
-([Dan. 2:34](https://www.lds.org/scriptures/ot/dan/2.34?lang=eng#33).)
+([Dan. 2:34](/scriptures/ot/dan/2.34?lang=eng#33).)
 
 And the various elements of which the image was made were broken into pieces
 and "became like the chaff of the summer threshing floors; and the wind
 carried them away." The wind had carried away the destroyed elements, "and the
 stone that smote the image became a great mountain, and filled the whole
-earth." ([Dan. 2:35](https://www.lds.org/scriptures/ot/dan/2.35?lang=eng#34).)
+earth." ([Dan. 2:35](/scriptures/ot/dan/2.35?lang=eng#34).)
 
 Then came the interpretation.
 
@@ -449,8 +447,7 @@ consume all these kingdoms, and it shall stand for ever.
 hands, and that it brake in pieces the iron, the brass, the clay, the silver,
 and the gold; the great God hath made known to the king what shall come to
 pass hereafter: and the dream is certain, and the interpretation thereof
-sure." ([Dan.
-2:44-45](https://www.lds.org/scriptures/ot/dan/2.44-45?lang=eng#43).)
+sure." ([Dan. 2:44-45](/scriptures/ot/dan/2.44-45?lang=eng#43).)
 
 This is a revelation concerning the history of the world, when one world power
 would supersede another until there would be numerous smaller kingdoms to
@@ -499,8 +496,7 @@ continues:
 me bound. When the light rested upon me I saw two Personages, whose brightness
 and glory defy all description, standing above me in the air. One of them
 spake unto me, calling me by name and said, pointing to the other--This is My
-Beloved Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+Beloved Son. Hear Him!" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 This formal introduction by the Father to the Son was most important, for this
 would be the world of Jesus Christ and the Church of Jesus Christ and the
@@ -537,8 +533,7 @@ The organizers of the Church were told by the Lord:
 
 "No one shall be appointed to receive commandments and revelations in this
 church excepting my servant Joseph Smith, Jun., for he receiveth them even as
-Moses." ([D&amp;C 28:2](https://www.lds.org/scriptures/dc-
-testament/dc/28.2?lang=eng#1).)
+Moses." ([D&amp;C 28:2](/scriptures/dc-testament/dc/28.2?lang=eng#1).)
 
 And the prophet Moroni appeared unto Joseph and spent long hours explaining
 the peopling of the American continents by the Lehites and also the Book of
@@ -572,8 +567,7 @@ earth, and numerous people of all nationalities and tongues are accepting the
 gospel in many nations, and the Church and kingdom grow and develop, and we
 say to you and testify to you that it shall, in Daniel's words, "never be
 destroyed; and the kingdom shall not be left to other people ... but it shall
-stand forever." ([Dan.
-2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43).)
+stand forever." ([Dan. 2:44](/scriptures/ot/dan/2.44?lang=eng#43).)
 
 Numerous revelations have made clear to the members that eternal life, which
 is their goal, is available by having the ordinances performed and then by
@@ -588,9 +582,11 @@ cut out of a mountain without hands. I know it will fill the earth as
 prophesied and commanded by the Savior Jesus Christ when, in his last moments
 on earth, he said to his eleven apostles, "Go ye into all the world and preach
 the gospel to every creature"--to every nation, kindred, tongue, and people.
-(See [Mark 16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14).)
-I know it is true from the birth of Adam to the days of Daniel to the days of
-Joseph Smith and to this day. I know it is true and divine. We offer it to you
-without price. We promise to you life eternal if you will follow its precepts
-strictly. And I bear this witness to you in the name of Jesus Christ. Amen.
+(See [Mark 16:15](/scriptures/nt/mark/16.15?lang=eng#14).) I know it is true
+from the birth of Adam to the days of Daniel to the days of Joseph Smith and
+to this day. I know it is true and divine. We offer it to you without price.
+We promise to you life eternal if you will follow its precepts strictly. And I
+bear this witness to you in the name of Jesus Christ. Amen.
+
+## References
 

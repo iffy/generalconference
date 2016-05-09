@@ -100,10 +100,9 @@ Father--infinitely so--he also is a just God. And do you recall what he wants
 of us?
 
 He hopes that we will all become like him, just as the Savior commanded in his
-Sermon on the Mount. (See [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).) As the
-children of God, we have within us the full capability of becoming like him.
-Isn't it natural for children to become like their parents? But we can't
+Sermon on the Mount. (See [Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47).)
+As the children of God, we have within us the full capability of becoming like
+him. Isn't it natural for children to become like their parents? But we can't
 become like him merely through wishful thinking, nor even by being what we
 ourselves may call good.
 
@@ -135,7 +134,7 @@ Savior to the Nephites:
 "Come unto me and be ye saved; for verily I say unto you, that except ye shall
 keep my commandments, which I have commanded you at this time, ye shall in no
 case enter into the kingdom of heaven." ([3 Ne.
-12:20](https://www.lds.org/scriptures/bofm/3-ne/12.20?lang=eng#19).)
+12:20](/scriptures/bofm/3-ne/12.20?lang=eng#19).)
 
 Stop and think what those words can mean to you and your family. Study them.
 Ponder over them. They are most serious--"except ye shall keep my
@@ -144,14 +143,13 @@ enter into the kingdom of heaven."
 
 In the early history of our church the Savior gave a revelation in which he
 said essentially the same thing: "Keep my commandments continually. ... And
-except thou do this, where I am you cannot come." ([D&amp;C
-25:15](https://www.lds.org/scriptures/dc-testament/dc/25.15?lang=eng#14).)
+except thou do this, where I am you cannot come." ([D&amp;C 25:15](/scriptures
+/dc-testament/dc/25.15?lang=eng#14).)
 
 Kenneth, you have received the priesthood. To those who are thus ordained the
 Lord gives great promises for the future, but he sets up a condition in these
 words: "You shall live by every word that proceedeth forth from the mouth of
-God." ([D&amp;C 84:44](https://www.lds.org/scriptures/dc-
-testament/dc/84.44?lang=eng#43).)
+God." ([D&amp;C 84:44](/scriptures/dc-testament/dc/84.44?lang=eng#43).)
 
 Don't you see that if we are going to spend eternity with the Lord, we have to
 earn that privilege by doing what he asks of us? If we are going to spend
@@ -173,23 +171,21 @@ We cannot be halfhearted about it either. We must serve him with all our
 heart, might, mind, and soul. And we must remember too that being active in
 the Church is a part of his gospel. The Lord said emphatically: "Every person
 who belongeth to this church of Christ, shall observe to keep all the
-commandments and covenants of the church." ([D&amp;C
-42:78](https://www.lds.org/scriptures/dc-testament/dc/42.78?lang=eng#77).)
+commandments and covenants of the church." ([D&amp;C 42:78](/scriptures/dc-
+testament/dc/42.78?lang=eng#77).)
 
 We are told that we shall reap as we sow. This is the law of the harvest. If
 we sow wheat on our farms here on earth, we grow wheat. If, in our character
 building, we sow the seeds of righteousness, we shall reap that kind of
 harvest. So as the Lord himself said: "Whatsoever ye sow, that shall ye also
 reap; therefore, if ye sow good ye shall also reap good for your reward."
-([D&amp;C 6:33](https://www.lds.org/scriptures/dc-
-testament/dc/6.33?lang=eng#32).)
+([D&amp;C 6:33](/scriptures/dc-testament/dc/6.33?lang=eng#32).)
 
 It works out like this, for example: The Lord said, "If ye forgive men their
 trespasses, your heavenly Father will also forgive you." ([Matt.
-6:14](https://www.lds.org/scriptures/nt/matt/6.14?lang=eng#13).) And he added:
-"With what judgment ye judge, ye shall be judged: and with what measure ye
-mete, it shall be measured to you again." ([Matt.
-7:2](https://www.lds.org/scriptures/nt/matt/7.2?lang=eng#1).)
+6:14](/scriptures/nt/matt/6.14?lang=eng#13).) And he added: "With what
+judgment ye judge, ye shall be judged: and with what measure ye mete, it shall
+be measured to you again." ([Matt. 7:2](/scriptures/nt/matt/7.2?lang=eng#1).)
 
 In other words, if we here and now plan for family togetherness in the
 hereafter, when we arrive there we shall have it. But if we make no effort in
@@ -283,10 +279,11 @@ The Savior's promise is great if we do, for he said:
 "He that receiveth me receiveth my Father;
 
 "And he that receiveth my Father receiveth my Father's kingdom; therefore all
-that my Father hath shall be given unto him." ([D&amp;C
-84:37-38](https://www.lds.org/scriptures/dc-
-testament/dc/84.37-38?lang=eng#36).)
+that my Father hath shall be given unto him." ([D&amp;C 84:37-38](/scriptures
+/dc-testament/dc/84.37-38?lang=eng#36).)
 
 And that this may be our happy privilege, I earnestly pray in the sacred name
 of the Lord Jesus Christ. Amen.
+
+## References
 

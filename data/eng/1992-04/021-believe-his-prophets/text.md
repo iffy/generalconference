@@ -19,7 +19,7 @@ cried out in prayer:
 
 "O our God, ... we have no might against this great company that cometh against
 us; neither know we what to do: but our eyes are upon thee." ([2 Chr.
-20:12](https://www.lds.org/scriptures/ot/2-chr/20.12?lang=eng#11).)
+20:12](/scriptures/ot/2-chr/20.12?lang=eng#11).)
 
 Then Jahaziel, the Levite prophet, said to Jehoshaphat:
 
@@ -28,14 +28,12 @@ great multitude; for the battle is not yours, but God's. ...
 
 "Ye shall not need to fight in this battle: set yourselves, stand ye still,
 and see the salvation of the Lord with you ... : fear not, nor be dismayed." ([2
-Chr. 20:15,
-17](https://www.lds.org/scriptures/ot/2-chr/20.15%2C17?lang=eng#14).)
+Chr. 20:15, 17](/scriptures/ot/2-chr/20.15,17?lang=eng#14).)
 
 Then the king, relying upon the words of the prophet, said to the people:
 "Hear me, O Judah, and ye inhabitants of Jerusalem; _Believe in the Lord your
 God, so shall ye be established; believe his prophets, so shall ye prosper._"
-([2 Chr. 20:20](https://www.lds.org/scriptures/ot/2-chr/20.20?lang=eng#19);
-italics added.)
+([2 Chr. 20:20](/scriptures/ot/2-chr/20.20?lang=eng#19); italics added.)
 
 These are the words of my text. I repeat them, "Believe in the Lord your God,
 so shall ye be established; believe his prophets, so shall ye prosper."
@@ -226,13 +224,12 @@ counterforce for righteousness.
 
 I go back to the words of Jehoshaphat: "Believe in the Lord your God, so shall
 ye be established; believe his prophets, so shall ye prosper." ([2 Chr.
-20:20](https://www.lds.org/scriptures/ot/2-chr/20.20?lang=eng#19).)
+20:20](/scriptures/ot/2-chr/20.20?lang=eng#19).)
 
 There are many little things that test our willingness to accept the word of
 the prophets. Jesus said, "How often would I have gathered thy children
 together, even as a hen gathereth her chickens under her wings, and ye would
-not!" ([Matt.
-23:37](https://www.lds.org/scriptures/nt/matt/23.37?lang=eng#36).)
+not!" ([Matt. 23:37](/scriptures/nt/matt/23.37?lang=eng#36).)
 
 So it has been through the history of mankind, and so it is today. In our own
 communities, even here in Utah, we have experienced some of this. President
@@ -258,7 +255,7 @@ These are little things, but they are important things. They bring to mind the
 great contest between the prophet Elijah and the priests of Baal. Said Elijah
 on that occasion, "How long halt ye between two opinions? if the Lord be God,
 follow him: but if Baal, then follow him." ([1 Kgs.
-18:21](https://www.lds.org/scriptures/ot/1-kgs/18.21?lang=eng#20).)
+18:21](/scriptures/ot/1-kgs/18.21?lang=eng#20).)
 
 Now in conclusion, may I repeat that I have worked with seven Presidents of
 this Church. I have recognized that all have been human. But I have never been
@@ -291,4 +288,6 @@ Father and our God, and from Him who is our Savior and our Redeemer as they
 have spoken to us through those whom we sustain as prophets. I bear witness
 and testimony of these things and, my brethren, leave my blessing and love
 with you in the name of Jesus Christ, amen.
+
+## References
 

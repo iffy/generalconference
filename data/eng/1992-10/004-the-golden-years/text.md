@@ -23,7 +23,7 @@ quoted that passage many times in speaking to the youth. I wonder if it
 doesn't have just as much application for the rest of us, particularly those
 who are retired. Luke wrote: "And Jesus increased in wisdom and stature, and
 in favour with God and man." ([Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).)
+2:52](/scriptures/nt/luke/2.52?lang=eng#51).)
 
 In today's vernacular, these words translate into our Savior's growing
 physically, mentally, socially, and spiritually. What a model to follow!
@@ -57,7 +57,7 @@ retired, our cities are in danger of dying. As I look ahead, I think of the
 tremendous civic good deeds Lowell Bennion has extended throughout his life
 but more particularly since he retired. He has exemplified real Christian
 living, reaching out to "the least of these [our] brethren." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 ## Growing Spiritually
 
@@ -153,7 +153,7 @@ I pray that you and I might wear ourselves out in the service of the Lord so
 that at the end of our useful, productive lives we can exult with Paul: "I
 have fought a good fight, I have finished my course, I have kept the faith:
 Henceforth there is laid up for me a crown of righteousness." ([2 Tim.
-4:7-8](https://www.lds.org/scriptures/nt/2-tim/4.7-8?lang=eng#6).)
+4:7-8](/scriptures/nt/2-tim/4.7-8?lang=eng#6).)
 
 I conclude my public ministry by paraphrasing the words I spoke in 1978, words
 that have even deeper meaning for me after that choice experience.
@@ -179,4 +179,6 @@ the way for Christ to come in his glory when every knee will bow and every
 tongue confess that he is the Savior of the world, which I testify in the name
 of Jesus Christ, amen. (See Conference Report, Apr. 1978, p. 109; or _Ensign,_
 May 1978, p. 72.)
+
+## References
 

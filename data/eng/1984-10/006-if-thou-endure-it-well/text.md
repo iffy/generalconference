@@ -38,7 +38,7 @@ With His help we can use our trials as stepping-stones. The keys are in our
 hands.
 
 "I, the Lord, am bound when ye do what I say; but when ye do not what I say,
-ye have no promise." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
+ye have no promise." ([D&amp;C 82:10](/scriptures/dc-
 testament/dc/82.10?lang=eng#9).)
 
 If we are offended and resentful, can we believe that He is bound to help us
@@ -61,8 +61,7 @@ failed? Why are the answers to my prayers and pleas withheld?" In response to
 the feelings of his heart and mind he cried out:
 
 "O God, where art thou? And where is the pavilion that covereth thy hiding
-place?" ([D&amp;C 121:1](https://www.lds.org/scriptures/dc-
-testament/dc/121.1?lang=eng#0).)
+place?" ([D&amp;C 121:1](/scriptures/dc-testament/dc/121.1?lang=eng#0).)
 
 The reassuring response came:
 
@@ -70,8 +69,8 @@ The reassuring response came:
 be but a small moment;
 
 "And then, if thou endure it well, God shall exalt thee on high; thou shalt
-triumph over all thy foes." ([D&amp;C 121:7-8](https://www.lds.org/scriptures
-/dc-testament/dc/121.7-8?lang=eng#6).)
+triumph over all thy foes." ([D&amp;C 121:7-8](/scriptures/dc-
+testament/dc/121.7-8?lang=eng#6).)
 
 The promise God gave to Joseph Smith is a promise for all of us: "If thou
 endure it well, God shall exalt thee on high; thou shalt triumph over all thy
@@ -80,8 +79,7 @@ foes," and also over heartaches caused by misconduct of loved ones.
 As we are called upon to suffer we need to ask ourselves the question:
 
 "The Son of Man hath descended below them all. Art thou greater than he?"
-([D&amp;C 122:8](https://www.lds.org/scriptures/dc-
-testament/dc/122.8?lang=eng#7).)
+([D&amp;C 122:8](/scriptures/dc-testament/dc/122.8?lang=eng#7).)
 
 When I think of the Savior's admonition to do cheerfully all things that lie
 in our power, I think of the father of the prodigal son. The father was
@@ -92,7 +90,7 @@ Or, "Where did I fail?"
 Instead he seemed to have endured without bitterness his son's misconduct and
 welcomed him back with love. "For this my son was dead, and is alive again; he
 was lost, and is found. And they began to be merry." ([Luke
-15:24](https://www.lds.org/scriptures/nt/luke/15.24?lang=eng#23).)
+15:24](/scriptures/nt/luke/15.24?lang=eng#23).)
 
 When family members disappoint us, we especially need to learn endurance. As
 long as we exercise love, patience, and understanding, even when no progress
@@ -107,15 +105,14 @@ able to endure the pain of commitment and self-discipline.
 
 The Apostle Paul likened life to a great race when he declared: "Know ye not
 that they which run in a race run all, but one receiveth the prize? So run
-that ye may obtain." ([1 Cor.
-9:24](https://www.lds.org/scriptures/nt/1-cor/9.24?lang=eng#23).)
+that ye may obtain." ([1 Cor. 9:24](/scriptures/nt/1-cor/9.24?lang=eng#23).)
 
 And before the words of Paul fell upon the ears of his listeners, the counsel
 of the Preacher, the son of David, cautioned: "The race is not to the swift,
 nor the battle to the strong, but he that endureth to the end shall be saved."
-(See [Eccl. 9:11](https://www.lds.org/scriptures/ot/eccl/9.11?lang=eng#10);
-[Matt. 10:22](https://www.lds.org/scriptures/nt/matt/10.22?lang=eng#21); [Mark
-13:13](https://www.lds.org/scriptures/nt/mark/13.13?lang=eng#12).)
+(See [Eccl. 9:11](/scriptures/ot/eccl/9.11?lang=eng#10); [Matt.
+10:22](/scriptures/nt/matt/10.22?lang=eng#21); [Mark
+13:13](/scriptures/nt/mark/13.13?lang=eng#12).)
 
 What does it take to endure in the race for eternal life, to become a
 champion?
@@ -222,8 +219,7 @@ others endure.
 
 I pray that God will help us to endure well, with purpose and power. When we
 so do, the meaningful declaration in [2 Tim.
-4:7](https://www.lds.org/scriptures/nt/2-tim/4.7?lang=eng#6) will take on a
-new dimension:
+4:7](/scriptures/nt/2-tim/4.7?lang=eng#6) will take on a new dimension:
 
 "I have fought a good fight, I have finished my course, I have kept the
 faith."
@@ -233,8 +229,7 @@ or excessive prosperity become part of our lives, our challenges and
 responsibilities will be to endure them well. God will assist us in our quest
 to conquer, triumph, and continue if we humbly rededicate ourselves to the
 meaningful declaration "We have endured many things, and hope to be able to
-endure all things." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+endure all things." ([A of F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 God does live. Jesus is the Christ. One of His marks of greatness, His
 endurance, stands as a constant beacon for us to emulate. During His earthly
@@ -242,4 +237,6 @@ sojourn He endured well as He suffered agony and rejection in their deepest
 forms. I bear my witness that God will help us to endure as we put forth the
 effort to live His teachings, seek His guidance, and keep His commandments. In
 the name of Jesus Christ, amen.
+
+## References
 

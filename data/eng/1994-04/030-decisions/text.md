@@ -31,8 +31,8 @@ the results and realized that this was not the answer. Father Lehi gave the
 solution when he said: "Wherefore, the Lord God gave unto man that he should
 act for himself. Wherefore, man could not act for himself save it should be
 that he was enticed by the one or the other" ([2 Ne.
-2:16](https://www.lds.org/scriptures/bofm/2-ne/2.16?lang=eng#15)). And this is
-the freedom the Lord wanted preserved for us.
+2:16](/scriptures/bofm/2-ne/2.16?lang=eng#15)). And this is the freedom the
+Lord wanted preserved for us.
 
 One of the most important decisions made in this dispensation was that of the
 boy Joseph Smith. A nephew of mine painted a picture and later reproduced it
@@ -51,16 +51,15 @@ make, He may not have fully comprehended the severity of the experience that
 awaited Him. He made His way, knowing He had power over life and death and
 could command angels to come to His assistance. He speaks of being "exceeding
 sorrowful, even unto death" ([Matt.
-26:38](https://www.lds.org/scriptures/nt/matt/26.38?lang=eng#37)), and
-described the experience as causing Him "to tremble because of pain, ... to
-bleed at every pore, and to suffer both body and spirit" ([D&amp;C
-19:18](https://www.lds.org/scriptures/dc-testament/dc/19.18?lang=eng#17)). It
-was His love and obedience to the Father that made it possible for Him to
-finally say to Peter: "How then shall the scriptures be fulfilled, that thus
-it must be?" ([Matt.
-26:54](https://www.lds.org/scriptures/nt/matt/26.54?lang=eng#53).) He
-completed the mission for which He was foreordained and opened the door of
-salvation and eternal life to all.
+26:38](/scriptures/nt/matt/26.38?lang=eng#37)), and described the experience
+as causing Him "to tremble because of pain, ... to bleed at every pore, and to
+suffer both body and spirit" ([D&amp;C 19:18](/scriptures/dc-
+testament/dc/19.18?lang=eng#17)). It was His love and obedience to the Father
+that made it possible for Him to finally say to Peter: "How then shall the
+scriptures be fulfilled, that thus it must be?" ([Matt.
+26:54](/scriptures/nt/matt/26.54?lang=eng#53).) He completed the mission for
+which He was foreordained and opened the door of salvation and eternal life to
+all.
 
 We approached a grove of uncertainty as we awaited our call to this earth. It
 must have been an anxious and rather frightening experience as we left our
@@ -69,7 +68,7 @@ if he was afraid to die, he said, "No more than I was to be born." That our
 preexistence was also a testing period where we were free to choose is
 confirmed by our prophets. Alma suggests that it was our exceeding faith and
 good works that earned us the right of priesthood (see [Alma
-13:3](https://www.lds.org/scriptures/bofm/alma/13.3?lang=eng#2)).
+13:3](/scriptures/bofm/alma/13.3?lang=eng#2)).
 
 There is a grove that awaits all of us. It's referred to as death. Though it
 is not optional and must be accepted, our decisions here lay the foundation
@@ -79,25 +78,24 @@ think that everyone would seek as much information as possible to prepare for
 the inevitable. However, some are lulled into a sense of security, not giving
 heed to the Lord's warning that "without the ordinances thereof, and the
 authority of the priesthood, the power of godliness is not manifest unto men
-in the flesh" ([D&amp;C 84:21](https://www.lds.org/scriptures/dc-
+in the flesh" ([D&amp;C 84:21](/scriptures/dc-
 testament/dc/84.21?lang=eng#20)). There is a change that must come upon us
 through sanctification that only obedience to the laws and compliance to the
 ordinances can bring.
 
 The reason that the Lord commanded Moses to construct a "tabernacle ... in the
 wilderness," and a "house in the land of promise" was to reveal ordinances
-"which had been hid from before the world was" ([D&amp;C
-124:38](https://www.lds.org/scriptures/dc-testament/dc/124.38?lang=eng#37)).
-Joseph was told to build a house to His name so that ordinances that were lost
-or taken away could be restored. If we will reason upon the many scriptures we
-have at our disposal, we must come to the conclusion that the full blessings
-of the Lord are found within the walls of the temple. It is there that we
-prepare to enter the most important of all groves wherein the promise of
-eternal companionships and families forever is finally realized, where "all
-that my Father hath shall be given ... him" ([D&amp;C
-84:38](https://www.lds.org/scriptures/dc-testament/dc/84.38?lang=eng#37)).
-Though we cannot comprehend the significance of those blessings, the decisions
-must be made today.
+"which had been hid from before the world was" ([D&amp;C 124:38](/scriptures
+/dc-testament/dc/124.38?lang=eng#37)). Joseph was told to build a house to His
+name so that ordinances that were lost or taken away could be restored. If we
+will reason upon the many scriptures we have at our disposal, we must come to
+the conclusion that the full blessings of the Lord are found within the walls
+of the temple. It is there that we prepare to enter the most important of all
+groves wherein the promise of eternal companionships and families forever is
+finally realized, where "all that my Father hath shall be given ... him"
+([D&amp;C 84:38](/scriptures/dc-testament/dc/84.38?lang=eng#37)). Though we
+cannot comprehend the significance of those blessings, the decisions must be
+made today.
 
 The doors of the temple open to us many experiences. Increasing numbers of
 family files that our computers help us to compile will soon become a large
@@ -112,8 +110,8 @@ stake excursions, providing involvement that adds greater appreciation of the
 temple. From the Doctrine and Covenants, section 109, we read: "And ... all
 people who shall enter upon the threshold of the Lord's house may feel thy
 power, and feel constrained to acknowledge that thou hast sanctified it, and
-that it is thy house, a place of thy holiness" ([D&amp;C
-109:13](https://www.lds.org/scriptures/dc-testament/dc/109.13?lang=eng#12)).
+that it is thy house, a place of thy holiness" ([D&amp;C 109:13](/scriptures
+/dc-testament/dc/109.13?lang=eng#12)).
 
 The Lord's willingness to assist in our decisions will be based on the same
 principles that led the Prophet to the grove and the Savior to the garden.
@@ -123,7 +121,7 @@ a store called "An Executive Decision Maker." You pressed a button and a
 flashing light pointed to the answer, such as "Definitely," "Never," or "Why
 Not?" Can we afford to leave our future to chance when the Lord encourages us
 to ask, seek, and knock? (see [Matt.
-7:7](https://www.lds.org/scriptures/nt/matt/7.7?lang=eng#6).)
+7:7](/scriptures/nt/matt/7.7?lang=eng#6).)
 
 Unfortunately, many vital decisions are made when we are most inexperienced.
 Our desire for freedom can be dangerous if we have not followed the proper
@@ -140,17 +138,18 @@ Library, 1969, pp. 139-40).
 Our foremost decision must be to seek a testimony of the gospel and to build
 our faith in the Lord Jesus Christ. He is a loving and concerned parent, as we
 see in these words from Doctrine and Covenants 67:1 [[D&amp;C
-67:1](https://www.lds.org/scriptures/dc-testament/dc/67.1?lang=eng#0)]: "Ye
-elders of my church, who have assembled yourselves together, whose prayers I
-have heard, and whose hearts I know, and whose desires have come up before
-me." He will not leave us alone in our decisions, for He promised: "I will not
-leave you comfortless" ([John
-14:18](https://www.lds.org/scriptures/nt/john/14.18?lang=eng#17)). It is this
-Comforter, who is the spirit of revelation, that confirms all truths unto us.
+67:1](/scriptures/dc-testament/dc/67.1?lang=eng#0)]: "Ye elders of my church,
+who have assembled yourselves together, whose prayers I have heard, and whose
+hearts I know, and whose desires have come up before me." He will not leave us
+alone in our decisions, for He promised: "I will not leave you comfortless"
+([John 14:18](/scriptures/nt/john/14.18?lang=eng#17)). It is this Comforter,
+who is the spirit of revelation, that confirms all truths unto us.
 
 I am grateful for the privilege to serve the Lord and for the spirit which has
 touched my heart and soul and for my wonderful companion and my faithful
 family. And I leave my witness with you and with them of the divinity of this
 work and of our Lord Jesus Christ, who leads and directs and presides over it.
 In the name of Jesus Christ, amen.
+
+## References
 

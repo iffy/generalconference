@@ -8,7 +8,7 @@ high priest. Jesus said:
 
 "Thinkest thou that I cannot now pray to my Father, and he shall presently
 give me more than twelve legions of angels?" ([Matt.
-26:52-53](https://www.lds.org/scriptures/nt/matt/26.52-53?lang=eng#51)).
+26:52-53](/scriptures/nt/matt/26.52-53?lang=eng#51)).
 
 During all of the taunting, the abuse, the scourging, and the final torture of
 crucifixion, the Lord remained silent and submissive. Except, that is, for one
@@ -17,11 +17,11 @@ moment of intense drama which reveals the very essence of Christian doctrine.
 That moment came during the trial. Pilate, now afraid, said to Jesus:
 "Speakest thou not unto me? knowest thou not that I have power to crucify
 thee, and have power to release thee?" ([John
-19:10](https://www.lds.org/scriptures/nt/john/19.10?lang=eng#9)).
+19:10](/scriptures/nt/john/19.10?lang=eng#9)).
 
 One can only imagine the quiet majesty when the Lord spoke. "Thou couldest
 have no power at all against me, except it were given thee from above" ([John
-19:11](https://www.lds.org/scriptures/nt/john/19.11?lang=eng#10)).
+19:11](/scriptures/nt/john/19.11?lang=eng#10)).
 
 What happened thereafter did not come because Pilate had power to impose it,
 but because the Lord had the will to accept it.
@@ -30,7 +30,7 @@ but because the Lord had the will to accept it.
 
 "No man taketh it from me, but I lay it down of myself. I have power to lay it
 down, and I have power to take it again" ([John
-10:17-18](https://www.lds.org/scriptures/nt/john/10.17-18?lang=eng#16)).
+10:17-18](/scriptures/nt/john/10.17-18?lang=eng#16)).
 
 Before the Crucifixion and afterward, many men have willingly given their
 lives in selfless acts of heroism. But none faced what the Christ endured.
@@ -72,8 +72,7 @@ reconciled, we shall be saved by his life.
 
 "And not only so, but we also joy in God through our Lord Jesus Christ, by
 whom we have now received the _atonement_" ([Rom. 5:8,
-10-11](https://www.lds.org/scriptures/nt/rom/5.8%2C10-11?lang=eng#7); italics
-added).
+10-11](/scriptures/nt/rom/5.8,10-11?lang=eng#7); italics added).
 
 Only that once does the word _atonement_ appear in the English New Testament.
 _Atonement,_ of all words! It was not an unknown word, for it had been used
@@ -84,29 +83,28 @@ I know of only one explanation. For that we turn to the Book of Mormon.
 
 Nephi testified that the Bible once "contained the fulness of the gospel of
 the Lord, of whom the twelve apostles bear record" ([1 Ne.
-13:24](https://www.lds.org/scriptures/bofm/1-ne/13.24?lang=eng#23)) and that
-"After [the words] go forth by the hand of the twelve apostles of the Lamb,
-from the Jews unto the Gentiles, thou seest the formation of that great and
-abominable church, which is most abominable above all other churches; for
-behold, they have taken away from the gospel of the Lamb many parts which are
-plain and most precious; and also many covenants of the Lord have they taken
-away" ([1 Ne.
-13:26](https://www.lds.org/scriptures/bofm/1-ne/13.26?lang=eng#25)).
+13:24](/scriptures/bofm/1-ne/13.24?lang=eng#23)) and that "After [the words]
+go forth by the hand of the twelve apostles of the Lamb, from the Jews unto
+the Gentiles, thou seest the formation of that great and abominable church,
+which is most abominable above all other churches; for behold, they have taken
+away from the gospel of the Lamb many parts which are plain and most precious;
+and also many covenants of the Lord have they taken away" ([1 Ne.
+13:26](/scriptures/bofm/1-ne/13.26?lang=eng#25)).
 
 Jacob defined the great and abominable church in these words:
 
 "Wherefore, he that fighteth against Zion, both Jew and Gentile, both bond and
 free, both male and female, shall perish; for they are they who are the whore
 of all the earth; for they who are not for me are against me, saith our God"
-([2 Ne. 10:16](https://www.lds.org/scriptures/bofm/2-ne/10.16?lang=eng#15)).
+([2 Ne. 10:16](/scriptures/bofm/2-ne/10.16?lang=eng#15)).
 
 Nephi said, "Because of the many plain and precious things which have been
 taken out of the book, ... an exceedingly great many do stumble, yea, insomuch
 that Satan hath great power over them" ([1 Ne.
-13:29](https://www.lds.org/scriptures/bofm/1-ne/13.29?lang=eng#28)).
+13:29](/scriptures/bofm/1-ne/13.29?lang=eng#28)).
 
 He then prophesied that the precious things would be restored (see [1 Ne.
-13:34-35](https://www.lds.org/scriptures/bofm/1-ne/13.34-35?lang=eng#33)).
+13:34-35](/scriptures/bofm/1-ne/13.34-35?lang=eng#33)).
 
 And they were restored. In the Book of Mormon the word _atone_ in form and
 tense appears fifty-five times. I quote but one verse from Alma: "And now, the
@@ -114,8 +112,7 @@ plan of mercy could not be brought about except an _atonement_ should be made;
 therefore God himself _atoneth_ for the sins of the world, to bring about the
 plan of mercy, to appease the demands of justice, that God might be a perfect,
 just God, and a merciful God also" ([Alma
-42:15](https://www.lds.org/scriptures/bofm/alma/42.15?lang=eng#14); italics
-added).
+42:15](/scriptures/bofm/alma/42.15?lang=eng#14); italics added).
 
 Only once in the New Testament--fifty-five times in the Book of Mormon. What
 better witness that the Book of Mormon is indeed another testament of Jesus
@@ -133,7 +130,7 @@ was so from the beginning, from Eden.
 "The Lord said unto Enoch: Behold these thy brethren; they are the workmanship
 of mine own hands, and I gave unto them their knowledge, in the day I created
 them; and in the Garden of Eden, gave I unto man his agency" ([Moses
-7:32](https://www.lds.org/scriptures/pgp/moses/7.32?lang=eng#31)).
+7:32](/scriptures/pgp/moses/7.32?lang=eng#31)).
 
 Whatever else happened in Eden, in his supreme moment of testing, Adam made a
 choice.
@@ -142,15 +139,14 @@ After the Lord commanded Adam and Eve to multiply and replenish the earth and
 commanded them _not_ to partake of the tree of knowledge of good and evil, He
 said: "Nevertheless, thou mayest choose for thyself, for it is given unto
 thee; but, remember that I forbid it, for in the day thou eatest thereof thou
-shalt surely die" ([Moses
-3:17](https://www.lds.org/scriptures/pgp/moses/3.17?lang=eng#16)).
+shalt surely die" ([Moses 3:17](/scriptures/pgp/moses/3.17?lang=eng#16)).
 
 There was too much at issue to introduce man into mortality by force. That
 would contravene the very law essential to the plan. The plan provided that
 each spirit child of God would receive a mortal body and each would be tested.
 Adam saw that it must be so and made his choice. "Adam fell that men might be;
 and men are, that they might have joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)).
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)).
 
 Adam and Eve ventured forth to multiply and replenish the earth as they had
 been commanded to do. The creation of their bodies in the image of God, as a
@@ -160,7 +156,7 @@ essential if the condition of mortality was to exist and the plan proceed.
 Jacob described what would happen to our bodies and our spirits except an
 atonement, an infinite atonement, were made. We should, he said, have become
 "like unto [the devil]" (see [2 Ne.
-9:7-9](https://www.lds.org/scriptures/bofm/2-ne/9.7-9?lang=eng#6)).
+9:7-9](/scriptures/bofm/2-ne/9.7-9?lang=eng#6)).
 
 I seldom use the word _absolute._ It seldom fits. I use it now--twice. Because
 of the Fall, the Atonement was absolutely essential for resurrection to
@@ -172,18 +168,16 @@ separation from our Father in Heaven. For the scriptures tell us, seven times
 they tell us, that no unclean thing may enter the presence of God.
 
 Those scriptural words, "Thou mayest choose for thyself, for it is given unto
-thee" ([Moses
-3:17](https://www.lds.org/scriptures/pgp/moses/3.17?lang=eng#16)), introduced
-Adam and Eve and their posterity to all the risks of mortality. In mortality
-men are free to choose, and each choice begets a consequence. The choice Adam
-made energized the law of justice, which required that the penalty for
-disobedience would be death.
+thee" ([Moses 3:17](/scriptures/pgp/moses/3.17?lang=eng#16)), introduced Adam
+and Eve and their posterity to all the risks of mortality. In mortality men
+are free to choose, and each choice begets a consequence. The choice Adam made
+energized the law of justice, which required that the penalty for disobedience
+would be death.
 
 But those words spoken at the trial, "Thou couldest have no power at all
 against me, except it were given thee from above" ([John
-19:11](https://www.lds.org/scriptures/nt/john/19.11?lang=eng#10)), proved
-mercy was of equal rank. A redeemer was sent to pay the debt and set men free.
-That was the plan.
+19:11](/scriptures/nt/john/19.11?lang=eng#10)), proved mercy was of equal
+rank. A redeemer was sent to pay the debt and set men free. That was the plan.
 
 Alma's son Corianton thought it unfair that penalties must follow sin, that
 there need be punishment. In a profound lesson Alma taught the plan of
@@ -191,7 +185,7 @@ redemption to his son, and so to us.
 
 Alma spoke of the Atonement and said, "Now, repentance could not come unto men
 except there were a punishment" ([Alma
-42:16](https://www.lds.org/scriptures/bofm/alma/42.16?lang=eng#15)).
+42:16](/scriptures/bofm/alma/42.16?lang=eng#15)).
 
 If punishment is the price repentance asks, it comes at bargain price.
 Consequences, even painful ones, protect us. So simple a thing as a child's
@@ -244,8 +238,7 @@ us. Then Christ need not have been.
 
 At Gethsemane and Golgotha the Savior's blood was shed. Centuries earlier the
 Passover had been introduced as a symbol and a type of things to come. It was
-an ordinance to be kept forever (see [Ex.
-12](https://www.lds.org/scriptures/ot/ex/12.title?lang=eng)).
+an ordinance to be kept forever (see [Ex. 12](/scriptures/ot/ex/12?lang=eng)).
 
 When the plague of death was decreed upon Egypt, each Israelite family was
 commanded to take a lamb, firstborn, male, without blemish. This paschal lamb
@@ -256,9 +249,8 @@ marked and not slay those inside. They were saved by the blood of the lamb.
 After the crucifixion of the Lord, the law of sacrifice required no more
 shedding of blood. For that was done, as Paul taught the Hebrews, "once for
 all, ... one sacrifice for sins for ever" ([Heb. 10:10,
-12](https://www.lds.org/scriptures/nt/heb/10.10%2C12?lang=eng#9)). The
-sacrifice thenceforth was to be a broken heart and a contrite spirit--
-repentance.
+12](/scriptures/nt/heb/10.10,12?lang=eng#9)). The sacrifice thenceforth was to
+be a broken heart and a contrite spirit--repentance.
 
 And the Passover would be commemorated forever as the sacrament, in which we
 renew our covenant of baptism and partake in remembrance of the body of the
@@ -268,7 +260,7 @@ It is no small thing that this symbol reappears in the Word of Wisdom. Beyond
 the promise that Saints in this generation, who obey, will receive health and
 great treasures of knowledge is this: "I, the Lord, give unto them a promise,
 that the destroying angel shall pass by them, as the children of Israel, and
-not slay them" ([D&amp;C 89:21](https://www.lds.org/scriptures/dc-
+not slay them" ([D&amp;C 89:21](/scriptures/dc-
 testament/dc/89.21?lang=eng#20)).
 
 I cannot with composure tell you how I feel about the Atonement. It touches
@@ -282,4 +274,6 @@ down in worship of our Father and His son. For _agency_ is mine, and this I
 _choose_ to do!
 
 In the name of Jesus Christ, amen.
+
+## References
 

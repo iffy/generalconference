@@ -116,7 +116,7 @@ adversity came to Joseph Smith to give him experience. There is something
 about the eternal purpose of life that requires us to meet and experience
 trial and sorrow as we seek to overcome, for the Lord has told us also, "... for
 if they never should have bitter they could not know the sweet. ..." ([D&amp;C
-29:39](https://www.lds.org/scriptures/dc-testament/dc/29.39?lang=eng#38).)
+29:39](/scriptures/dc-testament/dc/29.39?lang=eng#38).)
 
 Thirdly, I believe that only through such experiences can a person develop
 true charity. And I mean by _charity_ the pure love of Christ.
@@ -136,8 +136,7 @@ charity never faileth. Wherefore, cleave unto charity, which is the greatest
 of all, for all things must fail--
 
 "But charity is the pure love of Christ. ..." ([Moro.
-7:44-47](https://www.lds.org/scriptures/bofm/moro/7.44-47?lang=eng#43).
-Italics added.)
+7:44-47](/scriptures/bofm/moro/7.44-47?lang=eng#43). Italics added.)
 
 May I say then to those who are now or will be facing deep trials: May the
 Lord bless you that you may continue to hang on. There is purpose in it all,
@@ -155,6 +154,8 @@ Thy dross to consume and thy gold to refine."
 And finally this promise from the Master: "And again, be patient in
 tribulation until I come; and, behold, I come quickly, and my reward is with
 me, and they who have sought me early shall find rest to their souls. ..."
-([D&amp;C 54:10](https://www.lds.org/scriptures/dc-
-testament/dc/54.10?lang=eng#9).) In the name of Jesus Christ. Amen.
+([D&amp;C 54:10](/scriptures/dc-testament/dc/54.10?lang=eng#9).) In the name
+of Jesus Christ. Amen.
+
+## References
 

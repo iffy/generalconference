@@ -3,19 +3,18 @@
 Questions like, Where did we come from? Why are we here? and Where are we
 going? are answered in the gospel of Jesus Christ. Prophets have called it the
 plan of salvation and "the great plan of happiness" ([Alma
-42:8](https://www.lds.org/scriptures/bofm/alma/42.8?lang=eng#7)). Through
-inspiration we can understand this road map of eternity and use it to guide
-our path in mortality.
+42:8](/scriptures/bofm/alma/42.8?lang=eng#7)). Through inspiration we can
+understand this road map of eternity and use it to guide our path in
+mortality.
 
 The gospel teaches us that we are the spirit children of heavenly parents.
 Before our mortal birth we had "a pre-existent, spiritual personality, as the
 sons and daughters of the Eternal Father" (statement of the First Presidency,
 _Improvement Era,_ Mar. 1912, p. 417; also see [Jer.
-1:5](https://www.lds.org/scriptures/ot/jer/1.5?lang=eng#4)). We were placed
-here on earth to progress toward our destiny of eternal life. These truths
-give us a unique perspective and different values to guide our decisions from
-those who doubt the existence of God and believe that life is the result of
-random processes.
+1:5](/scriptures/ot/jer/1.5?lang=eng#4)). We were placed here on earth to
+progress toward our destiny of eternal life. These truths give us a unique
+perspective and different values to guide our decisions from those who doubt
+the existence of God and believe that life is the result of random processes.
 
 Our understanding of life begins with a council in heaven. There the spirit
 children of God were taught his eternal plan for their destiny. We had
@@ -28,8 +27,7 @@ In the course of mortality, we would become subject to death, and we would be
 soiled by sin. To reclaim us from death and sin, our Heavenly Father's plan
 provided us a Savior, whose atonement would redeem all from death and pay the
 price necessary for all to be cleansed from sin on the conditions he
-prescribed (see [2 Ne.
-9:19-24](https://www.lds.org/scriptures/bofm/2-ne/9.19-24?lang=eng#18)).
+prescribed (see [2 Ne. 9:19-24](/scriptures/bofm/2-ne/9.19-24?lang=eng#18)).
 
 Satan had his own plan. He proposed to save _all_ the spirit children of God,
 assuring that result by removing their power to choose and thus eliminating
@@ -55,24 +53,22 @@ children in righteousness).
 Maleness and femaleness, marriage, and the bearing and nurturing of children
 are all essential to the great plan of happiness. Modern revelation makes
 clear that what we call gender was part of our existence prior to our birth.
-God declares that he created "male and female" ([D&amp;C
-20:18](https://www.lds.org/scriptures/dc-testament/dc/20.18?lang=eng#17);
-[Moses 2:27](https://www.lds.org/scriptures/pgp/moses/2.27?lang=eng#26); [Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26)). Elder James E.
-Talmage explained: "The distinction between male and female is no condition
-peculiar to the relatively brief period of mortal life; it was an essential
-characteristic of our pre-existent condition" (_Millennial Star,_ 24 Aug.
-1922, p. 539).
+God declares that he created "male and female" ([D&amp;C 20:18](/scriptures
+/dc-testament/dc/20.18?lang=eng#17); [Moses
+2:27](/scriptures/pgp/moses/2.27?lang=eng#26); [Gen.
+1:27](/scriptures/ot/gen/1.27?lang=eng#26)). Elder James E. Talmage explained:
+"The distinction between male and female is no condition peculiar to the
+relatively brief period of mortal life; it was an essential characteristic of
+our pre-existent condition" (_Millennial Star,_ 24 Aug. 1922, p. 539).
 
 To the first man and woman on earth, the Lord said, "Be fruitful, and
-multiply" ([Moses
-2:28](https://www.lds.org/scriptures/pgp/moses/2.28?lang=eng#27); see also
-[Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27); [Abr.
-4:28](https://www.lds.org/scriptures/pgp/abr/4.28?lang=eng#27)). This
-commandment was first in sequence and first in importance. It was essential
-that God's spirit children have mortal birth and an opportunity to progress
-toward eternal life. Consequently, all things related to procreation are prime
-targets for the adversary's efforts to thwart the plan of God.
+multiply" ([Moses 2:28](/scriptures/pgp/moses/2.28?lang=eng#27); see also
+[Gen. 1:28](/scriptures/ot/gen/1.28?lang=eng#27); [Abr.
+4:28](/scriptures/pgp/abr/4.28?lang=eng#27)). This commandment was first in
+sequence and first in importance. It was essential that God's spirit children
+have mortal birth and an opportunity to progress toward eternal life.
+Consequently, all things related to procreation are prime targets for the
+adversary's efforts to thwart the plan of God.
 
 When Adam and Eve received the first commandment, they were in a transitional
 state, no longer in the spirit world but with physical bodies not yet subject
@@ -84,27 +80,26 @@ mortal life.
 For reasons that have not been revealed, this transition, or "fall," could not
 happen without a transgression--an exercise of moral agency amounting to a
 willful breaking of a law (see [Moses
-6:59](https://www.lds.org/scriptures/pgp/moses/6.59?lang=eng#58)). This would
-be a planned offense, a formality to serve an eternal purpose. The Prophet
-Lehi explained that "if Adam had not transgressed he would not have fallen"
-([2 Ne. 2:22](https://www.lds.org/scriptures/bofm/2-ne/2.22?lang=eng#21)), but
-would have remained in the same state in which he was created.
+6:59](/scriptures/pgp/moses/6.59?lang=eng#58)). This would be a planned
+offense, a formality to serve an eternal purpose. The Prophet Lehi explained
+that "if Adam had not transgressed he would not have fallen" ([2 Ne.
+2:22](/scriptures/bofm/2-ne/2.22?lang=eng#21)), but would have remained in the
+same state in which he was created.
 
 "And they would have had no children; wherefore they would have remained in a
 state of innocence, having no joy, for they knew no misery; doing no good, for
-they knew no sin" ([2 Ne.
-2:23](https://www.lds.org/scriptures/bofm/2-ne/2.23?lang=eng#22)).
+they knew no sin" ([2 Ne. 2:23](/scriptures/bofm/2-ne/2.23?lang=eng#22)).
 
 But the Fall was planned, Lehi concludes, because "all things have been done
 in the wisdom of him who knoweth all things" ([2 Ne.
-2:24](https://www.lds.org/scriptures/bofm/2-ne/2.24?lang=eng#23)).
+2:24](/scriptures/bofm/2-ne/2.24?lang=eng#23)).
 
 It was Eve who first transgressed the limits of Eden in order to initiate the
 conditions of mortality. Her act, whatever its nature, was formally a
 transgression but eternally a glorious necessity to open the doorway toward
 eternal life. Adam showed his wisdom by doing the same. And thus Eve and "Adam
 fell that men might be" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)).
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)).
 
 Some Christians condemn Eve for her act, concluding that she and her daughters
 are somehow flawed by it. Not the Latter-day Saints! Informed by revelation,
@@ -136,17 +131,16 @@ Modern revelation shows that our first parents understood the necessity of the
 Fall. Adam declared, "Blessed be the name of God, for because of my
 transgression my eyes are opened, and in this life I shall have joy, and again
 in the flesh I shall see God" ([Moses
-5:10](https://www.lds.org/scriptures/pgp/moses/5.10?lang=eng#9)).
+5:10](/scriptures/pgp/moses/5.10?lang=eng#9)).
 
 Note the different perspective and the special wisdom of Eve, who focused on
 the purpose and effect of the great plan of happiness: "Were it not for our
 transgression we never should have had seed, and never should have known good
 and evil, and the joy of our redemption, and the eternal life which God giveth
-unto all the obedient" ([Moses
-5:11](https://www.lds.org/scriptures/pgp/moses/5.11?lang=eng#10)). In his
-vision of the redemption of the dead, President Joseph F. Smith saw "the great
-and mighty ones" assembled to meet the Son of God, and among them was "our
-glorious Mother Eve" ([D&amp;C 138:38-39](https://www.lds.org/scriptures/dc-
+unto all the obedient" ([Moses 5:11](/scriptures/pgp/moses/5.11?lang=eng#10)).
+In his vision of the redemption of the dead, President Joseph F. Smith saw
+"the great and mighty ones" assembled to meet the Son of God, and among them
+was "our glorious Mother Eve" ([D&amp;C 138:38-39](/scriptures/dc-
 testament/dc/138.38-39?lang=eng#37)).
 
 When we understand the plan of salvation, we also understand the purpose and
@@ -181,12 +175,11 @@ Outside the bonds of marriage, all uses of the procreative power are to one
 degree or another a sinful degrading and perversion of the most divine
 attribute of men and women. The Book of Mormon teaches that unchastity is
 "most abominable above all sins save it be the shedding of innocent blood or
-denying the Holy Ghost" ([Alma
-39:5](https://www.lds.org/scriptures/bofm/alma/39.5?lang=eng#4)). In our own
-day, the First Presidency of the Church has declared the doctrine of this
-Church "that sexual sin--the illicit sexual relations of men and women--
-stands, in its enormity, next to murder" ("Message of the First Presidency," 3
-Oct. 1942, as quoted in _Messages of the First Presidency of The Church of
+denying the Holy Ghost" ([Alma 39:5](/scriptures/bofm/alma/39.5?lang=eng#4)).
+In our own day, the First Presidency of the Church has declared the doctrine
+of this Church "that sexual sin--the illicit sexual relations of men and women
+--stands, in its enormity, next to murder" ("Message of the First Presidency,"
+3 Oct. 1942, as quoted in _Messages of the First Presidency of The Church of
 Jesus Christ of Latter-day Saints,_ comp. James R. Clark, 6 vols., Salt Lake
 City: Bookcraft, 1965-75, 6:176). Some who do not know the plan of salvation
 behave like promiscuous animals, but Latter-day Saints--especially those who
@@ -203,9 +196,8 @@ began long before conception and will continue for all the eternities to come.
 We rely on the prophets of God, who have told us that while there may be
 "rare" exceptions, "the practice of elective abortion is fundamentally
 contrary to the Lord's injunction, 'Thou shalt not ... kill, nor do anything
-like unto it' ([D&amp;C 59:6](https://www.lds.org/scriptures/dc-
-testament/dc/59.6?lang=eng#5))" (_1991 Supplement to the 1989 General Handbook
-of Instructions,_ p. 1).
+like unto it' ([D&amp;C 59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5))"
+(_1991 Supplement to the 1989 General Handbook of Instructions,_ p. 1).
 
 Our knowledge of the great plan of happiness also gives us a unique
 perspective on the subject of marriage and the bearing of children. In this we
@@ -225,16 +217,15 @@ to provide the approved setting for mortal birth, and to prepare family
 members for eternal life. "Marriage is ordained of God unto man," the Lord
 said, "that the earth might answer the end of its creation; and that it might
 be filled with the measure of man, according to his creation before the world
-was made" ([D&amp;C 49:15-17](https://www.lds.org/scriptures/dc-
+was made" ([D&amp;C 49:15-17](/scriptures/dc-
 testament/dc/49.15-17?lang=eng#14)).
 
 Our concept of marriage is motivated by revealed truth, not by worldly
 sociology. The Apostle Paul taught "neither is the man without the woman,
 neither the woman without the man, in the Lord" ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10)). President
-Spencer W. Kimball explained, "Without proper and successful marriage, one
-will never be exalted" (_Marriage and Divorce,_ Salt Lake City: Deseret Book
-Co., 1976, p. 24).
+11:11](/scriptures/nt/1-cor/11.11?lang=eng#10)). President Spencer W. Kimball
+explained, "Without proper and successful marriage, one will never be exalted"
+(_Marriage and Divorce,_ Salt Lake City: Deseret Book Co., 1976, p. 24).
 
 According to custom, men are expected to take the initiative in seeking
 marriage. That is why President Joseph F. Smith directed his prophetic
@@ -256,10 +247,9 @@ spirit child of God to the comfort or convenience of parents.
 
 The Savior taught that we should not lay up treasures on earth but should lay
 up treasures in heaven (see [Matt.
-6:19-21](https://www.lds.org/scriptures/nt/matt/6.19-21?lang=eng#18)). In
-light of the ultimate purpose of the great plan of happiness, I believe that
-the ultimate treasures on earth and in heaven are our children and our
-posterity.
+6:19-21](/scriptures/nt/matt/6.19-21?lang=eng#18)). In light of the ultimate
+purpose of the great plan of happiness, I believe that the ultimate treasures
+on earth and in heaven are our children and our posterity.
 
 President Kimball said, "It is an act of extreme selfishness for a married
 couple to refuse to have children when they are able to do so" (_Ensign,_ May
@@ -320,16 +310,16 @@ and we must do all that we can in our own circumstances in mortality.
 In all of this, we should remember King Benjamin's caution to "see that all
 these things are done in wisdom and order; for it is not requisite that a man
 should run faster than he has strength" ([Mosiah
-4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26)). I think
-of that inspired teaching whenever I feel inadequate, frustrated, or
-depressed.
+4:27](/scriptures/bofm/mosiah/4.27?lang=eng#26)). I think of that inspired
+teaching whenever I feel inadequate, frustrated, or depressed.
 
 When we have done all that we are able, we can rely on God's promised mercy.
 We have a _Savior,_ who has taken upon him not just the sins, but also "the
 pains and the sicknesses of his people ... that he may know according to the
 flesh how to succor his people according to their infirmities" ([Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10)). He is
-our Savior, and when we have done all that we can, he will make up the
-difference, in his own way and in his own time. Of that I testify in the name
-of Jesus Christ, amen.
+7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10)). He is our Savior, and
+when we have done all that we can, he will make up the difference, in his own
+way and in his own time. Of that I testify in the name of Jesus Christ, amen.
+
+## References
 

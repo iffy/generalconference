@@ -88,7 +88,7 @@ the sports all the runners run the race, though only one wins the prize. Like
 them, run to win! Now every athlete goes into strict training. They do it to
 win a perishable wreath, but our wreath will last forever. For my part I run
 with a clear goal before me. (See [1 Cor.
-9:24-26](https://www.lds.org/scriptures/nt/1-cor/9.24-26?lang=eng#23).)
+9:24-26](/scriptures/nt/1-cor/9.24-26?lang=eng#23).)
 
 Along this same line he said to Timothy, his beloved young friend and
 missionary companion:
@@ -97,7 +97,7 @@ missionary companion:
 Henceforth there is laid up for me a crown of righteousness, which the Lord,
 the righteous judge, shall give me at that day: and not to me only; but unto
 all them also that love his appearing." ([2 Tim.
-4:7-8](https://www.lds.org/scriptures/nt/2-tim/4.7-8?lang=eng#6).)
+4:7-8](/scriptures/nt/2-tim/4.7-8?lang=eng#6).)
 
 Taking the athletic contest to what was in ancient times the ultimate
 experience--a hand-to-hand battle to the death--Paul wrote this statement
@@ -126,7 +126,7 @@ word of God:
 
 "Praying always with all prayer and supplication in the Spirit, and watching
 thereunto with all perseverance and supplication for all saints." ([Eph.
-6:11-18](https://www.lds.org/scriptures/nt/eph/6.11-18?lang=eng#10).)
+6:11-18](/scriptures/nt/eph/6.11-18?lang=eng#10).)
 
 The Prophet Joseph Smith did not speak in such athletic or military terms, but
 he has given us perhaps the clearest statement of all on the need to become
@@ -153,8 +153,7 @@ great work. And out of small things proceedeth that which is great.
 
 "Behold, the Lord requireth the heart and a willing mind; and the willing and
 obedient shall eat the good of the land of Zion in these last days." ([D&amp;C
-64:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/64.33-34?lang=eng#32).)
+64:33-34](/scriptures/dc-testament/dc/64.33-34?lang=eng#32).)
 
 It has always been encouraging to me that the Lord said it is the "willing and
 obedient [who] shall eat the good of the land of Zion in these last days." All
@@ -184,7 +183,7 @@ strength, improving our attitudes and our ambitions, we will find ourselves
 successfully in the fold of the Good Shepherd. That will require discipline
 and training and exertion and strength. But as the Apostle Paul said, "I can
 do all things through Christ which strengtheneth me." ([Philip.
-4:13](https://www.lds.org/scriptures/nt/philip/4.13?lang=eng#12)).
+4:13](/scriptures/nt/philip/4.13?lang=eng#12)).
 
 A modern-day revelation makes this promise: "Put your trust in that Spirit
 which leadeth to do good--yea, to do justly, to walk humbly, to judge
@@ -195,10 +194,11 @@ shall enlighten your mind, which shall fill your soul with joy;
 
 "And then shall ye know, or by this shall you know, all things whatsoever you
 desire of me, which are pertaining unto things of righteousness, in faith
-believing in me that ye shall receive." ([D&amp;C
-11:12-14](https://www.lds.org/scriptures/dc-
+believing in me that ye shall receive." ([D&amp;C 11:12-14](/scriptures/dc-
 testament/dc/11.12-14?lang=eng#11).)
 
 May we follow the counsel to so labor and so live as to obtain the Spirit of
 God, I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

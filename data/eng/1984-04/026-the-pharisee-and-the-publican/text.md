@@ -3,7 +3,7 @@
 I would like to refer to one of the parables of the Savior found in the book
 of Luke, the parable commencing with this verse: "Two men went up into the
 temple to pray; the one a Pharisee, and the other a publican." ([Luke
-18:10](https://www.lds.org/scriptures/nt/luke/18.10?lang=eng#9).)
+18:10](/scriptures/nt/luke/18.10?lang=eng#9).)
 
 These words begin one of the many stories told by the Master Teacher during
 the three years of his earthly ministry. There is nothing in all literature
@@ -48,7 +48,7 @@ sinner.
 "I tell you, this man went down to his house justified rather than the other:
 for every man that exalteth himself shall be abased; and he that humbleth
 himself shall be exalted." ([Luke
-18:10-14](https://www.lds.org/scriptures/nt/luke/18.10-14?lang=eng#9).)
+18:10-14](/scriptures/nt/luke/18.10-14?lang=eng#9).)
 
 Apparently the scene is laid in Jerusalem at the temple, where two men had
 gone to pray during the time of day for private prayers. It is interesting
@@ -101,11 +101,10 @@ After the two men entered the temple, the Pharisee stood by himself, apart
 from the tax collector, and thanked God that he was "not as other men are,
 extortioners, unjust, adulterers" who fail to live the commandments of the
 law, "or even as this publican," he said. ([Luke
-18:11](https://www.lds.org/scriptures/nt/luke/18.11?lang=eng#10).) Though he
-was in form thanking God, his self-centered thoughts were on his own self-
-righteousness. In justification he added: "I fast twice in the week, I give
-tithes of all that I possess." ([Luke
-18:12](https://www.lds.org/scriptures/nt/luke/18.12?lang=eng#11).) His prayer
+18:11](/scriptures/nt/luke/18.11?lang=eng#10).) Though he was in form thanking
+God, his self-centered thoughts were on his own self-righteousness. In
+justification he added: "I fast twice in the week, I give tithes of all that I
+possess." ([Luke 18:12](/scriptures/nt/luke/18.12?lang=eng#11).) His prayer
 was not one of thankfulness, but of boastfulness. The boastful spirit and
 pride of this Pharisee is not unlike that of Rabbi Simeon ben Jochai,
 mentioned in the Talmud, who said: "If there were only thirty righteous
@@ -120,10 +119,9 @@ The tax collector standing afar off, feeling the weight of his iniquities
 pressing down upon him, and being conscious of his sins and unworthiness to
 stand before God, cast his eyes to the ground and "would not lift up so much
 as his eyes unto heaven" when he prayed. ([Luke
-18:13](https://www.lds.org/scriptures/nt/luke/18.13?lang=eng#12).) In deep
-distress he beat upon his breast and pleaded, "God be merciful to me a
-sinner." ([Luke
-18:13](https://www.lds.org/scriptures/nt/luke/18.13?lang=eng#12).)
+18:13](/scriptures/nt/luke/18.13?lang=eng#12).) In deep distress he beat upon
+his breast and pleaded, "God be merciful to me a sinner." ([Luke
+18:13](/scriptures/nt/luke/18.13?lang=eng#12).)
 
 Could there be greater contrast in the prayers of two men? The Pharisee stood
 apart because he believed he was better than other men, whom he considered as
@@ -136,22 +134,19 @@ for mercy and forgiveness of his sins.
 
 Continuing the story, Jesus then said: "I tell you, this man," referring to
 the publican, the despised tax collector, "went down to his house justified,
-rather than the other." ([Luke
-18:14](https://www.lds.org/scriptures/nt/luke/18.14?lang=eng#13).) In other
-words, the Lord said he was absolved, forgiven, or vindicated.
+rather than the other." ([Luke 18:14](/scriptures/nt/luke/18.14?lang=eng#13).)
+In other words, the Lord said he was absolved, forgiven, or vindicated.
 
 This statement gives meaning to what the Savior said on another occasion:
 "Except your righteousness shall exceed the righteousness of the scribes and
 Pharisees, ye shall in no case enter into the kingdom of heaven." ([Matt.
-5:20](https://www.lds.org/scriptures/nt/matt/5.20?lang=eng#19).)
+5:20](/scriptures/nt/matt/5.20?lang=eng#19).)
 
 The Master then concluded the parable with these words: "For every one that
 exalteth himself shall be abased; and he that humbleth himself shall be
-exalted." ([Luke
-18:14](https://www.lds.org/scriptures/nt/luke/18.14?lang=eng#13).) These are
+exalted." ([Luke 18:14](/scriptures/nt/luke/18.14?lang=eng#13).) These are
 almost the same words spoken by him in the house of one of the chief
-Pharisees. (See [Luke
-14:11](https://www.lds.org/scriptures/nt/luke/14.11?lang=eng#10).)
+Pharisees. (See [Luke 14:11](/scriptures/nt/luke/14.11?lang=eng#10).)
 
 Humility is an attribute of godliness possessed by true Saints. It is easy to
 understand why a proud man fails. He is content to rely upon himself only.
@@ -165,8 +160,7 @@ light. The Apostle Peter made this comment:
 the humble.
 
 "Humble yourselves therefore under the mighty hand of God, that he may exalt
-you in due time." ([1 Pet.
-5:5-6](https://www.lds.org/scriptures/nt/1-pet/5.5-6?lang=eng#4).)
+you in due time." ([1 Pet. 5:5-6](/scriptures/nt/1-pet/5.5-6?lang=eng#4).)
 
 From the beginning of time there have been those with pride and others who
 have followed divine admonition to be humble. History bears record that those
@@ -176,4 +170,6 @@ that one of them bears our name.
 
 May the Lord bless us as we strive to understand and follow his teachings is
 my prayer, in his holy name, amen.
+
+## References
 

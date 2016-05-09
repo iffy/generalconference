@@ -28,13 +28,12 @@ the high places, and did flourish.
 
 "And the Lord called his people ZION, because they were of one heart and one
 mind, and dwelt in righteousness; and there was no poor among them." ([Moses
-7:17-18](https://www.lds.org/scriptures/pgp/moses/7.17-18?lang=eng#16).)
+7:17-18](/scriptures/pgp/moses/7.17-18?lang=eng#16).)
 
 If we will do the things the Lord has asked us to do, we too will continue to
 be blessed and will grow in righteousness. In the revelation that the Prophet
-specified as "embracing the law of the Church" ([D&amp;C
-42](https://www.lds.org/scriptures/dc-testament/dc/42.title?lang=eng), chapter
-heading), the Lord said:
+specified as "embracing the law of the Church" ([D&amp;C 42](/scriptures/dc-
+testament/dc/42?lang=eng), chapter heading), the Lord said:
 
 "Behold, thou wilt remember the poor, and consecrate of thy properties for
 their support that which thou hast to impart unto them. ...
@@ -49,12 +48,11 @@ time, that every man who has need may be amply supplied and receive according
 to his wants.
 
 "Therefore, the residue shall be kept in my storehouse, to administer to the
-poor and the needy." ([D&amp;C 42:30-34](https://www.lds.org/scriptures/dc-
+poor and the needy." ([D&amp;C 42:30-34](/scriptures/dc-
 testament/dc/42.30-34?lang=eng#29).)
 
 "And this I do," said the Lord, "for the _salvation_ of my people." ([D&amp;C
-42:36](https://www.lds.org/scriptures/dc-testament/dc/42.36?lang=eng#35);
-italics added.)
+42:36](/scriptures/dc-testament/dc/42.36?lang=eng#35); italics added.)
 
 In this revelation, which the Prophet designated the "law of the Church," the
 Lord revealed the essentials of the united order, which was His program for
@@ -67,9 +65,8 @@ all things therein are mine.
 
 "And it is my purpose to provide for my saints, for all things are mine.
 
-"But it must needs be done in mine own way." ([D&amp;C
-104:14-16](https://www.lds.org/scriptures/dc-
-testament/dc/104.14-16?lang=eng#13).)
+"But it must needs be done in mine own way." ([D&amp;C 104:14-16](/scriptures
+/dc-testament/dc/104.14-16?lang=eng#13).)
 
 In _His way,_ there are two cardinal principles: (1) consecration, and (2)
 stewardship.
@@ -82,7 +79,7 @@ Having done so, the consecrator received from the Church a stewardship by a
 like conveyance. This stewardship could be more or less than the original
 consecration, the object being to make "every man equal according to his
 family, according to his circumstances and his wants and needs." ([D&amp;C
-51:3](https://www.lds.org/scriptures/dc-testament/dc/51.3?lang=eng#2).)
+51:3](/scriptures/dc-testament/dc/51.3?lang=eng#2).)
 
 This procedure preserved in every man the right of private ownership and
 management of his property. Indeed, the fundamental principle of the system
@@ -103,42 +100,12 @@ These divine principles are very simple and easily understood. However, there
 are a number of concepts which must prevail in order for this ideal to be
 realized. Chief among these concepts are the following:
 
-  1. _A belief in God_ and acceptance of Him as Lord of the earth and the author of the united order. Through it we seek righteousness and spiritual development. "For," declared the Lord, "if ye are not _equal in earthly things ye cannot be equal in obtaining heavenly things;_
-
-"For if you will," he continued, "that I give unto you a place in the
-celestial world, you must prepare yourselves by doing the things which I have
-commanded you and required of you. ...
-
-"That you may come up unto the crown prepared for you, and be made rulers over
-many kingdoms, saith the Lord God, the Holy One of Zion." ([D&amp;C 78:6-7,
-15](https://www.lds.org/scriptures/dc-testament/dc/78.6-7%2C15?lang=eng#5);
-italics added.)
-
-  2. The united order is implemented by _the voluntary freewill actions of men,_ evidenced by a consecration of all their property to the Church of God. No force of any kind is ever involved.
-
-  3. As to property, in harmony with Church belief as set forth in the Doctrine and Covenants, "no government can exist in peace, except such laws are framed and held inviolate as will secure to each individual the free exercise of conscience, [and] the right and control of property." ([D&amp;C 134:2](https://www.lds.org/scriptures/dc-testament/dc/134.2?lang=eng#1).) The united order is operated upon the principle of _private ownership and individual management._ Thus, in both ownership and management of property, the united order preserved to men their God-given agency. In this way, He holds each steward accountable for his own work and productivity. Indeed, He said:
-
-"For it is expedient that I, the Lord, should make every man accountable, as a
-steward over earthly blessings, which I have made and prepared for my
-creatures." ([D&amp;C 104:13](https://www.lds.org/scriptures/dc-
-testament/dc/104.13?lang=eng#12).)
-
-You can see from this the truth of President Clark's statement when he said:
-
-"The Church never was, and under existing commandments never will be, a
-communal society, under the directions thus far given by the Lord. The United
-Order was not communal nor communistic. It was completely and intensely
-individualistic, with a consecration of unneeded surpluses for the support of
-the Church and the poor." (J. Reuben Clark, Jr., "The United Order and Law of
-Consecration As Set Out in the Revelations of the Lord," from a pamphlet of
-articles reprinted from the Church Section of the _Deseret News,_ 1942, pp.
-26-27.)
-
-  4. _The united order is nonpolitical._ It is therefore totally unlike the various forms of socialism, which are political, both in theory and in practice. They are thus exposed to, and riddled by, the corruption which plagues and finally destroys all political governments which undertake to abridge man's agency.
-
+  1. _A belief in God_ and acceptance of Him as Lord of the earth and the author of the united order. Through it we seek righteousness and spiritual development. "For," declared the Lord, "if ye are not _equal in earthly things ye cannot be equal in obtaining heavenly things;_ "For if you will," he continued, "that I give unto you a place in the celestial world, you must prepare yourselves by doing the things which I have commanded you and required of you. ... "That you may come up unto the crown prepared for you, and be made rulers over many kingdoms, saith the Lord God, the Holy One of Zion." ([D&amp;C 78:6-7, 15](/scriptures/dc-testament/dc/78.6-7,15?lang=eng#5); italics added.) 
+  2. The united order is implemented by _the voluntary freewill actions of men,_ evidenced by a consecration of all their property to the Church of God. No force of any kind is ever involved. 
+  3. As to property, in harmony with Church belief as set forth in the Doctrine and Covenants, "no government can exist in peace, except such laws are framed and held inviolate as will secure to each individual the free exercise of conscience, [and] the right and control of property." ([D&amp;C 134:2](/scriptures/dc-testament/dc/134.2?lang=eng#1).) The united order is operated upon the principle of _private ownership and individual management._ Thus, in both ownership and management of property, the united order preserved to men their God-given agency. In this way, He holds each steward accountable for his own work and productivity. Indeed, He said: "For it is expedient that I, the Lord, should make every man accountable, as a steward over earthly blessings, which I have made and prepared for my creatures." ([D&amp;C 104:13](/scriptures/dc-testament/dc/104.13?lang=eng#12).) You can see from this the truth of President Clark's statement when he said: "The Church never was, and under existing commandments never will be, a communal society, under the directions thus far given by the Lord. The United Order was not communal nor communistic. It was completely and intensely individualistic, with a consecration of unneeded surpluses for the support of the Church and the poor." (J. Reuben Clark, Jr., "The United Order and Law of Consecration As Set Out in the Revelations of the Lord," from a pamphlet of articles reprinted from the Church Section of the _Deseret News,_ 1942, pp. 26-27.) 
+  4. _The united order is nonpolitical._ It is therefore totally unlike the various forms of socialism, which are political, both in theory and in practice. They are thus exposed to, and riddled by, the corruption which plagues and finally destroys all political governments which undertake to abridge man's agency. 
   5. _A righteous people is a prerequisite to the united order._
-
-  6. _The united order exalts the poor and humbles the rich._ In the process both are sanctified. The poor, released from the bondage and humiliating limitations of poverty, are enabled as free men to rise to their full potential, both temporally and spiritually. The rich, by consecration and by imparting of their surplus for the benefit of the poor, not by constraint, but willingly as an act of free will, evidence that charity for their fellowmen characterized by Mormon as "the pure love of Christ." ([Moro. 7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) In this way they qualify to "become the sons of God." ([Moro. 7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47).)
+  6. _The united order exalts the poor and humbles the rich._ In the process both are sanctified. The poor, released from the bondage and humiliating limitations of poverty, are enabled as free men to rise to their full potential, both temporally and spiritually. The rich, by consecration and by imparting of their surplus for the benefit of the poor, not by constraint, but willingly as an act of free will, evidence that charity for their fellowmen characterized by Mormon as "the pure love of Christ." ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) In this way they qualify to "become the sons of God." ([Moro. 7:48](/scriptures/bofm/moro/7.48?lang=eng#47).) 
 
 With these concepts in mind, we are better prepared to understand how our
 present Welfare Services efforts relate to the united order and the full ideal
@@ -155,7 +122,7 @@ celestial kingdom;
 
 "And Zion cannot be built up unless it is by the principles of the law of the
 celestial kingdom; otherwise I cannot receive her unto myself." ([D&amp;C
-105:3-5](https://www.lds.org/scriptures/dc-testament/dc/105.3-5?lang=eng#2).)
+105:3-5](/scriptures/dc-testament/dc/105.3-5?lang=eng#2).)
 
 He further indicated that:
 
@@ -165,29 +132,27 @@ the redemption of Zion--
 "That they themselves may be prepared, and that my people may be taught more
 perfectly, and have experience, and know more perfectly concerning their duty,
 and the things which I require at their hands." ([D&amp;C
-105:9-10](https://www.lds.org/scriptures/dc-
-testament/dc/105.9-10?lang=eng#8).)
+105:9-10](/scriptures/dc-testament/dc/105.9-10?lang=eng#8).)
 
 Full implementation of the united order must, according to the revelation,
-await the redemption of Zion. (See [D&amp;C
-105:34](https://www.lds.org/scriptures/dc-testament/dc/105.34?lang=eng#33).)
-In the meantime--while we are being more perfectly taught and are gaining
-experience--we should be strictly living the principles of the united order
-insofar as they are embodied in present Church requirements, such as tithing,
-fast offerings, welfare projects, storehouses, and other principles and
-practices. Through these programs we should, as individuals, implement in our
-own lives the bases of the united order.
+await the redemption of Zion. (See [D&amp;C 105:34](/scriptures/dc-
+testament/dc/105.34?lang=eng#33).) In the meantime--while we are being more
+perfectly taught and are gaining experience--we should be strictly living the
+principles of the united order insofar as they are embodied in present Church
+requirements, such as tithing, fast offerings, welfare projects, storehouses,
+and other principles and practices. Through these programs we should, as
+individuals, implement in our own lives the bases of the united order.
 
 The law of tithing, for example, gives us a great opportunity to implement the
 principle of consecration and stewardship. When it was instituted, four years
 after the united order experiment was suspended, the Lord required the people
 to put "all their surplus property ... into the hands of the bishop"; thereafter
 they were to "pay one-tenth of all their interest annually." ([D&amp;C 119:1,
-4](https://www.lds.org/scriptures/dc-testament/dc/119.1%2C4?lang=eng#0).) This
-law, still in force, implements to a degree at least the united order
-principle of stewardship. It leaves in the hands of each person the ownership
-and management of the property from which he produces the needs of himself and
-family. To use again the words of President Clark:
+4](/scriptures/dc-testament/dc/119.1,4?lang=eng#0).) This law, still in force,
+implements to a degree at least the united order principle of stewardship. It
+leaves in the hands of each person the ownership and management of the
+property from which he produces the needs of himself and family. To use again
+the words of President Clark:
 
 "In lieu of residues and surpluses which were accumulated and built up under
 the United Order, we, today, have our fast offerings, our Welfare donations,
@@ -214,31 +179,9 @@ and me is within ourselves.
 
 And now in line with these remarks, for three things I pray:
 
-  1. That the Lord will quicken our understanding of the covenant of consecration which we who are endowed have all made. President Kimball, in a landmark article published in the June 1976 _Ensign,_ has encouraged us to review what our righteous needs and desires are as compared to what our surplus or residue might be:
-
-"Many people spend most of their time working in the service of a self-image
-that includes sufficient money, stocks, bonds, investment portfolios,
-property, credit cards, furnishings, automobiles, and the like to _guarantee_
-carnal security throughout, it is hoped, a long and happy life. Forgotten is
-the fact that our assignment is to use these many resources in our families
-and quorums to build up the kingdom of God--to further the missionary effort
-and the genealogical and temple work; to raise our children up as fruitful
-servants unto the Lord; to bless others in every way, that they may also be
-fruitful. Instead, we expend these blessings on our own desires, and as Moroni
-said, 'Ye adorn yourselves with that which hath no life, and yet suffer the
-hungry, and the needy, and the naked, and the sick and the afflicted to pass
-by you, and notice them not.' ([Morm.
-8:39](https://www.lds.org/scriptures/bofm/morm/8.39?lang=eng#38).)
-
-"As the Lord himself said in our day, 'They seek not the Lord to establish his
-righteousness, but every man walketh in his own way, and after the image of
-his own God, whose image is in the likeness of the world, and _whose substance
-is that of an idol,_ which waxeth old and shall perish in Babylon, even
-Babylon the great, which shall fall.' ([D&amp;C
-1:16](https://www.lds.org/scriptures/dc-testament/dc/1.16?lang=eng#15);
-italics added.)" (_Ensign,_ June 1976, pp. 4-5.)
-
+  1. That the Lord will quicken our understanding of the covenant of consecration which we who are endowed have all made. President Kimball, in a landmark article published in the June 1976 _Ensign,_ has encouraged us to review what our righteous needs and desires are as compared to what our surplus or residue might be: "Many people spend most of their time working in the service of a self-image that includes sufficient money, stocks, bonds, investment portfolios, property, credit cards, furnishings, automobiles, and the like to _guarantee_ carnal security throughout, it is hoped, a long and happy life. Forgotten is the fact that our assignment is to use these many resources in our families and quorums to build up the kingdom of God--to further the missionary effort and the genealogical and temple work; to raise our children up as fruitful servants unto the Lord; to bless others in every way, that they may also be fruitful. Instead, we expend these blessings on our own desires, and as Moroni said, 'Ye adorn yourselves with that which hath no life, and yet suffer the hungry, and the needy, and the naked, and the sick and the afflicted to pass by you, and notice them not.' ([Morm. 8:39](/scriptures/bofm/morm/8.39?lang=eng#38).) "As the Lord himself said in our day, 'They seek not the Lord to establish his righteousness, but every man walketh in his own way, and after the image of his own God, whose image is in the likeness of the world, and _whose substance is that of an idol,_ which waxeth old and shall perish in Babylon, even Babylon the great, which shall fall.' ([D&amp;C 1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15); italics added.)" (_Ensign,_ June 1976, pp. 4-5.) 
   2. That we will study the talks of this session carefully and implement according to the dictates of the Spirit each facet of the welfare effort, _particularly the establishment of the Lord's storehouses._
+  3. That through faithful observance of the principles of tithing, the fast, and the welfare program, we will prepare ourselves to redeem Zion and ultimately live the united order is my prayer, in the name of Jesus Christ, our Lord. Amen. 
 
-  3. That through faithful observance of the principles of tithing, the fast, and the welfare program, we will prepare ourselves to redeem Zion and ultimately live the united order is my prayer, in the name of Jesus Christ, our Lord. Amen.
+## References
 

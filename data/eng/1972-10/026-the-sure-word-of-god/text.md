@@ -24,7 +24,7 @@ no man shall pierce thee. ...
 
 "... and the mountains shall flee before you, and the rivers shall turn from
 their course; and thou shalt abide in me, and I in you." ([Moses 6:31-32,
-34](https://www.lds.org/scriptures/pgp/moses/6.31-32%2C34?lang=eng#30).)
+34](/scriptures/pgp/moses/6.31-32,34?lang=eng#30).)
 
 These powers would be given to Enoch if he would but follow this great lead
 and accept the call. Enoch accepted the call. And then you will recall the
@@ -32,9 +32,8 @@ tremendous thing that happened--and I think this is absolutely beautiful, the
 way it is described in the scriptures, how the people described Enoch after he
 received the call. They said: "... and there is a strange thing in the land; a
 wild man hath come among us." ([Moses
-6:38](https://www.lds.org/scriptures/pgp/moses/6.38?lang=eng#37).) I think
-that is a tremendous description of one who serves totally and fully in the
-Lord's service.
+6:38](/scriptures/pgp/moses/6.38?lang=eng#37).) I think that is a tremendous
+description of one who serves totally and fully in the Lord's service.
 
 Enoch, of course, had some great associations. He happened one time to be
 conversing with the Lord, and he said, "How is it that thou canst weep, seeing
@@ -44,7 +43,7 @@ thou art holy, and from all eternity to all eternity?
 millions of earths like this, it would not be a beginning to the number of thy
 creations; and thy curtains are stretched out still; ... and also thou art just;
 thou art merciful and kind forever." ([Moses
-7:29-30](https://www.lds.org/scriptures/pgp/moses/7.29-30?lang=eng#28).)
+7:29-30](/scriptures/pgp/moses/7.29-30?lang=eng#28).)
 
 I want you to know that when I read those sacred words, I felt and had the
 feelings, I believe, that Enoch might have had in some small degree. And each
@@ -53,9 +52,8 @@ of you can have those same feelings.
 And then, I believe, later on Enoch had the privilege of seeing all the
 generations of man and beholding them in their wickedness, and then Enoch wept
 and stretched out his arms; and the scripture says, "And his heart swelled
-wide as eternity. ..." ([Moses
-7:41](https://www.lds.org/scriptures/pgp/moses/7.41?lang=eng#40).) I think
-that is a beautiful description.
+wide as eternity. ..." ([Moses 7:41](/scriptures/pgp/moses/7.41?lang=eng#40).) I
+think that is a beautiful description.
 
 I heard our modern prophet say something similar. He wept and then he said,
 "As I thought about my responsibility, my heart and soul went out to the
@@ -65,9 +63,9 @@ prophets?
 Then what about Jeremiah? The Lord called Jeremiah and said, I knew thee
 before thou wast born, "and I ordained thee a prophet unto the nations." And
 then the scripture records: "Then said I, Ah, Lord God! behold, I cannot
-speak: for I am a child." ([Jer.
-1:5-6](https://www.lds.org/scriptures/ot/jer/1.5-6?lang=eng#4).) And yet the
-Lord took this young man and made of him the great prophet Jeremiah.
+speak: for I am a child." ([Jer. 1:5-6](/scriptures/ot/jer/1.5-6?lang=eng#4).)
+And yet the Lord took this young man and made of him the great prophet
+Jeremiah.
 
 And then again, let's take a look at Amos. The Lord called Amos to go down to
 Israel and prophesy; Amos did this, and Amaziah, the king's priest, was wroth
@@ -78,10 +76,9 @@ eat bread and leave us alone. And then Amos said, I think with all the courage
 and all the dignity of a prophet, "I was no prophet, neither was I a prophet's
 son; but I was an herdman, and a gatherer of sycomore fruit. And the Lord ...
 said unto me, Go, prophesy unto my people Israel. Now therefore hear thou the
-word of the Lord." ([Amos
-7:12-16](https://www.lds.org/scriptures/ot/amos/7.12-16?lang=eng#11).) And
-with all the righteous integrity of one who had this calling, he did exactly
-that.
+word of the Lord." ([Amos 7:12-16](/scriptures/ot/amos/7.12-16?lang=eng#11).)
+And with all the righteous integrity of one who had this calling, he did
+exactly that.
 
 Then I want to tell you the type of experience I had when I read the Book of
 Mormon, and this great soul Enos, a young man, the son of a prophet in this
@@ -111,7 +108,7 @@ thou shalt be blessed.
 "And I said: Lord, how is it done?
 
 "And he said unto me: Because of thy faith in Christ. ..." ([Enos
-1:1-8](https://www.lds.org/scriptures/bofm/enos/1.1-8?lang=eng#0).)
+1:1-8](/scriptures/bofm/enos/1.1-8?lang=eng#0).)
 
 Young men, did you hear those words? _Because of thy faith in Christ!_
 
@@ -168,8 +165,7 @@ the other hand, there can be nothing so exquisite and sweet as was my joy.
 "Yea, methought I saw, even as our Father Lehi saw, God sitting upon his
 throne, surrounded with numberless concourses of angels, in the attitude of
 singing and praising their God, ... and my soul did long to be there." ([Alma
-36:6-10,
-12-22](https://www.lds.org/scriptures/bofm/alma/36.6-10%2C12-22?lang=eng#5).)
+36:6-10, 12-22](/scriptures/bofm/alma/36.6-10,12-22?lang=eng#5).)
 
 Now, contrast those two experiences of Alma: one, that he would be banished
 and extinct, both soul and body; and the other, that he longed to be in the
@@ -182,10 +178,10 @@ and study them and learn of them.
 Let me tell you the greatest experience I believe I have had in all my
 readings of the scriptures--and I am sharing something that is very tender
 with me. I remember the night that I read 3 Nephi the 17th chapter [[3 Ne.
-17](https://www.lds.org/scriptures/bofm/3-ne/17.title?lang=eng)]. That is when
-I discovered the Lord Jesus Christ, my Redeemer, the Lord of lords, the King
-of kings, my Savior, my personal Savior; and I believe that is where I finally
-found the description of the Savior as I thought him to be.
+17](/scriptures/bofm/3-ne/17?lang=eng)]. That is when I discovered the Lord
+Jesus Christ, my Redeemer, the Lord of lords, the King of kings, my Savior, my
+personal Savior; and I believe that is where I finally found the description
+of the Savior as I thought him to be.
 
 He had been with the Nephite people all the day long, you will recall, and
 finally said:
@@ -252,7 +248,7 @@ about, ... and the angels did minister unto them.
 "And the multitude did see and hear and bear record ... and they were in number
 about two thousand and five hundred [and ONE] souls" who were in that
 beautiful experience with the Savior. (See [3 Ne.
-17](https://www.lds.org/scriptures/bofm/3-ne/17.title?lang=eng).)
+17](/scriptures/bofm/3-ne/17?lang=eng).)
 
 I want you to know I was there. I wouldn't know any more surely if I had been
 there than I would know having read this book. And I promise you that
@@ -266,4 +262,6 @@ I want you to know that I have had burned into my soul like nothing else in my
 life the knowledge that President Harold B. Lee is a prophet. I so testify and
 admonish you to read the scriptures, to go back to the sure word of God. In
 the name of Jesus Christ. Amen.
+
+## References
 

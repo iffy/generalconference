@@ -7,7 +7,7 @@ who have spoken. President Kimball is not only a great leader but a great man.
 His faith and works are incomparable. In my estimation he is as great as any
 prophet that preceded him since the time of Adam. I know that he is one of the
 great and noble ones the Lord referred to while conversing with Abraham. (See
-[Abr. 3:22](https://www.lds.org/scriptures/pgp/abr/3.22?lang=eng#21).)
+[Abr. 3:22](/scriptures/pgp/abr/3.22?lang=eng#21).)
 
 In Fourth Nephi, verses 15 and 17, my brothers and sisters, we read:
 
@@ -17,7 +17,7 @@ dwell in the hearts of the people.
 "There were no robbers, nor murderers, neither were there Lamanites, nor any
 manner of -ites; but they were in one, the children of Christ, and heirs to
 the kingdom of God." [[4 Ne. 1:15,
-17](https://www.lds.org/scriptures/bofm/4-ne/1.15%2C17?lang=eng#14)]
+17](/scriptures/bofm/4-ne/1.15,17?lang=eng#14)]
 
 As I look at you today, I can't help but feel warm and thrilled inside to see
 a similar atmosphere of love and compassion, unity and warmth among you as was
@@ -44,8 +44,7 @@ and with all thy mind.
 "This is the first and great commandment.
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-([Matt.
-22:37-39](https://www.lds.org/scriptures/nt/matt/22.37-39?lang=eng#36).)
+([Matt. 22:37-39](/scriptures/nt/matt/22.37-39?lang=eng#36).)
 
 Of all the great commandments given to us by our Heavenly Father, he rates
 these number one and two. My brothers and sisters, you cannot live one without
@@ -57,8 +56,7 @@ Again we read in Fourth Nephi:
 
 "And they had all things in common among them; therefore there were not rich
 and poor, bond and free, but they were all made free, and partakers of the
-heavenly gift." ([4 Ne.
-1:3](https://www.lds.org/scriptures/bofm/4-ne/1.3?lang=eng#2).)
+heavenly gift." ([4 Ne. 1:3](/scriptures/bofm/4-ne/1.3?lang=eng#2).)
 
 In like manner, my brothers and sisters, among you today there are really no
 rich, no poor. To me you're all equal in the sense that you are all Latter-day
@@ -77,7 +75,7 @@ again, brothers and sisters, what will happen after you leave this building
 and return home? Will you be common with all and listen to the cries of the
 poor, the deprived, and the oppressed? The Lord said, "Inasmuch as ye have
 done it unto one of the least of these my brethren, ye have done it unto me."
-([Matt. 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 The mission of this church is to focus on others. The Lord has instructed us
 to give meat to the hungry, give drink to the thirsty, clothe the naked, visit
@@ -86,7 +84,7 @@ the sick and those in prison. Again Nephi said:
 "The people were all converted unto the Lord, upon all the face of the land,
 both Nephites and Lamanites, and there were no contentions and disputations
 among them, and every man did deal justly one with another." ([4 Ne.
-1:2](https://www.lds.org/scriptures/bofm/4-ne/1.2?lang=eng#1).)
+1:2](/scriptures/bofm/4-ne/1.2?lang=eng#1).)
 
 In like manner today, as I look at you, you are all converted to the Lord and
 there is no disputation among you. You are all willing and capable of dealing
@@ -102,8 +100,7 @@ Again we read from Nephi's account the following:
 "And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor
 lyings, nor murders, nor any manner of lasciviousness; and surely there could
 not be a happier people among all the people who had been created by the hand
-of God." ([4 Ne.
-1:16](https://www.lds.org/scriptures/bofm/4-ne/1.16?lang=eng#15).)
+of God." ([4 Ne. 1:16](/scriptures/bofm/4-ne/1.16?lang=eng#15).)
 
 This passage of scripture, my brothers and sisters, describes the happy and
 beautiful estate of my Book of Mormon ancestors. They lived in peace and
@@ -144,4 +141,6 @@ and Jesus the Christ actually and really came down and visited with him. It's
 no myth, no legend, no fairy tale, no make-believe. It really happened. And
 with us today is a living prophet, President Kimball. I love him; I sustain
 him; I respect him. In the name of Jesus Christ. Amen.
+
+## References
 

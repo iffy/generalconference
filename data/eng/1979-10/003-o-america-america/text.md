@@ -9,13 +9,13 @@ them. They said:
 
 "Is not this the carpenter, the son of Mary, the brother of James, and Joses,
 and of Juda, and Simon? and are not his sisters here with us?" ([Mark
-6:3](https://www.lds.org/scriptures/nt/mark/6.3?lang=eng#2)).
+6:3](/scriptures/nt/mark/6.3?lang=eng#2)).
 
 Jesus was grieved at their rejection of him and "marvelled because of their
-unbelief" ([Mark 6:6](https://www.lds.org/scriptures/nt/mark/6.6?lang=eng#5)).
-It was then that he said, "A prophet is not without honour, but in his own
-country, and among his own kin, and in his own house" ([Mark
-6:4](https://www.lds.org/scriptures/nt/mark/6.4?lang=eng#3)).
+unbelief" ([Mark 6:6](/scriptures/nt/mark/6.6?lang=eng#5)). It was then that
+he said, "A prophet is not without honour, but in his own country, and among
+his own kin, and in his own house" ([Mark
+6:4](/scriptures/nt/mark/6.4?lang=eng#3)).
 
 But he was rebuffed not only in Nazareth. By the end of his ministry, it
 seemed that nearly the whole country had turned against him.
@@ -23,20 +23,17 @@ seemed that nearly the whole country had turned against him.
 As he contemplated his rejection in Jerusalem, he looked down upon the city
 and said, "O Jerusalem, Jerusalem, ... how often would I have gathered thy
 children together, even as a hen gathereth her chickens under her wings, and
-ye would not!" ([Matt.
-23:37](https://www.lds.org/scriptures/nt/matt/23.37?lang=eng#36)).
+ye would not!" ([Matt. 23:37](/scriptures/nt/matt/23.37?lang=eng#36)).
 
 And then he foretold the result of their rejection--a tragic consequence which
 they would bring upon themselves. He said, "Behold, your house is left unto
-you desolate" ([Matt.
-23:38](https://www.lds.org/scriptures/nt/matt/23.38?lang=eng#37)).
+you desolate" ([Matt. 23:38](/scriptures/nt/matt/23.38?lang=eng#37)).
 
 And what a desolation it was! As the Roman legions swept through the Holy Land
 only a few years later and wiped out Jerusalem, it was such a catastrophe that
 it fully reflected the Savior's prediction when he said, "Then shall be great
 tribulation, such as was not since the beginning of the world to this time,
-no, nor ever shall be" ([Matt.
-24:21](https://www.lds.org/scriptures/nt/matt/24.21?lang=eng#20)).
+no, nor ever shall be" ([Matt. 24:21](/scriptures/nt/matt/24.21?lang=eng#20)).
 
 As Josephus describes it in his writings, it is dreadful to contemplate, even
 after almost two thousand years.
@@ -81,7 +78,7 @@ in the face of his declaration that Christ is not divided but that Christians
 should all speak the same thing and that there should be no divisions among
 them? Did he not say that Christians should be perfectly joined together in
 the same mind and in the same judgment and not divide into separate groups?
-(See [1 Cor. 1](https://www.lds.org/scriptures/nt/1-cor/1.title?lang=eng).)
+(See [1 Cor. 1](/scriptures/nt/1-cor/1?lang=eng).)
 
 Are not the divisions in Christianity and the turmoil within Christian nations
 evidence of their departure from Christ?
@@ -104,8 +101,8 @@ What does the broken bread represent? The torn flesh of Christ!
 What does the cup represent? His blood shed on the cross in the midst of
 suffering of infinite proportions, suffering which made himself, even God, the
 greatest of all, to tremble because of pain and to bleed at every pore and
-suffer both in body and spirit (see [D&amp;C
-19:18](https://www.lds.org/scriptures/dc-testament/dc/19.18?lang=eng#17)).
+suffer both in body and spirit (see [D&amp;C 19:18](/scriptures/dc-
+testament/dc/19.18?lang=eng#17)).
 
 The Atonement was the most important thing that has ever happened. It is by
 virtue of the Atonement that we pledge obedience to our Father in Heaven. We
@@ -130,8 +127,8 @@ must include a full acceptance of his prescribed ordinances.
 
 It is by obedience to his commandments that we prove our love for him. Did he
 not say, "If ye love me, keep my commandments" ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14))? And he made
-it abundantly clear that if we obey not, we love not.
+14:15](/scriptures/nt/john/14.15?lang=eng#14))? And he made it abundantly
+clear that if we obey not, we love not.
 
 Now I ask you, how different are we Latter-day Saints from the rest of the
 world?
@@ -146,11 +143,11 @@ love and forgiveness to all, even to his enemies, if they would repent.
 
 It was in this sense that he spoke to them and said, "O Jerusalem, Jerusalem,
 ... how often would I have gathered thy children together, ... and ye would not!"
-([Matt. 23:37](https://www.lds.org/scriptures/nt/matt/23.37?lang=eng#36)).
+([Matt. 23:37](/scriptures/nt/matt/23.37?lang=eng#36)).
 
 As I study his words, I ask myself if the Lord would speak to modern peoples
 in the same compassionate way, and I feel that he would, since he is no
-respecter of persons (see [D&amp;C 1:35](https://www.lds.org/scriptures/dc-
+respecter of persons (see [D&amp;C 1:35](/scriptures/dc-
 testament/dc/1.35?lang=eng#34)).
 
 Do you suppose that he might now say, "O America, America, how often would I
@@ -168,8 +165,8 @@ apostasy of ancient Israel when they turned to idolatry?
 
 It is no trivial thing to reject Almighty God, either by a show of
 indifference or with malice aforethought. The divine words still echo in our
-ears: "Trifle not with sacred things" ([D&amp;C
-6:12](https://www.lds.org/scriptures/dc-testament/dc/6.12?lang=eng#11)).
+ears: "Trifle not with sacred things" ([D&amp;C 6:12](/scriptures/dc-
+testament/dc/6.12?lang=eng#11)).
 
 His commandments are clearly set forth. His standards of morality, honesty,
 and the other virtues are well known. But sadly enough, they are noted more
@@ -184,8 +181,7 @@ doing so in the name of the constitution of this land, where we daily affirm,
 
 Are they for Christ or against him in this Christian land? Can there be any
 neutrality with respect to God? Christ says no! We are either for him or
-against him (see [Matt.
-12:30](https://www.lds.org/scriptures/nt/matt/12.30?lang=eng#29)).
+against him (see [Matt. 12:30](/scriptures/nt/matt/12.30?lang=eng#29)).
 
 Why should legislatures favor a wholesale violation of the Sabbath day and
 defeat Sunday closing laws? Why should so-called Christian peoples put up with
@@ -218,7 +214,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light" ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27)).
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27)).
 
 Think of the burden of war and the cost of munitions to preserve the peace.
 Think of the burden of crime and of overwhelming debt, both private and
@@ -279,6 +275,8 @@ than what we now pay, and the rewards are indescribably greater.
 
 O Jerusalem! O America! O England, and all other countries! The Lord says to
 all, "Come unto me, ... and I will give you rest" ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27)). In the name
-of the Lord Jesus Christ, amen.
+11:28](/scriptures/nt/matt/11.28?lang=eng#27)). In the name of the Lord Jesus
+Christ, amen.
+
+## References
 

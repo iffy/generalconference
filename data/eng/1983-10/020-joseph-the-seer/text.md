@@ -6,18 +6,17 @@ Joseph Smith, Jr. The communication capacity of this age and the global impact
 of his work have so ensured.
 
 Young Joseph was told that his name would be "both good and evil spoken of"
-throughout the world. ([JS--H
-1:33](https://www.lds.org/scriptures/pgp/js-h/1.33?lang=eng#32).) Except from
-a divine source, how audacious a statement! Yet his contemporary religious
-leaders, then much better known than Joseph, have faded into the footnotes of
-history, while the work of Joseph Smith grows constantly and globally.
+throughout the world. ([JS--H 1:33](/scriptures/pgp/js-h/1.33?lang=eng#32).)
+Except from a divine source, how audacious a statement! Yet his contemporary
+religious leaders, then much better known than Joseph, have faded into the
+footnotes of history, while the work of Joseph Smith grows constantly and
+globally.
 
 We have no hesitancy, however, in stipulating that Joseph was, by the
 standards of the world, "not learned." Isaiah foresaw it. (See [Isa.
-29:11-12](https://www.lds.org/scriptures/ot/isa/29.11-12?lang=eng#10).) Joseph
-did not have the skilled, formal tutoring young Saul had at the feet of
-Gamaliel. (See [Acts
-22:3](https://www.lds.org/scriptures/nt/acts/22.3?lang=eng#2).)
+29:11-12](/scriptures/ot/isa/29.11-12?lang=eng#10).) Joseph did not have the
+skilled, formal tutoring young Saul had at the feet of Gamaliel. (See [Acts
+22:3](/scriptures/nt/acts/22.3?lang=eng#2).)
 
 Emma Smith reportedly said that Joseph, at the time of the translation of the
 Book of Mormon, could not compose a "well-worded letter let alone dictating a
@@ -27,15 +26,14 @@ Book of Mormon,_ Salt Lake City: Deseret Book Co., 1968, p. 28.)
 
 This obscure young man apparently paused while translating and dictating to
 Emma--probably from the fourth chapter of 1 Nephi [[1 Ne.
-4](https://www.lds.org/scriptures/bofm/1-ne/4.title?lang=eng)]--concerning the
-"wall of Jerusalem"--and said, in effect, "Emma, I didn't know there was a
-wall around Jerusalem."
+4](/scriptures/bofm/1-ne/4?lang=eng)]--concerning the "wall of Jerusalem"--and
+said, in effect, "Emma, I didn't know there was a wall around Jerusalem."
 
 But Joseph's keen mind was being awakened and expanded as the tutoring words
 of the Lord and of past prophets flowed through his quickened consciousness.
 In fact, he was the very seer foreseen anciently by the earlier Joseph in
 Egypt! (See [2 Ne. 3:6-7,
-16-18](https://www.lds.org/scriptures/bofm/2-ne/3.6-7%2C16-18?lang=eng#5).)
+16-18](/scriptures/bofm/2-ne/3.6-7,16-18?lang=eng#5).)
 
 In a prophetic father's blessing given in December 1834 to Joseph Smith,
 Junior, Father Smith confirmed those promises given the ancient Joseph, and
@@ -48,7 +46,7 @@ Smith, Jr.] his heart rejoiced and his soul was satisfied."
 
 Young Joseph also heard his father promise, "Thou shalt like to do the work
 which the Lord shall command Thee." (See [2 Ne.
-3:8](https://www.lds.org/scriptures/bofm/2-ne/3.8?lang=eng#7).)
+3:8](/scriptures/bofm/2-ne/3.8?lang=eng#7).)
 
 Earlier, during the approximately ninety days of translating, Joseph was
 processing--and at a remarkable rate--truths and concepts of immense
@@ -61,7 +59,7 @@ of the most fundamental and demanding declarations of Jesus?
 
 "Verily I say unto you, Except ye be converted, and become as little children,
 ye shall not enter into the kingdom of heaven." ([Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2).)
+18:3](/scriptures/nt/matt/18.3?lang=eng#2).)
 
 Through Joseph Smith's translation came these stunning, defining, and sobering
 words about what childlike and saintly submissiveness really means:
@@ -70,35 +68,32 @@ words about what childlike and saintly submissiveness really means:
 child, submissive, meek, humble, patient, full of love, willing to submit to
 all things which the Lord seeth fit to inflict upon him, even as a child doth
 submit to his father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 Likewise, Paul wrote that since Jesus was tempted, he understood how to succor
-us when we are tempted. (See [Heb.
-2:18](https://www.lds.org/scriptures/nt/heb/2.18?lang=eng#17); [Heb.
-4:15](https://www.lds.org/scriptures/nt/heb/4.15?lang=eng#14).) Yet it was
-through Joseph Smith that these confirming and clarifying words of Alma were
-given:
+us when we are tempted. (See [Heb. 2:18](/scriptures/nt/heb/2.18?lang=eng#17);
+[Heb. 4:15](/scriptures/nt/heb/4.15?lang=eng#14).) Yet it was through Joseph
+Smith that these confirming and clarifying words of Alma were given:
 
 "And [Jesus] shall go forth, suffering pains and afflictions and temptations
 of every kind; ... he will take upon him the pains and the sicknesses of his
 people ... that his bowels may be filled with mercy, according to the flesh,
 that he may know according to the flesh how to succor his people according to
 their infirmities." ([Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10).)
+7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10).)
 
 Illuminated also was petitionary prayer: "Whatsoever ye shall ask in prayer,
 believing, ye shall receive." ([Matt.
-21:22](https://www.lds.org/scriptures/nt/matt/21.22?lang=eng#21).) "Plain and
-precious" and needed light was added to those words through Joseph:
+21:22](/scriptures/nt/matt/21.22?lang=eng#21).) "Plain and precious" and
+needed light was added to those words through Joseph:
 
 "And whatsoever ye shall ask the Father in my name, _which is right,_
 believing that ye shall receive, behold it shall be given unto you." ([3 Ne.
-18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19); italics
-added.)
+18:20](/scriptures/bofm/3-ne/18.20?lang=eng#19); italics added.)
 
 "He that asketh in the Spirit asketh according to the will of God; wherefore
-it is done even as he asketh." ([D&amp;C 46:30](https://www.lds.org/scriptures
-/dc-testament/dc/46.30?lang=eng#29).)
+it is done even as he asketh." ([D&amp;C 46:30](/scriptures/dc-
+testament/dc/46.30?lang=eng#29).)
 
 Not only did confirming and clarifying truths flow through Joseph, but also
 rich language and deep concepts.
@@ -111,20 +106,20 @@ them!
 
 "Yea, they are as a wild flock which fleeth from the shepherd, and scattereth,
 and are driven." ([Mosiah
-8:20-21](https://www.lds.org/scriptures/bofm/mosiah/8.20-21?lang=eng#19).)
+8:20-21](/scriptures/bofm/mosiah/8.20-21?lang=eng#19).)
 
 From Jacob:
 
 "Ye have broken the hearts of your tender wives, and lost the confidence of
 your children, because of your bad examples before them; ... many hearts died,
 pierced with deep wounds." ([Jacob
-2:35](https://www.lds.org/scriptures/bofm/jacob/2.35?lang=eng#34).)
+2:35](/scriptures/bofm/jacob/2.35?lang=eng#34).)
 
 From Amulek, who finally triumphed over ambivalence:
 
 "Nevertheless, I did harden my heart, for I was called many times and I would
 not hear; therefore I knew concerning these things, yet I would not know."
-([Alma 10:6](https://www.lds.org/scriptures/bofm/alma/10.6?lang=eng#5).)
+([Alma 10:6](/scriptures/bofm/alma/10.6?lang=eng#5).)
 
 Theology and beauty combine, again and again, in the pages provided through
 Joseph, as when the resurrected Christ appeared in the Western Hemisphere:
@@ -137,7 +132,7 @@ written. ...
 the hearts of men conceive so great and marvelous things as we both saw and
 heard Jesus speak; and no one can conceive of the joy which filled our souls
 at the time we heard him pray for us unto the Father." ([3 Ne.
-17:15-17](https://www.lds.org/scriptures/bofm/3-ne/17.15-17?lang=eng#14).)
+17:15-17](/scriptures/bofm/3-ne/17.15-17?lang=eng#14).)
 
 Serious study of the blessed Book of Mormon admits one to a wonder world of
 complexity and beauty, even in the midst of the book's simple, but powerful,
@@ -150,7 +145,7 @@ Joseph Smith:
 
 "If ye shall believe in Christ ye will believe in these words, for they are
 the words of Christ, and he hath given them unto me." ([2 Ne.
-33:10](https://www.lds.org/scriptures/bofm/2-ne/33.10?lang=eng#9).)
+33:10](/scriptures/bofm/2-ne/33.10?lang=eng#9).)
 
 Joseph later learned to express his own thoughts inspirationally, as in his
 forgiving letter of 1840 to a betraying but repenting W. W. Phelps.
@@ -175,14 +170,11 @@ identify with these words of an ancient prophet, which he translated:
 "Condemn me not because of mine imperfection, neither my father, because of
 his imperfection, ... but rather give thanks unto God that he hath made manifest
 unto you our imperfections, that ye may learn to be more wise than we have
-been." ([Morm.
-9:31](https://www.lds.org/scriptures/bofm/morm/9.31?lang=eng#30); see also
-[D&amp;C 67:5](https://www.lds.org/scriptures/dc-
-testament/dc/67.5?lang=eng#4).)
+been." ([Morm. 9:31](/scriptures/bofm/morm/9.31?lang=eng#30); see also
+[D&amp;C 67:5](/scriptures/dc-testament/dc/67.5?lang=eng#4).)
 
 Joseph, who translated the instructive words "there is an opposition in all
-things" ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10)), came to
+things" ([2 Ne. 2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10)), came to
 understand, by experience, that the calisthenics of spiritual growth involve
 isometrics, the pitting of the emerging self against the stern resistance of
 the old self.
@@ -193,17 +185,16 @@ beset Paul wrote:
 
 "For, when we were come into Macedonia, our flesh had no rest, but we were
 troubled on every side; without were fightings, within were fears." ([2 Cor.
-7:5](https://www.lds.org/scriptures/nt/2-cor/7.5?lang=eng#4); see also [2 Cor.
-4:8](https://www.lds.org/scriptures/nt/2-cor/4.8?lang=eng#7).)
+7:5](/scriptures/nt/2-cor/7.5?lang=eng#4); see also [2 Cor.
+4:8](/scriptures/nt/2-cor/4.8?lang=eng#7).)
 
 Was Joseph unjustly accused as were other prophets? Yes! Even unto this very
 day fragments of fact are flung at his memory. Paul was accused of being mad
-and deranged. (See [Acts
-26:24](https://www.lds.org/scriptures/nt/acts/26.24?lang=eng#23).) Even Jesus
-himself was accused of being a winebibber, of being possessed of a devil, and
-of being mad. (See [Matt.
-11:19](https://www.lds.org/scriptures/nt/matt/11.19?lang=eng#18); [John
-10:20](https://www.lds.org/scriptures/nt/john/10.20?lang=eng#19).)
+and deranged. (See [Acts 26:24](/scriptures/nt/acts/26.24?lang=eng#23).) Even
+Jesus himself was accused of being a winebibber, of being possessed of a
+devil, and of being mad. (See [Matt.
+11:19](/scriptures/nt/matt/11.19?lang=eng#18); [John
+10:20](/scriptures/nt/john/10.20?lang=eng#19).)
 
 Yet, in the midst of all these things, as promised, Joseph loved the work to
 which he had been called. And he loved his associates! In giving individual
@@ -263,8 +254,7 @@ were "Joseph, Joseph, Joseph!" (Joseph Fielding Smith, _Essentials in Church
 History,_ 24th ed., Salt Lake City: Deseret Book Co., 1971, p. 459.)
 
 Thus, those who revile Joseph Smith will not change Joseph's status with the
-Lord (see [2 Ne.
-3:8](https://www.lds.org/scriptures/bofm/2-ne/3.8?lang=eng#7))--merely their
+Lord (see [2 Ne. 3:8](/scriptures/bofm/2-ne/3.8?lang=eng#7))--merely their
 own! Instead--as was promised Joseph in an 1834 father's blessing:
 
 "Thousands and tens of thousands shall come to a knowledge of the truth,
@@ -279,19 +269,17 @@ was instrumental!
 
 Even now, one hears faintly the distant but approaching drum roll of history
 building towards a crescendo of mortal recognition when all shall see "things
-as they really are." ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12).)
+as they really are." ([Jacob 4:13](/scriptures/bofm/jacob/4.13?lang=eng#12).)
 
 Meanwhile, the ancient records which a young Joseph translated will be with us
 "from generation to generation as long as the earth shall stand." ([2 Ne.
-25:22](https://www.lds.org/scriptures/bofm/2-ne/25.22?lang=eng#21); see also
-[D&amp;C 5:10](https://www.lds.org/scriptures/dc-
-testament/dc/5.10?lang=eng#9).) These records defined a seer as one who can
-translate ancient records, is a revelator, and knows of things past and
-future. (See [Mosiah
-8:13-17](https://www.lds.org/scriptures/bofm/mosiah/8.13-17?lang=eng#12).)
-Such a seer, wrote Ammon, is greater than a prophet! (See [Mosiah
-8:15-17](https://www.lds.org/scriptures/bofm/mosiah/8.15-17?lang=eng#14).)
+25:22](/scriptures/bofm/2-ne/25.22?lang=eng#21); see also [D&amp;C
+5:10](/scriptures/dc-testament/dc/5.10?lang=eng#9).) These records defined a
+seer as one who can translate ancient records, is a revelator, and knows of
+things past and future. (See [Mosiah
+8:13-17](/scriptures/bofm/mosiah/8.13-17?lang=eng#12).) Such a seer, wrote
+Ammon, is greater than a prophet! (See [Mosiah
+8:15-17](/scriptures/bofm/mosiah/8.15-17?lang=eng#14).)
 
 Therefore, brothers and sisters, I have no hesitancy--only gladness--in
 declaring my everlasting admiration for Joseph, the Seer! I thank the Father
@@ -300,4 +288,6 @@ calling, directing, and tutoring Joseph!
 
 Humbly, I give apostolic "praise to the man who communed with Jehovah," in the
 name of Jesus Christ, amen!
+
+## References
 

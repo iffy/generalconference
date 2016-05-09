@@ -36,9 +36,9 @@ There is nothing more helpful than prayer to open our understanding of the
 scriptures. Through prayer we can attune our minds to seek the answers to our
 searchings. The Lord said: "Ask, and it shall be given you; seek, and ye shall
 find; knock, and it shall be opened unto you" ([Luke
-11:9](https://www.lds.org/scriptures/nt/luke/11.9?lang=eng#8)). Herein is
-Christ's reassurance that if we will ask, seek, and knock, the Holy Spirit
-will guide our understanding if we are ready and eager to receive.
+11:9](/scriptures/nt/luke/11.9?lang=eng#8)). Herein is Christ's reassurance
+that if we will ask, seek, and knock, the Holy Spirit will guide our
+understanding if we are ready and eager to receive.
 
 Many find that the best time to study is in the morning after a night's rest
 has cleared the mind of the many cares that interrupt thought. Others prefer
@@ -88,7 +88,7 @@ death: I pray thee, come and lay thy hands on her, that she may be healed; and
 she shall live.
 
 "And Jesus went with him" ([Mark
-5:22-24](https://www.lds.org/scriptures/nt/mark/5.22-24?lang=eng#21)).
+5:22-24](/scriptures/nt/mark/5.22-24?lang=eng#21)).
 
 The reading time of that portion of the story is about thirty seconds. It is
 short and uncomplicated. The visual picture is clear and even a child could
@@ -162,4 +162,6 @@ living God.
 
 May the Lord bless us in our study and righteous quest to seek him, I pray in
 the name of Jesus Christ. Amen.
+
+## References
 

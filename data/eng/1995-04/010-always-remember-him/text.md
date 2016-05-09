@@ -25,15 +25,14 @@ submit, if they could just learn what to do, they could be better. If I had
 the chance again, I would have told them that. And then I would have given
 them just this one bit of counsel, counsel about what to do. I would have said
 just this: "Always remember him" ([Moro.
-4:3](https://www.lds.org/scriptures/bofm/moro/4.3?lang=eng#2); [Moro.
-5:2](https://www.lds.org/scriptures/bofm/moro/5.2?lang=eng#1); [D&amp;C 20:77,
-79](https://www.lds.org/scriptures/dc-testament/dc/20.77%2C79?lang=eng#76)).
+4:3](/scriptures/bofm/moro/4.3?lang=eng#2); [Moro.
+5:2](/scriptures/bofm/moro/5.2?lang=eng#1); [D&amp;C 20:77, 79](/scriptures
+/dc-testament/dc/20.77,79?lang=eng#76)).
 
 I would have tried to help them do that by taking them in their minds to a
 garden where they would hear the Savior of the world's words: "Father, if thou
 be willing, remove this cup from me: nevertheless not my will, but thine, be
-done" ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41)).
+done" ([Luke 22:42](/scriptures/nt/luke/22.42?lang=eng#41)).
 
 And then I would have taken them forward in time to that glorious day reported
 in the Book of Mormon when the resurrected Lord appeared to the people in the
@@ -41,7 +40,7 @@ Americas and said: "And behold, I am the light and the life of the world; and
 I have drunk out of that bitter cup which the Father hath given me, and have
 glorified the Father in taking upon me the sins of the world, in the which I
 have suffered the will of the Father in all things from the beginning" ([3 Ne.
-11:11](https://www.lds.org/scriptures/bofm/3-ne/11.11?lang=eng#10)).
+11:11](/scriptures/bofm/3-ne/11.11?lang=eng#10)).
 
 I know from the softness I heard in their voices and saw in their eyes that
 those missionaries would have then, and perhaps always, remembered him. And
@@ -53,11 +52,10 @@ When we drove away from them in the city of our destination, they were
 standing waiting for a bus. I looked back. There they stood alone. I wish I
 had known what I learned last night so that I could have read to them while
 they were in the car these words from the first section of the Doctrine and
-Covenants, the twenty-third verse [[D&amp;C
-1:23](https://www.lds.org/scriptures/dc-testament/dc/1.23?lang=eng#22)]: "That
-the fulness of my gospel might be proclaimed by the weak and the simple unto
-the ends of the world, and before kings and rulers." And then starting at the
-twenty-sixth verse:
+Covenants, the twenty-third verse [[D&amp;C 1:23](/scriptures/dc-
+testament/dc/1.23?lang=eng#22)]: "That the fulness of my gospel might be
+proclaimed by the weak and the simple unto the ends of the world, and before
+kings and rulers." And then starting at the twenty-sixth verse:
 
 "And inasmuch as they sought wisdom they might be instructed;
 
@@ -65,7 +63,7 @@ twenty-sixth verse:
 
 "And inasmuch as they were humble they might be made strong, and blessed from
 on high, and receive knowledge from time to time" ([D&amp;C
-1:26-28](https://www.lds.org/scriptures/dc-testament/dc/1.26-28?lang=eng#25)).
+1:26-28](/scriptures/dc-testament/dc/1.26-28?lang=eng#25)).
 
 They would have known the Savior spoke of them. And then in their humility
 they would have found that they were given power to proclaim his name.
@@ -108,4 +106,6 @@ And if those who hear will take the Savior's name upon them and always
 remember him, and keep his commandments, they will finally come to him and he
 will take them home to his Father and our Father, where we may live forever in
 families. I testify that is true, in the sacred name of Jesus Christ, amen.
+
+## References
 

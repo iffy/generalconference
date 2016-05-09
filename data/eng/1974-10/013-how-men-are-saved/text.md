@@ -12,7 +12,7 @@ of Faith:
 
 "We believe that through the Atonement of Christ, all mankind may be saved, by
 obedience to the laws and ordinances of the Gospel." [[A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2)]
+1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2)]
 
 In these remarks I shall set forth some views of the church of Jesus Christ on
 this subject.
@@ -34,10 +34,9 @@ The Almighty is not alone in his eternal glory. Myriads of saved souls enjoy
 his society. Family relationships prevail there; spirit offspring are born
 there; our spirits were born there. Modern revelation affirms the fact that
 all the inhabitants of the worlds are the "begotten sons and daughters unto
-God." ([D&amp;C 76:24](https://www.lds.org/scriptures/dc-
-testament/dc/76.24?lang=eng#23).) God our Heavenly Father is in fact and
-reality the father of our spirits. We are "his offspring" ([Acts
-17:28](https://www.lds.org/scriptures/nt/acts/17.28?lang=eng#27)) as Paul
+God." ([D&amp;C 76:24](/scriptures/dc-testament/dc/76.24?lang=eng#23).) God
+our Heavenly Father is in fact and reality the father of our spirits. We are
+"his offspring" ([Acts 17:28](/scriptures/nt/acts/17.28?lang=eng#27)) as Paul
 declared in his great speech on Mars' hill.
 
 God the Father is an immortal soul. Man is not yet an immortal soul. He is a
@@ -118,7 +117,7 @@ cast out into outer darkness; ...
 of awful, fearful looking for the fiery indignation of the wrath of God upon
 them; thus they remain in this state, as well as the righteous in paradise,
 until the time of their resurrection." ([Alma
-40:11-14](https://www.lds.org/scriptures/bofm/alma/40.11-14?lang=eng#10).)
+40:11-14](/scriptures/bofm/alma/40.11-14?lang=eng#10).)
 
 The Church accepts this scripture as a statement of fact.
 
@@ -126,7 +125,7 @@ These words of Alma presume a literal, universal resurrection such as declared
 by Paul when he wrote to the Corinthians:
 
 "As in Adam all die, even so in Christ shall all be made alive." ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21).)
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21).)
 
 The Church believes the scriptural doctrine that Jesus Christ through his
 victory over death opened the grave for himself not only but for all mankind.
@@ -150,15 +149,15 @@ Alma speaks of this final judgment as follows:
 
 "But behold, an awful death cometh upon the wicked; ... and they drink the dregs
 of a bitter cup." ([Alma
-40:25-26](https://www.lds.org/scriptures/bofm/alma/40.25-26?lang=eng#24).)
+40:25-26](/scriptures/bofm/alma/40.25-26?lang=eng#24).)
 
 In about 550 B.C. an earlier American prophet treated this whole subject of
 how "through the Atonement of Christ, all mankind may be saved, by obedience
 to the laws and ordinances of the Gospel" ([A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2)) in such a
-masterful fashion that I have chosen to conclude these remarks with a rather
-long quotation from his record. It will take about six minutes to listen to
-it, but it will be well worth our time.
+1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2)) in such a masterful fashion that
+I have chosen to conclude these remarks with a rather long quotation from his
+record. It will take about six minutes to listen to it, but it will be well
+worth our time.
 
 The reward for understanding and implementing what I will read will be eternal
 life, the greatest of all the gifts of God. Addressing his brethren, he said:
@@ -248,12 +247,12 @@ might stand before him at the great and judgment day.
 
 "And he commandeth all men that they must repent, and be baptized in his name,
 having perfect faith in the Holy One of Israel, or they cannot be saved in the
-kingdom of God." ([2 Ne. 9:4-9, 11-16, 18-23](https://www.lds.org/scriptures/b
-ofm/2-ne/9.4-9%2C11-16%2C18-23?lang=eng#3).)
+kingdom of God." ([2 Ne. 9:4-9, 11-16,
+18-23](/scriptures/bofm/2-ne/9.4-9,11-16,18-23?lang=eng#3).)
 
 On the other hand, those who will "repent and believe in his name, and be
 baptized in his name, and endure to the end" shall be saved. ([2 Ne.
-9:24](https://www.lds.org/scriptures/bofm/2-ne/9.24?lang=eng#23).)
+9:24](/scriptures/bofm/2-ne/9.24?lang=eng#23).)
 
 Such, my beloved brothers and sisters and friends, is the way prescribed by
 the Lord in which all may obey the laws and ordinances of the gospel and
@@ -270,4 +269,6 @@ listen to and prayerfully investigate our message. If you will do so, you
 shall receive a like witness and be on your way to salvation, to being saved
 in the kingdom of God. That it may be so with all of us, I humbly pray in the
 name of Jesus Christ, our Lord. Amen.
+
+## References
 

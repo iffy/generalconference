@@ -64,7 +64,7 @@ recover.
 Another reason for our trials is taught in Doctrine and Covenants 29:39: "And
 it must needs be that the devil should tempt the children of men, or they
 could not be agents unto themselves; for if they never should have bitter they
-could not know the sweet." [[D&amp;C 29:39](https://www.lds.org/scriptures/dc-
+could not know the sweet." [[D&amp;C 29:39](/scriptures/dc-
 testament/dc/29.39?lang=eng#38)]
 
 A short time ago, our family had the opportunity to be taught. It was a
@@ -90,7 +90,7 @@ comfort our children. What could I say when I, myself, felt such deep pain? So
 I prayed a great deal, and a loving Father came to my aid. The answers came
 one by one at the appropriate time, fulfilling the Lord's promise: "Learn of
 me, and listen to my words; walk in the meekness of my Spirit, and you shall
-have peace in me." ([D&amp;C 19:23](https://www.lds.org/scriptures/dc-
+have peace in me." ([D&amp;C 19:23](/scriptures/dc-
 testament/dc/19.23?lang=eng#22).)
 
 We met our children, who were in deep mourning. They were suffering so
@@ -107,8 +107,8 @@ mind upon the night that you cried unto me in your heart, that you might know
 concerning the truth of these things.
 
 "Did I not speak peace to your mind concerning the matter? What greater
-witness can you have than from God?" ([D&amp;C
-6:22-23](https://www.lds.org/scriptures/dc-testament/dc/6.22-23?lang=eng#21).)
+witness can you have than from God?" ([D&amp;C 6:22-23](/scriptures/dc-
+testament/dc/6.22-23?lang=eng#21).)
 
 The sense of pain and suffering diminished, leaving in its place sweet
 feelings from the Spirit.
@@ -139,4 +139,6 @@ again. So much love from our Father! Additional teachings. I testify that our
 teacher, our Shepherd, is Christ, our best friend, who clears up all our
 doubts. He heals our wounds and turns our pain into sweet experiences. I say
 this in the name of Jesus Christ, amen.
+
+## References
 

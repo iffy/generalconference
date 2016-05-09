@@ -58,8 +58,10 @@ I am sure that we all love the Lord. I know that he lives, and I look forward
 to that day when I shall see his face, and I hope to hear his voice say unto
 me: "Come, ye blessed of my Father, inherit the kingdom prepared for you from
 the foundation of the world." ([Matt.
-25:34](https://www.lds.org/scriptures/nt/matt/25.34?lang=eng#33).)
+25:34](/scriptures/nt/matt/25.34?lang=eng#33).)
 
 And I pray that this may be the happy lot of all of us, in our own due time,
 and I say this in the name of Jesus Christ. Amen.
+
+## References
 

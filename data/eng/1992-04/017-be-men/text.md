@@ -45,33 +45,31 @@ cigarette or alcoholic beverage in hand is a man, when in reality he is
 nothing more than a slave to a destructive substance. They would have us
 believe that a person who engages in illicit sex is a man, when in reality he
 is nothing more than an abuser of those who are "tender," and "chaste," and
-"delicate." ([Jacob
-2:7](https://www.lds.org/scriptures/bofm/jacob/2.7?lang=eng#6).) They would
+"delicate." ([Jacob 2:7](/scriptures/bofm/jacob/2.7?lang=eng#6).) They would
 have us believe that brute force, or crude behavior, uncontrolled temper, foul
 language, and dirty appearance make a man, when in reality these
 characteristics are animalistic at best and the opposite of manhood at worst.
 
 We who bear the priesthood, must be on guard; we must not be influenced by
 barbarian voices in our quest to become men. (See [1 Cor.
-14:8-11](https://www.lds.org/scriptures/nt/1-cor/14.8-11?lang=eng#7).) We must
-remember that "God created man in his own image" and that man is expected to
-keep that image engraven upon his countenance. ([Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26); see also [Alma
-5:14, 19](https://www.lds.org/scriptures/bofm/alma/5.14%2C19?lang=eng#13).)
+14:8-11](/scriptures/nt/1-cor/14.8-11?lang=eng#7).) We must remember that "God
+created man in his own image" and that man is expected to keep that image
+engraven upon his countenance. ([Gen.
+1:27](/scriptures/ot/gen/1.27?lang=eng#26); see also [Alma 5:14,
+19](/scriptures/bofm/alma/5.14,19?lang=eng#13).)
 
 "What is man?" asked the psalmist. ([Ps.
-8:4](https://www.lds.org/scriptures/ot/ps/8.4?lang=eng#3).) The answer: "[God]
-made him a little lower than the angels, and hast crowned him with glory and
-honour." ([Ps. 8:4-6](https://www.lds.org/scriptures/ot/ps/8.4-6?lang=eng#3).)
-It is, therefore, our responsibility to climb ever upward and to wear God-
-given crowns honorably. Young men, especially those of a "chosen generation"
-and "royal priesthood," must understand that they are the spiritual offspring
-of God and that no one becomes in truth a man until he reverences the Father
-of spirits and allows inner powers to control his thoughts, words, and
-actions. (See [1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8); [Acts
-17:28](https://www.lds.org/scriptures/nt/acts/17.28?lang=eng#27); [Heb.
-12:9](https://www.lds.org/scriptures/nt/heb/12.9?lang=eng#8).)
+8:4](/scriptures/ot/ps/8.4?lang=eng#3).) The answer: "[God] made him a little
+lower than the angels, and hast crowned him with glory and honour." ([Ps.
+8:4-6](/scriptures/ot/ps/8.4-6?lang=eng#3).) It is, therefore, our
+responsibility to climb ever upward and to wear God-given crowns honorably.
+Young men, especially those of a "chosen generation" and "royal priesthood,"
+must understand that they are the spiritual offspring of God and that no one
+becomes in truth a man until he reverences the Father of spirits and allows
+inner powers to control his thoughts, words, and actions. (See [1 Pet.
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8); [Acts
+17:28](/scriptures/nt/acts/17.28?lang=eng#27); [Heb.
+12:9](/scriptures/nt/heb/12.9?lang=eng#8).)
 
 ## What Makes a Man a Man?
 
@@ -81,38 +79,30 @@ becomes a man. How devious and how very stupid! Those who try to get you to
 drink alcoholic beverages and use drugs have total disregard for you, you who
 are the "temples of God." Hence, they would have you defile your body and
 offend the Spirit of God that dwells within you. (See [1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
 
 What makes a man a man? Let's turn to the Book of Mormon and Father Lehi for
 an answer. A short time before his death, Lehi gave this charge to his sons:
 "Arise from the dust, ... and _be men._" ([2 Ne.
-1:21](https://www.lds.org/scriptures/bofm/2-ne/1.21?lang=eng#20); italics
-added.)
+1:21](/scriptures/bofm/2-ne/1.21?lang=eng#20); italics added.)
 
 "Awake from a deep sleep, yea, even from the sleep of hell, and shake off the
 awful chains by which ye are bound." ([2 Ne.
-1:13](https://www.lds.org/scriptures/bofm/2-ne/1.13?lang=eng#12).)
+1:13](/scriptures/bofm/2-ne/1.13?lang=eng#12).)
 
 "Be determined in one mind and in one heart, united in all things." ([2 Ne.
-1:21](https://www.lds.org/scriptures/bofm/2-ne/1.21?lang=eng#20).)
+1:21](/scriptures/bofm/2-ne/1.21?lang=eng#20).)
 
 "Put on the armor of righteousness. ... Come forth out of obscurity. ... Rebel no
-more." ([2 Ne.
-1:23-24](https://www.lds.org/scriptures/bofm/2-ne/1.23-24?lang=eng#22).)
+more." ([2 Ne. 1:23-24](/scriptures/bofm/2-ne/1.23-24?lang=eng#22).)
 
-  * The challenge to "arise from the dust" means to overcome evil behaviors that destroy character and ruin lives. Physical appetites must be controlled.
-
-  * "Awake from a deep sleep, ... even from the sleep of hell" suggests a process of learning and becoming aware of God's holy purposes. No sleep is deeper or more deadly than the sleep of ignorance.
-
-  * "Shake off the awful chains by which ye are bound" indicates the need to overcome bad habits, even the seemingly little habits that grow into strong "chains of hell." (See 2 Ne. 26:22; Alma 5:7.)
-
-  * "Be determined in one mind and in one heart, united in all things" requires full commitment to righteousness and a singleness of purpose so that one's will is made compatible with the will of God.
-
-  * "Put on the armor of righteousness" reminds us of the need to wear the helmet of salvation, pick up the sword of truth, use the shield of faith, and accept the full protective coverings of the Lord. (See Eph. 6:11-18.)
-
-  * "Come forth out of obscurity" instructs one to model goodness and serve as a light to others. True men are living light fountains which are pleasant to be near. (See D&amp;C 103:9-10.)
-
-  * "Rebel no more" makes it perfectly clear that ignoring or willfully breaking commandments is a wasteful effort.
+  * The challenge to "arise from the dust" means to overcome evil behaviors that destroy character and ruin lives. Physical appetites must be controlled. 
+  * "Awake from a deep sleep, ... even from the sleep of hell" suggests a process of learning and becoming aware of God's holy purposes. No sleep is deeper or more deadly than the sleep of ignorance. 
+  * "Shake off the awful chains by which ye are bound" indicates the need to overcome bad habits, even the seemingly little habits that grow into strong "chains of hell." (See 2 Ne. 26:22; Alma 5:7.) 
+  * "Be determined in one mind and in one heart, united in all things" requires full commitment to righteousness and a singleness of purpose so that one's will is made compatible with the will of God. 
+  * "Put on the armor of righteousness" reminds us of the need to wear the helmet of salvation, pick up the sword of truth, use the shield of faith, and accept the full protective coverings of the Lord. (See Eph. 6:11-18.) 
+  * "Come forth out of obscurity" instructs one to model goodness and serve as a light to others. True men are living light fountains which are pleasant to be near. (See D&amp;C 103:9-10.) 
+  * "Rebel no more" makes it perfectly clear that ignoring or willfully breaking commandments is a wasteful effort. 
 
 ## Vicious Lie
 
@@ -121,7 +111,7 @@ taking its toll among the young. And it is that a "balanced man" is one who
 deliberately guards against becoming too righteous. This lie would have you
 believe that it is possible to live successfully and happily as a "double-
 minded man" with one foot in Babylon and one foot in Zion. (See [James
-1:8](https://www.lds.org/scriptures/nt/james/1.8?lang=eng#7).)
+1:8](/scriptures/nt/james/1.8?lang=eng#7).)
 
 I love this story of two young men who had been schooled in a monastery. One
 morning as they sought adventure, they passed a cathedral. The more righteous
@@ -150,7 +140,7 @@ yields to the enticings of the Holy Spirit and seeks to acquire Christlike
 virtues. A real man is one who allows the Spirit to direct the course and to
 call the cadence in his life. "Remember, to be carnally-minded is death, and
 to be spiritually-minded is life eternal." ([2 Ne.
-9:39](https://www.lds.org/scriptures/bofm/2-ne/9.39?lang=eng#38).)
+9:39](/scriptures/bofm/2-ne/9.39?lang=eng#38).)
 
 ## Examples of Manliness
 
@@ -198,17 +188,17 @@ The Savior, the perfect model of manliness, stood before his tormentors having
 been scourged, beaten, spat upon, and platted with a crown of thorns. Pilate
 admitted, "I find no fault in him." Then he pronounced those irrefutable and
 piercing words: "Behold the man!" ([John
-19:4-5](https://www.lds.org/scriptures/nt/john/19.4-5?lang=eng#3).)
+19:4-5](/scriptures/nt/john/19.4-5?lang=eng#3).)
 
 Jesus, our Savior, was _the _man among men, for he "increased in wisdom and
 stature, and in favour with God and man" ([Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51)); he subjected
-the flesh to the Spirit and yielded not to temptation (see [Mosiah
-15:1-8](https://www.lds.org/scriptures/bofm/mosiah/15.1-8?lang=eng#0)); he
-learned obedience by the things which he suffered (see [Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7)); he grew from
-grace to grace (see [D&amp;C 93:12-14](https://www.lds.org/scriptures/dc-
-testament/dc/93.12-14?lang=eng#11)); and, in the words of Shakespeare:
+2:52](/scriptures/nt/luke/2.52?lang=eng#51)); he subjected the flesh to the
+Spirit and yielded not to temptation (see [Mosiah
+15:1-8](/scriptures/bofm/mosiah/15.1-8?lang=eng#0)); he learned obedience by
+the things which he suffered (see [Heb.
+5:8](/scriptures/nt/heb/5.8?lang=eng#7)); he grew from grace to grace (see
+[D&amp;C 93:12-14](/scriptures/dc-testament/dc/93.12-14?lang=eng#11)); and, in
+the words of Shakespeare:
 
 _His life was gentle, and the elements_
 
@@ -218,16 +208,16 @@ _And say to all the world "This was a man!"_
 
 Thus, he, the only sinless and perfect man who ever walked this earth, is
 qualified to state: "What manner of men ought ye to be? Verily I say unto you,
-even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+even as I am." ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 King David instructed his son Solomon, "Be thou strong ... and shew thyself _a
 man;_
 
 "And keep the charge of the Lord thy God, to walk in his ways, to keep his
 statutes, and his commandments, ... that thou mayest prosper in all that thou
-doest." ([1 Kgs.
-2:2-3](https://www.lds.org/scriptures/ot/1-kgs/2.2-3?lang=eng#1); italics
+doest." ([1 Kgs. 2:2-3](/scriptures/ot/1-kgs/2.2-3?lang=eng#1); italics
 added.) I echo this charge--Be men! Be men of Christ! Be men of God! For this
 I pray, in the name of Jesus Christ, amen.
+
+## References
 

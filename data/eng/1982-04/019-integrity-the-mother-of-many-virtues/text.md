@@ -42,7 +42,7 @@ Integrity is the light that shines from a disciplined conscience. It is the
 strength of duty within us. Moses gave the following counsel: "If a man vow a
 vow unto the Lord, or swear an oath to bind his soul with a bond; he shall not
 break his word, he shall do according to all that proceedeth out of his
-mouth." ([Num. 30:2](https://www.lds.org/scriptures/ot/num/30.2?lang=eng#1).)
+mouth." ([Num. 30:2](/scriptures/ot/num/30.2?lang=eng#1).)
 
 The power of keeping an oath was manifested by Nephi, who held Zoram, the
 frightened servant of Laban, to keep him from fleeing. Dr. Hugh Nibley has
@@ -50,16 +50,14 @@ written:
 
 "Nephi, a powerful fellow, held the terrified Zoram in a vise-like grip long
 enough to swear a solemn oath in his ear, 'as the Lord liveth, and as I live'
-([1 Ne. 4:32](https://www.lds.org/scriptures/bofm/1-ne/4.32?lang=eng#31)),
-that he would not harm him if he would listen. Zoram immediately relaxed, and
-Nephi swore another oath to him that he would be a free man if he would join
-the party. ...
+([1 Ne. 4:32](/scriptures/bofm/1-ne/4.32?lang=eng#31)), that he would not harm
+him if he would listen. Zoram immediately relaxed, and Nephi swore another
+oath to him that he would be a free man if he would join the party. ...
 
 "... As soon as Zoram 'made an oath unto us that he would tarry with us from
 that time forth ... our fears did cease concerning him.' ([1 Ne. 4:35,
-37](https://www.lds.org/scriptures/bofm/1-ne/4.35%2C37?lang=eng#34))." (_An
-Approach to the Book of Mormon,_ 2nd ed., Salt Lake City: Deseret Book Co.,
-1976, pp. 103-4.)
+37](/scriptures/bofm/1-ne/4.35,37?lang=eng#34))." (_An Approach to the Book of
+Mormon,_ 2nd ed., Salt Lake City: Deseret Book Co., 1976, pp. 103-4.)
 
 Being true to oneself at times requires extraordinary strength and courage.
 For instance, in the early days of the Church it was very unpopular, even
@@ -195,7 +193,7 @@ What is success? Is it money? Is it achievement? Is it fame? Is it position?
 Is it dominion? The prophet Micah defined success as follows: "He hath shewed
 thee, O man, what is good; and what doth the Lord require of thee, but to do
 justly, and to love mercy, and to walk humbly with thy God?" ([Micah
-6:8](https://www.lds.org/scriptures/ot/micah/6.8?lang=eng#7).)
+6:8](/scriptures/ot/micah/6.8?lang=eng#7).)
 
 The prophet Ezekiel also gave a formula for success:
 
@@ -207,15 +205,14 @@ the naked with a garment; ...
 
 "Hath walked in my statutes, and hath kept my judgments, to deal truly; he is
 just, he shall surely live, saith the Lord God." ([Ezek. 18:5, 7,
-9](https://www.lds.org/scriptures/ot/ezek/18.5%2C7%2C9?lang=eng#4).)
+9](/scriptures/ot/ezek/18.5,7,9?lang=eng#4).)
 
 The Lord appeared to the great Solomon in a dream and said, "Ask what I shall
-give thee." ([1 Kgs.
-3:5](https://www.lds.org/scriptures/ot/1-kgs/3.5?lang=eng#4).) Solomon
+give thee." ([1 Kgs. 3:5](/scriptures/ot/1-kgs/3.5?lang=eng#4).) Solomon
 replied, "Give therefore thy servant an understanding heart to judge thy
 people, that I may discern between good and bad." ([1 Kgs.
-3:9](https://www.lds.org/scriptures/ot/1-kgs/3.9?lang=eng#8).) The Lord was
-pleased because Solomon had not asked for success as the world defines it.
+3:9](/scriptures/ot/1-kgs/3.9?lang=eng#8).) The Lord was pleased because
+Solomon had not asked for success as the world defines it.
 
 Complete and constant integrity is a great law of human conduct. There need to
 be some absolutes in life. There are some things that should not ever be done,
@@ -252,7 +249,7 @@ the Lord, how he had said unto him, Before the cock crow, thou shalt deny me
 thrice.
 
 "And Peter went out, and wept bitterly." ([Luke
-22:54-62](https://www.lds.org/scriptures/nt/luke/22.54-62?lang=eng#53).)
+22:54-62](/scriptures/nt/luke/22.54-62?lang=eng#53).)
 
 I believe this incident strengthened Peter's commitment. He was never to be
 weak again. The resolve borne of that disappointment in his own temporary
@@ -265,11 +262,12 @@ weakness.
 God help us to be honest and true. May we always be thoroughly dependable,
 standing firm and upright though others may fail, and be fearless, constant,
 and just. May we say with the much-tested Job: "Till I die I will not remove
-mine integrity from me." ([Job
-27:5](https://www.lds.org/scriptures/ot/job/27.5?lang=eng#4).)
+mine integrity from me." ([Job 27:5](/scriptures/ot/job/27.5?lang=eng#4).)
 
 I leave my testimony that dealing justly with oneself and others, and
 observing the law of the harvest, is a part of the inner peace of the sweet
 gospel of the Lord Jesus, of whose divinity as the risen Christ I testify in
 his holy name, amen.
+
+## References
 

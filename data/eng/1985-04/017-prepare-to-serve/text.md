@@ -35,14 +35,14 @@ that part of the world.
 
 But there was more we could do for them, much more. We have a spiritual gift,
 the _living waters,_ to share. (See [John
-4:10](https://www.lds.org/scriptures/nt/john/4.10?lang=eng#9).) Could we but
-give them this, they would not thirst thereafter. My brethren, tonight I feel
-a deep urgency to touch the heart of every boy in the Church that each one
-might have a _desire_ to live worthy to hold the Melchizedek Priesthood and
-serve a mission. You young men must live worthy to become elders so you can
-carry the light of the gospel of Jesus Christ to every nation, kindred,
-tongue, and people as the Lord has commanded us to do. (See [Mosiah
-15:28](https://www.lds.org/scriptures/bofm/mosiah/15.28?lang=eng#27).)
+4:10](/scriptures/nt/john/4.10?lang=eng#9).) Could we but give them this, they
+would not thirst thereafter. My brethren, tonight I feel a deep urgency to
+touch the heart of every boy in the Church that each one might have a _desire_
+to live worthy to hold the Melchizedek Priesthood and serve a mission. You
+young men must live worthy to become elders so you can carry the light of the
+gospel of Jesus Christ to every nation, kindred, tongue, and people as the
+Lord has commanded us to do. (See [Mosiah
+15:28](/scriptures/bofm/mosiah/15.28?lang=eng#27).)
 
 The light of the gospel of Jesus Christ is needed desperately in the far
 reaches of the earth. You young men who are here tonight need to prepare now
@@ -64,9 +64,9 @@ desires to know of the mysteries of God,_ wherefore, I did cry unto the Lord;
 and behold he did visit me, and did soften my heart that I did believe all the
 words which had been spoken by my father; wherefore, I did not rebel against
 him like unto my brothers." ([1 Ne.
-2:16](https://www.lds.org/scriptures/bofm/1-ne/2.16?lang=eng#15); italics
-added.) The key, my brethren, was Nephi's _desire_ to "know of the mysteries
-of God." You young men, fill your hearts with this _desire._
+2:16](/scriptures/bofm/1-ne/2.16?lang=eng#15); italics added.) The key, my
+brethren, was Nephi's _desire_ to "know of the mysteries of God." You young
+men, fill your hearts with this _desire._
 
 Of all the training I have received in my Church assignments, none has been
 more important to me than the training I received as a nineteen-year-old elder
@@ -165,4 +165,6 @@ _Onward, ever onward, as we glory in his name._
 
 May God bless all of you young men to desire to serve him is my humble prayer.
 In the name of Jesus Christ, amen.
+
+## References
 

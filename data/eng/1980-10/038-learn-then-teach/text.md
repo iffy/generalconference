@@ -16,13 +16,12 @@ My beloved sisters, I greet you and welcome you tonight in your more than two
 thousand assemblies around the world. With all our hearts, we love and
 appreciate you! We respect you, we honor you, and we need you. "Neither is the
 man without the woman, neither the woman without the man, in the Lord" ([1
-Cor. 11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10)). We
-rejoice in your righteousness and the influence for good you have as
-individuals, wives, mothers, and grandmothers. We appreciate the faithful and
-devoted single sisters who do not yet enjoy a fulness of family life. The Lord
-loves you, for you are some of the most noble spirits of our Father in Heaven.
-If you continue faithful and true, no eternal blessing will one day be denied
-you.
+Cor. 11:11](/scriptures/nt/1-cor/11.11?lang=eng#10)). We rejoice in your
+righteousness and the influence for good you have as individuals, wives,
+mothers, and grandmothers. We appreciate the faithful and devoted single
+sisters who do not yet enjoy a fulness of family life. The Lord loves you, for
+you are some of the most noble spirits of our Father in Heaven. If you
+continue faithful and true, no eternal blessing will one day be denied you.
 
 I am pleased with the theme that has been selected for this meeting, "Learn--
 Then Teach." All my married life I have been blessed with my sweet companion,
@@ -30,12 +29,11 @@ Camilla, who has had an unquenchable thirst for knowledge. She is always
 reading and seeking. She believes literally in the Lord's counsel through the
 Prophet Joseph Smith: "Whatever principle of intelligence we attain unto in
 this life, it will rise with us in the resurrection" ([D&amp;C
-130:18](https://www.lds.org/scriptures/dc-testament/dc/130.18?lang=eng#17)).
-Not only has she been continually learning during our sixty-three years of
-marriage, but she has been sharing as well, by example and by teaching. For
-more than half a century she has been a Relief Society visiting teacher, and
-has taught the Spiritual Living lessons in Relief Society for much of that
-time.
+130:18](/scriptures/dc-testament/dc/130.18?lang=eng#17)). Not only has she
+been continually learning during our sixty-three years of marriage, but she
+has been sharing as well, by example and by teaching. For more than half a
+century she has been a Relief Society visiting teacher, and has taught the
+Spiritual Living lessons in Relief Society for much of that time.
 
 My dear sisters, stay close to the Church, all of you. Follow its prophets, so
 that you do not lose your way and so that you can help to guide back any of
@@ -68,4 +66,6 @@ My beloved sisters, I know that God lives, that Jesus is his Only Begotten
 Son, the Redeemer of the world, and that this is in very deed the church of
 Jesus Christ, with him at its head. I leave this testimony with you and my
 love and blessings upon you in the name of Jesus Christ, amen.
+
+## References
 

@@ -92,15 +92,14 @@ all gravity;
 the church of God?)
 
 "Not a novice, lest being lifted up with pride he fall into the condemnation
-of the devil." ([1 Tim.
-3:2-6](https://www.lds.org/scriptures/nt/1-tim/3.2-6?lang=eng#1).)
+of the devil." ([1 Tim. 3:2-6](/scriptures/nt/1-tim/3.2-6?lang=eng#1).)
 
 In his letter to Titus, Paul adds that "a bishop must be blameless, as the
 steward of God; ...
 
 "Holding fast the faithful word as he hath been taught, that he may be able by
 sound doctrine both to exhort and to convince the gainsayers." ([Titus 1:7,
-9](https://www.lds.org/scriptures/nt/titus/1.7%2C9?lang=eng#6).)
+9](/scriptures/nt/titus/1.7,9?lang=eng#6).)
 
 Those words aptly describe a bishop today in The Church of Jesus Christ of
 Latter-day Saints.
@@ -302,4 +301,6 @@ I bear testimony of the divine nature of your calling and of the magnificent
 way in which you fulfill it. May you, your counselors, your wives, your
 children be blessed as you serve the children of the Lord, I humbly pray in
 the name of Jesus Christ, amen.
+
+## References
 

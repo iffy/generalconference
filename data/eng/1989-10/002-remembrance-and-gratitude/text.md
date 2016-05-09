@@ -102,7 +102,7 @@ survivors remembered. In Alma it says: "And so great were their afflictions
 that every soul had cause to mourn; and they believed that it was the
 judgments of God sent upon them because of their wickedness and their
 abominations; therefore they were awakened to a remembrance of their duty."
-([Alma 4:3](https://www.lds.org/scriptures/bofm/alma/4.3?lang=eng#2).)
+([Alma 4:3](/scriptures/bofm/alma/4.3?lang=eng#2).)
 
 Confronting death and difficulty does return memory and therefore gratitude to
 righteous people as well as the wicked. But there must be another way to
@@ -138,7 +138,7 @@ which is to come, which was spoken by the mouth of the angel.
 filled with the love of God, and always retain a remission of your sins; and
 ye shall grow in the knowledge of the glory of him that created you, or in the
 knowledge of that which is just and true." ([Mosiah
-4:11-12](https://www.lds.org/scriptures/bofm/mosiah/4.11-12?lang=eng#10).)
+4:11-12](/scriptures/bofm/mosiah/4.11-12?lang=eng#10).)
 
 How can you and I remember, always, the goodness of God, that we can retain a
 remission of our sins? The Apostle John recorded what the Savior taught us of
@@ -146,16 +146,16 @@ a gift of remembrance which comes through the gift of the Holy Ghost: "But the
 Comforter, which is the Holy Ghost, whom the Father will send in my name, he
 shall teach you all things, and bring all things to your remembrance,
 whatsoever I have said unto you." ([John
-14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25).)
+14:26](/scriptures/nt/john/14.26?lang=eng#25).)
 
 The Holy Ghost brings back memories of what God has taught us. And one of the
 ways God teaches us is with his blessings; and so, if we choose to exercise
 faith, the Holy Ghost will bring God's kindnesses to our remembrance.
 
 You could test that in prayer today. You could follow the command, "Thou shalt
-thank the Lord thy God in all things." ([D&amp;C
-59:7](https://www.lds.org/scriptures/dc-testament/dc/59.7?lang=eng#6).)
-President Benson suggested prayer as a time to do that. He said:
+thank the Lord thy God in all things." ([D&amp;C 59:7](/scriptures/dc-
+testament/dc/59.7?lang=eng#6).) President Benson suggested prayer as a time to
+do that. He said:
 
 "The Prophet Joseph said at one time that one of the greatest sins of which
 the Latter-day Saints would be guilty is the sin of ingratitude. I presume
@@ -178,7 +178,7 @@ remembrance. The Holy Ghost has helped with that since the beginning of time.
 You remember in the record of Moses it says: "And a book of remembrance was
 kept, in the which was recorded, in the language of Adam, for it was given
 unto as many as called upon God to write by the spirit of inspiration."
-([Moses 6:5](https://www.lds.org/scriptures/pgp/moses/6.5?lang=eng#4).)
+([Moses 6:5](/scriptures/pgp/moses/6.5?lang=eng#4).)
 
 President Spencer W. Kimball described that process of inspired writing:
 "Those who keep a book of remembrance are more likely to keep the Lord in
@@ -233,12 +233,13 @@ has made possible for you and me this blessing, a change in our very natures:
 because of meekness and lowliness of heart cometh the visitation of the Holy
 Ghost, which Comforter filleth with hope and perfect love, which love endureth
 by diligence unto prayer, until the end shall come, when all the saints shall
-dwell with God." ([Moro.
-8:26](https://www.lds.org/scriptures/bofm/moro/8.26?lang=eng#25).)
+dwell with God." ([Moro. 8:26](/scriptures/bofm/moro/8.26?lang=eng#25).)
 
 I pray that we may make the simple choices which will lead us there to dwell
 with Him. And I pray that we will remember and be grateful for the gift of the
 Atonement and the gift of the Holy Ghost, which make that journey possible.
 
 In the name of Jesus Christ, amen.
+
+## References
 

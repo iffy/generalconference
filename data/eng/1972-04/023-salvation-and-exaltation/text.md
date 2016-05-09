@@ -6,7 +6,7 @@ heart and he will save you."
 
 Then he quoted Ephesians 2:8 for his clinching argument: "For by grace are ye
 saved through faith; and that not of yourselves: it is the gift of God."
-[[Eph. 2:8](https://www.lds.org/scriptures/nt/eph/2.8?lang=eng#7)]
+[[Eph. 2:8](/scriptures/nt/eph/2.8?lang=eng#7)]
 
 Then he gave his final advice: "Is this too much to ask of you? Thousands and
 hundreds of thousands have found lasting peace and happiness by accepting
@@ -42,20 +42,20 @@ that slept.
 "For since by man came death, by man came also the resurrection of the dead.
 
 "For as in Adam all die, even so in Christ shall all be made alive." ([1 Cor.
-15:20-22](https://www.lds.org/scriptures/nt/1-cor/15.20-22?lang=eng#19).)
+15:20-22](/scriptures/nt/1-cor/15.20-22?lang=eng#19).)
 
 All mankind will thus receive general salvation, excepting the sons of
 perdition. Following their resurrection, "they shall return again to their own
 place, to enjoy that which they are willing to receive, because they were not
 willing to enjoy that which they might have received." ([D&amp;C
-88:32](https://www.lds.org/scriptures/dc-testament/dc/88.32?lang=eng#31).)
+88:32](/scriptures/dc-testament/dc/88.32?lang=eng#31).)
 
 These sons of perdition (perhaps only few in number) will be resurrected but
 will not be redeemed from the power of Satan because they are still filthy; as
 the prophet Alma said of them: "... they shall be as though there had been no
 redemption made; for they cannot be redeemed according to God's justice; and
 they cannot die, seeing there is no more corruption." ([Alma
-12:18](https://www.lds.org/scriptures/bofm/alma/12.18?lang=eng#17).)
+12:18](/scriptures/bofm/alma/12.18?lang=eng#17).)
 
 I suppose that having a body and not being able to do anything with it will be
 a true hell. All other persons will be saved by the grace of God from death,
@@ -72,7 +72,7 @@ wrote:
 "For we labor diligently to write, to persuade our children, and also our
 brethren, to believe in Christ, and to be reconciled to God; for we know that
 it is by grace that we are saved, after all we can do." ([2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22).)
+25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22).)
 
 That full reconciliation to God is extremely important to me. It is the idea
 of a personal atonement or reconciliation that can bring me back into the
@@ -92,7 +92,7 @@ Amulek the prophet explained this most clearly as he said of God:
 deny his word, and he hath said that no unclean thing can inherit the kingdom
 of heaven; therefore, how can ye be saved, except ye inherit the kingdom of
 heaven? Therefore, ye cannot be saved in your sins." ([Alma
-11:37](https://www.lds.org/scriptures/bofm/alma/11.37?lang=eng#36).)
+11:37](/scriptures/bofm/alma/11.37?lang=eng#36).)
 
 Then Amulek spoke of the reason for the coming of Christ:
 
@@ -104,7 +104,7 @@ that shall have eternal life, and salvation cometh to none else.
 except it be the loosing of the bands of death; for behold, the day cometh
 that all shall rise from the dead and stand before God, and be judged
 according to their works." ([Alma
-11:40-41](https://www.lds.org/scriptures/bofm/alma/11.40-41?lang=eng#39).)
+11:40-41](/scriptures/bofm/alma/11.40-41?lang=eng#39).)
 
 Those works, which follow the true exercise of faith, include repentance,
 baptism, receipt of the Holy Ghost, and continued righteousness to the end of
@@ -142,8 +142,7 @@ a little variation from the way it is written in the Bible:
 "For behold, the day cometh that shall burn as an oven, and all the proud,
 yea, and all that do wickedly shall burn as stubble; for they that come shall
 burn them, saith the Lord of Hosts, that it shall leave them neither root nor
-branch." ([JS--H
-1:37](https://www.lds.org/scriptures/pgp/js-h/1.37?lang=eng#36).)
+branch." ([JS--H 1:37](/scriptures/pgp/js-h/1.37?lang=eng#36).)
 
 In order to understand this passage of scripture, for _root _read
 "progenitors" or "ancestors" and for _branch _read "posterity" or "children."
@@ -162,8 +161,8 @@ are worthy of a far more, and an exceeding, and an eternal weight of glory.
 "For these angels did not abide in my law; therefore, they cannot be enlarged,
 but remain separately and singly, without exaltation, in their saved
 condition, to all eternity; and from henceforth are not gods, but are angels
-of God forever and ever." ([D&amp;C 132:16-17](https://www.lds.org/scriptures
-/dc-testament/dc/132.16-17?lang=eng#15).)
+of God forever and ever." ([D&amp;C 132:16-17](/scriptures/dc-
+testament/dc/132.16-17?lang=eng#15).)
 
 It is for this reason that the Lord promised that he would reveal unto us the
 priesthood by the hand of Elijah the prophet before the second coming of the
@@ -181,4 +180,6 @@ May God bless you to choose well, for I testify to you that God lives and that
 his priesthood power is on this earth, by means of which you can obtain your
 exaltation in his kingdom as his covenant sons and daughters through full
 obedience to his law. This I testify in the name of Jesus Christ. Amen.
+
+## References
 

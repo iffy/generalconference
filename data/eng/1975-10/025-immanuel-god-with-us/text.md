@@ -1,4 +1,4 @@
-# Immanuel: God With Us
+# Immanuel:God With Us
 
 As in all ages of history, youth today are faced with making many important
 and far-reaching decisions. President Spencer W. Kimball has announced that
@@ -88,8 +88,7 @@ for them to be successful and effective, they must seek for and obtain the
 Spirit of the Lord to direct and lead them in their teaching efforts. He
 emphasized the words of the Lord, who said, "And the Spirit shall be given
 unto you by the prayer of faith; and if ye receive not the Spirit ye shall not
-teach." ([D&amp;C 42:14](https://www.lds.org/scriptures/dc-
-testament/dc/42.14?lang=eng#13).)
+teach." ([D&amp;C 42:14](/scriptures/dc-testament/dc/42.14?lang=eng#13).)
 
 President Roberts set his missionaries an excellent example by constantly and
 earnestly seeking for the Spirit of the Lord to guide and direct them. He did
@@ -103,16 +102,15 @@ adopted a slogan for the mission. That slogan was just one word, "Immanuel."
 Isaiah, in foretelling the birth of the Savior, foretold, "Therefore the Lord
 himself shall give you a sign; Behold, a virgin shall conceive, and bear a
 son, and shall call his name Immanuel." ([Isa.
-7:14](https://www.lds.org/scriptures/ot/isa/7.14?lang=eng#13).)
+7:14](/scriptures/ot/isa/7.14?lang=eng#13).)
 
 Centuries later, Matthew, an apostle of the Christ, explained the meaning of
 the name Immanuel when he recorded, "Behold, a virgin shall be with child, and
 shall bring forth a son, and they shall call his name Emmanuel, which being
 interpreted is, God with us." ([Matt.
-1:23](https://www.lds.org/scriptures/nt/matt/1.23?lang=eng#22).) President
-Roberts used this slogan, "Immanuel," constantly in his discourses, in his
-correspondence, when autographing books or photos, and on numerous other
-occasions.
+1:23](/scriptures/nt/matt/1.23?lang=eng#22).) President Roberts used this
+slogan, "Immanuel," constantly in his discourses, in his correspondence, when
+autographing books or photos, and on numerous other occasions.
 
 To have "God with us" through his Holy Spirit should be the aim of every
 missionary, and it should likewise be the aim of every individual. To have the
@@ -132,7 +130,7 @@ As the resurrected Savior met on a mountain near Galilee with his apostles for
 the last time before ascending into heaven, he assured them that although he
 would return, through his Spirit he would never leave them. He said, "Lo, I am
 with you alway; even unto the end of the world." ([Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19).)
+28:20](/scriptures/nt/matt/28.20?lang=eng#19).)
 
 Yes, every young man should fill a mission. That should be his aim, his goal,
 his sincere desire. Whether to go on a mission or not will be one of the most
@@ -140,4 +138,6 @@ important and far-reaching decisions that he will make in this life.
 
 It is my prayer that every young man may prepare himself to accept a mission
 call, for which I pray in the name of the Lord Jesus Christ. Amen.
+
+## References
 

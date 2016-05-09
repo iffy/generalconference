@@ -91,11 +91,11 @@ certain that they are emphasized in Relief Society teaching.
 
 An education counselor should remember the words of the Lord when he said, "I
 will put my laws into their mind, and write them in their hearts" ([Heb.
-8:10](https://www.lds.org/scriptures/nt/heb/8.10?lang=eng#9)). She should
-recognize her stewardship to see that these gospel principles are taught in
-the Relief Societies of her stake--taught so effectively that sisters "having
-heard the word, keep it, and bring forth fruit with patience" ([Luke
-8:15](https://www.lds.org/scriptures/nt/luke/8.15?lang=eng#14)).
+8:10](/scriptures/nt/heb/8.10?lang=eng#9)). She should recognize her
+stewardship to see that these gospel principles are taught in the Relief
+Societies of her stake--taught so effectively that sisters "having heard the
+word, keep it, and bring forth fruit with patience" ([Luke
+8:15](/scriptures/nt/luke/8.15?lang=eng#14)).
 
 Recently, we met a young woman who had learned to make these principles
 operative in her life. Bringing Sister Smith a beautiful rose, she came to
@@ -122,4 +122,6 @@ temporal salvation but also spiritual sanctification" (_Ensign,_ Nov. 1977, p.
 
 That we may each fulfill our stewardship and earn this great reward I pray in
 the name of Jesus Christ, amen.
+
+## References
 

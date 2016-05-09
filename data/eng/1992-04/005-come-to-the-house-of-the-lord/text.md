@@ -3,7 +3,7 @@
 In the first recorded revelation of this, the last dispensation, our Lord
 instructed Joseph Smith in what we regard as perhaps the greatest work of this
 dispensation: to seal the living to their families and progenitors. (See
-[D&amp;C 2](https://www.lds.org/scriptures/dc-testament/dc/2.title?lang=eng).)
+[D&amp;C 2](/scriptures/dc-testament/dc/2?lang=eng).)
 
 Inscribed on brass plaques in the entry of the Canadian Alberta Temple are
 these significant words written by Orson F. Whitney, an Apostle of eighty
@@ -51,7 +51,7 @@ brother hath ought against thee;
 
 "Leave there thy gift before the altar, and go thy way; first be reconciled to
 thy brother, and then come and offer thy gift." ([Matt.
-5:23-24](https://www.lds.org/scriptures/nt/matt/5.23-24?lang=eng#22).)
+5:23-24](/scriptures/nt/matt/5.23-24?lang=eng#22).)
 
 Remember that the gifts we bring to His house are not the sacrifices our
 ancestors of old brought to their temples, but the pure hearts of which
@@ -153,7 +153,7 @@ would not want these blessings, as expressed by the Prophet Joseph Smith at
 the dedication of the Kirtland Temple. He said: "We ask thee, Holy Father,
 that thy servants may go forth from this house armed with thy power, and that
 thy name may be upon them, and thy glory be round about them, and thine angels
-have charge over them." ([D&amp;C 109:22](https://www.lds.org/scriptures/dc-
+have charge over them." ([D&amp;C 109:22](/scriptures/dc-
 testament/dc/109.22?lang=eng#21).)
 
 When you return from the temple, share with your children and loved ones at
@@ -248,4 +248,6 @@ _The living and the dead perfection find._
 I pray that we will take full advantage of every opportunity to regularly come
 to our Lord's temple and there freely partake of the feast and blessings He
 provides, in the name of Jesus Christ, amen.
+
+## References
 

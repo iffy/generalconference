@@ -1,322 +1,300 @@
 items:
-- article_id: '03213_000_003'
-  item: '000'
+- item: 1
   key: 000-the-saviors-visit-to-america
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-saviors-visit-to-america
   speaker: Ezra Taft Benson
-  title: "The Savior\u2019s Visit to America"
+  title: The Savior's Visit to America
   url: https://www.lds.org/general-conference/1987/04/the-saviors-visit-to-america?lang=eng
   year: 1987
-- article_id: '03213_000_004'
-  item: '001'
+- item: 2
   key: 001-life-after-life
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: life-after-life
   speaker: Russell M. Nelson
   title: Life after Life
   url: https://www.lds.org/general-conference/1987/04/life-after-life?lang=eng
   year: 1987
-- article_id: '03213_000_005'
-  item: '002'
+- item: 3
   key: 002-what-it-means-to-be-a-saint
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: what-it-means-to-be-a-saint
-  speaker: Wm. Grant Bangerter
+  speaker: William Grant Bangerter
   title: What It Means to Be a Saint
   url: https://www.lds.org/general-conference/1987/04/what-it-means-to-be-a-saint?lang=eng
   year: 1987
-- article_id: '03213_000_006'
-  item: '003'
+- item: 4
   key: 003-keeping-lifes-demands-in-balance
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: keeping-lifes-demands-in-balance
   speaker: M. Russell Ballard
-  title: "Keeping Life\u2019s Demands in Balance"
+  title: Keeping Life's Demands in Balance
   url: https://www.lds.org/general-conference/1987/04/keeping-lifes-demands-in-balance?lang=eng
   year: 1987
-- article_id: '03213_000_007'
-  item: '004'
+- item: 5
   key: 004-am-i-a-living-member
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: am-i-a-living-member
   speaker: Howard W. Hunter
-  title: "Am I a \u201CLiving\u201D Member?"
+  title: Am I a "Living" Member?
   url: https://www.lds.org/general-conference/1987/04/am-i-a-living-member?lang=eng
   year: 1987
-- article_id: 03213_000_008
-  item: '005'
+- item: 6
   key: 005-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1987/04/the-sustaining-of-church-officers?lang=eng
   year: 1987
-- article_id: 03213_000_009
-  item: '006'
+- item: 7
   key: 006-the-church-audit-committee-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-church-audit-committee-report
   speaker: Wilford G. Edling
   title: The Church Audit Committee Report
   url: https://www.lds.org/general-conference/1987/04/the-church-audit-committee-report?lang=eng
   year: 1987
-- article_id: '03213_000_010'
-  item: '007'
+- item: 8
   key: 007-statistical-report-1986
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-1986
   speaker: F. Michael Watson
   title: Statistical Report 1986
   url: https://www.lds.org/general-conference/1987/04/statistical-report-1986?lang=eng
   year: 1987
-- article_id: '03213_000_011'
-  item: 008
+- item: 9
   key: 008-covenants
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: covenants
   speaker: Boyd K. Packer
   title: Covenants
   url: https://www.lds.org/general-conference/1987/04/covenants?lang=eng
   year: 1987
-- article_id: '03213_000_012'
-  item: 009
+- item: 10
   key: 009-spiritual-security
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: spiritual-security
-  speaker: Elder Charles Didier
+  speaker: Charles A. Didier
   title: Spiritual Security
   url: https://www.lds.org/general-conference/1987/04/spiritual-security?lang=eng
   year: 1987
-- article_id: '03213_000_013'
-  item: '010'
+- item: 11
   key: 010-the-book-of-mormons-witness-of-jesus-christ
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-book-of-mormons-witness-of-jesus-christ
   speaker: J. Thomas Fyans
-  title: "The Book of Mormon\u2019s Witness of Jesus Christ"
+  title: The Book of Mormon's Witness of Jesus Christ
   url: https://www.lds.org/general-conference/1987/04/the-book-of-mormons-witness-of-jesus-christ?lang=eng
   year: 1987
-- article_id: '03213_000_014'
-  item: '011'
+- item: 12
   key: 011-patience-a-key-to-happiness
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: patience-a-key-to-happiness
   speaker: Joseph B. Wirthlin
   title: Patience, a Key to Happiness
   url: https://www.lds.org/general-conference/1987/04/patience-a-key-to-happiness?lang=eng
   year: 1987
-- article_id: '03213_000_015'
-  item: '012'
+- item: 13
   key: 012-united-in-building-the-kingdom-of-god
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: united-in-building-the-kingdom-of-god
   speaker: L. Tom Perry
-  title: "\u201CUnited in Building the Kingdom of God\u201D"
+  title: '"United in Building the Kingdom of God"'
   url: https://www.lds.org/general-conference/1987/04/united-in-building-the-kingdom-of-god?lang=eng
   year: 1987
-- article_id: '03213_000_016'
-  item: '013'
+- item: 14
   key: 013-priesthood-blessings
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: priesthood-blessings
   speaker: Dallin H. Oaks
   title: Priesthood Blessings
   url: https://www.lds.org/general-conference/1987/04/priesthood-blessings?lang=eng
   year: 1987
-- article_id: '03213_000_017'
-  item: '014'
+- item: 15
   key: 014-no-shortcuts
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: no-shortcuts
   speaker: Robert L. Simpson
   title: No Shortcuts
   url: https://www.lds.org/general-conference/1987/04/no-shortcuts?lang=eng
   year: 1987
-- article_id: 03213_000_018
-  item: '015'
+- item: 16
   key: 015-tears-trials-trust-testimony
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: tears-trials-trust-testimony
   speaker: Thomas S. Monson
   title: Tears, Trials, Trust, Testimony
   url: https://www.lds.org/general-conference/1987/04/tears-trials-trust-testimony?lang=eng
   year: 1987
-- article_id: 03213_000_019
-  item: '016'
+- item: 17
   key: 016-reverence-and-morality
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: reverence-and-morality
   speaker: Gordon B. Hinckley
   title: Reverence and Morality
   url: https://www.lds.org/general-conference/1987/04/reverence-and-morality?lang=eng
   year: 1987
-- article_id: '03213_000_020'
-  item: '017'
+- item: 18
   key: 017-to-the-home-teachers-of-the-church
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: to-the-home-teachers-of-the-church
   speaker: Ezra Taft Benson
   title: To the Home Teachers of the Church
   url: https://www.lds.org/general-conference/1987/04/to-the-home-teachers-of-the-church?lang=eng
   year: 1987
-- article_id: '03213_000_021'
-  item: 018
+- item: 19
   key: 018-the-lengthened-shadow-of-the-hand-of-god
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-lengthened-shadow-of-the-hand-of-god
   speaker: Gordon B. Hinckley
   title: The Lengthened Shadow of the Hand of God
   url: https://www.lds.org/general-conference/1987/04/the-lengthened-shadow-of-the-hand-of-god?lang=eng
   year: 1987
-- article_id: '03213_000_022'
-  item: 019
+- item: 20
   key: 019-my-neighbor-my-brother
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: my-neighbor-my-brother
   speaker: David B. Haight
   title: "My Neighbor\u2014My Brother!"
   url: https://www.lds.org/general-conference/1987/04/my-neighbor-my-brother?lang=eng
   year: 1987
-- article_id: '03213_000_023'
-  item: '020'
+- item: 21
   key: 020-the-blessings-of-being-unified
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-blessings-of-being-unified
   speaker: Hugh W. Pinnock
   title: The Blessings of Being Unified
   url: https://www.lds.org/general-conference/1987/04/the-blessings-of-being-unified?lang=eng
   year: 1987
-- article_id: '03213_000_024'
-  item: '021'
+- item: 22
   key: 021-i-am-an-adult-now
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: i-am-an-adult-now
   speaker: Marvin J. Ashton
-  title: "\u201CI Am an Adult Now\u201D"
+  title: '"I Am an Adult Now"'
   url: https://www.lds.org/general-conference/1987/04/i-am-an-adult-now?lang=eng
   year: 1987
-- article_id: '03213_000_025'
-  item: '022'
+- item: 23
   key: 022-the-will-within
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-will-within
   speaker: Thomas S. Monson
   title: The Will Within
   url: https://www.lds.org/general-conference/1987/04/the-will-within?lang=eng
   year: 1987
-- article_id: '03213_000_026'
-  item: '023'
+- item: 24
   key: 023-overcome-even-as-i-also-overcame
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: overcome-even-as-i-also-overcame
   speaker: Neal A. Maxwell
-  title: "\u201COvercome \u2026 Even As I Also Overcame\u201D"
+  title: '"Overcome ... Even As I Also Overcame"'
   url: https://www.lds.org/general-conference/1987/04/overcome-even-as-i-also-overcame?lang=eng
   year: 1987
-- article_id: '03213_000_027'
-  item: '024'
+- item: 25
   key: 024-by-faith-and-hope-all-things-are-fulfilled
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: by-faith-and-hope-all-things-are-fulfilled
   speaker: Paul H. Dunn
   title: By Faith and Hope, All Things Are Fulfilled
   url: https://www.lds.org/general-conference/1987/04/by-faith-and-hope-all-things-are-fulfilled?lang=eng
   year: 1987
-- article_id: 03213_000_028
-  item: '025'
+- item: 26
   key: 025-some-have-compassion-making-a-difference
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: some-have-compassion-making-a-difference
   speaker: Robert D. Hales
-  title: "\u201CSome Have Compassion, Making a Difference\u201D"
+  title: '"Some Have Compassion, Making a Difference"'
   url: https://www.lds.org/general-conference/1987/04/some-have-compassion-making-a-difference?lang=eng
   year: 1987
-- article_id: 03213_000_029
-  item: '026'
+- item: 27
   key: 026-looking-to-the-savior
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: looking-to-the-savior
   speaker: Adney Y. Komatsu
   title: Looking to the Savior
   url: https://www.lds.org/general-conference/1987/04/looking-to-the-savior?lang=eng
   year: 1987
-- article_id: '03213_000_030'
-  item: '027'
+- item: 28
   key: 027-will-i-be-happy
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: will-i-be-happy
   speaker: James E. Faust
-  title: "\u201CWill I Be Happy?\u201D"
+  title: '"Will I Be Happy?"'
   url: https://www.lds.org/general-conference/1987/04/will-i-be-happy?lang=eng
   year: 1987
-- article_id: '03213_000_031'
-  item: 028
+- item: 29
   key: 028-the-book-of-mormon-and-the-doctrine-and-covenants
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-book-of-mormon-and-the-doctrine-and-covenants
   speaker: Ezra Taft Benson
   title: The Book of Mormon and the Doctrine and Covenants
   url: https://www.lds.org/general-conference/1987/04/the-book-of-mormon-and-the-doctrine-and-covenants?lang=eng
+  year: 1987
+- item: 30
+  key: 029-1674849608001
+  month: 4
+  session_title: General Women's Meeting
+  slug: '1674849608001'
+  speaker: Joanne B. Doxey
+  title: Strengthening the Family
+  url: https://www.lds.org/general-conference/1987/04/media/session_6_talk_1/1674849608001?lang=eng
+  year: 1987
+- item: 31
+  key: 030-1674849609001
+  month: 4
+  session_title: General Women's Meeting
+  slug: '1674849609001'
+  speaker: Joy F. Evans
+  title: Overcoming Challenges along Life's Way
+  url: https://www.lds.org/general-conference/1987/04/media/session_6_talk_2/1674849609001?lang=eng
+  year: 1987
+- item: 32
+  key: 031-1674849610001
+  month: 4
+  session_title: General Women's Meeting
+  slug: '1674849610001'
+  speaker: Barbara W. Winder
+  title: Finding Joy in Life
+  url: https://www.lds.org/general-conference/1987/04/media/session_6_talk_3/1674849610001?lang=eng
+  year: 1987
+- item: 33
+  key: 032-1727285916001
+  month: 4
+  session_title: General Women's Meeting
+  slug: '1727285916001'
+  speaker: Elder Russell M. Nelson
+  title: Lessons from Eve
+  url: https://www.lds.org/general-conference/1987/04/media/session_6_talk_4/1727285916001?lang=eng
   year: 1987
 month: 4
 year: 1987

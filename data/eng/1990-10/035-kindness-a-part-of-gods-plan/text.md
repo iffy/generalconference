@@ -16,8 +16,7 @@ lunch alone."
 Marcia needed someone to recognize her situation and invite her to join a
 group and get acquainted. The Savior told us: "And be ye kind one to another,
 tenderhearted, forgiving one another, even as God for Christ's sake hath
-forgiven you." ([Eph.
-4:32](https://www.lds.org/scriptures/nt/eph/4.32?lang=eng#31).)
+forgiven you." ([Eph. 4:32](/scriptures/nt/eph/4.32?lang=eng#31).)
 
 Kindness has many synonyms--love, service, charity. But I like the word
 _kindness _because it implies action. It seems like something you and I can
@@ -28,17 +27,16 @@ sick, the poor, and the lonely, that he might show kindness toward them.
 The book of Mark in the New Testament tells us of the Savior's kind attention
 to a young girl. Her father was the ruler of the synagogue where Jesus was
 teaching. Word came to the ruler: "Thy daughter is dead." ([Mark
-5:35](https://www.lds.org/scriptures/nt/mark/5.35?lang=eng#34).) Jesus
-consoled the father: "Be not afraid, only believe." ([Mark
-5:36](https://www.lds.org/scriptures/nt/mark/5.36?lang=eng#35).) The Savior
-went hastily to the bedside of the girl and said, "Damsel, I say unto thee,
-arise.
+5:35](/scriptures/nt/mark/5.35?lang=eng#34).) Jesus consoled the father: "Be
+not afraid, only believe." ([Mark
+5:36](/scriptures/nt/mark/5.36?lang=eng#35).) The Savior went hastily to the
+bedside of the girl and said, "Damsel, I say unto thee, arise.
 
 "And straightway the damsel arose, and walked; for she was of the age of
 twelve years. And they were astonished with a great astonishment." ([Mark
-5:41-42](https://www.lds.org/scriptures/nt/mark/5.41-42?lang=eng#40).) And
-beyond this great miracle, he continued to show his concern by instructing
-that something should be given to her to eat.
+5:41-42](/scriptures/nt/mark/5.41-42?lang=eng#40).) And beyond this great
+miracle, he continued to show his concern by instructing that something should
+be given to her to eat.
 
 Our beloved prophet has taught us about being kind. President Ezra Taft Benson
 tells us that a person who is kind is sympathetic and gentle with others, is
@@ -131,26 +129,26 @@ Jesus Christ has left us a memorable pattern to follow at all times in our
 lives. None of us will experience anything equal to the physical pain and the
 mental anguish of Jesus on the cross. Yet at that moment of his great
 suffering, a thief hanging beside him "railed on him." ([Luke
-23:39](https://www.lds.org/scriptures/nt/luke/23.39?lang=eng#38).) Jesus did
-not respond to him. The second thief rebuked the first and pleaded with the
-Savior to speak to the Father in his behalf. Jesus put aside his own suffering
-to console the thief. "Today shalt thou be with me in paradise" ([Luke
-23:43](https://www.lds.org/scriptures/nt/luke/23.43?lang=eng#42)), he told the
-thief. It would soon be over, and he would have relief. "'Twas a thief said
-the last kind word to Christ: Christ took the kindness and forgave the theft."
-(Robert Browning, _Familiar Quotations,_ comp. John Bartlett, Boston: Little,
-Brown and Co., 1980, p. 545.)
+23:39](/scriptures/nt/luke/23.39?lang=eng#38).) Jesus did not respond to him.
+The second thief rebuked the first and pleaded with the Savior to speak to the
+Father in his behalf. Jesus put aside his own suffering to console the thief.
+"Today shalt thou be with me in paradise" ([Luke
+23:43](/scriptures/nt/luke/23.43?lang=eng#42)), he told the thief. It would
+soon be over, and he would have relief. "'Twas a thief said the last kind word
+to Christ: Christ took the kindness and forgave the theft." (Robert Browning,
+_Familiar Quotations,_ comp. John Bartlett, Boston: Little, Brown and Co.,
+1980, p. 545.)
 
 A touching example is the tender kindness Jesus showed his own Apostles. Close
 to the end of his earthly ministry, Jesus met with his Apostles, giving them
 the sacrament and final instructions. Jesus took a towel, poured water in a
 basin, and began to wash and dry the feet of the disciples. Peter, one of the
 disciples, said, "Thou shalt never wash my feet." ([John
-13:8](https://www.lds.org/scriptures/nt/john/13.8?lang=eng#7).) Perhaps Peter
-resisted because he felt that Jesus should not stoop to perform an act of this
-nature. But Jesus insisted, washing the feet of all of the Apostles, even the
-feet of Judas, whom he knew would soon betray him. After the Savior had washed
-their feet, he said unto them, "Know ye what I have done to you?
+13:8](/scriptures/nt/john/13.8?lang=eng#7).) Perhaps Peter resisted because he
+felt that Jesus should not stoop to perform an act of this nature. But Jesus
+insisted, washing the feet of all of the Apostles, even the feet of Judas,
+whom he knew would soon betray him. After the Savior had washed their feet, he
+said unto them, "Know ye what I have done to you?
 
 "Ye call me Master and Lord: ...
 
@@ -160,22 +158,23 @@ one another's feet.
 "For I have given you an example, that ye should do as I have done to you. ...
 
 "If ye know these things, happy are ye if ye do them." ([John
-13:12-17](https://www.lds.org/scriptures/nt/john/13.12-17?lang=eng#11).)
+13:12-17](/scriptures/nt/john/13.12-17?lang=eng#11).)
 
 He gave a commandment with a promise.
 
 The Savior promises to give us kindness eternally and unconditionally. "For
 the mountains shall depart and the hills be removed, but my kindness shall not
-depart from thee." ([3 Ne.
-22:10](https://www.lds.org/scriptures/bofm/3-ne/22.10?lang=eng#9); see also
-[Isa. 54:10](https://www.lds.org/scriptures/ot/isa/54.10?lang=eng#9).) "With
-everlasting kindness will I have mercy on thee, saith the Lord thy Redeemer."
-([3 Ne. 22:8](https://www.lds.org/scriptures/bofm/3-ne/22.8?lang=eng#7); see
-also [Isa. 5:8](https://www.lds.org/scriptures/ot/isa/5.8?lang=eng#7).)
+depart from thee." ([3 Ne. 22:10](/scriptures/bofm/3-ne/22.10?lang=eng#9); see
+also [Isa. 54:10](/scriptures/ot/isa/54.10?lang=eng#9).) "With everlasting
+kindness will I have mercy on thee, saith the Lord thy Redeemer." ([3 Ne.
+22:8](/scriptures/bofm/3-ne/22.8?lang=eng#7); see also [Isa.
+5:8](/scriptures/ot/isa/5.8?lang=eng#7).)
 
 The Merrie Miss motto is I Will Follow God's Plan for Me. God's plan for us
 includes our being kind. My challenge to you is to search for opportunities to
 be kind. The promise is: you will be happy. I pray that each of us will
 develop a desire to be kind to ourselves and to others and to continually act
 upon it, in the name of Jesus Christ, amen.
+
+## References
 

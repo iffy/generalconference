@@ -11,7 +11,7 @@ comprehend. Certainly many of us act as though we are going to take it all
 with us when we go; of course, we are not. In terms of material things, _each
 of us _leaves it all. In the words of Paul to Timothy, "For we brought nothing
 into this world, and it is certain we can carry nothing out." ([1 Tim.
-6:7](https://www.lds.org/scriptures/nt/1-tim/6.7?lang=eng#6).)
+6:7](/scriptures/nt/1-tim/6.7?lang=eng#6).)
 
 Well, isn't there anything good we can take with us when we go, we may ask?
 The Prophet Joseph Smith taught that the knowledge and intelligence gained
@@ -25,13 +25,13 @@ in the world to come.
 world, upon which all blessings are predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:19-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.19-21?lang=eng#18).)
+which it is predicated." ([D&amp;C 130:19-21](/scriptures/dc-
+testament/dc/130.19-21?lang=eng#18).)
 
 This being true, then it would seem that we all should place the pursuit of
 light and truth, or intelligence, uppermost in our selection of goals, since
 we may have them eternally. We must seek after enlightenment. Since "the glory
-of God is intelligence" ([D&amp;C 93:36](https://www.lds.org/scriptures/dc-
+of God is intelligence" ([D&amp;C 93:36](/scriptures/dc-
 testament/dc/93.36?lang=eng#35)), if we would be like our Heavenly Father, our
 course is fixed.
 
@@ -40,33 +40,32 @@ anything about. Certainly we make many mistakes through ignorance. If it is a
 violation of a commandment of God which we have never received and thus do not
 know, then the Lord does not hold us guilty of the sin. "... to him that knoweth
 to do good, and doeth it not, to him it is sin." ([James
-4:17](https://www.lds.org/scriptures/nt/james/4.17?lang=eng#16).) And in
-Paul's words, "... where no law is, there is no transgression." ([Rom.
-4:15](https://www.lds.org/scriptures/nt/rom/4.15?lang=eng#14).) But even
-though we may not be guilty of the sin because of our ignorance, neither can
-we receive the blessing, which is predicated on obedience, without rendering
-obedience to that law. Therefore, we are denied the blessing through our
-ignorance. If it is a traffic law we have violated through ignorance, the
-penalty assessed us is exactly the same as if we had known. Also, if we stick
-a finger in an electric light socket, we will receive the same shock,
-irrespective of our knowledge of electricity. I repeat, ignorance is
-expensive. Particularly is this true since the Lord has decreed, "It is
-impossible for a man to be saved in ignorance." ([D&amp;C
-131:6](https://www.lds.org/scriptures/dc-testament/dc/131.6?lang=eng#5).) For
-surely no man is truly enlightened unless he knows the Lord.
+4:17](/scriptures/nt/james/4.17?lang=eng#16).) And in Paul's words, "... where
+no law is, there is no transgression." ([Rom.
+4:15](/scriptures/nt/rom/4.15?lang=eng#14).) But even though we may not be
+guilty of the sin because of our ignorance, neither can we receive the
+blessing, which is predicated on obedience, without rendering obedience to
+that law. Therefore, we are denied the blessing through our ignorance. If it
+is a traffic law we have violated through ignorance, the penalty assessed us
+is exactly the same as if we had known. Also, if we stick a finger in an
+electric light socket, we will receive the same shock, irrespective of our
+knowledge of electricity. I repeat, ignorance is expensive. Particularly is
+this true since the Lord has decreed, "It is impossible for a man to be saved
+in ignorance." ([D&amp;C 131:6](/scriptures/dc-
+testament/dc/131.6?lang=eng#5).) For surely no man is truly enlightened unless
+he knows the Lord.
 
 Why is it we are so slow to learn, to receive the light? Is it because the
 Lord is slow to speak or doesn't want to be bothered? Not according to his
 word to James wherein he says he "giveth to all men liberally, and upbraideth
-not. ..." ([James 1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).)
+not. ..." ([James 1:5](/scriptures/nt/james/1.5?lang=eng#4).)
 
 Then the real problem is in that we receive not the light! "... and here is the
 condemnation of man," saith the Lord; "because that which was from the
 beginning is plainly manifest unto them, and they receive not the light.
 
 "And every man whose spirit receiveth not the light is under condemnation."
-([D&amp;C 93:31-32](https://www.lds.org/scriptures/dc-
-testament/dc/93.31-32?lang=eng#30).)
+([D&amp;C 93:31-32](/scriptures/dc-testament/dc/93.31-32?lang=eng#30).)
 
 But why do we receive not the light? The Lord tells us why over and over again
 in the scriptures. Simply stated, the reason we do not learn is because we are
@@ -83,9 +82,8 @@ because they were not willing to enjoy that which they might have received.
 
 "For what doth it profit a man if a gift is bestowed upon him, and he receive
 not the gift? Behold, he rejoices not in that which is given unto him, neither
-rejoices in him who is the giver of the gift." ([D&amp;C
-88:32-33](https://www.lds.org/scriptures/dc-
-testament/dc/88.32-33?lang=eng#31).)
+rejoices in him who is the giver of the gift." ([D&amp;C 88:32-33](/scriptures
+/dc-testament/dc/88.32-33?lang=eng#31).)
 
 Then Cassius's words to Brutus in Shakespeare's _Julius Caesar _apply equally
 to us. "The fault, dear Brutus, is not in our stars, But in ourselves, that we
@@ -97,21 +95,18 @@ into condition so he can reveal the light we seek and so desperately need.
 
 The Lord has well stated our plight. "And this is the condemnation, that light
 is come into the world, and men [love] darkness rather than light, because
-their deeds [are] evil." ([John
-3:19](https://www.lds.org/scriptures/nt/john/3.19?lang=eng#18).) I repeat:
-"because their deeds [are] evil."
+their deeds [are] evil." ([John 3:19](/scriptures/nt/john/3.19?lang=eng#18).)
+I repeat: "because their deeds [are] evil."
 
 Revelation, light, and knowledge come through the power of the Holy Ghost. The
 words of the Master as recorded in John are expressive. "But the Comforter,
 which is the Holy Ghost, whom the Father will send in my name, he shall teach
 you all things, and bring all things to your remembrance, whatsoever I have
-said unto you." ([John
-14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25).) And again,
-"... he [the Holy Ghost] will guide you into all truth ... and [shall show] you
-things to come." ([John
-16:13](https://www.lds.org/scriptures/nt/john/16.13?lang=eng#12).) In fact, we
-can neither teach nor learn gospel truths without the Holy Ghost. In this day
-the Lord has reconfirmed this great truth in these words:
+said unto you." ([John 14:26](/scriptures/nt/john/14.26?lang=eng#25).) And
+again, "... he [the Holy Ghost] will guide you into all truth ... and [shall show]
+you things to come." ([John 16:13](/scriptures/nt/john/16.13?lang=eng#12).) In
+fact, we can neither teach nor learn gospel truths without the Holy Ghost. In
+this day the Lord has reconfirmed this great truth in these words:
 
 "Therefore, why is it that ye cannot understand and know, that he that
 receiveth the word by the Spirit of truth receiveth it as it is preached by
@@ -135,8 +130,7 @@ all sin.
 
 "And if ye are purified and cleansed from all sin, ye shall ask whatsoever you
 will in the name of Jesus and it shall be done." ([D&amp;C 50:21-24,
-27-29](https://www.lds.org/scriptures/dc-
-testament/dc/50.21-24%2C27-29?lang=eng#20).)
+27-29](/scriptures/dc-testament/dc/50.21-24,27-29?lang=eng#20).)
 
 A great Book of Mormon prophet, Alma, after preaching a great sermon on
 obedience under the influence of the Holy Spirit, stated in part how he
@@ -145,7 +139,7 @@ unto me by the Holy Spirit of God. Behold, I have fasted and prayed many days
 that I might know these things of myself. And now I do know of myself that
 they are true; for the Lord God hath made them manifest unto me by his Holy
 Spirit; and this is the spirit of revelation which is in me." ([Alma
-5:46](https://www.lds.org/scriptures/bofm/alma/5.46?lang=eng#45).)
+5:46](/scriptures/bofm/alma/5.46?lang=eng#45).)
 
 Sometimes members appear to feel that fasting and prayer is all that is
 necessary to receive the answers to their problems. Sometime ago a young lady
@@ -176,4 +170,6 @@ do so, and may it be said of us when we depart that "he took with him a clean,
 free, enlightened and happy spirit, and a conscience void of offense to his
 fellowmen." That this may be our happy state, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

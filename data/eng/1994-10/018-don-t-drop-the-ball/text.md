@@ -178,7 +178,7 @@ resplendent in godly strength and wisdom.
 
 Today is a part of eternity. As Amulek in the Book of Mormon declared, "This
 life is the time for men to prepare to meet God" ([Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31)).
+34:32](/scriptures/bofm/alma/34.32?lang=eng#31)).
 
 Eternal vigilance is the price of eternal development. Occasionally we may
 stumble. I thank the Lord for the great principle of repentance and
@@ -204,7 +204,7 @@ breastplate of righteousness; ...
 
 "Above all, taking the shield of faith, wherewith ye shall be able to quench
 all the fiery darts of the wicked" ([Eph. 6:10-12, 14,
-16](https://www.lds.org/scriptures/nt/eph/6.10-12%2C14%2C16?lang=eng#9)).
+16](/scriptures/nt/eph/6.10-12,14,16?lang=eng#9)).
 
 All of us live in the world. Of course we do. We cannot live a cloistered
 existence. But we can live in the world without partaking of the unseemly ways
@@ -258,4 +258,6 @@ integrity and prayer. May he bless you with the love of your families, your
 wives, and your children. May he bless all of us with strength to live with
 consistency without stumbling as we walk the way of immortality and eternal
 life, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

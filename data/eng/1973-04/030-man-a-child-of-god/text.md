@@ -23,22 +23,21 @@ God. Their objective is, therefore, to someday be like their heavenly parents.
 
 They not only so reason; they know they may so become because God has revealed
 the fact that it is his work and glory to bring to pass their eternal life
-([Moses 1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)),
-which is the life God lives.
+([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)), which is the life God
+lives.
 
 Adam, the first man, knew that he was a son of God. He walked and talked with
 him in the Garden of Eden before the fall. After the fall, "Adam and Eve, his
 wife, called upon the name of the Lord, and they heard the voice of the Lord
 from the way toward the Garden of Eden, speaking unto them. ..." ([Moses
-5:4-5](https://www.lds.org/scriptures/pgp/moses/5.4-5?lang=eng#3).)
+5:4-5](/scriptures/pgp/moses/5.4-5?lang=eng#3).)
 
 Later, the Lord sent an angel who taught them the gospel plan, whereupon,
 "Adam and Eve blessed the name of God, and they made all things known unto
 their sons and their daughters." Then "Satan came among them, saying: ...
 Believe it not; and they believed it not, and they loved Satan more than God.
 And men began from that time forth to be carnal, sensual, and devilish."
-([Moses
-5:12-13](https://www.lds.org/scriptures/pgp/moses/5.12-13?lang=eng#11).)
+([Moses 5:12-13](/scriptures/pgp/moses/5.12-13?lang=eng#11).)
 
 From then until now, most men, like the first generation of Adam's posterity,
 have "believed it not," although God has repeatedly revealed it to all the
@@ -58,14 +57,13 @@ he is full of grace and truth; ...
 
 "And now, behold, this one thing I show unto thee, _Moses, my son; _for thou
 art in the world, and now I show it unto thee." ([Moses 1:1-4,
-6-7](https://www.lds.org/scriptures/pgp/moses/1.1-4%2C6-7?lang=eng#0). Italics
-added.)
+6-7](/scriptures/pgp/moses/1.1-4,6-7?lang=eng#0). Italics added.)
 
 In this short scripture, the Lord three times addressed Moses as "my son."
 
 Paul, in his great speech on Mars' hill, speaking of God, said: "... in him we
 live, and move, and have our being; ... for we are ... his offspring." ([Acts
-17:28](https://www.lds.org/scriptures/nt/acts/17.28?lang=eng#27).)
+17:28](/scriptures/nt/acts/17.28?lang=eng#27).)
 
 Joseph Smith and Oliver Cowdery declared "that he lives!
 
@@ -73,17 +71,15 @@ Joseph Smith and Oliver Cowdery declared "that he lives!
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 "Begotten sons and daughters unto God." Can this be true in light of the fact
 that we all know that we are begotten sons and daughters of our earthly
 fathers? Yes, it is true because human souls are dual beings--spirits
 tabernacled in bodies of flesh and bone. The revelation says, "... the spirit
-and the body are the soul of man." ([D&amp;C
-88:15](https://www.lds.org/scriptures/dc-testament/dc/88.15?lang=eng#14).) God
-is the father of man's spirit, even as his earthly father is the father of his
-mortal body.
+and the body are the soul of man." ([D&amp;C 88:15](/scriptures/dc-
+testament/dc/88.15?lang=eng#14).) God is the father of man's spirit, even as
+his earthly father is the father of his mortal body.
 
 The nature of a spirit is plainly revealed in the scriptures. A clear word
 picture of a spirit is recorded in the third chapter of Ether in the Book of
@@ -100,7 +96,7 @@ created in the beginning after mine own image.
 "Behold, this body, which ye now behold, is the body of my spirit; and man
 have I created after the body of my spirit; and even as I appear unto thee to
 be in the spirit will I appear unto my people in the flesh." ([Ether
-3:14-16](https://www.lds.org/scriptures/bofm/ether/3.14-16?lang=eng#13).)
+3:14-16](/scriptures/bofm/ether/3.14-16?lang=eng#13).)
 
 Corroborating this truth, Jesus declared to Joseph Smith as late as 1833:
 
@@ -108,8 +104,7 @@ Corroborating this truth, Jesus declared to Joseph Smith as late as 1833:
 course, the firstborn spirit];
 
 "Ye were also in the beginning with the Father; that which is Spirit. ..."
-([D&amp;C 93:21, 23](https://www.lds.org/scriptures/dc-
-testament/dc/93.21%2C23?lang=eng#20).)
+([D&amp;C 93:21, 23](/scriptures/dc-testament/dc/93.21,23?lang=eng#20).)
 
 We learn something more about our spirits in their premortal state from a
 record made by Abraham of a vision in which he was shown a multitude of
@@ -145,7 +140,7 @@ the Lord their God shall command them;
 we kept our first estate and were added upon by receiving mortal bodies]; ...
 and they who keep their second estate [that is, this life] shall have glory
 added upon their heads for ever and ever." ([Abr.
-3:22-26](https://www.lds.org/scriptures/pgp/abr/3.22-26?lang=eng#21).)
+3:22-26](/scriptures/pgp/abr/3.22-26?lang=eng#21).)
 
 Such is the revealed truth concerning man's lofty estate.
 
@@ -251,7 +246,7 @@ logic, science, philosophy, nor any other field of worldly learning has ever
 been, or ever will be, able to find it out. Those who limit their search to
 such learning techniques will continue to be as they have always been, "Ever
 learning, and never able to come to the knowledge of the truth." ([2 Tim.
-3:7](https://www.lds.org/scriptures/nt/2-tim/3.7?lang=eng#6).)
+3:7](/scriptures/nt/2-tim/3.7?lang=eng#6).)
 
 The only means by which such knowledge can be had is divine revelation.
 Fortunately for us, as has already been shown, it has been so revealed
@@ -269,8 +264,7 @@ nutrition, propagate, and rot." He thinks of himself, as the scriptures teach,
 possessed of the innate ability, as are all other reproducing offspring, to
 reach in final maturity the status of his heavenly parents and have "glory
 added upon [his] head for ever and ever." ([Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25).) This is his
-goal.
+3:26](/scriptures/pgp/abr/3.26?lang=eng#25).) This is his goal.
 
 He accepts the Ten Commandments, the Sermon on the Mount, the Word of Wisdom,
 and every other direction and commandment given of God to be statements of
@@ -280,30 +274,27 @@ to reach which he has dedicated his life.
 He strives to respond to the Master's invitation:
 
 "Come unto me, all ye that labour and are heavy laden, and I will give you
-rest." ([Matt.
-11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).)
+rest." ([Matt. 11:28](/scriptures/nt/matt/11.28?lang=eng#27).)
 
 And to his challenge:
 
 "... be [ye] perfect even as I, or your Father who is in heaven is perfect." ([3
-Ne. 12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47).)
+Ne. 12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47).)
 
 He knows that the wise and proper response is to heed the Lord's command to
 "beware concerning yourselves, to give diligent heed to the words of eternal
 life. For you shall live by every word that proceedeth forth from the mouth of
-God." ([D&amp;C 84:43-44](https://www.lds.org/scriptures/dc-
-testament/dc/84.43-44?lang=eng#42).)
+God." ([D&amp;C 84:43-44](/scriptures/dc-testament/dc/84.43-44?lang=eng#42).)
 
 He believes implicitly the Lord's promise that "it shall come to pass that
 every soul who forsaketh his sins and cometh unto me, and calleth on my name,
 and obeyeth my voice, and keepeth my commandments, shall see my face and know
-that I am." ([D&amp;C 93:1](https://www.lds.org/scriptures/dc-
-testament/dc/93.1?lang=eng#0).)
+that I am." ([D&amp;C 93:1](/scriptures/dc-testament/dc/93.1?lang=eng#0).)
 
 He joins with Job in declaring, "I know that my redeemer liveth, and that he
 shall stand at the latter day upon the earth: And though after my skin worms
 destroy this body, yet in my flesh shall I see God." ([Job
-19:25-26](https://www.lds.org/scriptures/ot/job/19.25-26?lang=eng#24).)
+19:25-26](/scriptures/ot/job/19.25-26?lang=eng#24).)
 
 He joins with Alma in his wish:
 
@@ -314,18 +305,20 @@ cry repentance unto every people!
 "Yea, I would declare unto every soul, as with the voice of thunder,
 repentance and the plan of redemption, that they should repent and come unto
 our God, that there might not be more sorrow upon all the face of the earth."
-([Alma 29:1-2](https://www.lds.org/scriptures/bofm/alma/29.1-2?lang=eng#0).)
+([Alma 29:1-2](/scriptures/bofm/alma/29.1-2?lang=eng#0).)
 
 And finally, with Nephi he resolves:
 
 "I will go and do the things which the Lord hath commanded, for I know that
 the Lord giveth no commandments unto the children of men, save he shall
 prepare a way for them that they may accomplish the thing which he commandeth
-them." ([1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+them." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 I add my personal testimony that I know that I am a son of God, and that you,
 my beloved listeners, are individually a son or a daughter of God, and that
 this knowledge implemented in our lives will lift us back into his presence
 through the atoning sacrifice of our Savior, Jesus Christ; and in his name I
 leave you this witness, even so. Amen.
+
+## References
 

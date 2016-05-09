@@ -1,427 +1,349 @@
 items:
-- article_id: PD50021411_000_1010
-  item: '002'
-  key: 002-as-we-meet-together-again
+- item: 1
+  key: 000-as-we-meet-together-again
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: as-we-meet-together-again
   speaker: Thomas S. Monson
   title: As We Meet Together Again
   url: https://www.lds.org/general-conference/2010/10/as-we-meet-together-again?lang=eng
   year: 2010
-- article_id: PD50021411_000_1020
-  item: '004'
-  key: 004-because-of-your-faith
+- item: 2
+  key: 001-because-of-your-faith
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: because-of-your-faith
   speaker: Jeffrey R. Holland
   title: Because of Your Faith
   url: https://www.lds.org/general-conference/2010/10/because-of-your-faith?lang=eng
   year: 2010
-- article_id: PD50021411_000_1030
-  item: '005'
-  key: 005-stay-on-the-path
+- item: 3
+  key: 002-stay-on-the-path
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: stay-on-the-path
   speaker: Rosemary M. Wixom
   title: Stay on the Path
   url: https://www.lds.org/general-conference/2010/10/stay-on-the-path?lang=eng
   year: 2010
-- article_id: PD50021411_000_1040
-  item: '006'
-  key: 006-obedience-to-the-prophets
+- item: 4
+  key: 003-obedience-to-the-prophets
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: obedience-to-the-prophets
   speaker: Claudio R. M. Costa
   title: Obedience to the Prophets
   url: https://www.lds.org/general-conference/2010/10/obedience-to-the-prophets?lang=eng
   year: 2010
-- article_id: PD50021411_000_1050
-  item: 008
-  key: 008-gospel-learning-and-teaching
+- item: 5
+  key: 004-gospel-learning-and-teaching
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: gospel-learning-and-teaching
   speaker: David M. McConkie
   title: Gospel Learning and Teaching
   url: https://www.lds.org/general-conference/2010/10/gospel-learning-and-teaching?lang=eng
   year: 2010
-- article_id: PD50021411_000_1060
-  item: 009
-  key: 009-reflections-on-a-consecrated-life
+- item: 6
+  key: 005-reflections-on-a-consecrated-life
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: reflections-on-a-consecrated-life
   speaker: D. Todd Christofferson
   title: Reflections on a Consecrated Life
   url: https://www.lds.org/general-conference/2010/10/reflections-on-a-consecrated-life?lang=eng
   year: 2010
-- article_id: PD50021411_000_1070
-  item: '011'
-  key: 011-of-things-that-matter-most
+- item: 7
+  key: 006-of-things-that-matter-most
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: of-things-that-matter-most
   speaker: Dieter F. Uchtdorf
   title: Of Things That Matter Most
   url: https://www.lds.org/general-conference/2010/10/of-things-that-matter-most?lang=eng
   year: 2010
-- article_id: PD50021411_000_2010
-  item: '015'
-  key: 015-the-sustaining-of-church-officers
+- item: 8
+  key: 007-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Henry B. Eyring
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2010/10/the-sustaining-of-church-officers?lang=eng
   year: 2010
-- article_id: PD50021411_000_2020
-  item: '016'
-  key: 016-agency-essential-to-the-plan-of-life
+- item: 9
+  key: 008-agency-essential-to-the-plan-of-life
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: agency-essential-to-the-plan-of-life
   speaker: Robert D. Hales
   title: 'Agency: Essential to the Plan of Life'
   url: https://www.lds.org/general-conference/2010/10/agency-essential-to-the-plan-of-life?lang=eng
   year: 2010
-- article_id: PD50021411_000_2030
-  item: '017'
-  key: 017-let-there-be-light
+- item: 10
+  key: 009-let-there-be-light
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: let-there-be-light
   speaker: Quentin L. Cook
   title: Let There Be Light!
   url: https://www.lds.org/general-conference/2010/10/let-there-be-light?lang=eng
   year: 2010
-- article_id: PD50021411_000_2040
-  item: 018
-  key: 018-faith-the-choice-is-yours
+- item: 11
+  key: 010-faith-the-choice-is-yours
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: faith-the-choice-is-yours
   speaker: Richard C. Edgley
-  title: "Faith\u2014the Choice is Yours"
+  title: "Faith\u2014the Choice Is Yours"
   url: https://www.lds.org/general-conference/2010/10/faith-the-choice-is-yours?lang=eng
   year: 2010
-- article_id: PD50021411_000_2050
-  item: '020'
-  key: 020-our-very-survival
+- item: 12
+  key: 011-our-very-survival
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: our-very-survival
   speaker: Kevin R. Duncan
   title: Our Very Survival
   url: https://www.lds.org/general-conference/2010/10/our-very-survival?lang=eng
   year: 2010
-- article_id: PD50021411_000_2060
-  item: '021'
-  key: 021-temple-mirrors-of-eternity-a-testimony-of-family
+- item: 13
+  key: 012-temple-mirrors-of-eternity-a-testimony-of-family
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: temple-mirrors-of-eternity-a-testimony-of-family
   speaker: Gerrit W. Gong
   title: 'Temple Mirrors of Eternity: A Testimony of Family'
   url: https://www.lds.org/general-conference/2010/10/temple-mirrors-of-eternity-a-testimony-of-family?lang=eng
   year: 2010
-- article_id: PD50021411_000_2070
-  item: '022'
-  key: 022-never-leave-him
+- item: 14
+  key: 013-never-leave-him
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: never-leave-him
   speaker: Neil L. Andersen
   title: Never Leave Him
   url: https://www.lds.org/general-conference/2010/10/never-leave-him?lang=eng
   year: 2010
-- article_id: PD50021411_000_2080
-  item: '023'
-  key: 023-the-transforming-power-of-faith-and-character
+- item: 15
+  key: 014-the-transforming-power-of-faith-and-character
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-transforming-power-of-faith-and-character
   speaker: Richard G. Scott
   title: The Transforming Power of Faith and Character
   url: https://www.lds.org/general-conference/2010/10/the-transforming-power-of-faith-and-character?lang=eng
   year: 2010
-- article_id: PD50021411_000_3010
-  item: '027'
-  key: 027-be-thou-an-example-of-the-believers
+- item: 16
+  key: 015-be-thou-an-example-of-the-believers
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: be-thou-an-example-of-the-believers
   speaker: Russell M. Nelson
   title: Be Thou an Example of the Believers
   url: https://www.lds.org/general-conference/2010/10/be-thou-an-example-of-the-believers?lang=eng
   year: 2010
-- article_id: PD50021411_000_3020
-  item: 028
-  key: 028-come-unto-me-with-full-purpose-of-heart-and-i-shall-heal-you
+- item: 17
+  key: 016-come-unto-me-with-full-purpose-of-heart-and-i-shall-heal-you
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: come-unto-me-with-full-purpose-of-heart-and-i-shall-heal-you
   speaker: Patrick Kearon
-  title: "\u201CCome unto Me with Full Purpose of Heart, and I Shall Heal You\u201D"
+  title: '"Come unto Me with Full Purpose of Heart, and I Shall Heal You"'
   url: https://www.lds.org/general-conference/2010/10/come-unto-me-with-full-purpose-of-heart-and-i-shall-heal-you?lang=eng
   year: 2010
-- article_id: PD50021411_000_3030
-  item: 029
-  key: 029-he-teaches-us-to-put-off-the-natural-man
+- item: 18
+  key: 017-he-teaches-us-to-put-off-the-natural-man
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: he-teaches-us-to-put-off-the-natural-man
   speaker: Juan A. Uceda
   title: He Teaches Us to Put Off the Natural Man
   url: https://www.lds.org/general-conference/2010/10/he-teaches-us-to-put-off-the-natural-man?lang=eng
   year: 2010
-- article_id: PD50021411_000_3040
-  item: '031'
-  key: 031-pride-and-the-priesthood
+- item: 19
+  key: 018-pride-and-the-priesthood
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: pride-and-the-priesthood
   speaker: Dieter F. Uchtdorf
   title: Pride and the Priesthood
   url: https://www.lds.org/general-conference/2010/10/pride-and-the-priesthood?lang=eng
   year: 2010
-- article_id: PD50021411_000_3050
-  item: '032'
-  key: 032-serve-with-the-spirit
+- item: 20
+  key: 019-serve-with-the-spirit
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: serve-with-the-spirit
   speaker: Henry B. Eyring
   title: Serve with the Spirit
   url: https://www.lds.org/general-conference/2010/10/serve-with-the-spirit?lang=eng
   year: 2010
-- article_id: PD50021411_000_3060
-  item: '033'
-  key: 033-the-three-rs-of-choice
+- item: 21
+  key: 020-the-three-rs-of-choice
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-three-rs-of-choice
   speaker: Thomas S. Monson
   title: The Three Rs of Choice
   url: https://www.lds.org/general-conference/2010/10/the-three-rs-of-choice?lang=eng
   year: 2010
-- article_id: PD50021411_000_4010
-  item: '037'
-  key: 037-trust-in-god-then-go-and-do
+- item: 22
+  key: 021-trust-in-god-then-go-and-do
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: trust-in-god-then-go-and-do
   speaker: Henry B. Eyring
   title: Trust in God, Then Go and Do
   url: https://www.lds.org/general-conference/2010/10/trust-in-god-then-go-and-do?lang=eng
   year: 2010
-- article_id: PD50021411_000_4020
-  item: 039
-  key: 039-cleansing-the-inner-vessel
+- item: 23
+  key: 022-cleansing-the-inner-vessel
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: cleansing-the-inner-vessel
   speaker: Boyd K. Packer
   title: Cleansing the Inner Vessel
   url: https://www.lds.org/general-conference/2010/10/cleansing-the-inner-vessel?lang=eng
   year: 2010
-- article_id: PD50021411_000_4030
-  item: '040'
-  key: 040-the-holy-ghost-and-revelation
+- item: 24
+  key: 023-the-holy-ghost-and-revelation
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-holy-ghost-and-revelation
   speaker: Jay E. Jensen
   title: The Holy Ghost and Revelation
   url: https://www.lds.org/general-conference/2010/10/the-holy-ghost-and-revelation?lang=eng
   year: 2010
-- article_id: PD50021411_000_4040
-  item: '042'
-  key: 042-be-an-example-of-the-believers
+- item: 25
+  key: 024-be-an-example-of-the-believers
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: be-an-example-of-the-believers
   speaker: Mary N. Cook
   title: Be an Example of the Believers
   url: https://www.lds.org/general-conference/2010/10/be-an-example-of-the-believers?lang=eng
   year: 2010
-- article_id: PD50021411_000_4050
-  item: '043'
-  key: 043-two-lines-of-communication
+- item: 26
+  key: 025-two-lines-of-communication
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: two-lines-of-communication
   speaker: Dallin H. Oaks
   title: Two Lines of Communication
   url: https://www.lds.org/general-conference/2010/10/two-lines-of-communication?lang=eng
   year: 2010
-- article_id: PD50021411_000_4060
-  item: '045'
-  key: 045-the-divine-gift-of-gratitude
+- item: 27
+  key: 026-the-divine-gift-of-gratitude
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-divine-gift-of-gratitude
   speaker: Thomas S. Monson
   title: The Divine Gift of Gratitude
   url: https://www.lds.org/general-conference/2010/10/the-divine-gift-of-gratitude?lang=eng
   year: 2010
-- article_id: PD50021411_000_5010
-  item: 049
-  key: 049-the-priesthood-of-aaron
+- item: 28
+  key: 027-the-priesthood-of-aaron
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-priesthood-of-aaron
   speaker: L. Tom Perry
   title: The Priesthood of Aaron
   url: https://www.lds.org/general-conference/2010/10/the-priesthood-of-aaron?lang=eng
   year: 2010
-- article_id: PD50021411_000_5020
-  item: '050'
-  key: 050-receive-the-holy-ghost
+- item: 29
+  key: 028-receive-the-holy-ghost
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: receive-the-holy-ghost
   speaker: David A. Bednar
   title: Receive the Holy Ghost
   url: https://www.lds.org/general-conference/2010/10/receive-the-holy-ghost?lang=eng
   year: 2010
-- article_id: PD50021411_000_5030
-  item: '051'
-  key: 051-courageous-parenting
+- item: 30
+  key: 029-courageous-parenting
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: courageous-parenting
   speaker: Larry R. Lawrence
   title: Courageous Parenting
   url: https://www.lds.org/general-conference/2010/10/courageous-parenting?lang=eng
   year: 2010
-- article_id: PD50021411_000_5040
-  item: '053'
-  key: 053-rest-unto-your-souls
+- item: 31
+  key: 030-rest-unto-your-souls
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: rest-unto-your-souls
   speaker: Per G. Malm
   title: Rest unto Your Souls
   url: https://www.lds.org/general-conference/2010/10/rest-unto-your-souls?lang=eng
   year: 2010
-- article_id: PD50021411_000_5050
-  item: '054'
-  key: 054-avoiding-the-trap-of-sin
+- item: 32
+  key: 031-avoiding-the-trap-of-sin
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: avoiding-the-trap-of-sin
   speaker: Jairo Mazzagardi
   title: Avoiding the Trap of Sin
   url: https://www.lds.org/general-conference/2010/10/avoiding-the-trap-of-sin?lang=eng
   year: 2010
-- article_id: PD50021411_000_5060
-  item: '055'
-  key: 055-what-have-you-done-with-my-name
+- item: 33
+  key: 032-what-have-you-done-with-my-name
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: what-have-you-done-with-my-name
   speaker: Mervyn B. Arnold
   title: What Have You Done with My Name?
   url: https://www.lds.org/general-conference/2010/10/what-have-you-done-with-my-name?lang=eng
   year: 2010
-- article_id: PD50021411_000_5070
-  item: '056'
-  key: 056-o-that-cunning-plan-of-the-evil-one
+- item: 34
+  key: 033-o-that-cunning-plan-of-the-evil-one
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: o-that-cunning-plan-of-the-evil-one
   speaker: M. Russell Ballard
   title: O That Cunning Plan of the Evil One
   url: https://www.lds.org/general-conference/2010/10/o-that-cunning-plan-of-the-evil-one?lang=eng
   year: 2010
-- article_id: PD50021411_000_5080
-  item: '057'
-  key: 057-till-we-meet-again
+- item: 35
+  key: 034-till-we-meet-again
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: till-we-meet-again
   speaker: Thomas S. Monson
   title: Till We Meet Again
   url: https://www.lds.org/general-conference/2010/10/till-we-meet-again?lang=eng
   year: 2010
-- article_id: PD50021411_000_0010
-  item: '060'
-  key: 060-daughters-in-my-kingdom-the-history-and-work-of-relief-society
+- item: 36
+  key: 035-daughters-in-my-kingdom-the-history-and-work-of-relief-society
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: daughters-in-my-kingdom-the-history-and-work-of-relief-society
   speaker: Julie B. Beck
-  title: 'Daughters in My Kingdom: The History and Work of Relief Society'
+  title: '"Daughters in My Kingdom": The History and Work of Relief Society'
   url: https://www.lds.org/general-conference/2010/10/daughters-in-my-kingdom-the-history-and-work-of-relief-society?lang=eng
   year: 2010
-- article_id: PD50021411_000_0020
-  item: '062'
-  key: 062-steadfast-and-immovable
+- item: 37
+  key: 036-steadfast-and-immovable
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: steadfast-and-immovable
   speaker: Silvia H. Allred
   title: Steadfast and Immovable
   url: https://www.lds.org/general-conference/2010/10/steadfast-and-immovable?lang=eng
   year: 2010
-- article_id: PD50021411_000_0030
-  item: '063'
-  key: 063-and-of-some-have-compassion-making-a-difference
+- item: 38
+  key: 037-and-of-some-have-compassion-making-a-difference
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: and-of-some-have-compassion-making-a-difference
   speaker: Barbara Thompson
   title: And of Some Have Compassion, Making a Difference
   url: https://www.lds.org/general-conference/2010/10/and-of-some-have-compassion-making-a-difference?lang=eng
   year: 2010
-- article_id: PD50021411_000_0040
-  item: '065'
-  key: 065-charity-never-faileth
+- item: 39
+  key: 038-charity-never-faileth
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: charity-never-faileth
   speaker: Thomas S. Monson

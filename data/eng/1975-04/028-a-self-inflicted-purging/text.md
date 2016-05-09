@@ -2,11 +2,10 @@
 
 My beloved brethren, King Benjamin in, I believe, the second greatest
 discourse ever delivered, said, "I have not commanded you to come up hither to
-trifle with ... words." ([Mosiah
-2:9](https://www.lds.org/scriptures/bofm/mosiah/2.9?lang=eng#8).) I believe
-the Prophet has not called this conference to have us trifle with words. I
-would like to discuss a subject which possibly could be led into by this
-little story:
+trifle with ... words." ([Mosiah 2:9](/scriptures/bofm/mosiah/2.9?lang=eng#8).)
+I believe the Prophet has not called this conference to have us trifle with
+words. I would like to discuss a subject which possibly could be led into by
+this little story:
 
 Roy Welker, a great writer for Church priesthood courses and a great stake
 president and priesthood leader, lived in our stake. Another great priesthood
@@ -221,4 +220,6 @@ and to be associated with those men who are most pure in heart. They are truly
 pure. I bear that solemn witness, and I bear witness that our beloved prophet
 is probably the most pure in heart of any and all I have ever known, in the
 name of Jesus Christ. Amen.
+
+## References
 

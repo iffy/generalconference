@@ -7,12 +7,12 @@ which every priesthood bearer should honor.
 
 In saying to William E. McLellin, "Blessed are you for receiving mine
 everlasting covenant, even the fulness of my gospel" ([D&amp;C
-66:2](https://www.lds.org/scriptures/dc-testament/dc/66.2?lang=eng#1)), the
-Lord identified the gospel as the great and all-embracing covenant. As a
-matter of fact, the Lord had himself presented it as such to us, his spirit
-children, in the great pre-earth Council in Heaven. Standing among us at that
-time in that premortal assembly, the Lord "said unto those who were with him:
-We will go down ... and ... make an earth whereon these may dwell;
+66:2](/scriptures/dc-testament/dc/66.2?lang=eng#1)), the Lord identified the
+gospel as the great and all-embracing covenant. As a matter of fact, the Lord
+had himself presented it as such to us, his spirit children, in the great pre-
+earth Council in Heaven. Standing among us at that time in that premortal
+assembly, the Lord "said unto those who were with him: We will go down ... and ...
+make an earth whereon these may dwell;
 
 "And we will prove them herewith, to see if they will do all things whatsoever
 the Lord their God shall command them;
@@ -21,7 +21,7 @@ the Lord their God shall command them;
 not their first estate shall not have glory in the same kingdom with those who
 keep their first estate; and they who keep their second estate shall have
 glory added upon their heads for ever and ever." ([Abr.
-3:24-26](https://www.lds.org/scriptures/pgp/abr/3.24-26?lang=eng#23).)
+3:24-26](/scriptures/pgp/abr/3.24-26?lang=eng#23).)
 
 In that council, a third of the spirits rejected the gospel covenant.
 
@@ -43,8 +43,7 @@ rise up and bless thee, as their father;
 "And I will bless them that bless thee, and curse them that curse thee; and in
 thee ... and in thy seed ... shall all the families of the earth be blessed, even
 with the blessings of the Gospel, which are the blessings of salvation, even
-of life eternal." ([Abr.
-2:9-11](https://www.lds.org/scriptures/pgp/abr/2.9-11?lang=eng#8).)
+of life eternal." ([Abr. 2:9-11](/scriptures/pgp/abr/2.9-11?lang=eng#8).)
 
 Abraham's posterity, through Isaac and Jacob--with whom these covenants were
 renewed--have ever since been known by those who have understood the gospel as
@@ -67,8 +66,7 @@ God, ... that ye may have eternal life--
 "What have you against being baptized in the name of the Lord, as a witness
 before him that ye have entered into a covenant with him, that ye will serve
 him and keep his commandments, that he may pour out his Spirit more abundantly
-upon you?" ([Mosiah
-18:7-10](https://www.lds.org/scriptures/bofm/mosiah/18.7-10?lang=eng#6).)
+upon you?" ([Mosiah 18:7-10](/scriptures/bofm/mosiah/18.7-10?lang=eng#6).)
 
 In this dispensation, the Lord has stated for us the terms of the baptismal
 covenant in the Doctrine and Covenants, section 20, verse 37, as follows:
@@ -80,15 +78,14 @@ before the church that they have truly repented of all their sins, and are
 willing to take upon them the name of Jesus Christ, having a determination to
 serve him to the end, and truly manifest by their works that they have
 received of the Spirit of Christ unto the remission of their sins, shall be
-received by baptism into his church." [[D&amp;C
-20:37](https://www.lds.org/scriptures/dc-testament/dc/20.37?lang=eng#36)]
+received by baptism into his church." [[D&amp;C 20:37](/scriptures/dc-
+testament/dc/20.37?lang=eng#36)]
 
 Another instruction the Lord has given us is:
 
 "That thou mayest more fully keep thyself unspotted from the world, thou shalt
 go to the house of prayer and offer up thy sacraments upon my holy day."
-([D&amp;C 59:9](https://www.lds.org/scriptures/dc-
-testament/dc/59.9?lang=eng#8).)
+([D&amp;C 59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).)
 
 The sacrament prayers--dictated by the Lord himself--should keep us constantly
 reminded of the gospel covenants we have entered into with the Lord. These
@@ -100,19 +97,17 @@ that they may eat in remembrance of the body of thy Son, and witness unto
 thee, O God, the Eternal Father, that they are willing to take upon them the
 name of thy Son, and always remember him and keep his commandments which he
 has given them; that they may always have his Spirit to be with them. Amen."
-([D&amp;C 20:77](https://www.lds.org/scriptures/dc-
-testament/dc/20.77?lang=eng#76).)
+([D&amp;C 20:77](/scriptures/dc-testament/dc/20.77?lang=eng#76).)
 
 Many of the Lord's commandments are in the form of covenants promising
 specific blessings--tithing, for example: "Behold, now it is called today
 until the coming of the Son of Man, and verily it is a day of sacrifice, and a
 day for the tithing of my people; for he that is tithed shall not be burned at
-his coming." ([D&amp;C 64:23](https://www.lds.org/scriptures/dc-
-testament/dc/64.23?lang=eng#22).)
+his coming." ([D&amp;C 64:23](/scriptures/dc-testament/dc/64.23?lang=eng#22).)
 
 "And I say unto you, if my people observe not this law [of tithing], to keep
 it holy, and by this law sanctify the land of Zion unto me, ... it shall not be
-a land of Zion unto you." ([D&amp;C 119:6](https://www.lds.org/scriptures/dc-
+a land of Zion unto you." ([D&amp;C 119:6](/scriptures/dc-
 testament/dc/119.6?lang=eng#5).)
 
 These statements make it clear that by failing to honor the tithing covenant
@@ -126,7 +121,7 @@ pour you out a blessing, that there shall not be room enough to receive it.
 "And I will rebuke the devourer for your sakes, and he shall not destroy the
 fruits of your ground; neither shall your vine cast her fruit before the time
 in the field, saith the Lord of hosts." ([Mal.
-3:10-11](https://www.lds.org/scriptures/ot/mal/3.10-11?lang=eng#9).)
+3:10-11](/scriptures/ot/mal/3.10-11?lang=eng#9).)
 
 Another example of a covenant is the Word of Wisdom, which also promises a
 specific blessing.
@@ -159,8 +154,7 @@ treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C 89:4-5,
-7-9, 18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.4-5%2C7-9%2C18-21?lang=eng#3).)
+7-9, 18-21](/scriptures/dc-testament/dc/89.4-5,7-9,18-21?lang=eng#3).)
 
 You will remember that it was necessary for the "destroying angel" referred to
 in this scripture to fatally afflict the firstborn of men and beast throughout
@@ -169,7 +163,7 @@ Egypt in order to persuade Pharaoh to let Israel go.
 Destroying angels are mentioned several times in modern scriptures. Two years
 before the Word of Wisdom promise was given, the Lord said that "the angels
 [were] waiting the great command to reap down the earth, to gather the tares
-that they may be burned." ([D&amp;C 38:12](https://www.lds.org/scriptures/dc-
+that they may be burned." ([D&amp;C 38:12](/scriptures/dc-
 testament/dc/38.12?lang=eng#11).)
 
 Observing the gospel covenants we make with the Lord qualifies us to enter the
@@ -180,4 +174,6 @@ That the Lord will help all of us to magnify our callings in the priesthood by
 proving faithful to every covenant and commandment and obligation which rests
 upon us, the holders of the holy priesthood, I humbly pray, in the name of
 Jesus Christ, amen.
+
+## References
 

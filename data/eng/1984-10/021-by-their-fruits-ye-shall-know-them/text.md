@@ -7,22 +7,21 @@ make good men better." (_Millennial Star,_ Oct. 1961, p. 469.)
 The Lord said to the people of ancient America, "And whatsoever thing
 persuadeth men to do good is of me; for good cometh of none save it be of me.
 I am the same that leadeth men to all good." ([Ether
-4:12](https://www.lds.org/scriptures/bofm/ether/4.12?lang=eng#11).)
+4:12](/scriptures/bofm/ether/4.12?lang=eng#11).)
 
 To be good, one must seek after truth, for truth is the ingredient which, when
 inculcated into our lives, changes us for good. "Truth is knowledge of things
 as they are, and as they were, and as they are to come." ([D&amp;C
-93:24](https://www.lds.org/scriptures/dc-testament/dc/93.24?lang=eng#23).)
-"Truth abideth and hath no end." ([D&amp;C
-88:66](https://www.lds.org/scriptures/dc-testament/dc/88.66?lang=eng#65).)
+93:24](/scriptures/dc-testament/dc/93.24?lang=eng#23).) "Truth abideth and
+hath no end." ([D&amp;C 88:66](/scriptures/dc-
+testament/dc/88.66?lang=eng#65).)
 
 Intelligence is the ability to use knowledge properly. The Lord has said, "The
 glory of God is intelligence, or, in other words, light and truth." ([D&amp;C
-93:36](https://www.lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35).) The
-light of which this scripture speaks is the Light of Christ, for Jesus further
-said, "I am the true light that lighteth every man that cometh into the
-world." ([D&amp;C 93:2](https://www.lds.org/scriptures/dc-
-testament/dc/93.2?lang=eng#1).)
+93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).) The light of which
+this scripture speaks is the Light of Christ, for Jesus further said, "I am
+the true light that lighteth every man that cometh into the world." ([D&amp;C
+93:2](/scriptures/dc-testament/dc/93.2?lang=eng#1).)
 
 One of my earliest recollections happened when I was about four years of age.
 Several blocks from our home was a little wooden grocery store. In the front
@@ -56,8 +55,7 @@ his loins, is baptizing Jesus; and Jesus, dressed in the garb of the day, is
 coming up out of the water. The heavens open and a marvelous thing occurs. The
 Holy Ghost descends in the form of a dove and alights upon him. And a voice
 from heaven is heard saying, "This is my beloved Son, in whom I am well
-pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+pleased." ([Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 Envision yourself some time later in the temple in Jerusalem. The weather is
 hot outside; but inside, the thick stone walls give relief to a group gathered
@@ -77,7 +75,7 @@ whence I come, and whither I go. ...
 
 "I am one that bear witness of myself, and the Father that sent me beareth
 witness of me." ([John 8:12-14,
-17-18](https://www.lds.org/scriptures/nt/john/8.12-14%2C17-18?lang=eng#11).)
+17-18](/scriptures/nt/john/8.12-14,17-18?lang=eng#11).)
 
 The testimony of the Father and the testimony of Jesus were not for the people
 of their day alone, but for men down through the ages. It was documented then
@@ -103,7 +101,7 @@ they are indebted to our Father in Heaven for all." (_Journal of Discourses,_
 To those who pursue and apply gospel principles, the Lord says, "And if your
 eye be single to my glory, your whole bodies shall be filled with light, and
 there shall be no darkness in you; and that body which is filled with light
-comprehendeth all things." ([D&amp;C 88:67](https://www.lds.org/scriptures/dc-
+comprehendeth all things." ([D&amp;C 88:67](/scriptures/dc-
 testament/dc/88.67?lang=eng#66).)
 
 President Joseph F. Smith said: "[The] knowledge of truth, combined with
@@ -127,12 +125,11 @@ with us in the resurrection.
 
 "And if a person gains more knowledge and intelligence in this life through
 his diligence and obedience than another, he will have so much the advantage
-in the world to come." ([D&amp;C 130:18-19](https://www.lds.org/scriptures/dc-
+in the world to come." ([D&amp;C 130:18-19](/scriptures/dc-
 testament/dc/130.18-19?lang=eng#17).)
 
 He further said, "It is impossible for a man to be saved in ignorance."
-([D&amp;C 131:6](https://www.lds.org/scriptures/dc-
-testament/dc/131.6?lang=eng#5).)
+([D&amp;C 131:6](/scriptures/dc-testament/dc/131.6?lang=eng#5).)
 
 Brigham Young asked the question, "When shall we cease to learn?" And then he
 answered his own question with the words, "Never, never." (_Journal of
@@ -163,7 +160,7 @@ withstand God, or why does the world think to make me deny what I have
 actually seen? For I had seen a vision; I knew it, and I knew that God knew
 it, and I could not deny it, neither dared I do it; at least I knew that by so
 doing I would offend God, and come under condemnation." ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 To so react requires great integrity and also builds great integrity.
 
@@ -190,9 +187,9 @@ compromised.
 Integrity is sustained by forethought and commitment. It was written of
 Helaman's stripling warriors, "Yea, and they did obey and observe to perform
 every word of command with exactness." ([Alma
-57:21](https://www.lds.org/scriptures/bofm/alma/57.21?lang=eng#20).) They were
-fully committed to what they would do when they got into the heat of battle.
-Their efforts won them the crown of integrity.
+57:21](/scriptures/bofm/alma/57.21?lang=eng#20).) They were fully committed to
+what they would do when they got into the heat of battle. Their efforts won
+them the crown of integrity.
 
 Let us review our own lives to determine how each of us measures up in our own
 quest for integrity.
@@ -227,14 +224,13 @@ Are you completely honest with yourself and others?
 Are you obedient to Him who gave you life?
 
 The Lord said to the people in his day, and to us too: "By their fruits ye
-shall know them." ([Matt.
-7:20](https://www.lds.org/scriptures/nt/matt/7.20?lang=eng#19).)
+shall know them." ([Matt. 7:20](/scriptures/nt/matt/7.20?lang=eng#19).)
 
 "For a good tree bringeth not forth corrupt fruit; neither doth a corrupt tree
 bring forth good fruit.
 
 "... Every tree is known by his own fruit." ([Luke
-6:43-44](https://www.lds.org/scriptures/nt/luke/6.43-44?lang=eng#42).)
+6:43-44](/scriptures/nt/luke/6.43-44?lang=eng#42).)
 
 May I suggest a formula for bringing forth good fruit and helping one to gain
 eternal salvation? (1) have faith in the Lord Jesus Christ and in yourself,
@@ -249,4 +245,6 @@ strive for--and live the principles of truth. When we do so, we will become
 better men and better women and contribute to a better community, a better
 nation, and a better world, for which I pray in the name of Jesus Christ,
 amen.
+
+## References
 

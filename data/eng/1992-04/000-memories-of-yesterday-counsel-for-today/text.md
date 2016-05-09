@@ -18,7 +18,7 @@ President Benson has singled out two members of the Relief Society for his
 personal tribute. He said: "I pay grateful tribute to two elect women who have
 influenced my life--my mother, and my own sweetheart and eternal companion. I
 thank God that they have used their womanly attributes of compassion and
-charity to bless my life and the lives of their posterity." [1]
+charity to bless my life and the lives of their posterity."[1]
 
 Reminiscing of boyhood days, President Benson recalls:
 
@@ -40,8 +40,7 @@ building up a storage of wheat against a time of need. ...
 new babies, she always went by horse and buggy. [And] as the buggy rolled down
 the dirt road, the circling wheels left a track that stayed even after the
 buggy had disappeared. Mother's influence has also stayed in my life and in
-the countless lives she blessed through compassionate service and example."
-[2]
+the countless lives she blessed through compassionate service and example."[2]
 
 I find it interesting that Ezra Benson, the boy who assisted his mother and
 the Relief Society gather and store wheat for a future day of hunger, was Ezra
@@ -50,31 +49,22 @@ and other essentials to the famished of Europe following World War II.
 
 Of his companion, Flora, President Benson has said: "I honor and acknowledge
 my precious wife. ... Her loving devotion, inspiration, faith and loyal support
-have contributed to whatever success may be ours." [3]
+have contributed to whatever success may be ours."[3]
 
 Thinking of the example of his own mother and that of his beloved and faithful
 wife, Flora, President Benson has offered ten specific suggestions for mothers
 as they guide their precious children:
 
-  1. Take time to always be at the crossroads in the lives of your children, whether they be six or sixteen.
-
-  2. Take time to be a real friend to your children.
-
-  3. Take time to read to your children. Remember what the poet wrote:
-
-  4. Take time to pray with your children.
-
-  5. Take time to have a meaningful weekly home evening. Make this one of your great family traditions.
-
-  6. Take time to be together at mealtimes as often as possible.
-
-  7. Take time daily to read the scriptures together as a family.
-
-  8. Take time to do things together as a family.
-
-  9. Take time to teach your children.
-
-  10. Take time to truly love your children. A mother's unqualified love approaches Christlike love. [4] 
+  1. Take time to always be at the crossroads in the lives of your children, whether they be six or sixteen. 
+  2. Take time to be a real friend to your children. 
+  3. Take time to read to your children. Remember what the poet wrote: 
+  4. Take time to pray with your children. 
+  5. Take time to have a meaningful weekly home evening. Make this one of your great family traditions. 
+  6. Take time to be together at mealtimes as often as possible. 
+  7. Take time daily to read the scriptures together as a family. 
+  8. Take time to do things together as a family. 
+  9. Take time to teach your children. 
+  10. Take time to truly love your children. A mother's unqualified love approaches Christlike love.[4]
 
 Though President Benson has addressed these suggestions primarily to mothers,
 I am confident he would expect those of us who are men and fathers bearing the
@@ -97,19 +87,19 @@ _Each chair is filled--_
 
 _We're all at home ... _
 
-_We're all--all here._ [5]
+_We're all--all here._[5]
 
 God bless you, President Benson, in the name of Jesus Christ, amen.
 
 ## References
 
-  1.  Ezra Taft Benson, address at the Nauvoo Monument dedicatory services, "To the Elect Women of the Kingdom of God," 20 June 1978.
+  1. Ezra Taft Benson, address at the Nauvoo Monument dedicatory services, "To the Elect Women of the Kingdom of God," 20 June 1978.
 
-  2.  Ibid.
+  2. Ibid.
 
-  3.  Ibid.
+  3. Ibid.
 
-  4.  Ezra Taft Benson, _To the Mothers in Zion, _pamphlet, 1987, pp. 8-12; see also Ezra Taft Benson, _Come, Listen to a Prophet's Voice, _Salt Lake City: Deseret Book Co., 1990, pp. 32-36.
+  4. Ezra Taft Benson, _To the Mothers in Zion, _pamphlet, 1987, pp. 8-12; see also Ezra Taft Benson, _Come, Listen to a Prophet's Voice, _Salt Lake City: Deseret Book Co., 1990, pp. 32-36.
 
-  5.   _Ensign, _Nov. 1981, p. 107.
+  5. _Ensign, _Nov. 1981, p. 107.
 

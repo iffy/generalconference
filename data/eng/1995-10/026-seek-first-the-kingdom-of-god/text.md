@@ -23,7 +23,7 @@ that as he spelled out his words of counsel to us this morning with such firm
 direction and inspiration, encouraging us to raise our sights for achievement,
 that the Lord's voice was being heard. In the eighty-eighth section of the
 Doctrine and Covenants, the Lord teaches us that his voice is Spirit ([D&amp;C
-88:66](https://www.lds.org/scriptures/dc-testament/dc/88.66?lang=eng#65)).
+88:66](/scriptures/dc-testament/dc/88.66?lang=eng#65)).
 
 I am thankful not only to be here, but I am thankful for good music and for
 the influence of good music in our lives and for this number that the choir
@@ -162,4 +162,6 @@ way, bear in mind that other people, too, who have used the gospel as a
 compass to guide them have done pretty well. The gospel is true. We have a
 living prophet upon the earth. May you live it fully, I humbly pray in the
 name of Jesus Christ, amen.
+
+## References
 

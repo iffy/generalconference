@@ -55,17 +55,16 @@ home, war among nations." (_Gospel Ideals,_ Salt Lake City: Deseret Book Co.,
 Such has been the message of the prophets in all ages. Referring to the first
 families of the earth, Moses wrote, "And in those days Satan had great
 dominion among men, and raged in their hearts; and from thenceforth came wars
-and bloodshed." ([Moses
-6:15](https://www.lds.org/scriptures/pgp/moses/6.15?lang=eng#14).)
+and bloodshed." ([Moses 6:15](/scriptures/pgp/moses/6.15?lang=eng#14).)
 
 In his own day, Moses gave the Lord's promise to the children of Israel: "If
 ye walk in my statutes, and keep my commandments, ... I will give peace in the
 land, ... neither shall the sword go through your land." ([Lev. 26:3,
-6](https://www.lds.org/scriptures/ot/lev/26.3%2C6?lang=eng#2).)
+6](/scriptures/ot/lev/26.3,6?lang=eng#2).)
 
 Throughout the Book of Mormon, the Lord declares, "Inasmuch as ye shall keep
 my commandments ye shall prosper in the land." ([2 Ne.
-1:20](https://www.lds.org/scriptures/bofm/2-ne/1.20?lang=eng#19).)
+1:20](/scriptures/bofm/2-ne/1.20?lang=eng#19).)
 
 As we seek to understand the causes of wars, persecutions, and civil strife,
 we can see that they are almost always rooted in wickedness.
@@ -81,9 +80,8 @@ Mar. 1989, p. 294, 7/14 Aug. 1989, p. 154.)
 
 All of these slaughters, and others like them, were rooted in the ancient
 wickedness Satan taught--that a man could murder to get gain. (See [Moses
-5:31](https://www.lds.org/scriptures/pgp/moses/5.31?lang=eng#30).) The mass-
-murderers of this century killed to acquire property and to secure power over
-others.
+5:31](/scriptures/pgp/moses/5.31?lang=eng#30).) The mass-murderers of this
+century killed to acquire property and to secure power over others.
 
 Through the prophet Moses, the Lord God of Israel commanded:
 
@@ -96,7 +94,7 @@ Through the prophet Moses, the Lord God of Israel commanded:
 "Thou shalt not bear false witness. ...
 
 "Thou shalt not covet." ([Ex.
-20:13-17](https://www.lds.org/scriptures/ot/ex/20.13-17?lang=eng#12).)
+20:13-17](/scriptures/ot/ex/20.13-17?lang=eng#12).)
 
 Obedience to these commandments, which are the bedrock moral foundation for
 all Christians and Jews, would have prevented the greatest tragedies of this
@@ -108,20 +106,18 @@ every day in some places, and hatred is practiced in many more. Peace is a
 victim everywhere.
 
 If only we could heed the call of the Lord God of Israel, "Come unto me all ye
-ends of the earth." ([2 Ne.
-26:25](https://www.lds.org/scriptures/bofm/2-ne/26.25?lang=eng#24).) As the
-Book of Mormon teaches, he has created all flesh, "And the one being is as
-precious in his sight as the other." ([Jacob
-2:21](https://www.lds.org/scriptures/bofm/jacob/2.21?lang=eng#20).) He has
-given salvation "free for all men" ([2 Ne.
-26:27](https://www.lds.org/scriptures/bofm/2-ne/26.27?lang=eng#26)) and "all
+ends of the earth." ([2 Ne. 26:25](/scriptures/bofm/2-ne/26.25?lang=eng#24).)
+As the Book of Mormon teaches, he has created all flesh, "And the one being is
+as precious in his sight as the other." ([Jacob
+2:21](/scriptures/bofm/jacob/2.21?lang=eng#20).) He has given salvation "free
+for all men" ([2 Ne. 26:27](/scriptures/bofm/2-ne/26.27?lang=eng#26)) and "all
 men are privileged the one like unto the other, and none are forbidden." ([2
-Ne. 26:28](https://www.lds.org/scriptures/bofm/2-ne/26.28?lang=eng#27).)
+Ne. 26:28](/scriptures/bofm/2-ne/26.28?lang=eng#27).)
 
 "And he inviteth [all men] to come unto him and partake of his goodness; and
 he denieth none that come unto him, black and white, bond and free, male and
 female; and he remembereth the heathen; and all are alike unto God." ([2 Ne.
-26:33](https://www.lds.org/scriptures/bofm/2-ne/26.33?lang=eng#32).)
+26:33](/scriptures/bofm/2-ne/26.33?lang=eng#32).)
 
 The blessings of the gospel are universal, and so is the formula for peace:
 keep the commandments of God. War and conflict are the result of wickedness;
@@ -134,10 +130,10 @@ peace in these nations or in any others throughout the world.
 
 Many take comfort from the Old Testament prophecy that nations will "beat
 their swords into plowshares, and their spears into pruninghooks." ([Micah
-4:3](https://www.lds.org/scriptures/ot/micah/4.3?lang=eng#2).) But this
-prophecy only applies to that time of peace which follows the time when the
-God of Jacob "will teach us of his ways, and we will walk in his paths."
-([Micah 4:2](https://www.lds.org/scriptures/ot/micah/4.2?lang=eng#1).)
+4:3](/scriptures/ot/micah/4.3?lang=eng#2).) But this prophecy only applies to
+that time of peace which follows the time when the God of Jacob "will teach us
+of his ways, and we will walk in his paths." ([Micah
+4:2](/scriptures/ot/micah/4.2?lang=eng#1).)
 
 For now, we have wars and conflicts, and everywhere they are rooted in
 violations of the commandments of God.
@@ -163,7 +159,7 @@ blood, and to destroy souls, to get dishonest gain. ...
 
 "The people of the land have used oppression, and exercised robbery, and have
 vexed the poor and needy." ([Ezek. 22:27,
-29](https://www.lds.org/scriptures/ot/ezek/22.27%2C29?lang=eng#26).)
+29](/scriptures/ot/ezek/22.27,29?lang=eng#26).)
 
 Democracy does not ensure peace. When a nation is governed according to the
 voice of its people, its actions will mirror the righteousness or wickedness
@@ -197,9 +193,8 @@ The Savior and his Apostles had no program for world peace other than
 individual righteousness. They mounted no opposition to the rule of Rome or to
 the regime of its local tyrants. They preached individual righteousness and
 taught that the children of God should love their enemies (see [Matt.
-5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43)) and "live
-peaceably with all men" ([Rom.
-12:18](https://www.lds.org/scriptures/nt/rom/12.18?lang=eng#17)).
+5:44](/scriptures/nt/matt/5.44?lang=eng#43)) and "live peaceably with all men"
+([Rom. 12:18](/scriptures/nt/rom/12.18?lang=eng#17)).
 
 Recent history reminds us that people who continue to hate one another after a
 war will have another war, whereas the victor and vanquished who forgive one
@@ -239,8 +234,7 @@ parents or others who cared for them. Parents who lovingly care for their own
 children or shelter foster children and raise them in righteousness are
 working for peace. So are parents who teach their children in the way King
 Benjamin counseled, to forgo conflicts and "to love one another, and to serve
-one another." ([Mosiah
-4:15](https://www.lds.org/scriptures/bofm/mosiah/4.15?lang=eng#14).)
+one another." ([Mosiah 4:15](/scriptures/bofm/mosiah/4.15?lang=eng#14).)
 
 Persons who seek to reduce human suffering and persons who work to promote
 understanding among different peoples are also important workers for peace.
@@ -282,8 +276,7 @@ prescribed by the prophet-king Benjamin. He taught that those who receive a
 remission of their sins through the atonement of Christ are filled with the
 love of God and the knowledge of that which is just and true. That kind of
 person "will not have a mind to injure one another, but to live peaceably"
-with all people. ([Mosiah
-4:13](https://www.lds.org/scriptures/bofm/mosiah/4.13?lang=eng#12).)
+with all people. ([Mosiah 4:13](/scriptures/bofm/mosiah/4.13?lang=eng#12).)
 
 That is our method, and salvation and peace for all mankind is our goal.
 
@@ -292,4 +285,6 @@ and have goodwill toward all men, we can have peace on earth.
 
 May God bless all of us in that great effort, I pray, in the name of Jesus
 Christ, amen.
+
+## References
 

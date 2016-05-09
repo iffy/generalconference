@@ -29,19 +29,17 @@ an evidence against, are evidence in favor of the truth of the work they were
 engaged in.
 
 The Lord Jesus said, "Woe unto you, when all men shall speak well of you!"
-([Luke 6:26](https://www.lds.org/scriptures/nt/luke/6.26?lang=eng#25).) He
-warned His disciples of the danger when their names were honored and when all
-men spoke well of them. In a real sense, we as Latter-day Saints are also
-being warned. When our names are being honored in connection with all men
-speaking well of us, we need to renew our humility, dedication, and
-commitment.
+([Luke 6:26](/scriptures/nt/luke/6.26?lang=eng#25).) He warned His disciples
+of the danger when their names were honored and when all men spoke well of
+them. In a real sense, we as Latter-day Saints are also being warned. When our
+names are being honored in connection with all men speaking well of us, we
+need to renew our humility, dedication, and commitment.
 
 My beloved Saints of God, let us remember the warning from our prophets:
 "Others will he pacify and lull them away into carnal security, that they will
 say: All is well in Zion" ([2 Ne.
-28:21](https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20).) If anyone
-finds himself in that position, it is time for renewed humility, commitment,
-and dedication.
+28:21](/scriptures/bofm/2-ne/28.21?lang=eng#20).) If anyone finds himself in
+that position, it is time for renewed humility, commitment, and dedication.
 
 When the Lord came to Jerusalem, He was rejected and despised by many from the
 day of His birth until His Golgothic death. He spoke and taught as none had
@@ -62,13 +60,12 @@ his wisdom. Until the day of his death, he was persecuted and reviled for
 living and teaching the gospel. His blood sealed his testimony.
 
 In the Lord's own day, the proclamation was, "Can there any good thing come
-out of Nazareth?" (See [John
-1:46](https://www.lds.org/scriptures/nt/john/1.46?lang=eng#45).) Likewise, the
-life and teachings of Joseph Smith did not appeal to those with worldly
-thoughts. Joseph's teachings came into conflict with man-made traditions and
-prejudices. The cry in Joseph Smith's day was much the same as in the day of
-the Savior: "Can anything good come out of Palmyra? Can anything good come
-from Joseph Smith?"
+out of Nazareth?" (See [John 1:46](/scriptures/nt/john/1.46?lang=eng#45).)
+Likewise, the life and teachings of Joseph Smith did not appeal to those with
+worldly thoughts. Joseph's teachings came into conflict with man-made
+traditions and prejudices. The cry in Joseph Smith's day was much the same as
+in the day of the Savior: "Can anything good come out of Palmyra? Can anything
+good come from Joseph Smith?"
 
 Today we hear a similar cry: "Can anything good come from the Mormon people?
 Can good be wrought by The Church of Jesus Christ of Latter-day Saints?"
@@ -83,15 +80,14 @@ fate until the Lord comes in a cloud of glory. Latter-day Saints, this is our
 legacy. We may depend on it.
 
 Said Jesus, "I have chosen you out of the world, therefore the world hateth
-you." ([John
-15:19](https://www.lds.org/scriptures/nt/john/15.19?lang=eng#18).)
+you." ([John 15:19](/scriptures/nt/john/15.19?lang=eng#18).)
 
 "If the world hate you, ye know that it hated me before it hated you.
 
 "If ye were of the world, the world would love his own.
 
 "If they have persecuted me, they will also persecute you." ([John
-15:18-20](https://www.lds.org/scriptures/nt/john/15.18-20?lang=eng#17).)
+15:18-20](/scriptures/nt/john/15.18-20?lang=eng#17).)
 
 What if some of us have to sacrifice all that we have for the gospel and
 testimony of Christ? The Saints have done this in the past, and I am sure the
@@ -160,8 +156,7 @@ right, let us do right ourselves and say to them, "Come, follow me."
 Amen to the priesthood or the authority of any man of God who exercises
 control, dominion, or compulsion upon a fellow being outside of the Church or
 upon a fellow member in the Church in any degree of unrighteousness. (See
-[D&amp;C 121:37](https://www.lds.org/scriptures/dc-
-testament/dc/121.37?lang=eng#36).)
+[D&amp;C 121:37](/scriptures/dc-testament/dc/121.37?lang=eng#36).)
 
 I pray that our conduct day by day will be such that it will bear examination
 and scrutiny by our fellowmen, and also by our Heavenly Father. I pray that we
@@ -200,4 +195,6 @@ May the Lord bless all the Saints of God throughout the world. May He bless
 all the house of Israel, all of the dispersed of every tribe, all the
 righteous, the pure, the holy and good in every nation, is my humble prayer,
 in the name of Jesus Christ, amen.
+
+## References
 

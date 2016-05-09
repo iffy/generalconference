@@ -206,11 +206,11 @@ our Redeemer's life and sacrifice that we are here. It is because of His
 sacrificial atonement that we and all of the sons and daughters of God will
 partake of the salvation of the Lord. "For as in Adam all die, even so in
 Christ shall all be made alive." ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21).) It is
-because of the sacrificial redemption wrought by the Savior of the world that
-the great plan of the eternal gospel is made available to us under which those
-who die in the Lord shall not taste of death but shall have the opportunity of
-going on to a celestial and eternal glory.
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21).) It is because of the
+sacrificial redemption wrought by the Savior of the world that the great plan
+of the eternal gospel is made available to us under which those who die in the
+Lord shall not taste of death but shall have the opportunity of going on to a
+celestial and eternal glory.
 
 In our own helplessness, He becomes our rescuer, saving us from damnation and
 bringing us to eternal life.
@@ -231,7 +231,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 Now, I am grateful that today none of our people are stranded on the Wyoming
 highlands. But I know that all about us there are many who are in need of help
@@ -255,7 +255,7 @@ and stakes, in our neighborhoods and communities.
 
 "And the Lord called his people Zion, because they were of one heart and one
 mind, and dwelt in righteousness; and there was no poor among them." ([Moses
-7:18](https://www.lds.org/scriptures/pgp/moses/7.18?lang=eng#17).)
+7:18](/scriptures/pgp/moses/7.18?lang=eng#17).)
 
 If we are to build that Zion of which the prophets have spoken and of which
 the Lord has given mighty promise, we must set aside our consuming
@@ -268,4 +268,6 @@ courageous people who endured unimaginable suffering and demonstrated
 unbelievable courage for the cause they loved. You and I know what we should
 do. God help us to do it when it needs to be done, I humbly pray in the name
 of Jesus Christ, amen.
+
+## References
 

@@ -13,7 +13,7 @@ assuring us of new life. The change of nature from the chill of winter to the
 beauty of spring, as nature comes to life each year recalls the change from
 the gloom and despair of Gethsemane to the glorious event of the resurrection.
 The stone was rolled away and the announcement made: "He is not here, but is
-risen." ([Luke 24:6](https://www.lds.org/scriptures/nt/luke/24.6?lang=eng#5).)
+risen." ([Luke 24:6](/scriptures/nt/luke/24.6?lang=eng#5).)
 
 The reality of the event of the resurrection had profound meaning to every
 person who has the courage to believe. Is it true? Is Jesus Christ a reality?
@@ -37,7 +37,7 @@ be opened unto you:
 
 "For every one that asketh receiveth; and he that seeketh findeth; and to him
 that knocketh it shall be opened." ([Matt.
-7:7-8](https://www.lds.org/scriptures/nt/matt/7.7-8?lang=eng#6).)
+7:7-8](/scriptures/nt/matt/7.7-8?lang=eng#6).)
 
 In his letter to Israel, James cast the admonition in words with similar
 meaning:
@@ -47,7 +47,7 @@ liberally, and upbraideth not; and it shall be given him.
 
 "But let him ask in faith, nothing wavering. For he that wavereth is like a
 wave of the sea driven with the wind and tossed." ([James
-1:5-6](https://www.lds.org/scriptures/nt/james/1.5-6?lang=eng#4).)
+1:5-6](/scriptures/nt/james/1.5-6?lang=eng#4).)
 
 There are some who believe and others who doubt, but questions can be resolved
 and knowledge gained if we will follow these simple instructions from the
@@ -75,21 +75,17 @@ that I had been lifted up upon the cross, that I might draw all men unto me,
 that as I have been lifted up by men even so should men be lifted up by the
 Father, to stand before me, to be judged of their works, whether they be good
 or whether they be evil." ([3 Ne.
-27:12-14](https://www.lds.org/scriptures/bofm/3-ne/27.12-14?lang=eng#11).)
+27:12-14](/scriptures/bofm/3-ne/27.12-14?lang=eng#11).)
 
 As we study the scriptures carefully, the understanding comes to us that the
 basic elements or principles of the gospel taught by the Master consist of the
 following steps:
 
-  1. We must develop within ourselves a faith in Jesus Christ, that he is the Son of God and Savior of the world.
-
-  2. We must repent of wrongdoings and be willing to follow his teachings.
-
-  3. We must be baptized according to instruction for a remission of past sins.
-
-  4. We must receive the Holy Ghost by the laying on of hands.
-
-  5. We must continue in righteous living to the end of mortal life.
+  1. We must develop within ourselves a faith in Jesus Christ, that he is the Son of God and Savior of the world. 
+  2. We must repent of wrongdoings and be willing to follow his teachings. 
+  3. We must be baptized according to instruction for a remission of past sins. 
+  4. We must receive the Holy Ghost by the laying on of hands. 
+  5. We must continue in righteous living to the end of mortal life. 
 
 The first step is faith, not just faith in general, but a specific faith--
 faith in the Lord Jesus Christ. To know whether or not Jesus Christ is a
@@ -117,9 +113,9 @@ Master was to emphasize the importance of faith. Faith is the element that
 builds the bridge in the absence of concrete evidence. This is exactly what
 the writer of the epistle to the Hebrews was talking about when he referred to
 faith as "the substance of things hoped for, the evidence of things not seen."
-([Heb. 11:1](https://www.lds.org/scriptures/nt/heb/11.1?lang=eng#0).) In other
-words, faith is the assurance of the existence of a truth even though it is
-not evident or cannot be proved by positive evidence.
+([Heb. 11:1](/scriptures/nt/heb/11.1?lang=eng#0).) In other words, faith is
+the assurance of the existence of a truth even though it is not evident or
+cannot be proved by positive evidence.
 
 Suppose that all things could be proven by demonstrative evidence. What then
 would become of the element of faith? There would be no need for faith and it
@@ -135,7 +131,7 @@ then we shall know of a surety; then we shall believe.
 
 "Now I ask, is this faith? Behold, I say unto you, Nay; for if a man knoweth a
 thing he hath no cause to believe, for he knoweth it." ([Alma
-32:17-18](https://www.lds.org/scriptures/bofm/alma/32.17-18?lang=eng#16).)
+32:17-18](/scriptures/bofm/alma/32.17-18?lang=eng#16).)
 
 Alma then talked to his people about the principle of faith and likened it
 unto a tree seed which, after being planted, needed care and cultivation. The
@@ -158,8 +154,7 @@ and ye will not nourish the tree, therefore ye cannot have the fruit thereof.
 
 "And thus, if ye will not nourish the word, looking forward with an eye of
 faith to the fruit thereof, ye can never pluck of the fruit of the tree of
-life." ([Alma
-32:37-40](https://www.lds.org/scriptures/bofm/alma/32.37-40?lang=eng#36).)
+life." ([Alma 32:37-40](/scriptures/bofm/alma/32.37-40?lang=eng#36).)
 
 Thus faith becomes the first step in any action and must be the first step in
 understanding the gospel. Faith in the Lord Jesus Christ brings us to a
@@ -177,7 +172,7 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world." ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).)
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).)
 
 The emphasis is on the words _teach_ and _baptize._ Following this scriptural
 admonition, missionaries of the Church, both young and old, are in the world
@@ -185,10 +180,9 @@ teaching the principle of faith in the Lord Jesus Christ and the other
 principles of the gospel to all who will hear. This is according to the
 pattern established by the Master himself as recorded by Mark: "And he called
 unto him the twelve, and began to send them forth by two and two." ([Mark
-6:7](https://www.lds.org/scriptures/nt/mark/6.7?lang=eng#6).) They went forth
-and bore witness of his divinity in those days, over 1,900 years ago, and
-devoted ambassadors of today bear the same witness as they go into the world
-"two and two."
+6:7](/scriptures/nt/mark/6.7?lang=eng#6).) They went forth and bore witness of
+his divinity in those days, over 1,900 years ago, and devoted ambassadors of
+today bear the same witness as they go into the world "two and two."
 
 The nations of the world will be blessed by the message of the gospel they
 carry, and every person who has an honest desire for the truth will learn to
@@ -196,4 +190,6 @@ know the true and living God and that Jesus is the Christ, the Redeemer of all
 mankind by his atoning sacrifice, if he will give heed to the message. May the
 faith of each of us be strengthened by conscientious effort, I humbly pray in
 the name of Jesus Christ. Amen.
+
+## References
 

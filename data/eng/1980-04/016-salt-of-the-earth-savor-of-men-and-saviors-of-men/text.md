@@ -1,4 +1,4 @@
-# Salt of the Earth: Savor of Men and Saviors of Men
+# Salt of the Earth:Savor of Men and Saviors of Men
 
 I hold in my hand a test tube filled with salt. Salt, as you know, contains
 two elements--sodium and chlorine--and is known chemically as sodium chloride.
@@ -18,20 +18,18 @@ Encyclopedia,_ 1978, 17:69).
 The Organizer and Creator of this world understood perfectly the nature and
 importance of salt. More than thirty-five references to this substance are
 found in the scriptures. In the Old Testament mention is made of a "covenant
-of salt" (see [Lev.
-2:13](https://www.lds.org/scriptures/ot/lev/2.13?lang=eng#12); [Num.
-18:19](https://www.lds.org/scriptures/ot/num/18.19?lang=eng#18); [2 Chr.
-13:5](https://www.lds.org/scriptures/ot/2-chr/13.5?lang=eng#4)). In the New
-Testament the Savior referred to his disciples as the "salt of the earth," and
-charged them to retain their savor ([Matt.
-5:13](https://www.lds.org/scriptures/nt/matt/5.13?lang=eng#12)). He repeated
-this charge to his chosen disciples on the American continent:
+of salt" (see [Lev. 2:13](/scriptures/ot/lev/2.13?lang=eng#12); [Num.
+18:19](/scriptures/ot/num/18.19?lang=eng#18); [2 Chr.
+13:5](/scriptures/ot/2-chr/13.5?lang=eng#4)). In the New Testament the Savior
+referred to his disciples as the "salt of the earth," and charged them to
+retain their savor ([Matt. 5:13](/scriptures/nt/matt/5.13?lang=eng#12)). He
+repeated this charge to his chosen disciples on the American continent:
 
 "Verily, verily, I say unto you, I give unto you to be the salt of the earth;
 but if the salt shall lose its savor, wherewith shall the earth be salted? The
 salt shall be thenceforth good for nothing, but to be cast out and to be
 trodden under foot of men" ([3 Ne.
-12:13](https://www.lds.org/scriptures/bofm/3-ne/12.13?lang=eng#12)).
+12:13](/scriptures/bofm/3-ne/12.13?lang=eng#12)).
 
 How many times have we read, or heard others read, this scripture? Yet, do we
 understand fully the "salt of the earth" message? Are we conversant with the
@@ -47,9 +45,8 @@ In 1833 Joseph Smith received a revelation which included these instructions:
 everlasting covenant, they are accounted as the salt of the earth and the
 savor of men;
 
-_"They are called to be the savor of men" _([D&amp;C
-101:39-40](https://www.lds.org/scriptures/dc-
-testament/dc/101.39-40?lang=eng#38); italics added).
+_"They are called to be the savor of men" _([D&amp;C 101:39-40](/scriptures
+/dc-testament/dc/101.39-40?lang=eng#38); italics added).
 
 The word _savor _(_s-a-v-o-r_) denotes taste, pleasing flavor, interesting
 quality, and high repute.
@@ -88,7 +85,7 @@ thoughts, desecrates his mouth by speaking less than the truth, and misapplies
 his strength in performing evil acts. King Benjamin cautioned, "Watch
 yourselves, and your thoughts, and your words, and your deeds, and observe the
 commandments of God" ([Mosiah
-4:30](https://www.lds.org/scriptures/bofm/mosiah/4.30?lang=eng#29)).
+4:30](/scriptures/bofm/mosiah/4.30?lang=eng#29)).
 
 I would offer these simple guidelines, especially to the young men, as the
 means to preserve one's savor: If it is not _clean,_ do not think it; if it is
@@ -116,7 +113,7 @@ The Prophet Joseph Smith received these instructions from the Lord:
 men;_
 
 "And inasmuch as they are not the saviors of men, they are as salt that has
-lost its savor" ([D&amp;C 103:9-10](https://www.lds.org/scriptures/dc-
+lost its savor" ([D&amp;C 103:9-10](/scriptures/dc-
 testament/dc/103.9-10?lang=eng#8); italics added).
 
 One is impressed with the depth of meaning associated with the words "saviors
@@ -200,4 +197,6 @@ I testify that an abiding and exalting relationship with the Master is
 established as we live to be men with savor and saviors of men. This I
 declare, adding my witness that He lives and directs his church today, in the
 name of Jesus Christ, amen.
+
+## References
 

@@ -33,17 +33,15 @@ the beautiful head, to say nothing of the hidden but marvelous circulatory,
 digestive, and nervous systems all testify to the truth of a divine Creator.
 
 The Apostle Paul told the Athenians on Mars' Hill that we are "the offspring
-of God" ([Acts
-17:29](https://www.lds.org/scriptures/nt/acts/17.29?lang=eng#28)). Since we
-know that our physical bodies are the offspring of our mortal parents, we must
+of God" ([Acts 17:29](/scriptures/nt/acts/17.29?lang=eng#28)). Since we know
+that our physical bodies are the offspring of our mortal parents, we must
 probe for the meaning of Paul's statement. The Lord has declared that "the
-spirit and the body are the soul of man" ([D&amp;C
-88:15](https://www.lds.org/scriptures/dc-testament/dc/88.15?lang=eng#14)). It
-is the spirit which is the offspring of God. The writer of Hebrews refers to
-Him as "the Father of spirits" ([Heb.
-12:9](https://www.lds.org/scriptures/nt/heb/12.9?lang=eng#8)). The spirits of
-all men are literally His "begotten sons and daughters" ([D&amp;C
-76:24](https://www.lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23)).
+spirit and the body are the soul of man" ([D&amp;C 88:15](/scriptures/dc-
+testament/dc/88.15?lang=eng#14)). It is the spirit which is the offspring of
+God. The writer of Hebrews refers to Him as "the Father of spirits" ([Heb.
+12:9](/scriptures/nt/heb/12.9?lang=eng#8)). The spirits of all men are
+literally His "begotten sons and daughters" ([D&amp;C 76:24](/scriptures/dc-
+testament/dc/76.24?lang=eng#23)).
 
 We note that inspired poets have, for our contemplation of this subject,
 written moving messages and recorded transcendent thoughts. William Wordsworth
@@ -89,23 +87,21 @@ discover that decisions determine destiny.
 
 While Paul taught the Philippians that man is called upon to "work out [his]
 own salvation with fear and trembling" ([Philip.
-2:12](https://www.lds.org/scriptures/nt/philip/2.12?lang=eng#11)), the Master
-provided a guide we know as the Golden Rule: "Whatsoever ye would that men
-should do to you, do ye even so to them" ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11)).
+2:12](/scriptures/nt/philip/2.12?lang=eng#11)), the Master provided a guide we
+know as the Golden Rule: "Whatsoever ye would that men should do to you, do ye
+even so to them" ([Matt. 7:12](/scriptures/nt/matt/7.12?lang=eng#11)).
 
 By obedience to God's commandments, we can qualify for that "house" spoken of
 by Jesus when He declared: "In my Father's house are many mansions. ... I go to
 prepare a place for you ... that where I am, there ye may be also" ([John
-14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1)).
+14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1)).
 
 Contemplating such far-reaching matters, we reflect upon the helplessness of a
 newborn child. No better example can be found for total dependency. Needed is
 nourishment for the body and love for the soul. Mother provides both. She who,
 with her hand in the hand of God, descended into "the valley of the shadow of
-death" ([Ps. 23:4](https://www.lds.org/scriptures/ot/ps/23.4?lang=eng#3)),
-that you and I might come forth to life, is not in her maternal mission
-abandoned by God.
+death" ([Ps. 23:4](/scriptures/ot/ps/23.4?lang=eng#3)), that you and I might
+come forth to life, is not in her maternal mission abandoned by God.
 
 Several years ago, the Salt Lake City newspapers published an obituary notice
 of a close friend--a mother and wife taken by death in the prime of her life.
@@ -124,7 +120,7 @@ hopeless dawn. Sustained by her unfailing testimony, knowing that life
 continues beyond the grave, she, her father, her brothers, her sisters, and
 indeed all who share this knowledge of divine truth, can declare to the world,
 "Weeping may endure for a night, but joy cometh in the morning" ([Ps.
-30:5](https://www.lds.org/scriptures/ot/ps/30.5?lang=eng#4)).
+30:5](/scriptures/ot/ps/30.5?lang=eng#4)).
 
 Life moves on. Youth follows childhood, and maturity comes ever so
 imperceptibly.
@@ -141,10 +137,9 @@ _And not a career._
 
 God, our Father, and Jesus Christ, our Lord, have marked the way to
 perfection. They beckon us to follow eternal verities and to become perfect,
-as they are perfect (see [Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47)). We
-remember the inquiring lawyer who asked:
+as they are perfect (see [Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47);
+[3 Ne. 12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47)). We remember the
+inquiring lawyer who asked:
 
 "Master, which is the great commandment in the law?
 
@@ -154,20 +149,19 @@ with all thy soul, and with all thy mind.
 "This is the first and great commandment.
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself"
-([Matt.
-22:36-39](https://www.lds.org/scriptures/nt/matt/22.36-39?lang=eng#35)).
+([Matt. 22:36-39](/scriptures/nt/matt/22.36-39?lang=eng#35)).
 
 The Apostle Paul likened life to a race with a clearly defined goal. To the
 Saints at Corinth he urged:
 
 "Know ye not that they which run in a race run all, but one receiveth the
 prize? So run, that ye may obtain" ([1 Cor.
-9:24](https://www.lds.org/scriptures/nt/1-cor/9.24?lang=eng#23)).
+9:24](/scriptures/nt/1-cor/9.24?lang=eng#23)).
 
 In our zeal, let us not overlook the sage counsel from Ecclesiastes: "The race
 is not to the swift, nor the battle to the strong" ([Eccl.
-9:11](https://www.lds.org/scriptures/ot/eccl/9.11?lang=eng#10)). Actually the
-prize belongs to him who endures to the end.
+9:11](/scriptures/ot/eccl/9.11?lang=eng#10)). Actually the prize belongs to
+him who endures to the end.
 
 When I reflect on the race of life, I remember another type of race, even from
 childhood days. When I was about ten, my boyfriends and I would take
@@ -206,11 +200,11 @@ autumn, the chill of winter, and the experience we call death.
 
 Every thoughtful person has asked himself the question best phrased by Job of
 old: "If a man die, shall he live again?" ([Job
-14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13)). Try as we
-may to put the question out of our thoughts, it always returns. Death comes to
-all mankind. It comes to the aged as they walk on faltering feet. Its summons
-is heard by those who have scarcely reached midway in life's journey, and
-often it hushes the laughter of little children.
+14:14](/scriptures/ot/job/14.14?lang=eng#13)). Try as we may to put the
+question out of our thoughts, it always returns. Death comes to all mankind.
+It comes to the aged as they walk on faltering feet. Its summons is heard by
+those who have scarcely reached midway in life's journey, and often it hushes
+the laughter of little children.
 
 But what of an existence beyond death? Is death the end of all? Such a
 question was asked of me by a young husband and father who lay dying. I turned
@@ -226,7 +220,7 @@ them life.
 are received into a state of happiness, which is called paradise, a state of
 rest, a state of peace, where they shall rest from all their troubles and from
 all care, and sorrow" ([Alma
-40:11-12](https://www.lds.org/scriptures/bofm/alma/40.11-12?lang=eng#10)).
+40:11-12](/scriptures/bofm/alma/40.11-12?lang=eng#10)).
 
 My young friend through moist eyes and with an expression of profound
 gratitude whispered a silent, but eloquent, "Thank you."
@@ -240,7 +234,7 @@ Mary and others approached the tomb and saw two men in shining garments who
 spoke to them: "Why seek ye the living among the dead?
 
 "He is not here, but is risen" ([Luke
-24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4)).
+24:5-6](/scriptures/nt/luke/24.5-6?lang=eng#4)).
 
 Testimonies of the resurrected Lord provide comfort and understanding:
 
@@ -250,8 +244,7 @@ First, from the Apostle Paul:
 he rose again the third day: ... he was seen of Cephas, then of the twelve: ... he
 was seen of above five hundred brethren at once ... he was seen of James; then
 of all the apostles. And last of all he was seen of me also, as of one born
-out of due time" ([1 Cor.
-15:3-8](https://www.lds.org/scriptures/nt/1-cor/15.3-8?lang=eng#2)).
+out of due time" ([1 Cor. 15:3-8](/scriptures/nt/1-cor/15.3-8?lang=eng#2)).
 
 Second, from the combined testimony of twenty-five hundred of his other sheep,
 as recorded in the Book of Mormon, Another Testament of Jesus Christ, the
@@ -266,8 +259,8 @@ have been slain for the sins of the world. ...
 cry out with one accord, saying:
 
 "Hosanna! Blessed be the name of the Most High God! And they did fall down at
-the feet of Jesus, and did worship him" ([3 Ne. 11:13-14, 16-17](https://www.l
-ds.org/scriptures/bofm/3-ne/11.13-14%2C16-17?lang=eng#12)).
+the feet of Jesus, and did worship him" ([3 Ne. 11:13-14,
+16-17](/scriptures/bofm/3-ne/11.13-14,16-17?lang=eng#12)).
 
 Third, from Joseph Smith: "After the many testimonies which have been given of
 him, this is the testimony, last of all, which we give of him: That He lives!
@@ -277,8 +270,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God"
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21)).
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21)).
 
 As the result of Christ's victory over the grave, we shall all be resurrected.
 This is the redemption of the soul. Paul wrote:
@@ -290,7 +282,7 @@ celestial is one, and the glory of the terrestrial is another.
 glory of the stars: for one star differeth from another star in glory.
 
 "So also is the resurrection of the dead" ([1 Cor.
-15:40-42](https://www.lds.org/scriptures/nt/1-cor/15.40-42?lang=eng#39)).
+15:40-42](/scriptures/nt/1-cor/15.40-42?lang=eng#39)).
 
 It is the celestial glory which we seek. It is in the presence of God we
 desire to dwell. It is a forever family in which we want membership. Such
@@ -312,12 +304,14 @@ risen Lord, who declared: "I am Jesus Christ, whom the prophets testified
 shall come into the world. ...
 
 "I am the light and the life of the world" ([3 Ne.
-11:10-11](https://www.lds.org/scriptures/bofm/3-ne/11.10-11?lang=eng#9)).
+11:10-11](/scriptures/bofm/3-ne/11.10-11?lang=eng#9)).
 
 "I am the first and the last; I am he who liveth, I am he who was slain; I am
-your advocate with the Father" ([D&amp;C 110:4](https://www.lds.org/scriptures
-/dc-testament/dc/110.4?lang=eng#3)).
+your advocate with the Father" ([D&amp;C 110:4](/scriptures/dc-
+testament/dc/110.4?lang=eng#3)).
 
 As his witness I testify to you that He lives, in the name of Jesus Christ,
 amen.
+
+## References
 

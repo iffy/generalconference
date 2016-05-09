@@ -34,7 +34,7 @@ commandments: for this is the whole duty of man.
 
 "For God shall bring every work into judgment, with every secret thing,
 whether it be good, or whether it be evil." ([Eccl.
-12:13-14](https://www.lds.org/scriptures/ot/eccl/12.13-14?lang=eng#12).)
+12:13-14](/scriptures/ot/eccl/12.13-14?lang=eng#12).)
 
 Who are the happy people today? Not those who forsake the Lord and devote
 themselves entirely to the pleasures of life and the physical things of the
@@ -66,8 +66,7 @@ suffered the pain of all men, that all men might repent and come unto him.
 on conditions of repentance.
 
 "And how great is his joy in the soul that repenteth." ([D&amp;C
-18:10-13](https://www.lds.org/scriptures/dc-
-testament/dc/18.10-13?lang=eng#9).)
+18:10-13](/scriptures/dc-testament/dc/18.10-13?lang=eng#9).)
 
 The Lord has restored the gospel, which is the true plan of life, salvation,
 and exaltation. He has given us no law, advice, counsel, or commandment that
@@ -81,14 +80,13 @@ that they are not adopted into the lives of some people, but the commandments
 that were given by Jehovah on Mount Sinai are light, are truth, eternal truth,
 and failure to observe them brings the opposite of joy and happiness. The same
 may be said of all truth given us by the Lord. Wickedness never was happiness
-and never will be. (See [Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).) It has
-been said: "It is a statistical fact that the wicked work harder to reach hell
-than the righteous do to enter heaven."
+and never will be. (See [Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9).)
+It has been said: "It is a statistical fact that the wicked work harder to
+reach hell than the righteous do to enter heaven."
 
 The Psalmist has said: "Oh that men would praise the Lord for his goodness,
 and for his wonderful works to the children of men!" ([Ps.
-107:8](https://www.lds.org/scriptures/ot/ps/107.8?lang=eng#7).)
+107:8](/scriptures/ot/ps/107.8?lang=eng#7).)
 
 Since the beginning of this dispensation, the Lord, through his latter-day
 leaders and prophets, has been warning the people of the approaching storms.
@@ -98,7 +96,7 @@ moral standards and against all kinds of iniquity. We have been told that we
 must have respect for law and order, yet the people of this nation and other
 nations have arrived at a condition where crime is increasing at a rapid rate.
 "The whole world lieth in sin, and groaneth under darkness and under the
-bondage of sin." ([D&amp;C 84:49](https://www.lds.org/scriptures/dc-
+bondage of sin." ([D&amp;C 84:49](/scriptures/dc-
 testament/dc/84.49?lang=eng#48).)
 
 We are fast approaching the time--and perhaps have reached it when our lives
@@ -122,16 +120,15 @@ love of God which did dwell in the hearts of the people.
 "And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor
 lyings, nor murders, nor any manner of lasciviousness; and surely there could
 not be a _happier_ people among all the people who had been created by the
-hand of God." ([4 Ne.
-1:15-16](https://www.lds.org/scriptures/bofm/4-ne/1.15-16?lang=eng#14).
+hand of God." ([4 Ne. 1:15-16](/scriptures/bofm/4-ne/1.15-16?lang=eng#14).
 Italics added.)
 
 After about 210 years had passed away following the coming of the Savior,
 "they [the people] did deny the more parts of his gospel, insomuch that they
 did receive all manner of wickedness." ([4 Ne.
-1:27](https://www.lds.org/scriptures/bofm/4-ne/1.27?lang=eng#26).) As a result
-of their wickedness there were wars and contentions, and finally destruction
-came upon the descendants of Lehi who occupied this continent.
+1:27](/scriptures/bofm/4-ne/1.27?lang=eng#26).) As a result of their
+wickedness there were wars and contentions, and finally destruction came upon
+the descendants of Lehi who occupied this continent.
 
 One of the dangers facing the world is the deterioration of the home and the
 family. Latter-day Saints look upon the family as the greatest institution of
@@ -158,9 +155,9 @@ the stars and planets in the heavens--yes, they are all the handiwork of God.
 All these things bid us have joy. Man, however, is the greatest of all God's
 creations. The Lord God told Moses: "This is my work and my glory--to bring to
 pass the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) Man is
-God's son, his daughter. All these other things are just provisions for the
-accomplishment of his great purpose.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) Man is God's son, his
+daughter. All these other things are just provisions for the accomplishment of
+his great purpose.
 
 There is a difference between immortality and eternal life. We cannot
 accomplish the immortality of our souls; that has been brought to pass by the
@@ -186,4 +183,6 @@ happiness, which is to fear God and keep his commandments and thereby attain
 the great goal given us by the Lord, namely, life eternal and everlasting joy
 in the presence of our Heavenly Father and his Beloved Son, I humbly pray in
 the name of the Lord Jesus Christ. Amen.
+
+## References
 

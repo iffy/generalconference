@@ -55,10 +55,10 @@ and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and lo,
 I am with you alway, even unto the end of the world." ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).) Did
-those early disciples listen to this divine command? Mark records, "And they
-went forth, and preached every where, the Lord working with them" ([Mark
-16:20](https://www.lds.org/scriptures/nt/mark/16.20?lang=eng#19)).
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).) Did those early
+disciples listen to this divine command? Mark records, "And they went forth,
+and preached every where, the Lord working with them" ([Mark
+16:20](/scriptures/nt/mark/16.20?lang=eng#19)).
 
 The command to go has not been rescinded. Rather, it has been reemphasized.
 Today twenty-eight thousand missionaries are serving in response to the call.
@@ -72,22 +72,19 @@ about it; the opportunity of a lifetime is yours. The blessings of eternity
 await you. How might you best respond? May I suggest you cultivate three
 virtues, namely--
 
-  1. A desire to serve.
-
-  2. The patience to prepare.
-
-  3. A willingness to labor.
+  1. A desire to serve. 
+  2. The patience to prepare. 
+  3. A willingness to labor. 
 
 By so doing, you will ever be found part of that royal army of the Lord. Let
 us consider, individually, each of these three virtues.
 
 _First, a desire to serve._ Remember the qualifying statement of the Master,
 "Behold, the Lord requireth the heart and a willing mind" ([D&amp;C
-64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33)). A
-latter-day minister advised: "Until willingness overflows obligation, men
-fight as conscripts rather than following the flag as patriots. Duty is never
-worthily performed until it is performed by one who would gladly do more if
-only he could."
+64:34](/scriptures/dc-testament/dc/64.34?lang=eng#33)). A latter-day minister
+advised: "Until willingness overflows obligation, men fight as conscripts
+rather than following the flag as patriots. Duty is never worthily performed
+until it is performed by one who would gladly do more if only he could."
 
 Isn't it appropriate that you do not call yourselves to this work? Isn't it
 wise that your parents do not call you? Rather, you are called of God by
@@ -110,8 +107,7 @@ Too numerous to mention are the many instances where a particular call proved
 providential. This I know--divine inspiration attends such sacred assignments.
 We, with you, acknowledge the truth stated so simply in the Doctrine and
 Covenants: "If ye have desires to serve God ye are called to the work"
-([D&amp;C 4:3](https://www.lds.org/scriptures/dc-
-testament/dc/4.3?lang=eng#2)).
+([D&amp;C 4:3](/scriptures/dc-testament/dc/4.3?lang=eng#2)).
 
 _Second, the patience to prepare._ Preparation for a mission is not a spur-of-
 the-moment matter. It began before you can remember. Every class in Primary,
@@ -185,8 +181,8 @@ _Third, a willingness to labor._ Missionary work is difficult. It will tax
 your energies. It will strain your capacity. It will demand your best effort--
 frequently, a second effort. Remember, the race goeth "not to the swift, nor
 the battle to the strong" ([Eccl.
-9:11](https://www.lds.org/scriptures/ot/eccl/9.11?lang=eng#10))--but to him
-who endures to the end. Determine to--
+9:11](/scriptures/ot/eccl/9.11?lang=eng#10))--but to him who endures to the
+end. Determine to--
 
 _Stick to your task till it sticks to you._
 
@@ -248,8 +244,10 @@ the patience to prepare, and a willingness to labor, that you and all who
 comprise this royal army of the Lord may merit his promise: "I will go before
 your face. I will be on your right hand and on your left, and my Spirit shall
 be in your hearts, and mine angels round about you, to bear you up." ([D&amp;C
-84:88](https://www.lds.org/scriptures/dc-testament/dc/84.88?lang=eng#87).)
+84:88](/scriptures/dc-testament/dc/84.88?lang=eng#87).)
 
 This is my earnest and sincere prayer. I ask it humbly and in the name of
 Jesus Christ, amen.
+
+## References
 

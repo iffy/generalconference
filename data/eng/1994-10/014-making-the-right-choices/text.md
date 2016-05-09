@@ -1,10 +1,10 @@
 # Making the Right Choices
 
-Present tonight are many young men who hold the priesthood of God. [1]  Some
-of you look forward to being a missionary when you are older. Others are
-planning to go soon; still others have completed missions and are seeking an
-eternal companion. I am sobered by the realization that some of you will not
-reach these worthy goals because of other choices you are making now.
+Present tonight are many young men who hold the priesthood of God.[1] Some of
+you look forward to being a missionary when you are older. Others are planning
+to go soon; still others have completed missions and are seeking an eternal
+companion. I am sobered by the realization that some of you will not reach
+these worthy goals because of other choices you are making now.
 
 I am grateful this is a private priesthood meeting, for I have felt impressed
 to treat sensitive yet important matters. While they apply to all present, I
@@ -25,69 +25,32 @@ pray that as we talk the Holy Ghost will let you feel the truth of what is
 said. I know that as you listen and think of how our interview applies to you,
 there will come impressions regarding what to do about it in your own life.
 
-Question: Could you give us some help about resisting peer pressure? Why do
-some people do things that are wrong, then brag about how much fun they are
-having? When I don't participate, they make me feel stupid because I won't do
-it.
+**Question:** Could you give us some help about resisting peer pressure? Why do some people do things that are wrong, then brag about how much fun they are having? When I don't participate, they make me feel stupid because I won't do it.
 
-Answer: You can't please God without upsetting Satan, so you will get pressure
-from those he tempts to do wrong. Individuals who do wrong want you to join
-them because they feel more comfortable in what they are doing when others do
-it also. They may also want to take advantage of you. It is natural to want to
-be accepted by peers, to be part of a group--some even join gangs because of
-that desire to belong, but they lose their freedom, and some lose their lives.
-One of the hardest things for you to recognize is how truly strong you already
-are and how others silently respect you. We have great confidence in you. You
-don't need to compromise your standards to be accepted by good friends. The
-more obedient you are, the more you stand for true principles, the more the
-Lord can help you overcome temptation. [2]  You can also help others because
-they will feel your strength. Let them know about your standards by
-consistently living them. Answer questions about your principles when you are
-asked, but avoid being preachy. I know from personal experience that works.
+**Answer:** You can't please God without upsetting Satan, so you will get pressure from those he tempts to do wrong. Individuals who do wrong want you to join them because they feel more comfortable in what they are doing when others do it also. They may also want to take advantage of you. It is natural to want to be accepted by peers, to be part of a group--some even join gangs because of that desire to belong, but they lose their freedom, and some lose their lives. One of the hardest things for you to recognize is how truly strong you already are and how others silently respect you. We have great confidence in you. You don't need to compromise your standards to be accepted by good friends. The more obedient you are, the more you stand for true principles, the more the Lord can help you overcome temptation.[2] You can also help others because they will feel your strength. Let them know about your standards by consistently living them. Answer questions about your principles when you are asked, but avoid being preachy. I know from personal experience that works.
 
 No one intends to make serious mistakes. They come when you compromise your
 standards to be more accepted by others. You be the strong one. You be the
 leader. Choose good friends and resist peer pressure together.
 
-Question: How do we keep bad thoughts from entering our minds, and what do we
-do when they come?
+**Question:** How do we keep bad thoughts from entering our minds, and what do we do when they come?
 
-Answer: Some bad thoughts come by themselves. Others come because we invite
-them by what we look at and listen to. [3]  Talking about or looking at
-immodest pictures of a woman's body can stimulate powerful emotions. It will
-tempt you to watch improper videocassettes or movies. These things surround
-you, but you must not participate in them. Work at keeping your thoughts clean
-by thinking of something good. [4]  The mind can think of only one thing at a
-time. Use that fact to crowd out ugly thoughts. [5]  Above all, don't feed
-thoughts by reading or watching things that are wrong. If you don't control
-your thoughts, Satan will keep tempting you until you eventually act them out.
-[6]
+**Answer:** Some bad thoughts come by themselves. Others come because we invite them by what we look at and listen to.[3] Talking about or looking at immodest pictures of a woman's body can stimulate powerful emotions. It will tempt you to watch improper videocassettes or movies. These things surround you, but you must not participate in them. Work at keeping your thoughts clean by thinking of something good.[4] The mind can think of only one thing at a time. Use that fact to crowd out ugly thoughts.[5] Above all, don't feed thoughts by reading or watching things that are wrong. If you don't control your thoughts, Satan will keep tempting you until you eventually act them out.[6]
 
-Question: Why is the law of chastity so important? Why is sex before marriage
-wrong?
+**Question:** Why is the law of chastity so important? Why is sex before marriage wrong?
 
-Answer: Fundamental to the great plan of happiness and central to the
-teachings of the Savior is the family. A new family begins when a man and
-woman make sacred marriage vows and are legally bound together to become
-husband and wife, father and mother. The perfect beginning is through sealing
-in the temple. With marriage they commit the best of themselves to be
-absolutely loyal to each other and to invite children to be nurtured and
-taught. The father assumes his role as provider and protector, the mother her
-role as the heart of the home, with her tender, loving, nurturing influence.
-Together they strive to instill in themselves and their children principles
-such as prayer, obedience, love, giving of oneself, and the quest for
-knowledge.
+**Answer:** Fundamental to the great plan of happiness and central to the teachings of the Savior is the family. A new family begins when a man and woman make sacred marriage vows and are legally bound together to become husband and wife, father and mother. The perfect beginning is through sealing in the temple. With marriage they commit the best of themselves to be absolutely loyal to each other and to invite children to be nurtured and taught. The father assumes his role as provider and protector, the mother her role as the heart of the home, with her tender, loving, nurturing influence. Together they strive to instill in themselves and their children principles such as prayer, obedience, love, giving of oneself, and the quest for knowledge.
 
 Within the enduring covenant of marriage, the Lord permits husband and wife
 the expression of the sacred procreative powers in all their loveliness and
-beauty within the bounds He has set. [7]  One purpose of this private, sacred,
+beauty within the bounds He has set.[7] One purpose of this private, sacred,
 intimate experience is to provide the physical bodies for the spirits Father
 in Heaven wants to experience mortality. Another reason for these powerful and
 beautiful feelings of love is to bind husband and wife together in loyalty,
 fidelity, consideration of each other, and common purpose.
 
 However, those intimate acts are forbidden by the Lord outside the enduring
-commitment of marriage because they undermine His purposes. [8]  Within the
+commitment of marriage because they undermine His purposes.[8] Within the
 sacred covenant of marriage, such relationships are according to His plan.
 When experienced any other way, they are against His will. They cause serious
 emotional and spiritual harm. Even though participants do not realize that is
@@ -98,127 +61,96 @@ stimulation. In time that creates an unquenchable appetite that drives the
 offender to ever more serious sin. It engenders selfishness and can produce
 aggressive acts such as brutality, abortion, sexual abuse, and violent crime.
 Such stimulation can lead to acts of homosexuality, and they are evil and
-absolutely wrong. [9]
+absolutely wrong.[9]
 
 Sexual transgression would defile the priesthood you now hold, sap your
 spiritual strength, undermine your faith in Jesus Christ, and frustrate your
 ability to serve Him. Consistent, willing obedience increases your confidence
 and ability. It produces character that allows you to face difficult
 challenges and overcome them. It qualifies you to receive inspiration and
-power from the Lord. [10]
+power from the Lord.[10]
 
-Question: They always tell us we shouldn't become sexually involved, but they
-never tell us the limits. What are they?
+**Question:** They always tell us we shouldn't become sexually involved, but they never tell us the limits. What are they?
 
-Answer: Any sexual intimacy outside of the bonds of marriage--I mean any
-intentional contact with the sacred, private parts of another's body, with or
-without clothing--is a sin and is forbidden by God. It is also a transgression
-to intentionally stimulate these emotions within your own body. [11]  Satan
-tempts one to believe that there are allowable levels of physical contact
-between consenting individuals who seek the powerful stimulation of emotions
-they produce, and if kept within bounds, no harm will result. As a witness of
-Jesus Christ, I testify that is absolutely false. Satan particularly seeks to
-tempt one who has lived a pure, clean life to experiment through magazines,
-videocassettes, or movies with powerful images of a woman's body. He wants to
-stimulate appetite to cause experimentation that quickly results in intimacies
-and defilement. Powerful habits are formed which are difficult to break.
-Mental and emotional scars result.
+**Answer:** Any sexual intimacy outside of the bonds of marriage--I mean any intentional contact with the sacred, private parts of another's body, with or without clothing--is a sin and is forbidden by God. It is also a transgression to intentionally stimulate these emotions within your own body.[11] Satan tempts one to believe that there are allowable levels of physical contact between consenting individuals who seek the powerful stimulation of emotions they produce, and if kept within bounds, no harm will result. As a witness of Jesus Christ, I testify that is absolutely false. Satan particularly seeks to tempt one who has lived a pure, clean life to experiment through magazines, videocassettes, or movies with powerful images of a woman's body. He wants to stimulate appetite to cause experimentation that quickly results in intimacies and defilement. Powerful habits are formed which are difficult to break. Mental and emotional scars result.
 
 When you are mature enough to plan seriously for marriage, keep your
 expressions of feelings to those that are comfortable in the presence of your
-parents. [12]  To help you keep these sacred commandments, make a covenant
-with the Lord that you will obey them. Decide what you will do and will not
-do. When temptation comes, do not change your standards. Do not abandon them
-when circumstances seem to justify an exception. That is Satan's way to hurt
-you by making it seem that sometimes God's law does not apply. There are no
+parents.[12] To help you keep these sacred commandments, make a covenant with
+the Lord that you will obey them. Decide what you will do and will not do.
+When temptation comes, do not change your standards. Do not abandon them when
+circumstances seem to justify an exception. That is Satan's way to hurt you by
+making it seem that sometimes God's law does not apply. There are no
 exceptions.
 
-Question: Before you are married, how far is too far to go if it is with your
-girlfriend?
+**Question:** Before you are married, how far is too far to go if it is with your girlfriend?
 
-Answer: Before marriage there can be no sexual contact with a girlfriend,
-fiancee, or anyone else, period. [13]  While a commandment, that standard is
-for your happiness. That's why the Church counsels you to go in groups and not
-to date while you are young. Later, as you prepare for marriage, remember that
-true love elevates, protects, respects, and enriches another. It motivates you
-to make sacrifices for the girl you love. Satan would promote counterfeit
-love, which is really lust. That is driven by hunger to satisfy personal
-appetite. Protect the one you love by controlling your emotions to the limits
-set by the Lord. You know how to be clean. We trust you to do it.
+**Answer:** Before marriage there can be no sexual contact with a girlfriend, fiancee, or anyone else, period.[13] While a commandment, that standard is for your happiness. That's why the Church counsels you to go in groups and not to date while you are young. Later, as you prepare for marriage, remember that true love elevates, protects, respects, and enriches another. It motivates you to make sacrifices for the girl you love. Satan would promote counterfeit love, which is really lust. That is driven by hunger to satisfy personal appetite. Protect the one you love by controlling your emotions to the limits set by the Lord. You know how to be clean. We trust you to do it.
 
-Question: How do you go about repenting after a sexual sin is committed? What
-sins should you tell the bishop?
+**Question:** How do you go about repenting after a sexual sin is committed? What sins should you tell the bishop?
 
-Answer: All of the sexual transgressions we have discussed require sincere
-repentance with the participation of the bishop. Should you have done any of
-this, repent now. It is wrong to violate these commandments of the Lord. It is
-worse to do nothing about it. Sin is like cancer in the body. It will never
-heal itself. It will become worse unless cured through repentance. Your
-parents can help strengthen you. Then you can become clean and pure by
-repentance under the guidance of the bishop. He may seem to be busy or
-unavailable. Tell him you are in trouble and need help. He will listen.
+**Answer:** All of the sexual transgressions we have discussed require sincere repentance with the participation of the bishop. Should you have done any of this, repent now. It is wrong to violate these commandments of the Lord. It is worse to do nothing about it. Sin is like cancer in the body. It will never heal itself. It will become worse unless cured through repentance. Your parents can help strengthen you. Then you can become clean and pure by repentance under the guidance of the bishop. He may seem to be busy or unavailable. Tell him you are in trouble and need help. He will listen.
 
 A youth in serious trouble said: "I have done things that I knew were bad. I
 have been taught they were ever since I can remember. I know repentance is a
 great gift; without it I would be lost. But I'm not ready to repent of my
 sins, yet I know when I am ready I can." How tragic. The thought of
 intentionally committing serious sin now and repenting later is perilously
-wrong. Never do that. [14]  Many start that journey of intentional
-transgression and never make it back. Premeditated sin has greater penalties
-and is harder to overcome. If there is sin, repent now--while you can.
+wrong. Never do that.[14] Many start that journey of intentional transgression
+and never make it back. Premeditated sin has greater penalties and is harder
+to overcome. If there is sin, repent now--while you can.
 
-I pray that as we have talked you have had feelings to do better. [15]  You
-hold the priesthood of God. That is a sacred responsibility, [16]  and also a
-singular privilege. [17]  You will be fortified in your determination to live
+I pray that as we have talked you have had feelings to do better.[15] You hold
+the priesthood of God. That is a sacred responsibility,[16] and also a
+singular privilege.[17] You will be fortified in your determination to live
 righteously as you study the scriptures, especially the Book of Mormon. Listen
 to your parents, leaders, and the prophet we have sustained today. Have faith
-in the Savior. He will help you. [18]  Remember He said, "I, the Lord, am
-bound when ye do what I say; but when ye do not what I say, ye have no
-promise." [19]
+in the Savior. He will help you.[18] Remember He said, "I, the Lord, am bound
+when ye do what I say; but when ye do not what I say, ye have no promise."[19]
 
 Please stay morally clean. The Lord will make that possible as you do your
-part with all your strength. [20]  Jesus Christ lives, and He loves you. He
-will help you as you do your part. In the name of Jesus Christ, amen.
+part with all your strength.[20] Jesus Christ lives, and He loves you. He will
+help you as you do your part. In the name of Jesus Christ, amen.
 
 ## References
 
-  1.  See _Discourses of Wilford Woodruff,_ sel. G. Homer Durham (Salt Lake City: Bookcraft, 1946), p. 64; see also _Millennial Star,_ 51 (1889):657.
+  1. See _Discourses of Wilford Woodruff,_ sel. G. Homer Durham (Salt Lake City: Bookcraft, 1946), p. 64; see also _Millennial Star,_ 51 (1889):657.
 
-  2.  See [1 Cor. 10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).
+  2. See [1 Cor. 10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).
 
-  3.  See H. Burke Peterson, _Ensign,_ Nov. 1993, pp. 42-44.
+  3. See H. Burke Peterson, _Ensign,_ Nov. 1993, pp. 42-44.
 
-  4.  See _The Teachings of Ezra Taft Benson_ (Salt Lake City: Bookcraft, 1988), pp. 278, 445-46.
+  4. See _The Teachings of Ezra Taft Benson_ (Salt Lake City: Bookcraft, 1988), pp. 278, 445-46.
 
-  5.  See Boyd K. Packer, _Ensign,_ Jan. 1974, pp. 27-28.
+  5. See Boyd K. Packer, _Ensign,_ Jan. 1974, pp. 27-28.
 
-  6.  See Thomas S. Monson, _Ensign,_ Nov. 1990, p. 47; see also Robert L. Simpson, _Ensign,_ Jan. 1973, p. 112.
+  6. See Thomas S. Monson, _Ensign,_ Nov. 1990, p. 47; see also Robert L. Simpson, _Ensign,_ Jan. 1973, p. 112.
 
-  7.  See Spencer W. Kimball, _Ensign,_ May 1974, p. 7.
+  7. See Spencer W. Kimball, _Ensign,_ May 1974, p. 7.
 
-  8.  See Boyd K. Packer, _Ensign,_ July 1972, pp. 111-13.
+  8. See Boyd K. Packer, _Ensign,_ July 1972, pp. 111-13.
 
-  9.  See Spencer W. Kimball, _Ensign,_ Nov. 1980, pp. 97-98.
+  9. See Spencer W. Kimball, _Ensign,_ Nov. 1980, pp. 97-98.
 
-  10.  See [D&amp;C 43:9, 15-16](https://www.lds.org/scriptures/dc-testament/dc/43.9%2C15-16?lang=eng#8).
+  10. See [D&amp;C 43:9, 15-16](https://www.lds.org/scriptures/dc-testament/dc/43.9,15-16?lang=eng#8).
 
-  11.  See Spencer W. Kimball, _Ensign,_ Nov. 1974, p. 8; Nov. 1977, p. 6; Nov. 1980, p. 97.
+  11. See Spencer W. Kimball, _Ensign,_ Nov. 1974, p. 8; Nov. 1977, p. 6; Nov. 1980, p. 97.
 
-  12.  See _The Teachings of Ezra Taft Benson,_ pp. 283-84.
+  12. See _The Teachings of Ezra Taft Benson,_ pp. 283-84.
 
-  13.  See _The Teachings of Spencer W. Kimball,_ ed. Edward L. Kimball (Salt Lake City: Bookcraft, 1982), pp. 65, 176-77.
+  13. See _The Teachings of Spencer W. Kimball,_ ed. Edward L. Kimball (Salt Lake City: Bookcraft, 1982), pp. 65, 176-77.
 
-  14.   _Teachings of Ezra Taft Benson,_ pp. 70-72.
+  14. _Teachings of Ezra Taft Benson,_ pp. 70-72.
 
-  15.  See [D&amp;C 64:33-34](https://www.lds.org/scriptures/dc-testament/dc/64.33-34?lang=eng#32).
+  15. See [D&amp;C 64:33-34](https://www.lds.org/scriptures/dc-testament/dc/64.33-34?lang=eng#32).
 
-  16.  See [D&amp;C 84:35-39](https://www.lds.org/scriptures/dc-testament/dc/84.35-39?lang=eng#34). See also Spencer W. Kimball, _The Miracle of Forgiveness_ (Salt Lake City: Bookcraft, 1969), pp. 124-25.
+  16. See [D&amp;C 84:35-39](https://www.lds.org/scriptures/dc-testament/dc/84.35-39?lang=eng#34). See also Spencer W. Kimball, _The Miracle of Forgiveness_ (Salt Lake City: Bookcraft, 1969), pp. 124-25.
 
-  17.  See _The Teachings of Spencer W. Kimball,_ p. 494.
+  17. See _The Teachings of Spencer W. Kimball,_ p. 494.
 
-  18.  See [Moro. 10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).
+  18. See [Moro. 10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).
 
-  19.   [D&amp;C 82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9).
+  19. [D&amp;C 82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9).
 
-  20.  See [3 Ne. 18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19).
+  20. See [3 Ne. 18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19).
 

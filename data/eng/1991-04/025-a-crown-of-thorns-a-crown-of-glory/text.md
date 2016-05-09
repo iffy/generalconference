@@ -6,15 +6,14 @@ beauty and fragrance to be found in life, and of a crown of glory. I wish that
 I better understood all of the divine purposes in having to contend with so
 many painful irritants in this life. Lehi explained one reason: that we will
 appreciate and savor the goodness and loveliness of the world. (See [2 Ne.
-2:10-13](https://www.lds.org/scriptures/bofm/2-ne/2.10-13?lang=eng#9).) Adam
-was told that the ground is cursed with thorns and thistles for our sakes.
-(See [Gen.
-3:17-18](https://www.lds.org/scriptures/ot/gen/3.17-18?lang=eng#16).)
-Likewise, mortality is "cursed" with the thorns of worldly temptation and the
-slivers of sin so that we can be tested and prove ourselves. This is necessary
-for our eternal progression. The Apostle Paul explained, "Lest I should be
-exalted above measure ... , there was given to me a thorn in the flesh." ([2
-Cor. 12:7](https://www.lds.org/scriptures/nt/2-cor/12.7?lang=eng#6).)
+2:10-13](/scriptures/bofm/2-ne/2.10-13?lang=eng#9).) Adam was told that the
+ground is cursed with thorns and thistles for our sakes. (See [Gen.
+3:17-18](/scriptures/ot/gen/3.17-18?lang=eng#16).) Likewise, mortality is
+"cursed" with the thorns of worldly temptation and the slivers of sin so that
+we can be tested and prove ourselves. This is necessary for our eternal
+progression. The Apostle Paul explained, "Lest I should be exalted above
+measure ..., there was given to me a thorn in the flesh." ([2 Cor.
+12:7](/scriptures/nt/2-cor/12.7?lang=eng#6).)
 
 The denial of our own sins, of our own selfishness, of our own weakness is
 like a crown of thorns which keeps us from moving up one more step in personal
@@ -23,15 +22,14 @@ sinners, how can we ever be forgiven? How can the atonement of Jesus work in
 our lives if there is no repentance? If we do not promptly remove the slivers
 of sin and the thorns of carnal temptation, how can the Lord ever heal our
 souls? The Savior said, "Repent of your sins, and be converted, that I may
-heal you." ([3 Ne.
-9:13](https://www.lds.org/scriptures/bofm/3-ne/9.13?lang=eng#12).) It is most
+heal you." ([3 Ne. 9:13](/scriptures/bofm/3-ne/9.13?lang=eng#12).) It is most
 difficult for us to pray for those who hate us, who despitefully use us, who
 persecute us. But by failing to take this vital extra step, however, we fail
 to remove some of the festering briars in our souls. Extending forgiveness,
 love, and understanding for perceived shortcomings and weaknesses in our
 wives, husbands, children, and associates makes it much easier to say, "God be
 merciful to me a sinner." ([Luke
-18:13](https://www.lds.org/scriptures/nt/luke/18.13?lang=eng#12).)
+18:13](/scriptures/nt/luke/18.13?lang=eng#12).)
 
 It seems that no matter how carefully we walk through life's paths, we pick up
 some thorns, briars, and slivers. As a young boy, when school was out for the
@@ -59,16 +57,16 @@ pain in our flesh is our body's natural response to a wound--even a small
 sliver. Conscience strengthens through use. Paul told the Hebrews, "But strong
 meat belongeth to them that are of full age, even those who by reason of use
 have their senses exercised to discern both good and evil." ([Heb.
-5:14](https://www.lds.org/scriptures/nt/heb/5.14?lang=eng#13).) Those who have
-not exercised their conscience have "their conscience seared with a hot iron."
-([1 Tim. 4:2](https://www.lds.org/scriptures/nt/1-tim/4.2?lang=eng#1).) A
-sensitive conscience is a sign of a healthy spirit.
+5:14](/scriptures/nt/heb/5.14?lang=eng#13).) Those who have not exercised
+their conscience have "their conscience seared with a hot iron." ([1 Tim.
+4:2](/scriptures/nt/1-tim/4.2?lang=eng#1).) A sensitive conscience is a sign
+of a healthy spirit.
 
 How are the thorns and slivers of life removed? The power to remove the thorns
 in our lives and in the lives of others begins with ourselves. Moroni writes
 that when we deny ourselves of ungodliness, then the grace of Christ is
 sufficient for us. (See [Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).)
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31).)
 
 Too often we seek bandages to cover the guilt rather than removal of the thorn
 causing the pain. How much we resist the momentary pain of removing a sliver,
@@ -108,8 +106,7 @@ reed in his right hand: and they bowed the knee before him, and mocked him,
 saying, Hail, King of the Jews!
 
 "And they spit upon him, and took the reed, and smote him on the head."
-([Matt.
-27:27-30](https://www.lds.org/scriptures/nt/matt/27.27-30?lang=eng#26).)
+([Matt. 27:27-30](/scriptures/nt/matt/27.27-30?lang=eng#26).)
 
 Perhaps this cruel act was a perverse attempt to mimic the placing of an
 emperor's laurel upon His head. Thus, there was pressed down upon Him a crown
@@ -143,7 +140,7 @@ upon him the pains and the sicknesses of his people.
 bind his people; and he will take upon him their infirmities, that his bowels
 may be filled with mercy, according to the flesh, that he may know according
 to the flesh how to succor his people according to their infirmities." ([Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10).)
+7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10).)
 
 All irritants of the flesh and the soul should be removed before they fester.
 However, though they ulcerate and though they torment, they can still be
@@ -168,7 +165,7 @@ focus sharpens inside of our temples. We will all surely encounter some of the
 thorns, but they are only incidental to the sweet fragrances and exquisite
 beauty of the blooms. Did not the Savior say, "Ye shall know them by their
 fruits. Do men gather grapes of thorns, or figs of thistles?" ([Matt.
-7:16](https://www.lds.org/scriptures/nt/matt/7.16?lang=eng#15).)
+7:16](/scriptures/nt/matt/7.16?lang=eng#15).)
 
 Thomas Carlyle, a British writer, stated, "Every noble crown is, and on Earth
 will forever be, a crown of thorns." (_Past and Present,_ London: J. M. Dent
@@ -176,14 +173,14 @@ will forever be, a crown of thorns." (_Past and Present,_ London: J. M. Dent
 means "thus passes away the glory of this world." Earthly rewards can be a
 sore temptation. In contrast, those who are faithful and are committed to
 service are promised that they will be "crowned with honor, and glory, and
-immortality, and eternal life." ([D&amp;C 75:5](https://www.lds.org/scriptures
-/dc-testament/dc/75.5?lang=eng#4).) Thus neither honors nor trials can defeat.
+immortality, and eternal life." ([D&amp;C 75:5](/scriptures/dc-
+testament/dc/75.5?lang=eng#4).) Thus neither honors nor trials can defeat.
 Paul spoke of an incorruptible crown (see [1 Cor.
-9:25](https://www.lds.org/scriptures/nt/1-cor/9.25?lang=eng#24)), and James
-spoke of the faithful receiving a "crown of life" ([James
-1:12](https://www.lds.org/scriptures/nt/james/1.12?lang=eng#11)). John the
-Revelator counseled, "Hold that fast which thou hast, that no man take thy
-crown." ([Rev. 3:11](https://www.lds.org/scriptures/nt/rev/3.11?lang=eng#10).)
+9:25](/scriptures/nt/1-cor/9.25?lang=eng#24)), and James spoke of the faithful
+receiving a "crown of life" ([James
+1:12](/scriptures/nt/james/1.12?lang=eng#11)). John the Revelator counseled,
+"Hold that fast which thou hast, that no man take thy crown." ([Rev.
+3:11](/scriptures/nt/rev/3.11?lang=eng#10).)
 
 I believe that earthly crowns such as power, the love of money, the
 preoccupation with material things, the honors of men are a crown of thorns
@@ -198,14 +195,13 @@ sharpest points in a crown of thorns.
 
 The call of Jesus Christ to each of us is, "If any man will come after me, let
 him deny himself, and take up his cross, and follow me." ([Matt.
-16:24](https://www.lds.org/scriptures/nt/matt/16.24?lang=eng#23).) Is it not
-time that we begin denying ourselves, as the Savior counseled, and surrender
-and master ourselves rather than indulge ourselves in a "do my own thing"
-selfish little world? The question is not so much what we can do, but what God
-can do through us. Paul said, "If man therefore purge himself ... , he shall be
-a vessel unto honour, sanctified, and meet for the master's use, and prepared
-unto every good work." ([2 Tim.
-2:21](https://www.lds.org/scriptures/nt/2-tim/2.21?lang=eng#20).)
+16:24](/scriptures/nt/matt/16.24?lang=eng#23).) Is it not time that we begin
+denying ourselves, as the Savior counseled, and surrender and master ourselves
+rather than indulge ourselves in a "do my own thing" selfish little world? The
+question is not so much what we can do, but what God can do through us. Paul
+said, "If man therefore purge himself ..., he shall be a vessel unto honour,
+sanctified, and meet for the master's use, and prepared unto every good work."
+([2 Tim. 2:21](/scriptures/nt/2-tim/2.21?lang=eng#20).)
 
 Taking up one's cross and following the Savior is always a commitment to
 service. When going to school I was very poor. I worked long hours in a
@@ -223,15 +219,17 @@ scorn with equal serenity.
 
 I conclude with the words of Ezekiel, "And thou, son of man, ... though briers
 and thorns be with thee, and thou dost dwell among scorpions: be not afraid."
-([Ezek. 2:6](https://www.lds.org/scriptures/ot/ezek/2.6?lang=eng#5).) In our
-constantly changing world, may we continually cling to those things that do
-not change: to prayer, to faith, to saving covenants, to love of families, and
-to brotherhood. By removing the slivers of sin and the thorns of worldly
-temptation in our lives, and by denying ourselves and taking up our own cross
-and following the Savior, we can change a crown of thorns to a crown of glory.
-I testify, as one of his humble servants called to be His special witness,
-that He lives. I witness from the depths of my soul that we are engaged in His
-holy work, to which, if we are faithful, we can be crowned with honor, glory,
-and eternal life. (See [D&amp;C 75:5](https://www.lds.org/scriptures/dc-
-testament/dc/75.5?lang=eng#4).) In the name of Jesus Christ, amen.
+([Ezek. 2:6](/scriptures/ot/ezek/2.6?lang=eng#5).) In our constantly changing
+world, may we continually cling to those things that do not change: to prayer,
+to faith, to saving covenants, to love of families, and to brotherhood. By
+removing the slivers of sin and the thorns of worldly temptation in our lives,
+and by denying ourselves and taking up our own cross and following the Savior,
+we can change a crown of thorns to a crown of glory. I testify, as one of his
+humble servants called to be His special witness, that He lives. I witness
+from the depths of my soul that we are engaged in His holy work, to which, if
+we are faithful, we can be crowned with honor, glory, and eternal life. (See
+[D&amp;C 75:5](/scriptures/dc-testament/dc/75.5?lang=eng#4).) In the name of
+Jesus Christ, amen.
+
+## References
 

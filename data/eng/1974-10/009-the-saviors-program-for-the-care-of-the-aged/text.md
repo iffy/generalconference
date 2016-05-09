@@ -33,8 +33,8 @@ I believe the Savior had great insight into problems such as this, for as he
 describes in his parable of the rich man and Lazarus, Lazarus was laid daily
 at the gate, "desiring to be fed with the crumbs which fell from the rich
 man's table: moreover the dogs ... licked his sores." ([Luke
-16:19-21](https://www.lds.org/scriptures/nt/luke/16.19-21?lang=eng#18).) Both
-examples are pitiful plights of humanity.
+16:19-21](/scriptures/nt/luke/16.19-21?lang=eng#18).) Both examples are
+pitiful plights of humanity.
 
 Beset by problems, the elderly poor still cling fiercely to their pride; many
 will not ask relatives for extra help. They don't want to be a burden.
@@ -61,8 +61,7 @@ children will not later take care of that same mother." The Church has the
 solution to all of life's problems. The Savior did not leave us without
 direction in caring for our wonderful senior Saints. He was our model. You
 recall his beautiful, compassionate experience with the widow in the city of
-Nain. (See [Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).)
+Nain. (See [Luke 7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10).)
 
 Several years ago we lived in Garden Grove, California. I was a produce
 supervisor for a large grocery chain. I dropped by home and picked up my young
@@ -85,10 +84,10 @@ in the resurrection?"
 
 And then I said, "The Savior said, 'I am the resurrection, and the life: he
 that believeth in me, though he were dead, yet shall he live.' ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24).) And 'In my
-Father's house are many mansions: if it were not so, I would have told you.'"
-([John 14:2](https://www.lds.org/scriptures/nt/john/14.2?lang=eng#1).) And I
-went on with several scriptures about the resurrection.
+11:25](/scriptures/nt/john/11.25?lang=eng#24).) And 'In my Father's house are
+many mansions: if it were not so, I would have told you.'" ([John
+14:2](/scriptures/nt/john/14.2?lang=eng#1).) And I went on with several
+scriptures about the resurrection.
 
 Then finally as I concluded I said, "Your husband will live again. He will be
 resurrected." I said, "Do you believe that?" I couldn't tell whether she did
@@ -151,9 +150,9 @@ sisters to do Relief Society visiting teaching.
 Inasmuch as home teaching is never finished, many long-living men may help
 truly teach us by example what home teachers really should be. The Lord said,
 "He that loseth his life for my sake shall find it." ([Matt.
-10:39](https://www.lds.org/scriptures/nt/matt/10.39?lang=eng#38).) Our senior
-Saints may well be called upon to bake and cook or render compassionate
-service during funerals or other times of stress and need.
+10:39](/scriptures/nt/matt/10.39?lang=eng#38).) Our senior Saints may well be
+called upon to bake and cook or render compassionate service during funerals
+or other times of stress and need.
 
 Now, second, the family should do all they can do. Those who have mothers and
 fathers who are confined should care for them by furnishing those soul needs
@@ -249,10 +248,12 @@ pledge to be what we should be in our relationship to you. In James we read:
 
 "Pure religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 "_To visit the fatherless and widows in their affliction._" It is my prayer
 that we may be filled with pure love of Christ toward our beloved senior
 Saints. This is his church. I believe if he were here he would spend much time
 with them. May we follow in his footsteps. In the name of Jesus Christ. Amen.
+
+## References
 

@@ -21,16 +21,15 @@ and power. Other obstacles also block its beneficial rays.
 
 Oliver Cowdery thought he could translate under the flickering light of a
 candle. The Lord instructed him, "Remember that without faith you can do
-nothing; therefore ask in faith." ([D&amp;C
-8:10](https://www.lds.org/scriptures/dc-testament/dc/8.10?lang=eng#9).)
+nothing; therefore ask in faith." ([D&amp;C 8:10](/scriptures/dc-
+testament/dc/8.10?lang=eng#9).)
 
 Past priesthood leaders such as Peter, Paul, Joseph, and Brigham accomplished
 amazing results in their callings. How? They all did it with faith. They had
 no computers or fax machines. Their power depended on faith. Jesus often
 answered pleas for his miraculous intervention, "According to your faith be it
-unto you." (See [Matt.
-9:29](https://www.lds.org/scriptures/nt/matt/9.29?lang=eng#28); [Matt
-15:28](https://www.lds.org/scriptures/nt/matt/15.28?lang=eng#27).)
+unto you." (See [Matt. 9:29](/scriptures/nt/matt/9.29?lang=eng#28); [Matt
+15:28](/scriptures/nt/matt/15.28?lang=eng#27).)
 
 Rather than relying on faith, we are tempted to stay with the comfortable and
 tangible tools of our temporal lives to accomplish priesthood callings. The
@@ -44,7 +43,7 @@ systems we have learned. I wouldn't say a word against these tools. They serve
 us well. Often they have come themselves through a process of faith and
 inspiration, trial and error, and intelligent effort. After all, the Lord
 said, "Organize yourselves; prepare every needful thing." ([D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118).)
+88:119](/scriptures/dc-testament/dc/88.119?lang=eng#118).)
 
 Add faith, however, and priesthood service becomes magnificent. Two candles
 suddenly burst into four hundred watts of light. More to the point, we tap
@@ -54,8 +53,7 @@ power supply our needs.
 
 The Lord commanded His Apostles to believe in Him, saying, "He that believeth
 on me, the works that I do shall he do also; and greater works than these
-shall he do." ([John
-14:11-12](https://www.lds.org/scriptures/nt/john/14.11-12?lang=eng#10).)
+shall he do." ([John 14:11-12](/scriptures/nt/john/14.11-12?lang=eng#10).)
 Clearly the power to do great works comes from faith in Christ.
 
 Let's look at a well-known example. Nephi and his brethren received an
@@ -68,14 +66,12 @@ for their lives, accused of robbery.
 Only then did Nephi turn to pure faith. Here's how it worked. He convinced
 himself that the Lord had assigned him to get the plates. Next he conceived
 the mental energy and trust to try again. "I will go and do the things which
-the Lord hath commanded." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).) Without
-knowing what he would do, Nephi began moving forward while his brothers
-skulked outside the city walls. "I was led by the Spirit, not knowing
+the Lord hath commanded." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+Without knowing what he would do, Nephi began moving forward while his
+brothers skulked outside the city walls. "I was led by the Spirit, not knowing
 beforehand the things which I should do." ([1 Ne.
-4:6](https://www.lds.org/scriptures/bofm/1-ne/4.6?lang=eng#5).) Now he was
-moving by faith--confidence in the unknown, hope in things unseen. You know
-the rest.
+4:6](/scriptures/bofm/1-ne/4.6?lang=eng#5).) Now he was moving by faith--
+confidence in the unknown, hope in things unseen. You know the rest.
 
 Notice that faith and trust in the Lord came first. Then came action. He had
 no plan except confidence in the Lord. It was really a "ready, fire, aim"
@@ -107,10 +103,10 @@ works by faith." (Salt Lake City: Deseret Book Co., 1985, p. 72.)
 A brief but profound phrase in the book of Abraham describes the complete
 power of God's faith. "There is nothing that the Lord thy God shall take in
 his heart to do but what he will do it." ([Abr.
-3:17](https://www.lds.org/scriptures/pgp/abr/3.17?lang=eng#16).) With faith we
-can get the right things to do into our hearts and the words and mental
-exertion to do them. It may require leaving unstructured time in our planning
-and on our agenda. Then faith would have some air to breathe.
+3:17](/scriptures/pgp/abr/3.17?lang=eng#16).) With faith we can get the right
+things to do into our hearts and the words and mental exertion to do them. It
+may require leaving unstructured time in our planning and on our agenda. Then
+faith would have some air to breathe.
 
 Although faith often includes positive thinking, it is much, much more than
 that. Faith taps into divine sources and is a manifestation of unity and
@@ -165,9 +161,9 @@ centurion held no priesthood, but through faith asked the Lord to heal his
 servant. He added that he was not worthy to have Jesus come to his home,
 although he was a man whose authority others obeyed. He said, "But speak the
 word only, and my servant shall be healed." ([Matt.
-8:8](https://www.lds.org/scriptures/nt/matt/8.8?lang=eng#7).) Jesus marveled
-at his faith. "I have not found so great faith, no, not in Israel." ([Matt.
-8:10](https://www.lds.org/scriptures/nt/matt/8.10?lang=eng#9).)
+8:8](/scriptures/nt/matt/8.8?lang=eng#7).) Jesus marveled at his faith. "I
+have not found so great faith, no, not in Israel." ([Matt.
+8:10](/scriptures/nt/matt/8.10?lang=eng#9).)
 
 The gentile woman of Canaan also tapped into the source of power. Evil spirits
 had vexed her daughter, and she sought in faith to have Jesus cast the evil
@@ -175,8 +171,7 @@ spirits out. Jesus, probably testing her faith, explained that He was only
 sent to minister to those of Israel. She simply would not be denied. "Truth,
 Lord: yet the dogs eat of the crumbs which fall from their masters' table."
 Jesus exclaimed, "O woman, great is thy faith: be it unto thee even as thou
-wilt." ([Matt.
-15:27-28](https://www.lds.org/scriptures/nt/matt/15.27-28?lang=eng#26).)
+wilt." ([Matt. 15:27-28](/scriptures/nt/matt/15.27-28?lang=eng#26).)
 
 Brethren, we can learn much about faith from such sisters as the woman of
 Canaan, from our friends of other faiths such as the Roman centurion, and
@@ -193,11 +188,9 @@ enough spiritual gifts in our priesthood callings.
 We can start by adding the ingredients of faith identified in the Lectures on
 Faith:
 
-  1. To know and accept that God exists.
-
-  2. To know His correct character, attributes, and perfections.
-
-  3. To know that the course of life we are now pursuing is according to God's will. (See p. 38.)
+  1. To know and accept that God exists. 
+  2. To know His correct character, attributes, and perfections. 
+  3. To know that the course of life we are now pursuing is according to God's will. (See p. 38.) 
 
 Let's add these three elements to our priesthood power tools. We can't do it
 unless we sanctify our lives and add more spiritual depth to our knowledge.
@@ -209,8 +202,7 @@ have you, that he may sift you as wheat:
 
 "But I have prayed for thee, _that thy faith fail not:_ and when thou art
 converted, strengthen thy brethren." ([Luke
-22:31-32](https://www.lds.org/scriptures/nt/luke/22.31-32?lang=eng#30);
-emphasis added.)
+22:31-32](/scriptures/nt/luke/22.31-32?lang=eng#30); emphasis added.)
 
 Perhaps it is time that we humble ourselves and overcome the obstacles to
 faith, and then become converted as Peter did. Why go through life with two
@@ -221,7 +213,9 @@ and will come by faith in the Lord Jesus Christ.
 
 So, brethren, let's plead fervently with the Lord as the Apostles of old did,
 "Lord, Increase our faith." ([Luke
-17:5](https://www.lds.org/scriptures/nt/luke/17.5?lang=eng#4).) Then let's use
-our increased faith as the primary power source in all our callings. In the
-name of Jesus Christ, amen.
+17:5](/scriptures/nt/luke/17.5?lang=eng#4).) Then let's use our increased
+faith as the primary power source in all our callings. In the name of Jesus
+Christ, amen.
+
+## References
 

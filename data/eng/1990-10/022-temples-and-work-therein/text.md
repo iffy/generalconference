@@ -18,20 +18,18 @@ one of the evidences of the divinity of our Lord's true gospel. In our day,
 the Lord has said: "How shall your washings be acceptable unto me, except ye
 perform them in a house which you have built to my name? ... that ... ordinances
 might be revealed which had been hid from ... the world." ([D&amp;C
-124:37-38](https://www.lds.org/scriptures/dc-
-testament/dc/124.37-38?lang=eng#36).)
+124:37-38](/scriptures/dc-testament/dc/124.37-38?lang=eng#36).)
 
 Latter-day Saints should be eternally grateful for the revealed knowledge
 given anciently but reaffirmed in even greater plainness in our dispensation,
 and which was known by our Lord's Apostle, Peter, when he prophesied that
 before the second coming of Christ there would be a "restitution of all
 things" spoken of by God. (See [Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20); see also
-[D&amp;C 121:26-32](https://www.lds.org/scriptures/dc-
-testament/dc/121.26-32?lang=eng#25).) One of these restored doctrines,
-premortality or preexistence, should give us a greater appreciation for
-ourselves and the work assigned us, for each one of us existed as a spirit
-entity before we were born on this earth.
+3:21](/scriptures/nt/acts/3.21?lang=eng#20); see also [D&amp;C
+121:26-32](/scriptures/dc-testament/dc/121.26-32?lang=eng#25).) One of these
+restored doctrines, premortality or preexistence, should give us a greater
+appreciation for ourselves and the work assigned us, for each one of us
+existed as a spirit entity before we were born on this earth.
 
 Most of us have wondered about what occurred in the premortal world and how it
 relates to our existence here. We should be acquainted with the truth that
@@ -79,9 +77,9 @@ pertaining to our salvation. For their salvation is necessary and essential to
 our salvation. ...
 
 "For we without them cannot be made perfect; neither can they without us be
-made perfect." ([D&amp;C 128:15, 18](https://www.lds.org/scriptures/dc-
-testament/dc/128.15%2C18?lang=eng#14); see also [Heb.
-11:39-40](https://www.lds.org/scriptures/nt/heb/11.39-40?lang=eng#38).)
+made perfect." ([D&amp;C 128:15, 18](/scriptures/dc-
+testament/dc/128.15,18?lang=eng#14); see also [Heb.
+11:39-40](/scriptures/nt/heb/11.39-40?lang=eng#38).)
 
 It would be difficult for one to find stronger language on a requirement to
 receive exaltation in the celestial kingdom.
@@ -96,12 +94,12 @@ Oliver on April 3, 1836, in the Kirtland Temple.
 
 Elijah's mission was to "turn the heart of the fathers to the children, and
 the heart of the children to their fathers." ([Mal.
-4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5).) The turning of
-the hearts of the fathers in the spirit world to the children on earth
-provides for the gathering of ancestral data of their deceased fathers in
-order that ordinances might be performed in the temples of the Lord. Thus, the
-living having their hearts turned to their fathers is in accordance with the
-premortal agreement we made before the earth was formed.
+4:6](/scriptures/ot/mal/4.6?lang=eng#5).) The turning of the hearts of the
+fathers in the spirit world to the children on earth provides for the
+gathering of ancestral data of their deceased fathers in order that ordinances
+might be performed in the temples of the Lord. Thus, the living having their
+hearts turned to their fathers is in accordance with the premortal agreement
+we made before the earth was formed.
 
 Elijah's visit to the Kirtland Temple is attested by several truths.
 
@@ -145,11 +143,10 @@ glories of His kingdom, and teach the people the way of salvation."
 Bible prophecies indicate that in the last dispensation of the gospel, there
 would be a restoration of all of the principles and practices of former
 dispensations, which includes temple-building and the performing of ordinances
-therein. (See [Isa.
-2:2-3](https://www.lds.org/scriptures/ot/isa/2.2-3?lang=eng#1); [Micah
-4:1-2](https://www.lds.org/scriptures/ot/micah/4.1-2?lang=eng#0); [Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18); [Eph.
-1:9-10](https://www.lds.org/scriptures/nt/eph/1.9-10?lang=eng#8).)
+therein. (See [Isa. 2:2-3](/scriptures/ot/isa/2.2-3?lang=eng#1); [Micah
+4:1-2](/scriptures/ot/micah/4.1-2?lang=eng#0); [Acts
+3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18); [Eph.
+1:9-10](/scriptures/nt/eph/1.9-10?lang=eng#8).)
 
 A latter-day Apostle wrote: "The history of Temples teaches us that the people
 of God have been strong, or weak, in proportion to the faithfulness with which
@@ -168,15 +165,15 @@ are denying themselves rich blessings.
 world, upon which all blessings are predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19).)
+which it is predicated." ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19).)
 
 "Whatever principle of intelligence we attain unto in this life, it will rise
 with us in the resurrection.
 
 "And if a person gains more knowledge and intelligence in this life through
 his diligence and obedience than another, he will have so much the advantage
-in the world to come." ([D&amp;C 130:18-19](https://www.lds.org/scriptures/dc-
+in the world to come." ([D&amp;C 130:18-19](/scriptures/dc-
 testament/dc/130.18-19?lang=eng#17).)
 
 With these two scriptures in mind, I exhort all members for a renewed
@@ -190,8 +187,8 @@ has laid upon us, is to seek after our dead." (_Times and Seasons,_ 5:616.)
 
 I am indebted to my kindred dead who made it possible for me to live in this
 dispensation and to have the privilege of being a member of the "only true and
-living church upon the face of the whole earth." ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29).)
+living church upon the face of the whole earth." ([D&amp;C 1:30](/scriptures
+/dc-testament/dc/1.30?lang=eng#29).)
 
 Our opportunities are twofold: to do genealogical research and to perform
 temple work. There may be a time when we may not be able to do the research
@@ -201,7 +198,7 @@ the world, the privilege of participating in temple activity is becoming more
 and more available. Should you or I neglect either of these responsibilities?
 
 _Second, by being "endowed with power from on high." ([D&amp;C
-38:32](https://www.lds.org/scriptures/dc-testament/dc/38.32?lang=eng#31).)_
+38:32](/scriptures/dc-testament/dc/38.32?lang=eng#31).)_
 
 The environment in the temple is intended to provide the worthy member of the
 Church with the power of enlightenment, of testimony, and of understanding.
@@ -209,7 +206,7 @@ The temple endowment gives knowledge that, when acted upon, provides strength
 and conviction of truth.
 
 _Third, by finding a place of refuge and peace. (See [D&amp;C
-124:36](https://www.lds.org/scriptures/dc-testament/dc/124.36?lang=eng#35).)_
+124:36](/scriptures/dc-testament/dc/124.36?lang=eng#35).)_
 
 The moment we step into the house of the Lord, the atmosphere changes from the
 worldly to the heavenly, where respite from the normal activities of life is
@@ -217,8 +214,8 @@ found, and where peace of mind and spirit is received. It is a refuge from the
 ills of life and a protection from the temptations that are contrary to our
 spiritual well-being. We are told that "he who doeth the works of
 righteousness shall receive his reward, even peace in this world, and eternal
-life in the world to come." ([D&amp;C 59:23](https://www.lds.org/scriptures
-/dc-testament/dc/59.23?lang=eng#22).)
+life in the world to come." ([D&amp;C 59:23](/scriptures/dc-
+testament/dc/59.23?lang=eng#22).)
 
 _Fourth, by receiving revelation._
 
@@ -264,8 +261,7 @@ glory shall rest upon it;
 
 "... and my presence shall be there, for I will come into it, and all the pure
 in heart that shall come into it shall see God." ([D&amp;C
-97:15-16](https://www.lds.org/scriptures/dc-
-testament/dc/97.15-16?lang=eng#14).)
+97:15-16](/scriptures/dc-testament/dc/97.15-16?lang=eng#14).)
 
 It is true that some have actually seen the Savior, but when one consults the
 dictionary, he learns that there are many other meanings of the word _see,_
@@ -277,4 +273,6 @@ Such heavenly enlightenment and blessings are available to each of us.
 God our Father lives, as does His son, Jesus the Christ, our Savior and
 Redeemer. I am a grateful recipient of His healing power and love. This is His
 work. I so testify in His holy name, amen.
+
+## References
 

@@ -47,8 +47,8 @@ appointed prophet with these instructions:
 unto you as he receiveth them, walking in all holiness before me;
 
 "For his word ye shall receive, _as if from mine own mouth,_ in all patience
-and faith." ([D&amp;C 21:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-5?lang=eng#3); italics added.)
+and faith." ([D&amp;C 21:4-5](/scriptures/dc-testament/dc/21.4-5?lang=eng#3);
+italics added.)
 
 From the day of that revelation, faithful members of the Church have looked to
 the First Presidency for their instruction, and Zion has prospered.
@@ -58,11 +58,11 @@ When one Church President passes away, how is a new President selected?
 In 1835 the Lord gave a revelation on this matter that provides for orderly
 succession. The revelation states that the Quorum of the Twelve Apostles is a
 body equal in authority to the First Presidency. (See [D&amp;C
-107:24](https://www.lds.org/scriptures/dc-testament/dc/107.24?lang=eng#23).)
-That means that when the President of the Church dies, the First Presidency is
-dissolved and the Quorum of the Twelve automatically becomes the presiding
-body of the Church. That pattern was established with the death of the
-Church's first President, Joseph Smith.
+107:24](/scriptures/dc-testament/dc/107.24?lang=eng#23).) That means that when
+the President of the Church dies, the First Presidency is dissolved and the
+Quorum of the Twelve automatically becomes the presiding body of the Church.
+That pattern was established with the death of the Church's first President,
+Joseph Smith.
 
 Following the martyrdom of the Prophet Joseph and his brother Hyrum in 1844,
 the Quorum of the Twelve, with Brigham Young as quorum president, presided
@@ -86,7 +86,7 @@ This divinely revealed procedure for installing a new First Presidency of the
 Church--revelation from the Lord and sustaining by the people--has been
 followed to our present day. The First Presidency is to be "upheld by the
 confidence, faith, and prayer of the church." (see [D&amp;C
-107:22](https://www.lds.org/scriptures/dc-testament/dc/107.22?lang=eng#21).)
+107:22](/scriptures/dc-testament/dc/107.22?lang=eng#21).)
 
 Several years ago President Spencer W. Kimball, then a member of the Twelve
 Apostles, on such an occasion as this, said:
@@ -206,11 +206,12 @@ I bear my personal witness to you, my brethren and sisters, that President
 Ezra Taft Benson has been chosen by our Heavenly Father to "move the cause of
 Zion in mighty power for good." As with Joseph Smith, the Lord can say of
 President Benson, "his diligence I know, and his prayers I have heard."
-([D&amp;C 21:7](https://www.lds.org/scriptures/dc-
-testament/dc/21.7?lang=eng#6).)
+([D&amp;C 21:7](/scriptures/dc-testament/dc/21.7?lang=eng#6).)
 
 May God bless each of us with listening ears, to heed the counsel of our new
 First Presidency, whom we love and sustain with all of our hearts, to the end
 that our lives will be blessed and the cause of Zion will prosper and expand
 throughout the world, I pray, in the name of Jesus Christ, amen.
+
+## References
 

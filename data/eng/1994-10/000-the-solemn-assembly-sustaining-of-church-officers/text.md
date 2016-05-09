@@ -1,4 +1,4 @@
-# The Solemn Assembly Sustaining of Church Officers
+# The Solemn AssemblySustaining of Church Officers
 
 Brothers and sisters, President Hunter has requested that I now handle the
 business of the solemn assembly for which we are met. This is an occasion of
@@ -152,4 +152,6 @@ with your hearts. We urgently need your prayers and pray that you will
 continue to offer them in our behalf as your servants. We shall now ask the
 new Seventies, the new Primary general presidency, and Sister Parkin to take
 their places on the stand, if you please. Thank you.
+
+## References
 

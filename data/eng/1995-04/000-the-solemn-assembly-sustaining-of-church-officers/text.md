@@ -1,4 +1,4 @@
-# The Solemn Assembly Sustaining of Church Officers
+# The Solemn AssemblySustaining of Church Officers
 
 Brothers and sisters, President Hinckley has requested that I now handle the
 business of the solemn assembly for which we are met. This is an occasion of
@@ -135,4 +135,6 @@ President Hinckley, insofar as I have been able to observe, the voting in the
 Tabernacle has been unanimous in favor of the proposals made. We invite the
 newly called members of the Seventy to now take their places on the stand.
 Please come forward, Brethren.
+
+## References
 

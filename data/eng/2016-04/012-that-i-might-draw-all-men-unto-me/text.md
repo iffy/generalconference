@@ -192,3 +192,99 @@ as with the disciples on the way to Emmaus, we will find that the Savior has
 been nearby all along. I so witness and testify in the name of Jesus Christ,
 amen.
 
+## References
+
+  1. See_ Handbook 2: Administering the Church _(2010), 6.2. From page 1 of _Providing in the Lord's Way: Summary of a Leader's Guide to Welfare_ (pamphlet, 2009), we read: "When Church members are doing all they can to provide for themselves but still cannot meet their basic needs, they should first turn to their families for help. When this is not sufficient, the Church stands ready to assist."
+
+  2. [1 Nephi 2:16](https://www.lds.org/scriptures/bofm/1-ne/2.16?lang=eng#15).
+
+  3. [1 Nephi 2:11, 12](https://www.lds.org/scriptures/bofm/1-ne/2.11-12?lang=eng#10).
+
+  4. [1 Nephi 1:20](https://www.lds.org/scriptures/bofm/1-ne/1.20?lang=eng#19).
+
+  5. [Mosiah 10:14](https://www.lds.org/scriptures/bofm/mosiah/10.14?lang=eng#13).
+
+  6. See [1 Nephi 17:23-50](https://www.lds.org/scriptures/bofm/1-ne/17.23-50?lang=eng#22).
+
+  7. [1 Nephi 15:3](https://www.lds.org/scriptures/bofm/1-ne/15.3?lang=eng#2).
+
+  8. [1 Nephi 15:9](https://www.lds.org/scriptures/bofm/1-ne/15.9?lang=eng#8); see also [verse 8](https://www.lds.org/scriptures/bofm/1-ne/15.8?lang=eng#7).
+
+  9. See [Luke 15:2](https://www.lds.org/scriptures/nt/luke/15.2?lang=eng#1); see also Joseph Smith, in _History of the Church,_ 5:260-62.
+
+  10. The Christmas carol was penned in German by Abel Burckhardt (1805-82), who served as an archdeacon in Basel, Switzerland. The Swedish translation was made in 1851 by Betty Ehrenborg-Posse. The Swedish title is "Nar juldagsmorgon glimmar." Many English translations have been given that enable the carol to be sung to the German folk tune that is typically used. The English translation given here is my sister's (Anita M. Renlund) and mine.
+
+
+
+_When Christmas morning gleams_
+
+_I want to go to the stable,_
+
+_|: Where God in the nighttime hours_
+
+_Already rests upon the straw. :|_
+
+
+
+_How good Thou wast to desire_
+
+_To come down to the earth!_
+
+_|: Now, I do not wish to waste_
+
+_My childhood days in sin anymore! :|_
+
+
+
+_Jesus, we need Thee,_
+
+_Thou dear children's friend._
+
+_|: I no longer wish to grieve Thee_
+
+_With my sins again. :|_
+
+
+
+
+
+_Nar juldagsmorgon glimmar,_
+
+_jag vill till stallet ga,_
+
+_|: dar Gud i nattens timmar_
+
+_re'n vilar uppa stra. :|_
+
+
+
+_Hur god du var som ville_
+
+_till jorden komma ner!_
+
+_|: Nu ej i synd jag spille_
+
+_min barndoms dagar mer! :|_
+
+
+
+_Dig, Jesu, vi behova,_
+
+_du kare barnavan._
+
+_|: Jag vill ej mer bedrova_
+
+_med synder dig igen. :|_
+
+
+
+  11. [3 Nephi 27:14-15](https://www.lds.org/scriptures/bofm/3-ne/27.14-15?lang=eng#13).
+
+  12. [3 Nephi 18:12-13](https://www.lds.org/scriptures/bofm/3-ne/18.12-13?lang=eng#11).
+
+  13. [Luke 24:30-35](https://www.lds.org/scriptures/nt/luke/24.30-35?lang=eng#29); see also [verses 13-29](https://www.lds.org/scriptures/nt/luke/24.13-29?lang=eng#12).
+
+  14. _Preach My Gospel: A Guide to Missionary Service _(2004), 52.
+
+  15. [Revelation 21:4](https://www.lds.org/scriptures/nt/rev/21.4?lang=eng#3).
+

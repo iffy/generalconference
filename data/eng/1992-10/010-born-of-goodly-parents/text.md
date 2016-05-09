@@ -27,39 +27,35 @@ him and their Elder Brother, Jesus Christ.
 The Book of Mormon clearly shows the value of righteousness and dedication in
 parents. The first statement of Nephi is a tribute to his parents: "I, Nephi,
 having been born of goodly parents, therefore I was taught somewhat in all the
-learning of my father." ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0).) Enos wrote,
-"And the words which I had often heard my father speak concerning eternal
-life, and the joy of the saints, sunk deep into my heart." ([Enos
-1:3](https://www.lds.org/scriptures/bofm/enos/1.3?lang=eng#2).) Mormon
-recorded of Nephi and Lehi, the two sons of Helaman: "For they remembered the
-words which their father Helaman spake unto them. And these are the words
-which he spake." ([Hel.
-5:5](https://www.lds.org/scriptures/bofm/hel/5.5?lang=eng#4).) Here we have a
-tribute to a goodly parent and also the words which he spoke to his children.
-He reminded them of the names he had given them so that they would always seek
-to do good works and desire the precious gift of eternal life. (See [Hel.
-5:6-7](https://www.lds.org/scriptures/bofm/hel/5.6-7?lang=eng#5).) Then he
-told them, "O remember, remember, my sons, the words which King Benjamin spake
-unto his people; yea, remember that there is no other way nor means whereby
-man can be saved, only through the atoning blood of Jesus Christ." ([Hel.
-5:9](https://www.lds.org/scriptures/bofm/hel/5.9?lang=eng#8).)
+learning of my father." ([1 Ne. 1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0).)
+Enos wrote, "And the words which I had often heard my father speak concerning
+eternal life, and the joy of the saints, sunk deep into my heart." ([Enos
+1:3](/scriptures/bofm/enos/1.3?lang=eng#2).) Mormon recorded of Nephi and
+Lehi, the two sons of Helaman: "For they remembered the words which their
+father Helaman spake unto them. And these are the words which he spake."
+([Hel. 5:5](/scriptures/bofm/hel/5.5?lang=eng#4).) Here we have a tribute to a
+goodly parent and also the words which he spoke to his children. He reminded
+them of the names he had given them so that they would always seek to do good
+works and desire the precious gift of eternal life. (See [Hel.
+5:6-7](/scriptures/bofm/hel/5.6-7?lang=eng#5).) Then he told them, "O
+remember, remember, my sons, the words which King Benjamin spake unto his
+people; yea, remember that there is no other way nor means whereby man can be
+saved, only through the atoning blood of Jesus Christ." ([Hel.
+5:9](/scriptures/bofm/hel/5.9?lang=eng#8).)
 
 The reference to the words of King Benjamin shows that Helaman, as a parent,
 knew the scriptures and taught his children to follow the words of the
 prophets. He continued, saying, "And now, my sons, remember, remember that it
 is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must
-build your foundation." ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11).)
+build your foundation." ([Hel. 5:12](/scriptures/bofm/hel/5.12?lang=eng#11).)
 
 What better teaching could a parent provide for a child than that of following
 the prophets and building a sure foundation upon Jesus Christ? The Book of
 Mormon prophet Jacob instructed that once they have been taught and "obtained
 a hope in Christ," we may then teach them how to earn riches so that they can
 use them "to clothe the naked, and to feed the hungry." ([Jacob
-2:18-19](https://www.lds.org/scriptures/bofm/jacob/2.18-19?lang=eng#17).) We
-must teach them all that they must do to live with Him, and the best teacher
-is example.
+2:18-19](/scriptures/bofm/jacob/2.18-19?lang=eng#17).) We must teach them all
+that they must do to live with Him, and the best teacher is example.
 
 As I sat there in the back of the chapel, I silently asked myself, "Am I doing
 all the things which I must do? Can my wife and daughter walk alongside me
@@ -68,7 +64,7 @@ guide me, walk beside me ...'" Stop. Stop for one minute and ask the same
 question of yourself: "Can my spouse and children walk alongside me with
 confidence that I will lead them into the celestial kingdom?" The Savior said,
 "Seek ye first the kingdom of God." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).)
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).)
 
 The instructions are clear. We must teach, and we must be an example of those
 teachings; but many times in our zeal to persuade others to righteousness we
@@ -81,9 +77,8 @@ to teach. He said, "Only by persuasion, by long-suffering, by gentleness and
 meekness, and by love unfeigned;
 
 "By kindness, and pure knowledge, which shall greatly enlarge the soul."
-([D&amp;C 121:41-42](https://www.lds.org/scriptures/dc-
-testament/dc/121.41-42?lang=eng#40).) How I love those words "enlarge the
-soul." Proper teaching will enlarge the soul.
+([D&amp;C 121:41-42](/scriptures/dc-testament/dc/121.41-42?lang=eng#40).) How
+I love those words "enlarge the soul." Proper teaching will enlarge the soul.
 
 For example, let us compare a child to an empty glass, and our knowledge and
 experience, which have accumulated over the years, to a bucketful of water.
@@ -111,15 +106,14 @@ available on the tips of our tongues or expressed through our gestures.
 
 The plea behind the words "Walk beside me, Help me find the way" is this:
 "Lift me. Strengthen my feeble knees. Let me know that I am important and
-capable." (See [D&amp;C 81:5](https://www.lds.org/scriptures/dc-
-testament/dc/81.5?lang=eng#4).)
+capable." (See [D&amp;C 81:5](/scriptures/dc-testament/dc/81.5?lang=eng#4).)
 
 When correction and discipline must take place, it is essential to continue
 lifting and strengthening, ensuring that the feelings of being important and
 capable are not lost. Again, in section 121 of the Doctrine and Covenants, the
 Lord explains how: "Reproving betimes with sharpness, when moved upon by the
 Holy Ghost; and then showing forth afterwards an increase of love toward him
-whom thou hast reproved." ([D&amp;C 121:43](https://www.lds.org/scriptures/dc-
+whom thou hast reproved." ([D&amp;C 121:43](/scriptures/dc-
 testament/dc/121.43?lang=eng#42).)
 
 As Elder Maxwell has observed, the word _betimes_ is casually assumed to mean
@@ -129,7 +123,7 @@ Ghost and not in anger. One hundred and thirty-two years ago, in a discourse
 in this tabernacle, Brigham Young counseled, "Never chasten beyond the balm
 you have within you to bind up." (_Journal of Discourses,_ 9:124-25.) The Lord
 said, "... showing forth afterwards an increase of love." ([D&amp;C
-121:43](https://www.lds.org/scriptures/dc-testament/dc/121.43?lang=eng#42).)
+121:43](/scriptures/dc-testament/dc/121.43?lang=eng#42).)
 
 The instructions on how to correct are clear and simple: early on, with the
 peace of the Holy Ghost, and with enough of the healing power within us to
@@ -147,4 +141,6 @@ _Teach me all that I must do_
 _To live with him someday._
 
 In the holy name of Jesus Christ, amen.
+
+## References
 

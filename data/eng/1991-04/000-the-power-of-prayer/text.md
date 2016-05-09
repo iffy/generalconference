@@ -89,3 +89,5 @@ Paulo, Brazil, 20 November 1982.)
 I heartily endorse this plea of our prophet and President, in the name of
 Jesus Christ, amen.
 
+## References
+

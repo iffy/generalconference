@@ -36,16 +36,15 @@ the great, which shall fall.
 "Wherefore, I the Lord, knowing the calamity which should come upon the
 inhabitants of the earth, called upon my servant Joseph Smith, Jun., and spake
 unto him from heaven, and gave him commandments"--and so forth. ([D&amp;C
-1:15-17](https://www.lds.org/scriptures/dc-testament/dc/1.15-17?lang=eng#14).)
+1:15-17](/scriptures/dc-testament/dc/1.15-17?lang=eng#14).)
 
 As a result of this revelation, the Prophet Joseph became the instrument in
 the hands of the Lord in restoring the new and everlasting covenant, which is
 actually the fullness of the gospel and embraces within its powers, its terms,
 and its conditions every other covenant and commandment that our Father has
-ever given to men on earth. (See [D&amp;C
-132:5-7](https://www.lds.org/scriptures/dc-testament/dc/132.5-7?lang=eng#4);
-[D&amp;C 33:5, 7](https://www.lds.org/scriptures/dc-
-testament/dc/33.5%2C7?lang=eng#4).)
+ever given to men on earth. (See [D&amp;C 132:5-7](/scriptures/dc-
+testament/dc/132.5-7?lang=eng#4); [D&amp;C 33:5, 7](/scriptures/dc-
+testament/dc/33.5,7?lang=eng#4).)
 
 It provides the way to eternal life and even exaltation to all who accept the
 gospel and who endure to the end in living its principles and ordinances, for
@@ -54,8 +53,7 @@ he has said:
 "And even so I have sent mine everlasting covenant into the world, to be a
 light to the world, and to be a standard for my people, and for the Gentiles
 to seek to it, and to be a messenger before my face to prepare the way before
-me." ([D&amp;C 45:9](https://www.lds.org/scriptures/dc-
-testament/dc/45.9?lang=eng#8).)
+me." ([D&amp;C 45:9](/scriptures/dc-testament/dc/45.9?lang=eng#8).)
 
 It is here, then, in its fullness with all its powers as a guide, a standard
 for us and for all men who will heed it.
@@ -63,7 +61,7 @@ for us and for all men who will heed it.
 Since the love of God is extended to all mankind, he has said: "... O [ye]
 inhabitants of the earth: I the Lord am willing to make these things known
 unto all flesh; For I am no respector of persons. ..." ([D&amp;C
-1:34-35](https://www.lds.org/scriptures/dc-testament/dc/1.34-35?lang=eng#33).)
+1:34-35](/scriptures/dc-testament/dc/1.34-35?lang=eng#33).)
 
 And because of this we send missionaries by the thousands into all the world
 where it is permissible to teach the gospel of Jesus Christ and to baptize
@@ -89,8 +87,8 @@ obtain the rewards and blessings he has promised unless we do.
 
 "For all who will have a blessing at my hands shall abide the law which was
 appointed for that blessing, and the conditions thereof, as were instituted
-from before the foundation of the world." ([D&amp;C
-132:5](https://www.lds.org/scriptures/dc-testament/dc/132.5?lang=eng#4).)
+from before the foundation of the world." ([D&amp;C 132:5](/scriptures/dc-
+testament/dc/132.5?lang=eng#4).)
 
 Every member of the Church has made covenants with the Lord. These
 commandments and covenants are not grievous; they are not burdensome. On the
@@ -110,7 +108,7 @@ church that they have truly repented of all their sins, and are willing to
 take upon them the name of Jesus Christ, having a determination to serve him
 to the end, and truly manifest by their works that they have received of the
 Spirit of Christ unto the remission of their sins, shall be received by
-baptism into his church." ([D&amp;C 20:37](https://www.lds.org/scriptures/dc-
+baptism into his church." ([D&amp;C 20:37](/scriptures/dc-
 testament/dc/20.37?lang=eng#36).)
 
 So, as one prepares himself for baptism, he must recognize that there are
@@ -143,7 +141,7 @@ What hope, what comfort, what assurance and joy this promise should bring to
 the hearts of all who love their families! Surely it is true that "eye hath
 not seen, nor ear heard, neither have entered into the heart of man, the
 things which God hath prepared for them that love him." ([2 Cor.
-2:9](https://www.lds.org/scriptures/nt/2-cor/2.9?lang=eng#8).)
+2:9](/scriptures/nt/2-cor/2.9?lang=eng#8).)
 
 And, of course, he has said that they who love him keep his commandments and
 covenants.
@@ -171,4 +169,6 @@ faithful and endure to the end.
 
 My brothers and sisters, we are a covenant-making people. Let us also be a
 covenant-keeping people, I pray in the name of Jesus Christ. Amen.
+
+## References
 

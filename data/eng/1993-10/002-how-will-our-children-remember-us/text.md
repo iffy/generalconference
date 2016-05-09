@@ -75,11 +75,9 @@ testimony to our loved ones.
 My father has been gone for seven years, but I remember him with love and
 respect. Examples become memories that guide our lives:
 
-  * Memories of Mother and her tiny, slippered feet on top of Father's feet as they danced around the kitchen and their expressions of love for each other.
-
-  * Memories as a young boy sitting on the floor by Mother and Father's bedside while they took turns reading aloud from the scriptures.
-
-  * Memories in later years of going to the Salt Lake Temple and watching Mother and Father participate in the presentation of the endowment ceremony.
+  * Memories of Mother and her tiny, slippered feet on top of Father's feet as they danced around the kitchen and their expressions of love for each other. 
+  * Memories as a young boy sitting on the floor by Mother and Father's bedside while they took turns reading aloud from the scriptures. 
+  * Memories in later years of going to the Salt Lake Temple and watching Mother and Father participate in the presentation of the endowment ceremony. 
 
 May the memories our children have guide their lives.
 
@@ -117,8 +115,8 @@ Ghost by the laying on of the hands, when eight years old, the sin be upon the
 heads of the parents. ...
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord" ([D&amp;C 68:25, 28](https://www.lds.org/scriptures/dc-
-testament/dc/68.25%2C28?lang=eng#24)).
+before the Lord" ([D&amp;C 68:25, 28](/scriptures/dc-
+testament/dc/68.25,28?lang=eng#24)).
 
 Children who are taught to pray and who pray with their parents when young are
 more likely to pray when they are older. Those who are taught when they are
@@ -148,11 +146,10 @@ so doing bless the lives of family members now and teach correct traditions
 for the generations that follow.
 
 The Lord's promises are sure: "I will instruct thee and teach thee in the way
-which thou shalt go" ([Ps.
-32:8](https://www.lds.org/scriptures/ot/ps/32.8?lang=eng#7)). And again:
-"Whatsoever ye shall ask the Father in my name, which is right, believing that
-ye shall receive, behold it shall be given unto you" ([3 Ne.
-18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19)).
+which thou shalt go" ([Ps. 32:8](/scriptures/ot/ps/32.8?lang=eng#7)). And
+again: "Whatsoever ye shall ask the Father in my name, which is right,
+believing that ye shall receive, behold it shall be given unto you" ([3 Ne.
+18:20](/scriptures/bofm/3-ne/18.20?lang=eng#19)).
 
 Selfishness is so frequently at the core of family relationship problems. When
 individuals focus on their own selfish interests, they miss opportunities to
@@ -167,8 +164,8 @@ not reciprocate the same love to our [companions] and children? ...
 
 "'What manner of men ought we to be?' You remember the Lord's answer is this:
 'Verily I say unto you, _even as I am_' ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26))"
-(_Ensign,_ Nov. 1983, p. 44).
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26))" (_Ensign,_ Nov. 1983, p.
+44).
 
 President Benson continues:
 
@@ -186,8 +183,7 @@ gospel of Jesus Christ.
 Section 121 of the Doctrine and Covenants teaches us, "No power or influence
 can or ought to be maintained by virtue of the priesthood, only by persuasion,
 by long-suffering, by gentleness and meekness, and by love unfeigned"
-([D&amp;C 121:41](https://www.lds.org/scriptures/dc-
-testament/dc/121.41?lang=eng#40)).
+([D&amp;C 121:41](/scriptures/dc-testament/dc/121.41?lang=eng#40)).
 
 These qualities of kindness and pure knowledge are reflective of our Heavenly
 Father.
@@ -201,16 +197,16 @@ the hour is come; glorify thy Son, that thy Son also may glorify thee. ...
 
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou has sent" ([John 17:1,
-3](https://www.lds.org/scriptures/nt/john/17.1%2C3?lang=eng#0)).
+3](/scriptures/nt/john/17.1,3?lang=eng#0)).
 
 Jesus acknowledged He was with His Father before coming to earth and the love
 they had for each other. He said:
 
 "O Father, glorify thou me with thine own self with the glory which I had with
-thee before the world was ... , that [the world] may know that thou hast sent
-me, and hast loved them, as thou hast loved me ... : for thou lovedst me before
-the foundation of the world" ([John 17:5,
-23-24](https://www.lds.org/scriptures/nt/john/17.5%2C23-24?lang=eng#4)).
+thee before the world was ..., that [the world] may know that thou hast sent me,
+and hast loved them, as thou hast loved me ... : for thou lovedst me before the
+foundation of the world" ([John 17:5,
+23-24](/scriptures/nt/john/17.5,23-24?lang=eng#4)).
 
 It is touching to me that Jesus closes His prayer with a desire that we might
 know and love our Father as He does, even though we can't remember Him in our
@@ -220,7 +216,7 @@ Jesus prayed,
 
 "O righteous Father, the world hath not known thee: but I have known thee, and
 these [disciples] have known that thou hast sent me" ([John
-17:25](https://www.lds.org/scriptures/nt/john/17.25?lang=eng#24)).
+17:25](/scriptures/nt/john/17.25?lang=eng#24)).
 
 Jesus was able to complete his mission of the Atonement on earth because of
 the knowledge, example, and love of His Father. Likewise, may each of us, as
@@ -229,4 +225,6 @@ love, and care, be remembered by our children to have the qualities that our
 Heavenly Father and our Savior have, that we may endure to the end and some
 day return with our families to their celestial presence I pray in the name of
 Jesus Christ, amen.
+
+## References
 

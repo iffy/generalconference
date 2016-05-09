@@ -2,23 +2,21 @@
 
 I speak to you today on a most vital subject. As members of The Church of
 Jesus Christ of Latter-day Saints, "we believe ... the Book of Mormon to be the
-word of God." ([A of F
-1:8](https://www.lds.org/scriptures/pgp/a-of-f/1.8?lang=eng#7).) God has so
-declared it, so have its writers, so have its witnesses, and so do all those
-who have read it and received a personal revelation from God as to its
+word of God." ([A of F 1:8](/scriptures/pgp/a-of-f/1.8?lang=eng#7).) God has
+so declared it, so have its writers, so have its witnesses, and so do all
+those who have read it and received a personal revelation from God as to its
 truthfulness.
 
 In section 20 of the Doctrine and Covenants the Lord says that he gave Joseph
 Smith "power from on high ... to translate the Book of Mormon; Which contains ...
 the fulness of the gospel of Jesus Christ ... ; Which was given by inspiration."
-([D&amp;C 20:8-10](https://www.lds.org/scriptures/dc-
-testament/dc/20.8-10?lang=eng#7).)
+([D&amp;C 20:8-10](/scriptures/dc-testament/dc/20.8-10?lang=eng#7).)
 
 Nephi, one of the prophet-writers of the Book of Mormon, testifies that the
 book contains "the words of Christ" ([2 Ne.
-33:10](https://www.lds.org/scriptures/bofm/2-ne/33.10?lang=eng#9)), and
-Moroni, the last writer in the book, testifies that "these things are true."
-([Moro. 7:35](https://www.lds.org/scriptures/bofm/moro/7.35?lang=eng#34).)
+33:10](/scriptures/bofm/2-ne/33.10?lang=eng#9)), and Moroni, the last writer
+in the book, testifies that "these things are true." ([Moro.
+7:35](/scriptures/bofm/moro/7.35?lang=eng#34).)
 
 This same Moroni, as an angelic being sent from God, showed these ancient
 records to three witnesses in our day. Their testimony of the records is
@@ -42,7 +40,7 @@ his son Moroni, the last recorder; and Moroni, writing over 1,500 years ago
 but speaking to us today, states: "Behold, I speak unto you as if ye were
 present, and yet ye are not. But behold, Jesus Christ hath shown you unto me,
 and I know your doing." ([Morm.
-8:35](https://www.lds.org/scriptures/bofm/morm/8.35?lang=eng#34).)
+8:35](/scriptures/bofm/morm/8.35?lang=eng#34).)
 
 The purpose of the Book of Mormon is stated on the title page. It is "to the
 convincing of the Jew and Gentile that JESUS is the CHRIST, the ETERNAL GOD."
@@ -57,7 +55,7 @@ world.
 
 "Wherefore, I shall give commandment unto my seed, that they shall not occupy
 these plates with things which are not of worth unto the children of men." ([1
-Ne. 6:4-6](https://www.lds.org/scriptures/bofm/1-ne/6.4-6?lang=eng#3).)
+Ne. 6:4-6](/scriptures/bofm/1-ne/6.4-6?lang=eng#3).)
 
 The Book of Mormon brings men to Christ through two basic means. First, it
 tells in a plain manner of Christ and his gospel. It testifies of his divinity
@@ -69,13 +67,12 @@ live the moral life of a Saint.
 
 Second, the Book of Mormon exposes the enemies of Christ. It confounds false
 doctrines and lays down contention. (See [2 Ne.
-3:12](https://www.lds.org/scriptures/bofm/2-ne/3.12?lang=eng#11).) It
-fortifies the humble followers of Christ against the evil designs, strategies,
-and doctrines of the devil in our day. The type of apostates in the Book of
-Mormon are similar to the type we have today. God, with his infinite
-foreknowledge, so molded the Book of Mormon that we might see the error and
-know how to combat false educational, political, religious, and philosophical
-concepts of our time.
+3:12](/scriptures/bofm/2-ne/3.12?lang=eng#11).) It fortifies the humble
+followers of Christ against the evil designs, strategies, and doctrines of the
+devil in our day. The type of apostates in the Book of Mormon are similar to
+the type we have today. God, with his infinite foreknowledge, so molded the
+Book of Mormon that we might see the error and know how to combat false
+educational, political, religious, and philosophical concepts of our time.
 
 Now God expects us to use the Book of Mormon in several ways. We are to read
 it ourselves--carefully, prayerfully--and ponder as we read, as to whether
@@ -87,29 +84,26 @@ test in these words:
 God, the Eternal Father, in the name of Christ, if these things are not true;
 and if ye shall ask with a sincere heart, with real intent, having faith in
 Christ, he will manifest the truth of it unto you, by the power of the Holy
-Ghost." ([Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).) I have done
-as Moroni exhorts, and I can testify to you that this book is from God and so
-is verily true.
+Ghost." ([Moro. 10:4](/scriptures/bofm/moro/10.4?lang=eng#3).) I have done as
+Moroni exhorts, and I can testify to you that this book is from God and so is
+verily true.
 
 We are to use the Book of Mormon as the basis for our teaching. In section 42
 of the Doctrine and Covenants, the Lord states: "And again, the elders,
 priests and teachers of this church shall teach the principles of my gospel,
 which are in ... the Book of Mormon, in the which is the fulness of the gospel."
-([D&amp;C 42:12](https://www.lds.org/scriptures/dc-
-testament/dc/42.12?lang=eng#11).)
+([D&amp;C 42:12](/scriptures/dc-testament/dc/42.12?lang=eng#11).)
 
 As we read and teach, we are to liken the Book of Mormon scriptures unto us
 "that it might be for our profit and learning." ([1 Ne.
-19:23](https://www.lds.org/scriptures/bofm/1-ne/19.23?lang=eng#22).)
+19:23](/scriptures/bofm/1-ne/19.23?lang=eng#22).)
 
 We are to use the Book of Mormon in handling objections to the Church. God the
 Father and his Son Jesus Christ revealed themselves to Joseph Smith in a
 marvelous vision. After that glorious event, Joseph Smith told a minister
 about it. Joseph was surprised to hear the minister say that there were no
 such things as visions or revelations in these days, that all such things had
-ceased. (See [JS--H
-1:21](https://www.lds.org/scriptures/pgp/js-h/1.21?lang=eng#20).)
+ceased. (See [JS--H 1:21](/scriptures/pgp/js-h/1.21?lang=eng#20).)
 
 This remark symbolizes practically all of the objections that have ever been
 made against the Church by nonmembers and dissident members alike. Namely,
@@ -143,14 +137,13 @@ words of Christ, judge ye," said Nephi, "for Christ will show unto you, with
 power and great glory, that they are his words, at the last day; and you and I
 shall stand face to face before his bar; and ye shall know that I have been
 commanded of him to write these things." ([2 Ne.
-33:11](https://www.lds.org/scriptures/bofm/2-ne/33.11?lang=eng#10).) Every man
-must judge for himself, knowing God will hold him accountable.
+33:11](/scriptures/bofm/2-ne/33.11?lang=eng#10).) Every man must judge for
+himself, knowing God will hold him accountable.
 
 The Book of Mormon is to be used "for a standard unto my people, which are of
 the house of Israel," the Lord says, and its words "shall hiss forth unto the
-ends of the earth." ([2 Ne.
-29:2](https://www.lds.org/scriptures/bofm/2-ne/29.2?lang=eng#1).) We, the
-members of the Church, and particularly the missionaries, have to be the
+ends of the earth." ([2 Ne. 29:2](/scriptures/bofm/2-ne/29.2?lang=eng#1).) We,
+the members of the Church, and particularly the missionaries, have to be the
 "hissers," or the tellers and testifiers, of the Book of Mormon unto the ends
 of the earth.
 
@@ -160,8 +153,8 @@ to bring men to Christ and all other things are secondary. The golden question
 of the Book of Mormon is "Do you want to learn more of Christ?" The Book of
 Mormon is the great finder of the golden contact. It does not contain things
 which are "pleasing unto the world" ([1 Ne.
-6:5](https://www.lds.org/scriptures/bofm/1-ne/6.5?lang=eng#4)), and so the
-worldly are not interested in it. It is a great sieve.
+6:5](/scriptures/bofm/1-ne/6.5?lang=eng#4)), and so the worldly are not
+interested in it. It is a great sieve.
 
 Anyone who has diligently sought to know the doctrines and teachings of the
 Book of Mormon and has used it conscientiously in missionary work knows within
@@ -190,8 +183,8 @@ that this kind of treatment of the Book of Mormon brought the whole Church
 under condemnation, even all of the children of Zion. And then the Lord said,
 "And they shall remain under this condemnation until they repent and remember
 the new covenant, even the Book of Mormon." (See [D&amp;C
-84:54-57](https://www.lds.org/scriptures/dc-
-testament/dc/84.54-57?lang=eng#53).) Are we still under that condemnation?
+84:54-57](/scriptures/dc-testament/dc/84.54-57?lang=eng#53).) Are we still
+under that condemnation?
 
 Reading the Book of Mormon is one of the greatest persuaders to get men on
 missions. We need more missionaries. But we also need better-prepared
@@ -207,8 +200,7 @@ receive a crown of eternal life;
 "But those who harden their hearts in unbelief, and reject it, it shall turn
 to their own condemnation--
 
-"For the Lord God has spoken it." ([D&amp;C
-20:14-16](https://www.lds.org/scriptures/dc-
+"For the Lord God has spoken it." ([D&amp;C 20:14-16](/scriptures/dc-
 testament/dc/20.14-16?lang=eng#13).)
 
 Is the Book of Mormon true? Yes.
@@ -254,4 +246,6 @@ book." (_History of the Church,_ 4:461.)
 
 May we know and use the keystone and get nearer to God, I pray in the name of
 Jesus Christ. Amen.
+
+## References
 

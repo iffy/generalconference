@@ -30,10 +30,10 @@ The Church of Jesus Christ of Latter-day Saints declares boldly that through
 another type of window, the windows of heaven, we can access spiritual
 information from the Source of light and truth. "We believe all that God has
 revealed, all that He does now reveal, and we believe that He will yet reveal
-many great and important things pertaining to the Kingdom of God." [1]  In
-this dispensation of the fulness of times, the _revelation_ superhighway has
-been carrying heavy traffic of eternal truth ever since that day in the spring
-of 1820 when the Lord answered a farm boy's fervent prayer in the Sacred Grove
+many great and important things pertaining to the Kingdom of God."[1] In this
+dispensation of the fulness of times, the _revelation_ superhighway has been
+carrying heavy traffic of eternal truth ever since that day in the spring of
+1820 when the Lord answered a farm boy's fervent prayer in the Sacred Grove
 and ushered in the restoration of the gospel of Jesus Christ.
 
 We are blessed to live in these, the latter days, when a loving Heavenly
@@ -41,8 +41,8 @@ Father has called a great leader, President Gordon B. Hinckley, as prophet,
 seer, and revelator. Through him, the Lord opens windows of revelation to
 guide and bless all of our Father's children who will heed the words of the
 prophet. Today, as in ancient times, God opens windows of gospel light and
-truth by revealing "his secret unto his servants the prophets." [2]  Those who
-have "eyes to see, and ears to hear" [3]  can learn eternal principles; view
+truth by revealing "his secret unto his servants the prophets."[2] Those who
+have "eyes to see, and ears to hear"[3] can learn eternal principles; view
 majestic vistas of knowledge, foresight, and wisdom; and receive direction on
 how to live their lives.
 
@@ -60,38 +60,37 @@ adversary and find ourselves weakened spiritually, inspired bishops and other
 caring leaders can open the windows of revelation to provide spiritual
 direction. Well-prepared and inspired missionaries can open the windows of
 heaven to enlighten those "who are only kept from the truth because they know
-not where to find it." [4]
+not where to find it."[4]
 
 ## Obedience Opens the Windows of Heaven
 
 The windows of heaven are open wide to the faithful and righteous; nothing
 closes them faster than disobedience. The unworthy cannot access fully the
 network of revealed truth. "The powers of heaven cannot be controlled nor
-handled only upon the principles of righteousness." [5]  "Obedience is the
-first law of heaven." [6]  That is why Alma exhorted us to "be humble, ...
-submissive and ... diligent in keeping the commandments of God at _all_ times."
-[7]
+handled only upon the principles of righteousness."[5] "Obedience is the first
+law of heaven."[6] That is why Alma exhorted us to "be humble, ... submissive
+and ... diligent in keeping the commandments of God at _all_ times."[7]
 
 To open the windows of heaven, we must conform our will to God's will.
 Diligent, enduring obedience to God's laws is the key that opens the windows
 of heaven. Obedience enables us to be receptive to the mind and will of the
 Lord. "The Lord requireth the heart and a willing mind; and the willing and
-obedient" [8]  are those who receive the blessings of revelation through the
+obedient"[8] are those who receive the blessings of revelation through the
 open windows of heaven.
 
 ## Missionary Service
 
-The Lord has commanded Church members to "proclaim ... unto the world" [9]  the
+The Lord has commanded Church members to "proclaim ... unto the world"[9] the
 restoration of the fulness of the gospel, open the windows of light and truth
 to all of our brothers and sisters, and do so "with all [our] heart, might,
-mind and strength." [10]  Our Savior has told us that "the voice of warning
+mind and strength."[10] Our Savior has told us that "the voice of warning
 shall be unto all people, by the mouths of [his] disciples" who "shall go
-forth and none shall stay them." [11]
+forth and none shall stay them."[11]
 
 Members of the Lord's church can joyfully echo these words of the prophet
 Mormon: "Behold, I am a disciple of Jesus Christ, the Son of God. I have been
 called of him to declare his word among his people, that they might have
-everlasting life." [12]
+everlasting life."[12]
 
 We are the Savior's disciples who "shall go forth." All of us are "called of
 him to [be missionaries to] declare his word among his people." We may serve
@@ -104,22 +103,22 @@ joyful opportunity to throw open the windows of light and truth by proclaiming
 the blessings of everlasting life to a darkened world. If we shy away from
 this responsibility, we should remember that the Lord has promised that _"none
 shall stay [us]"_ and that "there is no eye that shall not see, neither ear
-that shall not hear, neither heart that shall not be penetrated." [13]  We can
+that shall not hear, neither heart that shall not be penetrated."[13] We can
 experience no greater joy than to see the light of the gospel shine in the
 eyes and face of a newly baptized brother or sister who has "spiritually been
 born of God," who has "experienced [a] mighty change in [heart]," and who has
-"the image of God engraven upon [his or her countenance!]" [14]
+"the image of God engraven upon [his or her countenance!]"[14]
 
 If we are to fulfill the Lord's command to open the windows of heaven to all
 of our brothers and sisters, we must prepare to teach the gospel. With study
 of the scriptures, fasting, and prayer, we fortify our testimonies. We
 cultivate Christlike attributes of "faith, virtue, knowledge, temperance,
-patience, brotherly kindness, godliness, charity, humility, [and] diligence."
-[15]  Through exemplary obedience, we can "let [our] light so shine before
-men, that they may see [our] good works, and glorify [our] Father which is in
-heaven." [16]  By keeping the commandments, we can light our gospel candle and
-put it "on a candlestick; and it giveth light unto _all_ that are in the
-house." [17]
+patience, brotherly kindness, godliness, charity, humility, [and]
+diligence."[15] Through exemplary obedience, we can "let [our] light so shine
+before men, that they may see [our] good works, and glorify [our] Father which
+is in heaven."[16] By keeping the commandments, we can light our gospel candle
+and put it "on a candlestick; and it giveth light unto _all_ that are in the
+house."[17]
 
 ## The Law of Tithing
 
@@ -129,7 +128,7 @@ day Saints:
 "Bring ye all the tithes into the storehouse, that there may be meat in mine
 house, and prove me now herewith, saith the Lord of hosts, if I will not open
 you the windows of heaven, and pour you out a blessing, that there shall not
-be room enough to receive it." [18]
+be room enough to receive it."[18]
 
 Perhaps we tend to think of the law of tithing as a temporal commandment only
 and to see it from a material perspective. We would be shortsighted and
@@ -143,10 +142,9 @@ President Hinckley has declared that the blessings from paying tithing "may
 not be always in the form of financial or material benefit." He explained that
 "there are many ways in which the Lord can bless us beyond the riches of the
 world. There is the great boon of health. The Lord has promised [in [Mal.
-3:11](https://www.lds.org/scriptures/ot/mal/3.11?lang=eng#10)] that he will
-rebuke the devourer for our sakes. Malachi speaks of the fruits of our ground.
-May not that rebuke of the devourer apply to _various_ of our personal efforts
-and concerns?" [19]
+3:11](/scriptures/ot/mal/3.11?lang=eng#10)] that he will rebuke the devourer
+for our sakes. Malachi speaks of the fruits of our ground. May not that rebuke
+of the devourer apply to _various_ of our personal efforts and concerns?"[19]
 
 ## The Word of Wisdom
 
@@ -155,21 +153,21 @@ tobacco and other addictive substances when the Lord opened the windows of
 heaven and revealed "a Word of Wisdom, for the benefit of the ... saints in
 Zion." The Lord gave this revelation as a warning against the "evils and
 designs which do and will exist in the hearts of conspiring men in the last
-days." [20]
+days."[20]
 
 One of the first articles to document a link between smoking and lung cancer
-appeared in the _Journal of the American Medical Association_ in 1950, [21]
-117 years after the Lord opened this window to His prophet.
+appeared in the _Journal of the American Medical Association_ in 1950,[21] 117
+years after the Lord opened this window to His prophet.
 
-The physical blessings of health and strength that are promised [22]  through
-obedience to the Word of Wisdom are now well-known and well documented. [23]
-In addition, the spiritual blessings of "wisdom and great treasures of
-knowledge, even hidden treasures," [24]  come to those who keep their bodies
-free from addictive substances. When we obey the Word of Wisdom, windows of
-personal revelation are opened to us and our souls are filled with divine
-light and truth. If we keep our bodies undefiled, the Holy Ghost "shall come
-upon [us] and ... dwell in [our] heart[s]" [25]  and teach us "the peaceable
-things of immortal glory." [26]
+The physical blessings of health and strength that are promised[22] through
+obedience to the Word of Wisdom are now well-known and well documented.[23] In
+addition, the spiritual blessings of "wisdom and great treasures of knowledge,
+even hidden treasures,"[24] come to those who keep their bodies free from
+addictive substances. When we obey the Word of Wisdom, windows of personal
+revelation are opened to us and our souls are filled with divine light and
+truth. If we keep our bodies undefiled, the Holy Ghost "shall come upon [us]
+and ... dwell in [our] heart[s]"[25] and teach us "the peaceable things of
+immortal glory."[26]
 
 ## Word of Wisdom for the Mind
 
@@ -214,7 +212,7 @@ the Holy Ghost is the greatest guarantor of inward peace in our unstable
 world. ... It will calm nerves; it will breathe peace to our souls. ... It can
 enhance our natural senses so that we can _see more clearly,_ hear more
 keenly, and remember what we should remember. It is a way of maximizing our
-happiness." [27]
+happiness."[27]
 
 ## Worthy Worship
 
@@ -245,66 +243,66 @@ the Restoration. Jesus is the Christ, the Lord and Savior of all mankind. Our
 Heavenly Father lives and loves each of his children. The Lord has restored
 the network of eternal truth. We can open the windows of heaven to our
 personal view. Through these divine windows, we can gaze with the Savior "upon
-the wide expanse of eternity," [28]  a universe without horizons, "worlds
-without end." [29]  I so testify in the name of Jesus Christ, amen.
+the wide expanse of eternity,"[28] a universe without horizons, "worlds
+without end."[29] I so testify in the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [A of F 1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8).
+  1. [A of F 1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8).
 
-  2.   [Amos 3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).
+  2. [Amos 3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).
 
-  3.   [Deut. 29:4](https://www.lds.org/scriptures/ot/deut/29.4?lang=eng#3).
+  3. [Deut. 29:4](https://www.lds.org/scriptures/ot/deut/29.4?lang=eng#3).
 
-  4.   [D&amp;C 123:12](https://www.lds.org/scriptures/dc-testament/dc/123.12?lang=eng#11).
+  4. [D&amp;C 123:12](https://www.lds.org/scriptures/dc-testament/dc/123.12?lang=eng#11).
 
-  5.   [D&amp;C 121:36](https://www.lds.org/scriptures/dc-testament/dc/121.36?lang=eng#35).
+  5. [D&amp;C 121:36](https://www.lds.org/scriptures/dc-testament/dc/121.36?lang=eng#35).
 
-  6.  Ezra Taft Benson, mission presidents' seminar, 21 June 1988; see _Teachings of Ezra Taft Benson_ (Salt Lake City: Bookcraft, 1988), p. 26. See also S. Dilworth Young, in Conference Report, Apr. 1952, p. 29; Bruce R. McConkie, _The Promised Messiah_ (Salt Lake City: Deseret Book Co., 1978), p. 126; and _Mormon Doctrine,_ 2nd ed. (Salt Lake City: Bookcraft, 1966), p. 539.
+  6. Ezra Taft Benson, mission presidents' seminar, 21 June 1988; see _Teachings of Ezra Taft Benson_ (Salt Lake City: Bookcraft, 1988), p. 26. See also S. Dilworth Young, in Conference Report, Apr. 1952, p. 29; Bruce R. McConkie, _The Promised Messiah_ (Salt Lake City: Deseret Book Co., 1978), p. 126; and _Mormon Doctrine,_ 2nd ed. (Salt Lake City: Bookcraft, 1966), p. 539.
 
-  7.   [Alma 7:23](https://www.lds.org/scriptures/bofm/alma/7.23?lang=eng#22); emphasis added.
+  7. [Alma 7:23](https://www.lds.org/scriptures/bofm/alma/7.23?lang=eng#22); emphasis added.
 
-  8.   [D&amp;C 64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33).
+  8. [D&amp;C 64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33).
 
-  9.   [D&amp;C 1:18](https://www.lds.org/scriptures/dc-testament/dc/1.18?lang=eng#17).
+  9. [D&amp;C 1:18](https://www.lds.org/scriptures/dc-testament/dc/1.18?lang=eng#17).
 
-  10.   [D&amp;C 4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1).
+  10. [D&amp;C 4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1).
 
-  11.   [D&amp;C 1:4-5](https://www.lds.org/scriptures/dc-testament/dc/1.4-5?lang=eng#3).
+  11. [D&amp;C 1:4-5](https://www.lds.org/scriptures/dc-testament/dc/1.4-5?lang=eng#3).
 
-  12.   [3 Ne. 5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12).
+  12. [3 Ne. 5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12).
 
-  13.   [D&amp;C 1:5, 2](https://www.lds.org/scriptures/dc-testament/dc/1.5%2C2?lang=eng#4); emphasis added.
+  13. [D&amp;C 1:5, 2](https://www.lds.org/scriptures/dc-testament/dc/1.5,2?lang=eng#4); emphasis added.
 
-  14.   [Alma 5:14, 19](https://www.lds.org/scriptures/bofm/alma/5.14%2C19?lang=eng#13).
+  14. [Alma 5:14, 19](https://www.lds.org/scriptures/bofm/alma/5.14,19?lang=eng#13).
 
-  15.   [D&amp;C 4:6](https://www.lds.org/scriptures/dc-testament/dc/4.6?lang=eng#5).
+  15. [D&amp;C 4:6](https://www.lds.org/scriptures/dc-testament/dc/4.6?lang=eng#5).
 
-  16.   [Matt. 5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).
+  16. [Matt. 5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).
 
-  17.   [Matt. 5:15](https://www.lds.org/scriptures/nt/matt/5.15?lang=eng#14); emphasis added.
+  17. [Matt. 5:15](https://www.lds.org/scriptures/nt/matt/5.15?lang=eng#14); emphasis added.
 
-  18.   [Mal. 3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).
+  18. [Mal. 3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).
 
-  19.   _Ensign,_ May 1982, p. 40; emphasis added.
+  19. _Ensign,_ May 1982, p. 40; emphasis added.
 
-  20.   [D&amp;C 89:1, 4](https://www.lds.org/scriptures/dc-testament/dc/89.1%2C4?lang=eng#0).
+  20. [D&amp;C 89:1, 4](https://www.lds.org/scriptures/dc-testament/dc/89.1,4?lang=eng#0).
 
-  21.  See "Milestones," _Time,_ 24 July 1995, p. 19.
+  21. See "Milestones," _Time,_ 24 July 1995, p. 19.
 
-  22.  See [D&amp;C 89:18-21](https://www.lds.org/scriptures/dc-testament/dc/89.18-21?lang=eng#17).
+  22. See [D&amp;C 89:18-21](https://www.lds.org/scriptures/dc-testament/dc/89.18-21?lang=eng#17).
 
-  23.  See Russell M. Nelson, _Ensign,_ Nov. 1986, p. 69. See also James Enstrom, "Health Practices and Cancer Mortality among Active California Mormons," _Journal of the National Cancer Institute,_ vol. 81, no. 23, 6 Dec. 1989, pp. 1807-14; Edward Norden, "How to Live as Long as They Do," _Longevity,_ Sept. 1990, pp. 72-73.
+  23. See Russell M. Nelson, _Ensign,_ Nov. 1986, p. 69. See also James Enstrom, "Health Practices and Cancer Mortality among Active California Mormons," _Journal of the National Cancer Institute,_ vol. 81, no. 23, 6 Dec. 1989, pp. 1807-14; Edward Norden, "How to Live as Long as They Do," _Longevity,_ Sept. 1990, pp. 72-73.
 
-  24.   [D&amp;C 89:19](https://www.lds.org/scriptures/dc-testament/dc/89.19?lang=eng#18).
+  24. [D&amp;C 89:19](https://www.lds.org/scriptures/dc-testament/dc/89.19?lang=eng#18).
 
-  25.   [D&amp;C 8:2](https://www.lds.org/scriptures/dc-testament/dc/8.2?lang=eng#1).
+  25. [D&amp;C 8:2](https://www.lds.org/scriptures/dc-testament/dc/8.2?lang=eng#1).
 
-  26.   [Moses 6:61](https://www.lds.org/scriptures/pgp/moses/6.61?lang=eng#60).
+  26. [Moses 6:61](https://www.lds.org/scriptures/pgp/moses/6.61?lang=eng#60).
 
-  27.   _Ensign,_ May 1989, pp. 32-33; emphasis added.
+  27. _Ensign,_ May 1989, pp. 32-33; emphasis added.
 
-  28.   [D&amp;C 38:1](https://www.lds.org/scriptures/dc-testament/dc/38.1?lang=eng#0).
+  28. [D&amp;C 38:1](https://www.lds.org/scriptures/dc-testament/dc/38.1?lang=eng#0).
 
-  29.   [D&amp;C 76:112](https://www.lds.org/scriptures/dc-testament/dc/76.112?lang=eng#111).
+  29. [D&amp;C 76:112](https://www.lds.org/scriptures/dc-testament/dc/76.112?lang=eng#111).
 

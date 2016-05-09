@@ -9,8 +9,7 @@ really shook me. Elder Isaacson was really round." And then he added, "This
 was a hairy conference." Now you dig his meaning.
 
 The first part of the thirteenth Article of Faith states: "We believe in being
-honest." [[A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)] Honesty
+honest." [[A of F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)] Honesty
 embraces many meanings, such as integrity, sincerity, according to the truth,
 just, honorable, virtuous, purity of life, moral character, and uprightness in
 mutual dealings.
@@ -49,8 +48,7 @@ keeping the commandments of God.
 
 It was said of King Mosiah's sons: "... they were men of truth and soberness,
 for they had been taught to keep the commandments of God and to walk uprightly
-before him." ([Alma
-53:21](https://www.lds.org/scriptures/bofm/alma/53.21?lang=eng#20).)
+before him." ([Alma 53:21](/scriptures/bofm/alma/53.21?lang=eng#20).)
 
 Honesty and integrity as perfected virtues in parents are more likely to
 become the heritage and rich endowments of their children. Parents cannot give
@@ -61,15 +59,15 @@ each of us. In that perfection they become a part of our nature, and when
 parenthood comes, these virtues are more apt to be transmitted to our
 children. We read in Proverbs: "The just man walketh in his integrity: his
 children are blessed after him." ([Prov.
-20:7](https://www.lds.org/scriptures/ot/prov/20.7?lang=eng#6).) How true and
-basic this statement is!
+20:7](/scriptures/ot/prov/20.7?lang=eng#6).) How true and basic this statement
+is!
 
 As parents, are we honest with our children? Do they hear us tell little white
 lies to excuse ourselves from certain responsibilities? Can we blame them too
 much if they follow the example of their erring parents? The instruction to
 parents is found in the Doctrine and Covenants: "And they shall also teach
 their children to pray, and to walk uprightly before the Lord." ([D&amp;C
-68:28](https://www.lds.org/scriptures/dc-testament/dc/68.28?lang=eng#27).)
+68:28](/scriptures/dc-testament/dc/68.28?lang=eng#27).)
 
 In order to teach children to walk uprightly, the example must be set by
 parents. Husbands and wives, are you faithful and true to your mate? Are you
@@ -182,4 +180,6 @@ I bear witness to you of these things. I know that we must be Christlike in
 all of our relationships with our fellowmen. If so, we will be exemplary and
 will be fit servants of the Lord and Savior, Jesus Christ. This I humbly pray,
 in the name of Jesus Christ. Amen.
+
+## References
 

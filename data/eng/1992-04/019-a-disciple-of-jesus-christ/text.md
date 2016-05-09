@@ -14,8 +14,7 @@ laying the foundation of a great work. And out of small things proceedeth that
 which is great.
 
 "Behold, the Lord requireth the heart and a willing mind" ([D&amp;C
-64:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/64.33-34?lang=eng#32)).
+64:33-34](/scriptures/dc-testament/dc/64.33-34?lang=eng#32)).
 
 Missionaries who have willing minds are needed in the field.
 
@@ -99,7 +98,7 @@ blessed, prospered, and preserved--
 rebellion against God; therefore he listeth to obey the evil spirit, and
 becometh an enemy to all righteousness; therefore, the Lord has no place in
 him, for he dwelleth not in unholy temples." ([Mosiah
-2:36-37](https://www.lds.org/scriptures/bofm/mosiah/2.36-37?lang=eng#35).)
+2:36-37](/scriptures/bofm/mosiah/2.36-37?lang=eng#35).)
 
 Far better that we diligently strive to keep ourselves clean of these serious
 transgressions. Some have not done so, and gratefully there is a way of
@@ -119,7 +118,7 @@ suffer if they would repent;
 
 "Which suffering caused myself, even God, the greatest of all, to tremble
 because of pain, and to bleed at every pore, and to suffer both body and
-spirit." ([D&amp;C 19:15-18](https://www.lds.org/scriptures/dc-
+spirit." ([D&amp;C 19:15-18](/scriptures/dc-
 testament/dc/19.15-18?lang=eng#14).)
 
 Young men, you must live righteously for many reasons. One of them is that you
@@ -140,8 +139,7 @@ and despised, to thrash the nations by the power of my Spirit;
 
 "And their arm shall be my arm, and I will be their shield and their buckler;
 and I will gird up their loins, and they shall fight manfully for me."
-([D&amp;C 35:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/35.13-14?lang=eng#12).)
+([D&amp;C 35:13-14](/scriptures/dc-testament/dc/35.13-14?lang=eng#12).)
 
 Let your desire be to join this magnificent army marching arm in arm with
 companions to "fight manfully" for Him, accompanied by the Spirit.
@@ -170,11 +168,13 @@ My beloved young men, will you consider what it would mean to you if you could
 join the prophet Mormon in saying: "Behold, I am a disciple of Jesus Christ,
 the Son of God. I have been called of him to declare his word among his
 people, that they might have everlasting life" ([3 Ne.
-5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12)).
+5:13](/scriptures/bofm/3-ne/5.13?lang=eng#12)).
 
 I am a witness that the Lord Jesus Christ is the Son of God and the Savior of
 the world. It is my deep conviction that He has called us to teach and testify
 in His name before the world. And to you young brethren, my sincere prayer is
 that you will respond to His call with a willing mind and worthy heart, in the
 name of Jesus Christ, amen.
+
+## References
 

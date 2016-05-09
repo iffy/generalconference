@@ -46,11 +46,10 @@ You are growing to maturity in a period of the earth's history that all of the
 great prophets of all the ages have looked forward to with anticipation. It is
 a time of final preparation before the earth and its inhabitants undergo a
 remarkable transformation. It is properly referred to as the "fulness of
-times." ([D&amp;C 112:30](https://www.lds.org/scriptures/dc-
-testament/dc/112.30?lang=eng#29).) It is the period during which the Lord and
-his servants will make the final great effort to take the message of truth to
-all the peoples of the earth and to reclaim the descendants of ancient Israel
-who have lost their true identity.
+times." ([D&amp;C 112:30](/scriptures/dc-testament/dc/112.30?lang=eng#29).) It
+is the period during which the Lord and his servants will make the final great
+effort to take the message of truth to all the peoples of the earth and to
+reclaim the descendants of ancient Israel who have lost their true identity.
 
 The prophet Zenos, whom Jacob quotes in the Book of Mormon, compares this
 effort to the work of the laborers who prune and nurture a vineyard and gather
@@ -58,7 +57,7 @@ its fruit for the last time. Zenos likens the Savior to the master of the
 vineyard, who says to those who are his helpers, "Wherefore, let us go to and
 labor with our might this last time, for behold the end draweth nigh, and this
 is the last time that I shall prune my vineyard." ([Jacob
-5:62](https://www.lds.org/scriptures/bofm/jacob/5.62?lang=eng#61).)
+5:62](/scriptures/bofm/jacob/5.62?lang=eng#61).)
 
 You have come to the earth when the foundation has been laid for this great
 work. The gospel has been restored for the last time. The Church has been
@@ -71,7 +70,7 @@ Let me now describe the setting within which you will perform your labors. The
 Savior himself said that conditions toward the end of this dispensation would
 very much resemble those that existed just before the Flood. "As the days of
 Noe were," he said, "so shall also the coming of the Son of man be." ([Matt.
-24:37](https://www.lds.org/scriptures/nt/matt/24.37?lang=eng#36).)
+24:37](/scriptures/nt/matt/24.37?lang=eng#36).)
 
 Joel saw the period of time in which we live as a great battleground for the
 souls of men, "Proclaim ye this among the Gentiles [he said]; Prepare War,
@@ -79,14 +78,14 @@ wake up the mighty men, let all the men of war draw near; let them come up:
 
 "Beat your plowshares into swords, and your pruninghooks into spears: let the
 weak say, I am strong." ([Joel
-3:9-10](https://www.lds.org/scriptures/ot/joel/3.9-10?lang=eng#8).)
+3:9-10](/scriptures/ot/joel/3.9-10?lang=eng#8).)
 
 Joel saw that this great battle would not be regarded in a casual way. It
 would be no time for weakness nor weaklings.
 
 The Apostle Paul wrote to his young missionary companion, Timothy, "This know
 also, that in the last days perilous times shall come." ([2 Tim.
-3:1](https://www.lds.org/scriptures/nt/2-tim/3.1?lang=eng#0).)
+3:1](/scriptures/nt/2-tim/3.1?lang=eng#0).)
 
 The challenging conditions we find in the world today should be no surprise to
 us. As we approach the time of the Savior's return, wickedness will increase.
@@ -111,12 +110,11 @@ has chosen us to do. It would disqualify us from his blessing and his
 protecting care.
 
 The Lord has said that the time will come when there will be "an entire
-separation of the righteous and the wicked." ([D&amp;C
-63:54](https://www.lds.org/scriptures/dc-testament/dc/63.54?lang=eng#53).)
-Nephi, in the Book of Mormon, said, "For the time speedily cometh that the
-Lord God shall cause a great division among the people, and the wicked will he
-destroy." ([2 Ne.
-30:10](https://www.lds.org/scriptures/bofm/2-ne/30.10?lang=eng#9).)
+separation of the righteous and the wicked." ([D&amp;C 63:54](/scriptures/dc-
+testament/dc/63.54?lang=eng#53).) Nephi, in the Book of Mormon, said, "For the
+time speedily cometh that the Lord God shall cause a great division among the
+people, and the wicked will he destroy." ([2 Ne.
+30:10](/scriptures/bofm/2-ne/30.10?lang=eng#9).)
 
 As we consider these promises, we should not forget the warning given by the
 Lord to the Latter-day Saints. "Nevertheless, Zion shall escape if she observe
@@ -125,8 +123,7 @@ to do all things whatsoever I have commanded her.
 "But if she observe not to do whatsoever I have commanded her, I will visit
 her according to all her works, with sore affliction, with pestilence, with
 plague, with sword, with vengeance, with devouring fire." ([D&amp;C
-97:25-26](https://www.lds.org/scriptures/dc-
-testament/dc/97.25-26?lang=eng#24).)
+97:25-26](/scriptures/dc-testament/dc/97.25-26?lang=eng#24).)
 
 We must recognize from this warning that it is not enough to be a Latter-day
 Saint in name only. It is not enough to simply declare that we are a chosen
@@ -141,10 +138,10 @@ trends of the world. We do not always keep up with the pacesetters, but in
 some ways we follow not too far behind them. I know there are many who are
 exceptions to this pattern and who faithfully keep the commandments of God and
 whose lives remain pure and unspotted from the things of the world, even in
-the face of great temptation and challenge. (See [D&amp;C
-59:9](https://www.lds.org/scriptures/dc-testament/dc/59.9?lang=eng#8).) You
-who are faithful in this way have our profound respect and our great
-confidence. You are living up to the trust the Lord has placed with you.
+the face of great temptation and challenge. (See [D&amp;C 59:9](/scriptures
+/dc-testament/dc/59.9?lang=eng#8).) You who are faithful in this way have our
+profound respect and our great confidence. You are living up to the trust the
+Lord has placed with you.
 
 But there are too many whose lives are being contaminated by the worldly
 trends. This is not a light matter. The judgments of God will not be withheld
@@ -153,7 +150,7 @@ allow themselves to be drawn along the precarious paths of worldly conduct. To
 such as there are who are within the sound of my voice tonight, I say: Take
 the upward path. "Be not deceived; God is not mocked: for whatsoever a man
 soweth, that shall he also reap." ([Gal.
-6:7](https://www.lds.org/scriptures/nt/gal/6.7?lang=eng#6).)
+6:7](/scriptures/nt/gal/6.7?lang=eng#6).)
 
 Several years ago I expressed the following thoughts in an article that was
 printed in an issue of the _New Era_ magazine. They are appropriate to my
@@ -190,8 +187,8 @@ is one of the great tests of our time.
 "While many recover from these excursions into forbidden territory, an
 increasing number of tragedies are occurring that reach out to bring a blight
 and a despair to many lives and that have long-lasting consequences. There is
-no such thing as private sin. Although its commission can be calculated ... ,
-its effects cannot be regulated by the person guilty of the misbehavior. To
+no such thing as private sin. Although its commission can be calculated ..., its
+effects cannot be regulated by the person guilty of the misbehavior. To
 believe otherwise is to become gullible to one of the most insidious lies ever
 perpetrated by the father of lies.
 
@@ -253,4 +250,6 @@ everything,' and then goes out to prove it."
 
 Young men, let us prove by the way we live and serve that we are everything
 the Lord expects us to be, I pray in the name of Jesus Christ, amen.
+
+## References
 

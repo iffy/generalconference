@@ -35,7 +35,7 @@ Conference Report, Apr. 1936, pp. 40-41.)
 
 In the 133rd section of the Doctrine and Covenants, the Lord defined "the
 fulness of his gospel" as "his everlasting covenant" ([D&amp;C
-133:57](https://www.lds.org/scriptures/dc-testament/dc/133.57?lang=eng#56)).
+133:57](/scriptures/dc-testament/dc/133.57?lang=eng#56)).
 
 By accepting membership in the Church, through baptism and the laying on of
 hands for the gift of the Holy Ghost, a person enters into a covenant with the
@@ -98,8 +98,7 @@ testimony that ye have entered into a _covenant_ to serve him until you are
 dead as to the mortal body; and may the Spirit of the Lord be poured out upon
 you; and may he grant unto you eternal life, through the redemption of Christ,
 whom he has prepared from the foundation of the world." ([Mosiah
-18:8-13](https://www.lds.org/scriptures/bofm/mosiah/18.8-13?lang=eng#7);
-italics added.)
+18:8-13](/scriptures/bofm/mosiah/18.8-13?lang=eng#7); italics added.)
 
 In light of these revelations, it seems inevitable to me, as it did to Brother
 Wells, that every person who is baptized and receives the gift of the Holy
@@ -113,8 +112,7 @@ church take care of the poor.
 
 In December 1830, the very year in which the Church was organized, he decreed
 that "the poor and the meek shall have the gospel preached unto them"
-([D&amp;C 35:15](https://www.lds.org/scriptures/dc-
-testament/dc/35.15?lang=eng#14)).
+([D&amp;C 35:15](/scriptures/dc-testament/dc/35.15?lang=eng#14)).
 
 And just a few days later, on January 2, 1831, he gave the Prophet Joseph the
 revelation recorded in the thirty-eighth section of the Doctrine and
@@ -147,9 +145,8 @@ that certain men among them shall be appointed, and they shall be appointed by
 the voice of the church;
 
 "And they shall look to the poor and the needy, and administer to their relief
-that they shall not suffer." ([D&amp;C 38:16, 22, 24-27,
-34-35](https://www.lds.org/scriptures/dc-
-testament/dc/38.16%2C22%2C24-27%2C34-35?lang=eng#15).)
+that they shall not suffer." ([D&amp;C 38:16, 22, 24-27, 34-35](/scriptures
+/dc-testament/dc/38.16,22,24-27,34-35?lang=eng#15).)
 
 Just a month and five days later the Lord said:
 
@@ -159,27 +156,26 @@ Just a month and five days later the Lord said:
 their support ... with a covenant and a deed which cannot be broken.
 
 "And inasmuch as ye impart of your substance unto the poor, ye will do it unto
-me." ([D&amp;C 42:29-31](https://www.lds.org/scriptures/dc-
-testament/dc/42.29-31?lang=eng#28).)
+me." ([D&amp;C 42:29-31](/scriptures/dc-testament/dc/42.29-31?lang=eng#28).)
 
 Before the month ended, he added in another revelation:
 
 "Behold, I say unto you, that ye must visit the poor and the needy and
-administer to their relief" ([D&amp;C 44:6](https://www.lds.org/scriptures/dc-
+administer to their relief" ([D&amp;C 44:6](/scriptures/dc-
 testament/dc/44.6?lang=eng#5)).
 
 At the conference held in June of 1831, the Lord instructed the elders to
 "remember ... the poor and the needy, the sick and the afflicted, for he that
 doeth not these things, the same is not my disciple" ([D&amp;C
-52:40](https://www.lds.org/scriptures/dc-testament/dc/52.40?lang=eng#39)).
+52:40](/scriptures/dc-testament/dc/52.40?lang=eng#39)).
 
 Later the same month he declared:
 
 "Wo unto you rich men, that will not give your substance to the poor, for your
 riches will canker your souls; and this shall be your lamentation in the day
 of visitation, and of judgment, and of indignation: The harvest is past, the
-summer is ended, and my soul is not saved!" ([D&amp;C
-56:16](https://www.lds.org/scriptures/dc-testament/dc/56.16?lang=eng#15).)
+summer is ended, and my soul is not saved!" ([D&amp;C 56:16](/scriptures/dc-
+testament/dc/56.16?lang=eng#15).)
 
 I suppose I've said enough to establish the fact that caring for the poor is a
 covenantal obligation. It follows, then, that we look after our poor and
@@ -203,7 +199,7 @@ covenant of my Father, which he cannot break, neither can it be moved.
 
 "But whoso breaketh this covenant after he hath received it, and altogether
 turneth therefrom, shall not have forgiveness of sins in this world nor in the
-world to come." ([D&amp;C 84:37-41](https://www.lds.org/scriptures/dc-
+world to come." ([D&amp;C 84:37-41](/scriptures/dc-
 testament/dc/84.37-41?lang=eng#36).)
 
 A few illustrations of the consequences of failing to perform according to our
@@ -228,7 +224,7 @@ things, and have given unto the children of men to be agents unto themselves.
 "Therefore, if any man shall take of the abundance which I have made, and
 impart not his portion, according to the law of my gospel, unto the poor and
 the needy, he shall, with the wicked, lift up his eyes in hell, being in
-torment." ([D&amp;C 104:14-18](https://www.lds.org/scriptures/dc-
+torment." ([D&amp;C 104:14-18](/scriptures/dc-
 testament/dc/104.14-18?lang=eng#13).)
 
 This incisive statement is in harmony with the following prediction Jesus gave
@@ -280,8 +276,7 @@ minister unto thee?
 it not to one of the least of these, ye did it not to me.
 
 "And these shall go away into everlasting punishment: but the righteous into
-life eternal." ([Matt.
-25:31-46](https://www.lds.org/scriptures/nt/matt/25.31-46?lang=eng#30).)
+life eternal." ([Matt. 25:31-46](/scriptures/nt/matt/25.31-46?lang=eng#30).)
 
 In conclusion, brothers and sisters, it seems to me that the scriptures
 clearly establish the fact that caring for the poor is a covenantal
@@ -290,4 +285,6 @@ obligation.
 That each of us will fully discharge our obligation under that covenant, I
 humbly pray, and leave my blessing with you, in the name of Jesus Christ.
 Amen.
+
+## References
 

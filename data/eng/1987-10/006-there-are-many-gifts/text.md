@@ -8,10 +8,9 @@ in the eyes of God. For us to conclude that we have no gifts when we judge
 ourselves by stature, intelligence, grade-point average, wealth, power,
 position, or external appearance is not only unfair but unreasonable.
 
-From [D&amp;C 46:11-12](https://www.lds.org/scriptures/dc-
-testament/dc/46.11-12?lang=eng#10), we have this truth: "For all have not
-every gift given unto them; for there are many gifts, and to every man is
-given a gift by the Spirit of God.
+From [D&amp;C 46:11-12](/scriptures/dc-testament/dc/46.11-12?lang=eng#10), we
+have this truth: "For all have not every gift given unto them; for there are
+many gifts, and to every man is given a gift by the Spirit of God.
 
 "To some is given one, and to some is given another, that all may be profited
 thereby."
@@ -25,12 +24,12 @@ image of God, that there are no unimportant persons. Everyone matters to God
 and to his fellowmen.
 
 From the Book of Mormon, particularly 3 Nephi, chapters 11 through 26 [[3 Ne.
-11-26](https://www.lds.org/scriptures/bofm/3-ne/11.title?lang=eng)], when the
-Savior Jesus Christ showed himself to the people on the American continent,
-many gifts are referred to as being very real and most useful. Taken at
-random, let me mention a few gifts that are not always evident or noteworthy
-but that are very important. Among these may be your gifts--gifts not so
-evident but nevertheless real and valuable.
+11-26](/scriptures/bofm/3-ne/11?lang=eng)], when the Savior Jesus Christ
+showed himself to the people on the American continent, many gifts are
+referred to as being very real and most useful. Taken at random, let me
+mention a few gifts that are not always evident or noteworthy but that are
+very important. Among these may be your gifts--gifts not so evident but
+nevertheless real and valuable.
 
 Let us review some of these less-conspicuous gifts: the gift of asking; the
 gift of listening; the gift of hearing and using a still, small voice; the
@@ -57,12 +56,12 @@ When Jesus Christ came to teach the Nephites, he said, "Therefore, go ye unto
 your homes, and ponder upon the things which I have said, and ask of the
 Father, in my name, that ye may understand, and prepare your minds for the
 morrow, and I come unto you again" ([3 Ne.
-17:3](https://www.lds.org/scriptures/bofm/3-ne/17.3?lang=eng#2)).
+17:3](/scriptures/bofm/3-ne/17.3?lang=eng#2)).
 
 Moroni used this term as he closed his record. "Behold, I would exhort you
 that when ye shall read these things, ... ye would remember how merciful the
 Lord hath been unto the children of men, ... and ponder it in your hearts"
-([Moro. 10:3](https://www.lds.org/scriptures/bofm/moro/10.3?lang=eng#2)).
+([Moro. 10:3](/scriptures/bofm/moro/10.3?lang=eng#2)).
 
 By pondering, we give the Spirit an opportunity to impress and direct.
 Pondering is a powerful link between the heart and the mind. As we read the
@@ -90,7 +89,7 @@ guidance.
 
 "Behold, I am the law, and the light. Look unto me, and endure to the end, and
 ye shall live; for unto him that endureth to the end will I give eternal life"
-([3 Ne. 15:9](https://www.lds.org/scriptures/bofm/3-ne/15.9?lang=eng#8)).
+([3 Ne. 15:9](/scriptures/bofm/3-ne/15.9?lang=eng#8)).
 
 "Look to God and live." This is the wonderful promise given so often in the
 scriptures.
@@ -119,7 +118,7 @@ harsh voice, neither was it a loud voice; nevertheless, and notwithstanding it
 being a small voice it did pierce them that did hear to the center, insomuch
 that there was no part of their frame that it did not cause to quake; yea, it
 did pierce them to the very soul, and did cause their hearts to burn" ([3 Ne.
-11:3](https://www.lds.org/scriptures/bofm/3-ne/11.3?lang=eng#2)).
+11:3](/scriptures/bofm/3-ne/11.3?lang=eng#2)).
 
 Most often, hope, encouragement, and direction come from a soft, piercing
 voice.
@@ -135,11 +134,10 @@ We love the small voice of a child saying, "Mommy, Daddy, I love you."
 How powerful is a small voice that knows how and when to say, "Thank you."
 
 Think of the heavenly voice saying, Joseph, this is my beloved son. Hear him
-(see [JS--H 1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)).
+(see [JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)).
 
 It is heartwarming and reassuring to hear the small voice declare, "Be still
-and know" ([D&amp;C 101:16](https://www.lds.org/scriptures/dc-
-testament/dc/101.16?lang=eng#15)).
+and know" ([D&amp;C 101:16](/scriptures/dc-testament/dc/101.16?lang=eng#15)).
 
 Remember that one of our greatest gifts is the small voice of the Holy Ghost
 whispering directions in our lives and making mighty testimonies possible.
@@ -152,7 +150,7 @@ who are calm instead of contentious.
 "For verily, verily I say unto you, he that hath the spirit of contention is
 not of me, but is of the devil, who is the father of contention, and he
 stirreth up the hearts of men to contend with anger, one with another" ([3 Ne.
-11:29](https://www.lds.org/scriptures/bofm/3-ne/11.29?lang=eng#28)).
+11:29](/scriptures/bofm/3-ne/11.29?lang=eng#28)).
 
 Contention is a tool of the adversary. Peace is a tool of our Savior. What a
 wonderful tribute we pay people when we describe them as being gentle, firm,
@@ -164,8 +162,7 @@ Where contention prevails, there can be no united effort in any purposeful
 direction.
 
 "Cease to contend one with another; cease to speak evil one of another"
-([D&amp;C 136:23](https://www.lds.org/scriptures/dc-
-testament/dc/136.23?lang=eng#22)).
+([D&amp;C 136:23](/scriptures/dc-testament/dc/136.23?lang=eng#22)).
 
 Argument and debate must be supplanted by calm discussion, study, listening,
 and negotiation.
@@ -185,12 +182,11 @@ foster contention over issues of the day.
 
 "Behold, this is not my doctrine, to stir up the hearts of men with anger, one
 against another; but this is my doctrine, that such things should be done
-away" ([3 Ne.
-11:30](https://www.lds.org/scriptures/bofm/3-ne/11.30?lang=eng#29)).
+away" ([3 Ne. 11:30](/scriptures/bofm/3-ne/11.30?lang=eng#29)).
 
 "Ye should live in peace one with another" ([Mosiah
-2:20](https://www.lds.org/scriptures/bofm/mosiah/2.20?lang=eng#19)). Those
-with the gift of being calm make lasting peace possible.
+2:20](/scriptures/bofm/mosiah/2.20?lang=eng#19)). Those with the gift of being
+calm make lasting peace possible.
 
 ## 5\. The Gift to Care
 
@@ -203,7 +199,7 @@ others.
 "And behold, I tell you these things that ye may learn wisdom; that ye may
 learn that when ye are in the service of your fellow beings ye are only in the
 service of your God" ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16)).
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16)).
 
 Our Savior cares for all of his sheep. What a tribute it is to be recognized
 as one who cares. Let me share with you a story about the quiet caring of an
@@ -255,14 +251,16 @@ the ward's entire history. She had the gift of caring, and here were some of
 the fruits of her labors. Generations yet to come will bless her name for what
 she has done. What a great gift have those who know how to care!
 
-"And to every man is given a gift" ([D&amp;C
-46:11](https://www.lds.org/scriptures/dc-testament/dc/46.11?lang=eng#10)).
-This is true. God help us to recognize, develop, and share our gifts that all
-may profit thereby is my earnest hope and plea.
+"And to every man is given a gift" ([D&amp;C 46:11](/scriptures/dc-
+testament/dc/46.11?lang=eng#10)). This is true. God help us to recognize,
+develop, and share our gifts that all may profit thereby is my earnest hope
+and plea.
 
 God does live. He does bless us with gifts. As we develop and share our God-
 given gifts and benefit from the gifts of those around us, the world can be a
 better place and God's work will move forward at a more rapid pace. To these
 truths I bear my testimony and leave my personal witness in the name of Jesus
 Christ, amen.
+
+## References
 

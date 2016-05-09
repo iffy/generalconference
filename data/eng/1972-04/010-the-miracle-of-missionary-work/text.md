@@ -47,7 +47,7 @@ authority which I have given you, baptizing in the name of the Father, and of
 the Son, and of the Holy Ghost.
 
 "And he that believeth and is baptized shall be saved, and he that believeth
-not shall be damned." ([D&amp;C 68:8-9](https://www.lds.org/scriptures/dc-
+not shall be damned." ([D&amp;C 68:8-9](/scriptures/dc-
 testament/dc/68.8-9?lang=eng#7).)
 
 As I have toured missions, many missionaries, as well as converts, have
@@ -213,4 +213,6 @@ the pathway that mankind must follow to attain eternal life in the presence of
 the Father and the Son.
 
 In the name of Jesus Christ. Amen.
+
+## References
 

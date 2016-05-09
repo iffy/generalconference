@@ -93,15 +93,14 @@ chapter of Luke that when Jesus had fasted for forty days and was tempted by
 the devil, the devil suggested that if Jesus were the Son of God, he turn a
 stone into bread. Even after fasting forty days, Jesus said, "Man shall not
 live by bread alone, but by every word of God" ([Luke
-4:4](https://www.lds.org/scriptures/nt/luke/4.4?lang=eng#3)). Jesus knew the
-words of the prophets.
+4:4](/scriptures/nt/luke/4.4?lang=eng#3)). Jesus knew the words of the
+prophets.
 
 Satan again tempted Jesus, offering him power and glory if he would worship
 Satan. Jesus resisted the temptation and responded with the words, "It is
 written, Thou shalt worship the Lord thy God, and him only shalt thou serve"
-([Luke 4:8](https://www.lds.org/scriptures/nt/luke/4.8?lang=eng#7)). Jesus
-knew his Father's will, and the words strengthened him in a time of
-temptation.
+([Luke 4:8](/scriptures/nt/luke/4.8?lang=eng#7)). Jesus knew his Father's
+will, and the words strengthened him in a time of temptation.
 
 The words of the scriptures will strengthen you in times of temptation. The
 scriptures have been given to us to help us find peace and reassurance in
@@ -149,4 +148,6 @@ ye are filled, that ye hunger not, neither shall ye thirst."
 This is our Heavenly Father's promise to us if we respond to the invitation to
 experiment upon the word. I bear my testimony of that promise in the name of
 Jesus Christ, amen.
+
+## References
 

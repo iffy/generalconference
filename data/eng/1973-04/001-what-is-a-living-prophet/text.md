@@ -4,7 +4,7 @@ The Lord closed section 1 in the Doctrine and Covenants, with these words:
 "What I the Lord have spoken, I have spoken, and I excuse not myself; and
 though the heavens and the earth pass away, my word shall not pass away, but
 shall all be fulfilled, whether by mine own voice or by the voice of my
-servants, it is the same." ([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
+servants, it is the same." ([D&amp;C 1:38](/scriptures/dc-
 testament/dc/1.38?lang=eng#37).)
 
 We have just heard the voice of his servant, and it is the same! President Lee
@@ -27,12 +27,12 @@ Foremost, God must choose _him _as his prophet! This is entirely different
 than for man to choose God. The Savior, speaking to his apostles, said, "Ye
 have not chosen me, but I have chosen you, and ordained you, that ye should go
 and bring forth fruit. ..." ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).)
+15:16](/scriptures/nt/john/15.16?lang=eng#15).)
 
 "We believe that a man must be called of God, by prophecy, and by the laying
 on of hands, by those who are in authority to preach the Gospel and administer
 in the ordinances thereof." ([A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
+1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
 
 A prophet, then, is the authorized representative of the Lord. While the world
 may not recognize him, the important requirement is that God speaks through
@@ -72,8 +72,7 @@ The Lord has given this promise to his servants: "And whatsoever they shall
 speak when moved upon by the Holy Ghost shall be scripture, shall be the will
 of the Lord, shall be the mind of the Lord, shall be the word of the Lord,
 shall be the voice of the Lord, and the power of God unto salvation."
-([D&amp;C 68:4](https://www.lds.org/scriptures/dc-
-testament/dc/68.4?lang=eng#3).)
+([D&amp;C 68:4](/scriptures/dc-testament/dc/68.4?lang=eng#3).)
 
 President John Taylor said, "We require a living tree--a living fountain--
 living intelligence, proceeding from the living priesthood in heaven, through
@@ -149,7 +148,9 @@ servants, it is the same.
 
 "For behold, and lo, the Lord is God, and the Spirit beareth record, and the
 record is true, and the truth abideth forever and ever." ([D&amp;C
-1:38-39](https://www.lds.org/scriptures/dc-testament/dc/1.38-39?lang=eng#37).)
+1:38-39](/scriptures/dc-testament/dc/1.38-39?lang=eng#37).)
 
 In the name of Jesus Christ. Amen.
+
+## References
 

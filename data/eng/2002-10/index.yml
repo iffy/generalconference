@@ -1,383 +1,313 @@
 items:
-- article_id: PD10029898_000_003
-  item: '002'
-  key: 002-o-that-i-were-an-angel-and-could-have-the-wish-of-mine-heart
+- item: 1
+  key: 000-o-that-i-were-an-angel-and-could-have-the-wish-of-mine-heart
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: o-that-i-were-an-angel-and-could-have-the-wish-of-mine-heart
   speaker: Gordon B. Hinckley
-  title: "\u201CO That I Were an Angel, and Could Have the Wish of Mine Heart\u201D"
+  title: '"O That I Were an Angel, and Could Have the Wish of Mine Heart"'
   url: https://www.lds.org/general-conference/2002/10/o-that-i-were-an-angel-and-could-have-the-wish-of-mine-heart?lang=eng
   year: 2002
-- article_id: PD10029898_000_004
-  item: '003'
-  key: 003-called-of-god
+- item: 2
+  key: 001-called-of-god
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: called-of-god
   speaker: L. Tom Perry
   title: Called of God
   url: https://www.lds.org/general-conference/2002/10/called-of-god?lang=eng
   year: 2002
-- article_id: PD10029898_000_005
-  item: '005'
-  key: 005-the-global-church-blessed-by-the-voice-of-the-prophets
+- item: 3
+  key: 002-the-global-church-blessed-by-the-voice-of-the-prophets
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-global-church-blessed-by-the-voice-of-the-prophets
   speaker: Dieter F. Uchtdorf
   title: The Global Church Blessed by the Voice of the Prophets
   url: https://www.lds.org/general-conference/2002/10/the-global-church-blessed-by-the-voice-of-the-prophets?lang=eng
   year: 2002
-- article_id: PD10029898_000_006
-  item: '007'
-  key: 007-a-voice-of-gladness-for-our-children
+- item: 4
+  key: 003-a-voice-of-gladness-for-our-children
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: a-voice-of-gladness-for-our-children
   speaker: Coleen K. Menlove
   title: A Voice of Gladness for Our Children
   url: https://www.lds.org/general-conference/2002/10/a-voice-of-gladness-for-our-children?lang=eng
   year: 2002
-- article_id: PD10029898_000_007
-  item: 008
-  key: 008-encircled-in-the-arms-of-his-love
+- item: 5
+  key: 004-encircled-in-the-arms-of-his-love
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: encircled-in-the-arms-of-his-love
   speaker: Neal A. Maxwell
   title: Encircled in the Arms of His Love
   url: https://www.lds.org/general-conference/2002/10/encircled-in-the-arms-of-his-love?lang=eng
   year: 2002
-- article_id: PD10029898_000_008
-  item: '010'
-  key: 010-whats-in-it-for-me
+- item: 6
+  key: 005-whats-in-it-for-me
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: whats-in-it-for-me
   speaker: James E. Faust
-  title: "What\u2019s in It for Me?"
+  title: What's in It for Me?
   url: https://www.lds.org/general-conference/2002/10/whats-in-it-for-me?lang=eng
   year: 2002
-- article_id: PD10029898_000_009
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 7
+  key: 006-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2002/10/the-sustaining-of-church-officers?lang=eng
   year: 2002
-- article_id: PD10029898_000_010
-  item: '015'
-  key: 015-were-there-not-ten-cleansed
+- item: 8
+  key: 007-were-there-not-ten-cleansed
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: were-there-not-ten-cleansed
   speaker: David B. Haight
   title: Were There Not Ten Cleansed?
   url: https://www.lds.org/general-conference/2002/10/were-there-not-ten-cleansed?lang=eng
   year: 2002
-- article_id: PD10029898_000_011
-  item: '016'
-  key: 016-tithing-a-test-of-faith-with-eternal-blessings
+- item: 9
+  key: 008-tithing-a-test-of-faith-with-eternal-blessings
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: tithing-a-test-of-faith-with-eternal-blessings
   speaker: Robert D. Hales
-  title: 'Tithing: A Test of Faith with Eternal Blessings'
+  title: Tithing:A Test of Faith with Eternal Blessings
   url: https://www.lds.org/general-conference/2002/10/tithing-a-test-of-faith-with-eternal-blessings?lang=eng
   year: 2002
-- article_id: PD10029898_000_012
-  item: '017'
-  key: 017-but-if-not
+- item: 10
+  key: 009-but-if-not
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: but-if-not
   speaker: Lance B. Wickman
   title: But If Not
   url: https://www.lds.org/general-conference/2002/10/but-if-not?lang=eng
   year: 2002
-- article_id: PD10029898_000_013
-  item: 019
-  key: 019-sacrifice-brings-forth-the-blessings-of-heaven
+- item: 11
+  key: 010-sacrifice-brings-forth-the-blessings-of-heaven
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: sacrifice-brings-forth-the-blessings-of-heaven
   speaker: Robert K. Dellenbach
   title: Sacrifice Brings Forth the Blessings of Heaven
   url: https://www.lds.org/general-conference/2002/10/sacrifice-brings-forth-the-blessings-of-heaven?lang=eng
   year: 2002
-- article_id: PD10029898_000_014
-  item: '020'
-  key: 020-called-to-serve
+- item: 12
+  key: 011-called-to-serve
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: called-to-serve
   speaker: Jeffrey R. Holland
   title: Called to Serve
   url: https://www.lds.org/general-conference/2002/10/called-to-serve?lang=eng
   year: 2002
-- article_id: PD10029898_000_015
-  item: '021'
-  key: 021-blessed-are-the-peacemakers
+- item: 13
+  key: 012-blessed-are-the-peacemakers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: blessed-are-the-peacemakers
   speaker: Russell M. Nelson
-  title: "\u201CBlessed Are the Peacemakers\u201D"
+  title: '"Blessed Are the Peacemakers"'
   url: https://www.lds.org/general-conference/2002/10/blessed-are-the-peacemakers?lang=eng
   year: 2002
-- article_id: PD10029898_000_016
-  item: '025'
-  key: 025-the-stake-patriarch
+- item: 14
+  key: 013-the-stake-patriarch
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-stake-patriarch
   speaker: Boyd K. Packer
   title: The Stake Patriarch
   url: https://www.lds.org/general-conference/2002/10/the-stake-patriarch?lang=eng
   year: 2002
-- article_id: PD10029898_000_017
-  item: '026'
-  key: 026-the-greatest-generation-of-missionaries
+- item: 15
+  key: 014-the-greatest-generation-of-missionaries
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-greatest-generation-of-missionaries
   speaker: M. Russell Ballard
   title: The Greatest Generation of Missionaries
   url: https://www.lds.org/general-conference/2002/10/the-greatest-generation-of-missionaries?lang=eng
   year: 2002
-- article_id: PD10029898_000_018
-  item: '027'
-  key: 027-i-believe-i-can-i-knew-i-could
+- item: 16
+  key: 015-i-believe-i-can-i-knew-i-could
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: i-believe-i-can-i-knew-i-could
   speaker: James E. Faust
   title: I Believe I Can, I Knew I Could
   url: https://www.lds.org/general-conference/2002/10/i-believe-i-can-i-knew-i-could?lang=eng
   year: 2002
-- article_id: PD10029898_000_019
-  item: 029
-  key: 029-peace-be-still
+- item: 17
+  key: 016-peace-be-still
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: peace-be-still
   speaker: Thomas S. Monson
   title: Peace, Be Still
   url: https://www.lds.org/general-conference/2002/10/peace-be-still?lang=eng
   year: 2002
-- article_id: PD10029898_000_020
-  item: '030'
-  key: 030-to-men-of-the-priesthood
+- item: 18
+  key: 017-to-men-of-the-priesthood
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: to-men-of-the-priesthood
   speaker: Gordon B. Hinckley
   title: To Men of the Priesthood
   url: https://www.lds.org/general-conference/2002/10/to-men-of-the-priesthood?lang=eng
   year: 2002
-- article_id: PD10029898_000_021
-  item: '035'
-  key: 035-models-to-follow
+- item: 19
+  key: 018-models-to-follow
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: models-to-follow
   speaker: Thomas S. Monson
   title: Models to Follow
   url: https://www.lds.org/general-conference/2002/10/models-to-follow?lang=eng
   year: 2002
-- article_id: PD10029898_000_022
-  item: '036'
-  key: 036-i-ll-go-where-you-want-me-to-go
+- item: 20
+  key: 019-i-ll-go-where-you-want-me-to-go
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: i-ll-go-where-you-want-me-to-go
   speaker: Dallin H. Oaks
-  title: "I\u2019ll Go Where You Want Me to Go"
+  title: I'll Go Where You Want Me to Go
   url: https://www.lds.org/general-conference/2002/10/i-ll-go-where-you-want-me-to-go?lang=eng
   year: 2002
-- article_id: PD10029898_000_023
-  item: '037'
-  key: 037-that-they-may-be-one-in-us
+- item: 21
+  key: 020-that-they-may-be-one-in-us
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: that-they-may-be-one-in-us
   speaker: D. Todd Christofferson
   title: That They May Be One in Us
   url: https://www.lds.org/general-conference/2002/10/that-they-may-be-one-in-us?lang=eng
   year: 2002
-- article_id: PD10029898_000_024
-  item: 039
-  key: 039-a-woman-of-faith
+- item: 22
+  key: 021-a-woman-of-faith
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-woman-of-faith
   speaker: Margaret D. Nadauld
   title: A Woman of Faith
   url: https://www.lds.org/general-conference/2002/10/a-woman-of-faith?lang=eng
   year: 2002
-- article_id: PD10029898_000_025
-  item: '040'
-  key: 040-rise-to-your-call
+- item: 23
+  key: 022-rise-to-your-call
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: rise-to-your-call
   speaker: Henry B. Eyring
   title: Rise to Your Call
   url: https://www.lds.org/general-conference/2002/10/rise-to-your-call?lang=eng
   year: 2002
-- article_id: PD10029898_000_026
-  item: '042'
-  key: 042-the-marvelous-foundation-of-our-faith
+- item: 24
+  key: 023-the-marvelous-foundation-of-our-faith
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-marvelous-foundation-of-our-faith
   speaker: Gordon B. Hinckley
   title: The Marvelous Foundation of Our Faith
   url: https://www.lds.org/general-conference/2002/10/the-marvelous-foundation-of-our-faith?lang=eng
   year: 2002
-- article_id: PD10029898_000_027
-  item: '046'
-  key: 046-shall-he-find-faith-on-the-earth
+- item: 25
+  key: 024-shall-he-find-faith-on-the-earth
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: shall-he-find-faith-on-the-earth
   speaker: Joseph B. Wirthlin
   title: Shall He Find Faith on the Earth?
   url: https://www.lds.org/general-conference/2002/10/shall-he-find-faith-on-the-earth?lang=eng
   year: 2002
-- article_id: PD10029898_000_028
-  item: '047'
-  key: 047-to-be-free-of-heavy-burdens
+- item: 26
+  key: 025-to-be-free-of-heavy-burdens
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: to-be-free-of-heavy-burdens
   speaker: Richard G. Scott
   title: To Be Free of Heavy Burdens
   url: https://www.lds.org/general-conference/2002/10/to-be-free-of-heavy-burdens?lang=eng
   year: 2002
-- article_id: PD10029898_000_029
-  item: 048
-  key: 048-yielding-to-the-enticings-of-the-holy-spirit
+- item: 27
+  key: 026-yielding-to-the-enticings-of-the-holy-spirit
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: yielding-to-the-enticings-of-the-holy-spirit
-  speaker: Elder Kenneth Johnson
+  speaker: Kenneth Johnson
   title: Yielding to the Enticings of the Holy Spirit
   url: https://www.lds.org/general-conference/2002/10/yielding-to-the-enticings-of-the-holy-spirit?lang=eng
   year: 2002
-- article_id: PD10029898_000_030
-  item: '050'
-  key: 050-fun-and-happiness
+- item: 28
+  key: 027-fun-and-happiness
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: fun-and-happiness
   speaker: Claudio R. M. Costa
   title: Fun and Happiness
   url: https://www.lds.org/general-conference/2002/10/fun-and-happiness?lang=eng
   year: 2002
-- article_id: PD10029898_000_031
-  item: '051'
-  key: 051-come-to-zion-come-to-zion
+- item: 29
+  key: 028-come-to-zion-come-to-zion
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: come-to-zion-come-to-zion
   speaker: Keith B. McMullin
-  title: Come to Zion! Come to Zion!
+  title: Come to Zion!Come to Zion!
   url: https://www.lds.org/general-conference/2002/10/come-to-zion-come-to-zion?lang=eng
   year: 2002
-- article_id: PD10029898_000_032
-  item: '052'
-  key: 052-dad-are-you-awake
+- item: 30
+  key: 029-dad-are-you-awake
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: dad-are-you-awake
   speaker: F. Melvin Hammond
   title: Dad, Are You Awake?
   url: https://www.lds.org/general-conference/2002/10/dad-are-you-awake?lang=eng
   year: 2002
-- article_id: PD10029898_000_033
-  item: '053'
-  key: 053-each-a-better-person
+- item: 31
+  key: 030-each-a-better-person
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: each-a-better-person
   speaker: Gordon B. Hinckley
   title: Each a Better Person
   url: https://www.lds.org/general-conference/2002/10/each-a-better-person?lang=eng
   year: 2002
-- article_id: PD10029898_000_035
-  item: '057'
-  key: 057-with-holiness-of-heart
+- item: 32
+  key: 031-with-holiness-of-heart
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: with-holiness-of-heart
   speaker: Bonnie D. Parkin
   title: With Holiness of Heart
   url: https://www.lds.org/general-conference/2002/10/with-holiness-of-heart?lang=eng
   year: 2002
-- article_id: PD10029898_000_036
-  item: 058
-  key: 058-blessing-our-families-through-our-covenants
+- item: 33
+  key: 032-blessing-our-families-through-our-covenants
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: blessing-our-families-through-our-covenants
   speaker: Kathleen H. Hughes
   title: Blessing Our Families through Our Covenants
   url: https://www.lds.org/general-conference/2002/10/blessing-our-families-through-our-covenants?lang=eng
   year: 2002
-- article_id: PD10029898_000_037
-  item: '060'
-  key: 060-charity-one-family-one-home-at-a-time
+- item: 34
+  key: 033-charity-one-family-one-home-at-a-time
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: charity-one-family-one-home-at-a-time
   speaker: Anne C. Pingree
-  title: 'Charity: One Family, One Home at a Time'
+  title: Charity:One Family, One Home at a Time
   url: https://www.lds.org/general-conference/2002/10/charity-one-family-one-home-at-a-time?lang=eng
   year: 2002
-- article_id: PD10029898_000_038
-  item: '061'
-  key: 061-you-are-all-heaven-sent
+- item: 35
+  key: 034-you-are-all-heaven-sent
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: you-are-all-heaven-sent
   speaker: James E. Faust

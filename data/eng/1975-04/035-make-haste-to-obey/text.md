@@ -23,11 +23,11 @@ turquoise blue.
 Just as these rivers are colored by the substances picked up as they flow
 along, so the streams of our thoughts are colored by the material through
 which they are channeled. The scriptures indicate that as a man "thinketh in
-his heart, so is he." ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6).) The material
-we read has a great effect on the nature of our thoughts. We therefore need to
-be concerned not only with avoiding unwholesome literature, but we must fill
-our minds with pure knowledge, and we must see that our children do the same.
+his heart, so is he." ([Prov. 23:7](/scriptures/ot/prov/23.7?lang=eng#6).) The
+material we read has a great effect on the nature of our thoughts. We
+therefore need to be concerned not only with avoiding unwholesome literature,
+but we must fill our minds with pure knowledge, and we must see that our
+children do the same.
 
 That is why we have been commanded to search the scriptures. The Prophet
 Joseph Smith challenged us to learn more about the Savior and his plan for us
@@ -73,33 +73,29 @@ will [also] deliver me out of the hand of this Philistine," assured David.
 
 With Saul's blessing, David moved to the field of battle, and when Goliath saw
 David, he taunted, "Come to me, and I will give thy flesh unto the fowls of
-the air, and to the beasts of the field." ([1 Sam. 17:26, 32-33, 37, 44](https
-://www.lds.org/scriptures/ot/1-sam/17.26%2C32-33%2C37%2C44?lang=eng#25).)
+the air, and to the beasts of the field." ([1 Sam. 17:26, 32-33, 37,
+44](/scriptures/ot/1-sam/17.26,32-33,37,44?lang=eng#25).)
 
 "David hasted, and ran toward the army to meet the Philistine." ([1 Sam.
-17:48](https://www.lds.org/scriptures/ot/1-sam/17.48?lang=eng#47).) I think it
-is significant that the scriptures indicate this young boy who was on the
-Lord's errand did not merely saunter, nor walk, but he actually _ran_ and
-conquered. David had faith.
+17:48](/scriptures/ot/1-sam/17.48?lang=eng#47).) I think it is significant
+that the scriptures indicate this young boy who was on the Lord's errand did
+not merely saunter, nor walk, but he actually _ran_ and conquered. David had
+faith.
 
 The scriptures are replete with examples of other great men of God who
 maintained this same rapid pace and felt this same sense of urgency as they
 served the Lord.
 
 When Abraham saw three messengers of God approaching, "he _ran_ to meet them."
-([Gen. 18:2](https://www.lds.org/scriptures/ot/gen/18.2?lang=eng#1). Italics
-added.)
+([Gen. 18:2](/scriptures/ot/gen/18.2?lang=eng#1). Italics added.)
 
 When the angel announced the birth of the Savior to the shepherds, these men
 "_came with haste,_ and found Mary, and Joseph, and the babe lying in a
-manger." ([Luke
-2:16](https://www.lds.org/scriptures/nt/luke/2.16?lang=eng#15). Italics
-added.)
+manger." ([Luke 2:16](/scriptures/nt/luke/2.16?lang=eng#15). Italics added.)
 
 When Mary Magdalene entered the empty tomb and _ran_ to tell Peter and John
 what had happened, the two apostles "_ran_ both together" to see. ([John
-20:2-4](https://www.lds.org/scriptures/nt/john/20.2-4?lang=eng#1). Italics
-added.)
+20:2-4](/scriptures/nt/john/20.2-4?lang=eng#1). Italics added.)
 
 The good news of the gospel throughout the ages has been accompanied with a
 rapid pace and a sense of urgency. The Prophet Joseph Smith exhibited this
@@ -142,9 +138,8 @@ lives. He has restored the Church in its fullness.
 Two categories of listeners are hearing my voice today: present members of the
 Church, future members of the Church. The scriptures talk about you. They say
 your eyes shall see. The scriptures say your ears shall hear. The scriptures
-say your heart shall be penetrated. (See [D&amp;C
-1:2](https://www.lds.org/scriptures/dc-testament/dc/1.2?lang=eng#1).) And the
-scriptures say _you will respond._
+say your heart shall be penetrated. (See [D&amp;C 1:2](/scriptures/dc-
+testament/dc/1.2?lang=eng#1).) And the scriptures say _you will respond._
 
 Why not color your thoughts with eternal, prophetic utterances and truths this
 very day?
@@ -153,4 +148,6 @@ Come, catch the glow of the warmth of the gospel. There is a living prophet in
 the land today who represents the Savior upon the earth. His prophetic
 utterances are scripture; they have a sense of urgency. And I bear you this
 witness humbly in the name of the Lord Jesus Christ. Amen.
+
+## References
 

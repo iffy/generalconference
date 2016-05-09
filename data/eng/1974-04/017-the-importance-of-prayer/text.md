@@ -44,7 +44,7 @@ faith.
 "For by doing these things the gates of hell shall not prevail against you;
 yea, and the Lord God will disperse the powers of darkness from before you,
 and cause the heavens to shake for your good, and his name's glory." ([D&amp;C
-21:4-6](https://www.lds.org/scriptures/dc-testament/dc/21.4-6?lang=eng#3).)
+21:4-6](/scriptures/dc-testament/dc/21.4-6?lang=eng#3).)
 
 It was just 144 years ago that The Church of Jesus Christ of Latter-day Saints
 was organized under the direction of the Lord, and the Prophet Joseph Smith
@@ -63,17 +63,17 @@ the living God, who gave his life for you and me and all mankind that our sins
 may be forgiven and that we might be resurrected and enjoy immortality and
 eternal life, for he said, "... This is my work and my glory--to bring to pass
 the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 He also said, "... this is life eternal, that they might know thee the only true
 God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 Then as recorded in John, "Jesus said ... I am the resurrection, and the life:
 he that believeth in me, though he were dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die. ..." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 Much has been said in this conference, and more will be said, I am sure, about
 the sacrifice of Jesus Christ and the great miracle of the resurrection and
@@ -109,7 +109,7 @@ thy name.
 
 "And lead us not into temptation, but deliver us from evil: For thine is the
 kingdom, and the power, and the glory, for ever. Amen." ([Matt. 6:5-7,
-9-13](https://www.lds.org/scriptures/nt/matt/6.5-7%2C9-13?lang=eng#4).)
+9-13](/scriptures/nt/matt/6.5-7,9-13?lang=eng#4).)
 
 This is often referred to as the Lord's Prayer, with the thought that it
 should be repeated regularly and verbatim, where in reality he said: "After
@@ -165,8 +165,8 @@ of his glory, to meet the kingdom of God which is set up on the earth.
 "Wherefore, may the kingdom of God go forth, that the kingdom of heaven may
 come, that thou, O God, mayest be glorified in heaven so on earth, that thine
 enemies may be subdued; for thine is the honor, power and glory, forever and
-ever. Amen." ([D&amp;C 65:2, 5-6](https://www.lds.org/scriptures/dc-
-testament/dc/65.2%2C5-6?lang=eng#1).)
+ever. Amen." ([D&amp;C 65:2, 5-6](/scriptures/dc-
+testament/dc/65.2,5-6?lang=eng#1).)
 
 If we pray that his will be done, we must be prepared to do our part. My
 father said to me when I was a boy, "If you want your prayers to be answered,
@@ -199,19 +199,18 @@ wrong.
 
 In the gospel of Mark we read, "Watch ye and pray, lest ye enter into
 temptation. The spirit truly is ready, but the flesh is weak." ([Mark
-14:38](https://www.lds.org/scriptures/nt/mark/14.38?lang=eng#37).) We must
-pray for courage and strength, desire, determination, and ability to be
-honest, true, chaste, benevolent, virtuous, and to do unto others as we would
-have others do unto us. As we prayerfully and continually search for truth, we
-should seek after anything virtuous, lovely, or of good report or
-praiseworthy. By so living we will be helping the Lord answer our plea, "Lead
-us not into temptation," and we will be delivered from evil.
+14:38](/scriptures/nt/mark/14.38?lang=eng#37).) We must pray for courage and
+strength, desire, determination, and ability to be honest, true, chaste,
+benevolent, virtuous, and to do unto others as we would have others do unto
+us. As we prayerfully and continually search for truth, we should seek after
+anything virtuous, lovely, or of good report or praiseworthy. By so living we
+will be helping the Lord answer our plea, "Lead us not into temptation," and
+we will be delivered from evil.
 
 Let us consider "Forgive us our debts, as we forgive our debtors." It is
 interesting to compare this version as recorded by Matthew with those of Luke
 and Mark. Luke says, "And forgive us our sins; for we also forgive every one
-that is indebted to us. ..." ([Luke
-11:4](https://www.lds.org/scriptures/nt/luke/11.4?lang=eng#3).)
+that is indebted to us. ..." ([Luke 11:4](/scriptures/nt/luke/11.4?lang=eng#3).)
 
 Mark expresses it this way:
 
@@ -219,39 +218,37 @@ Mark expresses it this way:
 Father also which is in heaven may forgive you your trespasses.
 
 "But if ye do not forgive, neither will your Father which is in heaven forgive
-your trespasses." ([Mark
-11:25-26](https://www.lds.org/scriptures/nt/mark/11.25-26?lang=eng#24).)
+your trespasses." ([Mark 11:25-26](/scriptures/nt/mark/11.25-26?lang=eng#24).)
 
 The Lord has said, "I, the Lord, will forgive whom I will forgive, but of you
-it is required to forgive all men." ([D&amp;C
-64:10](https://www.lds.org/scriptures/dc-testament/dc/64.10?lang=eng#9).) We
-are further admonished to forgive many times, even seventy times seven. We
-should stop and ask ourselves if we are prepared to ask the Lord to forgive us
-of our sins and trespasses only as we forgive our friends and neighbors. How
-wonderful it would be if we would all forgive and love our neighbors. Then it
-would be much easier for us to call upon the Lord to forgive us of any of our
-wrongdoings, and as we repent and bring forth fruits meet for repentance, we
-can expect God's forgiveness and mercy to be extended in our behalf.
+it is required to forgive all men." ([D&amp;C 64:10](/scriptures/dc-
+testament/dc/64.10?lang=eng#9).) We are further admonished to forgive many
+times, even seventy times seven. We should stop and ask ourselves if we are
+prepared to ask the Lord to forgive us of our sins and trespasses only as we
+forgive our friends and neighbors. How wonderful it would be if we would all
+forgive and love our neighbors. Then it would be much easier for us to call
+upon the Lord to forgive us of any of our wrongdoings, and as we repent and
+bring forth fruits meet for repentance, we can expect God's forgiveness and
+mercy to be extended in our behalf.
 
 The scriptures are clear concerning such forgiveness. We read: "For if ye
 forgive men their trespasses, your heavenly Father will also forgive you:
 
 "But if ye forgive not men their trespasses, neither will your Father forgive
-your trespasses." ([Matt.
-6:14-15](https://www.lds.org/scriptures/nt/matt/6.14-15?lang=eng#13).)
+your trespasses." ([Matt. 6:14-15](/scriptures/nt/matt/6.14-15?lang=eng#13).)
 
 Further: "Wherefore, I say unto you, that ye ought to forgive one another; for
 he that forgiveth not his brother his trespasses standeth condemned before the
-Lord; for there remaineth in him the greater sin." ([D&amp;C
-64:9](https://www.lds.org/scriptures/dc-testament/dc/64.9?lang=eng#8).)
+Lord; for there remaineth in him the greater sin." ([D&amp;C 64:9](/scriptures
+/dc-testament/dc/64.9?lang=eng#8).)
 
 Our Lord gave us an example of the true spirit of forgiveness when he said
 from the cross, "... Father, forgive them; for they know not what they do."
-([Luke 23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).) We
-read also of that faithful disciple, Stephen, who was persecuted and stoned,
-"And he kneeled down, and cried with a loud voice, Lord, lay not this sin to
-their charge. And when he had said this, he fell asleep." ([Acts
-7:60](https://www.lds.org/scriptures/nt/acts/7.60?lang=eng#59).)
+([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33).) We read also of that
+faithful disciple, Stephen, who was persecuted and stoned, "And he kneeled
+down, and cried with a loud voice, Lord, lay not this sin to their charge. And
+when he had said this, he fell asleep." ([Acts
+7:60](/scriptures/nt/acts/7.60?lang=eng#59).)
 
 How important it is for us to apply in our lives those great principles of
 repentance and forgiveness. Let us always remember that the one who carries a
@@ -297,7 +294,7 @@ tarry ye here, and watch with me.
 "And he went a little farther, and fell on his face, and prayed, saying, O my
 Father, if it be possible, let this cup pass from me: nevertheless not as I
 will, but as thou wilt." ([Matt.
-26:36-39](https://www.lds.org/scriptures/nt/matt/26.36-39?lang=eng#35).)
+26:36-39](/scriptures/nt/matt/26.36-39?lang=eng#35).)
 
 How important it is that we are prepared to say, "Not as I will, but as thou
 wilt."
@@ -314,7 +311,7 @@ hour when ye think not the summer shall be past, and the harvest ended, and
 your souls not saved.
 
 "Listen to him who is the advocate with the Father, who is pleading your cause
-before him." ([D&amp;C 45:1-3](https://www.lds.org/scriptures/dc-
+before him." ([D&amp;C 45:1-3](/scriptures/dc-
 testament/dc/45.1-3?lang=eng#0).)
 
 I bear witness that God does live, that he stands ready to hear and answer our
@@ -322,4 +319,6 @@ prayers through Jesus Christ, our Savior. We can glorify his name and help to
 build his kingdom which is established upon the earth only as we live his
 teachings and keep his commandments. May we do this, I humbly pray in the name
 of Jesus Christ. Amen.
+
+## References
 

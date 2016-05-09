@@ -15,16 +15,16 @@ regarding His little ones:
 
 Nephi began his record, "I, Nephi, having been born of goodly parents,
 therefore I was taught somewhat in all the learning of my father" ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0)).
+1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0)).
 
 Enos began his record, "Behold, it came to pass that I, Enos, knowing my
 father that he was a just man--for he taught me in his language, and also in
 the nurture and admonition of the Lord--and blessed be the name of my God for
-it" ([Enos 1:1](https://www.lds.org/scriptures/bofm/enos/1.1?lang=eng#0)).
+it" ([Enos 1:1](/scriptures/bofm/enos/1.1?lang=eng#0)).
 
 Our Primary theme is from the words of Isaiah: "And all thy children shall be
 taught of the Lord; and great shall be the peace of thy children" ([3 Ne.
-22:13](https://www.lds.org/scriptures/bofm/3-ne/22.13?lang=eng#12)).
+22:13](/scriptures/bofm/3-ne/22.13?lang=eng#12)).
 
 Our Father in Heaven wants us to teach His children, to teach them who they
 really are, and to bring them to the Savior. In her general conference message
@@ -57,8 +57,7 @@ them when thou sittest in thine house, and when thou walkest by the way, and
 when thou liest down, and when thou risest up. ...
 
 "And thou shalt write them upon the posts of thy house, and on thy gates"
-([Deut. 6:5-7,
-9](https://www.lds.org/scriptures/ot/deut/6.5-7%2C9?lang=eng#4)).
+([Deut. 6:5-7, 9](/scriptures/ot/deut/6.5-7,9?lang=eng#4)).
 
 When first we love the Lord with all our hearts, then we can lead our children
 to Him in all of our interactions. They will grow in their devotion to the
@@ -77,10 +76,9 @@ them, then our example becomes a meaningful guide to them as they develop
 their own spiritual strength. Remember the Lord's commandment to the
 Israelites to, first, put His words in their hearts, and then He said, "Teach
 them diligently unto thy children" ([Deut.
-6:7](https://www.lds.org/scriptures/ot/deut/6.7?lang=eng#6)). In all that we
-do, we can teach our children to love the Lord. At times our most
-impressionable teaching happens when we don't even realize that we're
-teaching.
+6:7](/scriptures/ot/deut/6.7?lang=eng#6)). In all that we do, we can teach our
+children to love the Lord. At times our most impressionable teaching happens
+when we don't even realize that we're teaching.
 
 I remember as a teacher of the eleven-year-old girls in Primary, we held a
 luncheon for the girls and their mothers. I had asked each girl to introduce
@@ -119,9 +117,9 @@ safe.
 In a fast and testimony meeting I attended recently in my own ward, three
 children bore their testimonies. Richie stood at the beginning of the meeting
 and said, "Last night I was reading from 1 Nephi, chapters 1 [[1 Ne.
-1](https://www.lds.org/scriptures/bofm/1-ne/1.title?lang=eng)], 2, and 3; and
-as I was reading, I felt a great feeling of peace. I felt good inside. I'm
-thankful for the scriptures."
+1](/scriptures/bofm/1-ne/1?lang=eng)], 2, and 3; and as I was reading, I felt
+a great feeling of peace. I felt good inside. I'm thankful for the
+scriptures."
 
 Charity told of an experience she had of attending a concert with her family
 and becoming separated from her parents. She said, "I found a corner and sat
@@ -146,4 +144,6 @@ how to know and love Him as their most trusted friend. They will understand
 what it means to have His Spirit to be with them--and that will be their
 strength. It is my prayer, my brothers and sisters, that we may all keep that
 vision before us, and I ask it in the name of Jesus Christ, amen.
+
+## References
 

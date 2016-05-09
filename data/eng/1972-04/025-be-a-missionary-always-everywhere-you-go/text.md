@@ -20,13 +20,12 @@ the Church and the purpose of the gospel of Jesus Christ. Specifically, my
 mind went back to some statements made by the Savior. In the Pearl of Great
 Price we read, "For behold, this is my work and my glory--to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Then in his Sermon on the Mount, the Savior said, "Be ye therefore perfect,
 even as your Father which is in heaven is perfect." ([Matt.
-5:38](https://www.lds.org/scriptures/nt/matt/5.38?lang=eng#37).) In these
-words I find an expression of hope and confidence as well as a challenge from
-our Savior.
+5:38](/scriptures/nt/matt/5.38?lang=eng#37).) In these words I find an
+expression of hope and confidence as well as a challenge from our Savior.
 
 I then thought about how the Church and the gospel can help men and women in
 reaching these great objectives. The words of President David O. McKay came to
@@ -225,4 +224,6 @@ I bear you my testimony that this work is true. God lives, and his Son Jesus
 Christ is indeed our Savior, the Redeemer of mankind. The Church of Jesus
 Christ of Latter-day Saints is the true church, and I bear you this testimony
 in the name of Jesus Christ. Amen.
+
+## References
 

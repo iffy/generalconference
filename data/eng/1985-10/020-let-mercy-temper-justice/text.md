@@ -68,8 +68,7 @@ those points of doctrine, which ye have hitherto risked to commit sin.
 "Do not suppose, because it has been spoken concerning restoration, that ye
 shall be restored from sin to happiness. Behold, I say unto you, wickedness
 _never_ was happiness." ([Alma
-41:9-10](https://www.lds.org/scriptures/bofm/alma/41.9-10?lang=eng#8), italics
-added.)
+41:9-10](/scriptures/bofm/alma/41.9-10?lang=eng#8), italics added.)
 
 Just as a sewing pattern determines the dress or clothes we wear, so our
 present lives determine our future existence. Why do people have to go through
@@ -132,15 +131,13 @@ come unto you and forbid them not;
 
 "But ye shall pray for them, and shall not cast them out; and if it so be that
 they come unto you oft ye shall pray for them unto the Father, in my name."
-([3 Ne.
-18:22-23](https://www.lds.org/scriptures/bofm/3-ne/18.22-23?lang=eng#21).)
+([3 Ne. 18:22-23](/scriptures/bofm/3-ne/18.22-23?lang=eng#21).)
 
 Unworthy persons are not to partake of the sacrament that they may not mock
 that holy ordinance in which we covenant to obey and keep the laws of God. The
 Savior then continues: "Nevertheless, ye shall not cast him out from among
 you, but ye shall minister unto him and shall pray for him unto the Father, in
-my name." ([3 Ne.
-18:30](https://www.lds.org/scriptures/bofm/3-ne/18.30?lang=eng#29).)
+my name." ([3 Ne. 18:30](/scriptures/bofm/3-ne/18.30?lang=eng#29).)
 
 I understand that to "minister" means we should teach, befriend, and help that
 person to understand, repent, and return to God. If that person then repents
@@ -152,7 +149,7 @@ Savior then instructs us how to treat those who have not yet repented:
 worship, for unto such shall ye continue to minister; for ye know not but what
 they will return and repent, and come unto me with full purpose of heart, and
 I shall heal them; and ye shall be the means of bringing salvation unto them."
-([3 Ne. 18:32](https://www.lds.org/scriptures/bofm/3-ne/18.32?lang=eng#31).)
+([3 Ne. 18:32](/scriptures/bofm/3-ne/18.32?lang=eng#31).)
 
 I urge you especially to consider the problems which families of transgressors
 have to face. When a person has to be disciplined, remember the impact this
@@ -177,8 +174,9 @@ commandment I give unto you, That ye love one another; as I have loved you,
 that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33).)
+another." ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33).)
 
 That we may do so I pray in the name of Jesus Christ, amen.
+
+## References
 

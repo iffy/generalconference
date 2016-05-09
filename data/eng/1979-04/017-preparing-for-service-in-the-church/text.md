@@ -31,10 +31,10 @@ We all need heroes to honor and admire; we need people after whom we can
 pattern our lives. For us Christ is the chiefest of these. "What manner of men
 ought ye to be?" he asked his Nephite disciples. His answer, "Verily I say
 unto you, even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).) Christ is
-our pattern, our guide, our prototype, and our friend. We seek to be like him
-so that we can always be with him. In a lesser degree the apostles and
-prophets who have lived as Christ lived also become examples for us.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).) Christ is our pattern, our
+guide, our prototype, and our friend. We seek to be like him so that we can
+always be with him. In a lesser degree the apostles and prophets who have
+lived as Christ lived also become examples for us.
 
 Coming back to the thought of this special vision: Brother Woodruff saw to it
 through the authorities at the temple there that these people received their
@@ -119,7 +119,7 @@ merely mention this to show that dreams sometimes do come to pass in life."
 Alma tells us that the Lord "Imparteth his word by angels unto men, yea, not
 only men but women also. Now this is not all; little children do have words
 given unto them many times which confound the wise and the learned." ([Alma
-32:23](https://www.lds.org/scriptures/bofm/alma/32.23?lang=eng#22).)
+32:23](/scriptures/bofm/alma/32.23?lang=eng#22).)
 
 Young children are just as much entitled to the blessings of the Lord as are
 their parents. Joseph Smith was only fourteen years of age when the Father and
@@ -211,4 +211,6 @@ the lands of this world. We ask them to be devout and faithful and true to all
 of the testimonies they have. I bear this testimony to you that this work is
 divine. We have a special work to do and we must do it, and I pray this all in
 the name of Jesus Christ, amen.
+
+## References
 

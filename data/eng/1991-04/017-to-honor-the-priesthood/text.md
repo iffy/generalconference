@@ -29,26 +29,24 @@ Salt Lake City: Bookcraft, 1988, p. 219.) What a privilege! What a trust!
 
 May I offer two suggestions to help us better honor the priesthood:
 
-  * Live righteously to merit the power of the priesthood.
-
-  * Aggressively search out opportunities for quorum service.
+  * Live righteously to merit the power of the priesthood. 
+  * Aggressively search out opportunities for quorum service. 
 
 To have the priesthood conferred upon us does not automatically bless us with
 power any more than receiving a driver's license makes us a responsible
 driver. The Lord declared, "The powers of heaven [can] be controlled ... only
-upon ... principles of righteousness." ([D&amp;C
-121:36](https://www.lds.org/scriptures/dc-testament/dc/121.36?lang=eng#35).)
+upon ... principles of righteousness." ([D&amp;C 121:36](/scriptures/dc-
+testament/dc/121.36?lang=eng#35).)
 
 The power of the priesthood comes gradually. Even our Savior had to master the
 flesh and grow "grace for grace" until He received a fulness. ([D&amp;C
-93:12-13](https://www.lds.org/scriptures/dc-
-testament/dc/93.12-13?lang=eng#11).) We may also, if we are true and faithful
-to our covenants.
+93:12-13](/scriptures/dc-testament/dc/93.12-13?lang=eng#11).) We may also, if
+we are true and faithful to our covenants.
 
 However, we may forfeit priesthood power when we commit transgression.
 Spiritual powers are sensitive and withdraw from evil influences. As Peter
 warned, we must escape "the corruption that is in the world." ([2 Pet.
-1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3).)
+1:4](/scriptures/nt/2-pet/1.4?lang=eng#3).)
 
 I was proud of a young priest, Rick Dove of Tucker, Georgia, who reported his
 experience at a rock concert. He observed the drinking, dress, profanity, and
@@ -82,12 +80,12 @@ is [not doing] as well as [you know] how." (In _Journal of Discourses,_
 2:129-30.)
 
 The prophet Alma, who suffered "nigh unto death" ([Mosiah
-27:28](https://www.lds.org/scriptures/bofm/mosiah/27.28?lang=eng#27))
-repenting of his rebellion and transgressions, pleads: "Come ye out from the
-wicked, and be ye separate, and touch not [the] unclean things." ([Alma
-5:57](https://www.lds.org/scriptures/bofm/alma/5.57?lang=eng#56).) To us, who
-bear His holy vessels, the Lord commands, "Be ye clean." ([D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).)
+27:28](/scriptures/bofm/mosiah/27.28?lang=eng#27)) repenting of his rebellion
+and transgressions, pleads: "Come ye out from the wicked, and be ye separate,
+and touch not [the] unclean things." ([Alma
+5:57](/scriptures/bofm/alma/5.57?lang=eng#56).) To us, who bear His holy
+vessels, the Lord commands, "Be ye clean." ([D&amp;C 38:42](/scriptures/dc-
+testament/dc/38.42?lang=eng#41).)
 
 The priesthood quorum was designed by the Lord to be the finest service
 fraternity in all the world. If we had the wisdom and faith to utilize the
@@ -177,13 +175,14 @@ bear His holy priesthood and to build up His church. We must expand our
 awareness as quorums and as individuals, and increase our caring capacity. Let
 us live righteously and extend the healing power of the priesthood, through
 loving quorum service, to "succor the weak, lift up the hands which hang down,
-and strengthen the feeble knees." ([D&amp;C
-81:5](https://www.lds.org/scriptures/dc-testament/dc/81.5?lang=eng#4).)
+and strengthen the feeble knees." ([D&amp;C 81:5](/scriptures/dc-
+testament/dc/81.5?lang=eng#4).)
 
 In his last tender letter to Moroni, Mormon concluded: "My son, be faithful in
-Christ." ([Moro.
-9:25](https://www.lds.org/scriptures/bofm/moro/9.25?lang=eng#24).) I believe
+Christ." ([Moro. 9:25](/scriptures/bofm/moro/9.25?lang=eng#24).) I believe
 that would be the loving counsel of every father or mother to a son: Be
 faithful in Christ. So may we be, and honor His priesthood. In the name of the
 Lord Jesus Christ, amen.
+
+## References
 

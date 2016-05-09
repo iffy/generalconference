@@ -154,3 +154,33 @@ Jesus Christ, amen.
 _Note: On April 2, 2016, Sister Esplin was released as first counselor in the
 Primary general presidency._
 
+## References
+
+  1. [John 13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).
+
+  2. Jeffrey R. Holland, "[Where Justice, Love, and Mercy Meet](https://www.lds.org/general-conference/2015/04/where-justice-love-and-mercy-meet?lang=eng)," _Ensign_ or _Liahona,_ May 2015, 106.
+
+  3. [Acts 10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).
+
+  4. "[The Living Christ: The Testimony of the Apostles](https://www.lds.org/liahona/2000/04/the-living-christ-the-testimony-of-the-apostles-the-church-of-jesus-christ-of-latter-day-saints?lang=eng),"_ Ensign_ or _ Liahona,_ Apr. 2000, 2.
+
+  5. [Luke 9:24](https://www.lds.org/scriptures/nt/luke/9.24?lang=eng#23).
+
+  6. Thomas S. Monson, "[What Have I Done for Someone Today?](https://www.lds.org/general-conference/2009/10/what-have-i-done-for-someone-today?lang=eng)"_ Ensign_ or _Liahona,_ Nov. 2009, 85.
+
+  7. Lola B. Walters, "[Sunshine in My Soul](https://www.lds.org/ensign/1991/08/sunshine-in-my-soul?lang=eng)," _Ensign,_ Aug. 1991, 19.
+
+  8. Sondra D. Heaston, "[Keeping Your Fingers on the PULSE of Service](https://speeches.byu.edu/talks/sondra-heaston_keeping-your-fingers-on-the-pulse-of-service/?lang=eng)" (Brigham Young University devotional, June 23, 2015), 1, 5, speeches.byu.edu. The Young Women camp speaker who shared these insights is Sister Virginia H. Pearce.
+
+  9. Thomas S. Monson, "[What Have I Done for Someone Today?](https://www.lds.org/general-conference/2009/10/what-have-i-done-for-someone-today?lang=eng)" 86.
+
+  10. See "[Give Us a Hand!](https://www.lds.org/liahona/2015/01/children/give-us-a-hand?lang=eng)"_ Friend__,_ Jan. 2015, 4-5; _Liahona,_ Jan. 2015, 64-65.
+
+  11. [Mosiah 2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).
+
+  12. Dieter F. Uchtdorf, "[Providing in the Lord's Way](https://www.lds.org/general-conference/2011/10/providing-in-the-lords-way?lang=eng),"_ Ensign_ or _Liahona,_ Nov. 2011, 55.
+
+  13. [3 Nephi 17:7, 9](https://www.lds.org/scriptures/bofm/3-ne/17.7,9?lang=eng#6).
+
+  14. Henry B. Eyring, _To Draw Closer to God _(1997), 88.
+

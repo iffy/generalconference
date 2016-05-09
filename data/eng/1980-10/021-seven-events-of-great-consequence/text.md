@@ -50,7 +50,7 @@ sun, which descended gradually until it fell upon me.
 glory defy all description, standing above me in the air. One of them spake
 unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15)).
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15)).
 
 All uncertainty fled away. Joseph Smith had personal knowledge of the reality
 of these divine beings. The Father and the Son, the creators of the universe,
@@ -73,14 +73,13 @@ me to do. ...
 account of the former inhabitants of this continent, and the source from
 whence they sprang. He also said that the fulness of the everlasting Gospel
 was contained in it, as delivered by the Savior to the ancient inhabitants."
-([JS--H 1:30,
-33-34](https://www.lds.org/scriptures/pgp/js-h/1.30%2C33-34?lang=eng#29).)
+([JS--H 1:30, 33-34](/scriptures/pgp/js-h/1.30,33-34?lang=eng#29).)
 
 Event number three: Four more years pass. "At length the time arrived for
 obtaining the plates. ... On the twenty-second day of September, one thousand
 eight hundred and twenty-seven, ... the same heavenly messenger delivered them
 up to me with this charge: that I should be responsible for them." ([JS--H
-1:59](https://www.lds.org/scriptures/pgp/js-h/1.59?lang=eng#58).)
+1:59](/scriptures/pgp/js-h/1.59?lang=eng#58).)
 
 Golden plates were now delivered containing a precious message to be whispered
 as though from the dust through the divine instrumentation of the powers of
@@ -91,7 +90,7 @@ Cowdery: "'These were days never to be forgotten--to sit under the sound of a
 voice dictated by the inspiration of heaven, awakened the utmost gratitude of
 this bosom! Day after day I continued, uninterrupted to write from his mouth,
 as he translated ... the history or record called "The Book of Mormon"'" ([JS--
-H](https://www.lds.org/scriptures/pgp/js-h/1.title?lang=eng), footnote.)
+H](/scriptures/pgp/js-h/1?lang=eng), footnote.)
 
 Event number four: Two additional years pass. And now comes another
 visitation, bringing power from on high. The Aaronic Priesthood, which holds
@@ -113,7 +112,7 @@ upon us, said that his name was John, the same that is called John the Baptist
 in the New Testament, and that he acted under the direction of Peter, James
 and John, who held the keys of the Priesthood of Melchizedek, which
 Priesthood, he said, would in due time be conferred on us." ([JS--H 1:68-69,
-72](https://www.lds.org/scriptures/pgp/js-h/1.68-69%2C72?lang=eng#67).)
+72](/scriptures/pgp/js-h/1.68-69,72?lang=eng#67).)
 
 Peter, James, and John came and ordained them to the Melchizedek Priesthood,
 which holds the power to act in the name of Deity.
@@ -143,8 +142,8 @@ voice was as the sound of the rushing of great waters, even the voice of
 Jehovah, saying:
 
 "I am the first and the last; I am he who liveth, I am he who was slain; I am
-your advocate with the Father." ([D&amp;C
-110:1-4](https://www.lds.org/scriptures/dc-testament/dc/110.1-4?lang=eng#0).)
+your advocate with the Father." ([D&amp;C 110:1-4](/scriptures/dc-
+testament/dc/110.1-4?lang=eng#0).)
 
 Let me share with you an eyewitness account of some of these events and I
 quote:
@@ -158,8 +157,8 @@ or comprehend the wisdom which was contained in each sentence as they were
 delivered by the power of the Holy Spirit! ... The assurance that we were in the
 presence of an angel, the certainty that we heard the voice of Jesus, and the
 truth unsullied as it flowed from a pure personage, dictated by the will of
-God, is to me past description.'" ([JS--
-H](https://www.lds.org/scriptures/pgp/js-h/1.title?lang=eng), footnote.)
+God, is to me past description.'" ([JS--H](/scriptures/pgp/js-h/1?lang=eng),
+footnote.)
 
 Event number six: Biblical prophets over the ages have foretold the gathering
 of Israel. Let's examine a visitation of Moses to Joseph Smith and Oliver
@@ -168,8 +167,7 @@ Cowdery and his commitment of the keys of gathering.
 "The heavens were again opened unto us; and Moses appeared before us, and
 committed unto us the keys of the gathering of Israel from the four parts of
 the earth, and the leading of the ten tribes from the land of the north"
-([D&amp;C 110:11](https://www.lds.org/scriptures/dc-
-testament/dc/110.11?lang=eng#10)).
+([D&amp;C 110:11](/scriptures/dc-testament/dc/110.11?lang=eng#10)).
 
 Event number seven: Now came Elijah in direct fulfillment of Malachi's
 prediction. Let's listen to this heaven-sent truth.
@@ -182,7 +180,7 @@ was taken to heaven without tasting death, stood before us, and said:
 day of the Lord come--
 
 "To turn the hearts of the fathers to the children, and the children to the
-fathers." ([D&amp;C 110:13-15](https://www.lds.org/scriptures/dc-
+fathers." ([D&amp;C 110:13-15](/scriptures/dc-
 testament/dc/110.13-15?lang=eng#12).)
 
 The power of Elijah is the sealing power of the priesthood by which things
@@ -198,14 +196,15 @@ heaven in our day will not be subdued, but will affect us through all the
 eternities.
 
 The Lord has said, "There is no eye that shall not see, neither ear that shall
-not hear" ([D&amp;C 1:2](https://www.lds.org/scriptures/dc-
-testament/dc/1.2?lang=eng#1)), "whether it be by mine own voice or by the
-voice of my servants, it is the same" ([D&amp;C
-1:38](https://www.lds.org/scriptures/dc-testament/dc/1.38?lang=eng#37)).
+not hear" ([D&amp;C 1:2](/scriptures/dc-testament/dc/1.2?lang=eng#1)),
+"whether it be by mine own voice or by the voice of my servants, it is the
+same" ([D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37)).
 
 I raise my voice in solemn testimony that these earth-and-heaven encompassing
 events actually occurred, that the Savior literally lives, and that his power
 is vested in The Church of Jesus Christ of Latter-day Saints. May the Lord
 bless you, my friends, that you will see and hear and understand. Why not
 begin that trek today? I pray, in the name of Jesus Christ, amen.
+
+## References
 

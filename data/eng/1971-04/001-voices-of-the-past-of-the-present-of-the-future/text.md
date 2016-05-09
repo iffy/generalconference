@@ -15,8 +15,7 @@ battle?
 "... for ye shall speak into the air.
 
 "There are ... so many kinds of voices in the world, and none of them is without
-signification." ([1 Cor.
-14:8-10](https://www.lds.org/scriptures/nt/1-cor/14.8-10?lang=eng#7).)
+signification." ([1 Cor. 14:8-10](/scriptures/nt/1-cor/14.8-10?lang=eng#7).)
 
 Paul's was an impressive voice, powerful and strong, never silenced in all the
 interim centuries.
@@ -32,7 +31,7 @@ seducing spirits, and doctrines of devils;
 "Speaking lies in hypocrisy; having their conscience seared with a hot iron;
 
 "Forbidding to marry, and commanding to abstain from meats. ..." ([1 Tim.
-4:1](https://www.lds.org/scriptures/nt/1-tim/4.1?lang=eng#0).)
+4:1](/scriptures/nt/1-tim/4.1?lang=eng#0).)
 
 _Voices again! _Rasping voices proclaiming "doctrines of devils," saying there
 is no sin; there is no devil; there is no God. Saying that we will "eat,
@@ -43,9 +42,9 @@ Many voices of seducing spirits advocate carnal pleasures and unrestrained
 physical satisfactions. Our world is now much the same as it was in the days
 of the Nephite prophet who said: "... if it were not for the prayers of the
 righteous ... ye would even now be visited with utter destruction. ..." ([Alma
-10:22](https://www.lds.org/scriptures/bofm/alma/10.22?lang=eng#21).) Of
-course, there are many many upright and faithful who live all the commandments
-and whose lives and prayers keep the world from destruction.
+10:22](/scriptures/bofm/alma/10.22?lang=eng#21).) Of course, there are many
+many upright and faithful who live all the commandments and whose lives and
+prayers keep the world from destruction.
 
 We are living in the last days, and they are precarious and frightening. The
 shadows are deepening, and the night creeps in to envelop us.
@@ -60,7 +59,7 @@ disobedient to parents ... unholy,
 "Without natural affection ... incontinent, ...
 
 "... lovers of pleasures more than lovers of God." ([2 Tim.
-3:1-4](https://www.lds.org/scriptures/nt/2-tim/3.1-4?lang=eng#0).)
+3:1-4](/scriptures/nt/2-tim/3.1-4?lang=eng#0).)
 
 A prominent columnist wrote of our day: "One thing is certain. We shall be
 given no centuries for a leisurely and comfortable decay. We have an enemy now
@@ -117,25 +116,25 @@ mission field. Was that not his meaning when he said:
 "For I would that all men were even as I myself. ...
 
 "... It is good for them if they abide even as I." ([1 Cor.
-7:7-8](https://www.lds.org/scriptures/nt/1-cor/7.7-8?lang=eng#6).)
+7:7-8](/scriptures/nt/1-cor/7.7-8?lang=eng#6).)
 
 "But I keep under my body, and bring it into subjection. ..." ([1 Cor.
-9:27](https://www.lds.org/scriptures/nt/1-cor/9.27?lang=eng#26).)
+9:27](/scriptures/nt/1-cor/9.27?lang=eng#26).)
 
 Paul speaks of "lovers of pleasure more than lovers of God." Does that not
 describe the wanton sex permissiveness of our day?
 
 Paul speaks of those who "creep into houses, and lead captive silly women
 laden with sins, led away with divers lusts." ([2 Tim.
-3:6](https://www.lds.org/scriptures/nt/2-tim/3.6?lang=eng#5).)
+3:6](/scriptures/nt/2-tim/3.6?lang=eng#5).)
 
 Immorality seems to now receive the wink of approval of the once honorable
 people. Debauchery never gave birth to good of any kind, and Paul said: "But
 she that liveth in pleasure is dead while she liveth." ([1 Tim.
-5:6](https://www.lds.org/scriptures/nt/1-tim/5.6?lang=eng#5).) But now comes a
-heavenly voice: "Thou shalt not commit adultery; and he that committeth
-adultery, and repenteth not, shall be cast out." ([D&amp;C
-42:24](https://www.lds.org/scriptures/dc-testament/dc/42.24?lang=eng#23).)
+5:6](/scriptures/nt/1-tim/5.6?lang=eng#5).) But now comes a heavenly voice:
+"Thou shalt not commit adultery; and he that committeth adultery, and
+repenteth not, shall be cast out." ([D&amp;C 42:24](/scriptures/dc-
+testament/dc/42.24?lang=eng#23).)
 
 Many voices, loud and harsh, come from among educators, business and
 professional men, sociologists, psychologists, authors, movie actors,
@@ -148,11 +147,11 @@ voice of a Nephite prophet describing their acceptance of the "cunning plan of
 the evil one":
 
 "... to be learned is good if they hearken unto the counsels of God." ([2 Ne.
-9:29](https://www.lds.org/scriptures/bofm/2-ne/9.29?lang=eng#28).)
+9:29](/scriptures/bofm/2-ne/9.29?lang=eng#28).)
 
 "... When they are learned they think they are wise ... supposing they know of
 themselves, wherefore, their wisdom is foolishness. ... And they shall perish."
-([2 Ne. 9:28](https://www.lds.org/scriptures/bofm/2-ne/9.28?lang=eng#27).)
+([2 Ne. 9:28](/scriptures/bofm/2-ne/9.28?lang=eng#27).)
 
 Peter's voice was sure when he called the evil ones brute beasts who would
 perish in their own corruption. He called them "spots ... and blemishes,
@@ -161,7 +160,7 @@ adultery"; "beguiling unstable souls." He speaks of their "lusts of the flesh,
 through much wantonness"; and those who return to their sin after having been
 cleansed he likens to the dog returning to its vomit and the sow that has been
 washed returning to her wallowing again in the mire. (See [2 Pet.
-2:13-22](https://www.lds.org/scriptures/nt/2-pet/2.13-22?lang=eng#12).)
+2:13-22](/scriptures/nt/2-pet/2.13-22?lang=eng#12).)
 
 Sustaining Peter comes the voice of Paul to Titus:
 
@@ -170,7 +169,7 @@ unbelieving is nothing pure; but even their mind and conscience is defiled.
 
 "They profess that they know God; but in works they deny him, being
 abominable, and disobedient, and unto every good work reprobate." ([Titus
-1:15-16](https://www.lds.org/scriptures/nt/titus/1.15-16?lang=eng#14).)
+1:15-16](/scriptures/nt/titus/1.15-16?lang=eng#14).)
 
 Much has been said about the frustration of youth. While we can hardly justify
 their eccentricities and disobedience and their apparent loss of faith,
@@ -183,13 +182,11 @@ editorial rooms, or broadcasting stands, and even from the pulpit.
 
 Such voices may have to answer for their perpetuating falsehood and their
 failure to give true leadership in combating evil. "... as with the people, so
-with the priest. ..." ([Isa.
-24:2](https://www.lds.org/scriptures/ot/isa/24.2?lang=eng#1).) The term
-_priest _is here used to denote all religious leaders of any faith. Isaiah
-said: "The earth also is defiled under the inhabitants thereof; because they
-have transgressed the laws, changed the ordinance, broken the everlasting
-covenant." ([Isa.
-24:5](https://www.lds.org/scriptures/ot/isa/24.5?lang=eng#4).) From among the
+with the priest. ..." ([Isa. 24:2](/scriptures/ot/isa/24.2?lang=eng#1).) The
+term _priest _is here used to denote all religious leaders of any faith.
+Isaiah said: "The earth also is defiled under the inhabitants thereof; because
+they have transgressed the laws, changed the ordinance, broken the everlasting
+covenant." ([Isa. 24:5](/scriptures/ot/isa/24.5?lang=eng#4).) From among the
 discordant voices we are shocked at those of many priests who encourage the
 defilement of men and wink at the eroding trends and who deny the omniscience
 of God. Certainly these men should be holding firm, yet some yield to popular
@@ -213,7 +210,7 @@ false teachers among you, who privily shall bring in damnable heresies, even
 denying the Lord that brought them. ...
 
 "And many shall follow their pernicious ways. ..." ([2 Pet.
-2:1-2](https://www.lds.org/scriptures/nt/2-pet/2.1-2?lang=eng#0).)
+2:1-2](/scriptures/nt/2-pet/2.1-2?lang=eng#0).)
 
 Only this month the press quoted the retired head of a populous church
 proposing "revival of old-style betrothals which would permit young unmarried
@@ -321,12 +318,12 @@ dwelleth in you?
 
 "If any man defile the temple of God, him shall God destroy; for the temple of
 God is holy, which temple ye are." ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
 
 And the voice of Deity: "I am Jesus Christ; ...
 
 "I command thee that thou shalt not covet thy neighbor's wife; nor seek thy
-neighbor's life." ([D&amp;C 19:24-25](https://www.lds.org/scriptures/dc-
+neighbor's life." ([D&amp;C 19:24-25](/scriptures/dc-
 testament/dc/19.24-25?lang=eng#23).)
 
 Sex involvement outside of marriage locks doors to temples and thus bars the
@@ -356,9 +353,10 @@ suffer if they would repent;
 
 "Which suffering caused myself, even God, the greatest of all, to tremble
 because of pain, and to bleed at every pore. ..." ([D&amp;C
-19:15-18](https://www.lds.org/scriptures/dc-
-testament/dc/19.15-18?lang=eng#14).)
+19:15-18](/scriptures/dc-testament/dc/19.15-18?lang=eng#14).)
 
 May the voices of the Lord's servants prevail, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

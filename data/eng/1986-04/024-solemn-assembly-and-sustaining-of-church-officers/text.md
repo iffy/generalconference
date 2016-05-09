@@ -154,3 +154,5 @@ We shall ask now that Elders Andersen, Cannon, Gibbons, and Russell come
 forward and take their places with the First Quorum of the Seventy, and we
 invite Sister Malan also to come forward and sit with Sister Kapp.
 
+## References
+

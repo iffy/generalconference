@@ -38,8 +38,7 @@ they know of themselves, wherefore, their wisdom is foolishness and it
 profiteth them not. And they shall perish.
 
 "But to be learned is good _if_ they hearken unto the counsels of God." ([2
-Ne. 9:28-29](https://www.lds.org/scriptures/bofm/2-ne/9.28-29?lang=eng#27);
-italics added.)
+Ne. 9:28-29](/scriptures/bofm/2-ne/9.28-29?lang=eng#27); italics added.)
 
 What happens without spiritual learning? What happens to the pilot of a glider
 when he is cut loose from the power of his tow plane? There may be banks and
@@ -59,10 +58,9 @@ that our power to do is increased.'" (in Conference Report, Apr. 1901, p. 63.)
 
 The Lord, through his prophet Lehi, said, "It must needs be, that there is an
 opposition in all things." ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).) So, in
-reality, competition forces us to improve. It deserves our praise and our
-gratitude. Without it we could not reach the heights that are otherwise ours
-to achieve.
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10).) So, in reality, competition
+forces us to improve. It deserves our praise and our gratitude. Without it we
+could not reach the heights that are otherwise ours to achieve.
 
 But our labor can be misdirected. One can be anxiously engaged in a
 meaningless cause. Or one can do something wrong a hundred times and call it
@@ -72,7 +70,7 @@ Lamanites taught this lesson: "Rather than shed the blood of their brethren
 they would give up their own lives; and rather than take away from a brother
 they would give unto him; and rather than spend their days in idleness they
 would labor abundantly with their hands." ([Alma
-24:18](https://www.lds.org/scriptures/bofm/alma/24.18?lang=eng#17).)
+24:18](/scriptures/bofm/alma/24.18?lang=eng#17).)
 
 ## Power of Obedience to Law
 
@@ -80,8 +78,7 @@ Next, consider the power of obedience to law. One of the great applications of
 spiritual power is obeying the laws of both God and man. Freedom to act and
 mastery of our actions both emanate from law. "When we obtain any blessing
 from God, it is by obedience to that law upon which it is predicated."
-([D&amp;C 130:21](https://www.lds.org/scriptures/dc-
-testament/dc/130.21?lang=eng#20).)
+([D&amp;C 130:21](/scriptures/dc-testament/dc/130.21?lang=eng#20).)
 
 I relearned that so well from President Kimball. On one occasion when he
 needed an operation that I was to perform, he first asked me for a priesthood
@@ -137,7 +134,7 @@ of evil still burn. But as loud voices argue on, let us remember that those
 who advocate abortion have already been born! Those who freely deny God with
 their amoral and agnostic practices will one day find that He may just as
 freely deny them! (See [3 Ne.
-28:34](https://www.lds.org/scriptures/bofm/3-ne/28.34?lang=eng#33).)
+28:34](/scriptures/bofm/3-ne/28.34?lang=eng#33).)
 
 ## Source of Spiritual Power
 
@@ -150,17 +147,16 @@ spiritual power can be used for time and _eternity!_
 
 Our spiritual power line is strengthened through prayer. As we counsel with
 God in all our doings, he will direct us for good. (See [Alma
-37:37](https://www.lds.org/scriptures/bofm/alma/37.37?lang=eng#36).) Prayer is
-available whenever we ask for it!
+37:37](/scriptures/bofm/alma/37.37?lang=eng#36).) Prayer is available whenever
+we ask for it!
 
 But the Lord places the initiative upon us. He expects us to reach for his
 power, just as we must insert the plug in the outlet for electricity. He said,
 "If thou shalt _ask,_ thou shalt receive revelation upon revelation, knowledge
 upon knowledge, that thou mayest know the mysteries and peaceable things--that
 which bringeth joy, that which bringeth life eternal." ([D&amp;C
-42:61](https://www.lds.org/scriptures/dc-testament/dc/42.61?lang=eng#60);
-italics added.) Personal worthiness and scripture study enable us to do more
-with this power.
+42:61](/scriptures/dc-testament/dc/42.61?lang=eng#60); italics added.)
+Personal worthiness and scripture study enable us to do more with this power.
 
 Rewards result from the righteous use of the spiritual power belonging to the
 priesthood! And they are so great that they are almost beyond human
@@ -171,9 +167,8 @@ crowded kitchen and thin pocketbook, service in the Church, education and the
 burning of the midnight oil, the Lord makes this promise: "Ye shall come forth
 in the first resurrection; ... and shall inherit thrones, kingdoms,
 principalities, and _powers,_ dominions, ... [and there] shall be a fulness and
-a continuation of the seeds forever and ever." ([D&amp;C
-132:19](https://www.lds.org/scriptures/dc-testament/dc/132.19?lang=eng#18);
-italics added.)
+a continuation of the seeds forever and ever." ([D&amp;C 132:19](/scriptures
+/dc-testament/dc/132.19?lang=eng#18); italics added.)
 
 The spiritual power line conveys revelation. Revelation is given to the
 President for the Church, and to leaders and teachers in their respective
@@ -199,13 +194,12 @@ lost all feelings of worth.
 
 Remember, "The rights of the priesthood are inseparably connected with the
 powers of heaven, and ... the powers of heaven cannot be controlled nor handled
-_only_ upon the principles of righteousness." ([D&amp;C
-121:36](https://www.lds.org/scriptures/dc-testament/dc/121.36?lang=eng#35);
-italics added.)
+_only_ upon the principles of righteousness." ([D&amp;C 121:36](/scriptures
+/dc-testament/dc/121.36?lang=eng#35); italics added.)
 
 The unrighteous use of priesthood authority surely severs the connection to
-the Source of that authority. (See [D&amp;C
-121:37](https://www.lds.org/scriptures/dc-testament/dc/121.37?lang=eng#36).)
+the Source of that authority. (See [D&amp;C 121:37](/scriptures/dc-
+testament/dc/121.37?lang=eng#36).)
 
 Worship strengthens our power line to deity. _There can be no true worship
 without sacrifice, and there can be no true sacrifice without a cause._ The
@@ -213,9 +207,9 @@ cause that earns our love and priority is the cause of Jesus Christ.
 
 Speaking of his own atonement, the Savior proclaimed, "To this end was I born,
 and for this cause came I into the world." ([John
-18:37](https://www.lds.org/scriptures/nt/john/18.37?lang=eng#36).) His example
-of worship, sacrifice, and commitment to cause becomes ours! His is the
-ultimate source of all our power to do good.
+18:37](/scriptures/nt/john/18.37?lang=eng#36).) His example of worship,
+sacrifice, and commitment to cause becomes ours! His is the ultimate source of
+all our power to do good.
 
 As we carefully and prayerfully protect the spiritual power line that links us
 to the Savior, we become more like him!
@@ -223,4 +217,6 @@ to the Savior, we become more like him!
 Of his sacred name and mission I solemnly bear special witness. Of his divine
 sonship I proclaim sacred testimony. That this is his church I fervently
 declare, in the name of Jesus Christ, amen.
+
+## References
 

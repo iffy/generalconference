@@ -98,8 +98,7 @@ exalted, in that the rich are made low.
 
 "For the earth is full, and there is enough and to spare; yea, I prepared all
 things, and have given unto the children of men to be agents unto themselves."
-([D&amp;C 104:14-17](https://www.lds.org/scriptures/dc-
-testament/dc/104.14-17?lang=eng#13).)
+([D&amp;C 104:14-17](/scriptures/dc-testament/dc/104.14-17?lang=eng#13).)
 
 The underlying principles of God's economy for the temporal salvation of His
 saints are clearly revealed in this scripture. Proclaiming Himself the creator
@@ -116,10 +115,9 @@ made low."
 Following His way is indispensable to a well-ordered society.
 
 We Latter-day Saints know that all men are brothers and sisters--"begotten
-sons and daughters unto God" ([D&amp;C 76:24](https://www.lds.org/scriptures
-/dc-testament/dc/76.24?lang=eng#23))--that we are responsible for the welfare
-of one another. These concepts are inherent in all the doctrines of the
-gospel.
+sons and daughters unto God" ([D&amp;C 76:24](/scriptures/dc-
+testament/dc/76.24?lang=eng#23))--that we are responsible for the welfare of
+one another. These concepts are inherent in all the doctrines of the gospel.
 
 We know that the ills of this troubled world have come about because men have
 failed to do what the Lord has commanded them. This applies to economic
@@ -128,12 +126,12 @@ them is to do all things whatsoever the Lord our God commands us.
 
 We know that the day will come when "every man" shall share equally in the
 good things of earth, "according to his family, according to his circumstances
-and his wants and needs." ([D&amp;C 51:3](https://www.lds.org/scriptures/dc-
+and his wants and needs." ([D&amp;C 51:3](/scriptures/dc-
 testament/dc/51.3?lang=eng#2).) We also know that attaining such equality must
 await the time when all men willingly work to sustain themselves and,
 motivated by love for their fellowmen, liberally "impart" of their substance
 unto the poor and the needy, "according to the law of [the] gospel." ([D&amp;C
-104:18](https://www.lds.org/scriptures/dc-testament/dc/104.18?lang=eng#17).)
+104:18](/scriptures/dc-testament/dc/104.18?lang=eng#17).)
 
 It is the responsibility of every Latter-day Saint to work and so impart of
 his substance, regardless of the shifting standards of this world. We must
@@ -160,17 +158,16 @@ spiritual things.
 
 Paul's statement, "By grace are ye saved through faith; and that not of
 yourselves: it is the gift of God: Not of works, lest any man should boast"
-([Eph. 2:8-9](https://www.lds.org/scriptures/nt/eph/2.8-9?lang=eng#7)), has
-been misunderstood. Some have interpreted it to mean that works are not
-necessary. This is an erroneous conclusion.
+([Eph. 2:8-9](/scriptures/nt/eph/2.8-9?lang=eng#7)), has been misunderstood.
+Some have interpreted it to mean that works are not necessary. This is an
+erroneous conclusion.
 
 The truth is that we are saved by grace only after all we ourselves can do.
-(See [2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22).) There
-will be no government dole which can get us through the pearly gates. Nor will
-anybody go into the celestial kingdom who wants to go there on the works of
-someone else. Every man must go through on his own merits. We might just as
-well learn this here and now.
+(See [2 Ne. 25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22).) There will be no
+government dole which can get us through the pearly gates. Nor will anybody go
+into the celestial kingdom who wants to go there on the works of someone else.
+Every man must go through on his own merits. We might just as well learn this
+here and now.
 
 The first principle of action in the Lord's plan for our temporal salvation
 is, therefore, to take care of ourselves. This principle is so important that
@@ -178,8 +175,7 @@ the Lord said to Adam, as he was about to leave the Garden of Eden, "Because
 thou hast hearkened unto the voice of thy wife, and hast eaten of the fruit of
 the tree of which I commanded thee, saying--Thou shalt not eat of it, cursed
 shall be the ground for thy sake; in sorrow shalt thou eat of it all the days
-of thy life." ([Moses
-4:23](https://www.lds.org/scriptures/pgp/moses/4.23?lang=eng#22).)
+of thy life." ([Moses 4:23](/scriptures/pgp/moses/4.23?lang=eng#22).)
 
 Note that the curse was not placed upon Adam, but upon the ground for Adam's
 sake. Rather than a curse upon Adam, it was a blessing to him. It launched him
@@ -193,8 +189,7 @@ Since that eventful day in Eden, the Lord has frequently reemphasized the fact
 that individual effort is the basic principle in His economy--both spiritual
 and temporal. Let us never forget that the Lord's way to provide for His
 saints is "that the poor shall be exalted, in that the rich are made low."
-([D&amp;C 104:16](https://www.lds.org/scriptures/dc-
-testament/dc/104.16?lang=eng#15).)
+([D&amp;C 104:16](/scriptures/dc-testament/dc/104.16?lang=eng#15).)
 
 The poor can be exalted when and only when they are enabled to obtain
 independence and self-respect through their own industry and thrift. Our duty
@@ -202,10 +197,9 @@ is to enable them to do this.
 
 "The rich are made low" when they evidence their obedience to the second great
 commandment--"Thou shalt love thy neighbour as thyself" ([Matt.
-22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38))--by
-imparting of their substance "according to the law of [the] gospel, unto the
-poor and the needy." ([D&amp;C 104:18](https://www.lds.org/scriptures/dc-
-testament/dc/104.18?lang=eng#17).)
+22:39](/scriptures/nt/matt/22.39?lang=eng#38))--by imparting of their
+substance "according to the law of [the] gospel, unto the poor and the needy."
+([D&amp;C 104:18](/scriptures/dc-testament/dc/104.18?lang=eng#17).)
 
 In addition to maintaining our independence and self-respect by means of our
 own industry, and seeing to it that those to whom we extend Church welfare
@@ -220,10 +214,10 @@ of President Clark:
 will remember that Moses received the "ten commandments, and one of them was
 'Honour thy father and thy mother: that thy days may be long upon the land
 which the Lord thy God giveth thee.' ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).) ... I call your
-attention [first] to the command and then to the promise: 'Honor thy father
-and thy mother'--the command. The promise: 'That thy days may be long upon the
-land which the Lord thy God giveth thee.' ...
+20:12](/scriptures/ot/ex/20.12?lang=eng#11).) ... I call your attention [first]
+to the command and then to the promise: 'Honor thy father and thy mother'--the
+command. The promise: 'That thy days may be long upon the land which the Lord
+thy God giveth thee.' ...
 
 "Israel departed from this command, and in the time of the Savior the Jews had
 gotten so far away from it that the Lord took occasion to explain it to them
@@ -244,8 +238,7 @@ by whatsoever thou mightest be profited by me;_
 
 "'_And honour not his father or his mother, he shall be free. Thus have ye
 made the commandment of God of none effect by your tradition.' _([Matt.
-15:3-6](https://www.lds.org/scriptures/nt/matt/15.3-6?lang=eng#2) [italics
-added].)
+15:3-6](/scriptures/nt/matt/15.3-6?lang=eng#2) [italics added].)
 
 "That is the account in Matthew. The account is virtually the same in Mark:
 
@@ -257,8 +250,7 @@ is to say, a gift, by whatsoever thou mightest be profited by me; he shall be
 free._
 
 "'_And ye suffer him no more to do ought for his father or his mother._'
-([Mark 7:10-12](https://www.lds.org/scriptures/nt/mark/7.10-12?lang=eng#9)
-[italics added].)
+([Mark 7:10-12](/scriptures/nt/mark/7.10-12?lang=eng#9) [italics added].)
 
 "This means [explains President Clark] that in place of observing the
 responsibility imposed by the Lord upon children to care for their parents,
@@ -283,8 +275,7 @@ saying,_
 their lips; but their heart is far from me._
 
 "'_But in vain they do worship me, teaching for doctrines the commandments of
-men.' _([Matt.
-15:7-9](https://www.lds.org/scriptures/nt/matt/15.7-9?lang=eng#6) [italics
+men.' _([Matt. 15:7-9](/scriptures/nt/matt/15.7-9?lang=eng#6) [italics
 added].)
 
 "Now I repeat to you, brethren, that command is without restriction. It runs
@@ -293,8 +284,7 @@ command follows Israel in whatever land they may reside.
 
 "'_Honour thy father and thy mother: that thy days may be long upon the land
 which the Lord thy God giveth thee._' ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11) [italics
-added].)
+20:12](/scriptures/ot/ex/20.12?lang=eng#11) [italics added].)
 
 "This land of ours is a chosen land to Joseph. I believe the promise applies
 here. In the Book of Mormon we are told what will happen to those who dwell on
@@ -312,4 +302,6 @@ we shall obey or disobey; and if we disobey we must abide the penalty."
 
 That the Lord will give us the wisdom and the courage to understand and live
 by this principle, I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

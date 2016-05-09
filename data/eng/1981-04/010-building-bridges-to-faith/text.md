@@ -17,24 +17,22 @@ on Faith,_ comp. N. B. Lundwall, Salt Lake City: N. B. Lundwall, n.d., pp. 7,
 
 And Jacob teaches that the Lord commands all men that they must have "perfect
 faith in the Holy One of Israel, or they cannot be saved in the Kingdom of
-God." ([2 Ne.
-9:23](https://www.lds.org/scriptures/bofm/2-ne/9.23?lang=eng#22).)
+God." ([2 Ne. 9:23](/scriptures/bofm/2-ne/9.23?lang=eng#22).)
 
 As a principle of power and of action, and as the key to our salvation, our
 individual faith, then, becomes of absolute importance to us.
 
 Paul admonished us to "be thou an example of the believers, in word, in
 conversation, in charity, in spirit, in faith, in purity." ([1 Tim.
-4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).)
+4:12](/scriptures/nt/1-tim/4.12?lang=eng#11).)
 
 "If ye can no more than desire to believe," said Alma, "let this desire work
 in you, even until ye believe in a manner that ye can give place for a portion
-of my words." ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26).)
+of my words." ([Alma 32:27](/scriptures/bofm/alma/32.27?lang=eng#26).)
 
 Moroni says, "Dispute not because ye see not, for ye receive no witness until
 after the trial of your faith." ([Ether
-12:6](https://www.lds.org/scriptures/bofm/ether/12.6?lang=eng#5).)
+12:6](/scriptures/bofm/ether/12.6?lang=eng#5).)
 
 There are many steps a person can take to develop the gift and power of faith.
 In the next few minutes I would like to suggest six of these steps.
@@ -47,8 +45,7 @@ As King Benjamin put it:
 "Believe in God; believe that he is, and that he created all things, both in
 heaven and in earth; believe that he has all wisdom, and all power, both in
 heaven and in earth; believe that man doth not comprehend all things which the
-Lord can comprehend." ([Mosiah
-4:9](https://www.lds.org/scriptures/bofm/mosiah/4.9?lang=eng#8).)
+Lord can comprehend." ([Mosiah 4:9](/scriptures/bofm/mosiah/4.9?lang=eng#8).)
 
 Sometimes we compartmentalize. We pray about one thing and worry about
 something else. We seem to limit the ability of the Lord to help us in every
@@ -115,8 +112,7 @@ Number four: Faith is the ability to act "as if."
 In his teachings, Paul said:
 
 "By faith Noah, being warned of God of things not seen ... prepared an ark to
-the saving of his house." ([Heb.
-11:7](https://www.lds.org/scriptures/nt/heb/11.7?lang=eng#6).)
+the saving of his house." ([Heb. 11:7](/scriptures/nt/heb/11.7?lang=eng#6).)
 
 President Kimball gives us this insight to Noah and the ark:
 
@@ -154,7 +150,7 @@ Number five: Faith is the ability to be charitable and to believe in people.
 The Savior of the world is the foremost example of this love. After having
 been rejected and despised, he asked his Father to forgive those who crucified
 him because "they know not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 Joseph Smith is another example. After living a life filled with trials and
 betrayals, he said as he was going to Carthage:
@@ -195,14 +191,14 @@ evangelists; and some, pastors and teachers." And here he tells us why these
 priesthood leaders have been given to the Saints: "till we all come in the
 unity of the faith, and of the knowledge of the Son of God, unto a perfect
 man, unto the measure of the stature of the fulness of Christ." ([Eph. 4:11,
-13](https://www.lds.org/scriptures/nt/eph/4.11%2C13?lang=eng#10).)
+13](/scriptures/nt/eph/4.11,13?lang=eng#10).)
 
 Priesthood leaders, all leaders who have been called by revelation under the
 hands of the priesthood, have been given to us so we can come to a unity of
 the faith, to the end that we might know the Savior and have his image in our
 countenance and become like him, "that every man might speak in the name of
-God the Lord, even the Savior of the world." ([D&amp;C
-1:20](https://www.lds.org/scriptures/dc-testament/dc/1.20?lang=eng#19).)
+God the Lord, even the Savior of the world." ([D&amp;C 1:20](/scriptures/dc-
+testament/dc/1.20?lang=eng#19).)
 
 Years ago, President Joseph Fielding Smith, then a member of the Quorum of the
 Twelve, attended a stake conference where a relatively new stake president had
@@ -237,4 +233,6 @@ midst of apostles and prophets today.
 
 May the Lord bless us with faith as we go forward in our lives, in the name of
 Jesus Christ, amen.
+
+## References
 

@@ -7,15 +7,14 @@ uprightly before the Lord and to keep his laws and commandments. It is the
 only way we can find our way to the eternal life that God has held out to the
 faithful of his people. In fact, our God gave this promise: "... if you keep my
 commandments and endure to the end you shall have eternal life, which gift is
-the greatest of all the gifts of God." ([D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).)
+the greatest of all the gifts of God." ([D&amp;C 14:7](/scriptures/dc-
+testament/dc/14.7?lang=eng#6).)
 
-"Behold, he that hath eternal life is rich." ([D&amp;C
-6:7](https://www.lds.org/scriptures/dc-testament/dc/6.7?lang=eng#6).) Very few
-people give enough thought to eternal life. Yet it is something each of us
-should keep uppermost in our minds and hearts. As children of God, we cannot
-afford to forget our origin and destiny if we desire the realms of celestial
-glory.
+"Behold, he that hath eternal life is rich." ([D&amp;C 6:7](/scriptures/dc-
+testament/dc/6.7?lang=eng#6).) Very few people give enough thought to eternal
+life. Yet it is something each of us should keep uppermost in our minds and
+hearts. As children of God, we cannot afford to forget our origin and destiny
+if we desire the realms of celestial glory.
 
 Through revelation, God has given the gospel plan of salvation and exaltation
 for men to live by. Eternal life is God's life, which he hopes to share with
@@ -23,7 +22,7 @@ all his children. But we are free to act for ourselves, "... to choose liberty
 and eternal life, through the great mediation of all men, or to choose
 captivity and death, according to the captivity and power of the devil; for he
 seeketh that all men might be miserable like unto himself." ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).)
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).)
 
 The first step on the path to eternal life is baptism. Our Savior set the
 example when he went into the water with John the Baptist, who was authorized
@@ -31,7 +30,7 @@ of God to baptize Jesus by immersion. This sets the mode of baptism for all
 men to follow.
 
 The apostle Paul taught that there is "one Lord, one faith, one baptism."
-([Eph. 4:5](https://www.lds.org/scriptures/nt/eph/4.5?lang=eng#4).)
+([Eph. 4:5](/scriptures/nt/eph/4.5?lang=eng#4).)
 
 Christ is the one Lord, the gospel plan taught by him is the one faith, and
 his baptism by immersion is the one baptism.
@@ -41,34 +40,29 @@ ye should enter is repentance and baptism by water; and then cometh a
 remission of your sins by fire and by the Holy Ghost.
 
 "And then are ye in this strait and narrow path which leads to eternal life.
-..." ([2 Ne.
-31:17-18](https://www.lds.org/scriptures/bofm/2-ne/31.17-18?lang=eng#16).)
+..." ([2 Ne. 31:17-18](/scriptures/bofm/2-ne/31.17-18?lang=eng#16).)
 
 "Enter ye in at the strait gate: ..." said our Lord, "because strait is the
 gate, and narrow is the way which leadeth unto life, and few there be that
-find it." ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).)
+find it." ([Matt. 7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).)
 
 Christ made this positive statement: "I am the way, the truth, and the life:
 no man cometh unto the Father, but by me." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).) If we believe
-in Christ and his mission, we cannot bypass him and obtain eternal life. The
-Savior gave his life as an atoning sacrifice for the sins of the world, thus
-opening the door for man who, through faithfulness, may gain eternal life and
-exaltation.
+14:6](/scriptures/nt/john/14.6?lang=eng#5).) If we believe in Christ and his
+mission, we cannot bypass him and obtain eternal life. The Savior gave his
+life as an atoning sacrifice for the sins of the world, thus opening the door
+for man who, through faithfulness, may gain eternal life and exaltation.
 
 However, conversion and baptism alone are not sufficient to one's assurance of
 eternal life. To receive exaltation in the kingdom of God, a person must abide
-the fulness of celestial law. (See [D&amp;C
-76:50-70](https://www.lds.org/scriptures/dc-
+the fulness of celestial law. (See [D&amp;C 76:50-70](/scriptures/dc-
 testament/dc/76.50-70?lang=eng#49).)
 
 Some people erroneously think if they receive all the ordinances of the
 gospel, regardless of their transgressions, they will inherit the celestial
 mansions of our God. What a rude awakening awaits such false-thinking
 individuals, "... for the Lord cannot look upon sin with the least degree of
-allowance." ([Alma
-45:16](https://www.lds.org/scriptures/bofm/alma/45.16?lang=eng#15).)
+allowance." ([Alma 45:16](/scriptures/bofm/alma/45.16?lang=eng#15).)
 
 Listen to the teachings of Nephi on this subject: "Yea, and there shall be
 many which shall say: Eat, drink, and be merry, for tomorrow we die; and it
@@ -84,15 +78,14 @@ and at last we shall be saved in the kingdom of God.
 "Yea, and there shall be many which shall teach after this manner, false and
 vain and foolish doctrines, and shall be puffed up in their hearts, and shall
 seek deep to hide their counsels from the Lord; and their works shall be in
-the dark." ([2 Ne.
-28:7-9](https://www.lds.org/scriptures/bofm/2-ne/28.7-9?lang=eng#6).)
+the dark." ([2 Ne. 28:7-9](/scriptures/bofm/2-ne/28.7-9?lang=eng#6).)
 
 We must not fall to the misleading precepts of man and foolishly break God's
 laws and thus lose our opportunity for exaltation. Jesus stated:
 
 "Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of
 heaven; but he that doeth the will of my Father which is in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).)
+7:21](/scriptures/nt/matt/7.21?lang=eng#20).)
 
 A person earnestly seeking eternal life must avoid the pitfalls of temptation
 and sin. He is never safe from committing sin unless he has fully prepared
@@ -113,9 +106,8 @@ of evil persuasion, to faithfully stay on the Lord's side.
 We cannot mix evil with good and attain the eternal mansions of our Heavenly
 Father. Our duty is to constantly do the works of righteousness. The Lord has
 said that light and truth, which is the word of God, forsake the evil one.
-(See [D&amp;C 93:37](https://www.lds.org/scriptures/dc-
-testament/dc/93.37?lang=eng#36).) Without light and truth in our lives, we are
-subject to the powers of Satan.
+(See [D&amp;C 93:37](/scriptures/dc-testament/dc/93.37?lang=eng#36).) Without
+light and truth in our lives, we are subject to the powers of Satan.
 
 We must be ever aware of the deceiving servants of the Satanic hosts. The
 stratagems of Satan are many to entrap mankind in his powerful clutches. Some
@@ -125,7 +117,7 @@ money, dishonesty, and corruptive practices.
 The Savior taught his disciples: "No man can serve two masters: for either he
 will hate the one, and love the other; or else he will hold to the one, and
 despise the other. Ye cannot serve God and mammon." ([Matt.
-6:24](https://www.lds.org/scriptures/nt/matt/6.24?lang=eng#23).)
+6:24](/scriptures/nt/matt/6.24?lang=eng#23).)
 
 This can be stated another way: You cannot serve both God and Satan. Life is a
 real challenge, but blessed with God-given powers, we can overcome every
@@ -145,8 +137,7 @@ world.
 "For behold, if ye have procrastinated the day of your repentance even until
 death, behold, ye have become subjected to the spirit of the devil, ...
 therefore, the Spirit of the Lord hath withdrawn from you, and hath no place
-in you. ..." ([Alma
-34:34-35](https://www.lds.org/scriptures/bofm/alma/34.34-35?lang=eng#33).)
+in you. ..." ([Alma 34:34-35](/scriptures/bofm/alma/34.34-35?lang=eng#33).)
 
 We need the constant companionship of the Holy Spirit. Without it we are
 deprived of its spiritual guidance and lose our sense of eternal values and
@@ -155,19 +146,19 @@ drift further into disbelief and evil practices.
 The Lord is displeased with those who do not forsake their wicked ways, the
 pride of their hearts, their covetousness, and all their detestable things,
 which keep them from the eternal life he has offered unto them. (See [D&amp;C
-98:20](https://www.lds.org/scriptures/dc-testament/dc/98.20?lang=eng#19).)
+98:20](/scriptures/dc-testament/dc/98.20?lang=eng#19).)
 
 "But this much I can tell you," said King Benjamin to his people, "that if ye
 do not watch yourselves, and your thoughts, and your words, and your deeds,
 and observe the commandments of God, and continue in the faith ... even unto the
 end of your lives, ye must perish. And now, O man, remember, and perish not."
-([Mosiah 4:30](https://www.lds.org/scriptures/bofm/mosiah/4.30?lang=eng#29).)
+([Mosiah 4:30](/scriptures/bofm/mosiah/4.30?lang=eng#29).)
 
 The invitation for eternal life is open to all who are willing to pay the
 price. The Lord has said: "Yea, blessed are they ... who have obeyed my gospel;
 for they shall receive for their reward the good things of the earth, ... and ...
 shall also be crowned with the blessings from above ... they that are faithful
-and diligent before me." ([D&amp;C 59:3-4](https://www.lds.org/scriptures/dc-
+and diligent before me." ([D&amp;C 59:3-4](/scriptures/dc-
 testament/dc/59.3-4?lang=eng#2).)
 
 Entering into sacred covenants and obligations with God is not all that is
@@ -181,7 +172,7 @@ is mighty to save.
 perfect brightness of hope, and a love of God and of all men. Wherefore, if ye
 shall press forward, feasting upon the word of Christ, and endure to the end,
 behold, thus saith the Father: Ye shall have eternal life." ([2 Ne.
-31:19-20](https://www.lds.org/scriptures/bofm/2-ne/31.19-20?lang=eng#18).)
+31:19-20](/scriptures/bofm/2-ne/31.19-20?lang=eng#18).)
 
 We cannot stand idly by, being merely an interested spectator, rather than a
 participating member, and still receive the blessing of eternal life. It is
@@ -216,4 +207,6 @@ beloved Harold B. Lee. He is a great individual and one whom we can admire,
 respect, and look up to for teaching, counsel, and guidance. May God bless us
 to be faithful and true to all the covenants and obligations we have entered
 into with him, I ask in the name of Jesus Christ. Amen.
+
+## References
 

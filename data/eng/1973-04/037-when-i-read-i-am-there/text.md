@@ -28,16 +28,14 @@ said: "These words are not of men nor of man, but of me; ... For it is my voice
 which speaketh them unto you; for they are given by my Spirit unto you, and by
 my power you can read them one to another. ... [Notice he said read them.]
 Wherefore, you can testify that you have heard my voice, and know my words."
-([D&amp;C 18:34-36](https://www.lds.org/scriptures/dc-
-testament/dc/18.34-36?lang=eng#33).)
+([D&amp;C 18:34-36](/scriptures/dc-testament/dc/18.34-36?lang=eng#33).)
 
 I begin by learning that all things were made by him, and without him was not
 anything made that was made. (See [John
-1:3](https://www.lds.org/scriptures/nt/john/1.3?lang=eng#2).) It is plain that
-this great being, this Word, as John expressed it, was made flesh and dwelt
-among us (see [John
-1:14](https://www.lds.org/scriptures/nt/john/1.14?lang=eng#13)) and was
-identified as the Only Begotten in the flesh, the Lord Jesus Christ.
+1:3](/scriptures/nt/john/1.3?lang=eng#2).) It is plain that this great being,
+this Word, as John expressed it, was made flesh and dwelt among us (see [John
+1:14](/scriptures/nt/john/1.14?lang=eng#13)) and was identified as the Only
+Begotten in the flesh, the Lord Jesus Christ.
 
 I learn, too, that all of the children of God were organized as spirits to
 come to the earth to be tested, to see if they would obey the principles of
@@ -45,9 +43,9 @@ salvation and exaltation as proposed by this Son. They were told: "We will go
 down, ... and we will make an earth whereon these may dwell; And we will prove
 them herewith, to see if they will do all things whatsoever the Lord their God
 shall command them." ([Abr.
-3:24-25](https://www.lds.org/scriptures/pgp/abr/3.24-25?lang=eng#23).) Then,
-in due time, he himself came to earth, the light and life of men. (See [John
-1:4](https://www.lds.org/scriptures/nt/john/1.4?lang=eng#3).)
+3:24-25](/scriptures/pgp/abr/3.24-25?lang=eng#23).) Then, in due time, he
+himself came to earth, the light and life of men. (See [John
+1:4](/scriptures/nt/john/1.4?lang=eng#3).)
 
 Believing this with all my heart, I read of the earthly life of this great
 being, the Messiah. I learn that when he was born, a host of angels sang
@@ -60,12 +58,10 @@ leave valuable gifts which could be used to sustain his family.
 I am thrilled when I read of the scene at Jordan. There came the Son of God,
 unmarked and unknown; yet, recognizing him by the Spirit, John the Baptist
 could not help crying out: "Behold the Lamb of God, which taketh away the sin
-of the world." ([John
-1:29](https://www.lds.org/scriptures/nt/john/1.29?lang=eng#28).) What do you
-imagine could have been John's feeling when, after the baptism, he heard a
+of the world." ([John 1:29](/scriptures/nt/john/1.29?lang=eng#28).) What do
+you imagine could have been John's feeling when, after the baptism, he heard a
 voice out of the heavens say in holy confirmation: "This is my beloved Son, in
-whom I am well pleased"? ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).)
+whom I am well pleased"? ([Matt. 3:17](/scriptures/nt/matt/3.17?lang=eng#16).)
 
 Then later, as I follow his life, I sense the extraordinary importance of this
 climb up the mountain with three fishermen who did not yet quite know what it
@@ -74,8 +70,7 @@ before them and their eyes were opened to the presence of Moses and Elijah,
 they heard the same solemn witness as had John, only this time it came from a
 bright cloud nearby, which overshadowed them. In my soul I hear the solemn
 words from out the cloud saying: "This is my beloved Son, in whom I am well
-pleased; hear ye him." ([Matt.
-17:5](https://www.lds.org/scriptures/nt/matt/17.5?lang=eng#4).)
+pleased; hear ye him." ([Matt. 17:5](/scriptures/nt/matt/17.5?lang=eng#4).)
 
 There are many events in the life of the Lord in which I experience exquisite
 joy as I read of them, and there are others which bow me down with the tragedy
@@ -90,25 +85,25 @@ degree, took the responsibility on himself of paying the price of the
 atonement for our sins, provided we would repent and follow him and his
 teachings. I find peace in doing what he said to do. When he said: "Peace I
 leave with you, my peace I give unto you ..." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26)), he meant
-what he said. Someday I hope to be able to understand better. I know the peace
-I can have if I will keep his law and abide in his commandments.
+14:27](/scriptures/nt/john/14.27?lang=eng#26)), he meant what he said. Someday
+I hope to be able to understand better. I know the peace I can have if I will
+keep his law and abide in his commandments.
 
 I read that he was hung on a cross. I look at my own hands and feet and try to
 imagine the pain of such torture--to hang there in the heat of the day, the
 weight of his body on those tearing nails, every muscle and nerve drawn tight
 in agony. No stopping, no escape until he, having said, "It is finished"
-([John 19:30](https://www.lds.org/scriptures/nt/john/19.30?lang=eng#29)), gave
-up the ghost. I realize that this was endured for me and for you; I bow my
-head; it is hard to hold back the tears. Even now, 1900 years later, it is as
-poignant as though it occurred yesterday.
+([John 19:30](/scriptures/nt/john/19.30?lang=eng#29)), gave up the ghost. I
+realize that this was endured for me and for you; I bow my head; it is hard to
+hold back the tears. Even now, 1900 years later, it is as poignant as though
+it occurred yesterday.
 
 I read on and discover that each one of the gospels ends on a triumphant note.
 He has risen! He is the King of kings. He is the one named "Wonderful,
 Counseller, The mighty God, The everlasting Father, The Prince of Peace."
-([Isa. 9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).) I think of
-each of these titles given to him in prophecy and marvel as the meaning of
-each one touches my own heart.
+([Isa. 9:6](/scriptures/ot/isa/9.6?lang=eng#5).) I think of each of these
+titles given to him in prophecy and marvel as the meaning of each one touches
+my own heart.
 
 What did the 11 apostles think as the cloud received him out of their sight? I
 can see them, in my mind, walking across the Kedron, then the narrow streets
@@ -129,20 +124,20 @@ My heart sings in confirmation as I hear once more in my soul the words of
 introduction and acceptance twice heard during his ministry in Palestine and
 now repeated and enlarged: "Behold my Beloved Son, in whom I am well pleased,
 in whom I have glorified my name--hear ye him." ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).) Once more
-the voice of the Father out of the cloud is placing his approval on his divine
-Son. I know that the account is true.
+11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).) Once more the voice of the
+Father out of the cloud is placing his approval on his divine Son. I know that
+the account is true.
 
 I have already read of how this great personage lived as the firstborn of his
 Father in the spirit, and so I am not surprised, although I am deeply moved,
 to learn that he, as a premortal spirit, visited the brother of Jared (see
-[Ether 3:6-13](https://www.lds.org/scriptures/bofm/ether/3.6-13?lang=eng#5)),
-and I can sense his fear when the brother of Jared saw the finger of the Lord
-and realized that it was like unto the finger of a man. It surprised this
-prophet, but it does not surprise me, for I have learned that the Lord was the
-firstborn Son of God, whose name is Man of Holiness. So when the Lord showed
-his complete self to that great prophet, I am not surprised, but I am awed.
-The more I study and read the scriptures, the more I know this is true.
+[Ether 3:6-13](/scriptures/bofm/ether/3.6-13?lang=eng#5)), and I can sense his
+fear when the brother of Jared saw the finger of the Lord and realized that it
+was like unto the finger of a man. It surprised this prophet, but it does not
+surprise me, for I have learned that the Lord was the firstborn Son of God,
+whose name is Man of Holiness. So when the Lord showed his complete self to
+that great prophet, I am not surprised, but I am awed. The more I study and
+read the scriptures, the more I know this is true.
 
 Finally, I read of a great vision in this dispensation, in this modern day.
 For the first time, so far as I know, the personage who spoke in testimony at
@@ -150,10 +145,10 @@ the baptism of Christ, again on the mount, and to the Nephites (saying, "This
 is my beloved Son") did not speak out of a cloud as on those occasions. This
 time he stood in majestic holy light together with his Son and declared to
 Joseph Smith: "This is My Beloved Son. Hear him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) With Joseph
-Smith, as I read, I know that there is a God and he is indeed my Father. He is
-the great Elohim, the Father of us all. And there with him stood his Son Jesus
-Christ, identified once more by his Father.
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) With Joseph Smith, as I read, I
+know that there is a God and he is indeed my Father. He is the great Elohim,
+the Father of us all. And there with him stood his Son Jesus Christ,
+identified once more by his Father.
 
 It is no coincidence that the Father used the same introduction. If the young
 Joseph Smith was to bear witness of the truth, he must know the truth. It was
@@ -182,4 +177,6 @@ that prophet. He holds the same keys that were given to Joseph Smith by the
 heavenly messengers in 1829. His word, inspired of the Holy Ghost, is the
 modern revelation of our day. This is my witness to you and to the world, in
 the name of Jesus Christ. Amen.
+
+## References
 

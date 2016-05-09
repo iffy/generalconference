@@ -45,8 +45,8 @@ the Aaronic Priesthood upon Joseph Smith and Oliver Cowdery on May 15, 1829:
 of Aaron, which holds the keys of the ministering of angels, and of the gospel
 of repentance, and of baptism by immersion for the remission of sins; and this
 shall never be taken again from the earth, until the sons of Levi do offer
-again an offering unto the Lord in righteousness." [[D&amp;C
-13](https://www.lds.org/scriptures/dc-testament/dc/13.title?lang=eng)]
+again an offering unto the Lord in righteousness." [[D&amp;C 13](/scriptures
+/dc-testament/dc/13?lang=eng)]
 
 Unlike Scouting, we did not have one large deacons quorum that met in the
 cultural hall. Rather, we were divided into four quorums, with up to twelve
@@ -56,7 +56,7 @@ our priesthood leader. I later learned that this number had been wisely
 designated by the Lord in revelation. He said, "And again, verily I say unto
 you, the duty of a president over the office of a deacon is to preside over
 twelve deacons, to sit in council with them, and to teach them their duty,
-edifying one another" ([D&amp;C 107:85](https://www.lds.org/scriptures/dc-
+edifying one another" ([D&amp;C 107:85](/scriptures/dc-
 testament/dc/107.85?lang=eng#84)).
 
 Now I am not in any way disparaging Scouting. It is a wonderful program. It is
@@ -131,9 +131,8 @@ Now what are the elements of this priesthood which were restored to the earth
 by John the Baptist?
 
 He said that this priesthood of Aaron "holds the keys of the ministering of
-angels" ([D&amp;C 13:1](https://www.lds.org/scriptures/dc-
-testament/dc/13.1?lang=eng#0)). It is a tremendous thing to have the right to
-the ministering of angels.
+angels" ([D&amp;C 13:1](/scriptures/dc-testament/dc/13.1?lang=eng#0)). It is a
+tremendous thing to have the right to the ministering of angels.
 
 When President Wilford Woodruff was an elderly man, he said to the young men
 of the Church:
@@ -246,4 +245,6 @@ of young men and those to whom they minister.
 I bear my witness and testimony of these things as I invoke the blessings of
 the Lord upon you, His servants, who have been endowed with His power. In the
 name of Jesus Christ, amen.
+
+## References
 

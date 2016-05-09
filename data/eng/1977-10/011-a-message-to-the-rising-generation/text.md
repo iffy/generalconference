@@ -20,10 +20,9 @@ proven yourselves worthy of an eternity of joy in His presence.
 Your Father in heaven is mindful of you. He has given you commandments to
 guide you, to discipline you. He has also given you your agency--freedom of
 choice--"to see if [you] will do all things whatsoever [He] shall command."
-([Abr. 3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24).) His
-kingdom here on earth is well organized, and your leaders are dedicated to
-helping you. May you know that you have our constant love, our concern, and
-prayers.
+([Abr. 3:25](/scriptures/pgp/abr/3.25?lang=eng#24).) His kingdom here on earth
+is well organized, and your leaders are dedicated to helping you. May you know
+that you have our constant love, our concern, and prayers.
 
 Satan is also mindful of you. He is committed to your destruction. He does not
 discipline you with commandments, but offers instead a freedom to "do your own
@@ -46,7 +45,7 @@ heart for the youth of Zion--I offer this counsel for your happiness now:
 
 First, I counsel you to live a morally clean life. The prophet Alma declared--
 and truer words were never spoken--"Wickedness never was happiness." ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).)
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9).)
 
 You cannot do wrong and feel right. It is impossible! Years of happiness can
 be lost in the foolish gratification of a momentary desire for pleasure. Satan
@@ -184,8 +183,7 @@ close to Dad and Mom.
 
 Third, I counsel you, in the words of Jesus Christ, to "watch and pray always
 lest ye enter into temptation; for Satan desireth to have you, that he may
-sift you as wheat." ([3 Ne.
-18:18](https://www.lds.org/scriptures/bofm/3-ne/18.18?lang=eng#17).)
+sift you as wheat." ([3 Ne. 18:18](/scriptures/bofm/3-ne/18.18?lang=eng#17).)
 
 If you will earnestly seek guidance from your Heavenly Father, morning and
 evening, you will be given the strength to shun any temptation. President
@@ -213,10 +211,10 @@ Yes, beloved youth, you will have your trials and temptations through which
 you must pass, but there are great moments of eternity which lie ahead. You
 have our love and our confidence. We pray that you will be prepared for the
 reins of leadership. We say to you, "Arise and shine forth" ([D&amp;C
-115:5](https://www.lds.org/scriptures/dc-testament/dc/115.5?lang=eng#4)), and
-be a light unto the world, a standard to others. You can live in the world and
-not partake of the sins of the world. You can live life joyously, beautifully,
-unmarred by the ugliness of sin. This is our confidence in you.
+115:5](/scriptures/dc-testament/dc/115.5?lang=eng#4)), and be a light unto the
+world, a standard to others. You can live in the world and not partake of the
+sins of the world. You can live life joyously, beautifully, unmarred by the
+ugliness of sin. This is our confidence in you.
 
 _Be glad. O Youth, your day is at the dawning,_
 
@@ -254,4 +252,6 @@ I pray that you--the young and rising generation--will keep your bodies and
 minds clean, free from the contaminations of the world, that you will be fit
 and pure vessels to bear off the kingdom of God triumphant in preparation for
 the second coming of our Savior. In the name of Jesus Christ, amen.
+
+## References
 

@@ -14,19 +14,18 @@ anxious love for all mankind.
 
 Probably nowhere did Jesus find more needed rest and happier hours than in
 Bethany in the quiet house of that family whom, according to John, he loved
-(see [John 11:5](https://www.lds.org/scriptures/nt/john/11.5?lang=eng#4)).
-This small village with this very special family was just outside Jerusalem on
-the eastern slope of the Mount of Olives. The family evidently consisted of
-Martha, Mary, and their brother, Lazarus. This quiet village, though only two
-miles from Jerusalem, was completely hidden from the bustle of the crowds and
-must have fed the soul of Jesus with love and peace. He must have felt welcome
-to share this family's hospitality. They not only furnished comfort but
-listened in deep conviction to his words.
+(see [John 11:5](/scriptures/nt/john/11.5?lang=eng#4)). This small village
+with this very special family was just outside Jerusalem on the eastern slope
+of the Mount of Olives. The family evidently consisted of Martha, Mary, and
+their brother, Lazarus. This quiet village, though only two miles from
+Jerusalem, was completely hidden from the bustle of the crowds and must have
+fed the soul of Jesus with love and peace. He must have felt welcome to share
+this family's hospitality. They not only furnished comfort but listened in
+deep conviction to his words.
 
 While Jesus was about his ministry he received a solemn message that he whom
-he loved was sick (see [John
-11:3](https://www.lds.org/scriptures/nt/john/11.3?lang=eng#2)). Lazarus was
-Jesus' intimate personal friend outside the circle of Apostles.
+he loved was sick (see [John 11:3](/scriptures/nt/john/11.3?lang=eng#2)).
+Lazarus was Jesus' intimate personal friend outside the circle of Apostles.
 
 The scripture account tells us Jesus did not leave at once in response to the
 request because he was occupied with his important work, but he sent word that
@@ -38,37 +37,35 @@ distinguished Jews, had assembled to comfort and mourn with Mary and Martha.
 The sisters undoubtedly were disappointed in the Savior's delay.
 
 "Lord," said Martha, "if thou hadst been here my brother had not died" ([John
-11:21](https://www.lds.org/scriptures/nt/john/11.21?lang=eng#20)).
+11:21](/scriptures/nt/john/11.21?lang=eng#20)).
 
 The Savior's brief reply undoubtedly brought comfort to Martha and rings out
 in hope to all the world: "Thy brother shall rise again" ([John
-11:23](https://www.lds.org/scriptures/nt/john/11.23?lang=eng#22)).
+11:23](/scriptures/nt/john/11.23?lang=eng#22)).
 
 Martha, we assume not thinking it possible for her brother to be awakened from
 the sleep of death, answered, "I know that he shall rise again in the
 resurrection at the last day" ([John
-11:24](https://www.lds.org/scriptures/nt/john/11.24?lang=eng#23)).
+11:24](/scriptures/nt/john/11.24?lang=eng#23)).
 
 Then "Jesus said unto her, I am the resurrection, and the life: he that
 believeth in me, though he were dead, yet shall he live:
 
 "And whosoever liveth and believeth in me shall never die. Believest thou
-this?" ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24)).
+this?" ([John 11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24)).
 
 Martha's deep faith supplied the answer, "Yea, Lord: I believe that thou art
 the Christ, the Son of God, which should come into the world" ([John
-11:27](https://www.lds.org/scriptures/nt/john/11.27?lang=eng#26)).
+11:27](/scriptures/nt/john/11.27?lang=eng#26)).
 
 Martha, after having borne this strong witness, found Mary, who, hurrying to
 Jesus in agony as had Martha, said, "Lord, if thou hadst been here, my brother
-had not died" ([John
-11:32](https://www.lds.org/scriptures/nt/john/11.32?lang=eng#31)).
+had not died" ([John 11:32](/scriptures/nt/john/11.32?lang=eng#31)).
 
 These were his friends. These must have been moments of tender compassion for
 Jesus and, undoubtedly, of deep emotion and wonderment for all who witnessed.
 Jesus said, "Where have ye laid him?" They said, "Lord, come and see" ([John
-11:34](https://www.lds.org/scriptures/nt/john/11.34?lang=eng#33)).
+11:34](/scriptures/nt/john/11.34?lang=eng#33)).
 
 His enemies, some of whom were there, were asking whether he who had opened
 the eyes of the blind could not have saved his friend from death. Jesus surely
@@ -80,7 +77,7 @@ with a stone over the entrance. Jesus asked that the stone be removed. He
 stood at the entrance and called, "Lazarus, come forth.
 
 "And he that was dead came forth" ([John
-11:43-44](https://www.lds.org/scriptures/nt/john/11.43-44?lang=eng#42)).
+11:43-44](/scriptures/nt/john/11.43-44?lang=eng#42)).
 
 There were many witnesses to this miracle who believed, but there were others
 who would carry an alarming story to the Sanhedrin at Jerusalem.
@@ -91,60 +88,57 @@ to Jerusalem took the twelve Apostles aside and said unto them: "Behold, we go
 up to Jerusalem; and the Son of Man shall be betrayed unto the chief priest
 and unto the scribes; and they shall deliver him to the Gentiles to mock and
 to scourge and to crucify him. On the third day he shall rise again" (see
-[Mark 10:32-34](https://www.lds.org/scriptures/nt/mark/10.32-34?lang=eng#31)).
+[Mark 10:32-34](/scriptures/nt/mark/10.32-34?lang=eng#31)).
 
 In an upper room, Jesus and his Apostles were together for the last time. He
 taught them, saying, "Verily I say unto you, that one of you shall betray me"
-([Matt. 26:21](https://www.lds.org/scriptures/nt/matt/26.21?lang=eng#20)). As
-they were eating, Jesus took bread and blessed it and broke it and gave it to
-his disciples, saying: "Take, eat. This is my body which is given for you:
-this do in remembrance of me" (see [Matt.
-26:26](https://www.lds.org/scriptures/nt/matt/26.26?lang=eng#25); [Luke
-22:19](https://www.lds.org/scriptures/nt/luke/22.19?lang=eng#18)). After this
-manner also he took the cup, saying, "This is my blood of the new testament,
-which is shed for many for the remission of sins," thus establishing the
-pattern for the sacrament as a sacred ordinance in his church ([Matt.
-26:28](https://www.lds.org/scriptures/nt/matt/26.28?lang=eng#27)).
+([Matt. 26:21](/scriptures/nt/matt/26.21?lang=eng#20)). As they were eating,
+Jesus took bread and blessed it and broke it and gave it to his disciples,
+saying: "Take, eat. This is my body which is given for you: this do in
+remembrance of me" (see [Matt. 26:26](/scriptures/nt/matt/26.26?lang=eng#25);
+[Luke 22:19](/scriptures/nt/luke/22.19?lang=eng#18)). After this manner also
+he took the cup, saying, "This is my blood of the new testament, which is shed
+for many for the remission of sins," thus establishing the pattern for the
+sacrament as a sacred ordinance in his church ([Matt.
+26:28](/scriptures/nt/matt/26.28?lang=eng#27)).
 
 In Gethsemane Jesus knelt in prayer and poured out his soul. "O my Father, if
 it be possible, let this cup pass from me: nevertheless not as I will, but as
-thou wilt" ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38)).
+thou wilt" ([Matt. 26:39](/scriptures/nt/matt/26.39?lang=eng#38)).
 
 "And being in agony he prayed more earnestly: and his sweat was as ... great
 drops of blood falling ... to the ground" ([Luke
-22:44](https://www.lds.org/scriptures/nt/luke/22.44?lang=eng#43)).
+22:44](/scriptures/nt/luke/22.44?lang=eng#43)).
 
 Following his betrayal, and when the morning was come, the chief priests and
 his enemies took counsel against Jesus to put him to death, and they bound him
 and led him to Pontius Pilate, the governor, "and when he had scourged Jesus,
 he delivered him to be crucified" (see [Matt. 27:1-2,
-26](https://www.lds.org/scriptures/nt/matt/27.1-2%2C26?lang=eng#0)).
+26](/scriptures/nt/matt/27.1-2,26?lang=eng#0)).
 
 He was taken to Calvary. At the third hour, they crucified Jesus, and with him
 they crucified two thieves (see [Mark 15:25,
-27](https://www.lds.org/scriptures/nt/mark/15.25%2C27?lang=eng#24)). "And
-there was ... darkness over all the earth until the ninth hour.
+27](/scriptures/nt/mark/15.25,27?lang=eng#24)). "And there was ... darkness over
+all the earth until the ninth hour.
 
 "... and the veil of the temple was rent in the midst" ([Luke
-23:44-45](https://www.lds.org/scriptures/nt/luke/23.44-45?lang=eng#43)).
+23:44-45](/scriptures/nt/luke/23.44-45?lang=eng#43)).
 
 After three days, very early in the morning on the first day of the week, the
 women came to the sepulcher with spices to anoint the body of Jesus. Instead,
 they were greeted by a young man in a long white garment who announced: "He is
-not here. He is risen" (see [Luke
-24:6](https://www.lds.org/scriptures/nt/luke/24.6?lang=eng#5)). Jesus showed
-himself first to Mary Magdalene and afterward to the Apostles.
+not here. He is risen" (see [Luke 24:6](/scriptures/nt/luke/24.6?lang=eng#5)).
+Jesus showed himself first to Mary Magdalene and afterward to the Apostles.
 
 For forty days after his resurrection, Jesus remained with his disciples to
 instruct them more in the gospel. He told them, "Go ye into all the world, and
 preach the gospel to every creature" ([Mark
-16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14)).
+16:15](/scriptures/nt/mark/16.15?lang=eng#14)).
 
 And then "he led them out as far as ... Bethany, and he lifted up his hands, and
 blessed them," and "while he blessed them, he was parted from them, and
 carried up into heaven" ([Luke
-24:50-51](https://www.lds.org/scriptures/nt/luke/24.50-51?lang=eng#49)).
+24:50-51](/scriptures/nt/luke/24.50-51?lang=eng#49)).
 
 And "while they looked steadfastly toward heaven as he went up, behold, two
 men stood by them in white apparel;
@@ -152,17 +146,16 @@ men stood by them in white apparel;
 "Which ... said, Ye men of Galilee, why stand ye gazing up into heaven? this
 same Jesus, which is taken up from you into heaven, shall so come in like
 manner as ye have seen him go" ([Acts
-1:10-11](https://www.lds.org/scriptures/nt/acts/1.10-11?lang=eng#9)).
+1:10-11](/scriptures/nt/acts/1.10-11?lang=eng#9)).
 
 We testify to all the world, as did the Apostles of old, that this same Jesus
 taken up into heaven as men watched, will return--will return in power and
 great glory, attended by the hosts of heaven. At that day "the glory of the
 Lord shall be revealed, and all flesh shall see it together" ([Isa.
-40:5](https://www.lds.org/scriptures/ot/isa/40.5?lang=eng#4)). But prior to
-that day, as foretold by the prophets, there must be a restoration of all
-things in the last days, the fulness of the gospel with all its saving powers
-to be returned to earth (see [Acts
-3:20-21](https://www.lds.org/scriptures/nt/acts/3.20-21?lang=eng#19)).
+40:5](/scriptures/ot/isa/40.5?lang=eng#4)). But prior to that day, as foretold
+by the prophets, there must be a restoration of all things in the last days,
+the fulness of the gospel with all its saving powers to be returned to earth
+(see [Acts 3:20-21](/scriptures/nt/acts/3.20-21?lang=eng#19)).
 
 We proclaim with knowledge and power as witnesses of heavenly events that the
 final great restoration has taken place, that angelic ministers have been sent
@@ -191,7 +184,7 @@ Winter Quarters, handcart brigades, and Johnston's army--the testing of a
 people, the trials of faith, but always the undergirding faith and belief in
 our Savior and his promise to Joseph, "If thou endure it well, God shall exalt
 thee on high; thou shalt triumph over all thy foes" ([D&amp;C
-121:8](https://www.lds.org/scriptures/dc-testament/dc/121.8?lang=eng#7)).
+121:8](/scriptures/dc-testament/dc/121.8?lang=eng#7)).
 
 Now today in this peaceful valley, in this historic tabernacle, we witness the
 fruits of God's love and promise to his people. We still sing with emotion,
@@ -240,4 +233,6 @@ does live, that he made us in his own image, that he sent his divine Son, our
 Savior, to show us the way. I know that my Redeemer lives and pray that his
 blessings and peace may come to all men everywhere, in the name of Jesus
 Christ, our Lord and Savior, amen.
+
+## References
 

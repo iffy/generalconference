@@ -23,8 +23,7 @@ of family prayer!
 
 Listen to the admonition of the Savior in Third Nephi: "Pray in your families
 unto the Father, always in my name, that your wives and your children may be
-blessed." ([3 Ne.
-18:21](https://www.lds.org/scriptures/bofm/3-ne/18.21?lang=eng#20).)
+blessed." ([3 Ne. 18:21](/scriptures/bofm/3-ne/18.21?lang=eng#20).)
 
 Can you detect that if we do not pray in our families always they may not be
 blessed--or at least not so fully? If we truly love our families we will
@@ -189,10 +188,10 @@ allowed me, for a brief moment, to once again join that family circle in
 prayer. I was one with them. I was literally swallowed up in the love and
 concern of a faithful family and sensed for a moment what being taken into
 Abraham's bosom may be like. (See [Luke
-16:22](https://www.lds.org/scriptures/nt/luke/16.22?lang=eng#21).) I was given
-to understand also that there are other circles of love and concern unbounded
-by time or space to which we all belong and from which we can draw strength.
-God does not leave us entirely alone--ever!
+16:22](/scriptures/nt/luke/16.22?lang=eng#21).) I was given to understand also
+that there are other circles of love and concern unbounded by time or space to
+which we all belong and from which we can draw strength. God does not leave us
+entirely alone--ever!
 
 Tears of joy flowed freely as I had restored to me the warmth of security, the
 light of love, and the strength of hope. And when I again felt the hard,
@@ -252,4 +251,6 @@ May we all gather our families around us and consistently and fervently pray
 for one another and thus, in righteousness, feel the needs of others and then
 fill the needs of others, thereby fulfilling much of our mission in life, I do
 humbly pray in the name of Jesus Christ, amen.
+
+## References
 

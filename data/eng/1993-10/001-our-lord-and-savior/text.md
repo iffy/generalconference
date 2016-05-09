@@ -20,8 +20,7 @@ the entire world, we should pay attention to the exemplary and noble life of
 President Benson and to his writings and sermons as President of the Church.
 
 I would like today to emphasize the divinity of our Lord and Savior, Jesus
-Christ (see [Alma
-42:16](https://www.lds.org/scriptures/bofm/alma/42.16?lang=eng#15)).
+Christ (see [Alma 42:16](/scriptures/bofm/alma/42.16?lang=eng#15)).
 
 We live in a day when Lucifer's influence is greater than we ever have known
 in our lifetimes. In terms of the sin, evil, and wickedness upon the earth, we
@@ -45,8 +44,8 @@ I am grateful to know that our Lord and Savior stands at the head of this
 church and directs it through his servants. This is the Lord's church; it is
 not a church of men. The Brethren of its presiding councils are called of God;
 their only motive is to serve according to his will in humility "with all
-[their] heart, might, mind and strength" ([D&amp;C
-4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1)).
+[their] heart, might, mind and strength" ([D&amp;C 4:2](/scriptures/dc-
+testament/dc/4.2?lang=eng#1)).
 
 The Church bears his name because it is his church. He commanded the Nephites
 to "call the church in my name. ...
@@ -54,12 +53,11 @@ to "call the church in my name. ...
 For if a church be called ... in the name of a man then it be the church of a
 man; but if it be called in my name then it is my church, if it so be that
 they are built upon my gospel" ([3 Ne.
-27:7-8](https://www.lds.org/scriptures/bofm/3-ne/27.7-8?lang=eng#6)).
+27:7-8](/scriptures/bofm/3-ne/27.7-8?lang=eng#6)).
 
 To the Prophet Joseph Smith, the Lord revealed that in the last days his
 restored church should be called The Church of Jesus Christ of Latter-day
-Saints (see [D&amp;C 115:4](https://www.lds.org/scriptures/dc-
-testament/dc/115.4?lang=eng#3)).
+Saints (see [D&amp;C 115:4](/scriptures/dc-testament/dc/115.4?lang=eng#3)).
 
 The Lord told Moses when they spoke together face to face on a high mountain:
 "Worlds without number have I created; ... by the Son I created them. ...
@@ -67,7 +65,7 @@ The Lord told Moses when they spoke together face to face on a high mountain:
 "But only an account of this earth ... give I unto you. ... There are many worlds
 ... that now stand, and innumerable are they unto man; but all things are
 numbered unto me, for they are mine and I know them" ([Moses 1:33,
-35](https://www.lds.org/scriptures/pgp/moses/1.33%2C35?lang=eng#32)).
+35](/scriptures/pgp/moses/1.33,35?lang=eng#32)).
 
 This brief passage of scripture gives a slight glimpse of the immensity and
 grandeur of our Lord as Creator. A modern astronomer gives further insight:
@@ -89,20 +87,20 @@ much less the Sun or the Earth. ...
 
 "... The Milky Way contains some 400 billion stars of all sorts moving with a
 complex and orderly grace. Of all the stars, the inhabitants of Earth know
-close-up, so far, but one." [1]
+close-up, so far, but one."[1]
 
 In a conversation between God and Moses, God said:
 
 "For behold, this is my work and my glory--to bring to pass the immortality
 and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). God said
-also: "Mine Only Begotten is and shall be the Savior" ([Moses
-1:6](https://www.lds.org/scriptures/pgp/moses/1.6?lang=eng#5)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). God said also: "Mine Only
+Begotten is and shall be the Savior" ([Moses
+1:6](/scriptures/pgp/moses/1.6?lang=eng#5)).
 
 The immortality and eternal life of man is brought to pass by the atonement of
 Jesus Christ, our Savior and Redeemer. It is "the most transcendent act that
-ever has occurred or ever will occur among the children of the Father." [2]
-It is an act of love for which we should be more grateful than for any other
+ever has occurred or ever will occur among the children of the Father."[2] It
+is an act of love for which we should be more grateful than for any other
 blessing or gift of God. The Atonement provides immortality to every person;
 immortality is infinite and universal. It provides the opportunity for eternal
 life, the kind of life that God lives, to those who have faith in Christ,
@@ -114,28 +112,27 @@ from our Father.
 Only Jesus, because he is the Only Begotten Son, could make the infinite and
 eternal atonement so we can be at one with our Heavenly Father. When Jesus was
 born into mortality, his parents were God the Eternal Father (see [1 Ne.
-11:21](https://www.lds.org/scriptures/bofm/1-ne/11.21?lang=eng#20)) and Mary,
-whom Nephi saw in a heavenly vision as "a virgin, most beautiful and fair
-above all other virgins" ([1 Ne.
-11:15](https://www.lds.org/scriptures/bofm/1-ne/11.15?lang=eng#14)). He is
-God's Only Begotten Son, the only one who ever has or ever will be born on
-earth of such parentage. Because of his mortal nature, inherited from his
-mother, he had "the power of mortality, which is the power to die, ... to
-separate body and spirit." [3]  Because of his divine nature, inherited from
-his Father, he had "the power of immortality, which is the power to live
-forever; or, having chosen to die, ... to rise again in immortality." [4]  The
-Savior said: "I lay down my life, that I might take it again.
+11:21](/scriptures/bofm/1-ne/11.21?lang=eng#20)) and Mary, whom Nephi saw in a
+heavenly vision as "a virgin, most beautiful and fair above all other virgins"
+([1 Ne. 11:15](/scriptures/bofm/1-ne/11.15?lang=eng#14)). He is God's Only
+Begotten Son, the only one who ever has or ever will be born on earth of such
+parentage. Because of his mortal nature, inherited from his mother, he had
+"the power of mortality, which is the power to die, ... to separate body and
+spirit."[3] Because of his divine nature, inherited from his Father, he had
+"the power of immortality, which is the power to live forever; or, having
+chosen to die, ... to rise again in immortality."[4] The Savior said: "I lay
+down my life, that I might take it again.
 
 "No man taketh it from me, but I lay it down of myself. I have power to lay it
 down, and I have power to take it again" ([John
-10:17-18](https://www.lds.org/scriptures/nt/john/10.17-18?lang=eng#16)).
+10:17-18](/scriptures/nt/john/10.17-18?lang=eng#16)).
 
 "It was because of ... this intermixture of the divine and the mortal in one
 person, that our Lord was able to work out the infinite and eternal atonement.
 ... He had power to live or to die, as he chose, and having laid down his life,
 he had power to take it again, and then, in a way incomprehensible to us, to
 pass on the effects of that resurrection to all men so that all shall rise
-from the tomb." [5]
+from the tomb."[5]
 
 At the time of the Second Coming, Jesus will judge the souls of all mankind in
 an inevitable judgment. In the gospel of John we read:
@@ -149,13 +146,11 @@ his voice,
 
 "And shall come forth; they that have done good, unto the resurrection of
 life; and they that have done evil, unto the resurrection of damnation" ([John
-5:22,
-26-29](https://www.lds.org/scriptures/nt/john/5.22%2C26-29?lang=eng#21)). The
-prophet Mormon wrote: "Ye must all stand before the judgment-seat of Christ,
-yea, every soul who belongs to the whole human family of Adam; and ye must
-stand to be judged of your works, whether they be good or evil" ([Morm.
-3:20](https://www.lds.org/scriptures/bofm/morm/3.20?lang=eng#19)). We read in
-Matthew:
+5:22, 26-29](/scriptures/nt/john/5.22,26-29?lang=eng#21)). The prophet Mormon
+wrote: "Ye must all stand before the judgment-seat of Christ, yea, every soul
+who belongs to the whole human family of Adam; and ye must stand to be judged
+of your works, whether they be good or evil" ([Morm.
+3:20](/scriptures/bofm/morm/3.20?lang=eng#19)). We read in Matthew:
 
 "When the Son of man shall come in his glory, and all the holy angels with
 him, then shall he sit upon the throne of his glory:
@@ -171,29 +166,27 @@ Father, inherit the kingdom prepared for you from the foundation of the world:
 
 "Then shall he say also unto them on the left hand, Depart from me, ye cursed,
 into everlasting fire, prepared for the devil and his angels" ([Matt.
-25:31-34,
-41](https://www.lds.org/scriptures/nt/matt/25.31-34%2C41?lang=eng#30)).
+25:31-34, 41](/scriptures/nt/matt/25.31-34,41?lang=eng#30)).
 
 Considering all that Jesus is and all he does for us, what should we be doing
 to show our appreciation? We should go far beyond knowing _about_ Jesus and
 _about_ his attributes and mission. We should come to "know ... the only true
 God, and Jesus Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)). "It is one
-thing to know about God and another to know him. We know about him when we
-learn that he is a personal being in whose image man is created; when we learn
-that the Son is in the express image of his Father's person; when we learn
-that both the Father and the Son possess certain [specific] attributes and
-powers. But we know them, in the sense of gaining eternal life, when we enjoy
-and experience the same things they do. To know God is to think what he
-thinks, to feel what he feels, to have the power he possesses, to comprehend
-the truths he understands, and to do what he does. Those who know God become
-like him, and have his kind of life, which is eternal life." [6]  In other
-words, to possess a knowledge of Christ, we must become as he is. We become
-"partakers of the divine nature" ([2 Pet.
-1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3)). He instructed
-his Nephite disciples: "What manner of men ought ye to be? Verily I say unto
-you, even as I am" ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26)).
+17:3](/scriptures/nt/john/17.3?lang=eng#2)). "It is one thing to know about
+God and another to know him. We know about him when we learn that he is a
+personal being in whose image man is created; when we learn that the Son is in
+the express image of his Father's person; when we learn that both the Father
+and the Son possess certain [specific] attributes and powers. But we know
+them, in the sense of gaining eternal life, when we enjoy and experience the
+same things they do. To know God is to think what he thinks, to feel what he
+feels, to have the power he possesses, to comprehend the truths he
+understands, and to do what he does. Those who know God become like him, and
+have his kind of life, which is eternal life."[6] In other words, to possess a
+knowledge of Christ, we must become as he is. We become "partakers of the
+divine nature" ([2 Pet. 1:4](/scriptures/nt/2-pet/1.4?lang=eng#3)). He
+instructed his Nephite disciples: "What manner of men ought ye to be? Verily I
+say unto you, even as I am" ([3 Ne.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26)).
 
 One underlying principle runs throughout the Savior's life, mission, and
 teachings: We are to love one another. He said to his disciples:
@@ -202,12 +195,11 @@ teachings: We are to love one another. He said to his disciples:
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another" ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33)). He
-said also:
+another" ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33)). He said
+also:
 
 "If ye love me, keep my commandments" ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14)).
+14:15](/scriptures/nt/john/14.15?lang=eng#14)).
 
 Imagine for a moment the result if everyone were to love one another as Jesus
 loves his disciples. We would have no bickering, quarreling, strife, or
@@ -225,23 +217,21 @@ his resurrection. Peter wrote:
 
 "For we have not followed cunningly devised fables, when we made known unto
 you the power and coming of our Lord Jesus Christ, but were eyewitnesses of
-his majesty" ([2 Pet.
-1:16](https://www.lds.org/scriptures/nt/2-pet/1.16?lang=eng#15)). When the
+his majesty" ([2 Pet. 1:16](/scriptures/nt/2-pet/1.16?lang=eng#15)). When the
 resurrected Lord visited and taught the Nephites, "he stretched forth his hand
 and spake unto the people, saying:
 
 "Behold, I am Jesus Christ, whom the prophets testified shall come into the
-world" ([3 Ne.
-11:9-10](https://www.lds.org/scriptures/bofm/3-ne/11.9-10?lang=eng#8)).
+world" ([3 Ne. 11:9-10](/scriptures/bofm/3-ne/11.9-10?lang=eng#8)).
 
 In our day, the Father and the Son visited the Prophet Joseph Smith in the
 Sacred Grove. Of this visit Joseph wrote: "I saw two Personages, whose
 brightness and glory defy all description, standing above me in the air. One
 of them spake unto me, calling me by name and said, pointing to the other--
 _This is My Beloved Son. Hear Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)). When the
-Savior accepted the Kirtland Temple as his house, Joseph Smith and Oliver
-Cowdery "saw the Lord standing upon the breastwork of the pulpit. ...
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)). When the Savior accepted the
+Kirtland Temple as his house, Joseph Smith and Oliver Cowdery "saw the Lord
+standing upon the breastwork of the pulpit. ...
 
 His eyes were as a flame of fire; the hair of his head was white like the pure
 snow; his countenance shone above the brightness of the sun; and his voice was
@@ -249,18 +239,16 @@ as the sound of the rushing of great waters, even the voice of Jehovah,
 saying:
 
 I am the first and the last; I am he who liveth, I am he who was slain; I am
-your advocate with the Father" ([D&amp;C
-110:2-4](https://www.lds.org/scriptures/dc-testament/dc/110.2-4?lang=eng#1)).
-In a heavenly vision, the Prophet and Sidney Rigdon saw and conversed with
-Jesus Christ and gave this account:
+your advocate with the Father" ([D&amp;C 110:2-4](/scriptures/dc-
+testament/dc/110.2-4?lang=eng#1)). In a heavenly vision, the Prophet and
+Sidney Rigdon saw and conversed with Jesus Christ and gave this account:
 
 "After the many testimonies which have been given of him, this is the
 testimony, last of all, which we give of him: That he lives!
 
 "For we saw him, even on the right hand of God; and we heard the voice bearing
 record that he is the Only Begotten of the Father" ([D&amp;C
-76:22-23](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-23?lang=eng#21)).
+76:22-23](/scriptures/dc-testament/dc/76.22-23?lang=eng#21)).
 
 I was fortunate as a young boy attending ward testimony meetings to hear the
 fervent testimonies of older ward members. Now I counsel you who are more
@@ -271,7 +259,7 @@ in younger people as the members of my ward did in me. Parents should bear
 testimony frequently to strengthen conviction in the hearts of their children.
 
 I am humbly grateful to be one of the "special witnesses of the name of Christ
-in all the world" ([D&amp;C 107:23](https://www.lds.org/scriptures/dc-
+in all the world" ([D&amp;C 107:23](/scriptures/dc-
 testament/dc/107.23?lang=eng#22)). I know that he lives. He is with us, and we
 can feel his influence in our lives if we are obedient, conform to his
 teachings, and are prayerful. He wants each of us and the Church to succeed
@@ -285,15 +273,15 @@ this witness in the sacred name of Jesus Christ, amen.
 
 ## References
 
-  1.  Carl Sagan, _Cosmos,_ New York: Random House, 1980, pp. 4-5, 7, 10.
+  1. Carl Sagan, _Cosmos,_ New York: Random House, 1980, pp. 4-5, 7, 10.
 
-  2.  Bruce R. McConkie, _The Millennial Messiah,_ Salt Lake City: Deseret Book Co., 1982, p. 15.
+  2. Bruce R. McConkie, _The Millennial Messiah,_ Salt Lake City: Deseret Book Co., 1982, p. 15.
 
-  3.  Bruce R. McConkie, _The Promised Messiah,_ Salt Lake City: Deseret Book Co., 1978, p. 471.
+  3. Bruce R. McConkie, _The Promised Messiah,_ Salt Lake City: Deseret Book Co., 1978, p. 471.
 
-  4.  Ibid.
+  4. Ibid.
 
-  5.  Ibid.
+  5. Ibid.
 
-  6.  Bruce R. McConkie, _Doctrinal New Testament Commentary,_ 3 vols., Salt Lake City: Bookcraft, 1965-73, 1:762.
+  6. Bruce R. McConkie, _Doctrinal New Testament Commentary,_ 3 vols., Salt Lake City: Bookcraft, 1965-73, 1:762.
 

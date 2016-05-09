@@ -18,8 +18,8 @@ directing his message. He turned to section 18 and began to read:
 
 "And if it so be that you should labor all your days in crying repentance unto
 this people, and bring, save it be one soul unto me, how great shall be your
-joy with him in the kingdom of my Father" ([D&amp;C 18:10,
-15](https://www.lds.org/scriptures/dc-testament/dc/18.10%2C15?lang=eng#9)).
+joy with him in the kingdom of my Father" ([D&amp;C 18:10, 15](/scriptures/dc-
+testament/dc/18.10,15?lang=eng#9)).
 
 President Child then raised his eyes from the scriptures and asked the
 question of the priesthood brethren: "What is the worth of a human soul?" He
@@ -49,7 +49,7 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world" ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18)).
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18)).
 
 The men to whom he gave this instruction were not owners of land, nor did they
 have the education of the learned. They were simple men--men of faith, men of
@@ -60,16 +60,14 @@ many mighty, not many noble, are called:
 
 "But God hath chosen the foolish things of the world to confound the wise; and
 God hath chosen the weak things of the world to confound the things which are
-mighty" ([1 Cor.
-1:26-27](https://www.lds.org/scriptures/nt/1-cor/1.26-27?lang=eng#25)).
+mighty" ([1 Cor. 1:26-27](/scriptures/nt/1-cor/1.26-27?lang=eng#25)).
 
 On this, the American continent, Alma likewise counseled his son Helaman: "I
 say unto you, that by small and simple things are great things brought to
-pass" ([Alma 37:6](https://www.lds.org/scriptures/bofm/alma/37.6?lang=eng#5)).
+pass" ([Alma 37:6](/scriptures/bofm/alma/37.6?lang=eng#5)).
 
 Then and now, servants of God take comfort from the Master's assurance: "I am
-with you alway" ([Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19)). This
+with you alway" ([Matt. 28:20](/scriptures/nt/matt/28.20?lang=eng#19)). This
 magnificent promise sustains you brethren of the Aaronic Priesthood who are
 called to positions of leadership in the quorums of deacons, teachers, and
 priests. It encourages you in your preparations to serve in the mission field.
@@ -83,8 +81,7 @@ foundation of a great work. And out of small things proceedeth that which is
 great.
 
 "Behold, the Lord requireth the heart and a willing mind" ([D&amp;C
-64:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/64.33-34?lang=eng#32)).
+64:33-34](/scriptures/dc-testament/dc/64.33-34?lang=eng#32)).
 
 An abiding faith, a constant trust, a fervent desire have always characterized
 those who serve the Lord with all their hearts.
@@ -132,7 +129,7 @@ Lessons from the past can quicken our memories, touch our lives, and direct
 our actions. We are prompted to pause and remember that divinely given
 promise: "Wherefore, ... ye are on the Lord's errand; and whatever ye do
 according to the will of the Lord is the Lord's business" ([D&amp;C
-64:29](https://www.lds.org/scriptures/dc-testament/dc/64.29?lang=eng#28)).
+64:29](/scriptures/dc-testament/dc/64.29?lang=eng#28)).
 
 Such a lesson was recounted on a radio and television program many remember
 with fondness. The program was entitled "Death Valley Days." The narrator,
@@ -189,9 +186,9 @@ Tabernacles and temples are built with more than stone and mortar, wood and
 glass. Particularly is this true when we speak of the temple described by the
 Apostle Paul: "Know ye not that ye are the temple of God, and that the Spirit
 of God dwelleth in you?" ([1 Cor.
-3:16](https://www.lds.org/scriptures/nt/1-cor/3.16?lang=eng#15)). Such temples
-are built with faith and fasting. They are built with service and sacrifice.
-They are built with trials and testimonies.
+3:16](/scriptures/nt/1-cor/3.16?lang=eng#15)). Such temples are built with
+faith and fasting. They are built with service and sacrifice. They are built
+with trials and testimonies.
 
 If any brethren within the sound of my voice feel unprepared, even incapable
 of responding to a call to serve, to sacrifice, to bless the lives of others,
@@ -200,11 +197,13 @@ sparrow's fall will not abandon the servant's need.
 
 God bless you, my brethren--you who bear the priesthood. You "are a chosen
 generation, a royal priesthood" ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)).
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)).
 
 May we respond affirmatively to the Prophet Joseph, who urged: "Brethren,
 shall we not go on in so great a cause? Go forward and not backward. Courage,
-brethren; and on, on to the victory!" ([D&amp;C
-128:22](https://www.lds.org/scriptures/dc-testament/dc/128.22?lang=eng#21)).
-This is my earnest and humble prayer, in the name of Jesus Christ, amen.
+brethren; and on, on to the victory!" ([D&amp;C 128:22](/scriptures/dc-
+testament/dc/128.22?lang=eng#21)). This is my earnest and humble prayer, in
+the name of Jesus Christ, amen.
+
+## References
 

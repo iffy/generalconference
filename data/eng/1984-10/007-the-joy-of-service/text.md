@@ -7,8 +7,7 @@ application and experience the personal joy of service in God's kingdom.
 I can say unashamedly, I rejoice in the service of God. My experience teaches
 that the highest goodness attainable is a life of unselfish service to
 mankind. The Master said, "He that is greatest among you shall be your
-servant." ([Matt.
-23:11](https://www.lds.org/scriptures/nt/matt/23.11?lang=eng#10).)
+servant." ([Matt. 23:11](/scriptures/nt/matt/23.11?lang=eng#10).)
 
 It has been wisely said, "Service is the rent we pay for our own room on
 earth." We should know that the rent is due on a daily basis and know that the
@@ -27,12 +26,12 @@ even though the prophet Malachi so plainly teaches:
 "Bring ye all the tithes into the storehouse ... and _prove_ me _now_ ... saith
 the Lord of hosts, if I will not open _you_ the windows of heaven, and pour
 you out a blessing, that there shall not be room enough to receive it." ([Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9); italics added.)
+3:10](/scriptures/ot/mal/3.10?lang=eng#9); italics added.)
 
 There comes a time in the life of all people when they must _certify_ with
 their actions what they believe. Jesus said of his own life, "The Son of man
 came not to be ministered unto, but to minister." ([Matt.
-20:28](https://www.lds.org/scriptures/nt/matt/20.28?lang=eng#27).)
+20:28](/scriptures/nt/matt/20.28?lang=eng#27).)
 
 Elder Bruce R. McConkie has so eloquently taught us that service is essential
 to salvation. I have been impressed with the _urgency_ of doing. Knowing is
@@ -55,7 +54,7 @@ teaching their children:
 
 "But ye will teach them to walk in the ways of truth and soberness; ye will
 teach them to love one another, and to serve one another." ([Mosiah
-4:15](https://www.lds.org/scriptures/bofm/mosiah/4.15?lang=eng#14).)
+4:15](/scriptures/bofm/mosiah/4.15?lang=eng#14).)
 
 As wisely stated, "Until a man learns to think, he is not an educated man, no
 matter how many degrees he has." I would also add that a thinking man will
@@ -70,8 +69,7 @@ efficiency and rapidity--the blessings of unselfish service.
 Jesus washed the feet of his disciples, feet that were hot, sweaty, and soiled
 with dust and dirt. He washed not their hands or face; he washed their feet.
 He who is the greatest shall be the least--he it is who learns to serve. (See
-[D&amp;C 50:26](https://www.lds.org/scriptures/dc-
-testament/dc/50.26?lang=eng#25).)
+[D&amp;C 50:26](/scriptures/dc-testament/dc/50.26?lang=eng#25).)
 
 Within days of arriving in Europe, Sister Taylor and I, still living out of
 suitcases in a small hotel room in Germany, were scheduled to attend a mission
@@ -87,8 +85,8 @@ from them.
 
 You have those feelings of approaching in some small degree the indescribable
 joy of the celestial glory. He that loses his life shall save it. (See [Luke
-17:33](https://www.lds.org/scriptures/nt/luke/17.33?lang=eng#32).) My well of
-spirituality has indeed been deepened.
+17:33](/scriptures/nt/luke/17.33?lang=eng#32).) My well of spirituality has
+indeed been deepened.
 
 I invite those yet to be members of the Church to come off the back rows as
 spectators and become participants in the Lord's restored Church through
@@ -100,4 +98,6 @@ the least of the Brethren, I invite all to lengthen and strengthen their
 service in God's kingdom. I bear witness to the divinity of this work. I also
 bear witness that this Church is led by inspired leaders, whom I sustain with
 all of my soul, in the name of Jesus Christ, amen.
+
+## References
 

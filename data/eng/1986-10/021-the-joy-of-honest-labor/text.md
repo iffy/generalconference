@@ -9,7 +9,7 @@ unique. Welcome, welcome, Brother Joseph.
 
 In Proverbs we read, "Train up a child in the way he should go: and when he is
 old, he will not depart from it" ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5)).
+22:6](/scriptures/ot/prov/22.6?lang=eng#5)).
 
 One of the great challenges of life for parents from the very beginning has
 been succeeding in the very important task of rearing children. This great
@@ -56,7 +56,7 @@ riches of you. ...
 and that ye should not be laden with taxes, and that there should nothing come
 upon you which was grievous to be borne--and of all these things which I have
 spoken, ye yourselves are witnesses this day" ([Mosiah 2:12,
-14](https://www.lds.org/scriptures/bofm/mosiah/2.12%2C14?lang=eng#11)).
+14](/scriptures/bofm/mosiah/2.12,14?lang=eng#11)).
 
 Teaching children the joy of honest labor is one of the greatest of all gifts
 you can bestow upon them. I am convinced that one of the reasons for the
@@ -177,8 +177,7 @@ Is this not the same lesson that Paul was preaching when he declared:
 travail night and day, that we might not be chargeable to any of you:
 
 "Not because we have not power, but to make ourselves an ensample unto you to
-follow us" ([2 Thes.
-3:8-9](https://www.lds.org/scriptures/nt/2-thes/3.8-9?lang=eng#7)).
+follow us" ([2 Thes. 3:8-9](/scriptures/nt/2-thes/3.8-9?lang=eng#7)).
 
 An event occurred in my life about a month ago which impressed upon me the
 blessings that accrue to one over the years from good, early childhood
@@ -213,4 +212,6 @@ is the Lord's work in which we are engaged. He has charted the course and
 revealed the fundamental principles that will lead us back to His presence.
 May we have the strength and the courage to follow Him is my prayer in the
 name of Jesus Christ, amen.
+
+## References
 

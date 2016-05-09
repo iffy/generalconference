@@ -28,7 +28,7 @@ The Apostle Paul, in his second epistle to the Corinthians, urges that we turn
 from the narrow confinement of the letter of the law and seek the open vista
 of opportunity which the Spirit provides. I love and cherish Paul's statement:
 "The letter killeth, but the spirit giveth life." ([2 Cor.
-3:6](https://www.lds.org/scriptures/nt/2-cor/3.6?lang=eng#5).)
+3:6](/scriptures/nt/2-cor/3.6?lang=eng#5).)
 
 In a day of danger or a time of trial, such knowledge, such hope, such
 understanding bring comfort to the troubled mind and grieving heart. The
@@ -40,8 +40,7 @@ certain knowledge that our Heavenly Father is mindful of each of us.
 The Savior provided assurance of this truth when He taught that even a sparrow
 shall not fall to the ground unnoticed by our Father. He then concluded the
 beautiful thought by saying, "Fear ye not therefore, ye are of more value than
-many sparrows." ([Matt.
-10:29-31](https://www.lds.org/scriptures/nt/matt/10.29-31?lang=eng#28).)
+many sparrows." ([Matt. 10:29-31](/scriptures/nt/matt/10.29-31?lang=eng#28).)
 
 We live in a complex world with daily challenges. There is a tendency to feel
 detached--even isolated--from the Giver of every good gift. We worry that we
@@ -50,7 +49,7 @@ walk alone.
 From the bed of pain, from the pillow wet with the tears of loneliness, we are
 lifted heavenward by that divine assurance and precious promise, "I will not
 fail thee, nor forsake thee." ([Josh.
-1:5](https://www.lds.org/scriptures/ot/josh/1.5?lang=eng#4).)
+1:5](/scriptures/ot/josh/1.5?lang=eng#4).)
 
 Such comfort is priceless as we journey along the pathway of mortality, with
 its many forks and turnings. Rarely is the assurance communicated by a
@@ -185,8 +184,9 @@ following a prompting.
 As we pursue the journey of life, let us learn the language of the Spirit. May
 we remember and respond to the Master's gentle invitation: "Behold, I stand at
 the door, and knock: if any man hear my voice, and open the door, I will come
-in to him." ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).) This is the
+in to him." ([Rev. 3:20](/scriptures/nt/rev/3.20?lang=eng#19).) This is the
 language of the Spirit. He spoke it. He taught it. He lived it. May each of us
 do likewise, I pray in the name of Jesus Christ, amen.
+
+## References
 

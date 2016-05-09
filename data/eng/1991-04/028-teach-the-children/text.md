@@ -63,7 +63,7 @@ all who touch the lives and impress or influence the souls of these precious
 children. King Benjamin admonished parents many years ago, "But ye will teach
 them to walk in the ways of truth and soberness; ye will teach them to love
 one another, and to serve one another." ([Mosiah
-4:15](https://www.lds.org/scriptures/bofm/mosiah/4.15?lang=eng#14).)
+4:15](/scriptures/bofm/mosiah/4.15?lang=eng#14).)
 
 The critical nature of the first tender formative years cannot be overstated.
 These little ones are like seedlings in a plant nursery. All look much the
@@ -91,10 +91,9 @@ expect. We should spare no effort to help our children reach their full
 potential. Is it any wonder that Jesus brought the little children unto
 himself to teach and bless them? He said, "Whosoever shall receive one of such
 children in my name, receiveth me." ([Mark
-9:37](https://www.lds.org/scriptures/nt/mark/9.37?lang=eng#36).) He also said,
-"Even so it is not the will of your Father which is in heaven, that one of
-these little ones should perish." ([Matt.
-18:14](https://www.lds.org/scriptures/nt/matt/18.14?lang=eng#13).)
+9:37](/scriptures/nt/mark/9.37?lang=eng#36).) He also said, "Even so it is not
+the will of your Father which is in heaven, that one of these little ones
+should perish." ([Matt. 18:14](/scriptures/nt/matt/18.14?lang=eng#13).)
 
 When asked who is the greatest in the kingdom of heaven, the Savior "called a
 little child unto him, and set him in the midst of them,
@@ -104,8 +103,7 @@ children, ye shall not enter into the kingdom of heaven.
 
 "Whosoever therefore shall humble himself as this little child, the same is
 greatest in the kingdom of heaven." ([Matt.
-18:1-4](https://www.lds.org/scriptures/nt/matt/18.1-4?lang=eng#0); italics
-added.)
+18:1-4](/scriptures/nt/matt/18.1-4?lang=eng#0); italics added.)
 
 A recent experience illustrates the importance of each of these little
 children. One Saturday morning I was preparing for an activity with one of my
@@ -214,7 +212,7 @@ no question about the seriousness of harming children in any way when he said,
 "But whoso shall offend one of these little ones which believe in me, it were
 better for him that a millstone were hanged about his neck, and that he were
 drowned in the depth of the sea." ([Matt.
-18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5).)
+18:6](/scriptures/nt/matt/18.6?lang=eng#5).)
 
 We plead with you to take time for your children and your grandchildren while
 they are young. Special moments may come only once. Before we are aware, they
@@ -227,4 +225,6 @@ ourselves as little children and keep the commandments of God. May we be
 blessed with the Spirit of Christ in our own lives, and may we have his Spirit
 with us in teaching little children is my humble prayer, in the name of Jesus
 Christ, amen.
+
+## References
 

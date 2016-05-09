@@ -43,14 +43,14 @@ is his resurrected Son, Jesus Christ.
 
 When first communicated to mankind by prophets, the teachings we now have in
 the Bible were "plain and pure, and most precious and easy" to understand ([1
-Ne. 14:23](https://www.lds.org/scriptures/bofm/1-ne/14.23?lang=eng#22)). Even
-in the transmitted and translated version we have today, the Bible language
-confirms that God the Father and his resurrected Son, Jesus Christ, are
-tangible, separate beings. To cite only two of many such teachings, the Bible
-declares that man was created in the image of God, and it describes three
-separate members of the Godhead manifested at the baptism of Jesus (see [Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26); [Matt.
-3:13-17](https://www.lds.org/scriptures/nt/matt/3.13-17?lang=eng#12)).
+Ne. 14:23](/scriptures/bofm/1-ne/14.23?lang=eng#22)). Even in the transmitted
+and translated version we have today, the Bible language confirms that God the
+Father and his resurrected Son, Jesus Christ, are tangible, separate beings.
+To cite only two of many such teachings, the Bible declares that man was
+created in the image of God, and it describes three separate members of the
+Godhead manifested at the baptism of Jesus (see [Gen.
+1:27](/scriptures/ot/gen/1.27?lang=eng#26); [Matt.
+3:13-17](/scriptures/nt/matt/3.13-17?lang=eng#12)).
 
 In contrast, many Christians reject the idea of a tangible, personal God and a
 Godhead of three separate beings. They believe that God is a spirit and that
@@ -74,7 +74,7 @@ The collision between the speculative world of Greek philosophy and the
 simple, literal faith and practice of the earliest Christians produced sharp
 contentions that threatened to widen political divisions in the fragmenting
 Roman empire. This led Emperor Constantine to convene the first churchwide
-council in A.D. 325\. The action of this council of Nicaea remains the most
+council in A.D. 325. The action of this council of Nicaea remains the most
 important single event after the death of the Apostles in formulating the
 modern Christian concept of deity. The Nicene Creed erased the idea of the
 separate being of Father and Son by defining God the Son as being of "one
@@ -119,21 +119,20 @@ servants of God.
 Then came the First Vision. An unschooled boy, seeking knowledge from the
 ultimate source, saw two personages of indescribable brightness and glory and
 heard one of them say, while pointing to the other, "This is My Beloved Son.
-Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) The divine
+Hear Him!" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) The divine
 teaching in that vision began the restoration of the fulness of the gospel of
 Jesus Christ. God the Son told the boy prophet that all the "creeds" of the
 churches of that day "were an abomination in his sight" ([JS--H
-1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18)). We affirm
-that this divine declaration was a condemnation of the creeds, not of the
-faithful seekers who believed in them. Joseph Smith's first vision showed that
-the prevailing concepts of the nature of God and the Godhead were untrue and
-could not lead their adherents to the destiny God desired for them.
+1:19](/scriptures/pgp/js-h/1.19?lang=eng#18)). We affirm that this divine
+declaration was a condemnation of the creeds, not of the faithful seekers who
+believed in them. Joseph Smith's first vision showed that the prevailing
+concepts of the nature of God and the Godhead were untrue and could not lead
+their adherents to the destiny God desired for them.
 
 After a subsequent outpouring of modern scripture and revelation, this modern
 prophet declared, "The Father has a body of flesh and bones as tangible as
 man's; the Son also; but the Holy Ghost has not a body of flesh and bones, but
-is a personage of Spirit" ([D&amp;C 130:22](https://www.lds.org/scriptures/dc-
+is a personage of Spirit" ([D&amp;C 130:22](/scriptures/dc-
 testament/dc/130.22?lang=eng#21)).
 
 This belief does not mean that we claim sufficient spiritual maturity to
@@ -151,14 +150,12 @@ himself" (in_ Journal of Discourses,_ 16:75; see also _The Words of Joseph
 Smith,_ ed. Andrew F. Ehat and Lyndon W. Cook, Provo: Religious Studies
 Center, Brigham Young University, 1980, p. 340). The Bible describes mortals
 as "the children of God" and as "heirs of God, and joint-heirs with Christ"
-([Rom. 8:16-17](https://www.lds.org/scriptures/nt/rom/8.16-17?lang=eng#15)).
-It also declares that "we suffer with him, that we may be also glorified
-together" ([Rom.
-8:17](https://www.lds.org/scriptures/nt/rom/8.17?lang=eng#16)) and that "when
-he shall appear, we shall be like him" ([1 Jn.
-3:2](https://www.lds.org/scriptures/nt/1-jn/3.2?lang=eng#1)). We take these
-Bible teachings literally. We believe that the purpose of mortal life is to
-acquire a physical body and, through the atonement of Jesus Christ and by
+([Rom. 8:16-17](/scriptures/nt/rom/8.16-17?lang=eng#15)). It also declares
+that "we suffer with him, that we may be also glorified together" ([Rom.
+8:17](/scriptures/nt/rom/8.17?lang=eng#16)) and that "when he shall appear, we
+shall be like him" ([1 Jn. 3:2](/scriptures/nt/1-jn/3.2?lang=eng#1)). We take
+these Bible teachings literally. We believe that the purpose of mortal life is
+to acquire a physical body and, through the atonement of Jesus Christ and by
 obedience to the laws and ordinances of the gospel, to qualify for the
 glorified, resurrected celestial state that is called exaltation or eternal
 life.
@@ -176,62 +173,54 @@ glory for which their obedience has qualified them. In his letters to the
 Corinthians, the Apostle Paul described these places. He told of a vision in
 which he was "caught up to the third heaven" and "heard unspeakable words,
 which it is not lawful for a man to utter" ([2 Cor. 12:2,
-4](https://www.lds.org/scriptures/nt/2-cor/12.2%2C4?lang=eng#1)). Speaking of
-the resurrection of the dead, he described "celestial bodies," "bodies
-terrestrial" ([1 Cor.
-15:40](https://www.lds.org/scriptures/nt/1-cor/15.40?lang=eng#39)), and
-"bodies telestial" (JST, 1 Cor. 15:40), each pertaining to a different degree
-of glory. He likened these different glories to the sun, to the moon, and to
-different stars (see [1 Cor.
-15:41](https://www.lds.org/scriptures/nt/1-cor/15.41?lang=eng#40)).
+4](/scriptures/nt/2-cor/12.2,4?lang=eng#1)). Speaking of the resurrection of
+the dead, he described "celestial bodies," "bodies terrestrial" ([1 Cor.
+15:40](/scriptures/nt/1-cor/15.40?lang=eng#39)), and "bodies telestial" (JST,
+1 Cor. 15:40), each pertaining to a different degree of glory. He likened
+these different glories to the sun, to the moon, and to different stars (see
+[1 Cor. 15:41](/scriptures/nt/1-cor/15.41?lang=eng#40)).
 
 We learn from modern revelation that these three different degrees of glory
 have a special relationship to the three different members of the Godhead.
 
 The lowest degree is the telestial domain of those who "received not the
 gospel, neither the testimony of Jesus, neither the prophets" ([D&amp;C
-76:101](https://www.lds.org/scriptures/dc-testament/dc/76.101?lang=eng#100))
-and who have had to suffer for their wickedness. But even this degree has a
-glory that "surpasses all understanding" ([D&amp;C
-76:89](https://www.lds.org/scriptures/dc-testament/dc/76.89?lang=eng#88)). Its
-occupants receive the Holy Spirit and the administering of angels, for even
-those who have been wicked will ultimately be "heirs of [this degree of]
-salvation" ([D&amp;C 76:88](https://www.lds.org/scriptures/dc-
-testament/dc/76.88?lang=eng#87)).
+76:101](/scriptures/dc-testament/dc/76.101?lang=eng#100)) and who have had to
+suffer for their wickedness. But even this degree has a glory that "surpasses
+all understanding" ([D&amp;C 76:89](/scriptures/dc-
+testament/dc/76.89?lang=eng#88)). Its occupants receive the Holy Spirit and
+the administering of angels, for even those who have been wicked will
+ultimately be "heirs of [this degree of] salvation" ([D&amp;C
+76:88](/scriptures/dc-testament/dc/76.88?lang=eng#87)).
 
 The next higher degree of glory, the terrestrial, "excels in all things the
 glory of the telestial, even in glory, and in power, and in might, and in
-dominion" ([D&amp;C 76:91](https://www.lds.org/scriptures/dc-
-testament/dc/76.91?lang=eng#90)). The terrestrial is the abode of those who
-were the "honorable men of the earth" ([D&amp;C
-76:75](https://www.lds.org/scriptures/dc-testament/dc/76.75?lang=eng#74)). Its
+dominion" ([D&amp;C 76:91](/scriptures/dc-testament/dc/76.91?lang=eng#90)).
+The terrestrial is the abode of those who were the "honorable men of the
+earth" ([D&amp;C 76:75](/scriptures/dc-testament/dc/76.75?lang=eng#74)). Its
 most distinguishing feature is that those who qualify for terrestrial glory
-"receive of the presence of the Son" ([D&amp;C
-76:77](https://www.lds.org/scriptures/dc-testament/dc/76.77?lang=eng#76)).
-Concepts familiar to all Christians might liken this higher kingdom to heaven
-because it has the presence of the Son.
+"receive of the presence of the Son" ([D&amp;C 76:77](/scriptures/dc-
+testament/dc/76.77?lang=eng#76)). Concepts familiar to all Christians might
+liken this higher kingdom to heaven because it has the presence of the Son.
 
 In contrast to traditional Christianity, we join with Paul in affirming the
 existence of a third or higher heaven. Modern revelation describes it as the
 celestial kingdom--the abode of those "whose bodies are celestial, whose glory
-is that of the sun, even the glory of God" ([D&amp;C
-76:70](https://www.lds.org/scriptures/dc-testament/dc/76.70?lang=eng#69)).
-Those who qualify for this kingdom of glory "shall dwell in the presence of
-God and his Christ forever and ever" ([D&amp;C
-76:62](https://www.lds.org/scriptures/dc-testament/dc/76.62?lang=eng#61)).
-Those who have met the highest requirements for this kingdom, including
-faithfulness to covenants made in a temple of God and marriage for eternity,
-will be exalted to the godlike state referred to as the "fulness" of the
-Father or eternal life ([D&amp;C 76:56, 94](https://www.lds.org/scriptures/dc-
-testament/dc/76.56%2C94?lang=eng#55); see also [D&amp;C
-131](https://www.lds.org/scriptures/dc-testament/dc/131.title?lang=eng);
-[D&amp;C 132:19-20](https://www.lds.org/scriptures/dc-
-testament/dc/132.19-20?lang=eng#18)). (This destiny of eternal life or God's
-life should be familiar to all who have studied the ancient Christian doctrine
-of and belief in deification or apotheosis.) For us, eternal life is not a
-mystical union with an incomprehensible spirit-god. Eternal life is family
-life with a loving Father in Heaven and with our progenitors and our
-posterity.
+is that of the sun, even the glory of God" ([D&amp;C 76:70](/scriptures/dc-
+testament/dc/76.70?lang=eng#69)). Those who qualify for this kingdom of glory
+"shall dwell in the presence of God and his Christ forever and ever" ([D&amp;C
+76:62](/scriptures/dc-testament/dc/76.62?lang=eng#61)). Those who have met the
+highest requirements for this kingdom, including faithfulness to covenants
+made in a temple of God and marriage for eternity, will be exalted to the
+godlike state referred to as the "fulness" of the Father or eternal life
+([D&amp;C 76:56, 94](/scriptures/dc-testament/dc/76.56,94?lang=eng#55); see
+also [D&amp;C 131](/scriptures/dc-testament/dc/131?lang=eng); [D&amp;C
+132:19-20](/scriptures/dc-testament/dc/132.19-20?lang=eng#18)). (This destiny
+of eternal life or God's life should be familiar to all who have studied the
+ancient Christian doctrine of and belief in deification or apotheosis.) For
+us, eternal life is not a mystical union with an incomprehensible spirit-god.
+Eternal life is family life with a loving Father in Heaven and with our
+progenitors and our posterity.
 
 The theology of the restored gospel of Jesus Christ is comprehensive,
 universal, merciful, and true. Following the necessary experience of mortal
@@ -242,7 +231,7 @@ us can comprehend. Even the wicked, or almost all of them, will ultimately go
 to a marvelous--though lesser--kingdom of glory. All of that will occur
 because of God's love for his children and because of the atonement and
 resurrection of Jesus Christ, "who glorifies the Father, and saves all the
-works of his hands" ([D&amp;C 76:43](https://www.lds.org/scriptures/dc-
+works of his hands" ([D&amp;C 76:43](/scriptures/dc-
 testament/dc/76.43?lang=eng#42)).
 
 The purpose of The Church of Jesus Christ of Latter-day Saints is to help all
@@ -264,4 +253,6 @@ Christians with other beliefs. This is why we build temples. This is the faith
 that gives us strength and joy to confront the challenges of mortal life. We
 offer these truths and opportunities to all people and testify to their
 truthfulness in the name of Jesus Christ, amen.
+
+## References
 

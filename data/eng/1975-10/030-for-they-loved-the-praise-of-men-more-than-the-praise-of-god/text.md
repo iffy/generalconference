@@ -94,7 +94,7 @@ chosen?
 aspire to the honors of men, that they do not learn this one lesson--
 
 "That the rights of the priesthood are inseparably connected with the powers
-of heaven." ([D&amp;C 121:34-36](https://www.lds.org/scriptures/dc-
+of heaven." ([D&amp;C 121:34-36](/scriptures/dc-
 testament/dc/121.34-36?lang=eng#33).)
 
 The next: "This know also, that in the last days perilous times shall come.
@@ -108,7 +108,7 @@ fierce, despisers of those that are good,
 "Traitors, heady, highminded, lovers of pleasures more than lovers of God;
 
 "Having a form of godliness, but denying the power thereof." ([2 Tim.
-3:1-5](https://www.lds.org/scriptures/nt/2-tim/3.1-5?lang=eng#0).)
+3:1-5](/scriptures/nt/2-tim/3.1-5?lang=eng#0).)
 
 And finally:
 
@@ -117,7 +117,7 @@ the Pharisees they did not confess him, lest they should be put out of the
 synagogue:
 
 "For they loved the praise of men more than the praise of God." ([John
-12:42-43](https://www.lds.org/scriptures/nt/john/12.42-43?lang=eng#41).)
+12:42-43](/scriptures/nt/john/12.42-43?lang=eng#41).)
 
 It is this last passage with which I should like to deal this evening.
 
@@ -182,7 +182,7 @@ his business; and there was none of the men of the house there within.
 
 "And she [Potiphar's wife] caught him by his garment, saying, Lie with me: and
 he left his garment in her hand, and fled, and got him out." ([Gen.
-39:11-12](https://www.lds.org/scriptures/ot/gen/39.11-12?lang=eng#10).)
+39:11-12](/scriptures/ot/gen/39.11-12?lang=eng#10).)
 
 We remember how he was made to suffer for this but how the Lord blessed him.
 
@@ -242,15 +242,14 @@ Christ to see how people in high places, in order to enjoy the praise of those
 who are so vocal in encouraging and promoting immorality, do not take a stand
 against these evils and promote the teachings of Christ which are so clearly
 stated in these words in the Ten Commandments: "Thou shalt not commit
-adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).)
+adultery." ([Ex. 20:14](/scriptures/ot/ex/20.14?lang=eng#13).)
 
 And then in 1 Corinthians we read:
 
 "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not
 deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate,
 nor abusers of themselves with mankind." ([1 Cor.
-6:9](https://www.lds.org/scriptures/nt/1-cor/6.9?lang=eng#8).)
+6:9](/scriptures/nt/1-cor/6.9?lang=eng#8).)
 
 We also find legislation having been passed and being passed legalizing these
 very things contrary to the will of the Lord. It is permissive legislation of
@@ -287,8 +286,7 @@ with all longsuffering and doctrine.
 their own lusts shall they heap to themselves teachers, having itching ears;
 
 "And they shall turn away their ears from the truth, and shall be turned unto
-fables." ([2 Tim.
-4:1-4](https://www.lds.org/scriptures/nt/2-tim/4.1-4?lang=eng#0).)
+fables." ([2 Tim. 4:1-4](/scriptures/nt/2-tim/4.1-4?lang=eng#0).)
 
 How fortunate we are to be members of The Church of Jesus Christ of Latter-day
 Saints where we have the gospel in its fulness as recorded in the four
@@ -298,12 +296,14 @@ whom the Lord speaks to guide and direct us in these latter days.
 
 As we read in Acts, "Neither is there salvation in any other: for there is
 none other name under heaven given among men, whereby we must be saved."
-([Acts 4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11).)
+([Acts 4:12](/scriptures/nt/acts/4.12?lang=eng#11).)
 
 May we have the courage, strength, understanding, desire, and determination to
 do as Joshua said: "Choose you this day whom ye will serve; ... but as for me
 and my house, we will serve the Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 This I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

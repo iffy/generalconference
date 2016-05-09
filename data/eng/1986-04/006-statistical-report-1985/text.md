@@ -173,3 +173,5 @@ Twelve Apostles; Norma P. Anderson, wife of Elder Joseph Anderson; Dorothy C.
 Stone, wife of Elder O. Leslie Stone; and Richard P. Condie, director of the
 Salt Lake Tabernacle Choir for seventeen years.
 
+## References
+

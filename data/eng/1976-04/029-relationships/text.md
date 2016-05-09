@@ -120,20 +120,19 @@ depreciate his family relationship but to teach a special lesson, and said,
 before him, he said, stretching forth his hand toward his disciples, "Behold
 my mother and my brethren! For whosoever shall do the will of my Father which
 is in heaven, the same is my brother, and sister, and mother." ([Matt.
-12:48-50](https://www.lds.org/scriptures/nt/matt/12.48-50?lang=eng#47).)
+12:48-50](/scriptures/nt/matt/12.48-50?lang=eng#47).)
 
 What I experienced in South America was described by Paul in his letter to the
 saints in Ephesus: "Now therefore ye are no more strangers and foreigners, but
 fellowcitizens with the saints, and of the household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).)
+2:19](/scriptures/nt/eph/2.19?lang=eng#18).)
 
 Does not this word _household_ denote a family relationship?
 
 From these examples I infer that God the Father, after having scattered his
 children abroad in the earth for their experience, desires to bring them home
 again. We, who, as Peter said, "are given ... exceeding great and precious
-promises" ([2 Pet.
-1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3)), have ourselves
+promises" ([2 Pet. 1:4](/scriptures/nt/2-pet/1.4?lang=eng#3)), have ourselves
 promised to engage in a lifetime of service in behalf of our brothers and
 sisters who are not so favored.
 
@@ -161,7 +160,9 @@ it by inviting others to accept the restored gospel. We do it by extending our
 hands across the spiritual spaces to those many relatives who died without the
 gospel. Those who destroy homes commit a crime against eternity. If we do not
 put our family together, Moroni says the whole earth will be utterly wasted at
-Christ's coming. ([D&amp;C 2:3](https://www.lds.org/scriptures/dc-
-testament/dc/2.3?lang=eng#2).) May God bless us to be saviors in the Lord's
-family, rather than destroyers, I pray in the name of Jesus Christ. Amen.
+Christ's coming. ([D&amp;C 2:3](/scriptures/dc-testament/dc/2.3?lang=eng#2).)
+May God bless us to be saviors in the Lord's family, rather than destroyers, I
+pray in the name of Jesus Christ. Amen.
+
+## References
 

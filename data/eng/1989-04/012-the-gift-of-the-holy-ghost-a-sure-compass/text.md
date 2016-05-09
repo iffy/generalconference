@@ -15,10 +15,9 @@ It was a profoundly moving event those centuries ago when the Savior led his
 beloved disciples into the favored Garden of Gethsemane for the last time.
 Jesus was mindful of the great ordeal ahead of him. He agonized, "My soul is
 exceeding sorrowful unto death: tarry ye here, and watch." ([Mark
-14:34](https://www.lds.org/scriptures/nt/mark/14.34?lang=eng#33).) He was
-ready for the unspeakable agony. Said he, "The spirit truly is ready, but the
-flesh is weak." ([Mark
-14:38](https://www.lds.org/scriptures/nt/mark/14.38?lang=eng#37).)
+14:34](/scriptures/nt/mark/14.34?lang=eng#33).) He was ready for the
+unspeakable agony. Said he, "The spirit truly is ready, but the flesh is
+weak." ([Mark 14:38](/scriptures/nt/mark/14.38?lang=eng#37).)
 
 The eleven Apostles no doubt sensed--but could not understand--that some
 portentous event would happen. Jesus had spoken of leaving them. They knew
@@ -27,7 +26,7 @@ where, they did not know. They had heard him say, "I will not leave you
 comfortless. ... But the Comforter, which is the Holy Ghost, whom the Father
 will send in my name, he shall teach you all things, and bring all things to
 your remembrance, whatsoever I have said unto you." ([John 14:18,
-26](https://www.lds.org/scriptures/nt/john/14.18%2C26?lang=eng#17).)
+26](/scriptures/nt/john/14.18,26?lang=eng#17).)
 
 It is of this Comforter that I wish to speak today. I do so because I am
 persuaded that there is a greater need for divine oversight in our lives today
@@ -41,14 +40,13 @@ the medium through whom God and his Son, Jesus Christ, communicate with men
 Lake City: Deseret Book Co., 1966, p. 119.) All men are enlightened by the
 Spirit of God, or Light of Christ--sometimes called conscience. Job stated,
 "But there is a spirit in man: and the inspiration of the Almighty giveth them
-understanding." ([Job
-32:8](https://www.lds.org/scriptures/ot/job/32.8?lang=eng#7).) This is the
+understanding." ([Job 32:8](/scriptures/ot/job/32.8?lang=eng#7).) This is the
 Spirit of God emanating from Deity. This power of God is the means by which,
 as President Joseph F. Smith stated, "every man is enlightened, the wicked as
 well as the good, the intelligent and the ignorant, the high and the low, each
 in accordance with his capacity to receive the light." (_Gospel Doctrine,_ 5th
 ed., Salt Lake City: Deseret Book Co., 1939, p. 62; see also [D&amp;C
-88:3-13](https://www.lds.org/scriptures/dc-testament/dc/88.3-13?lang=eng#2).)
+88:3-13](/scriptures/dc-testament/dc/88.3-13?lang=eng#2).)
 
 The gift of the Holy Ghost, however, in distinction from the Spirit of God,
 does not come to all men and women. The ministrations of the Holy Ghost are,
@@ -59,10 +57,10 @@ Fielding Smith, Salt Lake City: Deseret Book Co., 1938, p. 199). Many outside
 the Church have received revelation from the Holy Ghost, convincing them of
 the truth of the gospel. Cornelius, as well as many in attendance on the day
 of Pentecost, received the Holy Ghost before baptism. (See [Acts
-2:1-12](https://www.lds.org/scriptures/nt/acts/2.1-12?lang=eng#0); [Acts
-10:30-44](https://www.lds.org/scriptures/nt/acts/10.30-44?lang=eng#29).) It is
-through this power that seekers after truth acquire a testimony of the Book of
-Mormon and the principles of the gospel.
+2:1-12](/scriptures/nt/acts/2.1-12?lang=eng#0); [Acts
+10:30-44](/scriptures/nt/acts/10.30-44?lang=eng#29).) It is through this power
+that seekers after truth acquire a testimony of the Book of Mormon and the
+principles of the gospel.
 
 The gift of the Holy Ghost comes after one repents and becomes worthy. It is
 received after baptism by the laying on of hands by those who have the
@@ -70,12 +68,12 @@ authority. On the day of Pentecost, Peter instructed those who had previously
 been touched spiritually by the Holy Ghost, "Repent, and be baptized every one
 of you in the name of Jesus Christ for the remission of sins, and ye shall
 receive the gift of the Holy Ghost." ([Acts
-2:38](https://www.lds.org/scriptures/nt/acts/2.38?lang=eng#37).) Those
-possessing the gift of the Holy Ghost can come to a greater light and
-testimony. The Holy Ghost bears witness of the truth and impresses upon the
-soul the reality of God the Father and the son Jesus Christ so deeply that no
-earthly power or authority can separate him from that knowledge. (See [2 Ne.
-31:18](https://www.lds.org/scriptures/bofm/2-ne/31.18?lang=eng#17).)
+2:38](/scriptures/nt/acts/2.38?lang=eng#37).) Those possessing the gift of the
+Holy Ghost can come to a greater light and testimony. The Holy Ghost bears
+witness of the truth and impresses upon the soul the reality of God the Father
+and the son Jesus Christ so deeply that no earthly power or authority can
+separate him from that knowledge. (See [2 Ne.
+31:18](/scriptures/bofm/2-ne/31.18?lang=eng#17).)
 
 The Book of Mormon, the Bible, and other scriptures, along with the guidance
 of modern prophets, provide true standards of conduct. In addition, the gift
@@ -114,7 +112,7 @@ is good.
 "And others will he pacify, and lull them away into carnal security, that they
 will say: All is well in Zion; yea, Zion prospereth, all is well--and thus the
 devil cheateth their souls, and leadeth them away carefully down to hell." ([2
-Ne. 28:20-21](https://www.lds.org/scriptures/bofm/2-ne/28.20-21?lang=eng#19).)
+Ne. 28:20-21](/scriptures/bofm/2-ne/28.20-21?lang=eng#19).)
 
 I have always been fascinated that people are led carefully down to hell.
 
@@ -141,7 +139,7 @@ a member of the Godhead. The Doctrine and Covenants explains why the Holy
 Ghost is a personage of spirit: "The Father has a body of flesh and bones as
 tangible as man's; the Son also; but the Holy Ghost has not a body of flesh
 and bones, but is a personage of Spirit. Were it not so, the Holy Ghost could
-not dwell in us." ([D&amp;C 130:22](https://www.lds.org/scriptures/dc-
+not dwell in us." ([D&amp;C 130:22](/scriptures/dc-
 testament/dc/130.22?lang=eng#21).)
 
 The gift of the Holy Ghost entitles a person who is desirous and worthy to
@@ -176,15 +174,15 @@ questions disappear.
 
 The Apostle Paul said, "For the kingdom of God is not meat and drink; but
 righteousness, and peace, and joy in the Holy Ghost." ([Rom.
-14:17](https://www.lds.org/scriptures/nt/rom/14.17?lang=eng#16).) He added
-elsewhere that true Saints are the "temple of the Holy Ghost." ([1 Cor.
-6:19](https://www.lds.org/scriptures/nt/1-cor/6.19?lang=eng#18).)
+14:17](/scriptures/nt/rom/14.17?lang=eng#16).) He added elsewhere that true
+Saints are the "temple of the Holy Ghost." ([1 Cor.
+6:19](/scriptures/nt/1-cor/6.19?lang=eng#18).)
 
 I wish to say a word about the Holy Spirit of Promise, which is the sealing
 and ratifying power of the Holy Ghost. To have a covenant or ordinance sealed
 by the Holy Spirit of Promise is a compact through which the inherent
 blessings will be obtained, provided those seeking the blessing are true and
-faithful. (See [D&amp;C 76:50-54](https://www.lds.org/scriptures/dc-
+faithful. (See [D&amp;C 76:50-54](/scriptures/dc-
 testament/dc/76.50-54?lang=eng#49).)
 
 For example, when the covenant of marriage for time and eternity, the
@@ -215,8 +213,7 @@ faithful souls who receive no miracles, whose prayers are not answered in the
 way they wish? What is their solace? From whence will their comfort come? Said
 the Savior of the world, "I will not leave you comfortless: I will come to
 you. ... But the Comforter, which is the Holy Ghost, ... the Father will send in
-my name." ([John 14:18,
-26](https://www.lds.org/scriptures/nt/john/14.18%2C26?lang=eng#17).)
+my name." ([John 14:18, 26](/scriptures/nt/john/14.18,26?lang=eng#17).)
 
 In simple terms, the gift of the Holy Ghost is an enhanced spiritual power
 permitting those entitled thereto to receive it, to receive a greater
@@ -257,6 +254,8 @@ I pray that the promise of the Lord will be fulfilled for each of us, that
 "the Holy Ghost shall be [our] constant companion, and [our] scepter an
 unchanging scepter of righteousness and truth; and [our] dominion shall be an
 everlasting dominion, and without compulsory means it shall flow unto [us]
-forever and ever." ([D&amp;C 121:46](https://www.lds.org/scriptures/dc-
+forever and ever." ([D&amp;C 121:46](/scriptures/dc-
 testament/dc/121.46?lang=eng#45).) In the name of Jesus Christ, amen.
+
+## References
 

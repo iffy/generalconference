@@ -17,7 +17,7 @@ land:
 
 "But if ye refuse and rebel, ye shall be devoured with the sword: for the
 mouth of the Lord hath spoken it." ([Isa.
-1:19-20](https://www.lds.org/scriptures/ot/isa/1.19-20?lang=eng#18).)
+1:19-20](/scriptures/ot/isa/1.19-20?lang=eng#18).)
 
 I recall sitting in this Tabernacle when I was fourteen or fifteen--up in the
 balcony right behind the clock--and hearing President Heber J. Grant tell of
@@ -27,8 +27,7 @@ ringing with a conviction that I shall never forget, he quoted those great
 words of Nephi: "I will go and do the things which the Lord hath commanded,
 for I know that the Lord giveth no commandments unto the children of men, save
 he shall prepare a way for them that they may accomplish the thing which he
-commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+commandeth them." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 There came into my young heart on that occasion a resolution to try to do what
 the Lord has commanded. I would that I might have the power, through the
@@ -56,14 +55,14 @@ appears to be no way.
 Facing Trafalgar Square in London is the National Art Gallery of Britain, in
 which hangs Sir Joshua Reynolds' painting of the boy Samuel, who as a child
 heard a voice and replied, "Speak; for thy servant heareth." ([1 Sam.
-3:10](https://www.lds.org/scriptures/ot/1-sam/3.10?lang=eng#9).)
+3:10](/scriptures/ot/1-sam/3.10?lang=eng#9).)
 
 From that day Samuel walked in obedience to the commandments of God and became
 the great prophet of Israel. He it was who selected and ordained both King
 Saul and King David. And it was to Saul that he declared in a rebuke that has
 rung down through the ages, "... to obey is better than sacrifice, and to
 hearken than the fat of rams." ([1 Sam.
-15:22](https://www.lds.org/scriptures/ot/1-sam/15.22?lang=eng#21).)
+15:22](/scriptures/ot/1-sam/15.22?lang=eng#21).)
 
 I draw strength from a simple statement made concerning the Prophet Elijah,
 who warned King Ahab of drought and famine to come upon the land. But Ahab
@@ -71,7 +70,7 @@ scoffed. And the Lord told Elijah to go and hide himself by the brook Cherith,
 that there he should drink of the brook, and that he would be fed by the
 ravens. And the scripture records a simple and wonderful statement: "So he
 went and did according unto the word of the Lord." ([1 Kgs.
-17:5](https://www.lds.org/scriptures/ot/1-kgs/17.5?lang=eng#4).)
+17:5](/scriptures/ot/1-kgs/17.5?lang=eng#4).)
 
 There was no arguing. There was no excusing. There was no equivocating. Elijah
 simply "went and did according unto the word of the Lord." And he was saved
@@ -90,8 +89,7 @@ don't ask me.")
 "And the Lord said unto him, Who hath made man's mouth? ...
 
 "Now therefore go, and I will be with thy mouth, and teach thee what thou
-shalt say." ([Ex.
-4:10-12](https://www.lds.org/scriptures/ot/ex/4.10-12?lang=eng#9).)
+shalt say." ([Ex. 4:10-12](/scriptures/ot/ex/4.10-12?lang=eng#9).)
 
 In 1837, when the Church was struggling in Kirtland, Ohio, the Prophet Joseph
 Smith called Heber C. Kimball to go to England to open the work there. Brother
@@ -126,8 +124,7 @@ so distasteful a thing and went away. Only when his servants pleaded with him
 was he humbled enough to return. And the record says, "Then went he down, and
 dipped himself seven times in Jordan, according to the saying of the man of
 God: and his flesh came again like unto the flesh of a little child, and he
-was clean." (See [2 Kgs.
-5:1-10](https://www.lds.org/scriptures/ot/2-kgs/5.1-10?lang=eng#0).)
+was clean." (See [2 Kgs. 5:1-10](/scriptures/ot/2-kgs/5.1-10?lang=eng#0).)
 
 There sits in this hall a man known to many of you. Some years ago he received
 a missionary call to the Western States Mission with headquarters in Denver.
@@ -217,4 +214,6 @@ Help us, O God, to be willing and obedient, that we may eat the good of the
 land. Help us, Father, to place our trust in thee, to go forth with willing,
 subdued hearts, that we may be worthy of thy blessings, I humbly pray in the
 name of Jesus Christ. Amen.
+
+## References
 

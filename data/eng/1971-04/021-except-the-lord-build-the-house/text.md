@@ -56,7 +56,7 @@ I desire to say a few words about the prevention of such tragedy.
 To those of you who, with glad hearts, dream of marriage and the establishment
 of a home, I wish to repeat what was said of old: "Except the Lord build the
 house, they labour in vain that build it." ([Ps.
-127:1](https://www.lds.org/scriptures/ot/ps/127.1?lang=eng#0).)
+127:1](/scriptures/ot/ps/127.1?lang=eng#0).)
 
 May I quickly suggest four cornerstones upon which to build that house? There
 are others, but I choose to emphasize these. They come of the gospel of Jesus
@@ -97,7 +97,7 @@ The second thing I mention is a very simple thing, but I regard it as a very
 basic thing. For want of a better phrase I call it _The Soft Answer._
 
 It was said of old that "a soft answer turneth away wrath." ([Prov.
-15:1](https://www.lds.org/scriptures/ot/prov/15.1?lang=eng#0).)
+15:1](/scriptures/ot/prov/15.1?lang=eng#0).)
 
 We seldom get into trouble when we speak softly. It is only when we raise our
 voices that the sparks fly and tiny molehills become great mountains of
@@ -109,7 +109,7 @@ earthquake; but the Lord was not in the earthquake:
 
 "And after the earthquake a fire; but the Lord was not in the fire: and after
 the fire a still small voice." ([1 Kgs.
-19:11-12](https://www.lds.org/scriptures/ot/1-kgs/19.11-12?lang=eng#10).)
+19:11-12](/scriptures/ot/1-kgs/19.11-12?lang=eng#10).)
 
 The voice of heaven is a still small voice; likewise, the voice of domestic
 peace is a quiet voice.
@@ -129,7 +129,7 @@ and wives would cultivate the discipline of speaking softly one to another,
 and if both would so speak to their children.
 
 Declared Paul: "... ye fathers, provoke not your children to wrath. ..." ([Eph.
-6:4](https://www.lds.org/scriptures/nt/eph/6.4?lang=eng#3).)
+6:4](/scriptures/nt/eph/6.4?lang=eng#3).)
 
 I repeat, the voice of domestic peace is a gentle voice.
 
@@ -151,7 +151,7 @@ commandment given to ancient Israel through the prophet Malachi: "Bring ye all
 the tithes into the storehouse, ... and prove me now herewith, saith the Lord of
 hosts, if I will not open you the windows of heaven, and pour you out a
 blessing, that there shall not be room enough to receive it." ([Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).)
+3:10](/scriptures/ot/mal/3.10?lang=eng#9).)
 
 Marriage usually brings with it the incurring of many obligations. To you, my
 young friends, I should like to suggest that you make it your first obligation
@@ -198,4 +198,6 @@ The destroying angel of domestic bitterness will pass you by and you will know
 peace and love throughout your lives which may be extended into all eternity.
 I could wish for you no greater blessing, and for this I humbly pray in your
 behalf, in the name of Jesus Christ. Amen.
+
+## References
 

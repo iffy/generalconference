@@ -140,8 +140,7 @@ When our lives are consistent with his gospel, we receive confidence through
 his Spirit to meet the challenges of each day. We can say with Nephi: "The
 Lord is able to do all things according to his will, for the children of men,
 if it so be that they exercise faith in him. ... Wherefore, let us be faithful
-to him." ([1 Ne.
-7:12](https://www.lds.org/scriptures/bofm/1-ne/7.12?lang=eng#11).)
+to him." ([1 Ne. 7:12](/scriptures/bofm/1-ne/7.12?lang=eng#11).)
 
 The Prophet Joseph Smith's belief in God, his faith in God's interest in him,
 gave him the courage and optimism to say:
@@ -169,4 +168,6 @@ of the Lord.
 
 May we all make our decisions in the favorable light of the gospel of Jesus
 Christ, I pray in the name of Jesus Christ, amen.
+
+## References
 

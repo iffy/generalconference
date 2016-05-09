@@ -47,11 +47,11 @@ Criticism always hurts most when we deserve it. There are a few active members
 who don't live up to what they have been taught. They can be condescending,
 intolerant, or clannish. Such characteristics strike at the very heart of the
 second great commandment, "Thou shalt love thy neighbour as thyself." ([Matt.
-22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38).) One can be
-a friend to all without participating in all of their activities. How
-shortsighted one is to place church denominational limits on his friendships.
-How one robs himself when his friendship is contingent upon another's
-willingness to listen to the first discussion.
+22:39](/scriptures/nt/matt/22.39?lang=eng#38).) One can be a friend to all
+without participating in all of their activities. How shortsighted one is to
+place church denominational limits on his friendships. How one robs himself
+when his friendship is contingent upon another's willingness to listen to the
+first discussion.
 
 We would eliminate the most painful criticism from responsible nonmembers by
 simply internalizing and living what the Church teaches.
@@ -77,8 +77,7 @@ commanded them.
 
 "But those who cry transgression do it because they are the servants of sin,
 and are the children of disobedience themselves." ([D&amp;C
-121:16-17](https://www.lds.org/scriptures/dc-
-testament/dc/121.16-17?lang=eng#15).)
+121:16-17](/scriptures/dc-testament/dc/121.16-17?lang=eng#15).)
 
 It seems that history continues to teach us: You can leave the Church, but you
 can't leave it alone. The basic reason for this is simple. Once someone has
@@ -106,16 +105,16 @@ chase after a bus even after he has caught it." We invite everyone to get on
 the bus before it's out of sight and you are left forever trying to figure out
 the infinite with a finite mind. In the words of Elijah, "How long halt ye
 between two opinions? if the Lord be God, follow him." ([1 Kgs.
-18:21](https://www.lds.org/scriptures/ot/1-kgs/18.21?lang=eng#20).)
+18:21](/scriptures/ot/1-kgs/18.21?lang=eng#20).)
 
 Inappropriate intellectualism sometimes leads one to testify that he knows the
 _gospel_ is true but believes the _Brethren_ are just a little out of touch.
 Out of touch with what? Don't confuse a decision to abstain from participating
 in a trend with a lack of awareness about its existence. These Brethren "prove
 all things" and "hold fast that which is good." ([1 Thes.
-5:21](https://www.lds.org/scriptures/nt/1-thes/5.21?lang=eng#20).) To
-accomplish this, they are in constant touch with Him who created this earth
-and knows the world from beginning to end.
+5:21](/scriptures/nt/1-thes/5.21?lang=eng#20).) To accomplish this, they are
+in constant touch with Him who created this earth and knows the world from
+beginning to end.
 
 There are some of our members who practice selective obedience. A prophet is
 not one who displays a smorgasbord of truth from which we are free to pick and
@@ -134,14 +133,14 @@ doctrinal grass on the other side of the fence looks very green to them.
 
 The Lord's counsel in 1831 is relevant today: "Behold, I say unto you, that
 they desire to know the truth in part, but not all, for they are not right
-before me and must needs repent." ([D&amp;C
-49:2](https://www.lds.org/scriptures/dc-testament/dc/49.2?lang=eng#1).)
+before me and must needs repent." ([D&amp;C 49:2](/scriptures/dc-
+testament/dc/49.2?lang=eng#1).)
 
 We need to accept the full truth--even all of it--"put on the whole armour of
-God" ([Eph. 6:11](https://www.lds.org/scriptures/nt/eph/6.11?lang=eng#10)),
-and get to work building up the kingdom. Each of us might ask ourselves, "Am I
-a positive contributor to building up the kingdom in our day of this
-dispensation of the fulness of times?"
+God" ([Eph. 6:11](/scriptures/nt/eph/6.11?lang=eng#10)), and get to work
+building up the kingdom. Each of us might ask ourselves, "Am I a positive
+contributor to building up the kingdom in our day of this dispensation of the
+fulness of times?"
 
 There was a time in my life when I fantasized about how valiant I would have
 been had I been born at another time. If I had been born of Adam, I would have
@@ -164,16 +163,17 @@ As a Presiding Bishopric, we work closely with our current prophets, seers,
 and revelators. Based on that physical observation as well as a spiritual
 confirmation, I testify that these men have no desire or goal other than to
 assist the Lord in his purpose "to bring to pass the immortality and eternal
-life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) I can also
-tell you firsthand they are highly intelligent individuals. They understand
-the current problems facing members of the Church throughout the world and are
-not naive to the major issues and trends of society. I testify to you that
-Ezra Taft Benson is a prophet of God and is surrounded by other special
-witnesses of the Savior. Jesus the Christ stands at the head of this church,
-and he has personally called these servants who preside over us.
+life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) I can
+also tell you firsthand they are highly intelligent individuals. They
+understand the current problems facing members of the Church throughout the
+world and are not naive to the major issues and trends of society. I testify
+to you that Ezra Taft Benson is a prophet of God and is surrounded by other
+special witnesses of the Savior. Jesus the Christ stands at the head of this
+church, and he has personally called these servants who preside over us.
 
 In the Lord's wisdom, he has not left any of us dependent on another's
 testimony. May the Lord bless each of us to obtain and retain our personal
 witness and then follow the Brethren. In the name of Jesus Christ, amen.
+
+## References
 

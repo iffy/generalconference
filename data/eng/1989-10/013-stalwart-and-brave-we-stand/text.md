@@ -52,9 +52,8 @@ importance of, "Then said Jesus to those Jews which believed on him, If ye
 continue in my word, then are ye my disciples indeed;
 
 "And ye shall know the truth, and the truth shall make you free." ([John
-8:31-32](https://www.lds.org/scriptures/nt/john/8.31-32?lang=eng#30).)
-Salvation and exaltation are here emphasized as being based primarily upon
-commitment and enduring.
+8:31-32](/scriptures/nt/john/8.31-32?lang=eng#30).) Salvation and exaltation
+are here emphasized as being based primarily upon commitment and enduring.
 
 Enduring, or carrying on, is not just a matter of tolerating circumstances and
 hanging in there, but of pressing forward. I know that's what most of us find
@@ -227,7 +226,7 @@ God is at the helm. There is no reason for defeat.
 
 It should be inspiring to all of us to constantly review and reread the
 message of the Prophet Joseph Smith given in Doctrine and Covenants, section
-121, verses 7 and 8 [[D&amp;C 121:7-8](https://www.lds.org/scriptures/dc-
+121, verses 7 and 8 [[D&amp;C 121:7-8](/scriptures/dc-
 testament/dc/121.7-8?lang=eng#6)]:
 
 "My son, peace be unto thy soul; thine adversity and thine afflictions shall
@@ -241,9 +240,9 @@ under all circumstances and situations.
 
 We promise the youth of today that with the same conviction the Lord shared
 with the Prophet Joseph in Doctrine and Covenants, section 122, verse 4, "Thy
-God shall stand by thee forever and ever." [[D&amp;C
-122:4](https://www.lds.org/scriptures/dc-testament/dc/122.4?lang=eng#3)] As we
-carry on today, this promise is in force and is everlasting.
+God shall stand by thee forever and ever." [[D&amp;C 122:4](/scriptures/dc-
+testament/dc/122.4?lang=eng#3)] As we carry on today, this promise is in force
+and is everlasting.
 
 I am proud that we have a President, even Ezra Taft Benson, who loves and
 encourages the youth of the noble birthright to work, carry on, and live close
@@ -257,4 +256,6 @@ anguish in the misunderstanding and misconduct of his associates. Joy and
 happiness come through determination and the practice of carrying on under all
 conditions. May God help us to so do and reap the rewards in this present day
 I pray in the name of Jesus Christ, amen.
+
+## References
 

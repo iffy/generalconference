@@ -88,13 +88,13 @@ essence! We need to get moving with the things of real import. The world
 _must_ hear the gospel. Paul asks: "How shall they believe in him of whom they
 have not heard? and how shall they hear without a preacher? And how shall they
 preach, except they be sent?" ([Rom.
-10:14-15](https://www.lds.org/scriptures/nt/rom/10.14-15?lang=eng#13).) And I
-ask, how shall they be sent today without sufficient means?
+10:14-15](/scriptures/nt/rom/10.14-15?lang=eng#13).) And I ask, how shall they
+be sent today without sufficient means?
 
 The second reason is the Lord counsels rather specifically about the wise use
 of property. "Seek ye first the kingdom of God, and his righteousness; and all
 these things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).)
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).)
 
 Jacob counsels:
 
@@ -106,7 +106,7 @@ free with your substance, that they may be rich like unto you.
 "And after ye have obtained a hope in Christ ye shall obtain riches ... to
 clothe the naked, and to feed the hungry, and to liberate the captive, and
 administer relief to the sick and the afflicted." ([Jacob
-2:17-19](https://www.lds.org/scriptures/bofm/jacob/2.17-19?lang=eng#16).)
+2:17-19](/scriptures/bofm/jacob/2.17-19?lang=eng#16).)
 
 How blessed we would be if we could pattern our conduct after the Nephites
 described by Alma:
@@ -116,12 +116,11 @@ were naked, or that were hungry, or that were athirst, or that were sick, or
 that had not been nourished; and they did not set their hearts upon riches;
 therefore they were liberal to all, both old and young, both bond and free,
 both male and female, whether out of the church or in the church." ([Alma
-1:30](https://www.lds.org/scriptures/bofm/alma/1.30?lang=eng#29).)
+1:30](/scriptures/bofm/alma/1.30?lang=eng#29).)
 
 In our day the Lord has warned us sternly, "And again, I command thee that
 thou _shalt not covet thine own_ property, but impart it freely." ([D&amp;C
-19:26](https://www.lds.org/scriptures/dc-testament/dc/19.26?lang=eng#25),
-italics added.)
+19:26](/scriptures/dc-testament/dc/19.26?lang=eng#25), italics added.)
 
 My brethren, we have been too casual about these matters in the past. There is
 work to do. We need your help to do it. The word is _urgency_ and the time is
@@ -134,6 +133,8 @@ the Christ. This is His church. This is His earth--and all things in it. We
 are but stewards over His goods. May we delight to share them, and may we
 realize the promise that "he who doeth the works of righteousness shall
 receive his reward, even peace in this world, and eternal life in the world to
-come." ([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
-testament/dc/59.23?lang=eng#22).) In the name of Jesus Christ. Amen.
+come." ([D&amp;C 59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22).) In
+the name of Jesus Christ. Amen.
+
+## References
 

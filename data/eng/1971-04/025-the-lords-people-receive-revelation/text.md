@@ -42,8 +42,7 @@ the Holy Ghost without receiving revelations." (_Teachings of the Prophet
 Joseph Smith _[Deseret Book Co., 1968], p. 328.)
 
 Moroni said: "... by the power of the Holy Ghost ye may know the truth of all
-things." ([Moro.
-10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4).)
+things." ([Moro. 10:5](/scriptures/bofm/moro/10.5?lang=eng#4).)
 
 The Comforter knoweth all things; he is commissioned to bear witness of the
 Father and the Son, to reveal, to teach, and to testify--and he is
@@ -110,8 +109,7 @@ the constant companionship of that member of the Godhead, based on
 faithfulness. The actual enjoyment of this gift depends upon personal
 worthiness. "God shall give unto you knowledge by his Holy Spirit," the
 revelation says to the Saints, "yea, by the unspeakable gift of the Holy
-Ghost. ..." ([D&amp;C 121:26](https://www.lds.org/scriptures/dc-
-testament/dc/121.26?lang=eng#25).)
+Ghost. ..." ([D&amp;C 121:26](/scriptures/dc-testament/dc/121.26?lang=eng#25).)
 
 Speaking of the revelations received by his father, Nephi said: "... he truly
 spake many great things ... which were hard to be understood, save a man should
@@ -131,8 +129,7 @@ of the hardness of your hearts?
 "Do ye not remember the things which the Lord hath said?--If ye will not
 harden your hearts, and ask me in faith, believing that ye shall receive, with
 diligence in keeping my commandments, surely these things shall be made known
-unto you." ([1 Ne. 15:3,
-7-11](https://www.lds.org/scriptures/bofm/1-ne/15.3%2C7-11?lang=eng#2).)
+unto you." ([1 Ne. 15:3, 7-11](/scriptures/bofm/1-ne/15.3,7-11?lang=eng#2).)
 
 It is the right of members of the Church to receive revelation. Joseph Smith
 said: "... God hath not revealed anything to Joseph, but what he will make known
@@ -157,7 +154,7 @@ Jesus speak unto the Father;
 the hearts of men conceive so great and marvelous things as we both saw and
 heard Jesus speak; and no one can conceive of the joy which filled our souls
 at the time we heard him pray for us unto the Father." ([3 Ne.
-17:15-17](https://www.lds.org/scriptures/bofm/3-ne/17.15-17?lang=eng#14).)
+17:15-17](/scriptures/bofm/3-ne/17.15-17?lang=eng#14).)
 
 Then of a subsequent prayer the scriptural account says: "And tongue cannot
 speak the words which he prayed, neither can be written by man the words which
@@ -168,7 +165,7 @@ they did understand in their hearts the words which he prayed.
 
 "Nevertheless, so great and marvelous were the words which he prayed that they
 cannot be written, neither can they be uttered by man." ([3 Ne.
-19:32-34](https://www.lds.org/scriptures/bofm/3-ne/19.32-34?lang=eng#31).)
+19:32-34](/scriptures/bofm/3-ne/19.32-34?lang=eng#31).)
 
 Religion comes from God by revelation and deals with spiritual things; and
 unless and until a man has received revelation, he has not received religion,
@@ -180,4 +177,6 @@ God; that Joseph Smith is a prophet, through whom the knowledge of Christ and
 of salvation has been restored for this day; and that The Church of Jesus
 Christ of Latter-day Saints is in literal reality the kingdom of God on earth.
 And of these things I do testify, in the name of the Lord Jesus Christ. Amen.
+
+## References
 

@@ -53,8 +53,7 @@ by the Lord that we should depart into the wilderness." And the scripture
 records, "And he left his house, and the land of his inheritance, and his
 gold, and his silver, and his precious things, and took nothing with him, save
 it were his family, and provisions, and tents, and departed into the
-wilderness" ([1 Ne.
-2:4](https://www.lds.org/scriptures/bofm/1-ne/2.4?lang=eng#3)).
+wilderness" ([1 Ne. 2:4](/scriptures/bofm/1-ne/2.4?lang=eng#3)).
 
 You have only gone a short distance when your father has another dream. He
 calls you to him and says, "Behold I have dreamed a dream, in the which the
@@ -65,8 +64,7 @@ forefathers, and they are engraven upon plates of brass.
 
 "Wherefore, the Lord hath commanded me that thou and thy brothers should go
 unto the house of Laban, and seek the records, and bring them down hither into
-the wilderness" ([1 Ne.
-3:2-4](https://www.lds.org/scriptures/bofm/1-ne/3.2-4?lang=eng#1)).
+the wilderness" ([1 Ne. 3:2-4](/scriptures/bofm/1-ne/3.2-4?lang=eng#1)).
 
 Now that was a hard task assigned to the sons, for Laban was a very rich and
 powerful man. They murmured against their father, and said it was a hard thing
@@ -74,7 +72,7 @@ he was requiring them to do. But one son said to his father, "I will go and do
 the things which the Lord hath commanded, for I know that the Lord giveth no
 commandments unto the children of men, save he shall prepare a way for them
 that they may accomplish the thing which he commandeth them" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)).
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)).
 
 Several decisions faced these young men as they approached Laban to ask for
 the records. It's most interesting to me to note the process by which they
@@ -84,9 +82,9 @@ sat and talked with him, he said he desired the records that were written on
 the plates of brass. Laban was not too pleased with this request and was
 angry, and thrust him out of his presence, and would not let him have the
 record. He said, "Behold thou art a robber, and I will slay thee" ([1 Ne.
-3:13](https://www.lds.org/scriptures/bofm/1-ne/3.13?lang=eng#12)). That was
-enough for Laman; he fled and came back and reported to his brothers that
-leaving the assignment to chance did not work.
+3:13](/scriptures/bofm/1-ne/3.13?lang=eng#12)). That was enough for Laman; he
+fled and came back and reported to his brothers that leaving the assignment to
+chance did not work.
 
 Nephi had to make another decision on how to obtain the records. He thought of
 all the wealth they were leaving in their home, the gold and silver and all
@@ -106,14 +104,14 @@ give up; he reasoned with them this way: "Let us go up again unto Jerusalem,
 and let us be faithful in keeping the commandments of the Lord; for behold he
 is mightier than all the earth, then why not mightier than Laban and his
 fifty, yea, or even than his tens of thousands?" ([1 Ne.
-4:1](https://www.lds.org/scriptures/bofm/1-ne/4.1?lang=eng#0)).
+4:1](/scriptures/bofm/1-ne/4.1?lang=eng#0)).
 
 Who could argue against such sound reasoning? Of course the Lord was mightier
 than Laban and all of his servants. So by night Nephi led his brothers outside
 the wall of Jerusalem. He crept inside towards the house of Laban, this time
 not leaving it to chance or to worldly things, but going by faith. He said, "I
 was led by the Spirit, not knowing beforehand the things which I should do"
-([1 Ne. 4:6](https://www.lds.org/scriptures/bofm/1-ne/4.6?lang=eng#5)).
+([1 Ne. 4:6](/scriptures/bofm/1-ne/4.6?lang=eng#5)).
 
 As he came to the house of Laban, he found a man fallen to the earth, drunken
 with wine. On coming closer, he discovered it was Laban. Laban had been
@@ -212,8 +210,10 @@ the Lord Jesus Christ, what a change it would make in our lives.
 
 O, youth of the noble birthright, make your decision here tonight: "I will go
 and do the things which the Lord hath commanded" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)). There is power
-in His way. There is no greater joy in this life than to be found in His
-service. I bear you my solemn testimony that a decision to live according to
-His law will bring you life eternal. In the name of Jesus Christ, amen.
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)). There is power in His way. There
+is no greater joy in this life than to be found in His service. I bear you my
+solemn testimony that a decision to live according to His law will bring you
+life eternal. In the name of Jesus Christ, amen.
+
+## References
 

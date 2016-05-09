@@ -76,11 +76,11 @@ inclusive message based upon the acceptance of all truth, restored to meet the
 needs of all mankind.
 
 We believe there is a spiritual influence that emanates from the presence of
-God to fill the immensity of space. (See [D&amp;C
-88:12](https://www.lds.org/scriptures/dc-testament/dc/88.12?lang=eng#11).) All
-men share an inheritance of divine light. God operates among his children in
-all nations, and those who seek God are entitled to further light and
-knowledge, regardless of their race, nationality, or cultural traditions.
+God to fill the immensity of space. (See [D&amp;C 88:12](/scriptures/dc-
+testament/dc/88.12?lang=eng#11).) All men share an inheritance of divine
+light. God operates among his children in all nations, and those who seek God
+are entitled to further light and knowledge, regardless of their race,
+nationality, or cultural traditions.
 
 Elder Orson F. Whitney, in a conference address, explained that many great
 religious leaders were inspired. He said: "[God] is using not only his
@@ -140,4 +140,6 @@ love and brotherhood is lodged in scripture and in the revelations of the Lord
 to his living prophet. It embraces all truth. It circumscribes all wisdom--all
 that God has revealed to man, and all that he will yet reveal. Of that eternal
 revelation, I bear testimony in the name of Jesus Christ, amen.
+
+## References
 

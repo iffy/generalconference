@@ -40,9 +40,8 @@ leaders who have wrestled to find patience and diligence themselves.
 
 Finally, we must have faith that Jesus can and will touch young women's hearts
 as we work together toward the worldwide celebration. Faith always has an
-element of doing. [John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16) gives us hope
-that "if any [young woman] will do his will, [she] shall know of the
+element of doing. [John 7:17](/scriptures/nt/john/7.17?lang=eng#16) gives us
+hope that "if any [young woman] will do his will, [she] shall know of the
 doctrine." (That may not be exactly the way you read that, but I feel sure
 Nephi would approve, since he, too, likened the scriptures to himself.)
 Service and personal progress projects are real nourishers of the word or
@@ -66,4 +65,6 @@ _Increase my joy in Thee, that I may rejoice in Thee,_
 _Thou Holy One of Israel, that I may sanctify Thy name._
 
 In the name of Jesus Christ, amen.
+
+## References
 

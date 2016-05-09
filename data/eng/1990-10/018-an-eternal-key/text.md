@@ -2,8 +2,8 @@
 
 My beloved brethren of the priesthood, the Lord Jesus Christ said, "For what
 shall it profit a man, if he shall gain the whole world, and lose his own
-soul?" ([Mark 8:36](https://www.lds.org/scriptures/nt/mark/8.36?lang=eng#35).)
-Could we add, "lose his own soul, and his family"?
+soul?" ([Mark 8:36](/scriptures/nt/mark/8.36?lang=eng#35).) Could we add,
+"lose his own soul, and his family"?
 
 As I left California, bound for Salt Lake City to receive training and be set
 apart for a mission in Arizona, I experienced for a moment an alarming
@@ -47,9 +47,8 @@ damaging doctrine when he said, "There could be no atonement made for the sins
 of men, but every man fared in this life according to the management of the
 creature; therefore every man prospered according to his genius, and that
 every man conquered according to his strength; and whatsoever a man did was no
-crime." ([Alma
-30:17](https://www.lds.org/scriptures/bofm/alma/30.17?lang=eng#16).) This
-rhetoric could blend into much of the accepted doctrine of the world today.
+crime." ([Alma 30:17](/scriptures/bofm/alma/30.17?lang=eng#16).) This rhetoric
+could blend into much of the accepted doctrine of the world today.
 
 So where is safety? How does a father go about safely guiding his most
 priceless possession through the reefs and shoals?
@@ -62,7 +61,7 @@ many, frequently become examples of dishonesty, instability, and infidelity.
 They flagrantly and indifferently flaunt those weaknesses of character and
 immorality before a doting and accepting world, as Korihor said, "according to
 the management of the creature." ([Alma
-30:17](https://www.lds.org/scriptures/bofm/alma/30.17?lang=eng#16).)
+30:17](/scriptures/bofm/alma/30.17?lang=eng#16).)
 
 Could not, should not, Father become the hero to his family? A father worthy
 of attention, worthy of emulation? Most certainly, but how?
@@ -78,13 +77,13 @@ not return you and your family intact to live with Heavenly Father.
 
 President Joseph F. Smith quoted from the Savior, as stated in Mark: "For what
 shall it profit a man, if he shall gain the whole world, and lose his own
-soul?" ([Mark 8:36](https://www.lds.org/scriptures/nt/mark/8.36?lang=eng#35).)
-Then President Smith continued, "What would it profit me, though I should go
-out into the world and win strangers to the fold of God and lose my own
-children? Oh! God, let me not lose my own. I can not afford to lose mine, whom
-God has given to me and whom I am responsible for before the Lord, and who are
-dependent upon me for guidance, for instruction, for proper influence."
-(_Gospel Doctrine,_ Salt Lake City: Deseret Book Co., 1975, p. 462.)
+soul?" ([Mark 8:36](/scriptures/nt/mark/8.36?lang=eng#35).) Then President
+Smith continued, "What would it profit me, though I should go out into the
+world and win strangers to the fold of God and lose my own children? Oh! God,
+let me not lose my own. I can not afford to lose mine, whom God has given to
+me and whom I am responsible for before the Lord, and who are dependent upon
+me for guidance, for instruction, for proper influence." (_Gospel Doctrine,_
+Salt Lake City: Deseret Book Co., 1975, p. 462.)
 
 The salvation of our families will require all that we have to save all that
 we have. So you will make the time commitment. Great! Positive, wonderful
@@ -100,8 +99,7 @@ your little family will be the trumpet with a certain sound of strength and
 unity leading to safety. Synonyms of _fidelity_ are _allegiance_ and
 _devotion._ They will be critical supports to your foundation of fidelity.
 "Thou shalt love thy wife with all thy heart, and shalt cleave unto her and
-none else." ([D&amp;C 42:22](https://www.lds.org/scriptures/dc-
-testament/dc/42.22?lang=eng#21).)
+none else." ([D&amp;C 42:22](/scriptures/dc-testament/dc/42.22?lang=eng#21).)
 
 Father, one of your greatest resources will be the scriptures. You would not
 consider making a large investment in a rather complicated and technical piece
@@ -136,4 +134,6 @@ Father.
 May God bless all fathers to righteously obtain and maintain this patriarchal
 key to the blessing of families throughout the Church. In the name of Jesus
 Christ, amen.
+
+## References
 

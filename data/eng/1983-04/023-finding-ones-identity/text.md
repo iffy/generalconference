@@ -15,9 +15,9 @@ Son, Jesus Christ.
 
 "As a child of God, I am glad to live at this time on the earth. Aware of the
 plan of salvation and of the great 'Blessings I can receive upon my head' (see
-[Prov. 10:6](https://www.lds.org/scriptures/ot/prov/10.6?lang=eng#5)), I am
-trying to do my best to fulfill the assignments which our Father gave me
-before sending me here on the earth.
+[Prov. 10:6](/scriptures/ot/prov/10.6?lang=eng#5)), I am trying to do my best
+to fulfill the assignments which our Father gave me before sending me here on
+the earth.
 
 "I am filled with wonderful feelings now that my parents have joined the
 Church. Our lives are greatly changed and our hearts are willing to do what
@@ -28,9 +28,9 @@ which so many people, young and old, are hungering for. Finding one's own,
 intimate identity can be a great blessing in the life of every human being.
 Everyone can obtain it if he realizes it comes only through the light of truth
 or, as explained by the Savior, the light of life. In [John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11) we read, "I am
-the light of the world: he that followeth me shall not walk in darkness, but
-shall have the light of life."
+8:12](/scriptures/nt/john/8.12?lang=eng#11) we read, "I am the light of the
+world: he that followeth me shall not walk in darkness, but shall have the
+light of life."
 
 As we endeavor to understand what it means to have the light of life, which is
 a most important aid to discovering our identity, we must of necessity know
@@ -71,8 +71,8 @@ life with a calm that displaces the doubts and anxieties which paralyze
 mankind." (_Views on Man and Religion,_ ed. James Allen et al., Provo, Utah:
 Friends of George T. Boyd, 1979, p. 207.)
 
-In [Ps. 8:4](https://www.lds.org/scriptures/ot/ps/8.4?lang=eng#3) the question
-is asked: "What is man, that thou art mindful of him?"
+In [Ps. 8:4](/scriptures/ot/ps/8.4?lang=eng#3) the question is asked: "What is
+man, that thou art mindful of him?"
 
 The answer, beautifully and clearly stated, follows:
 
@@ -80,31 +80,24 @@ The answer, beautifully and clearly stated, follows:
 glory and honour.
 
 "Thou madest him to have dominion over the works of thy hands; thou hast put
-all things under his feet." ([Ps.
-8:5-6](https://www.lds.org/scriptures/ot/ps/8.5-6?lang=eng#4).) Thus we come
-to realize that we are to have dominion over all the other creations of God.
-In this capacity we have been given characteristics which are unique to the
-human race. Among them--
+all things under his feet." ([Ps. 8:5-6](/scriptures/ot/ps/8.5-6?lang=eng#4).)
+Thus we come to realize that we are to have dominion over all the other
+creations of God. In this capacity we have been given characteristics which
+are unique to the human race. Among them--
 
-  1. We have an awareness of our own personality and the ability to strive for self-realization.
-
-  2. We have the ability to extend our knowledge, to become aware of the nature of humanity and the nature of things about us.
-
-  3. We have the power of abstract reasoning by which we can compare facts and determine the relationship between them and their relevance in our lives.
-
-  4. We have the ability and the right to make choices. This is one of the greatest gifts of God to us.
-
-  5. We have a will to master. By this power, we can control thoughts, emotions, appetites, and passions.
-
-  6. We have a right to worship God and can seek power from him to fulfill our destiny.
+  1. We have an awareness of our own personality and the ability to strive for self-realization. 
+  2. We have the ability to extend our knowledge, to become aware of the nature of humanity and the nature of things about us. 
+  3. We have the power of abstract reasoning by which we can compare facts and determine the relationship between them and their relevance in our lives. 
+  4. We have the ability and the right to make choices. This is one of the greatest gifts of God to us. 
+  5. We have a will to master. By this power, we can control thoughts, emotions, appetites, and passions. 
+  6. We have a right to worship God and can seek power from him to fulfill our destiny. 
 
 With this unique capability and emphasis on the worth of souls in the sight of
 God also comes the opportunity for confusion. We live in a materialistic
 world. Some become confused and seek identity through riches or the accolades
 of men. The Savior makes it very clear in his teachings that it is not
 possible to realize the identity of which I speak through such means. In [Luke
-18:18-25](https://www.lds.org/scriptures/nt/luke/18.18-25?lang=eng#17) we
-read:
+18:18-25](/scriptures/nt/luke/18.18-25?lang=eng#17) we read:
 
 "And a certain ruler asked him, saying, Good Master, what shall I do to
 inherit eternal life?
@@ -149,8 +142,7 @@ take thine ease, eat, drink, and be merry.
 thee: then whose shall those things be, which thou hast provided?
 
 "So is he that layeth up treasure for himself, and is not rich toward God."
-([Luke
-12:16-21](https://www.lds.org/scriptures/nt/luke/12.16-21?lang=eng#15).)
+([Luke 12:16-21](/scriptures/nt/luke/12.16-21?lang=eng#15).)
 
 Contrast these with the story of a sixteen-year-old priest who answered the
 telephone one day to hear the voice of a popular disc jockey on a local radio
@@ -204,7 +196,7 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 My brothers and sisters, I hope that we might always accept the Savior's
 challenge to us to build upon rock rather than sand and to "walk while ye have
@@ -212,13 +204,14 @@ the light, lest darkness come upon you: for he that walketh in darkness
 knoweth not whither he goeth.
 
 "While ye have light, believe in the light, that ye may be the children of
-light." ([John
-12:35-36](https://www.lds.org/scriptures/nt/john/12.35-36?lang=eng#34).)
+light." ([John 12:35-36](/scriptures/nt/john/12.35-36?lang=eng#34).)
 
 I bear you my testimony that we can only find individual identity and
 happiness as children of light, possessing the light of life as found through
 following the teachings of Jesus of Nazareth, for it was he who said, "I am
 the light of the world: he that followeth me shall not walk in darkness."
-([John 8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).) In the
-name of Jesus Christ, amen.
+([John 8:12](/scriptures/nt/john/8.12?lang=eng#11).) In the name of Jesus
+Christ, amen.
+
+## References
 

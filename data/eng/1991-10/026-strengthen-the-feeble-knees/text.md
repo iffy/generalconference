@@ -9,25 +9,24 @@ frail.
 When Frederick G. Williams was called to be a counselor to Joseph Smith, he
 was given this charge: "Wherefore, be faithful; stand in the office which I
 have appointed unto you; succor the weak, lift up the hands which hang down,
-and strengthen the feeble knees." ([D&amp;C
-81:5](https://www.lds.org/scriptures/dc-testament/dc/81.5?lang=eng#4).)
+and strengthen the feeble knees." ([D&amp;C 81:5](/scriptures/dc-
+testament/dc/81.5?lang=eng#4).)
 
 Coupled with the word _strengthen,_ which is to make or become stronger, the
 phrase led me to contemplate the meaning of these words.
 
 Early on, I assumed "feeble knees" meant weak or exhausted. However, the
 context of its use in Isaiah (see [Isa.
-35:3-4](https://www.lds.org/scriptures/ot/isa/35.3-4?lang=eng#2)) suggests
-that it may have a somewhat richer meaning, something more like fearful. I
-actually favor this latter interpretation. Today we often hear such
-expressions as "weak in the knees" or "knocking knees" to denote fear.
+35:3-4](/scriptures/ot/isa/35.3-4?lang=eng#2)) suggests that it may have a
+somewhat richer meaning, something more like fearful. I actually favor this
+latter interpretation. Today we often hear such expressions as "weak in the
+knees" or "knocking knees" to denote fear.
 
-In [D&amp;C 81:5](https://www.lds.org/scriptures/dc-
-testament/dc/81.5?lang=eng#4), the verse might be interpreted as the Lord's
-urging Frederick G. Williams to provide strength to the weak ("succor the
-weak"), to provide encouragement to those who are exhausted or discouraged
-("lift up the hands which hang down"), and to give courage and strength to
-those with feeble knees and fearful hearts.
+In [D&amp;C 81:5](/scriptures/dc-testament/dc/81.5?lang=eng#4), the verse
+might be interpreted as the Lord's urging Frederick G. Williams to provide
+strength to the weak ("succor the weak"), to provide encouragement to those
+who are exhausted or discouraged ("lift up the hands which hang down"), and to
+give courage and strength to those with feeble knees and fearful hearts.
 
 In March of 1832 when this section was revealed, Church members had reason to
 be fearful. In Hiram, Ohio, where the Prophet Joseph Smith was living, there
@@ -85,11 +84,11 @@ knees to become feeble. None of these is going to cause apostasy by itself,
 but as the conduct continues, our knees may lose the strength we need to face
 the realities and fears of life.
 
-In [D&amp;C 11:22](https://www.lds.org/scriptures/dc-
-testament/dc/11.22?lang=eng#21), we read: "Study my word which hath gone forth
-among the children of men." Nowhere are we advised to dilute the doctrines of
-the gospel with personal amendments. Our view is limited and our personal
-strength is dependent on understanding and following His word.
+In [D&amp;C 11:22](/scriptures/dc-testament/dc/11.22?lang=eng#21), we read:
+"Study my word which hath gone forth among the children of men." Nowhere are
+we advised to dilute the doctrines of the gospel with personal amendments. Our
+view is limited and our personal strength is dependent on understanding and
+following His word.
 
 Some of us may be inclined to study the word with the idea in mind that we
 must add much where the Lord has said little! Those who would "add upon" could
@@ -213,7 +212,7 @@ clamour, and evil speaking, be put away from you, with all malice:
 
 "And be ye kind one to another, tenderhearted, forgiving one another, even as
 God for Christ's sake hath forgiven you." ([Eph.
-4:31-32](https://www.lds.org/scriptures/nt/eph/4.31-32?lang=eng#30).)
+4:31-32](/scriptures/nt/eph/4.31-32?lang=eng#30).)
 
 The Prophet Joseph Smith said: "No unhallowed hand can stop the work from
 progressing; persecutions may rage, mobs may combine, armies may assemble,
@@ -229,4 +228,6 @@ remain feeble?
 May God help us to strengthen the feeble knees of ourselves and those about us
 by daily improvement in our attitudes and examples, I pray in the name of
 Jesus Christ, amen.
+
+## References
 

@@ -29,7 +29,7 @@ entitled _The Return to Religion._ As I have thought about this, I think of
 the statement of the Savior: "By every word which proceeded forth out of the
 mouth of God, men began to exercise faith in Christ; and thus by faith, they
 did lay hold upon every good thing." ([Moro.
-7:25](https://www.lds.org/scriptures/bofm/moro/7.25?lang=eng#24).)
+7:25](/scriptures/bofm/moro/7.25?lang=eng#24).)
 
 Brothers and sisters, it is by this knowledge from heaven contained in the
 restored gospel of Jesus Christ and our total, implicit faith and adherence to
@@ -83,7 +83,7 @@ of the kingdom of God on earth who loved and served each other with an open
 heart and spirit because of the love they felt. Listen to his words as he
 described how it was: "Now therefore ye are no more strangers and foreigners,
 but fellowcitizens with the saints, and of the household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).)
+2:19](/scriptures/nt/eph/2.19?lang=eng#18).)
 
 Members say they have never been a stranger anywhere they have gone--Italy,
 Oslo, Mexico City, Portland--or Orem, Utah. They belonged the minute it was
@@ -117,21 +117,20 @@ their homes, their purses, their lives, in service and love to others. This is
 not done by constraint, but by the love and joy they feel from God and for
 each other. Indeed, this is the essence of the gospel as the Savior lived and
 taught it. Remember his words: "Be one; and if ye are not one ye are not
-mine." ([D&amp;C 38:27](https://www.lds.org/scriptures/dc-
-testament/dc/38.27?lang=eng#26).) "Inasmuch as ye have done it unto one of the
-least of these my brethren, ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+mine." ([D&amp;C 38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26).)
+"Inasmuch as ye have done it unto one of the least of these my brethren, ye
+have done it unto me." ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 "The fruit of the Spirit is love, joy, ... [and] goodness." ([Gal.
-5:22](https://www.lds.org/scriptures/nt/gal/5.22?lang=eng#21).) Everyone who
-belongs to His church _wants_ to reach out--not because he is directed in an
-institutional or organizational way--to serve, love, aid, succor, and care for
-others with kindness and genuine concern. In humble, selfless ways each of us
-can be a light to others who may secretly or silently be longing or even
-praying to find that sense of belonging. My brothers and sisters, this type of
-caring, of nurturing, can never be accomplished by mandate or calendar, but
-comes because one has within himself that sense of belonging--feels its power,
-joy, goodness, and becomes concerned about all of God's children.
+5:22](/scriptures/nt/gal/5.22?lang=eng#21).) Everyone who belongs to His
+church _wants_ to reach out--not because he is directed in an institutional or
+organizational way--to serve, love, aid, succor, and care for others with
+kindness and genuine concern. In humble, selfless ways each of us can be a
+light to others who may secretly or silently be longing or even praying to
+find that sense of belonging. My brothers and sisters, this type of caring, of
+nurturing, can never be accomplished by mandate or calendar, but comes because
+one has within himself that sense of belonging--feels its power, joy,
+goodness, and becomes concerned about all of God's children.
 
 I remember a few years ago an inactive member of the priesthood who, in a
 moment of prayer, interview, and invitation to serve, felt the love and real
@@ -141,22 +140,23 @@ truths, this brotherhood, and these promises--but also we belong to the
 organization of the church of Jesus Christ. We are really needed, and we learn
 in His service. We grow in compassion, in wisdom, in character, in
 appreciation, and in strength as we become "anxiously engaged in [His] cause."
-([D&amp;C 58:27](https://www.lds.org/scriptures/dc-
-testament/dc/58.27?lang=eng#26).) We become more like Him. We begin--if we
-serve with purity of heart and selflessly--to learn the ways of the Lord. We
-become more responsive to the needs of others.
+([D&amp;C 58:27](/scriptures/dc-testament/dc/58.27?lang=eng#26).) We become
+more like Him. We begin--if we serve with purity of heart and selflessly--to
+learn the ways of the Lord. We become more responsive to the needs of others.
 
 Leaders, let us follow the counsel of Moroni, the prophet. He said: "And after
 they had been received unto baptism, ... they were numbered among the people of
 the church of Christ; and their names were taken, that they might be
 remembered and nourished by the good word of God. ... [And they did] speak one
 with another concerning the welfare of their souls." ([Moro.
-6:4-5](https://www.lds.org/scriptures/bofm/moro/6.4-5?lang=eng#3).) Let us
-reach out to every member, that he might belong to the household of God.
+6:4-5](/scriptures/bofm/moro/6.4-5?lang=eng#3).) Let us reach out to every
+member, that he might belong to the household of God.
 
 And members, may we reach out with all the energy and love we have, first to
 help every member of our family, and then to help members--every one of them--
 and finally everyone everywhere, so that all might have the great privilege
 and honor and blessing of belonging to the kingdom of God. In the name of
 Jesus Christ, amen.
+
+## References
 

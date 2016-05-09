@@ -29,29 +29,26 @@ love the Lord thy God with all thy heart, and with all thy soul, and with all
 thy strength, and with all thy mind; and thy neighbour as thyself."
 
 With approval Christ responded, "This do, and thou shalt live" ([Luke
-10:25-28](https://www.lds.org/scriptures/nt/luke/10.25-28?lang=eng#24)).
+10:25-28](/scriptures/nt/luke/10.25-28?lang=eng#24)).
 
 Eternal life, God's life, the life we are seeking, is rooted in two
 commandments. The scriptures say that "on these two commandments hang all the
-law and the prophets" ([Matt.
-22:40](https://www.lds.org/scriptures/nt/matt/22.40?lang=eng#39)). Love God
-and love your neighbor. The two work together; they are inseparable. In the
-highest sense they may be considered as synonymous. And they are commandments
-that each of us can live.
+law and the prophets" ([Matt. 22:40](/scriptures/nt/matt/22.40?lang=eng#39)).
+Love God and love your neighbor. The two work together; they are inseparable.
+In the highest sense they may be considered as synonymous. And they are
+commandments that each of us can live.
 
 The answer of Jesus to the lawyer might be considered as the Lord's
 touchstone. He said on another occasion, "Inasmuch as ye have done it unto one
 of the least of these my brethren, ye have done it unto me" ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39)). He will
-measure our devotion to him by how we love and serve our fellowmen. What kind
-of mark are we leaving on the Lord's touchstone? Are we truly good neighbors?
-Does the test show us to be 24-karat gold, or can the trace of fool's gold be
-detected?
+25:40](/scriptures/nt/matt/25.40?lang=eng#39)). He will measure our devotion
+to him by how we love and serve our fellowmen. What kind of mark are we
+leaving on the Lord's touchstone? Are we truly good neighbors? Does the test
+show us to be 24-karat gold, or can the trace of fool's gold be detected?
 
 As if excusing himself for asking such a simple question of the Master, the
 lawyer sought to justify himself by further inquiring, "And who is my
-neighbour?" ([Luke
-10:29](https://www.lds.org/scriptures/nt/luke/10.29?lang=eng#28)).
+neighbour?" ([Luke 10:29](/scriptures/nt/luke/10.29?lang=eng#28)).
 
 We all ought to be eternally grateful for that question, for in the Savior's
 reply came one of his richest and most appreciated parables, one that each of
@@ -76,24 +73,22 @@ him on his own beast, and brought him to an inn, and took care of him.
 "And on the morrow when he departed, he took out two pence, and gave them to
 the host, and said unto him, Take care of him; and whatsoever thou spendest
 more, when I come again, I will repay thee" ([Luke
-10:30-35](https://www.lds.org/scriptures/nt/luke/10.30-35?lang=eng#29)).
+10:30-35](/scriptures/nt/luke/10.30-35?lang=eng#29)).
 
 Then Jesus asked the lawyer, "Which now of these three, thinkest thou, was
 neighbour unto him that fell among the thieves?" ([Luke
-10:36](https://www.lds.org/scriptures/nt/luke/10.36?lang=eng#35)). There the
-Master holds out the touchstone of Christianity. He asks that our mark be
-measured on it.
+10:36](/scriptures/nt/luke/10.36?lang=eng#35)). There the Master holds out the
+touchstone of Christianity. He asks that our mark be measured on it.
 
 Both the priest and the Levite in Christ's parable should have remembered the
 requirements of the law: "Thou shalt not see thy brother's ass or his ox fall
 down by the way, and hide thyself from them: thou shalt surely help him to
-lift them up again" ([Deut.
-22:4](https://www.lds.org/scriptures/ot/deut/22.4?lang=eng#3)). And if an ox,
-how much more should one be willing to help a brother in need. But as Elder
-James E. Talmage wrote, "Excuses [not to do so] are easy to find; they spring
-up as readily and plentifully as weeds by the wayside" (_Jesus the Christ,_ 3d
-ed., Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1916, p.
-431).
+lift them up again" ([Deut. 22:4](/scriptures/ot/deut/22.4?lang=eng#3)). And
+if an ox, how much more should one be willing to help a brother in need. But
+as Elder James E. Talmage wrote, "Excuses [not to do so] are easy to find;
+they spring up as readily and plentifully as weeds by the wayside" (_Jesus the
+Christ,_ 3d ed., Salt Lake City: The Church of Jesus Christ of Latter-day
+Saints, 1916, p. 431).
 
 The Samaritan gave us an example of pure Christian love. He had compassion; he
 went to the man who had been injured by the thieves and bound up his wounds.
@@ -108,7 +103,7 @@ to remember that though we make our friends, God has made our neighbors--
 everywhere. Love should have no boundary; we should have no narrow loyalties.
 Christ said, "For if ye love them which love you, what reward have ye? do not
 even the publicans the same?" ([Matt.
-5:46](https://www.lds.org/scriptures/nt/matt/5.46?lang=eng#45)).
+5:46](/scriptures/nt/matt/5.46?lang=eng#45)).
 
 Joseph Smith wrote a letter to the Saints, published in the _Messenger and
 Advocate,_ on the subject of loving one another to be justified before God. He
@@ -156,4 +151,6 @@ like the priest and the Levite, pass by on the other side?
 May the Lord bless us in our quest to be true disciples and good neighbors. I
 pray that each of us may be good Samaritans, in the name of Jesus Christ,
 amen.
+
+## References
 

@@ -4,8 +4,7 @@ My brothers and sisters it has been subduing and sweet to be with you, those
 of the household of faith. Those already in the household of faith may be
 pardoned a tremble or two as they read the graphic description of the
 challenging journey facing the serious disciple--whom Helaman called, "the man
-of Christ." ([Hel.
-3:29](https://www.lds.org/scriptures/bofm/hel/3.29?lang=eng#28).)
+of Christ." ([Hel. 3:29](/scriptures/bofm/hel/3.29?lang=eng#28).)
 
 This is a brief attempt to describe just a few of the things the men and women
 of Christ will feel and see in the course of that adventurous journey.
@@ -18,8 +17,7 @@ need not always be fully articulate, for real Christianity is contagious.
 He believes deeply in the Beatitudes, but also in those doctrines which tell
 him "who" Jesus is. He does not divorce the Sermon on the Mount from the
 sermon at Capernaum with its hard teachings which caused many to walk "no more
-with" Jesus. ([John
-6:66](https://www.lds.org/scriptures/nt/john/6.66?lang=eng#65).) These latter
+with" Jesus. ([John 6:66](/scriptures/nt/john/6.66?lang=eng#65).) These latter
 doctrines are likewise a part of the bracing breeze of the scriptures which
 must be played upon the fevered brow of mankind.
 
@@ -27,7 +25,7 @@ He knows that "the gate of heaven is open unto all," but that the Man of
 Galilee will finally judge each of us on the basis of a rigorous celestial
 theology, instead of the popular "no-fault theology" of this telestial world--
 for Jesus is the gatekeeper "and he employeth no servant there." ([2 Ne.
-9:41](https://www.lds.org/scriptures/bofm/2-ne/9.41?lang=eng#40).)
+9:41](/scriptures/bofm/2-ne/9.41?lang=eng#40).)
 
 "The man of Christ" knows that a loving, living, and revealing God did not, as
 some imply, suddenly lose interest in mankind about A.D. 100, grow bored, and
@@ -94,10 +92,10 @@ As "the man of Christ" looks realistically at life in the Church, he sees and
 feels still other things.
 
 He marvels not that the gospel net "gather[eth] of every kind" ([Matt.
-13:47](https://www.lds.org/scriptures/nt/matt/13.47?lang=eng#46)); he knows
-that while the Church's doctrines are constant and perfect, its people are
-not, so he seeks to learn from mistakes rather than brooding over them, and he
-will help others to do the same.
+13:47](/scriptures/nt/matt/13.47?lang=eng#46)); he knows that while the
+Church's doctrines are constant and perfect, its people are not, so he seeks
+to learn from mistakes rather than brooding over them, and he will help others
+to do the same.
 
 He experiences the Church as a blend of action and contemplation, and knows
 the importance of individual involvement. Like the high diver, he does not
@@ -112,9 +110,9 @@ themselves, so must the Master's teachings.
 
 He marvels not, therefore, when customized challenges and temptations come his
 way--with soul-stretching experiences and individualized injections of irony:
-These may constitute "but a small moment" ([D&amp;C
-121:7](https://www.lds.org/scriptures/dc-testament/dc/121.7?lang=eng#6)), but
-endured well, yield experience which shapes all eternity!
+These may constitute "but a small moment" ([D&amp;C 121:7](/scriptures/dc-
+testament/dc/121.7?lang=eng#6)), but endured well, yield experience which
+shapes all eternity!
 
 He remembers Gethsemane and senses that, sometimes, when a righteous
 individual is in agony, seemingly alone, he, too, is companied by celestial
@@ -139,10 +137,10 @@ service.
 He will resonate, at times, with the hymnal words, "More used would I be"
 (_Hymns,_ no. 114), but he realizes that he must "be content with the things
 which the Lord hath allotted." ([Alma
-29:3](https://www.lds.org/scriptures/bofm/alma/29.3?lang=eng#2).) He
-understands that faith, hope, and charity qualify one for the work, not a
-craving for clout. And he is as genuinely concerned with the feelings of those
-he supervises as he is concerned with the feelings of those who supervise him.
+29:3](/scriptures/bofm/alma/29.3?lang=eng#2).) He understands that faith,
+hope, and charity qualify one for the work, not a craving for clout. And he is
+as genuinely concerned with the feelings of those he supervises as he is
+concerned with the feelings of those who supervise him.
 
 He expects a variety of assignments in the Church; some carry the thrills of
 making a beachhead landing deep in enemy territory, and others involve
@@ -184,12 +182,12 @@ way!
 
 May each of us, brothers and sisters, navigate that straight and narrow way,
 landing our immortal souls "at the right hand of God in the kingdom of
-heaven." ([Hel.
-3:30](https://www.lds.org/scriptures/bofm/hel/3.30?lang=eng#29).) Only then,
-when we are really home, will our mortal homesickness disappear--our highest
-human yearnings for _what could be_ are but muffled memories of _what once
-was_--and _will again be_--for we have indeed "wandered from a more exalted
-sphere." (_Hymns,_ no. 138.) May we make that journey I so pray in the name of
-Him who has completed this same journey and who beckons us onward, Jesus
-Christ. Amen.
+heaven." ([Hel. 3:30](/scriptures/bofm/hel/3.30?lang=eng#29).) Only then, when
+we are really home, will our mortal homesickness disappear--our highest human
+yearnings for _what could be_ are but muffled memories of _what once was_--and
+_will again be_--for we have indeed "wandered from a more exalted sphere."
+(_Hymns,_ no. 138.) May we make that journey I so pray in the name of Him who
+has completed this same journey and who beckons us onward, Jesus Christ. Amen.
+
+## References
 

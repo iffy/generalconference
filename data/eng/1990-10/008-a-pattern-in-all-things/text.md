@@ -22,9 +22,8 @@ the right pattern?
 What a happy circumstance and strength in our day to have the Lord's promise,
 "I will give unto you a _pattern_ in all things, that ye may not be deceived;
 for Satan is abroad in the land, and he goeth forth deceiving." ([D&amp;C
-52:14](https://www.lds.org/scriptures/dc-testament/dc/52.14?lang=eng#13).) I
-have always received courage, comfort, and direction from this powerful
-quotation.
+52:14](/scriptures/dc-testament/dc/52.14?lang=eng#13).) I have always received
+courage, comfort, and direction from this powerful quotation.
 
 A pattern is a guide for copying, a design, a plan, a diagram or model to be
 followed in making things, a composite of traits or features characteristic of
@@ -93,7 +92,7 @@ and his ways? We have the answer from a great prophet-teacher:
 "Wherefore, the Lord God gave unto man that he should act for himself.
 Wherefore, man could not act for himself save it should be that he was enticed
 by the one or the other." ([2 Ne.
-2:16](https://www.lds.org/scriptures/bofm/2-ne/2.16?lang=eng#15).)
+2:16](/scriptures/bofm/2-ne/2.16?lang=eng#15).)
 
 Avoid Satan's territory of deceit. It will never lead to happiness. Evidence
 to the contrary, there are no successful sinners. All of us must one day stand
@@ -125,14 +124,14 @@ happiness depends upon how you feel after the involvement is over.
 Besides patterns for prayer, we have direction for pondering, procedure,
 patience, action, and integrity. There are patterns for all worthy things if
 we will search for them. "And behold, it must be done according to the pattern
-which I have given unto you." ([D&amp;C 94:2](https://www.lds.org/scriptures
-/dc-testament/dc/94.2?lang=eng#1).) There is no other proven way.
+which I have given unto you." ([D&amp;C 94:2](/scriptures/dc-
+testament/dc/94.2?lang=eng#1).) There is no other proven way.
 
 "And again, he that is overcome and bringeth not forth fruits, even according
 to this pattern, is not of me.
 
 "Wherefore, by this pattern ye shall know the spirits in all cases under the
-whole heavens." ([D&amp;C 52:18-19](https://www.lds.org/scriptures/dc-
+whole heavens." ([D&amp;C 52:18-19](/scriptures/dc-
 testament/dc/52.18-19?lang=eng#17).)
 
 In all our phases of life, it is expedient that we have correct patterns to
@@ -195,9 +194,8 @@ his will through his prophets.
 
 Our Savior, Jesus Christ, established a pattern of conduct for all mankind. He
 reminded us, "If ye love me, feed my sheep." (See [John
-21:17](https://www.lds.org/scriptures/nt/john/21.17?lang=eng#16).) The love is
-greater than the who, where, how, or when. It must be unconditional and
-constant.
+21:17](/scriptures/nt/john/21.17?lang=eng#16).) The love is greater than the
+who, where, how, or when. It must be unconditional and constant.
 
 To gain exaltation and happy daily life, we must follow a pattern of
 righteousness. Our self-esteem and success can best be measured by how we
@@ -214,11 +212,13 @@ his Only Begotten Son, Jesus Christ.
 
 "For behold, it is not meet that I should command in all things; for he that
 is compelled in all things, the same is a slothful and not a wise servant;
-wherefore he receiveth no reward." ([D&amp;C
-58:26](https://www.lds.org/scriptures/dc-testament/dc/58.26?lang=eng#25).)
+wherefore he receiveth no reward." ([D&amp;C 58:26](/scriptures/dc-
+testament/dc/58.26?lang=eng#25).)
 
 Instead of our being commanded in all things, we are given a pattern in all
 things. The choice to use these safe paths is ours. God help us to follow his
 patterns and reap the rewards he has in store for the obedient, I pray in the
 name of Jesus Christ, amen.
+
+## References
 

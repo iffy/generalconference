@@ -1,11 +1,10 @@
 # “What Think Ye of Christ?”
 
 "What think ye of Christ?" ([Matt.
-22:42](https://www.lds.org/scriptures/nt/matt/22.42?lang=eng#41).) That
-question is as penetrating today as when Jesus used it to confound the
-Pharisees almost two thousand years ago. Like a sword, sharp and powerful, it
-uncovers what is hidden, divides truth from error, and goes to the heart of
-religious belief.
+22:42](/scriptures/nt/matt/22.42?lang=eng#41).) That question is as
+penetrating today as when Jesus used it to confound the Pharisees almost two
+thousand years ago. Like a sword, sharp and powerful, it uncovers what is
+hidden, divides truth from error, and goes to the heart of religious belief.
 
 Here are some answers being given today.
 
@@ -73,9 +72,8 @@ The Messiah's atoning sacrifice is the central message of the prophets of all
 ages. It was prefigured by the animal sacrifices prescribed by the law of
 Moses, whose whole meaning, one prophet explained, "point[ed] to that great
 and last sacrifice [of] ... the Son of God, yea, infinite and eternal." ([Alma
-34:14](https://www.lds.org/scriptures/bofm/alma/34.14?lang=eng#13).) The
-Atonement was promised and predicted by the Old Testament prophets. Isaiah
-declared:
+34:14](/scriptures/bofm/alma/34.14?lang=eng#13).) The Atonement was promised
+and predicted by the Old Testament prophets. Isaiah declared:
 
 "He was wounded for our transgressions, he was bruised for our iniquities: ...
 and with his stripes we are healed.
@@ -89,43 +87,40 @@ and the Lord hath laid on him the iniquity of us all.
 people was he stricken. ...
 
 "He bare the sin of many, and made intercession for the transgressors." ([Isa.
-53:5-8, 12](https://www.lds.org/scriptures/ot/isa/53.5-8%2C12?lang=eng#4).)
+53:5-8, 12](/scriptures/ot/isa/53.5-8,12?lang=eng#4).)
 
 At the beginning of the Savior's ministry, John the Baptist exclaimed, "Behold
 the Lamb of God, which taketh away the sin of the world." ([John
-1:29](https://www.lds.org/scriptures/nt/john/1.29?lang=eng#28).)
+1:29](/scriptures/nt/john/1.29?lang=eng#28).)
 
 At the end of his ministry, as Jesus blessed the cup and gave it to his
 disciples, he said, "For this is my blood of the new testament, which is shed
 for many for the remission of sins." ([Matt.
-26:28](https://www.lds.org/scriptures/nt/matt/26.28?lang=eng#27).) As Latter-
-day Saints partake of the sacrament of the Lord's Supper, we drink water in
-remembrance of his blood, which was shed for us. (See [D&amp;C
-20:79](https://www.lds.org/scriptures/dc-testament/dc/20.79?lang=eng#78).)
+26:28](/scriptures/nt/matt/26.28?lang=eng#27).) As Latter-day Saints partake
+of the sacrament of the Lord's Supper, we drink water in remembrance of his
+blood, which was shed for us. (See [D&amp;C 20:79](/scriptures/dc-
+testament/dc/20.79?lang=eng#78).)
 
 The writers of the New Testament teach that our Savior's suffering and his
 blood atoned for our sins.
 
 The Apostle Paul told the Corinthians that the first principle of the gospel
 he preached to them was "how that Christ died for our sins according to the
-scriptures." ([1 Cor.
-15:3](https://www.lds.org/scriptures/nt/1-cor/15.3?lang=eng#2).) And to the
+scriptures." ([1 Cor. 15:3](/scriptures/nt/1-cor/15.3?lang=eng#2).) And to the
 Colossians he wrote, "We have redemption through his blood, even the
-forgiveness of sins." ([Col.
-1:14](https://www.lds.org/scriptures/nt/col/1.14?lang=eng#13); see also [Heb.
-2:17](https://www.lds.org/scriptures/nt/heb/2.17?lang=eng#16); [Heb.
-10:10](https://www.lds.org/scriptures/nt/heb/10.10?lang=eng#9).)
+forgiveness of sins." ([Col. 1:14](/scriptures/nt/col/1.14?lang=eng#13); see
+also [Heb. 2:17](/scriptures/nt/heb/2.17?lang=eng#16); [Heb.
+10:10](/scriptures/nt/heb/10.10?lang=eng#9).)
 
 Peter described how Christ "bare our sins in his own body on the tree, that
 we, being dead to sins, should live unto righteousness: by whose stripes ye
-were healed." ([1 Pet.
-2:24](https://www.lds.org/scriptures/nt/1-pet/2.24?lang=eng#23).)
+were healed." ([1 Pet. 2:24](/scriptures/nt/1-pet/2.24?lang=eng#23).)
 
 John wrote that "the blood of Jesus Christ ... cleanseth us from all sin." ([1
-Jn. 1:7](https://www.lds.org/scriptures/nt/1-jn/1.7?lang=eng#6); see also [1
-Jn. 2:2](https://www.lds.org/scriptures/nt/1-jn/2.2?lang=eng#1); [1 Jn.
-3:5](https://www.lds.org/scriptures/nt/1-jn/3.5?lang=eng#4); [1 Jn.
-4:10](https://www.lds.org/scriptures/nt/1-jn/4.10?lang=eng#9).)
+Jn. 1:7](/scriptures/nt/1-jn/1.7?lang=eng#6); see also [1 Jn.
+2:2](/scriptures/nt/1-jn/2.2?lang=eng#1); [1 Jn.
+3:5](/scriptures/nt/1-jn/3.5?lang=eng#4); [1 Jn.
+4:10](/scriptures/nt/1-jn/4.10?lang=eng#9).)
 
 We revere the Bible. And so we and our fellow believers in Christ sing these
 words from that inspiring hymn "How Great Thou Art":
@@ -144,12 +139,11 @@ Bible to explain it.
 
 Modern prophets declare that the Book of Mormon contains the fulness of the
 everlasting gospel in greater clarity than any other scripture. (See [D&amp;C
-20:8-9](https://www.lds.org/scriptures/dc-testament/dc/20.8-9?lang=eng#7);
-[D&amp;C 27:5](https://www.lds.org/scriptures/dc-
-testament/dc/27.5?lang=eng#4).) In a day when many are challenging the
-divinity of Jesus Christ or doubting the reality of his atonement and
-resurrection, the message of that second witness, the Book of Mormon, is
-needed more urgently than ever.
+20:8-9](/scriptures/dc-testament/dc/20.8-9?lang=eng#7); [D&amp;C
+27:5](/scriptures/dc-testament/dc/27.5?lang=eng#4).) In a day when many are
+challenging the divinity of Jesus Christ or doubting the reality of his
+atonement and resurrection, the message of that second witness, the Book of
+Mormon, is needed more urgently than ever.
 
 President Ezra Taft Benson has reminded us again and again that the Book of
 Mormon "was written for our day" and that it "is the keystone in our witness
@@ -175,19 +169,18 @@ of your own mind. (See "Age-old Fear of New Age Concerns," _Insight,_ 11 July
 
 Are Latter-day Saints susceptible to such heresies? The Apostle Paul wrote
 that we should "work out [our] own salvation with fear and trembling."
-([Philip. 2:12](https://www.lds.org/scriptures/nt/philip/2.12?lang=eng#11).)
-Could that familiar expression mean that the sum total of our own
-righteousness will win us salvation and exaltation? Could some of us believe
-that our heavenly parentage and our divine destiny allow us to pass through
-mortality and attain eternal life solely on our own merits?
+([Philip. 2:12](/scriptures/nt/philip/2.12?lang=eng#11).) Could that familiar
+expression mean that the sum total of our own righteousness will win us
+salvation and exaltation? Could some of us believe that our heavenly parentage
+and our divine destiny allow us to pass through mortality and attain eternal
+life solely on our own merits?
 
 On the basis of what I have heard, I believe that some of us, some of the
 time, say things that can create that impression. We can forget that keeping
 the commandments, which is necessary, is not sufficient. As Nephi said, we
 must labor diligently to persuade everyone "to believe in Christ, and to be
 reconciled to God; for we know that it is by grace that we are saved, after
-all we can do." ([2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22).)
+all we can do." ([2 Ne. 25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22).)
 
 In his famous poem "Invictus," William Ernest Henley hurled man's challenge
 against Fate. With head "bloody, but unbowed," determined man is
@@ -257,29 +250,26 @@ works, we cannot be saved from the effect of our sins without the grace
 extended by the atonement of Jesus Christ.
 
 The Book of Mormon puts us right. It teaches that "salvation doth not come by
-the law alone" ([Mosiah
-13:28](https://www.lds.org/scriptures/bofm/mosiah/13.28?lang=eng#27)); that
-is, salvation does not come by keeping the commandments alone. "By the law no
-flesh is justified." ([2 Ne.
-2:5](https://www.lds.org/scriptures/bofm/2-ne/2.5?lang=eng#4).) Even those who
-serve God with their whole souls are unprofitable servants. (See [Mosiah
-2:21](https://www.lds.org/scriptures/bofm/mosiah/2.21?lang=eng#20).) Man
-cannot earn his own salvation.
+the law alone" ([Mosiah 13:28](/scriptures/bofm/mosiah/13.28?lang=eng#27));
+that is, salvation does not come by keeping the commandments alone. "By the
+law no flesh is justified." ([2 Ne.
+2:5](/scriptures/bofm/2-ne/2.5?lang=eng#4).) Even those who serve God with
+their whole souls are unprofitable servants. (See [Mosiah
+2:21](/scriptures/bofm/mosiah/2.21?lang=eng#20).) Man cannot earn his own
+salvation.
 
 The Book of Mormon teaches, "Since man had fallen he could not merit anything
-of himself." ([Alma
-22:14](https://www.lds.org/scriptures/bofm/alma/22.14?lang=eng#13).) "There
+of himself." ([Alma 22:14](/scriptures/bofm/alma/22.14?lang=eng#13).) "There
 can be nothing which is short of an infinite atonement which will suffice for
 the sins of the world." ([Alma
-34:12](https://www.lds.org/scriptures/bofm/alma/34.12?lang=eng#11); see also
-[2 Ne. 9:7](https://www.lds.org/scriptures/bofm/2-ne/9.7?lang=eng#6); [Alma
-34:8-16](https://www.lds.org/scriptures/bofm/alma/34.8-16?lang=eng#7).)
-"Wherefore, redemption cometh in and through the Holy Messiah; ... he offereth
-himself a sacrifice for sin, to answer the ends of the law." ([2 Ne.
-2:6-7](https://www.lds.org/scriptures/bofm/2-ne/2.6-7?lang=eng#5).) And so we
-"preach of Christ ... that our children may know to what source they may look
-for a remission of their sins." ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25).)
+34:12](/scriptures/bofm/alma/34.12?lang=eng#11); see also [2 Ne.
+9:7](/scriptures/bofm/2-ne/9.7?lang=eng#6); [Alma
+34:8-16](/scriptures/bofm/alma/34.8-16?lang=eng#7).) "Wherefore, redemption
+cometh in and through the Holy Messiah; ... he offereth himself a sacrifice for
+sin, to answer the ends of the law." ([2 Ne.
+2:6-7](/scriptures/bofm/2-ne/2.6-7?lang=eng#5).) And so we "preach of Christ ...
+that our children may know to what source they may look for a remission of
+their sins." ([2 Ne. 25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25).)
 
 In the Book of Mormon the Savior explains the gospel, including the Atonement
 and its relationship to repentance, baptism, works of righteousness, and the
@@ -290,7 +280,7 @@ draw all men unto me, ... that they may be judged according to their works. And
 ... whoso repenteth and is baptized in my name shall be filled; and if he
 endureth to the end, behold, him will I hold guiltless before my Father at
 that day when I shall stand to judge the world." ([3 Ne.
-27:14-16](https://www.lds.org/scriptures/bofm/3-ne/27.14-16?lang=eng#13).)
+27:14-16](/scriptures/bofm/3-ne/27.14-16?lang=eng#13).)
 
 In that same teaching the Savior restates these principles in a way that
 emphasizes our everlasting reliance on the Atonement worked out by the
@@ -300,12 +290,12 @@ shedding of his blood:
 entereth into his rest save it be those who have washed their garments in my
 blood, because of their faith, and the repentance of all their sins, and their
 faithfulness unto the end." ([3 Ne.
-27:19](https://www.lds.org/scriptures/bofm/3-ne/27.19?lang=eng#18).)
+27:19](/scriptures/bofm/3-ne/27.19?lang=eng#18).)
 
 Joseph Smith stated this same relationship in our third article of faith: "We
 believe that through the Atonement of Christ, all mankind may be saved, by
 obedience to the laws and ordinances of the Gospel." [[A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2)]
+1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2)]
 
 Why is Christ the only way? How was it possible for him to take upon himself
 the sins of all mankind? Why was it necessary for his blood to be shed? And
@@ -320,46 +310,41 @@ spend my life in proclaiming it.
 
 I testify with the ancient and modern prophets that there is no other name and
 no other way under heaven by which man can be saved except by Jesus Christ.
-(See [Acts 4:10,
-12](https://www.lds.org/scriptures/nt/acts/4.10%2C12?lang=eng#9); [2 Ne.
-25:20](https://www.lds.org/scriptures/bofm/2-ne/25.20?lang=eng#19); [Alma
-38:9](https://www.lds.org/scriptures/bofm/alma/38.9?lang=eng#8); [D&amp;C
-18:23](https://www.lds.org/scriptures/dc-testament/dc/18.23?lang=eng#22).)
+(See [Acts 4:10, 12](/scriptures/nt/acts/4.10,12?lang=eng#9); [2 Ne.
+25:20](/scriptures/bofm/2-ne/25.20?lang=eng#19); [Alma
+38:9](/scriptures/bofm/alma/38.9?lang=eng#8); [D&amp;C 18:23](/scriptures/dc-
+testament/dc/18.23?lang=eng#22).)
 
 I witness with the prophet Lehi that "there is no flesh that can dwell in the
 presence of God, save it be through the merits, and mercy, and grace of the
-Holy Messiah." ([2 Ne.
-2:8](https://www.lds.org/scriptures/bofm/2-ne/2.8?lang=eng#7).)
+Holy Messiah." ([2 Ne. 2:8](/scriptures/bofm/2-ne/2.8?lang=eng#7).)
 
 I testify with the prophet Alma that no man can be saved except he is cleansed
 from all stain, through the blood of Jesus Christ. (See [Alma
-5:21](https://www.lds.org/scriptures/bofm/alma/5.21?lang=eng#20).) As he
-explains, "repentance could not come unto men except there were a punishment"
-([Alma 42:16](https://www.lds.org/scriptures/bofm/alma/42.16?lang=eng#15)),
-and "therefore God himself atoneth for the sins of the world, to bring about
-the plan of mercy, to appease the demands of justice" ([Alma
-42:15](https://www.lds.org/scriptures/bofm/alma/42.15?lang=eng#14)).
+5:21](/scriptures/bofm/alma/5.21?lang=eng#20).) As he explains, "repentance
+could not come unto men except there were a punishment" ([Alma
+42:16](/scriptures/bofm/alma/42.16?lang=eng#15)), and "therefore God himself
+atoneth for the sins of the world, to bring about the plan of mercy, to
+appease the demands of justice" ([Alma
+42:15](/scriptures/bofm/alma/42.15?lang=eng#14)).
 
 I witness with the prophets of the Book of Mormon that the Messiah, the Holy
 One of Israel, suffered "according to the flesh" ([Alma
-7:13](https://www.lds.org/scriptures/bofm/alma/7.13?lang=eng#12)), the pains,
-the infirmities, and the griefs and sorrows of every living creature in the
-family of Adam. (See [2 Ne.
-9:21](https://www.lds.org/scriptures/bofm/2-ne/9.21?lang=eng#20); [Alma
-7:12-13](https://www.lds.org/scriptures/bofm/alma/7.12-13?lang=eng#11);
-[Mosiah 14:4](https://www.lds.org/scriptures/bofm/mosiah/14.4?lang=eng#3);
-[D&amp;C 18:11](https://www.lds.org/scriptures/dc-
-testament/dc/18.11?lang=eng#10).)
+7:13](/scriptures/bofm/alma/7.13?lang=eng#12)), the pains, the infirmities,
+and the griefs and sorrows of every living creature in the family of Adam.
+(See [2 Ne. 9:21](/scriptures/bofm/2-ne/9.21?lang=eng#20); [Alma
+7:12-13](/scriptures/bofm/alma/7.12-13?lang=eng#11); [Mosiah
+14:4](/scriptures/bofm/mosiah/14.4?lang=eng#3); [D&amp;C 18:11](/scriptures
+/dc-testament/dc/18.11?lang=eng#10).)
 
 I testify that when the Savior suffered and died for all men, all men became
-subject unto him (see [2 Ne.
-9:5](https://www.lds.org/scriptures/bofm/2-ne/9.5?lang=eng#4)) and to his
-commandment that all must repent and be baptized in his name, having faith in
-him, "or they cannot be saved in the kingdom of God." ([2 Ne.
-9:23](https://www.lds.org/scriptures/bofm/2-ne/9.23?lang=eng#22); see also
-[Alma 11:40](https://www.lds.org/scriptures/bofm/alma/11.40?lang=eng#39);
-[John 3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4); [John
-8:24](https://www.lds.org/scriptures/nt/john/8.24?lang=eng#23).)
+subject unto him (see [2 Ne. 9:5](/scriptures/bofm/2-ne/9.5?lang=eng#4)) and
+to his commandment that all must repent and be baptized in his name, having
+faith in him, "or they cannot be saved in the kingdom of God." ([2 Ne.
+9:23](/scriptures/bofm/2-ne/9.23?lang=eng#22); see also [Alma
+11:40](/scriptures/bofm/alma/11.40?lang=eng#39); [John
+3:5](/scriptures/nt/john/3.5?lang=eng#4); [John
+8:24](/scriptures/nt/john/8.24?lang=eng#23).)
 
 Speaking through the Prophet Joseph Smith in our dispensation, the Savior
 said:
@@ -381,8 +366,7 @@ the deeds which he hath done.
 suffer if they would repent;
 
 "But if they would not repent they must suffer even as I." ([D&amp;C 19:1-4,
-13, 16-17](https://www.lds.org/scriptures/dc-
-testament/dc/19.1-4%2C13%2C16-17?lang=eng#0).)
+13, 16-17](/scriptures/dc-testament/dc/19.1-4,13,16-17?lang=eng#0).)
 
 What think we of Christ? As members of The Church of Jesus Christ of Latter-
 day Saints, we testify with the Book of Mormon prophet-king Benjamin that
@@ -392,16 +376,18 @@ Christ, the Lord Omnipotent,
 
 "For behold, ... salvation was, and is, and is to come, in and through the
 atoning blood of Christ." ([Mosiah
-3:17-18](https://www.lds.org/scriptures/bofm/mosiah/3.17-18?lang=eng#16).)
+3:17-18](/scriptures/bofm/mosiah/3.17-18?lang=eng#16).)
 
 And as we repent of our sins and seek to keep his commandments and our
 covenants, we cry out, as Benjamin's people cried out, "O have mercy, and
 apply the atoning blood of Christ that we may receive forgiveness of our sins"
-([Mosiah 4:2](https://www.lds.org/scriptures/bofm/mosiah/4.2?lang=eng#1)).
+([Mosiah 4:2](/scriptures/bofm/mosiah/4.2?lang=eng#1)).
 
 In all of this, we remember and rely on the Lord's sure word: "Keep my
 commandments in all things. And, if you keep my commandments and endure to the
 end you shall have eternal life, which gift is the greatest of all the gifts
-of God." ([D&amp;C 14:6-7](https://www.lds.org/scriptures/dc-
-testament/dc/14.6-7?lang=eng#5).) In the name of Jesus Christ, amen.
+of God." ([D&amp;C 14:6-7](/scriptures/dc-testament/dc/14.6-7?lang=eng#5).) In
+the name of Jesus Christ, amen.
+
+## References
 

@@ -15,8 +15,7 @@ answer this question more correctly than anyone else.
 
 Several characteristics are peculiar to our faith. Among them is its
 organization with prophets and Apostles, who Paul said are the foundation of
-the Church (see [Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19)); the First
+the Church (see [Eph. 2:20](/scriptures/nt/eph/2.20?lang=eng#19)); the First
 Quorum of the Seventy, also the great order of lay priesthood leadership, the
 missionary system, the welfare program, the temples, the genealogical effort,
 and many other distinguishing features.
@@ -36,15 +35,15 @@ enjoy the marvelous gifts of the Holy Ghost is conferred upon every member of
 this Church soon after baptism. This is in fulfillment of the promise of the
 Savior: "And I will pray the Father, and he shall give you another Comforter,
 that he may abide with you for ever" ([John
-14:16](https://www.lds.org/scriptures/nt/john/14.16?lang=eng#15)).
+14:16](/scriptures/nt/john/14.16?lang=eng#15)).
 
 This powerful gift entitles the leaders and all worthy members of the Church
 to enjoy the gifts and companionship of the Holy Ghost, a member of the
 Godhead whose function is to inspire, reveal, and teach "all things" (see
-[John 14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25)). The
-result of this endowment is that for 150 years the leadership and membership
-of this church have enjoyed, and now enjoy, continuous revelation and
-inspiration directing them in what is right and good.
+[John 14:26](/scriptures/nt/john/14.26?lang=eng#25)). The result of this
+endowment is that for 150 years the leadership and membership of this church
+have enjoyed, and now enjoy, continuous revelation and inspiration directing
+them in what is right and good.
 
 Inspiration and revelation are so common, so widespread, so universal among
 the leaders and faithful members of this church that there is a strong
@@ -89,10 +88,10 @@ Goliath made sport of David's youth and lack of armament. David responded that
 he came in the name of the Lord of Hosts, the God of the armies of Israel, and
 that the whole assembly would learn that the Lord saveth not by the sword and
 the spear, "for the battle is the Lord's" ([1 Sam.
-17:47](https://www.lds.org/scriptures/ot/1-sam/17.47?lang=eng#46)). Then David
-threw a rock from his sling with such force and accuracy that the stone sank
-deep into the forehead of Goliath. Goliath fell to the earth a dying man, and
-the Philistines fled in fear.
+17:47](/scriptures/ot/1-sam/17.47?lang=eng#46)). Then David threw a rock from
+his sling with such force and accuracy that the stone sank deep into the
+forehead of Goliath. Goliath fell to the earth a dying man, and the
+Philistines fled in fear.
 
 What has happened to David's living God? It is the greatest insult to reason
 to suggest that God, who spoke so freely to the prophets of the Old Testament
@@ -116,8 +115,7 @@ in no uncertain terms. Following this, John states:
 of eternal life.
 
 "And we believe and are sure that thou art that Christ, the Son of the living
-God" ([John
-6:66-69](https://www.lds.org/scriptures/nt/john/6.66-69?lang=eng#65)).
+God" ([John 6:66-69](/scriptures/nt/john/6.66-69?lang=eng#65)).
 
 We acknowledge and testify that the same witness of Christ's divinity as
 received by Peter is also our sacred knowledge.
@@ -125,7 +123,7 @@ received by Peter is also our sacred knowledge.
 Personal revelation comes as a testimony of truth and as guidance in spiritual
 and temporal matters. Members of the Church know that the promptings of the
 Spirit may be received upon all facets of life, including daily, ongoing
-decisions (see [D&amp;C 42:61](https://www.lds.org/scriptures/dc-
+decisions (see [D&amp;C 42:61](/scriptures/dc-
 testament/dc/42.61?lang=eng#60)). How could anyone think of making an
 important decision such as "Who is to be my companion?", "What is my work to
 be?", "Where will I live?", and "How will I live?" without seeking the
@@ -167,34 +165,32 @@ coming to the infinite knowledge of God.
 How do revelation and inspiration operate? Each person has a built-in
 "receiving set" which, when fine-tuned, can be a receiver of divine
 communications. Said Job, "There is a spirit in man: and ... the Almighty giveth
-them understanding" ([Job
-32:8](https://www.lds.org/scriptures/ot/job/32.8?lang=eng#7)). It is possible,
-like Nephi, to be led completely by the Spirit, "not knowing beforehand" that
-which should be done (see [1 Ne.
-4:6](https://www.lds.org/scriptures/bofm/1-ne/4.6?lang=eng#5)).
+them understanding" ([Job 32:8](/scriptures/ot/job/32.8?lang=eng#7)). It is
+possible, like Nephi, to be led completely by the Spirit, "not knowing
+beforehand" that which should be done (see [1 Ne.
+4:6](/scriptures/bofm/1-ne/4.6?lang=eng#5)).
 
 How is inspiration received? Enos stated, "And while I was thus struggling in
 the spirit, behold, the voice of the Lord came into my mind" ([Enos
-1:10](https://www.lds.org/scriptures/bofm/enos/1.10?lang=eng#9)). One does not
-necessarily hear an audible voice. The spirit of revelation comes by divine
-confirmation. "I will tell you in your mind and in your heart, by the Holy
-Ghost, which shall come upon you and which shall dwell in your heart," says
-the Lord in the Doctrine and Covenants ([D&amp;C
-8:2](https://www.lds.org/scriptures/dc-testament/dc/8.2?lang=eng#1)).
+1:10](/scriptures/bofm/enos/1.10?lang=eng#9)). One does not necessarily hear
+an audible voice. The spirit of revelation comes by divine confirmation. "I
+will tell you in your mind and in your heart, by the Holy Ghost, which shall
+come upon you and which shall dwell in your heart," says the Lord in the
+Doctrine and Covenants ([D&amp;C 8:2](/scriptures/dc-
+testament/dc/8.2?lang=eng#1)).
 
 How was the voice of the Lord heard by Elijah the Tishbite? It was not the
 "strong wind [which] rent the mountains, and brake in pieces the rocks," nor
 "after the wind an earthquake," nor "after the earthquake a fire." It was "a
 still small voice" (see [1 Kgs.
-19:11-12](https://www.lds.org/scriptures/ot/1-kgs/19.11-12?lang=eng#10)).
+19:11-12](/scriptures/ot/1-kgs/19.11-12?lang=eng#10)).
 
 It is the inner voice of the Spirit, which has the capacity to whisper through
-and pierce all things (see [D&amp;C 85:6](https://www.lds.org/scriptures/dc-
+and pierce all things (see [D&amp;C 85:6](/scriptures/dc-
 testament/dc/85.6?lang=eng#5)). Helaman says, "It was not a voice of thunder,
 neither was it a voice of a great tumultuous noise, but behold, it was a still
 voice of perfect mildness, as if it had been a whisper, and it did pierce even
-to the very soul" ([Hel.
-5:30](https://www.lds.org/scriptures/bofm/hel/5.30?lang=eng#29)).
+to the very soul" ([Hel. 5:30](/scriptures/bofm/hel/5.30?lang=eng#29)).
 
 Thus the Lord, by revelation, brings inspiration into one's mind as though a
 voice were speaking. Elder Harold B. Lee gave this testimony:
@@ -279,4 +275,6 @@ for the Holy Ghost, under the direction of Almighty God, has led this people
 and its leaders for 150 years since its restoration from its humble beginnings
 to the great spiritual force it is today. This is my prayer and testimony
 which I leave in the sacred and holy name of the Lord Jesus Christ, amen.
+
+## References
 

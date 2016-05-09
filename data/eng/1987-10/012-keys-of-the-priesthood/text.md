@@ -37,18 +37,16 @@ ancient days, during the Lord's mortal ministry, and in modern times.
 Scene one pertains to keys of the priesthood in ancient days, even before
 creation of the earth. We then existed as spirit children of God. Abraham was
 one of us. He was told that he was among rulers chosen--even before he was
-born (see [Abr.
-3:23](https://www.lds.org/scriptures/pgp/abr/3.23?lang=eng#22)). Scriptures
-also relate that the Lord God foreordained priests prepared from the
-foundation of the world according to his foreknowledge. Thus, our calling to
-the holy priesthood was foreseen before we were born (see [Alma
-13:1-5](https://www.lds.org/scriptures/bofm/alma/13.1-5?lang=eng#0)).
+born (see [Abr. 3:23](/scriptures/pgp/abr/3.23?lang=eng#22)). Scriptures also
+relate that the Lord God foreordained priests prepared from the foundation of
+the world according to his foreknowledge. Thus, our calling to the holy
+priesthood was foreseen before we were born (see [Alma
+13:1-5](/scriptures/bofm/alma/13.1-5?lang=eng#0)).
 
 We know that Adam received priesthood authority before the world was formed
 (see Joseph Smith, _Teachings of the Prophet Joseph Smith,_ sel. Joseph
 Fielding Smith, Salt Lake City: Deseret Book Co., 1938, pp. 157, 167-68; see
-also [D&amp;C 78:16](https://www.lds.org/scriptures/dc-
-testament/dc/78.16?lang=eng#15)).
+also [D&amp;C 78:16](/scriptures/dc-testament/dc/78.16?lang=eng#15)).
 
 The potential of the priesthood is so vast that our comprehension of it is a
 challenge. The Prophet Joseph Smith declared, "The Priesthood is an
@@ -73,20 +71,18 @@ Lord. Jesus revealed the extent of priesthood authority. To his Apostles, the
 Savior said, "I will give unto thee the keys of the kingdom of heaven: and
 whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever
 thou shalt loose on earth shall be loosed in heaven" ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18); see also
-[D&amp;C 128:10](https://www.lds.org/scriptures/dc-
-testament/dc/128.10?lang=eng#9)).
+16:19](/scriptures/nt/matt/16.19?lang=eng#18); see also [D&amp;C
+128:10](/scriptures/dc-testament/dc/128.10?lang=eng#9)).
 
 Within a week of that promise, Jesus took Peter, James, and John to a high
 mountain. Keys of the priesthood were bestowed upon them by Moses and Elijah
 (Elias) under divine direction (see [Matt.
-17:1-5](https://www.lds.org/scriptures/nt/matt/17.1-5?lang=eng#0)).
+17:1-5](/scriptures/nt/matt/17.1-5?lang=eng#0)).
 
 The Master then reminded his disciples of their sacred calls to the holy
 apostleship, "Ye have not chosen me, but I have chosen you, and ordained you"
-([John 15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15); see
-also [D&amp;C 7:7](https://www.lds.org/scriptures/dc-
-testament/dc/7.7?lang=eng#6)).
+([John 15:16](/scriptures/nt/john/15.16?lang=eng#15); see also [D&amp;C
+7:7](/scriptures/dc-testament/dc/7.7?lang=eng#6)).
 
 Jesus not only called and ordained men, but he taught them their duties.
 
@@ -132,66 +128,60 @@ _Obedience_ to law first and foremost means keeping the commandments of God.
 By so doing, one becomes worthy to receive personal revelation! Those who
 receive the Melchizedek Priesthood are under solemn oath and covenant to "live
 by every word that proceedeth forth from the mouth of God" ([D&amp;C
-84:44](https://www.lds.org/scriptures/dc-testament/dc/84.44?lang=eng#43)).
+84:44](/scriptures/dc-testament/dc/84.44?lang=eng#43)).
 
 _Loyalty_ is vital. Loyalty to him who has keys to call and to release you,
 even though he is an imperfect human being, will develop unity essential to
-success (see [D&amp;C 124:45-46](https://www.lds.org/scriptures/dc-
+success (see [D&amp;C 124:45-46](/scriptures/dc-
 testament/dc/124.45-46?lang=eng#44)). The Lord defined this reality when he
 said, "Israel shall be saved in mine own due time; and by the keys which I
-have given shall they be led" ([D&amp;C 35:25](https://www.lds.org/scriptures
-/dc-testament/dc/35.25?lang=eng#24)).
+have given shall they be led" ([D&amp;C 35:25](/scriptures/dc-
+testament/dc/35.25?lang=eng#24)).
 
 To _understand_ the power of the priesthood, we must know its limitations. If
 an automobile is used recklessly, future permission from parents is likely to
 be denied. So, if priesthood power be abused, "the Spirit of the Lord is
 grieved; and when it is withdrawn, Amen to the priesthood or the authority of
-that man" ([D&amp;C 121:37](https://www.lds.org/scriptures/dc-
-testament/dc/121.37?lang=eng#36)).
+that man" ([D&amp;C 121:37](/scriptures/dc-testament/dc/121.37?lang=eng#36)).
 
 To _understand_ the power of the priesthood, we must know the divinity of its
 restoration in these latter days. In 1820, our Heavenly Father and his Son
 Jesus Christ appeared to the Prophet Joseph Smith. In 1829, John the Baptist
 conferred the Aaronic Priesthood upon Joseph Smith and Oliver Cowdery (see
-[D&amp;C 13](https://www.lds.org/scriptures/dc-
-testament/dc/13.title?lang=eng), [D&amp;C 27:8](https://www.lds.org/scriptures
-/dc-testament/dc/27.8?lang=eng#7); [JS--H 1:69,
-72](https://www.lds.org/scriptures/pgp/js-h/1.69%2C72?lang=eng#68)). Shortly
-thereafter they received the Melchizedek Priesthood under the hands of Peter,
-James, and John (see [D&amp;C 27:11-12](https://www.lds.org/scriptures/dc-
-testament/dc/27.11-12?lang=eng#10)).
+[D&amp;C 13](/scriptures/dc-testament/dc/13?lang=eng), [D&amp;C
+27:8](/scriptures/dc-testament/dc/27.8?lang=eng#7); [JS--H 1:69,
+72](/scriptures/pgp/js-h/1.69,72?lang=eng#68)). Shortly thereafter they
+received the Melchizedek Priesthood under the hands of Peter, James, and John
+(see [D&amp;C 27:11-12](/scriptures/dc-testament/dc/27.11-12?lang=eng#10)).
 
 Later, the Lord spoke to Joseph and Oliver of others to whom specific keys of
 the priesthood had been committed. Each, in turn, did confer these keys:
 
-_Moroni:_ Keys of the Book of Mormon (see [D&amp;C
-27:5](https://www.lds.org/scriptures/dc-testament/dc/27.5?lang=eng#4)).
+_Moroni:_ Keys of the Book of Mormon (see [D&amp;C 27:5](/scriptures/dc-
+testament/dc/27.5?lang=eng#4)).
 
 _Moses:_ Keys of the gathering of Israel and the leading of the ten tribes
-(see [D&amp;C 110:11](https://www.lds.org/scriptures/dc-
-testament/dc/110.11?lang=eng#10)).
+(see [D&amp;C 110:11](/scriptures/dc-testament/dc/110.11?lang=eng#10)).
 
-_Elias:_ Keys of the restoration of all things (see [D&amp;C
-27:6](https://www.lds.org/scriptures/dc-testament/dc/27.6?lang=eng#5)),
-including the Abrahamic covenant (see [D&amp;C
-110:12](https://www.lds.org/scriptures/dc-testament/dc/110.12?lang=eng#11);
-Joseph Fielding Smith, _Doctrines of Salvation,_ comp. Bruce R. McConkie, 3
-vols., Salt Lake City: Bookcraft, 1954-56, 3:126-27).
+_Elias:_ Keys of the restoration of all things (see [D&amp;C 27:6](/scriptures
+/dc-testament/dc/27.6?lang=eng#5)), including the Abrahamic covenant (see
+[D&amp;C 110:12](/scriptures/dc-testament/dc/110.12?lang=eng#11); Joseph
+Fielding Smith, _Doctrines of Salvation,_ comp. Bruce R. McConkie, 3 vols.,
+Salt Lake City: Bookcraft, 1954-56, 3:126-27).
 
-_Elijah:_ Keys of the sealing power (see [D&amp;C
-27:9](https://www.lds.org/scriptures/dc-testament/dc/27.9?lang=eng#8),
-[D&amp;C 110:13-16](https://www.lds.org/scriptures/dc-
-testament/dc/110.13-16?lang=eng#12); see also [D&amp;C
-128:21](https://www.lds.org/scriptures/dc-testament/dc/128.21?lang=eng#20)).
+_Elijah:_ Keys of the sealing power (see [D&amp;C 27:9](/scriptures/dc-
+testament/dc/27.9?lang=eng#8), [D&amp;C 110:13-16](/scriptures/dc-
+testament/dc/110.13-16?lang=eng#12); see also [D&amp;C 128:21](/scriptures/dc-
+testament/dc/128.21?lang=eng#20)).
 
 Joseph Smith conferred all keys on all of the Twelve (see Smith, _Doctrines of
 Salvation,_ 3:154-56). In turn, keys have been transferred to present leaders.
 
 Today, President Ezra Taft Benson actively holds every restored key held by
 "all those who have received a dispensation at any time _from the beginning of
-the creation_" ([D&amp;C 112:31](https://www.lds.org/scriptures/dc-
+the creation_" ([D&amp;C 112:31](/scriptures/dc-
 testament/dc/112.31?lang=eng#30); italics added; see also [D&amp;C
-128:18](https://www.lds.org/scriptures/dc-testament/dc/128.18?lang=eng#17)).
+128:18](/scriptures/dc-testament/dc/128.18?lang=eng#17)).
 
 Surely a sacred moment of my life occurred April 12, 1984, when the First
 Presidency and members of the Quorum of the Twelve Apostles laid their hands
@@ -202,18 +192,17 @@ by his senior Apostle.
 
 I feel the weight of responsibility and the burden of timeless trust. I know
 those keys have been restored "for the last days and for the last time"
-([D&amp;C 112:30](https://www.lds.org/scriptures/dc-
-testament/dc/112.30?lang=eng#29)).
+([D&amp;C 112:30](/scriptures/dc-testament/dc/112.30?lang=eng#29)).
 
 I am deeply grateful that we bear the priesthood--each of us foreordained from
 the foundation of the world for that responsibility (see [Alma
-13:1-5](https://www.lds.org/scriptures/bofm/alma/13.1-5?lang=eng#0)).
+13:1-5](/scriptures/bofm/alma/13.1-5?lang=eng#0)).
 
 As a symbol of gratitude, I have penned a few lines to be sung as the
 concluding portion of my message. A verse for each of three scenes of history
 may summarize my remarks. This song will be new to you. The words have been
-written to music from Wales. [1]  For the gracious support of Brother Jerold
-D. Ottley and our male chorus I express my appreciation. To this song I have
+written to music from Wales.[1] For the gracious support of Brother Jerold D.
+Ottley and our male chorus I express my appreciation. To this song I have
 assigned an ancient title, "Hosanna," the prayerful shout of fervent praise:
 
 _Hosanna_
@@ -261,5 +250,5 @@ and hold its sacred keys, I pray in the name of Jesus Christ, amen.
 
 ## References
 
-  1.  Lyrics by Russell M. Nelson, copyright 1987; "Tydi A Roddaist," by Arwell Hughes, copyright 1938. Gratitude is expressed to Mr. Hughes for permission to use his music with these words and to Barry D. R. Whittaker, president of the Cardiff Wales Stake, for his assistance.
+  1. Lyrics by Russell M. Nelson, copyright 1987; "Tydi A Roddaist," by Arwell Hughes, copyright 1938. Gratitude is expressed to Mr. Hughes for permission to use his music with these words and to Barry D. R. Whittaker, president of the Cardiff Wales Stake, for his assistance.
 

@@ -1,471 +1,394 @@
 items:
-- article_id: '03012_000_1010'
-  item: '000'
+- item: 1
   key: 000-i-know-that-my-redeemer-liveth
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: i-know-that-my-redeemer-liveth
   speaker: Joseph Fielding Smith
-  title: "\u201CI Know That My Redeemer Liveth\u201D"
+  title: '"I Know That My Redeemer Liveth"'
   url: https://www.lds.org/general-conference/1971/10/i-know-that-my-redeemer-liveth?lang=eng
   year: 1971
-- article_id: '03012_000_1020'
-  item: '001'
+- item: 2
   key: 001-the-only-true-and-living-church
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: the-only-true-and-living-church
   speaker: Boyd K. Packer
   title: The Only True and Living Church
   url: https://www.lds.org/general-conference/1971/10/the-only-true-and-living-church?lang=eng
   year: 1971
-- article_id: '03012_000_1030'
-  item: '002'
+- item: 3
   key: 002-a-time-of-testing
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: a-time-of-testing
   speaker: Henry D. Taylor
   title: A Time of Testing
   url: https://www.lds.org/general-conference/1971/10/a-time-of-testing?lang=eng
   year: 1971
-- article_id: '03012_000_1040'
-  item: '003'
+- item: 4
   key: 003-decisions
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: decisions
   speaker: Eldred G. Smith
   title: Decisions
   url: https://www.lds.org/general-conference/1971/10/decisions?lang=eng
   year: 1971
-- article_id: '03012_000_1050'
-  item: '004'
+- item: 5
   key: 004-this-is-my-beloved-son
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: this-is-my-beloved-son
   speaker: Loren C. Dunn
-  title: "\u201CThis Is My Beloved Son\u201D"
+  title: '"This Is My Beloved Son"'
   url: https://www.lds.org/general-conference/1971/10/this-is-my-beloved-son?lang=eng
   year: 1971
-- article_id: '03012_000_1060'
-  item: '005'
+- item: 6
   key: 005-the-purpose-of-life-to-be-proved
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: the-purpose-of-life-to-be-proved
   speaker: Franklin D. Richards
-  title: 'The Purpose of Life: To Be Proved'
+  title: The Purpose of Life:To Be Proved
   url: https://www.lds.org/general-conference/1971/10/the-purpose-of-life-to-be-proved?lang=eng
   year: 1971
-- article_id: '03012_000_1070'
-  item: '006'
+- item: 7
   key: 006-satans-thrust-youth
   month: 10
-  session_id: friday-morning
   session_title: Friday Morning Session
   slug: satans-thrust-youth
   speaker: Ezra Taft Benson
-  title: "Satan\u2019s Thrust\u2014Youth"
+  title: "Satan's Thrust\u2014Youth"
   url: https://www.lds.org/general-conference/1971/10/satans-thrust-youth?lang=eng
   year: 1971
-- article_id: '03012_000_2010'
-  item: '007'
+- item: 8
   key: 007-should-the-commandments-be-rewritten
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: should-the-commandments-be-rewritten
   speaker: Richard L. Evans
   title: Should the Commandments Be Rewritten?
   url: https://www.lds.org/general-conference/1971/10/should-the-commandments-be-rewritten?lang=eng
   year: 1971
-- article_id: '03012_000_2020'
-  item: 008
+- item: 9
   key: 008-the-sifting
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: the-sifting
   speaker: ElRay L. Christiansen
   title: The Sifting
   url: https://www.lds.org/general-conference/1971/10/the-sifting?lang=eng
   year: 1971
-- article_id: '03012_000_2030'
-  item: 009
+- item: 10
   key: 009-the-ten-commandments
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: the-ten-commandments
   speaker: Bernard P. Brockbank
   title: The Ten Commandments
   url: https://www.lds.org/general-conference/1971/10/the-ten-commandments?lang=eng
   year: 1971
-- article_id: '03012_000_2040'
-  item: '010'
+- item: 11
   key: 010-sacrifice-still-brings-forth-blessings
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: sacrifice-still-brings-forth-blessings
-  speaker: Hartman Rector, Jr.
+  speaker: Hartman Rector Jr.
   title: Sacrifice Still Brings Forth Blessings
   url: https://www.lds.org/general-conference/1971/10/sacrifice-still-brings-forth-blessings?lang=eng
   year: 1971
-- article_id: '03012_000_2050'
-  item: '011'
+- item: 12
   key: 011-by-love-serve-one-another
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: by-love-serve-one-another
   speaker: S. Dilworth Young
-  title: "\u201CBy Love, Serve One Another\u201D"
+  title: '"By Love, Serve One Another"'
   url: https://www.lds.org/general-conference/1971/10/by-love-serve-one-another?lang=eng
   year: 1971
-- article_id: '03012_000_2060'
-  item: '012'
+- item: 13
   key: 012-the-vitality-of-love
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: the-vitality-of-love
   speaker: Milton R. Hunter
   title: The Vitality of Love
   url: https://www.lds.org/general-conference/1971/10/the-vitality-of-love?lang=eng
   year: 1971
-- article_id: '03012_000_2070'
-  item: '013'
+- item: 14
   key: 013-elijah-the-prophet
   month: 10
-  session_id: friday-afternoon
   session_title: Friday Afternoon Session
   slug: elijah-the-prophet
   speaker: Howard W. Hunter
   title: Elijah the Prophet
   url: https://www.lds.org/general-conference/1971/10/elijah-the-prophet?lang=eng
   year: 1971
-- article_id: '03012_000_3010'
-  item: '014'
+- item: 15
   key: 014-watch-that-ye-may-be-ready
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: watch-that-ye-may-be-ready
   speaker: Harold B. Lee
-  title: "\u201CWatch, That Ye May Be Ready\u201D"
+  title: '"Watch, That Ye May Be Ready"'
   url: https://www.lds.org/general-conference/1971/10/watch-that-ye-may-be-ready?lang=eng
   year: 1971
-- article_id: '03012_000_3020'
-  item: '015'
+- item: 16
   key: 015-honesty-a-principle-of-salvation
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: honesty-a-principle-of-salvation
   speaker: Mark E. Petersen
   title: Honesty, a Principle of Salvation
   url: https://www.lds.org/general-conference/1971/10/honesty-a-principle-of-salvation?lang=eng
   year: 1971
-- article_id: '03012_000_3030'
-  item: '016'
+- item: 17
   key: 016-the-light-shineth
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-light-shineth
   speaker: Marion G. Romney
-  title: "\u201CThe Light Shineth\u201D"
+  title: '"The Light Shineth"'
   url: https://www.lds.org/general-conference/1971/10/the-light-shineth?lang=eng
   year: 1971
-- article_id: '03012_000_3040'
-  item: '017'
+- item: 18
   key: 017-thus-saith-the-lord
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: thus-saith-the-lord
   speaker: Theodore M. Burton
-  title: "\u201CThus Saith the Lord\u201D"
+  title: '"Thus Saith the Lord"'
   url: https://www.lds.org/general-conference/1971/10/thus-saith-the-lord?lang=eng
   year: 1971
-- article_id: '03012_000_4010'
-  item: 019
+- item: 19
+  key: 018-2338099779001
+  month: 10
+  session_title: Saturday Afternoon Session
+  slug: '2338099779001'
+  speaker: President Harold B. Lee
+  title: Sustaining of Church Officers
+  url: https://www.lds.org/general-conference/1971/10/media/session_4_talk_1/2338099779001?lang=eng
+  year: 1971
+- item: 20
   key: 019-laying-a-foundation-for-the-millennium
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: laying-a-foundation-for-the-millennium
   speaker: LeGrand Richards
   title: Laying a Foundation for the Millennium
   url: https://www.lds.org/general-conference/1971/10/laying-a-foundation-for-the-millennium?lang=eng
   year: 1971
-- article_id: '03012_000_4020'
-  item: '020'
+- item: 21
   key: 020-confession-and-forsaking-elements-of-genuine-repentance
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: confession-and-forsaking-elements-of-genuine-repentance
   speaker: James A. Cullimore
-  title: 'Confession and Forsaking: Elements of Genuine Repentance'
+  title: Confession and Forsaking:Elements of Genuine Repentance
   url: https://www.lds.org/general-conference/1971/10/confession-and-forsaking-elements-of-genuine-repentance?lang=eng
   year: 1971
-- article_id: '03012_000_4030'
-  item: '021'
+- item: 22
   key: 021-i-was-in-prison-and-ye-came-unto-me
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: i-was-in-prison-and-ye-came-unto-me
   speaker: Victor L. Brown
-  title: "\u201CI Was in Prison, and Ye Came Unto Me\u201D"
+  title: '"I Was in Prison, and Ye Came Unto Me"'
   url: https://www.lds.org/general-conference/1971/10/i-was-in-prison-and-ye-came-unto-me?lang=eng
   year: 1971
-- article_id: '03012_000_4040'
-  item: '022'
+- item: 23
   key: 022-the-things-that-matter-most
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-things-that-matter-most
   speaker: A. Theodore Tuttle
   title: The Things That Matter Most
   url: https://www.lds.org/general-conference/1971/10/the-things-that-matter-most?lang=eng
   year: 1971
-- article_id: '03012_000_4050'
-  item: '023'
+- item: 24
   key: 023-thou-shalt-not
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: thou-shalt-not
   speaker: Sterling W. Sill
   title: Thou Shalt Not
   url: https://www.lds.org/general-conference/1971/10/thou-shalt-not?lang=eng
   year: 1971
-- article_id: '03012_000_4060'
-  item: '024'
+- item: 25
   key: 024-our-responsibility-to-save-the-world
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: our-responsibility-to-save-the-world
   speaker: Delbert L. Stapley
-  title: 'Our Responsibility: To Save the World'
+  title: Our Responsibility:To Save the World
   url: https://www.lds.org/general-conference/1971/10/our-responsibility-to-save-the-world?lang=eng
   year: 1971
-- article_id: '03012_000_5010'
-  item: '025'
+- item: 26
   key: 025-blessings-of-the-priesthood
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: blessings-of-the-priesthood
   speaker: Joseph Fielding Smith
   title: Blessings of the Priesthood
   url: https://www.lds.org/general-conference/1971/10/blessings-of-the-priesthood?lang=eng
   year: 1971
-- article_id: '03012_000_5020'
-  item: '026'
+- item: 27
   key: 026-you-can-get-there-from-here
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: you-can-get-there-from-here
   speaker: Marvin J. Ashton
   title: You Can Get There From Here
   url: https://www.lds.org/general-conference/1971/10/you-can-get-there-from-here?lang=eng
   year: 1971
-- article_id: '03012_000_5030'
-  item: '027'
+- item: 28
   key: 027-strengthen-thy-brethren
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: strengthen-thy-brethren
   speaker: Robert L. Simpson
-  title: "\u201CStrengthen Thy Brethren\u201D"
+  title: '"Strengthen Thy Brethren"'
   url: https://www.lds.org/general-conference/1971/10/strengthen-thy-brethren?lang=eng
   year: 1971
-- article_id: '03012_000_5040'
-  item: 028
+- item: 29
   key: 028-love-unconditional
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: love-unconditional
   speaker: Marion D. Hanks
   title: Love Unconditional
   url: https://www.lds.org/general-conference/1971/10/love-unconditional?lang=eng
   year: 1971
-- article_id: '03012_000_5050'
-  item: 029
+- item: 30
   key: 029-a-new-health-missionary-program
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: a-new-health-missionary-program
   speaker: James O. Mason
   title: A New Health Missionary Program
   url: https://www.lds.org/general-conference/1971/10/a-new-health-missionary-program?lang=eng
   year: 1971
-- article_id: '03012_000_5060'
-  item: '030'
+- item: 31
   key: 030-strive-for-excellence
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: strive-for-excellence
   speaker: Dallin H. Oaks
   title: Strive for Excellence
   url: https://www.lds.org/general-conference/1971/10/strive-for-excellence?lang=eng
   year: 1971
-- article_id: '03012_000_5070'
-  item: '031'
+- item: 32
   key: 031-continuity-of-service
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: continuity-of-service
   speaker: N. Eldon Tanner
   title: Continuity of Service
   url: https://www.lds.org/general-conference/1971/10/continuity-of-service?lang=eng
   year: 1971
-- article_id: 03012_000_5080
-  item: '032'
+- item: 33
   key: 032-responsibilities-of-the-priesthood
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: responsibilities-of-the-priesthood
   speaker: Harold B. Lee
   title: Responsibilities of the Priesthood
   url: https://www.lds.org/general-conference/1971/10/responsibilities-of-the-priesthood?lang=eng
   year: 1971
-- article_id: '03012_000_6010'
-  item: '033'
+- item: 34
   key: 033-where-art-thou
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: where-art-thou
   speaker: N. Eldon Tanner
-  title: "\u201CWhere Art Thou?\u201D"
+  title: '"Where Art Thou?"'
   url: https://www.lds.org/general-conference/1971/10/where-art-thou?lang=eng
   year: 1971
-- article_id: '03012_000_6020'
-  item: '034'
+- item: 35
   key: 034-turn-heavenward-our-eyes
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: turn-heavenward-our-eyes
   speaker: John H. Vandenberg
-  title: "\u201CTurn Heavenward Our Eyes\u201D"
+  title: '"Turn Heavenward Our Eyes"'
   url: https://www.lds.org/general-conference/1971/10/turn-heavenward-our-eyes?lang=eng
   year: 1971
-- article_id: '03012_000_6030'
-  item: '035'
+- item: 36
   key: 035-what-is-a-teacher
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: what-is-a-teacher
   speaker: Paul H. Dunn
   title: What Is a Teacher?
   url: https://www.lds.org/general-conference/1971/10/what-is-a-teacher?lang=eng
   year: 1971
-- article_id: '03012_000_6040'
-  item: '036'
+- item: 37
   key: 036-the-nobility-of-man-in-choosing-good-over-evil
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-nobility-of-man-in-choosing-good-over-evil
   speaker: Alvin R. Dyer
   title: The Nobility of Man in Choosing Good Over Evil
   url: https://www.lds.org/general-conference/1971/10/the-nobility-of-man-in-choosing-good-over-evil?lang=eng
   year: 1971
-- article_id: '03012_000_6050'
-  item: '037'
+- item: 38
   key: 037-glimpses-of-heaven
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: glimpses-of-heaven
   speaker: Spencer W. Kimball
   title: Glimpses of Heaven
   url: https://www.lds.org/general-conference/1971/10/glimpses-of-heaven?lang=eng
   year: 1971
-- article_id: '03012_000_7010'
-  item: 038
+- item: 39
   key: 038-if-ye-be-willing-and-obedient
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: if-ye-be-willing-and-obedient
   speaker: Gordon B. Hinckley
-  title: "\u201CIf Ye Be Willing and Obedient\u201D"
+  title: '"If Ye Be Willing and Obedient"'
   url: https://www.lds.org/general-conference/1971/10/if-ye-be-willing-and-obedient?lang=eng
   year: 1971
-- article_id: '03012_000_7020'
-  item: 039
+- item: 40
   key: 039-the-living-christ
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-living-christ
   speaker: Joseph Anderson
   title: The Living Christ
   url: https://www.lds.org/general-conference/1971/10/the-living-christ?lang=eng
   year: 1971
-- article_id: '03012_000_7030'
-  item: '040'
+- item: 41
   key: 040-how-to-worship
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: how-to-worship
   speaker: Bruce R. McConkie
   title: How to Worship
   url: https://www.lds.org/general-conference/1971/10/how-to-worship?lang=eng
   year: 1971
-- article_id: '03012_000_7040'
-  item: '041'
+- item: 42
   key: 041-with-hand-and-heart
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: with-hand-and-heart
   speaker: Thomas S. Monson
   title: With Hand and Heart
   url: https://www.lds.org/general-conference/1971/10/with-hand-and-heart?lang=eng
   year: 1971
-- article_id: '03012_000_7050'
-  item: '042'
+- item: 43
   key: 042-this-same-jesus
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: this-same-jesus
   speaker: Hugh B. Brown
   title: This Same Jesus
   url: https://www.lds.org/general-conference/1971/10/this-same-jesus?lang=eng
   year: 1971
-- article_id: '03012_000_7060'
-  item: '043'
+- item: 44
   key: 043-let-the-spirit-of-oneness-prevail
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: let-the-spirit-of-oneness-prevail
   speaker: Joseph Fielding Smith

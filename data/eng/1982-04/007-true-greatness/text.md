@@ -82,8 +82,7 @@ and excitement to our lives. I am merely suggesting that we try to focus more
 clearly on the things in life that will be of greatest worth. You will
 remember that it was the Savior who said, _"He that is greatest among you
 shall be your servant."_ ([Matt.
-23:11](https://www.lds.org/scriptures/nt/matt/23.11?lang=eng#10); italics
-added.)
+23:11](/scriptures/nt/matt/23.11?lang=eng#10); italics added.)
 
 Listen to the words of President Joseph F. Smith as he goes on in his remarks
 to help us place in proper perspective the achievements and accomplishments
@@ -99,15 +98,15 @@ history." (_Juvenile Instructor,_ p. 752.)
 
 With this definition of true greatness, how do we proceed to achieve it? The
 Lord has said, _"Out of small things proceedeth that which is great."
-_([D&amp;C 64:33](https://www.lds.org/scriptures/dc-
-testament/dc/64.33?lang=eng#32); italics added.) Each of us has seen
-individuals become wealthy or successful almost instantaneously, almost
-overnight. But I believe that even though this kind of success may come to
-some without a prolonged struggle, there is no such thing as instant
-greatness. This is because the achievement of true greatness is a long-term
-process; it may involve occasional setbacks. The end result may not always be
-clearly visible, but it seems that it always requires regular, consistent,
-small, and sometimes ordinary and mundane steps over a long period of time.
+_([D&amp;C 64:33](/scriptures/dc-testament/dc/64.33?lang=eng#32); italics
+added.) Each of us has seen individuals become wealthy or successful almost
+instantaneously, almost overnight. But I believe that even though this kind of
+success may come to some without a prolonged struggle, there is no such thing
+as instant greatness. This is because the achievement of true greatness is a
+long-term process; it may involve occasional setbacks. The end result may not
+always be clearly visible, but it seems that it always requires regular,
+consistent, small, and sometimes ordinary and mundane steps over a long period
+of time.
 
 True greatness is never a result of a chance occurrence or a one-time effort
 or achievement. It requires the development of character. It requires a
@@ -152,12 +151,14 @@ Father in Heaven.
 As President Joseph F. Smith has said, "Let us not be trying to substitute an
 artificial life for the true one." (_Juvenile Instructor,_ p. 753.) Let us
 remember that "out of small things proceedeth that which is great." ([D&amp;C
-64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32).) Let
-us remember that doing the things that have been ordained by God to be
-important and needful and necessary, even though the world may view them as
-unimportant and insignificant, will eventually lead us to true greatness.
+64:33](/scriptures/dc-testament/dc/64.33?lang=eng#32).) Let us remember that
+doing the things that have been ordained by God to be important and needful
+and necessary, even though the world may view them as unimportant and
+insignificant, will eventually lead us to true greatness.
 
 That we may never be discouraged in doing those daily tasks which God has
 ordained to the common lot of man is my prayer, in the name of Jesus Christ,
 amen.
+
+## References
 

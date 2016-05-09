@@ -1,388 +1,363 @@
 items:
-- article_id: 03187_000_003
-  item: '000'
+- item: 1
   key: 000-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sustaining-of-church-officers
   speaker: Gordon B. Hinckley
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1985/04/the-sustaining-of-church-officers?lang=eng
   year: 1985
-- article_id: 03187_000_004
-  item: '001'
+- item: 2
   key: 001-our-responsibility-to-share-the-gospel
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: our-responsibility-to-share-the-gospel
   speaker: Ezra Taft Benson
   title: Our Responsibility to Share the Gospel
   url: https://www.lds.org/general-conference/1985/04/our-responsibility-to-share-the-gospel?lang=eng
   year: 1985
-- article_id: 03187_000_005
-  item: '002'
+- item: 3
   key: 002-the-purifying-power-of-gethsemane
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-purifying-power-of-gethsemane
   speaker: Bruce R. McConkie
   title: The Purifying Power of Gethsemane
   url: https://www.lds.org/general-conference/1985/04/the-purifying-power-of-gethsemane?lang=eng
   year: 1985
-- article_id: 03187_000_006
-  item: '003'
+- item: 4
   key: 003-reverence-for-life
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: reverence-for-life
   speaker: Russell M. Nelson
   title: Reverence for Life
   url: https://www.lds.org/general-conference/1985/04/reverence-for-life?lang=eng
   year: 1985
-- article_id: 03187_000_007
-  item: '004'
+- item: 5
   key: 004-agency-and-accountability
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: agency-and-accountability
   speaker: Victor L. Brown
   title: Agency and Accountability
   url: https://www.lds.org/general-conference/1985/04/agency-and-accountability?lang=eng
   year: 1985
-- article_id: 03187_000_008
-  item: '005'
+- item: 6
   key: 005-christ-our-passover
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: christ-our-passover
   speaker: Howard W. Hunter
   title: Christ, Our Passover
   url: https://www.lds.org/general-conference/1985/04/christ-our-passover?lang=eng
   year: 1985
-- article_id: 03187_000_009
-  item: '006'
+- item: 7
   key: 006-the-church-audit-committee-report
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-church-audit-committee-report
   speaker: Wilford G. Edling
   title: The Church Audit Committee Report
   url: https://www.lds.org/general-conference/1985/04/the-church-audit-committee-report?lang=eng
   year: 1985
-- article_id: 03187_000_010
-  item: '007'
+- item: 8
   key: 007-statistical-report-1984
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: statistical-report-1984
   speaker: Francis M. Gibbons
   title: Statistical Report 1984
   url: https://www.lds.org/general-conference/1985/04/statistical-report-1984?lang=eng
   year: 1985
-- article_id: 03187_000_011
-  item: 008
+- item: 9
   key: 008-born-of-goodly-parents
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: born-of-goodly-parents
   speaker: L. Tom Perry
-  title: "\u201CBorn of Goodly Parents\u201D"
+  title: '"Born of Goodly Parents"'
   url: https://www.lds.org/general-conference/1985/04/born-of-goodly-parents?lang=eng
   year: 1985
-- article_id: 03187_000_012
-  item: 009
+- item: 10
   key: 009-the-invitation-of-the-master
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-invitation-of-the-master
-  speaker: Elder John Sonnenberg
+  speaker: John Sonnenberg
   title: The Invitation of the Master
   url: https://www.lds.org/general-conference/1985/04/the-invitation-of-the-master?lang=eng
   year: 1985
-- article_id: 03187_000_013
-  item: '010'
+- item: 11
   key: 010-the-joy-of-service
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-joy-of-service
   speaker: F. Arthur Kay
   title: The Joy of Service
   url: https://www.lds.org/general-conference/1985/04/the-joy-of-service?lang=eng
   year: 1985
-- article_id: 03187_000_014
-  item: '011'
+- item: 12
   key: 011-look-for-the-beautiful
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: look-for-the-beautiful
   speaker: Keith W. Wilcox
   title: Look for the Beautiful
   url: https://www.lds.org/general-conference/1985/04/look-for-the-beautiful?lang=eng
   year: 1985
-- article_id: 03187_000_015
-  item: '012'
+- item: 13
   key: 012-the-mantle-of-a-bishop
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-mantle-of-a-bishop
   speaker: Robert D. Hales
   title: The Mantle of a Bishop
   url: https://www.lds.org/general-conference/1985/04/the-mantle-of-a-bishop?lang=eng
   year: 1985
-- article_id: 03187_000_016
-  item: '013'
+- item: 14
   key: 013-the-resurrection
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-resurrection
   speaker: James E. Faust
   title: The Resurrection
   url: https://www.lds.org/general-conference/1985/04/the-resurrection?lang=eng
   year: 1985
-- article_id: 03187_000_017
-  item: '014'
+- item: 15
   key: 014-from-such-turn-away
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: from-such-turn-away
   speaker: Boyd K. Packer
-  title: "\u201CFrom Such Turn Away\u201D"
+  title: '"From Such Turn Away"'
   url: https://www.lds.org/general-conference/1985/04/from-such-turn-away?lang=eng
   year: 1985
-- article_id: 03187_000_018
-  item: '015'
+- item: 16
   key: 015-preparing-yourselves-for-missionary-service
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: preparing-yourselves-for-missionary-service
   speaker: Ezra Taft Benson
   title: Preparing Yourselves for Missionary Service
   url: https://www.lds.org/general-conference/1985/04/preparing-yourselves-for-missionary-service?lang=eng
   year: 1985
-- article_id: 03187_000_019
-  item: '016'
+- item: 17
   key: 016-pursuing-excellence
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: pursuing-excellence
-  speaker: Brother Peter Vidmar
+  speaker: Peter Vidmar
   title: Pursuing Excellence
   url: https://www.lds.org/general-conference/1985/04/pursuing-excellence?lang=eng
   year: 1985
-- article_id: 03187_000_020
-  item: '017'
+- item: 18
   key: 017-prepare-to-serve
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: prepare-to-serve
   speaker: M. Russell Ballard
   title: Prepare to Serve
   url: https://www.lds.org/general-conference/1985/04/prepare-to-serve?lang=eng
   year: 1985
-- article_id: 03187_000_021
-  item: 018
+- item: 19
   key: 018-spencer-w-kimball-a-true-disciple-of-christ
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: spencer-w-kimball-a-true-disciple-of-christ
   speaker: Marvin J. Ashton
-  title: 'Spencer W. Kimball: A True Disciple of Christ'
+  title: Spencer W. Kimball:A True Disciple of Christ
   url: https://www.lds.org/general-conference/1985/04/spencer-w-kimball-a-true-disciple-of-christ?lang=eng
   year: 1985
-- article_id: 03187_000_022
-  item: 019
+- item: 20
   key: 019-set-some-personal-goals
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: set-some-personal-goals
   speaker: Spencer W. Kimball
   title: Set Some Personal Goals
   url: https://www.lds.org/general-conference/1985/04/set-some-personal-goals?lang=eng
   year: 1985
-- article_id: 03187_000_023
-  item: '020'
+- item: 21
   key: 020-to-please-our-heavenly-father
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: to-please-our-heavenly-father
   speaker: Gordon B. Hinckley
   title: To Please Our Heavenly Father
   url: https://www.lds.org/general-conference/1985/04/to-please-our-heavenly-father?lang=eng
   year: 1985
-- article_id: 03187_000_024
-  item: '021'
+- item: 22
   key: 021-the-victory-over-death
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-victory-over-death
   speaker: Gordon B. Hinckley
   title: The Victory over Death
   url: https://www.lds.org/general-conference/1985/04/the-victory-over-death?lang=eng
   year: 1985
-- article_id: 03187_000_025
-  item: '022'
+- item: 23
   key: 022-the-resurrected-christ
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-resurrected-christ
   speaker: David B. Haight
   title: The Resurrected Christ
   url: https://www.lds.org/general-conference/1985/04/the-resurrected-christ?lang=eng
   year: 1985
-- article_id: 03187_000_026
-  item: '023'
+- item: 24
   key: 023-the-spirit-of-the-gathering
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-spirit-of-the-gathering
-  speaker: Wm. Grant Bangerter
-  title: The Spirit of the Gathering
+  speaker: William Grant Bangerter
+  title: The Spirit of Gathering
   url: https://www.lds.org/general-conference/1985/04/the-spirit-of-the-gathering?lang=eng
   year: 1985
-- article_id: 03187_000_027
-  item: '024'
+- item: 25
   key: 024-selflessness-a-pattern-for-happiness
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: selflessness-a-pattern-for-happiness
   speaker: H. Burke Peterson
-  title: 'Selflessness: A Pattern for Happiness'
+  title: Selflessness:A Pattern for Happiness
   url: https://www.lds.org/general-conference/1985/04/selflessness-a-pattern-for-happiness?lang=eng
   year: 1985
-- article_id: 03187_000_028
-  item: '025'
+- item: 26
   key: 025-the-spirit-giveth-life
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-spirit-giveth-life
   speaker: Thomas S. Monson
-  title: "\u201CThe Spirit Giveth Life\u201D"
+  title: '"The Spirit Giveth Life"'
   url: https://www.lds.org/general-conference/1985/04/the-spirit-giveth-life?lang=eng
   year: 1985
-- article_id: 03187_000_029
-  item: '026'
+- item: 27
   key: 026-willing-to-submit
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: willing-to-submit
   speaker: Neal A. Maxwell
-  title: "\u201CWilling to Submit\u201D"
+  title: '"Willing to Submit"'
   url: https://www.lds.org/general-conference/1985/04/willing-to-submit?lang=eng
   year: 1985
-- article_id: 03187_000_030
-  item: '027'
+- item: 28
   key: 027-hold-up-your-light
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: hold-up-your-light
   speaker: J. Richard Clarke
-  title: "\u201CHold Up Your Light\u201D"
+  title: '"Hold Up Your Light"'
   url: https://www.lds.org/general-conference/1985/04/hold-up-your-light?lang=eng
   year: 1985
-- article_id: 03187_000_031
-  item: 028
+- item: 29
   key: 028-ears-to-hear
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: ears-to-hear
   speaker: Henry B. Eyring
   title: Ears to Hear
   url: https://www.lds.org/general-conference/1985/04/ears-to-hear?lang=eng
   year: 1985
-- article_id: 03187_000_032
-  item: 029
+- item: 30
   key: 029-confidence-in-the-lord
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: confidence-in-the-lord
   speaker: Glenn L. Pace
   title: Confidence in the Lord
   url: https://www.lds.org/general-conference/1985/04/confidence-in-the-lord?lang=eng
   year: 1985
-- article_id: 03187_000_033
-  item: '030'
+- item: 31
   key: 030-taking-upon-us-the-name-of-jesus-christ
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: taking-upon-us-the-name-of-jesus-christ
   speaker: Dallin H. Oaks
   title: Taking upon Us the Name of Jesus Christ
   url: https://www.lds.org/general-conference/1985/04/taking-upon-us-the-name-of-jesus-christ?lang=eng
   year: 1985
-- article_id: 03187_000_034
-  item: '031'
+- item: 32
   key: 031-the-answers-will-come
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-answers-will-come
   speaker: Hans B. Ringger
   title: The Answers Will Come
   url: https://www.lds.org/general-conference/1985/04/the-answers-will-come?lang=eng
   year: 1985
-- article_id: 03187_000_035
-  item: '032'
+- item: 33
   key: 032-this-is-the-work-of-the-lord
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: this-is-the-work-of-the-lord
   speaker: Waldo P. Call
   title: This Is the Work of the Lord
   url: https://www.lds.org/general-conference/1985/04/this-is-the-work-of-the-lord?lang=eng
   year: 1985
-- article_id: 03187_000_036
-  item: '033'
+- item: 34
   key: 033-he-is-in-charge
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: he-is-in-charge
-  speaker: da Rocha Camargo
+  speaker: Helio R. Camargo
   title: He Is in Charge
   url: https://www.lds.org/general-conference/1985/04/he-is-in-charge?lang=eng
   year: 1985
-- article_id: 03187_000_037
-  item: '034'
+- item: 35
   key: 034-god-has-a-work-for-us-to-do
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: god-has-a-work-for-us-to-do
   speaker: Gordon B. Hinckley
   title: God Has a Work for Us to Do
   url: https://www.lds.org/general-conference/1985/04/god-has-a-work-for-us-to-do?lang=eng
+  year: 1985
+- item: 36
+  key: 035-the-answers-will-come
+  month: 4
+  session_title: General Women's Meeting
+  slug: the-answers-will-come
+  speaker: Hans B. Ringger
+  title: The Answers Will Come
+  url: https://www.lds.org/general-conference/1985/04/the-answers-will-come?lang=eng
+  year: 1985
+- item: 37
+  key: 036-this-is-the-work-of-the-lord
+  month: 4
+  session_title: General Women's Meeting
+  slug: this-is-the-work-of-the-lord
+  speaker: Waldo P. Call
+  title: This Is the Work of the Lord
+  url: https://www.lds.org/general-conference/1985/04/this-is-the-work-of-the-lord?lang=eng
+  year: 1985
+- item: 38
+  key: 037-he-is-in-charge
+  month: 4
+  session_title: General Women's Meeting
+  slug: he-is-in-charge
+  speaker: Helio R. Camargo
+  title: He Is in Charge
+  url: https://www.lds.org/general-conference/1985/04/he-is-in-charge?lang=eng
+  year: 1985
+- item: 39
+  key: 038-god-has-a-work-for-us-to-do
+  month: 4
+  session_title: General Women's Meeting
+  slug: god-has-a-work-for-us-to-do
+  speaker: Gordon B. Hinckley
+  title: God Has a Work for Us to Do
+  url: https://www.lds.org/general-conference/1985/04/god-has-a-work-for-us-to-do?lang=eng
+  year: 1985
+- item: 40
+  key: 039-taking-upon-us-the-name-of-jesus-christ
+  month: 4
+  session_title: General Women's Meeting
+  slug: taking-upon-us-the-name-of-jesus-christ
+  speaker: Dallin H. Oaks
+  title: Taking upon Us the Name of Jesus Christ
+  url: https://www.lds.org/general-conference/1985/04/taking-upon-us-the-name-of-jesus-christ?lang=eng
   year: 1985
 month: 4
 year: 1985

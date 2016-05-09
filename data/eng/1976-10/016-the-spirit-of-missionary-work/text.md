@@ -31,7 +31,7 @@ thoughts that any soul should endure endless torment did cause them to quake
 and tremble.
 
 "And thus did the Spirit of the Lord work upon them." ([Mosiah
-28:3-4](https://www.lds.org/scriptures/bofm/mosiah/28.3-4?lang=eng#2).)
+28:3-4](/scriptures/bofm/mosiah/28.3-4?lang=eng#2).)
 
 This and other scriptures describe a marvelous phenomenon which occurs among
 men when the light of the gospel illuminates their lives. Almost
@@ -47,8 +47,7 @@ filled with joy. Then, according to the record, he "began to be desirous that
 his family should partake of it also; for," he said, "I knew that it was
 desirable above all other fruit." This fruit motivated Lehi to beckon to his
 family and "with a loud voice" invite them to come to him and partake. (See [1
-Ne. 8:10-12,
-15](https://www.lds.org/scriptures/bofm/1-ne/8.10-12%2C15?lang=eng#9).)
+Ne. 8:10-12, 15](/scriptures/bofm/1-ne/8.10-12,15?lang=eng#9).)
 
 Not too long ago, I heard the testimony of a new convert--a young man
 obviously touched by the Spirit. Among other things, he indicated that it was
@@ -71,7 +70,7 @@ One of the beautiful dimensions of the proselyting effort is that both parties
 involved, the teacher and the student, feel of the Spirit and are edified by
 what takes place. As revealed through the Prophet Joseph Smith, "He that
 preacheth and he that receiveth, understand one another, and both are edified
-and rejoice together." ([D&amp;C 50:22](https://www.lds.org/scriptures/dc-
+and rejoice together." ([D&amp;C 50:22](/scriptures/dc-
 testament/dc/50.22?lang=eng#21).)
 
 Listen to what one missionary wrote about teaching and testifying by the power
@@ -105,8 +104,7 @@ we have family prayers; and I pray frequently about my work."
 I commended him for cultivating this habit and invited him to read with me
 this scripture: "For if ye would hearken unto the Spirit which teacheth a man
 to pray ye would know that ye must pray; for the evil spirit teacheth not a
-man to pray." ([2 Ne.
-32:8](https://www.lds.org/scriptures/bofm/2-ne/32.8?lang=eng#7).)
+man to pray." ([2 Ne. 32:8](/scriptures/bofm/2-ne/32.8?lang=eng#7).)
 
 My friend quickly admitted that he had been listening to the right spirit.
 
@@ -122,7 +120,7 @@ begin to swell within your breasts; and when you feel these swelling motions,
 ye will begin to say within yourselves--It must needs be that this is a good
 seed, or that the word is good, for it beginneth to enlarge my soul; yea, it
 beginneth to enlighten my understanding." ([Alma
-32:28](https://www.lds.org/scriptures/bofm/alma/32.28?lang=eng#27).)
+32:28](/scriptures/bofm/alma/32.28?lang=eng#27).)
 
 It required little persuasion for my friend to acknowledge that the word was
 true and good, and that he had felt the Spirit of the Lord.
@@ -137,7 +135,7 @@ I expressed thanks for her honest answer and suggested that we read together
 the following: "But he that believeth these things which I have spoken, him
 will I visit with the manifestations of my Spirit. ... For because of my Spirit
 he shall know that these things are true; for it persuadeth men to do good."
-([Ether 4:11](https://www.lds.org/scriptures/bofm/ether/4.11?lang=eng#10).)
+([Ether 4:11](/scriptures/bofm/ether/4.11?lang=eng#10).)
 
 She, too, was willing to testify that a new spirit had entered their home and
 that this same spirit had changed her husband's life.
@@ -151,8 +149,7 @@ teachings and testimonies of the missionaries. I then requested that we read:
 from evil; wherefore, I show unto you the way to judge; for everything which
 inviteth to do good, and to persuade to believe in Christ, is sent forth by
 the power and gift of Christ; wherefore ye may know with a perfect knowledge
-it is of God." ([Moro.
-7:16](https://www.lds.org/scriptures/bofm/moro/7.16?lang=eng#15).)
+it is of God." ([Moro. 7:16](/scriptures/bofm/moro/7.16?lang=eng#15).)
 
 Our discussion concluded with an open acknowledgment by my investigator
 friends that a new and precious spirit had entered their lives. The influence
@@ -214,7 +211,9 @@ missionary spirit. Would that all of us felt as Alma and had the yearning
 desire to cry, "O that I were an angel, and could have the wish of mine heart,
 that I might go forth and speak with the trump of God, with a voice to shake
 the earth, and cry repentance unto every people!" ([Alma
-29:1](https://www.lds.org/scriptures/bofm/alma/29.1?lang=eng#0).)
+29:1](/scriptures/bofm/alma/29.1?lang=eng#0).)
 
 In the name of Jesus Christ. Amen.
+
+## References
 

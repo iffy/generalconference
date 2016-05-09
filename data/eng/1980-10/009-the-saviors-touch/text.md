@@ -23,7 +23,7 @@ she had touched him, and how she was healed immediately.
 
 "And he said unto her, Daughter, be of good comfort: thy faith hath made thee
 whole; go in peace." ([Luke
-8:46-48](https://www.lds.org/scriptures/nt/luke/8.46-48?lang=eng#45).)
+8:46-48](/scriptures/nt/luke/8.46-48?lang=eng#45).)
 
 Can the Master touch others' lives through you and me? Oh yes, he can, and he
 will if we will just do our part. A home teacher in Florida let the Savior's
@@ -83,14 +83,14 @@ member."
 
 The Lord taught the Nephites, "Therefore, hold up your light that it may shine
 unto the world. Behold I am the light which ye shall hold up." ([3 Ne.
-18:24](https://www.lds.org/scriptures/bofm/3-ne/18.24?lang=eng#23).) A recent
-example of the light of the Lord touching someone who needed it desperately
-came when I called upon a very close friend shortly after the death of his
-eternal companion. I asked him, "What can I now do to help?" He answered,
-"Help my son to understand." You see, this son loved his mother very much.
-When he saw her suffer month after month, he began to feel that the prayers
-and the priesthood blessings went unanswered. This caused his faith in our
-Heavenly Father to waiver, and he lost the light of the Lord in his life.
+18:24](/scriptures/bofm/3-ne/18.24?lang=eng#23).) A recent example of the
+light of the Lord touching someone who needed it desperately came when I
+called upon a very close friend shortly after the death of his eternal
+companion. I asked him, "What can I now do to help?" He answered, "Help my son
+to understand." You see, this son loved his mother very much. When he saw her
+suffer month after month, he began to feel that the prayers and the priesthood
+blessings went unanswered. This caused his faith in our Heavenly Father to
+waiver, and he lost the light of the Lord in his life.
 
 The words rang in my ears: "Help my son to understand." I asked myself, "How?
 What can I do?" Finally, I invited him to come to Church headquarters to talk
@@ -160,11 +160,13 @@ day pass without striving to touch the life of someone through our service!
 Then we can cherish and appreciate more the Savior's beautiful admonition:
 "Verily I say unto you, Inasmuch as ye have done it unto one of the least of
 these my brethren, ye have done it unto me" ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39)).
+25:40](/scriptures/nt/matt/25.40?lang=eng#39)).
 
 I bear testimony that Jesus is the Christ, the Son of the living God, that he
 touched the life of the Prophet Joseph Smith, and that through him the fulness
 of the gospel has been restored to the earth to bless and guide all mankind.
 This witness and testimony I bear in the sacred and beloved name of Jesus
 Christ, amen.
+
+## References
 

@@ -51,9 +51,8 @@ which I believed with all of my heart because I believed my parents.
 
 In the forty-sixth section of the Doctrine and Covenants, the Lord says: "To
 some it is given by the Holy Ghost to know that Jesus is the Son of God. ... To
-others it is given to believe on their words." ([D&amp;C
-46:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/46.13-14?lang=eng#12).) I was one of those who believed on my
+others it is given to believe on their words." ([D&amp;C 46:13-14](/scriptures
+/dc-testament/dc/46.13-14?lang=eng#12).) I was one of those who believed on my
 parents' words. To me, the teachings of the First Vision, the visits of Moroni
 and others were as real as if they had been personal experiences of my own. I
 have never had a day in my life that I can remember when I haven't known these
@@ -76,4 +75,6 @@ day the response will be, "Yes, Grandpa, I have."
 I bear you my witness that Jesus is the Christ, the Son of the living God.
 Joseph Smith was a prophet of God. Ezra Taft Benson is a prophet of God. I
 leave that testimony with you in the name of Jesus Christ, amen.
+
+## References
 

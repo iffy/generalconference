@@ -48,15 +48,14 @@ retaliate nor contend. "Wherefore, my beloved brethren, let every man be swift
 to hear, slow to speak, slow to wrath:
 
 "For the wrath of man worketh not the righteousness to God." ([James
-1:19-20](https://www.lds.org/scriptures/nt/james/1.19-20?lang=eng#18).)
+1:19-20](/scriptures/nt/james/1.19-20?lang=eng#18).)
 
 No religion, group, or individual can prosper over an extended period of time
 with fault-finding as their foundation. To the world, and especially to
 members of The Church of Jesus Christ of Latter-day Saints, we declare there
 is no time for contention. "If any man among you seem to be religious, and
 bridleth not his tongue, but deceiveth his own heart, this man's religion is
-vain." ([James
-1:26](https://www.lds.org/scriptures/nt/james/1.26?lang=eng#25).)
+vain." ([James 1:26](/scriptures/nt/james/1.26?lang=eng#25).)
 
 The poet Robert Frost once defined education as "the ability to listen to
 almost anything without losing your temper or your self-confidence." Probably
@@ -92,7 +91,7 @@ and behold, a beam is in thine own eye?
 
 "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt
 thou see clearly to cast out the mote out of thy brother's eye." ([Matt.
-7:3-5](https://www.lds.org/scriptures/nt/matt/7.3-5?lang=eng#2).)
+7:3-5](/scriptures/nt/matt/7.3-5?lang=eng#2).)
 
 Meaningful progress can be made only when all of us can cast the motes out of
 our own eyes, leave judgment to our Father in Heaven, and lose ourselves in
@@ -102,7 +101,7 @@ As we reflect upon actions that do not fit the definition of pure religion,
 perhaps we should contemplate the nature of this term: "Pure religion and
 undefiled before God and the Father is this, To visit the fatherless and
 widows in their affliction, and to keep ... unspotted from the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 The words are simple, but a basic formula is revealed--namely, help those who
 are in need, build your life around the gospel of Jesus Christ, and avoid
@@ -113,8 +112,8 @@ wisdom and free agency as we apply the basic principles. Jesus said, "Verily,
 verily, I say unto you, this is my gospel; and ye know the things that ye must
 do in my church; for the works which ye have seen me do that shall ye also do;
 for that which ye have seen me do even that shall ye do." ([3 Ne.
-27:21](https://www.lds.org/scriptures/bofm/3-ne/27.21?lang=eng#20).) The doing
-is always more difficult than the knowing.
+27:21](/scriptures/bofm/3-ne/27.21?lang=eng#20).) The doing is always more
+difficult than the knowing.
 
 We were visiting some friends this past summer. A very young son with a new
 tricycle was disturbed because his parents were giving us their attention and
@@ -254,4 +253,6 @@ never be taught or lived by those who are petty, prejudiced, contentious, or
 unresponsive to the needs of their fellowmen. Pure religion is following the
 teachings of our Savior. Jesus Christ does live. This is his Church. To this I
 bear witness in the name of Jesus Christ, amen.
+
+## References
 

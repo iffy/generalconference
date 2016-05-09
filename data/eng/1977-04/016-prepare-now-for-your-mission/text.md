@@ -6,7 +6,7 @@ influence that comes into your soul as you make preparations to touch hearts
 when you are on His sacred errand as a missionary. May I suggest six things
 you might do:
 
-  1. Pray fervently to your Father in heaven at least twice each day--perhaps appropriate times would be as the day begins and as it closes. This will build a close personal relationship with him. Listen to these thoughts titled, "Proof":
+  1. Pray fervently to your Father in heaven at least twice each day--perhaps appropriate times would be as the day begins and as it closes. This will build a close personal relationship with him. Listen to these thoughts titled, "Proof": 
 
 _If radio's slim fingers can pluck a melody_
 
@@ -23,31 +23,22 @@ _Why should mortals wonder if God hears prayer?_
 (Ethel Romig Fuller, "Proof," in _Masterpieces of Religious Verse,_ ed. James
 Dalton Morrison, New York: Harper and Bros., 1948, p. 407.)
 
-  2. Have your own personal copies of the scriptures. Young men, will you put forth sufficient effort to secure them?
-
-  3. Let these scriptures become worn and used so they will feel as comfortable in your hands as well-worn tennis shoes do on your feet. Study them daily. You may wish to resolve to read particularly the Book of Mormon within the next year. This can be done by averaging less than two pages per day. If you were to read four pages a day, you could within the next year read the Book of Mormon, the Doctrine and Covenants, the Pearl of Great Price, and the New Testament. This would be a worthy goal to establish. But please do not settle for less than absorbing the Book of Mormon in the next year of your life.
-
-  4. Have a mission savings account. I hope this is only a suggestion to continue what you have already started. If not, start today. This very moment set aside some amount of money, however small, as the beginning of your contribution to your mission.
-
-  5. Be active in the Church. This means attendance at Sunday School, priesthood meeting, and sacrament meeting and involvement in Scouting, seminary or institute, depending upon your age.
-
-  6. Participate in family home evening. Because of an eternal design you are a part of this very special group of spirits. Contribute in this setting; do not just receive. Through the proper use of prayer and acquaintance with the lives and experiences of the prophets in the scriptures, you will have the base from which to make a very special spiritual contribution to family home evening.
+  2. Have your own personal copies of the scriptures. Young men, will you put forth sufficient effort to secure them? 
+  3. Let these scriptures become worn and used so they will feel as comfortable in your hands as well-worn tennis shoes do on your feet. Study them daily. You may wish to resolve to read particularly the Book of Mormon within the next year. This can be done by averaging less than two pages per day. If you were to read four pages a day, you could within the next year read the Book of Mormon, the Doctrine and Covenants, the Pearl of Great Price, and the New Testament. This would be a worthy goal to establish. But please do not settle for less than absorbing the Book of Mormon in the next year of your life. 
+  4. Have a mission savings account. I hope this is only a suggestion to continue what you have already started. If not, start today. This very moment set aside some amount of money, however small, as the beginning of your contribution to your mission. 
+  5. Be active in the Church. This means attendance at Sunday School, priesthood meeting, and sacrament meeting and involvement in Scouting, seminary or institute, depending upon your age. 
+  6. Participate in family home evening. Because of an eternal design you are a part of this very special group of spirits. Contribute in this setting; do not just receive. Through the proper use of prayer and acquaintance with the lives and experiences of the prophets in the scriptures, you will have the base from which to make a very special spiritual contribution to family home evening. 
 
 Now a comment to the fathers. The attitude of the father will be the school of
 the son. You will want to inspire your son to respond to the call of the
 prophet. Here are six things you might do to prepare your son for a mission:
 
-  1. Teach him that in the humility of prayer great strength flows from heaven. Teach him the principles of prayer. You might utilize as a base the wonderful sermon President Ezra Taft Benson presented to us this afternoon.
-
-  2. Aid him in securing his own personal copies of the scriptures after he has extended every personal effort.
-
-  3. Help him create a personal study program of the scriptures so that daily there is a spiritual intake.
-
-  4. Show him the process and inspire him to have a savings program so that he will feel a personal monetary contribution and sacrifice as he consecrates his time to this very holy purpose.
-
-  5. Lead him by example into full Church activity, assuring that he takes advantage of his appropriate priesthood, Scouting, seminary, institute, and auxiliary opportunities. Teach him the truths of faith, baptism, repentance, and the blessing of the gift of the Holy Ghost.
-
-  6. Hold family home evening regularly--that means every Monday evening--and allow him a meaningful, participative experience.
+  1. Teach him that in the humility of prayer great strength flows from heaven. Teach him the principles of prayer. You might utilize as a base the wonderful sermon President Ezra Taft Benson presented to us this afternoon. 
+  2. Aid him in securing his own personal copies of the scriptures after he has extended every personal effort. 
+  3. Help him create a personal study program of the scriptures so that daily there is a spiritual intake. 
+  4. Show him the process and inspire him to have a savings program so that he will feel a personal monetary contribution and sacrifice as he consecrates his time to this very holy purpose. 
+  5. Lead him by example into full Church activity, assuring that he takes advantage of his appropriate priesthood, Scouting, seminary, institute, and auxiliary opportunities. Teach him the truths of faith, baptism, repentance, and the blessing of the gift of the Holy Ghost. 
+  6. Hold family home evening regularly--that means every Monday evening--and allow him a meaningful, participative experience. 
 
 May we mention an important resource for you fathers--your home teachers?
 
@@ -60,17 +51,12 @@ possibly receive this assignment. Won't you listen in?)
 
 The assignment to the maturing young companion:
 
-  1. Testify how you have been blessed in your life by approaching your Father in heaven in prayer.
-
-  2. Take your scriptures with you on all visits to the homes assigned.
-
-  3. Quote from your scriptures and show methods of marking them for easy reference.
-
-  4. Show your savings book, or bank book, or whatever process you are using to prepare financially for your mission.
-
-  5. Express the exhilarating joy received from Church participation. Mention specific examples of times of inspiration through testimony bearing and hearing, as well as times of fun in uplifting activities enjoyed with the youth.
-
-  6. Express in that home how you are privileged to have a real growing experience in the regular family home evenings held in _your_ home.
+  1. Testify how you have been blessed in your life by approaching your Father in heaven in prayer. 
+  2. Take your scriptures with you on all visits to the homes assigned. 
+  3. Quote from your scriptures and show methods of marking them for easy reference. 
+  4. Show your savings book, or bank book, or whatever process you are using to prepare financially for your mission. 
+  5. Express the exhilarating joy received from Church participation. Mention specific examples of times of inspiration through testimony bearing and hearing, as well as times of fun in uplifting activities enjoyed with the youth. 
+  6. Express in that home how you are privileged to have a real growing experience in the regular family home evenings held in _your_ home. 
 
 Now back to where we began: with you, my young friends--and I'm speaking to
 you individually. Remember the incident of that September night in 1823?
@@ -88,17 +74,12 @@ ponder, internalize these thoughts. You climb through the fence and fall to
 the ground. And these convictions cross your mind for the fourth time: I will
 fill a mission, and to prepare--
 
-  1. I will pray at least twice a day.
-
-  2. I will have my personal copies of the scriptures.
-
-  3. They will become worn and used and the teachings found therein will be invited into my very being.
-
-  4. I will support myself financially to the very limit of my ability, and then I'll stretch even a little more.
-
-  5. I will attend--no--I'll really _participate_ in Sunday School, Scouting, Aaronic Priesthood, seminary and institute, and other opportunities appropriate to my age.
-
-  6. I'll be grateful for the blessings of family home evening.
+  1. I will pray at least twice a day. 
+  2. I will have my personal copies of the scriptures. 
+  3. They will become worn and used and the teachings found therein will be invited into my very being. 
+  4. I will support myself financially to the very limit of my ability, and then I'll stretch even a little more. 
+  5. I will attend--no--I'll really _participate_ in Sunday School, Scouting, Aaronic Priesthood, seminary and institute, and other opportunities appropriate to my age. 
+  6. I'll be grateful for the blessings of family home evening. 
 
 Now, young man, get up from that reclining position by the fence and move!
 What will be the result? You will be a better missionary. When our prophet-
@@ -114,4 +95,6 @@ you must stand on your own decision. This decision will be a test of your
 character and obedience. May you be blessed to decide affirmatively and then
 prepare courageously and serve magnificently, I pray in the name of the Lord
 Jesus Christ. Amen.
+
+## References
 

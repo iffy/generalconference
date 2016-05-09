@@ -101,3 +101,5 @@ All in favor, please manifest it. Contrary, if there be any, by the same sign.
 President Kimball, it seems that voting has been unanimous in favor of these
 officers and General Authorities of the Church.
 
+## References
+

@@ -66,7 +66,7 @@ learned?
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself" ([John
-7:15-17](https://www.lds.org/scriptures/nt/john/7.15-17?lang=eng#14)).
+7:15-17](/scriptures/nt/john/7.15-17?lang=eng#14)).
 
 President Benson, in April Conference, 1986, said, "The Book of Mormon has not
 been, nor is it yet, the center of our personal study, family teaching,
@@ -96,7 +96,7 @@ likened unto a foolish man, who built his house upon the sand--
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell, and great was the fall of it" ([3 Ne.
-14:24-27](https://www.lds.org/scriptures/bofm/3-ne/14.24-27?lang=eng#23)).
+14:24-27](/scriptures/bofm/3-ne/14.24-27?lang=eng#23)).
 
 Did you note, brothers and sisters, that the rain descended and the floods
 came and the winds blew upon _both_ houses? Just because we follow the word of
@@ -107,7 +107,7 @@ The prophet Mormon counseled us in great power on the subject of prophets when
 he said, "Wo unto him that shall deny the revelations of the Lord, and that
 shall say the Lord no longer worketh by revelation, or by prophecy, or by
 gifts, or by tongues, or by healings, or by the power of the Holy Ghost!" ([3
-Ne. 29:6](https://www.lds.org/scriptures/bofm/3-ne/29.6?lang=eng#5)).
+Ne. 29:6](/scriptures/bofm/3-ne/29.6?lang=eng#5)).
 
 Priesthood leaders, do you want to raise the spiritual level of your
 stewardship? Follow the Brethren.
@@ -127,7 +127,9 @@ follow the Brethren.
 
 You will find that you will "enjoy the words of eternal life in this world,
 and eternal life in the world to come" ([Moses
-6:59](https://www.lds.org/scriptures/pgp/moses/6.59?lang=eng#58)). I am a
-witness that this is the work of God. There is a prophet in our midst, even
-President Ezra Taft Benson, in the name of Jesus Christ, amen.
+6:59](/scriptures/pgp/moses/6.59?lang=eng#58)). I am a witness that this is
+the work of God. There is a prophet in our midst, even President Ezra Taft
+Benson, in the name of Jesus Christ, amen.
+
+## References
 

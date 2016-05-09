@@ -70,7 +70,7 @@ temperate;
 
 "Holding fast the faithful word as he hath been taught, that he may be able by
 sound doctrine both to exhort and to convince the gainsayers." ([Titus
-1:7-9](https://www.lds.org/scriptures/nt/titus/1.7-9?lang=eng#6).)
+1:7-9](/scriptures/nt/titus/1.7-9?lang=eng#6).)
 
 The Lord added to this burden by revelation contained in the Doctrine and
 Covenants, appointing him also as a judge.
@@ -81,7 +81,7 @@ children;
 
 "And to judge his people by the testimony of the just, and by the assistance
 of his counselors, according to the laws of the kingdom which are given by the
-prophets of God." ([D&amp;C 58:17-18](https://www.lds.org/scriptures/dc-
+prophets of God." ([D&amp;C 58:17-18](/scriptures/dc-
 testament/dc/58.17-18?lang=eng#16).)
 
 Prophets have counseled us on the importance of a bishop's role. President
@@ -163,8 +163,8 @@ them to pray vocally and in secret and attend to all family duties. ...
 other, neither lying, backbiting, nor evil speaking;
 
 "And see that the church meet together often, and also see that all the
-members do their duty." ([D&amp;C 20:47, 53-55](https://www.lds.org/scriptures
-/dc-testament/dc/20.47%2C53-55?lang=eng#46).)
+members do their duty." ([D&amp;C 20:47, 53-55](/scriptures/dc-
+testament/dc/20.47,53-55?lang=eng#46).)
 
 The father is recognized and supported as the presiding leader of his family,
 responsible for teaching them the basic doctrines of the kingdom, seeing that
@@ -236,4 +236,6 @@ lead the wards of the Church.
 May God bless us that this may be the beginning of a new and improved
 relationship with our bishops, is my humble prayer, in the name of Jesus
 Christ, amen.
+
+## References
 

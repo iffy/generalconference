@@ -34,7 +34,7 @@ missionaries today as it was with Timothy in the days of Paul. It was Paul who
 wrote to his young companion, saying, 'Let no man despise thy youth; but be
 thou an example of the believers, in word, in conversation, in charity, in
 spirit, in faith, in purity' ([1 Tim.
-4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11)).
+4:12](/scriptures/nt/1-tim/4.12?lang=eng#11)).
 
 "The remarkable thing is that people do receive them and listen to them. They
 are wholesome. They are bright, they are alert, they are upstanding. They are
@@ -51,7 +51,7 @@ they come to believe in these further words of Paul to Timothy:
 of a sound mind.
 
 "Be not thou therefore ashamed of the testimony of our Lord" ([2 Tim.
-1:7-8](https://www.lds.org/scriptures/nt/2-tim/1.7-8?lang=eng#6)).
+1:7-8](/scriptures/nt/2-tim/1.7-8?lang=eng#6)).
 
 They recognize that fear comes not from God but from the adversary of truth.
 And so they develop a capacity to engage people in conversation concerning
@@ -69,21 +69,20 @@ faith, and prayer, and humility. As we have been reminded, the work is not
 easy. It has never been easy. Long ago Jeremiah said that the Lord would
 gather His people one of a city and two of a family and bring them to Zion and
 feed them with pastors after His own heart (see [Jer.
-3:14-15](https://www.lds.org/scriptures/ot/jer/3.14-15?lang=eng#13)). In terms
-of the individual missionary, the harvest is not great in most instances, but
-in the aggregate it becomes tremendous. The work demands courage, it demands
-effort, it demands dedication, it demands the humility to get on one's knees
-and ask the Lord for help and direction.
+3:14-15](/scriptures/ot/jer/3.14-15?lang=eng#13)). In terms of the individual
+missionary, the harvest is not great in most instances, but in the aggregate
+it becomes tremendous. The work demands courage, it demands effort, it demands
+dedication, it demands the humility to get on one's knees and ask the Lord for
+help and direction.
 
 I throw out a challenge to every young man within this vast congregation
 tonight. Prepare yourself now to be worthy to serve the Lord as a full-time
 missionary. He has said, "If ye are prepared ye shall not fear" ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29)).
-Prepare to consecrate two years of your lives to this sacred service. That
-will in effect constitute a tithe on the first twenty years of your lives.
-Think of all that you have that is good--life itself, health, strength, food
-to eat and clothing to wear, parents, brothers and sisters, and friends. All
-are gifts from the Lord.
+38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29)). Prepare to consecrate
+two years of your lives to this sacred service. That will in effect constitute
+a tithe on the first twenty years of your lives. Think of all that you have
+that is good--life itself, health, strength, food to eat and clothing to wear,
+parents, brothers and sisters, and friends. All are gifts from the Lord.
 
 Of course your time is precious, and you may feel you cannot afford two years.
 But I promise you that the time you spend in the mission field, if those years
@@ -253,10 +252,9 @@ recurring miracle. It is made possible by the faith of the people. It is the
 Lord's plan for financing the work of His kingdom.
 
 It is so simple and straightforward. It consists of thirty-five words set
-forth in section 119 of the Doctrine and Covenants[D&amp;C
-119:4](https://www.lds.org/scriptures/dc-testament/dc/119.4?lang=eng#3). What
-a contrast with the cumbersome, complex, and difficult tax codes with which we
-live as citizens.
+forth in section 119 of the Doctrine and Covenants[D&amp;C 119:4](/scriptures
+/dc-testament/dc/119.4?lang=eng#3). What a contrast with the cumbersome,
+complex, and difficult tax codes with which we live as citizens.
 
 There is no compulsion to pay tithing, other than the commandment of the Lord,
 and that, of course, becomes the best of all reasons. This is the only large
@@ -358,4 +356,6 @@ It is true. It is our Father's work. It is the church of our Redeemer. The
 priesthood which we hold is a very real and a very precious thing. I leave you
 my testimony, my love and my blessing, and my gratitude, in the name of Jesus
 Christ, amen.
+
+## References
 

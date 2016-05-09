@@ -12,15 +12,13 @@ letters:
 
 "We look not at the things which are seen, but at the things which are not
 seen: for the things which are seen are temporal; but the things which are not
-seen are eternal." ([2 Cor.
-4:18](https://www.lds.org/scriptures/nt/2-cor/4.18?lang=eng#17).)
+seen are eternal." ([2 Cor. 4:18](/scriptures/nt/2-cor/4.18?lang=eng#17).)
 
 "For they that are after the flesh do mind the things of the flesh; but they
 that are after the Spirit the things of the Spirit.
 
 "For to be carnally minded is death; but to be spiritually minded is life and
-peace." ([Rom.
-8:5-6](https://www.lds.org/scriptures/nt/rom/8.5-6?lang=eng#4).)
+peace." ([Rom. 8:5-6](/scriptures/nt/rom/8.5-6?lang=eng#4).)
 
 To be spiritually minded is to view and evaluate our experiences in terms of
 the enlarged perspective of eternity.
@@ -29,10 +27,10 @@ Each of us has a personal lens through which we _view_ the world. Our lens
 gives its special tint to all we see. It can suppress some features and
 emphasize others. It can also reveal things otherwise invisible. Through the
 lens of spirituality, we can know "the things of God" by "the Spirit of God."
-([1 Cor. 2:11](https://www.lds.org/scriptures/nt/1-cor/2.11?lang=eng#10).) As
-the Apostle Paul taught, such things are "foolishness" to the "natural man."
-He cannot see them "because they are spiritually discerned." (See [1 Cor.
-2:14](https://www.lds.org/scriptures/nt/1-cor/2.14?lang=eng#13).)
+([1 Cor. 2:11](/scriptures/nt/1-cor/2.11?lang=eng#10).) As the Apostle Paul
+taught, such things are "foolishness" to the "natural man." He cannot see them
+"because they are spiritually discerned." (See [1 Cor.
+2:14](/scriptures/nt/1-cor/2.14?lang=eng#13).)
 
 How we _interpret_ our experiences is also a function of our degree of
 spirituality. Some interpret mortality solely in terms of worldly
@@ -75,7 +73,7 @@ troubled about many things:
 
 "But one thing is needful: and Mary hath chosen that good part, which shall
 not be taken away from her." ([Luke
-10:38-42](https://www.lds.org/scriptures/nt/luke/10.38-42?lang=eng#37).)
+10:38-42](/scriptures/nt/luke/10.38-42?lang=eng#37).)
 
 This scripture reminds every Martha, male and female, that we should not be so
 occupied with what is routine and temporal that we fail to cherish those
@@ -84,12 +82,11 @@ opportunities that are unique and spiritual.
 The contrast between the spiritual and the temporal is also illustrated by the
 twins Esau and Jacob and their different attitudes toward their birthright.
 The firstborn, Esau, "despised his birthright." ([Gen.
-25:34](https://www.lds.org/scriptures/ot/gen/25.34?lang=eng#33).) Jacob, the
-second twin, desired it. Jacob valued the spiritual, while Esau sought the
-things of this world. When he was hungry, Esau sold his birthright for a mess
-of pottage. "Behold," he explained, "I am at the point to die: and what profit
-shall this birthright do to me?" ([Gen.
-25:32](https://www.lds.org/scriptures/ot/gen/25.32?lang=eng#31).) Many Esaus
+25:34](/scriptures/ot/gen/25.34?lang=eng#33).) Jacob, the second twin, desired
+it. Jacob valued the spiritual, while Esau sought the things of this world.
+When he was hungry, Esau sold his birthright for a mess of pottage. "Behold,"
+he explained, "I am at the point to die: and what profit shall this birthright
+do to me?" ([Gen. 25:32](/scriptures/ot/gen/25.32?lang=eng#31).) Many Esaus
 have given up something of eternal value in order to satisfy a momentary
 hunger for the things of the world.
 
@@ -99,12 +96,12 @@ tragic afternoon on Calvary, a handful of soldiers waited at the foot of a
 cross. The most important event in all eternity was taking place on the cross
 above their heads. Oblivious to that fact, they occupied themselves casting
 lots to divide the earthly property of the dying Son of God. (See [Matt.
-27:35](https://www.lds.org/scriptures/nt/matt/27.35?lang=eng#34); [Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33); [John
-19:24](https://www.lds.org/scriptures/nt/john/19.24?lang=eng#23).) Their
-example reminds each of us that we should not be casting our lots for the
-things of the world while the things of eternity, including our families and
-the work of the Lord, suffer for our attention.
+27:35](/scriptures/nt/matt/27.35?lang=eng#34); [Luke
+23:34](/scriptures/nt/luke/23.34?lang=eng#33); [John
+19:24](/scriptures/nt/john/19.24?lang=eng#23).) Their example reminds each of
+us that we should not be casting our lots for the things of the world while
+the things of eternity, including our families and the work of the Lord,
+suffer for our attention.
 
 Here is an example of a spiritual and a temporal evaluation of an everyday
 experience. In a BYU devotional several years ago, Elder Loren C. Dunn
@@ -147,8 +144,7 @@ consecration, some of the most conspicuous worldly failures are seen as the
 pioneer enterprisers' greatest triumphs. Whatever their financial outcome,
 these enterprises called forth the sacrifices that molded pioneers into Saints
 and prepared Saints for exaltation. Unto God, "all things ... are spiritual."
-([D&amp;C 29:34](https://www.lds.org/scriptures/dc-
-testament/dc/29.34?lang=eng#33).)
+([D&amp;C 29:34](/scriptures/dc-testament/dc/29.34?lang=eng#33).)
 
 In another great event in Mormon history, several hundred men marched from
 Ohio to give military relief to the persecuted Saints in Zion--western
@@ -167,10 +163,10 @@ purifying and ennobling of the passions." (_The Life of Heber C. Kimball,_ 2d
 ed., Salt Lake City: Stevens &amp; Wallis, 1945, p. 65.)
 
 The first of the Ten Commandments--"Thou shalt have no other gods before me"
-([Ex. 20:3](https://www.lds.org/scriptures/ot/ex/20.3?lang=eng#2))--epitomizes
-the nature of spirituality. A spiritual person has no priorities ahead of God.
-A person who seeks or serves other objectives, such as power or prominence, is
-not spiritual.
+([Ex. 20:3](/scriptures/ot/ex/20.3?lang=eng#2))--epitomizes the nature of
+spirituality. A spiritual person has no priorities ahead of God. A person who
+seeks or serves other objectives, such as power or prominence, is not
+spiritual.
 
 The primacy of the spiritual over the temporal is evident in the teachings of
 the Savior's three senior Apostles. Peter taught:
@@ -179,11 +175,11 @@ the Savior's three senior Apostles. Peter taught:
 grass withereth, and the flower thereof falleth away:
 
 "But the word of the Lord endureth for ever." ([1 Pet.
-1:24-25](https://www.lds.org/scriptures/nt/1-pet/1.24-25?lang=eng#23).)
+1:24-25](/scriptures/nt/1-pet/1.24-25?lang=eng#23).)
 
 James asked: "Know ye not that the friendship of the world is enmity with God?
 whosoever therefore will be a friend of the world is the enemy of God."
-([James 4:4](https://www.lds.org/scriptures/nt/james/4.4?lang=eng#3).)
+([James 4:4](/scriptures/nt/james/4.4?lang=eng#3).)
 
 And the Apostle John wrote:
 
@@ -195,45 +191,42 @@ eyes, and the pride of life, is not of the Father, but is of the world.
 
 "And the world passeth away, and the lust thereof: but he that doeth the will
 of God abideth for ever." ([1 Jn.
-2:15-17](https://www.lds.org/scriptures/nt/1-jn/2.15-17?lang=eng#14).)
+2:15-17](/scriptures/nt/1-jn/2.15-17?lang=eng#14).)
 
 Materialism, which gives priority to material needs and objects, is obviously
 the opposite of spirituality. The Savior taught that we should not lay up
 "treasures upon earth, where moth and rust doth corrupt, and where thieves
 break through and steal." ([Matt.
-6:19](https://www.lds.org/scriptures/nt/matt/6.19?lang=eng#18).) We should lay
-up treasures in heaven: "For where your treasure is, there will your heart be
-also." ([Matt.
-6:21](https://www.lds.org/scriptures/nt/matt/6.21?lang=eng#20).)
+6:19](/scriptures/nt/matt/6.19?lang=eng#18).) We should lay up treasures in
+heaven: "For where your treasure is, there will your heart be also." ([Matt.
+6:21](/scriptures/nt/matt/6.21?lang=eng#20).)
 
 Like other Book of Mormon prophets, Samuel the Lamanite warned the Nephites
 that they were cursed because of their riches, "Because ye have set your
 hearts upon them, and have not hearkened unto the words of him who gave them
-unto you." ([Hel.
-13:21](https://www.lds.org/scriptures/bofm/hel/13.21?lang=eng#20); see also
-[Hel. 6:17](https://www.lds.org/scriptures/bofm/hel/6.17?lang=eng#16); [Hel.
-7:21](https://www.lds.org/scriptures/bofm/hel/7.21?lang=eng#20).)
+unto you." ([Hel. 13:21](/scriptures/bofm/hel/13.21?lang=eng#20); see also
+[Hel. 6:17](/scriptures/bofm/hel/6.17?lang=eng#16); [Hel.
+7:21](/scriptures/bofm/hel/7.21?lang=eng#20).)
 
 The Apostle Paul counseled young Timothy, "Charge them that are rich in this
 world, that they be not highminded, nor trust in uncertain riches, but in the
 living God, who giveth us richly all things to enjoy." ([1 Tim.
-6:17](https://www.lds.org/scriptures/nt/1-tim/6.17?lang=eng#16).)
+6:17](/scriptures/nt/1-tim/6.17?lang=eng#16).)
 
 There is nothing inherently evil about money. The Good Samaritan used the same
 coinage to serve his fellowman that Judas used to betray the Master. It is
 "the _love of money_ [which] is the root of all evil." ([1 Tim.
-6:10](https://www.lds.org/scriptures/nt/1-tim/6.10?lang=eng#9); italics
-added.) The critical difference is the degree of spirituality we exercise in
-viewing, evaluating, and managing the things of this world and our experiences
-in it.
+6:10](/scriptures/nt/1-tim/6.10?lang=eng#9); italics added.) The critical
+difference is the degree of spirituality we exercise in viewing, evaluating,
+and managing the things of this world and our experiences in it.
 
 If allowed to become an object of worship or priority, money can make us
 selfish and prideful, "puffed up in the vain things of the world." ([Alma
-5:37](https://www.lds.org/scriptures/bofm/alma/5.37?lang=eng#36).) In
-contrast, if used for fulfilling our legal obligations and for paying our
-tithes and offerings, money can demonstrate integrity and develop
-unselfishness. The spiritually enlightened use of property can help prepare us
-for the higher law of a celestial glory.
+5:37](/scriptures/bofm/alma/5.37?lang=eng#36).) In contrast, if used for
+fulfilling our legal obligations and for paying our tithes and offerings,
+money can demonstrate integrity and develop unselfishness. The spiritually
+enlightened use of property can help prepare us for the higher law of a
+celestial glory.
 
 The qualities of spirituality we have been able to embody in our lives are
 often evident in the way we react to death or other apparent tragedies or
@@ -241,8 +234,8 @@ misfortunes. As faithful Latter-day Saints, we can bear the death of loved
 ones because we have faith in the resurrection and the eternal nature of
 family ties. We can repent and rise above our mistakes and inadequacies
 because we know that our Savior "suffered these things for all, that they
-might not suffer if they would repent." ([D&amp;C
-19:16](https://www.lds.org/scriptures/dc-testament/dc/19.16?lang=eng#15).)
+might not suffer if they would repent." ([D&amp;C 19:16](/scriptures/dc-
+testament/dc/19.16?lang=eng#15).)
 
 Seen with the perspective of eternity, a temporal setback can be an
 opportunity to develop soul power of eternal significance. Strength is forged
@@ -250,13 +243,11 @@ in adversity. Faith is developed in a setting where we cannot see what lies
 ahead.
 
 Lehi promised his son Jacob that God "shall consecrate thine afflictions for
-thy gain." ([2 Ne.
-2:2](https://www.lds.org/scriptures/bofm/2-ne/2.2?lang=eng#1).) In the midst
+thy gain." ([2 Ne. 2:2](/scriptures/bofm/2-ne/2.2?lang=eng#1).) In the midst
 of the Missouri persecutions, the Lord assured the Saints that "all things
 wherewith you have been afflicted shall work together for your good."
-([D&amp;C 98:3](https://www.lds.org/scriptures/dc-
-testament/dc/98.3?lang=eng#2).) Those who can look upon their afflictions in
-this manner have spirituality.
+([D&amp;C 98:3](/scriptures/dc-testament/dc/98.3?lang=eng#2).) Those who can
+look upon their afflictions in this manner have spirituality.
 
 How do we achieve spirituality? How do we attain that degree of holiness where
 we can have the constant companionship of the Holy Ghost? How do we come to
@@ -293,8 +284,7 @@ light, and there shall be no darkness in you; and that body which is filled
 with light comprehendeth all things.
 
 "Therefore, sanctify yourselves that your minds become single to God."
-([D&amp;C 88:67-68](https://www.lds.org/scriptures/dc-
-testament/dc/88.67-68?lang=eng#66).)
+([D&amp;C 88:67-68](/scriptures/dc-testament/dc/88.67-68?lang=eng#66).)
 
 I testify that we are the children of God the Eternal Father. Through the
 atoning sacrifice of his Only Begotten Son, our Savior Jesus Christ, he has
@@ -302,10 +292,11 @@ given us the means by which we may be cleansed of our sins. Through his
 prophets he has given us the eternal perspective of spirituality.
 
 May we strive to attain that level of spirituality where we sanctify ourselves
-that our minds become single to God. (See [D&amp;C
-88:68](https://www.lds.org/scriptures/dc-testament/dc/88.68?lang=eng#67).) As
-we do so, we will enjoy his promised blessings, including the blessing of
-eternal life, "the greatest of all the gifts of God." ([D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).) Of
-this I testify in the name of Jesus Christ, amen.
+that our minds become single to God. (See [D&amp;C 88:68](/scriptures/dc-
+testament/dc/88.68?lang=eng#67).) As we do so, we will enjoy his promised
+blessings, including the blessing of eternal life, "the greatest of all the
+gifts of God." ([D&amp;C 14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).)
+Of this I testify in the name of Jesus Christ, amen.
+
+## References
 

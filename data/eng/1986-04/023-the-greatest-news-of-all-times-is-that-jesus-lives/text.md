@@ -14,7 +14,7 @@ journeyed from the land of Japan eastward, away to the state of Utah, to
 attend this general conference, what adds more to my joy, as Alma continues,
 is to see that you are still my brothers and sisters in the Lord; yea, and
 that you have waxed strong in the knowledge of the truth. (See [Alma
-17:2](https://www.lds.org/scriptures/bofm/alma/17.2?lang=eng#1).)
+17:2](/scriptures/bofm/alma/17.2?lang=eng#1).)
 
 May I also, by way of introduction, add that when foreigners like myself are
 taught the English language, they are usually advised by their teachers to shy
@@ -28,11 +28,11 @@ gospel meaning, "the inability to hear or understand spoken directions."
 
 The scriptures are replete with directions spoken by holy prophets in all
 dispensations because "the voice of the Lord is unto the ends of the earth,
-that all that will hear may hear." ([D&amp;C
-1:11](https://www.lds.org/scriptures/dc-testament/dc/1.11?lang=eng#10).) Yet
-time and again we have to be asked to be better listeners. President Marion G.
-Romney sometimes wonders out loud, "How many tellings does it take--how many
-repetitions of counsel? How many individual corrections must be given?"
+that all that will hear may hear." ([D&amp;C 1:11](/scriptures/dc-
+testament/dc/1.11?lang=eng#10).) Yet time and again we have to be asked to be
+better listeners. President Marion G. Romney sometimes wonders out loud, "How
+many tellings does it take--how many repetitions of counsel? How many
+individual corrections must be given?"
 
 As parents may pose these questions to their children, Heavenly Father may
 also wonder the same about _his_ sons and daughters. How many of us turn a
@@ -55,7 +55,7 @@ people, who composed the Church of God at Corinth, of the gospel truths which
 he preached to them. He again informed them in writing that Christ died for
 our sins, that he was buried, that he was raised on the third day, and that he
 appeared to Simon Peter and then to the Apostles. (See [1 Cor.
-15:3-4](https://www.lds.org/scriptures/nt/1-cor/15.3-4?lang=eng#2).)
+15:3-4](/scriptures/nt/1-cor/15.3-4?lang=eng#2).)
 
 Since that day, these written words have reminded not just a few hundred
 Greeks in an outlying area, but hundreds of millions of people in all kinds of
@@ -145,10 +145,11 @@ and under divine inspiration, find the cure for it and be healed and enjoy
 greater happiness in this life and in the life to come.
 
 And when the Lord calls, with Samuel we can truly say, "Speak Lord; for thy
-servant heareth." ([1 Sam.
-3:9](https://www.lds.org/scriptures/ot/1-sam/3.9?lang=eng#8).) And then, most
-important of all, that we will be able and willing to be _doers_ of the word
-also, and not hearers only.
+servant heareth." ([1 Sam. 3:9](/scriptures/ot/1-sam/3.9?lang=eng#8).) And
+then, most important of all, that we will be able and willing to be _doers_ of
+the word also, and not hearers only.
 
 For these great blessings I humbly pray, in the name of Jesus Christ, amen.
+
+## References
 

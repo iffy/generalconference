@@ -6,7 +6,7 @@ Jacob's well: "Whosoever drinketh of this water shall thirst again:
 "But whosoever drinketh of the water that I shall give him shall never thirst;
 but the water that I shall give him shall be in him a well of water springing
 up into everlasting life." ([John
-4:13-14](https://www.lds.org/scriptures/nt/john/4.13-14?lang=eng#12).)
+4:13-14](/scriptures/nt/john/4.13-14?lang=eng#12).)
 
 What greater way to demonstrate the saving, healing principles of the gospel
 of Jesus Christ than to relate them to life-sustaining water--water that is
@@ -66,7 +66,7 @@ life; yea, ye shall eat and drink of the bread and the waters of life freely;
 
 "Behold, I say unto you, that the good shepherd doth call you; yea, and in his
 own name he doth call you, which is the name of Christ. ..." ([Alma 5:33-34,
-38](https://www.lds.org/scriptures/bofm/alma/5.33-34%2C38?lang=eng#32).)
+38](/scriptures/bofm/alma/5.33-34,38?lang=eng#32).)
 
 And after Alma teaches the people those things relative to the gospel of Jesus
 Christ and what they can do in order to nourish their souls, and find peace,
@@ -78,8 +78,7 @@ that ye observe to do the words which I have spoken unto you.
 "I speak by way of command unto you that belong to the church; and unto those
 who do not belong to the church I speak by way of invitation, saying: Come and
 be baptized unto repentance, that ye also may be partakers of the fruit of the
-tree of life." ([Alma
-5:61-62](https://www.lds.org/scriptures/bofm/alma/5.61-62?lang=eng#60).)
+tree of life." ([Alma 5:61-62](/scriptures/bofm/alma/5.61-62?lang=eng#60).)
 
 As this last scripture indicates, it is possible for a person to have the
 fruit of the tree of salvation readily available to him, but to no avail if he
@@ -110,7 +109,7 @@ I asked, "Why not?"
 He said, "The two are not related." We then turned to John, chapter seven, and
 read: "If any man will do his will, he shall know of the doctrine, whether it
 he of God, or whether I speak of myself." ([John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).)
+7:17](/scriptures/nt/john/7.17?lang=eng#16).)
 
 If we are going to experiment with the things of Christ, then we are going to
 have to put these things to a spiritual test--a test that the Savior himself
@@ -203,4 +202,6 @@ And to this invitation I bear you my witness that I know God lives. I know he
 lives and that Jesus Christ is our Redeemer and his Son. Joseph Smith saw what
 he said he saw, and we have a prophet of God sitting with us, presiding today.
 I bear you that witness in the name of Jesus Christ. Amen.
+
+## References
 

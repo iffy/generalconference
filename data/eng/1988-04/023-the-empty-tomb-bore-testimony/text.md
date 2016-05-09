@@ -51,8 +51,7 @@ that thou shalt weep for the loss of them that die, and more especially for
 those that have not hope of a glorious resurrection.
 
 "And it shall come to pass that those that die in me shall not taste of death,
-for it shall be sweet unto them" ([D&amp;C
-42:45-46](https://www.lds.org/scriptures/dc-
+for it shall be sweet unto them" ([D&amp;C 42:45-46](/scriptures/dc-
 testament/dc/42.45-46?lang=eng#44)).
 
 I am confident that for the friend of my high school days, death was a sweet
@@ -127,9 +126,8 @@ lonely, pain-racked figure on Calvary's cross who triumphed over death and
 brought the gift of eternal life to all mankind.
 
 He it was who answered Job's desperate question, "If a man die, shall he live
-again?" ([Job
-14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13)). And it was
-Job who prophetically declared concerning the resurrected Master:
+again?" ([Job 14:14](/scriptures/ot/job/14.14?lang=eng#13)). And it was Job
+who prophetically declared concerning the resurrected Master:
 
 "For I know that my redeemer liveth, and that he shall stand at the latter day
 upon the earth:
@@ -139,7 +137,7 @@ God:
 
 "Whom I shall see for myself, and mine eyes shall behold, and not another;
 though my reins be consumed within me" ([Job
-19:25-27](https://www.lds.org/scriptures/ot/job/19.25-27?lang=eng#24)).
+19:25-27](/scriptures/ot/job/19.25-27?lang=eng#24)).
 
 At some time every one of us must face the question which Job faced, and
 because of the Atonement wrought by Jesus Christ we may answer it as Job
@@ -156,7 +154,7 @@ We have read these, and the Spirit has borne witness in our hearts so that we
 too can testify that Jesus Christ is the resurrection and the life, and that
 he that believeth in Him, though he were dead, yet shall he live; and he that
 liveth and believeth in Him shall never die (see [John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24)).
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24)).
 
 Gone is the sting of death. The grave is robbed of its victory.
 
@@ -176,7 +174,7 @@ further?
 
 "As soon as Jesus heard the word that was spoken, he saith unto the ruler of
 the synagogue, Be not afraid, only believe" ([Mark 5:22-23,
-35-36](https://www.lds.org/scriptures/nt/mark/5.22-23%2C35-36?lang=eng#21)).
+35-36](/scriptures/nt/mark/5.22-23,35-36?lang=eng#21)).
 
 Then he took with him Peter, James, and John, and, dismissing those without
 faith, "he took the damsel by the hand, and said unto her, Talitha cumi; which
@@ -184,7 +182,7 @@ is, being interpreted, Damsel, I say unto thee, arise.
 
 "And straightway the damsel arose, and walked; for she was of the age of
 twelve years. And they were astonished with a great astonishment" ([Mark
-5:41-42](https://www.lds.org/scriptures/nt/mark/5.41-42?lang=eng#40)).
+5:41-42](/scriptures/nt/mark/5.41-42?lang=eng#40)).
 
 Small wonder that they were astonished with a great astonishment. None other
 in all of their acquaintance, nor in all of history, had done as He had done.
@@ -195,17 +193,17 @@ Surely Jesus was the Master of life and death, yet He accepted the ignominy
 and the horrendous pain of the cross as cruel and barbarous men planned His
 death. As He hung in agony, His evil tormentors cried out, "He saved others;
 himself he cannot save" ([Matt.
-27:42](https://www.lds.org/scriptures/nt/matt/27.42?lang=eng#41)).
+27:42](/scriptures/nt/matt/27.42?lang=eng#41)).
 
 He had the power to save Himself. To the impetuous Peter who had tried to
 defend Him against those who had come to arrest Him, He had said, "Thinkest
 thou that I cannot now pray to my Father, and he shall presently give me more
 than twelve legions of angels?" ([Matt.
-26:53](https://www.lds.org/scriptures/nt/matt/26.53?lang=eng#52)).
+26:53](/scriptures/nt/matt/26.53?lang=eng#52)).
 
 So it might have been had He asked His Father. "But," said He, "how then shall
 the scriptures be fulfilled, that thus it must be?" ([Matt.
-26:54](https://www.lds.org/scriptures/nt/matt/26.54?lang=eng#53)).
+26:54](/scriptures/nt/matt/26.54?lang=eng#53)).
 
 No, the Son of Man must give His life to atone for the sins of all mankind,
 that He, being lifted up, might lift up all men after Him.
@@ -222,8 +220,7 @@ nailed His quivering flesh to the unyielding wood. They mocked Him as He hung
 in agony.
 
 While suffering, He forgave them. He cried out, "My God, my God, why hast thou
-forsaken me?" ([Matt.
-27:46](https://www.lds.org/scriptures/nt/matt/27.46?lang=eng#45)). Then He
+forsaken me?" ([Matt. 27:46](/scriptures/nt/matt/27.46?lang=eng#45)). Then He
 died for each of us.
 
 But in dying He brought about the redemption of mankind. None can fully
@@ -244,7 +241,7 @@ His everlasting power over life and death.
 
 Mary addressed Him as Rabboni, which means Master. The Apostles felt of His
 wounds, and Thomas, who had doubted, declared, "My Lord and my God" ([John
-20:28](https://www.lds.org/scriptures/nt/john/20.28?lang=eng#27)).
+20:28](/scriptures/nt/john/20.28?lang=eng#27)).
 
 Nor was the miracle witnessed only in Palestine. There were other sheep of His
 fold of whom He had spoken. He must visit them. All of this is set forth as
@@ -264,7 +261,7 @@ loud voice; nevertheless, and notwithstanding it being a small voice it did
 pierce them that did hear to the center, insomuch that there was no part of
 their frame that it did not cause to quake; yea, it did pierce them to the
 very soul, and did cause their hearts to burn" ([3 Ne.
-11:3](https://www.lds.org/scriptures/bofm/3-ne/11.3?lang=eng#2)).
+11:3](/scriptures/bofm/3-ne/11.3?lang=eng#2)).
 
 And the voice came again, and yet a third time, "and it said unto them:
 
@@ -284,7 +281,7 @@ world.
 that bitter cup which the Father hath given me, and have glorified the Father
 in taking upon me the sins of the world, in the which I have suffered the will
 of the Father in all things from the beginning" ([3 Ne.
-11:6-11](https://www.lds.org/scriptures/bofm/3-ne/11.6-11?lang=eng#5)).
+11:6-11](/scriptures/bofm/3-ne/11.6-11?lang=eng#5)).
 
 They felt of His wounds, they cried out with love and they fell at His feet
 and worshipped Him.
@@ -297,9 +294,8 @@ blessed them, and when He departed from them the Holy Ghost came upon them.
 He has come again in this period of history. In a manifestation without
 comparison, our Eternal Father and the resurrected Lord Jesus Christ appeared
 to open this "the dispensation of the fulness of times" ([D&amp;C
-112:30](https://www.lds.org/scriptures/dc-testament/dc/112.30?lang=eng#29)).
-He to whom they appeared became the prophet of this dispensation. And it was
-he who declared:
+112:30](/scriptures/dc-testament/dc/112.30?lang=eng#29)). He to whom they
+appeared became the prophet of this dispensation. And it was he who declared:
 
 "And now, after the many testimonies which have been given of him, this is the
 testimony, last of all, which we give of him: That he lives!
@@ -309,8 +305,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God"
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21)).
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21)).
 
 To which we add our solemn testimony this Easter Sabbath. We too know, by the
 power of the Holy Ghost which has borne witness to us, that He is the living
@@ -319,4 +314,6 @@ Son of the living God.
 He is our Savior, our Redeemer, the Prince of Peace, the Prince of Life, the
 Son of the Everlasting Father, the Hope of all mankind, of which I bear
 witness in the name of Jesus Christ, amen.
+
+## References
 

@@ -12,7 +12,7 @@ families on all sides who lost loved ones and for the innocent victims of war,
 especially the children. We pray now for a lasting peace when men "shall beat
 their swords into plowshares, and their spears into pruninghooks: ... neither
 shall they learn war any more." ([Isa.
-2:4](https://www.lds.org/scriptures/ot/isa/2.4?lang=eng#3).)
+2:4](/scriptures/ot/isa/2.4?lang=eng#3).)
 
 In the scriptures, _peace_ means either freedom from strife, contention,
 conflict, or war, or an inner calm and comfort born of the Spirit that is a
@@ -29,7 +29,7 @@ caught in the middle. Wayward, disobedient children cause their parents grief
 and anxiety. Financial problems cause distress and loss of self-respect. Some
 loved ones slip into sin and wickedness, forsake their covenants, and walk in
 their "own way, and after the image of [their] own god." ([D&amp;C
-1:16](https://www.lds.org/scriptures/dc-testament/dc/1.16?lang=eng#15).)
+1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15).)
 
 The value of peace within our hearts cannot be measured. When we are at peace,
 we can be free of worry and fear, knowing that with the Lord's help, we can do
@@ -43,7 +43,7 @@ Few, if any, blessings from God are more valuable to our spiritual health than
 the reward of peace within. In modern-day revelation the Savior said, "But
 learn that he who doeth the works of righteousness shall receive his reward,
 even peace in this world, and eternal life in the world to come." ([D&amp;C
-59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22).)
+59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22).)
 
 Despite dismal conditions in the world and the personal challenges that come
 into every life, peace within can be a reality. We can be calm and serene
@@ -54,24 +54,23 @@ given us. He has extended to us an invitation: "Come unto me, all ye that
 labour and are heavy laden, and I will give you rest. Take my yoke upon you,
 and learn of me; for I am meek and lowly in heart: and ye shall find rest unto
 your souls. For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 The phrase "Peace, be still" ([Mark
-4:39](https://www.lds.org/scriptures/nt/mark/4.39?lang=eng#38)), that the
-Savior uttered when he calmed the storm-tossed sea, can have the same calming
-influence upon us when we are buffeted by life's storms. During the Passover
-feast, the Savior taught his disciples: "Peace I leave with you, my peace I
-give unto you: not as the world giveth, give I unto you. Let not your heart be
-troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).) Referring
+4:39](/scriptures/nt/mark/4.39?lang=eng#38)), that the Savior uttered when he
+calmed the storm-tossed sea, can have the same calming influence upon us when
+we are buffeted by life's storms. During the Passover feast, the Savior taught
+his disciples: "Peace I leave with you, my peace I give unto you: not as the
+world giveth, give I unto you. Let not your heart be troubled, neither let it
+be afraid." ([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).) Referring
 to the teachings he had given to his disciples, Jesus said: "These things I
 have spoken unto you, that in me ye might have peace. In the world ye shall
 have tribulation: but be of good cheer; I have overcome the world." ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).)
+16:33](/scriptures/nt/john/16.33?lang=eng#32).)
 
 In his epistle to the Romans, Paul gave us one key to finding the peace
 promised by the Lord. Paul taught, "To be spiritually minded is life and
-peace." ([Rom. 8:6](https://www.lds.org/scriptures/nt/rom/8.6?lang=eng#5).)
+peace." ([Rom. 8:6](/scriptures/nt/rom/8.6?lang=eng#5).)
 
 One faithful mother of a large family learned to find peace by accepting the
 Savior's invitation to come unto him and find rest. She lived in obedience to
@@ -102,18 +101,17 @@ works of the flesh--the antithesis of peace." Further, he said: "The price of
 peace is victory over Satan." (_Ensign,_ Oct. 1983, pp. 4, 5.) We can know
 which one to follow because God has given everyone the Spirit of Christ to
 know good from evil and to protect themselves from sin. (See [Moro.
-7:15-18](https://www.lds.org/scriptures/bofm/moro/7.15-18?lang=eng#14).) We
-sometimes refer to the Spirit of Christ as our conscience. If we follow its
-promptings, we can be free of sin and filled with peace. If we do not, but
-instead let our carnal appetites control us, we never will know true peace. We
-will be tossed "like the troubled sea, when it cannot rest. ... there is no
-peace, saith ... God, to the wicked." ([Isa.
-57:20-21](https://www.lds.org/scriptures/ot/isa/57.20-21?lang=eng#19).) If we
+7:15-18](/scriptures/bofm/moro/7.15-18?lang=eng#14).) We sometimes refer to
+the Spirit of Christ as our conscience. If we follow its promptings, we can be
+free of sin and filled with peace. If we do not, but instead let our carnal
+appetites control us, we never will know true peace. We will be tossed "like
+the troubled sea, when it cannot rest. ... there is no peace, saith ... God, to
+the wicked." ([Isa. 57:20-21](/scriptures/ot/isa/57.20-21?lang=eng#19).) If we
 damage or violate our conscience by ignoring it, we can lose that gift because
 we no longer are sensitive to it. We will be beyond feeling, beyond the
 influence of that Spirit. (See [1 Ne.
-17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44); [Eph.
-4:19](https://www.lds.org/scriptures/nt/eph/4.19?lang=eng#18).)
+17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44); [Eph.
+4:19](/scriptures/nt/eph/4.19?lang=eng#18).)
 
 Though we abhor war, peace nearly always has been more a dream than a reality.
 During most of the world's history, strife, dissension, and conflict have
@@ -129,28 +127,26 @@ and dwelt with" them. He "called his people Zion, because they were of one
 heart and one mind, and dwelt in righteousness." They "built a city that was
 called the City of Holiness, even Zion" that, in the "process of time, was
 taken up into heaven." ([Moses
-7:16-21](https://www.lds.org/scriptures/pgp/moses/7.16-21?lang=eng#15).)
+7:16-21](/scriptures/pgp/moses/7.16-21?lang=eng#15).)
 
 The second period of peace followed the ministry of the resurrected Jesus
 among the Nephites. They abolished the works of evil and obtained the fruit of
 the Spirit. Quoting from the Book of Mormon: "The disciples of Jesus had
 formed a church of Christ. ... And as many as did come unto them, and did truly
 repent of their sins, were baptized in the name of Jesus; and they did also
-receive the Holy Ghost." ([4 Ne.
-1:1](https://www.lds.org/scriptures/bofm/4-ne/1.1?lang=eng#0).) Consequently,
-"there were no contentions and disputations among them" ([4 Ne.
-1:2](https://www.lds.org/scriptures/bofm/4-ne/1.2?lang=eng#1)) "because of the
-love of God which did dwell in the hearts of the people. And there were no
-envyings, nor strifes, nor tumults, nor whoredoms, nor lyings, nor murders,
-nor any manner of lasciviousness." ([4 Ne.
-1:15-16](https://www.lds.org/scriptures/bofm/4-ne/1.15-16?lang=eng#14).) "They
-were in one, the children of Christ, and heirs to the kingdom of God." ([4 Ne.
-1:17](https://www.lds.org/scriptures/bofm/4-ne/1.17?lang=eng#16).) "And every
-man did deal justly one with another." ([4 Ne.
-1:2](https://www.lds.org/scriptures/bofm/4-ne/1.2?lang=eng#1).) "And surely
-there could not be a happier people among all the people who had been created
-by the hand of God." ([4 Ne.
-1:16](https://www.lds.org/scriptures/bofm/4-ne/1.16?lang=eng#15).)
+receive the Holy Ghost." ([4 Ne. 1:1](/scriptures/bofm/4-ne/1.1?lang=eng#0).)
+Consequently, "there were no contentions and disputations among them" ([4 Ne.
+1:2](/scriptures/bofm/4-ne/1.2?lang=eng#1)) "because of the love of God which
+did dwell in the hearts of the people. And there were no envyings, nor
+strifes, nor tumults, nor whoredoms, nor lyings, nor murders, nor any manner
+of lasciviousness." ([4 Ne.
+1:15-16](/scriptures/bofm/4-ne/1.15-16?lang=eng#14).) "They were in one, the
+children of Christ, and heirs to the kingdom of God." ([4 Ne.
+1:17](/scriptures/bofm/4-ne/1.17?lang=eng#16).) "And every man did deal justly
+one with another." ([4 Ne. 1:2](/scriptures/bofm/4-ne/1.2?lang=eng#1).) "And
+surely there could not be a happier people among all the people who had been
+created by the hand of God." ([4 Ne.
+1:16](/scriptures/bofm/4-ne/1.16?lang=eng#15).)
 
 Peace prevailed among the Nephites for almost two centuries. Then some of them
 deserted the teachings of Jesus Christ and turned to selfish pride and
@@ -159,11 +155,10 @@ this long period of perfect peace had destroyed itself in savage civil war.
 
 A third period of perfect peace will come during the Millennium. "Satan shall
 be bound, that he shall have no place in the hearts of the children of men."
-([D&amp;C 45:55](https://www.lds.org/scriptures/dc-
-testament/dc/45.55?lang=eng#54).) As they live the gospel of Jesus Christ, the
-righteousness of the people will banish Satan from their midst. We look
-forward to that day of universal peace and justice, when Christ will reign
-upon the earth.
+([D&amp;C 45:55](/scriptures/dc-testament/dc/45.55?lang=eng#54).) As they live
+the gospel of Jesus Christ, the righteousness of the people will banish Satan
+from their midst. We look forward to that day of universal peace and justice,
+when Christ will reign upon the earth.
 
 These three instances show that peace, whether in a city, a nation, or other
 society, develops from peace that begins within the hearts of individuals as
@@ -174,10 +169,9 @@ of the Prophet Joseph Smith. Near the end of his life, he was at the center of
 a whirlwind of turmoil and tribulation caused by devious associates, false
 accusations, and cunning plots against his life. Yet a few days before his
 death, he said, "I am calm as a summer's morning; I have a conscience void of
-offense towards God, and towards all men." ([D&amp;C
-135:4](https://www.lds.org/scriptures/dc-testament/dc/135.4?lang=eng#3).) His
-inner peace sustained him through monumental adversities, even his own
-martyrdom.
+offense towards God, and towards all men." ([D&amp;C 135:4](/scriptures/dc-
+testament/dc/135.4?lang=eng#3).) His inner peace sustained him through
+monumental adversities, even his own martyrdom.
 
 Peace is more than a lofty ideal. It is a practical principle that, with
 conscious effort, can become a normal part of our lives as we deal with
@@ -209,7 +203,7 @@ _Liahona, the Elders' Journal,_ 22 Dec. 1936, p. 315.)
 If sin has deprived us of peace within, we can repent and seek forgiveness of
 our sins. The Lord said that he "cannot look upon sin with the least degree of
 allowance; Nevertheless, he that repents and does the commandments of the Lord
-shall be forgiven." ([D&amp;C 1:31-32](https://www.lds.org/scriptures/dc-
+shall be forgiven." ([D&amp;C 1:31-32](/scriptures/dc-
 testament/dc/1.31-32?lang=eng#30).) Elder Spencer W. Kimball wrote: "The
 essence of the miracle of forgiveness is that it brings peace to the
 previously anxious, restless, frustrated, perhaps tormented soul. In a world
@@ -217,15 +211,15 @@ of turmoil and contention this is indeed a priceless gift." (_The Miracle of
 Forgiveness,_ Salt Lake City: Bookcraft, 1969, p. 363.)
 
 My brothers and sisters, we _can_ be at peace if we "let virtue garnish [our]
-thoughts unceasingly." ([D&amp;C 121:45](https://www.lds.org/scriptures/dc-
+thoughts unceasingly." ([D&amp;C 121:45](/scriptures/dc-
 testament/dc/121.45?lang=eng#44).) The power is in us as spirit children of
 our Heavenly Father. He and his Beloved Son, Jesus Christ, have provided the
 way for us to be at peace. We _can_ enjoy that peace of God which passeth
 human understanding. (See [Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).) We can enjoy
-it personally, within our families, in our communities, in our nations, and in
-our world if we will do the things that produce it. This peace leads to
-happiness. (See _Teachings of the Prophet Joseph Smith,_ pp. 255-56.)
+4:7](/scriptures/nt/philip/4.7?lang=eng#6).) We can enjoy it personally,
+within our families, in our communities, in our nations, and in our world if
+we will do the things that produce it. This peace leads to happiness. (See
+_Teachings of the Prophet Joseph Smith,_ pp. 255-56.)
 
 I bear testimony that our Heavenly Father lives and that he knows and loves
 each one of us. Jesus is the Christ, the Son of God, the Savior and Redeemer
@@ -233,4 +227,6 @@ of all mankind, and yes, the Prince of Peace. Joseph Smith is the Prophet of
 the Restoration, and President Ezra Taft Benson is the present prophet, seer,
 and revelator of the Lord's Church. This I testify in the name of Jesus
 Christ, amen.
+
+## References
 

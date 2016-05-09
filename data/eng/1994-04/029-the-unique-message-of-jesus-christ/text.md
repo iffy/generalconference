@@ -82,71 +82,67 @@ will have the opportunity to bear testimony as a special witness of our
 Savior, Jesus Christ.
 
 Jesus Christ is a God; he is Jehovah of the Old Testament (see [Abr.
-2:7-8](https://www.lds.org/scriptures/pgp/abr/2.7-8?lang=eng#6)); he is the
-Savior of the New Testament.
+2:7-8](/scriptures/pgp/abr/2.7-8?lang=eng#6)); he is the Savior of the New
+Testament.
 
 Jesus Christ dwelt in the heavens with his Father (see [John
-1:1-5](https://www.lds.org/scriptures/nt/john/1.1-5?lang=eng#0)), and we dwelt
-with them as spirit children of God the Father.
+1:1-5](/scriptures/nt/john/1.1-5?lang=eng#0)), and we dwelt with them as
+spirit children of God the Father.
 
 Jesus Christ presented his Father's eternal plan, that plan of which we are
 all part. We come to this earth to undergo testing for a probationary period
 and to have opposition in all things. Through the eternal principle of agency,
 we are free to choose liberty and eternal life and return with honor to God's
 presence if we live righteous lives; or to choose captivity and spiritual
-death (see [Moses
-4:1-4](https://www.lds.org/scriptures/pgp/moses/4.1-4?lang=eng#0)).
+death (see [Moses 4:1-4](/scriptures/pgp/moses/4.1-4?lang=eng#0)).
 
 Jesus Christ is the creator of all things on earth, under the direction of his
-Father (see [Moses
-1:33](https://www.lds.org/scriptures/pgp/moses/1.33?lang=eng#32); [Eph.
-3:9](https://www.lds.org/scriptures/nt/eph/3.9?lang=eng#8)).
+Father (see [Moses 1:33](/scriptures/pgp/moses/1.33?lang=eng#32); [Eph.
+3:9](/scriptures/nt/eph/3.9?lang=eng#8)).
 
 "The Father sent the Son to be the Saviour of the world" ([1 Jn.
-4:14](https://www.lds.org/scriptures/nt/1-jn/4.14?lang=eng#13)). Jesus Christ
-came to this earth, born of Mary, a mortal mother. His Father was Almighty God
-(see [Luke
-1:26-35](https://www.lds.org/scriptures/nt/luke/1.26-35?lang=eng#25)).
+4:14](/scriptures/nt/1-jn/4.14?lang=eng#13)). Jesus Christ came to this earth,
+born of Mary, a mortal mother. His Father was Almighty God (see [Luke
+1:26-35](/scriptures/nt/luke/1.26-35?lang=eng#25)).
 
 Jesus Christ was baptized by immersion by John the Baptist, and the Holy Ghost
 was manifest in the "Spirit like a dove descending upon him" ([Mark
-1:10](https://www.lds.org/scriptures/nt/mark/1.10?lang=eng#9)). And his Father
-spoke: "Thou art my beloved Son, in whom I am well pleased" ([Mark
-1:11](https://www.lds.org/scriptures/nt/mark/1.11?lang=eng#10)).
+1:10](/scriptures/nt/mark/1.10?lang=eng#9)). And his Father spoke: "Thou art
+my beloved Son, in whom I am well pleased" ([Mark
+1:11](/scriptures/nt/mark/1.11?lang=eng#10)).
 
 Jesus Christ organized his church and selected twelve Apostles, and also
 prophets, seventies, and evangelists (see [Eph.
-4:11](https://www.lds.org/scriptures/nt/eph/4.11?lang=eng#10); [Luke
-6:13](https://www.lds.org/scriptures/nt/luke/6.13?lang=eng#12); [Luke
-10:1](https://www.lds.org/scriptures/nt/luke/10.1?lang=eng#0)).
+4:11](/scriptures/nt/eph/4.11?lang=eng#10); [Luke
+6:13](/scriptures/nt/luke/6.13?lang=eng#12); [Luke
+10:1](/scriptures/nt/luke/10.1?lang=eng#0)).
 
 Jesus Christ's message is unique. He stands between us and his Father; he is
-the Mediator (see [D&amp;C 76:41-43](https://www.lds.org/scriptures/dc-
+the Mediator (see [D&amp;C 76:41-43](/scriptures/dc-
 testament/dc/76.41-43?lang=eng#40); [John
-3:17](https://www.lds.org/scriptures/nt/john/3.17?lang=eng#16)). Through him
-shall all mankind be saved and by him shall all mankind be saved.
+3:17](/scriptures/nt/john/3.17?lang=eng#16)). Through him shall all mankind be
+saved and by him shall all mankind be saved.
 
 Jesus Christ is the Redeemer, our Savior; only he with a mortal mother and an
 immortal Father could fulfill the Atonement and die to save all mankind. He
 did so of his own free will and choice (see [Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38); [Mark
-14:34-36](https://www.lds.org/scriptures/nt/mark/14.34-36?lang=eng#33); [Luke
-22:41-42](https://www.lds.org/scriptures/nt/luke/22.41-42?lang=eng#40)).
+26:39](/scriptures/nt/matt/26.39?lang=eng#38); [Mark
+14:34-36](/scriptures/nt/mark/14.34-36?lang=eng#33); [Luke
+22:41-42](/scriptures/nt/luke/22.41-42?lang=eng#40)).
 
 Jesus Christ was resurrected and appeared to many after his resurrection (see
-[John 20:11-30](https://www.lds.org/scriptures/nt/john/20.11-30?lang=eng#10);
-[Luke 24:13-44](https://www.lds.org/scriptures/nt/luke/24.13-44?lang=eng#12)).
-He taught us the physical characteristics of a resurrected being and told us
-that we could follow his example and that we would be able to progress and be
-like him.
+[John 20:11-30](/scriptures/nt/john/20.11-30?lang=eng#10); [Luke
+24:13-44](/scriptures/nt/luke/24.13-44?lang=eng#12)). He taught us the
+physical characteristics of a resurrected being and told us that we could
+follow his example and that we would be able to progress and be like him.
 
 Jesus Christ's ascension into heaven before the eyes of his disciples was
 accompanied by the promise that in like manner he would come again (see [Acts
-1:9-11](https://www.lds.org/scriptures/nt/acts/1.9-11?lang=eng#8); [Mark
-16:19-20](https://www.lds.org/scriptures/nt/mark/16.19-20?lang=eng#18); [Luke
-24:51-53](https://www.lds.org/scriptures/nt/luke/24.51-53?lang=eng#50)). The
-second coming of Jesus Christ is nigh at hand, as the signs of the Second
-Coming are being fulfilled this very day.
+1:9-11](/scriptures/nt/acts/1.9-11?lang=eng#8); [Mark
+16:19-20](/scriptures/nt/mark/16.19-20?lang=eng#18); [Luke
+24:51-53](/scriptures/nt/luke/24.51-53?lang=eng#50)). The second coming of
+Jesus Christ is nigh at hand, as the signs of the Second Coming are being
+fulfilled this very day.
 
 Jesus Christ appeared with his Father and restored the same organization he
 established during his ministry through Joseph Smith the Prophet in these
@@ -156,16 +152,16 @@ world as another witness to testify of his divine calling and ministry.
 Jesus Christ leads and guides his church today through revelation to a
 prophet, President Ezra Taft Benson, and his counselors in the First
 Presidency and the Twelve Apostles--the same organization he established when
-he was here on earth (see [D&amp;C 102:9, 23](https://www.lds.org/scriptures
-/dc-testament/dc/102.9%2C23?lang=eng#8); [A of F
-1:6](https://www.lds.org/scriptures/pgp/a-of-f/1.6?lang=eng#5)).
+he was here on earth (see [D&amp;C 102:9, 23](/scriptures/dc-
+testament/dc/102.9,23?lang=eng#8); [A of F
+1:6](/scriptures/pgp/a-of-f/1.6?lang=eng#5)).
 
 Jesus Christ's admonition to "come ... follow me" and "follow thou me" is the
 challenge that he gave to each of us (see [Matt.
-19:21](https://www.lds.org/scriptures/nt/matt/19.21?lang=eng#20); [John
-21:22](https://www.lds.org/scriptures/nt/john/21.22?lang=eng#21)). He lived in
-the preexistence in the spirit world; he dwelt and we dwelt with God the
-Father. He is the Son, Jesus Christ.
+19:21](/scriptures/nt/matt/19.21?lang=eng#20); [John
+21:22](/scriptures/nt/john/21.22?lang=eng#21)). He lived in the preexistence
+in the spirit world; he dwelt and we dwelt with God the Father. He is the Son,
+Jesus Christ.
 
 We took a mortal body upon us. We will have opposition; we will taste death
 and be resurrected because of the atoning sacrifice of Jesus Christ.
@@ -175,8 +171,9 @@ after recounting the birth of the Savior:
 
 "Behold, I am a disciple of Jesus Christ, the Son of God. I have been called
 of him to declare his word among his people, that they might have everlasting
-life" ([3 Ne.
-5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12)).
+life" ([3 Ne. 5:13](/scriptures/bofm/3-ne/5.13?lang=eng#12)).
 
 In the name of Jesus Christ, amen.
+
+## References
 

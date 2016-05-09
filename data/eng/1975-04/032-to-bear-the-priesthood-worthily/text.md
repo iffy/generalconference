@@ -50,7 +50,7 @@ Are you willing to do it, brethren?
 
 Do you remember what was said by the prophet Alma? "Now," he said, "repentance
 could not come unto men except there were a punishment." ([Alma
-42:16](https://www.lds.org/scriptures/bofm/alma/42.16?lang=eng#15).)
+42:16](/scriptures/bofm/alma/42.16?lang=eng#15).)
 
 Ponder on that for a moment. Have you realized that? There can be no
 forgiveness without real and total repentance, and there can be no repentance
@@ -383,4 +383,6 @@ This is the work of the Lord. I want you boys and you men to know. This is the
 work of the Lord, and I know it, and I want you to know that I know it. And I
 think _you_ know it, and together we will go forward to meet our great
 destiny. God bless you in the name of Jesus Christ. Amen.
+
+## References
 

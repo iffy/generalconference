@@ -40,7 +40,7 @@ dragon; and the dragon fought and his angels,
 "And the great dragon was cast out, that old serpent, called the Devil, and
 Satan, which deceiveth the whole world: he was cast out into the earth, and
 his angels were cast out with him" ([Rev.
-12:7-9](https://www.lds.org/scriptures/nt/rev/12.7-9?lang=eng#6)).
+12:7-9](/scriptures/nt/rev/12.7-9?lang=eng#6)).
 
 That ancient struggle continues, the unrelenting battle that comes of free
 agency. Some, unfortunately, choose the wrong. But many, so many, choose the
@@ -55,7 +55,7 @@ In the Young Women conference emphasis was given to the words of Alma found in
 the thirty-second chapter of the book of Alma. His teachings include these
 words: "Awake and arouse your faculties, even to an experiment upon my words,
 and exercise a particle of faith" ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26)).
+32:27](/scriptures/bofm/alma/32.27?lang=eng#26)).
 
 My beloved associates, far more of us need to awake and arouse our faculties
 to an awareness of the great everlasting truths of the gospel of Jesus Christ.
@@ -104,8 +104,8 @@ you that the Lord may smile with favor upon you, that there may be happiness
 and peace in your homes and in your lives, that an atmosphere of love and
 respect and appreciation may be felt among husbands and wives, children and
 parents. May you "look to God and live" ([Alma
-37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46)) with
-happiness, with security, with peace, with faith.
+37:47](/scriptures/bofm/alma/37.47?lang=eng#46)) with happiness, with
+security, with peace, with faith.
 
 At the opening of this session, the choir sang a wonderful hymn. "Faith of our
 fathers, holy faith, We will be true to thee till death!" (_Hymns,_ 1985, no.
@@ -113,4 +113,6 @@ fathers, holy faith, We will be true to thee till death!" (_Hymns,_ 1985, no.
 faith, We will be true to thee till death!" God bless you, my beloved
 associates, in this glorious work, I humbly pray in the name of Him whom we
 all serve, even the Lord Jesus Christ, amen.
+
+## References
 

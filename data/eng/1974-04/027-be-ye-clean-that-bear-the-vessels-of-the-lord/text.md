@@ -1,7 +1,7 @@
 # Be Ye Clean That Bear the Vessels of the Lord
 
 My beloved brethren, my theme for these remarks is "... Be ye clean that bear
-the vessels of the Lord." ([D&amp;C 133:5](https://www.lds.org/scriptures/dc-
+the vessels of the Lord." ([D&amp;C 133:5](/scriptures/dc-
 testament/dc/133.5?lang=eng#4).) It might just as appropriately be, magnify
 your calling in the priesthood. To begin with, I bear witness to you that I
 know by the power of the Spirit that President Kimball is a prophet, called by
@@ -11,14 +11,14 @@ heart.
 
 As to you brethren, I feel as Peter expressed himself to the brethren of his
 day: "... ye are a chosen generation, a royal priesthood. ..." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).) Of all men in
-the earth, we are the most honored.
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).) Of all men in the earth, we are
+the most honored.
 
 As spirit sons of God, we stood in the great council in the preexistent world
 and heard the Father present the gospel plan. We heard him say that those who
 kept their first estate would be added upon, and those who kept their second
 estate should "have glory added upon their heads for ever and ever." ([Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25).)
+3:26](/scriptures/pgp/abr/3.26?lang=eng#25).)
 
 Now we know that we kept our first estate because we are here with our spirits
 "added upon" with these bodies.
@@ -27,8 +27,8 @@ If we are to have glory added upon our heads for ever and ever, we must, while
 we are here, do two things. One of them is to receive the priesthood. The
 other is to magnify our calling in the priesthood. The Lord said that no one
 could receive this glory without the priesthood: "And wo unto all those who
-come not unto this priesthood ... ," he said. ([D&amp;C
-84:42](https://www.lds.org/scriptures/dc-testament/dc/84.42?lang=eng#41).)
+come not unto this priesthood ..., " he said. ([D&amp;C 84:42](/scriptures/dc-
+testament/dc/84.42?lang=eng#41).)
 
 We, having received the priesthood, shall receive the added glory if we
 magnify our callings in the priesthood. Now I want you to listen to the words
@@ -79,21 +79,20 @@ hereafter.]
 yourselves, to give diligent heed to the words of eternal life.
 
 "For you [who have received the priesthood] shall live by every word that
-proceedeth forth from the mouth of God." ([D&amp;C
-84:33-44](https://www.lds.org/scriptures/dc-
+proceedeth forth from the mouth of God." ([D&amp;C 84:33-44](/scriptures/dc-
 testament/dc/84.33-44?lang=eng#32).)
 
 This charge brought to my mind the Lord's statement concerning "the Camp of
 Israel ... near Council Bluffs, Iowa, January 14, 1847," in the great revelation
-given to Brigham Young. ([D&amp;C 136](https://www.lds.org/scriptures/dc-
-testament/dc/136.title?lang=eng): Headnote.)
+given to Brigham Young. ([D&amp;C 136](/scriptures/dc-
+testament/dc/136?lang=eng): Headnote.)
 
 "... ye are not yet pure [he said]; ye can not yet bear my glory; but ye shall
 behold it if ye are faithful in keeping all my words that I have given you,
 from the days of Adam to Abraham, from Abraham to Moses, from Moses to Jesus
 and his apostles, and from Jesus and his apostles to Joseph Smith [And we
-could now add, to President Kimball]. ..." ([D&amp;C
-136:37](https://www.lds.org/scriptures/dc-testament/dc/136.37?lang=eng#36).)
+could now add, to President Kimball]. ..." ([D&amp;C 136:37](/scriptures/dc-
+testament/dc/136.37?lang=eng#36).)
 
 As I ponder the terms of the "oath and covenant which belongeth to the
 priesthood," which each one of us has entered into, I am awed by the
@@ -104,7 +103,7 @@ It seems to me that there are many "words of eternal life" that have proceeded
 "forth from the mouth of God" to which we must give more "diligent heed" if we
 are to receive the promised blessings. Among them is the commandment,
 "Remember the sabbath day, to keep it holy." ([Ex.
-20:8](https://www.lds.org/scriptures/ot/ex/20.8?lang=eng#7).)
+20:8](/scriptures/ot/ex/20.8?lang=eng#7).)
 
 In this, our day, the Lord has put great emphasis on observance of the Sabbath
 day. When the Saints first went to Independence, Missouri, he gave them a list
@@ -124,14 +123,13 @@ before the Lord.
 
 "And on this day thou shalt do none other thing, only let thy food be prepared
 with singleness of heart that thy fasting may be perfect, or, in other words,
-that thy joy may be full." ([D&amp;C 59:9-10,
-12-13](https://www.lds.org/scriptures/dc-
-testament/dc/59.9-10%2C12-13?lang=eng#8).)
+that thy joy may be full." ([D&amp;C 59:9-10, 12-13](/scriptures/dc-
+testament/dc/59.9-10,12-13?lang=eng#8).)
 
 Because we live in a Sabbath-breaking society, we must--if we would magnify
 our callings in the priesthood--live in the world but not be of the world, for
 the Lord has said, "... the inhabitants of Zion shall ... observe the Sabbath day
-to keep it holy." ([D&amp;C 68:29](https://www.lds.org/scriptures/dc-
+to keep it holy." ([D&amp;C 68:29](/scriptures/dc-
 testament/dc/68.29?lang=eng#28).)
 
 We need not shop on the Sabbath day. There will be no shopping in the city of
@@ -148,44 +146,42 @@ God" to which we must give more "diligent heed" if we would "have glory added
 upon [our] heads for ever and ever" are these:
 
 "... Be ye clean that bear the vessels of the Lord." ([D&amp;C
-133:5](https://www.lds.org/scriptures/dc-testament/dc/133.5?lang=eng#4); see
-also [D&amp;C 38:42](https://www.lds.org/scriptures/dc-
-testament/dc/38.42?lang=eng#41).)
+133:5](/scriptures/dc-testament/dc/133.5?lang=eng#4); see also [D&amp;C
+38:42](/scriptures/dc-testament/dc/38.42?lang=eng#41).)
 
 "... remember, O man, for all thy doings thou shalt be brought into judgment.
 
 "Wherefore, if ye have sought to do wickedly in the days of your probation,
 then ye are found unclean before the judgment-seat of God; and no unclean
 thing can dwell with God; wherefore, ye must be cast off forever." ([1 Ne.
-10:20-21](https://www.lds.org/scriptures/bofm/1-ne/10.20-21?lang=eng#19).)
-Those are the words of Nephi.
+10:20-21](/scriptures/bofm/1-ne/10.20-21?lang=eng#19).) Those are the words of
+Nephi.
 
 "... behold, I say unto you, the kingdom of God is not filthy, and there cannot
 any unclean thing enter into the kingdom of God. ..." ([1 Ne.
-15:34](https://www.lds.org/scriptures/bofm/1-ne/15.34?lang=eng#33).)
+15:34](/scriptures/bofm/1-ne/15.34?lang=eng#33).)
 
 Six hundred years later the resurrected Jesus told his Nephite disciples that
 "no unclean thing can enter into his kingdom; therefore nothing entereth into
 his rest save it be those who have washed their garments in my blood, because
 of their faith, and the repentance of all their sins, and their faithfulness
-unto the end." ([3 Ne.
-27:19](https://www.lds.org/scriptures/bofm/3-ne/27.19?lang=eng#18).)
+unto the end." ([3 Ne. 27:19](/scriptures/bofm/3-ne/27.19?lang=eng#18).)
 
 At the very beginning of this last dispensation, Jesus said to the brethren in
 conference assembled, "... go ye out from among the wicked. Save yourselves. Be
-ye clean that bear the vessels of the Lord. ..." ([D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).)
+ye clean that bear the vessels of the Lord. ..." ([D&amp;C 38:42](/scriptures
+/dc-testament/dc/38.42?lang=eng#41).)
 
 Within the same year he repeated, "Go ye out from Babylon. Be ye clean that
-bear the vessels of the Lord." ([D&amp;C 133:5](https://www.lds.org/scriptures
-/dc-testament/dc/133.5?lang=eng#4).)
+bear the vessels of the Lord." ([D&amp;C 133:5](/scriptures/dc-
+testament/dc/133.5?lang=eng#4).)
 
 These words call to mind Paul's declaration to the Corinthians: "Know ye not
 that ye are the temple of God, and that the Spirit of God dwelleth in you?
 
 "If any man defile the temple of God, him shall God destroy; for the temple of
 God is holy, which temple ye are." ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
 
 There are many filthy practices rife in our present society which we must
 constantly be on guard against if we would live clean enough to magnify our
@@ -199,7 +195,7 @@ he, "it is not good, neither meet in the sight of your Father. ...
 "... tobacco is not [good] for the body. ...
 
 "And again, hot drinks are not for the body. ..." ([D&amp;C 89:5, 8,
-9](https://www.lds.org/scriptures/dc-testament/dc/89.5%2C8%2C9?lang=eng#4).)
+9](/scriptures/dc-testament/dc/89.5,8,9?lang=eng#4).)
 
 The use of a habit-forming drug of any kind violates the spirit of the Word of
 Wisdom and defiles both body and spirit.
@@ -212,7 +208,7 @@ countenance an unclean priesthood.
 One of the most corrupting and debasing vices rampant in our society today is
 unchastity. Let us be ever mindful that from Sinai the Lord thundered, "Thou
 shalt not commit adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).)
+20:14](/scriptures/ot/ex/20.14?lang=eng#13).)
 
 The penalty for so doing under the Mosaic law was death. Notwithstanding the
 fact that in this generation's corrupt permissiveness its violation is
@@ -235,13 +231,15 @@ And then to emphasize the enormity of this sin, he continued, "... if thy right
 eye offend thee [or "cause thee to offend" says the marginal reading], pluck
 it out, and cast it from thee: for it is profitable for thee that one of thy
 members should perish, and not that thy whole body should be cast into hell."
-([Matt. 5:27-29](https://www.lds.org/scriptures/nt/matt/5.27-29?lang=eng#26).)
+([Matt. 5:27-29](/scriptures/nt/matt/5.27-29?lang=eng#26).)
 
 Certainly we priesthood bearers who would so magnify our callings in the
 priesthood as to obtain eternal life and "have glory added upon [our] heads
 for ever and ever" will diligently strive to keep the Lord's commandment, "...
-Be ye clean that bear the vessels of the Lord." ([D&amp;C
-133:5](https://www.lds.org/scriptures/dc-testament/dc/133.5?lang=eng#4).)
+Be ye clean that bear the vessels of the Lord." ([D&amp;C 133:5](/scriptures
+/dc-testament/dc/133.5?lang=eng#4).)
 
 May it be so, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

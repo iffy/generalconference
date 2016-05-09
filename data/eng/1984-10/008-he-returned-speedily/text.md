@@ -8,23 +8,23 @@ characteristics he spoke of.
 Obedience to God's commands and a willingness to serve have always been
 requisites for a true disciple of the Lord Jesus Christ. Paul teaches us that
 even the Savior, "though he were a Son, yet learned he obedience by the things
-which he suffered." ([Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7).) Our willingness
-to humble ourselves and shed the shackles of selfishness seems imperative to
-our progress and true happiness in this life. Isaiah penned these truths:
+which he suffered." ([Heb. 5:8](/scriptures/nt/heb/5.8?lang=eng#7).) Our
+willingness to humble ourselves and shed the shackles of selfishness seems
+imperative to our progress and true happiness in this life. Isaiah penned
+these truths:
 
 "Come now, and let us reason together, saith the Lord: though your sins be as
 scarlet, they shall be as white as snow; though they be red like crimson, they
 shall be as wool.
 
 "If ye be willing and obedient, ye shall eat the good of the land." ([Isa.
-1:18-19](https://www.lds.org/scriptures/ot/isa/1.18-19?lang=eng#17).)
+1:18-19](/scriptures/ot/isa/1.18-19?lang=eng#17).)
 
 The great test of time reveals that he who refuses to accept these true
 principles becomes unhappy and dissatisfied and, as the Prophet Joseph
 indicated, "is left unto himself, to kick against the pricks, to persecute the
-saints, and to fight against God." ([D&amp;C
-121:38](https://www.lds.org/scriptures/dc-testament/dc/121.38?lang=eng#37).)
+saints, and to fight against God." ([D&amp;C 121:38](/scriptures/dc-
+testament/dc/121.38?lang=eng#37).)
 
 In the Book of Mormon a great story and teaching experience unfolds as Alma,
 the son of Alma, begins his ministry in establishing the Church among his
@@ -59,7 +59,7 @@ threatened. And now he was being told to return once again to these people.
 Alma's reaction to this command is most interesting. The scriptures say this:
 "Now it came to pass that after Alma had received his message from the angel
 of the Lord he returned speedily to the land of Ammonihah." ([Alma
-8:18](https://www.lds.org/scriptures/bofm/alma/8.18?lang=eng#17).)
+8:18](/scriptures/bofm/alma/8.18?lang=eng#17).)
 
 Isn't that interesting, brothers and sisters? It says, "He returned
 _speedily._" Maybe his earlier experience with the angel caused him not to
@@ -97,4 +97,6 @@ I love the Lord Jesus Christ and bear solemn testimony to you that he lives.
 He is the resurrected Son of God. He is our Savior. This is his only true
 church, and it is good, of which I bear testimony in the name of Jesus Christ,
 amen.
+
+## References
 

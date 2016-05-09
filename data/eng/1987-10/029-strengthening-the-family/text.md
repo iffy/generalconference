@@ -4,7 +4,7 @@ Near the shores of Galilee, as the resurrected Christ dined with his disciples
 on a fresh catch of fish, he asked of Simon Peter: "Simon, son of Jonas,
 lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest
 that I love thee. He saith unto him, Feed my lambs" ([John
-21:15](https://www.lds.org/scriptures/nt/john/21.15?lang=eng#14)).
+21:15](/scriptures/nt/john/21.15?lang=eng#14)).
 
 Do our worldly pursuits take precedence over our eternal objectives? Would we
 respond as Peter did when he was questioned about his priorities?
@@ -33,8 +33,7 @@ Let's take an expanded look at the eternal family. We all lived with our
 Father in Heaven before this earth life. The scriptures say we received our
 "first lessons in the world of spirits and were prepared to come forth in the
 due time of the Lord to labor in his vineyard for the salvation of the souls
-of men" ([D&amp;C 138:56](https://www.lds.org/scriptures/dc-
-testament/dc/138.56?lang=eng#55)).
+of men" ([D&amp;C 138:56](/scriptures/dc-testament/dc/138.56?lang=eng#55)).
 
 In the premortal existence, our heavenly family was a prototype for us to
 follow in guiding our families here on earth. We were prepared to come to an
@@ -61,7 +60,7 @@ given by mothers and fathers and those who influence them. They need to be
 loved, and they need to be taught. The risen Lord reiterated the counsel of
 Isaiah when he said, "And all thy children shall be taught of the Lord; and
 great shall be the peace of thy children" ([3 Ne.
-22:13](https://www.lds.org/scriptures/bofm/3-ne/22.13?lang=eng#12)).
+22:13](/scriptures/bofm/3-ne/22.13?lang=eng#12)).
 
 If we love the Lord, we will "feed his lambs." But how? He has given us
 resources that will guide us through this brief mortal existence back to our
@@ -89,15 +88,11 @@ Decisions determine destiny.
 What are some of the road signs or guides that help us through this earthly
 life?
 
-  * A living prophet, who speaks the mind and will of God;
-
-  * Prayer, whereby we can speak to God and be directed by the Holy Spirit;
-
-  * The scriptures, wherein God speaks to us;
-
-  * The priesthood, with power to act for God; and
-
-  * Sacred covenants and ordinances, which offer us family life with our Heavenly Father forever.
+  * A living prophet, who speaks the mind and will of God; 
+  * Prayer, whereby we can speak to God and be directed by the Holy Spirit; 
+  * The scriptures, wherein God speaks to us; 
+  * The priesthood, with power to act for God; and 
+  * Sacred covenants and ordinances, which offer us family life with our Heavenly Father forever. 
 
 "The home is the basis of a righteous life," said President David O. McKay
 (_Stepping Stones to an Abundant Life,_ comp. Llewelyn R. McKay, Salt Lake
@@ -120,15 +115,14 @@ beauty, adornments, possessions, power, titles, or attainments are what make
 one worthwhile. As in Book of Mormon times, there are those who want to become
 popular in the eyes of the world rather than do what God expects. The Lord
 counseled Joseph Smith early in his ministry, "You should not have feared man
-more than God" ([D&amp;C 3:7](https://www.lds.org/scriptures/dc-
-testament/dc/3.7?lang=eng#6)).
+more than God" ([D&amp;C 3:7](/scriptures/dc-testament/dc/3.7?lang=eng#6)).
 
 How can we build a secure relationship with Heavenly Father? Again, we can
 refer to the guides and road signs we have been given to direct us through
 life: fervent prayer, being directed by the Holy Spirit, and searching the
 scriptures daily, all of which help us live virtuous lives. "Then," say the
 scriptures, "shall thy confidence wax strong in the presence of God" ([D&amp;C
-121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44)).
+121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)).
 
 A woman's inner strength is important in the husband-and-wife relationship. As
 husbands and wives work together in righteousness, loving and appreciating
@@ -186,9 +180,9 @@ can imagine.
 We have been blessed by a prophet of God in our day as he said: "We pray for
 you. We sustain you. We honor you as you bear, nourish, train, teach, and love
 for eternity. I promise you the blessings of heaven and 'all that [the] Father
-hath' (see [D&amp;C 84:38](https://www.lds.org/scriptures/dc-
-testament/dc/84.38?lang=eng#37)) as you magnify the noblest calling of all"
-(Benson, _To the Mothers in Zion,_ p. 13).
+hath' (see [D&amp;C 84:38](/scriptures/dc-testament/dc/84.38?lang=eng#37)) as
+you magnify the noblest calling of all" (Benson, _To the Mothers in Zion,_ p.
+13).
 
 I love being a mother, a wife, a daughter, a sister, a woman in these latter
 days. The Lord knows us and loves each of us and desires to bless us in our
@@ -196,9 +190,11 @@ important work. We must be willing to come unto him; to accept his will over
 our own wants; to bring souls unto him; to feed his lambs and his sheep, so
 that at that great day when we meet him face to face he will say, "Come unto
 me ye blessed, for behold, your works have been the works of righteousness"
-([Alma 5:16](https://www.lds.org/scriptures/bofm/alma/5.16?lang=eng#15)).
+([Alma 5:16](/scriptures/bofm/alma/5.16?lang=eng#15)).
 
 I bear you my witness that the Lord lives, and I pray that we may eagerly
 fulfill our sacred responsibility to strengthen families both here and
 hereafter. In the name of Jesus Christ, amen.
+
+## References
 

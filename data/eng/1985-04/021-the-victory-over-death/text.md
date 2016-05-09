@@ -31,18 +31,16 @@ triumphant from the tomb. He is our Redeemer, the Redeemer of all mankind. He
 is the Savior of the world. He is the Son of God, the Author of our salvation.
 
 "If a man die, shall he live again?" ([Job
-14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13).) This is the
-great universal question framed by Job. He spoke what every other living man
-or woman has pondered. The Christ alone, of all the millions who up to that
-time had walked the earth, was the first to emerge from the grave triumphant,
-a living soul complete in spirit and body. He became "the firstfruits of them
-that slept." ([1 Cor.
-15:20](https://www.lds.org/scriptures/nt/1-cor/15.20?lang=eng#19).) Were
-greater words ever spoken than those of the angel that first resurrection
-morn--"Why seek ye the living among the dead?" ([Luke
-24:5](https://www.lds.org/scriptures/nt/luke/24.5?lang=eng#4).) "He is not
-here: for he is risen, as he said." ([Matt.
-28:6](https://www.lds.org/scriptures/nt/matt/28.6?lang=eng#5).)
+14:14](/scriptures/ot/job/14.14?lang=eng#13).) This is the great universal
+question framed by Job. He spoke what every other living man or woman has
+pondered. The Christ alone, of all the millions who up to that time had walked
+the earth, was the first to emerge from the grave triumphant, a living soul
+complete in spirit and body. He became "the firstfruits of them that slept."
+([1 Cor. 15:20](/scriptures/nt/1-cor/15.20?lang=eng#19).) Were greater words
+ever spoken than those of the angel that first resurrection morn--"Why seek ye
+the living among the dead?" ([Luke
+24:5](/scriptures/nt/luke/24.5?lang=eng#4).) "He is not here: for he is risen,
+as he said." ([Matt. 28:6](/scriptures/nt/matt/28.6?lang=eng#5).)
 
 His death sealed the testimony of His love for all mankind. His resurrection
 opened the gates of salvation to the sons and daughters of God of all
@@ -51,16 +49,14 @@ generations.
 In all of history there has been no majesty like His majesty, He, the mighty
 Jehovah, condescended to be born to mortal life in a stable of Bethlehem. He
 grew as a boy in Nazareth and "increased in wisdom and stature, and in favour
-with God and man." ([Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).)
+with God and man." ([Luke 2:52](/scriptures/nt/luke/2.52?lang=eng#51).)
 
 He was baptized by John in the waters of Jordan, "and, lo, the heavens were
 opened unto him, and he saw the Spirit of God descending like a dove, and
 lighting upon him:
 
 "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well
-pleased." ([Matt.
-3:16-17](https://www.lds.org/scriptures/nt/matt/3.16-17?lang=eng#15).)
+pleased." ([Matt. 3:16-17](/scriptures/nt/matt/3.16-17?lang=eng#15).)
 
 During the three years of His earthly ministry, He did what none other had
 ever done before, He taught as none other had previously taught.
@@ -70,34 +66,33 @@ last with the Twelve in mortality. As He washed their feet, He taught a lesson
 in humility and service they would never forget. There followed the suffering
 of Gethsemane, "which suffering," He said, "caused myself, even God, the
 greatest of all, to tremble because of pain, and to bleed at every pore, and
-to suffer both body and spirit." ([D&amp;C
-19:18](https://www.lds.org/scriptures/dc-testament/dc/19.18?lang=eng#17).)
+to suffer both body and spirit." ([D&amp;C 19:18](/scriptures/dc-
+testament/dc/19.18?lang=eng#17).)
 
 He was taken by rough and crude hands, and in the night, contrary to the law,
 was brought before Annas, and then Caiaphas, the wily and evil officer of the
 Sanhedrin. There followed early the next morning the second appearance before
 this scheming, vicious man. Then He was taken to Pilate, the Roman governor,
 to whom his wife said in warning, "Have thou nothing to do with that just
-man." ([Matt.
-27:19](https://www.lds.org/scriptures/nt/matt/27.19?lang=eng#18).) The Roman,
+man." ([Matt. 27:19](/scriptures/nt/matt/27.19?lang=eng#18).) The Roman,
 thinking to evade responsibility, sent Him to Herod, the corrupt, debauched,
 and evil tetrarch of Galilee. Christ was abused and beaten. His head was
 crowned with sharp and platted thorns, a mocking robe of purple was thrown
 upon His bleeding back. Again he was taken before Pilate, to whom the mob
 cried, "Crucify him, Crucify him." ([Luke
-23:21](https://www.lds.org/scriptures/nt/luke/23.21?lang=eng#20).)
+23:21](/scriptures/nt/luke/23.21?lang=eng#20).)
 
 With stumbling steps He walked the way to Golgotha, where His wounded body was
 nailed to the cross in the most inhumane and pain-ridden method of execution
 that sadistic minds could conjure.
 
 Yet He cried out, "Father, forgive them; for they know not what they do."
-([Luke 23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 The hours passed as His life ebbed in pain. The earth shook, the veil of the
 temple was rent. From His parched lips came the words, "Father, into thy hands
 I commend my spirit: and having said thus, he gave up the ghost." ([Luke
-23:46](https://www.lds.org/scriptures/nt/luke/23.46?lang=eng#45).)
+23:46](/scriptures/nt/luke/23.46?lang=eng#45).)
 
 It was over. His mortal life was finished. He had offered it as a ransom for
 all.
@@ -109,12 +104,11 @@ of Sunday, Mary Magdalene and other women came to the tomb. They wondered as
 they hurried how the stone might be rolled from the door of the sepulchre.
 Arriving, they saw an angel who spoke to them: "I know that ye seek Jesus,
 which was crucified. He is not here: for he is risen, as he said." ([Matt.
-28:5-6](https://www.lds.org/scriptures/nt/matt/28.5-6?lang=eng#4).)
+28:5-6](/scriptures/nt/matt/28.5-6?lang=eng#4).)
 
 It had never before happened. The empty tomb was the answer to the question of
 the ages. Well did Paul say: "O death, where is thy sting? O grave, where is
-thy victory?" ([1 Cor.
-15:55](https://www.lds.org/scriptures/nt/1-cor/15.55?lang=eng#54).)
+thy victory?" ([1 Cor. 15:55](/scriptures/nt/1-cor/15.55?lang=eng#54).)
 
 The miracle of that resurrection morning, that first Easter Sunday, is a
 miracle for all mankind. It is the miracle of the power of God, whose Beloved
@@ -155,8 +149,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 In solemnity, and with understanding of the gravity of that which we say, we
 add our witness to all the world of the reality of the Resurrection, that this
@@ -182,7 +175,7 @@ with all thy soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35).)
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35).)
 
 When hearts across the world were touched by reports of starving populations
 in Africa, we invited members of the Church in the United States and Canada to
@@ -241,7 +234,7 @@ Total committed from the special fast
 
 $4,300,000  
   
-  |  
+|  
   
 _Geographic Breakdown of Expenditures_  
   
@@ -263,7 +256,7 @@ Other African nations
 
 $ 625,000  
   
-  |
+|
 
 $4,300,000  
   
@@ -382,4 +375,6 @@ when we remember Him who gave His life for each of us, let us resolve,
 individually, to walk in obedience to the teachings and commandments of our
 Savior and to deal with mercy, I humbly pray as I leave with you my testimony
 of the divinity of this work, in the name of Jesus Christ, amen.
+
+## References
 

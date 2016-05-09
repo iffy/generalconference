@@ -42,7 +42,7 @@ and ye shall keep my judgments, and do them.
 
 "And ye shall dwell in the land that I gave to your fathers; and ye shall be
 my people, and I will be your God." ([Ezek.
-36:26-28](https://www.lds.org/scriptures/ot/ezek/36.26-28?lang=eng#25).)
+36:26-28](/scriptures/ot/ezek/36.26-28?lang=eng#25).)
 
 How might we merit this promise? What will qualify us to receive this
 blessing? Is there a guide to follow? May I suggest three imperatives for our
@@ -58,11 +58,9 @@ Third: _Be what we should be!_
 Let us in some detail discuss these objectives, that we might be profitable
 servants in the sight of our Lord.
 
-  1. _Learn what we should learn. _The Apostle Paul placed an urgency on our efforts to learn. He said to the Philippians, "One thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, I press toward the mark for the prize of the high calling of God in Christ Jesus." ([Philip. 3:13-14](https://www.lds.org/scriptures/nt/philip/3.13-14?lang=eng#12).) And to the Hebrews he urged, "Lay aside ... sin ... , and let us run with patience the race ... set before us, Looking [for an example] unto Jesus the author and finisher of our faith." ([Heb. 12:1-2](https://www.lds.org/scriptures/nt/heb/12.1-2?lang=eng#0).)
-
-  2. _Do what we should do. _In a revelation on priesthood, given through Joseph Smith the Prophet, recorded as the 107th section of the Doctrine and Covenants, "learning" moves to "doing" as we read, "Wherefore, now let every man learn his duty, and to act in the office in which he is appointed, in all diligence." ([D&amp;C 107:99](https://www.lds.org/scriptures/dc-testament/dc/107.99?lang=eng#98).)
-
-  3. _Be what we should be. _Paul counseled his beloved friend and associate Timothy, "Be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity." ([1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).)
+  1. _Learn what we should learn. _The Apostle Paul placed an urgency on our efforts to learn. He said to the Philippians, "One thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, I press toward the mark for the prize of the high calling of God in Christ Jesus." ([Philip. 3:13-14](/scriptures/nt/philip/3.13-14?lang=eng#12).) And to the Hebrews he urged, "Lay aside ... sin ..., and let us run with patience the race ... set before us, Looking [for an example] unto Jesus the author and finisher of our faith." ([Heb. 12:1-2](/scriptures/nt/heb/12.1-2?lang=eng#0).) 
+  2. _Do what we should do. _In a revelation on priesthood, given through Joseph Smith the Prophet, recorded as the 107th section of the Doctrine and Covenants, "learning" moves to "doing" as we read, "Wherefore, now let every man learn his duty, and to act in the office in which he is appointed, in all diligence." ([D&amp;C 107:99](/scriptures/dc-testament/dc/107.99?lang=eng#98).) 
+  3. _Be what we should be. _Paul counseled his beloved friend and associate Timothy, "Be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity." ([1 Tim. 4:12](/scriptures/nt/1-tim/4.12?lang=eng#11).) 
 
 _Learn what we should learn. Do what we should do. Be what we should be. _By
 so doing, the blessings of heaven will attend. We will know that we do not
@@ -143,9 +141,9 @@ name of Jesus Christ, amen.
 
 ## References
 
-  1.  In Conference Report, Apr. 1937, pp. 46-47.
+  1. In Conference Report, Apr. 1937, pp. 46-47.
 
-  2.  James R. Clark, comp., _Messages of the First Presidency of The Church of Jesus Christ of Latter-day Saints, _6 vols. (Salt Lake City: Bookcraft, 1965-75), 4:304.
+  2. James R. Clark, comp., _Messages of the First Presidency of The Church of Jesus Christ of Latter-day Saints, _6 vols. (Salt Lake City: Bookcraft, 1965-75), 4:304.
 
-  3.   _Stand Ye in Holy Places _(Salt Lake City: Deseret Book Co., 1974), p. 255.
+  3. _Stand Ye in Holy Places _(Salt Lake City: Deseret Book Co., 1974), p. 255.
 

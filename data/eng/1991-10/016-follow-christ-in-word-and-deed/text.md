@@ -73,9 +73,8 @@ Christian kindness of that father and his son.
 
 Acts of Christian service should be part of our everyday agenda. In the book
 of Acts, chapter 10, verse 38, it is said of Jesus that He "went about doing
-good." [[Acts
-10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37)] Jesus taught
-us how to do good: love our neighbors, forgive others, care for the poor, the
+good." [[Acts 10:38](/scriptures/nt/acts/10.38?lang=eng#37)] Jesus taught us
+how to do good: love our neighbors, forgive others, care for the poor, the
 needy, the afflicted, the lonely. It is inspiring to see that the Lord has
 organized His church to also do these same things--to care for the needs of
 others through various assignments.
@@ -218,17 +217,18 @@ Christ who should come.
 
 "And therefore, at this time, Moroni prayed that the cause of Christians ...
 might be favored." ([Alma
-46:13-16](https://www.lds.org/scriptures/bofm/alma/46.13-16?lang=eng#12).)
+46:13-16](/scriptures/bofm/alma/46.13-16?lang=eng#12).)
 
 I pray that we, who have taken upon us His name and His marvelous priesthood
 authority and power, may also gladly take upon us the commitment to rank Jesus
 Christ first in our thoughts and also in our deeds. That we will find "the
 Spirit of the Lord ... has wrought a mighty change in us, or in our hearts, that
 we have no more disposition to do evil, but to do good continually." ([Mosiah
-5:2](https://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1).) This will
-enable us to rank ourselves as true followers of Jesus--as true Christians.
-Such actions will provide us and those we serve with spiritual strength to
-endure. That we may do this, and find the happiness and peace that lightens
-burdens and makes following Him easier, I pray in the name of Jesus Christ,
-amen.
+5:2](/scriptures/bofm/mosiah/5.2?lang=eng#1).) This will enable us to rank
+ourselves as true followers of Jesus--as true Christians. Such actions will
+provide us and those we serve with spiritual strength to endure. That we may
+do this, and find the happiness and peace that lightens burdens and makes
+following Him easier, I pray in the name of Jesus Christ, amen.
+
+## References
 

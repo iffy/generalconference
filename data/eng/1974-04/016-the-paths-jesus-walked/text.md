@@ -101,7 +101,7 @@ Can one appreciate his lament over the Holy City? "O Jerusalem, Jerusalem,
 which killest the prophets, and stonest them that are sent unto thee; how
 often would I have gathered thy children together, as a hen doth gather her
 brood under her wings, and ye would not!" ([Luke
-13:34](https://www.lds.org/scriptures/nt/luke/13.34?lang=eng#33).)
+13:34](/scriptures/nt/luke/13.34?lang=eng#33).)
 
 Jesus walked the _path of temptation._
 
@@ -115,7 +115,7 @@ Lord thy God." Still again: "... the kingdoms of the world, and the glory of
 them ... will I give thee, if thou wilt fall down and worship me. ..." The Master
 replied: "Get thee hence, Satan: for it is written, Thou shalt worship the
 Lord thy God, and him only shalt thou serve." ([Matt. 4:3-4,
-6-10](https://www.lds.org/scriptures/nt/matt/4.3-4%2C6-10?lang=eng#2).)
+6-10](/scriptures/nt/matt/4.3-4,6-10?lang=eng#2).)
 
 Jesus walked the _path of pain._
 
@@ -123,17 +123,17 @@ Consider the agony of Gethsemane: "... Father, if thou be willing, remove this
 cup from me: nevertheless not my will, but thine, be done. ... And being in an
 agony he prayed more earnestly: and his sweat was as it were great drops of
 blood falling down to the ground." ([Luke 22:42,
-44](https://www.lds.org/scriptures/nt/luke/22.42%2C44?lang=eng#41).)
+44](/scriptures/nt/luke/22.42,44?lang=eng#41).)
 
 And who among us can forget the cruelty of the cross. His words: "... I thirst.
 ... It is finished. ..." ([John 19:28,
-30](https://www.lds.org/scriptures/nt/john/19.28%2C30?lang=eng#27).)
+30](/scriptures/nt/john/19.28,30?lang=eng#27).)
 
 Yes, each of us will walk the path of disappointment, perhaps due to an
 opportunity lost, a power misused, or a loved one not taught. The path of
 temptation, too, will be the path of each. "And it must needs be that the
 devil should tempt the children of men, or they could not be agents unto
-themselves. ..." ([D&amp;C 29:39](https://www.lds.org/scriptures/dc-
+themselves. ..." ([D&amp;C 29:39](/scriptures/dc-
 testament/dc/29.39?lang=eng#38).)
 
 Likewise shall we walk the path of pain. We cannot go to heaven in a feather
@@ -147,13 +147,12 @@ those paths which yield eternal joy.
 We, with Jesus, can walk the _path of obedience._
 
 It will not be easy. "Though he were a Son, yet learned he obedience by the
-things which he suffered." ([Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7).) Let our watchword
-be the heritage bequeathed us by Samuel: "... Behold, to obey is better than
-sacrifice, and to hearken than the fat of rams." ([1 Sam.
-15:22](https://www.lds.org/scriptures/ot/1-sam/15.22?lang=eng#21).) Let us
-remember that the end result of disobedience is captivity and death, while the
-reward for obedience is liberty and eternal life.
+things which he suffered." ([Heb. 5:8](/scriptures/nt/heb/5.8?lang=eng#7).)
+Let our watchword be the heritage bequeathed us by Samuel: "... Behold, to obey
+is better than sacrifice, and to hearken than the fat of rams." ([1 Sam.
+15:22](/scriptures/ot/1-sam/15.22?lang=eng#21).) Let us remember that the end
+result of disobedience is captivity and death, while the reward for obedience
+is liberty and eternal life.
 
 We, like Jesus, can walk the _path of service._
 
@@ -163,27 +162,24 @@ of the blind, hearing to the ears of the deaf, and life to the body of the
 dead.
 
 His parables preach power. With the good Samaritan he taught: "... love ... thy
-neighbour. ..." ([Luke
-10:27](https://www.lds.org/scriptures/nt/luke/10.27?lang=eng#26).) Through his
-kindness to the woman taken in adultery, he taught compassionate
+neighbour. ..." ([Luke 10:27](/scriptures/nt/luke/10.27?lang=eng#26).) Through
+his kindness to the woman taken in adultery, he taught compassionate
 understanding. In his parable of the talents, he taught each of us to improve
 himself and to strive for perfection. Well could he have been preparing us for
 our journey along his pathway. Why else would he counsel: "... Go, and do thou
-likewise." ([Luke
-10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).)
+likewise." ([Luke 10:37](/scriptures/nt/luke/10.37?lang=eng#36).)
 
 Finally, he walked the _path of prayer._
 
 Three great lessons from three timeless prayers. First, from his ministry: "...
 When ye pray, say, Our Father which art in heaven, Hallowed be thy name. ..."
-([Luke 11:2](https://www.lds.org/scriptures/nt/luke/11.2?lang=eng#1).)
+([Luke 11:2](/scriptures/nt/luke/11.2?lang=eng#1).)
 
 Second, from Gethsemane: "... not my will, but thine, be done." ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41).)
+22:42](/scriptures/nt/luke/22.42?lang=eng#41).)
 
 Third, from the cross: "... Father, forgive them; for they know not what they
-do. ..." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+do. ..." ([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 It is by walking the path of prayer that we commune with the Father and become
 partakers of his power.
@@ -216,11 +212,11 @@ sandaled feet. Let us reach out for the Carpenter's hand. Then we shall come
 to know him. He may come to us as one unknown, without a name, as of old, by
 the lakeside he came to those men who knew him not. He speaks to us the same
 words, "... follow thou me ..." ([John
-21:22](https://www.lds.org/scriptures/nt/john/21.22?lang=eng#21)), and sets us
-to the task which he has to fulfill for our time. He commands, and to those
-who obey him, whether they be wise or simple, he will reveal himself in the
-toils, the conflicts, the sufferings which they shall pass through in his
-fellowship; and they shall learn in their own experience who he is.
+21:22](/scriptures/nt/john/21.22?lang=eng#21)), and sets us to the task which
+he has to fulfill for our time. He commands, and to those who obey him,
+whether they be wise or simple, he will reveal himself in the toils, the
+conflicts, the sufferings which they shall pass through in his fellowship; and
+they shall learn in their own experience who he is.
 
 We discover he is more than the babe in Bethlehem, more than the carpenter's
 son, more than the greatest teacher ever to live. We come to know him as the
@@ -240,17 +236,16 @@ And then there were the Sadducees, considered the most cruel and dangerous
 opponents. This was the night that the throng "began to spit on [the Savior],
 and to cover his face, ... to buffet him, ... and the servants did strike him with
 the palms of their hands." ([Mark
-14:65](https://www.lds.org/scriptures/nt/mark/14.65?lang=eng#64).)
+14:65](/scriptures/nt/mark/14.65?lang=eng#64).)
 
 Where was Peter, who had promised to die with him and never to deny him? The
 sacred record reveals, "And Peter followed him afar off, even into the palace
 of the high priest: and he sat with the servants, and warmed himself at the
-fire." ([Mark
-14:54](https://www.lds.org/scriptures/nt/mark/14.54?lang=eng#53).) This was
-the night that Peter, in fulfillment of the Master's prophecy, indeed did deny
-him thrice. Amidst the pushing, the jeers, and the blows, the Lord, in the
-agony of his humiliation, in the majesty of his silence, turned and looked
-upon Peter.
+fire." ([Mark 14:54](/scriptures/nt/mark/14.54?lang=eng#53).) This was the
+night that Peter, in fulfillment of the Master's prophecy, indeed did deny him
+thrice. Amidst the pushing, the jeers, and the blows, the Lord, in the agony
+of his humiliation, in the majesty of his silence, turned and looked upon
+Peter.
 
 As one chronologer described the change, "It was enough. Peter knew no more
 danger, he feared no more death. He rushed into the night to meet the morning
@@ -264,30 +259,29 @@ Then there was Saul of Tarsus, a scholar, familiar with the rabbinical
 writings in which certain modern scholars find such stores of treasure. For
 some reason, these writings did not reach Paul's need, and he kept on crying,
 "O wretched man that I am! who shall deliver me from the body of this death?"
-([Rom. 7:24](https://www.lds.org/scriptures/nt/rom/7.24?lang=eng#23).) And
-then one day he met Jesus, and behold, all things became new. From that day to
-the day of his death, Paul urged men to "put off ... the old man ..." and to "put
-on the new man, which after God is created in righteousness and true
-holiness." ([Eph. 4:22,
-24](https://www.lds.org/scriptures/nt/eph/4.22%2C24?lang=eng#21).)
+([Rom. 7:24](/scriptures/nt/rom/7.24?lang=eng#23).) And then one day he met
+Jesus, and behold, all things became new. From that day to the day of his
+death, Paul urged men to "put off ... the old man ..." and to "put on the new man,
+which after God is created in righteousness and true holiness." ([Eph. 4:22,
+24](/scriptures/nt/eph/4.22,24?lang=eng#21).)
 
 The passage of time has not altered the capacity of the Redeemer to change
 men's lives. As he said to the dead Lazarus, so he says to you and me: "... come
-forth." ([John
-11:43](https://www.lds.org/scriptures/nt/john/11.43?lang=eng#42).) Come forth
-from the despair of doubt. Come forth from the sorrow of sin. Come forth from
-the death of disbelief. Come forth to a newness of life. Come forth.
+forth." ([John 11:43](/scriptures/nt/john/11.43?lang=eng#42).) Come forth from
+the despair of doubt. Come forth from the sorrow of sin. Come forth from the
+death of disbelief. Come forth to a newness of life. Come forth.
 
 As we do, and direct our footsteps along the paths which Jesus walked, let us
 remember the testimony Jesus gave: "Behold, I am Jesus Christ, whom the
 prophets testified shall come into the world. ... I am the light and ... life of
-the world. ..." ([3 Ne.
-11:10-11](https://www.lds.org/scriptures/bofm/3-ne/11.10-11?lang=eng#9).) "I
-am the first and the last; I am he who liveth, I am he who was slain; I am
-your advocate with the Father." ([D&amp;C
-110:4](https://www.lds.org/scriptures/dc-testament/dc/110.4?lang=eng#3).)
+the world. ..." ([3 Ne. 11:10-11](/scriptures/bofm/3-ne/11.10-11?lang=eng#9).)
+"I am the first and the last; I am he who liveth, I am he who was slain; I am
+your advocate with the Father." ([D&amp;C 110:4](/scriptures/dc-
+testament/dc/110.4?lang=eng#3).)
 
 To his testimony I add my witness: He lives. His prophet this day has been
 sustained--even President Spencer W. Kimball. I so testify, in the name of
 Jesus Christ. Amen.
+
+## References
 

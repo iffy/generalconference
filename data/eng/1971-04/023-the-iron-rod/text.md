@@ -63,20 +63,20 @@ world, that he gave his only begotten Son, that whosoever believeth in him
 should not perish, but have everlasting life"; and then the Master added: "For
 God sent not his Son into the world to condemn the world; but that the world
 through him might be saved." ([John
-3:16-17](https://www.lds.org/scriptures/nt/john/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/john/3.16-17?lang=eng#15).)
 
 The rod of iron as seen in the vision interpreted was the word of God, or the
 gospel of Jesus Christ, which led to the tree of life that the Master
 explained to the woman at the well in Samaria was as "a well of [living] water
 springing up into everlasting life." ([John
-4:14](https://www.lds.org/scriptures/nt/john/4.14?lang=eng#13).)
+4:14](/scriptures/nt/john/4.14?lang=eng#13).)
 
 Those, as seen in the vision, who were across the river pointing fingers of
 scorn represented the multitudes of the earth which are gathered together to
 fight against the apostles of the Lamb of God. The scorners, so the Lord
 revealed, represented the so-called wisdom of the world, and the building
 itself in which they were gathered was the "pride of the world." (See [1 Ne.
-11-12](https://www.lds.org/scriptures/bofm/1-ne/11.title?lang=eng).)
+11-12](/scriptures/bofm/1-ne/11?lang=eng).)
 
 If there is any one thing most needed in this time of tumult and frustration,
 when men and women and youth and young adults are desperately seeking for
@@ -98,7 +98,7 @@ iniquities ... because of the pride of your hearts.
 "... behold, ye do love money, and your substance, and your fine apparel, and
 the adorning of your churches, more than ye love the poor and the needy, the
 sick and the afflicted." ([Morm.
-8:36-37](https://www.lds.org/scriptures/bofm/morm/8.36-37?lang=eng#35).)
+8:36-37](/scriptures/bofm/morm/8.36-37?lang=eng#35).)
 
 The apostle Paul also spoke of a time of peril when "men [would] be lovers of
 their own selves, covetous, boasters, proud, blasphemers, disobedient to
@@ -110,7 +110,7 @@ fierce, despisers of those things that are good,
 "Traitors, heady, highminded, lovers of pleasures more than lovers of God;
 
 "Having a form of godliness, but denying the power thereof. ..." ([2 Tim.
-3:2-5](https://www.lds.org/scriptures/nt/2-tim/3.2-5?lang=eng#1).)
+3:2-5](/scriptures/nt/2-tim/3.2-5?lang=eng#1).)
 
 There are many who profess to be religious and speak of themselves as
 Christians, and, according to one such, "as accepting the scriptures only as
@@ -187,7 +187,7 @@ maze of uncertainty:
 To settle an apparent controversy among his disciples as to who would be the
 greatest in the kingdom of God, he said: "... except ye be converted, and become
 as little children, ye shall not enter into the kingdom of [God]." ([Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2).)
+18:3](/scriptures/nt/matt/18.3?lang=eng#2).)
 
 To become converted, according to the scriptures, meant having a change of
 heart and the moral character of a person turned from the controlled power of
@@ -210,7 +210,7 @@ his purposes concerning this earth and its peoples.
 The Master warned: "But whoso shall offend one of these little ones which
 believe in me, it were better ... that a millstone were hanged about his neck,
 and that he were drowned in the depth of the sea." ([Matt.
-18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5).)
+18:6](/scriptures/nt/matt/18.6?lang=eng#5).)
 
 The Master was impressing the fact that rather than ruin the soul of a true
 believer, it were better for a person to suffer an earthly death than to incur
@@ -224,7 +224,7 @@ stumblingblock to them that are weak. ...
 
 "But when ye sin so against the brethren, and wound their weak conscience, ye
 sin against Christ." ([1 Cor. 8:9,
-11-12](https://www.lds.org/scriptures/nt/1-cor/8.9%2C11-12?lang=eng#8).)
+11-12](/scriptures/nt/1-cor/8.9,11-12?lang=eng#8).)
 
 Speaking to the learned and highly sophisticated generation in his time, the
 prophet Jacob said something which seems to be so often needed to be repeated
@@ -234,7 +234,7 @@ themselves, wherefore, their wisdom is foolishness and it profiteth them not.
 ...
 
 "But to be learned is good if they hearken to the counsels of God." ([2 Ne.
-9:28-29](https://www.lds.org/scriptures/bofm/2-ne/9.28-29?lang=eng#27).)
+9:28-29](/scriptures/bofm/2-ne/9.28-29?lang=eng#27).)
 
 We fervently thank the Lord for the faithfulness and devotion of many in and
 out of the Church who are in high places in business, in governmental circles,
@@ -247,10 +247,9 @@ unfortunate in all lands and among minorities within and without the Church,
 and in giving particular attention to the needs of the widows and the orphans.
 
 I say to all such, as did Jesus to Zacchaeus: "This day is salvation come to
-[their] house." ([Luke
-19:9](https://www.lds.org/scriptures/nt/luke/19.9?lang=eng#8).) These are they
-who are holding fast to the "iron rod" which can lead us all, in safety, to
-the tree of life.
+[their] house." ([Luke 19:9](/scriptures/nt/luke/19.9?lang=eng#8).) These are
+they who are holding fast to the "iron rod" which can lead us all, in safety,
+to the tree of life.
 
 I read recently from a column in the _Washington Post, _by George Moore, who
 styled himself as the "hermit of Mount Vernon." (Mount Vernon, of course, was
@@ -307,8 +306,7 @@ many fields.
 
 First, of course, he commanded that they should "teach one another the
 doctrine of the kingdom ... in all things that pertain [to] the kingdom of God.
-..." ([D&amp;C 88:77-78](https://www.lds.org/scriptures/dc-
-testament/dc/88.77-78?lang=eng#76).)
+..." ([D&amp;C 88:77-78](/scriptures/dc-testament/dc/88.77-78?lang=eng#76).)
 
 Then he counsels as to the wide sweep of learning about which we should seek.
 His church was not to be an ignorant ministry in various fields of secular
@@ -316,7 +314,7 @@ learning.
 
 And then the Lord addressed his revelation to all others who may not have
 faith: "... seek learning, even by study and also by faith." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
+88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).)
 
 One might well ask: How does one get "learning by faith"? One prophet explains
 the process: First, one must arouse his faculties and experiment on the words
@@ -327,7 +325,7 @@ Spirit of the Lord, which is that which lighteneth everyone born into the
 world; you can then begin to feel within yourselves that it must be good, for
 it enlarges your soul and enlightens your understanding and, like the fruit of
 the tree in Lehi's vision, it becomes delicious to the taste. (See [Alma
-32](https://www.lds.org/scriptures/bofm/alma/32.title?lang=eng).)
+32](/scriptures/bofm/alma/32?lang=eng).)
 
 It was an English novelist who was quoted as saying: "He who seeks God has
 already found him."
@@ -355,16 +353,17 @@ resurrection, and the life; [and] he that believeth in [him], though he were
 dead, yet shall he live:
 
 "And whosoever liveth and believeth in [him] shall never die. ..." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 I thank the Lord that I can answer, as did Martha and as did Peter of old:
 "Thou art the Christ, the Son of the living God." ([Matt.
-16:16](https://www.lds.org/scriptures/nt/matt/16.16?lang=eng#15).)
+16:16](/scriptures/nt/matt/16.16?lang=eng#15).)
 
 "Yea, Lord: I believe ... thou art the Christ, the Son of God, which should come
-into the world." ([John
-11:27](https://www.lds.org/scriptures/nt/john/11.27?lang=eng#26).)
+into the world." ([John 11:27](/scriptures/nt/john/11.27?lang=eng#26).)
 
 To this I do bear my solemn witness, in the sacred name of our Lord and
 Master, Jesus Christ, even so. Amen.
+
+## References
 

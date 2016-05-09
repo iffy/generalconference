@@ -167,3 +167,23 @@ I solemnly testify that I know Jesus is the Good Shepherd, that He loves us,
 and that He will bless us as we go to the rescue. I know He lives; I know it.
 In the name of Jesus Christ, amen.
 
+## References
+
+  1. [Matthew 18:11, 14](https://www.lds.org/scriptures/nt/matt/18.11,14?lang=eng#10); emphasis added.
+
+  2. [Exodus 4:10](https://www.lds.org/scriptures/ot/ex/4.10?lang=eng#9).
+
+  3. [Exodus 4:11-12](https://www.lds.org/scriptures/ot/ex/4.11-12?lang=eng#10).
+
+  4. [Ezekiel 34:4, 10](https://www.lds.org/scriptures/ot/ezek/34.4,10?lang=eng#3).
+
+  5. Thomas S. Monson, October 2015 General Authority Leadership Meeting, used with permission.
+
+  6. [Doctrine and Covenants 84:106](https://www.lds.org/scriptures/dc-testament/dc/84.106?lang=eng#105).
+
+  7. See[ Luke 15:5](https://www.lds.org/scriptures/nt/luke/15.5?lang=eng#4).
+
+  8. See Mervyn B. Arnold, "[Strengthen Thy Brethren](https://www.lds.org/general-conference/2004/04/strengthen-thy-brethren?lang=eng)," _Ensign_ or_ Liahona,_ May 2004, 46-47.
+
+  9. Henry B. Eyring, "[We Are One](https://www.lds.org/general-conference/2013/04/we-are-one?lang=eng),"_ Ensign_ or_ Liahona,_ May 2013, 62.
+

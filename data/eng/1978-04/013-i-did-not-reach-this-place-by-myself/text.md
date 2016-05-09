@@ -2,10 +2,10 @@
 
 The Savior of us all invites each of us individually to come to him and asks
 us to bring to him "a broken heart and a contrite spirit." ([D&amp;C
-59:8](https://www.lds.org/scriptures/dc-testament/dc/59.8?lang=eng#7).) Never
-before have I sensed the significance of that invitation and request to the
-extent that I do now. At the same time, I feel a surge of strength and renewal
-for which I am profoundly grateful.
+59:8](/scriptures/dc-testament/dc/59.8?lang=eng#7).) Never before have I
+sensed the significance of that invitation and request to the extent that I do
+now. At the same time, I feel a surge of strength and renewal for which I am
+profoundly grateful.
 
 I accept this calling with faith and hope. Like the little turtle who found
 himself on the top of a fence post, I know that I did not reach this place by
@@ -34,4 +34,6 @@ Smith and his successors, including Spencer W. Kimball, are prophets of God,
 and that our Heavenly Father loves us individually. For this knowledge I give
 thanks and leave you my personal witness that these things are true, in the
 name of our beloved Savior, the Lord Jesus Christ. Amen.
+
+## References
 

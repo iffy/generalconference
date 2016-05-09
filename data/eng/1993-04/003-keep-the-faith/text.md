@@ -7,12 +7,11 @@ the Lord's.
 
 The Apostle Paul, in his second epistle to Timothy, declared, "I have fought a
 good fight, I have finished my course, I have kept the faith." ([2 Tim.
-4:7](https://www.lds.org/scriptures/nt/2-tim/4.7?lang=eng#6).) Keeping the
-faith to the end has always been our charge. In the eighteenth section of the
-Doctrine and Covenants, the Lord admonishes, "And as many as repent and are
-baptized in my name, which is Jesus Christ, and endure to the end, the same
-shall be saved." ([D&amp;C 18:22](https://www.lds.org/scriptures/dc-
-testament/dc/18.22?lang=eng#21).)
+4:7](/scriptures/nt/2-tim/4.7?lang=eng#6).) Keeping the faith to the end has
+always been our charge. In the eighteenth section of the Doctrine and
+Covenants, the Lord admonishes, "And as many as repent and are baptized in my
+name, which is Jesus Christ, and endure to the end, the same shall be saved."
+([D&amp;C 18:22](/scriptures/dc-testament/dc/18.22?lang=eng#21).)
 
 I shall never forget the impression left upon me when President Joseph
 Fielding Smith, in his ninety-fifth year, exclaimed, "I hope to endure to the
@@ -68,25 +67,24 @@ church began to be lifted up in the pride of their eyes, and to set their
 hearts upon riches and upon the vain things of the world, that they began to
 be scornful, one towards another, and they began to persecute those that did
 not believe according to their own will and pleasure." ([Alma
-4:8](https://www.lds.org/scriptures/bofm/alma/4.8?lang=eng#7).)
+4:8](/scriptures/bofm/alma/4.8?lang=eng#7).)
 
 The Lord further warns us against relying solely upon man's strength and
 wisdom. He said, "Cursed is he that putteth his trust in man, or maketh flesh
 his arm, or shall hearken unto the precepts of men, save their precepts shall
 be given by the power of the Holy Ghost." ([2 Ne.
-28:31](https://www.lds.org/scriptures/bofm/2-ne/28.31?lang=eng#30).)
+28:31](/scriptures/bofm/2-ne/28.31?lang=eng#30).)
 
 Jacob further enlightens us with the following: "O that cunning plan of the
 evil one! O the vainness, and the frailties, and the foolishness of men! When
 they are learned they think they are wise, and they hearken not unto the
 counsel of God, for they set it aside, supposing they know of themselves,
 wherefore, their wisdom is foolishness and it profiteth them not. And they
-shall perish." ([2 Ne.
-9:28](https://www.lds.org/scriptures/bofm/2-ne/9.28?lang=eng#27).) Jacob then
-clarifies so we may all understand that learning under the proper
+shall perish." ([2 Ne. 9:28](/scriptures/bofm/2-ne/9.28?lang=eng#27).) Jacob
+then clarifies so we may all understand that learning under the proper
 circumstances has an important place in our lives. He explains, "But to be
 learned is good if they hearken unto the counsels of God." ([2 Ne.
-9:29](https://www.lds.org/scriptures/bofm/2-ne/9.29?lang=eng#28).)
+9:29](/scriptures/bofm/2-ne/9.29?lang=eng#28).)
 
 There are the so-called learned people who have let their intellect undermine
 their spiritual moorings and who would also attempt to lead the faithful away
@@ -96,21 +94,20 @@ attempt to lead members by substituting their own knowledge for the
 revelations from God to His prophets. And unfortunately there are those who
 would so follow. Christ warned, "Beware of false prophets, which come to you
 in sheep's clothing, but inwardly they are ravening wolves." ([Matt.
-7:15](https://www.lds.org/scriptures/nt/matt/7.15?lang=eng#14).)
+7:15](/scriptures/nt/matt/7.15?lang=eng#14).)
 
 In an attempt to further prepare the Saints against the inevitable threatening
 wolves, Paul the Apostle gave his warning: "For I know this, that after my
 departing shall grievous wolves enter in among you, not sparing the flock."
-([Acts 20:29](https://www.lds.org/scriptures/nt/acts/20.29?lang=eng#28).)
-Where might these wolves get sheep's clothing that is so authentic as to
-deceive the Lord's flock? Could it be they are clothed with exceeding riches
-and fine clothing as Mormon warned? (See [Alma
-4:8](https://www.lds.org/scriptures/bofm/alma/4.8?lang=eng#7).) The vainness
-and frailties and foolishness of men, the learned that hearken not unto the
-commandments of God, as Jacob warned? (See [2 Ne.
-9:28](https://www.lds.org/scriptures/bofm/2-ne/9.28?lang=eng#27).) Could it be
-that sometimes they may clothe themselves to appear as righteous shepherds,
-that even the very elect might be deceived?
+([Acts 20:29](/scriptures/nt/acts/20.29?lang=eng#28).) Where might these
+wolves get sheep's clothing that is so authentic as to deceive the Lord's
+flock? Could it be they are clothed with exceeding riches and fine clothing as
+Mormon warned? (See [Alma 4:8](/scriptures/bofm/alma/4.8?lang=eng#7).) The
+vainness and frailties and foolishness of men, the learned that hearken not
+unto the commandments of God, as Jacob warned? (See [2 Ne.
+9:28](/scriptures/bofm/2-ne/9.28?lang=eng#27).) Could it be that sometimes
+they may clothe themselves to appear as righteous shepherds, that even the
+very elect might be deceived?
 
 Yes, like Abraham of old, our faith is going to be tested. We will suffer
 sickness, pain, death, and tragedy. This is inevitable. This is a _major
@@ -137,4 +134,6 @@ sustained and enlarged. And so, my brothers and sisters, my farewell words to
 you today, not given casually and not given without meaning and contemplation,
 but given with the soberness and the sincerity of my heart, are simply, "Keep
 the faith." In the name of Jesus Christ, amen.
+
+## References
 

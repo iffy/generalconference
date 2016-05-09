@@ -43,10 +43,9 @@ the accounts of Matthew, Mark, Luke, and John, setting forth the events of the
 birth, ministry, death, and resurrection of the Son of God, the Only Begotten
 of the Father in the flesh. Like Paul of old, we are "not ashamed of the
 gospel of [Jesus] Christ: for it is the power of God unto salvation." ([Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).) And like
-Peter, we affirm that Jesus Christ is the only name "given among men, whereby
-we must be saved." (See [Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11).)
+1:16](/scriptures/nt/rom/1.16?lang=eng#15).) And like Peter, we affirm that
+Jesus Christ is the only name "given among men, whereby we must be saved."
+(See [Acts 4:12](/scriptures/nt/acts/4.12?lang=eng#11).)
 
 The Book of Mormon, which we regard as the testament of the New World, setting
 forth the teachings of prophets who lived anciently in this Western
@@ -60,8 +59,7 @@ JESUS is the CHRIST, the ETERNAL GOD, manifesting himself unto all nations."
 And in our book of modern revelation, the Doctrine and Covenants, He has
 declared himself in these certain words: "I am Alpha and Omega, Christ the
 Lord; yea, even I am he, the beginning and the end, the Redeemer of the
-world." ([D&amp;C 19:1](https://www.lds.org/scriptures/dc-
-testament/dc/19.1?lang=eng#0).)
+world." ([D&amp;C 19:1](/scriptures/dc-testament/dc/19.1?lang=eng#0).)
 
 In light of such declarations, in view of such testimony, well might many ask,
 as my minister friend in Arizona asked, if you profess a belief in Jesus
@@ -75,7 +73,7 @@ the lonely burden of his heavy walk along the way to Calvary, the terrifying
 pain as great nails pierced his hands and feet, the fevered torture of his
 body as he hung that tragic day, the Son of God crying out, "Father, forgive
 them; for they know not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 This was the cross, the instrument of his torture, the terrible device
 designed to destroy the Man of Peace, the evil recompense for his miraculous
@@ -97,8 +95,7 @@ rejected of men; a man of sorrows, and acquainted with grief."
 
 "... He was wounded for our transgressions, he was bruised for our iniquities:
 the chastisement of our peace was upon him." ([Isa. 53:3,
-5](https://www.lds.org/scriptures/ot/isa/53.3%2C5?lang=eng#2).) Now he was
-gone.
+5](/scriptures/ot/isa/53.3,5?lang=eng#2).) Now he was gone.
 
 We can only speculate on the feelings of those who loved him as they pondered
 his death during the long hours of the Jewish Sabbath, the Saturday of our
@@ -109,30 +106,29 @@ to know it. To those who came to the tomb, heavy with sorrow, the attending
 angel declared, "Why seek ye the living among the dead?
 
 "He is not here. ... he is risen, as he said." ([Matt.
-28:6](https://www.lds.org/scriptures/nt/matt/28.6?lang=eng#5).)
+28:6](/scriptures/nt/matt/28.6?lang=eng#5).)
 
 Here was the greatest miracle of human history. Earlier he had told them, "I
 am the resurrection and the life." ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24).) But they
-had not understood. Now they knew. He had died in misery and pain and
-loneliness. Now, on the third day, he arose in power and beauty and life, the
-first fruits of all who slept, the assurance for men of all ages that "as in
-Adam all die, even so in Christ shall all be made alive." ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21).)
+11:25](/scriptures/nt/john/11.25?lang=eng#24).) But they had not understood.
+Now they knew. He had died in misery and pain and loneliness. Now, on the
+third day, he arose in power and beauty and life, the first fruits of all who
+slept, the assurance for men of all ages that "as in Adam all die, even so in
+Christ shall all be made alive." ([1 Cor.
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21).)
 
 On Calvary he was the dying Jesus. From the tomb he emerged the living Christ.
 The cross had been the bitter fruit of Judas' betrayal, the summary of Peter's
 denial. The empty tomb now became the testimony of His divinity, the assurance
 of eternal life, the answer to Job's unanswered question: "If a man die, shall
-he live again?" ([Job
-14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13).)
+he live again?" ([Job 14:14](/scriptures/ot/job/14.14?lang=eng#13).)
 
 Having died, he might have been forgotten, or, at best, remembered as one of
 many great teachers whose lives are epitomized in a few lines in the books of
 history. Now, having been resurrected, he became the Master of Life. Now, with
 Isaiah, his disciples could sing with certain faith: "His name shall be called
 Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of
-Peace." ([Isa. 9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+Peace." ([Isa. 9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 Fulfilled were the expectant words of Job: "For I know that my redeemer
 liveth, and that he shall stand at the latter day upon the earth:
@@ -142,24 +138,22 @@ God:
 
 "Whom I shall see for myself, and mine eyes shall behold, and not another;
 though my reins be consumed within me." ([Job
-19:25-27](https://www.lds.org/scriptures/ot/job/19.25-27?lang=eng#24).)
+19:25-27](/scriptures/ot/job/19.25-27?lang=eng#24).)
 
 Well did Mary cry, "Rabboni!" ([John
-20:16](https://www.lds.org/scriptures/nt/john/20.16?lang=eng#15)) when first
-she saw the risen Lord, for master now he was in very deed, master not only of
-life, but of death itself. Gone was the sting of death, broken the victory of
-the grave.
+20:16](/scriptures/nt/john/20.16?lang=eng#15)) when first she saw the risen
+Lord, for master now he was in very deed, master not only of life, but of
+death itself. Gone was the sting of death, broken the victory of the grave.
 
 The fearful Peter was transformed. Even the doubtful Thomas declared in
 soberness and reverence and realism, "My Lord and my God!" ([John
-20:28](https://www.lds.org/scriptures/nt/john/20.28?lang=eng#27).) "Be not
-faithless, but believing" ([John
-20:27](https://www.lds.org/scriptures/nt/john/20.27?lang=eng#26)) were the
+20:28](/scriptures/nt/john/20.28?lang=eng#27).) "Be not faithless, but
+believing" ([John 20:27](/scriptures/nt/john/20.27?lang=eng#26)) were the
 unforgettable words of the Lord on that marvelous occasion.
 
 There followed appearances to many, including, as Paul records, "above five
 hundred brethren at once." ([1 Cor.
-15:6](https://www.lds.org/scriptures/nt/1-cor/15.6?lang=eng#5).)
+15:6](/scriptures/nt/1-cor/15.6?lang=eng#5).)
 
 And in this Western Hemisphere were other sheep of whom he had spoken earlier.
 And the people there "heard a voice as if it came out of heaven ... and it said
@@ -175,8 +169,8 @@ people, saying:
 "Behold, I am Jesus Christ, whom the prophets testified [should] come into the
 world. ...
 
-"Arise and come forth unto me." ([3 Ne. 11:3, 6, 8-10, 14](https://www.lds.org
-/scriptures/bofm/3-ne/11.3%2C6%2C8-10%2C14?lang=eng#2).)
+"Arise and come forth unto me." ([3 Ne. 11:3, 6, 8-10,
+14](/scriptures/bofm/3-ne/11.3,6,8-10,14?lang=eng#2).)
 
 Then follows in this beautiful account many words of the ministry of the
 resurrected Lord among the people of ancient America.
@@ -186,9 +180,8 @@ dispensation, the dispensation of the prophesied fulness of times. In a
 glorious vision, he--the resurrected, living Lord--and his Father, the God of
 heaven, appeared to a boy prophet to begin anew the restoration of ancient
 truth. There followed a veritable "cloud of witnesses" ([Heb.
-12:1](https://www.lds.org/scriptures/nt/heb/12.1?lang=eng#0)), and he who had
-been the recipient--Joseph Smith, the modern prophet--declared with words of
-soberness:
+12:1](/scriptures/nt/heb/12.1?lang=eng#0)), and he who had been the recipient
+--Joseph Smith, the modern prophet--declared with words of soberness:
 
 "And now, after the many testimonies which have been given of him, this is the
 testimony, last of all, which we give of him: That he lives!
@@ -198,8 +191,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 To which may be added the witness of millions who, by the power of the Holy
 Spirit, have borne and now bear solemn testimony of his living reality. That
@@ -224,7 +216,7 @@ symbol of our faith. But what shall we use? No sign, no work of art, no
 representation of form is adequate to express the glory and the wonder of the
 Living Christ. He told us what that symbol should be when he said, "If ye love
 me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 As his followers, we cannot do a mean or shoddy or ungracious thing without
 tarnishing his image. Nor can we do a good and gracious and generous act
@@ -263,4 +255,6 @@ _The faith to walk the lonely road_
 _That leads to Thine eternity._
 
 In the name of Jesus Christ. Amen.
+
+## References
 

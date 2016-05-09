@@ -73,7 +73,7 @@ people.
 "I wanted to do those things which would please my Heavenly Father," he said.
 There is nothing grand or heroic about that statement. It is simply an
 expression of attitudes: "As [a man] thinketh in his heart, so is he." ([Prov.
-23:7](https://www.lds.org/scriptures/ot/prov/23.7?lang=eng#6).)
+23:7](/scriptures/ot/prov/23.7?lang=eng#6).)
 
 I wish I might have the capacity to burn into the consciousness of every man
 and boy within the sound of my voice those words of resolution made by
@@ -84,11 +84,11 @@ boys. He would have you live honestly. That means no cheating in your
 schoolwork. No boy anxious to please his Heavenly Father would fail to take
 advantage of educational opportunities. Through words of modern revelation the
 Lord has laid upon us responsibilities to seek learning "by study and also by
-faith." ([D&amp;C 88:118](https://www.lds.org/scriptures/dc-
-testament/dc/88.118?lang=eng#117).) The Lord expects each of us to live
-productive and useful lives. Youth is the season of preparation, and we will
-please him if we apply ourselves to train our minds and hands that we may make
-a more substantial contribution to the society of which we are a part.
+faith." ([D&amp;C 88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).)
+The Lord expects each of us to live productive and useful lives. Youth is the
+season of preparation, and we will please him if we apply ourselves to train
+our minds and hands that we may make a more substantial contribution to the
+society of which we are a part.
 
 No boy anxious to please his Heavenly Father could belittle or degrade a
 daughter of our Father in Heaven through immorality. He would realize that to
@@ -103,12 +103,11 @@ physically, mentally, and morally alert, as well as spiritually strong, to be
 prepared for this great and sacred responsibility.
 
 While in the mission field he would be "anxiously engaged" in the work of the
-Lord (see [D&amp;C 58:27](https://www.lds.org/scriptures/dc-
-testament/dc/58.27?lang=eng#26)), willing to give freely of his time, his
-talents, his strengths, and his substance to bless the lives of others. He
-would guard against wasting his time or diminishing his effectiveness through
-engaging in activities that might in any way be out of harmony with his great
-and sacred call.
+Lord (see [D&amp;C 58:27](/scriptures/dc-testament/dc/58.27?lang=eng#26)),
+willing to give freely of his time, his talents, his strengths, and his
+substance to bless the lives of others. He would guard against wasting his
+time or diminishing his effectiveness through engaging in activities that
+might in any way be out of harmony with his great and sacred call.
 
 Having served an honorable mission, he would return home, desiring to complete
 his education and looking forward to finding his companion to love and cherish
@@ -124,10 +123,10 @@ in the continued development of her talents and in the church activities which
 are available to her. He would regard her as the greatest treasure of his
 life, one with whom he can share his concerns, his innermost thoughts, his
 ambitions and hopes. There would never be in that home any "unrighteous
-dominion" of husband over wife (see [D&amp;C 121:37,
-39](https://www.lds.org/scriptures/dc-testament/dc/121.37%2C39?lang=eng#36)),
-no assertion of superiority, no assertion of authority, but rather an
-expression in living which says that these two are equally yoked.
+dominion" of husband over wife (see [D&amp;C 121:37, 39](/scriptures/dc-
+testament/dc/121.37,39?lang=eng#36)), no assertion of superiority, no
+assertion of authority, but rather an expression in living which says that
+these two are equally yoked.
 
 No man can please his Heavenly Father who fails to respect the daughters of
 God. No man can please his Heavenly Father who fails to magnify his wife and
@@ -223,6 +222,8 @@ to promise that if we will do so our lives will be the richer, the more
 purposeful, the more satisfying. Our homes will be happier, and one day in the
 life to come we shall hear from Him whom we have served, "Well done, thou good
 and faithful servant. Enter thou into the joy of thy Lord." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).) For this I
-humbly pray in behalf of each of us, in the name of Jesus Christ, Amen.
+25:21](/scriptures/nt/matt/25.21?lang=eng#20).) For this I humbly pray in
+behalf of each of us, in the name of Jesus Christ, Amen.
+
+## References
 

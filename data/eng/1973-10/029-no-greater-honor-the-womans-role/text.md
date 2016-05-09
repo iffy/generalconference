@@ -1,4 +1,4 @@
-# No Greater Honor: The Woman’s Role
+# No Greater Honor:The Woman’s Role
 
 Those two beautiful songs, "All Hail the Power of Jesus' Name," and "Arise,
 Shine, Thy Light is Come," together with that comprehensive prayer, have made
@@ -45,11 +45,11 @@ has also very clearly defined her position, her duties, and her destiny in the
 divine plan. Paul said that man is the image and glory of God, and that woman
 is the glory of the man; also that the man is not without the woman, neither
 the woman without the man in the Lord. (See [1 Cor. 11:7,
-11](https://www.lds.org/scriptures/nt/1-cor/11.7%2C11?lang=eng#6).) You will
-note that significantly God is mentioned in connection with this great
-partnership, and we must never forget that one of woman's greatest privileges,
-blessings, and opportunities is to be a co-partner with God in bringing his
-spirit children into the world.
+11](/scriptures/nt/1-cor/11.7,11?lang=eng#6).) You will note that
+significantly God is mentioned in connection with this great partnership, and
+we must never forget that one of woman's greatest privileges, blessings, and
+opportunities is to be a co-partner with God in bringing his spirit children
+into the world.
 
 It is of great concern to all who understand this glorious concept that Satan
 and his cohorts are using scientific arguments and nefarious propaganda to
@@ -130,13 +130,12 @@ of Brigham Young, _p. 199.)
 
 When the Lord God said, "It is not good that the man should be alone; I will
 make him an help meet ...", he meant just that, and so presented Eve to Adam.
-([Gen. 2:18](https://www.lds.org/scriptures/ot/gen/2.18?lang=eng#17).) We are
-taught that a man should leave his father and mother, and cleave unto his
-wife, and that they should be one flesh, and thus is described the
-relationship that should exist between husband and wife. ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23).) It is said
-that behind every good man there is a good woman, and it is my experience and
-observation that this is generally true.
+([Gen. 2:18](/scriptures/ot/gen/2.18?lang=eng#17).) We are taught that a man
+should leave his father and mother, and cleave unto his wife, and that they
+should be one flesh, and thus is described the relationship that should exist
+between husband and wife. ([Gen. 2:24](/scriptures/ot/gen/2.24?lang=eng#23).)
+It is said that behind every good man there is a good woman, and it is my
+experience and observation that this is generally true.
 
 It is interesting to note that when executives of companies look for new
 employees, or are planning promotions for their experienced ones, they always
@@ -304,9 +303,10 @@ for generations yet unborn. What a joyous privilege and blessing it will be
 for those families who, through obedience and love, have prepared themselves
 to go back into the presence of our Heavenly Father and have it said of each
 of them: "Well done, thou good and faithful servant ... enter thou into the joy
-of thy lord." ([Matt.
-25:21](https://www.lds.org/scriptures/nt/matt/25.21?lang=eng#20).)
+of thy lord." ([Matt. 25:21](/scriptures/nt/matt/25.21?lang=eng#20).)
 
 May this be our privilege and blessing I pray in the name of Jesus Christ.
 Amen.
+
+## References
 

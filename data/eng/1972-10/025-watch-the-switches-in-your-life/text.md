@@ -63,7 +63,7 @@ Each has thrown a switch in the life of a boy that put him on a track that
 carried him far away from what might have been a great and foreordained
 calling. And as Nephi said, "... thus the devil cheateth their souls and leadeth
 them away carefully down to hell." ([2 Ne.
-28:21](https://www.lds.org/scriptures/bofm/2-ne/28.21?lang=eng#20).)
+28:21](/scriptures/bofm/2-ne/28.21?lang=eng#20).)
 
 I hold in my hand a small package that I bought in Switzerland. Do you
 remember the movie _Sound of Music, _with its final, beautiful song, "The
@@ -102,8 +102,8 @@ reason of the opinion which others have of you as you serve them. You cannot
 afford ever to do cheap or shoddy work. You bear the priesthood of God.
 
 _Be clean._ "Be ye clean that bear the vessels of the Lord." ([D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).) Be
-ye clean that handle and administer the sacrament of the Lord's Supper.
+38:42](/scriptures/dc-testament/dc/38.42?lang=eng#41).) Be ye clean that
+handle and administer the sacrament of the Lord's Supper.
 
 With President Lee we recently stood in the Garden of Gethsemane in Jerusalem
 where in agony the Lord foresaw the terrible suffering he must endure,
@@ -158,8 +158,7 @@ low, Thou must, the youth replies, I can." (Ralph Waldo Emerson.)
 
 Finally, _be prayerful._ The Lord has promised, "Be thou humble, and the Lord
 thy God shall lead thee by the hand, and give thee answer to thy prayers."
-([D&amp;C 112:10](https://www.lds.org/scriptures/dc-
-testament/dc/112.10?lang=eng#9).)
+([D&amp;C 112:10](/scriptures/dc-testament/dc/112.10?lang=eng#9).)
 
 President Wilford Woodruff once declared: "It does not make any difference
 whether a man is a priest or an apostle if he magnifies his calling. A priest
@@ -196,8 +195,8 @@ cultivated and listened to through years reaching back to boyhood.
 Be prayerful, my friends, and listen. You may never hear a voice. You likely
 will not. But in a manner that you cannot explain, you will be prompted and
 blessed. For the Lord has promised, "I will tell you in your ... heart, by the
-Holy Ghost, which shall come upon you. ..." ([D&amp;C
-8:2](https://www.lds.org/scriptures/dc-testament/dc/8.2?lang=eng#1).)
+Holy Ghost, which shall come upon you. ..." ([D&amp;C 8:2](/scriptures/dc-
+testament/dc/8.2?lang=eng#1).)
 
 Be prayerful, and you will know that God hears and answers. Not always as we
 might wish him to answer, but with the passing of the years, there will come a
@@ -212,4 +211,6 @@ service in the work of the world. Your lives will be satisfying and your joy
 will be eternal. I so promise you as a servant of the Lord, and invoke upon
 you that sweet peace which comes from him alone, in the name of Jesus Christ.
 Amen.
+
+## References
 

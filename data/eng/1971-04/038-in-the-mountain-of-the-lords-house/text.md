@@ -51,15 +51,14 @@ Then I think of the words of Jeremiah of old. He saw our day. He said:
 What a covenant! "... And I will take you one of a city, and two of a family,
 and I will bring you to Zion: And I will give you pastors according to mine
 heart, which shall feed you with knowledge and understanding." ([Jer.
-3:14-15](https://www.lds.org/scriptures/ot/jer/3.14-15?lang=eng#13).)
+3:14-15](/scriptures/ot/jer/3.14-15?lang=eng#13).)
 
 Where could you go in all the world today and find a fulfillment of that
 statement as we have witnessed during the sessions of this conference? Then I
 think of the statement in the Articles of Faith, given to us by the Prophet
 Joseph Smith, when he said: "We believe the Bible to be the word of God as far
 as it is translated correctly; we also believe the Book of Mormon to be the
-word of God." ([A of F
-1:8](https://www.lds.org/scriptures/pgp/a-of-f/1.8?lang=eng#7).)
+word of God." ([A of F 1:8](/scriptures/pgp/a-of-f/1.8?lang=eng#7).)
 
 That I believe with all my heart, and I thank God for these volumes of
 scripture.
@@ -68,8 +67,8 @@ And then I think of the words of another of our Articles of Faith, which reads
 like this: "We believe all that God has revealed, all that He does now reveal,
 and we believe that He will yet reveal many great and important things
 pertaining to the Kingdom of God." ([A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8).) That I
-believe with all my heart.
+1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8).) That I believe with all my
+heart.
 
 I love to study the prophecies of the scriptures. Many of them have found
 their fulfillment in this the dispensation of the fulness of times, and others
@@ -77,18 +76,18 @@ await their fulfillment.
 
 Then I think of the words of Jesus when he said, "Search the scriptures; for
 in them ye think ye have eternal life: and they are they which testify of me."
-([John 5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).) What a
-statement! Then following his resurrection, as he walked along the way by two
-of his disciples to Emmaus, and we are told that their eyes were holden, that
-they did not recognize him, when he heard what they had to say about him and
-his ministry and his crucifixion, he realized that they did not comprehend
-what he had been trying to teach them, so he said, "O fools, and slow of
-heart, to believe all that the prophets have spoken" ([Luke
-24:25](https://www.lds.org/scriptures/nt/luke/24.25?lang=eng#24)), and
-commencing with Moses and the prophets, he showed them how that in all things
-the prophets had testified of him. There isn't time to consider those promises
-and prophecies this afternoon, but they prophesied even of the casting of lots
-for his clothing at the time of his crucifixion.
+([John 5:39](/scriptures/nt/john/5.39?lang=eng#38).) What a statement! Then
+following his resurrection, as he walked along the way by two of his disciples
+to Emmaus, and we are told that their eyes were holden, that they did not
+recognize him, when he heard what they had to say about him and his ministry
+and his crucifixion, he realized that they did not comprehend what he had been
+trying to teach them, so he said, "O fools, and slow of heart, to believe all
+that the prophets have spoken" ([Luke
+24:25](/scriptures/nt/luke/24.25?lang=eng#24)), and commencing with Moses and
+the prophets, he showed them how that in all things the prophets had testified
+of him. There isn't time to consider those promises and prophecies this
+afternoon, but they prophesied even of the casting of lots for his clothing at
+the time of his crucifixion.
 
 Peter then tells us that he opened their understanding, that they might
 understand the scriptures. We have the words of Peter where he said:
@@ -102,12 +101,12 @@ interpretation.
 
 "For the prophecy came not in old time by the will of man: but holy men of God
 spake as they were moved by the Holy Ghost." ([2 Pet.
-1:19-21](https://www.lds.org/scriptures/nt/2-pet/1.19-21?lang=eng#18).)
+1:19-21](/scriptures/nt/2-pet/1.19-21?lang=eng#18).)
 
 I believe that the words of the prophets are the most sure guide we have in
 this world today. I believe what Jesus said: "Till heaven and earth pass, one
 jot or one tittle shall in no wise pass from the law, till all be fulfilled."
-([Matt. 5:18](https://www.lds.org/scriptures/nt/matt/5.18?lang=eng#17).)
+([Matt. 5:18](/scriptures/nt/matt/5.18?lang=eng#17).)
 
 Now it is a wonderful thing to think of the things that have transpired. In
 the time allotted to me, I can only mention briefly some of them.
@@ -119,21 +118,19 @@ to these valleys of the mountains, a wasteland, and nothing but their hands
 with which to labor, far away from transportation or commodities of any kind.
 He saw the waters flow down from the high places where it had been reservoired
 in these mountain fastnesses. He saw the daughters of Zion come up and sing in
-the heights of Zion. (See [Isa.
-35](https://www.lds.org/scriptures/ot/isa/35.title?lang=eng).) Where can you
-find anything in the history of this whole world to fulfill that like the
-singing of our Tabernacle Choir, singing now for over forty-two years without
-a break? Now with the Telstar, it is singing to the entire world. No wonder
-President Nixon said in his visit here last November that it was the greatest
-choir in all the world.
+the heights of Zion. (See [Isa. 35](/scriptures/ot/isa/35?lang=eng).) Where
+can you find anything in the history of this whole world to fulfill that like
+the singing of our Tabernacle Choir, singing now for over forty-two years
+without a break? Now with the Telstar, it is singing to the entire world. No
+wonder President Nixon said in his visit here last November that it was the
+greatest choir in all the world.
 
 Isaiah saw the mountain of the Lord's house established in the top of the
 mountains in the latter days, and he named the latter days, when they would
 say: "Come ye, and let us go up to the mountain of the Lord, to the house of
 the God of Jacob; and he will teach us of his ways, and we will walk in his
 paths: for out of Zion shall go forth the law, and the word of the Lord from
-Jerusalem." ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2).)
+Jerusalem." ([Isa. 2:3](/scriptures/ot/isa/2.3?lang=eng#2).)
 
 How literally that has been fulfilled, in my way of thinking, in this very
 house of the God of Jacob right here on this block! This temple, more than any
@@ -154,7 +151,7 @@ Egypt;
 
 "But, The Lord liveth, that brought up the children of Israel from the land of
 the north, and from all the lands whither he had driven them. ..." ([Jer.
-16:14-15](https://www.lds.org/scriptures/ot/jer/16.14-15?lang=eng#13).)
+16:14-15](/scriptures/ot/jer/16.14-15?lang=eng#13).)
 
 Just contemplate that statement for a few moments. Think how the Jews and the
 Christians all through these past centuries have praised the Lord for his
@@ -166,14 +163,13 @@ God has gathered scattered Israel from the lands whither he had driven them.
 And Jeremiah saw the day when the Lord would do this very thing, when he would
 call for many fishers and many hunters, "and they shall hunt them from every
 mountain, and from every hill, and out of the holes of the rocks." ([Jer.
-16:16](https://www.lds.org/scriptures/ot/jer/16.16?lang=eng#15).) Where do you
-find those fishers and hunters that we read about in this great prophecy of
-Jeremiah? They are these 14,000 missionaries of this church, and those who
-have preceded them from the time that the Prophet Joseph Smith received the
-truth and sent the messengers out to share it with the world. Thus have they
-gone out, fishing and hunting, and gathering them from the hills and the
-mountains, and the holes in the rocks. I think that is more literal than some
-of us think!
+16:16](/scriptures/ot/jer/16.16?lang=eng#15).) Where do you find those fishers
+and hunters that we read about in this great prophecy of Jeremiah? They are
+these 14,000 missionaries of this church, and those who have preceded them
+from the time that the Prophet Joseph Smith received the truth and sent the
+messengers out to share it with the world. Thus have they gone out, fishing
+and hunting, and gathering them from the hills and the mountains, and the
+holes in the rocks. I think that is more literal than some of us think!
 
 When I was president of the Southern States Mission, I remember going to a
 conference down in west Florida. It seemed to me as if we traveled a hundred
@@ -187,8 +183,8 @@ Malachi saw before the coming of the great and dreadful day of the Lord when
 the Lord said he would send Elijah the prophet to "turn the heart of the
 fathers to the children, and the heart of the children to their fathers, lest
 I come and smite the earth with a curse." ([Mal.
-4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5).) Just think of
-that statement. The Jews are still waiting for his coming.
+4:6](/scriptures/ot/mal/4.6?lang=eng#5).) Just think of that statement. The
+Jews are still waiting for his coming.
 
 When I was in Israel, a year ago last July, in one tour we visited three
 synagogues, and there hanging on the wall was a big armchair. I asked the
@@ -204,12 +200,11 @@ No wonder Isaiah called it a marvelous work and a wonder, when the people
 would draw near to him with their mouths, and honor him with their lips, but
 their hearts would be far removed from him; and they would teach for doctrine
 the precepts of men. (See [Isa.
-29:13-14](https://www.lds.org/scriptures/ot/isa/29.13-14?lang=eng#12).) These
-are some of the things, and many, many more have transpired in our day in
-fulfillment of the words of the prophets. No wonder the prophet said: "We
-believe all that God has revealed, all that He does now reveal, and we believe
-that He will yet reveal many great and important things pertaining to the
-Kingdom of God."
+29:13-14](/scriptures/ot/isa/29.13-14?lang=eng#12).) These are some of the
+things, and many, many more have transpired in our day in fulfillment of the
+words of the prophets. No wonder the prophet said: "We believe all that God
+has revealed, all that He does now reveal, and we believe that He will yet
+reveal many great and important things pertaining to the Kingdom of God."
 
 There isn't time to go into the details, but Jeremiah described the gathering
 of our people here in these valleys of the mountains in just as definite terms
@@ -218,13 +213,12 @@ water. They traveled along the Platte River for over five hundred miles. Then
 he adds that they should come with their multitudes, "both young men and old
 together: for I will turn their mourning into joy, and will comfort them, and
 make them rejoice from their sorrow. And I will satiate the soul of the
-priests with fatness. ..." ([Jer. 31:
-13-14](https://www.lds.org/scriptures/ot/jer/31.title?lang=eng).) And that is
-why our people will respond to every call that comes to them, because the God
-of heaven created the feelings of the human breast, and like Nephi of old
-said, the Lord "hath filled me with his love, even to the consuming of my
-flesh." ([2 Ne.
-4:21](https://www.lds.org/scriptures/bofm/2-ne/4.21?lang=eng#20).)
+priests with fatness. ..." ([Jer. 31: 13-14](/scriptures/ot/jer/31?lang=eng).)
+And that is why our people will respond to every call that comes to them,
+because the God of heaven created the feelings of the human breast, and like
+Nephi of old said, the Lord "hath filled me with his love, even to the
+consuming of my flesh." ([2 Ne.
+4:21](/scriptures/bofm/2-ne/4.21?lang=eng#20).)
 
 There are many other things that are yet to be fulfilled. I will just mention
 a couple of them. The Lord put it in my heart as a young man to have a love
@@ -240,7 +234,7 @@ We read in the Book of Mormon that we should turn our hearts to them. There
 isn't time to read that prophecy to you. He said many of the Gentiles would
 say: "A Bible! A Bible! We have got a Bible, and there cannot be any more
 Bible." And then the Lord said, "... what thank they the Jews for the Bible? ..."
-([2 Ne. 29:3-4](https://www.lds.org/scriptures/bofm/2-ne/29.3-4?lang=eng#2).)
+([2 Ne. 29:3-4](/scriptures/bofm/2-ne/29.3-4?lang=eng#2).)
 
 Then in a revelation from the Lord to the Prophet Joseph Smith three years
 after this church was organized, in the ninety-eighth section of the Doctrine
@@ -249,17 +243,15 @@ seek diligently to turn the hearts of the children to their fathers, and the
 hearts of the fathers to their children; And again, the hearts of the Jews
 unto the prophets, and the prophets unto the Jews; lest I come and smite the
 whole earth with a curse, and all flesh be consumed before me." ([D&amp;C
-98:16-17](https://www.lds.org/scriptures/dc-
-testament/dc/98.16-17?lang=eng#15).) Trust not the wisdom of men. That is the
-wisdom of God, the Eternal Father, as he gave it to the Prophet Joseph in this
-day.
+98:16-17](/scriptures/dc-testament/dc/98.16-17?lang=eng#15).) Trust not the
+wisdom of men. That is the wisdom of God, the Eternal Father, as he gave it to
+the Prophet Joseph in this day.
 
 Jeremiah saw the day when the house of Judah would walk with the house of
-Israel (see [Jer.
-3:18](https://www.lds.org/scriptures/ot/jer/3.18?lang=eng#17)); and then we
-are told by Ezekiel that the day would come when there should no more be two
+Israel (see [Jer. 3:18](/scriptures/ot/jer/3.18?lang=eng#17)); and then we are
+told by Ezekiel that the day would come when there should no more be two
 kingdoms, but one kingdom, and one God should rule over them all. (See [Ezek.
-37:22](https://www.lds.org/scriptures/ot/ezek/37.22?lang=eng#21).)
+37:22](/scriptures/ot/ezek/37.22?lang=eng#21).)
 
 I pray that the Lord will help us to go on, still fulfilling his promises of
 all that he has revealed that has not yet been fulfilled. And I would like to
@@ -272,4 +264,6 @@ foundation of apostles and prophets, with Christ our Lord as the chief
 cornerstone. And he is guiding his church today, and will continue to do so
 until he comes in the clouds of heaven as the holy prophets have declared, and
 I leave you that witness in the name of the Lord Jesus Christ. Amen.
+
+## References
 

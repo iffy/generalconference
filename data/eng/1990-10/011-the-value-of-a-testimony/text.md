@@ -80,12 +80,11 @@ the truth; for they were men of a sound understanding and they had searched
 the scriptures diligently, that they might know the word of God.
 
 "But this is not all; they had given themselves to much prayer, and fasting."
-([Alma 17:2-3](https://www.lds.org/scriptures/bofm/alma/17.2-3?lang=eng#1).)
+([Alma 17:2-3](/scriptures/bofm/alma/17.2-3?lang=eng#1).)
 
 A testimony should not be hidden. It must be shared. (See [D&amp;C
-62:3](https://www.lds.org/scriptures/dc-testament/dc/62.3?lang=eng#2);
-[D&amp;C 84:61](https://www.lds.org/scriptures/dc-
-testament/dc/84.61?lang=eng#60).)
+62:3](/scriptures/dc-testament/dc/62.3?lang=eng#2); [D&amp;C
+84:61](/scriptures/dc-testament/dc/84.61?lang=eng#60).)
 
 In a remarkable address during the April session of general conference in
 1973, President Harold B. Lee said:
@@ -102,11 +101,11 @@ hasten to answer: my testimony.
 
 It is a special gift of our Heavenly Father given through the Holy Ghost to
 all people who search for truth. (See [Moro.
-10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).) It is
-wise to gain and improve a testimony of the truth because it not only helps us
-face our daily challenges, but it also opens our eyes, minds, and hearts to
-the great and marvelous things created by our Heavenly Father for our
-improvement and eternal happiness.
+10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).) It is wise to gain and
+improve a testimony of the truth because it not only helps us face our daily
+challenges, but it also opens our eyes, minds, and hearts to the great and
+marvelous things created by our Heavenly Father for our improvement and
+eternal happiness.
 
 I know that God lives. Jesus Christ, our Savior and Redeemer, also lives, and
 we are dependent on Him for our salvation and exaltation.
@@ -118,4 +117,6 @@ of the gospel.
 
 This testimony I witness unto you with all my heart, in the name of Jesus
 Christ, amen.
+
+## References
 

@@ -13,8 +13,7 @@ outnumber smiles and despair dampens joy. We live so far below the level of
 our divine possibilities. Some become confused by materialism, entangled by
 sin, and lost among the passing parade of humanity. Others cry out in the
 words of the convert of Philip of old: "How can I [find my way], except some
-man should guide me?" ([Acts
-8:31](https://www.lds.org/scriptures/nt/acts/8.31?lang=eng#30).)
+man should guide me?" ([Acts 8:31](/scriptures/nt/acts/8.31?lang=eng#30).)
 
 Happiness does not consist of a glut of luxury, the world's idea of a "good
 time." Nor must we search for it in faraway places with strange-sounding
@@ -52,13 +51,10 @@ have but one occupant. There are, however, identifying features which are to
 be found in a happy home, whatever the number or description of its family
 members. I refer to these as "Hallmarks of a Happy Home." They consist of:
 
-  1. A pattern of prayer.
-
-  2. A library of learning.
-
-  3. A legacy of love.
-
-  4. A treasury of testimony.
+  1. A pattern of prayer. 
+  2. A library of learning. 
+  3. A legacy of love. 
+  4. A treasury of testimony. 
 
 "Prayer is the soul's sincere desire, Uttered or unexpressed." (_Hymns,_ 1985,
 no. 145.) So universal is its application, so beneficial its result, that
@@ -118,8 +114,8 @@ young people read in their youth. Its ideals are fashioned then, its goals
 strongly determined."
 
 The Lord counseled, "Seek ye out of the best books words of wisdom; seek
-learning, even by study and also by faith." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
+learning, even by study and also by faith." ([D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117).)
 
 The standard works offer the library of learning of which I speak. We must be
 careful not to underestimate the capacity of children to read and to
@@ -186,8 +182,7 @@ When our homes carry the legacy of love, we will not receive Jacob's
 chastisement as recorded in the Book of Mormon: "Ye have broken the hearts of
 your tender wives, and lost the confidence of your children, because of your
 bad examples before them; and the sobbings of their hearts ascend up to God
-against you." ([Jacob
-2:35](https://www.lds.org/scriptures/bofm/jacob/2.35?lang=eng#34).)
+against you." ([Jacob 2:35](/scriptures/bofm/jacob/2.35?lang=eng#34).)
 
 Let us not be discouraged by the many newspaper and television accounts of
 discord--and sometimes cruelty--between companions and assume that virtue has
@@ -284,7 +279,7 @@ each family member may feel welcome and "at home." Let us open also the doors
 of our very souls, that the dear Christ may enter. Remember His promise:
 "Behold, I stand at the door, and knock: if any man hear my voice, and open
 the door, I will come in to him." ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).)
+3:20](/scriptures/nt/rev/3.20?lang=eng#19).)
 
 How welcome He will feel, how joyful will be our lives, when the "Hallmarks of
 a Happy Home" greet Him, even:
@@ -299,4 +294,6 @@ A treasury of testimony.
 
 That our loving Heavenly Father may bless all of us in our quest for such
 happy homes is my prayer, in the name of Jesus Christ, amen.
+
+## References
 

@@ -24,7 +24,7 @@ never before felt:
 hath commanded, for I know that the Lord giveth no commandments unto the
 children of men, save he shall prepare a way for them that they may accomplish
 the thing which he commandeth them" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)).
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)).
 
 I feel that scripture has great significance for everyone in the Church, no
 matter what his calling might be. Experience has taught me that the Lord does
@@ -92,4 +92,6 @@ red, upholstered chairs, but I have a sincere, burning testimony of this work.
 May the Lord bless me that I may touch the lives of those he loves throughout
 the Church. May I be guided and directed by him always, I pray in the name of
 Jesus Christ, amen.
+
+## References
 

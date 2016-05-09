@@ -39,38 +39,32 @@ prophesied the cataclysmic events that would precede the destruction of
 Jerusalem and his second coming. He then issued this portentous admonition to
 his disciples, ancient and modern: "Then you shall _stand in the holy place;_
 whoso readeth let him understand" ([JS--M
-1:12](https://www.lds.org/scriptures/pgp/js-m/1.12?lang=eng#11); emphasis
-added; see also [Matt.
-24:15](https://www.lds.org/scriptures/nt/matt/24.15?lang=eng#14)). Latter-day
-revelations provide understanding. They teach that in our day, amidst strife
-and catastrophe and pestilence, there are two kingdoms locked in grim struggle
-for the souls of men--Zion and Babylon. More than once they repeat the
-injunction to "stand in holy places" for a refuge from these storms of latter-
-day life ([D&amp;C 45:32](https://www.lds.org/scriptures/dc-
-testament/dc/45.32?lang=eng#31); see also [D&amp;C
-87:8](https://www.lds.org/scriptures/dc-testament/dc/87.8?lang=eng#7);
-[D&amp;C 101:16-23](https://www.lds.org/scriptures/dc-
-testament/dc/101.16-23?lang=eng#15)). Prominent among such holy places, and
-key to all the others, is the temple of the Lord.
+1:12](/scriptures/pgp/js-m/1.12?lang=eng#11); emphasis added; see also [Matt.
+24:15](/scriptures/nt/matt/24.15?lang=eng#14)). Latter-day revelations provide
+understanding. They teach that in our day, amidst strife and catastrophe and
+pestilence, there are two kingdoms locked in grim struggle for the souls of
+men--Zion and Babylon. More than once they repeat the injunction to "stand in
+holy places" for a refuge from these storms of latter-day life ([D&amp;C
+45:32](/scriptures/dc-testament/dc/45.32?lang=eng#31); see also [D&amp;C
+87:8](/scriptures/dc-testament/dc/87.8?lang=eng#7); [D&amp;C
+101:16-23](/scriptures/dc-testament/dc/101.16-23?lang=eng#15)). Prominent
+among such holy places, and key to all the others, is the temple of the Lord.
 
 The words _Zion_ and _temple_ belong in the same sentence together. In August
 1833, as Saints attempted against much persecution to establish a geographic
 Zion in Jackson County, Missouri, the Prophet Joseph Smith was counseled in
 revelation to build a house unto the Lord "for the salvation of Zion"
-([D&amp;C 97:12](https://www.lds.org/scriptures/dc-
-testament/dc/97.12?lang=eng#11)). The temple is the key to salvation, it said,
-because it is a place of thanksgiving, a place of instruction, and a place of
-understanding "in all things" (see [D&amp;C
-97:12-14](https://www.lds.org/scriptures/dc-
-testament/dc/97.12-14?lang=eng#11)). Then comes this glorious promise: "Yea,
-and my presence shall be there, for I will come into it, and all the pure in
-heart that shall come into it _shall see God._ ... Therefore, ... let Zion
-rejoice, for this is Zion--THE PURE IN HEART; therefore, let Zion rejoice,
-while all the wicked shall mourn" ([D&amp;C 97:16,
-21](https://www.lds.org/scriptures/dc-testament/dc/97.16%2C21?lang=eng#15);
-emphasis added). For Zion, the pure in heart, the temple holds the key that
-unlocks holy places--places of rejoicing--while those in Babylon's byways are
-condemned to mourn.
+([D&amp;C 97:12](/scriptures/dc-testament/dc/97.12?lang=eng#11)). The temple
+is the key to salvation, it said, because it is a place of thanksgiving, a
+place of instruction, and a place of understanding "in all things" (see
+[D&amp;C 97:12-14](/scriptures/dc-testament/dc/97.12-14?lang=eng#11)). Then
+comes this glorious promise: "Yea, and my presence shall be there, for I will
+come into it, and all the pure in heart that shall come into it _shall see
+God._ ... Therefore, ... let Zion rejoice, for this is Zion--THE PURE IN HEART;
+therefore, let Zion rejoice, while all the wicked shall mourn" ([D&amp;C
+97:16, 21](/scriptures/dc-testament/dc/97.16,21?lang=eng#15); emphasis added).
+For Zion, the pure in heart, the temple holds the key that unlocks holy places
+--places of rejoicing--while those in Babylon's byways are condemned to mourn.
 
 I was to bid my dear wife good-bye twice more during the tumultuous years of
 the Vietnam War. In a later year we would stand together and say farewell as a
@@ -88,7 +82,7 @@ despite the buffetings of life, we will always be in a holy place. The house
 of the Lord beckons to all who would be numbered with Zion: "Come ye, and let
 us go up to the mountain of the Lord, to the house of the God of Jacob; and he
 will teach us of his ways, and we will walk in his paths" ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2)).
+2:3](/scriptures/ot/isa/2.3?lang=eng#2)).
 
 The day of the San Diego California Temple dedication attended by our stake, I
 came into the celestial room a few minutes early, accompanied by my daughter
@@ -114,4 +108,6 @@ together we had entered the house of the Lord. I drew my children close. In
 that instant a wonderful, celestial feeling swelled my breast. I _knew_ I was
 in a holy place. I felt a peace as I had on that dark night so many years ago
 --and again I rejoiced. In the name of Jesus Christ, amen.
+
+## References
 

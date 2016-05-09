@@ -23,8 +23,7 @@ Lamanites until they were all destroyed. In his feeling of loneliness, he
 reports that his father was among those who were killed. We sense that the
 only thing Moroni is living for is to complete the record, as he writes,
 "Therefore I will write and hide up the records in the earth; and whither I go
-it mattereth not." ([Morm.
-8:4](https://www.lds.org/scriptures/bofm/morm/8.4?lang=eng#3).)
+it mattereth not." ([Morm. 8:4](/scriptures/bofm/morm/8.4?lang=eng#3).)
 
 All he has is the faith that the Lord will preserve him long enough to
 complete the record and that someday it will be found by one chosen of the
@@ -62,7 +61,7 @@ which will canker, why have ye polluted the holy church of God? Why are ye
 ashamed to take upon you the name of Christ? Why do ye not think that greater
 is the value of an endless happiness than that misery which never dies--
 because of the praise of the world?" ([Morm.
-8:34-38](https://www.lds.org/scriptures/bofm/morm/8.34-38?lang=eng#33).)
+8:34-38](/scriptures/bofm/morm/8.34-38?lang=eng#33).)
 
 I guess one of the greatest mysteries of mortality is why mankind fails to
 learn from history. Why do those who profess to be true followers of Christ so
@@ -144,8 +143,7 @@ laws? ...
 "O then ye unbelieving, turn ye unto the Lord; cry mightily unto the Father in
 the name of Jesus, that perhaps ye may be found spotless, pure, fair, and
 white, having been cleansed by the blood of the Lamb, at that great and last
-day." ([Morm. 9:1-3,
-6](https://www.lds.org/scriptures/bofm/morm/9.1-3%2C6?lang=eng#0).)
+day." ([Morm. 9:1-3, 6](/scriptures/bofm/morm/9.1-3,6?lang=eng#0).)
 
 Who would not want to heed the voice of warning of one who has witnessed such
 heartache and misery? Is it any wonder that his words are to declare that
@@ -167,7 +165,7 @@ temporal death.
 time that he that is filthy shall be filthy still; and he that is righteous
 shall be righteous still; he that is happy shall be happy still; and he that
 is unhappy shall be unhappy still." ([Morm.
-9:13-14](https://www.lds.org/scriptures/bofm/morm/9.13-14?lang=eng#12).)
+9:13-14](/scriptures/bofm/morm/9.13-14?lang=eng#12).)
 
 We are here to declare that the restored Gospel of our Lord and Savior is here
 to bless all of our Father in Heaven's children. We are anxious to share it
@@ -189,7 +187,7 @@ gloom? Consider with me for a moment the great blessings which have been
 promised us in a covenant with the Lord. He has entered into a solemn and
 binding contract with each of us from the very beginning to give us all that
 He hath according to our faithfulness. He has declared, "I, the Lord, am bound
-when ye do what I say." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
+when ye do what I say." ([D&amp;C 82:10](/scriptures/dc-
 testament/dc/82.10?lang=eng#9).)
 
 By solemn covenant He will perform His part of the agreement. The opportunity
@@ -206,7 +204,7 @@ benefit our brothers and sisters is the crowning test of the gospel. One of
 the purposes of the mortal experience is to see if we will follow the Savior's
 counsel to "seek ye first the kingdom of God, and his righteousness; and all
 these things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).)
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).)
 
 We live in the most glorious era in the history of mankind. The opportunity to
 reap the blessings of the Lord has never been greater, as is the opportunity
@@ -223,4 +221,6 @@ sacrifice, we will find the joys of eternity.
 It is my witness to you that God lives, that Jesus is the Christ, the Son of
 the Eternal God, and I so declare it in the name of our Lord and Savior, Jesus
 Christ, amen.
+
+## References
 

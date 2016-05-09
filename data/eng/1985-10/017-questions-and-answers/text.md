@@ -174,7 +174,7 @@ fathered may find his standing in the Church in jeopardy, and particularly his
 eligibility for a temple recommend. Paul wrote to Timothy, "But if any provide
 not for his own, and specially for those of his own house, he hath denied the
 faith, and is worse than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).)
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).)
 
 There may be extenuating circumstances in some cases, but those cases will be
 exceptional. We have followed the principle, in cases of men who have been
@@ -299,4 +299,6 @@ I leave you my testimony. This is the work of the Almighty. This is the work
 of His Beloved Son. This is the work of salvation, of eternal blessings for
 all who will accept. May our Father help us to be true and faithful, I humbly
 ask in the name of the Lord Jesus Christ, amen.
+
+## References
 

@@ -7,7 +7,7 @@ for ourselves, as well as for others.
 
 I submit this is certainly a laudable pursuit. The Lord has said, "Men are,
 that they might have joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)).
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)).
 
 The founding fathers of our nation considered happiness to be of such
 importance that it was ranked with life and liberty. I refer to the
@@ -107,8 +107,7 @@ Real joy and happiness come from living in such a way that our Heavenly Father
 will be pleased with us. In section 52 of the Doctrine and Covenants, the Lord
 tells us he will give us "a pattern in all things, that ye may not be
 deceived; for Satan is abroad in the land, and he goeth forth deceiving the
-nations" ([D&amp;C 52:14](https://www.lds.org/scriptures/dc-
-testament/dc/52.14?lang=eng#13)).
+nations" ([D&amp;C 52:14](/scriptures/dc-testament/dc/52.14?lang=eng#13)).
 
 That pattern is the gospel of Jesus Christ in its fulness, the gospel which we
 are so blessed to have.
@@ -121,8 +120,7 @@ of Jacob, the brother of Nephi, as he wrote many centuries ago:
 words upon plates, hoping that our beloved brethren and our children will
 receive them with thankful hearts, and look upon them _that they may learn
 with joy and not with sorrow_" ([Jacob
-4:3](https://www.lds.org/scriptures/bofm/jacob/4.3?lang=eng#2); emphasis
-added).
+4:3](/scriptures/bofm/jacob/4.3?lang=eng#2); emphasis added).
 
 Isn't that true? Aren't there certain basic principles and truths that we must
 learn if we are to get along in this life and be happy? And we either learn
@@ -130,7 +128,7 @@ them with joy by doing what's right, or we learn them with sorrow or through
 experiences that bring sorrow. One cannot break God's commandments and be
 happy. We should remember the scripture referred to earlier during this
 conference, "Wickedness never was happiness" ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)).
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9)).
 
 I recall as a child hearing my father say, just prior to administering some
 well-deserved corporal punishment to one of his children, namely me, "If you
@@ -199,7 +197,8 @@ love of God which did dwell in the hearts of the people.
 "And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor
 lyings, nor murders, nor any manner of lasciviousness; and surely there could
 not be a happier people among all the people who had been created by the hand
-of God" ([4 Ne.
-1:15-16](https://www.lds.org/scriptures/bofm/4-ne/1.15-16?lang=eng#14)). In
-the name of Jesus Christ, amen.
+of God" ([4 Ne. 1:15-16](/scriptures/bofm/4-ne/1.15-16?lang=eng#14)). In the
+name of Jesus Christ, amen.
+
+## References
 

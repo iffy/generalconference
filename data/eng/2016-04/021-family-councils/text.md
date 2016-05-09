@@ -179,3 +179,13 @@ within the walls of our homes. May our Heavenly Father bless all of our
 families as we counsel together is my humble prayer in the name of the Lord
 Jesus Christ, amen.
 
+## References
+
+  1. See[ Abraham 4:26](https://www.lds.org/scriptures/pgp/abr/4.26?lang=eng#25); [5:2-3](https://www.lds.org/scriptures/pgp/abr/5.2-3?lang=eng#1).
+
+  2. _Our Family: A Practical Guide for Building a Gospel-Centered Home _(pamphlet, 1980), 6.
+
+  3. [Alma 37:37](https://www.lds.org/scriptures/bofm/alma/37.37?lang=eng#36).
+
+  4. [Matthew 18:20](https://www.lds.org/scriptures/nt/matt/18.20?lang=eng#19).
+

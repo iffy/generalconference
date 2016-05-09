@@ -10,8 +10,7 @@ I wish to repeat much of what I said then.
 In ancient times there came from Gilead, beyond the Jordan, an ointment made
 from the gum of a tree. It was a major commodity in trade. The Ishmaelite
 traders who purchased Joseph from his brothers were carrying this balm of
-Gilead to Egypt (see [Gen.
-37:25](https://www.lds.org/scriptures/ot/gen/37.25?lang=eng#24)).
+Gilead to Egypt (see [Gen. 37:25](/scriptures/ot/gen/37.25?lang=eng#24)).
 
 It became symbolic for the power to soothe and to heal.
 
@@ -92,7 +91,7 @@ _"Careful with fire" is good advice, we know;_
 
 _"Careful with words" is ten times doubly so._
 
-_Thoughts unexpressed will often fall back dead._ _But God Himself can't kill
+_Thoughts unexpressed will often fall back dead.__But God Himself can't kill
 them, once they are said!_
 
 It is painful to be the victim. But have you not yet learned how much more
@@ -197,8 +196,7 @@ And that is the counsel I bring again to you. If you have a festering grudge,
 if you are involved in an acrimonious dispute, "Behold what the scripture says
 [and it says it fifty times and more]--man shall not smite, neither shall he
 judge; for judgment is mine, saith the Lord, and vengeance is mine also, and I
-will repay" ([Morm.
-8:20](https://www.lds.org/scriptures/bofm/morm/8.20?lang=eng#19)).
+will repay" ([Morm. 8:20](/scriptures/bofm/morm/8.20?lang=eng#19)).
 
 I say therefore, "John, leave it alone. Mary, leave it alone."
 
@@ -252,8 +250,7 @@ peace which surpasseth understanding.
 
 The Lord said, "Peace I leave with you, my peace I give unto you: not as the
 world giveth, give I unto you. Let not your heart be troubled, neither let it
-be afraid" ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26)).
+be afraid" ([John 14:27](/scriptures/nt/john/14.27?lang=eng#26)).
 
 "If ye love me, keep my commandments.
 
@@ -265,7 +262,9 @@ not, neither knoweth him: but ye know him; for he dwelleth with you, and shall
 be in you.
 
 "I will not leave you comfortless: I will come to you" ([John
-14:15-18](https://www.lds.org/scriptures/nt/john/14.15-18?lang=eng#14)).
+14:15-18](/scriptures/nt/john/14.15-18?lang=eng#14)).
 
 I bear witness of Him who is that comfort, in the name of Jesus Christ, amen.
+
+## References
 

@@ -1,405 +1,331 @@
 items:
-- article_id: '97911_000_003'
-  item: '002'
-  key: 002-drawing-nearer-to-the-lord
+- item: 1
+  key: 000-drawing-nearer-to-the-lord
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: drawing-nearer-to-the-lord
   speaker: Gordon B. Hinckley
   title: Drawing Nearer to the Lord
   url: https://www.lds.org/general-conference/1997/10/drawing-nearer-to-the-lord?lang=eng
   year: 1997
-- article_id: '97911_000_004'
-  item: '003'
-  key: 003-called-to-serve
+- item: 2
+  key: 001-called-to-serve
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: called-to-serve
   speaker: Boyd K. Packer
   title: Called to Serve
   url: https://www.lds.org/general-conference/1997/10/called-to-serve?lang=eng
   year: 1997
-- article_id: '97911_000_005'
-  item: '005'
-  key: 005-four-absolute-truths-provide-an-unfailing-moral-compass
+- item: 3
+  key: 002-four-absolute-truths-provide-an-unfailing-moral-compass
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: four-absolute-truths-provide-an-unfailing-moral-compass
   speaker: Richard B. Wirthlin
   title: Four Absolute Truths Provide an Unfailing Moral Compass
   url: https://www.lds.org/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass?lang=eng
   year: 1997
-- article_id: '97911_000_006'
-  item: '006'
-  key: 006-care-for-new-converts
+- item: 4
+  key: 003-care-for-new-converts
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: care-for-new-converts
   speaker: Carl B. Pratt
   title: Care for New Converts
   url: https://www.lds.org/general-conference/1997/10/care-for-new-converts?lang=eng
   year: 1997
-- article_id: '97911_000_007'
-  item: 008
-  key: 008-pioneer-shoes-through-the-ages
+- item: 5
+  key: 004-pioneer-shoes-through-the-ages
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: pioneer-shoes-through-the-ages
-  speaker: Mary Ellen Smoot
+  speaker: Mary Ellen W. Smoot
   title: Pioneer Shoes through the Ages
   url: https://www.lds.org/general-conference/1997/10/pioneer-shoes-through-the-ages?lang=eng
   year: 1997
-- article_id: '97911_000_008'
-  item: 009
-  key: 009-spiritual-capacity
+- item: 6
+  key: 005-spiritual-capacity
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: spiritual-capacity
   speaker: Russell M. Nelson
   title: Spiritual Capacity
   url: https://www.lds.org/general-conference/1997/10/spiritual-capacity?lang=eng
   year: 1997
-- article_id: '97911_000_009'
-  item: '011'
-  key: 011-teach-the-children
+- item: 7
+  key: 006-teach-the-children
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: teach-the-children
   speaker: Thomas S. Monson
   title: Teach the Children
   url: https://www.lds.org/general-conference/1997/10/teach-the-children?lang=eng
   year: 1997
-- article_id: '97911_000_010'
-  item: '015'
-  key: 015-the-sustaining-of-church-officers
+- item: 8
+  key: 007-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: James E. Faust
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/1997/10/the-sustaining-of-church-officers?lang=eng
   year: 1997
-- article_id: '97911_000_011'
-  item: '016'
-  key: 016-apply-the-atoning-blood-of-christ
+- item: 9
+  key: 008-apply-the-atoning-blood-of-christ
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: apply-the-atoning-blood-of-christ
   speaker: Neal A. Maxwell
-  title: "\u201CApply the Atoning Blood of Christ\u201D"
+  title: '"Apply the Atoning Blood of Christ"'
   url: https://www.lds.org/general-conference/1997/10/apply-the-atoning-blood-of-christ?lang=eng
   year: 1997
-- article_id: '97911_000_012'
-  item: '017'
-  key: 017-in-remembrance-of-jesus
+- item: 10
+  key: 009-in-remembrance-of-jesus
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: in-remembrance-of-jesus
   speaker: Robert D. Hales
   title: In Remembrance of Jesus
   url: https://www.lds.org/general-conference/1997/10/in-remembrance-of-jesus?lang=eng
   year: 1997
-- article_id: '97911_000_013'
-  item: 018
-  key: 018-the-lord-blesses-his-children-through-patriarchal-blessings
+- item: 11
+  key: 010-the-lord-blesses-his-children-through-patriarchal-blessings
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-lord-blesses-his-children-through-patriarchal-blessings
   speaker: Richard D. Allred
   title: The Lord Blesses His Children through Patriarchal Blessings
   url: https://www.lds.org/general-conference/1997/10/the-lord-blesses-his-children-through-patriarchal-blessings?lang=eng
   year: 1997
-- article_id: '97911_000_014'
-  item: '020'
-  key: 020-the-home-a-refuge-and-sanctuary
+- item: 12
+  key: 011-the-home-a-refuge-and-sanctuary
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-home-a-refuge-and-sanctuary
   speaker: Eran A. Call
-  title: 'The Home: A Refuge and Sanctuary'
+  title: The Home:A Refuge and Sanctuary
   url: https://www.lds.org/general-conference/1997/10/the-home-a-refuge-and-sanctuary?lang=eng
   year: 1997
-- article_id: '97911_000_015'
-  item: '021'
-  key: 021-a-celestial-connection-to-your-teenage-years
+- item: 13
+  key: 012-a-celestial-connection-to-your-teenage-years
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-celestial-connection-to-your-teenage-years
   speaker: Richard J. Maynes
   title: A Celestial Connection to Your Teenage Years
   url: https://www.lds.org/general-conference/1997/10/a-celestial-connection-to-your-teenage-years?lang=eng
   year: 1997
-- article_id: '97911_000_016'
-  item: '022'
-  key: 022-valued-companions
+- item: 14
+  key: 013-valued-companions
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: valued-companions
   speaker: Joseph B. Wirthlin
   title: Valued Companions
   url: https://www.lds.org/general-conference/1997/10/valued-companions?lang=eng
   year: 1997
-- article_id: '97911_000_017'
-  item: '023'
-  key: 023-why-every-member-a-missionary
+- item: 15
+  key: 014-why-every-member-a-missionary
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: why-every-member-a-missionary
   speaker: Richard G. Scott
   title: Why Every Member a Missionary?
   url: https://www.lds.org/general-conference/1997/10/why-every-member-a-missionary?lang=eng
   year: 1997
-- article_id: '97911_000_018'
-  item: '027'
-  key: 027-standing-for-truth-and-right
+- item: 16
+  key: 015-standing-for-truth-and-right
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: standing-for-truth-and-right
   speaker: M. Russell Ballard
   title: Standing for Truth and Right
   url: https://www.lds.org/general-conference/1997/10/standing-for-truth-and-right?lang=eng
   year: 1997
-- article_id: '97911_000_019'
-  item: 028
-  key: 028-behold-the-man
+- item: 17
+  key: 016-behold-the-man
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: behold-the-man
   speaker: Keith B. McMullin
-  title: "\u201CBehold the Man\u201D"
+  title: '"Behold the Man"'
   url: https://www.lds.org/general-conference/1997/10/behold-the-man?lang=eng
   year: 1997
-- article_id: '97911_000_020'
-  item: 029
-  key: 029-pioneers-of-the-future-be-not-afraid-only-believe
+- item: 18
+  key: 017-pioneers-of-the-future-be-not-afraid-only-believe
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: pioneers-of-the-future-be-not-afraid-only-believe
   speaker: James E. Faust
-  title: "Pioneers of the Future: \u201CBe Not Afraid, Only Believe\u201D"
+  title: Pioneers of the Future:"Be Not Afraid, Only Believe"
   url: https://www.lds.org/general-conference/1997/10/pioneers-of-the-future-be-not-afraid-only-believe?lang=eng
   year: 1997
-- article_id: '97911_000_021'
-  item: '031'
-  key: 031-home-teaching-a-divine-service
+- item: 19
+  key: 018-home-teaching-a-divine-service
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: home-teaching-a-divine-service
   speaker: Thomas S. Monson
   title: "Home Teaching\u2014a Divine Service"
   url: https://www.lds.org/general-conference/1997/10/home-teaching-a-divine-service?lang=eng
   year: 1997
-- article_id: '97911_000_022'
-  item: '032'
-  key: 032-some-thoughts-on-temples-retention-of-converts-and-missionary-service
+- item: 20
+  key: 019-some-thoughts-on-temples-retention-of-converts-and-missionary-service
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: some-thoughts-on-temples-retention-of-converts-and-missionary-service
   speaker: Gordon B. Hinckley
   title: Some Thoughts on Temples, Retention of Converts, and Missionary Service
   url: https://www.lds.org/general-conference/1997/10/some-thoughts-on-temples-retention-of-converts-and-missionary-service?lang=eng
   year: 1997
-- article_id: '97911_000_023'
-  item: '036'
-  key: 036-the-weightier-matters-of-the-law-judgment-mercy-and-faith
+- item: 21
+  key: 020-the-weightier-matters-of-the-law-judgment-mercy-and-faith
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-weightier-matters-of-the-law-judgment-mercy-and-faith
   speaker: James E. Faust
-  title: 'The Weightier Matters of the Law: Judgment, Mercy, and Faith'
+  title: The Weightier Matters of the Law:Judgment, Mercy, and Faith
   url: https://www.lds.org/general-conference/1997/10/the-weightier-matters-of-the-law-judgment-mercy-and-faith?lang=eng
   year: 1997
-- article_id: '97911_000_024'
-  item: 038
-  key: 038-receive-truth
+- item: 22
+  key: 021-receive-truth
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: receive-truth
   speaker: L. Tom Perry
   title: Receive Truth
   url: https://www.lds.org/general-conference/1997/10/receive-truth?lang=eng
   year: 1997
-- article_id: '97911_000_025'
-  item: '041'
-  key: 041-teachers-the-timeless-key
+- item: 23
+  key: 022-teachers-the-timeless-key
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: teachers-the-timeless-key
   speaker: Harold G. Hillam
   title: Teachers, the Timeless Key
   url: https://www.lds.org/general-conference/1997/10/teachers-the-timeless-key?lang=eng
   year: 1997
-- article_id: '97911_000_026'
-  item: '042'
-  key: 042-he-hath-filled-the-hungry-with-good-things
+- item: 24
+  key: 023-he-hath-filled-the-hungry-with-good-things
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: he-hath-filled-the-hungry-with-good-things
   speaker: Jeffrey R. Holland
-  title: "\u201CHe Hath Filled the Hungry with Good Things\u201D"
+  title: '"He Hath Filled the Hungry with Good Things"'
   url: https://www.lds.org/general-conference/1997/10/he-hath-filled-the-hungry-with-good-things?lang=eng
   year: 1997
-- article_id: '97911_000_027'
-  item: '044'
-  key: 044-look-to-the-future
+- item: 25
+  key: 024-look-to-the-future
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: look-to-the-future
   speaker: Gordon B. Hinckley
   title: Look to the Future
   url: https://www.lds.org/general-conference/1997/10/look-to-the-future?lang=eng
   year: 1997
-- article_id: '97911_000_028'
-  item: 048
-  key: 048-hymn-of-the-obedient-all-is-well
+- item: 26
+  key: 025-hymn-of-the-obedient-all-is-well
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: hymn-of-the-obedient-all-is-well
   speaker: David B. Haight
-  title: "Hymn of the Obedient: \u201CAll Is Well\u201D"
+  title: Hymn of the Obedient:"All Is Well"
   url: https://www.lds.org/general-conference/1997/10/hymn-of-the-obedient-all-is-well?lang=eng
   year: 1997
-- article_id: '97911_000_029'
-  item: 049
-  key: 049-following-the-pioneers
+- item: 27
+  key: 026-following-the-pioneers
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: following-the-pioneers
   speaker: Dallin H. Oaks
   title: Following the Pioneers
   url: https://www.lds.org/general-conference/1997/10/following-the-pioneers?lang=eng
   year: 1997
-- article_id: '97911_000_030'
-  item: '050'
-  key: 050-making-faith-a-reality
+- item: 28
+  key: 027-making-faith-a-reality
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: making-faith-a-reality
   speaker: Janette Hales Beckham
   title: Making Faith a Reality
   url: https://www.lds.org/general-conference/1997/10/making-faith-a-reality?lang=eng
   year: 1997
-- article_id: '97911_000_031'
-  item: '052'
-  key: 052-the-plan-of-salvation-a-flight-plan-for-life
+- item: 29
+  key: 028-the-plan-of-salvation-a-flight-plan-for-life
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-plan-of-salvation-a-flight-plan-for-life
   speaker: Duane B. Gerrard
-  title: 'The Plan of Salvation: A Flight Plan for Life'
+  title: The Plan of Salvation:A Flight Plan for Life
   url: https://www.lds.org/general-conference/1997/10/the-plan-of-salvation-a-flight-plan-for-life?lang=eng
   year: 1997
-- article_id: '97911_000_032'
-  item: '053'
-  key: 053-daughter-be-of-good-comfort
+- item: 30
+  key: 029-daughter-be-of-good-comfort
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: daughter-be-of-good-comfort
   speaker: Wayne M. Hancock
-  title: "\u201CDaughter, Be of Good Comfort\u201D"
+  title: '"Daughter, Be of Good Comfort"'
   url: https://www.lds.org/general-conference/1997/10/daughter-be-of-good-comfort?lang=eng
   year: 1997
-- article_id: '97911_000_033'
-  item: '054'
-  key: 054-universal-application-of-the-gospel
+- item: 31
+  key: 030-universal-application-of-the-gospel
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: universal-application-of-the-gospel
   speaker: J. Kent Jolley
   title: Universal Application of the Gospel
   url: https://www.lds.org/general-conference/1997/10/universal-application-of-the-gospel?lang=eng
   year: 1997
-- article_id: '97911_000_034'
-  item: '055'
-  key: 055-feed-my-lambs
+- item: 32
+  key: 031-feed-my-lambs
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: feed-my-lambs
   speaker: Henry B. Eyring
-  title: "\u201CFeed My Lambs\u201D"
+  title: '"Feed My Lambs"'
   url: https://www.lds.org/general-conference/1997/10/feed-my-lambs?lang=eng
   year: 1997
-- article_id: '97911_000_035'
-  item: '056'
-  key: 056-latter-day-saints-in-very-deed
+- item: 33
+  key: 032-latter-day-saints-in-very-deed
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: latter-day-saints-in-very-deed
   speaker: Gordon B. Hinckley
   title: Latter-day Saints in Very Deed
   url: https://www.lds.org/general-conference/1997/10/latter-day-saints-in-very-deed?lang=eng
   year: 1997
-- article_id: '97911_000_036'
-  item: '060'
-  key: 060-for-such-a-time-as-this
+- item: 34
+  key: 033-for-such-a-time-as-this
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: for-such-a-time-as-this
-  speaker: Mary Ellen Smoot
-  title: "\u201CFor Such a Time as This\u201D"
+  speaker: Mary Ellen W. Smoot
+  title: '"For Such a Time as This"'
   url: https://www.lds.org/general-conference/1997/10/for-such-a-time-as-this?lang=eng
   year: 1997
-- article_id: '97911_000_037'
-  item: '062'
-  key: 062-creating-places-of-security
+- item: 35
+  key: 034-creating-places-of-security
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: creating-places-of-security
   speaker: Virginia U. Jensen
   title: Creating Places of Security
   url: https://www.lds.org/general-conference/1997/10/creating-places-of-security?lang=eng
   year: 1997
-- article_id: '97911_000_038'
-  item: '064'
-  key: 064-are-you-the-woman-i-think-you-are
+- item: 36
+  key: 035-are-you-the-woman-i-think-you-are
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: are-you-the-woman-i-think-you-are
   speaker: Sheri L. Dew
-  title: "\u201CAre You the Woman I Think You Are?\u201D"
+  title: '"Are You the Woman I Think You Are?"'
   url: https://www.lds.org/general-conference/1997/10/are-you-the-woman-i-think-you-are?lang=eng
   year: 1997
-- article_id: '97911_000_039'
-  item: '066'
-  key: 066-the-mighty-strength-of-the-relief-society
+- item: 37
+  key: 036-the-mighty-strength-of-the-relief-society
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: the-mighty-strength-of-the-relief-society
   speaker: Thomas S. Monson

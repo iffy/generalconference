@@ -11,7 +11,7 @@ satisfaction I get from knowing that I didn't give up.
 In 3 Nephi, chapter 15, verse 9, Jesus told the Nephites: "Behold, I am the
 law, and the light. Look unto me, and endure to the end, and ye shall live;
 for unto him that endureth to the end will I give eternal life." [[3 Ne.
-15:9](https://www.lds.org/scriptures/bofm/3-ne/15.9?lang=eng#8)]
+15:9](/scriptures/bofm/3-ne/15.9?lang=eng#8)]
 
 The concept of endurance can also be applied to studying the scriptures. It
 has not always been easy for me to study the scriptures. They always seemed
@@ -30,16 +30,18 @@ the right every day. In 2 Nephi, chapter 32, verse 3: "Angels speak by the
 power of the Holy Ghost; wherefore, they speak the words of Christ. Wherefore,
 I said unto you, feast upon the words of Christ; for behold, the words of
 Christ will tell you all things what ye should do." [[2 Ne.
-32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2)]
+32:3](/scriptures/bofm/2-ne/32.3?lang=eng#2)]
 
 As long as I endure to the end and make scripture reading a lifelong habit, I
 will be able to say with Paul, "I have fought a good fight, I have finished my
 course, I have kept the faith" ([2 Tim.
-4:7](https://www.lds.org/scriptures/nt/2-tim/4.7?lang=eng#6)).
+4:7](/scriptures/nt/2-tim/4.7?lang=eng#6)).
 
 I testify to you that it has been well worth the struggle. I love the Book of
 Mormon and the truths it holds. It has taken a few years, and it will take
 many more, to learn how to apply the scriptures to my daily life, but the
 guidance I get from scripture study is a calming influence on me and brings
 peace into my daily activities. In the name of Jesus Christ, amen.
+
+## References
 

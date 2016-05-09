@@ -54,8 +54,8 @@ says: "And again, inasmuch as parents have children in Zion, or in any of her
 stakes which are organized, that teach them not to understand the doctrine of
 repentance, faith in Christ the Son of the living God, and of baptism and the
 gift of the Holy Ghost by the laying on of the hands, when eight years old,
-the sin be upon the heads of the parents." ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24).)
+the sin be upon the heads of the parents." ([D&amp;C 68:25](/scriptures/dc-
+testament/dc/68.25?lang=eng#24).)
 
 Now that is rather serious to those of us who sit in such a responsible
 position. I once asked my mother, "How does it feel, Mom, to have all my sins
@@ -69,10 +69,10 @@ in heaven.
 Would you listen to the words of Alma, that great Book of Mormon prophet. They
 ring true and clear. He said, "O, remember, my son, and learn wisdom in thy
 youth; yea, learn in thy youth to keep [all] the commandments of God." ([Alma
-37:35](https://www.lds.org/scriptures/bofm/alma/37.35?lang=eng#34).) That is
-why we as parents are concerned. We want to teach you how to get back into the
-presence of our Heavenly Father by keeping all of the commandments. You can't
-keep what you don't know or understand.
+37:35](/scriptures/bofm/alma/37.35?lang=eng#34).) That is why we as parents
+are concerned. We want to teach you how to get back into the presence of our
+Heavenly Father by keeping all of the commandments. You can't keep what you
+don't know or understand.
 
 Someone once said, "You know we want to help you young people in the worst
 way," and I suppose some of us are guilty of doing it in just about that way.
@@ -187,7 +187,7 @@ against him with twenty thousand?
 
 "Or else, while the other is yet a great way off, he sendeth an ambassage, and
 desireth conditions of peace." ([Luke
-14:28-32](https://www.lds.org/scriptures/nt/luke/14.28-32?lang=eng#27).)
+14:28-32](/scriptures/nt/luke/14.28-32?lang=eng#27).)
 
 Could I just translate that scripture into 1971 language for you young people?
 The Lord might say, if he were here today, and he does through his leaders,
@@ -219,8 +219,7 @@ without a tuxedo?"] And he was speechless.
 
 "Then said the king to the servants, Bind him hand and foot, and take him
 away, and cast him into outer darkness; there shall be weeping and gnashing of
-teeth." (See [Matt.
-22:2-13](https://www.lds.org/scriptures/nt/matt/22.2-13?lang=eng#1).)
+teeth." (See [Matt. 22:2-13](/scriptures/nt/matt/22.2-13?lang=eng#1).)
 
 I used to be a little puzzled about that last part, and now I think I know why
 we have so many Latter-day Saint dentists.
@@ -239,4 +238,6 @@ teach you the doctrines of the kingdom. Know of our love, faith, and trust in
 you, for the future looms bright in terms of your gospel commitment. May you
 and I together walk down the Lord's road in peace and harmony is my humble
 prayer, as I bear witness to these things, in the name of Jesus Christ. Amen.
+
+## References
 

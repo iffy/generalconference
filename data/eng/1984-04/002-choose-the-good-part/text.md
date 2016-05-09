@@ -28,10 +28,9 @@ him."
 What a beautiful attitude. What sustaining support. Her commitment to her
 husband, Church, and self was made long before I asked my questions. She had
 resolved to choose the good part, reminding me of the meaningful statement
-made about Mary in [Luke
-10:42](https://www.lds.org/scriptures/nt/luke/10.42?lang=eng#41): "One thing
-is needful: and Mary hath chosen that good part, which shall not be taken away
-from her."
+made about Mary in [Luke 10:42](/scriptures/nt/luke/10.42?lang=eng#41): "One
+thing is needful: and Mary hath chosen that good part, which shall not be
+taken away from her."
 
 The more I become involved in the Church and in communities worldwide, the
 greater becomes my appreciation and respect for good women. Today I would like
@@ -149,8 +148,7 @@ In Psalms 8:4-5 we read:
 visitest him?
 
 "For thou hast made him a little lower than the angels, and hast crowned him
-with glory and honour." [[Ps.
-8:4-5](https://www.lds.org/scriptures/ot/ps/8.4-5?lang=eng#3)]
+with glory and honour." [[Ps. 8:4-5](/scriptures/ot/ps/8.4-5?lang=eng#3)]
 
 But Satan is ever present, trying to destroy our glory and remove our crown.
 One of his most powerful tools is discouragement. Single sisters, don't let
@@ -209,8 +207,7 @@ you guidance and support if you will but give Him the chance. Include Him in
 your decision making. Include Him when you take inventory of your personal
 worth. "For behold, this life is the time for men to prepare to meet God; yea,
 behold the day of this life is the day for men [and women] to perform their
-labors." ([Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31).)
+labors." ([Alma 34:32](/scriptures/bofm/alma/34.32?lang=eng#31).)
 
 Set your goals--without goals you cannot measure your progress. But don't
 become frustrated because there are no obvious victories. Remind yourself that
@@ -231,4 +228,6 @@ circumstances or situations, life will be lived to the fullest.
 
 May God help us to so do, I pray in the worthy name of Jesus Christ, our
 Redeemer and Friend, amen.
+
+## References
 

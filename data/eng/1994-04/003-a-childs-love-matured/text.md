@@ -4,19 +4,17 @@ The thoughts I would leave with you today center around three statements of
 the Savior when He was upon the earth. When asked to define "the first
 commandment of all," He answered, "Thou shalt love the Lord thy God with all
 thy heart, and with all thy soul, and with all thy mind, and with all thy
-strength" ([Mark 12:28,
-30](https://www.lds.org/scriptures/nt/mark/12.28%2C30?lang=eng#27)).
+strength" ([Mark 12:28, 30](/scriptures/nt/mark/12.28,30?lang=eng#27)).
 Therefore, obedience to this commandment should become our highest priority.
 All of our efforts should evidence love for our Father in Heaven.
 
 Jesus indicated several ways to demonstrate the love we should have for Him
 and for our Heavenly Father but phrased it concisely in the simple statement,
 "If ye love me, keep my commandments" ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14)).
+14:15](/scriptures/nt/john/14.15?lang=eng#14)).
 
 Then our Savior added another short and easily understood statement: "Love one
-another" ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33)). Our love of
+another" ([John 13:34](/scriptures/nt/john/13.34?lang=eng#33)). Our love of
 God and Jesus Christ and for each other should undergird all that we do and
 feel. Love sincerely given brings love in return. Love so shared brings trust,
 support, and a level of security that is unsurpassed. A child naturally
@@ -49,13 +47,12 @@ Lord not only said "love one another," but He prefaced those words with, "A
 new commandment I give unto you, That ye love one another." Then He taught the
 kind of love that we should cultivate when He added, "As I have loved you,
 that ye also love one another" ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33)).
+13:34](/scriptures/nt/john/13.34?lang=eng#33)).
 
 Often I have wondered: Why do we as adults have to be commanded to do that
 which comes so naturally to children? Perhaps that is why Christ said that
 each of us should strive to become as a little child, "for of such is the
-kingdom of heaven" ([Matt.
-19:14](https://www.lds.org/scriptures/nt/matt/19.14?lang=eng#13)).
+kingdom of heaven" ([Matt. 19:14](/scriptures/nt/matt/19.14?lang=eng#13)).
 
 The kingdom of heaven for which we strive can begin with a heavenly life here
 and now. We can develop a child's love matured. President David O. McKay said:
@@ -97,8 +94,7 @@ showing forth afterwards an increase of love toward him whom thou hast
 reproved, lest he esteem thee to be his enemy;
 
 "That he may know that thy faithfulness is stronger than the cords of death"
-([D&amp;C 121:41-44](https://www.lds.org/scriptures/dc-
-testament/dc/121.41-44?lang=eng#40)).
+([D&amp;C 121:41-44](/scriptures/dc-testament/dc/121.41-44?lang=eng#40)).
 
 In contrast, a thoughtless and domineering man may mock the phrase "reproving
 betimes with sharpness." Indeed he may reprove sharply, ofttimes with raised
@@ -114,8 +110,7 @@ dominion cannot be excused upon the mistaken notion that permission comes by
 being the husband, head of the family, and particularly under the umbrella or
 authority of the priesthood. The scripture is clear that when sacred authority
 is abused, the authority of the priesthood is withdrawn (see [D&amp;C
-121:34-37](https://www.lds.org/scriptures/dc-
-testament/dc/121.34-37?lang=eng#33)).
+121:34-37](/scriptures/dc-testament/dc/121.34-37?lang=eng#33)).
 
 Elder M. Russell Ballard of the Quorum of the Twelve emphasized this at last
 October conference. He said:
@@ -134,12 +129,12 @@ lives of our Father's children" (_Ensign,_ Nov. 1993, p. 78).
 
 Paul taught succinctly, "Husbands, love your wives, even as Christ also loved
 the church, and gave himself for it" ([Eph.
-5:25](https://www.lds.org/scriptures/nt/eph/5.25?lang=eng#24)). When true love
-prevails between husband and wife, they want to give themselves to and for
-each other, as Christ gave of Himself. We give for each other on a daily basis
-when we endeavor always to make each other happy. Then we give up thinking
-selfishly of ourselves and our personal needs. Then we really think not only
-of the here and now but of the hereafter.
+5:25](/scriptures/nt/eph/5.25?lang=eng#24)). When true love prevails between
+husband and wife, they want to give themselves to and for each other, as
+Christ gave of Himself. We give for each other on a daily basis when we
+endeavor always to make each other happy. Then we give up thinking selfishly
+of ourselves and our personal needs. Then we really think not only of the here
+and now but of the hereafter.
 
 The Savior has told us that if we marry "by my word, which is my law, and by
 the new and everlasting covenant, ... and if ye abide in my covenant, ... it shall
@@ -148,7 +143,7 @@ time, and through all eternity; and shall be of full force when they are out
 of the world; and they shall pass by the angels, and the gods, which are set
 there, to their exaltation and glory in all things, as hath been sealed upon
 their heads, which glory shall be a fulness and a continuation of the seeds
-forever and ever" ([D&amp;C 132:19](https://www.lds.org/scriptures/dc-
+forever and ever" ([D&amp;C 132:19](/scriptures/dc-
 testament/dc/132.19?lang=eng#18)). These are the great and marvelous blessings
 of exaltation, glory, and eternal life. They are only sealed upon us in the
 holy temples. They can indeed be ours. With that eternal perspective, only
@@ -186,4 +181,6 @@ grateful for these great Brethren who lead us, and I testify of their sacred
 callings. I'm grateful for and humbled by the opportunity and blessing of
 serving with them. I pray for them and for each of you, in the name of Jesus
 Christ, amen.
+
+## References
 

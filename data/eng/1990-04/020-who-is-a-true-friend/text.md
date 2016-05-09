@@ -107,8 +107,7 @@ Remember the Savior valued his friends so highly that he would lay down his
 life for them. He had this to say about friends:
 
 "Greater love hath no man than this, that a man lay down his life for his
-friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+friends." ([John 15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 And then he went on to say:
 
@@ -117,7 +116,7 @@ And then he went on to say:
 "Henceforth I call you not servants; for the servant knoweth not what his lord
 doeth: but I have called you friends; for all things that I have heard of my
 Father I have made known unto you." ([John
-15:14-15](https://www.lds.org/scriptures/nt/john/15.14-15?lang=eng#13).)
+15:14-15](/scriptures/nt/john/15.14-15?lang=eng#13).)
 
 Friendship is an extremely important part of your life. Someone has said a
 true friend is someone who makes it easier to live the gospel of Jesus Christ.
@@ -153,8 +152,7 @@ and friendly hands.
 
 "Thou art not yet as Job; thy friends do not contend against thee, neither
 charge thee with transgression, as they did Job." ([D&amp;C
-121:9-10](https://www.lds.org/scriptures/dc-
-testament/dc/121.9-10?lang=eng#8).)
+121:9-10](/scriptures/dc-testament/dc/121.9-10?lang=eng#8).)
 
 Knowing his friends would stand by him was a great assurance to Joseph Smith
 during this trying experience.
@@ -175,8 +173,7 @@ guidance, peace, and, yes, even the companionship of other true friends.
 I know something of his love, his compassion, his mercy, and the help one may
 receive from him and the Holy Spirit. He has promised that by obedience to his
 word, you "shall find wisdom and great treasures of knowledge, even hidden
-treasures." ([D&amp;C 89:19](https://www.lds.org/scriptures/dc-
-testament/dc/89.19?lang=eng#18).)
+treasures." ([D&amp;C 89:19](/scriptures/dc-testament/dc/89.19?lang=eng#18).)
 
 Just think! With Jesus as your friend, you may receive increased strength and
 testimony that will uphold you against temptations when they arise.
@@ -192,4 +189,6 @@ true friend of his.
 
 That we may all qualify to be his disciples, his friends, I pray in the name
 of Jesus Christ, amen.
+
+## References
 

@@ -86,11 +86,10 @@ Brethren who have pled with us! We can understand why the Savior must have
 been disappointed, and why he said, "Not every one that saith unto me, Lord,
 Lord, shall enter into the kingdom of heaven; but he that doeth the will of my
 Father which is in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).)
+7:21](/scriptures/nt/matt/7.21?lang=eng#20).)
 
 And then he said again, "Why call ye me, Lord, Lord, and do not the things
-which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).) I hope that
+which I say?" ([Luke 6:46](/scriptures/nt/luke/6.46?lang=eng#45).) I hope that
 theme will follow us to our homes and to our future lives.
 
 As we close this great conference, I again implore the hearer of these
@@ -140,4 +139,6 @@ I know this is true, and I bear this testimony to you, my beloved brothers and
 sisters and friends in all the world, and I urge all men to seriously accept
 and conform their lives totally to the gospel. I bear this witness in the name
 of Jesus Christ. Amen.
+
+## References
 

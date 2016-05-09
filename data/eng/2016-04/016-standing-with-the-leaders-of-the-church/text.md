@@ -203,3 +203,43 @@ He loves each of us. He is our great Exemplar and the divine leader of all of
 our Father's children. Of this I bear my solemn witness in the name of Jesus
 Christ, amen.
 
+## References
+
+  1. Facebook comment from Shakeel Arshad to Ronald A. Rasband, Dec. 2, 2015.
+
+  2. [2 Nephi 31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19).
+
+  3. [Matthew 16:15](https://www.lds.org/scriptures/nt/matt/16.15?lang=eng#14).
+
+  4. [Matthew 16:16](https://www.lds.org/scriptures/nt/matt/16.16?lang=eng#15).
+
+  5. Ronald A. Rasband, in Face to Face, Jan. 20, 2016, lds.org/media-library.
+
+  6. Face to Face response from Lisa Jarvis, from Grande Prairie, Alberta, Canada.
+
+  7. Tweet from Liz Darger, Pleasant Grove, Utah, Apr. 4, 2015.
+
+  8. "I Am a Child of God," _Hymns,_ no. 301.
+
+  9. [Doctrine and Covenants 68:6](https://www.lds.org/scriptures/dc-testament/dc/68.6?lang=eng#5).
+
+  10. See Thomas S. Monson, "[Our Sacred Priesthood Trust](https://www.lds.org/general-conference/2006/04/our-sacred-priesthood-trust?lang=eng),"_ Ensign_ or_ Liahona, _May 2006, 55-56.
+
+  11. [Mosiah 18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7).
+
+  12. See [Mosiah 18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7).
+
+  13. [1 Nephi 8:12](https://www.lds.org/scriptures/bofm/1-ne/8.12?lang=eng#11).
+
+  14. Edwin Markham, "A Creed," _Lincoln and Other Poems_ (1901), 25.
+
+  15. [Matthew 14:24-27](https://www.lds.org/scriptures/nt/matt/14.24-27?lang=eng#23).
+
+  16. [Matthew 14:28-29](https://www.lds.org/scriptures/nt/matt/14.28-29?lang=eng#27).
+
+  17. [Matthew 14:29](https://www.lds.org/scriptures/nt/matt/14.29?lang=eng#28).
+
+  18. [Matthew 14:30-31](https://www.lds.org/scriptures/nt/matt/14.30-31?lang=eng#29).
+
+  19. [Moroni 10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).
+

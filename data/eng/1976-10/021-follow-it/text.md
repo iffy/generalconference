@@ -130,10 +130,9 @@ Church?" The Lord understood and answered, speaking to you and me, young
 people, through a prophet: "And now, behold, I give unto you a commandment,
 that when ye are assembled together ye shall instruct and edify each other."
 Why? "That ye may know how to act and direct my church." ([D&amp;C
-43:8](https://www.lds.org/scriptures/dc-testament/dc/43.8?lang=eng#7).) And I
-thank God that in this great conference and others that have preceded it we
-are taught how to act. "We thank thee, O God, for a prophet to guide us in
-these latter days."
+43:8](/scriptures/dc-testament/dc/43.8?lang=eng#7).) And I thank God that in
+this great conference and others that have preceded it we are taught how to
+act. "We thank thee, O God, for a prophet to guide us in these latter days."
 
 Like many of you, I am frequently before those who are not of our faith, and
 the challenge is great and wonderful. Not long ago I was given a little honor
@@ -171,4 +170,6 @@ God grant us to have that courage and determination as we go forth, edified
 and fortified by the influences of great men in our lives, to be an example
 unto the world. I testify that I know that God lives, that Jesus is the
 Christ, and that here sits his prophet. In the name of Jesus Christ. Amen.
+
+## References
 

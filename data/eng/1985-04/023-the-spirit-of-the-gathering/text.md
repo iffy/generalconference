@@ -1,4 +1,4 @@
-# The Spirit of the Gathering
+# The Spirit of Gathering
 
 The glory of Easter morning fills the souls of those who yearn for eternal
 life. A similar glory touched the majestic morning when the Father and the Son
@@ -151,8 +151,7 @@ Then President McGregor coupled this feeling to the words of Lehi:
 so be that they shall serve him according to the commandments which he hath
 given, it shall be a land of liberty unto them; wherefore, they shall never be
 brought down into captivity; ... but unto the righteous it shall be blessed
-forever." ([2 Ne.
-1:7](https://www.lds.org/scriptures/bofm/2-ne/1.7?lang=eng#6).)
+forever." ([2 Ne. 1:7](/scriptures/bofm/2-ne/1.7?lang=eng#6).)
 
 The yearning of ancient Israel was to Jerusalem. During their captivity, the
 soul of the people was expressed in the 137th Psalm:
@@ -169,7 +168,7 @@ wasted us required of us mirth, saying, Sing us one of the songs of Zion.
 
 "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I
 prefer not Jerusalem above my chief joy." ([Ps. 137:1,
-3-6](https://www.lds.org/scriptures/ot/ps/137.1%2C3-6?lang=eng#0).)
+3-6](/scriptures/ot/ps/137.1,3-6?lang=eng#0).)
 
 All of us should reflect on what we have joined and what power has captured
 our faith. Hundreds of thousands living today have in their own lifetime
@@ -197,19 +196,19 @@ agree. The elder then suggested that it was not in keeping with a book of
 scripture to read it to see what was wrong with it, but that it should be read
 as Moroni says, "with a sincere heart" and "real intent," having "faith in
 Christ" and desiring to know the truth of the book. (See [Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).)
+10:4](/scriptures/bofm/moro/10.4?lang=eng#3).)
 
 Brother Camargo said he found it necessary to read the book again. In the
 process the Spirit witnessed to him that it was the true word of God, and he
 joined the Church with his family. He sometimes refers to the scripture in
-[Isa. 52:7](https://www.lds.org/scriptures/ot/isa/52.7?lang=eng#6) which says,
-"How beautiful upon the mountains are the feet [those huge missionary feet] of
-him that bringeth good tidings, that publisheth peace; ... that saith unto Zion,
-Thy God reigneth!" The truth he has found has brought similar beauty to the
-feet of three of his sons as they have served as missionaries. All of his
-children were married in the temple covenant, and he and his wife have great
-joy and rejoicing in their posterity. One of his sons is present at this
-conference today as a stake president.
+[Isa. 52:7](/scriptures/ot/isa/52.7?lang=eng#6) which says, "How beautiful
+upon the mountains are the feet [those huge missionary feet] of him that
+bringeth good tidings, that publisheth peace; ... that saith unto Zion, Thy God
+reigneth!" The truth he has found has brought similar beauty to the feet of
+three of his sons as they have served as missionaries. All of his children
+were married in the temple covenant, and he and his wife have great joy and
+rejoicing in their posterity. One of his sons is present at this conference
+today as a stake president.
 
 President J. Reuben Clark, Jr., captured the spirit of this drawing power in
 his memorable address in 1947 "to them of the last wagon"--our pioneers who
@@ -233,14 +232,15 @@ knees in the joy of their souls, thanking God that at last they were in Zion.
 Conference Report, Oct. 1947, pp. 157-58.)
 
 What a thrill of joy must have moved Andrew as he said to Peter, "We have
-found the Messias." ([John
-1:41](https://www.lds.org/scriptures/nt/john/1.41?lang=eng#40).) Along with
-countless thousands, it has "come to pass that the righteous shall be gathered
-out from among all nations, and shall come to Zion, singing with songs of
-everlasting joy." ([D&amp;C 45:71](https://www.lds.org/scriptures/dc-
+found the Messias." ([John 1:41](/scriptures/nt/john/1.41?lang=eng#40).) Along
+with countless thousands, it has "come to pass that the righteous shall be
+gathered out from among all nations, and shall come to Zion, singing with
+songs of everlasting joy." ([D&amp;C 45:71](/scriptures/dc-
 testament/dc/45.71?lang=eng#70).)
 
 May we lift our souls this beautiful Easter morning with the assurance that
 through the mystic call of the restored gospel we have come to the threshold
 of Zion and the gateway to eternal life. In the name of Jesus Christ, amen.
+
+## References
 

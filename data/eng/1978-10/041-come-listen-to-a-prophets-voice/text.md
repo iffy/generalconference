@@ -93,11 +93,13 @@ challenges, will come as we draw nearer unto him. With such love for our
 Redeemer, every difficult experience may be met with courage, acceptance, and
 even gratitude. His love for us is a gift beyond price. What does he ask in
 return? "Love one another; as I have loved you." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).)
+13:34](/scriptures/nt/john/13.34?lang=eng#33).)
 
 To these truths I bear solemn witness, for I know this is God's church. I know
 God lives, as does his Beloved Son, our Savior Jesus Christ; and the Lord's
 word will go forth this night through his chosen mouthpiece, President Spencer
 W. Kimball. May we listen to a prophet's voice, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

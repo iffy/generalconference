@@ -132,8 +132,7 @@ From my experiences with conferences, I testify that what is spoken under the
 influence of the Holy Ghost is "scripture" and, as the Lord has said, "shall
 be the will of the Lord, shall be the mind of the Lord, shall be the word of
 the Lord, shall be the voice of the Lord, and the power of God unto
-salvation." ([D&amp;C 68:4](https://www.lds.org/scriptures/dc-
-testament/dc/68.4?lang=eng#3).)
+salvation." ([D&amp;C 68:4](/scriptures/dc-testament/dc/68.4?lang=eng#3).)
 
 That we may select goals from this conference that will bring salvation to us
 and our families, our neighbors, our wards and branches, I earnestly pray and
@@ -141,4 +140,6 @@ bear you my witness that from every fiber of my being I know that God lives. I
 know that Jesus is our Savior. I know from very personal, wonderful
 experiences that President Spencer W. Kimball is a prophet of God, and that
 witness I bear to you in the name of Jesus Christ. Amen.
+
+## References
 

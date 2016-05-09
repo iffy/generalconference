@@ -44,22 +44,22 @@ We must begin by trying to reach the one--every single individual. We want all
 to feel that they belong to the Church in the context of Paul's message to the
 Ephesians: "... ye are no more strangers and foreigners, but fellowcitizens with
 the saints, and of the household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).) In our minds
-we draw two circles: one for the Young Adults, who are of the ages 18 to 25
-and include all, whether at home, away from home, on campus, on missions, or
-in the military, within the circle. We draw another circle and include all of
-those age 26 and over in the Special Interests, whether never married, widow,
-widower, or divorced. Everyone who is single belongs in one of these two
-circles. There are none who are outside the circles.
+2:19](/scriptures/nt/eph/2.19?lang=eng#18).) In our minds we draw two circles:
+one for the Young Adults, who are of the ages 18 to 25 and include all,
+whether at home, away from home, on campus, on missions, or in the military,
+within the circle. We draw another circle and include all of those age 26 and
+over in the Special Interests, whether never married, widow, widower, or
+divorced. Everyone who is single belongs in one of these two circles. There
+are none who are outside the circles.
 
 Brother Hanks recently reminded us of how the Lord directed Ananias to the
 one. Ananias was sent to the street called Straight to restore the sight of
 Saul of Tarsus, stricken blind at the time of his conversion. Ananias
 responded by reminding the Lord of how much evil Saul had done. The Lord said,
 "Go thy way: for he is a chosen vessel unto me. ..." ([Acts
-9:15](https://www.lds.org/scriptures/nt/acts/9.15?lang=eng#14).) Paul states
-that Ananias "came unto me, ... and said unto me, Brother Saul. ..." ([Acts
-22:13](https://www.lds.org/scriptures/nt/acts/22.13?lang=eng#12).)
+9:15](/scriptures/nt/acts/9.15?lang=eng#14).) Paul states that Ananias "came
+unto me, ... and said unto me, Brother Saul. ..." ([Acts
+22:13](/scriptures/nt/acts/22.13?lang=eng#12).)
 
 Somehow we must reach the one--every single one--for they are "chosen vessels"
 unto the Lord.
@@ -72,9 +72,9 @@ serve your fellowmen."
 As we undertake to reach the one, we should remember the counsel of the Lord
 to Samuel, as he was sent to the house of Jesse to find the one who should
 reign over Israel. The Lord said to Samuel, "Look not on his countenance, or
-on the height of his stature ... , for the Lord seeth not as man seeth; for man
+on the height of his stature ..., for the Lord seeth not as man seeth; for man
 looketh on the outward appearance, but the Lord looketh on the heart." ([1
-Sam. 16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).)
+Sam. 16:7](/scriptures/ot/1-sam/16.7?lang=eng#6).)
 
 We believe that each single adult member of the Church may be reached through
 three fundamental principles: (1) priesthood direction and correlation, (2)
@@ -88,7 +88,7 @@ adults by delegating to them all appropriate responsibility in conceiving,
 planning, preparing, and executing their activities. This should be done
 within the context of the recent teaching of the General Authorities by
 President Lee, when he referred to the scripture, "Wherefore, now let every
-man learn his duty. ..." ([D&amp;C 107:99](https://www.lds.org/scriptures/dc-
+man learn his duty. ..." ([D&amp;C 107:99](/scriptures/dc-
 testament/dc/107.99?lang=eng#98).) President Lee placed the emphasis on _let,
 _in the sense of permitting or allowing those given responsibilities to
 function within their callings without unnecessary restrictions.
@@ -157,7 +157,8 @@ has been done. Somehow, some way, we must reach the one, every single one, for
 they are "chosen vessels" unto the Lord. President Lee's message to the single
 members is sublime: "To you, the words of the Master have a special meaning:
 'He that findeth his life shall lose it: and he that loseth his life for my
-sake shall find it.'" ([Matt.
-10:39](https://www.lds.org/scriptures/nt/matt/10.39?lang=eng#38).) That this
-may be so, I pray humbly in the name of the Lord Jesus Christ. Amen.
+sake shall find it.'" ([Matt. 10:39](/scriptures/nt/matt/10.39?lang=eng#38).)
+That this may be so, I pray humbly in the name of the Lord Jesus Christ. Amen.
+
+## References
 

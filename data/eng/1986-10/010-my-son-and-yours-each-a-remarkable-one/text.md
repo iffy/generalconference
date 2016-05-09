@@ -24,15 +24,14 @@ that the Lord is a living perfect man. Many have seen him: for example, Adam,
 Enoch, the brother of Jared, Abraham, Moses, Joseph Smith, Isaac, Jacob, Seth,
 Nephi, Isaiah, Emer, Joshua, Manoah and his wife, Solomon, Sidney Rigdon,
 Alma, Moroni, Stephen, and John. Alma states, "Many, exceedingly great many"
-have seen him ([Alma
-13:12](https://www.lds.org/scriptures/bofm/alma/13.12?lang=eng#11)).
+have seen him ([Alma 13:12](/scriptures/bofm/alma/13.12?lang=eng#11)).
 
 Now another evidence of God: speaking of the planets and orbs, the Lord says,
 "Any man who hath seen any or the least of these hath seen God moving in his
-majesty and power" ([D&amp;C 88:47](https://www.lds.org/scriptures/dc-
+majesty and power" ([D&amp;C 88:47](/scriptures/dc-
 testament/dc/88.47?lang=eng#46)). "The heavens declare the glory of God; and
 the firmament sheweth his handywork" ([Ps.
-19:1](https://www.lds.org/scriptures/ot/ps/19.1?lang=eng#0)).
+19:1](/scriptures/ot/ps/19.1?lang=eng#0)).
 
 Mike, let's visualize three scenes together.
 
@@ -79,15 +78,13 @@ Begotten.
 
 "And the Lord God spake unto Moses, saying: The heavens, they are many, and
 they cannot be numbered unto man; but they are numbered unto me, for they are
-mine" ([Moses 1:33,
-37](https://www.lds.org/scriptures/pgp/moses/1.33%2C37?lang=eng#32)).
+mine" ([Moses 1:33, 37](/scriptures/pgp/moses/1.33,37?lang=eng#32)).
 
 He further said:
 
 "And were it possible that man could number the particles of the earth, yea,
 millions of earths like this, it would not be a beginning to the number of thy
-creations" ([Moses
-7:30](https://www.lds.org/scriptures/pgp/moses/7.30?lang=eng#29)).
+creations" ([Moses 7:30](/scriptures/pgp/moses/7.30?lang=eng#29)).
 
 Isn't that exciting, Mike?
 
@@ -102,7 +99,7 @@ Amazing Universe, _p. 166). "A super-giant elliptical galaxy may contain more
 than ten trillion stars and measure 300,000 light-years across.
 
 _The sheer immensity of such systems suggest eternal qualities of stability
-and predictability_ (_The Amazing Universe, ,_ p. 134; italics added). See,
+and predictability_ (_The Amazing Universe,, _ p. 134; italics added). See,
 Mike, the scientific world sees the evidence of a supreme being.
 
 With all this massive, orderly creation, are you, Michael, a single human
@@ -118,8 +115,7 @@ visitest him?
 with glory and honour.
 
 "Thou madest him to have dominion over the works of thy hands; thou hast put
-all things under his feet" ([Ps.
-8:3-6](https://www.lds.org/scriptures/ot/ps/8.3-6?lang=eng#2)).
+all things under his feet" ([Ps. 8:3-6](/scriptures/ot/ps/8.3-6?lang=eng#2)).
 
 Yes, _you,_ Michael, are _everything;_ you are _why_ the heavens were created.
 
@@ -231,4 +227,6 @@ is given to all the world. Watch them, Mike, listen to them, follow them. This
 is the only church of Jesus Christ on the earth, Michael, and you are just as
 important as any human being in all history. You are of infinite worth. I love
 you, pal. In the name of Jesus Christ, amen.
+
+## References
 

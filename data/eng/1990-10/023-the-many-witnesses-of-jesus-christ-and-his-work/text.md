@@ -46,21 +46,17 @@ As we open scriptural pages to read of the plan for life on earth, we see that
 our Father in Heaven made known to the prophets of the Old Testament that the
 Savior, His Only Begotten Son, would come to earth. Isaiah the prophet said
 that "a virgin shall conceive, and bear a son" ([Isa.
-7:14](https://www.lds.org/scriptures/ot/isa/7.14?lang=eng#13)), and "the
-government shall be upon his shoulder" ([Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5)), and later said
+7:14](/scriptures/ot/isa/7.14?lang=eng#13)), and "the government shall be upon
+his shoulder" ([Isa. 9:6](/scriptures/ot/isa/9.6?lang=eng#5)), and later said
 that "the Lord, the Creator of the ends of the earth" ([Isa.
-40:28](https://www.lds.org/scriptures/ot/isa/40.28?lang=eng#27)) was "the Holy
-One of Israel" ([Isa.
-43:3](https://www.lds.org/scriptures/ot/isa/43.3?lang=eng#2)), even the
-"redeemer ... that maketh all things" ([Isa.
-44:24](https://www.lds.org/scriptures/ot/isa/44.24?lang=eng#23); see [Isa.
-40-45](https://www.lds.org/scriptures/ot/isa/40.title?lang=eng)). Jeremiah,
-Zechariah, Job, Moses, and others of the prophets had revealed to them the
-Christ and that He would come to provide the way for all of us to return to
-our Father in Heaven. These prophets left their witnesses for us to study and
-to pray about and to receive our own testimony of the "looked for" Savior of
-the Old Testament.
+40:28](/scriptures/ot/isa/40.28?lang=eng#27)) was "the Holy One of Israel"
+([Isa. 43:3](/scriptures/ot/isa/43.3?lang=eng#2)), even the "redeemer ... that
+maketh all things" ([Isa. 44:24](/scriptures/ot/isa/44.24?lang=eng#23); see
+[Isa. 40-45](/scriptures/ot/isa/40?lang=eng)). Jeremiah, Zechariah, Job,
+Moses, and others of the prophets had revealed to them the Christ and that He
+would come to provide the way for all of us to return to our Father in Heaven.
+These prophets left their witnesses for us to study and to pray about and to
+receive our own testimony of the "looked for" Savior of the Old Testament.
 
 My friend, the world waited for the Savior, not knowing fully what He would
 do. And then came that long-awaited day when He came to the earth as the babe
@@ -70,15 +66,15 @@ earth to redeem all mankind from death.
 
 While here upon the earth those short years, He fulfilled His ministry,
 saying, "I am the way, the truth, and the life" ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5)); and by
-acknowledging that He was sent to do the work of His Father in Heaven, and
-fulfilling all righteousness--He would Himself be baptized by one whom He
-acknowledged to be a prophet, even John the Baptist. He gave a special power,
-the gift of the Holy Ghost, to all who would follow Him and be baptized, which
-would, He said, be a Comforter, would guide to all truth, would teach all
-things, would bring all things to our remembrance, would show us all things to
-come, and would be a witness, and testify of Him. (See [John
-14-16](https://www.lds.org/scriptures/nt/john/14.title?lang=eng).)
+14:6](/scriptures/nt/john/14.6?lang=eng#5)); and by acknowledging that He was
+sent to do the work of His Father in Heaven, and fulfilling all righteousness
+--He would Himself be baptized by one whom He acknowledged to be a prophet,
+even John the Baptist. He gave a special power, the gift of the Holy Ghost, to
+all who would follow Him and be baptized, which would, He said, be a
+Comforter, would guide to all truth, would teach all things, would bring all
+things to our remembrance, would show us all things to come, and would be a
+witness, and testify of Him. (See [John
+14-16](/scriptures/nt/john/14?lang=eng).)
 
 He also called Apostles and prophets and others and gave them authority to act
 in His name. He established His church to serve as a refuge from the world,
@@ -104,17 +100,15 @@ standards, and ordinances by which mankind could be blessed eternally.
 Ken, when Jesus was in Palestine, He said, "And other sheep I have, which are
 not of this fold: them also I must bring, and they shall hear my voice; and
 there shall be one fold, and one shepherd." ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).) And
-following His resurrection, He visited some of the other sheep on the American
-continent and again established and provided the witnesses as He had done in
-Palestine.
+10:16](/scriptures/nt/john/10.16?lang=eng#15).) And following His
+resurrection, He visited some of the other sheep on the American continent and
+again established and provided the witnesses as He had done in Palestine.
 
 When He came among them, He said, "And behold, I am the light and the life of
-the world." ([3 Ne.
-11:11](https://www.lds.org/scriptures/bofm/3-ne/11.11?lang=eng#10).) "Behold,
+the world." ([3 Ne. 11:11](/scriptures/bofm/3-ne/11.11?lang=eng#10).) "Behold,
 I am Jesus Christ, whom the prophets [including those who lived on the
 American continent] testified shall come into the world." ([3 Ne.
-11:10](https://www.lds.org/scriptures/bofm/3-ne/11.10?lang=eng#9).)
+11:10](/scriptures/bofm/3-ne/11.10?lang=eng#9).)
 
 He established the Church among them. He gave the priesthood and the
 ordinances of baptism and again the gift of the Holy Ghost to all who would
@@ -129,7 +123,7 @@ witness of the power of the Savior to cause people to live in peace and unity
 and receive His blessings. Listen to a recorded account of a very special
 witness, the Book of Mormon:
 
-"And it came to pass ... , the people were all converted unto the Lord, upon all
+"And it came to pass ..., the people were all converted unto the Lord, upon all
 the face of the land, ... and there were no contentions and disputations among
 them, and every man did deal justly one with another. ...
 
@@ -141,7 +135,7 @@ been created by the hand of God.
 
 "[And all of this] because of the love of God which did dwell in the hearts of
 the people." ([4 Ne. 1:2, 12, 16,
-15](https://www.lds.org/scriptures/bofm/4-ne/1.2%2C12%2C16%2C15?lang=eng#1).)
+15](/scriptures/bofm/4-ne/1.2,12,16,15?lang=eng#1).)
 
 My friend, what powerful witnesses Jesus gave those few short years upon the
 earth. But, unfortunately, man would ultimately change His truths, His church,
@@ -152,18 +146,16 @@ _witnesses again._
 
 Joseph read in the New Testament, "If any of you lack wisdom, let him ask of
 God, that giveth to all men liberally, ... and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) Joseph then, in
-sincere faith in this promise of the Lord, went and poured his soul out to
-God. And the heavens opened, and two heavenly beings descended and stood in
-the air above him.
+1:5](/scriptures/nt/james/1.5?lang=eng#4).) Joseph then, in sincere faith in
+this promise of the Lord, went and poured his soul out to God. And the heavens
+opened, and two heavenly beings descended and stood in the air above him.
 
 And Joseph said, "I saw two Personages, whose brightness and glory defy all
 description, standing above me in the air. One of them spake unto me, calling
 me by name and said, pointing to the other--_This is My Beloved Son. Hear
-Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) And so the
-Lord Jesus Christ spoke to the young man and ushered in the witnesses that
-would bring us back to the knowledge once again.
+Him!_" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) And so the Lord
+Jesus Christ spoke to the young man and ushered in the witnesses that would
+bring us back to the knowledge once again.
 
 Ken, the heavens were opened, not just for Joseph Smith, Jr., but for the
 whole world. This would usher in again all that He had established while He
@@ -197,4 +189,6 @@ won't you take that journey? I bear to you my solemn testimony that it is
 true. There are witnesses--the New and Old Testaments. There are Apostles and
 prophets upon this earth today. His church is upon this earth today, and I do
 so testify in the name of Jesus Christ, amen.
+
+## References
 

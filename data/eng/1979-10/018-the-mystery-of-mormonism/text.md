@@ -39,7 +39,7 @@ It is our hope that it may ever be said of us, as Peter avouched of the true
 believers in his day: "Ye are a chosen generation, a royal priesthood, an holy
 nation, a peculiar people; that ye should shew forth the praises of him who
 hath called you out of darkness into his marvellous light" ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)).
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)).
 
 Now out of a decent respect for the views and concerns of our fellowmen--
 Christian and non-Christian, Jew and Gentile alike--we shall set forth some of
@@ -86,7 +86,7 @@ for the sins of the world.
 Thus salvation is in Christ; it comes through his goodness and grace and
 because of his atoning sacrifice; he came "to bring to pass the immortality
 and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 He is our Savior and Redeemer. His was a ministry of mediation and of
 reconciliation; he brought to pass the great and eternal plan of redemption.
@@ -103,8 +103,7 @@ Thereafter, guided by that holy monitor, we must walk in the light, keep the
 commandments, and overcome the world. Such is the plan of salvation for all
 men in all ages. Such is the plan that has been revealed from age to age so
 that fallen man might work out his salvation with fear and trembling before
-the Lord (see [Philip.
-2:12](https://www.lds.org/scriptures/nt/philip/2.12?lang=eng#11)).
+the Lord (see [Philip. 2:12](/scriptures/nt/philip/2.12?lang=eng#11)).
 
 And now--hear it, O ye heavens, and give ear, O earth--the great God, who is
 Father to us all, who loves all his children, and who pleads with all men to
@@ -120,9 +119,9 @@ dispensation, so in our day the Son becomes his voice and witness and
 revealer.
 
 _"This is My Beloved Son. Hear Him!"_ the Father said in the spring of 1820
-([JS--H 1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)). From
-that moment the divine word pours forth; line upon line, precept upon precept,
-as rapidly as the Saints are able to receive it.
+([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)). From that moment the
+divine word pours forth; line upon line, precept upon precept, as rapidly as
+the Saints are able to receive it.
 
 The Book of Mormon is revealed, translated, and published to the world by the
 gift and power of God. The truths in the Bible are reaffirmed and new
@@ -145,8 +144,7 @@ And so it has gone until the gospel has been restored in its everlasting
 fulness, until The Church of Jesus Christ of Latter-day Saints has been
 perfected, until the kingdom of God on earth has been established and is
 rolling forth, clear as the sun, fair as the moon, and terrible as an army
-with banners (see [Song
-6:10](https://www.lds.org/scriptures/ot/song/6.10?lang=eng#9)).
+with banners (see [Song 6:10](/scriptures/ot/song/6.10?lang=eng#9)).
 
 This holy gospel is for the salvation of the living and the dead. They with us
 may become heirs of salvation when they believe and obey in that eternal
@@ -205,4 +203,6 @@ they may gain peace in this life and be inheritors of eternal life in the
 world to come.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

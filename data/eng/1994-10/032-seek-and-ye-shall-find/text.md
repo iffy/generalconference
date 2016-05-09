@@ -35,8 +35,8 @@ As we have witnessed the transition of leadership from President Benson to
 President Hunter, it is clear this is a church of order. Jesus Christ has
 established the order of things on this earth. We need not worry, for he has
 told us, "Let your hearts be comforted concerning Zion; for all flesh is in
-mine hands; be still and know that I am God" ([D&amp;C
-101:16](https://www.lds.org/scriptures/dc-testament/dc/101.16?lang=eng#15)).
+mine hands; be still and know that I am God" ([D&amp;C 101:16](/scriptures/dc-
+testament/dc/101.16?lang=eng#15)).
 
 Relief Society is a part of that order, for it is the Lord's organization for
 women. Our reach extends around the world, and our influence is vital for all
@@ -64,8 +64,8 @@ So many of you have written to me of your experiences, your trials, your
 triumphs, and your testimonies. I am grateful for your willingness to share
 what you have learned. What I have seen emerging is a profile of women who
 understand that "the Lord requireth the heart and a willing mind" ([D&amp;C
-64:34](https://www.lds.org/scriptures/dc-testament/dc/64.34?lang=eng#33)). Let
-me share some of these experiences with you, for they teach powerful lessons.
+64:34](/scriptures/dc-testament/dc/64.34?lang=eng#33)). Let me share some of
+these experiences with you, for they teach powerful lessons.
 
 A sister in New Mexico described trying to gain an understanding of a
 conference message: "I read and reread the talk, prayed often, and pondered
@@ -105,34 +105,34 @@ church, women are doing their part.
 
 The Lord has counseled us directly in this dispensation to seek the Spirit--to
 learn much--that we might "lay aside the things of this world, and seek for
-the things of a better" ([D&amp;C 25:10](https://www.lds.org/scriptures/dc-
+the things of a better" ([D&amp;C 25:10](/scriptures/dc-
 testament/dc/25.10?lang=eng#9)). I feel strongly that this is a clarion call
 for the women of this church at this time. For us to stand firm and faithful,
 we must be clearly focused on seeking the Lord.
 
 Seeking implies so much more than merely looking. _Seek_ means energy,
 direction, passion, purpose. To seek requires all our "heart, might, mind and
-strength" ([D&amp;C 4:2](https://www.lds.org/scriptures/dc-
-testament/dc/4.2?lang=eng#1)). We sisters are good at using our hearts and our
-hands in the Lord's work. But we must also use our minds. More than one
-hundred years ago, Relief Society President Emmeline B. Wells said, "I believe
-in women, especially thinking women" ("Why, Ah! Why" _Woman's Exponent,_ vol.
-3, Oct. 1, 1874, p. 67). So do I.
+strength" ([D&amp;C 4:2](/scriptures/dc-testament/dc/4.2?lang=eng#1)). We
+sisters are good at using our hearts and our hands in the Lord's work. But we
+must also use our minds. More than one hundred years ago, Relief Society
+President Emmeline B. Wells said, "I believe in women, especially thinking
+women" ("Why, Ah! Why" _Woman's Exponent,_ vol. 3, Oct. 1, 1874, p. 67). So do
+I.
 
 How do we seek with our minds? With our intellect we can ponder, we can
 analyze our circumstances, we can sort and sift information, weigh our
 options; we can store ideas, we can draw conclusions from our experiences,
 find answers to our problems; we can treasure thoughts and receive revelation.
 Isn't that what the Lord meant when he said, "You must study it out in your
-mind" and then ask me if these things are not true? ([D&amp;C
-9:8](https://www.lds.org/scriptures/dc-testament/dc/9.8?lang=eng#7).)
+mind" and then ask me if these things are not true? ([D&amp;C 9:8](/scriptures
+/dc-testament/dc/9.8?lang=eng#7).)
 
 This statement of the Prophet Joseph Smith inspires me: "Thy mind ... if thou
 wilt lead a soul unto salvation, must stretch as high as the utmost heavens"
 (_History of the Church,_ 3:295). We must stretch our minds if we are to reach
 that lofty goal so familiar to us all: "The glory of God is intelligence, or,
-in other words, light and truth" ([D&amp;C
-93:36](https://www.lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35)).
+in other words, light and truth" ([D&amp;C 93:36](/scriptures/dc-
+testament/dc/93.36?lang=eng#35)).
 
 As we earnestly seek light and truth, we develop clarity in our lives that
 reflects spiritual understanding and commitment. This clarity results as we
@@ -142,10 +142,9 @@ personal inspiration from the Holy Spirit. We have been promised:
 "Whatever principle of intelligence we attain ... in this life, it will rise
 with us in the resurrection.
 
-"And if a person gains more knowledge ... in this life through his diligence ... ,
+"And if a person gains more knowledge ... in this life through his diligence ...,
 he will have so much the advantage in the world to come" ([D&amp;C
-130:18-19](https://www.lds.org/scriptures/dc-
-testament/dc/130.18-19?lang=eng#17)).
+130:18-19](/scriptures/dc-testament/dc/130.18-19?lang=eng#17)).
 
 Learning--converting light and truth to everyday action in living the laws of
 God--is what we seek.
@@ -218,14 +217,14 @@ responsibility.
 
 We must seek to know Jesus Christ, for this is knowledge that is singular and
 everlasting. Jesus told us explicitly, "Draw near unto me and I will draw near
-unto you; seek me diligently" ([D&amp;C 88:63](https://www.lds.org/scriptures
-/dc-testament/dc/88.63?lang=eng#62)). Sisters, if I could offer but two words
-of counsel, they would be "Seek Jesus!" Moroni counseled, "Seek this Jesus of
+unto you; seek me diligently" ([D&amp;C 88:63](/scriptures/dc-
+testament/dc/88.63?lang=eng#62)). Sisters, if I could offer but two words of
+counsel, they would be "Seek Jesus!" Moroni counseled, "Seek this Jesus of
 whom the prophets and apostles have written, that the grace of God the Father,
 and also the Lord Jesus Christ, and the Holy Ghost, which beareth record of
 them, may be and abide in you forever" ([Ether
-12:41](https://www.lds.org/scriptures/bofm/ether/12.41?lang=eng#40)). What a
-promise, and what a challenge!
+12:41](/scriptures/bofm/ether/12.41?lang=eng#40)). What a promise, and what a
+challenge!
 
 Seeking Jesus feeds our spiritual soul and at the same time prompts us to feed
 others. We do it in small ways, and these efforts make a big difference.
@@ -244,4 +243,6 @@ Father. They will give us the knowledge and strength to live our lives with
 hope, courage, and faith. May the shared sisterhood of Relief Society,
 established by the Lord through a prophet, bless and sustain the women of this
 church, I pray, in the name of Jesus Christ, amen.
+
+## References
 

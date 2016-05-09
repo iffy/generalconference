@@ -5,18 +5,18 @@ women in the world sat down together to pray, sing, and speak to each other
 the feelings of our hearts--to share in the ways the Lord has blessed us as
 women and as members of His Church.
 
-"Lift up your hearts and rejoice" (see [D&amp;C
-25:13](https://www.lds.org/scriptures/dc-testament/dc/25.13?lang=eng#12)), the
-Lord tells us, and we do rejoice. Relief Society is 150 years old. But today,
-we feel new and vibrant. We are full of expectations for our sisters
-everywhere, from the Philippines to Japan, England to New Zealand, and Paris
-to St. Petersburg. Our individual lives, our circumstances, and our challenges
-are as diverse as the countries and cultures we come from. Yet our commitment
-is the same. Today, we can all rejoice in being women in The Church of Jesus
-Christ of Latter-day Saints. We are united in devotion to our Father in Heaven
-and in our desire to touch the lives of others. We serve as partners with our
-brethren in building the kingdom of God. We are women who have become a mighty
-force for good in a world that needs our understanding and our spirituality.
+"Lift up your hearts and rejoice" (see [D&amp;C 25:13](/scriptures/dc-
+testament/dc/25.13?lang=eng#12)), the Lord tells us, and we do rejoice. Relief
+Society is 150 years old. But today, we feel new and vibrant. We are full of
+expectations for our sisters everywhere, from the Philippines to Japan,
+England to New Zealand, and Paris to St. Petersburg. Our individual lives, our
+circumstances, and our challenges are as diverse as the countries and cultures
+we come from. Yet our commitment is the same. Today, we can all rejoice in
+being women in The Church of Jesus Christ of Latter-day Saints. We are united
+in devotion to our Father in Heaven and in our desire to touch the lives of
+others. We serve as partners with our brethren in building the kingdom of God.
+We are women who have become a mighty force for good in a world that needs our
+understanding and our spirituality.
 
 One hundred and fifty years ago, sisters in Nauvoo, Illinois, the city called
 Beautiful, felt a need to be organized. They desired, as we do now, to be a
@@ -32,7 +32,7 @@ tended homes and fertile acres, was a pattern for Zion, a place where the
 people could be of one heart. Like the Nephite people so many years earlier,
 they wanted to "come into the fold of God, and to be called his people, ...
 willing to bear one another's burdens, that they may be light." ([Mosiah
-18:8](https://www.lds.org/scriptures/bofm/mosiah/18.8?lang=eng#7).)
+18:8](/scriptures/bofm/mosiah/18.8?lang=eng#7).)
 
 It was in this spirit that Relief Society was born when a handful of women
 gathered in Joseph Smith's red brick store to unite their strength. First
@@ -52,9 +52,8 @@ from on high.
 
 Those Saints responded to the needs of their day. I am certain that their
 strength came from their ability to step forward with a resounding "Here am I,
-send me." ([Abr.
-3:27](https://www.lds.org/scriptures/pgp/abr/3.27?lang=eng#26).) Then they
-were off on the Lord's errand.
+send me." ([Abr. 3:27](/scriptures/pgp/abr/3.27?lang=eng#26).) Then they were
+off on the Lord's errand.
 
 One of the youngest women in attendance at the first meeting of sisters was
 Bathsheba Smith, who served many years later as the fourth general president
@@ -75,10 +74,9 @@ by automobile. Over the decades and across continents, women have learned to
 value their faith and religion above comfort and personal priorities.
 
 Our sisters are steadfast, always abounding in good works. (See [1 Cor.
-15:58](https://www.lds.org/scriptures/nt/1-cor/15.58?lang=eng#57).) They
-understand that the commandment is to develop an attitude as well as to
-undertake an action. "Be steadfast" ([D&amp;C
-31:9](https://www.lds.org/scriptures/dc-
+15:58](/scriptures/nt/1-cor/15.58?lang=eng#57).) They understand that the
+commandment is to develop an attitude as well as to undertake an action. "Be
+steadfast" ([D&amp;C 31:9](/scriptures/dc-
 testament/dc/31.9?lang=eng#8))--immovable in righteousness, humble, caring,
 clever, kind, generous, thoughtful, dignified, gentle, diligent, direct. Women
 have such depth and such ability!
@@ -92,15 +90,14 @@ He will help us learn what it is and give us joy in doing it.
 The experiences of women in Nauvoo and in every Relief Society throughout the
 Church prove that women individually can be a great force. Alma described the
 value of our contribution, stating, "By small and simple things are great
-things brought to pass." ([Alma
-37:6](https://www.lds.org/scriptures/bofm/alma/37.6?lang=eng#5).) Women's
-lives are full of small and simple things--discussions about how the day was,
-visits to schools, laughter at a homemade joke, work in its many forms,
-playing with children, trips to the doctor, tending the garden, cooking meals,
-teaching a lesson in church, helping a neighbor, serving a community group,
-sharing a lesson learned with a sister. Small and simple things that define
-relationships and build testimonies. Small and simple things that grow strong
-men and women.
+things brought to pass." ([Alma 37:6](/scriptures/bofm/alma/37.6?lang=eng#5).)
+Women's lives are full of small and simple things--discussions about how the
+day was, visits to schools, laughter at a homemade joke, work in its many
+forms, playing with children, trips to the doctor, tending the garden, cooking
+meals, teaching a lesson in church, helping a neighbor, serving a community
+group, sharing a lesson learned with a sister. Small and simple things that
+define relationships and build testimonies. Small and simple things that grow
+strong men and women.
 
 When we first organized as a sisterhood in Nauvoo, the Prophet Joseph Smith
 declared, "This is the beginning of better days." (_History of the Church,_
@@ -144,9 +141,8 @@ clap for joy, and find that mortality teaches us our need for our Savior,
 Jesus Christ.
 
 The Lord has told us, "Be glad, for I am in your midst." ([D&amp;C
-29:5](https://www.lds.org/scriptures/dc-testament/dc/29.5?lang=eng#4).) He is
-with all of us, and His spirit draws us closer as we link arms together in our
-gospel sisterhood.
+29:5](/scriptures/dc-testament/dc/29.5?lang=eng#4).) He is with all of us, and
+His spirit draws us closer as we link arms together in our gospel sisterhood.
 
 As sisters in Zion, we still have pressing calls. We have calls to teach the
 gospel, to lift our families, to bless our neighbors, to aid our friends, to
@@ -154,4 +150,6 @@ live by example, to share our understanding with others, and to bring souls
 unto Christ by the way we live and the way we love one another.
 
 Yes, as sisters in Zion, we are going to do something extraordinary.
+
+## References
 

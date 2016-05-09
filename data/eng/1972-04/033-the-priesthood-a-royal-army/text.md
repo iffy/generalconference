@@ -1,4 +1,4 @@
-# The Priesthood: A Royal Army
+# The Priesthood:A Royal Army
 
 As I try to envision the large body of priesthood present in this building and
 other different buildings throughout the Church, it makes me appreciate more
@@ -45,7 +45,7 @@ believed on him; but because of the Pharisees they did not confess him, lest
 they should be put out of the synagogue:
 
 "For they loved the praise of men more than the praise of God." ([John
-12:42-43](https://www.lds.org/scriptures/nt/john/12.42-43?lang=eng#41).)
+12:42-43](/scriptures/nt/john/12.42-43?lang=eng#41).)
 
 I would like to say to the young men who are listening in tonight (I wish I
 could talk to every young man who holds the priesthood, if it could be
@@ -148,9 +148,11 @@ gain a testimony for yourselves, the greatest blessing one can enjoy.
 
 "... this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 May we honor our priesthood and enjoy the blessings that it affords and do our
 part to help in bringing to pass the immortality and eternal life of man, I
 humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

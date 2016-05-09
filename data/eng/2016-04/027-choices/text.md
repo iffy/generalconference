@@ -56,3 +56,7 @@ choice.
 That this may ever be so is my heartfelt and humble prayer in the name of
 Jesus Christ, our Lord and Savior, amen.
 
+## References
+
+  1. Adapted from Lewis Carroll, _Alice's Adventures in Wonderland_ (1898), 89.
+

@@ -4,13 +4,13 @@ How I pray for the Spirit of the Lord to continue to be with all of us, as it
 has been thus far.
 
 The injunction from God to "Remember the sabbath day, to keep it holy" ([Ex.
-20:8](https://www.lds.org/scriptures/ot/ex/20.8?lang=eng#7)) has been in force
-throughout human history. There is power in keeping the Sabbath day holy. I
-testify that God lives, that we are his children, that he loves us, and that
-he gives us commandments so he can bless us as we keep them and thereby have
-joy. As we keep the Sabbath day holy he will bless us, and we will achieve a
-quiet power for good as individuals, as families, and as nations, that we
-cannot obtain in any other way.
+20:8](/scriptures/ot/ex/20.8?lang=eng#7)) has been in force throughout human
+history. There is power in keeping the Sabbath day holy. I testify that God
+lives, that we are his children, that he loves us, and that he gives us
+commandments so he can bless us as we keep them and thereby have joy. As we
+keep the Sabbath day holy he will bless us, and we will achieve a quiet power
+for good as individuals, as families, and as nations, that we cannot obtain in
+any other way.
 
 Let me give two examples:
 
@@ -209,4 +209,6 @@ challenged as to why (even by ourselves), be able--through obedience and the
 confidence of the Spirit--to say in our own way, "For I have been through
 Cache Valley on a Sunday afternoon," I do humbly pray in the name of our
 Savior, who lives. I know he lives, even Jesus Christ, amen.
+
+## References
 

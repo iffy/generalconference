@@ -46,18 +46,18 @@ We must govern our actions every day with our future in mind.
 One of Satan's clever tactics is to tempt us to concentrate on the present and
 ignore the future. The Lord warned Joseph Smith that "Satan seeketh to turn
 their hearts away from the truth, that they become blinded and understand not
-the things which are prepared for them." ([D&amp;C
-78:10](https://www.lds.org/scriptures/dc-testament/dc/78.10?lang=eng#9).) The
-"things which are prepared for them" are the promised rewards of eternal life,
-which come as a result of obedience. The devil attempts to blind us to these
-rewards. President Heber J. Grant said that "if we are faithful in keeping the
-commandments of God His promises will be fulfilled to the very letter. ... The
-trouble is, the adversary of men's souls blinds their minds. He throws dust,
-so to speak, in their eyes, and they are blinded with the things of this
-world." (_Gospel Standards,_ Salt Lake City: Improvement Era, 1942, pp.
-44-45.) He tempts us with the transitory pleasures of the world so that we
-will not focus our minds and efforts on the things that bring eternal joy. The
-devil is a dirty fighter, and we must be aware of his tactics.
+the things which are prepared for them." ([D&amp;C 78:10](/scriptures/dc-
+testament/dc/78.10?lang=eng#9).) The "things which are prepared for them" are
+the promised rewards of eternal life, which come as a result of obedience. The
+devil attempts to blind us to these rewards. President Heber J. Grant said
+that "if we are faithful in keeping the commandments of God His promises will
+be fulfilled to the very letter. ... The trouble is, the adversary of men's
+souls blinds their minds. He throws dust, so to speak, in their eyes, and they
+are blinded with the things of this world." (_Gospel Standards,_ Salt Lake
+City: Improvement Era, 1942, pp. 44-45.) He tempts us with the transitory
+pleasures of the world so that we will not focus our minds and efforts on the
+things that bring eternal joy. The devil is a dirty fighter, and we must be
+aware of his tactics.
 
 Recently I talked with several groups of young men and women in Utah and
 Idaho. They told me that some of our youth feel that they can be immoral
@@ -71,10 +71,9 @@ Young men, please believe me when I tell you that this scenario is a gross
 deception by Satan; it is a fairy tale. Sin will always, _always,_ result in
 suffering. It may come sooner, or it may come later, but it will come. The
 scriptures state that you will "stand with shame and awful guilt before the
-bar of God" ([Jacob
-6:9](https://www.lds.org/scriptures/bofm/jacob/6.9?lang=eng#8)) and that you
+bar of God" ([Jacob 6:9](/scriptures/bofm/jacob/6.9?lang=eng#8)) and that you
 will experience "a lively sense of ... guilt, and pain, and anguish." ([Mosiah
-2:38](https://www.lds.org/scriptures/bofm/mosiah/2.38?lang=eng#37).)
+2:38](/scriptures/bofm/mosiah/2.38?lang=eng#37).)
 
 A related misconception is that repentance is easy. President Kimball said
 that "one has not begun to repent until he has suffered intensely for his
@@ -90,10 +89,9 @@ some sort of macho image. For the young women, it may be the need to feel they
 are accepted by having a boyfriend. Acceptance by your peers must not come at
 the expense of your virtue and self-esteem. King Benjamin indicates that those
 guilty of sin will "shrink from the presence of the Lord." ([Mosiah
-2:38](https://www.lds.org/scriptures/bofm/mosiah/2.38?lang=eng#37).) In a very
-real way, those who have been immoral shrink from the presence of others:
-their friends, their parents, other members of their family, and Church
-leaders.
+2:38](/scriptures/bofm/mosiah/2.38?lang=eng#37).) In a very real way, those
+who have been immoral shrink from the presence of others: their friends, their
+parents, other members of their family, and Church leaders.
 
 Now, let us consider the grand blessings the Lord has promised those who are
 obedient to the commandment to be morally clean. You never need to repent of a
@@ -110,7 +108,7 @@ state of those that keep the commandments of God. For behold, they are blessed
 in all things, both temporal and spiritual; and if they hold out faithful to
 the end they are received into heaven, that thereby they may dwell with God in
 a state of never-ending happiness." ([Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40).)
+2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40).)
 
 The youth told me that a clean conscience improves their self-esteem. Their
 relationships with others are better, and they enjoy a very positive
@@ -122,9 +120,9 @@ Here are some suggestions that will help you stay morally clean.
 
 First, understand the standards of moral cleanliness. The Lord said concerning
 his commandments, "I give unto you directions how you may act before me, that
-it may turn to you for your salvation." ([D&amp;C
-82:9](https://www.lds.org/scriptures/dc-testament/dc/82.9?lang=eng#8).) In
-other words, commandments are guidance for happy living.
+it may turn to you for your salvation." ([D&amp;C 82:9](/scriptures/dc-
+testament/dc/82.9?lang=eng#8).) In other words, commandments are guidance for
+happy living.
 
 Our youth seem confused about the definition of moral cleanliness. Some young
 men and women take a certain definition and then push it to its limits to see
@@ -151,14 +149,13 @@ Second, once you understand the standards, you must determine that you will
 live by them. This kind of commitment is a fundamental gospel principle. The
 scriptures teach that "there is nothing that the Lord thy God shall take in
 his heart to do but what he will do it." ([Abr.
-3:17](https://www.lds.org/scriptures/pgp/abr/3.17?lang=eng#16).) You must be
-the same way. You must be as Joseph who fled from the presence of Potiphar's
-wife rather than sin against God. (See [Gen.
-39:7-12](https://www.lds.org/scriptures/ot/gen/39.7-12?lang=eng#6).) You must
-avoid moral misconduct by making a firm decision to avoid compromising
-situations and to stand firm for what is right. You must have self-control and
-high goals. I urge every one of you tonight to set a goal to be morally clean,
-if you have not already done so.
+3:17](/scriptures/pgp/abr/3.17?lang=eng#16).) You must be the same way. You
+must be as Joseph who fled from the presence of Potiphar's wife rather than
+sin against God. (See [Gen. 39:7-12](/scriptures/ot/gen/39.7-12?lang=eng#6).)
+You must avoid moral misconduct by making a firm decision to avoid
+compromising situations and to stand firm for what is right. You must have
+self-control and high goals. I urge every one of you tonight to set a goal to
+be morally clean, if you have not already done so.
 
 Third, while you must exercise your agency and bear the responsibility for
 your decisions, you need not face temptation alone. Just two weeks ago at a
@@ -227,17 +224,17 @@ equal rights, the young women want you to extend these simple courtesies.
 Finally, seek help from the Lord, the source of spiritual power. If you "call
 on his holy name, and watch and pray continually," you will "not be tempted
 above that which ye can bear." ([Alma
-13:28](https://www.lds.org/scriptures/bofm/alma/13.28?lang=eng#27).) Your
-daily prayers must include a heartfelt request for help in keeping your
-commitment to remain morally clean. When you do this, the Lord will bless you
-with the strength to remain morally clean.
+13:28](/scriptures/bofm/alma/13.28?lang=eng#27).) Your daily prayers must
+include a heartfelt request for help in keeping your commitment to remain
+morally clean. When you do this, the Lord will bless you with the strength to
+remain morally clean.
 
 Remember, young men, that purity precedes power. The Lord said, "But purify
 your hearts before me; and then go ye into all the world, and preach my gospel
-unto every creature who has not received it." ([D&amp;C
-112:28](https://www.lds.org/scriptures/dc-testament/dc/112.28?lang=eng#27).)
-Missionaries discover this very early in their missions and make every effort
-to be worthy so they can serve with power.
+unto every creature who has not received it." ([D&amp;C 112:28](/scriptures
+/dc-testament/dc/112.28?lang=eng#27).) Missionaries discover this very early
+in their missions and make every effort to be worthy so they can serve with
+power.
 
 Now, just a word to those of you who have violated the moral law. I hold out
 the hope of repentance to you. The Savior's atonement provides forgiveness
@@ -247,11 +244,10 @@ you through the process of repentance, so talk to him as soon as possible. You
 must also seek divine forgiveness through your personal prayers. Alma said,
 "Never, until I did cry out unto the Lord Jesus Christ for mercy, did I
 receive a remission of my sins. But behold, I did cry unto him and I did find
-peace to my soul." ([Alma
-38:8](https://www.lds.org/scriptures/bofm/alma/38.8?lang=eng#7).) Once you
-have forsaken your sins, never return to them, because "unto that soul who
-sinneth shall the former sins return." ([D&amp;C
-82:7](https://www.lds.org/scriptures/dc-testament/dc/82.7?lang=eng#6).)
+peace to my soul." ([Alma 38:8](/scriptures/bofm/alma/38.8?lang=eng#7).) Once
+you have forsaken your sins, never return to them, because "unto that soul who
+sinneth shall the former sins return." ([D&amp;C 82:7](/scriptures/dc-
+testament/dc/82.7?lang=eng#6).)
 
 Tonight, I echo the prayer offered by President Hugh B. Brown in a setting
 such as this more than twenty years ago, when the moral misconduct of youth
@@ -265,4 +261,6 @@ Brethren, we need not fear the future if we will keep the Lord's commandments
 and live to be his worthy servants. You can stay morally clean and prepare now
 for a happy future. May the Lord bless every one of you to so live I humbly
 pray in the name of Jesus Christ, amen.
+
+## References
 

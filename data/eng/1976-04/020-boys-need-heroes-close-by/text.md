@@ -8,7 +8,7 @@ six or eight or ten, and they have enjoyed this meeting together.
 
 This prompted my reading some lines that you may have heard before:
 
-_Only a Dad_
+**_Only a Dad_**
 
 _... But the Best of Men._
 
@@ -200,10 +200,9 @@ in each case. If we are truly converted, we will also want to provide for our
 own in the fullness of what welfare service means.
 
 When the Savior said, "When thou art converted, strengthen the brethren"
-([Luke 22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31)), he
-was reminding us not only of an obligation we have, but also of the reality
-that we really can't strengthen our brethren much until we are personally
-converted.
+([Luke 22:32](/scriptures/nt/luke/22.32?lang=eng#31)), he was reminding us not
+only of an obligation we have, but also of the reality that we really can't
+strengthen our brethren much until we are personally converted.
 
 No father, no son, no mother, no daughter should get so busy that he or she
 does not have time to study the scriptures and the words of modern prophets.
@@ -251,4 +250,6 @@ The Lord bless you as you grow year by year to receive the inspiration of the
 Lord to be able to pass on the glorious blessings of the gospel.
 
 And this, my dear beloved brethren, I pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -13,7 +13,7 @@ In one of the early revelations to the Prophet Joseph Smith the Lord said: "If
 thou wilt do good, yea, and hold out faithful to the end, thou shalt be saved
 in the kingdom of God, which is the greatest of all the gifts of God; for
 there is no gift greater than the gift of salvation." ([D&amp;C
-6:13](https://www.lds.org/scriptures/dc-testament/dc/6.13?lang=eng#12).)
+6:13](/scriptures/dc-testament/dc/6.13?lang=eng#12).)
 
 Now salvation, which is the greatest blessing any man can receive, comes by
 obedience to the laws of the gospel; and the gospel is administered by the
@@ -30,9 +30,9 @@ their lives.
 
 We receive the Melchizedek Priesthood by covenant. We promise to magnify our
 callings and to live "by every word that proceedeth out of the mouth of God."
-([Matt. 4:4](https://www.lds.org/scriptures/nt/matt/4.4?lang=eng#3).) The Lord
-promises us that if we will do these things, we shall gain exaltation in the
-highest heaven of the celestial world.
+([Matt. 4:4](/scriptures/nt/matt/4.4?lang=eng#3).) The Lord promises us that
+if we will do these things, we shall gain exaltation in the highest heaven of
+the celestial world.
 
 Marriage for time and for all eternity is an "order of the priesthood," in
 which the participating parties are promised kingdoms and thrones if they are
@@ -81,4 +81,6 @@ I wish to express my appreciation and my willingness to join with you, my good
 brethren, and do all that is possible to bring salvation to every soul
 throughout the world who is willing to repent, and I say this in the name of
 the Lord Jesus Christ. Amen.
+
+## References
 

@@ -24,27 +24,27 @@ own image and gave him dominion over the earth. By the side of man stood the
 woman, sharing with him the divinely bestowed honor and dignity of supremacy
 over all other creations. God said, "It is not good that the man should be
 alone; I will make him an help meet for him." ([Gen.
-2:18](https://www.lds.org/scriptures/ot/gen/2.18?lang=eng#17).)
+2:18](/scriptures/ot/gen/2.18?lang=eng#17).)
 
 "In the image of God created he him; male and female created he them." ([Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26).)
+1:27](/scriptures/ot/gen/1.27?lang=eng#26).)
 
 The Lord also instructed, "Therefore shall a man leave his father and his
 mother, and shall cleave unto his wife: and they shall be one flesh" ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23)), thereby giving
-sanction to the union of male and female in authorized marriage, which is
-heaven-planned for the creation of mortal bodies.
+2:24](/scriptures/ot/gen/2.24?lang=eng#23)), thereby giving sanction to the
+union of male and female in authorized marriage, which is heaven-planned for
+the creation of mortal bodies.
 
 The earliest recorded commandment to Adam and Eve was to "be fruitful, and
 multiply, and replenish the earth." ([Gen.
-1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27).)
+1:28](/scriptures/ot/gen/1.28?lang=eng#27).)
 
 We regard children as gifts from God, committed to our care for loving,
 nurturing, and careful training.
 
 The Lord also instructed, "And they shall also teach their children to pray,
-and to walk uprightly before the Lord." ([D&amp;C
-68:28](https://www.lds.org/scriptures/dc-testament/dc/68.28?lang=eng#27).)
+and to walk uprightly before the Lord." ([D&amp;C 68:28](/scriptures/dc-
+testament/dc/68.28?lang=eng#27).)
 
 They are not to be mistreated or abused, for, with their parents, they are
 part of a family with the potential of eternal relationship.
@@ -65,9 +65,9 @@ relationship between a husband and wife.
 
 As we contemplate our Lord's declaration to Moses, "This is my work and my
 glory--to bring to pass the immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)), we reflect
-with sadness upon the present serious trend of families and homes being torn
-apart through divorce.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)), we reflect with sadness upon
+the present serious trend of families and homes being torn apart through
+divorce.
 
 It would seem that a major underlying cause of divorce is in not understanding
 that marriage and families are God-given and God-ordained. If we understood
@@ -167,25 +167,23 @@ thy covenant. ...
 
 "Therefore take heed to your spirit, and let none deal treacherously against
 the wife of his youth." ([Mal.
-2:14-15](https://www.lds.org/scriptures/ot/mal/2.14-15?lang=eng#13).)
+2:14-15](/scriptures/ot/mal/2.14-15?lang=eng#13).)
 
 Marriage is a covenant. Two of the Ten Commandments deal directly with
 preserving the sanctity of marriage: "Thou shalt not commit adultery," and
 "Thou shalt not covet thy neighbour's wife." ([Ex. 20:14,
-17](https://www.lds.org/scriptures/ot/ex/20.14%2C17?lang=eng#13).)
+17](/scriptures/ot/ex/20.14,17?lang=eng#13).)
 
 Jesus magnified the law against adultery: "But I say unto you, That whosoever
 looketh on a woman to lust after her hath committed adultery with her already
-in his heart." ([Matt.
-5:28](https://www.lds.org/scriptures/nt/matt/5.28?lang=eng#27).)
+in his heart." ([Matt. 5:28](/scriptures/nt/matt/5.28?lang=eng#27).)
 
 The ideal marriage is the faithfulness of a man and a woman to each other, a
 faithfulness that began when each had chosen the other. In Proverbs we read,
 "Let thy fountain be blessed: and rejoice with the wife of thy youth." ([Prov.
-5:18](https://www.lds.org/scriptures/ot/prov/5.18?lang=eng#17).) Let her
-affection fill you at all times with delight, and be infatuated always with
-her love. (See [Prov.
-5:19](https://www.lds.org/scriptures/ot/prov/5.19?lang=eng#18).)
+5:18](/scriptures/ot/prov/5.18?lang=eng#17).) Let her affection fill you at
+all times with delight, and be infatuated always with her love. (See [Prov.
+5:19](/scriptures/ot/prov/5.19?lang=eng#18).)
 
 It is a privilege indeed to live our life with the wife of our youth, to enjoy
 the golden years together--neither objecting to the wrinkles nor the gray hair
@@ -203,7 +201,7 @@ A strong, shared conviction that there is something eternally precious about a
 marriage relationship builds faith to resist evil. Marriage should be
 beautiful and fulfilling, with joy beyond our fondest dreams, for "neither is
 the man without the woman, neither the woman without the man, in the Lord."
-([1 Cor. 11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10).)
+([1 Cor. 11:11](/scriptures/nt/1-cor/11.11?lang=eng#10).)
 
 Latter-day Saints need not divorce--there are solutions to marriage problems.
 If, as husband and wife, you are having serious misunderstandings or if you
@@ -214,6 +212,8 @@ receive the needed light, see your errors, repent of your wrongs, forgive each
 other, and receive each unto yourselves as you did in the beginning. I
 solemnly assure you that God lives and will answer your humble pleas, for he
 has said, "Ye shall ask whatsoever you will in the name of Jesus and it shall
-be done." ([D&amp;C 50:29](https://www.lds.org/scriptures/dc-
-testament/dc/50.29?lang=eng#28).) In the name of Jesus Christ, amen.
+be done." ([D&amp;C 50:29](/scriptures/dc-testament/dc/50.29?lang=eng#28).) In
+the name of Jesus Christ, amen.
+
+## References
 

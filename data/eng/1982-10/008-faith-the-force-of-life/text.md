@@ -83,17 +83,16 @@ and its experiences are designed to bring to us.
 The Lord has made available to us a power which will turn these challenges
 into opportunities, a power which will enable us to understand the Apostle
 Peter's declaration that such trials of our faith are indeed more precious
-than gold. (See [1 Pet.
-1:7](https://www.lds.org/scriptures/nt/1-pet/1.7?lang=eng#6).)
+than gold. (See [1 Pet. 1:7](/scriptures/nt/1-pet/1.7?lang=eng#6).)
 
 When I was teaching an early-morning seminary class a number of years ago, we
 paused at the end of the year to review some principles we had learned from
 our study of the Book of Mormon. One young lady held up an illustration in her
 Book of Mormon, painted by Arnold Friberg. It depicted the two thousand sons
 of Helaman known as the "stripling soldiers." (See [Alma
-53:22](https://www.lds.org/scriptures/bofm/alma/53.22?lang=eng#21).) Then in
-all seriousness she asked, "Tell me, Brother Pinegar, why aren't our young men
-built like this today?"
+53:22](/scriptures/bofm/alma/53.22?lang=eng#21).) Then in all seriousness she
+asked, "Tell me, Brother Pinegar, why aren't our young men built like this
+today?"
 
 Now, I don't know that the young men in the days of the Book of Mormon were
 built the way Arnold Friberg depicts them, but her question gave me the
@@ -101,12 +100,12 @@ opportunity to ask, "Where did the _strength_ of these young men come from?"
 
 Those of you who have read the Book of Mormon are familiar with the story of
 the sons of Helaman. (See [Alma
-53:56-58](https://www.lds.org/scriptures/bofm/alma/53.56-58?lang=eng#55).)
-When their fathers were converted to the gospel, the fathers covenanted with
-the Lord that they would never again take up arms. But eventually their homes
-were threatened by hostile armies to the extent that the fathers would have to
-choose to fight or die. It was then that the two thousand young men, not bound
-by the same covenant, volunteered to defend their parents and their homes.
+53:56-58](/scriptures/bofm/alma/53.56-58?lang=eng#55).) When their fathers
+were converted to the gospel, the fathers covenanted with the Lord that they
+would never again take up arms. But eventually their homes were threatened by
+hostile armies to the extent that the fathers would have to choose to fight or
+die. It was then that the two thousand young men, not bound by the same
+covenant, volunteered to defend their parents and their homes.
 
 A prophet-general described these young men by saying, "They were exceedingly
 valiant for courage, and also for strength and activity; but behold, this was
@@ -118,10 +117,8 @@ would deliver them. ...
 
 "And they ... fought as if with the strength of God; yea, never were men known
 to have fought with such miraculous strength; and with such mighty power."
-([Alma 53:20](https://www.lds.org/scriptures/bofm/alma/53.20?lang=eng#19);
-[Alma 56:47,
-56](https://www.lds.org/scriptures/bofm/alma/56.47%2C56?lang=eng#46); italics
-added.)
+([Alma 53:20](/scriptures/bofm/alma/53.20?lang=eng#19); [Alma 56:47,
+56](/scriptures/bofm/alma/56.47,56?lang=eng#46); italics added.)
 
 What gave the sons of Helaman their strength? Their faith in God was their
 "miraculous strength" and "mighty power."
@@ -200,8 +197,9 @@ by the ways or the praise of the world.
 
 May each of us develop faith in God sufficient to fight the battles of life
 victoriously "with the strength of God; yea, ... with [His] miraculous strength;
-and ... mighty power." ([Alma
-56:56](https://www.lds.org/scriptures/bofm/alma/56.56?lang=eng#55).) We will
-then find the happiness we so much desire in our lives. In the name of Jesus
-Christ, amen.
+and ... mighty power." ([Alma 56:56](/scriptures/bofm/alma/56.56?lang=eng#55).)
+We will then find the happiness we so much desire in our lives. In the name of
+Jesus Christ, amen.
+
+## References
 

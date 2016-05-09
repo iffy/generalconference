@@ -3,7 +3,7 @@
 My brothers and sisters; as a text for my remarks I would like to quote an
 interesting line from Ecclesiastes in which the wise man Solomon said, "My
 heart had great experience." ([Eccl.
-1:16](https://www.lds.org/scriptures/ot/eccl/1.16?lang=eng#15).)
+1:16](/scriptures/ot/eccl/1.16?lang=eng#15).)
 
 Certainly the most successful lives are those that have the most worthwhile
 experiences. The religion of Christ itself is not so much a set of ideas as it
@@ -208,4 +208,6 @@ And my wish for each one of you is that you may spend your eternal life in the
 celestial kingdom of God. Then you may say, "My heart hath had its greatest
 experience." And that it may be so, I humbly pray in the name of Jesus Christ.
 Amen.
+
+## References
 

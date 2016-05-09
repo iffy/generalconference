@@ -22,12 +22,12 @@ labor of his hands, to prepare and accomplish the things which I have
 commanded.
 
 "And let your preaching be the warning voice, every man to his neighbor, in
-mildness and in meekness." [[D&amp;C 38:40-41](https://www.lds.org/scriptures
-/dc-testament/dc/38.40-41?lang=eng#39)] It is evident to me that the Lord
-expects every man, _every man,_ to lift up his voice and preach the gospel of
-Jesus Christ in mildness and meekness. It is also clear that priesthood
-leaders throughout the Church have the responsibility to assist the members of
-the Church in fulfilling this missionary responsibility.
+mildness and in meekness." [[D&amp;C 38:40-41](/scriptures/dc-
+testament/dc/38.40-41?lang=eng#39)] It is evident to me that the Lord expects
+every man, _every man,_ to lift up his voice and preach the gospel of Jesus
+Christ in mildness and meekness. It is also clear that priesthood leaders
+throughout the Church have the responsibility to assist the members of the
+Church in fulfilling this missionary responsibility.
 
 Many members ask, "Elder Cook, it's easy to say, but how do I do it? What can
 I specifically do now to fulfill my missionary responsibility to warn my
@@ -73,8 +73,7 @@ tool?
 The Lord seemed to have this particular challenge to his members in mind when
 he gave to the prophet Alma, at the waters of Mormon, the baptismal covenant
 that every member of the Church takes upon himself, part of which reads as is
-recorded in [Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8), "Yea, and
+recorded in [Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8), "Yea, and
 are willing to mourn with those that mourn; yea, and comfort those that stand
 in need of comfort, and to stand as witnesses of God at all times and in all
 things, and in all places."
@@ -100,10 +99,10 @@ Did you notice that President Kimball said to _prayerfully_ select a family or
 families?
 
 I recall what the Lord said through Alma the Younger in [Alma
-6:6](https://www.lds.org/scriptures/bofm/alma/6.6?lang=eng#5). "Nevertheless
-the children of God were commanded that they should gather themselves together
-oft, and join in fasting and mighty prayer in behalf of the welfare of the
-souls of those who knew not God."
+6:6](/scriptures/bofm/alma/6.6?lang=eng#5). "Nevertheless the children of God
+were commanded that they should gather themselves together oft, and join in
+fasting and mighty prayer in behalf of the welfare of the souls of those who
+knew not God."
 
 Are you praying for those who, as Alma said, "knew not God"?
 
@@ -137,4 +136,6 @@ sisters, for us as members of the Church to lift our warning voice to all the
 inhabitants of the earth. May the Lord give us the power to accomplish this
 purpose as we, with full purpose of heart, obey him. I pray in the name of
 Jesus Christ. Amen.
+
+## References
 

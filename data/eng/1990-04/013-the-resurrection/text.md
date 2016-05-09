@@ -45,14 +45,13 @@ burial after the manner of the Jews. The kind, loving men placed the body of
 the deceased in a newly hewn tomb belonging to Joseph. Then a great stone was
 rolled across the entrance, and a Roman seal was placed upon it, "lest his
 disciples come by night, and steal him away, and say unto the people, He is
-risen from the dead." ([Matt.
-27:64](https://www.lds.org/scriptures/nt/matt/27.64?lang=eng#63).)
+risen from the dead." ([Matt. 27:64](/scriptures/nt/matt/27.64?lang=eng#63).)
 
 Now Mary Magdalene approached the tomb, but to her utter amazement the huge
 stone had been rolled away. The body of her beloved Jesus was gone. Quickly
 she ran to advise the Apostles of this new tragedy, saying, "They have taken
 away the Lord out of the sepulchre, and we know not where they have laid him."
-([John 20:2](https://www.lds.org/scriptures/nt/john/20.2?lang=eng#1).)
+([John 20:2](/scriptures/nt/john/20.2?lang=eng#1).)
 
 Peter, the chief Apostle, and John, the beloved Apostle, hurried to the place
 of burial. The account of Mary was confirmed. The tomb was indeed empty,
@@ -61,25 +60,24 @@ Apostles went away to their own homes.
 
 "But Mary," who had followed Peter and John back to the garden, "stood without
 at the sepulchre weeping: and as she wept, she stooped down, and looked into
-the sepulchre." ([John
-20:11](https://www.lds.org/scriptures/nt/john/20.11?lang=eng#10).) Two angels
-dressed in white sat within the tomb. Seeing her great grief they asked,
-"Woman, why weepest thou?" Sorrowfully, she answered them, "Because they have
-taken away my Lord, and I know not where they have laid him." ([John
-20:13](https://www.lds.org/scriptures/nt/john/20.13?lang=eng#12).)
+the sepulchre." ([John 20:11](/scriptures/nt/john/20.11?lang=eng#10).) Two
+angels dressed in white sat within the tomb. Seeing her great grief they
+asked, "Woman, why weepest thou?" Sorrowfully, she answered them, "Because
+they have taken away my Lord, and I know not where they have laid him." ([John
+20:13](/scriptures/nt/john/20.13?lang=eng#12).)
 
 Still weeping, Mary turned from the tomb, and through her misty eyes she
 noticed someone standing close by. The person spoke to her, "Woman, why
 weepest thou? whom seekest thou?" Thinking that perhaps it was the gardener
 who addressed her, she replied, "Sir, if thou have borne him hence, tell me
 where thou hast laid him, and I will take him away." ([John
-20:15](https://www.lds.org/scriptures/nt/john/20.15?lang=eng#14).)
+20:15](/scriptures/nt/john/20.15?lang=eng#14).)
 
 In a voice tinctured with pure love and the sweetest tenderness, he simply
 uttered one word, "Mary." There was no mistaking the voice; it was Jesus
 Christ. And thrilled beyond any comprehension, the dear woman could only say,
 "Rabboni," which means Master. (See [John
-20:16](https://www.lds.org/scriptures/nt/john/20.16?lang=eng#15).)
+20:16](/scriptures/nt/john/20.16?lang=eng#15).)
 
 There He stood--alive! Raised from the dead! Never to die again! His perfect
 body forever united with the spirit. The eternal Christ!
@@ -118,4 +116,6 @@ deeper forever.
 Such is my humble testimony of the glorious resurrection of the Lord Jesus
 Christ, which I proclaim to you along with my profound love for Him and each
 one of you. In the name of Jesus Christ, amen.
+
+## References
 

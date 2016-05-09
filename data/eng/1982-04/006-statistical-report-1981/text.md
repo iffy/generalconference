@@ -46,9 +46,9 @@ during 1981.)
 
 2,102  
   
-  |
+|
 
-Number of countries with organized wards or branches  
+Number ofcountries with organized wards or branches  
   
 Total membership at the close of 1981
 
@@ -245,4 +245,6 @@ counselor in the General Presidency of the Sunday School; Louise J. Lake,
 teacher of the handicapped and recipient of the President's Trophy for
 Handicapped American of the Year; and George S. Eccles, prominent banker and
 civic leader.
+
+## References
 

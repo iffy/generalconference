@@ -23,13 +23,13 @@ accidentally pushed a smaller boy into a muddy area away from the light.
 Terrified as he lost his footing, he screamed in the darkness. The ranger
 heard his cry of terror and came quickly. The boy let out another cry as the
 beam of the ranger's light showed that he was right on the very edge of the
-pit. [1]
+pit.[1]
 
 In this story, the boy was rescued. But this does not always happen. So many
 times young people are enticed to go to the very edge or even beyond it. With
 only a precarious toehold, it is easy to be seriously injured or even die.
 Life is too precious to throw away in the name of excitement, or, as Jacob
-said in the Book of Mormon, "looking beyond the mark." [2]
+said in the Book of Mormon, "looking beyond the mark."[2]
 
 You young people may think that you are indestructible and that you are going
 to live forever. In a few years you will learn that this is not so. Living on
@@ -61,7 +61,7 @@ priesthood of God. Each of us must take the responsibility for the moral
 decisions we make in life about how close we live to the edge. Lehi states:
 "And because that they are redeemed from the fall they have become free
 forever, knowing good from evil; to act for themselves and not to be acted
-upon." [3]  Being acted upon means somebody else is pulling the strings.
+upon."[3] Being acted upon means somebody else is pulling the strings.
 
 We live in a time when many want to avoid the responsibility for their acts.
 When I was a young lawyer, I was appointed by the judges to defend persons who
@@ -107,7 +107,7 @@ through and through!'
 "The man was surprised at his reply. He put the gun away, shook Joseph's hand,
 and said, 'Well, you are the pleasantest man I ever met! I'm glad to see a
 fellow stand up for his convictions.' He jumped back on his horse and rode off
-with his companions." [4]
+with his companions."[4]
 
 Unlike Joseph F. Smith, the danger you young men face is not so much physical;
 but rather it is the danger of being personally deceived and misled. This
@@ -158,37 +158,33 @@ the _chief goal._
 "Only in the complete surrender of our inner life may we rise above the
 selfish, sordid pull of nature. ... As the body dies when the spirit leaves it,
 so the spirit dies when we exclude God from it. I cannot imagine peace in a
-world from which God and religion are banished." [5]
+world from which God and religion are banished."[5]
 
 The Lord has a great work for each of us to do. You may wonder how this can
 be. You may feel that there is nothing special or superior about you or your
 ability. Perhaps you feel, or have been told, that you are stupid. Many of us
 have felt that and some of us have been told that. Gideon felt this when the
 Lord asked him to save Israel from the Midianites. Gideon said, "My family is
-poor in Manasseh, and I am the least in my father's house." [6]  He had only
+poor in Manasseh, and I am the least in my father's house."[6] He had only
 three hundred men, but with the help of the Lord, Gideon defeated the armies
-of the Midianites. [7]
+of the Midianites.[7]
 
 The Lord can do remarkable miracles with a person of ordinary ability who is
 humble, faithful, and diligent in serving the Lord and seeks to improve
 himself. This is because God is the ultimate source of power. By the gift of
 the Holy Ghost we can not only know all things but even "the truth of all
-things." [8]
+things."[8]
 
 Many of you worry about your future. I think every conscientious young man
 does. But you do not realize what opportunities lie ahead of you. After a
 lifetime of dealing with human affairs, I am persuaded that your future will
 be beyond your dreams if you observe the following:
 
-  1. Do not live on the edge.
-
-  2. Avoid not only evil, but even the appearance of evil.
-
-  3. Follow the counsel of Lehi to act for yourselves and not be acted upon.
-
-  4. Seek first the kingdom of God and receive the great promise that all else will be added upon you.
-
-  5. Follow the counsel of Church leaders.
+  1. Do not live on the edge. 
+  2. Avoid not only evil, but even the appearance of evil. 
+  3. Follow the counsel of Lehi to act for yourselves and not be acted upon. 
+  4. Seek first the kingdom of God and receive the great promise that all else will be added upon you. 
+  5. Follow the counsel of Church leaders. 
 
 In this great hall and listening this evening are thousands of future leaders
 of the Church who have been called out of the world and chosen by the Lord
@@ -201,7 +197,7 @@ noble and great ones;
 "And God saw these souls that they were good, and he stood in the midst of
 them, and he said: These I will make my rulers; for he stood among those that
 were spirits, and he saw that they were good; and he said unto me: Abraham,
-thou art one of them; thou wast chosen before thou wast born." [9]
+thou art one of them; thou wast chosen before thou wast born."[9]
 
 I believe the Lord has brought forth special spirits who were reserved from
 before the world was to be strong and valiant in this difficult time of the
@@ -218,21 +214,21 @@ May you be equal to it, I pray humbly in the name of Jesus Christ, amen.
 
 ## References
 
-  1.  Story adapted from "Questions for the Iconoclast," _Improvement Era,_ June 1957, pp. 444, 446-48, 450-51.
+  1. Story adapted from "Questions for the Iconoclast," _Improvement Era,_ June 1957, pp. 444, 446-48, 450-51.
 
-  2.   [Jacob 4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13).
+  2. [Jacob 4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13).
 
-  3.   [2 Ne. 2:26](https://www.lds.org/scriptures/bofm/2-ne/2.26?lang=eng#25).
+  3. [2 Ne. 2:26](https://www.lds.org/scriptures/bofm/2-ne/2.26?lang=eng#25).
 
-  4.  "Courageous Mormon Boy,"_ Friend,_ Aug. 1995, p. 43.
+  4. "Courageous Mormon Boy,"_ Friend,_ Aug. 1995, p. 43.
 
-  5.   _Gospel Ideals_ (Salt Lake City: Improvement Era, 1953), p. 295.
+  5. _Gospel Ideals_ (Salt Lake City: Improvement Era, 1953), p. 295.
 
-  6.   [Judg. 6:15](https://www.lds.org/scriptures/ot/judg/6.15?lang=eng#14).
+  6. [Judg. 6:15](https://www.lds.org/scriptures/ot/judg/6.15?lang=eng#14).
 
-  7.  See [Judg. 7](https://www.lds.org/scriptures/ot/judg/7.title?lang=eng).
+  7. See [Judg. 7](https://www.lds.org/scriptures/ot/judg/7?lang=eng).
 
-  8.   [Moro. 10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4).
+  8. [Moro. 10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4).
 
-  9.   [Abr. 3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21).
+  9. [Abr. 3:22-23](https://www.lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21).
 

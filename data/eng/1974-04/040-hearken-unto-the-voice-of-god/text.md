@@ -1,7 +1,7 @@
 # Hearken Unto the Voice of God
 
 The Lord said, "... Hearken, O ye nations of the earth, and hear the words of
-that God who made you." ([D&amp;C 43:23](https://www.lds.org/scriptures/dc-
+that God who made you." ([D&amp;C 43:23](/scriptures/dc-
 testament/dc/43.23?lang=eng#22).) Godliness in man goes undeveloped without
 the words of God and his program.
 
@@ -21,11 +21,11 @@ Lord.
 "And he became Satan, yea, even the devil, the father of all lies, to deceive
 and to blind men, and to lead them captive at his will, even as many as would
 not hearken unto my voice." ([Moses
-4:3-4](https://www.lds.org/scriptures/pgp/moses/4.3-4?lang=eng#2).)
+4:3-4](/scriptures/pgp/moses/4.3-4?lang=eng#2).)
 
 The apostle John said, "He that committeth sin is of the devil; for the devil
 sinneth from the beginning. ..." ([1 Jn.
-3:8](https://www.lds.org/scriptures/nt/1-jn/3.8?lang=eng#7).)
+3:8](/scriptures/nt/1-jn/3.8?lang=eng#7).)
 
 Satan with his evil, deceitful, destructive plans was able to turn one-third
 of the spirits in heaven away from the voice of God and to influence them to
@@ -33,8 +33,7 @@ follow his satanic voice. The Lord said of Satan: "... a third part of the hosts
 of heaven turned he away from me because of their agency;
 
 "And they were thrust down, and thus came the devil and his angels." ([D&amp;C
-29:36-37](https://www.lds.org/scriptures/dc-
-testament/dc/29.36-37?lang=eng#35).)
+29:36-37](/scriptures/dc-testament/dc/29.36-37?lang=eng#35).)
 
 They were cast out of the kingdom of God because they had free agency to
 choose for themselves, and they chose to ignore and disrespect the voice of
@@ -42,8 +41,8 @@ God and listened and followed the voice of the devil.
 
 Satan and his angels and their God-destroying plan are on earth today, and the
 Lord said of Satan, "... he goeth up and down, to and fro in the earth, seeking
-to destroy the souls of men." ([D&amp;C 10:27](https://www.lds.org/scriptures
-/dc-testament/dc/10.27?lang=eng#26).)
+to destroy the souls of men." ([D&amp;C 10:27](/scriptures/dc-
+testament/dc/10.27?lang=eng#26).)
 
 The devil tempted Adam and Eve. We are well acquainted with that story. They
 listened to his deceitful voice, and they were cast out of the Garden of Eden.
@@ -57,7 +56,7 @@ over his own dominion.
 
 "And also the Lord shall have power over his saints, and shall reign in their
 midst, and shall come down in judgment upon ... the world." ([D&amp;C
-1:35-36](https://www.lds.org/scriptures/dc-testament/dc/1.35-36?lang=eng#34).)
+1:35-36](/scriptures/dc-testament/dc/1.35-36?lang=eng#34).)
 
 President Harold B. Lee said, "Today you are witnessing the fulfillment [of a
 prophecy concerning Satan's dominion]. Today is the day when the devil has
@@ -98,8 +97,7 @@ that it be made bread.
 
 "And Jesus answered him, saying, It is written,"--here is the message; it is
 the written word of the Lord--"That man shall not live by bread alone, but by
-every word of God." ([Luke
-4:1-4](https://www.lds.org/scriptures/nt/luke/4.1-4?lang=eng#0).)
+every word of God." ([Luke 4:1-4](/scriptures/nt/luke/4.1-4?lang=eng#0).)
 
 The devil was rebuked and overpowered by the word of God, as recorded in his
 holy scriptures.
@@ -111,18 +109,18 @@ kingdoms of the world in a moment of time.
 of them: for that is delivered unto me; and to whomsoever I will I give it.
 
 "If thou therefore wilt worship me, all shall be thine," the devil promised.
-([Luke 4:5-7](https://www.lds.org/scriptures/nt/luke/4.5-7?lang=eng#4).) Many
-have that same temptation today. Hear the answer of the Lord:
+([Luke 4:5-7](/scriptures/nt/luke/4.5-7?lang=eng#4).) Many have that same
+temptation today. Hear the answer of the Lord:
 
 "And Jesus answered and said unto him, Get thee behind me, Satan: for it is
 written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
-([Luke 4:8](https://www.lds.org/scriptures/nt/luke/4.8?lang=eng#7).) He quoted
-again from the word of God.
+([Luke 4:8](/scriptures/nt/luke/4.8?lang=eng#7).) He quoted again from the
+word of God.
 
 "And [the devil] brought him to Jerusalem and set him on a pinnacle of the
 temple, and said unto him, If thou be the Son of God, cast thyself down from
-hence." ([Luke 4:9](https://www.lds.org/scriptures/nt/luke/4.9?lang=eng#8).)
-And the devil contorted and twisted the scriptures.
+hence." ([Luke 4:9](/scriptures/nt/luke/4.9?lang=eng#8).) And the devil
+contorted and twisted the scriptures.
 
 "For it is written, He shall give his angels charge over thee, to keep thee:
 
@@ -131,7 +129,7 @@ foot against a stone.
 
 "And Jesus answering said unto him, It is said," and he quoted the scriptures
 again, "Thou shalt not tempt the Lord thy God." ([Luke
-4:10-12](https://www.lds.org/scriptures/nt/luke/4.10-12?lang=eng#9).)
+4:10-12](/scriptures/nt/luke/4.10-12?lang=eng#9).)
 
 Satan was rebuked and defeated by Jesus because Jesus knew and used the word
 of God--the commandments of God as recorded in his holy scriptures. Jesus
@@ -147,31 +145,29 @@ we will love the creations of this earth more than the Creator.
 
 The apostle John said, "Love not the world, neither the things that are in the
 world. If any man love the world, the love of the Father is not in him." ([1
-Jn. 2:15](https://www.lds.org/scriptures/nt/1-jn/2.15?lang=eng#14).)
+Jn. 2:15](/scriptures/nt/1-jn/2.15?lang=eng#14).)
 
 Jesus said, "For what is a man profited, if he shall gain the whole world, and
 lose his own soul? or what shall a man give in exchange for his soul?" ([Matt.
-16:26](https://www.lds.org/scriptures/nt/matt/16.26?lang=eng#25).) The devil
-would like man to accept the ways of the world in place of eternal life in the
-kingdom of God.
+16:26](/scriptures/nt/matt/16.26?lang=eng#25).) The devil would like man to
+accept the ways of the world in place of eternal life in the kingdom of God.
 
 Jesus commanded that we protect ourselves from the power and dominion of the
 devil. He said, "Wherefore, lift up your hearts and rejoice, and gird up your
-loins, and take upon you my whole armor. ..." ([D&amp;C
-27:15](https://www.lds.org/scriptures/dc-testament/dc/27.15?lang=eng#14).)
-This has been quoted in this conference several times. But Jesus gave these
-words in these latter days, repeating words of the scriptures.
+loins, and take upon you my whole armor. ..." ([D&amp;C 27:15](/scriptures/dc-
+testament/dc/27.15?lang=eng#14).) This has been quoted in this conference
+several times. But Jesus gave these words in these latter days, repeating
+words of the scriptures.
 
 Take on the whole armor of God. The full armor of God is the full gospel of
 Jesus Christ. If we put on the full armor we will be able, in these troubled
 times, to "run and not be weary, and [to] walk and not faint." And the
 destroying angel will pass us by and not be able to destroy our godliness.
-(See [D&amp;C 89:20-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.20-21?lang=eng#19).)
+(See [D&amp;C 89:20-21](/scriptures/dc-testament/dc/89.20-21?lang=eng#19).)
 
 Jesus counseled, "Pray always, that you may come off conqueror; yea, that you
 may conquer Satan, and that you may escape the hands of the servants of Satan
-that do uphold his work." ([D&amp;C 10:5](https://www.lds.org/scriptures/dc-
+that do uphold his work." ([D&amp;C 10:5](/scriptures/dc-
 testament/dc/10.5?lang=eng#4).)
 
 In our individual prayers we should sincerely ask our Father in heaven to help
@@ -185,7 +181,7 @@ perilous times when peace has been taken from the earth, and Satan has power
 over his own dominion and over all that will not hearken unto the voice of
 God, that the Lord gave these comforting words, "... The Lord shall have power
 over his saints, and shall reign in their midst, and shall come down in
-judgment upon ... the world." ([D&amp;C 1:36](https://www.lds.org/scriptures/dc-
+judgment upon ... the world." ([D&amp;C 1:36](/scriptures/dc-
 testament/dc/1.36?lang=eng#35).)
 
 Today the Lord has power over his Saints and is reigning in their midst and
@@ -205,4 +201,6 @@ knows the refining power of repentance and the miracle of forgiveness. He is
 not only sustained by the Saints, but also by the priesthood and power of God.
 
 In the name of Jesus Christ. Amen.
+
+## References
 

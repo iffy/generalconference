@@ -5,7 +5,7 @@ October, our Presiding Bishop, Victor L. Brown, quoted from the Doctrine and
 Covenants, section 78, verses 13 and 14, in which the Lord says he is
 preparing us to withstand the tribulations that shall come upon us so that
 "the church may stand independent above all other creatures beneath the
-celestial world." ([D&amp;C 78:14](https://www.lds.org/scriptures/dc-
+celestial world." ([D&amp;C 78:14](/scriptures/dc-
 testament/dc/78.14?lang=eng#13).)
 
 We have been told that the gaining of this independence will come to Church
@@ -40,21 +40,14 @@ relating to home production and storage, according to the needs and conditions
 of the women. These classes could include the following guidelines to
 provident living:
 
-  1. How to save systematically for emergencies and home storage.
-
-  2. How to, what to, and where to store.
-
-  3. How to store seeds, prepare soil, acquire proper tools for gardening.
-
-  4. How to grow your own vegetables.
-
-  5. How to can and dry foods.
-
-  6. How to teach and help your family eat foods needed for physical health.
-
-  7. How to do basic machine and hand sewing, mending, and clothing remodeling.
-
-  8. How to plan and prepare nutritious, appetizing meals using the resources available, and foods from home storage shelves.
+  1. How to save systematically for emergencies and home storage. 
+  2. How to, what to, and where to store. 
+  3. How to store seeds, prepare soil, acquire proper tools for gardening. 
+  4. How to grow your own vegetables. 
+  5. How to can and dry foods. 
+  6. How to teach and help your family eat foods needed for physical health. 
+  7. How to do basic machine and hand sewing, mending, and clothing remodeling. 
+  8. How to plan and prepare nutritious, appetizing meals using the resources available, and foods from home storage shelves. 
 
 The resources of libraries, extension services, and government agencies should
 be wisely used. Instruction should be given that will help each sister
@@ -64,13 +57,10 @@ that he might direct their family.
 May I suggest that when approving such plans, each Relief Society presidency
 use the following checklist:
 
-  1. Are we as Relief Society officers motivating and actually training the sisters in the necessary skills of family preparedness, and then helping them to put these into practice?
-
-  2. Are we counseling among ourselves and with our priesthood leaders so that adequate and realistic plans for home storage and production are being developed and carried out?
-
-  3. Do our homemaking miniclass plans respond to the various needs of the women in our ward?
-
-  4. Are we helping the sisters know how to estimate needs and replenish their home production and storage program?
+  1. Are we as Relief Society officers motivating and actually training the sisters in the necessary skills of family preparedness, and then helping them to put these into practice? 
+  2. Are we counseling among ourselves and with our priesthood leaders so that adequate and realistic plans for home storage and production are being developed and carried out? 
+  3. Do our homemaking miniclass plans respond to the various needs of the women in our ward? 
+  4. Are we helping the sisters know how to estimate needs and replenish their home production and storage program? 
 
 If we do these things, when trouble comes we will be like a family I know who
 experienced unexpected financial reverses last year. The father became
@@ -98,8 +88,7 @@ her hands. ...
 clothed with scarlet. ...
 
 "She looketh well to the ways of her household, and eateth not the bread of
-idleness." (See [Prov.
-31:13-31](https://www.lds.org/scriptures/ot/prov/31.13-31?lang=eng#12).)
+idleness." (See [Prov. 31:13-31](/scriptures/ot/prov/31.13-31?lang=eng#12).)
 
 From the beginning it was planned that reverses and trials would be a part of
 our earthly experience, but the Lord has mercifully provided ways for us to
@@ -118,4 +107,6 @@ I pray that we may all become provident homemakers and help each other to
 perform his or her role in family preparedness effectively. I know that this
 is the desire of our Heavenly Father for us, his children, whom he loves. In
 the name of Jesus Christ. Amen.
+
+## References
 

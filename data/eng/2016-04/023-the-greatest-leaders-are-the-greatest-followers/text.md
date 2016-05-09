@@ -161,3 +161,21 @@ I bear witness that this is Christ's true Church. We are led by a prophet of
 God, President Monson--a great leader who is also a true follower of the
 Savior. In the name of Jesus Christ, amen.
 
+## References
+
+  1. [Doctrine and Covenants 121:41](https://www.lds.org/scriptures/dc-testament/dc/121.41?lang=eng#40).
+
+  2. [Abraham 1:2](https://www.lds.org/scriptures/pgp/abr/1.2?lang=eng#1).
+
+  3. Personal correspondence; spelling and punctuation standardized.
+
+  4. [Doctrine and Covenants 20:59](https://www.lds.org/scriptures/dc-testament/dc/20.59?lang=eng#58); emphasis added.
+
+  5. [Luke 22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).
+
+  6. See [John 14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).
+
+  7. [Moroni 7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47).
+
+  8. Thomas S. Monson, "[Your Personal Influence](https://www.lds.org/ensign/2004/05/your-personal-influence?lang=eng),"_ Ensign _or_ Liahona,_ May 2004, 20.
+

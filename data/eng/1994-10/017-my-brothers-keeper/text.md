@@ -20,7 +20,7 @@ they were in the field, that Cain rose up against Abel his brother, and slew
 him.
 
 "And the Lord said unto Cain, Where is Abel thy brother? And he said, I know
-not: Am I my brother's keeper?" [1]
+not: Am I my brother's keeper?"[1]
 
 This evening I felt to present to you a response to this question which
 represents a collective reply from Church members everywhere and from the
@@ -42,7 +42,7 @@ began to read:
 
 "And if it so be that you should labor all your days in crying repentance unto
 this people, and bring, save it be one soul unto me, how great shall be your
-joy with him in the kingdom of my Father!" [2]
+joy with him in the kingdom of my Father!"[2]
 
 President Child then raised his eyes from the scriptures and asked the
 brethren: "What is the worth of a human soul?" He avoided calling on a bishop,
@@ -70,14 +70,14 @@ Stover: "He had the ability to see Christ in every face he encountered, and he
 acted accordingly. Legendary are his acts of compassionate help and his talent
 to lift heavenward every person whom he met. His guiding light was the
 Master's voice speaking, 'Inasmuch as ye have done it unto one of the least of
-these ... , ye have done it unto me.'" [3]
+these ..., ye have done it unto me.'"[3]
 
 The publication _Times and Seasons,_ in its March 1842 issue, proclaimed the
 following: "Respecting how much a man ... shall give ... we have no special
 instructions; ... he is to feed the hungry, to clothe the naked, to provide for
 the widow, to dry up the tear of the orphan, to comfort the afflicted, whether
 in this church, or in any other [church], or in no church at all, wherever he
-finds them." [4]
+finds them."[4]
 
 Since the two special fast days in 1985, called for by the First Presidency,
 humanitarian efforts by members of The Church of Jesus Christ of Latter-day
@@ -91,15 +91,11 @@ improve their lives both spiritually and temporally.
 
 The scope of humanitarian aid given is dramatic:
 
-  * Total humanitarian cash donations: $23,750,000
-
-  * Total value of assistance: $72,480,000
-
-  * Countries served: 109
-
-  * Food distributed: 3,615 tons
-
-  * Medical equipment distributed: 243 tons
+  * Total humanitarian cash donations: $23,750,000 
+  * Total value of assistance: $72,480,000 
+  * Countries served: 109 
+  * Food distributed: 3,615 tons 
+  * Medical equipment distributed: 243 tons 
 
 All of the foregoing is in addition to the conventional welfare program of the
 Church, fundamentally financed through regular fast-offering contributions.
@@ -179,7 +175,7 @@ two million in 1940s dollars and requiring 133 boxcars to transport it--to the
 cold and starving members in Europe. This desperately needed aid saved lives,
 rescued the dispirited, and brought a newness of hope and quickened prayers of
 thanksgiving and expressions of profound gratitude from one and all. "Charity
-never faileth." [5]
+never faileth."[5]
 
 During a drive to amass warm clothing to ship to suffering Saints, Elder
 Harold B. Lee and Elder Marion G. Romney took President George Albert Smith to
@@ -197,7 +193,7 @@ But President Smith would not take it back.
 
 The Apostle Paul's admonition surely was fulfilled that day: "Be thou an
 example of the believers, in word, in conversation, in charity, in spirit, in
-faith, in purity." [6]
+faith, in purity."[6]
 
 Two weeks ago Elder Dallin H. Oaks, Elder Robert K. Dellenbach, and I attended
 a regional conference in Holland. While meeting with the Saints, I recalled
@@ -238,14 +234,14 @@ potatoes.
 
 What are the words of the Lord pertaining to such an act? "Verily I say unto
 you, That this poor widow hath cast more in, than all they which have cast
-into the treasury. ... She of her want did cast in all that she had." [7]
+into the treasury. ... She of her want did cast in all that she had."[7]
 
 It was President J. Reuben Clark, Jr., who in 1936 declared: "The real long
 term objective of the Welfare Plan is the building of character in the members
 of the Church, givers and receivers, rescuing all that is finest down deep
 inside of them, and bringing to flower and fruitage the latent richness of the
 spirit, which after all is the mission and purpose and reason for being of
-this Church." [8]
+this Church."[8]
 
 "Am I my brother's keeper?" This ageless question has been answered! From the
 psalm of David comes the precious promise:
@@ -256,7 +252,7 @@ trouble.
 "The Lord will preserve him, and keep him alive; and he shall be blessed upon
 the earth: and thou wilt not deliver him unto the will of his enemies.
 
-"The Lord will strengthen him." [9]
+"The Lord will strengthen him."[9]
 
 Brethren, may the Lord strengthen each of us who holds the priesthood, that
 each may learn his duty as his brother's keeper and be found on the Lord's
@@ -264,21 +260,21 @@ errand, I humbly pray in the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [Gen. 4:8-9](https://www.lds.org/scriptures/ot/gen/4.8-9?lang=eng#7).
+  1. [Gen. 4:8-9](https://www.lds.org/scriptures/ot/gen/4.8-9?lang=eng#7).
 
-  2.   [D&amp;C 18:10, 15](https://www.lds.org/scriptures/dc-testament/dc/18.10%2C15?lang=eng#9).
+  2. [D&amp;C 18:10, 15](https://www.lds.org/scriptures/dc-testament/dc/18.10,15?lang=eng#9).
 
-  3.   [Matt. 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).
+  3. [Matt. 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).
 
-  4.   _Times and Seasons,_ 15 Mar. 1842, p. 732.
+  4. _Times and Seasons,_ 15 Mar. 1842, p. 732.
 
-  5.   [1 Cor. 13:8](https://www.lds.org/scriptures/nt/1-cor/13.8?lang=eng#7).
+  5. [1 Cor. 13:8](https://www.lds.org/scriptures/nt/1-cor/13.8?lang=eng#7).
 
-  6.   [1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).
+  6. [1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).
 
-  7.   [Mark 12:43-44](https://www.lds.org/scriptures/nt/mark/12.43-44?lang=eng#42).
+  7. [Mark 12:43-44](https://www.lds.org/scriptures/nt/mark/12.43-44?lang=eng#42).
 
-  8.  Quoted in Spencer W. Kimball, _Ensign,_ Nov. 1977, p. 77.
+  8. Quoted in Spencer W. Kimball, _Ensign,_ Nov. 1977, p. 77.
 
-  9.   [Ps. 41:1-3](https://www.lds.org/scriptures/ot/ps/41.1-3?lang=eng#0).
+  9. [Ps. 41:1-3](https://www.lds.org/scriptures/ot/ps/41.1-3?lang=eng#0).
 

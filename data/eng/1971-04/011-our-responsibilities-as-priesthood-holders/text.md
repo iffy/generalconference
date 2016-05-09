@@ -37,15 +37,14 @@ voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto
 me above all people: for all the earth is mine:
 
 "And ye shall be unto me a kingdom of priests, and an holy nation." ([Ex.
-19:5-6](https://www.lds.org/scriptures/ot/ex/19.5-6?lang=eng#4).)
+19:5-6](/scriptures/ot/ex/19.5-6?lang=eng#4).)
 
 This promise is ours also. If we will walk in paths of virtue and holiness,
 the Lord will pour out his blessings upon us to a degree we have never
 supposed possible. We shall be in very deed, as Peter expressed it, "a chosen
 generation, a royal priesthood, an holy nation, a peculiar people." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).) And we will be
-peculiar because we will not be like other people who do not live up to these
-standards.
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).) And we will be peculiar because we
+will not be like other people who do not live up to these standards.
 
 To the extent we have overcome the world we are already a holy nation and a
 peculiar people. But unfortunately there are those among us who have not as
@@ -61,9 +60,8 @@ No member of the Church can be accepted as in good standing whose way of life
 is one of rebellion against the established order of decency and obedience to
 law. We cannot be in rebellion against the law and be in harmony with the
 Lord, for he has commanded us to "be subject to the powers that be, until he
-reigns whose right it is to reign. ..." ([D&amp;C
-58:22](https://www.lds.org/scriptures/dc-testament/dc/58.22?lang=eng#21).) And
-one of these days he is going to come.
+reigns whose right it is to reign. ..." ([D&amp;C 58:22](/scriptures/dc-
+testament/dc/58.22?lang=eng#21).) And one of these days he is going to come.
 
 As servants of the Lord, our purpose is to walk in the path he has charted for
 us. We not only desire to do and say what will please him, but we seek so to
@@ -72,7 +70,7 @@ live that our lives will be like his.
 He himself set the perfect example for us in all things and said to us:
 "Follow thou me." Of his Nephite disciples he asked: "... what manner of men
 ought ye to be?" and then answered: "Verily I say unto you, even as I am." ([3
-Ne. 27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 Now we are engaged in the greatest work in the world. This priesthood which we
 possess is the power and authority of the Lord himself; and he has promised us
@@ -94,4 +92,6 @@ I testify that the work is true and pray that all of us may be true and
 faithful to our covenants, and having received peace and joy in this life, may
 go on to an inheritance of eternal joy and glory in the world to come. I say
 this soberly, humbly, and in the name of the Lord Jesus Christ. Amen.
+
+## References
 

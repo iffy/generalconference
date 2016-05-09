@@ -39,8 +39,8 @@ for those who have lived on the earth. (See _Ensign,_ May 1981, p. 5.)
 All three are part of one work--to assist our Father in Heaven and His Son,
 Jesus Christ, in their grand and glorious mission "to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) I renew
-that declaration today.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) I renew that declaration
+today.
 
 Let us keep these sacred principles in mind and make them an integral part of
 our lives: that is, to _proclaim the gospel,_ to _perfect the Saints,_ and to
@@ -74,7 +74,7 @@ He does!
 
 Love one another, brothers and sisters! Have love in your homes and in your
 hearts! Be peacemakers even though we must live in a world filled with wars
-and rumors of wars! (See [D&amp;C 45:26](https://www.lds.org/scriptures/dc-
+and rumors of wars! (See [D&amp;C 45:26](/scriptures/dc-
 testament/dc/45.26?lang=eng#25).) Follow the counsel you will receive in this
 general conference. And I'll do my best to do likewise. Trust the Lord and His
 unfolding purposes even when His purposes are not always completely clear to
@@ -84,16 +84,15 @@ Brothers and sisters, be good member missionaries. Follow the Brethren. Study
 the new editions of the scriptures. Plant your gardens. Clean up, paint up,
 fix up your homes and your yards. Live within your means. Be good neighbors.
 Be good citizens in whatever land you live. Keep the Sabbath day holy. (See
-[Ex. 20:8](https://www.lds.org/scriptures/ot/ex/20.8?lang=eng#7).) Hold your
-family home evenings regularly every Monday night. These are my words of
-counsel to you now, as they have been so many times in the past.
+[Ex. 20:8](/scriptures/ot/ex/20.8?lang=eng#7).) Hold your family home evenings
+regularly every Monday night. These are my words of counsel to you now, as
+they have been so many times in the past.
 
 Brothers and sisters, pray for the critics of the Church; love your enemies.
-(See [Matt. 5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43).)
-Use wisdom and judgment in what you do and say, so that we do not give cause
-to others to hold the Church or its people in disrepute. This work, which
-Satan seeks in vain to tear down, is that which God has placed on earth to
-lift mankind up!
+(See [Matt. 5:44](/scriptures/nt/matt/5.44?lang=eng#43).) Use wisdom and
+judgment in what you do and say, so that we do not give cause to others to
+hold the Church or its people in disrepute. This work, which Satan seeks in
+vain to tear down, is that which God has placed on earth to lift mankind up!
 
 When this conference is over, let us return to our homes, our stakes and wards
 and branches with fresh determination to do better and to be better. The Lord
@@ -135,4 +134,6 @@ Jesus is the Christ, the Only Begotten of the Father in the flesh. He lives.
 He is our Elder Brother, our Savior, and our Redeemer. This is my solemn
 testimony to you, my beloved brothers and sisters, and I share it with you in
 love and in gratitude and in humility, in the name of Jesus Christ, amen.
+
+## References
 

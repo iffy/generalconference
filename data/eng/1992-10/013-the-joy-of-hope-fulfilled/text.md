@@ -8,7 +8,7 @@ thousand years ago: "But of that day and that hour knoweth no man, no, not the
 angels which are in heaven, neither the Son, but the Father.
 
 "Take ye heed, watch and pray: for ye know not when the time is." ([Mark
-13:32-33](https://www.lds.org/scriptures/nt/mark/13.32-33?lang=eng#31).)
+13:32-33](/scriptures/nt/mark/13.32-33?lang=eng#31).)
 
 When Jesus was asked about the sign of His coming, he said, "Ye shall hear of
 wars and rumours of wars: _see that ye be not troubled: for all these things
@@ -18,8 +18,7 @@ must come to pass,_ but the end is not yet.
 shall be famines, and pestilences, and earthquakes, in divers places.
 
 "All these are the beginning of sorrows." ([Matt.
-24:6-8](https://www.lds.org/scriptures/nt/matt/24.6-8?lang=eng#5); emphasis
-added.)
+24:6-8](/scriptures/nt/matt/24.6-8?lang=eng#5); emphasis added.)
 
 Although the prophecies tell us that these things are to take place, more and
 more people are expressing great alarm at what appears to be an acceleration
@@ -53,9 +52,8 @@ satisfies an apparently insatiable appetite of audiences to witness murder,
 violence, nudity, sex, and profanity. Is not this the day of which Moroni
 spoke when he recorded: "Behold, I speak unto you as if ye were present, and
 yet ye are not. But behold, Jesus Christ hath shown you unto me, and I know
-your doing." ([Morm.
-8:35](https://www.lds.org/scriptures/bofm/morm/8.35?lang=eng#34).) And then he
-prophesied of conditions of the world as they are today.
+your doing." ([Morm. 8:35](/scriptures/bofm/morm/8.35?lang=eng#34).) And then
+he prophesied of conditions of the world as they are today.
 
 Brothers and sisters, whether or not these are indeed the last days or even
 "the beginning of sorrows" as the Savior foretold, some of us may find our
@@ -76,8 +74,7 @@ immediate answers to the seemingly unsolvable problems confronting the human
 family. But regardless of this dark picture, which will ultimately get worse,
 we must never allow ourselves to give up hope! Moroni, having seen our day,
 counseled, "Wherefore, there must be faith; and if there must be faith there
-must also be hope." ([Moro.
-10:20](https://www.lds.org/scriptures/bofm/moro/10.20?lang=eng#19).)
+must also be hope." ([Moro. 10:20](/scriptures/bofm/moro/10.20?lang=eng#19).)
 
 To all who have harbored feelings of despair and an absence of hope, I offer
 the words of the Lord through the Prophet Joseph Smith:
@@ -86,9 +83,8 @@ the words of the Lord through the Prophet Joseph Smith:
 if ye are built upon my rock, they cannot prevail. ...
 
 "Look unto me in every thought; doubt not, fear not" ([D&amp;C 6:34,
-36](https://www.lds.org/scriptures/dc-testament/dc/6.34%2C36?lang=eng#33)),
-"even so am I in the midst of you" ([D&amp;C
-6:32](https://www.lds.org/scriptures/dc-testament/dc/6.32?lang=eng#31)).
+36](/scriptures/dc-testament/dc/6.34,36?lang=eng#33)), "even so am I in the
+midst of you" ([D&amp;C 6:32](/scriptures/dc-testament/dc/6.32?lang=eng#31)).
 
 My message to you today, my brothers and sisters, is simply this: the Lord is
 in control. He knows the end from the beginning. He has given us adequate
@@ -107,7 +103,7 @@ in him according to the promise.
 
 "Wherefore, if a man have faith he must needs have hope; for without faith
 there cannot be any hope." ([Moro.
-7:41-42](https://www.lds.org/scriptures/bofm/moro/7.41-42?lang=eng#40).)
+7:41-42](/scriptures/bofm/moro/7.41-42?lang=eng#40).)
 
 Faith in God and in His Son, Jesus Christ, is absolutely essential for us to
 maintain a balanced perspective through times of trial and difficulty.
@@ -115,7 +111,7 @@ Remember, nothing will occur in our lives that He does not understand. Alma
 taught, "And he shall go forth, suffering pains and afflictions and
 temptations of every kind; and this that the word might be fulfilled which
 saith he will take upon him the pains and the sicknesses of his people."
-([Alma 7:11](https://www.lds.org/scriptures/bofm/alma/7.11?lang=eng#10).)
+([Alma 7:11](/scriptures/bofm/alma/7.11?lang=eng#10).)
 
 Please turn to Him if you are discouraged and struggling for direction in your
 life. Armed with the shield of faith, we can overcome many of our daily
@@ -139,7 +135,7 @@ As the end of the Savior's mortal ministry drew near, He offered this
 reassuring hope to His beloved disciples: "Peace I leave with you, my peace I
 give unto you: not as the world giveth, give I unto you. Let not your heart be
 troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 Hope is a precious principle by which to live. However, some among us may have
 lost all hope because of sin and transgression. A person can become so deeply
@@ -197,17 +193,15 @@ family members surrounded her in the sealing room.
 
 The Apostle Paul taught that three divine principles form a foundation upon
 which we can build the structure of our lives. They are faith, hope, and
-charity. (See [1 Cor.
-13:13](https://www.lds.org/scriptures/nt/1-cor/13.13?lang=eng#12).) Together
-they give us a base of support like the legs of a three-legged stool. Each
-principle is significant within itself, but each also plays an important
+charity. (See [1 Cor. 13:13](/scriptures/nt/1-cor/13.13?lang=eng#12).)
+Together they give us a base of support like the legs of a three-legged stool.
+Each principle is significant within itself, but each also plays an important
 supporting role. Each is incomplete without the others. Hope helps faith
 develop. Likewise true faith gives birth to hope. When we begin to lose hope,
 we are faltering also in our measure of faith. The principles of faith and
 hope working together must be accompanied by charity, which is the greatest of
 all. According to Mormon, "charity is the pure love of Christ, and it endureth
-forever." ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) It is the
+forever." ([Moro. 7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) It is the
 perfect manifestation of our faith and hope.
 
 Working together, these three eternal principles will help give us the broad
@@ -222,20 +216,21 @@ us, individually and collectively. He understands the spiritual, physical, and
 emotional difficulties we face in the world today. In fact, they are all part
 of His plan for our eternal growth and development. And His promise to us is
 sure: "He that endureth in faith and doeth my will, the same shall overcome."
-([D&amp;C 63:20](https://www.lds.org/scriptures/dc-
-testament/dc/63.20?lang=eng#19).)
+([D&amp;C 63:20](/scriptures/dc-testament/dc/63.20?lang=eng#19).)
 
 The Savior promised that "no weapon that is formed against thee shall prosper.
 ... This is the heritage of the servants of the Lord." ([3 Ne.
-22:17](https://www.lds.org/scriptures/bofm/3-ne/22.17?lang=eng#16).)
+22:17](/scriptures/bofm/3-ne/22.17?lang=eng#16).)
 
 May we all find the "peace of God, which passeth all understanding" ([Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6)), which can be
-found only through charity, faith, and hope.
+4:7](/scriptures/nt/philip/4.7?lang=eng#6)), which can be found only through
+charity, faith, and hope.
 
 May I leave you my testimony that I know that the Lord Jesus Christ lives. He
 has restored His Church to the earth through the Prophet Joseph Smith. Our
 assurance of eternal life rests in our love of God and the keeping of His
 commandments. This knowledge gives me hope and faith. May it be so with each
 of you, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

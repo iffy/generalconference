@@ -28,24 +28,21 @@ tempted by the devil, and ye be led away captive by him.
 "And as I have prayed among you even so shall ye pray in my church, among my
 people who do repent and are baptized in my name. Behold I am the light; I
 have set an example for you." ([3 Ne.
-18:15-16](https://www.lds.org/scriptures/bofm/3-ne/18.15-16?lang=eng#14); see
-also [3 Ne.
-18:24](https://www.lds.org/scriptures/bofm/3-ne/18.24?lang=eng#23); [3 Ne.
-19:17-34](https://www.lds.org/scriptures/bofm/3-ne/19.17-34?lang=eng#16); [3
-Ne. 27:21](https://www.lds.org/scriptures/bofm/3-ne/27.21?lang=eng#20).)
+18:15-16](/scriptures/bofm/3-ne/18.15-16?lang=eng#14); see also [3 Ne.
+18:24](/scriptures/bofm/3-ne/18.24?lang=eng#23); [3 Ne.
+19:17-34](/scriptures/bofm/3-ne/19.17-34?lang=eng#16); [3 Ne.
+27:21](/scriptures/bofm/3-ne/27.21?lang=eng#20).)
 
 In fact, Christ specifically exhorts the Nephites at least ten times to "pray
 unto the Father in [his] name." ([3 Ne.
-18:19](https://www.lds.org/scriptures/bofm/3-ne/18.19?lang=eng#18); see also
-[3 Ne. 13:6-9](https://www.lds.org/scriptures/bofm/3-ne/13.6-9?lang=eng#5); [3
-Ne. 14:11](https://www.lds.org/scriptures/bofm/3-ne/14.11?lang=eng#10); [3 Ne.
-17:3](https://www.lds.org/scriptures/bofm/3-ne/17.3?lang=eng#2); [3 Ne.
-18:20-21,
-23](https://www.lds.org/scriptures/bofm/3-ne/18.20-21%2C23?lang=eng#19); [3
-Ne. 20:31](https://www.lds.org/scriptures/bofm/3-ne/20.31?lang=eng#30); [3 Ne.
-21:27](https://www.lds.org/scriptures/bofm/3-ne/21.27?lang=eng#26); [3 Ne.
-27:2-7, 9,
-28](https://www.lds.org/scriptures/bofm/3-ne/27.2-7%2C9%2C28?lang=eng#1).)
+18:19](/scriptures/bofm/3-ne/18.19?lang=eng#18); see also [3 Ne.
+13:6-9](/scriptures/bofm/3-ne/13.6-9?lang=eng#5); [3 Ne.
+14:11](/scriptures/bofm/3-ne/14.11?lang=eng#10); [3 Ne.
+17:3](/scriptures/bofm/3-ne/17.3?lang=eng#2); [3 Ne. 18:20-21,
+23](/scriptures/bofm/3-ne/18.20-21,23?lang=eng#19); [3 Ne.
+20:31](/scriptures/bofm/3-ne/20.31?lang=eng#30); [3 Ne.
+21:27](/scriptures/bofm/3-ne/21.27?lang=eng#26); [3 Ne. 27:2-7, 9,
+28](/scriptures/bofm/3-ne/27.2-7,9,28?lang=eng#1).)
 
 Christ taught that prayer is indispensable at each step of the perfection
 process, but especially at the very beginning. For example, He taught that one
@@ -55,17 +52,15 @@ could pray to the Father in the name of Christ:
 "Yea, the work shall commence among all the dispersed of my people, with the
 Father to prepare the way whereby they may come unto me, that _they may call
 on the Father in my name._" ([3 Ne.
-21:27](https://www.lds.org/scriptures/bofm/3-ne/21.27?lang=eng#26); emphasis
-added.)
+21:27](/scriptures/bofm/3-ne/21.27?lang=eng#26); emphasis added.)
 
 Furthermore, He taught that we in the Church are to pray on behalf of those
 who are investigating the Church. (See [3 Ne.
-18:23-30](https://www.lds.org/scriptures/bofm/3-ne/18.23-30?lang=eng#22).) He
-encouraged those who had heard His words to ponder them and to pray to the
-Father in His name for increased understanding. (See [3 Ne.
-17:3](https://www.lds.org/scriptures/bofm/3-ne/17.3?lang=eng#2).) And, of
-course, He showed us that even perfected people, such as Himself, should pray
-constantly.
+18:23-30](/scriptures/bofm/3-ne/18.23-30?lang=eng#22).) He encouraged those
+who had heard His words to ponder them and to pray to the Father in His name
+for increased understanding. (See [3 Ne.
+17:3](/scriptures/bofm/3-ne/17.3?lang=eng#2).) And, of course, He showed us
+that even perfected people, such as Himself, should pray constantly.
 
 At each level of our progression toward becoming like our Heavenly Father,
 prayer is a necessary step. Once we have tasted of His goodness, Christ
@@ -73,7 +68,7 @@ encourages us to pray often--in secret, in our families, in our churches, and
 in our hearts, continually asking specifically for the things which we need--
 telling us, "And whatsoever ye shall ask the Father in my name, which is
 right, believing that ye shall receive, behold it shall be given unto you."
-([3 Ne. 18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19).)
+([3 Ne. 18:20](/scriptures/bofm/3-ne/18.20?lang=eng#19).)
 
 Christ taught the Nephites that prayer is more than just a means to receive
 our Father in Heaven's generosity; rather, prayer itself is an act of faith as
@@ -173,4 +168,6 @@ binding force for such divine ordinances as baptisms and sealings as
 administered by the Church today. The First Presidency and the Twelve Apostles
 are prophets, seers, and revelators. I so testify in the name of Jesus Christ,
 amen.
+
+## References
 

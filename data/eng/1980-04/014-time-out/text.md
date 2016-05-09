@@ -66,7 +66,7 @@ in stature, and also having great desires to know of the mysteries of God,
 wherefore, I did cry unto the Lord; and behold he did visit me, and did soften
 my heart that I did believe all the words which had been spoken by my father;
 wherefore, I did not rebel against him like unto my brothers" ([1 Ne.
-2:16](https://www.lds.org/scriptures/bofm/1-ne/2.16?lang=eng#15)).
+2:16](/scriptures/bofm/1-ne/2.16?lang=eng#15)).
 
 Accounts such as these in scripture have always given me great courage to do
 likewise. That's why I think the prophets, even the leaders today, have
@@ -174,4 +174,6 @@ and I have. God bless you, my wonderful brethren, to have the wisdom and
 strength to call time-out and visit with your Heavenly Father. He really
 lives, as does his Son, to which I testify in the holy name of Jesus Christ,
 amen.
+
+## References
 

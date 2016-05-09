@@ -43,8 +43,7 @@ The Father knew all this when he gave this command to his children in November
 1831. He was not arguing that there should be families. He seemed to take that
 for granted and commanded: "... as parents have children in Zion ... they shall
 also teach their children to pray and to walk uprightly before the Lord."
-([D&amp;C 68:25, 28](https://www.lds.org/scriptures/dc-
-testament/dc/68.25%2C28?lang=eng#24).)
+([D&amp;C 68:25, 28](/scriptures/dc-testament/dc/68.25,28?lang=eng#24).)
 
 We see the blessings of family life as we make contrasts. In the address above
 referred to, President Lee gave these figures:
@@ -89,7 +88,7 @@ infancy, childhood, and youth, he seemed to feel secure in his hazardous work.
 
 This major was unafraid, for he was prepared. He knew the power of the Lord's
 statement: "If ye are prepared, ye shall not fear." ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29).)
 
 Someone said that "fear and fortitude are opposites but both are necessary for
 the growth of character. ... wholesome fear generates its own antibodies."
@@ -117,11 +116,11 @@ when engulfed in emergencies. If they have conscientiously and faithfully done
 all that is expected of them, nothing can be too far wrong. The Nephite
 prophet insisted: "... ye pour out your souls in your closets, and your secret
 places; and in your wilderness." ([Alma
-34:26](https://www.lds.org/scriptures/bofm/alma/34.26?lang=eng#25).)
+34:26](/scriptures/bofm/alma/34.26?lang=eng#25).)
 
 And what a great legacy to our children Isaiah promised: "And all thy children
 shall be taught of the Lord and great shall be the peace of thy children."
-([Isa. 54:13](https://www.lds.org/scriptures/ot/isa/54.13?lang=eng#12).)
+([Isa. 54:13](/scriptures/ot/isa/54.13?lang=eng#12).)
 
 Surely every good parent would like this peace for his offspring. It comes
 from the simple life of the true Latter-day Saint as he makes his home and
@@ -129,7 +128,7 @@ family supreme.
 
 "Pray in your families unto the Father, always in my name, that your wives and
 your children may be blessed." ([3 Ne.
-18:21](https://www.lds.org/scriptures/bofm/3-ne/18.21?lang=eng#20).)
+18:21](/scriptures/bofm/3-ne/18.21?lang=eng#20).)
 
 Is that too much to ask?
 
@@ -198,8 +197,8 @@ This kind of family life could bring us back toward the translation experience
 of righteous Enoch. The millennium would be ushered in. Enoch was asked
 questions about himself; he answered, among other things, "... my father taught
 me in all the ways of God." ([Moses
-6:41](https://www.lds.org/scriptures/pgp/moses/6.41?lang=eng#40).) And Enoch
-walked with God and he was _not, _for God took him.
+6:41](/scriptures/pgp/moses/6.41?lang=eng#40).) And Enoch walked with God and
+he was _not, _for God took him.
 
 Enoch and his people dwelt in righteousness in the City of Holiness, even
 Zion. And Zion was taken up into heaven.
@@ -359,4 +358,6 @@ them explicitly, I pray.
 
 I add my solemn witness that President Harold B. Lee is the Lord's divinely
 called prophet to this world. In the name of Jesus Christ. Amen.
+
+## References
 

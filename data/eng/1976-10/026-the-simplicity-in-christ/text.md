@@ -26,15 +26,13 @@ had great joy and happiness therein.
 
 I have come to feel the meaning of the words of the prophet Nephi when he
 said: "[The Lord] hath filled me with his love, even unto the consuming of my
-flesh." ([2 Ne.
-4:21](https://www.lds.org/scriptures/bofm/2-ne/4.21?lang=eng#20).) Have you
-ever felt that? When you have gooseflesh all over by the power of the Spirit?
-I think of the words of the apostle Paul when he said that those who "have
+flesh." ([2 Ne. 4:21](/scriptures/bofm/2-ne/4.21?lang=eng#20).) Have you ever
+felt that? When you have gooseflesh all over by the power of the Spirit? I
+think of the words of the apostle Paul when he said that those who "have
 tasted the good word of God, and the powers of the world to come,
 
 "If they shall fall away," it would be impossible "to renew them again unto
-repentance." ([Heb.
-6:5-6](https://www.lds.org/scriptures/nt/heb/6.5-6?lang=eng#4).)
+repentance." ([Heb. 6:5-6](/scriptures/nt/heb/6.5-6?lang=eng#4).)
 
 Now from that I get the feeling as Paul expressed it that even here in
 mortality we can taste of the powers of the world to come.
@@ -50,20 +48,20 @@ School teacher giving us the words of John the Baptist, when he said that he
 baptized with water for the forgiveness of sins but he said: "One mightier
 than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall
 baptize you with the Holy Ghost and with fire." ([Luke
-3:16](https://www.lds.org/scriptures/nt/luke/3.16?lang=eng#15).) I couldn't
-imagine what that fire meant when I was a boy but I have lived long enough to
-know. I have been lifted beyond my own natural abilities under the influence
-and power of the Spirit of the Lord as I have borne witness of the truth of
-this gospel upon many occasions until it is a part of my very being, and I
-would like to give you that testimony here today.
+3:16](/scriptures/nt/luke/3.16?lang=eng#15).) I couldn't imagine what that
+fire meant when I was a boy but I have lived long enough to know. I have been
+lifted beyond my own natural abilities under the influence and power of the
+Spirit of the Lord as I have borne witness of the truth of this gospel upon
+many occasions until it is a part of my very being, and I would like to give
+you that testimony here today.
 
 Now I have in mind that I would like to say a few words today about a
 statement of the apostle Paul's. He said: "I fear, lest by any means ... your
 minds should be corrupted from the simplicity that is in Christ." ([2 Cor.
-11:3](https://www.lds.org/scriptures/nt/2-cor/11.3?lang=eng#2).) And I tell
-you throughout the world the minds of men have been corrupted from the
-simplicity that is in Christ, and they have taught the commandments of men
-rather than the simple truths revealed in the Lord's holy word.
+11:3](/scriptures/nt/2-cor/11.3?lang=eng#2).) And I tell you throughout the
+world the minds of men have been corrupted from the simplicity that is in
+Christ, and they have taught the commandments of men rather than the simple
+truths revealed in the Lord's holy word.
 
 I think of the words of Isaiah. He said:
 
@@ -71,7 +69,7 @@ I think of the words of Isaiah. He said:
 everlasting covenant,
 
 "Therefore hath the curse devoured the earth." ([Isa.
-24:5-6](https://www.lds.org/scriptures/ot/isa/24.5-6?lang=eng#4).)
+24:5-6](/scriptures/ot/isa/24.5-6?lang=eng#4).)
 
 Then I think also of the experience when Emperor Constantine called the Nicea
 Council, held way back in 325 A.D. when 318 bishops spent four weeks in
@@ -99,18 +97,17 @@ And I said: "And just what do you mean by that? Did His spirit come back and
 take possession of His body when the stone was rolled away, and He arose, and
 when the women came to the sepulchre, there sat an angel, one at the foot and
 one at the head, and they said: 'Why seek ye the living among the dead? He is
-not here, but is risen' ([Luke 24:
-5-6](https://www.lds.org/scriptures/nt/luke/24.title?lang=eng))? Then you
-remember how many times He appeared to the Twelve and then He had them feel
-the prints in His hands and the wound in His side, and said: 'Handle me, and
-see; for a spirit hath not flesh and bones, as ye see me have.' ([Luke
-24:39](https://www.lds.org/scriptures/nt/luke/24.39?lang=eng#38).) Then He
-took fish and honeycomb and ate with them. After spending forty days with His
-disciples, then He ascended to heaven and as He went up, two men in white
-apparel stood and said: 'Ye men of Galilee, why stand ye gazing up into
-heaven? this same Jesus, which is taken up from you into heaven, shall so come
-in like manner as ye have seen him go into heaven.'" ([Acts
-1:11](https://www.lds.org/scriptures/nt/acts/1.11?lang=eng#10).)
+not here, but is risen' ([Luke 24: 5-6](/scriptures/nt/luke/24?lang=eng))?
+Then you remember how many times He appeared to the Twelve and then He had
+them feel the prints in His hands and the wound in His side, and said: 'Handle
+me, and see; for a spirit hath not flesh and bones, as ye see me have.' ([Luke
+24:39](/scriptures/nt/luke/24.39?lang=eng#38).) Then He took fish and
+honeycomb and ate with them. After spending forty days with His disciples,
+then He ascended to heaven and as He went up, two men in white apparel stood
+and said: 'Ye men of Galilee, why stand ye gazing up into heaven? this same
+Jesus, which is taken up from you into heaven, shall so come in like manner as
+ye have seen him go into heaven.'" ([Acts
+1:11](/scriptures/nt/acts/1.11?lang=eng#10).)
 
 Then I said to this minister: "Now how in the world can you believe in a
 spirit rather than that personal Christ that went into heaven? Did you feel
@@ -126,11 +123,11 @@ children of Israel into the promised land, he told them that they would not
 remain there long, but that they would be scattered among the nations, that
 they would worship gods made by the hands of men that could neither see, nor
 hear, nor taste, nor smell. (See [Deut.
-4:28](https://www.lds.org/scriptures/ot/deut/4.28?lang=eng#27).) Now isn't
-that the god of the Christian world today? And Moses knew that this condition
-would prevail all that long time ago--but he didn't leave it at that. He said
-that in the latter days (and we live in the latter days) if they should seek
-after God they should surely find him, and they did.
+4:28](/scriptures/ot/deut/4.28?lang=eng#27).) Now isn't that the god of the
+Christian world today? And Moses knew that this condition would prevail all
+that long time ago--but he didn't leave it at that. He said that in the latter
+days (and we live in the latter days) if they should seek after God they
+should surely find him, and they did.
 
 What a difference between the corrupted idea of the Christ, compared with when
 Stephen was stoned to death and he gazed into heaven and he saw Jesus standing
@@ -141,7 +138,7 @@ when a light descended from heaven, according to his testimony, brighter than
 the noonday sun. In the midst of that glorious light were two heavenly
 messengers: the Father and the Son. The Father, pointing to the Son, said:
 "This is My Beloved Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16))
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16))
 
 That is the simplicity that is in Christ, and if the world would only follow
 the simple things that I have referred to briefly here today, how could they
@@ -149,21 +146,20 @@ believe in just an essence that is everywhere present?
 
 You remember what Jesus said in the Beatitudes? Among other things He said:
 "For blessed are the pure in heart: for they shall see God." ([Matt.
-5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7).) According to the
-corrupted ideas of the Christian world today, what would they hope to see when
-they see Him if He is just a spirit everywhere present? Would they see the
-flowers and the plants and the trees? Not so with the Latter-day Saints. We
-look forward to the day when we will see Him come in power and great glory,
-and it doesn't make sense to think that He discarded that body that He could
-be everywhere present, that He and the Father could be the same person.
+5:8](/scriptures/nt/matt/5.8?lang=eng#7).) According to the corrupted ideas of
+the Christian world today, what would they hope to see when they see Him if He
+is just a spirit everywhere present? Would they see the flowers and the plants
+and the trees? Not so with the Latter-day Saints. We look forward to the day
+when we will see Him come in power and great glory, and it doesn't make sense
+to think that He discarded that body that He could be everywhere present, that
+He and the Father could be the same person.
 
 Well, that is one of the great truths that has come through the restoration of
 the gospel in these days. I bear witness to that, and I know that He lives. He
 is at the head of the Church. Like Paul said, the Church is "built upon the
 foundation of the apostles and prophets, with Jesus Christ himself being the
-chief corner stone. ([Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).) I have a
-witness that He is at the head of this church, that He is guiding it and
+chief corner stone. ([Eph. 2:20](/scriptures/nt/eph/2.20?lang=eng#19).) I have
+a witness that He is at the head of this church, that He is guiding it and
 directing it, and I don't see how any sane person could study what the Church
 has accomplished since the days that He appeared with the Father, and then
 think that it is the work of man.
@@ -207,8 +203,8 @@ Paul was not permitted to write what he saw, how we should live or how the
 Lord would judge those that would go to the heaven that he likened to the sun,
 and the one like unto the moon, and the one like unto the stars, as Brother
 Sill mentioned here today. (See [2 Cor.
-12:2-4](https://www.lds.org/scriptures/nt/2-cor/12.2-4?lang=eng#1); [1 Cor.
-15:40-42](https://www.lds.org/scriptures/nt/1-cor/15.40-42?lang=eng#39).)
+12:2-4](/scriptures/nt/2-cor/12.2-4?lang=eng#1); [1 Cor.
+15:40-42](/scriptures/nt/1-cor/15.40-42?lang=eng#39).)
 
 But that revelation was reserved to be revealed to the prophet of this
 dispensation and is known as the seventy-sixth section of the Doctrine and
@@ -229,7 +225,7 @@ true, and then read the promise in the latter part of it, that if any man
 would read it and ask God, the Eternal Father, in the name of Jesus Christ,
 having faith that the Lord would manifest the truth of it unto him by the
 power of the Holy Ghost. (See [Moro.
-10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).)
+10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).)
 
 I bear witness to that end--that it is the word of God. This is His church--it
 will triumph in the earth; and as I see these great area conferences the
@@ -239,4 +235,6 @@ the only way to eternal exaltation.
 
 God bless you all, I pray, and leave you my blessing and witness in the name
 of the Lord Jesus Christ. Amen.
+
+## References
 

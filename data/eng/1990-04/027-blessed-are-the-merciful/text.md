@@ -16,8 +16,7 @@ reached that perfection we have been admonished to seek, and therefore, with
 only a desire to give encouragement, I take the liberty of using a text that I
 feel has application for each of us. It is from the sermon which Jesus gave to
 the multitude who gathered on the mount: "Blessed are the merciful: for they
-shall obtain mercy." ([Matt.
-5:7](https://www.lds.org/scriptures/nt/matt/5.7?lang=eng#6).)
+shall obtain mercy." ([Matt. 5:7](/scriptures/nt/matt/5.7?lang=eng#6).)
 
 We live in a world where there is so much of harshness. We live in a world
 filled with hostility and meanness. By reason of our human natures, so many
@@ -64,7 +63,7 @@ art tormented.
 
 "And beside all this, between us and you there is a great gulf fixed: so that
 they which would pass from hence to you cannot." ([Luke
-16:19-26](https://www.lds.org/scriptures/nt/luke/16.19-26?lang=eng#18).)
+16:19-26](/scriptures/nt/luke/16.19-26?lang=eng#18).)
 
 I plead for a stronger spirit of compassion in all of our relationships, a
 stronger element of mercy, for the promise is sure that if we are merciful we
@@ -89,30 +88,29 @@ our discipleship under Him who is our Lord and Master.
 
 I remind you that it was He who said, "Whosoever shall smite thee on thy right
 cheek, turn to him the other also." ([Matt.
-5:39](https://www.lds.org/scriptures/nt/matt/5.39?lang=eng#38).)
+5:39](/scriptures/nt/matt/5.39?lang=eng#38).)
 
 It was He who said, "And if any man will sue thee at the law, and take away
 thy coat, let him have thy cloke also." ([Matt.
-5:40](https://www.lds.org/scriptures/nt/matt/5.40?lang=eng#39).)
+5:40](/scriptures/nt/matt/5.40?lang=eng#39).)
 
 It was He who said, "And whosoever shall compel thee to go a mile, go with him
-twain." ([Matt.
-5:41](https://www.lds.org/scriptures/nt/matt/5.41?lang=eng#40).)
+twain." ([Matt. 5:41](/scriptures/nt/matt/5.41?lang=eng#40).)
 
 It was He who said, "Give to him that asketh thee, and from him that would
 borrow of thee turn not thou away." ([Matt.
-5:42](https://www.lds.org/scriptures/nt/matt/5.42?lang=eng#41).)
+5:42](/scriptures/nt/matt/5.42?lang=eng#41).)
 
 It was He who said to the woman taken in sin:
 
 "Where are those thine accusers? hath no man condemned thee? ...
 
 "Neither do I condemn thee: go, and sin no more." ([John
-8:10-11](https://www.lds.org/scriptures/nt/john/8.10-11?lang=eng#9).)
+8:10-11](/scriptures/nt/john/8.10-11?lang=eng#9).)
 
 It was He who, while hanging on the cross in dreadful agony, cried out,
 "Father, forgive them; for they know not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 He, the Son of the everlasting Father, was the epitome of mercy. His ministry
 was one of compassion toward the poor, the sick, the oppressed, the victims of
@@ -192,8 +190,7 @@ notwithstanding the protection of the law, a merciless exploitation of
 children in certain industries.
 
 And there are still those, not a few, who without compassion "grind the faces
-of the poor." ([Isa.
-3:15](https://www.lds.org/scriptures/ot/isa/3.15?lang=eng#14).)
+of the poor." ([Isa. 3:15](/scriptures/ot/isa/3.15?lang=eng#14).)
 
 Our generation is afflicted with critics in the media who think they do a
 great and clever thing in mercilessly attacking men and women in public office
@@ -254,12 +251,11 @@ promulgation of dogmas and the enunciation of theories." (_Articles of Faith,_
 
 In that same vein the Lord in modern revelation has enjoined us: "Succor the
 weak, lift up the hands which hang down, and strengthen the feeble knees."
-([D&amp;C 81:5](https://www.lds.org/scriptures/dc-
-testament/dc/81.5?lang=eng#4).)
+([D&amp;C 81:5](/scriptures/dc-testament/dc/81.5?lang=eng#4).)
 
 And again: "Therefore, strengthen your brethren in all your conversation, in
 all your prayers, in all your exhortations, and in all your doings." ([D&amp;C
-108:7](https://www.lds.org/scriptures/dc-testament/dc/108.7?lang=eng#6).)
+108:7](/scriptures/dc-testament/dc/108.7?lang=eng#6).)
 
 We in the United States have heard much in recent months about a "kinder,
 gentler nation."
@@ -283,12 +279,12 @@ for gold, and for silver, and for all the riches which we have of every kind?
 lives and for all that ye have and are, doth grant unto you whatsoever ye ask
 that is right, ... O then, how ye ought to impart of the substance that ye have
 one to another." ([Mosiah 4:19,
-21](https://www.lds.org/scriptures/bofm/mosiah/4.19%2C21?lang=eng#18).)
+21](/scriptures/bofm/mosiah/4.19,21?lang=eng#18).)
 
 So spoke King Benjamin. To which I add that the power of the Master is certain
 and His word is sure. He will keep His promise toward those who are
 compassionate. "Blessed are the merciful: for they shall obtain mercy."
-([Matt. 5:7](https://www.lds.org/scriptures/nt/matt/5.7?lang=eng#6).)
+([Matt. 5:7](/scriptures/nt/matt/5.7?lang=eng#6).)
 
 I am confident that a time will come for each of us when, whether because of
 sickness or infirmity, of poverty or distress, of oppressive measures against
@@ -300,11 +296,12 @@ who fear me, and delight to honor those who serve me in righteousness and in
 truth unto the end.
 
 "Great shall be their reward and eternal shall be their glory." ([D&amp;C
-76:5-6](https://www.lds.org/scriptures/dc-testament/dc/76.5-6?lang=eng#4);
-italics added.)
+76:5-6](/scriptures/dc-testament/dc/76.5-6?lang=eng#4); italics added.)
 
 Of these things I bear witness as I testify that God our Eternal Father lives,
 that He is a God of mercy, that His Son gave His life in a great merciful
 atonement for each of us, and that we shall be the beneficiaries of that mercy
 as we extend it to others, in the name of Jesus Christ, amen.
+
+## References
 

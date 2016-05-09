@@ -144,8 +144,7 @@ should know every boy by his first name. Show an interest in him; stay close
 to him. When you know his first name, use it. You remember when God the Father
 and his Son Jesus Christ appeared to Joseph, and he asked the question, God
 turned to him and said, "Joseph," calling him by name, "this is my beloved
-Son." (See [JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).) A boy likes
+Son." (See [JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).) A boy likes
 to hear his name called.
 
 Let us remember and remind our boys always, when they are officiating as
@@ -222,7 +221,7 @@ accountable.
 
 The Lord has said, "Any member of the church of Christ transgressing, or being
 overtaken in a fault, shall be dealt with as the scriptures direct." ([D&amp;C
-20:80](https://www.lds.org/scriptures/dc-testament/dc/20.80?lang=eng#79).)
+20:80](/scriptures/dc-testament/dc/20.80?lang=eng#79).)
 
 And President John Taylor said this: "Furthermore, I have heard of some
 Bishops who have been seeking to cover up the iniquities of men; I tell them,
@@ -295,4 +294,6 @@ Assembled here tonight in these different buildings, every priesthood office
 of the Church is represented, and the success and progress of this church
 depend on you as individuals who hold the priesthood. May we prove worthy, I
 humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

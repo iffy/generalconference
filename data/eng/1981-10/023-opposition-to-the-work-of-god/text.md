@@ -48,9 +48,9 @@ patterns of deceit were similar. They taught false doctrines, spread lies,
 referred to prophecies as foolish traditions, accused Church leaders of
 perverting the right way of God, and baited the people by referring to their
 faith as a foolish and vain hope. (See [Jacob
-7](https://www.lds.org/scriptures/bofm/jacob/7.title?lang=eng); [Alma
-1](https://www.lds.org/scriptures/bofm/alma/1.title?lang=eng); and [Alma
-30](https://www.lds.org/scriptures/bofm/alma/30.title?lang=eng).)
+7](/scriptures/bofm/jacob/7?lang=eng); [Alma
+1](/scriptures/bofm/alma/1?lang=eng); and [Alma
+30](/scriptures/bofm/alma/30?lang=eng).)
 
 When we read about the anti-Christs of former days, we marvel at how perverted
 their thinking became and we marvel at how successful they were in deceiving
@@ -80,34 +80,26 @@ interested in shadows than in light. Their logic, if followed, would have them
 burning the New Testament because Luke's account of the gospel is not exactly
 like Matthew's or because the book of Acts reports two differing versions of
 Paul's vision on the road to Damascus. (See [Acts
-9:1-9](https://www.lds.org/scriptures/nt/acts/9.1-9?lang=eng#0) and [Acts
-22:4-11](https://www.lds.org/scriptures/nt/acts/22.4-11?lang=eng#3).) Belief
-in modern prophets and continuous revelation is absent in the lives of many
-apostates. They would pin their hopes for salvation upon things other than
-those related to living prophets and living faith.
+9:1-9](/scriptures/nt/acts/9.1-9?lang=eng#0) and [Acts
+22:4-11](/scriptures/nt/acts/22.4-11?lang=eng#3).) Belief in modern prophets
+and continuous revelation is absent in the lives of many apostates. They would
+pin their hopes for salvation upon things other than those related to living
+prophets and living faith.
 
 The questions follow: How do we respond to such malicious and evil designs? Do
 we strike back? Allow me to suggest a course of action--one which is in
 harmony with the teachings of the Savior, and one which, if followed, will be
 in harmony with the wise counsel of prophets past and present:
 
-  1. _Avoid those who would tear_ _down your faith._ Faith-killers are to be shunned. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit. True messengers of God are builders--not destroyers. We send our missionaries into the world to teach and to assist people in receiving truth line upon line until the fulness of the gospel is received. (See [D&amp;C 98:112](https://www.lds.org/scriptures/dc-testament/dc/98.112?lang=eng#111).) As one new convert testified: "My previous church provided me the chapter on mortality. The Church of Jesus Christ of Latter-day Saints added two more chapters pertaining to the premortal and postmortal existences."
-
-  2. _Keep the commandments._ President Brigham Young promised, "All we have to do is to go onward and upward, and keep the commandments of our Father and God; and he will confound our enemies." (_Discourses of Brigham Young,_ sel. John A. Widtsoe, Salt Lake City: Deseret Book Co., 1957, p. 347.) If we obey holy laws, we will take upon ourselves "the whole armour of God" and we will be able to stand against the wiles of the devil. (See [Eph. 6:11-18](https://www.lds.org/scriptures/nt/eph/6.11-18?lang=eng#10).) Moreover, obedience ensures us of the guidance and protection of the Holy Spirit.
-
-  3. _Follow the living prophets, as we have just been admonished._ One Church leader taught: "Always keep your eye on the President of the Church, and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it. ... But you don't need to worry. The Lord will never let his mouthpiece lead the people astray." (Heber J. Grant, quoted by Marion G. Romney in Conference Report, Oct. 1960, p. 78.) We walk in uncharted mine fields and place our souls in jeopardy when we receive the teachings of anyone except he that is ordained of God. (See [D&amp;C 43:2-7](https://www.lds.org/scriptures/dc-testament/dc/43.2-7?lang=eng#1); [D&amp;C 52:9](https://www.lds.org/scriptures/dc-testament/dc/52.9?lang=eng#8).)
-
-  4. _Do not contend or debate over points of doctrine._ The Master warned that "the spirit of contention is not of me, but is of the devil." ([3 Ne. 11:29](https://www.lds.org/scriptures/bofm/3-ne/11.29?lang=eng#28).) We are inconsistent if we resort to Satanic tactics in attempting to achieve righteous ends. Such inconsistency results only in frustration, loss of the Spirit, and ultimate defeat. Remember, "We claim the privilege of worshiping Almighty God according to the dictates of our own conscience, and allow all men the same privilege." (Eleventh Article of Faith.)
-
-  5. _Search the scriptures._ Few of us would go astray or lose our way if we regarded the scriptures as our personal guide or compass. (See [Alma 37:44](https://www.lds.org/scriptures/bofm/alma/37.44?lang=eng#43).) The iron rod _is_ the word of God, and if held to, we will not fall.
-
-  6. _Do not be swayed or diverted from the mission of the Church._ There are those who would draw you off course and cause you to waste time and energies. Satan used a diversion ploy when he tempted Christ in the wilderness. The Savior's decisive response, "Get thee hence, Satan" ([Matt. 4:10](https://www.lds.org/scriptures/nt/matt/4.10?lang=eng#9)), is a proper example for all of us.
-
-  7. _Pray for your enemies._ Christ said to the Nephites, "Love your enemies, bless them that curse you, do good to them that hate you, and pray for them who despitefully use you and persecute you." ([3 Ne. 12:44](https://www.lds.org/scriptures/bofm/3-ne/12.44?lang=eng#43); see also [Matt. 5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43); [3 Ne. 12:10-12](https://www.lds.org/scriptures/bofm/3-ne/12.10-12?lang=eng#9).) While on the cross, the Savior pled, "Father, forgive them; for they know not what they do." ([Luke 23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).) There are many who are kept from the truth--not because they don't want it, but because they know not where to find it.
-
-  8. _Practice "pure religion."_ Involve yourself in Christian service. Succor the needs of the sick and poor; visit the fatherless and widows, and be charitable to all whether in the Church or out of the Church. (See [James 1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26) and [Alma 1:30](https://www.lds.org/scriptures/bofm/alma/1.30?lang=eng#29).)
-
-  9. _Remember that there may be many questions for which we have no answers and that some things have to be accepted simply on faith._ An angel of the Lord asked Adam, "Why dost thou offer sacrifices unto the Lord?" He answered, "I know not, save the Lord commanded me." ([Moses 5:6](https://www.lds.org/scriptures/pgp/moses/5.6?lang=eng#5).) There may be times when we are called upon to climb Mount Moriahs and to sacrifice our Isaacs without a full and prior explanation. Faith is the first principle of the gospel; it is a principle of progress.
+  1. _Avoid those who would tear__down your faith._ Faith-killers are to be shunned. The seeds which they plant in the minds and hearts of men grow like cancer and eat away the Spirit. True messengers of God are builders--not destroyers. We send our missionaries into the world to teach and to assist people in receiving truth line upon line until the fulness of the gospel is received. (See [D&amp;C 98:112](/scriptures/dc-testament/dc/98.112?lang=eng#111).) As one new convert testified: "My previous church provided me the chapter on mortality. The Church of Jesus Christ of Latter-day Saints added two more chapters pertaining to the premortal and postmortal existences."
+  2. _Keep the commandments._ President Brigham Young promised, "All we have to do is to go onward and upward, and keep the commandments of our Father and God; and he will confound our enemies." (_Discourses of Brigham Young,_ sel. John A. Widtsoe, Salt Lake City: Deseret Book Co., 1957, p. 347.) If we obey holy laws, we will take upon ourselves "the whole armour of God" and we will be able to stand against the wiles of the devil. (See [Eph. 6:11-18](/scriptures/nt/eph/6.11-18?lang=eng#10).) Moreover, obedience ensures us of the guidance and protection of the Holy Spirit. 
+  3. _Follow the living prophets, as we have just been admonished._ One Church leader taught: "Always keep your eye on the President of the Church, and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it. ... But you don't need to worry. The Lord will never let his mouthpiece lead the people astray." (Heber J. Grant, quoted by Marion G. Romney in Conference Report, Oct. 1960, p. 78.) We walk in uncharted mine fields and place our souls in jeopardy when we receive the teachings of anyone except he that is ordained of God. (See [D&amp;C 43:2-7](/scriptures/dc-testament/dc/43.2-7?lang=eng#1); [D&amp;C 52:9](/scriptures/dc-testament/dc/52.9?lang=eng#8).) 
+  4. _Do not contend or debate over points of doctrine._ The Master warned that "the spirit of contention is not of me, but is of the devil." ([3 Ne. 11:29](/scriptures/bofm/3-ne/11.29?lang=eng#28).) We are inconsistent if we resort to Satanic tactics in attempting to achieve righteous ends. Such inconsistency results only in frustration, loss of the Spirit, and ultimate defeat. Remember, "We claim the privilege of worshiping Almighty God according to the dictates of our own conscience, and allow all men the same privilege." (Eleventh Article of Faith.) 
+  5. _Search the scriptures._ Few of us would go astray or lose our way if we regarded the scriptures as our personal guide or compass. (See [Alma 37:44](/scriptures/bofm/alma/37.44?lang=eng#43).) The iron rod _is_ the word of God, and if held to, we will not fall. 
+  6. _Do not be swayed or diverted from the mission of the Church._ There are those who would draw you off course and cause you to waste time and energies. Satan used a diversion ploy when he tempted Christ in the wilderness. The Savior's decisive response, "Get thee hence, Satan" ([Matt. 4:10](/scriptures/nt/matt/4.10?lang=eng#9)), is a proper example for all of us. 
+  7. _Pray for your enemies._ Christ said to the Nephites, "Love your enemies, bless them that curse you, do good to them that hate you, and pray for them who despitefully use you and persecute you." ([3 Ne. 12:44](/scriptures/bofm/3-ne/12.44?lang=eng#43); see also [Matt. 5:44](/scriptures/nt/matt/5.44?lang=eng#43); [3 Ne. 12:10-12](/scriptures/bofm/3-ne/12.10-12?lang=eng#9).) While on the cross, the Savior pled, "Father, forgive them; for they know not what they do." ([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33).) There are many who are kept from the truth--not because they don't want it, but because they know not where to find it. 
+  8. _Practice "pure religion."_ Involve yourself in Christian service. Succor the needs of the sick and poor; visit the fatherless and widows, and be charitable to all whether in the Church or out of the Church. (See [James 1:27](/scriptures/nt/james/1.27?lang=eng#26) and [Alma 1:30](/scriptures/bofm/alma/1.30?lang=eng#29).) 
+  9. _Remember that there may be many questions for which we have no answers and that some things have to be accepted simply on faith._ An angel of the Lord asked Adam, "Why dost thou offer sacrifices unto the Lord?" He answered, "I know not, save the Lord commanded me." ([Moses 5:6](/scriptures/pgp/moses/5.6?lang=eng#5).) There may be times when we are called upon to climb Mount Moriahs and to sacrifice our Isaacs without a full and prior explanation. Faith is the first principle of the gospel; it is a principle of progress. 
 
 I suspect that there are few who know better the reality of Satan and his
 henchmen than does the full-time missionary, for the missionary is exposed to
@@ -119,9 +111,8 @@ preserved.
 
 At the same time--
 
-  1. I assure you that opposition to our cause testifies of its divinity. Would satanic powers combine against us if we were not posing a threat to such powers?
-
-  2. I assure you that opposition, if met and overcome, has a refining influence upon our lives. A verse in one of our hymns reads:
+  1. I assure you that opposition to our cause testifies of its divinity. Would satanic powers combine against us if we were not posing a threat to such powers? 
+  2. I assure you that opposition, if met and overcome, has a refining influence upon our lives. A verse in one of our hymns reads: 
 
 _When through fiery trials thy pathway shall lie,_
 
@@ -134,13 +125,12 @@ _Thy dross to consume and thy gold to refine._
 ("How Firm a Foundation," _Hymns,_ no. 66.)
 
 The Savior learned obedience by the things which he suffered. (See [Heb.
-5:8](https://www.lds.org/scriptures/nt/heb/5.8?lang=eng#7).) Joseph Smith's
-oppositions gave him experience and worked for his good. (See [D&amp;C
-122:7](https://www.lds.org/scriptures/dc-testament/dc/122.7?lang=eng#6).)
+5:8](/scriptures/nt/heb/5.8?lang=eng#7).) Joseph Smith's oppositions gave him
+experience and worked for his good. (See [D&amp;C 122:7](/scriptures/dc-
+testament/dc/122.7?lang=eng#6).)
 
-  3. I assure you that the waters in which we are wont to swim are but little puddles when compared with the deep rivers of opposition in which the Prophet Joseph and others swam. (See [D&amp;C 127:2](https://www.lds.org/scriptures/dc-testament/dc/127.2?lang=eng#1).)
-
-  4. I assure you that our cause is just and it will succeed, regardless of the opposition exerted against us. Earlier Saints were bolstered by these words: "As well might man stretch forth his puny arm to stop the Missouri river in its decreed course, or to turn it up stream, as to hinder the Almighty from pouring down knowledge from heaven upon the heads of the Latter-day Saints." ([D&amp;C 121:33](https://www.lds.org/scriptures/dc-testament/dc/121.33?lang=eng#32).)
+  3. I assure you that the waters in which we are wont to swim are but little puddles when compared with the deep rivers of opposition in which the Prophet Joseph and others swam. (See [D&amp;C 127:2](/scriptures/dc-testament/dc/127.2?lang=eng#1).) 
+  4. I assure you that our cause is just and it will succeed, regardless of the opposition exerted against us. Earlier Saints were bolstered by these words: "As well might man stretch forth his puny arm to stop the Missouri river in its decreed course, or to turn it up stream, as to hinder the Almighty from pouring down knowledge from heaven upon the heads of the Latter-day Saints." ([D&amp;C 121:33](/scriptures/dc-testament/dc/121.33?lang=eng#32).) 
 
 President Brigham Young said: "Every time you kick 'Mormonism' you kick it
 upstairs; you never kick it downstairs. The Lord Almighty so orders it."
@@ -152,17 +142,19 @@ to seek the safety of the center. This can be done best by counseling with
 your leaders and remaining within the fellowshipping circle of the Saints, and
 receiving nourishment from the good word of God. Do not permit faithless
 people to turn you out of the right way or to put you out of existence. (See
-[Moro. 6](https://www.lds.org/scriptures/bofm/moro/6.title?lang=eng).)
+[Moro. 6](/scriptures/bofm/moro/6?lang=eng).)
 
 And I pray for those who deal in the highest form of larceny--that of
 stripping people of their precious testimonies. Such action, if continued,
 will lead only to the futility and emptiness of the dream of a night vision.
-(See [2 Ne. 27:3](https://www.lds.org/scriptures/bofm/2-ne/27.3?lang=eng#2);
-[Acts 5:33-39](https://www.lds.org/scriptures/nt/acts/5.33-39?lang=eng#32).)
+(See [2 Ne. 27:3](/scriptures/bofm/2-ne/27.3?lang=eng#2); [Acts
+5:33-39](/scriptures/nt/acts/5.33-39?lang=eng#32).)
 
 God help us all in our war against sin. Though our numbers may be few and our
 dominions small, may we go forward "armed with righteousness and with the
 power of God in great glory" ([1 Ne.
-14:14](https://www.lds.org/scriptures/bofm/1-ne/14.14?lang=eng#13)), is my
-prayer in the name of Jesus Christ, amen.
+14:14](/scriptures/bofm/1-ne/14.14?lang=eng#13)), is my prayer in the name of
+Jesus Christ, amen.
+
+## References
 

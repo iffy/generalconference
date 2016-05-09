@@ -43,7 +43,7 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 Couldn't you imagine that if a family purposely built their house on sand,
 their neighbors would come running to their aid, would probably warn them and
@@ -61,8 +61,7 @@ beating hard on their homes.
 King Benjamin; "neither will ye suffer that they transgress the laws of God ...
 and serve the devil. ... But ye will teach them to walk in the ways of truth and
 soberness; ye will teach them to love one another, and to serve one another."
-([Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
+([Mosiah 4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
 
 Remember, this scripture says to _teach our children. _How can we teach them
 if we don't get together as a family (and not just as a place to exchange the
@@ -164,8 +163,10 @@ foundation; that when the devil shall send forth his mighty winds, ... when all
 of his hail and his mighty storm shall beat upon you, it shall have no power
 over you ... because of the rock upon which ye are built, which is a sure
 foundation, a foundation whereon if men build they cannot fall." ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11).)
+5:12](/scriptures/bofm/hel/5.12?lang=eng#11).)
 
 May this be so with your family, I humbly pray in the name of Jesus Christ.
 Amen.
+
+## References
 

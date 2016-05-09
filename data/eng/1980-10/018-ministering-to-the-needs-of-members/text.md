@@ -46,15 +46,14 @@ and preventive help under the direction of the quorum leaders and bishoprics.
 Stake presidents, bishops, and branch presidents, please take a particular
 interest in improving the quality of teaching in the Church. The Savior has
 told us to feed his sheep (see [John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14)). I
-fear that all too often many of our members come to church, sit through a
-class or meeting, and they then return home having been largely uninformed. It
-is especially unfortunate when this happens at a time when they may be
-entering a period of stress, temptation, or crisis. We all need to be touched
-and nurtured by the Spirit, and effective teaching is one of the most
-important ways this can happen. We often do vigorous enlistment work to get
-members to come to church but then do not adequately watch over what they
-receive when they do come.
+21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14)). I fear that all too
+often many of our members come to church, sit through a class or meeting, and
+they then return home having been largely uninformed. It is especially
+unfortunate when this happens at a time when they may be entering a period of
+stress, temptation, or crisis. We all need to be touched and nurtured by the
+Spirit, and effective teaching is one of the most important ways this can
+happen. We often do vigorous enlistment work to get members to come to church
+but then do not adequately watch over what they receive when they do come.
 
 Yesterday while speaking to the Regional Representatives, I called attention
 to the challenge facing all of us as we fellowship and teach the gospel to
@@ -76,7 +75,7 @@ outlined, we are meeting with _great_ success.
 
 We encourage you priesthood leaders to become familiar with this program and
 use it to bless people. The Lord said, "For they cannot bear meat now, but
-milk they must receive" ([D&amp;C 19:22](https://www.lds.org/scriptures/dc-
+milk they must receive" ([D&amp;C 19:22](/scriptures/dc-
 testament/dc/19.22?lang=eng#21)).
 
 One more very important thing, my brethren--especially you stake presidents,
@@ -85,7 +84,7 @@ who are sad, lonely, bereaved, or bereft. There are always some among us who
 need our special care and attention. We must never forget or overlook them.
 "Pure religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction" ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26)).
+1:27](/scriptures/nt/james/1.27?lang=eng#26)).
 
 We are rightly known as a chapel-building people. I hope we will become even
 better known as a family-building people. Do not neglect your own families,
@@ -102,4 +101,6 @@ Master. Brethren, I express my affection for you and all your people in the
 scattered portions of the world. May the Lord bless you, brethren, and know
 that you are much loved here at Church headquarters. God bless you; peace be
 with you, in the name of Jesus Christ, amen.
+
+## References
 

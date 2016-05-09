@@ -1,4 +1,4 @@
-# Hyrum Smith: “Firm As the Pillars of Heaven”
+# Hyrum Smith:“Firm As the Pillars of Heaven”
 
 My dear brothers and sisters, I am grateful to be able to stand before you
 today. After undergoing heart-bypass surgery two months ago, I am grateful to
@@ -53,7 +53,7 @@ so much power" over the Latter-day Saints. Father Smith then laid his hands
 upon Hyrum's head and blessed him to have "peace ... sufficient ... to accomplish
 the work which God has given you to do." Knowing of Hyrum's lifelong
 faithfulness, he concluded this last blessing with the promise that Hyrum
-would "be as firm as the pillars of heaven unto the end of [his] days." [1]
+would "be as firm as the pillars of heaven unto the end of [his] days."[1]
 
 This blessing identified Hyrum's strongest characteristic. More than anything
 else, he was "firm as the pillars of heaven." Throughout Hyrum's life, the
@@ -76,22 +76,22 @@ occasion, Hyrum always deferred to his younger brother.
 Speaking to his brother, Joseph once said, "Brother Hyrum, what a faithful
 heart you have got! Oh may the Eternal Jehovah crown eternal blessings upon
 your head, as a reward for the care you have had for my soul! O how many are
-the sorrows we have shared together." [2]
+the sorrows we have shared together."[2]
 
 On another occasion, Joseph referred to his brother with these profound and
-tender words: "I love him with that love that is stronger than death." [3]
+tender words: "I love him with that love that is stronger than death."[3]
 
 Hyrum gave unfailing service to the Church. In 1829, he was among a handful of
 individuals who were allowed to view the gold plates from which the Book of
 Mormon was translated, and for the rest of his life he testified to the divine
 nature of the Book of Mormon as one of the Eight Witnesses who "had seen the
-plates with his eyes and handled them with his hands." [4]  He was among the
+plates with his eyes and handled them with his hands."[4] He was among the
 first to be baptized in this gospel dispensation. At age thirty, he was the
 oldest of the six men chosen in 1830 to formally organize The Church of Jesus
 Christ of Latter-day Saints. In 1831, he stood before the Ohio conference and
 pledged "that all he had was the Lord's and he was ready to do his will
-continually." [5]  In 1833, when the Lord chastised the Church for delaying
-the start of the Kirtland Temple, Hyrum was the first to start digging its
+continually."[5] In 1833, when the Lord chastised the Church for delaying the
+start of the Kirtland Temple, Hyrum was the first to start digging its
 foundation. As chairman of the temple committee, Hyrum rallied the Church to
 perform the seemingly impossible task of building the Kirtland Temple when
 most Church members literally had nothing to give to the cause. A few years
@@ -105,7 +105,7 @@ Hyrum served many missions for the Church. During one mission, traveling from
 Kirtland to Indiana, he endured one of his greatest trials when his first
 wife, Jerusha, died soon after giving birth to his sixth child. Hyrum's
 mother, Lucy Mack Smith, wrote that Jerusha's death "wrung our hearts with
-more than common grief. ... She was a woman whom everybody loved." [6]
+more than common grief. ... She was a woman whom everybody loved."[6]
 
 Although Hyrum was grieved, his faith was unshaken; his determination to serve
 Heavenly Father and his church never faltered. I believe God rewarded his
@@ -117,7 +117,7 @@ Clearly, Hyrum Smith was one of the firm pillars of the Restoration. But
 sadly, many Church members know little about him except that he was martyred
 with his brother in Carthage Jail. That is significant, but he did far more.
 Indeed, Joseph Smith himself once suggested that his followers would do well
-to pattern their lives after Hyrum's. [7]  May I suggest a few examples from
+to pattern their lives after Hyrum's.[7] May I suggest a few examples from
 Hyrum's life that we may wish to follow.
 
 In 1829, when Joseph was finishing the translation of the Book of Mormon,
@@ -125,7 +125,7 @@ Hyrum was anxious to begin spreading the gospel and building the Church. He
 asked Joseph to inquire of the Lord what he should do. In section 11 of the
 Doctrine and Covenants we read the Lord's response: "Seek not to declare my
 word, but first seek to obtain my word. ... Study my word which hath gone forth
-... , and also study my word ... which is now translating." [8]
+..., and also study my word ... which is now translating."[8]
 
 Hyrum's life is a witness to his obedience to this instruction. To the very
 last day of his life, he devoted himself to obtaining the word through study
@@ -143,9 +143,9 @@ very early in the Restoration. According to Lucy Mack Smith, when young Joseph
 first told the rest of the family about his experience in the Sacred Grove,
 Hyrum and all the others received the message "joyfully." The family sat "in a
 circle, ... giving the most profound attention to a boy ... who had never read the
-Bible through in his life." [9]  In contrast to the reaction of Laman and
-Lemuel to their younger brother Nephi's divine calling and to the jealousy of
-the older brothers of Joseph who was sold into Egypt, there was no jealousy or
+Bible through in his life."[9] In contrast to the reaction of Laman and Lemuel
+to their younger brother Nephi's divine calling and to the jealousy of the
+older brothers of Joseph who was sold into Egypt, there was no jealousy or
 animosity in Hyrum Smith. Instead, real faith was born in him of the simple
 and joyful response he felt to the spiritual truth of his brother's message.
 The Lord let him know in his heart what was right, and he followed Joseph--
@@ -153,7 +153,7 @@ faithfully--for the rest of his life.
 
 "I, the Lord, love [Hyrum]," the Savior revealed in section 124 of the
 Doctrine and Covenants, "because of the integrity of his heart, and because he
-loveth that which is right before me." [10]
+loveth that which is right before me."[10]
 
 Faithful Hyrum had a believing heart; he did not have to see everything Joseph
 saw. For him, hearing the truth from Joseph's lips and feeling the spiritual
@@ -171,15 +171,15 @@ they and less experienced. What great blessings we receive when we follow
 
 The third example from the life of Hyrum was his selfless service to others.
 His mother commented on this quality, saying that he was "rather remarkable
-for his tenderness and sympathy." [11]  When Joseph was afflicted with severe
+for his tenderness and sympathy."[11] When Joseph was afflicted with severe
 pain in his leg, Hyrum relieved his mother and sat beside Joseph almost
 twenty-four hours a day for more than a week.
 
 Hyrum was the first to extend a hand of friendship to a visitor, the first to
 attempt to moderate a dispute, the first to forgive an enemy. The Prophet
 Joseph was known to say that "if Hyrum could not make peace between two who
-had fallen out, the angels themselves might not hope to accomplish the task."
-[12]
+had fallen out, the angels themselves might not hope to accomplish the
+task."[12]
 
 Do similar needs exist in the Church and in our families today? Are we
 sensitive to the concerns of those who need special attention? Are we aware of
@@ -195,7 +195,7 @@ midst of this most severe trial, his primary concern was not for himself and
 his companions but for his family. In a letter to his wife, Hyrum wrote that
 the "greatest part of my trouble" was wondering how she and the family were
 doing. "When I think of your trouble my heart is weighed down with sorrow. ...
-But what can I do ... thy will be done O Lord." [13]
+But what can I do ... thy will be done O Lord."[13]
 
 As I travel throughout the Church, I see members being tried in the crucible
 of affliction. I see members suffering from debilitating health concerns. I
@@ -208,9 +208,9 @@ faith. For us, like Hyrum, peace may only come when we bring ourselves to say,
 
 Surely Joseph was inspired when he wrote of his brother Hyrum, "Thy name shall
 be written ... for those who come after thee to look upon, that they may pattern
-after thy works." [14]  May we help keep the promise made to Hyrum in section
+after thy works."[14] May we help keep the promise made to Hyrum in section
 124 of the Doctrine and Covenants that his "name [shall] be had in honorable
-remembrance from generation to generation, forever and ever." [15]  His name
+remembrance from generation to generation, forever and ever."[15] His name
 most certainly will be honorably revered as we follow his example and "pattern
 after [his] works." May the memory of Hyrum Smith and all of our faithful
 forefathers never fade from our minds, I pray humbly in the name of Jesus
@@ -218,33 +218,33 @@ Christ, amen.
 
 ## References
 
-  1.  Lucy Mack Smith, _History of Joseph Smith_ (Salt Lake City: Bookcraft, 1979), p. 309.
+  1. Lucy Mack Smith, _History of Joseph Smith_ (Salt Lake City: Bookcraft, 1979), p. 309.
 
-  2.   _History of the Church,_ 5:107-108.
+  2. _History of the Church,_ 5:107-108.
 
-  3.   _History of the Church,_ 2:338.
+  3. _History of the Church,_ 2:338.
 
-  4.  Quoted in Richard Lloyd Anderson, _Investigating the Book of Mormon Witnesses,_ (Salt Lake City: Deseret Book Co., 1981), pp. 158-159.
+  4. Quoted in Richard Lloyd Anderson, _Investigating the Book of Mormon Witnesses,_ (Salt Lake City: Deseret Book Co., 1981), pp. 158-159.
 
-  5.  Quoted in Donald Q. Cannon and Lyndon W. Cook, eds., _Far West Record_ (Salt Lake City: Deseret Book Co., 1983), p. 21.
+  5. Quoted in Donald Q. Cannon and Lyndon W. Cook, eds., _Far West Record_ (Salt Lake City: Deseret Book Co., 1983), p. 21.
 
-  6.   _History of Joseph Smith,_ p. 246.
+  6. _History of Joseph Smith,_ p. 246.
 
-  7.  See _History of the Church,_ 5:108.
+  7. See _History of the Church,_ 5:108.
 
-  8.   [D&amp;C 11:21-22](https://www.lds.org/scriptures/dc-testament/dc/11.21-22?lang=eng#20).
+  8. [D&amp;C 11:21-22](https://www.lds.org/scriptures/dc-testament/dc/11.21-22?lang=eng#20).
 
-  9.   _History of Joseph Smith,_ p. 82.
+  9. _History of Joseph Smith,_ p. 82.
 
-  10.   [D&amp;C 124:15](https://www.lds.org/scriptures/dc-testament/dc/124.15?lang=eng#14).
+  10. [D&amp;C 124:15](https://www.lds.org/scriptures/dc-testament/dc/124.15?lang=eng#14).
 
-  11.   _History of Joseph Smith,_ p. 55.
+  11. _History of Joseph Smith,_ p. 55.
 
-  12.  J. P. Widtsoe Osborne, "Hyrum Smith, Patriarch," _The Utah Genealogical and Historical Magazine,_ Apr. 1911, p. 56.
+  12. J. P. Widtsoe Osborne, "Hyrum Smith, Patriarch," _The Utah Genealogical and Historical Magazine,_ Apr. 1911, p. 56.
 
-  13.  Hyrum Smith letter to Mary Fielding Smith, 16 March 1839.
+  13. Hyrum Smith letter to Mary Fielding Smith, 16 March 1839.
 
-  14.   _History of the Church,_ 5:108.
+  14. _History of the Church,_ 5:108.
 
-  15.   [D&amp;C 124:96](https://www.lds.org/scriptures/dc-testament/dc/124.96?lang=eng#95).
+  15. [D&amp;C 124:96](https://www.lds.org/scriptures/dc-testament/dc/124.96?lang=eng#95).
 

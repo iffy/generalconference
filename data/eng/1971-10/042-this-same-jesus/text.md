@@ -48,11 +48,11 @@ greatest anguish. Here it was that he sweat drops of blood; and as he knelt
 there in the garden alone, his disciples having remained outside, he said, "O
 my father, if it be possible, let this cup pass from me: nevertheless not as I
 will, but as thou wilt." ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).) I thought
-as I stood there and remembered those words, how wonderful it would be for all
-of us if we had the courage and the insight and the fortitude, whatever might
-happen to us, to say, "Not my will, but thine be done." That attitude makes
-any burden lighter. It makes any task less difficult.
+26:39](/scriptures/nt/matt/26.39?lang=eng#38).) I thought as I stood there and
+remembered those words, how wonderful it would be for all of us if we had the
+courage and the insight and the fortitude, whatever might happen to us, to
+say, "Not my will, but thine be done." That attitude makes any burden lighter.
+It makes any task less difficult.
 
 We went up through the Via Dolorosa Road, where he carried his cross up to
 Golgotha. We are told of that struggle. While there is a great deal of
@@ -66,13 +66,12 @@ These women who were the last at the cross and the first at the tomb could not
 believe but that they would be permitted to anoint his body; but when they saw
 that he had gone and the stone had been rolled away, the attendants in the
 tomb said, "Why seek ye the living among the dead? He is not here, but is
-risen." ([Luke
-24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4).) They could
-not comprehend the meaning of what they heard. And then Mary, turning, had a
+risen." ([Luke 24:5-6](/scriptures/nt/luke/24.5-6?lang=eng#4).) They could not
+comprehend the meaning of what they heard. And then Mary, turning, had a
 glimpse of the feet and ankles of someone standing near. She thought it was
 the gardener, and she said, "I have come to find the Master. Tell me where you
 have laid him, and I will take him away." (See [John
-20:15](https://www.lds.org/scriptures/nt/john/20.15?lang=eng#14).)
+20:15](/scriptures/nt/john/20.15?lang=eng#14).)
 
 Jesus reached forth his hand and said to her, in that voice which only he
 could use, "Mary." She looked up and saw the face of Jesus the Christ and was
@@ -87,9 +86,9 @@ the Transfiguration, where Moses and Elijah met with Jesus and Peter, James,
 and John; and He was transfigured before them. While on this mount, Christ
 instructed them, and Peter, feeling that it was a good place to be, said, "Let
 us build a tabernacle, one for Moses, one for Elijah and one for thee." (See
-[Matt. 17:4](https://www.lds.org/scriptures/nt/matt/17.4?lang=eng#3). See also
-James E. Talmage, _Jesus the Christ, _pp. 370-71.) That was not thought wise
-at the time, however.
+[Matt. 17:4](/scriptures/nt/matt/17.4?lang=eng#3). See also James E. Talmage,
+_Jesus the Christ, _pp. 370-71.) That was not thought wise at the time,
+however.
 
 From Mount Tabor we went on over the hill past Nazareth and came upon the Sea
 of Galilee. All of us gasped as we came over the hill and saw this beautiful
@@ -118,7 +117,7 @@ has told us this afternoon. Peter said what a lot of us would like to say when
 Jesus asked him, "... whom sayest ye that I am?" He said, "Thou art the Christ,
 the Son of the living God." Jesus said, "Flesh and blood hath not revealed it
 unto thee, but my Father which is in heaven." ([Matt.
-16:15-17](https://www.lds.org/scriptures/nt/matt/16.15-17?lang=eng#14).)
+16:15-17](/scriptures/nt/matt/16.15-17?lang=eng#14).)
 
 I want to tell you, my brethren and sisters, as is my calling as a witness of
 Christ, that I too know, and I know it from the same source that Peter knew
@@ -138,4 +137,6 @@ Let us, then, at this closing session, renew that plea and rededicate
 ourselves to the unfinished task of bringing to pass the immortality and
 eternal life of men. I bear this witness to you, and bring you this report on
 my activities, in the name of Jesus Christ. Amen.
+
+## References
 

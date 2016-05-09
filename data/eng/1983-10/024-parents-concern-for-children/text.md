@@ -66,18 +66,17 @@ either case there are several thoughts I would like to share with you.
 
 First, such a father or mother is not alone. Our first parents knew the pain
 and suffering of seeing some of their children reject the teachings of eternal
-life. (See [Moses
-5:27](https://www.lds.org/scriptures/pgp/moses/5.27?lang=eng#26).) Centuries
+life. (See [Moses 5:27](/scriptures/pgp/moses/5.27?lang=eng#26).) Centuries
 later Jacob came to know of the jealousy and ill feelings of his older sons
 toward his beloved Joseph. (See [Gen.
-37:1-8](https://www.lds.org/scriptures/ot/gen/37.1-8?lang=eng#0).) The great
-prophet Alma, who had a son named Alma, prayed at length to the Lord regarding
-the rebellious attitude of his son and no doubt was overwhelmed with concern
-and worry about the dissension and the wickedness his son was causing among
-those who were within the Church. (See [Mosiah
-27:14](https://www.lds.org/scriptures/bofm/mosiah/27.14?lang=eng#13).) Our
-Father in Heaven has also lost many of his spirit children to the world; he
-knows the feelings of your heart.
+37:1-8](/scriptures/ot/gen/37.1-8?lang=eng#0).) The great prophet Alma, who
+had a son named Alma, prayed at length to the Lord regarding the rebellious
+attitude of his son and no doubt was overwhelmed with concern and worry about
+the dissension and the wickedness his son was causing among those who were
+within the Church. (See [Mosiah
+27:14](/scriptures/bofm/mosiah/27.14?lang=eng#13).) Our Father in Heaven has
+also lost many of his spirit children to the world; he knows the feelings of
+your heart.
 
 Second, we should remember that errors of judgment are generally less serious
 than errors of intent.
@@ -137,7 +136,7 @@ by parents to their children in the home. He said to them:
 "And thou shalt teach them diligently unto thy children, and shalt talk of
 them when thou sittest in thine house, and when thou walkest by the way, and
 when thou liest down, and when thou risest up." ([Deut.
-6:6-7](https://www.lds.org/scriptures/ot/deut/6.6-7?lang=eng#5).)
+6:6-7](/scriptures/ot/deut/6.6-7?lang=eng#5).)
 
 We should never let Satan fool us into thinking that all is lost. Let us take
 pride in the good and right things we have done; reject and cast out of our
@@ -157,4 +156,6 @@ judgments upon themselves and may be allowing these feelings to destroy their
 lives, when in fact they have done their best and should continue in faith.
 That all who are parents might find joy in their efforts with their children
 is my prayer, in the name of Jesus Christ, amen.
+
+## References
 

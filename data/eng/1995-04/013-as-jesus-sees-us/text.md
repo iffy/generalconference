@@ -26,16 +26,15 @@ the intents of our hearts. He is the one who has provided the perfect pattern
 and the perfect standard for all mankind not only by all that he is and did
 but with his compellingly clear question and invitation, "What manner of men
 ought ye to be? Verily I say unto you, even as I am" ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26)). To do as
-he asks and to be what we should, assures us of his approval. But to do
-otherwise invites his disappointment.
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26)). To do as he asks and to be
+what we should, assures us of his approval. But to do otherwise invites his
+disappointment.
 
 He, who not only knows us best but loves us most, has provided through the
 grandeur of his atonement all that we need to compensate for our failings,
 mistakes, sins, and disappointments if only we accept the Master's invitation
 to come to him by way of the narrow gate and the straight path identified by
-his prophets (see [2 Ne.
-31](https://www.lds.org/scriptures/bofm/2-ne/31.title?lang=eng)) and obtain
+his prophets (see [2 Ne. 31](/scriptures/bofm/2-ne/31?lang=eng)) and obtain
 the blessings made available to all who seek them through his authorized
 agents.
 
@@ -48,43 +47,43 @@ Salt Lake City: Deseret Book Co., 1981, p. 90).
 
 In his parable of the good Samaritan, the Son of God clarified his
 expectations for all people who would want to be like him (see [Luke
-10:30-37](https://www.lds.org/scriptures/nt/luke/10.30-37?lang=eng#29)). Not
-only did he model and teach the attitudes and actions that he expects and
-requires from each of us, but he also provides the ordinances and covenants
-whereby we, through his duly appointed servants, might obtain all the
-blessings he has promised both proximate and timeless.
+10:30-37](/scriptures/nt/luke/10.30-37?lang=eng#29)). Not only did he model
+and teach the attitudes and actions that he expects and requires from each of
+us, but he also provides the ordinances and covenants whereby we, through his
+duly appointed servants, might obtain all the blessings he has promised both
+proximate and timeless.
 
 With his magnificent compassion and power, the Savior was able to miraculously
 feed the multitudes of thousands when conditions required it (see [Luke
-9:10-17](https://www.lds.org/scriptures/nt/luke/9.10-17?lang=eng#9)), but he
-was also willing to take the time to provide "living water" with its guidance
-to eternal life to the solitary sinner of professedly low status (see [John
-4:7-26](https://www.lds.org/scriptures/nt/john/4.7-26?lang=eng#6)). He
-graciously preached the gospel to large congregations, but also was inclined
-to take time for a seemingly insignificant Nathanael and his individual
-questions (see [John
-1:45-51](https://www.lds.org/scriptures/nt/john/1.45-51?lang=eng#44)).
+9:10-17](/scriptures/nt/luke/9.10-17?lang=eng#9)), but he was also willing to
+take the time to provide "living water" with its guidance to eternal life to
+the solitary sinner of professedly low status (see [John
+4:7-26](/scriptures/nt/john/4.7-26?lang=eng#6)). He graciously preached the
+gospel to large congregations, but also was inclined to take time for a
+seemingly insignificant Nathanael and his individual questions (see [John
+1:45-51](/scriptures/nt/john/1.45-51?lang=eng#44)).
 
 He, who under the direction of the Father, had created the world and literally
 could do it all himself, involves others in his ministry. At the time of his
 crucifixion he asked his beloved John to care for his mother, Mary, as if she
 were John's own mother (see [John
-19:25-27](https://www.lds.org/scriptures/nt/john/19.25-27?lang=eng#24)).
-During our time, Jesus Christ himself, together with his Father, appeared to
-the Prophet Joseph Smith, and yet Moroni was given the privilege and honor to
-be his agent in bringing forth the Book of Mormon. This is the Savior's
-church, and yet, he has called President Gordon B. Hinckley to preside over us
-during our day. I certify with gratitude, but also with some hopefully
-appropriate trepidation, that the Lord has called you and me to represent him
-in various important ways and duties whether they seem large or small to us.
+19:25-27](/scriptures/nt/john/19.25-27?lang=eng#24)). During our time, Jesus
+Christ himself, together with his Father, appeared to the Prophet Joseph
+Smith, and yet Moroni was given the privilege and honor to be his agent in
+bringing forth the Book of Mormon. This is the Savior's church, and yet, he
+has called President Gordon B. Hinckley to preside over us during our day. I
+certify with gratitude, but also with some hopefully appropriate trepidation,
+that the Lord has called you and me to represent him in various important ways
+and duties whether they seem large or small to us.
 
 As we strive to better understand how Jesus sees us and contemplate our own
 attempts to live as the Redeemer would have us live, let us remember his
 instructing observations and their universal applications in literally all
 that we do: "If ye love me, keep my commandments" ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14)) and
-"Inasmuch as ye have done it unto one of the least of these my brethren, ye
-have done it unto me" ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39)). In the name
-of Jesus Christ, amen.
+14:15](/scriptures/nt/john/14.15?lang=eng#14)) and "Inasmuch as ye have done
+it unto one of the least of these my brethren, ye have done it unto me"
+([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39)). In the name of Jesus
+Christ, amen.
+
+## References
 

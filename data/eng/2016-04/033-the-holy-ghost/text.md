@@ -158,3 +158,51 @@ gratitude to Heavenly Father for the gift of the Holy Ghost, through which He
 reveals His will and sustains us in our lives. In the name of Jesus Christ,
 amen.
 
+## References
+
+  1. [Doctrine and Covenants 93:2](https://www.lds.org/scriptures/dc-testament/dc/93.2?lang=eng#1); see also [John 1:9](https://www.lds.org/scriptures/nt/john/1.9?lang=eng#8).
+
+  2. [Doctrine and Covenants 88:6](https://www.lds.org/scriptures/dc-testament/dc/88.6?lang=eng#5).
+
+  3. See Bible Dictionary, "[Light of Christ](https://www.lds.org/scriptures/bd/light-of-christ?lang=eng)"; see also [Moroni 7:12-19](https://www.lds.org/scriptures/bofm/moro/7.12-19?lang=eng#11).
+
+  4. See [John 17](https://www.lds.org/scriptures/nt/john/17?lang=eng).
+
+  5. See lesson 5, "Performing Priesthood Ordinances," in _Duties and Blessings of the Priesthood: Basic Manual for Priesthood Holders, Part B_ (2000), 41-48.
+
+  6. See [John 15:26](https://www.lds.org/scriptures/nt/john/15.26?lang=eng#25); [Romans 8:16](https://www.lds.org/scriptures/nt/rom/8.16?lang=eng#15).
+
+  7. [Doctrine and Covenants 39:6](https://www.lds.org/scriptures/dc-testament/dc/39.6?lang=eng#5).
+
+  8. [Romans 15:13](https://www.lds.org/scriptures/nt/rom/15.13?lang=eng#12).
+
+  9. [Doctrine and Covenants 11:12](https://www.lds.org/scriptures/dc-testament/dc/11.12?lang=eng#11).
+
+  10. [Doctrine and Covenants 46:11-12](https://www.lds.org/scriptures/dc-testament/dc/46.11-12?lang=eng#10); see also [Moroni 10:8-17](https://www.lds.org/scriptures/bofm/moro/10.8-17?lang=eng#7); [Doctrine and Covenants 13-16.](https://www.lds.org/scriptures/dc-testament/dc/13?lang=eng)
+
+  11. [Alma 18:35](https://www.lds.org/scriptures/bofm/alma/18.35?lang=eng#34).
+
+  12. [John 14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25).
+
+  13. [3 Nephi 27:20](https://www.lds.org/scriptures/bofm/3-ne/27.20?lang=eng#19).
+
+  14. [2 Nephi 31:17](https://www.lds.org/scriptures/bofm/2-ne/31.17?lang=eng#16).
+
+  15. [Doctrine and Covenants 88:3](https://www.lds.org/scriptures/dc-testament/dc/88.3?lang=eng#2).
+
+  16. See [Doctrine and Covenants 8:2-3](https://www.lds.org/scriptures/dc-testament/dc/8.2-3?lang=eng#1).
+
+  17. [Numbers 12:6, 8](https://www.lds.org/scriptures/ot/num/12.6,8?lang=eng#5).
+
+  18. See[ Joseph Smith--History 1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18).
+
+  19. [Joseph Smith--History 1:12](https://www.lds.org/scriptures/pgp/js-h/1.12?lang=eng#11).
+
+  20. See [Doctrine and Covenants 121:41-42](https://www.lds.org/scriptures/dc-testament/dc/121.41-42?lang=eng#40).
+
+  21. Letter from Frederick E. Hibben.
+
+  22. [1 Nephi 8:8](https://www.lds.org/scriptures/bofm/1-ne/8.8?lang=eng#7).
+
+  23. See [Moroni 7:29](https://www.lds.org/scriptures/bofm/moro/7.29?lang=eng#28).
+

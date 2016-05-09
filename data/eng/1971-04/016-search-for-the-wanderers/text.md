@@ -62,8 +62,7 @@ saying unto them, Rejoice with me; for I have found my sheep which was lost.
 
 "I say unto you, that likewise joy shall be in heaven over one sinner that
 repenteth, more than over ninety and nine just persons, which need no
-repentance." ([Luke
-15:1-7](https://www.lds.org/scriptures/nt/luke/15.1-7?lang=eng#0).)
+repentance." ([Luke 15:1-7](/scriptures/nt/luke/15.1-7?lang=eng#0).)
 
 Every bishop, every stake president, every leader of any organization knows
 someone who needs attention, and you and we have the responsibility of going
@@ -185,4 +184,6 @@ is his church and kingdom. He has given us the responsibility of teaching and
 helping to save our fellowmen. May we do it in a way that will be acceptable
 to him, which will bring joy to us and help to prepare us for eternal life, I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

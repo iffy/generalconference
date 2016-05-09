@@ -130,8 +130,7 @@ therefore, I beseech of you that ye do not procrastinate the day of your
 repentance until the end; for after this day of life, which is given us to
 prepare for eternity, behold, if we do not improve our time while in this
 life, then cometh the night of darkness wherein there can be no labor
-performed." ([Alma
-34:32-33](https://www.lds.org/scriptures/bofm/alma/34.32-33?lang=eng#31).)
+performed." ([Alma 34:32-33](/scriptures/bofm/alma/34.32-33?lang=eng#31).)
 
 Dear Elder, you said one day in a conference that mothers can give birth to
 children, but missionaries can give eternal life to people. I recorded this as
@@ -143,8 +142,7 @@ him that endureth to the end will I give eternal life.
 
 "Behold, I have given unto you the commandments; therefore keep my
 commandments. And this is the law and the prophets, for they truly testified
-of me." ([3 Ne.
-15:9-10](https://www.lds.org/scriptures/bofm/3-ne/15.9-10?lang=eng#8).)
+of me." ([3 Ne. 15:9-10](/scriptures/bofm/3-ne/15.9-10?lang=eng#8).)
 
 You have opened the gate to many. Why, why do you close it for yourself? May I
 put my foot in the door, as you once did in mine? Reach out your hand while
@@ -162,4 +160,6 @@ following his directions and advice we can come closer to our Heavenly Father
 and repent of our sins. My prayer is that you may realize this again in your
 own life and make a new decision to be one of His disciples, in the name of
 Jesus Christ. Amen.
+
+## References
 

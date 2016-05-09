@@ -24,9 +24,8 @@ Jacob reminds us of the Israelites in ancient times who got themselves into
 great difficulty: "They despised the words of plainness, and killed the
 prophets, and sought for things that they could not understand. Wherefore,
 because of their blindness, which blindness came by _looking beyond the mark,_
-they must needs fall" ([Jacob
-4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13); italics
-added).
+they must needs fall" ([Jacob 4:14](/scriptures/bofm/jacob/4.14?lang=eng#13);
+italics added).
 
 Generally, a figurative expression such as the one Jacob uses in this
 text--"looking beyond the mark"--comes from something that is common and
@@ -44,10 +43,9 @@ did not stay within the circle.
 Jacob speaks of people who placed themselves in serious jeopardy in spiritual
 things because they were unwilling to accept simple, basic principles of
 truth. They entertained and intrigued themselves with "things that they could
-not understand" ([Jacob
-4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13)). They were
-apparently afflicted with a pseudosophistication and a snobbishness that gave
-them a false sense of superiority over those who came among them with the
+not understand" ([Jacob 4:14](/scriptures/bofm/jacob/4.14?lang=eng#13)). They
+were apparently afflicted with a pseudosophistication and a snobbishness that
+gave them a false sense of superiority over those who came among them with the
 Lord's words of plainness. They went beyond the mark of wisdom and prudence,
 and obviously failed to stay within the circle of fundamental gospel truths,
 which provide a basis for faith. They must have reveled in speculative and
@@ -61,7 +59,7 @@ It seems to me that every generation faces its challenges with "looking beyond
 the mark." The Apostle Paul worried about those whom he had helped to develop
 a testimony of Jesus Christ. Paul advised Titus to "avoid foolish questions ...
 and contentions, and strivings about the law; for they are unprofitable and
-vain" ([Titus 3:9](https://www.lds.org/scriptures/nt/titus/3.9?lang=eng#8)).
+vain" ([Titus 3:9](/scriptures/nt/titus/3.9?lang=eng#8)).
 
 To Timothy, Paul wrote:
 
@@ -72,12 +70,11 @@ with all longsuffering and doctrine.
 their own lusts shall they heap to themselves teachers, having itching ears;
 
 "And they shall turn away their ears from the truth, and shall be turned unto
-fables" ([2 Tim.
-4:2-4](https://www.lds.org/scriptures/nt/2-tim/4.2-4?lang=eng#1)).
+fables" ([2 Tim. 4:2-4](/scriptures/nt/2-tim/4.2-4?lang=eng#1)).
 
 Earlier, Paul had counseled Timothy not to "give heed to fables and endless
 genealogies, which minister questions, rather than godly edifying which is in
-faith" ([1 Tim. 1:4](https://www.lds.org/scriptures/nt/1-tim/1.4?lang=eng#3)).
+faith" ([1 Tim. 1:4](/scriptures/nt/1-tim/1.4?lang=eng#3)).
 
 As I have wondered how we might protect ourselves in the present day from
 "going beyond the mark," I have resolved to do several things which I share
@@ -91,7 +88,7 @@ myself. Jacob said: "For the Spirit speaketh the truth and lieth not.
 Wherefore, it speaketh of things as they really are, and of things as they
 really will be; wherefore, these things are manifested unto us plainly, for
 the salvation of our souls" ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12)).
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12)).
 
 I am much more concerned about understanding the admonitions of Samuel the
 Lamanite as he stood on the walls of the city of Zarahemla and called the
@@ -156,4 +153,6 @@ for us.
 
 May God help us to do so and to keep from looking beyond that mark, I pray
 earnestly in the name of Jesus Christ, amen.
+
+## References
 

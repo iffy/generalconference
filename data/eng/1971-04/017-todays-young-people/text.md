@@ -75,9 +75,8 @@ damned.
 
 "Then they say in their hearts: This is not the work of the Lord, for his
 promises are not fulfilled. But wo unto such, for their reward lurketh
-beneath, and not from above." ([D&amp;C 58:26-29,
-32-33](https://www.lds.org/scriptures/dc-
-testament/dc/58.26-29%2C32-33?lang=eng#25).)
+beneath, and not from above." ([D&amp;C 58:26-29, 32-33](/scriptures/dc-
+testament/dc/58.26-29,32-33?lang=eng#25).)
 
 Brethren of the priesthood, in your own circle, in your own home, in your own
 lives, you must do all you can of your own free will, and bring to pass much
@@ -90,4 +89,6 @@ others round about you, and we will be on our way to a glorious future.
 
 That the Lord may help us so to do, I pray humbly, in the name of the Lord
 Jesus Christ. Amen.
+
+## References
 

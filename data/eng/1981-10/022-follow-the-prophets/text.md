@@ -67,15 +67,15 @@ divinely chosen, duly ordained and set apart by the laying on of hands by
 those authorized to do so.
 
 They were called of God as was Aaron (see [Heb.
-5:4](https://www.lds.org/scriptures/nt/heb/5.4?lang=eng#3)), according to the
-pattern described by the Apostle Paul in his epistle to the Hebrews. They were
-appointed by revelation, ordained by other living prophets, and fully
-commissioned to act in the name of the Lord.
+5:4](/scriptures/nt/heb/5.4?lang=eng#3)), according to the pattern described
+by the Apostle Paul in his epistle to the Hebrews. They were appointed by
+revelation, ordained by other living prophets, and fully commissioned to act
+in the name of the Lord.
 
 God speaks through our great leaders and guides his people by their words. Did
 not the Lord himself say: "Whether by mine own voice or by the voice of my
-servants, _it is the same_"? ([D&amp;C 1:38](https://www.lds.org/scriptures
-/dc-testament/dc/1.38?lang=eng#37); italics added.)
+servants, _it is the same_"? ([D&amp;C 1:38](/scriptures/dc-
+testament/dc/1.38?lang=eng#37); italics added.)
 
 The President of the Church, who indeed is the living mouthpiece of God and
 the presiding high priest on earth, is given sacred endowments even as was the
@@ -93,35 +93,33 @@ into the grave? The work would have stopped because God operates only
 authoritatively.
 
 Did not Amos of old say that the Lord will do _nothing_ except through his
-servants the prophets? (See [Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) And did God ever
-send prophets to earth without divine authority, without the right to speak
-and act in his name?
+servants the prophets? (See [Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
+And did God ever send prophets to earth without divine authority, without the
+right to speak and act in his name?
 
 Were not the prophets and Apostles placed in the early Christian church by the
 Savior himself? And were they not called and ordained "for the perfecting of
 the saints, for the work of the ministry, for the edifying of the body of
-Christ"? ([Eph.
-4:12](https://www.lds.org/scriptures/nt/eph/4.12?lang=eng#11).)
+Christ"? ([Eph. 4:12](/scriptures/nt/eph/4.12?lang=eng#11).)
 
 And were they not the _foundation_ of the true church, as Paul said, the
 Savior being the chief cornerstone? (See [Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).)
+2:20](/scriptures/nt/eph/2.20?lang=eng#19).)
 
 And were they not to remain in the Church "till we all come in the unity of
 the faith, and of the knowledge of the Son of God, unto a perfect man, unto
 the measure of the stature of the fulness of Christ"? ([Eph.
-4:13](https://www.lds.org/scriptures/nt/eph/4.13?lang=eng#12).)
+4:13](/scriptures/nt/eph/4.13?lang=eng#12).)
 
 And were they not to remain also that we "be no more children, tossed to and
 fro, and carried about with every wind of doctrine"? ([Eph.
-4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13).)
+4:14](/scriptures/nt/eph/4.14?lang=eng#13).)
 
 The need for such direction is as great today as it was in the time of Peter
 and Paul when indeed every wind of doctrine _did_ assail the Saints, and when
 false prophets _did_ arise, teaching with "cunning craftiness, whereby they"
 _did_ indeed "lie in wait to deceive." ([Eph.
-4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13).)
+4:14](/scriptures/nt/eph/4.14?lang=eng#13).)
 
 The Saints today need instruction from God through his prophets just as did
 the members of the ancient church. We of this dispensation also must depend
@@ -165,7 +163,7 @@ devil cheateth their souls, and leadeth them away carefully down to hell.
 saith unto them: I am no devil, for there is none--and thus he whispereth in
 their ears, until he grasps them with his awful chains, from whence there is
 no deliverance." ([2 Ne.
-28:20-22](https://www.lds.org/scriptures/bofm/2-ne/28.20-22?lang=eng#19).)
+28:20-22](/scriptures/bofm/2-ne/28.20-22?lang=eng#19).)
 
 Have you ever known a time in your lives when there was as much temptation as
 there is right now? Many an adult has said that he is glad he is not growing
@@ -282,16 +280,15 @@ Of his faithful servants the Lord has said: These are they who overcome by
 faith. Wherefore, all things are theirs and they are Christ's, and Christ is
 God's. These are they whose names are written in heaven, where God and Christ
 are the judge of all. These are they whose glory is that of the sun, even the
-glory of God, the highest of all. (See [D&amp;C 76:53, 59, 68,
-70](https://www.lds.org/scriptures/dc-
-testament/dc/76.53%2C59%2C68%2C70?lang=eng#52).)
+glory of God, the highest of all. (See [D&amp;C 76:53, 59, 68, 70](/scriptures
+/dc-testament/dc/76.53,59,68,70?lang=eng#52).)
 
 The Lord will honor his prophets throughout eternity, for he will make them
 heirs of God and joint heirs with Christ. ([Rom.
-8:17](https://www.lds.org/scriptures/nt/rom/8.17?lang=eng#16).) The Lord
-expects us, his people, to honor them also, to sustain them and to follow
-them. May we therefore always sing with deep sincerity this wonderful hymn,
-which in truth is a prayer, but also a covenant:
+8:17](/scriptures/nt/rom/8.17?lang=eng#16).) The Lord expects us, his people,
+to honor them also, to sustain them and to follow them. May we therefore
+always sing with deep sincerity this wonderful hymn, which in truth is a
+prayer, but also a covenant:
 
 _We thank thee, O God, for a prophet_
 
@@ -310,4 +307,6 @@ _We feel it a pleasure to serve thee,_
 _And love to obey thy command._
 
 In the name of the Lord, Jesus Christ, amen.
+
+## References
 

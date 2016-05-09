@@ -13,15 +13,14 @@ The Lord promised Adam that he would have a righteous seed which would last to
 the end of the earth, which is recorded in the Book of Moses: "And in that day
 the Holy Ghost fell upon Adam, which beareth record of the Father and the Son,
 saying: ... as thou hast fallen thou mayest be redeemed, and all mankind, even
-as many as will." ([Moses
-5:9](https://www.lds.org/scriptures/pgp/moses/5.9?lang=eng#8).)
+as many as will." ([Moses 5:9](/scriptures/pgp/moses/5.9?lang=eng#8).)
 
 In the next chapter we read: "Now this same Priesthood, which was in the
 beginning, shall be in the end of the world also.
 
 "Now this prophecy Adam spake, as he was moved upon by the Holy Ghost, and a
 genealogy was kept of the children of God. ..." ([Moses
-6:7-8](https://www.lds.org/scriptures/pgp/moses/6.7-8?lang=eng#6).)
+6:7-8](/scriptures/pgp/moses/6.7-8?lang=eng#6).)
 
 This became the record of the royal seed, which is a record in part, at least,
 of the fulfillment of this promise. This we have today, at least in part,
@@ -36,18 +35,17 @@ the following manner:
 and was blessed by him three years previous to his (Adam's) death, and
 received the promise of God by his father, that his posterity should be the
 chosen of the Lord, and that they should be preserved _unto the end of the
-earth._" ([D&amp;C 107:41-42](https://www.lds.org/scriptures/dc-
+earth._" ([D&amp;C 107:41-42](/scriptures/dc-
 testament/dc/107.41-42?lang=eng#40). Italics added.)
 
 This promise was repeated again to Abraham, who was Seth's posterity:
 
 "And I will bless them that bless thee, and curse him that curseth thee: and
 in thee shall all families of the earth be blessed." ([Gen.
-12:3](https://www.lds.org/scriptures/ot/gen/12.3?lang=eng#2).)
+12:3](/scriptures/ot/gen/12.3?lang=eng#2).)
 
 "And in thy seed shall all the nations of the earth be blessed; because thou
-hast obeyed my voice." ([Gen.
-22:18](https://www.lds.org/scriptures/ot/gen/22.18?lang=eng#17).)
+hast obeyed my voice." ([Gen. 22:18](/scriptures/ot/gen/22.18?lang=eng#17).)
 
 We have a choice record in the Pearl of Great Price, the Book of Abraham,
 describing how this blessing relates to us today. Speaking to Abraham, the
@@ -68,7 +66,7 @@ for I give unto thee a promise that this right shall continue in thee, and in
 thy seed after thee (that is to say, the literal seed, or the seed of the
 body) shall all the families of the earth be blessed, even with the blessings
 of the Gospel, which are the blessings of salvation, even of life eternal."
-([Abr. 2:9-11](https://www.lds.org/scriptures/pgp/abr/2.9-11?lang=eng#8).)
+([Abr. 2:9-11](/scriptures/pgp/abr/2.9-11?lang=eng#8).)
 
 This blessing was renewed to Isaac, the son of Abraham, and then to Jacob, who
 became Israel, and then divided among his twelve sons, each becoming a tribe,
@@ -84,8 +82,7 @@ This does not mean that all the nations of the earth will become literal
 descendants of Abraham, though his seed may be scattered in all nations, but
 as it says, all shall receive the blessings through those who are the seed of
 Abraham and shall be accounted his seed, and rise up and bless him as their
-father. (See [Abr.
-2:10](https://www.lds.org/scriptures/pgp/abr/2.10?lang=eng#9).)
+father. (See [Abr. 2:10](/scriptures/pgp/abr/2.10?lang=eng#9).)
 
 If members of the Church are literal descendants of Abraham, they will receive
 such a blessing. If they are not literal descendants of Abraham and join the
@@ -113,8 +110,7 @@ pleasure which he hath purposed in himself:
 
 "That in the dispensation of the fulness of times he might gather together in
 one all things in Christ, both which are in heaven, and which are on earth;
-even in him." ([Eph.
-1:9-10](https://www.lds.org/scriptures/nt/eph/1.9-10?lang=eng#8).)
+even in him." ([Eph. 1:9-10](/scriptures/nt/eph/1.9-10?lang=eng#8).)
 
 The Prophet Joseph Smith put it this way: "... that the dispensation of the
 fulness of times is made up of all the dispensations that ever have been given
@@ -142,4 +138,6 @@ blessings of eternal life and be recorded in the Lamb's book of remembrance
 and share the blessings of the royal seed of the righteous, even the blessings
 of eternal life. I testify that this is his kingdom, in the name of Jesus
 Christ. Amen.
+
+## References
 

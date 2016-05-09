@@ -12,17 +12,15 @@ counseled to do here today. Our time here this morning has been well spent.
 The subject of the talk I have prepared is "The Royal Law." Defining it, the
 apostle James said, "If ye fulfil the royal law according to the scripture,
 Thou shalt love thy neighbour as thyself, ye do well." ([James
-2:8](https://www.lds.org/scriptures/nt/james/2.8?lang=eng#7).) We must have
-this law in mind in all that we do in our welfare work. We must love our
-neighbors as ourselves. The Savior put this law second only to the love of God
-when He said:
+2:8](/scriptures/nt/james/2.8?lang=eng#7).) We must have this law in mind in
+all that we do in our welfare work. We must love our neighbors as ourselves.
+The Savior put this law second only to the love of God when He said:
 
 "Thou shalt love the Lord thy God with all thy heart, and with all thy soul,
 and with all thy mind.
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36).)
+([Matt. 22:37, 39](/scriptures/nt/matt/22.37,39?lang=eng#36).)
 
 In the payment of our fast offerings, we must do so with the royal law in
 mind. You remember that Isaiah speaks of the people who came to the Lord and
@@ -35,8 +33,7 @@ you bow down your heads as a bulrush and spread sackcloth and ashes under your
 feet, but you do not deal your bread to the hungry, nor provide housing for
 the poor, nor do you cover the naked. When you do these things, "then shalt
 thou call, and the Lord shall answer; thou shalt cry, and he shall say, Here I
-am." (See [Isa.
-58:3-9](https://www.lds.org/scriptures/ot/isa/58.3-9?lang=eng#2).)
+am." (See [Isa. 58:3-9](/scriptures/ot/isa/58.3-9?lang=eng#2).)
 
 The caring for the poor and the handicapped and those who need our help is a
 main purpose and an absolute requirement in fulfilling the royal law of loving
@@ -49,7 +46,7 @@ visit not the sick and afflicted, and impart of your substance, if ye have, to
 those who stand in need--I say unto you, if ye do not any of these things,
 behold, your prayer is vain, and availeth you nothing, and ye are as
 hypocrites who do deny the faith." (See [Alma
-34:17-38](https://www.lds.org/scriptures/bofm/alma/34.17-38?lang=eng#16).)
+34:17-38](/scriptures/bofm/alma/34.17-38?lang=eng#16).)
 
 I believe we are coming to under stand the royal law, "Thou shalt love thy
 neighbour as thyself." You will remember that Jesus, just before the close of
@@ -81,8 +78,7 @@ hungred, and fed thee? or thirsty, and gave thee drink?
 
 "And the King shall answer and say unto them, Verily I say unto you, Inasmuch
 as ye have done it unto one of the least of these my brethren, ye have done it
-unto me." ([Matt. 25:
-31-40](https://www.lds.org/scriptures/nt/matt/25.title?lang=eng).)
+unto me." ([Matt. 25: 31-40](/scriptures/nt/matt/25?lang=eng).)
 
 I know this gospel is true. I have no doubt about that at all. I never
 remember a time when I questioned a principle of the gospel. I know that the
@@ -97,4 +93,6 @@ faster than we think. The peoples of the earth will be in such trouble and
 distress that they will be unable to solve their problems in any other way
 than to turn to the Lord's program. I bear you this testimony in the name of
 Jesus Christ. Amen.
+
+## References
 

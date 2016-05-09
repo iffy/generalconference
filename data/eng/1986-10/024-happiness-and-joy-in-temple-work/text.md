@@ -33,8 +33,8 @@ evidences of love and service to our fellowmen.
 
 Our Father in Heaven is a loving parent. He has said: "For behold, this is my
 work and my glory--to bring to pass the immortality and eternal life of man"
-([Moses 1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). To
-this end, He restored the gospel in this dispensation.
+([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). To this end, He
+restored the gospel in this dispensation.
 
 ## Why Temples?
 
@@ -48,12 +48,7 @@ class, but are available to all worthy Church members properly accredited.
 I would like to briefly refer to three areas having to do with temple
 attendance.
 
-First, for the living: For the living, such ordinances as baptism, the
-bestowal of the Holy Ghost, and the ordination to the priesthood may be
-performed in any proper place outside of a temple. However, through modern
-revelation we are told that certain ordinances such as the endowment, eternal
-marriage, sealing ordinances for both the living and the dead, and baptisms
-for the dead must be performed in a temple.
+**First, for the living:** For the living, such ordinances as baptism, the bestowal of the Holy Ghost, and the ordination to the priesthood may be performed in any proper place outside of a temple. However, through modern revelation we are told that certain ordinances such as the endowment, eternal marriage, sealing ordinances for both the living and the dead, and baptisms for the dead must be performed in a temple.
 
 The temple endowment embodies sacred covenants upon which blessings are
 predicated. It is also, in effect, a course of instruction whereby many of the
@@ -62,17 +57,7 @@ answers are given to the question "What is the purpose of life?"
 The endowment, of course, is an ordinance for the individual, whereas sealing
 ordinances pertain to a family relationship.
 
-Second, for the dead: The ministry of Christ was not confined to the few who
-lived on the earth in the meridian of time, and it is not confined only to
-those living now. The apostle Peter made it clear that those who do not have
-the opportunity to hear the gospel on this earth will have such an opportunity
-in the spirit world (see [1 Pet.
-3:18-20](https://www.lds.org/scriptures/nt/1-pet/3.18-20?lang=eng#17); [1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5)). And the apostle
-Paul in writing to the Corinthians asked, "Else what shall they do which are
-baptized for the dead, if the dead rise not at all? why are they then baptized
-for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28)).
+**Second, for the dead:** The ministry of Christ was not confined to the few who lived on the earth in the meridian of time, and it is not confined only to those living now. The apostle Peter made it clear that those who do not have the opportunity to hear the gospel on this earth will have such an opportunity in the spirit world (see [1 Pet. 3:18-20](/scriptures/nt/1-pet/3.18-20?lang=eng#17); [1 Pet. 4:6](/scriptures/nt/1-pet/4.6?lang=eng#5)). And the apostle Paul in writing to the Corinthians asked, "Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?" ([1 Cor. 15:29](/scriptures/nt/1-cor/15.29?lang=eng#28)).
 
 Temple worship provides an opportunity to do ordinance work for our kindred
 dead and for others, an opportunity for us to serve the dead. This service is
@@ -80,10 +65,7 @@ the source of eternal satisfaction. However, it is well to remember that
 vicarious service for the dead by the living does not affect the right of the
 dead to accept or reject such vicarious service.
 
-Third, as a retreat: A temple is a retreat from the vicissitudes of life, a
-place of prayer and meditation providing an opportunity to receive inner
-peace, inspiration, guidance, and, frequently, solutions to the problems that
-vex our daily lives.
+**Third, as a retreat:** A temple is a retreat from the vicissitudes of life, a place of prayer and meditation providing an opportunity to receive inner peace, inspiration, guidance, and, frequently, solutions to the problems that vex our daily lives.
 
 A temple is a place where the divine spark in man, or the infinite in man, can
 seek the infinite in God.
@@ -152,4 +134,6 @@ May we leave this conference strengthened and motivated with a greater desire
 to lengthen our stride. May the kingdom of God go forth, that the kingdom of
 heaven may come, and may the choice blessings of our Father in Heaven be with
 you, I pray in the name of Jesus Christ, amen.
+
+## References
 

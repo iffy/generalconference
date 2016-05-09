@@ -130,40 +130,27 @@ if we are _now_ at the dark journey's bitter end.
 
 The steps of repentance have been clearly defined in the scriptures:
 
-  1. Recognize we have done wrong.
-
-  2. Covenant with the Lord that we will never repeat the sin we have committed and are repenting of. "By this ye may know if a man repenteth of his sins--behold, he will confess them and forsake them." ([D&amp;C 58:43](https://www.lds.org/scriptures/dc-testament/dc/58.43?lang=eng#42).)
-
-  3. Recommit ourselves to living a better life in all phases of the gospel.
-
+  1. Recognize we have done wrong. 
+  2. Covenant with the Lord that we will never repeat the sin we have committed and are repenting of. "By this ye may know if a man repenteth of his sins--behold, he will confess them and forsake them." ([D&amp;C 58:43](/scriptures/dc-testament/dc/58.43?lang=eng#42).) 
+  3. Recommit ourselves to living a better life in all phases of the gospel. 
   4. Make restitution for the wrongs we have committed by--
-
-    1. Repenting in prayer to the Lord.
-
-    2. Confessing to our bishop, an ordained common judge in Israel and the presiding high priest in our ward.
-
-    3. Apologizing to those we have offended.
-
-  5. The depth of our repentance must be as deep as the sin we have committed. There is no easy way. It hurts, but it also cleanses.
-
-  6. Time is the next element of repentance and restitution:
-
-    1. Time to prove to ourselves, to our Lord, to our fellowmen that we have committed ourselves to a new way of life.
-
-    2. Time to study the scriptures and dedicate our lives to the commandments we learn we must live to be happy and have joy.
-
-  7. Complete forgiveness of ourselves and forgiveness without any feelings of retribution toward those who have offended us.
-
-  8. Finally, the greatest of all blessings: the forgiveness of the Lord. We no longer look back with depression and hurt, but forward to the future with hope and joy and love for God, self, and all mankind.
+  5. Repenting in prayer to the Lord. 
+  6. Confessing to our bishop, an ordained common judge in Israel and the presiding high priest in our ward. 
+  7. Apologizing to those we have offended. 
+  8. The depth of our repentance must be as deep as the sin we have committed. There is no easy way. It hurts, but it also cleanses. 
+  9. Time is the next element of repentance and restitution: 
+  10. Time to prove to ourselves, to our Lord, to our fellowmen that we have committed ourselves to a new way of life. 
+  11. Time to study the scriptures and dedicate our lives to the commandments we learn we must live to be happy and have joy. 
+  12. Complete forgiveness of ourselves and forgiveness without any feelings of retribution toward those who have offended us. 
+  13. Finally, the greatest of all blessings: the forgiveness of the Lord. We no longer look back with depression and hurt, but forward to the future with hope and joy and love for God, self, and all mankind. 
 
 "Behold, he who has repented of his sins, the same is forgiven, and I, the
-Lord, remember them no more." ([D&amp;C 58:42](https://www.lds.org/scriptures
-/dc-testament/dc/58.42?lang=eng#41).)
+Lord, remember them no more." ([D&amp;C 58:42](/scriptures/dc-
+testament/dc/58.42?lang=eng#41).)
 
 "But learn that he who doeth the works of righteousness shall receive his
 reward, even peace in this world, and eternal life in the world to come."
-([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
-testament/dc/59.23?lang=eng#22).)
+([D&amp;C 59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22).)
 
 I give you my testimony that I know God lives and that Jesus is the Christ,
 our Redeemer. I testify that they love us and have given us the gospel to
@@ -181,4 +168,6 @@ May our Heavenly Father bless us to dedicate our lives today. There is no
 better time to start than today. That we may remain valiant all the days of
 our lives and endure to the end is my prayer, in the name of Jesus Christ.
 Amen.
+
+## References
 

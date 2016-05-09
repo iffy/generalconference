@@ -83,7 +83,7 @@ ye would know that ye must pray; for the evil spirit teacheth not a man to
 pray, but teacheth him that he must not pray.
 
 "But behold, I say unto you that ye must pray always, and not faint." ([2 Ne.
-32:8-9](https://www.lds.org/scriptures/bofm/2-ne/32.8-9?lang=eng#7).)
+32:8-9](/scriptures/bofm/2-ne/32.8-9?lang=eng#7).)
 
 Amulek understood the importance of prayer as a spiritually rejuvenating
 influence. "Humble yourselves," he said to the Zoramites, "and continue in
@@ -91,15 +91,15 @@ prayer. ...
 
 Ye must pour out your souls in your closets, and your secret places, and in
 your wilderness." ([Alma 34:19,
-26](https://www.lds.org/scriptures/bofm/alma/34.19%2C26?lang=eng#18).)
+26](/scriptures/bofm/alma/34.19,26?lang=eng#18).)
 
 Amulek counseled the people to pray over their flocks, their households, and
 their fields. (See [Alma
-34:20-21](https://www.lds.org/scriptures/bofm/alma/34.20-21?lang=eng#19).)
-"Yea," he said, "and when you do not cry unto the Lord, let your hearts be
-full, drawn out in prayer unto him continually for your welfare, and also for
-the welfare of those who are around you." ([Alma
-34:27](https://www.lds.org/scriptures/bofm/alma/34.27?lang=eng#26).)
+34:20-21](/scriptures/bofm/alma/34.20-21?lang=eng#19).) "Yea," he said, "and
+when you do not cry unto the Lord, let your hearts be full, drawn out in
+prayer unto him continually for your welfare, and also for the welfare of
+those who are around you." ([Alma
+34:27](/scriptures/bofm/alma/34.27?lang=eng#26).)
 
 Earnest, sincere prayer is an essential ingredient in maintaining spiritual
 tone.
@@ -123,8 +123,7 @@ begin to swell within your breasts; and when you feel these swelling motions,
 ye will begin to say within yourselves--It must needs be that this is a good
 seed, or that the word is good, for it beginneth to enlarge my soul; yea, it
 beginneth to enlighten my understanding, yea, it beginneth to be delicious to
-me." ([Alma
-32:28](https://www.lds.org/scriptures/bofm/alma/32.28?lang=eng#27).)
+me." ([Alma 32:28](/scriptures/bofm/alma/32.28?lang=eng#27).)
 
 I can testify that Alma's analogy is a valid one. One who regularly turns to
 the word of God for spiritual strength and enlightenment will find it good--
@@ -144,7 +143,7 @@ and ye will not nourish the tree. ...
 "But if ye will nourish the word, yea, nourish the tree as it beginneth to
 grow, ... it shall take root; and behold it shall be a tree springing up unto
 everlasting life." ([Alma 32:38-39,
-41](https://www.lds.org/scriptures/bofm/alma/32.38-39%2C41?lang=eng#37).)
+41](/scriptures/bofm/alma/32.38-39,41?lang=eng#37).)
 
 ## Sabbath Worship and Partaking of the Sacrament
 
@@ -153,10 +152,9 @@ on the Sabbath day and partake of the sacrament.
 
 "That thou mayest more fully keep thyself unspotted from the world, thou shalt
 go to the house of prayer and offer up thy sacraments upon my holy day."
-([D&amp;C 59:9](https://www.lds.org/scriptures/dc-
-testament/dc/59.9?lang=eng#8).) These are the Lord's instructions to us. He
-knows that our spiritual clocks wind down quickly without this regular
-experience.
+([D&amp;C 59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).) These are the
+Lord's instructions to us. He knows that our spiritual clocks wind down
+quickly without this regular experience.
 
 There is something essential about joining together with other believers to
 worship, to sing, to pray, to learn of God's will for us, and to acknowledge
@@ -193,4 +191,6 @@ I testify to you that these things are true. May those "ennobling influences"
 about which Elder Bowen spoke come regularly enough into our own lives that
 our spiritual clocks will continue to run strong and true is my earnest
 prayer. In the name of Jesus Christ, amen.
+
+## References
 

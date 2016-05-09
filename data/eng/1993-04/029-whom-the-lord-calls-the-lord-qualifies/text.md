@@ -54,3 +54,5 @@ is in The Church of Jesus Christ of Latter-day Saints. I pray that I may
 always be valiant in that testimony and to these eternal truths, in the name
 of Jesus Christ, amen.
 
+## References
+

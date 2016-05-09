@@ -88,7 +88,7 @@ you if you live for it.
 
 The Savior said: "And whatsoever ye shall ask the Father in my name, which is
 right, believing that ye shall receive, behold it shall be given unto you."
-([3 Ne. 18:20](https://www.lds.org/scriptures/bofm/3-ne/18.20?lang=eng#19).)
+([3 Ne. 18:20](/scriptures/bofm/3-ne/18.20?lang=eng#19).)
 
 Two young missionaries were walking down a dusty road. In their hands they
 carried the scriptures, and in each heart burned a desire to share truth. They
@@ -110,7 +110,7 @@ capacity to control.
 
 Don't face the world alone. "Trust in the Lord with all thine heart; and lean
 not unto thine own understanding." ([Prov.
-3:5](https://www.lds.org/scriptures/ot/prov/3.5?lang=eng#4).)
+3:5](/scriptures/ot/prov/3.5?lang=eng#4).)
 
 In many ways, the world is like a jungle, with dangers that can harm or
 mutilate your body, enslave or destroy your mind, or decimate your morality.
@@ -242,4 +242,6 @@ Live to have trust in the Lord. Live to be trusted and helped by Him.
 
 I testify that the Lord lives. He loves you and will help you. In the name of
 Jesus Christ, amen.
+
+## References
 

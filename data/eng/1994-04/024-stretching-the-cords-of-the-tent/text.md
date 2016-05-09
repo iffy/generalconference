@@ -10,13 +10,12 @@ both of them related. Daniel 2 describes the vision of Nebuchadnezzar and
 Daniel's interpretation of the stone cut out of the mountain in the last days,
 representing the kingdom established by God that will roll across the earth,
 crushing peacefully all nations and inviting all to come to Christ (see [Dan.
-2:44-45](https://www.lds.org/scriptures/ot/dan/2.44-45?lang=eng#43)).
+2:44-45](/scriptures/ot/dan/2.44-45?lang=eng#43)).
 
 Isaiah, fifty-fourth chapter, verses one and two, talks about the tent which
 represents the gospel of Christ. He states that in the last days the cords of
 the tent would be stretched across the earth and stakes would be planted in
-every land (see [Isa.
-54:1-2](https://www.lds.org/scriptures/ot/isa/54.1-2?lang=eng#0)). We
+every land (see [Isa. 54:1-2](/scriptures/ot/isa/54.1-2?lang=eng#0)). We
 literally are seeing that fulfilled today. As I have thought about these
 passages, I have thought of the awesome task of supporting the Brethren in
 carrying the gospel to every nation, kindred, tongue, and people. The
@@ -76,4 +75,6 @@ up the difference in my life when I fall short."
 I pledge my all to the service of the Master. I have a deep testimony of Him
 and of His work on this earth. He is the one who guides and directs the
 affairs of this church. In the name of Jesus Christ, amen.
+
+## References
 

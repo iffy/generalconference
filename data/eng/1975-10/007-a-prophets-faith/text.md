@@ -53,12 +53,12 @@ after their faith.
 
 "Neither at any time hath any wrought miracles until after their faith;
 wherefore they first believed in the Son of God." ([Ether 12:12,
-18](https://www.lds.org/scriptures/bofm/ether/12.12%2C18?lang=eng#11).)
+18](/scriptures/bofm/ether/12.12,18?lang=eng#11).)
 
 Just as faith without works is dead, likewise, works without faith are dead.
 We can cause righteous desires to come to pass, for in the words of our
 Master, "According to your faith be it unto you." ([Matt.
-9:29](https://www.lds.org/scriptures/nt/matt/9.29?lang=eng#28).)
+9:29](/scriptures/nt/matt/9.29?lang=eng#28).)
 
 In the last eighteen months, I've watched this kind of faith _cause_ things to
 happen. It began with a prophet. He spoke. His words put spiritual forces into
@@ -190,4 +190,6 @@ and exercise greater faith in God.
 
 I bear witness that this work is true and that President Kimball is a living
 prophet. In the name of Jesus Christ. Amen.
+
+## References
 

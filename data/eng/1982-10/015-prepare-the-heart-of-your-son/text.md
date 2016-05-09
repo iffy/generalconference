@@ -185,3 +185,5 @@ importance of preparing hearts as we teach sacred truths. May we renew the
 purification process in each of us so that we might be a strength and not a
 hindrance to those we love most, in the name of the Lord Jesus Christ, amen.
 
+## References
+

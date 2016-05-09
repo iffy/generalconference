@@ -10,21 +10,21 @@ deep, often painful examination of my soul I have experienced.
 Obviously my greatest thrill and the most joyful of all realizations is that I
 have the opportunity, as Nephi phrased it, to "talk of Christ, ... rejoice in
 Christ, ... preach of Christ, [and] prophesy of Christ" ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25)) wherever I
-may be and with whomever I may find myself until the last breath of my life is
-gone. Surely there could be no higher purpose or greater privilege than that
-of "special [witness] of the name of Christ in all the world" ([D&amp;C
-107:23](https://www.lds.org/scriptures/dc-testament/dc/107.23?lang=eng#22)).
+25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25)) wherever I may be and with
+whomever I may find myself until the last breath of my life is gone. Surely
+there could be no higher purpose or greater privilege than that of "special
+[witness] of the name of Christ in all the world" ([D&amp;C
+107:23](/scriptures/dc-testament/dc/107.23?lang=eng#22)).
 
 But my greatest anxiety stems from that very same commission. A line of
 scripture reminds us with searing understatement that "they which preach the
 gospel should live ... the gospel" ([1 Cor.
-9:14](https://www.lds.org/scriptures/nt/1-cor/9.14?lang=eng#13)). Beyond my
-words and teachings and spoken witness, my life must be part of that testimony
-of Jesus. My very being should reflect the divinity of this work. I could not
-bear it if anything I might ever say or do would in any way diminish your
-faith in Christ, your love for this church, or the esteem in which you hold
-the holy apostleship.
+9:14](/scriptures/nt/1-cor/9.14?lang=eng#13)). Beyond my words and teachings
+and spoken witness, my life must be part of that testimony of Jesus. My very
+being should reflect the divinity of this work. I could not bear it if
+anything I might ever say or do would in any way diminish your faith in
+Christ, your love for this church, or the esteem in which you hold the holy
+apostleship.
 
 I do promise you--as I have promised the Lord and these my brethren--that I
 will strive to live worthy of this trust and serve to the full measure of my
@@ -90,10 +90,9 @@ was. I bear solemn witness of that fact and the principle of Church governance
 it teaches. And age? Age has nothing to do with it. Whether an incomparable
 fourteen-year-old in 1820 or an invincible eighty-six-year-old in 1994, it is
 obvious that the number of birthdays doesn't count, that "time ... is measured
-[only] unto men" ([Alma
-40:8](https://www.lds.org/scriptures/bofm/alma/40.8?lang=eng#7)). President
-Hunter, we all bask in the glow of those candles on your cake and look forward
-to lighting yet another one in six weeks' time.
+[only] unto men" ([Alma 40:8](/scriptures/bofm/alma/40.8?lang=eng#7)).
+President Hunter, we all bask in the glow of those candles on your cake and
+look forward to lighting yet another one in six weeks' time.
 
 I have also seen another miracle. That miracle is you, the great faithful but
 often unheralded body of the Church who play your part in the ongoing saga of
@@ -103,21 +102,21 @@ would not, could not be complete without you.
 Certainly I, for one, have taken great strength from you today, you who come
 from a hundred different nations and ten hundred walks of life. You who have
 turned away from the glitter and glare and "vain imaginations" ([1 Ne.
-12:18](https://www.lds.org/scriptures/bofm/1-ne/12.18?lang=eng#17)) of the
-world, to seek a holier life in the splendor of the city of God. You who love
-your families and your neighbors and, yes, those who hate you and curse you
-and "despitefully use you, and persecute you" ([Matt.
-5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43)). You who pay
-tithing with certainty even when you are uncertain about every other aspect of
-your financial future. You who send your sons and daughters on missions,
-clothing that child in better apparel than you now wear--or will wear--for the
-eighteen or twenty-four months of sacrifice that lie ahead. You who plead for
-blessings to be bestowed on others, especially those in physical or spiritual
-distress, offering to give them your own health or happiness if that would be
-something God could allow. You who face life alone, or face it without
-advantage, or face it with little success. You who carry on in quiet courage,
-doing the best you can. I pay tribute to every one of you and am deeply
-honored to stand in your presence.
+12:18](/scriptures/bofm/1-ne/12.18?lang=eng#17)) of the world, to seek a
+holier life in the splendor of the city of God. You who love your families and
+your neighbors and, yes, those who hate you and curse you and "despitefully
+use you, and persecute you" ([Matt.
+5:44](/scriptures/nt/matt/5.44?lang=eng#43)). You who pay tithing with
+certainty even when you are uncertain about every other aspect of your
+financial future. You who send your sons and daughters on missions, clothing
+that child in better apparel than you now wear--or will wear--for the eighteen
+or twenty-four months of sacrifice that lie ahead. You who plead for blessings
+to be bestowed on others, especially those in physical or spiritual distress,
+offering to give them your own health or happiness if that would be something
+God could allow. You who face life alone, or face it without advantage, or
+face it with little success. You who carry on in quiet courage, doing the best
+you can. I pay tribute to every one of you and am deeply honored to stand in
+your presence.
 
 I especially thank you for sustaining your leaders, whatever their personal
 sense of limitation may be. This morning, in common consent, you volunteered
@@ -196,9 +195,8 @@ comfortable in her sleep and avoid the problem of bedsores. In 1989, at age
 seventy-four, her own health now broken, she died, having given new meaning to
 the Prophet Joseph's invitation to "waste and wear out our lives ... do[ing] all
 things that lie in our power ... [for the benefit of] the rising generation, and
-... all the pure in heart" ([D&amp;C 123:13, 17,
-11](https://www.lds.org/scriptures/dc-
-testament/dc/123.13%2C17%2C11?lang=eng#12)).
+... all the pure in heart" ([D&amp;C 123:13, 17, 11](/scriptures/dc-
+testament/dc/123.13,17,11?lang=eng#12)).
 
 The ongoing miracle of the Restoration. Covenants. Temples. Quiet, unsung
 Christian living. The work of the kingdom done with worn hands, weary hands,
@@ -228,22 +226,22 @@ anointed, whose arms can also grow weary and whose legs are sometimes weak.
 In the spirit of that legacy from those who have given so much--prophets and
 Apostles and people like you--I pledge to "press forward with a steadfastness
 in Christ, having a perfect brightness of hope, and a love of God and of all
-men" ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19)). I pledge
-to "take hold of that for which Christ once took hold of me" (New English
-Bible, [Philip.
-3:12](https://www.lds.org/scriptures/nt/philip/3.12?lang=eng#11)).
+men" ([2 Ne. 31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19)). I pledge to
+"take hold of that for which Christ once took hold of me" (New English Bible,
+[Philip. 3:12](/scriptures/nt/philip/3.12?lang=eng#11)).
 
 I testify of him, the Redeemer of the world and Master of us all. He is the
 Only Begotten Son of the living God, who has exalted that son's name over
 every other, and has given him principality, power, might, and dominion at his
 right hand in the heavenly place. We esteem this Messiah to be holy, harmless,
 undefiled--the bearer of unchangeable priesthood (see [Heb. 7:24,
-26](https://www.lds.org/scriptures/nt/heb/7.24%2C26?lang=eng#23)). He is the
-anchor to our souls and our high priest of promise. He is our God of good
-things to come. In time and in eternity--and surely in striving to fulfill
-this new responsibility which has come to me--I shall forever be grateful for
-his promise: "I will never leave thee, nor forsake thee" ([Heb.
-13:5](https://www.lds.org/scriptures/nt/heb/13.5?lang=eng#4)). I thank him for
-that blessing upon us all, in his name, the Lord Jesus Christ, amen.
+26](/scriptures/nt/heb/7.24,26?lang=eng#23)). He is the anchor to our souls
+and our high priest of promise. He is our God of good things to come. In time
+and in eternity--and surely in striving to fulfill this new responsibility
+which has come to me--I shall forever be grateful for his promise: "I will
+never leave thee, nor forsake thee" ([Heb.
+13:5](/scriptures/nt/heb/13.5?lang=eng#4)). I thank him for that blessing upon
+us all, in his name, the Lord Jesus Christ, amen.
+
+## References
 

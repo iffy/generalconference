@@ -35,7 +35,7 @@ always been the means of obtaining the blessings of the Lord.
 Remember the story of Naaman, a captain for the king of Syria--"a great man
 with his master ... because by him the Lord had given deliverance unto Syria: ...
 a mighty man in valour, but ... a leper" ([2 Kgs.
-5:1](https://www.lds.org/scriptures/ot/2-kgs/5.1?lang=eng#0)).
+5:1](/scriptures/ot/2-kgs/5.1?lang=eng#0)).
 
 At the direction of his king, Naaman went to Elisha the prophet to be healed
 of his dreaded affliction.
@@ -57,7 +57,7 @@ saith to thee, Wash, and be clean?
 "Then went [Naaman] down, and dipped himself seven times in Jordan, according
 to the saying of the man of God: and his flesh came again like unto the flesh
 of a little child, and he was clean" ([2 Kgs. 5:9-11,
-13-14](https://www.lds.org/scriptures/ot/2-kgs/5.9-11%2C13-14?lang=eng#8)).
+13-14](/scriptures/ot/2-kgs/5.9-11,13-14?lang=eng#8)).
 
 Are we not sometimes like Naaman, looking for big or important things to do
 and bypassing simple things which could change our lives and heal us of our
@@ -76,8 +76,7 @@ small, and sometimes ordinary and mundane steps over a long period of time"
 Fireside Speeches,_ Provo: BYU, 1987, p. 115).
 
 The Lord has said, "Out of small things proceedeth that which is great"
-([D&amp;C 64:33](https://www.lds.org/scriptures/dc-
-testament/dc/64.33?lang=eng#32)).
+([D&amp;C 64:33](/scriptures/dc-testament/dc/64.33?lang=eng#32)).
 
 President David O. McKay also spoke of the power of small and simple acts:
 
@@ -160,7 +159,7 @@ Another simple thing we all can do to draw us closer to the Savior and to
 bring us His guidance is to have daily family prayer. The Savior himself
 taught, "Pray in your families unto the Father, always in my name, that your
 wives and your children may be blessed" ([3 Ne.
-18:21](https://www.lds.org/scriptures/bofm/3-ne/18.21?lang=eng#20)).
+18:21](/scriptures/bofm/3-ne/18.21?lang=eng#20)).
 
 Praying together, seeking to know the will of our Father in Heaven, and
 desiring strength to do His will draws Him near to us. This practice unifies
@@ -190,7 +189,7 @@ their iniquity, the Lord "sent fiery flying serpents among them; and after
 they were bitten he prepared a way that they might be healed; and the labor
 which they had to perform was to look; and because of the simpleness of the
 way, or the easiness of it, there were many who perished" ([1 Ne.
-17:41](https://www.lds.org/scriptures/bofm/1-ne/17.41?lang=eng#40)).
+17:41](/scriptures/bofm/1-ne/17.41?lang=eng#40)).
 
 Brothers and sisters, we must not fail to do the simple and easy things that
 the gospel requires and thereby deny ourselves and our families the great
@@ -221,4 +220,6 @@ I pray that we will heed the counsel of our prophet and have the faith to
 follow the Savior by doing the simple things His gospel requires. For, if the
 Lord's prophet had bid us do some great thing to receive the Lord's great
 blessings, who among us would not do it? In the name of Jesus Christ, amen.
+
+## References
 

@@ -100,8 +100,8 @@ But never force the human mind."
 There is no compulsion in any part of the gospel. The Lord said in 1833,
 "Behold, here is the agency of man, and here is the condemnation of man;
 because that which was from the beginning is plainly manifest unto them, and
-they receive not the light." ([D&amp;C 93:31](https://www.lds.org/scriptures
-/dc-testament/dc/93.31?lang=eng#30).)
+they receive not the light." ([D&amp;C 93:31](/scriptures/dc-
+testament/dc/93.31?lang=eng#30).)
 
 This means that since Adam the Lord has taught us correct doctrines and we may
 accept or reject them, but the responsibility is ours. It means that, having
@@ -123,12 +123,12 @@ Again the Lord answers the question: "And that every man should take
 righteousness in his hands and faithfulness upon his loins, and lift a warning
 voice unto the inhabitants of the earth; and declare both by word and by
 flight that desolation shall come upon the wicked." ([D&amp;C
-63:37](https://www.lds.org/scriptures/dc-testament/dc/63.37?lang=eng#36).) Did
-you note that he said "every man,"--and every boy that is becoming a man? Of
-course, we do not send young men steeped in uncleanness and sexual or other
-sins. Certainly such an one would need to be cleansed by deep repentance
-before he could be considered. And so we repeat it: Every LDS male who is
-worthy and able should fill a mission.
+63:37](/scriptures/dc-testament/dc/63.37?lang=eng#36).) Did you note that he
+said "every man,"--and every boy that is becoming a man? Of course, we do not
+send young men steeped in uncleanness and sexual or other sins. Certainly such
+an one would need to be cleansed by deep repentance before he could be
+considered. And so we repeat it: Every LDS male who is worthy and able should
+fill a mission.
 
 Then in order to have a full and abundant life that is clean and open, every
 lad needs to plan his course, and covenant with himself and his Heavenly
@@ -327,4 +327,6 @@ that God lives and that Jesus is the Christ. It is a great program of
 salvation and exaltation, and it is the only way, and there never was found
 happiness in unrighteousness. I bear my testimony to you in the name of Jesus
 Christ, our Lord. Amen.
+
+## References
 

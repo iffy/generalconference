@@ -52,26 +52,24 @@ the world was made by him, and in him was the life of men and the light of
 men.
 
 "The worlds were made by him; _men were made by him;_ all things were made by
-him, and through him, and of him." ([D&amp;C
-93:9-10](https://www.lds.org/scriptures/dc-testament/dc/93.9-10?lang=eng#8);
-italics added.)
+him, and through him, and of him." ([D&amp;C 93:9-10](/scriptures/dc-
+testament/dc/93.9-10?lang=eng#8); italics added.)
 
 He would have us know that "that which is governed by law is also preserved by
-law and perfected and sanctified by the same." ([D&amp;C
-88:34](https://www.lds.org/scriptures/dc-testament/dc/88.34?lang=eng#33).)
+law and perfected and sanctified by the same." ([D&amp;C 88:34](/scriptures
+/dc-testament/dc/88.34?lang=eng#33).)
 
 But he adds this stem caution, that "that which breaketh a law, and abideth
 not by law, but seeketh to become a law unto itself, and willeth to abide in
 sin, and altogether abideth in sin, cannot be sanctified by law, neither by
 mercy, justice, nor judgment. Therefore, they must remain filthy still."
-([D&amp;C 88:35](https://www.lds.org/scriptures/dc-
-testament/dc/88.35?lang=eng#34).)
+([D&amp;C 88:35](/scriptures/dc-testament/dc/88.35?lang=eng#34).)
 
 "He comprehendeth all things, and all things are before him, and all things
 are round about him; and he is above all things, and in all things, and is
 through all things, and is round about all things; and all things are by him,
-and of him, even God, forever and ever." ([D&amp;C
-88:41](https://www.lds.org/scriptures/dc-testament/dc/88.41?lang=eng#40).)
+and of him, even God, forever and ever." ([D&amp;C 88:41](/scriptures/dc-
+testament/dc/88.41?lang=eng#40).)
 
 Suppose the law of the gospel of Jesus Christ was suspended from over the face
 of the earth for twenty seconds. An awesome thought isn't it, considering that
@@ -82,18 +80,18 @@ that exists hereon.
 But the law of the gospel of Jesus Christ will not be suspended from over the
 face of the earth, because "the works, and the designs, and the purposes of
 God cannot be frustrated, neither can they come to naught." ([D&amp;C
-3:1](https://www.lds.org/scriptures/dc-testament/dc/3.1?lang=eng#0).) And so
-that which is governed by law will continue to be preserved by law, and that
-which will not obey the conditions of law will not be justified in salvation.
+3:1](/scriptures/dc-testament/dc/3.1?lang=eng#0).) And so that which is
+governed by law will continue to be preserved by law, and that which will not
+obey the conditions of law will not be justified in salvation.
 
 Jesus Christ "hath given a law unto all things, by which they move in their
-times and their seasons." ([D&amp;C 88:42](https://www.lds.org/scriptures/dc-
+times and their seasons." ([D&amp;C 88:42](/scriptures/dc-
 testament/dc/88.42?lang=eng#41).) And, "Unto every kingdom is given a law; and
 unto every law there are certain bounds also and conditions." ([D&amp;C
-88:38](https://www.lds.org/scriptures/dc-testament/dc/88.38?lang=eng#37).)
+88:38](/scriptures/dc-testament/dc/88.38?lang=eng#37).)
 
 "All beings who abide not in those conditions are not justified." ([D&amp;C
-88:39](https://www.lds.org/scriptures/dc-testament/dc/88.39?lang=eng#38).)
+88:39](/scriptures/dc-testament/dc/88.39?lang=eng#38).)
 
 The law of the gospel of Jesus Christ has decreed that every man must repent
 and be baptized by immersion, after the pattern of the Lawgiver, or he cannot
@@ -116,7 +114,7 @@ kingdom?
 As a binding clause to the law, the Lord has commanded, "Send forth the elders
 of my church unto the nations which are afar off; unto the islands of the sea;
 send forth unto foreign lands; call upon all nations, first upon the Gentiles,
-and then upon the Jews." ([D&amp;C 133:8](https://www.lds.org/scriptures/dc-
+and then upon the Jews." ([D&amp;C 133:8](/scriptures/dc-
 testament/dc/133.8?lang=eng#7).)
 
 Will it, therefore, be justified for any who are these designated elders to
@@ -199,9 +197,11 @@ are perfect in Christ, ye can in nowise deny the power of God.
 power, then are ye sanctified in Christ by the grace of God, through the
 shedding of the blood of Christ, which is in the covenant of the Father unto
 the remission of your sins, that ye become holy, without spot." ([Moro.
-10:30-33](https://www.lds.org/scriptures/bofm/moro/10.30-33?lang=eng#29).)
+10:30-33](/scriptures/bofm/moro/10.30-33?lang=eng#29).)
 
 May God bless you in your thoughts and actions, that they may ever be in tune
 with this holy law, I pray in the name of him who sitteth upon the throne and
 governeth and executeth all things, even Jesus Christ. Amen.
+
+## References
 

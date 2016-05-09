@@ -64,3 +64,5 @@ where it is not necessary. May we all become involved in it for the blessing
 of our families. There is precious little time to waste in preparing for the
 eternities. Of this I testify, in the name of Jesus Christ. Amen.
 
+## References
+

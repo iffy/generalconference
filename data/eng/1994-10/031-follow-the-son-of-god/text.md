@@ -67,26 +67,25 @@ everyday life more directly in order that the millennial day may come, that
 promised time when "they shall beat their swords into plowshares, and their
 spears into pruninghooks: nation shall not lift up sword against nation,
 neither shall they learn war any more ... [but shall] walk in the light of the
-Lord" ([Isa. 2:4-5](https://www.lds.org/scriptures/ot/isa/2.4-5?lang=eng#3)).
+Lord" ([Isa. 2:4-5](/scriptures/ot/isa/2.4-5?lang=eng#3)).
 
 Again and again during his mortal ministry, our Lord issued a call that was
 both an invitation and a challenge. To Peter and Andrew, Christ said, "Follow
 me, and I will make you fishers of men" ([Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18)). We are in the
-work of saving souls, of inviting people to come unto Christ, of bringing them
-into the waters of baptism so that they may continue to progress along the
-path that leads to eternal life. This world needs the gospel of Jesus Christ.
-The gospel provides the only way the world will ever know peace. As followers
-of Jesus Christ, we seek to enlarge the circle of love and understanding among
-the people of the earth.
+4:19](/scriptures/nt/matt/4.19?lang=eng#18)). We are in the work of saving
+souls, of inviting people to come unto Christ, of bringing them into the
+waters of baptism so that they may continue to progress along the path that
+leads to eternal life. This world needs the gospel of Jesus Christ. The gospel
+provides the only way the world will ever know peace. As followers of Jesus
+Christ, we seek to enlarge the circle of love and understanding among the
+people of the earth.
 
 Earlier prophets have taught that every able, worthy young man should serve a
 full-time mission. I emphasize this need today. We also have great need for
 our able, mature couples to serve in the mission field. Jesus told his
 disciples, "The harvest truly is great, but the labourers are few: pray ye
 therefore the Lord of the harvest, that he would send forth labourers into his
-harvest" ([Luke
-10:2](https://www.lds.org/scriptures/nt/luke/10.2?lang=eng#1)).
+harvest" ([Luke 10:2](/scriptures/nt/luke/10.2?lang=eng#1)).
 
 And now, my beloved brothers and sisters, through the power and authority of
 the priesthood vested in me and by virtue of the calling which I now hold, I
@@ -101,4 +100,6 @@ deeply my dependence on the Lord for the guidance and direction of his
 kingdom. I thank you again for your sustaining vote and your faith and prayers
 in behalf of myself and my Brethren, and I do so in the name of Jesus Christ,
 amen.
+
+## References
 

@@ -14,8 +14,7 @@ called:
 
 "But God hath chosen the foolish things of the world to confound the wise; and
 God hath chosen the weak things of the world to confound the things which are
-mighty" ([1 Cor.
-1:26-27](https://www.lds.org/scriptures/nt/1-cor/1.26-27?lang=eng#25)).
+mighty" ([1 Cor. 1:26-27](/scriptures/nt/1-cor/1.26-27?lang=eng#25)).
 
 This sacred event, witnessed by those few, had been preceded by marvelous
 spiritual manifestations.
@@ -32,7 +31,7 @@ The Book of Mormon had been published, and its pages carried a testimony of
 the prophet Moroni that angels have not "ceased to appear unto the children of
 men." Nor will they, "so long as time shall last, or the earth shall stand, or
 there shall be one man upon the face thereof to be saved" ([Moro.
-7:36](https://www.lds.org/scriptures/bofm/moro/7.36?lang=eng#35)).
+7:36](/scriptures/bofm/moro/7.36?lang=eng#35)).
 
 These humble men from among the common folks of that day were to become
 Apostles of the Lord Jesus Christ, as surely as Peter, the fisherman, and the
@@ -44,8 +43,7 @@ things that men could not assume, nor take to themselves.
 
 Above all, the Lord Himself appeared and reappeared, "That the fulness of my
 gospel might be proclaimed by the weak and the simple unto the ends of the
-world" ([D&amp;C 1:23](https://www.lds.org/scriptures/dc-
-testament/dc/1.23?lang=eng#22)).
+world" ([D&amp;C 1:23](/scriptures/dc-testament/dc/1.23?lang=eng#22)).
 
 Those days of beginning were not so far away as we sometimes think. There sits
 behind me on the stand Elder LeGrand Richards of the Quorum of the Twelve
@@ -245,7 +243,7 @@ surely as it did in those days of beginning:
 "It is by faith that miracles are wrought; and it is by faith that angels
 appear and minister unto men; wherefore, if these things have ceased wo be
 unto the children of men, for it is because of unbelief" ([Moro.
-7:37](https://www.lds.org/scriptures/bofm/moro/7.37?lang=eng#36)).
+7:37](/scriptures/bofm/moro/7.37?lang=eng#36)).
 
 The prophet Moroni taught that angelic messengers would accomplish their work
 "by declaring the word of Christ unto the chosen vessels of the Lord, that
@@ -253,8 +251,7 @@ they may bear testimony of him.
 
 "And by so doing, the Lord God prepareth the way that the residue of men may
 have faith in Christ, that the Holy Ghost may have place in their hearts"
-([Moro.
-7:31-32](https://www.lds.org/scriptures/bofm/moro/7.31-32?lang=eng#30)).
+([Moro. 7:31-32](/scriptures/bofm/moro/7.31-32?lang=eng#30)).
 
 There has come, these last several years, a succession of announcements that
 show our day to be a day of intense revelation, equaled, perhaps, only in
@@ -310,4 +307,6 @@ those who are His servants here and that He is known of them.
 
 I know that He directs this Church now, as He established it then, through a
 prophet of God. In the name of Jesus Christ, amen.
+
+## References
 

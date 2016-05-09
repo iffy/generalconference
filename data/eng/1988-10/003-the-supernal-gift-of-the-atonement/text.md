@@ -21,55 +21,49 @@ Through the Atonement and those singular events surrounding it, all of the
 terrible individual and collective sins of all mankind were taken upon the
 Lord's shoulders. The marvelous result of this great suffering was that He was
 able to redeem from physical death the believers and the obedient as well as
-the unbelieving and disobedient. (See [D&amp;C
-46:13-14](https://www.lds.org/scriptures/dc-
+the unbelieving and disobedient. (See [D&amp;C 46:13-14](/scriptures/dc-
 testament/dc/46.13-14?lang=eng#12); [Acts
-24:15](https://www.lds.org/scriptures/nt/acts/24.15?lang=eng#14); [1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21).) Every
-person ever born or yet to be born is the beneficiary of both the mediation
-and the atonement of the Savior. (See [Alma
-11:42](https://www.lds.org/scriptures/bofm/alma/11.42?lang=eng#41).)
+24:15](/scriptures/nt/acts/24.15?lang=eng#14); [1 Cor.
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21).) Every person ever born or yet
+to be born is the beneficiary of both the mediation and the atonement of the
+Savior. (See [Alma 11:42](/scriptures/bofm/alma/11.42?lang=eng#41).)
 
 The act of the Atonement is, in its simplest terms, a reconciliation of man
 with his God. The word _atonement_ means to be at one. "It is literally _at-
 one-ment_." (James E. Talmage, _The Articles of Faith,_ 47th ed., Salt Lake
 City: The Church of Jesus Christ of Latter-day Saints, 1924, p. 75.) Because
 of their transgression, Adam and Eve, having chosen to leave their state of
-innocence (see [2 Ne.
-2:23-25](https://www.lds.org/scriptures/bofm/2-ne/2.23-25?lang=eng#22)), were
-banished from the presence of God. This is referred to in Christendom as the
-Fall, or Adam's transgression. It is a spiritual death because Adam and Eve
-were separated from the presence of God and given agency "to act for
+innocence (see [2 Ne. 2:23-25](/scriptures/bofm/2-ne/2.23-25?lang=eng#22)),
+were banished from the presence of God. This is referred to in Christendom as
+the Fall, or Adam's transgression. It is a spiritual death because Adam and
+Eve were separated from the presence of God and given agency "to act for
 themselves and not to be acted upon." ([2 Ne.
-2:26](https://www.lds.org/scriptures/bofm/2-ne/2.26?lang=eng#25).) They were
-also given the great power of procreation, so that they could keep the
-commandment to "multiply, and replenish the earth" and have joy in their
-posterity. ([Gen.
-1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27).)
+2:26](/scriptures/bofm/2-ne/2.26?lang=eng#25).) They were also given the great
+power of procreation, so that they could keep the commandment to "multiply,
+and replenish the earth" and have joy in their posterity. ([Gen.
+1:28](/scriptures/ot/gen/1.28?lang=eng#27).)
 
 All of their posterity were likewise banished from the presence of God. (See
-[2 Ne.
-2:22-26](https://www.lds.org/scriptures/bofm/2-ne/2.22-26?lang=eng#21).)
-However, the posterity of Adam and Eve were innocent of the original sin
-because they had no part in it. It was therefore unfair for all of humanity to
-suffer eternally for the transgressions of our first parents, Adam and Eve. It
-became necessary to settle this injustice; hence the need for the atoning
-sacrifice of Jesus in his role as the Savior and Redeemer. Because of the
-transcendent act of the Atonement, it is possible for every soul to obtain
-forgiveness of sins, to have them washed away and be forgotten. (See [2 Ne.
-9:6-9](https://www.lds.org/scriptures/bofm/2-ne/9.6-9?lang=eng#5); Talmage,
-_Articles of Faith,_ p. 89.) This forgiveness comes about, however, on
-condition of repentance and personal righteousness.
+[2 Ne. 2:22-26](/scriptures/bofm/2-ne/2.22-26?lang=eng#21).) However, the
+posterity of Adam and Eve were innocent of the original sin because they had
+no part in it. It was therefore unfair for all of humanity to suffer eternally
+for the transgressions of our first parents, Adam and Eve. It became necessary
+to settle this injustice; hence the need for the atoning sacrifice of Jesus in
+his role as the Savior and Redeemer. Because of the transcendent act of the
+Atonement, it is possible for every soul to obtain forgiveness of sins, to
+have them washed away and be forgotten. (See [2 Ne.
+9:6-9](/scriptures/bofm/2-ne/9.6-9?lang=eng#5); Talmage, _Articles of Faith,_
+p. 89.) This forgiveness comes about, however, on condition of repentance and
+personal righteousness.
 
 There is a distinction between immortality, or eternal existence, and eternal
 life, which is to have a place in the presence of God. Through the grace of
 Jesus Christ, immortality comes to all men, just or unjust, righteous or
 wicked. However, eternal life is "the greatest of all the gifts of God."
-([D&amp;C 14:7](https://www.lds.org/scriptures/dc-
-testament/dc/14.7?lang=eng#6).) We obtain this great gift, according to the
-Lord, "if you keep my commandments and endure to the end." If we so endure,
-the promise is, "you shall have eternal life." ([D&amp;C
-14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).)
+([D&amp;C 14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).) We obtain this
+great gift, according to the Lord, "if you keep my commandments and endure to
+the end." If we so endure, the promise is, "you shall have eternal life."
+([D&amp;C 14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).)
 
 President Joseph Fielding Smith explains, "This distinction between _eternal
 life,_ as received by the faithful, and _immortality,_ obtained by both the
@@ -87,71 +81,64 @@ Himself and bear our transgressions, our foolishness, our grief, our sorrows,
 and our burdens. It was indefinable and unfathomable. It was almost
 unbearable. The indescribable agony was so great in Gethsemane that "his sweat
 was as it were great drops of blood falling down to the ground." ([Luke
-22:44](https://www.lds.org/scriptures/nt/luke/22.44?lang=eng#43).) The
-haunting cry on the cross, in a loud voice in His native Aramaic, "Eloi, Eloi,
-lama sabachthani? which is, being interpreted, My God, my God, why hast thou
-forsaken me?" ([Mark
-15:34](https://www.lds.org/scriptures/nt/mark/15.34?lang=eng#33)) gives but a
-mere glimpse of His suffering and humiliation. One cannot help wondering how
-many of those drops of precious blood each of us may be responsible for.
+22:44](/scriptures/nt/luke/22.44?lang=eng#43).) The haunting cry on the cross,
+in a loud voice in His native Aramaic, "Eloi, Eloi, lama sabachthani? which
+is, being interpreted, My God, my God, why hast thou forsaken me?" ([Mark
+15:34](/scriptures/nt/mark/15.34?lang=eng#33)) gives but a mere glimpse of His
+suffering and humiliation. One cannot help wondering how many of those drops
+of precious blood each of us may be responsible for.
 
 Even though, as a man or a woman, we are born, live a brief moment, and then
 die, through the atonement of Jesus Christ we will all live after death.
 Through the divinity which is within us as a gift of the great Creator, we can
 come to complete fruition as heirs of God with eternal powers, dominions, and
 progression without end. Paul said this gift is a free gift. (See [Rom.
-5:15](https://www.lds.org/scriptures/nt/rom/5.15?lang=eng#14).) Through the
-Mediation and Atonement we will be resurrected ourselves without going through
-any part of the atoning agony that the Son of God went through.
+5:15](/scriptures/nt/rom/5.15?lang=eng#14).) Through the Mediation and
+Atonement we will be resurrected ourselves without going through any part of
+the atoning agony that the Son of God went through.
 
 Jacob's teachings in the Book of Mormon further explain, "if the flesh should
 rise no more our spirits must become subject to that angel who fell from
 before the presence of the Eternal God, and became the devil, to rise no
-more." ([2 Ne. 9:8](https://www.lds.org/scriptures/bofm/2-ne/9.8?lang=eng#7).)
+more." ([2 Ne. 9:8](/scriptures/bofm/2-ne/9.8?lang=eng#7).)
 
 The testimonies of those faithful followers who saw, heard, and touched the
 resurrected Lord stand uncontroverted to this day. After the crucifixion, Mary
 Magdalene, Mary the mother of James, and Salome had bought sweet spices to
-anoint his body. (See [Mark
-16:1](https://www.lds.org/scriptures/nt/mark/16.1?lang=eng#0).)
+anoint his body. (See [Mark 16:1](/scriptures/nt/mark/16.1?lang=eng#0).)
 
 But the devoted women were concerned as to who would roll away the great stone
 in front of the sepulchre. When they arrived, they found that the stone had
-been rolled away. (See [Mark
-16:3-4](https://www.lds.org/scriptures/nt/mark/16.3-4?lang=eng#2).) A great
-earthquake had intervened, and an angel had rolled back the stone from the
-door and sat upon it, causing the keepers to shake with fear and become as
-dead men. (See [Matt.
-28:2-4](https://www.lds.org/scriptures/nt/matt/28.2-4?lang=eng#1).) The angel
-instructed the women to tell the disciples quickly of the Lord's resurrection,
-assuring them that "he goeth before you into Galilee; there shall ye see him."
-([Matt. 28:7](https://www.lds.org/scriptures/nt/matt/28.7?lang=eng#6).) As
+been rolled away. (See [Mark 16:3-4](/scriptures/nt/mark/16.3-4?lang=eng#2).)
+A great earthquake had intervened, and an angel had rolled back the stone from
+the door and sat upon it, causing the keepers to shake with fear and become as
+dead men. (See [Matt. 28:2-4](/scriptures/nt/matt/28.2-4?lang=eng#1).) The
+angel instructed the women to tell the disciples quickly of the Lord's
+resurrection, assuring them that "he goeth before you into Galilee; there
+shall ye see him." ([Matt. 28:7](/scriptures/nt/matt/28.7?lang=eng#6).) As
 they went to tell the disciples, "Jesus met them, saying, All hail. And they
 came and held him by the feet, and worshipped him." ([Matt.
-28:9](https://www.lds.org/scriptures/nt/matt/28.9?lang=eng#8).)
+28:9](/scriptures/nt/matt/28.9?lang=eng#8).)
 
 During the forty days that the Savior spent with the Apostles and others, they
 heard and saw many unspeakable things. This special ministry changed the
 Apostles from an uncertain, confused, divided, and weak group into powerful
 witnesses of the Lord. Mark records that the Savior upbraided the eleven
 "because they believed not them which had seen him after he was risen." ([Mark
-16:14](https://www.lds.org/scriptures/nt/mark/16.14?lang=eng#13).)
+16:14](/scriptures/nt/mark/16.14?lang=eng#13).)
 
 Perhaps the Apostles should not be unduly criticized for not believing that
 Jesus, having been crucified and buried in a tomb, had come back to earth as a
 glorified being. In all human experience, this had never happened before. It
 was completely unprecedented. This was a different experience than the raising
 of Jairus' daughter (see [Mark 5:22, 24,
-35-43](https://www.lds.org/scriptures/nt/mark/5.22%2C24%2C35-43?lang=eng#21)),
-the young man of Nain (see [Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10)), or
-Lazarus (see [John
-11:1-44](https://www.lds.org/scriptures/nt/john/11.1-44?lang=eng#0)). They all
-died again. Jesus, however, became a resurrected being. He would never die
-again. So it was that to the Apostles the story of Mary Magdalene and the
-other women who witnessed the Resurrection "seemed to them as idle tales, and
-they believed them not." ([Luke
-24:11](https://www.lds.org/scriptures/nt/luke/24.11?lang=eng#10).)
+35-43](/scriptures/nt/mark/5.22,24,35-43?lang=eng#21)), the young man of Nain
+(see [Luke 7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10)), or Lazarus (see
+[John 11:1-44](/scriptures/nt/john/11.1-44?lang=eng#0)). They all died again.
+Jesus, however, became a resurrected being. He would never die again. So it
+was that to the Apostles the story of Mary Magdalene and the other women who
+witnessed the Resurrection "seemed to them as idle tales, and they believed
+them not." ([Luke 24:11](/scriptures/nt/luke/24.11?lang=eng#10).)
 
 Said President David O. McKay of this experience: "The world would never have
 been stirred by men with such wavering, doubting, despairing minds as the
@@ -178,11 +165,10 @@ also fully savor all joys and happiness that can be found in this life. The
 disciples who walked with the Savior on the road to Emmaus said to one
 another, "Did not our heart burn within us, while he talked with us by the
 way, and while he opened to us the scriptures?" ([Luke
-24:32](https://www.lds.org/scriptures/nt/luke/24.32?lang=eng#31).) No wonder
-they entreated him, "Abide with us: for it is toward evening," and he "sat at
-meat with them." ([Luke
-24:29-30](https://www.lds.org/scriptures/nt/luke/24.29-30?lang=eng#28).) They
-sought to savor those precious moments and feelings.
+24:32](/scriptures/nt/luke/24.32?lang=eng#31).) No wonder they entreated him,
+"Abide with us: for it is toward evening," and he "sat at meat with them."
+([Luke 24:29-30](/scriptures/nt/luke/24.29-30?lang=eng#28).) They sought to
+savor those precious moments and feelings.
 
 The vacating of the tomb transcended all other events in the history of the
 world, for it attested that Jesus had not died, but that death itself had been
@@ -198,11 +184,10 @@ Amulek, in the Book of Mormon, promises that following the temporal death,
 "the spirit and the body shall be reunited again in its perfect form; both
 limb and joint shall be restored to its proper frame, ... and we shall be
 brought to stand before God, ... and have a bright recollection of all our
-guilt." ([Alma
-11:43](https://www.lds.org/scriptures/bofm/alma/11.43?lang=eng#42).)
+guilt." ([Alma 11:43](/scriptures/bofm/alma/11.43?lang=eng#42).)
 
 The Prophet Joseph Smith stated, "I can taste the principles of eternal life,
-and so can you. ... I know that when I tell you these words of eternal life ... ,
+and so can you. ... I know that when I tell you these words of eternal life ...,
 you taste them, and I know that you believe them." (_Teachings of the Prophet
 Joseph Smith,_ sel. Joseph Fielding Smith, Salt Lake City: Deseret Book Co.,
 1938, p. 355.) So it is that the humblest and newest believer, the child,
@@ -210,14 +195,12 @@ youth, or adult can come to have a personal conviction of the truth of eternal
 life.
 
 John the Revelator "saw a new heaven and a new earth" and "heard a great voice
-out of heaven." ([Rev. 21:1,
-3](https://www.lds.org/scriptures/nt/rev/21.1%2C3?lang=eng#0).) "He that
-overcometh shall inherit all things; and I will be his God, and he shall be my
-son." ([Rev. 21:7](https://www.lds.org/scriptures/nt/rev/21.7?lang=eng#6).)
-"And God shall wipe away all tears from their eyes; and there shall be no more
-death, neither sorrow, nor crying, neither shall there be any more pain: for
-the former things are passed away." ([Rev.
-21:4](https://www.lds.org/scriptures/nt/rev/21.4?lang=eng#3).)
+out of heaven." ([Rev. 21:1, 3](/scriptures/nt/rev/21.1,3?lang=eng#0).) "He
+that overcometh shall inherit all things; and I will be his God, and he shall
+be my son." ([Rev. 21:7](/scriptures/nt/rev/21.7?lang=eng#6).) "And God shall
+wipe away all tears from their eyes; and there shall be no more death, neither
+sorrow, nor crying, neither shall there be any more pain: for the former
+things are passed away." ([Rev. 21:4](/scriptures/nt/rev/21.4?lang=eng#3).)
 
 It is not necessary for anyone to depend continually upon the testimony of
 another regarding the mediation, atonement, and resurrection of Christ as our
@@ -228,18 +211,18 @@ One can still go to the Garden of Gethsemane, but the Lord Jesus cannot be
 found there, nor is He in the Garden Tomb. He is not on the road to Emmaus,
 nor in Galilee, nor at Nazareth or Bethlehem. He must be found in one's heart.
 But He left us the great Comforter forever (see [John
-14:16](https://www.lds.org/scriptures/nt/john/14.16?lang=eng#15)) and the
-everlasting power of the priesthood. Of this power, Jacob, the son of Lehi,
-testified, "We truly can command in the name of Jesus and the very trees obey
-us, or the mountains, or the waves of the sea." ([Jacob
-4:6](https://www.lds.org/scriptures/bofm/jacob/4.6?lang=eng#5).)
+14:16](/scriptures/nt/john/14.16?lang=eng#15)) and the everlasting power of
+the priesthood. Of this power, Jacob, the son of Lehi, testified, "We truly
+can command in the name of Jesus and the very trees obey us, or the mountains,
+or the waves of the sea." ([Jacob
+4:6](/scriptures/bofm/jacob/4.6?lang=eng#5).)
 
 I testify that, through righteousness, this priesthood power and these
 supernal gifts of the Atonement and the Mediation can operate in our lives.
 Ultimately each of us must come to know these great spiritual truths by
 following the counsel of Jesus, "If any man will do his will, he shall know of
 the doctrine, whether it be of God, or whether I speak of myself." ([John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).)
+7:17](/scriptures/nt/john/7.17?lang=eng#16).)
 
 In conclusion, I wish to make a humble declaration and affirmation that Jesus
 is the Christ, our Redeemer, and the Savior of the world. I do this with all
@@ -253,4 +236,6 @@ outstretched arms and that He will be merciful and forgiving concerning our
 weaknesses. That He will be a father to the fatherless, and deliver to the
 needy according to their needs, and incline His ear to our cries, I humbly
 pray in the name of Jesus Christ, amen.
+
+## References
 

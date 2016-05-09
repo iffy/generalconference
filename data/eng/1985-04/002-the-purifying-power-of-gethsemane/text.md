@@ -112,8 +112,8 @@ Gethsemane recurred.
 And, finally, when the atoning agonies had taken their toll--when the victory
 had been won, when the Son of God had fulfilled the will of his Father in all
 things--then he said, "It is finished" ([John
-19:30](https://www.lds.org/scriptures/nt/john/19.30?lang=eng#29)), and he
-voluntarily gave up the ghost.
+19:30](/scriptures/nt/john/19.30?lang=eng#29)), and he voluntarily gave up the
+ghost.
 
 As the peace and comfort of a merciful death freed him from the pains and
 sorrows of mortality, he entered the paradise of God.
@@ -217,4 +217,6 @@ light so that, according to the promises, the blood of Jesus Christ his Son
 will cleanse us from all sin.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

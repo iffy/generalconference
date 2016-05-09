@@ -2,10 +2,9 @@
 
 "There are ... so many kinds of voices in the world," said the Apostle Paul to
 the Corinthians two thousand years ago ([1 Cor.
-14:10](https://www.lds.org/scriptures/nt/1-cor/14.10?lang=eng#9)). They seemed
-to be troubled by the same conflicting messages we hear today, and it can be
-frightening when you consider how fragile and fickle the fabric of our society
-really is.
+14:10](/scriptures/nt/1-cor/14.10?lang=eng#9)). They seemed to be troubled by
+the same conflicting messages we hear today, and it can be frightening when
+you consider how fragile and fickle the fabric of our society really is.
 
 There have always been strident sounds and discordant voices, and our day is
 no exception. Every day in the newspapers, over television, in movies and
@@ -15,7 +14,7 @@ enticing voices of permissiveness.
 In His sermon on the mount, the Master admonished, "Take therefore no thought
 for the morrow: for the morrow shall take thought for the things of itself.
 Sufficient unto the day is the evil thereof" ([Matt.
-6:34](https://www.lds.org/scriptures/nt/matt/6.34?lang=eng#33)).
+6:34](/scriptures/nt/matt/6.34?lang=eng#33)).
 
 Sufficient, indeed, is the evil thereof unto this day in which we live. There
 seems to be a rising tide of evil, a flood of iniquity spreading throughout
@@ -29,10 +28,10 @@ was allowed to see them.
 
 According to the Book of Mormon, the devil "seeketh that all men might be
 miserable like unto himself" ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)). The
-evidence of his handiwork is certainly about us. Elder Richard L. Evans once
-said, "If we don't change direction, we will arrive at where we are going"
-(_Richard Evans' Quote Book,_ Salt Lake City: Publishers Press, 1971, p. 244).
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)). The evidence of his handiwork
+is certainly about us. Elder Richard L. Evans once said, "If we don't change
+direction, we will arrive at where we are going" (_Richard Evans' Quote Book,_
+Salt Lake City: Publishers Press, 1971, p. 244).
 
 It is not in idleness that our prophets admonish again and again to strengthen
 ourselves and our families--to hold family home evenings, to read and study
@@ -54,13 +53,12 @@ lives, to give them a sure set of standards and a firm foundation of safe and
 sound principles.
 
 The Lord said to Noah, "Make thee an ark" and "with thee will I establish my
-covenant" ([Gen. 6:14,
-18](https://www.lds.org/scriptures/ot/gen/6.14%2C18?lang=eng#13)).
+covenant" ([Gen. 6:14, 18](/scriptures/ot/gen/6.14,18?lang=eng#13)).
 
 "And Noah did according unto all that the Lord commanded him. ...
 
 "And Noah only remained alive, and they that were with him in the ark" ([Gen.
-7:5, 23](https://www.lds.org/scriptures/ot/gen/7.5%2C23?lang=eng#4)).
+7:5, 23](/scriptures/ot/gen/7.5,23?lang=eng#4)).
 
 We all need to build a personal ark, to fortify ourselves against this rising
 tide of evil, to protect ourselves and our families against the floodwaters of
@@ -88,13 +86,13 @@ relationship with Jesus Christ. If we do, we will always be comfortable with
 ourselves. Any questions of self-esteem and self-worth will diminish, and we
 will have a quiet confidence that will see us through any trial. And the
 Savior's promise to us is "Fear not, little children, for you are mine, and I
-have overcome the world" ([D&amp;C 50:41](https://www.lds.org/scriptures/dc-
+have overcome the world" ([D&amp;C 50:41](/scriptures/dc-
 testament/dc/50.41?lang=eng#40)).
 
 Whatever the anxiety or fear or frustration, we have only to remember the
 Lord's comforting words to the Prophet Joseph Smith in the Liberty Jail: "My
-son, peace be unto thy soul" ([D&amp;C 121:7](https://www.lds.org/scriptures
-/dc-testament/dc/121.7?lang=eng#6)). To each of us, He will always be there to
+son, peace be unto thy soul" ([D&amp;C 121:7](/scriptures/dc-
+testament/dc/121.7?lang=eng#6)). To each of us, He will always be there to
 say, "My son, my daughter, my child, peace be unto thy soul."
 
 And in return we should pledge, as did the poet George Herbert:
@@ -111,4 +109,6 @@ My brothers and sisters, I bear you my witness that Jesus is the Christ, that
 He indeed overcame the world through His atonement, and that He will always be
 there to comfort us if we will follow His example and do the will of the
 Father. And I do so in the name of Jesus Christ, amen.
+
+## References
 

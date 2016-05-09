@@ -3,7 +3,7 @@
 Brethren, I came to the conclusion after studying for some time on the matter
 that priesthood is power. As I speak tonight I desire to remind us of the
 importance of magnifying our callings in the priesthood. (See [D&amp;C
-84:33](https://www.lds.org/scriptures/dc-testament/dc/84.33?lang=eng#32).)
+84:33](/scriptures/dc-testament/dc/84.33?lang=eng#32).)
 
 By reason of our ordination to the priesthood, we are the most honored of all
 men. By the same token, we are charged with the greatest responsibility. We
@@ -22,7 +22,7 @@ John A. Widtsoe, Salt Lake City: Deseret Book Co., 1941, p. 130.)
 
 Jesus gave us demonstration after demonstration of the power of the
 priesthood. In his first recorded miracle, he turned water into wine. (See
-[John 2:1-11](https://www.lds.org/scriptures/nt/john/2.1-11?lang=eng#0).)
+[John 2:1-11](/scriptures/nt/john/2.1-11?lang=eng#0).)
 
 Matthew tells us that as Jesus slept on a ship a great tempest covered the
 vessel with waves. So concerned were his disciples that they came to him,
@@ -32,7 +32,7 @@ saying, "Lord, save us: [or] we perish.
 
 "[And] the men marvelled, saying, What manner of man is this, that even the
 winds and the sea obey him!" ([Matt.
-8:25-27](https://www.lds.org/scriptures/nt/matt/8.25-27?lang=eng#24).)
+8:25-27](/scriptures/nt/matt/8.25-27?lang=eng#24).)
 
 On another occasion, with "but five loaves, and two fishes" Jesus fed the
 multitude:
@@ -42,20 +42,20 @@ remained twelve baskets full.
 
 "And they that had eaten were about five thousand men, beside women and
 children." ([Matt. 14:17,
-19-21](https://www.lds.org/scriptures/nt/matt/14.17%2C19-21?lang=eng#16).)
+19-21](/scriptures/nt/matt/14.17,19-21?lang=eng#16).)
 
 By the power of the priesthood Jesus gave sight to the blind, hearing to the
 deaf, strength to the lame, and healed all manner of diseases. He raised from
 the dead the son of the widow of Nain. (See [Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).) He even
-resurrected himself by the power of the priesthood.
+7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10).) He even resurrected
+himself by the power of the priesthood.
 
 He and his Father exercise the power of the priesthood directly at their own
 pleasure and in their own right. When Jesus summoned Lazarus from the tomb, he
 simply "cried with a loud voice, Lazarus, come forth.
 
 "And he that was dead came forth." ([John
-11:43-44](https://www.lds.org/scriptures/nt/john/11.43-44?lang=eng#42).)
+11:43-44](/scriptures/nt/john/11.43-44?lang=eng#42).)
 
 We mortals, in exercising the priesthood, do not do so in our own right as
 Jesus did. The priesthood we hold is a delegated power. We can only exercise
@@ -68,7 +68,7 @@ Supper and just before they went to Gethsemane, he said:
 
 "Believe me that I am in the Father, and the Father in me: or else believe me
 for the very works' sake." ([John
-14:11](https://www.lds.org/scriptures/nt/john/14.11?lang=eng#10).)
+14:11](/scriptures/nt/john/14.11?lang=eng#10).)
 
 Well, the priesthood, as I have come to understand it through studying, is
 power. It's the power that God used in the Creation. It is the power that he
@@ -86,4 +86,6 @@ I pray that we will all magnify our priesthood by living the gospel, so that
 we can use that power for furthering the work of the Church and for perfecting
 our lives on our way to the great hereafter, I humbly pray, and bear my
 testimony, in the name of Jesus Christ, amen.
+
+## References
 

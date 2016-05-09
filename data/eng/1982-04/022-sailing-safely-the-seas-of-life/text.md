@@ -72,11 +72,10 @@ mariners who sail the lanes of the sea. To all who walk the pathways of life,
 He cautions: Beware the detours, the pitfalls, the traps. Cunningly positioned
 are those clever pied pipers of sin beckoning here or there. Do not be
 deceived. Pause to pray. Listen to that still, small voice (see [D&amp;C
-85:6](https://www.lds.org/scriptures/dc-testament/dc/85.6?lang=eng#5)) which
-speaks to the depths of our souls the Master's gentle invitation: "Come,
-follow me" ([Luke
-18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21)). We turn
-from destruction, from death. We find happiness and life everlasting.
+85:6](/scriptures/dc-testament/dc/85.6?lang=eng#5)) which speaks to the depths
+of our souls the Master's gentle invitation: "Come, follow me" ([Luke
+18:22](/scriptures/nt/luke/18.22?lang=eng#21)). We turn from destruction, from
+death. We find happiness and life everlasting.
 
 Yet, there are those who do not hear, who will not obey, who listen to the
 beat of a different drummer. Most prominent among their number was that son of
@@ -84,8 +83,7 @@ Adam born of Eve, even Cain--a well-known name among men. Powerful in
 potential, but weak of will, Cain permitted greed, envy, disobedience, and
 even murder to jam that personal rudder which would have guided him to safety
 and exaltation. The downward gaze replaced the upward look; Cain fell. (See
-[Moses
-5:16-41](https://www.lds.org/scriptures/pgp/moses/5.16-41?lang=eng#15).)
+[Moses 5:16-41](/scriptures/pgp/moses/5.16-41?lang=eng#15).)
 
 Less known, but more typical of our day, was that person of power, that
 cardinal of the cloth--even Wolsey. The prolific pen of William Shakespeare
@@ -145,8 +143,7 @@ In an earlier time and by a wicked king, a servant of God was tested. Aided by
 the inspiration of heaven, Daniel, son of David, interpreted to the king the
 writing on the wall. Concerning the proffered rewards--even a royal robe and a
 necklace of gold--Daniel said: "Let thy gifts be to thyself, and give thy
-rewards to another." ([Dan.
-5:17](https://www.lds.org/scriptures/ot/dan/5.17?lang=eng#16).)
+rewards to another." ([Dan. 5:17](/scriptures/ot/dan/5.17?lang=eng#16).)
 
 Belshazzar's successor, King Darius, also honored Daniel, elevating him to the
 highest position of prominence. There followed the envy of the crowd, the
@@ -155,12 +152,12 @@ jealousy of princes, and the scheming of ambitious men.
 Through trickery, aided by flattery, King Darius signed a proclamation that
 provided that anyone who made a request of any god or man, except the king,
 should be thrown into the lions' den. (See [Dan.
-6:7](https://www.lds.org/scriptures/ot/dan/6.7?lang=eng#6).) The law was
-signed, the proclamation sent forth. Prayer was forbidden. In such matters,
-Daniel took direction not from an earthly king but from the king of heaven and
-earth, his God. Overtaken in his daily prayers, Daniel was brought before the
-king. Reluctantly, the penalty was pronounced. Daniel was to be thrown into
-the lions' den. The sentence was carried out.
+6:7](/scriptures/ot/dan/6.7?lang=eng#6).) The law was signed, the proclamation
+sent forth. Prayer was forbidden. In such matters, Daniel took direction not
+from an earthly king but from the king of heaven and earth, his God. Overtaken
+in his daily prayers, Daniel was brought before the king. Reluctantly, the
+penalty was pronounced. Daniel was to be thrown into the lions' den. The
+sentence was carried out.
 
 I love the biblical account which follows:
 
@@ -181,7 +178,7 @@ not hurt me. ...
 
 "Then was the king exceeding glad. ... Daniel was taken up out of the den, and
 no manner of hurt was found upon him, because he believed in his God." ([Dan.
-6:18-23](https://www.lds.org/scriptures/ot/dan/6.18-23?lang=eng#17).)
+6:18-23](/scriptures/ot/dan/6.18-23?lang=eng#17).)
 
 In a time of critical need, Daniel's determination to steer a steady course
 yielded divine protection and provided a sanctuary of safety.
@@ -234,4 +231,6 @@ find our way safely home. _"Home is the sailor, home from sea."_ Home to
 family, home to friends, home to heaven, home to God.
 
 Of this truth I testify, in the name of Jesus Christ, amen.
+
+## References
 

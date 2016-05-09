@@ -59,7 +59,7 @@ possessor of heaven and earth,
 
 "That I will not take from a thread even to a shoelatchet, and that I will not
 take any thing that is thine." ([Gen.
-14:22-23](https://www.lds.org/scriptures/ot/gen/14.22-23?lang=eng#21).)
+14:22-23](/scriptures/ot/gen/14.22-23?lang=eng#21).)
 
 Fortunately there are still those who observe such principles of personal
 rectitude. Recently we rode a train from Osaka to Nagoya, Japan. At the
@@ -84,13 +84,13 @@ expanded, but the torrent of dishonesty pours on and grows in volume.
 
 Of course, falsehood is not new. It is as old as man. "The Lord said unto
 Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's
-keeper?" ([Gen. 4:9](https://www.lds.org/scriptures/ot/gen/4.9?lang=eng#8).)
+keeper?" ([Gen. 4:9](/scriptures/ot/gen/4.9?lang=eng#8).)
 
 Asked the prophet Malachi of ancient Israel: "Will a man rob God? Yet ye have
 robbed me. But ye say, Wherein have we robed thee? In tithes and offerings.
 
 "Ye are cursed with a curse: for ye have robbed me, even this whole nation."
-([Mal. 3:8-9](https://www.lds.org/scriptures/ot/mal/3.8-9?lang=eng#7).)
+([Mal. 3:8-9](/scriptures/ot/mal/3.8-9?lang=eng#7).)
 
 Even following the miracle of Pentecost, deception was manifest among some who
 had come into the church. Those who were converted sold their lands and
@@ -120,20 +120,19 @@ And she said, Yea, for so much.
 Spirit of the Lord? ...
 
 "Then she fell down straightway at his feet, and yielded up the ghost." ([Acts
-5:1-10](https://www.lds.org/scriptures/nt/acts/5.1-10?lang=eng#0).)
+5:1-10](/scriptures/nt/acts/5.1-10?lang=eng#0).)
 
 In our time those found in dishonesty do not die as did Ananias and Sapphira,
 but something within them dies. Conscience chokes, character withers, self-
 respect vanishes, integrity dies.
 
 On Mount Sinai the finger of the Lord wrote the law on tablets of stone: "Thou
-shall not steal." ([Ex.
-20:15](https://www.lds.org/scriptures/ot/ex/20.15?lang=eng#14).) There was
-neither enlargement nor rationalization. And then that declaration was
+shall not steal." ([Ex. 20:15](/scriptures/ot/ex/20.15?lang=eng#14).) There
+was neither enlargement nor rationalization. And then that declaration was
 accompanied by three other commandments, the violation of each of which
 involves dishonesty: "Thou shalt not commit adultery." "Thou shalt not bear
 false witness." "Thou shalt not covet." ([Ex. 20:14,
-16-17](https://www.lds.org/scriptures/ot/ex/20.14%2C16-17?lang=eng#13).)
+16-17](/scriptures/ot/ex/20.14,16-17?lang=eng#13).)
 
 Was there ever adultery without dishonesty? In the vernacular, the evil is
 described as "cheating." And cheating it is, for it robs virtue, it robs
@@ -210,8 +209,7 @@ Wrote the author of Proverbs:
 mischief,
 
 "A false witness that speaketh lies, and he that soweth discord among
-brethren." ([Prov.
-6:16-19](https://www.lds.org/scriptures/ot/prov/6.16-19?lang=eng#15).)
+brethren." ([Prov. 6:16-19](/scriptures/ot/prov/6.16-19?lang=eng#15).)
 
 The appraisal spoken long ago by an English poet is true yet today: "An honest
 man's the noblest work of God." (Alexander Pope, _An Essay on Man. Epistle
@@ -220,7 +218,7 @@ III,_ line 248.) Where there is honesty, other virtues will follow.
 The final Article of Faith of The Church of Jesus Christ of Latter-day Saints
 affirms that, "We believe in being honest, true, chaste, benevolent, virtuous,
 and in doing good to all men." [[A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)]
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)]
 
 We cannot be less than honest, we cannot be less than true, we cannot be less
 than virtuous if we are to keep sacred the trust given us. Once it was said
@@ -238,4 +236,6 @@ I leave you my testimony of the truth of the cause in which we labor, of the
 living reality of our Father who is our God, to whom someday each of us must
 make an accounting, and of his beloved Son, who is our Savior and Redeemer,
 the Author of Truth. In the name of Jesus Christ. Amen.
+
+## References
 

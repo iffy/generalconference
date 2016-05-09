@@ -96,8 +96,7 @@ the elder or priest who administers the sacrament "shall kneel ... and call upon
 the Father in solemn prayer, saying:
 
 "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ."
-([D&amp;C 20:76-77, 79](https://www.lds.org/scriptures/dc-
-testament/dc/20.76-77%2C79?lang=eng#75).)
+([D&amp;C 20:76-77, 79](/scriptures/dc-testament/dc/20.76-77,79?lang=eng#75).)
 
 The prayer offered at the dedication of the Kirtland Temple in 1836 is another
 model that illustrates the language of prayer used by the Prophet Joseph
@@ -109,8 +108,7 @@ in calling our solemn assembly, ...
 "That thy glory may rest down upon thy people, and upon this thy house, which
 we now dedicate to thee, that it may be sanctified and consecrated to be holy,
 and that thy holy presence may be continually in this house." ([D&amp;C
-109:10, 12](https://www.lds.org/scriptures/dc-
-testament/dc/109.10%2C12?lang=eng#9).)
+109:10, 12](/scriptures/dc-testament/dc/109.10,12?lang=eng#9).)
 
 This prophetic model of the language of prayer has been faithfully followed in
 all of the sacred petitions by which the prophets have dedicated temples to
@@ -135,8 +133,8 @@ addressing our Father in Heaven:
 place? ...
 
 "Remember thy suffering saints, O our God; and thy servants will rejoice in
-thy name forever." ([D&amp;C 121:1, 6](https://www.lds.org/scriptures/dc-
-testament/dc/121.1%2C6?lang=eng#0))
+thy name forever." ([D&amp;C 121:1, 6](/scriptures/dc-
+testament/dc/121.1,6?lang=eng#0))
 
 Other prayers offered by the Prophet Joseph Smith also use the special, formal
 language of prayer. (See _The Personal Writings of Joseph Smith,_ ed. Dean C.
@@ -156,9 +154,8 @@ _you, your,_ and _yours._
 
 In teaching his disciples what we call the Lord's Prayer, the Savior said,
 "After this manner therefore pray ye: Our Father which art in heaven, Hallowed
-be thy name." ([Matt.
-6:9](https://www.lds.org/scriptures/nt/matt/6.9?lang=eng#8); see also [3 Ne.
-13:9](https://www.lds.org/scriptures/bofm/3-ne/13.9?lang=eng#8).)
+be thy name." ([Matt. 6:9](/scriptures/nt/matt/6.9?lang=eng#8); see also [3
+Ne. 13:9](/scriptures/bofm/3-ne/13.9?lang=eng#8).)
 
 In his great intercessory prayer, uttered on the night before his crucifixion,
 the Savior used these words:
@@ -168,7 +165,7 @@ thee. ...
 
 "And this is life eternal, that they might know thee the only true God, and
 Jesus Christ, whom thou hast sent." ([John 17:1,
-3](https://www.lds.org/scriptures/nt/john/17.1%2C3?lang=eng#0).)
+3](/scriptures/nt/john/17.1,3?lang=eng#0).)
 
 The Book of Mormon records this prayer the Savior offered during his visit to
 the righteous remnant of Israel on the American continent following his
@@ -179,7 +176,7 @@ have chosen. ...
 
 "Father, I pray thee that thou wilt give the Holy Ghost unto all them that
 shall believe in their words." ([3 Ne.
-19:20-21](https://www.lds.org/scriptures/bofm/3-ne/19.20-21?lang=eng#19).)
+19:20-21](/scriptures/bofm/3-ne/19.20-21?lang=eng#19).)
 
 The special language of prayer that Latter-day Saints use in English has
 sometimes been explained by reference to the history of the English language.
@@ -206,13 +203,12 @@ will not be misunderstood.
 Literary excellence is not our desire. We do not advocate flowery and wordy
 prayers. We do not wish to be among those who "pray to be heard of men, and to
 be praised for their wisdom." ([Alma
-38:13](https://www.lds.org/scriptures/bofm/alma/38.13?lang=eng#12).) We wish
-to follow the Savior's teaching, "When ye pray, use not vain repetitions, as
-the heathen do: for they think that they shall be heard for their much
-speaking." ([Matt.
-6:7](https://www.lds.org/scriptures/nt/matt/6.7?lang=eng#6); see also [3 Ne.
-13:7](https://www.lds.org/scriptures/bofm/3-ne/13.7?lang=eng#6).) Our prayers
-should be simple, direct, and sincere.
+38:13](/scriptures/bofm/alma/38.13?lang=eng#12).) We wish to follow the
+Savior's teaching, "When ye pray, use not vain repetitions, as the heathen do:
+for they think that they shall be heard for their much speaking." ([Matt.
+6:7](/scriptures/nt/matt/6.7?lang=eng#6); see also [3 Ne.
+13:7](/scriptures/bofm/3-ne/13.7?lang=eng#6).) Our prayers should be simple,
+direct, and sincere.
 
 We should also remember that our position on special prayer language in
 English is based on modern revelations and the teachings and examples of
@@ -240,7 +236,7 @@ things her parents heard. But when she was grown, we expected her to use
 appropriate language when she spoke, and of course she did. As the Apostle
 Paul said, "When I was a child, I spake as a child, I understood as a child, I
 thought as a child: but when I became a man, I put away childish things." ([1
-Cor. 13:11](https://www.lds.org/scriptures/nt/1-cor/13.11?lang=eng#10).)
+Cor. 13:11](/scriptures/nt/1-cor/13.11?lang=eng#10).)
 
 The same is true of prayer. Our earliest efforts will be heard with joy by our
 Heavenly Father, however they are phrased. They will be heard in the same way
@@ -262,14 +258,13 @@ pp. 44-47.) The special language of prayer is even easier in most other
 languages.
 
 Modern revelation commands parents to "teach their children to pray."
-([D&amp;C 68:28](https://www.lds.org/scriptures/dc-
-testament/dc/68.28?lang=eng#27).) This requires parents to learn and pray with
-the special language of prayer. We learn our native language simply by
-listening to those who speak it. This is also true of the language with which
-we address our Heavenly Father. The language of prayer is easier and sweeter
-to learn than any other tongue. We should give our children the privilege of
-learning this language by listening to their parents use it in the various
-prayers offered daily in our homes.
+([D&amp;C 68:28](/scriptures/dc-testament/dc/68.28?lang=eng#27).) This
+requires parents to learn and pray with the special language of prayer. We
+learn our native language simply by listening to those who speak it. This is
+also true of the language with which we address our Heavenly Father. The
+language of prayer is easier and sweeter to learn than any other tongue. We
+should give our children the privilege of learning this language by listening
+to their parents use it in the various prayers offered daily in our homes.
 
 The Prophet Joseph Smith said, "It is a great thing to inquire at the hands of
 God, or to come into His presence." (_Teachings of the Prophet Joseph Smith,_
@@ -282,4 +277,6 @@ I testify that this is the Church of Jesus Christ, which our Savior has
 restored in these latter days with the authority and duty to preach his gospel
 and his commandments to every nation, kindred, tongue, and people. In the name
 of Jesus Christ, amen.
+
+## References
 

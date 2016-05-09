@@ -32,31 +32,30 @@ Warfare, for example, has been known since time began. Even in that ugly
 circumstance, the Lord has helped those obedient to His counsel. Going into
 battle, all would assume the obvious advantage of outnumbering an enemy. But
 when God's disciple Gideon was leading an army against the Midianites, "the
-Lord said unto Gideon, The people that are with thee are too many ... , lest
-Israel vaunt themselves ... , saying, Mine own hand hath saved me" ([Judg.
-7:2](https://www.lds.org/scriptures/ot/judg/7.2?lang=eng#1)).
+Lord said unto Gideon, The people that are with thee are too many ..., lest
+Israel vaunt themselves ..., saying, Mine own hand hath saved me" ([Judg.
+7:2](/scriptures/ot/judg/7.2?lang=eng#1)).
 
 So the Lord directed Gideon to reduce his numbers. He first decreased the
 troops from twenty-two thousand to ten thousand.
 
 Then the Lord said to Gideon, "The people are yet too many" ([Judg.
-7:4](https://www.lds.org/scriptures/ot/judg/7.4?lang=eng#3)). So another
-reduction was made. Finally, only three hundred remained. Then the Lord
-delivered the victory to the outnumbered few (see [Judg.
-7:5-25](https://www.lds.org/scriptures/ot/judg/7.5-25?lang=eng#4)).
+7:4](/scriptures/ot/judg/7.4?lang=eng#3)). So another reduction was made.
+Finally, only three hundred remained. Then the Lord delivered the victory to
+the outnumbered few (see [Judg.
+7:5-25](/scriptures/ot/judg/7.5-25?lang=eng#4)).
 
 Even more widely known than war is an understanding of childbearing. Everyone
 "knows" that _old_ women do not bear children. So upon whom did the Lord call
 to bear Abraham's birthright son? Sarah, at age ninety! When told this was to
 be, she asked a logical question: "Shall I [which am old] of a surety bear a
-child?" ([Gen.
-18:13](https://www.lds.org/scriptures/ot/gen/18.13?lang=eng#12)). From heaven
-came this reply: "Is any thing too hard for the Lord?" ([Gen.
-18:14](https://www.lds.org/scriptures/ot/gen/18.14?lang=eng#13)).
+child?" ([Gen. 18:13](/scriptures/ot/gen/18.13?lang=eng#12)). From heaven came
+this reply: "Is any thing too hard for the Lord?" ([Gen.
+18:14](/scriptures/ot/gen/18.14?lang=eng#13)).
 
 So decreed, she gave birth to Isaac, to carry the crucial Abrahamic covenant
 into the second generation (see [Gen. 26:1-4,
-24](https://www.lds.org/scriptures/ot/gen/26.1-4%2C24?lang=eng#0)).
+24](/scriptures/ot/gen/26.1-4,24?lang=eng#0)).
 
 Later, for one of the most important events ever to occur, the other extreme
 was chosen. As all knew that an elderly woman could not bear children, it was
@@ -65,26 +64,24 @@ this prophetic utterance:
 
 "The Lord himself shall give you a sign; Behold, a virgin shall conceive, and
 bear a son, and shall call his name Immanuel" ([Isa.
-7:14](https://www.lds.org/scriptures/ot/isa/7.14?lang=eng#13)).
+7:14](/scriptures/ot/isa/7.14?lang=eng#13)).
 
 When Mary was notified of her sacred responsibility, the announcing angel
 reassured, "For with God nothing shall be impossible" ([Luke
-1:37](https://www.lds.org/scriptures/nt/luke/1.37?lang=eng#36)).
+1:37](/scriptures/nt/luke/1.37?lang=eng#36)).
 
 The expression _deep water_ means danger! That very hazard challenged the
 Israelites led by Moses at the Red Sea (see [Ex.
-14](https://www.lds.org/scriptures/ot/ex/14.title?lang=eng)). Later, they were
-led by Joshua to the river Jordan at flood time (see [Josh.
-3](https://www.lds.org/scriptures/ot/josh/3.title?lang=eng)). In each
-instance, deep water was divinely divided to allow the faithful to reach their
-destination safely. To teach His people, the Lord employs the unlikely.
+14](/scriptures/ot/ex/14?lang=eng)). Later, they were led by Joshua to the
+river Jordan at flood time (see [Josh. 3](/scriptures/ot/josh/3?lang=eng)). In
+each instance, deep water was divinely divided to allow the faithful to reach
+their destination safely. To teach His people, the Lord employs the unlikely.
 
 Turning to our day, have you ever wondered why the Master waited so long to
 inaugurate the promised "restitution of all things" ([Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20))? Any
-competitor knows the disadvantage of allowing an opponent to get too far
-ahead. Wouldn't the work of the restoration of the Church have been easier if
-begun earlier?
+3:21](/scriptures/nt/acts/3.21?lang=eng#20))? Any competitor knows the
+disadvantage of allowing an opponent to get too far ahead. Wouldn't the work
+of the restoration of the Church have been easier if begun earlier?
 
 Suppose for a moment you are a member of a team. The coach beckons you from
 the bench and says: "You are to enter this contest. I not only want you to
@@ -99,11 +96,9 @@ setting was remote and rural. By standards of the world, its leaders were
 deemed to be unlearned. Their followers seemed so ordinary. But with them, the
 work was begun. Assignments had been revealed:
 
-  * The gospel was to be preached to every kindred, nation, tongue, and people.
-
-  * Ordinary folk were to become Saints.
-
-  * Redemptive work was to be done for all who had ever lived.
+  * The gospel was to be preached to every kindred, nation, tongue, and people. 
+  * Ordinary folk were to become Saints. 
+  * Redemptive work was to be done for all who had ever lived. 
 
 The great dispensation of the latter days had commenced, and they were the
 ones to usher it forth!
@@ -111,16 +106,15 @@ ones to usher it forth!
 Furthermore, the Prophet Joseph Smith was unjustly held in the unspeakable
 isolation of a distant prison. In such obscurity, then and there, he was told
 by the Lord that "the ends of the earth shall inquire after thy name"
-([D&amp;C 122:1](https://www.lds.org/scriptures/dc-
-testament/dc/122.1?lang=eng#0)).
+([D&amp;C 122:1](/scriptures/dc-testament/dc/122.1?lang=eng#0)).
 
 If any tasks ever deserved the label _impossible,_ those would seem to
 qualify. But, in fact, our Lord had spoken: "With men this is impossible; but
 with God all things are possible" ([Matt.
-19:26](https://www.lds.org/scriptures/nt/matt/19.26?lang=eng#25); see also
-[Mark 10:27](https://www.lds.org/scriptures/nt/mark/10.27?lang=eng#26); [Luke
-18:27](https://www.lds.org/scriptures/nt/luke/18.27?lang=eng#26)). To teach
-His people, the Lord employs the unlikely.
+19:26](/scriptures/nt/matt/19.26?lang=eng#25); see also [Mark
+10:27](/scriptures/nt/mark/10.27?lang=eng#26); [Luke
+18:27](/scriptures/nt/luke/18.27?lang=eng#26)). To teach His people, the Lord
+employs the unlikely.
 
 A century and a half later, the burdening baton of that opportunity has now
 been passed to us. We are children of the noble birthright, who must carry on
@@ -136,25 +130,24 @@ repeatedly as requirements.
 ## Faith
 
 The foremost requisite is _faith._ It is the first principle of the gospel
-(see [A of F 1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3)).
-In his epistle to the Hebrews, Paul so taught. He concluded that by faith the
-great deeds of Noah, Abraham, Sarah, Isaac, Jacob, Joseph, Moses, Joshua, and
-others were accomplished (see [Heb.
-11:4-34](https://www.lds.org/scriptures/nt/heb/11.4-34?lang=eng#3)).
+(see [A of F 1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3)). In his epistle to
+the Hebrews, Paul so taught. He concluded that by faith the great deeds of
+Noah, Abraham, Sarah, Isaac, Jacob, Joseph, Moses, Joshua, and others were
+accomplished (see [Heb. 11:4-34](/scriptures/nt/heb/11.4-34?lang=eng#3)).
 
 Prophets on the American hemisphere similarly taught the fundamental
 importance of faith. Moroni said it included things "hoped for and not seen"
 and then warned his skeptics, "Dispute not because ye see not, for ye receive
 no witness until after the trial of your faith" ([Ether
-12:6](https://www.lds.org/scriptures/bofm/ether/12.6?lang=eng#5)). Then he
-spoke of leaders whose faith preceded their miraculous deeds, including Alma,
-Amulek, Nephi, Lehi, Ammon, the brother of Jared, and the three who were
-promised that they should not taste of death (see [Ether
-12:13-20](https://www.lds.org/scriptures/bofm/ether/12.13-20?lang=eng#12)).
+12:6](/scriptures/bofm/ether/12.6?lang=eng#5)). Then he spoke of leaders whose
+faith preceded their miraculous deeds, including Alma, Amulek, Nephi, Lehi,
+Ammon, the brother of Jared, and the three who were promised that they should
+not taste of death (see [Ether
+12:13-20](/scriptures/bofm/ether/12.13-20?lang=eng#12)).
 
 The Lord personally taught this truth to his disciples: "If ye have faith," he
 said, "nothing shall be impossible unto you" ([Matt.
-17:20](https://www.lds.org/scriptures/nt/matt/17.20?lang=eng#19)).
+17:20](/scriptures/nt/matt/17.20?lang=eng#19)).
 
 Faith is nurtured through knowledge of God. It comes from prayer and feasting
 upon the words of Christ through diligent study of the scriptures.
@@ -170,15 +163,14 @@ represent the _Lord's_ perspective of your task--the portion of His plan He
 has entrusted to you. Now, connect your system to His. By mental adjustment,
 fuse your focus. Something wonderful happens. Your vision and His are now the
 same. You have developed an "eye single to the glory of God" ([D&amp;C
-4:5](https://www.lds.org/scriptures/dc-testament/dc/4.5?lang=eng#4); see also
-[Morm. 8:15](https://www.lds.org/scriptures/bofm/morm/8.15?lang=eng#14)). With
-that perspective, look upward--above and beyond mundane things about you. The
-Lord said, "Look unto me in every thought" ([D&amp;C
-6:36](https://www.lds.org/scriptures/dc-testament/dc/6.36?lang=eng#35)). That
-special vision will also help clarify your wishes when they may be a bit fuzzy
-and out of focus with God's hopes for your divine destiny. Indeed, the precise
-challenge you regard now as "impossible" may be the very refinement you need,
-in His eye.
+4:5](/scriptures/dc-testament/dc/4.5?lang=eng#4); see also [Morm.
+8:15](/scriptures/bofm/morm/8.15?lang=eng#14)). With that perspective, look
+upward--above and beyond mundane things about you. The Lord said, "Look unto
+me in every thought" ([D&amp;C 6:36](/scriptures/dc-
+testament/dc/6.36?lang=eng#35)). That special vision will also help clarify
+your wishes when they may be a bit fuzzy and out of focus with God's hopes for
+your divine destiny. Indeed, the precise challenge you regard now as
+"impossible" may be the very refinement you need, in His eye.
 
 Recently I visited the home of a man terminally ill. The stake president
 introduced me to the man's family. His wife demonstrated such focus when she
@@ -199,18 +191,16 @@ A third theme in the scriptures requisite for significant accomplishment is
 difficult to summarize in one word, so I shall link two to describe it--
 _strength_ and _courage._ Repeatedly, scriptures yoke these attributes of
 character together, especially when difficult challenges are to be conquered
-(see [Deut. 31:6, 7,
-23](https://www.lds.org/scriptures/ot/deut/31.6%2C7%2C23?lang=eng#5); [Josh.
-1:6, 7, 9,
-18](https://www.lds.org/scriptures/ot/josh/1.6%2C7%2C9%2C18?lang=eng#5);
-[Josh. 10:25](https://www.lds.org/scriptures/ot/josh/10.25?lang=eng#24); [1
-Chr. 22:13](https://www.lds.org/scriptures/ot/1-chr/22.13?lang=eng#12); [1
-Chr. 28:20](https://www.lds.org/scriptures/ot/1-chr/28.20?lang=eng#19); [2
-Chr. 32:7](https://www.lds.org/scriptures/ot/2-chr/32.7?lang=eng#6); [Ps.
-27:14](https://www.lds.org/scriptures/ot/ps/27.14?lang=eng#13); [Ps.
-31:24](https://www.lds.org/scriptures/ot/ps/31.24?lang=eng#23); [Alma
-43:43](https://www.lds.org/scriptures/bofm/alma/43.43?lang=eng#42); [Alma
-53:20](https://www.lds.org/scriptures/bofm/alma/53.20?lang=eng#19)).
+(see [Deut. 31:6, 7, 23](/scriptures/ot/deut/31.6,7,23?lang=eng#5); [Josh.
+1:6, 7, 9, 18](/scriptures/ot/josh/1.6,7,9,18?lang=eng#5); [Josh.
+10:25](/scriptures/ot/josh/10.25?lang=eng#24); [1 Chr.
+22:13](/scriptures/ot/1-chr/22.13?lang=eng#12); [1 Chr.
+28:20](/scriptures/ot/1-chr/28.20?lang=eng#19); [2 Chr.
+32:7](/scriptures/ot/2-chr/32.7?lang=eng#6); [Ps.
+27:14](/scriptures/ot/ps/27.14?lang=eng#13); [Ps.
+31:24](/scriptures/ot/ps/31.24?lang=eng#23); [Alma
+43:43](/scriptures/bofm/alma/43.43?lang=eng#42); [Alma
+53:20](/scriptures/bofm/alma/53.20?lang=eng#19)).
 
 Perhaps this is more easily illustrated than defined. Our pioneer forefathers
 are good examples. They sang, "Gird up your loins; fresh courage take" ("Come,
@@ -259,28 +249,26 @@ sacred assignment.
 You who may be momentarily disheartened, remember, life is not meant to be
 easy. Trials must be borne and grief endured along the way. As you remember
 that "with God nothing shall be impossible" ([Luke
-1:37](https://www.lds.org/scriptures/nt/luke/1.37?lang=eng#36)), know that He
-is your Father. You are a son or daughter created in His image, entitled
-through your worthiness to receive revelation to help with your righteous
-endeavors. You may take upon you the holy name of the Lord. You can qualify to
-speak in the sacred name of God (see [D&amp;C
-1:20](https://www.lds.org/scriptures/dc-testament/dc/1.20?lang=eng#19)). It
+1:37](/scriptures/nt/luke/1.37?lang=eng#36)), know that He is your Father. You
+are a son or daughter created in His image, entitled through your worthiness
+to receive revelation to help with your righteous endeavors. You may take upon
+you the holy name of the Lord. You can qualify to speak in the sacred name of
+God (see [D&amp;C 1:20](/scriptures/dc-testament/dc/1.20?lang=eng#19)). It
 matters not that giants of tribulation torment you. Your prayerful access to
 help is just as real as when David battled his Goliath (see [1 Sam.
-17](https://www.lds.org/scriptures/ot/1-sam/17.title?lang=eng)).
+17](/scriptures/ot/1-sam/17?lang=eng)).
 
 Foster your faith. Fuse your focus with an eye single to the glory of God. "Be
-strong and courageous" ([2 Chr.
-32:7](https://www.lds.org/scriptures/ot/2-chr/32.7?lang=eng#6)), and you will
-be given power and protection from on high. "For I will go before your face,"
-the Lord declared. "I will be on your right hand and on your left, and my
-Spirit shall be in your hearts, and mine angels round about you, to bear you
-up" ([D&amp;C 84:88](https://www.lds.org/scriptures/dc-
-testament/dc/84.88?lang=eng#87)).
+strong and courageous" ([2 Chr. 32:7](/scriptures/ot/2-chr/32.7?lang=eng#6)),
+and you will be given power and protection from on high. "For I will go before
+your face," the Lord declared. "I will be on your right hand and on your left,
+and my Spirit shall be in your hearts, and mine angels round about you, to
+bear you up" ([D&amp;C 84:88](/scriptures/dc-testament/dc/84.88?lang=eng#87)).
 
 The great latter-day work of which we are a part shall be accomplished.
 Prophecies of the ages shall be fulfilled. "For with God all things are
-possible" ([Mark
-10:27](https://www.lds.org/scriptures/nt/mark/10.27?lang=eng#26)), I testify
-in the name of Jesus Christ, amen.
+possible" ([Mark 10:27](/scriptures/nt/mark/10.27?lang=eng#26)), I testify in
+the name of Jesus Christ, amen.
+
+## References
 

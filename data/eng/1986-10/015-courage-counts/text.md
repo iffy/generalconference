@@ -51,19 +51,17 @@ seized and held" (Emory M. Thomas, _Bold Dragoon: The Life of J. E. B.
 Stuart_).
 
 At an earlier time, and in a land far distant, another leader issued the same
-plea: "Follow me" ([Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18)). He was not a
-general of war. Rather, He was the Prince of Peace, the Son of God. Those who
-followed Him then, and those who follow Him now, win a far more significant
-victory, with consequences that are everlasting. But the need for courage is
-constant. Courage is ever required.
+plea: "Follow me" ([Matt. 4:19](/scriptures/nt/matt/4.19?lang=eng#18)). He was
+not a general of war. Rather, He was the Prince of Peace, the Son of God.
+Those who followed Him then, and those who follow Him now, win a far more
+significant victory, with consequences that are everlasting. But the need for
+courage is constant. Courage is ever required.
 
 The holy scriptures portray the evidence of this truth. Joseph, son of Jacob,
 the same who was sold into Egypt, demonstrated the firm resolve of courage
 when to Potiphar's wife, who attempted to seduce him, he declared: "How ... can
 I do this great wickedness, and sin against God? And ... he hearkened not unto
-her" and got out ([Gen.
-39:9-10](https://www.lds.org/scriptures/ot/gen/39.9-10?lang=eng#8)).
+her" and got out ([Gen. 39:9-10](/scriptures/ot/gen/39.9-10?lang=eng#8)).
 
 In our day, a father applied this example of courage to the lives of his
 children by declaring: "If you ever find yourself where you shouldn't ought to
@@ -71,35 +69,33 @@ be, get out!"
 
 The prophet Daniel demonstrated supreme courage by standing up for what he
 knew to be right and by demonstrating the courage to pray, though threatened
-by death were he to do so (see [Dan.
-6](https://www.lds.org/scriptures/ot/dan/6.title?lang=eng)).
+by death were he to do so (see [Dan. 6](/scriptures/ot/dan/6?lang=eng)).
 
 Courage characterized the life of Abinadi, as shown in the Book of Mormon by
 his willingness to offer his life rather than to deny the truth (See [Mosiah
-11:20](https://www.lds.org/scriptures/bofm/mosiah/11.20?lang=eng#19), [Mosiah
-17:20](https://www.lds.org/scriptures/bofm/mosiah/17.20?lang=eng#19)).
+11:20](/scriptures/bofm/mosiah/11.20?lang=eng#19), [Mosiah
+17:20](/scriptures/bofm/mosiah/17.20?lang=eng#19)).
 
 Who can help but be inspired by the lives of the two thousand stripling sons
 of Helaman who taught and demonstrated the need of courage to follow the
 teachings of parents, the courage to be chaste and pure? (See [Alma
-56](https://www.lds.org/scriptures/bofm/alma/56.title?lang=eng)).
+56](/scriptures/bofm/alma/56?lang=eng)).
 
 Perhaps each of these accounts is crowned by the example of Moroni, who had
 the courage to persevere to the end in righteousness (See [Moro.
-1-10](https://www.lds.org/scriptures/bofm/moro/1.title?lang=eng)).
+1-10](/scriptures/bofm/moro/1?lang=eng)).
 
 All were fortified by the words of Moses: "Be strong and of a good courage,
 fear not, nor be afraid ... : for the Lord thy God, he it is that doth go with
 thee; he will not fail thee, nor forsake thee" ([Deut.
-31:6](https://www.lds.org/scriptures/ot/deut/31.6?lang=eng#5)). He did not
-fail them. He will not fail us. He did not forsake them. He will not forsake
-us.
+31:6](/scriptures/ot/deut/31.6?lang=eng#5)). He did not fail them. He will not
+fail us. He did not forsake them. He will not forsake us.
 
 It was this knowledge that prompted the courage of Columbus--the quiet resolve
 to record in his ship's log again and again: "This day we sailed on." It was
 this witness that motivated the Prophet Joseph to declare: "I am going like a
 lamb to the slaughter; but I am calm as a summer's morning" ([D&amp;C
-135:4](https://www.lds.org/scriptures/dc-testament/dc/135.4?lang=eng#3)).
+135:4](/scriptures/dc-testament/dc/135.4?lang=eng#3)).
 
 It is this sweet assurance that can guide you and me--in our time, in our day,
 in our lives. Of course we will face fear, experience ridicule, and meet
@@ -179,4 +175,6 @@ My brethren, let us be active participants--not mere spectators--on the stage
 of priesthood power. May we muster courage at the crossroads, courage for the
 conflicts, courage to say _no,_ courage to say _yes,_ for _courage counts._ Of
 this truth I testify in the name of Jesus Christ, amen.
+
+## References
 

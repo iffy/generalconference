@@ -31,42 +31,40 @@ itself was free for the hungry.
 
 To those who cared for the poor, blessings were promised. The Lord would
 deliver them in time of trouble. (See [Ps.
-41:1](https://www.lds.org/scriptures/ot/ps/41.1?lang=eng#0).) Truths were
-taught by these proverbs: "He that hath mercy on the poor, happy is he."
-([Prov. 14:21](https://www.lds.org/scriptures/ot/prov/14.21?lang=eng#20).)
-"The righteous considereth the cause of the poor: but the wicked regardeth not
-to know it." ([Prov.
-29:7](https://www.lds.org/scriptures/ot/prov/29.7?lang=eng#6).)
+41:1](/scriptures/ot/ps/41.1?lang=eng#0).) Truths were taught by these
+proverbs: "He that hath mercy on the poor, happy is he." ([Prov.
+14:21](/scriptures/ot/prov/14.21?lang=eng#20).) "The righteous considereth the
+cause of the poor: but the wicked regardeth not to know it." ([Prov.
+29:7](/scriptures/ot/prov/29.7?lang=eng#6).)
 
 During the Savior's earthly ministry, he reemphasized his timeless concern for
 the poor. Remember the reply the Lord gave to the question of the rich man:
 "If thou wilt be perfect, go and sell [all] that thou hast, and give to the
 poor, and thou shalt have treasure in heaven: and come and follow me." ([Matt.
-19:21](https://www.lds.org/scriptures/nt/matt/19.21?lang=eng#20); see also
-[Luke 18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).)
+19:21](/scriptures/nt/matt/19.21?lang=eng#20); see also [Luke
+18:22](/scriptures/nt/luke/18.22?lang=eng#21).)
 
 In one of the Master's precious parables, he illustrated this doctrine with
 the story of one who was hungry and was given meat, another who was thirsty
 and was given drink, and a stranger who was welcomed. The Lord related those
 as favors to him when he taught, "Verily I say unto you, Inasmuch as ye have
 done it unto one of the least of these my brethren, ye have done it unto me."
-([Matt. 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).) And
-when they were _not_ ministered unto, he admonished, "Verily I say unto you,
-Inasmuch as ye did it _not_ to one of the least of these, ye did it _not_ to
-me." ([Matt. 25:45](https://www.lds.org/scriptures/nt/matt/25.45?lang=eng#44);
-italics added.)
+([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).) And when they were
+_not_ ministered unto, he admonished, "Verily I say unto you, Inasmuch as ye
+did it _not_ to one of the least of these, ye did it _not_ to me." ([Matt.
+25:45](/scriptures/nt/matt/25.45?lang=eng#44); italics added.)
 
 Indeed, the Church in New Testament times also had a binding obligation to
 care for the poor. (See also [Luke 14:12-14,
-16](https://www.lds.org/scriptures/nt/luke/14.12-14%2C16?lang=eng#11): [Luke
-19-31](https://www.lds.org/scriptures/nt/luke/19.title?lang=eng); [Acts
-2:44-45](https://www.lds.org/scriptures/nt/acts/2.44-45?lang=eng#43), [Acts
-4:32](https://www.lds.org/scriptures/nt/acts/4.32?lang=eng#31), [Acts
-6:1-6](https://www.lds.org/scriptures/nt/acts/6.1-6?lang=eng#0), [Acts
-11:27-30](https://www.lds.org/scriptures/nt/acts/11.27-30?lang=eng#26); [Rom.
-15:26](https://www.lds.org/scriptures/nt/rom/15.26?lang=eng#25); [Gal.
-2:10](https://www.lds.org/scriptures/nt/gal/2.10?lang=eng#9); [James
-2:1-9](https://www.lds.org/scriptures/nt/james/2.1-9?lang=eng#0).)
+16](/scriptures/nt/luke/14.12-14,16?lang=eng#11): [Luke
+19-31](/scriptures/nt/luke/19?lang=eng); [Acts
+2:44-45](/scriptures/nt/acts/2.44-45?lang=eng#43), [Acts
+4:32](/scriptures/nt/acts/4.32?lang=eng#31), [Acts
+6:1-6](/scriptures/nt/acts/6.1-6?lang=eng#0), [Acts
+11:27-30](/scriptures/nt/acts/11.27-30?lang=eng#26); [Rom.
+15:26](/scriptures/nt/rom/15.26?lang=eng#25); [Gal.
+2:10](/scriptures/nt/gal/2.10?lang=eng#9); [James
+2:1-9](/scriptures/nt/james/2.1-9?lang=eng#0).)
 
 The Book of Mormon repeatedly declares this doctrine. From it we learn that
 care of the poor is an obligation that we take upon ourselves at the time of
@@ -80,21 +78,19 @@ those that stand in need of comfort, and to stand as witnesses of God at all
 times and in all things, ... even until death, ...
 
 "Serve him and keep his commandments." ([Mosiah
-18:8-10](https://www.lds.org/scriptures/bofm/mosiah/18.8-10?lang=eng#7).)
+18:8-10](/scriptures/bofm/mosiah/18.8-10?lang=eng#7).)
 
 Every person so baptized who receives the gift of the Holy Ghost, which seals
 the ordinance, is under solemn covenant with the Lord to obey his
 commandments. _Caring for the poor is one of those commandments._ Surely, in
 Book of Mormon times, members of the Church had a sacred obligation to care
-for the poor. (See [2 Ne.
-9:30](https://www.lds.org/scriptures/bofm/2-ne/9.30?lang=eng#29); [Mosiah
-4:16-27](https://www.lds.org/scriptures/bofm/mosiah/4.16-27?lang=eng#15);
-[Alma 1:29-31](https://www.lds.org/scriptures/bofm/alma/1.29-31?lang=eng#28),
-[Alma 32:2-6](https://www.lds.org/scriptures/bofm/alma/32.2-6?lang=eng#1),
-[Alma 34:28](https://www.lds.org/scriptures/bofm/alma/34.28?lang=eng#27);
-[Hel. 4:11-12](https://www.lds.org/scriptures/bofm/hel/4.11-12?lang=eng#10);
-[Morm.
-8:35-39](https://www.lds.org/scriptures/bofm/morm/8.35-39?lang=eng#34).)
+for the poor. (See [2 Ne. 9:30](/scriptures/bofm/2-ne/9.30?lang=eng#29);
+[Mosiah 4:16-27](/scriptures/bofm/mosiah/4.16-27?lang=eng#15); [Alma
+1:29-31](/scriptures/bofm/alma/1.29-31?lang=eng#28), [Alma
+32:2-6](/scriptures/bofm/alma/32.2-6?lang=eng#1), [Alma
+34:28](/scriptures/bofm/alma/34.28?lang=eng#27); [Hel.
+4:11-12](/scriptures/bofm/hel/4.11-12?lang=eng#10); [Morm.
+8:35-39](/scriptures/bofm/morm/8.35-39?lang=eng#34).)
 
 Few, if any, of the Lord's instructions are stated more often, or given
 greater emphasis, than the commandment to care for the poor and the needy. Our
@@ -103,23 +99,21 @@ dispensation is no exception.
 In December 1830, the very year in which The Church of Jesus Christ of Latter-
 day Saints was organized, the Lord declared that "the poor and the meek shall
 have the gospel preached unto them, and they shall be looking forth for the
-time of my coming, for it is nigh at hand." ([D&amp;C
-35:15](https://www.lds.org/scriptures/dc-testament/dc/35.15?lang=eng#14).)
+time of my coming, for it is nigh at hand." ([D&amp;C 35:15](/scriptures/dc-
+testament/dc/35.15?lang=eng#14).)
 
 Bishops were designated and their duties defined: "They shall look to the poor
 and the needy, and administer to their relief that they shall not suffer."
-([D&amp;C 38:35](https://www.lds.org/scriptures/dc-
-testament/dc/38.35?lang=eng#34).)
+([D&amp;C 38:35](/scriptures/dc-testament/dc/38.35?lang=eng#34).)
 
 In 1831, the Lord said: "Remember the poor. ... Inasmuch as ye impart of your
 substance unto the poor, ye will do it unto me." ([D&amp;C
-42:30-31](https://www.lds.org/scriptures/dc-
-testament/dc/42.30-31?lang=eng#29).) A little later, he again declared, "Visit
-the poor and the needy and administer to their relief." ([D&amp;C
-44:6](https://www.lds.org/scriptures/dc-testament/dc/44.6?lang=eng#5).) Later
+42:30-31](/scriptures/dc-testament/dc/42.30-31?lang=eng#29).) A little later,
+he again declared, "Visit the poor and the needy and administer to their
+relief." ([D&amp;C 44:6](/scriptures/dc-testament/dc/44.6?lang=eng#5).) Later
 the same year, he warned: "Wo unto you rich men, that will not give your
 substance to the poor, for your riches will canker your souls." ([D&amp;C
-56:16](https://www.lds.org/scriptures/dc-testament/dc/56.16?lang=eng#15).)
+56:16](/scriptures/dc-testament/dc/56.16?lang=eng#15).)
 
 With these teachings throbbing in our ears, stated and restated in accounts to
 all people in all days of recorded scripture, let our thoughts return to the
@@ -152,7 +146,7 @@ things, and have given unto the children of men to be agents unto themselves.
 "Therefore, if any man shall take of the abundance which I have made, and
 impart not his portion, according to the law of my gospel, unto the poor and
 the needy, he shall, with the wicked, lift up his eyes in hell, being in
-torment." ([D&amp;C 104:14-18](https://www.lds.org/scriptures/dc-
+torment." ([D&amp;C 104:14-18](/scriptures/dc-
 testament/dc/104.14-18?lang=eng#13).)
 
 I repeat the Lord's prescription: "But it must needs be done _in mine own
@@ -164,7 +158,7 @@ children have claim upon their parents. ... And after that, they have claim upon
 the church, or ... upon the Lord's storehouse, if their parents have not. ... And
 the storehouse shall be kept by the consecrations of the church; and widows
 and orphans shall be provided for, as also the poor." ([D&amp;C 83:2,
-4-6](https://www.lds.org/scriptures/dc-testament/dc/83.2%2C4-6?lang=eng#1).)
+4-6](/scriptures/dc-testament/dc/83.2,4-6?lang=eng#1).)
 
 An important part of the Lord's storehouse is maintained as a year's supply,
 stored, where possible, in the homes of faithful families of the Church.
@@ -173,21 +167,20 @@ Now, some may ask, "What about those who are poor because they are idle and
 unwilling to work?" They should heed these words of warning:
 
 "Thou shalt not be idle; for he that is idle shall not eat the bread nor wear
-the garments of the laborer." ([D&amp;C 42:42](https://www.lds.org/scriptures
-/dc-testament/dc/42.42?lang=eng#41).)
+the garments of the laborer." ([D&amp;C 42:42](/scriptures/dc-
+testament/dc/42.42?lang=eng#41).)
 
 "Wo unto you poor men ... who will not labor with your own hands!" ([D&amp;C
-56:17](https://www.lds.org/scriptures/dc-testament/dc/56.17?lang=eng#16).)
+56:17](/scriptures/dc-testament/dc/56.17?lang=eng#16).)
 
 Judgment of worthiness is made by the bishop, and ultimately by the Lord, as
 taught by Nephi: "With righteousness shall the Lord God judge the poor, and
 reprove with equity for the meek of the earth." ([2 Ne.
-30:9](https://www.lds.org/scriptures/bofm/2-ne/30.9?lang=eng#8).)
+30:9](/scriptures/bofm/2-ne/30.9?lang=eng#8).)
 
 Ours is not to judge; ours is a covenantal obligation to care for the poor and
 the needy, to prepare for their rejoicing when the Messiah shall come again.
-(See [D&amp;C 56:18-19](https://www.lds.org/scriptures/dc-
-testament/dc/56.18-19?lang=eng#17).)
+(See [D&amp;C 56:18-19](/scriptures/dc-testament/dc/56.18-19?lang=eng#17).)
 
 The Lord's "own way" includes, first, reliance on self, then on the family. As
 parents care for their children, they, in turn, may reciprocate when parents
@@ -262,24 +255,24 @@ Missionary work throughout the world is part of his plan. It brings the light
 of the gospel to those who embrace the truth. Then, as Saints learn and obey
 the commandments of God, they will prosper. This promise has been recorded by
 prophets throughout time and in diverse places. (See [Josh.
-1:7](https://www.lds.org/scriptures/ot/josh/1.7?lang=eng#6); [1 Kgs.
-2:3](https://www.lds.org/scriptures/ot/1-kgs/2.3?lang=eng#2); [2 Chr.
-24:20](https://www.lds.org/scriptures/ot/2-chr/24.20?lang=eng#19), [2 Chr.
-31:21](https://www.lds.org/scriptures/ot/2-chr/31.21?lang=eng#20); [Ezra
-6:14](https://www.lds.org/scriptures/ot/ezra/6.14?lang=eng#13); [1 Ne.
-2:20](https://www.lds.org/scriptures/bofm/1-ne/2.20?lang=eng#19), [1 Ne.
-4:14](https://www.lds.org/scriptures/bofm/1-ne/4.14?lang=eng#13); [2 Ne. 1:9,
-20](https://www.lds.org/scriptures/bofm/2-ne/1.9%2C20?lang=eng#8), [2 Ne.
-4:4](https://www.lds.org/scriptures/bofm/2-ne/4.4?lang=eng#3); [Jarom
-1:9](https://www.lds.org/scriptures/bofm/jarom/1.9?lang=eng#8); [Omni
-1:6](https://www.lds.org/scriptures/bofm/omni/1.6?lang=eng#5); [Mosiah
-1:7](https://www.lds.org/scriptures/bofm/mosiah/1.7?lang=eng#6), [Mosiah 2:22,
-31](https://www.lds.org/scriptures/bofm/mosiah/2.22%2C31?lang=eng#21); [Alma
-9:13](https://www.lds.org/scriptures/bofm/alma/9.13?lang=eng#12), [Alma 36:1,
-30](https://www.lds.org/scriptures/bofm/alma/36.1%2C30?lang=eng#0), [Alma
-37:13](https://www.lds.org/scriptures/bofm/alma/37.13?lang=eng#12), [Alma
-38:1](https://www.lds.org/scriptures/bofm/alma/38.1?lang=eng#0), [Alma 48:15,
-25](https://www.lds.org/scriptures/bofm/alma/48.15%2C25?lang=eng#14).)
+1:7](/scriptures/ot/josh/1.7?lang=eng#6); [1 Kgs.
+2:3](/scriptures/ot/1-kgs/2.3?lang=eng#2); [2 Chr.
+24:20](/scriptures/ot/2-chr/24.20?lang=eng#19), [2 Chr.
+31:21](/scriptures/ot/2-chr/31.21?lang=eng#20); [Ezra
+6:14](/scriptures/ot/ezra/6.14?lang=eng#13); [1 Ne.
+2:20](/scriptures/bofm/1-ne/2.20?lang=eng#19), [1 Ne.
+4:14](/scriptures/bofm/1-ne/4.14?lang=eng#13); [2 Ne. 1:9,
+20](/scriptures/bofm/2-ne/1.9,20?lang=eng#8), [2 Ne.
+4:4](/scriptures/bofm/2-ne/4.4?lang=eng#3); [Jarom
+1:9](/scriptures/bofm/jarom/1.9?lang=eng#8); [Omni
+1:6](/scriptures/bofm/omni/1.6?lang=eng#5); [Mosiah
+1:7](/scriptures/bofm/mosiah/1.7?lang=eng#6), [Mosiah 2:22,
+31](/scriptures/bofm/mosiah/2.22,31?lang=eng#21); [Alma
+9:13](/scriptures/bofm/alma/9.13?lang=eng#12), [Alma 36:1,
+30](/scriptures/bofm/alma/36.1,30?lang=eng#0), [Alma
+37:13](/scriptures/bofm/alma/37.13?lang=eng#12), [Alma
+38:1](/scriptures/bofm/alma/38.1?lang=eng#0), [Alma 48:15,
+25](/scriptures/bofm/alma/48.15,25?lang=eng#14).)
 
 Working with a will, Saints gain a new appreciation of who they are and of
 their eternal worth. Righteousness, independence, thrift, industry, and self-
@@ -292,4 +285,6 @@ A living prophet, the everlasting priesthood, covenant people, and the Lord's
 "own way" are upon the earth to bless mankind, all races, in every clime--yes,
 all people, young and old, wealthy and poor, now and forevermore. This I
 testify, in the name of Jesus Christ, amen.
+
+## References
 

@@ -68,8 +68,7 @@ all things are created and made to bear record of me, both things which are
 temporal, and things which are spiritual; things which are in the heavens
 above, and things which are on the earth, and things which are in the earth,
 and things which are under the earth, both above and beneath: all things bear
-record of me" ([Moses
-6:63](https://www.lds.org/scriptures/pgp/moses/6.63?lang=eng#62)).
+record of me" ([Moses 6:63](/scriptures/pgp/moses/6.63?lang=eng#62)).
 
 Truly, the heavens and the earth and all things in them evidence the handiwork
 of God, their Creator. In the Book of Mormon we learn of Korihor, an anti-
@@ -81,8 +80,8 @@ prophets? The scriptures are laid before thee, yea, and all things denote
 there is a God; yea, even the earth, and all things that are upon the face of
 it, yea, and its motion, yea, and also all the planets which move in their
 regular form do witness that there is a Supreme Creator" ([Alma
-30:44](https://www.lds.org/scriptures/bofm/alma/30.44?lang=eng#43)). These
-eternal evidences continue to testify to us today.
+30:44](/scriptures/bofm/alma/30.44?lang=eng#43)). These eternal evidences
+continue to testify to us today.
 
 Astronauts viewing the earth from space have stated how incredibly beautiful
 it is and how alive it appears. United States Senator Jake Garn wrote of his
@@ -119,8 +118,7 @@ moon and the stars, which thou hast ordained;
 visitest him?
 
 "For thou hast made him a little lower than the angels, and hast crowned him
-with glory and honour" ([Ps.
-8:3-5](https://www.lds.org/scriptures/ot/ps/8.3-5?lang=eng#2)).
+with glory and honour" ([Ps. 8:3-5](/scriptures/ot/ps/8.3-5?lang=eng#2)).
 
 The Lord gave an answer to the psalmist's question; it is recorded in the book
 of Moses: "For mine own purpose have I made these things. ...
@@ -129,7 +127,7 @@ of Moses: "For mine own purpose have I made these things. ...
 
 "For behold, this is my work and my glory--to bring to pass the immortality
 and eternal life of man" ([Moses 1:31-32,
-39](https://www.lds.org/scriptures/pgp/moses/1.31-32%2C39?lang=eng#30)).
+39](/scriptures/pgp/moses/1.31-32,39?lang=eng#30)).
 
 When we look to see the evidence of creation all around us, from a grain of
 sand to the majestic planets, we begin to realize that we are the greatest of
@@ -157,7 +155,7 @@ buildings or bridges. But remember the Apostle Paul's words to the Hebrews:
 "He who hath builded the house hath more honour than the house.
 
 "For every house is builded by some man; but he that built all things is God"
-([Heb. 3:3-4](https://www.lds.org/scriptures/nt/heb/3.3-4?lang=eng#2)).
+([Heb. 3:3-4](/scriptures/nt/heb/3.3-4?lang=eng#2)).
 
 Those who feel no reverence for the creations and the divine attributes of God
 likely will have little appreciation for other sacred things. Such a lack of
@@ -196,13 +194,12 @@ whosoever believeth in him should not perish, but have everlasting life.
 
 "For God sent not his Son into the world to condemn the world; but that the
 world through him might be saved" ([John
-3:16-17](https://www.lds.org/scriptures/nt/john/3.16-17?lang=eng#15)).
+3:16-17](/scriptures/nt/john/3.16-17?lang=eng#15)).
 
 Jesus was born into mortality. He led a perfect life and, in so doing, marked
 the path for us to follow. He taught his disciples: "I am the light of the
 world: he that followeth me shall not walk in darkness, but shall have the
-light of life" ([John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11)).
+light of life" ([John 8:12](/scriptures/nt/john/8.12?lang=eng#11)).
 
 His gospel is a gospel of love--love for God and love for one another. He
 directs us to follow his example. Our discipleship is measured by how well we
@@ -212,8 +209,7 @@ comply.
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another" ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33)).
+another" ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33)).
 
 Can you imagine what an impact following this instruction would have on
 society today?
@@ -223,14 +219,12 @@ for our benefit and that as we sow, so shall we reap.
 
 Our return to our Heavenly Father is through his Son, Jesus Christ. Jesus told
 his disciples, "I am the way, the truth, and the life: no man cometh unto the
-Father, but by me" ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5)). He instructed
-us to keep his commandments if we love him ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14)). He taught
-further that "He that hath my commandments, and keepeth them, he it is that
-loveth me: and he that loveth me shall be loved of my Father, and I will love
-him, and will manifest myself to him" ([John
-14:21](https://www.lds.org/scriptures/nt/john/14.21?lang=eng#20)).
+Father, but by me" ([John 14:6](/scriptures/nt/john/14.6?lang=eng#5)). He
+instructed us to keep his commandments if we love him ([John
+14:15](/scriptures/nt/john/14.15?lang=eng#14)). He taught further that "He
+that hath my commandments, and keepeth them, he it is that loveth me: and he
+that loveth me shall be loved of my Father, and I will love him, and will
+manifest myself to him" ([John 14:21](/scriptures/nt/john/14.21?lang=eng#20)).
 
 In the atonement and the resurrection of Jesus Christ, we can glimpse the
 reality of his divine mission to redeem all who will come unto him and will
@@ -240,10 +234,10 @@ We may begin to understand the depths of Christ's love for us when we consider
 that he was willing to atone and suffer the pain for our sins, "which
 suffering caused [him], even God, the greatest of all, to tremble because of
 pain, and to bleed at every pore, and to suffer both body and spirit"
-([D&amp;C 19:18](https://www.lds.org/scriptures/dc-
-testament/dc/19.18?lang=eng#17)). Nevertheless, he gave glory to his Father
-and partook and finished his preparations unto the children of men ([D&amp;C
-19:19](https://www.lds.org/scriptures/dc-testament/dc/19.19?lang=eng#18)).
+([D&amp;C 19:18](/scriptures/dc-testament/dc/19.18?lang=eng#17)).
+Nevertheless, he gave glory to his Father and partook and finished his
+preparations unto the children of men ([D&amp;C 19:19](/scriptures/dc-
+testament/dc/19.19?lang=eng#18)).
 
 The crowning words of the inspired hymn continue:
 
@@ -290,4 +284,6 @@ gospel, for in so doing they will develop a deep reverence and love for God,
 his beloved Son, Jesus Christ, and their creations. I bear testimony that true
 reverence will bring peace, joy, and happiness to us all. In the sacred name
 of Jesus Christ, amen.
+
+## References
 

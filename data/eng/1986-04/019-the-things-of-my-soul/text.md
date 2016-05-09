@@ -35,8 +35,7 @@ ruled the doomed kingdom of Judah.
 
 The prophet Lehi was warned in a dream to take his family and leave Jerusalem
 before that destruction which soon was to be recorded by the Old Testament
-prophet Jeremiah. (See [Jer.
-44:1-8](https://www.lds.org/scriptures/ot/jer/44.1-8?lang=eng#0).)
+prophet Jeremiah. (See [Jer. 44:1-8](/scriptures/ot/jer/44.1-8?lang=eng#0).)
 
 Lehi was commanded of the Lord to obtain and take with them a record of their
 people. It is with that record, the brass plates of Laban, that the saga of
@@ -44,19 +43,15 @@ the Book of Mormon began.
 
 Lehi's son Nephi obtained the record for his father and said, "It is wisdom in
 God that we should obtain these records, that we may preserve unto our
-children the  _language _ of our fathers." ([1 Ne.
-3:19](https://www.lds.org/scriptures/bofm/1-ne/3.19?lang=eng#18); italics
-added.)
+children the **_language _**of our fathers." ([1 Ne.
+3:19](/scriptures/bofm/1-ne/3.19?lang=eng#18); italics added.)
 
 They found that the record contained:
 
-  * "The five books of Moses, which gave an account of the creation of the world, and also of Adam and Eve, who were our first parents." ([1 Ne. 5:11](https://www.lds.org/scriptures/bofm/1-ne/5.11?lang=eng#10).)
-
-  * And "the _words_ ... of all the holy prophets, which have been delivered unto them by the Spirit and power of God." ([1 Ne. 3:20](https://www.lds.org/scriptures/bofm/1-ne/3.20?lang=eng#19); italics added.)
-
-  * "And also a record of the Jews from the beginning, even down to the commencement of the reign of Zedekiah, king of Judah";
-
-  * And "a genealogy of [Lehi's] fathers." ([1 Ne. 5:12, 14](https://www.lds.org/scriptures/bofm/1-ne/5.12%2C14?lang=eng#11).)
+  * "The five books of Moses, which gave an account of the creation of the world, and also of Adam and Eve, who were our first parents." ([1 Ne. 5:11](/scriptures/bofm/1-ne/5.11?lang=eng#10).) 
+  * And "the _words_ ... of all the holy prophets, which have been delivered unto them by the Spirit and power of God." ([1 Ne. 3:20](/scriptures/bofm/1-ne/3.20?lang=eng#19); italics added.) 
+  * "And also a record of the Jews from the beginning, even down to the commencement of the reign of Zedekiah, king of Judah"; 
+  * And "a genealogy of [Lehi's] fathers." ([1 Ne. 5:12, 14](/scriptures/bofm/1-ne/5.12,14?lang=eng#11).) 
 
 Lehi's little band left Jerusalem with the record. In time, they were
 separated from their homeland by an ocean. But they had that precious
@@ -67,8 +62,7 @@ A later prophet, Benjamin, said of this record:
 "Were it not for these things, which have been kept and preserved by the hand
 of God, that we might read and understand of _his mysteries,_ and have his
 _commandments,_ ... [we] would have dwindled in unbelief." ([Mosiah
-1:5](https://www.lds.org/scriptures/bofm/mosiah/1.5?lang=eng#4); italics
-added.)
+1:5](/scriptures/bofm/mosiah/1.5?lang=eng#4); italics added.)
 
 A second record joined this saga when Lehi began the chronicles of his little
 band of sojourners. He kept something of a secular account of their journeys,
@@ -79,7 +73,7 @@ as the large plates of Nephi.
 
 Nephi wrote that "upon [these] _plates_ should be engraven an account of the
 reign of the kings, and the wars and contentions of my people." ([1 Ne.
-9:4](https://www.lds.org/scriptures/bofm/1-ne/9.4?lang=eng#3); italics added.)
+9:4](/scriptures/bofm/1-ne/9.4?lang=eng#3); italics added.)
 
 Later, when they grew to be a numerous people, this account was kept by the
 kings.
@@ -87,12 +81,12 @@ kings.
 No doubt this record contained a great resource of historical information.
 Generations later, as Mormon abridged this record, he repeated six times that
 he could not include "a hundredth part" of what was in that record. ([Jacob
-3:13](https://www.lds.org/scriptures/bofm/jacob/3.13?lang=eng#12); [W of M
-1:5](https://www.lds.org/scriptures/bofm/w-of-m/1.5?lang=eng#4); [Hel.
-3:14](https://www.lds.org/scriptures/bofm/hel/3.14?lang=eng#13); [3 Ne.
-5:8](https://www.lds.org/scriptures/bofm/3-ne/5.8?lang=eng#7); [3 Ne.
-26:6](https://www.lds.org/scriptures/bofm/3-ne/26.6?lang=eng#5); [Ether
-15:33](https://www.lds.org/scriptures/bofm/ether/15.33?lang=eng#32).)
+3:13](/scriptures/bofm/jacob/3.13?lang=eng#12); [W of M
+1:5](/scriptures/bofm/w-of-m/1.5?lang=eng#4); [Hel.
+3:14](/scriptures/bofm/hel/3.14?lang=eng#13); [3 Ne.
+5:8](/scriptures/bofm/3-ne/5.8?lang=eng#7); [3 Ne.
+26:6](/scriptures/bofm/3-ne/26.6?lang=eng#5); [Ether
+15:33](/scriptures/bofm/ether/15.33?lang=eng#32).)
 
 But it was not the most valuable record, for Nephi was commanded to keep yet
 another account--not a secular account this time, but a record of the
@@ -106,61 +100,57 @@ Perhaps the best insight into the purpose for keeping this record is from
 Jacob, who received the plates from his brother Nephi.
 
 "And he gave me, Jacob, a commandment that I should write upon these [small]
-plates a few of the things which I considered to be  _most precious_ ; that I
-should  _not touch, _ _save it were lightly,_ concerning the  _history_ of
-this people. ...
+plates a few of the things which I considered to be **_most precious_**; that
+I should **_not touch, _**_save it were lightly,_ concerning the **_history_**
+of this people. ...
 
 "For he said that the history of his people should be engraven upon his other
 [large] plates, and that I should preserve these [small] plates and hand them
 down unto my seed, from generation to generation.
 
-"And if there were  _preaching which was sacred,_ or  _revelation which was
-great,_ or  _prophesying,_ that I should engraven ... them upon these [small]
-plates, and touch upon  _them_ as _much_ as it were possible, for _Christ's_
-sake, and for the sake of our people." ([Jacob
-1:2-4](https://www.lds.org/scriptures/bofm/jacob/1.2-4?lang=eng#1); italics
-added.)
+"And if there were **_preaching which was sacred,_** or **_revelation which
+was great,_** or **_prophesying,_** that I should engraven ... them upon these
+[small] plates, and touch upon **_them_** as _much_ as it were possible, for
+_Christ's_ sake, and for the sake of our people." ([Jacob
+1:2-4](/scriptures/bofm/jacob/1.2-4?lang=eng#1); italics added.)
 
-Did you notice that he was " _not_ to touch (save it were lightly)" on  _the
-history_ of the people but he  _was_ to touch upon the  _sacred things_ "as
-much as it were possible"!
+Did you notice that he was "**_not_** to touch (save it were lightly)" on
+**_the history_** of the people but he **_was_** to touch upon the **_sacred
+things_** "as much as it were possible"!
 
 Nephi explained:
 
 "It mattereth not to me that I am particular to give a full account of all the
-things of my father, ... for I desire the room that I may write of  _the things
-of God._
+things of my father, ... for I desire the room that I may write of **_the things
+of God._**
 
 "For the fulness of mine intent is _that I may persuade men to come unto the
 God of Abraham, and the God of Isaac, and the God of Jacob, and be saved._
 
-"Wherefore, I shall give commandment unto my seed, that they shall  _not_
-occupy these plates with things which  _are not of worth_ unto the children of
-men." ([1 Ne. 6:3-4,
-6](https://www.lds.org/scriptures/bofm/1-ne/6.3-4%2C6?lang=eng#2); italics
+"Wherefore, I shall give commandment unto my seed, that they shall **_not_**
+occupy these plates with things which **_are not of worth_** unto the children
+of men." ([1 Ne. 6:3-4, 6](/scriptures/bofm/1-ne/6.3-4,6?lang=eng#2); italics
 added.)
 
-"This I do that the  _more sacred_ things may be kept for the knowledge of my
-people. ... I do not write anything upon plates save it be that I think it be
-_sacred_ ." ([1 Ne.
-19:5-6](https://www.lds.org/scriptures/bofm/1-ne/19.5-6?lang=eng#4); italics
-added.)
+"This I do that the **_more sacred_** things may be kept for the knowledge of
+my people. ... I do not write anything upon plates save it be that I think it be
+**_sacred_****." **([1 Ne. 19:5-6](/scriptures/bofm/1-ne/19.5-6?lang=eng#4);
+italics added.)
 
 Notice why he did as he did:
 
-"I have received  _a commandment of the Lord_ that I should make these plates,
-for the special purpose that there should be an account engraven of the
-_ministry_ of my people." ([1 Ne.
-9:3](https://www.lds.org/scriptures/bofm/1-ne/9.3?lang=eng#2); italics added.)
+"I have received **_a commandment of the Lord_** that I should make these
+plates, for the special purpose that there should be an account engraven of
+the _ministry_ of my people." ([1 Ne.
+9:3](/scriptures/bofm/1-ne/9.3?lang=eng#2); italics added.)
 
 And then this verse from which I take my title:
 
-"And upon these [small plates] I write  _the things of my soul,_ and many of
-the  _scriptures_ which are engraven upon the plates of brass. _For my soul
-delighteth in the scriptures,_ and my heart pondereth them, and writeth them
-for the learning and the profit of my children." ([2 Ne.
-4:15](https://www.lds.org/scriptures/bofm/2-ne/4.15?lang=eng#14); italics
-added.)
+"And upon these [small plates] I write **_the things of my soul,_** and many
+of the **_scriptures_** which are engraven upon the plates of brass. _For my
+soul delighteth in the scriptures,_ and my heart pondereth them, and writeth
+them for the learning and the profit of my children." ([2 Ne.
+4:15](/scriptures/bofm/2-ne/4.15?lang=eng#14); italics added.)
 
 Those preachings which were sacred, the revelations which were great, and the
 prophesying, all testified of the coming of the Messiah.
@@ -174,21 +164,14 @@ answer, he was given a remarkable vision of Christ.
 
 In that vision he saw:
 
-  * A virgin bearing a child in her arms,
-
-  * One who should prepare the way--John the Baptist,
-
-  * The ministry of the Son of God,
-
-  * Twelve others following the Messiah,
-
-  * The heavens open and angels ministering to them,
-
-  * The multitudes blessed and healed,
-
-  * The crucifixion of the Christ,
-
-  * The wisdom and pride of the world opposing his work. (See [1 Ne. 11:14-36](https://www.lds.org/scriptures/bofm/1-ne/11.14-36?lang=eng#13).)
+  * A virgin bearing a child in her arms, 
+  * One who should prepare the way--John the Baptist, 
+  * The ministry of the Son of God, 
+  * Twelve others following the Messiah, 
+  * The heavens open and angels ministering to them, 
+  * The multitudes blessed and healed, 
+  * The crucifixion of the Christ, 
+  * The wisdom and pride of the world opposing his work. (See [1 Ne. 11:14-36](/scriptures/bofm/1-ne/11.14-36?lang=eng#13).) 
 
 That vision is the central message of the Book of Mormon.
 
@@ -247,7 +230,7 @@ and the Lord appears to them.
 
 You will be present, through eyewitness accounts, at the ministry of the Lord
 among the "other sheep" of whom he spoke in the New Testament. (See [John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).)
+10:16](/scriptures/nt/john/10.16?lang=eng#15).)
 
 Thereafter, you will be able to understand the Bible as never before. You will
 come to understand much in the Old Testament and to know why we, as a people,
@@ -269,23 +252,15 @@ they become a barrier to the casual reader.
 Those who never move beyond the Isaiah chapters miss the personal treasures to
 be gathered along the way. They miss the knowledge of:
 
-  * The purpose of mortal life and death,
-
-  * The certainty of life after death,
-
-  * What happens when the spirit leaves the body,
-
-  * The description of the Resurrection,
-
-  * How to receive and retain a remission of your sins,
-
-  * What hold justice or mercy may have on you,
-
-  * What to pray for,
-
-  * Covenants and ordinances,
-
-  * And many other jewels that make up the gospel of Jesus Christ.
+  * The purpose of mortal life and death, 
+  * The certainty of life after death, 
+  * What happens when the spirit leaves the body, 
+  * The description of the Resurrection, 
+  * How to receive and retain a remission of your sins, 
+  * What hold justice or mercy may have on you, 
+  * What to pray for, 
+  * Covenants and ordinances, 
+  * And many other jewels that make up the gospel of Jesus Christ. 
 
 It is beyond that barrier, near the end of the book, that you will find a
 promise addressed to you and to everyone who will read the book with intent
@@ -300,7 +275,7 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).)
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).)
 
 No missionary, no member can fulfill that promise--neither Apostle nor
 President can fulfill that promise. It is a promise of direct revelation to
@@ -315,4 +290,6 @@ intent, as a humble serviceman, and thereafter pled with the Lord. I received
 that revelation. Accompanying that revelation is the revelation that Jesus is
 the Christ, the Son of God, our Redeemer, and of Him I bear witness, in the
 name of Jesus Christ, amen.
+
+## References
 

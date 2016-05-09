@@ -6,10 +6,10 @@ draw near to our Heavenly Father.
 
 Prayer is what I want to talk to you about tonight. Our Heavenly Father has
 said, "Draw near unto me and I will draw near unto you." ([D&amp;C
-88:63](https://www.lds.org/scriptures/dc-testament/dc/88.63?lang=eng#62).) The
-way to draw near to our Father in Heaven is to speak with him, and this is
-what we call prayer. We speak with our Father in Heaven in much the way we
-would speak with our earthly parent, whom we love and honor.
+88:63](/scriptures/dc-testament/dc/88.63?lang=eng#62).) The way to draw near
+to our Father in Heaven is to speak with him, and this is what we call prayer.
+We speak with our Father in Heaven in much the way we would speak with our
+earthly parent, whom we love and honor.
 
 Does it frighten you to speak with your Heavenly Father? It shouldn't. It's
 true that he is powerful, more than any of us can even understand. But he also
@@ -91,7 +91,7 @@ spirit. Plead for guidance to meet the challenges you have been given. Ask,
 knowing as Nephi did, that "the Lord giveth no commandments unto the children
 of men, save he shall prepare a way for them that they may accomplish the
 thing which he commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 Part of seeking is to give space for an answer. After you have asked for help,
 pause and listen. Many times the Lord answers our prayers in a still, small
@@ -146,4 +146,6 @@ The important thing to remember is to pray often, talk to Heavenly Father,
 seek his counsel so that he can guide you. When you draw near to Heavenly
 Father in prayer, he will draw near to you. You need never feel alone again. I
 testify to this in the name of Jesus Christ, amen.
+
+## References
 

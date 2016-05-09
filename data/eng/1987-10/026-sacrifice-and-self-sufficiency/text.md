@@ -150,7 +150,7 @@ of my food; and I know that thou wilt be a blessing unto me and my house.
 
 "And it came to pass that the man received him into his house; and the man was
 called Amulek; and he brought forth bread and meat and set before Alma" ([Alma
-8:19-21](https://www.lds.org/scriptures/bofm/alma/8.19-21?lang=eng#18)).
+8:19-21](/scriptures/bofm/alma/8.19-21?lang=eng#18)).
 
 Something special happens to an individual or to a Church unit when the people
 become more independent and self-reliant. They feel more confident, positive,
@@ -223,15 +223,14 @@ both men and women, who are filled with a faith that makes them willing to
 sacrifice for the building up of the kingdom of God. Such Saints truly feel
 and live the principle that King Benjamin taught to the Nephites: "When ye are
 in the service of your fellow beings ye are only in the service of your God"
-([Mosiah 2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16)).
+([Mosiah 2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16)).
 
 Brothers and sisters, how can every member enjoy the thrill and the blessing
 that comes from making a sacrifice to help the work? The answer is very
 simple, as are most answers in the Church. Every member of the Church can pay
 a full, honest tithing and can attend tithing settlement. The Lord said,
 "Verily [now] is a day of sacrifice, and a day for the tithing of my people"
-([D&amp;C 64:23](https://www.lds.org/scriptures/dc-
-testament/dc/64.23?lang=eng#22)).
+([D&amp;C 64:23](/scriptures/dc-testament/dc/64.23?lang=eng#22)).
 
 Let me remind you of President Spencer W. Kimball's statement on fast
 offerings:
@@ -260,8 +259,8 @@ sacrifice. Seeing the great good that the Saints in South America do with
 their meager means helps me realize how much more many of us in other parts of
 the world could do. We should never forget the Savior's teaching: "Unto
 whomsoever much is given, of him shall be much required" ([Luke
-12:48](https://www.lds.org/scriptures/nt/luke/12.48?lang=eng#47)). He has
-blessed us abundantly. I think of the teaching words of one of our hymns:
+12:48](/scriptures/nt/luke/12.48?lang=eng#47)). He has blessed us abundantly.
+I think of the teaching words of one of our hymns:
 
 _Because I have been given much, I too must give;_
 
@@ -281,4 +280,6 @@ I testify that we have been taught the truth during this conference, that God
 lives, that Jesus Christ is his Son, and that the gospel has been restored in
 these latter days. All of which I do in his sacred name, even the name of
 Jesus Christ, amen.
+
+## References
 

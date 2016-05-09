@@ -26,14 +26,12 @@ _4:535.)
 
 The last part of the thirteenth article states, "If there is anything
 virtuous, lovely, or of good report or praiseworthy, we seek after these
-things." ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+things." ([A of F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 The word _seek _means to go in search of, try to discover, try to acquire. It
 requires an active, assertive approach to life. For example, Abraham "sought
 for the blessings of the fathers ... and to be a greater follower of
-righteousness." ([Abr.
-1:2](https://www.lds.org/scriptures/pgp/abr/1.2?lang=eng#1).) It is the
+righteousness." ([Abr. 1:2](/scriptures/pgp/abr/1.2?lang=eng#1).) It is the
 opposite of passively waiting for something good to come to us, with no effort
 on our part.
 
@@ -51,7 +49,7 @@ Conversely, if we seek for evil, we will find that also. Lucifer understands
 how to tempt and drag many of our Heavenly Father's children down to where he
 and his followers are. He rebelled and was cast out; he wants to make us as
 miserable as he is. (See [2 Ne.
-2:18](https://www.lds.org/scriptures/bofm/2-ne/2.18?lang=eng#17).)
+2:18](/scriptures/bofm/2-ne/2.18?lang=eng#17).)
 
 My message may be the opposite of the worldly message of Satan's fallacy.
 Nephi described it when he wrote:
@@ -63,8 +61,7 @@ be well with us. ...
 a little, take the advantage of one ... ; there is no harm in this; and do all
 these things, for tomorrow we die; and if it so be that we are guilty, God
 will beat us with a few stripes, and at last we shall be saved in the kingdom
-of God." ([2 Ne.
-28:7-8](https://www.lds.org/scriptures/bofm/2-ne/28.7-8?lang=eng#6).)
+of God." ([2 Ne. 28:7-8](/scriptures/bofm/2-ne/28.7-8?lang=eng#6).)
 
 Though we live in the world, we must not be of the world. For members of the
 Church, seeking the good is more than a lofty ideal. It is an obligation we
@@ -73,7 +70,7 @@ partake of the sacrament. We must remember: "The Lord cannot look upon sin
 with the least degree of allowance;
 
 "Nevertheless, he that repents and does the commandments of the Lord shall be
-forgiven." ([D&amp;C 1:31-32](https://www.lds.org/scriptures/dc-
+forgiven." ([D&amp;C 1:31-32](/scriptures/dc-
 testament/dc/1.31-32?lang=eng#30).)
 
 We can seek to strengthen our families and can foster peace and happiness in
@@ -106,15 +103,14 @@ soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:37-40](https://www.lds.org/scriptures/nt/matt/22.37-40?lang=eng#36).)
+22:37-40](/scriptures/nt/matt/22.37-40?lang=eng#36).)
 
 Regarding these two commandments, we read in the book of 1 John: "If a man
 say, I love God, and hateth his brother, he is a liar: for he that loveth not
 his brother whom he hath seen, how can he love God whom he hath not seen?
 
 "And this commandment have we from him, That he who loveth God love his
-brother also." ([1 Jn.
-4:20-21](https://www.lds.org/scriptures/nt/1-jn/4.20-21?lang=eng#19).)
+brother also." ([1 Jn. 4:20-21](/scriptures/nt/1-jn/4.20-21?lang=eng#19).)
 
 Serving others should become a natural part of the life of every follower of
 our Savior. When we subordinate personal interests out of love and give of
@@ -122,7 +118,7 @@ ourselves with no thought of receiving in return, we are moving toward
 becoming true disciples. "The Lord has ... commanded his people to care for the
 poor and needy. He said, 'And remember in all things the poor and the needy,
 the sick and the afflicted, for he that doeth not these things, the same is
-not my disciple.' ([D&amp;C 52:40](https://www.lds.org/scriptures/dc-
+not my disciple.' ([D&amp;C 52:40](/scriptures/dc-
 testament/dc/52.40?lang=eng#39).)" (_Providing in the Lord's Way,_ Salt Lake
 City: The Church of Jesus Christ of Latter-day Saints, 1990, p. 3.) In a stake
 I visited recently, the unemployment rate was high. However, the faithful
@@ -144,9 +140,8 @@ people, we as Latter-day Saints should be the most optimistic and the least
 pessimistic." (_Ensign,_ Oct. 1986, p. 2.) Where sin is the cause of
 unhappiness, we need to repent and return to a righteous life because
 "wickedness never was happiness" ([Alma
-41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9)) and "you
-cannot do wrong and feel right. It is impossible." (Ezra Taft Benson, _New
-Era, _June 1986, p. 5.)
+41:10](/scriptures/bofm/alma/41.10?lang=eng#9)) and "you cannot do wrong and
+feel right. It is impossible." (Ezra Taft Benson, _New Era, _June 1986, p. 5.)
 
 I believe happiness comes from a clear conscience and from being without guile
 or deception. It means avoiding jealousy and envy. It means cultivating peace
@@ -175,8 +170,8 @@ our ideas of good government. The Lord has said: "When the wicked rule the
 people mourn.
 
 "Wherefore, honest men and wise men should be sought for diligently, and good
-men and wise men ye should observe to uphold." ([D&amp;C
-98:9-10](https://www.lds.org/scriptures/dc-testament/dc/98.9-10?lang=eng#8).)
+men and wise men ye should observe to uphold." ([D&amp;C 98:9-10](/scriptures
+/dc-testament/dc/98.9-10?lang=eng#8).)
 
 The Church maintains a policy of strict political neutrality, favoring no
 party or candidate, but every member should take an active part in the
@@ -214,7 +209,7 @@ callings and offices;
 
 "That they may be perfected in the understanding of their ministry, in theory,
 in principle, and in doctrine, in all things pertaining to the kingdom of God
-on the earth." ([D&amp;C 97:13-14](https://www.lds.org/scriptures/dc-
+on the earth." ([D&amp;C 97:13-14](/scriptures/dc-
 testament/dc/97.13-14?lang=eng#12).)
 
 Regular temple work can provide spiritual strength. It can be an anchor in
@@ -240,11 +235,10 @@ companionship of the Holy Ghost.
 
 Surely we live in troubled times, but we can seek and obtain the good despite
 Satan's temptations and snares. He cannot tempt us beyond our power to resist.
-(See [1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).) When we
-seek "anything virtuous, lovely, or of good report or praiseworthy," we are
-seeking to emulate the Savior and follow his teachings. Then we are on the
-path that can lead us to eternal life.
+(See [1 Cor. 10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).) When we seek
+"anything virtuous, lovely, or of good report or praiseworthy," we are seeking
+to emulate the Savior and follow his teachings. Then we are on the path that
+can lead us to eternal life.
 
 I bear humble witness that our Heavenly Father knows and loves each of his
 children and that his Beloved Son, Jesus Christ, is our Savior and Redeemer.
@@ -252,4 +246,6 @@ Joseph Smith is the prophet of the restoration of the gospel of Jesus Christ.
 His successors, from Brigham Young to our present prophet, President Ezra Taft
 Benson, are also modern-day prophets of God. They teach us to seek that which
 is good. I so testify in the name of Jesus Christ, amen.
+
+## References
 

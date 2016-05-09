@@ -2,9 +2,9 @@
 
 Over nineteen hundred years ago, the Apostle Paul, in writing to the Saints at
 Ephesus, declared: "One Lord, one faith, one baptism." ([Eph.
-4:5](https://www.lds.org/scriptures/nt/eph/4.5?lang=eng#4).) How far we have
-drifted over the intervening years, for there are now more than a thousand
-different churches claiming to be Christian.
+4:5](/scriptures/nt/eph/4.5?lang=eng#4).) How far we have drifted over the
+intervening years, for there are now more than a thousand different churches
+claiming to be Christian.
 
 For the first twenty-four years of my life I was an active member of one of
 this multitude of churches of Christendom. However, I had many unanswered
@@ -24,9 +24,9 @@ our minds. We felt strongly the need for God's guidance then, as we do today
 in these challenging and perilous times. Anciently, through the prophet Amos,
 the Lord had declared, "Surely the Lord God will do nothing, but he revealeth
 his secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) I never felt
-that revelations had ceased just because those already given had been bound
-into a book, the Holy Bible.
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).) I never felt that revelations had
+ceased just because those already given had been bound into a book, the Holy
+Bible.
 
 It was not until five years after the hostilities of war had ceased that I
 received the answer. God does speak again, through prophets, and revelation
@@ -35,16 +35,16 @@ enlightened our minds and lifted our souls as the missionaries taught us. How
 exciting to realize we are living in the latter days, "the times of
 restitution of all things, which God hath spoken by the mouth of all his holy
 prophets since the world began." ([Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).) How wonderful
-to learn of another book of scripture, the Book of Mormon, revealed through a
-latter-day prophet as another testament of Jesus Christ.
+3:21](/scriptures/nt/acts/3.21?lang=eng#20).) How wonderful to learn of
+another book of scripture, the Book of Mormon, revealed through a latter-day
+prophet as another testament of Jesus Christ.
 
 _Question number two: What is God like?_ The Lord himself, in his beautiful
 intercessory prayer, petitioned: "And this is life eternal, that they might
 know thee the only true God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).) What a
-contrast to the teachings of most churches that it is a mystery, that we
-cannot know and should not know what God is like.
+17:3](/scriptures/nt/john/17.3?lang=eng#2).) What a contrast to the teachings
+of most churches that it is a mystery, that we cannot know and should not know
+what God is like.
 
 How wonderful that the Almighty God has identified himself to us through his
 beloved son, Jesus Christ. He has revealed himself as our Father in Heaven,
@@ -54,12 +54,12 @@ then describe him. Will he describe a spirit? No! He will tell of a loving,
 kindly faced, white-robed personal being. In his epistle to the Hebrews, Paul
 describes Jesus, in relation to God the Father, as "being the brightness of
 his glory, and the express image of his person." ([Heb.
-1:3](https://www.lds.org/scriptures/nt/heb/1.3?lang=eng#2).) Yes, the Holy
-Bible answers the question as to what God is like, but people have been led
-astray by nonbiblical teachings and by half-truths. To correct the traditions
-of error handed down through the centuries, God himself has appeared in a
-pillar of light, together with his beloved Son, Jesus Christ, to the Prophet
-Joseph Smith.
+1:3](/scriptures/nt/heb/1.3?lang=eng#2).) Yes, the Holy Bible answers the
+question as to what God is like, but people have been led astray by
+nonbiblical teachings and by half-truths. To correct the traditions of error
+handed down through the centuries, God himself has appeared in a pillar of
+light, together with his beloved Son, Jesus Christ, to the Prophet Joseph
+Smith.
 
 _Question number three: What does your church teach about family life?_ The
 strength and moral fiber of a nation are in its families, and any church
@@ -101,11 +101,11 @@ came to my office inquiring:
 that he had often wondered about that. I asked whether he had overlooked
 Paul's teaching: "Else what shall they do which are baptized for the dead, if
 the dead rise not at all? why are they then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).) The
-minister looked at me and quietly said: "Thank you for explaining that
-doctrine." I was glad he had been enlightened but sad that he and so many
-others had failed to see before. Yes, our Father in Heaven loves all of his
-children and has provided a way for every one of them to return to him.
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).) The minister looked at me and
+quietly said: "Thank you for explaining that doctrine." I was glad he had been
+enlightened but sad that he and so many others had failed to see before. Yes,
+our Father in Heaven loves all of his children and has provided a way for
+every one of them to return to him.
 
 _Question number five: If God loves us so much, why doesn't he warn us about
 the evils of alcohol, tobacco and other drugs?_ So many of God's children
@@ -142,15 +142,15 @@ they were missionaries. Having studied the New Testament, I should have known
 the answer, for the Savior gave it so clearly as he instructed his Apostles
 just before his ascension. "Go ye therefore and teach all nations, baptizing
 them in the name of the Father, and of the Son, and of the Holy Ghost."
-([Matt. 28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18).) The
-fact that the Lord gave the commission is sufficient justification for
-carrying the gospel to the ends of the earth. People of all nations need the
-truth and purpose and happiness which the fulness of the gospel brings.
-Everyone should be interested in truth, and so we say to people of all faiths,
-Keep all the truth you have and we will add to it. This is why tens of
-thousands of young men and women and well over a thousand retired couples are
-voluntarily giving eighteen months to two years, preaching the restored gospel
-of Jesus Christ to all the world.
+([Matt. 28:19](/scriptures/nt/matt/28.19?lang=eng#18).) The fact that the Lord
+gave the commission is sufficient justification for carrying the gospel to the
+ends of the earth. People of all nations need the truth and purpose and
+happiness which the fulness of the gospel brings. Everyone should be
+interested in truth, and so we say to people of all faiths, Keep all the truth
+you have and we will add to it. This is why tens of thousands of young men and
+women and well over a thousand retired couples are voluntarily giving eighteen
+months to two years, preaching the restored gospel of Jesus Christ to all the
+world.
 
 _Question number eight: What is your understanding of the purpose of life?_ In
 its basic form, this question might be expressed as "Why am I here?" There is
@@ -167,9 +167,8 @@ home as resurrected beings.
 The Almighty God, our Heavenly Father, has declared his great purpose and plan
 for his children: "For behold, this is my work and my glory--to bring to pass
 the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) Without
-this period of life on earth, we can achieve neither immortality nor eternal
-life.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) Without this period of life on
+earth, we can achieve neither immortality nor eternal life.
 
 _Question number nine: How do you know the answers you have given are true?_ I
 know because of my testimony, which comes from deep inside me and yet is from
@@ -203,7 +202,7 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).)
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).)
 
 Yes, my dear inquiring friend, we will add to the truth you have, for God
 speaks again through prophets. He has revealed himself to man in modern times.
@@ -214,4 +213,6 @@ purpose of life and has given us the Holy Ghost that we might testify to
 others and know for ourselves that this is the living Church of the living
 Christ, and that he speaks through a living prophet, even our beloved
 President Spencer W. Kimball. I so testify, in the name of Jesus Christ, amen.
+
+## References
 

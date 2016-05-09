@@ -3,7 +3,7 @@
 During His ministry here on earth, as the Savior taught the people, He
 counseled them: "Search the scriptures; for in them ye think ye have eternal
 life: and they are they which testify of me." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).)
+5:39](/scriptures/nt/john/5.39?lang=eng#38).)
 
 What do we consider to be the scriptures? One dedicated student has explained:
 "Any message, whether written or spoken, that comes from God to man by the
@@ -33,13 +33,12 @@ passage gave him the guideline he needed to answer some very grave questions
 that concerned him. We all know that passage. The passage read: "If any of you
 lack wisdom, let him ask of God, that giveth to all men liberally, and
 upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) Joseph Smith
-accepted this invitation, as he had a most important decision to make.
-Retiring to a secluded spot in a grove of trees on his father's farm, he knelt
-and prayed earnestly for an answer to his problem. Unexpectedly he was visited
-by our Heavenly Father and His Son, the resurrected Lord and Savior, Jesus
-Christ. This dramatic visitation was his first revelation in this
-dispensation.
+1:5](/scriptures/nt/james/1.5?lang=eng#4).) Joseph Smith accepted this
+invitation, as he had a most important decision to make. Retiring to a
+secluded spot in a grove of trees on his father's farm, he knelt and prayed
+earnestly for an answer to his problem. Unexpectedly he was visited by our
+Heavenly Father and His Son, the resurrected Lord and Savior, Jesus Christ.
+This dramatic visitation was his first revelation in this dispensation.
 
 The knowledge and use of the scriptures are important in our lives. A
 prominent Church educator, many years ago, taught: "The scriptures are sign
@@ -130,4 +129,6 @@ for they are the words leading to eternal life.
 I bear solemn testimony that inspired men are leading the Church today. Let us
 hearken to their voices and obey their teachings, for which I pray, in the
 name of the Lord Jesus Christ. Amen.
+
+## References
 

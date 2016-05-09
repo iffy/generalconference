@@ -8,14 +8,14 @@ May I tell you how?
 
 The scriptural passages in Proverbs 31 are well known for their listing of the
 admirable qualities of the virtuous woman, whose "price is far above rubies"
-([Prov. 31:10](https://www.lds.org/scriptures/ot/prov/31.10?lang=eng#9)), but
-in verse 11 we discover a remarkable description of marriage. It reads: _"The
-heart of her husband doth safely trust in her."_ [[Prov.
-31:11](https://www.lds.org/scriptures/ot/prov/31.11?lang=eng#10)] This
-memorable line discloses, first, that the husband has entrusted his heart to
-his wife, and second, that she safeguards it. They seem to understand an
-important truth, that every man and woman who covenant to establish a family
-must create a safe place for their love.
+([Prov. 31:10](/scriptures/ot/prov/31.10?lang=eng#9)), but in verse 11 we
+discover a remarkable description of marriage. It reads: _"The heart of her
+husband doth safely trust in her."_ [[Prov.
+31:11](/scriptures/ot/prov/31.11?lang=eng#10)] This memorable line discloses,
+first, that the husband has entrusted his heart to his wife, and second, that
+she safeguards it. They seem to understand an important truth, that every man
+and woman who covenant to establish a family must create a safe place for
+their love.
 
 The longing of the human heart is often for someone who will treat tenderly
 the devotion one has to give. We hear it in the words of a poem by William
@@ -45,7 +45,7 @@ covenants in the holy temple, they begin a new, eternal family unit with all
 of the blessings promised to Abraham, Isaac, and Jacob. Such a union is
 dedicated to the sacred purposes of the Lord--"to bring to pass the
 immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 The young bride-to-be who is anxious for marriage so she can have a "home of
 her own" may not realize the selflessness required in a good marriage--the
@@ -56,49 +56,10 @@ must assume in a celestial family.
 Let us look for a moment at some of the benefits of a marriage based upon love
 and consecration.
 
-  1. Both husband and wife are committed to helping the other achieve the fullest possible development. How inspiring it is, for example, to hear Elder David B. Haight tell of times he has cooked the dinner so that his wife could attend her Spanish class. Growth can come for both partners when husband and wife develop the kind of love that allows the other to turn potential into perfection and talent into testimony. A strong marriage takes strong individuals equally committed to calling forth the best in themselves as well as in their eternal partner. A husband must give his support if a wife is to adequately use the gifts God has given her. A wife must give her support if her husband is to lead the family.
-
-  2. A marriage made safe by both love and consecration can allow for a variety of opinions.
-
-For a man and wife to become one there are many differences, large and small,
-that must be accommodated or resolved. In a marriage relationship that is
-secure, differences need not lead to discord. They can be openly considered
-until a satisfactory solution is reached because the premises are agreed upon:
-both the husband and wife are committed to love one another, to build the
-kingdom of God, and to establish an eternal family unit. All considerations
-are made in light of these three basic commitments--these are the "givens."
-When they are held inviolate, the marriage remains intact, even though the
-process of resolution may involve considerable discussion.
-
-While visiting in the home of her younger sister, a woman observed one such
-discussion. A difference of opinion was resolved in a kindly, open exchange
-between the husband and wife. The woman later confided that such a discussion
-could not have occurred in her home "because," she said, "we cannot afford to
-have differences aired, for even a small problem challenges our relationship."
-
-Some marriage relationships are little more than an amicable truce; but if
-such couples were to lay the foundation stones of commitment and trust, of
-consecration and love, they could build a safe place where individuals can be
-heard, and where love can grow and can encompass and integrate differing
-points of view.
-
-  3. Each child has the love and interest of both mother and father.
-
-When children are treated fairly, there is no cause for jealousy because there
-is no partiality. Reading the Book of Mormon, we find that whenever the people
-were truly committed to the Lord and had the Holy Ghost in their midst, the
-conditions described were similar. We read of such an example in 4 Nephi when
-"every man did deal justly one with another.
-
-"And they had all things common among them; therefore there were not rich and
-poor, ... but they were all ... partakers of the heavenly gift" of love. ([4 Ne.
-1:2-3](https://www.lds.org/scriptures/bofm/4-ne/1.2-3?lang=eng#1).)
-
-  4. Finally, love and consecration establish the basis for happiness. This, too, is described in 4 Nephi: "And it came to pass that there was no contention, ... because of the love of God which did dwell in the hearts of the people.
-
-"And there were no envyings, nor strifes, nor tumults; ... and surely there
-could not be a happier people." ([4 Ne.
-1:15-16](https://www.lds.org/scriptures/bofm/4-ne/1.15-16?lang=eng#14).)
+  1. Both husband and wife are committed to helping the other achieve the fullest possible development. How inspiring it is, for example, to hear Elder David B. Haight tell of times he has cooked the dinner so that his wife could attend her Spanish class. Growth can come for both partners when husband and wife develop the kind of love that allows the other to turn potential into perfection and talent into testimony. A strong marriage takes strong individuals equally committed to calling forth the best in themselves as well as in their eternal partner. A husband must give his support if a wife is to adequately use the gifts God has given her. A wife must give her support if her husband is to lead the family. 
+  2. A marriage made safe by both love and consecration can allow for a variety of opinions. For a man and wife to become one there are many differences, large and small, that must be accommodated or resolved. In a marriage relationship that is secure, differences need not lead to discord. They can be openly considered until a satisfactory solution is reached because the premises are agreed upon: both the husband and wife are committed to love one another, to build the kingdom of God, and to establish an eternal family unit. All considerations are made in light of these three basic commitments--these are the "givens." When they are held inviolate, the marriage remains intact, even though the process of resolution may involve considerable discussion. While visiting in the home of her younger sister, a woman observed one such discussion. A difference of opinion was resolved in a kindly, open exchange between the husband and wife. The woman later confided that such a discussion could not have occurred in her home "because," she said, "we cannot afford to have differences aired, for even a small problem challenges our relationship." Some marriage relationships are little more than an amicable truce; but if such couples were to lay the foundation stones of commitment and trust, of consecration and love, they could build a safe place where individuals can be heard, and where love can grow and can encompass and integrate differing points of view. 
+  3. Each child has the love and interest of both mother and father. When children are treated fairly, there is no cause for jealousy because there is no partiality. Reading the Book of Mormon, we find that whenever the people were truly committed to the Lord and had the Holy Ghost in their midst, the conditions described were similar. We read of such an example in 4 Nephi when "every man did deal justly one with another. "And they had all things common among them; therefore there were not rich and poor, ... but they were all ... partakers of the heavenly gift" of love. ([4 Ne. 1:2-3](/scriptures/bofm/4-ne/1.2-3?lang=eng#1).) 
+  4. Finally, love and consecration establish the basis for happiness. This, too, is described in 4 Nephi: "And it came to pass that there was no contention, ... because of the love of God which did dwell in the hearts of the people. "And there were no envyings, nor strifes, nor tumults; ... and surely there could not be a happier people." ([4 Ne. 1:15-16](/scriptures/bofm/4-ne/1.15-16?lang=eng#14).) 
 
 Remember that a family established in love and secured by consecration is
 maintained through work and service. A home is strengthened by work when
@@ -219,4 +180,6 @@ employ the basic welfare principles of love, work, consecration, service,
 stewardship or accountability, and self-reliance, to strengthen our marriages
 and our families in the safe and holy places of heart, temple, and home, I
 humbly pray in the name of Jesus Christ, amen.
+
+## References
 

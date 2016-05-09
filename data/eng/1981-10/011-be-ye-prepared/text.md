@@ -13,15 +13,15 @@ those of you who have inactive family members in the Church.
 
 The Lord, speaking through Moses, said, "This is my work and my glory--to
 bring to pass the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) This being
-so, the Lord should provide a way for us, his spirit children, to know what
-his program is, in order that we may be able to obtain immortality and eternal
-life--and he has: that is the mission of this great Church.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) This being so, the Lord should
+provide a way for us, his spirit children, to know what his program is, in
+order that we may be able to obtain immortality and eternal life--and he has:
+that is the mission of this great Church.
 
 I think that many of our people don't really know just what this Church stands
 for. Jesus said, "Search the scriptures; for in them ye think ye have eternal
 life; and they are they which testify of me." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).)
+5:39](/scriptures/nt/john/5.39?lang=eng#38).)
 
 And then, speaking of those who would be judged of him at the time of his
 return to the earth, he said: "Many will say to me in that day, Lord, Lord,
@@ -29,48 +29,45 @@ have we not prophesied in thy name? and in thy name have cast out devils? and
 in thy name done many wonderful works?
 
 "And then will I profess unto them, I never knew you: depart from me, ye that
-work iniquity." ([Matt.
-7:22-23](https://www.lds.org/scriptures/nt/matt/7.22-23?lang=eng#21).)
+work iniquity." ([Matt. 7:22-23](/scriptures/nt/matt/7.22-23?lang=eng#21).)
 
 When John the Revelator was banished to the Isle of Patmos, a voice from
 heaven said, "Come up hither, and I will shew thee things which must be
-hereafter." ([Rev.
-4:1](https://www.lds.org/scriptures/nt/rev/4.1?lang=eng#0).) The angel of the
+hereafter." ([Rev. 4:1](/scriptures/nt/rev/4.1?lang=eng#0).) The angel of the
 Lord showed John many wonderful things. He showed him the coming of a new
 heaven and a new earth when there would be no more sickness and no more pain,
 no more sorrow and no more death; when we would no more need the sun by day
 nor the moon by night, for the glory of God would be upon the earth; when no
 man would say, "know ye the Lord," for every man would walk in the light of
 the Lord his God. (See [Rev. 21:1, 4,
-23-24](https://www.lds.org/scriptures/nt/rev/21.1%2C4%2C23-24?lang=eng#0).)
+23-24](/scriptures/nt/rev/21.1,4,23-24?lang=eng#0).)
 
 When John saw all of that, he wanted to kneel down and worship the angel who
 showed it to him. And the angel said, "See thou do it not: for I am thy
 fellowservant, and of thy brethren the prophets." ([Rev.
-22:8-9](https://www.lds.org/scriptures/nt/rev/22.8-9?lang=eng#7).)
+22:8-9](/scriptures/nt/rev/22.8-9?lang=eng#7).)
 
 Earlier, the angel had showed him the dead, small and great, standing before
 God, and the books were opened and every man was judged according to the
 things written in the books, according to their works. Death and hell
 delivered up the dead that were in them. (See [Rev.
-20:12-13](https://www.lds.org/scriptures/nt/rev/20.12-13?lang=eng#11).) Then
-the angel said, "Blessed and holy is he that hath part in the first
-resurrection: on such the second death hath no power, but they shall be
-priests of God ... and shall reign with him a thousand years." ([Rev.
-20:6](https://www.lds.org/scriptures/nt/rev/20.6?lang=eng#5).) Wouldn't that
-be a wonderful thing, to be worthy to come forth in the morning of the first
-resurrection?
+20:12-13](/scriptures/nt/rev/20.12-13?lang=eng#11).) Then the angel said,
+"Blessed and holy is he that hath part in the first resurrection: on such the
+second death hath no power, but they shall be priests of God ... and shall reign
+with him a thousand years." ([Rev. 20:6](/scriptures/nt/rev/20.6?lang=eng#5).)
+Wouldn't that be a wonderful thing, to be worthy to come forth in the morning
+of the first resurrection?
 
 But the angel didn't leave it there. He said, "But the rest of the dead lived
 not again until the thousand years were finished." ([Rev.
-20:5](https://www.lds.org/scriptures/nt/rev/20.5?lang=eng#4).) Is there any
-clear thinking man who would want to gamble on being left in his grave a
-thousand years when the Son of Man shall come in the clouds of heaven with all
-the holy angels, and those who have died in him shall be brought forth from
-the grave, and those who are living in him shall be caught up in the air and
-changed in the twinkling of an eye? I like the statement of the philosopher
-Cicero. He said he was much more interested in the long hereafter than he was
-in the brief present.
+20:5](/scriptures/nt/rev/20.5?lang=eng#4).) Is there any clear thinking man
+who would want to gamble on being left in his grave a thousand years when the
+Son of Man shall come in the clouds of heaven with all the holy angels, and
+those who have died in him shall be brought forth from the grave, and those
+who are living in him shall be caught up in the air and changed in the
+twinkling of an eye? I like the statement of the philosopher Cicero. He said
+he was much more interested in the long hereafter than he was in the brief
+present.
 
 Today in our natural, routine patterns of life, our children go to school as
 we did for twelve to twenty years, to learn how to have a richer life here in
@@ -81,10 +78,9 @@ that never ends?
 
 The Prophet Alma in the Book of Mormon said that this life is the time to
 prepare to meet the Lord. (See [Alma
-34:32](https://www.lds.org/scriptures/bofm/alma/34.32?lang=eng#31).) And I
-think we ought to be more interested in the long hereafter than we are in just
-the brief present. I wonder if we ever stop to figure how long that long
-hereafter really is.
+34:32](/scriptures/bofm/alma/34.32?lang=eng#31).) And I think we ought to be
+more interested in the long hereafter than we are in just the brief present. I
+wonder if we ever stop to figure how long that long hereafter really is.
 
 You have probably heard me tell this before, but when my wife and I had been
 married thirty-five years, I said, "Mommy, what do you think we will be doing
@@ -118,7 +114,7 @@ And the Master said: "Well done, thou good and faithful servant: thou has been
 faithful over a few things, I will make thee ruler over many things."
 (Wouldn't that be wonderful, to be made a ruler over many things?) "Enter thou
 into the joy of thy Lord." ([Matt.
-25:20-21](https://www.lds.org/scriptures/nt/matt/25.20-21?lang=eng#19).)
+25:20-21](/scriptures/nt/matt/25.20-21?lang=eng#19).)
 
 The one who had received two talents (and we don't all get the same) won
 another two talents, and he got the same plaudit for faithfulness over his two
@@ -128,7 +124,7 @@ sown, and gathering where thou hast not strawed:
 
 "And I was afraid, and went and hid thy talent in the earth: lo, there thou
 hast that is thine." ([Matt.
-25:24-25](https://www.lds.org/scriptures/nt/matt/25.24-25?lang=eng#23).)
+25:24-25](/scriptures/nt/matt/25.24-25?lang=eng#23).)
 
 And what did the Master say? "Take therefore the talent from him, and give it
 unto him which hath ten talents.
@@ -138,7 +134,7 @@ shall be taken away even that which he hath.
 
 "And cast ye the unprofitable servant into outer darkness: there shall be
 weeping and gnashing of teeth." ([Matt.
-25:28-30](https://www.lds.org/scriptures/nt/matt/25.28-30?lang=eng#27).)
+25:28-30](/scriptures/nt/matt/25.28-30?lang=eng#27).)
 
 Would anybody like to look forward to that time that never ends, that long
 hereafter, and be assigned where there would be weeping and gnashing of teeth?
@@ -150,9 +146,9 @@ them took oil in their lamps, and five of them had no oil. When the call came,
 to borrow, but there was not enough to share, so they went to purchase oil.
 The ones with oil went into the wedding feast; and the others, when they
 returned, found the doors were already closed. (See [Matt.
-25:1-13](https://www.lds.org/scriptures/nt/matt/25.1-13?lang=eng#0).) Why do
-you think Jesus gave us a parable like this if he didn't feel that those who
-were inactive need to come into activity in his Church?
+25:1-13](/scriptures/nt/matt/25.1-13?lang=eng#0).) Why do you think Jesus gave
+us a parable like this if he didn't feel that those who were inactive need to
+come into activity in his Church?
 
 The next parable I give to you is the parable of the rich man and Lazarus. You
 remember how Lazarus ate the crumbs that fell from the rich man's table, and
@@ -165,7 +161,7 @@ my tongue; for I am tormented in this flame."
 
 But Abraham said, "Between us and you there is a great gulf fixed: so that
 they which would pass from hence to you cannot." ([Luke
-16:24-26](https://www.lds.org/scriptures/nt/luke/16.24-26?lang=eng#23).)
+16:24-26](/scriptures/nt/luke/16.24-26?lang=eng#23).)
 
 Then the rich man's thoughts turned to earth where he had five brothers, and
 he said, "I pray thee therefore, father [Abraham], that thou wouldest send him
@@ -178,14 +174,13 @@ to my father's house:
 
 "And he said unto him, If they hear not Moses and the prophets, neither will
 they be persuaded, though one rose from the dead." ([Luke
-16:27-31](https://www.lds.org/scriptures/nt/luke/16.27-31?lang=eng#26).)
+16:27-31](/scriptures/nt/luke/16.27-31?lang=eng#26).)
 
 Jesus also said, referring to the time of his coming: "Then shall two be in
 the field; the one shall be taken, and the other left.
 
 "Two women shall be grinding at the mill; the one shall be taken, and the
-other left." ([Matt.
-24:40-41](https://www.lds.org/scriptures/nt/matt/24.40-41?lang=eng#39).)
+other left." ([Matt. 24:40-41](/scriptures/nt/matt/24.40-41?lang=eng#39).)
 
 How would one feel to see his associate taken, and to be left for a thousand
 years?
@@ -202,7 +197,7 @@ likened unto a foolish man, which built his house upon the sand:
 
 "... And the floods came, and the winds blew, and beat upon that house; and it
 fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 Who would want to build their house upon the sand, so that it would not
 withstand the storms of adversity?
@@ -213,17 +208,15 @@ You remember the words of the prophet Jeremiah. He said the day would come
 when it should no longer be said, "The Lord liveth, that brought the children
 of Israel out of the land of Egypt; But, the Lord liveth, that brought up the
 children of Israel ... from all the lands whither he had driven them" ([Jer.
-16:14-15](https://www.lds.org/scriptures/ot/jer/16.14-15?lang=eng#13)) and
-that he would send for many fishers and they would fish them, and for many
-hunters and they would hunt them from the hills and from the mountains and
-from the holes in the rocks (see [Jer.
-16:16](https://www.lds.org/scriptures/ot/jer/16.16?lang=eng#15)). That's the
+16:14-15](/scriptures/ot/jer/16.14-15?lang=eng#13)) and that he would send for
+many fishers and they would fish them, and for many hunters and they would
+hunt them from the hills and from the mountains and from the holes in the
+rocks (see [Jer. 16:16](/scriptures/ot/jer/16.16?lang=eng#15)). That's the
 thirty thousand missionaries scattered throughout the world gathering in
 scattered Israel.
 
 Jeremiah said, "Turn, O backsliding children, saith the Lord; for I am married
-unto you." ([Jer.
-3:14](https://www.lds.org/scriptures/ot/jer/3.14?lang=eng#13).) What a
+unto you." ([Jer. 3:14](/scriptures/ot/jer/3.14?lang=eng#13).) What a
 covenant! Isn't it wonderful to think that if we will heed the promptings of
 the Holy Spirit, it will be like a relationship of being married unto Him?
 
@@ -232,7 +225,7 @@ and I will bring you to Zion:
 
 "And I will give you pastors according to mine heart, which shall feed you
 with knowledge and understanding." ([Jer.
-3:14-15](https://www.lds.org/scriptures/ot/jer/3.14-15?lang=eng#13).)
+3:14-15](/scriptures/ot/jer/3.14-15?lang=eng#13).)
 
 Search your histories of the world. You can't find anywhere else where people
 have been gathered one of a city and two of a family like they have to these
@@ -244,4 +237,6 @@ Now, that is my testimony to you, and I pray God to keep you and your families
 with the harness on, using your gifts and talents for the building of our
 Father's kingdom, and I leave you my love and blessing in the name of the
 Lord, Jesus Christ, amen.
+
+## References
 

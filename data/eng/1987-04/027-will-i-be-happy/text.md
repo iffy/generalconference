@@ -10,7 +10,7 @@ Australia, a picture of a sad-faced little girl. Above the picture was written
 "Will I Be Happy?" I suppose everyone in the world could ask that question:
 "Will I be happy?" The Savior himself prayed that all of his disciples "might
 have ... joy fulfilled in themselves" ([John
-17:13](https://www.lds.org/scriptures/nt/john/17.13?lang=eng#12)).
+17:13](/scriptures/nt/john/17.13?lang=eng#12)).
 
 I wish to speak of a hope that children will know a future filled with some
 happiness and peace. No gift bestowed upon us is so precious as children. They
@@ -108,47 +108,41 @@ reproductive physiology" (_The Family in America,_ Mar. 1987, 1:3).
 
 By the word of the Lord, all men and women are to practice chastity before
 marriage and fidelity after marriage. "Thou shalt not commit adultery," said
-the Lord ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13)), "nor do
-anything like unto it" ([D&amp;C 59:6](https://www.lds.org/scriptures/dc-
-testament/dc/59.6?lang=eng#5)). The Apostle Paul was more explicit in his
-epistle to the Corinthians (see [1 Cor.
-6:9](https://www.lds.org/scriptures/nt/1-cor/6.9?lang=eng#8)), as was Alma in
-the Book of Mormon (see [Alma
-39:1-13](https://www.lds.org/scriptures/bofm/alma/39.1-13?lang=eng#0)).
+the Lord ([Ex. 20:14](/scriptures/ot/ex/20.14?lang=eng#13)), "nor do anything
+like unto it" ([D&amp;C 59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5)).
+The Apostle Paul was more explicit in his epistle to the Corinthians (see [1
+Cor. 6:9](/scriptures/nt/1-cor/6.9?lang=eng#8)), as was Alma in the Book of
+Mormon (see [Alma 39:1-13](/scriptures/bofm/alma/39.1-13?lang=eng#0)).
 
 Alternatives to the legal and loving marriage between a man and a woman are
 helping to unravel the fabric of human society. That fabric, of course, is the
 family. These so-called alternative life-styles cannot be accepted as right
 because they frustrate God's commandment for a life-giving union of male and
 female within a legal marriage (see [Gen.
-1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27)). If practiced
-by all adults, these life-styles would mean the end of family.
+1:28](/scriptures/ot/gen/1.28?lang=eng#27)). If practiced by all adults, these
+life-styles would mean the end of family.
 
 The scriptures clearly and consistently condemn all sex relations outside of
 legal marriage as morally wrong. Why is this so? It is so because God said so.
 It is so because we are made in the image of God, male and female (see [Gen.
-1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26)). We are his
-spirit children (see [D&amp;C 76:24](https://www.lds.org/scriptures/dc-
-testament/dc/76.24?lang=eng#23)). We were with him in the beginning (see
-[D&amp;C 93:23](https://www.lds.org/scriptures/dc-
+1:27](/scriptures/ot/gen/1.27?lang=eng#26)). We are his spirit children (see
+[D&amp;C 76:24](/scriptures/dc-testament/dc/76.24?lang=eng#23)). We were with
+him in the beginning (see [D&amp;C 93:23](/scriptures/dc-
 testament/dc/93.23?lang=eng#22)). Bringing to pass our exaltation is his work
-and glory (see [Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). We are
-directed to be the children of light (see [D&amp;C
-106:5](https://www.lds.org/scriptures/dc-testament/dc/106.5?lang=eng#4)). We
-are heirs to eternal life. The Spirit gives light to every man and woman who
-comes into the world (see [D&amp;C 84:46](https://www.lds.org/scriptures/dc-
-testament/dc/84.46?lang=eng#45)).
+and glory (see [Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). We are
+directed to be the children of light (see [D&amp;C 106:5](/scriptures/dc-
+testament/dc/106.5?lang=eng#4)). We are heirs to eternal life. The Spirit
+gives light to every man and woman who comes into the world (see [D&amp;C
+84:46](/scriptures/dc-testament/dc/84.46?lang=eng#45)).
 
 What values can be taught most effectively in the home? By commandment,
 parents in this church are to teach their children faith in Christ,
 repentance, baptism, and the gift of the Holy Ghost (see [D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24)). At
-home, in the warm security of discipline and love, we learn the values that
-never change. We learn the differences between right and wrong, as well as
-self-discipline, self-mastery, personal responsibility, all of the essentials
-of good character, concern for others, and civil manners.
+68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24)). At home, in the warm
+security of discipline and love, we learn the values that never change. We
+learn the differences between right and wrong, as well as self-discipline,
+self-mastery, personal responsibility, all of the essentials of good
+character, concern for others, and civil manners.
 
 Values, public as well as private, cannot last very long without being
 regenerated and sustained by religious belief; they are a matter of continued
@@ -226,8 +220,9 @@ everywhere, to the boys and girls who ask "Will I be happy?" we can answer:
 "Of course! You are going to be happy, and even more. If you keep the
 covenants and commandments of God, you will have the joy promised by the
 Savior when he walked upon the earth. You will have 'peace in this world, and
-eternal life in the world to come' ([D&amp;C
-59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22)),"
-which is the ultimate message of this church to the world. In the name of
-Jesus Christ, amen.
+eternal life in the world to come' ([D&amp;C 59:23](/scriptures/dc-
+testament/dc/59.23?lang=eng#22))," which is the ultimate message of this
+church to the world. In the name of Jesus Christ, amen.
+
+## References
 

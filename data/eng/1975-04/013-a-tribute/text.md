@@ -168,8 +168,7 @@ shalt weep for the loss of them that die, and more especially for those that
 have not hope of a glorious resurrection.
 
 "And it shall come to pass that those that die in me shall not taste of death,
-for it shall be sweet unto them." ([D&amp;C
-42:45-46](https://www.lds.org/scriptures/dc-
+for it shall be sweet unto them." ([D&amp;C 42:45-46](/scriptures/dc-
 testament/dc/42.45-46?lang=eng#44).)
 
 I understand this scripture now as never before. Even though there is great
@@ -183,4 +182,6 @@ course of lives.
 
 May God grant that her memory will bring satisfaction and fulfillment to your
 life, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -100,7 +100,7 @@ eye; and, behold, a beam is in thine own eye?
 
 "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt
 thou see clearly to cast out the mote out of thy brother's eye." ([Matt.
-7:1-5](https://www.lds.org/scriptures/nt/matt/7.1-5?lang=eng#0).)
+7:1-5](/scriptures/nt/matt/7.1-5?lang=eng#0).)
 
 It seems he is saying that unless we are without fault, we are not qualified
 to judge. By referring to Samuel's experience while choosing a king, we may
@@ -115,7 +115,7 @@ the prophet Samuel the key as to how to judge:
 "Look not on his countenance, or on the height of his stature; because I have
 refused him: for the Lord seeth not as man seeth; for man looketh on the
 outward appearance, but the Lord looketh on the heart." ([1 Sam.
-16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).)
+16:7](/scriptures/ot/1-sam/16.7?lang=eng#6).)
 
 Each of the seven sons then passed before Samuel and was rejected. Then David,
 the youngest, was sent for and was approved by the Lord.
@@ -203,9 +203,9 @@ someone has said, "It is easier to dodge an elephant than a microbe."
 What a different world it would be if we would put into practice what we have
 all heard so many times: "... whatsoever ye would that men should do to you, do
 ye even so to them: for this is the law and the prophets." ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11).) Instead, we
-are all so inclined to judge others by a standard different from the one by
-which we would wish or be willing to be judged.
+7:12](/scriptures/nt/matt/7.12?lang=eng#11).) Instead, we are all so inclined
+to judge others by a standard different from the one by which we would wish or
+be willing to be judged.
 
 When the woman accused of adultery was brought before Christ, he was indignant
 because of the accusers' injustice. They were wanting the woman to be judged
@@ -215,7 +215,7 @@ be judged and on a matter of which some were guilty.
 He said: "He that is without sin among you, let him first cast a stone at
 her." Then, after stooping and writing in the sand, he looked up and said, "...
 where are those thine accusers?" ([John 8:7,
-10](https://www.lds.org/scriptures/nt/john/8.7%2C10?lang=eng#6).)
+10](/scriptures/nt/john/8.7,10?lang=eng#6).)
 
 If Jesus were to stand by and be asked to judge those whom we accuse and
 should say to us, "He that is without sin among you, let him first cast a
@@ -225,22 +225,20 @@ is his counsel!
 
 If we could accept and practice the second great commandment, "Thou shall love
 thy neighbour as thyself" ([Matt.
-22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38)), and really
-learn to love our neighbors, there would be no vicious gossip or bearing false
-witness. In the Lord's prayer, we have these words: "And forgive us our debts,
-as we forgive our debtors," and then he says: "For if ye forgive men their
-trespasses, your heavenly Father will also forgive you: But if ye forgive not
-men their trespasses, neither will your Father forgive your trespasses."
-([Matt. 6:12,
-14-15](https://www.lds.org/scriptures/nt/matt/6.12%2C14-15?lang=eng#11).)
+22:39](/scriptures/nt/matt/22.39?lang=eng#38)), and really learn to love our
+neighbors, there would be no vicious gossip or bearing false witness. In the
+Lord's prayer, we have these words: "And forgive us our debts, as we forgive
+our debtors," and then he says: "For if ye forgive men their trespasses, your
+heavenly Father will also forgive you: But if ye forgive not men their
+trespasses, neither will your Father forgive your trespasses." ([Matt. 6:12,
+14-15](/scriptures/nt/matt/6.12,14-15?lang=eng#11).)
 
 Christ is our greatest example of forgiveness. To the woman brought before him
 accused of adultery, he said, "Neither do I condemn thee: go, and sin no
-more." ([John 8:11](https://www.lds.org/scriptures/nt/john/8.11?lang=eng#10).)
+more." ([John 8:11](/scriptures/nt/john/8.11?lang=eng#10).)
 
 Then on the cross he prayed: "Father, forgive them; for they know not what
-they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+they do." ([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 Regardless of our ego, our pride, or our feeling of insecurity, our lives
 would be happier, we would be contributing more to social welfare and the
@@ -288,7 +286,7 @@ that I love my fellowmen. I hold no hard feelings of any kind toward any man,
 and I sincerely pray for forgiveness wherein I have offended anyone. I
 realize, as the Savior said, "Inasmuch as ye have done it unto one of the
 least of these my brethren, ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 To all the world, and especially to those who do not understand but who
 ridicule the teachings of The Church of Jesus Christ of Latter-day Saints, I
@@ -299,10 +297,9 @@ Only, but truly, Begotten Son in the flesh, who came and gave his life and was
 resurrected so that all mankind might enjoy immortality.
 
 He said, "... this is my work and my glory--to bring to pass the immortality and
-eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)), and he gave
-us the gospel plan by which we can prepare ourselves to go back into his
-presence and enjoy eternal life.
+eternal life of man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)),
+and he gave us the gospel plan by which we can prepare ourselves to go back
+into his presence and enjoy eternal life.
 
 Yes, the gospel in its fullness is restored and is here upon the earth today.
 I bear witness that the Bible is the word of God, given to us through his
@@ -329,8 +326,10 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).)
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).)
 
 This promise, and my testimony, I leave with you in the name of Jesus Christ.
 Amen.
+
+## References
 

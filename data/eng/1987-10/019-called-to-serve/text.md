@@ -34,7 +34,7 @@ In pondering what they could do to prepare to serve missions, I believe the
 best formula I could give them, and all the youth of the Church, is found in a
 single verse in the second chapter of Luke: "And Jesus increased in wisdom and
 stature, and in favour with God and man" ([Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51)).
+2:52](/scriptures/nt/luke/2.52?lang=eng#51)).
 
 That one verse gives us an insight into what our Savior did to prepare for his
 ministry.
@@ -185,21 +185,14 @@ in all that he does.
 
 How can you prepare to enjoy the Holy Spirit?
 
-  1. Keep your life clean--in thought and action. Immorality is Satan's most potent tool against us and leads to more unhappiness, grief, regret, and self-degradation than any other sin. It is deadly to our eternal progress. Avoid it like a plague.
-
-  2. Pray from your heart--then listen for God's answer.
-
-  3. Develop a testimony of the gospel of Jesus Christ by practicing its teachings in your daily activities.
-
-  4. Stand up for what you believe. Set the standards for your life and don't be swayed by lower standards of others. You are in charge of your life!
-
-  5. Honor your priesthood, which has come to you from God and will serve as an armor for you throughout life as you respect its mighty power.
-
-  6. Set long-range goals. Determine in advance your course of action. Map out where you want to go and how you are going to get there. This will help you resist the temptations of Satan when they come--as they surely will.
-
-  7. Keep the commandments. That will lead to happiness and fulfillment.
-
-  8. We have discovered that the best way to prepare for a mission is to have the spiritual experience of teaching the gospel to others before you are called. We urge you to reach out to your friends, help teach them the gospel by teaming with the full-time or the stake missionaries, bearing your testimonies in that atmosphere. You will then become acquainted with how the Holy Spirit works to guide others to the truth, and you will recognize its sweet influence in your own experience.
+  1. Keep your life clean--in thought and action. Immorality is Satan's most potent tool against us and leads to more unhappiness, grief, regret, and self-degradation than any other sin. It is deadly to our eternal progress. Avoid it like a plague. 
+  2. Pray from your heart--then listen for God's answer. 
+  3. Develop a testimony of the gospel of Jesus Christ by practicing its teachings in your daily activities. 
+  4. Stand up for what you believe. Set the standards for your life and don't be swayed by lower standards of others. You are in charge of your life! 
+  5. Honor your priesthood, which has come to you from God and will serve as an armor for you throughout life as you respect its mighty power. 
+  6. Set long-range goals. Determine in advance your course of action. Map out where you want to go and how you are going to get there. This will help you resist the temptations of Satan when they come--as they surely will. 
+  7. Keep the commandments. That will lead to happiness and fulfillment. 
+  8. We have discovered that the best way to prepare for a mission is to have the spiritual experience of teaching the gospel to others before you are called. We urge you to reach out to your friends, help teach them the gospel by teaming with the full-time or the stake missionaries, bearing your testimonies in that atmosphere. You will then become acquainted with how the Holy Spirit works to guide others to the truth, and you will recognize its sweet influence in your own experience. 
 
 You will understand, as Elisha's young servant came to understand when he
 discovered the city surrounded by the Syrian army. Running to Elisha in panic
@@ -211,7 +204,7 @@ be with them.
 "And Elisha prayed, and said, Lord, I pray thee, open his eyes, that he may
 see. And the Lord opened the eyes of the young man; and he saw: and, behold,
 the mountain was full of horses and chariots of fire round about Elisha" ([2
-Kgs. 6:15-17](https://www.lds.org/scriptures/ot/2-kgs/6.15-17?lang=eng#14)).
+Kgs. 6:15-17](/scriptures/ot/2-kgs/6.15-17?lang=eng#14)).
 
 When you are in tune with that holy spirit, you will be well armed to be the
 Lord's representative, prepared to teach and to testify, bringing souls to our
@@ -263,9 +256,11 @@ _God our strength will be; Press forward ever,_
 _Called to serve our King._
 
 "And Jesus increased in wisdom and stature, and in favour with God and man"
-([Luke 2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51)).
+([Luke 2:52](/scriptures/nt/luke/2.52?lang=eng#51)).
 
 O youth of the Church, go and do likewise--be prepared to serve!
 
 In the name of Jesus Christ, amen.
+
+## References
 

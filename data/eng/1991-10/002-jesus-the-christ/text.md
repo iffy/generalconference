@@ -3,9 +3,9 @@
 While abridging the records of the Nephites, Mormon wrote, "Behold, I am a
 disciple of Jesus Christ, the Son of God. I have been called of him to declare
 his word among his people, that they might have everlasting life." ([3 Ne.
-5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12).) This humble
-yet straightforward declaration ought to express the feelings of all Latter-
-day Saints--disciples of Christ, called to minister in his cause.
+5:13](/scriptures/bofm/3-ne/5.13?lang=eng#12).) This humble yet
+straightforward declaration ought to express the feelings of all Latter-day
+Saints--disciples of Christ, called to minister in his cause.
 
 ## Christ: More than a King
 
@@ -22,7 +22,7 @@ occurs a conversation between two Greek slaves:
 
 "See him--close up?" asked the uncouth Athenian.
 
-Demetrius nodded ... , turning away. ...
+Demetrius nodded ..., turning away. ...
 
 "Crazy?" persisted the Athenian. ...
 
@@ -30,27 +30,26 @@ Demetrius nodded ... , turning away. ...
 
 "King?"
 
-"No," muttered Demetrius ... , "not a king."
+"No," muttered Demetrius ..., "not a king."
 
 "What is he then?" ...
 
-"I don't know," mumbled Demetrius ... , "but--he is something more important
-than a king." (_The Robe,_ Boston: Houghton Mifflin Co., 1947, p. 74.)
+"I don't know," mumbled Demetrius ..., "but--he is something more important than
+a king." (_The Robe,_ Boston: Houghton Mifflin Co., 1947, p. 74.)
 
 Jesus Christ is indeed more than a king; he is the Son of God, our Savior, our
 Redeemer, the author and finisher of our faith, King of kings, Lord of lords,
 Wonderful, Counselor, the Mighty God, the Everlasting Father, the Prince of
-Peace. (See [Heb.
-12:2](https://www.lds.org/scriptures/nt/heb/12.2?lang=eng#1); [Rev.
-17:14](https://www.lds.org/scriptures/nt/rev/17.14?lang=eng#13); [Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+Peace. (See [Heb. 12:2](/scriptures/nt/heb/12.2?lang=eng#1); [Rev.
+17:14](/scriptures/nt/rev/17.14?lang=eng#13); [Isa.
+9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 That is what the gospel is all about. Without him, without his intervention in
 our behalf, we would be helpless in the face of Adam's transgression. We are
 indeed saved by grace "through faith," (see [Eph.
-2:8](https://www.lds.org/scriptures/nt/eph/2.8?lang=eng#7)) or as Nephi wrote,
-"It is by grace that we are saved, after all we can do" ([2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22)).
+2:8](/scriptures/nt/eph/2.8?lang=eng#7)) or as Nephi wrote, "It is by grace
+that we are saved, after all we can do" ([2 Ne.
+25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22)).
 
 "All other things which pertain to our religion are only appendages" to the
 testimony of Jesus--his death, burial, resurrection, and ascension into
@@ -59,7 +58,7 @@ heaven. (_Teachings of the Prophet Joseph Smith,_ p. 121.)
 A little girl, misquoting the twenty-third Psalm, put everything in
 perspective. She said, "The Lord is my shepherd. That's all I want!" What more
 could anyone want? What could be more desirable than to "look unto [Jesus] in
-every thought"? ([D&amp;C 6:36](https://www.lds.org/scriptures/dc-
+every thought"? ([D&amp;C 6:36](/scriptures/dc-
 testament/dc/6.36?lang=eng#35).)
 
 As we ponder our relationship to our Savior, may I paint some sketches of him
@@ -70,18 +69,16 @@ He was born of Mary--he had the power to die. He was the firstborn of the
 Father, the Son of God--he had the power to live and the capacity to live
 perfectly. We know that Jesus "received not of the fulness at first, but
 continued from grace to grace, until he received a fulness." ([D&amp;C
-93:13](https://www.lds.org/scriptures/dc-testament/dc/93.13?lang=eng#12).)
+93:13](/scriptures/dc-testament/dc/93.13?lang=eng#12).)
 
 As a youth the Lord "increased in wisdom and stature, and in favour with God
-and man." ([Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51).) During this
+and man." ([Luke 2:52](/scriptures/nt/luke/2.52?lang=eng#51).) During this
 growth process, he suffered "temptations, and pain of body, hunger, thirst,
 and fatigue, even more than man can suffer." ([Mosiah
-3:7](https://www.lds.org/scriptures/bofm/mosiah/3.7?lang=eng#6).) He
-experienced all of these things "that his bowels may be filled with mercy,
-according to the flesh, that he may know according to the flesh how to succor
-his people according to their infirmities." ([Alma
-7:12](https://www.lds.org/scriptures/bofm/alma/7.12?lang=eng#11).) There is
+3:7](/scriptures/bofm/mosiah/3.7?lang=eng#6).) He experienced all of these
+things "that his bowels may be filled with mercy, according to the flesh, that
+he may know according to the flesh how to succor his people according to their
+infirmities." ([Alma 7:12](/scriptures/bofm/alma/7.12?lang=eng#11).) There is
 nothing we experience--no heartache or joy--that he has not experienced more
 intensely; and his response to such experiences was perfect. He thus
 established a pattern for our own lives.
@@ -103,8 +100,7 @@ Recall the pathos in one of Christ's greatest miracles, the raising of his
 friend Lazarus from the dead. The compassionate Savior responded to the pleas
 of his friends, but also delayed his coming in order to use the occasion to
 teach. "I am glad for your sakes," he said, "that I was not there, to the
-intent ye may believe." ([John
-11:15](https://www.lds.org/scriptures/nt/john/11.15?lang=eng#14).)
+intent ye may believe." ([John 11:15](/scriptures/nt/john/11.15?lang=eng#14).)
 
 The mourning Martha said with childlike faith:
 
@@ -120,25 +116,23 @@ the last day.
 
 "Jesus said unto her, I am the resurrection, and the life: he that believeth
 in me, though he were dead, yet shall he live." ([John
-11:21-25](https://www.lds.org/scriptures/nt/john/11.21-25?lang=eng#20).)
+11:21-25](/scriptures/nt/john/11.21-25?lang=eng#20).)
 
 Mary expressed similar feelings: "If thou hadst been here, my brother had not
-died." ([John
-11:32](https://www.lds.org/scriptures/nt/john/11.32?lang=eng#31).) And Jesus,
+died." ([John 11:32](/scriptures/nt/john/11.32?lang=eng#31).) And Jesus,
 seeing her and others weeping, "groaned in the spirit, and was troubled," and
 he himself wept. (See [John 11:33,
-35](https://www.lds.org/scriptures/nt/john/11.33%2C35?lang=eng#32).) The depth
-of caring and compassion is remarkable and warmly inviting. Jesus, with the
-word of faith and power, said simply, "Lazarus, come forth." ([John
-11:43](https://www.lds.org/scriptures/nt/john/11.43?lang=eng#42).) And Lazarus
-did. A life restored and irrefutable evidence of Christ's divinity forever
-established as a basis of faith.
+35](/scriptures/nt/john/11.33,35?lang=eng#32).) The depth of caring and
+compassion is remarkable and warmly inviting. Jesus, with the word of faith
+and power, said simply, "Lazarus, come forth." ([John
+11:43](/scriptures/nt/john/11.43?lang=eng#42).) And Lazarus did. A life
+restored and irrefutable evidence of Christ's divinity forever established as
+a basis of faith.
 
 ## Disciple of the Living Christ
 
 I exult with Paul: "O death, where is thy sting? O grave, where is thy
-victory?" ([1 Cor.
-15:55](https://www.lds.org/scriptures/nt/1-cor/15.55?lang=eng#54).) Christ has
+victory?" ([1 Cor. 15:55](/scriptures/nt/1-cor/15.55?lang=eng#54).) Christ has
 won the victory. Death is conquered; life--eternal life--reigns triumphant. We
 are disciples of the living Christ. Though his body was laid in a borrowed
 sepulcher, he was resurrected on the third day, appearing to many.
@@ -150,8 +144,7 @@ moments of profound sorrow; confused, knowing not where to turn, how to act.
 Your minds are clouded with mists of despair. Then two disciples join you with
 word that they have conversed with the Lord on the road to Emmaus. Dare you
 believe those who report, "The Lord is risen indeed, and hath appeared to
-Simon"? ([Luke
-24:34](https://www.lds.org/scriptures/nt/luke/24.34?lang=eng#33).)
+Simon"? ([Luke 24:34](/scriptures/nt/luke/24.34?lang=eng#33).)
 
 Luke recorded this remarkable event:
 
@@ -168,7 +161,7 @@ hearts?
 spirit hath not flesh and bones, as ye see me have.
 
 "And when he had thus spoken, he shewed them his hands and his feet." ([Luke
-24:36-40](https://www.lds.org/scriptures/nt/luke/24.36-40?lang=eng#35).)
+24:36-40](/scriptures/nt/luke/24.36-40?lang=eng#35).)
 
 That scene lives in my heart, for it heralds immortality for all of us. It
 assures us of continued life after death free from mortal pain and sorrow.
@@ -186,27 +179,26 @@ of grace and truth.
 "Behold he offereth himself a sacrifice for sin, to answer the ends of the
 law, unto all those who have a broken heart and a contrite spirit; and unto
 none else can the ends of the law be answered." ([2 Ne.
-2:6-7](https://www.lds.org/scriptures/bofm/2-ne/2.6-7?lang=eng#5).)
+2:6-7](/scriptures/bofm/2-ne/2.6-7?lang=eng#5).)
 
 His was a "great and last sacrifice," an "infinite and eternal sacrifice,"
 which none but the sinless Son of God could effect. ([Alma
-34:10](https://www.lds.org/scriptures/bofm/alma/34.10?lang=eng#9).)
+34:10](/scriptures/bofm/alma/34.10?lang=eng#9).)
 
 The way to eternal life has been cleared by the "way, the truth, and the
-life." ([John 14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).)
-Why should we not accept the invitation to salvation as phrased by Peter,
-"casting all your care upon him; for he careth for you." ([1 Pet.
-5:7](https://www.lds.org/scriptures/nt/1-pet/5.7?lang=eng#6).)
+life." ([John 14:6](/scriptures/nt/john/14.6?lang=eng#5).) Why should we not
+accept the invitation to salvation as phrased by Peter, "casting all your care
+upon him; for he careth for you." ([1 Pet.
+5:7](/scriptures/nt/1-pet/5.7?lang=eng#6).)
 
 ## His Commission
 
 "Wherefore, how great the importance to make these things known unto the
 inhabitants of the earth." ([2 Ne.
-2:8](https://www.lds.org/scriptures/bofm/2-ne/2.8?lang=eng#7).) Jesus
-displayed a missionary zeal, a fervent desire that all the children of God
-enjoy the blessings of his gospel. Isn't it interesting that the last chapter
-of each of the Gospels contains an appeal from the risen Lord to spread the
-gospel.
+2:8](/scriptures/bofm/2-ne/2.8?lang=eng#7).) Jesus displayed a missionary
+zeal, a fervent desire that all the children of God enjoy the blessings of his
+gospel. Isn't it interesting that the last chapter of each of the Gospels
+contains an appeal from the risen Lord to spread the gospel.
 
 On the wall of the main floor of the Church Office Building in Salt Lake City
 is a magnificent mural depicting Jesus Christ as a resurrected being standing
@@ -218,16 +210,15 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world. Amen." ([Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).)
+28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).)
 
 The Apostles who there stood with the Son of God responded to this call with
 faith, boldness, and power. We read that they were "all filled with the Holy
 Ghost, and they spake the word of God with boldness." ([Acts
-4:31](https://www.lds.org/scriptures/nt/acts/4.31?lang=eng#30).) They had seen
-a resurrected being, had eaten with him, had felt his hands and feet. They
-knew, and knowing, they testified: "For we cannot but speak the things which
-we have seen and heard." ([Acts
-4:20](https://www.lds.org/scriptures/nt/acts/4.20?lang=eng#19).)
+4:31](/scriptures/nt/acts/4.31?lang=eng#30).) They had seen a resurrected
+being, had eaten with him, had felt his hands and feet. They knew, and
+knowing, they testified: "For we cannot but speak the things which we have
+seen and heard." ([Acts 4:20](/scriptures/nt/acts/4.20?lang=eng#19).)
 
 Does that commission extend to us as his disciples? Perhaps we have not seen,
 in person, the risen Lord. But the testimony of his chosen witnesses is etched
@@ -236,8 +227,8 @@ Is there any question in the mind of any of us that this is one of the chief
 responsibilities we enjoy by reason of our membership in his Church? I began
 with Mormon's declaration, "I have been called of him to declare his word
 among his people, that they might have everlasting life." ([3 Ne.
-5:13](https://www.lds.org/scriptures/bofm/3-ne/5.13?lang=eng#12).) Such is the
-calling of each of us.
+5:13](/scriptures/bofm/3-ne/5.13?lang=eng#12).) Such is the calling of each of
+us.
 
 ## Give Yourself to Christ
 
@@ -262,8 +253,9 @@ I say, with Job, "I know that my redeemer liveth, and that he shall stand at
 the latter day upon the earth:
 
 "And though after my skin worms destroy this body, yet in my flesh shall I see
-God." ([Job
-19:25-26](https://www.lds.org/scriptures/ot/job/19.25-26?lang=eng#24).)
+God." ([Job 19:25-26](/scriptures/ot/job/19.25-26?lang=eng#24).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

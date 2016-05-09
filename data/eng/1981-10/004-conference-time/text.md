@@ -30,7 +30,7 @@ color, language, or religious belief. Turning to the scriptures, we read:
 "And he inviteth them all to come unto him and partake of his goodness; and he
 denieth none that come unto him, black and white, bond and free, male and
 female; and he remembereth the heathen; and all are alike unto God." ([2 Ne.
-26:33](https://www.lds.org/scriptures/bofm/2-ne/26.33?lang=eng#32).)
+26:33](/scriptures/bofm/2-ne/26.33?lang=eng#32).)
 
 We are reminded as we participate in conference of the deep commitment we have
 to our fellowmen, our brothers and sisters throughout the world. It is a
@@ -93,15 +93,15 @@ continues:
 "But the natural man receiveth not the things of the Spirit of God: for they
 are foolishness unto him: neither can he know them, because they are
 spiritually discerned." ([1 Cor.
-2:14](https://www.lds.org/scriptures/nt/1-cor/2.14?lang=eng#13).)
+2:14](/scriptures/nt/1-cor/2.14?lang=eng#13).)
 
 We have found, and know, that the only way to gain spiritual knowledge is to
 approach our Father in Heaven through the Holy Spirit in the name of Jesus
 Christ. When we do this, and if we are spiritually prepared, we see things our
 eyes have not previously seen, and we hear things we may not have previously
 heard--"the things which God hath prepared," using Paul's words. ([1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8).) These things we
-receive through the Spirit.
+2:9](/scriptures/nt/1-cor/2.9?lang=eng#8).) These things we receive through
+the Spirit.
 
 We believe, and testify to the world, that communication with our Father in
 Heaven and direction from the Lord are available today. We testify that God
@@ -129,7 +129,7 @@ these swelling motions, ye will begin to say within yourselves--It must needs
 be that this is a good seed, or that the word is good, for it beginneth to
 enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it
 beginneth to be delicious to me." ([Alma 32:22,
-27-28](https://www.lds.org/scriptures/bofm/alma/32.22%2C27-28?lang=eng#21).)
+27-28](/scriptures/bofm/alma/32.22,27-28?lang=eng#21).)
 
 To you who are seeking or questioning the great purposes of life--to you who
 are wondering why we are here on earth and what the Lord would have us
@@ -149,4 +149,6 @@ purposes of God shall be accomplished, and the Great Jehovah shall say the
 work is done." (_History of the Church,_ 4:540.)
 
 Of these things I testify, in the name of Jesus Christ, amen.
+
+## References
 

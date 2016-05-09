@@ -10,8 +10,7 @@ are accused of not being Christians, but such is not the case. In the words of
 the great prophet Nephi, "... we talk of Christ, we rejoice in Christ, we preach
 of Christ, we prophesy of Christ, and we write according to our prophecies,
 that our children may know to what source they may look for a remission of
-their sins." ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25).) We look
+their sins." ([2 Ne. 25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25).) We look
 to Christ as the Author and Finisher of our faith. He is our Redeemer.
 
 In the meridian of time, his church was established upon a foundation of
@@ -21,7 +20,7 @@ authority to act for him in all things with respect to the salvation of
 mankind. He knew he was not going to remain upon the earth for very long, for
 he so stated: "... the Son of man came not to be ministered unto, but to
 minister, and to give his life a ransom for many." ([Matt.
-20:28](https://www.lds.org/scriptures/nt/matt/20.28?lang=eng#27).)
+20:28](/scriptures/nt/matt/20.28?lang=eng#27).)
 
 Therefore, he needed men to remain here upon this earth who could receive
 communication from him from heaven, where he would be. This kind of
@@ -59,7 +58,7 @@ of the world;
 
 "That the fulness of my gospel might be proclaimed by the weak and the simple
 unto the ends of the world, and before kings and rulers." ([D&amp;C
-1:19-23](https://www.lds.org/scriptures/dc-testament/dc/1.19-23?lang=eng#18).)
+1:19-23](/scriptures/dc-testament/dc/1.19-23?lang=eng#18).)
 
 And so we have a new witness for God in modern America.
 
@@ -80,20 +79,18 @@ fullness of the gospel of Jesus Christ."
 This was in accordance with the teachings of the Master. To the Jews who were
 sure he had come to condemn and tear down their religion, he said: "Think not
 that I am come to destroy the law, or the prophets: I am not come to destroy,
-but to fulfil." ([Matt.
-5:17](https://www.lds.org/scriptures/nt/matt/5.17?lang=eng#16).) And again, he
-found no fault whatsoever with their _righteous _acts, for he said: "... these
-ought ye to have done, and not to leave the other undone." ([Matt.
-23:23](https://www.lds.org/scriptures/nt/matt/23.23?lang=eng#22).) And so we
-say to our Protestant friends.
+but to fulfil." ([Matt. 5:17](/scriptures/nt/matt/5.17?lang=eng#16).) And
+again, he found no fault whatsoever with their _righteous _acts, for he said:
+"... these ought ye to have done, and not to leave the other undone." ([Matt.
+23:23](/scriptures/nt/matt/23.23?lang=eng#22).) And so we say to our
+Protestant friends.
 
 To our Catholic friends who believe in salvation by grace through the
 sacraments of the church, we say, "We understand your emphasis on the
 sacraments or the ordinances of the church. We believe it too. Did not the
 Master say, 'Except a man be born of water and of the Spirit, he cannot enter
-into the kingdom of God' ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4))? Baptism by one
-who holds authority to act is essential to salvation.
+into the kingdom of God' ([John 3:5](/scriptures/nt/john/3.5?lang=eng#4))?
+Baptism by one who holds authority to act is essential to salvation.
 
 "But there is more to salvation than just the ordinances of the gospel. There
 are certain acts of faith that you must manifest. There are certain works you
@@ -128,7 +125,7 @@ trusting in me, reviling not against revilers.
 
 "And of tenets thou shalt not talk, but thou shalt declare repentance and
 faith on the Savior, and remission of sins by baptism, and by fire, yea, even
-the Holy Ghost." ([D&amp;C 19:29-31](https://www.lds.org/scriptures/dc-
+the Holy Ghost." ([D&amp;C 19:29-31](/scriptures/dc-
 testament/dc/19.29-31?lang=eng#28).)
 
 And so we go forth in love, for God, for our fellowmen, pleading with them to
@@ -139,15 +136,14 @@ and substance freely, paying their own way, to carry this message to their
 fellowmen.
 
 "And they shall go forth and none shall stay them, for I the Lord have
-commanded them." ([D&amp;C 1:5](https://www.lds.org/scriptures/dc-
-testament/dc/1.5?lang=eng#4).)
+commanded them." ([D&amp;C 1:5](/scriptures/dc-testament/dc/1.5?lang=eng#4).)
 
 And again he said, "... the voice of the Lord is unto all men, and there is none
 to escape; and there is no eye that shall not see, neither ear that shall not
-hear, neither heart that shall not be penetrated." ([D&amp;C
-1:2](https://www.lds.org/scriptures/dc-testament/dc/1.2?lang=eng#1).) It is a
-message of hope, for we declare that God our Heavenly Father lives, that he
-hears and answers prayers, that Jesus is the Christ, and that he lives.
+hear, neither heart that shall not be penetrated." ([D&amp;C 1:2](/scriptures
+/dc-testament/dc/1.2?lang=eng#1).) It is a message of hope, for we declare
+that God our Heavenly Father lives, that he hears and answers prayers, that
+Jesus is the Christ, and that he lives.
 
 He has reestablished his church upon the earth in our own day and time, and it
 is for all men, for all who will. And he has called special witnesses,
@@ -163,4 +159,6 @@ whose church it really is.
 And we bear this witness to you in all soberness, leaving you our love and our
 blessings, and our most fond affection. We love you, we want you, and we do it
 in the name of our Lord and Savior, Jesus Christ, who is our Redeemer. Amen.
+
+## References
 

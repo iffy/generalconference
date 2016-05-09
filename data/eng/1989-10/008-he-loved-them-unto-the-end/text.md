@@ -6,8 +6,7 @@ calling and opportunity to serve. There is no sufficient way to express either
 the sense of responsibility or feelings of inadequacy one has in being called
 to such a ministry. In these many weeks of self-examination, I have repeatedly
 felt, as Paul once wrote, "pressed out of measure, [and stretched] above
-strength." ([2 Cor.
-1:8](https://www.lds.org/scriptures/nt/2-cor/1.8?lang=eng#7).)
+strength." ([2 Cor. 1:8](/scriptures/nt/2-cor/1.8?lang=eng#7).)
 
 I also wish to express appreciation to my family, who have loved me, prayed
 for me, comforted and sustained me all of my life--as only a family can. They
@@ -34,21 +33,20 @@ As the sacred supper of that ultimate Passover was being prepared, Jesus was
 under the strain of deep and profound emotion. Only he knew what lay
 immediately ahead, but perhaps even he did not fully anticipate the depth of
 pain to which he must go before it could be said, "The Son of Man hath
-descended below them all." ([D&amp;C 122:8](https://www.lds.org/scriptures/dc-
+descended below them all." ([D&amp;C 122:8](/scriptures/dc-
 testament/dc/122.8?lang=eng#7).)
 
 In the midst of this meal and such thoughts, Christ quietly arose, girded
 himself as a slave or servant would, and knelt to wash the Apostles' feet.
-(See [John
-13:3-17](https://www.lds.org/scriptures/nt/john/13.3-17?lang=eng#2).) This
-small circle of believers in this scarcely founded kingdom were about to pass
+(See [John 13:3-17](/scriptures/nt/john/13.3-17?lang=eng#2).) This small
+circle of believers in this scarcely founded kingdom were about to pass
 through their severest trial, so he would set aside his own increasing anguish
 in order that he might yet once more serve and strengthen them. It does not
 matter that no one washed his feet. In transcendent humility he would continue
 to teach and to cleanse them. He would to the final hour--and beyond--be their
 sustaining servant. As John wrote, who was there and watched the wonder of it
 all, "Having loved his own which were in the world, he loved them unto the
-end." ([John 13:1](https://www.lds.org/scriptures/nt/john/13.1?lang=eng#0).)
+end." ([John 13:1](/scriptures/nt/john/13.1?lang=eng#0).)
 
 So it had been, and so it was to be--through the night, and through the pain,
 and forever. He would _always_ be their strength, and no anguish in his own
@@ -59,13 +57,12 @@ heartfelt grief, every crushing wrong and human hurt experienced by every man,
 woman, and child in the human family was to be heaped upon his weary
 shoulders. But in such a moment, when someone might have said it to him, he
 rather says to us, "Let not your heart be troubled, neither let it be afraid."
-([John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 "Ye shall be sorrowful," he said--sad, lonely, frightened, and sometimes even
 persecuted, "_but your sorrow shall be turned into joy. ... _ Be of good cheer;
 I have overcome the world." ([John 16:20,
-33](https://www.lds.org/scriptures/nt/john/16.20%2C33?lang=eng#19); italics
-added.)
+33](/scriptures/nt/john/16.20,33?lang=eng#19); italics added.)
 
 How can he speak that way? Of good cheer and joy? On a night like this? With
 the pain he knew was just ahead? But those are the blessings he always
@@ -75,15 +72,14 @@ We cannot know to what extent his disciples fully understood the approaching
 events, but we do know that Christ faced his final moments alone. In one of
 the truly candid comments he would make to his brethren, he said, "My soul is
 exceeding sorrowful, even unto death." ([Matt.
-26:38](https://www.lds.org/scriptures/nt/matt/26.38?lang=eng#37).) And he left
-them to do what only he could do. The Light of the World stepped away from
-human company and entered the garden grove to wrestle with the prince of
-darkness alone. Moving forward, kneeling, falling forward on his face, he
-cried with an anguish you and I will never know, "O my Father, if it be
-possible, let this cup pass from me." ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).) But he
-knew, for our sakes, that it could not pass and that he must drink that bitter
-cup to the dregs!
+26:38](/scriptures/nt/matt/26.38?lang=eng#37).) And he left them to do what
+only he could do. The Light of the World stepped away from human company and
+entered the garden grove to wrestle with the prince of darkness alone. Moving
+forward, kneeling, falling forward on his face, he cried with an anguish you
+and I will never know, "O my Father, if it be possible, let this cup pass from
+me." ([Matt. 26:39](/scriptures/nt/matt/26.39?lang=eng#38).) But he knew, for
+our sakes, that it could not pass and that he must drink that bitter cup to
+the dregs!
 
 His disciples, understandably, were weary and soon fell asleep. What of
 Christ's sleep? What of his fatigue? What rest or slumber will sustain him
@@ -94,29 +90,27 @@ nor fail us.
 Even in crucifixion he would reign with the benevolence and bearing of a King.
 Of those who rend his flesh and spill his blood he says, "Father, forgive
 them; for they know not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).) And to the
-penitent thief at his side he gently promises paradise. To his beloved mother
-he is unable to make any caring gesture with his hands. So he simply looks at
-her and says, "Woman, behold thy son!" Then commending to John her future
-care, he declares, "Behold thy mother!" ([John
-19:26-27](https://www.lds.org/scriptures/nt/john/19.26-27?lang=eng#25).) He
-would be concerned for others--but especially for her--to the very end.
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).) And to the penitent thief at
+his side he gently promises paradise. To his beloved mother he is unable to
+make any caring gesture with his hands. So he simply looks at her and says,
+"Woman, behold thy son!" Then commending to John her future care, he declares,
+"Behold thy mother!" ([John
+19:26-27](/scriptures/nt/john/19.26-27?lang=eng#25).) He would be concerned
+for others--but especially for her--to the very end.
 
 Because he must ultimately tread this winepress of redemption unaided, can he
 endure the darkest moment of them all, the shock of the greatest pain? This
 comes not with thorns and with nails, but with the terror of feeling utterly
 alone: "Eloi, Eloi, lama sabachthani? ... My God, my God, why hast thou forsaken
-me?" ([Mark 15:34](https://www.lds.org/scriptures/nt/mark/15.34?lang=eng#33).)
-Can he bear all of our sins _and_ our fear and loneliness too? He did and he
-does and he will.
+me?" ([Mark 15:34](/scriptures/nt/mark/15.34?lang=eng#33).) Can he bear all of
+our sins _and_ our fear and loneliness too? He did and he does and he will.
 
 We do not know how such great sorrow can be borne, but it is no wonder the sun
 hid its face in shame. No wonder the veil of the temple was rent. No wonder
 the very earth convulsed at the plight of this perfect child. And at least one
 Roman centurion who saw all of this sensed something of what it had meant. In
 awe, he uttered the declaration for all eternity, "Truly this was the Son of
-God." ([Matt.
-27:54](https://www.lds.org/scriptures/nt/matt/27.54?lang=eng#53).)
+God." ([Matt. 27:54](/scriptures/nt/matt/27.54?lang=eng#53).)
 
 Life has its share of some fear and some failure. Sometimes things fall short,
 don't quite measure up. Sometimes in both personal and public life, we are
@@ -135,17 +129,17 @@ world. ...
 
 "Now I know," he writes, "that this love which thou hast had for the children
 of men is charity." ([Ether
-12:33-34](https://www.lds.org/scriptures/bofm/ether/12.33-34?lang=eng#32).)
+12:33-34](/scriptures/bofm/ether/12.33-34?lang=eng#32).)
 
 Having watched a dispensation die and an entire civilization destroy itself,
 Moroni quotes his father for any who will listen in some later ("latter") day,
 "If ye have not charity, ye are nothing." ([Moro.
-7:46](https://www.lds.org/scriptures/bofm/moro/7.46?lang=eng#45).) Only the
-pure love of Christ will see us through. It is Christ's love which suffereth
-long, and is kind. It is Christ's love which is not puffed up nor easily
-provoked. Only his pure love enables him--and us--to bear all things, believe
-all things, hope all things, and endure all things. (See [Moro.
-7:45](https://www.lds.org/scriptures/bofm/moro/7.45?lang=eng#44).)
+7:46](/scriptures/bofm/moro/7.46?lang=eng#45).) Only the pure love of Christ
+will see us through. It is Christ's love which suffereth long, and is kind. It
+is Christ's love which is not puffed up nor easily provoked. Only his pure
+love enables him--and us--to bear all things, believe all things, hope all
+things, and endure all things. (See [Moro.
+7:45](/scriptures/bofm/moro/7.45?lang=eng#44).)
 
 _Oh, love effulgent, love divine!_
 
@@ -160,4 +154,6 @@ end. His pure love never fails us. Not now. Not ever. Not ever.
 
 Of that divine sustaining vote for all of us I testify in this, his true and
 living Church, in the name of Jesus Christ, amen.
+
+## References
 

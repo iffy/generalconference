@@ -6,10 +6,10 @@ many years, as they now enter into an even deeper friendship.
 One of the great blessings flowing from amplifying, latter-day revelations is
 the crucial, doctrinal framework known as the marvelous plan of salvation, the
 plan of happiness, or the plan of mercy. (See [Alma 42:5, 8,
-15](https://www.lds.org/scriptures/bofm/alma/42.5%2C8%2C15?lang=eng#4).)
-However designated, it represents what Amulek called the "great plan of the
-Eternal God" without which mankind would unavoidably perish. ([Alma
-34:9](https://www.lds.org/scriptures/bofm/alma/34.9?lang=eng#8).)
+15](/scriptures/bofm/alma/42.5,8,15?lang=eng#4).) However designated, it
+represents what Amulek called the "great plan of the Eternal God" without
+which mankind would unavoidably perish. ([Alma
+34:9](/scriptures/bofm/alma/34.9?lang=eng#8).)
 
 The plan is a most stunning example of the precious perspective of the gospel
 of Jesus Christ. Furthermore, full faith in the Lord Jesus Christ includes and
@@ -24,41 +24,34 @@ provinciality and misery. In fact, most human misery represents ignorance of
 or noncompliance with the plan. A cessation of such mortal suffering will not
 come without compliance to it. Hence, the Lord, who has freely shared this
 vital knowledge with us, has urged us to teach the fundamentals of this plan
-"freely." ([Moses
-6:58](https://www.lds.org/scriptures/pgp/moses/6.58?lang=eng#57).)
+"freely." ([Moses 6:58](/scriptures/pgp/moses/6.58?lang=eng#57).)
 
 At the center of the Father's plan is Jesus Christ, mankind's Redeemer. Yet,
 as foreseen, many judge Jesus "to be a thing of naught" ([1 Ne.
-19:9](https://www.lds.org/scriptures/bofm/1-ne/19.9?lang=eng#8)), or "consider
-him" merely "a man." ([Mosiah
-3:9](https://www.lds.org/scriptures/bofm/mosiah/3.9?lang=eng#8).) Whether
-others deny or delimit Jesus, for us He is our Lord and Savior! Comparatively,
+19:9](/scriptures/bofm/1-ne/19.9?lang=eng#8)), or "consider him" merely "a
+man." ([Mosiah 3:9](/scriptures/bofm/mosiah/3.9?lang=eng#8).) Whether others
+deny or delimit Jesus, for us He is our Lord and Savior! Comparatively,
 brothers and sisters, it matters very little what people think of us, but it
 matters very much what we think of Him. It matters very little, too, who
 others say we are; what matters is who we say Jesus is. (See [Matt.
-16:13-17](https://www.lds.org/scriptures/nt/matt/16.13-17?lang=eng#12).)
+16:13-17](/scriptures/nt/matt/16.13-17?lang=eng#12).)
 
 For instance, we appreciate not only the towering divinity of Jesus Christ,
 but His breathtaking mobility and the scope of His shepherding. The
 resurrected Jesus revisited the Middle East scene of His mortal messiahship.
 Then some souls in the Americas. (See [3 Ne
-11](https://www.lds.org/scriptures/bofm/3-ne/11.title?lang=eng).) And then His
-other lost sheep. (See [3 Ne.
-17:4](https://www.lds.org/scriptures/bofm/3-ne/17.4?lang=eng#3).)
+11](/scriptures/bofm/3-ne/11?lang=eng).) And then His other lost sheep. (See
+[3 Ne. 17:4](/scriptures/bofm/3-ne/17.4?lang=eng#3).)
 
 In His selfless plan, the Lord doeth nothing save it be for the benefit of the
-children of men. (See [2 Ne.
-26:24](https://www.lds.org/scriptures/bofm/2-ne/26.24?lang=eng#23).) He
-labors, lovingly and constantly, as Moses and Jeremiah declared, "for our good
-always." ([Deut.
-6:24](https://www.lds.org/scriptures/ot/deut/6.24?lang=eng#23); see also [Jer.
-32: 38-40](https://www.lds.org/scriptures/ot/jer/32.title?lang=eng).) In His
-grand design, His "work" and "glory" are "to bring to pass the immortality and
-eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) Thus, even
-when we truly learn to love God, we must humbly acknowledge that He loved us
-first. (See [1 Jn.
-4:19](https://www.lds.org/scriptures/nt/1-jn/4.19?lang=eng#18).)
+children of men. (See [2 Ne. 26:24](/scriptures/bofm/2-ne/26.24?lang=eng#23).)
+He labors, lovingly and constantly, as Moses and Jeremiah declared, "for our
+good always." ([Deut. 6:24](/scriptures/ot/deut/6.24?lang=eng#23); see also
+[Jer. 32: 38-40](/scriptures/ot/jer/32?lang=eng).) In His grand design, His
+"work" and "glory" are "to bring to pass the immortality and eternal life of
+man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) Thus, even when
+we truly learn to love God, we must humbly acknowledge that He loved us first.
+(See [1 Jn. 4:19](/scriptures/nt/1-jn/4.19?lang=eng#18).)
 
 Meanwhile, Shakespeare was not very wide of the mark in writing, "All the
 world's a stage." (_As You Like It,_ act 2, scene 7.) But not for playacting!
@@ -69,14 +62,13 @@ desperately needed by the confused and despairing on the world's stage.
 The "plan of happiness" not only ensures the immortalization of our individual
 identities, but can yield bettered and reborn individuals. Fittingly, one
 appreciative prophet declared, "O how great the plan of our God!" ([2 Ne.
-9:13](https://www.lds.org/scriptures/bofm/2-ne/9.13?lang=eng#12).) Enoch wept
-when he saw the sweep of history and the unnecessary human misery. (See [Moses
-7:41](https://www.lds.org/scriptures/pgp/moses/7.41?lang=eng#40).) But he also
-saw the triumph of God's plan. Another prophet exclaimed: "God ... made these
-things known unto us that we might not perish ... because he loveth our souls ...
-; therefore, in his mercy he doth visit us by his angels, that the plan of
-salvation might be made known unto us." ([Alma
-24:14](https://www.lds.org/scriptures/bofm/alma/24.14?lang=eng#13).)
+9:13](/scriptures/bofm/2-ne/9.13?lang=eng#12).) Enoch wept when he saw the
+sweep of history and the unnecessary human misery. (See [Moses
+7:41](/scriptures/pgp/moses/7.41?lang=eng#40).) But he also saw the triumph of
+God's plan. Another prophet exclaimed: "God ... made these things known unto us
+that we might not perish ... because he loveth our souls ... ; therefore, in his
+mercy he doth visit us by his angels, that the plan of salvation might be made
+known unto us." ([Alma 24:14](/scriptures/bofm/alma/24.14?lang=eng#13).)
 
 It took visits by angels in our day, too, in order to instruct us anew
 regarding God's plan of salvation and to reassure us that mortality is not a
@@ -84,18 +76,17 @@ conclusive and massive mausoleum, and that death is not extinction.
 
 Alma faced an awful and anguished moment when he felt that he might actually
 "become extinct both soul and body." ([Alma
-36:15](https://www.lds.org/scriptures/bofm/alma/36.15?lang=eng#14).) Then he
-remembered his father's prophecies "concerning the coming of one Jesus Christ,
-a Son of God, to atone for the sins of the world." ([Alma
-36:17](https://www.lds.org/scriptures/bofm/alma/36.17?lang=eng#16).) In a
-moment of deep intellectual humility, his "mind caught hold upon this
-thought." Out came Alma's great soul cry: "O Jesus, thou Son of God, have
-mercy on me"! ([Alma
-36:18](https://www.lds.org/scriptures/bofm/alma/36.18?lang=eng#17).)
+36:15](/scriptures/bofm/alma/36.15?lang=eng#14).) Then he remembered his
+father's prophecies "concerning the coming of one Jesus Christ, a Son of God,
+to atone for the sins of the world." ([Alma
+36:17](/scriptures/bofm/alma/36.17?lang=eng#16).) In a moment of deep
+intellectual humility, his "mind caught hold upon this thought." Out came
+Alma's great soul cry: "O Jesus, thou Son of God, have mercy on me"! ([Alma
+36:18](/scriptures/bofm/alma/36.18?lang=eng#17).)
 
 Purpose replaced pain. Joy swallowed up despair as Alma apparently viewed God
 upon His throne, and he longed to join God! (See [Alma
-36:22](https://www.lds.org/scriptures/bofm/alma/36.22?lang=eng#21).)
+36:22](/scriptures/bofm/alma/36.22?lang=eng#21).)
 
 Such longing for a heavenly home is real, especially in view of how this life
 is designed. After all, brothers and sisters, when we rejoice in beautiful
@@ -116,11 +107,10 @@ individual development.
 Redemptive and refining provisions are made: For a brave Peter faltering and
 sinking on the churning waves--and yet knowing to whom to look to live, and
 crying out, "Lord, save me." ([Matt.
-14:30](https://www.lds.org/scriptures/nt/matt/14.30?lang=eng#29).) For a meek
-Moses struggling with people, fatigued and with all the burdens of leadership.
-(See [Num. 11:11, 14,
-29](https://www.lds.org/scriptures/ot/num/11.11%2C14%2C29?lang=eng#10).) For a
-Jonah seeking to substitute Tarshish, but still reaching Nineveh and, thereby,
+14:30](/scriptures/nt/matt/14.30?lang=eng#29).) For a meek Moses struggling
+with people, fatigued and with all the burdens of leadership. (See [Num.
+11:11, 14, 29](/scriptures/ot/num/11.11,14,29?lang=eng#10).) For a Jonah
+seeking to substitute Tarshish, but still reaching Nineveh and, thereby,
 receiving a great lesson in compassion. For erring Oliver Cowdery, Martin
 Harris, and Thomas B. Marsh to recover their spiritual poise and vote with
 their feet by traveling westward to rejoin, in reconciliation, and to sustain
@@ -147,7 +137,7 @@ beginning. But God does. Meanwhile, we are in what might be called "the murky
 middle." Therein, however, we can still truly know that God loves us,
 individually and perfectly, even though we cannot always explain the meaning
 of all things happening to us or around us. (See [1 Ne.
-11:17](https://www.lds.org/scriptures/bofm/1-ne/11.17?lang=eng#16).)
+11:17](/scriptures/bofm/1-ne/11.17?lang=eng#16).)
 
 Enclosed in this mortal cocoon, or classroom, we would be totally provincial
 in outlook except for faith in, and knowledge of, the "great plan of the
@@ -172,7 +162,7 @@ With an understanding of God's plan of salvation, we know that the rejoicing,
 the striving, the suffering, the tutoring, and the enduring experiences of
 life all play their part in an intelligible process of helping us, if we will,
 to become, as the Savior beckoningly invited, "even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 This individual development sometimes requires the march of a Zion's Camp, or
 an arduous Hole in the Rock trek, or special classrooms like the settlements
@@ -188,27 +178,26 @@ Even with all of its interior consistency, however, the plan cannot bring true
 happiness to anyone whose life is grossly inconsistent with its standards. It
 cannot fully enfold him who is too worried about being taken in. It has no
 place of honor for one too concerned with losing his place in the secular
-synagogue. (See [John
-12:42-43](https://www.lds.org/scriptures/nt/john/12.42-43?lang=eng#41).)
+synagogue. (See [John 12:42-43](/scriptures/nt/john/12.42-43?lang=eng#41).)
 
 Though the plan reflects a caring Father and a Savior, believers in the plan
 are not automatically immune to the consuming cares of the world.
 
 The plan places a striking emphasis on present human freedom to choose. (See
-[2 Ne. 2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26).) Yet
-some of our present circumstances may reflect previous agreements, now
-forgotten, but once freely made.
+[2 Ne. 2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26).) Yet some of our present
+circumstances may reflect previous agreements, now forgotten, but once freely
+made.
 
 The plan always points the way, but does not always smooth the way, since
 individual development requires an "opposition in all things." ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10).)
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10).)
 
 The Lord will give us the needed intellectual and spiritual confirmation
 concerning His plan, but on His terms and in His own way.
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself." ([John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16).)
+7:17](/scriptures/nt/john/7.17?lang=eng#16).)
 
 Truly, of all the errors mortals could make, God's plan of salvation is the
 wrong thing to be wrong about!
@@ -224,11 +213,10 @@ And why not? It is God's plan--not ours! And, given the unimpressive outcomes
 of man's plans to solve the world's problems, aren't we glad! Furthermore, of
 all the things about which we might converse, as Jacob wrote, "Why not speak
 of the atonement of Christ?" ([Jacob
-4:12](https://www.lds.org/scriptures/bofm/jacob/4.12?lang=eng#11).) Why not,
-brothers and sisters? This event arches over all of human history, as a
-Redeeming God and Savior Son pressed onward with the great plan of happiness.
-Yes, in the plan, God would have us be happy, but first we had to be free to
-choose.
+4:12](/scriptures/bofm/jacob/4.12?lang=eng#11).) Why not, brothers and
+sisters? This event arches over all of human history, as a Redeeming God and
+Savior Son pressed onward with the great plan of happiness. Yes, in the plan,
+God would have us be happy, but first we had to be free to choose.
 
 God's gift to us of this moral agency tells us wonderful things about His
 beneficial and developmental purposes. Our abuse of that agency tells us awful
@@ -239,7 +227,7 @@ celebrations of compassion, striking selflessness, and quiet and constant
 heroism among people of all creeds and colors and cultures.
 
 This should not surprise us. After all, whose spirit children are we? (See
-[Heb. 12:9](https://www.lds.org/scriptures/nt/heb/12.9?lang=eng#8).)
+[Heb. 12:9](/scriptures/nt/heb/12.9?lang=eng#8).)
 
 Unsurprisingly, therefore, this mortal school produces some soaring triumphs
 but also a history filled with individual mistakes. But we should not blame
@@ -251,24 +239,24 @@ the last days would be a picnic in the park.
 
 Former periods of stress can guide us. When the earlier coming of Jesus was
 imminent, signs abounded. Still, for some, there were "doubtings." ([3 Ne.
-8:4](https://www.lds.org/scriptures/bofm/3-ne/8.4?lang=eng#3).) But the
-faithful prevailed and were vindicated.
+8:4](/scriptures/bofm/3-ne/8.4?lang=eng#3).) But the faithful prevailed and
+were vindicated.
 
 There were determined detractors then, mocking the faith of believers, briefly
 creating "a great uproar," even rejoicing over the seeming prospect that the
 faith of Christ's followers would be in vain. (See [3 Ne.
-1:5-7](https://www.lds.org/scriptures/bofm/3-ne/1.5-7?lang=eng#4).) It was
-not. Members kept the faith, and the faith kept them!
+1:5-7](/scriptures/bofm/3-ne/1.5-7?lang=eng#4).) It was not. Members kept the
+faith, and the faith kept them!
 
 For today's spiritually attuned, the reassurances will be there, as with
 Elisha's young servant. Encircled by an outnumbering enemy, the young man
 rightly sought reassurance from the prophet and seer, who told him, "Fear not:
 for they that be with us are more than they that be with them." ([2 Kgs.
-6:16](https://www.lds.org/scriptures/ot/2-kgs/6.16?lang=eng#15).) But the
-young man could count, and, clearly, it did not look that way to him--until
-after the prophet's prayer in his behalf. Then, the young man's eyes were
-opened, and he saw the mountain filled with horses and chariots of fire. (See
-[2 Kgs. 6:17](https://www.lds.org/scriptures/ot/2-kgs/6.17?lang=eng#16).)
+6:16](/scriptures/ot/2-kgs/6.16?lang=eng#15).) But the young man could count,
+and, clearly, it did not look that way to him--until after the prophet's
+prayer in his behalf. Then, the young man's eyes were opened, and he saw the
+mountain filled with horses and chariots of fire. (See [2 Kgs.
+6:17](/scriptures/ot/2-kgs/6.17?lang=eng#16).)
 
 All will be well now, as anciently, because the Lord's covenant keepers have
 His echoing assurance:
@@ -280,8 +268,10 @@ for the good of them, and of their children after them:
 
 "And I will make an everlasting covenant with them, that I will not turn away
 from them, to do them good." ([Jer.
-32:38-40](https://www.lds.org/scriptures/ot/jer/32.38-40?lang=eng#37).)
+32:38-40](/scriptures/ot/jer/32.38-40?lang=eng#37).)
 
 I so testify and assure in Apostolic authority and in the holy name of Jesus
 Christ, amen.
+
+## References
 

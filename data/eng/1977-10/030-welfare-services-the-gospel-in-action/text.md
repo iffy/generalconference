@@ -1,4 +1,4 @@
-# Welfare Services: The Gospel in Action
+# Welfare Services:The Gospel in Action
 
 Singing this song ["Improve the Shining Moments"] takes me back some
 generations. My beloved mother, who died early in my life, used to hum this
@@ -27,10 +27,10 @@ I am constrained to agree with President Romney's assessment of this, when in
 an instructional session of General Authorities several years ago he stated:
 
 "As 'There arose up a new king over Egypt, which knew not Joseph' ([Ex.
-1:8](https://www.lds.org/scriptures/ot/ex/1.8?lang=eng#7)), so there has
-arisen in the Church a new generation of bishops and stake presidents who have
-not been taught and trained as were their predecessors." (Marion G. Romney,
-_The Basics of Church Welfare,_ March 6, 1974.)
+1:8](/scriptures/ot/ex/1.8?lang=eng#7)), so there has arisen in the Church a
+new generation of bishops and stake presidents who have not been taught and
+trained as were their predecessors." (Marion G. Romney, _The Basics of Church
+Welfare,_ March 6, 1974.)
 
 Because of the overriding significance of this great welfare plan, I thought
 it appropriate to restate the fundamental truths of this work and to emphasize
@@ -45,7 +45,7 @@ mountains, and upon the high places, and did flourish.
 
 "And the Lord called his people ZION, because they were of one heart and one
 mind, and dwelt in righteousness; and there was no poor among them." ([Moses
-7:17-18](https://www.lds.org/scriptures/pgp/moses/7.17-18?lang=eng#16).)
+7:17-18](/scriptures/pgp/moses/7.17-18?lang=eng#16).)
 
 All through the Book of Mormon we see leaders teaching and generations
 learning this truth as spoken by that benevolent king, Benjamin:
@@ -56,7 +56,7 @@ may walk guiltless before God--I would that ye should impart of your substance
 to the poor, every man according to that which he hath, such as feeding the
 hungry, clothing the naked, visiting the sick and administering to their
 relief, both spiritually and temporally, according to their wants." ([Mosiah
-4:26](https://www.lds.org/scriptures/bofm/mosiah/4.26?lang=eng#25).)
+4:26](/scriptures/bofm/mosiah/4.26?lang=eng#25).)
 
 In Fourth Nephi we witness the blessings of the Nephites as they subdue
 selfishness and prosper in perfect righteousness for four generations. Who
@@ -69,8 +69,7 @@ heavenly gift. ...
 "And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor
 lyings, nor murders, nor any manner of lasciviousness; and surely there could
 not be a happier people among all the people who had been created by the hand
-of God." ([4 Ne. 1:3,
-16](https://www.lds.org/scriptures/bofm/4-ne/1.3%2C16?lang=eng#2).)
+of God." ([4 Ne. 1:3, 16](/scriptures/bofm/4-ne/1.3,16?lang=eng#2).)
 
 It is now nearly four generations ago in this, the last dispensation, that the
 Lord again laid down his precepts for modern Zion when he said:
@@ -87,8 +86,7 @@ there--and looketh upon his sons and saith I am just?
 
 "Behold, this I have given unto you as a parable, and it is even as I am. I
 say unto you, be one; and if ye are not one ye are not mine." ([D&amp;C
-38:24-27](https://www.lds.org/scriptures/dc-
-testament/dc/38.24-27?lang=eng#23).)
+38:24-27](/scriptures/dc-testament/dc/38.24-27?lang=eng#23).)
 
 President Joseph F. Smith foreshadowed the reestablishment of welfare work in
 1900 when he reminded us:
@@ -162,41 +160,34 @@ for the poor and the distressed.
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33); see
-[Moro. 7:44-48](https://www.lds.org/scriptures/bofm/moro/7.44-48?lang=eng#43)
-and [Luke
-10:25-37](https://www.lds.org/scriptures/nt/luke/10.25-37?lang=eng#24), [Luke
-14:12-14](https://www.lds.org/scriptures/nt/luke/14.12-14?lang=eng#11).)
+another." ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33); see
+[Moro. 7:44-48](/scriptures/bofm/moro/7.44-48?lang=eng#43) and [Luke
+10:25-37](/scriptures/nt/luke/10.25-37?lang=eng#24), [Luke
+14:12-14](/scriptures/nt/luke/14.12-14?lang=eng#11).)
 
 Second is _service._ To serve is to abase oneself, to succor those in need of
 succor, and to impart of one's "substance to the poor and the needy, feeding
 the hungry, and suffering all manner of afflictions, for Christ's sake."
-([Alma 4:13](https://www.lds.org/scriptures/bofm/alma/4.13?lang=eng#12).)
+([Alma 4:13](/scriptures/bofm/alma/4.13?lang=eng#12).)
 
 "Pure religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself unspotted from
-the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+the world." ([James 1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 Third is _work._ Work brings happiness, self-esteem, and prosperity. It is the
 means of all accomplishment; it is the opposite of idleness. We are commanded
-to work. (See [Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18).) Attempts to
+to work. (See [Gen. 3:19](/scriptures/ot/gen/3.19?lang=eng#18).) Attempts to
 obtain our temporal, social, emotional, or spiritual well-being by means of a
 dole violate the divine mandate that we should work for what we receive. Work
 should be the ruling principle in the lives of our Church membership. (See
-[D&amp;C 42:42](https://www.lds.org/scriptures/dc-
-testament/dc/42.42?lang=eng#41); [D&amp;C
-75:29](https://www.lds.org/scriptures/dc-testament/dc/75.29?lang=eng#28);
-[D&amp;C 68:30-32](https://www.lds.org/scriptures/dc-
-testament/dc/68.30-32?lang=eng#29); [D&amp;C
-56:17](https://www.lds.org/scriptures/dc-testament/dc/56.17?lang=eng#16).)
+[D&amp;C 42:42](/scriptures/dc-testament/dc/42.42?lang=eng#41); [D&amp;C
+75:29](/scriptures/dc-testament/dc/75.29?lang=eng#28); [D&amp;C
+68:30-32](/scriptures/dc-testament/dc/68.30-32?lang=eng#29); [D&amp;C
+56:17](/scriptures/dc-testament/dc/56.17?lang=eng#16).)
 
 Fourth is _self-reliance._ The Church and its members are commanded by the
-Lord to be self-reliant and independent. (See [D&amp;C
-78:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/78.13-14?lang=eng#12).)
+Lord to be self-reliant and independent. (See [D&amp;C 78:13-14](/scriptures
+/dc-testament/dc/78.13-14?lang=eng#12).)
 
 The responsibility for each person's social, emotional, spiritual, physical,
 or economic well-being rests first upon himself, second upon his family, and
@@ -206,8 +197,7 @@ No true Latter-day Saint, while physically or emotionally able will
 voluntarily shift the burden of his own or his family's well-being to someone
 else. So long as he can, under the inspiration of the Lord and with his own
 labors, he will supply himself and his family with the spiritual and temporal
-necessities of life. (See [1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).)
+necessities of life. (See [1 Tim. 5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).)
 
 Fifth is _consecration,_ which encompasses sacrifice. Consecration is the
 giving of one's time, talents, and means to care for those in need--whether
@@ -221,10 +211,9 @@ we give of ourselves. (See _Ensign, _June 1976, pp. 3-6.)
 Sixth is _stewardship._ In the Church a stewardship is a sacred spiritual or
 temporal trust for which there is accountability. Because all things belong to
 the Lord, we are stewards over our bodies, minds, families, and properties.
-(See [D&amp;C 104:11-15](https://www.lds.org/scriptures/dc-
-testament/dc/104.11-15?lang=eng#10).) A faithful steward is one who exercises
-righteous dominion, cares for his own, and looks to the poor and needy. (See
-[D&amp;C 104:15-18](https://www.lds.org/scriptures/dc-
+(See [D&amp;C 104:11-15](/scriptures/dc-testament/dc/104.11-15?lang=eng#10).)
+A faithful steward is one who exercises righteous dominion, cares for his own,
+and looks to the poor and needy. (See [D&amp;C 104:15-18](/scriptures/dc-
 testament/dc/104.15-18?lang=eng#14).)
 
 These principles govern welfare services activities. May we all learn, obey,
@@ -234,12 +223,12 @@ ideal of Zion.
 
 _Zion_ is a name given by the Lord to his covenant people, who are
 characterized by purity of heart and faithfulness in caring for the poor, the
-needy, and the distressed. (See [D&amp;C 97:21](https://www.lds.org/scriptures
-/dc-testament/dc/97.21?lang=eng#20).)
+needy, and the distressed. (See [D&amp;C 97:21](/scriptures/dc-
+testament/dc/97.21?lang=eng#20).)
 
 "And the Lord called his people Zion, because they were of one heart and one
 mind, and dwelt in righteousness; and there was no poor among them." ([Moses
-7:18](https://www.lds.org/scriptures/pgp/moses/7.18?lang=eng#17).)
+7:18](/scriptures/pgp/moses/7.18?lang=eng#17).)
 
 This highest order of priesthood society is founded on the doctrines of love,
 service, work, self-reliance, and stewardship, all of which are circumscribed
@@ -292,9 +281,8 @@ because we are obedient to the counsels of the Lord. In this spirit we will be
 prepared for most eventualities, and the Lord will prosper and comfort us. It
 is true that difficult times will come--for the Lord has foretold them--and,
 yes, stakes of Zion are "for a defense, and for a refuge from the storm."
-([D&amp;C 115:6](https://www.lds.org/scriptures/dc-
-testament/dc/115.6?lang=eng#5).) But if we live wisely and providently, we
-will be as safe as in the palm of His hand.
+([D&amp;C 115:6](/scriptures/dc-testament/dc/115.6?lang=eng#5).) But if we
+live wisely and providently, we will be as safe as in the palm of His hand.
 
 I hope that in our priesthood quorums and Relief Society meetings the concepts
 of personal and family preparedness are being properly taught and with the
@@ -326,15 +314,11 @@ welfare activities--sometimes referred to as Church preparedness but perhaps
 better understood as the Storehouse Resource System--let me emphasize briefly
 several points.
 
-  1. Make adequate provision for those who receive Church assistance to work or serve, according to their ability, for what they receive.
-
-  2. Use good judgment in acquiring and managing your welfare production project. Be businesslike and frugal, recognizing that we are growing people--both givers and receivers--more than food and merchandise.
-
-  3. Follow the Spirit in knowing to what extent individuals and families can and should care for themselves on their own.
-
-  4. Use local resource persons to the fullest extent possible.
-
-  5. Finally, regularly hold effective Welfare Committee meetings at all administrative levels.
+  1. Make adequate provision for those who receive Church assistance to work or serve, according to their ability, for what they receive. 
+  2. Use good judgment in acquiring and managing your welfare production project. Be businesslike and frugal, recognizing that we are growing people--both givers and receivers--more than food and merchandise. 
+  3. Follow the Spirit in knowing to what extent individuals and families can and should care for themselves on their own. 
+  4. Use local resource persons to the fullest extent possible. 
+  5. Finally, regularly hold effective Welfare Committee meetings at all administrative levels. 
 
 Brothers and sisters, with these thoughts in mind may I urge you to go forward
 in this great work. So much depends upon our willingness to make up our minds
@@ -352,4 +336,6 @@ by the hand of God."
 
 It is wonderful to be associated with this work and to be given the
 inspiration of it. I bear my witness of it in the name of Jesus Christ. Amen.
+
+## References
 

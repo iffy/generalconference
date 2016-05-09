@@ -22,7 +22,7 @@ This sight would have touched any heart and helps us see the power of love
 that our Father in Heaven would have us understand in our lives. Jesus, the
 beloved Son of God, reemphasized this new dimension to bless the world when He
 said, "A new commandment I give unto you, That ye love one another." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).)
+13:34](/scriptures/nt/john/13.34?lang=eng#33).)
 
 As we step back and try to understand this love of God, we are astounded by
 its profound impact. At its center is the reality of a literal Father in
@@ -40,7 +40,7 @@ He reaches down, through His Son; through prayer, His spirit, His prophets;
 and through His commandments to express His love and concern and provide His
 guidance and discipline to everyone who will listen. As the Psalmist said,
 "The earth is full of the goodness of the Lord." ([Ps.
-33:5](https://www.lds.org/scriptures/ot/ps/33.5?lang=eng#4).)
+33:5](/scriptures/ot/ps/33.5?lang=eng#4).)
 
 He loves us so much that He gave us His most sacred eternal truths--His
 commandments--eternal standards to live by. To help us understand their
@@ -56,11 +56,11 @@ divinity in us. They are the fountainhead of all real security, and the inner
 man recognizes this instinctively and rejoices.
 
 This same loving God also "so loved the world, that He gave His only begotten
-Son" ([John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15)) to
-perform a myriad of blessings for all mankind, including the offering of His
-own life to atone for man. He lived His life to demonstrate that the love of
-our Father in Heaven and His plan, His commandments, could in fact bring inner
-peace and lift mankind here and hereafter.
+Son" ([John 3:16](/scriptures/nt/john/3.16?lang=eng#15)) to perform a myriad
+of blessings for all mankind, including the offering of His own life to atone
+for man. He lived His life to demonstrate that the love of our Father in
+Heaven and His plan, His commandments, could in fact bring inner peace and
+lift mankind here and hereafter.
 
 My assignments these past few months have taken me to many lands, and with all
 my heart this morning I want to bear witness to the fact that when God's love
@@ -75,11 +75,10 @@ develops in man, he is turned outward toward others--gradually overcoming
 himself. When we humbly seek our Father in Heaven by prayer, and by learning
 and keeping His commandments, He transfers to us His love and many of His
 powers. Thousands bear witness that His words "If ye keep my commandments, ye
-shall abide in my love" ([John
-15:10](https://www.lds.org/scriptures/nt/john/15.10?lang=eng#9)) are true. We
-then, as the Savior said, begin to attach ourselves as branches to the "true
-vine" and receive the same strength and power and can expect the same fruit.
-(See [John 15:1-6](https://www.lds.org/scriptures/nt/john/15.1-6?lang=eng#0).)
+shall abide in my love" ([John 15:10](/scriptures/nt/john/15.10?lang=eng#9))
+are true. We then, as the Savior said, begin to attach ourselves as branches
+to the "true vine" and receive the same strength and power and can expect the
+same fruit. (See [John 15:1-6](/scriptures/nt/john/15.1-6?lang=eng#0).)
 
 Then the miracle really happens. Men thus touched and changed by this love of
 God begin to look upon their neighbors with profound respect and awe for who
@@ -95,17 +94,16 @@ were no more strangers to God.
 
 As man perceives this love, he begins to overlook the flaws that make up every
 mortal being and to "esteem his brother as himself." ([D&amp;C
-38:24](https://www.lds.org/scriptures/dc-testament/dc/38.24?lang=eng#23).) He
-lifts and desires to help him whenever and wherever he can. Man's spirit
-reaches out to everyone, for now there is no enmity, no envy, no restricting
-philosophies, pride, or vanity--even language does not separate men--there is
-only an openness and oneness with the Spirit and will of God. The scriptures
-are beautiful and clear:
+38:24](/scriptures/dc-testament/dc/38.24?lang=eng#23).) He lifts and desires
+to help him whenever and wherever he can. Man's spirit reaches out to
+everyone, for now there is no enmity, no envy, no restricting philosophies,
+pride, or vanity--even language does not separate men--there is only an
+openness and oneness with the Spirit and will of God. The scriptures are
+beautiful and clear:
 
 "There [will be] no contention in the land," "because the love of God is shed
-abroad in our hearts." ([4 Ne.
-1:15](https://www.lds.org/scriptures/bofm/4-ne/1.15?lang=eng#14), [Rom.
-5:5](https://www.lds.org/scriptures/nt/rom/5.5?lang=eng#4).)
+abroad in our hearts." ([4 Ne. 1:15](/scriptures/bofm/4-ne/1.15?lang=eng#14),
+[Rom. 5:5](/scriptures/nt/rom/5.5?lang=eng#4).)
 
 Does this mean that those who embrace these things will be perfect? No, for
 they will forever be overcoming and growing. But it does mean that they will
@@ -113,8 +111,7 @@ be striving toward perfection. The great prophet Moroni counseled us with a
 profound insight on this point when he said, "Condemn me not because of mine
 imperfection, neither my father ... but rather give thanks unto God that he hath
 made manifest unto you our imperfections, that ye may learn to be more wise
-than we have been." ([Morm.
-9:31](https://www.lds.org/scriptures/bofm/morm/9.31?lang=eng#30).)
+than we have been." ([Morm. 9:31](/scriptures/bofm/morm/9.31?lang=eng#30).)
 
 It is by achieving this gift, this love of God, that we are able to crowd out
 contention, discord, and judgments. It recognizes the power and goodness
@@ -122,8 +119,8 @@ innate in man and how totally inconsistent it would be for one having these
 feelings--this love from God in their lives--to find himself judging others,
 not sustaining His leaders, for these things are absolutely foreign to the
 love of God. Our Father in Heaven said that "no one can assist in this work
-except he shall be humble and full of love." ([D&amp;C
-12:8](https://www.lds.org/scriptures/dc-testament/dc/12.8?lang=eng#7).)
+except he shall be humble and full of love." ([D&amp;C 12:8](/scriptures/dc-
+testament/dc/12.8?lang=eng#7).)
 
 As in the case of the man who picked up the little crippled boy, there are no
 reproachments or judgments--just love and help.
@@ -178,10 +175,12 @@ Heaven are found.
 
 Now all of this is really what the Lord had in mind, isn't it, when he said,
 "As I have loved you, ... love one another." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).) That will
-forever be the ultimate invitation of the Lord to everyone everywhere. We
-invite all men with all our love to come and partake of this spirit, this
-peace, this love of God that is in His kingdom here upon the earth today.
+13:34](/scriptures/nt/john/13.34?lang=eng#33).) That will forever be the
+ultimate invitation of the Lord to everyone everywhere. We invite all men with
+all our love to come and partake of this spirit, this peace, this love of God
+that is in His kingdom here upon the earth today.
 
 In the name of Jesus Christ, amen.
+
+## References
 

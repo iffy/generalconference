@@ -1,10 +1,9 @@
 # Planting Gospel Seeds of Spirituality
 
 The Savior's powerful promise, "... I will cause that your bosom shall burn
-within you" ([D&amp;C 9:8](https://www.lds.org/scriptures/dc-
-testament/dc/9.8?lang=eng#7)), became a reality to me as I sat in the National
-Auditorium in Mexico City a few weeks ago and looked out upon the vast throng
-of 16,000 faithful Saints.
+within you" ([D&amp;C 9:8](/scriptures/dc-testament/dc/9.8?lang=eng#7)),
+became a reality to me as I sat in the National Auditorium in Mexico City a
+few weeks ago and looked out upon the vast throng of 16,000 faithful Saints.
 
 Some had borrowed money, mortgaged possessions, traveled for days, and made
 many sacrifices unknown to us that they might attend this great area
@@ -60,7 +59,7 @@ dramas, the diaries, the letters home, the testimonies locked in hearts that
 have resulted from following the Savior's instruction: "Go ye therefore, and
 teach all nations, baptizing them in the name of the Father, and of the Son,
 and of the Holy Ghost." ([Matt.
-28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18).)
+28:19](/scriptures/nt/matt/28.19?lang=eng#18).)
 
 The Savior explained what might happen to some of our efforts. He said:
 
@@ -70,8 +69,7 @@ and it was trodden down. ...
 "And some fell upon a rock: and ... it withered away. ...
 
 "And other fell on good ground, and sprang up, and bare fruit an hundredfold.
-..." ([Luke 8:5-6,
-8](https://www.lds.org/scriptures/nt/luke/8.5-6%2C8?lang=eng#4).)
+..." ([Luke 8:5-6, 8](/scriptures/nt/luke/8.5-6,8?lang=eng#4).)
 
 Imagine the quantity of seed planted over the years by the tens of thousands
 of missionaries. Some seeds lie dormant for years; others spring forth
@@ -130,16 +128,14 @@ more valuable seeds of spirituality--the seeds of cleanliness, the seeds of
 love, the seeds of virtue, the seeds of courage, such as the courage of Paul,
 when he stood in bonds before Agrippa and stretched forth his hands and told
 of his conversion and said: "I am not mad, ... but speak forth the words of
-truth and soberness." ([Acts
-26:25](https://www.lds.org/scriptures/nt/acts/26.25?lang=eng#24).)
+truth and soberness." ([Acts 26:25](/scriptures/nt/acts/26.25?lang=eng#24).)
 
 The seed of _obedience _is the first law of the gospel and was exemplified by
 the Savior, who was obedient in all things.
 
 Your sons will go out, as did the Savior, "preaching the gospel of the
 kingdom, and healing all manner of sickness and all manner of disease among
-the people." ([Matt.
-4:23](https://www.lds.org/scriptures/nt/matt/4.23?lang=eng#22).)
+the people." ([Matt. 4:23](/scriptures/nt/matt/4.23?lang=eng#22).)
 
 Your sons will assist in healing those with sicknesses of the mind and
 discouragement, which afflict modern society, by changing their outlook on
@@ -184,4 +180,6 @@ sustain him. He has always sustained His faithful Elders, and He always will."
 
 May your sons respond to the great call that shall be theirs, I humbly pray in
 the name of Jesus Christ. Amen.
+
+## References
 

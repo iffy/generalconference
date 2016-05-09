@@ -5,8 +5,8 @@ and words are shown forth in seven ways?
 
 We live in a day of contention and confusion, in which Christian people cry,
 _"Lo, here is Christ; or lo, there"_ (see [Matt.
-24:23](https://www.lds.org/scriptures/nt/matt/24.23?lang=eng#22)), meaning,
-"Lo, here is the way of salvation; or lo, there."
+24:23](/scriptures/nt/matt/24.23?lang=eng#22)), meaning, "Lo, here is the way
+of salvation; or lo, there."
 
 We hear voices of doom and voices of glory. The doctrines and dogmas of the
 contending sects are at war one with another. We are exhorted to believe in
@@ -45,7 +45,7 @@ Firstborn of the Father, our Elder Brother, advanced and progressed until he
 became like unto God in power, in might, in dominion, and in intelligence. He
 became and was "the Lord Omnipotent who reigneth, who was, and is from all
 eternity to all eternity." ([Mosiah
-3:5](https://www.lds.org/scriptures/bofm/mosiah/3.5?lang=eng#4).)
+3:5](/scriptures/bofm/mosiah/3.5?lang=eng#4).)
 
 Then it was that he, under the Father, became the Creator of worlds without
 number.
@@ -67,16 +67,16 @@ There is one God and Father of us all, one eternal plan of salvation, one way
 back to heaven. And Jesus Christ is the name given by the Father whereby men
 may be saved. His is the only name given under heaven--either now, or in ages
 past, or in eternities yet unborn--whereby salvation comes. (See [D&amp;C
-18:23](https://www.lds.org/scriptures/dc-testament/dc/18.23?lang=eng#22);
-[Moses 6:52](https://www.lds.org/scriptures/pgp/moses/6.52?lang=eng#51).)
+18:23](/scriptures/dc-testament/dc/18.23?lang=eng#22); [Moses
+6:52](/scriptures/pgp/moses/6.52?lang=eng#51).)
 
 There is one everlasting gospel, one Mediator between God and men, one alone
 who came to reconcile fallen men to their Maker. All men in all ages are saved
 by the same power, the same laws, the same Savior. And that Savior is Christ.
 
 It is written: "Jesus Christ the same yesterday, and to day, and for ever."
-([Heb. 13:8](https://www.lds.org/scriptures/nt/heb/13.8?lang=eng#7).) He is
-the Lord Jehovah; he is the Great I AM; and beside him there is no Savior.
+([Heb. 13:8](/scriptures/nt/heb/13.8?lang=eng#7).) He is the Lord Jehovah; he
+is the Great I AM; and beside him there is no Savior.
 
 He is the God of Adam and of Enoch and of Noah and of all the Saints who were
 before the flood.
@@ -87,8 +87,7 @@ in his name that they performed all their mighty works.
 
 He was the God of the Jaredites and the Israelites and the Nephites. Moses,
 "esteeming the reproach of Christ greater riches than the treasures in Egypt"
-([Heb. 11:26](https://www.lds.org/scriptures/nt/heb/11.26?lang=eng#25)), chose
-to follow him.
+([Heb. 11:26](/scriptures/nt/heb/11.26?lang=eng#25)), chose to follow him.
 
 He is the one who parted the Red Sea at Moses' word, who stopped the sun and
 the moon when Joshua spoke, who raised from death the widow's son because
@@ -131,7 +130,7 @@ when he was lifted upon the cross and slain for the sins of the world.
 Our Blessed Lord was born of Mary in Bethlehem of Judea. In so doing, he "made
 himself of no reputation, and took upon him the form of a servant, and was
 made in the likeness of men." ([Philip.
-2:7](https://www.lds.org/scriptures/nt/philip/2.7?lang=eng#6).)
+2:7](/scriptures/nt/philip/2.7?lang=eng#6).)
 
 As a man he lived a perfect life, conforming to the will of the Father in all
 things.
@@ -153,7 +152,7 @@ follow him in life and in death and in life again.
 In Gethsemane he bowed beneath a load none other could bear. There he sweat
 great gouts of blood from every pore as he bore the sins of us all on
 conditions of repentance. (See [Luke
-22:44](https://www.lds.org/scriptures/nt/luke/22.44?lang=eng#43).)
+22:44](/scriptures/nt/luke/22.44?lang=eng#43).)
 
 Again, on Calvary, during the last three hours of his mortal passion, the
 sufferings of Gethsemane returned, and he drank to the full the cup which his
@@ -198,7 +197,7 @@ their fathers.
 
 Thanks be to God, the day of restoration has commenced. These are the times of
 restitution of which all the ancient prophets spoke. (See [Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).)
+3:21](/scriptures/nt/acts/3.21?lang=eng#20).)
 
 Thanks be to God that the heavens have been rent, that the Father and the Son
 appeared to Joseph Smith, that revelation and visions and gifts and miracles
@@ -240,8 +239,7 @@ sorrow for the wicked and ungodly.
 
 For those who love the Lord and live his law it will be a day of peace and
 triumph and glory and honor--the day when the Lord comes to make up his
-jewels. (See [Mal.
-3:17](https://www.lds.org/scriptures/ot/mal/3.17?lang=eng#16).)
+jewels. (See [Mal. 3:17](/scriptures/ot/mal/3.17?lang=eng#16).)
 
 And so now, knowing whereof we speak, having a sure knowledge born of the
 Spirit, we raise our voices in praise and testimony of the Lord Jesus Christ,
@@ -266,4 +264,6 @@ pursue this course--working the works of righteousness--that they shall have
 peace in this life and eternal life in the world to come.
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

@@ -32,23 +32,20 @@ us.
 "We need to know that Christ invites us to come unto Him. 'Behold, he sendeth
 an invitation unto all men, for the arms of mercy are extended towards them, ...
 Yea, he saith: Come unto me and ye shall partake of the fruit of the tree of
-life.' ([Alma
-5:33-34](https://www.lds.org/scriptures/bofm/alma/5.33-34?lang=eng#32).)
+life.' ([Alma 5:33-34](/scriptures/bofm/alma/5.33-34?lang=eng#32).)
 
 "Come, for he stands 'with open arms to receive you' ([Morm.
-6:17](https://www.lds.org/scriptures/bofm/morm/6.17?lang=eng#16)).
+6:17](/scriptures/bofm/morm/6.17?lang=eng#16)).
 
 "Come, for 'he will console you in your afflictions, and he will plead your
-cause' ([Jacob
-3:1](https://www.lds.org/scriptures/bofm/jacob/3.1?lang=eng#0)).
+cause' ([Jacob 3:1](/scriptures/bofm/jacob/3.1?lang=eng#0)).
 
 "'Come unto him, and offer your whole souls as an offering unto him' ([Omni
-1:26](https://www.lds.org/scriptures/bofm/omni/1.26?lang=eng#25)).
+1:26](/scriptures/bofm/omni/1.26?lang=eng#25)).
 
 "As Moroni closed the record of the Jaredite civilization, he wrote, 'I would
 commend you to seek this Jesus of whom the prophets and apostles have written'
-([Ether 12:41](https://www.lds.org/scriptures/bofm/ether/12.41?lang=eng#40)).
-...
+([Ether 12:41](/scriptures/bofm/ether/12.41?lang=eng#40)). ...
 
 "The question is sometimes asked, 'Are Mormons Christians?' We declare," says
 President Benson, "the divinity of Jesus Christ. We look to Him as the only
@@ -58,8 +55,8 @@ of Kings and Lord of Lords. In the words of a Book of Mormon prophet, we say
 to men today, 'There [is] no other name given nor any other way nor means
 whereby salvation can come unto the children of men, only in and through the
 name of Christ, the Lord Omnipotent' ([Mosiah
-3:17](https://www.lds.org/scriptures/bofm/mosiah/3.17?lang=eng#16))." (_The
-Teachings of Ezra Taft Benson,_ Salt Lake City: Bookcraft, 1988, p. 10.)
+3:17](/scriptures/bofm/mosiah/3.17?lang=eng#16))." (_The Teachings of Ezra
+Taft Benson,_ Salt Lake City: Bookcraft, 1988, p. 10.)
 
 I urge you to accept and ponder that testimony from him whom we sustain as
 prophet, seer, and revelator.
@@ -103,7 +100,7 @@ How true that is. How wonderfully true that is! Said the prophet Jeremiah,
 to Zion.
 
 "And I will give you pastors according to mine heart." ([Jer.
-3:14-15](https://www.lds.org/scriptures/ot/jer/3.14-15?lang=eng#13).)
+3:14-15](/scriptures/ot/jer/3.14-15?lang=eng#13).)
 
 That is the miracle that is taking place.
 
@@ -120,4 +117,6 @@ visited the earth to usher in this the dispensation of the fulness of times
 and conferred upon him who became Prophet great and grand keys which are the
 bedrock of this work. Such is our faith, such is our witness, such is our
 testimony, in the name of Jesus Christ, amen.
+
+## References
 

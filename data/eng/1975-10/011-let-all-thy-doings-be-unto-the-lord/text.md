@@ -34,7 +34,7 @@ yea, when thou liest down at night lie down unto the Lord, that he may watch
 over you in your sleep; and when thou risest in the morning let thy heart be
 full of thanks unto God; and if ye do these things, ye shall be lifted up at
 the last day." ([Alma 37:33,
-36-37](https://www.lds.org/scriptures/bofm/alma/37.33%2C36-37?lang=eng#32).)
+36-37](/scriptures/bofm/alma/37.33,36-37?lang=eng#32).)
 
 My brothers and sisters, I bear witness to you that this is the church of
 Jesus Christ, that he is at the head, that he is the rock of our salvation,
@@ -49,4 +49,6 @@ all of my efforts, my time, and talents, and resources, and all that I have,
 for as long as they're desired by the Lord or by these Brethren, to do
 whatever they would have me do. And I bear this witness in the name of Jesus
 Christ. Amen.
+
+## References
 

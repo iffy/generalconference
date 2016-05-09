@@ -19,7 +19,7 @@ selected.
 Concerning the First Presidency the Lord has said, "Of the Melchizedek
 Priesthood, three Presiding High Priests, chosen by the body, appointed and
 ordained to that office, and upheld by the confidence, faith, and prayer of
-the church" ([D&amp;C 107:22](https://www.lds.org/scriptures/dc-
+the church" ([D&amp;C 107:22](/scriptures/dc-
 testament/dc/107.22?lang=eng#21)).
 
 I emphasize those words, "upheld by the confidence, faith, and prayer of the
@@ -31,11 +31,10 @@ with your confidence, faith, and prayer. I am deeply grateful for that
 expression. I thank you, each of you. I assure you, as you already know, that
 in the processes of the Lord, there is no aspiring for office. As the Lord
 said to his disciples, "Ye have not chosen me, but I have chosen you, and
-ordained you" ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15)). This office
-is not one to be sought after. The right to select rests with the Lord. He is
-the master of life and death. His is the power to call. His is the power to
-take away. His is the power to retain. It is all in His hands.
+ordained you" ([John 15:16](/scriptures/nt/john/15.16?lang=eng#15)). This
+office is not one to be sought after. The right to select rests with the Lord.
+He is the master of life and death. His is the power to call. His is the power
+to take away. His is the power to retain. It is all in His hands.
 
 I do not know why in His grand scheme one such as I would find a place. But
 having this mantle come upon me, I now rededicate whatever I have of strength
@@ -95,7 +94,7 @@ directions to the Twelve and the Seventy, the revelation states:
 to the Seventy, are not under the responsibility to travel among all nations,
 but are to travel as their circumstances shall allow, notwithstanding they may
 hold as high and responsible offices in the church" ([D&amp;C
-107:98](https://www.lds.org/scriptures/dc-testament/dc/107.98?lang=eng#97)).
+107:98](/scriptures/dc-testament/dc/107.98?lang=eng#97)).
 
 Now, I repeat that these changes will not be effective until August 15 of this
 year.
@@ -123,17 +122,17 @@ We are becoming a great global society. But our interest and concern must
 always be with the individual. Every member of this church is an individual
 man or woman, boy or girl. Our great responsibility is to see that each is
 "remembered and nourished by the good word of God" ([Moro.
-6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3)), that each has
-opportunity for growth and expression and training in the work and ways of the
-Lord, that none lacks the necessities of life, that the needs of the poor are
-met, that each member shall have encouragement, training, and opportunity to
-move forward on the road of immortality and eternal life. This, I submit, is
-the inspired genius of this the Lord's work. The organization can grow and
-multiply in numbers, as it surely will. This gospel must be carried to every
-nation, kindred, tongue, and people. There can never be in the foreseeable
-future a standing still or a failure to reach out, to move forward, to build,
-to enlarge Zion across the world. But with all of this there must continue to
-be an intimate pastoral relationship of every member with a wise and caring
+6:4](/scriptures/bofm/moro/6.4?lang=eng#3)), that each has opportunity for
+growth and expression and training in the work and ways of the Lord, that none
+lacks the necessities of life, that the needs of the poor are met, that each
+member shall have encouragement, training, and opportunity to move forward on
+the road of immortality and eternal life. This, I submit, is the inspired
+genius of this the Lord's work. The organization can grow and multiply in
+numbers, as it surely will. This gospel must be carried to every nation,
+kindred, tongue, and people. There can never be in the foreseeable future a
+standing still or a failure to reach out, to move forward, to build, to
+enlarge Zion across the world. But with all of this there must continue to be
+an intimate pastoral relationship of every member with a wise and caring
 bishop or branch president. These are the shepherds of the flock whose
 responsibility it is to look after the people in relatively small numbers so
 that none is forgotten, overlooked, or neglected.
@@ -162,8 +161,7 @@ quiet of his own soul if he or she is to gain a knowledge of the truth.
 The gaining of a strong and secure testimony is the privilege and opportunity
 of every individual member of the Church. The Master said, "If any man will do
 his will, he shall know of the doctrine, whether it be of God, or whether I
-speak of myself" ([John
-7:17](https://www.lds.org/scriptures/nt/john/7.17?lang=eng#16)).
+speak of myself" ([John 7:17](/scriptures/nt/john/7.17?lang=eng#16)).
 
 Service in behalf of others, study, and prayer lead to faith in this work and
 then to knowledge of its truth. This has always been a personal pursuit, as it
@@ -195,7 +193,7 @@ and certain faith.
 God, our Eternal Father, lives. This is His work, designed to assist Him in
 "bringing to pass the immortality and eternal life" of His sons and daughters
 of all generations of time ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 Jesus is the Christ, the promised Messiah, who came to earth in the most
 humble of circumstances, who walked the dusty roads of Palestine teaching and
@@ -212,4 +210,6 @@ worthy of it. We must safeguard it. We must honor it. We must use it in
 righteousness for the blessing of others. God help us to be true to the great
 and sacred trust which has been given to each of us, I humbly pray, as I leave
 my blessing with you, in the name of Jesus Christ, amen.
+
+## References
 

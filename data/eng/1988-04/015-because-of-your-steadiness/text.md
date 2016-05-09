@@ -36,12 +36,12 @@ or in your thoughts, every day and almost every hour.
 
 It shouldn't surprise us, then, that the Lord has said to you and to me,
 "Watch over the church always, and be with and strengthen them" ([D&amp;C
-20:53](https://www.lds.org/scriptures/dc-testament/dc/20.53?lang=eng#52)). God
-loves us, and he intends for us to become like him. He doesn't ask us now to
-worry about all his children in all the world, as he does. Instead, he begins
-with a call to watch over just a few families, just a few people. But he knows
-that to visit thirty minutes every month with the same lesson for every family
-would never produce the progress he wants for us.
+20:53](/scriptures/dc-testament/dc/20.53?lang=eng#52)). God loves us, and he
+intends for us to become like him. He doesn't ask us now to worry about all
+his children in all the world, as he does. Instead, he begins with a call to
+watch over just a few families, just a few people. But he knows that to visit
+thirty minutes every month with the same lesson for every family would never
+produce the progress he wants for us.
 
 And so he commands, "Watch over [them] always, and be with and strengthen
 them." You can't be with them twenty-four hours a day. That would be "always,"
@@ -122,13 +122,13 @@ Let's agree that we'll include both the parents and their children in our
 personal prayers, and we'll plead for the Holy Ghost to help us teach. You
 remember the promise, "And the Spirit shall be given unto you by the prayer of
 faith; and if ye receive not the Spirit ye shall not teach" ([D&amp;C
-42:14](https://www.lds.org/scriptures/dc-testament/dc/42.14?lang=eng#13)).
-That really fits us, doesn't it?
+42:14](/scriptures/dc-testament/dc/42.14?lang=eng#13)). That really fits us,
+doesn't it?
 
 Third, we're going to be teaching a gospel principle, so we'd better study and
 ponder the scriptures. You remember that the Lord said, "Teach the principles
 of my gospel, which are in the Bible and the Book of Mormon, in the which is
-the fulness of the gospel" ([D&amp;C 42:12](https://www.lds.org/scriptures/dc-
+the fulness of the gospel" ([D&amp;C 42:12](/scriptures/dc-
 testament/dc/42.12?lang=eng#11)). I know you've been reading the Book of
 Mormon regularly. So have I. Why don't we think about our family and the gifts
 of the Spirit while we read? If we do, I'm sure that we'll understand and feel
@@ -170,7 +170,7 @@ of life.
 grow, by your faith with great diligence, and with patience, looking forward
 to the fruit thereof, it shall take root; and behold it shall be a tree
 springing up unto everlasting life" ([Alma
-32:40-41](https://www.lds.org/scriptures/bofm/alma/32.40-41?lang=eng#39)).
+32:40-41](/scriptures/bofm/alma/32.40-41?lang=eng#39)).
 
 By the power of the Holy Ghost and with the eye of faith, we have glimpsed and
 we can look forward to the fruit of the gospel. That is the desire of our
@@ -194,8 +194,10 @@ my son, I trust that I shall have great joy in you, because of your steadiness
 and your faithfulness unto God; for as you have commenced in your youth to
 look to the Lord your God, even so I hope that you will continue in keeping
 his commandments; for blessed is he that endureth to the end" ([Alma
-38:2](https://www.lds.org/scriptures/bofm/alma/38.2?lang=eng#1)).
+38:2](/scriptures/bofm/alma/38.2?lang=eng#1)).
 
 I bear testimony that in time and in eternity God will bless our steadiness as
 we invite his children to come unto Christ. In the name of Jesus Christ, amen.
+
+## References
 

@@ -39,7 +39,7 @@ the earth, upon all the face of the land, crying:
 except they shall repent; for the devil laugheth, and his angels rejoice,
 because of the slain of the fair sons and daughters of my people; and it is
 because of their iniquity and abominations that they are fallen!" ([3 Ne.
-9:1-2](https://www.lds.org/scriptures/bofm/3-ne/9.1-2?lang=eng#0).)
+9:1-2](/scriptures/bofm/3-ne/9.1-2?lang=eng#0).)
 
 The voice enumerated the widespread destruction. The survivors of the tempest
 and earthquakes were declared to be the more righteous, and hope was offered
@@ -54,7 +54,7 @@ glorified his name.
 
 "I came unto my own, and my own received me not. And the scriptures concerning
 my coming are fulfilled." ([3 Ne.
-9:15-16](https://www.lds.org/scriptures/bofm/3-ne/9.15-16?lang=eng#14).)
+9:15-16](/scriptures/bofm/3-ne/9.15-16?lang=eng#14).)
 
 The Lord told them that the law of Moses had been fulfilled and he would no
 longer accept burnt offerings, but only the sacrifice of a broken heart and a
@@ -67,16 +67,16 @@ world, to save the world from sin.
 receive, for of such is the kingdom of God. Behold, for such I have laid down
 my life, and have taken it up again; therefore repent, and come unto me ye
 ends of the earth, and be saved." ([3 Ne.
-9:21-22](https://www.lds.org/scriptures/bofm/3-ne/9.21-22?lang=eng#20).)
+9:21-22](/scriptures/bofm/3-ne/9.21-22?lang=eng#20).)
 
 Many hours passed in silence and darkness, and again his voice was heard,
 sorrowing over his people and promising to gather them "as a hen gathereth her
 chickens under her wings" ([3 Ne.
-10:6](https://www.lds.org/scriptures/bofm/3-ne/10.6?lang=eng#5)) if they would
-repent and follow him. Darkness continued, and on the morning of the third day
-the earth ceased to tremble and all became quiet and peaceful. Christ had
-risen from the tomb. Many of the righteous dead of this land in the Western
-Hemisphere rose from their graves, as did many saints in Judea.
+10:6](/scriptures/bofm/3-ne/10.6?lang=eng#5)) if they would repent and follow
+him. Darkness continued, and on the morning of the third day the earth ceased
+to tremble and all became quiet and peaceful. Christ had risen from the tomb.
+Many of the righteous dead of this land in the Western Hemisphere rose from
+their graves, as did many saints in Judea.
 
 A multitude assembled at the temple in the land Bountiful. If we would join
 with them as we read, we would learn a great lesson. They talked about the
@@ -85,9 +85,9 @@ inrush of the sea, and about Jesus Christ of whom these signs had been given.
 While they were conversing one with another, they heard a voice which said
 unto them: "Behold my Beloved Son, in whom I am well pleased, in whom I have
 glorified my name--hear ye him." ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).) They cast
-their eyes toward heaven and beheld a man clothed in a white robe who
-descended and stood in the midst of them.
+11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).) They cast their eyes toward
+heaven and beheld a man clothed in a white robe who descended and stood in the
+midst of them.
 
 "And it came to pass that he stretched forth his hand and spake unto the
 people, saying:
@@ -100,8 +100,7 @@ that bitter cup which the Father hath given me. ...
 
 "Arise and come forth unto me, that ye may thrust your hands into my side, and
 also that ye may feel the prints of the nails in my hands and in my feet. ..."
-([3 Ne. 11:9-11,
-14](https://www.lds.org/scriptures/bofm/3-ne/11.9-11%2C14?lang=eng#8).)
+([3 Ne. 11:9-11, 14](/scriptures/bofm/3-ne/11.9-11,14?lang=eng#8).)
 
 The Master called twelve disciples and gave them the authority to baptize. He
 admonished the multitude to cease their contentions and disputations; and he
@@ -135,9 +134,8 @@ justice of the Father.
 "Now this is the commandment: Repent, all ye ends of the earth, and come unto
 me and be baptized in my name, that ye may be sanctified by the reception of
 the Holy Ghost, that ye may stand spotless before me at the last day. Verily,
-verily, I say unto you, this is my gospel. ..." ([3 Ne. 27:13-14, 16-17, 20-21](
-https://www.lds.org/scriptures/bofm/3-ne/27.13-14%2C16-17%2C20-21?lang=eng#12)
-.)
+verily, I say unto you, this is my gospel. ..." ([3 Ne. 27:13-14, 16-17,
+20-21](/scriptures/bofm/3-ne/27.13-14,16-17,20-21?lang=eng#12).)
 
 The gospel is often referred to as the good news, or glad tidings of
 salvation. The plan of salvation, therefore, is the gospel of Jesus Christ.
@@ -155,7 +153,7 @@ obedience to the laws and ordinances of the Gospel.
 Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by
 immersion for the remission of sins; fourth, Laying on of hands for the gift
 of the Holy Ghost." ([A of F 1:3,
-4](https://www.lds.org/scriptures/pgp/a-of-f/1.3%2C4?lang=eng#2).)
+4](/scriptures/pgp/a-of-f/1.3,4?lang=eng#2).)
 
 These four are only the first of all the principles and ordinances of the
 gospel. Returning to the words of the Savior to the Nephites, we learn that
@@ -163,7 +161,7 @@ after complying with these four, there must be a lifetime of compliance with
 the laws and commandments of the Lord, for he said, "... and if he endureth to
 the end, behold, him will I hold guiltless before my Father at that day when I
 shall stand to judge the world." ([3 Ne.
-27:16](https://www.lds.org/scriptures/bofm/3-ne/27.16?lang=eng#15).)
+27:16](/scriptures/bofm/3-ne/27.16?lang=eng#15).)
 
 The first principles alone are not sufficient: man is thereafter accountable
 in the eternal judgment for what he has done in life, whether good or evil.
@@ -171,8 +169,7 @@ The atonement was for this very purpose, to bring about the resurrection and
 subsequent judgment of all men. The Master made it very clear by saying: "And
 for this cause have I been lifted up; therefore, according to the power of the
 Father I will draw all men unto me, that they may be judged according to their
-works." ([3 Ne.
-27:15](https://www.lds.org/scriptures/bofm/3-ne/27.15?lang=eng#14).)
+works." ([3 Ne. 27:15](/scriptures/bofm/3-ne/27.15?lang=eng#14).)
 
 An analysis divides the gospel plan into two parts:
 
@@ -181,8 +178,7 @@ Aaronic Priesthood. The 84th section of the Doctrine and Covenants states it
 this way: "And the lesser priesthood continued, which priesthood holdeth the
 key of the ministering of angels and the preparatory gospel; Which gospel is
 the gospel of repentance and of baptism, and the remission of sins. ..."
-([D&amp;C 84:26-27](https://www.lds.org/scriptures/dc-
-testament/dc/84.26-27?lang=eng#25).)
+([D&amp;C 84:26-27](/scriptures/dc-testament/dc/84.26-27?lang=eng#25).)
 
 Second, the fullness of the gospel administered by the authority of the
 Melchizedek Priesthood. The same revelation makes this statement: "And this
@@ -195,8 +191,7 @@ mysteries of the kingdom, even the key of the knowledge of God.
 power of godliness is not manifest unto men in the flesh;
 
 "For without this no man can see the face of God, even the Father, and live."
-([D&amp;C 84:19-22](https://www.lds.org/scriptures/dc-
-testament/dc/84.19-22?lang=eng#18).)
+([D&amp;C 84:19-22](/scriptures/dc-testament/dc/84.19-22?lang=eng#18).)
 
 From the teachings of the Savior to the Nephites during this brief period
 after his resurrection, the gospel plan is unfolded. The pathway of the
@@ -215,9 +210,11 @@ It is my witness that Jesus is the Christ. If the world would follow the
 principles of the gospel proclaimed by him, a real peace, beyond the cessation
 of hostilities, would come to all people, for he said, "Peace I leave with
 you, my peace I give unto you. ..." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 May this peace come to us by living the commandments of the Savior and by
 following the counsel of his prophet here upon the earth, I humbly pray, in
 the name of the Lord and Master, Jesus Christ. Amen.
+
+## References
 

@@ -36,8 +36,7 @@ priesthood.
 
 "Therefore, all those who receive the priesthood, receive this oath and
 covenant of my Father, which he cannot break, neither can it be moved"
-([D&amp;C 84:33-40](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-40?lang=eng#32)).
+([D&amp;C 84:33-40](/scriptures/dc-testament/dc/84.33-40?lang=eng#32)).
 
 The priesthood is the greatest power on earth. It is by the power of the
 priesthood that the earth was created, and the universe, and all things
@@ -53,14 +52,13 @@ commandments of God. ...
 
 "Which commandments were given to Joseph Smith, Jun., who was called of God,
 and ordained an apostle of Jesus Christ, to be the first elder of this church"
-([D&amp;C 20:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/20.1-2?lang=eng#0)).
+([D&amp;C 20:1-2](/scriptures/dc-testament/dc/20.1-2?lang=eng#0)).
 
 We read further: "Behold, there shall be a record kept among you; and in it
 thou shalt be called a seer, a translator, a prophet, an apostle of Jesus
 Christ, an elder of the church through the will of God the Father, and the
-grace of your Lord Jesus Christ" ([D&amp;C
-21:1](https://www.lds.org/scriptures/dc-testament/dc/21.1?lang=eng#0)).
+grace of your Lord Jesus Christ" ([D&amp;C 21:1](/scriptures/dc-
+testament/dc/21.1?lang=eng#0)).
 
 Let me assure you brethren that you belong to the Church of Jesus Christ, and
 that the Church is directed by Jesus Christ through a prophet of God, even our
@@ -93,14 +91,13 @@ to preside over the whole church, and to be like unto Moses--
 
 "... yea, to be a seer, a revelator, a translator, and a prophet, having all the
 gifts of God which he bestows upon the head of the church" ([D&amp;C 107:22,
-91-92](https://www.lds.org/scriptures/dc-
-testament/dc/107.22%2C91-92?lang=eng#21)).
+91-92](/scriptures/dc-testament/dc/107.22,91-92?lang=eng#21)).
 
 And again: "The twelve traveling councilors are called to be the Twelve
 Apostles, or special witnesses of the name of Christ in all the world. ...
 
 "And they form a quorum [this is important], equal in authority and power to
-the three presidents" ([D&amp;C 107:23-24](https://www.lds.org/scriptures/dc-
+the three presidents" ([D&amp;C 107:23-24](/scriptures/dc-
 testament/dc/107.23-24?lang=eng#22)).
 
 The following is recorded in _Teachings of the Prophet Joseph Smith:_
@@ -320,8 +317,8 @@ Regarding the Seventy we read:
 
 "The Seventy are to act in the name of the Lord, under the direction of the
 Twelve or the traveling high council, in building up the church and regulating
-all the affairs of the same in all nations" ([D&amp;C
-107:34](https://www.lds.org/scriptures/dc-testament/dc/107.34?lang=eng#33)).
+all the affairs of the same in all nations" ([D&amp;C 107:34](/scriptures/dc-
+testament/dc/107.34?lang=eng#33)).
 
 Members of the First Quorum of the Seventy administer, under the direction of
 the Twelve, the four departments to which I referred earlier. The Priesthood
@@ -563,4 +560,6 @@ directed. I bear testimony that the Church is directed by the Lord himself
 through a prophet of God, and pray humbly that we may all appreciate that,
 appreciate our membership in the Church, and strive diligently to prepare
 ourselves for eternal life. In the name of Jesus Christ, amen.
+
+## References
 

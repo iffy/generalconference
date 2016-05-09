@@ -31,7 +31,7 @@ fifth commandment that the Lord gave through the prophet Moses was:
 
 "Honour thy father and thy mother: that thy days may be long upon the land
 which the Lord thy God giveth thee." ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).)
+20:12](/scriptures/ot/ex/20.12?lang=eng#11).)
 
 This morning I wish to speak about honoring our parents and the aged among us.
 
@@ -55,16 +55,15 @@ The Savior re-emphasized the importance of the fifth commandment during his
 ministry. He reminded the scribes and Pharisees that we are commanded to honor
 our father and our mother and that God had directed that whoever cursed father
 or mother should be put to death. (See [Lev.
-20:9](https://www.lds.org/scriptures/ot/lev/20.9?lang=eng#8); [Deut.
-21:18-21](https://www.lds.org/scriptures/ot/deut/21.18-21?lang=eng#17); [Matt.
-15:4](https://www.lds.org/scriptures/nt/matt/15.4?lang=eng#3); [Mark
-7:10](https://www.lds.org/scriptures/nt/mark/7.10?lang=eng#9).) In this day,
-failing to honor our parents is not a capital crime in any country of which I
-am aware. However, the divine direction to honor our father and our mother has
-never been revoked. (See [Mosiah
-13:20](https://www.lds.org/scriptures/bofm/mosiah/13.20?lang=eng#19); [Matt.
-19:19](https://www.lds.org/scriptures/nt/matt/19.19?lang=eng#18); [Luke
-18:20](https://www.lds.org/scriptures/nt/luke/18.20?lang=eng#19).)
+20:9](/scriptures/ot/lev/20.9?lang=eng#8); [Deut.
+21:18-21](/scriptures/ot/deut/21.18-21?lang=eng#17); [Matt.
+15:4](/scriptures/nt/matt/15.4?lang=eng#3); [Mark
+7:10](/scriptures/nt/mark/7.10?lang=eng#9).) In this day, failing to honor our
+parents is not a capital crime in any country of which I am aware. However,
+the divine direction to honor our father and our mother has never been
+revoked. (See [Mosiah 13:20](/scriptures/bofm/mosiah/13.20?lang=eng#19);
+[Matt. 19:19](/scriptures/nt/matt/19.19?lang=eng#18); [Luke
+18:20](/scriptures/nt/luke/18.20?lang=eng#19).)
 
 Like many scriptures, this commandment has multiple meanings.
 
@@ -72,8 +71,7 @@ To young people, honoring parents is appropriately understood to focus on
 obedience, respect, and emulation of righteous parents. The Apostle Paul
 illuminated that focus when he taught, "Children, obey your parents in all
 things [I believe he meant all _righteous_ things]: for this is well pleasing
-unto the Lord." ([Col.
-3:20](https://www.lds.org/scriptures/nt/col/3.20?lang=eng#19).)
+unto the Lord." ([Col. 3:20](/scriptures/nt/col/3.20?lang=eng#19).)
 
 President Spencer W. Kimball combined the ideas of obedience and emulation in
 these words:
@@ -121,7 +119,7 @@ inadequate care and sometimes without regular visits and expressions of love
 from their children. I believe this was the kind of circumstance the Lord's
 spokesman, the prophet Isaiah, thundered against when he commanded, "Hide not
 thyself from thine own flesh." ([Isa.
-58:7](https://www.lds.org/scriptures/ot/isa/58.7?lang=eng#6),)
+58:7](/scriptures/ot/isa/58.7?lang=eng#6),)
 
 The best way to care for the aged is to preserve their independence as long as
 possible. President Benson explained:
@@ -202,9 +200,9 @@ our fathers and our mothers, is undiminished.
 The fifth commandment is often referred to as the first commandment with a
 promise: "Honour thy father and thy mother: that thy days may be long upon the
 land which the Lord thy God giveth thee." ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).) I have
-wondered about the relationship between the commandment and the promise. How
-could honoring our parents increase our longevity?
+20:12](/scriptures/ot/ex/20.12?lang=eng#11).) I have wondered about the
+relationship between the commandment and the promise. How could honoring our
+parents increase our longevity?
 
 During almost forty years of marriage, I have observed something that provides
 at least a partial explanation of how this promise is fulfilled.
@@ -244,10 +242,12 @@ worthy example repeats itself from generation to generation. Truly,
 righteousness is a beacon and a worthy act is its own reward. As the Lord
 said, "He who doeth the works of righteousness shall receive his reward, even
 peace in this world, and eternal life in the world to come." ([D&amp;C
-59:23](https://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22).)
+59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22).)
 
 In time to come, each of us will be judged by the Lord God of Israel, who
 commanded us to honor our fathers and our mothers. I pray that each of us will
 conduct ourselves toward our parents in such a way that we will be guiltless
 before God at that day. In the name of Jesus Christ, amen.
+
+## References
 

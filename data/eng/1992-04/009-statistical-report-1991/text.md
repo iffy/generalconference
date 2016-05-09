@@ -34,7 +34,7 @@ during 1991.)
 
 18,810  
   
-  |
+|
 
 Nations and territories with organized wards or branches  
   
@@ -74,4 +74,6 @@ counselor in the Young Women general presidency and widow of John Longden,
 Assistant to the Twelve; Leone Watson Doxey, former counselor in the Primary
 general presidency; and Wilford G. Edling, chairman of the Church Audit
 Committee.
+
+## References
 

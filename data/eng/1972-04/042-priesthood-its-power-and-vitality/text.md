@@ -21,8 +21,8 @@ such a great high priest.
 of God._
 
 "All other authorities or offices in the church are appendages to this
-priesthood." ([D&amp;C 107:1-3, 5](https://www.lds.org/scriptures/dc-
-testament/dc/107.1-3%2C5?lang=eng#0).)
+priesthood." ([D&amp;C 107:1-3, 5](/scriptures/dc-
+testament/dc/107.1-3,5?lang=eng#0).)
 
 It is vital that we understand this foregoing thought. President Joseph F.
 Smith said:
@@ -56,8 +56,8 @@ previously mentioned.
 
 "The Seventy are to act in the name of the Lord, under the direction of the
 Twelve ... in building up the church and regulating all the affairs of the same
-in all nations. ..." ([D&amp;C 107:21-24, 34](https://www.lds.org/scriptures/dc-
-testament/dc/107.21-24%2C34?lang=eng#20).)
+in all nations. ..." ([D&amp;C 107:21-24, 34](/scriptures/dc-
+testament/dc/107.21-24,34?lang=eng#20).)
 
 What is the priesthood? President John Taylor said:
 
@@ -81,8 +81,8 @@ unto the renewing of their bodies.
 "And ... therefore all that my Father hath shall be given unto him.
 
 "And this is according to the oath and covenant which belongeth to the
-priesthood." ([D&amp;C 84:33-34, 38-39](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-34%2C38-39?lang=eng#32).)
+priesthood." ([D&amp;C 84:33-34, 38-39](/scriptures/dc-
+testament/dc/84.33-34,38-39?lang=eng#32).)
 
 But we must remember that it is on condition of magnifying the priesthood we
 obtain. There is great energy being expended and much emphasis given to the
@@ -90,8 +90,7 @@ operation and administration of this priesthood in the Church today.
 
 "Therefore, let every man stand in his own office, and labor in his own
 calling; ... that the system may be kept perfect." ([D&amp;C
-84:109-110](https://www.lds.org/scriptures/dc-
-testament/dc/84.109-110?lang=eng#108).)
+84:109-110](/scriptures/dc-testament/dc/84.109-110?lang=eng#108).)
 
 Standing in their responsibility, the high priests in the Church today have
 the overall priesthood responsibility to do genealogical research and perform
@@ -128,8 +127,8 @@ secret and attend to all family duties.
 other, neither lying, backbiting, nor evil speaking;
 
 "And see that the church meet together often, and also see that all the
-members do their duty." ([D&amp;C 20:47, 53-55](https://www.lds.org/scriptures
-/dc-testament/dc/20.47%2C53-55?lang=eng#46).)
+members do their duty." ([D&amp;C 20:47, 53-55](/scriptures/dc-
+testament/dc/20.47,53-55?lang=eng#46).)
 
 Each one of these specific duties is designed by the Lord to strengthen the
 home. You will notice that the word _teach _is mentioned only indirectly in
@@ -205,7 +204,7 @@ indolence and sloth and go forward.
 
 In the encouraging words of the Prophet Joseph: "Brethren, shall we not go on
 in so great a cause? Go forward and not backward. Courage, brethren; and on,
-on to the victory! ..." ([D&amp;C 128:22](https://www.lds.org/scriptures/dc-
+on to the victory! ..." ([D&amp;C 128:22](/scriptures/dc-
 testament/dc/128.22?lang=eng#21).)
 
 I want to testify that Jesus is the Christ.
@@ -220,4 +219,6 @@ position through a political party, nor have they won a popularity contest.
 They have been called by prophecy and by the laying on of hands. Things will
 be well with us and ours to the extent that we listen to and follow their
 inspired counsel. In the name of Jesus Christ. Amen.
+
+## References
 

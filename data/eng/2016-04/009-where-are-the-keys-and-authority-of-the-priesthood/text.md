@@ -195,3 +195,29 @@ I testify of God the Father; of our Savior and Redeemer, Jesus Christ; of the
 Holy Ghost; and of the Restoration of the gospel in these the latter days, in
 the name of Jesus Christ, amen.
 
+## References
+
+  1. See [Joseph Smith--History 1:68-72](https://www.lds.org/scriptures/pgp/js-h/1.68-72?lang=eng#67).
+
+  2. [Doctrine and Covenants 110](https://www.lds.org/scriptures/dc-testament/dc/110?lang=eng), section summary.
+
+  3. See[ Doctrine and Covenants 128:20](https://www.lds.org/scriptures/dc-testament/dc/128.20?lang=eng#19).
+
+  4. _Handbook 2: __Administering the Church_ (2010), page 8.
+
+  5. Boyd K. Packer, "[Priesthood Power in the Home](https://www.lds.org/broadcasts/article/worldwide-leadership-training/2012/01/priesthood-power-in-the-home?lang=eng)" (worldwide leadership training meeting, Feb. 2012), lds.org/broadcasts; see also James E. Faust, "[Power of the Priesthood](https://www.lds.org/general-conference/1997/04/power-of-the-priesthood?lang=eng)," _Ensign,_ May 1997, 41-43.
+
+  6. _Handbook 2,_ 2.1.1.
+
+  7. Dallin H. Oaks, "[The Keys and Authority of the Priesthood](https://www.lds.org/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng),"_ Ensign _or_ Liahona,_ May 2014, 50.
+
+  8. _For the Strength of Youth_ (booklet, 2011), 43.
+
+  9. Thomas S. Monson, "[Welcome to Conference](https://www.lds.org/general-conference/2012/10/welcome-to-conference?lang=eng),"_ Ensign _or_ Liahona,_ Nov. 2012, 5.
+
+  10. _For the Strength of Youth,_ 42-43.
+
+  11. See Officers Sustained forms read at annual ward and stake conferences.
+
+  12. [2 Nephi 31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19).
+

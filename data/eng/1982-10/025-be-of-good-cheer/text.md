@@ -3,28 +3,26 @@
 My brothers and sisters, we are living in a time in which we shall see things
 both wonderful and awful. There is no way that we can be a part of the last
 days and have it otherwise. Even so, we are instructed by our Lord and
-Exemplar, Jesus Christ, to "be of good cheer." ([D&amp;C
-61:36](https://www.lds.org/scriptures/dc-testament/dc/61.36?lang=eng#35);
-[D&amp;C 78:18](https://www.lds.org/scriptures/dc-
+Exemplar, Jesus Christ, to "be of good cheer." ([D&amp;C 61:36](/scriptures
+/dc-testament/dc/61.36?lang=eng#35); [D&amp;C 78:18](/scriptures/dc-
 testament/dc/78.18?lang=eng#17).)
 
 Jesus has given that same instruction to others before, when the stressful
 circumstances in which they found themselves were anything but cheerful. For
 instance, he told the original Twelve to be of good cheer when, on the
 surface, there was nothing to be cheerful about. ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).) The
-indescribable agonies of Gethsemane were imminent. Judas's betrayal lay
-immediately ahead. Likewise, Jesus' arrest and arraignment. The Twelve would
-be scattered like sheep. Jesus' unjust and mocking trial and His terrible
-scourging were but hours away. The shrill and disappointing cry of the mob--to
-release Barabbas instead of Jesus--would soon echo in the air. Then would come
-the final, awful moments on Calvary!
+16:33](/scriptures/nt/john/16.33?lang=eng#32).) The indescribable agonies of
+Gethsemane were imminent. Judas's betrayal lay immediately ahead. Likewise,
+Jesus' arrest and arraignment. The Twelve would be scattered like sheep.
+Jesus' unjust and mocking trial and His terrible scourging were but hours
+away. The shrill and disappointing cry of the mob--to release Barabbas instead
+of Jesus--would soon echo in the air. Then would come the final, awful moments
+on Calvary!
 
 Therefore, how could Jesus expect the Twelve to be of good cheer? Because, the
 Savior said, _"In the world ye shall have tribulation: but be of good cheer; I
 have overcome the world."_ ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32); italics
-added.)
+16:33](/scriptures/nt/john/16.33?lang=eng#32); italics added.)
 
 Because Christ had overcome the world, the Atonement was about to be
 accomplished! Death would be irrevocably defeated! Satan would have failed to
@@ -37,19 +35,19 @@ the gospel give to us this gospel gladness!
 
 It was the same on another occasion when, of a night, the resurrected Jesus
 stood by an imprisoned Paul, instructing Paul to be of good cheer. ([Acts
-23:11](https://www.lds.org/scriptures/nt/acts/23.11?lang=eng#10).) Once again,
-the circumstances of the moment included Paul's having been struck publicly on
-the mouth by order of Ananias. Forty individuals were plotting his death. He
-faced a trial for sedition. Why, therefore, should he be of good cheer?
-Because, Jesus announced, though in bad circumstances, Paul would soon take
-the good news of the gospel to Rome!
+23:11](/scriptures/nt/acts/23.11?lang=eng#10).) Once again, the circumstances
+of the moment included Paul's having been struck publicly on the mouth by
+order of Ananias. Forty individuals were plotting his death. He faced a trial
+for sedition. Why, therefore, should he be of good cheer? Because, Jesus
+announced, though in bad circumstances, Paul would soon take the good news of
+the gospel to Rome!
 
 Church members in another age were being held hostage until certain prophecies
 were fulfilled--with their lives being forfeit if those prophecies were not
 fulfilled precisely on time. They, too, were told by the Lord to be of good
 cheer. Why? Because, said Jesus, "On the morrow come I into the world." ([3
-Ne. 1:13](https://www.lds.org/scriptures/bofm/3-ne/1.13?lang=eng#12).) With
-His birth, the mortal ministry of the Messiah would, at last, be launched!
+Ne. 1:13](/scriptures/bofm/3-ne/1.13?lang=eng#12).) With His birth, the mortal
+ministry of the Messiah would, at last, be launched!
 
 Gospel gladness was a part of the Prophet Joseph Smith's attitude. In the fall
 of 1842, rumors were rife of armed mobs on their way to Nauvoo. His beloved
@@ -64,8 +62,8 @@ wrote concerning temple work: "Now, what do we hear in the gospel which we
 have received? A voice of _gladness_! ... a voice of _gladness_ for the living
 and the dead; _glad tidings_ of _great joy._ ... Let your hearts _rejoice,_ and
 be exceedingly _glad_." And "Let the mountains shout for _joy,_ and all ye
-valleys cry aloud." ([D&amp;C 128:19, 22, 23](https://www.lds.org/scriptures
-/dc-testament/dc/128.19%2C22%2C23?lang=eng#18); italics added.)
+valleys cry aloud." ([D&amp;C 128:19, 22, 23](/scriptures/dc-
+testament/dc/128.19,22,23?lang=eng#18); italics added.)
 
 What precious perspective we obtain from the gospel of Jesus Christ concerning
 things that really matter--against which we measure the disappointments of the
@@ -95,64 +93,60 @@ of good cheer in the unfolding process.
 
 We must not underestimate, however, the difficulty of the last days. Joel and
 Zephaniah both speak of the last days as being "a day of ... gloominess." ([Joel
-2:2](https://www.lds.org/scriptures/ot/joel/2.2?lang=eng#1); [Zeph.
-1:15](https://www.lds.org/scriptures/ot/zeph/1.15?lang=eng#14).) The coming
-decades will be times of despair. Why? Because, as Moroni said, despair comes
-of iniquity. (See [Moro.
-10:22](https://www.lds.org/scriptures/bofm/moro/10.22?lang=eng#21).) The more
-iniquity, the more despair. And unless there is widespread repentance, despair
-will both deepen and spread--except among those who have gospel gladness.
+2:2](/scriptures/ot/joel/2.2?lang=eng#1); [Zeph.
+1:15](/scriptures/ot/zeph/1.15?lang=eng#14).) The coming decades will be times
+of despair. Why? Because, as Moroni said, despair comes of iniquity. (See
+[Moro. 10:22](/scriptures/bofm/moro/10.22?lang=eng#21).) The more iniquity,
+the more despair. And unless there is widespread repentance, despair will both
+deepen and spread--except among those who have gospel gladness.
 
 Alas, though we are asked to be peacemakers, we do live in a time when peace
-has been taken from the earth. (See [D&amp;C
-1:35](https://www.lds.org/scriptures/dc-testament/dc/1.35?lang=eng#34).) War
-has been the almost continuing experience of modern man. There have been 141
-wars, large and small, just since the end of World War II in 1945. As the
-American Civil War was about to begin, the Lord declared there would be a
-succession of wars poured out upon all nations, resulting in the "death and
-misery of many souls." ([D&amp;C 87:1](https://www.lds.org/scriptures/dc-
-testament/dc/87.1?lang=eng#0).)
+has been taken from the earth. (See [D&amp;C 1:35](/scriptures/dc-
+testament/dc/1.35?lang=eng#34).) War has been the almost continuing experience
+of modern man. There have been 141 wars, large and small, just since the end
+of World War II in 1945. As the American Civil War was about to begin, the
+Lord declared there would be a succession of wars poured out upon all nations,
+resulting in the "death and misery of many souls." ([D&amp;C 87:1](/scriptures
+/dc-testament/dc/87.1?lang=eng#0).)
 
 Moreover, that continuum of conflict will culminate in "a full end of all
-nations." ([D&amp;C 87:6](https://www.lds.org/scriptures/dc-
-testament/dc/87.6?lang=eng#5).) Meanwhile, let mortals, if they choose, put
-overreliance upon mortal arms. As for us, we shall "put on the whole armour of
-God"! ([Eph. 6:11](https://www.lds.org/scriptures/nt/eph/6.11?lang=eng#10).)
-And in the midst of such affliction, if we are righteous and we die, we die
-unto Him; and if we live, we live unto Him. (See [D&amp;C
-42:44](https://www.lds.org/scriptures/dc-testament/dc/42.44?lang=eng#43).)
+nations." ([D&amp;C 87:6](/scriptures/dc-testament/dc/87.6?lang=eng#5).)
+Meanwhile, let mortals, if they choose, put overreliance upon mortal arms. As
+for us, we shall "put on the whole armour of God"! ([Eph.
+6:11](/scriptures/nt/eph/6.11?lang=eng#10).) And in the midst of such
+affliction, if we are righteous and we die, we die unto Him; and if we live,
+we live unto Him. (See [D&amp;C 42:44](/scriptures/dc-
+testament/dc/42.44?lang=eng#43).)
 
 Alas, brothers and sisters, we likewise live in a time when the love of many
-will wax cold. (See [D&amp;C 45:27](https://www.lds.org/scriptures/dc-
+will wax cold. (See [D&amp;C 45:27](/scriptures/dc-
 testament/dc/45.27?lang=eng#26); [Matt.
-24:12](https://www.lds.org/scriptures/nt/matt/24.12?lang=eng#11).) Fear will
-therefore increase. Why? Because when men fear, it is because we are not
-perfect in love. (See [1 Jn.
-4:18](https://www.lds.org/scriptures/nt/1-jn/4.18?lang=eng#17); [Moro.
-8:16](https://www.lds.org/scriptures/bofm/moro/8.16?lang=eng#15).) The less
-love, the more fear--as well as the more war!
+24:12](/scriptures/nt/matt/24.12?lang=eng#11).) Fear will therefore increase.
+Why? Because when men fear, it is because we are not perfect in love. (See [1
+Jn. 4:18](/scriptures/nt/1-jn/4.18?lang=eng#17); [Moro.
+8:16](/scriptures/bofm/moro/8.16?lang=eng#15).) The less love, the more fear--
+as well as the more war!
 
 As with Paul, however, we may be perplexed, but we are not in despair. (See [2
-Cor. 4:8](https://www.lds.org/scriptures/nt/2-cor/4.8?lang=eng#7).) For if we
-are prepared spiritually, we need not fear. (See [D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+Cor. 4:8](/scriptures/nt/2-cor/4.8?lang=eng#7).) For if we are prepared
+spiritually, we need not fear. (See [D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29).)
 
 Even so, the Lord has made no secret of the fact that He intends to try the
 faith and the patience of His Saints. (See [Mosiah
-23:21](https://www.lds.org/scriptures/bofm/mosiah/23.21?lang=eng#20).) We
-mortals are so quick to forget the Lord: "And thus we see that except the Lord
-doth chasten his people with many afflictions ... they will not remember him."
-([Hel. 12:3](https://www.lds.org/scriptures/bofm/hel/12.3?lang=eng#2).)
+23:21](/scriptures/bofm/mosiah/23.21?lang=eng#20).) We mortals are so quick to
+forget the Lord: "And thus we see that except the Lord doth chasten his people
+with many afflictions ... they will not remember him." ([Hel.
+12:3](/scriptures/bofm/hel/12.3?lang=eng#2).)
 
 However, the Lord knows our bearing capacity, both as to coping and to
 comprehending, and He will not give us more to bear than we can manage at the
-moment, though to us it may seem otherwise. (See [D&amp;C
-50:40](https://www.lds.org/scriptures/dc-testament/dc/50.40?lang=eng#39);
-[D&amp;C 78:18](https://www.lds.org/scriptures/dc-
+moment, though to us it may seem otherwise. (See [D&amp;C 50:40](/scriptures
+/dc-testament/dc/50.40?lang=eng#39); [D&amp;C 78:18](/scriptures/dc-
 testament/dc/78.18?lang=eng#17).) Just as no temptations will come to us from
 which we cannot escape or which we cannot bear, we will not be given more
 trials than we can sustain. (See [1 Cor.
-10:13](https://www.lds.org/scriptures/nt/1-cor/10.13?lang=eng#12).)
+10:13](/scriptures/nt/1-cor/10.13?lang=eng#12).)
 
 Therefore, given the aforementioned grand and overarching reasons to rejoice,
 can we not "be of good cheer" in spite of stress and circumstance?
@@ -174,9 +168,9 @@ To be cheerful when others are in despair, to keep the faith when others
 falter, to be true even when we feel forsaken--all of these are deeply desired
 outcomes during the deliberate, divine tutorials which God gives to us--
 because He loves us. (See [Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).) These
-learning experiences must not be misread as divine indifference. Instead, such
-tutorials are a part of the divine unfolding.
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).) These learning experiences
+must not be misread as divine indifference. Instead, such tutorials are a part
+of the divine unfolding.
 
 Even as believers, however, when we are a part of encapsulating events, we can
 scarcely savor all that swirls about us. It is unlikely, for instance, on that
@@ -191,51 +185,49 @@ ordain the original Twelve or, still later, carry the rough-hewn cross?
 
 As she heard her Baby cry, did she hear intimations of Jesus' later weeping at
 the death of Lazarus or after blessing the Nephite children? (See [John
-11:35](https://www.lds.org/scriptures/nt/john/11.35?lang=eng#34); [3 Ne.
-17:21-22](https://www.lds.org/scriptures/bofm/3-ne/17.21-22?lang=eng#20).) Did
-she foresee that those baby-soft knees would later be hardened by so much
-prayer, including those glorious but awful hours in Gethsemane? (See [Matt.
-26:36-56](https://www.lds.org/scriptures/nt/matt/26.36-56?lang=eng#35).)
+11:35](/scriptures/nt/john/11.35?lang=eng#34); [3 Ne.
+17:21-22](/scriptures/bofm/3-ne/17.21-22?lang=eng#20).) Did she foresee that
+those baby-soft knees would later be hardened by so much prayer, including
+those glorious but awful hours in Gethsemane? (See [Matt.
+26:36-56](/scriptures/nt/matt/26.36-56?lang=eng#35).)
 
 As she bathed that Babe so many times to cleanse His pores, could she have
 been expected to foresee that one day, years later, drops of blood would come
 from His every pore? (See [Mosiah
-3:7](https://www.lds.org/scriptures/bofm/mosiah/3.7?lang=eng#6).)
+3:7](/scriptures/bofm/mosiah/3.7?lang=eng#6).)
 
 There is such a thing as cheerful, believing participation--even without full
 understanding--when you and I keep certain things in our hearts and are
 nourished as we ponder them! (See [Luke
-2:19](https://www.lds.org/scriptures/nt/luke/2.19?lang=eng#18).)
+2:19](/scriptures/nt/luke/2.19?lang=eng#18).)
 
 In the midst of our afflictions, reassurances will come to us from the Lord
 and from His prophets--as they did to the Lord's people in another age when
 they feared an approaching army, and the prophet reminded and reassured them,
 and "therefore they hushed their fears" ([Mosiah
-23:28](https://www.lds.org/scriptures/bofm/mosiah/23.28?lang=eng#27)). Like a
-young Eliza Snow in an ox wagon in the midst of tribulation, we can maintain
-our perspective about "things as they really are" and, in her words, be
-"thankful that we are so well off." ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12); Kenneth W.
+23:28](/scriptures/bofm/mosiah/23.28?lang=eng#27)). Like a young Eliza Snow in
+an ox wagon in the midst of tribulation, we can maintain our perspective about
+"things as they really are" and, in her words, be "thankful that we are so
+well off." ([Jacob 4:13](/scriptures/bofm/jacob/4.13?lang=eng#12); Kenneth W.
 Godfrey, _Women's Voices,_ Salt Lake City: Deseret Book Co., 1982, p. 147.)
 Such reassurances and perspective will surely be needed, brothers and sisters,
 for the Lord has clearly indicated that His purifying and sifting judgment
 would begin _first_ at the house of God and then proceed outward to the world.
-(See [1 Pet. 4:17](https://www.lds.org/scriptures/nt/1-pet/4.17?lang=eng#16);
-[D&amp;C 112:25](https://www.lds.org/scriptures/dc-
-testament/dc/112.25?lang=eng#24).) Just what this sifting will consist of is
-not now clear, what special pressures--combined with the ongoing and demanding
-rigors of "taking up the cross daily"--we know not. (See [Luke
-9:23](https://www.lds.org/scriptures/nt/luke/9.23?lang=eng#22).) We do know
-that the tempter's triad of tools, identified by Jesus as temptation,
-persecution, and tribulation, will be relentlessly used. (See [Matt.
-13:21](https://www.lds.org/scriptures/nt/matt/13.21?lang=eng#20); [Luke
-8:13](https://www.lds.org/scriptures/nt/luke/8.13?lang=eng#12).)
+(See [1 Pet. 4:17](/scriptures/nt/1-pet/4.17?lang=eng#16); [D&amp;C
+112:25](/scriptures/dc-testament/dc/112.25?lang=eng#24).) Just what this
+sifting will consist of is not now clear, what special pressures--combined
+with the ongoing and demanding rigors of "taking up the cross daily"--we know
+not. (See [Luke 9:23](/scriptures/nt/luke/9.23?lang=eng#22).) We do know that
+the tempter's triad of tools, identified by Jesus as temptation, persecution,
+and tribulation, will be relentlessly used. (See [Matt.
+13:21](/scriptures/nt/matt/13.21?lang=eng#20); [Luke
+8:13](/scriptures/nt/luke/8.13?lang=eng#12).)
 
 And if the heat from the sun of such circumstances will scorch even a green
 tree, this heat will be very real. (See [Luke
-23:31](https://www.lds.org/scriptures/nt/luke/23.31?lang=eng#30); [D&amp;C
-135:6](https://www.lds.org/scriptures/dc-testament/dc/135.6?lang=eng#5); [Alma
-32:38](https://www.lds.org/scriptures/bofm/alma/32.38?lang=eng#37).)
+23:31](/scriptures/nt/luke/23.31?lang=eng#30); [D&amp;C 135:6](/scriptures/dc-
+testament/dc/135.6?lang=eng#5); [Alma
+32:38](/scriptures/bofm/alma/32.38?lang=eng#37).)
 
 Much sifting will occur because of lapses in righteous behavior which go
 unrepented of. A few will give up instead of holding out to the end. A few
@@ -245,11 +237,10 @@ stumble because, in their preoccupation with the cares of the world, they do
 not have oil in their lamps. And, again and again, those who refuse to eat
 their spiritual spinach will come off second when they wrestle with the world.
 Some, because of the scorn of the world, will grow ashamed and let go of the
-iron rod. (See [1 Ne.
-8:28](https://www.lds.org/scriptures/bofm/1-ne/8.28?lang=eng#27).) A few who
-have not been Saints, but merely tourists passing through, will depart from
-the path. A few, failing to be of good cheer, will even charge God foolishly.
-(See [Job 1:22](https://www.lds.org/scriptures/ot/job/1.22?lang=eng#21).)
+iron rod. (See [1 Ne. 8:28](/scriptures/bofm/1-ne/8.28?lang=eng#27).) A few
+who have not been Saints, but merely tourists passing through, will depart
+from the path. A few, failing to be of good cheer, will even charge God
+foolishly. (See [Job 1:22](/scriptures/ot/job/1.22?lang=eng#21).)
 
 Surely, brothers and sisters, already too many Church members have broken
 hearts and broken homes because of broken covenants and broken promises.
@@ -269,34 +260,33 @@ out of the land of Jerusalem, ... then were his people easy to be entreated,
 firm to keep the commandments of God, and slow to be led to do iniquity. ...
 
 "But behold, I am consigned that these are my days." ([Hel. 7:7,
-9](https://www.lds.org/scriptures/bofm/hel/7.7%2C9?lang=eng#6).)
+9](/scriptures/bofm/hel/7.7,9?lang=eng#6).)
 
 Brothers and sisters, these are our days. This is _our time_ on earth! These
 are _our tasks_ to be done!
 
 And in these days, being of good cheer is part of being valiant in the
-testimony of Jesus. (See [D&amp;C 76:79](https://www.lds.org/scriptures/dc-
-testament/dc/76.79?lang=eng#78); [D&amp;C
-121:29](https://www.lds.org/scriptures/dc-testament/dc/121.29?lang=eng#28).)
+testimony of Jesus. (See [D&amp;C 76:79](/scriptures/dc-
+testament/dc/76.79?lang=eng#78); [D&amp;C 121:29](/scriptures/dc-
+testament/dc/121.29?lang=eng#28).)
 
 Finally, in those moments when we feel the pain which is a necessary part of
 the plan of happiness, we can remember that there was an ancient time when
 that plan was first unveiled. Then the perceptive among us voted not secretly,
 but audibly--by shouting for joy! (See [Job
-38:7](https://www.lds.org/scriptures/ot/job/38.7?lang=eng#6).) Let us not go
-back on those feelings now--for we saw more clearly then what we are
-experiencing now!
+38:7](/scriptures/ot/job/38.7?lang=eng#6).) Let us not go back on those
+feelings now--for we saw more clearly then what we are experiencing now!
 
 May God help us to be of good cheer, for this is the forerunner feeling which
 precedes that glorious condition when our joy will be full! (See [D&amp;C
-93:34](https://www.lds.org/scriptures/dc-testament/dc/93.34?lang=eng#33).)
+93:34](/scriptures/dc-testament/dc/93.34?lang=eng#33).)
 
 Meanwhile, He who knows the path perfectly has promised, "Be of good cheer,
 for I will lead you along. The kingdom is yours ... and the riches of eternity."
-([D&amp;C 78:18](https://www.lds.org/scriptures/dc-
-testament/dc/78.18?lang=eng#17).)
+([D&amp;C 78:18](/scriptures/dc-testament/dc/78.18?lang=eng#17).)
 
 In the name of Him who waits "with open arms to receive" us--Jesus Christ,
-amen. ([Morm.
-6:17](https://www.lds.org/scriptures/bofm/morm/6.17?lang=eng#16).)
+amen. ([Morm. 6:17](/scriptures/bofm/morm/6.17?lang=eng#16).)
+
+## References
 

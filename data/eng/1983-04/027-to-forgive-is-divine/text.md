@@ -3,13 +3,12 @@
 I would like to confine my remarks today to the principle of forgiveness as it
 applies to a person who has been disfellowshipped or excommunicated. By
 applying this principle we can "succor the weak, lift up the hands which hang
-down, and strengthen the feeble knees." ([D&amp;C
-81:5](https://www.lds.org/scriptures/dc-testament/dc/81.5?lang=eng#4).) The
-most loving action the Church can take at times is to disfellowship or
-excommunicate a person. This statement may seem incongruous to someone who
-does not understand the true nature of repentance and forgiveness. And even
-within the Church, members sometimes have difficulty knowing how they should
-relate to such a person.
+down, and strengthen the feeble knees." ([D&amp;C 81:5](/scriptures/dc-
+testament/dc/81.5?lang=eng#4).) The most loving action the Church can take at
+times is to disfellowship or excommunicate a person. This statement may seem
+incongruous to someone who does not understand the true nature of repentance
+and forgiveness. And even within the Church, members sometimes have difficulty
+knowing how they should relate to such a person.
 
 Should I limit my association to protect myself in case the sin is contagious?
 Should I show my disgust that he or she would commit such a serious
@@ -56,14 +55,14 @@ trespasses your Heavenly Father will also forgive you;
 
 "But if ye forgive not men their trespasses neither will your Father forgive
 your trespasses." ([3 Ne.
-13:14-15](https://www.lds.org/scriptures/bofm/3-ne/13.14-15?lang=eng#13).)
-That forgiveness which comes from our Heavenly Father is so complete that he
-will not even call to mind the sins we have committed. His forgiveness is so
-all-inclusive that the Lord will not even remember those sins. But there is a
-condition attached to that forgiveness:
+13:14-15](/scriptures/bofm/3-ne/13.14-15?lang=eng#13).) That forgiveness which
+comes from our Heavenly Father is so complete that he will not even call to
+mind the sins we have committed. His forgiveness is so all-inclusive that the
+Lord will not even remember those sins. But there is a condition attached to
+that forgiveness:
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them." ([D&amp;C 58:43](https://www.lds.org/scriptures/dc-
+them and forsake them." ([D&amp;C 58:43](/scriptures/dc-
 testament/dc/58.43?lang=eng#42).)
 
 As we plead for mercy, we need to show mercy to others. The injury people do
@@ -81,11 +80,11 @@ in making decisions. I must read the background material to make certain that
 all pertinent information is available to them. As I read the heartbreak
 contained in letters of people pleading for forgiveness, I realize the truth
 of Alma's statement: "Behold, I say unto you, wickedness never was happiness."
-([Alma 41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).) My
-heart goes out to those sufferers in a spirit of forgiveness. And instead of
-dwelling on the wickedness and grief of those who have sinned, I rejoice to
-read how many have abandoned their sinful practices and are now on the road
-back to righteousness and happiness. People can and do change.
+([Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9).) My heart goes out to
+those sufferers in a spirit of forgiveness. And instead of dwelling on the
+wickedness and grief of those who have sinned, I rejoice to read how many have
+abandoned their sinful practices and are now on the road back to righteousness
+and happiness. People can and do change.
 
 When people are disfellowshipped or excommunicated from the Church, it is done
 not to punish but to help them. Church discipline requires this action, but we
@@ -127,12 +126,12 @@ spouse has caused.
 A person with that attitude can hardly be called a follower of Jesus Christ.
 Even of those who were so wicked they crucified their Savior, he said:
 "Father, forgive them; for they know not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).) So, when
-Peter asked the Lord how often he should forgive a person who sinned against
-him, "Till seven times?" Jesus answered, "I say not unto thee, Until seven
-times: but, Until seventy times seven." ([Matt.
-18:21-22](https://www.lds.org/scriptures/nt/matt/18.21-22?lang=eng#20).)
-People can and do change, and our duty is to forgive them.
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).) So, when Peter asked the Lord
+how often he should forgive a person who sinned against him, "Till seven
+times?" Jesus answered, "I say not unto thee, Until seven times: but, Until
+seventy times seven." ([Matt.
+18:21-22](/scriptures/nt/matt/18.21-22?lang=eng#20).) People can and do
+change, and our duty is to forgive them.
 
 Many people bring troubles and difficulties upon themselves by an unforgiving
 attitude. Hence, in a modern revelation Jesus Christ revealed this great
@@ -140,18 +139,20 @@ truth:
 
 "Wherefore, I say unto you, that ye ought to forgive one another; for he that
 forgiveth not his brother his trespasses standeth condemned before the Lord;
-for there remaineth in him the greater sin." ([D&amp;C
-64:9](https://www.lds.org/scriptures/dc-testament/dc/64.9?lang=eng#8).) I take
-that to mean that it is a greater sin to refuse to forgive a person than it is
-to commit the sin for which that person was disfellowshipped or
-excommunicated. The Lord went on to say, "I, the Lord, will forgive whom I
-will forgive, but of you it is required to forgive all men." ([D&amp;C
-64:10](https://www.lds.org/scriptures/dc-testament/dc/64.10?lang=eng#9).) We
-must be willing to forgive others and even to forgive ourselves.
+for there remaineth in him the greater sin." ([D&amp;C 64:9](/scriptures/dc-
+testament/dc/64.9?lang=eng#8).) I take that to mean that it is a greater sin
+to refuse to forgive a person than it is to commit the sin for which that
+person was disfellowshipped or excommunicated. The Lord went on to say, "I,
+the Lord, will forgive whom I will forgive, but of you it is required to
+forgive all men." ([D&amp;C 64:10](/scriptures/dc-
+testament/dc/64.10?lang=eng#9).) We must be willing to forgive others and even
+to forgive ourselves.
 
 As we struggle toward that perfection which Jesus Christ holds out for us, let
 us give emphasis to forgiveness. Let us cultivate that aspect of our character
 and rejoice in the spirit of forgiveness, which is the comforting message of
 the Atonement. I pray that we may all cultivate that spirit, in the name of
 Jesus Christ, amen.
+
+## References
 

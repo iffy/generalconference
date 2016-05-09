@@ -102,14 +102,13 @@ evening in his room and prayed to the Lord to know of his standing before God?
 As a result, an angel appeared and said: 'Joseph, I have come to you from the
 presence of God to tell you that the Lord has a work for you to do, by which
 your name will be known for good and evil among all men' [see [JS--H
-1:33](https://www.lds.org/scriptures/pgp/js-h/1.33?lang=eng#32)]. What did
-Joseph Smith say? Did he say: 'Oh, no thanks, Mr. Angel. I don't want to go on
-a mission. I only wished to know if the Lord loves me!' Of course, he couldn't
-have said that. We want to tell you that we know this work is true just as
-surely as if we had knelt there by the side of Joseph Smith, because God has
-revealed it to us. He will reveal it to you, too. We don't think you should
-decide not to join his church until you have knelt down and asked the Lord
-what he wants you to do."
+1:33](/scriptures/pgp/js-h/1.33?lang=eng#32)]. What did Joseph Smith say? Did
+he say: 'Oh, no thanks, Mr. Angel. I don't want to go on a mission. I only
+wished to know if the Lord loves me!' Of course, he couldn't have said that.
+We want to tell you that we know this work is true just as surely as if we had
+knelt there by the side of Joseph Smith, because God has revealed it to us. He
+will reveal it to you, too. We don't think you should decide not to join his
+church until you have knelt down and asked the Lord what he wants you to do."
 
 And the investigators, as they pray, respond saying: "Of course, the Lord
 wants us to join the Church." The next step, naturally, is to prepare for
@@ -122,13 +121,12 @@ felt something they never understood or knew before. Did you notice? You felt
 it, too, as I told you these experiences, and I felt it. This is explained in
 the Doctrine and Covenants: "Wherefore, he that preacheth and he that
 receiveth, understand one another, and both are edified and rejoice together"
-([D&amp;C 50:22](https://www.lds.org/scriptures/dc-
-testament/dc/50.22?lang=eng#21)).
+([D&amp;C 50:22](/scriptures/dc-testament/dc/50.22?lang=eng#21)).
 
 We are further told: "The Spirit shall be given unto you by the prayer of
 faith; and if ye receive not the Spirit ye shall not teach" ([D&amp;C
-42:14](https://www.lds.org/scriptures/dc-testament/dc/42.14?lang=eng#13)).
-Prayer is the principal means by which this Spirit is obtained and felt.
+42:14](/scriptures/dc-testament/dc/42.14?lang=eng#13)). Prayer is the
+principal means by which this Spirit is obtained and felt.
 
 We must prepare ourselves to work with the Spirit of the Lord.
 
@@ -148,7 +146,9 @@ that would be provided for those who would accept Him and be baptized, he
 said: "And now my beloved brethren, do you believe these things? Behold, I say
 unto you, yea, I know that ye believe them; and the way that I know ye believe
 them is by the manifestation of the Spirit which is in me" ([Alma
-7:17](https://www.lds.org/scriptures/bofm/alma/7.17?lang=eng#16)). To this I
-bear testimony, after many wonderful experiences of the influence of the Holy
-Ghost, in the name of Jesus Christ, amen.
+7:17](/scriptures/bofm/alma/7.17?lang=eng#16)). To this I bear testimony,
+after many wonderful experiences of the influence of the Holy Ghost, in the
+name of Jesus Christ, amen.
+
+## References
 

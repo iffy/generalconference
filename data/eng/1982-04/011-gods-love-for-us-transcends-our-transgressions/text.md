@@ -2,7 +2,7 @@
 
 The Galilean fisherman Simon Peter, upon recognizing for the first time the
 divine power of Jesus, exclaimed, "Depart from me; for I am a sinful man, O
-Lord." ([Luke 5:8](https://www.lds.org/scriptures/nt/luke/5.8?lang=eng#7).)
+Lord." ([Luke 5:8](/scriptures/nt/luke/5.8?lang=eng#7).)
 
 Each one of us, at times, may feel as Peter, conscious of our failings and
 uncomfortable at the thought of approaching the Lord. Transgression causes us
@@ -20,7 +20,7 @@ Knowing we have offended our Father in Heaven, we are afraid to ask his help,
 feeling that we don't deserve it. Paradoxically, when we are most in need of
 the Lord's influence we deserve it least. Nevertheless, in such circumstances
 he says to us, as Jesus said to the trembling Peter, "Fear not." ([Luke
-5:10](https://www.lds.org/scriptures/nt/luke/5.10?lang=eng#9).)
+5:10](/scriptures/nt/luke/5.10?lang=eng#9).)
 
 My message today might best be illustrated through the experiences of a young
 couple whom I will call John and Gayle.
@@ -87,7 +87,7 @@ In these latter days the Lord has said:
 "For I the Lord cannot look upon sin with the least degree of allowance;
 
 "Nevertheless, he that repents and does the commandments of the Lord shall be
-forgiven." ([D&amp;C 1:31-32](https://www.lds.org/scriptures/dc-
+forgiven." ([D&amp;C 1:31-32](/scriptures/dc-
 testament/dc/1.31-32?lang=eng#30).)
 
 By disobeying the laws of God and breaking his commandments, we do offend him,
@@ -101,15 +101,14 @@ redeeming sacrifice satisfies the demands of justice for us and makes possible
 repentance, forgiveness, and reconciliation with our Father. For indeed, "God
 so loved the world, that he gave his only begotten Son, that whosoever
 believeth in him should not perish, but have everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 We may accept this great gift through faith in Jesus Christ and repentance,
 followed by a covenant made with him through baptism of the water and of the
 Spirit. Then, each week, as we receive the sacrament, we renew our covenant
 that we will "always remember him and keep his commandments." The promise
 attached to that covenant is that we "may always have his Spirit to be with
-[us]." ([D&amp;C 20:77](https://www.lds.org/scriptures/dc-
-testament/dc/20.77?lang=eng#76).)
+[us]." ([D&amp;C 20:77](/scriptures/dc-testament/dc/20.77?lang=eng#76).)
 
 Hosea's ancient message is repeated and elaborated throughout the scriptures.
 Through Isaiah, another Old Testament prophet, the Lord said to his people:
@@ -121,8 +120,7 @@ eyes; cease to do evil;
 
 "Come now, and let us reason together, saith the Lord: though your sins be as
 scarlet, they shall be as white as snow; though they be red like crimson, they
-shall be as wool." ([Isa.
-1:16-18](https://www.lds.org/scriptures/ot/isa/1.16-18?lang=eng#15).)
+shall be as wool." ([Isa. 1:16-18](/scriptures/ot/isa/1.16-18?lang=eng#15).)
 
 The Lord, speaking to Alma, the Nephite prophet, says: "Whosoever
 transgresseth against me, him shall ye judge according to the sins which he
@@ -131,7 +129,7 @@ the sincerity of his heart, him shall ye forgive, and I will forgive him also.
 
 "Yea, and as often as my people repent will I forgive them their trespasses
 against me." ([Mosiah
-26:29-30](https://www.lds.org/scriptures/bofm/mosiah/26.29-30?lang=eng#28).)
+26:29-30](/scriptures/bofm/mosiah/26.29-30?lang=eng#28).)
 
 Too often we make repentance more difficult for each other by our failure to
 forgive one another. However, we are admonished in modern revelation that "ye
@@ -140,14 +138,14 @@ trespasses standeth condemned before the Lord; for there remaineth in him the
 greater sin.
 
 "I, the Lord, will forgive whom I will forgive, but of you it is required to
-forgive all men." ([D&amp;C 64:9-10](https://www.lds.org/scriptures/dc-
+forgive all men." ([D&amp;C 64:9-10](/scriptures/dc-
 testament/dc/64.9-10?lang=eng#8).)
 
 Also from modern revelation comes one of the most comforting, hopeful
 pronouncements ever spoken:
 
 "He who has repented of his sins, the same is forgiven, and I, the Lord,
-remember them no more." ([D&amp;C 58:42](https://www.lds.org/scriptures/dc-
+remember them no more." ([D&amp;C 58:42](/scriptures/dc-
 testament/dc/58.42?lang=eng#41).)
 
 God is our father; he loves us; his love is infinite and unconditional. His
@@ -160,4 +158,6 @@ individually. That such awareness may increase within each of us is my prayer,
 to which I add my personal witness to you individually that Jesus of Nazareth
 is the Son of God, the Savior of all mankind, and the Redeemer of each of us
 individually, in the sacred name of Jesus Christ, amen.
+
+## References
 

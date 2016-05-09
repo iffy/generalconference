@@ -2,7 +2,7 @@
 
 "If ye were of the world, the world would love his own: but ... ye are not of
 the world, but I have chosen you out of the world" ([John
-15:19](https://www.lds.org/scriptures/nt/john/15.19?lang=eng#18)).
+15:19](/scriptures/nt/john/15.19?lang=eng#18)).
 
 From the teachings of the Savior we have adopted the common saying in the
 Church, "to be in the world, but not of the world." Normally, when this saying
@@ -68,13 +68,13 @@ he and certain other Hebrews were taken into the court of Nebuchadnezzar for
 service. They were chosen because of their wisdom and knowledge and ability to
 learn. Thus, Daniel was brought into a strange land with strange customs, a
 strange environment, and a very different religious heritage (see [Dan.
-1](https://www.lds.org/scriptures/ot/dan/1.title?lang=eng)).
+1](/scriptures/ot/dan/1?lang=eng)).
 
 Daniel's first test in being "in the world" came when the servant of
 Nebuchadnezzar ordered him to drink of his wine and eat of the "king's meat."
 Daniel "purposed in his heart that he would not defile himself with the
 portion of the king's meat, nor with the wine which he drank" ([Dan.
-1:8](https://www.lds.org/scriptures/ot/dan/1.8?lang=eng#7)).
+1:8](/scriptures/ot/dan/1.8?lang=eng#7)).
 
 The servant argued that the king had made him responsible for training these
 young men, and had commanded they should eat and drink the same as the others.
@@ -127,8 +127,8 @@ contained in the Doctrine and Covenants?
 world, upon which all blessings are predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated" ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19)).
+which it is predicated" ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19)).
 
 In addition to being obedient to the word of the Lord, we have been instructed
 in our responsibilities to declare the gospel to _all_ of our Father in
@@ -146,9 +146,8 @@ joy with him in the kingdom of my Father!
 
 "And now, if your joy will be great with one soul that you have brought unto
 me into the kingdom of my Father, how great will be your joy if you should
-bring many souls unto me!" ([D&amp;C 18:10,
-13-16](https://www.lds.org/scriptures/dc-
-testament/dc/18.10%2C13-16?lang=eng#9)).
+bring many souls unto me!" ([D&amp;C 18:10, 13-16](/scriptures/dc-
+testament/dc/18.10,13-16?lang=eng#9)).
 
 I don't know how we can experience this joy if we are not willing to reach out
 beyond our own circle of church friends. We live "in the world" during our
@@ -206,4 +205,6 @@ faith that good will ultimately triumph over evil.
 
 This is the Lord's work in which we are engaged, I witness to you in the name
 of Jesus Christ, amen.
+
+## References
 

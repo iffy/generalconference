@@ -133,8 +133,8 @@ Be faithful. Keep the commandments. Establish a deep and abiding relationship
 with the Lord Jesus Christ. Know that He is there--always there. Reach out to
 Him. He does answer prayers. He does bring peace. He does give hope. In the
 words of the Psalmist: "He is my refuge and my fortress: ... in him will I
-trust." ([Ps. 91:2](https://www.lds.org/scriptures/ot/ps/91.2?lang=eng#1).)
-Study carefully the life of the Savior. He is our great exemplar.
+trust." ([Ps. 91:2](/scriptures/ot/ps/91.2?lang=eng#1).) Study carefully the
+life of the Savior. He is our great exemplar.
 
 Make the scriptures your constant companion. Read daily from the Book of
 Mormon and receive of its strength and spiritual power.
@@ -142,8 +142,8 @@ Mormon and receive of its strength and spiritual power.
 Realize your personal self-worth. Never demean yourself. Realize the strength
 of your inner self and that, with God's help, you "can do all things through
 Christ which strengtheneth [you]." ([Philip.
-4:1](https://www.lds.org/scriptures/nt/philip/4.1?lang=eng#0).) Life does not
-begin only upon marriage. There are important things for you to do right now.
+4:1](/scriptures/nt/philip/4.1?lang=eng#0).) Life does not begin only upon
+marriage. There are important things for you to do right now.
 
 Sister Eliza R. Snow declared: "There is no sister so isolated, and her sphere
 so narrow but what she can do a great deal towards establishing the kingdom of
@@ -160,7 +160,7 @@ If you really want to receive joy and happiness, then serve others with all
 your heart. Lift their burden, and your own burden will be lighter. Truly in
 the words of Jesus of Nazareth: "He that findeth his life shall lose it: and
 he that loseth his life for my sake, shall find it." ([Matt.
-10:39](https://www.lds.org/scriptures/nt/matt/10.39?lang=eng#38).)
+10:39](/scriptures/nt/matt/10.39?lang=eng#38).)
 
 And always be improving yourself. Set personal achievement goals and stretch
 to accomplish them. Improve yourself physically, socially, mentally, and
@@ -174,8 +174,7 @@ Think more about what you _do_ have than what you _don't_ have. Dwell upon the
 goodnesses of the Lord to you. Remember His words to the Prophet Joseph: "He
 who receiveth all things with thankfulness shall be made glorious; and the
 things of this earth shall be added unto him, even an hundred fold, yea,
-more." ([D&amp;C 78:19](https://www.lds.org/scriptures/dc-
-testament/dc/78.19?lang=eng#18).)
+more." ([D&amp;C 78:19](/scriptures/dc-testament/dc/78.19?lang=eng#18).)
 
 My humble desire for the wonderful single adult sisters of the Church is that
 you will receive all that the Father hath, "even an hundred fold, yea, more."
@@ -197,4 +196,6 @@ Era, 1953, p. 449.)
 God bless and sustain you always. I leave my blessings upon you wonderful
 sisters with love in my heart for you, and do so in the name of Jesus Christ,
 amen.
+
+## References
 

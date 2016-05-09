@@ -35,7 +35,7 @@ man, nor the children of men; neither Adam, your father, whom I created.
 "Behold, I gave unto him that he should be an agent unto himself; and I gave
 unto him commandment, but no temporal commandment gave I unto him, for my
 commandments are spiritual; they are not natural nor temporal, neither carnal
-nor sensual." ([D&amp;C 29:34-35](https://www.lds.org/scriptures/dc-
+nor sensual." ([D&amp;C 29:34-35](/scriptures/dc-
 testament/dc/29.34-35?lang=eng#33).)
 
 As individuals, we have some limitations when it comes to our understanding of
@@ -69,7 +69,7 @@ we not, then, be willing to heed the counsel given by Solomon:
 understanding.
 
 "In all thy ways acknowledge him, and he shall direct thy paths." ([Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).)
+3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4).)
 
 Without divine guidance, we will have difficulty in the shaded areas of life.
 But we need not walk alone. Our Father in heaven and his Son Jesus Christ and
@@ -87,7 +87,7 @@ himself as recorded in John, chapter 7, verses 16 and 17:
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself." [[John
-7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15)]
+7:16-17](/scriptures/nt/john/7.16-17?lang=eng#15)]
 
 In the Epistle of Paul to the Romans, chapter 1, verses 16 and 17, we read:
 
@@ -97,31 +97,28 @@ Greek.
 
 "For therein is the righteousness of God revealed from faith to faith: as it
 is written, The just shall live by faith." [[Rom.
-1:16-17](https://www.lds.org/scriptures/nt/rom/1.16-17?lang=eng#15)]
+1:16-17](/scriptures/nt/rom/1.16-17?lang=eng#15)]
 
 In Second Corinthians, chapter 5, verse 7, we read: "For we walk by faith, not
-by sight." [[2 Cor.
-5:7](https://www.lds.org/scriptures/nt/2-cor/5.7?lang=eng#6)]
+by sight." [[2 Cor. 5:7](/scriptures/nt/2-cor/5.7?lang=eng#6)]
 
 From the Book of Mormon, in Alma, chapter 26, verse 22, these words spoken by
 Ammon: "Yea, he that repenteth and exerciseth faith, and bringeth forth good
 works, and prayeth continually without ceasing--unto such it is given to know
 the mysteries of God; yea, unto such it shall be given to reveal things which
 never have been revealed. ..." [[Alma
-26:22](https://www.lds.org/scriptures/bofm/alma/26.22?lang=eng#21)]
+26:22](/scriptures/bofm/alma/26.22?lang=eng#21)]
 
 From the Doctrine and Covenants we read in section 88, verse 63: "Draw near
 unto me and I will draw near unto you; seek me diligently and ye shall find
 me; ask, and ye shall receive; knock, and it shall be opened unto you."
-[[D&amp;C 88:63](https://www.lds.org/scriptures/dc-
-testament/dc/88.63?lang=eng#62)]
+[[D&amp;C 88:63](/scriptures/dc-testament/dc/88.63?lang=eng#62)]
 
 And, in section 18, verse 18, the Lord, speaking to Joseph Smith, Oliver
 Cowdery, and David Whitmer, said: "Ask the Father in my name, in faith
 believing that you shall receive, and you shall have the Holy Ghost, which
 manifesteth all things which are expedient unto the children of men."
-[[D&amp;C 18:18](https://www.lds.org/scriptures/dc-
-testament/dc/18.18?lang=eng#17)]
+[[D&amp;C 18:18](/scriptures/dc-testament/dc/18.18?lang=eng#17)]
 
 And, in section 121, verses 45 and 46
 
@@ -133,13 +130,12 @@ priesthood shall distil upon thy soul as the dews from heaven.
 "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging
 scepter of righteousness and truth; and thy dominion shall be an everlasting
 dominion, and without compulsory means it shall flow unto thee forever and
-ever." [[D&amp;C 121:45-46](https://www.lds.org/scriptures/dc-
+ever." [[D&amp;C 121:45-46](/scriptures/dc-
 testament/dc/121.45-46?lang=eng#44)]
 
 The Lord has told us in the Book of Mormon, in Moroni, the tenth chapter and
 the fifth verse, that by the power of the Holy Ghost we may know the truth of
-all things. [[Moro.
-10:5](https://www.lds.org/scriptures/bofm/moro/10.5?lang=eng#4)] What a
+all things. [[Moro. 10:5](/scriptures/bofm/moro/10.5?lang=eng#4)] What a
 wonderful promise that is; and it can be realized by all of us who are members
 of the Church, because during our confirmation, following baptism, hands were
 laid on our heads, and one having authority gave us the gift of the Holy
@@ -181,4 +177,6 @@ gospel, and through fasting and prayer.
 I testify to you that God lives, that the gospel is true, that this is the
 true church of Jesus Christ, and that we have a true prophet of God leading us
 today. In the name of Jesus Christ. Amen.
+
+## References
 

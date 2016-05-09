@@ -24,7 +24,7 @@ troubles:
 "Cease to be idle; cease to be unclean; cease to find fault one with another;
 cease to sleep longer than is needful; retire to thy bed early, that ye may
 not be weary; arise early, that your bodies and your minds may be
-invigorated." ([D&amp;C 88:124](https://www.lds.org/scriptures/dc-
+invigorated." ([D&amp;C 88:124](/scriptures/dc-
 testament/dc/88.124?lang=eng#123).)
 
 This is a very controversial subject, with many different ideas. I once heard
@@ -53,7 +53,7 @@ upon thy soul as the dews from heaven.
 "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging
 scepter of righteousness and truth; and thy dominion shall be an everlasting
 dominion, and without compulsory means it shall flow unto thee forever and
-ever." ([D&amp;C 121:45-46](https://www.lds.org/scriptures/dc-
+ever." ([D&amp;C 121:45-46](/scriptures/dc-
 testament/dc/121.45-46?lang=eng#44).)
 
 Concerning our fellowman and our attitude toward him, the Prophet Joseph Smith
@@ -63,15 +63,14 @@ gave this purposeful thought:
 holiness before me.
 
 "And again I say unto you, let every man esteem his brother as himself."
-([D&amp;C 38:24-25](https://www.lds.org/scriptures/dc-
-testament/dc/38.24-25?lang=eng#23).)
+([D&amp;C 38:24-25](/scriptures/dc-testament/dc/38.24-25?lang=eng#23).)
 
 For a man to seek ascendance over another man by the suppressing of his rights
 is not virtuous and would not tie in with the words of the Master, who said:
 
 "Therefore all things whatsoever ye would that men should do to you, do ye
 even so to them: for this is the law and the prophets." ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11).)
+7:12](/scriptures/nt/matt/7.12?lang=eng#11).)
 
 As to sleep and rest, the Prophet Joseph Smith, in saying "Cease to sleep
 longer than is needful," does not mean, as Dr. John A. Widtsoe states it, that
@@ -92,7 +91,7 @@ Soon after Adam and Eve, our first earthly parents, were driven from the
 Garden of Eden because of their yielding to temptation, they came to know the
 difference between right and wrong and good and evil, for thus the Lord
 declared: "... Behold, the man is become as one of us, to know good and evil. ..."
-([Gen. 3:22](https://www.lds.org/scriptures/ot/gen/3.22?lang=eng#21).)
+([Gen. 3:22](/scriptures/ot/gen/3.22?lang=eng#21).)
 
 Without a knowledge of good and evil, the divine principle of agency would be
 ineffectual. The application of this law, while serving to elevate man, can
@@ -100,7 +99,7 @@ also condemn him. For that in which we participate, whether it is good or
 evil, either defiles or exalts us. Concerning this, the Master has said:
 "There is nothing from without a man, that entering into him can defile him:
 but the things which come out of him, those are they that defile the man."
-([Mark 7:15](https://www.lds.org/scriptures/nt/mark/7.15?lang=eng#14).)
+([Mark 7:15](/scriptures/nt/mark/7.15?lang=eng#14).)
 
 There is weakness in the thought that one can indulge heavily in both evil and
 good things at the same time. Many centuries ago Jesus said that "man cannot
@@ -108,7 +107,7 @@ serve two masters," he will either love one and despise the other or hate the
 one and love the other. The apostle James emphasized the importance of
 constantly choosing right over wrong. To those who attempt an allegiance to
 both right and wrong, he declared: "A double minded man is unstable in all his
-ways." ([James 1:8](https://www.lds.org/scriptures/nt/james/1.8?lang=eng#7).)
+ways." ([James 1:8](/scriptures/nt/james/1.8?lang=eng#7).)
 
 Man is the sum result of what he thinks and does. Habit is the instrument that
 molds his character and makes of him essentially what he is. Habit can become
@@ -118,11 +117,10 @@ is the first element of success.
 
 The effect that both good and bad habits have on our lives is all too real to
 be ignored. Bad habits that violate the commandments of physical health
-([D&amp;C 89](https://www.lds.org/scriptures/dc-
-testament/dc/89.title?lang=eng)) and of moral behavior ([D&amp;C
-121](https://www.lds.org/scriptures/dc-testament/dc/121.title?lang=eng)),
-given by revelation to the Prophet Joseph Smith many years ago, will threaten
-and destroy all opportunities for real happiness.
+([D&amp;C 89](/scriptures/dc-testament/dc/89?lang=eng)) and of moral behavior
+([D&amp;C 121](/scriptures/dc-testament/dc/121?lang=eng)), given by revelation
+to the Prophet Joseph Smith many years ago, will threaten and destroy all
+opportunities for real happiness.
 
 The experience of countless families, the demonstration of crowded hospitals,
 treating pitiful cases caused by drug addiction in its many forms, such as
@@ -151,13 +149,12 @@ Choosing good over evil and right over wrong is the crowning achievement of
 life, and in so doing man becomes the masterpiece of the Creator and fulfills
 the basic purposes of his mortal probation. An ancient prophet speaks of it in
 this way: "... he that ruleth his spirit [is greater] than he that taketh a
-city." ([Prov.
-16:32](https://www.lds.org/scriptures/ot/prov/16.32?lang=eng#31).)
+city." ([Prov. 16:32](/scriptures/ot/prov/16.32?lang=eng#31).)
 
 Among the last words spoken unto the beloved apostle John, while in vision on
 the Isle of Patmos, are these: "He that overcometh shall inherit all things;
 and I will be his God, and he shall be my son." ([Rev.
-21:7](https://www.lds.org/scriptures/nt/rev/21.7?lang=eng#6).)
+21:7](/scriptures/nt/rev/21.7?lang=eng#6).)
 
 The fusing of ritual and commandment with everyday living calls for the best
 that is in us, that by our agency we may feel the affected condition by
@@ -200,4 +197,6 @@ I know that God lives, that Jesus is the Christ, that Joseph Smith and his
 successors, including President Joseph Fielding Smith, are prophets of God.
 
 Of this I testify in the name of Jesus Christ. Amen.
+
+## References
 

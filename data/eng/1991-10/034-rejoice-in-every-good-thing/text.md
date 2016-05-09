@@ -9,14 +9,14 @@ during this coming year in which we celebrate the sesquicentennial of Relief
 Society. Wherever you are, whatever you are wearing, whatever language you are
 hearing, you are part of a powerful force of joy, peace, and goodness. We are
 here to rejoice together "in every good thing." ([Deut.
-26:11](https://www.lds.org/scriptures/ot/deut/26.11?lang=eng#10).)
+26:11](/scriptures/ot/deut/26.11?lang=eng#10).)
 
 It is the strength and joy from a Christ-centered and Christlike life that
 gives us reason to rejoice." ([Alma
-26:35](https://www.lds.org/scriptures/bofm/alma/26.35?lang=eng#34).) Let me
-name three blessings from our faith in Christ for which we can rejoice: (1)
-Let us rejoice in our sisterhood. (2) Let us rejoice in our diversity. And (3)
-let us rejoice in our charity!
+26:35](/scriptures/bofm/alma/26.35?lang=eng#34).) Let me name three blessings
+from our faith in Christ for which we can rejoice: (1) Let us rejoice in our
+sisterhood. (2) Let us rejoice in our diversity. And (3) let us rejoice in our
+charity!
 
 First, let us rejoice in our sisterhood. Look around the room you are in. How
 many are with you? There may be thousands, as there are in this tabernacle. If
@@ -54,14 +54,14 @@ tinsel halo on my head. But when the big night came, I was ready.
 
 "Fear not," I said. "For, behold, I bring you good tidings of great joy. ... For
 unto you is born this day in the city of David a Saviour, which is Christ the
-Lord." ([Luke 2:10](https://www.lds.org/scriptures/nt/luke/2.10?lang=eng#9).)
-I didn't know who David was or Christ. I only knew Buddha. I didn't know what
-swaddling clothes were or why the baby was in a manger. I didn't know what
-shepherds were or why they were afraid or what good tidings were. It was only
-later, when I became acquainted with the Church at age eleven and joined the
-Church at age fifteen, that I realized that baby was the Son of God and that
-the good tidings were those of the gospel. Then I understood my "reason to
-rejoice" in Christ, the Lord.
+Lord." ([Luke 2:10](/scriptures/nt/luke/2.10?lang=eng#9).) I didn't know who
+David was or Christ. I only knew Buddha. I didn't know what swaddling clothes
+were or why the baby was in a manger. I didn't know what shepherds were or why
+they were afraid or what good tidings were. It was only later, when I became
+acquainted with the Church at age eleven and joined the Church at age fifteen,
+that I realized that baby was the Son of God and that the good tidings were
+those of the gospel. Then I understood my "reason to rejoice" in Christ, the
+Lord.
 
 Again, look around the room you are in. Do you see women of different ages,
 races, or different backgrounds in the Church? Of different educational,
@@ -158,10 +158,12 @@ and depth, and height;
 
 "And to know the love of Christ, which passeth knowledge, that ye might be
 filled with all the fulness of God." ([Eph.
-3:17-19](https://www.lds.org/scriptures/nt/eph/3.17-19?lang=eng#16).)
+3:17-19](/scriptures/nt/eph/3.17-19?lang=eng#16).)
 
 Let us come unto Christ. Let us rejoice in him, the giver of all good things,
 and rejoice in those good things he has given, including the diversity and the
 unity of our sisterhood, and in our chance to be his hands in doing his
 compassionate work upon the earth, I pray, in the name of Jesus Christ, amen.
+
+## References
 

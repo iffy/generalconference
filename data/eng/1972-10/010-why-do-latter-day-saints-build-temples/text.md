@@ -13,14 +13,13 @@ not members of our faith is: "Why do Latter-day Saints build temples?"
 
 Our third Article of Faith is: "We believe that through the Atonement of
 Christ, all mankind may be saved, by obedience to the laws and ordinances of
-the Gospel." [[A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2)]
+the Gospel." [[A of F 1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2)]
 
 The fourth Article of Faith follows: "We believe that the first principles and
 ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second,
 Repentance; third, Baptism by immersion for the remission of sins; fourth,
 Laying on of hands for the gift of the Holy Ghost." [[A of F
-1:4](https://www.lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3)]
+1:4](/scriptures/pgp/a-of-f/1.4?lang=eng#3)]
 
 With God, all laws and ordinances must be complied with and obeyed. Christ
 said to Nicodemus, "Verily, verily, I say unto thee, Except a man be born
@@ -31,7 +30,7 @@ the second time into his mother's womb, and be born?
 
 "Jesus answered, Verily, verily, I say unto thee, Except a man be born of
 water and of the Spirit, he cannot enter into the kingdom of God." ([John
-3:3-5](https://www.lds.org/scriptures/nt/john/3.3-5?lang=eng#2).)
+3:3-5](/scriptures/nt/john/3.3-5?lang=eng#2).)
 
 Christ had already confirmed the fullness and exactness of this law in his own
 compliance thereto, as recorded in Matthew: "Then cometh Jesus from Galilee to
@@ -42,7 +41,7 @@ thou to me?
 
 "And Jesus answering said unto him, Suffer it to be so now: for thus it
 becometh us to fulfil all righteousness. Then he suffered him." ([Matt.
-3:13-15](https://www.lds.org/scriptures/nt/matt/3.13-15?lang=eng#12).)
+3:13-15](/scriptures/nt/matt/3.13-15?lang=eng#12).)
 
 Baptism, then, is for _all _mankind, even Christ, the very Son of God, who was
 perfect and without sin. Then it is all the more necessary for all of _us._
@@ -65,7 +64,7 @@ spirits of those who had died:
 "Which sometime were disobedient, when once the longsuffering of God waited in
 the days of Noah, while the ark was a preparing, wherein few, that is, eight
 souls were saved by water." ([1 Pet.
-3:19-20](https://www.lds.org/scriptures/nt/1-pet/3.19-20?lang=eng#18).)
+3:19-20](/scriptures/nt/1-pet/3.19-20?lang=eng#18).)
 
 This opened the way for all who did not have the opportunity to accept his
 gospel in this life to accept it after death. This does not provide the
@@ -74,7 +73,7 @@ ordinance of baptism, which is a must for entrance into the kingdom of God.
 Paul, preaching to the Corinthians, trying to convert them to the reality of a
 resurrection, asked them, "Else what shall they do which are baptized for the
 dead, if the dead rise not at all? why are they then baptized for the dead?"
-([1 Cor. 15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).)
+([1 Cor. 15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).)
 
 Obviously, they were then practicing a vicarious ordinance of baptism for
 their kindred dead.
@@ -108,7 +107,7 @@ are in heaven." (_Documentary History of the Church, _vol. 6, p. 251. Italics
 added.)
 
 Our forefathers who did not have this opportunity were promised that this day
-would come. (See [D&amp;C 121:26-27](https://www.lds.org/scriptures/dc-
+would come. (See [D&amp;C 121:26-27](/scriptures/dc-
 testament/dc/121.26-27?lang=eng#25).)
 
 Since the coming of Elijah the prophet to Joseph Smith and Oliver Cowdery in
@@ -131,7 +130,7 @@ be baptized for those who are dead--
 
 "For this ordinance belongeth to my house, and cannot be acceptable to me,
 only in the days of your poverty, wherein ye are not able to build a house
-unto me." ([D&amp;C 124:27-30](https://www.lds.org/scriptures/dc-
+unto me." ([D&amp;C 124:27-30](/scriptures/dc-
 testament/dc/124.27-30?lang=eng#26).)
 
 Then he tells of other sacred ordinances that are to be performed in his
@@ -169,4 +168,6 @@ records and so live to be worthy of taking part in this work.
 
 I pray the Lord to bless us to do this work, in the name of Jesus Christ.
 Amen.
+
+## References
 

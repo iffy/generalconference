@@ -21,7 +21,7 @@ and Covenants. It is found in the fourth verse:
 "Behold, verily, thus saith the Lord unto you: In consequence of evils and
 designs which do and will exist in the hearts of conspiring men in the last
 days, I have warned you, and forewarn you, by giving unto you this word of
-wisdom by revelation." [[D&amp;C 89:4](https://www.lds.org/scriptures/dc-
+wisdom by revelation." [[D&amp;C 89:4](/scriptures/dc-
 testament/dc/89.4?lang=eng#3)]
 
 Consider carefully the principle: "I have warned you, and forewarn you, ... by
@@ -53,7 +53,7 @@ last general conference before President Smith passed away. He said: "There is
 one thing which we should have exceedingly clear in our minds. Neither the
 President of the Church, nor the First Presidency, nor the united voice of the
 First Presidency and the Twelve will ever lead the Saints astray or send forth
-counsel to the world that is contrary to the mind and will of the Lord." [1]
+counsel to the world that is contrary to the mind and will of the Lord."[1]
 
 There came to me that evening a witness of the Spirit that he spoke the truth.
 I felt an overwhelming sense of peace and assurance that the Lord loved us and
@@ -73,8 +73,7 @@ President Clark continues: "Others of the General Authorities are not given
 this special spiritual endowment and authority covering their teaching; they
 have a resulting limitation, and the resulting limitation upon their power and
 authority in teaching applies to every other officer and member of the Church,
-for none of them is spiritually endowed as a prophet, seer, and revelator."
-[2]
+for none of them is spiritually endowed as a prophet, seer, and revelator."[2]
 
 I emphasize that the rest of us do not have that specific power and authority.
 The Seventy have an endowment that is uniquely theirs; temple presidents and
@@ -119,7 +118,7 @@ finally excommunication comes he associates himself with other apostates to
 develop and strengthen cults. At this stage he is likely to claim revelation
 for himself, revelations from the Lord directing him in his interpretations
 and his actions. These manifestations are superior to anything from living
-leaders, he claims." [3]
+leaders, he claims."[3]
 
 Almost without exception, as one finds himself or herself walking the road
 President Kimball just outlined, there will be priesthood leaders who will
@@ -139,7 +138,7 @@ for eternal things. We cannot take the time to obtain a knowledge of the
 doctrines of eternity--for that requires sacrifice, effort, and struggle.
 Furthermore, we have learned to live in a world of clamor and noise and haste
 and hurry to the extent that we have often become immune to the Spirit of the
-Lord and the "peaceable things of the kingdom." [4]
+Lord and the "peaceable things of the kingdom."[4]
 
 How do we prepare ourselves to be in harmony with the First Presidency and the
 Council of the Twelve?
@@ -151,7 +150,7 @@ certainty without the education of the world.
 "Jesus answered them, and said, My doctrine is not mine, but his that sent me.
 
 "If any man will _do_ his will, he shall know of the doctrine, whether it be
-of God, or whether I speak of myself." [5]
+of God, or whether I speak of myself."[5]
 
 We must learn the will of our Father in Heaven by earnest study. Next, we must
 act upon it. Study alone is not sufficient; we must act upon the words of
@@ -163,7 +162,7 @@ those _who labor in the vineyard:_
 blessing, and _they shall__believe on his [Joseph Smith's] words,_ which are
 given him through me by the Comforter, which manifesteth that Jesus was
 crucified by sinful men for the sins of the world, yea, for the remission of
-sins unto the contrite heart." [6]
+sins unto the contrite heart."[6]
 
 If we will follow, with diligence, the counsel and instruction that is the
 united voice of these Brethren, we will know of the doctrine, whether it be of
@@ -194,15 +193,15 @@ In the name of Jesus Christ, amen.
 
 ## References
 
-  1.  In Conference Report, Apr. 1972, p. 99.
+  1. In Conference Report, Apr. 1972, p. 99.
 
-  2.  Quoted in Brent L. Top, Larry E. Dahl, and Walter D. Bowen, _Follow the Living Prophets_ (Salt Lake City: Bookcraft, 1993), pp. 34-35.
+  2. Quoted in Brent L. Top, Larry E. Dahl, and Walter D. Bowen, _Follow the Living Prophets_ (Salt Lake City: Bookcraft, 1993), pp. 34-35.
 
-  3.   _The Teachings of Spencer W. Kimball_ (Salt Lake City: Bookcraft, 1982), p. 462.
+  3. _The Teachings of Spencer W. Kimball_ (Salt Lake City: Bookcraft, 1982), p. 462.
 
-  4.   [D&amp;C 36:2](https://www.lds.org/scriptures/dc-testament/dc/36.2?lang=eng#1).
+  4. [D&amp;C 36:2](https://www.lds.org/scriptures/dc-testament/dc/36.2?lang=eng#1).
 
-  5.   [John 7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15); emphasis added.
+  5. [John 7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15); emphasis added.
 
-  6.   [D&amp;C 21:9](https://www.lds.org/scriptures/dc-testament/dc/21.9?lang=eng#8); emphasis added.
+  6. [D&amp;C 21:9](https://www.lds.org/scriptures/dc-testament/dc/21.9?lang=eng#8); emphasis added.
 

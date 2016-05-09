@@ -122,10 +122,10 @@ power through love and kindness and warning to help strengthen and guide all
 members in the paths of truth and righteousness. We feel as Nephi did when
 "iniquity had come upon the Nephites ... and ... his heart was swollen with sorrow
 within his breast; and he did exclaim in the agony of his soul." ([Hel.
-7:6](https://www.lds.org/scriptures/bofm/hel/7.6?lang=eng#5).) Our concern is
---and it should be the concern of every family, every father, every adult, and
-every priesthood holder--how can we best guard and protect ourselves and our
-children and others against the evils of the world?
+7:6](/scriptures/bofm/hel/7.6?lang=eng#5).) Our concern is--and it should be
+the concern of every family, every father, every adult, and every priesthood
+holder--how can we best guard and protect ourselves and our children and
+others against the evils of the world?
 
 Let me refer to and sort of paraphrase "The Parable of the Defective Battery,"
 written by Elder James E. Talmage. (See Albert L. Zobell, Jr., _The Parable of
@@ -211,7 +211,7 @@ and stir them up to anger against that which is good.
 "And others will he pacify, and lull them away into carnal security, that they
 will say: All is well in Zion; yea, Zion prospereth, all is well--and thus the
 devil cheateth their souls, and leadeth them away carefully down to hell." ([2
-Ne. 28:20-21](https://www.lds.org/scriptures/bofm/2-ne/28.20-21?lang=eng#19).)
+Ne. 28:20-21](/scriptures/bofm/2-ne/28.20-21?lang=eng#19).)
 
 Let us consider three things which today particularly are leading the people
 away. First, failure to keep the Sabbath day holy; second, breaking the Word
@@ -255,21 +255,20 @@ Lord said to the children of Israel:
 
 "For thou art an holy people unto the Lord thy God, and the Lord hath chosen
 thee to be a peculiar people unto himself, above all the nations that are upon
-the earth." ([Deut.
-14:2](https://www.lds.org/scriptures/ot/deut/14.2?lang=eng#1).)
+the earth." ([Deut. 14:2](/scriptures/ot/deut/14.2?lang=eng#1).)
 
 Now, my brethren, I would like to bear my testimony to you and bear witness
 that I know, as I know I stand here, that God is a personal, living God in
 whose image we were formed. He is interested in us and wants us to succeed. He
 "so loved the world, that he gave his only begotten Son [Jesus Christ], that
 whosoever believeth in him should not perish, but have everlasting life."
-([John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).) He has
-given us the way by which we should live and act as priesthood holders, which
-we are; and He and His Son, Jesus Christ, came to this earth and restored the
-gospel in its fulness. We are so fortunate to have that gospel, to understand
-who we are and why we are here and how we can get back into the presence of
-our Heavenly Father. He expects every boy to so live all the time to be an
-example for good.
+([John 3:16](/scriptures/nt/john/3.16?lang=eng#15).) He has given us the way
+by which we should live and act as priesthood holders, which we are; and He
+and His Son, Jesus Christ, came to this earth and restored the gospel in its
+fulness. We are so fortunate to have that gospel, to understand who we are and
+why we are here and how we can get back into the presence of our Heavenly
+Father. He expects every boy to so live all the time to be an example for
+good.
 
 I appeal to every man and to every boy within the sound of my voice this night
 to be just what I have recommended he should be, to make a personal evaluation
@@ -279,4 +278,6 @@ this we will be welcomed back into the presence of our Heavenly Father.
 
 May we meet there when we have finished our work here I humbly pray in the
 name of the Lord Jesus Christ. Amen.
+
+## References
 

@@ -19,12 +19,12 @@ these ravenous wolves roam the spiritual countryside in search of those who
 may be weak in faith or feeble in their conviction. In his first epistle,
 Peter described our "adversary the devil, as a roaring lion [that] walketh
 about, seeking whom he may devour." ([1 Pet.
-5:8](https://www.lds.org/scriptures/nt/1-pet/5.8?lang=eng#7).) The Lord told
-the Prophet Joseph Smith that "enemies prowl around thee like wolves for the
-blood of the lamb." ([D&amp;C 122:6](https://www.lds.org/scriptures/dc-
-testament/dc/122.6?lang=eng#5).) We are all vulnerable to attack. However, we
-can fortify ourselves with the protection provided by a burning testimony
-that, like a bonfire, has been built adequately and maintained carefully.
+5:8](/scriptures/nt/1-pet/5.8?lang=eng#7).) The Lord told the Prophet Joseph
+Smith that "enemies prowl around thee like wolves for the blood of the lamb."
+([D&amp;C 122:6](/scriptures/dc-testament/dc/122.6?lang=eng#5).) We are all
+vulnerable to attack. However, we can fortify ourselves with the protection
+provided by a burning testimony that, like a bonfire, has been built
+adequately and maintained carefully.
 
 Unfortunately, some in the Church may believe sincerely that their testimony
 is a raging bonfire when it really is little more than the faint flickering of
@@ -45,8 +45,7 @@ Satan hath desired to have you, that he may sift you as wheat:
 
 "But I have prayed for thee, that thy faith fail not: and _when thou art
 converted,_ strengthen thy brethren." ([Luke
-22:31-32](https://www.lds.org/scriptures/nt/luke/22.31-32?lang=eng#30);
-emphasis added.)
+22:31-32](/scriptures/nt/luke/22.31-32?lang=eng#30); emphasis added.)
 
 Imagine for a moment that you are Peter. Three years ago a holy stranger
 invited you to set aside your fishing boat and nets, your means of support for
@@ -62,10 +61,10 @@ instructing you to strengthen your brethren "when thou art converted."
 
 Peter was surprised. He assured the Lord, "I am ready to go with thee, both
 into prison, and to death." ([Luke
-22:33](https://www.lds.org/scriptures/nt/luke/22.33?lang=eng#32).) But Jesus
-knew and understood. He was not condemning Peter for a lack of conviction;
-Peter demonstrated his conviction during the Lord's arrest. Rather, the Savior
-was telling Peter what he needed to do when his testimony became more secure.
+22:33](/scriptures/nt/luke/22.33?lang=eng#32).) But Jesus knew and understood.
+He was not condemning Peter for a lack of conviction; Peter demonstrated his
+conviction during the Lord's arrest. Rather, the Savior was telling Peter what
+he needed to do when his testimony became more secure.
 
 As He knew Peter, the Lord understands you and me when our testimonies may not
 be the brightly burning bonfire you may think they are or want them to be.
@@ -79,8 +78,7 @@ lovingly urges you to come unto Him and become strengthened in Him. Said He to
 Moroni: "If men come unto me I will show unto them their weakness. I give unto
 men weakness that they may be humble; ... for if they humble themselves before
 me, and have faith in me, then will I make weak things become strong unto
-them." ([Ether
-12:27](https://www.lds.org/scriptures/bofm/ether/12.27?lang=eng#26).)
+them." ([Ether 12:27](/scriptures/bofm/ether/12.27?lang=eng#26).)
 
 Some people are weak in their faith and testimonies but are not even aware of
 how precarious their situation is. Many of them likely would be offended at
@@ -93,27 +91,24 @@ they refuse to serve in the nursery.
 
 The Savior spoke very explicitly about people who "draw near me with their
 mouth, and with their lips do honour me, but have removed their heart far from
-me." ([Isa. 29:13](https://www.lds.org/scriptures/ot/isa/29.13?lang=eng#12).)
-His words were: "Not every one that saith unto me, Lord, Lord, shall enter
-into the kingdom of heaven; but he that doeth the will of my Father which is
-in heaven.
+me." ([Isa. 29:13](/scriptures/ot/isa/29.13?lang=eng#12).) His words were:
+"Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of
+heaven; but he that doeth the will of my Father which is in heaven.
 
 "Many will say to me in that day, Lord, Lord, have we not prophesied in thy
 name? and in thy name have cast out devils? and in thy name done many
 wonderful works?
 
 "And then will I profess unto them, I never knew you: depart from me, ye that
-work iniquity." ([Matt.
-7:21-23](https://www.lds.org/scriptures/nt/matt/7.21-23?lang=eng#20).)
+work iniquity." ([Matt. 7:21-23](/scriptures/nt/matt/7.21-23?lang=eng#20).)
 
 None would want to hear the Lord speak such disappointing words of you. That
 is why you need to do everything in your power to be absolutely certain that
 your spiritual bonfire of testimony is burning brightly enough to keep the
 wolves of darkness away. You can always use more dry kindling. As the Apostle
 Paul taught, each of us has "come short of the glory of God." ([Rom.
-3:23](https://www.lds.org/scriptures/nt/rom/3.23?lang=eng#22).) None of us has
-progressed so far in this life that we do not need to continually fortify our
-testimonies.
+3:23](/scriptures/nt/rom/3.23?lang=eng#22).) None of us has progressed so far
+in this life that we do not need to continually fortify our testimonies.
 
 I offer three suggestions that will fan the flame of personal testimony as a
 protection against the wolves of evil that are prowling all around us to
@@ -132,7 +127,7 @@ whirlwind, yea, when all his hail and his mighty storm shall beat upon you, it
 shall have no power over you to drag you down to the gulf of misery and
 endless wo, because of the rock upon which ye are built, which is a sure
 foundation, a foundation whereon if men build they cannot fall." ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11).)
+5:12](/scriptures/bofm/hel/5.12?lang=eng#11).)
 
 Perhaps you are one of the members of the Church whose first contact with the
 gospel came through the beautiful music of the Tabernacle Choir. Maybe your
@@ -153,14 +148,14 @@ and its members should be.
 
 Scripture teaches us: "Trust in the Lord with all thine heart; and lean not
 unto thine own understanding." ([Prov.
-3:5](https://www.lds.org/scriptures/ot/prov/3.5?lang=eng#4).) In His moving
-prayer recorded in the seventeenth chapter of John, the Savior taught this
-profound truth: "And this is life eternal, that they might know thee the only
-true God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).) Building a
-testimony on the foundation of a sincere, personal relationship with our
-Heavenly Father and His Beloved Son, Jesus Christ, and on our faith in them,
-should be our highest priority.
+3:5](/scriptures/ot/prov/3.5?lang=eng#4).) In His moving prayer recorded in
+the seventeenth chapter of John, the Savior taught this profound truth: "And
+this is life eternal, that they might know thee the only true God, and Jesus
+Christ, whom thou hast sent." ([John
+17:3](/scriptures/nt/john/17.3?lang=eng#2).) Building a testimony on the
+foundation of a sincere, personal relationship with our Heavenly Father and
+His Beloved Son, Jesus Christ, and on our faith in them, should be our highest
+priority.
 
 Anchored with that faith, we are ready for my second suggestion--another layer
 of kindling on the bonfire of testimony--it is humble, sincere repentance. Few
@@ -209,7 +204,7 @@ who build and maintain brightly burning bonfires of testimony to counter the
 wolves that threaten us. This is His promise: "Fear thou not; for I am with
 thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will ...
 uphold thee with the right hand of my righteousness." ([Isa.
-41:10](https://www.lds.org/scriptures/ot/isa/41.10?lang=eng#9).)
+41:10](/scriptures/ot/isa/41.10?lang=eng#9).)
 
 The strength of the Church lies in the depth and vitality of the personal
 testimonies of its members. Firm, secure testimonies will be the difference
@@ -228,4 +223,6 @@ keeping the commandments. Joseph Smith is a prophet of God. Through him, the
 Lord restored the gospel of Jesus Christ in these the latter days. President
 Ezra Taft Benson is our prophet today. I testify of these divine truths in the
 name of Jesus Christ, amen.
+
+## References
 

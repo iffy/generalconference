@@ -16,7 +16,7 @@ the country up to Jerusalem before the passover, to purify themselves.
 
 "Then sought they for Jesus, and spake among themselves, as they stood in the
 temple, What think ye, that he will not come to the feast?" ([John
-11:55-56](https://www.lds.org/scriptures/nt/john/11.55-56?lang=eng#54).)
+11:55-56](/scriptures/nt/john/11.55-56?lang=eng#54).)
 
 Jewish law required the attendance of all adult males at this, the most sacred
 of Israel's ceremonial commemorations. But members of the Sanhedrin had openly
@@ -28,14 +28,12 @@ Jerusalem for the feast of the Passover, not with pomp and ceremony, but on a
 lowly donkey--the symbol of humility and peace. A great multitude went out of
 Jerusalem to greet him, spreading branches of palm trees before his path and
 crying: "... Hosanna to the Son of David: Blessed is he that cometh in the name
-of the Lord. ..." ([Matt.
-21:9](https://www.lds.org/scriptures/nt/matt/21.9?lang=eng#8).)
+of the Lord. ..." ([Matt. 21:9](/scriptures/nt/matt/21.9?lang=eng#8).)
 
 Matthew records that "all the city was moved, saying, Who is this?
 
 "And the multitude said, This is Jesus the prophet of Nazareth of Galilee."
-([Matt.
-21:10-11](https://www.lds.org/scriptures/nt/matt/21.10-11?lang=eng#9).)
+([Matt. 21:10-11](/scriptures/nt/matt/21.10-11?lang=eng#9).)
 
 To all who had knowledge of the law, this was the triumphant entry of Israel's
 king, long predicted by the prophets and long awaited by Israel's seed. The
@@ -47,7 +45,7 @@ round, and keep thee in on every side,
 
 "And shall lay thee even with the ground ... ; and they shall not leave in thee
 one stone upon another." ([Luke
-19:43-44](https://www.lds.org/scriptures/nt/luke/19.43-44?lang=eng#42).)
+19:43-44](/scriptures/nt/luke/19.43-44?lang=eng#42).)
 
 Jesus also knew of his own impending fate. He spoke in parables of grain that
 had to die in order to bring forth fruit, and of a chosen son sent by his
@@ -57,17 +55,16 @@ bear.
 
 "Now is my soul troubled;" he admitted. "... Father, save me from this hour: but
 for this cause came I unto this hour." ([John
-12:27](https://www.lds.org/scriptures/nt/john/12.27?lang=eng#26).) His
-singleness of purpose and unwavering commitment to do the will of his Father
-carried him forward.
+12:27](/scriptures/nt/john/12.27?lang=eng#26).) His singleness of purpose and
+unwavering commitment to do the will of his Father carried him forward.
 
 As his own mortal future dimmed, he gently declared: "I am come a light into
 the world, that whosoever believeth on me should not abide in darkness."
-([John 12:46](https://www.lds.org/scriptures/nt/john/12.46?lang=eng#45).) Such
-statements were uniting his enemies against him, yet he proclaimed: "For I
-have not spoken of myself; but the Father which sent me, he gave me a
-commandment, what I should say, and what I should speak." ([John
-12:49](https://www.lds.org/scriptures/nt/john/12.49?lang=eng#48).)
+([John 12:46](/scriptures/nt/john/12.46?lang=eng#45).) Such statements were
+uniting his enemies against him, yet he proclaimed: "For I have not spoken of
+myself; but the Father which sent me, he gave me a commandment, what I should
+say, and what I should speak." ([John
+12:49](/scriptures/nt/john/12.49?lang=eng#48).)
 
 Hoping to trap Jesus in his utterances, some of the shrewdest of his
 adversaries posed double-edged questions on political and rabbinic law. One
@@ -76,9 +73,8 @@ group of Pharisees and Herodians asked him a most diabolic question:
 "... Master, we know that thou art true, and teachest the way of God in truth. ...
 
 "Tell us therefore, ... Is it lawful to give tribute unto Caesar, or not?"
-([Matt.
-22:16-17](https://www.lds.org/scriptures/nt/matt/22.16-17?lang=eng#15).) If he
-were to answer yes, he would easily be accused of betraying his heritage among
+([Matt. 22:16-17](/scriptures/nt/matt/22.16-17?lang=eng#15).) If he were to
+answer yes, he would easily be accused of betraying his heritage among
 Abraham's seed, the very group staggering under the oppression of Roman law.
 If he were to answer no, he would immediately be apprehended as a political
 agitator. He answered neither, but rather asked to be shown a coin by which
@@ -89,9 +85,9 @@ and superscription?" Of course, they answered as any child in the street could
 have: "It is Caesar's." With that single question he had taken command of the
 confrontation. He returned the coin saying: "... Render therefore unto Caesar
 the things which are Caesar's" ([Matt.
-22:20-21](https://www.lds.org/scriptures/nt/matt/22.20-21?lang=eng#19)), as if
-to say: "The man's name and picture are on the coin. Surely it belongs to him.
-Please be kind enough to return it to its rightful owner."
+22:20-21](/scriptures/nt/matt/22.20-21?lang=eng#19)), as if to say: "The man's
+name and picture are on the coin. Surely it belongs to him. Please be kind
+enough to return it to its rightful owner."
 
 Brilliantly he had destroyed the ploy of his oppressors, but that was never
 his true mission or desire. These, too, were sons of God. These, too, were
@@ -102,24 +98,22 @@ men bore the image of God, their Heavenly Father. They had been created by him
 in the likeness of his image, and Jesus was to provide a way for them to
 return to him. Yet, "When they heard these words, they marvelled, and left
 him, and went their way." ([Matt.
-22:21-22](https://www.lds.org/scriptures/nt/matt/22.21-22?lang=eng#20).)
+22:21-22](/scriptures/nt/matt/22.21-22?lang=eng#20).)
 
 A short time later a lawyer baited a theological trap for him, saying:
 "Master, which is the great commandment in the law?" ([Matt.
-22:36](https://www.lds.org/scriptures/nt/matt/22.36?lang=eng#35).) Legal
-scholars had divided, subdivided, and categorized the original Mosaic code so
-minutely that some parts of the law seemed to be in direct opposition to other
-parts. But Jesus would not be paralyzed by the jots and tittles of legal
-debate. In a single stroke he penetrated to the heart of the law and
-integrated those several parts into its one great whole: "... Thou shalt love
-the Lord thy God with all thy heart, and with all thy soul, and with all thy
-mind.
+22:36](/scriptures/nt/matt/22.36?lang=eng#35).) Legal scholars had divided,
+subdivided, and categorized the original Mosaic code so minutely that some
+parts of the law seemed to be in direct opposition to other parts. But Jesus
+would not be paralyzed by the jots and tittles of legal debate. In a single
+stroke he penetrated to the heart of the law and integrated those several
+parts into its one great whole: "... Thou shalt love the Lord thy God with all
+thy heart, and with all thy soul, and with all thy mind.
 
 "This is the first and great commandment.
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-([Matt.
-22:37-39](https://www.lds.org/scriptures/nt/matt/22.37-39?lang=eng#36).)
+([Matt. 22:37-39](/scriptures/nt/matt/22.37-39?lang=eng#36).)
 
 Again Jesus had turned a question full of venom and envy and technical deceit
 into an answer of love, compassion, and lofty vision.
@@ -161,8 +155,7 @@ With the new covenant came a new commandment. Jesus said his disciples must
 "love one another; as I have loved you. ...
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another." ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33).)
+another." ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33).)
 
 To the very end of his mortal life Jesus was demonstrating the grandeur of his
 spirit and the magnitude of his strength. He was not, even at this late hour,
@@ -181,8 +174,8 @@ name, that will I do. ... I will pray the Father, and he will give you another
 Comforter, that he may abide with you for ever. ... I will not leave you
 comfortless: I will come to you. ... Ye are my friends, if ye do whatsoever I
 command you. ... These things I command you, that ye love one another." (See
-[John 14](https://www.lds.org/scriptures/nt/john/14.title?lang=eng), [John
-15](https://www.lds.org/scriptures/nt/john/15.title?lang=eng). Passim.)
+[John 14](/scriptures/nt/john/14?lang=eng), [John
+15](/scriptures/nt/john/15?lang=eng). Passim.)
 
 On this night of nights, as the little group approached the Garden of
 Gethsemane, Jesus might have asked his apostles to pray for him, to strengthen
@@ -195,8 +188,7 @@ was there to hear it, "but [I pray] that thou shouldest keep them from ... evil.
 pray I for these alone, but for them also which shall believe on me through
 their word: that they all may be one; as thou, Father, art in me, and I in
 thee, that they also may be one in us: that the world may believe that thou
-hast sent me." ([John
-17](https://www.lds.org/scriptures/nt/john/17.title?lang=eng). Passim.)
+hast sent me." ([John 17](/scriptures/nt/john/17?lang=eng). Passim.)
 
 Having offered that magnificent intercessory prayer, Jesus went on to face
 alone his anguish of body and spirit. A modern apostle of the Lord Jesus
@@ -231,4 +223,6 @@ this earth. As we now enter the Passover week of old, may we think on the
 resurrected Christ, the living Son of the living God. May we, in his name,
 unite our hearts, love one another, and keep his commandments is my prayer in
 the name of Jesus Christ. Amen.
+
+## References
 

@@ -22,14 +22,13 @@ infinite love?
 It was Christ who in the premortal state presented Himself to become the
 Savior of men, saying, "Here am I, send me. And another answered and said:
 Here am I, send me. And the Lord said: I will send the first" ([Abr.
-3:27](https://www.lds.org/scriptures/pgp/abr/3.27?lang=eng#26)). From that
-time forth it was proclaimed that the Son of Man would come to earth to
-sacrifice Himself as an atonement for the sins of all men (see Mosiah 3).
+3:27](/scriptures/pgp/abr/3.27?lang=eng#26)). From that time forth it was
+proclaimed that the Son of Man would come to earth to sacrifice Himself as an
+atonement for the sins of all men (see Mosiah 3).
 
 As the day of His mortal birth approached, Nephi heard the voice saying, "Lift
 up your head and be of good cheer; for behold, ... on the morrow come I into the
-world" ([3 Ne.
-1:13](https://www.lds.org/scriptures/bofm/3-ne/1.13?lang=eng#12)).
+world" ([3 Ne. 1:13](/scriptures/bofm/3-ne/1.13?lang=eng#12)).
 
 Thus, on the next day in Bethlehem of Judea, a tiny babe lay in a manger while
 an attentive mother gloried in the presence of her newborn son, the Only
@@ -37,50 +36,45 @@ Begotten of the Father in the flesh, a God come to earth.
 
 "And the child grew, and waxed strong in spirit, filled with wisdom: and the
 grace of God was upon him" ([Luke
-2:40](https://www.lds.org/scriptures/nt/luke/2.40?lang=eng#39)).
+2:40](/scriptures/nt/luke/2.40?lang=eng#39)).
 
 In succeeding years "Jesus increased in wisdom and stature, and in favour with
-God and man" ([Luke
-2:52](https://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51)). At the age of
-thirty, He began His ministry, teaching the great plan of happiness--faith,
+God and man" ([Luke 2:52](/scriptures/nt/luke/2.52?lang=eng#51)). At the age
+of thirty, He began His ministry, teaching the great plan of happiness--faith,
 repentance, baptism by immersion, the laying on of hands to receive the gift
 of the Holy Ghost, and enduring to the end (see [3 Ne.
-27](https://www.lds.org/scriptures/bofm/3-ne/27.title?lang=eng)).
+27](/scriptures/bofm/3-ne/27?lang=eng)).
 
 Being obedient to the commandment, He was baptized by immersion in the River
-Jordan by John the Baptist (see [Matt.
-3](https://www.lds.org/scriptures/nt/matt/3.title?lang=eng)).
+Jordan by John the Baptist (see [Matt. 3](/scriptures/nt/matt/3?lang=eng)).
 
 Later twelve men were called and ordained as His Apostles. Some of them were
 humble fishermen. He invited them to come "follow me, and I will make you
-fishers of men" ([Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18)). Immediately
-they left their nets and followed Him, as all who are called should willingly
-do.
+fishers of men" ([Matt. 4:19](/scriptures/nt/matt/4.19?lang=eng#18)).
+Immediately they left their nets and followed Him, as all who are called
+should willingly do.
 
 The fame of His glory and power spread throughout the land. To a father who
 mourned the death of his dear, young daughter, He said, "She is not dead, but
-sleepeth" ([Luke
-8:52](https://www.lds.org/scriptures/nt/luke/8.52?lang=eng#51)), and He took
-her by the hand and she rose from the dead.
+sleepeth" ([Luke 8:52](/scriptures/nt/luke/8.52?lang=eng#51)), and He took her
+by the hand and she rose from the dead.
 
 To a poor cripple He spoke, "Take up thy bed, and walk" ([John
-5:8](https://www.lds.org/scriptures/nt/john/5.8?lang=eng#7)). And miraculously
-it was done!
+5:8](/scriptures/nt/john/5.8?lang=eng#7)). And miraculously it was done!
 
 He rebuked all sinners. The guilty plotted to take His life. He reminded the
 Twelve of the awful fate that awaited Him: "Ye know that after two days is the
 feast of the passover, and the Son of man is betrayed to be crucified" ([Matt.
-26:2](https://www.lds.org/scriptures/nt/matt/26.2?lang=eng#1)).
+26:2](/scriptures/nt/matt/26.2?lang=eng#1)).
 
 On that eventful last night in the upper room, He knelt meekly and humbly
 before each Apostle and tenderly washed their feet (see [John
-13:3-17](https://www.lds.org/scriptures/nt/john/13.3-17?lang=eng#2)).
+13:3-17](/scriptures/nt/john/13.3-17?lang=eng#2)).
 
 He instituted the sacred ordinance of the sacrament. Blessing bread and wine,
 He gave it to each one and commanded them to eat and drink in remembrance of
 His body and His blood, which was shed for them (see [Matt.
-26:26-28](https://www.lds.org/scriptures/nt/matt/26.26-28?lang=eng#25)).
+26:26-28](/scriptures/nt/matt/26.26-28?lang=eng#25)).
 
 After Judas, the betrayer, had gone out into the night, the Savior instructed
 the remaining eleven with these familiar words, saying:
@@ -89,30 +83,28 @@ the remaining eleven with these familiar words, saying:
 you, that ye also love one another.
 
 "By this shall all men know that ye are my disciples, if ye have love one to
-another" ([John
-13:34-35](https://www.lds.org/scriptures/nt/john/13.34-35?lang=eng#33)).
+another" ([John 13:34-35](/scriptures/nt/john/13.34-35?lang=eng#33)).
 
 Then Jesus went to the Mount of Olives and the quiet, lovely Garden of
 Gethsemane. There He knelt down and prayed, saying, "O my Father, if it be
 possible, let this cup pass from me: nevertheless not as I will, but as thou
-wilt" ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38)). The law
-demanded a perfect Lamb for the atoning sacrifice. He alone could qualify. His
-love for us was so great, so intense, that voluntarily He suffered both body
-and spirit until blood came from every pore to pay the price of sin (see
-[Mosiah 3:7](https://www.lds.org/scriptures/bofm/mosiah/3.7?lang=eng#6)).
-Somehow we must try to understand and internalize the ransom that He actually
-paid for each one of us.
+wilt" ([Matt. 26:39](/scriptures/nt/matt/26.39?lang=eng#38)). The law demanded
+a perfect Lamb for the atoning sacrifice. He alone could qualify. His love for
+us was so great, so intense, that voluntarily He suffered both body and spirit
+until blood came from every pore to pay the price of sin (see [Mosiah
+3:7](/scriptures/bofm/mosiah/3.7?lang=eng#6)). Somehow we must try to
+understand and internalize the ransom that He actually paid for each one of
+us.
 
 Betrayed by a traitor's kiss, condemned to die at foreign hands for a crime He
 did not commit, He humbly submitted Himself to the ugly lash and was nailed by
 His hands and feet to a wooden cross. Yea, the greatest of all of God's
 children was left to die on a horrible cross. When finally all things were
 accomplished, He said, "It is finished" ([John
-19:30](https://www.lds.org/scriptures/nt/john/19.30?lang=eng#29)) and "Father,
-into thy hands I commend my spirit" ([Luke
-23:46](https://www.lds.org/scriptures/nt/luke/23.46?lang=eng#45)). Jesus
-Christ was dead. The spirit had fled. The body was placed in a borrowed tomb.
+19:30](/scriptures/nt/john/19.30?lang=eng#29)) and "Father, into thy hands I
+commend my spirit" ([Luke 23:46](/scriptures/nt/luke/23.46?lang=eng#45)).
+Jesus Christ was dead. The spirit had fled. The body was placed in a borrowed
+tomb.
 
 And then, on the third day, in mighty power He arose, the bonds of death to
 break. The spirit had returned to reclaim the flesh. His victory over death
@@ -120,9 +112,9 @@ was complete!
 
 For forty days He tarried on the earth, showing Himself to many and
 instructing them in "the things pertaining to the kingdom of God" ([Acts
-1:3](https://www.lds.org/scriptures/nt/acts/1.3?lang=eng#2)). Finally, from
-Bethany He rose from their midst and ascended into heaven (see [Luke
-24:50-51](https://www.lds.org/scriptures/nt/luke/24.50-51?lang=eng#49)).
+1:3](/scriptures/nt/acts/1.3?lang=eng#2)). Finally, from Bethany He rose from
+their midst and ascended into heaven (see [Luke
+24:50-51](/scriptures/nt/luke/24.50-51?lang=eng#49)).
 
 The faithful Apostles continued vigorously with their ministry. But with their
 passing came a rapid decline of spirituality. The sacred ordinances were
@@ -131,23 +123,21 @@ earth. Mankind had ceased to know God.
 
 Then in the spring of 1820, to a fourteen-year-old boy, Joseph Smith, Jr., the
 voice of God the Father pierced through the blackness: "This is My Beloved
-Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)). Pure light
-emerged, and darkness fled. God had spoken to man again.
+Son. Hear Him!" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)). Pure
+light emerged, and darkness fled. God had spoken to man again.
 
 Once again the fulness of the gospel, as found in the Bible, the Book of
 Mormon, and other sacred scriptures, is flooding the earth. The holy
 priesthood has been restored to man. The sacred ordinances are being
 administered to every worthy soul who will receive them. All this to prepare
 the world for the glorious Second Coming proclaimed by the Savior Himself (see
-[D&amp;C 29:11](https://www.lds.org/scriptures/dc-
-testament/dc/29.11?lang=eng#10)).
+[D&amp;C 29:11](/scriptures/dc-testament/dc/29.11?lang=eng#10)).
 
 Humbly I testify to you that He will come again in glory, and on that day He
 will manifest Himself to mankind, saying: "I am he who was lifted up. I am
-Jesus that was crucified. I am the Son of God" ([D&amp;C
-45:52](https://www.lds.org/scriptures/dc-testament/dc/45.52?lang=eng#51)).
-Then He will reign forever and ever, King of kings and Lord of lords.
+Jesus that was crucified. I am the Son of God" ([D&amp;C 45:52](/scriptures
+/dc-testament/dc/45.52?lang=eng#51)). Then He will reign forever and ever,
+King of kings and Lord of lords.
 
 Now, during these last few minutes we have focused on Christ's love. Did we
 feel His Spirit burn within us? Have we felt a greater love for Him? Are we
@@ -156,8 +146,7 @@ the following questions as they relate to our love for Him.
 
 First, do we love Jesus Christ enough to follow His chosen prophets and
 Apostles, giving heed to their counsel and guidance as if it came from His own
-mouth? (see [D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37).)
+mouth? (see [D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).)
 
 Second, do we love the Savior enough to forsake our lovely home, our precious
 family, and accept a call to proclaim His gospel in any part of the world?
@@ -171,4 +160,6 @@ implore us, keep His commandments and become more like Him. Come unto Christ,
 eat the bread of life, drink the living water, and feast on His limitless
 love. He is our Savior, our Master, of whom I bear my humble witness in the
 name of Jesus Christ, amen.
+
+## References
 

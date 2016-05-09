@@ -39,13 +39,13 @@ bringeth forth evil fruit.
 forth good fruit.
 
 "Wherefore by their fruits ye shall know them." ([Matt.
-7:15-20](https://www.lds.org/scriptures/nt/matt/7.15-20?lang=eng#14).)
+7:15-20](/scriptures/nt/matt/7.15-20?lang=eng#14).)
 
 It is interesting that this declaration by the Savior was made in response to
 accusations from the scribes and the Pharisees that he was performing his
 miracles and healings by the power of the devil. "This fellow doth not cast
 out devils, but by Beelzebub, the prince of the devils," they protested.
-([Matt. 12:24](https://www.lds.org/scriptures/nt/matt/12.24?lang=eng#23).)
+([Matt. 12:24](/scriptures/nt/matt/12.24?lang=eng#23).)
 
 The attempts by the Savior's enemies to destroy his work by discrediting him
 were futile. All he said and did has stood the test of time and has borne good
@@ -56,18 +56,18 @@ given the personal affirmation and testimony of the Eternal Father regarding
 Jesus' divine nature and calling. Those who were present at the baptism of the
 Master heard the Father's voice declare from the heavens, "This is my beloved
 Son, in whom I am well pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).) Again, on the
-Mount of Transfiguration, the chosen Apostles of the Lord heard the repeated
+3:17](/scriptures/nt/matt/3.17?lang=eng#16).) Again, on the Mount of
+Transfiguration, the chosen Apostles of the Lord heard the repeated
 affirmation: "This is my beloved Son, in whom I am well pleased; hear ye him."
-([Matt. 17:5](https://www.lds.org/scriptures/nt/matt/17.5?lang=eng#4).)
+([Matt. 17:5](/scriptures/nt/matt/17.5?lang=eng#4).)
 
 In a similar fashion we have the Lord's own testimony as to the divine calling
 of Joseph Smith.
 
 "Wherefore, I the Lord, knowing the calamity which should come upon the
 inhabitants of the earth, called upon my servant Joseph Smith, Jun., and spake
-unto him from heaven, and gave him commandments." ([D&amp;C
-1:17](https://www.lds.org/scriptures/dc-testament/dc/1.17?lang=eng#16).)
+unto him from heaven, and gave him commandments." ([D&amp;C 1:17](/scriptures
+/dc-testament/dc/1.17?lang=eng#16).)
 
 Also: "I, the Lord, am God, and have given these things unto you, my servant
 Joseph Smith, Jun., and have commanded you that you should stand as a witness
@@ -77,7 +77,7 @@ of these things; ...
 the children of men. ...
 
 "But this generation shall have my word through you." ([D&amp;C 5:2, 6,
-10](https://www.lds.org/scriptures/dc-testament/dc/5.2%2C6%2C10?lang=eng#1).)
+10](/scriptures/dc-testament/dc/5.2,6,10?lang=eng#1).)
 
 And: "The ends of the earth shall inquire after thy name, and fools shall have
 thee in derision, and hell shall rage against thee;
@@ -86,7 +86,7 @@ thee in derision, and hell shall rage against thee;
 seek counsel, and authority, and blessings constantly from under thy hand.
 
 "And thy people shall never be turned against thee by the testimony of
-traitors." ([D&amp;C 122:1-3](https://www.lds.org/scriptures/dc-
+traitors." ([D&amp;C 122:1-3](/scriptures/dc-
 testament/dc/122.1-3?lang=eng#0).)
 
 Joseph Smith declared that his work was the Lord's work. His credentials as a
@@ -109,7 +109,7 @@ will awake and arouse your faculties, even to an experiment upon my words, and
 exercise a particle of faith, yea, even if ye can no more than desire to
 believe, let this desire work in you, even until ye believe in a manner that
 ye can give place for a portion of my words." ([Alma
-32:27](https://www.lds.org/scriptures/bofm/alma/32.27?lang=eng#26).)
+32:27](/scriptures/bofm/alma/32.27?lang=eng#26).)
 
 Comparing this experiment to the planting of a seed, Alma continued: "Now, if
 ye give place, that a seed may be planted in your heart, behold, if it be a
@@ -119,7 +119,7 @@ breasts; and when you feel these swelling motions, ye will begin to say within
 yourselves--It must needs be that this is a good seed, or that the word is
 good, for it beginneth to enlarge my soul; yea, it beginneth to enlighten my
 understanding, yea, it beginneth to be delicious to me." ([Alma
-32:28](https://www.lds.org/scriptures/bofm/alma/32.28?lang=eng#27).)
+32:28](/scriptures/bofm/alma/32.28?lang=eng#27).)
 
 For more than 150 years, since the founding of The Church of Jesus Christ of
 Latter-day Saints, millions of people have tried the experiment proposed by
@@ -139,7 +139,7 @@ the Savior in the Sermon on the Mount;
 
 "Let your light so shine before men, that they may see your good works, and
 glorify your Father which is in heaven." ([Matt.
-5:13-16](https://www.lds.org/scriptures/nt/matt/5.13-16?lang=eng#12).)
+5:13-16](/scriptures/nt/matt/5.13-16?lang=eng#12).)
 
 Those who receive the gospel are expected to manifest its fruits in their
 lives, not only for their own benefit and blessing, but for the purpose of
@@ -159,12 +159,12 @@ with us as it was with the disobedient missionary son of Alma, who fell to the
 temptations of the world, and of whom Alma mourned: "Behold, O my son, how
 great iniquity ye brought upon the Zoramites; for when they saw your conduct
 they would not believe in my words." ([Alma
-39:11](https://www.lds.org/scriptures/bofm/alma/39.11?lang=eng#10).)
+39:11](/scriptures/bofm/alma/39.11?lang=eng#10).)
 
 The Savior warned those who, knowing the truth, pursue another course: "But if
 the salt shall have lost his savour, ... it is henceforth good for nothing, but
 to be cast out, and to be trodden under the foot of men." ([Matt.
-5:13](https://www.lds.org/scriptures/nt/matt/5.13?lang=eng#12).)
+5:13](/scriptures/nt/matt/5.13?lang=eng#12).)
 
 Enjoying the fruits of the gospel should not make us arrogant and aloof, but
 it should set us apart from the world in much of our conduct.
@@ -198,8 +198,7 @@ brother? for we shall all stand before the judgment seat of Christ. ...
 
 "Let us not therefore judge one another any more: but judge this rather, that
 no man put a stumblingblock or an occasion to fall in his brother's way."
-([Rom. 14:10,
-12-13](https://www.lds.org/scriptures/nt/rom/14.10%2C12-13?lang=eng#9).)
+([Rom. 14:10, 12-13](/scriptures/nt/rom/14.10,12-13?lang=eng#9).)
 
 I bear testimony that Joseph Smith was a prophet of God through whose
 instrumentality the Lord has reestablished his true church and the only plan
@@ -213,7 +212,9 @@ my life the fruits of the gospel of Jesus Christ. And to those who may
 question the validity of this work, I leave the Savior's challenge: "Either
 make the tree good, and his fruit good; or else make the tree corrupt, and his
 fruit corrupt: for the tree is known by his fruit." ([Matt.
-12:33](https://www.lds.org/scriptures/nt/matt/12.33?lang=eng#32).)
+12:33](/scriptures/nt/matt/12.33?lang=eng#32).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

@@ -56,7 +56,7 @@ Let us trust the Lord and take the next steps in our individual lives. He has
 promised us that he will be our tender tutor, measuring what we are ready for:
 
 "And ye cannot bear all things now; nevertheless, be of good cheer, for I will
-lead you along" ([D&amp;C 78:18](https://www.lds.org/scriptures/dc-
+lead you along" ([D&amp;C 78:18](/scriptures/dc-
 testament/dc/78.18?lang=eng#17)).
 
 He will not ask us to bear more than we can bear nor thrust upon us that for
@@ -80,13 +80,12 @@ to many people to live _in_ the world but not _of_ the world.
 
 Our constant prayer and our major efforts are to see that the members are
 sanctified through their righteousness. We urge our people to "stand in holy
-places" ([D&amp;C 87:8](https://www.lds.org/scriptures/dc-
-testament/dc/87.8?lang=eng#7)).
+places" ([D&amp;C 87:8](/scriptures/dc-testament/dc/87.8?lang=eng#7)).
 
 There may be some who have a general feeling of uneasiness because of world
 conditions and the lengthening shadows of evil. But the Lord said: "If ye are
-prepared ye shall not fear" ([D&amp;C 38:30](https://www.lds.org/scriptures
-/dc-testament/dc/38.30?lang=eng#29)).
+prepared ye shall not fear" ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29)).
 
 The gospel gives purpose to our lives. It is the way to happiness. Our
 success, individually and as a church, will largely be determined by how
@@ -106,15 +105,14 @@ All should work together to make home a place where we love to be, a place of
 listening and learning, a place where each member can find mutual love,
 support, appreciation, and encouragement.
 
-Let us "be of good cheer" ([D&amp;C 78:18](https://www.lds.org/scriptures/dc-
+Let us "be of good cheer" ([D&amp;C 78:18](/scriptures/dc-
 testament/dc/78.18?lang=eng#17)), for the Lord will, as he has promised, lead
 us along and show us the way. He will help us as we decide from day to day on
 the allocation of our time and talent. We will move faster if we hurry less.
 We will make more real progress if we focus on the fundamentals. We will even
 come to know more as we serve more, for as we learn to _bear_ more we are made
-ready to _hear_ more (see [John
-16:12](https://www.lds.org/scriptures/nt/john/16.12?lang=eng#11) and [Mark
-4:33](https://www.lds.org/scriptures/nt/mark/4.33?lang=eng#32)).
+ready to _hear_ more (see [John 16:12](/scriptures/nt/john/16.12?lang=eng#11)
+and [Mark 4:33](/scriptures/nt/mark/4.33?lang=eng#32)).
 
 The Lord has helped to make us ready for major progress. Let us now go to and
 make the world ready for his coming!
@@ -136,7 +134,7 @@ others, Jeremias, or one of the prophets.
 
 "And Simon Peter answered [for the others] and said, Thou art the Christ, the
 Son of the living God." ([Matt.
-16:13-16](https://www.lds.org/scriptures/nt/matt/16.13-16?lang=eng#12).)
+16:13-16](/scriptures/nt/matt/16.13-16?lang=eng#12).)
 
 That is our message. That is what we are attempting to take to the world, to
 see that every nation, kindred, tongue, and people, and every individual under
@@ -149,7 +147,7 @@ my Father which is in heaven [has revealed it to thee].
 "And I will give unto thee the keys of the kingdom of heaven: and whatsoever
 thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt
 loose on earth shall be loosed in heaven." ([Matt. 16:17,
-19](https://www.lds.org/scriptures/nt/matt/16.17%2C19?lang=eng#16).)
+19](/scriptures/nt/matt/16.17,19?lang=eng#16).)
 
 And that explains to us the importance of our role as we go out into the
 world. We teach them the truths, teach them how to follow the truths, and
@@ -180,8 +178,7 @@ heed, as unto a light that shineth in a dark place, until the day dawn, and
 the day star arise in your hearts:
 
 "Knowing this first, that no prophecy of the scripture is of any private
-interpretation." ([2 Pet.
-1:14-20](https://www.lds.org/scriptures/nt/2-pet/1.14-20?lang=eng#13).)
+interpretation." ([2 Pet. 1:14-20](/scriptures/nt/2-pet/1.14-20?lang=eng#13).)
 
 And now another, more modern scripture I should like to add:
 
@@ -195,14 +192,13 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 One more scripture: "But now mine own eyes have beheld God; but not my
 natural, but my spiritual eyes, for my natural eyes could not have beheld; for
 I should have withered and died in his presence; but his glory was upon me;
 and I beheld his face, for I was transfigured before him" ([Moses
-1:11](https://www.lds.org/scriptures/pgp/moses/1.11?lang=eng#10)).
+1:11](/scriptures/pgp/moses/1.11?lang=eng#10)).
 
 And then one other:
 
@@ -218,7 +214,7 @@ him, Feed my sheep.
 was grieved because he said unto him the third time, Lovest thou me? And he
 said unto him, Lord, thou knowest all things; thou knowest that I love thee.
 Jesus saith unto him, Feed my sheep." ([John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).)
+21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14).)
 
 Now the Lord has said that to every man, woman, and child in this congregation
 and in this world who has joined his church: "Lovest thou me?" Then show me!
@@ -263,4 +259,6 @@ the world that need those blessings now. We ask our Heavenly Father to be with
 you between now and our next conference and from then on. And we say again,
 Jesus is our light; he is our stay; he is our Savior and he lives; and we bear
 this testimony in the name of Jesus Christ, amen.
+
+## References
 

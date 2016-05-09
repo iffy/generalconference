@@ -10,8 +10,7 @@ chorus of voices rises from the herd, but each lamb listens for the one voice
 that can guide it. The Savior used this ageless example in the allegory of the
 Good Shepherd. "The sheep hear his voice: ... and the sheep follow him: for they
 know his voice. And a stranger will they not follow, ... for they know not the
-voice of strangers." ([John
-10:3-5](https://www.lds.org/scriptures/nt/john/10.3-5?lang=eng#2).)
+voice of strangers." ([John 10:3-5](/scriptures/nt/john/10.3-5?lang=eng#2).)
 
 From among the chorus of voices we hear in mortality, we must recognize the
 voice of the Good Shepherd, who calls us to follow him toward our heavenly
@@ -19,7 +18,7 @@ home.
 
 As Paul said to the Corinthians, "There are ... so many kinds of voices in the
 world, and none of them is without signification." ([1 Cor.
-14:10](https://www.lds.org/scriptures/nt/1-cor/14.10?lang=eng#9).)
+14:10](/scriptures/nt/1-cor/14.10?lang=eng#9).)
 
 Some voices speak of the things of the world, providing the useful information
 we need to make our way in mortality. I will make no further reference to
@@ -40,7 +39,7 @@ trying to serve their brothers and sisters and further the cause of Zion.
 Their efforts fit within the Lord's teaching that his servants should not have
 to be commanded in all things, but "should be anxiously engaged in a good
 cause, and do many things of their own free will, and bring to pass much
-righteousness." ([D&amp;C 58:27](https://www.lds.org/scriptures/dc-
+righteousness." ([D&amp;C 58:27](/scriptures/dc-
 testament/dc/58.27?lang=eng#26).)
 
 Other alternate voices are pursuing selfish personal interests, such as
@@ -52,20 +51,19 @@ others--the lost leading the lost.
 Some alternate voices are of those whose avowed or secret object is to deceive
 and devour the flock. The Good Shepherd warned, "Beware of false prophets,
 which come to you in sheep's clothing, but inwardly they are ravening wolves."
-([Matt. 7:15](https://www.lds.org/scriptures/nt/matt/7.15?lang=eng#14); see
-also [3 Ne.
-14:15](https://www.lds.org/scriptures/bofm/3-ne/14.15?lang=eng#14).) In both
-the Bible and the Book of Mormon the Savior charged his shepherds to watch
-over and protect the flock from such wolves. (See [Acts
-20:28-29](https://www.lds.org/scriptures/nt/acts/20.28-29?lang=eng#27); [Alma
-5:59](https://www.lds.org/scriptures/bofm/alma/5.59?lang=eng#58).)
+([Matt. 7:15](/scriptures/nt/matt/7.15?lang=eng#14); see also [3 Ne.
+14:15](/scriptures/bofm/3-ne/14.15?lang=eng#14).) In both the Bible and the
+Book of Mormon the Savior charged his shepherds to watch over and protect the
+flock from such wolves. (See [Acts
+20:28-29](/scriptures/nt/acts/20.28-29?lang=eng#27); [Alma
+5:59](/scriptures/bofm/alma/5.59?lang=eng#58).)
 
 There have always been alternate voices whose purpose or effect is to deceive.
 Their existence is part of the Plan. The prophet Lehi taught that there "must
 needs be ... an opposition in _all_ things." ([2 Ne.
-2:11](https://www.lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10); italics
-added.) And there have always been other alternate voices whose purpose or
-effect is unselfish and wholesome.
+2:11](/scriptures/bofm/2-ne/2.11?lang=eng#10); italics added.) And there have
+always been other alternate voices whose purpose or effect is unselfish and
+wholesome.
 
 In most instances, alternate voices are heard in the same kinds of
 communications the Church uses to perform its mission. The Church has
@@ -161,7 +159,7 @@ voices, they will be helped by considering the ways we acquire knowledge,
 especially knowledge of sacred things.
 
 In modern revelation the Lord has told us to "seek learning ... by study and
-also by faith." ([D&amp;C 109:7](https://www.lds.org/scriptures/dc-
+also by faith." ([D&amp;C 109:7](/scriptures/dc-
 testament/dc/109.7?lang=eng#6).)
 
 We seek learning by studying the accumulated wisdom of various disciplines and
@@ -180,11 +178,10 @@ scholarship and reason are insufficient.
 A seeker of truth about God must rely on revelation. I believe this is what
 the Book of Mormon prophet meant when he said, "To be learned is good if they
 hearken unto the counsels of God." ([2 Ne.
-9:29](https://www.lds.org/scriptures/bofm/2-ne/9.29?lang=eng#28).) It is
-surely what the Savior taught when he said, "Blessed art thou, Simon Bar-jona:
-for flesh and blood hath not revealed it unto thee, but my Father which is in
-heaven." ([Matt.
-16:17](https://www.lds.org/scriptures/nt/matt/16.17?lang=eng#16).)
+9:29](/scriptures/bofm/2-ne/9.29?lang=eng#28).) It is surely what the Savior
+taught when he said, "Blessed art thou, Simon Bar-jona: for flesh and blood
+hath not revealed it unto thee, but my Father which is in heaven." ([Matt.
+16:17](/scriptures/nt/matt/16.17?lang=eng#16).)
 
 The way to revelation is righteousness. Marveling at the Master's teachings,
 his enemies asked:
@@ -195,19 +192,17 @@ his enemies asked:
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself." ([John
-7:15-17](https://www.lds.org/scriptures/nt/john/7.15-17?lang=eng#14).)
+7:15-17](/scriptures/nt/john/7.15-17?lang=eng#14).)
 
 The Book of Mormon teaches that those who diligently seek shall have "the
 mysteries of God ... unfolded unto them, by the power of the Holy Ghost." ([1
-Ne. 10:19](https://www.lds.org/scriptures/bofm/1-ne/10.19?lang=eng#18); see
-also [1 Cor.
-2:4-16](https://www.lds.org/scriptures/nt/1-cor/2.4-16?lang=eng#3); [Alma
-18:35](https://www.lds.org/scriptures/bofm/alma/18.35?lang=eng#34); [D&amp;C
-121:26](https://www.lds.org/scriptures/dc-testament/dc/121.26?lang=eng#25).)
-The prophet Jacob declared the impossibility of uninspired man's understanding
-God: "No man knoweth of his ways save it be revealed unto him; wherefore,
-brethren, despise not the revelations of God." ([Jacob
-4:8](https://www.lds.org/scriptures/bofm/jacob/4.8?lang=eng#7).)
+Ne. 10:19](/scriptures/bofm/1-ne/10.19?lang=eng#18); see also [1 Cor.
+2:4-16](/scriptures/nt/1-cor/2.4-16?lang=eng#3); [Alma
+18:35](/scriptures/bofm/alma/18.35?lang=eng#34); [D&amp;C 121:26](/scriptures
+/dc-testament/dc/121.26?lang=eng#25).) The prophet Jacob declared the
+impossibility of uninspired man's understanding God: "No man knoweth of his
+ways save it be revealed unto him; wherefore, brethren, despise not the
+revelations of God." ([Jacob 4:8](/scriptures/bofm/jacob/4.8?lang=eng#7).)
 
 The Lord's prescribed methods of acquiring sacred knowledge are very different
 from the methods used by those who acquire learning exclusively by study. For
@@ -215,36 +210,30 @@ example, a frequent technique of scholarship is debate or adversarial
 discussion, a method with which I have had considerable personal experience.
 But the Lord has instructed us in ancient and modern scriptures that we should
 not contend over the points of his doctrine. (See [3 Ne.
-11:28-30](https://www.lds.org/scriptures/bofm/3-ne/11.28-30?lang=eng#27);
-[D&amp;C 10:63](https://www.lds.org/scriptures/dc-
-testament/dc/10.63?lang=eng#62).) Those who teach the gospel are instructed
-not to preach with "wrath" or "strife" ([D&amp;C
-60:14](https://www.lds.org/scriptures/dc-testament/dc/60.14?lang=eng#13); see
-also [2 Tim.
-2:23-25](https://www.lds.org/scriptures/nt/2-tim/2.23-25?lang=eng#22)), but in
-"mildness and in meekness" ([D&amp;C 38:41](https://www.lds.org/scriptures/dc-
-testament/dc/38.41?lang=eng#40)), "reviling not against revilers" ([D&amp;C
-19:30](https://www.lds.org/scriptures/dc-testament/dc/19.30?lang=eng#29)).
-Similarly, techniques devised for adversary debate or to search out
-differences and work out compromises are not effective in acquiring gospel
-knowledge. Gospel truths and testimony are received from the Holy Ghost
-through reverent personal study and quiet contemplation.
+11:28-30](/scriptures/bofm/3-ne/11.28-30?lang=eng#27); [D&amp;C
+10:63](/scriptures/dc-testament/dc/10.63?lang=eng#62).) Those who teach the
+gospel are instructed not to preach with "wrath" or "strife" ([D&amp;C
+60:14](/scriptures/dc-testament/dc/60.14?lang=eng#13); see also [2 Tim.
+2:23-25](/scriptures/nt/2-tim/2.23-25?lang=eng#22)), but in "mildness and in
+meekness" ([D&amp;C 38:41](/scriptures/dc-testament/dc/38.41?lang=eng#40)),
+"reviling not against revilers" ([D&amp;C 19:30](/scriptures/dc-
+testament/dc/19.30?lang=eng#29)). Similarly, techniques devised for adversary
+debate or to search out differences and work out compromises are not effective
+in acquiring gospel knowledge. Gospel truths and testimony are received from
+the Holy Ghost through reverent personal study and quiet contemplation.
 
 In the scriptures, the Lord has specified how we learn by faith. We must be
 humble, cultivate faith, repent of our sins, serve our fellowmen, and keep the
 commandments of God. (See [Ether
-12:27](https://www.lds.org/scriptures/bofm/ether/12.27?lang=eng#26); [D&amp;C
-1:28](https://www.lds.org/scriptures/dc-testament/dc/1.28?lang=eng#27);
-[D&amp;C 12:8](https://www.lds.org/scriptures/dc-
-testament/dc/12.8?lang=eng#7); [D&amp;C 50:28](https://www.lds.org/scriptures
-/dc-testament/dc/50.28?lang=eng#27); [D&amp;C
-63:23](https://www.lds.org/scriptures/dc-testament/dc/63.23?lang=eng#22);
-[D&amp;C 136:32-33](https://www.lds.org/scriptures/dc-
+12:27](/scriptures/bofm/ether/12.27?lang=eng#26); [D&amp;C 1:28](/scriptures
+/dc-testament/dc/1.28?lang=eng#27); [D&amp;C 12:8](/scriptures/dc-
+testament/dc/12.8?lang=eng#7); [D&amp;C 50:28](/scriptures/dc-
+testament/dc/50.28?lang=eng#27); [D&amp;C 63:23](/scriptures/dc-
+testament/dc/63.23?lang=eng#22); [D&amp;C 136:32-33](/scriptures/dc-
 testament/dc/136.32-33?lang=eng#31).) As the Book of Mormon says, "Yea, he
 that repenteth and exerciseth faith, and bringeth forth good works, and
 prayeth continually without ceasing--unto such it is given to know the
-mysteries of God." ([Alma
-26:22](https://www.lds.org/scriptures/bofm/alma/26.22?lang=eng#21).)
+mysteries of God." ([Alma 26:22](/scriptures/bofm/alma/26.22?lang=eng#21).)
 
 I have seen some persons attempt to understand or undertake to criticize the
 gospel or the Church by the method of reason alone, unaccompanied by the use
@@ -260,41 +249,37 @@ That is what the Savior told his professional critics, as recorded in the
 eleventh chapter of Luke. He was confronted by a group who had hypocritically
 built monuments to the prophets their predecessors had murdered, while
 personally rejecting the living prophets God was sending them. (See [Luke
-11:47-49](https://www.lds.org/scriptures/nt/luke/11.47-49?lang=eng#46).) In
-what I understand to be a condemnation of their rejection of revelation, the
-Savior pronounced woe upon these worldly professionals: "For ye have taken
-away the key of knowledge: ye entered not in yourselves, and them that were
-entering in ye hindered." ([Luke
-11:52](https://www.lds.org/scriptures/nt/luke/11.52?lang=eng#51).)
+11:47-49](/scriptures/nt/luke/11.47-49?lang=eng#46).) In what I understand to
+be a condemnation of their rejection of revelation, the Savior pronounced woe
+upon these worldly professionals: "For ye have taken away the key of
+knowledge: ye entered not in yourselves, and them that were entering in ye
+hindered." ([Luke 11:52](/scriptures/nt/luke/11.52?lang=eng#51).)
 
 The early leaders of the restored church had to learn that same truth. In
 several revelations the Lord rebuked Joseph Smith, David Whitmer, and others
 for not having their minds on the things of God, for yielding to "the
-persuasions of men" ([D&amp;C 3:6](https://www.lds.org/scriptures/dc-
-testament/dc/3.6?lang=eng#5); [D&amp;C 5:21](https://www.lds.org/scriptures
-/dc-testament/dc/5.21?lang=eng#20)), and for being "persuaded by those whom I
-have not commanded" ([D&amp;C 30:2](https://www.lds.org/scriptures/dc-
-testament/dc/30.2?lang=eng#1)).
+persuasions of men" ([D&amp;C 3:6](/scriptures/dc-
+testament/dc/3.6?lang=eng#5); [D&amp;C 5:21](/scriptures/dc-
+testament/dc/5.21?lang=eng#20)), and for being "persuaded by those whom I have
+not commanded" ([D&amp;C 30:2](/scriptures/dc-testament/dc/30.2?lang=eng#1)).
 
 The correct relationship between study and faith in the receipt of sacred
 knowledge is illustrated in Oliver Cowdery's attempt to translate ancient
 records. He failed because he "took no thought," but only asked God. ([D&amp;C
-9:7](https://www.lds.org/scriptures/dc-testament/dc/9.7?lang=eng#6).) The Lord
-told him he should have "stud[ied] it out in [his] mind" and then asked if it
-was right. ([D&amp;C 9:8](https://www.lds.org/scriptures/dc-
-testament/dc/9.8?lang=eng#7).) Only then would the Lord reveal whether the
-translation was correct or not. And only on receiving that revelation could
-the text be written, because "you cannot write that which is sacred save it be
-given you from me." ([D&amp;C 9:9](https://www.lds.org/scriptures/dc-
-testament/dc/9.9?lang=eng#8).) In the acquisition of sacred knowledge,
+9:7](/scriptures/dc-testament/dc/9.7?lang=eng#6).) The Lord told him he should
+have "stud[ied] it out in [his] mind" and then asked if it was right.
+([D&amp;C 9:8](/scriptures/dc-testament/dc/9.8?lang=eng#7).) Only then would
+the Lord reveal whether the translation was correct or not. And only on
+receiving that revelation could the text be written, because "you cannot write
+that which is sacred save it be given you from me." ([D&amp;C 9:9](/scriptures
+/dc-testament/dc/9.9?lang=eng#8).) In the acquisition of sacred knowledge,
 scholarship and reason are not alternatives to revelation. They are a means to
 an end, and the end is revelation from God.
 
 God has promised that if we ask him, we will "receive revelation upon
 revelation, knowledge upon knowledge, that [we may] know the mysteries and
 peaceable things--that which bringeth joy, that which bringeth life eternal."
-([D&amp;C 42:61](https://www.lds.org/scriptures/dc-
-testament/dc/42.61?lang=eng#60).)
+([D&amp;C 42:61](/scriptures/dc-testament/dc/42.61?lang=eng#60).)
 
 In our day we are experiencing an explosion of knowledge about the world and
 its people. But the people of the world are not experiencing a comparable
@@ -303,21 +288,19 @@ subject, what the world needs is not more scholarship and technology but more
 righteousness and revelation.
 
 I long for the day prophesied by Isaiah when "the earth shall be full of the
-knowledge of the Lord." ([Isa.
-11:9](https://www.lds.org/scriptures/ot/isa/11.9?lang=eng#8); [2 Ne.
-21:9](https://www.lds.org/scriptures/bofm/2-ne/21.9?lang=eng#8).) In an
-inspired utterance, the Prophet Joseph Smith described the Lord's "pouring
-down knowledge from heaven upon the heads of the Latter-day Saints." ([D&amp;C
-121:33](https://www.lds.org/scriptures/dc-testament/dc/121.33?lang=eng#32).)
-This will not happen for those whose "hearts are set so much upon the things
-of this world, and aspire to the honors of men." ([D&amp;C
-121:35](https://www.lds.org/scriptures/dc-testament/dc/121.35?lang=eng#34).)
-Those who fail to learn and use "principles of righteousness" ([D&amp;C
-121:36](https://www.lds.org/scriptures/dc-testament/dc/121.36?lang=eng#35))
-will be left to themselves to kick against those in authority, "to persecute
-the saints, and to fight against God" ([D&amp;C
-121:38](https://www.lds.org/scriptures/dc-testament/dc/121.38?lang=eng#37)).
-In contrast, the Lord makes this great promise to the faithful:
+knowledge of the Lord." ([Isa. 11:9](/scriptures/ot/isa/11.9?lang=eng#8); [2
+Ne. 21:9](/scriptures/bofm/2-ne/21.9?lang=eng#8).) In an inspired utterance,
+the Prophet Joseph Smith described the Lord's "pouring down knowledge from
+heaven upon the heads of the Latter-day Saints." ([D&amp;C 121:33](/scriptures
+/dc-testament/dc/121.33?lang=eng#32).) This will not happen for those whose
+"hearts are set so much upon the things of this world, and aspire to the
+honors of men." ([D&amp;C 121:35](/scriptures/dc-
+testament/dc/121.35?lang=eng#34).) Those who fail to learn and use "principles
+of righteousness" ([D&amp;C 121:36](/scriptures/dc-
+testament/dc/121.36?lang=eng#35)) will be left to themselves to kick against
+those in authority, "to persecute the saints, and to fight against God"
+([D&amp;C 121:38](/scriptures/dc-testament/dc/121.38?lang=eng#37)). In
+contrast, the Lord makes this great promise to the faithful:
 
 "The doctrine of the priesthood shall distil upon thy soul as the dews from
 heaven.
@@ -325,8 +308,10 @@ heaven.
 "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging
 scepter of righteousness and truth; and thy dominion shall be an everlasting
 dominion, and without compulsory means it shall flow unto thee forever and
-ever." ([D&amp;C 121:45-46](https://www.lds.org/scriptures/dc-
+ever." ([D&amp;C 121:45-46](/scriptures/dc-
 testament/dc/121.45-46?lang=eng#44).)
 
 I testify of these things in the name of Jesus Christ, amen.
+
+## References
 

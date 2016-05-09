@@ -156,7 +156,7 @@ points."
 The President spoke very strongly against fornication, adultery, and other
 perversions. He quoted Paul, who cautioned not to "company with fornicators. ...
 Therefore put away from among yourselves that wicked person." ([1 Cor. 5:9,
-13](https://www.lds.org/scriptures/nt/1-cor/5.9%2C13?lang=eng#8).)
+13](/scriptures/nt/1-cor/5.9,13?lang=eng#8).)
 
 President Kimball continued: "Oh, if our young people could learn this basic
 lesson--to always keep good company, to never be found with those who tend to
@@ -173,7 +173,7 @@ follows:
 Lord, remember them no more.
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them." ([D&amp;C 58:42-43](https://www.lds.org/scriptures/dc-
+them and forsake them." ([D&amp;C 58:42-43](/scriptures/dc-
 testament/dc/58.42-43?lang=eng#41).)
 
 Then he said:
@@ -188,8 +188,7 @@ they are old, but rather because through the ages they have proved right.
 rejection. In one dark, unglorious hour, lives can be shattered. Chastity lost
 is gone forever, and virtue stolen cannot be returned. Our final words are
 those of the Prophet Isaiah: 'Be ye clean, that bear the vessels of the
-Lord.'" ([Isa.
-52:11](https://www.lds.org/scriptures/ot/isa/52.11?lang=eng#10).)
+Lord.'" ([Isa. 52:11](/scriptures/ot/isa/52.11?lang=eng#10).)
 
 Elder Thomas S. Monson described an area conference as a time to ponder, a
 time to pray, a time to reflect, and a time to resolve. He spoke of free
@@ -210,21 +209,19 @@ rather listen carefully to the voice of truth."
 
 He gave as a second suggestion that we must also _learn._ Then he quoted from
 James: "Be ye doers of the word, and not hearers only, deceiving your own
-selves." ([James
-1:22](https://www.lds.org/scriptures/nt/james/1.22?lang=eng#21).) We must
-learn from the scriptures and from good books, he told them, and also from the
-lives of good men, such as the General Authorities.
+selves." ([James 1:22](/scriptures/nt/james/1.22?lang=eng#21).) We must learn
+from the scriptures and from good books, he told them, and also from the lives
+of good men, such as the General Authorities.
 
 The third suggestion was that we should _labor._ He reminded us of Nephi's
 declaration: "I will go and _do_ the things which the Lord hath commanded."
-([1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6), italics
-added.) He told us to share our testimonies through our labors in building the
-kingdom of God.
+([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6), italics added.) He told us
+to share our testimonies through our labors in building the kingdom of God.
 
 His final suggestion was to _love._ He told us what the Savior said to the
 lawyer about the first and great commandment to love God, and the second which
 was "Thou shalt love thy neighbour as thyself." ([Matt.
-22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38).)
+22:39](/scriptures/nt/matt/22.39?lang=eng#38).)
 
 He concluded by saying:
 
@@ -237,7 +234,7 @@ Hopefully each has decided: I will listen; I will learn; I will labor; I will
 love. To assist us in our determined course the ever-present help of the Lord
 is assured. 'Behold, I stand at the door, and knock: if any man hear my voice,
 and open the door, I will come in to him.'" ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).)
+3:20](/scriptures/nt/rev/3.20?lang=eng#19).)
 
 Beautifully exemplifying the theme of our conferences was a talk given by
 Elder Boyd K. Packer on "the voice of warning." He began by quoting from the
@@ -247,7 +244,7 @@ first section of the Doctrine and Covenants, wherein the Lord said:
 whom I have chosen in these last days.
 
 "And they shall go forth and none shall stay them, for I the Lord have
-commanded them." ([D&amp;C 1:4-5](https://www.lds.org/scriptures/dc-
+commanded them." ([D&amp;C 1:4-5](/scriptures/dc-
 testament/dc/1.4-5?lang=eng#3).)
 
 He then referred to the recent collapse of the Teton Dam in Idaho, and
@@ -267,8 +264,8 @@ warning came. They heeded the warning. Latter-day Saints pay attention to
 warnings. They have read the revelation which states:
 
 "'For this is a day of warning, and not a day of many words. For I, the Lord,
-am not to be mocked in the last days.'" ([D&amp;C
-63:58](https://www.lds.org/scriptures/dc-testament/dc/63.58?lang=eng#57).)
+am not to be mocked in the last days.'" ([D&amp;C 63:58](/scriptures/dc-
+testament/dc/63.58?lang=eng#57).)
 
 Elder Packer stated that by scientific calculations 5,300 lives might have
 been lost, but there were so few. And it was not a case of going upstairs onto
@@ -280,8 +277,7 @@ He quoted again from the revelations: "And let those whom they have warned in
 their traveling call on the Lord, and ponder the warning in their hearts which
 they have received. ... Behold, I sent you out to testify and warn the people,
 and it becometh every man who hath been warned to warn his neighbor."
-([D&amp;C 88:71, 81](https://www.lds.org/scriptures/dc-
-testament/dc/88.71%2C81?lang=eng#70).)
+([D&amp;C 88:71, 81](/scriptures/dc-testament/dc/88.71,81?lang=eng#70).)
 
 Then he said: "That is how they were saved. Everyone, when warned, raised the
 voice of warning to his family and to his neighbors. ... Do you think they were
@@ -324,4 +320,6 @@ That we may all be engaged in works of righteousness, and with love in our
 hearts and a testimony of the truth on our lips, heed the warning voice of our
 prophet, and in turn warn our neighbors, I humbly pray in the name of Jesus
 Christ. Amen.
+
+## References
 

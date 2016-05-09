@@ -45,21 +45,19 @@ boundaries of an organized unit of the Church. I cite but a few of the scores
 of verses:
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord" ([D&amp;C 68:28](https://www.lds.org/scriptures/dc-
+before the Lord" ([D&amp;C 68:28](/scriptures/dc-
 testament/dc/68.28?lang=eng#27)).
 
 "The glory of God is intelligence, or, in other words, light and truth. ... I
 have commanded you to bring up your children in light and truth" ([D&amp;C
-93:36, 40](https://www.lds.org/scriptures/dc-
-testament/dc/93.36%2C40?lang=eng#35)).
+93:36, 40](/scriptures/dc-testament/dc/93.36,40?lang=eng#35)).
 
 "But ye will teach them to walk in the ways of truth and soberness; ye will
 teach them to love one another, and to serve one another" ([Mosiah
-4:15](https://www.lds.org/scriptures/bofm/mosiah/4.15?lang=eng#14)).
+4:15](/scriptures/bofm/mosiah/4.15?lang=eng#14)).
 
 "Train up a child in the way he should go: and when he is old, he will not
-depart from it" ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5)).
+depart from it" ([Prov. 22:6](/scriptures/ot/prov/22.6?lang=eng#5)).
 
 The Lord fixed families to give parents more influence on children than all
 other agencies combined. There is safety in this arrangement. It provides
@@ -104,10 +102,10 @@ homes. In the Book of Mormon we find some models:
 
 "I, Nephi, having been born of goodly parents, therefore I was taught somewhat
 in all the learning of my father" ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0)). No doubt Nephi
-was taught the things of the Spirit--his writings reveal that. He probably was
-taught practical matters as well, for he was a very resourceful man. Today
-that son is fortunate whose father teaches him somewhat in _all_ his learning.
+1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0)). No doubt Nephi was taught the
+things of the Spirit--his writings reveal that. He probably was taught
+practical matters as well, for he was a very resourceful man. Today that son
+is fortunate whose father teaches him somewhat in _all_ his learning.
 
 Enos, son of Jacob, was another who esteemed his father:
 
@@ -121,7 +119,7 @@ deep into my heart.
 
 "And my soul hungered; and I kneeled down before my Maker, and I cried unto
 him in mighty prayer and supplication for mine own soul" ([Enos 1:1,
-3-4](https://www.lds.org/scriptures/bofm/enos/1.1%2C3-4?lang=eng#0)).
+3-4](/scriptures/bofm/enos/1.1,3-4?lang=eng#0)).
 
 His life of service pivoted on this great spiritual experience. This
 experience occurred because of the words of his father. These are great
@@ -134,4 +132,6 @@ fellowman. Love and teach your children. Then one day we will merit a tribute
 from them, which in the eternal plan will mean more than fame or wealth: "I ...
 [was] born of goodly parents, therefore I was taught." In the name of Jesus
 Christ, amen.
+
+## References
 

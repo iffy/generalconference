@@ -24,7 +24,7 @@ leadership which will help boys keep close to their families and close to the
 Church as they develop the qualities of citizenship and character and fitness
 which Scouting represents. ... We've remained strong and firm in our support of
 this great movement for boys and of the Oath and the Law which are at its
-center." [1]  Tonight we renew that endorsement.
+center."[1] Tonight we renew that endorsement.
 
 Would you permit me to relate just one personal experience. When I was
 fourteen years old, our troop went to Big Cottonwood Canyon on a Scout outing.
@@ -122,7 +122,7 @@ _He walks today the highway fair_
 
 _Because one stood at the crossroads there_
 
-_To show him the better way._ [2]
+_To show him the better way._[2]
 
 Those who hold the Melchizedek Priesthood are not the only resource with the
 strength to lift, the wisdom to guide, and the ability to save. Many of you
@@ -139,7 +139,7 @@ Lord calling him, Samuel mistakenly thought it was aged Eli and responded,
 "Here am I." However, after Eli listened to the boy's account and told him it
 was of the Lord, Samuel followed Eli's counsel and subsequently responded to
 the Lord's call with the memorable reply, "Speak; for thy servant heareth."
-The record then reveals that "Samuel grew, and the Lord was with him." [3]
+The record then reveals that "Samuel grew, and the Lord was with him."[3]
 
 Contemplate for a moment the far-reaching effect of the prayer of a boy, born
 in the year of our Lord one thousand eight hundred and five in Sharon, Windsor
@@ -161,10 +161,10 @@ both hearing them, and asking them questions.
 
 "And when [Joseph and His mother] saw him, they were amazed. ...
 
-"And Jesus increased in wisdom and stature, and in favour with God and man."
-[4]
+"And Jesus increased in wisdom and stature, and in favour with God and
+man."[4]
 
-He "went about doing good, ... for God was with him." [5]
+He "went about doing good, ... for God was with him."[5]
 
 I mention these powerful examples so that every young man within the sound of
 my voice may know for himself his own strength when God is with him.
@@ -185,8 +185,8 @@ _Second, say what we ought to say._ What we say and how we say it tend to
 reflect what we are. In the life of the Apostle Peter, when he attempted to
 distance himself from Jesus and pretended to be other than what he was, his
 tormenters detected his true identity with the penetrating statement, "Thy
-speech bewrayeth thee." [6]  The words we utter will reflect the feelings of
-our hearts, the strength of our character, and the depth of our testimonies.
+speech bewrayeth thee."[6] The words we utter will reflect the feelings of our
+hearts, the strength of our character, and the depth of our testimonies.
 
 _Third, do what we ought to do._ Pierre, one of the central characters in
 Tolstoy's _War and Peace,_ torn by spiritual agonies, cries out to God, "Why
@@ -203,10 +203,10 @@ course.
 _Fourth, be what we ought to be._ The Apostle Paul counseled his beloved young
 friend Timothy: "Let no man despise thy youth; but be thou an example of the
 believers, in word, in conversation, in charity, in spirit, in faith, in
-purity." [7]  Peter asked the question: "What manner of persons ought ye to be
-in all holy conversation and godliness?" [8]  Then Peter's life answered
+purity."[7] Peter asked the question: "What manner of persons ought ye to be
+in all holy conversation and godliness?"[8] Then Peter's life answered
 convincingly his own question. The Master's own voice queried: "What manner of
-men ought ye to be? Verily I say unto you, even as I am." [9]
+men ought ye to be? Verily I say unto you, even as I am."[9]
 
 On occasion, when I have met with young men, I have been asked the question,
 "Brother Monson, is there one thing I can do to help me pattern my life and
@@ -224,7 +224,7 @@ drink. No twig would break, no movement disturb, no scent reveal the hunter's
 whereabouts. Why? The magnificent buck deer, with its highly developed senses
 to warn of impending danger, does not have the capacity to look directly
 upward and thus detect his enemy. Man is not so restricted. His greatest
-safety is found in his ability and his desire to "look to God and live." [10]
+safety is found in his ability and his desire to "look to God and live."[10]
 
 Wrote the poet:
 
@@ -234,7 +234,7 @@ _Supreme of all Thy plan,_
 
 _Thou hast put an upward reach_
 
-_Into the heart of man._ [11]
+_Into the heart of man._[11]
 
 May I conclude with a heart-tugging account of one small boy, a Cub Scout
 whose love of Scouting brought him and those who knew him and loved him closer
@@ -294,25 +294,25 @@ Jesus Christ, amen.
 
 ## References
 
-  1.  Spencer W. Kimball, _Ensign,_ May 1977, p. 36.
+  1. Spencer W. Kimball, _Ensign,_ May 1977, p. 36.
 
-  2.   _Central Christian Monitor._
+  2. _Central Christian Monitor._
 
-  3.   [1 Sam. 3:4, 10, 19](https://www.lds.org/scriptures/ot/1-sam/3.4%2C10%2C19?lang=eng#3).
+  3. [1 Sam. 3:4, 10, 19](https://www.lds.org/scriptures/ot/1-sam/3.4,10,19?lang=eng#3).
 
-  4.   [Luke 2:46-48, 52](https://www.lds.org/scriptures/nt/luke/2.46-48%2C52?lang=eng#45).
+  4. [Luke 2:46-48, 52](https://www.lds.org/scriptures/nt/luke/2.46-48,52?lang=eng#45).
 
-  5.   [Acts 10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).
+  5. [Acts 10:38](https://www.lds.org/scriptures/nt/acts/10.38?lang=eng#37).
 
-  6.   [Matt. 26:73](https://www.lds.org/scriptures/nt/matt/26.73?lang=eng#72).
+  6. [Matt. 26:73](https://www.lds.org/scriptures/nt/matt/26.73?lang=eng#72).
 
-  7.   [1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).
+  7. [1 Tim. 4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11).
 
-  8.   [2 Pet. 3:11](https://www.lds.org/scriptures/nt/2-pet/3.11?lang=eng#10).
+  8. [2 Pet. 3:11](https://www.lds.org/scriptures/nt/2-pet/3.11?lang=eng#10).
 
-  9.   [3 Ne. 27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).
+  9. [3 Ne. 27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).
 
-  10.   [Alma 37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46).
+  10. [Alma 37:47](https://www.lds.org/scriptures/bofm/alma/37.47?lang=eng#46).
 
-  11.  Harry Kemp, "God the Architect," _The World's Great Religious Poetry,_ ed. Caroline Miles Hill, (New York: Macmillan, 1954), p. 211.
+  11. Harry Kemp, "God the Architect," _The World's Great Religious Poetry,_ ed. Caroline Miles Hill, (New York: Macmillan, 1954), p. 211.
 

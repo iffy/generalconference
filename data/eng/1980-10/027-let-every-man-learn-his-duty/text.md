@@ -33,7 +33,7 @@ which he is appointed, in all diligence.
 
 "He that is slothful shall not be counted worthy to stand, and he that learns
 not his duty and shows himself not approved shall not be counted worthy to
-stand." ([D&amp;C 107:99-100](https://www.lds.org/scriptures/dc-
+stand." ([D&amp;C 107:99-100](/scriptures/dc-
 testament/dc/107.99-100?lang=eng#98).)
 
 Inscribed beneath Robert E. Lee's bust in the Hall of Fame are his words:
@@ -156,7 +156,7 @@ example to obey the statutes of God. Our lovely wives have a glorious duty to
 bring children into this life and to create a loving, learning, and supporting
 home atmosphere. Together, parents have the divine duty to bring up their
 children in the "nurture and admonition of the Lord" ([Eph.
-6:4](https://www.lds.org/scriptures/nt/eph/6.4?lang=eng#3)).
+6:4](/scriptures/nt/eph/6.4?lang=eng#3)).
 
 It is the duty of children to obey their parents, to learn, and to help with
 household chores. They carry the scriptural charge not to contend and quarrel
@@ -201,11 +201,11 @@ upon that house, and could not shake it: for it was founded upon a rock.
 "But he that heareth, and doeth not, is like a man that without a foundation
 built an house upon the earth; against which the stream did beat vehemently,
 and immediately it fell; and the ruin of that house was great." ([Luke
-6:43-49](https://www.lds.org/scriptures/nt/luke/6.43-49?lang=eng#42).)
+6:43-49](/scriptures/nt/luke/6.43-49?lang=eng#42).)
 
-"Be not weary in well-doing" ([D&amp;C 64:33](https://www.lds.org/scriptures
-/dc-testament/dc/64.33?lang=eng#32)), my brothers and sisters. Being true to
-one's duty is a mark of true disciples of the Lord and the children of God. Be
+"Be not weary in well-doing" ([D&amp;C 64:33](/scriptures/dc-
+testament/dc/64.33?lang=eng#32)), my brothers and sisters. Being true to one's
+duty is a mark of true disciples of the Lord and the children of God. Be
 valiant in your duty. Stay in step. Do not fail in your most important task,
 that of keeping your second estate. Be true to your duty, for it will bring
 you to God.
@@ -213,4 +213,6 @@ you to God.
 I bear you my deep and sincere testimony that this is the only way to obtain
 happiness and help the kingdom grow and flourish, in the name of Jesus Christ,
 amen.
+
+## References
 

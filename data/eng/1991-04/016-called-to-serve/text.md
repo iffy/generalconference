@@ -8,7 +8,7 @@ Father, and of the Son, and of the Holy Ghost:
 
 "Teaching them to observe all things whatsoever I have commanded you: and, lo,
 I am with you alway, even unto the end of the world." ([Matt.
-28:18-20](https://www.lds.org/scriptures/nt/matt/28.18-20?lang=eng#17).)
+28:18-20](/scriptures/nt/matt/28.18-20?lang=eng#17).)
 
 Matthew selected these words as the conclusion to his gospel--the account of
 the resurrected Lord charging those appointed to carry on His ministry among
@@ -53,10 +53,9 @@ a little scripture study between myself and my father.
 
 As near as I can remember, the procedure was as follows: He pushed the
 scriptures over to my side of the desk and asked me to turn to Doctrine and
-Covenants 59:6 [[D&amp;C 59:6](https://www.lds.org/scriptures/dc-
-testament/dc/59.6?lang=eng#5)] and read: "Thou shalt love thy neighbor as
-thyself. Thou shalt not steal; neither commit adultery, ... nor do anything like
-unto it."
+Covenants 59:6 [[D&amp;C 59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5)]
+and read: "Thou shalt love thy neighbor as thyself. Thou shalt not steal;
+neither commit adultery, ... nor do anything like unto it."
 
 We then discussed what it meant to be morally clean. The discussion centered
 on cleanliness of thought. If our thoughts remain clean and pure, we would
@@ -99,8 +98,7 @@ living the laws of the Lord. After each discussion, I was required to respond
 as to whether my life was in harmony with this principle.
 
 Then finally we turned and read together Doctrine and Covenants 110, verses 1
-through 4 [[D&amp;C 110:1-4](https://www.lds.org/scriptures/dc-
-testament/dc/110.1-4?lang=eng#0)]:
+through 4 [[D&amp;C 110:1-4](/scriptures/dc-testament/dc/110.1-4?lang=eng#0)]:
 
 "The veil was taken from our minds, and the eyes of our understanding were
 opened.
@@ -211,4 +209,6 @@ _Called to serve our King._
 God lives! Jesus is the Christ. We are engaged in His work is my witness to
 you. May God bless each one of us with the spirit of missionary service is my
 prayer in the name of Jesus Christ, amen.
+
+## References
 

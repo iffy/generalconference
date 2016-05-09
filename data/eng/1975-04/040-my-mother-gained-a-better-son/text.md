@@ -47,7 +47,7 @@ I have always tried since baptism to put the principles of the gospel in
 practice. I have always especially loved this scripture that I came across in
 Matthew: "But seek ye first the kingdom of God, and his righteousness; and all
 these things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).)
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).)
 
 I have tried in all of my years of membership in the Church to never refuse
 the Church whenever a call came to me. I have surely been blessed by the Lord
@@ -73,4 +73,6 @@ called of God, and even today, President Spencer W. Kimball is our living
 prophet.
 
 I bear you this witness humbly in the name of Jesus Christ. Amen.
+
+## References
 

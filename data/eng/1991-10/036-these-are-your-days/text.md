@@ -70,8 +70,7 @@ around you can tell who you are; they can see it in your eyes and feel the
 spirit you radiate as they associate with you. We have met many of you as we
 have traveled throughout the world. We have heard you make your commitment to
 stand "as [a witness] of God at all times and in all things, and in all
-places" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)) as you have
+places" ([Mosiah 18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)) as you have
 repeated the Young Women theme in many different languages. We have hugged a
 lot of you and talked to many of you. How thrilled we are to see how prayer,
 scriptures, and living the gospel in preparation for temple blessings have
@@ -96,8 +95,7 @@ To you, like Janalyn, who know for yourselves you are daughters of God and are
 living your lives in harmony with that knowledge, we say, "Carry on. Continue
 on the paths you walk." These are your days to lead out in righteousness so
 that others can safely follow and, along with you, prepare to "come unto
-Christ." ([Moro.
-10:30](https://www.lds.org/scriptures/bofm/moro/10.30?lang=eng#29).)
+Christ." ([Moro. 10:30](/scriptures/bofm/moro/10.30?lang=eng#29).)
 
 To you who may question your worth and wonder if God really loves you, these
 are your days to experiment upon the word of God by obeying his commandments
@@ -189,4 +187,6 @@ world-to-be." (Maude Osmond Cook, cited in _Ensign,_ Nov. 1977, p. 32.)
 
 We honor you, we pray for you, we love you. May God bless you. I say this in
 the name of Jesus Christ, amen.
+
+## References
 

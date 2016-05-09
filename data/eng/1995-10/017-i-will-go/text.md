@@ -11,13 +11,13 @@ There is a sign prominently displayed in a shopping mall in Manila, the
 Philippines, that reads, "Your 'I will' is more important than your 'IQ.'" As
 I ponder the meaning of that short phrase, there comes to mind the chorus of
 the great Primary song based on [1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6): "I will go; I
-will do the thing the Lord commands. I know the Lord provides a way; he wants
-me to obey" ("Nephi's Courage," _Children's Songbook,_ pp. 120-121). I also
-find myself humming and whistling the refrain from the celebrated hymn of the
-Restoration: "I'll go where you want me to go, dear Lord, ... I'll say what you
-want me to say, ... I'll be what you want me to be" ("I'll Go Where You Want Me
-to Go," _Hymns,_ 1985, no. 270).
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6): "I will go; I will do the thing
+the Lord commands. I know the Lord provides a way; he wants me to obey"
+("Nephi's Courage," _Children's Songbook,_ pp. 120-121). I also find myself
+humming and whistling the refrain from the celebrated hymn of the Restoration:
+"I'll go where you want me to go, dear Lord, ... I'll say what you want me to
+say, ... I'll be what you want me to be" ("I'll Go Where You Want Me to Go,"
+_Hymns,_ 1985, no. 270).
 
 Far too many who have been blessed with great ability and exceptional
 intellect fail to have an "I will" attitude when it comes to going, doing,
@@ -29,8 +29,7 @@ Christ, all mankind may be saved, by obedience to the laws and ordinances of
 the Gospel." Certainly the most magnificent act of obedience was accomplished
 in Gethsemane. You may recall the heartfelt plea of the Savior: "Father, if
 thou be willing, remove this cup from me: nevertheless not my will, but thine,
-be done" ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41)).
+be done" ([Luke 22:42](/scriptures/nt/luke/22.42?lang=eng#41)).
 
 For us who bear the priesthood of God, there are many important "I wills": _I
 will_ be loyal to the oath and covenant of the priesthood; _I will_ be
@@ -65,8 +64,8 @@ just six months ago in the last general priesthood meeting? For example, do
 you remember President Faust saying, "There is no greater responsibility than
 that of being a husband and a father, from which there is no release. ... 'Love
 thy wife with all thy heart, and ... cleave unto her and none else' [[D&amp;C
-42:22](https://www.lds.org/scriptures/dc-testament/dc/42.22?lang=eng#21)]"?
-(In Conference Report, Apr. 1995, p. 63.)
+42:22](/scriptures/dc-testament/dc/42.22?lang=eng#21)]"? (In Conference
+Report, Apr. 1995, p. 63.)
 
 Can you remember President Monson's fervent request, "Brethren of the
 priesthood, the world is in need of your help. There are feet to steady, hands
@@ -92,13 +91,11 @@ Then when you are tempted by the adversary, as you may be nearly every day, to
 deviate from the counsel of the prophets, the wishes of your parents, or what
 "the Lord commands," you can immediately have the words of stalwart Nephi
 automatically come to your mind: "I will go and do the things which the Lord
-hath commanded" ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)). And when
+hath commanded" ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)). And when
 someone with whom you associate suggests you participate in something that is
 not as "the Lord commands," you can think of the courageous plea Nephi made to
 his elder brothers: "Let us be faithful in keeping the commandments of the
-Lord" ([1 Ne.
-3:16](https://www.lds.org/scriptures/bofm/1-ne/3.16?lang=eng#15)).
+Lord" ([1 Ne. 3:16](/scriptures/bofm/1-ne/3.16?lang=eng#15)).
 
 I am aware of a group of courageous young men who followed the example of
 Nephi. After winning a baseball state championship for their age group, their
@@ -138,8 +135,8 @@ and _I will_ not leave the teaching and governance of my family to society, to
 the school, or to the Church. We are reminded in the Doctrine and Covenants
 that fathers and mothers are held accountable by the Lord to teach their
 children about faith, repentance, baptism, the Holy Ghost, and the need to
-pray and walk uprightly before the Lord (see [D&amp;C 68:25,
-28](https://www.lds.org/scriptures/dc-testament/dc/68.25%2C28?lang=eng#24)).
+pray and walk uprightly before the Lord (see [D&amp;C 68:25, 28](/scriptures
+/dc-testament/dc/68.25,28?lang=eng#24)).
 
 Perhaps you have heard some say, "I am so busy with living and providing that
 I have little time to devote to my family, but I make an effort to see that my
@@ -170,4 +167,6 @@ obey the living prophets. I further testify that our Lord and Savior Jesus
 Christ lives. He is our Savior and our Redeemer. He has, upon the principles
 of our repentance, atoned for our sins. I testify that this is so, in the holy
 name of Jesus Christ, amen.
+
+## References
 

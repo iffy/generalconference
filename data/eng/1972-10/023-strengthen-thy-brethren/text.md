@@ -16,8 +16,7 @@ the Lord and the counsel from his servants during these two great days.
 When the Lord appeared to the Nephites he said, "And again I say unto you, ye
 must repent, and be baptized in my name, and become as a little child, or ye
 can in nowise inherit the kingdom of God." ([3 Ne.
-11:38](https://www.lds.org/scriptures/bofm/3-ne/11.38?lang=eng#37).) That was
-his real warning.
+11:38](/scriptures/bofm/3-ne/11.38?lang=eng#37).) That was his real warning.
 
 Just twenty-three years ago this fall, I entered Chapman College in Southern
 California as a student. I came under the wonderful influence of Dr. Guy M.
@@ -29,10 +28,9 @@ baptism and became a member of the Church.
 I thought of another scripture as I witnessed that baptism experience of my
 friend. The Lord, admonishing his chief apostle Peter, as Luke records it,
 gave this simple counsel and direction: "... when thou art converted, strengthen
-thy brethren." ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).) I pray the
-good bishop, the home teacher, the congregation of the ward to which Guy and
-his family have now been assigned will strengthen my brother.
+thy brethren." ([Luke 22:32](/scriptures/nt/luke/22.32?lang=eng#31).) I pray
+the good bishop, the home teacher, the congregation of the ward to which Guy
+and his family have now been assigned will strengthen my brother.
 
 Permit a personal experience for just a moment. Strengthening one's brother, I
 think, comes closer to home when we think of fellowshiping and friendshiping
@@ -112,4 +110,6 @@ I testify to the divinity of this church. It is true. I sustain President Lee
 as a prophet, seer, and revelator. I know he is called and ordained of God. I
 know God lives and that Jesus is the Christ, to which I add my testimony, in
 the name of Jesus Christ. Amen.
+
+## References
 

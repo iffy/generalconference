@@ -35,14 +35,13 @@ the living Son of God. In high school and the years that followed I had made a
 special study of the New Testament. However, the Savior's life and mortal
 ministry had no great impact on my life until the missionaries testified, as
 did Job of old, that our Redeemer lives (see [Job
-19:25](https://www.lds.org/scriptures/ot/job/19.25?lang=eng#24)).
+19:25](/scriptures/ot/job/19.25?lang=eng#24)).
 
 I came to know him as my personal Savior, who gave his life for me and for
 each of us. "Greater love hath no man than this, that a man lay down his life
-for his friends" ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12)). Everyone
-needs a friend and everyone has a friend beyond compare--Jesus Christ and him
-crucified and resurrected for us.
+for his friends" ([John 15:13](/scriptures/nt/john/15.13?lang=eng#12)).
+Everyone needs a friend and everyone has a friend beyond compare--Jesus Christ
+and him crucified and resurrected for us.
 
 Third, as a young married couple, we were seeking security in an insecure
 world. We had grown from youth through teenage years during World War II. I
@@ -64,9 +63,9 @@ what a friendly reception! We soon learned what true sociality is, and sincere
 brotherhood and sisterhood which bind together people of all nations and
 tongues. "Now therefore ye are no more strangers and foreigners, but
 fellowcitizens with the saints, and of the household of God" ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18)). What a
-wonderful feeling of belonging, of being needed and appreciated, beyond
-anything we had previously experienced.
+2:19](/scriptures/nt/eph/2.19?lang=eng#18)). What a wonderful feeling of
+belonging, of being needed and appreciated, beyond anything we had previously
+experienced.
 
 Soon we were singing in choirs; visiting other Church members in their homes,
 just as they visited us; and giving service to others in some of the many
@@ -83,7 +82,7 @@ week together in a balanced evening of spiritual instruction, fun, and talent
 sharing. We love our children, and we were glad to learn from the missionaries
 that although baptism is essential for the remission of sins, infant baptism
 is not necessary since "all children who die before ... accountability are saved
-in the celestial kingdom" ([D&amp;C 137:10](https://www.lds.org/scriptures/dc-
+in the celestial kingdom" ([D&amp;C 137:10](/scriptures/dc-
 testament/dc/137.10?lang=eng#9)). We have known a number of parents who have
 been distressed at the death of a small child because of the un-Christian
 doctrine of infant baptism.
@@ -158,16 +157,15 @@ this earth life innocent and pure, and having been tainted by the things of
 the world. The marvelous thing is that Jesus gave his life for everyone. His
 resurrection was for everyone, "for as in Adam all die, even so in Christ
 shall all be made alive" ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21)).
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21)).
 
 Tenth, and finally, since being baptized into this wonderful restored Church
 of Jesus Christ, I have felt an inner peace, "the peace of God, which passeth
-all understanding" ([Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6)). I have heard
-many people say their greatest need and desire is to obtain peace of mind. How
-does this come? It comes by knowing the truth, for "the truth shall make you
-free" ([John 8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31)).
-I testify that The Church of Jesus Christ of Latter-day Saints is the true
+all understanding" ([Philip. 4:7](/scriptures/nt/philip/4.7?lang=eng#6)). I
+have heard many people say their greatest need and desire is to obtain peace
+of mind. How does this come? It comes by knowing the truth, for "the truth
+shall make you free" ([John 8:32](/scriptures/nt/john/8.32?lang=eng#31)). I
+testify that The Church of Jesus Christ of Latter-day Saints is the true
 Church of Jesus Christ, and teaches true principles and true ordinances.
 
 How grateful I am that my ten most fervent needs have been fulfilled through
@@ -177,4 +175,6 @@ the gospel, I have found happiness not only here but for eternities to come.
 
 May all within the sound of my voice, and all God's children everywhere, have
 the same fulfillment, I pray in the name of Jesus Christ, amen.
+
+## References
 

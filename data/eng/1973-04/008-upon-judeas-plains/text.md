@@ -1,9 +1,9 @@
 # Upon Judea’s Plains
 
 Peter said, "If any man speak, let him speak as the oracles of God" ([1 Pet.
-4:11](https://www.lds.org/scriptures/nt/1-pet/4.11?lang=eng#10)), which means
-he must be guided by the power of the Holy Ghost; and this is the thing, above
-all else, that I desire at this time.
+4:11](/scriptures/nt/1-pet/4.11?lang=eng#10)), which means he must be guided
+by the power of the Holy Ghost; and this is the thing, above all else, that I
+desire at this time.
 
 This morning we heard the chief officer, the chief oracle of the kingdom of
 God on earth, give the mind and will and voice of the Lord to the Latter-day
@@ -89,10 +89,10 @@ and righteous men have done in all ages past.
 In the early days of this dispensation the Lord said, "... the elders, priests
 and teachers of this church shall teach the principles of my gospel, which are
 in the Bible and the Book of Mormon, in the which is the fulness of the
-gospel." ([D&amp;C 42:12](https://www.lds.org/scriptures/dc-
-testament/dc/42.12?lang=eng#11).) Then he said on another occasion that we
-were sent out "to testify and warn the people. ..." ([D&amp;C
-88:81](https://www.lds.org/scriptures/dc-testament/dc/88.81?lang=eng#80).)
+gospel." ([D&amp;C 42:12](/scriptures/dc-testament/dc/42.12?lang=eng#11).)
+Then he said on another occasion that we were sent out "to testify and warn
+the people. ..." ([D&amp;C 88:81](/scriptures/dc-
+testament/dc/88.81?lang=eng#80).)
 
 I suppose these two commissions--on the one hand to teach the doctrines of the
 gospel, and on the other hand to testify by personal knowledge that we know
@@ -103,7 +103,7 @@ scriptures diligently, that they might know the word of God. But this is not
 all; they had given themselves to much prayer, and fasting; therefore they had
 the spirit of prophecy, and the spirit of revelation, and when they taught,
 they taught with power and authority of God." ([Alma
-17:2-3](https://www.lds.org/scriptures/bofm/alma/17.2-3?lang=eng#1).)
+17:2-3](/scriptures/bofm/alma/17.2-3?lang=eng#1).)
 
 Now this gives us two premises. On the one hand we are obligated and required
 to know the doctrines of the Church. We are to treasure up the words of
@@ -122,10 +122,9 @@ their day that we have for ours: to carry the message of salvation to the ends
 of the earth. I suppose Peter read and taught the revelations that Isaiah and
 the prophets gave about Christ and his gospel. He reasoned with the people
 about them. He followed the divine counsel, "Come now, and let us reason
-together. ..." ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).) He obeyed the
+together. ..." ([Isa. 1:18](/scriptures/ot/isa/1.18?lang=eng#17).) He obeyed the
 divine decree, "... bring forth your strong reasons." ([Isa. 41:
-21](https://www.lds.org/scriptures/ot/isa/41.title?lang=eng).)
+21](/scriptures/ot/isa/41?lang=eng).)
 
 But he did something more than that. After he had taught the doctrines and
 after he had reasoned, he bore a personal witness of the truth and divinity of
@@ -139,16 +138,16 @@ appeared; that the people there assembled were terrified and affrighted; and
 that the Lord said to them: "Why are ye troubled? and why do thoughts arise in
 your hearts? Behold my hands and my feet, that it is I myself: handle me, and
 see; for a spirit hath not flesh and bones, as ye see me have." ([Luke
-24:38-39](https://www.lds.org/scriptures/nt/luke/24.38-39?lang=eng#37).) Then
-they stretched forth their hands and felt the wound marks that scarred his
-body. He called for meat and ate it before them.
+24:38-39](/scriptures/nt/luke/24.38-39?lang=eng#37).) Then they stretched
+forth their hands and felt the wound marks that scarred his body. He called
+for meat and ate it before them.
 
 Thomas was absent on this occasion and believed not the testimony of his
 fellow disciples; eight days later the Lord made a similar appearance to the
 whole group and said to him: "Reach hither thy finger, and behold my hands;
 and reach hither thy hand, and thrust it into my side: and be not faithless,
 but believing." Thomas said: "My Lord and my God." (See [John
-20:24-28](https://www.lds.org/scriptures/nt/john/20.24-28?lang=eng#23).)
+20:24-28](/scriptures/nt/john/20.24-28?lang=eng#23).)
 
 All this was done to show that Jesus had come forth from the tomb with a
 tangible body. It was the Lord's way of giving to Peter and his associates a
@@ -181,12 +180,12 @@ who did eat and drink with him after he rose from the dead.
 
 "And he commanded us to preach unto the people, and to testify that it is he
 which was ordained of God to be the Judge of quick and dead." ([Acts
-10:36-42](https://www.lds.org/scriptures/nt/acts/10.36-42?lang=eng#35).)
+10:36-42](/scriptures/nt/acts/10.36-42?lang=eng#35).)
 
 And then comes this comprehensive, all-inclusive statement: "To him give all
 the prophets witness, that through his name whosoever believeth in him shall
 receive remission of sins." ([Acts
-10:43](https://www.lds.org/scriptures/nt/acts/10.43?lang=eng#42).)
+10:43](/scriptures/nt/acts/10.43?lang=eng#42).)
 
 Let me read one other testimony that Peter bore:
 
@@ -199,8 +198,7 @@ voice to him from the excellent glory, This is my beloved Son, in whom I am
 well pleased.
 
 "And this voice which came from heaven we heard, when we were with him in the
-holy mount." ([2 Pet.
-1:16-18](https://www.lds.org/scriptures/nt/2-pet/1.16-18?lang=eng#15).)
+holy mount." ([2 Pet. 1:16-18](/scriptures/nt/2-pet/1.16-18?lang=eng#15).)
 
 Now I do not minimize in any degree or to any extent the obligation that rests
 upon us to be gospel scholars, to search the revelations, to learn how to
@@ -208,11 +206,9 @@ reason and analyze, to present the message of salvation among ourselves and to
 the world with all the power and ability we have; but that standing alone does
 not suffice. When that is all over, we have to comply with the command the
 Lord gave for us in this day: "... ye are my witnesses, saith the Lord, that I
-am God." ([Isa.
-43:12](https://www.lds.org/scriptures/ot/isa/43.12?lang=eng#11).) We have to
-put an approving, divine seal on the doctrine that we teach, and that seal is
-the seal of testimony, the seal of a personal knowledge borne of the Holy
-Ghost.
+am God." ([Isa. 43:12](/scriptures/ot/isa/43.12?lang=eng#11).) We have to put
+an approving, divine seal on the doctrine that we teach, and that seal is the
+seal of testimony, the seal of a personal knowledge borne of the Holy Ghost.
 
 Now Peter could have reasoned at great length, and after having so done people
 could have argued with him and said, "You don't understand the scriptures.
@@ -228,9 +224,9 @@ us. I know he is the Son of God. The Holy Spirit of God has borne this witness
 to my soul"--if he said this to them, there was nothing left to debate. You
 can't argue with that kind of a presentation. You can say, as Festus said to
 Paul: "Thou art beside thyself; much learning doth make thee mad" ([Acts
-26:24](https://www.lds.org/scriptures/nt/acts/26.24?lang=eng#23)), but in the
-final analysis all you can do is accept or reject the witness that is borne.
-It is either true or it is false. There is no middle ground.
+26:24](/scriptures/nt/acts/26.24?lang=eng#23)), but in the final analysis all
+you can do is accept or reject the witness that is borne. It is either true or
+it is false. There is no middle ground.
 
 Now how do you prove and establish that the Father and the Son appeared to
 Joseph Smith; that angels came in our day; that there has been a restoration
@@ -286,4 +282,6 @@ Acclaim him Savior, Lord, and God!"
 
 And of this I testify, in solemnity and sobriety, with full knowledge of what
 I speak. In the name of the Lord Jesus Christ. Amen.
+
+## References
 

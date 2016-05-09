@@ -13,8 +13,8 @@ _And join with Him in prayer?_
 
 The prophet Alma said little children have words given unto them many times
 which confound the wise and the learned. (See [Alma
-32:23](https://www.lds.org/scriptures/bofm/alma/32.23?lang=eng#22).) I'm sure
-we've seen an example of that here this day.
+32:23](/scriptures/bofm/alma/32.23?lang=eng#22).) I'm sure we've seen an
+example of that here this day.
 
 A few hours after President Kimball ordained and set me apart, I traveled to
 meetings in Norfolk, Virginia. My soul was still filled with wonderment. But
@@ -35,34 +35,30 @@ walk in the meekness of my Spirit, and you shall have peace in me. ...
 
 "Thou shalt declare repentance and faith on the Savior," he said, "and
 remission of sins by baptism, and by fire, yea, even the Holy Ghost."
-([D&amp;C 19:23, 31](https://www.lds.org/scriptures/dc-
-testament/dc/19.23%2C31?lang=eng#22).)
+([D&amp;C 19:23, 31](/scriptures/dc-testament/dc/19.23,31?lang=eng#22).)
 
 The Savior said, "Arise and gird up your loins, take up your cross, follow me,
-and feed my sheep." ([D&amp;C 112:14](https://www.lds.org/scriptures/dc-
+and feed my sheep." ([D&amp;C 112:14](/scriptures/dc-
 testament/dc/112.14?lang=eng#13).)
 
 The Savior's declaration "And this is life eternal, that they might know thee
 the only true God, and Jesus Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)) now has a more
-profound meaning to me. It is not only my desire but my sacred obligation to
-help others to know and to understand this. Times have changed since Christ's
-true and only church was restored to the earth, but today the needs are the
-same and the promises assuring. Listen to this:
+17:3](/scriptures/nt/john/17.3?lang=eng#2)) now has a more profound meaning to
+me. It is not only my desire but my sacred obligation to help others to know
+and to understand this. Times have changed since Christ's true and only church
+was restored to the earth, but today the needs are the same and the promises
+assuring. Listen to this:
 
 "Draw near unto me and I will draw near unto you; seek me diligently and ye
 shall find me; ask, and ye shall receive; knock, and it shall be opened unto
-you." ([D&amp;C 88:63](https://www.lds.org/scriptures/dc-
-testament/dc/88.63?lang=eng#62).)
+you." ([D&amp;C 88:63](/scriptures/dc-testament/dc/88.63?lang=eng#62).)
 
 Our challenges are the same: "Thou shalt preach the fulness of my gospel,
 which I have sent forth in these last days, the covenant ... to recover my
-people." ([D&amp;C 39:11](https://www.lds.org/scriptures/dc-
-testament/dc/39.11?lang=eng#10).)
+people." ([D&amp;C 39:11](/scriptures/dc-testament/dc/39.11?lang=eng#10).)
 
 "Again I say unto you, hearken and hear and obey the law which I shall give
-unto you." ([D&amp;C 42:2](https://www.lds.org/scriptures/dc-
-testament/dc/42.2?lang=eng#1).)
+unto you." ([D&amp;C 42:2](/scriptures/dc-testament/dc/42.2?lang=eng#1).)
 
 The Master's instructions to us, given then, are the same today:
 
@@ -72,17 +68,16 @@ and direct my church. ...
 
 "And ye are to be taught from on high." He went on to say, "Sanctify
 yourselves and ye shall be endowed with power." ([D&amp;C 43:8,
-16](https://www.lds.org/scriptures/dc-testament/dc/43.8%2C16?lang=eng#7).)
+16](/scriptures/dc-testament/dc/43.8,16?lang=eng#7).)
 
 His promises are clear to us today. "If thou shalt ask, thou shalt receive
 revelation upon revelation, knowledge upon knowledge." ([D&amp;C
-42:61](https://www.lds.org/scriptures/dc-testament/dc/42.61?lang=eng#60).)
+42:61](/scriptures/dc-testament/dc/42.61?lang=eng#60).)
 
 And then that great promise: "And if your eye be single to my glory, your
 whole bodies shall be filled with light, and there shall be no darkness in
 you; and that body which is filled with light comprehendeth all things."
-([D&amp;C 88:67](https://www.lds.org/scriptures/dc-
-testament/dc/88.67?lang=eng#66).)
+([D&amp;C 88:67](/scriptures/dc-testament/dc/88.67?lang=eng#66).)
 
 Just as I have been instructed and counseled by President Kimball, others
 through the years have been so counseled. One hundred forty-six years ago when
@@ -155,23 +150,23 @@ for the Twelve during the Savior's earthly ministry. There occurred an
 incident which some writers regard as a culminating point of the Savior's
 ministry. You recall that he asked the Twelve two momentous questions. First,
 he asked, "Whom do men say that I the Son of man am?" ([Matt.
-16:13](https://www.lds.org/scriptures/nt/matt/16.13?lang=eng#12).) The
-apostles spoke words of soberness and truth but made the admission that the
-Messiah had not been recognized by the world which he came to save. The
-apostles repeated the guesses of the people. Some said he was John the
-Baptist; some said he was a new Elijah; others saw in him the tenderness of
-Jeremiah and thought that _he_ had come. And many looked on him as a prophet.
-The light had shone in the darkness, but the darkness comprehended it not.
-(See [John 1:5](https://www.lds.org/scriptures/nt/john/1.5?lang=eng#4).) We
-can only imagine the disappointment as the Savior directed the second question
-to the apostles when he said: "But whom say ye that I am?" ([Matt.
-16:15](https://www.lds.org/scriptures/nt/matt/16.15?lang=eng#14).)
+16:13](/scriptures/nt/matt/16.13?lang=eng#12).) The apostles spoke words of
+soberness and truth but made the admission that the Messiah had not been
+recognized by the world which he came to save. The apostles repeated the
+guesses of the people. Some said he was John the Baptist; some said he was a
+new Elijah; others saw in him the tenderness of Jeremiah and thought that _he_
+had come. And many looked on him as a prophet. The light had shone in the
+darkness, but the darkness comprehended it not. (See [John
+1:5](/scriptures/nt/john/1.5?lang=eng#4).) We can only imagine the
+disappointment as the Savior directed the second question to the apostles when
+he said: "But whom say ye that I am?" ([Matt.
+16:15](/scriptures/nt/matt/16.15?lang=eng#14).)
 
 The Savior needed to convert them, and they needed to convert the world. The
 answer came. Peter had the immortal honor of giving utterance for them all:
 
 "Thou art the Christ, the Son of the living God." ([Matt.
-16:16](https://www.lds.org/scriptures/nt/matt/16.16?lang=eng#15).)
+16:16](/scriptures/nt/matt/16.16?lang=eng#15).)
 
 This answer came from the senior of the apostles. The apostles now recognized
 in Jesus of Nazareth the promised Messiah of their nation and a Son of David;
@@ -187,7 +182,7 @@ build my church; and the gates of hell shall not prevail against it.
 "And I will give unto thee the keys of the kingdom of heaven: and whatsoever
 thou shalt bind on earth shall he bound in heaven: and whatsoever thou shalt
 loose on earth shall be loosed in heaven." ([Matt.
-16:17-19](https://www.lds.org/scriptures/nt/matt/16.17-19?lang=eng#16).)
+16:17-19](/scriptures/nt/matt/16.17-19?lang=eng#16).)
 
 This confirmation of Peter was also Jesus' testimony of himself and a promise
 that we who can so acknowledge are blessed when we are led by the Spirit of
@@ -201,8 +196,7 @@ God bless us with faith in Christ--the faith Christ stressed when he appeared
 to the eleven. Thomas, you recall, wanted proof--wanted to personally see what
 had been described to him. The Savior said, "Thomas, because thou hast seen
 me, thou hast believed: blessed are they that have not seen, and yet have
-believed." ([John
-20:29](https://www.lds.org/scriptures/nt/john/20.29?lang=eng#28).)
+believed." ([John 20:29](/scriptures/nt/john/20.29?lang=eng#28).)
 
 I have not seen, but I know. I have always known, but now I have received a
 greater assurance and pray that I will always know that this is the gospel of
@@ -222,4 +216,6 @@ mouthpiece of God on earth.
 Bless us with heavenly inspiration to know and to be prepared for His coming--
 for he will come as King of kings, to reign forever and ever. I so testify to
 you, as I pray in his holy name. Amen.
+
+## References
 

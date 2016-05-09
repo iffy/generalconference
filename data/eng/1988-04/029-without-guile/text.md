@@ -8,41 +8,41 @@ drawn to him by the power of his presence and the spirit of his message. From
 among these disciples, he chose twelve to be his special witnesses. "And when
 it was day, he called unto him his disciples: and of them he chose twelve,
 whom also he named apostles" ([Luke
-6:13](https://www.lds.org/scriptures/nt/luke/6.13?lang=eng#12)).
+6:13](/scriptures/nt/luke/6.13?lang=eng#12)).
 
 Clearly, Jesus had chosen them; he said, "Ye have not chosen me, but I have
 chosen you, and ordained you" ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15)). These
-twelve were common men from various walks of life. The Savior selected them
-because he could see far beyond their earthly appearance and look into their
-hearts, recognizing their potential.
+15:16](/scriptures/nt/john/15.16?lang=eng#15)). These twelve were common men
+from various walks of life. The Savior selected them because he could see far
+beyond their earthly appearance and look into their hearts, recognizing their
+potential.
 
 After the Savior called Peter, Andrew, and Philip, Philip introduced Jesus to
 Nathanael, whom some scholars believe to be Bartholomew, the Apostle. Philip
 said to Nathanael, "We have found him, of whom Moses in the law, and the
 prophets, did write, Jesus of Nazareth, the son of Joseph" ([John
-1:45](https://www.lds.org/scriptures/nt/john/1.45?lang=eng#44)). In this
-statement, Philip testified that Jesus is the Messiah. Nathanael wondered
-whether any good thing could come out of Nazareth, indicating the relatively
-bad reputation of Nazareth in those days. Philip asked him to come and see.
-This is the perfect answer to all who seek to know the truth about Christ.
-Impartial investigators are converted when they come and see.
+1:45](/scriptures/nt/john/1.45?lang=eng#44)). In this statement, Philip
+testified that Jesus is the Messiah. Nathanael wondered whether any good thing
+could come out of Nazareth, indicating the relatively bad reputation of
+Nazareth in those days. Philip asked him to come and see. This is the perfect
+answer to all who seek to know the truth about Christ. Impartial investigators
+are converted when they come and see.
 
 When Jesus saw Nathanael coming toward him, he exclaimed of Nathanael, "Behold
 an Israelite indeed, in whom is no guile!" ([John
-1:47](https://www.lds.org/scriptures/nt/john/1.47?lang=eng#46)). At that
-moment, Nathanael recognized that Jesus could see into his heart and asked, in
-surprise, "Whence knowest thou me?" ([John
-1:48](https://www.lds.org/scriptures/nt/john/1.48?lang=eng#47)). The Savior's
-reply demonstrated an even greater power of perception. He told Nathanael that
-before Philip had called him to come and see, Jesus saw him under a fig tree.
+1:47](/scriptures/nt/john/1.47?lang=eng#46)). At that moment, Nathanael
+recognized that Jesus could see into his heart and asked, in surprise, "Whence
+knowest thou me?" ([John 1:48](/scriptures/nt/john/1.48?lang=eng#47)). The
+Savior's reply demonstrated an even greater power of perception. He told
+Nathanael that before Philip had called him to come and see, Jesus saw him
+under a fig tree.
 
 Nathanael apparently had undergone some surpassing spiritual experience while
 praying, or meditating, or worshipping under a fig tree. The Lord, though
 absent in body, had been present with Nathanael in spirit. Nathanael then
 recognized the Savior as the Christ and said, "Rabbi, thou art the Son of God;
 thou art the King of Israel" ([John
-1:49](https://www.lds.org/scriptures/nt/john/1.49?lang=eng#48)).
+1:49](/scriptures/nt/john/1.49?lang=eng#48)).
 
 Nathanael spoke without guile. The words came from his heart. They expressed a
 deep conviction of truth. He followed the Savior.
@@ -55,24 +55,23 @@ practice of conforming his daily actions to principles of integrity.
 
 The psalmist wrote, "Blessed is the man unto whom the Lord imputeth not
 iniquity, and in whose spirit there is no guile" ([Ps.
-32:2](https://www.lds.org/scriptures/ot/ps/32.2?lang=eng#1)), and then
-admonished, "Keep thy tongue from evil, and thy lips from speaking guile"
-([Ps. 34:13](https://www.lds.org/scriptures/ot/ps/34.13?lang=eng#12)).
+32:2](/scriptures/ot/ps/32.2?lang=eng#1)), and then admonished, "Keep thy
+tongue from evil, and thy lips from speaking guile" ([Ps.
+34:13](/scriptures/ot/ps/34.13?lang=eng#12)).
 
 In the New Testament, we learn that the Savior was without guile (see [1 Pet.
-2:22](https://www.lds.org/scriptures/nt/1-pet/2.22?lang=eng#21)) and that "he
-that will love life, and see good days, let him refrain his tongue from evil,
-and his lips that they speak no guile" ([1 Pet.
-3:10](https://www.lds.org/scriptures/nt/1-pet/3.10?lang=eng#9)).
+2:22](/scriptures/nt/1-pet/2.22?lang=eng#21)) and that "he that will love
+life, and see good days, let him refrain his tongue from evil, and his lips
+that they speak no guile" ([1 Pet.
+3:10](/scriptures/nt/1-pet/3.10?lang=eng#9)).
 
 In latter-day scriptures, we read that the Lord called Edward Partridge to be
 bishop for the Church because "his heart is pure before me, for he is like
-unto Nathanael of old, in whom there is no guile" ([D&amp;C
-41:11](https://www.lds.org/scriptures/dc-testament/dc/41.11?lang=eng#10)). In
-another revelation to the Prophet Joseph Smith the Lord said, "My servant
-George Miller is without guile; he may be trusted because of the integrity of
-his heart; and for the love which he has to my testimony I, the Lord, love
-him" ([D&amp;C 124:20](https://www.lds.org/scriptures/dc-
+unto Nathanael of old, in whom there is no guile" ([D&amp;C 41:11](/scriptures
+/dc-testament/dc/41.11?lang=eng#10)). In another revelation to the Prophet
+Joseph Smith the Lord said, "My servant George Miller is without guile; he may
+be trusted because of the integrity of his heart; and for the love which he
+has to my testimony I, the Lord, love him" ([D&amp;C 124:20](/scriptures/dc-
 testament/dc/124.20?lang=eng#19)).
 
 These passages of scripture help me understand what the Lord could see in
@@ -86,13 +85,12 @@ the key to goodness and to the Christlike life.
 To be without guile is to be pure in heart--an essential virtue of those who
 would be counted among true followers of Christ. He taught in the Sermon on
 the Mount, "Blessed are the pure in heart: for they shall see God" ([Matt.
-5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7); see also [3 Ne.
-12:8](https://www.lds.org/scriptures/bofm/3-ne/12.8?lang=eng#7)). He revealed
-to the Prophet Joseph Smith that Zion is the pure in heart (see [D&amp;C
-97:21](https://www.lds.org/scriptures/dc-testament/dc/97.21?lang=eng#20)) and
-that a house is to be built in Zion in which the pure in heart shall see God
-(see [D&amp;C 97:10-16](https://www.lds.org/scriptures/dc-
-testament/dc/97.10-16?lang=eng#9)).
+5:8](/scriptures/nt/matt/5.8?lang=eng#7); see also [3 Ne.
+12:8](/scriptures/bofm/3-ne/12.8?lang=eng#7)). He revealed to the Prophet
+Joseph Smith that Zion is the pure in heart (see [D&amp;C 97:21](/scriptures
+/dc-testament/dc/97.21?lang=eng#20)) and that a house is to be built in Zion
+in which the pure in heart shall see God (see [D&amp;C 97:10-16](/scriptures
+/dc-testament/dc/97.10-16?lang=eng#9)).
 
 If we are without guile, we are honest, true, and righteous. All of these are
 attributes of Deity and are required of the Saints. Those who are honest are
@@ -116,7 +114,7 @@ children, ye shall not enter into the kingdom of heaven.
 
 "Whosoever therefore shall humble himself as this little child, the same is
 greatest in the kingdom of heaven" ([Matt.
-18:1-4](https://www.lds.org/scriptures/nt/matt/18.1-4?lang=eng#0)).
+18:1-4](/scriptures/nt/matt/18.1-4?lang=eng#0)).
 
 On another occasion, he referred again to the purity of children:
 
@@ -125,11 +123,11 @@ hands on them, and pray: and the disciples rebuked them.
 
 "But Jesus said, Suffer little children, and forbid them not, to come unto me:
 for of such is the kingdom of heaven" ([Matt.
-19:13-14](https://www.lds.org/scriptures/nt/matt/19.13-14?lang=eng#12)).
+19:13-14](/scriptures/nt/matt/19.13-14?lang=eng#12)).
 
 To the Nephites the Savior said, "Ye must repent, and be baptized in my name,
 and become as a little child, or ye can in nowise inherit the kingdom of God"
-([3 Ne. 11:38](https://www.lds.org/scriptures/bofm/3-ne/11.38?lang=eng#37)).
+([3 Ne. 11:38](/scriptures/bofm/3-ne/11.38?lang=eng#37)).
 
 "He commanded that their little children should be brought.
 
@@ -141,7 +139,7 @@ brought unto him. ...
 the Father for them. ...
 
 "And ... angels did minister unto them" ([3 Ne. 17:11-12, 21,
-24](https://www.lds.org/scriptures/bofm/3-ne/17.11-12%2C21%2C24?lang=eng#10)).
+24](/scriptures/bofm/3-ne/17.11-12,21,24?lang=eng#10)).
 
 What a great responsibility rests with parents to be certain that they do
 nothing to alter or destroy the guileless innocence of their little ones!
@@ -182,7 +180,7 @@ all uncleanness.
 
 "Even so ye also outwardly appear righteous unto men, but within ye are full
 of hypocrisy and iniquity" ([Matt.
-23:27-28](https://www.lds.org/scriptures/nt/matt/23.27-28?lang=eng#26)).
+23:27-28](/scriptures/nt/matt/23.27-28?lang=eng#26)).
 
 To the Prophet Joseph Smith, the Lord revealed: "Wo unto them that are
 deceivers and hypocrites, for, thus saith the Lord, I will bring them to
@@ -190,7 +188,7 @@ judgment. ...
 
 "[They] shall be detected and shall be cut off, ... and wo unto them who are cut
 off from my church, for the same are overcome of the world" ([D&amp;C 50:6,
-8](https://www.lds.org/scriptures/dc-testament/dc/50.6%2C8?lang=eng#5)).
+8](/scriptures/dc-testament/dc/50.6,8?lang=eng#5)).
 
 What are the Latter-day Saints to do? The answer is plain. The Saints are to
 be absolutely without guile in every aspect of their lives: in their homes and
@@ -261,10 +259,10 @@ The first is the City of Holiness, even Zion, a city in which the inhabitants
 were pure in heart and dwelt in righteousness. In fact, Zion is the name given
 by the Lord to his Saints. That city, referred to as the city of Enoch, was
 taken up into heaven (see [Moses
-7:18-21](https://www.lds.org/scriptures/pgp/moses/7.18-21?lang=eng#17)). The
-second example is the society of the Nephites that lasted for about two
-hundred years after the resurrected Lord visited and taught them. The
-following words of inspiration from the Book of Mormon describe this society:
+7:18-21](/scriptures/pgp/moses/7.18-21?lang=eng#17)). The second example is
+the society of the Nephites that lasted for about two hundred years after the
+resurrected Lord visited and taught them. The following words of inspiration
+from the Book of Mormon describe this society:
 
 "There were no contentions and disputations among them, and every man did deal
 justly one with another.
@@ -278,13 +276,12 @@ Christ, and heirs to the kingdom of God. ...
 
 "And how blessed were they! For the Lord did bless them in all their doings;
 yea, even they were blessed and prospered" ([4 Ne. 1:2,
-16-18](https://www.lds.org/scriptures/bofm/4-ne/1.2%2C16-18?lang=eng#1)).
+16-18](/scriptures/bofm/4-ne/1.2,16-18?lang=eng#1)).
 
 These are examples of the goal of perfection that we should strive for, even
 though we know that we must perfect our lives grace upon grace and line upon
-line (see [John
-1:16](https://www.lds.org/scriptures/nt/john/1.16?lang=eng#15), [2 Ne.
-28:30](https://www.lds.org/scriptures/bofm/2-ne/28.30?lang=eng#29)).
+line (see [John 1:16](/scriptures/nt/john/1.16?lang=eng#15), [2 Ne.
+28:30](/scriptures/bofm/2-ne/28.30?lang=eng#29)).
 
 I look to President Ezra Taft Benson as one whose life of service exemplifies
 the virtue of being without guile.
@@ -301,4 +298,6 @@ Jesus Christ was restored in these, the latter days. President Ezra Taft
 Benson is the Lord's prophet today. He directs this Church by revelation. I
 bear this testimony humbly in the name of our Lord and Savior, Jesus Christ,
 amen.
+
+## References
 

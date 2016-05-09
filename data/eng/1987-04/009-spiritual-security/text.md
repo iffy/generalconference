@@ -59,7 +59,7 @@ simple for too many: first, turn to the Lord. King Limhi said, "But if ye will
 turn to the Lord with full purpose of heart, and put your trust in him, and
 serve him with all diligence of mind, if ye do this, he will, according to his
 own will and pleasure, deliver you out of bondage" ([Mosiah
-7:33](https://www.lds.org/scriptures/bofm/mosiah/7.33?lang=eng#32)).
+7:33](/scriptures/bofm/mosiah/7.33?lang=eng#32)).
 
 Second, trust the Lord. As Nephi of old said:
 
@@ -69,7 +69,7 @@ his trust in the arm of flesh. Yea, cursed is he that putteth his trust in man
 or maketh flesh his arm.
 
 "Yea, I know that God will give liberally to him that asketh" ([2 Ne.
-4:34-35](https://www.lds.org/scriptures/bofm/2-ne/4.34-35?lang=eng#33)).
+4:34-35](/scriptures/bofm/2-ne/4.34-35?lang=eng#33)).
 
 To turn to the Lord and to trust him is to learn from his revelations.
 Spiritual security comes from revelation that unveils the true nature of
@@ -77,14 +77,14 @@ Deity. The kind of God in whom we believe generally determines the kind of
 people we are and will become. Without revelation about the true nature of
 Deity, the natural man will walk "in his own way, and after the image of his
 own god, whose image is in the likeness of the world" ([D&amp;C
-1:16](https://www.lds.org/scriptures/dc-testament/dc/1.16?lang=eng#15)).
+1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15)).
 
 Spiritual security is derived from revelation describing a plan of salvation
 for our benefit. "God conversed with men, and made known unto them the plan of
 redemption, which had been prepared from the foundation of the world" ([Alma
-12:30](https://www.lds.org/scriptures/bofm/alma/12.30?lang=eng#29)). The plan
-of salvation gives a direction to be followed, a sure way to strengthen
-ourselves against the pitfalls of the world.
+12:30](/scriptures/bofm/alma/12.30?lang=eng#29)). The plan of salvation gives
+a direction to be followed, a sure way to strengthen ourselves against the
+pitfalls of the world.
 
 Spiritual security is revelation that tells us about the source of the plan of
 salvation: Jesus Christ.
@@ -92,57 +92,50 @@ salvation: Jesus Christ.
 "And we talk of Christ," said Nephi, "we rejoice in Christ, we preach of
 Christ, we prophesy of Christ, and we write according to our prophecies, that
 our children may know to what source they may look for a remission of their
-sins" ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25)). The
-source is identified, clarified, and verified. We do not need to seek
-elsewhere.
+sins" ([2 Ne. 25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25)). The source is
+identified, clarified, and verified. We do not need to seek elsewhere.
 
 Spiritual security comes from revelation that relieves the anxiety of death.
 "But there is a resurrection, therefore the grave hath no victory, and the
 sting of death is swallowed up in Christ" ([Mosiah
-16:8](https://www.lds.org/scriptures/bofm/mosiah/16.8?lang=eng#7)). How
-reassuring it is to know the reality not only of the Resurrection, but also of
-eternal life.
+16:8](/scriptures/bofm/mosiah/16.8?lang=eng#7)). How reassuring it is to know
+the reality not only of the Resurrection, but also of eternal life.
 
 "And what is it that ye shall hope for? Behold I say unto you that ye shall
 have hope through the atonement of Christ and the power of his resurrection,
 to be raised unto life eternal" ([Moro.
-7:41](https://www.lds.org/scriptures/bofm/moro/7.41?lang=eng#40)).
+7:41](/scriptures/bofm/moro/7.41?lang=eng#40)).
 
 Spiritual security is enhanced as a result of revelation that promises an
 unchanging, everlasting, eternal way of life.
 
 "For do we not read that God is the same yesterday, today, and forever, and in
 him there is no variableness neither shadow of changing?" ([Morm.
-9:9](https://www.lds.org/scriptures/bofm/morm/9.9?lang=eng#8)). There is no
-need for daily heartrending revisions or reconsideration of our values.
+9:9](/scriptures/bofm/morm/9.9?lang=eng#8)). There is no need for daily
+heartrending revisions or reconsideration of our values.
 
 Spiritual security increases because revelation teaches us about our true
 identity and our relationship with God. From the beginning this was revealed
 to Adam: "Behold, thou art one in me, a son of God" ([Moses
-6:68](https://www.lds.org/scriptures/pgp/moses/6.68?lang=eng#67)). Then it was
-revealed to others, such as Moses: "Thou art my son" ([Moses
-1:4](https://www.lds.org/scriptures/pgp/moses/1.4?lang=eng#3)). "Thou art in
-the similitude of mine Only Begotten; and mine Only Begotten is and shall be
-the Savior" ([Moses
-1:6](https://www.lds.org/scriptures/pgp/moses/1.6?lang=eng#5)). In our day it
-has also been revealed to Joseph Smith, Oliver Cowdery, and to many others:
-"Behold, I say unto you, my son" ([D&amp;C 9:1](https://www.lds.org/scriptures
-/dc-testament/dc/9.1?lang=eng#0)).
+6:68](/scriptures/pgp/moses/6.68?lang=eng#67)). Then it was revealed to
+others, such as Moses: "Thou art my son" ([Moses
+1:4](/scriptures/pgp/moses/1.4?lang=eng#3)). "Thou art in the similitude of
+mine Only Begotten; and mine Only Begotten is and shall be the Savior" ([Moses
+1:6](/scriptures/pgp/moses/1.6?lang=eng#5)). In our day it has also been
+revealed to Joseph Smith, Oliver Cowdery, and to many others: "Behold, I say
+unto you, my son" ([D&amp;C 9:1](/scriptures/dc-testament/dc/9.1?lang=eng#0)).
 
 Knowing who we really are prepares us to use that knowledge to face
 temptations, to resist them, and then to act righteously. Moses, knowing he
 was a son of God, as revealed to him, told Satan, "Get thee hence, Satan;
 deceive me not; for God said unto me: Thou art after the similitude of mine
-Only Begotten" ([Moses
-1:16](https://www.lds.org/scriptures/pgp/moses/1.16?lang=eng#15)). The result
-did not wait, as the Lord called him, saying, "Blessed art thou, Moses, for I,
-the Almighty, have chosen thee, and thou shalt be made stronger than many
-waters; for they shall obey thy command as if thou wert God" ([Moses
-1:25](https://www.lds.org/scriptures/pgp/moses/1.25?lang=eng#24)). The
-spiritual security becomes evident as the Lord added, "I am with thee, even
-unto the end of thy days" ([Moses
-1:26](https://www.lds.org/scriptures/pgp/moses/1.26?lang=eng#25)).
+Only Begotten" ([Moses 1:16](/scriptures/pgp/moses/1.16?lang=eng#15)). The
+result did not wait, as the Lord called him, saying, "Blessed art thou, Moses,
+for I, the Almighty, have chosen thee, and thou shalt be made stronger than
+many waters; for they shall obey thy command as if thou wert God" ([Moses
+1:25](/scriptures/pgp/moses/1.25?lang=eng#24)). The spiritual security becomes
+evident as the Lord added, "I am with thee, even unto the end of thy days"
+([Moses 1:26](/scriptures/pgp/moses/1.26?lang=eng#25)).
 
 Spiritual security is edified by revelation that describes the roles of men
 and women. After the Fall, Heavenly Father addressed Adam and Eve personally
@@ -156,7 +149,7 @@ consider on the blessed and happy state of those that keep the commandments of
 God. For behold, they are blessed in all things, both temporal and spiritual;
 and if they hold out faithful to the end they are received into heaven, that
 thereby they may dwell with God in a state of never-ending happiness" ([Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40)).
+2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40)).
 
 Finally, spiritual security is reinforced step-by-step by revelation, and this
 security becomes power as we receive, one by one, the ordinances of salvation.
@@ -179,7 +172,7 @@ are to read it ourselves. ...
 
 "We are to liken the Book of Mormon scriptures unto us 'that it might be for
 our profit and learning' ([1 Ne.
-19:23](https://www.lds.org/scriptures/bofm/1-ne/19.23?lang=eng#22)).
+19:23](/scriptures/bofm/1-ne/19.23?lang=eng#22)).
 
 "We are to use the Book of Mormon in handling objections to the Church. ...
 
@@ -207,4 +200,6 @@ burden light.
 I testify of the power of personal revelation and of the scriptures in my
 life. I know that God lives and that President Ezra Taft Benson is a living
 prophet. In the name of Jesus Christ, amen.
+
+## References
 

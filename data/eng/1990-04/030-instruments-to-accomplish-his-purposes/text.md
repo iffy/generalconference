@@ -10,24 +10,24 @@ harvest of experience and growth and friendship and ... memory. ...
 
 "[And] what has been my 'harvest ...'?
 
-  1. -- "The harvest of work accomplished and aims achieved. ...
-  2. -- "The harvested experiences and lessons that have moulded and impressed ... my ... life. ...
-  3. -- "[And] the harvest of dear friendships, happy memories. ...
+  * "The harvest of work accomplished and aims achieved. ...
+  * "The harvested experiences and lessons that have moulded and impressed ... my ... life. ...
+  * "[And] the harvest of dear friendships, happy memories. ...
 
 Our harvested experiences and lessons have been molded with many of you:
 
-  1. -- Your prayers on our behalf have been felt. We are grateful. 
-  2. -- Your yearnings and desires shared by letter or visit have become the pleadings of our prayers. 
-  3. -- Our assignments and invitations have brought us into your homes, families, and chapels, where we became acutely aware of how much you hunger and thirst after righteousness, for we with you, while we have been there, have been filled with the Holy Ghost. (See [3 Ne. 12:6](https://www.lds.org/scriptures/bofm/3-ne/12.6?lang=eng#5).) 
-  4. -- We have watched your tender mercies and ministerings to one another. 
-  5. -- We have observed priesthood leaders and sisters and auxiliary leaders working together to strengthen families and bring them home to the Savior. 
+  * Your prayers on our behalf have been felt. We are grateful. 
+  * Your yearnings and desires shared by letter or visit have become the pleadings of our prayers. 
+  * Our assignments and invitations have brought us into your homes, families, and chapels, where we became acutely aware of how much you hunger and thirst after righteousness, for we with you, while we have been there, have been filled with the Holy Ghost. (See [3 Ne. 12:6](/scriptures/bofm/3-ne/12.6?lang=eng#5).) 
+  * We have watched your tender mercies and ministerings to one another. 
+  * We have observed priesthood leaders and sisters and auxiliary leaders working together to strengthen families and bring them home to the Savior. 
 
 The harvest of happy memories and dear friendships is perhaps the sweetest of
 all the blessings:
 
-  1. -- "[For] that same sociality which exists among us here will exist among us there, only it will be coupled with eternal glory." ([D&amp;C 130:2](https://www.lds.org/scriptures/dc-testament/dc/130.2?lang=eng#1).) 
-  2. -- I am grateful for family support; grateful to have served with capable, committed counselors, general secretary, and board members, as well as officers and board members of our sister organizations, and our devoted, competent staff, volunteers, and hostesses. I am grateful for the support team in the Church offices. 
-  3. -- It has been an honor and a privilege to serve with our dear General Authorities, noble sons of our Heavenly Father. I have learned from them as I have observed integrity, loyalty, charity, compassion, and a stalwart devotion to Deity. How blessed I feel to have been a part. 
+  * "[For] that same sociality which exists among us here will exist among us there, only it will be coupled with eternal glory." ([D&amp;C 130:2](/scriptures/dc-testament/dc/130.2?lang=eng#1).) 
+  * I am grateful for family support; grateful to have served with capable, committed counselors, general secretary, and board members, as well as officers and board members of our sister organizations, and our devoted, competent staff, volunteers, and hostesses. I am grateful for the support team in the Church offices. 
+  * It has been an honor and a privilege to serve with our dear General Authorities, noble sons of our Heavenly Father. I have learned from them as I have observed integrity, loyalty, charity, compassion, and a stalwart devotion to Deity. How blessed I feel to have been a part. 
 
 Six years ago my husband presided over the California San Diego Mission. We
 were called home a year early for me to fill this assignment. And now we
@@ -42,8 +42,7 @@ of Mosiah:
 "They fasted ... and prayed much that the Lord would grant unto them ... his
 Spirit to go with them, and abide with them, that they might be an instrument
 in the hands of God to bring ... their brethren ... to the knowledge of the
-truth." ([Alma
-17:9](https://www.lds.org/scriptures/bofm/alma/17.9?lang=eng#8).)
+truth." ([Alma 17:9](/scriptures/bofm/alma/17.9?lang=eng#8).)
 
 Recently while we were sitting in a mission presidents' training meeting, the
 challenges of our California mission flooded back into my mind. And I knew we
@@ -66,4 +65,6 @@ purposes.
 
 May we all feel his strength as we seek to serve him. In the name of Jesus
 Christ, amen.
+
+## References
 

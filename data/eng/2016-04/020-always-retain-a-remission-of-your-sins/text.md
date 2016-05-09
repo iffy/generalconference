@@ -211,3 +211,71 @@ the Savior and greater spiritual assurance as we seek to always retain a
 remission of our sins and, ultimately, to stand spotless before the Lord at
 the last day. I so witness in the sacred name of Jesus Christ, amen.
 
+## References
+
+  1. See [Mosiah 4:11](https://www.lds.org/scriptures/bofm/mosiah/4.11?lang=eng#10).
+
+  2. [Mosiah 4:12](https://www.lds.org/scriptures/bofm/mosiah/4.12?lang=eng#11); emphasis added.
+
+  3. See D. Todd Christofferson, "[Why Marriage, Why Family](https://www.lds.org/general-conference/2015/04/why-marriage-why-family?lang=eng)," _Ensign_ or _Liahona,_ May 2015, 50-53.
+
+  4. See[ Alma 5:7](https://www.lds.org/scriptures/bofm/alma/5.7?lang=eng#6).
+
+  5. [John 3:3](https://www.lds.org/scriptures/nt/john/3.3?lang=eng#2); [Mosiah 27:25](https://www.lds.org/scriptures/bofm/mosiah/27.25?lang=eng#24).
+
+  6. See[ 2 Corinthians 5:17](https://www.lds.org/scriptures/nt/2-cor/5.17?lang=eng#16).
+
+  7. [2 Nephi 2:8](https://www.lds.org/scriptures/bofm/2-ne/2.8?lang=eng#7).
+
+  8. [3 Nephi 27:20](https://www.lds.org/scriptures/bofm/3-ne/27.20?lang=eng#19).
+
+  9. _Teachings of Presidents of the Church: Joseph Smith_ (2007), 95.
+
+  10. See [John 14:16-27](https://www.lds.org/scriptures/nt/john/14.16-27?lang=eng#15); [Moroni 8:26](https://www.lds.org/scriptures/bofm/moro/8.26?lang=eng#25).
+
+  11. See [John 14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25); [Doctrine and Covenants 50:14](https://www.lds.org/scriptures/dc-testament/dc/50.14?lang=eng#13).
+
+  12. See [2 Nephi 32:5](https://www.lds.org/scriptures/bofm/2-ne/32.5?lang=eng#4).
+
+  13. See [3 Nephi 27:19-21](https://www.lds.org/scriptures/bofm/3-ne/27.19-21?lang=eng#18).
+
+  14. See Guide to the Scriptures, "[Ordinances](https://www.lds.org/scriptures/gs/ordinances?lang=eng)," scriptures.lds.org.
+
+  15. [Doctrine and Covenants 84:19-21](https://www.lds.org/scriptures/dc-testament/dc/84.19-21?lang=eng#18).
+
+  16. Bible Dictionary, "[Baptism](https://www.lds.org/scriptures/bd/baptism?lang=eng)."
+
+  17. _Teachings: Joseph Smith,_ 91.
+
+  18. [Doctrine and Covenants 20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76).
+
+  19. Bible Dictionary, "[Baptism](https://www.lds.org/scriptures/bd/baptism?lang=eng)."
+
+  20. [John 3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4).
+
+  21. _Teachings: Joseph Smith,_ 95-96.
+
+  22. _Teachings: Joseph Smith,_ 95.
+
+  23. _Teachings: Joseph Smith,_ 90.
+
+  24. [2 Nephi 31:17](https://www.lds.org/scriptures/bofm/2-ne/31.17?lang=eng#16); emphasis added.
+
+  25. [3 Nephi 27:20](https://www.lds.org/scriptures/bofm/3-ne/27.20?lang=eng#19); emphasis added.
+
+  26. [1 Nephi 10:21](https://www.lds.org/scriptures/bofm/1-ne/10.21?lang=eng#20).
+
+  27. See [Doctrine and Covenants 59:9-12](https://www.lds.org/scriptures/dc-testament/dc/59.9-12?lang=eng#8).
+
+  28. [Doctrine and Covenants 20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76); see also [verse 79](https://www.lds.org/scriptures/dc-testament/dc/20.79?lang=eng#78).
+
+  29. [3 Nephi 27:20](https://www.lds.org/scriptures/bofm/3-ne/27.20?lang=eng#19).
+
+  30. See _Teachings of Gordon B. Hinckley _(1997), 561; _The Teachings of Spencer W. Kimball, _ed. Edward L. Kimball (1982), 220; N. Eldon Tanner, in Conference Report, Oct. 1966, 98.
+
+  31. [John 14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25).
+
+  32. See [Helaman 3:28-30](https://www.lds.org/scriptures/bofm/hel/3.28-30?lang=eng#27).
+
+  33. [Mormon 9:6](https://www.lds.org/scriptures/bofm/morm/9.6?lang=eng#5).
+

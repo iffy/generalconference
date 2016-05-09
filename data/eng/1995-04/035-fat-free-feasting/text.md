@@ -10,8 +10,7 @@ the perfect herbs, when it's cooked just right, when it's served like a work
 of sculpture, I'm in heaven. I can gain weight just reading a menu.
 
 And did you know that the Lord doesn't expect us to diet? Trust me! Turn to 2
-Nephi 9:51 [[2 Ne.
-9:51](https://www.lds.org/scriptures/bofm/2-ne/9.51?lang=eng#50)]. Now look at
+Nephi 9:51 [[2 Ne. 9:51](/scriptures/bofm/2-ne/9.51?lang=eng#50)]. Now look at
 the very last line. It says, "Let your soul delight in fatness." But feast on
 what? Chocolate?
 
@@ -35,9 +34,9 @@ I wasn't very good at studying the scriptures as a young woman. I wish I would
 have! Not until I was living in Seattle, Washington, did a friend and I
 realize we were hungering to know what spiritual women in our ward knew. We
 wanted righteous children, "taught by their mothers" to be believing ([Alma
-56:47](https://www.lds.org/scriptures/bofm/alma/56.47?lang=eng#46)). And like
-a good dinner, the gospel becomes more exciting sharing it with a friend. I
-had Louise Nelson. We feasted together.
+56:47](/scriptures/bofm/alma/56.47?lang=eng#46)). And like a good dinner, the
+gospel becomes more exciting sharing it with a friend. I had Louise Nelson. We
+feasted together.
 
 I remember sitting on an old worn couch reading scripture stories to my sons.
 As we studied, a power began to permeate our lives. I learned that Ruth left
@@ -61,8 +60,10 @@ It is Heavenly Father's promise to us. It is eating at the Lord's table.
 
 Beloved sisters, I invite you to experiment upon the word, to feast. As Jesus
 said: "Search the scriptures; ... they are they which testify of me" ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38)).
+5:39](/scriptures/nt/john/5.39?lang=eng#38)).
 
 I know that he lives, and that he loves us, and that his hand is outstretched
 still. May I serve you and him, I pray in the name of Jesus Christ, amen.
+
+## References
 

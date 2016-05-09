@@ -28,10 +28,9 @@ church._
 
 You, as an individual, are the Church. The Lord made a covenant with his
 faithful sons that they would become "_the church_ and kingdom, and the elect
-of God" ([D&amp;C 84:34](https://www.lds.org/scriptures/dc-
-testament/dc/84.34?lang=eng#33); italics added). You, then, through your
-faithfulness as a priesthood bearer, become the Church. The Church will be
-governed only as you govern yourself.
+of God" ([D&amp;C 84:34](/scriptures/dc-testament/dc/84.34?lang=eng#33);
+italics added). You, then, through your faithfulness as a priesthood bearer,
+become the Church. The Church will be governed only as you govern yourself.
 
 The most basic, fundamental principle of truth, that upon which the entire
 plan of God is founded, is free agency. As an individual you have the right to
@@ -69,7 +68,7 @@ unbelieving is nothing pure; but even their mind and conscience is defiled.
 
 "They profess that they know God; but in works they deny him, being
 abominable, and disobedient, and unto every good work reprobate" ([Titus
-1:15-16](https://www.lds.org/scriptures/nt/titus/1.15-16?lang=eng#14)).
+1:15-16](/scriptures/nt/titus/1.15-16?lang=eng#14)).
 
 Holding the priesthood means being commissioned by the Lord to act as he would
 act if he were here personally. Is your television habit compatible with that
@@ -94,7 +93,7 @@ their mind and conscience is defiled.
 
 "They profess that they know God; but in works they deny him, being
 abominable, and disobedient, and unto every good work reprobate" ([Titus
-1:15-16](https://www.lds.org/scriptures/nt/titus/1.15-16?lang=eng#14)).
+1:15-16](/scriptures/nt/titus/1.15-16?lang=eng#14)).
 
 Each of you is a member of the most basic unit of the Church, the family. Some
 of you are not yet fathers but are in preparation to become so. As a father
@@ -141,8 +140,7 @@ unfeigned;
 hypocrisy, and without guile--
 
 "Reproving betimes with sharpness when moved upon by the Holy Ghost" ([D&amp;C
-121:41-43](https://www.lds.org/scriptures/dc-
-testament/dc/121.41-43?lang=eng#40)).
+121:41-43](/scriptures/dc-testament/dc/121.41-43?lang=eng#40)).
 
 You teach fasting and prayer. You teach the doctrine contained in the holy
 scriptures and encourage individual private study of them on a regular basis.
@@ -172,8 +170,7 @@ and exhort them to pray vocally and in secret and attend to all family duties.
 Be with and strengthen them, and see that there is no iniquity in the Church,
 neither hardness with each other, neither lying, backbiting, nor evil
 speaking. And also see that all the members do their duty (See [D&amp;C
-20:50-51, 53-55](https://www.lds.org/scriptures/dc-
-testament/dc/20.50-51%2C53-55?lang=eng#49)).
+20:50-51, 53-55](/scriptures/dc-testament/dc/20.50-51,53-55?lang=eng#49)).
 
 As the governing ones, make no mistake about it, this decree was made to the
 priesthood. We love and need the auxiliaries. They are staffed by great,
@@ -197,4 +194,6 @@ are and what we should become.
 That we may understand and fulfill our roles as the governing ones, in
 lockstep with our living prophet, who is the mouthpiece of God, I plead, in
 the name of Jesus Christ, the Master, amen.
+
+## References
 

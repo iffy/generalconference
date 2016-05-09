@@ -40,10 +40,10 @@ far-off New Guinea.
 We felt the spirit of missionary work as we literally watched the prophecies
 unfold that the gospel of Jesus Christ should be taken to every nation,
 kindred, tongue, and people. (See [Mosiah
-15:28](https://www.lds.org/scriptures/bofm/mosiah/15.28?lang=eng#27).) I am
-grateful for the spirit of the gospel, the spirit of missionary work, and the
-spiritual leadership of great latter-day leaders. I support and sustain them
-with all my heart.
+15:28](/scriptures/bofm/mosiah/15.28?lang=eng#27).) I am grateful for the
+spirit of the gospel, the spirit of missionary work, and the spiritual
+leadership of great latter-day leaders. I support and sustain them with all my
+heart.
 
 I have observed from many years of activity in the Church that there are some
 underlying principles of leadership that cause men to become great. There is a
@@ -52,7 +52,7 @@ reach the pinnacle of performance. George Washington, father of our country,
 was on his knees at Valley Forge, seeking the spirit and the direction of God.
 Abraham Lincoln, as he stood on the platform of the train as it left
 Springfield, Illinois, for Washington, D.C., where he was to be President of
-the United States, said this: "Without the assistance of that Divine Being ... ,
+the United States, said this: "Without the assistance of that Divine Being ...,
 I cannot succeed. With that assistance, I cannot fail" (Ida M. Tarbell, ed.,
 _Selections from the Letters, Speeches, and State Papers of Abraham Lincoln,_
 Boston: Ginn and Co., 1911, p. 63.)
@@ -65,7 +65,7 @@ the name of the Lord of hosts, the God of the armies of Israel, whom thou hast
 defied.
 
 "This day will the Lord deliver thee into mine hand." ([1 Sam.
-17:45-46](https://www.lds.org/scriptures/ot/1-sam/17.45-46?lang=eng#44).)
+17:45-46](/scriptures/ot/1-sam/17.45-46?lang=eng#44).)
 
 What source of power did Moses use as he stretched his arm toward the Red Sea
 and caused the waters to roll back and his people to cross on dry land?
@@ -98,13 +98,12 @@ power used by David and Moses--but there is a price to pay. Let me quote:
 aspire to the honors of men, that they do not learn this one lesson--
 
 "That the rights of the priesthood are inseparably connected with the powers
-of heaven." ([D&amp;C 121:34-36](https://www.lds.org/scriptures/dc-
+of heaven." ([D&amp;C 121:34-36](/scriptures/dc-
 testament/dc/121.34-36?lang=eng#33).) Now, brothers and sisters, what were the
 powers of Heaven? They caused the lame to walk, the blind to see, the dead to
 rise. And through these same powers the earth was organized. But here is the
 key--the powers of heaven cannot be controlled nor handled only upon the
-principles of righteousness. (See [D&amp;C
-121:41-42](https://www.lds.org/scriptures/dc-
+principles of righteousness. (See [D&amp;C 121:41-42](/scriptures/dc-
 testament/dc/121.41-42?lang=eng#40).) The key, then, to the future and to the
 use of these spiritual blessings is personal righteousness.
 
@@ -123,4 +122,6 @@ into the souls of men."
 I bear witness he has planted those seeds, and I pledge all that I have for
 the building of the kingdom of God in this work in these latter days, and I
 confirm this witness and this pledge in the name of Jesus Christ, amen.
+
+## References
 

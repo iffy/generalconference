@@ -44,21 +44,19 @@ the scriptures?
 
 Jesus said, "Search the scriptures; for in them ye think ye have eternal life:
 and they are they which testify of me." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).) We have had
-testimony here in this conference of how they did testify of him, even to the
-minutest detail of casting lots for his clothing at the time of his
-crucifixion.
+5:39](/scriptures/nt/john/5.39?lang=eng#38).) We have had testimony here in
+this conference of how they did testify of him, even to the minutest detail of
+casting lots for his clothing at the time of his crucifixion.
 
 Following his resurrection, as he walked along the way by two of his disciples
 as they were on their way to Emmaus, we are told that "their eyes were holden
 that they should not know him" ([Luke
-24:16](https://www.lds.org/scriptures/nt/luke/24.16?lang=eng#15)), and when he
-heard what they had to say about him and his ministry and his resurrection, he
-realized that they didn't understand what he had been trying to teach them.
+24:16](/scriptures/nt/luke/24.16?lang=eng#15)), and when he heard what they
+had to say about him and his ministry and his resurrection, he realized that
+they didn't understand what he had been trying to teach them.
 
 And he said: "... O fools, and slow of heart to believe all that the prophets
-have spoken." ([Luke
-24:25](https://www.lds.org/scriptures/nt/luke/24.25?lang=eng#24).) Then,
+have spoken." ([Luke 24:25](/scriptures/nt/luke/24.25?lang=eng#24).) Then,
 commencing with Moses and the prophets, he showed them how that in all things
 the prophets had testified of him. Then Peter tells us that he opened their
 understandings (that is, the understandings of his disciples with whom he was
@@ -78,21 +76,21 @@ interpretation.
 
 "For the prophecy came not in old time by the will of man: but holy men of God
 spake as they were moved by the Holy Ghost." ([2 Pet.
-1:19-21](https://www.lds.org/scriptures/nt/2-pet/1.19-21?lang=eng#18).)
+1:19-21](/scriptures/nt/2-pet/1.19-21?lang=eng#18).)
 
 That being true, we have a more sure word of prophecy that makes the Bible to
 me like a blueprint where the Lord has outlined everything from the war in
 heaven up till the final winding-up scenes when we will have a new heaven and
 a new earth. I think that is what Isaiah meant when he said that the Lord has
 declared the end from the beginning. (See [Isa.
-46:10](https://www.lds.org/scriptures/ot/isa/46.10?lang=eng#9).)
+46:10](/scriptures/ot/isa/46.10?lang=eng#9).)
 
 Peter must have also had in his mind the glorious experience that he had just
 previously had with the other apostles when the Savior ascended into heaven
 and two men in white apparel stood and said: "... Ye men of Galilee, why stand
 ye gazing up into heaven? this same Jesus, which is taken up from you into
 heaven, shall so come in like manner as ye have seen him go into heaven."
-([Acts 1:11](https://www.lds.org/scriptures/nt/acts/1.11?lang=eng#10).)
+([Acts 1:11](/scriptures/nt/acts/1.11?lang=eng#10).)
 
 Then I have this thought that I would like to say a few words about, and that
 is, not only should we prepare our own lives to be ready when the Savior
@@ -110,8 +108,7 @@ when the times of refreshing shall come from the presence of the Lord;
 
 "Whom the heaven must receive until the times of restitution of all things,
 which God hath spoken by the mouth of all his holy prophets since the world
-began." ([Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18).)
+began." ([Acts 3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18).)
 
 I don't know where you can go anywhere in this world, outside of this Church,
 and find a declaration of a restitution of all things and not just a
@@ -133,7 +130,7 @@ the Lord, whom ye seek, shall suddenly come to his temple. ...
 
 "But who may abide the day of his coming? and who shall stand when he
 appeareth? for he is like a refiner's fire, and like fullers' soap." ([Mal.
-3:1-2](https://www.lds.org/scriptures/ot/mal/3.1-2?lang=eng#0).)
+3:1-2](/scriptures/ot/mal/3.1-2?lang=eng#0).)
 
 Now I don't think that was referring to his first coming. He didn't come
 swiftly to his temple, and all men were able to abide the day of his first
@@ -141,7 +138,7 @@ coming; and he didn't come cleansing and purifying as refiner's fire and
 fullers' soap, but we are told that when he comes in the latter days that the
 wicked shall cry out to the mountains, and rocks "fall on us, and hide us from
 the face of him that sitteth on the throne, and from the wrath of the Lamb."
-([Rev. 6:16](https://www.lds.org/scriptures/nt/rev/6.16?lang=eng#15).)
+([Rev. 6:16](/scriptures/nt/rev/6.16?lang=eng#15).)
 
 Then I say to you, and to all the world, where is that messenger that the
 Lord, speaking through Malachi, said he would send to prepare the way for his
@@ -150,36 +147,36 @@ that messenger was none other than the Prophet Joseph Smith. He didn't choose
 himself. He went out into the woods after reading the words of James, "If any
 of you lack wisdom, let him ask of God, that giveth to all men liberally, and
 upbraideth not; and it shall be given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) He didn't know
-which church to join, and when he prayed, the heavens were opened unto him.
+1:5](/scriptures/nt/james/1.5?lang=eng#4).) He didn't know which church to
+join, and when he prayed, the heavens were opened unto him.
 
 President Kimball has outlined in one of his talks in this conference how the
 Lord communed with the prophets of old. God isn't dead. He reigns in the
 heavens above and in the earth beneath. This is his work and his glory. This
 is the dispensation when, as Paul said, "... he might gather together in one all
 things in Christ, both which are in heaven, and which are on earth. ..." ([Eph.
-1:10](https://www.lds.org/scriptures/nt/eph/1.10?lang=eng#9).) In other words,
-it is the time when he shall finish his work upon this earth preparatory to
-his second coming. And so if he was to send a messenger to prepare the way for
-his coming, where in all the world can you find that messenger?
+1:10](/scriptures/nt/eph/1.10?lang=eng#9).) In other words, it is the time
+when he shall finish his work upon this earth preparatory to his second
+coming. And so if he was to send a messenger to prepare the way for his
+coming, where in all the world can you find that messenger?
 
 I remind you that messengers sent of God are never self-sent. Paul said: "...
 faith cometh by hearing, and hearing by the word of God." ([Rom.
-10:17](https://www.lds.org/scriptures/nt/rom/10.17?lang=eng#16).)
+10:17](/scriptures/nt/rom/10.17?lang=eng#16).)
 
 "... and how shall they believe in him of whom they have not heard? and how
 shall they hear without a preacher?
 
 "And how shall they preach, except they be sent? ..." ([Rom.
-10:14-15](https://www.lds.org/scriptures/nt/rom/10.14-15?lang=eng#13).)
+10:14-15](/scriptures/nt/rom/10.14-15?lang=eng#13).)
 
 And so the call of Joseph Smith as the Lord's promised messenger was the
 natural first step the Lord would take to prepare the way for his second
 coming. A messenger called by God can be none other than a prophet. That is
 what Amos said: "Surely the Lord God will do nothing, but he revealeth his
 secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).) And so when he
-called this messenger, he would be a prophet.
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).) And so when he called this
+messenger, he would be a prophet.
 
 We often sing the hymn:
 
@@ -201,22 +198,21 @@ marvelous truth. This helps us to understand the words of Isaiah when he said:
 "Wherefore the Lord said, Forasmuch as this people draw near me with their
 mouth, and with their lips do honour me, but have removed their heart far from
 me, and their fear toward me is taught by the precept of men." ([Isa.
-29:13](https://www.lds.org/scriptures/ot/isa/29.13?lang=eng#12).) And where do
-you find those precepts of men? In all these thousands of churches all over
-this world.
+29:13](/scriptures/ot/isa/29.13?lang=eng#12).) And where do you find those
+precepts of men? In all these thousands of churches all over this world.
 
 "Therefore, behold, I will proceed to do a marvellous work among this people,
 even a marvellous work and a wonder. ..." ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13).) And anything
-that is marvelous and wonderful in the eyes of the Lord must be something that
-every lover of truth would like to know about and like to clasp to his bosom.
-Then he added that it would cause that "the wisdom of their wise men shall
-perish, and the understanding of their prudent men shall be hid." ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13).) That is what
-we have. I have talked to ministers for hours and only received one question
-from them, because I was explaining things to them out of God's holy book, the
-Bible, that they had never understood before in their lives. I tell you,
-brothers and sisters, we have that marvelous work and a wonder!
+29:14](/scriptures/ot/isa/29.14?lang=eng#13).) And anything that is marvelous
+and wonderful in the eyes of the Lord must be something that every lover of
+truth would like to know about and like to clasp to his bosom. Then he added
+that it would cause that "the wisdom of their wise men shall perish, and the
+understanding of their prudent men shall be hid." ([Isa.
+29:14](/scriptures/ot/isa/29.14?lang=eng#13).) That is what we have. I have
+talked to ministers for hours and only received one question from them,
+because I was explaining things to them out of God's holy book, the Bible,
+that they had never understood before in their lives. I tell you, brothers and
+sisters, we have that marvelous work and a wonder!
 
 You would think that if the Lord raised up a prophet and a messenger to
 prepare the way for his coming, the first thing he would want that messenger
@@ -228,22 +224,20 @@ and without passions.
 Moses knew that such a condition would prevail, for when he led the children
 of Israel into the promised land, he told them that "there ye shall serve
 gods, the work of men's hands, wood and stone, which neither see, nor hear,
-nor eat, nor smell." ([Deut.
-4:28](https://www.lds.org/scriptures/ot/deut/4.28?lang=eng#27).) Just think
-how literally the very words of Moses spoken over 3,000 years ago are
-fulfilled in the doctrine that was proclaimed in all the Christian churches
-all over this world at the time that Joseph Smith had his marvelous vision.
-But Moses didn't leave it at that. He said:
+nor eat, nor smell." ([Deut. 4:28](/scriptures/ot/deut/4.28?lang=eng#27).)
+Just think how literally the very words of Moses spoken over 3,000 years ago
+are fulfilled in the doctrine that was proclaimed in all the Christian
+churches all over this world at the time that Joseph Smith had his marvelous
+vision. But Moses didn't leave it at that. He said:
 
 "But if from thence thou shalt seek the Lord thy God, thou shalt find him, if
 thou seek him with all thy heart and with all thy soul.
 
 "When thou art in tribulation, and all these things are come upon thee, even
 in the latter days, if thou turn to the Lord thy God, and shalt be obedient
-unto his voice." ([Deut.
-4:29-30](https://www.lds.org/scriptures/ot/deut/4.29-30?lang=eng#28).) And we
-live in the latter days. Thank God we have found him through the raising up of
-this prophet.
+unto his voice." ([Deut. 4:29-30](/scriptures/ot/deut/4.29-30?lang=eng#28).)
+And we live in the latter days. Thank God we have found him through the
+raising up of this prophet.
 
 When the Father and his Son Jesus Christ revealed themselves unto him so that
 he understood what the Godhead really was, the next question that Joseph had
@@ -286,26 +280,26 @@ Zion:
 
 "And I will give you pastors according to mine heart, which shall feed you
 with knowledge and understanding." ([Jer.
-3:14-15](https://www.lds.org/scriptures/ot/jer/3.14-15?lang=eng#13).) Where
-could you go in all the world and listen to pastors after His own heart like
-you have heard here in this conference? They are called of God and ordained by
-God. They are the pastors that he spoke of.
+3:14-15](/scriptures/ot/jer/3.14-15?lang=eng#13).) Where could you go in all
+the world and listen to pastors after His own heart like you have heard here
+in this conference? They are called of God and ordained by God. They are the
+pastors that he spoke of.
 
 Through Jeremiah the Lord said:
 
 "Behold, I will send for many fishers, saith the Lord, and they shall fish
 them; and after will I send for many hunters, and they shall hunt them from
 every mountain, and from every hill, and out of the holes of the rocks."
-([Jer. 16:16](https://www.lds.org/scriptures/ot/jer/16.16?lang=eng#15).) That
-is what we have been doing. He saw the day when "it shall no more be said, The
-Lord liveth, that brought up the children of Israel out of the land of Egypt;
+([Jer. 16:16](/scriptures/ot/jer/16.16?lang=eng#15).) That is what we have
+been doing. He saw the day when "it shall no more be said, The Lord liveth,
+that brought up the children of Israel out of the land of Egypt;
 
 "But, The Lord liveth, that brought up the children of Israel from the land of
 the north, and from all the lands whither he had driven them ..." ([Jer.
-16:14-15](https://www.lds.org/scriptures/ot/jer/16.14-15?lang=eng#13)), and,
-as he said, "... one of a city, and two of a family. ..." ([Jer.
-3:14](https://www.lds.org/scriptures/ot/jer/3.14?lang=eng#13).) That accounts
-for many of you being at this great conference that is being held here today.
+16:14-15](/scriptures/ot/jer/16.14-15?lang=eng#13)), and, as he said, "... one
+of a city, and two of a family. ..." ([Jer.
+3:14](/scriptures/ot/jer/3.14?lang=eng#13).) That accounts for many of you
+being at this great conference that is being held here today.
 
 God bless you, brothers and sisters. I don't know why we should hesitate to
 raise our voices in testimony. To me it is the marvelous work and a wonder
@@ -313,4 +307,6 @@ spoken of, it is the greatest movement in all this world. When everything else
 passes away like the dream of a night's vision, this church, this kingdom,
 will go on to its decreed destiny, and that is my witness and testimony to you
 in the name of the Lord Jesus Christ. Amen.
+
+## References
 

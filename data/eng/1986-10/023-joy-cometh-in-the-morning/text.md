@@ -1,11 +1,11 @@
 # “Joy Cometh in the Morning”
 
 The title of my message is taken from the thirtieth Psalm, verse 5 [[Ps.
-30:5](https://www.lds.org/scriptures/ot/ps/30.5?lang=eng#4)]: "Joy cometh in
-the morning." As I discussed this scripture with members of our family, they
-recalled that "men are, that they might have joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)), but they
-had not pondered the intriguing concept that "joy cometh in the morning."
+30:5](/scriptures/ot/ps/30.5?lang=eng#4)]: "Joy cometh in the morning." As I
+discussed this scripture with members of our family, they recalled that "men
+are, that they might have joy" ([2 Ne.
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)), but they had not pondered the
+intriguing concept that "joy cometh in the morning."
 
 One of our family said, "News reports appear almost daily concerning people
 who have problems with drugs, drinking, and emotional distress. How can they,
@@ -50,7 +50,7 @@ disappointed."
 
 She is special. With her, it is easy to obey the scriptural injunction to
 "live joyfully with the wife whom thou lovest all the days of [thy] life"
-([Eccl. 9:9](https://www.lds.org/scriptures/ot/eccl/9.9?lang=eng#8)).
+([Eccl. 9:9](/scriptures/ot/eccl/9.9?lang=eng#8)).
 
 Not all of us are blessed with such wonderful eternal companions--not yet
 anyway. Many of us who are married cannot be together as much as we would
@@ -71,21 +71,19 @@ satisfaction. Years of preparation are worth it.
 
 And joy is derived in Church service. Alma so expressed this thought: "That
 perhaps I may be an instrument in the hands of God to bring some soul to
-repentance ... is my joy" ([Alma
-29:9](https://www.lds.org/scriptures/bofm/alma/29.9?lang=eng#8)).
+repentance ... is my joy" ([Alma 29:9](/scriptures/bofm/alma/29.9?lang=eng#8)).
 
 Through service in the temples, the concept of courtesy to companions can be
 nobly extended to those who have passed beyond the veil. The gospel brings
 glad tidings for the dead and a voice of gladness for the living and the dead
---for all, glad tidings of great joy (see [D&amp;C
-128:19](https://www.lds.org/scriptures/dc-testament/dc/128.19?lang=eng#18)).
+--for all, glad tidings of great joy (see [D&amp;C 128:19](/scriptures/dc-
+testament/dc/128.19?lang=eng#18)).
 
 Even when death's veil separates us from parents who gave so much that we
 might be, their righteous influence continues with us. And as they may watch
 from windows of heaven, their mornings will be brighter if they can truly say,
 as did the Apostle, "I have no greater joy than to hear that my children walk
-in truth" ([3 Jn.
-1:4](https://www.lds.org/scriptures/nt/3-jn/1.4?lang=eng#3)).
+in truth" ([3 Jn. 1:4](/scriptures/nt/3-jn/1.4?lang=eng#3)).
 
 Above all, courtesy to companions cannot be defiled by disobedience to the law
 of chastity. That sin is joy's deadly poison. The first morning's glance in
@@ -97,10 +95,9 @@ evening! Virtue includes courtesy to companions all day long.
 
 The next prerequisite to joy is to feel good about yourself. The second of our
 Lord's two great commandments carries a double charge: "Thou shalt love thy
-neighbour as thyself" ([Matt.
-22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38)). Therefore,
-love of companion is governed, in part, by esteem of self, and so is joy in
-the morning.
+neighbour as thyself" ([Matt. 22:39](/scriptures/nt/matt/22.39?lang=eng#38)).
+Therefore, love of companion is governed, in part, by esteem of self, and so
+is joy in the morning.
 
 Each individual should understand the nature of his or her own soul. Profound
 insight is provided by this revelation:
@@ -109,8 +106,7 @@ insight is provided by this revelation:
 inseparably connected, receive a fulness of joy;
 
 "And when separated, man cannot receive a fulness of joy" ([D&amp;C
-93:33-34](https://www.lds.org/scriptures/dc-
-testament/dc/93.33-34?lang=eng#32)).
+93:33-34](/scriptures/dc-testament/dc/93.33-34?lang=eng#32)).
 
 Therefore, spiritual _and_ physical elements each must be nurtured if we are
 to earn proper self-esteem.
@@ -118,14 +114,14 @@ to earn proper self-esteem.
 _Spiritual_ self-esteem begins with the realization that each new morning is a
 gift from God. Even the air we breathe is a loving loan from him. He preserves
 us from day to day and supports us from one moment to another (see [Mosiah
-2:21](https://www.lds.org/scriptures/bofm/mosiah/2.21?lang=eng#20)).
+2:21](/scriptures/bofm/mosiah/2.21?lang=eng#20)).
 
 Therefore, our first noble deed of the morning should be a humble prayer of
 gratitude. Scripture so counsels: "Pray unto God, and he will be favourable
 unto [you]: and [you] shall see his face with joy" ([Job
-33:26](https://www.lds.org/scriptures/ot/job/33.26?lang=eng#25); see also
-[Alma 34:21](https://www.lds.org/scriptures/bofm/alma/34.21?lang=eng#20);
-[Alma 37:37](https://www.lds.org/scriptures/bofm/alma/37.37?lang=eng#36)).
+33:26](/scriptures/ot/job/33.26?lang=eng#25); see also [Alma
+34:21](/scriptures/bofm/alma/34.21?lang=eng#20); [Alma
+37:37](/scriptures/bofm/alma/37.37?lang=eng#36)).
 
 I did not fully appreciate the significance of prayerful greetings until I
 became a father myself. I am so grateful that our children never gave their
@@ -134,19 +130,18 @@ appreciate our prayers, morning and night. But I can imagine the pangs of his
 sorrow because of silence from any of his children. To me, such ingratitude
 seems comparable to sullen goldfish oblivious to kind providers who sprinkle
 food in their bowl. Indeed, those who pray can "worship God with exceedingly
-great joy" ([Alma
-45:1](https://www.lds.org/scriptures/bofm/alma/45.1?lang=eng#0)).
+great joy" ([Alma 45:1](/scriptures/bofm/alma/45.1?lang=eng#0)).
 
 I learned long ago that a period of uninterrupted scriptural study in the
 morning brings enduring enrichment. I feel as did Jeremiah: "Thy word was unto
 me the joy and rejoicing of mine heart" ([Jer.
-15:16](https://www.lds.org/scriptures/ot/jer/15.16?lang=eng#15)). Sacred
-scriptures have been repeatedly described as "glad tidings of great joy"
-([Hel. 16:14](https://www.lds.org/scriptures/bofm/hel/16.14?lang=eng#13);
-[Mosiah 3:3](https://www.lds.org/scriptures/bofm/mosiah/3.3?lang=eng#2); [Alma
-13:22](https://www.lds.org/scriptures/bofm/alma/13.22?lang=eng#21); see also
-[Luke 2:10](https://www.lds.org/scriptures/nt/luke/2.10?lang=eng#9)). As we
-learn and abide their teachings, that joy becomes part of our lives.
+15:16](/scriptures/ot/jer/15.16?lang=eng#15)). Sacred scriptures have been
+repeatedly described as "glad tidings of great joy" ([Hel.
+16:14](/scriptures/bofm/hel/16.14?lang=eng#13); [Mosiah
+3:3](/scriptures/bofm/mosiah/3.3?lang=eng#2); [Alma
+13:22](/scriptures/bofm/alma/13.22?lang=eng#21); see also [Luke
+2:10](/scriptures/nt/luke/2.10?lang=eng#9)). As we learn and abide their
+teachings, that joy becomes part of our lives.
 
 Joy cometh in the morning when personal talents are developed. Each of us is
 blessed with different potential. I don't think I could get up early enough to
@@ -158,7 +153,7 @@ children improving their talents.
 Even in Old Testament days, "David spake to the chief of the Levites to
 appoint their brethren to be the singers with instruments of musick, ...
 sounding, by lifting up the voice with joy" ([1 Chr.
-15:16](https://www.lds.org/scriptures/ot/1-chr/15.16?lang=eng#15)).
+15:16](/scriptures/ot/1-chr/15.16?lang=eng#15)).
 
 Confidence to begin each morning ready to meet the challenges of the day comes
 from spiritual self-esteem.
@@ -171,7 +166,7 @@ dwelleth in you?
 
 "If any man defile the temple of God, him shall God destroy; for the temple of
 God is holy, which temple ye are" ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15)).
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15)).
 
 Physical conditioning from regular exercise is important. And we can do so
 much more to keep our bodies strong.
@@ -213,16 +208,16 @@ section of the Doctrine and Covenants:
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them" ([D&amp;C
-89:21](https://www.lds.org/scriptures/dc-testament/dc/89.21?lang=eng#20)).
+89:21](/scriptures/dc-testament/dc/89.21?lang=eng#20)).
 
 This reference to the first Passover reminds us that, _in faith,_ ancient
 Israel was obedient to the commandment to take blood and "strike it on the two
 side posts and on the upper door post of the houses" ([Ex.
-12:7](https://www.lds.org/scriptures/ot/ex/12.7?lang=eng#6)).
+12:7](/scriptures/ot/ex/12.7?lang=eng#6)).
 
 "And the blood shall be to you for a token upon the houses where ye are: and
 when I see the blood, I will pass over you, and the plague shall not ... destroy
-you" ([Ex. 12:13](https://www.lds.org/scriptures/ot/ex/12.13?lang=eng#12)).
+you" ([Ex. 12:13](/scriptures/ot/ex/12.13?lang=eng#12)).
 
 So, _in faith,_ modern Israel is commanded to obey the Word of Wisdom. It
 becomes our token of a covenant with the Lord--a spiritual separator of
@@ -239,15 +234,15 @@ The crowning attribute that leads to joy is love of God. Even that first look
 in the mirror can be more enjoyable knowing we are created in his image. Each
 of us can say, as did the Apostle, "Thou hast made known to me the ways of
 life; thou shalt make me full of joy with thy countenance" ([Acts
-2:28](https://www.lds.org/scriptures/nt/acts/2.28?lang=eng#27); see also [Ps.
-16:11](https://www.lds.org/scriptures/ot/ps/16.11?lang=eng#10)).
+2:28](/scriptures/nt/acts/2.28?lang=eng#27); see also [Ps.
+16:11](/scriptures/ot/ps/16.11?lang=eng#10)).
 
 God, who gave us life, also gave us commandments to live by, that we might
 have joy. They have been revealed periodically by prophets from Adam to
 President Benson. One wrote this expression: "Consider ... the blessed and happy
 state of those that keep the commandments of God. For behold, they are blessed
 in all things, both temporal and spiritual" ([Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40)).
+2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40)).
 
 But for those who have not known his ways or who have strayed from them,
 remember, it is not too late to change. Blessings from faith and repentance
@@ -256,8 +251,8 @@ still can be yours.
 To those who feel defeated and downtrodden, look to the early hours of the day
 for your rescue. The Lord tells us, "Cease to sleep longer than is needful;
 retire to thy bed early, that ye may not be weary; arise early, that your
-bodies and your minds may be invigorated" ([D&amp;C
-88:124](https://www.lds.org/scriptures/dc-testament/dc/88.124?lang=eng#123)).
+bodies and your minds may be invigorated" ([D&amp;C 88:124](/scriptures/dc-
+testament/dc/88.124?lang=eng#123)).
 
 The dawning of a brighter day heralds a time of forgiveness. Shadows of
 yesterday's grief melt in the rays of early morn's opportunity.
@@ -270,35 +265,33 @@ was sealed to her eternal companion in the holy temple. To witness this event,
 along with other family members, were her parents and all eight of her older
 sisters and their husbands. For us, there was truly joy in the morning on that
 day. Then we really felt the scriptural truth, "Men are, that they might have
-joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)).
+joy" ([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)).
 
 These experiences, glorious as they are, become but prelude to that great day
 ahead, when the faithful will stand at the latter day upon the earth. They
 shall abide the Second Coming of the Lord and shall stand with him when he
-appears (see [Mal.
-3:2-12](https://www.lds.org/scriptures/ot/mal/3.2-12?lang=eng#1); [3 Ne.
-24:2-12](https://www.lds.org/scriptures/bofm/3-ne/24.2-12?lang=eng#1)). On
-that joyous morning, the mirror will reflect the miracle of the first
-resurrection. The faithful shall be crowned with glory, immortality, and
-eternal life (see [D&amp;C 75:5](https://www.lds.org/scriptures/dc-
-testament/dc/75.5?lang=eng#4); [D&amp;C 138:51](https://www.lds.org/scriptures
-/dc-testament/dc/138.51?lang=eng#50)).
+appears (see [Mal. 3:2-12](/scriptures/ot/mal/3.2-12?lang=eng#1); [3 Ne.
+24:2-12](/scriptures/bofm/3-ne/24.2-12?lang=eng#1)). On that joyous morning,
+the mirror will reflect the miracle of the first resurrection. The faithful
+shall be crowned with glory, immortality, and eternal life (see [D&amp;C
+75:5](/scriptures/dc-testament/dc/75.5?lang=eng#4); [D&amp;C
+138:51](/scriptures/dc-testament/dc/138.51?lang=eng#50)).
 
 Once again "morning stars [will] sing together, and ... all the sons [and
-daughters] of God [will] shout for joy!" ([D&amp;C
-128:23](https://www.lds.org/scriptures/dc-testament/dc/128.23?lang=eng#22);
-see also [Job 38:7](https://www.lds.org/scriptures/ot/job/38.7?lang=eng#6)).
-For on that morning, "the glory of the Lord shall be revealed, and all flesh
-shall see it together" ([Isa.
-40:5](https://www.lds.org/scriptures/ot/isa/40.5?lang=eng#4); see also [Ezek.
-20:48](https://www.lds.org/scriptures/ot/ezek/20.48?lang=eng#47); [Luke
-3:6](https://www.lds.org/scriptures/nt/luke/3.6?lang=eng#5); [D&amp;C
-101:23](https://www.lds.org/scriptures/dc-testament/dc/101.23?lang=eng#22)).
+daughters] of God [will] shout for joy!" ([D&amp;C 128:23](/scriptures/dc-
+testament/dc/128.23?lang=eng#22); see also [Job
+38:7](/scriptures/ot/job/38.7?lang=eng#6)). For on that morning, "the glory of
+the Lord shall be revealed, and all flesh shall see it together" ([Isa.
+40:5](/scriptures/ot/isa/40.5?lang=eng#4); see also [Ezek.
+20:48](/scriptures/ot/ezek/20.48?lang=eng#47); [Luke
+3:6](/scriptures/nt/luke/3.6?lang=eng#5); [D&amp;C 101:23](/scriptures/dc-
+testament/dc/101.23?lang=eng#22)).
 
 Then, "there'll be peace and contentment evermore, ev'ry heart, ev'ry voice on
 that day will rejoice. ... There'll be joy in the morning on that day" (Natalie
 Sleeth, "Joy in the Morning," Carol Stream, Illinois: Hope Publishing Co.,
 1977, pp. 4-5, 9-10). It shall be ours--through our faithfulness--I testify in
 the name of Jesus Christ, amen.
+
+## References
 

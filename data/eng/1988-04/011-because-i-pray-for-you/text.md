@@ -81,10 +81,12 @@ rewarded through humble, secret prayer.
 
 Jesus said, "Except ye be converted, and become as little children, ye shall
 not enter into the kingdom of heaven" ([Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2)).
+18:3](/scriptures/nt/matt/18.3?lang=eng#2)).
 
 May the Lord bless us and help us all to serve Him with simple, childlike
 faith, simple forgiveness and repentance, and especially with simple prayer,
 that we may enjoy the strength, power, and beauty that come from the plain and
 simple things of the gospel, I pray in the name of Jesus Christ, amen.
+
+## References
 

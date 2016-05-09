@@ -11,9 +11,8 @@ the message the Savior taught the woman of Samaria.
 talk to her. The Master said: "If thou knewest the gift of God, and who it is
 that saith to thee, Give me to drink; thou wouldest have asked of him, and he
 would have given thee living water." ([John 4:7,
-9-10](https://www.lds.org/scriptures/nt/john/4.7%2C9-10?lang=eng#6).) It is
-evident that she was talking about well water and he was talking about "living
-water."
+9-10](/scriptures/nt/john/4.7,9-10?lang=eng#6).) It is evident that she was
+talking about well water and he was talking about "living water."
 
 This difficulty of understanding about water recalls the story of a sailing
 ship that had become disabled in a storm. It drifted aimlessly for many days.
@@ -99,11 +98,11 @@ needs to be loved. Everyone needs to be needed. Everyone has some kind of
 talent and wants to use it. Somehow in the magic of this marvelous
 organization you can find your place and make your contribution. When you
 serve, you find purpose to life. The Church hath need of every member. (See
-[D&amp;C 84:110](https://www.lds.org/scriptures/dc-
-testament/dc/84.110?lang=eng#109).) You need not be alone. We are a busy and
-active people and love to serve each other. Whether you are young or old,
-married or single, you are needed in the Church. You get involved in wholesome
-activities that build and strengthen friendships.
+[D&amp;C 84:110](/scriptures/dc-testament/dc/84.110?lang=eng#109).) You need
+not be alone. We are a busy and active people and love to serve each other.
+Whether you are young or old, married or single, you are needed in the Church.
+You get involved in wholesome activities that build and strengthen
+friendships.
 
 People live longer nowadays. There are more older people. You who are older
 are not left without something to do. We need the power and energy of youth.
@@ -133,10 +132,10 @@ poverty. (_Salt Lake Tribune,_ Sept. 21, 1974.) Our health record is unusual.
 
 We believe and obey a revelation from God. It says "wine or strong drink ... is
 not good. ... Tobacco is not for the body, ... hot drinks (meaning tea and coffee)
-are not for the body." ([D&amp;C 89:5-9](https://www.lds.org/scriptures/dc-
+are not for the body." ([D&amp;C 89:5-9](/scriptures/dc-
 testament/dc/89.5-9?lang=eng#4).) Obedience to this law qualifies us to
 receive the promised blessings: we shall receive health, wisdom, strength, and
-protection. (See [D&amp;C 89:18-21](https://www.lds.org/scriptures/dc-
+protection. (See [D&amp;C 89:18-21](/scriptures/dc-
 testament/dc/89.18-21?lang=eng#17).) We do not worry. We have an inner peace
 and quietude. Even knowing the calamities we may face, we know we will have
 the promised blessings and protection of the Lord.
@@ -156,18 +155,17 @@ Bible. They testify that Jesus is the Christ.
 
 In the latter-day scriptures the Lord speaks of "the only true and living
 church upon the face of the whole earth, with which I, the Lord, am well
-pleased." ([D&amp;C 1:30](https://www.lds.org/scriptures/dc-
-testament/dc/1.30?lang=eng#29).) There is much difference between a dead and
-living church. While one may have the form and shape, the ritual and
-dimension, the living church has life. A living prophet leads the Church
-today. There is a vibrant, living movement to it, a captivating spirit about
-it, a glory to it that lifts and builds and helps and blesses the lives of all
-it touches. The Church will move forward to its divine destiny with or without
-you, because it is true. Everything else in the Church is built upon the
-foundation of truth. That is why the Church grows so rapidly. That is why the
-message appeals to families. That is why, in the lonely world, brotherhood
-means so much. That is why we have a feeling of calm assurance, purpose, and
-peace.
+pleased." ([D&amp;C 1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29).)
+There is much difference between a dead and living church. While one may have
+the form and shape, the ritual and dimension, the living church has life. A
+living prophet leads the Church today. There is a vibrant, living movement to
+it, a captivating spirit about it, a glory to it that lifts and builds and
+helps and blesses the lives of all it touches. The Church will move forward to
+its divine destiny with or without you, because it is true. Everything else in
+the Church is built upon the foundation of truth. That is why the Church grows
+so rapidly. That is why the message appeals to families. That is why, in the
+lonely world, brotherhood means so much. That is why we have a feeling of calm
+assurance, purpose, and peace.
 
 Every member is entitled to a personal testimony that these things of which I
 have spoken are true.
@@ -180,4 +178,6 @@ understand it. Honestly test the truth of our message. You may drink freely of
 the waters of life found in the living Church. We invite all men to come and
 share our joy and truth and peace. I bear my solemn testimony that it is found
 in the Church, in the name of Jesus Christ. Amen.
+
+## References
 

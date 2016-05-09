@@ -34,7 +34,7 @@ nation, kindred, tongue and people under the direction of the Quorum of the
 Twelve Apostles, whose divine calling it is "to officiate in the name of the
 Lord, under the direction of the Presidency of the Church, agreeable to the
 institution of heaven; to build up the church, and regulate all the affairs of
-the same in all nations" ([D&amp;C 107:33](https://www.lds.org/scriptures/dc-
+the same in all nations" ([D&amp;C 107:33](/scriptures/dc-
 testament/dc/107.33?lang=eng#32)).
 
 Before the end of the year, we will have over 1,000 stakes. This seems
@@ -96,11 +96,10 @@ Businesses will not be open on the Sabbath if they are not patronized on that
 holy day. The same is true of resorts, sporting events, and recreation areas
 of all kinds. Pursuit of the almighty dollar is winning, it seems, over the
 Lord's commandment, "Keep my sabbaths, and reverence my sanctuary" ([Lev.
-19:30](https://www.lds.org/scriptures/ot/lev/19.30?lang=eng#29)).
+19:30](/scriptures/ot/lev/19.30?lang=eng#29)).
 
 "Why call ye me, Lord, Lord, and do _not_ the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45); emphasis
-added).
+6:46](/scriptures/nt/luke/6.46?lang=eng#45); emphasis added).
 
 Violating the purpose of the Sabbath is not the only matter in these days
 which calls forth our cry of protest. We are greatly concerned about the world
@@ -161,7 +160,7 @@ ye must build your foundation; that when the devil shall send forth his mighty
 winds, yea, his shafts in the whirlwind, yea, when all his hail and his mighty
 storm shall beat upon you, it shall have no power over you to drag you down to
 the gulf of misery and endless wo" ([Hel.
-5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11)).
+5:12](/scriptures/bofm/hel/5.12?lang=eng#11)).
 
 I would emphasize that the teachings of Christ that we should become perfect
 were not mere rhetoric. He meant literally that it is the right of mankind to
@@ -180,7 +179,7 @@ Through Moses the word of the Lord came down from the mountain. The
 commandments which the Lord gave to the children of Israel set minimum
 standards of conduct. These commandments, said Paul, are "our schoolmaster to
 bring us unto Christ, that we might be justified by faith" ([Gal.
-3:24](https://www.lds.org/scriptures/nt/gal/3.24?lang=eng#23)).
+3:24](/scriptures/nt/gal/3.24?lang=eng#23)).
 
 But living by the letter of the Ten Commandments is only the beginning of
 perfection. Jesus taught the sanctity of the Ten Commandments, but emphasized
@@ -227,16 +226,16 @@ what the Lord expects.
 It is for us to keep our hearts and minds pure, as well as our actions.
 
 "Thou shalt not steal," the Lord said on Sinai ([Ex.
-20:15](https://www.lds.org/scriptures/ot/ex/20.15?lang=eng#14)). Thus it is
-for us to be honest in every way. We must be generous, the very opposite of
-selfishness. When money is needed, we give money. But often what is needed
-more is love and time and caring, which money cannot buy. When that is true,
-even being generous with our money is not enough.
+20:15](/scriptures/ot/ex/20.15?lang=eng#14)). Thus it is for us to be honest
+in every way. We must be generous, the very opposite of selfishness. When
+money is needed, we give money. But often what is needed more is love and time
+and caring, which money cannot buy. When that is true, even being generous
+with our money is not enough.
 
 Bearing false witness and coveting the belongings of others are further
 evidences of selfishness. "Love thy neighbour as thyself," Jesus taught. On
 this and on the love of God "hang all the law and the prophets" ([Matt.
-22:39-40](https://www.lds.org/scriptures/nt/matt/22.39-40?lang=eng#38)).
+22:39-40](/scriptures/nt/matt/22.39-40?lang=eng#38)).
 
 Kindness, helpfulness, love, concern, generosity--we could go on for the list
 of virtues is endless. The development of these traits is what the Lord asks
@@ -244,7 +243,7 @@ of us.
 
 "If there is anything virtuous, lovely, or of good report or praiseworthy, we
 seek after these things" ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)).
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)).
 
 The gospel of Jesus Christ is true. Any earnest seeker can know for himself
 that it is true by studying and living its principles and seeking the
@@ -263,4 +262,6 @@ fulness.
 
 May the Lord bless us, each one, to hold fast to the iron rod, I humbly pray,
 in the name of Jesus Christ. Amen.
+
+## References
 

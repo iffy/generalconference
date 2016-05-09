@@ -23,8 +23,8 @@ In a priesthood blessing a servant of the Lord exercises the priesthood, as
 moved upon by the Holy Ghost, to call upon the powers of heaven for the
 benefit of the person being blessed. Such blessings are conferred by holders
 of the Melchizedek Priesthood, which has the keys of all the spiritual
-blessings of the Church (see [D&amp;C 107:18,
-67](https://www.lds.org/scriptures/dc-testament/dc/107.18%2C67?lang=eng#17)).
+blessings of the Church (see [D&amp;C 107:18, 67](/scriptures/dc-
+testament/dc/107.18,67?lang=eng#17)).
 
 There are many kinds of priesthood blessings. As I give various examples,
 please remember that priesthood blessings are available for all who need them,
@@ -32,14 +32,12 @@ but they are only given on request.
 
 Blessings for the healing of the sick are preceded by anointing with oil, as
 the scriptures direct (see [James
-5:14-15](https://www.lds.org/scriptures/nt/james/5.14-15?lang=eng#13); [Mark
-6:13](https://www.lds.org/scriptures/nt/mark/6.13?lang=eng#12); [D&amp;C
-24:13-14](https://www.lds.org/scriptures/dc-
-testament/dc/24.13-14?lang=eng#12); [D&amp;C
-42:43-48](https://www.lds.org/scriptures/dc-
-testament/dc/42.43-48?lang=eng#42); [D&amp;C
-66:9](https://www.lds.org/scriptures/dc-testament/dc/66.9?lang=eng#8)).
-Patriarchal blessings are conferred by an ordained patriarch.
+5:14-15](/scriptures/nt/james/5.14-15?lang=eng#13); [Mark
+6:13](/scriptures/nt/mark/6.13?lang=eng#12); [D&amp;C 24:13-14](/scriptures
+/dc-testament/dc/24.13-14?lang=eng#12); [D&amp;C 42:43-48](/scriptures/dc-
+testament/dc/42.43-48?lang=eng#42); [D&amp;C 66:9](/scriptures/dc-
+testament/dc/66.9?lang=eng#8)). Patriarchal blessings are conferred by an
+ordained patriarch.
 
 Persons desiring guidance in an important decision can receive a priesthood
 blessing. Persons who need extra spiritual power to overcome a personal
@@ -106,21 +104,19 @@ us overcome obstacles on the path to eternal life.
 
 Remember how the Savior intervened to assure that the little children could
 come unto him. And then "he took them up in his arms, put his hands upon them,
-and blessed them" ([Mark
-10:16](https://www.lds.org/scriptures/nt/mark/10.16?lang=eng#15)). When the
-risen Lord visited the people on this continent, "he took their little
+and blessed them" ([Mark 10:16](/scriptures/nt/mark/10.16?lang=eng#15)). When
+the risen Lord visited the people on this continent, "he took their little
 children, one by one, and blessed them, and prayed unto the Father for them"
-([3 Ne. 17:21](https://www.lds.org/scriptures/bofm/3-ne/17.21?lang=eng#20)).
+([3 Ne. 17:21](/scriptures/bofm/3-ne/17.21?lang=eng#20)).
 
 It is a very sacred responsibility for a Melchizedek Priesthood holder to
 speak for the Lord in giving a priesthood blessing. As the Lord has told us in
 modern revelation, "My word ... shall all be fulfilled, whether by mine own
 voice or by the voice of my servants, it is the same" ([D&amp;C
-1:38](https://www.lds.org/scriptures/dc-testament/dc/1.38?lang=eng#37)). If a
-servant of the Lord speaks as he is moved upon by the Holy Ghost, his words
-are "the will of the Lord, ... the mind of the Lord, ... the word of the Lord, ...
-[and] the voice of the Lord" ([D&amp;C 68:4](https://www.lds.org/scriptures
-/dc-testament/dc/68.4?lang=eng#3)).
+1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37)). If a servant of the Lord
+speaks as he is moved upon by the Holy Ghost, his words are "the will of the
+Lord, ... the mind of the Lord, ... the word of the Lord, ... [and] the voice of the
+Lord" ([D&amp;C 68:4](/scriptures/dc-testament/dc/68.4?lang=eng#3)).
 
 But if the words of a blessing only represent the priesthood holder's own
 desires and opinions, uninspired by the Holy Ghost, then the blessing is
@@ -128,17 +124,15 @@ conditioned on whether it represents the will of the Lord.
 
 Worthy Melchizedek Priesthood holders can give blessings to their posterity.
 The scriptures record many such blessings, including Adam's (see [D&amp;C
-107:53-57](https://www.lds.org/scriptures/dc-
-testament/dc/107.53-57?lang=eng#52)), Isaac's (see [Gen. 27:28-29,
-39-40](https://www.lds.org/scriptures/ot/gen/27.28-29%2C39-40?lang=eng#27);
-[Gen. 28:3-4](https://www.lds.org/scriptures/ot/gen/28.3-4?lang=eng#2); [Heb.
-11:20](https://www.lds.org/scriptures/nt/heb/11.20?lang=eng#19)), Jacob's (see
-[Gen. 48:9-22](https://www.lds.org/scriptures/ot/gen/48.9-22?lang=eng#8);
-[Gen. 49](https://www.lds.org/scriptures/ot/gen/49.title?lang=eng); [Heb.
-11:21](https://www.lds.org/scriptures/nt/heb/11.21?lang=eng#20)), and Lehi's
-(see [2 Ne.
-1:28-32](https://www.lds.org/scriptures/bofm/2-ne/1.28-32?lang=eng#27); [2 Ne.
-4](https://www.lds.org/scriptures/bofm/2-ne/4.title?lang=eng)).
+107:53-57](/scriptures/dc-testament/dc/107.53-57?lang=eng#52)), Isaac's (see
+[Gen. 27:28-29, 39-40](/scriptures/ot/gen/27.28-29,39-40?lang=eng#27); [Gen.
+28:3-4](/scriptures/ot/gen/28.3-4?lang=eng#2); [Heb.
+11:20](/scriptures/nt/heb/11.20?lang=eng#19)), Jacob's (see [Gen.
+48:9-22](/scriptures/ot/gen/48.9-22?lang=eng#8); [Gen.
+49](/scriptures/ot/gen/49?lang=eng); [Heb.
+11:21](/scriptures/nt/heb/11.21?lang=eng#20)), and Lehi's (see [2 Ne.
+1:28-32](/scriptures/bofm/2-ne/1.28-32?lang=eng#27); [2 Ne.
+4](/scriptures/bofm/2-ne/4?lang=eng)).
 
 When Joseph Smith, Sr., was dying, his children gathered to receive his final
 blessing. After first blessing his wife, Father Smith began with Hyrum, his
@@ -150,10 +144,9 @@ Co., 1963, pp. 240-41).
 In modern revelation, parents who are members of the Church are commanded to
 bring their children "before the church," where the elders "are to lay their
 hands upon them in the name of Jesus Christ, and bless them in his name"
-([D&amp;C 20:70](https://www.lds.org/scriptures/dc-
-testament/dc/20.70?lang=eng#69)). This is why parents bring babies to a
-sacrament meeting, where an elder--usually the father--gives them a name and a
-blessing.
+([D&amp;C 20:70](/scriptures/dc-testament/dc/20.70?lang=eng#69)). This is why
+parents bring babies to a sacrament meeting, where an elder--usually the
+father--gives them a name and a blessing.
 
 If any of the young men in this priesthood meeting has thought he has never
 received a priesthood blessing, I hope he has now realized that he has already
@@ -162,8 +155,7 @@ received at least two and perhaps more.
 Priesthood blessings are not limited to those blessings spoken as hands are
 laid on the head of one person. Blessings are sometimes pronounced on groups
 of people. The prophet Moses blessed all the children of Israel before his
-death (see [Deut.
-33:1](https://www.lds.org/scriptures/ot/deut/33.1?lang=eng#0)). The Prophet
+death (see [Deut. 33:1](/scriptures/ot/deut/33.1?lang=eng#0)). The Prophet
 Joseph Smith "pronounced a blessing upon the sisters" working on the Kirtland
 Temple. He also blessed "the congregation" (_History of the Church,_ 2:399).
 As recently as last April conference President Benson blessed the Latter-day
@@ -178,11 +170,11 @@ dedicated when they are used in the service of the Lord. "Church members may
 dedicate their homes, ... as sacred edifices where the Holy Spirit can reside"
 (_General Handbook of Instructions,_ p. 11-5). Missionaries and other
 priesthood holders can leave a priesthood blessing upon homes where they have
-been received (see [D&amp;C 75:19](https://www.lds.org/scriptures/dc-
+been received (see [D&amp;C 75:19](/scriptures/dc-
 testament/dc/75.19?lang=eng#18); [Alma
-10:7-11](https://www.lds.org/scriptures/bofm/alma/10.7-11?lang=eng#6)). Young
-men, within a short time you may be asked to give such a blessing. I hope you
-are preparing yourselves spiritually.
+10:7-11](/scriptures/bofm/alma/10.7-11?lang=eng#6)). Young men, within a short
+time you may be asked to give such a blessing. I hope you are preparing
+yourselves spiritually.
 
 In the time that remains, I will mention some other examples of priesthood
 blessings.
@@ -286,4 +278,6 @@ This is the true church of our Savior. I testify of the saving mission of
 Jesus Christ. We are bearers of his priesthood. God bless us to exercise that
 priesthood under his direction, for the blessing of his children. In the name
 of Jesus Christ, amen.
+
+## References
 

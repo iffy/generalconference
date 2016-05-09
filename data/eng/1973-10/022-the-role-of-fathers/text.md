@@ -12,7 +12,7 @@ scriptures set forth qualifications for all who preside:
 
 "No power or influence can or ought to be maintained by virtue of the
 priesthood, only by persuasion, by long-suffering, by gentleness and meekness,
-and by love unfeigned. ..." ([D&amp;C 121:41](https://www.lds.org/scriptures/dc-
+and by love unfeigned. ..." ([D&amp;C 121:41](/scriptures/dc-
 testament/dc/121.41?lang=eng#40).)
 
 In reality, each family is a dominion within itself. Father heads that
@@ -105,12 +105,12 @@ their parents and to give heed to their counsel. The words that open that
 great volume of scripture, the Book of Mormon, ought to be our guide as
 fathers: "... having been born of goodly parents, therefore I was taught
 somewhat in all the learning of my father." ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0).)
+1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0).)
 
 Enos, likewise, credited his father for his teachings: "... knowing my father
 that he was a just man--for he taught me in his language, and also the nurture
 and admonition of the Lord--and blessed be the name of my God for it. ..."
-([Enos 1:1](https://www.lds.org/scriptures/bofm/enos/1.1?lang=eng#0).)
+([Enos 1:1](/scriptures/bofm/enos/1.1?lang=eng#0).)
 
 Have you fathers noticed that the present Melchizedek Priesthood lessons are
 like father-training lessons? I cite an example:
@@ -134,8 +134,8 @@ how:
 
 "Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then
 showing forth afterwards an increase of love toward him whom thou hast
-reproved, lest he esteem thee to be his enemy." ([D&amp;C
-121:43](https://www.lds.org/scriptures/dc-testament/dc/121.43?lang=eng#42).)
+reproved, lest he esteem thee to be his enemy." ([D&amp;C 121:43](/scriptures
+/dc-testament/dc/121.43?lang=eng#42).)
 
 There has been no better statement of a father-child relationship. When a
 father wisely corrects his son, it proves his love. Only the unwise foolishly
@@ -168,4 +168,6 @@ stressed so much. I know that this is inspired direction by our leaders today.
 I know that God lives. I know that Jesus is the Christ. I know that he guides
 this Church through a living prophet on the earth today, in the name of Jesus
 Christ. Amen.
+
+## References
 

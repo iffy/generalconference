@@ -151,3 +151,9 @@ His desire that we love one another as He loves us (see [John 15:9,
 through the darkness of this world into the glory and majesty of His kingdom
 in heaven. We will be free. In the name of Jesus Christ, amen.
 
+## References
+
+  1. Joseph B. Wirthlin, "[Come What May, and Love It](https://www.lds.org/general-conference/2008/10/come-what-may-and-love-it?lang=eng),"_ Ensign_ or _Liahona,_ Nov. 2008, 28.
+
+  2. Russell M. Nelson, "[Listen to Learn](https://www.lds.org/general-conference/1991/04/listen-to-learn?lang=eng)," _Ensign,_ May 1991, 23.
+

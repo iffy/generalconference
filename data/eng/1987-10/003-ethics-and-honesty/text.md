@@ -84,7 +84,7 @@ good to all men; indeed, we may say that we follow the admonition of Paul--We
 believe all things, we hope all things, we have endured many things, and hope
 to be able to endure all things. If there is anything virtuous, lovely, or of
 good report or praiseworthy, we seek after these things" ([A of F
-1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12)).
+1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12)).
 
 What an inspiring description of good people, God-fearing people, people
 committed to deal justly with mankind! These would be the type of people who
@@ -131,8 +131,7 @@ new, constantly changing and undependable standard of moral conduct referred
 to as "situational ethics." Now, individuals define good and evil as being
 adjustable according to each situation; this is in direct contrast to the
 proclaimed God-given absolute standard: "Thou shalt not!"--as in "Thou shalt
-not steal" ([Ex.
-20:15](https://www.lds.org/scriptures/ot/ex/20.15?lang=eng#14)).
+not steal" ([Ex. 20:15](/scriptures/ot/ex/20.15?lang=eng#14)).
 
 A recent Gallup Poll indicates that the vast majority of Americans want
 schools to do two things: teach our children to speak, think, write, and
@@ -185,8 +184,8 @@ Honesty is not only the best policy, it is the only policy!
 Someone said, "We have committed the Golden Rule to memory. May we now commit
 it to life." The Savior's teaching, "Therefore all things whatsoever ye would
 that men should do to you, do ye even so to them" ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11)) should be the
-basis for all human relationships.
+7:12](/scriptures/nt/matt/7.12?lang=eng#11)) should be the basis for all human
+relationships.
 
 The Lord is very clear about the conduct he expects from the inhabitants of
 this earth. Nephi declared:
@@ -199,7 +198,7 @@ another; ... should not commit whoredoms; ... for whoso doeth them shall perish.
 "For none of these iniquities come of the Lord; for he doeth that which is
 good among the children of men; ... and ... inviteth ... all to come unto him and
 partake of his goodness" ([2 Ne.
-26:32-33](https://www.lds.org/scriptures/bofm/2-ne/26.32-33?lang=eng#31)).
+26:32-33](/scriptures/bofm/2-ne/26.32-33?lang=eng#31)).
 
 The time is now to rededicate our lives to eternal ideals and values, to make
 those changes that we may need to make in our own lives and conduct to conform
@@ -216,4 +215,6 @@ On this test may hinge the survival of our society, our constitutional
 government, and our eternal salvation.
 
 I so declare, in the name of Jesus Christ, amen.
+
+## References
 

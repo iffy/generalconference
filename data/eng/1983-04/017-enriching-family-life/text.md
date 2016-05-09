@@ -4,8 +4,7 @@ Brethren, I come humbly to this pulpit. As a young man I recall President J.
 Reuben Clark pleading time after time in general priesthood meetings that
 there be unity in the priesthood. He would quote frequently the message of the
 Lord, "I say unto you, be one; and if ye are not one ye are not mine."
-([D&amp;C 38:27](https://www.lds.org/scriptures/dc-
-testament/dc/38.27?lang=eng#26).)
+([D&amp;C 38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26).)
 
 Unity in the priesthood should reflect unity in our homes. One wonders why so
 many more homes are now being weakened and why so many families are
@@ -46,7 +45,7 @@ mother.
 Malachi said the whole world would be smitten with a curse if the hearts of
 the fathers were not turned to the children, and if the hearts of the children
 were not turned to their fathers. (See [Mal.
-4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5).)
+4:6](/scriptures/ot/mal/4.6?lang=eng#5).)
 
 The presence of the father in the home, coupled with one or both of the
 parents being active in Church, and with discipline in the home, seems to
@@ -82,24 +81,14 @@ inconvenience being involved.
 
 May I suggest other ways to enrich family life:
 
-  1. Hold family prayer night and morning. The source of our enormous individual strength and potential is no mystery. It is an endowment from God. We need not consume addicting chemicals found in drugs, including alcohol, to make us capable of meeting life's problems. We need only to draw constantly from the power source through humble prayer. It often takes a superhuman effort for parents of a busy family to get everyone out of bed and together for family prayer and scripture study. You may not always feel like praying when you finally get together, but it will pay great dividends if you persevere.
-
-  2. Study the scriptures. All of us need the strength that comes from daily reading of the scriptures. Parents must have a knowledge of the standard works to teach them to their children. A child who has been taught from the scriptures has a priceless legacy. Children are fortified when they become acquainted with the heroic figures and stories of the scriptures such as Daniel in the lions' den, David and Goliath, Nephi, Helaman and the stripling warriors, and all the others.
-
-Having prayer, scripture study, and meals together gives incredibly important
-time to talk and listen as parents and children, brothers and sisters.
-
-  3. Teach children to work. Every household has routine daily chores that children can be responsible for.
-
-  4. Teach discipline and obedience. If parents do not discipline their children and teach them to obey, society may discipline them in a way neither the parents nor the children will like. Dr. Lee Salk, child psychologist, said: "The 'do your own thing' trend has interfered with people developing close and trusting family relationships. It tells people that they are neurotic if they feel a sense of responsibility for the feelings of other family members. People are also told to let all their feelings out, even if it is very hurtful to someone else." (Special Section Families, U.S. News and World Report, Inc., 16 June 1980, p. 60.) As Dr. Salk states, this is, of course, patently wrong. Without discipline and obedience in the home, the unity of the family collapses.
-
-  5. Place a high priority on loyalty to each other. The dictionary defines the word loyal as being "constant and faithful in any relation implying trust or confidence; bearing true allegiance to the constituted authority." (Britannica World Language Dictionary, s.v. "loyalty.") If family members are not loyal to each other, they cannot be loyal to themselves.
-
-  6. Teach principles of self-worth and self-reliance. One of the main problems in families today is that we spend less and less time together. Some spend an extraordinary amount of time, when they are together, in front of the television, which robs them of personal time for reinforcing feelings of self-worth. Time together is precious time--time needed to talk, to listen, to encourage, and to show how to do things. Less time together can result in loneliness, which may produce inner feelings of being unsupported, untreasured, and inadequate. Self-worth is reinforced in many ways. When parents say to a son or daughter, leaving the home for some activity, the simple but meaningful words, "Remember who you are," they have helped that child feel important.
-
-  7. Develop family traditions. Some of the great strengths of families can be found in their own traditions, which may consist of many things: making special occasions of the blessing of children, baptisms, ordinations to the priesthood, birthdays, fishing trips, skits on Christmas Eve, family home evening, and so forth. The traditions of each family are unique and are provided in large measure by the mother's imprint.
-
-  8. Do everything in the spirit of love. Elder LeGrand Richards shared with us the tender relationship he had with his father. Said he, "I walked into my father's apartment when he was just about ninety, ... and as I opened the door, he stood up and walked toward me and took me in his arms and hugged me and kissed me. He always did that. ... Taking me in his arms and calling me by my kid name, he said, 'Grandy, my boy, I love you.'" (In Conference Report, October 1967, pp. 111-12.)
+  1. Hold family prayer night and morning. The source of our enormous individual strength and potential is no mystery. It is an endowment from God. We need not consume addicting chemicals found in drugs, including alcohol, to make us capable of meeting life's problems. We need only to draw constantly from the power source through humble prayer. It often takes a superhuman effort for parents of a busy family to get everyone out of bed and together for family prayer and scripture study. You may not always feel like praying when you finally get together, but it will pay great dividends if you persevere. 
+  2. Study the scriptures. All of us need the strength that comes from daily reading of the scriptures. Parents must have a knowledge of the standard works to teach them to their children. A child who has been taught from the scriptures has a priceless legacy. Children are fortified when they become acquainted with the heroic figures and stories of the scriptures such as Daniel in the lions' den, David and Goliath, Nephi, Helaman and the stripling warriors, and all the others. Having prayer, scripture study, and meals together gives incredibly important time to talk and listen as parents and children, brothers and sisters. 
+  3. Teach children to work. Every household has routine daily chores that children can be responsible for. 
+  4. Teach discipline and obedience. If parents do not discipline their children and teach them to obey, society may discipline them in a way neither the parents nor the children will like. Dr. Lee Salk, child psychologist, said: "The 'do your own thing' trend has interfered with people developing close and trusting family relationships. It tells people that they are neurotic if they feel a sense of responsibility for the feelings of other family members. People are also told to let all their feelings out, even if it is very hurtful to someone else." (Special Section Families, U.S. News and World Report, Inc., 16 June 1980, p. 60.) As Dr. Salk states, this is, of course, patently wrong. Without discipline and obedience in the home, the unity of the family collapses. 
+  5. Place a high priority on loyalty to each other. The dictionary defines the word loyal as being "constant and faithful in any relation implying trust or confidence; bearing true allegiance to the constituted authority." (Britannica World Language Dictionary, s.v. "loyalty.") If family members are not loyal to each other, they cannot be loyal to themselves. 
+  6. Teach principles of self-worth and self-reliance. One of the main problems in families today is that we spend less and less time together. Some spend an extraordinary amount of time, when they are together, in front of the television, which robs them of personal time for reinforcing feelings of self-worth. Time together is precious time--time needed to talk, to listen, to encourage, and to show how to do things. Less time together can result in loneliness, which may produce inner feelings of being unsupported, untreasured, and inadequate. Self-worth is reinforced in many ways. When parents say to a son or daughter, leaving the home for some activity, the simple but meaningful words, "Remember who you are," they have helped that child feel important. 
+  7. Develop family traditions. Some of the great strengths of families can be found in their own traditions, which may consist of many things: making special occasions of the blessing of children, baptisms, ordinations to the priesthood, birthdays, fishing trips, skits on Christmas Eve, family home evening, and so forth. The traditions of each family are unique and are provided in large measure by the mother's imprint. 
+  8. Do everything in the spirit of love. Elder LeGrand Richards shared with us the tender relationship he had with his father. Said he, "I walked into my father's apartment when he was just about ninety, ... and as I opened the door, he stood up and walked toward me and took me in his arms and hugged me and kissed me. He always did that. ... Taking me in his arms and calling me by my kid name, he said, 'Grandy, my boy, I love you.'" (In Conference Report, October 1967, pp. 111-12.) 
 
 Some parents have difficulty expressing their love physically or vocally. I do
 not ever recall my own father using the words, "Son, I love you," but he
@@ -133,7 +122,7 @@ behold, Satan hath desired to have you, that he may sift you as wheat:
 
 "But I have prayed for thee, that thy faith fail not: and when thou art
 converted, strengthen thy brethren." ([Luke
-22:31-32](https://www.lds.org/scriptures/nt/luke/22.31-32?lang=eng#30).)
+22:31-32](/scriptures/nt/luke/22.31-32?lang=eng#30).)
 
 There needs to be a converting and a strengthening of parents. This comes
 about by the teaching, the understanding, and the applying of gospel
@@ -155,16 +144,15 @@ Religion in the distant past has often been cloaked with rigorous fanaticism,
 bigotry, and intolerance. With the restoration of the gospel came the holy
 priesthood of God, to be exercised not in the spirit of coercion and
 compulsion but in the spirit of free agency, resting on a foundation of
-"gentleness and meekness, and ... love unfeigned." ([D&amp;C
-121:41](https://www.lds.org/scriptures/dc-testament/dc/121.41?lang=eng#40).)
-This is the sweet spirit of the Christ himself.
+"gentleness and meekness, and ... love unfeigned." ([D&amp;C 121:41](/scriptures
+/dc-testament/dc/121.41?lang=eng#40).) This is the sweet spirit of the Christ
+himself.
 
 Now, these exalted concepts must be implemented by wise men. As direction is
 given in the Church and in our homes, there should be no spirit of
 dictatorship and no _unrighteous dominion._ The keys and powers of the
 priesthood can be "handled only upon the principles of righteousness."
-([D&amp;C 121:36](https://www.lds.org/scriptures/dc-
-testament/dc/121.36?lang=eng#35).)
+([D&amp;C 121:36](/scriptures/dc-testament/dc/121.36?lang=eng#35).)
 
 God, through his prophets, has given the priesthood in recent times the great
 challenge to advance worldwide the holy work in which we are engaged. All
@@ -183,7 +171,7 @@ activities. I am grateful for them. They are necessary. They are inspired and
 great. I only ask for greater concern for the individual and the family, which
 after all is the purpose of God's holy work. "This is my work and my glory--to
 bring to pass the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 May we put our lives and homes in order. We must stay true to the great
 absolutes of the restored gospel: namely, Christ and him crucified, the divine
@@ -196,6 +184,8 @@ keys to the kingdom of God on earth, our homes will be enriched, our lives
 purified, and the gates of hell will not prevail against us. May we follow the
 counsel of Alma, and "stand as witnesses of God at all times and in all
 things, and in all places that ye may be in, even until death." ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).) In the
-name of Jesus Christ, amen.
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8).) In the name of Jesus Christ,
+amen.
+
+## References
 

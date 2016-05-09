@@ -35,7 +35,7 @@ worthy of it, and second, we must ask for it.
 
 "Ask the Father in my name, in faith believing that you shall receive, and you
 shall have the Holy Ghost, which manifesteth all things which are expedient
-unto the children of men." [1]
+unto the children of men."[1]
 
 If we will ask in faith, we will receive the Holy Ghost, and it will lead us
 to the temple.
@@ -52,12 +52,12 @@ his business dealings, goes to the temple, he is heaping damnation upon his
 own soul and is in great need of repentance.
 
 President Hunter said: "It is the deepest desire of my heart to have every
-member of the Church _worthy_ to enter the temple." [2]  If our young men or
+member of the Church _worthy_ to enter the temple."[2] If our young men or
 young women on their way to the mission field, go to the temple unworthily, it
 is a great mistake. We must prepare them for the temple _first,_ and then they
 will be prepared for missions. President Hunter said, "Let us prepare every
 missionary to go to the temple _worthily_ and to make that experience an even
-greater highlight than receiving the mission call." [3]
+greater highlight than receiving the mission call."[3]
 
 The greatest blessings of eternity come to us through the temple. God's
 greatest gift, eternal life, can only come to a man and woman together. And
@@ -72,7 +72,7 @@ priesthood [meaning the new and everlasting covenant of marriage];
 "And if he does not, he cannot obtain it.
 
 "He may enter into the other, but that is the end of his kingdom; he cannot
-have an increase" ([D&amp;C 131:1-4](https://www.lds.org/scriptures/dc-
+have an increase" ([D&amp;C 131:1-4](/scriptures/dc-
 testament/dc/131.1-4?lang=eng#0)).
 
 Thus we see that in marriage, a husband and wife enter into an order of the
@@ -134,9 +134,9 @@ eternal life. In the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [D&amp;C 18:18](https://www.lds.org/scriptures/dc-testament/dc/18.18?lang=eng#17).
+  1. [D&amp;C 18:18](https://www.lds.org/scriptures/dc-testament/dc/18.18?lang=eng#17).
 
-  2.   _Ensign,_ Nov. 1994, p. 8; emphasis added.
+  2. _Ensign,_ Nov. 1994, p. 8; emphasis added.
 
-  3.  Ibid., p. 88; emphasis added.
+  3. Ibid., p. 88; emphasis added.
 

@@ -30,8 +30,7 @@ his companions: then take another stick, and write upon it, For Joseph, the
 stick of Ephraim, and for all the house of Israel his companions:
 
 "And join them one to another into one stick; and they shall become one in
-thine hand." ([Ezek.
-37:16-17](https://www.lds.org/scriptures/ot/ezek/37.16-17?lang=eng#15).)
+thine hand." ([Ezek. 37:16-17](/scriptures/ot/ezek/37.16-17?lang=eng#15).)
 
 From the content of these books, we know this refers to the Bible and the Book
 of Mormon. When we understand how the Book of Mormon came forth--that an angel
@@ -44,19 +43,19 @@ and tongue, and people,
 "Saying with a loud voice, Fear God, and give glory to him; for the hour of
 his judgment is come: and worship him that made heaven, and earth, and the
 sea, and the fountains of waters." ([Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5).)
+14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5).)
 
 There are many scriptures which assure us that God is as interested in us
 today as he has been in all his children from the beginning, and thus we
 believe in continuous revelation from God through his prophets to guide us in
 these latter days. The Prophet Amos said, "Surely the Lord God will do
 nothing, but he revealeth his secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 The Savior made this statement as recorded in John: "And other sheep I have,
 which are not of this fold: them also I must bring, and they shall hear my
 voice; and there shall be one fold, and one shepherd." ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).)
+10:16](/scriptures/nt/john/10.16?lang=eng#15).)
 
 Thus it is clear why the Savior, following his crucifixion and resurrection,
 came to the Western Hemisphere amidst the signs and wonders which had been
@@ -83,13 +82,12 @@ the fulfillment of the words of the prophets. They went so far as to set apart
 a day when the believers should be put to death except the signs be fulfilled.
 
 We are told that Nephi "cried mightily unto the Lord" ([3 Ne.
-1:12](https://www.lds.org/scriptures/bofm/3-ne/1.12?lang=eng#11)), whereupon
-the Lord came unto him and answered him that the time was at hand for all that
-had been spoken by his holy prophets to be fulfilled. All the signs came to
-pass, the new star appeared in the sky, and the unbelievers "fell to the earth
-and became as if they were dead." ([3 Ne.
-1:16](https://www.lds.org/scriptures/bofm/3-ne/1.16?lang=eng#15).) Here is one
-of the first lessons we learn. The words of God's prophets are always
+1:12](/scriptures/bofm/3-ne/1.12?lang=eng#11)), whereupon the Lord came unto
+him and answered him that the time was at hand for all that had been spoken by
+his holy prophets to be fulfilled. All the signs came to pass, the new star
+appeared in the sky, and the unbelievers "fell to the earth and became as if
+they were dead." ([3 Ne. 1:16](/scriptures/bofm/3-ne/1.16?lang=eng#15).) Here
+is one of the first lessons we learn. The words of God's prophets are always
 fulfilled.
 
 But all too soon the signs and wonders which had been experienced were
@@ -100,15 +98,14 @@ enemies, and they praised God for their deliverance.
 
 We are told that they "did forsake all their sins, and their abominations, and
 their whoredoms, and did serve God with all diligence day and night." ([3 Ne.
-5:3](https://www.lds.org/scriptures/bofm/3-ne/5.3?lang=eng#2).) In this
-condition they prospered.
+5:3](/scriptures/bofm/3-ne/5.3?lang=eng#2).) In this condition they prospered.
 
 "And it came to pass that there were many cities built anew, and there were
 many old cities repaired.
 
 "And there were many highways cast up, and many roads made, which led from
 city to city, and from land to land, and from place to place." ([3 Ne.
-6:7-8](https://www.lds.org/scriptures/bofm/3-ne/6.7-8?lang=eng#6).)
+6:7-8](/scriptures/bofm/3-ne/6.7-8?lang=eng#6).)
 
 Here is evidence of earlier civilizations in these areas, as recorded in the
 Book of Mormon, which was translated through the gift and power of God by a
@@ -132,7 +129,7 @@ angels did minister unto him daily.
 "And in the name of Jesus did he cast out devils and unclean spirits; and even
 his brother did he raise from the dead, after he had been stoned and suffered
 death by the people." ([3 Ne.
-7:18-19](https://www.lds.org/scriptures/bofm/3-ne/7.18-19?lang=eng#17).)
+7:18-19](/scriptures/bofm/3-ne/7.18-19?lang=eng#17).)
 
 Then once again, as foretold by the prophets, the signs of Christ's
 crucifixion came to pass, attested by storms and earthquakes, by darkness, by
@@ -147,8 +144,7 @@ repented before this great and terrible day, and had not killed and stoned the
 prophets, and cast them out; then would our mothers and our fair daughters,
 and our children have been spared, and not have been buried up in that great
 city Moronihah. And thus were the howlings of the people great and terrible."
-([3 Ne.
-8:24-25](https://www.lds.org/scriptures/bofm/3-ne/8.24-25?lang=eng#23).)
+([3 Ne. 8:24-25](/scriptures/bofm/3-ne/8.24-25?lang=eng#23).)
 
 Here another lesson is obvious. Throughout ecclesiastical history we find that
 those who rejected the prophets and failed to repent of their wickedness were
@@ -170,17 +166,16 @@ some of those earlier civilizations.
 
 This was the message Christ brought to those early Nephite people as his voice
 was heard "among all the inhabitants of the earth, upon all the face of this
-land." ([3 Ne. 9:1](https://www.lds.org/scriptures/bofm/3-ne/9.1?lang=eng#0).)
-He reminded them of their iniquity and abominations and of the cities which
-had been destroyed because of the wickedness of the inhabitants, and then he
-said, "O all ye that are spared because ye were more righteous than they, will
-ye not now return unto me, and repent of your sins, and be converted, that I
-may heal you?
+land." ([3 Ne. 9:1](/scriptures/bofm/3-ne/9.1?lang=eng#0).) He reminded them
+of their iniquity and abominations and of the cities which had been destroyed
+because of the wickedness of the inhabitants, and then he said, "O all ye that
+are spared because ye were more righteous than they, will ye not now return
+unto me, and repent of your sins, and be converted, that I may heal you?
 
 "Yea, verily I say unto you, if ye will come unto me ye shall have eternal
 life. Behold, mine arm of mercy is extended towards you, and whosoever will
 come, him will I receive; and blessed are those who come unto me." ([3 Ne.
-9:13-14](https://www.lds.org/scriptures/bofm/3-ne/9.13-14?lang=eng#12).)
+9:13-14](/scriptures/bofm/3-ne/9.13-14?lang=eng#12).)
 
 This same invitation is extended to man today through the prophets who speak
 in the name of the Lord. It is the same gospel which he taught in Jerusalem
@@ -191,8 +186,7 @@ After they heard the voice, a great multitude of the people of Nephi gathered
 together at the temple and were conversing about this Jesus Christ and the
 things which they had heard. Again they heard a voice, which said, "Behold my
 Beloved Son, in whom I am well pleased, in whom I have glorified my name--hear
-ye him." ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).)
+ye him." ([3 Ne. 11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).)
 
 As they cast their eyes toward heaven they saw a Man descending out of heaven,
 clothed in a white robe, and they thought an angel had appeared, until he
@@ -200,13 +194,13 @@ spoke, saying, "Behold, I am Jesus Christ, whom the prophets testified shall
 come into the world.
 
 "And behold, I am the light and the life of the world." ([3 Ne.
-11:10-11](https://www.lds.org/scriptures/bofm/3-ne/11.10-11?lang=eng#9).)
+11:10-11](/scriptures/bofm/3-ne/11.10-11?lang=eng#9).)
 
 The whole multitude fell to the earth, and while they were in this attitude of
 reverence and humility, the Savior blessed them and taught them. His very
 first act was to commission Nephi to baptize, saying, "I give unto you power
 that ye shall baptize this people when I am again ascended into heaven." ([3
-Ne. 11:21](https://www.lds.org/scriptures/bofm/3-ne/11.21?lang=eng#20).)
+Ne. 11:21](/scriptures/bofm/3-ne/11.21?lang=eng#20).)
 
 He also called others, twelve in number, and gave them this power,
 establishing that it is necessary to have authority to act in the name of the
@@ -231,8 +225,7 @@ had chosen, saying, "Ye are my disciples; and ye are a light unto this people,
 who are a remnant of the house of Joseph.
 
 "And behold, this is the land of your inheritance; and the Father hath given
-it unto you." ([3 Ne.
-15:12-13](https://www.lds.org/scriptures/bofm/3-ne/15.12-13?lang=eng#11).)
+it unto you." ([3 Ne. 15:12-13](/scriptures/bofm/3-ne/15.12-13?lang=eng#11).)
 
 He commanded the Nephites to write his sayings, and if those in Jerusalem did
 not learn of the Nephites and the other tribes by means of the Holy Ghost,
@@ -259,7 +252,7 @@ Jesus speak unto the Father;
 the hearts of men conceive so great and marvelous things as we both saw and
 heard Jesus speak; and no one can conceive of the joy which filled our souls
 at the time we heard him pray for us unto the Father." ([3 Ne.
-17:15-17](https://www.lds.org/scriptures/bofm/3-ne/17.15-17?lang=eng#14).)
+17:15-17](/scriptures/bofm/3-ne/17.15-17?lang=eng#14).)
 
 Then he took their little children; one by one, and blessed them and prayed
 for them and said, "Behold your little ones.
@@ -268,8 +261,7 @@ for them and said, "Behold your little ones.
 saw the heavens open, and they saw angels descending out of heaven as it were
 in the midst of fire; and they came down and encircled those little ones
 about, and they were encircled about with fire; and the angels did minister
-unto them." ([3 Ne.
-17:23-24](https://www.lds.org/scriptures/bofm/3-ne/17.23-24?lang=eng#22).)
+unto them." ([3 Ne. 17:23-24](/scriptures/bofm/3-ne/17.23-24?lang=eng#22).)
 
 He instituted the sacrament among them, administering it to his disciples, and
 having them give it to the multitude. He acknowledged their desire to have the
@@ -282,7 +274,7 @@ should be called in his name. He again warned them to repent, saying:
 "Now this is the commandment: Repent, all ye ends of the earth, and come unto
 me and be baptized in my name, that ye may be sanctified by the reception of
 the Holy Ghost, that ye may stand spotless before me at the last day." ([3 Ne.
-27:20](https://www.lds.org/scriptures/bofm/3-ne/27.20?lang=eng#19).)
+27:20](/scriptures/bofm/3-ne/27.20?lang=eng#19).)
 
 All these teachings did Christ give to those Nephite people as he came to them
 as a resurrected Being. We have these same teachings in his church today, and
@@ -291,4 +283,6 @@ our Father and his Son Jesus Christ as the Savior of the world; that we will
 accept and follow President Spencer W. Kimball as a prophet of God; and that
 we might enjoy the promised blessings for so doing. In the name of Jesus
 Christ. Amen.
+
+## References
 

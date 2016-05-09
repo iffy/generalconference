@@ -54,7 +54,7 @@ down before me.
 
 "Jesus saith unto him, Rise, take up thy bed, and walk.
 
-"And immediately the man was made whole, and took up his bed, and walked." [1]
+"And immediately the man was made whole, and took up his bed, and walked."[1]
 
 Another scene of suffering and sorrow is found in the famous Tate Gallery in
 London, England. There adorns the wall of a much-traveled corridor a
@@ -143,7 +143,7 @@ Jesus Christ:
 Magdalene and the other Mary] came unto the sepulchre." To their astonishment,
 the body of their Lord was gone. Luke records that two men in shining garments
 stood by them and said, "Why seek ye the living among the dead? He is not
-here, but is risen." [2]
+here, but is risen."[2]
 
 Against the philosophy rampant in today's world--a doubting of the
 authenticity of the Sermon on the Mount, an abandonment of Christ's teaching,
@@ -151,17 +151,17 @@ a denial of God, and a rejection of His laws--the Olsons and true believers
 everywhere treasure the testimonies of eyewitnesses to His resurrection.
 Stephen, doomed to the cruel death of a martyr, looked up to heaven and cried,
 "Behold, I see the heavens opened, and the Son of man standing on the right
-hand of God." [3]
+hand of God."[3]
 
 Saul, on the road to Damascus, had a vision of the risen, exalted Christ.
 Peter and John also testified of the risen Christ. And in our dispensation,
 the Prophet Joseph Smith bore eloquent testimony of the Son of God, for he saw
-Him and heard the Father introduce him: _"This is My Beloved Son. Hear Him!"_
-[4]
+Him and heard the Father introduce him: _"This is My Beloved Son. Hear
+Him!"_[4]
 
 As we ponder the events that can befall all of us--even sickness, accident,
 death, and a host of lesser challenges, we can say, with Job of old, "Man is
-born unto trouble." [5]  Needless to add, that reference to man in the King
+born unto trouble."[5] Needless to add, that reference to man in the King
 James Version of the book of Job encompasses women as well. It may be safely
 assumed that no person has ever lived entirely free of suffering and
 tribulation. Nor has there ever been a period in human history that did not
@@ -177,23 +177,23 @@ would be glad to take up their own and depart."
 However, at times there appears to be no light at the tunnel's end--no dawn to
 break the night's darkness. We feel surrounded by the pain of broken hearts,
 the disappointment of shattered dreams, and the despair of vanished hopes. We
-join in uttering the biblical plea, "Is there no balm in Gilead?" [6]  We are
+join in uttering the biblical plea, "Is there no balm in Gilead?"[6] We are
 inclined to view our own personal misfortunes through the distorted prism of
 pessimism. We feel abandoned, heartbroken, alone.
 
 To all who so despair, may I offer the assurance of the Psalmist's words:
-"Weeping may endure for a night, but joy cometh in the morning." [7]
+"Weeping may endure for a night, but joy cometh in the morning."[7]
 
 Whenever we are inclined to feel burdened down with the blows of life's fight,
 let us remember that others have passed the same way, have endured, and then
 have overcome.
 
-Job was a perfect and an upright man who "feared God, and eschewed evil." [8]
+Job was a perfect and an upright man who "feared God, and eschewed evil."[8]
 Pious in his conduct, prosperous in his fortune, Job was to face a test which
 would tempt any man. Shorn of his possessions, scorned by his friends,
 afflicted by his suffering, even tempted by his wife, Job was to declare from
 the depths of his noble soul, "Behold, my witness is in heaven, and my record
-is on high." [9]  "I know that my redeemer liveth." [10]
+is on high."[9] "I know that my redeemer liveth."[10]
 
 Turning to our own time, let me share with you an example of faith, of
 courage, of compassion, of victory. It illustrates how it is possible to meet
@@ -241,7 +241,7 @@ _And it always comes with the years,_
 
 _And the smile that is worth the praises of earth_
 
-_Is the smile that shines through tears._ [11]
+_Is the smile that shines through tears._[11]
 
 There is one life that sustains those who are troubled or beset with sorrow
 and grief--even the Lord Jesus Christ. Foretelling His coming, the prophet
@@ -257,7 +257,7 @@ him stricken, smitten of God, and afflicted.
 
 "But he was wounded for our transgressions, he was bruised for our iniquities:
 the chastisement of our peace was upon him; and with his stripes we are
-healed." [12]
+healed."[12]
 
 Yes, our Lord and Savior, Jesus Christ, is our Exemplar and our strength. He
 is the light that shineth in darkness. He is the Good Shepherd. Though engaged
@@ -280,7 +280,7 @@ not.
 said, Young man, I say unto thee, Arise.
 
 "And he that was dead sat up, and began to speak. And he delivered him to his
-mother." [13]
+mother."[13]
 
 What power, what tenderness, what compassion did our Master thus demonstrate!
 We, too, can bless if we will but follow His noble example. Opportunities are
@@ -290,7 +290,7 @@ that we might communicate not only eye to eye or voice to ear but, in the
 majestic style of the Savior, even heart to heart.
 
 His words become our guide: "In the world ye shall have tribulation: but be of
-good cheer; I have overcome the world." [14]
+good cheer; I have overcome the world."[14]
 
 He lives. He will sustain each of us. May we keep His commandments. May we
 ever follow Him and merit His companionship, that we may successfully meet and
@@ -299,31 +299,31 @@ Christ, amen.
 
 ## References
 
-  1.   [John 5:2-9](https://www.lds.org/scriptures/nt/john/5.2-9?lang=eng#1).
+  1. [John 5:2-9](https://www.lds.org/scriptures/nt/john/5.2-9?lang=eng#1).
 
-  2.   [Luke 24:1-6](https://www.lds.org/scriptures/nt/luke/24.1-6?lang=eng#0).
+  2. [Luke 24:1-6](https://www.lds.org/scriptures/nt/luke/24.1-6?lang=eng#0).
 
-  3.   [Acts 7:56](https://www.lds.org/scriptures/nt/acts/7.56?lang=eng#55).
+  3. [Acts 7:56](https://www.lds.org/scriptures/nt/acts/7.56?lang=eng#55).
 
-  4.   [JS--H 1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).
+  4. [JS--H 1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).
 
-  5.   [Job 5:7](https://www.lds.org/scriptures/ot/job/5.7?lang=eng#6).
+  5. [Job 5:7](https://www.lds.org/scriptures/ot/job/5.7?lang=eng#6).
 
-  6.   [Jer. 8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).
+  6. [Jer. 8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).
 
-  7.   [Ps. 30:5](https://www.lds.org/scriptures/ot/ps/30.5?lang=eng#4).
+  7. [Ps. 30:5](https://www.lds.org/scriptures/ot/ps/30.5?lang=eng#4).
 
-  8.   [Job 1:1](https://www.lds.org/scriptures/ot/job/1.1?lang=eng#0).
+  8. [Job 1:1](https://www.lds.org/scriptures/ot/job/1.1?lang=eng#0).
 
-  9.  Ibid., [Job 16:19](https://www.lds.org/scriptures/ot/job/16.19?lang=eng#18).
+  9. Ibid., [Job 16:19](https://www.lds.org/scriptures/ot/job/16.19?lang=eng#18).
 
-  10.  Ibid., [Job 19:25](https://www.lds.org/scriptures/ot/job/19.25?lang=eng#24).
+  10. Ibid., [Job 19:25](https://www.lds.org/scriptures/ot/job/19.25?lang=eng#24).
 
-  11.  "Worth While," in _The Best Loved Poems of the American People, _ sel. Hazel Felleman (Garden City, New York: Doubleday, 1936), p. 144.
+  11. "Worth While," in _The Best Loved Poems of the American People, _ sel. Hazel Felleman (Garden City, New York: Doubleday, 1936), p. 144.
 
-  12.   [Isa. 53:2-5](https://www.lds.org/scriptures/ot/isa/53.2-5?lang=eng#1).
+  12. [Isa. 53:2-5](https://www.lds.org/scriptures/ot/isa/53.2-5?lang=eng#1).
 
-  13.   [Luke 7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).
+  13. [Luke 7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).
 
-  14.   [John 16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).
+  14. [John 16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).
 

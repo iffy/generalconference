@@ -41,7 +41,7 @@ The law of the fast is basic in the Church. Isaiah declared:
 "Is not this the fast that I have chosen?
 
 "... Is it not to deal thy bread to the hungry?" ([Isa.
-58:6-7](https://www.lds.org/scriptures/ot/isa/58.6-7?lang=eng#5).)
+58:6-7](/scriptures/ot/isa/58.6-7?lang=eng#5).)
 
 Like many other biblical practices, it was restored by the Lord in our day
 through the Prophet Joseph Smith.
@@ -63,13 +63,12 @@ that ye should impart of your substance to the poor, every man according to
 that which he hath, such as feeding the hungry, clothing the naked, visiting
 the sick and administering to their relief, both spiritually and temporally,
 according to their wants." ([Mosiah
-4:26](https://www.lds.org/scriptures/bofm/mosiah/4.26?lang=eng#25).)
+4:26](/scriptures/bofm/mosiah/4.26?lang=eng#25).)
 
 Do we need to be reminded that included in our baptismal covenant is our
 pledge to bear one another's burdens that they may be light, to mourn with
 those that mourn, and to comfort those that stand in need of comfort? (See
-[Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7).)
+[Mosiah 18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7).)
 
 The longer I live, the more impressed I am with the Lord's system of caring
 for the poor and needy. Surely no man would think of such a simple yet
@@ -99,13 +98,12 @@ unto the Lord their God, and laid them by heaps.
 Lord, and his people Israel.
 
 "Then Hezekiah questioned with the priests and the Levites concerning the
-heaps." ([2 Chr. 31:6,
-8-9](https://www.lds.org/scriptures/ot/2-chr/31.6%2C8-9?lang=eng#5).)
+heaps." ([2 Chr. 31:6, 8-9](/scriptures/ot/2-chr/31.6,8-9?lang=eng#5).)
 
 The answer was, "Since the people began to bring the offerings into the house
 of the Lord, we have had enough to eat, and have left plenty: for the Lord
 hath blessed his people; and that which is left is this great store." ([2 Chr.
-31:10](https://www.lds.org/scriptures/ot/2-chr/31.10?lang=eng#9).)
+31:10](/scriptures/ot/2-chr/31.10?lang=eng#9).)
 
 We have said a lot today about President Romney and what he has declared about
 the welfare program. Could I add another statement:
@@ -165,7 +163,7 @@ the Spirit into the wilderness,
 
 "Being forty days tempted of the devil. And in those days he did eat nothing:
 and when they were ended, he afterward hungered." ([Luke
-4:1-2](https://www.lds.org/scriptures/nt/luke/4.1-2?lang=eng#0).)
+4:1-2](/scriptures/nt/luke/4.1-2?lang=eng#0).)
 
 And the devil used all his cunning ways to tempt the Savior to abandon His
 mission. To this the Savior responded: "Get thee behind me, Satan: for it is
@@ -176,7 +174,7 @@ season.
 
 "And Jesus returned in the power of the Spirit into Galilee: and there went
 out a fame of him through all the region round about." ([Luke 4:8,
-13-14](https://www.lds.org/scriptures/nt/luke/4.8%2C13-14?lang=eng#7).)
+13-14](/scriptures/nt/luke/4.8,13-14?lang=eng#7).)
 
 Fasting had blessed Him with the power of the Spirit.
 
@@ -195,7 +193,7 @@ when they taught, they taught with power and authority of God.
 among the Lamanites, having had much success in bringing many to the knowledge
 of the truth; yea, by the power of their words many were brought before the
 altar of God, to call on his name and confess their sins before him." ([Alma
-17:3-4](https://www.lds.org/scriptures/bofm/alma/17.3-4?lang=eng#2).)
+17:3-4](/scriptures/bofm/alma/17.3-4?lang=eng#2).)
 
 These are only two examples of the many we can find in the scriptures where
 fasting and prayer for a purpose bring forth a special spiritual power. This
@@ -234,4 +232,6 @@ leadership He has provided for us here on earth that we may fulfill our
 obligations and responsibilities and be blessed by His hand, both spiritually
 and temporally, as we follow His plan, is my prayer, in the name of Jesus
 Christ, amen.
+
+## References
 

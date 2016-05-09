@@ -60,12 +60,11 @@ and its truth means leaving the world and its earthly desires behind and
 building Zion around ourselves. When Christ walked the earth to prepare the
 way for his disciples, standing in purity and bearing testimony of the truth,
 he was a light in the darkness, and the darkness knew him not (see [John
-1:5](https://www.lds.org/scriptures/nt/john/1.5?lang=eng#4)). The darkness
-organized itself to destroy him. Christ knew that this would happen, not only
-to him but also to all his true disciples. He said, in speaking to his
-followers, in [Matt.
-10:22](https://www.lds.org/scriptures/nt/matt/10.22?lang=eng#21), "And ye
-shall be hated of all men for my name's sake."
+1:5](/scriptures/nt/john/1.5?lang=eng#4)). The darkness organized itself to
+destroy him. Christ knew that this would happen, not only to him but also to
+all his true disciples. He said, in speaking to his followers, in [Matt.
+10:22](/scriptures/nt/matt/10.22?lang=eng#21), "And ye shall be hated of all
+men for my name's sake."
 
 When we really follow Christ in his true restored church, it will be
 manifested in our lives. The fruit will follow. The Holy Ghost will lead us to
@@ -75,7 +74,7 @@ satisfaction and joy and happiness. Through the instrument of an ongoing
 communication with our Heavenly Father--a constant prayer in our hearts for
 direction in the many little decisions in our lives--we feel the softness of
 the yoke of Christ, as he said in [Matt. 11:28,
-30](https://www.lds.org/scriptures/nt/matt/11.28%2C30?lang=eng#27):
+30](/scriptures/nt/matt/11.28,30?lang=eng#27):
 
 "Come unto me, all ye that labour and are heavy laden, and I will give you
 rest. ...
@@ -90,9 +89,9 @@ all kinds of philosophies and religions to lead people astray, to make them
 feel happy and safe in their man-made rationalizing and wickedness. He wants
 them to forget that someday we all have to stand in the judgment of Christ and
 report our deeds and words. The Savior said in [Matt.
-12:36](https://www.lds.org/scriptures/nt/matt/12.36?lang=eng#35), "But I say
-unto you, That every idle word that men shall speak, they shall give account
-thereof in the day of judgment."
+12:36](/scriptures/nt/matt/12.36?lang=eng#35), "But I say unto you, That every
+idle word that men shall speak, they shall give account thereof in the day of
+judgment."
 
 We are living in the glorious days of fulfillment eagerly awaited by the
 prophets of old--Enoch, Isaiah, Daniel, Paul, and many others. In our day the
@@ -104,8 +103,8 @@ Jesus Christ. We testify with the angels that these are the days of warning
 for the people of the nations of the world, and that the time is near when it
 will be too late. We testify with the words of Amulek, a Book of Mormon
 prophet, recorded in [Alma
-34:32-33](https://www.lds.org/scriptures/bofm/alma/34.32-33?lang=eng#31) and
-[Alma 35](https://www.lds.org/scriptures/bofm/alma/35.title?lang=eng):
+34:32-33](/scriptures/bofm/alma/34.32-33?lang=eng#31) and [Alma
+35](/scriptures/bofm/alma/35?lang=eng):
 
 "For behold, this life is the time for men ... to perform their labors.
 
@@ -137,11 +136,11 @@ Covenants 58:64:
 "For, verily, the sound must go forth from this place into all the world, and
 unto the uttermost parts of the earth--the gospel must be preached unto every
 creature, with signs following them that believe." [[D&amp;C
-58:64](https://www.lds.org/scriptures/dc-testament/dc/58.64?lang=eng#63)]
+58:64](/scriptures/dc-testament/dc/58.64?lang=eng#63)]
 
 This work in these latter days is bringing to pass the prophecy of the prophet
 Enoch, the seventh from Adam, recorded in the Pearl of Great Price, [Moses
-7:62](https://www.lds.org/scriptures/pgp/moses/7.62?lang=eng#61):
+7:62](/scriptures/pgp/moses/7.62?lang=eng#61):
 
 "And righteousness will I send down out of heaven; and truth will I send forth
 out of the earth, to bear testimony of mine Only Begotten; his resurrection
@@ -158,4 +157,6 @@ able to escape the decision to accept God as he really is and not as he has
 been made to appear according to man-made philosophies. I know that this is
 the work of the living God, working through a living prophet, Spencer W.
 Kimball. I say this in humility in the name of our Savior, Jesus Christ, amen.
+
+## References
 

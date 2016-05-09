@@ -29,7 +29,7 @@ as we see the prophecies of times past being unfolded before our very eyes.
 Some have a feeling of frustration, anxiety, anger, and yes, even fear. But
 remember that Paul, in his letters to Timothy, counseled: "For God hath not
 given us the spirit of fear; but of power, and of love, and of a sound mind."
-([2 Tim. 1:7](https://www.lds.org/scriptures/nt/2-tim/1.7?lang=eng#6).)
+([2 Tim. 1:7](/scriptures/nt/2-tim/1.7?lang=eng#6).)
 
 May I suggest that the steps we can take to dispel fear and bring peace and
 power are really very simple. The teachings of the gospel are not complicated.
@@ -38,11 +38,11 @@ blinded by the craftiness of men.
 
 Nephi once said that because of the simpleness of the way or the easiness of
 it, there were many who perished. (See [1 Ne.
-17:41](https://www.lds.org/scriptures/bofm/1-ne/17.41?lang=eng#40).) Jacob put
-it another way when he said that they became blinded because they were
-continually looking beyond the mark in their search for answers. (See [Jacob
-4:14](https://www.lds.org/scriptures/bofm/jacob/4.14?lang=eng#13).) They
-didn't believe in the simplicity of the gospel teachings.
+17:41](/scriptures/bofm/1-ne/17.41?lang=eng#40).) Jacob put it another way
+when he said that they became blinded because they were continually looking
+beyond the mark in their search for answers. (See [Jacob
+4:14](/scriptures/bofm/jacob/4.14?lang=eng#13).) They didn't believe in the
+simplicity of the gospel teachings.
 
 Yes, it is true that a family beset with trials and concerns seems to be the
 constant pattern of our mortal existence. However true this fact may be, it
@@ -55,12 +55,12 @@ can do. He said:
 
 "But learn that he who doeth the works of righteousness shall receive his
 reward, even _peace_ in this world, and _eternal life_ in the world to come."
-([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
-testament/dc/59.23?lang=eng#22). Italics added.)
+([D&amp;C 59:23](/scriptures/dc-testament/dc/59.23?lang=eng#22). Italics
+added.)
 
 "Learn of me, and listen to my words; walk in the meekness of my Spirit, and
-you shall have peace in me." ([D&amp;C 19:23](https://www.lds.org/scriptures
-/dc-testament/dc/19.23?lang=eng#22).)
+you shall have peace in me." ([D&amp;C 19:23](/scriptures/dc-
+testament/dc/19.23?lang=eng#22).)
 
 Could this be our answer? I find in these scriptures some very clear
 instructions and comforting promises. May I discuss just one of many
@@ -79,8 +79,7 @@ you ever thought in depth on the following scriptural passage?
 "But whoso shall _offend one of these little ones_ which believe in me, it
 were better for him that a millstone were hanged about his neck, and that he
 were drowned in the depth of the sea." ([Matt.
-18:5-6](https://www.lds.org/scriptures/nt/matt/18.5-6?lang=eng#4). Italics
-added.)
+18:5-6](/scriptures/nt/matt/18.5-6?lang=eng#4). Italics added.)
 
 "Wo unto them; because they have _offended my little ones_ they shall be
 severed from the ordinances of mine house.
@@ -89,8 +88,7 @@ severed from the ordinances of mine house.
 and they themselves shall be despised by those that flattered them.
 
 "They shall not have right to the priesthood, nor their posterity after them
-from generation to generation." ([D&amp;C
-121:19-21](https://www.lds.org/scriptures/dc-
+from generation to generation." ([D&amp;C 121:19-21](/scriptures/dc-
 testament/dc/121.19-21?lang=eng#18).)
 
 Might it not be an offense of the greatest magnitude if we don't teach them of
@@ -100,9 +98,8 @@ of His Spirit? Let us ponder that in our hearts.
 As we consider how we might better learn of Him and teach of Him, may I
 suggest one of the great blessings your family may be missing out on is the
 simple experience of reading the scriptures together daily. We read in
-Deuteronomy 6:6-7 [[Deut.
-6:6-7](https://www.lds.org/scriptures/ot/deut/6.6-7?lang=eng#5)], "And these
-words, which I command thee this day, shall be in thine heart:
+Deuteronomy 6:6-7 [[Deut. 6:6-7](/scriptures/ot/deut/6.6-7?lang=eng#5)], "And
+these words, which I command thee this day, shall be in thine heart:
 
 "And thou shalt teach them diligently unto thy children, and shalt talk of
 them when thou sittest in thine house."
@@ -175,16 +172,16 @@ children at our home.
 Can you imagine how a parent would feel to ask a little girl, "What did King
 Benjamin mean when he said, 'When ye are in the service of your fellow beings
 ye are only in the service of your God'?" ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).) And she
-would respond, "I suppose he means that I shouldn't be selfish and should do
-little things for my sisters because it makes Heavenly Father happy--and
-Daddy, I want him to be happy with me, so I'm going to try harder."
-Innumerable are the blessings that will accrue to the family that persists in
-this noble effort of reading the scriptures together daily.
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).) And she would respond, "I
+suppose he means that I shouldn't be selfish and should do little things for
+my sisters because it makes Heavenly Father happy--and Daddy, I want him to be
+happy with me, so I'm going to try harder." Innumerable are the blessings that
+will accrue to the family that persists in this noble effort of reading the
+scriptures together daily.
 
 Remember he said, "Learn of me, and listen to my words; walk in the meekness
-of my Spirit, and you shall have peace in me." ([D&amp;C
-19:23](https://www.lds.org/scriptures/dc-testament/dc/19.23?lang=eng#22).)
+of my Spirit, and you shall have peace in me." ([D&amp;C 19:23](/scriptures
+/dc-testament/dc/19.23?lang=eng#22).)
 
 This is a peace that surpasseth all understanding, a peace and a security that
 will support us through any time and any trial, a peace that will dispel the
@@ -194,7 +191,9 @@ May the Lord bless us with the understanding and dedication not to offend his
 little ones. May he strengthen us with a resolve to teach them of him in our
 homes through the simple experiences of the gospel. May he bless us to
 understand his words: "If ye are prepared ye shall not fear." ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29).)
 
 In the name of Jesus Christ. Amen.
+
+## References
 

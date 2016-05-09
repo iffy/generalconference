@@ -28,8 +28,8 @@ Church members in all parts of the world. Those who received were certainly
 blessed, but those who gave were even more so. When we give generously to the
 Lord, we receive from him that which is of greater value than our offering.
 When we keep his commandments, "He doth immediately bless" us. ([Mosiah
-2:24](https://www.lds.org/scriptures/bofm/mosiah/2.24?lang=eng#23).) It is
-impossible to place the Lord in our debt.
+2:24](/scriptures/bofm/mosiah/2.24?lang=eng#23).) It is impossible to place
+the Lord in our debt.
 
 Some time ago, Dr. James O. Mason, who was associated with us in the Welfare
 Services Department, was visiting one of the developing countries of the
@@ -67,18 +67,17 @@ seat to do the Lord's work. After great spiritual success in various cities,
 Alma traveled to the city of Ammonihah, where, the scriptures report, "Satan
 had gotten great hold upon the hearts of the people," and "they would not
 hearken unto the words of Alma." ([Alma
-8:9](https://www.lds.org/scriptures/bofm/alma/8.9?lang=eng#8).)
+8:9](/scriptures/bofm/alma/8.9?lang=eng#8).)
 
 Alma labored much in the spirit and wrestled with God in mighty prayer.
 Nevertheless, the people reviled him, spit upon him, and cast him out of their
-city. (See [Alma
-8:13](https://www.lds.org/scriptures/bofm/alma/8.13?lang=eng#12).)
+city. (See [Alma 8:13](/scriptures/bofm/alma/8.13?lang=eng#12).)
 
 As he was traveling away from the city, Alma was met by an angel of the Lord,
 who directed him to return again to Ammonihah to call upon the people to
 repent. Alma followed the angel's instructions. He reports that this time he
 fasted many days before re-entering the city. (See [Alma
-8:26](https://www.lds.org/scriptures/bofm/alma/8.26?lang=eng#25).)
+8:26](/scriptures/bofm/alma/8.26?lang=eng#25).)
 
 His fasting was almost immediately rewarded. He found that righteous forces
 had been at work, preparing the way before him. When he entered the city
@@ -87,7 +86,7 @@ an humble servant of God something to eat?" The stranger's response was, "I
 know that thou art a holy prophet of God, for thou art the man whom an angel
 said in a vision: Thou shalt receive. Therefore, go with me into my house and
 I will impart unto thee of my food." ([Alma
-8:19-20](https://www.lds.org/scriptures/bofm/alma/8.19-20?lang=eng#18).)
+8:19-20](/scriptures/bofm/alma/8.19-20?lang=eng#18).)
 
 This was Amulek, who had been specially prepared to receive a prophet of God
 and who would share in his work. As a result of his fast, Alma was assured by
@@ -108,19 +107,18 @@ that it be made bread.
 
 "And Jesus answered him, saying, It is written, That man shall not live by
 bread alone, but by every word of God." ([Luke
-4:2-4](https://www.lds.org/scriptures/nt/luke/4.2-4?lang=eng#1).)
+4:2-4](/scriptures/nt/luke/4.2-4?lang=eng#1).)
 
 After this the Devil used all his cunning to tempt the Savior to abandon his
 mission. His response, as recorded in St. Luke again: "Get thee behind me,
 Satan: for it is written, Thou shalt worship the Lord thy God, and him only
-shalt thou serve." ([Luke
-4:8](https://www.lds.org/scriptures/nt/luke/4.8?lang=eng#7).)
+shalt thou serve." ([Luke 4:8](/scriptures/nt/luke/4.8?lang=eng#7).)
 
 "And when the devil had ended all the temptation, he departed from him for a
 season.
 
 "And Jesus returned in the power of the Spirit into Galilee." ([Luke
-4:13-14](https://www.lds.org/scriptures/nt/luke/4.13-14?lang=eng#12).)
+4:13-14](/scriptures/nt/luke/4.13-14?lang=eng#12).)
 
 These powerful examples of living the law of the fast teach some basic
 lessons. First, there needs to be a purpose associated with fasting. The
@@ -139,40 +137,10 @@ enough simply to refrain from two consecutive meals, whether the fast is the
 regular monthly fast or another, private fast. There are many appropriate
 purposes for fasting. Some are:
 
-  1. To overcome the temptations of Satan as the Savior did:
-
-"Is not this the fast that I have chosen? to loose the bands of wickedness, to
-undo the heavy burdens, and to let the oppressed go free, and that ye break
-every yoke?" ([Isa.
-58:6](https://www.lds.org/scriptures/ot/isa/58.6?lang=eng#5).)
-
-  2. To assist the poor and the needy.
-
-"Is it not to deal thy bread to the hungry, and that thou bring the poor that
-are cast out to thy house? when thou seest the naked, that thou cover him; and
-that thou hide not thyself from thine own flesh?" ([Isa.
-58:7](https://www.lds.org/scriptures/ot/isa/58.7?lang=eng#6).)
-
-  3. To achieve success in life:
-
-"Then shall thy light break forth as the morning, and thine health shall
-spring forth speedily: and thy righteousness shall go before thee; the glory
-of the Lord shall be thy rereward." ([Isa.
-58:8](https://www.lds.org/scriptures/ot/isa/58.8?lang=eng#7).)
-
-  4. To humble and prepare ourselves to communicate with the Lord:
-
-Again in Isaiah we read, "Then shalt thou call, and the Lord shall answer;
-thou shalt cry, and he shall say, Here I am. If thou take away from the midst
-of thee the yoke, the putting forth of the finger, and speaking vanity;
-
-"And if thou draw out thy soul to the hungry, and satisfy the afflicted soul;
-then shall thy light rise in obscurity, and thy darkness be as the noonday:
-
-"And the Lord shall guide thee continually, and satisfy thy soul in drought,
-and make fat thy bones: and thou shalt be like a watered garden, and like a
-spring of water, whose waters fail not." ([Isa.
-58:9-11](https://www.lds.org/scriptures/ot/isa/58.9-11?lang=eng#8).)
+  1. To overcome the temptations of Satan as the Savior did: "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?" ([Isa. 58:6](/scriptures/ot/isa/58.6?lang=eng#5).) 
+  2. To assist the poor and the needy. "Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?" ([Isa. 58:7](/scriptures/ot/isa/58.7?lang=eng#6).) 
+  3. To achieve success in life: "Then shall thy light break forth as the morning, and thine health shall spring forth speedily: and thy righteousness shall go before thee; the glory of the Lord shall be thy rereward." ([Isa. 58:8](/scriptures/ot/isa/58.8?lang=eng#7).) 
+  4. To humble and prepare ourselves to communicate with the Lord: Again in Isaiah we read, "Then shalt thou call, and the Lord shall answer; thou shalt cry, and he shall say, Here I am. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity; "And if thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness be as the noonday: "And the Lord shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not." ([Isa. 58:9-11](/scriptures/ot/isa/58.9-11?lang=eng#8).) 
 
 Fasting and prayer is a positive experience. It is a form of worship
 especially commended by the Lord. As we fast with prayer, we demonstrate our
@@ -226,4 +194,6 @@ May we, the Priesthood and Relief Society officers of the Church throughout
 the world, show our people the way, that all may be prepared to live the
 higher law when the Lord so indicates, I pray in the name of the Lord Jesus
 Christ. Amen.
+
+## References
 

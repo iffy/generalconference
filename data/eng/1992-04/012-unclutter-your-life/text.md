@@ -137,11 +137,10 @@ pondering and waiting for the answers to come.
 As you examine your list of basics, the next question would be, do I study the
 scriptures? If you do, you know that Lehi saw a rod of iron, which,
 interpreted, means the word of God. (See [1 Ne.
-11:1-23](https://www.lds.org/scriptures/bofm/1-ne/11.1-23?lang=eng#0).) Those
-who held to the rod, using it as a guide at all times, came safely through the
-mist of darkness and arrived at the tree of life and partook of its glorious
-fruit. (See [1 Ne. 8:19,
-30](https://www.lds.org/scriptures/bofm/1-ne/8.19%2C30?lang=eng#18).)
+11:1-23](/scriptures/bofm/1-ne/11.1-23?lang=eng#0).) Those who held to the
+rod, using it as a guide at all times, came safely through the mist of
+darkness and arrived at the tree of life and partook of its glorious fruit.
+(See [1 Ne. 8:19, 30](/scriptures/bofm/1-ne/8.19,30?lang=eng#18).)
 
 Now the question again: do you study the scriptures? I solemnly testify that
 the holy scriptures are the word of God. Constant study of them is the act of
@@ -172,4 +171,6 @@ agency from the subtleness of Satan and live our lives bright and clear and on
 the path that leads us back to the presence of our Holy Father.
 
 In the name of Jesus Christ, amen.
+
+## References
 

@@ -12,8 +12,7 @@ purpose. Observing them in the intensity of their interest, even in this
 atmosphere, my mind reverted to that beautiful and touching scene recorded in
 the book of Third Nephi when the resurrected Lord took little children in his
 arms and wept as he blessed them and said to the people, "Behold your little
-ones" ([3 Ne.
-17:23](https://www.lds.org/scriptures/bofm/3-ne/17.23?lang=eng#22)).
+ones" ([3 Ne. 17:23](/scriptures/bofm/3-ne/17.23?lang=eng#22)).
 
 It is so obvious that the great good and the terrible evil in the world today
 are the sweet and the bitter fruits of the rearing of yesterday's children. As
@@ -21,7 +20,7 @@ we train a new generation, so will the world be in a few years. If you are
 worried about the future, then look to the upbringing of your children. Wisely
 did the writer of Proverbs declare, "Train up a child in the way he should go:
 and when he is old, he will not depart from it" ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5)).
+22:6](/scriptures/ot/prov/22.6?lang=eng#5)).
 
 When I was a boy, we lived in the summer on a fruit farm. We grew great
 quantities of peaches--carloads of them. Our father took us to tree pruning
@@ -45,7 +44,7 @@ forces in the world are babies." (_The Treasure Chest,_ p. 53.)
 And those babies, I should like to add, will become forces for good or ill,
 depending in large measure on how they are reared. The Lord, without
 equivocation, has declared, "I have commanded you to bring up your children in
-light and truth" ([D&amp;C 93:40](https://www.lds.org/scriptures/dc-
+light and truth" ([D&amp;C 93:40](/scriptures/dc-
 testament/dc/93.40?lang=eng#39)).
 
 If I may be pardoned for suggesting the obvious, I do so only because the
@@ -92,10 +91,9 @@ no man who is a professed follower of Christ and no man who is a professed
 member of this church can engage in such practices without offending God and
 repudiating the teachings of his Son. It was Jesus himself who, while holding
 before us the example of the purity and innocence of children, declared,
-"Whoso shall offend one of these little ones ... , it were better for him that a
+"Whoso shall offend one of these little ones ..., it were better for him that a
 millstone were hanged about his neck, and that he were drowned in the depth of
-the sea" ([Matt.
-18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5)).
+the sea" ([Matt. 18:6](/scriptures/nt/matt/18.6?lang=eng#5)).
 
 Could there be a stronger denunciation of those who abuse children than these
 words spoken by the Savior of mankind? Do you want a spirit of love to grow in
@@ -122,16 +120,16 @@ problem. It is self-defeating. The Lord, in setting forth the spirit of
 governance in his church has also set forth the spirit of governance in the
 home in these great words of revelation:
 
-"No power or influence can or ought to be maintained ... , only by persuasion,
-by long-suffering, by gentleness and meekness, and by love unfeigned;
+"No power or influence can or ought to be maintained ..., only by persuasion, by
+long-suffering, by gentleness and meekness, and by love unfeigned;
 
 "Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then
 showing forth afterwards an increase of love toward him whom thou hast
 reproved, lest he esteem thee to be his enemy;
 
 "That he may know that thy faithfulness is stronger than the cords of death."
-([D&amp;C 121:41, 43-44](https://www.lds.org/scriptures/dc-
-testament/dc/121.41%2C43-44?lang=eng#40).)
+([D&amp;C 121:41, 43-44](/scriptures/dc-
+testament/dc/121.41,43-44?lang=eng#40).)
 
 Behold your little ones and teach them. I need not remind you that your
 example will do more than anything else in impressing upon their minds a
@@ -161,7 +159,7 @@ contrary manner and weep while their wayward sons and daughters willfully
 pursue courses of tragic consequence. For such I have great sympathy, and to
 them I am wont to quote the words of Ezekiel: "The son shall not bear the
 iniquity of the father, neither shall the father bear the iniquity of the son"
-([Ezek. 18:20](https://www.lds.org/scriptures/ot/ezek/18.20?lang=eng#19)).
+([Ezek. 18:20](/scriptures/ot/ezek/18.20?lang=eng#19)).
 
 But such is the exception rather than the rule. Nor does the exception justify
 others of us from making every effort in showing forth love, example, and
@@ -175,7 +173,7 @@ principle. In fact, the Lord made it clear that unless we develop in our own
 lives that purity, that lack of guile, that innocence of evil, we cannot enter
 into his presence. Declared he, "Except ye be converted, and become as little
 children, ye shall not enter into the kingdom of heaven" ([Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2)).
+18:3](/scriptures/nt/matt/18.3?lang=eng#2)).
 
 Channing Pollock once wrote these interesting and provocative words:
 "Contemplating the adolescence through which we scorned the wrong, some of us
@@ -212,10 +210,11 @@ affection in the wisdom and admonition of the Lord.
 
 Said Isaiah of old, "All thy children shall be taught of the Lord; and great
 shall be the peace of thy children" ([Isa.
-54:13](https://www.lds.org/scriptures/ot/isa/54.13?lang=eng#12)). To which I
-add, "Great also shall be the peace and the gladness of their fathers and
-mothers."
+54:13](/scriptures/ot/isa/54.13?lang=eng#12)). To which I add, "Great also
+shall be the peace and the gladness of their fathers and mothers."
 
 For that peace I humbly pray in your behalf as I bear witness of the truth of
 these things, in the name of Jesus Christ. Amen.
+
+## References
 

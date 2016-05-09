@@ -25,13 +25,12 @@ We must at regular and appropriate intervals speak and reassure others of our
 love and the long time it takes to prove it by our actions. Real love does
 take time. The Great Shepherd had the same thoughts in mind when he taught,
 "If ye love me, _keep_ my commandments" ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14); italics
-added) and "If ye love me _feed_ my sheep" ([John
-21:16](https://www.lds.org/scriptures/nt/john/21.16?lang=eng#15); italics
-added). Love demands action if it is to be continuing. Love is a process. Love
-is not a declaration. Love is not an announcement. Love is not a passing
-fancy. Love is not an expediency. Love is not a convenience. "If ye love me,
-keep my commandments" and "If ye love me feed my sheep" are God-given
+14:15](/scriptures/nt/john/14.15?lang=eng#14); italics added) and "If ye love
+me _feed_ my sheep" ([John 21:16](/scriptures/nt/john/21.16?lang=eng#15);
+italics added). Love demands action if it is to be continuing. Love is a
+process. Love is not a declaration. Love is not an announcement. Love is not a
+passing fancy. Love is not an expediency. Love is not a convenience. "If ye
+love me, keep my commandments" and "If ye love me feed my sheep" are God-given
 proclamations that should remind us we can often best show our love through
 the processes of _feeding_ and _keeping._
 
@@ -79,7 +78,7 @@ him, Feed my sheep.
 was grieved because he said unto him the third time, Lovest thou me? And he
 said unto him, Lord, thou knowest all things; thou knowest that I love thee.
 Jesus saith unto him, Feed my sheep." ([John
-21:14-17](https://www.lds.org/scriptures/nt/john/21.14-17?lang=eng#13).)
+21:14-17](/scriptures/nt/john/21.14-17?lang=eng#13).)
 
 When were you last fed by a family member or friend? When were you last given
 nourishment for growth and ideas, plans, sorting of the day, sharing of fun,
@@ -197,4 +196,6 @@ keeping,_ and _caring._ I leave you my witness that this Church to which you
 and I have membership is true. It has been restored and preserved through the
 eternal love of a living Heavenly Father and our Savior Jesus. This I say in
 the worthy name of Jesus Christ. Amen.
+
+## References
 

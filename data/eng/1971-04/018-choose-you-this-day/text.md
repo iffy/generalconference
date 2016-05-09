@@ -8,9 +8,8 @@ people.
 
 The subject I have chosen, then, is taken from Joshua: "... choose you this day
 whom ye will serve; ... but as for me and my house, we will serve the Lord."
-([Josh. 24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
-Shortly after saying this, Joshua, being 110 years old, died, leaving this as
-his parting message.
+([Josh. 24:15](/scriptures/ot/josh/24.15?lang=eng#14).) Shortly after saying
+this, Joshua, being 110 years old, died, leaving this as his parting message.
 
 As we have listened to the wonderful talks that have been given in this
 conference, and as we shall listen to those that will follow, I am sure we
@@ -38,7 +37,7 @@ And then he warned: "If ye forsake the Lord, and serve strange gods, then he
 will turn and do you hurt, and consume you, after that he hath done you good."
 And frightened, they responded: "The Lord our God will we serve, and his voice
 will we obey." ([Josh. 24:13-15, 20,
-24](https://www.lds.org/scriptures/ot/josh/24.13-15%2C20%2C24?lang=eng#12).)
+24](/scriptures/ot/josh/24.13-15,20,24?lang=eng#12).)
 
 A parallel to this is found in the story of our pioneer forefathers, who
 because of their religious convictions had to flee from their beautiful city
@@ -59,7 +58,7 @@ As recorded in the Book of Mormon: "Behold, this is a choice land, and
 whatsoever nation shall possess it shall be free from bondage, and from
 captivity, and from all other nations under heaven, if they will but serve the
 God of the land, who is Jesus Christ. ..." ([Ether
-2:12](https://www.lds.org/scriptures/bofm/ether/2.12?lang=eng#11).)
+2:12](/scriptures/bofm/ether/2.12?lang=eng#11).)
 
 What a glorious promise! But we find the same "if" restriction that Joshua
 warned his people about: _"If _ye forsake the Lord, and serve strange gods,
@@ -195,7 +194,7 @@ our city and our country. It is most important that we decide whether or not
 we are going to serve the Lord. He himself said: "No man can serve two
 masters: for either he will hate the one, and love the other; or else he will
 hold to the one, and despise the other. Ye cannot serve God and mammon."
-([Matt. 6:24](https://www.lds.org/scriptures/nt/matt/6.24?lang=eng#23).)
+([Matt. 6:24](/scriptures/nt/matt/6.24?lang=eng#23).)
 
 The choice to serve God, worthily made, does not necessarily preclude a home
 or sufficient money or income, or the things of this world which bring joy and
@@ -218,7 +217,7 @@ moth and rust doth corrupt, and where thieves break through and steal:
 doth corrupt, and where thieves do not break through nor steal:
 
 "For where your treasure is, there will your heart be also." ([Matt.
-6:19-21](https://www.lds.org/scriptures/nt/matt/6.19-21?lang=eng#18).)
+6:19-21](/scriptures/nt/matt/6.19-21?lang=eng#18).)
 
 I wonder about our undue concern for material possessions, for shrines and
 monuments, which crumble and decay. Just the other day I read a news item
@@ -260,8 +259,8 @@ gift of the Holy Ghost by the laying on of the hands, when eight years old,
 the sin be upon the heads of the parents.
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord." ([D&amp;C 68:25, 28](https://www.lds.org/scriptures/dc-
-testament/dc/68.25%2C28?lang=eng#24).)
+before the Lord." ([D&amp;C 68:25, 28](/scriptures/dc-
+testament/dc/68.25,28?lang=eng#24).)
 
 Realizing the importance of such training, the Church urges its members
 religiously to observe family home evenings, to attend seminaries, institutes,
@@ -298,7 +297,7 @@ but have everlasting life.
 
 "For God sent not his Son into the world to condemn the world; but that the
 world through him might be saved." ([John
-3:16-17](https://www.lds.org/scriptures/nt/john/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/john/3.16-17?lang=eng#15).)
 
 Yes, Jesus Christ gave his life for us and gave us the plan by which we can
 enjoy life to the full and work out our salvation. As Richard L. Evans so
@@ -311,4 +310,6 @@ give him in our lives an opportunity to do so."
 I sincerely pray that we will have the courage and strength to humble
 ourselves, accept our Savior, Jesus Christ, and serve him and thereby enjoy
 the blessings which he has promised. In the name of Jesus Christ. Amen.
+
+## References
 

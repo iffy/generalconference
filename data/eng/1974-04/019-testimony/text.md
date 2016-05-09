@@ -73,10 +73,10 @@ day Saints.
 
 In this dispensation the Lord has counseled us to "seek ... out of the best
 books words of wisdom: seek learning, even by study. ..." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
+88:118](/scriptures/dc-testament/dc/88.118?lang=eng#117).)
 
 Jesus said, "... know the truth, and the truth shall make you free." ([John
-8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31).)
+8:32](/scriptures/nt/john/8.32?lang=eng#31).)
 
 I feel sure that part of this freedom Jesus refers to must be freedom from
 ignorance, as ignorance is a deterrent to happiness, growth, and development.
@@ -101,7 +101,7 @@ Christ, he will manifest the truth of it unto you, by the power of the Holy
 Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).)
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).)
 
 Although this promise specifically refers to the Book of Mormon, I am sure as
 you study the Bible, the Doctrine and Covenants, and the Pearl of Great Price
@@ -176,4 +176,6 @@ readily understand why so many Church members bear witness that their
 testimony is their most prized possession.
 
 I bear this witness to you in the name of Jesus Christ. Amen.
+
+## References
 

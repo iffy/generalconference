@@ -74,9 +74,8 @@ air around the shuttle glows red hot. From the ground we look exactly like a
 meteor crossing the sky. Looking out the windows through that fireball is a
 fairly impressive experience. You realize that you are in a fiery furnace
 significantly hotter than the furnace prepared for Shadrach, Meshach, and
-Abed-nego. (See [Dan.
-3:12-30](https://www.lds.org/scriptures/ot/dan/3.12-30?lang=eng#11).) And NASA
-cannot guarantee you the Lord's protection that they had.
+Abed-nego. (See [Dan. 3:12-30](/scriptures/ot/dan/3.12-30?lang=eng#11).) And
+NASA cannot guarantee you the Lord's protection that they had.
 
 The space shuttle on which our lives depended worked flawlessly. I am
 personally convinced that the Lord was watching over us. I had been promised
@@ -112,13 +111,13 @@ through the surface of the aquarium.
 Now, try to imagine what it was like for me to have that scene in front of me
 and then have the fragments of half a dozen scriptures pop into my mind. "The
 heavens declare the glory of God." ([Ps.
-19:1](https://www.lds.org/scriptures/ot/ps/19.1?lang=eng#0).) If you have seen
-the heavens, you have "seen God moving in his majesty and power." ([D&amp;C
-88:47](https://www.lds.org/scriptures/dc-testament/dc/88.47?lang=eng#46).) I
-am sure you can imagine the closeness I felt to my Father in Heaven as I
-looked down at one of His beautiful creations. I was really stirred by an
-increased awareness of what He did for us as the Creator of our earth. That
-was one of the most moving experiences of my life.
+19:1](/scriptures/ot/ps/19.1?lang=eng#0).) If you have seen the heavens, you
+have "seen God moving in his majesty and power." ([D&amp;C 88:47](/scriptures
+/dc-testament/dc/88.47?lang=eng#46).) I am sure you can imagine the closeness
+I felt to my Father in Heaven as I looked down at one of His beautiful
+creations. I was really stirred by an increased awareness of what He did for
+us as the Creator of our earth. That was one of the most moving experiences of
+my life.
 
 Another experience that is very close to me was to have the sacrament in
 orbit. We were in space for a full week, so of course, we were up there on a
@@ -163,4 +162,6 @@ Brethren, it's an honor to be with you this evening. I bear you my testimony
 that we are engaged in the work of the Lord. He lives; He guides His Church;
 these Brethren on this stand are His chosen servants. I bear you that
 testimony in the name of Jesus Christ, amen.
+
+## References
 

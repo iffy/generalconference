@@ -14,9 +14,9 @@ There would be no gift of the Holy Ghost to direct and enlighten us; no
 prophets to speak in the name of the Lord; no temples where we could make
 sacred, eternal covenants; no authority to bless or baptize, to heal or
 comfort. Without the power of the priesthood, "the whole earth would be
-utterly wasted" (see [D&amp;C 2:1-3](https://www.lds.org/scriptures/dc-
-testament/dc/2.1-3?lang=eng#0); [D&amp;C 2:1-3](https://www.lds.org/scriptures
-/dc-testament/dc/2.1-3?lang=eng#0)). There would be no light, no hope--only
+utterly wasted" (see [D&amp;C 2:1-3](/scriptures/dc-
+testament/dc/2.1-3?lang=eng#0); [D&amp;C 2:1-3](/scriptures/dc-
+testament/dc/2.1-3?lang=eng#0)). There would be no light, no hope--only
 darkness.
 
 What a dark world this would be without priesthood blessings for you and me.
@@ -30,23 +30,22 @@ testimony, and revelation. This gift is available on an equal basis to men,
 women, and children. Through the blessings of the priesthood, we can be
 equipped with "the whole armour of God, that [we] may be able to stand against
 the wiles of the devil" (see [Eph.
-6:11-18](https://www.lds.org/scriptures/nt/eph/6.11-18?lang=eng#10)). This
-protection is available to every one of us.
+6:11-18](/scriptures/nt/eph/6.11-18?lang=eng#10)). This protection is
+available to every one of us.
 
 Through the priesthood many other blessings are also available to all of the
 sons and daughters of God, making it possible for us to make sacred covenants
 and receive holy ordinances that enable us to travel that strait and narrow
 way back to our Father in Heaven (see [Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12)).
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12)).
 
 The priesthood is the power of God, which is given to man to act in His name.
 The priesthood of God is timeless. It "was in the beginning, [and] shall be in
-the end of the world also" ([Moses
-6:7](https://www.lds.org/scriptures/pgp/moses/6.7?lang=eng#6); see also
-_History of the Church,_ 3:386). Before this world was created, the premortal
-Council in Heaven was held under the direction of the priesthood. The
-formation of the universe and of the world upon which we live was brought to
-pass--not by chance, but through the power of the priesthood. The great
+the end of the world also" ([Moses 6:7](/scriptures/pgp/moses/6.7?lang=eng#6);
+see also _History of the Church,_ 3:386). Before this world was created, the
+premortal Council in Heaven was held under the direction of the priesthood.
+The formation of the universe and of the world upon which we live was brought
+to pass--not by chance, but through the power of the priesthood. The great
 Creator spoke, and the elements obeyed. The processes of nature that enable us
 to exist on this planet, the resources of this world that sustain life--all
 were set into motion and continue their course through the power of God's
@@ -58,44 +57,40 @@ to live and grow--a place where our Father could bestow the blessings of his
 wondrous priesthood upon us. The priesthood was first given to Adam, who held
 the keys from generation to generation. Adam ordained seven generations of his
 posterity to the priesthood, beginning with his sons Abel and Seth (see
-[D&amp;C 84:16](https://www.lds.org/scriptures/dc-
-testament/dc/84.16?lang=eng#15); [D&amp;C
-107:40-53](https://www.lds.org/scriptures/dc-
-testament/dc/107.40-53?lang=eng#39)). After the death of Adam, the priesthood
-continued from father to son, even until Melchizedek.
+[D&amp;C 84:16](/scriptures/dc-testament/dc/84.16?lang=eng#15); [D&amp;C
+107:40-53](/scriptures/dc-testament/dc/107.40-53?lang=eng#39)). After the
+death of Adam, the priesthood continued from father to son, even until
+Melchizedek.
 
 Originally, this priesthood "was called _the Holy Priesthood, after the Order
 of the Son of God._
 
 "But out of respect or reverence to the name of the Supreme Being, to avoid
 the too frequent repetition of his name, they, the church, in ancient days,
-called that priesthood after Melchizedek" ([D&amp;C
-107:3-4](https://www.lds.org/scriptures/dc-testament/dc/107.3-4?lang=eng#2))
-because "Melchizedek was such a great high priest" ([D&amp;C
-107:2](https://www.lds.org/scriptures/dc-testament/dc/107.2?lang=eng#1)).
+called that priesthood after Melchizedek" ([D&amp;C 107:3-4](/scriptures/dc-
+testament/dc/107.3-4?lang=eng#2)) because "Melchizedek was such a great high
+priest" ([D&amp;C 107:2](/scriptures/dc-testament/dc/107.2?lang=eng#1)).
 
 One who received the priesthood at the hands of Melchizedek was Abraham (see
-[D&amp;C 84:14](https://www.lds.org/scriptures/dc-
-testament/dc/84.14?lang=eng#13)). The Lord later covenanted with Abraham that
-"in thee (that is, in thy Priesthood) and in thy seed ... shall all the families
-of the earth be blessed, even with the blessings of the Gospel, which are the
-blessings of salvation, even of life eternal" ([Abr.
-2:11](https://www.lds.org/scriptures/pgp/abr/2.11?lang=eng#10)).
+[D&amp;C 84:14](/scriptures/dc-testament/dc/84.14?lang=eng#13)). The Lord
+later covenanted with Abraham that "in thee (that is, in thy Priesthood) and
+in thy seed ... shall all the families of the earth be blessed, even with the
+blessings of the Gospel, which are the blessings of salvation, even of life
+eternal" ([Abr. 2:11](/scriptures/pgp/abr/2.11?lang=eng#10)).
 
 It was through the priesthood that the Son of God, the Savior, Jesus Christ,
 established his church--both in the Old World and in the New World. On both
 continents, he established sacred covenants and ordinances as a means for
 entering "in at the strait gate ... which leadeth unto life [eternal]" ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12); [3 Ne.
-14:13-14](https://www.lds.org/scriptures/bofm/3-ne/14.13-14?lang=eng#12)). In
-both places, he ordained twelve special witnesses to govern the affairs of the
-Church and to carry his word to the sons and daughters of God.
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12); [3 Ne.
+14:13-14](/scriptures/bofm/3-ne/14.13-14?lang=eng#12)). In both places, he
+ordained twelve special witnesses to govern the affairs of the Church and to
+carry his word to the sons and daughters of God.
 
 Jesus Christ atoned for the sins of all who will repent and be baptized
 through the power of the holy priesthood. Through the Atonement, our Savior
 broke the bands of death and became "the author of eternal salvation unto all
-them that obey him" ([Heb.
-5:9](https://www.lds.org/scriptures/nt/heb/5.9?lang=eng#8)).
+them that obey him" ([Heb. 5:9](/scriptures/nt/heb/5.9?lang=eng#8)).
 
 Following the death of Jesus and his Apostles, the earth was enshrouded with
 darkness. Known as the Dark Ages, this was a period of great apostasy, when
@@ -132,7 +127,7 @@ And the blessings of the priesthood are available to _everyone._ Indeed, the
 Father "inviteth ... all to come unto him and partake of his goodness; and he
 denieth none that come unto him, black and white, bond and free, male and
 female; ... all are alike unto God" ([2 Ne.
-26:33](https://www.lds.org/scriptures/bofm/2-ne/26.33?lang=eng#32)).
+26:33](/scriptures/bofm/2-ne/26.33?lang=eng#32)).
 
 What are some of the blessings of the priesthood? Come with me as we follow a
 child's ideal spiritual journey through life. Let us see many of the
@@ -163,7 +158,7 @@ for our sins. During the sacrament, the child remembers the sufferings of the
 Savior, witnesses that he or she is willing to bear the Savior's name, and
 promises to always remember him and keep his commandments. In return, the Lord
 promises "that they may always have his Spirit to be with them" ([D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76)).
+20:77](/scriptures/dc-testament/dc/20.77?lang=eng#76)).
 
 As the young man or young woman continues to mature, he or she may seek
 spiritual counsel and guidance from the bishop and other youth leaders.
@@ -243,7 +238,7 @@ words of a father's blessing.
 And thus, the cycle of priesthood blessings begins again and again with each
 succeeding generation--all with the Father's sacred purpose of bringing to
 pass "the immortality and eternal life" of his sons and daughters ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 My brothers and sisters, I have witnessed the remarkable power of the
 priesthood to lift and bless, to heal and comfort, to strengthen and empower
@@ -295,4 +290,6 @@ our obedience and that all of the magnificent, eternal blessings that God
 makes available to men and women and families upon this earth can be ours
 through the power of the priesthood. I so testify in the name of Jesus Christ,
 amen.
+
+## References
 

@@ -12,8 +12,7 @@ God, for the redemption of the world. ...
 
 "As I pondered over these things which are written, the eyes of my
 understanding were opened, and the Spirit of the Lord rested upon me."
-([D&amp;C 138:1-2, 11](https://www.lds.org/scriptures/dc-
-testament/dc/138.1-2%2C11?lang=eng#0).)
+([D&amp;C 138:1-2, 11](/scriptures/dc-testament/dc/138.1-2,11?lang=eng#0).)
 
 It is about pondering and what can be gained therefrom that I should like to
 address my remarks today.
@@ -25,7 +24,7 @@ Spirit of the Lord may rest upon the ponderer as described by President Smith.
 And Jesus admonished the Nephites, "Therefore, go ye unto your homes, and
 ponder upon the things which I have said, and ask of the Father, in my name,
 that ye may understand." ([3 Ne.
-17:3](https://www.lds.org/scriptures/bofm/3-ne/17.3?lang=eng#2).)
+17:3](/scriptures/bofm/3-ne/17.3?lang=eng#2).)
 
 We are constantly reminded through the scriptures that we should give the
 things of God much more than usual superficial consideration. We must ponder
@@ -62,7 +61,7 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 Had he pondered his actions, this unwise builder might have learned that to
 consent verbally to do the right thing and then to live and to act without
@@ -116,7 +115,7 @@ these swelling motions, ye will begin to say within yourselves--It must needs
 be that this is a good seed, or that the word is good, for it beginneth to
 enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it
 beginneth to be delicious to me." ([Alma
-32:28](https://www.lds.org/scriptures/bofm/alma/32.28?lang=eng#27).)
+32:28](/scriptures/bofm/alma/32.28?lang=eng#27).)
 
 To soundly plant good seeds in your heart requires prolonged, intense,
 unremitting pondering. It is a deep, ongoing, regenerating process which
@@ -161,10 +160,10 @@ thoughts, and your words, and your deeds, and observe the commandments of God,
 and continue in the faith of what ye have heard concerning the coming of our
 Lord, even unto the end of your lives, ye must perish. And now, O man,
 remember, and perish not." ([Mosiah
-4:30](https://www.lds.org/scriptures/bofm/mosiah/4.30?lang=eng#29).)
+4:30](/scriptures/bofm/mosiah/4.30?lang=eng#29).)
 
 Jesus counseled, "For where your treasure is, there will your heart be also."
-([Matt. 6:21](https://www.lds.org/scriptures/nt/matt/6.21?lang=eng#20).)
+([Matt. 6:21](/scriptures/nt/matt/6.21?lang=eng#20).)
 
 President Spencer W. Kimball is a model, a great example to us of a prophet,
 seer, and revelator who does ponder, and who prays, and who receives
@@ -175,4 +174,6 @@ and may we be faithful and diligent.
 
 I bear earnest and sincere testimony to the mighty transforming power of these
 noble ideals in the name of Jesus Christ, amen.
+
+## References
 

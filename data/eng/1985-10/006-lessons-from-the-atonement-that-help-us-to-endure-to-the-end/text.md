@@ -19,10 +19,9 @@ directed to take his people across the waters. He had built his barges, but
 there was no light, there was no air, there was no visible means of propulsion
 or navigation. And so he went to the Lord and asked, "Behold, O Lord, wilt
 thou suffer that we shall cross this great water in darkness?" ([Ether
-2:22](https://www.lds.org/scriptures/bofm/ether/2.22?lang=eng#21).) And the
-Lord replied, "What will ye that I should do that ye may have light in your
-vessels?" ([Ether
-2:23](https://www.lds.org/scriptures/bofm/ether/2.23?lang=eng#22).)
+2:22](/scriptures/bofm/ether/2.22?lang=eng#21).) And the Lord replied, "What
+will ye that I should do that ye may have light in your vessels?" ([Ether
+2:23](/scriptures/bofm/ether/2.23?lang=eng#22).)
 
 The brother of Jared just a few short verses before this had been scolded by
 the Lord for a period of three hours for not praying to him. And in this
@@ -34,28 +33,25 @@ stones with His finger.
 The lesson I would like to bring out from this story is that when the Lord
 touched these stones, the brother of Jared saw His finger. The Lord said, as
 the brother of Jared fell to the ground, "Arise, why hast thou fallen?"
-([Ether 3:7](https://www.lds.org/scriptures/bofm/ether/3.7?lang=eng#6).)
+([Ether 3:7](/scriptures/bofm/ether/3.7?lang=eng#6).)
 
 And the Lord got an answer that was quite remarkable when the brother of
 Jared, looking to the Lord, said, "I knew not that the Lord had flesh and
-blood." ([Ether
-3:8](https://www.lds.org/scriptures/bofm/ether/3.8?lang=eng#7).) In verse 16
-the Lord explained: "Behold, this body, which ye now behold, is the body of my
+blood." ([Ether 3:8](/scriptures/bofm/ether/3.8?lang=eng#7).) In verse 16 the
+Lord explained: "Behold, this body, which ye now behold, is the body of my
 spirit; and man have I created after the body of my spirit; and even as I
 appear unto thee to be in the spirit will I appear unto my people in the
-flesh" ([Ether
-3:16](https://www.lds.org/scriptures/bofm/ether/3.16?lang=eng#15).)
+flesh" ([Ether 3:16](/scriptures/bofm/ether/3.16?lang=eng#15).)
 
 The Lord asked if he had seen more of Him than His finger: "Sawest thou more
-than this?" ([Ether
-3:9](https://www.lds.org/scriptures/bofm/ether/3.9?lang=eng#8).) The brother
+than this?" ([Ether 3:9](/scriptures/bofm/ether/3.9?lang=eng#8).) The brother
 of Jared answered, "Nay; Lord, show thyself unto me." ([Ether
-3:9-10](https://www.lds.org/scriptures/bofm/ether/3.9-10?lang=eng#8).)
+3:9-10](/scriptures/bofm/ether/3.9-10?lang=eng#8).)
 
 The Lord then asked the brother of Jared if he would believe in His words; and
 he said, "Yea, Lord, I know that thou speakest the truth, for thou art a God
 of truth, and canst not lie." ([Ether
-3:12](https://www.lds.org/scriptures/bofm/ether/3.12?lang=eng#11).)
+3:12](/scriptures/bofm/ether/3.12?lang=eng#11).)
 
 The Lord thus showed Himself twenty-five hundred years before He was actually
 born as a babe in Jerusalem. He then bore testimony of the fact that He would
@@ -66,37 +62,34 @@ As we move closer to the atoning sacrifice in the Garden of Gethsemane, we
 find in John 17 that there Jesus offered an intercessory prayer. "I have
 glorified thee on the earth: I have finished the work which thou gavest me to
 do ... before the world was." ([John
-17:4-5](https://www.lds.org/scriptures/nt/john/17.4-5?lang=eng#3).) He then
-went on to say in verse 24, "For thou lovedst me before the foundation of the
-world." ([John
-17:24](https://www.lds.org/scriptures/nt/john/17.24?lang=eng#23).)
+17:4-5](/scriptures/nt/john/17.4-5?lang=eng#3).) He then went on to say in
+verse 24, "For thou lovedst me before the foundation of the world." ([John
+17:24](/scriptures/nt/john/17.24?lang=eng#23).)
 
 And so with the love of God the Father, Jesus went to the Garden of
 Gethsemane. He dropped to His knees in prayer, even sweating great drops of
 blood. And then, as He departed to go out to see His disciples, He found them
 asleep. He asked, "What, could ye not watch with me one hour?" ([Matt.
-26:40](https://www.lds.org/scriptures/nt/matt/26.40?lang=eng#39).)
+26:40](/scriptures/nt/matt/26.40?lang=eng#39).)
 
 How many of us are sleeping when those around us are hurting and are in need?
 How many of us give our testimonies of the Lord, but then do not listen, as in
-[1 Jn. 4:20](https://www.lds.org/scriptures/nt/1-jn/4.20?lang=eng#19), "For he
-that loveth not his brother whom he hath seen, how can he love God whom he
-hath not seen?"
+[1 Jn. 4:20](/scriptures/nt/1-jn/4.20?lang=eng#19), "For he that loveth not
+his brother whom he hath seen, how can he love God whom he hath not seen?"
 
 He then returned to the Garden of Gethsemane and asked His Father to help Him
 through this experience which He had to endure. And for you and me, there is
 great solace, for "there appeared an angel unto him from heaven, strengthening
-him." ([Luke
-22:43](https://www.lds.org/scriptures/nt/luke/22.43?lang=eng#42).)
+him." ([Luke 22:43](/scriptures/nt/luke/22.43?lang=eng#42).)
 
 Do we not understand that we, too, will have moments in our lives when we will
 be brought to our knees, when we will need help to endure to the end? Even
 Joseph Smith showed impatience after being in jail for a few months and
 wondered why he could not get on with his mission. At that time the Lord said
 to Joseph, "All these things shall give thee experience, and shall be for thy
-good." ([D&amp;C 122:7](https://www.lds.org/scriptures/dc-
-testament/dc/122.7?lang=eng#6).) The ways in which we handle our trials are
-part of the maturing of the physical and spiritual man.
+good." ([D&amp;C 122:7](/scriptures/dc-testament/dc/122.7?lang=eng#6).) The
+ways in which we handle our trials are part of the maturing of the physical
+and spiritual man.
 
 As a bishop, I have also learned from the atoning sacrifice a great lesson. In
 the trial where Pilate knew very well that the man before him was not guilty,
@@ -116,8 +109,7 @@ from our own trials and tribulations to concern and caring for others.
 Even in the closing moments of the life of Jesus a great lesson is to be
 learned. Jesus had cried with a loud voice, "Father, into thy hands I commend
 my spirit." The verse goes on to say, "... and having said thus, he gave up the
-ghost." ([Luke
-23:46](https://www.lds.org/scriptures/nt/luke/23.46?lang=eng#45).) Jesus had
+ghost." ([Luke 23:46](/scriptures/nt/luke/23.46?lang=eng#45).) Jesus had
 endured to the end.
 
 On earth there was great sorrow, and those beholding the Crucifixion smote
@@ -129,8 +121,7 @@ a fulness of joy. While the vast multitude waited and commenced rejoicing in
 the hour of their deliverance from the chains of death, the Son of God
 appeared. He preached to them the everlasting gospel, the doctrine of the
 resurrection and redemption of mankind from the Fall and from individual sins
-on conditions of repentance. (See [D&amp;C
-138:16-19](https://www.lds.org/scriptures/dc-
+on conditions of repentance. (See [D&amp;C 138:16-19](/scriptures/dc-
 testament/dc/138.16-19?lang=eng#15).)
 
 The lesson we can learn is that when a loved one has died and sorrow and
@@ -148,17 +139,16 @@ Christ.
 
 In the last moments upon the cross Jesus asked His Father a very simple
 question: "Why hast thou forsaken me?" ([Matt.
-27:46](https://www.lds.org/scriptures/nt/matt/27.46?lang=eng#45).) Are there
-times in our lives when we think that we have been forsaken by God, or by our
-fellow men, or by our families? That is the moment when we have to turn our
-thoughts back to Christ and endure to the end. We know there is a great
-purpose in Christ's suffering because this was an act of free agency. Jesus
-could have called upon legions of angels to bring Him down from the cross, but
-He did not. He endured to the end that we would have the benefits of the
-atoning sacrifice; that mercy could be brought into the world; that justice
-would be satisfied; that we might be resurrected; and that we might be able to
-earn, through our obedience, eternal life in the presence of God the Father
-and Jesus Christ.
+27:46](/scriptures/nt/matt/27.46?lang=eng#45).) Are there times in our lives
+when we think that we have been forsaken by God, or by our fellow men, or by
+our families? That is the moment when we have to turn our thoughts back to
+Christ and endure to the end. We know there is a great purpose in Christ's
+suffering because this was an act of free agency. Jesus could have called upon
+legions of angels to bring Him down from the cross, but He did not. He endured
+to the end that we would have the benefits of the atoning sacrifice; that
+mercy could be brought into the world; that justice would be satisfied; that
+we might be resurrected; and that we might be able to earn, through our
+obedience, eternal life in the presence of God the Father and Jesus Christ.
 
 I had an experience recently which further illustrates these principles. A
 father who was very wealthy asked if I could talk to his family. His daughter
@@ -180,10 +170,9 @@ Jesus taught us many lessons. But for me, one of the greatest lessons was
 taught after Jesus had died, and was resurrected, and came out of the
 sepulchre. There was Mary--she did not recognize Him at first--then upon
 recognizing Him, came toward Him. He said, "Touch me not; for I have not yet
-ascended to my Father," ([John
-20:17](https://www.lds.org/scriptures/nt/john/20.17?lang=eng#16)), knowing
-that He was going to return to His Father in Heaven and then come back to
-earth and show himself to many as a resurrected being.
+ascended to my Father," ([John 20:17](/scriptures/nt/john/20.17?lang=eng#16)),
+knowing that He was going to return to His Father in Heaven and then come back
+to earth and show himself to many as a resurrected being.
 
 We started with a story from the Book of Mormon. Coming full circle back to 3
 Nephi, I think of Jesus coming to the temple as a resurrected being after much
@@ -191,13 +180,12 @@ devastation of the land, similar to what has happened in Mexico recently with
 earthquakes and rending of the land. In the account in 3 Nephi, the people who
 were there returned to the temple, and there the Lord came, introduced by His
 Father: "Behold my Beloved Son, in whom I am well pleased, in whom I have
-glorified my name." ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6).) They were
-asked to listen to Him, and He descended among them. The most significant
-event is that the two thousand or so who were assembled at the temple each had
-the opportunity of thrusting his hands in the sides and in the wounds of the
-Savior to know of a surety that He lives. And for this they had a few
-centuries of peace in the land, and all were one.
+glorified my name." ([3 Ne. 11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6).)
+They were asked to listen to Him, and He descended among them. The most
+significant event is that the two thousand or so who were assembled at the
+temple each had the opportunity of thrusting his hands in the sides and in the
+wounds of the Savior to know of a surety that He lives. And for this they had
+a few centuries of peace in the land, and all were one.
 
 I ask the Lord's blessings to be with us, that we can understand the
 importance of the atoning sacrifice in our lives, that it is the greatest
@@ -257,4 +245,6 @@ testify that a prophet of God is among us, even President Spencer W. Kimball,
 who in his enduring to the end is an example for all of us. That we may watch
 and be guided by his actions and his love is my prayer, in the name of Jesus
 Christ, amen.
+
+## References
 

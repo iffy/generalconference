@@ -14,17 +14,16 @@ Lord. "I say unto you, that it shall not be given to any one to go forth to
 preach my gospel, or to build up my church, except he be ordained by ... one who
 has authority, and _it is known to the church_ that he has authority and has
 been regularly ordained by the heads of the church" ([D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10);
-emphasis added).
+42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10); emphasis added).
 
 Speaking for the Quorum of the Twelve Apostles, who "agreeable to the
 institution of heaven" are to "officiate in the name of the Lord, under the
-direction of the Presidency of the Church" ([D&amp;C
-107:33](https://www.lds.org/scriptures/dc-testament/dc/107.33?lang=eng#32)),
-we affirm to you that in sustaining President Gordon B. Hinckley and his
-counselors, our First Presidency, the Twelve _is_ one. For in raising our
-hands to sustain the President of the Church, we continue the line of unbroken
-authority from the beginning of the Restoration.
+direction of the Presidency of the Church" ([D&amp;C 107:33](/scriptures/dc-
+testament/dc/107.33?lang=eng#32)), we affirm to you that in sustaining
+President Gordon B. Hinckley and his counselors, our First Presidency, the
+Twelve _is_ one. For in raising our hands to sustain the President of the
+Church, we continue the line of unbroken authority from the beginning of the
+Restoration.
 
 Some suppose that the keys of presidency pass from one man to another much
 like a baton in a relay. Some believe that the Prophet Joseph Smith secretly
@@ -62,7 +61,7 @@ influence. The system does not allow it, neither would the Lord permit it. It
 does not work the way man usually works, and so it should be. The Lord
 reminded the prophet Isaiah, "My ways [are] higher than your ways, and my
 thoughts than your thoughts" ([Isa.
-55:9](https://www.lds.org/scriptures/ot/isa/55.9?lang=eng#8)).
+55:9](/scriptures/ot/isa/55.9?lang=eng#8)).
 
 The raising of the hands has been a custom since ancient times, symbolized
 when Moses was confronted by the Amalekite robbers, the destroyers of the
@@ -83,7 +82,7 @@ side, and the other on the other side; and his hands were steady until the
 going down of the sun.
 
 "And Joshua discomfited Amalek and his people with the edge of the sword"
-([Ex. 17:9-13](https://www.lds.org/scriptures/ot/ex/17.9-13?lang=eng#8)).
+([Ex. 17:9-13](/scriptures/ot/ex/17.9-13?lang=eng#8)).
 
 The wicked who now oppose the work of the Lord, while different from, are no
 less terrible than the plundering Amalekites. The sustaining of the prophet is
@@ -125,7 +124,7 @@ The Lord revealed why "he gave some, apostles; and some, prophets." It is "for
 the perfecting of the saints, for the work of the ministry, for the edifying
 of the body of Christ: Till we all come in the unity of the faith, and of the
 knowledge of the Son of God" ([Eph.
-4:11-13](https://www.lds.org/scriptures/nt/eph/4.11-13?lang=eng#10)).
+4:11-13](/scriptures/nt/eph/4.11-13?lang=eng#10)).
 
 The ministry of the Apostles--the Presidency and the Twelve--therefore is to
 bring us to a unity of the faith.
@@ -135,8 +134,7 @@ up, and if he can, destroy us. But the Lord said, "Lift up your hearts and
 rejoice, and gird up your loins, and take upon you my whole armor, that ye may
 be able to withstand the evil day, ... taking the _shield of faith_ wherewith ye
 shall be able to quench all the fiery darts of the wicked" ([D&amp;C 27:15,
-17](https://www.lds.org/scriptures/dc-testament/dc/27.15%2C17?lang=eng#14);
-emphasis added).
+17](/scriptures/dc-testament/dc/27.15,17?lang=eng#14); emphasis added).
 
 The ministry of the prophets and apostles leads them ever and always to the
 home and the family. That shield of faith is not produced in a factory but at
@@ -149,10 +147,10 @@ presence of our Heavenly Father.
 
 Lest parents and children be "tossed to and fro," and misled by "cunning
 craftiness" of men who "lie in wait to deceive" ([Eph.
-4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13)), our Father's
-plan requires that, like the generation of life itself, the shield of faith is
-to be made and fitted in the family. No two can be exactly alike. Each must be
-handcrafted to individual specifications.
+4:14](/scriptures/nt/eph/4.14?lang=eng#13)), our Father's plan requires that,
+like the generation of life itself, the shield of faith is to be made and
+fitted in the family. No two can be exactly alike. Each must be handcrafted to
+individual specifications.
 
 The plan designed by the Father contemplates that man and woman, husband and
 wife, working together, fit each child individually with a shield of faith
@@ -173,7 +171,7 @@ The prophets and Apostles know full well that the perilous times Paul
 prophesied for the last days are now upon us: "Men [are] lovers of their own
 selves, covetous, boasters, proud, blasphemers, disobedient to parents,
 unthankful, unholy, without natural affection" (see [2 Tim.
-3:1-7](https://www.lds.org/scriptures/nt/2-tim/3.1-7?lang=eng#0)).
+3:1-7](/scriptures/nt/2-tim/3.1-7?lang=eng#0)).
 
 Knowing it would be so, the Lord warned that "inasmuch as parents have
 children in Zion, or in any of her stakes, ... that teach them not to understand
@@ -184,7 +182,7 @@ parents.
 "For this shall be a law unto the inhabitants of Zion. ...
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord" ([D&amp;C 68:25-28](https://www.lds.org/scriptures/dc-
+before the Lord" ([D&amp;C 68:25-28](/scriptures/dc-
 testament/dc/68.25-28?lang=eng#24)).
 
 This shield of faith is not manufactured on an assembly line, only handmade in
@@ -205,12 +203,14 @@ discovered the Pearl of Great Price spoken of in the scriptures and willingly
 go and sell all that you have that you might obtain it.
 
 The great plan of happiness (see [Alma 42:8,
-16](https://www.lds.org/scriptures/bofm/alma/42.8%2C16?lang=eng#7)) revealed
-to prophets is the plan for a happy family. It is the love story between
-husband and wife, parents and children, that renews itself through the ages.
+16](/scriptures/bofm/alma/42.8,16?lang=eng#7)) revealed to prophets is the
+plan for a happy family. It is the love story between husband and wife,
+parents and children, that renews itself through the ages.
 
 And so, now with an unbroken line of priesthood authority, an unbroken line of
 priesthood power, we move confidently forward in unity and faith, led by
 Christ the Redeemer, whose church this is, and His earthly prophet through
 whom He will speak. In the name of Jesus Christ, amen.
+
+## References
 

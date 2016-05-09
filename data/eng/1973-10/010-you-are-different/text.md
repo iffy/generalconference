@@ -21,16 +21,16 @@ Peter, writing from Rome to the scattered saints, understood their trials and
 temptations to desert the faith and go back to their old ways. He encouraged
 the saints as he wrote: "That the _trial _of _your faith, _being _much more
 precious _than of _gold that perisheth._ ..." ([1 Pet.
-1:7](https://www.lds.org/scriptures/nt/1-pet/1.7?lang=eng#6), italics added.)
+1:7](/scriptures/nt/1-pet/1.7?lang=eng#6), italics added.)
 
 Peter then adds a broader dimension with stirring words to help us understand
 who we are when he wrote: "But ye are a chosen generation, a royal priesthood,
 an holy nation, a peculiar people;" and as a chosen and peculiar people, "... ye
 should shew forth the _praises _of _him _who hath called you out of darkness
 into his marvellous light." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8), italics added.)
-What a wonderful declaration of identity for our youth to ponder--"chosen
-generation"--"royal priesthood"--"a peculiar people."
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8), italics added.) What a wonderful
+declaration of identity for our youth to ponder--"chosen generation"--"royal
+priesthood"--"a peculiar people."
 
 Recently, while attending a stake conference and having the added blessing of
 meeting with the young people, some of whom had driven long hours, I learned
@@ -53,14 +53,13 @@ made some promises, and some eternal promises have been made to you.
 (a) Many of you were born under the covenant, your parents having made a
 covenant with God. You can, if worthy, "... inherit thrones, kingdoms,
 principalities," and have "... exaltation and glory ... sealed upon [your] heads,
-... forever and ever." ([D&amp;C 132:19](https://www.lds.org/scriptures/dc-
+... forever and ever." ([D&amp;C 132:19](/scriptures/dc-
 testament/dc/132.19?lang=eng#18).) Chances are your nonmember friends wouldn't
 understand these terms. In today's world they may sound rather strange.
 
 (b) You have been baptized "even by water, and ... of fire and of the Holy
-Ghost" ([D&amp;C 33:11](https://www.lds.org/scriptures/dc-
-testament/dc/33.11?lang=eng#10)), making your salvation possible if you endure
-and are faithful to the end.
+Ghost" ([D&amp;C 33:11](/scriptures/dc-testament/dc/33.11?lang=eng#10)),
+making your salvation possible if you endure and are faithful to the end.
 
 (c) You partake of the sacrament at our meetings, symbolic of the torn flesh
 and spilled blood of our Savior, giving you an opportunity to renew your
@@ -93,8 +92,8 @@ The Lord said:
 
 "For whoso is faithful unto the obtaining these two priesthoods of which I
 have spoken, and the magnifying their calling, are sanctified by the Spirit
-unto the renewing of their bodies." ([D&amp;C
-84:33](https://www.lds.org/scriptures/dc-testament/dc/84.33?lang=eng#32).)
+unto the renewing of their bodies." ([D&amp;C 84:33](/scriptures/dc-
+testament/dc/84.33?lang=eng#32).)
 
 Such an experience these young men are having!
 
@@ -107,8 +106,7 @@ At times I wonder if you fully comprehend the far-reaching, eternal
 significance of temple marriage. If you really understand, you will never
 settle for less. Marriage is a divine ordinance, not to be performed by a
 justice of the peace or to be taken lightly; but, "... ordained of God unto
-man." ([D&amp;C 49:15](https://www.lds.org/scriptures/dc-
-testament/dc/49.15?lang=eng#14).)
+man." ([D&amp;C 49:15](/scriptures/dc-testament/dc/49.15?lang=eng#14).)
 
 (f) You can, if worthy, even perform miracles--which makes you different from
 the rest of your friends; to heal the sick, cure all manner of disease.
@@ -123,7 +121,7 @@ will achieve an endless splendor, nobler than you might imagine.
 Paul, writing to his beloved Timothy and realizing the pressure Timothy was
 experiencing, said: "... God hath not given us the spirit of fear; but of power,
 and of love, and of a sound mind." ([2 Tim.
-1:7](https://www.lds.org/scriptures/nt/2-tim/1.7?lang=eng#6).)
+1:7](/scriptures/nt/2-tim/1.7?lang=eng#6).)
 
 Some of you attend schools where there are few Church members; others, where
 we are a majority. But if you conduct yourselves properly and develop your
@@ -151,11 +149,11 @@ restrict your freedom as compared with others. Freedom does not mean license,
 nor does it imply the absence of all restrictions and discipline. The Savior
 did not teach undisciplined, permissive-type freedom. When he said, "know the
 truth, and the truth shall make you free" ([John
-8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31)), he is telling
-us that his truth, if followed, would free us from falsity, from deception;
-that his gospel, if followed, would free us to gain eternal life. As the light
-of the gospel fills our souls, our abilities will increase. We will love our
-neighbors and be of sincere service in helping others.
+8:32](/scriptures/nt/john/8.32?lang=eng#31)), he is telling us that his truth,
+if followed, would free us from falsity, from deception; that his gospel, if
+followed, would free us to gain eternal life. As the light of the gospel fills
+our souls, our abilities will increase. We will love our neighbors and be of
+sincere service in helping others.
 
 We have a young military chaplain, a former missionary who is happily married,
 who lives the gospel as he should. His superior officer at his first duty
@@ -205,4 +203,6 @@ deep impact on all, but especially on you--our youth. The world may not
 comprehend what he said, but you can. You are different. You are a chosen
 generation. May you see the power of God resting on him as His prophet, as I
 testify to you it does, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

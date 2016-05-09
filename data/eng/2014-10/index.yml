@@ -1,431 +1,362 @@
 items:
-- article_id: 10991_000_11monson
-  item: '002'
-  key: 002-welcome-to-conference
+- item: 1
+  key: 000-welcome-to-conference
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: welcome-to-conference
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: Welcome to Conference
   url: https://www.lds.org/general-conference/2014/10/welcome-to-conference?lang=eng
   year: 2014
-- article_id: 10991_000_12packer
-  item: '004'
-  key: 004-the-reason-for-our-hope
+- item: 2
+  key: 001-the-reason-for-our-hope
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-reason-for-our-hope
-  speaker: "By President Boyd\_K. Packer"
+  speaker: Boyd K. Packer
   title: The Reason for Our Hope
   url: https://www.lds.org/general-conference/2014/10/the-reason-for-our-hope?lang=eng
   year: 2014
-- article_id: 10991_000_13robbins
-  item: '005'
-  key: 005-which-way-do-you-face
+- item: 3
+  key: 002-which-way-do-you-face
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: which-way-do-you-face
-  speaker: "By Elder Lynn\_G. Robbins"
+  speaker: Lynn G. Robbins
   title: Which Way Do You Face?
   url: https://www.lds.org/general-conference/2014/10/which-way-do-you-face?lang=eng
   year: 2014
-- article_id: 10991_000_14esplin
-  item: '006'
-  key: 006-the-sacrament-a-renewal-for-the-soul
+- item: 4
+  key: 003-the-sacrament-a-renewal-for-the-soul
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sacrament-a-renewal-for-the-soul
-  speaker: "By Cheryl\_A. Esplin"
+  speaker: Cheryl A. Esplin
   title: "The Sacrament\u2014a Renewal for the Soul"
   url: https://www.lds.org/general-conference/2014/10/the-sacrament-a-renewal-for-the-soul?lang=eng
   year: 2014
-- article_id: 10991_000_15wong
-  item: 008
-  key: 008-rescue-in-unity
+- item: 5
+  key: 004-rescue-in-unity
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: rescue-in-unity
-  speaker: By Elder Chi Hong (Sam) Wong
+  speaker: Chi Hong (Sam) Wong
   title: Rescue in Unity
   url: https://www.lds.org/general-conference/2014/10/rescue-in-unity?lang=eng
   year: 2014
-- article_id: 10991_000_16christofferson
-  item: 009
-  key: 009-free-forever-to-act-for-themselves
+- item: 6
+  key: 005-free-forever-to-act-for-themselves
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: free-forever-to-act-for-themselves
-  speaker: "By Elder D.\_Todd Christofferson"
+  speaker: D. Todd Christofferson
   title: Free Forever, to Act for Themselves
   url: https://www.lds.org/general-conference/2014/10/free-forever-to-act-for-themselves?lang=eng
   year: 2014
-- article_id: 10991_000_17uchtdorf
-  item: '011'
-  key: 011-receiving-a-testimony-of-light-and-truth
+- item: 7
+  key: 006-receiving-a-testimony-of-light-and-truth
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: receiving-a-testimony-of-light-and-truth
-  speaker: "By President Dieter\_F. Uchtdorf"
+  speaker: Dieter F. Uchtdorf
   title: Receiving a Testimony of Light and Truth
   url: https://www.lds.org/general-conference/2014/10/receiving-a-testimony-of-light-and-truth?lang=eng
   year: 2014
-- article_id: 10991_000_21eyring
-  item: '014'
-  key: 014-the-sustaining-of-church-officers
+- item: 8
+  key: 007-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
-  speaker: "Presented by President Henry\_B. Eyring"
+  speaker: Henry B. Eyring
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2014/10/the-sustaining-of-church-officers?lang=eng
   year: 2014
-- article_id: 10991_000_22oaks
-  item: '016'
-  key: 016-loving-others-and-living-with-differences
+- item: 9
+  key: 008-loving-others-and-living-with-differences
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: loving-others-and-living-with-differences
-  speaker: "By Elder Dallin\_H. Oaks"
+  speaker: Dallin H. Oaks
   title: Loving Others and Living with Differences
   url: https://www.lds.org/general-conference/2014/10/loving-others-and-living-with-differences?lang=eng
   year: 2014
-- article_id: 10991_000_23andersen
-  item: '017'
-  key: 017-joseph-smith
+- item: 10
+  key: 009-joseph-smith
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: joseph-smith
-  speaker: "By Elder Neil\_L. Andersen"
+  speaker: Neil L. Andersen
   title: Joseph Smith
   url: https://www.lds.org/general-conference/2014/10/joseph-smith?lang=eng
   year: 2014
-- article_id: 10991_000_24callister
-  item: 018
-  key: 018-parents-the-prime-gospel-teachers-of-their-children
+- item: 11
+  key: 010-parents-the-prime-gospel-teachers-of-their-children
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: parents-the-prime-gospel-teachers-of-their-children
-  speaker: "By Tad\_R. Callister"
+  speaker: Tad R. Callister
   title: 'Parents: The Prime Gospel Teachers of Their Children'
   url: https://www.lds.org/general-conference/2014/10/parents-the-prime-gospel-teachers-of-their-children?lang=eng
   year: 2014
-- article_id: 10991_000_25klebingat
-  item: '020'
-  key: 020-approaching-the-throne-of-god-with-confidence
+- item: 12
+  key: 011-approaching-the-throne-of-god-with-confidence
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: approaching-the-throne-of-god-with-confidence
-  speaker: "By Elder J\xF6rg Klebingat"
+  speaker: "J\xF6rg Klebingat"
   title: Approaching the Throne of God with Confidence
   url: https://www.lds.org/general-conference/2014/10/approaching-the-throne-of-god-with-confidence?lang=eng
   year: 2014
-- article_id: 10991_000_26gavarret
-  item: '021'
-  key: 021-yes-lord-i-will-follow-thee
+- item: 13
+  key: 012-yes-lord-i-will-follow-thee
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: yes-lord-i-will-follow-thee
-  speaker: By Elder Eduardo Gavarret
+  speaker: Eduardo Gavarret
   title: Yes, Lord, I Will Follow Thee
   url: https://www.lds.org/general-conference/2014/10/yes-lord-i-will-follow-thee?lang=eng
   year: 2014
-- article_id: 10991_000_27holland
-  item: '022'
-  key: 022-are-we-not-all-beggars
+- item: 14
+  key: 013-are-we-not-all-beggars
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: are-we-not-all-beggars
-  speaker: "By Elder Jeffrey\_R. Holland"
+  speaker: Jeffrey R. Holland
   title: Are We Not All Beggars?
   url: https://www.lds.org/general-conference/2014/10/are-we-not-all-beggars?lang=eng
   year: 2014
-- article_id: 10991_000_28perry
-  item: '023'
-  key: 023-finding-lasting-peace-and-building-eternal-families
+- item: 15
+  key: 014-finding-lasting-peace-and-building-eternal-families
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: finding-lasting-peace-and-building-eternal-families
-  speaker: "By Elder\_L. Tom Perry"
+  speaker: L. Tom Perry
   title: Finding Lasting Peace and Building Eternal Families
   url: https://www.lds.org/general-conference/2014/10/finding-lasting-peace-and-building-eternal-families?lang=eng
   year: 2014
-- article_id: 10991_000_31cook
-  item: '027'
-  key: 027-choose-wisely
+- item: 16
+  key: 015-choose-wisely
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: choose-wisely
-  speaker: "By Elder Quentin\_L. Cook"
+  speaker: Quentin L. Cook
   title: Choose Wisely
   url: https://www.lds.org/general-conference/2014/10/choose-wisely?lang=eng
   year: 2014
-- article_id: 10991_000_32christensen
-  item: 028
-  key: 028-i-know-these-things-of-myself
+- item: 17
+  key: 016-i-know-these-things-of-myself
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: i-know-these-things-of-myself
-  speaker: "By Elder Craig\_C. Christensen"
+  speaker: Craig C. Christensen
   title: I Know These Things of Myself
   url: https://www.lds.org/general-conference/2014/10/i-know-these-things-of-myself?lang=eng
   year: 2014
-- article_id: 10991_000_33davies
-  item: 029
-  key: 029-the-law-of-the-fast-a-personal-responsibility-to-care-for-the-poor-and-needy
+- item: 18
+  key: 017-the-law-of-the-fast-a-personal-responsibility-to-care-for-the-poor-and-needy
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-law-of-the-fast-a-personal-responsibility-to-care-for-the-poor-and-needy
-  speaker: "By Bishop Dean\_M. Davies"
+  speaker: Dean M. Davies
   title: 'The Law of the Fast: A Personal Responsibility to Care for the Poor and
     Needy'
   url: https://www.lds.org/general-conference/2014/10/the-law-of-the-fast-a-personal-responsibility-to-care-for-the-poor-and-needy?lang=eng
   year: 2014
-- article_id: 10991_000_34uchtdorf
-  item: '031'
-  key: 031-lord-is-it-i
+- item: 19
+  key: 018-lord-is-it-i
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: lord-is-it-i
-  speaker: "By President Dieter\_F. Uchtdorf"
-  title: "\u201CLord, Is It I?\u201D"
+  speaker: Dieter F. Uchtdorf
+  title: '"Lord, Is It I?"'
   url: https://www.lds.org/general-conference/2014/10/lord-is-it-i?lang=eng
   year: 2014
-- article_id: 10991_000_35eyring
-  item: '032'
-  key: 032-the-preparatory-priesthood
+- item: 20
+  key: 019-the-preparatory-priesthood
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-preparatory-priesthood
-  speaker: "By President Henry\_B. Eyring"
+  speaker: Henry B. Eyring
   title: The Preparatory Priesthood
   url: https://www.lds.org/general-conference/2014/10/the-preparatory-priesthood?lang=eng
   year: 2014
-- article_id: 10991_000_36monson
-  item: '033'
-  key: 033-guided-safely-home
+- item: 21
+  key: 020-guided-safely-home
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: guided-safely-home
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: Guided Safely Home
   url: https://www.lds.org/general-conference/2014/10/guided-safely-home?lang=eng
   year: 2014
-- article_id: 10991_000_41eyring
-  item: 038
-  key: 038-continuing-revelation
+- item: 22
+  key: 021-continuing-revelation
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: continuing-revelation
-  speaker: "By President Henry\_B. Eyring"
+  speaker: Henry B. Eyring
   title: Continuing Revelation
   url: https://www.lds.org/general-conference/2014/10/continuing-revelation?lang=eng
   year: 2014
-- article_id: 10991_000_42nelson
-  item: 039
-  key: 039-sustaining-the-prophets
+- item: 23
+  key: 022-sustaining-the-prophets
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: sustaining-the-prophets
-  speaker: "By Elder Russell\_M. Nelson"
+  speaker: Russell M. Nelson
   title: Sustaining the Prophets
   url: https://www.lds.org/general-conference/2014/10/sustaining-the-prophets?lang=eng
   year: 2014
-- article_id: 10991_000_43mcconkie
-  item: '040'
-  key: 040-live-according-to-the-words-of-the-prophets
+- item: 24
+  key: 023-live-according-to-the-words-of-the-prophets
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: live-according-to-the-words-of-the-prophets
-  speaker: "By Carol\_F. McConkie"
+  speaker: Carol F. McConkie
   title: Live according to the Words of the Prophets
   url: https://www.lds.org/general-conference/2014/10/live-according-to-the-words-of-the-prophets?lang=eng
   year: 2014
-- article_id: 10991_000_44hales
-  item: '042'
-  key: 042-eternal-life-to-know-our-heavenly-father-and-his-son-jesus-christ
+- item: 25
+  key: 024-eternal-life-to-know-our-heavenly-father-and-his-son-jesus-christ
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: eternal-life-to-know-our-heavenly-father-and-his-son-jesus-christ
-  speaker: "By Elder Robert\_D. Hales"
+  speaker: Robert D. Hales
   title: "Eternal Life\u2014to Know Our Heavenly Father and His Son, Jesus Christ"
   url: https://www.lds.org/general-conference/2014/10/eternal-life-to-know-our-heavenly-father-and-his-son-jesus-christ?lang=eng
   year: 2014
-- article_id: 10991_000_45hamula
-  item: '043'
-  key: 043-the-sacrament-and-the-atonement
+- item: 26
+  key: 025-the-sacrament-and-the-atonement
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-sacrament-and-the-atonement
-  speaker: "By Elder James\_J. Hamula"
+  speaker: James J. Hamula
   title: The Sacrament and the Atonement
   url: https://www.lds.org/general-conference/2014/10/the-sacrament-and-the-atonement?lang=eng
   year: 2014
-- article_id: 10991_000_46monson
-  item: '045'
-  key: 045-ponder-the-path-of-thy-feet
+- item: 27
+  key: 026-ponder-the-path-of-thy-feet
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: ponder-the-path-of-thy-feet
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: Ponder the Path of Thy Feet
   url: https://www.lds.org/general-conference/2014/10/ponder-the-path-of-thy-feet?lang=eng
   year: 2014
-- article_id: 10991_000_51ballard
-  item: 048
-  key: 048-stay-in-the-boat-and-hold-on
+- item: 28
+  key: 027-stay-in-the-boat-and-hold-on
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: stay-in-the-boat-and-hold-on
-  speaker: "By Elder M.\_Russell Ballard"
+  speaker: M. Russell Ballard
   title: Stay in the Boat and Hold On!
   url: https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng
   year: 2014
-- article_id: 10991_000_52scott
-  item: 049
-  key: 049-make-the-exercise-of-faith-your-first-priority
+- item: 29
+  key: 028-make-the-exercise-of-faith-your-first-priority
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: make-the-exercise-of-faith-your-first-priority
-  speaker: "By Elder Richard\_G. Scott"
+  speaker: Richard G. Scott
   title: Make the Exercise of Faith Your First Priority
   url: https://www.lds.org/general-conference/2014/10/make-the-exercise-of-faith-your-first-priority?lang=eng
   year: 2014
-- article_id: 10991_000_53godoy
-  item: '050'
-  key: 050-the-lord-has-a-plan-for-us
+- item: 30
+  key: 029-the-lord-has-a-plan-for-us
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-lord-has-a-plan-for-us
-  speaker: "By Elder Carlos\_A. Godoy"
+  speaker: Carlos A. Godoy
   title: The Lord Has a Plan for Us!
   url: https://www.lds.org/general-conference/2014/10/the-lord-has-a-plan-for-us?lang=eng
   year: 2014
-- article_id: 10991_000_54packer
-  item: '052'
-  key: 052-the-book
+- item: 31
+  key: 030-the-book
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-book
-  speaker: "By Elder Allan\_F. Packer"
+  speaker: Allan F. Packer
   title: The Book
   url: https://www.lds.org/general-conference/2014/10/the-book?lang=eng
   year: 2014
-- article_id: 10991_000_55martinez
-  item: '053'
-  key: 053-our-personal-ministries
+- item: 32
+  key: 031-our-personal-ministries
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: our-personal-ministries
-  speaker: "By Elder Hugo\_E. Martinez"
+  speaker: Hugo E. Martinez
   title: Our Personal Ministries
   url: https://www.lds.org/general-conference/2014/10/our-personal-ministries?lang=eng
   year: 2014
-- article_id: 10991_000_56kacher
-  item: '055'
-  key: 055-trifle-not-with-sacred-things
+- item: 33
+  key: 032-trifle-not-with-sacred-things
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: trifle-not-with-sacred-things
-  speaker: "By Elder Larry\_S. Kacher"
+  speaker: Larry S. Kacher
   title: Trifle Not with Sacred Things
   url: https://www.lds.org/general-conference/2014/10/trifle-not-with-sacred-things?lang=eng
   year: 2014
-- article_id: 10991_000_57bednar
-  item: '056'
-  key: 056-come-and-see
+- item: 34
+  key: 033-come-and-see
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: come-and-see
-  speaker: "By Elder David\_A. Bednar"
+  speaker: David A. Bednar
   title: Come and See
   url: https://www.lds.org/general-conference/2014/10/come-and-see?lang=eng
   year: 2014
-- article_id: 10991_000_58monson
-  item: '057'
-  key: 057-until-we-meet-again
+- item: 35
+  key: 034-until-we-meet-again
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: until-we-meet-again
-  speaker: "By President Thomas\_S. Monson"
+  speaker: Thomas S. Monson
   title: Until We Meet Again
   url: https://www.lds.org/general-conference/2014/10/until-we-meet-again?lang=eng
   year: 2014
-- article_id: 10991_000_61burton
-  item: '061'
-  key: 061-prepared-in-a-manner-that-never-had-been-known
+- item: 36
+  key: 035-prepared-in-a-manner-that-never-had-been-known
   month: 10
-  session_id: womens
   session_title: General Women's Session
   slug: prepared-in-a-manner-that-never-had-been-known
-  speaker: "By Linda\_K. Burton"
+  speaker: Linda K. Burton
   title: Prepared in a Manner That Never Had Been Known
   url: https://www.lds.org/general-conference/2014/10/prepared-in-a-manner-that-never-had-been-known?lang=eng
   year: 2014
-- article_id: 10991_000_62stevens
-  item: '063'
-  key: 063-covenant-daughters-of-god
+- item: 37
+  key: 036-covenant-daughters-of-god
   month: 10
-  session_id: womens
   session_title: General Women's Session
   slug: covenant-daughters-of-god
-  speaker: "By Jean\_A. Stevens"
+  speaker: Jean A. Stevens
   title: Covenant Daughters of God
   url: https://www.lds.org/general-conference/2014/10/covenant-daughters-of-god?lang=eng
   year: 2014
-- article_id: 10991_000_63marriott
-  item: '065'
-  key: 065-sharing-your-light
+- item: 38
+  key: 037-3810258133001
   month: 10
-  session_id: womens
+  session_title: General Women's Session
+  slug: '3810258133001'
+  speaker: The Church of Jesus Christ of Latter-day Saints
+  title: 'Video Presentation: The Holy Temple'
+  url: https://www.lds.org/general-conference/2014/10/media/session_0_talk_6/3810258133001?lang=eng
+  year: 2014
+- item: 39
+  key: 038-sharing-your-light
+  month: 10
   session_title: General Women's Session
   slug: sharing-your-light
-  speaker: "By Neill\_F. Marriott"
+  speaker: Neill F. Marriott
   title: Sharing Your Light
   url: https://www.lds.org/general-conference/2014/10/sharing-your-light?lang=eng
   year: 2014
-- article_id: 10991_000_64uchtdorf
-  item: '067'
-  key: 067-living-the-gospel-joyful
+- item: 40
+  key: 039-living-the-gospel-joyful
   month: 10
-  session_id: womens
   session_title: General Women's Session
   slug: living-the-gospel-joyful
-  speaker: "By President Dieter\_F. Uchtdorf"
+  speaker: Dieter F. Uchtdorf
   title: Living the Gospel Joyful
   url: https://www.lds.org/general-conference/2014/10/living-the-gospel-joyful?lang=eng
   year: 2014

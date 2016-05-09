@@ -79,12 +79,11 @@ life.
 First, think about your life and set your priorities. Find some quiet time
 regularly to think deeply about where you are going and what you will need to
 do to get there. Jesus, our exemplar, often "withdrew himself into the
-wilderness, and prayed" ([Luke
-5:16](https://www.lds.org/scriptures/nt/luke/5.16?lang=eng#15)). We need to do
-the same thing occasionally to rejuvenate ourselves spiritually as the Savior
-did. Write down the tasks you would like to accomplish each day. Keep foremost
-in mind the sacred covenants you have made with the Lord as you write down
-your daily schedules.
+wilderness, and prayed" ([Luke 5:16](/scriptures/nt/luke/5.16?lang=eng#15)).
+We need to do the same thing occasionally to rejuvenate ourselves spiritually
+as the Savior did. Write down the tasks you would like to accomplish each day.
+Keep foremost in mind the sacred covenants you have made with the Lord as you
+write down your daily schedules.
 
 Second, set short-term goals that you can reach. Set goals that are well
 balanced--not too many nor too few, and not too high nor too low. Write down
@@ -93,13 +92,12 @@ divine guidance in your goal setting.
 
 You recall that Alma said he would like to be an angel so he could "speak with
 the trump of God, ... to shake the earth, and cry repentance unto every people!"
-([Alma 29:1](https://www.lds.org/scriptures/bofm/alma/29.1?lang=eng#0)). He
-then said, "But behold, I am a man, and do sin in my wish; for I ought to be
-content with the things which the Lord hath allotted unto me. ...
+([Alma 29:1](/scriptures/bofm/alma/29.1?lang=eng#0)). He then said, "But
+behold, I am a man, and do sin in my wish; for I ought to be content with the
+things which the Lord hath allotted unto me. ...
 
 "Why should I desire more than to perform the work to which I have been
-called?" ([Alma 29:3,
-6](https://www.lds.org/scriptures/bofm/alma/29.3%2C6?lang=eng#2)).
+called?" ([Alma 29:3, 6](/scriptures/bofm/alma/29.3,6?lang=eng#2)).
 
 Third, everyone faces financial challenges in life. Through wise budgeting,
 control your real needs and measure them carefully against your many wants in
@@ -120,7 +118,7 @@ which is of no worth, nor your labor for that which cannot satisfy. Hearken
 diligently unto me, and remember the words which I have spoken; and come unto
 the Holy One of Israel, and feast upon that which perisheth not, neither can
 be corrupted, and let your soul delight in fatness" ([2 Ne.
-9:51](https://www.lds.org/scriptures/bofm/2-ne/9.51?lang=eng#50)).
+9:51](/scriptures/bofm/2-ne/9.51?lang=eng#50)).
 
 Brothers and sisters, remember to always pay a full tithing.
 
@@ -150,7 +148,7 @@ unto salvation through faith which is in Christ Jesus.
 
 "All scripture is given by inspiration of God, and is profitable for doctrine,
 for reproof, for correction, for instruction in righteousness" ([2 Tim.
-3:15-16](https://www.lds.org/scriptures/nt/2-tim/3.15-16?lang=eng#14)).
+3:15-16](/scriptures/nt/2-tim/3.15-16?lang=eng#14)).
 
 Sixth, many people, including me, have difficulty finding the time for
 sufficient rest, exercise, and relaxation. We must schedule time on our daily
@@ -161,8 +159,8 @@ Seventh, the prophets have taught repeatedly that families should teach one
 another the gospel, preferably in a weekly family home evening. This family
 practice, if we are not very careful, can slowly drift away from us. We must
 not lose this special opportunity to "teach one another the doctrine of the
-kingdom" ([D&amp;C 88:77](https://www.lds.org/scriptures/dc-
-testament/dc/88.77?lang=eng#76)), which will lead families to eternal life.
+kingdom" ([D&amp;C 88:77](/scriptures/dc-testament/dc/88.77?lang=eng#76)),
+which will lead families to eternal life.
 
 Satan is always working to destroy our testimonies, but he will not have the
 power to tempt or disturb us beyond our strength to resist when we are
@@ -178,9 +176,8 @@ ye would humble yourselves before the Lord, and call on his holy name, and
 watch and pray continually, that ye may not be tempted above that which ye can
 bear, and thus be led by the Holy Spirit, becoming humble, meek, submissive,
 patient, full of love and all long-suffering" ([Alma
-13:28](https://www.lds.org/scriptures/bofm/alma/13.28?lang=eng#27)). When I am
-in tune spiritually, I find that I can balance everything in my life much more
-easily.
+13:28](/scriptures/bofm/alma/13.28?lang=eng#27)). When I am in tune
+spiritually, I find that I can balance everything in my life much more easily.
 
 I realize, brothers and sisters, that other suggestions could be added to
 these. However, I believe that when we focus on a few basic objectives, we are
@@ -188,7 +185,7 @@ more likely to be able to manage the many demands that life makes on us.
 Remember, too much of anything in life can throw us off-balance. At the same
 time, too little of the important things can do the same thing. King Benjamin
 counseled "that all these things are done in wisdom and order" ([Mosiah
-4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26)).
+4:27](/scriptures/bofm/mosiah/4.27?lang=eng#26)).
 
 Often the lack of clear direction and goals can waste away our time and energy
 and contribute to imbalance in our lives. A life that gets out of balance is
@@ -197,10 +194,9 @@ car rough and unsafe. Tires in perfect balance can give a smooth and
 comfortable ride. So it is with life. The ride through mortality can be
 smoother for us when we strive to stay in balance. Our main goal should be to
 seek "immortality and eternal life" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). With this
-as our goal, why not eliminate from our lives the things that clamor for and
-consume our thoughts, feelings, and energies without contributing to our
-reaching that goal?
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). With this as our goal, why not
+eliminate from our lives the things that clamor for and consume our thoughts,
+feelings, and energies without contributing to our reaching that goal?
 
 Just a word to Church leaders: Be very careful that what you ask from members
 will help them attain eternal life. For Church members to be able to balance
@@ -217,4 +213,6 @@ making balance easier to maintain.
 
 Live every day with joy in your heart, brothers and sisters. I humbly testify
 that life can be wonderful, in the name of Jesus Christ, amen.
+
+## References
 

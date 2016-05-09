@@ -126,7 +126,7 @@ Your ability to pray will be lessened. Your spirit will be affected adversely,
 and your testimony of the truth will start to slip away, probably so gradually
 at first that you won't even realize it is happening until it is too late. The
 Lord has said: "... Be ye clean that bear the vessels of the Lord." ([D&amp;C
-38:42](https://www.lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41).)
+38:42](/scriptures/dc-testament/dc/38.42?lang=eng#41).)
 
 Every prophet from the beginning of this earth has had foreknowledge of our
 day with its pitfalls and hazards. The scriptures alone give us the formula
@@ -134,8 +134,7 @@ for avoiding disaster. I like what the Lord says in the 121st section of the
 Doctrine and Covenants: "... let virtue garnish thy thoughts unceasingly; then
 shall thy confidence wax strong in the presence of God; and the doctrine of
 the priesthood shall distil upon thy soul as the dews from heaven." (Verse
-45.) [[D&amp;C 121:45](https://www.lds.org/scriptures/dc-
-testament/dc/121.45?lang=eng#44)]
+45.) [[D&amp;C 121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)]
 
 We have been admonished to read good books and to avoid idleness, and as
 President David O. McKay used to say so eloquently: "The true measure of a man
@@ -158,8 +157,7 @@ the power to do is increased." (Ralph Waldo Emerson.)
 It works in both directions: the power to accept pornography, as our senses
 become numbed, or the power to reject as we declare with Joshua of old: "...
 choose you this day whom ye will serve; ... as for me and my house, we will
-serve the Lord." ([Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+serve the Lord." ([Josh. 24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 To whom shall we turn for our direction in these vital matters? A prophet of
 God has spoken within the past few days. Here are the exact words of the First
@@ -175,11 +173,11 @@ pictures.
 
 "We therefore urge Latter-day Saint parents to teach their children to avoid
 smut in any of its many insidious forms. 'Let virtue garnish thy thoughts
-unceasingly.' ([D&amp;C 121:45](https://www.lds.org/scriptures/dc-
+unceasingly.' ([D&amp;C 121:45](/scriptures/dc-
 testament/dc/121.45?lang=eng#44).)
 
 "The Lord has also said: 'Set in order your houses; keep slothfulness and
-uncleanness far from you.' ([D&amp;C 90:18](https://www.lds.org/scriptures/dc-
+uncleanness far from you.' ([D&amp;C 90:18](/scriptures/dc-
 testament/dc/90.18?lang=eng#17).)
 
 "We also encourage Latter-day Saints as citizens to exert every effort to
@@ -190,4 +188,6 @@ licentiousness."
 May we accept this timely counsel. Your personal welfare and the eternal
 future of your entire family unit may depend upon it, and I say it in the name
 of Jesus Christ. Amen.
+
+## References
 

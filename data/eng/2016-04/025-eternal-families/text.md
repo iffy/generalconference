@@ -233,3 +233,15 @@ that we may all qualify and help others to qualify for that supernal blessing
 in the home of our Father and His Beloved Son, Jesus Christ. In the sacred
 name of Jesus Christ, amen.
 
+## References
+
+  1. _Teachings of Presidents of the Church: Joseph Smith_ (2007), 137.
+
+  2. Bruce R. McConkie, in Conference Report, Apr. 1970, 26.
+
+  3. N. Eldon Tanner,_ Church News,_ Apr. 19, 1969, 2.
+
+  4. Bruce R. McConkie, in Conference Report, Apr. 1970, 27.
+
+  5. Harold B. Lee, _Decisions for Successful Living_ (1973), 248-49.
+

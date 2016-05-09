@@ -27,11 +27,9 @@ To this day, I am grateful for those feelings that came to me that night.
 
 None of us knows how long we are going to live. In the Book of Mormon, Alma
 asked the question, "Can ye look up to God at that day with a pure heart and
-clean hands?" ([Alma
-5:19](https://www.lds.org/scriptures/bofm/alma/5.19?lang=eng#18).) I remember
-when the need to have "clean hands and a pure heart" ([Ps.
-24:4](https://www.lds.org/scriptures/ot/ps/24.4?lang=eng#3)) became very
-meaningful to me.
+clean hands?" ([Alma 5:19](/scriptures/bofm/alma/5.19?lang=eng#18).) I
+remember when the need to have "clean hands and a pure heart" ([Ps.
+24:4](/scriptures/ot/ps/24.4?lang=eng#3)) became very meaningful to me.
 
 It was just after my friend David Carlson and I had graduated from Preston
 High School. We were happy with the fact that it was the same school that
@@ -133,9 +131,8 @@ still knew that he had done what the Lord wanted him to do.
 Through the Prophet Joseph Smith, the Lord revealed the scripture which we
 have already heard from Elder Banks this evening--"that the thing which will
 be of the most worth unto you will be to declare repentance unto this people,
-that you may bring souls unto me." ([D&amp;C
-15:6](https://www.lds.org/scriptures/dc-testament/dc/15.6?lang=eng#5);
-[D&amp;C 16:6](https://www.lds.org/scriptures/dc-
+that you may bring souls unto me." ([D&amp;C 15:6](/scriptures/dc-
+testament/dc/15.6?lang=eng#5); [D&amp;C 16:6](/scriptures/dc-
 testament/dc/16.6?lang=eng#5).)
 
 Over the years we have been so impressed by the thousands of missionaries we
@@ -169,4 +166,6 @@ Our Heavenly Father lives. He also loves you and even knows you by name. Jesus
 is the Christ, and this is His church, led by the living prophets who are
 presiding at this general priesthood session. I share this testimony in the
 holy name of Jesus Christ, amen.
+
+## References
 

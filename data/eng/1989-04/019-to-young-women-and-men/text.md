@@ -143,9 +143,9 @@ protection, for they sound the alarm "Don't do that again!"
 Be grateful for both. If the nerve endings in your hands were altered so that
 you couldn't feel pain, you might put them in fire or machinery and destroy
 them. In your teenage heart of hearts, you know right from wrong. (See [2 Ne.
-2:5](https://www.lds.org/scriptures/bofm/2-ne/2.5?lang=eng#4).) Learn to pay
-attention to that spiritual voice of warning within you. Even then, you will
-not get by without some mistakes.
+2:5](/scriptures/bofm/2-ne/2.5?lang=eng#4).) Learn to pay attention to that
+spiritual voice of warning within you. Even then, you will not get by without
+some mistakes.
 
 ## Forgiveness
 
@@ -154,35 +154,35 @@ then too late for them. It is never too late! Never!
 
 While your temptations are greater than were ours, that will be considered in
 the judgments of the Lord. He said that "his mercies [are suited] according to
-the conditions of ... men." ([D&amp;C 46:15](https://www.lds.org/scriptures/dc-
+the conditions of ... men." ([D&amp;C 46:15](/scriptures/dc-
 testament/dc/46.15?lang=eng#14).) That is only just.
 
 A great contribution to Christian doctrine is the explanation in the Book of
 Mormon of how _justice_ and _mercy_ and _repentance_ and _forgiveness_ work
 together to erase transgressions. (See [Alma
-42](https://www.lds.org/scriptures/bofm/alma/42.title?lang=eng).)
+42](/scriptures/bofm/alma/42?lang=eng).)
 
 The discouraging idea that a mistake (or even a series of them) makes it
 everlastingly too late, does not come from the Lord. He has said that _if_ we
 will repent, not only will He forgive us our transgressions, but He will
 forget them and remember our sins no more. (See [Isa.
-43:25](https://www.lds.org/scriptures/ot/isa/43.25?lang=eng#24); [Heb.
-8:12](https://www.lds.org/scriptures/nt/heb/8.12?lang=eng#11); [Heb.
-10:17](https://www.lds.org/scriptures/nt/heb/10.17?lang=eng#16); [D&amp;C
-58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41);
-[Alma 36:19](https://www.lds.org/scriptures/bofm/alma/36.19?lang=eng#18).)
-Repentance is like soap; it can wash sin away. Ground-in dirt may take the
-strong detergent of discipline to get the stains out, but out they will come.
+43:25](/scriptures/ot/isa/43.25?lang=eng#24); [Heb.
+8:12](/scriptures/nt/heb/8.12?lang=eng#11); [Heb.
+10:17](/scriptures/nt/heb/10.17?lang=eng#16); [D&amp;C 58:42](/scriptures/dc-
+testament/dc/58.42?lang=eng#41); [Alma
+36:19](/scriptures/bofm/alma/36.19?lang=eng#18).) Repentance is like soap; it
+can wash sin away. Ground-in dirt may take the strong detergent of discipline
+to get the stains out, but out they will come.
 
 ## The End of the World
 
 Teenagers also sometimes think, "What's the use? The world will soon be blown
 all apart and come to an end." That feeling comes from fear, not from faith.
-No one knows the hour or the day (see [D&amp;C
-49:7](https://www.lds.org/scriptures/dc-testament/dc/49.7?lang=eng#6)), but
-the end cannot come until all of the purposes of the Lord are fulfilled.
-Everything that I have learned from the revelations and from life convinces me
-that there is time and to spare for you to carefully prepare for a long life.
+No one knows the hour or the day (see [D&amp;C 49:7](/scriptures/dc-
+testament/dc/49.7?lang=eng#6)), but the end cannot come until all of the
+purposes of the Lord are fulfilled. Everything that I have learned from the
+revelations and from life convinces me that there is time and to spare for you
+to carefully prepare for a long life.
 
 One day you will cope with teenage children of your own. That will serve you
 right. Later, you will spoil your grandchildren, and they in turn spoil
@@ -202,7 +202,7 @@ unto them their weakness. I give unto men weakness that they may be humble;
 and my grace is sufficient for all men that humble themselves before me; for
 if they humble themselves before me, and have faith in me, then will I make
 weak things become strong unto them." ([Ether
-12:27](https://www.lds.org/scriptures/bofm/ether/12.27?lang=eng#26).)
+12:27](/scriptures/bofm/ether/12.27?lang=eng#26).)
 
 There may be more justice in who we are and what we have or do not have than
 we ever suppose.
@@ -230,12 +230,13 @@ darts of the wicked;
 pour out upon you, and my word which I reveal unto you, and be agreed as
 touching all things whatsoever ye ask of me, and be faithful until I come, and
 ye shall be caught up, that where I am ye shall be also." ([D&amp;C
-27:15-18](https://www.lds.org/scriptures/dc-
-testament/dc/27.15-18?lang=eng#14).)
+27:15-18](/scriptures/dc-testament/dc/27.15-18?lang=eng#14).)
 
 God bless you young women and young men who struggle through the worrisome
 teenage years. Some of you may not yet have found yourselves, but you are
 _not_ lost, for Jesus is the Christ, the Son of God, our Savior and Redeemer.
 The gospel has been revealed and restored. Of Him I bear witness as I pray His
 blessings upon you, our youth, in the name of Jesus Christ, amen.
+
+## References
 

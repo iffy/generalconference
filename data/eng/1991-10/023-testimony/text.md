@@ -10,8 +10,8 @@ These changes have caused a significant shift in traditional or religious
 values toward world practices, and this is well described in one verse of
 modern revelation: "They seek not the Lord to establish his righteousness, but
 every man walketh in his own way, and after the image of his own god, whose
-image is in the likeness of the world." ([D&amp;C
-1:16](https://www.lds.org/scriptures/dc-testament/dc/1.16?lang=eng#15).)
+image is in the likeness of the world." ([D&amp;C 1:16](/scriptures/dc-
+testament/dc/1.16?lang=eng#15).)
 
 If we fail to recognize the personal spiritual challenge of political and
 economic changes and constant new threats to the moral and spiritual stability
@@ -50,21 +50,20 @@ individual testimony.
 
 Early in the scriptures, the sacredness of the word _testimony_ is illustrated
 when Adam was told that "all things are created and made to bear record of
-me." ([Moses
-6:63](https://www.lds.org/scriptures/pgp/moses/6.63?lang=eng#62).) It was
-vital for Adam to have a knowledge of our Father and his Son, and that has not
-changed in our time and will never change. This applies as well to the
-principle of gaining a testimony and knowing what it is. It is knowing by the
-power of the Holy Ghost that God lives and is the same yesterday, today, and
-forever (see [D&amp;C 20:12](https://www.lds.org/scriptures/dc-
-testament/dc/20.12?lang=eng#11)) and that "this is life eternal, that they
-might know thee the only true God, and Jesus Christ, whom thou hast sent"
-([John 17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)). A
-testimony is not only a witness that Jesus is the Christ, but also a statement
-or affirmation of the fact that Joseph Smith saw the Father and the Son; a
-conviction that the Book of Mormon has a divine origin and is another
-testament of Jesus Christ; and a knowledge that the Church of Jesus Christ,
-with its gospel and holy priesthood, was in truth and fact restored.
+me." ([Moses 6:63](/scriptures/pgp/moses/6.63?lang=eng#62).) It was vital for
+Adam to have a knowledge of our Father and his Son, and that has not changed
+in our time and will never change. This applies as well to the principle of
+gaining a testimony and knowing what it is. It is knowing by the power of the
+Holy Ghost that God lives and is the same yesterday, today, and forever (see
+[D&amp;C 20:12](/scriptures/dc-testament/dc/20.12?lang=eng#11)) and that "this
+is life eternal, that they might know thee the only true God, and Jesus
+Christ, whom thou hast sent" ([John
+17:3](/scriptures/nt/john/17.3?lang=eng#2)). A testimony is not only a witness
+that Jesus is the Christ, but also a statement or affirmation of the fact that
+Joseph Smith saw the Father and the Son; a conviction that the Book of Mormon
+has a divine origin and is another testament of Jesus Christ; and a knowledge
+that the Church of Jesus Christ, with its gospel and holy priesthood, was in
+truth and fact restored.
 
 Joseph Fielding Smith defined it this way: "A testimony of the gospel is a
 convincing knowledge given by revelation to the individual who humbly seeks
@@ -75,16 +74,15 @@ What are the essential steps to obtain a testimony? First, to humbly seek the
 truth, to have a desire to know by exercising belief or faith. When we obtain
 any blessing from God, such as an answer to prayer or a convincing knowledge,
 it is by obedience to that law upon which it is predicated. (See [D&amp;C
-130:21](https://www.lds.org/scriptures/dc-testament/dc/130.21?lang=eng#20).)
-Here, then, are the required standards of the law: ask in the name of Christ
-and exercise faith in him, have a sincere heart, humbly seek the truth, be
-receptive, discard preconceived religious concepts, and cleanse yourself from
-the sins of the world. You must adhere to the rules, tune in correctly to
-receive the proper signal, and, once in harmony with the Holy Ghost, you may
-know the truth of all things. This represents a spiritual gift available from
-God, not to be denied but to profit us. It is permanently available, never to
-be taken away except by our unbelief or unwillingness to humbly seek the
-truth.
+130:21](/scriptures/dc-testament/dc/130.21?lang=eng#20).) Here, then, are the
+required standards of the law: ask in the name of Christ and exercise faith in
+him, have a sincere heart, humbly seek the truth, be receptive, discard
+preconceived religious concepts, and cleanse yourself from the sins of the
+world. You must adhere to the rules, tune in correctly to receive the proper
+signal, and, once in harmony with the Holy Ghost, you may know the truth of
+all things. This represents a spiritual gift available from God, not to be
+denied but to profit us. It is permanently available, never to be taken away
+except by our unbelief or unwillingness to humbly seek the truth.
 
 The second step is to know by revelation, where Spirit speaks to spirit. It is
 one thing to be able to say, "I believe, I think, I hope that the gospel is
@@ -95,26 +93,22 @@ Alma gives us a perfect example of this convincing knowledge that he received
 by revelation. In four verses we learn about this light within himself. First,
 the assurance of his testimony: "Behold, I testify unto you that I do know
 that these things whereof I have spoken are true." ([Alma
-5:45](https://www.lds.org/scriptures/bofm/alma/5.45?lang=eng#44).) Second, the
-source of his testimony: "They are made known unto me by the Holy Spirit of
-God." ([Alma
-5:46](https://www.lds.org/scriptures/bofm/alma/5.46?lang=eng#45).) Third, the
-process of gaining his testimony: "I have fasted and prayed." ([Alma
-5:46](https://www.lds.org/scriptures/bofm/alma/5.46?lang=eng#45).) Fourth, the
-evidence of his testimony: "The Lord God hath made them manifest unto me by
-his Holy Spirit; and this is the spirit of revelation which is in me." ([Alma
-5:46](https://www.lds.org/scriptures/bofm/alma/5.46?lang=eng#45).) Fifth, the
-origin of his testimony: "The words which have been spoken by our fathers are
-true." ([Alma
-5:47](https://www.lds.org/scriptures/bofm/alma/5.47?lang=eng#46).) Sixth, the
-power of his testimony: "I say unto you, that I know of myself ... that Jesus
-Christ shall come." ([Alma
-5:48](https://www.lds.org/scriptures/bofm/alma/5.48?lang=eng#47).) This
-convincing knowledge or testimony would not be complete without also accepting
-the responsibility of carrying such a testimony. And Alma further stated, "I
-am called ... to preach ... to cry unto them that they must repent and be born
-again." ([Alma
-5:49](https://www.lds.org/scriptures/bofm/alma/5.49?lang=eng#48).)
+5:45](/scriptures/bofm/alma/5.45?lang=eng#44).) Second, the source of his
+testimony: "They are made known unto me by the Holy Spirit of God." ([Alma
+5:46](/scriptures/bofm/alma/5.46?lang=eng#45).) Third, the process of gaining
+his testimony: "I have fasted and prayed." ([Alma
+5:46](/scriptures/bofm/alma/5.46?lang=eng#45).) Fourth, the evidence of his
+testimony: "The Lord God hath made them manifest unto me by his Holy Spirit;
+and this is the spirit of revelation which is in me." ([Alma
+5:46](/scriptures/bofm/alma/5.46?lang=eng#45).) Fifth, the origin of his
+testimony: "The words which have been spoken by our fathers are true." ([Alma
+5:47](/scriptures/bofm/alma/5.47?lang=eng#46).) Sixth, the power of his
+testimony: "I say unto you, that I know of myself ... that Jesus Christ shall
+come." ([Alma 5:48](/scriptures/bofm/alma/5.48?lang=eng#47).) This convincing
+knowledge or testimony would not be complete without also accepting the
+responsibility of carrying such a testimony. And Alma further stated, "I am
+called ... to preach ... to cry unto them that they must repent and be born
+again." ([Alma 5:49](/scriptures/bofm/alma/5.49?lang=eng#48).)
 
 Let us now examine the keys of the spirit of revelation.
 
@@ -144,7 +138,7 @@ burn, it needs to be fed and tended or it will burn out and die. A dying
 testimony corresponds, in fact, to a forthcoming denial of Christ, our Savior
 and Redeemer. Nephi taught: "For the right way is to believe in Christ and
 deny him not; for by denying him ye also deny the prophets and the law." ([2
-Ne. 25:28](https://www.lds.org/scriptures/bofm/2-ne/25.28?lang=eng#27).)
+Ne. 25:28](/scriptures/bofm/2-ne/25.28?lang=eng#27).)
 
 Unfortunately, there are those who gain testimonies and then deny them and
 lose them. How does this happen? If you follow the steps to obtain a
@@ -180,7 +174,7 @@ his people had quite a convincing knowledge.
 When Joseph Smith received his vision, he also knew. It was an indelible
 testimony. In his own words, "For I had seen a vision; I knew it, and I knew
 that God knew it, and I could not deny it, neither dared I do it." ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 These testimonies were true foundations to be built upon and followed by
 obedience and good works. What about us? Are we any different when we have
@@ -202,4 +196,6 @@ searched in all humility and acquired by the power of the Holy Ghost, that I
 know personally that God lives, that Jesus is the Christ, our Savior and
 Redeemer, that this church is true and is led by a living prophet, President
 Ezra Taft Benson. This I testify in the name of Jesus Christ, amen.
+
+## References
 

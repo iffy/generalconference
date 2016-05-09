@@ -6,14 +6,12 @@ mission of the Redeemer that possibly has ever been recorded.
 
 The law of witnesses has always been a part of the Lord's work on earth. This
 law states that "in the mouth of two or three witnesses shall every word be
-established" ([2 Cor.
-13:1](https://www.lds.org/scriptures/nt/2-cor/13.1?lang=eng#0); see also
-[Deut. 17:6](https://www.lds.org/scriptures/ot/deut/17.6?lang=eng#5); [Deut.
-19:15](https://www.lds.org/scriptures/ot/deut/19.15?lang=eng#14); [Matt.
-18:15-16](https://www.lds.org/scriptures/nt/matt/18.15-16?lang=eng#14); [John
-8:12-29](https://www.lds.org/scriptures/nt/john/8.12-29?lang=eng#11)). This
-witness confirms that certain events took place and that God-given doctrine
-and principles are true.
+established" ([2 Cor. 13:1](/scriptures/nt/2-cor/13.1?lang=eng#0); see also
+[Deut. 17:6](/scriptures/ot/deut/17.6?lang=eng#5); [Deut.
+19:15](/scriptures/ot/deut/19.15?lang=eng#14); [Matt.
+18:15-16](/scriptures/nt/matt/18.15-16?lang=eng#14); [John
+8:12-29](/scriptures/nt/john/8.12-29?lang=eng#11)). This witness confirms that
+certain events took place and that God-given doctrine and principles are true.
 
 The first duty of a witness is to testify. A person who can testify to the
 truths of the restored gospel of Jesus Christ is speaking of things he or she
@@ -24,7 +22,7 @@ that we might know the things that are freely given to us of God.
 
 "Which things also we speak, not in the words which man's wisdom teacheth, but
 which the Holy Ghost teacheth; comparing spiritual things with spiritual" ([1
-Cor. 2:12-13](https://www.lds.org/scriptures/nt/1-cor/2.12-13?lang=eng#11)).
+Cor. 2:12-13](/scriptures/nt/1-cor/2.12-13?lang=eng#11)).
 
 I was just a young boy when I sat in a stake conference in the Tooele Utah
 Stake, listening carefully to the visitor. He was LeGrand Richards, and he
@@ -55,14 +53,14 @@ the Church,_ 2:19).
 Every person who receives baptism into the Church and has received and felt
 the confirmation of the Spirit through the gift of the Holy Ghost stands as a
 witness "of God at all times and in all things, and in all places" ([Mosiah
-18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8)). When
-partaking of the sacrament, that person renews that witness to take the
-Savior's name, keep his commandments, and remember him. A person so moved by
-the Spirit not only knows these things himself, but the Spirit carries them
-into the hearts of others. This is the basis of the Church's great missionary
-effort. "For when a man speaketh by the power of the Holy Ghost the power of
-the Holy Ghost carrieth it unto the hearts of the children of men" ([2 Ne.
-33:1](https://www.lds.org/scriptures/bofm/2-ne/33.1?lang=eng#0)).
+18:9](/scriptures/bofm/mosiah/18.9?lang=eng#8)). When partaking of the
+sacrament, that person renews that witness to take the Savior's name, keep his
+commandments, and remember him. A person so moved by the Spirit not only knows
+these things himself, but the Spirit carries them into the hearts of others.
+This is the basis of the Church's great missionary effort. "For when a man
+speaketh by the power of the Holy Ghost the power of the Holy Ghost carrieth
+it unto the hearts of the children of men" ([2 Ne.
+33:1](/scriptures/bofm/2-ne/33.1?lang=eng#0)).
 
 The witness of the Holy Ghost is even more compelling than the witness of
 sight. As members of the Church, we become witnesses of the Savior and the
@@ -70,14 +68,13 @@ truthfulness of this work not only in word but also in keeping our covenants
 and in how we treat others and in how we live our everyday lives.
 
 The First Presidency and the Twelve are called as "special witnesses of the
-name of Christ in all the world" ([D&amp;C
-107:23](https://www.lds.org/scriptures/dc-testament/dc/107.23?lang=eng#22)).
-They are men who by divine designation, priesthood ordination, and the fire of
-the Holy Ghost hold the keys to the ministry on earth. The Seventy act under
-the direction of the First Presidency and the Twelve and are special witnesses
-unto the Gentiles and in all the world. Together, all the members become what
-Paul refers to as a "cloud of witnesses" ([Heb.
-12:1](https://www.lds.org/scriptures/nt/heb/12.1?lang=eng#0)).
+name of Christ in all the world" ([D&amp;C 107:23](/scriptures/dc-
+testament/dc/107.23?lang=eng#22)). They are men who by divine designation,
+priesthood ordination, and the fire of the Holy Ghost hold the keys to the
+ministry on earth. The Seventy act under the direction of the First Presidency
+and the Twelve and are special witnesses unto the Gentiles and in all the
+world. Together, all the members become what Paul refers to as a "cloud of
+witnesses" ([Heb. 12:1](/scriptures/nt/heb/12.1?lang=eng#0)).
 
 The Prophet Joseph defined the work of the kingdom in our dispensation with
 these sacred words: "And now, after the many testimonies which have been given
@@ -86,8 +83,7 @@ him: That he lives!
 
 "For we saw him, even on the right hand of God; and we heard the voice bearing
 record that he is the Only Begotten of the Father" ([D&amp;C
-76:22-23](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-23?lang=eng#21)).
+76:22-23](/scriptures/dc-testament/dc/76.22-23?lang=eng#21)).
 
 The Three Witnesses to the Book of Mormon, Oliver Cowdery, David Whitmer, and
 Martin Harris, stated, "And we declare with words of soberness, that an angel
@@ -138,4 +134,6 @@ that Joseph Smith was a true prophet of God. I know that Gordon B. Hinckley is
 a prophet of God today and that this is the gospel of Jesus Christ. May the
 Lord so bless us that we may listen to the witnesses and bear witness
 ourselves, in the name of Jesus Christ, amen.
+
+## References
 

@@ -35,8 +35,7 @@ unto the renewing of their bodies.
 church and kingdom, and the elect of God.
 
 "... therefore all that my Father hath shall be given unto him." ([D&amp;C
-84:33-34, 38](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-34%2C38?lang=eng#32).)
+84:33-34, 38](/scriptures/dc-testament/dc/84.33-34,38?lang=eng#32).)
 
 Now note the commandment the Lord gives unto all priesthood holders:
 
@@ -44,8 +43,7 @@ Now note the commandment the Lord gives unto all priesthood holders:
 give diligent heed to the words of eternal life.
 
 "For you shall live by every word that proceedeth forth from the mouth of
-God." ([D&amp;C 84:43-44](https://www.lds.org/scriptures/dc-
-testament/dc/84.43-44?lang=eng#42).)
+God." ([D&amp;C 84:43-44](/scriptures/dc-testament/dc/84.43-44?lang=eng#42).)
 
 Never before has your strength and influence been needed more than now to
 combat the evils of the world which are as predicted and recorded in Second
@@ -57,7 +55,7 @@ and stir them up to anger against that which is good.
 "And others will he pacify, and lull them away into carnal security, that they
 will say: All is well in Zion; yea, Zion prospereth, all is well--and thus the
 devil cheateth their souls, and leadeth them away carefully down to hell." ([2
-Ne. 28:20-21](https://www.lds.org/scriptures/bofm/2-ne/28.20-21?lang=eng#19).)
+Ne. 28:20-21](/scriptures/bofm/2-ne/28.20-21?lang=eng#19).)
 
 Brethren, we seem to think that is a long way away, and when we die we won't
 be well met unless we are prepared to do what the Lord has asked us to do.
@@ -73,8 +71,7 @@ being here upon the earth, but are essential to our eternal life.
 First I should like to emphasize that one of the greatest gifts that God has
 given to man is his _free agency. _You may choose your life and what you will
 be. But the Lord has said; "If ye love me, keep my commandments" ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14)), whether you
-are boys or men.
+14:15](/scriptures/nt/john/14.15?lang=eng#14)), whether you are boys or men.
 
 I should like to read a little poem which most of you have heard--some, many
 times:
@@ -121,13 +118,13 @@ discipline, and dependability. But let us always remember that the Lord has
 said:
 
 "When we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:21](https://www.lds.org/scriptures/dc-
+which it is predicated." ([D&amp;C 130:21](/scriptures/dc-
 testament/dc/130.21?lang=eng#20).)
 
 He also said:
 
 "I, the Lord, am bound when ye do what I say; but when ye do not what I say,
-ye have no promise." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
+ye have no promise." ([D&amp;C 82:10](/scriptures/dc-
 testament/dc/82.10?lang=eng#9).)
 
 The laws of nature are inflexible and rigid and right. Through ignorance or
@@ -186,8 +183,7 @@ were given, but through faith in God, he has accepted and kept the
 commandments, if he were wise.
 
 Adam, when asked why he offered sacrifice, said, "I know not, save the Lord
-commanded me." ([Moses
-5:6](https://www.lds.org/scriptures/pgp/moses/5.6?lang=eng#5).) That was
+commanded me." ([Moses 5:6](/scriptures/pgp/moses/5.6?lang=eng#5).) That was
 enough for Adam, and he kept the commandments. Imagine yourself being in
 Noah's place when the Lord told him to go and build an ark. There was no rain
 or anything to worry about, but he was told to go and build an ark; and he set
@@ -252,7 +248,7 @@ faith.
 "For by doing these things the gates of hell shall not prevail against you;
 yea, and the Lord God will disperse the powers of darkness from before you,
 and cause the heavens to shake for your good, and his name's glory." ([D&amp;C
-21:4-6](https://www.lds.org/scriptures/dc-testament/dc/21.4-6?lang=eng#3).)
+21:4-6](/scriptures/dc-testament/dc/21.4-6?lang=eng#3).)
 
 Is that promise enough, brethren?
 
@@ -264,8 +260,8 @@ holy:
 shalt go to the house of prayer and offer up thy sacraments upon my holy day;
 
 "For verily this is a day appointed unto you to rest from your labors, and to
-pay thy devotions unto the Most High." ([D&amp;C
-59:9-10](https://www.lds.org/scriptures/dc-testament/dc/59.9-10?lang=eng#8).)
+pay thy devotions unto the Most High." ([D&amp;C 59:9-10](/scriptures/dc-
+testament/dc/59.9-10?lang=eng#8).)
 
 Surely we can give one day out of seven serving the Lord who came and gave his
 life for us. Surely we can follow the teachings of the Lord, where he says
@@ -319,4 +315,6 @@ for good, and help build the kingdom of God here upon the earth.
 May we do this, as members of the Church of Jesus Christ, which we are, and
 follow the prophet of God who has been chosen and through whom the Lord
 speaks, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

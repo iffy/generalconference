@@ -6,7 +6,7 @@ him during these days. However, some of them were offended by Christ's
 teachings and turned away from him. Upon their departure Christ asked his
 twelve disciples if they also wanted to leave him. Simon Peter answered
 Christ's question by asking, "Lord, to whom shall we go?" ([John
-6:68](https://www.lds.org/scriptures/nt/john/6.68?lang=eng#67)).
+6:68](/scriptures/nt/john/6.68?lang=eng#67)).
 
 This question is as relevant and urgent today as it was two thousand years
 ago. As Latter-day Saints we believe that Christ shows us the way and place to
@@ -55,20 +55,18 @@ is the Son of God. He says of himself, "And behold, I am the light and the
 life of the world; and I have drunk out of that bitter cup which the Father
 hath given me, and have glorified the Father in taking upon me the sins of the
 world, in the which I have suffered the will of the Father in all things from
-the beginning" ([3 Ne.
-11:11](https://www.lds.org/scriptures/bofm/3-ne/11.11?lang=eng#10)).
+the beginning" ([3 Ne. 11:11](/scriptures/bofm/3-ne/11.11?lang=eng#10)).
 
 With that knowledge of him we are promised, as it is written in John, "And
 this is the will of him that sent me, that every one which ... believeth on him,
 may have everlasting life: and I will raise him up at the last day" ([John
-6:40](https://www.lds.org/scriptures/nt/john/6.40?lang=eng#39)).
+6:40](/scriptures/nt/john/6.40?lang=eng#39)).
 
 In order to go the right direction in life and receive the blessings of the
 gospel, it is important first to be willing to accept the restored gospel in
 all its fulness. Christ said to Joseph Smith regarding the restoration of His
-gospel, "A light shall break forth ... , and it shall be the fulness of my
-gospel" ([D&amp;C 45:28](https://www.lds.org/scriptures/dc-
-testament/dc/45.28?lang=eng#27)).
+gospel, "A light shall break forth ..., and it shall be the fulness of my
+gospel" ([D&amp;C 45:28](/scriptures/dc-testament/dc/45.28?lang=eng#27)).
 
 In addition, it is important to accept God's divine authority and the
 authority of his servants. Paul explained to the branch in Ephesus why
@@ -79,8 +77,7 @@ the Lord. He wrote:
 edifying of the body of Christ:
 
 "Till we all come in the unity of the faith, and of the knowledge of the Son
-of God" ([Eph.
-4:12-13](https://www.lds.org/scriptures/nt/eph/4.12-13?lang=eng#11)).
+of God" ([Eph. 4:12-13](/scriptures/nt/eph/4.12-13?lang=eng#11)).
 
 Further, as we know God's commandments, we must keep them without compromises
 or exceptions. We are at times tempted to place less importance on the
@@ -89,7 +86,7 @@ external circumstances pollute our faith. In order to escape seductive
 influences that take us away from Christ, he commands us, "That thou mayest
 more fully keep thyself unspotted from the world, thou shalt go to the house
 of prayer and offer up thy sacraments upon my holy day" ([D&amp;C
-59:9](https://www.lds.org/scriptures/dc-testament/dc/59.9?lang=eng#8)).
+59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8)).
 
 To follow his commandments will bring freedom, independence, strength, and
 true happiness. I therefore ask everyone this day, "To whom shall we go?" Let
@@ -101,12 +98,13 @@ Christ:
 "Lord, to whom shall we go? thou hast the words of eternal life.
 
 "And we believe and are sure that thou art that Christ, the Son of the living
-God" ([John
-6:68-69](https://www.lds.org/scriptures/nt/john/6.68-69?lang=eng#67)).
+God" ([John 6:68-69](/scriptures/nt/john/6.68-69?lang=eng#67)).
 
 I testify to you that Joseph Smith saw the Father and the Son. They are real.
 Jesus is risen. He is our Christ and Savior. He is the Son of the living God.
 This knowledge is my faith, my testimony, and my life. I pray that we all may
 come to the knowledge of Jesus Christ and act accordingly with a pure heart,
 with hope, and with charity. In the name of Jesus Christ, amen.
+
+## References
 

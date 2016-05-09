@@ -27,8 +27,10 @@ and lighted the way. 'Sadly, many individuals and nations have extinguished
 that light. They have attempted to supplant His gospel with coercion and the
 sword.'" (_Church News,_ 4 Dec. 1982, p. 10.) But even to those who reject
 Him, He is "the light [which] shineth in darkness." ([John
-1:5](https://www.lds.org/scriptures/nt/john/1.5?lang=eng#4).)
+1:5](/scriptures/nt/john/1.5?lang=eng#4).)
 
 Thank you, our prophet dear, and please be assured of our prayers. May our
 Heavenly Father continue to bless you.
+
+## References
 

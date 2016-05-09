@@ -19,19 +19,18 @@ times. He said:
 
 "This gospel of the kingdom shall be preached in all the world for a witness
 unto all nations; and then shall the end come." ([Matt.
-24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).)
+24:14](/scriptures/nt/matt/24.14?lang=eng#13).)
 
 Today The Church of Jesus Christ of Latter-day Saints is extending the
 heralded message of the restoration of the gospel to every nation which
 permits us entrance through its borders. This is a fulfillment of the vision
 and revelation received by Daniel, the prophet, "Who foresaw and foretold the
 establishment of the kingdom of God in the latter days, never again to be
-destroyed nor given to other people." [D&amp;C
-138:44](https://www.lds.org/scriptures/dc-testament/dc/138.44?lang=eng#43).)
-He likened the beginning of this kingdom to a small stone cut out of a
-mountain without human hands but which rolled forward to become a great
-mountain until it filled the entire earth. (See [Dan. 2:34-35,
-44-45](https://www.lds.org/scriptures/ot/dan/2.34-35%2C44-45?lang=eng#33).)
+destroyed nor given to other people." [D&amp;C 138:44](/scriptures/dc-
+testament/dc/138.44?lang=eng#43).) He likened the beginning of this kingdom to
+a small stone cut out of a mountain without human hands but which rolled
+forward to become a great mountain until it filled the entire earth. (See
+[Dan. 2:34-35, 44-45](/scriptures/ot/dan/2.34-35,44-45?lang=eng#33).)
 
 This interpretation was validated by the Lord to the Prophet Joseph Smith by
 modern revelation in these words:
@@ -39,16 +38,16 @@ modern revelation in these words:
 "The keys of the kingdom of God are committed unto man on the earth, and from
 thence shall the gospel roll forth unto the ends of the earth, as the stone
 which is cut out of the mountain without hands shall roll forth, until it has
-filled the whole earth." ([D&amp;C 65:2](https://www.lds.org/scriptures/dc-
+filled the whole earth." ([D&amp;C 65:2](/scriptures/dc-
 testament/dc/65.2?lang=eng#1).)
 
 This is the heaven-decreed destiny of this church and kingdom.
 
 Not all men will perceive the hand of God in this latter-day work. Jesus told
 Nicodemus, "Except a man be born again, he cannot see the kingdom of God."
-([John 3:3](https://www.lds.org/scriptures/nt/john/3.3?lang=eng#2).) Without
-the guidance and inspiration of the Holy Ghost, there will be some who will
-see nothing more to the progress of the Church than a social curiosity.
+([John 3:3](/scriptures/nt/john/3.3?lang=eng#2).) Without the guidance and
+inspiration of the Holy Ghost, there will be some who will see nothing more to
+the progress of the Church than a social curiosity.
 
 We may expect to see the righteousness of the Saints and the progress of the
 kingdom of God continue unabated, but it will not be without opposition. The
@@ -62,11 +61,11 @@ Saints,_ 5 vols., Salt Lake City: Bookcraft, 1965-70, 1:257.)
 
 Yes, as the Lord declared, "Zion _must_ increase in beauty, and in holiness;
 her borders _must_ be enlarged; her stakes _must_ be strengthened." ([D&amp;C
-82:14](https://www.lds.org/scriptures/dc-testament/dc/82.14?lang=eng#13);
-italics added.) As righteousness will increase, so will evil. We see evidences
-of this all about us. It sometimes causes members of the Church to despair. We
-may be assured, however, that the Lord will take care of this in His own time
-and in His own way. Hear His decree:
+82:14](/scriptures/dc-testament/dc/82.14?lang=eng#13); italics added.) As
+righteousness will increase, so will evil. We see evidences of this all about
+us. It sometimes causes members of the Church to despair. We may be assured,
+however, that the Lord will take care of this in His own time and in His own
+way. Hear His decree:
 
 "I, the Lord, am angry with the wicked. ...
 
@@ -75,8 +74,7 @@ the wicked shall slay the wicked, and fear shall come upon every man;
 
 "_And the saints also shall hardly escape;_ nevertheless, I, the Lord, am with
 them, and will come down in heaven from the presence of my Father and consume
-the wicked with unquenchable fire." ([D&amp;C
-63:32-34](https://www.lds.org/scriptures/dc-
+the wicked with unquenchable fire." ([D&amp;C 63:32-34](/scriptures/dc-
 testament/dc/63.32-34?lang=eng#31); italics added.)
 
 "We may not be too far from the day prophesied by Heber C. Kimball,
@@ -89,7 +87,7 @@ will cry unto the Lord day and night until deliverance comes." ("Prophecy of
 Heber C. Kimball," _Deseret News,_ Church Section, May 23, 1931, p. 3.)
 
 But remember the Lord has said in modern revelation, "If ye are prepared ye
-shall not fear." ([D&amp;C 38:30](https://www.lds.org/scriptures/dc-
+shall not fear." ([D&amp;C 38:30](/scriptures/dc-
 testament/dc/38.30?lang=eng#29).) Are we prepared? God help us to be so for
 the tests of the days ahead.
 
@@ -105,13 +103,12 @@ we should be doing?"
 It is easy to despair when we see about us the moorings of society slipping.
 We must remember, however, that the Lord sent His Saints into the world "to be
 a light unto the world, and to be the saviors of men." ([D&amp;C
-103:9](https://www.lds.org/scriptures/dc-testament/dc/103.9?lang=eng#8).) This
-is a time when "Zion must arise and put on her beautiful garments." ([D&amp;C
-82:14](https://www.lds.org/scriptures/dc-testament/dc/82.14?lang=eng#13).) The
-contrast between the Church and the world will be increasingly marked in the
-future, which contrast, we hope, will cause the Church to be more attractive
-to those in the world who desire to live according to God's plan for us, His
-children.
+103:9](/scriptures/dc-testament/dc/103.9?lang=eng#8).) This is a time when
+"Zion must arise and put on her beautiful garments." ([D&amp;C
+82:14](/scriptures/dc-testament/dc/82.14?lang=eng#13).) The contrast between
+the Church and the world will be increasingly marked in the future, which
+contrast, we hope, will cause the Church to be more attractive to those in the
+world who desire to live according to God's plan for us, His children.
 
 The Church will always stand for that which is honest, virtuous, true and
 praiseworthy. Such a pronounced stand _for_ righteousness constitutes a
@@ -122,13 +119,13 @@ and will continue to warn the world and the Saints as the Lord directs.
 Yes, there is a conspiracy of evil. The source of it all is Satan and his
 hosts. He has a great power over men to "lead them captive at his will, even
 as many as would not hearken" to the voice of the Lord. ([Moses
-4:4](https://www.lds.org/scriptures/pgp/moses/4.4?lang=eng#3).) His evil
-influence may be manifest through governments; through false educational,
-political, economic, religious, and social philosophies; through secret
-societies and organizations; and through myriads of other forms. His power and
-influence are so great that, if possible, he would deceive the very elect. As
-the second coming of the Lord approaches, Satan's work will intensify through
-numerous insidious deceptions.
+4:4](/scriptures/pgp/moses/4.4?lang=eng#3).) His evil influence may be
+manifest through governments; through false educational, political, economic,
+religious, and social philosophies; through secret societies and
+organizations; and through myriads of other forms. His power and influence are
+so great that, if possible, he would deceive the very elect. As the second
+coming of the Lord approaches, Satan's work will intensify through numerous
+insidious deceptions.
 
 Parents also need to take a stand for all that is honest, virtuous, and
 praiseworthy. It is the responsibility of heads of families to support
@@ -141,8 +138,7 @@ atmosphere of freedom. Every adult has responsibility in selecting government
 leadership, for as the Lord has said, "I, the Lord God, make you free,
 therefore ye are free indeed; ... Nevertheless, when the wicked rule the people
 mourn. Wherefore, honest men and wise men should be sought for diligently."
-([D&amp;C 98:8-10](https://www.lds.org/scriptures/dc-
-testament/dc/98.8-10?lang=eng#7).)
+([D&amp;C 98:8-10](/scriptures/dc-testament/dc/98.8-10?lang=eng#7).)
 
 There is an urgent need for the development of a more firm and virtuous
 influence in the public affairs of each community, each state or province, and
@@ -160,7 +156,7 @@ in all things, the same is a slothful and not a wise servant. ...
 own free will, and bring to pass much righteousness;
 
 "For the power is in them. ... And inasmuch as men do good they shall in nowise
-lose their reward." ([D&amp;C 58:26-28](https://www.lds.org/scriptures/dc-
+lose their reward." ([D&amp;C 58:26-28](/scriptures/dc-
 testament/dc/58.26-28?lang=eng#25).)
 
 Joseph Smith, the prophet of this dispensation, declared: "It is our duty to
@@ -186,11 +182,10 @@ world.
 
 When Jesus stood before Pilate, the Roman governor asked him whether or not He
 was a king. It was a political question. The Savior replied: "My kingdom is
-not of this world." ([John
-18:36](https://www.lds.org/scriptures/nt/john/18.36?lang=eng#35).) His answer
-is apropos today: The work of His kingdom is preeminently spiritual. The
-economic, political, and social problems facing this nation, as well as other
-nations, will be solved only with the help of God.
+not of this world." ([John 18:36](/scriptures/nt/john/18.36?lang=eng#35).) His
+answer is apropos today: The work of His kingdom is preeminently spiritual.
+The economic, political, and social problems facing this nation, as well as
+other nations, will be solved only with the help of God.
 
 The days ahead will be sobering and will test the faith of the Saints. But we
 may obtain strength from the Lord's assurances found in modern revelation. I
@@ -198,22 +193,21 @@ quote:
 
 "He will preserve the righteous by his power. ... Wherefore, the righteous need
 not fear; ... they shall be saved, even if it so be ... by fire." ([1 Ne.
-22:17](https://www.lds.org/scriptures/bofm/1-ne/22.17?lang=eng#16).)
+22:17](/scriptures/bofm/1-ne/22.17?lang=eng#16).)
 
-"I will fight your battles." ([D&amp;C 105:14](https://www.lds.org/scriptures
-/dc-testament/dc/105.14?lang=eng#13).) "No weapon that is formed against thee
+"I will fight your battles." ([D&amp;C 105:14](/scriptures/dc-
+testament/dc/105.14?lang=eng#13).) "No weapon that is formed against thee
 shall prosper; ... This is the heritage of the servants of the Lord." ([3 Ne.
-22:17](https://www.lds.org/scriptures/bofm/3-ne/22.17?lang=eng#16).)
+22:17](/scriptures/bofm/3-ne/22.17?lang=eng#16).)
 
 "Great tribulations shall be among the children of men, _but my people will I
-preserve._" ([Moses
-7:61](https://www.lds.org/scriptures/pgp/moses/7.61?lang=eng#60); italics
+preserve._" ([Moses 7:61](/scriptures/pgp/moses/7.61?lang=eng#60); italics
 added.)
 
 The kingdom of God will not fail; it shall not be destroyed; it will not be
 left to other people; it will stand forever until "the kingdoms of this world
 [will] become the kingdoms of our Lord, and of his Christ." ([Rev.
-11:15](https://www.lds.org/scriptures/nt/rev/11.15?lang=eng#14).)
+11:15](/scriptures/nt/rev/11.15?lang=eng#14).)
 
 Hear the prophecy of the Prophet Joseph Smith:
 
@@ -240,13 +234,12 @@ civil authority. Do your duty as citizens. "Do not yield to the bad, but
 always oppose it with good." (Virgil.)
 
 To all who have allegiance to the kingdom of God, we say: "Seek ye ... first the
-kingdom of God." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).) "Arise and
-shine forth, that thy light may be a standard for the nations; And that the
-gathering together upon the land of Zion, and upon her stakes, may be for a
-defense, and for a refuge from the storm, and from wrath when it shall be
+kingdom of God." ([Matt. 6:33](/scriptures/nt/matt/6.33?lang=eng#32).) "Arise
+and shine forth, that thy light may be a standard for the nations; And that
+the gathering together upon the land of Zion, and upon her stakes, may be for
+a defense, and for a refuge from the storm, and from wrath when it shall be
 poured out without mixture upon the whole earth." ([D&amp;C
-115:5-6](https://www.lds.org/scriptures/dc-testament/dc/115.5-6?lang=eng#4).)
+115:5-6](/scriptures/dc-testament/dc/115.5-6?lang=eng#4).)
 
 Yes, "Call upon the Lord, that his kingdom may go forth upon the earth, that
 the inhabitants thereof may receive it, and be prepared for the days to come,
@@ -255,11 +248,12 @@ brightness of his glory, to meet the kingdom of God which is set up on the
 earth.
 
 "Wherefore, may the kingdom of God go forth, that the kingdom of heaven may
-come." ([D&amp;C 65:5-6](https://www.lds.org/scriptures/dc-
-testament/dc/65.5-6?lang=eng#4).)
+come." ([D&amp;C 65:5-6](/scriptures/dc-testament/dc/65.5-6?lang=eng#4).)
 
 I bear humble witness that The Church of Jesus Christ of Latter-day Saints is
 the restored kingdom of God on earth today. Its message and blessings are for
 all of our Father's children. It is the truth, to which I bear grateful
 testimony in the sacred name of Jesus Christ. Amen.
+
+## References
 

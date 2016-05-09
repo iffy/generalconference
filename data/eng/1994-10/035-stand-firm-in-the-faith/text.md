@@ -28,7 +28,7 @@ But we are not left comfortless! We have the scriptures, which contain
 enduring words of a loving Father in Heaven, who tells us that we are his
 first priority. He said, "For behold, this is my work and my glory--to bring
 to pass the immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 In addition to those words of a loving Father in Heaven, we have the Savior,
 of whom Alma recorded:
@@ -39,7 +39,7 @@ every kind. ...
 "And he will take upon him their infirmities, that his bowels may be filled
 with mercy, according to the flesh, that he may know according to the flesh
 how to succor his people according to their infirmities" ([Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10)).
+7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10)).
 
 It must be comforting to you beloved sisters of his church to remember that
 this same Jesus, our Savior through the Atonement, demonstrated his love and
@@ -61,9 +61,9 @@ disciples that he had risen.
 Is there any reason to think that he cares any less about women today? Before
 his ascension, he promised his disciples: "I will pray the Father, and he
 shall give you another Comforter. ... I will not leave you comfortless" ([John
-14:16, 18](https://www.lds.org/scriptures/nt/john/14.16%2C18?lang=eng#15)). As
-daughters of our Heavenly Father, you also are privileged to have been given
-that other Comforter as well, the gift of the Holy Ghost.
+14:16, 18](/scriptures/nt/john/14.16,18?lang=eng#15)). As daughters of our
+Heavenly Father, you also are privileged to have been given that other
+Comforter as well, the gift of the Holy Ghost.
 
 As our Lord and Savior looked to the women of his time for a comforting hand,
 a listening ear, a believing heart, a kind look, an encouraging word, loyalty
@@ -74,10 +74,9 @@ forward the work of our Savior. Together we must stand firm in the faith
 against greater numbers of other-minded people. Nephi said, "Ye must press
 forward with a steadfastness in Christ, having a perfect brightness of hope,
 and a love of God and of all men" ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19)). When we
-are obedient to God, we are a majority. But only together can we accomplish
-the work he has given us to do and be prepared for the day when we shall see
-him.
+31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19)). When we are obedient to God,
+we are a majority. But only together can we accomplish the work he has given
+us to do and be prepared for the day when we shall see him.
 
 As we labor with our might to minister to needs in the same caring way that
 our Lord did among the women of his day, so we entreat you to minister with
@@ -110,8 +109,7 @@ Recognize your divine birthright as daughters of our Heavenly Father. Be one
 who heals with your words as well as your hands. Seek to know the will of the
 Lord in your life, and then say, as did that wonderful exemplar Mary, the
 mother of Jesus, "Behold the handmaid of the Lord; be it unto me according to
-thy word" ([Luke
-1:38](https://www.lds.org/scriptures/nt/luke/1.38?lang=eng#37)).
+thy word" ([Luke 1:38](/scriptures/nt/luke/1.38?lang=eng#37)).
 
 My beloved sisters, I know that God lives, that Jesus is his Only Begotten
 Son, the Savior of the world. I know that this is the Church of Jesus Christ.
@@ -120,4 +118,6 @@ truthfulness and eternal nature of your honored place as women.
 
 May the Lord bless you as you stand firm in the faith, I humbly pray in the
 name of Jesus Christ, amen.
+
+## References
 

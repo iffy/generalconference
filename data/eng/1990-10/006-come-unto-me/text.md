@@ -8,9 +8,8 @@ stilled a tempest, cast out devils, healed a paralytic, opened the eyes of the
 blind, and restored a young woman to life who had died.
 
 Most of the people of his home region would not truly believe. "Is not this
-Joseph's son?" ([Luke
-4:22](https://www.lds.org/scriptures/nt/luke/4.22?lang=eng#21)) they asked of
-Jesus, refusing to acknowledge his divine heritage. Jesus wept over these
+Joseph's son?" ([Luke 4:22](/scriptures/nt/luke/4.22?lang=eng#21)) they asked
+of Jesus, refusing to acknowledge his divine heritage. Jesus wept over these
 people who should have known better. Because of their skepticism and unbelief
 and refusal to repent, he upbraided the cities where most of his mighty works
 had been done. In severely criticizing and finding fault with the wicked
@@ -21,7 +20,7 @@ Sodom, it would have remained until this day.
 
 "But I say unto you, That it shall be more tolerable for the land of Sodom in
 the day of judgment, than for thee." ([Matt.
-11:23-24](https://www.lds.org/scriptures/nt/matt/11.23-24?lang=eng#22).)
+11:23-24](/scriptures/nt/matt/11.23-24?lang=eng#22).)
 
 While anguishing over the wickedness and lack of faith among so many in his
 home area, the Savior voiced his prayer of gratitude for the humble and plain
@@ -42,7 +41,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 This invitation and promise is one of the most oft-quoted of all scripture and
 has been of untold comfort and reassurance to millions. Yet there were those
@@ -105,20 +104,19 @@ counsel of that Father in Heaven. Whatever the reason, none of us seems to be
 completely free from life's challenges. To one and all, Christ said, in
 effect: As long as we all must bear some burden and shoulder some yoke, why
 not let it be mine? My promise to you is that my yoke is easy, and my burden
-is light. (See [Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+is light. (See [Matt. 11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 "Learn of me," he continued, "for I am meek and lowly in heart." ([Matt.
-11:29](https://www.lds.org/scriptures/nt/matt/11.29?lang=eng#28).) Surely the
-lessons of history ought to teach us that pride, haughtiness, self-adulation,
-conceit, and vanity contain all of the seeds of self-destruction for
-individuals, cities, or nations. The ashes and rubble of Chorazin, Bethsaida,
-and Capernaum are the silent witnesses of the Savior's unheeded warnings to
-that generation. Once majestic and powerful cities, they no longer exist.
-Would we add our names or the names of our families to such a list? No, of
-course not; but if we would not, we must be truly meek and lowly. By taking
-the yoke of Jesus upon us and feeling what he felt for the sins of the world,
-we learn most deeply of him, and we especially learn how to be like him.
+11:29](/scriptures/nt/matt/11.29?lang=eng#28).) Surely the lessons of history
+ought to teach us that pride, haughtiness, self-adulation, conceit, and vanity
+contain all of the seeds of self-destruction for individuals, cities, or
+nations. The ashes and rubble of Chorazin, Bethsaida, and Capernaum are the
+silent witnesses of the Savior's unheeded warnings to that generation. Once
+majestic and powerful cities, they no longer exist. Would we add our names or
+the names of our families to such a list? No, of course not; but if we would
+not, we must be truly meek and lowly. By taking the yoke of Jesus upon us and
+feeling what he felt for the sins of the world, we learn most deeply of him,
+and we especially learn how to be like him.
 
 President Ezra Taft Benson has said:
 
@@ -142,4 +140,6 @@ May we do so in appreciation for the loving gift of eternal joy he offers us I
 pray--as I leave with you my personal witness that God our Heavenly Father
 lives and that Jesus is the Christ, having suffered and given his life that we
 may have life everlasting--in his holy name, amen.
+
+## References
 

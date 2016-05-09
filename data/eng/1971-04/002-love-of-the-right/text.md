@@ -3,9 +3,8 @@
 The past few days my thoughts have turned repeatedly to that great message of
 strength, "... for I, the Lord, love him [Hyrum Smith] because of the integrity
 of his heart, and because he loveth that which is right before me. ..."
-([D&amp;C 124:15](https://www.lds.org/scriptures/dc-
-testament/dc/124.15?lang=eng#14).) What a blessing it is to be one who loves
-that which is right.
+([D&amp;C 124:15](/scriptures/dc-testament/dc/124.15?lang=eng#14).) What a
+blessing it is to be one who loves that which is right.
 
 There seems to be a tendency among many of us in our society today to live by
 compromise, rationalization, comparison, and self-justification. Love of right
@@ -224,7 +223,9 @@ As we unitedly work to help our youth in combatting and avoiding all of the
 temptations of the day, may we be reminded, "... let every man be swift to hear,
 slow to speak, slow to wrath: For the wrath of man worketh not the
 righteousness of God." ([James
-1:19-20](https://www.lds.org/scriptures/nt/james/1.19-20?lang=eng#18).) I pray
-for our Heavenly Father to help us teach and love that which is right, in the
-name of Jesus Christ. Amen.
+1:19-20](/scriptures/nt/james/1.19-20?lang=eng#18).) I pray for our Heavenly
+Father to help us teach and love that which is right, in the name of Jesus
+Christ. Amen.
+
+## References
 

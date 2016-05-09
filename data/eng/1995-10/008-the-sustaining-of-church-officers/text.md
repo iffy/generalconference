@@ -60,3 +60,5 @@ It appears, President Hinckley, that the voting has been unanimous in the
 affirmative. Thank you, brothers and sisters, for your loving and prayerful
 support.
 
+## References
+

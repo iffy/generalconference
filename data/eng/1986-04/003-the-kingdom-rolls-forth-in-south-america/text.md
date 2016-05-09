@@ -17,7 +17,7 @@ Presiding High Council, to officiate in the name of the Lord, under the
 direction of the Presidency of the Church, agreeable to the institution of
 heaven; to build up the church, and regulate all the affairs of the same in
 all nations, first unto the Gentiles and secondly unto the Jews." ([D&amp;C
-107:33](https://www.lds.org/scriptures/dc-testament/dc/107.33?lang=eng#32).)
+107:33](/scriptures/dc-testament/dc/107.33?lang=eng#32).)
 
 The Lord said to Thomas B. Marsh, the President of the Council of the Twelve:
 
@@ -28,8 +28,8 @@ sheep.
 "And again, I say unto you, that whosoever ye shall send in my name, by the
 voice of your brethren, the Twelve, duly recommended and authorized by you,
 shall have power to open the door of my kingdom unto any nation whithersoever
-ye shall send them." ([D&amp;C 112:14, 21](https://www.lds.org/scriptures/dc-
-testament/dc/112.14%2C21?lang=eng#13).)
+ye shall send them." ([D&amp;C 112:14, 21](/scriptures/dc-
+testament/dc/112.14,21?lang=eng#13).)
 
 Twelve days ago I returned from South America, where I had visited the people
 of Uruguay, Argentina, and Colombia. Last December, I visited Peru and Brazil.
@@ -124,8 +124,7 @@ words of Nephi came to mind:
 "He doeth not anything save it be for the benefit of the world; for he loveth
 the world, even that he layeth down his own life that he may draw all men unto
 him. Wherefore, he commandeth none that they shall not partake of his
-salvation." ([2 Ne.
-26:24](https://www.lds.org/scriptures/bofm/2-ne/26.24?lang=eng#23).)
+salvation." ([2 Ne. 26:24](/scriptures/bofm/2-ne/26.24?lang=eng#23).)
 
 The gospel of Jesus Christ radiates in the faces of the Saints. They express
 faith and commitment and love for the Lord. They are seeking to be worthy of
@@ -163,8 +162,7 @@ does bless his leaders when they put their trust in him.
 
 The Church is organized properly. We need to be sure that every man learns his
 duty and acts "in the office in which he is appointed, in all diligence." (see
-[D&amp;C 107:99](https://www.lds.org/scriptures/dc-
-testament/dc/107.99?lang=eng#98).)
+[D&amp;C 107:99](/scriptures/dc-testament/dc/107.99?lang=eng#98).)
 
 It seems clear to me, as this great work continues to roll forth, that the
 leaders of the Church at every level, and particularly at the stake and ward
@@ -179,8 +177,7 @@ to a spiritual understanding. The Lord said:
 doctrine of the kingdom.
 
 "Teach ye diligently and my grace shall attend you." ([D&amp;C
-88:77-78](https://www.lds.org/scriptures/dc-
-testament/dc/88.77-78?lang=eng#76).)
+88:77-78](/scriptures/dc-testament/dc/88.77-78?lang=eng#76).)
 
 In my judgment, the greatest motivator that we have in the Church is to have
 Church members understand the plan of salvation. Stake presidents and bishops,
@@ -189,9 +186,8 @@ you are the key to having your members come to this understanding.
 Every leader should strive to motivate the people to good works by teaching
 the doctrines of the kingdom. The scriptures are our text, for "in them ye
 think ye have eternal life." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).) From them we
-glean the truths that will open to us a clear understanding of man's eternal
-possibilities.
+5:39](/scriptures/nt/john/5.39?lang=eng#38).) From them we glean the truths
+that will open to us a clear understanding of man's eternal possibilities.
 
 I very humbly commit to you, my dear brothers and sisters, that in my calling
 as a member of the Council of the Twelve, I will do everything within my power
@@ -217,4 +213,6 @@ come to a man to be a special witness to his name throughout the world.
 
 May the Lord bless us, my brothers and sisters, in doing his work, is my
 prayer in the name of Jesus Christ, amen.
+
+## References
 

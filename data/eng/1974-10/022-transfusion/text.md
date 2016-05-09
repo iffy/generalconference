@@ -38,7 +38,7 @@ and if they are properly packaged by writing them down and memorizing them, we
 can use them at our will to infuse righteousness and success into our own
 lives. I think it must have been this that the great apostle Paul had in mind
 when he said, "Be ye [therefore] transformed by the renewing of your mind."
-([Rom. 12:2](https://www.lds.org/scriptures/nt/rom/12.2?lang=eng#1).)
+([Rom. 12:2](/scriptures/nt/rom/12.2?lang=eng#1).)
 
 And Oscar Hammerstein must have been thinking about something like this when
 in his song "Stouthearted Men" he said, "Hearts can inspire other hearts with
@@ -178,7 +178,7 @@ God:
 
 "Whom I shall see for myself, and mine eyes shall behold, and not another;
 though my reins be consumed within me." ([Job
-19:23-27](https://www.lds.org/scriptures/ot/job/19.23-27?lang=eng#22).)
+19:23-27](/scriptures/ot/job/19.23-27?lang=eng#22).)
 
 And transfusion number nine, "Revelation," comes from the great first prophet
 of this last dispensation, who said: "And now, after the many testimonies
@@ -190,17 +190,18 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 And finally, number ten, "Success," comes to us from the greatest man who ever
 lived, who gave us in just two words our most magnificent success formula when
 he said, "Follow me." (See [Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18).) And may God
-help us that we may follow him. We can follow him in his faith, we can follow
-him in his doctrines, we can follow him in his godliness. And we may
-eventually become even as he is.
+4:19](/scriptures/nt/matt/4.19?lang=eng#18).) And may God help us that we may
+follow him. We can follow him in his faith, we can follow him in his
+doctrines, we can follow him in his godliness. And we may eventually become
+even as he is.
 
 And may God help us so to do and so to become, I sincerely pray in the name of
 Jesus Christ. Amen.
+
+## References
 

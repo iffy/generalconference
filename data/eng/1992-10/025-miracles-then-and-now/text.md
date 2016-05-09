@@ -26,7 +26,7 @@ thou wilt, thou canst make me clean.
 
 "And he put forth his hand, and touched him, saying, I will: be thou clean.
 And immediately the leprosy departed from him." ([Luke
-5:12-13](https://www.lds.org/scriptures/nt/luke/5.12-13?lang=eng#11).)
+5:12-13](/scriptures/nt/luke/5.12-13?lang=eng#11).)
 
 He asked that I continue reading from Luke concerning the man afflicted with
 palsy and the enterprising manner in which he was presented for the attention
@@ -40,8 +40,7 @@ the multitude, they went upon the housetop, and let him down through the
 tiling with his couch into the midst before Jesus.
 
 "And when he saw their faith, he said unto him, Man, thy sins are forgiven
-thee." ([Luke
-5:18-20](https://www.lds.org/scriptures/nt/luke/5.18-20?lang=eng#17).)
+thee." ([Luke 5:18-20](/scriptures/nt/luke/5.18-20?lang=eng#17).)
 
 There followed snide comments from the Pharisees concerning who had the right
 to forgive sins. Jesus silenced their bickering by saying: "Whether [it] is
@@ -53,7 +52,7 @@ up thy couch, and go into thine house.
 
 "And immediately he rose up before them, and took up that whereon he lay, and
 departed to his own house, glorifying God." ([Luke
-5:23-25](https://www.lds.org/scriptures/nt/luke/5.23-25?lang=eng#22).)
+5:23-25](/scriptures/nt/luke/5.23-25?lang=eng#22).)
 
 President Clark removed from his pocket a handkerchief and wiped the tears
 from his eyes. He commented, "As we grow older, tears come more frequently."
@@ -96,13 +95,13 @@ Father's help is near.
 
 Perhaps no other has been so afflicted as the man Job, who was described as
 "perfect and upright, and one that feared God, and eschewed evil." ([Job
-1:1](https://www.lds.org/scriptures/ot/job/1.1?lang=eng#0).) He prospered by
-every measurement. In other words, he had it all made. Then came the loss of
-literally everything: his wealth, his family, his health. At one time the
-suggestion was made that he "curse God and die." ([Job
-2:9](https://www.lds.org/scriptures/ot/job/2.9?lang=eng#8).) Job's summation
-of his faith, after ordeals demanded of few others, is a testimony of truth, a
-proclamation of courage, and a declaration of trust:
+1:1](/scriptures/ot/job/1.1?lang=eng#0).) He prospered by every measurement.
+In other words, he had it all made. Then came the loss of literally
+everything: his wealth, his family, his health. At one time the suggestion was
+made that he "curse God and die." ([Job
+2:9](/scriptures/ot/job/2.9?lang=eng#8).) Job's summation of his faith, after
+ordeals demanded of few others, is a testimony of truth, a proclamation of
+courage, and a declaration of trust:
 
 "Oh that my words were now written! oh that they were printed in a book!
 
@@ -115,11 +114,11 @@ upon the earth:
 God:
 
 "Whom I shall see for myself, and mine eyes shall behold, and not another."
-([Job 19:23-27](https://www.lds.org/scriptures/ot/job/19.23-27?lang=eng#22).)
+([Job 19:23-27](/scriptures/ot/job/19.23-27?lang=eng#22).)
 
 Let me share with you a brief look into the lives of others, to learn that
 after the tears of a day of despair, a night of sorrow, "joy cometh in the
-morning." ([Ps. 30:5](https://www.lds.org/scriptures/ot/ps/30.5?lang=eng#4).)
+morning." ([Ps. 30:5](/scriptures/ot/ps/30.5?lang=eng#4).)
 
 Just two years ago, Eve Gail McDaniel and her parents, Bishop and Sister Jerry
 Lee McDaniel of the Reedsport Oregon Ward, came to my office and presented as
@@ -274,7 +273,7 @@ head shall not be lost; but all things shall be restored to their proper and
 perfect frame. ...
 
 "And then shall the righteous shine forth in the kingdom of God." ([Alma
-40:23, 25](https://www.lds.org/scriptures/bofm/alma/40.23%2C25?lang=eng#22).)
+40:23, 25](/scriptures/bofm/alma/40.23,25?lang=eng#22).)
 
 From the Psalm echoes the assurance: "My help cometh from the Lord, which made
 heaven and earth. ...
@@ -282,7 +281,7 @@ heaven and earth. ...
 "He that keepeth thee will not slumber.
 
 "Behold, he that keepeth Israel shall neither slumber nor sleep." ([Ps.
-121:2-4](https://www.lds.org/scriptures/ot/ps/121.2-4?lang=eng#1).)
+121:2-4](/scriptures/ot/ps/121.2-4?lang=eng#1).)
 
 Through the years the Latter-day Saints have taken comfort from the favorite
 hymn remembered from our youth:
@@ -317,4 +316,6 @@ prayer?" (_Children's Songbook,_ no. 12), I bear to you my witness that He is
 there. He does hear and answer every prayer. His Son, the Christ, burst the
 bands of our earthly prisons. Heaven's blessings await you. In the name of
 Jesus Christ, amen.
+
+## References
 

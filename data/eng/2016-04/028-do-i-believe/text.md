@@ -164,3 +164,19 @@ store for those who are obedient and faithful exceed anything the human mind
 can comprehend. I leave this testimony with you in the name of Jesus Christ,
 amen.
 
+## References
+
+  1. Personal journal entry shared with Bonnie L. Oscarson.
+
+  2. [Doctrine and Covenants 14:7](https://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6).
+
+  3. [Mosiah 5:2](https://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1).
+
+  4. [1 Nephi 8:26](https://www.lds.org/scriptures/bofm/1-ne/8.26?lang=eng#25).
+
+  5. [1 Nephi 8:27-28](https://www.lds.org/scriptures/bofm/1-ne/8.27-28?lang=eng#26); emphasis added.
+
+  6. [1 Nephi 15:36](https://www.lds.org/scriptures/bofm/1-ne/15.36?lang=eng#35).
+
+  7. M. Russell Ballard, "[Stay in the Boat and Hold On!](https://www.lds.org/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng)"_ Ensign_ or_ Liahona,_ Nov. 2014, 92.
+

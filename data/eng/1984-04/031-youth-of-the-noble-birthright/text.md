@@ -10,11 +10,11 @@ carry on, carry on!" ("Firm As the Mountains Around Us," _Hymns,_ no. 42.)
 In times of great joy and struggle and disappointment, my great companion,
 Heber, and I have come to know the Lord and felt his Spirit in our home and in
 our lives. We have known that peace "which passeth all understanding"
-([Philip. 4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6)) in
-times of disappointment and in times of great blessings. In our home, I think
-perhaps the phrase used most frequently by my husband is, "I want to know the
-Lord's will, and I want to carry it out." And I repeat that and add my
-commitment to what he has taught me by his example.
+([Philip. 4:7](/scriptures/nt/philip/4.7?lang=eng#6)) in times of
+disappointment and in times of great blessings. In our home, I think perhaps
+the phrase used most frequently by my husband is, "I want to know the Lord's
+will, and I want to carry it out." And I repeat that and add my commitment to
+what he has taught me by his example.
 
 Today I reflect on my early ancestor, John P. Greene, who received the Book of
 Mormon from Samuel Smith, the Prophet Joseph Smith's brother. John gave it to
@@ -62,4 +62,6 @@ a house of worthy members when he returns.
 To this solemn and sacred trust, I commit all of my energies and my efforts. I
 rejoice in the opportunity to be a part of this great work, and bear my
 testimony in the name of Jesus Christ, amen.
+
+## References
 

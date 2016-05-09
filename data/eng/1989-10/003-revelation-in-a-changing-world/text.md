@@ -5,25 +5,24 @@ Latter-day Saints in a brief ordinance, during which there is conferred the
 gift of the Holy Ghost. Thereafter, all through life, men, women, even little
 children receive the right to inspired direction to guide them in their lives
 --personal revelation! (See [Alma
-32:23](https://www.lds.org/scriptures/bofm/alma/32.23?lang=eng#22).)
+32:23](/scriptures/bofm/alma/32.23?lang=eng#22).)
 
 The Holy Ghost communicates with the spirit through the mind more than through
 the physical senses. This guidance comes as thoughts, as feelings, through
 impressions and promptings. It is not always easy to describe inspiration. The
 scriptures teach us that we may "feel" the words of spiritual communication
 more than hear them, and see with spiritual rather than with mortal eyes. [See
-[1 Ne. 17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44).]
+[1 Ne. 17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44).]
 
 The patterns of revelation are not dramatic. The voice of inspiration is a
 still voice, a small voice. There need be no trance, no sanctimonious
 declaration. It is quieter and simpler than that.
 
 The Book of Mormon teaches that "angels speak by the power of the Holy Ghost"
-([2 Ne. 32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2)) and
-records that even though an angel spoke to some, they "were past _feeling,_
-that [they] could not _feel_ his words" ([1 Ne.
-17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44); italics
-added).
+([2 Ne. 32:3](/scriptures/bofm/2-ne/32.3?lang=eng#2)) and records that even
+though an angel spoke to some, they "were past _feeling,_ that [they] could
+not _feel_ his words" ([1 Ne. 17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44);
+italics added).
 
 If you have experienced inspiration, you understand.
 
@@ -34,11 +33,10 @@ which have to do with spiritual communication.
 
 The Word of Wisdom is a key to individual revelation. It was given as "a
 principle with promise, adapted to the capacity of the weak and the weakest of
-all saints." ([D&amp;C 89:3](https://www.lds.org/scriptures/dc-
-testament/dc/89.3?lang=eng#2).)
+all saints." ([D&amp;C 89:3](/scriptures/dc-testament/dc/89.3?lang=eng#2).)
 
 The promise is that those who obey will receive "great treasures of knowledge,
-even hidden treasures." ([D&amp;C 89:19](https://www.lds.org/scriptures/dc-
+even hidden treasures." ([D&amp;C 89:19](/scriptures/dc-
 testament/dc/89.19?lang=eng#18).) If we abuse our body with habit-forming
 substances, or misuse prescription drugs, we draw curtains which close off the
 light of spiritual communication.
@@ -76,16 +74,15 @@ the gospel of Jesus Christ.
 And I assure you that revelation attends our prophet President and those
 ordained as Apostles, as prophets, seers, and revelators. But revelation is
 not limited to them. The Lord desires that "every man might speak in the name
-of God the Lord, even the Savior of the world." ([D&amp;C
-1:20](https://www.lds.org/scriptures/dc-testament/dc/1.20?lang=eng#19).)
+of God the Lord, even the Savior of the world." ([D&amp;C 1:20](/scriptures
+/dc-testament/dc/1.20?lang=eng#19).)
 
-All inspiration does not come from God. (See [D&amp;C
-46:7](https://www.lds.org/scriptures/dc-testament/dc/46.7?lang=eng#6).) The
-evil one has the power to tap into those channels of revelation and send
-conflicting signals which can mislead and confuse us. There are promptings
-from evil sources which are so carefully counterfeited as to deceive even the
-very elect. (See [Matt.
-24:24](https://www.lds.org/scriptures/nt/matt/24.24?lang=eng#23).)
+All inspiration does not come from God. (See [D&amp;C 46:7](/scriptures/dc-
+testament/dc/46.7?lang=eng#6).) The evil one has the power to tap into those
+channels of revelation and send conflicting signals which can mislead and
+confuse us. There are promptings from evil sources which are so carefully
+counterfeited as to deceive even the very elect. (See [Matt.
+24:24](/scriptures/nt/matt/24.24?lang=eng#23).)
 
 Nevertheless, we can learn to discern these spirits. Even with every member
 having the right to revelation, the Church can be maintained as a house of
@@ -108,7 +105,7 @@ specified "embrac[ed] the law of the church." It contains this verse:
 "It shall not be given to any one to go forth to preach my gospel, or to build
 up my church, except he be ordained by some one who has authority, and _it is
 known to the church that he has authority_ and has been regularly ordained by
-the heads of the church". ([D&amp;C 42:11](https://www.lds.org/scriptures/dc-
+the heads of the church". ([D&amp;C 42:11](/scriptures/dc-
 testament/dc/42.11?lang=eng#10); italics added.)
 
 That is why the process of sustaining those called to office is so carefully
@@ -138,12 +135,10 @@ Two things characterize them: they are always irritated by the word
 _obedience,_ and always they question revelation. It has always been so.
 Helaman described those who "began to disbelieve in the spirit of prophecy and
 in the spirit of revelation; and the judgments of God did stare them in the
-face." ([Hel.
-4:23](https://www.lds.org/scriptures/bofm/hel/4.23?lang=eng#22).) "They were
-left in their own strength" ([Hel.
-4:13](https://www.lds.org/scriptures/bofm/hel/4.13?lang=eng#12)), and "the
-Spirit of the Lord did no more preserve them; yea, it had withdrawn from them"
-([Hel. 4:24](https://www.lds.org/scriptures/bofm/hel/4.24?lang=eng#23)).
+face." ([Hel. 4:23](/scriptures/bofm/hel/4.23?lang=eng#22).) "They were left
+in their own strength" ([Hel. 4:13](/scriptures/bofm/hel/4.13?lang=eng#12)),
+and "the Spirit of the Lord did no more preserve them; yea, it had withdrawn
+from them" ([Hel. 4:24](/scriptures/bofm/hel/4.24?lang=eng#23)).
 
 Changes in organization or procedures are a testimony that revelation is
 ongoing. While doctrines remain fixed, the methods or procedures do not.
@@ -152,17 +147,17 @@ For instance, when the editions of the scriptures were published, many
 corrections were made on the basis of original or printer's manuscripts, some
 of which had not previously been available. For instance, in Alma chapter 16,
 verse 5, the word _whether_ had appeared. [[Alma
-16:5](https://www.lds.org/scriptures/bofm/alma/16.5?lang=eng#4)] The original
-manuscript for that verse does not exist. However, when we found the printer's
-copy, we saw that the Prophet Joseph Smith had changed the word to _whither.
-Whether_ means "if"; _whither_ means "where." The next verse verifies
-_whither_ to be correct.
+16:5](/scriptures/bofm/alma/16.5?lang=eng#4)] The original manuscript for that
+verse does not exist. However, when we found the printer's copy, we saw that
+the Prophet Joseph Smith had changed the word to _whither. Whether_ means
+"if"; _whither_ means "where." The next verse verifies _whither_ to be
+correct.
 
 Another example: in Alma chapter 32, verse 30, the words "sprouteth and
 beginneth to grow" occurred three times. [[Alma
-32:30](https://www.lds.org/scriptures/bofm/alma/32.30?lang=eng#29)] An obvious
-typesetting error left one of them out. In the 1981 edition, thirty-five words
-were restored. It now conforms to the original text.
+32:30](/scriptures/bofm/alma/32.30?lang=eng#29)] An obvious typesetting error
+left one of them out. In the 1981 edition, thirty-five words were restored. It
+now conforms to the original text.
 
 There were many such changes. None altered the doctrine. Each change, however
 small in detail, was carefully and prayerfully considered and approved by the
@@ -180,8 +175,7 @@ be rejected if they failed. He said:
 
 "And if you do not these things at the end of the appointment ye shall be
 rejected as a church, with your dead, saith the Lord your God." ([D&amp;C
-124:31-32](https://www.lds.org/scriptures/dc-
-testament/dc/124.31-32?lang=eng#30).)
+124:31-32](/scriptures/dc-testament/dc/124.31-32?lang=eng#30).)
 
 The Saints did not fail. However impossible it may have seemed to them, given
 the terrible opposition they faced, the Lord promised to guide them through
@@ -193,40 +187,37 @@ shall not be moved out of their place.
 
 "But if they will not hearken to my voice, _nor unto the voice of these men
 whom I have appointed,_ they shall not be blest." ([D&amp;C
-124:45-46](https://www.lds.org/scriptures/dc-
-testament/dc/124.45-46?lang=eng#44); italics added.)
+124:45-46](/scriptures/dc-testament/dc/124.45-46?lang=eng#44); italics added.)
 
 Later, speaking on the same subject of temple ordinances, the Lord affirmed
 again that He will reveal His will to His authorized servants:
 
 "For him to whom these keys are given there is no difficulty in obtaining a
 knowledge of facts in relation to the salvation of the children of men."
-([D&amp;C 128:11](https://www.lds.org/scriptures/dc-
-testament/dc/128.11?lang=eng#10).)
+([D&amp;C 128:11](/scriptures/dc-testament/dc/128.11?lang=eng#10).)
 
 That principle of revelation has been with the Church ever since. Those who
 hold the keys have obtained knowledge on what to do. When changes have come,
 they have come through that process. The Lord does as He said He would do:
 
 "I, the Lord, command and revoke, as it seemeth me good." ([D&amp;C
-56:4](https://www.lds.org/scriptures/dc-testament/dc/56.4?lang=eng#3).)
+56:4](/scriptures/dc-testament/dc/56.4?lang=eng#3).)
 
 "I command and men obey not; I revoke and they receive not the blessing."
-([D&amp;C 58:32](https://www.lds.org/scriptures/dc-
-testament/dc/58.32?lang=eng#31).)
+([D&amp;C 58:32](/scriptures/dc-testament/dc/58.32?lang=eng#31).)
 
 He told the Saints that when enemies prevented them from keeping a
 commandment, he would no longer require them to do so. And he said:
 
 "The iniquity and transgression of my holy laws and commandments I will visit
 upon the heads of those who hindered my work, unto the third and fourth
-generation, so long as they repent not." ([D&amp;C
-124:50](https://www.lds.org/scriptures/dc-testament/dc/124.50?lang=eng#49).)
+generation, so long as they repent not." ([D&amp;C 124:50](/scriptures/dc-
+testament/dc/124.50?lang=eng#49).)
 
 The gospel plan was revealed line upon line, precept upon precept, here a
 little, and there a little. And it goes on: "We believe that He will yet
 reveal many great and important things pertaining to the Kingdom of God." ([A
-of F 1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8).)
+of F 1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8).)
 
 There will be changes made in the future as in the past. Whether the Brethren
 make changes or resist them depends entirely upon the instructions they
@@ -255,13 +246,15 @@ spirit of revelation would guide in all that we do in His name.
 
 And in the end, what is given comes because the Lord has spoken it, "whether
 by [His] own voice or by the voice of [His] servants, it is the same."
-([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37).) We know His voice when He speaks.
+([D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).) We know His
+voice when He speaks.
 
 Revelation continues with us today. The promptings of the Spirit, the dreams,
 and the visions and the visitations, and the ministering of angels all are
 with us now. And the still, small voice of the Holy Ghost "is a lamp unto
 [our] feet, and a light unto [our] path." ([Ps.
-119:105](https://www.lds.org/scriptures/ot/ps/119.105?lang=eng#104).) Of that
-I bear witness, in the name of Jesus Christ, amen.
+119:105](/scriptures/ot/ps/119.105?lang=eng#104).) Of that I bear witness, in
+the name of Jesus Christ, amen.
+
+## References
 

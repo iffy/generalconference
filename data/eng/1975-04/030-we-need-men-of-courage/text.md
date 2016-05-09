@@ -35,7 +35,7 @@ telling the truth? I have actually seen a vision; and who am I that I can
 withstand God, or why does the world think to make me deny what I have
 actually seen? For I had seen a vision; I knew it, and I knew that God knew
 it, and I could not deny it. ..." ([JS--H
-1:24-25](https://www.lds.org/scriptures/pgp/js-h/1.24-25?lang=eng#23).)
+1:24-25](/scriptures/pgp/js-h/1.24-25?lang=eng#23).)
 
 The Prophet was true to himself not only in his youth but throughout his life.
 Eighteen years after the First Vision, the Prophet and others had been "penned
@@ -82,12 +82,11 @@ In the Book of Mormon we learn of Nephi's great courage. You will recall that
 while Lehi and his family were encamped in the valley of Lemuel, the Lord
 instructed him to send his sons back to Jerusalem and obtain from Laban the
 records. Laman and Lemuel murmured that it was "a hard thing" ([1 Ne.
-3:5](https://www.lds.org/scriptures/bofm/1-ne/3.5?lang=eng#4)), but Nephi,
-their younger brother, said: "I will go and do the things which the Lord hath
-commanded, for I know that the Lord giveth no commandments unto the children
-of men, save he shall prepare a way for them that they may accomplish the
-thing which he commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+3:5](/scriptures/bofm/1-ne/3.5?lang=eng#4)), but Nephi, their younger brother,
+said: "I will go and do the things which the Lord hath commanded, for I know
+that the Lord giveth no commandments unto the children of men, save he shall
+prepare a way for them that they may accomplish the thing which he commandeth
+them." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 Well, they went up to Jerusalem. They cast lots. Laman went in. Laban accused
 him of being a robber and threatened to kill him.
@@ -97,7 +96,7 @@ them, and he proved it. He said they were to return to their father. But this
 young man Nephi said: "As the Lord liveth, and as we live, we will not go down
 unto our father in the wilderness until we have accomplished the thing which
 the Lord hath commanded us." ([1 Ne.
-3:15](https://www.lds.org/scriptures/bofm/1-ne/3.15?lang=eng#14).)
+3:15](/scriptures/bofm/1-ne/3.15?lang=eng#14).)
 
 They then, at Nephi's urging, went to the land of their inheritance, got their
 gold and silver and other precious things, and tried to buy the records from
@@ -106,17 +105,15 @@ Laban.
 And he lusted after their riches and he sent his servants to take them. And
 they fled for their lives some distance into the wilderness and hid in the
 cavity of a rock. And there "they did smite [Nephi and Sam] with a rod." ([1
-Ne. 3:28](https://www.lds.org/scriptures/bofm/1-ne/3.28?lang=eng#27).) And an
-angel came and rebuked them. And after the angel left, Laman and Lemuel
-murmured that it was impossible for them to get the plates, that Laban was "a
-mighty man and [could] command fifty, yea, even he can slay fifty; then why
-not us?" ([1 Ne.
-3:31](https://www.lds.org/scriptures/bofm/1-ne/3.31?lang=eng#30)) they said to
-Nephi.
+Ne. 3:28](/scriptures/bofm/1-ne/3.28?lang=eng#27).) And an angel came and
+rebuked them. And after the angel left, Laman and Lemuel murmured that it was
+impossible for them to get the plates, that Laban was "a mighty man and
+[could] command fifty, yea, even he can slay fifty; then why not us?" ([1 Ne.
+3:31](/scriptures/bofm/1-ne/3.31?lang=eng#30)) they said to Nephi.
 
 But Nephi said: "The Lord ... is mightier than all the earth, then why not
 mightier than Laban and his fifty, yea, or even than his tens of thousands?"
-([1 Ne. 4:1](https://www.lds.org/scriptures/bofm/1-ne/4.1?lang=eng#0).)
+([1 Ne. 4:1](/scriptures/bofm/1-ne/4.1?lang=eng#0).)
 
 They then followed Nephi back to Jerusalem. Nephi went in and he came out with
 the plates. Great was the faith and courage of Nephi.
@@ -127,26 +124,25 @@ during his life. In 597 B.C., which was just three years after Lehi left,
 Daniel was carried into Babylon captivity by Nebuchadnezzar. He began to
 demonstrate his courage soon after he got there when he and Shadrach, Meshach,
 and Abednego refused to "defile himself" with the king's meat and wine. ([Dan.
-1:8](https://www.lds.org/scriptures/ot/dan/1.8?lang=eng#7).) That is, he
-refused to break the "Word of Wisdom" as observed by his people at that time,
-even though the king had commanded that they do so.
+1:8](/scriptures/ot/dan/1.8?lang=eng#7).) That is, he refused to break the
+"Word of Wisdom" as observed by his people at that time, even though the king
+had commanded that they do so.
 
 He evidenced outstanding courage when, in interpreting the king's dream, he
 told the old king that it was "the decree of the most High" ([Dan.
-4:24](https://www.lds.org/scriptures/ot/dan/4.24?lang=eng#23)), and that he,
-Nebuchadnezzar, would be driven from men and live with the beasts of the
-field, eating "grass as oxen" for seven years "till thou know that the most
-High ruleth in the kingdom of men, and giveth it to whomsoever he will."
-([Dan. 4:25](https://www.lds.org/scriptures/ot/dan/4.25?lang=eng#24).) And
-then he counseled the king to "break off thy sin ... and ... iniquities." ([Dan.
-4:27](https://www.lds.org/scriptures/ot/dan/4.27?lang=eng#26); see [Dan. 4:20,
-22, 24-25, 27](https://www.lds.org/scriptures/ot/dan/4.20%2C22%2C24-25%2C27?la
-ng=eng#19).)
+4:24](/scriptures/ot/dan/4.24?lang=eng#23)), and that he, Nebuchadnezzar,
+would be driven from men and live with the beasts of the field, eating "grass
+as oxen" for seven years "till thou know that the most High ruleth in the
+kingdom of men, and giveth it to whomsoever he will." ([Dan.
+4:25](/scriptures/ot/dan/4.25?lang=eng#24).) And then he counseled the king to
+"break off thy sin ... and ... iniquities." ([Dan.
+4:27](/scriptures/ot/dan/4.27?lang=eng#26); see [Dan. 4:20, 22, 24-25,
+27](/scriptures/ot/dan/4.20,22,24-25,27?lang=eng#19).)
 
 Can you imagine the courage that it took for a captive slave to talk like that
 to the king, whose dominion the record said reached to "the end of the earth"?
-([Dan. 4:22](https://www.lds.org/scriptures/ot/dan/4.22?lang=eng#21).) Well,
-that is what he did. And strange as it may seem, he outlived the old king.
+([Dan. 4:22](/scriptures/ot/dan/4.22?lang=eng#21).) Well, that is what he did.
+And strange as it may seem, he outlived the old king.
 
 When this same Daniel was summoned by Belshazzar, Nebuchadnezzar's successor,
 to interpret the strange handwriting the king had seen on the wall, he showed
@@ -157,22 +153,22 @@ similar courage. He told Belshazzar that the writing said:
 "Thou art weighed in the balances, and art found wanting.
 
 "Thy kingdom is divided, and given to the Medes and Persians." ([Dan.
-5:26-28](https://www.lds.org/scriptures/ot/dan/5.26-28?lang=eng#25).)
+5:26-28](/scriptures/ot/dan/5.26-28?lang=eng#25).)
 
 Daniel not only read the message, but before he did, he had the courage to
 tell Belshazzar that he had brought this judgment upon himself by his own
 transgressions. He further told him that one of his sins was the desecration
 of the vessels that his father, Nebuchadnezzar, had brought from the temple in
 Jerusalem, and that another was lifting himself up "against the Lord of
-heaven." ([Dan. 5:23](https://www.lds.org/scriptures/ot/dan/5.23?lang=eng#22);
-see [Dan. 5](https://www.lds.org/scriptures/ot/dan/5.title?lang=eng).) The
-record says, "in that night ... Belshazzar the king of the Chaldeans [was]
-slain." ([Dan. 5:30](https://www.lds.org/scriptures/ot/dan/5.30?lang=eng#29).)
+heaven." ([Dan. 5:23](/scriptures/ot/dan/5.23?lang=eng#22); see [Dan.
+5](/scriptures/ot/dan/5?lang=eng).) The record says, "in that night ...
+Belshazzar the king of the Chaldeans [was] slain." ([Dan.
+5:30](/scriptures/ot/dan/5.30?lang=eng#29).)
 
 Darius, the Mede who took over the kingdom, divided it into 120 provinces, and
 he put a prince over each of the provinces and over the princes he placed
 three presidents, "of whom Daniel was first." ([Dan.
-6:2](https://www.lds.org/scriptures/ot/dan/6.2?lang=eng#1).)
+6:2](/scriptures/ot/dan/6.2?lang=eng#1).)
 
 In this position, Daniel had occasion to demonstrate his courage in the face
 of great danger. The other "presidents and princes sought to find occasion
@@ -191,7 +187,7 @@ Now when Daniel learned about that, he went immediately to his house; and his
 windows were opened so that they could look in, and he knelt in his chamber
 "upon his knees three times a day, and prayed, and gave thanks before his God,
 as he did aforetime." (See [Dan. 6:4-7,
-10](https://www.lds.org/scriptures/ot/dan/6.4-7%2C10?lang=eng#3).)
+10](/scriptures/ot/dan/6.4-7,10?lang=eng#3).)
 
 I suppose that no one will question the fact that in thus being true to
 himself and his God, Daniel demonstrated great faith and courage.
@@ -236,4 +232,6 @@ old, to develop the courage to be true to ourselves and to our Maker in all
 things in our lives.
 
 God bless us to that end, I pray in the name of Jesus. Amen.
+
+## References
 

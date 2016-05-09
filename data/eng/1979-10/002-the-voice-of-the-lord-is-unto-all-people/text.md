@@ -6,7 +6,7 @@ manners spake in time past unto the fathers by the prophets,
 
 "Hath in these last days spoken unto us by his Son, whom he hath appointed
 heir of all things, by whom also he made the worlds" ([Heb.
-1:1-2](https://www.lds.org/scriptures/nt/heb/1.1-2?lang=eng#0)).
+1:1-2](/scriptures/nt/heb/1.1-2?lang=eng#0)).
 
 One of the principal purposes of this general conference of the Church is to
 announce again that God has raised up a prophet by whom he declares his will
@@ -14,8 +14,7 @@ to the peoples of this world. This means that not only is the prophet sent to
 those who accept his words, such as the members of the Church, but also he is
 speaking in the name of God to all the inhabitants of the earth. He says, as
 did an ancient prophet, "Hear, O heavens, and give ear, O earth: for the Lord
-hath spoken" ([Isa.
-1:2](https://www.lds.org/scriptures/ot/isa/1.2?lang=eng#1)). He has been sent
+hath spoken" ([Isa. 1:2](/scriptures/ot/isa/1.2?lang=eng#1)). He has been sent
 especially to you who do not believe in God or in prophets. Wouldn't you like
 to know what he is saying? He says that in these last days God has restored
 the ancient gospel in its fulness and wishes to make a new covenant with all
@@ -98,8 +97,7 @@ in the newspaper saying, 'Stake President Drowns While Fishing on Sunday.'"
 God went to quite a bit of trouble so that you could have the gospel, and now
 the prophet is telling you that you had better pay attention because these
 things are for your happiness and that the "rebellious shall be pierced with
-much sorrow" ([D&amp;C 1:3](https://www.lds.org/scriptures/dc-
-testament/dc/1.3?lang=eng#2)).
+much sorrow" ([D&amp;C 1:3](/scriptures/dc-testament/dc/1.3?lang=eng#2)).
 
 We find joy in the Church in singing with fervor the great hymn "We Thank
 Thee, O God, for a Prophet" (_Hymns,_ no. 196). I have something to say now to
@@ -128,11 +126,10 @@ should go on a mission (see _Ensign,_ May 1974, p. 87). Why are half of them
 still at home? Quorum presidents and home teachers, Why are there still so
 many diseased and sick in spirit? Why have you not "bound up that which was
 broken, neither ... brought again that which was driven away, neither ... sought
-that which was lost" ([Ezek.
-34:4](https://www.lds.org/scriptures/ot/ezek/34.4?lang=eng#3))? The Lord has
-called you through his prophet. Listen to what he says. How you listen to the
-prophet makes the difference between being a Laman or Lemuel or a Nephi. There
-are some Lamans in the priesthood of the Church.
+that which was lost" ([Ezek. 34:4](/scriptures/ot/ezek/34.4?lang=eng#3))? The
+Lord has called you through his prophet. Listen to what he says. How you
+listen to the prophet makes the difference between being a Laman or Lemuel or
+a Nephi. There are some Lamans in the priesthood of the Church.
 
 To all of you of whom I have made mention--unbelievers; nonmembers; members of
 the Church, both faithful and those not so devoted; and to the leaders; and
@@ -146,4 +143,6 @@ the earth in these, the last days, in preparation for the Second Coming and
 that these are the days to prepare. His is a voice of gladness in the glorious
 news he bears and a solemn warning to us all. I so testify in the name of
 Jesus Christ, amen.
+
+## References
 

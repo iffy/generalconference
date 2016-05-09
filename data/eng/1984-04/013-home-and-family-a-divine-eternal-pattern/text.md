@@ -1,4 +1,4 @@
-# Home and Family: A Divine Eternal Pattern
+# Home and Family:A Divine Eternal Pattern
 
 Thank you, Sister Smith, from all the sisters of the Church, and certainly all
 the brethren as well. We appreciate your service and that of Sister Cannon.
@@ -24,8 +24,7 @@ to learn how to bring about a home here on earth similar to the celestial one
 I left. The Lord said that we were taught "even before [we] were born." We
 "received [our] first lessons in the world of spirits and were prepared to
 come forth ... to labor in his vineyard for the salvation of the souls of men."
-([D&amp;C 138:56](https://www.lds.org/scriptures/dc-
-testament/dc/138.56?lang=eng#55).)
+([D&amp;C 138:56](/scriptures/dc-testament/dc/138.56?lang=eng#55).)
 
 Thus, we were taught to labor in the vineyard, a good part of which, perhaps
 the most important part, was to know how to labor at home. We were taught by
@@ -36,12 +35,11 @@ teachings in the flesh.
 How might I remember and rediscover what I once knew? The Lord answers, "Pray
 and I will make known unto you things from the foundation of the world
 according to your faith and holy works." (See [Alma
-12:30](https://www.lds.org/scriptures/bofm/alma/12.30?lang=eng#29).) "I will
-bring all things back to your remembrance, whatsoever I have said unto you"
-(see [John 14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25)
-and [Alma 12:30](https://www.lds.org/scriptures/bofm/alma/12.30?lang=eng#29))
-"and will enlarge the memory of this people." (see [Alma
-37:8](https://www.lds.org/scriptures/bofm/alma/37.8?lang=eng#7).)
+12:30](/scriptures/bofm/alma/12.30?lang=eng#29).) "I will bring all things
+back to your remembrance, whatsoever I have said unto you" (see [John
+14:26](/scriptures/nt/john/14.26?lang=eng#25) and [Alma
+12:30](/scriptures/bofm/alma/12.30?lang=eng#29)) "and will enlarge the memory
+of this people." (see [Alma 37:8](/scriptures/bofm/alma/37.8?lang=eng#7).)
 
 At times when one speaks of home and family, some who are single, widowed, a
 single parent, or a grandparent might be tempted to feel these teachings don't
@@ -71,68 +69,31 @@ were in the premortal existence, in that council in heaven, yes, even a
 council of the Father's own family. Could the Father not have spoken words
 such as these to all of us: "My children, my children,
 
-  1. "Marriage on earth will be ordained of God unto man." (See D&amp;C 49:15-16; D&amp;C 131:1-4.)
-
-  2. "By divine decree, you will be copartners with God in bringing children to earth." (See Gen. 1:22, 28; 2 Ne. 2:22-23; D&amp;C 132:63.)
-
-  3. "The family unit will be the principal agency for the spiritual and temporal nurturing of the individual." (See Mosiah 4:14-15; D&amp;C 68:25, 28.)
+  1. "Marriage on earth will be ordained of God unto man." (See D&amp;C 49:15-16; D&amp;C 131:1-4.) 
+  2. "By divine decree, you will be copartners with God in bringing children to earth." (See Gen. 1:22, 28; 2 Ne. 2:22-23; D&amp;C 132:63.) 
+  3. "The family unit will be the principal agency for the spiritual and temporal nurturing of the individual." (See Mosiah 4:14-15; D&amp;C 68:25, 28.) 
 
 The Father, perhaps continuing, might have said: "When you go to earth--
 
-  1. "Teach your children to love the Lord thy God with all thine heart" (see Deut. 6:5-7),
-
-  2. "And to love and to serve one another." (See Mosiah 4:15.)
-
-  3. "Pray in your families, both morning, mid-day, and evening, and I will quicken your memory of these teachings." (See 3 Ne. 18:21; Alma 34:21, 27; D&amp;C 68:28.)
-
-  4. "On earth, teach them repentance, faith in Christ, baptism, the gift of the Holy Ghost, priesthood covenants, and temple ordinances." (See D&amp;C 68:25, 27; D&amp;C 132:19.) Grandparents, uncles and aunts, you can help.
-
-  5. "Consecrate your family resources to the Lord. Be free with your substance." (See D&amp;C 42:30-31; Jacob 2:17; D&amp;C 119:1-7.)
-
-  6. "Provoke not your children to wrath" (see Eph. 6:4),
-
-  7. "Neither suffer that they fight and quarrel one with another, thus sowing seeds of contention." (See Mosiah 4:14.)
+  1. "Teach your children to love the Lord thy God with all thine heart" (see Deut. 6:5-7), 
+  2. "And to love and to serve one another." (See Mosiah 4:15.) 
+  3. "Pray in your families, both morning, mid-day, and evening, and I will quicken your memory of these teachings." (See 3 Ne. 18:21; Alma 34:21, 27; D&amp;C 68:28.) 
+  4. "On earth, teach them repentance, faith in Christ, baptism, the gift of the Holy Ghost, priesthood covenants, and temple ordinances." (See D&amp;C 68:25, 27; D&amp;C 132:19.) Grandparents, uncles and aunts, you can help. 
+  5. "Consecrate your family resources to the Lord. Be free with your substance." (See D&amp;C 42:30-31; Jacob 2:17; D&amp;C 119:1-7.) 
+  6. "Provoke not your children to wrath" (see Eph. 6:4), 
+  7. "Neither suffer that they fight and quarrel one with another, thus sowing seeds of contention." (See Mosiah 4:14.) 
 
 Perhaps He continued, saying:
 
-  1. "Fathers to be, you will learn what true spiritual leadership is mostly at home, not so much in the world.
-
-"_Mothers,_ yours will be a sacred call unlike any other, _to raise these
-little children so that they will be like I am._ Unless you all become as
-little children, you will not be able to return home to me."
-
+  1. "Fathers to be, you will learn what true spiritual leadership is mostly at home, not so much in the world. "_Mothers,_ yours will be a sacred call unlike any other, _to raise these little children so that they will be like I am._ Unless you all become as little children, you will not be able to return home to me."
   2. "Learn your duty from living prophets and from the scriptures."
-
-  3. "Lastly, because of the sacred nature of parenthood, I will personally teach you, through the Holy Ghost, those things that matter most. Stay close to me; humbly ask for help."
-
-Perhaps the Father continued, saying, "My children, there are also a number of
-cautions I would give you, because the influence of the world will be so
-strong."
-
-  1. "There will be heavy influence to maintain families small. However, remember, 'As arrows are in the hand of a mighty man; so are children. ... Happy is the man that hath his quiver full of them.'" (Ps. 127:4-5.)
-
-  2. "On earth, remember to keep your family responsibilities as a priority. There will be many who will want to encroach upon your responsibility for teaching and providing activities for your family. Never forget that yours is the primary responsibility and that your ultimate success in all other endeavors will be in direct proportion to the attention given these divinely appointed relationships." (See D&amp;C 88:119.)
-
-  3. "Strive to be together. Avoid activities and those that would pull you apart. Remember, where love runs deep, so can hurt feelings and frictions, as love may become frustrated." (See 2 Ne. 1:14, 21.)
-
-  4. "As children, be sure to give heed to your father and mother, remembering that I, the Lord, have placed them over you. Honor them." (See Ex. 20:12.)
-
-  5. "When you go to earth, children, remember that once you are a parent you will always be a parent. Whether it be a grandparent, a great-grandparent, or a parent as I am. Your responsibilities to preside go on through the generations to assist in turning the hearts of the children to their fathers. Resist the temptation to be uninvolved, retiring from your family and doing your own thing. As grandparents, your wisdom and vision will allow you to draw together your whole family which I, the Lord, have given you." (See Mosiah 2:5.)
-
-Brothers and sisters, perhaps he concluded,
-
-  6. "My children, don't be too concerned about remembering these things. You will find that when these things are taught to you they will seem strangely familiar, as if you always knew them. You did, because you experienced it all here in your heavenly home." (See 1 Ne. 15:8, 11.)
-
-"You will suffer affliction with your children in allowing them to grow and
-develop, just as I have suffered affliction with you. (See [D&amp;C
-133:52-53](https://www.lds.org/scriptures/dc-
-testament/dc/133.52-53?lang=eng#51).) But don't be afraid; I have given mine
-angels charge concerning you. Those sent from my very presence to be round
-about you, to bear you up. (See [D&amp;C 84:42,
-88](https://www.lds.org/scriptures/dc-testament/dc/84.42%2C88?lang=eng#41);
-[D&amp;C 133:53](https://www.lds.org/scriptures/dc-
-testament/dc/133.53?lang=eng#52).) This is your opportunity to experience what
-we have taught you. Follow the promptings. We love you."
+  3. "Lastly, because of the sacred nature of parenthood, I will personally teach you, through the Holy Ghost, those things that matter most. Stay close to me; humbly ask for help." Perhaps the Father continued, saying, "My children, there are also a number of cautions I would give you, because the influence of the world will be so strong."
+  1. "There will be heavy influence to maintain families small. However, remember, 'As arrows are in the hand of a mighty man; so are children. ... Happy is the man that hath his quiver full of them.'" (Ps. 127:4-5.) 
+  2. "On earth, remember to keep your family responsibilities as a priority. There will be many who will want to encroach upon your responsibility for teaching and providing activities for your family. Never forget that yours is the primary responsibility and that your ultimate success in all other endeavors will be in direct proportion to the attention given these divinely appointed relationships." (See D&amp;C 88:119.) 
+  3. "Strive to be together. Avoid activities and those that would pull you apart. Remember, where love runs deep, so can hurt feelings and frictions, as love may become frustrated." (See 2 Ne. 1:14, 21.) 
+  4. "As children, be sure to give heed to your father and mother, remembering that I, the Lord, have placed them over you. Honor them." (See Ex. 20:12.) 
+  5. "When you go to earth, children, remember that once you are a parent you will always be a parent. Whether it be a grandparent, a great-grandparent, or a parent as I am. Your responsibilities to preside go on through the generations to assist in turning the hearts of the children to their fathers. Resist the temptation to be uninvolved, retiring from your family and doing your own thing. As grandparents, your wisdom and vision will allow you to draw together your whole family which I, the Lord, have given you." (See Mosiah 2:5.) Brothers and sisters, perhaps he concluded, 
+  6. "My children, don't be too concerned about remembering these things. You will find that when these things are taught to you they will seem strangely familiar, as if you always knew them. You did, because you experienced it all here in your heavenly home." (See 1 Ne. 15:8, 11.) "You will suffer affliction with your children in allowing them to grow and develop, just as I have suffered affliction with you. (See [D&amp;C 133:52-53](/scriptures/dc-testament/dc/133.52-53?lang=eng#51).) But don't be afraid; I have given mine angels charge concerning you. Those sent from my very presence to be round about you, to bear you up. (See [D&amp;C 84:42, 88](/scriptures/dc-testament/dc/84.42,88?lang=eng#41); [D&amp;C 133:53](/scriptures/dc-testament/dc/133.53?lang=eng#52).) This is your opportunity to experience what we have taught you. Follow the promptings. We love you."
 
 Brothers and sisters, in conclusion may I say, where possible:
 
@@ -185,4 +146,6 @@ _With your mutual approbation_
 _Let me come [home] and dwell with you._
 
 In the name of Jesus Christ, amen.
+
+## References
 

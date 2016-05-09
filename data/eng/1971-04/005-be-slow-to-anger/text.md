@@ -11,9 +11,8 @@ our watching.
 
 When Solomon declared: "He that is slow to anger is better than the mighty;
 and he that ruleth his spirit than he that taketh a city" ([Prov.
-16:32](https://www.lds.org/scriptures/ot/prov/16.32?lang=eng#31)), he knew
-that individual spiritual development cannot be realized without self-
-discipline.
+16:32](/scriptures/ot/prov/16.32?lang=eng#31)), he knew that individual
+spiritual development cannot be realized without self-discipline.
 
 Someone has said, "The size of a man may be measured by the size of the things
 that make him angry." How true that is! To become upset and infuriated over
@@ -139,8 +138,7 @@ thine enemy.
 
 "But I say unto you, Love your enemies, bless them that curse you, do good to
 them that hate you, and pray for them which despitefully use you, and
-persecute you." ([Matt.
-5:43-44](https://www.lds.org/scriptures/nt/matt/5.43-44?lang=eng#42).)
+persecute you." ([Matt. 5:43-44](/scriptures/nt/matt/5.43-44?lang=eng#42).)
 
 I agree that this is not naturally easy to do, but, my brothers and sisters,
 we must each conscientiously work at it if we are to achieve our purposes in
@@ -160,4 +158,6 @@ If we will do this, we will be more greatly blessed as individuals and our
 homes will reflect the sweet spirit of love and harmony and peace. To this I
 testify, and pray for the help of the Lord in bringing this about, in the name
 of the Lord, Jesus Christ. Amen.
+
+## References
 

@@ -22,9 +22,9 @@ you always. We pray for you that you may be happy, and that in living the
 gospel there may be love and peace in your homes and growing goodness in your
 lives. That is what this is all about, for God sent His Only Beloved Son "that
 whosoever believeth in him should not perish, but have everlasting life"
-([John 3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15)). The
-great purpose of the work in which we are engaged is to help each of us along
-the way of immortality and eternal life.
+([John 3:16](/scriptures/nt/john/3.16?lang=eng#15)). The great purpose of the
+work in which we are engaged is to help each of us along the way of
+immortality and eternal life.
 
 Please know of our great love for you. I thank the Lord every morning of my
 life for the restoration of the gospel and its meaning in the lives of
@@ -43,4 +43,6 @@ God bless you. I leave my blessing upon you, that as you walk in faith there
 may be peace in your hearts and goodness and gladness in your lives, and that
 the Spirit of the Lord may dwell with you in your homes, to bring nurture to
 you and those you love most dearly, in the name of Jesus Christ, amen.
+
+## References
 

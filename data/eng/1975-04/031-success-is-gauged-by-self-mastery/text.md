@@ -65,8 +65,7 @@ other words, he cannot be a worthy father or leader.
 
 Solomon in all his wisdom made this meaningful statement: "He that is slow to
 anger is better than the mighty; and he that ruleth his spirit than he that
-taketh a city." ([Prov.
-16:32](https://www.lds.org/scriptures/ot/prov/16.32?lang=eng#31).)
+taketh a city." ([Prov. 16:32](/scriptures/ot/prov/16.32?lang=eng#31).)
 
 There are two important elements in self-mastery. The first is to determine
 your course or set the sails, so to speak, of moral standards; the other is
@@ -91,7 +90,7 @@ that leadeth to destruction, and many there be which go in thereat:
 
 "Because strait is the gate, and narrow is the way, which leadeth unto life,
 and few there be that find it." ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).)
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).)
 
 As we think of this, it is so evident that those who keep on the straight and
 narrow path leading to their goal, realizing that the straight line is the
@@ -271,11 +270,10 @@ who can represent him in the mission field, and men who can be trusted in
 every way and who are prepared to help build his kingdom.
 
 He said, "This is my work and my glory--to bring to pass the immortality and
-eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) He is
-asking us as priesthood holders if we will come and help him spread the gospel
-and live, and help others to live, so as to enjoy immortality and eternal
-life.
+eternal life of man." ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
+He is asking us as priesthood holders if we will come and help him spread the
+gospel and live, and help others to live, so as to enjoy immortality and
+eternal life.
 
 I wish to bear my witness to you and to the world at this Easter season that
 Jesus Christ lives and that he is actually the Son of the living God; that he
@@ -287,4 +285,6 @@ May we apply the principles of self-mastery and discipline, so as to prove
 worthy of the many blessings we receive as priesthood holders, and walk
 uprightly before the Lord at all times, I humbly pray in the name of Jesus
 Christ. Amen.
+
+## References
 

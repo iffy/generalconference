@@ -15,10 +15,10 @@ with all the conviction of my soul I know that it will bring you what you most
 desire.
 
 The Lord inspired a prophet to declare, "Men are, that they might have joy"
-([2 Ne. 2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)),
-that is, happiness now and forever. But you say, "How can you find happiness?
-So many give advice, but often it is confusing and expressed in terms and
-concepts I don't understand."
+([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)), that is, happiness now
+and forever. But you say, "How can you find happiness? So many give advice,
+but often it is confusing and expressed in terms and concepts I don't
+understand."
 
 God knew that his children would face this challenge, so he provided an
 unfailing way to recognize his true plan for happiness.
@@ -63,9 +63,9 @@ Ghost.
 
 May I tell you how to obtain this precious gift? Or if you have it, how to
 expand your use of it? The Lord has said, "Ask, and ye shall receive; knock,
-and it shall be opened unto you" ([D&amp;C 4:7](https://www.lds.org/scriptures
-/dc-testament/dc/4.7?lang=eng#6)). When you ask with real intent, you will
-feel undeniable impressions that lead you to greater truth. You will be given
+and it shall be opened unto you" ([D&amp;C 4:7](/scriptures/dc-
+testament/dc/4.7?lang=eng#6)). When you ask with real intent, you will feel
+undeniable impressions that lead you to greater truth. You will be given
 opportunities, such as through the inspired messages of this conference, to
 find the one and only true Church of Jesus Christ, and you will recognize that
 Church.
@@ -79,8 +79,8 @@ liberally; and that which the Spirit [or Holy Ghost] testifies unto you even
 so I would that ye should do in all holiness of heart, walking uprightly
 before me, considering the end of your salvation, doing all things with prayer
 and thanksgiving, that ye may not be seduced by evil spirits, or doctrines of
-devils, or the commandments of men" ([D&amp;C
-46:7](https://www.lds.org/scriptures/dc-testament/dc/46.7?lang=eng#6)).
+devils, or the commandments of men" ([D&amp;C 46:7](/scriptures/dc-
+testament/dc/46.7?lang=eng#6)).
 
 God did not put us on earth to be victimized by circumstances. He gave us a
 plan for assured success--his gospel--the perfect plan for happiness.
@@ -127,4 +127,6 @@ prophet. I love him and sustain him with all my heart. I testify that this,
 The Church of Jesus Christ of Latter-day Saints, is the only place on earth
 where that fulness of truth and priesthood authority can be found. In the name
 of Jesus Christ, amen.
+
+## References
 

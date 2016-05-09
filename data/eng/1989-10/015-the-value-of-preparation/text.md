@@ -72,16 +72,13 @@ missionaries? Why? Because of the eternal significance of a mission in your
 life and in the lives of others. We learn of the responsibility we have to
 preach the gospel when Jesus said: "Go ye therefore, and teach all nations,
 baptizing them in the name of the Father, and of the Son, and of the Holy
-Ghost." ([Matt.
-28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18).) Paul to the
+Ghost." ([Matt. 28:19](/scriptures/nt/matt/28.19?lang=eng#18).) Paul to the
 Corinthians counseled, "For though I preach the gospel, I have nothing to
 glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not
-the gospel!" ([1 Cor.
-9:16](https://www.lds.org/scriptures/nt/1-cor/9.16?lang=eng#15).)
+the gospel!" ([1 Cor. 9:16](/scriptures/nt/1-cor/9.16?lang=eng#15).)
 
 I plead with you, my young friends, to never be "ashamed of the gospel of
-Christ." ([Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).) Prepare
+Christ." ([Rom. 1:16](/scriptures/nt/rom/1.16?lang=eng#15).) Prepare
 yourselves and make yourselves worthy to receive a mission call. Live clean,
 pure lives. Study the scriptures--not just read, but study the scriptures--
 especially the Book of Mormon, as President Benson has counseled us to do. Be
@@ -102,7 +99,7 @@ know that which would be of the most worth unto you. ... "And now, behold, I say
 unto you, that the thing which will be of the most worth unto you will be to
 declare repentance unto this people, that you may bring souls unto me, that
 you may rest with them in the kingdom of my Father." ([D&amp;C 15:4,
-6](https://www.lds.org/scriptures/dc-testament/dc/15.4%2C6?lang=eng#3).)
+6](/scriptures/dc-testament/dc/15.4,6?lang=eng#3).)
 
 I promise you young men that if you will commit and prepare to serve a
 mission, it will be the most rewarding and exciting experience of your lives.
@@ -156,8 +153,7 @@ suffered the pain of all men, that all men might repent and come unto him. ...
 "And if it so be that you should labor all your days in crying repentance unto
 this people, and bring, save it be one soul unto me, how great shall be your
 joy with him in the kingdom of my Father!" ([D&amp;C 18:10-11,
-14-15](https://www.lds.org/scriptures/dc-
-testament/dc/18.10-11%2C14-15?lang=eng#9).)
+14-15](/scriptures/dc-testament/dc/18.10-11,14-15?lang=eng#9).)
 
 O youth of noble birthright, I bear witness to you this night that if you will
 commit, prepare, and with a willing heart go forth to serve Jesus Christ and
@@ -166,14 +162,15 @@ words of our Savior:
 
 "Ye are blessed, for the testimony which ye have borne is recorded in heaven
 for the angels to look upon; and they rejoice over you, and your sins are
-forgiven you." ([D&amp;C 62:3](https://www.lds.org/scriptures/dc-
-testament/dc/62.3?lang=eng#2).)
+forgiven you." ([D&amp;C 62:3](/scriptures/dc-testament/dc/62.3?lang=eng#2).)
 
 "Ye are a chosen generation, a royal priesthood." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).)
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).)
 
 Stay on the Lord's side and you will find eternal joy and fulfillment. I bear
 my witness to you that Jesus is the Christ, the Son of God. This is His
 church. President Ezra Taft Benson is our living prophet, in the name of Jesus
 Christ, amen.
+
+## References
 

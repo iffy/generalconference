@@ -25,7 +25,7 @@ than they.
 "And now, my brethren, do ye suppose that God justifieth you in this thing?
 Behold, I say unto you, Nay. But he condemneth you, and if ye persist in these
 things his judgments must speedily come unto you" ([Jacob
-2:13-14](https://www.lds.org/scriptures/bofm/jacob/2.13-14?lang=eng#12)).
+2:13-14](/scriptures/bofm/jacob/2.13-14?lang=eng#12)).
 
 Now, we see that often this turning away from the Lord comes with prosperity.
 Those who are more prosperous can become filled with pride, and they look down
@@ -41,8 +41,7 @@ whether it is a consequence of having too much or too little.
 
 Jacob further counsels, "Think of your brethren like unto yourselves, and be
 familiar with all and free with your substance, that they may be rich like
-unto you" ([Jacob
-2:17](https://www.lds.org/scriptures/bofm/jacob/2.17?lang=eng#16)).
+unto you" ([Jacob 2:17](/scriptures/bofm/jacob/2.17?lang=eng#16)).
 
 Here we see a direct application of the second great commandment to love our
 neighbors as ourselves. Jacob tells his people not to discriminate against
@@ -55,7 +54,7 @@ have with them.
 seek them; and ye will seek them for the intent to do good--to clothe the
 naked, and to feed the hungry, and to liberate the captive, and administer
 relief to the sick and the afflicted" ([Jacob
-2:18-19](https://www.lds.org/scriptures/bofm/jacob/2.18-19?lang=eng#17)).
+2:18-19](/scriptures/bofm/jacob/2.18-19?lang=eng#17)).
 
 So often it is the order of things that is fundamental in the Lord's
 instructions to us. The Lord is not telling us that we should not be
@@ -135,7 +134,7 @@ I have often wondered how these brethren, as valiant as they were, could do
 what they did. Truly they were willing to make any sacrifice asked of them to
 build the kingdom of God. They were laying up "treasures in heaven, where
 neither moth nor rust doth corrupt" ([Matt.
-6:20](https://www.lds.org/scriptures/nt/matt/6.20?lang=eng#19)).
+6:20](/scriptures/nt/matt/6.20?lang=eng#19)).
 
 There is something else about this story, however, that has always intrigued
 me. As Brigham Young and Heber C. Kimball left on their missions to Great
@@ -157,7 +156,7 @@ a unique bonding, a special faith in the community of Saints, dedicated to a
 common goal, a common purpose. If we return to Jacob's counsel to his people,
 we see the same message communicated as he instructed them to be familiar with
 all and to share freely of their substance (see [Jacob
-2:17](https://www.lds.org/scriptures/bofm/jacob/2.17?lang=eng#16)).
+2:17](/scriptures/bofm/jacob/2.17?lang=eng#16)).
 
 What this testifies to me is that we can tell whether or not we put the
 kingdom of God first by looking at how we treat our brothers and sisters in
@@ -198,4 +197,6 @@ May each of us accept the challenge to seek the kingdom of God first, before
 and above all else, and by so doing draw closer together as a people, until we
 are all of one heart and one mind, I humbly pray in the name of Jesus Christ,
 amen.
+
+## References
 

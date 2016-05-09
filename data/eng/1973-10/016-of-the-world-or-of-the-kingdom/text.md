@@ -127,7 +127,7 @@ of Christ unto another gospel: Which is not another; but there be some that
 trouble you, and would pervert the gospel of Christ. But though we, or an
 angel from heaven, preach any other gospel unto you than that which we have
 preached unto you, let him be accursed." ([Gal.
-1:6-8](https://www.lds.org/scriptures/nt/gal/1.6-8?lang=eng#5).)
+1:6-8](/scriptures/nt/gal/1.6-8?lang=eng#5).)
 
 From the earliest days of the Christian church, spurious gospels have been
 taught--not really gospels, as Paul pointed out, for there is only one gospel
@@ -173,4 +173,6 @@ May the Lord bless us in our righteous endeavors to shun the influences that
 lead into the ways of the world, that we may take our place, in faith and
 believing, in the kingdom of God, I humbly pray in the name of Jesus Christ.
 Amen.
+
+## References
 

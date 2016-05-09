@@ -66,7 +66,7 @@ you, not sparing the flock.
 
 "Also of your own selves shall men arise, speaking perverse things, to draw
 away disciples after them." ([Acts
-20:28-30](https://www.lds.org/scriptures/nt/acts/20.28-30?lang=eng#27).)
+20:28-30](/scriptures/nt/acts/20.28-30?lang=eng#27).)
 
 And then the apostle Paul wrote to the Galatians:
 
@@ -87,7 +87,7 @@ not after man.
 
 "For I neither received it of man, neither was I taught it, but by the
 revelation of Jesus Christ." ([Gal.
-1:6-12](https://www.lds.org/scriptures/nt/gal/1.6-12?lang=eng#5).)
+1:6-12](/scriptures/nt/gal/1.6-12?lang=eng#5).)
 
 Today those warnings are just as applicable as they were in that day in which
 they were given.
@@ -145,16 +145,15 @@ were said then:
 Saints:
 
 "From the days of Hiram Page (Doc. and Cov., Sec. 28) [[D&amp;C
-28](https://www.lds.org/scriptures/dc-testament/dc/28.title?lang=eng)], at
-different periods there have been manifestations from delusive spirits to
-members of the Church. Sometimes these have come to men and women who because
-of transgression became easy prey to the Arch-Deceiver. At other times people
-who pride themselves on their strict observance of the rules and ordinances
-and ceremonies of the Church are led astray by false spirits, who exercise an
-influence so imitative of that which proceeds from at Divine source that even
-these persons, who think they are 'the very elect,' find it difficult to
-discern the essential difference. Satan himself has transformed himself to be
-apparently 'an angel of light.'
+28](/scriptures/dc-testament/dc/28?lang=eng)], at different periods there have
+been manifestations from delusive spirits to members of the Church. Sometimes
+these have come to men and women who because of transgression became easy prey
+to the Arch-Deceiver. At other times people who pride themselves on their
+strict observance of the rules and ordinances and ceremonies of the Church are
+led astray by false spirits, who exercise an influence so imitative of that
+which proceeds from at Divine source that even these persons, who think they
+are 'the very elect,' find it difficult to discern the essential difference.
+Satan himself has transformed himself to be apparently 'an angel of light.'
 
 "When visions, dreams, tongues, prophecy, impressions or an extraordinary gift
 or inspiration convey something out of harmony with the accepted revelations
@@ -211,7 +210,7 @@ the Doctrine and Covenants, verse 11:
 preach my gospel, or to build up my church, except he be ordained by someone
 who has authority, and it is known to the church that he has authority and has
 been regularly ordained by the heads of the church." [[D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10)]
+42:11](/scriptures/dc-testament/dc/42.11?lang=eng#10)]
 
 Now, if one comes claiming that he has authority, ask him, "Where do you get
 your authority? Have you been ordained by someone who has authority, who is
@@ -247,8 +246,7 @@ sitteth upon the judgment seat.
 
 "Let no man break the laws of the land ... until he reigns whose right it is to
 reign, and subdues all enemies under his feet." ([D&amp;C
-58:20-22](https://www.lds.org/scriptures/dc-
-testament/dc/58.20-22?lang=eng#19).)
+58:20-22](/scriptures/dc-testament/dc/58.20-22?lang=eng#19).)
 
 I want to warn this great body of priesthood against that great sin of Sodom
 and Gomorrah, which has been labeled as a sin second only in seriousness to
@@ -287,22 +285,21 @@ implications.
 
 Read the 24th chapter of Matthew--particularly that inspired version as
 contained in the Pearl of Great Price. ([JS--M
-1](https://www.lds.org/scriptures/pgp/js-m/1.title?lang=eng).)
+1](/scriptures/pgp/js-m/1?lang=eng).)
 
 Then read the 45th section of the Doctrine and Covenants where the Lord, not
-man, has documented the signs of the times. [[D&amp;C
-45](https://www.lds.org/scriptures/dc-testament/dc/45.title?lang=eng)]
+man, has documented the signs of the times. [[D&amp;C 45](/scriptures/dc-
+testament/dc/45?lang=eng)]
 
 Now turn to section 101 and section 133 of the Doctrine and Covenants and hear
 the step-by-step recounting of events leading up to the coming of the Savior.
-[[D&amp;C 101](https://www.lds.org/scriptures/dc-
-testament/dc/101.title?lang=eng); [D&amp;C 133](https://www.lds.org/scriptures
-/dc-testament/dc/133.title?lang=eng)]
+[[D&amp;C 101](/scriptures/dc-testament/dc/101?lang=eng); [D&amp;C
+133](/scriptures/dc-testament/dc/133?lang=eng)]
 
 Finally, turn to the promises the Lord makes to those who keep the
 commandments when these judgments descend upon the wicked, as set forth in the
-Doctrine and Covenants, section 38. [[D&amp;C
-38](https://www.lds.org/scriptures/dc-testament/dc/38.title?lang=eng)]
+Doctrine and Covenants, section 38. [[D&amp;C 38](/scriptures/dc-
+testament/dc/38?lang=eng)]
 
 Brethren, these are some of the writings with which you should concern
 yourselves, rather than commentaries that may come from those whose
@@ -322,15 +319,14 @@ the earth, among the children of men, in the presence of all the hosts of
 heaven--
 
 "Which causeth silence to reign, and all eternity is pained. ..." ([D&amp;C
-38:9-12](https://www.lds.org/scriptures/dc-testament/dc/38.9-12?lang=eng#8).)
+38:9-12](/scriptures/dc-testament/dc/38.9-12?lang=eng#8).)
 
 Now brethren, I have spoken plainly to you in this priesthood session. Let
 what has been said by all the brethren tonight, and in this conference, not
 fall on deaf ears. Let these admonitions be received as the Lord directed they
 should be received, in an early revelation, to which President Tanner has
 already made reference, "as if from mine own mouth, in all patience and
-faith." ([D&amp;C 21:5](https://www.lds.org/scriptures/dc-
-testament/dc/21.5?lang=eng#4).)
+faith." ([D&amp;C 21:5](/scriptures/dc-testament/dc/21.5?lang=eng#4).)
 
 Only by so doing can we be truly one as a body of priesthood, by following the
 leadership that the Lord has established in our day in order that we may be
@@ -489,4 +485,6 @@ will witness and look back on this period and see some of the mighty
 revelations the Lord has given in your day and time. To that I bear you my
 witness, and leave with you my testimony this night, in the name of the Lord
 Jesus Christ. Amen.
+
+## References
 

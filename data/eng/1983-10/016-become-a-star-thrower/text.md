@@ -5,7 +5,7 @@ meetinghouses throughout the world, in the knowledge that what is said here
 tonight is in harmony with and will assist in hastening the fulfillment of
 ancient and modern prophecy of our Lord and Savior's plan "to bring to pass
 the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 We have a great work entrusted to us. My remarks tonight are centered in our
 efforts to find and recover men and families who have strayed from active
@@ -56,12 +56,11 @@ The other young man needs our love even more--a special love. I have faith
 that we can recover him. It was such as he of whom the Savior spoke: "What man
 of you, having an hundred sheep, if he lose one of them, doth not leave the
 ninety and nine in the wilderness, and go after that which is lost, until he
-find it?" ([Luke
-15:4](https://www.lds.org/scriptures/nt/luke/15.4?lang=eng#3).)
+find it?" ([Luke 15:4](/scriptures/nt/luke/15.4?lang=eng#3).)
 
 Paul taught, for he had experienced firsthand, that "God is not mocked: for
 whatsoever a man soweth, that shall he also reap." ([Gal.
-6:7](https://www.lds.org/scriptures/nt/gal/6.7?lang=eng#6).)
+6:7](/scriptures/nt/gal/6.7?lang=eng#6).)
 
 Young men are sowers. Young women are sowers. Who trains and guides these
 sowers? Who points out to them which is the right grain to place in the
@@ -106,7 +105,7 @@ The gospel teaches us that every member of the Church has an obligation to
 strengthen his fellow members. The Savior himself instructed the Apostle
 Peter: "But I have prayed for thee, that thy faith fail not: and when thou art
 converted, strengthen thy brethren." ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31).)
+22:32](/scriptures/nt/luke/22.32?lang=eng#31).)
 
 Guidelines for Melchizedek Priesthood quorum activation efforts have already
 been given to stake presidents with the necessary instructions from the
@@ -122,10 +121,9 @@ their members:
 "The Lord gave instruction in the revelations that holders of the priesthood
 should be organized by quorums. The presidency of the quorum is responsible
 for the activity of each quorum member. Home teaching, wherein quorum members
-'visit the house of each member' ([D&amp;C
-20:51](https://www.lds.org/scriptures/dc-testament/dc/20.51?lang=eng#50)), is
-one of the most effective means by which the members of the quorum are cared
-for and strengthened.
+'visit the house of each member' ([D&amp;C 20:51](/scriptures/dc-
+testament/dc/20.51?lang=eng#50)), is one of the most effective means by which
+the members of the quorum are cared for and strengthened.
 
 "The bishop, as presiding high priest and chairman of the ward priesthood
 executive committee, which is the home teaching committee, in consultation
@@ -219,9 +217,11 @@ message of greatest hope--the gospel of Jesus Christ.
 
 Be a star thrower! Then you may better understand our Lord's commandment:
 "Thou shalt love thy neighbour as thyself." ([Matt.
-19:19](https://www.lds.org/scriptures/nt/matt/19.19?lang=eng#18).)
+19:19](/scriptures/nt/matt/19.19?lang=eng#18).)
 
 God bless us all in his divine work of the recovering of souls, that our
 resolve will be firm, that our timing will be now, and that our success will
 be sweet, in the name of Jesus Christ, our Savior, amen.
+
+## References
 

@@ -101,8 +101,7 @@ direction from the Lord. The scripture President Tanner quoted bears this out,
 in our country, in the establishment of this government. "And for this purpose
 have I established the Constitution of this land, by the hands of wise men
 whom I raised up unto this very purpose, and redeemed the land by the shedding
-of blood." ([D&amp;C 101:80](https://www.lds.org/scriptures/dc-
-testament/dc/101.80?lang=eng#79).)
+of blood." ([D&amp;C 101:80](/scriptures/dc-testament/dc/101.80?lang=eng#79).)
 
 I have resolved to do all that is within my power to keep alive the same faith
 which existed in the hearts and souls of our early founding fathers.
@@ -165,7 +164,7 @@ be called Woman, because she was taken out of Man.
 
 "Therefore shall a man leave his father and his mother, and shall cleave unto
 is wife: and they shall be one flesh." ([Gen. 2:18,
-21-24](https://www.lds.org/scriptures/ot/gen/2.18%2C21-24?lang=eng#17).)
+21-24](/scriptures/ot/gen/2.18,21-24?lang=eng#17).)
 
 The union between husband and wife is sacred to the Lord, something not to be
 trifled with. The marriage covenant was essential to the Lord God to
@@ -176,7 +175,7 @@ In all periods of time, he has declared his divine law is to safeguard and
 protect this holy union between husband and wife. When Moses found need for
 laws to govern the children of Israel, one of the pronouncements by the Lord
 to him was, "Thou shalt not commit adultery." ([Ex.
-20:14](https://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13).)
+20:14](/scriptures/ot/ex/20.14?lang=eng#13).)
 
 In another age when the only Begotten Son was on the earth, he reaffirmed with
 added emphasis this eternal law: "Ye have heard that it was said by them of
@@ -184,17 +183,16 @@ old time, Thou shalt not commit adultery:
 
 "But I say unto you, That whosoever looketh on a woman to lust after her hath
 committed adultery with her already in his heart." ([Matt.
-5:27-28](https://www.lds.org/scriptures/nt/matt/5.27-28?lang=eng#26).)
+5:27-28](/scriptures/nt/matt/5.27-28?lang=eng#26).)
 
 The Lord in his dealings on the American continent, as contained in the Book
 of Mormon, declares again the same consistent teaching, "Thou shalt not commit
-adultery." ([Mosiah
-13:22](https://www.lds.org/scriptures/bofm/mosiah/13.22?lang=eng#21).)
+adultery." ([Mosiah 13:22](/scriptures/bofm/mosiah/13.22?lang=eng#21).)
 
 He has not left us without that same instruction in our modern scriptures. For
 again in this day he has declared, "Thou shalt not commit adultery; and he
 that committeth adultery, and repenteth not, shall be cast out." ([D&amp;C
-42:24](https://www.lds.org/scriptures/dc-testament/dc/42.24?lang=eng#23).)
+42:24](/scriptures/dc-testament/dc/42.24?lang=eng#23).)
 
 There has not been and never will be contradiction in the divine laws of God.
 Scripture after scripture in all ages of time declare his divine message that
@@ -215,8 +213,7 @@ And so today, I sound the same words of warning as Paul the Apostle of old:
 their own lusts shall they heap to themselves teachers, having itching ears;
 
 "And they shall turn away their ears from the truth, and shall be turned unto
-fables." ([2 Tim.
-4:3-4](https://www.lds.org/scriptures/nt/2-tim/4.3-4?lang=eng#2).)
+fables." ([2 Tim. 4:3-4](/scriptures/nt/2-tim/4.3-4?lang=eng#2).)
 
 I leave you my witness that there is a consistency in the laws of God that
 will not change. When we conform our lives to his laws we will find a
@@ -227,8 +224,10 @@ will be the result.
 
 Let us catch the spirit of the Psalmist who wrote, "The earth is the Lord's,
 and the fulness thereof; the world, and they that dwell therein." ([Ps.
-24:1](https://www.lds.org/scriptures/ot/ps/24.1?lang=eng#0).)
+24:1](/scriptures/ot/ps/24.1?lang=eng#0).)
 
 May God grant that we may have the courage to stand up and be counted for that
 which we know to be right, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

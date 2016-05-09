@@ -28,23 +28,23 @@ obligation to little children.
 There is much in the scriptures about little children.
 
 The Psalmist wrote, "Children are an heritage of the Lord" ([Ps.
-127:3](https://www.lds.org/scriptures/ot/ps/127.3?lang=eng#2)).
+127:3](/scriptures/ot/ps/127.3?lang=eng#2)).
 
 The Savior gave the ever-familiar plea, "Suffer the little children to come
 unto me, and forbid them not: for of such is the kingdom of heaven" ([Mark
-10:14](https://www.lds.org/scriptures/nt/mark/10.14?lang=eng#13)).
+10:14](/scriptures/nt/mark/10.14?lang=eng#13)).
 
 When His disciples asked, "Who is the greatest in the kingdom of heaven? ...
 Jesus called a little child unto him, and set him in the midst of them, and
 said, ... Whosoever ... shall humble himself as this little child, the same is
 greatest in the kingdom of heaven. And whoso shall receive one such little
 child in my name receiveth me" ([Matt.
-18:1-5](https://www.lds.org/scriptures/nt/matt/18.1-5?lang=eng#0)).
+18:1-5](/scriptures/nt/matt/18.1-5?lang=eng#0)).
 
 Then came this warning: "But whoso shall offend one of these little ones which
 believe in me, it were better for him that a millstone were hanged about his
 neck, and that he were drowned in the depth of the sea" ([Matt.
-18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5)).
+18:6](/scriptures/nt/matt/18.6?lang=eng#5)).
 
 To me, the most impressive lesson is in the Book of Mormon.
 
@@ -80,8 +80,8 @@ prayed unto the Father for them.
 "And they saw the heavens open, and they saw angels descending out of heaven
 as it were in the midst of fire; and they came down and encircled those little
 ones about, and they were encircled about with fire; and the angels did
-minister unto them" ([3 Ne. 17:11-15, 17, 20-24](https://www.lds.org/scripture
-s/bofm/3-ne/17.11-15%2C17%2C20-24?lang=eng#10)).
+minister unto them" ([3 Ne. 17:11-15, 17,
+20-24](/scriptures/bofm/3-ne/17.11-15,17,20-24?lang=eng#10)).
 
 There is more, much more, in the scriptures about little children.
 
@@ -138,15 +138,15 @@ disobedience, from the children of men, and because of the tradition of their
 fathers.
 
 "But I have commanded you to bring up your children in light and truth"
-([D&amp;C 93:36-40](https://www.lds.org/scriptures/dc-
-testament/dc/93.36-40?lang=eng#35); italics added).
+([D&amp;C 93:36-40](/scriptures/dc-testament/dc/93.36-40?lang=eng#35); italics
+added).
 
 Mormon taught this doctrine to his son Moroni and hence to us. I can present
 only a few sentences from his letter.
 
 "If I have learned the truth," Mormon wrote, "there have been disputations
 among you concerning the baptism of your little children" ([Moro.
-8:5](https://www.lds.org/scriptures/bofm/moro/8.5?lang=eng#4)).
+8:5](/scriptures/bofm/moro/8.5?lang=eng#4)).
 
 He called their disputation "gross error" and wrote: "Immediately after I had
 learned these things of you I inquired of the Lord concerning the matter. And
@@ -161,14 +161,14 @@ Adam is taken from them in me, that it hath no power over them; ...
 "And after this manner did the Holy Ghost manifest the word of God unto me;
 wherefore, my beloved son, I know that it is solemn mockery before God, that
 ye should baptize little children" ([Moro.
-8:7-9](https://www.lds.org/scriptures/bofm/moro/8.7-9?lang=eng#6)).
+8:7-9](/scriptures/bofm/moro/8.7-9?lang=eng#6)).
 
 Mormon told Moroni to teach repentance and baptism to "those who are
 accountable and capable of committing sin" ([Moro.
-8:10](https://www.lds.org/scriptures/bofm/moro/8.10?lang=eng#9)).
+8:10](/scriptures/bofm/moro/8.10?lang=eng#9)).
 
 Eight is established by revelation as the age of accountability (see [D&amp;C
-68:27](https://www.lds.org/scriptures/dc-testament/dc/68.27?lang=eng#26)).
+68:27](/scriptures/dc-testament/dc/68.27?lang=eng#26)).
 
 Then, in sternness unsurpassed in scripture, Mormon warned:
 
@@ -183,7 +183,7 @@ baptism, and the other must perish because he hath no baptism.
 "Wo be unto them that shall pervert the ways of the Lord after this manner,
 for they shall perish except they repent. Behold, I speak with boldness,
 having authority from God" ([Moro.
-8:14-16](https://www.lds.org/scriptures/bofm/moro/8.14-16?lang=eng#13)).
+8:14-16](/scriptures/bofm/moro/8.14-16?lang=eng#13)).
 
 Read his entire epistle. It is true doctrine. It will inspire a reverence for
 little children. Thereafter, who could even think to neglect, much less to
@@ -307,4 +307,6 @@ With that, the little boy was soon safely asleep in his arms.
 God grant that all little children will be safe with every one of us because
 their Father and their God and our Father and our God said we could be here.
 In the name of Jesus Christ, amen.
+
+## References
 

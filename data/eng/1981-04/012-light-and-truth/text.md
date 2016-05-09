@@ -27,28 +27,26 @@ I have since wondered how anyone could knowingly prefer to live where it is
 dark and cold. How could anybody willingly prefer darkness and misery over
 light and warmth? Yet darkness, cold, and misery will be the lot of those who
 willingly and knowingly reject the Lord. John wrote, "God is light, and in him
-is no darkness at all." ([1 Jn.
-1:5](https://www.lds.org/scriptures/nt/1-jn/1.5?lang=eng#4).)
+is no darkness at all." ([1 Jn. 1:5](/scriptures/nt/1-jn/1.5?lang=eng#4).)
 
 I would like to speak about God's realm of light in contrast to the dark realm
 of Satan. Those who follow Satan will be cast into outer darkness, "where
 there is weeping, and wailing, and gnashing of teeth." ([D&amp;C
-133:73](https://www.lds.org/scriptures/dc-testament/dc/133.73?lang=eng#72).)
-How terrible to live in such a place of darkness and cold. It is entirely
-different from what we usually think of as "burning in hell." That burning is
-the lasting regret one feels who has chosen the darkness of Satan in
-preference to the light of Christ.
+133:73](/scriptures/dc-testament/dc/133.73?lang=eng#72).) How terrible to live
+in such a place of darkness and cold. It is entirely different from what we
+usually think of as "burning in hell." That burning is the lasting regret one
+feels who has chosen the darkness of Satan in preference to the light of
+Christ.
 
 Through modern revelation we have been taught that "the glory of God is
 intelligence, or, in other words, light and truth." Such light and truth
-forsake the evil one. (See [D&amp;C 93:36-37](https://www.lds.org/scriptures
-/dc-testament/dc/93.36-37?lang=eng#35).)
+forsake the evil one. (See [D&amp;C 93:36-37](/scriptures/dc-
+testament/dc/93.36-37?lang=eng#35).)
 
 We have been advised that if our eye be single to the glory of God, our whole
 body shall be filled with light, and there shall be no darkness in us, for a
 body which is filled with God's light will be able to comprehend all things.
-(See [D&amp;C 88:67](https://www.lds.org/scriptures/dc-
-testament/dc/88.67?lang=eng#66).)
+(See [D&amp;C 88:67](/scriptures/dc-testament/dc/88.67?lang=eng#66).)
 
 We further read that the light of God "shineth in darkness, and the darkness
 comprehendeth it not; nevertheless, the day shall come when you shall
@@ -56,8 +54,7 @@ comprehend even God, being quickened in him and by him.
 
 "Then shall ye know that ye have seen me, that I am, and that I am the true
 light that is in you, and that you are in me; otherwise ye could not abound."
-([D&amp;C 88:49-50](https://www.lds.org/scriptures/dc-
-testament/dc/88.49-50?lang=eng#48).)
+([D&amp;C 88:49-50](/scriptures/dc-testament/dc/88.49-50?lang=eng#48).)
 
 There is great promise in these words for those who seek the light of truth.
 
@@ -72,7 +69,7 @@ space--
 "The light which is in all things, which giveth life to all things, which is
 the law by which all things are governed, even the power of God who sitteth
 upon his throne, who is in the bosom of eternity, who is in the midst of all
-things." ([D&amp;C 88:11-13](https://www.lds.org/scriptures/dc-
+things." ([D&amp;C 88:11-13](/scriptures/dc-
 testament/dc/88.11-13?lang=eng#10).)
 
 God's light includes the physical light we see, which makes us feel so warm
@@ -95,8 +92,7 @@ thereof by which it was made;
 made;
 
 "And the earth also, and the power thereof, even the earth upon which you
-stand." ([D&amp;C 88:6-10](https://www.lds.org/scriptures/dc-
-testament/dc/88.6-10?lang=eng#5).)
+stand." ([D&amp;C 88:6-10](/scriptures/dc-testament/dc/88.6-10?lang=eng#5).)
 
 The light of Christ therefore includes not only spiritual light but also
 physical light, and is a key to understanding that form of energy which is
@@ -105,7 +101,7 @@ represented by the light we see all around us.
 Satan is that wicked one who comes and takes away light and truth from the
 children of men through their disobedience and because of the traditions of
 their fathers. But the Lord has commanded us to bring up our children in light
-and truth. (See [D&amp;C 93:39-40](https://www.lds.org/scriptures/dc-
+and truth. (See [D&amp;C 93:39-40](/scriptures/dc-
 testament/dc/93.39-40?lang=eng#38).) The opposite of light is darkness, and
 the opposite of truth is falsehood.
 
@@ -128,7 +124,7 @@ and deny him, and serve not God, then ye may know with a perfect knowledge it
 is of the devil; for after this manner doth the devil work, for he persuadeth
 no man to do good, no, not one; neither do his angels; neither do they who
 subject themselves unto him." ([Moro.
-7:14-17](https://www.lds.org/scriptures/bofm/moro/7.14-17?lang=eng#13).)
+7:14-17](/scriptures/bofm/moro/7.14-17?lang=eng#13).)
 
 The spirit within man is eternal, whereas his present body is mortal or
 temporal. Therefore, the spirit is more powerful than the body and is able to
@@ -163,7 +159,7 @@ your father, whom I created.
 "Behold, I gave unto him that he should be an agent unto himself; and I gave
 unto him commandment, but no temporal commandment gave I unto him, for my
 commandments are spiritual; they are not natural nor temporal, neither carnal
-nor sensual." ([D&amp;C 29:34-35](https://www.lds.org/scriptures/dc-
+nor sensual." ([D&amp;C 29:34-35](/scriptures/dc-
 testament/dc/29.34-35?lang=eng#33).)
 
 As I begin to understand this scripture, my whole concept of physical
@@ -174,20 +170,20 @@ more temporal than money, or any other offering that we can bring from the
 earth? Yet since that is a law of God, there must be a spiritual basis for it
 or eternal reason behind this payment of tithes and offerings. When God asked
 us to prove him to see if he will not open the windows of heaven to us (see
-[Mal. 3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9)), what was
-he referring to? Was he referring only to the blessings of this earth and the
-promises of temporal rewards which come to us if we keep this law? Or was he
-referring to something spiritual, of an eternal nature, which I believe is the
-revelation of truth and wisdom, which can come to us from that opened window
-whereby we can communicate with God and know all things?
+[Mal. 3:10](/scriptures/ot/mal/3.10?lang=eng#9)), what was he referring to?
+Was he referring only to the blessings of this earth and the promises of
+temporal rewards which come to us if we keep this law? Or was he referring to
+something spiritual, of an eternal nature, which I believe is the revelation
+of truth and wisdom, which can come to us from that opened window whereby we
+can communicate with God and know all things?
 
 In giving us the Word of Wisdom, was God referring only to the temporal
 blessings of health and endurance which come to us through obedience to that
 law? God referred also to the "hidden treasures" of knowledge (see [D&amp;C
-89:19](https://www.lds.org/scriptures/dc-testament/dc/89.19?lang=eng#18)),
-which, in my opinion, constitute an eternal treasure, which if used will bring
-us back into the warmth and light of God. Those who sit in outer darkness, in
-the cold and misery of that existence, can never know such comfort.
+89:19](/scriptures/dc-testament/dc/89.19?lang=eng#18)), which, in my opinion,
+constitute an eternal treasure, which if used will bring us back into the
+warmth and light of God. Those who sit in outer darkness, in the cold and
+misery of that existence, can never know such comfort.
 
 Let me come back, then, to absolute zero, where, theoretically, there is no
 heat at all. It appears to me that Satan and those who follow him are on the
@@ -206,4 +202,6 @@ teaches is the divine word of God. It is light. It is truth. To ignore it or
 treat it as just another religious philosophy is one of the greatest mistakes
 a person can make. This doctrine I bear to you is the light and truth I have
 received to strengthen my own witness, in the name of Jesus Christ, amen.
+
+## References
 

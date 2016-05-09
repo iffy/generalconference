@@ -48,8 +48,7 @@ of space--
 
 "The light which is in all things, which giveth life to all things, which is
 the law by which all things are governed." ([D&amp;C 88:6-7,
-11-13](https://www.lds.org/scriptures/dc-
-testament/dc/88.6-7%2C11-13?lang=eng#5).)
+11-13](/scriptures/dc-testament/dc/88.6-7,11-13?lang=eng#5).)
 
 This earth will be a celestial sphere, like a sea of glass and fire. The
 prophet Brigham Young said: "It will not then be an opaque body as it now is,
@@ -65,8 +64,7 @@ law--
 
 "Wherefore, it shall be sanctified; yea, notwithstanding it shall die, it
 shall be quickened again, and shall abide the power by which it is quickened,
-and the righteous shall inherit it." ([D&amp;C
-88:25-26](https://www.lds.org/scriptures/dc-
+and the righteous shall inherit it." ([D&amp;C 88:25-26](/scriptures/dc-
 testament/dc/88.25-26?lang=eng#24).)
 
 In section 84:
@@ -76,7 +74,7 @@ whatsoever is light is Spirit, even the Spirit of Jesus Christ.
 
 "And the Spirit giveth light to every man that cometh into the world; and the
 Spirit enlighteneth every man through the world, that hearkeneth to the voice
-of the Spirit." ([D&amp;C 84:45-46](https://www.lds.org/scriptures/dc-
+of the Spirit." ([D&amp;C 84:45-46](/scriptures/dc-
 testament/dc/84.45-46?lang=eng#44).)
 
 This word _light_ appears 535 times in the scriptures.
@@ -84,20 +82,17 @@ This word _light_ appears 535 times in the scriptures.
 Light has a relationship to the Son of God: "And if your eye be single to my
 glory, your whole bodies shall be filled with light, and there shall be no
 darkness in you; and that body which is filled with light comprehendeth all
-things." ([D&amp;C 88:67](https://www.lds.org/scriptures/dc-
-testament/dc/88.67?lang=eng#66).)
+things." ([D&amp;C 88:67](/scriptures/dc-testament/dc/88.67?lang=eng#66).)
 
 _Jesus Christ is the Light of the world._ Moroni said: "And now, my brethren,
 seeing that ye know _the light_ by which ye may judge, _which light_ is the
 _light of Christ,_ see that ye do not judge wrongfully; for with that same
 judgment which ye judge ye shall also be judged." ([Moro.
-7:18](https://www.lds.org/scriptures/bofm/moro/7.18?lang=eng#17); italics
-added.)
+7:18](/scriptures/bofm/moro/7.18?lang=eng#17); italics added.)
 
 John said: "Then spake Jesus again unto them, saying, _I am the light of the
 world:_ he that followeth me shall not walk in darkness, but shall have the
-light of life." ([John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11); italics
+light of life." ([John 8:12](/scriptures/nt/john/8.12?lang=eng#11); italics
 added.)
 
 _Our Lord is the Light of the world in at least three ways._ Elder Bruce R.
@@ -113,15 +108,15 @@ understanding.
 "3\. By his own upright, sinless, and perfect course, in [premortal life], in
 mortality, and in resurrected glory, he sets a perfect example and is able to
 say to all men: 'Follow thou me.'" ([2 Ne.
-31:10](https://www.lds.org/scriptures/bofm/2-ne/31.10?lang=eng#9).) (_The
-Promised Messiah,_ Salt Lake City: Deseret Book Co., 1978, p. 208.)
+31:10](/scriptures/bofm/2-ne/31.10?lang=eng#9).) (_The Promised Messiah,_ Salt
+Lake City: Deseret Book Co., 1978, p. 208.)
 
 In the First Vision, _light_ released the boy Joseph from oppressive darkness.
 
 How does light enter into us? How do we receive it? "But if thine eye be evil,
 thy whole body shall be full of darkness. If therefore the light that is in
 thee be darkness, how great is that darkness!" ([Matt.
-6:23](https://www.lds.org/scriptures/nt/matt/6.23?lang=eng#22).)
+6:23](/scriptures/nt/matt/6.23?lang=eng#22).)
 
 Commenting on this passage, Elder Bruce R. McConkie states: "Christ is the
 light; the gospel is the light; the plan of salvation is the light; 'that
@@ -209,4 +204,6 @@ I must return and report my stewardship and _my words_ in the heavens when I
 leave this mortal life. Therefore, I testify with no hesitancy that God lives.
 Jesus is his holy son, the one through whom we gain salvation. This is his
 Church and kingdom, in the name of Jesus Christ, amen.
+
+## References
 

@@ -31,7 +31,7 @@ at least a portion of our weekly quorum meeting. Our quorum adviser was the
 kind of humble leader I envision the Savior trying to help Peter become as He
 admonished the soon-to-be prophet-leader of the Church, "Peter, when thou art
 converted, strengthen thy brethren" (see [Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31)).
+22:32](/scriptures/nt/luke/22.32?lang=eng#31)).
 
 As we sat each Sunday morning in the dimly lit basement room of a nineteenth-
 century-built chapel, this great deacons quorum adviser poured out his heart
@@ -65,7 +65,7 @@ that favored quorum more than thirty years earlier.
 His life literally fulfilled the instruction of the Savior to Peter on the
 shores of the Sea of Tiberias in his final admonition to the Apostles: "Feed
 my lambs. ... Feed my sheep. ... Feed my sheep" ([John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14)).
+21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14)).
 
 The battle for the souls of our Heavenly Father's precious sheep and lambs is
 raging in every corner of the world.
@@ -85,17 +85,12 @@ our time must live and emerge valiant and victorious. Against this worldly
 backdrop, leaders of Aaronic Priesthood must reach out, with love, to help
 each young man to:
 
-  * become truly converted to the gospel of Jesus Christ and live by its teachings;
-
-  * magnify his priesthood callings;
-
-  * give meaningful service;
-
-  * prepare to receive the Melchizedek Priesthood;
-
-  * commit to, worthily prepare for, and serve an honorable mission;
-
-  * live worthy to receive temple covenants and prepare to become a worthy husband and father.
+  * become truly converted to the gospel of Jesus Christ and live by its teachings; 
+  * magnify his priesthood callings; 
+  * give meaningful service; 
+  * prepare to receive the Melchizedek Priesthood; 
+  * commit to, worthily prepare for, and serve an honorable mission; 
+  * live worthy to receive temple covenants and prepare to become a worthy husband and father. 
 
 Brethren, make sure that the love and fellowship of the priesthood reaches out
 to each young man in your quorum and that each one is included and
@@ -169,4 +164,6 @@ I leave my witness that this is God's work. It is the most important work in
 all the world in which we can be engaged. That we will be instruments in His
 hands in saving the precious lambs for which He gave His life, I humbly pray
 in the name of Jesus Christ, amen.
+
+## References
 

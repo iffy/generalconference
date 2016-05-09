@@ -3,13 +3,12 @@
 As we discuss the role of Church welfare services in the Lord's plan for his
 people, I should like to briefly draw our attention to a most important gospel
 principle. The Lord has emphasized in many ways the worth of souls: "Remember
-the worth of souls is great in the sight of God" ([D&amp;C
-18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9)). Man
-and woman have the possibility of a "continuation of the seeds forever and
-ever" and will never have an end (see [D&amp;C
-132:19](https://www.lds.org/scriptures/dc-testament/dc/132.19?lang=eng#18)).
-The elements comprising man's mortal body, man's intelligence, and man's
-spirit are indestructible and endless.
+the worth of souls is great in the sight of God" ([D&amp;C 18:10](/scriptures
+/dc-testament/dc/18.10?lang=eng#9)). Man and woman have the possibility of a
+"continuation of the seeds forever and ever" and will never have an end (see
+[D&amp;C 132:19](/scriptures/dc-testament/dc/132.19?lang=eng#18)). The
+elements comprising man's mortal body, man's intelligence, and man's spirit
+are indestructible and endless.
 
 There are times when these precious and eternal souls need to be ministered to
 and assisted by the authority and power of the priesthood--times when they
@@ -123,9 +122,9 @@ the spiritual leaders of your many members, who must be continually taught
 true gospel principles--not because they are popular, but because they are
 true. Anciently, Zion was portrayed as a very large tent which was held in
 place by cords fastened to stakes (see [Isa.
-54:2](https://www.lds.org/scriptures/ot/isa/54.2?lang=eng#1)). Your stake is a
-distinctive entity, in which you and your priesthood leaders teach those
-divine principles.
+54:2](/scriptures/ot/isa/54.2?lang=eng#1)). Your stake is a distinctive
+entity, in which you and your priesthood leaders teach those divine
+principles.
 
 You teach and encourage the bishops to find those in need and to assist them
 through the Lord's plan when help is needed. If your stake members understand
@@ -171,8 +170,8 @@ welfare services. Your high councilors assist you in teaching the Melchizedek
 Priesthood leaders personal and family preparedness, brotherly concern, and
 mutual help among quorum members. This type of concern is characterized in the
 scriptures as the pure love of Christ (see [Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46)). It is a
-priesthood responsibility and is a hallmark of quorum welfare work.
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46)). It is a priesthood
+responsibility and is a hallmark of quorum welfare work.
 
 _Sixth,_ through the home teachers, information is given to quorum presidents
 and bishops, identifying those in need. Presidents, if you don't have a good
@@ -198,4 +197,6 @@ Make it happen! Bless _all_ the lives in your stake. I testify that the
 welfare services plan of the Church is divinely designed and revealed in these
 latter days, to preserve the self-respect and dignity of man. In the name of
 Jesus Christ, amen.
+
+## References
 

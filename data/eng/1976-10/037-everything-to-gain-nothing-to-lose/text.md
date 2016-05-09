@@ -86,8 +86,7 @@ him; and put his ring on his hand, and shoes on his feet:
 "And bring hither the fatted calf, and kill it; and let us eat, and be merry:
 
 "For this my son was dead, and is alive again; he was lost, and is found."
-([Luke
-15:11-24](https://www.lds.org/scriptures/nt/luke/15.11-24?lang=eng#10).)
+([Luke 15:11-24](/scriptures/nt/luke/15.11-24?lang=eng#10).)
 
 To you, my brethren and sisters, who have taken your spiritual inheritance and
 left, and now find an emptiness in your lives, the way is open for your
@@ -132,7 +131,7 @@ scarlet, they shall be as white as snow; though they be red like crimson, they
 shall be as wool.
 
 "If ye be willing and obedient, ye shall eat the good of the land." ([Isa.
-1:16-19](https://www.lds.org/scriptures/ot/isa/1.16-19?lang=eng#15).)
+1:16-19](/scriptures/ot/isa/1.16-19?lang=eng#15).)
 
 This, my beloved friends, is what the gospel is all about--to make bad men
 good and good men better, as President McKay was wont to say. There is a
@@ -166,8 +165,7 @@ But his servants pleaded with him to do as Elisha had suggested. The proud
 captain finally relented, and the scripture records, "Then went he down, and
 dipped himself seven times in Jordan, according to the saying of the man of
 God: and his flesh came again like unto the flesh of a little child, and he
-was clean." (See [2 Kgs.
-5:1-14](https://www.lds.org/scriptures/ot/2-kgs/5.1-14?lang=eng#0).)
+was clean." (See [2 Kgs. 5:1-14](/scriptures/ot/2-kgs/5.1-14?lang=eng#0).)
 
 And so I repeat, do not let pride stand in your way. The way of the gospel is
 a simple way. Some of the requirements may appear to you as elementary and
@@ -227,4 +225,6 @@ God in the earth. It bears the name of the Only Begotten of the Father. Here
 you will find happiness, and strength, and a reassuring peace you have not
 known for a long while, the peace that passeth all understanding. God bless
 you to try, I pray, in the name of Jesus Christ. Amen.
+
+## References
 

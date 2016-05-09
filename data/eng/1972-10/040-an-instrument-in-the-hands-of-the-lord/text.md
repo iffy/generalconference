@@ -14,8 +14,10 @@ to bring some soul to repentance; and this is my joy.
 Lord their God, then is my soul filled with joy; then do I remember what the
 Lord has done for me, yea, even that he hath heard my prayer; yea, then do I
 remember his merciful arm which he extended towards me." ([Alma
-29:9-10](https://www.lds.org/scriptures/bofm/alma/29.9-10?lang=eng#8).)
+29:9-10](/scriptures/bofm/alma/29.9-10?lang=eng#8).)
 
 That we may all remember that arm is my prayer in the name of Jesus Christ.
 Amen.
+
+## References
 

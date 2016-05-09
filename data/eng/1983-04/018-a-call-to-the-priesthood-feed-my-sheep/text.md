@@ -1,4 +1,4 @@
-# A Call to the Priesthood: “Feed My Sheep”
+# A Call to the Priesthood:“Feed My Sheep”
 
 My beloved brethren: This is a glorious sight! How we appreciate the service
 you so willingly give to the Lord. We know God will bless you for it.
@@ -24,14 +24,14 @@ leave the ninety and nine, ... and seeketh that which is gone astray?
 
 "And if it so be that he find it, ... he rejoiceth more of that sheep, than of
 the ninety and nine which went not astray." ([Matt.
-18:12-13](https://www.lds.org/scriptures/nt/matt/18.12-13?lang=eng#11).)
+18:12-13](/scriptures/nt/matt/18.12-13?lang=eng#11).)
 
 In Jesus' time, the Palestinian shepherd was noted for his protection of his
 sheep. Unlike modern sheepherders, the shepherd always walked ahead of his
 flock. He led them. The shepherd knew each of the sheep and usually had a name
 for each. The sheep knew his voice and trusted him and would not follow a
 stranger. Thus, when called, the sheep would come to him. (See [John 10:14,
-16](https://www.lds.org/scriptures/nt/john/10.14%2C16?lang=eng#13).)
+16](/scriptures/nt/john/10.14,16?lang=eng#13).)
 
 At night shepherds would bring their sheep to a corral called a sheepfold.
 High walls surrounded the sheepfold, and thorns were placed on top of these
@@ -50,14 +50,14 @@ from the danger.
 Jesus used this common illustration of his day to declare that He was the Good
 Shepherd, the True Shepherd. Because of His love for His brothers and sisters,
 He would willingly and voluntarily lay down His life for them. (See [John
-10:17-18](https://www.lds.org/scriptures/nt/john/10.17-18?lang=eng#16).)
+10:17-18](/scriptures/nt/john/10.17-18?lang=eng#16).)
 
 Eventually, the Good Shepherd did give His life for the sheep--for you and me,
 for all of us.
 
 Later, after His resurrection, Jesus directed Peter to "feed my lambs. ... Feed
 my sheep. ... Feed my sheep." (See [John
-21:15-17](https://www.lds.org/scriptures/nt/john/21.15-17?lang=eng#14).)
+21:15-17](/scriptures/nt/john/21.15-17?lang=eng#14).)
 
 Three times this charge was repeated to the newly designated head shepherd.
 
@@ -79,9 +79,9 @@ and others have become completely lost.
 Ponder carefully these representative samples from several stakes which
 illustrate the magnitude of our problem.
 
-  1. -- A stake in the eastern part of the United States has slightly over 300 Melchizedek Priesthood holders and an equivalent number of prospective elders--lost sheep! 
-  2. -- A stake in Salt Lake City has 1,100 Melchizedek Priesthood holders, but also 1,100 prospective elders. Where, we ask, are the shepherds? 
-  3. -- A stake in England has 360 Melchizedek Priesthood holders, but over 800 prospective elders, a very small percentage of whom attend their meetings. We ask, how will the sheep survive without the safety of the sheepfold and watch-care of a loving shepherd? 
+  * A stake in the eastern part of the United States has slightly over 300 Melchizedek Priesthood holders and an equivalent number of prospective elders--lost sheep! 
+  * A stake in Salt Lake City has 1,100 Melchizedek Priesthood holders, but also 1,100 prospective elders. Where, we ask, are the shepherds? 
+  * A stake in England has 360 Melchizedek Priesthood holders, but over 800 prospective elders, a very small percentage of whom attend their meetings. We ask, how will the sheep survive without the safety of the sheepfold and watch-care of a loving shepherd? 
 
 We know great results can take place when the shepherds make a concerted
 effort and show concern.
@@ -104,8 +104,8 @@ for ordination to offices in the Melchizedek Priesthood.
 
 We realize, as in times past, some of the sheep will rebel and are "as a wild
 flock which fleeth from the shepherd." ([Mosiah
-8:21](https://www.lds.org/scriptures/bofm/mosiah/8.21?lang=eng#20).) But most
-of our problems stem from lack of loving and attentive shepherding.
+8:21](/scriptures/bofm/mosiah/8.21?lang=eng#20).) But most of our problems
+stem from lack of loving and attentive shepherding.
 
 With a shepherd's care, many of our new members, those newly born into the
 gospel, would be nurtured by gospel knowledge and new standards. Such
@@ -209,10 +209,9 @@ Are younger prospective elders invited to participate with the elders quorums?
 
 Some leaders say that some men are past hope, but, as the angel told Abraham,
 nothing is impossible with the Lord! (See [Gen.
-18:14](https://www.lds.org/scriptures/ot/gen/18.14?lang=eng#13).) One brother
-who was regarded by some as a hopeless case tearfully exclaimed to the temple
-worker at the sealing altar, "I don't know why I waited so long for this
-blessing!"
+18:14](/scriptures/ot/gen/18.14?lang=eng#13).) One brother who was regarded by
+some as a hopeless case tearfully exclaimed to the temple worker at the
+sealing altar, "I don't know why I waited so long for this blessing!"
 
 In a recent Saturday evening meeting of leaders I heard a determined brother
 state, "I've sure had a time with the devil since I started to become active.
@@ -255,8 +254,7 @@ We call on you, as Paul did to the elders of Ephesus:
 "Take heed therefore unto yourselves, and to all the flock, over ... which the
 Holy Ghost hath made you overseers, _to feed the church of God,_ which he hath
 purchased with his own blood." ([Acts
-20:28](https://www.lds.org/scriptures/nt/acts/20.28?lang=eng#27); italics
-added.)
+20:28](/scriptures/nt/acts/20.28?lang=eng#27); italics added.)
 
 We repeat to you the charge Jesus gave Peter. We repeat it with the same
 emphasis, the same repetition: "Feed my lambs. ... Feed my sheep. ... Feed my
@@ -287,4 +285,6 @@ duty, and our joy, which joy I promise to all of you as you accept the
 challenge and do your duty.
 
 In the name of Jesus Christ, amen.
+
+## References
 

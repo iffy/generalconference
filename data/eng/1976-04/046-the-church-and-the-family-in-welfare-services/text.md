@@ -17,7 +17,7 @@ to take care of themselves. If our people could but understand that these
 teachings come because the Lord loves them and in his infinite wisdom desires
 that his people be blessed particularly in troublesome times. As has often
 been quoted, however, this "must needs be done in mine own way." ([D&amp;C
-104:16](https://www.lds.org/scriptures/dc-testament/dc/104.16?lang=eng#15).)
+104:16](/scriptures/dc-testament/dc/104.16?lang=eng#15).)
 
 We look to you stake presidents, bishops, and Relief Society presidents to
 teach the people the basic principles of self-reliance and independence. It is
@@ -35,23 +35,22 @@ commandments which are given you;
 
 "That through my providence, notwithstanding the tribulation which shall
 descend upon you, that the church may stand independent above all other
-creatures beneath the celestial world." ([D&amp;C 78:7,
-13-14](https://www.lds.org/scriptures/dc-
-testament/dc/78.7%2C13-14?lang=eng#6).)
+creatures beneath the celestial world." ([D&amp;C 78:7, 13-14](/scriptures/dc-
+testament/dc/78.7,13-14?lang=eng#6).)
 
 And he further said, "If ye are prepared, ye shall not fear." ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29).)
 
 Now as to the role of the Church in welfare services. Early in this
 dispensation, when the Church was only a few months old, the Lord revealed to
 the Prophet Joseph Smith that we as a people were to "look to the poor and the
 needy, and administer to their relief that they shall not suffer." ([D&amp;C
-38:35](https://www.lds.org/scriptures/dc-testament/dc/38.35?lang=eng#34).)
+38:35](/scriptures/dc-testament/dc/38.35?lang=eng#34).)
 
 A few months later the Lord added this admonition: "And remember in all things
 the poor and the needy, the sick and the afflicted, for he that doeth not
-these things, the same is not my disciple." ([D&amp;C
-52:40](https://www.lds.org/scriptures/dc-testament/dc/52.40?lang=eng#39).)
+these things, the same is not my disciple." ([D&amp;C 52:40](/scriptures/dc-
+testament/dc/52.40?lang=eng#39).)
 
 To enable us to collectively--as a church--discharge this responsibility, the
 Welfare Services program was organized. There are some basic differences in
@@ -68,9 +67,9 @@ Reports,_ Oct. 1944.)
 
 Further, the Lord has said, "Thou shalt not be idle; for he that is idle shall
 not eat the bread nor wear the garments of the laborer." ([D&amp;C
-42:42](https://www.lds.org/scriptures/dc-testament/dc/42.42?lang=eng#41).) A
-dole, or getting something for nothing, fosters idleness and dependence and
-destroys self-respect.
+42:42](/scriptures/dc-testament/dc/42.42?lang=eng#41).) A dole, or getting
+something for nothing, fosters idleness and dependence and destroys self-
+respect.
 
 The Lord's way is designed to help each of us prepare for our own needs and
 also to care for those in need in such a way as to preserve or restore their
@@ -78,11 +77,11 @@ independence, industry, and self-respect. It decries those who are wantonly
 idle, "whose hearts are not broken, whose spirits are not contrite, and whose
 bellies are not satisfied, and whose hands are not stayed from laying hold
 upon other men's goods, whose eyes are full of greediness, and who will not
-labor with [their] own hands!" ([D&amp;C 56:17](https://www.lds.org/scriptures
-/dc-testament/dc/56.17?lang=eng#16).) It rejoices, however, in seeking out and
+labor with [their] own hands!" ([D&amp;C 56:17](/scriptures/dc-
+testament/dc/56.17?lang=eng#16).) It rejoices, however, in seeking out and
 ministering to the blessed poor, "who are pure in heart, whose hearts are
-broken, and whose spirits are contrite." ([D&amp;C
-56:18](https://www.lds.org/scriptures/dc-testament/dc/56.18?lang=eng#17).)
+broken, and whose spirits are contrite." ([D&amp;C 56:18](/scriptures/dc-
+testament/dc/56.18?lang=eng#17).)
 
 The combined Church effort to help these righteous but unfortunate Saints help
 themselves is referred to as _Church preparedness._ With their efforts focused
@@ -187,17 +186,16 @@ for the nations;
 
 "And that the gathering together upon the land of Zion, and upon her stakes,
 may be for a defense, and for a refuge from the storm." ([D&amp;C
-115:5-6](https://www.lds.org/scriptures/dc-testament/dc/115.5-6?lang=eng#4).)
+115:5-6](/scriptures/dc-testament/dc/115.5-6?lang=eng#4).)
 
 Now let us discuss the foundation principle, the role of the family and the
 individual. The individual is responsible for caring for himself and his
 family. The apostle Paul wrote, "But if any provide not for his own, and
 specially for those of his own house, he hath denied the faith, and is worse
-than an infidel." ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).) This duty rests
-upon individuals for themselves, upon parents for their children, upon
-children for their aged parents and grandparents. This duty can be met only
-through the wise use of individual and family resources.
+than an infidel." ([1 Tim. 5:8](/scriptures/nt/1-tim/5.8?lang=eng#7).) This
+duty rests upon individuals for themselves, upon parents for their children,
+upon children for their aged parents and grandparents. This duty can be met
+only through the wise use of individual and family resources.
 
 May I review with you once again the five basic elements of family
 preparedness, which we have spoken of in previous Welfare Services meetings:
@@ -246,7 +244,7 @@ these also doeth the Son likewise.
 
 "For the Father loveth the Son, and sheweth him all things that himself doeth:
 and he will shew him greater works than these, that ye may marvel." ([John
-5:19-20](https://www.lds.org/scriptures/nt/john/5.19-20?lang=eng#18).)
+5:19-20](/scriptures/nt/john/5.19-20?lang=eng#18).)
 
 It is by example that parents truly teach their children how to prepare for
 and live the Lord's way of life.
@@ -292,4 +290,6 @@ with his teachings. He is our source of inspiration as a Church, as families,
 and as individuals. He has promised us that if we are prepared, we need not
 fear. May we be blessed as leaders and as members to follow his counsel to be
 prepared, I pray humbly in the name of Jesus Christ. Amen.
+
+## References
 

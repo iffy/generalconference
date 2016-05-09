@@ -26,17 +26,17 @@ of his own support" (Marion G. Romney, in Conference Report, Oct. 1973, p.
 One of the first principles revealed to father Adam when he was driven out of
 the Garden of Eden was this: "In the sweat of thy face shalt thou eat bread,
 till thou return unto the ground" ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18)). All we obtain
-in life of a material nature comes as a product of labor and the providence of
-God. Work alone produces life's necessities.
+3:19](/scriptures/ot/gen/3.19?lang=eng#18)). All we obtain in life of a
+material nature comes as a product of labor and the providence of God. Work
+alone produces life's necessities.
 
 In saying this, I am aware of and sympathetic to the plight of many young
 families who are struggling to make ends meet. They are faced with the
 financial burden of providing for the three great necessities of life: food,
 clothing, and shelter. I am also sympathetic to the situation of widows and
 other sisters who rear families alone. By revelation, the Lord made provision
-for their care and support. (See [D&amp;C 83:1-2,
-4-6](https://www.lds.org/scriptures/dc-testament/dc/83.1-2%2C4-6?lang=eng#0).)
+for their care and support. (See [D&amp;C 83:1-2, 4-6](/scriptures/dc-
+testament/dc/83.1-2,4-6?lang=eng#0).)
 
 More than ever before, we need to learn and apply the principles of economic
 self-reliance. We do not know when the crisis involving sickness or
@@ -87,10 +87,9 @@ have dug up lawn space for gardens.
 We encourage you to be more self-reliant so that, as the Lord has declared,
 "notwithstanding the tribulation which shall descend upon you, ... the church
 may stand independent above all other creatures beneath the celestial world"
-([D&amp;C 78:14](https://www.lds.org/scriptures/dc-
-testament/dc/78.14?lang=eng#13)). The Lord wants us to be independent and
-self-reliant because these will be days of tribulation. He has warned and
-forewarned us of the eventuality.
+([D&amp;C 78:14](/scriptures/dc-testament/dc/78.14?lang=eng#13)). The Lord
+wants us to be independent and self-reliant because these will be days of
+tribulation. He has warned and forewarned us of the eventuality.
 
 President Brigham Young said, "If you are without bread, how much wisdom can
 you boast, and of what real utility are your talents, if you cannot procure
@@ -217,4 +216,6 @@ storage, but others as well.
 
 May God bless us to be prepared for the days which lie ahead, which may be the
 most severe yet. In the name of Jesus Christ, amen.
+
+## References
 

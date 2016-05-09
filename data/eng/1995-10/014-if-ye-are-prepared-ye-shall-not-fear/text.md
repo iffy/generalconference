@@ -16,7 +16,7 @@ had ever seen.
 "And as I partook of the fruit thereof it filled my soul with exceedingly
 great joy; wherefore, I began to be desirous that my family should partake of
 it also; for I knew that it was desirable above all other fruit" ([1 Ne.
-8:10-12](https://www.lds.org/scriptures/bofm/1-ne/8.10-12?lang=eng#9)).
+8:10-12](/scriptures/bofm/1-ne/8.10-12?lang=eng#9)).
 
 In Lehi's dream, he beheld many seeking to come forward to partake of this
 delicious fruit, which was defined as the love of God. A rod of iron, meaning
@@ -43,8 +43,7 @@ partaking of the fruit.
 
 "And after they had tasted of the fruit they were ashamed, because of those
 that were scoffing at them; and they fell away into forbidden paths and were
-lost" ([1 Ne.
-8:24-28](https://www.lds.org/scriptures/bofm/1-ne/8.24-28?lang=eng#23)).
+lost" ([1 Ne. 8:24-28](/scriptures/bofm/1-ne/8.24-28?lang=eng#23)).
 
 It is this part of Lehi's dream I would like to comment on today. The current
 cries we hear coming from the great and spacious building tempt us to compete
@@ -81,7 +80,7 @@ and individuals; technological advances that make occupations obsolete; and so
 on. The need for preparation is abundantly clear. The great blessing of being
 prepared gives us freedom from fear, as guaranteed to us by the Lord in the
 Doctrine and Covenants: "If ye are prepared ye shall not fear" ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29)).
+38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29)).
 
 Just as it is important to prepare ourselves spiritually, we must also prepare
 ourselves for our temporal needs. Each of us needs to take the time to ask
@@ -195,4 +194,6 @@ May God bless us with the wisdom to follow the counsel we have received as we
 prepare spiritually and temporally for the strength and security of our family
 units, is my humble prayer, in the name of our Lord and Savior, Jesus Christ,
 amen.
+
+## References
 

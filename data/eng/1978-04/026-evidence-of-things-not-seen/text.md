@@ -40,14 +40,13 @@ Christian prophets.
 Do you remember how Paul explained this principle to the Ephesians? He said
 that the very foundation of the Church rested upon the apostles and the
 prophets, with Jesus Christ as the chief cornerstone. ([Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).)
+2:20](/scriptures/nt/eph/2.20?lang=eng#19).)
 
 Then, describing the organization of the Church, he said that the Savior "gave
 some apostles and some prophets and some evangelists and some pastors and
 teachers" as officers in the Church. He declared their purpose to be "for the
 perfecting of the saints, for the work of the ministry, for the edifying of
-the body" of the Church. ([Eph.
-4:12](https://www.lds.org/scriptures/nt/eph/4.12?lang=eng#11).)
+the body" of the Church. ([Eph. 4:12](/scriptures/nt/eph/4.12?lang=eng#11).)
 
 Is there ever a time when the members can stop working toward perfection, when
 they no longer are benefited by activity in the Church, or when they do not
@@ -60,7 +59,7 @@ stature of Christ. Heaven knows that none of us has achieved that distinction.
 But what was another reason these officers should remain in the Church? Paul
 says they were given to us as a protection "that we henceforth be no more [as]
 children tossed to and fro ... with every wind of doctrine." ([Eph.
-4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13).)
+4:14](/scriptures/nt/eph/4.14?lang=eng#13).)
 
 They will protect you from the false teachings of cultists and splinter groups
 and from the misleading philosophies of men.
@@ -76,8 +75,7 @@ Lord's pattern.
 The prophets of the early Christian church ministered in their day just as the
 Old Testament prophets did during the preceding centuries. And why? Because
 they followed this same divine pattern, for as Amos explained, the Lord works
-only through prophets. ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+only through prophets. ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 When there are no prophets, there is no divine direction, and without such
 guidance the people walk in darkness.
@@ -140,7 +138,7 @@ Israel shall have the words of the Nephites and the Jews.
 "And it shall come to pass that my people, which are of the house of Israel,
 shall be gathered home unto the lands of their possessions; and my word also
 shall be gathered in one." ([2 Ne. 29:3,
-7-14](https://www.lds.org/scriptures/bofm/2-ne/29.3%2C7-14?lang=eng#2).)
+7-14](/scriptures/bofm/2-ne/29.3,7-14?lang=eng#2).)
 
 So said the Lord.
 
@@ -240,10 +238,10 @@ evidence?
 
 The chief reason we have the Book of Mormon is that in the mouth of two or
 three witnesses shall all things be established. (See [2 Cor.
-13:1](https://www.lds.org/scriptures/nt/2-cor/13.1?lang=eng#0).) We have the
-Bible; we also have the Book of Mormon. They constitute two voices--two
-volumes of scripture--from two widely separated ancient peoples, both bearing
-testimony to the divinity of the Lord Jesus Christ.
+13:1](/scriptures/nt/2-cor/13.1?lang=eng#0).) We have the Bible; we also have
+the Book of Mormon. They constitute two voices--two volumes of scripture--from
+two widely separated ancient peoples, both bearing testimony to the divinity
+of the Lord Jesus Christ.
 
 But we have two other scriptural witnesses also, making four altogether. They
 are the modern scriptures given as revelations through the Prophet Joseph
@@ -255,8 +253,7 @@ had to be given to mankind once again to disabuse their minds and correct
 their thinking. There was only one way in which this could be done and that
 was by new revelation. But to have new revelation requires the presence of a
 prophet to receive it, for as Amos said, the Lord will not act except through
-prophets. (See [Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+prophets. (See [Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 There was no prophet in all Christendom at the time the new revelation was to
 be given. So God raised up a new prophet to receive that revelation, to
@@ -275,4 +272,6 @@ speak in his name and declare his word! And our testimony is true!
 
 This we solemnly affirm with all the power of our being, in the name of Jesus
 Christ, amen.
+
+## References
 

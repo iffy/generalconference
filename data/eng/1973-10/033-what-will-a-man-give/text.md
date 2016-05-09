@@ -3,7 +3,7 @@
 The Savior taught with many parables, and they are well known. But he also
 taught with pertinent and piercing questions. One of them was this: "... what
 shall a man give in exchange for his soul?" ([Matt.
-16:26](https://www.lds.org/scriptures/nt/matt/16.26?lang=eng#25).)
+16:26](/scriptures/nt/matt/16.26?lang=eng#25).)
 
 This is particularly important when we realize that the Lord defined eternal
 life as the greatest of all the gifts of God.
@@ -18,12 +18,11 @@ For example, he said:
 "... The kingdom of heaven is like unto a merchant man, seeking goodly pearls;
 Who, when he had found one pearl of great price, went and sold all that he
 had, and bought it." ([Matt.
-13:45-46](https://www.lds.org/scriptures/nt/matt/13.45-46?lang=eng#44).)
+13:45-46](/scriptures/nt/matt/13.45-46?lang=eng#44).)
 
 "Again, the kingdom of heaven is like unto treasure hid in a field; the which
 when a man hath found, he ... goeth and selleth all that he hath, and buyeth
-that field." ([Matt.
-13:44](https://www.lds.org/scriptures/nt/matt/13.44?lang=eng#43).)
+that field." ([Matt. 13:44](/scriptures/nt/matt/13.44?lang=eng#43).)
 
 In other words, he is telling us that salvation is the pearl of great price,
 salvation is the treasure in the field; and if we only realized its worth, we
@@ -174,7 +173,7 @@ Do you hear his words: "Come unto me, all ye that labour and are heavy laden,
 and I will give you rest. Take my yoke upon you, and learn of me; for I am
 meek and lowly in heart: and ye shall find rest unto your souls. For my yoke
 is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 And hear these words, too, from your Savior and your Redeemer:
 
@@ -191,7 +190,7 @@ which are organized.
 eight years old, and receive the laying on of the hands.
 
 "And they shall also teach their children to pray, and to walk uprightly
-before the Lord." ([D&amp;C 68:25-28](https://www.lds.org/scriptures/dc-
+before the Lord." ([D&amp;C 68:25-28](/scriptures/dc-
 testament/dc/68.25-28?lang=eng#24).)
 
 Are we doing all of this, parents, or are we making an exchange that we will
@@ -200,19 +199,18 @@ later regret?
 Can you hear the words of the Savior, speaking by modern revelation and
 saying: "... thou shalt love the Lord thy God with all thy heart, with all thy
 might, mind, and strength; and in the name of Jesus Christ thou shalt serve
-him." ([D&amp;C 59:5](https://www.lds.org/scriptures/dc-
-testament/dc/59.5?lang=eng#4).)
+him." ([D&amp;C 59:5](/scriptures/dc-testament/dc/59.5?lang=eng#4).)
 
 Are we doing this, or are we making an exchange for something else?
 
 Do you hear him say, "Thou shalt love thy neighbor as thyself ..."? ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).)
+59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).)
 
 Do you obey?
 
 And do you hear him say, "... thou shalt not steal; neither commit adultery, nor
-kill, nor do anything like unto it"? ([D&amp;C
-59:5](https://www.lds.org/scriptures/dc-testament/dc/59.5?lang=eng#4).)
+kill, nor do anything like unto it"? ([D&amp;C 59:5](/scriptures/dc-
+testament/dc/59.5?lang=eng#4).)
 
 Do you comply? Or do you put aside his words in exchange for your personal
 desires? Do you suppose for one minute that you can separate the salvation of
@@ -231,13 +229,11 @@ to the Lord?
 And then comes this appeal of the Savior:
 
 "... the inhabitants of Zion shall also observe the Sabbath Day to keep it
-holy." ([D&amp;C 69:29](https://www.lds.org/scriptures/dc-
-testament/dc/69.29?lang=eng#28).)
+holy." ([D&amp;C 69:29](/scriptures/dc-testament/dc/69.29?lang=eng#28).)
 
 "And that thou mayest more fully keep thyself unspotted from the world, thou
 shalt go to the house of prayer and offer up thy sacraments upon my holy day."
-([D&amp;C 59:9](https://www.lds.org/scriptures/dc-
-testament/dc/59.9?lang=eng#8).)
+([D&amp;C 59:9](/scriptures/dc-testament/dc/59.9?lang=eng#8).)
 
 How many meet this requirement? It is a commandment from heaven, given to each
 of us. If we fail to keep it, do we tend to exchange our soul's welfare for
@@ -272,13 +268,13 @@ servant; wherefore he receiveth no reward.
 
 "... he that doeth not anything until he is commanded, and receiveth a
 commandment with doubtful heart, and keepeth it with slothfulness, the same is
-damned." ([D&amp;C 58:26-27, 29](https://www.lds.org/scriptures/dc-
-testament/dc/58.26-27%2C29?lang=eng#25).)
+damned." ([D&amp;C 58:26-27, 29](/scriptures/dc-
+testament/dc/58.26-27,29?lang=eng#25).)
 
 And again: "He that receiveth my law and doeth it, the same is my disciple;
 and he that saith he receiveth it and doeth it not, the same is not my
-disciple, and shall be cast out. ..." ([D&amp;C
-41:5](https://www.lds.org/scriptures/dc-testament/dc/41.5?lang=eng#4).)
+disciple, and shall be cast out. ..." ([D&amp;C 41:5](/scriptures/dc-
+testament/dc/41.5?lang=eng#4).)
 
 So you see, what we do or fail to do determines our status before him.
 
@@ -293,8 +289,7 @@ Lord. What shall a man give in exchange for his soul?
 The Savior asked another pertinent question:
 
 "... what is a man profited, if he shall gain the whole world, and lose his own
-soul? ..." ([Matt.
-16:26](https://www.lds.org/scriptures/nt/matt/16.26?lang=eng#25).)
+soul? ..." ([Matt. 16:26](/scriptures/nt/matt/16.26?lang=eng#25).)
 
 It must needs be that there is an opposition in all things.
 
@@ -312,4 +307,6 @@ kingdom of God and his righteousness, all that he has may be ours.
 
 And this is my testimony to you, in the sacred name of the Lord Jesus Christ.
 Amen.
+
+## References
 

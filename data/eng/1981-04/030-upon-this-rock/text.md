@@ -24,7 +24,7 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 Every person born in this world builds a house of some sort and puts it on a
 foundation of his own choosing. And every house built in this mortal sphere is
@@ -42,7 +42,7 @@ the living God. Indeed, every Latter-day Saint who is true and faithful has
 built for himself a "temple of God" in which "the Spirit of God dwelleth." And
 as Paul says: "If any man defile the temple of God, him shall God destroy; for
 the temple of God is holy, which temple ye are." ([1 Cor.
-3:16-17](https://www.lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
+3:16-17](/scriptures/nt/1-cor/3.16-17?lang=eng#15).)
 
 If our house is built upon a rock with the brick and mortar of good works, it
 will withstand the storms and perils of life and preserve us for an eternal
@@ -65,10 +65,10 @@ Jesus testifies of his own divine Sonship as he so often did during the days
 of his flesh.
 
 He asks his disciples who men say that he, the Son of Man, is. (See [Matt.
-16:13](https://www.lds.org/scriptures/nt/matt/16.13?lang=eng#12).) The very
-question is itself a witness of his Godhood, for he knows and they know that
-his Father's name is Man of Holiness and that the name of his Only Begotten is
-the Son of Man of Holiness.
+16:13](/scriptures/nt/matt/16.13?lang=eng#12).) The very question is itself a
+witness of his Godhood, for he knows and they know that his Father's name is
+Man of Holiness and that the name of his Only Begotten is the Son of Man of
+Holiness.
 
 Their answers set forth the fantasies and delusions of an apostate people.
 Some, they say, accept the expressed views of evil Antipas who had slain the
@@ -82,32 +82,30 @@ Urim and Thummim to the Holy of Holies.
 
 Then comes the question to which every living soul must give proper answer if
 he is to gain salvation: "But whom say ye that I am?" ([Matt.
-16:15](https://www.lds.org/scriptures/nt/matt/16.15?lang=eng#14).) Ye Apostles
-of the Lord Jesus Christ, ye Saints of the Most High, ye devout souls who seek
-salvation: What think ye? Is salvation in Christ or look we for another? Let
-every man speak for himself!
+16:15](/scriptures/nt/matt/16.15?lang=eng#14).) Ye Apostles of the Lord Jesus
+Christ, ye Saints of the Most High, ye devout souls who seek salvation: What
+think ye? Is salvation in Christ or look we for another? Let every man speak
+for himself!
 
 On this occasion, first Simon Peter, then all the rest acclaims: "Thou art the
 Christ, the Son of the living God." ([Matt.
-16:16](https://www.lds.org/scriptures/nt/matt/16.16?lang=eng#15).) Thou art
-the Promised Messiah; thou art the Only Begotten in the flesh; God is thy
-Father!
+16:16](/scriptures/nt/matt/16.16?lang=eng#15).) Thou art the Promised Messiah;
+thou art the Only Begotten in the flesh; God is thy Father!
 
 What a wondrous, awesome thing this is. As Paul said, "Great is the mystery of
 godliness: God was manifest in the flesh, justified in the Spirit, seen of
 angels, preached unto the Gentiles, believed on in the world, received up into
-glory." ([1 Tim.
-3:16](https://www.lds.org/scriptures/nt/1-tim/3.16?lang=eng#15).)
+glory." ([1 Tim. 3:16](/scriptures/nt/1-tim/3.16?lang=eng#15).)
 
 And now near the foot of that mountain in which he will soon be transfigured,
 the Son of Man, whose Father is divine, accepts and approves the solemn
 testimonies of his friends.
 
 To Peter, Jesus says, "Blessed art thou, Simon Bar-jona." ([Matt.
-16:17](https://www.lds.org/scriptures/nt/matt/16.17?lang=eng#16).) How
-carefully and aptly Jesus preserves the distinction between him and all men.
-He is the Son of God; Peter is the son of Jonah. The Father of Jesus is the
-Immortal Man of Holiness; Peter's sire is a mortal man.
+16:17](/scriptures/nt/matt/16.17?lang=eng#16).) How carefully and aptly Jesus
+preserves the distinction between him and all men. He is the Son of God; Peter
+is the son of Jonah. The Father of Jesus is the Immortal Man of Holiness;
+Peter's sire is a mortal man.
 
 But why is Peter so blessed? It is because he knows by the power of the Holy
 Ghost that Jesus is the Lord; the Holy Spirit has spoken to the spirit housed
@@ -116,13 +114,13 @@ of Nazareth of Galilee.
 
 "Blessed art thou, Simon Bar-jona," Jesus says, "for flesh and blood hath not
 revealed it unto thee, but my Father which is in heaven." ([Matt.
-16:17](https://www.lds.org/scriptures/nt/matt/16.17?lang=eng#16).)
+16:17](/scriptures/nt/matt/16.17?lang=eng#16).)
 
 Then again Jesus alludes to the difference in paternal ancestry between him
 and Peter and continues his words of blessing and doctrine by saying: "And
 upon this rock"--the rock of revelation--"I will build my church; and the
 gates of hell shall not prevail against it." ([Matt.
-16:18](https://www.lds.org/scriptures/nt/matt/16.18?lang=eng#17).)
+16:18](/scriptures/nt/matt/16.18?lang=eng#17).)
 
 And how could it be otherwise? There is no other foundation upon which the
 Lord could build his Church and kingdom. The things of God are known only by
@@ -147,16 +145,15 @@ Ages, the Stone of Israel, the Sure Foundation--the Lord is our Rock!
 
 Again we hear Paul's voice: "Other foundation can no man lay than that is
 laid, which is Jesus Christ." ([1 Cor.
-3:11](https://www.lds.org/scriptures/nt/1-cor/3.11?lang=eng#10).) And also: Ye
-"are built upon the foundation of the apostles and prophets, Jesus Christ
-himself being the chief corner stone." ([Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).)
+3:11](/scriptures/nt/1-cor/3.11?lang=eng#10).) And also: Ye "are built upon
+the foundation of the apostles and prophets, Jesus Christ himself being the
+chief corner stone." ([Eph. 2:20](/scriptures/nt/eph/2.20?lang=eng#19).)
 
 As we ponder all these things, and as their full meaning dawns upon us, we
 hear anew the exhortation of our ancient Apostolic friend which says, "Examine
 yourselves, whether ye be in the faith; prove your own selves." ([2 Cor.
-13:5](https://www.lds.org/scriptures/nt/2-cor/13.5?lang=eng#4).) And so we ask
-ourselves: Shall the gates of hell prevail against us?
+13:5](/scriptures/nt/2-cor/13.5?lang=eng#4).) And so we ask ourselves: Shall
+the gates of hell prevail against us?
 
 If we build our house of salvation on the rock of personal revelation, if we
 build it on the revealed reality that Jesus is the Lord, if we build it on him
@@ -185,8 +182,7 @@ saying: "If ye shall build up my church, upon the foundation of my gospel and
 my rock, the gates of hell shall not prevail against you. ...
 
 "Behold, you have my gospel before you, and my rock, and my salvation."
-([D&amp;C 18:5, 17](https://www.lds.org/scriptures/dc-
-testament/dc/18.5%2C17?lang=eng#4).)
+([D&amp;C 18:5, 17](/scriptures/dc-testament/dc/18.5,17?lang=eng#4).)
 
 And so we testify with Peter and with the ancients that we know, as they knew,
 those things which flesh and blood can never reveal to man. We know by the
@@ -215,4 +211,6 @@ earth. And this I say not of myself, but in the name of the Lord, standing as
 his representative and saying what he would say if he personally were here.
 His is the only name given under heaven whereby salvation comes, and we are
 his ministers. In the name of the Lord Jesus Christ, amen.
+
+## References
 

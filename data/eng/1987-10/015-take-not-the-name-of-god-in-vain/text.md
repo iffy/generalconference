@@ -82,7 +82,7 @@ became the basis of the Judeo-Christian code governing human behavior. Every
 one of the ten is important, and among them is this statement: "Thou shalt not
 take the name of the Lord thy God in vain; for the Lord will not hold him
 guiltless that taketh his name in vain" ([Ex.
-20:7](https://www.lds.org/scriptures/ot/ex/20.7?lang=eng#6)).
+20:7](/scriptures/ot/ex/20.7?lang=eng#6)).
 
 So serious was violation of this law considered in ancient Israel that
 blasphemy of the name of the Lord was regarded as a capital crime. There is an
@@ -101,7 +101,7 @@ his God shall bear his sin.
 
 "And he that blasphemeth the name of the Lord, he shall surely be put to
 death, and all the congregation shall certainly stone him" ([Lev.
-24:11-16](https://www.lds.org/scriptures/ot/lev/24.11-16?lang=eng#10)).
+24:11-16](/scriptures/ot/lev/24.11-16?lang=eng#10)).
 
 While that most serious of penalties has long since ceased to be inflicted,
 the gravity of the sin has not changed.
@@ -111,15 +111,15 @@ revelation given to President Brigham Young on January 14, 1847, while the
 Saints were preparing to leave Winter Quarters for these valleys in the West,
 the Lord said to them, "Keep yourselves from evil to take the name of the Lord
 in vain, for I am the Lord your God, even the God of your fathers, the God of
-Abraham and of Isaac and of Jacob" ([D&amp;C
-136:21](https://www.lds.org/scriptures/dc-testament/dc/136.21?lang=eng#20)).
+Abraham and of Isaac and of Jacob" ([D&amp;C 136:21](/scriptures/dc-
+testament/dc/136.21?lang=eng#20)).
 
 In a general epistle to the entire Church issued by the First Presidency on
 April 8, 1887, a hundred years ago, they said concerning this problem, which
-evidently was serious then as it is now, "The habit ... , which some young
-people fall into, of using vulgarity and profanity ... is not only offensive to
-well-bred persons, but it is a gross sin in the sight of God, and should not
-exist among the children of the Latter-day Saints" (in _Messages of the First
+evidently was serious then as it is now, "The habit ..., which some young people
+fall into, of using vulgarity and profanity ... is not only offensive to well-
+bred persons, but it is a gross sin in the sight of God, and should not exist
+among the children of the Latter-day Saints" (in _Messages of the First
 Presidency,_ comp. James R. Clark, 6 vols., Salt Lake City: Bookcraft,
 1965-75, 3:112-13).
 
@@ -157,8 +157,7 @@ lesson.
 
 On one occasion, Jesus said to the multitude, "Not that which goeth into the
 mouth defileth a man; but that which cometh out of the mouth, this defileth a
-man" ([Matt.
-15:11](https://www.lds.org/scriptures/nt/matt/15.11?lang=eng#10)).
+man" ([Matt. 15:11](/scriptures/nt/matt/15.11?lang=eng#10)).
 
 I have believed that as I have heard men and women, and boys and girls,
 profane.
@@ -222,7 +221,7 @@ Paul, perhaps the greatest missionary of all time, wrote to Timothy, his young
 associate in the ministry. Said he, "Let no man despise thy youth," he said,
 "but be thou an example of the believers, in word, in conversation, in
 charity, in spirit, in faith, in purity" ([1 Tim.
-4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11)).
+4:12](/scriptures/nt/1-tim/4.12?lang=eng#11)).
 
 Note what he says: "Be thou an example _in word._" He is speaking here of
 language. I think he is speaking of the things of which I have been speaking.
@@ -269,4 +268,6 @@ conversation that is sprinkled with foul and filthy words. You will be happier
 if you do so, and your example will give strength to others. May you be
 blessed so to do, I humbly pray, my beloved brethren, in the name of Jesus
 Christ, amen.
+
+## References
 

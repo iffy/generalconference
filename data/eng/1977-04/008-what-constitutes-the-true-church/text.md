@@ -14,7 +14,7 @@ thereat:
 
 "Because strait is the gate, and narrow is the way, which leadeth unto life,
 and few there be that find it." ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).)
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).)
 
 Does that statement by the Savior suggest there are many ways to heaven? Many
 people do accept man's philosophy that "all roads lead to God," but it is a
@@ -35,25 +35,22 @@ Christ has outlined that assures one's eternal happiness.
 
 When Jesus walked this earth among men, He proclaimed to His disciples: "I am
 the way, the truth, and the life: no man cometh unto the Father, but by me."
-([John 14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).) He
-proclaimed that the doctrines He taught were given to Him by his Father. He
-took no credit Himself--only that He was doing what the Father had given Him
-to do. "For the Father loveth the Son, and sheweth him all things that himself
-doeth." ([John
-5:20](https://www.lds.org/scriptures/nt/john/5.20?lang=eng#19).)
+([John 14:6](/scriptures/nt/john/14.6?lang=eng#5).) He proclaimed that the
+doctrines He taught were given to Him by his Father. He took no credit Himself
+--only that He was doing what the Father had given Him to do. "For the Father
+loveth the Son, and sheweth him all things that himself doeth." ([John
+5:20](/scriptures/nt/john/5.20?lang=eng#19).)
 
 "I and my Father are one," said the Savior. ([John
-10:30](https://www.lds.org/scriptures/nt/john/10.30?lang=eng#29).) This
-statement does not mean they are one person, but that Jesus and His Father are
-one in purpose.
+10:30](/scriptures/nt/john/10.30?lang=eng#29).) This statement does not mean
+they are one person, but that Jesus and His Father are one in purpose.
 
 To hear and accept Jesus is to hear and accept His Father. Their teachings and
 objectives are identical. The doctrine of salvation is the same for all of
 God's progeny. Jesus prayed in His intercessory prayer to His Father
 concerning those who complied with His doctrines and ordinances: "And the
 glory which thou gavest me I have given them; that they may be one, _even as
-we are one._" ([John
-17:22](https://www.lds.org/scriptures/nt/john/17.22?lang=eng#21); italics
+we are one._" ([John 17:22](/scriptures/nt/john/17.22?lang=eng#21); italics
 added.)
 
 To proclaim this doctrine of the Father and the Son, Jesus established His
@@ -69,7 +66,7 @@ did not possess the authority to administer the ordinances of salvation. When
 many religious leaders became offended by His teachings, Jesus then proclaimed
 most of His doctrines by using parables. These made clear to the spiritually
 attuned person that there was to be only "one fold, and one shepherd." ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).)
+10:16](/scriptures/nt/john/10.16?lang=eng#15).)
 
 "Verily, verily, I say unto you, He that entereth not by the door into the
 sheepfold, but climbeth up some other way, the same is a thief and a robber.
@@ -84,7 +81,7 @@ follow him: for they know his voice.
 
 "And a stranger will they not follow, but will flee from him: for they know
 not the voice of strangers." ([John
-10:1-5](https://www.lds.org/scriptures/nt/john/10.1-5?lang=eng#0).)
+10:1-5](/scriptures/nt/john/10.1-5?lang=eng#0).)
 
 When this parable was not fully understood, Jesus plainly explained it by
 saying:
@@ -98,8 +95,7 @@ pasture. ...
 
 "But he that is an hireling, and not the shepherd, whose own the sheep are
 not, seeth the wolf coming, and leaveth the sheep, and fleeth." ([John 10:7,
-9,
-11-12](https://www.lds.org/scriptures/nt/john/10.7%2C9%2C11-12?lang=eng#6).)
+9, 11-12](/scriptures/nt/john/10.7,9,11-12?lang=eng#6).)
 
 The testimony that Jesus is the Good Shepherd was a figure of speech familiar
 to those accustomed to the pastoral conditions of Palestine. Jesus knew His
@@ -108,15 +104,14 @@ the children of Israel. David, the shepherd boy who became king, wrote the
 beautiful Twenty-third Psalm that begins: "The Lord is my shepherd." Isaiah
 prophesied that when God would come down, "He shall feed his flock like a
 shepherd: he shall gather the lambs with his arm." ([Isa.
-40:11](https://www.lds.org/scriptures/ot/isa/40.11?lang=eng#10).) There was no
-mistaking what Jesus meant. He was their Lord--the promised Messiah!
+40:11](/scriptures/ot/isa/40.11?lang=eng#10).) There was no mistaking what
+Jesus meant. He was their Lord--the promised Messiah!
 
 By likening false teachers and pastors to thieves and hirelings whose concern
 was for money rather than the flock, Jesus repudiated all pretenders. A
 stronger indictment could not be imagined! Then to make His point so clear
 that no one could misunderstand, He stated: "There shall be one fold, and one
-shepherd." ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).)
+shepherd." ([John 10:16](/scriptures/nt/john/10.16?lang=eng#15).)
 
 He did not recognize then, nor has He recognized since, a multiplicity of
 folds or shepherds.
@@ -126,7 +121,7 @@ the same unity of doctrine and practiced the same ordinances which Jesus had
 given them. These apostles were not self-appointed servants, for Jesus said to
 them: "Ye have not chosen me, but I have chosen you, and ordained you, that ye
 should go and bring forth fruit." ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).)
+15:16](/scriptures/nt/john/15.16?lang=eng#15).)
 
 They were authorized ministers called to teach and officiate in the saving
 ordinances of the gospel. Jesus had conferred the priesthood authority on
@@ -138,16 +133,16 @@ then given a choice. There was only one plan for all.
 
 Because of the universality of these requirements for salvation, the apostle
 Paul wrote: "There is ... one Lord, one faith, one baptism." ([Eph.
-4:4-5](https://www.lds.org/scriptures/nt/eph/4.4-5?lang=eng#3).) On another
-occasion he wrote: "But though we, or an angel from heaven, preach any other
-gospel unto you than that which we have preached unto you, let him be
-accursed." ([Gal. 1:8](https://www.lds.org/scriptures/nt/gal/1.8?lang=eng#7).)
+4:4-5](/scriptures/nt/eph/4.4-5?lang=eng#3).) On another occasion he wrote:
+"But though we, or an angel from heaven, preach any other gospel unto you than
+that which we have preached unto you, let him be accursed." ([Gal.
+1:8](/scriptures/nt/gal/1.8?lang=eng#7).)
 
 One church, one authorized ministry, one orthodox gospel doctrine, and one
 Holy Ghost characterized the church of Jesus Christ in His time. "For God is
 not the author of confusion, but of peace, as in all churches of the saints."
-([1 Cor. 14:33](https://www.lds.org/scriptures/nt/1-cor/14.33?lang=eng#32).)
-Thus God's revelation to leaders of the Church of Jesus Christ was reasonable,
+([1 Cor. 14:33](/scriptures/nt/1-cor/14.33?lang=eng#32).) Thus God's
+revelation to leaders of the Church of Jesus Christ was reasonable,
 consistent, and unified.
 
 It was only after the death of Christ's apostles that revelation ceased. The
@@ -156,8 +151,8 @@ and profane innovations appeared in the ordinances of the church. Eventually,
 that which had once been clear and understandable became mythical and
 confusing. Confusion is the field where Satan operates to deceive and lead
 mankind astray. Jesus and His apostles predicted a "falling away" (see [2
-Thes. 2:1-4](https://www.lds.org/scriptures/nt/2-thes/2.1-4?lang=eng#0)),
-which did occur, and Christianity entered a long night of darkness.
+Thes. 2:1-4](/scriptures/nt/2-thes/2.1-4?lang=eng#0)), which did occur, and
+Christianity entered a long night of darkness.
 
 Today a multiplicity of churches and doctrines abound, all claiming one
 source. Such a claim, of course, defies reason and contradicts the teachings
@@ -165,8 +160,7 @@ and pattern established by Jesus Christ. A sincere seeker for truth must ask:
 "Which, if any, of the varying Christian groups is right?" For guidance, the
 apostle James gave this counsel: "If any of you lack wisdom, let him ask of
 God, that giveth to all men liberally, and upbraideth not; and it shall be
-given him." ([James
-1:5](https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4).) If you
+given him." ([James 1:5](/scriptures/nt/james/1.5?lang=eng#4).) If you
 sincerely put this promise to the test in seeking light and truth, you will be
 rewarded.
 
@@ -178,7 +172,7 @@ sincere heart, with real intent, having faith in Christ, he will manifest the
 truth of it unto you, by the power of the Holy Ghost.
 
 "And by the power of the Holy Ghost ye may know the truth of all things."
-([Moro. 10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3).)
+([Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3).)
 
 Since it is clear that Jesus was one with His Father and that they accepted
 only one fold, or church, it is essential for every seeker after truth to
@@ -194,8 +188,7 @@ deacons. The Church will be directed on earth by a prophet of God.
 
 The major mission of the Church is to "teach [the gospel to] all nations,
 baptizing them in the name of the Father, and of the Son, and of the Holy
-Ghost." ([Matt.
-28:19](https://www.lds.org/scriptures/nt/matt/28.19?lang=eng#18).)
+Ghost." ([Matt. 28:19](/scriptures/nt/matt/28.19?lang=eng#18).)
 
 The same gifts of the Spirit which prevailed in the church at the time of
 Jesus are prevalent today. Some of these gifts are: revelation, healing,
@@ -207,10 +200,10 @@ evidence among its membership.
 The same power which Jesus gave to His apostles that "whatsoever ye shall bind
 on earth shall be bound in heaven: and whatsoever ye shall loose on earth
 shall be loosed in heaven" ([Matt.
-18:18](https://www.lds.org/scriptures/nt/matt/18.18?lang=eng#17)) will also be
-in the true church today. There are ordinances and blessings bestowed by an
-authorized ministry to Church members. These covenants and obligations, if
-entered into and obeyed, apply not just for this life, but for all eternity.
+18:18](/scriptures/nt/matt/18.18?lang=eng#17)) will also be in the true church
+today. There are ordinances and blessings bestowed by an authorized ministry
+to Church members. These covenants and obligations, if entered into and
+obeyed, apply not just for this life, but for all eternity.
 
 Every individual in the Lord's church is entitled to the sure knowledge,
 received by personal revelation through the Holy Ghost, that the Church is
@@ -225,8 +218,7 @@ One cannot prayerfully study the scriptures without gaining the knowledge and
 testimony that there is only one way to exaltation. The scriptures point the
 way very clearly. It must be God's way and not man's way, for God has said:
 "For my thoughts are not your thoughts, neither are your ways my ways, saith
-the Lord." ([Isa.
-55:8](https://www.lds.org/scriptures/ot/isa/55.8?lang=eng#7).)
+the Lord." ([Isa. 55:8](/scriptures/ot/isa/55.8?lang=eng#7).)
 
 As an authorized servant and special witness of Jesus Christ in this day, I
 humbly bear witness that the church of Jesus Christ is on the earth today.
@@ -271,4 +263,6 @@ all who listen to the voice of the Good Shepherd to investigate the message of
 His church today and gain a personal witness of its truthfulness. I humbly
 bear my testimony to the truthfulness of these things and beseech all of you
 to gain that personal witness, and do so in the name of Jesus Christ. Amen.
+
+## References
 

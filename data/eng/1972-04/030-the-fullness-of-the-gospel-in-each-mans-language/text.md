@@ -145,7 +145,7 @@ year in the Northern Hemisphere, these materials will be utilized.
 In the 90th section of the Doctrine and Covenants, verse 11, we read: "For it
 shall come to pass in that day, that every man shall hear the fulness of the
 gospel in his own tongue, and in his own language." [[D&amp;C
-90:11](https://www.lds.org/scriptures/dc-testament/dc/90.11?lang=eng#10)]
+90:11](/scriptures/dc-testament/dc/90.11?lang=eng#10)]
 
 The inspiration of the First Presidency in bringing together in one
 organization the responsibilities of internal communications has made possible
@@ -155,4 +155,6 @@ this scripture.
 I sustain the First Presidency and the Council of the Twelve with all my heart
 --and bear witness that they are in very deed prophets, seers, and revelators,
 in the name of Jesus Christ. Amen.
+
+## References
 

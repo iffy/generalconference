@@ -1,4 +1,4 @@
-# Redemption: The Harvest of Love
+# Redemption:The Harvest of Love
 
 One hundred and fifty years ago this week, the Lord revealed to His prophet
 Joseph Smith sublime doctrine concerning the sacred ordinance of baptism. That
@@ -8,8 +8,7 @@ endless joy. All others faced eternal torment, without hope of redemption. The
 Lord's revelation that baptism could be performed vicariously for the dead,
 through proper priesthood authority, preserved the justice of His statement:
 "Except a man be born of water and of the Spirit, he cannot enter into the
-kingdom of God." ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4).)
+kingdom of God." ([John 3:5](/scriptures/nt/john/3.5?lang=eng#4).)
 
 Vicarious baptism also mercifully provides this ordinance for all worthy
 deceased who have not received it through proper priesthood authority.
@@ -27,12 +26,11 @@ of their deceased relatives, _do it at the peril of their own salvation._"
 (_History of the Church,_ 4:231; italics added.)
 
 The prophet Elijah committed the keys for vicarious work to Joseph Smith in
-the Kirtland Temple (see [D&amp;C 110:13-16](https://www.lds.org/scriptures
-/dc-testament/dc/110.13-16?lang=eng#12)) to fulfill the Lord's promise that
-"he shall plant in the hearts of the children the promises made to the
-fathers, and the hearts of the children shall turn to their fathers."
-([D&amp;C 2:2](https://www.lds.org/scriptures/dc-
-testament/dc/2.2?lang=eng#1).)
+the Kirtland Temple (see [D&amp;C 110:13-16](/scriptures/dc-
+testament/dc/110.13-16?lang=eng#12)) to fulfill the Lord's promise that "he
+shall plant in the hearts of the children the promises made to the fathers,
+and the hearts of the children shall turn to their fathers." ([D&amp;C
+2:2](/scriptures/dc-testament/dc/2.2?lang=eng#1).)
 
 Through further revelation to Joseph Smith and subsequent prophets, there has
 come an understanding of and provision for temple work and the family history
@@ -44,9 +42,9 @@ This inspired counsel can be simply summarized:
 
 We are to:
 
-  1. -- Turn the hearts of the fathers to the children, and the children to their fathers. 
-  2. -- Insure that ordinances are performed for ourselves and our ancestors. 
-  3. -- Seal individuals into eternal family relationships. 
+  * Turn the hearts of the fathers to the children, and the children to their fathers. 
+  * Insure that ordinances are performed for ourselves and our ancestors. 
+  * Seal individuals into eternal family relationships. 
 
 Many members of the Church recognize the vital importance of these
 commandments but feel overwhelmed at the task of identifying their own
@@ -75,32 +73,16 @@ are available to help you succeed.
 
 Many brilliant minds and sensitive hearts have harnessed advanced technology
 to provide personal computer helps to simplify family history work. Under the
-descriptive title of FamilySearch,™ these powerful computer-aided resources
-are now available in family history centers in the United States and Canada.
-(Request them if they are not there. They are within policy.) In due course,
-these resources will be made available elsewhere in the world.
+descriptive title of **FamilySearch,™** these powerful computer-aided
+resources are now available in family history centers in the United States and
+Canada. (Request them if they are not there. They are within policy.) In due
+course, these resources will be made available elsewhere in the world.
 
-FamilySearch provides members easy access to the Church's central genealogy
-computer files. It greatly simplifies research and enables members to more
-efficiently find information in the Church's vast storehouse of microfilmed
-records. The computer provides direct, rapid search of a large compilation of
-valuable information on compact discs without time or error of searching
-traditional microfilm or microfiche. FamilySearch provides these five specific
-types of helps that are as easy to use as a telephone:
+**FamilySearch** provides members easy access to the Church's central genealogy computer files. It greatly simplifies research and enables members to more efficiently find information in the Church's vast storehouse of microfilmed records. The computer provides direct, rapid search of a large compilation of valuable information on compact discs without time or error of searching traditional microfilm or microfiche. **FamilySearch** provides these five specific types of helps that are as easy to use as a telephone:
 
-Ancestral File™ is a computer resource of seven million names linked into
-family relationships. This resource is the heart of our effort to collect the
-genealogy of mankind and make that information readily available to others, to
-simplify their family history research, and permanently preserve family
-relationships.
+**Ancestral File™** is a computer resource of seven million names linked into family relationships. This resource is the heart of our effort to collect the genealogy of mankind and make that information readily available to others, to simplify their family history research, and permanently preserve family relationships.
 
-Ancestral File comprises the "four generation" submittals from members and
-friends. These data have been carefully matched and coupled one with another,
-providing a powerfully rich source of family-linked information that
-simplifies research and reduces duplication. It contains names and addresses,
-enabling coordination of research with other submitters. Means now exist that
-permit you or family organizations to enter all of your family-linked
-information for permanent preservation and use by others.
+**Ancestral File** comprises the "four generation" submittals from members and friends. These data have been carefully matched and coupled one with another, providing a powerfully rich source of family-linked information that simplifies research and reduces duplication. It contains names and addresses, enabling coordination of research with other submitters. Means now exist that permit you or family organizations to enter all of your family-linked information for permanent preservation and use by others.
 
 Recently a friend of the Church, tenderly holding a five-inch-high stack of
 information, said with obvious gratitude: "The Church placed my life's work in
@@ -109,14 +91,14 @@ use." That spirit is spreading throughout the world where friends who wish to
 show their gratitude for using Church resources, are now generously donating
 their laboriously compiled family history information to share with others.
 
-Another help is the Family History Library Catalog.™ It contains the
+Another help is the **Family History Library Catalog.™** It contains the
 description of virtually every family history record of the Church, permitting
 a rapid, automatic, precise name or locality search of the detailed catalog
 descriptions.
 
-The automated International Genealogical Index™ replaces 10,000 microfiche,
-providing computer research of data on 147 million deceased individuals and
-allowing limited linking of family members.
+The automated **International Genealogical Index™** replaces 10,000
+microfiche, providing computer research of data on 147 million deceased
+individuals and allowing limited linking of family members.
 
 Shortly, an automated 39-million-name _U.S. Social Security Death Register™_
 will be distributed.
@@ -132,7 +114,7 @@ of Australian births, marriages, and deaths from 1788 to 1888 is near
 completion. These helps will permit automatic nationwide search for an
 ancestor without specifying locality.
 
-Yet another help, the Personal Ancestral File™ is a powerful, inexpensive,
+Yet another help, the **Personal Ancestral File™** is a powerful, inexpensive,
 easy-to-use resource available for home use that helps organize, analyze, and
 print your family history. It reports what ordinance work is lacking and
 allows electronic sharing of data.
@@ -156,9 +138,9 @@ slip of paper for me to receive their temple ordinances. These are ancestors I
 love through temple work. They, in turn, have influenced my life. I find
 traits displayed in their purposeful lives woven into the fabric of my own
 character. Begin this work, and you will know why the Lord said, "The hearts
-of the children shall turn to their fathers." ([D&amp;C
-2:2](https://www.lds.org/scriptures/dc-testament/dc/2.2?lang=eng#1).) Learn
-why this glorious doctrine has been restored to the earth.
+of the children shall turn to their fathers." ([D&amp;C 2:2](/scriptures/dc-
+testament/dc/2.2?lang=eng#1).) Learn why this glorious doctrine has been
+restored to the earth.
 
 Once I listened as a humble sister, blind except for a small window of vision
 in one eye, bore witness of deeply spiritual experiences she enjoyed with her
@@ -225,4 +207,6 @@ sacrifice, you can make a powerful contribution. Begin now. I promise you that
 the Lord will help you find a way. And it will make you feel wonderful.
 
 In the name of Jesus Christ, amen.
+
+## References
 

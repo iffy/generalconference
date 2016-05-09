@@ -34,8 +34,8 @@ he gives the spirit of prophecy and of revelation, even as he did to them of
 old. "I will tell you" the glories and wonders of the everlasting gospel, he
 says; "I will tell you in your mind and in your heart, by the Holy Ghost,
 which shall come upon you and which shall dwell in your heart. Now, behold,
-this is the spirit of revelation." ([D&amp;C
-8:2-3](https://www.lds.org/scriptures/dc-testament/dc/8.2-3?lang=eng#1).)
+this is the spirit of revelation." ([D&amp;C 8:2-3](/scriptures/dc-
+testament/dc/8.2-3?lang=eng#1).)
 
 I know there is revelation in the Church because I have received revelation. I
 know God speaks in this day because he has spoken to me. I rejoice in the
@@ -79,8 +79,7 @@ this hour, the voice of the Lord to his people is: "These are they whom I have
 chosen as the First Presidency of my Church. Follow them." And also, "... on
 them have I laid the burden of all the churches, ... and whosoever receiveth me,
 receiveth those, the First Presidency, whom I have sent. ..." ([D&amp;C
-112:18-20](https://www.lds.org/scriptures/dc-
-testament/dc/112.18-20?lang=eng#17).)
+112:18-20](/scriptures/dc-testament/dc/112.18-20?lang=eng#17).)
 
 I desire with all my heart to sustain and to uphold the Presidency of the
 Church, to walk in the light of the revelation and truth that comes from their
@@ -111,4 +110,6 @@ fullness, in the mansions and realms which are ahead.
 
 All of this I say humbly and gratefully, in the spirit of testimony and of
 thanksgiving, and in the sacred name of the Lord Jesus Christ. Amen.
+
+## References
 

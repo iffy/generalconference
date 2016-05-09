@@ -5,9 +5,9 @@ you today.
 
 Matthew's New Testament account includes these words of the Savior: "Every
 good tree bringeth forth good fruit" ([Matt.
-7:17](https://www.lds.org/scriptures/nt/matt/7.17?lang=eng#16)), and "by their
-fruits ye shall know them"--whether they be good or evil ([Matt.
-7:20](https://www.lds.org/scriptures/nt/matt/7.20?lang=eng#19)).
+7:17](/scriptures/nt/matt/7.17?lang=eng#16)), and "by their fruits ye shall
+know them"--whether they be good or evil ([Matt.
+7:20](/scriptures/nt/matt/7.20?lang=eng#19)).
 
 As Michael Watson was reading the Annual Report confirming the continued
 growth and expansion of the Church throughout the world, with an increasing
@@ -15,8 +15,8 @@ number of new converts making possible more stakes and more wards with their
 increasing numbers of priesthood holders and women in their organizations, and
 with our growing numbers of missionaries making possible more new missions, I
 felt a burning in my soul--a feeling of divine affirmation and direction of
-this work as it comes "forth out of obscurity" ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29)).
+this work as it comes "forth out of obscurity" ([D&amp;C 1:30](/scriptures/dc-
+testament/dc/1.30?lang=eng#29)).
 
 This is the church of our Lord Jesus Christ, and it does indeed bring forth
 fruit worthy of him. Its growth will continue unabated because of the faith of
@@ -24,22 +24,20 @@ its members and because more men and women are discovering the golden threads
 of truth, hope, and salvation as they learn gospel principles and are
 "nourished by the good word of God, to keep them in the right way, ... relying ...
 upon the merits of Christ, who [is] the author ... of their faith" ([Moro.
-6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3)).
+6:4](/scriptures/bofm/moro/6.4?lang=eng#3)).
 
 Outside of our church, many watch in amazement at this consistent expansion in
 spite of popular secularism. We hope they may one day know of the joy and
 happiness available to the Saints who hold fast to the iron rod of gospel
-truth (see [1 Ne.
-11:25](https://www.lds.org/scriptures/bofm/1-ne/11.25?lang=eng#24)), which
-they treasure as dearly as life itself and which they maintain by their
-abiding faith.
+truth (see [1 Ne. 11:25](/scriptures/bofm/1-ne/11.25?lang=eng#24)), which they
+treasure as dearly as life itself and which they maintain by their abiding
+faith.
 
 We see the light of the gospel continuing to dawn like a gentle new day upon
 previous intolerable darkness. It continues to spread out into new frontiers,
 confirming the revelation to Joseph the Prophet that "the voice of the Lord is
-unto all men, and there is none to escape" ([D&amp;C
-1:2](https://www.lds.org/scriptures/dc-testament/dc/1.2?lang=eng#1)) and all
-hearts shall be penetrated.
+unto all men, and there is none to escape" ([D&amp;C 1:2](/scriptures/dc-
+testament/dc/1.2?lang=eng#1)) and all hearts shall be penetrated.
 
 The gospel breathes a new life and a new hope and a new and unknown holiness
 into a troubled world. This we see, and we see the work grow and increase and
@@ -65,13 +63,12 @@ them, they commanded that they should not speak ... the name of Jesus, and let
 them go.
 
 "And they departed, ... rejoicing that they were counted worthy to suffer ... for
-his name" ([Acts
-5:38-41](https://www.lds.org/scriptures/nt/acts/5.38-41?lang=eng#37)).
+his name" ([Acts 5:38-41](/scriptures/nt/acts/5.38-41?lang=eng#37)).
 
 And--true to their callings as special witnesses of Christ--the Apostles went
 "daily in the temple, and in every house, they [continued] to teach and preach
 Jesus Christ" and him crucified ([Acts
-5:42](https://www.lds.org/scriptures/nt/acts/5.42?lang=eng#41)).
+5:42](/scriptures/nt/acts/5.42?lang=eng#41)).
 
 The early Apostles fearlessly continued to preach the principles of the
 gospel, as we do today, calling upon mankind to believe in the Son of God, our
@@ -91,8 +88,8 @@ A person who has developed spirituality may suffer deeply and know
 frustration; but yet he is able to continue in showing forth kindness and love
 because of a power that rises up from his spiritual base that governs his
 actions and urges him to "speak with a new tongue" ([2 Ne.
-31:14](https://www.lds.org/scriptures/bofm/2-ne/31.14?lang=eng#13)), as Nephi
-said, and to be his best despite obstacles and setbacks.
+31:14](/scriptures/bofm/2-ne/31.14?lang=eng#13)), as Nephi said, and to be his
+best despite obstacles and setbacks.
 
 My desire is to aid the cause of truth and righteousness and, like the
 Apostles of old, to add my witness of the divinity of Jesus the Christ.
@@ -101,15 +98,14 @@ Tomorrow is Easter! Christians everywhere will commemorate the resurrection of
 our Lord Jesus Christ. Though the anniversary date may not be accurate, the
 Easter season should inspire us to study and reflect upon the infinite and
 eternal atonement of Christ--"the firstfruits of them that slept" ([1 Cor.
-15:20](https://www.lds.org/scriptures/nt/1-cor/15.20?lang=eng#19)). The
-resurrection of Jesus from the tomb is the most glorious of all messages to
-mankind.
+15:20](/scriptures/nt/1-cor/15.20?lang=eng#19)). The resurrection of Jesus
+from the tomb is the most glorious of all messages to mankind.
 
 I believe in Christ. As a Latter-day Saint, I believe in Christ with all my
 heart. We invite all to "come unto Christ, and be perfected in him," as Moroni
 declared, "and deny yourselves of all ungodliness" ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31)). Without
-reservation, we declare he is the Son of God and the Savior of the world.
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31)). Without reservation, we
+declare he is the Son of God and the Savior of the world.
 
 Joseph Smith, the first prophet of this dispensation, wrote:
 
@@ -118,7 +114,7 @@ the Holy Ghost.
 
 "We believe that through the Atonement of Christ, all mankind may be saved, by
 obedience to the laws and ordinances of the Gospel" ([A of F 1:1,
-3](https://www.lds.org/scriptures/pgp/a-of-f/1.1%2C3?lang=eng#0)).
+3](/scriptures/pgp/a-of-f/1.1,3?lang=eng#0)).
 
 We believe that Christ came into the world to ransom mankind from the temporal
 and spiritual death brought into the world by the fall of Adam, that through
@@ -131,13 +127,13 @@ the gift of the Holy Ghost, and remain steadfast to gain life eternal.
 
 The Lord God has sent his holy prophets among all men in all ages to declare
 these things, even as he does today (see [Mosiah
-3:13](https://www.lds.org/scriptures/bofm/mosiah/3.13?lang=eng#12)).
+3:13](/scriptures/bofm/mosiah/3.13?lang=eng#12)).
 
 King Benjamin, a Book of Mormon prophet, was instructed by an angel sent by
 the Lord to declare unto his people the coming of the Messiah more than one
 hundred years before Christ's birth, "that they may also be filled with joy"
-([Mosiah 3:4](https://www.lds.org/scriptures/bofm/mosiah/3.4?lang=eng#3)).
-This holy prophet declared:
+([Mosiah 3:4](/scriptures/bofm/mosiah/3.4?lang=eng#3)). This holy prophet
+declared:
 
 "For behold, the time cometh, ... that ... the Lord Omnipotent who reigneth, who
 was, and is from all eternity, ... shall come down from heaven among the
@@ -155,7 +151,7 @@ things from the beginning; ...
 him.
 
 "And he shall rise the third day from the dead" ([Mosiah 3:5,
-7-10](https://www.lds.org/scriptures/bofm/mosiah/3.5%2C7-10?lang=eng#4)).
+7-10](/scriptures/bofm/mosiah/3.5,7-10?lang=eng#4)).
 
 King Benjamin had learned in a vision that Christ would atone for the sins of
 mankind and judge the world. New Testament narrators, who were actual
@@ -177,19 +173,19 @@ wondering Apostles returned to their brethren.
 Mary had stayed at the tomb and was grieving at the entrance when someone
 approached. Thinking it was the keeper of the garden, she asked where he had
 laid her Lord. Jesus said to her, "Mary" ([John
-20:16](https://www.lds.org/scriptures/nt/john/20.16?lang=eng#15)).
+20:16](/scriptures/nt/john/20.16?lang=eng#15)).
 
 Jesus himself was standing before her, but he did not appear as she had known
 him, for he was now risen and glorified. She then recognized our Lord and must
 have attempted to embrace him, for he said, "Touch me not; for I am not yet
 ascended to my Father: but go to my brethren, and say unto them, I ascend unto
 my Father, and your Father; and to my God, and your God" ([John
-20:17](https://www.lds.org/scriptures/nt/john/20.17?lang=eng#16)).
+20:17](/scriptures/nt/john/20.17?lang=eng#16)).
 
 Filled with amazement, she hastened to obey, and repeated that glorious
 message which would give hope through all future ages and to which she added
 her personal declaration that she had seen the risen Lord (see [John
-20:1-18](https://www.lds.org/scriptures/nt/john/20.1-18?lang=eng#0)).
+20:1-18](/scriptures/nt/john/20.1-18?lang=eng#0)).
 
 "The debt is paid, the redemption made, the covenant fulfilled, justice
 satisfied, the will of God done," wrote President John Taylor, "and all power
@@ -205,7 +201,7 @@ God, wrote:
 
 "But he was wounded for our transgressions, he was bruised for our iniquities:
 ... and with his stripes we are healed" ([Isa.
-53:4-5](https://www.lds.org/scriptures/ot/isa/53.4-5?lang=eng#3)).
+53:4-5](/scriptures/ot/isa/53.4-5?lang=eng#3)).
 
 These thoughtful words from a favorite Mormon sacrament hymn express our
 heartfelt gratitude for our Savior:
@@ -227,7 +223,7 @@ _And trust in his redeeming blood,_
 _And try his works to do._
 
 I repeat our Lord's ageless admonition, "If ye love me, keep my commandments"
-([John 14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14)).
+([John 14:15](/scriptures/nt/john/14.15?lang=eng#14)).
 
 Innumerable blessings have been promised to those who are faithful and
 obedient to God's laws. Once a person is true and obedient to the light and
@@ -242,7 +238,7 @@ all our might, with all our strength, and with the very best of our
 intelligence.
 
 Our Savior instructs us, "Thy vows shall be offered up in righteousness on all
-days and at all times" ([D&amp;C 59:11](https://www.lds.org/scriptures/dc-
+days and at all times" ([D&amp;C 59:11](/scriptures/dc-
 testament/dc/59.11?lang=eng#10)).
 
 If we could feel or were sensitive even in the slightest to the matchless love
@@ -264,6 +260,8 @@ circle of those who have heard of and believed his precious words uttered in
 the Garden of Gethsemane, his last night in mortality: "And this is life
 eternal," he said, "that they might know thee the only true God, and Jesus
 Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)), to which I add
-my witness in his holy name, amen.
+17:3](/scriptures/nt/john/17.3?lang=eng#2)), to which I add my witness in his
+holy name, amen.
+
+## References
 

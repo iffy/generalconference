@@ -45,10 +45,9 @@ oranges, in another vegetables or wheat--even a variety of staples, that the
 storehouses might be filled and the elderly and needy supplied. The Lord
 provided the way when he declared, "And the storehouse shall be kept by the
 consecrations of the church; and widows and orphans shall be provided for, as
-also the poor." ([D&amp;C 83:6](https://www.lds.org/scriptures/dc-
-testament/dc/83.6?lang=eng#5).) Then the reminder, "But it must needs be done
-in mine own way." ([D&amp;C 104:16](https://www.lds.org/scriptures/dc-
-testament/dc/104.16?lang=eng#15).)
+also the poor." ([D&amp;C 83:6](/scriptures/dc-testament/dc/83.6?lang=eng#5).)
+Then the reminder, "But it must needs be done in mine own way." ([D&amp;C
+104:16](/scriptures/dc-testament/dc/104.16?lang=eng#15).)
 
 In the vicinity where I lived and served, we operated a poultry project. Most
 of the time it was an efficiently operated project supplying to the storehouse
@@ -102,10 +101,8 @@ upon the earth.
 her house, did eat many days.
 
 "And the barrel of meal wasted not, neither did the cruse of oil fail." ([1
-Kgs. 17:9-11,
-13-16](https://www.lds.org/scriptures/ot/1-kgs/17.9-11%2C13-16?lang=eng#8).)
-This is the faith that has ever motivated and inspired the welfare plan of the
-Lord.
+Kgs. 17:9-11, 13-16](/scriptures/ot/1-kgs/17.9-11,13-16?lang=eng#8).) This is
+the faith that has ever motivated and inspired the welfare plan of the Lord.
 
 In response to the second question, "How is your welfare plan financed?" one
 needs but to describe the fast offering principle. The prophet Isaiah
@@ -124,7 +121,7 @@ say, Here I am. ...
 "And the Lord shall guide thee continually, and satisfy thy soul in drought: ...
 and thou shalt be like a watered garden, and like a spring of water, whose
 waters fail not." ([Isa. 58:7-9,
-11](https://www.lds.org/scriptures/ot/isa/58.7-9%2C11?lang=eng#6).)
+11](/scriptures/ot/isa/58.7-9,11?lang=eng#6).)
 
 Guided by this principle, in a plan outlined and taught by inspired prophets
 of God, Latter-day Saints fast one day each month and contribute generously to
@@ -156,8 +153,7 @@ the Lord. Their smiles were more frequent, their pace more eager, their very
 souls more subdued. Perhaps now they were marching to the beat of a different
 drummer; perhaps now they better understood the classic passage, "Inasmuch as
 ye have done it unto one of the least of these my brethren, ye have done it
-unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+unto me." ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 To the third and final question, "What prompts such devotion on the part of
 every worker?" the answer can be stated simply: An individual testimony of the
@@ -201,8 +197,7 @@ love reigned triumphant.
 
 All who participated in this moving drama of real life had discovered a new
 and personal appreciation of the Master's teaching, "It is more blessed to
-give than to receive." ([Acts
-20:35](https://www.lds.org/scriptures/nt/acts/20.35?lang=eng#34).)
+give than to receive." ([Acts 20:35](/scriptures/nt/acts/20.35?lang=eng#34).)
 
 To all within the sound of my voice I declare that the welfare plan of The
 Church of Jesus Christ of Latter-day Saints is inspired of Almighty God.
@@ -211,4 +206,6 @@ and sincere invitation: Come to Salt Lake City and visit Welfare Square. Your
 eyes will glow a little brighter, your heart will beat a little faster, and
 life itself will acquire a new depth of meaning. May such be your experience,
 I pray, in the name of Jesus Christ. Amen.
+
+## References
 

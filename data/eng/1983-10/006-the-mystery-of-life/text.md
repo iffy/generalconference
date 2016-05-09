@@ -122,12 +122,12 @@ _earn_ them. In that way sacred things are hidden from the insincere.
 Of the many verses revealing this doctrine, I will quote two short phrases
 from the testimony of John in the ninety-third section of the Doctrine and
 Covenants. The first, speaking of Christ, says plainly, "He was in the
-beginning, before the world was." ([D&amp;C
-93:7](https://www.lds.org/scriptures/dc-testament/dc/93.7?lang=eng#6).)
+beginning, before the world was." ([D&amp;C 93:7](/scriptures/dc-
+testament/dc/93.7?lang=eng#6).)
 
 And the other, referring to us, says with equal clarity, "Ye were also in the
-beginning with the Father." ([D&amp;C 93:23](https://www.lds.org/scriptures
-/dc-testament/dc/93.23?lang=eng#22).)
+beginning with the Father." ([D&amp;C 93:23](/scriptures/dc-
+testament/dc/93.23?lang=eng#22).)
 
 Essential facts about our premortal life have been revealed. Although they are
 sketchy, they unravel the mystery of life.
@@ -216,8 +216,7 @@ Nephites and the Lamanites many had become _hardened,_ because of the
 exceedingly great length of the war; and many were _softened_ because of their
 afflictions, insomuch that they did humble themselves before God, even in the
 depth of humility." ([Alma
-62:39-41](https://www.lds.org/scriptures/bofm/alma/62.39-41?lang=eng#38);
-italics added.)
+62:39-41](/scriptures/bofm/alma/62.39-41?lang=eng#38); italics added.)
 
 Surely you know some whose lives have been filled with adversity who have been
 mellowed and strengthened and refined by it, while others have come away from
@@ -272,9 +271,10 @@ of men would fade away.
 We have cause to rejoice and we do rejoice, even celebrate.
 
 "The glory of God is intelligence, or, in other words, light and truth."
-([D&amp;C 93:36](https://www.lds.org/scriptures/dc-
-testament/dc/93.36?lang=eng#35).)
+([D&amp;C 93:36](/scriptures/dc-testament/dc/93.36?lang=eng#35).)
 
 God bless us that we and all who will hear His message can celebrate the
 Light! Of him I bear witness, in the name of Jesus Christ, amen.
+
+## References
 

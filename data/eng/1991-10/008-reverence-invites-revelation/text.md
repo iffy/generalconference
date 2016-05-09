@@ -2,38 +2,35 @@
 
 A testimony of the gospel of Jesus Christ, a witness that the Book of Mormon
 is true, comes in a delicate, refined spiritual communication. It is described
-in the scriptures as light ([D&amp;C 88:11, 67](https://www.lds.org/scriptures
-/dc-testament/dc/88.11%2C67?lang=eng#10)), as burning in the bosom. It is best
+in the scriptures as light ([D&amp;C 88:11, 67](/scriptures/dc-
+testament/dc/88.11,67?lang=eng#10)), as burning in the bosom. It is best
 described as a _feeling._ ([1 Ne.
-17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44).)
+17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44).)
 
 Ordinarily a testimony comes when we seek for it with a sincere heart and real
-intent. ([Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3).) "If thou
-shalt ask, thou shalt receive revelation upon revelation, knowledge upon
-knowledge, that thou mayest know the mysteries and peaceable things--that
-which bringeth joy, that which bringeth life eternal." ([D&amp;C
-42:61](https://www.lds.org/scriptures/dc-testament/dc/42.61?lang=eng#60).)
+intent. ([Moro. 10:4](/scriptures/bofm/moro/10.4?lang=eng#3).) "If thou shalt
+ask, thou shalt receive revelation upon revelation, knowledge upon knowledge,
+that thou mayest know the mysteries and peaceable things--that which bringeth
+joy, that which bringeth life eternal." ([D&amp;C 42:61](/scriptures/dc-
+testament/dc/42.61?lang=eng#60).)
 
 No message appears in scripture more times, in more ways than, "Ask, and ye
-shall receive." ([Matt.
-21:22](https://www.lds.org/scriptures/nt/matt/21.22?lang=eng#21); [James
-4:3](https://www.lds.org/scriptures/nt/james/4.3?lang=eng#2); [1 Jn.
-3:22](https://www.lds.org/scriptures/nt/1-jn/3.22?lang=eng#21); [1 Ne.
-15:11](https://www.lds.org/scriptures/bofm/1-ne/15.11?lang=eng#10); [Enos
-1:15](https://www.lds.org/scriptures/bofm/enos/1.15?lang=eng#14); [Mosiah
-4:21](https://www.lds.org/scriptures/bofm/mosiah/4.21?lang=eng#20); [D&amp;C
-4:7](https://www.lds.org/scriptures/dc-testament/dc/4.7?lang=eng#6); and
-[Moses 6:52](https://www.lds.org/scriptures/pgp/moses/6.52?lang=eng#51) are
-examples.) While we may invite this communication, it can _never_ be forced!
-If we try to force it, we may be deceived.
+shall receive." ([Matt. 21:22](/scriptures/nt/matt/21.22?lang=eng#21); [James
+4:3](/scriptures/nt/james/4.3?lang=eng#2); [1 Jn.
+3:22](/scriptures/nt/1-jn/3.22?lang=eng#21); [1 Ne.
+15:11](/scriptures/bofm/1-ne/15.11?lang=eng#10); [Enos
+1:15](/scriptures/bofm/enos/1.15?lang=eng#14); [Mosiah
+4:21](/scriptures/bofm/mosiah/4.21?lang=eng#20); [D&amp;C 4:7](/scriptures/dc-
+testament/dc/4.7?lang=eng#6); and [Moses
+6:52](/scriptures/pgp/moses/6.52?lang=eng#51) are examples.) While we may
+invite this communication, it can _never_ be forced! If we try to force it, we
+may be deceived.
 
 Enos, who was "struggling in the spirit," said, "Behold, the voice of the Lord
-came into my _mind._" ([Enos
-1:10](https://www.lds.org/scriptures/bofm/enos/1.10?lang=eng#9); italics
-added.) While this spiritual communication comes into the _mind,_ it comes
-more as a feeling, an impression, than simply as a thought. Unless you have
-experienced it, it is very difficult to describe that delicate process.
+came into my _mind._" ([Enos 1:10](/scriptures/bofm/enos/1.10?lang=eng#9);
+italics added.) While this spiritual communication comes into the _mind,_ it
+comes more as a feeling, an impression, than simply as a thought. Unless you
+have experienced it, it is very difficult to describe that delicate process.
 
 The witness is not communicated through the intellect alone, however bright
 the intellect may be.
@@ -41,7 +38,7 @@ the intellect may be.
 "The natural man," Paul told us, "receiveth not the things of the Spirit of
 God: for they are foolishness unto him: neither can he know them, because they
 are spiritually discerned." ([1 Cor.
-2:13-14](https://www.lds.org/scriptures/nt/1-cor/2.13-14?lang=eng#12).)
+2:13-14](/scriptures/nt/1-cor/2.13-14?lang=eng#12).)
 
 Recently the Council of the First Presidency and Quorum of Twelve Apostles
 issued a statement alerting members of the Church to the dangers of
@@ -58,9 +55,8 @@ spirit.
 A testimony is profoundly personal, and occurs in response to very private
 prayers and pleadings. Nevertheless, the Lord has told us, "Where two or three
 are gathered together in my name, there am I in the midst of them." ([Matt.
-18:20](https://www.lds.org/scriptures/nt/matt/18.20?lang=eng#19); see also
-[D&amp;C 6:32](https://www.lds.org/scriptures/dc-
-testament/dc/6.32?lang=eng#31).)
+18:20](/scriptures/nt/matt/18.20?lang=eng#19); see also [D&amp;C
+6:32](/scriptures/dc-testament/dc/6.32?lang=eng#31).)
 
 There is safety in learning doctrine in gatherings which are sponsored by
 proper authority. Some members, even some who have made covenants in the
@@ -70,14 +66,14 @@ inspiration concerning the fulfillment of prophecies than do ward or stake
 leaders or the General Authorities of the Church. Know this: There are
 counterfeit revelations which, we are warned, "if possible ... shall deceive the
 very elect, who are the elect according to the covenant." ([JS--M
-1:22](https://www.lds.org/scriptures/pgp/js-m/1.22?lang=eng#21).)
+1:22](/scriptures/pgp/js-m/1.22?lang=eng#21).)
 
 The Lord commanded: "Assemble yourselves together, and organize yourselves. ...
 Continue in prayer and fasting. ... Teach one another the doctrine of the
 kingdom. ... And my grace shall attend you, that you may be instructed more
 perfectly in theory, in principle, in doctrine, in the law of the gospel, in
 all things that pertain unto the kingdom of God, that are expedient for you to
-understand." ([D&amp;C 88:74-80](https://www.lds.org/scriptures/dc-
+understand." ([D&amp;C 88:74-80](/scriptures/dc-
 testament/dc/88.74-80?lang=eng#73).)
 
 When we meet to learn the doctrines of the gospel, it should be in a spirit of
@@ -86,27 +82,23 @@ wish to speak.
 
 Inspiration comes more easily in peaceful settings. Such words as _quiet,
 still, peaceable, Comforter_ abound in the scriptures: "Be _still,_ and know
-that I am God." ([Ps.
-46:10](https://www.lds.org/scriptures/ot/ps/46.10?lang=eng#9); italics added.)
-And the promise, "You shall receive my Spirit, the Holy Ghost, even the
-Comforter, which shall teach you the _peaceable_ things of the kingdom."
-([D&amp;C 36:2](https://www.lds.org/scriptures/dc-
-testament/dc/36.2?lang=eng#1); italics added.)
+that I am God." ([Ps. 46:10](/scriptures/ot/ps/46.10?lang=eng#9); italics
+added.) And the promise, "You shall receive my Spirit, the Holy Ghost, even
+the Comforter, which shall teach you the _peaceable_ things of the kingdom."
+([D&amp;C 36:2](/scriptures/dc-testament/dc/36.2?lang=eng#1); italics added.)
 
 Elijah felt a great wind, an earthquake, a fire. The Lord was not in any of
 them; then came "a still small voice." ([1 Kgs.
-19:12](https://www.lds.org/scriptures/ot/1-kgs/19.12?lang=eng#11).)
+19:12](/scriptures/ot/1-kgs/19.12?lang=eng#11).)
 
 Helaman said of that voice of revelation, "It was not a voice of thunder,
 neither was it a voice of a great tumultuous noise, but behold, it was a still
 voice of perfect mildness, as if it had been a whisper, and it did pierce even
-to the very soul." ([Hel.
-5:30](https://www.lds.org/scriptures/bofm/hel/5.30?lang=eng#29).)
+to the very soul." ([Hel. 5:30](/scriptures/bofm/hel/5.30?lang=eng#29).)
 
 It was Nephi who reminded his brothers that an angel "hath spoken unto you in
 a still small voice, but ye were past _feeling,_ that ye could not _feel_ his
-words." ([1 Ne.
-17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44); italics
+words." ([1 Ne. 17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44); italics
 added.)
 
 For the past several years we have watched patterns of reverence and
@@ -188,7 +180,7 @@ of our worship. We must not neglect the hymns nor the exalted anthems of the
 Restoration. Read the First Presidency's introduction in the hymnbook. The
 Lord said, "My soul delighteth in the song of the heart; yea, the song of the
 righteous is a prayer unto me, and it shall be answered with a blessing upon
-their heads." ([D&amp;C 25:12](https://www.lds.org/scriptures/dc-
+their heads." ([D&amp;C 25:12](/scriptures/dc-
 testament/dc/25.12?lang=eng#11).) Do not let our sacred music slip away from
 us, nor allow secular music to replace it.
 
@@ -243,9 +235,11 @@ brought into the light, but must perish in the dark.
 
 "For behold, again I say unto you that if ye will enter in by the way, and
 receive the Holy Ghost, it will show unto you all things what ye should do."
-([2 Ne. 32:3-5](https://www.lds.org/scriptures/bofm/2-ne/32.3-5?lang=eng#2).)
+([2 Ne. 32:3-5](/scriptures/bofm/2-ne/32.3-5?lang=eng#2).)
 
 And in the spirit of reverence, I bear testimony that God lives, that Jesus is
 the Christ, that the Holy Ghost--our comforter, our teacher--will come to us
 if we will maintain a spirit of reverence, in the name of Jesus Christ, amen.
+
+## References
 

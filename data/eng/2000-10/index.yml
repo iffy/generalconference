@@ -1,427 +1,349 @@
 items:
-- article_id: PD10028166_000_003
-  item: '002'
-  key: 002-a-great-family-in-reverence-and-worship
+- item: 1
+  key: 000-a-great-family-in-reverence-and-worship
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: a-great-family-in-reverence-and-worship
   speaker: Gordon B. Hinckley
   title: A Great Family in Reverence and Worship
   url: https://www.lds.org/general-conference/2000/10/a-great-family-in-reverence-and-worship?lang=eng
   year: 2000
-- article_id: PD10028166_000_004
-  item: '003'
-  key: 003-the-covenant-of-baptism-to-be-in-the-kingdom-and-of-the-kingdom
+- item: 2
+  key: 001-the-covenant-of-baptism-to-be-in-the-kingdom-and-of-the-kingdom
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-covenant-of-baptism-to-be-in-the-kingdom-and-of-the-kingdom
   speaker: Robert D. Hales
-  title: 'The Covenant of Baptism: To Be in the Kingdom and of the Kingdom'
+  title: The Covenant of Baptism:To Be in the Kingdom and of the Kingdom
   url: https://www.lds.org/general-conference/2000/10/the-covenant-of-baptism-to-be-in-the-kingdom-and-of-the-kingdom?lang=eng
   year: 2000
-- article_id: PD10028166_000_005
-  item: '005'
-  key: 005-the-redemption-of-the-dead-and-the-testimony-of-jesus
+- item: 3
+  key: 002-the-redemption-of-the-dead-and-the-testimony-of-jesus
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-redemption-of-the-dead-and-the-testimony-of-jesus
   speaker: D. Todd Christofferson
   title: The Redemption of the Dead and the Testimony of Jesus
   url: https://www.lds.org/general-conference/2000/10/the-redemption-of-the-dead-and-the-testimony-of-jesus?lang=eng
   year: 2000
-- article_id: PD10028166_000_006
-  item: '006'
-  key: 006-come-and-see
+- item: 4
+  key: 003-come-and-see
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: come-and-see
   speaker: Alexander B. Morrison
-  title: "\u201CCome and See\u201D"
+  title: '"Come and See"'
   url: https://www.lds.org/general-conference/2000/10/come-and-see?lang=eng
   year: 2000
-- article_id: PD10028166_000_007
-  item: '007'
-  key: 007-testimony
+- item: 5
+  key: 004-testimony
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: testimony
   speaker: Loren C. Dunn
   title: Testimony
   url: https://www.lds.org/general-conference/2000/10/testimony?lang=eng
   year: 2000
-- article_id: PD10028166_000_008
-  item: 009
-  key: 009-the-joy-of-womanhood
+- item: 6
+  key: 005-the-joy-of-womanhood
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-joy-of-womanhood
   speaker: Margaret D. Nadauld
   title: The Joy of Womanhood
   url: https://www.lds.org/general-conference/2000/10/the-joy-of-womanhood?lang=eng
   year: 2000
-- article_id: PD10028166_000_009
-  item: '010'
-  key: 010-living-by-scriptural-guidance
+- item: 7
+  key: 006-living-by-scriptural-guidance
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: living-by-scriptural-guidance
   speaker: Russell M. Nelson
   title: Living by Scriptural Guidance
   url: https://www.lds.org/general-conference/2000/10/living-by-scriptural-guidance?lang=eng
   year: 2000
-- article_id: PD10028166_000_010
-  item: '012'
-  key: 012-be-a-strong-link
+- item: 8
+  key: 007-be-a-strong-link
   month: 10
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: be-a-strong-link
   speaker: David B. Haight
   title: Be a Strong Link
   url: https://www.lds.org/general-conference/2000/10/be-a-strong-link?lang=eng
   year: 2000
-- article_id: PD10028166_000_011
-  item: '016'
-  key: 016-the-sustaining-of-church-officers
+- item: 9
+  key: 008-the-sustaining-of-church-officers
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-sustaining-of-church-officers
   speaker: James E. Faust
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2000/10/the-sustaining-of-church-officers?lang=eng
   year: 2000
-- article_id: PD10028166_000_012
-  item: '017'
-  key: 017-pure-testimony
+- item: 10
+  key: 009-pure-testimony
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: pure-testimony
   speaker: Joseph B. Wirthlin
   title: Pure Testimony
   url: https://www.lds.org/general-conference/2000/10/pure-testimony?lang=eng
   year: 2000
-- article_id: PD10028166_000_013
-  item: 018
-  key: 018-the-path-to-peace-and-joy
+- item: 11
+  key: 010-the-path-to-peace-and-joy
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-path-to-peace-and-joy
   speaker: Richard G. Scott
   title: The Path to Peace and Joy
   url: https://www.lds.org/general-conference/2000/10/the-path-to-peace-and-joy?lang=eng
   year: 2000
-- article_id: PD10028166_000_014
-  item: 019
-  key: 019-cultivate-righteous-traditions
+- item: 12
+  key: 011-cultivate-righteous-traditions
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: cultivate-righteous-traditions
   speaker: Donald L. Hallstrom
   title: Cultivate Righteous Traditions
   url: https://www.lds.org/general-conference/2000/10/cultivate-righteous-traditions?lang=eng
   year: 2000
-- article_id: PD10028166_000_015
-  item: '021'
-  key: 021-one-by-one
+- item: 13
+  key: 012-one-by-one
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: one-by-one
   speaker: Ronald A. Rasband
   title: One by One
   url: https://www.lds.org/general-conference/2000/10/one-by-one?lang=eng
   year: 2000
-- article_id: PD10028166_000_016
-  item: '022'
-  key: 022-seeking-the-spirit-of-god
+- item: 14
+  key: 013-seeking-the-spirit-of-god
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: seeking-the-spirit-of-god
   speaker: Douglas L. Callister
   title: Seeking the Spirit of God
   url: https://www.lds.org/general-conference/2000/10/seeking-the-spirit-of-god?lang=eng
   year: 2000
-- article_id: PD10028166_000_017
-  item: '023'
-  key: 023-the-challenge-to-become
+- item: 15
+  key: 014-the-challenge-to-become
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-challenge-to-become
   speaker: Dallin H. Oaks
   title: The Challenge to Become
   url: https://www.lds.org/general-conference/2000/10/the-challenge-to-become?lang=eng
   year: 2000
-- article_id: PD10028166_000_018
-  item: '025'
-  key: 025-the-tugs-and-pulls-of-the-world
+- item: 16
+  key: 015-the-tugs-and-pulls-of-the-world
   month: 10
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-tugs-and-pulls-of-the-world
   speaker: Neal A. Maxwell
   title: The Tugs and Pulls of the World
   url: https://www.lds.org/general-conference/2000/10/the-tugs-and-pulls-of-the-world?lang=eng
   year: 2000
-- article_id: PD10028166_000_019
-  item: 029
-  key: 029-sanctify-yourselves
+- item: 17
+  key: 016-sanctify-yourselves
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: sanctify-yourselves
   speaker: Jeffrey R. Holland
-  title: "\u201CSanctify Yourselves\u201D"
+  title: '"Sanctify Yourselves"'
   url: https://www.lds.org/general-conference/2000/10/sanctify-yourselves?lang=eng
   year: 2000
-- article_id: PD10028166_000_020
-  item: '030'
-  key: 030-living-prophets-seers-and-revelators
+- item: 18
+  key: 017-living-prophets-seers-and-revelators
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: living-prophets-seers-and-revelators
   speaker: Dennis B. Neuenschwander
   title: Living Prophets, Seers, and Revelators
   url: https://www.lds.org/general-conference/2000/10/living-prophets-seers-and-revelators?lang=eng
   year: 2000
-- article_id: PD10028166_000_021
-  item: '031'
-  key: 031-satans-bag-of-snipes
+- item: 19
+  key: 018-satans-bag-of-snipes
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: satans-bag-of-snipes
   speaker: Richard C. Edgley
-  title: "Satan\u2019s Bag of Snipes"
+  title: Satan's Bag of Snipes
   url: https://www.lds.org/general-conference/2000/10/satans-bag-of-snipes?lang=eng
   year: 2000
-- article_id: PD10028166_000_022
-  item: '032'
-  key: 032-the-enemy-within
+- item: 20
+  key: 019-the-enemy-within
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-enemy-within
   speaker: James E. Faust
   title: The Enemy Within
   url: https://www.lds.org/general-conference/2000/10/the-enemy-within?lang=eng
   year: 2000
-- article_id: PD10028166_000_023
-  item: '034'
-  key: 034-the-call-to-serve
+- item: 21
+  key: 020-the-call-to-serve
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-call-to-serve
   speaker: Thomas S. Monson
   title: The Call to Serve
   url: https://www.lds.org/general-conference/2000/10/the-call-to-serve?lang=eng
   year: 2000
-- article_id: PD10028166_000_024
-  item: '035'
-  key: 035-great-shall-be-the-peace-of-thy-children
+- item: 22
+  key: 021-great-shall-be-the-peace-of-thy-children
   month: 10
-  session_id: priesthood
   session_title: Priesthood Session
   slug: great-shall-be-the-peace-of-thy-children
   speaker: Gordon B. Hinckley
-  title: "\u201CGreat Shall Be the Peace of Thy Children\u201D"
+  title: '"Great Shall Be the Peace of Thy Children"'
   url: https://www.lds.org/general-conference/2000/10/great-shall-be-the-peace-of-thy-children?lang=eng
   year: 2000
-- article_id: PD10028166_000_025
-  item: '040'
-  key: 040-a-growing-testimony
+- item: 23
+  key: 022-a-growing-testimony
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-growing-testimony
   speaker: James E. Faust
   title: A Growing Testimony
   url: https://www.lds.org/general-conference/2000/10/a-growing-testimony?lang=eng
   year: 2000
-- article_id: PD10028166_000_026
-  item: '041'
-  key: 041-discipleship
+- item: 24
+  key: 023-discipleship
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: discipleship
   speaker: L. Tom Perry
   title: Discipleship
   url: https://www.lds.org/general-conference/2000/10/discipleship?lang=eng
   year: 2000
-- article_id: PD10028166_000_027
-  item: '042'
-  key: 042-lead-kindly-light
+- item: 25
+  key: 024-lead-kindly-light
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: lead-kindly-light
   speaker: Virginia U. Jensen
-  title: "\u201CLead, Kindly Light\u201D"
+  title: '"Lead, Kindly Light"'
   url: https://www.lds.org/general-conference/2000/10/lead-kindly-light?lang=eng
   year: 2000
-- article_id: PD10028166_000_028
-  item: '044'
-  key: 044-dedication-day
+- item: 26
+  key: 025-dedication-day
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: dedication-day
   speaker: Thomas S. Monson
   title: Dedication Day
   url: https://www.lds.org/general-conference/2000/10/dedication-day?lang=eng
   year: 2000
-- article_id: PD10028166_000_029
-  item: '045'
-  key: 045-this-great-millennial-year
+- item: 27
+  key: 026-this-great-millennial-year
   month: 10
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: this-great-millennial-year
   speaker: Gordon B. Hinckley
   title: This Great Millennial Year
   url: https://www.lds.org/general-conference/2000/10/this-great-millennial-year?lang=eng
   year: 2000
-- article_id: PD10028166_000_030
-  item: 049
-  key: 049-ye-are-the-temple-of-god
+- item: 28
+  key: 027-ye-are-the-temple-of-god
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: ye-are-the-temple-of-god
   speaker: Boyd K. Packer
-  title: "\u201CYe Are the Temple of God\u201D"
+  title: '"Ye Are the Temple of God"'
   url: https://www.lds.org/general-conference/2000/10/ye-are-the-temple-of-god?lang=eng
   year: 2000
-- article_id: PD10028166_000_031
-  item: '050'
-  key: 050-now-is-the-time
+- item: 29
+  key: 028-now-is-the-time
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: now-is-the-time
   speaker: M. Russell Ballard
   title: Now Is the Time
   url: https://www.lds.org/general-conference/2000/10/now-is-the-time?lang=eng
   year: 2000
-- article_id: PD10028166_000_032
-  item: '051'
-  key: 051-retaining-a-remission-of-sin
+- item: 30
+  key: 029-retaining-a-remission-of-sin
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: retaining-a-remission-of-sin
-  speaker: Elder Keith Crockett
+  speaker: Keith Crockett
   title: Retaining a Remission of Sin
   url: https://www.lds.org/general-conference/2000/10/retaining-a-remission-of-sin?lang=eng
   year: 2000
-- article_id: PD10028166_000_033
-  item: '053'
-  key: 053-the-blessing-of-keeping-the-sabbath-day-holy
+- item: 31
+  key: 030-the-blessing-of-keeping-the-sabbath-day-holy
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-blessing-of-keeping-the-sabbath-day-holy
   speaker: H. Aldridge Gillespie
   title: The Blessing of Keeping the Sabbath Day Holy
   url: https://www.lds.org/general-conference/2000/10/the-blessing-of-keeping-the-sabbath-day-holy?lang=eng
   year: 2000
-- article_id: PD10028166_000_034
-  item: '054'
-  key: 054-sharing-the-gospel
+- item: 32
+  key: 031-sharing-the-gospel
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: sharing-the-gospel
   speaker: Robert C. Oaks
   title: Sharing the Gospel
   url: https://www.lds.org/general-conference/2000/10/sharing-the-gospel?lang=eng
   year: 2000
-- article_id: PD10028166_000_035
-  item: '055'
-  key: 055-freedom-from-or-freedom-to
+- item: 33
+  key: 032-freedom-from-or-freedom-to
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: freedom-from-or-freedom-to
   speaker: F. Enzio Busche
-  title: "Freedom \u201Cfrom\u201D or Freedom \u201Cto\u201D"
+  title: Freedom "from" or Freedom "to"
   url: https://www.lds.org/general-conference/2000/10/freedom-from-or-freedom-to?lang=eng
   year: 2000
-- article_id: PD10028166_000_036
-  item: '056'
-  key: 056-write-upon-my-heart
+- item: 34
+  key: 033-write-upon-my-heart
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: write-upon-my-heart
   speaker: Henry B. Eyring
-  title: "\u201CWrite upon My Heart\u201D"
+  title: '"Write upon My Heart"'
   url: https://www.lds.org/general-conference/2000/10/write-upon-my-heart?lang=eng
   year: 2000
-- article_id: PD10028166_000_037
-  item: 058
-  key: 058-an-humble-and-a-contrite-heart
+- item: 35
+  key: 034-an-humble-and-a-contrite-heart
   month: 10
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: an-humble-and-a-contrite-heart
   speaker: Gordon B. Hinckley
-  title: "\u201CAn Humble and a Contrite Heart\u201D"
+  title: '"An Humble and a Contrite Heart"'
   url: https://www.lds.org/general-conference/2000/10/an-humble-and-a-contrite-heart?lang=eng
   year: 2000
-- article_id: PD10028166_000_038
-  item: '061'
-  key: 061-we-are-instruments-in-the-hands-of-god
+- item: 36
+  key: 035-we-are-instruments-in-the-hands-of-god
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: we-are-instruments-in-the-hands-of-god
-  speaker: Mary Ellen Smoot
+  speaker: Mary Ellen W. Smoot
   title: We Are Instruments in the Hands of God
   url: https://www.lds.org/general-conference/2000/10/we-are-instruments-in-the-hands-of-god?lang=eng
   year: 2000
-- article_id: PD10028166_000_039
-  item: '062'
-  key: 062-ripples
+- item: 37
+  key: 036-ripples
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: ripples
   speaker: Virginia U. Jensen
   title: Ripples
   url: https://www.lds.org/general-conference/2000/10/ripples?lang=eng
   year: 2000
-- article_id: PD10028166_000_040
-  item: '064'
-  key: 064-stand-tall-and-stand-together
+- item: 38
+  key: 037-stand-tall-and-stand-together
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: stand-tall-and-stand-together
   speaker: Sheri L. Dew
   title: Stand Tall and Stand Together
   url: https://www.lds.org/general-conference/2000/10/stand-tall-and-stand-together?lang=eng
   year: 2000
-- article_id: PD10028166_000_041
-  item: '066'
-  key: 066-your-greatest-challenge-mother
+- item: 39
+  key: 038-your-greatest-challenge-mother
   month: 10
-  session_id: relief-society
   session_title: General Relief Society Meeting
   slug: your-greatest-challenge-mother
   speaker: Gordon B. Hinckley

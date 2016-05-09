@@ -2,9 +2,8 @@
 
 "For the mountains shall depart, and the hills be removed; but my kindness
 shall not depart from thee, neither shall the covenant of my peace be removed,
-saith the Lord" ([Isa.
-54:10](https://www.lds.org/scriptures/ot/isa/54.10?lang=eng#9); see also [3
-Ne. 22:10](https://www.lds.org/scriptures/bofm/3-ne/22.10?lang=eng#9)).
+saith the Lord" ([Isa. 54:10](/scriptures/ot/isa/54.10?lang=eng#9); see also
+[3 Ne. 22:10](/scriptures/bofm/3-ne/22.10?lang=eng#9)).
 
 Such scriptural language overwhelms my reasoning and floods me again with the
 reality of God's love and of our importance to him. Did he speak to our
@@ -19,8 +18,7 @@ courage to move forward on our journey.
 
 "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will
 strengthen thee; yea, I will help thee; yea, I will uphold thee with the right
-hand of my righteousness" ([Isa.
-41:10](https://www.lds.org/scriptures/ot/isa/41.10?lang=eng#9)).
+hand of my righteousness" ([Isa. 41:10](/scriptures/ot/isa/41.10?lang=eng#9)).
 
 Of the many blessings that have come to me through my knowledge of Christ's
 gospel, I am most grateful for the doctrine that teaches us that our lives
@@ -62,8 +60,7 @@ but in me your joy is full.
 the soul, and for the life of the soul.
 
 "And seek the face of the Lord always, that in patience ye may possess your
-souls, and ye shall have eternal life" ([D&amp;C
-101:36-38](https://www.lds.org/scriptures/dc-
+souls, and ye shall have eternal life" ([D&amp;C 101:36-38](/scriptures/dc-
 testament/dc/101.36-38?lang=eng#35)).
 
 It is a response of the soul when we sense and accept the loving promises that
@@ -73,7 +70,7 @@ already done for us:
 "Thus saith God the Lord, he that created the heavens, and stretched them out;
 he that spread forth the earth, and that which cometh out of it; he that
 giveth breath unto the people upon it, and spirit to them that walk therein"
-([Isa. 42:5](https://www.lds.org/scriptures/ot/isa/42.5?lang=eng#4)).
+([Isa. 42:5](/scriptures/ot/isa/42.5?lang=eng#4)).
 
 Then Isaiah records the Lord's soul-nourishing tenderness and the loving-
 kindness of his assurances:
@@ -86,12 +83,10 @@ Gentiles. ...
 before they spring forth I tell you of them.
 
 "Sing unto the Lord a new song, and his praise from the end of the earth"
-([Isa. 42:6,
-9-10](https://www.lds.org/scriptures/ot/isa/42.6%2C9-10?lang=eng#5)).
+([Isa. 42:6, 9-10](/scriptures/ot/isa/42.6,9-10?lang=eng#5)).
 
 The book of Alma teaches that the song he has asked us to sing is a song of
-redeeming love (see [Alma
-5:26](https://www.lds.org/scriptures/bofm/alma/5.26?lang=eng#25)).
+redeeming love (see [Alma 5:26](/scriptures/bofm/alma/5.26?lang=eng#25)).
 
 Later, when the Savior was asked in Palestine to designate the first and great
 commandment, he unhesitatingly said:
@@ -100,8 +95,7 @@ commandment, he unhesitatingly said:
 and with all thy mind. ...
 
 "And the second [commandment] is like unto it, Thou shalt love thy neighbour
-as thyself" ([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36)).
+as thyself" ([Matt. 22:37, 39](/scriptures/nt/matt/22.37,39?lang=eng#36)).
 
 These statements are both clear and comprehensive. They suggest the
 _beginning_ of how we can engage ourselves in his covenant. And surely, since
@@ -113,7 +107,7 @@ neither mock our sisters and brothers nor persecute _anyone._ Christ knew that
 for us to find any of those characteristics in ourselves would be onerous and
 would demand our great effort just to look. He said, "If thy hand or thy foot
 offend thee, cut them off, and cast them from thee" ([Matt.
-18:8](https://www.lds.org/scriptures/nt/matt/18.8?lang=eng#7)).
+18:8](/scriptures/nt/matt/18.8?lang=eng#7)).
 
 He was not suggesting our mutilation, but rather showing his awareness of how
 painful clearing ourselves of such offenses could be. When we have made the
@@ -125,13 +119,11 @@ that comes when we keep our part of that trust and honor him by seeking his
 Spirit and by living the best we can. We hear again:
 
 "My kindness shall not depart from thee, neither shall the covenant of my
-peace be removed" ([Isa.
-54:10](https://www.lds.org/scriptures/ot/isa/54.10?lang=eng#9); [3 Ne.
-22:10](https://www.lds.org/scriptures/bofm/3-ne/22.10?lang=eng#9)) and
-"Behold, I will lay thy stones with fair colors, and lay thy foundations with
-sapphires" ([3 Ne.
-22:11](https://www.lds.org/scriptures/bofm/3-ne/22.11?lang=eng#10); see also
-[Isa. 54:11](https://www.lds.org/scriptures/ot/isa/54.11?lang=eng#10)).
+peace be removed" ([Isa. 54:10](/scriptures/ot/isa/54.10?lang=eng#9); [3 Ne.
+22:10](/scriptures/bofm/3-ne/22.10?lang=eng#9)) and "Behold, I will lay thy
+stones with fair colors, and lay thy foundations with sapphires" ([3 Ne.
+22:11](/scriptures/bofm/3-ne/22.11?lang=eng#10); see also [Isa.
+54:11](/scriptures/ot/isa/54.11?lang=eng#10)).
 
 Such scriptural language rivets my attention. In the midst of a troubling
 world, the foundations I rely on come by my covenants with the Lord. They are
@@ -147,8 +139,7 @@ our eternal lives.
 children of Christ, his sons, and his daughters; for behold, this day he hath
 spiritually begotten you; for ye say that your hearts are changed through
 faith on his name; therefore, ye are born of him and have become his sons and
-his daughters" ([Mosiah
-5:7](https://www.lds.org/scriptures/bofm/mosiah/5.7?lang=eng#6)).
+his daughters" ([Mosiah 5:7](/scriptures/bofm/mosiah/5.7?lang=eng#6)).
 
 We are, then, because of his great love and because of our desire to be guided
 by his light, part of the family of Christ. Because of our covenants, we have
@@ -161,4 +152,6 @@ grateful for scriptural testaments and for my knowledge that Christ is alive
 and heads his church. I know he can be alive in each of us as we keep his
 commandments, and I say this humbly in the name of the Lord Jesus Christ,
 amen.
+
+## References
 

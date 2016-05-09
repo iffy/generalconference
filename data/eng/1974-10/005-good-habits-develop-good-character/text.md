@@ -37,7 +37,7 @@ commonplace routine of life. They are acquired by practice.
 
 Solomon the wise taught, "Train up a child in the way he should go: and when
 he is old, he will not depart from it." ([Prov.
-22:6](https://www.lds.org/scriptures/ot/prov/22.6?lang=eng#5).)
+22:6](/scriptures/ot/prov/22.6?lang=eng#5).)
 
 The good habits of a child's early training form the foundation for his future
 and sustain him in his later life. Parents, remember the Lord by revelation
@@ -80,7 +80,7 @@ assured they are the best he has."
 
 Lehi, an early American prophet, speaking to his people said, "Men are
 instructed sufficiently that they know good from evil." ([2 Ne.
-2:5](https://www.lds.org/scriptures/bofm/2-ne/2.5?lang=eng#4).)
+2:5](/scriptures/bofm/2-ne/2.5?lang=eng#4).)
 
 In this mortal life we have two choices: the good, which is the desire of our
 Heavenly Father; or the evil, which is Satan's plan and constant persuasion.
@@ -100,8 +100,7 @@ to aid or perpetuate his cause by yielding to his enticements to sin.
 
 Habits are subject to change and improvement, for the Lord has said, "For the
 power is in them [meaning people], wherein they are agents unto themselves."
-([D&amp;C 58:28](https://www.lds.org/scriptures/dc-
-testament/dc/58.28?lang=eng#27).)
+([D&amp;C 58:28](/scriptures/dc-testament/dc/58.28?lang=eng#27).)
 
 One cannot truthfully say he is confirmed in his bad habits, sins, or
 weaknesses to the point that they cannot be thrown off and repented of. The
@@ -199,7 +198,7 @@ accomplish those things that yield true personal satisfaction and build peace
 and happiness in our hearts. We will have joy eternally, possessing a treasure
 to be much desired and sought after, for the Lord gives this assurance:
 "Inasmuch as men do good they shall in nowise lose their reward." ([D&amp;C
-58:28](https://www.lds.org/scriptures/dc-testament/dc/58.28?lang=eng#27).)
+58:28](/scriptures/dc-testament/dc/58.28?lang=eng#27).)
 
 It all starts with a single step--we decide that _we can do it._
 
@@ -211,4 +210,6 @@ in the lives of people. The counsel quoted earlier given by our beloved
 prophet-leader, President Spencer W. Kimball, is very wise, timely, and
 needful for us to follow. This I testify to in the name of Jesus Christ our
 Lord. Amen.
+
+## References
 

@@ -21,7 +21,7 @@ The great prophet Mormon taught: "Wherefore, all things which are good cometh
 of God; and that which is evil cometh of the devil; for the devil is an enemy
 unto God, and fighteth against him continually, and inviteth and enticeth to
 sin, and to do that which is evil continually." ([Moro.
-7:12](https://www.lds.org/scriptures/bofm/moro/7.12?lang=eng#11).)
+7:12](/scriptures/bofm/moro/7.12?lang=eng#11).)
 
 Based on my experience, I believe that if the Saints and missionaries are to
 build up the Church at the much faster rate that President Kimball has called
@@ -56,8 +56,7 @@ Mormon is the word of God.
 
 I like these words of Nephi: "Wherefore, I said unto you, feast upon the words
 of Christ; for behold, the words of Christ will tell you all things what ye
-should do." ([2 Ne.
-32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2).) Young
+should do." ([2 Ne. 32:3](/scriptures/bofm/2-ne/32.3?lang=eng#2).) Young
 people, why not make the best investment of your life by spending more of your
 time now to study and learn for yourself the ways of the Lord? If you will do
 this now you will arrive in the mission field with the Spirit of the Lord as
@@ -180,4 +179,6 @@ to share the gospel truths with all of our Heavenly Father's children. May the
 Lord bless each one of us that our ears may hear and our eyes might be opened,
 that together we may learn to live the gospel and find the joy that only the
 gospel can give to us, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

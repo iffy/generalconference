@@ -11,10 +11,10 @@ service to the Lord.
 
 Physical ills are a reality of life, but in spite of them the scriptures
 declare, "Men are, that they might have joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)). The Lord
-has affirmed this statement by providing us with revealed instructions
-concerning our health, which, if followed, will increase both the length of
-our life and our joy in it.
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)). The Lord has affirmed this
+statement by providing us with revealed instructions concerning our health,
+which, if followed, will increase both the length of our life and our joy in
+it.
 
 Among the most familiar of the health scriptures is the eighty-ninth section
 of the Doctrine and Covenants, wherein the Lord specifies both substances that
@@ -30,8 +30,8 @@ that if used to excess or in combination with other substances can have
 dangerous side effects--even dependency or addiction.
 
 A large portion of the Word of Wisdom is devoted specifically to the wholesome
-foods that are "ordained for ... [the] use of man" ([D&amp;C
-89:10](https://www.lds.org/scriptures/dc-testament/dc/89.10?lang=eng#9)).
+foods that are "ordained for ... [the] use of man" ([D&amp;C 89:10](/scriptures
+/dc-testament/dc/89.10?lang=eng#9)).
 
 Relief Society miniclasses can teach women how to prepare and serve wholesome
 food in appealing ways.
@@ -44,9 +44,8 @@ prepares and serves them with great culinary skill. Guests leave her table
 with increased appreciation for good, healthful foods.
 
 The Lord promises that if we keep these commandments we "shall _run_ and not
-be weary, and shall _walk_ and not faint" ([D&amp;C
-89:20](https://www.lds.org/scriptures/dc-testament/dc/89.20?lang=eng#19);
-italics added).
+be weary, and shall _walk_ and not faint" ([D&amp;C 89:20](/scriptures/dc-
+testament/dc/89.20?lang=eng#19); italics added).
 
 The Lord _might_ be making us aware of another law of health--the need of
 proper exercise. Exercise such as walking and running and other forms of
@@ -59,20 +58,20 @@ tapes or memorizing scriptures. Almost anyone can do that.
 
 We are also counseled to retire early, that we may not be weary and arise
 early that our bodies and minds may be invigorated (see [D&amp;C
-88:124](https://www.lds.org/scriptures/dc-testament/dc/88.124?lang=eng#123)).
+88:124](/scriptures/dc-testament/dc/88.124?lang=eng#123)).
 
 In that same passage we are reminded to "cease to be unclean" ([D&amp;C
-88:124](https://www.lds.org/scriptures/dc-testament/dc/88.124?lang=eng#123)).
-This should be applied to our bodies, to our homes, and to our neighborhoods.
-For example, we should have clean hands and clean surfaces where foods are
-prepared and served.
+88:124](/scriptures/dc-testament/dc/88.124?lang=eng#123)). This should be
+applied to our bodies, to our homes, and to our neighborhoods. For example, we
+should have clean hands and clean surfaces where foods are prepared and
+served.
 
 In the fifty-ninth section of the Doctrine and Covenants, the Lord states that
 the foods of the earth are "to be used, with judgment, not to excess"
-([D&amp;C 59:20](https://www.lds.org/scriptures/dc-
-testament/dc/59.20?lang=eng#19)). Health experts say that obesity constitutes
-a major health problem. Being overweight increases the risk of many diseases
-and creates physical discomfort as well as psychological burdens.
+([D&amp;C 59:20](/scriptures/dc-testament/dc/59.20?lang=eng#19)). Health
+experts say that obesity constitutes a major health problem. Being overweight
+increases the risk of many diseases and creates physical discomfort as well as
+psychological burdens.
 
 We should be grateful that scientific research and medical practice have
 resulted in longer life spans, greater health and vitality, and reduction in
@@ -93,16 +92,14 @@ physical health and financial management.
 
 In summary, our physical health goals should be--
 
-  1. To obey the Word of Wisdom;
-
-  2. To maintain proper weight and endurance through regular exercise, adequate rest, and a balanced diet;
-
-  3. To improve or maintain personal and home sanitation;
-
-  4. To practice preventative measures to preserve good health;
-
-  5. To learn and practice home health skills.
+  1. To obey the Word of Wisdom; 
+  2. To maintain proper weight and endurance through regular exercise, adequate rest, and a balanced diet; 
+  3. To improve or maintain personal and home sanitation; 
+  4. To practice preventative measures to preserve good health; 
+  5. To learn and practice home health skills. 
 
 May the application of these principles help each of us live joyously, I pray,
 in the name of Jesus Christ. Amen.
+
+## References
 

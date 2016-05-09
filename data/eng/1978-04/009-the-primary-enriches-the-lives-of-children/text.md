@@ -3,29 +3,28 @@
 The Savior, using every precious opportunity to teach his followers, was asked
 a provoking question. The disciples were wondering of their place. One asked,
 "Who is the greatest in the kingdom of heaven?" ([Matt.
-18:1](https://www.lds.org/scriptures/nt/matt/18.1?lang=eng#0).) The Lord
-probably held out his hand toward one of the little children in the group
-surrounding the Savior and drew the child to him. "Except ye be converted, and
-become as little children, ye shall not enter into the kingdom of heaven."
-Then he added, "Whosoever therefore shall humble himself as this little child,
-the same is greatest in the kingdom of heaven." ([Matt.
-18:3-4](https://www.lds.org/scriptures/nt/matt/18.3-4?lang=eng#2).)
+18:1](/scriptures/nt/matt/18.1?lang=eng#0).) The Lord probably held out his
+hand toward one of the little children in the group surrounding the Savior and
+drew the child to him. "Except ye be converted, and become as little children,
+ye shall not enter into the kingdom of heaven." Then he added, "Whosoever
+therefore shall humble himself as this little child, the same is greatest in
+the kingdom of heaven." ([Matt.
+18:3-4](/scriptures/nt/matt/18.3-4?lang=eng#2).)
 
 Did not the Savior in this incident require of adults to find their childhood
 again, to abandon weakness or evil? That childhood faith most loved must be
 regained.
 
 "And whoso shall receive one such little child in my name receiveth me."
-([Matt. 18:5](https://www.lds.org/scriptures/nt/matt/18.5?lang=eng#4).)
+([Matt. 18:5](/scriptures/nt/matt/18.5?lang=eng#4).)
 
 Perhaps still holding the little one close to him, he said, "But whoso shall
 offend one of these little ones which believe in me, it were better for him
 that a millstone were hanged about his neck, and that he were drowned in the
-depth of the sea." ([Matt.
-18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5).) A rather
-terrifying price is attached to the purity of little children; their rights to
-truth and love are inalienable rights no matter what may happen to them in
-later years.
+depth of the sea." ([Matt. 18:6](/scriptures/nt/matt/18.6?lang=eng#5).) A
+rather terrifying price is attached to the purity of little children; their
+rights to truth and love are inalienable rights no matter what may happen to
+them in later years.
 
 Last October the Bountiful Utah Stake Primary encouraged children to earn
 money to buy copies of the Book of Mormon--but to pay for the book with their
@@ -50,8 +49,8 @@ enjoyed it very much and will be reading it many more times.
 The Primary. How did it come about? Did not the Lord promise the Saints at
 Kirtland that if they would be patient and faithful, all things would work
 together for their good, and that as the gospel unfolded, they would be taught
-line upon line, precept upon precept? (See [D&amp;C 98:2, 3,
-12](https://www.lds.org/scriptures/dc-testament/dc/98.2%2C3%2C12?lang=eng#1).)
+line upon line, precept upon precept? (See [D&amp;C 98:2, 3, 12](/scriptures
+/dc-testament/dc/98.2,3,12?lang=eng#1).)
 
 The inspiration for a children's class came to Aurelia Rogers of Farmington,
 Utah, one hundred years ago. There was a need to teach children the principles
@@ -197,7 +196,7 @@ Aurelia Rogers was a daughter of the refiner's fire. Mosiah's counsel to "not
 suffer your children that they go hungry, or naked, ... transgress the laws of
 God, ... but ... teach them to walk in ... ways of truth, ... love one another, and
 serve one another" was part of her life. ([Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
+4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
 
 From these humble beginnings in a small Mormon town has emerged a worldwide
 concern for children. Every phase and aspect of our Primary program is in
@@ -210,7 +209,7 @@ were taught obedience, faith in God, prayer, punctuality, good manners, and
 the Word of Wisdom. Aurelia must have gained strength from reading:
 "Wherefore, be not weary in well-doing, for ye are laying the foundation of a
 great work. And out of small things proceedeth that which is great." ([D&amp;C
-64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32).)
+64:33](/scriptures/dc-testament/dc/64.33?lang=eng#32).)
 
 Primary will continue fulfilling its goal of enriching the lives of children--
 blessing not only their individual lives but the lives of their families and
@@ -244,6 +243,8 @@ _And not one child be lost."_
 May we as parents and spiritual leaders be blessed to understand what the
 Master meant when he said, "Except ye be converted, and become as little
 children, ye shall not enter into the kingdom of heaven." ([Matt.
-18:3](https://www.lds.org/scriptures/nt/matt/18.3?lang=eng#2).) In the name of
-Jesus Christ, amen.
+18:3](/scriptures/nt/matt/18.3?lang=eng#2).) In the name of Jesus Christ,
+amen.
+
+## References
 

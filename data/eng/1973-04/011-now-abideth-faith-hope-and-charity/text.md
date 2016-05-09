@@ -23,12 +23,11 @@ repenteth of that which he hath done he perisheth forever, and hath no
 interest in the kingdom of God.
 
 "For behold, are we not all beggars? ..." ([Mosiah
-4:16-18](https://www.lds.org/scriptures/bofm/mosiah/4.16-18?lang=eng#15).)
+4:16-18](/scriptures/bofm/mosiah/4.16-18?lang=eng#15).)
 
 And then clearly Paul said: "Though I speak with the tongues of men and of
 angels, and have not charity, I am become as sounding brass, or a tinkling
-cymbal." ([1 Cor.
-13:1](https://www.lds.org/scriptures/nt/1-cor/13.1?lang=eng#0).)
+cymbal." ([1 Cor. 13:1](/scriptures/nt/1-cor/13.1?lang=eng#0).)
 
 And then, of course, the great Savior of heaven and earth, in one of his great
 parables, taught us a most profound lesson. He said:
@@ -73,7 +72,7 @@ they will repent.
 
 "And he said unto him, If they hear not Moses and the prophets, neither will
 they be persuaded, though one rose from the dead." ([Luke
-16:19-31](https://www.lds.org/scriptures/nt/luke/16.19-31?lang=eng#18).)
+16:19-31](/scriptures/nt/luke/16.19-31?lang=eng#18).)
 
 I believe the Savior here teaches us a great lesson. There are those who have
 want, and in his great charitable way he will provide, for I believe the pure
@@ -304,7 +303,7 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 Who received the greater blessing? Was it the elders who went out into the
 field and harvested Brother Goates' load of beets? I want you to know they
@@ -312,10 +311,11 @@ received a great blessing.
 
 And now in conclusion, you remember the words of Paul. He said: "And now
 abideth faith, hope, charity, these three; but the greatest of these is
-charity." ([1 Cor.
-13:13](https://www.lds.org/scriptures/nt/1-cor/13.13?lang=eng#12).)
+charity." ([1 Cor. 13:13](/scriptures/nt/1-cor/13.13?lang=eng#12).)
 
 And I pray that the charity of Jesus Christ will be with and abide with each
 one of us, that we will understand the total dimension of welfare services in
 the Church, in the name of Jesus Christ, our Master. Amen.
+
+## References
 

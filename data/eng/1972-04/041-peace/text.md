@@ -4,13 +4,11 @@ In that upper room in Jerusalem where the Last Supper was held, Jesus gave his
 disciples considerable instructions. Among many things he taught them, he
 said: "Peace I leave with you, my peace I give unto you: not as the world
 giveth, give I unto you. Let not your heart be troubled, neither let it be
-afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+afraid." ([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 Again he said: "These things I have spoken unto you, that in me ye might have
 peace. In the world ye shall have tribulation: but be of good cheer; I have
-overcome the world." ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).)
+overcome the world." ([John 16:33](/scriptures/nt/john/16.33?lang=eng#32).)
 
 Peace is a much-used word nowadays. We hear it on every side, in every
 newspaper, in every magazine. Men are truly running to and fro all over the
@@ -29,20 +27,19 @@ release them from bondage. Isaiah wrote:
 "For unto us a child is born, unto us a son is given: and the government shall
 be upon his shoulder: and his name shall be called Wonderful, Counsellor, The
 mighty God, The everlasting Father, The Prince of Peace." ([Isa.
-9:6](https://www.lds.org/scriptures/ot/isa/9.6?lang=eng#5).)
+9:6](/scriptures/ot/isa/9.6?lang=eng#5).)
 
 Peace was not brought to this land called the Holy Land. Even today the hulks
 of old tanks and other war machines lie rusting on the sides of the roads.
 Ever-present soldiers keep vigilant watch along the borders. Nor has peace
 come to the rest of the world. Yet, in the Sermon on the Mount, Christ taught
 peace. He said, "Blessed are the peacemakers: for they shall be called the
-children of God." ([Matt.
-5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8).)
+children of God." ([Matt. 5:9](/scriptures/nt/matt/5.9?lang=eng#8).)
 
 Speaking to his disciples, Jesus said: "Peace I leave with you, my peace I
 give unto you: not as the world giveth, give I unto you. Let not your heart be
 troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 What kind of peace did Christ mean? I think his own acts explain what he
 meant.
@@ -72,8 +69,7 @@ to the ground.
 "Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.
 
 "Jesus answered, I have told you that I am he: if therefore ye seek me, let
-these go their way." ([John
-18:1-8](https://www.lds.org/scriptures/nt/john/18.1-8?lang=eng#0).)
+these go their way." ([John 18:1-8](/scriptures/nt/john/18.1-8?lang=eng#0).)
 
 Can you match that display of calmness? of peace? Here they are coming to take
 a man they want to kill, and he as much as says, "Here I am, take me, but let
@@ -85,7 +81,7 @@ Pilate found no wrong in him.
 
 After he was crucified and then resurrected, his first message to his
 disciples was, "Peace be unto you." ([John
-20:21](https://www.lds.org/scriptures/nt/john/20.21?lang=eng#20).)
+20:21](/scriptures/nt/john/20.21?lang=eng#20).)
 
 How is it that we have not discovered the secret of peace when we have been
 looking for it all through the ages? I'll tell you. We are looking for someone
@@ -129,7 +125,7 @@ temple work, vicarious work for the dead?
 
 A key to peace, then, is service. Christ said: "But he that is greatest among
 you shall be your servant." ([Matt.
-23:11](https://www.lds.org/scriptures/nt/matt/23.11?lang=eng#10).)
+23:11](/scriptures/nt/matt/23.11?lang=eng#10).)
 
 Have you ever been aware that all the use of priesthood is service to someone
 else? Haven't you always had a good feeling of peace within when you have been
@@ -139,13 +135,13 @@ Peace, then, comes from service.
 
 The Lord has said: "For behold, this is my work and my glory--to bring to pass
 the immortality and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 Is this not the ultimate of service? To become as God is, then, we must
 eliminate enmity, greed, and selfishness, and all our efforts must be in
 service to others. The Lord said: "... he who doeth the works of righteousness
 shall receive his reward, even peace in this world, and eternal life in the
-world to come." ([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
+world to come." ([D&amp;C 59:23](/scriptures/dc-
 testament/dc/59.23?lang=eng#22).)
 
 Joseph Smith was an example of utmost peace in the face of tribulation. Though
@@ -164,8 +160,8 @@ May God bless you all." (_DHC, _vol. 6, p. 605.)
 
 Isaiah says: "And the work of righteousness shall be peace; and the effect of
 righteousness quietness and assurance for ever" ([Isa.
-32:17](https://www.lds.org/scriptures/ot/isa/32.17?lang=eng#16))--the
-assurance of knowing you are living in accordance with God's will.
+32:17](/scriptures/ot/isa/32.17?lang=eng#16))--the assurance of knowing you
+are living in accordance with God's will.
 
 Our guide on a recent tour in the Holy Land, who is a Jordanian Arab and a
 Greek Orthodox Catholic by the name of Sari Rabadi, taught us a little Arabian
@@ -175,7 +171,7 @@ peace."
 Yes, Sari, we say to you and to all the world, we bring you peace. We bring
 you the peace of the gospel, that peace which Christ meant when he said, "... my
 peace I give unto you: not as the world giveth, give I unto you. ..." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 If each person would have peace within his soul, then there would be peace in
 the family. If there is peace in each family, then there is peace in the
@@ -190,13 +186,15 @@ and unrighteousness.
 
 That angel which John saw "fly in the midst of heaven, having the everlasting
 gospel to preach unto them that dwell on the earth" ([Rev.
-14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5)) has already
-come. The gospel of Jesus Christ has been established on the earth, never
-again to be taken from the earth.
+14:6](/scriptures/nt/rev/14.6?lang=eng#5)) has already come. The gospel of
+Jesus Christ has been established on the earth, never again to be taken from
+the earth.
 
 His kingdom is already here on earth and is growing rapidly to prepare for his
 coming. Yes, he shall surely come and bring peace to the earth, but only as we
 are willing to follow his teachings. This is his work, and his kingdom, which
 is the only way to world peace and eternal peace. I so testify in the name of
 Jesus Christ. Amen.
+
+## References
 

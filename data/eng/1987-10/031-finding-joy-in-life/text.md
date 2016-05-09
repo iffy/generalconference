@@ -6,17 +6,16 @@ proceedings. Please know of my love and concern for you!
 
 How long has it been since you shouted for joy? In the Grand Council in heaven
 in our premortal existence, all the sons and daughters of God "shouted for
-joy" ([Job 38:7](https://www.lds.org/scriptures/ot/job/38.7?lang=eng#6)). Our
-Father in Heaven gave us the opportunity to be born, to assume the
-responsibilities of mortality, which offered the opportunity of a "fulness of
-joy" ([Ps. 16:11](https://www.lds.org/scriptures/ot/ps/16.11?lang=eng#10)) but
-which also entailed risks of disobedience, sin, and heartache. Yet, as our
-Father's plan unfolded and we became aware of our divine potential for future
-immortality, we did all shout for joy.
+joy" ([Job 38:7](/scriptures/ot/job/38.7?lang=eng#6)). Our Father in Heaven
+gave us the opportunity to be born, to assume the responsibilities of
+mortality, which offered the opportunity of a "fulness of joy" ([Ps.
+16:11](/scriptures/ot/ps/16.11?lang=eng#10)) but which also entailed risks of
+disobedience, sin, and heartache. Yet, as our Father's plan unfolded and we
+became aware of our divine potential for future immortality, we did all shout
+for joy.
 
 Now we are here; do we doubt the Lord's word, "Men are, that they might have
-joy" ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24))?
+joy" ([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24))?
 
 We live in a critical time in the world's history. Satan and his forces are
 busy. His temptations are relentless, deceiving many, sometimes even the very
@@ -45,8 +44,7 @@ embarrassing lesson, but one I have never forgotten.
 When we think of the Lord's eternal plan for us, do we really want no
 difficulty, no struggle, no adversity? For the plan is to "prove [us]
 herewith, to see if [we] will do all things whatsoever the Lord [our] God
-shall command [us]" ([Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24)).
+shall command [us]" ([Abr. 3:25](/scriptures/pgp/abr/3.25?lang=eng#24)).
 
 The Book of Mormon tells a beautiful example of a people who had been through
 much tribulation and yet had a remarkable experience of feeling eternal joy
@@ -56,11 +54,11 @@ displayed great faith and who hungered for his words. He was moved with such
 compassion toward them that he tarried longer and ministered to their personal
 needs. The scriptures tell us that "no one can conceive of the joy which
 filled [their] souls" ([3 Ne.
-17:16-19](https://www.lds.org/scriptures/bofm/3-ne/17.16-19?lang=eng#15)). The
-Savior said unto them:
+17:16-19](/scriptures/bofm/3-ne/17.16-19?lang=eng#15)). The Savior said unto
+them:
 
 "Blessed are ye because of your faith. And now behold, my joy is full" ([3 Ne.
-17:20](https://www.lds.org/scriptures/bofm/3-ne/17.20?lang=eng#19)).
+17:20](/scriptures/bofm/3-ne/17.20?lang=eng#19)).
 
 Joy, it seems, is not only happiness, but the resultant feeling of the Holy
 Ghost manifest within us.
@@ -72,13 +70,10 @@ knowledge, and desires to replenish and fortify our spiritual needs. Four ways
 may be helpful in developing reservoirs of righteousness and spiritual self-
 reliance. We prepare by--
 
-  1. Developing a cheerful disposition wherein the Spirit can dwell.
-
-  2. Learning the Savior's will for us, that we may know our divine potential.
-
-  3. Understanding and accepting his atoning sacrifice and repenting of our sins.
-
-  4. Keeping his commandments and having a firm determination to serve him.
+  1. Developing a cheerful disposition wherein the Spirit can dwell. 
+  2. Learning the Savior's will for us, that we may know our divine potential. 
+  3. Understanding and accepting his atoning sacrifice and repenting of our sins. 
+  4. Keeping his commandments and having a firm determination to serve him. 
 
 Let's examine these four points:
 
@@ -113,13 +108,12 @@ hand-knit dishcloth.
 What a beautiful example they were to me of "good cheer" even in such a
 difficult circumstance. They had learned to accept those things they could not
 change and remembered the Savior's words, "Be of good cheer, and do not fear,
-for I the Lord am with you, and will stand by you" ([D&amp;C
-68:6](https://www.lds.org/scriptures/dc-testament/dc/68.6?lang=eng#5)).
+for I the Lord am with you, and will stand by you" ([D&amp;C 68:6](/scriptures
+/dc-testament/dc/68.6?lang=eng#5)).
 
 I, too, remembered the Savior's words, "They who have endured the crosses of
 the world, ... shall inherit the kingdom of God, ... and their joy shall be full
-forever" ([2 Ne.
-9:18](https://www.lds.org/scriptures/bofm/2-ne/9.18?lang=eng#17)).
+forever" ([2 Ne. 9:18](/scriptures/bofm/2-ne/9.18?lang=eng#17)).
 
 Second point: Learning the Savior's will for us, will help us know of our
 divine potential and bring joy to our being.
@@ -136,7 +130,7 @@ Surely we are adding to our spiritual reservoir as we listen to our prophet's
 voice, read the holy scriptures, fast and pray, and apply the teachings we
 learn to our lives through the confirmation we receive from the Holy Spirit,
 that still, small voice that brings "peace to [our] mind[s]" ([D&amp;C
-6:23](https://www.lds.org/scriptures/dc-testament/dc/6.23?lang=eng#22)).
+6:23](/scriptures/dc-testament/dc/6.23?lang=eng#22)).
 
 There are some lovely women in the Church who are comfortable and content to
 let someone else do the teaching, give the service, fulfill the callings.
@@ -145,15 +139,14 @@ required of us wherever we are called. We do not pick and choose what we will
 accept, just as we do not choose which commandments to obey.
 
 The Lord says, beware of pride, lift up our hearts and rejoice and cleave unto
-the covenants we have made (see [D&amp;C
-25:13-14](https://www.lds.org/scriptures/dc-
+the covenants we have made (see [D&amp;C 25:13-14](/scriptures/dc-
 testament/dc/25.13-14?lang=eng#12)). We are admonished "to bear one another's
 burdens, ... comfort those that stand in need of comfort, and ... stand as
 witnesses of God at all times" ([Mosiah
-18:8-9](https://www.lds.org/scriptures/bofm/mosiah/18.8-9?lang=eng#7)). This
-may be hard to do because of worldly voices telling us to do otherwise. Let us
-stay close to the Lord and develop our divine potential by using our gifts and
-talents as he has advised us to do.
+18:8-9](/scriptures/bofm/mosiah/18.8-9?lang=eng#7)). This may be hard to do
+because of worldly voices telling us to do otherwise. Let us stay close to the
+Lord and develop our divine potential by using our gifts and talents as he has
+advised us to do.
 
 Let us rejoice as we work together with those who hold the priesthood, each
 assuming his or her responsibilities and sharing our gifts and talents, that
@@ -168,7 +161,7 @@ great humility, having asked for forgiveness of their sins. "The Spirit of the
 Lord came upon them, and they were filled with joy, having received a
 remission of their sins, and having peace of conscience, because of the
 exceeding faith which they had in Jesus Christ" ([Mosiah
-4:3](https://www.lds.org/scriptures/bofm/mosiah/4.3?lang=eng#2)).
+4:3](/scriptures/bofm/mosiah/4.3?lang=eng#2)).
 
 Elder James E. Talmage tells us that repentance "indicates a godly sorrow for
 sin, producing a reformation of life, and embodies (1) a conviction of guilt;
@@ -186,17 +179,17 @@ King Benjamin taught that we should not have a mind to injure one another;
 rather, we should live peaceably, not suffer our children to go hungry, or
 naked, or transgress the laws of God, or fight and quarrel one with another,
 but love and serve one another (see [Mosiah
-4:13-15](https://www.lds.org/scriptures/bofm/mosiah/4.13-15?lang=eng#12)). He
-further stated, "I cannot tell you all the ways whereby ye may commit sin; ...
-But ... watch yourselves, and your thoughts, words, and ... deeds, and observe the
+4:13-15](/scriptures/bofm/mosiah/4.13-15?lang=eng#12)). He further stated, "I
+cannot tell you all the ways whereby ye may commit sin; ... But ... watch
+yourselves, and your thoughts, words, and ... deeds, and observe the
 commandments of God" ([Mosiah
-4:29-30](https://www.lds.org/scriptures/bofm/mosiah/4.29-30?lang=eng#28)).
+4:29-30](/scriptures/bofm/mosiah/4.29-30?lang=eng#28)).
 
 The Savior said, "A new commandment I give unto you, That ye love one another;
-as I have loved you" ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33)). That great
-love enabled him to live a life of service, even unto the laying down of his
-life for us. He would have us serve one another even as he has done.
+as I have loved you" ([John 13:34](/scriptures/nt/john/13.34?lang=eng#33)).
+That great love enabled him to live a life of service, even unto the laying
+down of his life for us. He would have us serve one another even as he has
+done.
 
 An elderly widow struggled with the pain of arthritis. When she came to live
 with her daughter, the mother retreated into her own uncomfortable world. She
@@ -222,10 +215,8 @@ our children as well as ourselves.
 We can also participate in this great missionary cause by fellowshipping those
 who have wandered. It takes patience and diligence, but, oh, what joy is ours
 as we assist in bringing these, our brethren and sisters, again unto the
-Savior (see [Alma
-31:35](https://www.lds.org/scriptures/bofm/alma/31.35?lang=eng#34); [D&amp;C
-18:15-16](https://www.lds.org/scriptures/dc-
-testament/dc/18.15-16?lang=eng#14)).
+Savior (see [Alma 31:35](/scriptures/bofm/alma/31.35?lang=eng#34); [D&amp;C
+18:15-16](/scriptures/dc-testament/dc/18.15-16?lang=eng#14)).
 
 May I share a story of one of our dear sisters. She wrote:
 
@@ -249,9 +240,11 @@ Joseph Smith could yet testify and cheer us on as he exclaimed:
 "Now, what do we hear in the gospel which we have received? A voice of
 gladness! A voice of mercy from heaven; ... a voice of gladness for the living
 and the dead; glad tidings of great joy ... Let your hearts rejoice, and be
-exceedingly glad" ([D&amp;C 128:19, 22](https://www.lds.org/scriptures/dc-
-testament/dc/128.19%2C22?lang=eng#18)).
+exceedingly glad" ([D&amp;C 128:19, 22](/scriptures/dc-
+testament/dc/128.19,22?lang=eng#18)).
 
 May we take joy in our faith, even our knowledge, that Jesus is the Christ,
 the Son of the living God, I say in the name of Jesus Christ, amen.
+
+## References
 

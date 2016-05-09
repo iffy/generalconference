@@ -53,10 +53,9 @@ responded even before the translator could interpret his words. He told those
 present, "Serving a mission is like paying tithing; you're not compelled--you
 do it because it's right. We want to go on missions because it's the Lord's
 way. The Savior didn't say, '_If_ it's convenient, go,' he said, '_Go_ ye into
-all the world.'" ([Mark
-16:15](https://www.lds.org/scriptures/nt/mark/16.15?lang=eng#14).) President
-Kimball explained that it was the responsibility of young women to help young
-men remain worthy and to encourage them to go on missions.
+all the world.'" ([Mark 16:15](/scriptures/nt/mark/16.15?lang=eng#14).)
+President Kimball explained that it was the responsibility of young women to
+help young men remain worthy and to encourage them to go on missions.
 
 As the President concluded his remarks he asked, "Didn't the Lord give you
 your voice so you could teach the gospel?" He then testified that he had come
@@ -164,4 +163,6 @@ them. Listen to their counsel thoughtfully and prayerfully.
 May you receive in your heart through the Holy Ghost the same witness and
 testimony which I have in mine regarding these truths, I pray in the name of
 Jesus Christ. Amen.
+
+## References
 

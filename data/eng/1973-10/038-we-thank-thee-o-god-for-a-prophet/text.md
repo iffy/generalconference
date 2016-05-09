@@ -76,15 +76,14 @@ the world should seek is the wisdom which comes from God. The only
 understanding that will save the world is divine understanding.
 
 "Surely the Lord God will do nothing, but he revealeth his secret unto his
-servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+servants the prophets." ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 It was so in the days of Amos and in all the years when holy men of God spake
 as they were moved upon by the Holy Ghost. (See [2 Pet.
-1:21](https://www.lds.org/scriptures/nt/2-pet/1.21?lang=eng#20).) Those
-ancient prophets warned not only of things to come, but more importantly, they
-became the revealers of truth to people. It was they who pointed the way men
-should live if they were to be happy and find peace in their lives.
+1:21](/scriptures/nt/2-pet/1.21?lang=eng#20).) Those ancient prophets warned
+not only of things to come, but more importantly, they became the revealers of
+truth to people. It was they who pointed the way men should live if they were
+to be happy and find peace in their lives.
 
 I think today of a young man I know who, as a Christian, trying one church
 after another, could find none that taught of a prophet. Only among the Jewish
@@ -232,4 +231,6 @@ stands at the head of this Church. We have a prophet upon the earth, a seer
 and a revelator to teach us. God give us the faith and the discipline within
 ourselves to follow that teaching, I humbly pray, in the name of Jesus Christ.
 Amen.
+
+## References
 

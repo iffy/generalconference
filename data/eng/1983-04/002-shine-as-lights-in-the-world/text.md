@@ -34,7 +34,7 @@ silent erosion of their own convictions.
 
 Besides, as an ancient prophet correctly observed, sadness and badness are
 mutually reinforcing, for "despair cometh because of iniquity." ([Moro.
-10:22](https://www.lds.org/scriptures/bofm/moro/10.22?lang=eng#21).)
+10:22](/scriptures/bofm/moro/10.22?lang=eng#21).)
 
 Let us, therefore, place several such lamentations beside the revelations of
 God. The expressions of despair beside the divine annunciations of hope. The
@@ -52,27 +52,27 @@ and Logic and Other Essays_ [London: George Allen and Unwin Ltd., 1950], p.
 
 _The revelations:_ "God himself that formed the earth ... created it not in
 vain, he formed it to be inhabited." ([Isa.
-45:18](https://www.lds.org/scriptures/ot/isa/45.18?lang=eng#17).)
+45:18](/scriptures/ot/isa/45.18?lang=eng#17).)
 
 "For he is our God; and we are the people of his pasture, and the sheep of his
-hand." ([Ps. 95:7](https://www.lds.org/scriptures/ot/ps/95.7?lang=eng#6).)
+hand." ([Ps. 95:7](/scriptures/ot/ps/95.7?lang=eng#6).)
 
 "For behold, this is my work and my glory--to bring to pass the immortality
 and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).)
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).)
 
 "Men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 "But the very hairs of your head are all numbered." (See [Matt.
-10:29-30](https://www.lds.org/scriptures/nt/matt/10.29-30?lang=eng#28).)
+10:29-30](/scriptures/nt/matt/10.29-30?lang=eng#28).)
 
 Not only are the hairs of our heads numbered, but the planets also: "But only
 an account of this earth, and the inhabitants thereof, give I unto you. For
 behold, there are many worlds that have passed away by the word of my power.
 And there are many that now stand, and innumerable are they unto man; but all
 things are numbered unto me, for they are mine and I know them." ([Moses
-1:35](https://www.lds.org/scriptures/pgp/moses/1.35?lang=eng#34).)
+1:35](/scriptures/pgp/moses/1.35?lang=eng#34).)
 
 _The fears:_ Mankind is destined to extinction ... there is nothing we can do.
 We have no personal life beyond the grave; there is no God. "Fate knows nor
@@ -84,56 +84,54 @@ which slept arose,
 
 "And came out of the graves after his resurrection, and went into the holy
 city, and appeared unto many." ([Matt.
-27:52-53](https://www.lds.org/scriptures/nt/matt/27.52-53?lang=eng#51); see
-also [3 Ne.
-23:9-11](https://www.lds.org/scriptures/bofm/3-ne/23.9-11?lang=eng#8).)
+27:52-53](/scriptures/nt/matt/27.52-53?lang=eng#51); see also [3 Ne.
+23:9-11](/scriptures/bofm/3-ne/23.9-11?lang=eng#8).)
 
 "O death, where is thy sting? O grave, where is thy victory?" ([1 Cor.
-15:55](https://www.lds.org/scriptures/nt/1-cor/15.55?lang=eng#54).)
+15:55](/scriptures/nt/1-cor/15.55?lang=eng#54).)
 
 "O how great the plan of our God!" ([2 Ne.
-9:13](https://www.lds.org/scriptures/bofm/2-ne/9.13?lang=eng#12).)
+9:13](/scriptures/bofm/2-ne/9.13?lang=eng#12).)
 
 Some despair who are, as Peter said, willingly ignorant (see [2 Pet.
-3:5](https://www.lds.org/scriptures/nt/2-pet/3.5?lang=eng#4)) or, as Nephi
-said, who will not search or understand great knowledge (see [2 Ne.
-32:7](https://www.lds.org/scriptures/bofm/2-ne/32.7?lang=eng#6)). For these, a
-pessimistic philosophy is "pleasing unto the carnal mind." ([Alma
-30:53](https://www.lds.org/scriptures/bofm/alma/30.53?lang=eng#52).) Why?
-Because behavioral permissiveness flourishes amid a sense of hopelessness.
-Because if human appetites are mistakenly viewed as the only authentic reality
-and "now" as the only moment which matters, why should one checkrein any
-impulse or defer any gratification? Hence, immortality and accountability are
-intertwined!
+3:5](/scriptures/nt/2-pet/3.5?lang=eng#4)) or, as Nephi said, who will not
+search or understand great knowledge (see [2 Ne.
+32:7](/scriptures/bofm/2-ne/32.7?lang=eng#6)). For these, a pessimistic
+philosophy is "pleasing unto the carnal mind." ([Alma
+30:53](/scriptures/bofm/alma/30.53?lang=eng#52).) Why? Because behavioral
+permissiveness flourishes amid a sense of hopelessness. Because if human
+appetites are mistakenly viewed as the only authentic reality and "now" as the
+only moment which matters, why should one checkrein any impulse or defer any
+gratification? Hence, immortality and accountability are intertwined!
 
 Yes, there are some who live without hope who, though having reached such a
 wrong conclusion, nevertheless maintain right conduct. In such decent
 individuals, the light of Christ, though unacknowledged, burns still. (See
-[D&amp;C 84:46](https://www.lds.org/scriptures/dc-
-testament/dc/84.46?lang=eng#45).) If it were not so, we would despise a Gandhi
-and admire a Hitler, instead of feeling just the opposite!
+[D&amp;C 84:46](/scriptures/dc-testament/dc/84.46?lang=eng#45).) If it were
+not so, we would despise a Gandhi and admire a Hitler, instead of feeling just
+the opposite!
 
 Such spreading pessimism does not necessarily mean "back to the catacombs" for
 Christians, or that secular Caesars will soon reopen the Colosseum. But,
 already, there are would-be Caesars who will refuse to settle for citizens who
 render to Caesar only that which is his--and unto God all that is His. (See
-[Matt. 22:21](https://www.lds.org/scriptures/nt/matt/22.21?lang=eng#20).)
+[Matt. 22:21](/scriptures/nt/matt/22.21?lang=eng#20).)
 
 This sense of despair is further intensified by the demonstrated emptiness of
 materialism. Increased goods will not suffice if men display decreased
 goodness. Likewise, the mere accumulation of knowledge without purpose and of
 information without wisdom constitutes ever learning but never coming to a
 knowledge of the truth. (See [2 Tim.
-3:7](https://www.lds.org/scriptures/nt/2-tim/3.7?lang=eng#6).)
+3:7](/scriptures/nt/2-tim/3.7?lang=eng#6).)
 
 Afflicted with anguish, some wander to and fro upon the earth in search of
 truth without knowing where to find it. (See [Amos
-8:11-12](https://www.lds.org/scriptures/ot/amos/8.11-12?lang=eng#10); [D&amp;C
-123:12](https://www.lds.org/scriptures/dc-testament/dc/123.12?lang=eng#11).)
-One such prominent wanderer was described by a colleague: "It is strange how
-he persists ... in wandering to-and-fro. ... He can neither believe, nor be
-comfortable in his unbelief." (Nathaniel Hawthorne, 20 Nov. 1856 in _English
-Notebooks,_ ed. Randall Stewart [New York: MLA], pp. 432-33.)
+8:11-12](/scriptures/ot/amos/8.11-12?lang=eng#10); [D&amp;C
+123:12](/scriptures/dc-testament/dc/123.12?lang=eng#11).) One such prominent
+wanderer was described by a colleague: "It is strange how he persists ... in
+wandering to-and-fro. ... He can neither believe, nor be comfortable in his
+unbelief." (Nathaniel Hawthorne, 20 Nov. 1856 in _English Notebooks,_ ed.
+Randall Stewart [New York: MLA], pp. 432-33.)
 
 Such is the scene, therefore, of which we are a part. Many reject the
 scriptures, the moral memory of mankind, and then declare absolutely the
@@ -141,8 +139,8 @@ absence of absolutes. Others reject the light of the gospel and then grump
 over the growing darkness. Still others cut themselves off from God and lament
 the loneliness of the universe. Some pursue the paths of him who openly
 desires mankind's misery (see [2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)), and then
-bemoan their discontent.
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)), and then bemoan their
+discontent.
 
 The true Christian, of course, does not see life as an easy passage: "The
 cross comes before the crown and tomorrow is a Monday morning!" (C. S. Lewis,
@@ -180,47 +178,44 @@ He finally "comes on the stage, the play is over!"
 
 Meanwhile, we should not impute man's failures to God! "Remember, remember
 that it is not the work of God that is frustrated, but the work of men."
-([D&amp;C 3:3](https://www.lds.org/scriptures/dc-
-testament/dc/3.3?lang=eng#2).)
+([D&amp;C 3:3](/scriptures/dc-testament/dc/3.3?lang=eng#2).)
 
 Indeed, man's successes and failures were known from the beginning by the Lord
 and were taken into account by Him in the unfolding of His plan of salvation.
-(See [1 Ne. 9:6](https://www.lds.org/scriptures/bofm/1-ne/9.6?lang=eng#5).)
-His purposes will be fully achieved.
+(See [1 Ne. 9:6](/scriptures/bofm/1-ne/9.6?lang=eng#5).) His purposes will be
+fully achieved.
 
 Justice, love, mercy, and truth will finally prevail in a universe presided
 over by a Lord who is a determined as well as a loving Tutor. This mortal
 school is one of which the Father and the Son have solemnly declared, "And we
 will prove them herewith, to see if they will do all things whatsoever the
 Lord their God shall command them." ([Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24).)
+3:25](/scriptures/pgp/abr/3.25?lang=eng#24).)
 
 The Lord knows how true individual development requires a setting of agency
 and opportunity. There is no other way.
 
 No wonder Apostles and prophets have told us not to be moved away from the
 hope of the gospel, for hope is "an anchor of the soul" ([Heb.
-6:19](https://www.lds.org/scriptures/nt/heb/6.19?lang=eng#18)) to "make them
-sure and steadfast, always abounding in good works." ([Ether
-12:4](https://www.lds.org/scriptures/bofm/ether/12.4?lang=eng#3); see also
-[Col. 1:23](https://www.lds.org/scriptures/nt/col/1.23?lang=eng#22).)
+6:19](/scriptures/nt/heb/6.19?lang=eng#18)) to "make them sure and steadfast,
+always abounding in good works." ([Ether
+12:4](/scriptures/bofm/ether/12.4?lang=eng#3); see also [Col.
+1:23](/scriptures/nt/col/1.23?lang=eng#22).)
 
 The need, therefore, is for devoted disciples to do as Paul said, to "shine as
-lights in the world" ([Philip.
-2:15](https://www.lds.org/scriptures/nt/philip/2.15?lang=eng#14)),
+lights in the world" ([Philip. 2:15](/scriptures/nt/philip/2.15?lang=eng#14)),
 illuminating that latter-day valley foreseen by Joel: "Multitudes, multitudes
 in the valley of decision: for the day of the Lord is near in the valley of
-decision." ([Joel
-3:14](https://www.lds.org/scriptures/ot/joel/3.14?lang=eng#13); see also [Rev.
-16:16](https://www.lds.org/scriptures/nt/rev/16.16?lang=eng#15); [Zech.
-14:2](https://www.lds.org/scriptures/ot/zech/14.2?lang=eng#1).)
+decision." ([Joel 3:14](/scriptures/ot/joel/3.14?lang=eng#13); see also [Rev.
+16:16](/scriptures/nt/rev/16.16?lang=eng#15); [Zech.
+14:2](/scriptures/ot/zech/14.2?lang=eng#1).)
 
 The very way in which these illuminated individuals "take up [the] cross
 daily" is a sermon in itself. (See [Luke
-9:23](https://www.lds.org/scriptures/nt/luke/9.23?lang=eng#22).) They lead
-lives not of quiet desperation but of quiet inspiration, constituting what
-Paul would call their "defence and confirmation of the gospel." ([Philip.
-1:7](https://www.lds.org/scriptures/nt/philip/1.7?lang=eng#6).)
+9:23](/scriptures/nt/luke/9.23?lang=eng#22).) They lead lives not of quiet
+desperation but of quiet inspiration, constituting what Paul would call their
+"defence and confirmation of the gospel." ([Philip.
+1:7](/scriptures/nt/philip/1.7?lang=eng#6).)
 
 Theirs represents a tinier and quieter history within the larger and noisier
 human history, a joyful and reassuring drama within the more despairing drama
@@ -241,8 +236,7 @@ developing a celestial culture, where the mother is the children's only school
 teacher. Uncomplainingly, this family goes effectively about their labors--
 quite innocent of how special they are! They know they are included in this
 reassuring declaration: "all flesh is in mine hands; be still and know that I
-am God." ([D&amp;C 101:16](https://www.lds.org/scriptures/dc-
-testament/dc/101.16?lang=eng#15).)
+am God." ([D&amp;C 101:16](/scriptures/dc-testament/dc/101.16?lang=eng#15).)
 
 Next, in Germany a serviceman solicitously rounds up his military friends in
 his van to go to a special Young Adult conference. One friend cannot be found
@@ -258,24 +252,23 @@ witness in a wheelchair. How tall she stands, and how much she stretches the
 souls of others! Her deprivation is like an excavation, the readying of a
 reservoir into which a generous God, one day, will pour the Malachi measure of
 compensatory blessings, "that there shall not be room enough to receive it."
-([Mal. 3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9).)
+([Mal. 3:10](/scriptures/ot/mal/3.10?lang=eng#9).)
 
 Another montage: Widows and widowers, waiting patiently and trustingly for the
 time of their release, when they can rejoin their eternal companions.
 Meanwhile, they go about their duties. Like Alma and Paul, they have learned
 to be content in their allotted circumstances. (See [Alma 29:3,
-6](https://www.lds.org/scriptures/bofm/alma/29.3%2C6?lang=eng#2); [Philip.
-4:11](https://www.lds.org/scriptures/nt/philip/4.11?lang=eng#10).)
+6](/scriptures/bofm/alma/29.3,6?lang=eng#2); [Philip.
+4:11](/scriptures/nt/philip/4.11?lang=eng#10).)
 
 Likewise, one deeply admires those wronged who, nevertheless, go on doing that
 which is right, refusing to become offended or bitter. Let others charge God
-foolishly (see [Job
-1:22](https://www.lds.org/scriptures/ot/job/1.22?lang=eng#21)); these faithful
-souls are magnanimous and forgiving, as was a generous Joseph in Egypt to his
-erring brothers: "Now therefore be not grieved, nor angry with yourselves,
-that ye sold me hither: for God did send me before you to preserve life."
-([Gen. 45:6](https://www.lds.org/scriptures/ot/gen/45.6?lang=eng#5).) Such
-Saints fashion forgiveness where others would revel in resentment!
+foolishly (see [Job 1:22](/scriptures/ot/job/1.22?lang=eng#21)); these
+faithful souls are magnanimous and forgiving, as was a generous Joseph in
+Egypt to his erring brothers: "Now therefore be not grieved, nor angry with
+yourselves, that ye sold me hither: for God did send me before you to preserve
+life." ([Gen. 45:6](/scriptures/ot/gen/45.6?lang=eng#5).) Such Saints fashion
+forgiveness where others would revel in resentment!
 
 One is humbled by the spiritual submissiveness of the dying young mother of
 twenty-six, understandably anguished at the prospect of not rearing her two
@@ -286,13 +279,11 @@ die, then how can I help my husband and my parents as they watch me die?"
 Surely she (and others similarly situated) faithfully conforms to King
 Benjamin's portrait of a Saint as one being "willing to submit to all things
 which the Lord seeth fit to inflict upon him, even as a child doth submit to
-his father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+his father." ([Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 Such individuals give to us a continuing sermon in sainthood. The gospel light
 has "infused such joy" into their souls, that any cloud of darkness has been
-dispelled. ([Alma
-19:6](https://www.lds.org/scriptures/bofm/alma/19.6?lang=eng#5).)
+dispelled. ([Alma 19:6](/scriptures/bofm/alma/19.6?lang=eng#5).)
 
 "By the patience of hope and the labor of love" these are finishing the work
 the Lord has given them to do. (See "Come, Let Us Anew," _Hymns,_ no. 17.)
@@ -304,11 +295,12 @@ these will quietly flock to the temple, to do the work of Him whose house it
 is!
 
 God bless you faithful brothers and sisters for shining "as lights in the
-world" ([Philip.
-2:15](https://www.lds.org/scriptures/nt/philip/2.15?lang=eng#14)), as beacons
-to dispel despair. To a world spiritually illiterate, you give great lessons
-in the grammar of the gospel, including this one: death is a mere comma, not
-an exclamation point!
+world" ([Philip. 2:15](/scriptures/nt/philip/2.15?lang=eng#14)), as beacons to
+dispel despair. To a world spiritually illiterate, you give great lessons in
+the grammar of the gospel, including this one: death is a mere comma, not an
+exclamation point!
 
 In the holy name of Jesus Christ, amen.
+
+## References
 

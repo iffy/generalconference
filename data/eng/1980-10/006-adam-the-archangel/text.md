@@ -12,10 +12,9 @@ here Adam lived--and Eve--and their family. The stupendous importance of it
 all weighed heavily upon me.
 
 Here is where the human race began. This we are told by revelation. (See
-[Moses 1:34](https://www.lds.org/scriptures/pgp/moses/1.34?lang=eng#33);
-[D&amp;C 107:53](https://www.lds.org/scriptures/dc-
-testament/dc/107.53?lang=eng#52); [D&amp;C
-84:16](https://www.lds.org/scriptures/dc-testament/dc/84.16?lang=eng#15).)
+[Moses 1:34](/scriptures/pgp/moses/1.34?lang=eng#33); [D&amp;C
+107:53](/scriptures/dc-testament/dc/107.53?lang=eng#52); [D&amp;C
+84:16](/scriptures/dc-testament/dc/84.16?lang=eng#15).)
 
 Adam and Eve knew God personally. They saw him and talked with him. They were
 taught the gospel of Jesus Christ even in that early time--which was long
@@ -25,18 +24,18 @@ Savior during our premortal existence.
 The plan of salvation, therefore, was instituted among these first human
 beings, Adam and Eve and their children. Angels taught them. The family
 believed. They were baptized and began to serve God. (See [Moses
-5](https://www.lds.org/scriptures/pgp/moses/5.title?lang=eng).)
+5](/scriptures/pgp/moses/5?lang=eng).)
 
 The scriptures say that as Adam tilled the ground and cared for the cattle and
 the sheep, Eve "did labor with him" ([Moses
-5:1](https://www.lds.org/scriptures/pgp/moses/5.1?lang=eng#0)).
+5:1](/scriptures/pgp/moses/5.1?lang=eng#0)).
 
 They were highly intelligent people, not at all like either the hominids or
 the cavemen some claim the first humans to have been. They were well educated,
 having been taught by the Lord himself. What an education! What an instructor!
 
 Think of it, and remember that "the glory of God is intelligence, or in other
-words, light and truth" ([D&amp;C 93:36](https://www.lds.org/scriptures/dc-
+words, light and truth" ([D&amp;C 93:36](/scriptures/dc-
 testament/dc/93.36?lang=eng#35)). These gifts were imparted to Adam and Eve
 and their family. No one else could teach them, because they were the first
 human beings. That task was left to the Lord and his angels.
@@ -46,39 +45,38 @@ faithful to the Lord in all their ways. And then there was Cain!
 
 They taught their children to read and write, "having a language which was
 pure and undefiled," given them by God (see [Moses
-6:6](https://www.lds.org/scriptures/pgp/moses/6.6?lang=eng#5)).
+6:6](/scriptures/pgp/moses/6.6?lang=eng#5)).
 
 "And a book of remembrance was kept" among them, recorded in the language of
 Adam, and all who called upon God were allowed to write in this pure and
 undefiled tongue, by the spirit of inspiration (see [Moses
-6:5-6](https://www.lds.org/scriptures/pgp/moses/6.5-6?lang=eng#4)).
+6:5-6](/scriptures/pgp/moses/6.5-6?lang=eng#4)).
 
 "And thus the Gospel began to be preached, from the beginning, being declared
 by holy angels sent forth from the presence of God, and by his own voice, and
 by the gift of the Holy Ghost" ([Moses
-5:58](https://www.lds.org/scriptures/pgp/moses/5.58?lang=eng#57)).
+5:58](/scriptures/pgp/moses/5.58?lang=eng#57)).
 
 "And from that time forth, the sons and daughters of Adam began to divide two
 and two in the land, and to till the land, and to tend flocks, and they also
-begat sons and daughters" ([Moses
-5:3](https://www.lds.org/scriptures/pgp/moses/5.3?lang=eng#2)).
+begat sons and daughters" ([Moses 5:3](/scriptures/pgp/moses/5.3?lang=eng#2)).
 
 It was a glorious period--until Satan came among them. That evil person defied
 the teachings of God and said to the children of Adam, "Believe it not," and
 from that time some of the family loved Satan more than God (see [Moses
-5:13](https://www.lds.org/scriptures/pgp/moses/5.13?lang=eng#12)). They
-apostatized from the truth.
+5:13](/scriptures/pgp/moses/5.13?lang=eng#12)). They apostatized from the
+truth.
 
 These dissenters lost the Spirit of God and as a result became carnal,
 sensual, and devilish (see [Moses
-5:13](https://www.lds.org/scriptures/pgp/moses/5.13?lang=eng#12)). With these
-evil attributes always comes retrogression. We should not be surprised,
-therefore, to hear of cavemen living in the dawn of time.
+5:13](/scriptures/pgp/moses/5.13?lang=eng#12)). With these evil attributes
+always comes retrogression. We should not be surprised, therefore, to hear of
+cavemen living in the dawn of time.
 
 One of these dissenters was Cain. He made a dreadful covenant with Lucifer and
 persuaded others to follow him. "Adam and his wife mourned before the Lord,
 because of Cain and his brethren" ([Moses
-5:27](https://www.lds.org/scriptures/pgp/moses/5.27?lang=eng#26)).
+5:27](/scriptures/pgp/moses/5.27?lang=eng#26)).
 
 Cain hated righteous Abel and coveted his flocks. He was encouraged by Satan,
 who told him he could obtain Abel's sheep if he would kill his brother and
@@ -123,7 +121,7 @@ trumpet heralding the resurrection of the dead. The scripture reads, "Behold,
 verily I say unto you, before the earth shall pass away, _Michael, mine
 archangel,_ shall sound his trump, and then shall all the dead awake, for
 their graves shall be opened, and they shall come forth" ([D&amp;C
-29:26](https://www.lds.org/scriptures/dc-testament/dc/29.26?lang=eng#25)).
+29:26](/scriptures/dc-testament/dc/29.26?lang=eng#25)).
 
 What a marvelous calling for Adam, or Michael. But note that even in this
 assignment, which is yet future, he still will be an angel--the archangel, but
@@ -131,8 +129,8 @@ an angel nevertheless.
 
 Section 107 of the Doctrine and Covenants, dated March 28, 1835, identifies
 him as an angel as of that date--little more than a hundred years ago--and
-calls him "Michael, the prince, the archangel" ([D&amp;C
-107:54](https://www.lds.org/scriptures/dc-testament/dc/107.54?lang=eng#53)).
+calls him "Michael, the prince, the archangel" ([D&amp;C 107:54](/scriptures
+/dc-testament/dc/107.54?lang=eng#53)).
 
 During the Millennium the devil will be bound, but afterward will be freed for
 a short time, during which he will rally his evil forces to make one final
@@ -159,8 +157,8 @@ and now I repeat this scripture:
 "And Michael, the seventh angel, _even the archangel,_ shall gather together
 his armies, even the hosts of heaven. ... And then cometh the battle of the
 great God; and the devil and his armies shall be cast away into their own
-place." ([D&amp;C 88:112, 114](https://www.lds.org/scriptures/dc-
-testament/dc/88.112%2C114?lang=eng#111); emphasis added.)
+place." ([D&amp;C 88:112, 114](/scriptures/dc-
+testament/dc/88.112,114?lang=eng#111); emphasis added.)
 
 Then can anyone honestly mistake the identity of Adam, or Michael? Even after
 the thousand years of the Millennium are over he will still retain his status
@@ -169,9 +167,9 @@ as an angel--the archangel--and a resurrected man.
 In the year 1842 the Prophet Joseph Smith spoke of Michael, or Adam, who
 visited him. Joseph identified him as an angel even then--the archangel--and
 said, "The voice of Michael, the archangel; ... and of diverse [other] angels,
-from Michael or Adam down to the present time" ([D&amp;C
-128:21](https://www.lds.org/scriptures/dc-testament/dc/128.21?lang=eng#20)).
-He thus listed Michael, or Adam, with the _other_ angels.
+from Michael or Adam down to the present time" ([D&amp;C 128:21](/scriptures
+/dc-testament/dc/128.21?lang=eng#20)). He thus listed Michael, or Adam, with
+the _other_ angels.
 
 So, in 1842 Michael, or Adam, was still an angel and will continue to be so
 through the final winding up scene of this earth.
@@ -187,14 +185,12 @@ in the spirit and the _Only Begotten in the flesh._
 Jesus is the Holy One of Israel, not Adam, not anyone else. Although we are
 all _spirit_ children of the Father, Jesus is the Only Begotten of the Father,
 in mortality, _even from the beginning,_ not Adam, not anyone else (see [Moses
-5:9](https://www.lds.org/scriptures/pgp/moses/5.9?lang=eng#8)). This the Lord
-himself says.
+5:9](/scriptures/pgp/moses/5.9?lang=eng#8)). This the Lord himself says.
 
 In the day that the gospel was given to Adam, the Holy Ghost fell upon him,
 and the divine voice of Jesus Christ--the Jehovah of that time--said to him by
 the power of the Holy Ghost: "I am the Only Begotten of the Father from the
-Beginning" ([Moses
-5:9](https://www.lds.org/scriptures/pgp/moses/5.9?lang=eng#8)).
+Beginning" ([Moses 5:9](/scriptures/pgp/moses/5.9?lang=eng#8)).
 
 Then, can anyone claim that distinction for Adam, or for anyone else? Of
 course not! Jesus Christ is the Only Begotten of the Father, even from the
@@ -209,9 +205,9 @@ The Apostle Paul has an interesting passage in his epistle to the Hebrews. He
 spoke of the Savior and declared him to be in the express image of his
 Father's person. Then he asked this question: "Unto which of the _angels_ said
 he [God] at any time, Thou art my Son, this day have I begotten thee?" ([Heb.
-1:5](https://www.lds.org/scriptures/nt/heb/1.5?lang=eng#4); emphasis added).
-And of course the answer is immediate and obvious--none of them--none of the
-_angels,_ not even Adam, or Michael, the chief of the angels.
+1:5](/scriptures/nt/heb/1.5?lang=eng#4); emphasis added). And of course the
+answer is immediate and obvious--none of them--none of the _angels,_ not even
+Adam, or Michael, the chief of the angels.
 
 Jesus of Nazareth was the Only Begotten of the Father.
 
@@ -224,8 +220,7 @@ Jesus Christ, and is always subservient to him.
 When the Apostle John wrote one of his most familiar passages he said, "For
 God so loved the world, that he gave his _only begotten Son,_ that whosoever
 believeth in him should not perish, but have everlasting life" ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15); emphasis
-added).
+3:16](/scriptures/nt/john/3.16?lang=eng#15); emphasis added).
 
 And who was thus given of the Father to be crucified? Who wrought out the
 atonement on Calvary? Jesus of Nazareth! He was the Only Begotten of God. He
@@ -253,8 +248,8 @@ Then was Adam our God, or did God become Adam? Ridiculous!
 
 Adam was neither God nor the Only Begotten Son of God. He was a child of God
 in the spirit as we all are (see [Acts
-17:29](https://www.lds.org/scriptures/nt/acts/17.29?lang=eng#28)). Jesus was
-the firstborn in the spirit, and the only one born to God in the flesh.
+17:29](/scriptures/nt/acts/17.29?lang=eng#28)). Jesus was the firstborn in the
+spirit, and the only one born to God in the flesh.
 
 The Almighty himself repeatedly called Jesus both his firstborn and his Only
 Begotten.
@@ -267,9 +262,8 @@ in the final defeat of Lucifer.
 
 He is the "Ancient of Days" spoken of by Daniel the prophet and as such will
 meet the faithful in that same valley of Adam-ondi-Ahman, which is named after
-him (see [Dan.
-7:9-22](https://www.lds.org/scriptures/ot/dan/7.9-22?lang=eng#8); [D&amp;C
-116](https://www.lds.org/scriptures/dc-testament/dc/116.title?lang=eng)).
+him (see [Dan. 7:9-22](/scriptures/ot/dan/7.9-22?lang=eng#8); [D&amp;C
+116](/scriptures/dc-testament/dc/116?lang=eng)).
 
 At the close of this dispensation he will there deliver up his stewardship to
 Christ, his Master and his Savior, the Lord Jehovah, who in turn will give his
@@ -286,4 +280,6 @@ Latter-day Saints--is indeed the church and kingdom of God. Jesus is the
 Christ. Spencer W. Kimball is his prophet. We are the legal and divinely
 chosen custodians of the restored truth. This I testify in the name of Jesus
 Christ, amen.
+
+## References
 

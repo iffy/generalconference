@@ -17,7 +17,7 @@ find it difficult to accept as reliable those things that cannot be proved by
 the five senses. Paul may have had this in mind when he said, "For what man
 knoweth the things of a man, save the spirit of man which is in him? even so
 the things of God knoweth no man, but the Spirit of God." ([1 Cor.
-2:11](https://www.lds.org/scriptures/nt/1-cor/2.11?lang=eng#10).)
+2:11](/scriptures/nt/1-cor/2.11?lang=eng#10).)
 
 The English poet, John Dryden, has said:
 
@@ -57,8 +57,7 @@ Ghost.
 "And ye may know that he is, by the power of the Holy Ghost; wherefore I would
 exhort you that ye deny not the power of God; for he worketh by power,
 according to the faith of the children of men, the same today and tomorrow,
-and forever." ([Moro. 10:4-5,
-7](https://www.lds.org/scriptures/bofm/moro/10.4-5%2C7?lang=eng#3).)
+and forever." ([Moro. 10:4-5, 7](/scriptures/bofm/moro/10.4-5,7?lang=eng#3).)
 
 I recall reading a few years ago that a prominent prelate of one of the
 Christian churches in Salt Lake City, who has since passed away, expressed a
@@ -85,8 +84,7 @@ God.
 
 "And Jesus said unto him, Blessed art thou, Simon Bar-jona: for flesh and
 blood hath not revealed it unto thee, but my Father which is in heaven."
-([Matt.
-16:13-17](https://www.lds.org/scriptures/nt/matt/16.13-17?lang=eng#12).)
+([Matt. 16:13-17](/scriptures/nt/matt/16.13-17?lang=eng#12).)
 
 That testimony which came as a revelation to Peter from the Father has come
 down to us through the years and is an indication to us as to how we may know
@@ -187,4 +185,6 @@ bring our eternal spirits into attune with the promptings of God's Holy
 Spirit, the hand of God may be made visible; and the listening ear so attuned
 may be responsive to the celestial whisperings of the voice of God, in the
 name of Jesus Christ. Amen.
+
+## References
 

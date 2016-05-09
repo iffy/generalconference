@@ -32,9 +32,9 @@ the religious excitement of the day. Desiring to know the truth for himself,
 and encouraged by the epistle of James, he knelt in solitary, fervent prayer
 in that beautiful grove not far from his home. He was at first violently
 seized by "the power of some actual being from the unseen world." ([JS--H
-1:16](https://www.lds.org/scriptures/pgp/js-h/1.16?lang=eng#15).) In an effort
-to extricate himself, he exerted all his powers to call upon God for
-deliverance from this tremendous evil power. At this point he said:
+1:16](/scriptures/pgp/js-h/1.16?lang=eng#15).) In an effort to extricate
+himself, he exerted all his powers to call upon God for deliverance from this
+tremendous evil power. At this point he said:
 
 "Just at this moment of great alarm, I saw a pillar of light exactly over my
 head, above the brightness of the sun, which descended gradually until it fell
@@ -45,7 +45,7 @@ me bound. When the light rested upon me I saw two Personages, whose brightness
 and glory defy all description, standing above me in the air. One of them
 spake unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:16-17](https://www.lds.org/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/pgp/js-h/1.16-17?lang=eng#15).)
 
 The message that Joseph received from the Father and the Son was that the full
 truth was not upon the earth and that he should not affiliate with the
@@ -54,8 +54,8 @@ were not written.
 
 Joseph stated in that account: "Many other things did he say unto me, which I
 cannot write at this time." ([JS--H
-1:20](https://www.lds.org/scriptures/pgp/js-h/1.20?lang=eng#19).) Obviously,
-Joseph was overwhelmed by the occasion and the instructions he received.
+1:20](/scriptures/pgp/js-h/1.20?lang=eng#19).) Obviously, Joseph was
+overwhelmed by the occasion and the instructions he received.
 
 Joseph soon declared this marvelous experience to others outside his family.
 As a result, much ridicule, contempt, and even hatred were visited upon him.
@@ -75,8 +75,7 @@ manner of evil against me falsely for so saying, I was led to say in my heart:
 Why persecute me for telling the truth? I have actually seen a vision. ... I
 knew it, and I knew that God knew it, and I could not deny it, neither dared I
 do it; at least I knew that by so doing I would offend God, and come under
-condemnation." ([JS--H
-1:25](https://www.lds.org/scriptures/pgp/js-h/1.25?lang=eng#24).)
+condemnation." ([JS--H 1:25](/scriptures/pgp/js-h/1.25?lang=eng#24).)
 
 There are several other accounts of the magnificent vision near Palmyra
 recorded by the Prophet's associates or friends before the Prophet's death,
@@ -101,26 +100,18 @@ Saints.
 
 Joseph Smith's stated purpose in relating his history was "to disabuse the
 public mind, and put all inquirers after truth in possession of the facts, as
-they have transpired." ([JS--H
-1:1](https://www.lds.org/scriptures/pgp/js-h/1.1?lang=eng#0).)
+they have transpired." ([JS--H 1:1](/scriptures/pgp/js-h/1.1?lang=eng#0).)
 
 What was learned from the First Vision?
 
-  1. The existence of God our Father as a personal being, and proof that man was made in the image of God.
-
-  2. That Jesus is a personage, separate and distinct from the Father.
-
-  3. That Jesus Christ is declared by the Father to be his Son.
-
-  4. That Jesus was the conveyer of revelation as taught in the Bible.
-
-  5. The promise of James to ask of God for wisdom was fulfilled.
-
-  6. The reality of an actual being from an unseen world who tried to destroy Joseph Smith.
-
-  7. That there was a falling away from the Church established by Jesus Christ--Joseph was told not to join any of the sects, for they taught the doctrines of men.
-
-  8. Joseph Smith became a witness for God and his Son, Jesus Christ.
+  1. The existence of God our Father as a personal being, and proof that man was made in the image of God. 
+  2. That Jesus is a personage, separate and distinct from the Father. 
+  3. That Jesus Christ is declared by the Father to be his Son. 
+  4. That Jesus was the conveyer of revelation as taught in the Bible. 
+  5. The promise of James to ask of God for wisdom was fulfilled. 
+  6. The reality of an actual being from an unseen world who tried to destroy Joseph Smith. 
+  7. That there was a falling away from the Church established by Jesus Christ--Joseph was told not to join any of the sects, for they taught the doctrines of men. 
+  8. Joseph Smith became a witness for God and his Son, Jesus Christ. 
 
 The First Vision confirms the fact there are three separate Gods: God the
 Father--Elohim, to whom we address our prayers; Jesus the Christ--Jehovah; and
@@ -149,15 +140,11 @@ Gospel Questions,_ 5 vols., Salt Lake City: Deseret Book Co., 1957-66, 1:16.)
 What resulted from the First Vision, which opened the prophesied dispensation
 of the fulness of times?
 
-  1. The Book of Mormon, another witness for Christ, was received.
-
-  2. The priesthood, or authority to perform saving ordinances, was restored, including the sealing powers of the priesthood.
-
-  3. The Church of Jesus Christ was again organized on the earth.
-
-  4. Revelations came to the Prophet Joseph Smith for the building of the kingdom of God upon the earth, declaring the universal salvation of mankind.
-
-  5. Keys, principles, and powers were restored for the carrying out of the three great missions of the Church--the preaching of the gospel, the means of perfecting the Saints, and temples and ordinances therein for the redemption of the living and the dead.
+  1. The Book of Mormon, another witness for Christ, was received. 
+  2. The priesthood, or authority to perform saving ordinances, was restored, including the sealing powers of the priesthood. 
+  3. The Church of Jesus Christ was again organized on the earth. 
+  4. Revelations came to the Prophet Joseph Smith for the building of the kingdom of God upon the earth, declaring the universal salvation of mankind. 
+  5. Keys, principles, and powers were restored for the carrying out of the three great missions of the Church--the preaching of the gospel, the means of perfecting the Saints, and temples and ordinances therein for the redemption of the living and the dead. 
 
 What of this man Joseph Smith who communed with deity? What was his
 reputation? What effect, if any, did the great vision near Palmyra seem to
@@ -240,7 +227,7 @@ countries in which they live.
 
 "For every tree is known by his own fruit. For of thorns men do not gather
 figs, nor of a bramble bush gather they grapes." ([Luke
-6:44](https://www.lds.org/scriptures/nt/luke/6.44?lang=eng#43).)
+6:44](/scriptures/nt/luke/6.44?lang=eng#43).)
 
 At the very heart of this great work of teaching and establishing the gospel
 of Christ is the First Vision of the boy Joseph near Palmyra, New York, in
@@ -254,4 +241,6 @@ that lies deep in my soul. As a special witness of the same Christ who
 appeared with the Father and instructed the boy Joseph Smith, I bear witness
 of the truthfulness of the magnificent First Vision near Palmyra. I declare
 this in all soberness and in the name of the Lord Jesus Christ, amen.
+
+## References
 

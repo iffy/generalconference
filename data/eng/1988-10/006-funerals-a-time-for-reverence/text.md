@@ -31,8 +31,8 @@ mother, "and we've come with a message for you."
 As the grief-stricken parents listened, the elders unfolded the plan of
 redemption. They quoted from the Book of Mormon, "Little children need no
 repentance, neither baptism" ([Moro.
-8:11](https://www.lds.org/scriptures/bofm/moro/8.11?lang=eng#10)) and then
-bore testimony of the restoration of the gospel.
+8:11](/scriptures/bofm/moro/8.11?lang=eng#10)) and then bore testimony of the
+restoration of the gospel.
 
 I have sympathy for that itinerant preacher, for he was doing the best he
 could with the light and knowledge he had. But there is more than he had to
@@ -57,11 +57,10 @@ in reputation or from prominence. The word _fall_ well describes what
 transpired when Adam and Eve were driven from the garden. A transformation
 took place in their bodies. The bodies of flesh and bone became temporal
 bodies. _Temporal_ means temporary. The scriptures say, "the life of all flesh
-is the blood thereof." ([Lev.
-17:14](https://www.lds.org/scriptures/ot/lev/17.14?lang=eng#13); see also
-[Deut. 12:23](https://www.lds.org/scriptures/ot/deut/12.23?lang=eng#22);
-Joseph Fielding Smith, comp., _Teachings of the Prophet Joseph Smith,_ Salt
-Lake City: Deseret Book Co., 1976, pp. 199-200, 367.)
+is the blood thereof." ([Lev. 17:14](/scriptures/ot/lev/17.14?lang=eng#13);
+see also [Deut. 12:23](/scriptures/ot/deut/12.23?lang=eng#22); Joseph Fielding
+Smith, comp., _Teachings of the Prophet Joseph Smith,_ Salt Lake City: Deseret
+Book Co., 1976, pp. 199-200, 367.)
 
 President Kimball explained, "Blood, the life-giving element in our bodies,
 replaced the finer substance which coursed through their bodies before. They
@@ -83,8 +82,7 @@ yearns to join the loved ones who have gone before. Some sleep peacefully
 away, while others endure long-suffering. And we know that death can be
 terrible and violent. To threaten or to take life, even our own in suicide, is
 to offend God, for He "in all things hath forbidden it, from the beginning of
-man." ([Ether
-8:19](https://www.lds.org/scriptures/bofm/ether/8.19?lang=eng#18).)
+man." ([Ether 8:19](/scriptures/bofm/ether/8.19?lang=eng#18).)
 
 It is my conviction that in the spirit world prior to mortal birth, we waited
 anxiously for our time to enter mortality. I also believe that we were willing
@@ -237,16 +235,15 @@ tender feelings, spiritual communications really, which may easily be lost if
 there is not a spirit of reverence.
 
 At times of sorrow and parting one may experience that "peace ... which passeth
-all understanding" ([Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6)) which the
-scriptures promise. That is a very private experience. Many have come to
+all understanding" ([Philip. 4:7](/scriptures/nt/philip/4.7?lang=eng#6)) which
+the scriptures promise. That is a very private experience. Many have come to
 marvel in their hearts that such a feeling of peace, even exaltation, can come
 at the time of such grief and uncertainty.
 
 Testimonies are strengthened by such inspiration, and we come to know,
 personally know, what is meant when the Lord said, "I will not leave you
 comfortless: I will come to you." ([John
-14:18](https://www.lds.org/scriptures/nt/john/14.18?lang=eng#17).)
+14:18](/scriptures/nt/john/14.18?lang=eng#17).)
 
 The Comforter works, as far as I have experience, in moments of reverence and
 quiet and solemnity. How sad if our own conduct is irreverent at a time when
@@ -254,8 +251,8 @@ others are seeking so desperately for spiritual strength.
 
 The revelations tell us that "thou shalt live together in love, insomuch that
 thou shalt weep for the loss of them that die, and more especially for those
-that have not hope of a glorious resurrection." ([D&amp;C
-42:45](https://www.lds.org/scriptures/dc-testament/dc/42.45?lang=eng#44).)
+that have not hope of a glorious resurrection." ([D&amp;C 42:45](/scriptures
+/dc-testament/dc/42.45?lang=eng#44).)
 
 A funeral may be a happy-sad occasion when death comes as a welcome release.
 Nevertheless, it is a sacred occasion and should be characterized by solemnity
@@ -266,7 +263,7 @@ repentance, Alma taught his son about death, saying:
 
 "Now behold, it was not expedient that man should be reclaimed from this
 temporal death, for that would destroy the great plan of happiness." ([Alma
-42:8](https://www.lds.org/scriptures/bofm/alma/42.8?lang=eng#7).)
+42:8](/scriptures/bofm/alma/42.8?lang=eng#7).)
 
 Alma did not say that setting mortal death aside would merely delay or disturb
 the plan of happiness; he said it would _destroy_ it.
@@ -288,4 +285,6 @@ each of us will go.
 No consolation in parting compares with that "peace ... which passeth all
 understanding." That is fostered by reverence. Reverence, please, brothers and
 sisters, reverence, I pray in the name of Jesus Christ, amen.
+
+## References
 

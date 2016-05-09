@@ -30,11 +30,11 @@ world. We can do no less than to bestow on them a legacy of peace.
 
 Our Heavenly Father has promised peace to his children. "All thy children
 shall be taught of the Lord; and great shall be the peace of thy children."
-([3 Ne. 22:13](https://www.lds.org/scriptures/bofm/3-ne/22.13?lang=eng#12).)
-Peace in the Lord can give them freedom from self-doubt, freedom from fear,
-freedom from the confinement of their environment, freedom from enslaving
-habits. His peace can free them to unfold from the tender buds they are to the
-mature and fruitful adults they can be.
+([3 Ne. 22:13](/scriptures/bofm/3-ne/22.13?lang=eng#12).) Peace in the Lord
+can give them freedom from self-doubt, freedom from fear, freedom from the
+confinement of their environment, freedom from enslaving habits. His peace can
+free them to unfold from the tender buds they are to the mature and fruitful
+adults they can be.
 
 Just as the fragile bud contains all of the essential elements to develop into
 a lovely plant or flower, so does each child come to us with the potential for
@@ -59,9 +59,9 @@ We begin by teaching what we are. The children need us; they need to see in us
 what they can become. They need to see us keeping the commandments. _We_ must
 come unto the Lord and seek for the peace of the gospel in _our own_ lives.
 "Learn of me," the Lord said, "and listen to my words; walk in the meekness of
-my Spirit, and you shall have peace in me." ([D&amp;C
-19:23](https://www.lds.org/scriptures/dc-testament/dc/19.23?lang=eng#22).)
-When we are at peace, then our children can be at peace.
+my Spirit, and you shall have peace in me." ([D&amp;C 19:23](/scriptures/dc-
+testament/dc/19.23?lang=eng#22).) When we are at peace, then our children can
+be at peace.
 
 A wise bishop made this observation: "I have seen families where parents are
 at home with the gospel, where gospel principles are a matter-of-fact,
@@ -106,15 +106,15 @@ Jerusalem. Many people heard Jesus was coming to Jerusalem for the Feast of
 the Passover. They knew he was the Son of God. They went out to meet him.
 Imagine what it must have been like to be a child in that happy crowd. The
 scripture says it was "a very great multitude." ([Matt.
-21:8](https://www.lds.org/scriptures/nt/matt/21.8?lang=eng#7).) They were
-probably waiting along the narrow streets of Jerusalem becoming more and more
-excited as they strained to see if he was coming yet. Then as he came into
-view, riding on a donkey, can't you just hear a great cheer going up? They
-spread their clothes and tree branches on the ground for the donkey to walk
-on, like they did for kings, and they waved palm leaves in the air. They cried
-"Hosanna to the Son of David ... Hosanna in the highest." ([Matt.
-21:9](https://www.lds.org/scriptures/nt/matt/21.9?lang=eng#8).) Oh, wouldn't
-you love to have been there?
+21:8](/scriptures/nt/matt/21.8?lang=eng#7).) They were probably waiting along
+the narrow streets of Jerusalem becoming more and more excited as they
+strained to see if he was coming yet. Then as he came into view, riding on a
+donkey, can't you just hear a great cheer going up? They spread their clothes
+and tree branches on the ground for the donkey to walk on, like they did for
+kings, and they waved palm leaves in the air. They cried "Hosanna to the Son
+of David ... Hosanna in the highest." ([Matt.
+21:9](/scriptures/nt/matt/21.9?lang=eng#8).) Oh, wouldn't you love to have
+been there?
 
 Yes, tell them about the Savior so they'll trust him, so they'll develop a
 desire to be like him, and want to be with him again. Yes, our homes can
@@ -141,7 +141,7 @@ three months, and we missed having a house and our 'precious things.'
 "My mother reminded us of how Nephi accepted this challenge--willingly--
 knowing that the Lord would 'prepare a way for them that they may accomplish
 the thing which he commandeth them.' (See [1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 "I have learned that I can do without things, but not without my family. My
 brothers and sisters and I have tried to be more like Nephi than his
@@ -154,4 +154,6 @@ of peace, that can lead them to eternal life. We must not fail them.
 May all our children have the blessing to be taught of the Lord that they
 might be, indeed, children at peace, I pray, in the name of Jesus Christ,
 amen.
+
+## References
 

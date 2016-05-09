@@ -30,16 +30,16 @@ holy gift.
 "Mercy claimeth the penitent," he said.
 
 "Mercy claimeth all which is her own." ([Alma 42:23,
-24](https://www.lds.org/scriptures/bofm/alma/42.23%2C24?lang=eng#22).)
+24](/scriptures/bofm/alma/42.23,24?lang=eng#22).)
 
 There is "a repentance granted; which repentance mercy claimeth; otherwise,
 justice claimeth the creature." ([Alma
-42:22](https://www.lds.org/scriptures/bofm/alma/42.22?lang=eng#21).)
+42:22](/scriptures/bofm/alma/42.22?lang=eng#21).)
 
 Corianton listened, repented, and was forgiven, and subsequently returned to
 missionary service to "bring souls unto repentance, that the great plan of
 mercy may have claim upon them." ([Alma
-42:31](https://www.lds.org/scriptures/bofm/alma/42.31?lang=eng#30).)
+42:31](/scriptures/bofm/alma/42.31?lang=eng#30).)
 
 The sin of Corianton was major; the incident involving the missionary was
 innocent and minor. I thought our discussion would resolve the issue. It did
@@ -104,26 +104,23 @@ law of the Lord:
 
 "Which say to the seers, See not; and to the prophets, Prophesy not unto us
 right things, speak unto us smooth things, prophesy deceits." ([Isa.
-30:9-10](https://www.lds.org/scriptures/ot/isa/30.9-10?lang=eng#8).)
+30:9-10](/scriptures/ot/isa/30.9-10?lang=eng#8).)
 
 He spoke of their perverseness, their iniquity, their rejection of him and
 their reliance upon temporal power. Notwithstanding all this, the holy record
 then announces: "And therefore will the Lord wait, that he may be gracious
 unto you, and therefore will he be exalted, that he may have mercy upon you."
-([Isa. 30:18](https://www.lds.org/scriptures/ot/isa/30.18?lang=eng#17).)
+([Isa. 30:18](/scriptures/ot/isa/30.18?lang=eng#17).)
 
 He waits to be gracious! He loves to be merciful! The prophets call him "the
-Father of mercies." ([2 Cor.
-1:3](https://www.lds.org/scriptures/nt/2-cor/1.3?lang=eng#2).) They speak of
-his "abundant mercy," ([1 Pet.
-1:3](https://www.lds.org/scriptures/nt/1-pet/1.3?lang=eng#2)), and declare
-that "whosoever repenteth, and hardeneth not his heart, he shall have claim on
-mercy" ([Alma
-12:34](https://www.lds.org/scriptures/bofm/alma/12.34?lang=eng#33)). They
-declare his "wisdom ... mercy, and grace." ([2 Ne.
-9:8](https://www.lds.org/scriptures/bofm/2-ne/9.8?lang=eng#7).) And crowning
-all of this is the testimony that our Father "delighteth in mercy." ([Micah
-7:18](https://www.lds.org/scriptures/ot/micah/7.18?lang=eng#17).)
+Father of mercies." ([2 Cor. 1:3](/scriptures/nt/2-cor/1.3?lang=eng#2).) They
+speak of his "abundant mercy," ([1 Pet.
+1:3](/scriptures/nt/1-pet/1.3?lang=eng#2)), and declare that "whosoever
+repenteth, and hardeneth not his heart, he shall have claim on mercy" ([Alma
+12:34](/scriptures/bofm/alma/12.34?lang=eng#33)). They declare his "wisdom ...
+mercy, and grace." ([2 Ne. 9:8](/scriptures/bofm/2-ne/9.8?lang=eng#7).) And
+crowning all of this is the testimony that our Father "delighteth in mercy."
+([Micah 7:18](/scriptures/ot/micah/7.18?lang=eng#17).)
 
 _The specialty of the Father is mercy._
 
@@ -131,14 +128,13 @@ _The specialty of the Savior is mercy._
 
 He spoke to the world those things which he had heard of his Father. "As my
 Father hath taught me, I speak these things." ([John 8:26,
-28](https://www.lds.org/scriptures/nt/john/8.26%2C28?lang=eng#25).)
+28](/scriptures/nt/john/8.26,28?lang=eng#25).)
 
 The scriptures teach that he took upon himself the form of man and was
 "touched with the feeling of our infirmities." ([Heb.
-4:15](https://www.lds.org/scriptures/nt/heb/4.15?lang=eng#14).) "Wherefore in
-all things it behoved him to be made like unto his brethren, that he might be
-a merciful and faithful high priest." ([Heb.
-2:17](https://www.lds.org/scriptures/nt/heb/2.17?lang=eng#16).)
+4:15](/scriptures/nt/heb/4.15?lang=eng#14).) "Wherefore in all things it
+behoved him to be made like unto his brethren, that he might be a merciful and
+faithful high priest." ([Heb. 2:17](/scriptures/nt/heb/2.17?lang=eng#16).)
 
 There is one who understands, who sympathizes. He was misunderstood, rejected,
 knew supreme loneliness, was poor and had not a place to lay his head,
@@ -153,11 +149,11 @@ _The specialty of the Savior is mercy._
 _And he requires that we be specialists in mercy._
 
 "Be ye therefore merciful, as your Father also is merciful." ([Luke
-6:36](https://www.lds.org/scriptures/nt/luke/6.36?lang=eng#35).)
+6:36](/scriptures/nt/luke/6.36?lang=eng#35).)
 
 Through Micah we are taught man's whole duty, which is to walk humbly with
 God, to do justly among our fellowmen, and to "love mercy." ([Micah
-6:8](https://www.lds.org/scriptures/ot/micah/6.8?lang=eng#7).)
+6:8](/scriptures/ot/micah/6.8?lang=eng#7).)
 
 Our individual need for mercy and its conditions he explained in a parable of
 two men who went up to the temple to pray. One proudly announced his own
@@ -165,35 +161,33 @@ perfections and righteousness. The other "would not lift up so much as his
 eyes unto heaven, but smote upon his breast, saying, God be merciful to me a
 sinner." Of this honest, unpretentious man the Lord declared that he "went
 down to his house justified rather than the other." ([Luke
-18:13-14](https://www.lds.org/scriptures/nt/luke/18.13-14?lang=eng#12).)
+18:13-14](/scriptures/nt/luke/18.13-14?lang=eng#12).)
 
 The meaning of mercy he taught in a parable of a man beaten and left at the
 roadside and concluded the sweet story of the Samaritan by referring to two
 men who passed by without helping, and to one who stopped to assist him. Which
 of these three, the Lord asked, was neighbor to the man? And he answered: "He
 that shewed mercy on him. Then said Jesus, ... Go, and do thou likewise." ([Luke
-10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).)
+10:37](/scriptures/nt/luke/10.37?lang=eng#36).)
 
 Thus the mercy of God must be mirrored in the mercy of man, and the field is
 as broad as the needs of the whole human family. The Psalmist cried, "Have
 mercy upon me, O Lord, for I am in trouble." ([Ps.
-31:9](https://www.lds.org/scriptures/ot/ps/31.9?lang=eng#8).)
+31:9](/scriptures/ot/ps/31.9?lang=eng#8).)
 
 All of us are in trouble. There is no just man on the earth who doeth good and
-sinneth not. (See [Eccl.
-7:20](https://www.lds.org/scriptures/ot/eccl/7.20?lang=eng#19).)
+sinneth not. (See [Eccl. 7:20](/scriptures/ot/eccl/7.20?lang=eng#19).)
 
 In the most personal of his parables, the Savior identified himself fully with
 the hungry, the thirsty, the naked, the homeless, sick, and imprisoned. "I was
 an hungred, and ye gave me meat: ... I was a stranger, and ye took me in."
-([Matt. 25:35](https://www.lds.org/scriptures/nt/matt/25.35?lang=eng#34).) So
-many are burdened with earthly care, the stain of sin, poverty, pain,
-disability, loneliness, bereavement, rejection. The promise of Christ's mercy
-is sure and certain to those who find him and trust him. He who stilled the
-winds and waves can bring peace to the sinner and to the suffering saint. And
-we as his agents are not alone to declare his word, but to represent him in
-doing unto the least of his brethren that which he himself would do were he
-now here.
+([Matt. 25:35](/scriptures/nt/matt/25.35?lang=eng#34).) So many are burdened
+with earthly care, the stain of sin, poverty, pain, disability, loneliness,
+bereavement, rejection. The promise of Christ's mercy is sure and certain to
+those who find him and trust him. He who stilled the winds and waves can bring
+peace to the sinner and to the suffering saint. And we as his agents are not
+alone to declare his word, but to represent him in doing unto the least of his
+brethren that which he himself would do were he now here.
 
 In a refugee camp in Asia was a young former schoolteacher who with her mother
 had escaped their country after having watched the brutal murder of others in
@@ -207,10 +201,9 @@ ladies representing us there, no professional competence to deal with a
 tortured mind and spirit. They prayed for her, took her hand, and spoke words
 of love to her; and she answered! For the first time in five years she spoke,
 and she has been speaking since. The Spirit of him who said, "Peace be still"
-([Mark 4:39](https://www.lds.org/scriptures/nt/mark/4.39?lang=eng#38)),
-reached out through faithful instruments, touched the storm center of a
-troubled soul, stilled the winds and waves of torment, and brought faith and
-hope again.
+([Mark 4:39](/scriptures/nt/mark/4.39?lang=eng#38)), reached out through
+faithful instruments, touched the storm center of a troubled soul, stilled the
+winds and waves of torment, and brought faith and hope again.
 
 For me and mine, and for you, I pray to be worthy to carry the same banner as
 our beloved brother who found the way to mercy and who exemplifies in his life
@@ -218,7 +211,9 @@ what I heard him humbly declare: "My specialty is mercy."
 
 "Let us therefore come boldly unto the throne of grace, that we may obtain
 mercy, and find grace to help in time of need." ([Heb.
-4:16](https://www.lds.org/scriptures/nt/heb/4.16?lang=eng#15).)
+4:16](/scriptures/nt/heb/4.16?lang=eng#15).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

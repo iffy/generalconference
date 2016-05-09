@@ -34,16 +34,15 @@ by the sweat of his brow.
 The Apostle Paul counsels husbands and fathers, "But if any provide not for
 his own, and specially for those of his own house, he hath denied the faith,
 and is worse than an infidel" ([1 Tim.
-5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7)).
+5:8](/scriptures/nt/1-tim/5.8?lang=eng#7)).
 
 Early in the history of the restored Church, the Lord specifically charged men
 with the obligation to provide for their wives and family. In January of 1832
 He said, "Verily I say unto you, that every man who is obliged to provide for
 his own family, let him provide, and he shall in nowise lose his crown"
-([D&amp;C 75:28](https://www.lds.org/scriptures/dc-
-testament/dc/75.28?lang=eng#27)). Three months later the Lord said again,
-"Women have claim on their husbands for their maintenance, until their
-husbands are taken" ([D&amp;C 83:2](https://www.lds.org/scriptures/dc-
+([D&amp;C 75:28](/scriptures/dc-testament/dc/75.28?lang=eng#27)). Three months
+later the Lord said again, "Women have claim on their husbands for their
+maintenance, until their husbands are taken" ([D&amp;C 83:2](/scriptures/dc-
 testament/dc/83.2?lang=eng#1)). This is the divine right of a wife and mother.
 While she cares for and nourishes her children at home, her husband earns the
 living for the family, which makes this nourishing possible.
@@ -123,12 +122,12 @@ and make demands upon their family.
 
 The Apostle Paul points out that "the husband is the head of the wife, _even
 as_ Christ is the head of the church" ([Eph.
-5:23](https://www.lds.org/scriptures/nt/eph/5.23?lang=eng#22); italics added).
-That is the model we are to follow in our role of presiding in the home. We do
-not find the Savior leading the Church with a harsh or unkind hand. We do not
-find the Savior treating His Church with disrespect or neglect. We do not find
-the Savior using force or coercion to accomplish His purposes. Nowhere do we
-find the Savior doing anything but that which edifies, uplifts, comforts, and
+5:23](/scriptures/nt/eph/5.23?lang=eng#22); italics added). That is the model
+we are to follow in our role of presiding in the home. We do not find the
+Savior leading the Church with a harsh or unkind hand. We do not find the
+Savior treating His Church with disrespect or neglect. We do not find the
+Savior using force or coercion to accomplish His purposes. Nowhere do we find
+the Savior doing anything but that which edifies, uplifts, comforts, and
 exalts the Church. Brethren, I say to you with all soberness, He is the model
 we must follow as we take the spiritual lead in our families.
 
@@ -136,15 +135,14 @@ Particularly is this true in your relationship with your wife.
 
 Here again the counsel from the Apostle Paul is most beautiful and to the
 point. He said simply, "Husbands, love your wives, even as Christ also loved
-the church" ([Eph.
-5:25](https://www.lds.org/scriptures/nt/eph/5.25?lang=eng#24)).
+the church" ([Eph. 5:25](/scriptures/nt/eph/5.25?lang=eng#24)).
 
 In latter-day revelation the Lord speaks again of this obligation. He said,
 "Thou shalt love thy wife with all thy heart, and shalt cleave unto her and
-none else" ([D&amp;C 42:22](https://www.lds.org/scriptures/dc-
-testament/dc/42.22?lang=eng#21)). To my knowledge there is only one other
-thing in all scripture that we are commanded to love with all our hearts, and
-that is God Himself. Think what that means!
+none else" ([D&amp;C 42:22](/scriptures/dc-testament/dc/42.22?lang=eng#21)).
+To my knowledge there is only one other thing in all scripture that we are
+commanded to love with all our hearts, and that is God Himself. Think what
+that means!
 
 This kind of love can be shown for your wives in so many ways. First and
 foremost, nothing except God Himself takes priority over your wife in your
@@ -207,25 +205,16 @@ nurturing and loving is vital to the spiritual welfare of his children.
 With love in my heart for the fathers in Israel, may I suggest ten specific
 ways that fathers can give spiritual leadership to their children:
 
-  1. Give father's blessings to your children. Baptize and confirm your children. Ordain your sons to the priesthood. These will become spiritual highlights in the lives of your children.
-
-  2. Personally direct family prayers, daily scripture reading, and weekly family home evenings. Your personal involvement will show your children how important these activities really are.
-
-  3. Whenever possible, attend Church meetings together as a family. Family worship under your leadership is vital to your children's spiritual welfare.
-
-  4. Go on daddy-daughter dates and father-and-sons' outings with your children. As a family, go on campouts and picnics, to ball games and recitals, to school programs, and so forth. Having Dad there makes all the difference.
-
-  5. Build traditions of family vacations and trips and outings. These memories will never be forgotten by your children.
-
-  6. Have regular one-on-one visits with your children. Let them talk about what they would like to. Teach them gospel principles. Teach them true values. Tell them you love them. Personal time with your children tells them where Dad puts his priorities.
-
-  7. Teach your children to work, and show them the value of working toward a worthy goal. Establishing mission funds and education funds for your children shows them what Dad considers to be important.
-
-  8. Encourage good music and art and literature in your homes. Homes that have a spirit of refinement and beauty will bless the lives of your children forever.
-
-  9. As distances allow, regularly attend the temple with your wife. Your children will then better understand the importance of temple marriage and temple vows and the eternal family unit.
-
-  10. Have your children see your joy and satisfaction in service to the Church. This can become contagious to them, so they, too, will want to serve in the Church and will love the kingdom.
+  1. Give father's blessings to your children. Baptize and confirm your children. Ordain your sons to the priesthood. These will become spiritual highlights in the lives of your children. 
+  2. Personally direct family prayers, daily scripture reading, and weekly family home evenings. Your personal involvement will show your children how important these activities really are. 
+  3. Whenever possible, attend Church meetings together as a family. Family worship under your leadership is vital to your children's spiritual welfare. 
+  4. Go on daddy-daughter dates and father-and-sons' outings with your children. As a family, go on campouts and picnics, to ball games and recitals, to school programs, and so forth. Having Dad there makes all the difference. 
+  5. Build traditions of family vacations and trips and outings. These memories will never be forgotten by your children. 
+  6. Have regular one-on-one visits with your children. Let them talk about what they would like to. Teach them gospel principles. Teach them true values. Tell them you love them. Personal time with your children tells them where Dad puts his priorities. 
+  7. Teach your children to work, and show them the value of working toward a worthy goal. Establishing mission funds and education funds for your children shows them what Dad considers to be important. 
+  8. Encourage good music and art and literature in your homes. Homes that have a spirit of refinement and beauty will bless the lives of your children forever. 
+  9. As distances allow, regularly attend the temple with your wife. Your children will then better understand the importance of temple marriage and temple vows and the eternal family unit. 
+  10. Have your children see your joy and satisfaction in service to the Church. This can become contagious to them, so they, too, will want to serve in the Church and will love the kingdom. 
 
 Oh, husbands and fathers in Israel, you can do so much for the salvation and
 exaltation of your families! Your responsibilities are so important.
@@ -238,4 +227,6 @@ eternal companion at your side, may you fulfill your sacred responsibility to
 provide the spiritual leadership in your home.
 
 To this end I pray, in the name of Jesus Christ, amen.
+
+## References
 

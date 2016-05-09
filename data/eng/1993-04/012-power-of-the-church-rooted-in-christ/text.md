@@ -39,12 +39,11 @@ power and authority of the First Presidency and the Quorum of the Twelve
 Apostles extend to Christ's ordained work in all the world. He has appointed
 the Apostles and the Seventy to travel in all nations to build up and regulate
 the Church. The Lord also calls "standing ministers" ([D&amp;C
-124:137](https://www.lds.org/scriptures/dc-testament/dc/124.137?lang=eng#136))
-to stay and bless us where we are and has affirmed the validity of his
-ordained representatives: "Whether by mine own voice or by the voice of my
-servants, it is the same." ([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37).) Those in authority have no question about
-whose work this is and for whom we labor.
+124:137](/scriptures/dc-testament/dc/124.137?lang=eng#136)) to stay and bless
+us where we are and has affirmed the validity of his ordained representatives:
+"Whether by mine own voice or by the voice of my servants, it is the same."
+([D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).) Those in
+authority have no question about whose work this is and for whom we labor.
 
 _Secondly, immense power comes from our divinely mandated purpose._ The
 Church's goal is not social standing, nor is it political or economic power.
@@ -57,7 +56,7 @@ and it shapes everything about the Lord's kingdom.
 _The power of the Church is also related to its essential work._ Our work is
 to teach correct doctrine and principles of the gospel, and to provide all
 humankind with saving ordinances so that they will receive "all that [the]
-Father hath." ([D&amp;C 84:38](https://www.lds.org/scriptures/dc-
+Father hath." ([D&amp;C 84:38](/scriptures/dc-
 testament/dc/84.38?lang=eng#37).) President Howard W. Hunter has declared, the
 Church "has a comprehensive and inclusive message ... restored to meet the needs
 of all mankind." (_Ensign,_ Nov. 1991, pp. 18-19.) Indeed, the Church is
@@ -73,9 +72,9 @@ partaking of the sacrament, in temple worship, and in the integrity of our
 daily lives. True disciples seal their faith in service that is motivated by
 love for the Savior and for the people of the earth.
 
-_The strength of the Church is also rooted in obedience to the principle of_
-_stewardship._ We acknowledge that all we possess belongs to God. We and all
-brothers and sisters who preceded us come as one, in common, to bring our
+_The strength of the Church is also rooted in obedience to the principle
+of__stewardship._ We acknowledge that all we possess belongs to God. We and
+all brothers and sisters who preceded us come as one, in common, to bring our
 offerings of tithes, time, and talents for building the kingdom of God. We
 strive to lift one another as neighbors and to establish ourselves as a
 covenant community whose lives are centered in Christ.
@@ -97,7 +96,7 @@ Smith. It is _The_ Church of Jesus Christ. It is the only organization in all
 the world that will not fail. We are witnessing today the fulfillment of the
 words of the prophet Daniel: The God of heaven shall set up a kingdom, which
 shall fill the whole earth and shall stand forever. (See [Dan.
-2:29-45](https://www.lds.org/scriptures/ot/dan/2.29-45?lang=eng#28).)
+2:29-45](/scriptures/ot/dan/2.29-45?lang=eng#28).)
 
 Professor Bloom complimented the patience of our Church leaders. Patience is
 born of justified optimism. Elder Heber C. Kimball, an early Apostle, provides
@@ -117,8 +116,8 @@ At that same time, Joseph Smith penned these inspiring words from Liberty
 Jail: "What power shall stay the heavens? As well might man stretch forth his
 puny arm to stop the Missouri river in its decreed course, or to turn it up
 stream, as to hinder the Almighty from pouring down knowledge from heaven upon
-the heads of the Latter-day Saints." ([D&amp;C
-121:33](https://www.lds.org/scriptures/dc-testament/dc/121.33?lang=eng#32).)
+the heads of the Latter-day Saints." ([D&amp;C 121:33](/scriptures/dc-
+testament/dc/121.33?lang=eng#32).)
 
 With grand optimism the Prophet Joseph wrote to the editor of the _Chicago
 Democrat:_ "No unhallowed hand can stop the work from progressing;
@@ -134,11 +133,13 @@ provided the plan of salvation, and established this church. For He himself
 declared: "For I, the Lord, have put forth my hand to exert the powers of
 heaven; ye cannot see it now, yet a little while and ye shall see it, and know
 that I am, and that I will come and reign with my people." ([D&amp;C
-84:119](https://www.lds.org/scriptures/dc-testament/dc/84.119?lang=eng#118).)
+84:119](/scriptures/dc-testament/dc/84.119?lang=eng#118).)
 
 No other institution has the divine character as does The Church of Jesus
 Christ of Latter-day Saints. That is because it has true authority, revealed
 purpose, a divine work, committed disciples, a vision of our stewardship, and
 impelling principles of eternal progress. To these things I humbly and
 gratefully testify, in the name of our Lord and Savior, Jesus Christ, amen.
+
+## References
 

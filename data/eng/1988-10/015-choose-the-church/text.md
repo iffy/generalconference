@@ -42,3 +42,5 @@ other side of the veil, and with her pulling for me on this side, I will
 succeed. I know that with the help of the Lord I will succeed. To him I
 promise to give my all, in the holy name of Jesus Christ, amen.
 
+## References
+

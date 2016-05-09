@@ -37,8 +37,7 @@ went in with him to the marriage: and the door was shut.
 "But he answered and said, Verily I say unto you, I know you not.
 
 "Watch therefore, for ye know neither the day nor the hour wherein the Son of
-man cometh." ([Matt.
-25:1-13](https://www.lds.org/scriptures/nt/matt/25.1-13?lang=eng#0).)
+man cometh." ([Matt. 25:1-13](/scriptures/nt/matt/25.1-13?lang=eng#0).)
 
 As we contemplate the lessons of this parable, we realize that all ten virgins
 had oil in their lamps. Five were wise and kept the oil replenished so they
@@ -93,10 +92,9 @@ impossible.
 
 It is true that we live in a troubled world. There are many unemployed.
 Bankruptcies of individuals, of corporations, and of nations are alarming.
-Wars and rumors of wars are all about us. (See [D&amp;C
-45:26](https://www.lds.org/scriptures/dc-testament/dc/45.26?lang=eng#25).)
-Man's inhumanity to man is shocking. Moral values have deteriorated to the
-level of Sodom and Gomorrah. The list is long.
+Wars and rumors of wars are all about us. (See [D&amp;C 45:26](/scriptures/dc-
+testament/dc/45.26?lang=eng#25).) Man's inhumanity to man is shocking. Moral
+values have deteriorated to the level of Sodom and Gomorrah. The list is long.
 
 Many of these problems exist today because we did not prepare yesterday. These
 problems are not insurmountable to those who are prepared. Neither do they
@@ -201,9 +199,8 @@ commissioned you. ...
 
 "And as all have not faith, seek ye diligently and teach one another words of
 wisdom; yea, seek ye out of the best books words of wisdom; seek learning,
-even by study and also by faith." ([D&amp;C 88:77-80,
-118](https://www.lds.org/scriptures/dc-
-testament/dc/88.77-80%2C118?lang=eng#76).)
+even by study and also by faith." ([D&amp;C 88:77-80, 118](/scriptures/dc-
+testament/dc/88.77-80,118?lang=eng#76).)
 
 If we and our children are to be responsible individuals and properly take
 care of our own, we must prepare ourselves to do so. Education is one of the
@@ -245,8 +242,7 @@ take thine ease, eat, drink, and be merry.
 thee: then whose shall those things be, which thou hast provided?
 
 "So is he that layeth up treasure for himself, and is not rich toward God."
-([Luke
-12:16-21](https://www.lds.org/scriptures/nt/luke/12.16-21?lang=eng#15).)
+([Luke 12:16-21](/scriptures/nt/luke/12.16-21?lang=eng#15).)
 
 In April conference fourteen years ago, President David O. McKay said, "With
 all my soul, I plead with members of the church, and with people everywhere,
@@ -259,7 +255,7 @@ to: we can only build tomorrow on that which we attain today. Yet we need not
 wait until tomorrow to enjoy the fruits of our current spiritual development.
 If we consistently follow the teachings of the Savior, we need not walk in
 darkness; rather, we will enjoy the light of life. (See [John
-8:12](https://www.lds.org/scriptures/nt/john/8.12?lang=eng#11).)
+8:12](/scriptures/nt/john/8.12?lang=eng#11).)
 
 As parents, we must teach and practice both physical and spiritual
 preparedness. Let us make every effort to avoid the remorse which comes from
@@ -268,8 +264,7 @@ admonition and example of President Kimball when he says, "Do it."
 
 As the Lord has said, "Not every one that saith unto me, Lord, Lord, shall
 enter into the kingdom of heaven; but he that doeth the will of my Father
-which is in heaven." ([Matt.
-7:21](https://www.lds.org/scriptures/nt/matt/7.21?lang=eng#20).)
+which is in heaven." ([Matt. 7:21](/scriptures/nt/matt/7.21?lang=eng#20).)
 
 Let us not look back to this day twenty or thirty years from now and ask, "How
 many of today's problems could have been avoided if we had only followed the
@@ -289,11 +284,12 @@ whatsoever I have said unto you.
 
 "Peace I leave with you, my peace I give unto you: not as the world giveth,
 give I unto you. Let not your heart be troubled, neither let it be afraid."
-([John 14:23,
-25-27](https://www.lds.org/scriptures/nt/john/14.23%2C25-27?lang=eng#22).)
+([John 14:23, 25-27](/scriptures/nt/john/14.23,25-27?lang=eng#22).)
 
 This is the peace that can give each of us an inner tranquility when all about
 us is confusion. It is a peace that transcends all material things. That we
 might meet today's challenges, thereby moving forward with confidence into
 tomorrow, is my humble prayer, in the name of the Lord Jesus Christ, amen.
+
+## References
 

@@ -9,14 +9,14 @@ the Mount."
 Instinctively the visitor turns to the Gospel of St. Matthew and reads: "And
 seeing the multitudes, he went up into a mountain: and when he was set, his
 disciples came unto him: And he opened his mouth, and taught them." ([Matt.
-5:1-2](https://www.lds.org/scriptures/nt/matt/5.1-2?lang=eng#0).) Among the
-truths which he taught was this solemn statement: "Enter ye in at the strait
-gate: for wide is the gate, and broad is the way, that leadeth to destruction,
-and many there be which go in thereat:
+5:1-2](/scriptures/nt/matt/5.1-2?lang=eng#0).) Among the truths which he
+taught was this solemn statement: "Enter ye in at the strait gate: for wide is
+the gate, and broad is the way, that leadeth to destruction, and many there be
+which go in thereat:
 
 "Because strait is the gate, and narrow is the way, which leadeth unto life,
 and few there be that find it." ([Matt.
-7:13-14](https://www.lds.org/scriptures/nt/matt/7.13-14?lang=eng#12).)
+7:13-14](/scriptures/nt/matt/7.13-14?lang=eng#12).)
 
 Ageless in its application, wise men throughout the generations of time have
 sought to live by this simple statement.
@@ -39,12 +39,11 @@ the lengthening shadows of a black night enshrouded the earth.
 One word and one word alone describes the dismal state that prevailed:
 apostasy. Generations before, Isaiah had prophesied: "Darkness shall cover the
 earth, and gross darkness the people." ([Isa.
-60:2](https://www.lds.org/scriptures/ot/isa/60.2?lang=eng#1).) Amos had
-foretold of a famine in the land: "Not a famine of bread, nor a thirst for
-water, but of hearing the words of the Lord." ([Amos
-8:11](https://www.lds.org/scriptures/ot/amos/8.11?lang=eng#10).) Had not Peter
-warned of false teachers bringing damnable heresies, and Paul predicted that
-the time would come when sound doctrine would not be endured?
+60:2](/scriptures/ot/isa/60.2?lang=eng#1).) Amos had foretold of a famine in
+the land: "Not a famine of bread, nor a thirst for water, but of hearing the
+words of the Lord." ([Amos 8:11](/scriptures/ot/amos/8.11?lang=eng#10).) Had
+not Peter warned of false teachers bringing damnable heresies, and Paul
+predicted that the time would come when sound doctrine would not be endured?
 
 The dark ages of history seemed never to end. Was there to be no termination
 to this blasphemous night? Had a loving Father forgotten mankind? Would he
@@ -146,7 +145,7 @@ sun, which descended gradually until it fell upon me.
 glory defy all description, standing above me in the air. One of them spake
 unto me, calling me by name and said, pointing to the other--_This is My
 Beloved Son. Hear Him!_" ([JS--H
-1:5-17](https://www.lds.org/scriptures/pgp/js-h/1.5-17?lang=eng#4).)
+1:5-17](/scriptures/pgp/js-h/1.5-17?lang=eng#4).)
 
 The Father and the Son, Jesus Christ, had appeared to Joseph Smith. The
 morning of the dispensation of the fulness of times had come, dispelling the
@@ -224,9 +223,10 @@ missionaries. Open your minds to the word of God. Open your hearts, even your
 very souls, to the sound of that still, small voice which testifies of truth.
 As the prophet Isaiah promised: "Thine ears shall hear a word ... saying, This
 is the way, walk ye in it." ([Isa.
-30:21](https://www.lds.org/scriptures/ot/isa/30.21?lang=eng#20).) Then, like
-the boy of whom I've spoken, you too will, on bended knee, say to your God and
-mine: "I'm home!"
+30:21](/scriptures/ot/isa/30.21?lang=eng#20).) Then, like the boy of whom I've
+spoken, you too will, on bended knee, say to your God and mine: "I'm home!"
 
 May such be the blessing of all, I pray in the name of Jesus Christ. Amen.
+
+## References
 

@@ -33,12 +33,11 @@ The summit where they stood was named Ensign Peak out of reference to these
 great prophetic words of Isaiah: "And he [speaking of God] will lift up an
 ensign to the nations from far, and will hiss unto them from the end of the
 earth: and, behold, they shall come with speed swiftly." ([Isa.
-5:26](https://www.lds.org/scriptures/ot/isa/5.26?lang=eng#25).)
+5:26](/scriptures/ot/isa/5.26?lang=eng#25).)
 
 "And he shall set up an ensign for the nations, and shall assemble the
 outcasts of Israel, and gather together the dispersed of Judah from the four
-corners of the earth." ([Isa.
-11:12](https://www.lds.org/scriptures/ot/isa/11.12?lang=eng#11).)
+corners of the earth." ([Isa. 11:12](/scriptures/ot/isa/11.12?lang=eng#11).)
 
 There is some evidence to indicate that Wilford Woodruff took from his pocket
 a bandanna handkerchief and waved it as an ensign or a standard to the
@@ -57,7 +56,7 @@ above the hills; and all nations shall flow unto it.
 of the Lord, to the house of the God of Jacob; and he will teach us of his
 ways, and we will walk in his paths: for out of Zion shall go forth the law,
 and the word of the Lord from Jerusalem." ([Isa.
-2:2-3](https://www.lds.org/scriptures/ot/isa/2.2-3?lang=eng#1).)
+2:2-3](/scriptures/ot/isa/2.2-3?lang=eng#1).)
 
 How foolish, someone might have said, had he heard these men that July morning
 of 1847. They did not look like statesmen with great dreams. They did not look
@@ -187,7 +186,7 @@ come after them will be affected by what they do today. They are fulfilling
 the declarations of ancient prophets who spoke in the name of the Lord
 concerning the "marvellous work and a wonder" that should come to pass in the
 dispensation of the fulness of times. ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13).)
+29:14](/scriptures/ot/isa/29.14?lang=eng#13).)
 
 I think of this beautiful Temple Square, where we are meeting. I think of the
 travail that lies behind its creation.
@@ -244,7 +243,7 @@ will walk in obedience to His commandments.
 My brethren and sisters, the priesthood is upon the earth, the power of God
 given to men to act in His name and for His purposes. It carries with it "the
 keys of the kingdom, for an ensign, and for the gathering" of the people of
-the Lord in the last days. ([D&amp;C 113:6](https://www.lds.org/scriptures/dc-
+the Lord in the last days. ([D&amp;C 113:6](/scriptures/dc-
 testament/dc/113.6?lang=eng#5).)
 
 My co-workers in this great cause and kingdom, you and I are weaving the grand
@@ -280,4 +279,6 @@ have left this scene. God help us to do our very best as servants, called
 under His divine will, to carry forward and build the kingdom with imperfect
 hands, united together to execute a perfect pattern. I so pray, as I bear
 witness of these things, in the name of Jesus Christ, amen.
+
+## References
 

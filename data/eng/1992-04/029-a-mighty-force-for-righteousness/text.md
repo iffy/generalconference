@@ -35,11 +35,10 @@ It is important for all of us to know who we are and what God expects of us.
 
 After Jesus had fasted forty days, the tempter came to Him and attempted to
 plant seeds of doubt about who He really was: "If thou be the Son of God," he
-began his evil ploy. ([Matt.
-4:3](https://www.lds.org/scriptures/nt/matt/4.3?lang=eng#2).) Jesus knew who
-He was. He has declared that message clearly to each of us: "Behold, I am
-Jesus Christ, the Son of God!" ([D&amp;C 6:21](https://www.lds.org/scriptures
-/dc-testament/dc/6.21?lang=eng#20).) He is our Savior, our advocate with the
+began his evil ploy. ([Matt. 4:3](/scriptures/nt/matt/4.3?lang=eng#2).) Jesus
+knew who He was. He has declared that message clearly to each of us: "Behold,
+I am Jesus Christ, the Son of God!" ([D&amp;C 6:21](/scriptures/dc-
+testament/dc/6.21?lang=eng#20).) He is our Savior, our advocate with the
 Father.
 
 The young women of the Church have a personal statement which declares their
@@ -102,4 +101,6 @@ _And He is mine forever._
 It is through the ordinances and covenants available in the temple that our
 Father in Heaven has provided the way for us to return to Him rejoicing. To
 these eternal truths I bear my testimony in the name of Jesus Christ, amen.
+
+## References
 

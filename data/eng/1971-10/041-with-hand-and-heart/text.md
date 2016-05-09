@@ -13,8 +13,7 @@ weak, lift up the hands which hang down, and strengthen the feeble knees.
 
 "And if thou art faithful unto the end thou shalt have a crown of immortality,
 and eternal life in the mansions which I have prepared in the house of my
-Father." ([D&amp;C 81:5-6](https://www.lds.org/scriptures/dc-
-testament/dc/81.5-6?lang=eng#4).)
+Father." ([D&amp;C 81:5-6](/scriptures/dc-testament/dc/81.5-6?lang=eng#4).)
 
 As I ponder his words, I can almost hear the shuffle of sandaled feet, the
 murmurs of astonishment from listeners as they echo from Capernaum's peaceful
@@ -29,22 +28,20 @@ toward God.
 At Galilee there came to him a leper who pleaded: "Lord, if thou wilt, thou
 canst make me clean. And Jesus put forth his hand, and touched him, saying, I
 will; be thou clean. And immediately his leprosy was cleansed." ([Matt.
-8:2-3](https://www.lds.org/scriptures/nt/matt/8.2-3?lang=eng#1).) The hand of
-Jesus was not polluted by touching the leper's body, but the leper's body was
-cleansed by the touch of that holy hand.
+8:2-3](/scriptures/nt/matt/8.2-3?lang=eng#1).) The hand of Jesus was not
+polluted by touching the leper's body, but the leper's body was cleansed by
+the touch of that holy hand.
 
 In Capernaum, at the house of Peter, yet another example was provided. The
 mother of Peter's wife lay sick of a fever. The sacred record reveals that
 Jesus came "and took her by the hand, and lifted her up; and immediately the
-fever left her. ..." ([Mark
-1:31](https://www.lds.org/scriptures/nt/mark/1.31?lang=eng#30).)
+fever left her. ..." ([Mark 1:31](/scriptures/nt/mark/1.31?lang=eng#30).)
 
 So it was with the daughter of Jairus, a ruler of the synagogue. Each parent
 can appreciate the feelings of Jairus as he sought the Lord, and, upon finding
 him, fell at his feet and pleaded, "My little daughter lieth at the point of
 death; I pray thee, come and lay thy hands on her, that she may be healed; and
-she shall live." ([Mark
-5:23](https://www.lds.org/scriptures/nt/mark/5.23?lang=eng#22).)
+she shall live." ([Mark 5:23](/scriptures/nt/mark/5.23?lang=eng#22).)
 
 "While he yet spake, there cometh one from the [ruler's] house, saying to him,
 Thy daughter is dead; trouble not the Master.
@@ -55,9 +52,8 @@ not; she is not dead, but sleepeth.
 
 "[He] ... took her by the hand, and called, saying: Maid, arise.
 
-"And her spirit came again, and she arose straightway. ..." ([Luke 8:49-50, 52, 
-54-55](https://www.lds.org/scriptures/nt/luke/8.49-50%2C52%2C54-55?lang=eng#48
-).)
+"And her spirit came again, and she arose straightway. ..." ([Luke 8:49-50, 52,
+54-55](/scriptures/nt/luke/8.49-50,52,54-55?lang=eng#48).)
 
 Once again, the Lord had stretched forth his hand to take the hand of another.
 
@@ -76,9 +72,9 @@ day was carried to the temple gate that he might ask alms of all who entered.
 That he asked alms of Peter and John as these two brethren approached
 indicates that he regarded them no differently from scores of others who must
 have passed by him that day. Then Peter's majestic yet gentle command: "Look
-on us." ([Acts 3:4](https://www.lds.org/scriptures/nt/acts/3.4?lang=eng#3).)
-The record states that the lame man gave heed unto them, expecting to receive
-something from them.
+on us." ([Acts 3:4](/scriptures/nt/acts/3.4?lang=eng#3).) The record states
+that the lame man gave heed unto them, expecting to receive something from
+them.
 
 The stirring words Peter then spoke have lifted the hearts of honest believers
 down through the stream of time, even to this day: "Silver and gold have I
@@ -86,7 +82,7 @@ none; but such as I have give I thee: In the name of Jesus Christ of Nazareth
 rise up and walk." Frequently we conclude the citation at this point and fail
 to note the next verses: "And he took him by the right hand, and lifted him
 up: ... he ... stood, and walked, and entered with them into the temple. ..." ([Acts
-3:6-8](https://www.lds.org/scriptures/nt/acts/3.6-8?lang=eng#5).)
+3:6-8](/scriptures/nt/acts/3.6-8?lang=eng#5).)
 
 A helping hand had been extended. A broken body had been healed. A precious
 soul had been lifted toward God.
@@ -98,8 +94,7 @@ but a doer; not a leaner, but a lifter. But our complacency tree has many
 branches, and each spring more buds come into bloom. Often we live side by
 side but do not communicate heart to heart. There are those within the sphere
 of our own influence who, with outstretched hands, cry out: "Is there no balm
-in Gilead ... ?" ([Jer.
-8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).) Each of us
+in Gilead ... ?" ([Jer. 8:22](/scriptures/ot/jer/8.22?lang=eng#21).) Each of us
 must answer.
 
 Edwin Markham observed:
@@ -139,8 +134,7 @@ I was." So it ever is when one inclines his heart to the example of the
 Christ.
 
 "... he that loveth not his brother abideth in death," wrote the apostle John
-1900 years ago. ([1 Jn.
-3:14](https://www.lds.org/scriptures/nt/1-jn/3.14?lang=eng#13).)
+1900 years ago. ([1 Jn. 3:14](/scriptures/nt/1-jn/3.14?lang=eng#13).)
 
 Some point the accusing finger at the sinner or the unfortunate and in
 derision say, "He has brought his condition upon himself." Others exclaim,
@@ -148,9 +142,8 @@ derision say, "He has brought his condition upon himself." Others exclaim,
 outward appearance and recognize the true worth of a human soul. When they do,
 miracles occur. The downtrodden, the discouraged, the helpless become "no more
 strangers and foreigners, but fellowcitizens with the saints, and of the
-household of God." ([Eph.
-2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).) True love can
-alter human lives and change human nature.
+household of God." ([Eph. 2:19](/scriptures/nt/eph/2.19?lang=eng#18).) True
+love can alter human lives and change human nature.
 
 This truth was stated so beautifully on the stage in _My Fair Lady. _Eliza
 Doolittle, the flower girl, spoke to one for whom she cared and who later was
@@ -222,4 +215,6 @@ the Savior, lift and love our neighbor to a newness of life.
 May we succor the weak, lift up the hands which hang down, and strengthen the
 feeble knees, thereby inheriting that eternal life promised by the Redeemer, I
 pray, in the name of Jesus Christ. Amen.
+
+## References
 

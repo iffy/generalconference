@@ -4,7 +4,7 @@ One of my heroes, Nephi, often used the phrase "My soul delighteth." Tonight
 my soul delighteth to be part of the many thousands who have gathered to learn
 more about our priesthood responsibilities.
 
-Next Monday the w ords "Play ball!" will ring out in major league baseball
+Next Monday the words "Play ball!" will ring out in major league baseball
 parks throughout the United States and Canada. I am saddened because one of my
 heroes, pitcher Lynn Nolan Ryan, Jr., recently announced this baseball season
 would be his last.
@@ -25,7 +25,7 @@ deceiving batters.
 In life, he who is the greatest deceiver of all has tremendous influence. He
 has many names but is best known as Satan, or the devil. And he knows that "ye
 are a chosen generation, a royal priesthood." ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8).)
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8).)
 
 Make no mistake about it, my young brethren, Satan is the commander in chief
 of deception. He is not satisfied with just taking prisoners; he wants the
@@ -58,8 +58,7 @@ very, very discouraged. An angel appeared to him and said, "Behold, I am sent
 to command thee that thou return to the city of Ammonihah, and preach again
 unto the people of the city; yea, preach unto them. Yea, say unto them, except
 they repent the Lord God will destroy them." ([Alma
-8:16](https://www.lds.org/scriptures/bofm/alma/8.16?lang=eng#15).) Alma
-returned as commanded.
+8:16](/scriptures/bofm/alma/8.16?lang=eng#15).) Alma returned as commanded.
 
 Amulek lived in that city of Ammonihah. He told of this experience: "As I was
 journeying to see a very near kindred, behold an angel of the Lord appeared
@@ -67,8 +66,7 @@ unto me and said: Amulek, return to thine own house, for thou shalt feed a
 prophet of the Lord; yea, a holy man, who is a chosen man of God; for he has
 fasted many days because of the sins of this people, and he is an hungered,
 and thou shalt receive him into thy house and feed him, and he shall bless
-thee and thy house." ([Alma
-10:7](https://www.lds.org/scriptures/bofm/alma/10.7?lang=eng#6).)
+thee and thy house." ([Alma 10:7](/scriptures/bofm/alma/10.7?lang=eng#6).)
 
 Amulek returned and took Alma into his house to eat and to rest. Amulek was
 called to be Alma's missionary companion. On one occasion they were bound,
@@ -155,4 +153,6 @@ standing tall against the evils espoused by the master of deception.
 I know that our Father in Heaven lives and that His Son is our Savior and
 Redeemer. I know they love us and want us to be successful. Of this I bear
 testimony in His holy name, Jesus Christ, amen.
+
+## References
 

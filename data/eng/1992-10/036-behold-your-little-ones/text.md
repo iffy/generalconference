@@ -22,30 +22,29 @@ in our families, as neighbors or friends, or at church. Children belong to all
 of us.
 
 With that in mind, let us examine together some verses in the seventeenth
-chapter of 3 Nephi [[3 Ne.
-17](https://www.lds.org/scriptures/bofm/3-ne/17.title?lang=eng)]. Let us
+chapter of 3 Nephi [[3 Ne. 17](/scriptures/bofm/3-ne/17?lang=eng)]. Let us
 discover together the pattern the Savior gave us.
 
 His invitation in verse 11 [[3 Ne.
-17:11](https://www.lds.org/scriptures/bofm/3-ne/17.11?lang=eng#10)] was
-neither casual nor inconsequential. "He _commanded_ that their little children
-should be brought." (Emphasis added.) And notice what verse 11 _doesn't _say.
-It doesn't say never mind the little ones because they aren't accountable yet.
-It doesn't say the children were to be taken elsewhere so they wouldn't
-disrupt the proceedings. And it doesn't imply that the children won't
-understand. But it _does_ teach that children need to learn the significant
-things of the kingdom.
+17:11](/scriptures/bofm/3-ne/17.11?lang=eng#10)] was neither casual nor
+inconsequential. "He _commanded_ that their little children should be
+brought." (Emphasis added.) And notice what verse 11 _doesn't _say. It doesn't
+say never mind the little ones because they aren't accountable yet. It doesn't
+say the children were to be taken elsewhere so they wouldn't disrupt the
+proceedings. And it doesn't imply that the children won't understand. But it
+_does_ teach that children need to learn the significant things of the
+kingdom.
 
 God's children share with all of us the divine right to spiritual
 enlightenment.
 
 "So they brought their little children and set them down upon the ground round
 about him, and Jesus stood in the midst." ([3 Ne.
-17:12](https://www.lds.org/scriptures/bofm/3-ne/17.12?lang=eng#11).) Do any of
-us ever consider serving children to be beneath us? Clearly the Savior felt
-that the Nephite children were worthy not only to be in his presence, but they
-were also worthy of his time and his attention. The children needed _him,_ and
-he stood right in their midst.
+17:12](/scriptures/bofm/3-ne/17.12?lang=eng#11).) Do any of us ever consider
+serving children to be beneath us? Clearly the Savior felt that the Nephite
+children were worthy not only to be in his presence, but they were also worthy
+of his time and his attention. The children needed _him,_ and he stood right
+in their midst.
 
 Verse 12 also indicates that Jesus waited "till they had _all_ been brought to
 him." He wasn't looking for a representative sample, and he wasn't content
@@ -55,34 +54,34 @@ ministered to them _all_.
 Then Jesus prayed unto the Father so powerfully that "no tongue can speak,
 neither can there be written by any man, neither can the hearts of men
 conceive so great and marvelous things." ([3 Ne.
-17:17](https://www.lds.org/scriptures/bofm/3-ne/17.17?lang=eng#16).) And the
-children were there! They heard that prayer; they saw that event, and they
-were affected by it. Children can understand and should witness marvelous
-events--events like priesthood blessings, special ward and family fasts, the
-testimonies and prayers of their parents and leaders, and gospel discussions
-with people they love.
+17:17](/scriptures/bofm/3-ne/17.17?lang=eng#16).) And the children were there!
+They heard that prayer; they saw that event, and they were affected by it.
+Children can understand and should witness marvelous events--events like
+priesthood blessings, special ward and family fasts, the testimonies and
+prayers of their parents and leaders, and gospel discussions with people they
+love.
 
 "He took their little children, one by one, and blessed them, and prayed unto
 the Father for them." ([3 Ne.
-17:21](https://www.lds.org/scriptures/bofm/3-ne/17.21?lang=eng#20).) Jesus was
-ministering to a group of about 2,500 men, women, and children. Consider how
-much time it must have taken for him to bless and pray over each child, "one
-by one." He must have held many of them in his arms or on his lap. And he wept
-because he was overcome with joy.
+17:21](/scriptures/bofm/3-ne/17.21?lang=eng#20).) Jesus was ministering to a
+group of about 2,500 men, women, and children. Consider how much time it must
+have taken for him to bless and pray over each child, "one by one." He must
+have held many of them in his arms or on his lap. And he wept because he was
+overcome with joy.
 
 "He spake unto the multitude, and said unto them: Behold your little ones."
-([3 Ne. 17:23](https://www.lds.org/scriptures/bofm/3-ne/17.23?lang=eng#22).)
-Jesus specifically directed the attention of the multitude to the children. To
-me, the word _behold_ is significant. It implies more than just "look and
-see." When the Lord instructed the Nephites to _behold _their little ones, I
-believe he told them to give attention to their children, to contemplate them,
-to look beyond the present and see their eternal possibilities.
+([3 Ne. 17:23](/scriptures/bofm/3-ne/17.23?lang=eng#22).) Jesus specifically
+directed the attention of the multitude to the children. To me, the word
+_behold_ is significant. It implies more than just "look and see." When the
+Lord instructed the Nephites to _behold _their little ones, I believe he told
+them to give attention to their children, to contemplate them, to look beyond
+the present and see their eternal possibilities.
 
 "And as they looked to behold ... they saw the heavens open, and they saw angels
 descending out of heaven as it were in the midst of fire; and they came down
 and encircled those little ones about, and they were encircled about with
 fire; and the angels did minister unto them." ([3 Ne.
-17:24](https://www.lds.org/scriptures/bofm/3-ne/17.24?lang=eng#23).)
+17:24](/scriptures/bofm/3-ne/17.24?lang=eng#23).)
 
 I can't help but wonder what would have happened if the multitude had just
 looked and not_ beheld _with spiritual eyes. Would they have seen the angels
@@ -90,8 +89,7 @@ descend? Could they have watched their children encircled about with fire?
 Would they have been able to observe as the angels ministered to their
 children? It's significant to me that later the Savior gave the most sacred
 teachings only to the children, then loosed their tongues so they could teach
-the multitude. (See [3 Ne.
-26:14](https://www.lds.org/scriptures/bofm/3-ne/26.14?lang=eng#13).)
+the multitude. (See [3 Ne. 26:14](/scriptures/bofm/3-ne/26.14?lang=eng#13).)
 
 Is it any wonder that following the Savior's visit to the Nephites, they lived
 in peace and righteousness for two hundred years? Because of miraculous
@@ -107,7 +105,7 @@ suffers more from neglect or abuse. Children cannot provide for themselves.
 We, the adults of the world, must open the way for them. Our little children
 worldwide deserve to be "remembered and nourished by the good word of God, to
 keep them in the right way." ([Moro.
-6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3).)
+6:4](/scriptures/bofm/moro/6.4?lang=eng#3).)
 
 Jesus gave us a clear pattern to follow in fulfilling our responsibility to
 nurture and teach children. Our challenges differ from those of the Nephites
@@ -167,8 +165,7 @@ I sense that the Savior would approve of that too.
 Each of us, whatever our circumstances, can help a child in a particular,
 important way that no one else can. We can give them life-giving water, food,
 love, comfort, and more importantly we can offer the "living water" of the
-gospel. (See [John
-4:10-14](https://www.lds.org/scriptures/nt/john/4.10-14?lang=eng#9).)
+gospel. (See [John 4:10-14](/scriptures/nt/john/4.10-14?lang=eng#9).)
 
 As we minister to children with the same devotion and commitment demonstrated
 by the Savior, we bless them with love, security, faith, testimony, and the
@@ -181,4 +178,6 @@ don't.
 Sisters, by ministering to children we too can help the gospel live for many
 generations, for in our hands are our most valuable and our most vulnerable
 resource--our children. Of this I testify in the name of Jesus Christ, amen.
+
+## References
 

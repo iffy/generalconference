@@ -21,7 +21,7 @@ slew his brother, Abel.
 
 When the Lord inquired of Cain, "Where is Abel, thy brother?" Cain arrogantly
 replied with the question, "Am I my brother's keeper?" ([Moses
-5:34](https://www.lds.org/scriptures/pgp/moses/5.34?lang=eng#33).)
+5:34](/scriptures/pgp/moses/5.34?lang=eng#33).)
 
 Over the years that question has been asked numerous times. To that question,
 many today would respond with firm conviction, "Yes, Cain, you are your
@@ -64,7 +64,7 @@ eternal life. The Master asked him what he read in the law. The lawyer
 pondered a moment and then replied: "Thou shalt love the Lord thy God with all
 thy heart, and with all thy soul, and with all thy strength, and with all thy
 mind; and thy neighbour as thyself." ([Luke
-10:27](https://www.lds.org/scriptures/nt/luke/10.27?lang=eng#26).)
+10:27](/scriptures/nt/luke/10.27?lang=eng#26).)
 
 He was assured his answer was correct. In order to justify himself, he then
 posed the question: "And who is my neighbour?"
@@ -90,7 +90,7 @@ The Savior then posed the question: "Which now of these three, thinkest thou,
 was neighbour unto him that fell among the thieves?" To this the lawyer
 readily answered: "He that shewed mercy on him." The Savior said unto him:
 "Go, and do thou likewise." ([Luke
-10:36-37](https://www.lds.org/scriptures/nt/luke/10.36-37?lang=eng#35).)
+10:36-37](/scriptures/nt/luke/10.36-37?lang=eng#35).)
 
 One of the most beautiful and tender accounts of brotherly love, concern, and
 devotion took place in Carthage Jail on the afternoon of the martyrdom. "The
@@ -117,7 +117,7 @@ Comprehensive History of the Church, _vol. 2, p. 283.)
 In these words Brother Richards displayed his concern for Joseph, who was his
 beloved brother and neighbor. The Savior taught: "Greater love hath no man
 than this, that a man lay down his life for his friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 As Latter-day Saints, we firmly believe that we are brothers and sisters,
 spiritual offspring of heavenly parents, members of a royal family who once
@@ -141,4 +141,6 @@ thus receive approbation and the blessings of our Heavenly Father?
 The choice is ours to make. May the Lord bless us that our decisions will be
 correct and righteous ones, for which I humbly pray, in the name of the Lord
 Jesus Christ. Amen.
+
+## References
 

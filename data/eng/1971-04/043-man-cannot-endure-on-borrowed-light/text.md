@@ -40,7 +40,7 @@ the road to Damascus. A light was seen in the heavens, and he heard a voice
 saying, "Saul, Saul, why persecutest thou me?" And he answered and said, "Who
 art thou, Lord?" And the Lord replied: "I am Jesus whom thou persecutest: it
 is hard for thee to kick against the pricks." ([Acts
-9:3-5](https://www.lds.org/scriptures/nt/acts/9.3-5?lang=eng#2).)
+9:3-5](/scriptures/nt/acts/9.3-5?lang=eng#2).)
 
 These two incidents were rare manifestations, but the impressions made by the
 Holy Ghost can be equally deep and lasting. President Joseph Fielding Smith
@@ -113,12 +113,13 @@ teachers as to the source of his doctrine, which was astounding to them.
 Whence came his wisdom? they asked. Jesus answered their troubled inquiries,
 saying: "... my doctrine is not mine, but his that sent me. If any man will do
 his will, he shall know of the doctrine, whether it be of God, or whether I
-speak of myself." ([John
-7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15).)
+speak of myself." ([John 7:16-17](/scriptures/nt/john/7.16-17?lang=eng#15).)
 
 The Lord's answer was direct and applies to us today, just as it did to the
 people to whom he was speaking. If we will do our Father's will and keep his
 commandments, the Holy Ghost will manifest the truth unto us--it's as simple
 as that. May this be our lot, I pray in the name of the Lord Jesus Christ.
 Amen.
+
+## References
 

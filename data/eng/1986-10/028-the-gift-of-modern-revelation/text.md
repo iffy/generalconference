@@ -38,8 +38,7 @@ children of men, yea, even upon all the nations of the earth? ...
 God, that I remember one nation like unto another? ...
 
 "And I do this that I may prove unto many that I am the same yesterday, today,
-and forever" ([2 Ne.
-29:7-9](https://www.lds.org/scriptures/bofm/2-ne/29.7-9?lang=eng#6)).
+and forever" ([2 Ne. 29:7-9](/scriptures/bofm/2-ne/29.7-9?lang=eng#6)).
 
 Today we have three new books of scripture: the Book of Mormon, the Doctrine
 and Covenants, and the Pearl of Great Price. I love all of these sacred
@@ -48,15 +47,15 @@ Mormon and the Doctrine and Covenants. These two great books of latter-day
 scripture are bound together as revelations from Israel's God for the purpose
 of gathering and preparing His people for the second coming of the Lord. As
 President John Taylor wrote, the bringing forth of these two sacred volumes
-"cost the best blood of the nineteenth century" ([D&amp;C
-135:6](https://www.lds.org/scriptures/dc-testament/dc/135.6?lang=eng#5)),
-namely the lives of the Prophet Joseph Smith and his brother Hyrum.
+"cost the best blood of the nineteenth century" ([D&amp;C 135:6](/scriptures
+/dc-testament/dc/135.6?lang=eng#5)), namely the lives of the Prophet Joseph
+Smith and his brother Hyrum.
 
 To the Prophet Joseph Smith the Lord said, "This generation shall have my word
-through you" ([D&amp;C 5:10](https://www.lds.org/scriptures/dc-
-testament/dc/5.10?lang=eng#9)). The Book of Mormon and the Doctrine and
-Covenants are part of the fulfillment of that promise. Together these two
-great works of scripture bring great blessings to this generation.
+through you" ([D&amp;C 5:10](/scriptures/dc-testament/dc/5.10?lang=eng#9)).
+The Book of Mormon and the Doctrine and Covenants are part of the fulfillment
+of that promise. Together these two great works of scripture bring great
+blessings to this generation.
 
 Each of these two books of modern scripture contains a powerful proclamation
 to the world. The Book of Mormon title page declares its purpose is threefold:
@@ -66,12 +65,11 @@ Lord, and to convince both Jew and Gentile that Jesus is the Christ.
 Section 1 of the Doctrine and Covenants is the Lord's preface to the book. The
 Doctrine and Covenants is the only book in the world that has a preface
 written by the Lord Himself. In that preface He declares to the world that His
-voice is unto all men (see [D&amp;C 1:2](https://www.lds.org/scriptures/dc-
+voice is unto all men (see [D&amp;C 1:2](/scriptures/dc-
 testament/dc/1.2?lang=eng#1)), that the coming of the Lord is nigh (see
-[D&amp;C 1:12](https://www.lds.org/scriptures/dc-
-testament/dc/1.12?lang=eng#11)), and that the truths found in the Doctrine and
-Covenants will all be fulfilled (see [D&amp;C
-1:37-38](https://www.lds.org/scriptures/dc-testament/dc/1.37-38?lang=eng#36)).
+[D&amp;C 1:12](/scriptures/dc-testament/dc/1.12?lang=eng#11)), and that the
+truths found in the Doctrine and Covenants will all be fulfilled (see [D&amp;C
+1:37-38](/scriptures/dc-testament/dc/1.37-38?lang=eng#36)).
 
 Each of these two great latter-day scriptures bears powerful and eloquent
 witness of the Lord Jesus Christ. Virtually every page of both the Doctrine
@@ -109,17 +107,15 @@ saw the latter days. He observed the great wickedness that would prevail on
 the earth at this time and foretold the "great tribulations" that would result
 from such wickedness; but in the midst of what was otherwise a very gloomy
 prophecy, the Lord promised, "But my people will I preserve" ([Moses
-7:61](https://www.lds.org/scriptures/pgp/moses/7.61?lang=eng#60)). How would
-He do so? Note what the Lord Himself promised He would do to preserve His
-people. He said:
+7:61](/scriptures/pgp/moses/7.61?lang=eng#60)). How would He do so? Note what
+the Lord Himself promised He would do to preserve His people. He said:
 
 "And _righteousness will I send down out of heaven; _and _truth will I send
 forth out of the earth,_ to bear testimony of mine Only Begotten; ... and
 _righteousness and truth_ will I cause to sweep the earth as with a flood, to
 gather out mine elect from the four quarters of the earth, unto a place which
-I shall prepare" ([Moses
-7:62](https://www.lds.org/scriptures/pgp/moses/7.62?lang=eng#61); italics
-added).
+I shall prepare" ([Moses 7:62](/scriptures/pgp/moses/7.62?lang=eng#61);
+italics added).
 
 The Lord promised, therefore, that righteousness would come from heaven and
 truth out of the earth. We have seen the marvelous fulfillment of that
@@ -141,11 +137,10 @@ keystone of our religion. It is the keystone of our doctrine. It is the
 keystone of our testimony. It is a keystone in the witness of Jesus Christ. It
 is a keystone in helping us avoid the deceptions of the evil one in these
 latter days. Satan rages in the hearts of men and has power over all of his
-dominions (see [D&amp;C 1:35](https://www.lds.org/scriptures/dc-
-testament/dc/1.35?lang=eng#34)). But the Book of Mormon has greater power--
-power to reveal false doctrine, power to help us overcome temptations, power
-to help us get closer to God than any other book (see Introduction to the Book
-of Mormon).
+dominions (see [D&amp;C 1:35](/scriptures/dc-testament/dc/1.35?lang=eng#34)).
+But the Book of Mormon has greater power--power to reveal false doctrine,
+power to help us overcome temptations, power to help us get closer to God than
+any other book (see Introduction to the Book of Mormon).
 
 The Book of Mormon must be reenthroned in the minds and hearts of our people.
 We must honor it by reading it, by studying it, by taking its precepts into
@@ -187,4 +182,6 @@ tribulation. They stand with the Bible to give witness of the Lord and His
 work. These books contain the voice of the Lord to us in these latter days.
 May we turn to them with full purpose of heart and use them in the way the
 Lord wishes them to be used, I pray in the name of Jesus Christ, amen.
+
+## References
 

@@ -116,3 +116,5 @@ Latter-day Saints.
 All in favor manifest it. Contrary, if there be any, by the same sign. Thank
 you. President Kimball, the voting seems to be unanimous in the affirmative.
 
+## References
+

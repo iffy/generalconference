@@ -219,15 +219,14 @@ caring for the human-size needs or fears of his earthly companions. Do you
 remember when Lazarus, the brother of Mary and Martha, died? Both sisters
 rushed to meet Christ to tell him of their sorrow and find comfort. And as
 they met him, they said in turn, "Lord, if thou hadst been here, my brother
-had not died" ([John 11:21,
-32](https://www.lds.org/scriptures/nt/john/11.21%2C32?lang=eng#20)). Now, who
-would know better than Jesus Christ that there was to be a resurrection so
-that Lazarus would live again? He didn't just say to them, "Chin up, ladies.
-It's only a few years before you see your brother again." Instead the
-scriptures tell us, "Jesus wept" ([John
-11:35](https://www.lds.org/scriptures/nt/john/11.35?lang=eng#34)), wept in
-pure compassion for the pain and lack of understanding of his two friends.
-Then he hurried to the tomb and raised Lazarus from the dead.
+had not died" ([John 11:21, 32](/scriptures/nt/john/11.21,32?lang=eng#20)).
+Now, who would know better than Jesus Christ that there was to be a
+resurrection so that Lazarus would live again? He didn't just say to them,
+"Chin up, ladies. It's only a few years before you see your brother again."
+Instead the scriptures tell us, "Jesus wept" ([John
+11:35](/scriptures/nt/john/11.35?lang=eng#34)), wept in pure compassion for
+the pain and lack of understanding of his two friends. Then he hurried to the
+tomb and raised Lazarus from the dead.
 
 Think, too, when Christ was preaching to the multitude and then performed the
 miracle of the fish and the loaves to feed the hungry masses. He wasn't
@@ -249,4 +248,6 @@ You see, my bright-eyed, three-year-old friend was right all along. Why will
 you make it in today's world? Why will you be able to cope? Cory's answer was
 right: "_Because you have a Father," _to which I testify, in the holy name of
 Jesus Christ, amen.
+
+## References
 

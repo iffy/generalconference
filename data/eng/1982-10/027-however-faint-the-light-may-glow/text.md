@@ -2,29 +2,28 @@
 
 My beloved brothers and sisters, I would like to share my personal feelings
 about a parable of great hope and compassion. The Savior said, "A certain man
-had two sons." ([Luke
-15:11](https://www.lds.org/scriptures/nt/luke/15.11?lang=eng#10).) The younger
-of the two sons seemed always to be in the shadow of his older, more mature
-brother. Compliments would come freely to the older brother. His age and size
-were in his favor; he could work harder. The younger son, always compared to
-his older brother, never quite measured up. He tired more quickly, did not get
-all the work done, and probably had a fairly poor self-image. He may, have
-determined that the "system" was against him. He was not being judged on his
-own merits. He decided to leave home and start in a new environment.
+had two sons." ([Luke 15:11](/scriptures/nt/luke/15.11?lang=eng#10).) The
+younger of the two sons seemed always to be in the shadow of his older, more
+mature brother. Compliments would come freely to the older brother. His age
+and size were in his favor; he could work harder. The younger son, always
+compared to his older brother, never quite measured up. He tired more quickly,
+did not get all the work done, and probably had a fairly poor self-image. He
+may, have determined that the "system" was against him. He was not being
+judged on his own merits. He decided to leave home and start in a new
+environment.
 
 The parable continues: "And the younger of them said to his father, Father,
 give me the portion of goods that falleth to me." ([Luke
-15:12](https://www.lds.org/scriptures/nt/luke/15.12?lang=eng#11).) Apparently
-the father had previously discussed with his sons that one day each would
-receive an inheritance. The inheritance would be a free-will gift from the
-father. It is doubtful that either son actually earned much more than his room
-and board. Nevertheless, the father "divided unto him his living." ([Luke
-15:12](https://www.lds.org/scriptures/nt/luke/15.12?lang=eng#11).) This, in
-essence, was approval for the younger man to strike out on his own with his
-inheritance. The father loved him. He may have had an idea what the younger
-son would do with his share. The younger brother "gathered all together, and
-took his journey into a far country." ([Luke
-15:13](https://www.lds.org/scriptures/nt/luke/15.13?lang=eng#12).)
+15:12](/scriptures/nt/luke/15.12?lang=eng#11).) Apparently the father had
+previously discussed with his sons that one day each would receive an
+inheritance. The inheritance would be a free-will gift from the father. It is
+doubtful that either son actually earned much more than his room and board.
+Nevertheless, the father "divided unto him his living." ([Luke
+15:12](/scriptures/nt/luke/15.12?lang=eng#11).) This, in essence, was approval
+for the younger man to strike out on his own with his inheritance. The father
+loved him. He may have had an idea what the younger son would do with his
+share. The younger brother "gathered all together, and took his journey into a
+far country." ([Luke 15:13](/scriptures/nt/luke/15.13?lang=eng#12).)
 
 He may have intended to do something honorable. However, he found, after
 arriving in the distant city in a far country, people did not just
@@ -33,28 +32,27 @@ influence and no friends. True friends must be earned, others can be bought.
 The younger son found that flies are attracted by honey. He began to flash his
 inheritance around. The flies came. Not only did he not invest or use his
 money wisely, he wasted it on riotous living. (See [Luke
-15:13](https://www.lds.org/scriptures/nt/luke/15.13?lang=eng#12).) There were
-evil and drunken men and vile and adulterous women whose lust for his
-companionship was gone when the money was spent.
+15:13](/scriptures/nt/luke/15.13?lang=eng#12).) There were evil and drunken
+men and vile and adulterous women whose lust for his companionship was gone
+when the money was spent.
 
 "And when he had spent all, there arose a mighty famine in that land." ([Luke
-15:14](https://www.lds.org/scriptures/nt/luke/15.14?lang=eng#13).) Conditions
-were bad, for not only had he used up all his inheritance, but even the
-average citizen waxed sore. He had been taught to work at home and apparently
-attempted to find work. He may have gone to many who had been his friends when
-he was "flush."
+15:14](/scriptures/nt/luke/15.14?lang=eng#13).) Conditions were bad, for not
+only had he used up all his inheritance, but even the average citizen waxed
+sore. He had been taught to work at home and apparently attempted to find
+work. He may have gone to many who had been his friends when he was "flush."
 
 The prodigal began to be in want and "went and joined himself to a [certain]
 citizen of that country; and he sent him into his fields to feed swine."
-([Luke 15:15](https://www.lds.org/scriptures/nt/luke/15.15?lang=eng#14).) Now
-he was not only destitute, but also forced to take the most humble kind of
-work. In such great poverty was he that "he would fain have filled his belly
-with the husks that the swine did eat: and no man gave unto him." ([Luke
-15:16](https://www.lds.org/scriptures/nt/luke/15.16?lang=eng#15).) The Savior
-is undoubtedly showing us the contrast and the depths of poverty and need to
-which he had sunk. He had indulged with all who came when he had money. Now
-not even one of his supposed friends so much as gave him a husk of corn so
-that he might feed at least as well as the swine.
+([Luke 15:15](/scriptures/nt/luke/15.15?lang=eng#14).) Now he was not only
+destitute, but also forced to take the most humble kind of work. In such great
+poverty was he that "he would fain have filled his belly with the husks that
+the swine did eat: and no man gave unto him." ([Luke
+15:16](/scriptures/nt/luke/15.16?lang=eng#15).) The Savior is undoubtedly
+showing us the contrast and the depths of poverty and need to which he had
+sunk. He had indulged with all who came when he had money. Now not even one of
+his supposed friends so much as gave him a husk of corn so that he might feed
+at least as well as the swine.
 
 There is a great purging and humbling that comes from the wells of despair.
 False pride is stripped away. The light of home flickers dimly through the
@@ -71,7 +69,7 @@ sinned against heaven, and before thee,
 servants.
 
 "And he arose, and came to his father." ([Luke
-15:17-20](https://www.lds.org/scriptures/nt/luke/15.17-20?lang=eng#16).)
+15:17-20](/scriptures/nt/luke/15.17-20?lang=eng#16).)
 
 It is possible that he rehearsed the speech over and over again. The father
 had been faithful and had worked hard all his life, a frugal man with
@@ -99,11 +97,11 @@ sight, and am no more worthy to be called thy son.
 
 "But the father said to his servants, Bring forth the best robe, and put it on
 him; and put a ring on his hand, and shoes on his feet." ([Luke
-15:20-22](https://www.lds.org/scriptures/nt/luke/15.20-22?lang=eng#19).) The
-long journey probably had been made with little or no footwear, so the robe
-and shoes were necessities. But the father also had a ring brought for his
-son's hand. This was an unexpected gift, an expression of the gratitude of the
-father for the son's return.
+15:20-22](/scriptures/nt/luke/15.20-22?lang=eng#19).) The long journey
+probably had been made with little or no footwear, so the robe and shoes were
+necessities. But the father also had a ring brought for his son's hand. This
+was an unexpected gift, an expression of the gratitude of the father for the
+son's return.
 
 "And bring hither the fatted calf, and kill it; and let us eat, and be merry:
 
@@ -119,7 +117,7 @@ house, he heard musick and dancing.
 fatted calf, because he hath received him safe and sound.
 
 "[Now the elder brother] was angry, and would not go in." ([Luke
-15:23-28](https://www.lds.org/scriptures/nt/luke/15.23-28?lang=eng#22).)
+15:23-28](/scriptures/nt/luke/15.23-28?lang=eng#22).)
 
 The weeks and months of doing work which his brother had previously done,
 compensating for his father's inattention, receiving no compliments, and the
@@ -131,12 +129,12 @@ brother returned, all of these things celebrated his coming.
 
 Word came to the father that his son was outside and would not come in,"
 therefore came his father out, and intreated him." ([Luke
-15:28](https://www.lds.org/scriptures/nt/luke/15.28?lang=eng#27).) The father
-must have realized the oversight; he may even have apologized. The great
-concern for his younger son was off his mind. He remembered he had not been as
-complimentary to the older son as usual. He recalled the older son's more
-intense work to compensate--no dancing, no music, no sumptuous feasts. Hearts
-were too heavy for those things.
+15:28](/scriptures/nt/luke/15.28?lang=eng#27).) The father must have realized
+the oversight; he may even have apologized. The great concern for his younger
+son was off his mind. He remembered he had not been as complimentary to the
+older son as usual. He recalled the older son's more intense work to
+compensate--no dancing, no music, no sumptuous feasts. Hearts were too heavy
+for those things.
 
 "And he answering said to his father, Lo, these many years do I serve thee,
 neither transgressed I at any time thy commandment: and yet thou never gavest
@@ -144,17 +142,17 @@ me a kid, that I might make merry with my friends:
 
 "But as soon as this thy son was come, which hath devoured thy living with
 harlots, thou hast killed for him the fatted calf." ([Luke
-15:29-30](https://www.lds.org/scriptures/nt/luke/15.29-30?lang=eng#28).)
+15:29-30](/scriptures/nt/luke/15.29-30?lang=eng#28).)
 
 The father, with full understanding, said, "Son, thou art ever with me, and
 all that I have is thine." ([Luke
-15:31](https://www.lds.org/scriptures/nt/luke/15.31?lang=eng#30).) The father
-had planned all along to reward the older brother by giving him everything,
-but this was the first time this had been mentioned.
+15:31](/scriptures/nt/luke/15.31?lang=eng#30).) The father had planned all
+along to reward the older brother by giving him everything, but this was the
+first time this had been mentioned.
 
 The father said, "It was meet that we should make merry, and be glad: for this
 thy brother was dead, and is alive again; and was lost, and is found." ([Luke
-15:32](https://www.lds.org/scriptures/nt/luke/15.32?lang=eng#31).)
+15:32](/scriptures/nt/luke/15.32?lang=eng#31).)
 
 A minister recently read the parable of the prodigal son over the radio. He
 concluded with: "The younger brother stood justified before the Lord due to
@@ -200,8 +198,7 @@ love and compassion are eternally surrounding every soul who walks the earth.
 Every man, woman, or youth who returns home after a prodigal journey or an
 inactive period will find the Savior waiting with open arms. His atoning act
 will satisfy justice and extend mercy to all who will "come unto him." (See
-[D&amp;C 18:11](https://www.lds.org/scriptures/dc-
-testament/dc/18.11?lang=eng#10).)
+[D&amp;C 18:11](/scriptures/dc-testament/dc/18.11?lang=eng#10).)
 
 All who are active have someone close who may he inactive, indifferent, or
 clothed in transgression's soiled robes. They need the sweet, abiding love of
@@ -244,4 +241,6 @@ the road, anxious for your return. We will run with open arms, and hearts
 filled with compassion. There are shoes for your feet, a robe, a ring for your
 hand, and a fatted calf. Come home and we will rejoice together, in the name
 of Jesus Christ, amen.
+
+## References
 

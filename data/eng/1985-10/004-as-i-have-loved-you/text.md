@@ -45,8 +45,8 @@ Reaching out to others is not an easy thing to do, particularly when you are
 young. To take the hand of another at the risk of your own popularity takes a
 mature, Christlike love. Yet our Savior made no distinction between young and
 old when he declared, "As I have loved you, ... love one another." ([John
-13:34](https://www.lds.org/scriptures/nt/john/13.34?lang=eng#33).) How
-desperately we need that kind of caring in our world today!
+13:34](/scriptures/nt/john/13.34?lang=eng#33).) How desperately we need that
+kind of caring in our world today!
 
 Young people are being hit on all sides by open and subtle attacks on their
 faith, their ideals, their morality, their self-confidence, even their
@@ -103,7 +103,7 @@ service, I began to understand King Benjamin's profound counsel to his people.
 "And behold, I tell you these things that ye may learn wisdom; that ye may
 learn that when ye are in the service of your fellow beings ye are only in the
 service of your God." ([Mosiah
-2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).)
+2:17](/scriptures/bofm/mosiah/2.17?lang=eng#16).)
 
 That is why a missionary can return from the toughest experiences of his life
 and report, "These have been the happiest two years of my life!"
@@ -121,37 +121,10 @@ more and more people.
 Consider the happiness generated in both the giver and the receiver by these
 examples of service:
 
-  1. Youths of the Meridian Idaho East Stake recently participated in a communitywide "Paint Your Heart Out" service project. One hundred and sixty-four youth split into five teams, and each team painted one house of an elderly person during a seven-hour period.
-
+  1. Youths of the Meridian Idaho East Stake recently participated in a communitywide "Paint Your Heart Out" service project. One hundred and sixty-four youth split into five teams, and each team painted one house of an elderly person during a seven-hour period. 
   2. Concerned for the youth of his ward, a good bishop in Bountiful challenged his young people to taste the sweetness of beautiful service. Reluctantly at first, they put aside their entertainment. One project was making quilts for the mentally retarded at the American Fork Training School. Upon completion of their quilts, the girls delivered them. They arrived at the school in time to help feed supper to the "children." And that was an experience. As they left the school, with mashed potatoes, gravy, and assorted vegetables in their hair and on their outfits, one girl, touched by the sweetness of the "child" she had fed, said, "I'll never forget Billy."
-
-  3. In a recent letter to the editor, I read:
-
-"One is continually hearing about the 'Terrible Teenagers' with their
-obnoxious dress and deplorable actions. How refreshing it was to have a most
-thrilling experience with--yes, four teenagers.
-
-"One evening I was hosting a special guest from New York City. We were on our
-beautiful Temple Square, admiring the Seagull Monument. As we turned to go,
-four teenagers approached us. I immediately felt the [in]security of my
-gentleman guest, when one of the group stepped forward and said, 'Lady, we
-would like to present you with this rose to make you happy, and hope that you
-will have a nice evening.'
-
-"There clutched in his hand was a beautiful, long-stemmed American Beauty red
-rose, with a spray of fern, artistically wrapped in cellophane.
-
-"'We bought this rose to give to someone, and when we saw you, we thought you
-were the one.'
-
-"As they turned to leave, I quickly got their names, expressing my most
-profound appreciation and admiration for their thoughtfulness and kindness to
-me, which was so unusual, and how I was quite overwhelmed to think that four
-teenagers would have the desire for such a gracious act, and that no one would
-appreciate it more than I would, a little grandmother, as I gave each one a
-big hug." (Irene E. Staples, _Deseret News,_ 22 Sept. 1985.)
-
-  4. With the knowledge that her little brother had leukemia, Michelle went to Bear River High School sad and despondent. She struggled through the school day, grateful when the dismissal bell rang. As she collected her books, a friend approached, "Michelle, come into the music room with me." Half-heartedly, Michelle accompanied her. Entering the music room, she was surprised to find the entire a cappella choir. In the straightforward manner of youth, they told Michelle they had been fasting for her little brother and wanted her to join them as they prayed together to end their fast.
+  3. In a recent letter to the editor, I read: "One is continually hearing about the 'Terrible Teenagers' with their obnoxious dress and deplorable actions. How refreshing it was to have a most thrilling experience with--yes, four teenagers. "One evening I was hosting a special guest from New York City. We were on our beautiful Temple Square, admiring the Seagull Monument. As we turned to go, four teenagers approached us. I immediately felt the [in]security of my gentleman guest, when one of the group stepped forward and said, 'Lady, we would like to present you with this rose to make you happy, and hope that you will have a nice evening.' "There clutched in his hand was a beautiful, long-stemmed American Beauty red rose, with a spray of fern, artistically wrapped in cellophane. "'We bought this rose to give to someone, and when we saw you, we thought you were the one.' "As they turned to leave, I quickly got their names, expressing my most profound appreciation and admiration for their thoughtfulness and kindness to me, which was so unusual, and how I was quite overwhelmed to think that four teenagers would have the desire for such a gracious act, and that no one would appreciate it more than I would, a little grandmother, as I gave each one a big hug." (Irene E. Staples, _Deseret News,_ 22 Sept. 1985.) 
+  4. With the knowledge that her little brother had leukemia, Michelle went to Bear River High School sad and despondent. She struggled through the school day, grateful when the dismissal bell rang. As she collected her books, a friend approached, "Michelle, come into the music room with me." Half-heartedly, Michelle accompanied her. Entering the music room, she was surprised to find the entire a cappella choir. In the straightforward manner of youth, they told Michelle they had been fasting for her little brother and wanted her to join them as they prayed together to end their fast. 
 
 Emerson said it well: "Serve, and thou shalt be served. If you love and serve
 men, you cannot, by any hiding or stratagem, escape the remuneration." ("The
@@ -228,4 +201,6 @@ _By this shall men know Ye are my disciples,_
 _If ye have love One to another._
 
 And therein lies happiness. In the name of Jesus Christ, amen.
+
+## References
 

@@ -4,10 +4,10 @@ My dear brothers and sisters, my message today is not a new one. Prophets of
 all dispensations have clearly taught the law of tithing and the principles of
 the gospel with regard thereto. From the beginning we have been taught that
 "the earth is the Lord's, and the fulness thereof" ([1 Cor.
-10:26](https://www.lds.org/scriptures/nt/1-cor/10.26?lang=eng#25)). From this
-fulness, the Lord requires that we dedicate one-tenth to him. Tithing is a law
-of God and is required of his followers. To fail to meet this obligation is to
-fail in a very weighty matter.
+10:26](/scriptures/nt/1-cor/10.26?lang=eng#25)). From this fulness, the Lord
+requires that we dedicate one-tenth to him. Tithing is a law of God and is
+required of his followers. To fail to meet this obligation is to fail in a
+very weighty matter.
 
 On this subject, we may read the word of the Lord in this dispensation in
 section 119 of the Doctrine and Covenants.
@@ -19,15 +19,14 @@ considered a proper tithe.
 We have uniformly replied that the simplest statement we know of is the
 statement of the Lord himself, namely, that the members of the Church should
 pay "one-tenth of all their interest annually" which is understood to mean
-income (see [D&amp;C 119:4](https://www.lds.org/scriptures/dc-
-testament/dc/119.4?lang=eng#3)).
+income (see [D&amp;C 119:4](/scriptures/dc-testament/dc/119.4?lang=eng#3)).
 
 At times when we are inclined to think it is vain to serve the Lord, we should
 stir our faith, believe in the rich promises of God, and obey--and patiently
 wait. The Lord will fulfill all his rich promises to us. Paul says: "Eye hath
 not seen, nor ear heard, neither have entered into the heart of man, the
 things which God hath prepared for them that love him" ([1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8)).
+2:9](/scriptures/nt/1-cor/2.9?lang=eng#8)).
 
 Even for the present life, great blessings are promised to the obedient. Take,
 for example, the promise to the tithe payer:
@@ -42,7 +41,7 @@ fruits of your ground; neither shall your vine cast her fruit before the time
 in the field, saith the Lord of hosts.
 
 "And all nations shall call you blessed." ([Mal.
-3:10-12](https://www.lds.org/scriptures/ot/mal/3.10-12?lang=eng#9).)
+3:10-12](/scriptures/ot/mal/3.10-12?lang=eng#9).)
 
 As I have already noted, the word of the Lord establishing the law of tithing
 in this dispensation was revealed to the Prophet Joseph Smith at Far West,
@@ -98,10 +97,12 @@ modern-day prophets.
 
 There echo again and again the words of the Master: "Render ... unto Caesar the
 things which are Caesar's; and unto God the things that are God's" ([Matt.
-22:21](https://www.lds.org/scriptures/nt/matt/22.21?lang=eng#20)).
+22:21](/scriptures/nt/matt/22.21?lang=eng#20)).
 
 I bear my testimony, brothers and sisters, and witness to the divinity of this
 important law of the Lord and pray our Heavenly Father to bless you and all
 the Saints with that same testimony and leave my blessings with you, in the
 name of Jesus Christ, amen.
+
+## References
 

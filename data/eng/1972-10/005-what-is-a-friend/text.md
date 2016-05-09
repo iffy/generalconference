@@ -59,8 +59,7 @@ quotation:
 
 "Pure religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself unspotted from
-the world." ([James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).)
+the world." ([James 1:27](/scriptures/nt/james/1.27?lang=eng#26).)
 
 It is well for us to be reminded that we are friends to ourselves when we keep
 our lives unspotted from the sins of the world and leave ourselves better
@@ -77,13 +76,12 @@ testimony of the gospel of Jesus Christ and are unwilling to share it?
 
 A friend is a possession we earn, not a gift. "Ye are my friends, if ye do
 whatsoever I command you." ([John
-15:14](https://www.lds.org/scriptures/nt/john/15.14?lang=eng#13).) The Lord
-has declared that those who serve him and keep his commandments are called his
-servants. After they have been tested and tried and are found faithful and
-true in all things, they are called no longer servants, but friends. His
-friends are the ones he will take into his kingdom and with whom he will
-associate in an eternal inheritance. (See [D&amp;C
-93:45-46](https://www.lds.org/scriptures/dc-
+15:14](/scriptures/nt/john/15.14?lang=eng#13).) The Lord has declared that
+those who serve him and keep his commandments are called his servants. After
+they have been tested and tried and are found faithful and true in all things,
+they are called no longer servants, but friends. His friends are the ones he
+will take into his kingdom and with whom he will associate in an eternal
+inheritance. (See [D&amp;C 93:45-46](/scriptures/dc-
 testament/dc/93.45-46?lang=eng#44).)
 
 Let me share with you quickly a few of the many "friend" references in the
@@ -96,21 +94,20 @@ shall find me; ask, and ye shall receive; knock, and it shall be opened unto
 you.
 
 "Whatsoever ye ask the Father in my name it shall be given unto you, that is
-expedient for you." ([D&amp;C 88:62-64](https://www.lds.org/scriptures/dc-
+expedient for you." ([D&amp;C 88:62-64](/scriptures/dc-
 testament/dc/88.62-64?lang=eng#61).)
 
-"... my friends Sidney and Joseph. ..." ([D&amp;C
-100:1](https://www.lds.org/scriptures/dc-testament/dc/100.1?lang=eng#0).)
+"... my friends Sidney and Joseph. ..." ([D&amp;C 100:1](/scriptures/dc-
+testament/dc/100.1?lang=eng#0).)
 
 "... my friends, behold, I will give unto you a revelation and commandment. ..."
-([D&amp;C 103:1](https://www.lds.org/scriptures/dc-
-testament/dc/103.1?lang=eng#0).)
+([D&amp;C 103:1](/scriptures/dc-testament/dc/103.1?lang=eng#0).)
 
-"... my friends, fear not. ..." ([D&amp;C 98:1](https://www.lds.org/scriptures/dc-
+"... my friends, fear not. ..." ([D&amp;C 98:1](/scriptures/dc-
 testament/dc/98.1?lang=eng#0).)
 
 "... I will call you friends, for you are my friends, and ye shall have an
-inheritance with me." ([D&amp;C 93:45](https://www.lds.org/scriptures/dc-
+inheritance with me." ([D&amp;C 93:45](/scriptures/dc-
 testament/dc/93.45?lang=eng#44).)
 
 May I add that this last friendly greeting was given when the Lord was
@@ -120,7 +117,7 @@ And finally:
 
 "And as I said unto mine apostles, even so I say unto you, for you are mine
 apostles, even God's high priests; ye are they whom my father hath given me;
-ye are my friends." ([D&amp;C 84:63](https://www.lds.org/scriptures/dc-
+ye are my friends." ([D&amp;C 84:63](/scriptures/dc-
 testament/dc/84.63?lang=eng#62).)
 
 I bear you my witness that our Lord and Savior, Jesus Christ, is our friend.
@@ -158,15 +155,13 @@ Joseph Smith gave us a glimpse of his measure of friends when he said, "If my
 life is of no value to my friends, it is of no value to me."
 
 The Savior said, "Greater love hath no man than this, that a man lay down his
-life for his friends." ([John
-15:13](https://www.lds.org/scriptures/nt/john/15.13?lang=eng#12).)
+life for his friends." ([John 15:13](/scriptures/nt/john/15.13?lang=eng#12).)
 
 When Robert Louis Stevenson was asked the secret of his radiant, useful life,
 he responded simply, "I had a friend."
 
 In Exodus 33:11 we read, "... The Lord spake unto Moses face to face, as a man
-speaketh unto his friend." [[Ex.
-33:11](https://www.lds.org/scriptures/ot/ex/33.11?lang=eng#10).]
+speaketh unto his friend." [[Ex. 33:11](/scriptures/ot/ex/33.11?lang=eng#10).]
 
 A friend in the true sense is not a person who passively nods approval. A
 friend is a person who cares.
@@ -210,7 +205,7 @@ expecting alms. Peter said to him, as we will all recall:
 Jesus Christ of Nazareth rise up and walk.
 
 "And he took him by the right hand and lifted him up. ..." ([Acts
-3:6-7](https://www.lds.org/scriptures/nt/acts/3.6-7?lang=eng#5).)
+3:6-7](/scriptures/nt/acts/3.6-7?lang=eng#5).)
 
 Peter was a friend. He told the beggar, "Rise and walk; I'm going to help
 you." We too must take the friend by the hand until he sees and finds that he
@@ -224,11 +219,13 @@ drink: I was a stranger, and ye took me in:
 
 "... Verily I say unto you, Inasmuch as ye have done it unto one of the least of
 these my brethren, ye have done it unto me." ([Matt. 25:35,
-40](https://www.lds.org/scriptures/nt/matt/25.35%2C40?lang=eng#34).)
+40](/scriptures/nt/matt/25.35,40?lang=eng#34).)
 
 I pray God to help us to be friends. We need God's friendship. He pleads for
 ours. God lives. He is near. He is available. I leave you my testimony today
 that Jesus Christ is our Redeemer and Savior, that this is his church, and
 that he too is our friend. I bear this witness humbly, in the name of Jesus
 Christ. Amen.
+
+## References
 

@@ -11,13 +11,13 @@ reminded of two significant statements made by the Lord through his prophets:
 "Behold, this is a choice land, and whatsoever nation shall possess it shall
 be free from bondage, and from captivity, and from all other nations under
 heaven, if they will but serve the God of the land, who is Jesus Christ."
-([Ether 2:12](https://www.lds.org/scriptures/bofm/ether/2.12?lang=eng#11).)
+([Ether 2:12](/scriptures/bofm/ether/2.12?lang=eng#11).)
 
 He also said,
 
 "And for this purpose have I established the Constitution of this land, by the
 hands of wise men whom I raised up unto this very purpose." ([D&amp;C
-101:80](https://www.lds.org/scriptures/dc-testament/dc/101.80?lang=eng#79).)
+101:80](/scriptures/dc-testament/dc/101.80?lang=eng#79).)
 
 I wish to join wholeheartedly with the millions of people who appreciate this
 country in which we live and are determined to do what they can to maintain
@@ -101,8 +101,7 @@ roll upon their wings in their glory, in the midst of the power of God. ...
 
 "Behold, all these are kingdoms, and any man who hath seen any or the least of
 these hath seen God moving in his majesty and power." ([D&amp;C 88:42-45,
-47](https://www.lds.org/scriptures/dc-
-testament/dc/88.42-45%2C47?lang=eng#41).)
+47](/scriptures/dc-testament/dc/88.42-45,47?lang=eng#41).)
 
 So, regardless of whether or not we know or understand the laws of nature,
 they always operate the same. A child, though ignorant of the law, will get
@@ -127,12 +126,12 @@ conscience, the right and control of property, and the protection of life.
 magistrates to enforce the laws of the same; and that such as will administer
 the law in equity and justice should be sought for and upheld by the voice of
 the people if a republic, or the will of the sovereign." ([D&amp;C
-134:1-3](https://www.lds.org/scriptures/dc-testament/dc/134.1-3?lang=eng#0).)
+134:1-3](/scriptures/dc-testament/dc/134.1-3?lang=eng#0).)
 
 Our Twelfth Article of Faith [[A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11)] states: "We
-believe in being subject to kings, presidents, rulers, and magistrates, in
-obeying, honoring, and sustaining the law."
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11)] states: "We believe in being
+subject to kings, presidents, rulers, and magistrates, in obeying, honoring,
+and sustaining the law."
 
 It is most important that all citizens be informed in matters of government;
 that they know and understand the laws of the land; and that they take an
@@ -167,7 +166,7 @@ acknowledgment that it was Caesar's, he said:
 
 "Render therefore unto Caesar the things which are Caesar's; and unto God the
 things that are God's." ([Matt.
-22:21](https://www.lds.org/scriptures/nt/matt/22.21?lang=eng#20).)
+22:21](/scriptures/nt/matt/22.21?lang=eng#20).)
 
 It is the duty of citizens of any country to remember that they have
 individual responsibilities, and that they must operate within the law of the
@@ -181,7 +180,7 @@ rebellion are unbecoming every citizen thus protected, and should be punished
 accordingly; and that all governments have a right to enact such laws as in
 their own judgments are best calculated to secure the public interest; at the
 same time, however, holding sacred the freedom of conscience." ([D&amp;C
-134:5](https://www.lds.org/scriptures/dc-testament/dc/134.5?lang=eng#4).)
+134:5](/scriptures/dc-testament/dc/134.5?lang=eng#4).)
 
 Now regarding the laws of God. They are as clear and as binding and as
 irrevocable as those of nature, and our success or failure, our happiness or
@@ -192,8 +191,8 @@ lives. We are told:
 world, upon which all blessings are predicated--
 
 "And when we obtain any blessing from God, it is by obedience to that law upon
-which it is predicated." ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19).)
+which it is predicated." ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19).)
 
 We believe that the gospel contains the laws of life, pertaining to our human
 relations, to moral and spiritual living--laws that are just as valid in their
@@ -208,7 +207,7 @@ with us in the resurrection.
 
 "And if a person gains more knowledge and intelligence in this life through
 his diligence and _obedience_ than another, he will have so much the advantage
-in the world to come." ([D&amp;C 130:18-19](https://www.lds.org/scriptures/dc-
+in the world to come." ([D&amp;C 130:18-19](/scriptures/dc-
 testament/dc/130.18-19?lang=eng#17), Italics added.)
 
 The word of the Lord is so clear to us, and his laws so plainly designed for
@@ -219,7 +218,7 @@ misery and unhappiness by so doing. The prophet Jacob counseled:
 "Wherefore, brethren, seek not to counsel the Lord, but to take counsel from
 his hand. For behold, ye yourselves know that he counseleth in wisdom, and in
 justice, and in great mercy, over all his works." ([Jacob
-4:10](https://www.lds.org/scriptures/bofm/jacob/4.10?lang=eng#9).)
+4:10](/scriptures/bofm/jacob/4.10?lang=eng#9).)
 
 And from the depth of his great wisdom, Solomon said,
 
@@ -227,7 +226,7 @@ And from the depth of his great wisdom, Solomon said,
 understanding.
 
 "In all thy ways acknowledge him, and he shall direct thy paths." ([Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).)
+3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4).)
 
 The road signs are clear in the gospel of Jesus Christ. We have the Ten
 Commandments, examples of which are:
@@ -237,7 +236,7 @@ Commandments, examples of which are:
 "Thou shalt not kill, steal, commit adultery, bear false witness.
 
 "Thou shalt keep the Sabbath Day holy," etc. (See [Ex.
-20](https://www.lds.org/scriptures/ot/ex/20.title?lang=eng).)
+20](/scriptures/ot/ex/20?lang=eng).)
 
 We have the Sermon on the Mount, with which you should all be familiar. We
 have been told by Jesus which is the great commandment in the law:
@@ -248,8 +247,7 @@ and with all thy mind.
 "This is the first and great commandment.
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-([Matt.
-22:37-39](https://www.lds.org/scriptures/nt/matt/22.37-39?lang=eng#36).)
+([Matt. 22:37-39](/scriptures/nt/matt/22.37-39?lang=eng#36).)
 
 It is impossible to estimate or overemphasize the great effect the keeping of
 these two commandments would have on the whole world. Peace and righteousness
@@ -263,25 +261,25 @@ can gain eternal life. Let us all have the courage to feel and say, with Paul:
 
 "For I am not ashamed of the gospel of Christ: for it is the power of God unto
 salvation to every one that believeth." ([Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15).)
+1:16](/scriptures/nt/rom/1.16?lang=eng#15).)
 
 The Lord said, "This is my work and my glory--to bring to pass the immortality
 and eternal life of man." ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38).) This was so
-important to him that he gave his life, and through his atoning sacrifice made
-it possible for us to be resurrected, and to enjoy immortality and exaltation.
-How fortunate we are to have the great privilege, blessing, and opportunity as
-missionaries to help him achieve his great purpose.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38).) This was so important to him
+that he gave his life, and through his atoning sacrifice made it possible for
+us to be resurrected, and to enjoy immortality and exaltation. How fortunate
+we are to have the great privilege, blessing, and opportunity as missionaries
+to help him achieve his great purpose.
 
 We have this binding contract: "I, the Lord, am bound when ye do what I say;
 but when ye do not what I say, ye have no promise." ([D&amp;C
-82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9).) And
-we also have this warning:
+82:10](/scriptures/dc-testament/dc/82.10?lang=eng#9).) And we also have this
+warning:
 
 "He that receiveth my law and doeth it, the same is my disciple; and he that
 saith he receiveth it and doeth it not, the same is not my disciple, and shall
-be cast out from among you." ([D&amp;C 41:5](https://www.lds.org/scriptures
-/dc-testament/dc/41.5?lang=eng#4).)
+be cast out from among you." ([D&amp;C 41:5](/scriptures/dc-
+testament/dc/41.5?lang=eng#4).)
 
 So it should be clear to all that there is no conflict, as my young friend
 seemed to feel, between the teachings of the Church that "man is that he might
@@ -311,7 +309,9 @@ faithful and diligent before me.
 "Wherefore, I give unto them a commandment, saying thus: Thou shalt love the
 Lord thy God with all thy heart, with all thy might, mind, and strength; and
 in the name of Jesus Christ thou shalt serve him." ([D&amp;C
-59:1-5](https://www.lds.org/scriptures/dc-testament/dc/59.1-5?lang=eng#0).)
+59:1-5](/scriptures/dc-testament/dc/59.1-5?lang=eng#0).)
 
 I testify that these things are true, in the name of Jesus Christ. Amen.
+
+## References
 

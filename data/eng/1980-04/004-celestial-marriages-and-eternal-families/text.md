@@ -35,23 +35,22 @@ and female created he them.
 
 "And God blessed them, and God said unto them, Be fruitful, and multiply, and
 replenish the earth, and subdue it" ([Gen.
-1:26-28](https://www.lds.org/scriptures/ot/gen/1.26-28?lang=eng#25)).
+1:26-28](/scriptures/ot/gen/1.26-28?lang=eng#25)).
 
 When God created woman and brought her to the man, he said:
 
 "Therefore shall a man leave his father and his mother, and shall cleave unto
 his wife: and they shall be one flesh" ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23)).
+2:24](/scriptures/ot/gen/2.24?lang=eng#23)).
 
 Yes, marriage is ordained of God, and following that first reference to
 husband and wife, we find recurring scriptures as evidence that men and women
 became husbands and wives in marriage ceremonies followed by wedding feasts.
 We are not here just to "eat, drink, and be merry"([2 Ne.
-28:7](https://www.lds.org/scriptures/bofm/2-ne/28.7?lang=eng#6)). We have been
-given an earth to subdue, and instructions to multiply and replenish it. It is
-interesting to note that God said "multiply" and not just "replenish" the
-earth (see [Gen.
-1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27)).
+28:7](/scriptures/bofm/2-ne/28.7?lang=eng#6)). We have been given an earth to
+subdue, and instructions to multiply and replenish it. It is interesting to
+note that God said "multiply" and not just "replenish" the earth (see [Gen.
+1:28](/scriptures/ot/gen/1.28?lang=eng#27)).
 
 It is important for us to understand, as we can learn from the scriptures,
 that God is eternal, that his creations are eternal, and that his truths are
@@ -60,7 +59,7 @@ eternal. Marriage as ordained of God and performed in his holy temples is
 eternal--not just until death. In Ecclesiastes we read:
 
 "I know that, whatsoever God doeth, it shall be for ever" ([Eccl.
-3:14](https://www.lds.org/scriptures/ot/eccl/3.14?lang=eng#13)).
+3:14](/scriptures/ot/eccl/3.14?lang=eng#13)).
 
 When Christ asked Peter to tell him who he was, Peter answered, "Thou art the
 Christ, the Son of the living God." Jesus gave Peter the assurance that he
@@ -69,7 +68,7 @@ rock of revelation that he would build his church. Then he said, "I will give
 unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on
 earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall
 be loosed in heaven" (see [Matt.
-16:15-19](https://www.lds.org/scriptures/nt/matt/16.15-19?lang=eng#14)).
+16:15-19](/scriptures/nt/matt/16.15-19?lang=eng#14)).
 
 When the Pharisees came to Jesus, tempting him, to ask about divorce, his
 answer included the following: "Have ye not read, that he which made them at
@@ -80,7 +79,7 @@ cleave to his wife: and they twain shall be one flesh?
 
 "Wherefore they are no more twain, but one flesh. What therefore God hath
 joined together, let not man put asunder" ([Matt.
-19:4-6](https://www.lds.org/scriptures/nt/matt/19.4-6?lang=eng#3)).
+19:4-6](/scriptures/nt/matt/19.4-6?lang=eng#3)).
 
 These scriptures indicate that celestial marriage, ordained by God and
 performed by his authority in his holy temples, is eternal, and couples so
@@ -196,20 +195,20 @@ late Melvin J. Ballard, said this:
 "There is a passage in our Scriptures which the Latter-day Saints accept as
 divine: 'This is the glory of God--to bring to pass the immortality and
 eternal life of man' [see [Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)]. Likewise we
-could say that this is the glory of men and women--to bring to pass the
-_mortality_ of the sons and daughters of God, to give earth-life to the
-waiting children of our Father. ... The greatest mission of woman is to give
-life, earth-life, through honorable marriage, to the waiting spirits, our
-Father's spirit children who anxiously desire to come to dwell here in this
-mortal state. All the honor and glory that can come to men or women by the
-development of their talents, the homage and the praise they may receive from
-an applauding world, worshipping at their shrine of genius, is but a dim thing
-whose luster shall fade in comparison to the high honor, the eternal glory,
-the ever-enduring happiness that shall come to the woman who fulfils the first
-great duty and mission that devolves upon her to become the mother of the sons
-and daughters of God" (_Sermons and Missionary Services,_ Salt Lake City:
-Deseret Book Company, 1949, pp. 203-4, italics added).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)]. Likewise we could say that
+this is the glory of men and women--to bring to pass the _mortality_ of the
+sons and daughters of God, to give earth-life to the waiting children of our
+Father. ... The greatest mission of woman is to give life, earth-life, through
+honorable marriage, to the waiting spirits, our Father's spirit children who
+anxiously desire to come to dwell here in this mortal state. All the honor and
+glory that can come to men or women by the development of their talents, the
+homage and the praise they may receive from an applauding world, worshipping
+at their shrine of genius, is but a dim thing whose luster shall fade in
+comparison to the high honor, the eternal glory, the ever-enduring happiness
+that shall come to the woman who fulfils the first great duty and mission that
+devolves upon her to become the mother of the sons and daughters of God"
+(_Sermons and Missionary Services,_ Salt Lake City: Deseret Book Company,
+1949, pp. 203-4, italics added).
 
 We reaffirm today what U.S. president Theodore Roosevelt said in 1917:
 
@@ -268,12 +267,12 @@ all our other knowledge cannot save us.
 Jesus Christ came to earth to give us that very message--who we are and what
 we are supposed to do. He gave us the gospel plan of life and salvation and
 said there was no other name under heaven whereby we could be saved (see [Acts
-4:12](https://www.lds.org/scriptures/nt/acts/4.12?lang=eng#11)). We have that
-same gospel restored in these latter days, with the living prophet today, even
-Spencer W. Kimball, to speak for God, as has been God's method of
-communication with man through the ages. The answers to all life's problems
-are to be found in the gospel of Jesus Christ. Continuous revelation keeps us
-advised on current problems.
+4:12](/scriptures/nt/acts/4.12?lang=eng#11)). We have that same gospel
+restored in these latter days, with the living prophet today, even Spencer W.
+Kimball, to speak for God, as has been God's method of communication with man
+through the ages. The answers to all life's problems are to be found in the
+gospel of Jesus Christ. Continuous revelation keeps us advised on current
+problems.
 
 To strengthen the weakening family structure, the Church has instituted the
 family home evening program, where at least one night each week the entire
@@ -311,4 +310,6 @@ our home a heaven on earth while we prepare ourselves and our children to
 return to our Heavenly Father. I bear testimony to the truthfulness of the
 things I have said this day, and I do it in the name of the Lord Jesus Christ,
 amen.
+
+## References
 

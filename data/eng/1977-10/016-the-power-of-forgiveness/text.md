@@ -9,17 +9,12 @@ Church into the ranks of inactive adults and also to bring substantial numbers
 out of the adult rank into activity. With this in mind, we have the following
 to suggest:
 
-  1. A greater effort in fellowshipping converts to the Church. It is imperative that those who are baptized as converts immediately be assigned home teachers who will fellowship them in a very personal and concerned manner. These home teachers, working with their priesthood officers, should see that each mature convert is given some challenging activity as well as an opportunity and encouragement to increase his knowledge of the gospel. He should be assisted in establishing social relationships with the members of the Church so that he will not feel alone as he begins his life as an active Latter-day Saint.
-
-  2. Added emphasis on the approved Aaronic Priesthood Young Men and Young Women programs. These have been designed to strengthen the teaching process of our youth and to afford them rewarding and challenging opportunities for the kinds of activities which will give expression to their many and varied talents. In saving our youth, we save generations.
-
-  3. Infusing ward and stake Relief Society officers with an added sense of responsibility to enroll the women of the Church and bring them into full activity. This will entail an accommodation in scheduling meetings so that it will be possible for more of our women to attend and participate in the program of this great organization. We ask that bishops consult with their Relief Society presidents concerning this.
-
-  4. Impressing our home teachers to take upon themselves greater responsibility for members of the Church who move from one area to another. Through contacts with relatives and neighbors, many of those who move can be identified and steps taken to see that they are welcomed immediately upon arrival in the area of their new residency.
-
-  5. Working more actively with those whom we classify as _prospective elders._ Under our present program, our elders quorums assume responsibility for these men. It should be remembered however, that provision is made in the program under which high priests and even seventies may be called to assist with these men. The elders quorum, through the priesthood executive committee, may ask that high priests serve as home teachers to some of these men, particularly to those who would find greater congeniality with high priest home teachers. Likewise, in those families where there are nonmembers of the Church, the seventies might be asked to assist, with the thought that they will go to the homes not only as home teachers, but also as missionaries to the nonmembers of the Church who may reside there. I am satisfied, brethren, that we can do much more than we are now doing to bring many of these men back into full activity. In so doing, we shall bless their lives and the lives of their families, and in a very substantial manner strengthen the work of the Lord.
-
-  6. For years we have urged that seminars be held to which prospective elders and their wives, as well as inactive elders, may be invited to meet together. There, under the tutelage of an inspired and effective teacher, they can increase their knowledge of the gospel with the objective that they may prepare themselves to go to the house of the Lord. We have approved a course of study for such seminars. This has been prepared under the direction of the Priesthood Executive Committee, and we are hopeful that bishops and stake presidents will utilize it in this important undertaking.
+  1. A greater effort in fellowshipping converts to the Church. It is imperative that those who are baptized as converts immediately be assigned home teachers who will fellowship them in a very personal and concerned manner. These home teachers, working with their priesthood officers, should see that each mature convert is given some challenging activity as well as an opportunity and encouragement to increase his knowledge of the gospel. He should be assisted in establishing social relationships with the members of the Church so that he will not feel alone as he begins his life as an active Latter-day Saint. 
+  2. Added emphasis on the approved Aaronic Priesthood Young Men and Young Women programs. These have been designed to strengthen the teaching process of our youth and to afford them rewarding and challenging opportunities for the kinds of activities which will give expression to their many and varied talents. In saving our youth, we save generations. 
+  3. Infusing ward and stake Relief Society officers with an added sense of responsibility to enroll the women of the Church and bring them into full activity. This will entail an accommodation in scheduling meetings so that it will be possible for more of our women to attend and participate in the program of this great organization. We ask that bishops consult with their Relief Society presidents concerning this. 
+  4. Impressing our home teachers to take upon themselves greater responsibility for members of the Church who move from one area to another. Through contacts with relatives and neighbors, many of those who move can be identified and steps taken to see that they are welcomed immediately upon arrival in the area of their new residency. 
+  5. Working more actively with those whom we classify as _prospective elders._ Under our present program, our elders quorums assume responsibility for these men. It should be remembered however, that provision is made in the program under which high priests and even seventies may be called to assist with these men. The elders quorum, through the priesthood executive committee, may ask that high priests serve as home teachers to some of these men, particularly to those who would find greater congeniality with high priest home teachers. Likewise, in those families where there are nonmembers of the Church, the seventies might be asked to assist, with the thought that they will go to the homes not only as home teachers, but also as missionaries to the nonmembers of the Church who may reside there. I am satisfied, brethren, that we can do much more than we are now doing to bring many of these men back into full activity. In so doing, we shall bless their lives and the lives of their families, and in a very substantial manner strengthen the work of the Lord. 
+  6. For years we have urged that seminars be held to which prospective elders and their wives, as well as inactive elders, may be invited to meet together. There, under the tutelage of an inspired and effective teacher, they can increase their knowledge of the gospel with the objective that they may prepare themselves to go to the house of the Lord. We have approved a course of study for such seminars. This has been prepared under the direction of the Priesthood Executive Committee, and we are hopeful that bishops and stake presidents will utilize it in this important undertaking. 
 
 Brethren, we cannot relax while many of our brothers and sisters and many of
 our young men and women are failing to participate in the programs of the
@@ -180,8 +175,8 @@ reward thee according to thy deeds.
 
 "And him that repenteth not of his sins, and confesseth them not, ye shall
 bring before the church, and do with him as the scripture saith unto you,
-either by commandment or by revelation." ([D&amp;C
-64:7-12](https://www.lds.org/scriptures/dc-testament/dc/64.7-12?lang=eng#6).)
+either by commandment or by revelation." ([D&amp;C 64:7-12](/scriptures/dc-
+testament/dc/64.7-12?lang=eng#6).)
 
 I could feel the two antagonists were yielding, and I read the Lord's Prayer,
 wherein He said,
@@ -201,7 +196,7 @@ name.
 
 "And lead us not into temptation, but deliver us from evil: For thine is the
 kingdom, and the power, and the glory, for ever. Amen." ([Matt.
-6:7-13](https://www.lds.org/scriptures/nt/matt/6.7-13?lang=eng#6).)
+6:7-13](/scriptures/nt/matt/6.7-13?lang=eng#6).)
 
 As though he needed to refresh their minds, the Lord returned to the theme:
 
@@ -209,8 +204,7 @@ As though he needed to refresh their minds, the Lord returned to the theme:
 forgive you:
 
 "But if ye forgive not men their trespasses, neither will your Father forgive
-your trespasses." ([Matt.
-6:14-15](https://www.lds.org/scriptures/nt/matt/6.14-15?lang=eng#13).)
+your trespasses." ([Matt. 6:14-15](/scriptures/nt/matt/6.14-15?lang=eng#13).)
 
 Hard to do? Of course. The Lord never promised an easy road, nor a simple
 gospel, nor low standards, nor a low norm. The price is high, but the goods
@@ -218,8 +212,7 @@ attained are worth all they cost. The Lord himself turned the other cheek; he
 suffered himself to be buffeted and beaten without remonstrance; he suffered
 every indignity and yet spoke no word of condemnation. And his question to all
 of us is: "Therefore, what manner of men ought ye to be?" And his answer to us
-is: "Even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+is: "Even as I am." ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 In his _The Prince of Peace,_ William Jennings Bryan wrote:
 
@@ -238,13 +231,11 @@ continue to remember it."
 The injuries inflicted by neighbors, by relatives, or by spouses are generally
 of a minor nature, at least at first. We must forgive them. Since the Lord is
 so merciful, must not we be? "Blessed are the merciful, for they shall obtain
-mercy" ([3 Ne.
-12:7](https://www.lds.org/scriptures/bofm/3-ne/12.7?lang=eng#6)) is another
+mercy" ([3 Ne. 12:7](/scriptures/bofm/3-ne/12.7?lang=eng#6)) is another
 version of the Golden Rule. "All manner of sin and blasphemy shall be forgiven
 unto men," said the Lord, "but the blasphemy against the Holy Ghost shall not
-be forgiven unto men." ([Matt.
-12:31](https://www.lds.org/scriptures/nt/matt/12.31?lang=eng#30).) If the Lord
-is so gracious and kind, we must be also.
+be forgiven unto men." ([Matt. 12:31](/scriptures/nt/matt/12.31?lang=eng#30).)
+If the Lord is so gracious and kind, we must be also.
 
 "When such people as the widow, Bishop Kempton, April Aaron and others
 grievously wronged can forgive; when men like Stephen and Paul can forgive
@@ -275,4 +266,6 @@ God be the righteous judge.
 We shall love all our neighbors as ourselves and God will bless all of us.
 Jesus Christ, also our Lord and Savior, is the Lord of this world. God bless
 us that we may follow closely his dictates, in the name of Jesus Christ. Amen.
+
+## References
 

@@ -15,8 +15,7 @@ marry is not ordained of God, for marriage is ordained of God unto man.
 one flesh, and all this that the earth might answer the end of its creation;
 
 "And that it might be filled with the measure of man, according to his
-creation before the world was made." ([D&amp;C
-49:15-17](https://www.lds.org/scriptures/dc-
+creation before the world was made." ([D&amp;C 49:15-17](/scriptures/dc-
 testament/dc/49.15-17?lang=eng#14).)
 
 Marriage is a sacred relationship entered into primarily for the rearing of a
@@ -37,9 +36,8 @@ the kingdom of God._" (_Doctrines of Salvation _[Bookcraft, 1967], vol. 2, p.
 58.)
 
 "What therefore God hath joined together, let not man put asunder." ([Mark
-10:9](https://www.lds.org/scriptures/nt/mark/10.9?lang=eng#8).) It is evident
-from the scriptures that marriage performed in the Lord's way should not be
-dissolved.
+10:9](/scriptures/nt/mark/10.9?lang=eng#8).) It is evident from the scriptures
+that marriage performed in the Lord's way should not be dissolved.
 
 It is sad, indeed, to see how lightly some take their marriage vows. There is
 great concern among the Brethren as to the increasing number of divorces in
@@ -55,10 +53,10 @@ this is the same reason divorce was finally permitted in the time of Moses, as
 referred to by the Savior as he answered the Pharisees, when he said: "Moses
 because of the hardness of your hearts suffered you to put away your wives:
 but from the beginning it was not so." ([Matt.
-19:8](https://www.lds.org/scriptures/nt/matt/19.8?lang=eng#7).) And so in our
-day members do not abide by the law of the gospel in its fullness, and, as in
-the day of Moses, divorce is permitted, when deemed necessary, although it was
-never intended to be.
+19:8](/scriptures/nt/matt/19.8?lang=eng#7).) And so in our day members do not
+abide by the law of the gospel in its fullness, and, as in the day of Moses,
+divorce is permitted, when deemed necessary, although it was never intended to
+be.
 
 If, in marriage, both parties would make gospel standards and principles the
 basis of their marriage, few problems would arise they could not handle. When
@@ -198,4 +196,6 @@ disagreeable." (_The LDS Family, _p. 236.)
 
 May we keep sacred our marriage vows and live so that we might enjoy its
 eternal blessings, I pray in the name of Jesus Christ. Amen.
+
+## References
 

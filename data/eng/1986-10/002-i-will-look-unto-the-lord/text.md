@@ -2,8 +2,7 @@
 
 In the early days of the Restoration, the Lord commanded one of his servants
 to "declare glad tidings," and to do this "with all humility, trusting in me,
-reviling not against revilers" ([D&amp;C
-19:29-30](https://www.lds.org/scriptures/dc-
+reviling not against revilers" ([D&amp;C 19:29-30](/scriptures/dc-
 testament/dc/19.29-30?lang=eng#28)). In the constructive spirit of that
 directive, I desire to bear my testimony this morning about the vital effect
 in our lives and the lives of others of the day-by-day decisions all of us are
@@ -26,8 +25,7 @@ possession earth can give" (in Conference Report, Apr. 1950, p. 32).
 The oppressing presence of problems all about us--personal, family, and in our
 society--accentuates the peril as well as the privilege of free agency. The
 ancient Psalmist surely seems to be singing to our time: "Have mercy upon me,
-O Lord, for I am in trouble" ([Ps.
-31:9](https://www.lds.org/scriptures/ot/ps/31.9?lang=eng#8)).
+O Lord, for I am in trouble" ([Ps. 31:9](/scriptures/ot/ps/31.9?lang=eng#8)).
 
 Why is there so much trouble? "With all that fairway, why do we spend so much
 time in the rough?" someone said.
@@ -45,19 +43,17 @@ The ancient prophet Micah perhaps surprisingly seemed to rule out the nearest
 and most normal sources of assistance--family, friends, and leaders. Some of
 us have perhaps experienced a measure of the deep disappointment he felt
 because of Israel's rebelliousness when he declared that "the good man is
-perished out of the earth" ([Micah
-7:2](https://www.lds.org/scriptures/ot/micah/7.2?lang=eng#1)). He spoke of
-princes and judges asking for rewards, and of great men uttering "mischievous
-desires" ([Micah
-7:3](https://www.lds.org/scriptures/ot/micah/7.3?lang=eng#2)). For Micah, the
-source of help was clear and sure: "Therefore I will look unto the Lord," he
-said. "I will wait for the God of my salvation: my God will hear me" ([Micah
-7:7](https://www.lds.org/scriptures/ot/micah/7.7?lang=eng#6)).
+perished out of the earth" ([Micah 7:2](/scriptures/ot/micah/7.2?lang=eng#1)).
+He spoke of princes and judges asking for rewards, and of great men uttering
+"mischievous desires" ([Micah 7:3](/scriptures/ot/micah/7.3?lang=eng#2)). For
+Micah, the source of help was clear and sure: "Therefore I will look unto the
+Lord," he said. "I will wait for the God of my salvation: my God will hear me"
+([Micah 7:7](/scriptures/ot/micah/7.7?lang=eng#6)).
 
 Jeremiah warned "the man that trusteth in man, and maketh flesh his arm, and
 whose heart departeth from the Lord" ([Jer.
-17:5](https://www.lds.org/scriptures/ot/jer/17.5?lang=eng#4)). Other prophets
-have similarly spoken.
+17:5](/scriptures/ot/jer/17.5?lang=eng#4)). Other prophets have similarly
+spoken.
 
 Does this mean that we may never have confidence in the integrity of others?
 Must we never trust parents or friends or caring counselors or humble servants
@@ -138,7 +134,7 @@ and over, "What will I tell my mom? What will I tell my girl?"
 He had time now--and the disposition to listen and to think. We read together
 the sweet counsel of the Lord concerning Christ's atoning sacrifice and his
 mission of redemption and of forgiveness and mercy (see [Alma
-42](https://www.lds.org/scriptures/bofm/alma/42.title?lang=eng)).
+42](/scriptures/bofm/alma/42?lang=eng)).
 
 About two thousand years ago, the Apostle Peter wrote in remarkable detail of
 our times and what is transpiring in them as individuals, young and old, are
@@ -168,8 +164,8 @@ from them who live in error.
 
 "While they promise them liberty, they themselves are the servants of
 corruption: for of whom a man is overcome, of the same is he brought in
-bondage" ([2 Pet. 2:9-10, 12, 14, 17-19](https://www.lds.org/scriptures/nt/2-p
-et/2.9-10%2C12%2C14%2C17-19?lang=eng#8); italics added).
+bondage" ([2 Pet. 2:9-10, 12, 14,
+17-19](/scriptures/nt/2-pet/2.9-10,12,14,17-19?lang=eng#8); italics added).
 
 I have never been able to refer to these powerful words without thinking about
 a clean young man of strong promise who followed bad counsel and bad example
@@ -193,14 +189,14 @@ is our Mediator and our Advocate with the Father. The prophet Micah spoke
 truthfully and faithfully long ago when, in a time of great trouble, he
 testified: "I will look unto the Lord; I will wait for the God of my
 salvation: my God will hear me" ([Micah
-7:7](https://www.lds.org/scriptures/ot/micah/7.7?lang=eng#6)).
+7:7](/scriptures/ot/micah/7.7?lang=eng#6)).
 
 All of us have much to learn and need good counsel. And beyond sound human
 help, beyond the "arm of flesh," it is written, "Counsel with the Lord in all
 thy doings, and he will direct thee for good" ([Alma
-37:37](https://www.lds.org/scriptures/bofm/alma/37.37?lang=eng#36)). "He will
-console you in your afflictions, and he will plead your cause" ([Jacob
-3:1](https://www.lds.org/scriptures/bofm/jacob/3.1?lang=eng#0)).
+37:37](/scriptures/bofm/alma/37.37?lang=eng#36)). "He will console you in your
+afflictions, and he will plead your cause" ([Jacob
+3:1](/scriptures/bofm/jacob/3.1?lang=eng#0)).
 
 Mormon's last words to his son are my prayer for my children and grandchildren
 also, and for the children of men everywhere:
@@ -209,8 +205,9 @@ also, and for the children of men everywhere:
 grieve thee, to weigh thee down unto death; but may Christ lift thee up, and
 may his sufferings and death, and [resurrection], ... and his mercy and long-
 suffering, and the hope of his glory and of eternal life, rest in your mind
-forever" ([Moro.
-9:25](https://www.lds.org/scriptures/bofm/moro/9.25?lang=eng#24)).
+forever" ([Moro. 9:25](/scriptures/bofm/moro/9.25?lang=eng#24)).
 
 In the name of Jesus Christ, amen.
+
+## References
 

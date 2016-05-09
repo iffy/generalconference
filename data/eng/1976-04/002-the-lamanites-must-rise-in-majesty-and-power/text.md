@@ -30,8 +30,8 @@ Israel gathered from among the gentile nations." (Letter to A. Carrington,
 Liverpool, Oct. 18, 1882.)
 
 President Wilford Woodruff penetrated the future and revealed, "Zion is bound
-to rise and flourish. The Lamanites will blossom as the rose on the mountains.
-. . . Every word that God has ever said of them will have its fulfillment, and
+to rise and flourish. The Lamanites will blossom as the rose on the mountains...
+. Every word that God has ever said of them will have its fulfillment, and
 they, by and by, will receive the Gospel. It will be a day of God's power
 among them, and a nation will be born in a day." (_Journal of Discourses,_
 15:282.)
@@ -50,7 +50,7 @@ tall in the field white already to harvest; the total membership of 1947 but
 represents harvest of a pair of months today.
 
 To continue the statement of President Kimball, "We must look forward to the
-day . . . when they shall have economic security, culture, refinement, and
+day ... when they shall have economic security, culture, refinement, and
 education; when they shall be operating farms and businesses and industries
 and shall be occupied in the professions and in teaching." (Ibid.)
 
@@ -128,4 +128,6 @@ with power, vision, and farsightedness for today and tomorrow.
 
 The Lord is our light, and that light comes through the prophets. Of this I
 testify, in the name of Jesus Christ. Amen.
+
+## References
 

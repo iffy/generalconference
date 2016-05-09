@@ -131,7 +131,7 @@ President Monson has talked to you of some aspects of the welfare program. I
 may add that the principles under which it operates are as old as the gospel.
 It is an expression of the Golden Rule: "Whatsoever ye would that men should
 do unto you, do ye even so unto them." ([Matt.
-7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11).)
+7:12](/scriptures/nt/matt/7.12?lang=eng#11).)
 
 The care of the poor is in the hands of bishops of wards--those Church
 officers who are nearest to the members and most intimately aware of their
@@ -200,15 +200,14 @@ affairs of the Church.
 
 Section 119 simply states that all members "shall pay one-tenth of all their
 interest [that which is income] annually; and this shall be a standing law
-unto them forever ... saith the Lord." ([D&amp;C
-119:4](https://www.lds.org/scriptures/dc-testament/dc/119.4?lang=eng#3).)
+unto them forever ... saith the Lord." ([D&amp;C 119:4](/scriptures/dc-
+testament/dc/119.4?lang=eng#3).)
 
 Then, concerning the disbursement of the money which comes from the tithing,
 the Lord has said: "Verily, thus saith the Lord, ... it shall be disposed of by
 a council, composed of the First Presidency of my Church, and of the bishop
 and his council, and by my high council; and by mine own voice unto them,
-saith the Lord." ([D&amp;C 120](https://www.lds.org/scriptures/dc-
-testament/dc/120.title?lang=eng).)
+saith the Lord." ([D&amp;C 120](/scriptures/dc-testament/dc/120?lang=eng).)
 
 These eighteen men--the Presidency, the Twelve, and the Presiding Bishopric--
 constitute the Council on the Disposition of the Tithes. What might be
@@ -230,8 +229,7 @@ Some of us, I submit, are old enough to remember vividly the dark times of the
 Great Depression of the thirties. I hope we shall never see such again. But we
 know that they are not outside the realm of possibility. We are mindful of the
 story of Pharaoh's dream of the fat and lean cattle and the full and thin ears
-of corn. (See [Gen.
-41](https://www.lds.org/scriptures/ot/gen/41.title?lang=eng).)
+of corn. (See [Gen. 41](/scriptures/ot/gen/41?lang=eng).)
 
 How grateful I am to be able to say to the priesthood of this church that the
 Church in its ecclesiastical operations has no debt. No temple, no
@@ -301,7 +299,7 @@ future of the Church?"_
 The charge laid upon the Church is almost beyond comprehension. While yet upon
 the earth the Lord declared: "And this gospel of the kingdom shall be preached
 in all the world for a witness unto all nations; and then shall the end come."
-([Matt. 24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).)
+([Matt. 24:14](/scriptures/nt/matt/24.14?lang=eng#13).)
 
 Furthermore, the work of the Church is concerned with the eternal welfare of
 all generations who have lived upon the earth.
@@ -337,4 +335,6 @@ be true and faithful to the great and sacred trust which is placed in us.
 May the Lord smile with favor upon each of you. May each of us ever be
 grateful for His blessings and constantly strive to walk worthily before Him
 is my humble prayer in the name of Jesus Christ, amen.
+
+## References
 

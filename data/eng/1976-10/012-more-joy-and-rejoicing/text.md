@@ -7,41 +7,37 @@ for the first time."
 
 I come again to the work of the Seventy with greater capacity to appreciate
 the significance and sacredness of a calling which the Lord in the revelation
-talks of in terms of "special witnesses." ([D&amp;C
-107:25](https://www.lds.org/scriptures/dc-testament/dc/107.25?lang=eng#24).)
-There could be no holier commission.
+talks of in terms of "special witnesses." ([D&amp;C 107:25](/scriptures/dc-
+testament/dc/107.25?lang=eng#24).) There could be no holier commission.
 
 In his great sermon this morning, Elder Hunter referred us to the Savior's
 quotations in His response to Lucifer, from scriptures which in His day were
 already ancient.
 
 "Ye have heard that it was said by them of old time, Thou shalt not kill"
-([Matt. 5:21](https://www.lds.org/scriptures/nt/matt/5.21?lang=eng#20)), He
-said. "But I say unto you ..." ([Matt.
-5:22](https://www.lds.org/scriptures/nt/matt/5.22?lang=eng#21)), and then He
+([Matt. 5:21](/scriptures/nt/matt/5.21?lang=eng#20)), He said. "But I say unto
+you ..." ([Matt. 5:22](/scriptures/nt/matt/5.22?lang=eng#21)), and then He
 broadened the issue; He spoke of matters which those who listened recognized
 as applying to them. Probably they had not been guilty of killing, but had
 they been angry with a brother without cause? "It was said by them of old
 time, Thou shalt not commit adultery" ([Matt.
-5:27](https://www.lds.org/scriptures/nt/matt/5.27?lang=eng#26)). But had His
-hearers offended God by entertaining this sin in their own hearts?
+5:27](/scriptures/nt/matt/5.27?lang=eng#26)). But had His hearers offended God
+by entertaining this sin in their own hearts?
 
 "Ye have heard that it hath been said, An eye for an eye, and a tooth for
 tooth:
 
 "But I say unto you, That ye resist not evil: but whosoever shall smite thee
 on thy right cheek, turn to him the other also." ([Matt.
-5:38-39](https://www.lds.org/scriptures/nt/matt/5.38-39?lang=eng#37).) It had
-been said of old that one should love his neighbor and hate his enemy, but
-Christ said that the disciple is to love his enemies, bless others that may
-curse him, do good to and pray for them which hate or despitefully use him.
-(See [Matt.
-5:43-44](https://www.lds.org/scriptures/nt/matt/5.43-44?lang=eng#42).)
+5:38-39](/scriptures/nt/matt/5.38-39?lang=eng#37).) It had been said of old
+that one should love his neighbor and hate his enemy, but Christ said that the
+disciple is to love his enemies, bless others that may curse him, do good to
+and pray for them which hate or despitefully use him. (See [Matt.
+5:43-44](/scriptures/nt/matt/5.43-44?lang=eng#42).)
 
 There are actions that are plainly evil, and with these the true Christian
 must have no part. But the obligation is greater than that. "What do ye more
-than others?" ([Matt.
-5:47](https://www.lds.org/scriptures/nt/matt/5.47?lang=eng#46)) was His
+than others?" ([Matt. 5:47](/scriptures/nt/matt/5.47?lang=eng#46)) was His
 question.
 
 I thought of this as I sat once with a choice person who had been wronged, and
@@ -52,7 +48,7 @@ to full forgiveness and had received it. There was a serenity of spirit and a
 sweet radiation of peace about her that made me think of parables of lost
 sheep and coin and son, and the language in them concerning the joy and
 rejoicing in heaven over "one sinner that repenteth." ([Luke
-15:7](https://www.lds.org/scriptures/nt/luke/15.7?lang=eng#6).)
+15:7](/scriptures/nt/luke/15.7?lang=eng#6).)
 
 I said, "You really do understand the joy and rejoicing in heaven, don't you?"
 
@@ -65,7 +61,7 @@ Paul wrote of such an one: "Ye ought ... to forgive him, and comfort him, lest
 perhaps [he] should be swallowed up with overmuch sorrow.
 
 "Wherefore I beseech you that ye would confirm your love toward him." ([2 Cor.
-2:7-8](https://www.lds.org/scriptures/nt/2-cor/2.7-8?lang=eng#6).)
+2:7-8](/scriptures/nt/2-cor/2.7-8?lang=eng#6).)
 
 The Lord expects more of the disciple than ordinary response to need, to
 opportunity, to commandment. He expects more humility, more hearkening, more
@@ -75,7 +71,7 @@ He taught the lesson many times in many ways. The Samaritan in the parable
 understood something the priest and the Levite seemed not to know: Where there
 is a need, I personally have a responsibility to help. There is little use
 asking who is my neighbor; _I am neighbor_ to my neighbor in need. (See [Luke
-10:30-37](https://www.lds.org/scriptures/nt/luke/10.30-37?lang=eng#29).)
+10:30-37](/scriptures/nt/luke/10.30-37?lang=eng#29).)
 
 In another parable the despised publican understood what the self-righteous
 Pharisee was not willing to learn: That every one of us needs the mercy of God
@@ -83,7 +79,7 @@ and will receive it, and be exalted, if we truly humble ourselves before the
 holiness of God and do His will. He whose obedience or humility is more for
 the gallery than for God, who seeks to exalt self and not Savior, is not
 acceptable to Him and shall be brought down. (See [Luke
-18:10-14](https://www.lds.org/scriptures/nt/luke/18.10-14?lang=eng#9).)
+18:10-14](/scriptures/nt/luke/18.10-14?lang=eng#9).)
 
 I was moved with the personal meaning of all of this the other evening when we
 sat with a group of mentally retarded people and their families and friends. I
@@ -98,7 +94,7 @@ It came to me forcefully that God expects that His handicapped children will
 be given an opportunity for that enlargement, and that His disciples will
 accept the great responsibility to be concerned that they are. "Bear ye one
 another's burdens, and so fulfil the law of Christ." ([Gal.
-6:2](https://www.lds.org/scriptures/nt/gal/6.2?lang=eng#1).)
+6:2](/scriptures/nt/gal/6.2?lang=eng#1).)
 
 "What do ye more than others?"
 
@@ -112,8 +108,8 @@ In the book of Romans we read that the disciples are charged to "be kindly
 affectioned one to another with brotherly love." "Weep with them that weep."
 "If it be possible, as much as lieth in you, live peaceably with all men."
 "Walk honestly." "Be not overcome of evil, but overcome evil with good." (See
-[Rom. 12](https://www.lds.org/scriptures/nt/rom/12.title?lang=eng); [Rom.
-13](https://www.lds.org/scriptures/nt/rom/13.title?lang=eng).)
+[Rom. 12](/scriptures/nt/rom/12?lang=eng); [Rom.
+13](/scriptures/nt/rom/13?lang=eng).)
 
 "Owe no man any thing, but to love one another: for he that loveth another
 hath fulfilled the law.
@@ -122,7 +118,7 @@ hath fulfilled the law.
 Thou shalt not bear false witness, Thou shalt not covet; and if there be any
 other commandment, it is briefly comprehended in this saying, namely, Thou
 shalt love thy neighbour as thyself." ([Rom.
-13:8-9](https://www.lds.org/scriptures/nt/rom/13.8-9?lang=eng#7).)
+13:8-9](/scriptures/nt/rom/13.8-9?lang=eng#7).)
 
 There are many true disciples who "do more" than some others of us. I think of
 a choice lady born with a severely handicapped body and a wonderfully
@@ -182,4 +178,6 @@ fairness and kindness, and to more joy and rejoicing in the ward where we live
 when a beloved son or daughter comes home again.
 
 God grant that we may make it so. In the name of Jesus Christ. Amen.
+
+## References
 

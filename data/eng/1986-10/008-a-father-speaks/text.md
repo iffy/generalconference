@@ -20,19 +20,18 @@ from coming].
 for of such is the kingdom of heaven.
 
 "And [then] he laid his hands on them" ([Matt.
-19:13-15](https://www.lds.org/scriptures/nt/matt/19.13-15?lang=eng#12)).
+19:13-15](/scriptures/nt/matt/19.13-15?lang=eng#12)).
 
 How important each one of you is to your Father in Heaven and to his Son,
 Jesus Christ! They want you to be happy. They have told of some things which,
 if you do, will make you feel good inside. Jesus told us to "honour [our]
-father and mother" ([Matt.
-15:4](https://www.lds.org/scriptures/nt/matt/15.4?lang=eng#3)). That means we
-need to listen to our parents, ask for their help and advice, and, as they do
-what is right, follow their example.
+father and mother" ([Matt. 15:4](/scriptures/nt/matt/15.4?lang=eng#3)). That
+means we need to listen to our parents, ask for their help and advice, and, as
+they do what is right, follow their example.
 
 Jesus also said, "Pray always, and I will pour out my Spirit upon you, and
-great shall be your blessing" ([D&amp;C 19:38](https://www.lds.org/scriptures
-/dc-testament/dc/19.38?lang=eng#37)). I hope that each morning and evening you
+great shall be your blessing" ([D&amp;C 19:38](/scriptures/dc-
+testament/dc/19.38?lang=eng#37)). I hope that each morning and evening you
 kneel beside your bed and pray to your Father in Heaven. As you start the day,
 ask him to help you think good thoughts and do good deeds. As each day ends,
 thank him for your blessings, and ask that his spirit will always be with you.
@@ -54,7 +53,7 @@ hard and earn it. Be happy! Be glad you are you.
 Follow the wise counsel of Alma to his son Helaman given centuries ago: "O,
 remember, my son, and learn wisdom in thy youth; yea, learn in thy youth to
 keep the commandments of God" ([Alma
-37:35](https://www.lds.org/scriptures/bofm/alma/37.35?lang=eng#34)).
+37:35](/scriptures/bofm/alma/37.35?lang=eng#34)).
 
 In one of his last conference addresses, President David O. McKay gave this
 counsel to the youth of the Church:
@@ -118,14 +117,15 @@ eternity together.
 
 Now to those in your mature years. "Press forward with a steadfastness in
 Christ, having a perfect brightness of hope, and a love of God and of all men"
-([2 Ne. 31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19)).
-Continue to be living testimonies of the gospel as you share your faith, love,
-and wisdom. You are sorely needed in the mission field. What lives you will
-bless as you accept the call to serve! There is so much for you to do in the
-holy temples. Don't retire from active service in the Lord's kingdom. You are
-needed!
+([2 Ne. 31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19)). Continue to be
+living testimonies of the gospel as you share your faith, love, and wisdom.
+You are sorely needed in the mission field. What lives you will bless as you
+accept the call to serve! There is so much for you to do in the holy temples.
+Don't retire from active service in the Lord's kingdom. You are needed!
 
 I bear my testimony that God lives, that Jesus is the Savior, and that the
 gospel is for every nation, kindred, tongue, and people. In the name of Jesus
 Christ, amen.
+
+## References
 

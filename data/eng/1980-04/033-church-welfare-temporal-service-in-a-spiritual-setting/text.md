@@ -16,7 +16,7 @@ all thy soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets" ([Matt.
-22:36-40](https://www.lds.org/scriptures/nt/matt/22.36-40?lang=eng#35)).
+22:36-40](/scriptures/nt/matt/22.36-40?lang=eng#35)).
 
 As a ward bishop I was involved in the welfare program when it was first
 announced, and I have been involved in it ever since.
@@ -43,7 +43,7 @@ every needy, naked soul.
 "And this he said unto them, having been commanded of God; and they did walk
 uprightly before God, imparting to one another both temporally and spiritually
 according to their needs and their wants" ([Mosiah
-18:27-29](https://www.lds.org/scriptures/bofm/mosiah/18.27-29?lang=eng#26)).
+18:27-29](/scriptures/bofm/mosiah/18.27-29?lang=eng#26)).
 
 (This was, as you will remember, in America among the Nephites about 147 B.C.)
 
@@ -96,7 +96,7 @@ Church would do well to bear in mind:
 "I think," said he, that "my food would choke me if [I] knew that while I
 could procure bread my aged father or mother or near kin were on public
 relief. I believe a decent family pride is a salutary thing with any people
-and in any nation ... , a family pride in wholesome, self-reliant, and
+and in any nation ..., a family pride in wholesome, self-reliant, and
 enterprising living--a family pride that promotes the utmost solicitude for
 each member of the family. It wouldn't hurt my feelings to hear a family boast
 that through all vicissitudes they had come to each other's help and had never
@@ -117,7 +117,7 @@ contribution for the poor saints which are at Jerusalem.
 "It hath pleased them verily; and their debtors they are. For if the Gentiles
 have been made partakers of their spiritual things, their duty is also to
 minister unto them in carnal things" ([Rom.
-15:25-27](https://www.lds.org/scriptures/nt/rom/15.25-27?lang=eng#24)).
+15:25-27](/scriptures/nt/rom/15.25-27?lang=eng#24)).
 
 The obligation of the Church to help its poor is here placed by Paul on a par
 with communicating spiritual riches to those who are in darkness. By both
@@ -132,7 +132,7 @@ willing to communicate;
 
 "Laying up in store for themselves a good foundation against the time to come,
 that they may lay hold on eternal life" ([1 Tim.
-6:17-19](https://www.lds.org/scriptures/nt/1-tim/6.17-19?lang=eng#16)).
+6:17-19](/scriptures/nt/1-tim/6.17-19?lang=eng#16)).
 
 In our day, the Lord has given us this charge:
 
@@ -145,8 +145,7 @@ deed which cannot be broken.
 "And inasmuch as ye impart of your substance unto the poor, ye will do it unto
 me; and they shall be laid before the bishop of my church and his counselors,
 two of the elders, or high priests, such as he shall appoint or has appointed
-and set apart for that purpose" ([D&amp;C
-42:29-31](https://www.lds.org/scriptures/dc-
+and set apart for that purpose" ([D&amp;C 42:29-31](/scriptures/dc-
 testament/dc/42.29-31?lang=eng#28)).
 
 The foregoing principles are true when properly applied by members and leaders
@@ -163,7 +162,7 @@ work accomplished]. Where the spirituality has been high, the Plan has
 succeeded; where the spirituality is low, the Plan has lagged. The Church has
 proved there is no substitute for the great commandments: 'Thou shalt love the
 Lord thy God with all thy ... might, mind, and strength, and thy neighbor as
-thyself' [see [D&amp;C 59:5-6](https://www.lds.org/scriptures/dc-
+thyself' [see [D&amp;C 59:5-6](/scriptures/dc-
 testament/dc/59.5-6?lang=eng#4)]" (_Church Welfare Plan: A Discussion,_
 General Church Welfare Committee, 1939, pp. 32-33).
 
@@ -177,21 +176,22 @@ respond to needs of families to whom they are assigned. With righteous intent,
 participating in this great work sanctifies the soul and enlarges the mind. As
 we spiritually mature in fulfilling our welfare responsibilities, whatever
 they may be, we prepare ourselves to become "partakers of the divine nature"
-(see [2 Pet. 1:4](https://www.lds.org/scriptures/nt/2-pet/1.4?lang=eng#3)).
-May it be our happy lot to be filled with that measure of spirit that we may
-be sealed with the bond of charity, which, as Moroni said, "is the pure love
-of Christ, and it endureth forever; and whoso is found possessed of it at the
-last day, it shall be well with him.
+(see [2 Pet. 1:4](/scriptures/nt/2-pet/1.4?lang=eng#3)). May it be our happy
+lot to be filled with that measure of spirit that we may be sealed with the
+bond of charity, which, as Moroni said, "is the pure love of Christ, and it
+endureth forever; and whoso is found possessed of it at the last day, it shall
+be well with him.
 
 "Wherefore, my beloved brethren, pray unto the Father with all the energy of
 heart, that ye may be filled with this love, which he hath bestowed upon all
 who are true followers of his Son, Jesus Christ; that ye may become the sons
 of God; that when he shall appear we shall be like him, for we shall see him
 as he is; that we may have this hope; that we may be purified even as he is
-pure" ([Moro.
-7:47-48](https://www.lds.org/scriptures/bofm/moro/7.47-48?lang=eng#46)).
+pure" ([Moro. 7:47-48](/scriptures/bofm/moro/7.47-48?lang=eng#46)).
 
 It is my prayer that each and every one of us will learn and apply these
 fundamental principles of welfare services and gain thereby the promised
 reward, in the name of Jesus Christ, amen.
+
+## References
 

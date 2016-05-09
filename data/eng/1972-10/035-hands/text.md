@@ -67,8 +67,8 @@ children, ye shall not enter into the kingdom of heaven.
 "But whoso shall offend one of these little ones which believe in me, it were
 better for him that a millstone were hanged about his neck, and that he were
 drowned in the depth of the sea." ([Matt. 18:1-3,
-5-6](https://www.lds.org/scriptures/nt/matt/18.1-3%2C5-6?lang=eng#0).)
-Significant is the hand of a child.
+5-6](/scriptures/nt/matt/18.1-3,5-6?lang=eng#0).) Significant is the hand of a
+child.
 
 Second, may we turn our attention to the hand of youth. This is the training
 period when busy hands learn to labor--and labor to learn. Honest effort and
@@ -160,8 +160,7 @@ Finally, may we speak of yet another hand--even the hand of the Lord. This was
 the hand which guided Moses, which strengthened Joshua--the hand promised to
 Jacob when the Lord declared: "Fear thou not; for I am with thee: be not
 dismayed; for I am thy God; ... I will uphold thee with the right hand of my
-righteousness." ([Isa.
-41:10](https://www.lds.org/scriptures/ot/isa/41.10?lang=eng#9).)
+righteousness." ([Isa. 41:10](/scriptures/ot/isa/41.10?lang=eng#9).)
 
 This was the determined hand which drove from the temple the money changers.
 This was the loving hand that blessed little children. This was the strong
@@ -191,7 +190,7 @@ door of our understanding.
 
 "Behold, I stand at the door, and knock: if any man hear my voice and open the
 door, I will come in to him. ..." ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).)
+3:20](/scriptures/nt/rev/3.20?lang=eng#19).)
 
 Shall we listen for his voice? Shall we open the doorway of our lives to his
 exalted presence? Each must answer for himself.
@@ -216,5 +215,5 @@ name of Jesus Christ. Amen.
 
 ## References
 
-  1.  M. Louise Haskins, "The Gate of the Year."
+  1. M. Louise Haskins, "The Gate of the Year."
 

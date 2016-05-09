@@ -146,3 +146,5 @@ understanding of how desperately you're needed in His service today.
 God bless you to prepare yourselves for future service in His Church, in the
 name of Jesus Christ, amen.
 
+## References
+

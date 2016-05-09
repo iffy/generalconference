@@ -32,8 +32,8 @@ one day they could be old. ... A time for which we should all prepare."
 Many different circumstances and factors affect the quality of a person's life
 in the later years. But there is a corollary between preparing for old age and
 enjoying it when it comes. We are told in the Doctrine and Covenants: "If ye
-are prepared ye shall not fear." ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).)
+are prepared ye shall not fear." ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29).)
 
 May I suggest a few preparations?
 
@@ -145,7 +145,9 @@ May the cry of the psalmist ring in our hearts:
 "Cast me not off in the time of old age;
 
 "Forsake me not when my strength faileth." ([Ps.
-71:9](https://www.lds.org/scriptures/ot/ps/71.9?lang=eng#8).)
+71:9](/scriptures/ot/ps/71.9?lang=eng#8).)
 
 I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

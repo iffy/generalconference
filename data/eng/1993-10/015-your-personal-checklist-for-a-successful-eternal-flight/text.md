@@ -23,44 +23,25 @@ often as you fly towards a happy forever. Many of you young men have eighty
 and more years to live! Think of it! What a promising future you have if you
 prepare properly and keep focused.
 
-First checklist item: The priesthood. Really understand and use the priesthood
-you bear. Honor it; realize its power. Remember the Aaronic Priesthood that
-you bear is the preparatory priesthood leading to the Melchizedek Priesthood.
-By the power of the Melchizedek Priesthood, the Only Begotten Son created
-worlds without number (see [Heb.
-1:2](https://www.lds.org/scriptures/nt/heb/1.2?lang=eng#1); [D&amp;C
-76:24](https://www.lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23);
-[Moses 1:33](https://www.lds.org/scriptures/pgp/moses/1.33?lang=eng#32)) as
-the premortal Jehovah and then performed many miracles on earth as our Savior,
-Jesus Christ. A wise priesthood leader taught that now is the time in your
-life for _doing,_ so later you _become_ the man you are to be. Heavenly Father
-trusts you. You have the very priesthood that Aaron bore honorably and that
-John the Baptist used when he baptized Jesus "to fulfil all righteousness"
-([Matt. 3:15](https://www.lds.org/scriptures/nt/matt/3.15?lang=eng#14)).
-Eighteen hundred years later, on the banks of the Susquehanna River, he
-ordained Joseph Smith and Oliver Cowdery to that same Aaronic Priesthood (see
-[JS--H 1:68-73](https://www.lds.org/scriptures/pgp/js-h/1.68-73?lang=eng#67)).
+**First checklist item: The priesthood.** Really understand and use the priesthood you bear. Honor it; realize its power. Remember the Aaronic Priesthood that you bear is the preparatory priesthood leading to the Melchizedek Priesthood. By the power of the Melchizedek Priesthood, the Only Begotten Son created worlds without number (see [Heb. 1:2](/scriptures/nt/heb/1.2?lang=eng#1); [D&amp;C 76:24](/scriptures/dc-testament/dc/76.24?lang=eng#23); [Moses 1:33](/scriptures/pgp/moses/1.33?lang=eng#32)) as the premortal Jehovah and then performed many miracles on earth as our Savior, Jesus Christ. A wise priesthood leader taught that now is the time in your life for _doing,_ so later you _become_ the man you are to be. Heavenly Father trusts you. You have the very priesthood that Aaron bore honorably and that John the Baptist used when he baptized Jesus "to fulfil all righteousness" ([Matt. 3:15](/scriptures/nt/matt/3.15?lang=eng#14)). Eighteen hundred years later, on the banks of the Susquehanna River, he ordained Joseph Smith and Oliver Cowdery to that same Aaronic Priesthood (see [JS--H 1:68-73](/scriptures/pgp/js-h/1.68-73?lang=eng#67)).
 
 Remember:
 
-  * Joseph Smith was the age of you deacons when he was thinking deeply about God (see [JS--H 1:5-13](https://www.lds.org/scriptures/pgp/js-h/1.5-13?lang=eng#4)).
-
-  * Joseph Smith was the age of you teachers when he went into the woods to pray and was blessed to talk with God the Father and Jesus, our Elder Brother (see [JS--H 1:11-20](https://www.lds.org/scriptures/pgp/js-h/1.11-20?lang=eng#10)).
-
-  * Joseph Smith was the age of you priests when Moroni first visited him and told him about the record on gold plates (see [JS--H 1:27-54](https://www.lds.org/scriptures/pgp/js-h/1.27-54?lang=eng#26)).
+  * Joseph Smith was the age of you deacons when he was thinking deeply about God (see [JS--H 1:5-13](/scriptures/pgp/js-h/1.5-13?lang=eng#4)). 
+  * Joseph Smith was the age of you teachers when he went into the woods to pray and was blessed to talk with God the Father and Jesus, our Elder Brother (see [JS--H 1:11-20](/scriptures/pgp/js-h/1.11-20?lang=eng#10)). 
+  * Joseph Smith was the age of you priests when Moroni first visited him and told him about the record on gold plates (see [JS--H 1:27-54](/scriptures/pgp/js-h/1.27-54?lang=eng#26)). 
 
 The priesthood you bear enables you to prepare, bless, and pass the bread and
 water, the holy emblems of the sacrament. You place the members of the Church
 under solemn covenant to "take upon them the name of thy Son, and always
 remember him and keep his commandments which he has given them" ([D&amp;C
-20:77](https://www.lds.org/scriptures/dc-testament/dc/20.77?lang=eng#76)). You
-gather fast offerings to help the poor and the needy. Many of you serve as
-ushers, arrange chairs and tables for meetings, and perform other important
-duties. You priests have the authority to baptize (see [D&amp;C
-20:46](https://www.lds.org/scriptures/dc-testament/dc/20.46?lang=eng#45)) just
-as the young men serving as missionaries and as your fathers and other older
-men do. And you also ordain others in appropriate circumstances (see [D&amp;C
-20:46-49](https://www.lds.org/scriptures/dc-
+20:77](/scriptures/dc-testament/dc/20.77?lang=eng#76)). You gather fast
+offerings to help the poor and the needy. Many of you serve as ushers, arrange
+chairs and tables for meetings, and perform other important duties. You
+priests have the authority to baptize (see [D&amp;C 20:46](/scriptures/dc-
+testament/dc/20.46?lang=eng#45)) just as the young men serving as missionaries
+and as your fathers and other older men do. And you also ordain others in
+appropriate circumstances (see [D&amp;C 20:46-49](/scriptures/dc-
 testament/dc/20.46-49?lang=eng#45)).
 
 Heavenly Father loves you! Your priesthood leaders will call many, many of you
@@ -70,13 +51,7 @@ young. And bishops, what a vital task you have because of the training and
 practical experiences you provide our young men in positions of quorum
 leadership.
 
-Second checklist item: Family and friends. Always remember the importance of
-your home, your parents, other family members, and your friends. Do not expect
-your parents to do things for you that you now can do for yourselves. It is
-your turn to begin taking more responsibility. "Hey, but my dad should do
-this," or "I want my mother to continue to do this for me," you might still
-wish. A successful home is based on the love and helpfulness of children just
-as it is based on loving parents handling their responsibilities.
+**Second checklist item: Family and friends.** Always remember the importance of your home, your parents, other family members, and your friends. Do not expect your parents to do things for you that you now can do for yourselves. It is your turn to begin taking more responsibility. "Hey, but my dad should do this," or "I want my mother to continue to do this for me," you might still wish. A successful home is based on the love and helpfulness of children just as it is based on loving parents handling their responsibilities.
 
 One day when I was seventeen years old, I was washing the family car in
 anticipation of going on a date that evening. My father came out of the house
@@ -100,14 +75,7 @@ activities. You who are sixteen and older and are dating, make sure the girls
 you date are just as good when you return them to their homes as when you
 picked them up.
 
-Third checklist item: Live the commandments. Never feed the foxes! What does
-that mean? _Breaking commandments is like feeding foxes._ In England where we
-live, my wife and I had heard that foxes were right in town. We wanted to see
-a fox. A neighbor told us that if we left food for the foxes we probably would
-see one. Our butcher gave us some bones. Each night we would place some bones
-out in the backyard. Soon a fox came to eat. Then a few more. Now we have at
-least five foxes racing through our flower garden, digging up the lawn, and
-leaving a shamble every night, sort of like a furry Jurassic Park.
+**Third checklist item: Live the commandments.** Never feed the foxes! What does that mean? _Breaking commandments is like feeding foxes._ In England where we live, my wife and I had heard that foxes were right in town. We wanted to see a fox. A neighbor told us that if we left food for the foxes we probably would see one. Our butcher gave us some bones. Each night we would place some bones out in the backyard. Soon a fox came to eat. Then a few more. Now we have at least five foxes racing through our flower garden, digging up the lawn, and leaving a shamble every night, sort of like a furry Jurassic Park.
 
 What started out as a curiosity is now a problem, and sin is much the same. An
 indiscretion can begin a process that can make a mess of a whole life.
@@ -116,45 +84,30 @@ yard. If you avoid making the seemingly small and harmless mistakes, your life
 will be free of many larger problems later on. Be a courageous young man by
 living straight. Create happy memories for yourselves and those around you.
 
-Fourth checklist item: Education. Make good use of your schooling. The
-scriptures tell us that there is a time for every purpose under heaven (see
-[Eccl. 3:1-8](https://www.lds.org/scriptures/ot/eccl/3.1-8?lang=eng#0)). Now
-is the time of your preparation. The direction you are flying as a young man
-will determine where you will land as an adult. Are you headed in the
-direction that you want to be flying?
+**Fourth checklist item: Education.** Make good use of your schooling. The scriptures tell us that there is a time for every purpose under heaven (see [Eccl. 3:1-8](/scriptures/ot/eccl/3.1-8?lang=eng#0)). Now is the time of your preparation. The direction you are flying as a young man will determine where you will land as an adult. Are you headed in the direction that you want to be flying?
 
 Those of us who are older remember that not all that goes on in school and
 work is pleasant, nor does it all seem useful and necessary. Yet most of what
 you learn is helpful. Be excited about your schooling and develop the habit of
-going the extra mile (see [Matt.
-5:41](https://www.lds.org/scriptures/nt/matt/5.41?lang=eng#40); [3 Ne.
-12:41](https://www.lds.org/scriptures/bofm/3-ne/12.41?lang=eng#40)). This
-habit will assist you in crossing continents successfully when you are older.
-Through study and hard work, you prepare for a life of spiritual, emotional,
-and economic self-reliance. Build a foundation now that will support your
-future (see [Matt.
-7:24-25](https://www.lds.org/scriptures/nt/matt/7.24-25?lang=eng#23)). Feel
-the excitement of accomplishing difficult tasks.
+going the extra mile (see [Matt. 5:41](/scriptures/nt/matt/5.41?lang=eng#40);
+[3 Ne. 12:41](/scriptures/bofm/3-ne/12.41?lang=eng#40)). This habit will
+assist you in crossing continents successfully when you are older. Through
+study and hard work, you prepare for a life of spiritual, emotional, and
+economic self-reliance. Build a foundation now that will support your future
+(see [Matt. 7:24-25](/scriptures/nt/matt/7.24-25?lang=eng#23)). Feel the
+excitement of accomplishing difficult tasks.
 
 Hardworking young men of a few years ago are the productive and respected
 leaders of today. Many of them worked several jobs when they were young and
 saved part of their income for a mission and for their education. They have
 been blessing others ever since. Your parents are not obligated to provide
 everything you want. The Lord instructed us not to be idle! (See [D&amp;C
-42:42](https://www.lds.org/scriptures/dc-testament/dc/42.42?lang=eng#41);
-[D&amp;C 60:13](https://www.lds.org/scriptures/dc-
-testament/dc/60.13?lang=eng#12); [D&amp;C 75:3](https://www.lds.org/scriptures
-/dc-testament/dc/75.3?lang=eng#2); [D&amp;C
-88:124](https://www.lds.org/scriptures/dc-testament/dc/88.124?lang=eng#123)).
+42:42](/scriptures/dc-testament/dc/42.42?lang=eng#41); [D&amp;C
+60:13](/scriptures/dc-testament/dc/60.13?lang=eng#12); [D&amp;C
+75:3](/scriptures/dc-testament/dc/75.3?lang=eng#2); [D&amp;C
+88:124](/scriptures/dc-testament/dc/88.124?lang=eng#123)).
 
-Fifth checklist item: A mission. While serving as an aide-de-camp to a major
-general in an army reserve unit, I found myself in many conversations with
-that remarkable military leader. He was not of our faith. "Pinnock," he once
-said, "do you know how fortunate you Mormons are?" I replied by saying
-something like, "Yes, sir, but what are you thinking about?" He said, "A
-mission, Pinnock, that's what it's all about. Your young men are encouraged to
-go to serve others. They become stronger, more wise, and more dependable
-because of a mission."
+**Fifth checklist item: A mission.** While serving as an aide-de-camp to a major general in an army reserve unit, I found myself in many conversations with that remarkable military leader. He was not of our faith. "Pinnock," he once said, "do you know how fortunate you Mormons are?" I replied by saying something like, "Yes, sir, but what are you thinking about?" He said, "A mission, Pinnock, that's what it's all about. Your young men are encouraged to go to serve others. They become stronger, more wise, and more dependable because of a mission."
 
 The prophet has asked you young men to serve, the world desperately needs you
 to serve, and you need to feel the power and growth from serving and teaching
@@ -168,4 +121,6 @@ support your flight through these key years of your life. A wonderful future
 is yours if you stick to your personal checklist. We pray for you, care about
 you, and stand by to help you. To these truths I testify in the name of our
 Savior, Jesus Christ, amen.
+
+## References
 

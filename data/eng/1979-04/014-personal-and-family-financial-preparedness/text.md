@@ -69,17 +69,15 @@ We must recognize that financial problems are the reason for much unhappiness
 and are certainly a major factor in family difficulties and divorce.
 
 The Lord has told us that if we are prepared, we shall not fear (see [D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29)).
-What a blessing it is to be free from financial fear.
+38:30](/scriptures/dc-testament/dc/38.30?lang=eng#29)). What a blessing it is
+to be free from financial fear.
 
 I would like to suggest a three-point formula to attain and maintain financial
 preparedness:
 
-  1. Pay your tithes and offerings.
-
-  2. Get out of debt and stay out of debt.
-
-  3. Use your surplus funds wisely.
+  1. Pay your tithes and offerings. 
+  2. Get out of debt and stay out of debt. 
+  3. Use your surplus funds wisely. 
 
 This formula is equally applicable to young and old. Let me discuss each of
 these three points briefly.
@@ -92,11 +90,11 @@ thee? In tithes and offerings. ...
 "Bring ye all the tithes into the storehouse, ... and prove me now herewith,
 saith the Lord of hosts, if I will not open you the windows of heaven, and
 pour you out a blessing, that there shall not be room enough to receive it."
-([Mal. 3:8-10](https://www.lds.org/scriptures/ot/mal/3.8-10?lang=eng#7).)
+([Mal. 3:8-10](/scriptures/ot/mal/3.8-10?lang=eng#7).)
 
 In this dispensation, the Lord has revealed to us that this is "a day of
 sacrifice, and a day for the tithing of my people" ([D&amp;C
-64:23](https://www.lds.org/scriptures/dc-testament/dc/64.23?lang=eng#22)).
+64:23](/scriptures/dc-testament/dc/64.23?lang=eng#22)).
 
 Brethren, compliance with the law of tithing opens the windows of heaven,
 bringing material and spiritual blessings through sacrifice and obedience. It
@@ -113,15 +111,15 @@ They are blessed and prospered in various ways--spiritually, physically, and
 mentally, as well as materially. I know this to be true, and I am sure that
 many of you can bear such a testimony. And always remember the words of the
 Lord Jesus: "It is more blessed to give than to receive" ([Acts
-20:35](https://www.lds.org/scriptures/nt/acts/20.35?lang=eng#34)).
+20:35](/scriptures/nt/acts/20.35?lang=eng#34)).
 
 Now, the _second_ point of the formula--_get out of debt and stay out of
 debt._ In modern revelation, the Lord has given us these commandments: "Verily
 I say unto you, concerning your debts--behold it is my will that you shall pay
-all your debts" ([D&amp;C 104:78](https://www.lds.org/scriptures/dc-
+all your debts" ([D&amp;C 104:78](/scriptures/dc-
 testament/dc/104.78?lang=eng#77)). And again: "Pay the debt thou hast
-contracted. ... Release thyself from bondage" ([D&amp;C
-19:35](https://www.lds.org/scriptures/dc-testament/dc/19.35?lang=eng#34)).
+contracted. ... Release thyself from bondage" ([D&amp;C 19:35](/scriptures/dc-
+testament/dc/19.35?lang=eng#34)).
 
 President Joseph F. Smith advised the Saints to "get out of debt and keep out
 of debt, and then you will be financially as well as spiritually free" (In
@@ -130,15 +128,11 @@ Conference Report, Oct. 1903, p. 5).
 In getting out of debt and staying out of debt, there are certain basic
 principles that we, as individuals and families, can apply, such as:
 
-  1. Live within your income.
-
-  2. Prepare and use short- and long-term budgets.
-
-  3. Regularly save a part of your income.
-
-  4. Use your credit wisely, if it is necessary to use it at all. For example, a reasonable debt may be justified for the acquisition of a home or education.
-
-  5. Preserve and utilize your assets through appropriate tax and estate planning.
+  1. Live within your income. 
+  2. Prepare and use short- and long-term budgets. 
+  3. Regularly save a part of your income. 
+  4. Use your credit wisely, if it is necessary to use it at all. For example, a reasonable debt may be justified for the acquisition of a home or education. 
+  5. Preserve and utilize your assets through appropriate tax and estate planning. 
 
 I know that by following these simple, basic principles it is possible to get
 out of debt and stay out of debt.
@@ -190,4 +184,6 @@ through the instrumentality of the Prophet Joseph Smith, and that there is a
 living prophet at the head of the Church today, our beloved President Spencer
 W. Kimball. I pray that we may have the good judgment to follow his counsel.
 In the name of Jesus Christ, amen.
+
+## References
 

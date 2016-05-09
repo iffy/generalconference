@@ -6,7 +6,7 @@ uplift?" Although I don't ever remember having been asked this question in
 such a setting before, I found myself answering without hesitation and with
 firm conviction: "I think the most powerful declaration ever uttered in the
 history of the Church is, 'Joseph, This is My Beloved Son. Hear Him!'" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)).
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)).
 
 We went on to talk about the powers of this celestial conversation and of the
 plainness of the setting, the greeting, the introduction, and the invitation.
@@ -20,17 +20,16 @@ taught in this world.
 The reality of this vision gives Nephi's declarations concerning plainness new
 significance. "For my soul delighteth in plainness; for after this manner doth
 the Lord God work among the children of men." ([2 Ne.
-31:3](https://www.lds.org/scriptures/bofm/2-ne/31.3?lang=eng#2).) "I glory in
-plainness; I glory in truth; I glory in my Jesus, for he hath redeemed my soul
-from hell." ([2 Ne.
-33:6](https://www.lds.org/scriptures/bofm/2-ne/33.6?lang=eng#5).) "My soul
-delighteth in plainness unto my people, that they may learn." ([2 Ne.
-25:4](https://www.lds.org/scriptures/bofm/2-ne/25.4?lang=eng#3).) Through this
-great prophet Nephi, along with other leaders and wise teachers, we come to
-realize that we learn more readily if principles are taught and explained in
-plainness. Brigham Young once said that if he could do but one thing to bless
-the Saints, he believed it would be to give them "eyes with which to see
-things as they are." (_Journal of Discourses,_ 3:221.)
+31:3](/scriptures/bofm/2-ne/31.3?lang=eng#2).) "I glory in plainness; I glory
+in truth; I glory in my Jesus, for he hath redeemed my soul from hell." ([2
+Ne. 33:6](/scriptures/bofm/2-ne/33.6?lang=eng#5).) "My soul delighteth in
+plainness unto my people, that they may learn." ([2 Ne.
+25:4](/scriptures/bofm/2-ne/25.4?lang=eng#3).) Through this great prophet
+Nephi, along with other leaders and wise teachers, we come to realize that we
+learn more readily if principles are taught and explained in plainness.
+Brigham Young once said that if he could do but one thing to bless the Saints,
+he believed it would be to give them "eyes with which to see things as they
+are." (_Journal of Discourses,_ 3:221.)
 
 Plainness is best comprehended by the humble, the teachable, the intelligent,
 the wise, and the obedient. Often plain truths are perverted by the
@@ -47,8 +46,7 @@ and most precious; and also many covenants of the Lord have they taken away.
 
 "And all this have they done that they might pervert the right ways of the
 Lord, that they might blind the eyes and harden the hearts of the children of
-men." ([1 Ne.
-13:26-27](https://www.lds.org/scriptures/bofm/1-ne/13.26-27?lang=eng#25).)
+men." ([1 Ne. 13:26-27](/scriptures/bofm/1-ne/13.26-27?lang=eng#25).)
 
 The truths of the gospel of Jesus Christ are plain, precious, and powerful.
 The lives of the worthy are plain, precious, and powerful. May I share with
@@ -136,35 +134,30 @@ plainly taught that we might learn. Recall with me if you will a few of His
 words spoken in powerful plainness as shared at random from the book of
 Matthew.
 
-"Blessed are the meek." ([Matt.
-5:5](https://www.lds.org/scriptures/nt/matt/5.5?lang=eng#4).)
+"Blessed are the meek." ([Matt. 5:5](/scriptures/nt/matt/5.5?lang=eng#4).)
 
-"Blessed are the merciful." ([Matt.
-5:7](https://www.lds.org/scriptures/nt/matt/5.7?lang=eng#6).)
+"Blessed are the merciful." ([Matt. 5:7](/scriptures/nt/matt/5.7?lang=eng#6).)
 
-"Love your enemies." ([Matt.
-5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43).)
+"Love your enemies." ([Matt. 5:44](/scriptures/nt/matt/5.44?lang=eng#43).)
 
 "Thou shalt love thy neighbour as thyself." ([Matt.
-22:39](https://www.lds.org/scriptures/nt/matt/22.39?lang=eng#38).)
+22:39](/scriptures/nt/matt/22.39?lang=eng#38).)
 
 "He that findeth his life shall lose it: and he that loseth his life for my
-sake shall find it." ([Matt.
-10:39](https://www.lds.org/scriptures/nt/matt/10.39?lang=eng#38).)
+sake shall find it." ([Matt. 10:39](/scriptures/nt/matt/10.39?lang=eng#38).)
 
 "He that hath ears to hear let him hear." ([Matt.
-11:15](https://www.lds.org/scriptures/nt/matt/11.15?lang=eng#14).)
+11:15](/scriptures/nt/matt/11.15?lang=eng#14).)
 
 "For what is a man profited, if he shall gain the whole world, and lose his
-own soul?" ([Matt.
-16:26](https://www.lds.org/scriptures/nt/matt/16.26?lang=eng#25).)
+own soul?" ([Matt. 16:26](/scriptures/nt/matt/16.26?lang=eng#25).)
 
 "Whosoever therefore shall humble himself as this little child, the same is
 the greatest in the kingdom of heaven." ([Matt.
-18:4](https://www.lds.org/scriptures/nt/matt/18.4?lang=eng#3).)
+18:4](/scriptures/nt/matt/18.4?lang=eng#3).)
 
 "Whosoever will be chief among you, let him be your servant." ([Matt.
-20:27](https://www.lds.org/scriptures/nt/matt/20.27?lang=eng#26).)
+20:27](/scriptures/nt/matt/20.27?lang=eng#26).)
 
 Certainly the Savior has spoken in plainness that we may learn. The words of
 the Savior are eloquent in their plainness.
@@ -192,7 +185,7 @@ To men and women worldwide we declare in sobriety and plainness that God the
 Father and His Beloved Son Jesus Christ did appear to Joseph Smith: "One of
 them spake unto me, calling me by name and said, pointing to the other--This
 Is My Beloved Son. Hear Him!" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16).)
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16).)
 
 We invite mankind everywhere to prayerfully study the truths revealed
 following this greatest heavenly manifestation. Even though it caused great
@@ -200,7 +193,9 @@ ridicule and abuse to the Prophet Joseph in the days that followed and
 ultimately contributed to his martyrdom, I humbly thank God that he had the
 courage to declare in unmistakable plainness, "However, it was nevertheless a
 fact that I had beheld a vision." ([JS--H
-1:24](https://www.lds.org/scriptures/pgp/js-h/1.24?lang=eng#23).) To the
-truthfulness of these glorious but plain words, I leave you my humble witness
-in the name of Jesus Christ. Amen.
+1:24](/scriptures/pgp/js-h/1.24?lang=eng#23).) To the truthfulness of these
+glorious but plain words, I leave you my humble witness in the name of Jesus
+Christ. Amen.
+
+## References
 

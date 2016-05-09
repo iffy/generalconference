@@ -35,7 +35,7 @@ life. The temple is the place where the Lord wants us to make a sincere
 evaluation of our mortal lives. He wants us to know the consequences of the
 fact that this life is a probationary time, for it has been revealed to men of
 our day through the coming forth of the Book of Mormon. We read, for instance,
-in [Alma 12:24](https://www.lds.org/scriptures/bofm/alma/12.24?lang=eng#23):
+in [Alma 12:24](/scriptures/bofm/alma/12.24?lang=eng#23):
 
 "And we see that death comes upon mankind, ... which is the temporal death;
 nevertheless there was a space granted unto man in which he might repent;
@@ -54,7 +54,7 @@ Mormon, in the forty-first chapter of Alma, verses 10-11:
 "All men that are in a state of nature, or I would say, in a carnal state, are
 in the gall of bitterness and in the bonds of iniquity; ... they are in a state
 contrary to the nature of happiness." [[Alma
-41:10-11](https://www.lds.org/scriptures/bofm/alma/41.10-11?lang=eng#9)]
+41:10-11](/scriptures/bofm/alma/41.10-11?lang=eng#9)]
 
 We all are prone, once in a while, to be in a state contrary to the nature of
 happiness, and not necessarily because we have pursued wickedness or iniquity
@@ -77,13 +77,12 @@ may know little or nothing about the gospel of Jesus Christ or the plan of
 salvation. When any child of God breaks any of the laws of God, which are the
 laws of righteousness, the Spirit of Christ, which, according to the
 scriptures, gives "light to every man" will be withdrawn to some degree. (See
-[D&amp;C 84:46](https://www.lds.org/scriptures/dc-
-testament/dc/84.46?lang=eng#45); [D&amp;C 93:2](https://www.lds.org/scriptures
-/dc-testament/dc/93.2?lang=eng#1); [D&amp;C
-121:37](https://www.lds.org/scriptures/dc-testament/dc/121.37?lang=eng#36);
-[John 1:9](https://www.lds.org/scriptures/nt/john/1.9?lang=eng#8).) Shadows of
-darkness will fall upon the soul, and, in this state, an _awareness_ of what
-is happening to us is essential.
+[D&amp;C 84:46](/scriptures/dc-testament/dc/84.46?lang=eng#45); [D&amp;C
+93:2](/scriptures/dc-testament/dc/93.2?lang=eng#1); [D&amp;C
+121:37](/scriptures/dc-testament/dc/121.37?lang=eng#36); [John
+1:9](/scriptures/nt/john/1.9?lang=eng#8).) Shadows of darkness will fall upon
+the soul, and, in this state, an _awareness_ of what is happening to us is
+essential.
 
 The gospel in its fulness is being preached throughout the world by the Lord's
 anointed servants, that everyone may come to an awareness of his state. In
@@ -113,25 +112,24 @@ everlasting shame that all his judgments are just; that he is just in all his
 works, and that he is merciful unto the children of men, and that he has all
 power to save every man that believeth on his name and bringeth forth fruit
 meet for repentance." ([Alma
-12:13-15](https://www.lds.org/scriptures/bofm/alma/12.13-15?lang=eng#12).)
+12:13-15](/scriptures/bofm/alma/12.13-15?lang=eng#12).)
 
 My dear brothers and sisters, the Lord does not want us to become aware of our
 state of nothingness and misery (see [Mosiah
-4:11](https://www.lds.org/scriptures/bofm/mosiah/4.11?lang=eng#10); [Alma
-26:12](https://www.lds.org/scriptures/bofm/alma/26.12?lang=eng#11); [Hel.
-12:7](https://www.lds.org/scriptures/bofm/hel/12.7?lang=eng#6); [Moses
-1:10](https://www.lds.org/scriptures/pgp/moses/1.10?lang=eng#9)) only at the
-Day of Judgment. Now and every day in our mortal lives, He wants to sharpen
-our awareness, that we may become our own judges, as He calls us to a
-continuous process of repentance.
+4:11](/scriptures/bofm/mosiah/4.11?lang=eng#10); [Alma
+26:12](/scriptures/bofm/alma/26.12?lang=eng#11); [Hel.
+12:7](/scriptures/bofm/hel/12.7?lang=eng#6); [Moses
+1:10](/scriptures/pgp/moses/1.10?lang=eng#9)) only at the Day of Judgment. Now
+and every day in our mortal lives, He wants to sharpen our awareness, that we
+may become our own judges, as He calls us to a continuous process of
+repentance.
 
 After Alma had spoken about repentance and desires of righteousness until the
 end of life, he said, "They ... are redeemed of the Lord; ... for behold, they are
-their own judges." ([Alma
-41:7](https://www.lds.org/scriptures/bofm/alma/41.7?lang=eng#6).) The Apostle
-Paul also explained, as stated in [1 Cor.
-11:31](https://www.lds.org/scriptures/nt/1-cor/11.31?lang=eng#30): "For if we
-would judge ourselves, we should not be judged."
+their own judges." ([Alma 41:7](/scriptures/bofm/alma/41.7?lang=eng#6).) The
+Apostle Paul also explained, as stated in [1 Cor.
+11:31](/scriptures/nt/1-cor/11.31?lang=eng#30): "For if we would judge
+ourselves, we should not be judged."
 
 It seems that we can only effectively go through the process of continuous
 repentance if we literally learn to become our own judges. We ourselves and
@@ -172,4 +170,6 @@ their own spiritual preparation for eternal life.
 
 I leave you this testimony as your brother and your servant, and I do this in
 the name of the Lord Jesus Christ, amen.
+
+## References
 

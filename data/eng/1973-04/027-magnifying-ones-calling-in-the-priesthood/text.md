@@ -10,12 +10,11 @@ that we would magnify our callings. At the same time, he covenanted with us
 that if we do so, we shall be "sanctified by the Spirit unto the renewing of
 [our] bodies" and "become the sons of ... Abraham, and the church and kingdom,
 and the elect of God," and unto us shall be given all that the "Father hath."
-(See [D&amp;C 84:33-38](https://www.lds.org/scriptures/dc-
-testament/dc/84.33-38?lang=eng#32).)
+(See [D&amp;C 84:33-38](/scriptures/dc-testament/dc/84.33-38?lang=eng#32).)
 
 The specified penalty for breaking our covenant and "altogether [turning]
 therefrom" is that we "shall not have forgiveness of sins in this world nor in
-the world to come." ([D&amp;C 84:41](https://www.lds.org/scriptures/dc-
+the world to come." ([D&amp;C 84:41](/scriptures/dc-
 testament/dc/84.41?lang=eng#40).)
 
 The Lord further said to the brethren assembled at the time he revealed the
@@ -25,8 +24,7 @@ covenant:
 give diligent heed to the words of eternal life.
 
 "For you shall live by every word that proceedeth forth from the mouth of
-God." ([D&amp;C 84:43-44](https://www.lds.org/scriptures/dc-
-testament/dc/84.43-44?lang=eng#42).)
+God." ([D&amp;C 84:43-44](/scriptures/dc-testament/dc/84.43-44?lang=eng#42).)
 
 In order to magnify our callings in the priesthood, three things at least are
 necessary:
@@ -40,7 +38,7 @@ the Lord according to their desires. Alma declared:
 "... I know that [God] granteth unto men according to their desire, whether it
 be unto death or unto life; yea, I know that he allotteth unto men according
 to their wills, whether they be unto salvation or unto destruction." ([Alma
-29:4](https://www.lds.org/scriptures/bofm/alma/29.4?lang=eng#3).)
+29:4](/scriptures/bofm/alma/29.4?lang=eng#3).)
 
 Jesus acted on this principle. In John's parchment record, he wrote:
 
@@ -51,17 +49,16 @@ bring souls unto thee.
 
 "And the Lord said unto me: Verily, verily, I say unto thee, because thou
 desirest this thou shalt tarry until I come in my glory, and shalt prophesy
-before nations, kindreds, tongues and people." ([D&amp;C
-7:1-3](https://www.lds.org/scriptures/dc-testament/dc/7.1-3?lang=eng#0).)
+before nations, kindreds, tongues and people." ([D&amp;C 7:1-3](/scriptures
+/dc-testament/dc/7.1-3?lang=eng#0).)
 
 At the opening of this last dispensation, the Lord said to the Prophet's
 father: "... if ye have desires to serve God ye are called to the work."
-([D&amp;C 4:3](https://www.lds.org/scriptures/dc-
-testament/dc/4.3?lang=eng#2).)
+([D&amp;C 4:3](/scriptures/dc-testament/dc/4.3?lang=eng#2).)
 
 And two months later he said to Joseph Smith and Oliver Cowdery: "... as you
-desire of me so it shall be unto you. ..." ([D&amp;C
-6:8](https://www.lds.org/scriptures/dc-testament/dc/6.8?lang=eng#7).)
+desire of me so it shall be unto you. ..." ([D&amp;C 6:8](/scriptures/dc-
+testament/dc/6.8?lang=eng#7).)
 
 The importance of desire is dramatically pointed up in this quotation from the
 18th section of the Doctrine and Covenants:
@@ -81,8 +78,8 @@ Whitmer, that you shall search out the Twelve, who shall have the _desires_ of
 which I have spoken;
 
 "And by their _desires_ and their works you shall know them." ([D&amp;C
-18:26-28, 37-38](https://www.lds.org/scriptures/dc-
-testament/dc/18.26-28%2C37-38?lang=eng#25). Italics added.)
+18:26-28, 37-38](/scriptures/dc-testament/dc/18.26-28,37-38?lang=eng#25).
+Italics added.)
 
 The desire these men were to have was not a desire to be called to an office.
 It was a desire to take upon themselves the name of Christ "with full purpose
@@ -120,28 +117,28 @@ the Lord has directed us to do.
 As the Jews disputed with Jesus because he said that God was his Father, he
 pointedly responded: "Search the scriptures; for in them ye think ye have
 eternal life: and they are they which testify of me." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).)
+5:39](/scriptures/nt/john/5.39?lang=eng#38).)
 
 In the Lord's preface to his Book of Commandments, he said: "Search these
 commandments, for they are true and faithful, and the prophecies and promises
-which are in them shall all be fulfilled." ([D&amp;C
-1:37](https://www.lds.org/scriptures/dc-testament/dc/1.37?lang=eng#36).)
+which are in them shall all be fulfilled." ([D&amp;C 1:37](/scriptures/dc-
+testament/dc/1.37?lang=eng#36).)
 
 We are under divine instruction to "teach the principles of [the] gospel,
-which are in the Bible and the Book of Mormon." ([D&amp;C
-42:12](https://www.lds.org/scriptures/dc-testament/dc/42.12?lang=eng#11).)
-This we cannot do unless we know what they are.
+which are in the Bible and the Book of Mormon." ([D&amp;C 42:12](/scriptures
+/dc-testament/dc/42.12?lang=eng#11).) This we cannot do unless we know what
+they are.
 
 To Joseph the Prophet, Oliver Cowdery, and John Whitmer, the Lord said:
 "Behold, I say unto you that you shall let your time be devoted to the
-studying of the scriptures. ..." ([D&amp;C 26:1](https://www.lds.org/scriptures
-/dc-testament/dc/26.1?lang=eng#0).)
+studying of the scriptures. ..." ([D&amp;C 26:1](/scriptures/dc-
+testament/dc/26.1?lang=eng#0).)
 
 To the Saints in Kirtland, he said, concerning the instruction he had given
 them, "Hearken ye to these words. Behold, I am Jesus Christ, the Savior of the
 world. Treasure these things up in your hearts, and let the solemnities of
-eternity rest upon your minds." ([D&amp;C
-43:34](https://www.lds.org/scriptures/dc-testament/dc/43.34?lang=eng#33).)
+eternity rest upon your minds." ([D&amp;C 43:34](/scriptures/dc-
+testament/dc/43.34?lang=eng#33).)
 
 As I have read the scriptures, I have been challenged by the word _ponder,_ so
 frequently used in the Book of Mormon. The dictionary says that _ponder_ means
@@ -151,8 +148,7 @@ used the term as he closed his record:
 "Behold, I would exhort you that when ye shall read these things ... that ye
 would remember how merciful the Lord hath been unto the children of men ... and
 _ponder_ it in your hearts." ([Moro.
-10:3](https://www.lds.org/scriptures/bofm/moro/10.3?lang=eng#2). Italics
-added.)
+10:3](/scriptures/bofm/moro/10.3?lang=eng#2). Italics added.)
 
 Jesus said to the Nephites:
 
@@ -160,8 +156,7 @@ Jesus said to the Nephites:
 
 "Therefore, go ye unto your homes, and _ponder_ upon the things which I have
 said, and ask of the Father, in my name, that ye may understand. ..." ([3 Ne.
-17:2-3](https://www.lds.org/scriptures/bofm/3-ne/17.2-3?lang=eng#1). Italics
-added.)
+17:2-3](/scriptures/bofm/3-ne/17.2-3?lang=eng#1). Italics added.)
 
 _Pondering_ is, in my feeling, a form of prayer. It has, at least, been an
 approach to the Spirit of the Lord on many occasions. Nephi tells us of one
@@ -171,8 +166,7 @@ such occasion:
 my father had seen, and believing that the Lord was able to make them known
 unto me, as I sat _pondering_ in mine heart I was caught away in the Spirit of
 the Lord, yea, into an exceeding high mountain. ..." ([1 Ne.
-11:1](https://www.lds.org/scriptures/bofm/1-ne/11.1?lang=eng#0). Italics
-added.)
+11:1](/scriptures/bofm/1-ne/11.1?lang=eng#0). Italics added.)
 
 Then follows Nephi's account of the great vision he was given by the Spirit of
 the Lord, because he believed the words of his prophet father and had such a
@@ -182,16 +176,15 @@ President Joseph F. Smith tells us that "on the third of October, in the year
 nineteen hundred and eighteen, I sat in my room _pondering_ over the
 Scriptures. ..." He had particular reference at this time to Peter's statement
 that Christ "went and preached unto the spirits in prison" ([1 Pet.
-3:19](https://www.lds.org/scriptures/nt/1-pet/3.19?lang=eng#18)) while his
-body lay in the grave.
+3:19](/scriptures/nt/1-pet/3.19?lang=eng#18)) while his body lay in the grave.
 
 "As I _pondered_ over these things which are written," President Smith
 continued, "the eyes of my understanding were opened, and the Spirit of the
 Lord rested upon me, and I saw the hosts of the dead, both small and great. ..."
 He then gives us an account of his great vision concerning missionary work
 among the spirits of the dead. (_Gospel Doctrine _[Deseret Book Co., 1939], p.
-472. Italics added.) [[D&amp;C 138:1, 11](https://www.lds.org/scriptures/dc-
-testament/dc/138.1%2C11?lang=eng#0)]
+472. Italics added.) [[D&amp;C 138:1, 11](/scriptures/dc-
+testament/dc/138.1,11?lang=eng#0)]
 
 Desiring, searching, and pondering over "the words of eternal life," all three
 of them together, as important as they are, would be inadequate without
@@ -200,13 +193,12 @@ prayer.
 Prayer is the catalyst with which we open the door to the Savior. "Behold," he
 says, "I stand at the door, and knock: if any man hear my voice, and open the
 door, I will come in to him, and will sup with him, and he with me." ([Rev.
-3:20](https://www.lds.org/scriptures/nt/rev/3.20?lang=eng#19).)
+3:20](/scriptures/nt/rev/3.20?lang=eng#19).)
 
 From the very beginning we have been instructed to pray. The Lord commanded
 Adam and Eve to "worship the Lord their God," and he later sent an angel to
 say to them, "thou shalt repent and call upon God in the name of the Son
-forevermore." ([Moses 5:5,
-8](https://www.lds.org/scriptures/pgp/moses/5.5%2C8?lang=eng#4).)
+forevermore." ([Moses 5:5, 8](/scriptures/pgp/moses/5.5,8?lang=eng#4).)
 
 Jesus instructed the Nephites:
 
@@ -218,28 +210,28 @@ wheat.
 
 "Pray in your families unto the Father, always in my name, that your wives and
 your children may be blessed." ([3 Ne. 18:18-19,
-21](https://www.lds.org/scriptures/bofm/3-ne/18.18-19%2C21?lang=eng#17).)
+21](/scriptures/bofm/3-ne/18.18-19,21?lang=eng#17).)
 
 In this dispensation, even before the Church was organized, the Lord said to
 the Prophet:
 
 "Pray always, that you may come off conqueror; yea, that you may conquer
 Satan, and that you may escape the hands of the servants of Satan that do
-uphold his work." ([D&amp;C 10:5](https://www.lds.org/scriptures/dc-
+uphold his work." ([D&amp;C 10:5](/scriptures/dc-
 testament/dc/10.5?lang=eng#4).)
 
 He instructed the priests to "visit the house of each member, and exhort them
-to pray vocally and in secret. ..." ([D&amp;C 20:47,
-51](https://www.lds.org/scriptures/dc-testament/dc/20.47%2C51?lang=eng#46).)
+to pray vocally and in secret. ..." ([D&amp;C 20:47, 51](/scriptures/dc-
+testament/dc/20.47,51?lang=eng#46).)
 
 Of Church members who went to build up Jackson County, Missouri, he said: "...
 he that observeth not his prayers before the Lord in the season thereof, let
 him be had in remembrance before the judge of my people." ([D&amp;C
-68:33](https://www.lds.org/scriptures/dc-testament/dc/68.33?lang=eng#32).)
+68:33](/scriptures/dc-testament/dc/68.33?lang=eng#32).)
 
 And finally, he said: "... pray always lest that wicked one have power in you,
-and remove you out of your place." ([D&amp;C
-93:49](https://www.lds.org/scriptures/dc-testament/dc/93.49?lang=eng#48).)
+and remove you out of your place." ([D&amp;C 93:49](/scriptures/dc-
+testament/dc/93.49?lang=eng#48).)
 
 In conclusion, I ask you to listen to Nephi's exhortation. I hope it moves you
 as deeply as it does me. He said:
@@ -263,8 +255,7 @@ that he must not pray.
 must not perform any thing unto the Lord save in the first place ye shall pray
 unto the Father in the name of Christ, that he will consecrate thy performance
 unto thee, that thy performance may be for the welfare of thy soul." ([2 Ne.
-32:1, 3-4,
-8-9](https://www.lds.org/scriptures/bofm/2-ne/32.1%2C3-4%2C8-9?lang=eng#0).)
+32:1, 3-4, 8-9](/scriptures/bofm/2-ne/32.1,3-4,8-9?lang=eng#0).)
 
 That the Lord will help each of us bearers of the holy priesthood to acquire
 such a powerful motivating desire that we will, through searching and
@@ -272,4 +263,6 @@ pondering upon the words of eternal life and praying about them, be led to
 magnify our callings in the priesthood, and that we may thereby qualify
 ourselves to receive the promised blessings of the "covenant which belongeth
 to the priesthood," I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

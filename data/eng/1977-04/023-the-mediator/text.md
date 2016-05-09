@@ -28,7 +28,7 @@ That may be what the Lord had in mind when He said,
 
 "It is easier for a camel to go through the eye of a needle, than for a rich
 man to enter into the kingdom of God." ([Matt.
-19:24](https://www.lds.org/scriptures/nt/matt/19.24?lang=eng#23).)
+19:24](/scriptures/nt/matt/19.24?lang=eng#23).)
 
 Those who have faced a foreclosure know that one looks helplessly around,
 hoping for someone, anyone, to come to the rescue.
@@ -54,10 +54,9 @@ something we _feel._
 There are things, spiritual things, that are registered in our minds and
 recorded in our memories as pure knowledge. A knowledge of "things which have
 been, things which are, things which must shortly come to pass." ([D&amp;C
-88:79](https://www.lds.org/scriptures/dc-testament/dc/88.79?lang=eng#78); see
-also [D&amp;C 93:24](https://www.lds.org/scriptures/dc-
-testament/dc/93.24?lang=eng#23), and [Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12).)
+88:79](/scriptures/dc-testament/dc/88.79?lang=eng#78); see also [D&amp;C
+93:24](/scriptures/dc-testament/dc/93.24?lang=eng#23), and [Jacob
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12).)
 
 As surely as we know about material things, we can come to know of spiritual
 things.
@@ -79,7 +78,7 @@ The Prophet Alma declared:
 "Justice claimeth the creature and executeth the law, and the law inflicteth
 the punishment; if not so, the works of justice would be destroyed, and God
 would cease to be God." ([Alma
-42:22](https://www.lds.org/scriptures/bofm/alma/42.22?lang=eng#21).)
+42:22](/scriptures/bofm/alma/42.22?lang=eng#21).)
 
 I commend to you the reading of the 42nd chapter of Alma. It reveals the place
 of justice and should confirm that the poet spoke the truth when he said, "In
@@ -193,8 +192,7 @@ exacted from us to the uttermost farthing.
 But know this: Truth, glorious truth, proclaims there is such a Mediator.
 
 "For there is one God, and one mediator between God and men, the man Christ
-Jesus." ([1 Tim.
-2:5](https://www.lds.org/scriptures/nt/1-tim/2.5?lang=eng#4).)
+Jesus." ([1 Tim. 2:5](/scriptures/nt/1-tim/2.5?lang=eng#4).)
 
 Through Him mercy can be fully extended to each of us without offending the
 eternal law of justice.
@@ -235,7 +233,7 @@ the demands of justice and extend mercy to those who are penitent, for "He
 offereth himself a sacrifice for sin, to answer the ends of the law, unto all
 those who have a broken heart and a contrite spirit; and unto none else can
 the ends of the law be answered." ([2 Ne.
-2:7](https://www.lds.org/scriptures/bofm/2-ne/2.7?lang=eng#6).)
+2:7](/scriptures/bofm/2-ne/2.7?lang=eng#6).)
 
 Already He has accomplished the redemption of all mankind from mortal death;
 resurrection is extended to all without condition.
@@ -299,4 +297,6 @@ _Where justice, love, and mercy meet_
 _In harmony divine!_
 
 In the name of Jesus Christ, amen.
+
+## References
 

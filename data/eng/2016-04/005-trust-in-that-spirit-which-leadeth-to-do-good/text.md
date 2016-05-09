@@ -181,3 +181,11 @@ His living prophet. Heavenly Father hears and answers our prayers. I witness
 that we grow closer to the Savior as we, out of pure love, serve others for
 Him. I so leave you that sure witness in the name of Jesus Christ, amen.
 
+## References
+
+  1. "Because I Have Been Given Much," _Hymns,_ no. 219.
+
+  2. "Come, Follow Me," _Hymns,_ no. 116.
+
+  3. "Sweet Is the Work," _Hymns,_ no. 147.
+

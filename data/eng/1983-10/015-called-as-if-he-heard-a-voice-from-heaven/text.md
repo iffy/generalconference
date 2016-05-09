@@ -249,9 +249,9 @@ Aaronic Priesthood is that you are more important to the Church than you would
 ever dare to suppose.
 
 In Isaiah, the prophet asks, "Watchman, what of the night?" ([Isa.
-21:11](https://www.lds.org/scriptures/ot/isa/21.11?lang=eng#10).) This
-generation of youth will be the torchbearers in the future, possibly in the
-darkest period of the world. So remember, brethren:
+21:11](/scriptures/ot/isa/21.11?lang=eng#10).) This generation of youth will
+be the torchbearers in the future, possibly in the darkest period of the
+world. So remember, brethren:
 
 _The God of the great endeavor gave me a torch to bear._
 
@@ -287,4 +287,6 @@ _'Tis the torch the people follow, who ere the bearer be._
 
 A great truth. They _will_ be the torchbearers. May we be the watchmen. In the
 name of Jesus Christ, amen.
+
+## References
 

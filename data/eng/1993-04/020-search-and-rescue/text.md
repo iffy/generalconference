@@ -9,8 +9,8 @@ This war was not marked by large-scale battles on open terrain. Rather, the
 enemy was often not visible--but nonetheless highly dangerous--thereby leading
 to the concept of search and destroy. Casualties were high, suffering rampant,
 and destruction everywhere to be found. We will never know how many cried out
-their own expression of the biblical question, "Is there no balm in Gilead?"
-[1]  The world sighed profound relief when conflict ceased and peace
+their own expression of the biblical question, "Is there no balm in
+Gilead?"[1] The world sighed profound relief when conflict ceased and peace
 prevailed.
 
 I was thinking of the term _search and destroy_ this past winter as I visited
@@ -37,10 +37,10 @@ their profound gratitude fills my body and soul with compassion and
 thanksgiving. I've never before experienced anything quite like it."
 
 Perhaps he was witnessing the personal understanding of the Lord's
-pronouncement, "Remember the worth of souls is great in the sight of God." [2]
+pronouncement, "Remember the worth of souls is great in the sight of God."[2]
 Or maybe Johnny was feeling the penetrating declaration of the Prophet Joseph
 Smith, who said, "It is better to save the life of a man than to raise one
-from the dead." [3]
+from the dead."[3]
 
 My thoughts turned to that favorite song from Sunday School, the one that
 always brings tears to my eyes and compassion to my heart:
@@ -77,7 +77,7 @@ _Give us a love that is deep._
 
 _Send us out into the desert,_
 
-_Seeking thy wandering sheep."_ [4]
+_Seeking thy wandering sheep."_[4]
 
 Tonight I express the gratitude of the First Presidency and Council of the
 Twelve Apostles and all the General Authorities of the Church to members
@@ -116,7 +116,7 @@ vast help extended by bishops of wards, presidents of branches, and leaders of
 missions to members of the Church throughout the world. The words of a Western
 Hemisphere prophet, uttered centuries ago, are still heard and followed today.
 King Benjamin reminded his people that "when ye are in the service of your
-fellow beings ye are only in the service of your God." [5]
+fellow beings ye are only in the service of your God."[5]
 
 From that same sacred record we contemplate the words spoken of the people
 during the reign of Alma, son of Alma: "They did not send away any who were
@@ -124,7 +124,7 @@ naked, or that were hungry, or that were athirst, or that were sick, or that
 had not been nourished; and they did not set their hearts upon riches;
 therefore they were liberal to all, both old and young, both bond and free,
 both male and female, whether out of the church or in the church, having no
-respect to persons as to those who stood in need." [6]
+respect to persons as to those who stood in need."[6]
 
 The book of Luke, in one chapter, provides us two related parables which
 prompt our thinking and guide our footsteps in following the Master. First is
@@ -141,12 +141,12 @@ saying unto them, Rejoice with me; for I have found my sheep which was lost.
 
 "I say unto you, that likewise joy shall be in heaven over one sinner that
 repenteth, more than over ninety and nine just persons, which need no
-repentance." [7]
+repentance."[7]
 
 In the parable of the prodigal son, we remember that one son wasted his
 substance and was reduced to near starvation. I ponder the line "and no man
-gave unto him." [8]  Finally, when he came to himself he returned to the land
-of his father, expecting nothing but a rebuke and reprimand.
+gave unto him."[8] Finally, when he came to himself he returned to the land of
+his father, expecting nothing but a rebuke and reprimand.
 
 "And he arose, and came to his father. But when he was yet a great way off,
 his father saw him, and had compassion, and ran, and fell on his neck, and
@@ -160,11 +160,11 @@ him; and put a ring on his hand, and shoes on his feet:
 
 "And bring hither the fatted calf, and kill it; and let us eat, and be merry:
 
-"For this my son was dead, and is alive again; he was lost, and is found." [9]
+"For this my son was dead, and is alive again; he was lost, and is found."[9]
 
 To the faithful son who was a bit critical of his father's actions toward his
 brother came the same response: "Thy brother was dead, and is alive again; and
-was lost, and is found." [10]
+was lost, and is found."[10]
 
 Could I leave that long-distant time and that faraway place and share with you
 examples of the guiding influence of the Master Shepherd as we, in the
@@ -234,7 +234,7 @@ noble servants deserve our undying gratitude and our fervent prayers.
 
 The simple words from Ecclesiastes, or the Preacher, carry an assurance that
 brings comfort and inspires effort: "Cast thy bread upon the waters: for thou
-shalt find it after many days." [11]
+shalt find it after many days."[11]
 
 Such was my experience as pertains to President George H. Watson, who today
 serves as first counselor in the Naperville Illinois Stake presidency.
@@ -339,25 +339,25 @@ my humble prayer, in the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [Jer. 8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).
+  1. [Jer. 8:22](https://www.lds.org/scriptures/ot/jer/8.22?lang=eng#21).
 
-  2.   [D&amp;C 18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).
+  2. [D&amp;C 18:10](https://www.lds.org/scriptures/dc-testament/dc/18.10?lang=eng#9).
 
-  3.   _History of the Church, _5:366.
+  3. _History of the Church, _5:366.
 
-  4.   _Hymns,_ 1985, no. 221.
+  4. _Hymns,_ 1985, no. 221.
 
-  5.   [Mosiah 2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).
+  5. [Mosiah 2:17](https://www.lds.org/scriptures/bofm/mosiah/2.17?lang=eng#16).
 
-  6.   [Alma 1:30](https://www.lds.org/scriptures/bofm/alma/1.30?lang=eng#29).
+  6. [Alma 1:30](https://www.lds.org/scriptures/bofm/alma/1.30?lang=eng#29).
 
-  7.   [Luke 15:4-7](https://www.lds.org/scriptures/nt/luke/15.4-7?lang=eng#3).
+  7. [Luke 15:4-7](https://www.lds.org/scriptures/nt/luke/15.4-7?lang=eng#3).
 
-  8.  Ibid., [Luke 15:16](https://www.lds.org/scriptures/nt/luke/15.16?lang=eng#15).
+  8. Ibid., [Luke 15:16](https://www.lds.org/scriptures/nt/luke/15.16?lang=eng#15).
 
-  9.  Ibid., [Luke 15:20-24](https://www.lds.org/scriptures/nt/luke/15.20-24?lang=eng#19).
+  9. Ibid., [Luke 15:20-24](https://www.lds.org/scriptures/nt/luke/15.20-24?lang=eng#19).
 
-  10.  Ibid., [Luke 15:32](https://www.lds.org/scriptures/nt/luke/15.32?lang=eng#31).
+  10. Ibid., [Luke 15:32](https://www.lds.org/scriptures/nt/luke/15.32?lang=eng#31).
 
-  11.   [Eccl. 11:1](https://www.lds.org/scriptures/ot/eccl/11.1?lang=eng#0).
+  11. [Eccl. 11:1](https://www.lds.org/scriptures/ot/eccl/11.1?lang=eng#0).
 

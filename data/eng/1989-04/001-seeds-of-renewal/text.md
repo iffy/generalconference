@@ -39,33 +39,30 @@ consider a few such seeds.
 First, we should plant and nurture the seed of faith in the Lord Jesus Christ,
 our Savior and Redeemer. We each should develop the faith of Nephi to do the
 things the Lord has commanded (see [1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)), knowing that
-all commandments are given for our good. Nephi expressed his faith in these
-words: "If it so be that the children of men keep the commandments of God he
-doth nourish them, and strengthen them, and provide means whereby they can
-accomplish the thing which he has commanded them." ([1 Ne.
-17:3](https://www.lds.org/scriptures/bofm/1-ne/17.3?lang=eng#2).) When the
-Lord instructed him to build a ship, his brothers called him a fool to think
-he could do it. He told them: "If God had commanded me to do all things I
-could do them. If he should command me that I should say unto this water, be
-thou earth, it should be earth." ([1 Ne.
-17:50](https://www.lds.org/scriptures/bofm/1-ne/17.50?lang=eng#49).)
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)), knowing that all commandments are
+given for our good. Nephi expressed his faith in these words: "If it so be
+that the children of men keep the commandments of God he doth nourish them,
+and strengthen them, and provide means whereby they can accomplish the thing
+which he has commanded them." ([1 Ne.
+17:3](/scriptures/bofm/1-ne/17.3?lang=eng#2).) When the Lord instructed him to
+build a ship, his brothers called him a fool to think he could do it. He told
+them: "If God had commanded me to do all things I could do them. If he should
+command me that I should say unto this water, be thou earth, it should be
+earth." ([1 Ne. 17:50](/scriptures/bofm/1-ne/17.50?lang=eng#49).)
 
 Next, let us nurture the seed of faith which gives us the courage to follow
 the prophets. Today's prophet, President Ezra Taft Benson, is the Lord's
 spokesman to mankind at this time. We need the wisdom and the courage to
 accept his inspired counsel with gratitude and conform our lives to it because
 "whether by mine own voice or by the voice of my servants, it is the same."
-([D&amp;C 1:38](https://www.lds.org/scriptures/dc-
-testament/dc/1.38?lang=eng#37).) The revelation given to President Benson's
-first predecessor, Joseph Smith, on the day the Church was organized applies
-to Church members today: "The church ... shalt give heed unto all his [the
-Prophet's] words and commandments which he shall give unto you as he receiveth
-them, ...
+([D&amp;C 1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).) The revelation
+given to President Benson's first predecessor, Joseph Smith, on the day the
+Church was organized applies to Church members today: "The church ... shalt give
+heed unto all his [the Prophet's] words and commandments which he shall give
+unto you as he receiveth them, ...
 
 "For his word shall ye receive, as if from mine own mouth, in all patience and
-faith." ([D&amp;C 21:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-5?lang=eng#3).)
+faith." ([D&amp;C 21:4-5](/scriptures/dc-testament/dc/21.4-5?lang=eng#3).)
 
 I am sure the Lord is pleased with the response of Church members to President
 Benson's emphasis on reading and sharing the Book of Mormon. In 1988, more
@@ -91,15 +88,14 @@ unity in our homes and families. Fathers are to preside over their families in
 kindness, remembering that "no power or influence can or ought to be
 maintained by virtue of the priesthood, only by persuasion, by long-suffering,
 by gentleness and meekness, and by love unfeigned." ([D&amp;C
-121:41](https://www.lds.org/scriptures/dc-testament/dc/121.41?lang=eng#40).)
-Husbands and wives are to love each other with a pure love that transcends
-selfishness. In a single-parent family, the parent presides. Parents are to
-nurture their children and teach them the principles of right living.
-Regardless of the help other individuals or institutions may give, the Lord
-has placed this responsibility ultimately with parents. Children are to honor
-their parents (see [Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11)) by obeying
-them, living as they are taught, and fostering peace in the home.
+121:41](/scriptures/dc-testament/dc/121.41?lang=eng#40).) Husbands and wives
+are to love each other with a pure love that transcends selfishness. In a
+single-parent family, the parent presides. Parents are to nurture their
+children and teach them the principles of right living. Regardless of the help
+other individuals or institutions may give, the Lord has placed this
+responsibility ultimately with parents. Children are to honor their parents
+(see [Ex. 20:12](/scriptures/ot/ex/20.12?lang=eng#11)) by obeying them, living
+as they are taught, and fostering peace in the home.
 
 Parents should plant deeply the seed of the work ethic into the hearts and
 habits of their children. As society has shifted from an agrarian to an urban
@@ -114,31 +110,31 @@ or spiritual. Work has no substitute." (In Conference Report, Apr. 1933, p.
 103.) More recently, Elder Howard W. Hunter counseled: "The first recorded
 instruction given to Adam after the Fall dealt with the eternal principle of
 work. The Lord said: 'In the sweat of thy face shalt thou eat bread.' ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18).) Our Heavenly
-Father loves us so completely that he has given us a commandment to work. This
-is one of the keys to eternal life. He knows that we will learn more, grow
-more, achieve more, serve more, and benefit more from a life of industry than
-from a life of ease." (_Ensign,_ Nov. 1975, p. 122.)
+3:19](/scriptures/ot/gen/3.19?lang=eng#18).) Our Heavenly Father loves us so
+completely that he has given us a commandment to work. This is one of the keys
+to eternal life. He knows that we will learn more, grow more, achieve more,
+serve more, and benefit more from a life of industry than from a life of
+ease." (_Ensign,_ Nov. 1975, p. 122.)
 
 Parents can plant seeds in the hearts and minds of their children only if they
 know where the children are and what they are doing. Parents should not leave
 the teaching of their children to chance. They should be in charge of their
 homes and families, remembering that "reproof give[s] wisdom: but a child left
 to himself bringeth his mother to shame." ([Prov.
-29:15](https://www.lds.org/scriptures/ot/prov/29.15?lang=eng#14).) I have
-heard of parents who travel extensively for pleasure, leaving their teenage
-children without parental protection for extended periods. Unprotected
-teenagers can indulge in a "little" sin without realizing the possible
-consequences in sorrow and disappointment.
+29:15](/scriptures/ot/prov/29.15?lang=eng#14).) I have heard of parents who
+travel extensively for pleasure, leaving their teenage children without
+parental protection for extended periods. Unprotected teenagers can indulge in
+a "little" sin without realizing the possible consequences in sorrow and
+disappointment.
 
 Too many of our young people have the idea that limited sin is not really
 wrong because it will be forgiven easily with no consequences. We see young
 people who are guilty of moral sins but are not overly concerned because they
 expect to repent quickly, thinking all is well. The idea that any sin is
 unimportant is false; it comes from the devil. "The Lord cannot look upon sin
-with the least degree of allowance." ([D&amp;C
-1:31](https://www.lds.org/scriptures/dc-testament/dc/1.31?lang=eng#30).) We
-should heed the counsel of Nephi when he wrote:
+with the least degree of allowance." ([D&amp;C 1:31](/scriptures/dc-
+testament/dc/1.31?lang=eng#30).) We should heed the counsel of Nephi when he
+wrote:
 
 "Many ... shall say: Eat, drink, and be merry; nevertheless, fear God--he will
 justify in committing a little sin; ... there is no harm in this; ... and if it so
@@ -146,8 +142,7 @@ be that we are guilty, God will beat us with a few stripes, and at last we
 shall be saved in the kingdom of God. ...
 
 "And thus the devil cheateth their souls, and leadeth them away carefully down
-to hell." ([2 Ne. 28:8,
-21](https://www.lds.org/scriptures/bofm/2-ne/28.8%2C21?lang=eng#7).)
+to hell." ([2 Ne. 28:8, 21](/scriptures/bofm/2-ne/28.8,21?lang=eng#7).)
 
 We ask our young people who will be approaching marriage within a few years to
 think of their own unborn children. Think of what these spirits would ask you
@@ -176,11 +171,10 @@ desireth anything contrary to that which is right; ...
 
 "And if the time comes that the voice of the people doth choose iniquity, then
 is the time that the judgments of God will come upon you." ([Mosiah
-29:26-27](https://www.lds.org/scriptures/bofm/mosiah/29.26-27?lang=eng#25).)
-That time of iniquity came about sixty years later and at several other times.
-In the book of Helaman we read that "they who chose evil were more numerous
-than they who chose good." ([Hel.
-5:2](https://www.lds.org/scriptures/bofm/hel/5.2?lang=eng#1).) If television
+29:26-27](/scriptures/bofm/mosiah/29.26-27?lang=eng#25).) That time of
+iniquity came about sixty years later and at several other times. In the book
+of Helaman we read that "they who chose evil were more numerous than they who
+chose good." ([Hel. 5:2](/scriptures/bofm/hel/5.2?lang=eng#1).) If television
 viewing choices serve as a valid measure of our society, they who choose evil
 surely are more numerous than they who choose good.
 
@@ -233,9 +227,9 @@ who became prominent religious leaders include his grandson, Helaman; great-
 grandson, Helaman; great-great-grandson, Nephi; and great-great-great-
 grandson, Nephi, who was the chief disciple of the resurrected Jesus Christ.
 All of this resulted from Abinadi's lone convert. (See [Mosiah
-18](https://www.lds.org/scriptures/bofm/mosiah/18.title?lang=eng) and Daniel
-H. Ludlow, _A Companion to Your Study of the Book of Mormon,_ Salt Lake City:
-Deseret Book Co., 1976, p. 187).
+18](/scriptures/bofm/mosiah/18?lang=eng) and Daniel H. Ludlow, _A Companion to
+Your Study of the Book of Mormon,_ Salt Lake City: Deseret Book Co., 1976, p.
+187).
 
 My brothers and sisters, I bear my testimony that we can plant in our hearts
 and minds the seeds I have mentioned, and others. If we will plant them and
@@ -246,4 +240,6 @@ I testify further that I know our Heavenly Father loves each of his children,
 that Jesus Christ is our Lord and Savior and Redeemer, that Joseph Smith is
 the Prophet of the Restoration, and that President Ezra Taft Benson is the
 prophet today. In the name of Jesus Christ, amen.
+
+## References
 

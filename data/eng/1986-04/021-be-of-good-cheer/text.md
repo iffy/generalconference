@@ -13,8 +13,7 @@ of the Lord's eternal promises.
 "Wherefore, be of good cheer, and do not fear, for I the Lord am with you, and
 will stand by you; and ye shall bear record of me, even Jesus Christ, that I
 am the Son of the living God, that I was, that I am, and that I am to come."
-([D&amp;C 68:5-6](https://www.lds.org/scriptures/dc-
-testament/dc/68.5-6?lang=eng#4).)
+([D&amp;C 68:5-6](/scriptures/dc-testament/dc/68.5-6?lang=eng#4).)
 
 Good cheer is a state of mind or mood that promotes happiness or joy. Some
 like to think good cheer is found in a bottle, a six-pack, an injection, a
@@ -44,9 +43,8 @@ All over the world we have many members who are taking the blessings of the
 gospel to those who will listen. Those who accept and live the teachings of
 our Savior find the strength to be of good cheer, for he declared, "Whosoever
 will save his life shall lose it: and whosoever will lose his life for my sake
-shall find it." ([Matt.
-16:25](https://www.lds.org/scriptures/nt/matt/16.25?lang=eng#24).) When we
-apply this principle in our lives and share it with our associates, it is
+shall find it." ([Matt. 16:25](/scriptures/nt/matt/16.25?lang=eng#24).) When
+we apply this principle in our lives and share it with our associates, it is
 possible to supplant discouragement, tragedy, and gloom with hope and cheer.
 The fruits of cheerfulness lie within each of us, side by side with our
 resolution, priorities, and desires. They will never come from without. They
@@ -157,13 +155,13 @@ failures.
 
 For many years President Ezra Taft Benson has reinforced his talks of love and
 guidance to our youth with the truth that wickedness never can be happiness.
-(See [Alma 41:10](https://www.lds.org/scriptures/bofm/alma/41.10?lang=eng#9).)
-In dating and courting, decisions of conduct, to be effective, must be made
-before the moment of enticement and temptation surfaces. Too often immoral
-conduct results from self-deceit. We have allowed ourselves to blame others
-for the incident of misconduct when our failure to make decisions ahead of
-time was not thought to be of importance. The thought that wickedness brings
-good cheer makes reason stare.
+(See [Alma 41:10](/scriptures/bofm/alma/41.10?lang=eng#9).) In dating and
+courting, decisions of conduct, to be effective, must be made before the
+moment of enticement and temptation surfaces. Too often immoral conduct
+results from self-deceit. We have allowed ourselves to blame others for the
+incident of misconduct when our failure to make decisions ahead of time was
+not thought to be of importance. The thought that wickedness brings good cheer
+makes reason stare.
 
 A constant effort must be made to lift our daily conduct so that it squares
 with our knowledge of truth and our standards. Self-mastery must always
@@ -207,7 +205,7 @@ With good cheer, carrying our cross can be our ladder to happiness. When Jesus
 comes into our lives, cheer lights the way. How powerful and comforting is the
 Savior's declaration, "In the world ye shall have tribulation: but be of good
 cheer; I have overcome the world." ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).)
+16:33](/scriptures/nt/john/16.33?lang=eng#32).)
 
 He promises to stand by us. He invites us to bear record and witness of him.
 What a joy and honor it is for me to declare in good cheer and without fear
@@ -215,9 +213,11 @@ that Jesus Christ is the Son of the living God, that he was the Only Begotten
 of the Father, that he is, and that he will yet come again in God's name. I
 thank God for the Savior's life, his cheerful love, and his example. "There is
 no fear in love; but perfect love casteth out fear." ([1 Jn.
-4:18](https://www.lds.org/scriptures/nt/1-jn/4.18?lang=eng#17).)
+4:18](/scriptures/nt/1-jn/4.18?lang=eng#17).)
 
 To all mankind everywhere I cheerfully testify that our Lord and Savior Jesus
 Christ is our Redeemer. He will sustain us now and forever if we will walk in
 his paths, be of good cheer, and not fear. In the name of Jesus Christ, amen.
+
+## References
 

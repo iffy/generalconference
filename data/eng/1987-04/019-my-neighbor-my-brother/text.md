@@ -1,8 +1,7 @@
 # My Neighbor—My Brother!
 
 Jesus was once asked a provocative question by a lawyer: "Who is my
-neighbour?" ([Luke
-10:29](https://www.lds.org/scriptures/nt/luke/10.29?lang=eng#28)). Indeed,
+neighbour?" ([Luke 10:29](/scriptures/nt/luke/10.29?lang=eng#28)). Indeed,
 that is a question we all should ask--"Who is my neighbor?"
 
 The Savior provided a penetrating, unexpected answer to the lawyer. He taught
@@ -23,13 +22,13 @@ Co., 1936, p. 751).
 The Samaritan, though despised by the Jews, saw the suffering victim and did
 three things: (1) he had compassion on him, (2) he went to him and bound up
 his wounds, and (3) he cared for him (see [Luke
-10:30-35](https://www.lds.org/scriptures/nt/luke/10.30-35?lang=eng#29)).
+10:30-35](/scriptures/nt/luke/10.30-35?lang=eng#29)).
 
 After relating the parable, Jesus asked the lawyer which of the three was
 neighbor to him that fell among the thieves--the priest, the Levite, or the
 Samaritan. The lawyer could not avoid the evident truth. "He that shewed mercy
 on him," he replied. To which the Savior said, "Go, and do thou likewise"
-([Luke 10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36)).
+([Luke 10:37](/scriptures/nt/luke/10.37?lang=eng#36)).
 
 A more perfect parable could not have been conceived to teach the eternal
 truth that God is the Father of us all and therefore we are brothers one to
@@ -37,7 +36,7 @@ another.
 
 My neighbor--my brother! Such is the teaching of our Lord and Savior. We are
 to esteem every man as our brother, our neighbor as ourselves (see [D&amp;C
-38:24](https://www.lds.org/scriptures/dc-testament/dc/38.24?lang=eng#23)).
+38:24](/scriptures/dc-testament/dc/38.24?lang=eng#23)).
 
 This truth is the fundamental basis for our inspired missionary effort
 throughout the world--to share the glorious truths of the restored gospel with
@@ -250,11 +249,13 @@ We invite bishops to prayerfully review possible calls with appropriate
 couples, who, after following our Savior's promise to the Nephites to "pray
 unto the Father in my name; ... believing that ye shall receive, [and] it shall
 be given unto you," will know by the Spirit how to respond ([3 Ne.
-18:19-20](https://www.lds.org/scriptures/bofm/3-ne/18.19-20?lang=eng#18)).
+18:19-20](/scriptures/bofm/3-ne/18.19-20?lang=eng#18)).
 
 Great joy and fulfillment will come to you as you humbly serve in your newly
 expanded world of neighbors.
 
 This work is divinely directed. God lives. Jesus is the Son of God. I so
 testify in the name of Jesus Christ, amen.
+
+## References
 

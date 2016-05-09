@@ -1,460 +1,376 @@
 items:
-- article_id: PD00008333_000_003
-  item: '002'
-  key: 002-the-sustaining-of-church-officers
+- item: 1
+  key: 000-the-sustaining-of-church-officers
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-sustaining-of-church-officers
   speaker: Thomas S. Monson
   title: The Sustaining of Church Officers
   url: https://www.lds.org/general-conference/2007/04/the-sustaining-of-church-officers?lang=eng
   year: 2007
-- article_id: PD00008333_000_004
-  item: '003'
-  key: 003-church-auditing-department-report-2006
+- item: 2
+  key: 001-church-auditing-department-report-2006
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: church-auditing-department-report-2006
   speaker: Robert W. Cantwell
   title: Church Auditing Department Report, 2006
   url: https://www.lds.org/general-conference/2007/04/church-auditing-department-report-2006?lang=eng
   year: 2007
-- article_id: PD00008333_000_005
-  item: '004'
-  key: 004-statistical-report-2006
+- item: 3
+  key: 002-statistical-report-2006
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: statistical-report-2006
   speaker: F. Michael Watson
   title: Statistical Report, 2006
   url: https://www.lds.org/general-conference/2007/04/statistical-report-2006?lang=eng
   year: 2007
-- article_id: PD00008333_000_006
-  item: '005'
-  key: 005-using-the-supernal-gift-of-prayer
+- item: 4
+  key: 003-using-the-supernal-gift-of-prayer
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: using-the-supernal-gift-of-prayer
   speaker: Richard G. Scott
   title: Using the Supernal Gift of Prayer
   url: https://www.lds.org/general-conference/2007/04/using-the-supernal-gift-of-prayer?lang=eng
   year: 2007
-- article_id: PD00008333_000_007
-  item: '007'
-  key: 007-the-nourishing-power-of-hymns
+- item: 5
+  key: 004-the-nourishing-power-of-hymns
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-nourishing-power-of-hymns
   speaker: Jay E. Jensen
   title: The Nourishing Power of Hymns
   url: https://www.lds.org/general-conference/2007/04/the-nourishing-power-of-hymns?lang=eng
   year: 2007
-- article_id: PD00008333_000_008
-  item: 008
-  key: 008-commitment-to-the-lord
+- item: 6
+  key: 005-commitment-to-the-lord
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: commitment-to-the-lord
   speaker: John B. Dickson
   title: Commitment to the Lord
   url: https://www.lds.org/general-conference/2007/04/commitment-to-the-lord?lang=eng
   year: 2007
-- article_id: PD00008333_000_009
-  item: '010'
-  key: 010-the-tongue-of-angels
+- item: 7
+  key: 006-the-tongue-of-angels
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: the-tongue-of-angels
   speaker: Jeffrey R. Holland
   title: The Tongue of Angels
   url: https://www.lds.org/general-conference/2007/04/the-tongue-of-angels?lang=eng
   year: 2007
-- article_id: PD00008333_000_010
-  item: '011'
-  key: 011-ye-must-be-born-again
+- item: 8
+  key: 007-ye-must-be-born-again
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: ye-must-be-born-again
   speaker: David A. Bednar
   title: Ye Must Be Born Again
   url: https://www.lds.org/general-conference/2007/04/ye-must-be-born-again?lang=eng
   year: 2007
-- article_id: PD00008333_000_011
-  item: '013'
-  key: 013-i-know-that-my-redeemer-lives
+- item: 9
+  key: 008-i-know-that-my-redeemer-lives
   month: 4
-  session_id: saturday-morning
   session_title: Saturday Morning Session
   slug: i-know-that-my-redeemer-lives
   speaker: Thomas S. Monson
   title: I Know That My Redeemer Lives!
   url: https://www.lds.org/general-conference/2007/04/i-know-that-my-redeemer-lives?lang=eng
   year: 2007
-- article_id: PD00008333_000_012
-  item: '017'
-  key: 017-the-spirit-of-the-tabernacle
+- item: 10
+  key: 009-the-spirit-of-the-tabernacle
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: the-spirit-of-the-tabernacle
   speaker: Boyd K. Packer
   title: The Spirit of the Tabernacle
   url: https://www.lds.org/general-conference/2007/04/the-spirit-of-the-tabernacle?lang=eng
   year: 2007
-- article_id: PD00008333_000_013
-  item: 018
-  key: 018-prophets-pioneer-and-modern-day
+- item: 11
+  key: 010-prophets-pioneer-and-modern-day
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: prophets-pioneer-and-modern-day
   speaker: Earl C. Tingey
   title: "Prophets\u2014Pioneer and Modern Day"
   url: https://www.lds.org/general-conference/2007/04/prophets-pioneer-and-modern-day?lang=eng
   year: 2007
-- article_id: PD00008333_000_014
-  item: 019
-  key: 019-if-these-old-walls-could-talk
+- item: 12
+  key: 011-if-these-old-walls-could-talk
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: if-these-old-walls-could-talk
   speaker: H. David Burton
   title: If These Old Walls Could Talk
   url: https://www.lds.org/general-conference/2007/04/if-these-old-walls-could-talk?lang=eng
   year: 2007
-- article_id: PD00008333_000_015
-  item: '022'
-  key: 022-gratitude-a-path-to-happiness
+- item: 13
+  key: 012-gratitude-a-path-to-happiness
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: gratitude-a-path-to-happiness
   speaker: Bonnie D. Parkin
-  title: 'Gratitude: A Path to Happiness'
+  title: Gratitude:A Path to Happiness
   url: https://www.lds.org/general-conference/2007/04/gratitude-a-path-to-happiness?lang=eng
   year: 2007
-- article_id: PD00008333_000_016
-  item: '023'
-  key: 023-remember-and-perish-not
+- item: 14
+  key: 013-remember-and-perish-not
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: remember-and-perish-not
   speaker: Marlin K. Jensen
   title: Remember and Perish Not
   url: https://www.lds.org/general-conference/2007/04/remember-and-perish-not?lang=eng
   year: 2007
-- article_id: PD00008333_000_017
-  item: '024'
-  key: 024-salt-lake-tabernacle-rededication
+- item: 15
+  key: 014-salt-lake-tabernacle-rededication
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: salt-lake-tabernacle-rededication
   speaker: James E. Faust
   title: Salt Lake Tabernacle Rededication
   url: https://www.lds.org/general-conference/2007/04/salt-lake-tabernacle-rededication?lang=eng
   year: 2007
-- article_id: PD00008333_000_018
-  item: '025'
-  key: 025-tabernacle-memories
+- item: 16
+  key: 015-tabernacle-memories
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: tabernacle-memories
   speaker: Thomas S. Monson
   title: Tabernacle Memories
   url: https://www.lds.org/general-conference/2007/04/tabernacle-memories?lang=eng
   year: 2007
-- article_id: PD00008333_000_019
-  item: '027'
-  key: 027-a-tabernacle-in-the-wilderness
+- item: 17
+  key: 016-a-tabernacle-in-the-wilderness
   month: 4
-  session_id: saturday-afternoon
   session_title: Saturday Afternoon Session
   slug: a-tabernacle-in-the-wilderness
   speaker: Gordon B. Hinckley
   title: A Tabernacle in the Wilderness
   url: https://www.lds.org/general-conference/2007/04/a-tabernacle-in-the-wilderness?lang=eng
   year: 2007
-- article_id: PD00008333_000_020
-  item: '031'
-  key: 031-lifes-lessons-learned
+- item: 18
+  key: 017-lifes-lessons-learned
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: lifes-lessons-learned
   speaker: Joseph B. Wirthlin
-  title: "Life\u2019s Lessons Learned"
+  title: Life's Lessons Learned
   url: https://www.lds.org/general-conference/2007/04/lifes-lessons-learned?lang=eng
   year: 2007
-- article_id: PD00008333_000_021
-  item: '032'
-  key: 032-to-the-aaronic-priesthood-preparing-for-the-decade-of-decision
+- item: 19
+  key: 018-to-the-aaronic-priesthood-preparing-for-the-decade-of-decision
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: to-the-aaronic-priesthood-preparing-for-the-decade-of-decision
   speaker: Robert D. Hales
-  title: 'To the Aaronic Priesthood: Preparing for the Decade of Decision'
+  title: To the Aaronic Priesthood:Preparing for the Decade of Decision
   url: https://www.lds.org/general-conference/2007/04/to-the-aaronic-priesthood-preparing-for-the-decade-of-decision?lang=eng
   year: 2007
-- article_id: PD00008333_000_022
-  item: '033'
-  key: 033-lay-up-in-store
+- item: 20
+  key: 019-lay-up-in-store
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: lay-up-in-store
   speaker: Keith B. McMullin
   title: Lay Up in Store
   url: https://www.lds.org/general-conference/2007/04/lay-up-in-store?lang=eng
   year: 2007
-- article_id: PD00008333_000_023
-  item: '035'
-  key: 035-message-to-my-grandsons
+- item: 21
+  key: 020-message-to-my-grandsons
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: message-to-my-grandsons
   speaker: James E. Faust
   title: Message to My Grandsons
   url: https://www.lds.org/general-conference/2007/04/message-to-my-grandsons?lang=eng
   year: 2007
-- article_id: PD00008333_000_024
-  item: '036'
-  key: 036-the-priesthood-a-sacred-gift
+- item: 22
+  key: 021-the-priesthood-a-sacred-gift
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: the-priesthood-a-sacred-gift
   speaker: Thomas S. Monson
   title: "The Priesthood\u2014a Sacred Gift"
   url: https://www.lds.org/general-conference/2007/04/the-priesthood-a-sacred-gift?lang=eng
   year: 2007
-- article_id: PD00008333_000_025
-  item: '037'
-  key: 037-i-am-clean
+- item: 23
+  key: 022-i-am-clean
   month: 4
-  session_id: priesthood
   session_title: Priesthood Session
   slug: i-am-clean
   speaker: Gordon B. Hinckley
-  title: "\u201CI Am Clean\u201D"
+  title: '"I Am Clean"'
   url: https://www.lds.org/general-conference/2007/04/i-am-clean?lang=eng
   year: 2007
-- article_id: PD00008333_000_026
-  item: '042'
-  key: 042-the-healing-power-of-forgiveness
+- item: 24
+  key: 023-the-healing-power-of-forgiveness
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-healing-power-of-forgiveness
   speaker: James E. Faust
   title: The Healing Power of Forgiveness
   url: https://www.lds.org/general-conference/2007/04/the-healing-power-of-forgiveness?lang=eng
   year: 2007
-- article_id: PD00008333_000_027
-  item: '043'
-  key: 043-divorce
+- item: 25
+  key: 024-divorce
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: divorce
   speaker: Dallin H. Oaks
   title: Divorce
   url: https://www.lds.org/general-conference/2007/04/divorce?lang=eng
   year: 2007
-- article_id: PD00008333_000_028
-  item: '044'
-  key: 044-its-true-isn-t-it-then-what-else-matters
+- item: 26
+  key: 025-its-true-isn-t-it-then-what-else-matters
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: its-true-isn-t-it-then-what-else-matters
   speaker: Neil L. Andersen
-  title: "It\u2019s True, Isn\u2019t It? Then What Else Matters?"
+  title: It's True, Isn't It?Then What Else Matters?
   url: https://www.lds.org/general-conference/2007/04/its-true-isn-t-it-then-what-else-matters?lang=eng
   year: 2007
-- article_id: PD00008333_000_029
-  item: '045'
-  key: 045-a-lesson-from-the-book-of-mormon
+- item: 27
+  key: 026-a-lesson-from-the-book-of-mormon
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: a-lesson-from-the-book-of-mormon
   speaker: Vicki F. Matsumori
   title: A Lesson from the Book of Mormon
   url: https://www.lds.org/general-conference/2007/04/a-lesson-from-the-book-of-mormon?lang=eng
   year: 2007
-- article_id: PD00008333_000_030
-  item: '047'
-  key: 047-do-you-know
+- item: 28
+  key: 027-do-you-know
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: do-you-know
   speaker: Glenn L. Pace
   title: Do You Know?
   url: https://www.lds.org/general-conference/2007/04/do-you-know?lang=eng
   year: 2007
-- article_id: PD00008333_000_031
-  item: 048
-  key: 048-the-miracle-of-the-holy-bible
+- item: 29
+  key: 028-the-miracle-of-the-holy-bible
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-miracle-of-the-holy-bible
   speaker: M. Russell Ballard
   title: The Miracle of the Holy Bible
   url: https://www.lds.org/general-conference/2007/04/the-miracle-of-the-holy-bible?lang=eng
   year: 2007
-- article_id: PD00008333_000_032
-  item: '051'
-  key: 051-the-things-of-which-i-know
+- item: 30
+  key: 029-the-things-of-which-i-know
   month: 4
-  session_id: sunday-morning
   session_title: Sunday Morning Session
   slug: the-things-of-which-i-know
   speaker: Gordon B. Hinckley
   title: The Things of Which I Know
   url: https://www.lds.org/general-conference/2007/04/the-things-of-which-i-know?lang=eng
   year: 2007
-- article_id: PD00008333_000_033
-  item: '055'
-  key: 055-the-message-of-the-restoration
+- item: 31
+  key: 030-the-message-of-the-restoration
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: the-message-of-the-restoration
   speaker: L. Tom Perry
   title: The Message of the Restoration
   url: https://www.lds.org/general-conference/2007/04/the-message-of-the-restoration?lang=eng
   year: 2007
-- article_id: PD00008333_000_034
-  item: '056'
-  key: 056-this-day
+- item: 32
+  key: 031-this-day
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: this-day
   speaker: Henry B. Eyring
   title: This Day
   url: https://www.lds.org/general-conference/2007/04/this-day?lang=eng
   year: 2007
-- article_id: PD00008333_000_035
-  item: '057'
-  key: 057-mom-are-we-christians
+- item: 33
+  key: 032-mom-are-we-christians
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: mom-are-we-christians
   speaker: Gary J. Coleman
-  title: "\u201CMom, Are We Christians?\u201D"
+  title: '"Mom, Are We Christians?"'
   url: https://www.lds.org/general-conference/2007/04/mom-are-we-christians?lang=eng
   year: 2007
-- article_id: PD00008333_000_036
-  item: 058
-  key: 058-whos-on-the-lords-side
+- item: 34
+  key: 033-whos-on-the-lords-side
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: whos-on-the-lords-side
   speaker: Charles W. Dahlquist II
-  title: "Who\u2019s on the Lord\u2019s Side?"
+  title: Who's on the Lord's Side?
   url: https://www.lds.org/general-conference/2007/04/whos-on-the-lords-side?lang=eng
   year: 2007
-- article_id: PD00008333_000_037
-  item: '060'
-  key: 060-will-a-man-rob-god
+- item: 35
+  key: 034-will-a-man-rob-god
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: will-a-man-rob-god
-  speaker: Elder Yoshihiko Kikuchi
+  speaker: Yoshihiko Kikuchi
   title: Will a Man Rob God?
   url: https://www.lds.org/general-conference/2007/04/will-a-man-rob-god?lang=eng
   year: 2007
-- article_id: PD00008333_000_038
-  item: '061'
-  key: 061-point-of-safe-return
+- item: 36
+  key: 035-point-of-safe-return
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: point-of-safe-return
   speaker: Dieter F. Uchtdorf
   title: Point of Safe Return
   url: https://www.lds.org/general-conference/2007/04/point-of-safe-return?lang=eng
   year: 2007
-- article_id: PD00008333_000_039
-  item: '062'
-  key: 062-repentance-and-conversion
+- item: 37
+  key: 036-repentance-and-conversion
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: repentance-and-conversion
   speaker: Russell M. Nelson
   title: Repentance and Conversion
   url: https://www.lds.org/general-conference/2007/04/repentance-and-conversion?lang=eng
   year: 2007
-- article_id: PD00008333_000_040
-  item: '063'
-  key: 063-closing-remarks
+- item: 38
+  key: 037-closing-remarks
   month: 4
-  session_id: sunday-afternoon
   session_title: Sunday Afternoon Session
   slug: closing-remarks
   speaker: Gordon B. Hinckley
   title: Closing Remarks
   url: https://www.lds.org/general-conference/2007/04/closing-remarks?lang=eng
   year: 2007
-- article_id: PD00008333_000_041
-  item: '066'
-  key: 066-daughters-of-heavenly-father
+- item: 39
+  key: 038-daughters-of-heavenly-father
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: daughters-of-heavenly-father
   speaker: Susan W. Tanner
   title: Daughters of Heavenly Father
   url: https://www.lds.org/general-conference/2007/04/daughters-of-heavenly-father?lang=eng
   year: 2007
-- article_id: PD00008333_000_042
-  item: 068
-  key: 068-remembering-repenting-and-changing
+- item: 40
+  key: 039-remembering-repenting-and-changing
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: remembering-repenting-and-changing
   speaker: Julie B. Beck
   title: Remembering, Repenting, and Changing
   url: https://www.lds.org/general-conference/2007/04/remembering-repenting-and-changing?lang=eng
   year: 2007
-- article_id: PD00008333_000_043
-  item: 069
-  key: 069-stay-on-the-path
+- item: 41
+  key: 040-stay-on-the-path
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: stay-on-the-path
   speaker: Elaine S. Dalton
   title: Stay on the Path
   url: https://www.lds.org/general-conference/2007/04/stay-on-the-path?lang=eng
   year: 2007
-- article_id: PD00008333_000_044
-  item: '071'
-  key: 071-let-virtue-garnish-thy-thoughts-unceasingly
+- item: 42
+  key: 041-let-virtue-garnish-thy-thoughts-unceasingly
   month: 4
-  session_id: young-women
   session_title: General Young Women Meeting
   slug: let-virtue-garnish-thy-thoughts-unceasingly
   speaker: Gordon B. Hinckley

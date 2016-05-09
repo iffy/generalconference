@@ -34,7 +34,7 @@ is represented by older couples. What a blessing their maturity and experience
 are wherever they serve. With the divine commission we have to share the
 gospel with the entire world, we do indeed need many more missionaries.
 Remember that "the field is white already to harvest" ([D&amp;C
-4:4](https://www.lds.org/scriptures/dc-testament/dc/4.4?lang=eng#3)).
+4:4](/scriptures/dc-testament/dc/4.4?lang=eng#3)).
 
 You will recall, also, our saying last year in general conference and in
 seminars for the Regional Representatives that some further program
@@ -54,9 +54,8 @@ We hope, for instance, that either before or after your series of Sunday
 meetings, depending upon your particular consolidated meeting schedule, you
 will do what the Savior asked the Nephite disciples to do: After he taught
 them, he asked them to go to their homes and to ponder and to pray over what
-was said (see [3 Ne.
-17:3](https://www.lds.org/scriptures/bofm/3-ne/17.3?lang=eng#2)). Let us keep
-that pattern in mind.
+was said (see [3 Ne. 17:3](/scriptures/bofm/3-ne/17.3?lang=eng#2)). Let us
+keep that pattern in mind.
 
 We also said last year that we have paused on some plateaus long enough, and
 then we gave an emphasis to councils--family councils, ward and stake
@@ -140,4 +139,6 @@ has promised will be fulfilled. This is the work of the Lord. The gospel is
 true. Jesus is the Christ and our Redeemer. May the Lord bless us all as we
 begin this great sesquicentennial conference of his church, I humbly pray, in
 the name of Jesus Christ. Amen.
+
+## References
 

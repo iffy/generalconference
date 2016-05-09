@@ -22,8 +22,7 @@ Lord lay.
 
 "And go quickly, and tell his disciples that he is risen from the dead; and,
 behold, he goeth before you into Galilee; there shall ye see him: lo, I have
-told you." ([Matt.
-28:1-7](https://www.lds.org/scriptures/nt/matt/28.1-7?lang=eng#0).)
+told you." ([Matt. 28:1-7](/scriptures/nt/matt/28.1-7?lang=eng#0).)
 
 "The hinge of history is on the door of a Bethlehem stable." (Ralph Sockman.)
 The name Jesus Christ and what it represents has been plowed deep into the
@@ -38,22 +37,20 @@ The crucifixion came. He needed to die, that he might open the graves of all
 men as his own tomb was opened. Without the deep darkness of the crucifixion
 hour, there could have been no spring of coming from the grave. "For in Adam
 all die, even so in Christ shall all be made alive." ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21).) That is
-why we rejoice today. "O death, where is thy sting? O grave, where is thy
-victory?" ([1 Cor.
-15:55](https://www.lds.org/scriptures/nt/1-cor/15.55?lang=eng#54).)
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21).) That is why we rejoice today.
+"O death, where is thy sting? O grave, where is thy victory?" ([1 Cor.
+15:55](/scriptures/nt/1-cor/15.55?lang=eng#54).)
 
 The 11 apostles followed Christ to the top of the Mount of Olives, and this is
 recorded in our scriptures, when the two angels who were there said:
 
 "Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which
 is taken up from you into heaven, shall so come in like manner as ye have seen
-him go into heaven." ([Acts
-1:11](https://www.lds.org/scriptures/nt/acts/1.11?lang=eng#10).)
+him go into heaven." ([Acts 1:11](/scriptures/nt/acts/1.11?lang=eng#10).)
 
 "Now if Christ be preached that he rose from the dead, how say some among you
 that there is no resurrection of the dead?" ([1 Cor.
-15:12](https://www.lds.org/scriptures/nt/1-cor/15.12?lang=eng#11).)
+15:12](/scriptures/nt/1-cor/15.12?lang=eng#11).)
 
 The purpose of this conference is that we may refresh our faith, strengthen
 our testimonies, and learn the ways of the Lord from his duly appointed and
@@ -89,7 +86,7 @@ goodness as we direct the activities of three and a half million people, ever
 growing more populous, and more independent, and even more faithful.
 
 Nearly 19,000 missionaries preach the gospel today. "The field is white
-already to harvest" ([D&amp;C 4:4](https://www.lds.org/scriptures/dc-
+already to harvest" ([D&amp;C 4:4](/scriptures/dc-
 testament/dc/4.4?lang=eng#3)), and the missionaries and the members are
 bringing many to a knowledge of the gospel.
 
@@ -125,9 +122,8 @@ season thereof, and all of this is given for the benefit and use of man, both
 to please the eye and to gladden the heart; for food and for raiment, for
 taste and for smell, to strengthen the body and to enliven the soul. And it
 pleased God that he had given all these things unto man; for unto this end
-were they made to be used, with judgment. (See [D&amp;C
-59:16-20](https://www.lds.org/scriptures/dc-
-testament/dc/59.16-20?lang=eng#15).)
+were they made to be used, with judgment. (See [D&amp;C 59:16-20](/scriptures
+/dc-testament/dc/59.16-20?lang=eng#15).)
 
 We are concerned when we see numerous front and side and back yards that have
 gone to weeds, where ditch banks are cluttered and trash and refuse
@@ -184,12 +180,11 @@ that the loss through shoplifting and allied dishonest tricks runs into
 billions of dollars in this country alone.
 
 The Lord told Adam's posterity and carved it into the stone plates, "Thou
-shalt not steal." ([Ex.
-20:15](https://www.lds.org/scriptures/ot/ex/20.15?lang=eng#14).) All parents
-should train their children against this deadly thing which can destroy their
-characters. Honesty is socially and culturally right. Liars and cheaters are
-both dishonest and alien to our culture. Dishonesty of all kinds is most
-reprehensible. "Thou shalt not steal."
+shalt not steal." ([Ex. 20:15](/scriptures/ot/ex/20.15?lang=eng#14).) All
+parents should train their children against this deadly thing which can
+destroy their characters. Honesty is socially and culturally right. Liars and
+cheaters are both dishonest and alien to our culture. Dishonesty of all kinds
+is most reprehensible. "Thou shalt not steal."
 
 We call upon all the three and a half million members of this church to be
 honest, full of integrity, pay for what they get and take only that which they
@@ -233,8 +228,7 @@ The Lord gave in a sacred revelation in 1833 what we have more recently
 learned through research: "Hot drinks are not for the body." This is tea and
 coffee. "Tobacco is not for the body ... and is not good for man. ... Wine or
 strong drink ... is not good, neither meet in the sight of your Father." (See
-[D&amp;C 89:5-9](https://www.lds.org/scriptures/dc-
-testament/dc/89.5-9?lang=eng#4).)
+[D&amp;C 89:5-9](/scriptures/dc-testament/dc/89.5-9?lang=eng#4).)
 
 The Lord knew when these things were discovered that constant smoking could
 lead to cancer; that constant drinking could lead to many accidents and
@@ -244,8 +238,8 @@ It is now a command to all his members, and as we see some members using these
 prohibited things, we wonder how they reconcile such activities with the
 statement of the Lord Jesus Christ when he said: "And why call ye me, Lord,
 Lord, and do not the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).) We sincerely
-hope the members of the Church will give heed.
+6:46](/scriptures/nt/luke/6.46?lang=eng#45).) We sincerely hope the members of
+the Church will give heed.
 
 Two researchers of the University of Utah have given us proof: This Church has
 a low death-rate tradition. The state of Utah, with about 72 percent of its
@@ -267,8 +261,7 @@ name? and in thy name have cast out devils? and in thy name done many
 wonderful works?
 
 "And then will I profess unto them, I never knew you: depart from me, ye that
-work iniquity." ([Matt.
-7:21-23](https://www.lds.org/scriptures/nt/matt/7.21-23?lang=eng#20).)
+work iniquity." ([Matt. 7:21-23](/scriptures/nt/matt/7.21-23?lang=eng#20).)
 
 This is serious business--living the commandments of the Lord, and sometimes
 taking it upon ourselves to ignore them.
@@ -277,10 +270,10 @@ Back in the earliest days after the Creation, the Lord said to Enoch: "Behold
 these thy brethren; they are the workmanship of mine own hands, and I gave
 unto them their knowledge, in the day I created them; and in the Garden of
 Eden, gave I unto man his agency." ([Moses
-7:32](https://www.lds.org/scriptures/pgp/moses/7.32?lang=eng#31).) We have no
-intent to take away from our friends, and the other people of the world, their
-agency in the use of these prohibited things. But we believe that the Lord,
-when he gave the Word of Wisdom, was speaking to all the people in the world.
+7:32](/scriptures/pgp/moses/7.32?lang=eng#31).) We have no intent to take away
+from our friends, and the other people of the world, their agency in the use
+of these prohibited things. But we believe that the Lord, when he gave the
+Word of Wisdom, was speaking to all the people in the world.
 
 We fear that never in the history of the world have there ever been so many
 more people bowing to the god of lust than there were bowing to golden calves
@@ -303,15 +296,14 @@ When men and women are selfless and devoted to their companions, they will
 have returned more nearly to the image of marriage described by the Lord when
 he said, "Therefore shall a man leave his father and his mother, and shall
 cleave unto his wife, and they shall be one flesh." ([Moses
-3:24](https://www.lds.org/scriptures/pgp/moses/3.24?lang=eng#23).)
+3:24](/scriptures/pgp/moses/3.24?lang=eng#23).)
 
 When men are true to their covenants made with their wives and are loyal and
 selfless, divorces will take a downward trend. Paul gave the injunctions,
 "Husbands, love your wives, even as Christ also loved the church, and gave
 himself for it. ... So ought men to love their wives as their own bodies. He
 that loveth his wife loveth himself. For no man ever yet hated his own flesh."
-([Eph. 5:25,
-28-29](https://www.lds.org/scriptures/nt/eph/5.25%2C28-29?lang=eng#24).)
+([Eph. 5:25, 28-29](/scriptures/nt/eph/5.25,28-29?lang=eng#24).)
 
 And when women forget their pettiness and selfishness and submit themselves to
 their own righteous husbands as unto the Lord, and when they are subject to
@@ -343,15 +335,14 @@ the fountains of life is serious, morally, mentally, psychologically,
 physically. To interfere with any of the processes in the procreation of
 offspring is to violate one of the most sacred of God's commandments--to
 "multiply, and replenish the earth." ([Gen.
-1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27).)
+1:28](/scriptures/ot/gen/1.28?lang=eng#27).)
 
 Members of the Church guilty of being parties to the sin of abortion must be
 subjected to the disciplinary action of the councils of the Church, as
 circumstances warrant. We remember the reiteration of the Ten Commandments
 given by the Lord in our own time, when he said, "Thou shalt not steal;
 neither commit adultery, nor kill, nor do anything like unto it." ([D&amp;C
-59:6](https://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5).) We see
-some similarities.
+59:6](/scriptures/dc-testament/dc/59.6?lang=eng#5).) We see some similarities.
 
 We abhor pornography that seems to be flooding the land. Legislation makes an
 effort to curb it, but the best way to stop it is to have men and women, with
@@ -372,16 +363,16 @@ fourth designates a sabbath day especially for worship: "Thou shalt have no
 other gods before me. ... Remember the sabbath day, to keep it holy. Six days
 shalt thou labor, and do all thy work: But the seventh day is the sabbath of
 the Lord thy God: in it thou shalt not do any work." ([Ex. 20:3,
-8-10](https://www.lds.org/scriptures/ot/ex/20.3%2C8-10?lang=eng#2).)
+8-10](/scriptures/ot/ex/20.3,8-10?lang=eng#2).)
 
 The failure to keep the Sabbath holy is evidence of man's failure to meet the
 individual test set for each of us before the creation of the world, "to see
 if they will do all things whatsoever the Lord their God shall command them."
-([Abr. 3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24).)
+([Abr. 3:25](/scriptures/pgp/abr/3.25?lang=eng#24).)
 
 We urge our people to do all their shopping on the weekday. Again we say, "And
 why call ye me, Lord, Lord, and do not the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).)
+6:46](/scriptures/nt/luke/6.46?lang=eng#45).)
 
 When the Lord said, "Remember the Sabbath day, to keep it holy," we believe he
 meant exactly that.
@@ -391,11 +382,13 @@ take it upon themselves, presumptive, to change the properly established
 patterns of social behavior established by the Lord, especially with regard to
 marriage, sex life, family life. We must say: "The wisdom of their wise men
 shall perish, and the understanding of their prudent men shall be hid." (See
-[Isa. 29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13).)
+[Isa. 29:14](/scriptures/ot/isa/29.14?lang=eng#13).)
 
 Brethren and sisters, God bless you as you move forward to meet all your
 commitments and live the commandments. We bless you in your efforts to become
 like our Lord that you will become more like him. May God richly bless you in
 your homes, your families, and your personal lives, I pray in the name of
 Jesus Christ. Amen.
+
+## References
 

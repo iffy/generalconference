@@ -3,8 +3,7 @@
 By divine instruction we assemble semiannually in these great conferences to
 worship God, our Eternal Father, and declare--through the gift and power of
 the Holy Ghost--the sonship of Jesus, our Savior and Redeemer, whom to know is
-to have life eternal (see [John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+to have life eternal (see [John 17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 By participating in these conferences and witnessing the spirit of prophecy,
 each of us builds up our faith and our desire to live in righteousness. We
@@ -12,7 +11,7 @@ receive inspired counsel from those appointed to administer the affairs of His
 kingdom, a kingdom destined to grow in power and to expand until it shall fill
 the earth. It is the kingdom which the prophet Daniel declared "shall never be
 destroyed: ... it shall stand for ever" ([Dan.
-2:44](https://www.lds.org/scriptures/ot/dan/2.44?lang=eng#43)).
+2:44](/scriptures/ot/dan/2.44?lang=eng#43)).
 
 As we near the close of this historic conference, we declare that true
 doctrine has been spoken by men who seek the Savior and who believe in him,
@@ -25,12 +24,12 @@ relation with any other church or religious group.
 
 This Church holds the keys of the power of God unto salvation unto every soul
 that will receive the gospel honestly and obey it (see [Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15)). As covenant
-children of God, we have been promised that if we are faithful, we will
-prevail over the enemies of his work. By our faithfulness and righteousness,
-the evil influences of wicked and designing men and women will be subdued. We
-are those who have the responsibility to prepare the world for the coming of
-the Savior, who--in power and glory--will again return to earth.
+1:16](/scriptures/nt/rom/1.16?lang=eng#15)). As covenant children of God, we
+have been promised that if we are faithful, we will prevail over the enemies
+of his work. By our faithfulness and righteousness, the evil influences of
+wicked and designing men and women will be subdued. We are those who have the
+responsibility to prepare the world for the coming of the Savior, who--in
+power and glory--will again return to earth.
 
 Some have asked, "Is your claim of authority more valid than that of other
 churches?" Our answer is, "Yes. We possess the same divine priesthood power
@@ -38,8 +37,7 @@ and authority that was held anciently."
 
 At the time the Savior and his twelve Apostles were laboring along the coast
 of Caesarea Philippi, the Savior asked them, "Whom do men say that I the Son
-of man am? ([Matt.
-16:13](https://www.lds.org/scriptures/nt/matt/16.13?lang=eng#12)).
+of man am? ([Matt. 16:13](/scriptures/nt/matt/16.13?lang=eng#12)).
 
 "And they said, Some say that thou art John the Baptist: some, Elias; and
 others, Jeremias, or one of the prophets.
@@ -59,7 +57,7 @@ build my church; and the, gates of hell shall not prevail against it.
 "And I will give unto thee the keys of the kingdom of heaven: and whatsoever
 thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt
 loose on earth shall be loosed in heaven." ([Matt.
-16:14-19](https://www.lds.org/scriptures/nt/matt/16.14-19?lang=eng#13).)
+16:14-19](/scriptures/nt/matt/16.14-19?lang=eng#13).)
 
 The Lord taught that his Church was to be built on the rock of revelation, of
 divine truths revealed by God himself, and that Christ is the Son of the
@@ -92,7 +90,7 @@ things which I revealed unto them;
 "Unto whom I have committed the keys of my kingdom, and a dispensation of the
 gospel for the last times; and for the fulness of times, in the which I will
 gather together in one all things, both which are in heaven, and which are on
-earth." ([D&amp;C 27:12-13](https://www.lds.org/scriptures/dc-
+earth." ([D&amp;C 27:12-13](/scriptures/dc-
 testament/dc/27.12-13?lang=eng#11).)
 
 The keys of the kingdom were bestowed upon Joseph Smith and Oliver Cowdery by
@@ -105,8 +103,8 @@ even to be a high priest in my church, and a counselor unto my servant Joseph
 Smith, Jun.;
 
 "Unto whom I have given the keys of the kingdom, which belong always unto the
-Presidency of the High Priesthood" ([D&amp;C
-81:1-2](https://www.lds.org/scriptures/dc-testament/dc/81.1-2?lang=eng#0)).
+Presidency of the High Priesthood" ([D&amp;C 81:1-2](/scriptures/dc-
+testament/dc/81.1-2?lang=eng#0)).
 
 On April 3, 1836, in the Kirtland Temple, the same heavenly beings that
 appeared to the Savior and his three Apostles on the Mount, appeared and
@@ -116,7 +114,7 @@ coming of Christ to rule and reign on the earth forever. Moses appeared and
 conferred the keys of the gathering of Israel. Elias restored the covenants
 and authority given to Abraham. Elijah bestowed the keys and power of turning
 the hearts of the fathers to the children and of the children to their
-fathers. (See [D&amp;C 110:11-16](https://www.lds.org/scriptures/dc-
+fathers. (See [D&amp;C 110:11-16](/scriptures/dc-
 testament/dc/110.11-16?lang=eng#10).)
 
 These same keys of the kingdom held by Peter, James, and John, who served in
@@ -129,10 +127,9 @@ and for the Church.
 In President Kimball is concentrated the governing power of the priesthood. He
 possesses the keys pertaining to the dispensation of the fulness of times,
 including all the keys of former dispensations (see [D&amp;C
-112:30-32](https://www.lds.org/scriptures/dc-
-testament/dc/112.30-32?lang=eng#29)). There is never but one on the earth at a
-time on whom these keys and powers are conferred. President Kimball, who will
-speak to us in a few moments, is God's prophet.
+112:30-32](/scriptures/dc-testament/dc/112.30-32?lang=eng#29)). There is never
+but one on the earth at a time on whom these keys and powers are conferred.
+President Kimball, who will speak to us in a few moments, is God's prophet.
 
 News reporters listened intently for a possible dramatic story that might
 indicate new direction to the Church when Spencer W. Kimball became President
@@ -166,7 +163,7 @@ you ... do in all holiness of heart. ...
 given;
 
 "... they are given for the benefit of those who love me and keep all my
-commandments." ([D&amp;C 46:7-9](https://www.lds.org/scriptures/dc-
+commandments." ([D&amp;C 46:7-9](/scriptures/dc-
 testament/dc/46.7-9?lang=eng#6).)
 
 That revelation continues: "All have not every gift [but] ... every man is given
@@ -176,15 +173,14 @@ a gift by the Spirit of God.
 God.
 
 "To others it is given to believe on their words." ([D&amp;C 46:11,
-13-14](https://www.lds.org/scriptures/dc-
-testament/dc/46.11%2C13-14?lang=eng#10).)
+13-14](/scriptures/dc-testament/dc/46.11,13-14?lang=eng#10).)
 
 We can receive direction for ourselves and our families by personal revelation
 in answer to our humble prayers and by being in tune with God's prophet. The
 Lord has always communicated to his people through his prophet. The Lord's
 spokesmen are not self-appointed, but called of God. No man can take it unto
 himself. He must be called of God as was Aaron. (See [Heb.
-5:4](https://www.lds.org/scriptures/nt/heb/5.4?lang=eng#3).)
+5:4](/scriptures/nt/heb/5.4?lang=eng#3).)
 
 The day the Church was organized, 150 years ago, the Lord cautioned the
 members to carefully follow his newly called prophet: "Wherefore, ... thou shalt
@@ -192,14 +188,13 @@ give heed unto all his words and commandments which he shall give unto you as
 he receiveth them, walking in all holiness before me;
 
 "For his word ye shall receive, as if from mine own mouth, in all patience and
-faith" ([D&amp;C 21:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-5?lang=eng#3)).
+faith" ([D&amp;C 21:4-5](/scriptures/dc-testament/dc/21.4-5?lang=eng#3)).
 
 The Lord then follows with this promise, if we obey: "For by doing these
 things the gates of hell shall not prevail against you; yea, and the Lord God
 will disperse the powers of darkness from before you, and cause the heavens to
-shake for your good, and his name's glory" ([D&amp;C
-21:6](https://www.lds.org/scriptures/dc-testament/dc/21.6?lang=eng#5)).
+shake for your good, and his name's glory" ([D&amp;C 21:6](/scriptures/dc-
+testament/dc/21.6?lang=eng#5)).
 
 The work we have been assigned to do has been placed by the Almighty in the
 hands of a fearless leader. By your sustaining with uplifted hands, you have
@@ -210,7 +205,7 @@ leaders, said: "They shall speak as they are moved upon by the Holy Ghost.
 "And whatsoever they shall speak when moved upon by the Holy Ghost shall be
 scripture, shall be the will of the Lord, shall be the mind of the Lord, shall
 be the word of the Lord, shall be the voice of the Lord, and the power of God
-unto salvation." ([D&amp;C 68:3-4](https://www.lds.org/scriptures/dc-
+unto salvation." ([D&amp;C 68:3-4](/scriptures/dc-
 testament/dc/68.3-4?lang=eng#2).)
 
 President Kimball holds all the keys for the Church to accomplish its divine
@@ -225,7 +220,7 @@ the glory of the Father to reward the righteous and to establish his kingdom
 in power, bringing in a reign of righteousness, and peace. "For the Son of man
 shall come in the glory of his Father with his angels; and then he shall
 reward every man according to his works" ([Matt.
-16:27](https://www.lds.org/scriptures/nt/matt/16.27?lang=eng#26)).
+16:27](/scriptures/nt/matt/16.27?lang=eng#26)).
 
 This is the Church of Jesus Christ--reestablished by the Savior and his
 ancient Apostles.
@@ -235,4 +230,6 @@ leading us in teaching the world the true gospel of Christ.
 
 God, our Eternal Father, lives, as does his Only Begotten Son, the Savior of
 us all, in whose holy name I testify, amen.
+
+## References
 

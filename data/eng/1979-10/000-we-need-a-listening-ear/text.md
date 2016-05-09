@@ -14,9 +14,8 @@ Father answered those prayers with blessings upon me in such rich abundance.
 
 Brethren and sisters, once again I call to our attention the fourth
 commandment given by the Lord to Moses on Mount Sinai: "Remember the sabbath
-day, to keep it holy" ([Ex.
-20:8](https://www.lds.org/scriptures/ot/ex/20.8?lang=eng#7)). Let us observe
-it strictly in our homes and in our families. Let us refrain from all
+day, to keep it holy" ([Ex. 20:8](/scriptures/ot/ex/20.8?lang=eng#7)). Let us
+observe it strictly in our homes and in our families. Let us refrain from all
 unnecessary labors. Sunday is not a day for hunting or fishing, nor for
 swimming, picnicking, boating, or engaging in any other sports. The stores in
 areas where we are more numerous would not long remain open on Sunday if the
@@ -26,8 +25,8 @@ Saints refrained from shopping on that day. Remember, the Lord has said:
 shalt go to the house of prayer and offer up thy sacraments upon my holy day;
 
 "For verily this is a day appointed unto you to rest from your labors, and to
-pay thy devotions unto the Most High" ([D&amp;C
-59:9-10](https://www.lds.org/scriptures/dc-testament/dc/59.9-10?lang=eng#8)).
+pay thy devotions unto the Most High" ([D&amp;C 59:9-10](/scriptures/dc-
+testament/dc/59.9-10?lang=eng#8)).
 
 And then comes the glorious promise:
 
@@ -36,8 +35,7 @@ and countenances, not with much laughter, for this is sin, but with a glad
 heart and a cheerful countenance--
 
 "Verily I say, that inasmuch as ye do this, the fulness of the earth is yours"
-([D&amp;C 59:15-16](https://www.lds.org/scriptures/dc-
-testament/dc/59.15-16?lang=eng#14)).
+([D&amp;C 59:15-16](/scriptures/dc-testament/dc/59.15-16?lang=eng#14)).
 
 Once again I express pleasure with the response that has come from our urging
 the planting of fruit trees and gardens. Surely as the harvest season comes to
@@ -84,7 +82,7 @@ prayers.
 It would not hurt us, either, if we paused at the end of our prayers to do
 some intense listening--even for a moment or two--always praying, as the
 Savior did, "not my will, but thine, be done" ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41)).
+22:42](/scriptures/nt/luke/22.42?lang=eng#41)).
 
 I love the wisdom of Benjamin Franklin when he said, "Work as if you were to
 live a hundred years, pray as if you were to die tomorrow" (John Bartlett,
@@ -121,18 +119,17 @@ acquainted.
 
 From time immemorial the Lord has counseled us to be a record-keeping people.
 In Exodus we read, "And Moses wrote all the words of the Lord" ([Ex.
-24:4](https://www.lds.org/scriptures/ot/ex/24.4?lang=eng#3)).
+24:4](/scriptures/ot/ex/24.4?lang=eng#3)).
 
 And further: "And it came to pass that the Lord spake unto Moses, saying:
 Behold, I reveal unto you concerning this heaven, and this earth; write the
-words which I speak" ([Moses
-2:1](https://www.lds.org/scriptures/pgp/moses/2.1?lang=eng#0)).
+words which I speak" ([Moses 2:1](/scriptures/pgp/moses/2.1?lang=eng#0)).
 
 Nephi said to his brothers as they journeyed from the wilderness back to
 Jerusalem to obtain the plates of brass: "Behold, it is wisdom in God that we
 should obtain these records, that we may preserve unto our children the
 language of our fathers" ([1 Ne.
-3:19](https://www.lds.org/scriptures/bofm/1-ne/3.19?lang=eng#18)).
+3:19](/scriptures/bofm/1-ne/3.19?lang=eng#18)).
 
 When the Savior visited this continent following his resurrection, he
 commanded the Nephites to bring their records up to date, saying:
@@ -143,12 +140,11 @@ commanded the Nephites to bring their records up to date, saying:
 
 "And it came to pass that Jesus commanded that it should be written; therefore
 it was written according as he commanded" ([3 Ne. 23:4, 11,
-13](https://www.lds.org/scriptures/bofm/3-ne/23.4%2C11%2C13?lang=eng#3)).
+13](/scriptures/bofm/3-ne/23.4,11,13?lang=eng#3)).
 
 And in our day the Lord said to the Prophet Joseph Smith, "And again, let all
 the records be had in order, that they may be put in the archives of my holy
-temple" ([D&amp;C 127:9](https://www.lds.org/scriptures/dc-
-testament/dc/127.9?lang=eng#8)).
+temple" ([D&amp;C 127:9](/scriptures/dc-testament/dc/127.9?lang=eng#8)).
 
 Let us then continue on in this important work of recording the things we do,
 the things we say, the things we think, to be in accordance with the
@@ -168,8 +164,7 @@ birth control.
 The strengthening of family ties should become a rallying cry for Latter-day
 Saint families everywhere. So also should a return to chastity, our most
 valuable possession. Chastity and virtue are "most dear and precious above all
-things" ([Moro.
-9:9](https://www.lds.org/scriptures/bofm/moro/9.9?lang=eng#8)), more valuable
+things" ([Moro. 9:9](/scriptures/bofm/moro/9.9?lang=eng#8)), more valuable
 than rubies or diamonds, than herds and flocks, than gold and silver, or than
 automobiles and land. But, sadly, in many cases they are on sale at the
 cheapest shops and at the cheapest prices.
@@ -203,7 +198,7 @@ Saints.
 
 "Nevertheless neither is the man without the woman, neither the woman without
 the man, in the Lord" ([1 Cor.
-11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10)).
+11:11](/scriptures/nt/1-cor/11.11?lang=eng#10)).
 
 Brethren, we cannot be exalted without our wives. There can be no heaven
 without righteous women.
@@ -219,12 +214,12 @@ walking in obedience to the commandments, shall receive health in their navel
 and marrow to their bones;
 
 "And shall find wisdom and great treasures of knowledge, even hidden
-treasures" ([D&amp;C 89:18-19](https://www.lds.org/scriptures/dc-
+treasures" ([D&amp;C 89:18-19](/scriptures/dc-
 testament/dc/89.18-19?lang=eng#17)).
 
 The revelation also says: "I have warned you, and forewarn you, by giving unto
-you this word of wisdom by revelation" ([D&amp;C
-89:4](https://www.lds.org/scriptures/dc-testament/dc/89.4?lang=eng#3)).
+you this word of wisdom by revelation" ([D&amp;C 89:4](/scriptures/dc-
+testament/dc/89.4?lang=eng#3)).
 
 The tobacco habit can be cured by merely living the Word of Wisdom and the
 commandments of the Lord.
@@ -260,7 +255,7 @@ The gospel of Jesus Christ is for all the world. It is the message of
 salvation to all mankind. It is rolling forth from this land of freedom--a
 land of divine destiny--to all the world, as the great stone which Daniel saw
 hewn out of the mountain without hands (see [Dan.
-2:45](https://www.lds.org/scriptures/ot/dan/2.45?lang=eng#44)).
+2:45](/scriptures/ot/dan/2.45?lang=eng#44)).
 
 Brothers and sisters, this is the work of the Lord. It is true. May the Lord
 bless us all in our homes and families as we strive to draw nearer to him and
@@ -270,4 +265,6 @@ Lord's true kingdom here upon the earth.
 
 This is my prayer and my testimony in the name of our beloved Savior, Jesus
 Christ, amen.
+
+## References
 

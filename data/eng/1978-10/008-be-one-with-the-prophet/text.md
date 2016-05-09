@@ -25,3 +25,5 @@ that may be, in whatever land, I pray for each of us, and most especially for
 me, as I acknowledge my weaknesses and stand before you to accept this great
 calling. In the name of Jesus Christ, amen.
 
+## References
+

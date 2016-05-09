@@ -35,12 +35,12 @@ adequate guidelines to shape their lives and their habits. More children are
 punished for mimicking their parents than ever for disobeying them. We should
 _be_ what we want to _see._
 
-We find in Doctrine and Covenants 88:119 [[D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118)]
-the verse that describes the kind of homes we should strive to create:
-"Organize yourselves; prepare every needful thing; and establish a house, even
-a house of prayer, a house of fasting, a house of faith, a house of learning,
-a house of glory, a house of order, a house of God."
+We find in Doctrine and Covenants 88:119 [[D&amp;C 88:119](/scriptures/dc-
+testament/dc/88.119?lang=eng#118)] the verse that describes the kind of homes
+we should strive to create: "Organize yourselves; prepare every needful thing;
+and establish a house, even a house of prayer, a house of fasting, a house of
+faith, a house of learning, a house of glory, a house of order, a house of
+God."
 
 We know that the world is flooded with books and magazines of negative value
 for us and for our children. The books in our homes are to be read, and there
@@ -73,14 +73,14 @@ our homes and discuss them with our families. This is an ongoing challenge for
 all of us, but it is worth the effort.
 
 The family should kneel together daily in family prayer. [Alma
-58:10](https://www.lds.org/scriptures/bofm/alma/58.10?lang=eng#9) tells us:
-"Therefore we did pour out our souls in prayer to God, that he would
-strengthen us and deliver us out of the hands of our enemies, yea, and also
-give us strength that we might retain our cities, and our lands, and our
-possessions, for the support of our people." Our family has always needed to
-be strengthened--and still does--and kneeling in prayer daily certainly helps.
-Children need to be constantly taught how they should act when they mature and
-have their own families.
+58:10](/scriptures/bofm/alma/58.10?lang=eng#9) tells us: "Therefore we did
+pour out our souls in prayer to God, that he would strengthen us and deliver
+us out of the hands of our enemies, yea, and also give us strength that we
+might retain our cities, and our lands, and our possessions, for the support
+of our people." Our family has always needed to be strengthened--and still
+does--and kneeling in prayer daily certainly helps. Children need to be
+constantly taught how they should act when they mature and have their own
+families.
 
 Mothers and daughters should be ladies and be modest in all ways. Mothers and
 daughters should be active in Relief Society, Young Women, or Primary. Sister
@@ -111,10 +111,10 @@ friendship. Scriptures could be read around the kitchen table, and mothers and
 fathers could explain the teachings of the prophets. Nephi said, "For my soul
 delighteth in the scriptures, and my heart pondereth them, and writeth them
 for the learning and the profit of my children." ([2 Ne.
-4:15](https://www.lds.org/scriptures/bofm/2-ne/4.15?lang=eng#14).) As we
-reflect on our years of rearing children, we can see how we and our loved ones
-have always needed the scriptures. What better could we discuss with our
-children than the scriptures and our love for them?
+4:15](/scriptures/bofm/2-ne/4.15?lang=eng#14).) As we reflect on our years of
+rearing children, we can see how we and our loved ones have always needed the
+scriptures. What better could we discuss with our children than the scriptures
+and our love for them?
 
 Children need to know that their parents love them enough to teach them the
 gospel. Monday evenings can be made special by family home evening--by the
@@ -141,4 +141,6 @@ am a child of God" and mean it. (_Hymns,_ 1985, no. 301.)
 I testify that Jesus is the Christ. I love him; my wife loves him; and we
 deeply desire that our children and grandchildren will love and obey our Lord
 and Savior. In the name of Jesus Christ, amen.
+
+## References
 

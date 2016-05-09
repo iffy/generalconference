@@ -97,12 +97,11 @@ garden here in Japan, and my potatoes are doing well."
 The Lord said, as he planted a garden in Eden,
 
 "... all things which I prepared for the use of man; and man saw that it was
-good for food." ([Moses
-3:8-9](https://www.lds.org/scriptures/pgp/moses/3.8-9?lang=eng#7).)
+good for food." ([Moses 3:8-9](/scriptures/pgp/moses/3.8-9?lang=eng#7).)
 
 "And I, the Lord God, took the man, and put him into the Garden of Eden, to
 dress it, and to keep it." ([Moses
-3:15](https://www.lds.org/scriptures/pgp/moses/3.15?lang=eng#14).)
+3:15](/scriptures/pgp/moses/3.15?lang=eng#14).)
 
 In our own dispensation the Lord spoke:
 
@@ -117,8 +116,7 @@ gardens, or for vineyards;
 use of man, both to please the eye and to gladden the heart;
 
 "Yea, for food and for raiment, for taste and for smell." ([D&amp;C
-59:16-19](https://www.lds.org/scriptures/dc-
-testament/dc/59.16-19?lang=eng#15).)
+59:16-19](/scriptures/dc-testament/dc/59.16-19?lang=eng#15).)
 
 A letter from a little girl said, "I am helping my daddy plant a garden, and
 my little brother is cleaning the yard."
@@ -161,11 +159,11 @@ purchase would be made.
 
 The Lord Jesus Christ said with, I think, some sadness, "Why call ye me, Lord,
 Lord, and do not the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).)
+6:46](/scriptures/nt/luke/6.46?lang=eng#45).)
 
 Then we have the scripture from Ezekiel: "They sit before thee as my people,
 and they hear thy words, but they will not do them." ([Ezek.
-33:31](https://www.lds.org/scriptures/ot/ezek/33.31?lang=eng#30).)
+33:31](/scriptures/ot/ezek/33.31?lang=eng#30).)
 
 When we love the Lord, why do we still break his laws? We implore you, then,
 earnestly, to discontinue the purchase of things on the Sabbath day.
@@ -208,8 +206,7 @@ name? and in thy name have cast out devils? and in thy name done many
 wonderful works?
 
 "And then will I profess unto them, I never knew you: depart from me, ye that
-work iniquity." ([Matt.
-7:21-23](https://www.lds.org/scriptures/nt/matt/7.21-23?lang=eng#20).)
+work iniquity." ([Matt. 7:21-23](/scriptures/nt/matt/7.21-23?lang=eng#20).)
 
 Family stability is fairly well measured by the divorce rate in the community.
 
@@ -256,8 +253,7 @@ some are not. We have located them without the money that the government
 offered, but our compensation has been that mentioned by the Savior:
 
 "Inasmuch as ye have done it unto one of the least of these my brethren, ye
-have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).)
+have done it unto me." ([Matt. 25:40](/scriptures/nt/matt/25.40?lang=eng#39).)
 
 We are grateful to the priesthood and Relief Society sisters and other workers
 who have assisted in finding food, clothing, and shelter for these good
@@ -292,11 +288,10 @@ established the standards.
 
 Again we repeat the stirring words of the Savior: "Why call ye me, Lord, Lord,
 and do not the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).)
+6:46](/scriptures/nt/luke/6.46?lang=eng#45).)
 
 And then again he said, "Say nothing but repentance unto this generation."
-([D&amp;C 6:9](https://www.lds.org/scriptures/dc-
-testament/dc/6.9?lang=eng#8).)
+([D&amp;C 6:9](/scriptures/dc-testament/dc/6.9?lang=eng#8).)
 
 "And I will bring distress upon men," he says, "that they shall walk like
 blind men, because they have sinned against the Lord: and their blood shall be
@@ -305,8 +300,7 @@ poured out as dust. ...
 "Neither their silver nor their gold shall be able to deliver them in the day
 of the Lord's wrath; but the whole land shall be devoured by the fire of his
 jealousy: for he shall make even a speedy riddance of all that dwell in the
-land." ([Zeph.
-1:17-18](https://www.lds.org/scriptures/ot/zeph/1.17-18?lang=eng#16).)
+land." ([Zeph. 1:17-18](/scriptures/ot/zeph/1.17-18?lang=eng#16).)
 
 We continue to warn the people and plead with them, for we are watchmen upon
 the towers, and in our hands we have a trumpet which we must blow loudly and
@@ -314,11 +308,13 @@ sound the alarm.
 
 Isaiah said, "For the nation and kingdom that will not serve thee shall
 perish; yea, those nations shall be utterly wasted." ([Isa.
-60:12](https://www.lds.org/scriptures/ot/isa/60.12?lang=eng#11).)
+60:12](/scriptures/ot/isa/60.12?lang=eng#11).)
 
 As we enter into these sessions of this conference, may we invoke the
 blessings of the Lord upon all the Brethren who will be speaking and upon all
 you who will be listening, that your hearts may be touched and your testimony
 may ring in your hearts. Blessed is the nation whose God is the Lord. I invoke
 the blessings of heaven upon you in the name of Jesus Christ. Amen.
+
+## References
 

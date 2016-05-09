@@ -14,17 +14,15 @@ focus on what choir members can do, I would like to focus on what choir
 members can be. This I do because I witnessed in choir members great examples
 that can inspire and improve the lives of each of you who honestly strives to
 emulate the Lord who said, "I am the light; I have set an example for you."
-([3 Ne. 18:16](https://www.lds.org/scriptures/bofm/3-ne/18.16?lang=eng#15);
-see also [John
-13:15](https://www.lds.org/scriptures/nt/john/13.15?lang=eng#14).) So we
-should strive to learn from His example--and from the good example of those
-who love and follow Him.
+([3 Ne. 18:16](/scriptures/bofm/3-ne/18.16?lang=eng#15); see also [John
+13:15](/scriptures/nt/john/13.15?lang=eng#14).) So we should strive to learn
+from His example--and from the good example of those who love and follow Him.
 
 Members of the Mormon Tabernacle Choir are not superhuman. They are ordinary
 people with ordinary frailties. But therein lies the power of their example.
 They believe this promise from the Lord: "Because thou hast seen thy weakness,
-thou shalt be made strong." ([D&amp;C 135:5](https://www.lds.org/scriptures
-/dc-testament/dc/135.5?lang=eng#4).)
+thou shalt be made strong." ([D&amp;C 135:5](/scriptures/dc-
+testament/dc/135.5?lang=eng#4).)
 
 Before attending their first rehearsal, choir members brought with them not
 only musical education and talent but qualities of personal righteousness.
@@ -33,7 +31,7 @@ from our Savior:
 
 "Ye may show forth good examples unto them in me, and I will make an
 instrument of thee in my hands unto the salvation of many souls." ([Alma
-17:11](https://www.lds.org/scriptures/bofm/alma/17.11?lang=eng#10).)
+17:11](/scriptures/bofm/alma/17.11?lang=eng#10).)
 
 Have you not learned that strength comes to an ordinary soul when given an
 extraordinary calling? The choir has! Indeed, each member seemed to be imbued
@@ -41,16 +39,14 @@ with a real sense of mission, striving for those ten traits that missionaries
 are expected to possess and practice:
 
 "Faith, virtue, knowledge, temperance, patience, brotherly kindness,
-godliness, charity, humility, diligence." ([D&amp;C
-4:6](https://www.lds.org/scriptures/dc-testament/dc/4.6?lang=eng#5).)
+godliness, charity, humility, diligence." ([D&amp;C 4:6](/scriptures/dc-
+testament/dc/4.6?lang=eng#5).)
 
 Those are attributes the Lord deserves from His disciples. Because each of us
 is to be "an example of the believers" ([1 Tim.
-4:12](https://www.lds.org/scriptures/nt/1-tim/4.12?lang=eng#11)), I would like
-to address those ten topics as members of the Mormon Tabernacle Choir "were
-our examples" ([1 Cor.
-10:6](https://www.lds.org/scriptures/nt/1-cor/10.6?lang=eng#5)) in many
-memorable ways.
+4:12](/scriptures/nt/1-tim/4.12?lang=eng#11)), I would like to address those
+ten topics as members of the Mormon Tabernacle Choir "were our examples" ([1
+Cor. 10:6](/scriptures/nt/1-cor/10.6?lang=eng#5)) in many memorable ways.
 
 ## Faith
 
@@ -93,10 +89,9 @@ His will, and you will be a virtuous person." (_Discourses of Brigham Young,_
 sel. John A. Widtsoe, Salt Lake City: Deseret Book Co., 1954, p. 194.)
 
 They applied the word of God (see [Alma
-31:5](https://www.lds.org/scriptures/bofm/alma/31.5?lang=eng#4)) not only in
-song but in sermons of example. After one concert, I was greeted by an
-individual who expressed gratitude in an unusual way. He said, "I am thankful
-for the choir's message."
+31:5](/scriptures/bofm/alma/31.5?lang=eng#4)) not only in song but in sermons
+of example. After one concert, I was greeted by an individual who expressed
+gratitude in an unusual way. He said, "I am thankful for the choir's message."
 
 I asked, "What message did you receive?"
 
@@ -106,17 +101,16 @@ That comment seemed profound to me. What inspired him to feel such a force for
 good? Was it complicated classical music or the excellence of its rendition? I
 doubt it. I believe it was more likely communication by the Spirit, which
 allowed both the giver and receiver to be edified. (See [D&amp;C
-50:21-22](https://www.lds.org/scriptures/dc-
-testament/dc/50.21-22?lang=eng#20).) And very possibly, the spirit of the
-listener was moved most by melodies soft and simple, sung with sweet
-sincerity. When the choir sang "The Lord's Prayer," for example, audiences
-were hushed and attentive. They seemed to understand, without fully knowing
-either the language or the history of the song.
+50:21-22](/scriptures/dc-testament/dc/50.21-22?lang=eng#20).) And very
+possibly, the spirit of the listener was moved most by melodies soft and
+simple, sung with sweet sincerity. When the choir sang "The Lord's Prayer,"
+for example, audiences were hushed and attentive. They seemed to understand,
+without fully knowing either the language or the history of the song.
 
 The virtue of choir members brought blessings to their own lives. When the
 tour was completed and each was safely home, I thought of this promise from
 the Lord: "If thou art faithful and walk in the paths of virtue before me, I
-will preserve thy life." ([D&amp;C 25:2](https://www.lds.org/scriptures/dc-
+will preserve thy life." ([D&amp;C 25:2](/scriptures/dc-
 testament/dc/25.2?lang=eng#1).) That same promise applies to me and to you.
 
 ## Knowledge
@@ -137,12 +131,11 @@ echoed the scriptural hope "that perhaps they might bring [others] to the
 knowledge of the Lord their God, ... that they might also be brought to rejoice
 in the Lord their God, that they might become friendly to one another, and
 that there should be no more contentions in all the land." ([Mosiah
-28:2](https://www.lds.org/scriptures/bofm/mosiah/28.2?lang=eng#1).)
+28:2](/scriptures/bofm/mosiah/28.2?lang=eng#1).)
 
 Members of the choir knew "that after a people have been once enlightened by
 the Spirit of God, and have had great knowledge of things pertaining to
-righteousness" ([Alma
-24:30](https://www.lds.org/scriptures/bofm/alma/24.30?lang=eng#29)), lives
+righteousness" ([Alma 24:30](/scriptures/bofm/alma/24.30?lang=eng#29)), lives
 would never again be the same.
 
 Just think of the good you can do if you accept a difficult challenge and
@@ -151,9 +144,8 @@ pursue knowledge--then use it to bless others, as did the choir!
 ## Temperance
 
 "To knowledge," the Apostle Peter wrote, add "temperance." ([2 Pet.
-1:6](https://www.lds.org/scriptures/nt/2-pet/1.6?lang=eng#5).) Temperance
-suggests sobriety and self-restraint in action. It reminds one of covenants
-made.
+1:6](/scriptures/nt/2-pet/1.6?lang=eng#5).) Temperance suggests sobriety and
+self-restraint in action. It reminds one of covenants made.
 
 Members of the choir were always temperate and well disciplined, not from
 without but from within. Completely obedient to the Word of Wisdom, they were
@@ -162,11 +154,11 @@ leisure, their grueling pace allowed them to perform for audiences that
 otherwise might have been excluded.
 
 Repeatedly, scriptures teach that we be "temperate in all things." ([1 Cor.
-9:25](https://www.lds.org/scriptures/nt/1-cor/9.25?lang=eng#24); [Alma
-7:23](https://www.lds.org/scriptures/bofm/alma/7.23?lang=eng#22); [Alma
-38:10](https://www.lds.org/scriptures/bofm/alma/38.10?lang=eng#9); [D&amp;C
-12:8](https://www.lds.org/scriptures/dc-testament/dc/12.8?lang=eng#7)).
-Temperance can protect each of us from the aftermath of excess.
+9:25](/scriptures/nt/1-cor/9.25?lang=eng#24); [Alma
+7:23](/scriptures/bofm/alma/7.23?lang=eng#22); [Alma
+38:10](/scriptures/bofm/alma/38.10?lang=eng#9); [D&amp;C 12:8](/scriptures/dc-
+testament/dc/12.8?lang=eng#7)). Temperance can protect each of us from the
+aftermath of excess.
 
 ## Patience
 
@@ -179,12 +171,12 @@ she attempted to feel fresh with the same clothing day after day.
 Patience is a divine attribute. The Book of Mormon invites us to "come to a
 knowledge of the goodness of God, and his matchless power, and his wisdom, and
 his patience, and his long-suffering towards the children of men." ([Mosiah
-4:6](https://www.lds.org/scriptures/bofm/mosiah/4.6?lang=eng#5).)
+4:6](/scriptures/bofm/mosiah/4.6?lang=eng#5).)
 
 Although choir members are not perfect, each one seemed to epitomize
 scriptural counsel to "continue in patience until ye are perfected." ([D&amp;C
-67:13](https://www.lds.org/scriptures/dc-testament/dc/67.13?lang=eng#12).) If
-they can do it, each of us can also develop that precious talent of patience.
+67:13](/scriptures/dc-testament/dc/67.13?lang=eng#12).) If they can do it,
+each of us can also develop that precious talent of patience.
 
 ## Brotherly Kindness
 
@@ -198,7 +190,7 @@ typified this scriptural analogy:
 
 "The whole body fitly joined together ... according to the effectual working ...
 of every part, maketh increase of the body unto the edifying of itself in
-love." ([Eph. 4:16](https://www.lds.org/scriptures/nt/eph/4.16?lang=eng#15).)
+love." ([Eph. 4:16](/scriptures/nt/eph/4.16?lang=eng#15).)
 
 Brotherly kindness overcomes the rudeness of selfish intent. Each of us can
 develop brotherly kindness at home, at school, at work, or at play.
@@ -206,18 +198,17 @@ develop brotherly kindness at home, at school, at work, or at play.
 ## Charity
 
 The Book of Mormon defines charity as the pure love of Christ. (See [Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).) It further
-teaches that the "Lord God hath given a commandment that all men should have
-charity, which charity is love." ([2 Ne.
-26:30](https://www.lds.org/scriptures/bofm/2-ne/26.30?lang=eng#29); see also
-[Ether 12:34](https://www.lds.org/scriptures/bofm/ether/12.34?lang=eng#33).)
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46).) It further teaches that the
+"Lord God hath given a commandment that all men should have charity, which
+charity is love." ([2 Ne. 26:30](/scriptures/bofm/2-ne/26.30?lang=eng#29); see
+also [Ether 12:34](/scriptures/bofm/ether/12.34?lang=eng#33).)
 
 I saw choir members extend that love to countless souls. For those in need,
 members quietly contributed money, food, and goods. They shared freely of
 their precious time and talent without any thought of personal acclaim or
 recompense. Truly, "charity never faileth" any of us. ([1 Cor.
-13:8](https://www.lds.org/scriptures/nt/1-cor/13.8?lang=eng#7); [Moro.
-7:46](https://www.lds.org/scriptures/bofm/moro/7.46?lang=eng#45).)
+13:8](/scriptures/nt/1-cor/13.8?lang=eng#7); [Moro.
+7:46](/scriptures/bofm/moro/7.46?lang=eng#45).)
 
 ## Humility
 
@@ -229,17 +220,15 @@ scriptural pattern:
 humility, and firmer and firmer in the faith of Christ, unto the filling their
 souls with joy and consolation, yea, even to the purifying and the
 sanctification of their hearts." ([Hel.
-3:35](https://www.lds.org/scriptures/bofm/hel/3.35?lang=eng#34).)
+3:35](/scriptures/bofm/hel/3.35?lang=eng#34).)
 
 Choir members became "subject one to another" ([1 Pet.
-5:5](https://www.lds.org/scriptures/nt/1-pet/5.5?lang=eng#4)) and imparted
-"the word of God, one with another" ([Alma
-1:20](https://www.lds.org/scriptures/bofm/alma/1.20?lang=eng#19)) as true
+5:5](/scriptures/nt/1-pet/5.5?lang=eng#4)) and imparted "the word of God, one
+with another" ([Alma 1:20](/scriptures/bofm/alma/1.20?lang=eng#19)) as true
 disciples do. They were humble and teachable, as submissive Saints should be.
-(See [Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18); [D&amp;C
-105:12](https://www.lds.org/scriptures/dc-testament/dc/105.12?lang=eng#11).)
-Their examples of humility should ennoble our souls.
+(See [Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18); [D&amp;C
+105:12](/scriptures/dc-testament/dc/105.12?lang=eng#11).) Their examples of
+humility should ennoble our souls.
 
 ## Diligence
 
@@ -254,8 +243,7 @@ else to follow, but for her alone. Her children and grandchildren had pleaded
 that she remain on assignment. So she continued in all diligence, never
 missing a single concert! She nobly fulfilled this scriptural counsel:
 "Therefore be diligent ... in whatsoever difficult circumstances [you] may be."
-([D&amp;C 6:18](https://www.lds.org/scriptures/dc-
-testament/dc/6.18?lang=eng#17).)
+([D&amp;C 6:18](/scriptures/dc-testament/dc/6.18?lang=eng#17).)
 
 Her example can bless each of you, just as it did her family and me.
 
@@ -263,18 +251,17 @@ Her example can bless each of you, just as it did her family and me.
 
 Godliness is an attribute that seems as difficult to define as it is to
 attain. Scriptures refer to "the mystery of godliness." ([1 Tim.
-3:16](https://www.lds.org/scriptures/nt/1-tim/3.16?lang=eng#15); [D&amp;C
-19:10](https://www.lds.org/scriptures/dc-testament/dc/19.10?lang=eng#9).)
-Because it is so special, I have chosen to speak of it last.
+3:16](/scriptures/nt/1-tim/3.16?lang=eng#15); [D&amp;C 19:10](/scriptures/dc-
+testament/dc/19.10?lang=eng#9).) Because it is so special, I have chosen to
+speak of it last.
 
 Simon Peter counseled us "to be in all holy conversation and godliness,
 looking for and hasting unto the coming of the day of God." ([2 Pet.
-3:11-12](https://www.lds.org/scriptures/nt/2-pet/3.11-12?lang=eng#10).)
+3:11-12](/scriptures/nt/2-pet/3.11-12?lang=eng#10).)
 
 "The power of godliness is manifest" in the ordinances of the priesthood.
-([D&amp;C 84:20](https://www.lds.org/scriptures/dc-
-testament/dc/84.20?lang=eng#19).) Godliness is not a product of perfection; it
-comes of concentration and consecration.
+([D&amp;C 84:20](/scriptures/dc-testament/dc/84.20?lang=eng#19).) Godliness is
+not a product of perfection; it comes of concentration and consecration.
 
 Godliness characterizes each of you who truly loves the Lord. You are
 constantly mindful of the Savior's atonement and rejoice in His unconditional
@@ -314,9 +301,10 @@ _Love, so amazing, so divine,_
 _Demands my soul, my life, my all!_
 
 Such are lessons taught by those who "serve unto the example and shadow of
-heavenly things." ([Heb.
-8:5](https://www.lds.org/scriptures/nt/heb/8.5?lang=eng#4).) Unitedly members
-of the Mormon Tabernacle Choir testify of the living Lord and of His Church
-restored in these latter days, as do I. May God bless us to lift our lives by
-their example, I pray in the name of Jesus Christ, amen.
+heavenly things." ([Heb. 8:5](/scriptures/nt/heb/8.5?lang=eng#4).) Unitedly
+members of the Mormon Tabernacle Choir testify of the living Lord and of His
+Church restored in these latter days, as do I. May God bless us to lift our
+lives by their example, I pray in the name of Jesus Christ, amen.
+
+## References
 

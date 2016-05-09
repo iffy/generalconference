@@ -208,10 +208,9 @@ follow God's plan and _counsel_ with their _councils._
 
 "Come now," said the Lord in an earlier dispensation through the prophet
 Isaiah, "and let us reason together" ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17)). And in this
-dispensation, He repeated that admonition: "Let us reason together, that ye
-may understand" ([D&amp;C 50:10](https://www.lds.org/scriptures/dc-
-testament/dc/50.10?lang=eng#9)).
+1:18](/scriptures/ot/isa/1.18?lang=eng#17)). And in this dispensation, He
+repeated that admonition: "Let us reason together, that ye may understand"
+([D&amp;C 50:10](/scriptures/dc-testament/dc/50.10?lang=eng#9)).
 
 Let us remember that the basic council of the Church is the family council.
 Fathers and mothers should apply diligently the principles I have discussed in
@@ -225,4 +224,6 @@ have said today. I testify that we can bring the full force of God's revealed
 plan for gospel governance into our ministries as we counsel together. May God
 bless us to stand united as we strengthen the Church and our members, I pray
 in the name of Jesus Christ, amen.
+
+## References
 

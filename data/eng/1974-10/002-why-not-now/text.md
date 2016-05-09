@@ -98,13 +98,13 @@ you wish to continue to delay deciding about Christ and his church.
 However, Joshua didn't say choose you next year whom you will serve; he spoke
 of "this day," while there is still daylight and before the darkness becomes
 more and more normal. (See [Josh.
-24:15](https://www.lds.org/scriptures/ot/josh/24.15?lang=eng#14).)
+24:15](/scriptures/ot/josh/24.15?lang=eng#14).)
 
 When Jesus called his first disciples, the scriptures record that they left
 their ships and nets "straightway." They didn't ask to join Jesus _after_ the
 fishing season; they didn't even delay their response in order to make just
 one more catch. They left "straightway"! (See [Matt.
-4:20](https://www.lds.org/scriptures/nt/matt/4.20?lang=eng#19).)
+4:20](/scriptures/nt/matt/4.20?lang=eng#19).)
 
 Act, my brothers and sisters, for once the soul is tilted toward belief, and
 once there is even a desire to believe, then marvelous things begin to happen!
@@ -133,7 +133,7 @@ be good neighbors, but not now. One can play upon the harpstrings of
 hesitations and reservations just so long, and then one faces that special
 moment--a moment when what has been sensed, mutely, suddenly finds voice and
 cries out with tears, "Lord, I believe; help thou mine unbelief." ([Mark
-9:24](https://www.lds.org/scriptures/nt/mark/9.24?lang=eng#23).)
+9:24](/scriptures/nt/mark/9.24?lang=eng#23).)
 
 The truth is that "not yet" usually means "never." Trying to run away from the
 responsibility to decide about Christ is childish. Pilate sought to refuse
@@ -167,4 +167,6 @@ longer possible to stand up!
 Meanwhile, may we be different in order to make a difference in the world. And
 may God hasten that time for all our sakes, I pray in the name of Jesus
 Christ. Amen.
+
+## References
 

@@ -7,7 +7,7 @@ your ways my ways, saith the Lord.
 
 "For as the heavens are higher than the earth, so are my ways higher than your
 ways, and my thoughts than your thoughts" ([Isa.
-55:8-9](https://www.lds.org/scriptures/ot/isa/55.8-9?lang=eng#7)).
+55:8-9](/scriptures/ot/isa/55.8-9?lang=eng#7)).
 
 The thoughts and ways of God provide for man the greatest opportunities and
 blessings of this life.
@@ -15,31 +15,31 @@ blessings of this life.
 The Lord gave man one of the highest goals for this life when he said, "And
 this is life eternal, that they might know thee the only true God, and Jesus
 Christ, whom thou hast sent" ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)).
+17:3](/scriptures/nt/john/17.3?lang=eng#2)).
 
 The Lord also commanded man--and it is well known by almost all
 Christians--"Thou shalt love the Lord thy God with all thy heart, and with all
 thy soul, and with all thy mind" ([Matt.
-22:37](https://www.lds.org/scriptures/nt/matt/22.37?lang=eng#36)). To know and
-love God are sacred blessings. One of the ways that we can come to know God
-and Jesus Christ is through sincere prayer.
+22:37](/scriptures/nt/matt/22.37?lang=eng#36)). To know and love God are
+sacred blessings. One of the ways that we can come to know God and Jesus
+Christ is through sincere prayer.
 
 The Lord commands, "Pray always, and I will pour out my Spirit upon you, and
 great shall be your blessing--yea, even more than if you should obtain
-treasures of earth" ([D&amp;C 19:38](https://www.lds.org/scriptures/dc-
+treasures of earth" ([D&amp;C 19:38](/scriptures/dc-
 testament/dc/19.38?lang=eng#37)).
 
 In the Bible we are commanded to "pray without ceasing.
 
 "In everything give thanks: for this is the will of God in Christ Jesus
 concerning you" ([1 Thes.
-5:17-18](https://www.lds.org/scriptures/nt/1-thes/5.17-18?lang=eng#16)).
+5:17-18](/scriptures/nt/1-thes/5.17-18?lang=eng#16)).
 
 Prayer to God will give you power to conquer and overcome the evil powers and
 influences of Satan and this world. The Lord said, "Pray always, that you may
 come off conqueror; yea, that you may conquer Satan, and that you may escape
 the hands of the servants of Satan that do uphold his work" ([D&amp;C
-10:5](https://www.lds.org/scriptures/dc-testament/dc/10.5?lang=eng#4)).
+10:5](/scriptures/dc-testament/dc/10.5?lang=eng#4)).
 
 Prayer to God is a sacred blessing. The Savior again counseled man on how to
 pray and we know the Lord's Prayer well. The Lord said, "After this manner
@@ -53,7 +53,7 @@ therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
 
 "And lead us not into temptation, but deliver us from evil: For thine is the
 kingdom, and the power, and the glory, for ever. Amen" ([Matt.
-6:9-13](https://www.lds.org/scriptures/nt/matt/6.9-13?lang=eng#8)).
+6:9-13](/scriptures/nt/matt/6.9-13?lang=eng#8)).
 
 We should pray to our Father in Heaven with a hallowed heart; we should pray
 for his kingdom to come, and by so doing we commit ourselves to help build the
@@ -75,7 +75,7 @@ So important is the need to pray that the prophet Nephi taught "that ye should
 not perform any thing unto the Lord save in the first place ye shall pray unto
 the Father in the name of Christ, that he will consecrate thy performance unto
 thee, that thy performance may be for the welfare of thy soul" ([2 Ne.
-32:9](https://www.lds.org/scriptures/bofm/2-ne/32.9?lang=eng#8)).
+32:9](/scriptures/bofm/2-ne/32.9?lang=eng#8)).
 
 To pray meaningfully requires that one, insofar as possible, know the true
 character of God. As mentioned, we have been commanded to know God. Prayer
@@ -87,7 +87,7 @@ said, "Behold, he who has repented of his sins, the same is forgiven, and I,
 the Lord, remember them no more.
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them" ([D&amp;C 58:42-43](https://www.lds.org/scriptures/dc-
+them and forsake them" ([D&amp;C 58:42-43](/scriptures/dc-
 testament/dc/58.42-43?lang=eng#41)).
 
 We should build that message into our hearts, and purify and build our minds
@@ -101,7 +101,7 @@ shall find; knock, and it shall be opened unto you:
 
 "For every one that asketh receiveth; and he that seeketh findeth; and to him
 that knocketh it shall be opened" ([Matt.
-7:7-8](https://www.lds.org/scriptures/nt/matt/7.7-8?lang=eng#6)).
+7:7-8](/scriptures/nt/matt/7.7-8?lang=eng#6)).
 
 We should live and work, watch and wait, and continually pursue life
 prayerfully, repentantly, and purposefully.
@@ -117,7 +117,7 @@ pray.
 must not perform any thing unto the Lord save in the first place ye shall pray
 unto the Father in the name of Christ, that he will consecrate thy performance
 unto thee, that thy performance may be for the welfare of thy soul" ([2 Ne.
-32:8-9](https://www.lds.org/scriptures/bofm/2-ne/32.8-9?lang=eng#7)).
+32:8-9](/scriptures/bofm/2-ne/32.8-9?lang=eng#7)).
 
 Enos, a servant of the Lord--and this has been quoted a time or two in this
 conference, so apparently the Lord wanted emphasis on this--Enos speaks on the
@@ -137,7 +137,7 @@ high that it reached the heavens.
 thou shalt be blessed.
 
 "And I, Enos, knew that God could not lie; wherefore, my guilt was swept away"
-([Enos 1:2-6](https://www.lds.org/scriptures/bofm/enos/1.2-6?lang=eng#1)).
+([Enos 1:2-6](/scriptures/bofm/enos/1.2-6?lang=eng#1)).
 
 All of us, like Enos, need to continually have our sins and weaknesses swept
 away through repentance, confession, and sincere prayer. I repeat the Lord's
@@ -145,7 +145,7 @@ promise: "Behold, he who has repented of his sins, the same is forgiven, and
 I, the Lord, remember them no more.
 
 "By this ye may know if a man repenteth of his sins--behold, he will confess
-them and forsake them" ([D&amp;C 58:42-43](https://www.lds.org/scriptures/dc-
+them and forsake them" ([D&amp;C 58:42-43](/scriptures/dc-
 testament/dc/58.42-43?lang=eng#41)).
 
 Repentance will purify and cleanse the mind and body and make room for greater
@@ -176,7 +176,7 @@ mouth of the angel.
 filled with the love of God, and always retain a remission of your sins; and
 ye shall grow in the knowledge of the glory of him that created you, or in the
 knowledge of that which is just and true" ([Mosiah
-4:9-12](https://www.lds.org/scriptures/bofm/mosiah/4.9-12?lang=eng#8)).
+4:9-12](/scriptures/bofm/mosiah/4.9-12?lang=eng#8)).
 
 The scriptures give us many promises regarding the power and the need of
 personal prayer. Jesus commanded men: "Ye must watch and pray always, lest ye
@@ -185,7 +185,7 @@ be tempted by the devil, and ye be led away captive by him.
 "And as I have prayed among you even so shall ye pray in my church, among my
 people who do repent and are baptized in my name. Behold I am the light; I
 have set an example for you" ([3 Ne.
-18:15-16](https://www.lds.org/scriptures/bofm/3-ne/18.15-16?lang=eng#14)).
+18:15-16](/scriptures/bofm/3-ne/18.15-16?lang=eng#14)).
 
 "Behold, verily, verily, I say unto you," the Lord continued, "ye must watch
 and pray always lest ye enter into temptation; for Satan desireth to have you,
@@ -195,12 +195,11 @@ that he may sift you as wheat.
 
 "And whatsoever ye shall ask the Father in my name, which is right, believing
 that ye shall receive, behold it shall be given unto you" ([3 Ne.
-18:18-20](https://www.lds.org/scriptures/bofm/3-ne/18.18-20?lang=eng#17)).
+18:18-20](/scriptures/bofm/3-ne/18.18-20?lang=eng#17)).
 
 Jesus Christ counsels man to have family prayer. He said, "Pray in your
 families unto the Father, always in my name, that your wives and your children
-may be blessed" ([3 Ne.
-18:21](https://www.lds.org/scriptures/bofm/3-ne/18.21?lang=eng#20)).
+may be blessed" ([3 Ne. 18:21](/scriptures/bofm/3-ne/18.21?lang=eng#20)).
 
 Very few pray too much. It is not one of our weaknesses.
 
@@ -208,7 +207,7 @@ Parents have the sacred responsibility to teach their children the importance
 and value of prayer, and the responsibility to teach their children how pray.
 In many homes, even some of the best prayers are ignored and neglected. Prayer
 is sacred and Jesus said: "Trifle not with sacred things" ([D&amp;C
-6:12](https://www.lds.org/scriptures/dc-testament/dc/6.12?lang=eng#11)).
+6:12](/scriptures/dc-testament/dc/6.12?lang=eng#11)).
 
 Another blessing available through prayer is feeling the love of God in your
 heart and soul. We have in the scriptures this sacred promise: "Wherefore, my
@@ -217,10 +216,12 @@ may be filled with this love, which he hath bestowed upon all who are true
 followers of his Son, Jesus Christ; that ye may become the sons of God; that
 when he shall appear we shall be like him, for we shall see him as he is; that
 we may have this hope; that we may be purified even as he is pure" ([Moro.
-7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47)).
+7:48](/scriptures/bofm/moro/7.48?lang=eng#47)).
 
 As the sons and daughters of a living God, a living Heavenly Father, we should
 stay close to him by humble prayer. We should stay close to him with a clean
 life, that our hearts may find peace in all of life's sacred opportunities and
 blessings. I so pray in the name of Jesus Christ, amen.
+
+## References
 

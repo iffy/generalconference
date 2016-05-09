@@ -51,7 +51,7 @@ loyalty, for their faith and devotion, for their unity of purpose and action,
 under the leadership of our President.
 
 The Lord said that except ye are one, ye are not mine. (See [D&amp;C
-38:27](https://www.lds.org/scriptures/dc-testament/dc/38.27?lang=eng#26).)
+38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26).)
 
 This great unity is the hallmark of the true church of Christ. It is felt
 among our people throughout the world. As we are one, we are his.
@@ -65,4 +65,6 @@ shall never be wanting in our faith, in our devotion, in our love for the Lord
 and his work, and in our desire to serve unitedly for the advancement of The
 Church of Jesus Christ of Latter-day Saints, in the name of Jesus Christ,
 amen.
+
+## References
 

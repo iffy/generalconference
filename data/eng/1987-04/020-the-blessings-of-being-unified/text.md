@@ -12,15 +12,13 @@ and with all thy mind.
 "This is the _first_ and great commandment.
 
 "And the second is like unto it, Thou shalt love thy neighbour as thyself"
-([Matt.
-22:37-39](https://www.lds.org/scriptures/nt/matt/22.37-39?lang=eng#36);
-italics added).
+([Matt. 22:37-39](/scriptures/nt/matt/22.37-39?lang=eng#36); italics added).
 
 "The third?" you ask. "If ye love me, keep my commandments" ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14)).
+14:15](/scriptures/nt/john/14.15?lang=eng#14)).
 
 And the fourth, "If ye are not one ye are not mine" ([D&amp;C
-38:27](https://www.lds.org/scriptures/dc-testament/dc/38.27?lang=eng#26)).
+38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26)).
 
 It is the fourth, the concept of unity, of which I would like to speak.
 
@@ -53,7 +51,7 @@ this world with gladness because of you, that I might not be brought down with
 grief and sorrow to the grave, arise from the dust, my sons ... and be
 determined in one mind and in one heart, united in all things, that ye may not
 come down into captivity" ([2 Ne.
-1:21](https://www.lds.org/scriptures/bofm/2-ne/1.21?lang=eng#20)).
+1:21](/scriptures/bofm/2-ne/1.21?lang=eng#20)).
 
 As a loving father, he knew that if they were to flourish they must be one.
 
@@ -195,21 +193,19 @@ compatibility. We sustain our leaders and generally follow their counsel and
 direction. There are many reasons to be unified, but perhaps the greatest
 reason is that we have been asked to be one. In the Doctrine and Covenants,
 the Lord asks us to assemble ourselves together to agree upon his word (see
-[D&amp;C 41:2](https://www.lds.org/scriptures/dc-
-testament/dc/41.2?lang=eng#1)). Joseph Smith stated, "Unity is power"
-(_History of the Church,_ 6:198), when speaking about stability in
-governments. Just so, unity adds power in the Church and in our families.
+[D&amp;C 41:2](/scriptures/dc-testament/dc/41.2?lang=eng#1)). Joseph Smith
+stated, "Unity is power" (_History of the Church,_ 6:198), when speaking about
+stability in governments. Just so, unity adds power in the Church and in our
+families.
 
 Let us turn again to the Book of Mormon, where the Savior is preaching to his
 other sheep. Jesus is praying with those in the Western Hemisphere, "And now
 Father, I pray unto thee for them, and also for all those who shall believe on
-their words" ([3 Ne.
-19:23](https://www.lds.org/scriptures/bofm/3-ne/19.23?lang=eng#22)). He was
+their words" ([3 Ne. 19:23](/scriptures/bofm/3-ne/19.23?lang=eng#22)). He was
 not only praying for the believers and those that would be missionaries who
 were gathered there but for those they would be teaching, "that they may
 believe in me, that I may be in _them_ as thou, Father, art in me, that we may
-be one" ([3 Ne.
-19:23](https://www.lds.org/scriptures/bofm/3-ne/19.23?lang=eng#22); italics
+be one" ([3 Ne. 19:23](/scriptures/bofm/3-ne/19.23?lang=eng#22); italics
 added).
 
 Yes, we can almost see Jesus standing before those ancient Americans as he
@@ -217,10 +213,10 @@ continues, "Father, I pray not for the world, but for those whom thou hast
 given me out of the world, because of their faith, that they may be purified
 in me, that I may be in them as thou, Father, art in me, that we may be one,
 that I may be glorified in them" ([3 Ne.
-19:29](https://www.lds.org/scriptures/bofm/3-ne/19.29?lang=eng#28)). It was
-this same Jesus, as Jehovah of the Old Testament, who inspired these words,
-"Behold, how good and how pleasant it is for brethren to dwell together in
-unity!" ([Ps. 133:1](https://www.lds.org/scriptures/ot/ps/133.1?lang=eng#0)).
+19:29](/scriptures/bofm/3-ne/19.29?lang=eng#28)). It was this same Jesus, as
+Jehovah of the Old Testament, who inspired these words, "Behold, how good and
+how pleasant it is for brethren to dwell together in unity!" ([Ps.
+133:1](/scriptures/ot/ps/133.1?lang=eng#0)).
 
 How do we glorify Jesus? How do we say thank you for the Atonement? How do we
 state gratitude for the ordinances and the covenants? How do we express
@@ -228,9 +224,9 @@ appreciation for his teachings? Of course, we do it by loving God, by loving
 our neighbor, by living the commandments, and also by being one. We adapt to
 the Master's teachings. We place him and others with us into one: "One Lord,
 one faith, one baptism," as Paul taught ([Eph.
-4:5](https://www.lds.org/scriptures/nt/eph/4.5?lang=eng#4)). We accept those
-called over us as our leaders without creating a fuss. Our leaders know of our
-loyalty because we do what they call us to do.
+4:5](/scriptures/nt/eph/4.5?lang=eng#4)). We accept those called over us as
+our leaders without creating a fuss. Our leaders know of our loyalty because
+we do what they call us to do.
 
 May we be one in this great work, brothers and sisters. May we in loving and
 sensitive ways work with those who are not yet members of the Church so that
@@ -245,4 +241,6 @@ problems and economic difficulty, to follow as one our prophet-leader and
 others who have been called to direct us. May we avoid the pain and problems
 that come to families, neighborhoods, and institutions when they are not one,
 in the name of Jesus Christ, our Redeemer, amen.
+
+## References
 

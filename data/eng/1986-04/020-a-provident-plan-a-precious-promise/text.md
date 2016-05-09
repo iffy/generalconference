@@ -74,8 +74,7 @@ not.
 Arise.
 
 "And he that was dead sat up, and began to speak. And he delivered him to his
-mother." ([Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).)
+mother." ([Luke 7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10).)
 
 When President Clark closed the Bible, I noticed that he was weeping. In a
 quiet voice, he said, "Tom, be kind to the widow and look after the poor."
@@ -97,7 +96,7 @@ know the word of God.
 "But this is not all; they had given themselves to much prayer, and fasting;
 therefore they had the spirit of prophecy, and the spirit of revelation, and
 when they taught, they taught with power and authority of God." ([Alma
-17:2-3](https://www.lds.org/scriptures/bofm/alma/17.2-3?lang=eng#1).)
+17:2-3](/scriptures/bofm/alma/17.2-3?lang=eng#1).)
 
 We had been given our pattern, provided by an inspired teacher. Reverently, he
 closed the covers of this sacred scripture. Like President Clark, he too had
@@ -111,15 +110,14 @@ fast:
 "Is it not to deal thy bread to the hungry, and that thou bring the poor that
 are cast out to thy house? when thou seest the naked, that thou cover him; and
 that thou hide not thyself from thine own flesh?" ([Isa.
-58:7](https://www.lds.org/scriptures/ot/isa/58.7?lang=eng#6).)
+58:7](/scriptures/ot/isa/58.7?lang=eng#6).)
 
 As did President Clark, as did President Lee, President Romney wept as he
 spoke.
 
 Appearing as a golden thread woven through the tapestry of the welfare program
 is the truth taught by the Apostle Paul: "The letter killeth, but the spirit
-giveth life." ([2 Cor.
-3:6](https://www.lds.org/scriptures/nt/2-cor/3.6?lang=eng#5).)
+giveth life." ([2 Cor. 3:6](/scriptures/nt/2-cor/3.6?lang=eng#5).)
 
 President Ezra Taft Benson frequently counsels us: "Remember, Brethren, in
 this work it is the Spirit that counts."
@@ -128,7 +126,7 @@ What has the Lord said about the spirit of this work? In a revelation given to
 the Prophet Joseph at Kirtland, Ohio, in June of 1831, He declared: "Remember
 in all things the poor and the needy, the sick and the afflicted, for he that
 doeth not these things, the same is not my disciple." ([D&amp;C
-52:40](https://www.lds.org/scriptures/dc-testament/dc/52.40?lang=eng#39).)
+52:40](/scriptures/dc-testament/dc/52.40?lang=eng#39).)
 
 In that marvelous message delivered by King Benjamin, as recorded in the Book
 of Mormon, we read: "For the sake of retaining a remission of your sins from
@@ -136,7 +134,7 @@ day to day, that ye may walk guiltless before God--I would that ye should
 impart of your substance to the poor, every man according to that which he
 hath, such as feeding the hungry, clothing the naked, visiting the sick and
 administering to their relief, both spiritually and temporally." ([Mosiah
-4:26](https://www.lds.org/scriptures/bofm/mosiah/4.26?lang=eng#25).)
+4:26](/scriptures/bofm/mosiah/4.26?lang=eng#25).)
 
 When we depart from the Lord's way in caring for the poor, chaos comes. Said
 John Goodman, president of the National Center for Political Analysis, as
@@ -265,8 +263,8 @@ I feel better than I have ever felt before. Can you tell me why?"
 
 I responded with the words of the Master: "Inasmuch as ye have done it unto
 one of the least of these my brethren, ye have done it unto me." ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).) Suddenly
-there came to mind the words from "O Little Town of Bethlehem":
+25:40](/scriptures/nt/matt/25.40?lang=eng#39).) Suddenly there came to mind
+the words from "O Little Town of Bethlehem":
 
 _How silently, how silently,_
 
@@ -291,4 +289,6 @@ followed. A precious promise had been fulfilled.
 I testify that God lives, that Jesus is the Christ, that we are led by a
 prophet, that sacrifice does indeed bring forth the blessings of heaven. In
 the name of Jesus Christ, amen.
+
+## References
 

@@ -29,13 +29,13 @@ consider to be essential in your life.
 First, continue to draw close to the Savior through private, sincere,
 heartfelt prayer. Remember always, "the effectual fervent prayer of a
 righteous man availeth much" ([James
-5:16](https://www.lds.org/scriptures/nt/james/5.16?lang=eng#15)).
+5:16](/scriptures/nt/james/5.16?lang=eng#15)).
 
 "Feast upon the words of Christ" ([2 Ne.
-32:3](https://www.lds.org/scriptures/bofm/2-ne/32.3?lang=eng#2)) by
-consistently studying the scriptures every day and by following the counsel of
-the living prophets. Particularly make the study of the Book of Mormon a
-lifetime pursuit and daily sup from its pages.
+32:3](/scriptures/bofm/2-ne/32.3?lang=eng#2)) by consistently studying the
+scriptures every day and by following the counsel of the living prophets.
+Particularly make the study of the Book of Mormon a lifetime pursuit and daily
+sup from its pages.
 
 Be an example in your Church activity--honor the Sabbath day, attend your
 meetings, observe the Word of Wisdom, pay your tithes and offerings, support
@@ -51,7 +51,7 @@ deepen those eternal relationships.
 
 In your dating and courting, fully maintain the standards of the Church. Be
 morally clean. "Let virtue garnish [your] thoughts unceasingly" ([D&amp;C
-121:45](https://www.lds.org/scriptures/dc-testament/dc/121.45?lang=eng#44)).
+121:45](/scriptures/dc-testament/dc/121.45?lang=eng#44)).
 
 Remember the counsel of Elder Bruce R. McConkie that "the most important
 single thing that any Latter-day Saint ever does in this world is to marry the
@@ -109,8 +109,7 @@ My dear single adult brethren, _we_ are also concerned. We want you to know
 that the position of the Church has never changed regarding the importance of
 celestial marriage. It is a commandment of God. The Lord's declaration in
 Genesis is still true: "And the Lord God said, It is not good that the man
-should be alone" ([Gen.
-2:18](https://www.lds.org/scriptures/ot/gen/2.18?lang=eng#17)).
+should be alone" ([Gen. 2:18](/scriptures/ot/gen/2.18?lang=eng#17)).
 
 To obtain a fulness of glory and exaltation in the celestial kingdom, one must
 enter into this holiest of ordinances.
@@ -154,7 +153,7 @@ these and will be a better man for having met them.
 Work hard educationally and in your vocation. Put your trust in the Lord, have
 faith, and it will work out. The Lord never gives a commandment without
 providing the means to accomplish it (see [1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)).
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)).
 
 Also, do not be caught up in materialism, one of the real plagues of our
 generation--that is, acquiring things, fast-paced living, and securing career
@@ -186,6 +185,8 @@ Know, my good brethren, that I have spoken from my heart and by His Spirit
 because of my love and concern for you. It is what the Lord would have you
 hear today. With all my heart I echo the words of the prophet Lehi from the
 Book of Mormon, "Arise from the dust, my sons, and be men" ([2 Ne.
-1:21](https://www.lds.org/scriptures/bofm/2-ne/1.21?lang=eng#20)), in the name
-of Jesus Christ, amen.
+1:21](/scriptures/bofm/2-ne/1.21?lang=eng#20)), in the name of Jesus Christ,
+amen.
+
+## References
 

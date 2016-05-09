@@ -17,3 +17,5 @@ is proposed, therefore, that we sustain all of the General Authorities and
 general officers of the Church as at present constituted. Those in favor
 please manifest it. Those opposed by the same sign. Thank you.
 
+## References
+

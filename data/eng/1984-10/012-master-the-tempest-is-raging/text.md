@@ -45,7 +45,7 @@ faith?
 
 "And they feared exceedingly, and said one to another, What manner of man is
 this, that even the wind and the sea obey him?" ([Mark
-4:36-41](https://www.lds.org/scriptures/nt/mark/4.36-41?lang=eng#35).)
+4:36-41](/scriptures/nt/mark/4.36-41?lang=eng#35).)
 
 All of us have seen some sudden storms in our lives. A few of them, though
 temporary like these on the Sea of Galilee, can be violent and frightening and
@@ -59,16 +59,15 @@ None of us would like to think we have _no_ faith, but I suppose the Lord's
 gentle rebuke here is largely deserved. This great Jehovah, in whom we say we
 trust and whose name we have taken upon us, is he who said, "Let there be a
 firmament in the midst of the waters, and let it divide the waters from the
-waters." ([Gen. 1:6](https://www.lds.org/scriptures/ot/gen/1.6?lang=eng#5).)
-And he is also the one who said, "Let the waters under the heaven be gathered
-together unto one place, and let the dry land appear." ([Gen.
-1:9](https://www.lds.org/scriptures/ot/gen/1.9?lang=eng#8).) Furthermore, it
-was he who parted the Red Sea, allowing the Israelites to pass through on dry
-ground. (See [Ex.
-14:21-22](https://www.lds.org/scriptures/ot/ex/14.21-22?lang=eng#20).)
-Certainly it should be no surprise that he could command a few elements acting
-up on the Sea of Galilee. And our faith should remind us that he can calm the
-troubled waters of our lives.
+waters." ([Gen. 1:6](/scriptures/ot/gen/1.6?lang=eng#5).) And he is also the
+one who said, "Let the waters under the heaven be gathered together unto one
+place, and let the dry land appear." ([Gen.
+1:9](/scriptures/ot/gen/1.9?lang=eng#8).) Furthermore, it was he who parted
+the Red Sea, allowing the Israelites to pass through on dry ground. (See [Ex.
+14:21-22](/scriptures/ot/ex/14.21-22?lang=eng#20).) Certainly it should be no
+surprise that he could command a few elements acting up on the Sea of Galilee.
+And our faith should remind us that he can calm the troubled waters of our
+lives.
 
 Let me recall for you the story of Mary Ann Baker. Her beloved and only
 brother suffered from the same respiratory disease that had taken their
@@ -197,22 +196,20 @@ over. ... Linger, Oh, blessed Redeemer! Leave me alone no more."
 
 Jesus said, "In the world ye shall have tribulation: but be of good cheer; I
 have overcome the world." ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).) On the same
-occasion, he said, "Peace I leave with you, my peace I give unto you: not as
-the world giveth, give I unto you." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).) Throughout
-his life and ministry he spoke of peace, and when he came forth from the tomb
-and appeared unto his disciples, his first greeting was, "Peace be unto you."
-([John 20:19](https://www.lds.org/scriptures/nt/john/20.19?lang=eng#18).)
+16:33](/scriptures/nt/john/16.33?lang=eng#32).) On the same occasion, he said,
+"Peace I leave with you, my peace I give unto you: not as the world giveth,
+give I unto you." ([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
+Throughout his life and ministry he spoke of peace, and when he came forth
+from the tomb and appeared unto his disciples, his first greeting was, "Peace
+be unto you." ([John 20:19](/scriptures/nt/john/20.19?lang=eng#18).)
 
 But Jesus was not spared grief and pain and anguish and buffeting. No tongue
 can speak the unutterable burden he carried, nor have we the wisdom to
 understand the prophet Isaiah's description of him as "a man of sorrows."
-([Isa. 53:3](https://www.lds.org/scriptures/ot/isa/53.3?lang=eng#2).) His ship
-was tossed most of his life, and, at least to mortal eyes, it crashed fatally
-on the rocky coast of Calvary. We are asked not to look on life with mortal
-eyes; with spiritual vision we know something quite different was happening
-upon the cross.
+([Isa. 53:3](/scriptures/ot/isa/53.3?lang=eng#2).) His ship was tossed most of
+his life, and, at least to mortal eyes, it crashed fatally on the rocky coast
+of Calvary. We are asked not to look on life with mortal eyes; with spiritual
+vision we know something quite different was happening upon the cross.
 
 Peace was on the lips and in the heart of the Savior no matter how fiercely
 the tempest was raging. May it so be with us--in our own hearts, in our own
@@ -231,4 +228,6 @@ p. 505.) Of that I so testify.
 no waters can swallow the ship where lies the Master of ocean and earth and
 skies. They all shall sweetly obey [his] will. Peace, be still!" In the name
 of Jesus Christ, amen.
+
+## References
 

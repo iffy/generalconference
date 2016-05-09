@@ -38,7 +38,7 @@ assemble them all under one roof. We quoted to them what the Apostle Paul had
 said to the Galatians, "There is neither Jew nor Greek, there is neither bond
 nor free, there is neither male nor female: for ye are all one in Christ Jesus
 ... and heirs according to the promise." ([Gal.
-3:28-29](https://www.lds.org/scriptures/nt/gal/3.28-29?lang=eng#27).)
+3:28-29](/scriptures/nt/gal/3.28-29?lang=eng#27).)
 
 Then we paraphrased saying, "Now you are neither English, nor German, nor
 French, nor Spanish, nor Italian, nor Austrian, nor Belgian, nor Dutch, but
@@ -402,4 +402,6 @@ of this Church.
 
 I plead with you, my brethren, and leave with you my blessing, and bear you my
 witness this night, in the name of the Lord Jesus Christ. Amen.
+
+## References
 

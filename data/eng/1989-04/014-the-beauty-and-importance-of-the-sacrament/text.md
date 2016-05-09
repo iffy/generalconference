@@ -2,9 +2,9 @@
 
 One of the most important invitations ever issued to us and to all mankind is
 to "come unto Christ and be perfected in him." ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).) How do we
-do that? One of the most beautiful and important ways is through the ordinance
-of the sacrament.
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31).) How do we do that? One of
+the most beautiful and important ways is through the ordinance of the
+sacrament.
 
 The Lord instituted the sacrament, as we know it today, during what we
 commonly call the Last Supper. In one sense, it was the last supper, but in
@@ -20,7 +20,7 @@ unto all those who shall believe and be baptized in my name.
 "And this shall ye do in remembrance of my body, which I have shown unto you.
 And it shall be a testimony unto the Father that ye do always remember me. And
 if ye do always remember me ye shall have my Spirit to be with you." ([3 Ne.
-18:5-7](https://www.lds.org/scriptures/bofm/3-ne/18.5-7?lang=eng#4).)
+18:5-7](/scriptures/bofm/3-ne/18.5-7?lang=eng#4).)
 
 The moving tenderness and deep significance of this transcendent event are
 still available to us today. But we must do as they did and follow the
@@ -37,7 +37,7 @@ participate. None are barred except by themselves.
 
 The Lord said, "And ye see that I have commanded that none of you should go
 away, but rather have commanded that ye should come unto me." ([3 Ne.
-18:25](https://www.lds.org/scriptures/bofm/3-ne/18.25?lang=eng#24).)
+18:25](/scriptures/bofm/3-ne/18.25?lang=eng#24).)
 
 But the Lord, who knows the terrible consequences of hypocrisy, also warned:
 
@@ -46,7 +46,7 @@ unworthily, ...
 
 "For whoso eateth and drinketh my flesh and blood unworthily eateth and
 drinketh damnation to his soul." ([3 Ne.
-18:28-29](https://www.lds.org/scriptures/bofm/3-ne/18.28-29?lang=eng#27).)
+18:28-29](/scriptures/bofm/3-ne/18.28-29?lang=eng#27).)
 
 What does it mean to partake of the sacrament worthily? Or how do we know if
 we are unworthy?
@@ -112,8 +112,8 @@ thought. The sacrament hymn was more meaningful than ever. She sang with such
 feeling that it was difficult to hold back the tears. And the sacrament
 prayers--how profound! She listened so intently that every word sank deep into
 her soul--to take his name, always remember him, keep his commandments, always
-have his Spirit. (See [D&amp;C 20:77, 79](https://www.lds.org/scriptures/dc-
-testament/dc/20.77%2C79?lang=eng#76).) "Oh, how I desire this," she thought.
+have his Spirit. (See [D&amp;C 20:77, 79](/scriptures/dc-
+testament/dc/20.77,79?lang=eng#76).) "Oh, how I desire this," she thought.
 
 The deacons began to move up and down the aisles, and the trays were passed
 from person to person across the rows. As one young deacon got closer and
@@ -171,7 +171,7 @@ opportunity to escape the terrible consequences of death and sin.
 
 And even as he suffered for all of us, he voiced that most beautiful of all
 requests, "Father, forgive them." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 We must do our part and cry with full fervor of soul, "Father, forgive me
 through the merits of thy Beloved Son as I partake of these emblems of his
@@ -198,4 +198,6 @@ Yes, I know he gives life--in all of its depth of meaning. As the emblems of
 his love are regularly presented before us, please let us hear, "Father,
 forgive them," and respond, "Father, forgive me." This leads to life--eternal
 life--in the name of Jesus Christ, amen.
+
+## References
 

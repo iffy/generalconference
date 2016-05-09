@@ -2,9 +2,9 @@
 
 One of the greatest sentences to fall upon human ears comes from the Book of
 Mormon: "Adam fell that men might be; and men are, that they might have joy"
-([2 Ne. 2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24)).
-That sentence captures the major possibilities of life. Let me add, we will
-have genuine joy and happiness only as we learn patience.
+([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24)). That sentence captures
+the major possibilities of life. Let me add, we will have genuine joy and
+happiness only as we learn patience.
 
 Dictionaries define patience in such terms as bearing pain or sorrow calmly or
 without complaint; not being hasty or impetuous; being steadfast despite
@@ -21,8 +21,7 @@ is sweet, ... and ye shall feast upon this fruit even until ye are filled, that
 ye hunger not, neither shall ye thirst. ...
 
 "Ye shall reap the rewards of your faith, and your diligence, and patience"
-([Alma 32:37,
-42-43](https://www.lds.org/scriptures/bofm/alma/32.37%2C42-43?lang=eng#36)).
+([Alma 32:37, 42-43](/scriptures/bofm/alma/32.37,42-43?lang=eng#36)).
 
 I don't know whether we Church members fully appreciate the Book of Mormon,
 one of our sacred scriptures, as we really should. One of the clearest
@@ -39,13 +38,13 @@ righteousness nor happiness there be no punishment nor misery. And if these
 things are not there is no God. And if there is no God we are not, neither the
 earth; for there could have been no creation of things, neither to act nor to
 be acted upon; wherefore, all things must have vanished away" ([2 Ne. 2:11,
-13](https://www.lds.org/scriptures/bofm/2-ne/2.11%2C13?lang=eng#10)).
+13](/scriptures/bofm/2-ne/2.11,13?lang=eng#10)).
 
 The Apostle Paul gave the purpose of patience in his epistle to the Saints in
 Rome: "We glory in tribulations ... knowing that tribulation worketh patience;
 
 "And patience, experience; and experience, hope" ([Rom.
-5:3-4](https://www.lds.org/scriptures/nt/rom/5.3-4?lang=eng#2)).
+5:3-4](/scriptures/nt/rom/5.3-4?lang=eng#2)).
 
 Just forty years ago, President J. Reuben Clark, Jr., a member of the First
 Presidency, gave an address titled "Slipping from Our Old Moorings." He
@@ -78,21 +77,19 @@ previous time.
 
 To the Latter-day Saints, the Lord gave patience as one of the divine
 attributes that qualifies a person for the ministry (see [D&amp;C
-4:6](https://www.lds.org/scriptures/dc-testament/dc/4.6?lang=eng#5)), he
-counseled them to be patient in their afflictions (see [D&amp;C
-24:8](https://www.lds.org/scriptures/dc-testament/dc/24.8?lang=eng#7);
-[D&amp;C 31:9](https://www.lds.org/scriptures/dc-
-testament/dc/31.9?lang=eng#8); [D&amp;C 54:10](https://www.lds.org/scriptures
-/dc-testament/dc/54.10?lang=eng#9); [D&amp;C
-98:23-24](https://www.lds.org/scriptures/dc-
+4:6](/scriptures/dc-testament/dc/4.6?lang=eng#5)), he counseled them to be
+patient in their afflictions (see [D&amp;C 24:8](/scriptures/dc-
+testament/dc/24.8?lang=eng#7); [D&amp;C 31:9](/scriptures/dc-
+testament/dc/31.9?lang=eng#8); [D&amp;C 54:10](/scriptures/dc-
+testament/dc/54.10?lang=eng#9); [D&amp;C 98:23-24](/scriptures/dc-
 testament/dc/98.23-24?lang=eng#22)), and he admonished them to make their
-decisions in patience (see [D&amp;C 107:30](https://www.lds.org/scriptures/dc-
+decisions in patience (see [D&amp;C 107:30](/scriptures/dc-
 testament/dc/107.30?lang=eng#29)). The Savior taught us to be perfect (see
-[Matt. 5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47)) and said,
-"Ye are not able to abide the presence of God now, neither the ministering of
-angels; wherefore, continue in patience until ye are perfected" ([D&amp;C
-67:13](https://www.lds.org/scriptures/dc-testament/dc/67.13?lang=eng#12)).
+[Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47); [3 Ne.
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47)) and said, "Ye are not able to
+abide the presence of God now, neither the ministering of angels; wherefore,
+continue in patience until ye are perfected" ([D&amp;C 67:13](/scriptures/dc-
+testament/dc/67.13?lang=eng#12)).
 
 ## Examples of Patience
 
@@ -109,9 +106,9 @@ During the Apostle Paul's ministry of about thirty years, between his
 conversion and his martyrdom in Rome, he was flogged five times, beaten
 severely at least three times, imprisoned several times, shipwrecked three
 times, and stoned and left for dead on one occasion (see [2 Cor.
-11:23-27](https://www.lds.org/scriptures/nt/2-cor/11.23-27?lang=eng#22)).
-Through all of this affliction, he continued his powerful ministry. He wrote
-to the Romans that God "will render to every man according to his deeds:
+11:23-27](/scriptures/nt/2-cor/11.23-27?lang=eng#22)). Through all of this
+affliction, he continued his powerful ministry. He wrote to the Romans that
+God "will render to every man according to his deeds:
 
 "To them who by patient continuance in well doing seek for glory and honour
 and immortality, eternal life:
@@ -119,8 +116,7 @@ and immortality, eternal life:
 "But unto them that are contentious [impatient], and do not obey the truth,
 but obey unrighteousness, indignation and wrath,
 
-"Tribulation and anguish" ([Rom.
-2:6-9](https://www.lds.org/scriptures/nt/rom/2.6-9?lang=eng#5)).
+"Tribulation and anguish" ([Rom. 2:6-9](/scriptures/nt/rom/2.6-9?lang=eng#5)).
 
 The Prophet Joseph Smith's afflictions and sufferings paralleled those of Paul
 in many respects. Beyond imprisonments, mobbings, and beatings, he suffered
@@ -214,9 +210,8 @@ Finally, a word about patience with our Heavenly Father and his plan of
 eternal progression. How incredibly foolish to be impatient with him, the
 Father of our spirits, who knows everything and whose work and glory, through
 his Son, Jesus Christ, is "to bring to pass the immortality and eternal life
-of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). As Elder
-Neal A. Maxwell said, "Patience is tied very closely to faith in our Heavenly
+of man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). As Elder Neal
+A. Maxwell said, "Patience is tied very closely to faith in our Heavenly
 Father. Actually, when we are unduly impatient, we are suggesting that we know
 what is best--better than does God. Or, at least, we are asserting that our
 timetable is better than his. Either way we are questioning the reality of
@@ -250,7 +245,7 @@ Father, which I have prepared for them.
 their reward the good things of the earth. ...
 
 "And they shall also be crowned with blessings from above" ([D&amp;C
-59:2-4](https://www.lds.org/scriptures/dc-testament/dc/59.2-4?lang=eng#1)).
+59:2-4](/scriptures/dc-testament/dc/59.2-4?lang=eng#1)).
 
 I pray that we might be patient, especially in adversity, as we meet our
 challenges of uncertainty, trials, pressure, and tribulation in today's world.
@@ -261,4 +256,6 @@ the Christ, our Lord and Savior. Joseph Smith is the prophet through whom the
 Lord restored the gospel in these latter days. President Ezra Taft Benson is
 the Lord's prophet who directs this work today. I bear this testimony in the
 name of Jesus Christ, amen.
+
+## References
 

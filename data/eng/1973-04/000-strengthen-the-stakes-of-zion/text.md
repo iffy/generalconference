@@ -15,7 +15,7 @@ hundred and thirty years since the coming of our Lord and Savior Jesus Christ
 in the flesh, it being regularly organized and established agreeable to the
 laws of our country, by the will and commandments of God, in the fourth month,
 and on the sixth day of the month which is called April." ([D&amp;C
-20:1](https://www.lds.org/scriptures/dc-testament/dc/20.1?lang=eng#0).)
+20:1](/scriptures/dc-testament/dc/20.1?lang=eng#0).)
 
 Traditionally since that time, the spring conferences of the Church are held
 on the days of each year which include April 6.
@@ -27,8 +27,8 @@ something of a text for my next few remarks today:
 
 "For Zion must increase in beauty, and in holiness; her borders must be
 enlarged; her stakes must be strengthened; yea, verily I say unto you, Zion
-must arise and put on her beautiful garments." ([D&amp;C
-82:14](https://www.lds.org/scriptures/dc-testament/dc/82.14?lang=eng#13).)
+must arise and put on her beautiful garments." ([D&amp;C 82:14](/scriptures
+/dc-testament/dc/82.14?lang=eng#13).)
 
 Zion, as used here, undoubtedly had reference to the Church. At that time
 there was but a small body of Church members just beginning to emerge as an
@@ -41,8 +41,7 @@ world, the Lord in another revelation told them this:
 
 "Therefore, verily, thus saith the Lord, let Zion rejoice, for this is Zion--
 THE PURE IN HEART; therefore, let Zion rejoice, while all the wicked shall
-mourn." ([D&amp;C 97:21](https://www.lds.org/scriptures/dc-
-testament/dc/97.21?lang=eng#20).)
+mourn." ([D&amp;C 97:21](/scriptures/dc-testament/dc/97.21?lang=eng#20).)
 
 To be worthy of such a sacred designation as Zion, the Church must think of
 itself as a bride adorned for her husband, as John the Revelator recorded when
@@ -69,7 +68,7 @@ words:
 "For thus shall my church be called in the last days, even The Church of Jesus
 Christ of Latter-day Saints." And then this command: "Arise and shine forth,
 that thy light may be a standard for the nations." ([D&amp;C
-115:4-5](https://www.lds.org/scriptures/dc-testament/dc/115.4-5?lang=eng#3).)
+115:4-5](/scriptures/dc-testament/dc/115.4-5?lang=eng#3).)
 
 Here is clearly inferred that the coming forth of his church in these days was
 the beginning of the fulfillment of the ancient prophecy when "the mountain of
@@ -78,7 +77,7 @@ be exalted above the hills; and all nations shall flow unto it. And many
 people shall go and say, Come ye, and let us go up to the mountain of the
 Lord, to the house of the God of Jacob; and he will teach us of his ways, and
 we will walk in his paths. ..." ([Isa.
-2:2-3](https://www.lds.org/scriptures/ot/isa/2.2-3?lang=eng#1).)
+2:2-3](/scriptures/ot/isa/2.2-3?lang=eng#1).)
 
 In these revelations the Lord speaks of organized units of the Church which
 are designated as stakes, each of which those not of our faith may think of as
@@ -92,20 +91,20 @@ concerned:
 "For we wrestle not against flesh and blood, but against principalities,
 against powers, against the rulers of the darkness of this world, against
 spiritual wickedness in high places." ([Eph.
-6:12](https://www.lds.org/scriptures/nt/eph/6.12?lang=eng#11).)
+6:12](/scriptures/nt/eph/6.12?lang=eng#11).)
 
 These organizations were to be as stated in the revelation noted earlier, as a
 "refuge from the storm, and from wrath when it shall be poured out without
-mixture upon the whole earth." ([D&amp;C 115:6](https://www.lds.org/scriptures
-/dc-testament/dc/115.6?lang=eng#5).)
+mixture upon the whole earth." ([D&amp;C 115:6](/scriptures/dc-
+testament/dc/115.6?lang=eng#5).)
 
 In the preface to all the Lord's revelations that he gave from the beginning
 of this dispensation, he issued this fateful warning, which must never be
 absent from our minds. This prophetic warning of 1831 was given, as the Lord
 declared, so that "all men shall know that the day speedily cometh; the hour
 is not yet, but is nigh at hand, when peace shall be taken from the earth, and
-the devil shall have power over his own dominion." ([D&amp;C
-1:35](https://www.lds.org/scriptures/dc-testament/dc/1.35?lang=eng#34).)
+the devil shall have power over his own dominion." ([D&amp;C 1:35](/scriptures
+/dc-testament/dc/1.35?lang=eng#34).)
 
 Now 142 years later we are witnessing the fury of this time, when Satan has
 power over his own dominion, with such might that even the Master in his day
@@ -120,7 +119,7 @@ heart to whom he has referred as "the people of Zion." This is what he said:
 
 "And also the Lord shall have power over his saints, and shall reign in their
 midst, and shall come down in judgment upon Idumea, or the world." ([D&amp;C
-1:36](https://www.lds.org/scriptures/dc-testament/dc/1.36?lang=eng#35).)
+1:36](/scriptures/dc-testament/dc/1.36?lang=eng#35).)
 
 This has reference to the world in the same sense as when the Master spoke of
 the worldliness from which he warned his disciples, that while they would be
@@ -135,15 +134,14 @@ being completely overthrown.
 Today we are witnessing the promise of the Lord that "if your eye be single to
 my glory," which he declared to the prophet Moses was "to bring to pass the
 immortality and eternal life of man" ([Moses
-2:39](https://www.lds.org/scriptures/pgp/moses/2.39?lang=eng#38)), "your whole
-bodies shall be filled with light, and there shall be no darkness in you; and
-that body which is filled with light comprehendeth all things." ([D&amp;C
-88:67](https://www.lds.org/scriptures/dc-testament/dc/88.67?lang=eng#66).)
+2:39](/scriptures/pgp/moses/2.39?lang=eng#38)), "your whole bodies shall be
+filled with light, and there shall be no darkness in you; and that body which
+is filled with light comprehendeth all things." ([D&amp;C 88:67](/scriptures
+/dc-testament/dc/88.67?lang=eng#66).)
 
 We have also been promised by the Lord: "Behold, and lo, I will take care of
 your flocks, and will raise up elders and send unto them. Behold, I will
-hasten my work in its time." ([D&amp;C
-88:72-73](https://www.lds.org/scriptures/dc-
+hasten my work in its time." ([D&amp;C 88:72-73](/scriptures/dc-
 testament/dc/88.72-73?lang=eng#71).)
 
 Today we are witnessing the demonstration of the Lord's hand even in the midst
@@ -156,8 +154,7 @@ and the Lord directed that these gathering places should not be changed, but
 then he gave one qualification: "Until the day cometh when there is found no
 more room for them; and then I have other places which I will appoint unto
 them, and they shall be called stakes, for the curtains or the strength of
-Zion." ([D&amp;C 101:21](https://www.lds.org/scriptures/dc-
-testament/dc/101.21?lang=eng#20).)
+Zion." ([D&amp;C 101:21](/scriptures/dc-testament/dc/101.21?lang=eng#20).)
 
 At the Mexico City Area Conference last August, Elder Bruce R. McConkie of the
 Council of the Twelve, in a thought-provoking address, made some comments
@@ -168,7 +165,7 @@ said: 'The Lord ... has covenanted with all the house of Israel,' that 'the time
 comes that they shall be restored to the true church and fold of God'; and
 that 'they shall be gathered home to the lands of their inheritance, and shall
 be established in all their lands of promise.' ([2 Ne.
-9:1-2](https://www.lds.org/scriptures/bofm/2-ne/9.1-2?lang=eng#0).)
+9:1-2](/scriptures/bofm/2-ne/9.1-2?lang=eng#0).)
 
 "Now I call your attention to the facts, set forth in these scriptures, that
 the gathering of Israel consists of joining the true church; of coming to a
@@ -224,7 +221,7 @@ after man.
 
 "For I neither received it of man, neither was I taught it, but by the
 revelation of Jesus Christ." ([Gal. 1:8,
-11-12](https://www.lds.org/scriptures/nt/gal/1.8%2C11-12?lang=eng#7).)
+11-12](/scriptures/nt/gal/1.8,11-12?lang=eng#7).)
 
 If we were to answer those who ask us why the steady growth, we would answer
 that the first fundamental reason would be that we have held our course in
@@ -234,7 +231,7 @@ Articles of Faith:
 "We believe [and, we might add, teach] all that God has revealed, all that He
 does now reveal, and we believe that He will yet reveal many great and
 important things pertaining to the Kingdom of God." ([A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8).)
+1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8).)
 
 In one of the latest of the Lord's revelations in this dispensation, he gave
 the reason for the confusion among the many churches then in existence:
@@ -242,7 +239,7 @@ because they have, as he said, "strayed from mine ordinances, and have broken
 mine everlasting covenant; They seek not the Lord to establish his
 righteousness, but every man walketh in his own way, and after the image of
 his own God, whose image is in the likeness of the world. ..." ([D&amp;C
-1:15-16](https://www.lds.org/scriptures/dc-testament/dc/1.15-16?lang=eng#14).)
+1:15-16](/scriptures/dc-testament/dc/1.15-16?lang=eng#14).)
 
 Therefore a new restoration was necessary, as he plainly declared:
 
@@ -261,8 +258,8 @@ of the world; ...
 unto the ends of the world, and before kings and rulers.
 
 "... after the manner of their language, that they might come to understanding."
-([D&amp;C 1:17-18, 20, 23-24](https://www.lds.org/scriptures/dc-
-testament/dc/1.17-18%2C20%2C23-24?lang=eng#16).)
+([D&amp;C 1:17-18, 20, 23-24](/scriptures/dc-
+testament/dc/1.17-18,20,23-24?lang=eng#16).)
 
 There are those who speak of an ecumenical movement, where theoretically, it
 is supposed, all churches would be brought together into a universal
@@ -278,7 +275,7 @@ fullness of the principles of the gospel of Jesus Christ are taught and
 practiced, as declared by the apostle Paul to the Ephesians, who said that the
 church is "built upon the foundation of the apostles and prophets, Jesus
 Christ himself being the chief corner stone." ([Eph.
-2:20](https://www.lds.org/scriptures/nt/eph/2.20?lang=eng#19).)
+2:20](/scriptures/nt/eph/2.20?lang=eng#19).)
 
 The mission of the Church has also been defined:
 
@@ -286,8 +283,8 @@ The mission of the Church has also been defined:
 disciples, whom I have chosen in these last days.
 
 "Wherefore the voice of the Lord is unto the ends of the earth, that all that
-will hear may hear." ([D&amp;C 1:4, 11](https://www.lds.org/scriptures/dc-
-testament/dc/1.4%2C11?lang=eng#3).)
+will hear may hear." ([D&amp;C 1:4, 11](/scriptures/dc-
+testament/dc/1.4,11?lang=eng#3).)
 
 Obedient to that instruction, and from the beginning of the Church, there have
 been missionaries sent to all parts of the world. Today we have increasing
@@ -380,7 +377,7 @@ endowment when he was baptized and which has been committed to every baptized
 member of the Church by the authority of the priesthood: the gift of the Holy
 Ghost, which, as the Master declared, would teach all things, would bring all
 things to their remembrance, and even show them things to come. (See [John
-14:26](https://www.lds.org/scriptures/nt/john/14.26?lang=eng#25).)
+14:26](/scriptures/nt/john/14.26?lang=eng#25).)
 
 It will be clearly understood, then, that the great responsibility that the
 leaders and teachers in the Church have is to persuade, to teach, to direct
@@ -400,4 +397,6 @@ only to the leaders of the Church in high positions, but also to individual
 members as they keep the commandments of God. To that I bear my sacred witness
 and leave my blessing upon all the faithful of the Church, and indeed in the
 world everywhere, in the name of the Lord Jesus Christ. Amen.
+
+## References
 

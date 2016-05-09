@@ -37,13 +37,12 @@ blessing--not a burden.
 
 What greater conversation of anticipation has there been than that of
 Elisabeth and Mary when also the babe in Elisabeth leaped in recognition of
-Mary? ([Luke 1:41](https://www.lds.org/scriptures/nt/luke/1.41?lang=eng#40)).
+Mary? ([Luke 1:41](/scriptures/nt/luke/1.41?lang=eng#40)).
 
 Does it not tell us much about the intrinsic intelligence of women to read of
 the crucifixion scene at Calvary, "And many women were there beholding afar
-off." ([Matt.
-27:55](https://www.lds.org/scriptures/nt/matt/27.55?lang=eng#54).) Their
-presence was a prayer; their lingering was like a litany.
+off." ([Matt. 27:55](/scriptures/nt/matt/27.55?lang=eng#54).) Their presence
+was a prayer; their lingering was like a litany.
 
 And who came first to the empty tomb of the risen Christ? Two women.
 
@@ -137,4 +136,6 @@ Meanwhile, there are no separate paths back to that heavenly home. Just one
 straight and narrow way, at the end of which, though we arrive trailing tears,
 we shall at once be "drenched in joy." I so testify in the name of Jesus
 Christ. Amen.
+
+## References
 

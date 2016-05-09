@@ -13,17 +13,16 @@ With that introduction, which surely caught our attention, he then said:
 Christ, whose name each of us has taken upon ourselves. We are all in this
 great endeavor together. We are here to assist our Father in His work and His
 glory, 'to bring to pass the immortality and eternal life of man' ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). Your
-obligation is as serious in your sphere of responsibility as is my obligation
-in my sphere. No calling in this church is small or of little consequence. All
-of us in the pursuit of our duty touch the lives of others. To each of us in
-our respective responsibilities the Lord has said:
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). Your obligation is as serious
+in your sphere of responsibility as is my obligation in my sphere. No calling
+in this church is small or of little consequence. All of us in the pursuit of
+our duty touch the lives of others. To each of us in our respective
+responsibilities the Lord has said:
 
 "'Wherefore, be faithful; stand in the office which I have appointed unto you;
 succor the weak, lift up the hands which hang down, and strengthen the feeble
-knees' ([D&amp;C 81:5](https://www.lds.org/scriptures/dc-
-testament/dc/81.5?lang=eng#4))" (in Conference Report, Apr. 1995, p. 94; or
-_Ensign,_ May 1995, p. 71).
+knees' ([D&amp;C 81:5](/scriptures/dc-testament/dc/81.5?lang=eng#4))" (in
+Conference Report, Apr. 1995, p. 94; or _Ensign,_ May 1995, p. 71).
 
 You must have wondered about that idea that your calling carries for you as
 serious a responsibility as his does for him. But you can see why that must be
@@ -73,7 +72,7 @@ his mortal ministry, they wanted him to touch their lives with faith.
 "And the Lord said, If ye had faith as a grain of mustard seed, ye might say
 unto this sycamine tree, Be thou plucked up by the root, and be thou planted
 in the sea; and it should obey you" ([Luke
-17:5-6](https://www.lds.org/scriptures/nt/luke/17.5-6?lang=eng#4)).
+17:5-6](/scriptures/nt/luke/17.5-6?lang=eng#4)).
 
 You will not be surprised that the Lord responded by speaking of a seed. The
 first thing to know about how faith in him increases is to think of its growth
@@ -91,7 +90,7 @@ enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it
 beginneth to be delicious to me.
 
 "Now behold, would not this increase your faith? I say unto you, Yea" ([Alma
-32:28-29](https://www.lds.org/scriptures/bofm/alma/32.28-29?lang=eng#27)).
+32:28-29](/scriptures/bofm/alma/32.28-29?lang=eng#27)).
 
 Just as soil needs preparation for a seed, so does a human heart for the word
 of God to take root. Before he told the people to plant the seed, Alma told
@@ -117,7 +116,7 @@ this way:
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God, or whether I speak of myself" ([John
-7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15)).
+7:16-17](/scriptures/nt/john/7.16-17?lang=eng#15)).
 
 It won't be enough for them simply to listen to the word of God. They must
 choose to keep commandments because they feel at least a beginning desire to
@@ -155,7 +154,7 @@ commandments, and that because of transgression, man had fallen.
 laying the fall of man before him, and their carnal state and also the plan of
 redemption, which was prepared from the foundation of the world, through
 Christ, for all whosoever would believe on his name" ([Alma
-22:12-13](https://www.lds.org/scriptures/bofm/alma/22.12-13?lang=eng#11)).
+22:12-13](/scriptures/bofm/alma/22.12-13?lang=eng#11)).
 
 You won't very often have the remarkable result that Aaron had. After hearing
 the word of God taught that way, in what the scriptures sometimes call the
@@ -163,7 +162,7 @@ plan of happiness, the old king said that he would give whatever he had to
 root the wickedness out of him and have eternal life. When Aaron told him to
 cry to God in prayer for forgiveness, the king bowed down on the spot. The
 seed was planted. He was doing the will of God (see [Alma
-22:15-18](https://www.lds.org/scriptures/bofm/alma/22.15-18?lang=eng#14)).
+22:15-18](/scriptures/bofm/alma/22.15-18?lang=eng#14)).
 
 When you touch the hearts of people you serve, you won't do everything exactly
 the way Aaron did. But you will do some of the same things. You will try to
@@ -209,15 +208,14 @@ and I can tell you where it is and what you can do to find it."
 Your teaching will become easier as those you serve try the word of God. For
 instance, a deacon or an elder might choose to follow the command to search
 the scriptures and so read passages that tell him of the honor and glory
-bestowed through the holy priesthood ([D&amp;C
-124:34](https://www.lds.org/scriptures/dc-testament/dc/124.34?lang=eng#33)).
-From such obedience in reading scriptures, he might be able to hear the Holy
-Ghost whisper that such an honor, such a holy calling, deserves wearing better
-than everyday clothes when he performs priesthood ordinances or more
-considerate speech wherever they are. Because others may not honor the dignity
-of the priesthood in those ways, such obedience may take faith. But faith when
-exercised increases. And that increase in faith will give greater power to
-hear and to obey.
+bestowed through the holy priesthood ([D&amp;C 124:34](/scriptures/dc-
+testament/dc/124.34?lang=eng#33)). From such obedience in reading scriptures,
+he might be able to hear the Holy Ghost whisper that such an honor, such a
+holy calling, deserves wearing better than everyday clothes when he performs
+priesthood ordinances or more considerate speech wherever they are. Because
+others may not honor the dignity of the priesthood in those ways, such
+obedience may take faith. But faith when exercised increases. And that
+increase in faith will give greater power to hear and to obey.
 
 Now, you will have great moments in your service to others as they discover
 the source of faith or when that faith leads them to go through the pain of
@@ -253,7 +251,7 @@ fishers.
 "And he saith unto them, Follow me, and I will make you fishers of men.
 
 "And they straightway left their nets, and followed him" ([Matt.
-4:18-20](https://www.lds.org/scriptures/nt/matt/4.18-20?lang=eng#17)).
+4:18-20](/scriptures/nt/matt/4.18-20?lang=eng#17)).
 
 He will make you a fisher of men, however inadequate you may feel now. It
 won't be done by a mysterious process. It will be the natural result of your
@@ -266,7 +264,7 @@ testify.
 But all of that will come naturally, in time, from the covenants you make and
 keep as you follow him. Here is the description of how that will happen, from
 the eighth chapter of Moroni, the twenty-fifth and twenty-sixth verses [[Moro.
-8:25-26](https://www.lds.org/scriptures/bofm/moro/8.25-26?lang=eng#24)]:
+8:25-26](/scriptures/bofm/moro/8.25-26?lang=eng#24)]:
 
 "And the first fruits of repentance is baptism; and baptism cometh by faith
 unto the fulfilling the commandments; and the fulfilling the commandments
@@ -291,4 +289,6 @@ holds the keys that allow us to offer to our Father's children the covenants
 and ordinances that can qualify them for eternal life. And I pray with all my
 heart that we may touch lives with faith enough to repent and to make and keep
 those sacred covenants. In the name of Jesus Christ, amen.
+
+## References
 

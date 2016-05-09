@@ -6,13 +6,12 @@ long time over the years of our lives. And I hope, with Brother Monson's
 permission, I may now travel with him a little farther on the road to Jericho.
 
 Anciently Jesus asked the Pharisees this question: "What think ye of Christ?"
-([Matt. 22:42](https://www.lds.org/scriptures/nt/matt/22.42?lang=eng#41).)
+([Matt. 22:42](/scriptures/nt/matt/22.42?lang=eng#41).)
 
 Those Pharisees were so misdirected in their thinking that "no man was able to
-answer him a word." ([Matt.
-22:46](https://www.lds.org/scriptures/nt/matt/22.46?lang=eng#45).) But had
-they known it, the question was vital to their own best interests, just as it
-is to our well-being today.
+answer him a word." ([Matt. 22:46](/scriptures/nt/matt/22.46?lang=eng#45).)
+But had they known it, the question was vital to their own best interests,
+just as it is to our well-being today.
 
 What think ye of Christ? To bring it down to our own day, let us ask
 ourselves, What do we, personally, think of him?
@@ -43,19 +42,18 @@ we omit them from our lives we may be found unworthy to come into His
 presence.
 
 Think for a moment of the second great commandment to love our neighbors as
-ourselves. ([Matt. 22:38,
-39](https://www.lds.org/scriptures/nt/matt/22.38%2C39?lang=eng#37).) How many
-observe it? Keep in mind that the Lord said it is of like importance to the
-first great commandment, which is to love God with all our heart and soul.
+ourselves. ([Matt. 22:38, 39](/scriptures/nt/matt/22.38,39?lang=eng#37).) How
+many observe it? Keep in mind that the Lord said it is of like importance to
+the first great commandment, which is to love God with all our heart and soul.
 
 Consider, too, his commandment to do unto others as we would be done by. How
 many live that law? How many go down that road to Jericho?
 
 Read again the parable of the Good Samaritan ([Luke
-10:30-37](https://www.lds.org/scriptures/nt/luke/10.30-37?lang=eng#29)),
-especially in light of the last part of the twenty-fifth chapter of Matthew.
-Do not these scriptures teach that if we fail to do right by our fellowmen we
-seriously jeopardize our own salvation? Note the Lord's words:
+10:30-37](/scriptures/nt/luke/10.30-37?lang=eng#29)), especially in light of
+the last part of the twenty-fifth chapter of Matthew. Do not these scriptures
+teach that if we fail to do right by our fellowmen we seriously jeopardize our
+own salvation? Note the Lord's words:
 
 "I was an hungered, and ye gave me no meat: I was thirsty, and ye gave me no
 drink:
@@ -65,18 +63,17 @@ visited me not. ...
 
 "Verily I say unto you, Inasmuch as ye did it not to one of the least of
 these, ye did it not to me." ([Matt. 25:42-43,
-45](https://www.lds.org/scriptures/nt/matt/25.42-43%2C45?lang=eng#41).)
+45](/scriptures/nt/matt/25.42-43,45?lang=eng#41).)
 
 Those to whom he spoke, who were thus neglectful, were not counted with the
 sheep of his fold. They were not on his favored right hand, but on his left
 where there is weeping and gnashing of teeth. "And these," the scripture says,
 "shall go away into everlasting punishment." ([Matt.
-25:46](https://www.lds.org/scriptures/nt/matt/25.46?lang=eng#45).)
+25:46](/scriptures/nt/matt/25.46?lang=eng#45).)
 
 The First Epistle of John tells us that if we do not have good relationships
 with our neighbors, whom we have seen, we cannot rightfully claim to love God,
-whom we have not seen. ([1 Jn.
-4:20](https://www.lds.org/scriptures/nt/1-jn/4.20?lang=eng#19).)
+whom we have not seen. ([1 Jn. 4:20](/scriptures/nt/1-jn/4.20?lang=eng#19).)
 
 Do we take time occasionally to read the Sermon on the Mount? It refers
 largely to our relationships with one another. Let me mention just a few of
@@ -87,7 +84,7 @@ that thy brother hath aught against thee--
 
 "Go thy way unto thy brother, and first be reconciled to thy brother, and then
 come unto me with full purpose of heart, and I will receive you." ([3 Ne.
-12:23-24](https://www.lds.org/scriptures/bofm/3-ne/12.23-24?lang=eng#22).)
+12:23-24](/scriptures/bofm/3-ne/12.23-24?lang=eng#22).)
 
 Can we suppose for one moment that the Lord would welcome us on any other
 basis?
@@ -97,7 +94,7 @@ Father will also forgive you;
 
 "But if ye forgive not men their trespasses neither will your Father forgive
 your trespasses." ([3 Ne.
-13:14-15](https://www.lds.org/scriptures/bofm/3-ne/13.14-15?lang=eng#13).)
+13:14-15](/scriptures/bofm/3-ne/13.14-15?lang=eng#13).)
 
 Note what a great principle is involved here, and how it can affect each one
 of us. "If ye forgive not men their trespasses neither will your Father
@@ -108,13 +105,12 @@ And then he said: "Judge not, that ye be not judged.
 
 "For with what judgment ye judge, ye shall be judged; and with what measure ye
 mete, it shall be measured to you again." ([3 Ne.
-14:1-2](https://www.lds.org/scriptures/bofm/3-ne/14.1-2?lang=eng#0).)
+14:1-2](/scriptures/bofm/3-ne/14.1-2?lang=eng#0).)
 
 In the first section of the Doctrine and Covenants we read that "the Lord
 shall come to recompense unto every man according to his work, and measure to
 every man according to the measure which he has measured to his fellow man."
-([D&amp;C 1:10](https://www.lds.org/scriptures/dc-
-testament/dc/1.10?lang=eng#9).)
+([D&amp;C 1:10](/scriptures/dc-testament/dc/1.10?lang=eng#9).)
 
 This teaching deserves the most careful consideration, for on judgment day the
 Lord will mete out to us precisely as we have dealt with our fellowmen, unless
@@ -130,7 +126,7 @@ It also helps us to understand the deep meaning of the Golden Rule: "All
 things whatsoever ye would that men should do to you, do ye even so to them."
 This is a commandment, and to further emphasize it the Lord said: "This is the
 law and the prophets." ([3 Ne.
-14:12](https://www.lds.org/scriptures/bofm/3-ne/14.12?lang=eng#11).)
+14:12](/scriptures/bofm/3-ne/14.12?lang=eng#11).)
 
 It is not something we may lightly set aside. Does it not help us to better
 understand the twenty-fifth chapter of Matthew? Can we see then his purpose in
@@ -140,8 +136,7 @@ What makes it even more compelling is another statement which the Lord gave us
 in the Sermon on the Mount, and this to me is awesome. Said the Lord, "Verily
 I say unto you, that except ye shall keep my commandments, which I have
 commanded you at this time, _ye shall in no case enter into the kingdom of
-heaven._" ([3 Ne.
-12:20](https://www.lds.org/scriptures/bofm/3-ne/12.20?lang=eng#19); italics
+heaven._" ([3 Ne. 12:20](/scriptures/bofm/3-ne/12.20?lang=eng#19); italics
 added.)
 
 Frightening, isn't it?
@@ -155,7 +150,7 @@ the end. ...
 "And he that endureth not unto the end, the same is he that is also hewn down
 and cast into the fire, from whence they can no more return, because of the
 justice of the Father." ([3 Ne. 27:19,
-17](https://www.lds.org/scriptures/bofm/3-ne/27.19%2C17?lang=eng#18).)
+17](/scriptures/bofm/3-ne/27.19,17?lang=eng#18).)
 
 Doesn't that startle you? Doesn't it convince you that we must take his
 commandments seriously?
@@ -167,7 +162,7 @@ refer to the Lord's parable.
 
 If we hope to enter his kingdom, we cannot regard these basic commandments as
 if they were optional. He has said, "This is the way, walk ye in it." ([Isa.
-30:21](https://www.lds.org/scriptures/ot/isa/30.21?lang=eng#20).)
+30:21](/scriptures/ot/isa/30.21?lang=eng#20).)
 
 If we are unkind, unclean, dishonest, or cruel; if we are hypocritical and
 appear pious when in fact our hearts are evil, we throw our hope of salvation
@@ -175,22 +170,20 @@ to the four winds, unless we truly repent.
 
 As he spoke to the Nephites, the Savior asked: "What manner of men ought ye to
 be?" And he quickly replied, "Even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 We all remember these familiar words: "Not every one that saith unto me, Lord,
 Lord, shall enter into the kingdom of heaven; but he that doeth the will of my
 Father who is in heaven." ([3 Ne.
-14:21](https://www.lds.org/scriptures/bofm/3-ne/14.21?lang=eng#20).) This,
-too, should give us pause, for mere protestations of faith will not admit us
-into the kingdom, even though we may say, "Have we not prophesied in thy name,
-and in thy name have cast out devils, and in thy name done many wonderful
-works?" ([3 Ne.
-14:22](https://www.lds.org/scriptures/bofm/3-ne/14.22?lang=eng#21).)
+14:21](/scriptures/bofm/3-ne/14.21?lang=eng#20).) This, too, should give us
+pause, for mere protestations of faith will not admit us into the kingdom,
+even though we may say, "Have we not prophesied in thy name, and in thy name
+have cast out devils, and in thy name done many wonderful works?" ([3 Ne.
+14:22](/scriptures/bofm/3-ne/14.22?lang=eng#21).)
 
 If we have not obeyed the weightier matters of the law, dealing justly with
 our fellowmen, he will surely say to us: "I never knew you; depart from me, ye
-that work iniquity." ([3 Ne.
-14:23](https://www.lds.org/scriptures/bofm/3-ne/14.23?lang=eng#22).)
+that work iniquity." ([3 Ne. 14:23](/scriptures/bofm/3-ne/14.23?lang=eng#22).)
 
 This helps us to better understand the words of Paul as he said: "Though I
 speak with the tongues of men and of angels, and have not charity, I am become
@@ -202,7 +195,7 @@ have not charity, I am nothing.
 
 "And though I bestow all my goods to feed the poor, and though I give my body
 to be burned, and have not charity, it profiteth me nothing." ([1 Cor.
-13:1-3](https://www.lds.org/scriptures/nt/1-cor/13.1-3?lang=eng#0).)
+13:1-3](/scriptures/nt/1-cor/13.1-3?lang=eng#0).)
 
 And what is charity in its true sense? It is the pure love of Christ which
 helps us to love both God and our fellowmen.
@@ -210,11 +203,10 @@ helps us to love both God and our fellowmen.
 In the book of Alma we read a further explanation: "If ye do not remember to
 be charitable, ye are as dross, which the refiners do cast out, (it being of
 no worth) and is trodden under foot of men." ([Alma
-34:29](https://www.lds.org/scriptures/bofm/alma/34.29?lang=eng#28).)
+34:29](/scriptures/bofm/alma/34.29?lang=eng#28).)
 
 The Lord teaches us that we cannot serve two masters, God and Mammon, at the
-same time ([3 Ne.
-13:24](https://www.lds.org/scriptures/bofm/3-ne/13.24?lang=eng#23)), but many
+same time ([3 Ne. 13:24](/scriptures/bofm/3-ne/13.24?lang=eng#23)), but many
 still try to do so!
 
 Why is the Lord so strict in requiring detailed obedience from us? It is
@@ -234,8 +226,8 @@ slothful and not a wise servant; wherefore he receiveth no reward. ...
 
 "But he that doeth not anything until he is commanded, and receiveth a
 commandment with doubtful heart, and keepeth it with slothfulness, the same is
-damned." ([D&amp;C 58:26, 29](https://www.lds.org/scriptures/dc-
-testament/dc/58.26%2C29?lang=eng#25).)
+damned." ([D&amp;C 58:26, 29](/scriptures/dc-
+testament/dc/58.26,29?lang=eng#25).)
 
 The Prophet Abinadi gave us further understanding of this vital principle in
 these words: "The Lord redeemeth none such that rebel against him and die in
@@ -246,7 +238,7 @@ in the first resurrection. ...
 
 "For salvation cometh to none such; for the Lord hath redeemed none such; yea,
 neither can the Lord redeem such." ([Mosiah
-15:26-27](https://www.lds.org/scriptures/bofm/mosiah/15.26-27?lang=eng#25).)
+15:26-27](/scriptures/bofm/mosiah/15.26-27?lang=eng#25).)
 
 But nevertheless the Lord invites all to come unto him on conditions of
 repentance, and says: "Come unto me, all ye that labour and are heavy laden,
@@ -256,13 +248,14 @@ and I will give you rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 So what are we to do? We are to "seek ... first the kingdom of God and his
-righteousness." ([3 Ne.
-13:33](https://www.lds.org/scriptures/bofm/3-ne/13.33?lang=eng#32).) We are to
-give our religion first priority in our lives, and then serve God with all our
-hearts and do unto others as we would be done by as we travel down the road to
-Jericho. And that we may do so is my humble and earnest prayer in the sacred
-name of the Lord Jesus Christ. Amen.
+righteousness." ([3 Ne. 13:33](/scriptures/bofm/3-ne/13.33?lang=eng#32).) We
+are to give our religion first priority in our lives, and then serve God with
+all our hearts and do unto others as we would be done by as we travel down the
+road to Jericho. And that we may do so is my humble and earnest prayer in the
+sacred name of the Lord Jesus Christ. Amen.
+
+## References
 

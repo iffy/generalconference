@@ -99,9 +99,9 @@ The hope and prayer of his family is that he will be able to hold on to the
 lifeline.
 
 When Satan was cast down to earth with his innumerable hosts, he became "the
-father of all lies, to deceive and to blind men, and to lead them captive ... ,
+father of all lies, to deceive and to blind men, and to lead them captive ...,
 even as many as would not hearken unto my voice" ([Moses
-4:4](https://www.lds.org/scriptures/pgp/moses/4.4?lang=eng#3)).
+4:4](/scriptures/pgp/moses/4.4?lang=eng#3)).
 
 One of Satan's methods is to distract and entice us so that we will take our
 eyes off the dangerous crevasses. He has succeeded to such an extent that many
@@ -114,8 +114,7 @@ do evil are not punished." So stated a _Los Angeles Times_ writer (see _Salt
 Lake Tribune,_ 9 Aug. 1986, p. C7).
 
 Assuredly we live in a time spoken of by Isaiah when men "call evil good, and
-good evil" ([Isa.
-5:20](https://www.lds.org/scriptures/ot/isa/5.20?lang=eng#19)).
+good evil" ([Isa. 5:20](/scriptures/ot/isa/5.20?lang=eng#19)).
 
 If any of you are walking in ice fields near open crevasses, do you see the
 warning signs? "Danger--don't go near the edge"? Don't trifle with evil. You
@@ -157,8 +156,7 @@ to represent your Heavenly Father.
 
 Now, my brethren, let us who have been given this most precious responsibility
 of the holy priesthood "arise," as father Lehi declared, and "put on the armor
-of righteousness" ([2 Ne.
-21-23](https://www.lds.org/scriptures/bofm/2-ne/21.title?lang=eng)).
+of righteousness" ([2 Ne. 21-23](/scriptures/bofm/2-ne/21?lang=eng)).
 
 To help each of us avoid the pitfalls and crevasses in life, the Lord has
 provided the lifeline of the precious truths in the scriptures, which, if held
@@ -200,8 +198,7 @@ As the angel Moroni sealed up the gold plates, he was inspired to promise
 future generations--that is, us--that on certain conditions God will manifest
 the truth of those records by the power of the Holy Ghost, and that--listen
 carefully--"by the power of the Holy Ghost ye may know the truth of all
-things" (see [Moro.
-10:4-5](https://www.lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3)).
+things" (see [Moro. 10:4-5](/scriptures/bofm/moro/10.4-5?lang=eng#3)).
 
 Imagine such a promise. If you desire with a sincere heart, with faith in
 Christ, you can understand all things.
@@ -238,4 +235,6 @@ in Him to avoid the crevasses of sin and evil. Hold on to the lifeline of the
 gospel. You can make correct choices--the ones you know in your heart will be
 for your best good. We love you and testify of the truthfulness of the gospel
 of Christ. In the name of Jesus Christ, amen.
+
+## References
 

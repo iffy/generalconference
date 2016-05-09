@@ -1,4 +1,4 @@
-# Relief Society: A Balm in Gilead
+# Relief Society:A Balm in Gilead
 
 My message tonight is simple. Please know how I love Relief Society. I know
 the love and peace and unity that it brings into the lives of women of this
@@ -113,9 +113,9 @@ we often have the desire and the natural tendency as women to fix what's
 broken, we are not the "solution society." We are the Relief Society. We
 understand the power and strength of the fruits of the Spirit described in
 Galatians: love, joy, _peace,_ longsuffering, gentleness, goodness, faith
-([Gal. 5:22](https://www.lds.org/scriptures/nt/gal/5.22?lang=eng#21); emphasis
-added). We can soothe a suffering heart when we can't eliminate the trouble.
-We can bring reassurance and support, kindness, and calm.
+([Gal. 5:22](/scriptures/nt/gal/5.22?lang=eng#21); emphasis added). We can
+soothe a suffering heart when we can't eliminate the trouble. We can bring
+reassurance and support, kindness, and calm.
 
 When the Prophet Joseph Smith was suffering in Liberty Jail, he wrote of the
 balm he received from his friends. He said:
@@ -141,15 +141,14 @@ world is blessed by their influence.
 So much of our contribution is done in quiet ways, one sister at a time. It
 has always been so. I think of Mary who bathed Christ's feet after his hot and
 dusty journey and then dried his feet with her hair before applying a healing
-ointment (see [John
-12:3](https://www.lds.org/scriptures/nt/john/12.3?lang=eng#2)). I think of
+ointment (see [John 12:3](/scriptures/nt/john/12.3?lang=eng#2)). I think of
 Dorcas, sometimes called the Relief Society sister of the New Testament
 because her life through her good deeds prompted the women to weep and wail at
 her passing. They pleaded with Peter to restore her to life (see [Acts
-9:36-39](https://www.lds.org/scriptures/nt/acts/9.36-39?lang=eng#35)). I think
-of Helen who works with me at the general Relief Society offices. Untiring,
-patient, accommodating of all, Helen is a source of peace. She gives me
-comfort because I know she is always there, even and fine.
+9:36-39](/scriptures/nt/acts/9.36-39?lang=eng#35)). I think of Helen who works
+with me at the general Relief Society offices. Untiring, patient,
+accommodating of all, Helen is a source of peace. She gives me comfort because
+I know she is always there, even and fine.
 
 I have been privileged to meet many of you. Thank you for the steadfast love
 you extend to one another, for your example, for your service. Thank you for
@@ -187,9 +186,8 @@ drink from a fountain, sending a note in the mail, reading the scriptures with
 someone. Or it may be visiting someone you've missed at meetings, someone you
 hear mentioned in your heart by the still, small voice. These little actions
 inspire us; they take the edges off our problems. Indeed, "Out of small things
-proceedeth that which is great" ([D&amp;C
-64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32)). The
-giver and the receiver are both blessed.
+proceedeth that which is great" ([D&amp;C 64:33](/scriptures/dc-
+testament/dc/64.33?lang=eng#32)). The giver and the receiver are both blessed.
 
 Our strength as Relief Society sisters in the gospel is most visible and most
 critical at home. Women are the heart of the home. Whatever your circumstance,
@@ -253,7 +251,7 @@ Lehi and Sariah as an example. How did they feel about the constant bickering
 of Laman and Lemuel? When Joseph was sold into Egypt, what did he think of his
 brothers? Did Queen Esther really want to hear from her Uncle Mordecai, "Who
 knoweth whether thou art come ... for such a time as this?" ([Esth.
-4:14](https://www.lds.org/scriptures/ot/esth/4.14?lang=eng#13).)
+4:14](/scriptures/ot/esth/4.14?lang=eng#13).)
 
 Families signify responsibility to and for each other. This spring my seven-
 year-old grandson, David, called to see if I could come to his class's spring
@@ -276,16 +274,15 @@ well from one of the most wrenching experiences in the history of the world,
 the crucifixion of Jesus Christ, the Son of God.
 
 We read in John, "There stood by the cross of Jesus his mother, and his
-mother's sister" ([John
-19:25](https://www.lds.org/scriptures/nt/john/19.25?lang=eng#24)). They were
-there as they had been throughout his life. My mind darts back to the early
-years as Mary and Joseph raised this most remarkable child. I can hear Mary
-comforting the baby Jesus with soothing words that come so naturally to us:
-"I'm right here." And then at this most dramatic moment of all time, there was
-the mother, Mary. She couldn't soothe his pain this time, but she could stand
-by his side. Jesus, in tribute, offered those grand words, "Woman, behold thy
-son! Then saith he to the disciple, Behold thy mother!" ([John
-19:26-27](https://www.lds.org/scriptures/nt/john/19.26-27?lang=eng#25).)
+mother's sister" ([John 19:25](/scriptures/nt/john/19.25?lang=eng#24)). They
+were there as they had been throughout his life. My mind darts back to the
+early years as Mary and Joseph raised this most remarkable child. I can hear
+Mary comforting the baby Jesus with soothing words that come so naturally to
+us: "I'm right here." And then at this most dramatic moment of all time, there
+was the mother, Mary. She couldn't soothe his pain this time, but she could
+stand by his side. Jesus, in tribute, offered those grand words, "Woman,
+behold thy son! Then saith he to the disciple, Behold thy mother!" ([John
+19:26-27](/scriptures/nt/john/19.26-27?lang=eng#25).)
 
 My sisters of Relief Society, we are the bearers of the balm of Gilead. May
 your Relief Society sisterhood soothe and bless you. May you know how I
@@ -295,4 +292,6 @@ ameliorating influence, the balm of Relief Society.
 I leave you with my testimony that God lives, that Jesus Christ is his Son,
 and that his gospel has been restored in these latter days. In the name of
 Jesus Christ, amen.
+
+## References
 

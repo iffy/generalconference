@@ -15,9 +15,8 @@ Noah. It must have been bad then too. Maybe we today are not quite as bad as
 they were. Moses recorded in the Book of Genesis: "And God saw that the
 wickedness of man was great in the earth, and that every imagination of the
 thoughts of his heart was only evil continually." ([Gen.
-6:5](https://www.lds.org/scriptures/ot/gen/6.5?lang=eng#4).) I don't believe I
-have ever known anyone quite that bad, whose "every thought was evil
-continually."
+6:5](/scriptures/ot/gen/6.5?lang=eng#4).) I don't believe I have ever known
+anyone quite that bad, whose "every thought was evil continually."
 
 The Lord further indicated that all flesh was corrupt in those days, and so he
 brought forth the flood and destroyed all flesh except Noah and his family.
@@ -26,20 +25,19 @@ under very serious attack today all over the world.
 
 The Lord said from Mt. Sinai, "Honour thy father and thy mother: that thy days
 may be long upon the land which the Lord thy God giveth thee." ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11).)
+20:12](/scriptures/ot/ex/20.12?lang=eng#11).)
 
 We seem to have conditions today similar to those Noah faced; and the Lord
 speaks of smiting the earth with a curse, as happened at the time of the
 flood, and this will happen if there is not a turning of "the heart of the
 fathers to the children, and the heart of the children to their fathers."
-([Mal. 4:6](https://www.lds.org/scriptures/ot/mal/4.6?lang=eng#5).)
+([Mal. 4:6](/scriptures/ot/mal/4.6?lang=eng#5).)
 
 There are those who feel that this turning of the hearts is strictly Elijah's
-job, but in Doctrine and Covenants 98:16 [[D&amp;C
-98:16](https://www.lds.org/scriptures/dc-testament/dc/98.16?lang=eng#15)] the
-Lord seems to give _us_ that assignment. He said, "Seek diligently to turn the
-hearts of the children to their fathers, and the hearts of the fathers to the
-children."
+job, but in Doctrine and Covenants 98:16 [[D&amp;C 98:16](/scriptures/dc-
+testament/dc/98.16?lang=eng#15)] the Lord seems to give _us_ that assignment.
+He said, "Seek diligently to turn the hearts of the children to their fathers,
+and the hearts of the fathers to the children."
 
 Elijah came and delivered the keys, but the Lord looks to us to do the work.
 In a little plainer translation of the Malachi scripture, the Lord said:
@@ -51,9 +49,8 @@ prophet, before the coming of the great and dreadful day of the Lord.
 fathers, and the hearts of the children shall turn to their fathers.
 
 "If it were not so, the whole earth would be utterly wasted at his coming."
-([D&amp;C 2:1-3](https://www.lds.org/scriptures/dc-
-testament/dc/2.1-3?lang=eng#0); see also [JS--H
-1:38-39](https://www.lds.org/scriptures/pgp/js-h/1.38-39?lang=eng#37).)
+([D&amp;C 2:1-3](/scriptures/dc-testament/dc/2.1-3?lang=eng#0); see also [JS--
+H 1:38-39](/scriptures/pgp/js-h/1.38-39?lang=eng#37).)
 
 We, then, are in the very serious business of attempting to save the earth or
 to keep it from being "wasted" when the Lord comes. This earth was created so
@@ -65,11 +62,9 @@ of the flood He will surely destroy it.
 So what must we do? We must follow the living prophet, for herein is our only
 safety. He says, among other things:
 
-  1. Complete four-generation family records and as far beyond as you can go.
-
-  2. Write a personal and family history.
-
-  3. Perform a reasonable number of temple ordinances by attending the temple as often as is practical.
+  1. Complete four-generation family records and as far beyond as you can go. 
+  2. Write a personal and family history. 
+  3. Perform a reasonable number of temple ordinances by attending the temple as often as is practical. 
 
 I personally believe that the writing of personal and family histories will do
 more to turn the hearts of the children to the fathers and the fathers to
@@ -93,7 +88,7 @@ I am convinced that these records we are commanded to write are absolutely
 vital, not only to the salvation of our ancestors but also to ours, for are we
 not to be judged out of the books which John saw were to be opened, as
 recorded in Revelation 20:12 [[Rev.
-20:12](https://www.lds.org/scriptures/nt/rev/20.12?lang=eng#11)]?
+20:12](/scriptures/nt/rev/20.12?lang=eng#11)]?
 
 "And I saw the dead, small and great, stand before God; and the books were
 opened: and another book was opened, which is the book of life: and the dead
@@ -101,8 +96,8 @@ were judged out of those things which were written in the books, according to
 their works."
 
 After quoting this verse from Revelation, the Prophet Joseph Smith said, as
-recorded in Doctrine and Covenants 128:7-8 [[D&amp;C
-128:7-8](https://www.lds.org/scriptures/dc-testament/dc/128.7-8?lang=eng#6)]:
+recorded in Doctrine and Covenants 128:7-8 [[D&amp;C 128:7-8](/scriptures/dc-
+testament/dc/128.7-8?lang=eng#6)]:
 
 "You will discover in this quotation that the _books_ were opened; and another
 book was opened, which was the book of life; but the dead were judged out of
@@ -146,4 +141,6 @@ nations around the world so the saving ordinances of the gospel and the ties
 that bind eternal families may be made available to all the children of the
 earth! Surely we are the most blessed people who have ever lived, to which I
 bear witness in the name of the Lord, Jesus Christ, amen.
+
+## References
 

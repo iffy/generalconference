@@ -105,13 +105,11 @@ The Lord has said: "For if ye forgive men their trespasses, your heavenly
 Father will also forgive you:
 
 "But if ye forgive not men their trespasses, neither will your Father forgive
-your trespasses." ([Matt.
-6:14-15](https://www.lds.org/scriptures/nt/matt/6.14-15?lang=eng#13).)
+your trespasses." ([Matt. 6:14-15](/scriptures/nt/matt/6.14-15?lang=eng#13).)
 
 And he further added: "For he that forgiveth not his brother his trespasses
 standeth condemned before the Lord; for there remaineth in him the greater
-sin." ([D&amp;C 64:9](https://www.lds.org/scriptures/dc-
-testament/dc/64.9?lang=eng#8).)
+sin." ([D&amp;C 64:9](/scriptures/dc-testament/dc/64.9?lang=eng#8).)
 
 In other scriptures the Lord has said he would forgive and forget the sins of
 those who have truly repented. Ofttimes _we_ choose to decide when a person
@@ -126,7 +124,7 @@ From Moroni we read:
 "And now, my brethren, seeing that ye know the light by which ye may judge,
 which light is the light of Christ, see that ye do not judge wrongfully; for
 with that same judgment which ye judge ye shall also be judged." ([Moro.
-7:18](https://www.lds.org/scriptures/bofm/moro/7.18?lang=eng#17).)
+7:18](/scriptures/bofm/moro/7.18?lang=eng#17).)
 
 Forgiveness of others for wrongs--imaginary or real--often does more for the
 forgiver than for the forgiven. That person who has not forgiven a wrong or an
@@ -164,23 +162,23 @@ mocked and jeered. He suffered every indignity at the hands of his own people.
 ... He was required to carry his own cross. ... Finally, with the soldiers and his
 accusers down below him, he looked upon the Roman soldiers and said these
 immortal words: '_Father, forgive them; for they know not what they do.'_
-([Luke 23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)"
-(_The Miracle of Forgiveness,_ Salt Lake City: Bookcraft, 1969, pp. 279-80.)
+([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33).)" (_The Miracle of
+Forgiveness,_ Salt Lake City: Bookcraft, 1969, pp. 279-80.)
 
 Now, brothers and sisters, let us go to our homes and dismiss from our beings
 --and purge from our souls--the venom of any feeling of ill will or bitterness
 toward anyone. Let us strike from our hearts the unwillingness to forgive and
 forget; and, instead, approach men in the spirit of the Master, even those who
-"despitefully use you." ([Matt.
-5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43).) Let us pray--
-rather, let us plead for the spirit of forgiveness. Let us look for the good
-in each other--not the flaws.
+"despitefully use you." ([Matt. 5:44](/scriptures/nt/matt/5.44?lang=eng#43).)
+Let us pray--rather, let us plead for the spirit of forgiveness. Let us look
+for the good in each other--not the flaws.
 
 The Master knew men's lives would be changed more quickly and more surely by
-love than by criticism. In [1 Jn.
-4:19](https://www.lds.org/scriptures/nt/1-jn/4.19?lang=eng#18) we read: "We
-love him, because he first loved us."
+love than by criticism. In [1 Jn. 4:19](/scriptures/nt/1-jn/4.19?lang=eng#18)
+we read: "We love him, because he first loved us."
 
 I testify to the importance of this principle of salvation, the principle of
 forgiving and forgetting, in the name of Jesus Christ, amen.
+
+## References
 

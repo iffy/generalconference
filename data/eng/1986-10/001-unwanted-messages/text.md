@@ -6,16 +6,14 @@ is a watchman on the tower. He has raised a warning voice. I would urge all to
 listen and follow his counsel. It is tremendously important always to be in
 harmony with those who, according to Paul, have "watch for your souls, as they
 that must give account, that they may do it with joy, and not with grief"
-([Heb. 13:17](https://www.lds.org/scriptures/nt/heb/13.17?lang=eng#16)).
+([Heb. 13:17](/scriptures/nt/heb/13.17?lang=eng#16)).
 
 Isaiah spoke of a people who did not care to listen to their prophets and
 seers, who were urged, "Say to the seers, See not; and to the prophets,
 Prophesy not unto us right things, speak unto us smooth things, prophesy
-deceits" ([Isa.
-30:10](https://www.lds.org/scriptures/ot/isa/30.10?lang=eng#9)). Nephi
-explained, "The guilty taketh the truth to be hard, for it cutteth them to the
-very center" ([1 Ne.
-16:2](https://www.lds.org/scriptures/bofm/1-ne/16.2?lang=eng#1)).
+deceits" ([Isa. 30:10](/scriptures/ot/isa/30.10?lang=eng#9)). Nephi explained,
+"The guilty taketh the truth to be hard, for it cutteth them to the very
+center" ([1 Ne. 16:2](/scriptures/bofm/1-ne/16.2?lang=eng#1)).
 
 President Spencer W. Kimball spoke of the duty of prophets. He said:
 
@@ -63,35 +61,33 @@ When the ruler heard this, "he was very sorrowful: for he was very rich.
 
 "And when Jesus saw that he was very sorrowful, he said, How hardly shall they
 that have riches enter into the kingdom of God!" ([Luke 18:18,
-20-24](https://www.lds.org/scriptures/nt/luke/18.18%2C20-24?lang=eng#17)).
+20-24](/scriptures/nt/luke/18.18,20-24?lang=eng#17)).
 
 How people handle their earthly riches is among the great tests they have in
 life.
 
 This same Jesus of Nazareth spoke much novel doctrine which seemed hard to
 accept. Some said, "What new doctrine is this?" ([Mark
-1:27](https://www.lds.org/scriptures/nt/mark/1.27?lang=eng#26)). Jesus did not
-speak of revenge nor of getting even. He spoke of loving our enemies and doing
-good to them that hate us, of blessing those that curse us, and of praying for
-those which despitefully use us (see [Luke
-6:27-28](https://www.lds.org/scriptures/nt/luke/6.27-28?lang=eng#26)). He
-counseled his followers, when smitten on one cheek, to "offer also the other;
-and him that taketh away thy cloke forbid [him] not to take thy coat also"
-([Luke 6:29](https://www.lds.org/scriptures/nt/luke/6.29?lang=eng#28)).
+1:27](/scriptures/nt/mark/1.27?lang=eng#26)). Jesus did not speak of revenge
+nor of getting even. He spoke of loving our enemies and doing good to them
+that hate us, of blessing those that curse us, and of praying for those which
+despitefully use us (see [Luke
+6:27-28](/scriptures/nt/luke/6.27-28?lang=eng#26)). He counseled his
+followers, when smitten on one cheek, to "offer also the other; and him that
+taketh away thy cloke forbid [him] not to take thy coat also" ([Luke
+6:29](/scriptures/nt/luke/6.29?lang=eng#28)).
 
 Another interesting new doctrine was to go beyond loving only our own and
 being good just to our friends. Another strange idea Jesus taught was to lend
 goods and money, hoping for nothing in return. The Master counseled us to be
 merciful, to judge not and condemn not, and to be kind to the unthankful and
-to the evil (see [Luke
-6:34-37](https://www.lds.org/scriptures/nt/luke/6.34-37?lang=eng#33)). He also
-spoke of being careful "when all men shall speak well of you" because all men
-spoke well of the false prophets ([Luke
-6:26](https://www.lds.org/scriptures/nt/luke/6.26?lang=eng#25)).
+to the evil (see [Luke 6:34-37](/scriptures/nt/luke/6.34-37?lang=eng#33)). He
+also spoke of being careful "when all men shall speak well of you" because all
+men spoke well of the false prophets ([Luke
+6:26](/scriptures/nt/luke/6.26?lang=eng#25)).
 
 The promise for those who can do this is great: "Ye shall be the children of
-the Highest" ([Luke
-6:35](https://www.lds.org/scriptures/nt/luke/6.35?lang=eng#34)).
+the Highest" ([Luke 6:35](/scriptures/nt/luke/6.35?lang=eng#34)).
 
 May I mention two or three other messages which seem no longer popular? One is
 to respect the Sabbath day. While the Savior himself cautioned against extreme
@@ -110,27 +106,26 @@ losing the blessings which observance of this commandment would bring. The
 Lord has spoken in our day concerning the Sabbath day. We are to keep
 ourselves "unspotted from the world" and "go to the house of prayer." We are
 to rest from our labors and pay our "devotions unto the Most High" ([D&amp;C
-59:9-10](https://www.lds.org/scriptures/dc-testament/dc/59.9-10?lang=eng#8)).
-The Doctrine and Covenants reminds us: "And on this day thou shalt do none
-other thing, only let thy food be prepared with singleness of heart that thy
-fasting may be perfect, or, in other words, that thy joy may be full"
-([D&amp;C 59:13](https://www.lds.org/scriptures/dc-
-testament/dc/59.13?lang=eng#12)). The blessings for those who do righteousness
-are supernal. They shall enjoy "peace in this world, and eternal life in the
-world to come" ([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
+59:9-10](/scriptures/dc-testament/dc/59.9-10?lang=eng#8)). The Doctrine and
+Covenants reminds us: "And on this day thou shalt do none other thing, only
+let thy food be prepared with singleness of heart that thy fasting may be
+perfect, or, in other words, that thy joy may be full" ([D&amp;C
+59:13](/scriptures/dc-testament/dc/59.13?lang=eng#12)). The blessings for
+those who do righteousness are supernal. They shall enjoy "peace in this
+world, and eternal life in the world to come" ([D&amp;C 59:23](/scriptures/dc-
 testament/dc/59.23?lang=eng#22)).
 
 Another transcendent but often unheeded message which peals down from Sinai is
 "Honour thy father and thy mother" ([Ex.
-20:12](https://www.lds.org/scriptures/ot/ex/20.12?lang=eng#11)). I have
-frequently walked by a rest home that provides excellent care. But it is
-heartrending to see so many parents and grandparents in that good care
-facility so forgotten, so bereft of dignity, so starved for love. To honor
-parents certainly means to take care of physical needs. But it means much,
-much more. It means to show love, kindness, thoughtfulness, and concern for
-them all of the days of their lives. It means to help them preserve their
-dignity and self-respect in their declining years. It means to honor their
-wishes and desires and their teachings both before and after they are dead.
+20:12](/scriptures/ot/ex/20.12?lang=eng#11)). I have frequently walked by a
+rest home that provides excellent care. But it is heartrending to see so many
+parents and grandparents in that good care facility so forgotten, so bereft of
+dignity, so starved for love. To honor parents certainly means to take care of
+physical needs. But it means much, much more. It means to show love, kindness,
+thoughtfulness, and concern for them all of the days of their lives. It means
+to help them preserve their dignity and self-respect in their declining years.
+It means to honor their wishes and desires and their teachings both before and
+after they are dead.
 
 Some years ago I created a stake on one of the islands in Japan. As usual, we
 held many interviews with the leaders to become acquainted with them. One of
@@ -154,7 +149,7 @@ going to inappropriate movies, and other questionable activities. Children
 often take license from their parents' behavior and go beyond the values the
 parents wish to establish. There is one safe parental rule: do not just avoid
 evil, avoid the very appearance of evil (see [1 Thes.
-5:22](https://www.lds.org/scriptures/nt/1-thes/5.22?lang=eng#21)).
+5:22](/scriptures/nt/1-thes/5.22?lang=eng#21)).
 
 I should like to speak of one more strong message. It is frequently astounding
 to see the dereliction of people in keeping the standards of ordinary fairness
@@ -172,9 +167,8 @@ by indulging in the twin sophistries, "There isn't any justice" and "Everybody
 does it"? There are many others who seemingly prosper by violating the rules
 of God and the standards of decency and fair play. They appear to escape the
 imminent law of the harvest, which states, "Whatsoever a man soweth, that
-shall he also reap" ([Gal.
-6:7](https://www.lds.org/scriptures/nt/gal/6.7?lang=eng#6)). Worrying about
-the punishment we think ought to come to others is self-defeating to us.
+shall he also reap" ([Gal. 6:7](/scriptures/nt/gal/6.7?lang=eng#6)). Worrying
+about the punishment we think ought to come to others is self-defeating to us.
 Brigham Young counseled that unless we ourselves are prepared for the day of
 the Lord's vengeance when the wicked will be consumed, we should not be too
 anxious for the Lord to hasten his work. Said he rather, "Let our anxiety be
@@ -192,18 +186,17 @@ is to change the behavior and follow a repentant path.
 The prophet Isaiah taught, "Woe unto them that call evil good, and good evil;
 that put darkness for light, and light for darkness; that put bitter for
 sweet, and sweet for bitter!" ([Isa.
-5:20](https://www.lds.org/scriptures/ot/isa/5.20?lang=eng#19)).
+5:20](/scriptures/ot/isa/5.20?lang=eng#19)).
 
 During all of my ministry, I have been fascinated by the manner in which Jesus
 hardened the bone and spirit of his chief Apostle, Peter. When Jesus told
 Peter that he had prayed that Peter's faith would strengthen, Peter affirmed
 that he would go with the Savior to prison or to death. Peter was then told
 that the "cock shall not crow this day, before that thou shalt thrice deny
-that thou knowest me" ([Luke
-22:34](https://www.lds.org/scriptures/nt/luke/22.34?lang=eng#33)). After the
-predicted three denials, the powerful, unwelcome, but steel-hardening message
-came: Peter heard the cock crow. And he "went out, and wept bitterly" ([Matt.
-26:75](https://www.lds.org/scriptures/nt/matt/26.75?lang=eng#74)), but this
+that thou knowest me" ([Luke 22:34](/scriptures/nt/luke/22.34?lang=eng#33)).
+After the predicted three denials, the powerful, unwelcome, but steel-
+hardening message came: Peter heard the cock crow. And he "went out, and wept
+bitterly" ([Matt. 26:75](/scriptures/nt/matt/26.75?lang=eng#74)), but this
 strengthened Peter to fulfill his calling and to die for the cause.
 
 There is one unerring voice that is ever true. It can always be relied upon.
@@ -215,7 +208,7 @@ earthquake:
 
 "And after the earthquake a fire; but the Lord was not in the fire: and after
 the fire a still small voice" ([1 Kgs.
-19:11-12](https://www.lds.org/scriptures/ot/1-kgs/19.11-12?lang=eng#10)).
+19:11-12](/scriptures/ot/1-kgs/19.11-12?lang=eng#10)).
 
 One single unwanted message may be a call to change our lives; it may lead to
 the specially tailored opportunity we need. I am grateful that it is never too
@@ -226,4 +219,6 @@ I wish to testify that the prophetic messages of this conference will lead any
 who will listen--and follow the counsel given--to the promise of the Savior,
 which is peace in this life and eternal life in the world hereafter. I so
 testify in the name of Jesus Christ, amen.
+
+## References
 

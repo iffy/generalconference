@@ -17,7 +17,7 @@ even by violence, there is a people who care for one another.
 
 Paul told the saints at Ephesus: "Now therefore ye are no more strangers and
 foreigners, but fellowcitizens with the saints, and of the household of God."
-([Eph. 2:19](https://www.lds.org/scriptures/nt/eph/2.19?lang=eng#18).)
+([Eph. 2:19](/scriptures/nt/eph/2.19?lang=eng#18).)
 
 To be a fellow citizen with the saints has great meaning. All can receive that
 citizenship through the ordinance of baptism, if they will--if they will
@@ -180,8 +180,7 @@ I am reminded of the scriptural declaration:
 
 "Then they say in their hearts: This is not the work of the Lord, for his
 promises are not fulfilled. But wo unto such, for their reward lurketh
-beneath, and not from above." ([D&amp;C
-58:31-33](https://www.lds.org/scriptures/dc-
+beneath, and not from above." ([D&amp;C 58:31-33](/scriptures/dc-
 testament/dc/58.31-33?lang=eng#30).)
 
 To you who are home teachers--you who perform the routine visit, not
@@ -285,4 +284,6 @@ authority and the keys held by him, he can reach, not just to the stakes and
 the wards and the branches, but he can reach into the homes, to the
 individuals, and bless and sustain them, that the saints might securely dwell.
 In the name of Jesus Christ. Amen.
+
+## References
 

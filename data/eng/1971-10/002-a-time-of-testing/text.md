@@ -78,8 +78,8 @@ moment;
 triumph over all thy foes.
 
 "Thy friends do stand by thee, and they shall hail thee again with warm hearts
-and friendly hands." ([D&amp;C 121:1, 7-9](https://www.lds.org/scriptures/dc-
-testament/dc/121.1%2C7-9?lang=eng#0).)
+and friendly hands." ([D&amp;C 121:1, 7-9](/scriptures/dc-
+testament/dc/121.1,7-9?lang=eng#0).)
 
 Joseph Smith was true, faithful, and unwavering to the trust placed in him.
 His associates were proud to declare to the world: "Joseph Smith, the Prophet
@@ -87,8 +87,7 @@ and Seer of the Lord, has done more, save Jesus only, for the salvation of men
 in this world, than any other man that ever lived in it. ... He lived great, and
 he died great in the eyes of God and his people; and like most of the Lord's
 anointed in ancient times, has sealed his mission and his works with his own
-blood. ..." ([D&amp;C 135:3](https://www.lds.org/scriptures/dc-
-testament/dc/135.3?lang=eng#2).)
+blood. ..." ([D&amp;C 135:3](/scriptures/dc-testament/dc/135.3?lang=eng#2).)
 
 Joseph Smith truly was tested, tried, and not found wanting. He measured up to
 every requirement expected of him.
@@ -122,4 +121,6 @@ that Abraham foresaw.
 All the effort and struggle and sorrow will be well worth it, for we will earn
 the greatest of all gifts, the gift of eternal life. May this be our happy
 lot, I humbly pray in the name of the Lord Jesus Christ. Amen.
+
+## References
 

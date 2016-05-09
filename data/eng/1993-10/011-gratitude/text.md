@@ -28,11 +28,11 @@ Prophet Joseph Smith and Oliver Cowdery in Harmony, Pennsylvania, in April
 1829. It applies as much--and perhaps even more--to us today than it did to
 those people in 1829. It is recorded in the Doctrine and Covenants, section 6,
 verse 12, and states, "Trifle not with sacred things." [[D&amp;C
-6:12](https://www.lds.org/scriptures/dc-testament/dc/6.12?lang=eng#11)] There
-are many sacred things within the gospel, but one of the most sacred is the
-covenants we make in the holy temple. The words _trifle_ and _sacred_ are an
-important part of the admonition that cautions us not to take for granted or
-make light of the sacred, holy, and honorable blessings received.
+6:12](/scriptures/dc-testament/dc/6.12?lang=eng#11)] There are many sacred
+things within the gospel, but one of the most sacred is the covenants we make
+in the holy temple. The words _trifle_ and _sacred_ are an important part of
+the admonition that cautions us not to take for granted or make light of the
+sacred, holy, and honorable blessings received.
 
 The relationships between husbands and wives are sacred, and we should never
 trifle with that great blessing. Many couples enter into marriage without
@@ -75,4 +75,6 @@ first fruits of the Resurrection to show us there is life hereafter.
 Let us all be diligent and obedient in keeping the commandments of the Lord,
 that we may be worthy to receive the blessings he has in store for the
 faithful, I pray in the name of Jesus Christ, amen.
+
+## References
 

@@ -44,8 +44,7 @@ want to leave or why they would come.
 You have been told that in answer to Joseph's question, the Savior said that
 he should join none of the churches, for they taught for doctrine the precepts
 of men: and then the Savior added, "And their creeds are an abomination in my
-sight." (See [JS--H
-1:19](https://www.lds.org/scriptures/pgp/js-h/1.19?lang=eng#18).)
+sight." (See [JS--H 1:19](/scriptures/pgp/js-h/1.19?lang=eng#18).)
 
 We would not want any of our nonmembers to be offended at this statement, but
 if Jesus did visit the Prophet Joseph Smith, and we know that he did, then his
@@ -80,47 +79,43 @@ I would like to say a few words this morning about the statement the Savior
 made that "their creeds are an abomination in my sight." When Satan was cast
 out of heaven, the cry went out: "Woe to the inhabiters of the earth ... for the
 devil is come down unto you, having great wrath, because he knoweth that he
-hath but a short time." ([Rev.
-12:12](https://www.lds.org/scriptures/nt/rev/12.12?lang=eng#11).) "And thus he
-goeth ... seeking to destroy the souls of men." ([D&amp;C
-10:27](https://www.lds.org/scriptures/dc-testament/dc/10.27?lang=eng#26).) And
-how does he try to destroy people? By taking a little truth and mixing it with
-a lot of error to deceive the hearts of the people.
+hath but a short time." ([Rev. 12:12](/scriptures/nt/rev/12.12?lang=eng#11).)
+"And thus he goeth ... seeking to destroy the souls of men." ([D&amp;C
+10:27](/scriptures/dc-testament/dc/10.27?lang=eng#26).) And how does he try to
+destroy people? By taking a little truth and mixing it with a lot of error to
+deceive the hearts of the people.
 
 That is what Isaiah meant when he said: "How art thou fallen from heaven, O
 Lucifer, son of the morning! ... For thou has said in thine heart, ... I will
 exalt my throne above the stars of God ... I will be like the most High." ([Isa.
-14:12-14](https://www.lds.org/scriptures/ot/isa/14.12-14?lang=eng#11).) For he
-is the man who made the earth to tremble, who did shake kingdoms, and thus
-deceived the nations. (See [Isa.
-14:16](https://www.lds.org/scriptures/ot/isa/14.16?lang=eng#15).) That is what
-Jesus came to tell us, that "their creeds were an abomination in his sight"
-because Satan has deceived the nations.
+14:12-14](/scriptures/ot/isa/14.12-14?lang=eng#11).) For he is the man who
+made the earth to tremble, who did shake kingdoms, and thus deceived the
+nations. (See [Isa. 14:16](/scriptures/ot/isa/14.16?lang=eng#15).) That is
+what Jesus came to tell us, that "their creeds were an abomination in his
+sight" because Satan has deceived the nations.
 
 In the few minutes that I have left I would like to mention one or two
 examples of Satan's deceptions. We hear constantly that all we have to do is
 to believe on the Lord Jesus Christ and we will be saved. The advocates of
 this doctrine take for their justification the statement of Jesus to the
 malefactor on the cross when he said, "To day shalt thou be with me in
-paradise." ([Luke
-23:43](https://www.lds.org/scriptures/nt/luke/23.43?lang=eng#42).) (The
-Prophet Joseph Smith indicates that the word _paradise _as it appears in the
-Bible should have been translated as "the world of spirits.") They think that
-they can all be saved just by acknowledging Jesus as the Christ. If they only
+paradise." ([Luke 23:43](/scriptures/nt/luke/23.43?lang=eng#42).) (The Prophet
+Joseph Smith indicates that the word _paradise _as it appears in the Bible
+should have been translated as "the world of spirits.") They think that they
+can all be saved just by acknowledging Jesus as the Christ. If they only
 understood the scriptures!
 
 Paul was caught up into the third heaven (and there cannot be a _third _heaven
 if there isn't a first and a second) and he was caught up into paradise and
 heard unspeakable words, "which it is not lawful for a man to utter." (See [2
-Cor. 12:2-4](https://www.lds.org/scriptures/nt/2-cor/12.2-4?lang=eng#1).)
+Cor. 12:2-4](/scriptures/nt/2-cor/12.2-4?lang=eng#1).)
 
 Let us consider then the statement made by Jesus to the malefactor: "To day
 shalt thou be with me in paradise" (or in the world of spirits). The apostle
 Paul tells us that there are three heavens above the world of spirits, and
 Jesus said: "In my Father's house are many mansions: if it were not so, I
 would have told you. I go to prepare a place for you ... that where I am, there
-ye may be also." ([John
-14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1).)
+ye may be also." ([John 14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1).)
 
 The prophet Alma, as recorded in the Book of Mormon, discusses the condition
 of the soul between death and the resurrection, and he states this: "Now this
@@ -128,7 +123,7 @@ is the state of the souls of the wicked, yea, in darkness, and a state of
 awful, fearful looking for the fiery indignation of the wrath of God upon
 them; thus they remain in this state, as well as the righteous in paradise,
 until the time of their resurrection." ([Alma
-40:14](https://www.lds.org/scriptures/bofm/alma/40.14?lang=eng#13).)
+40:14](/scriptures/bofm/alma/40.14?lang=eng#13).)
 
 The world does not understand this, but if you will trust the scriptures,
 Jesus did not take the malefactor to _heaven._ He took him to the world of
@@ -141,37 +136,33 @@ Then the apostle Peter tells us where he went that day when he was crucified:
 "... he went and preached unto the spirits in prison, Which sometime were
 disobedient, ... in the days of Noah, while the ark was a preparing wherein few,
 that is, eight souls were saved by water." ([1 Pet.
-3:19-20](https://www.lds.org/scriptures/nt/1-pet/3.19-20?lang=eng#18).)
+3:19-20](/scriptures/nt/1-pet/3.19-20?lang=eng#18).)
 
 So instead of the malefactor having to wait for years and years like those who
 were wicked in the days of Noah, the Savior took him with him that very day to
 the place where he could hear the gospel preached. Peter tells us that "for
 this cause was the gospel preached also to them that are dead, that they might
 be judged according to men in the flesh, but live according to God in the
-spirit." ([1 Pet.
-4:6](https://www.lds.org/scriptures/nt/1-pet/4.6?lang=eng#5).) And that is
+spirit." ([1 Pet. 4:6](/scriptures/nt/1-pet/4.6?lang=eng#5).) And that is
 where the malefactor went with the Savior that day, but there are three
 heavens above that to which Jesus did not take him.
 
 You remember when the women came to the sepulcher looking for the body of
 Jesus and there were two angels, one at the head and one at the foot, and they
 said, "Why seek ye the living among the dead? He is not here, but is risen."
-([Luke 24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4).)
+([Luke 24:5-6](/scriptures/nt/luke/24.5-6?lang=eng#4).)
 
 Then when the Savior spoke to Mary, she said, "Rabboni, which is to say,
-Master." ([John
-20:16](https://www.lds.org/scriptures/nt/john/20.16?lang=eng#15).) Then he
-said, "Touch me not; for I am not yet ascended to my Father: but go to my
-brethren, and say unto them, I ascend unto my Father, and your Father; and to
-my God, and your God." ([John
-20:17](https://www.lds.org/scriptures/nt/john/20.17?lang=eng#16).)
+Master." ([John 20:16](/scriptures/nt/john/20.16?lang=eng#15).) Then he said,
+"Touch me not; for I am not yet ascended to my Father: but go to my brethren,
+and say unto them, I ascend unto my Father, and your Father; and to my God,
+and your God." ([John 20:17](/scriptures/nt/john/20.17?lang=eng#16).)
 
 You see how much easier it is to understand when you read the scriptures
 correctly. No wonder Jesus said to the Sadducees, "Ye do err, not knowing the
-scriptures." ([Matt.
-22:29](https://www.lds.org/scriptures/nt/matt/22.29?lang=eng#28).) So that man
-went with Jesus that day where he could be taught the gospel, but Jesus had
-not yet ascended to his Father in heaven.
+scriptures." ([Matt. 22:29](/scriptures/nt/matt/22.29?lang=eng#28).) So that
+man went with Jesus that day where he could be taught the gospel, but Jesus
+had not yet ascended to his Father in heaven.
 
 At the present time, people are preaching all over the world that all you need
 to do is to confess that Jesus is the Christ, but that is not what Jesus said.
@@ -184,21 +175,19 @@ coming], Lord, Lord, have we not prophesied in thy name? and in thy name have
 cast out devils? and in thy name done many wonderful works?
 
 "And then will I profess unto them, I never knew you: depart from me, ye that
-work iniquity." ([Matt.
-7:21-23](https://www.lds.org/scriptures/nt/matt/7.21-23?lang=eng#20).)
+work iniquity." ([Matt. 7:21-23](/scriptures/nt/matt/7.21-23?lang=eng#20).)
 
 Paul tells us, "Though he were a Son yet learned he obedience by the things
 which he suffered; And being made perfect, he became the author of eternal
 salvation unto all them that obey him." ([Heb.
-5:8-9](https://www.lds.org/scriptures/nt/heb/5.8-9?lang=eng#7).)
+5:8-9](/scriptures/nt/heb/5.8-9?lang=eng#7).)
 
 Then John "saw the dead, small and great, stand before God; and the books were
 opened: ... and the dead were judged out of those things which were written in
 the books, according to their works." John also wrote: "Blessed and holy is he
 that hath part in the first resurrection: on such the second death hath no
 power, but they shall be priests of God and of Christ, and shall reign with
-him. ..." ([Rev. 20:12,
-6](https://www.lds.org/scriptures/nt/rev/20.12%2C6?lang=eng#11).)
+him. ..." ([Rev. 20:12, 6](/scriptures/nt/rev/20.12,6?lang=eng#11).)
 
 You see that does not come just by confession that you believe in Jesus
 Christ. You have got to do the works and be judged according to your works.
@@ -217,8 +206,8 @@ And what did the Master say? "Take therefore the talent from him, and give it
 unto him which hath ten talents. For unto every one that hath shall be given,
 ... but from him that hath not shall be taken away even that which he hath. And
 cast ye the unprofitable servant into outer darkness; there shall be weeping
-and gnashing of teeth." ([Matt. 25:21, 24-25, 28-30](https://www.lds.org/scrip
-tures/nt/matt/25.21%2C24-25%2C28-30?lang=eng#20).)
+and gnashing of teeth." ([Matt. 25:21, 24-25,
+28-30](/scriptures/nt/matt/25.21,24-25,28-30?lang=eng#20).)
 
 That sounds like we would have to do something besides just confess if we want
 to reach the presence of our Father in heaven. That is hurriedly said, but
@@ -247,13 +236,13 @@ children of Israel into the promised land, he told them that they would not
 remain there long but that they would be scattered among the nations and
 "there ye shall serve gods, the work of men's hands, wood and stone, which
 neither see, nor hear, nor eat, nor smell." ([Deut.
-4:28](https://www.lds.org/scriptures/ot/deut/4.28?lang=eng#27).)
+4:28](/scriptures/ot/deut/4.28?lang=eng#27).)
 
 That is exactly the kind of a god the whole Christian world was worshiping
 when Joseph Smith had that glorious vision which revealed the true and living
 God. But Moses did not leave it at that. He said that in the latter days if
 they should seek after him, they would surely find him. (See [Deut.
-4:29](https://www.lds.org/scriptures/ot/deut/4.29?lang=eng#28).)
+4:29](/scriptures/ot/deut/4.29?lang=eng#28).)
 
 During this conference you have heard the testimonies of all my associates
 here bearing witness that the Prophet Joseph did seek after him and he did
@@ -263,47 +252,46 @@ and we have his revealed truth. We have that of which Peter spoke when he
 said, following the day of Pentecost, that the heavens must receive the Christ
 "until the times of restitution of all things, which God hath spoken by the
 mouth of all his holy prophets since the world began." ([Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).) We are the
-only church in the world that claims such a restitution, and there is a great
-difference between a _restitution _and a _reformation._ We are not Catholics.
-We are not Protestants. We believe in a recommitment to this earth of God's
-eternal truth.
+3:21](/scriptures/nt/acts/3.21?lang=eng#20).) We are the only church in the
+world that claims such a restitution, and there is a great difference between
+a _restitution _and a _reformation._ We are not Catholics. We are not
+Protestants. We believe in a recommitment to this earth of God's eternal
+truth.
 
 I would like to say just one more thing. I witnessed one of the religious
 crusades on the television here just recently. The man in charge said it would
 cost them a million and a quarter dollars to present it. I think of the words
 in the scripture that they should make merchandise out of the souls of men.
-(See [2 Pet. 2:3](https://www.lds.org/scriptures/nt/2-pet/2.3?lang=eng#2).)
-And then after it was all over, he invited people to come up and confess
-Jesus.
+(See [2 Pet. 2:3](/scriptures/nt/2-pet/2.3?lang=eng#2).) And then after it was
+all over, he invited people to come up and confess Jesus.
 
 Then I thought of the Day of Pentecost when Peter preached to all of those
 people there, and they heard the gospel preached in their own language and in
 their own tongue and they were pricked in their hearts and they cried out,
 "Men and brethren, what shall we do?" ([Acts
-2:37](https://www.lds.org/scriptures/nt/acts/2.37?lang=eng#36).) He did not
-tell them to come up and confess. He said: "Repent, and be baptized ... and ye
-shall receive the gift of the Holy Ghost. For the promise is unto you, and to
-your children, and all that are afar off, even as many as the Lord our God
-shall call." ([Acts
-2:37-39](https://www.lds.org/scriptures/nt/acts/2.37-39?lang=eng#36).)
+2:37](/scriptures/nt/acts/2.37?lang=eng#36).) He did not tell them to come up
+and confess. He said: "Repent, and be baptized ... and ye shall receive the gift
+of the Holy Ghost. For the promise is unto you, and to your children, and all
+that are afar off, even as many as the Lord our God shall call." ([Acts
+2:37-39](/scriptures/nt/acts/2.37-39?lang=eng#36).)
 
 And they cannot be baptized unless there is one having authority that is
 recognized in the heavens, like Jesus said to his Twelve: "Ye have not chosen
 me, but I have chosen you, and ordained you. ..." ([John
-15:16](https://www.lds.org/scriptures/nt/john/15.16?lang=eng#15).) "... and
-whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever
-thou shalt loose on earth, shall be loosed in heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+15:16](/scriptures/nt/john/15.16?lang=eng#15).) "... and whatsoever thou shalt
+bind on earth shall be bound in heaven: and whatsoever thou shalt loose on
+earth, shall be loosed in heaven." ([Matt.
+16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 Brothers and sisters and friends who might be listening in, we are doing all
 we know how to do to share with you these wonderful truths.
 
 Since all of you Latter-day Saints have been asked to be missionaries, and the
 Lord said, "... it becometh every man who hath been warned to warn his neighbor"
-([D&amp;C 88:81](https://www.lds.org/scriptures/dc-
-testament/dc/88.81?lang=eng#80)), you need to bear that witness too wherever
-opportunity presents itself. It is the greatest message in all this world
-today; and that is my testimony to you, and I bear it in the name of the Lord
-Jesus Christ. Amen.
+([D&amp;C 88:81](/scriptures/dc-testament/dc/88.81?lang=eng#80)), you need to
+bear that witness too wherever opportunity presents itself. It is the greatest
+message in all this world today; and that is my testimony to you, and I bear
+it in the name of the Lord Jesus Christ. Amen.
+
+## References
 

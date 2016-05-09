@@ -7,8 +7,7 @@ will hover over us as we conclude this afternoon.
 In the Doctrine and Covenants we read: "That they themselves may be prepared,
 and that my people may be taught more perfectly, and have experience, and know
 more perfectly concerning their duty, and the things which I require at their
-hands." ([D&amp;C 105:10](https://www.lds.org/scriptures/dc-
-testament/dc/105.10?lang=eng#9).)
+hands." ([D&amp;C 105:10](/scriptures/dc-testament/dc/105.10?lang=eng#9).)
 
 How grateful we are for the scriptures, which contain the Lord's instructions
 to His children. They help us to better understand the course He has designed
@@ -79,8 +78,7 @@ placed upon the Lord forever.
 yea, when thou liest down at night lie down unto the Lord, that he may watch
 over you in your sleep; and when thou risest in the morning let thy heart be
 full of thanks unto God; and if ye do these things, ye shall be lifted up at
-the last day." ([Alma
-37:35-37](https://www.lds.org/scriptures/bofm/alma/37.35-37?lang=eng#34).)
+the last day." ([Alma 37:35-37](/scriptures/bofm/alma/37.35-37?lang=eng#34).)
 
 Prayer is the primary means of communication between God and man. Prayer is an
 important part of practically every religion, whether it be Christian or
@@ -162,22 +160,18 @@ scriptures.
 
 All the standard works of the Church instruct us to read and ponder their
 sayings. From the Old Testament we read, "Seek ye out of the book of the Lord,
-and read." ([Isa.
-34:16](https://www.lds.org/scriptures/ot/isa/34.16?lang=eng#15).) From the New
+and read." ([Isa. 34:16](/scriptures/ot/isa/34.16?lang=eng#15).) From the New
 Testament, "Search the scriptures; for in them ye think ye have eternal life:
 and they are they which testify of me." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).) Nephi, in the
-Book of Mormon, observes, "My soul delighteth in the scriptures, and my heart
-pondereth them, and writeth them for the learning and ... profit of my
-children." ([2 Ne.
-4:15](https://www.lds.org/scriptures/bofm/2-ne/4.15?lang=eng#14).) Counsel
-from the Pearl of Great Price promises, "And whoso treasureth up my word,
-shall not be deceived." ([JS--M
-1:37](https://www.lds.org/scriptures/pgp/js-m/1.37?lang=eng#36).) And finally,
+5:39](/scriptures/nt/john/5.39?lang=eng#38).) Nephi, in the Book of Mormon,
+observes, "My soul delighteth in the scriptures, and my heart pondereth them,
+and writeth them for the learning and ... profit of my children." ([2 Ne.
+4:15](/scriptures/bofm/2-ne/4.15?lang=eng#14).) Counsel from the Pearl of
+Great Price promises, "And whoso treasureth up my word, shall not be
+deceived." ([JS--M 1:37](/scriptures/pgp/js-m/1.37?lang=eng#36).) And finally,
 in the Doctrine and Covenants we read: "First seek to obtain my word. ... Study
 my word which hath gone forth among the children of men." ([D&amp;C
-11:21-22](https://www.lds.org/scriptures/dc-
-testament/dc/11.21-22?lang=eng#20).)
+11:21-22](/scriptures/dc-testament/dc/11.21-22?lang=eng#20).)
 
 The scriptures are one of our greatest treasures. They contain God's
 instructions to His people from the beginning of time. In a world so full of
@@ -226,4 +220,6 @@ the sincere desire to study His word, as contained in His holy scriptures.
 
 God lives! Jesus is the Christ, the Savior of the world, is my solemn witness
 to you in the name of our Lord and Savior, Jesus Christ, amen.
+
+## References
 

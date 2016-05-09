@@ -66,7 +66,7 @@ interpretation.
 
 "For the prophecy came not in old time by the will of man: but holy men of God
 spake as they were moved by the Holy Ghost." ([2 Pet.
-1:19-21](https://www.lds.org/scriptures/nt/2-pet/1.19-21?lang=eng#18).)
+1:19-21](/scriptures/nt/2-pet/1.19-21?lang=eng#18).)
 
 That is what brings testimony.
 
@@ -79,8 +79,7 @@ Lord;
 
 "Whom the heaven must receive until the times of restitution of all things,
 which God hath spoken by the mouth of all his holy prophets since the world
-began." ([Acts
-3:19-21](https://www.lds.org/scriptures/nt/acts/3.19-21?lang=eng#18).)
+began." ([Acts 3:19-21](/scriptures/nt/acts/3.19-21?lang=eng#18).)
 
 No man can believe that Peter was a prophet of the living God and look for the
 coming of the Lord except there be a restitution of all things spoken by the
@@ -95,9 +94,8 @@ conference.
 And if they came back to this earth, they had to come to somebody, and that
 somebody could be none other than a prophet of God. Like Amos said, "Surely
 the Lord God will do nothing, but he revealeth his secret unto his servants
-the prophets" ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6)). And that prophet
-was Joseph Smith.
+the prophets" ([Amos 3:7](/scriptures/ot/amos/3.7?lang=eng#6)). And that
+prophet was Joseph Smith.
 
 We bear testimony of this restitution of all things--the coming of these holy
 prophets as has been pointed out here during this conference today.
@@ -107,39 +105,37 @@ Emmaus with two of his disciples following his resurrection, and when he heard
 what they had to say regarding him and his crucifixion, he knew that they did
 not understand and comprehend what the prophets had said; so he said, "O
 fools, and slow of heart to believe all that the prophets have spoken" ([Luke
-24:25](https://www.lds.org/scriptures/nt/luke/24.25?lang=eng#24)), and
-commencing with Moses and the prophets, He showed them how that in all things
-the prophets had testified of him.
+24:25](/scriptures/nt/luke/24.25?lang=eng#24)), and commencing with Moses and
+the prophets, He showed them how that in all things the prophets had testified
+of him.
 
 I love the prophecies of Isaiah. It seems to me that he almost lived more in
 our day than when he was actually upon the earth. He saw so much of what would
 transpire in our day. He saw us settled here in these valleys of the
 mountains. He saw this desert, where we were once a thousand miles from
 transportation and supplies, made to blossom as a rose (see [Isa.
-35:1](https://www.lds.org/scriptures/ot/isa/35.1?lang=eng#0)). He saw the
-rivers flow in the desert where we have built these great irrigation canals
-(see [Isa. 43:19](https://www.lds.org/scriptures/ot/isa/43.19?lang=eng#18)).
-He saw the water flow down from the high places where we have reservoired it
-in these mountain fastnesses for summer's use (see [Isa.
-41:18](https://www.lds.org/scriptures/ot/isa/41.18?lang=eng#17)). He saw the
-redeemed of the Lord come up and sing in the heights of Zion (see [Isa.
-51:11](https://www.lds.org/scriptures/ot/isa/51.11?lang=eng#10)). And where do
-you find anything in the world to fulfill that like the singing of the
-Tabernacle Choir for over fifty years without a break?
+35:1](/scriptures/ot/isa/35.1?lang=eng#0)). He saw the rivers flow in the
+desert where we have built these great irrigation canals (see [Isa.
+43:19](/scriptures/ot/isa/43.19?lang=eng#18)). He saw the water flow down from
+the high places where we have reservoired it in these mountain fastnesses for
+summer's use (see [Isa. 41:18](/scriptures/ot/isa/41.18?lang=eng#17)). He saw
+the redeemed of the Lord come up and sing in the heights of Zion (see [Isa.
+51:11](/scriptures/ot/isa/51.11?lang=eng#10)). And where do you find anything
+in the world to fulfill that like the singing of the Tabernacle Choir for over
+fifty years without a break?
 
 He saw the mountain of the Lord's house established in the top of the
 mountains in the latter days when all nations would flow unto it, and they
 would say, "Come ye, and let us go up to the mountain of the Lord, to the
 house of the God of Jacob; that he will teach us of his ways, and we will walk
-in his paths" ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2)).
+in his paths" ([Isa. 2:3](/scriptures/ot/isa/2.3?lang=eng#2)).
 
 Now in the scriptures there are many, many prophecies of the regathering of
 the Jews back to Jerusalem, but this prophecy said, "And _all_ nations shall
 flow unto it.
 
 "... and say ... let us go up to the mountain of the Lord['s house]." ([Isa.
-2:2-3](https://www.lds.org/scriptures/ot/isa/2.2-3?lang=eng#1).)
+2:2-3](/scriptures/ot/isa/2.2-3?lang=eng#1).)
 
 I think this beautiful temple on this block is the house of the God of Jacob
 that Isaiah saw.
@@ -149,23 +145,22 @@ brought up the children of Israel out of the land of Egypt;
 
 "But, The Lord liveth, which brought up and which led the seed of the house of
 Israel out of ... all countries whither I had driven them" ([Jer.
-23:7-8](https://www.lds.org/scriptures/ot/jer/23.7-8?lang=eng#6)).
+23:7-8](/scriptures/ot/jer/23.7-8?lang=eng#6)).
 
 He said that he would send for many fishers and many hunters and they would
 fish them and hunt them from the hills and the mountains and the holes in the
-rocks (see [Jer.
-16:16](https://www.lds.org/scriptures/ot/jer/16.16?lang=eng#15)). They are the
+rocks (see [Jer. 16:16](/scriptures/ot/jer/16.16?lang=eng#15)). They are the
 thirty-one thousand Mormon missionaries scattered all over the world gathering
 in the seed of Israel and bringing them to Zion.
 
 He saw how they would be gathered one of a city and two of a family, and the
 Lord would bring them to Zion, and he would give them pastors after his own
 heart who should feed them with knowledge and with understanding (see [Jer.
-3:14-15](https://www.lds.org/scriptures/ot/jer/3.14-15?lang=eng#13)). Could
-anybody sit through sessions of this conference and listen to these prophets
-of the living God and not realize that Jeremiah saw this day when we would
-come here, gathered one of a city and two of a family, and that He would give
-us pastors after His own heart?
+3:14-15](/scriptures/ot/jer/3.14-15?lang=eng#13)). Could anybody sit through
+sessions of this conference and listen to these prophets of the living God and
+not realize that Jeremiah saw this day when we would come here, gathered one
+of a city and two of a family, and that He would give us pastors after His own
+heart?
 
 I love the prophecies of Isaiah. I like the twenty-ninth chapter where he
 said: "Forasmuch as this people draw near me with their mouth, and with their
@@ -175,7 +170,7 @@ toward me is taught by the precept of men:
 "Therefore, behold, I will proceed to do a marvellous work among this people,
 even a marvellous work and a wonder: for the wisdom of their wise men shall
 perish, and the understanding of their prudent men shall be hid." ([Isa.
-29:13-14](https://www.lds.org/scriptures/ot/isa/29.13-14?lang=eng#12).)
+29:13-14](/scriptures/ot/isa/29.13-14?lang=eng#12).)
 
 There are no wise men in this world today nor prudent men who can understand
 all of the prophecies like we Latter-day Saints can because of the restoration
@@ -187,15 +182,14 @@ He said, "Woe to Ariel, to Ariel, the city where David dwelt [that was
 Jerusalem--that is where David dwelt]! add ye year to year [meaning coming
 generations]; let them kill sacrifices. And it shall be camped about and it
 shall be unto me as Ariel" (see [Isa.
-29:1-3](https://www.lds.org/scriptures/ot/isa/29.1-3?lang=eng#0)). In other
-words, not only did Isaiah see the destruction of the great city of Jerusalem,
-but he also saw the destruction of another great center here in America eleven
-hundred years after he made that prophecy. We read of that destruction in 2
-Nephi 26 and 27, [[2 Ne.
-26-27](https://www.lds.org/scriptures/bofm/2-ne/26.title?lang=eng)] just like
-when he described the destruction of Babylon a hundred and seventy years
-before it was destroyed when he said it should never be rebuilt (see [Jer.
-50:9-13](https://www.lds.org/scriptures/ot/jer/50.9-13?lang=eng#8)).
+29:1-3](/scriptures/ot/isa/29.1-3?lang=eng#0)). In other words, not only did
+Isaiah see the destruction of the great city of Jerusalem, but he also saw the
+destruction of another great center here in America eleven hundred years after
+he made that prophecy. We read of that destruction in 2 Nephi 26 and 27, [[2
+Ne. 26-27](/scriptures/bofm/2-ne/26?lang=eng)] just like when he described the
+destruction of Babylon a hundred and seventy years before it was destroyed
+when he said it should never be rebuilt (see [Jer.
+50:9-13](/scriptures/ot/jer/50.9-13?lang=eng#8)).
 
 Now he said in that chapter that the wisdom of their wise men shall perish and
 the understanding of their prudent men shall be hid. There are so many things
@@ -204,4 +198,6 @@ understand. I haven't time here today to enumerate any more to you, but my
 heart is full of gratitude to my Heavenly Father and full of testimony by the
 Holy Spirit of the divinity of this work, and I bear that testimony to you in
 the name of the Lord Jesus Christ, amen.
+
+## References
 

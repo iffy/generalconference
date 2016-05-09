@@ -25,7 +25,7 @@ Not only did he provide that salvation should come through his regularly
 constituted church, but he set up safeguards to protect its members from being
 tossed to and fro with every wind of doctrine and to preserve them from the
 sleight of men who, with cunning craftiness, lie in wait to deceive. (See
-[Eph. 4:14](https://www.lds.org/scriptures/nt/eph/4.14?lang=eng#13).)
+[Eph. 4:14](/scriptures/nt/eph/4.14?lang=eng#13).)
 
 Those safeguards, according to Paul's epistle to the Ephesians, rested
 primarily in the persons of the apostles and prophets whom God placed at the
@@ -34,8 +34,7 @@ head of the Church for that specific purpose.
 They were the inspired leaders in the Church. They were the mouthpieces of the
 Lord, and their inspired messages to the people were the will of the Lord, the
 mind of the Lord, the voice of the Lord, and the power of God unto salvation.
-(See [D&amp;C 68:4](https://www.lds.org/scriptures/dc-
-testament/dc/68.4?lang=eng#3).)
+(See [D&amp;C 68:4](/scriptures/dc-testament/dc/68.4?lang=eng#3).)
 
 With such heavenly guidance, none need go astray.
 
@@ -44,12 +43,10 @@ the people into mistaken paths. These the Savior severely criticized, accusing
 them of apostasy from the very law of Moses which they pretended to preach.
 
 He said to them, "Did not Moses give you the law, and yet none of you keepeth
-the law?" ([John
-7:19](https://www.lds.org/scriptures/nt/john/7.19?lang=eng#18).)
+the law?" ([John 7:19](/scriptures/nt/john/7.19?lang=eng#18).)
 
 And again he said, "... had ye believed Moses, ye would have believed me: for he
-wrote of me." ([John
-5:46](https://www.lds.org/scriptures/nt/john/5.46?lang=eng#45).)
+wrote of me." ([John 5:46](/scriptures/nt/john/5.46?lang=eng#45).)
 
 What a sad commentary! Had the people believed Moses, instead of the crafty
 false teachers of their day, they would have accepted Christ, because Moses
@@ -69,18 +66,18 @@ Isn't it interesting that Moses testified of the Savior, and that when the
 people would not believe Moses they therefore were not prepared to receive the
 Christ either? Do you recall that Paul said the law of Moses was a
 schoolmaster to bring the people to Christ? (See [Gal.
-3:24-25](https://www.lds.org/scriptures/nt/gal/3.24-25?lang=eng#23).)
+3:24-25](/scriptures/nt/gal/3.24-25?lang=eng#23).)
 
 Not only did Moses write of the Lord, but the other prophets did likewise.
 Peter said, in speaking of Jesus, "To him give all the prophets witness, that
 through his name whosoever believeth in him shall receive remission of sins."
-([Acts 10:43](https://www.lds.org/scriptures/nt/acts/10.43?lang=eng#42).)
+([Acts 10:43](/scriptures/nt/acts/10.43?lang=eng#42).)
 
 We read in the 28th chapter of Acts that Paul, while he was in Rome, received
 many visitors "to whom he expounded and testified the kingdom of God,
 persuading them concerning Jesus, both out of the law of Moses, and out of the
 prophets, from morning till evening." ([Acts
-28:23](https://www.lds.org/scriptures/nt/acts/28.23?lang=eng#22).)
+28:23](/scriptures/nt/acts/28.23?lang=eng#22).)
 
 Obviously, therefore, the scriptures available in that time spoke repeatedly
 of the Savior as all the prophets gave witness to him.
@@ -139,7 +136,7 @@ In it he testified that there can be no divisions in Christ. Rather, he said,
 "... I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all
 speak the same thing, and that there be no divisions among you; but that ye be
 perfectly joined together in the same mind and in the same judgment." ([1 Cor.
-1:10](https://www.lds.org/scriptures/nt/1-cor/1.10?lang=eng#9).)
+1:10](/scriptures/nt/1-cor/1.10?lang=eng#9).)
 
 Some of the denominations which developed during the very early years of
 Christianity were these:
@@ -177,10 +174,10 @@ manuscripts were written in Greek.
 
 These bits of history reveal clearly the importance of avoiding splinter
 groups, for as Paul expressed it, some "saith I am of Paul; and I of Apollos;
-and I of Cephas" ([1 Cor.
-1:12](https://www.lds.org/scriptures/nt/1-cor/1.12?lang=eng#11)), but Christ
-cannot be divided. There is no Savior but Jesus, and he saves only in his own
-strait and narrow way and not according to man-made creeds and rituals.
+and I of Cephas" ([1 Cor. 1:12](/scriptures/nt/1-cor/1.12?lang=eng#11)), but
+Christ cannot be divided. There is no Savior but Jesus, and he saves only in
+his own strait and narrow way and not according to man-made creeds and
+rituals.
 
 It is all important, then, that members should not separate themselves from
 the true church, nor apostatize from it, nor be guilty of behavior which would
@@ -206,8 +203,8 @@ Listen to the Lord's words: "And they who are of the High Priesthood, whose
 names are not found written in the book of the law, or that are found to have
 apostatized, or to have been cut off from the church, as well as the lesser
 priesthood, or the members, in that day shall not find an inheritance among
-the Saints of the Most High." ([D&amp;C 85:11](https://www.lds.org/scriptures
-/dc-testament/dc/85.11?lang=eng#10).)
+the Saints of the Most High." ([D&amp;C 85:11](/scriptures/dc-
+testament/dc/85.11?lang=eng#10).)
 
 But cultists are not the only ones who are excommunicated from the Church.
 There are those who are cut off for moral transgressions and other infractions
@@ -259,17 +256,15 @@ The Lord says further in this same section of the Doctrine &amp; Covenants: "...
 all they who are not found written in the book of remembrance shall find none
 inheritance in that day, but they shall be cut asunder, and their portion
 shall be appointed them among unbelievers, where are wailing and gnashing of
-teeth." ([D&amp;C 85:9](https://www.lds.org/scriptures/dc-
-testament/dc/85.9?lang=eng#8).)
+teeth." ([D&amp;C 85:9](/scriptures/dc-testament/dc/85.9?lang=eng#8).)
 
 There are some who claim that even though they are excommunicated from the
 Church, their priesthood and temple blessings are not taken away. Let us
 remind those persons that the power to seal is also the power to loose, for
 the Lord has said of his true servants that "whatsoever thou shalt bind on
 earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall
-be loosed in heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18); [D&amp;C
-132:46](https://www.lds.org/scriptures/dc-testament/dc/132.46?lang=eng#45).)
+be loosed in heaven." ([Matt. 16:19](/scriptures/nt/matt/16.19?lang=eng#18);
+[D&amp;C 132:46](/scriptures/dc-testament/dc/132.46?lang=eng#45).)
 Excommunication takes away all rights, privileges, and blessings of the
 Church.
 
@@ -278,7 +273,7 @@ the Church and "being anxiously engaged" in its program.
 
 There is no other way. If we are not valiant in the testimony of Jesus and if
 we fail to repent, we lose the crown over the kingdom and are assigned
-elsewhere. (See [D&amp;C 76:79](https://www.lds.org/scriptures/dc-
+elsewhere. (See [D&amp;C 76:79](/scriptures/dc-
 testament/dc/76.79?lang=eng#78).)
 
 But how wonderful is repentance. The Lord has said that if we will repent of
@@ -293,7 +288,7 @@ him, repent, and be cleansed, sanctified, and saved in his kingdom.
 
 "Have I any pleasure at all that the wicked should die? saith the Lord God:
 and not that he should return from his ways, and live?" ([Ezek.
-18:23](https://www.lds.org/scriptures/ot/ezek/18.23?lang=eng#22).)
+18:23](/scriptures/ot/ezek/18.23?lang=eng#22).)
 
 And so in his goodness and mercy, he calls out and says:
 
@@ -304,10 +299,12 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 But let us remember that his yoke cannot be separated from his church, and his
 burden requires that each one of us live by every word that proceedeth from
 the mouth of God. And to this I testify humbly in the sacred name of the Lord
 Jesus Christ. Amen.
+
+## References
 

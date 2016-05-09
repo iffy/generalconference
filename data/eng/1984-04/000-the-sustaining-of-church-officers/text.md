@@ -120,3 +120,5 @@ Portland, Oregon; Las Vegas, Nevada; and Toronto, Ontario, Canada. We met
 earlier at 7:30 this morning with officers of the stakes in these areas, and
 all expressed their enthusiastic support of these undertakings.
 
+## References
+

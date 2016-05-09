@@ -45,8 +45,7 @@ _And we mount to its summit round by round._
 Jesus the Savior is the supreme example of how we should build our souls.
 
 "What manner of men ought ye to be?" He asked, and then replied, "Even as I
-am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+am." ([3 Ne. 27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 Becoming like Him is not something we can achieve overnight. It is a lifelong
 and an eternal process, nothing less. In every hour and every day we must
@@ -69,7 +68,7 @@ and daughters;
 
 "And thus," Alma said, "they become new creatures; and unless they do this,
 they can in nowise inherit the kingdom of God." ([Mosiah
-27:25-26](https://www.lds.org/scriptures/bofm/mosiah/27.25-26?lang=eng#24).)
+27:25-26](/scriptures/bofm/mosiah/27.25-26?lang=eng#24).)
 
 Note this last sentence: "Unless they do this, they can in nowise inherit the
 kingdom of God." This is a direct warning to us all.
@@ -83,12 +82,11 @@ That is why we are to read them so constantly.
 
 For example, we are taught to be _poor in spirit,_ that is, humble. We are
 taught to be _meek._ (See [Matt. 5:3,
-5](https://www.lds.org/scriptures/nt/matt/5.3%2C5?lang=eng#2).) It is not
-Christlike to be egotistical or proud or arrogant.
+5](/scriptures/nt/matt/5.3,5?lang=eng#2).) It is not Christlike to be
+egotistical or proud or arrogant.
 
 We are told to love Him so much that we will _hunger and thirst after
-righteousness._ (See [Matt.
-5:6](https://www.lds.org/scriptures/nt/matt/5.6?lang=eng#5).) Can we
+righteousness._ (See [Matt. 5:6](/scriptures/nt/matt/5.6?lang=eng#5).) Can we
 understand what that means? He is completely righteous. We wish to become like
 Him. But is our desire so deep that we actually hunger and thirst for it?
 
@@ -115,14 +113,13 @@ same breath, for it really is anti-Christ!
 
 The Lord teaches us to be _peacemakers,_ and to avoid offenses,
 unpleasantness, and disputations. (See [Matt.
-5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8).) Should we not
-make a conscientious effort to get along well with other people, and more
-especially with members of our own families?
+5:9](/scriptures/nt/matt/5.9?lang=eng#8).) Should we not make a conscientious
+effort to get along well with other people, and more especially with members
+of our own families?
 
 No man should quarrel with his wife or give her any cause to quarrel in
 return. The scriptures command us also to _avoid provoking our children to
-wrath._ (See [Eph.
-6:4](https://www.lds.org/scriptures/nt/eph/6.4?lang=eng#3).) If irritations
+wrath._ (See [Eph. 6:4](/scriptures/nt/eph/6.4?lang=eng#3).) If irritations
 arise in the home, they should be removed in a genuine Christian spirit.
 
 To be like the Savior we can hardly be without true charity, either. How did
@@ -136,15 +133,14 @@ knowledge. ...
 "And though I bestow all my goods to feed the poor, and _though I give my body
 to be burned,_ and have not charity [and have not the love of Christ toward my
 family and other people], it profiteth me nothing." ([1 Cor.
-13:1-3](https://www.lds.org/scriptures/nt/1-cor/13.1-3?lang=eng#0); italics
-added.)
+13:1-3](/scriptures/nt/1-cor/13.1-3?lang=eng#0); italics added.)
 
 In fact, he says we would be _as_ nothing, except of course that we would
 resemble sounding brass and tinkling cymbals. (See [1 Cor.
-13:1](https://www.lds.org/scriptures/nt/1-cor/13.1?lang=eng#0).)
+13:1](/scriptures/nt/1-cor/13.1?lang=eng#0).)
 
 The Savior said, "Blessed are the pure in heart: for they shall see God."
-([Matt. 5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7).)
+([Matt. 5:8](/scriptures/nt/matt/5.8?lang=eng#7).)
 
 Will any others see Him--or come into His presence? Can anything that is
 impure?
@@ -152,9 +148,8 @@ impure?
 What did He say about impurity?
 
 "Touch not that which is unclean; ... be ye clean that bear the vessels of the
-Lord." ([3 Ne.
-20:41](https://www.lds.org/scriptures/bofm/3-ne/20.41?lang=eng#40).) That is
-what He said, and that is what He meant.
+Lord." ([3 Ne. 20:41](/scriptures/bofm/3-ne/20.41?lang=eng#40).) That is what
+He said, and that is what He meant.
 
 It is a divine commandment. If you believe in Christ, touch not the unclean
 thing!
@@ -169,9 +164,8 @@ But what did He say about purity?
 He prayed that those who follow Him will be so purified by righteous living
 that they will be pure as He is pure, so that, as He said, "I may be in them
 as thou, Father, art in me, that we may be one, that I may be glorified in
-them." ([3 Ne.
-19:29](https://www.lds.org/scriptures/bofm/3-ne/19.29?lang=eng#28).) Think of
-it! If we are pure, our righteousness will add glory to His name!
+them." ([3 Ne. 19:29](/scriptures/bofm/3-ne/19.29?lang=eng#28).) Think of it!
+If we are pure, our righteousness will add glory to His name!
 
 And He taught something else. If we have offended others, we are to seek a
 reconciliation with them and not allow ill feelings to persist.
@@ -183,7 +177,7 @@ hath ought against thee;
 
 "Leave there thy gift before the altar, and go thy way; first be reconciled to
 thy brother, and then come and offer thy gift." ([Matt.
-5:23-24](https://www.lds.org/scriptures/nt/matt/5.23-24?lang=eng#22).)
+5:23-24](/scriptures/nt/matt/5.23-24?lang=eng#22).)
 
 With this in mind can we assume that our worship is acceptable to God if we
 have ill feelings toward others or if we have dealt unfairly with anyone?
@@ -199,15 +193,14 @@ The Lord also taught:
 you.
 
 "But if ye forgive not men their trespasses, neither will your Father forgive
-your trespasses." ([Matt.
-6:14-15](https://www.lds.org/scriptures/nt/matt/6.14-15?lang=eng#13).)
+your trespasses." ([Matt. 6:14-15](/scriptures/nt/matt/6.14-15?lang=eng#13).)
 
 Can we presume that we shall enter His sacred presence if we are still stained
 by unremitted sins?
 
 And then He warned against hypocrisy. Christlike people are not two-faced or
 double-dealing. The divine word is: "Ye cannot serve God and mammon." ([Matt.
-6:24](https://www.lds.org/scriptures/nt/matt/6.24?lang=eng#23).)
+6:24](/scriptures/nt/matt/6.24?lang=eng#23).)
 
 Can we see how our day-by-day acts--little though they may seem to be--mold
 our souls?
@@ -221,19 +214,19 @@ His own character. He lists them this way:
 "Faith, hope, charity and love, with an eye single to the glory of God. ...
 
 "... virtue, knowledge, temperance, patience, brotherly kindness, godliness,
-charity, humility, diligence." ([D&amp;C 4:5-6](https://www.lds.org/scriptures
-/dc-testament/dc/4.5-6?lang=eng#4).)
+charity, humility, diligence." ([D&amp;C 4:5-6](/scriptures/dc-
+testament/dc/4.5-6?lang=eng#4).)
 
 These are the traits of character of the Lord Jesus Christ. How earnestly do
 we try to build them into our own souls?
 
 He commands us to become perfect, even as His Father in Heaven is perfect.
-(See [Matt. 5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47).)
+(See [Matt. 5:48](/scriptures/nt/matt/5.48?lang=eng#47).)
 
 Can perfection arise out of careless living? Can we achieve perfection by
 imperfect means? It is plain to see why the Lord is strict and why we must
 serve Him with all our heart, might, mind, and strength. (See [D&amp;C
-4:2](https://www.lds.org/scriptures/dc-testament/dc/4.2?lang=eng#1).)
+4:2](/scriptures/dc-testament/dc/4.2?lang=eng#1).)
 
 It is no easy matter to live the gospel as we should. But unless we do, we
 cannot receive the blessings. It is no easy matter to become perfect in
@@ -257,7 +250,7 @@ Membership in the Church will not save us unless we keep the commandments.
 
 A half-hearted effort will not save us either. Instead, it will bring
 condemnation. The Lord has so declared in section 58 of the Doctrine and
-Covenants. (See [D&amp;C 58:29](https://www.lds.org/scriptures/dc-
+Covenants. (See [D&amp;C 58:29](/scriptures/dc-
 testament/dc/58.29?lang=eng#28).)
 
 One of the great prophets of ancient times was Samuel the Lamanite. I like the
@@ -271,7 +264,7 @@ blame but themselves.
 
 "Remember, remember," he said, "that whosoever perisheth, perisheth unto
 himself; and whosoever doeth iniquity, doeth it unto himself." ([Hel.
-14:30](https://www.lds.org/scriptures/bofm/hel/14.30?lang=eng#29).)
+14:30](/scriptures/bofm/hel/14.30?lang=eng#29).)
 
 Then he said that, since we have free agency, we can choose the good or the
 evil, life or death; but he declared that in the end we shall most certainly
@@ -284,7 +277,9 @@ we hope to receive?
 
 Isn't it time for each of us to learn the lesson of Gethsemane and say with
 Him: "Not my will, but thine, be done"? ([Luke
-22:42](https://www.lds.org/scriptures/nt/luke/22.42?lang=eng#41).)
+22:42](/scriptures/nt/luke/22.42?lang=eng#41).)
 
 In the name of the Lord Jesus Christ, amen.
+
+## References
 

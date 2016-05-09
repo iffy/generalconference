@@ -6,7 +6,7 @@ of our farms thinning, weeding, or lifting. Or perhaps we are returning home
 near midnight, knowing that we are expected to be on our own jobs at 7:00 A.M.
 after working a swing shift in one of our canneries. While we may have a tired
 but satisfying feeling inside, it may not register with us that much of it was
-a spiritual experience. Yet [D&amp;C 29:34](https://www.lds.org/scriptures/dc-
+a spiritual experience. Yet [D&amp;C 29:34](/scriptures/dc-
 testament/dc/29.34?lang=eng#33) makes it clear that requirements the Lord
 places upon us are always spiritual. He says to us, in part, "And not at any
 time have I given unto you a law which was temporal."
@@ -49,8 +49,7 @@ reason I decided to walk to the chopper, and as I entered the rows and
 splashed on through the mud and water, I was startled to hear a voice. I am
 sure that the voice came to me only in my mind, but I could hear the voice and
 admonition of President Kimball. He said softly, "Is any thing too hard for
-the Lord?" ([Gen.
-18:14](https://www.lds.org/scriptures/ot/gen/18.14?lang=eng#13).) Now, like
+the Lord?" ([Gen. 18:14](/scriptures/ot/gen/18.14?lang=eng#13).) Now, like
 you, I have heard him say that many times, but I did not fully focus upon it
 before this time. I smiled to myself as I walked and said, "Yes, President, I
 believe this mess may be too hard even for the Lord."
@@ -137,4 +136,6 @@ so far as we are in spiritual condition to do so.
 
 Finally, I bear my solemn witness that there is nothing too hard for the Lord.
 In the name of Jesus Christ, amen.
+
+## References
 

@@ -144,7 +144,7 @@ and eternal life in the world to come, even immortal glory;
 
 "For by the water ye keep the commandment; by the Spirit ye are justified, and
 by the blood ye are sanctified." ([Moses
-6:57-60](https://www.lds.org/scriptures/pgp/moses/6.57-60?lang=eng#56).)
+6:57-60](/scriptures/pgp/moses/6.57-60?lang=eng#56).)
 
 A religious doctrine, to mean something to anyone, must have the solid
 foundation of being true. If it is built on myth, superstition, supposition,
@@ -157,15 +157,15 @@ since he is our Creator, "What do you require of us?" The answer to that
 question has been given. Jesus taught what his Father taught--that "all men ...
 must repent, or they can in nowise inherit the kingdom of God, for no unclean
 thing can dwell there." ([Moses
-6:57](https://www.lds.org/scriptures/pgp/moses/6.57?lang=eng#56).) He taught
-the plan of salvation and encouraged mankind to "Come, follow me." ([Luke
-18:22](https://www.lds.org/scriptures/nt/luke/18.22?lang=eng#21).) He said,
-"My doctrine is not mine, but his that sent me.
+6:57](/scriptures/pgp/moses/6.57?lang=eng#56).) He taught the plan of
+salvation and encouraged mankind to "Come, follow me." ([Luke
+18:22](/scriptures/nt/luke/18.22?lang=eng#21).) He said, "My doctrine is not
+mine, but his that sent me.
 
 "If any man will do his will, he shall know of the doctrine, whether it be of
 God or whether I speak of myself." ([John
-7:16-17](https://www.lds.org/scriptures/nt/john/7.16-17?lang=eng#15).) The
-doctrine taught by the Savior has never faltered.
+7:16-17](/scriptures/nt/john/7.16-17?lang=eng#15).) The doctrine taught by the
+Savior has never faltered.
 
 The gospel is the governing principle of the individual; it was designed for
 him, to give certainty to his life and to explain the purpose of his existence
@@ -192,6 +192,8 @@ things, and ponder it in your hearts. ...
 Christ, if these things are not true; and if ye shall ask with a sincere
 heart, with real intent, having faith in Christ, he will manifest the truth of
 it unto you, by the power of the Holy Ghost." ([Moro.
-10:3-4](https://www.lds.org/scriptures/bofm/moro/10.3-4?lang=eng#2).) I so
-witness and testify, in the name of Jesus Christ. Amen.
+10:3-4](/scriptures/bofm/moro/10.3-4?lang=eng#2).) I so witness and testify,
+in the name of Jesus Christ. Amen.
+
+## References
 

@@ -2,10 +2,10 @@
 
 Some months ago my esteemed colleague Elder Carlos E. Asay and I stood atop
 Mount Nebo, where Moses once stood. (See [Deut.
-34:1-4](https://www.lds.org/scriptures/ot/deut/34.1-4?lang=eng#0).) We saw
-what he saw. In the distance to our right was the Sea of Galilee. The river
-Jordan flowed from there to the Dead Sea on our left. Ahead was the promised
-land into which Joshua led the Israelite faithful so long ago.
+34:1-4](/scriptures/ot/deut/34.1-4?lang=eng#0).) We saw what he saw. In the
+distance to our right was the Sea of Galilee. The river Jordan flowed from
+there to the Dead Sea on our left. Ahead was the promised land into which
+Joshua led the Israelite faithful so long ago.
 
 Later we were permitted to do what Moses could not. We were escorted from the
 Hashemite kingdom of Jordan to its western border with Israel. From there, we
@@ -19,7 +19,7 @@ continuously from that day to this.
 Prior to His ascension from the Holy Land, the Savior pronounced a unique
 blessing: "Peace I leave with you, my peace I give unto you: not as the world
 giveth, give I unto you." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 His peace is not necessarily political; His peace is personal. But that spirit
 of inner peace is driven away by contention. Contention does not usually begin
@@ -50,7 +50,7 @@ because contention is forbidden by divine decree:
 lie; that they should not steal; that they should not take the name of the
 Lord their God in vain; that they should not envy; that they should not have
 malice; that they should not contend one with another." ([2 Ne.
-26:32](https://www.lds.org/scriptures/bofm/2-ne/26.32?lang=eng#31).)
+26:32](/scriptures/bofm/2-ne/26.32?lang=eng#31).)
 
 ## Creator of Contention
 
@@ -61,8 +61,7 @@ this important knowledge even before the birth of Christ:
 "Satan did stir them up to do iniquity continually; yea, he did go about
 spreading rumors and contentions upon all the face of the land, that he might
 harden the hearts of the people against that which was good and against that
-which should come." ([Hel.
-16:22](https://www.lds.org/scriptures/bofm/hel/16.22?lang=eng#21).)
+which should come." ([Hel. 16:22](/scriptures/bofm/hel/16.22?lang=eng#21).)
 
 When Christ did come to the Nephites, He confirmed that prophecy:
 
@@ -72,8 +71,7 @@ of men to contend with anger, one with another.
 
 "Behold, this is not my doctrine, to stir up the hearts of men with anger, one
 against another; but this is my doctrine, that such things should be done
-away." ([3 Ne.
-11:29-30](https://www.lds.org/scriptures/bofm/3-ne/11.29-30?lang=eng#28).)
+away." ([3 Ne. 11:29-30](/scriptures/bofm/3-ne/11.29-30?lang=eng#28).)
 
 ## Origin of Contention
 
@@ -87,8 +85,7 @@ statement:
 
 "Behold, here am I, send me, I will be thy son, and I will redeem all mankind,
 that one soul shall not be lost, and surely I will do it; wherefore give me
-thine honor." ([Moses
-4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0).)
+thine honor." ([Moses 4:1](/scriptures/pgp/moses/4.1?lang=eng#0).)
 
 Satan's selfish efforts to alter the plan of God resulted in great contention
 in heaven. The Prophet Joseph Smith explained:
@@ -118,13 +115,13 @@ doctrine.
 ## The Family
 
 The family has been under attack ever since Satan first taunted Adam and Eve.
-(See [Gen. 3](https://www.lds.org/scriptures/ot/gen/3.title?lang=eng); [Moses
-4](https://www.lds.org/scriptures/pgp/moses/4.title?lang=eng).) So today, each
-must guard against the hazard of contention in the family. It usually begins
-innocently. Years ago when our daughters were little girls who wanted to be
-big girls, the style of the day was to wear multiple petticoats. A little
-contention could have crept in as the girls soon learned that the one to get
-dressed first was the one best dressed.
+(See [Gen. 3](/scriptures/ot/gen/3?lang=eng); [Moses
+4](/scriptures/pgp/moses/4?lang=eng).) So today, each must guard against the
+hazard of contention in the family. It usually begins innocently. Years ago
+when our daughters were little girls who wanted to be big girls, the style of
+the day was to wear multiple petticoats. A little contention could have crept
+in as the girls soon learned that the one to get dressed first was the one
+best dressed.
 
 In a large family of boys, those with the longest reach were the best fed. In
 order to avoid obvious contention, they adopted a rule that required them at
@@ -141,7 +138,7 @@ another, ...
 
 "But ye will teach them to walk in the ways of truth and soberness; ye will
 teach them to love one another, and to serve one another." ([Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
+4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
 
 And I might add, please be patient while children learn those lessons.
 
@@ -156,8 +153,8 @@ a position of responsibility. Each General Authority, for instance, chose
 another path to pursue as his life's occupation. But the reality is, as with
 Peter or Paul, each was surely "called of God, by prophecy, and by the laying
 on of hands by those who are in authority." ([A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).) With that
-call comes the commitment to emulate the patterns of the Prince of Peace.
+1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4).) With that call comes the
+commitment to emulate the patterns of the Prince of Peace.
 
 That goal is shared by worthy servants of the Master, who would not speak ill
 of the Lord's anointed nor provoke contention over teachings declared by
@@ -169,30 +166,27 @@ Lord.
 
 Surely a stalwart would not lend his or her good name to periodicals,
 programs, or forums that feature offenders who do sow "discord among
-brethren." ([Prov.
-6:19](https://www.lds.org/scriptures/ot/prov/6.19?lang=eng#18); see also
-[Prov. 6:14](https://www.lds.org/scriptures/ot/prov/6.14?lang=eng#13).)
+brethren." ([Prov. 6:19](/scriptures/ot/prov/6.19?lang=eng#18); see also
+[Prov. 6:14](/scriptures/ot/prov/6.14?lang=eng#13).)
 
 Such agitators unfortunately fulfill long-foretold prophecy: they "take
 counsel together, against the Lord, and against his anointed." ([Ps.
-2:2](https://www.lds.org/scriptures/ot/ps/2.2?lang=eng#1).)
+2:2](/scriptures/ot/ps/2.2?lang=eng#1).)
 
 Yet, mercifully, the anointed pray for those who attack them, knowing the sad
-fate prophesied for their attackers. (See [D&amp;C
-121:16-22](https://www.lds.org/scriptures/dc-
+fate prophesied for their attackers. (See [D&amp;C 121:16-22](/scriptures/dc-
 testament/dc/121.16-22?lang=eng#15).)
 
 Throughout the world, Saints of the Lord follow Him _and_ His anointed
 leaders. They have learned that the path of dissent leads to real dangers. The
 Book of Mormon carries this warning:
 
-"Now these dissenters, having the same instruction and the same information ...
-, having been instructed in the same knowledge of the Lord, nevertheless, it
-is strange to relate, not long after their dissensions they became more
-hardened and impenitent, and more wild, wicked and ferocious ... ; giving way to
+"Now these dissenters, having the same instruction and the same information ...,
+having been instructed in the same knowledge of the Lord, nevertheless, it is
+strange to relate, not long after their dissensions they became more hardened
+and impenitent, and more wild, wicked and ferocious ... ; giving way to
 indolence, and all manner of lasciviousness; yea, entirely forgetting the Lord
-their God." ([Alma
-47:36](https://www.lds.org/scriptures/bofm/alma/47.36?lang=eng#35).)
+their God." ([Alma 47:36](/scriptures/bofm/alma/47.36?lang=eng#35).)
 
 How divisive is the force of dissension! Small acts can lead to such great
 consequences. Regardless of position or situation, no one can safely assume
@@ -219,8 +213,7 @@ shall not be moved out of their place.
 
 "But if they will not hearken to my voice, nor unto the voice of these men
 whom I have appointed, they shall not be blest." ([D&amp;C
-124:45-46](https://www.lds.org/scriptures/dc-
-testament/dc/124.45-46?lang=eng#44).)
+124:45-46](/scriptures/dc-testament/dc/124.45-46?lang=eng#44).)
 
 ## Divine Doctrine
 
@@ -233,20 +226,17 @@ wonder, will my friend's predictable comment again be repeated?
 
 Such contentious spirits are not new. In an epistle to Timothy, the Apostle
 Paul gave this warning, "that the name of God and his doctrine be not
-blasphemed." ([1 Tim.
-6:1](https://www.lds.org/scriptures/nt/1-tim/6.1?lang=eng#0).)
+blasphemed." ([1 Tim. 6:1](/scriptures/nt/1-tim/6.1?lang=eng#0).)
 
 "If any man teach otherwise, and consent not to wholesome words, even the
 words of our Lord Jesus Christ, and to [his] doctrine ... doting about questions
 and strifes of words, ... supposing that gain is godliness: from such withdraw
-thyself." ([1 Tim.
-6:3-5](https://www.lds.org/scriptures/nt/1-tim/6.3-5?lang=eng#2); see also
-[Isa. 29:21](https://www.lds.org/scriptures/ot/isa/29.21?lang=eng#20); [2 Ne.
-27:32](https://www.lds.org/scriptures/bofm/2-ne/27.32?lang=eng#31); [D&amp;C
-19:30](https://www.lds.org/scriptures/dc-testament/dc/19.30?lang=eng#29);
-[D&amp;C 38:41](https://www.lds.org/scriptures/dc-
-testament/dc/38.41?lang=eng#40); [D&amp;C
-60:14](https://www.lds.org/scriptures/dc-testament/dc/60.14?lang=eng#13).)
+thyself." ([1 Tim. 6:3-5](/scriptures/nt/1-tim/6.3-5?lang=eng#2); see also
+[Isa. 29:21](/scriptures/ot/isa/29.21?lang=eng#20); [2 Ne.
+27:32](/scriptures/bofm/2-ne/27.32?lang=eng#31); [D&amp;C 19:30](/scriptures
+/dc-testament/dc/19.30?lang=eng#29); [D&amp;C 38:41](/scriptures/dc-
+testament/dc/38.41?lang=eng#40); [D&amp;C 60:14](/scriptures/dc-
+testament/dc/60.14?lang=eng#13).)
 
 Dissecting doctrine in a controversial way in order to draw attention to
 oneself is not pleasing to the Lord. He declared:
@@ -258,8 +248,7 @@ which is in me.
 contention; yea, Satan doth stir up the hearts of the people to contention
 concerning the points of my doctrine; and in these things they do err, for
 they do wrest the scriptures and do not understand them." ([D&amp;C
-10:62-63](https://www.lds.org/scriptures/dc-
-testament/dc/10.62-63?lang=eng#61).)
+10:62-63](/scriptures/dc-testament/dc/10.62-63?lang=eng#61).)
 
 Contention fosters disunity. The Book of Mormon teaches the better way:
 
@@ -267,9 +256,8 @@ Contention fosters disunity. The Book of Mormon teaches the better way:
 contention one with another, but that they should look forward with one eye,
 having one faith and one baptism, having their hearts knit together in unity
 and in love one towards another." ([Mosiah 18:18,
-21](https://www.lds.org/scriptures/bofm/mosiah/18.18%2C21?lang=eng#17); see
-also [Mosiah
-23:15](https://www.lds.org/scriptures/bofm/mosiah/23.15?lang=eng#14).)
+21](/scriptures/bofm/mosiah/18.18,21?lang=eng#17); see also [Mosiah
+23:15](/scriptures/bofm/mosiah/23.15?lang=eng#14).)
 
 ## Steps to Supplant Contention
 
@@ -279,15 +267,13 @@ take to supplant the spirit of contention with a spirit of personal peace?
 To begin, show compassionate concern for others. Control the tongue, the pen,
 and the word processor. Whenever tempted to dispute, remember this proverb:
 "He that is void of wisdom despiseth his neighbour: but a man of understanding
-holdeth his peace." ([Prov.
-11:12](https://www.lds.org/scriptures/ot/prov/11.12?lang=eng#11); see also
-[Prov. 17:28](https://www.lds.org/scriptures/ot/prov/17.28?lang=eng#27).)
+holdeth his peace." ([Prov. 11:12](/scriptures/ot/prov/11.12?lang=eng#11); see
+also [Prov. 17:28](/scriptures/ot/prov/17.28?lang=eng#27).)
 
 Bridle the passion to speak or write contentiously for personal gain or glory.
 The Apostle Paul thus counseled the Philippians, "Let nothing be done through
 strife or vainglory; but in lowliness of mind let each esteem other better
-than themselves." ([Philip.
-2:3](https://www.lds.org/scriptures/nt/philip/2.3?lang=eng#2).)
+than themselves." ([Philip. 2:3](/scriptures/nt/philip/2.3?lang=eng#2).)
 
 Such high mutual regard would then let us respectfully disagree without being
 disagreeable.
@@ -298,17 +284,15 @@ carefully this scripture:
 
 "There was no contention in the land, _because of_ the love of God which did
 dwell in the hearts of the people." ([4 Ne.
-1:15](https://www.lds.org/scriptures/bofm/4-ne/1.15?lang=eng#14); see also [4
-Ne. 1:2](https://www.lds.org/scriptures/bofm/4-ne/1.2?lang=eng#1); italics
-added.)
+1:15](/scriptures/bofm/4-ne/1.15?lang=eng#14); see also [4 Ne.
+1:2](/scriptures/bofm/4-ne/1.2?lang=eng#1); italics added.)
 
 Thus, love of God should be our aim. It is the first commandment--the
 foundation of faith. As we develop love of God and Christ, love of family and
 neighbor will naturally follow. Then will we eagerly emulate Jesus. He healed.
 He comforted. He taught, "Blessed are the peacemakers: for they shall be
-called the children of God." ([Matt.
-5:9](https://www.lds.org/scriptures/nt/matt/5.9?lang=eng#8); see also [3 Ne.
-12:9](https://www.lds.org/scriptures/bofm/3-ne/12.9?lang=eng#8).)
+called the children of God." ([Matt. 5:9](/scriptures/nt/matt/5.9?lang=eng#8);
+see also [3 Ne. 12:9](/scriptures/bofm/3-ne/12.9?lang=eng#8).)
 
 Through love of God, the pain caused by the fiery canker of contention will be
 extinguished from the soul. This healing begins with a personal vow: "Let
@@ -320,7 +304,9 @@ peace to neighborhoods and nations.
 Shun contention. Seek godliness. Be enlightened by eternal truth. Be like-
 minded with the Lord in love and united with Him in faith. Then shall "the
 peace of God, which passeth all understanding" ([Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6)), be yours, to
-bless you and your posterity through generations yet to come. I so testify in
-the name of Jesus Christ, amen.
+4:7](/scriptures/nt/philip/4.7?lang=eng#6)), be yours, to bless you and your
+posterity through generations yet to come. I so testify in the name of Jesus
+Christ, amen.
+
+## References
 

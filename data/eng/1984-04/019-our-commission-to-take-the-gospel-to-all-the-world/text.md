@@ -15,8 +15,8 @@ commanded it in these words:
 
 "Send forth the elders of my church unto the nations which are afar off; unto
 the islands of the sea; send forth unto foreign lands; call upon all nations,
-first upon the Gentiles, and then upon the Jews." ([D&amp;C
-133:8](https://www.lds.org/scriptures/dc-testament/dc/133.8?lang=eng#7).)
+first upon the Gentiles, and then upon the Jews." ([D&amp;C 133:8](/scriptures
+/dc-testament/dc/133.8?lang=eng#7).)
 
 This commission to take the gospel to every nation, kindred, tongue, and
 people is one of the signs by which believers will recognize the nearness of
@@ -25,8 +25,7 @@ prophesied:
 
 "And this gospel of the kingdom shall be preached in _all the world_ for a
 witness unto _all_ nations; and then shall the end come." ([Matt.
-24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13); italics
-added.)
+24:14](/scriptures/nt/matt/24.14?lang=eng#13); italics added.)
 
 This task will require thousands of missionaries, many more than are presently
 engaged in worldwide missionary service today.
@@ -42,7 +41,7 @@ wife, could serve.
 
 You are needed in the service of the Lord today as never before. "The harvest
 truly is great, but the labourers are few." ([Luke
-10:2](https://www.lds.org/scriptures/nt/luke/10.2?lang=eng#1).)
+10:2](/scriptures/nt/luke/10.2?lang=eng#1).)
 
 Those who serve a faithful mission return from that experience with increased
 faith, devotion, and leadership. They learn by their sacrifice what only
@@ -52,7 +51,7 @@ A missionary learns, for example, that God can use him as an instrument to
 accomplish His work. He can say, as did Ammon, a Book of Mormon missionary,
 "This is [a] blessing which hath been bestowed upon us, that we have been made
 instruments in the hands of God to bring about this great work." ([Alma
-26:3](https://www.lds.org/scriptures/bofm/alma/26.3?lang=eng#2).)
+26:3](/scriptures/bofm/alma/26.3?lang=eng#2).)
 
 A missionary learns that he must be humble and dependent on the Lord. He
 learns to pray with fervor and sincerity, not only for himself but for others,
@@ -107,8 +106,7 @@ One of the most inspiring missionary stories recorded in scripture concerns
 the fourteen-year mission of the four sons of Mosiah to their Lamanite
 brethren. They brought thousands into the Church, the record tells us, which
 caused one of them, Ammon, to exclaim: "My joy is full, yea, my heart is brim
-with joy." ([Alma
-26:11](https://www.lds.org/scriptures/bofm/alma/26.11?lang=eng#10).)
+with joy." ([Alma 26:11](/scriptures/bofm/alma/26.11?lang=eng#10).)
 
 Brethren, no joy is equal to bringing another to the light of the gospel, for
 the Lord promised:
@@ -119,15 +117,14 @@ joy with him in the kingdom of my Father!
 
 "And now, if your joy will be great with one soul that you have brought unto
 me into the kingdom of my Father, how great will be your joy if you should
-bring many souls unto me!" ([D&amp;C 18:15-16](https://www.lds.org/scriptures
-/dc-testament/dc/18.15-16?lang=eng#14).)
+bring many souls unto me!" ([D&amp;C 18:15-16](/scriptures/dc-
+testament/dc/18.15-16?lang=eng#14).)
 
 A missionary learns that the priesthood conferred upon him is the power of
 God. Opportunities are presented for exercise of the priesthood through the
 ordinances of baptism, confirmation, and administrations to the sick. Almost
 without exception, our missionaries testify that God has not ceased to be a
-God of miracles! (See [Morm.
-9:15](https://www.lds.org/scriptures/bofm/morm/9.15?lang=eng#14).)
+God of miracles! (See [Morm. 9:15](/scriptures/bofm/morm/9.15?lang=eng#14).)
 
 A missionary learns that God, our Heavenly Father, can and does answer
 prayers. He learns to recognize the promptings of the Holy Spirit and to be
@@ -149,8 +146,8 @@ be worthy to serve the Lord. The Lord has said:
 "And ... every man [notice the words _every man_] should take righteousness in
 his hands and faithfulness upon his loins, and lift a warning voice unto the
 inhabitants of the earth; and declare both by word and by flight that
-desolation shall come upon the wicked." ([D&amp;C
-63:37](https://www.lds.org/scriptures/dc-testament/dc/63.37?lang=eng#36).)
+desolation shall come upon the wicked." ([D&amp;C 63:37](/scriptures/dc-
+testament/dc/63.37?lang=eng#36).)
 
 Some young men, because of transgression, say they are not interested in
 serving a mission. The real reason, of course, is feelings of unworthiness. If
@@ -226,13 +223,13 @@ needed in the Lord's service--missionary service--today.
 
 I testify to all of you brethren within the sound of my voice that this Church
 --The Church of Jesus Christ of Latter-day Saints--is "the only true and
-living church upon the face of the whole earth." ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29).) We
-are privileged through the covenants and ordinances of baptism and
-confirmation to be members of His church. Membership in this Church is the
-only means by which others may have the opportunity for eternal life. We have
-the truth, and we invite you to share that truth and the privilege of
-introducing His gospel to others who do not have it.
+living church upon the face of the whole earth." ([D&amp;C 1:30](/scriptures
+/dc-testament/dc/1.30?lang=eng#29).) We are privileged through the covenants
+and ordinances of baptism and confirmation to be members of His church.
+Membership in this Church is the only means by which others may have the
+opportunity for eternal life. We have the truth, and we invite you to share
+that truth and the privilege of introducing His gospel to others who do not
+have it.
 
 I encourage you to become familiar with the Book of Mormon, particularly. I
 remember an incident with my own sons. He called me one day to ask if I
@@ -258,4 +255,6 @@ It is our duty.
 God bless, my brothers, that we may respond to this great need. It _is_ the
 Lord's will that we do more in the great work of missionary proselyting. This
 I know and bear humble witness of, in the name of Jesus Christ, amen.
+
+## References
 

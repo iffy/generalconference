@@ -16,10 +16,9 @@ of sympathy.
 
 As I meditated upon these healing procedures, I tried to understand some of
 the things that Jesus may have had in mind when he said, "Physician, heal
-thyself." ([Luke
-4:23](https://www.lds.org/scriptures/nt/luke/4.23?lang=eng#22).) And I think
-he was giving us the detail of one method for handling this healing power when
-he instructed Emma Smith to make a selection of the inspiring hymns to be
+thyself." ([Luke 4:23](/scriptures/nt/luke/4.23?lang=eng#22).) And I think he
+was giving us the detail of one method for handling this healing power when he
+instructed Emma Smith to make a selection of the inspiring hymns to be
 regularly run through our minds and hearts.
 
 I recently went to the library and obtained a copy of this little book, which
@@ -216,7 +215,7 @@ number of the poems of love. The Library of Congress has one section entitled
 The Poems of Faith and Freedom. The Lord said, "For my soul delighteth in the
 song of the heart; yea, the song of the righteous is a prayer unto me, and it
 shall be answered with a blessing upon their heads." ([D&amp;C
-25:12](https://www.lds.org/scriptures/dc-testament/dc/25.12?lang=eng#11).)
+25:12](/scriptures/dc-testament/dc/25.12?lang=eng#11).)
 
 As I walk to work each morning, I have almost an hour wherein I can think the
 ideas that most stimulate me. And I have some other prayers to which I enjoy
@@ -238,7 +237,7 @@ _On wings of joy my soul doth flee_
 
 _And thank thee for another morn._
 
-_Another morn in which to cast_ _Some silent deed of love abroad,_
+_Another morn in which to cast__Some silent deed of love abroad,_
 
 _That great'ning as it journeys past_
 
@@ -309,4 +308,6 @@ _Lovingly in the hollow of His hand._
 
 And that it may always be so I sincerely pray in the name of Jesus Christ.
 Amen.
+
+## References
 

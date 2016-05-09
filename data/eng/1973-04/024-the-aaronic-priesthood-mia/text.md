@@ -152,17 +152,12 @@ youth have with the Savior.
 
 In summary, may I list some of the objectives of these changes:
 
-  1. Aaronic Priesthood MIA actually is now priesthood oriented.
-
-  2. Our interest is centered on each individual youth, not on programs alone. We must provide activities for those who do not presently come to church as well as for those who do.
-
-  3. Direct involvement of young people themselves is of the utmost Importance.
-
-  4. There will be greater accountability for our stewardship as leaders.
-
-  5. All that is done is intended to strengthen the family.
-
-  6. Finally, because of the emphasis on people rather than programs, local leaders, both youth and adult, will have the opportunity to determine in great measure the appropriate activities for their young people.
+  1. Aaronic Priesthood MIA actually is now priesthood oriented. 
+  2. Our interest is centered on each individual youth, not on programs alone. We must provide activities for those who do not presently come to church as well as for those who do. 
+  3. Direct involvement of young people themselves is of the utmost Importance. 
+  4. There will be greater accountability for our stewardship as leaders. 
+  5. All that is done is intended to strengthen the family. 
+  6. Finally, because of the emphasis on people rather than programs, local leaders, both youth and adult, will have the opportunity to determine in great measure the appropriate activities for their young people. 
 
 Inasmuch as these modifications will be reviewed in detail at June Conference,
 it is essential that the new stake Aaronic Priesthood MIA organization be
@@ -190,4 +185,6 @@ through our love of youth and dedicated leadership, all young men and women in
 our stakes, wards, and branches may taste the sweetness of the gospel of Jesus
 Christ and draw close to him in this life so they will be worthy to be with
 him in the life to come. In the name of Jesus Christ. Amen.
+
+## References
 

@@ -43,28 +43,26 @@ of the Americas was not an accident. The event had been foreordained in the
 eternal councils. The prophets of old had it in view. Jacob foresaw it when he
 blessed his son Joseph, calling him "a fruitful bough by a well, whose
 branches run over the wall ... unto the utmost bound of the everlasting hills."
-([Gen. 49:22,
-26](https://www.lds.org/scriptures/ot/gen/49.22%2C26?lang=eng#21).)
+([Gen. 49:22, 26](/scriptures/ot/gen/49.22,26?lang=eng#21).)
 
 Moses too made promises to the tribe of Joseph, whose land, America, was to be
 precious for the things of heaven and of earth, and who would "push the people
 together to the ends of the earth." (See [Deut.
-33:13-17](https://www.lds.org/scriptures/ot/deut/33.13-17?lang=eng#12).) These
-are just some of the _biblical_ prophecies, and we have the Book of Mormon
-record which tells of the Jaredites who were the first to come to America.
-They came at the time of the confusion of languages during the building of the
-tower of Babel.
+33:13-17](/scriptures/ot/deut/33.13-17?lang=eng#12).) These are just some of
+the _biblical_ prophecies, and we have the Book of Mormon record which tells
+of the Jaredites who were the first to come to America. They came at the time
+of the confusion of languages during the building of the tower of Babel.
 
 Just as Noah was directed, these people too were instructed to build ships to
 carry them on the waters. When all was in readiness, they boarded their
 vessels and "set forth into the sea, commending themselves unto the Lord their
-God." ([Ether 6:4](https://www.lds.org/scriptures/bofm/ether/6.4?lang=eng#3).)
+God." ([Ether 6:4](/scriptures/bofm/ether/6.4?lang=eng#3).)
 
 The account states, "And when they had set their feet upon the shores of the
 promised land they bowed themselves down upon the face of the land, and did
 humble themselves before the Lord, and did shed tears of joy before the Lord,
 because of the multitude of his tender mercies over them." ([Ether
-6:12](https://www.lds.org/scriptures/bofm/ether/6.12?lang=eng#11).)
+6:12](/scriptures/bofm/ether/6.12?lang=eng#11).)
 
 Then, six hundred years before the birth of Christ, a prophet by the name of
 Lehi, who had been crying repentance unto the inhabitants of Jerusalem, was
@@ -77,7 +75,7 @@ they too were instructed to build a ship and sail for the promised land. We
 read, "And it came to pass that after we had sailed for the space of many days
 we did arrive at the promised land; and we went forth upon the land, and did
 pitch our tents; and we did call it the promised land." ([1 Ne.
-18:23](https://www.lds.org/scriptures/bofm/1-ne/18.23?lang=eng#22).)
+18:23](/scriptures/bofm/1-ne/18.23?lang=eng#22).)
 
 While in the wilderness Nephi, the son of Lehi, was permitted to see in vision
 the things that would transpire concerning the destiny of America--the
@@ -85,8 +83,7 @@ promised land. He said, "And I looked and beheld a man among the Gentiles, who
 was separated from the seed of my brethren by the many waters; and I beheld
 the Spirit of God, that it came down and wrought upon the man; and he went
 forth upon the many waters, even unto the seed of my brethren, who were in the
-promised land." ([1 Ne.
-13:12](https://www.lds.org/scriptures/bofm/1-ne/13.12?lang=eng#11).)
+promised land." ([1 Ne. 13:12](/scriptures/bofm/1-ne/13.12?lang=eng#11).)
 
 This, as we know, refers to Christopher Columbus, who was impelled by the
 Spirit of God to cross the ocean for the rediscovery of America, thus
@@ -113,7 +110,7 @@ of God was upon all those that were gathered together against them to battle.
 
 "And I, Nephi, beheld that the Gentiles that had gone out of captivity were
 delivered by the power of God out of the hands of all other nations." ([1 Ne.
-13:18-19](https://www.lds.org/scriptures/bofm/1-ne/13.18-19?lang=eng#17).)
+13:18-19](/scriptures/bofm/1-ne/13.18-19?lang=eng#17).)
 
 Thus the American colonies attained their independence and set up the
 government of the United States, all under the divine intervention of God in
@@ -134,8 +131,7 @@ be accountable for his own sins in the day of judgment.
 
 "And for this purpose have I established the Constitution of this land, by the
 hands of wise men whom I raised up unto this very purpose, and redeemed the
-land by the shedding of blood." ([D&amp;C
-101:77-80](https://www.lds.org/scriptures/dc-
+land by the shedding of blood." ([D&amp;C 101:77-80](/scriptures/dc-
 testament/dc/101.77-80?lang=eng#76).)
 
 No constitution on earth has endured longer than this one. We seek, and
@@ -193,25 +189,24 @@ life, mission, and subsequent death and resurrection.
 Referring to these same early Americans, the Lord said, as recorded in the New
 Testament, "And other sheep I have, which are not of this fold: them also I
 must bring and they shall hear my voice; and there shall be one fold, and one
-shepherd." ([John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15).)
+shepherd." ([John 10:16](/scriptures/nt/john/10.16?lang=eng#15).)
 
 In the Book of Mormon we have a beautiful account of Christ's visit to these
 "other sheep" following his resurrection, when they heard his voice and
 recognize him as he showed the nail prints in his hands and feet. We know
 these were the "other sheep" because he said, "Ye are they of whom I said:
 Other sheep I have which are not of this fold." ([3 Ne.
-15:21](https://www.lds.org/scriptures/bofm/3-ne/15.21?lang=eng#20).) He taught
-them the gospel. He instituted the sacrament and ordained disciples. He gave
-authority to confer the Holy Ghost, healed the sick, and blessed the little
-children. He prayed unto the Father for them.
+15:21](/scriptures/bofm/3-ne/15.21?lang=eng#20).) He taught them the gospel.
+He instituted the sacrament and ordained disciples. He gave authority to
+confer the Holy Ghost, healed the sick, and blessed the little children. He
+prayed unto the Father for them.
 
 We read, "The eye hath never seen, neither hath the ear heard, before, so
 great and marvelous things as we saw and heard Jesus speak unto the Father;
 
 "... and no one can conceive of the joy which filled our souls at the time we
 heard him pray for us unto the Father." ([3 Ne.
-17:16-17](https://www.lds.org/scriptures/bofm/3-ne/17.16-17?lang=eng#15).)
+17:16-17](/scriptures/bofm/3-ne/17.16-17?lang=eng#15).)
 
 Now, what of America's future? How can we best show our appreciation to God
 for these marvelous blessings of freedom, of a place where his true and
@@ -222,8 +217,7 @@ this is a choice land, and whatsoever nation shall possess it shall be free
 from bondage, and from captivity, and from all other nations under heaven, _if
 they will but serve the God of the land, who is Jesus Christ,_ who hath been
 manifested by the things which we have written." ([Ether
-2:12](https://www.lds.org/scriptures/bofm/ether/2.12?lang=eng#11); italics
-added.)
+2:12](/scriptures/bofm/ether/2.12?lang=eng#11); italics added.)
 
 Many years ago in a volume entitled _Beacon Lights of History,_ Dr. John Lord,
 referring to the discovery of America, said, after speaking of her great
@@ -258,8 +252,7 @@ according to the commandments which he hath given, it shall be a land of
 liberty unto them; wherefore, they shall never be brought down into captivity;
 if so, it shall be because of iniquity; for if iniquity shall abound cursed
 shall be the land for their sakes, but unto the righteous it shall be blessed
-forever." ([2 Ne.
-1:7](https://www.lds.org/scriptures/bofm/2-ne/1.7?lang=eng#6).)
+forever." ([2 Ne. 1:7](/scriptures/bofm/2-ne/1.7?lang=eng#6).)
 
 As we pray daily to God for guidance, we should all make the same plea as
 George Washington did in his prayer for our country:
@@ -289,7 +282,7 @@ of trouble, suffer not our trust in Thee to fail.
 We encourage our people to be good, loyal, law-abiding citizens. "We believe
 in being subject to kings, presidents, rulers, and magistrates, in obeying,
 honoring, and sustaining the law." ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
 
 Also, it is our duty to seek diligently for and support and uphold good,
 honest, honorable, and wise representatives to govern us. Let me reiterate the
@@ -320,4 +313,6 @@ Only as we accept and live the teachings of the gospel can the destiny which
 God planned for America be realized and the world united in peace and
 brotherhood. That this may speedily come to pass I humbly pray in the name of
 Jesus Christ. Amen.
+
+## References
 

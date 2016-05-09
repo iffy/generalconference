@@ -42,9 +42,7 @@ Yes, the call is an eternal miracle, never changing.
 Joseph Smith, like Moses, Abraham, Jacob, and other prophets before him, was
 called by name by the Lord. He related, "One of them spake unto me, _calling
 me by name_ and said, pointing to the other--_This is My Beloved Son. Hear
-Him!_" ([JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16); italics
-added.)
+Him!_" ([JS--H 1:17](/scriptures/pgp/js-h/1.17?lang=eng#16); italics added.)
 
 Shortly after he was called to restore the original Church, a small handful of
 priesthood holders, many of them heads of families, received calls to go into
@@ -56,7 +54,7 @@ The Prophet did not ask any of those called if they wanted to serve, or if it
 was convenient. Each received an official call as our Heavenly Father
 directed. They believed the call was from the Lord and that "whether by mine
 own voice or by the voice of my servants, it is the same." ([D&amp;C
-1:38](https://www.lds.org/scriptures/dc-testament/dc/1.38?lang=eng#37).)
+1:38](/scriptures/dc-testament/dc/1.38?lang=eng#37).)
 
 Mission calls are rarely made at a convenient time. When my call came to full-
 time service as mission president to the nations of Uruguay and Paraguay,
@@ -124,4 +122,6 @@ servants will call us to serve for a period--by name, and in _his_ name and by
 _his_ inspiration and revelation. May we all have a deeper insight into the
 divine nature and meaning of the call, this great eternal miracle, is my
 prayer, in the name of Jesus Christ, amen.
+
+## References
 

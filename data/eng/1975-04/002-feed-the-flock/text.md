@@ -31,19 +31,18 @@ ward leaders did care.
 
 As we drove from base to base, a kaleidoscope of these disappointed faces kept
 crossing my mind. "Feed the flock of God which is among you," Peter
-admonished. ([1 Pet.
-5:2](https://www.lds.org/scriptures/nt/1-pet/5.2?lang=eng#1).) A clear
+admonished. ([1 Pet. 5:2](/scriptures/nt/1-pet/5.2?lang=eng#1).) A clear
 impression came to me that I was witnessing a needless neglect and that I must
 tell this story. This lack of interest at home for these young men is not the
 Lord's plan, not the way he has taught us. Many of us are not responding to
 the Church direction, not responding to our charge to "[teach] them to observe
 all things whatsoever I have commanded you." ([Matt.
-28:20](https://www.lds.org/scriptures/nt/matt/28.20?lang=eng#19).) This
-responsibility to teach and to encourage does not cease because they are out
-of sight; in fact, our interest must be intensified. Our concern is not for
-the career military Church member who, with his family, adds great strength to
-local Church units, but for the young men--mostly single, lonely, exposed to
-the evil enticements and temptations that can be part of military life.
+28:20](/scriptures/nt/matt/28.20?lang=eng#19).) This responsibility to teach
+and to encourage does not cease because they are out of sight; in fact, our
+interest must be intensified. Our concern is not for the career military
+Church member who, with his family, adds great strength to local Church units,
+but for the young men--mostly single, lonely, exposed to the evil enticements
+and temptations that can be part of military life.
 
 There is a growing number without benefit of a mission or college disappearing
 into the military. The Selective Service has been discontinued. However, the
@@ -141,8 +140,8 @@ into the mountains to seek that one that has strayed. "When he hath found it,
 he layeth it on his shoulders, rejoicing. And when he cometh home, he calleth
 together his friends and neighbours, saying unto them, Rejoice with me; for I
 have found my sheep which was lost." ([Luke
-15:5-6](https://www.lds.org/scriptures/nt/luke/15.5-6?lang=eng#4).) Can't you
-somehow feel the Savior's concern to account for everyone.
+15:5-6](/scriptures/nt/luke/15.5-6?lang=eng#4).) Can't you somehow feel the
+Savior's concern to account for everyone.
 
 He follows this parable with a similar one, "the Lost Coin." Whereas the sheep
 had strayed--wandered away--the coin, as the result of carelessness on the
@@ -151,8 +150,7 @@ even lights a candle. By her diligence it is recovered. "And when she hath
 found it, she calleth her friends and her neighbours together, saying, Rejoice
 with me; for I have found the piece which I had lost. Likewise, I say unto
 you, there is joy in the presence of the angels of God over one ... that
-repenteth." ([Luke
-15:9-10](https://www.lds.org/scriptures/nt/luke/15.9-10?lang=eng#8).)
+repenteth." ([Luke 15:9-10](/scriptures/nt/luke/15.9-10?lang=eng#8).)
 
 Members of your family can be part of a real "lost battalion" _in urgent need
 of our help._ They hunger for what only you can give them. When you don't
@@ -161,4 +159,6 @@ supply it, they accept some devastating substitutes.
 I pray that as you close the drapes on each day, you will rest peacefully
 knowing, "The wind still whips the leaves, but the roots are down." In the
 name of Jesus Christ. Amen.
+
+## References
 

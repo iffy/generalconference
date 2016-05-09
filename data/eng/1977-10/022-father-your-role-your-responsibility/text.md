@@ -11,8 +11,7 @@ life of his son. In answer to his prayers, an angel stood before this young
 man and said, "Behold, the Lord hath heard the prayers of his people, and also
 the prayers of his servant, Alma, who is thy father; for he has prayed with
 much faith concerning thee that thou mightest be brought to a knowledge of the
-truth." ([Mosiah
-27:14](https://www.lds.org/scriptures/bofm/mosiah/27.14?lang=eng#13).)
+truth." ([Mosiah 27:14](/scriptures/bofm/mosiah/27.14?lang=eng#13).)
 
 The scriptures record how the prayers of a righteous father had been answered.
 History attests to the power of righteous leadership in the home.
@@ -36,7 +35,7 @@ responsibility?
 First, as a husband: The first instruction given to man and woman immediately
 following the creation was, "Therefore shall a man leave his father and his
 mother, and shall cleave unto his wife: and they shall be one flesh." ([Gen.
-2:24](https://www.lds.org/scriptures/ot/gen/2.24?lang=eng#23).)
+2:24](/scriptures/ot/gen/2.24?lang=eng#23).)
 
 So God in His divine plan ordained that marriage was to bring about his basic
 organizational unit, the family. The role of husband and wife was clearly
@@ -115,8 +114,8 @@ will immediately begin to exercise unrighteous dominion. ...
 
 "No power or influence can or ought to be maintained by virtue of the
 priesthood, only by persuasion, by longsuffering, by gentleness and meekness,
-and by love unfeigned." ([D&amp;C 121:39, 41](https://www.lds.org/scriptures
-/dc-testament/dc/121.39%2C41?lang=eng#38).)
+and by love unfeigned." ([D&amp;C 121:39, 41](/scriptures/dc-
+testament/dc/121.39,41?lang=eng#38).)
 
 She is not your chattel. She does not have to follow you in unrighteousness.
 She is your wife, your companion, your best friend, your full partner. The
@@ -222,4 +221,6 @@ receive top priority in your life?
 
 God bless you to understand your duties and responsibilities to be righteous
 husbands and fathers, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

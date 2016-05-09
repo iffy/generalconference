@@ -15,7 +15,7 @@ to hospitality, apt to teach;
 "... not greedy of filthy lucre; but patient. ...
 
 "Moreover he must have a good report of them which are without." ([1 Tim.
-3:1-3, 7](https://www.lds.org/scriptures/nt/1-tim/3.1-3%2C7?lang=eng#0).)
+3:1-3, 7](/scriptures/nt/1-tim/3.1-3,7?lang=eng#0).)
 
 These words burned into my soul when I read them as a newly called bishop
 thirty years ago. I was young--just twenty-two. The ward was large, with over
@@ -31,7 +31,7 @@ away in basement apartments, upstairs back rooms, or dilapidated houses
 situated at the rear of little-known streets. I became the shepherd. This was
 my flock. I was reminded of God's warning through Ezekiel: "Woe be to the
 shepherds of Israel that feed not my flock" (see [Ezek.
-34:2-3](https://www.lds.org/scriptures/ot/ezek/34.2-3?lang=eng#1)).
+34:2-3](/scriptures/ot/ezek/34.2-3?lang=eng#1)).
 
 My teachers were heaven-sent. May I mention but a few: our former stake
 president, Harold B. Lee; President Marion G. Romney; and President J. Reuben
@@ -51,12 +51,11 @@ confidentiality.
 Brother Romney was a frequent visitor to our stake and region. One evening he
 taught us the principle of faith by retelling the inspiring account of Elijah
 and the widow at Zarephath (see [1 Kgs.
-17:8-16](https://www.lds.org/scriptures/ot/1-kgs/17.8-16?lang=eng#7)). He
-liken her circumstances to those of some widows in our area. As he taught
-welfare precepts from the handbook and responded to questions, one brother
-asked him, "Brother Romney, why do you seem to know whatever's in that
-handbook?" to which Brother Romney, with that twinkle in his eye and smile
-upon his lips, responded, "I wrote it!"
+17:8-16](/scriptures/ot/1-kgs/17.8-16?lang=eng#7)). He liken her circumstances
+to those of some widows in our area. As he taught welfare precepts from the
+handbook and responded to questions, one brother asked him, "Brother Romney,
+why do you seem to know whatever's in that handbook?" to which Brother Romney,
+with that twinkle in his eye and smile upon his lips, responded, "I wrote it!"
 
 President Clark too was a master teacher. It was my privilege during those
 years to assist him in the preparation of his manuscripts that they might find
@@ -80,8 +79,7 @@ not.
 Arise.
 
 "And he that was dead sat up, and began to speak. And he delivered him to his
-mother." [[Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10)]
+mother." [[Luke 7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10)]
 
 When President Clark closed the Bible, I noticed that he was weeping. In a
 quiet voice he said, "Tom, be kind to the widows, and look after the poor."
@@ -124,7 +122,7 @@ are tired--but human souls are refreshed and lifted towards heaven.
 Fourth, _storage._ The Lord in the revelations spoke frequently of his
 storehouses. On one occasion he counseled, "The storehouse shall be kept by
 the consecrations of the church; and widows and orphans shall be provided for,
-as also the poor" ([D&amp;C 83:6](https://www.lds.org/scriptures/dc-
+as also the poor" ([D&amp;C 83:6](/scriptures/dc-
 testament/dc/83.6?lang=eng#5)). I am happy that over the entrance to our
 storehouses are the words _Bishops' Storehouse!_ Those who labor therein are
 recommended and sent by their respective bishops. Within such buildings there
@@ -138,11 +136,9 @@ tested. He cannot shirk this God-given responsibility. President J. Reuben
 Clark, Jr., summarized the bishop's role in welfare services: He "is 'to
 administer all temporal things' ... ; in his calling he is to 'administer to the
 ... poor and needy'; he is to search 'after the poor to administer to their
-wants' [see [D&amp;C 107:68](https://www.lds.org/scriptures/dc-
-testament/dc/107.68?lang=eng#67), [D&amp;C
-42:34](https://www.lds.org/scriptures/dc-testament/dc/42.34?lang=eng#33),
-[D&amp;C 84:112](https://www.lds.org/scriptures/dc-
-testament/dc/84.112?lang=eng#111)]. ...
+wants' [see [D&amp;C 107:68](/scriptures/dc-testament/dc/107.68?lang=eng#67),
+[D&amp;C 42:34](/scriptures/dc-testament/dc/42.34?lang=eng#33), [D&amp;C
+84:112](/scriptures/dc-testament/dc/84.112?lang=eng#111)]. ...
 
 "Thus to the bishop is given all the powers, and responsibilities which the
 Lord has specifically prescribed in the Doctrine and Covenants for the caring
@@ -274,8 +270,8 @@ have ever felt before. Can you tell me why?"
 
 I responded with the words of the Master: "Inasmuch as ye have done it unto
 one of the least of these my brethren, ye have done it unto me" ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39)). Suddenly
-there came to mind the words from "O Little Town of Bethlehem":
+25:40](/scriptures/nt/matt/25.40?lang=eng#39)). Suddenly there came to mind
+the words from "O Little Town of Bethlehem":
 
 _How silently, how silently,_
 
@@ -305,4 +301,6 @@ responsibilities. Such duties are God-given. They were authored in heaven to
 bless in our day those who stand in need.
 
 In the name of Jesus Christ, amen.
+
+## References
 

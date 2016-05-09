@@ -1,4 +1,4 @@
-# The Book of Mormon: A Sacred Ancient Record
+# The Book of Mormon:A Sacred Ancient Record
 
 Some people place faith in good luck symbols, even a rabbit's foot, but
 remember, it didn't do the rabbit any good.
@@ -10,12 +10,11 @@ that he will take upon himself our burdens and sorrows if we place unwavering
 faith in him?
 
 The scriptures state, "They are they which testify of [God]" ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38)). Eternal life
-is knowing God and his Holy Son (see [John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2)). One can know
-him by searching the Book of Mormon. Every page testifies of him. The changes
-published in the Book of Mormon in 1981 go back beyond the first edition of
-1830 to the handwritten manuscript.
+5:39](/scriptures/nt/john/5.39?lang=eng#38)). Eternal life is knowing God and
+his Holy Son (see [John 17:3](/scriptures/nt/john/17.3?lang=eng#2)). One can
+know him by searching the Book of Mormon. Every page testifies of him. The
+changes published in the Book of Mormon in 1981 go back beyond the first
+edition of 1830 to the handwritten manuscript.
 
 The Book of Mormon is a sacred, ancient American document recorded by writers
 as the events unfolded, starting more than two thousand years ago.
@@ -67,11 +66,11 @@ said:
 they partake of the worldliness about them, but generally the children of Lehi
 of the twentieth century have inherited that grace and ability to believe like
 their ancestors of the long ago. We read in [Hel.
-6:36](https://www.lds.org/scriptures/bofm/hel/6.36?lang=eng#35): 'And thus we
-see that the Lord began to pour out his Spirit upon the Lamanites, because of
-_their easiness and willingness to believe in his words_'" (_The Teachings of
-Spencer W. Kimball,_ ed. Edward L. Kimball [Salt Lake City: Bookcraft, 1982],
-p. 178; emphasis added).
+6:36](/scriptures/bofm/hel/6.36?lang=eng#35): 'And thus we see that the Lord
+began to pour out his Spirit upon the Lamanites, because of _their easiness
+and willingness to believe in his words_'" (_The Teachings of Spencer W.
+Kimball,_ ed. Edward L. Kimball [Salt Lake City: Bookcraft, 1982], p. 178;
+emphasis added).
 
 Every ecclesiastical authority of _any church_ and every agnostic should
 rejoice and praise God for having sent the priceless Book of Mormon to them or
@@ -80,13 +79,13 @@ that God lives and Jesus is the very Christ, our Redeemer.
 
 The _first witness_ is the Holy Bible, which testifies of the Master from the
 Middle East. The Lord said in [John
-10:16](https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15) that other
-sheep would hear His voice. The Lord came to the Americas after His
-resurrection and said: "And verily I say unto you, that ye are they of whom I
-said: Other sheep I have which are not of this fold; them also I must bring,
-and they shall hear my voice; and there shall be one fold, and one shepherd"
-([3 Ne. 15:21](https://www.lds.org/scriptures/bofm/3-ne/15.21?lang=eng#20)).
-Two such witnesses cannot be denied without placing the soul in peril.
+10:16](/scriptures/nt/john/10.16?lang=eng#15) that other sheep would hear His
+voice. The Lord came to the Americas after His resurrection and said: "And
+verily I say unto you, that ye are they of whom I said: Other sheep I have
+which are not of this fold; them also I must bring, and they shall hear my
+voice; and there shall be one fold, and one shepherd" ([3 Ne.
+15:21](/scriptures/bofm/3-ne/15.21?lang=eng#20)). Two such witnesses cannot be
+denied without placing the soul in peril.
 
 The crucial messages or purposes of the Book of Mormon are shown on its title
 page: "To show unto the remnant of the House of Israel what great things the
@@ -140,8 +139,7 @@ tangible evidence of the truthfulness of the Church.
 The Book of Mormon prophet Nephi wrote: "For we labor diligently to write, to
 persuade our children, and also our brethren, to believe in Christ, and to be
 reconciled to God; for we know that it is by grace that we are saved, after
-all we can do" ([2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22)).
+all we can do" ([2 Ne. 25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22)).
 
 Elder B. H. Roberts wrote in 1909:
 
@@ -176,4 +174,6 @@ The Book of Mormon is a witness.
 
 I am one of the witnesses that he _is_ risen, and he _is_ coming. In the name
 of Jesus Christ, amen.
+
+## References
 

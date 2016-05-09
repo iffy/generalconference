@@ -81,8 +81,7 @@ gladness?
 "Or canst thou run about longer as a blind guide?
 
 "Or canst thou be humble and meek, and conduct thyself wisely before me? Yea,
-come unto me thy Savior. Amen." ([D&amp;C
-19:38-41](https://www.lds.org/scriptures/dc-
+come unto me thy Savior. Amen." ([D&amp;C 19:38-41](/scriptures/dc-
 testament/dc/19.38-41?lang=eng#37).)
 
 In that scripture, and in others, it is clear how often we should speak to
@@ -101,7 +100,7 @@ tempted by the devil, and ye be led away captive by him.
 "And as I have prayed among you even so shall ye pray in my church, among my
 people who do repent and are baptized in my name. Behold I am the light; I
 have set an example for you." ([3 Ne.
-18:14-16](https://www.lds.org/scriptures/bofm/3-ne/18.14-16?lang=eng#13).)
+18:14-16](/scriptures/bofm/3-ne/18.14-16?lang=eng#13).)
 
 Now, you and I need to listen with great care. When you heard the scripture I
 just recited, you heard the words of Christ. I testify that is true. Jesus
@@ -120,7 +119,7 @@ servants, it is the same.
 
 "For behold, and lo, the Lord is God, and the Spirit beareth record, and the
 record is true, and the truth abideth forever and ever. Amen." ([D&amp;C
-1:38-39](https://www.lds.org/scriptures/dc-testament/dc/1.38-39?lang=eng#37).)
+1:38-39](/scriptures/dc-testament/dc/1.38-39?lang=eng#37).)
 
 It is the Spirit which will bear record to your heart as you read the
 scriptures, as you hear the Lord's authorized servants, and as God speaks
@@ -129,8 +128,7 @@ scriptures are accurate when they describe the Holy Ghost this way:
 
 "Yea, thus saith the still small voice, which whispereth through and pierceth
 all things, and often times it maketh my bones to quake while it maketh
-manifest." ([D&amp;C 85:6](https://www.lds.org/scriptures/dc-
-testament/dc/85.6?lang=eng#5).)
+manifest." ([D&amp;C 85:6](/scriptures/dc-testament/dc/85.6?lang=eng#5).)
 
 Now, I testify it is a small voice. It whispers, not shouts. And so you must
 be very quiet inside. That is why you may wisely fast when you want to listen.
@@ -154,8 +152,7 @@ making and keeping of sacred covenants. That's why the Proverbs record this:
 correction:
 
 "For whom the Lord loveth he correcteth; even as a father the son in whom he
-delighteth." ([Prov.
-3:11-12](https://www.lds.org/scriptures/ot/prov/3.11-12?lang=eng#10).)
+delighteth." ([Prov. 3:11-12](/scriptures/ot/prov/3.11-12?lang=eng#10).)
 
 As you have listened to God's servants here, you have felt pricked in your
 heart to do something. You could react with a hard heart: "Why is an imperfect
@@ -181,7 +178,7 @@ acts of kindness with God:
 if ye do, he doth immediately bless you; and therefore he hath paid you. And
 ye are still indebted unto him, and are, and will be, forever and ever;
 therefore, of what have ye to boast?" ([Mosiah
-2:24](https://www.lds.org/scriptures/bofm/mosiah/2.24?lang=eng#23).)
+2:24](/scriptures/bofm/mosiah/2.24?lang=eng#23).)
 
 Now, even the Savior of the world, when he was on the cross, felt his Father
 far from him. You will have moments, perhaps long moments, of feelings of
@@ -195,8 +192,7 @@ which he shall call you.
 
 "For how knoweth a man the master whom he has not served, and who is a
 stranger unto him, and is far from the thoughts and intents of his heart?"
-([Mosiah
-5:12-13](https://www.lds.org/scriptures/bofm/mosiah/5.12-13?lang=eng#11).)
+([Mosiah 5:12-13](/scriptures/bofm/mosiah/5.12-13?lang=eng#11).)
 
 Now, you will still be startled, as President Benson said you would be, to
 realize how familiar the face of our Heavenly Father is. But when you see him,
@@ -205,4 +201,6 @@ come to share the thoughts and intents of his heart. You will have drawn
 nearer to him.
 
 I pray that we will. In the name of Jesus Christ, amen.
+
+## References
 

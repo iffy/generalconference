@@ -103,3 +103,5 @@ Cowley, widow of Matthew Cowley, former member of the Quorum of the Twelve
 Apostles; Alexander Schreiner, Tabernacle organist for fifty-three years;
 Louise W. Madsen, former counselor in the General Relief Society Presidency.
 
+## References
+

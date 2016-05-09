@@ -21,82 +21,79 @@ and Eve, our first parents. Joseph, the descendant of David, agreed to become
 the surrogate father of Jesus, the Son of God, when he accepted Mary as his
 wife, following a visitation of the angel Gabriel. In Nazareth, Joseph was
 regarded as the father of Jesus (see [Matt.
-13:55](https://www.lds.org/scriptures/nt/matt/13.55?lang=eng#54)).
+13:55](/scriptures/nt/matt/13.55?lang=eng#54)).
 
 The Christ child grew and developed in a modest home, where Joseph earned a
 humble living as a carpenter, and where Jesus also learned this craft (see
-[Mark 6:3](https://www.lds.org/scriptures/nt/mark/6.3?lang=eng#2)). There were
-other members of the family. Mary and Joseph had four other sons and at least
-two daughters, all of whom were referred to in the community as the brothers
-and sisters of Jesus (see [Matt.
-13:55-56](https://www.lds.org/scriptures/nt/matt/13.55-56?lang=eng#54); [Mark
-6:3](https://www.lds.org/scriptures/nt/mark/6.3?lang=eng#2)). The example of
-Joseph and Mary in providing a suitable home for their large family was such
-that Luke recorded that Jesus "grew, and waxed strong in spirit, filled with
-wisdom: and the grace of God was upon him" ([Luke
-2:40](https://www.lds.org/scriptures/nt/luke/2.40?lang=eng#39)).
+[Mark 6:3](/scriptures/nt/mark/6.3?lang=eng#2)). There were other members of
+the family. Mary and Joseph had four other sons and at least two daughters,
+all of whom were referred to in the community as the brothers and sisters of
+Jesus (see [Matt. 13:55-56](/scriptures/nt/matt/13.55-56?lang=eng#54); [Mark
+6:3](/scriptures/nt/mark/6.3?lang=eng#2)). The example of Joseph and Mary in
+providing a suitable home for their large family was such that Luke recorded
+that Jesus "grew, and waxed strong in spirit, filled with wisdom: and the
+grace of God was upon him" ([Luke
+2:40](/scriptures/nt/luke/2.40?lang=eng#39)).
 
 The Lord extends special protection to children and shares jurisdiction with
 earthly parents, even as we enjoy their presence. They cannot sin until they
 reach the age of accountability, which the Lord has declared to be eight years
-(see [D&amp;C 18:42](https://www.lds.org/scriptures/dc-
-testament/dc/18.42?lang=eng#41); [D&amp;C
-29:47](https://www.lds.org/scriptures/dc-testament/dc/29.47?lang=eng#46)). In
-fact, the power to even tempt them to commit sin has been taken from Satan.
-The prophet Mormon taught that "little children are whole, for they are not
-capable of committing sin. ...
+(see [D&amp;C 18:42](/scriptures/dc-testament/dc/18.42?lang=eng#41); [D&amp;C
+29:47](/scriptures/dc-testament/dc/29.47?lang=eng#46)). In fact, the power to
+even tempt them to commit sin has been taken from Satan. The prophet Mormon
+taught that "little children are whole, for they are not capable of committing
+sin. ...
 
 "Little children are alive in Christ, even from the foundation of the world;
 if not so, God is a partial God, and also a changeable God, and a respecter to
 persons; for how many little children have died without baptism!" ([Moro. 8:8,
-12](https://www.lds.org/scriptures/bofm/moro/8.8%2C12?lang=eng#7).)
+12](/scriptures/bofm/moro/8.8,12?lang=eng#7).)
 
 Because they cannot sin, they have no need of repentance, neither baptism.
 Adam's original transgression has no claim as a result of the atonement of
 Jesus Christ. Mormon declared the practice of baptizing little children to be
 a "solemn mockery before God" ([Moro.
-8:9](https://www.lds.org/scriptures/bofm/moro/8.9?lang=eng#8)), for repentance
-and baptism apply to those who are "accountable and capable of committing sin"
-([Moro. 8:10](https://www.lds.org/scriptures/bofm/moro/8.10?lang=eng#9)).
+8:9](/scriptures/bofm/moro/8.9?lang=eng#8)), for repentance and baptism apply
+to those who are "accountable and capable of committing sin" ([Moro.
+8:10](/scriptures/bofm/moro/8.10?lang=eng#9)).
 
 Because all children who die before the age of accountability are pure,
 innocent, and wholly sin-free, they are saved in the celestial kingdom of
-heaven (see [D&amp;C 137:10](https://www.lds.org/scriptures/dc-
-testament/dc/137.10?lang=eng#9); [Mosiah
-3:18](https://www.lds.org/scriptures/bofm/mosiah/3.18?lang=eng#17)).
-Understanding the special status of little children before God, because of
-their pure and innocent nature, brings understanding of the Lord's commandment
-to "repent, and become as a little child, and be baptized in [His] name" ([3
-Ne. 11:37](https://www.lds.org/scriptures/bofm/3-ne/11.37?lang=eng#36)). The
-childlike qualities the Lord had reference to are developed by yielding to
-"the enticings of the Holy Spirit," so as to become "submissive, meek, humble,
-patient, full of love, willing to submit to all things which the Lord seeth
-fit to inflict upon him, even as a child doth submit to his father." Truly,
-such a person "becometh a saint" as spoken by Mosiah ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18)).
+heaven (see [D&amp;C 137:10](/scriptures/dc-testament/dc/137.10?lang=eng#9);
+[Mosiah 3:18](/scriptures/bofm/mosiah/3.18?lang=eng#17)). Understanding the
+special status of little children before God, because of their pure and
+innocent nature, brings understanding of the Lord's commandment to "repent,
+and become as a little child, and be baptized in [His] name" ([3 Ne.
+11:37](/scriptures/bofm/3-ne/11.37?lang=eng#36)). The childlike qualities the
+Lord had reference to are developed by yielding to "the enticings of the Holy
+Spirit," so as to become "submissive, meek, humble, patient, full of love,
+willing to submit to all things which the Lord seeth fit to inflict upon him,
+even as a child doth submit to his father." Truly, such a person "becometh a
+saint" as spoken by Mosiah ([Mosiah
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18)).
 
 Parents in Zion have the special responsibility of teaching and training their
 children in righteousness. They are to be taught "to understand the doctrine
 of repentance, faith in Christ the Son of the living God, and of baptism and
 the gift of the Holy Ghost by the laying on of the hands, when eight years
 old." Otherwise, the Lord declared, "the sin be upon the heads of the parents"
-([D&amp;C 68:25](https://www.lds.org/scriptures/dc-
-testament/dc/68.25?lang=eng#24)). This teaching is to be done before a child
-reaches the age of accountability, and while innocent and sin-free. This is
-protected time for parents to teach the principles and ordinances of salvation
-to their children without interference from Satan. It is a time to dress them
-in armor in preparation for the battle against sin. When this preparation time
-is neglected, they are left vulnerable to the enemy. To permit a child to
-enter into that period of his life when he will be buffeted and tempted by the
-evil one, without faith in the Lord Jesus Christ and an understanding of the
-basic principles of the gospel, is to set him adrift in a world of wickedness.
-During these formative, innocent years, a child may learn wrong behavior; but
-such is not the result of Satan's temptations, but comes from the wrong
-teachings and the bad example of others. In this context, the Savior's harsh
-judgment of adults who offend children is better understood, wherein he said,
-"It were better for him that a millstone were hanged about his neck, and he
-cast into the sea, than that he should offend one of these little ones" ([Luke
-17:2](https://www.lds.org/scriptures/nt/luke/17.2?lang=eng#1)).
+([D&amp;C 68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24)). This
+teaching is to be done before a child reaches the age of accountability, and
+while innocent and sin-free. This is protected time for parents to teach the
+principles and ordinances of salvation to their children without interference
+from Satan. It is a time to dress them in armor in preparation for the battle
+against sin. When this preparation time is neglected, they are left vulnerable
+to the enemy. To permit a child to enter into that period of his life when he
+will be buffeted and tempted by the evil one, without faith in the Lord Jesus
+Christ and an understanding of the basic principles of the gospel, is to set
+him adrift in a world of wickedness. During these formative, innocent years, a
+child may learn wrong behavior; but such is not the result of Satan's
+temptations, but comes from the wrong teachings and the bad example of others.
+In this context, the Savior's harsh judgment of adults who offend children is
+better understood, wherein he said, "It were better for him that a millstone
+were hanged about his neck, and he cast into the sea, than that he should
+offend one of these little ones" ([Luke
+17:2](/scriptures/nt/luke/17.2?lang=eng#1)).
 
 We offend a child by any teaching or example which leads a little one to
 violate a moral law; causes him to stumble, or go astray; excites him to
@@ -108,9 +105,8 @@ serious jeopardy.
 Every child is entitled to live in a home, as Jesus did, where there is an
 environment permitting growth in gospel understanding, where each can wax
 strong in spirit and his life be filled with wisdom, so that the grace of God
-will be upon him (see [Luke
-2:40](https://www.lds.org/scriptures/nt/luke/2.40?lang=eng#39)). These
-precious little ones are as angels among us.
+will be upon him (see [Luke 2:40](/scriptures/nt/luke/2.40?lang=eng#39)).
+These precious little ones are as angels among us.
 
 Fulfilling this opportunity of teaching is not dependent upon social status,
 wealth, or position. In fact, the most effective instruction may well be done
@@ -128,8 +124,7 @@ him:
 
 "Behold the Lord slayeth the wicked to bring forth his righteous purposes. It
 is better that one man should perish than that a nation should dwindle and
-perish in unbelief" ([1 Ne.
-4:13](https://www.lds.org/scriptures/bofm/1-ne/4.13?lang=eng#12)).
+perish in unbelief" ([1 Ne. 4:13](/scriptures/bofm/1-ne/4.13?lang=eng#12)).
 
 As this young boy, my grandson, knelt beside his bed that evening, his prayer
 demonstrated his understanding and personal application of the lesson. He
@@ -149,4 +144,6 @@ all adults, the responsibility of properly teaching and protecting them.
 Offenders of these little ones face a divine wrath. The Savior's injunction to
 become as a little child is an invitation to purify our lives that we also may
 stand blameless before Him. In the name of Jesus Christ, amen.
+
+## References
 

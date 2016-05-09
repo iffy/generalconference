@@ -38,10 +38,10 @@ buildings I have seen are our sacred temples.
 The Lord has told us that we can be beautiful, even like a temple. In 1
 Corinthians he said, "Know ye not that ye are the temple of God, and that the
 Spirit of God dwelleth in you?" ([1 Cor.
-3:16](https://www.lds.org/scriptures/nt/1-cor/3.16?lang=eng#15).)
+3:16](/scriptures/nt/1-cor/3.16?lang=eng#15).)
 
 In 2 Corinthians we read, "For ye are the temple of the living God." ([2 Cor.
-6:16](https://www.lds.org/scriptures/nt/2-cor/6.16?lang=eng#15).)
+6:16](/scriptures/nt/2-cor/6.16?lang=eng#15).)
 
 When the Lord Jesus Christ finalized his immortal Sermon on the Mount, he used
 a comparison of buildings and people to emphasize the importance of
@@ -58,12 +58,12 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 A solid foundation is the most important part of a building or of a person.
 President Benson has emphasized that in the Sermon on the Mount "we are told
 to be a light to others, to control our anger, to reconcile bad feelings with
-others ... , [and] to love our enemy. ... We are further instructed how to pray,
+others ..., [and] to love our enemy. ... We are further instructed how to pray,
 how to fast, and how to regulate our priorities." (_Come unto Christ_ [Salt
 Lake City: Deseret Book Co., 1983], p. 37.)
 
@@ -83,9 +83,9 @@ As we live righteous and unselfish lives, the Spirit of the Lord enters our
 souls and then radiates from us. We become beautiful, even as a holy temple is
 beautiful. And as missionaries we can help others to become beautiful. "How
 beautiful upon the mountains are the feet of him that bringeth good tidings."
-([Isa. 52:7](https://www.lds.org/scriptures/ot/isa/52.7?lang=eng#6), [Mosiah
-12:21](https://www.lds.org/scriptures/bofm/mosiah/12.21?lang=eng#20), [3 Ne.
-20:40](https://www.lds.org/scriptures/bofm/3-ne/20.40?lang=eng#39).)
+([Isa. 52:7](/scriptures/ot/isa/52.7?lang=eng#6), [Mosiah
+12:21](/scriptures/bofm/mosiah/12.21?lang=eng#20), [3 Ne.
+20:40](/scriptures/bofm/3-ne/20.40?lang=eng#39).)
 
 I leave you my testimony that I know this is the restored Church of Jesus
 Christ, with a message for all mankind. Jesus is the Christ. We are led by a
@@ -93,4 +93,6 @@ prophet of the Lord, President Spencer W. Kimball. Our church provides the way
 for each of us to construct that which is truly beautiful--a Christlike life,
 which brings joy and happiness now and into the eternities. In the name of
 Jesus Christ, amen.
+
+## References
 

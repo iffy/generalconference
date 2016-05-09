@@ -4,11 +4,11 @@ My beloved brothers and sisters, for several years and with the deepest
 feelings, I have thought about what I would like to talk to you about this
 morning. The prophet Mormon tells us that "by the power of [the Lord's] word
 did they cause prisons to tumble." ([Morm.
-8:24](https://www.lds.org/scriptures/bofm/morm/8.24?lang=eng#23).) In recent
-weeks, I have reread the stories of Jean Valjean in Victor Hugo's brilliant
-novel _Les Miserables_ and of Bob Merrick in the novel _Magnificent Obsession_
-by Lloyd C. Douglas. These two stories, though widely different in time,
-circumstances, and affluence, have touched my heart in many ways.
+8:24](/scriptures/bofm/morm/8.24?lang=eng#23).) In recent weeks, I have reread
+the stories of Jean Valjean in Victor Hugo's brilliant novel _Les Miserables_
+and of Bob Merrick in the novel _Magnificent Obsession_ by Lloyd C. Douglas.
+These two stories, though widely different in time, circumstances, and
+affluence, have touched my heart in many ways.
 
 I have agonized as I have thought about the ordeal of Jean Valjean--the
 nineteen years in prison and the things done to him for the small
@@ -61,14 +61,12 @@ being captive to alcohol or drugs; (7) or financially digging a pit for
 another, causing hardship and destroying his ability to take care of his needs
 and so on. There are many prisons which come from our sins or the sins of
 others "according to the captivity and power of the devil" ([2 Ne.
-2:27](https://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26)) who leads us
-away.
+2:27](/scriptures/bofm/2-ne/2.27?lang=eng#26)) who leads us away.
 
 Let me take an example to illustrate the point of these prisons. The prophet
 Job counseled us not to "dig a pit for your friend." ([Job
-6:27](https://www.lds.org/scriptures/ot/job/6.27?lang=eng#26).) I understand
-that could mean a business associate, a neighbor, a member of the Church. How
-could this happen?
+6:27](/scriptures/ot/job/6.27?lang=eng#26).) I understand that could mean a
+business associate, a neighbor, a member of the Church. How could this happen?
 
 Several years ago, a great young man had a thriving business. He had worked
 long, hard hours for many years to develop the skills, reputation, and
@@ -95,7 +93,7 @@ Did not the Savior teach through the prophet Moses, "If a man shall cause a
 field or vineyard to be eaten, and shall put in his beast, and shall feed in
 another man's field; of the best of his own field, and of the best of his own
 vineyard, shall he make restitution"? ([Ex.
-22:5](https://www.lds.org/scriptures/ot/ex/22.5?lang=eng#4).)
+22:5](/scriptures/ot/ex/22.5?lang=eng#4).)
 
 These types of prisons often cause the offended to lose faith, hope, and even
 the ability to care for their own, as was the case with my young friend. But
@@ -105,11 +103,11 @@ to resolve their own personal affairs honorably.
 
 The lessons taught by the Savior differ widely from these actions. For He
 taught, in effect, Do unto others as ye would have them do unto you. (See
-[Matt. 7:12](https://www.lds.org/scriptures/nt/matt/7.12?lang=eng#11); [3 Ne.
-14:12](https://www.lds.org/scriptures/bofm/3-ne/14.12?lang=eng#11).) He
-taught, "Behold it is my will that you shall pay all your debts." ([D&amp;C
-104:78](https://www.lds.org/scriptures/dc-testament/dc/104.78?lang=eng#77).)
-Yes, even if it takes years, pay your debts.
+[Matt. 7:12](/scriptures/nt/matt/7.12?lang=eng#11); [3 Ne.
+14:12](/scriptures/bofm/3-ne/14.12?lang=eng#11).) He taught, "Behold it is my
+will that you shall pay all your debts." ([D&amp;C 104:78](/scriptures/dc-
+testament/dc/104.78?lang=eng#77).) Yes, even if it takes years, pay your
+debts.
 
 No Christian should ever be a challenge to another Christian. Many widows,
 single mothers, and older couples are victimized by those who take advantage
@@ -127,7 +125,7 @@ financial affairs in absolute honesty with everyone, and the way he served
 others. He truly believed in the liberating power of the gospel of Jesus
 Christ and became free because of it. As is stated in the book of John, "If
 the Son therefore shall make you free, ye shall be free indeed." ([John
-8:36](https://www.lds.org/scriptures/nt/john/8.36?lang=eng#35).)
+8:36](/scriptures/nt/john/8.36?lang=eng#35).)
 
 Years ago, an acquaintance of mine was captive, for over twenty years, to a
 serious alcohol problem, which bound him every day. He would leave work, buy
@@ -163,10 +161,9 @@ actions.
 Jesus came that man might have life and have it more abundantly. He walked the
 path, taught the way, opened the doors to truly liberate mankind, and said,
 "And ye shall know the truth, and the truth shall make you free." ([John
-8:32](https://www.lds.org/scriptures/nt/john/8.32?lang=eng#31).) The writer,
-Mr. Douglas, expressed it beautifully when he said to Bob Merrick, "When you
-find THE WAY, you will be bound--it will become an obsession--a magnificent
-obsession."
+8:32](/scriptures/nt/john/8.32?lang=eng#31).) The writer, Mr. Douglas,
+expressed it beautifully when he said to Bob Merrick, "When you find THE WAY,
+you will be bound--it will become an obsession--a magnificent obsession."
 
 We know it works, for listen to the words which record what happened to the
 Saints who truly followed the Savior for two hundred years following His
@@ -183,12 +180,13 @@ poor, bond and free, but they _were all made free._ ...
 
 "And surely there could not be a _happier people_ among all the people who had
 been created by the hand of God." ([4 Ne. 1:1-3,
-16](https://www.lds.org/scriptures/bofm/4-ne/1.1-3%2C16?lang=eng#0); emphasis
-added.)
+16](/scriptures/bofm/4-ne/1.1-3,16?lang=eng#0); emphasis added.)
 
 Yes, "by the power of his word did they cause prisons to tumble." ([Morm.
-8:24](https://www.lds.org/scriptures/bofm/morm/8.24?lang=eng#23).) May we live
-our lives so we will all be free with no prisons for ourselves or others, only
-a magnificent obsession filled with freedoms and blessings ahead, in the name
-of Jesus Christ, amen.
+8:24](/scriptures/bofm/morm/8.24?lang=eng#23).) May we live our lives so we
+will all be free with no prisons for ourselves or others, only a magnificent
+obsession filled with freedoms and blessings ahead, in the name of Jesus
+Christ, amen.
+
+## References
 

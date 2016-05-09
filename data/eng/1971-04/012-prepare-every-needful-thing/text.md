@@ -43,23 +43,22 @@ which is the fulness of the gospel.
 
 "And they shall observe the covenants and church articles to do them, and
 these shall be their teachings, as they shall be directed by the Spirit."
-([D&amp;C 42:12-13](https://www.lds.org/scriptures/dc-
-testament/dc/42.12-13?lang=eng#11).)
+([D&amp;C 42:12-13](/scriptures/dc-testament/dc/42.12-13?lang=eng#11).)
 
 Thumbing through the Doctrine and Covenants to the eighty-eighth section, we
 find this statement of the Lord:
 
 "And as all have not faith, seek ye diligently and teach one another words of
 wisdom; yea, seek ye out of the best books words of wisdom; seek learning,
-even by study and also by faith." ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117).)
+even by study and also by faith." ([D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117).)
 
 After this injunction to teach one another, to seek wisdom out of the best
 books, and to seek learning, the Lord gave further instructions and suggested
 in very few words that programs be established to carry out these
 responsibilities. This is how he said it should be done: "Organize yourselves;
-prepare every needful thing. ..." ([D&amp;C
-88:119](https://www.lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118).)
+prepare every needful thing. ..." ([D&amp;C 88:119](/scriptures/dc-
+testament/dc/88.119?lang=eng#118).)
 
 If we are to teach one another, if we are to seek wisdom and learning by study
 and by faith, we must organize and prepare every needful thing. These words
@@ -69,13 +68,10 @@ to "prepare every needful thing" for more effective teaching.
 From the scriptures I have just read and the many others that might be cited,
 several things are made abundantly clear:
 
-  1. Every bearer of the priesthood within his sphere of influence and responsibility is to teach the gospel through precept and example. That is, he should be teaching by the example of living the gospel; also through words, learning experiences, and instructional materials.
-
-  2. Every bearer of the priesthood is to prepare himself to be an effective teacher by study, prayer, and faith.
-
-  3. Every bearer of the priesthood should seek the direction of the Spirit to guide him in his own life and to inspire him in his teaching efforts.
-
-  4. Every bearer of the priesthood has a sacred stewardship in the kingdom of God. Our time, our talents, our property, our priesthood callings are part of this stewardship.
+  1. Every bearer of the priesthood within his sphere of influence and responsibility is to teach the gospel through precept and example. That is, he should be teaching by the example of living the gospel; also through words, learning experiences, and instructional materials. 
+  2. Every bearer of the priesthood is to prepare himself to be an effective teacher by study, prayer, and faith. 
+  3. Every bearer of the priesthood should seek the direction of the Spirit to guide him in his own life and to inspire him in his teaching efforts. 
+  4. Every bearer of the priesthood has a sacred stewardship in the kingdom of God. Our time, our talents, our property, our priesthood callings are part of this stewardship. 
 
 Thus, in our teaching responsibilities we are blessed with the opportunity to
 respond by participating in the divine plan of saving men's souls. As we serve
@@ -97,13 +93,10 @@ Manual._
 Let me review briefly the essential instructions, supervision, and features of
 the program.
 
-  1. The First Presidency established the policy that there would be one meetinghouse library in each meetinghouse of the Church. Regardless of the number of wards or branches meeting in the building, one library would serve all of them. Plans and specifications for such a facility may be secured from the Church Building Department. There are five alternate plans that make it possible to have a meetinghouse library in every type of Church building.
-
-  2. The program as it relates to the stake is to be supervised by the stake president through a stake director of libraries.
-
-  3. The meetinghouse library is to be supervised by a meetinghouse librarian. Associate librarians are called where more than one ward or branch use the building. Library assistants to help individual organizations may be called as members of the library staff.
-
-  4. The meetinghouse library is to house all equipment and instructional materials needed for adequate teaching. Equipment should include motion picture, slide, and overhead projectors; audio-tape and record players; a spirit duplicator; a screen; a dry-mount press; and other equipment as needed. Instructional materials to be included are books, magazines, manuals, handbooks, music, printed articles, pictures, charts, maps, slides, filmstrips, overhead transparencies, motion picture films, and other types of teaching materials that would be used by teachers.
+  1. The First Presidency established the policy that there would be one meetinghouse library in each meetinghouse of the Church. Regardless of the number of wards or branches meeting in the building, one library would serve all of them. Plans and specifications for such a facility may be secured from the Church Building Department. There are five alternate plans that make it possible to have a meetinghouse library in every type of Church building. 
+  2. The program as it relates to the stake is to be supervised by the stake president through a stake director of libraries. 
+  3. The meetinghouse library is to be supervised by a meetinghouse librarian. Associate librarians are called where more than one ward or branch use the building. Library assistants to help individual organizations may be called as members of the library staff. 
+  4. The meetinghouse library is to house all equipment and instructional materials needed for adequate teaching. Equipment should include motion picture, slide, and overhead projectors; audio-tape and record players; a spirit duplicator; a screen; a dry-mount press; and other equipment as needed. Instructional materials to be included are books, magazines, manuals, handbooks, music, printed articles, pictures, charts, maps, slides, filmstrips, overhead transparencies, motion picture films, and other types of teaching materials that would be used by teachers. 
 
 The meetinghouse library program is now a permanent program of the Church to
 assist in better teaching of gospel principles. The quality of teaching will
@@ -158,4 +151,6 @@ more effective. It has the immediate promise to increase the activity of the
 entire membership of the Church through making the messages of the gospel more
 vital in our lives. I pray we may be successful in this effort to "prepare
 every needful thing," in the name of Jesus Christ. Amen.
+
+## References
 

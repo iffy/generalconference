@@ -168,3 +168,56 @@ said of us, as the Savior said of a loving sister who ministered to Him: "She
 hath wrought a good work. ... She hath done what she could."[21] I call that
 extraordinary! In the name of Jesus Christ, amen.
 
+## References
+
+  1. Emma Smith, in _Daughters in My Kingdom: The History and Work of Relief Society _(2011), 14.
+
+  2. Brigham Young, in _Daughters in My Kingdom, _36.
+
+  3. _Daughters in My Kingdom, _36-37.
+
+  4. Brigham Young, in James E. Faust, "[Go Bring Them in from the Plains](https://www.lds.org/liahona/1997/11/go-bring-them-in-from-the-plains?lang=eng)," _Ensign,_ July 1997, 7; _Liahona,_ Nov. 1997, 7; see also LeRoy R. and Ann W. Hafen, _Handcarts to Zion: The Story of a Unique Western Migration 1856-1860_ (1960), 139.
+
+  5. Lucy Meserve Smith, in Jill Mulvay Derr and others, eds., _The First Fifty Years of Relief Society: Key Documents in Latter-day Saint Women's History _(2016), 217, 218, spelling and punctuation standardized; see also _Daughters in My Kingdom, _37.
+
+  6. See "Facts and Figures about Refugees," unhcr.org.uk/about-us/key-facts-and-figures.html.
+
+  7. "[40 Ways to Help Refugees in Your Community](http://www.mormonchannel.org/blog/post/40-ways-to-help-refugees-in-your-community?lang=eng)," Sept. 9, 2015, mormonchannel.org.
+
+  8. Email from Yvette Bugingo, Mar. 12, 2016.
+
+  9. Rosemary M. Wixom, "[Discovering the Divinity Within](https://www.lds.org/general-conference/2015/10/discovering-the-divinity-within?lang=eng)," _ Ensign_ or _Liahona,_ Nov. 2015, 8\. Emily Woodmansee, one of those rescued in 1856 in the Willie handcart company, described divine nature this way (with a slight alteration on my part):
+
+_The errand of angels is given to women; _
+
+_And this is a gift that, as sisters, we claim:_
+
+_To do whatsoever is gentle and [Christlike], _
+
+_To cheer and to bless in [the Savior's] name_. ("As Sisters in Zion,"
+_Hymns,_ no. 309)
+
+  10. Russell M. Nelson, "[A Plea to My Sisters](https://www.lds.org/general-conference/2015/10/a-plea-to-my-sisters?lang=eng),"_ Ensign_ or _Liahona,_ Nov. 2015, 96, 97.
+
+  11. [Mosiah 18:9](https://www.lds.org/scriptures/bofm/mosiah/18.9?lang=eng#8).
+
+  12. See [Mosiah 4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26).
+
+  13. [Mosiah 4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26).
+
+  14. [Leviticus 19:34](https://www.lds.org/scriptures/ot/lev/19.34?lang=eng#33).
+
+  15. [Hebrews 13:2](https://www.lds.org/scriptures/nt/heb/13.2?lang=eng#1).
+
+  16. [Matthew 25:35-36](https://www.lds.org/scriptures/nt/matt/25.35-36?lang=eng#34).
+
+  17. See [Luke 21:1-4](https://www.lds.org/scriptures/nt/luke/21.1-4?lang=eng#0).
+
+  18. [Luke 10:37](https://www.lds.org/scriptures/nt/luke/10.37?lang=eng#36).
+
+  19. Funeral service for Rosemary Curtis Neider, Jan. 2015.
+
+  20. Henry B. Eyring, "[The Caregiver](https://www.lds.org/general-conference/2012/10/the-caregiver?lang=eng),"_ Ensign_ or _Liahona,_ Nov. 2012, 124.
+
+  21. [Mark 14:6, 8](https://www.lds.org/scriptures/nt/mark/14.6,8?lang=eng#5).
+

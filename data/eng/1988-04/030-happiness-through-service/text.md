@@ -17,3 +17,5 @@ outgoings. May you have peace in your hearts, may you have tranquility in your
 homes, and may you have the Spirit of the Lord Jesus Christ in your souls, I
 ask in the name of Jesus Christ, amen.
 
+## References
+

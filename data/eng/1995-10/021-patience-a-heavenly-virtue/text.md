@@ -63,51 +63,50 @@ they truly did inspire us."
 Sometimes the tables are reversed. A dear and cherished young friend, Wendy
 Bennion of Salt Lake City, was such an example. Just the day before yesterday,
 she quietly departed mortality and returned "to that God who gave [her] life"
-([Alma 40:11](https://www.lds.org/scriptures/bofm/alma/40.11?lang=eng#10)).
-She had struggled for over five long years in her battle with cancer. Ever
-cheerful, always reaching out to help others, never losing faith, her
-contagious smile attracted others to her as a magnet attracts metal shavings.
-While ill and in pain, a friend of hers, feeling downcast with her own
-situation, visited Wendy. Nancy, Wendy's mother, knowing Wendy was in extreme
-pain, felt that perhaps the friend had stayed too long. She asked Wendy, after
-the friend had left, why she had allowed her to stay so long when she herself
-was in so much pain. Wendy's response: "What I was doing for my friend was a
-lot more important than the pain I was having. If I can help her, then the
-pain is worth it." Her attitude was reminiscent of Him who bore the sorrows of
-the world, who patiently suffered excruciating pain and disappointment, but
-who, with silent step of His sandaled feet, passed by a man who was blind from
-birth, restoring his sight. He approached the grieving widow of Nain and
-raised her son from the dead. He trudged up Calvary's steep slope, carrying
-His own cruel cross, undistracted by the constant jeers and taunting that
-accompanied His every step. For He had an appointment with divine destiny. In
-a very real way He visits us, each one, with His teachings. He brings cheer
-and inspires goodness. He gave His precious life that the grave would be
-deprived of its victory, that death would lose its sting, that life eternal
-would be our gift.
+([Alma 40:11](/scriptures/bofm/alma/40.11?lang=eng#10)). She had struggled for
+over five long years in her battle with cancer. Ever cheerful, always reaching
+out to help others, never losing faith, her contagious smile attracted others
+to her as a magnet attracts metal shavings. While ill and in pain, a friend of
+hers, feeling downcast with her own situation, visited Wendy. Nancy, Wendy's
+mother, knowing Wendy was in extreme pain, felt that perhaps the friend had
+stayed too long. She asked Wendy, after the friend had left, why she had
+allowed her to stay so long when she herself was in so much pain. Wendy's
+response: "What I was doing for my friend was a lot more important than the
+pain I was having. If I can help her, then the pain is worth it." Her attitude
+was reminiscent of Him who bore the sorrows of the world, who patiently
+suffered excruciating pain and disappointment, but who, with silent step of
+His sandaled feet, passed by a man who was blind from birth, restoring his
+sight. He approached the grieving widow of Nain and raised her son from the
+dead. He trudged up Calvary's steep slope, carrying His own cruel cross,
+undistracted by the constant jeers and taunting that accompanied His every
+step. For He had an appointment with divine destiny. In a very real way He
+visits us, each one, with His teachings. He brings cheer and inspires
+goodness. He gave His precious life that the grave would be deprived of its
+victory, that death would lose its sting, that life eternal would be our gift.
 
 Taken from the cross, buried in a borrowed tomb, this man of sorrows,
 acquainted with grief, arose on the morning of the third day. His resurrection
 was discovered by Mary and the other Mary when they approached the tomb. The
 great stone blocking the entrance had been rolled away. Came the query of two
 angels who stood by in shining garments, "Why seek ye the living among the
-dead? He is not here, but is risen." [1]
+dead? He is not here, but is risen."[1]
 
 Paul declared to the Hebrews, "Wherefore seeing we also are compassed about
 with so great a cloud of witnesses, let us lay aside every weight, and the sin
 which doth so easily beset us, and let us run with patience the race that is
-set before us." [2]
+set before us."[2]
 
 Perhaps there has never occurred such a demonstration of patience as that
 exemplified by Job, who was described in the Holy Bible as being perfect and
-upright and one who feared God and eschewed evil. [3]  He was blessed with
-great wealth and riches in abundance. Satan obtained leave from the Lord to
-try to tempt Job. How great was Job's misery, how terrible his loss, how
-tortured his life. Urged by his wife to curse God and die, his reply bespoke
-his faith: "I know that my redeemer liveth, and that he shall stand at the
-latter day upon the earth: And though after my skin worms destroy this body,
-yet in my flesh shall I see God." [4]  What faith, what courage, what trust.
-Job lost possessions--all of them. Job lost his health--all of it. Job honored
-the trust given him. Job personified patience.
+upright and one who feared God and eschewed evil.[3] He was blessed with great
+wealth and riches in abundance. Satan obtained leave from the Lord to try to
+tempt Job. How great was Job's misery, how terrible his loss, how tortured his
+life. Urged by his wife to curse God and die, his reply bespoke his faith: "I
+know that my redeemer liveth, and that he shall stand at the latter day upon
+the earth: And though after my skin worms destroy this body, yet in my flesh
+shall I see God."[4] What faith, what courage, what trust. Job lost
+possessions--all of them. Job lost his health--all of it. Job honored the
+trust given him. Job personified patience.
 
 Another who portrayed the virtue of patience was the Prophet Joseph Smith.
 After his supernal experience in the grove called Sacred, where the Father and
@@ -117,14 +116,14 @@ Moroni appeared to him. And then more waiting and patience were required. Let
 us remember the counsel found in Isaiah: "My thoughts are not your thoughts,
 neither are your ways my ways, saith the Lord. For as the heavens are higher
 than the earth, so are my ways higher than your ways, and my thoughts than
-your thoughts." [5]
+your thoughts."[5]
 
 Today in our hurried and hectic lives, we could well go back to an earlier
 time for the lesson taught us regarding crossing dangerous streets. "Stop,
 look, and listen" were the watchwords. Could we not apply them now? Stop from
 a reckless road to ruin. Look upward for heavenly help. Listen for His
 invitation: "Come unto me, all ye that labour and are heavy laden, and I will
-give you rest." [6]
+give you rest."[6]
 
 He will teach us the truth of the beautiful verse:
 
@@ -134,7 +133,7 @@ _And the grave is not its goal;_
 
 _Dust thou art, to dust returnest,_
 
-_Was not spoken of the soul._ [7]
+_Was not spoken of the soul._[7]
 
 We will learn that each of us is precious to our Elder Brother, even the Lord
 Jesus Christ. He truly loves us.
@@ -149,7 +148,7 @@ _Yes, Jesus loves me!_
 
 _Yes, Jesus loves me!_
 
-_The Bible tells me so!_ [8]
+_The Bible tells me so!_[8]
 
 And so does the Book of Mormon, so does the Doctrine and Covenants, and so
 does the Pearl of Great Price. Let the scriptures be your guide, and you will
@@ -208,7 +207,7 @@ _Whatever be thy lot;_
 
 _There awaits a brighter day_
 
-_To all, to all who weary not!_ [9]
+_To all, to all who weary not!_[9]
 
 I was touched by their sincerity. I was humbled by their poverty. They had so
 little. My heart filled with sorrow because they had no patriarch. They had no
@@ -217,8 +216,8 @@ neither endowment nor sealing. No official visitor had come from Church
 headquarters in a long time. The members were forbidden to leave the country.
 Yet they trusted in the Lord with all their hearts, and they leaned not to
 their own understanding. In all their ways they acknowledged Him, and He
-directed their paths. [10]  I stood at the pulpit, and with tear-filled eyes
-and a voice choked with emotion, I made a promise to the people: "If you will
+directed their paths.[10] I stood at the pulpit, and with tear-filled eyes and
+a voice choked with emotion, I made a promise to the people: "If you will
 remain true and faithful to the commandments of God, every blessing any member
 of the Church enjoys in any other country will be yours."
 
@@ -226,8 +225,8 @@ That night as I realized what I had promised, I dropped to my knees and
 prayed, "Heavenly Father, I'm on Thy errand; this is Thy church. I have spoken
 words that came not from me, but from Thee and Thy Son. Wilt Thou, therefore,
 fulfill the promise in the lives of this noble people." There coursed through
-my mind the words from the psalm, "Be still, and know that I am God." [11]
-The heavenly virtue of patience was required.
+my mind the words from the psalm, "Be still, and know that I am God."[11] The
+heavenly virtue of patience was required.
 
 Little by little the promise was fulfilled. First, patriarchs were ordained,
 then lesson manuals produced. Wards were formed and stakes created. Chapels
@@ -247,7 +246,7 @@ dedication in Gorlitz. The same songs were sung as were rendered twenty-seven
 years earlier. The members knew the significance of the occasion, marking the
 total fulfillment of the promise. They wept as they sang. The song of the
 righteous was indeed a prayer unto the Lord and had been answered with a
-blessing upon their heads. [12]
+blessing upon their heads.[12]
 
 At the conclusion of the meeting we were reluctant to leave. As we did so,
 seen were the waving hands of all, heard were the words, "_Auf Wiedersehen,
@@ -266,35 +265,35 @@ _An humble and a contrite heart._
 
 _Lord God of Hosts, be with us yet,_
 
-_Lest we forget, lest we forget._ [13]
+_Lest we forget, lest we forget._[13]
 
 In the name of Jesus Christ, amen.
 
 ## References
 
-  1.   [Luke 24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4).
+  1. [Luke 24:5-6](https://www.lds.org/scriptures/nt/luke/24.5-6?lang=eng#4).
 
-  2.   [Heb. 12:1](https://www.lds.org/scriptures/nt/heb/12.1?lang=eng#0).
+  2. [Heb. 12:1](https://www.lds.org/scriptures/nt/heb/12.1?lang=eng#0).
 
-  3.  See [Job 1:1](https://www.lds.org/scriptures/ot/job/1.1?lang=eng#0).
+  3. See [Job 1:1](https://www.lds.org/scriptures/ot/job/1.1?lang=eng#0).
 
-  4.   [Job 19:25-26](https://www.lds.org/scriptures/ot/job/19.25-26?lang=eng#24).
+  4. [Job 19:25-26](https://www.lds.org/scriptures/ot/job/19.25-26?lang=eng#24).
 
-  5.   [Isa. 55:8-9](https://www.lds.org/scriptures/ot/isa/55.8-9?lang=eng#7).
+  5. [Isa. 55:8-9](https://www.lds.org/scriptures/ot/isa/55.8-9?lang=eng#7).
 
-  6.   [Matt. 11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).
+  6. [Matt. 11:28](https://www.lds.org/scriptures/nt/matt/11.28?lang=eng#27).
 
-  7.  Henry Wadsworth Longfellow, "A Psalm of Life."
+  7. Henry Wadsworth Longfellow, "A Psalm of Life."
 
-  8.  "Jesus Loves Me!" _Alexander's Gospel Songs,_ comp. Charles M. Alexander (New York: Fleming H. Revell Co., 1908), p. 139.
+  8. "Jesus Loves Me!" _Alexander's Gospel Songs,_ comp. Charles M. Alexander (New York: Fleming H. Revell Co., 1908), p. 139.
 
-  9.  "If the Way Be Full of Trial, Weary Not," _Deseret Sunday School Songs,_ 1909, no. 158.
+  9. "If the Way Be Full of Trial, Weary Not," _Deseret Sunday School Songs,_ 1909, no. 158.
 
-  10.  See [Prov. 3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).
+  10. See [Prov. 3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).
 
-  11.   [Ps. 46:10](https://www.lds.org/scriptures/ot/ps/46.10?lang=eng#9).
+  11. [Ps. 46:10](https://www.lds.org/scriptures/ot/ps/46.10?lang=eng#9).
 
-  12.  See [D&amp;C 25:12](https://www.lds.org/scriptures/dc-testament/dc/25.12?lang=eng#11).
+  12. See [D&amp;C 25:12](https://www.lds.org/scriptures/dc-testament/dc/25.12?lang=eng#11).
 
-  13.   _Hymns,_ 1985, no. 80.
+  13. _Hymns,_ 1985, no. 80.
 

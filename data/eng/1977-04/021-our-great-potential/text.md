@@ -37,7 +37,7 @@ And the wind ceased, and there was a great calm. ...
 
 "And they ... said [to themselves], What manner of man is this, that even the
 wind and the sea obey him?" ([Mark 4:38-39,
-41](https://www.lds.org/scriptures/nt/mark/4.38-39%2C41?lang=eng#37).)
+41](/scriptures/nt/mark/4.38-39,41?lang=eng#37).)
 
 Perhaps there is something else that we will learn as we perfect our bodies
 and our spirits in the times to come. You and I--what helpless creatures are
@@ -64,18 +64,18 @@ we cannot receive in the flesh." (_JD,_ 15:137.) Again, the powers of heavens.
 
 Here is another man, Abraham, a mortal creature and the ancestor of Moses, who
 "talked with the Lord, face to face, as one man talketh with another." ([Abr.
-3:11](https://www.lds.org/scriptures/pgp/abr/3.11?lang=eng#10).)
+3:11](/scriptures/pgp/abr/3.11?lang=eng#10).)
 
 The Lord said: "My son, my son, ... I will show you all these. ... I saw those
 things which his hands had made ... they multiplied before mine eyes, and I
 could not see the end thereof." ([Abr.
-3:12](https://www.lds.org/scriptures/pgp/abr/3.12?lang=eng#11).)
+3:12](/scriptures/pgp/abr/3.12?lang=eng#11).)
 
 The Lord showed Abraham the constellations, the worlds as numerous as the
 sands of the sea; and the Lord said, "Abraham, I show these things unto thee
 before ye go into Egypt, that ye may declare all these words." ([Abr.
-3:15](https://www.lds.org/scriptures/pgp/abr/3.15?lang=eng#14).) And then came
-a succession of creations and planets and worlds which had no end.
+3:15](/scriptures/pgp/abr/3.15?lang=eng#14).) And then came a succession of
+creations and planets and worlds which had no end.
 
 The Lord had sent his angel to deliver Abraham from the hands of an assassin
 who would have taken his life on the altar. The Lord would show him the things
@@ -83,7 +83,7 @@ which he did not know, "for," said he, "I rule in the heavens above, and in
 the earth beneath, in all wisdom and prudence, over all the intelligences
 thine eyes have seen from the beginning; I came down in the beginning in the
 midst of all the intelligences thou hast seen." ([Abr.
-3:21](https://www.lds.org/scriptures/pgp/abr/3.21?lang=eng#20).)
+3:21](/scriptures/pgp/abr/3.21?lang=eng#20).)
 
 And then he opens a new world to the prophet Abraham. The Lord had shown to
 Abraham "the intelligences that were organized before the world was [created];
@@ -107,9 +107,9 @@ added upon; and they who keep not their first estate shall not have glory in
 the same kingdom with those who keep their first estate; and they who keep
 their second estate [and that is the mortal life] shall have glory added upon
 their heads for ever and ever" ([Abr.
-3:22-26](https://www.lds.org/scriptures/pgp/abr/3.22-26?lang=eng#21))--if they
-keep their estate; if they keep the commandments; if they do all things
-whatsoever the Lord God has commanded them.
+3:22-26](/scriptures/pgp/abr/3.22-26?lang=eng#21))--if they keep their estate;
+if they keep the commandments; if they do all things whatsoever the Lord God
+has commanded them.
 
 God has taken these intelligences, given to them spirit bodies, and given them
 instructions and training. Then he proceeded to create a world for them and
@@ -151,7 +151,7 @@ minuteness of matter?" (_JD,_ 15:137).
 Can you realize even slightly how relatively little we know? As Paul said,
 "Eye hath not seen, nor ear heard, neither have entered into the heart of man,
 the things which God hath prepared for them that love him." ([1 Cor.
-2:9](https://www.lds.org/scriptures/nt/1-cor/2.9?lang=eng#8).)
+2:9](/scriptures/nt/1-cor/2.9?lang=eng#8).)
 
 We talk about the gospel in its fulness; yet we realize that a large part is
 still available to us as we prepare, as we perfect our lives, and as we become
@@ -238,4 +238,6 @@ blessings upon you, with the testimony that this is the truth, that God lives,
 and that Jesus is the Christ. You know it and I know it, and our lives should
 show it in all of our activities. I bear this testimony to you in the name of
 Jesus Christ. Amen.
+
+## References
 

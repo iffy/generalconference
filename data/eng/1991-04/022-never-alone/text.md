@@ -154,8 +154,7 @@ If thou wilt, thou canst make me clean.
 saith unto him, I will; be thou clean.
 
 "And as soon as he had spoken, immediately the leprosy departed from him, and
-he was cleansed." ([Mark
-1:40-42](https://www.lds.org/scriptures/nt/mark/1.40-42?lang=eng#39).)
+he was cleansed." ([Mark 1:40-42](/scriptures/nt/mark/1.40-42?lang=eng#39).)
 
 On this, the American continent, Jesus appeared to a multitude and said:
 
@@ -169,8 +168,7 @@ heal them, for I have compassion upon you. ...
 "And they did all, both they who had been healed and they who were whole, bow
 down at his feet, and did worship him; and as many as could come for the
 multitude did kiss his feet, insomuch that they did bathe his feet with their
-tears." ([3 Ne. 17:7,
-9-10](https://www.lds.org/scriptures/bofm/3-ne/17.7%2C9-10?lang=eng#6).)
+tears." ([3 Ne. 17:7, 9-10](/scriptures/bofm/3-ne/17.7,9-10?lang=eng#6).)
 
 Few accounts of the Master's ministry touch me more than His example of
 compassion shown to the grieving widow at Nain:
@@ -189,8 +187,7 @@ not.
 said, Young man, I say unto thee, Arise.
 
 "And he that was dead sat up, and began to speak. And he delivered him to his
-mother." ([Luke
-7:11-15](https://www.lds.org/scriptures/nt/luke/7.11-15?lang=eng#10).)
+mother." ([Luke 7:11-15](/scriptures/nt/luke/7.11-15?lang=eng#10).)
 
 What power, what tenderness, what compassion did our Master and Exemplar thus
 demonstrate! We, too, can bless if we will but follow His noble example.
@@ -311,7 +308,7 @@ of those who grieve:
 understanding.
 
 "In all thy ways acknowledge him, and he shall direct thy paths." ([Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).)
+3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4).)
 
 To all who have loved and lost on either side of this tragic conflict, your
 grief can be assuaged. There is balm in Gilead. There awaits the promise of a
@@ -320,11 +317,11 @@ a promise of peace, spoken by our Lord, the Prince of Peace:
 
 "Peace I leave with you, my peace I give unto you: not as the world giveth,
 give I unto you. Let not your heart be troubled, neither let it be afraid."
-([John 14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+([John 14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 "In my Father's house are many mansions: if it were not so, I would have told
 you. I go to prepare a place for you ... that where I am, there ye may be also."
-([John 14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1).)
+([John 14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1).)
 
 His love, His promise, His presence is as a yellow ribbon, tied with care and
 marked with compassion. To your loved ones He has beckoned, "Welcome home." To
@@ -332,11 +329,13 @@ you He speaks the heavenly and divine assurance: "I am with you; you are never
 alone."
 
 "Weeping may endure for a night, but joy cometh in the morning." ([Ps.
-30:5](https://www.lds.org/scriptures/ot/ps/30.5?lang=eng#4).)
+30:5](/scriptures/ot/ps/30.5?lang=eng#4).)
 
 To these words I add my witness: God lives, and His Son, Jesus Christ, is our
 Savior and Redeemer. Tonight my wife and I shall join millions of you as we
 kneel in solemn prayer and supplication. We shall acknowledge His holy hand in
 our lives. And from our hearts will come our expression of gratitude, "Thanks
 be to God." In the name of Jesus Christ, amen.
+
+## References
 

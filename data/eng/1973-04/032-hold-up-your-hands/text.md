@@ -15,10 +15,10 @@ Corinthians, in which he compared the various parts of the human body with the
 spiritual gifts and ecclesiastical offices which have been placed in the
 Church. He said that all were necessary and that the eye could not say to the
 hand, "I have no need of thee." [[1 Cor.
-12](https://www.lds.org/scriptures/nt/1-cor/12.title?lang=eng)] And each six
-months, as I see the thousands of raised hands in this assembly, I like to
-think of the great power and many important duties, both symbolic and
-otherwise, that we hold in our hands.
+12](/scriptures/nt/1-cor/12?lang=eng)] And each six months, as I see the
+thousands of raised hands in this assembly, I like to think of the great power
+and many important duties, both symbolic and otherwise, that we hold in our
+hands.
 
 The Lord has placed in our hands the responsibility for working out our
 eternal exaltation in fear and trembling before him. When we are sick we have
@@ -69,7 +69,7 @@ when thou liest down, and when thou risest up.
 
 "And thou shalt bind them for a sign upon thine hand, and they shall be as
 frontlets between thine eyes." ([Deut.
-6:6-8](https://www.lds.org/scriptures/ot/deut/6.6-8?lang=eng#5).)
+6:6-8](/scriptures/ot/deut/6.6-8?lang=eng#5).)
 
 You will recall that your mother used to make an interesting adaptation of
 this idea. When she sent you on an important errand, the purpose of which she
@@ -86,8 +86,7 @@ The first finger on the hand is the thumb. The thumb serves as the anchor man
 of the hand. And the first law of any success says that "you _must _know your
 business." Lord Bacon said, "Knowledge is power." Jesus said, "... this is life
 eternal, that they might know thee the only true God, and Jesus Christ, whom
-thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+thou hast sent." ([John 17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 Dr. Henry C. Link once pointed out that "nothing puts so much order into human
 life as to live by a set of sound principles." And the most sound principles
@@ -98,7 +97,7 @@ The first question that Adam and Eve were asked to decide when they were
 placed in the Garden of Eden was whether or not they would eat the fruit from
 the tree of knowledge of good and evil. And after they had eaten, God said, "...
 the man is become as one of us, to know good and evil." ([Gen.
-3:22](https://www.lds.org/scriptures/ot/gen/3.22?lang=eng#21).)
+3:22](/scriptures/ot/gen/3.22?lang=eng#21).)
 
 I would just like to point out in passing that the right kind of knowledge
 still tends to have that effect upon people. It still tends to make men and
@@ -117,8 +116,7 @@ convert before you can be a leader. You must be a convert before you can show
 other people the way.
 
 Jesus said to Peter, "Simon, ... when thou art converted, strengthen thy
-brethren." ([Luke
-22:31-32](https://www.lds.org/scriptures/nt/luke/22.31-32?lang=eng#30).) Peter
+brethren." ([Luke 22:31-32](/scriptures/nt/luke/22.31-32?lang=eng#30).) Peter
 may have been a little bit offended at this, as he probably felt that as the
 chief apostle, he was already converted; but what happened that very night at
 the house of Caiaphas when he denied the Lord three times may have indicated
@@ -133,12 +131,11 @@ will fail. But if I want to succeed in letters a yard high, then I will
 succeed.
 
 The Lord said, "... if ye have desires to serve God ye are called to the work."
-([D&amp;C 4:3](https://www.lds.org/scriptures/dc-
-testament/dc/4.3?lang=eng#2).) If we don't WANT to do it we can't do it. Alma
-said that God grants unto every man according to his desires. (See [Alma
-29:4](https://www.lds.org/scriptures/bofm/alma/29.4?lang=eng#3).) And we ought
-to spend a lot more time than we ordinarily do in increasing the volume and
-intensity of our righteous desires.
+([D&amp;C 4:3](/scriptures/dc-testament/dc/4.3?lang=eng#2).) If we don't WANT
+to do it we can't do it. Alma said that God grants unto every man according to
+his desires. (See [Alma 29:4](/scriptures/bofm/alma/29.4?lang=eng#3).) And we
+ought to spend a lot more time than we ordinarily do in increasing the volume
+and intensity of our righteous desires.
 
 A young man once came to Socrates and said, "Mr. Socrates, I have come sixteen
 hundred miles to talk to you about wisdom and learning." He said, "You are a
@@ -224,14 +221,16 @@ up his hands to God over the battle; and as long as Moses held up his hands,
 Israel prevailed. But when he let his hands down, the Amalekites prevailed.
 And as Moses' arms became heavy with weariness, Aaron and Hur stood on either
 side of Moses and helped him to hold up his hands until the battle was won.
-(See [Ex. 17:8-12](https://www.lds.org/scriptures/ot/ex/17.8-12?lang=eng#7).)
+(See [Ex. 17:8-12](/scriptures/ot/ex/17.8-12?lang=eng#7).)
 
 If we all hold up clean, honest, industrious hands to God, then his work will
 prevail. And then it will not be long before the prayer of the Master is
 fulfilled wherein he said to his Father, "Thy kingdom come. Thy will be done
 in earth, as it is in heaven." ([Matt.
-6:10](https://www.lds.org/scriptures/nt/matt/6.10?lang=eng#9).) And may God
-bless you, my brothers and sisters, that all of us together may effectively
-hold up our hands to God and that our covenants may be acceptable to him. For
-this I humbly pray in the name of Jesus Christ. Amen.
+6:10](/scriptures/nt/matt/6.10?lang=eng#9).) And may God bless you, my
+brothers and sisters, that all of us together may effectively hold up our
+hands to God and that our covenants may be acceptable to him. For this I
+humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

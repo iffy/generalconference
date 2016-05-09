@@ -3,8 +3,8 @@
 We believe that a man must [not could be, or might be, but must] be called of
 God, by prophecy, and by the laying on of hands by those in authority, to
 preach the Gospel and administer in the ordinances thereof." ([A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).) In this
-manner we receive our commissions to move forward.
+1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4).) In this manner we receive our
+commissions to move forward.
 
 Today we have all participated in the sustaining of Elder M. Russell Ballard
 as a new member of the Quorum of the Twelve Apostles. I'm sure Brother Bruce
@@ -30,7 +30,7 @@ inadequate when someone rejects one or another of the fundamental doctrines of
 the gospel.
 
 The Lord said that "every man might speak in the name of God the Lord, even
-the Savior of the world." ([D&amp;C 1:20](https://www.lds.org/scriptures/dc-
+the Savior of the world." ([D&amp;C 1:20](/scriptures/dc-
 testament/dc/1.20?lang=eng#19)). So humble men and women, and even young
 people, not professionally trained for the ministry, carry on the work of the
 Lord--many of us with little more than the spiritual conviction that it is
@@ -42,7 +42,7 @@ professional clergy of other churches.
 One doctrine presents a particular challenge. It is our firm conviction that
 The Church of Jesus Christ of Latter-day Saints is, as the revelations state,
 "the only true and living church upon the face of the whole earth." ([D&amp;C
-1:30](https://www.lds.org/scriptures/dc-testament/dc/1.30?lang=eng#29).)
+1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29).)
 
 This doctrine often generates resistance and repels the casual investigator.
 
@@ -60,7 +60,7 @@ relatively few who are converted now?
 Our missionaries sift through thousands to find one convert. Our harvest may
 seem impressive, but we are but gleaners. As the scriptures have foretold, we
 gather "one of a city, and two of a family." ([Jer.
-3:14](https://www.lds.org/scriptures/ot/jer/3.14?lang=eng#13).)
+3:14](/scriptures/ot/jer/3.14?lang=eng#13).)
 
 Some have recommended that we confine ourselves strictly to evidences of the
 gospel: happy family life, and temperate living, and so on.
@@ -119,16 +119,15 @@ unmistakable clarity.
 
 Joseph Smith sought answer to the question "which of all the sects was right ...
 and which ... should [he] join?" ([JS--H
-1:18](https://www.lds.org/scriptures/pgp/js-h/1.18?lang=eng#17).) Surely he
-supposed that somewhere the "right" church was to be found. A simple direction
-to it would end his search. He could then join that church, live the tenets it
-proclaimed, and that would be that.
+1:18](/scriptures/pgp/js-h/1.18?lang=eng#17).) Surely he supposed that
+somewhere the "right" church was to be found. A simple direction to it would
+end his search. He could then join that church, live the tenets it proclaimed,
+and that would be that.
 
 But that was not to be. In response to his humble prayer, the Father and the
 Son appeared to him. When he gained possession of himself so as to be able to
 speak, he asked "which of all the sects was right, that [he] might know which
-to join." ([JS--H
-1:18](https://www.lds.org/scriptures/pgp/js-h/1.18?lang=eng#17).)
+to join." ([JS--H 1:18](/scriptures/pgp/js-h/1.18?lang=eng#17).)
 
 He recorded this:
 
@@ -140,7 +139,7 @@ the commandments of men, having a form of godliness, but they deny the power
 thereof.'
 
 "He again forbade me to join with any of them." ([JS--H
-1:19-20](https://www.lds.org/scriptures/pgp/js-h/1.19-20?lang=eng#18).)
+1:19-20](/scriptures/pgp/js-h/1.19-20?lang=eng#18).)
 
 That is very blunt language. Little wonder that when he repeated it, the
 troubles began.
@@ -153,12 +152,11 @@ his servants "might have power to lay the foundation of this church, and to
 bring it forth out of obscurity and out of darkness, _the only true and living
 church upon the face of the whole earth,_ with which I, the Lord, am well
 pleased, speaking unto the church collectively and not individually."
-([D&amp;C 1:30](https://www.lds.org/scriptures/dc-
-testament/dc/1.30?lang=eng#29); italics added.)
+([D&amp;C 1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29); italics added.)
 
 After making it clear that he was "speaking unto the church collectively and
 not individually," the Lord warned, "I the Lord cannot look upon sin with the
-least degree of allowance." ([D&amp;C 1:31](https://www.lds.org/scriptures/dc-
+least degree of allowance." ([D&amp;C 1:31](/scriptures/dc-
 testament/dc/1.31?lang=eng#30).)
 
 We know there are decent, respectable, humble people in many churches,
@@ -193,8 +191,7 @@ philosophy themselves when it comes to non-Christian religions.
 For if they do not, they have no reason to accept the Lord as our Redeemer or
 regard the Atonement as essential. And what could they do with his statement
 that "he that believeth and is baptized shall be saved; but he that believeth
-not shall be damned"? ([Mark
-16:16](https://www.lds.org/scriptures/nt/mark/16.16?lang=eng#15).)
+not shall be damned"? ([Mark 16:16](/scriptures/nt/mark/16.16?lang=eng#15).)
 
 While the converging path idea is very appealing, it really is not reasonable.
 
@@ -224,10 +221,9 @@ _need_ to exist, is to deny the scriptures.
 
 The New Testament teaches of "one Lord, one faith, one baptism" and speaks of
 "[all coming] in the unity of the faith" ([Eph. 4:5,
-13](https://www.lds.org/scriptures/nt/eph/4.5%2C13?lang=eng#4)) and of a
-"restitution of all things, which God hath spoken by the mouth of all his holy
-prophets since the world began" ([Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).)
+13](/scriptures/nt/eph/4.5,13?lang=eng#4)) and of a "restitution of all
+things, which God hath spoken by the mouth of all his holy prophets since the
+world began" ([Acts 3:21](/scriptures/nt/acts/3.21?lang=eng#20).)
 
 We did not invent the doctrine of the only true church. It came from the Lord.
 Whatever perception others have of us, however presumptuous we appear to be,
@@ -235,8 +231,8 @@ whatever criticism is directed to us, we must teach it to all who will listen.
 
 The Lord commanded the Latter-day Saints that "notwithstanding the tribulation
 which shall descend upon you," the Church must "stand independent above all
-other creatures beneath the celestial world." ([D&amp;C
-78:14](https://www.lds.org/scriptures/dc-testament/dc/78.14?lang=eng#13).)
+other creatures beneath the celestial world." ([D&amp;C 78:14](/scriptures/dc-
+testament/dc/78.14?lang=eng#13).)
 
 In obedience we remain independent. While we cooperate with others to reach
 mutual objectives, we do it in our own way. We do not recognize the ordinances
@@ -253,9 +249,8 @@ truth they possess and have it added upon.
 
 We are not free to alter this fundamental doctrine of the gospel, not even in
 the face of the tribulation prophesied in that revelation ([D&amp;C
-78](https://www.lds.org/scriptures/dc-testament/dc/78.title?lang=eng).)
-Popularity and the approval of the world perhaps must remain ever beyond our
-reach.
+78](/scriptures/dc-testament/dc/78?lang=eng).) Popularity and the approval of
+the world perhaps must remain ever beyond our reach.
 
 Some years ago I was invited to speak to a group at Harvard University. At
 that time a member of the Church was campaigning for national office and this
@@ -318,4 +313,6 @@ without reservation to bear witness that the gospel has been restored, that
 there are prophets and Apostles upon the earth, that the truth is available
 for all mankind, the Lord's Spirit will be with us. And that assurance can be
 affirmed to others. Of this I bear witness in the name of Jesus Christ, amen.
+
+## References
 

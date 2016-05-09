@@ -14,13 +14,13 @@ And the third is the more sure word of prophecy.
 
 In the eighty-eighth section of the Doctrine and Covenants, the Lord says,
 "The light of Christ ... proceedeth forth from the presence of God to fill the
-immensity of space." ([D&amp;C 88:7, 12](https://www.lds.org/scriptures/dc-
-testament/dc/88.7%2C12?lang=eng#6).)
+immensity of space." ([D&amp;C 88:7, 12](/scriptures/dc-
+testament/dc/88.7,12?lang=eng#6).)
 
 In another revelation, it is written that this light, which is "the Spirit of
 Jesus Christ ... giveth light to every man that cometh into the world; and the
 Spirit enlighteneth every man through the world, that hearkeneth to the voice
-of the Spirit." ([D&amp;C 84:45-46](https://www.lds.org/scriptures/dc-
+of the Spirit." ([D&amp;C 84:45-46](/scriptures/dc-
 testament/dc/84.45-46?lang=eng#44).)
 
 This Spirit is, no doubt, the source of one's conscience, which Webster
@@ -41,8 +41,7 @@ that ye may know with a perfect knowledge, as the daylight is from the dark
 night.
 
 "For behold, the Spirit of Christ is given to every man, that he may know good
-from evil." ([Moro.
-7:13-16](https://www.lds.org/scriptures/bofm/moro/7.13-16?lang=eng#12).)
+from evil." ([Moro. 7:13-16](/scriptures/bofm/moro/7.13-16?lang=eng#12).)
 
 President Joseph F. Smith says that this Spirit of Christ "strives with ... men,
 and will continue to strive with them [if they will resist the enticings of
@@ -80,7 +79,7 @@ the Prophet Joseph said:
 
 "The Holy Ghost has not a body of flesh and bones [as we know that God and
 Jesus Christ have], but is a personage of Spirit." ([D&amp;C
-130:22](https://www.lds.org/scriptures/dc-testament/dc/130.22?lang=eng#21).)
+130:22](/scriptures/dc-testament/dc/130.22?lang=eng#21).)
 
 The Holy Ghost is the great witness of, the messenger for, and testifier of
 the Father and the Son. The Savior, speaking of Him as the "Spirit of truth,"
@@ -91,8 +90,7 @@ he shall not speak of himself; but whatsoever he shall hear, that shall he
 speak: and he will shew you things to come.
 
 "He shall glorify me: for he shall receive of mine, and shall shew it unto
-you." ([John
-16:13-14](https://www.lds.org/scriptures/nt/john/16.13-14?lang=eng#12).)
+you." ([John 16:13-14](/scriptures/nt/john/16.13-14?lang=eng#12).)
 
 By the witness and power of the Holy Ghost we receive personal testimonies of
 the truths of the gospel, including knowledge of God the Father and His
@@ -104,8 +102,8 @@ such tragedy, the Lord said:
 
 "Behold, I am Jesus Christ, the Son of God. I am the same that came unto mine
 own, and mine own received me not. I am the light which shineth in darkness,
-and the darkness comprehendeth it not." ([D&amp;C
-6:21](https://www.lds.org/scriptures/dc-testament/dc/6.21?lang=eng#20).)
+and the darkness comprehendeth it not." ([D&amp;C 6:21](/scriptures/dc-
+testament/dc/6.21?lang=eng#20).)
 
 All three of the synoptic Gospel writers record the following classic
 illustration of the difficulty one in darkness has in comprehending the light.
@@ -116,7 +114,7 @@ saying, Whom do men say that I the Son of man am?
 
 "And they said, Some say that thou art John the Baptist: some, Elias; and
 others, Jeremias, or one of the prophets." ([Matt.
-16:13-14](https://www.lds.org/scriptures/nt/matt/16.13-14?lang=eng#12).)
+16:13-14](/scriptures/nt/matt/16.13-14?lang=eng#12).)
 
 Now, the people who expressed these opinions were Christ's contemporaries.
 Their conclusions evidenced the fact that they knew something about His mighty
@@ -126,13 +124,13 @@ light was shining brightly about them, they "comprehended it not."
 
 Having heard their answer as to who men said He was, Jesus directed to His
 disciples the question, "But whom say ye that I am?" ([Matt.
-16:15](https://www.lds.org/scriptures/nt/matt/16.15?lang=eng#14).)
+16:15](/scriptures/nt/matt/16.15?lang=eng#14).)
 
 Then Peter, speaking for himself and presumptively for the others, answered,
 "Thou art the Christ, the Son of the living God." ([Matt.
-16:16](https://www.lds.org/scriptures/nt/matt/16.16?lang=eng#15).) In this
-declaration, Peter evidenced the fact that he and his fellow disciples did
-comprehend the light shining in the world of spiritual darkness around them.
+16:16](/scriptures/nt/matt/16.16?lang=eng#15).) In this declaration, Peter
+evidenced the fact that he and his fellow disciples did comprehend the light
+shining in the world of spiritual darkness around them.
 
 In His response to Peter's answer, Jesus declared a truth understood only by
 those who comprehend the light by and through the gift and power of the Holy
@@ -142,7 +140,7 @@ Ghost, for Jesus' answer was:
 which is in heaven, ... and upon this rock"--meaning, upon the rock of
 revelation, which comes by means of the Holy Ghost--"I will build my church;
 and the gates of hell shall not prevail against it." ([Matt.
-16:17-18](https://www.lds.org/scriptures/nt/matt/16.17-18?lang=eng#16).)
+16:17-18](/scriptures/nt/matt/16.17-18?lang=eng#16).)
 
 How difficult it is to get one in darkness to comprehend the light or to
 believe that there is such light is illustrated by John's account of the
@@ -163,18 +161,16 @@ the second time into his mother's womb, and be born?
 
 "Jesus answered, Verily, verily, I say unto thee, Except a man be born of
 water and of the Spirit, he cannot enter into the kingdom of God." ([John
-3:1-5](https://www.lds.org/scriptures/nt/john/3.1-5?lang=eng#0); see also
-[John 3:6-10](https://www.lds.org/scriptures/nt/john/3.6-10?lang=eng#5).)
+3:1-5](/scriptures/nt/john/3.1-5?lang=eng#0); see also [John
+3:6-10](/scriptures/nt/john/3.6-10?lang=eng#5).)
 
 One is born again by actually receiving and experiencing the light and power
 inherent in the gift of the Holy Ghost.
 
 Now, concerning the third phase of our theme, "the more sure word of prophecy"
-([D&amp;C 131:5](https://www.lds.org/scriptures/dc-
-testament/dc/131.5?lang=eng#4)), which is obtained by making one's "calling
-and election sure" ([2 Pet.
-1:10](https://www.lds.org/scriptures/nt/2-pet/1.10?lang=eng#9)), the Prophet
-Joseph said:
+([D&amp;C 131:5](/scriptures/dc-testament/dc/131.5?lang=eng#4)), which is
+obtained by making one's "calling and election sure" ([2 Pet.
+1:10](/scriptures/nt/2-pet/1.10?lang=eng#9)), the Prophet Joseph said:
 
 "After a person has faith in Christ, repents of his sins, and is baptized for
 the remission of his sins and receives the Holy Ghost, (by the laying on of
@@ -197,8 +193,8 @@ is the same that I promised unto my disciples, as is recorded in the testimony
 of John.
 
 "This Comforter is the promise which I give unto you of eternal life, even the
-glory of the celestial kingdom." ([D&amp;C
-88:3-4](https://www.lds.org/scriptures/dc-testament/dc/88.3-4?lang=eng#2).)
+glory of the celestial kingdom." ([D&amp;C 88:3-4](/scriptures/dc-
+testament/dc/88.3-4?lang=eng#2).)
 
 I should think that all faithful Latter-day Saints "would want that more sure
 word of prophecy, that they were sealed in the heavens and had the promise of
@@ -212,19 +208,19 @@ their hearts.
 Lehi's grandson Enos so hungered after righteousness that he cried unto the
 Lord until "there came a voice unto [him], saying: Enos, thy sins are forgiven
 thee, and thou shalt be blessed." ([Enos
-1:5](https://www.lds.org/scriptures/bofm/enos/1.5?lang=eng#4).) Years later
-Enos revealed the nature of this promised blessing when he wrote:
+1:5](/scriptures/bofm/enos/1.5?lang=eng#4).) Years later Enos revealed the
+nature of this promised blessing when he wrote:
 
 "I soon go to the place of my rest, which is with my Redeemer; for I know that
 in him I shall rest. And I rejoice in the day when my mortal shall put on
 immortality, and shall stand before him; then shall I see his face with
 pleasure, and he will say unto me: Come unto me, ye blessed, there is a place
 prepared for you in the mansions of my Father." ([Enos
-1:27](https://www.lds.org/scriptures/bofm/enos/1.27?lang=eng#26).)
+1:27](/scriptures/bofm/enos/1.27?lang=eng#26).)
 
 To Alma the Lord said, "Thou art my servant; and I covenant with thee that
 thou shalt have eternal life." ([Mosiah
-26:20](https://www.lds.org/scriptures/bofm/mosiah/26.20?lang=eng#19).)
+26:20](/scriptures/bofm/mosiah/26.20?lang=eng#19).)
 
 To His twelve Nephite disciples, the Master said:
 
@@ -237,7 +233,7 @@ have an end, that we may speedily come unto thee in thy kingdom.
 "And he said unto them: Blessed are ye because ye desired this thing of me;
 therefore, after that ye are seventy and two years old ye shall come unto me
 in my kingdom; and with me ye shall find rest." ([3 Ne.
-28:1-3](https://www.lds.org/scriptures/bofm/3-ne/28.1-3?lang=eng#0).)
+28:1-3](/scriptures/bofm/3-ne/28.1-3?lang=eng#0).)
 
 As Moroni labored in solitude abridging the Jaredite record, he received from
 the Lord this comforting assurance:
@@ -245,7 +241,7 @@ the Lord this comforting assurance:
 "Thou hast been faithful; wherefore, thy garments shall be made clean. And
 because thou hast seen thy weakness thou shalt be made strong, even unto the
 sitting down in the place which I have prepared in the mansions of my Father."
-([Ether 12:37](https://www.lds.org/scriptures/bofm/ether/12.37?lang=eng#36).)
+([Ether 12:37](/scriptures/bofm/ether/12.37?lang=eng#36).)
 
 Paul, in his second epistle to Timothy, wrote:
 
@@ -255,7 +251,7 @@ Paul, in his second epistle to Timothy, wrote:
 
 "Henceforth there is laid up for me a crown of righteousness, which the Lord,
 the righteous judge, shall give me at that day." ([2 Tim.
-4:6-8](https://www.lds.org/scriptures/nt/2-tim/4.6-8?lang=eng#5).)
+4:6-8](/scriptures/nt/2-tim/4.6-8?lang=eng#5).)
 
 In this dispensation many have received like assurances. In the spring of
 1839, while the Prophet Joseph and his associates were languishing in Liberty
@@ -282,15 +278,14 @@ To the Prophet Joseph Smith the Lord said:
 "I am the Lord thy God, and will be with thee even unto the end of the world,
 and through all eternity; _for verily I seal upon you your exaltation, and
 prepare a throne for you in the kingdom of my Father, with Abraham your
-father._" ([D&amp;C 132:49](https://www.lds.org/scriptures/dc-
-testament/dc/132.49?lang=eng#48); italics added.)
+father._" ([D&amp;C 132:49](/scriptures/dc-testament/dc/132.49?lang=eng#48);
+italics added.)
 
 Now my beloved brethren, by way of summary and conclusion, I bear witness to
 the verity of these great truths. I know that the Spirit of Christ
 enlighteneth "every man that cometh into the world; and [that] the Spirit
 enlighteneth every man through the world, that hearkeneth to the voice of the
-Spirit." ([D&amp;C 84:46](https://www.lds.org/scriptures/dc-
-testament/dc/84.46?lang=eng#45).)
+Spirit." ([D&amp;C 84:46](/scriptures/dc-testament/dc/84.46?lang=eng#45).)
 
 I know that everyone who, following the whisperings of the Spirit, develops
 faith, is baptized, and receives the Holy Ghost through the laying on of hands
@@ -307,4 +302,6 @@ That the Lord will bless all of us priesthood bearers that we will so
 understand these great truths, that in the end we shall, by making our calling
 and election sure, enjoy the full light of Christ, I humbly pray, in the name
 of Jesus Christ, our Redeemer. Amen.
+
+## References
 

@@ -23,7 +23,7 @@ responded, "Speak; for thy servant heareth.
 
 "And the Lord said to Samuel, Behold, I will do a thing in Israel, at which
 both the ears of every one that heareth it shall tingle." (See [1 Sam.
-3:1-11](https://www.lds.org/scriptures/ot/1-sam/3.1-11?lang=eng#0).)
+3:1-11](/scriptures/ot/1-sam/3.1-11?lang=eng#0).)
 
 Most of you young men will one day receive a call to serve a mission. How I
 pray that your response will be as was Samuel's: "Here am I. ... Speak; for thy
@@ -169,7 +169,7 @@ behalf their chains of bondage will fall from them, and the darkness
 surrounding them will clear away, that light may shine upon them and they
 shall hear in the spirit world of the work that has been done for them by
 their children here, and will rejoice with you in your performance of these
-duties." [1]
+duties."[1]
 
 Brother William Taylor, I salute you for your leadership in bringing eternal
 blessings to your "troops" who must indeed call your name blessed.
@@ -200,10 +200,8 @@ Time will permit but a glance at several heartwarming accounts pertaining to
 this tremendous example of the priesthood in action.
 
   1. One morning a call was received at the Kendall chapel. A lady explained that she understood the Church had a group of people who were going out to patch roofs and windows to keep the rains out. She was told that this was true, and she left her address. She was told that volunteers would be out soon to do whatever they could to assist. She then asked if she had to come and pay first and also whom should she pay. She was told that there would be no charge, at which she began to cry uncontrollably, finally managing to say, "I can only thank God for you people, for I have no means of paying anything."
-
-  2. Zack, a young man aged nineteen, who is now in the Missionary Training Center, accompanied a truckload of food, clothing, etc., sent by our members in central Georgia to help the victims of the hurricane. As Zack was leaving, his mother gave him some Cabbage Patch and other treasured dolls from her prized collection. Zack took particular pleasure in distributing those dolls to solemn-eyed little girls whose other toys were all destroyed.
-
-  3. A brother from St. Anthony, Idaho, and other leaders in that area saw the terrible devastation suffered by the people of south Florida as the account appeared on television. They felt a compelling need to do something to help those who had been stricken. A decision was soon made to send an eighteen-wheeler filled with Idaho potatoes to Florida. The truck was loaded with boxes and sacks of potatoes and moved swiftly across the country to the site of the disaster.
+  2. Zack, a young man aged nineteen, who is now in the Missionary Training Center, accompanied a truckload of food, clothing, etc., sent by our members in central Georgia to help the victims of the hurricane. As Zack was leaving, his mother gave him some Cabbage Patch and other treasured dolls from her prized collection. Zack took particular pleasure in distributing those dolls to solemn-eyed little girls whose other toys were all destroyed. 
+  3. A brother from St. Anthony, Idaho, and other leaders in that area saw the terrible devastation suffered by the people of south Florida as the account appeared on television. They felt a compelling need to do something to help those who had been stricken. A decision was soon made to send an eighteen-wheeler filled with Idaho potatoes to Florida. The truck was loaded with boxes and sacks of potatoes and moved swiftly across the country to the site of the disaster. 
 
 The potatoes arrived in excellent condition. The missionaries unloaded the
 potatoes and soon divided them. It was amazing how welcome the potatoes were
@@ -259,11 +257,11 @@ rest.
 ye shall find rest unto your souls.
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 To this divine truth I testify. In the name of Jesus Christ, amen.
 
 ## References
 
-  1.   _Gospel Doctrine,_ 5th ed. (Salt Lake City: Deseret Book Co., 1939), pp. 469-70.
+  1. _Gospel Doctrine,_ 5th ed. (Salt Lake City: Deseret Book Co., 1939), pp. 469-70.
 

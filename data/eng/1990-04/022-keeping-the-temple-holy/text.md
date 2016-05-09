@@ -71,8 +71,7 @@ pure in heart that shall come into it shall see God.
 
 "But if it be defiled I will not come into it, and my glory shall not be
 there; for I will not come into unholy temples." ([D&amp;C 97:10, 12,
-15-17](https://www.lds.org/scriptures/dc-
-testament/dc/97.10%2C12%2C15-17?lang=eng#9).)
+15-17](/scriptures/dc-testament/dc/97.10,12,15-17?lang=eng#9).)
 
 This, I submit, is descriptive and definitive and forceful language from the
 Lord concerning His holy House.
@@ -160,8 +159,7 @@ that it certainly must be. Observance of the Word of Wisdom is concerned with
 the care of one's body, which, the Lord has assured, is of itself a temple, a
 tabernacle of the spirit. He has said, "Yea, man is the tabernacle of God,
 even temples; and whatsoever temple is defiled, God shall destroy that
-temple." ([D&amp;C 93:35](https://www.lds.org/scriptures/dc-
-testament/dc/93.35?lang=eng#34).)
+temple." ([D&amp;C 93:35](/scriptures/dc-testament/dc/93.35?lang=eng#34).)
 
 I recall a bishop telling me of a woman who came to get a recommend. When
 asked if she observed the Word of Wisdom, she said that she occasionally drank
@@ -192,23 +190,21 @@ of a stake presidency or of a bishopric or of an elders quorum presidency is
 there because he wished to be there and requested the privilege. Each is there
 because he was "called of God, by prophecy, and by the laying on of hands by
 those who are in authority, to preach the Gospel and administer in the
-ordinances thereof." ([A of F
-1:5](https://www.lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
+ordinances thereof." ([A of F 1:5](/scriptures/pgp/a-of-f/1.5?lang=eng#4).)
 
 Loyalty to leadership is a cardinal requirement of all who serve in the army
 of the Lord. A house divided against itself cannot stand. (See [Mark
-3:25](https://www.lds.org/scriptures/nt/mark/3.25?lang=eng#24).) Unity is
-basic and essential. Declared the Lord, "If ye are not one ye are not mine."
-([D&amp;C 38:27](https://www.lds.org/scriptures/dc-
-testament/dc/38.27?lang=eng#26).) Failure to sustain those in authority is
-incompatible with service in the temple.
+3:25](/scriptures/nt/mark/3.25?lang=eng#24).) Unity is basic and essential.
+Declared the Lord, "If ye are not one ye are not mine." ([D&amp;C
+38:27](/scriptures/dc-testament/dc/38.27?lang=eng#26).) Failure to sustain
+those in authority is incompatible with service in the temple.
 
 Honesty with others, including obedience to constitutional law, is likewise a
 requirement.
 
 "We believe in being subject to kings, presidents, rulers, and magistrates, in
 obeying, honoring, and sustaining the law." ([A of F
-1:12](https://www.lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
+1:12](/scriptures/pgp/a-of-f/1.12?lang=eng#11).)
 
 Occasionally, we receive letters from those who openly advocate opposition to
 the payment of taxes, complaining that their bishops and stake presidents will
@@ -256,7 +252,7 @@ of paper with a name and signatures, but in reality it is a certificate that
 says the bearer is "honest, true, chaste, benevolent, virtuous" and that he or
 she believes in doing good to all, that "if there is anything virtuous,
 lovely, or of good report or praiseworthy," he or she seeks after such. ([A of
-F 1:13](https://www.lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
+F 1:13](/scriptures/pgp/a-of-f/1.13?lang=eng#12).)
 
 Most important, and above all other qualifications, is the certain knowledge
 on the part of a recommend holder that God our Eternal Father lives, that
@@ -295,9 +291,9 @@ not of that which is holy and sanctified.
 
 Said the Lord, "Remember that that which cometh from above is sacred, and must
 be spoken with care, and by constraint of the Spirit." ([D&amp;C
-63:64](https://www.lds.org/scriptures/dc-testament/dc/63.64?lang=eng#63).) And
-again, "Trifle not with sacred things." ([D&amp;C
-6:12](https://www.lds.org/scriptures/dc-testament/dc/6.12?lang=eng#11).)
+63:64](/scriptures/dc-testament/dc/63.64?lang=eng#63).) And again, "Trifle not
+with sacred things." ([D&amp;C 6:12](/scriptures/dc-
+testament/dc/6.12?lang=eng#11).)
 
 In closing, I repeat that this recommend which I have and which so many of you
 have is a precious and wonderful thing. It makes one eligible for an exclusive
@@ -315,4 +311,6 @@ you so conduct yourselves at all times and in all circumstances that, at the
 proper time, you may secure a special and restricted credit card with the
 Lord, even a recommend to His holy House, there to enjoy all of its blessings
 and privileges. I so pray, in the name of Jesus Christ, amen.
+
+## References
 

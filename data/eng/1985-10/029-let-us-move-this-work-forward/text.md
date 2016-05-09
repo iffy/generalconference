@@ -21,7 +21,7 @@ motto for the months ahead: "I will go and do the things which the Lord hath
 commanded, for I know that the Lord giveth no commandments unto the children
 of men, save he shall prepare a way for them that they may accomplish the
 thing which he commandeth them." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
+3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).)
 
 In the last two days we have been reminded frequently of the commandments of
 the Lord. We have had set forth before us the counsel of his prophets. All of
@@ -108,8 +108,7 @@ fully. There is nothing the Lord expects of us that we cannot do. His
 requirements are essentially so easy. For instance, He said concerning the
 Word of Wisdom that it is "a principle with promise, adapted to the capacity
 of the weak and the weakest of all saints, who are or can be called saints."
-([D&amp;C 89:3](https://www.lds.org/scriptures/dc-
-testament/dc/89.3?lang=eng#2).)
+([D&amp;C 89:3](/scriptures/dc-testament/dc/89.3?lang=eng#2).)
 
 We _can_ observe that Word of Wisdom. We receive numerous letters inquiring
 whether this item or that item is proscribed by the Word of Wisdom. If we will
@@ -128,7 +127,7 @@ word in this important matter. It is He who has given the commandment and made
 the promise. I go back to Nephi, who in that time of worry and concern said to
 his brothers: "Let us be faithful in keeping the commandments of the Lord; for
 behold he is mightier than all the earth." ([1 Ne.
-4:1](https://www.lds.org/scriptures/bofm/1-ne/4.1?lang=eng#0).)
+4:1](/scriptures/bofm/1-ne/4.1?lang=eng#0).)
 
 It is not a burden to refrain from two meals a month and give the value
 thereof to assist in caring for the poor. It is, rather, a blessing. Not only
@@ -183,7 +182,7 @@ doest, and whithersoever thou turnest thyself:
 thy children take heed to their way, to walk before me in truth with all their
 heart and with all their soul, there shall not fail thee (said he) a man on
 the throne of Israel." ([1 Kgs.
-2:2-4](https://www.lds.org/scriptures/ot/1-kgs/2.2-4?lang=eng#1).)
+2:2-4](/scriptures/ot/1-kgs/2.2-4?lang=eng#1).)
 
 If we will so conduct ourselves as Latter-day Saints, this work will never
 fail nor even lag. It will move forward toward that destiny given it by Him
@@ -192,4 +191,6 @@ look to Him and live.
 
 For these great blessings I humbly pray as I express unto you my appreciation,
 my love, and my gratitude, in the name of Jesus Christ, amen.
+
+## References
 

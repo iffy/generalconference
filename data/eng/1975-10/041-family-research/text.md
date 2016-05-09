@@ -4,10 +4,9 @@ In the very beginning, God placed Adam on the earth and gave him dominion over
 the fish and the fowl and the cattle and over all the earth. Now this would
 seem like an exalted position for some people today, but even though Adam had
 dominion over all the earth, God said, "It is not good that the man should be
-alone," ([Gen. 2:18](https://www.lds.org/scriptures/ot/gen/2.18?lang=eng#17))
-and he gave unto him the woman, Eve, to be a companion and a helpmeet. Then
-God gave unto them the first great commandment, to multiply and replenish the
-earth.
+alone," ([Gen. 2:18](/scriptures/ot/gen/2.18?lang=eng#17)) and he gave unto
+him the woman, Eve, to be a companion and a helpmeet. Then God gave unto them
+the first great commandment, to multiply and replenish the earth.
 
 We are not told how long they lived in the Garden of Eden before they partook
 of the fruit of the tree of the knowledge of good and evil and were cast out
@@ -51,25 +50,23 @@ Covenants:
 living that cannot be lightly passed over, as pertaining to our salvation. For
 their salvation is necessary and essential to our salvation, as Paul says
 concerning the fathers--that they without us cannot be made perfect--neither
-can we without our dead be made perfect." ([D&amp;C
-128:15](https://www.lds.org/scriptures/dc-testament/dc/128.15?lang=eng#14);
-see also [Heb.
-11:40](https://www.lds.org/scriptures/nt/heb/11.40?lang=eng#39).)
+can we without our dead be made perfect." ([D&amp;C 128:15](/scriptures/dc-
+testament/dc/128.15?lang=eng#14); see also [Heb.
+11:40](/scriptures/nt/heb/11.40?lang=eng#39).)
 
 When Paul was teaching the principles of the resurrection to the Corinthians,
 he clinched his point by stating:
 
 "Else what shall they do which are baptized for the dead, if the dead rise not
 at all? why are they then baptized for the dead?" ([1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28).)
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28).)
 
 This shows that in the days of Paul there was a practice of vicarious baptism
 for the dead.
 
 One of the first instructions given to the Prophet Joseph Smith by Moroni was
 the quotation from Malachi 4:5-6 [[Mal.
-4:5-6](https://www.lds.org/scriptures/ot/mal/4.5-6?lang=eng#4)]. Moroni quoted
-it thus:
+4:5-6](/scriptures/ot/mal/4.5-6?lang=eng#4)]. Moroni quoted it thus:
 
 "Behold, I will reveal unto you the Priesthood, by the hand of Elijah the
 prophet, before the coming of the great and dreadful day of the Lord.
@@ -77,7 +74,7 @@ prophet, before the coming of the great and dreadful day of the Lord.
 "And he shall plant in the hearts of the children the promises made to the
 fathers, and the hearts of the children shall turn to their fathers. If it
 were not so, the whole earth would be utterly wasted at his coming." ([JS--H
-1:38-39](https://www.lds.org/scriptures/pgp/js-h/1.38-39?lang=eng#37).)
+1:38-39](/scriptures/pgp/js-h/1.38-39?lang=eng#37).)
 
 The Prophet Joseph Smith has said:
 
@@ -150,4 +147,6 @@ other side for that work to be done. Let's follow President Kimball's slogan,
 May His blessings be upon all those who are diligent in this work, that we may
 prepare the way for his coming, for I testify to you that this is His work, in
 the name of Jesus Christ. Amen.
+
+## References
 

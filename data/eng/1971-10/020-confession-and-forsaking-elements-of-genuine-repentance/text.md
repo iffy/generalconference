@@ -1,4 +1,4 @@
-# Confession and Forsaking: Elements of Genuine Repentance
+# Confession and Forsaking:Elements of Genuine Repentance
 
 As I look out over this vast audience, I am conscious that the greatest number
 on the main floor are priesthood leaders and of that group likely the largest
@@ -68,20 +68,19 @@ penetrating voice whispering to his soul, 'Thy sins are forgiven thee.'"
 
 The scriptures give us great comfort. In First John we read: "If we confess
 our sins, he is faithful and just to forgive us our sins, and to cleanse us
-from all unrighteousness." ([1 Jn.
-1:9](https://www.lds.org/scriptures/nt/1-jn/1.9?lang=eng#8).)
+from all unrighteousness." ([1 Jn. 1:9](/scriptures/nt/1-jn/1.9?lang=eng#8).)
 
 And again we read: "For I the Lord cannot look upon sin with the least degree
 of allowance;
 
 "Nevertheless, he that repents and does the commandments of the Lord shall be
-forgiven." ([D&amp;C 1:31-32](https://www.lds.org/scriptures/dc-
+forgiven." ([D&amp;C 1:31-32](/scriptures/dc-
 testament/dc/1.31-32?lang=eng#30).)
 
 Possibly one of the most soul-satisfying scriptures to the transgressor is
 this: "Behold, he who has repented of his sins, the same is forgiven, and I,
-the Lord, remember them no more." ([D&amp;C
-58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41).)
+the Lord, remember them no more." ([D&amp;C 58:42](/scriptures/dc-
+testament/dc/58.42?lang=eng#41).)
 
 President Kimball has used some sound logic as he explains this matter. He
 said: "... the call to repentance from sin is to all men ... the call promises
@@ -98,14 +97,14 @@ promise of forgiveness to all who repent:
 "Let the wicked forsake his way, and the unrighteous man his thoughts: and let
 him return unto the Lord, and he will have mercy upon him; and to our God, for
 he will abundantly pardon." ([Isa.
-55:6-7](https://www.lds.org/scriptures/ot/isa/55.6-7?lang=eng#5).)
+55:6-7](/scriptures/ot/isa/55.6-7?lang=eng#5).)
 
 Repentance isn't always easy. It takes great humility. It often requires
 superhuman courage, especially in major transgression. But the Lord has told
 us plainly how we can tell if a man or woman has repented of his sins. He
 said: "By this ye may know if a man repenteth of his sins--behold, he will
-confess them and forsake them." ([D&amp;C
-58:43](https://www.lds.org/scriptures/dc-testament/dc/58.43?lang=eng#42).)
+confess them and forsake them." ([D&amp;C 58:43](/scriptures/dc-
+testament/dc/58.43?lang=eng#42).)
 
 Confession and forsaking, then, are the two important elements of repentance.
 After one has been brought to realize his transgression and made his
@@ -157,8 +156,8 @@ forgiveth not his brother his trespasses standeth condemned before the Lord;
 for there remaineth in him the greater sin.
 
 "I, the Lord, will forgive whom I will forgive, but of you it is required to
-forgive all men." ([D&amp;C 64:7, 9-10](https://www.lds.org/scriptures/dc-
-testament/dc/64.7%2C9-10?lang=eng#6).)
+forgive all men." ([D&amp;C 64:7, 9-10](/scriptures/dc-
+testament/dc/64.7,9-10?lang=eng#6).)
 
 In these explicit instructions to the Church--that we are to forgive all men
 their trespasses--it doesn't mean that after the bishop hears the confessions
@@ -205,16 +204,17 @@ but to redeem them from their sins.
 
 "And he hath power given unto him from the Father to redeem them from their
 sins because of repentance." ([Hel.
-5:10-11](https://www.lds.org/scriptures/bofm/hel/5.10-11?lang=eng#9).)
+5:10-11](/scriptures/bofm/hel/5.10-11?lang=eng#9).)
 
 Now one final bit of assurance that the repentant one may be forgiven:
 "Verily, thus saith the Lord: It shall come to pass that every soul who
 forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my
 voice, and keepeth my commandments, shall see my face and know that I am."
-([D&amp;C 93:1](https://www.lds.org/scriptures/dc-
-testament/dc/93.1?lang=eng#0).)
+([D&amp;C 93:1](/scriptures/dc-testament/dc/93.1?lang=eng#0).)
 
 It may not be easy--the road may be long, but I leave you my witness it is the
 way the Lord has provided in his mercy to us. In the name of Jesus Christ.
 Amen.
+
+## References
 

@@ -37,12 +37,12 @@ Joseph in April of 1830, the Lord declared to the priesthood:
 "And see that there is no iniquity in the church. ...
 
 "And see that the church meet together often, and also see that all the
-members do their duty" ([D&amp;C 20:53-55](https://www.lds.org/scriptures/dc-
+members do their duty" ([D&amp;C 20:53-55](/scriptures/dc-
 testament/dc/20.53-55?lang=eng#52)).
 
 "And visit the house of each member, exhorting them to pray vocally and in
-secret and attend to all family duties" ([D&amp;C
-20:51](https://www.lds.org/scriptures/dc-testament/dc/20.51?lang=eng#50)).
+secret and attend to all family duties" ([D&amp;C 20:51](/scriptures/dc-
+testament/dc/20.51?lang=eng#50)).
 
 Brethren, that is priesthood home teaching.
 
@@ -55,7 +55,7 @@ of this people, by the hand of Nephi.
 "And we did magnify our office unto the Lord, taking upon us the
 responsibility, answering the sins of the people upon our own heads if we did
 not teach them the word of God with all diligence" ([Jacob
-1:18-19](https://www.lds.org/scriptures/bofm/jacob/1.18-19?lang=eng#17)).
+1:18-19](/scriptures/bofm/jacob/1.18-19?lang=eng#17)).
 
 From the beginning of this inspired program in our day, leaders of the Church
 have emphasized over and over again the importance of home teaching.
@@ -94,8 +94,8 @@ It is one of the tests of true discipleship.
 It is the heart of the activation effort of the Church.
 
 It is a calling that helps to fulfill the scriptural injunction: "Out of small
-things proceedeth that which is great" ([D&amp;C
-64:33](https://www.lds.org/scriptures/dc-testament/dc/64.33?lang=eng#32)).
+things proceedeth that which is great" ([D&amp;C 64:33](/scriptures/dc-
+testament/dc/64.33?lang=eng#32)).
 
 There is no greater Church calling than that of a home teacher. There is no
 greater Church service rendered to our Father in Heaven's children than the
@@ -134,11 +134,10 @@ helpful to those you home teach.
 
 Above all, be a genuine friend to the individuals and families you teach. As
 the Savior declared to us, "I will call you friends, for you are my friends"
-([D&amp;C 93:45](https://www.lds.org/scriptures/dc-
-testament/dc/93.45?lang=eng#44)). A friend makes more than a dutiful visit
-each month. A friend is more concerned about helping people than getting
-credit. A friend cares. A friend loves. A friend listens, and a friend reaches
-out.
+([D&amp;C 93:45](/scriptures/dc-testament/dc/93.45?lang=eng#44)). A friend
+makes more than a dutiful visit each month. A friend is more concerned about
+helping people than getting credit. A friend cares. A friend loves. A friend
+listens, and a friend reaches out.
 
 We remember the story President Romney used to tell about the so-called home
 teacher who once called at the Romney home on a cold night. He kept his hat in
@@ -177,7 +176,7 @@ need the continual strength of the Book of Mormon.
 May our message be like Alma instructed the teachers of his day: "He commanded
 them that they should teach nothing save it were the things which he had
 taught, and which had been spoken by the mouth of the holy prophets" ([Mosiah
-18:19](https://www.lds.org/scriptures/bofm/mosiah/18.19?lang=eng#18)).
+18:19](/scriptures/bofm/mosiah/18.19?lang=eng#18)).
 
 Carry the right message, and then teach with the Spirit. The Spirit is the
 single most important ingredient in this work. Through the Spirit, the
@@ -198,7 +197,7 @@ none were consecrated except they were just men.
 
 "Therefore they did watch over their people, and did nourish them with things
 pertaining to righteousness" ([Mosiah 23:14,
-17-18](https://www.lds.org/scriptures/bofm/mosiah/23.14%2C17-18?lang=eng#13)).
+17-18](/scriptures/bofm/mosiah/23.14,17-18?lang=eng#13)).
 
 Also remember that, whenever possible, praying in the home should be a part of
 every home teaching visit. As you may be called upon to pray, pray with the
@@ -247,7 +246,7 @@ people of the church of Christ; and their names were taken, that they might be
 remembered and nourished by the good word of God, to keep them in the right
 way, to keep them continually watchful unto prayer, relying alone upon the
 merits of Christ, who was the author and the finisher of their faith" ([Moro.
-6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3)).
+6:4](/scriptures/bofm/moro/6.4?lang=eng#3)).
 
 Brethren, may we remember all of our individuals and families and "number"
 them each month and nourish them by the good word of God to keep them in the
@@ -294,4 +293,6 @@ with the Spirit. And finally, truly magnify your calling as a home teacher.
 As you do this, I promise you the blessings of heaven and the indescribable
 joy that comes from helping to touch hearts, change lives, and save souls. In
 the name of Jesus Christ, amen.
+
+## References
 

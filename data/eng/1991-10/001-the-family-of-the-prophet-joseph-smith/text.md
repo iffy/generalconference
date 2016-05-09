@@ -28,28 +28,28 @@ and they me." (_History of the Church,_ 5:361-62.)
 Each person who has a testimony of the gospel of Jesus Christ should love and
 appreciate Joseph Smith, Jr., for he is "the Prophet and Seer of the Lord,
 [who] has done more, save Jesus only, for the salvation of men in this world,
-than any other man that ever lived in it." ([D&amp;C
-135:3](https://www.lds.org/scriptures/dc-testament/dc/135.3?lang=eng#2).)
+than any other man that ever lived in it." ([D&amp;C 135:3](/scriptures/dc-
+testament/dc/135.3?lang=eng#2).)
 
 The ancient prophet Nephi wrote that he was "born of goodly parents." ([1 Ne.
-1:1](https://www.lds.org/scriptures/bofm/1-ne/1.1?lang=eng#0).) So was the
-Prophet Joseph Smith; he once declared, "Words and language are inadequate to
-express the gratitude that I owe to God for having given me so honorable a
-parentage." (_History of the Church,_ 5:126.)
+1:1](/scriptures/bofm/1-ne/1.1?lang=eng#0).) So was the Prophet Joseph Smith;
+he once declared, "Words and language are inadequate to express the gratitude
+that I owe to God for having given me so honorable a parentage." (_History of
+the Church,_ 5:126.)
 
 The Lord foreordained his father, Joseph Smith, Sr., who is spoken of in the
 holy scriptures, to be one of the earthly parents of the Prophet. Joseph of
 Egypt prophesied that the latter-day seer whom God would raise up to do his
 work would be "called Joseph" (JST, Gen. 50:33), and his name would "be after
 the name of his father" ([2 Ne.
-3:15](https://www.lds.org/scriptures/bofm/2-ne/3.15?lang=eng#14)). The
-heavenly messenger Moroni admonished young Joseph to go to his father
-following a glorious night of sacred instruction. In Joseph's words, this
-messenger "commanded me to go to my father and tell him of the vision and
-commandments which I had received. I obeyed; I returned to my father in the
-field, and rehearsed the whole matter to him. He replied to me that it was of
-God, and told me to go and do as commanded by the messenger." ([JS--H
-1:49-50](https://www.lds.org/scriptures/pgp/js-h/1.49-50?lang=eng#48).)
+3:15](/scriptures/bofm/2-ne/3.15?lang=eng#14)). The heavenly messenger Moroni
+admonished young Joseph to go to his father following a glorious night of
+sacred instruction. In Joseph's words, this messenger "commanded me to go to
+my father and tell him of the vision and commandments which I had received. I
+obeyed; I returned to my father in the field, and rehearsed the whole matter
+to him. He replied to me that it was of God, and told me to go and do as
+commanded by the messenger." ([JS--H
+1:49-50](/scriptures/pgp/js-h/1.49-50?lang=eng#48).)
 
 Joseph Smith, Sr., was in tune with the Spirit of the Lord. He knew that his
 young son spoke the truth. He not only believed the boy's words but encouraged
@@ -81,9 +81,9 @@ through which he was called to pass." (_History of the Church,_ 4:192.)
 
 Just a few months following his passing from this life, the Lord revealed that
 Joseph Smith, Sr., was in His presence, and "blessed and holy is he, for he is
-mine." ([D&amp;C 124:19](https://www.lds.org/scriptures/dc-
-testament/dc/124.19?lang=eng#18).) Indeed, Joseph Smith, Sr., played a vital
-role in establishing the kingdom of God upon the earth.
+mine." ([D&amp;C 124:19](/scriptures/dc-testament/dc/124.19?lang=eng#18).)
+Indeed, Joseph Smith, Sr., played a vital role in establishing the kingdom of
+God upon the earth.
 
 Perhaps less visible than the Prophet's father, but equally important in
 shaping and influencing his life, was his mother, Lucy Mack Smith. Although
@@ -152,8 +152,7 @@ Hyrum Smith, older brother, friend, and mentor to the Prophet, showed
 absolute, unequivocal love, loyalty, and allegiance to the Lord and to his
 younger brother, Joseph. Their brotherhood may be unsurpassed. The scriptures
 tell us, "In life they were not divided, and in death they were not
-separated!" ([D&amp;C 135:3](https://www.lds.org/scriptures/dc-
-testament/dc/135.3?lang=eng#2).)
+separated!" ([D&amp;C 135:3](/scriptures/dc-testament/dc/135.3?lang=eng#2).)
 
 Of Hyrum, Joseph said, "I could pray in my heart that all my brethren were
 like unto my beloved brother Hyrum, who possesses the mildness of a lamb, and
@@ -168,7 +167,7 @@ faithful associates because he had trusted many who later proved to be false.
 In addition to Joseph's tribute, the Lord spoke of His love for Hyrum:
 "Blessed is my servant Hyrum Smith; for I, the Lord, love him because of the
 integrity of his heart, and because he loveth that which is right before me,
-saith the Lord." ([D&amp;C 124:15](https://www.lds.org/scriptures/dc-
+saith the Lord." ([D&amp;C 124:15](/scriptures/dc-
 testament/dc/124.15?lang=eng#14).)
 
 Hyrum was unwavering, even in the face of death. Following one period of great
@@ -223,4 +222,6 @@ Authorities, who are seated on this stand, are ordained of God to preside over
 the Church. Jesus, our Lord and Savior, stands at the head of the Church. Our
 Heavenly Father lives and watches over each of His children. To this I humbly
 testify, in the name of Jesus Christ, amen.
+
+## References
 

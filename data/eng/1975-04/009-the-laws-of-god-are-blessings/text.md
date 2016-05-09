@@ -6,7 +6,7 @@ or all who need that encouragement, and most of us do. I should like to base
 my remarks upon a divine truth that is found in the book of Proverbs. It reads
 as follows: "For the commandment is a lamp; and the law is light; and reproofs
 of instruction are the way of life." ([Prov.
-6:23](https://www.lds.org/scriptures/ot/prov/6.23?lang=eng#22).)
+6:23](/scriptures/ot/prov/6.23?lang=eng#22).)
 
 A commandment _is_ a lamp to show us the right course, and indeed the law
 defines that course that we are to follow. Some people look upon laws in
@@ -34,8 +34,7 @@ his great love for man, the Lord has granted each of us an opportunity to live
 in the flesh and through obedience to the laws of the gospel and through
 service to our fellowmen, to find happiness and peace and prepare to live
 hereafter in a state of "never-ending happiness" as the Book of Mormon
-describes it. (See [Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40).)
+describes it. (See [Mosiah 2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40).)
 
 But the Lord does his work according to eternal principles and eternal laws.
 While he is a God of love, he is also a God of order. He does not deviate from
@@ -49,8 +48,8 @@ which we can have peace of mind here and gain eternal life hereafter. This is
 expressed in a great revelation given to the Prophet Joseph, as follows: "For
 all who will have a blessing at my hands shall abide the law which was
 appointed for that blessing, and the conditions thereof, as were instituted
-from before the foundation of the world." ([D&amp;C
-132:5](https://www.lds.org/scriptures/dc-testament/dc/132.5?lang=eng#4).)
+from before the foundation of the world." ([D&amp;C 132:5](/scriptures/dc-
+testament/dc/132.5?lang=eng#4).)
 
 So, brothers and sisters, we need simply to remember that which is expected of
 us if we wish a blessing. The Lord will remember that which is expected of
@@ -64,8 +63,7 @@ through which, if observed, the purpose of life and existence is to be
 realized. Even those who are called to go through trials, sorrow, tribulation,
 and adversity are promised that if they are faithful in tribulation and
 adversity, that "the reward of the same is greater in the kingdom of heaven."
-([D&amp;C 58:2](https://www.lds.org/scriptures/dc-
-testament/dc/58.2?lang=eng#1).)
+([D&amp;C 58:2](/scriptures/dc-testament/dc/58.2?lang=eng#1).)
 
 It is comforting to read the words of the Lord in regard to this:
 
@@ -79,8 +77,7 @@ which shall follow after much tribulation.
 
 "For after much tribulation come the blessings. Wherefore, the day cometh that
 ye shall be crowned with much glory, the hour is not yet, but is nigh at
-hand." ([D&amp;C 58:2-4](https://www.lds.org/scriptures/dc-
-testament/dc/58.2-4?lang=eng#1).)
+hand." ([D&amp;C 58:2-4](/scriptures/dc-testament/dc/58.2-4?lang=eng#1).)
 
 Now if one is inclined to question the wisdom of observing the law--whether it
 be the laws of man, the laws of nature, or the laws of God--he should consider
@@ -90,8 +87,7 @@ by law is also preserved by law and perfected and sanctified by the same.
 "That which breaketh a law, and abideth not by law, but seeketh to become a
 law unto itself, and willeth to abide in sin, and altogether abideth in sin,
 cannot be sanctified by law, neither by mercy, justice, nor judgment."
-([D&amp;C 88:34-35](https://www.lds.org/scriptures/dc-
-testament/dc/88.34-35?lang=eng#33).)
+([D&amp;C 88:34-35](/scriptures/dc-testament/dc/88.34-35?lang=eng#33).)
 
 Observance of law brings harmony, peace, order; while without observance of
 law there is found confusion, and sorrow, remorse, failure--whether it be the
@@ -111,15 +107,14 @@ lasting benefits and satisfaction for both.
 
 Now, the Lord loves us enough to say, Thou shalt not lie, thou shalt not
 steal, thou shalt not commit adultery, thou shalt not covet, and so forth.
-(See [D&amp;C 42:18-28](https://www.lds.org/scriptures/dc-
-testament/dc/42.18-28?lang=eng#17).) You know the laws, and President Kimball
-explained them so well this morning. The gospel of Jesus Christ is the perfect
-law of liberty, according to the apostle James. (See [James
-1:25](https://www.lds.org/scriptures/nt/james/1.25?lang=eng#24).) God is its
-author. He set forth the conditions. He is its fountainhead. The gospel is a
-great system of laws, which laws are simply eternal principles by which our
-Father in heaven desires to save mankind, his sons and his daughters, not only
-to save them, but also to share with them all that the Father has--
+(See [D&amp;C 42:18-28](/scriptures/dc-testament/dc/42.18-28?lang=eng#17).)
+You know the laws, and President Kimball explained them so well this morning.
+The gospel of Jesus Christ is the perfect law of liberty, according to the
+apostle James. (See [James 1:25](/scriptures/nt/james/1.25?lang=eng#24).) God
+is its author. He set forth the conditions. He is its fountainhead. The gospel
+is a great system of laws, which laws are simply eternal principles by which
+our Father in heaven desires to save mankind, his sons and his daughters, not
+only to save them, but also to share with them all that the Father has--
 associations with those we love, honor, power, glory, dominions, even
 exaltation.
 
@@ -143,17 +138,17 @@ of misunderstanding and by following the vain philosophies of the world. How
 thankful we ought to be for such truths as these:
 
 "Men are, that they might have joy." ([2 Ne.
-2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
+2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).)
 
 "I, the Lord, am bound when ye do what I say; but when ye do not what I say,
-ye have no promise." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
+ye have no promise." ([D&amp;C 82:10](/scriptures/dc-
 testament/dc/82.10?lang=eng#9).)
 
 "There is a law, irrevocably decreed in heaven before the foundations of this
 world, upon which all blessings are predicated--And when we obtain any
 blessing from God, it is by obedience to that law upon which it [that
-blessing] is predicated." ([D&amp;C 130:20-21](https://www.lds.org/scriptures
-/dc-testament/dc/130.20-21?lang=eng#19).)
+blessing] is predicated." ([D&amp;C 130:20-21](/scriptures/dc-
+testament/dc/130.20-21?lang=eng#19).)
 
 And finally, this most beautiful statement by my friend King Benjamin in his
 address to his people. He said:
@@ -164,7 +159,7 @@ in all things, both temporal and spiritual; and if they hold out faithful to
 the end they are received into heaven, that thereby they may dwell with God in
 a state of never-ending happiness. O remember, remember that these things are
 true; for the Lord hath spoken it." ([Mosiah
-2:41](https://www.lds.org/scriptures/bofm/mosiah/2.41?lang=eng#40).)
+2:41](/scriptures/bofm/mosiah/2.41?lang=eng#40).)
 
 We should be grateful for Spencer W. Kimball (and his associates), a great
 living prophet provided by the Lord to guide us in these difficult times and
@@ -178,4 +173,6 @@ reveal the mind and will of God unto us and unto the world.
 May the world take heed while the day yet lasts, for when the night cometh, no
 man can work, and the opportunity will be gone. This I pray in the name of
 Jesus Christ, the Lord. Amen.
+
+## References
 

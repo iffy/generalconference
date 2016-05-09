@@ -11,8 +11,7 @@ was given a sheet of instructions on which was printed this modern scripture:
 
 "For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he
 suffered the pain of all men, that all men might repent and come unto him"
-([D&amp;C 18:10-11](https://www.lds.org/scriptures/dc-
-testament/dc/18.10-11?lang=eng#9).)
+([D&amp;C 18:10-11](/scriptures/dc-testament/dc/18.10-11?lang=eng#9).)
 
 The impact of this statement that Christ suffered "the pain of all men," here
 given by the Lord to emphasize his high appraisal of the worth of human souls,
@@ -28,7 +27,7 @@ my will, but thine, be done.
 
 "And being in an agony he prayed more earnestly: and his sweat was as it were
 great drops of blood falling down to the ground." ([Luke
-22:41-44](https://www.lds.org/scriptures/nt/luke/22.41-44?lang=eng#40).)
+22:41-44](/scriptures/nt/luke/22.41-44?lang=eng#40).)
 
 Eighteen hundred years later, Jesus himself, speaking of that suffering, said,
 speaking to one of the early brethren:
@@ -46,8 +45,7 @@ because of pain, and to bleed at every pore, and to suffer both body and
 spirit--and would that I might not drink the bitter cup, and shrink--
 
 "Nevertheless, glory be to the Father, and I partook and finished my
-preparations unto the children of men." ([D&amp;C
-19:15-19](https://www.lds.org/scriptures/dc-
+preparations unto the children of men." ([D&amp;C 19:15-19](/scriptures/dc-
 testament/dc/19.15-19?lang=eng#14).)
 
 This high value which the Lord puts upon the souls of men as made known in
@@ -55,13 +53,12 @@ these modern scriptures, he also revealed to his ancient prophets. To impress
 upon their minds the worth of a human soul, he gave some of them a glimpse of
 the magnitude of his creations and then explained that they were but ancillary
 to the accomplishment of his purpose--"to bring to pass the immortality and
-eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+eternal life of man" ([Moses 1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 After Enoch had visioned some of God's creations, he declared that "were it
 possible that man could number the particles of the earth, yea, millions of
 earths like this, it would not be a beginning to the number of thy creations"
-([Moses 7:30](https://www.lds.org/scriptures/pgp/moses/7.30?lang=eng#29)).
+([Moses 7:30](/scriptures/pgp/moses/7.30?lang=eng#29)).
 
 Following a similar showing to Moses, the Lord said: "Worlds without number
 have I created ...
@@ -71,7 +68,7 @@ another come; and there is no end to my works, neither to my words.
 
 "For behold, this is my work and my glory--to bring to pass the immortality
 and eternal life of man." ([Moses 1:33,
-38-39](https://www.lds.org/scriptures/pgp/moses/1.33%2C38-39?lang=eng#32).)
+38-39](/scriptures/pgp/moses/1.33,38-39?lang=eng#32).)
 
 These scriptures bring to mind and give meaning to the Psalmist's searching
 inquiry:
@@ -84,8 +81,7 @@ the stars, which thou hast ordained;
 "For thou hast ... crowned him with glory and honour.
 
 "Thou madest him to have dominion over the works of thy hands; thou hast put
-all things under his feet." ([Ps.
-8:3-6](https://www.lds.org/scriptures/ot/ps/8.3-6?lang=eng#2).)
+all things under his feet." ([Ps. 8:3-6](/scriptures/ot/ps/8.3-6?lang=eng#2).)
 
 Now the answer to this profound question--What is man that he should be of
 such inestimable worth?--comes only by direct revelation from heaven. So
@@ -93,13 +89,12 @@ important is it that it is communicated to men by God himself and angels sent
 by him. It was thus revealed in the very beginning to Adam and Eve. In each
 succeeding gospel dispensation, it has been likewise revealed to "chosen
 vessels of the Lord" ([Moro.
-7:31](https://www.lds.org/scriptures/bofm/moro/7.31?lang=eng#30))--that is, to
-his prophets.
+7:31](/scriptures/bofm/moro/7.31?lang=eng#30))--that is, to his prophets.
 
 These prophets have faithfully borne testimony of the truth revealed to them.
 This they have done that the residue of men, those who will qualify themselves
 to obtain it, by the power of the Holy Ghost may come to a knowledge of it.
-(See [Moro. 7:32](https://www.lds.org/scriptures/bofm/moro/7.32?lang=eng#31).)
+(See [Moro. 7:32](/scriptures/bofm/moro/7.32?lang=eng#31).)
 
 In this manner we ourselves have learned _who_ and _what_ man is. For such a
 knowledge we give the Lord grateful thanks and adoration. Thus knowing the
@@ -123,7 +118,7 @@ created in the beginning after mine own image.
 "Behold, this body, which ye now behold, is the body of my spirit; and man
 have I created after the body of my spirit; and even as I appear unto thee to
 be in the spirit will I appear unto my people in the flesh." ([Ether
-3:14-16](https://www.lds.org/scriptures/bofm/ether/3.14-16?lang=eng#13).)
+3:14-16](/scriptures/bofm/ether/3.14-16?lang=eng#13).)
 
 From this it is clear that man's physical body is patterned after his
 spiritual body.
@@ -131,7 +126,7 @@ spiritual body.
 ## The Origin of Man
 
 In origin, man is a son of God. The spirits of men "are begotten sons and
-daughters unto God" ([D&amp;C 76:24](https://www.lds.org/scriptures/dc-
+daughters unto God" ([D&amp;C 76:24](/scriptures/dc-
 testament/dc/76.24?lang=eng#23)). Through that birth process, self-existing
 intelligence was organized into individual spirit beings.
 
@@ -150,8 +145,8 @@ which the spirit and body are inseparably reunited.
 In this way the Lord brings to pass that immortality of which he spoke to
 Moses when he said, "This is my work and my glory--to bring to pass the
 immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)). Through his
-victory over death, Christ has already secured the immortality here spoken of.
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)). Through his victory over
+death, Christ has already secured the immortality here spoken of.
 
 But this is not all. He accomplished more for men.
 
@@ -160,8 +155,7 @@ he did not guarantee eternal life to all men as he did guarantee immortality.
 
 There will be many gradations among immortal souls. As "one star differeth
 from another star in glory so also is the resurrection of the dead" ([1 Cor.
-15:41-42](https://www.lds.org/scriptures/nt/1-cor/15.41-42?lang=eng#40)).
-That's Paul's doctrine.
+15:41-42](/scriptures/nt/1-cor/15.41-42?lang=eng#40)). That's Paul's doctrine.
 
 _Immortality_ connotes life without end.
 
@@ -179,17 +173,16 @@ maturity, the high status of his Heavenly Father.
 John was alluding to this truth when he wrote, "We [are] the sons of God, and
 it doth not yet appear what we shall be: but we know that, when he shall
 appear, we shall be like him" ([1 Jn.
-3:2](https://www.lds.org/scriptures/nt/1-jn/3.2?lang=eng#1)).
+3:2](/scriptures/nt/1-jn/3.2?lang=eng#1)).
 
 To obtain this high estate Jesus enjoined men when he said, "Be ye therefore
 perfect, even as your Father ... in heaven is perfect" ([Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47)).
+5:48](/scriptures/nt/matt/5.48?lang=eng#47)).
 
 Eternal life is to be obtained only through obedience to the laws and
 ordinances of the gospel. "Enter ye in at the strait gate," said Jesus, "for
 strait is the gate, and narrow is the way that leads to life, and few there be
-that find it" ([3 Ne.
-27:33](https://www.lds.org/scriptures/bofm/3-ne/27.33?lang=eng#32)).
+that find it" ([3 Ne. 27:33](/scriptures/bofm/3-ne/27.33?lang=eng#32)).
 
 Although in this and other scripture Jesus warned and taught that the gate to
 eternal life is strait and the way narrow, he nevertheless made it clear that
@@ -205,21 +198,19 @@ worship, and know what you worship, that you may come unto the Father in my
 name, and in due time receive of his fulness.
 
 "For if you keep my commandments you shall receive of his fulness, and be
-glorified in me as I am in the Father." ([D&amp;C 93:1,
-19-20](https://www.lds.org/scriptures/dc-
-testament/dc/93.1%2C19-20?lang=eng#0).)
+glorified in me as I am in the Father." ([D&amp;C 93:1, 19-20](/scriptures/dc-
+testament/dc/93.1,19-20?lang=eng#0).)
 
 The crowning work and glory of God is, therefore, as he has said, to bring to
 pass the eternal life of man.
 
 Such is the worth of a soul. Surely it "is great in the sight of God"
-([D&amp;C 18:10](https://www.lds.org/scriptures/dc-
-testament/dc/18.10?lang=eng#9)). They should be of like value in the sight of
-men. As God's work and glory is to bring to pass the eternal life of man, so
-the desire, hope, and work of every man should be to obtain eternal life for
-himself. And not for himself only but also for his fellowmen; and it will be
-when he fully appreciates who and what he is--his nature, origin, destiny, and
-potentiality.
+([D&amp;C 18:10](/scriptures/dc-testament/dc/18.10?lang=eng#9)). They should
+be of like value in the sight of men. As God's work and glory is to bring to
+pass the eternal life of man, so the desire, hope, and work of every man
+should be to obtain eternal life for himself. And not for himself only but
+also for his fellowmen; and it will be when he fully appreciates who and what
+he is--his nature, origin, destiny, and potentiality.
 
 In comparison to eternal life, all else sinks into insignificance. For, as
 Jesus said:
@@ -228,7 +219,7 @@ Jesus said:
 own soul?
 
 "Or what shall a man give in exchange for his soul?" ([Mark
-8:36-37](https://www.lds.org/scriptures/nt/mark/8.36-37?lang=eng#35).)
+8:36-37](/scriptures/nt/mark/8.36-37?lang=eng#35).)
 
 Now, in conclusion, I direct a short message to you, our listening friends--
 you who may not have yet received the restored gospel of Jesus Christ:
@@ -261,19 +252,21 @@ investigate our message. We know that if you will do so honestly and
 prayerfully, asking "God, the Eternal Father, in the name of [Jesus] Christ, ...
 with a sincere heart, ... he will manifest the truth of [these things] unto you,
 by the power of the Holy Ghost" ([Moro.
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3)).
+10:4](/scriptures/bofm/moro/10.4?lang=eng#3)).
 
 We are anxious to inform you of the message of the Restoration. At your
 request or invitation we will send or bring you literature or come and teach
 you at your convenience. To this service we are dedicated; to it we have been
 divinely called, for we bear the same responsibility as did Christ's ancient
 disciples, for unto us also the Lord Jesus has said, "Go ye into all the
-world, preach the gospel to every creature" ([D&amp;C
-68:8](https://www.lds.org/scriptures/dc-testament/dc/68.8?lang=eng#7)).
+world, preach the gospel to every creature" ([D&amp;C 68:8](/scriptures/dc-
+testament/dc/68.8?lang=eng#7)).
 
 I give you my personal witness to the truth of these things. If you can
 understand and accept them, they will give you an appreciation of the worth of
 souls found in no other source; they will put you in the way of eternal life;
 they will transform your lives and bring you a peace hitherto unknown. That it
 may be so I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

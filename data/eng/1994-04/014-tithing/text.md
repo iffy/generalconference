@@ -3,7 +3,7 @@
 When the risen Lord appeared to the faithful on this continent, he taught them
 the commandments the prophet Malachi had already given to other children of
 Israel. The Lord commanded that they should record these words (see [3 Ne.
-24:1](https://www.lds.org/scriptures/bofm/3-ne/24.1?lang=eng#0)).
+24:1](/scriptures/bofm/3-ne/24.1?lang=eng#0)).
 
 "Will a man rob God? Yet ye have robbed me. But ye say: Wherein have we robbed
 thee? In tithes and offerings.
@@ -14,21 +14,21 @@ thee? In tithes and offerings.
 house; and prove me now herewith, saith the Lord of Hosts, if I will not open
 you the windows of heaven, and pour you out a blessing that there shall not be
 room enough to receive it" ([3 Ne.
-24:8-10](https://www.lds.org/scriptures/bofm/3-ne/24.8-10?lang=eng#7); see
-[Mal. 3:8-10](https://www.lds.org/scriptures/ot/mal/3.8-10?lang=eng#7)).
+24:8-10](/scriptures/bofm/3-ne/24.8-10?lang=eng#7); see [Mal.
+3:8-10](/scriptures/ot/mal/3.8-10?lang=eng#7)).
 
 After the Savior quoted these words, "he expounded them unto the multitude"
 and said, "These scriptures, which ye had not with you, the Father commanded
 that I should give unto you; for it was wisdom in him that they should be
 given unto future generations" ([3 Ne.
-26:1-2](https://www.lds.org/scriptures/bofm/3-ne/26.1-2?lang=eng#0)).
+26:1-2](/scriptures/bofm/3-ne/26.1-2?lang=eng#0)).
 
 Here we see that the law of tithing is not a remote Old Testament practice,
 but a commandment directly from the Savior to the people of our day. The Lord
 reaffirmed that law in modern revelation, commanding his people to pay "one-
 tenth of all their interest annually" and declaring that "this shall be a
-standing law unto them forever" ([D&amp;C
-119:4](https://www.lds.org/scriptures/dc-testament/dc/119.4?lang=eng#3)).
+standing law unto them forever" ([D&amp;C 119:4](/scriptures/dc-
+testament/dc/119.4?lang=eng#3)).
 
 No prophet of the Lord in modern times has preached the law of tithing more
 fervently than Heber J. Grant. As an Apostle and later as President of the
@@ -123,20 +123,18 @@ there shall not be room enough to receive it." The promised blessings are
 temporal and spiritual. The Lord promises to "rebuke the devourer," and he
 also promises tithe payers that "all nations shall call you blessed, for ye
 shall be a delightsome land" ([3 Ne.
-24:10-12](https://www.lds.org/scriptures/bofm/3-ne/24.10-12?lang=eng#9); see
-[Mal. 3:10-12](https://www.lds.org/scriptures/ot/mal/3.10-12?lang=eng#9)).
+24:10-12](/scriptures/bofm/3-ne/24.10-12?lang=eng#9); see [Mal.
+3:10-12](/scriptures/ot/mal/3.10-12?lang=eng#9)).
 
 I believe these are promises to the nations in which we reside. When the
 people of God withheld their tithes and offerings, Malachi condemned "this
-whole nation" ([Mal.
-3:9](https://www.lds.org/scriptures/ot/mal/3.9?lang=eng#8)). Similarly, I
+whole nation" ([Mal. 3:9](/scriptures/ot/mal/3.9?lang=eng#8)). Similarly, I
 believe that when many citizens of a nation are faithful in the payment of
 tithes, they summon the blessings of heaven upon their entire nation. The
 Bible teaches that "righteousness exalteth a nation" ([Prov.
-14:34](https://www.lds.org/scriptures/ot/prov/14.34?lang=eng#33)) and "a
-little leaven leaveneth the whole lump" ([Gal.
-5:9](https://www.lds.org/scriptures/nt/gal/5.9?lang=eng#8); see [Matt.
-13:33](https://www.lds.org/scriptures/nt/matt/13.33?lang=eng#32)).
+14:34](/scriptures/ot/prov/14.34?lang=eng#33)) and "a little leaven leaveneth
+the whole lump" ([Gal. 5:9](/scriptures/nt/gal/5.9?lang=eng#8); see [Matt.
+13:33](/scriptures/nt/matt/13.33?lang=eng#32)).
 
 The payment of tithing also brings the individual tithe payer unique spiritual
 blessings. Tithe paying is evidence that we accept the law of sacrifice. It
@@ -153,18 +151,16 @@ sacrifice of all earthly things" (_Lectures on Faith,_ 6:7).
 We should not think that the payment and blessings of tithing are unique to
 members of The Church of Jesus Christ of Latter-day Saints. Tithe paying is
 commanded in the Bible. Abraham paid tithes to Melchizedek (see [Gen.
-14:20](https://www.lds.org/scriptures/ot/gen/14.20?lang=eng#19)). Jacob
-covenanted to "give the tenth" unto God ([Gen.
-28:22](https://www.lds.org/scriptures/ot/gen/28.22?lang=eng#21)). After the
-children of Israel were brought out of Egypt, the prophet Moses commanded that
-they should give a tenth to the Lord (see [Lev.
-27:30-34](https://www.lds.org/scriptures/ot/lev/27.30-34?lang=eng#29)).
+14:20](/scriptures/ot/gen/14.20?lang=eng#19)). Jacob covenanted to "give the
+tenth" unto God ([Gen. 28:22](/scriptures/ot/gen/28.22?lang=eng#21)). After
+the children of Israel were brought out of Egypt, the prophet Moses commanded
+that they should give a tenth to the Lord (see [Lev.
+27:30-34](/scriptures/ot/lev/27.30-34?lang=eng#29)).
 
 The Savior reaffirmed that teaching when the Pharisees asked him whether it
 was lawful to pay taxes. The Savior replied with this command: "Render
 therefore unto Caesar the things which are Caesar's; and unto God the things
-that are God's" ([Matt.
-22:21](https://www.lds.org/scriptures/nt/matt/22.21?lang=eng#20)).
+that are God's" ([Matt. 22:21](/scriptures/nt/matt/22.21?lang=eng#20)).
 
 A few years ago the _New York Times_ carried a feature article on a dozen
 highly paid professional athletes who were giving a fixed share (usually 10
@@ -192,22 +188,21 @@ In the Lord's commandment to the people of this day, tithing is "'one-tenth of
 all their interest annually,' which is understood to mean income." The First
 Presidency has said, "No one is justified in making any other statement than
 this" (First Presidency letter, 19 Mar. 1970, quoted in the _General Handbook
-of Instructions,_ 1989, p. 9-1; see also [D&amp;C
-119](https://www.lds.org/scriptures/dc-testament/dc/119.title?lang=eng)).
+of Instructions,_ 1989, p. 9-1; see also [D&amp;C 119](/scriptures/dc-
+testament/dc/119?lang=eng)).
 
 We pay tithing, as the Savior taught, by bringing the tithes "into the
-storehouse" ([Mal.
-3:10](https://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9); [3 Ne.
-24:10](https://www.lds.org/scriptures/bofm/3-ne/24.10?lang=eng#9)). We do this
-by paying our tithing to our bishop or branch president. We do not pay tithing
-by contributing to our favorite charities. The contributions we should make to
+storehouse" ([Mal. 3:10](/scriptures/ot/mal/3.10?lang=eng#9); [3 Ne.
+24:10](/scriptures/bofm/3-ne/24.10?lang=eng#9)). We do this by paying our
+tithing to our bishop or branch president. We do not pay tithing by
+contributing to our favorite charities. The contributions we should make to
 charities come from our own funds, not from the tithes we are commanded to pay
 to the storehouse of the Lord.
 
 The Lord has directed by revelation that the expenditure of his tithes will be
 directed by his servants, the First Presidency, the Quorum of the Twelve, and
-the Presiding Bishopric (see [D&amp;C 120](https://www.lds.org/scriptures/dc-
-testament/dc/120.title?lang=eng)). Those funds are spent to build and maintain
+the Presiding Bishopric (see [D&amp;C 120](/scriptures/dc-
+testament/dc/120?lang=eng)). Those funds are spent to build and maintain
 temples and houses of worship, to conduct our worldwide missionary work, to
 translate and publish scriptures, to provide resources to redeem the dead, to
 fund religious education, and to support other Church purposes selected by the
@@ -273,8 +268,7 @@ take thine ease, eat, drink, and be merry.
 thee: then whose shall those things be, which thou hast provided?
 
 "So is he that layeth up treasure for himself, and is not rich toward God"
-([Luke
-12:16-21](https://www.lds.org/scriptures/nt/luke/12.16-21?lang=eng#15)).
+([Luke 12:16-21](/scriptures/nt/luke/12.16-21?lang=eng#15)).
 
 A modern illustration of that principle is suggested in the apocryphal story
 of two men standing before the casket of a wealthy friend. Asked one, "How
@@ -290,4 +284,6 @@ and his bounteous blessings to his children.
 I pray that each member of this church will qualify for the blessings promised
 and bestowed on those who bring all their tithes into the storehouse. In the
 name of Jesus Christ, amen.
+
+## References
 

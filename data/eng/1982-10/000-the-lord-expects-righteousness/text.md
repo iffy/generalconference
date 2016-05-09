@@ -45,7 +45,7 @@ prevailed: and when he let down his hand, Amalek prevailed.
 he sat thereon; and Aaron [his brother] and Hur [the husband of his sister,
 Miriam] stayed up his hands, the one on the one side, and the other on the
 other side; and his hands were steady until the going down of the sun." ([Ex.
-17:11-12](https://www.lds.org/scriptures/ot/ex/17.11-12?lang=eng#10).)
+17:11-12](/scriptures/ot/ex/17.11-12?lang=eng#10).)
 
 Surely Moses had no greater support than that which I receive from my beloved
 Brethren. I am thankful, too, for President Benson and the members of the
@@ -67,17 +67,17 @@ all the turmoil about us, we can have an inner peace. We are richly blessed
 and have so much to be thankful for. As I meditate upon these things, I
 remember the words of the Lord, "For unto whomsoever much is given, of him
 much shall be required." ([Luke
-12:48](https://www.lds.org/scriptures/nt/luke/12.48?lang=eng#47).) The Lord
-expects of us righteousness and obedience to His commandments in return for
-the bounties of life He has so richly bestowed upon us. It seems that iniquity
-abounds on all sides, with the Adversary taking full advantage of the time
-remaining to him in this day of his power. The leaders of the Church
-continually cry out against that which is intolerable in the sight of the
-Lord: against pollution of mind and body and our surroundings; against
-vulgarity, stealing, lying, cheating, false pride, blasphemy, and drunkenness;
-against fornication, adultery, homosexuality, abortion; and all other abuses
-of the sacred power to create; against murder and all that is like unto it;
-against all manner of degradation and sin.
+12:48](/scriptures/nt/luke/12.48?lang=eng#47).) The Lord expects of us
+righteousness and obedience to His commandments in return for the bounties of
+life He has so richly bestowed upon us. It seems that iniquity abounds on all
+sides, with the Adversary taking full advantage of the time remaining to him
+in this day of his power. The leaders of the Church continually cry out
+against that which is intolerable in the sight of the Lord: against pollution
+of mind and body and our surroundings; against vulgarity, stealing, lying,
+cheating, false pride, blasphemy, and drunkenness; against fornication,
+adultery, homosexuality, abortion; and all other abuses of the sacred power to
+create; against murder and all that is like unto it; against all manner of
+degradation and sin.
 
 As Latter-day Saints we must ever be vigilant. The way for each person and
 each family to guard against the slings and arrows of the Adversary and to
@@ -101,8 +101,7 @@ The Savior loved little children. He often spoke of them, and He called them,
 like lambs, to His side, and He blessed them. And He said, "But whoso shall
 offend one of these little ones which believe in me, it were better for him
 that a millstone were hanged about his neck, and that he were drowned in the
-depth of the sea." ([Matt.
-18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5).)
+depth of the sea." ([Matt. 18:6](/scriptures/nt/matt/18.6?lang=eng#5).)
 
 I call upon all who, for whatever reason or purpose, have torn a little child
 from the arms of its mother, to repent and hearken to my plea. I pray that the
@@ -127,8 +126,7 @@ Master to His Apostles just before His Ascension were, "Go ye into all the
 world, and preach the gospel to every creature.
 
 "He that believeth and is baptized shall be saved; but he that believeth not
-shall be damned." ([Mark
-16:15-16](https://www.lds.org/scriptures/nt/mark/16.15-16?lang=eng#14).)
+shall be damned." ([Mark 16:15-16](/scriptures/nt/mark/16.15-16?lang=eng#14).)
 
 We must not falter nor weary in well-doing. We must lengthen our stride. Not
 only is our own eternal welfare at stake, but also the eternal welfare of many
@@ -136,14 +134,14 @@ of our brothers and sisters who are not now members of this, the true Church.
 I thrill to the words of the Prophet Joseph Smith in a letter that he sent to
 the Church from Nauvoo on September 6, 1842: "Shall we not go on in so great a
 cause? Go forward. ... Courage ... and on, on to the victory!" ([D&amp;C
-128:22](https://www.lds.org/scriptures/dc-testament/dc/128.22?lang=eng#21).)
+128:22](/scriptures/dc-testament/dc/128.22?lang=eng#21).)
 
 Now, my dear brothers and sisters, there are some in the world who mistakenly
 say that we are a non-Christian Church--a cult; that we worship Joseph Smith
 rather than our Savior, Jesus Christ. How far from the truth they are! What
 heresy! The Lord declared, "For thus shall my church be called in the last
 days, even The Church of Jesus Christ of Latter-day Saints." ([D&amp;C
-115:4](https://www.lds.org/scriptures/dc-testament/dc/115.4?lang=eng#3).)
+115:4](/scriptures/dc-testament/dc/115.4?lang=eng#3).)
 
 We have a hope in Christ here and now. He died for our sins. Because of Him
 and His gospel, our sins are washed away in the waters of baptism; sin and
@@ -155,17 +153,17 @@ We _believe,_ and it is our testimony, and we proclaim it to the world, "that
 there shall be no other name given nor any other way nor means whereby
 salvation can come unto the children of men, only in and through the name of
 Christ, the Lord Omnipotent." ([Mosiah
-3:17](https://www.lds.org/scriptures/bofm/mosiah/3.17?lang=eng#16).)
+3:17](/scriptures/bofm/mosiah/3.17?lang=eng#16).)
 
 We _know,_ and it is our testimony, and we proclaim it to the world, that to
 be saved men must "believe that salvation was, and is, and is to come, in and
 through the atoning blood of Christ, the Lord Omnipotent." ([Mosiah
-3:18](https://www.lds.org/scriptures/bofm/mosiah/3.18?lang=eng#17).)
+3:18](/scriptures/bofm/mosiah/3.18?lang=eng#17).)
 
 "And we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy
 of Christ, and we write according to our prophecies, that our children may
 know to what source they may look for a remission of their sins." ([2 Ne.
-25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25).)
+25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25).)
 
 For the past century and a half since the Restoration, beginning with the
 Prophet Joseph Smith, the latter-day prophets of God have raised their voices
@@ -182,4 +180,6 @@ them, and gain an eternal inheritance with Him in celestial glory.
 As we begin this conference let us wait upon the Lord for His blessing and His
 divine approbation. I pray the Lord to bless you; and as His servant, I bless
 you. In the name of Jesus Christ, amen.
+
+## References
 

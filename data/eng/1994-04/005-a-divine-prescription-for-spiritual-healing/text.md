@@ -23,19 +23,17 @@ desired.
 
 The Lord has given a condition for healing blessings: "He that hath faith in
 me to be healed, and _is not appointed unto death,_ shall be healed" ([D&amp;C
-42:48](https://www.lds.org/scriptures/dc-testament/dc/42.48?lang=eng#47);
-emphasis added). Even when a person relies in faith on the Lord for blessings,
-if it is his or her appointed time to die, there will not be restoration of
-health. Indeed, "death [must come] upon all men, to fulfil the merciful plan
-of the great Creator" ([2 Ne.
-9:6](https://www.lds.org/scriptures/bofm/2-ne/9.6?lang=eng#5)). President
-Spencer W. Kimball has written: "If all the sick for whom we pray were healed,
-if all the righteous were protected and the wicked destroyed, the whole
-program of the Father would be annulled. ... No man would have to live by faith.
-... There would be little or no suffering, sorrow, disappointment, or even
-death, and if these were not, there would also be no joy, success,
-resurrection, nor eternal life" (_Faith Precedes the Miracle,_ Salt Lake City:
-Deseret Book Co., 1972, p. 97).
+42:48](/scriptures/dc-testament/dc/42.48?lang=eng#47); emphasis added). Even
+when a person relies in faith on the Lord for blessings, if it is his or her
+appointed time to die, there will not be restoration of health. Indeed, "death
+[must come] upon all men, to fulfil the merciful plan of the great Creator"
+([2 Ne. 9:6](/scriptures/bofm/2-ne/9.6?lang=eng#5)). President Spencer W.
+Kimball has written: "If all the sick for whom we pray were healed, if all the
+righteous were protected and the wicked destroyed, the whole program of the
+Father would be annulled. ... No man would have to live by faith. ... There would
+be little or no suffering, sorrow, disappointment, or even death, and if these
+were not, there would also be no joy, success, resurrection, nor eternal life"
+(_Faith Precedes the Miracle,_ Salt Lake City: Deseret Book Co., 1972, p. 97).
 
 As in my medical practice when I assisted sick patients, my assignment now is
 to assist individuals who have seriously sinned to repent and be restored to
@@ -49,8 +47,7 @@ what all of us should already know--that there is no happiness in sin.
 The only one who can accomplish the healing of a sick soul is the Great
 Physician Himself, our Father in Heaven, through His Son, Jesus Christ. Jesus
 promised those who will come to Him with full purpose of heart and repent: "I
-shall heal them" ([3 Ne.
-18:32](https://www.lds.org/scriptures/bofm/3-ne/18.32?lang=eng#31)). The
+shall heal them" ([3 Ne. 18:32](/scriptures/bofm/3-ne/18.32?lang=eng#31)). The
 Church cannot heal; priesthood leaders do not heal; only an omnipotent God can
 accomplish the miracle of spiritual healing. May I take just a few moments to
 discuss what an individual can do to assist in the spiritual healing process
@@ -80,9 +77,9 @@ would come after a careful history and physical examination. In spiritual
 healing it is called confession. A careful examination of our spiritual self
 on a regular basis is not only worthwhile but necessary. Confession of one's
 sins is always necessary with serious transgressions (see [D&amp;C
-58:43](https://www.lds.org/scriptures/dc-testament/dc/58.43?lang=eng#42)). A
-good start is the interview with our bishop for a temple recommend. That in
-itself is not unlike a history taken by a physician before diagnosing.
+58:43](/scriptures/dc-testament/dc/58.43?lang=eng#42)). A good start is the
+interview with our bishop for a temple recommend. That in itself is not unlike
+a history taken by a physician before diagnosing.
 
 Where do we stand with the Lord? Are we happy with our own spirituality? Do we
 like what we see? Is the Holy Ghost our companion in life? Do we recognize the
@@ -94,14 +91,13 @@ The second ingredient is a deep contrition and remorse for any wrongdoing we
 may find. The Savior mentions this when He says: "And ye shall offer for a
 sacrifice unto me a broken heart and a contrite spirit. And whoso cometh unto
 me with a broken heart and a contrite spirit, him will I baptize with fire and
-with the Holy Ghost" ([3 Ne.
-9:20](https://www.lds.org/scriptures/bofm/3-ne/9.20?lang=eng#19)).
+with the Holy Ghost" ([3 Ne. 9:20](/scriptures/bofm/3-ne/9.20?lang=eng#19)).
 
 I feel certain that the more we are successful in drawing close to Heavenly
 Father, the more our own blemishes will be apparent to us. The Lord has
 instructed us, "Draw near unto me and I will draw near unto you; seek me
-diligently and ye shall find me" ([D&amp;C
-88:63](https://www.lds.org/scriptures/dc-testament/dc/88.63?lang=eng#62)).
+diligently and ye shall find me" ([D&amp;C 88:63](/scriptures/dc-
+testament/dc/88.63?lang=eng#62)).
 
 Yet sorrow and sadness by themselves do not constitute a spiritual cure. They
 almost always accompany sin and transgression, however.
@@ -109,17 +105,17 @@ almost always accompany sin and transgression, however.
 A third ingredient is to seek forgiveness from those whom one has hurt by
 transgression. And they in turn must forgive, as the Lord has so forcefully
 stated: "I, the Lord, will forgive whom I will forgive, but of you it is
-required to forgive all men" ([D&amp;C 64:10](https://www.lds.org/scriptures
-/dc-testament/dc/64.10?lang=eng#9)).
+required to forgive all men" ([D&amp;C 64:10](/scriptures/dc-
+testament/dc/64.10?lang=eng#9)).
 
 Recently there came over my desk the poignant words of a father who had erred
 years ago and who was repentant. He agonized as he related that his sons and
 daughters refused to forgive him, even to the point of refusing to talk to him
 or see him in person after more than five years. The Lord tells us in [D&amp;C
-64:9](https://www.lds.org/scriptures/dc-testament/dc/64.9?lang=eng#8),
-"Wherefore, I say unto you, that ye ought to forgive one another; for he that
-forgiveth not his brother his trespasses standeth condemned before the Lord;
-for there remaineth in him the greater sin."
+64:9](/scriptures/dc-testament/dc/64.9?lang=eng#8), "Wherefore, I say unto
+you, that ye ought to forgive one another; for he that forgiveth not his
+brother his trespasses standeth condemned before the Lord; for there remaineth
+in him the greater sin."
 
 I wonder if there might indeed remain with those children the greater sin.
 
@@ -133,7 +129,7 @@ When that happens, previously repented sins return to those who perhaps did
 not really repent after all. We read: "I, the Lord, will not lay any sin to
 your charge; go your ways and sin no more; but unto that soul who sinneth
 shall the former sins return, saith the Lord your God" ([D&amp;C
-82:7](https://www.lds.org/scriptures/dc-testament/dc/82.7?lang=eng#6)).
+82:7](/scriptures/dc-testament/dc/82.7?lang=eng#6)).
 
 A fifth ingredient: There must be compliance with _all_ the commandments of
 God. This means that those guilty of serious transgressions who are repentant
@@ -142,33 +138,33 @@ Word of Wisdom problems, are morally clean, and keep the Sabbath day holy.
 
 Sixth, one must plead to the Lord for mercy, strength, and forgiveness until
 one receives through the Holy Ghost a "peace of conscience" ([Mosiah
-4:3](https://www.lds.org/scriptures/bofm/mosiah/4.3?lang=eng#2)). This is the
-essence of the atonement of our Lord and Savior, Jesus Christ. When King
-Benjamin had completed his sermon, he looked round about on the multitude, and
-"behold they had fallen to the earth. ...
+4:3](/scriptures/bofm/mosiah/4.3?lang=eng#2)). This is the essence of the
+atonement of our Lord and Savior, Jesus Christ. When King Benjamin had
+completed his sermon, he looked round about on the multitude, and "behold they
+had fallen to the earth. ...
 
 "And they had viewed themselves in their own carnal state, even less than the
 dust of the earth. And they all cried aloud with one voice, saying: O have
 mercy, and apply the atoning blood of Christ that we may receive forgiveness
 of our sins, and our hearts may be purified" ([Mosiah
-4:1-2](https://www.lds.org/scriptures/bofm/mosiah/4.1-2?lang=eng#0)).
+4:1-2](/scriptures/bofm/mosiah/4.1-2?lang=eng#0)).
 
 Then "the Spirit of the Lord came upon them, and they were filled with joy,
 having received a remission of their sins" ([Mosiah
-4:3](https://www.lds.org/scriptures/bofm/mosiah/4.3?lang=eng#2)). Ultimate
-forgiveness comes from the Lord to the repentant individual. He or she knows
-by the power of the Holy Ghost when forgiveness has come.
+4:3](/scriptures/bofm/mosiah/4.3?lang=eng#2)). Ultimate forgiveness comes from
+the Lord to the repentant individual. He or she knows by the power of the Holy
+Ghost when forgiveness has come.
 
 The final ingredient, number seven: There must be faithfulness and service
 throughout the rest of one's mortal life. These seven ingredients provide the
 prescription for spiritual healing and allow our coming to the Lord with "full
-purpose of heart" ([D&amp;C 17:1](https://www.lds.org/scriptures/dc-
+purpose of heart" ([D&amp;C 17:1](/scriptures/dc-
 testament/dc/17.1?lang=eng#0)). The prophet Nephi explained what that was: "I
 know that if ye shall follow the Son, with full purpose of heart, acting no
 hypocrisy and no deception before God, but with real intent, repenting of your
 sins, ... behold, then shall ye receive the Holy Ghost; ... and then can ye speak
 with the tongue of angels, and shout praises unto the Holy One of Israel" ([2
-Ne. 31:13](https://www.lds.org/scriptures/bofm/2-ne/31.13?lang=eng#12)).
+Ne. 31:13](/scriptures/bofm/2-ne/31.13?lang=eng#12)).
 
 I urge any who are in need of such spiritual healing to follow this divine
 prescription of the Savior. Come to Him. Acknowledge your sins. Fully repent.
@@ -190,4 +186,6 @@ we will but use the God-given ingredients to cause such healing, it will
 happen. I testify of His healing power and promise that His prescription is
 the only cure for peace, happiness, and rest to one's soul. In the name of
 Jesus Christ, amen.
+
+## References
 

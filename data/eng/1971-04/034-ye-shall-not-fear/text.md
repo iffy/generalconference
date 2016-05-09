@@ -29,25 +29,22 @@ inspire men and call them to his holy work in this age and generation, as well
 as in generations of old;
 
 "Thereby showing that he is the same God yesterday, today, and forever. Amen."
-([D&amp;C 20:7-12](https://www.lds.org/scriptures/dc-
-testament/dc/20.7-12?lang=eng#6).)
+([D&amp;C 20:7-12](/scriptures/dc-testament/dc/20.7-12?lang=eng#6).)
 
 The Church of Christ has been restored in this the last of all dispensations,
 which is called by the Lord "the dispensation of the fulness of times."
-([D&amp;C 112](https://www.lds.org/scriptures/dc-
-testament/dc/112.title?lang=eng).) When completed, it will produce a welding
-together of all former dispensations, with their keys, principals, and
-intelligence down from the time of Adam. Being the last, this dispensation
-presages the doctrines of last things in the preparation for the second coming
-of Christ the Lord and of the end of the mortal existence of man upon the
-earth.
+([D&amp;C 112](/scriptures/dc-testament/dc/112?lang=eng).) When completed, it
+will produce a welding together of all former dispensations, with their keys,
+principals, and intelligence down from the time of Adam. Being the last, this
+dispensation presages the doctrines of last things in the preparation for the
+second coming of Christ the Lord and of the end of the mortal existence of man
+upon the earth.
 
 The question of the nearness of the second coming of the Son of Man rests upon
 many in our present day. In pondering the question I have often thought of
 three things. The first is observed in these words of the Lord: "But of that
 day, and hour, no one knoweth; no, not the angels of God in heaven, but my
-Father only." ([JS--M
-1:40](https://www.lds.org/scriptures/pgp/js-m/1.40?lang=eng#39).)
+Father only." ([JS--M 1:40](/scriptures/pgp/js-m/1.40?lang=eng#39).)
 
 There are signs, however, which indicate the nearness of this great event. For
 instance, and secondly, living in the last dispensation; we must be aware of
@@ -68,7 +65,7 @@ of his glory, to meet the kingdom of God which is set up on the earth.
 "Wherefore, may the kingdom of God go forth, that the kingdom of heaven may
 come, that thou, O God, mayest be glorified in heaven so on earth, that thine
 enemies may be subdued; for thine is the honor, power and glory, forever and
-ever. Amen." ([D&amp;C 65:4-6](https://www.lds.org/scriptures/dc-
+ever. Amen." ([D&amp;C 65:4-6](/scriptures/dc-
 testament/dc/65.4-6?lang=eng#3).)
 
 The culmination of this dispensation in the sequence of the Lord's time will
@@ -78,22 +75,21 @@ The third condition which I often ponder concerns the day of the gentile,
 which day is now, wherein the gospel is being taken to the gentile nations of
 the earth, that they may, if obedient to the call, come in and be numbered
 with the house of Israel. (See [1 Ne. 13,
-14](https://www.lds.org/scriptures/bofm/1-ne/13.title?lang=eng).)
+14](/scriptures/bofm/1-ne/13?lang=eng).)
 
 The Lord, in a revelation to Joseph Smith, related this period to the nearness
 of his second coming. I quote:
 
 "And when the times of the Gentiles is come in, a light shall break forth
 among them that sit in darkness, and it shall be the fulness of my gospel."
-([D&amp;C 45:28](https://www.lds.org/scriptures/dc-
-testament/dc/45.28?lang=eng#27).)
+([D&amp;C 45:28](/scriptures/dc-testament/dc/45.28?lang=eng#27).)
 
 But there will be many among them who will not receive it. Of these the
 revelation continues:
 
 "But they receive it not; for they perceive not the light, and they turn their
-hearts from me because of the precepts of men." ([D&amp;C
-45:29](https://www.lds.org/scriptures/dc-testament/dc/45.29?lang=eng#28).)
+hearts from me because of the precepts of men." ([D&amp;C 45:29](/scriptures
+/dc-testament/dc/45.29?lang=eng#28).)
 
 But as to the identification of the time that the gospel is taken to the
 gentiles, I quote from the same revelation:
@@ -106,8 +102,7 @@ when they begin to shoot forth, and their leaves are yet tender, that summer
 is now nigh at hand;
 
 "Even so it shall be in that day when they shall see all these things, then
-shall they know that the hour is nigh." ([D&amp;C
-45:36-38](https://www.lds.org/scriptures/dc-
+shall they know that the hour is nigh." ([D&amp;C 45:36-38](/scriptures/dc-
 testament/dc/45.36-38?lang=eng#35).)
 
 The turbulent and awesome conditions of the last days of mortal existence,
@@ -118,7 +113,7 @@ these words by his disciples:
 "... Tell us when shall these things be which thou hast said concerning the
 destruction of the temple, and the Jews; and what is the sign of thy coming,
 and of the end of the world. ..." ([JS--M
-1:4](https://www.lds.org/scriptures/pgp/js-m/1.4?lang=eng#3).)
+1:4](/scriptures/pgp/js-m/1.4?lang=eng#3).)
 
 He gave them specific answers as to what would happen to the Jews and then
 gave attention to the conditions of the last days. Here are his words, in
@@ -135,8 +130,7 @@ but he that shall not be overcome, the same shall be saved.
 
 "And again, this Gospel of the Kingdom shall be preached in all the world, for
 a witness unto all nations, and then shall the end come, or the destruction of
-the wicked." ([JS--M
-1:28-31](https://www.lds.org/scriptures/pgp/js-m/1.28-31?lang=eng#27).)
+the wicked." ([JS--M 1:28-31](/scriptures/pgp/js-m/1.28-31?lang=eng#27).)
 
 By way of assurance and hope, to build strength in the hearts of the Saints,
 the Lord has given this counsel by revelation, with which I close my remarks:
@@ -153,7 +147,7 @@ wars in far countries, but ye know not the hearts of man in your own land.
 wisdom in your bosoms, lest the wickedness of men reveal these things unto you
 by their wickedness, in a manner which shall speak in your ears with a voice
 louder than that which shall shake the earth; but if ye are prepared ye shall
-not fear." ([D&amp;C 38:28-30](https://www.lds.org/scriptures/dc-
+not fear." ([D&amp;C 38:28-30](/scriptures/dc-
 testament/dc/38.28-30?lang=eng#27).)
 
 Ye shall not fear, for as the Lord said upon another occasion, the gathering
@@ -166,4 +160,6 @@ I know, my brethren and sisters, that God lives. I know that Jesus is the
 Christ. I know that the message of the restoration is true, and if we are
 faithful, we need not fear that which must come about. I say this in the name
 of Jesus Christ. Amen.
+
+## References
 

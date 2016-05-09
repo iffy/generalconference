@@ -24,8 +24,7 @@ servants: but if I prevail against him, and kill him, then shall ye be our
 servants, and serve us. ...
 
 "I defy the armies of Israel this day; give me a man, that we may fight
-together." ([1 Sam.
-17:8-10](https://www.lds.org/scriptures/ot/1-sam/17.8-10?lang=eng#7).)
+together." ([1 Sam. 17:8-10](/scriptures/ot/1-sam/17.8-10?lang=eng#7).)
 
 When Saul and the army of Israel looked at this giant and heard his chilling
 challenge, they were frightened because they had no one of their own of such
@@ -40,24 +39,21 @@ are you so afraid of this giant? I will go and fight him."
 
 Saul replied, "Thou art not able to go against this Philistine to fight with
 him: for thou art but a youth, and he [is] a man of war [trained] from his
-youth." ([1 Sam.
-17:33](https://www.lds.org/scriptures/ot/1-sam/17.33?lang=eng#32).)
+youth." ([1 Sam. 17:33](/scriptures/ot/1-sam/17.33?lang=eng#32).)
 
 David then persuaded Saul to let him try. He told the king of how he had
 fought with a lion and a bear to save his father's sheep and concluded by
 saying that the Lord would deliver him out of the hand of the Philistine.
 Saul, possibly thinking that one more life lost would not be serious among the
 great losses they had already sustained, said to David, "Go, and the Lord be
-with thee." ([1 Sam.
-17:37](https://www.lds.org/scriptures/ot/1-sam/17.37?lang=eng#36).)
+with thee." ([1 Sam. 17:37](/scriptures/ot/1-sam/17.37?lang=eng#36).)
 
 Saul then placed armor on David until the boy could scarcely walk. David said
 unto the king, "I cannot wear this," and he took the armor off.
 
 He then "took his staff in his hand, and chose him five smooth stones out of
 the brook, and put them in a shepherd's bag which he had ... and his sling was
-in his hand." ([1 Sam.
-17:40](https://www.lds.org/scriptures/ot/1-sam/17.40?lang=eng#39).)
+in his hand." ([1 Sam. 17:40](/scriptures/ot/1-sam/17.40?lang=eng#39).)
 
 This stripling of a boy, with only a slingshot and five stones and without any
 armor other than the armor of faith, went down into the valley to face
@@ -77,14 +73,13 @@ Then David spoke these great words:
 "Thou comest to me with a sword, and with a spear, and with a shield: but I
 come to thee in the name of the Lord of hosts, the God of the armies of
 Israel, whom thou hast defied. [[1 Sam.
-17:45](https://www.lds.org/scriptures/ot/1-sam/17.45?lang=eng#44)]
+17:45](/scriptures/ot/1-sam/17.45?lang=eng#44)]
 
 "This day will the Lord deliver thee into mine hand; and I will smite thee,
 and take thine head from thee; and I will give the carcases of the host of the
 Philistines this day unto the fowls of the air, and to the wild beasts of the
 earth; that all the earth may know that there is a God in Israel." (adapted
-from [1 Sam.
-17:42-46](https://www.lds.org/scriptures/ot/1-sam/17.42-46?lang=eng#41).)
+from [1 Sam. 17:42-46](/scriptures/ot/1-sam/17.42-46?lang=eng#41).)
 
 That was brave talk for a boy who stood against a nine-foot giant.
 
@@ -92,7 +87,7 @@ In anger Goliath came at him. Then David, running toward the giant, "put his
 hand in his bag, and took thence a stone, and slang it, and smote the
 Philistine in his forehead, that the stone sunk into his forehead; and he fell
 upon his face to the earth." ([1 Sam.
-17:49](https://www.lds.org/scriptures/ot/1-sam/17.49?lang=eng#48).)
+17:49](/scriptures/ot/1-sam/17.49?lang=eng#48).)
 
 You know the rest of that story. I would like to bring it down into your own
 lives. There are Goliaths all around you, hulking giants with evil intent to
@@ -220,4 +215,6 @@ bought with hardware and gadgetry.
 God bless you, my brethren, young and old, that the watch-care of the Lord may
 be over you, that you may stay close to Him and be deserving of His preserving
 hand, I humbly ask, in the name of Jesus Christ, amen.
+
+## References
 

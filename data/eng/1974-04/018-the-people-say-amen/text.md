@@ -13,7 +13,7 @@ Holy Spirit was here also. Everyone in the great Tabernacle felt the presence
 of that divine influence. It was experienced also by those who listened on the
 radio and witnessed the proceedings by television. And as was the case in the
 days of Moses, "All the people ... say, Amen." (See [Deut.
-27](https://www.lds.org/scriptures/ot/deut/27.title?lang=eng).)
+27](/scriptures/ot/deut/27?lang=eng).)
 
 And what a wonderful man has been chosen. Having directed the Council of the
 Twelve for several years, and having served as President of the Church by
@@ -65,8 +65,8 @@ purposes.
 President Kimball is a firm believer in the words of Nephi who said, "... I know
 that the Lord giveth no commandment unto the children of men, save he shall
 prepare a way for them that they may accomplish the thing which he commandeth
-them." ([1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).)
-This is part and parcel of his faith. It is the secret of his success.
+them." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).) This is part and
+parcel of his faith. It is the secret of his success.
 
 The program of the Lord will go forward now as it always has done, for the
 Almighty will work through, and daily direct, President Spencer W. Kimball.
@@ -91,7 +91,7 @@ speaking of his leaders, said:
 "And whatsoever they shall speak when moved upon by the Holy Ghost shall be
 scripture, shall be the will of the Lord, shall be the mind of the Lord, shall
 be the word of the Lord, shall be the voice of the Lord, and the power of God
-unto salvation." ([D&amp;C 68:3-4](https://www.lds.org/scriptures/dc-
+unto salvation." ([D&amp;C 68:3-4](/scriptures/dc-
 testament/dc/68.3-4?lang=eng#2).)
 
 As members of the Church, by voting to sustain our new President, we have
@@ -99,15 +99,15 @@ placed ourselves under a solemn covenant to give diligent heed to the words of
 eternal life as he gives them to us.
 
 The modern word of the Lord says, "... You shall live by every word that
-proceedeth forth from the mouth of God." ([D&amp;C
-84:44](https://www.lds.org/scriptures/dc-testament/dc/84.44?lang=eng#43).)
+proceedeth forth from the mouth of God." ([D&amp;C 84:44](/scriptures/dc-
+testament/dc/84.44?lang=eng#43).)
 
 And how are we to receive that word? Through his prophet!
 
 That has been the divine pattern from the beginning. Through Amos came the
 revelation saying, "Surely the Lord God will do nothing, but he revealeth his
 secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 This was the Lord's pattern throughout the Old Testament. It was true in New
 Testament times, and it is true today.
@@ -128,15 +128,14 @@ commandments which he shall give unto you as he receiveth them, walking in all
 holiness before me;
 
 "For his word ye shall receive, as if from mine own mouth, in all patience and
-faith." ([D&amp;C 21:4-5](https://www.lds.org/scriptures/dc-
-testament/dc/21.4-5?lang=eng#3).)
+faith." ([D&amp;C 21:4-5](/scriptures/dc-testament/dc/21.4-5?lang=eng#3).)
 
 Then followed this great promise if we will thus obey:
 
 "For by doing these things the gates of hell shall not prevail against you;
 yea, and the Lord God will disperse the powers of darkness from before you,
 and cause the heavens to shake for your good, and his name's glory." ([D&amp;C
-21:6](https://www.lds.org/scriptures/dc-testament/dc/21.6?lang=eng#5).)
+21:6](/scriptures/dc-testament/dc/21.6?lang=eng#5).)
 
 What more can we ask?
 
@@ -144,31 +143,28 @@ This points up a great principle--an added lesson--that we must learn from
 today's voting. It is that there can be only one head of Christ's church on
 earth at one time, and he must be chosen and sustained just as President
 Kimball was today. No man can take it unto himself. He must be called of God
-as was Aaron. (See [Heb.
-5:4](https://www.lds.org/scriptures/nt/heb/5.4?lang=eng#3).)
+as was Aaron. (See [Heb. 5:4](/scriptures/nt/heb/5.4?lang=eng#3).)
 
 Neither does the Lord allow for any secret ordinations in his work. To be
 valid, everything is done publicly and by the vote of the people. Said the
 Savior, "... It shall not be given to any one to go forth to preach my gospel,
 or to build up my church, except he be ordained by some one who has authority,
 _and it is known to the church that he has authority and has been regularly
-ordained by the heads of the church._" ([D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10).
-Italics added.)
+ordained by the heads of the church._" ([D&amp;C 42:11](/scriptures/dc-
+testament/dc/42.11?lang=eng#10). Italics added.)
 
 And then the Lord said, "... All things shall be done by common consent in the
 church, ..." which means by public knowledge and public vote. ([D&amp;C
-26:2](https://www.lds.org/scriptures/dc-testament/dc/26.2?lang=eng#1).)
+26:2](/scriptures/dc-testament/dc/26.2?lang=eng#1).)
 
 And he said further, "No person is to be ordained to any office in this
 church, where there is a regularly organized branch of the same, without the
-vote of that church." ([D&amp;C 20:65](https://www.lds.org/scriptures/dc-
+vote of that church." ([D&amp;C 20:65](/scriptures/dc-
 testament/dc/20.65?lang=eng#64).)
 
 And again, "And a commandment I give unto you, that you should fill all these
 offices and approve of those names which I have mentioned, or else disapprove
-of them at my general conference." ([D&amp;C
-124:144](https://www.lds.org/scriptures/dc-
+of them at my general conference." ([D&amp;C 124:144](/scriptures/dc-
 testament/dc/124.144?lang=eng#143).)
 
 This rules out cultists of all kinds, false teachers and false leaders of
@@ -250,7 +246,7 @@ directs and conducts his work.
 
 Surely Amos spoke truly when he said, "... the Lord God will do nothing, but he
 revealeth his secret unto his servants the prophets." ([Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 In the words of President Wilford Woodruff, "Let me exhort all elders of
 Israel and Saints of God to rise up in the majesty and dignity of their
@@ -265,4 +261,6 @@ have said here today is true. God our Heavenly Father lives. This Church is
 his church. Jesus our Savior directs the work. And President Kimball is his
 prophet! This I solemnly testify by all that I hold sacred and in the holy
 name of the Lord Jesus Christ. Amen.
+
+## References
 

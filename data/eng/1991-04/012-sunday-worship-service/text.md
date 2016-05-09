@@ -27,9 +27,9 @@ remembrance of his body and blood, symbolizing his resurrection and atonement.
 We should think about his life and sacrifice during the passing of the
 sacrament. Our sacrament meeting should be a time to talk of Christ, rejoice
 in Christ, preach of Christ, and prophesy of Christ, to paraphrase Nephi. (See
-[2 Ne. 25:26](https://www.lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25).)
-It's also a time to learn the doctrines of the Church, to feel the Spirit, and
-to be spiritually enlightened.
+[2 Ne. 25:26](/scriptures/bofm/2-ne/25.26?lang=eng#25).) It's also a time to
+learn the doctrines of the Church, to feel the Spirit, and to be spiritually
+enlightened.
 
 Sacrament meeting is so important that the Lord revealed specific instructions
 about the meeting to Joseph Smith. That message is recorded in the fifty-ninth
@@ -49,8 +49,8 @@ and before the Lord.
 
 "And on this day thou shalt do none other thing, only let thy food be prepared
 with singleness of heart that thy fasting may be perfect, or, in other words,
-that thy joy may be full." ([D&amp;C 59:9-13](https://www.lds.org/scriptures
-/dc-testament/dc/59.9-13?lang=eng#8).)
+that thy joy may be full." ([D&amp;C 59:9-13](/scriptures/dc-
+testament/dc/59.9-13?lang=eng#8).)
 
 That our joy may be full. Our experience in sacrament meeting should be filled
 with joy.
@@ -73,8 +73,8 @@ service for Jesus, where we show him we love him. You may be surprised at how
 much your children understand about this. Alma tells us in the Book of Mormon
 that "little children do have words given to them many times, which confound
 the wise and the learned." ([Alma
-32:23](https://www.lds.org/scriptures/bofm/alma/32.23?lang=eng#22).) They can
-be very sensitive to the Spirit. We love our children.
+32:23](/scriptures/bofm/alma/32.23?lang=eng#22).) They can be very sensitive
+to the Spirit. We love our children.
 
 Number three, _sing enthusiastic praises to God._ As we sing wholeheartedly,
 reaffirming our love for the Savior, we can feel the Spirit. I must admit that
@@ -111,11 +111,10 @@ to us.
 
 Do you know where to find the sacrament prayers? In the Doctrine and
 Covenants, the twentieth section, or in the Book of Mormon, Moroni chapters 4
-and 5 [[D&amp;C 20](https://www.lds.org/scriptures/dc-
-testament/dc/20.title?lang=eng); [Moro. 4,
-5](https://www.lds.org/scriptures/bofm/moro/4.title?lang=eng)]. In these
-sacrament prayers for the bread and for the water, symbolic of the body and
-the blood of the Savior, you witness (or promise) certain things.
+and 5 [[D&amp;C 20](/scriptures/dc-testament/dc/20?lang=eng); [Moro. 4,
+5](/scriptures/bofm/moro/4?lang=eng)]. In these sacrament prayers for the
+bread and for the water, symbolic of the body and the blood of the Savior, you
+witness (or promise) certain things.
 
 As you partake of the sacrament, you witness that you are willing to take the
 name of Jesus Christ, the Son, upon you. This means that you are willing to be
@@ -129,7 +128,7 @@ We read in Second Nephi chapter 25, verse 29, "The right way is to believe in
 Christ, and deny him not; and Christ is the Holy One of Israel; wherefore ye
 must bow down before him, and worship him with all your might, mind, and
 strength, and your whole soul." [[2 Ne.
-25:29](https://www.lds.org/scriptures/bofm/2-ne/25.29?lang=eng#28)]
+25:29](/scriptures/bofm/2-ne/25.29?lang=eng#28)]
 
 That we may make sacrament meeting a joyful time for worshipping our Savior, I
 pray.
@@ -140,4 +139,6 @@ prayer, and reading of the scriptures. This is his divine church. Through the
 Prophet Joseph Smith the Lord ushered in the fulness of the gospel in this
 last dispensation of time. President Ezra Taft Benson is our true and living
 prophet, and I say this in the name of Jesus Christ, amen.
+
+## References
 

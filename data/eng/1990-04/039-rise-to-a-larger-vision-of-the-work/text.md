@@ -128,7 +128,7 @@ I believe, and I have always believed, as far back as I can remember, that
 tithing is the Lord's law of finance. In a revelation given on 8 July 1838, He
 indicated that His saints "shall pay one-tenth of all their interest annually;
 and this shall be a standing law unto them forever, for my holy priesthood,
-saith the Lord." ([D&amp;C 119:4](https://www.lds.org/scriptures/dc-
+saith the Lord." ([D&amp;C 119:4](/scriptures/dc-
 testament/dc/119.4?lang=eng#3).)
 
 The Brethren have interpreted the word _interest _to mean income. Beyond that
@@ -139,8 +139,8 @@ system under which the tithes should be disbursed. He said: "Verily, thus
 saith the Lord, the time is now come, that it shall be disposed of by a
 council, composed of the First Presidency of my Church, and of the bishop and
 his council, and by my high council; and by mine own voice unto them, saith
-the Lord. Even so. Amen." ([D&amp;C 120](https://www.lds.org/scriptures/dc-
-testament/dc/120.title?lang=eng).)
+the Lord. Even so. Amen." ([D&amp;C 120](/scriptures/dc-
+testament/dc/120?lang=eng).)
 
 That same system obtains and governs today as was prescribed when the
 revelation was first given. Each Tuesday of the year, with the exception of
@@ -268,9 +268,11 @@ showered upon you those precious gifts which come from the God of heaven, who
 is our Eternal Father, and His divine Son, who is our Redeemer and who
 declared, "Seek ye first the kingdom of God, and his righteousness; and all
 these things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).)
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).)
 
 This is the work of the Almighty. Let us never forget that. It is the work of
 His Son, our Savior. Of this I testify as I invoke these blessings upon you in
 the name of Jesus Christ, amen.
+
+## References
 

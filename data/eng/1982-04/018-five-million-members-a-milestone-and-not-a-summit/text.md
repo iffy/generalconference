@@ -18,8 +18,7 @@ It was God who planted in the hearts of men and women the faith to see a
 chosen prophet in the young man Joseph Smith. It was the Spirit of God that
 opened their eyes to the miracle of this remarkable Book of Mormon, which was
 brought forth as a voice speaking from the dust in testimony that Jesus is the
-Christ. (See [2 Ne.
-33:13](https://www.lds.org/scriptures/bofm/2-ne/33.13?lang=eng#12).)
+Christ. (See [2 Ne. 33:13](/scriptures/bofm/2-ne/33.13?lang=eng#12).)
 
 He it was who gave strength and courage when the very powers of hell were
 marshaled against the infant Church and against those few who comprised its
@@ -40,8 +39,8 @@ strength, we are any nearer perfection in the virtue of our individual lives.
 The milestone of five million members has real significance only to the degree
 that we as a people bring the gospel into our lives and demonstrate its fruits
 in our actions. The Lord has reminded us in no uncertain terms that "of him
-unto whom much is given much is required." ([D&amp;C
-82:3](https://www.lds.org/scriptures/dc-testament/dc/82.3?lang=eng#2).)
+unto whom much is given much is required." ([D&amp;C 82:3](/scriptures/dc-
+testament/dc/82.3?lang=eng#2).)
 
 As we go forward we must never be distracted from the great and compelling
 triad of responsibility laid upon the Church to, first, carry the gospel of
@@ -55,7 +54,7 @@ this must be only a milestone and not a summit.
 The Lord set the parameters of this work when he declared, "And this gospel of
 the kingdom shall be preached in all the world for a witness unto all nations;
 and then shall the end come." ([Matt.
-24:14](https://www.lds.org/scriptures/nt/matt/24.14?lang=eng#13).)
+24:14](/scriptures/nt/matt/24.14?lang=eng#13).)
 
 This is our great challenge and our responsibility.
 
@@ -74,13 +73,13 @@ him, showing that love through service to others of his children. His Beloved
 Son is our Savior, who gave his life on the cross of Calvary as a vicarious
 sacrifice for the sins of mankind. By the power of his divine Sonship he rose
 from the grave, becoming "the firstfruits of them that slept" ([1 Cor.
-15:20](https://www.lds.org/scriptures/nt/1-cor/15.20?lang=eng#19)), assuring
-for all a resurrection from the dead and inviting each of us to partake of
-eternal life according to our obedience to his laws and commandments.
+15:20](/scriptures/nt/1-cor/15.20?lang=eng#19)), assuring for all a
+resurrection from the dead and inviting each of us to partake of eternal life
+according to our obedience to his laws and commandments.
 
 They, that is, the Father and the Son, appeared to the boy Joseph Smith in a
 most glorious and wonderful manifestation to open this, the dispensation of
-the fulness of times. (See [D&amp;C 112:30](https://www.lds.org/scriptures/dc-
+the fulness of times. (See [D&amp;C 112:30](/scriptures/dc-
 testament/dc/112.30?lang=eng#29).) All of the elements of previous bestowals
 of divine teaching and authority are now brought together through restoration
 in a final and everlasting dispensation.
@@ -101,23 +100,21 @@ tempting, in fulfillment of the words of Nephi, to commit "a little sin; yea,
 lie a little, take the advantage of one because of his words, dig a pit for
 thy neighbor; ... turn aside the just for a thing of naught and revile against
 that which is good." ([2 Ne. 28:8,
-16](https://www.lds.org/scriptures/bofm/2-ne/28.8%2C16?lang=eng#7).)
+16](/scriptures/bofm/2-ne/28.8,16?lang=eng#7).)
 
 Said the Savior while speaking on the mount: "Let your light so shine before
 men, that they may see your good works, and glorify your Father which is in
-heaven." ([Matt.
-5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15).)
+heaven." ([Matt. 5:16](/scriptures/nt/matt/5.16?lang=eng#15).)
 
 If we as a people will walk with integrity, will be honest and moral in our
 actions, will put into our lives the simple and basic and wonderful principle
 of the Golden Rule, others will be led to inquire and learn. We shall become
 as a city set upon a hill whose light cannot be hid. (See [Matt.
-5:14](https://www.lds.org/scriptures/nt/matt/5.14?lang=eng#13).) We shall
-witness an ever-growing fulfillment of the promise of Isaiah: "And many people
-shall go and say, Come ye, and let us go up to the mountain of the Lord, to
-the house of the God of Jacob; and he will teach us of his ways, and we will
-walk in his paths." ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2).)
+5:14](/scriptures/nt/matt/5.14?lang=eng#13).) We shall witness an ever-growing
+fulfillment of the promise of Isaiah: "And many people shall go and say, Come
+ye, and let us go up to the mountain of the Lord, to the house of the God of
+Jacob; and he will teach us of his ways, and we will walk in his paths."
+([Isa. 2:3](/scriptures/ot/isa/2.3?lang=eng#2).)
 
 My third imperative: We must work more diligently to cultivate a spirit of
 love and charity in our homes.
@@ -208,8 +205,7 @@ strengthen and sustain one another.
 
 The Lord has admonished us: "Therefore, strengthen your brethren in all your
 conversation, in all your prayers, in all your exhortations, and in all your
-doings." ([D&amp;C 108:7](https://www.lds.org/scriptures/dc-
-testament/dc/108.7?lang=eng#6).)
+doings." ([D&amp;C 108:7](/scriptures/dc-testament/dc/108.7?lang=eng#6).)
 
 We live in a society that feeds on criticism. Faultfinding is the substance of
 columnists and commentators, and there is too much of this among our own
@@ -229,7 +225,7 @@ not, little flock; do good; let earth and hell combine against you, for if ye
 are built upon my rock, they cannot prevail.
 
 "Look unto me in every thought; doubt not, fear not." ([D&amp;C 6:34,
-36](https://www.lds.org/scriptures/dc-testament/dc/6.34%2C36?lang=eng#33).)
+36](/scriptures/dc-testament/dc/6.34,36?lang=eng#33).)
 
 I urge you to see the big picture and cease worrying about the little
 blemishes. Abraham Lincoln was a gangling figure of a man, with a long and
@@ -262,8 +258,10 @@ made in the past to bring us to this level of growth. Lives were forfeited,
 and those not a few. We are not asked to give up our lives, and actually very
 little of our comfort. But we are expected to give of our loyalty, our
 devotion, our hearts, minds, might, and strength to the on-rolling of this,
-the Lord's work. (See [D&amp;C 59:5](https://www.lds.org/scriptures/dc-
+the Lord's work. (See [D&amp;C 59:5](/scriptures/dc-
 testament/dc/59.5?lang=eng#4).) God help us to be faithful, as those before us
 have been faithful, as we walk toward the light of an even brighter and more
 significant day, I humbly pray in the name of Jesus Christ, amen.
+
+## References
 

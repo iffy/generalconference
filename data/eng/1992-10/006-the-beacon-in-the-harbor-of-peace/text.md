@@ -24,14 +24,12 @@ Latter-day Saints is that there is but one guiding hand in the universe, only
 one truly infallible light, one unfailing beacon to the world. That light is
 Jesus Christ, the light and life of the world, the light which one Book of
 Mormon prophet described as "a light that is endless, that can never be
-darkened." ([Mosiah
-16:9](https://www.lds.org/scriptures/bofm/mosiah/16.9?lang=eng#8).)
+darkened." ([Mosiah 16:9](/scriptures/bofm/mosiah/16.9?lang=eng#8).)
 
 As we search for the shore of safety and peace, whether we be individual women
 and men, families, communities, or nations, Christ is the only beacon on which
 we can ultimately rely. He is the one who said of his mission, "I am the way,
-the truth, and the life." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).)
+the truth, and the life." ([John 14:6](/scriptures/nt/john/14.6?lang=eng#5).)
 
 In this age, as in every age before us and in every age that will follow, the
 greatest need in all the world is an active and sincere faith in the basic
@@ -43,7 +41,7 @@ power and peace of a righteous, gentle life.
 Consider, for example, this instruction from Christ to his disciples. He said,
 "Love your enemies, bless them that curse you, do good to them that hate you,
 and pray for them which despitefully use you, and persecute you." ([Matt.
-5:44](https://www.lds.org/scriptures/nt/matt/5.44?lang=eng#43).)
+5:44](/scriptures/nt/matt/5.44?lang=eng#43).)
 
 Think what this admonition alone would do in your neighborhood and mine, in
 the communities in which you and your children live, in the nations which make
@@ -72,7 +70,7 @@ forgiveth not his brother his trespasses standeth condemned before the Lord;
 for there remaineth in him the greater sin.
 
 "I, the Lord, will forgive whom I will forgive, but of you it is required to
-forgive all men." ([D&amp;C 64:8-10](https://www.lds.org/scriptures/dc-
+forgive all men." ([D&amp;C 64:8-10](/scriptures/dc-
 testament/dc/64.8-10?lang=eng#7).)
 
 In the majesty of his life and the example of his teachings, Christ gave us
@@ -128,7 +126,7 @@ where all would one day hope to be. The crew as well as his disciples were
 filled with deep amazement. Some of them addressed him by a title which I
 declare today: "Truly thou art the Son of God." (Adapted from Farrar, _The
 Life of Christ,_ pp. 310-13; see [Matt.
-14:22-33](https://www.lds.org/scriptures/nt/matt/14.22-33?lang=eng#21).)
+14:22-33](/scriptures/nt/matt/14.22-33?lang=eng#21).)
 
 It is my firm belief that if as individual people, as families, communities,
 and nations, we could, like Peter, fix our eyes on Jesus, we too might walk
@@ -143,7 +141,9 @@ At such times when we feel the floods are threatening to drown us and the deep
 is going to swallow up the tossed vessel of our faith, I pray we may always
 hear amid the storm and the darkness that sweet utterance of the Savior of the
 world: "Be of good cheer; it is I; be not afraid." ([Matt.
-14:27](https://www.lds.org/scriptures/nt/matt/14.27?lang=eng#26).)
+14:27](/scriptures/nt/matt/14.27?lang=eng#26).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

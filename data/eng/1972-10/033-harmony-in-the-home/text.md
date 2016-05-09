@@ -52,8 +52,7 @@ stirreth up the hearts of men to contend with anger, one with another.
 
 "Behold, this is not my doctrine, to stir up the hearts of men with anger, one
 against another; but this is my doctrine, that such things should be done
-away." ([3 Ne.
-11:28-30](https://www.lds.org/scriptures/bofm/3-ne/11.28-30?lang=eng#27).)
+away." ([3 Ne. 11:28-30](/scriptures/bofm/3-ne/11.28-30?lang=eng#27).)
 
 Over 2,000 years ago the great King Benjamin gave warning and wise counsel to
 the people of his day--and to us also. We read in Mosiah:
@@ -66,7 +65,7 @@ righteousness.
 
 "But ye will teach them to walk in the ways of truth and soberness: ye will
 teach them to love one another, and to serve one another." ([Mosiah
-4:14-15](https://www.lds.org/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
+4:14-15](/scriptures/bofm/mosiah/4.14-15?lang=eng#13).)
 
 From the scripture we see that King Benjamin points out in a very positive way
 how we can help our children, for he said we shall teach them truth, teach
@@ -151,4 +150,6 @@ the Christ; and I want you to know that I know he established his kingdom on
 the earth for our blessing and for our benefit. I testify that there is a
 prophet on the earth, and I testify that we will be happy if we follow his
 teachings, in the name of Jesus Christ. Amen.
+
+## References
 

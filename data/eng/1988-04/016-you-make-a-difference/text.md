@@ -7,20 +7,18 @@ how excellent is thy name in all the earth! ...
 which thou hast ordained;
 
 "What is man, that thou art mindful of him?" ([Ps. 8:1,
-3-4](https://www.lds.org/scriptures/ot/ps/8.1%2C3-4?lang=eng#0)).
+3-4](/scriptures/ot/ps/8.1,3-4?lang=eng#0)).
 
 Job, that righteous man of old, joined in the question when he asked, "What is
 man, that thou shouldest magnify him? and that thou shouldest set thine heart
-upon him?" ([Job
-7:17](https://www.lds.org/scriptures/ot/job/7.17?lang=eng#16)).
+upon him?" ([Job 7:17](/scriptures/ot/job/7.17?lang=eng#16)).
 
 One need not grope for answers to these penetrating questions when in your
 presence here in the historic Tabernacle or with you in the many meeting
 places throughout the world where you have assembled. "Ye are a chosen
 generation, a royal priesthood, an holy nation" ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)). "Ye ... are ... a
-spiritual house, an holy priesthood" ([1 Pet.
-2:5](https://www.lds.org/scriptures/nt/1-pet/2.5?lang=eng#4)).
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)). "Ye ... are ... a spiritual house, an
+holy priesthood" ([1 Pet. 2:5](/scriptures/nt/1-pet/2.5?lang=eng#4)).
 
 As bearers of the priesthood, we have been placed on earth in troubled times.
 We live in a complex world with currents of conflict everywhere to be found.
@@ -97,22 +95,20 @@ doubt which surrounded them. We cannot help but be inspired in our efforts as
 we remember their examples.
 
 From Nephi: "I will go and do the things which the Lord hath commanded" ([1
-Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)).
+Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)).
 
 From Samuel: "To obey is better than sacrifice, and to hearken than the fat of
-rams" ([1 Sam.
-15:22](https://www.lds.org/scriptures/ot/1-sam/15.22?lang=eng#21)).
+rams" ([1 Sam. 15:22](/scriptures/ot/1-sam/15.22?lang=eng#21)).
 
 From Paul: "For I am not ashamed of the gospel of Christ: for it is the power
-of God unto salvation" ([Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15)).
+of God unto salvation" ([Rom. 1:16](/scriptures/nt/rom/1.16?lang=eng#15)).
 
 From Job: "I know that my redeemer liveth" ([Job
-19:25](https://www.lds.org/scriptures/ot/job/19.25?lang=eng#24)).
+19:25](/scriptures/ot/job/19.25?lang=eng#24)).
 
 From Joseph: "I am calm as a summer's morning; I have a conscience void of
-offense towards God, and towards all men" ([D&amp;C
-135:4](https://www.lds.org/scriptures/dc-testament/dc/135.4?lang=eng#3)).
+offense towards God, and towards all men" ([D&amp;C 135:4](/scriptures/dc-
+testament/dc/135.4?lang=eng#3)).
 
 These noble leaders made a difference in their own times. What about today?
 How about me?
@@ -147,18 +143,17 @@ cheerful, thrifty, brave, clean and reverent.
 The influence of your personal testimonies is ever so far-reaching. The Lord
 instructed: "The testimony which ye have borne is recorded in heaven for the
 angels to look upon; and they rejoice over you, and your sins are forgiven
-you" ([D&amp;C 62:3](https://www.lds.org/scriptures/dc-
-testament/dc/62.3?lang=eng#2)).
+you" ([D&amp;C 62:3](/scriptures/dc-testament/dc/62.3?lang=eng#2)).
 
 He also cautioned us: "With some I am not well pleased, for they will not open
 their mouths, but they hide the talent which I have given unto them, because
-of the fear of man" ([D&amp;C 60:2](https://www.lds.org/scriptures/dc-
+of the fear of man" ([D&amp;C 60:2](/scriptures/dc-
 testament/dc/60.2?lang=eng#1)).
 
 You never know when your turn will come to comply with the admonition of Peter
 to "be ready always to give an answer to every man that asketh you a reason of
 the hope that is in you" ([1 Pet.
-3:15](https://www.lds.org/scriptures/nt/1-pet/3.15?lang=eng#14)).
+3:15](/scriptures/nt/1-pet/3.15?lang=eng#14)).
 
 Some years ago I had the opportunity to address a business convention in
 Dallas, Texas, sometimes called "the city of churches." After the convention,
@@ -233,7 +228,8 @@ barnacles of sin, to prepare for our time of opportunity, and to honor the
 priesthood we bear through the service we render, the lives we bless, and the
 souls we are privileged to help save. You are "a chosen generation, a royal
 priesthood, an holy nation" ([1 Pet.
-2:9](https://www.lds.org/scriptures/nt/1-pet/2.9?lang=eng#8)), and you can
-make a difference. To these truths I testify, in the name of Jesus Christ,
-amen.
+2:9](/scriptures/nt/1-pet/2.9?lang=eng#8)), and you can make a difference. To
+these truths I testify, in the name of Jesus Christ, amen.
+
+## References
 

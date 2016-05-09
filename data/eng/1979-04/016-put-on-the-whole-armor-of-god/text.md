@@ -67,7 +67,7 @@ all the fiery darts of the wicked.
 word of God:
 
 "Praying always with all prayer and supplication in the Spirit." ([Eph.
-6:11-18](https://www.lds.org/scriptures/nt/eph/6.11-18?lang=eng#10).)
+6:11-18](/scriptures/nt/eph/6.11-18?lang=eng#10).)
 
 The great unrest in the world today and the wars and rumors of wars are
 affecting us greatly; but as Paul says, our greatest and most deadly struggle
@@ -83,7 +83,7 @@ I should like to give you from the scriptures some examples which show how
 those who are clothed in such armor, which means keeping _all_ the
 commandments of God, are able to withstand the adversary, or their enemies.
 Let me tell you about David (see [1 Sam.
-17](https://www.lds.org/scriptures/ot/1-sam/17.title?lang=eng)).
+17](/scriptures/ot/1-sam/17?lang=eng)).
 
 The Philistines were at war with Israel, and Goliath, the Philistine, was
 challenging Israel to send a man to fight him, with the understanding that the
@@ -109,7 +109,7 @@ the God of the armies of Israel, whom thou hast defied.
 
 "This day will the Lord deliver thee into mine hand; ... that all the earth may
 know that there is a God in Israel." ([1 Sam.
-17:44-46](https://www.lds.org/scriptures/ot/1-sam/17.44-46?lang=eng#43).)
+17:44-46](/scriptures/ot/1-sam/17.44-46?lang=eng#43).)
 
 Then David, clothed with the armor of God, took a stone from his bag and, with
 his sling, shot it into the forehead of Goliath, an unprotected part of his
@@ -123,10 +123,9 @@ ourselves the protection offered through keeping the commandments.
 
 Another example of the protection which comes from the whole armor of God is
 found in the life of Joseph who was sold into Egypt (see [Gen.
-37](https://www.lds.org/scriptures/ot/gen/37.title?lang=eng), [Gen.
-39-47](https://www.lds.org/scriptures/ot/gen/39.title?lang=eng)). From his
-youth he was a faithful and true young man, always keeping the commandments of
-God.
+37](/scriptures/ot/gen/37?lang=eng), [Gen.
+39-47](/scriptures/ot/gen/39?lang=eng)). From his youth he was a faithful and
+true young man, always keeping the commandments of God.
 
 Because he was favored by his father, Joseph's brothers were jealous of him
 and plotted to kill him; but his brother Reuben prevailed upon them to spare
@@ -135,7 +134,7 @@ Egypt, and sold to Potiphar, captain of the king's guard.
 
 Potiphar soon recognized his worth and made him overseer over all that he had.
 The Bible says that "Joseph was a goodly person, and well favoured" ([Gen.
-39:6](https://www.lds.org/scriptures/ot/gen/39.6?lang=eng#5)).
+39:6](/scriptures/ot/gen/39.6?lang=eng#5)).
 
 Thus it was that his master's wife desired him, but Joseph refused her
 advances, and he fled from her. She caught hold of his cloak, which he left in
@@ -176,11 +175,10 @@ armor so we can do what is right and not submit to temptation.
 
 Now another example: I suppose no one had more or greater experiences
 regarding the protection which comes from wearing the whole armor of God than
-did Daniel (see [Dan.
-1-2](https://www.lds.org/scriptures/ot/dan/1.title?lang=eng), [Dan.
-6](https://www.lds.org/scriptures/ot/dan/6.title?lang=eng)). At the summons of
-King Nebuchadnezzar, he, with other chosen children of Israel, was brought to
-live in the king's palace for certain training.
+did Daniel (see [Dan. 1-2](/scriptures/ot/dan/1?lang=eng), [Dan.
+6](/scriptures/ot/dan/6?lang=eng)). At the summons of King Nebuchadnezzar, he,
+with other chosen children of Israel, was brought to live in the king's palace
+for certain training.
 
 They were to be carefully nourished for three years, at which time they would
 stand before the king. Apparently they were to be fed with the choicest of
@@ -215,8 +213,7 @@ treasures;
 
 "And I, the Lord, give unto them a promise, that the destroying angel shall
 pass by them, as the children of Israel, and not slay them." ([D&amp;C
-89:18-21](https://www.lds.org/scriptures/dc-
-testament/dc/89.18-21?lang=eng#17).)
+89:18-21](/scriptures/dc-testament/dc/89.18-21?lang=eng#17).)
 
 Each of these promises was fulfilled in behalf of Daniel and his friends in
 the following accounts of their most interesting experiences.
@@ -237,7 +234,7 @@ eventually be established upon the earth.
 The king was greatly impressed and said to Daniel, "Of a truth it is, that
 your God is a God of gods, and a Lord of kings, and a revealer of secrets,
 seeing thou couldest reveal this secret" ([Dan.
-2:47](https://www.lds.org/scriptures/ot/dan/2.47?lang=eng#46)).
+2:47](/scriptures/ot/dan/2.47?lang=eng#46)).
 
 Daniel was still in favor with the next two succeeding kings, but the king's
 advisers were jealous and tried to find some reason to discredit Daniel. They
@@ -253,14 +250,13 @@ required that no decree may be changed but must be carried out.
 
 As Daniel was cast into the den of lions, the disturbed king said to him, "Thy
 God whom thou servest continually, he will deliver thee" ([Dan.
-6:16](https://www.lds.org/scriptures/ot/dan/6.16?lang=eng#15)).
+6:16](/scriptures/ot/dan/6.16?lang=eng#15)).
 
 He spent a sleepless night and went early to the den of lions, where he
 rejoiced to find Daniel still alive, who said to him, "My God hath sent his
 angel, and hath shut the lions' mouths, that they have not hurt me: forasmuch
 as before him innocency was found in me; and also before thee, O king, have I
-done no hurt" ([Dan.
-6:22](https://www.lds.org/scriptures/ot/dan/6.22?lang=eng#21)).
+done no hurt" ([Dan. 6:22](/scriptures/ot/dan/6.22?lang=eng#21)).
 
 The king had Daniel brought out of the lions' den and his accusers cast in,
 who were immediately killed by the hungry beasts.
@@ -330,7 +326,7 @@ covenant of my Father, which he cannot break, neither can it be moved.
 
 "But whoso breaketh this covenant after he hath received it, and altogether
 turneth therefrom, shall not have forgiveness of sins in this world, nor in
-the world to come." ([D&amp;C 84:33-41](https://www.lds.org/scriptures/dc-
+the world to come." ([D&amp;C 84:33-41](/scriptures/dc-
 testament/dc/84.33-41?lang=eng#32).)
 
 Brethren, we are greatly blessed to know that God lives and we are his spirit
@@ -344,4 +340,6 @@ instructions of our present-day prophet, President Spencer W. Kimball.
 
 I exhort all of you to listen closely to his messages and follow him. In the
 name of Jesus Christ, amen.
+
+## References
 

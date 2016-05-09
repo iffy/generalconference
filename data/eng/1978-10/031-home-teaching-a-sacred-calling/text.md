@@ -12,7 +12,7 @@ the voice of the Lord. ...
 
 "And Adam and Eve blessed the name of God, and they made all things known unto
 their sons and their daughters." ([Moses 5:1, 4-5,
-12](https://www.lds.org/scriptures/pgp/moses/5.1%2C4-5%2C12?lang=eng#0).)
+12](/scriptures/pgp/moses/5.1,4-5,12?lang=eng#0).)
 
 The Lord, from the very beginning, has taught his children of their obligation
 and responsibility to look after one another. In the days of Adam and the
@@ -52,8 +52,8 @@ said.
 
 "And Moses chose able men out of all Israel, and made them heads over the
 people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers
-of tens." ([Ex. 18:13-15, 17-19, 24-25](https://www.lds.org/scriptures/ot/ex/1
-8.13-15%2C17-19%2C24-25?lang=eng#12).)
+of tens." ([Ex. 18:13-15, 17-19,
+24-25](/scriptures/ot/ex/18.13-15,17-19,24-25?lang=eng#12).)
 
 When the Savior was on the earth, the numbers grew who followed Him. He
 established an organization to teach and care for their needs. First He called
@@ -64,7 +64,7 @@ before his face into every city and place, whither he himself would come.
 "Therefore said he unto them, The harvest truly is great, but the labourers
 are few: pray ye therefore the Lord of the harvest, that he would send forth
 labourers into his harvest." ([Luke
-10:1-2](https://www.lds.org/scriptures/nt/luke/10.1-2?lang=eng#0).)
+10:1-2](/scriptures/nt/luke/10.1-2?lang=eng#0).)
 
 As His work continued to expand, we find more of His organization being put
 into place: "And he gave some, apostles; and some, prophets; and some,
@@ -80,7 +80,7 @@ Christ:
 "That we henceforth be no more children, tossed to and fro, and carried about
 with every wind of doctrine, by the sleight of men, and cunning craftiness,
 whereby they lie in wait to deceive." ([Eph.
-4:11-14](https://www.lds.org/scriptures/nt/eph/4.11-14?lang=eng#10).)
+4:11-14](/scriptures/nt/eph/4.11-14?lang=eng#10).)
 
 Through the ages the process of watching over the church has become a
 priesthood assignment and responsibility. One would expect, therefore, to find
@@ -100,15 +100,15 @@ other, neither lying, backbiting, nor evil speaking;
 members do their duty.
 
 "They are, however, to warn, expound, exhort, and teach, and invite all to
-come unto Christ." ([D&amp;C 20:53-55, 59](https://www.lds.org/scriptures/dc-
-testament/dc/20.53-55%2C59?lang=eng#52).)
+come unto Christ." ([D&amp;C 20:53-55, 59](/scriptures/dc-
+testament/dc/20.53-55,59?lang=eng#52).)
 
 There is a choice account of how this practice was carried out in the early
 days of the Church. History has recorded the testimony of Elder William
 Farrington Cahoon, as he filled his assignment as a teacher to the home of the
 Prophet Joseph Smith. The account is as follows:
 
-"Before I close my testimony ... , I wish to mention one circumstance which I
+"Before I close my testimony ..., I wish to mention one circumstance which I
 never shall forget: I was called and ordained to act as a teacher to visit the
 families of the Saints. I got along very well till I found that I was obliged
 to call and pay a visit to the Prophet. Being young [only about seventeen
@@ -226,4 +226,6 @@ God grant us the vision to see the potential of our home teaching assignments,
 and the desire to do his will to watch over and strengthen those whom we have
 been called to serve with a special spirit of interest, concern, and love, I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

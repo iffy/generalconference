@@ -17,21 +17,14 @@ Every member of the Church who has a testimony can be an effective missionary
 in sharing the gospel with nonmember friends, neighbors, and associates. You
 might ask, "How?" Here are a few suggestions:
 
-  1. Live the principles of the gospel. Keep the commandments.
-
-  2. Be honest and upright in all your dealings. Let your word always be as good as your bond.
-
-  3. Show love and appreciation by your attitude and by your works.
-
-  4. Be friendly and both willing and anxious to share the great blessings of the gospel.
-
-  5. Bear your testimony of the truthfulness of the gospel.
-
-  6. Beautify your home and other properties, as our prophet has just mentioned to you.
-
-  7. See that your dress and grooming conform to Church standards.
-
-  8. Follow the admonition of the Savior recorded in [Matt. 5:16](https://www.lds.org/scriptures/nt/matt/5.16?lang=eng#15), which embraces all of these things: "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+  1. Live the principles of the gospel. Keep the commandments. 
+  2. Be honest and upright in all your dealings. Let your word always be as good as your bond. 
+  3. Show love and appreciation by your attitude and by your works. 
+  4. Be friendly and both willing and anxious to share the great blessings of the gospel. 
+  5. Bear your testimony of the truthfulness of the gospel. 
+  6. Beautify your home and other properties, as our prophet has just mentioned to you. 
+  7. See that your dress and grooming conform to Church standards. 
+  8. Follow the admonition of the Savior recorded in [Matt. 5:16](/scriptures/nt/matt/5.16?lang=eng#15), which embraces all of these things: "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
 
 I frequently have the privilege of associating with the members of the First
 Presidency and the Council of the Twelve and with the other General
@@ -62,24 +55,18 @@ To any of you--either here or at home--who do not have a testimony or who
 would like to strengthen your testimony, I would recommend a few things that
 you can do to develop or strengthen a testimony.
 
-  1. Study the scriptures and other books written by Church leaders.
-
-  2. Keep the commandments, which include loving thy neighbor as thyself, being honest and upright, paying a full tithing, and keeping morally clean.
-
-  3. Attend sacrament meeting and other Church meetings, in which you can listen to the testimonies of the faithful members of the Church.
-
-  4. Associate with good people.
-
-  5. Stay out of the devil's territory by shunning evil.
-
-  6. Repent of all sins and imperfections, and repentance includes both confession and forsaking of such sins.
-
-  7. Pray to the Lord.
+  1. Study the scriptures and other books written by Church leaders. 
+  2. Keep the commandments, which include loving thy neighbor as thyself, being honest and upright, paying a full tithing, and keeping morally clean. 
+  3. Attend sacrament meeting and other Church meetings, in which you can listen to the testimonies of the faithful members of the Church. 
+  4. Associate with good people. 
+  5. Stay out of the devil's territory by shunning evil. 
+  6. Repent of all sins and imperfections, and repentance includes both confession and forsaking of such sins. 
+  7. Pray to the Lord. 
 
 In explaining how to gain a testimony of the Book of Mormon, Moroni taught
 these same principles. These are recorded in Moroni 10:4 [[Moro
-10:4](https://www.lds.org/scriptures/bofm/moro/10.4?lang=eng#3)], which are
-valuable in gaining a testimony of any part of the gospel:
+10:4](/scriptures/bofm/moro/10.4?lang=eng#3)], which are valuable in gaining a
+testimony of any part of the gospel:
 
 "And when ye shall receive these things, I would exhort you that ye would ask
 God, the Eternal Father, in the name of Christ, if these things are not true;
@@ -96,8 +83,7 @@ here on earth, we will not inherit celestial glory. In the epistle of James
 this principle is clearly taught: "Yea, a man may say, Thou hast faith, and I
 have works: shew me thy faith without thy works, and I will shew thee my faith
 by my works. ... But wilt thou know, O vain man, that faith without works is
-dead?" ([James 2:18,
-20](https://www.lds.org/scriptures/nt/james/2.18%2C20?lang=eng#17).) Plainly,
+dead?" ([James 2:18, 20](/scriptures/nt/james/2.18,20?lang=eng#17).) Plainly,
 we must have both faith and works to obtain all of the blessings we seek.
 
 President Kimball has said that the price we pay for happiness is keeping the
@@ -105,14 +91,13 @@ commandments. The greatest blessings of this life, together with eternal
 salvation and exaltation, are available to us only when we keep the
 commandments the Lord has given us. Remember, the Lord has told us, "I, the
 Lord, am bound when ye do what I say; but when ye do not what I say, ye have
-no promise." ([D&amp;C 82:10](https://www.lds.org/scriptures/dc-
-testament/dc/82.10?lang=eng#9).) And remember also the great promise recorded
-in the Doctrine and Covenants: "If you keep my commandments and endure to the
-end you shall have eternal life, which gift is the greatest of all the gifts
-of God." ([D&amp;C 14:7](https://www.lds.org/scriptures/dc-
-testament/dc/14.7?lang=eng#6).) Now, if you want to be happy and to be good
-parents, I admonish you to keep the commandments and make every effort to
-secure and retain a strong testimony of the gospel.
+no promise." ([D&amp;C 82:10](/scriptures/dc-testament/dc/82.10?lang=eng#9).)
+And remember also the great promise recorded in the Doctrine and Covenants:
+"If you keep my commandments and endure to the end you shall have eternal
+life, which gift is the greatest of all the gifts of God." ([D&amp;C
+14:7](/scriptures/dc-testament/dc/14.7?lang=eng#6).) Now, if you want to be
+happy and to be good parents, I admonish you to keep the commandments and make
+every effort to secure and retain a strong testimony of the gospel.
 
 Once we have developed and obtained a testimony, we can never cease working to
 strengthen it. We would all do well to remember the statement of President
@@ -142,8 +127,7 @@ record that he is the Only Begotten of the Father--
 
 "That by him, and through him, and of him, the worlds are and were created,
 and the inhabitants thereof are begotten sons and daughters unto God."
-([D&amp;C 76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21).)
+([D&amp;C 76:22-24](/scriptures/dc-testament/dc/76.22-24?lang=eng#21).)
 
 I am sure we all subscribe wholeheartedly to the testimony President Spencer
 W. Kimball gave at October conference last year when he said:
@@ -167,4 +151,6 @@ pray that all of us will be successful in building strong testimonies of the
 restored gospel, and then by prayer, faith, study, work, and by righteous
 living keep such testimonies aglow and vibrant every day of our lives. In the
 name of Jesus Christ. Amen.
+
+## References
 

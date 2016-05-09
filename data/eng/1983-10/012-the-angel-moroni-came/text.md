@@ -17,8 +17,7 @@ occurrence.
 _It was a visitation._ Two physical beings communed together--with Moroni, a
 resurrected person of flesh and bones, emerging from the eternal veil and
 paying repeated and never-to-be-forgotten visits to this mortal farm boy,
-Joseph Smith. (See [JS--H
-1:30-54](https://www.lds.org/scriptures/pgp/js-h/1.30-54?lang=eng#29).)
+Joseph Smith. (See [JS--H 1:30-54](/scriptures/pgp/js-h/1.30-54?lang=eng#29).)
 
 Many people no longer believe in the ministry of angels. But God does! He has
 used this means of communication from the days of Adam. Is there any reason
@@ -28,69 +27,62 @@ Angels ministered to many people in both Old and New Testament times,
 delivering messages from the Lord.
 
 Abraham walked and talked with angels. An angel assisted Israel at the time of
-the Exodus. (See [Ex.
-14:19](https://www.lds.org/scriptures/ot/ex/14.19?lang=eng#18).) An angel
+the Exodus. (See [Ex. 14:19](/scriptures/ot/ex/14.19?lang=eng#18).) An angel
 fought an invading army in the days of the prophet Isaiah. (See [Isa.
-37:36](https://www.lds.org/scriptures/ot/isa/37.36?lang=eng#35).) When Daniel
-was in the lion's den, an angel closed the mouths of the lions, and Daniel's
-life was spared. (See [Dan.
-6:22](https://www.lds.org/scriptures/ot/dan/6.22?lang=eng#21).)
+37:36](/scriptures/ot/isa/37.36?lang=eng#35).) When Daniel was in the lion's
+den, an angel closed the mouths of the lions, and Daniel's life was spared.
+(See [Dan. 6:22](/scriptures/ot/dan/6.22?lang=eng#21).)
 
 The angel Gabriel announced to the virgin Mary in Nazareth that she would
 become the mother of the Savior. (See [Luke
-1:30-33](https://www.lds.org/scriptures/nt/luke/1.30-33?lang=eng#29).) The
-same angel told the father of John the Baptist of his prophet-son soon to be
-born. (See [Luke
-1:13](https://www.lds.org/scriptures/nt/luke/1.13?lang=eng#12).)
+1:30-33](/scriptures/nt/luke/1.30-33?lang=eng#29).) The same angel told the
+father of John the Baptist of his prophet-son soon to be born. (See [Luke
+1:13](/scriptures/nt/luke/1.13?lang=eng#12).)
 
 When Joseph and Mary and the Divine Infant fled to Egypt, it was an angel who
 gave them direction, and upon the death of the wicked King Herod, the angel
 told them to return home. (See [Matt. 2:13,
-19-20](https://www.lds.org/scriptures/nt/matt/2.13%2C19-20?lang=eng#12).)
+19-20](/scriptures/nt/matt/2.13,19-20?lang=eng#12).)
 
 When the Savior spoke of the sanctity of little children, he said, "Take heed
 that ye despise not one of these little ones; for I say unto you, That in
 heaven _their angels_ do always behold the face of my Father which is in
-heaven." ([Matt.
-18:10](https://www.lds.org/scriptures/nt/matt/18.10?lang=eng#9); italics
-added.)
+heaven." ([Matt. 18:10](/scriptures/nt/matt/18.10?lang=eng#9); italics added.)
 
 When Jesus neared His crucifixion, He could have called twelve legions of
 angels to His assistance if He had wished to avoid the bitter cup. (See [Matt.
-26:53](https://www.lds.org/scriptures/nt/matt/26.53?lang=eng#52).) Then, are
-there angels? Would Jesus have spoken like that if they were nonexistent?
+26:53](/scriptures/nt/matt/26.53?lang=eng#52).) Then, are there angels? Would
+Jesus have spoken like that if they were nonexistent?
 
 At His resurrection, an angel rolled the stone away from the tomb. The women
 saw him there and heard him speak. (See [Matt. 28:2,
-5](https://www.lds.org/scriptures/nt/matt/28.2%2C5?lang=eng#1).)
+5](/scriptures/nt/matt/28.2,5?lang=eng#1).)
 
 When Stephen bore his final testimony to his persecutors, his face shone like
-that of an angel. (See [Acts
-6:15](https://www.lds.org/scriptures/nt/acts/6.15?lang=eng#14).)
+that of an angel. (See [Acts 6:15](/scriptures/nt/acts/6.15?lang=eng#14).)
 
 An angel released Peter from prison. (See [Acts
-5:19](https://www.lds.org/scriptures/nt/acts/5.19?lang=eng#18).) Paul spoke of
-the tongues of men and of angels. (See [1 Cor.
-13:1](https://www.lds.org/scriptures/nt/1-cor/13.1?lang=eng#0).)
+5:19](/scriptures/nt/acts/5.19?lang=eng#18).) Paul spoke of the tongues of men
+and of angels. (See [1 Cor. 13:1](/scriptures/nt/1-cor/13.1?lang=eng#0).)
 
 The scripture clearly teaches that the purpose of the ministry of angels is
 "to call men unto repentance ... by declaring the word of Christ unto the chosen
 vessels of the Lord, that they may bear testimony of him." ([Moro.
-7:31](https://www.lds.org/scriptures/bofm/moro/7.31?lang=eng#30).) And that is
-very pertinent with regard to Moroni.
+7:31](/scriptures/bofm/moro/7.31?lang=eng#30).) And that is very pertinent
+with regard to Moroni.
 
 The Lord also teaches that, over the ages, if angels have ceased to appear, it
 is because of unbelief and the spirit of apostasy among men. But where there
 is faith, the ministry of angels will last as long as the earth shall stand or
 "there shall be one man upon the face thereof to be saved." ([Moro.
-7:36](https://www.lds.org/scriptures/bofm/moro/7.36?lang=eng#35).)
+7:36](/scriptures/bofm/moro/7.36?lang=eng#35).)
 
 Because the Lord desires to save mankind, even until the end, He revealed to
 John the Revelator that in the latter days angels would again fly through the
 midst of heaven as emissaries of the Almighty. John saw that one of these
 angels would fly from heaven to earth and would bring the everlasting gospel
 back to earth, it having been lost to mankind over the ages. (See [Rev.
-14:6](https://www.lds.org/scriptures/nt/rev/14.6?lang=eng#5).)
+14:6](/scriptures/nt/rev/14.6?lang=eng#5).)
 
 That angel was Moroni. He had lived in America some fifteen hundred years ago
 and was a prophet of God at that time. He and his father, Mormon, were
@@ -123,11 +115,11 @@ with the other Dead Sea Scrolls in Palestine. It, too, contained ancient
 sacred writings.
 
 King Darius, who put Daniel in the lion's den (see [Dan.
-6](https://www.lds.org/scriptures/ot/dan/6.title?lang=eng)), wrote his records
-on gold and silver sheets and placed them in stone boxes and buried them in
-the ground for safekeeping, just as Moroni did. His records now have been
-translated and published. To make certain someone would be able to read them,
-Darius wrote in three different languages.
+6](/scriptures/ot/dan/6?lang=eng)), wrote his records on gold and silver
+sheets and placed them in stone boxes and buried them in the ground for
+safekeeping, just as Moroni did. His records now have been translated and
+published. To make certain someone would be able to read them, Darius wrote in
+three different languages.
 
 Ancient Assyria's King Sargon II had the same idea, but he used a variety of
 metals to make his books--gold, silver, brass, copper, and even tin. He also
@@ -199,11 +191,11 @@ darkness.
 Moroni fulfilled two biblical prophecies by coming to Joseph Smith. John the
 Revelator saw an angel fly in the midst of heaven, bringing the everlasting
 gospel back to earth. (See [Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5).)
+14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5).)
 
 John further said that this angel would fly in the "hour of [God's] judgment"
-([Rev. 14:7](https://www.lds.org/scriptures/nt/rev/14.7?lang=eng#6)), which
-could only mean the latter days. This timing made it strictly a modern affair.
+([Rev. 14:7](/scriptures/nt/rev/14.7?lang=eng#6)), which could only mean the
+latter days. This timing made it strictly a modern affair.
 
 He came as predicted, and Moroni was that angel. His coming opened a new
 dispensation of the gospel of Christ, direct from God. It had no relationship
@@ -221,7 +213,7 @@ gospel? Was it through some tangible means?
 Amos of old, the inspired seer of the Lord, taught that God does His work
 through prophets. In fact, he said that God actually will do nothing without
 revealing His plans to His servants the prophets. (See [Amos
-3:7](https://www.lds.org/scriptures/ot/amos/3.7?lang=eng#6).)
+3:7](/scriptures/ot/amos/3.7?lang=eng#6).)
 
 Then what would God do about the angel bringing the gospel back to earth in
 modern times? There were no prophets on earth to whom he could come. The world
@@ -242,10 +234,9 @@ it to public knowledge?
 The prophet Isaiah explains. In the twenty-ninth chapter of his book, he tells
 of an ancient record that would come out of the ground in the latter days, in
 a time preceding the restoration of Palestine as a fruitful field. (See [Isa.
-29:17](https://www.lds.org/scriptures/ot/isa/29.17?lang=eng#16).) This record
-would be in the form of a book, he said, having to do with a people who had
-been destroyed suddenly. (See [Isa.
-29:5](https://www.lds.org/scriptures/ot/isa/29.5?lang=eng#4).)
+29:17](/scriptures/ot/isa/29.17?lang=eng#16).) This record would be in the
+form of a book, he said, having to do with a people who had been destroyed
+suddenly. (See [Isa. 29:5](/scriptures/ot/isa/29.5?lang=eng#4).)
 
 Some words of this book, Isaiah predicted, would be taken to a learned man who
 would reject them. Then, he said, the book itself would be given to an
@@ -253,8 +244,8 @@ unlearned man, whom we now know to be Joseph Smith, who fit Isaiah's
 description for he had only a very meager formal education. In his hands,
 Isaiah said, this book would be published to the world by the miraculous power
 of God and would become a marvelous work and a wonder. (See [Isa. 29:11-12,
-14](https://www.lds.org/scriptures/ot/isa/29.11-12%2C14?lang=eng#10); [JS--H
-1:63-65](https://www.lds.org/scriptures/pgp/js-h/1.63-65?lang=eng#62).)
+14](/scriptures/ot/isa/29.11-12,14?lang=eng#10); [JS--H
+1:63-65](/scriptures/pgp/js-h/1.63-65?lang=eng#62).)
 
 This book was that self-same volume prepared anciently by Mormon and Moroni,
 containing the simple and beautiful truths of the gospel in their fulness, as
@@ -276,20 +267,18 @@ simplicity and in its fulness. The record was there, it was the word of God,
 and it came about by the act of God. It was a mighty miracle of God.
 
 So Moroni fulfilled two biblical prophecies in coming to Joseph Smith: the
-fourteenth chapter of Revelation [[Rev.
-14](https://www.lds.org/scriptures/nt/rev/14.title?lang=eng)] and the twenty-
-ninth chapter of Isaiah [[Isa.
-29](https://www.lds.org/scriptures/ot/isa/29.title?lang=eng)]. He did come to
-earth as an angel. He did deliver to Joseph Smith the golden record which had
-been prepared under the direction of Almighty God. It is a new witness for the
-Lord Jesus Christ; it declares, as does the Bible, that Jesus of Nazareth
-indeed is the Son of God, our Savior and Redeemer. That book is available to
-all mankind. A million copies are published each year, in more than a score of
-languages.
+fourteenth chapter of Revelation [[Rev. 14](/scriptures/nt/rev/14?lang=eng)]
+and the twenty-ninth chapter of Isaiah [[Isa.
+29](/scriptures/ot/isa/29?lang=eng)]. He did come to earth as an angel. He did
+deliver to Joseph Smith the golden record which had been prepared under the
+direction of Almighty God. It is a new witness for the Lord Jesus Christ; it
+declares, as does the Bible, that Jesus of Nazareth indeed is the Son of God,
+our Savior and Redeemer. That book is available to all mankind. A million
+copies are published each year, in more than a score of languages.
 
 So, again, we testify that the Book of Mormon is true. It is the word of
 Almighty God, restored in this day by angelic ministry and by the direction of
-God himself. We testify that Moroni came as an angel on September 21 , 1823,
+God himself. We testify that Moroni came as an angel on September 21, 1823,
 revealing his ancient record and that he did so as a servant of Jesus Christ.
 Before its publication, he allowed twelve modern American citizens of good
 repute to examine the golden record so that they could bear witness of having
@@ -304,4 +293,6 @@ ordained servants, and we speak by the power that he restored to us and has
 given to us in this day. And we testify, in all solemnity, that this work in
 which we are engaged is verily true, in the name of the Lord Jesus Christ,
 amen.
+
+## References
 

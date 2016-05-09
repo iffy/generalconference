@@ -99,8 +99,7 @@ outing with my dad to make up for my lost childhood!
 As a special witness of the Lord, Jesus Christ, I share the feelings of
 Apostle Paul: "Unto me, who am less than the least of all saints, is this
 grace given, that I should preach among the Gentiles the unsearchable riches
-of Christ." ([Eph.
-3:8](https://www.lds.org/scriptures/nt/eph/3.8?lang=eng#7).)
+of Christ." ([Eph. 3:8](/scriptures/nt/eph/3.8?lang=eng#7).)
 
 I express my gratitude for all the opportunities that have come to me in
 serving our Heavenly Father. He has blessed me with a loving wife and three
@@ -109,8 +108,10 @@ them for their unfailing support.
 
 The twenty-third Psalm says in part: "The Lord is my shepherd. ... He maketh me
 to lie down in green pastures: he leadeth me beside the still waters." ([Ps.
-23:1-2](https://www.lds.org/scriptures/ot/ps/23.1-2?lang=eng#0).) I know God
-lives. The Lord is my Shepherd. He has, indeed, made me lie down in green
-pastures and has led me beside the still waters. Jesus is the Christ, our
-Savior and Redeemer. I so testify in His holy name, amen.
+23:1-2](/scriptures/ot/ps/23.1-2?lang=eng#0).) I know God lives. The Lord is
+my Shepherd. He has, indeed, made me lie down in green pastures and has led me
+beside the still waters. Jesus is the Christ, our Savior and Redeemer. I so
+testify in His holy name, amen.
+
+## References
 

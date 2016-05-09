@@ -14,8 +14,8 @@ hear, neither heart that shall not be penetrated. ...
 disciples, whom I have chosen in these last days.
 
 "And they shall go forth and none shall stay them, for I the Lord have
-commanded them." ([D&amp;C 1:1-2, 4-5](https://www.lds.org/scriptures/dc-
-testament/dc/1.1-2%2C4-5?lang=eng#0).)
+commanded them." ([D&amp;C 1:1-2, 4-5](/scriptures/dc-
+testament/dc/1.1-2,4-5?lang=eng#0).)
 
 Exactly fifty years ago, in 1939, the heads of state in Europe solemnly
 returned their position papers to leather briefcases, arose from their chairs
@@ -199,7 +199,7 @@ Savior, when He walked the path of pain, the trail of tears, even the road of
 righteousness. His penetrating declaration came to mind: "Peace I leave with
 you, my peace I give unto you: not as the world giveth, give I unto you. Let
 not your heart be troubled, neither let it be afraid." ([John
-14:27](https://www.lds.org/scriptures/nt/john/14.27?lang=eng#26).)
+14:27](/scriptures/nt/john/14.27?lang=eng#26).)
 
 Then it was back to Berlin for the crucial meetings with the head of the
 nation, even Chairman Erich Honecker.
@@ -258,10 +258,9 @@ Kingdom of God will go forth.
 
 As I reflect on these events, my thoughts turn to the Master's words, "In
 nothing doth man offend God, or against none is his wrath kindled, save those
-who confess not his hand in all things." ([D&amp;C
-59:21](https://www.lds.org/scriptures/dc-testament/dc/59.21?lang=eng#20).) I
-confess the hand of God in the miraculous events pertaining to the Church in
-the German Democratic Republic.
+who confess not his hand in all things." ([D&amp;C 59:21](/scriptures/dc-
+testament/dc/59.21?lang=eng#20).) I confess the hand of God in the miraculous
+events pertaining to the Church in the German Democratic Republic.
 
 The faith and devotion of our members in that nation have not gone unnoticed
 by God. The excellent service of other General Authorities, Regional
@@ -289,8 +288,9 @@ fear me, and delight to honor those who serve me in righteousness and in truth
 unto the end.
 
 "Great shall be their reward and eternal shall be their glory." ([D&amp;C
-76:1-3, 5-6](https://www.lds.org/scriptures/dc-
-testament/dc/76.1-3%2C5-6?lang=eng#0).)
+76:1-3, 5-6](/scriptures/dc-testament/dc/76.1-3,5-6?lang=eng#0).)
 
 May this be our universal blessing, I pray in the name of Jesus Christ, amen.
+
+## References
 

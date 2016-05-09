@@ -56,13 +56,12 @@ power higher than themselves and have sought through prayer to be guided by
 that power. Such has it ever been. So shall it ever be.
 
 In the very beginning, Father Adam was commanded, "Call upon God in the name
-of the Son forevermore." ([Moses
-5:8](https://www.lds.org/scriptures/pgp/moses/5.8?lang=eng#7).) Adam prayed.
-Abraham prayed. Isaac prayed. Moses prayed, and so did every prophet pray to
-that God from whence came his strength. Like the sands slipping through an
-hourglass, generations of mankind were born, lived, and then died. At long
-last came that glorious event for which prophets prayed, psalmists sang,
-martyrs died, and all mankind hoped.
+of the Son forevermore." ([Moses 5:8](/scriptures/pgp/moses/5.8?lang=eng#7).)
+Adam prayed. Abraham prayed. Isaac prayed. Moses prayed, and so did every
+prophet pray to that God from whence came his strength. Like the sands
+slipping through an hourglass, generations of mankind were born, lived, and
+then died. At long last came that glorious event for which prophets prayed,
+psalmists sang, martyrs died, and all mankind hoped.
 
 The birth of the babe in Bethlehem was transcendent in its beauty and singular
 in its significance. Jesus of Nazareth brought prophecy to fulfillment. He
@@ -73,10 +72,9 @@ me with an example worthy of emulation.
 More than any prophet or leader, He showed us how to pray. Who can fail to
 remember His agony in Gethsemane and that fervent prayer: "O my Father, if it
 be possible, let this cup pass from me: nevertheless not as I will, but as
-thou wilt." ([Matt.
-26:39](https://www.lds.org/scriptures/nt/matt/26.39?lang=eng#38).) And His
+thou wilt." ([Matt. 26:39](/scriptures/nt/matt/26.39?lang=eng#38).) And His
 injunction: "Watch and pray, that ye enter not into temptation." ([Matt.
-26:41](https://www.lds.org/scriptures/nt/matt/26.41?lang=eng#40).)
+26:41](/scriptures/nt/matt/26.41?lang=eng#40).)
 
 We remember His counsel: "When thou prayest, thou shalt not be as the
 hypocrites are: for they love to pray standing in the synagogues and in the
@@ -84,7 +82,7 @@ corners of the streets, that they may be seen of men. ...
 
 "But thou, when thou prayest, ... pray to thy Father which is in secret; and thy
 Father which seeth in secret shall reward thee openly." ([Matt.
-6:5-6](https://www.lds.org/scriptures/nt/matt/6.5-6?lang=eng#4).)
+6:5-6](/scriptures/nt/matt/6.5-6?lang=eng#4).)
 
 This guiding instruction has helped troubled souls discover the peace for
 which they fervently yearn and earnestly hope.
@@ -230,4 +228,6 @@ _Lord, teach us how to pray._
 
 He has taught us how to pray. That each of us will learn and live this lesson
 is my earnest plea and sincere prayer, in the name of Jesus Christ. Amen.
+
+## References
 

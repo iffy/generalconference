@@ -14,15 +14,15 @@ upon the earth; that he was crucified and gave his life as a sacrifice for the
 sins of all men; that through that great act of atonement, he became the
 Redeemer of all mankind; that he arose from the grave the third day, thus
 becoming "the firstfruits of them that slept" ([1 Cor.
-15:20](https://www.lds.org/scriptures/nt/1-cor/15.20?lang=eng#19)); that he
-was seen by many in and about Jerusalem, and in this hemisphere also, who
-testified that they saw and felt and were instructed by the risen Lord. By the
-power of the Holy Spirit, which has borne witness to us, we can and do testify
-of these great, transcendent truths. And we add our witness that this, "the
-dispensation of the fulness of times" ([D&amp;C
-112:30](https://www.lds.org/scriptures/dc-testament/dc/112.30?lang=eng#29)),
-spoken of in the scripture, was ushered in by a glorious visitation of the
-Father and the Son for the blessing of all who will seek and learn.
+15:20](/scriptures/nt/1-cor/15.20?lang=eng#19)); that he was seen by many in
+and about Jerusalem, and in this hemisphere also, who testified that they saw
+and felt and were instructed by the risen Lord. By the power of the Holy
+Spirit, which has borne witness to us, we can and do testify of these great,
+transcendent truths. And we add our witness that this, "the dispensation of
+the fulness of times" ([D&amp;C 112:30](/scriptures/dc-
+testament/dc/112.30?lang=eng#29)), spoken of in the scripture, was ushered in
+by a glorious visitation of the Father and the Son for the blessing of all who
+will seek and learn.
 
 President Kimball, we assure you that the prayers of this people across the
 world ascend to our Father in Heaven in your behalf. We sing anew the
@@ -248,12 +248,12 @@ is a home in which service is taught and exemplified. It is a simple home; it
 is an unostentatious family. There is not much of wealth, but there is much of
 peace and goodness and love. The children who are growing up there are growing
 in "the nurture and admonition of the Lord." ([Eph.
-6:4](https://www.lds.org/scriptures/nt/eph/6.4?lang=eng#3).) The father is
-faithful in his service to the Church. For these many years he has responded
-to every call made upon him. The mother likewise, in the organizations for
-women and children. They are good citizens of the community and the nation.
-They are at peace with their neighbors. They love the Lord. They love life.
-They love one another.
+6:4](/scriptures/nt/eph/6.4?lang=eng#3).) The father is faithful in his
+service to the Church. For these many years he has responded to every call
+made upon him. The mother likewise, in the organizations for women and
+children. They are good citizens of the community and the nation. They are at
+peace with their neighbors. They love the Lord. They love life. They love one
+another.
 
 Now they have witnessed a miracle in the improvement of his eyesight. To a
 kind and gracious God goes the credit. This, too, is of the essence of the
@@ -262,16 +262,15 @@ thanksgiving.
 
 Is not this what the work is all about? Said the Savior, "I am come that they
 might have life, and that they might have it more abundantly." ([John
-10:10](https://www.lds.org/scriptures/nt/john/10.10?lang=eng#9).) Without
-great abundance of the things of the world, these, my friends, live
-abundantly. Such as they are the strength of the Church. In their hearts is a
-quiet and solid conviction that God lives and that we are accountable to him;
-that Jesus is the Christ, the Way, the Truth, the Life (see [John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5)); that this work
-is their work; that it is true; and that gladness and peace and healing come
-in walking in obedience to the commandments of God (see [D&amp;C
-89:18](https://www.lds.org/scriptures/dc-testament/dc/89.18?lang=eng#17)), as
-set forth in the teachings of the Church.
+10:10](/scriptures/nt/john/10.10?lang=eng#9).) Without great abundance of the
+things of the world, these, my friends, live abundantly. Such as they are the
+strength of the Church. In their hearts is a quiet and solid conviction that
+God lives and that we are accountable to him; that Jesus is the Christ, the
+Way, the Truth, the Life (see [John
+14:6](/scriptures/nt/john/14.6?lang=eng#5)); that this work is their work;
+that it is true; and that gladness and peace and healing come in walking in
+obedience to the commandments of God (see [D&amp;C 89:18](/scriptures/dc-
+testament/dc/89.18?lang=eng#17)), as set forth in the teachings of the Church.
 
 I do not know whether the two men who served as Jack's bishops know what has
 become of him. If they know where he is, there must be sweet satisfaction in
@@ -291,4 +290,6 @@ nation it be, will be strengthened by reason of the virtue of such people; and
 the Church and kingdom of God will roll forward in majesty and power on its
 divinely appointed mission. Of this I testify and for this I pray, in the name
 of Jesus Christ, amen.
+
+## References
 

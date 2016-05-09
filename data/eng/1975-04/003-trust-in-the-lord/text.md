@@ -44,7 +44,7 @@ The scriptures answer:
 
 "If a man bringeth forth good works he hearkeneth unto the voice of the good
 shepherd, and he doth follow him." ([Alma
-5:40-41](https://www.lds.org/scriptures/bofm/alma/5.40-41?lang=eng#39).)
+5:40-41](/scriptures/bofm/alma/5.40-41?lang=eng#39).)
 
 As life supplies its store of tribulation we need the consolation that comes
 with knowing that God is good and that he is near, that he understands, and
@@ -72,7 +72,7 @@ pain.
 Christ came that men might have life abundant and life eternal, and he
 declared that "this is life eternal, that they might know thee the only true
 God, and Jesus Christ, whom thou hast sent." ([John
-17:3](https://www.lds.org/scriptures/nt/john/17.3?lang=eng#2).)
+17:3](/scriptures/nt/john/17.3?lang=eng#2).)
 
 And that knowledge. I testify, is the most important treasure one can possess
 or seek. From Hosea comes the word of the Lord:
@@ -81,9 +81,8 @@ or seek. From Hosea comes the word of the Lord:
 is no truth, nor mercy, nor knowledge of God it the land. ...
 
 "For I desired mercy, and not sacrifice; and the knowledge of God more than
-burnt offerings." ([Hosea
-4:1](https://www.lds.org/scriptures/ot/hosea/4.1?lang=eng#0); [Hosea
-6:6](https://www.lds.org/scriptures/ot/hosea/6.6?lang=eng#5).)
+burnt offerings." ([Hosea 4:1](/scriptures/ot/hosea/4.1?lang=eng#0); [Hosea
+6:6](/scriptures/ot/hosea/6.6?lang=eng#5).)
 
 Soon thereafter the Lord said through Jeremiah:
 
@@ -93,7 +92,7 @@ his might, let not the rich man glory it his riches:
 "But let him that glorieth glory in this, that he understandeth and knoweth
 me, that I am the Lord which exercise loving kindness, judgement, and
 righteousness, in the earth: for in these things I delight, saith the Lord."
-([Jer. 9:23-24](https://www.lds.org/scriptures/ot/jer/9.23-24?lang=eng#22).)
+([Jer. 9:23-24](/scriptures/ot/jer/9.23-24?lang=eng#22).)
 
 All the prophets taught this truth about God, and their prime purpose was not
 to argue or try to prove the existence of God but to be his witnesses, to
@@ -104,15 +103,14 @@ but was offering the ultimate opportunity for men to know God himself.
 
 This, we declare and testify, is a supreme blessing, for to "know the love of
 Christ which passeth knowledge" and thus to "be filled with all the fulness of
-God" ([Eph. 3:19](https://www.lds.org/scriptures/nt/eph/3.19?lang=eng#18)) is
-the source of the greatest comfort and consolation in this world, and the
-greatest motivating power for good. How do we gain this indispensable
-knowledge? The "works of the Lord, and the mysteries of his kingdom" can only
-"be understood by the power of the Holy Spirit, which God bestows on those who
-love him, and purify themselves before him; To whom he grants this privilege
-of seeing and knowing for themselves." ([D&amp;C 76:114,
-117](https://www.lds.org/scriptures/dc-
-testament/dc/76.114%2C117?lang=eng#113).)
+God" ([Eph. 3:19](/scriptures/nt/eph/3.19?lang=eng#18)) is the source of the
+greatest comfort and consolation in this world, and the greatest motivating
+power for good. How do we gain this indispensable knowledge? The "works of the
+Lord, and the mysteries of his kingdom" can only "be understood by the power
+of the Holy Spirit, which God bestows on those who love him, and purify
+themselves before him; To whom he grants this privilege of seeing and knowing
+for themselves." ([D&amp;C 76:114, 117](/scriptures/dc-
+testament/dc/76.114,117?lang=eng#113).)
 
 As a guest in the home of a choice young family only a few days ago, I was
 invited to offer prayer as we knelt together at the day's beginning. Loving
@@ -126,27 +124,25 @@ points the way for all of us. If we would seek the Lord, we must put off the
 "natural man" and become "as a child, submissive, meek, humble, patient, full
 of love, willing to submit to all things which the Lord seeth fit to inflict
 upon [us], even as a child doth submit to his father." ([Mosiah
-3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18).)
+3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18).)
 
 It is written:
 
 "None shall be found blameless before God, except it be little children, only
 through repentance and faith on the name of the Lord God Omnipotent." ([Mosiah
-3:21](https://www.lds.org/scriptures/bofm/mosiah/3.21?lang=eng#20).) What,
-then, is our course?
+3:21](/scriptures/bofm/mosiah/3.21?lang=eng#20).) What, then, is our course?
 
 "Verily, thus saith the Lord: It shall come to pass that every soul who
 forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my
 voice, and keepeth my commandments, shall see my face and know that I am."
-([D&amp;C 93:1](https://www.lds.org/scriptures/dc-
-testament/dc/93.1?lang=eng#0).)
+([D&amp;C 93:1](/scriptures/dc-testament/dc/93.1?lang=eng#0).)
 
 "They did fast and pray oft, and did wax stronger and stronger in their
 humility, and firmer and firmer in the faith of Christ, unto the filling their
 souls with joy and consolation, yea, even to the purifying and the
 sanctification of their hearts, which sanctification cometh because of their
 yielding their hearts unto God." ([Hel.
-3:35](https://www.lds.org/scriptures/bofm/hel/3.35?lang=eng#34).)
+3:35](/scriptures/bofm/hel/3.35?lang=eng#34).)
 
 By the revelations of his mind and will through the Holy Spirit, the Lord will
 give us understanding and knowledge. But we must qualify for the blessing. As
@@ -218,8 +214,7 @@ stalls.
 "Yet I will rejoice in the Lord, I will joy in the God of my salvation.
 
 "The Lord God is my strength, and he will make my feet ... to walk upon mine
-high places." ([Hab.
-3:17-19](https://www.lds.org/scriptures/ot/hab/3.17-19?lang=eng#16).)
+high places." ([Hab. 3:17-19](/scriptures/ot/hab/3.17-19?lang=eng#16).)
 
 Our religion is "not weight, it is wings." It can carry us through the dark
 times, the bitter cup. It will be with us in the fiery furnace and the deep
@@ -228,7 +223,8 @@ bereavement. It can guarantee us the presence of a Captain on the rough
 voyage. It is, in short, not the path to easy disposition of problems, but the
 comforting assurance of the eternal light, by which we may see, and the
 eternal warmth, which we may feel. "The Lord is good: Blessed is the man that
-trusteth in him." ([Ps.
-34:8](https://www.lds.org/scriptures/ot/ps/34.8?lang=eng#7).) In the name of
-Jesus Christ. Amen.
+trusteth in him." ([Ps. 34:8](/scriptures/ot/ps/34.8?lang=eng#7).) In the name
+of Jesus Christ. Amen.
+
+## References
 

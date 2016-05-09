@@ -12,7 +12,7 @@ hast been delivered from the powers of Satan and from darkness! ...
 
 "Be patient in afflictions, for thou shalt have many; but endure them, for,
 lo, I am with thee, even unto the end of thy days." ([D&amp;C 24:1,
-8](https://www.lds.org/scriptures/dc-testament/dc/24.1%2C8?lang=eng#0).)
+8](/scriptures/dc-testament/dc/24.1,8?lang=eng#0).)
 
 The words "For, lo, I am with thee, even unto the end of thy days" were the
 Lord's voice of gladness to His beloved Prophet. His message to Joseph Smith
@@ -44,7 +44,7 @@ hear in the gospel which we have received? A voice of gladness! A voice of
 mercy from heaven; and a voice of truth out of the earth; glad tidings for the
 dead; a voice of gladness for the living and the dead; glad tidings of great
 joy. How beautiful upon the mountains are the feet of those that bring glad
-tidings of good things." ([D&amp;C 128:19](https://www.lds.org/scriptures/dc-
+tidings of good things." ([D&amp;C 128:19](/scriptures/dc-
 testament/dc/128.19?lang=eng#18).)
 
 The Lord would have us mingle our voices of gladness with His to give
@@ -70,7 +70,7 @@ Sincere yet simple words of praise can lift souls and bring gladness. Mark
 Twain remarked that he could live two months on one good compliment. In the
 words of the biblical proverbs of Solomon: "A word fitly spoken is like apples
 of gold in pictures of silver." ([Prov.
-25:11](https://www.lds.org/scriptures/ot/prov/25.11?lang=eng#10).)
+25:11](/scriptures/ot/prov/25.11?lang=eng#10).)
 
 Encouragement can be quick and simple, but it is a voice of gladness that is
 needed by everyone.
@@ -113,15 +113,14 @@ think and perform positively.
 Isaiah says of Jesus Christ: "And when we shall see him, there is no beauty
 that we should desire him ... ; a man of sorrows, and acquainted with grief: and
 ... he was despised, and we esteemed him not." ([Isa.
-53:2-3](https://www.lds.org/scriptures/ot/isa/53.2-3?lang=eng#1).)
+53:2-3](/scriptures/ot/isa/53.2-3?lang=eng#1).)
 
 But even though His suffering was beyond our comprehension, His voice of
 gladness reminds us: "Be of good cheer; I have overcome the world." ([John
-16:33](https://www.lds.org/scriptures/nt/john/16.33?lang=eng#32).) Jesus
-challenges all of us to be happy and optimistic. As the cancer patients
-learned and medical research has proven: "A merry heart doeth good like a
-medicine: but a broken spirit drieth the bones." ([Prov.
-17:22](https://www.lds.org/scriptures/ot/prov/17.22?lang=eng#21).)
+16:33](/scriptures/nt/john/16.33?lang=eng#32).) Jesus challenges all of us to
+be happy and optimistic. As the cancer patients learned and medical research
+has proven: "A merry heart doeth good like a medicine: but a broken spirit
+drieth the bones." ([Prov. 17:22](/scriptures/ot/prov/17.22?lang=eng#21).)
 
 Recently during a regional conference in California, a well-trained multistake
 chorus furnished beautiful music. As I listened and watched them, I was
@@ -142,7 +141,7 @@ gospel of Jesus Christ real and strengthening.
 
 "Let us therefore follow after the things which make for peace, and things
 wherewith one may edify another." ([Rom.
-14:19](https://www.lds.org/scriptures/nt/rom/14.19?lang=eng#18).)
+14:19](/scriptures/nt/rom/14.19?lang=eng#18).)
 
 After a night of intense pain and suffering, one morning a husband stricken
 with a terminal illness said to his wife with great feeling, "I am so thankful
@@ -180,13 +179,13 @@ feet and ankle bones received strength.
 walking, and leaping, and praising God.
 
 "And all the people saw him walking and praising God." ([Acts
-3:1-9](https://www.lds.org/scriptures/nt/acts/3.1-9?lang=eng#0).)
+3:1-9](/scriptures/nt/acts/3.1-9?lang=eng#0).)
 
 Now hear Peter's proclamation of glad tidings:
 
 "Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us,
 as though by our own power or holiness we had made this man to walk?" ([Acts
-3:12](https://www.lds.org/scriptures/nt/acts/3.12?lang=eng#11).)
+3:12](/scriptures/nt/acts/3.12?lang=eng#11).)
 
 Peter, through his priesthood power, declared, "In the name of Jesus Christ of
 Nazareth rise up and walk."
@@ -224,8 +223,7 @@ salvation.
 The voices of gladness from the scriptures remind us that we don't have to
 walk through life alone. Christ came that we might have life and have it more
 abundantly. "For we know that it is by grace that we are saved, _after_ all we
-can do." ([2 Ne.
-25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22); italics
+can do." ([2 Ne. 25:23](/scriptures/bofm/2-ne/25.23?lang=eng#22); italics
 added.)
 
 Let us remember that acts of kindness with pure motives and righteous purposes
@@ -235,12 +233,13 @@ privacy. We can program ourselves to build, encourage, and give strength.
 What a voice of gladness was shared when our Savior, Jesus Christ, following
 torment, ridicule, abuse, and ultimately, crucifixion, in a voice of mercy,
 glad tidings, and truth, was able to say, "Father, forgive them; for they know
-not what they do." ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33).)
+not what they do." ([Luke 23:34](/scriptures/nt/luke/23.34?lang=eng#33).)
 
 May I share my witness and testimony that I know God is pleased when we
 declare glad tidings of truth, righteousness, and His reality. My voice of
 gladness today is God lives. Jesus is the Christ. Let no one or any situation
 take this reality from you. I declare this message with a voice of gladness in
 the name of Jesus Christ, amen.
+
+## References
 

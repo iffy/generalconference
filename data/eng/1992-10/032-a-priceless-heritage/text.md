@@ -173,7 +173,7 @@ sacred and holy things of God. You can enjoy the blessings and covenants
 administered in the holy temples. You can have great meaning and purpose in
 your lives, even in the profane world in which we live. You can have strength
 of character so that you can act for yourselves and not be acted upon. (See [2
-Ne. 2:26](https://www.lds.org/scriptures/bofm/2-ne/2.26?lang=eng#25).)
+Ne. 2:26](/scriptures/bofm/2-ne/2.26?lang=eng#25).)
 
 A few years ago, the First Presidency of the Church issued the invitation to
 all to come back:
@@ -184,8 +184,8 @@ excommunicated because of serious transgressions.
 
 "To all such we reach out in love. We are anxious to forgive in the spirit of
 Him who said: 'I, the Lord, will forgive whom I will forgive, but of you it is
-required to forgive all men.' ([D&amp;C 64:10](https://www.lds.org/scriptures
-/dc-testament/dc/64.10?lang=eng#9).)
+required to forgive all men.' ([D&amp;C 64:10](/scriptures/dc-
+testament/dc/64.10?lang=eng#9).)
 
 "We encourage Church members to forgive those who may have wronged them. To
 those who have ceased activity and to those who have become critical, we say,
@@ -199,4 +199,6 @@ willing hands to assist you." (_Church News,_ 22 Dec. 1985, p. 3.)
 At the close of this great conference, and on behalf of my Brethren, I
 sincerely and humbly reiterate that request. And we open our arms to you. I so
 declare in the name of Jesus Christ, amen.
+
+## References
 

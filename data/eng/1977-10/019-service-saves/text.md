@@ -92,9 +92,8 @@ supreme joy--the joy that comes from diligent labor and selfless service.
 Ammon knew this kind of joy. In the Book of Mormon we read: "And this is the
 account of Ammon and his brethren, their journeyings in the land of Nephi,
 their sufferings in the land, their sorrows, and their afflictions, and their
-incomprehensible joy." ([Alma
-28:8](https://www.lds.org/scriptures/bofm/alma/28.8?lang=eng#7).) You, too,
-may experience a joy and exultation known in no other way.
+incomprehensible joy." ([Alma 28:8](/scriptures/bofm/alma/28.8?lang=eng#7).)
+You, too, may experience a joy and exultation known in no other way.
 
 Most people who need your help speak another language. You will be enabled to
 learn a new language, however, through a system adapted to your situation.
@@ -126,8 +125,8 @@ door to eternal life for you.
 Our Savior taught that service saves: "For behold the field is white already
 to harvest; and lo, _he_ that thrusteth in his sickle with his might, the same
 layeth up in store that _he_ perisheth not, but bringeth salvation to _his_
-soul." ([D&amp;C 4:4](https://www.lds.org/scriptures/dc-
-testament/dc/4.4?lang=eng#3); italics added.)
+soul." ([D&amp;C 4:4](/scriptures/dc-testament/dc/4.4?lang=eng#3); italics
+added.)
 
 "And if it so be that you should labor all your days in crying repentance unto
 this people and bring, save it be one soul unto me, how great shall be _your_
@@ -135,11 +134,13 @@ joy with _him_ in the kingdom of my Father!
 
 "And now, if your joy will be great with one soul that you have brought unto
 me into the kingdom of my Father, how great will be _your_ joy if you should
-bring many souls unto me!" ([D&amp;C 18:15-16](https://www.lds.org/scriptures
-/dc-testament/dc/18.15-16?lang=eng#14); italics added.)
+bring many souls unto me!" ([D&amp;C 18:15-16](/scriptures/dc-
+testament/dc/18.15-16?lang=eng#14); italics added.)
 
 I know that we are in the service of the Master. I know that Jesus is the
 Christ, that he lives and directs his work through his living prophet,
 President Spencer W. Kimball. To this I testify in the name of Jesus Christ.
 Amen.
+
+## References
 

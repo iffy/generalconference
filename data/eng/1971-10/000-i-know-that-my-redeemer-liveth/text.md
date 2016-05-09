@@ -7,10 +7,10 @@ divinity of this great latter-day work.
 
 We the Latter-day Saints are a blessed and favored people. It is our privilege
 to become "a kingdom of priests, and an holy nation." ([Ex.
-19:6](https://www.lds.org/scriptures/ot/ex/19.6?lang=eng#5).) The Lord has
-chosen us, as he chose our fathers anciently, "to be a special people unto
-himself, above all people that are upon the face of the earth." ([Deut.
-7:6](https://www.lds.org/scriptures/ot/deut/7.6?lang=eng#5).)
+19:6](/scriptures/ot/ex/19.6?lang=eng#5).) The Lord has chosen us, as he chose
+our fathers anciently, "to be a special people unto himself, above all people
+that are upon the face of the earth." ([Deut.
+7:6](/scriptures/ot/deut/7.6?lang=eng#5).)
 
 Our position is one of strength because it is founded on eternal truth. We
 need not fear the fiery darts of the adversary, nor be troubled by world
@@ -51,7 +51,7 @@ Nephi said to his people: "... there is one God and one Shepherd over all the
 earth.
 
 "And the time cometh that he shall manifest himself unto all nations. ..." ([1
-Ne. 13:41-42](https://www.lds.org/scriptures/bofm/1-ne/13.41-42?lang=eng#40).)
+Ne. 13:41-42](/scriptures/bofm/1-ne/13.41-42?lang=eng#40).)
 
 That promised day is now dawning. This is the appointed time for the preaching
 of the gospel in all the world and for the building up of the Lord's kingdom
@@ -74,7 +74,7 @@ through the Prophet Joseph Smith and his associates.
 
 We invite our Father's other children to "come unto Christ, and be perfected
 in him," and to deny themselves of "all ungodliness." ([Moro.
-10:32](https://www.lds.org/scriptures/bofm/moro/10.32?lang=eng#31).)
+10:32](/scriptures/bofm/moro/10.32?lang=eng#31).)
 
 We invite them to believe in Christ and his gospel, to come into his church,
 and to be one with his saints.
@@ -86,8 +86,7 @@ been poured out so abundantly upon us.
 Our responsibility in the Church is to worship the Lord in spirit and in
 truth, and this we are seeking to do with all our heart, might, and mind.
 Jesus said: "Thou shalt worship the Lord thy God, and him only shalt thou
-serve." ([Matt.
-4:10](https://www.lds.org/scriptures/nt/matt/4.10?lang=eng#9).)
+serve." ([Matt. 4:10](/scriptures/nt/matt/4.10?lang=eng#9).)
 
 We believe that worship is far more than prayer and preaching and gospel
 performance. The supreme act of worship is to keep the commandments, to follow
@@ -99,7 +98,7 @@ Our Savior, Jesus Christ, is the great Exemplar. Our mission is to pattern our
 lives after him and do the things he wants us to do. "... what manner of men
 ought ye to be?" he asked his Nephite disciples, and then he answered: "Verily
 I say unto you, even as I am." ([3 Ne.
-27:27](https://www.lds.org/scriptures/bofm/3-ne/27.27?lang=eng#26).)
+27:27](/scriptures/bofm/3-ne/27.27?lang=eng#26).)
 
 I rejoice in the privilege of following in his footsteps. I am grateful for
 the words of eternal life which I have received, I am very glad to say, in
@@ -117,23 +116,25 @@ he himself said to Joseph Smith: "The Lord is God, and beside him there is no
 Savior.
 
 "Great is his wisdom, marvelous are his ways, and the extent of his doings
-none can find out." ([D&amp;C 76:1-2](https://www.lds.org/scriptures/dc-
+none can find out." ([D&amp;C 76:1-2](/scriptures/dc-
 testament/dc/76.1-2?lang=eng#0).)
 
 I feel to say with Job of old, whose knowledge came from the same source from
 which mine has come: "For I know that my redeemer liveth, and that he shall
 stand at the latter day upon the earth," and that "in my flesh shall I see
 God: Whom I shall see for myself, and mine eyes shall behold. ..." ([Job
-19:25-27](https://www.lds.org/scriptures/ot/job/19.25-27?lang=eng#24).)
+19:25-27](/scriptures/ot/job/19.25-27?lang=eng#24).)
 
 And as I join my testimony with that of Job, may I also unite with him in
 thanksgiving, for the cry, uttered out of the anguish and sorrow of his soul:
 "... the Lord gave, and the Lord hath taken away; blessed be the name of the
-Lord." ([Job 1:21](https://www.lds.org/scriptures/ot/job/1.21?lang=eng#20).)
+Lord." ([Job 1:21](/scriptures/ot/job/1.21?lang=eng#20).)
 
 I pray that we may all be guided by the power of the Holy Spirit, that we may
 walk uprightly before the Lord, and that we may inherit eternal life in the
 mansions and kingdoms that are prepared for the obedient.
 
 This is my prayer in the name of the Lord Jesus Christ. Amen.
+
+## References
 

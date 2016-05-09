@@ -5,8 +5,7 @@ mother, provident homemaker, and compassionate woman. The essence of my
 message is contained in one of the passages which describes her:
 
 "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to
-the needy." ([Prov.
-31:20](https://www.lds.org/scriptures/ot/prov/31.20?lang=eng#19).)
+the needy." ([Prov. 31:20](/scriptures/ot/prov/31.20?lang=eng#19).)
 
 A fundamental doctrine of the gospel, a basic value in Welfare Services, and a
 response that has become traditional for both Welfare Services and Relief
@@ -93,17 +92,12 @@ should include the areas of expertise and availability of sisters for service.
 The stake Relief Society president can help the ward presidents in many ways
 to encourage the sisters to serve:
 
-  1. By making use of the files
-
-    1. In giving Relief Society service assignments to women;
-
-    2. In recommending homemaking minicourses or special training in managerial or organizational skills so that women will have more time for service; and
-
-    3. In recommending sisters to community service projects;
-
-  2. By helping women who desire to serve to evaluate their circumstances, commitments, time, and physical strength (married women might like to do this in consultation with their husbands); and
-
-  3. By encouraging women to enlist the cooperation of family members and others in order to make service easier.
+  1. By making use of the files 
+  2. In giving Relief Society service assignments to women; 
+  3. In recommending homemaking minicourses or special training in managerial or organizational skills so that women will have more time for service; and 
+  4. In recommending sisters to community service projects; 
+  5. By helping women who desire to serve to evaluate their circumstances, commitments, time, and physical strength (married women might like to do this in consultation with their husbands); and 
+  6. By encouraging women to enlist the cooperation of family members and others in order to make service easier. 
 
 A third broad category of service for those who have the time, ability, and
 energy beyond that needed for family and Church responsibilities is voluntary
@@ -129,7 +123,7 @@ of service--not only to their "own," but to their non-Church neighbors as
 well.
 
 Through the scriptures we are admonished by the Lord to be "anxiously engaged
-in a good cause." ([D&amp;C 58:27](https://www.lds.org/scriptures/dc-
+in a good cause." ([D&amp;C 58:27](/scriptures/dc-
 testament/dc/58.27?lang=eng#26).) Almost every woman can find appropriate ways
 of serving in good causes. A mother with a family of school-age children may
 feel the best way to serve her community is by becoming involved in the
@@ -146,4 +140,6 @@ out her hand to the poor, yea, she reacheth forth her hands to the needy."
 It is my prayer that women may, with discernment, minister to the poor and
 needy--even to the poor in spirit--and serve them well, in the name of Jesus
 Christ. Amen.
+
+## References
 

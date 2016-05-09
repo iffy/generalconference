@@ -13,13 +13,13 @@ required to live exemplary lives, to keep the commandments of the Lord, and it
 is also our responsibility to carry the true gospel message to all mankind.
 
 A prophet of the Book of Mormon said: "... men are, that they might have joy."
-([2 Ne. 2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).)
-Pleasure is not necessarily joy. Lehi was undoubtedly not speaking of
-temporary pleasure, but of eternal joy. In referring to man he was not
-limiting his existence to mortality. He was speaking of eternal man. Man can
-have joy in accomplishment, particularly eternal accomplishment. If he fails
-to live in such a way as to receive the blessing of eternal life in the
-kingdom of his Father, he will reap misery and disappointment.
+([2 Ne. 2:25](/scriptures/bofm/2-ne/2.25?lang=eng#24).) Pleasure is not
+necessarily joy. Lehi was undoubtedly not speaking of temporary pleasure, but
+of eternal joy. In referring to man he was not limiting his existence to
+mortality. He was speaking of eternal man. Man can have joy in accomplishment,
+particularly eternal accomplishment. If he fails to live in such a way as to
+receive the blessing of eternal life in the kingdom of his Father, he will
+reap misery and disappointment.
 
 The Lord showed unto Abraham the intelligences that were organized before the
 world was. And God saw these souls, that they were good, and he stood in the
@@ -36,7 +36,7 @@ the Lord their God shall command them;
 not their first estate shall not have glory in the same kingdom with those who
 keep their first estate; and they who keep their second estate shall have
 glory added upon their heads for ever and ever." ([Abr.
-3:24-26](https://www.lds.org/scriptures/pgp/abr/3.24-26?lang=eng#23).)
+3:24-26](/scriptures/pgp/abr/3.24-26?lang=eng#23).)
 
 There were many there who did not keep their first estate, their spiritual
 existence, who were disobedient, and as a result they were not added upon;
@@ -66,10 +66,9 @@ such salvation and exaltation. We are told that "there is a law, irrevocably
 decreed in heaven before the foundations of this world, upon which all
 blessings are predicated--And when we obtain any blessing from God, it is by
 obedience to that law upon which it is predicated." ([D&amp;C
-130:20-21](https://www.lds.org/scriptures/dc-
-testament/dc/130.20-21?lang=eng#19).) Our goal is salvation in the celestial
-kingdom of our Heavenly Father and to receive the glory that awaits the
-faithful there.
+130:20-21](/scriptures/dc-testament/dc/130.20-21?lang=eng#19).) Our goal is
+salvation in the celestial kingdom of our Heavenly Father and to receive the
+glory that awaits the faithful there.
 
 The Savior of the world unselfishly and willingly paid the utmost price, even
 that of his own blood, in order that mankind might be redeemed from the grave.
@@ -83,14 +82,14 @@ commandments. Those commandments are God's laws--nature's laws too--and the
 breaking of them brings penalties; observance brings the promised blessings.
 
 The Lord has told us, "... my yoke is easy, and my burden is light." ([Matt.
-11:30](https://www.lds.org/scriptures/nt/matt/11.30?lang=eng#29).) This does
-not mean that one can receive exaltation in the kingdom of our Heavenly Father
-at bargain prices. There are those who offer such bargains, but one gets
-merely what he pays for. If we are to attain eternal life in our Father's
-kingdom, it is not sufficient that we have mere passive belief in our Lord and
-Savior and his great redeeming sacrifice. Surely one cannot expect to receive
-the greatest blessings that the Father has in store for his faithful children
-by paying bargain prices.
+11:30](/scriptures/nt/matt/11.30?lang=eng#29).) This does not mean that one
+can receive exaltation in the kingdom of our Heavenly Father at bargain
+prices. There are those who offer such bargains, but one gets merely what he
+pays for. If we are to attain eternal life in our Father's kingdom, it is not
+sufficient that we have mere passive belief in our Lord and Savior and his
+great redeeming sacrifice. Surely one cannot expect to receive the greatest
+blessings that the Father has in store for his faithful children by paying
+bargain prices.
 
 There are those who seem to take the attitude that inasmuch as they have been
 baptized by immersion and by one having proper authority, and have had hands
@@ -118,7 +117,7 @@ godliness;
 
 "For if these things be in you, and abound, they make you that ye shall
 neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ."
-([2 Pet. 1:5-8](https://www.lds.org/scriptures/nt/2-pet/1.5-8?lang=eng#4).)
+([2 Pet. 1:5-8](/scriptures/nt/2-pet/1.5-8?lang=eng#4).)
 
 Just as in this enlightened age the inventive mind and the creative hand have
 added greatly to man's obligations, so has the fact that the Spirit of the
@@ -143,7 +142,7 @@ be likened unto a foolish man, which built his house upon the sand:
 
 "And the rain descended, and the floods came, and the winds blew, and beat
 upon that house; and it fell: and great was the fall of it." ([Matt. 7:21,
-24-27](https://www.lds.org/scriptures/nt/matt/7.21%2C24-27?lang=eng#20).)
+24-27](/scriptures/nt/matt/7.21,24-27?lang=eng#20).)
 
 The Lord has given us in this dispensation a life-giving, life-shaping purpose
 when he gave us the gospel of Jesus Christ. The gospel is given for the
@@ -181,9 +180,11 @@ but eternal growth and activity. This is the joy of which Lehi spoke.
 Truly, "the kingdom of heaven is like unto a merchant man, seeking goodly
 pearls: Who, when he had found one pearl of great price, went and sold all
 that he had, and bought it." ([Matt.
-13:45-46](https://www.lds.org/scriptures/nt/matt/13.45-46?lang=eng#44).) May
-the Lord bless and inspire us in our efforts to attain this goal.
+13:45-46](/scriptures/nt/matt/13.45-46?lang=eng#44).) May the Lord bless and
+inspire us in our efforts to attain this goal.
 
 I testify that Jesus is the Christ and that he is the author of the restored
 gospel, the plan of life and salvation, in the name of Jesus Christ. Amen.
+
+## References
 

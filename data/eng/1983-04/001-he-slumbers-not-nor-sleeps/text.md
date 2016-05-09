@@ -3,7 +3,7 @@
 I hope you enjoyed that magnificent anthem presented by the Choir--"He,
 Watching Over Israel, Slumbers Not, Nor Sleeps." It is from Mendelssohn's
 _Elijah,_ and the words are adapted from the Psalms. (See [Ps.
-121:4](https://www.lds.org/scriptures/ot/ps/121.4?lang=eng#3).)
+121:4](/scriptures/ot/ps/121.4?lang=eng#3).)
 
 As we unite in this great world conference of The Church of Jesus Christ of
 Latter-day Saints I should like to use those wonderful, reassuring words as
@@ -42,8 +42,8 @@ We likewise shall miss in this conference the stirring testimony of Elder
 LeGrand Richards of the Council of the Twelve. For forty-five years he stood
 at the pulpit in this Tabernacle bearing witness to the truth of this
 "marvellous work and a wonder" ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13)). Millions
-were touched by the eloquence and sincerity of his testimony.
+29:14](/scriptures/ot/isa/29.14?lang=eng#13)). Millions were touched by the
+eloquence and sincerity of his testimony.
 
 We feel deeply the absence of these great leaders. Their absence has placed
 upon others of us an awesome responsibility. I thank the Lord for his
@@ -66,15 +66,15 @@ the Church, each is free to express his views. As one observes that
 interesting process at work, it is fascinating to witness the power of the
 Holy Spirit influence these men. Initial differences never sharp but
 nonetheless perceptible soften and meld into an expression of unity. "My house
-is a house of order," said the Lord. (See [D&amp;C
-132:8](https://www.lds.org/scriptures/dc-testament/dc/132.8?lang=eng#7).) In
-witnessing this process at work, I experience a constant renewal of faith.
+is a house of order," said the Lord. (See [D&amp;C 132:8](/scriptures/dc-
+testament/dc/132.8?lang=eng#7).) In witnessing this process at work, I
+experience a constant renewal of faith.
 
 I express sincere appreciation also to my brethren and sisters across the
 world, members of the Church, wherever you may be. I pray that you will be
 sustained and blessed, that there will be peace in your homes and in your
 hearts, and that "the pure love of Christ" will be felt in your lives. ([Moro.
-7:47](https://www.lds.org/scriptures/bofm/moro/7.47?lang=eng#46).)
+7:47](/scriptures/bofm/moro/7.47?lang=eng#46).)
 
 Recently while wrestling in my mind with a problem I thought to be of serious
 consequence I went to my knees in prayer. There came into my mind a feeling of
@@ -82,7 +82,7 @@ peace and the words of the Lord, "Be still and know that I am God." I turned
 to the scripture and read this reassuring statement spoken to the Prophet
 Joseph Smith 150 years ago: "Let your hearts be comforted concerning Zion; for
 all flesh is in mine hands; be still and know that I am God." ([D&amp;C
-101:16](https://www.lds.org/scriptures/dc-testament/dc/101.16?lang=eng#15).)
+101:16](/scriptures/dc-testament/dc/101.16?lang=eng#15).)
 
 God is weaving his tapestry according to his own grand design. All flesh is in
 his hands. It is not our prerogative to counsel him. It is our responsibility
@@ -216,11 +216,10 @@ course in building the kingdom of God in the earth.
 Our great, basic message to the world is that Jesus is the Christ, the Son of
 the Living God; that he gave his life as a sacrifice for all mankind; that he
 rose from the grave that first Easter morning, "the firstfruits of them that
-slept" ([1 Cor.
-15:20](https://www.lds.org/scriptures/nt/1-cor/15.20?lang=eng#19)); that "as
-in Adam all die, even so in Christ shall all be made alive" ([1 Cor.
-15:22](https://www.lds.org/scriptures/nt/1-cor/15.22?lang=eng#21)); that he
-lives, our resurrected Lord and Master.
+slept" ([1 Cor. 15:20](/scriptures/nt/1-cor/15.20?lang=eng#19)); that "as in
+Adam all die, even so in Christ shall all be made alive" ([1 Cor.
+15:22](/scriptures/nt/1-cor/15.22?lang=eng#21)); that he lives, our
+resurrected Lord and Master.
 
 As has been said before from this pulpit, he has given us a three-fold
 mission: first, the teaching of the restored gospel to every nation, kindred,
@@ -266,14 +265,14 @@ with all thy soul, and with all thy mind.
 "And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
 "On these two commandments hang all the law and the prophets." ([Matt.
-22:35-40](https://www.lds.org/scriptures/nt/matt/22.35-40?lang=eng#34).)
+22:35-40](/scriptures/nt/matt/22.35-40?lang=eng#34).)
 
 This must be the foundation of our instruction: love of God and love for and
 service to others--neighbors, family, and all with whom we have association.
 That which we teach must be constantly gauged against these two standards
 established by the Lord. If we shall do so, this work will continue to roll
 forward. We shall become as a city set upon a hill whose light cannot be hid.
-(See [Matt. 5:14](https://www.lds.org/scriptures/nt/matt/5.14?lang=eng#13).)
+(See [Matt. 5:14](/scriptures/nt/matt/5.14?lang=eng#13).)
 
 Then, in a spirit of love and consecration, we must extend ourselves in the
 work of redemption of the dead through service in the temples of the Lord.
@@ -286,11 +285,12 @@ Father in Heaven in the accomplishment of his eternal purposes. You and I may
 fail as individuals and miss the blessing. But his work cannot fail. There
 will always be those he will raise up to accomplish it. He has declared:
 "Surely as I have thought, so shall it come to pass; and as I have purposed,
-so shall it stand." ([Isa.
-14:24](https://www.lds.org/scriptures/ot/isa/14.24?lang=eng#23).)
+so shall it stand." ([Isa. 14:24](/scriptures/ot/isa/14.24?lang=eng#23).)
 
 I bear witness to you this morning that he, watching over Israel, slumbers not
 nor sleeps. God help us to be faithful to the great trust he has placed in us,
 I humbly pray as I invoke the blessings of the Lord upon you, in the name of
 Jesus Christ, amen.
+
+## References
 

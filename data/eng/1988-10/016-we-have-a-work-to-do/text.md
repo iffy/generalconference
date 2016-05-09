@@ -12,7 +12,7 @@ love, I rebuke and chasten: be zealous therefore, and repent.
 
 "Behold, I stand at the door, and knock: if any man hear my voice, and open
 the door, I will come in to him, and will sup with him, and he with me."
-([Rev. 3:19-20](https://www.lds.org/scriptures/nt/rev/3.19-20?lang=eng#18).)
+([Rev. 3:19-20](/scriptures/nt/rev/3.19-20?lang=eng#18).)
 
 That is the direction, my priesthood brethren.
 
@@ -40,7 +40,8 @@ necessary that I might magnify my calling in the priesthood.
 May we all have the desire to accomplish this so there will be no one that
 will be able to say, as is recorded in Psalms, "I looked on my right hand, and
 beheld, but there was no man that would know me: refuge failed me; no man
-cared for my soul." ([Ps.
-142:4](https://www.lds.org/scriptures/ot/ps/142.4?lang=eng#3).) In the name of
-Jesus Christ, amen.
+cared for my soul." ([Ps. 142:4](/scriptures/ot/ps/142.4?lang=eng#3).) In the
+name of Jesus Christ, amen.
+
+## References
 

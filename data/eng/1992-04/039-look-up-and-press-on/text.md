@@ -28,8 +28,7 @@ your own front porch. Whatever your perspective, today I ask you to stand arm
 in arm with me and look up! Let us climb together to new spiritual heights. We
 will echo Isaiah's words, "Let us go up to the mountain of the Lord, to the
 house of the God of Jacob; and he will teach us of his ways, and we will walk
-in his paths." ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2).)
+in his paths." ([Isa. 2:3](/scriptures/ot/isa/2.3?lang=eng#2).)
 
 Today I ask you to undertake with me a spiritual journey worthy of our best
 efforts. I ask you to press forward with me in the quest for unparalleled
@@ -52,37 +51,34 @@ daily rejoice in being alive now when we can covenant through baptism and in
 the house of the Lord. I feel as Nephi expressed, "My soul delighteth in the
 covenants of the Lord ... ; yea, my soul delighteth in his grace, and in his
 justice, and power, and mercy in the great and eternal plan of deliverance
-from death." ([2 Ne.
-11:5](https://www.lds.org/scriptures/bofm/2-ne/11.5?lang=eng#4).) To be a
+from death." ([2 Ne. 11:5](/scriptures/bofm/2-ne/11.5?lang=eng#4).) To be a
 woman of covenant is a sacred and holy calling. Our covenants should ennoble
 us, serving as inspiration and incentive. A deepened understanding of our
 covenants lifts our vision to the loftier vistas awaiting us. As we are "true
 followers of ... Jesus Christ," we can become the daughters of God, "that when
 he shall appear we shall be like him, for we shall see him as he is." ([Moro.
-7:48](https://www.lds.org/scriptures/bofm/moro/7.48?lang=eng#47).)
+7:48](/scriptures/bofm/moro/7.48?lang=eng#47).)
 
 In this quest for the best in us, we are like Sariah, who, with Lehi and their
 family, left Jerusalem at the Lord's command. We stand with our "family, and
-provisions" ([1 Ne.
-2:4](https://www.lds.org/scriptures/bofm/1-ne/2.4?lang=eng#3)), and we travel
+provisions" ([1 Ne. 2:4](/scriptures/bofm/1-ne/2.4?lang=eng#3)), and we travel
 through the wilderness. We give "thanks unto the Lord our God." ([1 Ne.
-2:7](https://www.lds.org/scriptures/bofm/1-ne/2.7?lang=eng#6).) Sometimes we
-grieve because of the hardened hearts of those we love. Some moments we are
-"filled with joy, and ... exceedingly glad." ([1 Ne.
-5:1](https://www.lds.org/scriptures/bofm/1-ne/5.1?lang=eng#0).) At other times
-we "exhort ... with all the feeling of a tender parent" ([1 Ne.
-8:37](https://www.lds.org/scriptures/bofm/1-ne/8.37?lang=eng#36)), whether we
-are physical mothers or not. We toil. We encounter conflicts. We strive for
-faith. We "[suffer] all things." ([1 Ne.
-17:20](https://www.lds.org/scriptures/bofm/1-ne/17.20?lang=eng#19).) Yet, like
-Sariah, we keep moving towards exaltation, the ultimate promised land.
+2:7](/scriptures/bofm/1-ne/2.7?lang=eng#6).) Sometimes we grieve because of
+the hardened hearts of those we love. Some moments we are "filled with joy,
+and ... exceedingly glad." ([1 Ne. 5:1](/scriptures/bofm/1-ne/5.1?lang=eng#0).)
+At other times we "exhort ... with all the feeling of a tender parent" ([1 Ne.
+8:37](/scriptures/bofm/1-ne/8.37?lang=eng#36)), whether we are physical
+mothers or not. We toil. We encounter conflicts. We strive for faith. We
+"[suffer] all things." ([1 Ne.
+17:20](/scriptures/bofm/1-ne/17.20?lang=eng#19).) Yet, like Sariah, we keep
+moving towards exaltation, the ultimate promised land.
 
 You recall that during the journey of Lehi and Sariah's family, Nephi broke
 his bow. He was directed to "go forth up into the top of the mountain" ([1 Ne.
-16:30](https://www.lds.org/scriptures/bofm/1-ne/16.30?lang=eng#29)) to obtain
-food for his family. I wonder when he reached the top if he paused, as I often
-have at such a height, to look around and see how far he and his family had
-come and the direction in which they still needed to go.
+16:30](/scriptures/bofm/1-ne/16.30?lang=eng#29)) to obtain food for his
+family. I wonder when he reached the top if he paused, as I often have at such
+a height, to look around and see how far he and his family had come and the
+direction in which they still needed to go.
 
 Beloved sisters, from my vantage point I see your goodness and potential. I
 know your lives have their difficulties. I also see how far you've climbed
@@ -90,9 +86,9 @@ already and what dazzling heights you've attained. I feel the love of the
 Savior for you and your love for Him. Our Lord Himself promised, "I will go
 before your face. I will be on your right hand and on your left, and my Spirit
 shall be in your hearts, and mine angels round about you, to bear you up."
-([D&amp;C 84:88](https://www.lds.org/scriptures/dc-
-testament/dc/84.88?lang=eng#87).) With such a promise, we can keep going. With
-this assurance, we will rise to spiritual heights previously unimagined.
+([D&amp;C 84:88](/scriptures/dc-testament/dc/84.88?lang=eng#87).) With such a
+promise, we can keep going. With this assurance, we will rise to spiritual
+heights previously unimagined.
 
 A ward Relief Society president recently shared with me the reaction of a
 community worker to her request to inform the sisters of local service needs.
@@ -162,28 +158,28 @@ The prophet Moses told the children of Israel, who were ready to enter a new
 territory of many unknowns, "Be strong and of a good courage, fear not, nor be
 afraid ... : for the Lord thy God, he it is that doth go with thee; he will not
 fail thee, nor forsake thee." ([Deut.
-31:6](https://www.lds.org/scriptures/ot/deut/31.6?lang=eng#5).) Sisters, the
-Lord will not fail or forsake us.
+31:6](/scriptures/ot/deut/31.6?lang=eng#5).) Sisters, the Lord will not fail
+or forsake us.
 
 We will climb our spiritual mountains rejoicing. Our hearts will resonate to
 Isaiah's words, "For ye shall go out with joy, and be led forth with peace:
 the mountains and the hills shall break forth before you into singing, and all
 the trees of the field shall clap their hands." ([Isa.
-55:12](https://www.lds.org/scriptures/ot/isa/55.12?lang=eng#11).) Each
-insight, each spiritual view should fill us with a spirit of thanksgiving that
-spills over into the lives of those around us. We sisters in Zion have the
-best reasons to thank the Lord.
+55:12](/scriptures/ot/isa/55.12?lang=eng#11).) Each insight, each spiritual
+view should fill us with a spirit of thanksgiving that spills over into the
+lives of those around us. We sisters in Zion have the best reasons to thank
+the Lord.
 
 Thank the Lord for your testimony. Thank Him for being alive now. When your
 challenges come, thank the Lord for your knowledge that He lives, and feel
 peace knowing He loves you. As you work hard, say, "The Lord doth give me
 exceedingly great joy in the fruit of my labors." ([Alma
-36:25](https://www.lds.org/scriptures/bofm/alma/36.25?lang=eng#24).) When you
-struggle, say, "I can do all things through Christ which strengtheneth me."
-([Philip. 4:13](https://www.lds.org/scriptures/nt/philip/4.13?lang=eng#12).)
-With each new lesson learned and each answer to personal prayer, say, "I
-rejoice exceedingly that [my] Lord Jesus Christ hath been mindful of [me]."
-([Moro. 8:2](https://www.lds.org/scriptures/bofm/moro/8.2?lang=eng#1).)
+36:25](/scriptures/bofm/alma/36.25?lang=eng#24).) When you struggle, say, "I
+can do all things through Christ which strengtheneth me." ([Philip.
+4:13](/scriptures/nt/philip/4.13?lang=eng#12).) With each new lesson learned
+and each answer to personal prayer, say, "I rejoice exceedingly that [my] Lord
+Jesus Christ hath been mindful of [me]." ([Moro.
+8:2](/scriptures/bofm/moro/8.2?lang=eng#1).)
 
 Today, arm in arm and hand in hand, we stand together on sand or rock or the
 steps of home. We look together in the direction of our heavenly home. May
@@ -191,7 +187,9 @@ you, a member of Relief Society--and my sister--seek and find the loftiest,
 personal spiritual heights. May the peaks of spiritual awareness fill your
 soul with joy and inspire you to look up and to press on. And may this ascent
 we share witness in every home and in every nation "That he lives!" ([D&amp;C
-76:22](https://www.lds.org/scriptures/dc-testament/dc/76.22?lang=eng#21).)
+76:22](/scriptures/dc-testament/dc/76.22?lang=eng#21).)
 
 In the name of Jesus Christ, amen.
+
+## References
 

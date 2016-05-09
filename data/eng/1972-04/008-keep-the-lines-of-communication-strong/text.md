@@ -32,10 +32,10 @@ His suffering before and on the cross and his great sacrifice can mean little
 or nothing to us unless we live his commandments. For he says:
 
 "... why call ye me, Lord, Lord, and do not the things which I say?" ([Luke
-6:46](https://www.lds.org/scriptures/nt/luke/6.46?lang=eng#45).)
+6:46](/scriptures/nt/luke/6.46?lang=eng#45).)
 
 "If ye love me, keep my commandments." ([John
-14:15](https://www.lds.org/scriptures/nt/john/14.15?lang=eng#14).)
+14:15](/scriptures/nt/john/14.15?lang=eng#14).)
 
 Certainly if we fail to live his teachings, we lose communication with him.
 
@@ -169,8 +169,8 @@ life, and our vocabulary has been invaded with, "Let me do my thing."
 
 Yet the Lord has said, "... seek ye first the kingdom of God, and his
 righteousness; and all these things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).) Too often,
-though, we want the "things" first.
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).) Too often, though, we want the
+"things" first.
 
 We have a great generation of youth, but as I talk to many, I am amazed and
 surprised at the laxity of prayers among them, especially those who are in
@@ -191,14 +191,13 @@ Israel's King Ahab demanded of the prophet Elijah:
 "And he answered, I have not troubled Israel; but thou, and thy father's
 house, in that ye have forsaken the commandments of the Lord, and thou hast
 followed Baalim." ([1 Kgs.
-18:17-18](https://www.lds.org/scriptures/ot/1-kgs/18.17-18?lang=eng#16).)
+18:17-18](/scriptures/ot/1-kgs/18.17-18?lang=eng#16).)
 
 The spectacular drama portrayed on Mt. Carmel between Elijah the prophet and
 the ineffectual false priests of Baal is the story of sagging lines of
 communication. Great wickedness--and the Lord had sealed the heavens from
 rain. Elijah had said: "... if the Lord be God, follow him: but if Baal, then
-follow him. ..." ([1 Kgs.
-18:21](https://www.lds.org/scriptures/ot/1-kgs/18.21?lang=eng#20).)
+follow him. ..." ([1 Kgs. 18:21](/scriptures/ot/1-kgs/18.21?lang=eng#20).)
 
 The contest brought about by Elijah was to prove to Israel that the gods of
 stone and wood and metal were powerless. When the 450 priests of Baal could
@@ -239,4 +238,6 @@ the world as it pushes in upon them.
 May we always repair our sagging lines and fulfill our total obligations and
 thus keep close to our Lord and Savior, I pray in the name of Jesus Christ.
 Amen.
+
+## References
 

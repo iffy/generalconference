@@ -14,21 +14,21 @@ the world. Elder Condie noted, "Isn't it remarkable what people with five
 loaves and two fishes do to build up the kingdom of God." This kind of quiet,
 devoted service to me is surely a fulfillment of the word of God "that the
 fulness of my gospel might be proclaimed by the weak and the simple unto the
-ends of the world, and before kings and rulers" ([D&amp;C
-1:23](https://www.lds.org/scriptures/dc-testament/dc/1.23?lang=eng#22)). Today
-I would like to speak of those of us who have only talents equal to five
-loaves and two fishes to offer the Savior to help feed the multitudes.
+ends of the world, and before kings and rulers" ([D&amp;C 1:23](/scriptures
+/dc-testament/dc/1.23?lang=eng#22)). Today I would like to speak of those of
+us who have only talents equal to five loaves and two fishes to offer the
+Savior to help feed the multitudes.
 
 "When Jesus then lifted up his eyes, and saw a great company come unto him, he
 saith unto Philip, Whence shall we buy bread, that these may eat?
 
 "And this he said to prove him: for he himself knew what he would do" ([John
-6:5-6](https://www.lds.org/scriptures/nt/john/6.5-6?lang=eng#4)).
+6:5-6](/scriptures/nt/john/6.5-6?lang=eng#4)).
 
 Philip answered quickly that there was not enough money to buy bread for the
 multitude. Then Andrew, Peter's brother, said, "There is a lad here, which
 hath five barley loaves, and two small fishes" ([John
-6:9](https://www.lds.org/scriptures/nt/john/6.9?lang=eng#8)).
+6:9](/scriptures/nt/john/6.9?lang=eng#8)).
 
 "And when he had taken the five loaves and the two fishes, he looked up to
 heaven, and blessed, and brake the loaves, and gave them to his disciples to
@@ -39,11 +39,11 @@ set before them; and the two fishes divided he among them all.
 "And they took up twelve baskets full of the fragments, and of the fishes.
 
 "And they that did eat of the loaves were about five thousand men" ([Mark
-6:41-44](https://www.lds.org/scriptures/nt/mark/6.41-44?lang=eng#40)).
+6:41-44](/scriptures/nt/mark/6.41-44?lang=eng#40)).
 
 Subsequently their hearts were hardened in that they forgot the divine mission
 of Jesus, "for they considered not the miracle of the loaves" ([Mark
-6:52](https://www.lds.org/scriptures/nt/mark/6.52?lang=eng#51)).
+6:52](/scriptures/nt/mark/6.52?lang=eng#51)).
 
 In our time, we seem to have forgotten the miracle of the five loaves and the
 two fishes in favor of the miracles wrought by the mind and hand of men. I
@@ -79,13 +79,13 @@ serve without attention or recognition, feeding literally thousands. In large
 measure, they make possible the fulfillment of Nebuchadnezzar's dream that the
 latter-day gospel of Christ would be like a stone cut out of the mountains
 without hands, rolling forth until it fills the whole earth (see [Dan.
-2:34-35](https://www.lds.org/scriptures/ot/dan/2.34-35?lang=eng#33); [D&amp;C
-65:2](https://www.lds.org/scriptures/dc-testament/dc/65.2?lang=eng#1)). These
-are the hundreds of thousands of leaders and teachers in all of the
-auxiliaries and priesthood quorums, the home teachers, the Relief Society
-visiting teachers. These are the many humble bishops in the Church, some
-without formal training but greatly magnified, always learning, with a humble
-desire to serve the Lord and the people of their wards.
+2:34-35](/scriptures/ot/dan/2.34-35?lang=eng#33); [D&amp;C 65:2](/scriptures
+/dc-testament/dc/65.2?lang=eng#1)). These are the hundreds of thousands of
+leaders and teachers in all of the auxiliaries and priesthood quorums, the
+home teachers, the Relief Society visiting teachers. These are the many humble
+bishops in the Church, some without formal training but greatly magnified,
+always learning, with a humble desire to serve the Lord and the people of
+their wards.
 
 Any man or woman who enjoys the Master's touch is like potter's clay in his
 hands. More important than acquiring fame or fortune is being what God wants
@@ -93,9 +93,9 @@ us to be. Before we came to this earth, we may have been fashioned to do some
 small good in this life that no one else can do. The Lord said to Jeremiah,
 "Before I formed thee in the belly I knew thee; and before thou camest forth
 out of the womb I sanctified thee, and I ordained thee a prophet unto the
-nations" ([Jer. 1:5](https://www.lds.org/scriptures/ot/jer/1.5?lang=eng#4)).
-If God has a work for those with many talents, I believe he also has an
-important work for those of us who have few.
+nations" ([Jer. 1:5](/scriptures/ot/jer/1.5?lang=eng#4)). If God has a work
+for those with many talents, I believe he also has an important work for those
+of us who have few.
 
 What is the central characteristic of those having only five loaves and two
 fishes? What makes it possible, under the Master's touch, for them to serve,
@@ -117,13 +117,13 @@ hold body and soul together. But they are not forgotten. If their talents are
 used to build the kingdom of God and serve others, they will fully enjoy the
 promises of the Savior. The great promise of the Savior is that they "shall
 receive [their] reward, even peace in this world, and eternal life in the
-world to come" ([D&amp;C 59:23](https://www.lds.org/scriptures/dc-
+world to come" ([D&amp;C 59:23](/scriptures/dc-
 testament/dc/59.23?lang=eng#22)). The one who had only two talents was able to
 say, "Lord, thou deliveredst unto me two talents: behold, I have gained two
 other talents beside them." Thus said the Lord, "Well done, good and faithful
 servant; thou hast been faithful over a few things, I will make thee ruler
 over many things: enter ... into the joy of thy lord" ([Matt.
-25:22-23](https://www.lds.org/scriptures/nt/matt/25.22-23?lang=eng#21)).
+25:22-23](/scriptures/nt/matt/25.22-23?lang=eng#21)).
 
 It is a blessing for some to be given minds and talents equal to fifteen
 loaves and ten fishes. They have so very much that they can contribute, but
@@ -133,7 +133,7 @@ and what they have. They seem unwilling or unable to yield "to the enticings
 of the Holy Spirit, ... and [become] as a child, submissive, meek, humble,
 patient, full of love, willing to submit to all things which the Lord seeth
 fit to inflict upon [them], even as a child doth submit to his father"
-([Mosiah 3:19](https://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18)).
+([Mosiah 3:19](/scriptures/bofm/mosiah/3.19?lang=eng#18)).
 
 During much of my life, a few journalists and dissidents have predicted the
 imminent downfall of this church. They have often pointed to the alleged
@@ -159,8 +159,8 @@ strength is the faithfulness and devotion of millions of humble and devoted
 people who have only five loaves and two small fishes to offer in the service
 of the Master. They have largely surrendered their own interests, and in so
 doing have found "the peace of God, which passeth all understanding" ([Philip.
-4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6)). I wish only to
-be one of those who experience this supernal inner peace.
+4:7](/scriptures/nt/philip/4.7?lang=eng#6)). I wish only to be one of those
+who experience this supernal inner peace.
 
 In the listening audience today are Jeff and Joyce Underwood of Pocatello,
 Idaho. They are parents of Jeralee and their other five children. Jeff works
@@ -206,7 +206,8 @@ five barley loaves and two small fishes to give to the cause of the Savior,
 but by the power of God, countless thousands have been spiritually fed.
 
 I testify that the gospel we teach is the "power of God unto salvation" for
-all who listen and obey ([Rom.
-1:16](https://www.lds.org/scriptures/nt/rom/1.16?lang=eng#15)), regardless of
-their talents and abilities, in the name of Jesus Christ, amen.
+all who listen and obey ([Rom. 1:16](/scriptures/nt/rom/1.16?lang=eng#15)),
+regardless of their talents and abilities, in the name of Jesus Christ, amen.
+
+## References
 

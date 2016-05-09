@@ -1,4 +1,4 @@
-# Welfare Services: The Savior’s Program
+# Welfare Services:The Savior’s Program
 
 My beloved brethren and sisters, we've had a great meeting this morning. I
 trust that I can conclude this meeting with the Spirit of the Lord guiding and
@@ -13,7 +13,7 @@ rest.
 "Take my yoke upon you, and learn of me; ...
 
 "For my yoke is easy, and my burden is light." ([Matt.
-11:28-30](https://www.lds.org/scriptures/nt/matt/11.28-30?lang=eng#27).)
+11:28-30](/scriptures/nt/matt/11.28-30?lang=eng#27).)
 
 Thus did Jesus promise spiritual refreshment and physical relief to all who
 will obey his gospel.
@@ -21,7 +21,7 @@ will obey his gospel.
 "And Jesus went about all the cities and villages, teaching in their
 synagogues, and preaching the gospel of the kingdom, and healing every
 sickness and every disease among the people" ([Matt.
-9:35](https://www.lds.org/scriptures/nt/matt/9.35?lang=eng#34)).
+9:35](/scriptures/nt/matt/9.35?lang=eng#34)).
 
 Responding to questions asked by two of John's disciples, Jesus said:
 
@@ -29,8 +29,7 @@ Responding to questions asked by two of John's disciples, Jesus said:
 
 "The blind receive their sight, and the lame walk, the lepers are cleansed,
 the deaf hear, the dead are raised up, and the poor have the gospel preached
-to them" ([Matt.
-11:4-5](https://www.lds.org/scriptures/nt/matt/11.4-5?lang=eng#3)).
+to them" ([Matt. 11:4-5](/scriptures/nt/matt/11.4-5?lang=eng#3)).
 
 All who are acquainted with the Lord's earthly ministry seem to conclude, as
 President J. Reuben Clark did, that "when the Savior came upon the earth he
@@ -49,7 +48,7 @@ concluded that the work which you and I call welfare service is the work of
 the Savior. This welfare plan is his plan; its principles are his principles;
 its spirit is his spirit; he it is who sends us to minister one to another.
 His gospel requires us to love our neighbors as ourselves (see [Matt.
-19:19](https://www.lds.org/scriptures/nt/matt/19.19?lang=eng#18)).
+19:19](/scriptures/nt/matt/19.19?lang=eng#18)).
 
 "If ye do this," King Benjamin said, "ye shall always rejoice, and be filled
 with the love of God, and always retain a remission of your sins; ...
@@ -65,9 +64,8 @@ teach them to love one another, and to serve one another._
 
 "And also, _ye yourselves will succor those that stand in need of your succor;
 ye will administer of your substance unto him that standeth in need."_
-([Mosiah
-4:12-16](https://www.lds.org/scriptures/bofm/mosiah/4.12-16?lang=eng#11);
-italics added.)
+([Mosiah 4:12-16](/scriptures/bofm/mosiah/4.12-16?lang=eng#11); italics
+added.)
 
 _"And now,"_ King Benjamin continued,_ "for the sake of these things which I
 have spoken unto you--that is, for the sake of retaining a remission of your
@@ -75,9 +73,8 @@ sins from day to day, that ye may walk guiltless before God--I would that ye
 should impart of your substance to the poor, every man according to that which
 he hath, such as feeding the hungry, clothing the naked, visiting the sick and
 administering to their relief, both spiritually and temporally, according to
-their wants"_ ([Mosiah
-4:26](https://www.lds.org/scriptures/bofm/mosiah/4.26?lang=eng#25); italics
-added).
+their wants"_ ([Mosiah 4:26](/scriptures/bofm/mosiah/4.26?lang=eng#25);
+italics added).
 
 _Is there any question, brothers and sisters, about our obligation in this
 program? Is there any doubt that retaining a remission of sins depends on our
@@ -87,8 +84,7 @@ the Spirit of the Lord in our lives, then we must do the things that the
 Savior said and did._ He it was who said:
 
 "Verily, verily, I say unto you, He that believeth on me, the works that I do
-shall he do also" ([John
-14:12](https://www.lds.org/scriptures/nt/john/14.12?lang=eng#11)).
+shall he do also" ([John 14:12](/scriptures/nt/john/14.12?lang=eng#11)).
 
 May I suggest several ways in which we as leaders and members can and should
 improve our work in this, his service.
@@ -116,7 +112,7 @@ We hear reports that some bishops are committed to a course of action taken by
 their stake president without the involvement and consent of the bishops.
 While we do and must support our leaders, every leader would be wise to pursue
 this work in the spirit of section 38. For the Lord has said, "If ye are not
-one ye are not mine" ([D&amp;C 38:27](https://www.lds.org/scriptures/dc-
+one ye are not mine" ([D&amp;C 38:27](/scriptures/dc-
 testament/dc/38.27?lang=eng#26)).
 
 Many of you will be allocating a significantly increased annual production
@@ -144,14 +140,13 @@ set me apart for my mission in 1920: "A person cannot give a crust to the Lord
 without receiving a loaf in return."
 
 The Savior taught that it is more blessed to give than to receive (see [Acts
-20:35](https://www.lds.org/scriptures/nt/acts/20.35?lang=eng#34)). Through
-Church welfare, both the giver and the receiver are blessed in unique ways--
-each to the sanctification and salvation of his eternal soul.
+20:35](/scriptures/nt/acts/20.35?lang=eng#34)). Through Church welfare, both
+the giver and the receiver are blessed in unique ways--each to the
+sanctification and salvation of his eternal soul.
 
 "Remember in all things the poor and the needy, the sick and the afflicted,"
 said Jesus, "for he that doeth not these things, the same is not my disciple"
-([D&amp;C 52:40](https://www.lds.org/scriptures/dc-
-testament/dc/52.40?lang=eng#39)).
+([D&amp;C 52:40](/scriptures/dc-testament/dc/52.40?lang=eng#39)).
 
 When discipleship is seen in light of this understanding of the gospel, we
 may, perhaps, understand something which I have believed for a long time: _The
@@ -164,9 +159,8 @@ one another. According to the teachings of the Savior himself, the door of
 salvation at the final judgment turns on the hinge of loving our neighbor as
 ourselves. As recorded in the twenty-fifth chapter of Matthew, when the Lord
 returns in his glory he will divide the people "as a shepherd divideth his
-sheep from the goats" ([Matt.
-25:32](https://www.lds.org/scriptures/nt/matt/25.32?lang=eng#31)). To those on
-his right hand he will say:
+sheep from the goats" ([Matt. 25:32](/scriptures/nt/matt/25.32?lang=eng#31)).
+To those on his right hand he will say:
 
 "Come, ye blessed of my Father, inherit the kingdom prepared for you from the
 foundation of the world:
@@ -175,8 +169,7 @@ foundation of the world:
 drink: I was a stranger, and ye took me in:
 
 "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and
-ye came unto me" ([Matt.
-25:34-36](https://www.lds.org/scriptures/nt/matt/25.34-36?lang=eng#33)).
+ye came unto me" ([Matt. 25:34-36](/scriptures/nt/matt/25.34-36?lang=eng#33)).
 
 It is my prayer that each of us will derive from this session of conference
 today a greater conviction and a deeper understanding that welfare services is
@@ -184,4 +177,6 @@ the work of Jesus Christ, that the welfare plan is his plan, that its
 principles are his principles, that its spirit is his spirit, and that its
 achievements are the surest guarantee of peace in this life and immortal glory
 in the world to come. In the name of Jesus Christ, amen.
+
+## References
 

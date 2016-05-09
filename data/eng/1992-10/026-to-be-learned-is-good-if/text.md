@@ -5,7 +5,7 @@ spirit of reverence and worship.
 
 We are counseled to "seek ... diligently and teach one another words of wisdom;
 yea, seek ye out of the best books words of wisdom; seek learning, even by
-study and also by faith." ([D&amp;C 88:118](https://www.lds.org/scriptures/dc-
+study and also by faith." ([D&amp;C 88:118](/scriptures/dc-
 testament/dc/88.118?lang=eng#117).)
 
 The words _study_ and _faith_ each portray a type of education. First, we are
@@ -14,14 +14,12 @@ commanded to "teach one another the _doctrine_ of the kingdom.
 "Teach ye diligently and my grace shall attend you, that you may be instructed
 more perfectly in theory, in principle, in doctrine, in the law of the gospel,
 in all things that pertain unto the kingdom of God." ([D&amp;C
-88:77-78](https://www.lds.org/scriptures/dc-
-testament/dc/88.77-78?lang=eng#76).)
+88:77-78](/scriptures/dc-testament/dc/88.77-78?lang=eng#76).)
 
 And we are also "to obtain a knowledge of history, and of countries, and of
 kingdoms, of laws of God and man, and all this for the salvation of Zion."
-([D&amp;C 93:53](https://www.lds.org/scriptures/dc-
-testament/dc/93.53?lang=eng#52); see also [D&amp;C
-88:79](https://www.lds.org/scriptures/dc-testament/dc/88.79?lang=eng#78).)
+([D&amp;C 93:53](/scriptures/dc-testament/dc/93.53?lang=eng#52); see also
+[D&amp;C 88:79](/scriptures/dc-testament/dc/88.79?lang=eng#78).)
 
 The Church must concentrate on moral and spiritual education; we may encourage
 secular education but not necessarily provide it.
@@ -95,11 +93,10 @@ respecter of persons:
 
 "But in every nation he that feareth him, and worketh righteousness, is
 accepted with him." ([Acts
-10:34-35](https://www.lds.org/scriptures/nt/acts/10.34-35?lang=eng#33); see
-also [Moro. 8:12](https://www.lds.org/scriptures/bofm/moro/8.12?lang=eng#11);
-[D&amp;C 1:35](https://www.lds.org/scriptures/dc-
-testament/dc/1.35?lang=eng#34); [D&amp;C 38:16](https://www.lds.org/scriptures
-/dc-testament/dc/38.16?lang=eng#15).)
+10:34-35](/scriptures/nt/acts/10.34-35?lang=eng#33); see also [Moro.
+8:12](/scriptures/bofm/moro/8.12?lang=eng#11); [D&amp;C 1:35](/scriptures/dc-
+testament/dc/1.35?lang=eng#34); [D&amp;C 38:16](/scriptures/dc-
+testament/dc/38.16?lang=eng#15).)
 
 The Lord does not, and the Church cannot, admit to favoritism toward those who
 are able to obtain professional degrees as compared to those who seek training
@@ -121,7 +118,7 @@ Church school, and this will be increasingly the case, they should gather with
 other members of the Church at a school where an institute of religion is
 available to them. Then, as they study secular subjects, they may learn the
 "covenants and church articles" as the scriptures tell us we should. ([D&amp;C
-42:13](https://www.lds.org/scriptures/dc-testament/dc/42.13?lang=eng#12).)
+42:13](/scriptures/dc-testament/dc/42.13?lang=eng#12).)
 
 They will not be judged on how many degrees they hold or how extensive their
 schooling may be, but on how well educated they are in those things which are
@@ -149,16 +146,14 @@ poverty, and others did receive _great learning_ because of their riches.
 "Some were lifted up in pride, and others were exceedingly humble; ...
 
 "And thus there became a great inequality ... insomuch that the church began to
-be broken up." ([3 Ne.
-6:12-14](https://www.lds.org/scriptures/bofm/3-ne/6.12-14?lang=eng#11).)
+be broken up." ([3 Ne. 6:12-14](/scriptures/bofm/3-ne/6.12-14?lang=eng#11).)
 
 Jacob warned us of those who "when they are learned they think they are wise,
 and they hearken not unto the counsel of God, for they set it aside, supposing
 they know of themselves, wherefore, their wisdom is foolishness and it
 profiteth them not. And they shall perish." He added: "But to be learned is
 good _if_ they hearken unto the counsels of God." ([2 Ne.
-9:28-29](https://www.lds.org/scriptures/bofm/2-ne/9.28-29?lang=eng#27);
-emphasis added.)
+9:28-29](/scriptures/bofm/2-ne/9.28-29?lang=eng#27); emphasis added.)
 
 ## A Second Tuition
 
@@ -245,8 +240,8 @@ verse from the Doctrine and Covenants:
 "I say unto you, that it shall not be given to any one to go forth to preach
 my gospel, or to build up my church, except he be ordained by some one who has
 authority, and it is known to the church that he has authority and has been
-regularly ordained by the heads of the church." ([D&amp;C
-42:11](https://www.lds.org/scriptures/dc-testament/dc/42.11?lang=eng#10).)
+regularly ordained by the heads of the church." ([D&amp;C 42:11](/scriptures
+/dc-testament/dc/42.11?lang=eng#10).)
 
 There are some among us now who have _not_ been regularly ordained by the
 heads of the Church and who tell of impending political and economic chaos,
@@ -273,11 +268,12 @@ The Lord said:
 "Light and truth forsake that evil one. ...
 
 "I have commanded you to bring up your children in light and truth." ([D&amp;C
-93:36-40](https://www.lds.org/scriptures/dc-
-testament/dc/93.36-40?lang=eng#35).)
+93:36-40](/scriptures/dc-testament/dc/93.36-40?lang=eng#35).)
 
 God grant that as a church and as families and as individuals we can bring up
 our children, our youth, in light and truth and that they may receive the
 testimony of Him of whom we bear witness--our Redeemer, our Savior, even Jesus
 Christ--for which I pray in the name of Jesus Christ, amen.
+
+## References
 

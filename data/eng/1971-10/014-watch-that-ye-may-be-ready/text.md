@@ -30,7 +30,7 @@ callings:
 Then, as the gospel writers have recorded: "And they went forth, and preached
 every where, the Lord working with them, and confirming the word with signs
 following." ([Mark 16:15-16,
-19-20](https://www.lds.org/scriptures/nt/mark/16.15-16%2C19-20?lang=eng#14).)
+19-20](/scriptures/nt/mark/16.15-16,19-20?lang=eng#14).)
 
 I then recalled for her the words of a revelation to the Lord's disciples in
 early years of this dispensation, that through their administration "the word
@@ -39,8 +39,8 @@ behold, and lo, they shall turn unto the Jews.
 
 "For it shall come to pass in that day, that every man shall hear the fulness
 of the gospel in his own tongue, and in his own language, through those who
-are ordained unto this power. ..." ([D&amp;C 90:9,
-11](https://www.lds.org/scriptures/dc-testament/dc/90.9%2C11?lang=eng#8).)
+are ordained unto this power. ..." ([D&amp;C 90:9, 11](/scriptures/dc-
+testament/dc/90.9,11?lang=eng#8).)
 
 We are witnessing a great expansion of the work of the Church throughout the
 world. It would seem that the early revelations of the Lord to the Church
@@ -49,9 +49,8 @@ pointed us to a preparation for this day, when he promised:
 "Behold, and lo, I will take care of your flocks [meaning, of course, the
 congregations of Church members], and will raise up elders and send unto them.
 
-"Behold, I will hasten my work in its time." ([D&amp;C
-88:72-73](https://www.lds.org/scriptures/dc-
-testament/dc/88.72-73?lang=eng#71).)
+"Behold, I will hasten my work in its time." ([D&amp;C 88:72-73](/scriptures
+/dc-testament/dc/88.72-73?lang=eng#71).)
 
 During the past several months we have spent much time in countries of the Far
 East and in the European countries, where we have been brought face to face
@@ -94,8 +93,7 @@ In short, the demand everywhere is for a church that is holding fast to the
 basic ideals of Christianity, as the apostle James has defined it: "Pure
 religion and undefiled before God and the Father is this, To visit the
 fatherless and widows in their affliction, and to keep himself unspotted from
-the world." ([James 1:
-27](https://www.lds.org/scriptures/nt/james/1.title?lang=eng).)
+the world." ([James 1: 27](/scriptures/nt/james/1?lang=eng).)
 
 There we have found a strong central authority that inspires a confidence that
 shows the way ahead--where the strong are marshaled to give liberally of their
@@ -103,7 +101,7 @@ leadership, of their means, of their talents; where the weak are urged to
 maximum effort in providing for themselves; where emergency needs can be met
 in a way that fosters brotherhood, instead of a deadening process that is
 described, scripturally, as to "grind the faces of the poor." ([Isa.
-3:15](https://www.lds.org/scriptures/ot/isa/3.15?lang=eng#14).)
+3:15](/scriptures/ot/isa/3.15?lang=eng#14).)
 
 Never has there been a greater need in the Church for training in leadership
 and in effective teaching to offset the clever and diabolical methods of evil
@@ -112,7 +110,7 @@ up to anger, saying that all is well and with flattery telling them there is
 no hell nor is there a devil, for this is the way, as the ancient prophets
 have warned, that "the devil cheateth their souls, and leadeth them away
 carefully down to hell." (See [2 Ne.
-28:20-22](https://www.lds.org/scriptures/bofm/2-ne/28.20-22?lang=eng#19).)
+28:20-22](/scriptures/bofm/2-ne/28.20-22?lang=eng#19).)
 
 It was frightening to observe that in places where there was the greater
 prosperity, there was the unmistakable evidence that, like the peoples of
@@ -128,7 +126,7 @@ prosperity:
 then is the time that they do harden their hearts, and do forget the Lord
 their God, and do trample under their feet the Holy One--yea, and this because
 of their ease, and their exceedingly great prosperity." ([Hel.
-12:2](https://www.lds.org/scriptures/bofm/hel/12.2?lang=eng#1).)
+12:2](/scriptures/bofm/hel/12.2?lang=eng#1).)
 
 And so do we, as we witness these things, lament with those who have gone
 before us:
@@ -136,8 +134,7 @@ before us:
 "Yea, how quick to be lifted up in pride; yea, how quick to boast, and do all
 manner of that which is iniquity; and how slow are they to remember the Lord
 their God, and to give ear unto his counsels, yea, how slow to walk in
-wisdom's paths!" ([Hel.
-12:5](https://www.lds.org/scriptures/bofm/hel/12.5?lang=eng#4).)
+wisdom's paths!" ([Hel. 12:5](/scriptures/bofm/hel/12.5?lang=eng#4).)
 
 There comes back to us more clearly than ever before the application of the
 words of the Master as he closed his Sermon on the Mount, that only that
@@ -159,7 +156,7 @@ salvation to every one that believeth. ... For therein is the righteousness of
 God revealed ... [and note this particularly] For the wrath of God is revealed
 from heaven against all ungodliness and unrighteousness of men, who hold the
 truth in unrighteousness." ([Rom.
-1:16-18](https://www.lds.org/scriptures/nt/rom/1.16-18?lang=eng#15).)
+1:16-18](/scriptures/nt/rom/1.16-18?lang=eng#15).)
 
 One renowned lecturer at the Bonneville Knife and Fork Club, Mr. George Rony,
 remarked to me after I had taken him, at his request, to see some of our
@@ -187,8 +184,7 @@ challenge us to strive the more diligently to carry out the perfect plan that
 has been given us, by which the world may be saved, if all men would be
 constrained to "search diligently, [to] pray always, and be believing, [so
 that] all things [might] work together for [their] good" and his name's glory.
-([D&amp;C 90:24](https://www.lds.org/scriptures/dc-
-testament/dc/90.24?lang=eng#23).)
+([D&amp;C 90:24](/scriptures/dc-testament/dc/90.24?lang=eng#23).)
 
 We have just come from a historic conference of the members of the Church in
 the British Isles, at Manchester, England. Here we had assembled an all-
@@ -240,8 +236,7 @@ parents are helped with family problems, small units of organization, of
 Sunday Schools, branches and districts, culminating into stakes for a purpose,
 as the Lord revealed, to provide "for a defense, and for a refuge from the
 storm, and from wrath when it is poured out without mixture upon the whole
-earth." ([D&amp;C 115:6](https://www.lds.org/scriptures/dc-
-testament/dc/115.6?lang=eng#5).)
+earth." ([D&amp;C 115:6](/scriptures/dc-testament/dc/115.6?lang=eng#5).)
 
 When I recall the words of a heavenly messenger to the young prophet in the
 early beginning of this dispensation, that the purpose of the restored church
@@ -274,9 +269,8 @@ it not.
 
 "For as the lightning cometh out of the east, and shineth even unto the west;
 so shall also the coming of the Son of man be." ([Matt.
-24:26-27](https://www.lds.org/scriptures/nt/matt/24.26-27?lang=eng#25); see
-also [JS--M
-1:25-26](https://www.lds.org/scriptures/pgp/js-m/1.25-26?lang=eng#24).)
+24:26-27](/scriptures/nt/matt/24.26-27?lang=eng#25); see also [JS--M
+1:25-26](/scriptures/pgp/js-m/1.25-26?lang=eng#24).)
 
 If we could remember that, and put to flight all the foolish ideas about how
 the Savior will appear, we would be ready when he comes.
@@ -289,10 +283,8 @@ man cometh."
 
 Then there was this promise to his servants who had been living faithfully:
 "Blessed is that servant, whom his lord when he cometh shall find so doing."
-([Matt. 24:42, 44,
-46](https://www.lds.org/scriptures/nt/matt/24.42%2C44%2C46?lang=eng#41); see
-also [JS--M 1:46, 48,
-50](https://www.lds.org/scriptures/pgp/js-m/1.46%2C48%2C50?lang=eng#45).)
+([Matt. 24:42, 44, 46](/scriptures/nt/matt/24.42,44,46?lang=eng#41); see also
+[JS--M 1:46, 48, 50](/scriptures/pgp/js-m/1.46,48,50?lang=eng#45).)
 
 A few days ago we had a faith-promoting report from a young mission president
 and his wife who have just been released from presiding over a mission in
@@ -309,15 +301,14 @@ philosophized that this might be like the time when the Savior was crucified,
 when there were three days of darkness, and when he would come again, when two
 should be grinding at the mill, and one would be taken and the other left; two
 would be working in the field, and one would be taken and the other one left.
-(See [Matt.
-24:40-41](https://www.lds.org/scriptures/nt/matt/24.40-41?lang=eng#39).)
+(See [Matt. 24:40-41](/scriptures/nt/matt/24.40-41?lang=eng#39).)
 
 When an earthquake strikes, every person would be taken as he is then living--
 if at a movie, or a tavern, or in a drunken stupor, or whatever. But the true
 servants of God, who would be doing their duty, would be protected and
 preserved, if they would do as the Lord has counseled: to "stand ye in holy
 places, and be not moved," when these days should come. ([D&amp;C
-87:8](https://www.lds.org/scriptures/dc-testament/dc/87.8?lang=eng#7).)
+87:8](/scriptures/dc-testament/dc/87.8?lang=eng#7).)
 
 So we are saying to our Church members in every land, everywhere, stand in
 your places and say as the British Saints have sung:
@@ -338,7 +329,7 @@ therein.
 
 You who are the priesthood watchmen, don't fail in the sacred charge to "watch
 over the church. ... and be with and strengthen them." ([D&amp;C
-20:53](https://www.lds.org/scriptures/dc-testament/dc/20.53?lang=eng#52).)
+20:53](/scriptures/dc-testament/dc/20.53?lang=eng#52).)
 
 You leaders, put into full gear the total programs that are heaven-sent in
 these days to stem the tide of wickedness that is rolling over the earth as an
@@ -354,8 +345,7 @@ Christ.
 And to you, our friends who are the honest in heart and who are sincere
 seekers after truth, we bear our solemn witness that "through the Atonement of
 Christ, all mankind may be saved, by obedience to the laws and ordinances of
-the Gospel" ([A of F
-1:3](https://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2)), as
+the Gospel" ([A of F 1:3](/scriptures/pgp/a-of-f/1.3?lang=eng#2)), as
 administered by authorized servants who hold the keys of salvation for both
 the living and the dead.
 
@@ -378,11 +368,12 @@ am."
 And then he said:
 
 "Watch, therefore, that ye may be ready." ([D&amp;C 50:41-42,
-44-46](https://www.lds.org/scriptures/dc-
-testament/dc/50.41-42%2C44-46?lang=eng#40).)
+44-46](/scriptures/dc-testament/dc/50.41-42,44-46?lang=eng#40).)
 
 I believe with all my soul that that promise is for you and me today, as we
 qualify ourselves to be worthy to be called his children.
 
 To this I testify in the name of Jesus Christ. Amen.
+
+## References
 

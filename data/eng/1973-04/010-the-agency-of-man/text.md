@@ -54,29 +54,28 @@ their second estate shall have glory added upon their heads for ever and ever.
 
 "And the Lord said: Whom shall I send? And one answered like unto the Son of
 Man: Here am I, send me." ([Abr.
-3:22-27](https://www.lds.org/scriptures/pgp/abr/3.22-27?lang=eng#21).) And
-that one said, "Father, thy will be done, and the glory be thine forever."
-([Moses 4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).)
+3:22-27](/scriptures/pgp/abr/3.22-27?lang=eng#21).) And that one said,
+"Father, thy will be done, and the glory be thine forever." ([Moses
+4:2](/scriptures/pgp/moses/4.2?lang=eng#1).)
 
 "... And another answered and said: Here am I, send me." ([Abr.
-3:27](https://www.lds.org/scriptures/pgp/abr/3.27?lang=eng#26).)
+3:27](/scriptures/pgp/abr/3.27?lang=eng#26).)
 
 "I will be thy son, and I will redeem all mankind, that one soul shall not be
 lost, and surely I will do it; wherefore give me thine honor." ([Moses
-4:1](https://www.lds.org/scriptures/pgp/moses/4.1?lang=eng#0).)
+4:1](/scriptures/pgp/moses/4.1?lang=eng#0).)
 
 "... And the Lord said: I will send the first.
 
 "And the second was angry, and kept not his first estate. ..." ([Abr.
-3:27-28](https://www.lds.org/scriptures/pgp/abr/3.27-28?lang=eng#26).) "And he
-became Satan, ... the father of all lies, to deceive and to blind men, and to
-lead them captive at his will, even as many as would not hearken unto my
-voice." ([Moses
-4:4](https://www.lds.org/scriptures/pgp/moses/4.4?lang=eng#3).)
+3:27-28](/scriptures/pgp/abr/3.27-28?lang=eng#26).) "And he became Satan, ...
+the father of all lies, to deceive and to blind men, and to lead them captive
+at his will, even as many as would not hearken unto my voice." ([Moses
+4:4](/scriptures/pgp/moses/4.4?lang=eng#3).)
 
 Satan rebelled against God and "sought to destroy the agency of man, which I,
 the Lord God, had given him. ..." ([Moses
-4:3](https://www.lds.org/scriptures/pgp/moses/4.3?lang=eng#2).)
+4:3](/scriptures/pgp/moses/4.3?lang=eng#2).)
 
 Unfortunately, many do not realize the quality and blessing of that gift of
 agency of man. If we would but reason the matter, we would come to realize as
@@ -103,7 +102,7 @@ believe not.
 are they which testify of me.
 
 "And ye will not come to me, that ye might have life." ([John
-5:37-40](https://www.lds.org/scriptures/nt/john/5.37-40?lang=eng#36).)
+5:37-40](/scriptures/nt/john/5.37-40?lang=eng#36).)
 
 The guide to the answer to their problem was to be found in the scriptures. He
 rebuked them for not accepting the scriptures that they had. The guide to the
@@ -117,8 +116,7 @@ make thee wise unto salvation through faith which is in Jesus Christ.
 for reproof, for correction, for instruction in righteousness:
 
 "That the man of God may be perfect, throughly furnished unto all good works."
-([2 Tim.
-3:15-17](https://www.lds.org/scriptures/nt/2-tim/3.15-17?lang=eng#14).)
+([2 Tim. 3:15-17](/scriptures/nt/2-tim/3.15-17?lang=eng#14).)
 
 As fellow workers for the cause of building the kingdom of God, they are our
 source of faith, commitment, determination, and leadership; doctrine for the
@@ -133,8 +131,7 @@ worshipped,
 
 "And said, Naked came I out of my mother's womb, and naked shall I return
 thither: the Lord gave, and the Lord hath taken away; blessed be the name of
-the Lord." ([Job
-1:20-21](https://www.lds.org/scriptures/ot/job/1.20-21?lang=eng#19).)
+the Lord." ([Job 1:20-21](/scriptures/ot/job/1.20-21?lang=eng#19).)
 
 Then upon being rendered with bodily affliction and poor health, his own wife
 chided him and said to him, "Dost thou still retain thine integrity? curse
@@ -142,13 +139,12 @@ God, and die."
 
 Job answered, "Thou speakest as one of the foolish women speaketh. What? shall
 we receive good at the hand of God, and shall we not receive evil?" ([Job
-2:9-10](https://www.lds.org/scriptures/ot/job/2.9-10?lang=eng#8).)
+2:9-10](/scriptures/ot/job/2.9-10?lang=eng#8).)
 
 And then in the midst of all his afflictions, Job gave this testimony: "For I
 know that my redeemer liveth, and that he shall stand at the latter day upon
 the earth: And though after my skin worms destroy this body, yet in my flesh
-shall I see God." ([Job
-19:25-26](https://www.lds.org/scriptures/ot/job/19.25-26?lang=eng#24).)
+shall I see God." ([Job 19:25-26](/scriptures/ot/job/19.25-26?lang=eng#24).)
 
 As to commitment, is there a more touching example of devotion than Ruth to
 her mother-in-law, Naomi, as Naomi pled with Ruth to return to her own people
@@ -160,7 +156,7 @@ people shall be my people, and thy God my God:
 
 "Where thou diest, will I die, and there will I be buried: the Lord do so to
 me, and more also, if ought but death part thee and me." ([Ruth
-1:16-17](https://www.lds.org/scriptures/ot/ruth/1.16-17?lang=eng#15).)
+1:16-17](/scriptures/ot/ruth/1.16-17?lang=eng#15).)
 
 And Queen Esther, in her determination to save her kindred people from
 destruction, seeking God's help through fasting, instructed Mordecai: "Go,
@@ -168,7 +164,7 @@ gather together all the Jews that are present in Shushan, and fast ye for me,
 and neither eat nor drink three days, night or day: I also and my maidens will
 fast likewise; and so will I go in unto the king, which is not according to
 the law: and if I perish, I perish." ([Esth.
-4:16](https://www.lds.org/scriptures/ot/esth/4.16?lang=eng#15).)
+4:16](/scriptures/ot/esth/4.16?lang=eng#15).)
 
 And Joshua the leader, as he turned the hearts of the belligerent people by
 his example of choice, spoke to them: "Now therefore fear the Lord, and serve
@@ -185,7 +181,7 @@ to serve other gods;
 
 "And the people said unto Joshua, The Lord our God will we serve, and his
 voice will we obey." ([Josh. 24:14-16,
-24](https://www.lds.org/scriptures/ot/josh/24.14-16%2C24?lang=eng#13).)
+24](/scriptures/ot/josh/24.14-16,24?lang=eng#13).)
 
 These are but a few of the unnumbered examples to be found in the scriptures,
 but even as we examine these few evidences of outstanding characters, our
@@ -194,12 +190,12 @@ development of their lives had to be built on making proper choices. They were
 established on truth. Their examples teach us celestial lessons.
 
 The Lord's call to us is: "Come now, and let us reason together. ..." ([Isa.
-1:18](https://www.lds.org/scriptures/ot/isa/1.18?lang=eng#17).) He wants us to
-listen to and consider his doctrine. The scriptures tell us this: "... that men
-might be made partakers of the glories which were to be revealed, the Lord
-sent forth the fulness of his gospel, his everlasting covenant, reasoning in
-plainness and simplicity." ([D&amp;C 133:57](https://www.lds.org/scriptures
-/dc-testament/dc/133.57?lang=eng#56).)
+1:18](/scriptures/ot/isa/1.18?lang=eng#17).) He wants us to listen to and
+consider his doctrine. The scriptures tell us this: "... that men might be made
+partakers of the glories which were to be revealed, the Lord sent forth the
+fulness of his gospel, his everlasting covenant, reasoning in plainness and
+simplicity." ([D&amp;C 133:57](/scriptures/dc-
+testament/dc/133.57?lang=eng#56).)
 
 He wants us to become acquainted with his gospel, to test it, to prove it, to
 participate in it, and to use it as a base on which to make our decisions.
@@ -211,14 +207,14 @@ Reason is only compatible with truth. Error and evil, no matter how one may
 try to reason with it, still remain error and evil leading to chaos. It is
 difficult to understand that anyone, after examining the truth, could "say
 unto God, Depart from us; for we desire not the knowledge of thy ways." ([Job
-21:14](https://www.lds.org/scriptures/ot/job/21.14?lang=eng#13).)
+21:14](/scriptures/ot/job/21.14?lang=eng#13).)
 
 One of the sad expressions of the scriptures is when Christ said: "O
 Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which
 are sent unto thee, how often would I have gathered thy children together,
 even as a hen gathereth her chickens under her wings, and ye would not!
 Behold, your house is left unto you desolate." ([Matt. 23:
-37-38](https://www.lds.org/scriptures/nt/matt/23.title?lang=eng).)
+37-38](/scriptures/nt/matt/23?lang=eng).)
 
 The expression is applicable in this day to those who deliberately will not
 come and reason with the Lord.
@@ -235,7 +231,9 @@ Jesus Christ, and love one another, as he gave us commandment.
 
 "And he that keepeth his commandments dwelleth in him, and he in him. And
 hereby we know that he abideth in us, by the Spirit which he hath given us."
-([1 Jn. 3:21-24](https://www.lds.org/scriptures/nt/1-jn/3.21-24?lang=eng#20).)
+([1 Jn. 3:21-24](/scriptures/nt/1-jn/3.21-24?lang=eng#20).)
 
 In the name of Jesus Christ. Amen.
+
+## References
 

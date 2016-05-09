@@ -77,7 +77,7 @@ souls unto him.
 Having seen and heard his father pray, he will want to pray too and will soon
 learn about the whisperings of the Spirit, which comes into his "feeling," as
 Nephi pointed out to his rebellious brothers. (See [1 Ne.
-17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44).)
+17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44).)
 
 He will need to learn also of the important principle of obedience. Teach him
 that the Lord Jesus Christ was completely obedient to his father and that if
@@ -129,9 +129,8 @@ He will not consider the Book of Mormon dull reading if you will make it live
 for him while he is growing. And if he learns that reading scripture by the
 Spirit with an open heart and a searching mind is indeed hearing the voice of
 the Lord, as the Lord told the Twelve it is (see [D&amp;C
-18:34-36](https://www.lds.org/scriptures/dc-
-testament/dc/18.34-36?lang=eng#33)), you will have him on his way to becoming
-a missionary.
+18:34-36](/scriptures/dc-testament/dc/18.34-36?lang=eng#33)), you will have
+him on his way to becoming a missionary.
 
 He began to prepare for his work here before he came to earth, when he
 repudiated Satan and all of his subtle sophistries. Now he is to prove that he
@@ -172,4 +171,6 @@ recipient and holder of the same keys of authority to speak to the people on
 behalf of the Lord.
 
 I bear this witness in the name of the Lord Jesus Christ. Amen.
+
+## References
 

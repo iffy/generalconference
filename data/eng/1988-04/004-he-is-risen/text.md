@@ -17,7 +17,7 @@ would have faced had we not received this divine gift. Jacob wrote:
 "O the wisdom of God, his mercy and grace! For behold, if the flesh should
 rise no more our spirits must become subject to that angel who fell from
 before the presence of the Eternal God, and became the devil, to rise no more"
-([2 Ne. 9:8](https://www.lds.org/scriptures/bofm/2-ne/9.8?lang=eng#7)).
+([2 Ne. 9:8](/scriptures/bofm/2-ne/9.8?lang=eng#7)).
 
 Surely the Resurrection is the center of every Christian's faith; it is the
 greatest of all of the miracles performed by the Savior of the world. Without
@@ -25,8 +25,7 @@ it, we are indeed left hopeless. Let me borrow the words of Paul: "If there be
 no resurrection of the dead, ... then is our preaching vain, ... and we are found
 false witnesses of God; because we have testified of God that he raised up
 Christ. ... If Christ be not raised, your faith is vain; ye are yet in your
-sins" ([1 Cor. 15:13-15,
-17](https://www.lds.org/scriptures/nt/1-cor/15.13-15%2C17?lang=eng#12)).
+sins" ([1 Cor. 15:13-15, 17](/scriptures/nt/1-cor/15.13-15,17?lang=eng#12)).
 
 Go with me back in time to those final scenes in the Holy Land. The end of our
 Lord's mortal life was near. He had healed the sick, raised the dead, and
@@ -38,7 +37,7 @@ chief priests and unto the scribes, and they shall condemn him to death,
 
 "And shall deliver him to the Gentiles to mock, and to scourge, and to crucify
 him: and the third day he shall rise again" ([Matt.
-20:18-19](https://www.lds.org/scriptures/nt/matt/20.18-19?lang=eng#17)).
+20:18-19](/scriptures/nt/matt/20.18-19?lang=eng#17)).
 
 There in Jerusalem, the Sadducees accosted him and questioned him concerning
 the resurrection. They had conspired to trap him, but he taught them the
@@ -50,8 +49,7 @@ simple truths of the living gospel.
 not the God of the dead, but of the living.
 
 "And when the multitude heard this, they were astonished at his doctrine"
-([Matt.
-22:31-33](https://www.lds.org/scriptures/nt/matt/22.31-33?lang=eng#30)).
+([Matt. 22:31-33](/scriptures/nt/matt/22.31-33?lang=eng#30)).
 
 Later, as they met to celebrate the Passover, Jesus and his Apostles partook
 of the sacramental emblems that he initiated in this last supper together, and
@@ -60,9 +58,9 @@ then walked to the Mount of Olives.
 Always the teacher to the very end, he continued his discourse on the theme of
 the sacrificial lamb. He told them he would be smitten, and that they would be
 scattered as sheep without a shepherd (see [Matt.
-26:31](https://www.lds.org/scriptures/nt/matt/26.31?lang=eng#30)). "But after
-I am risen again," he said, "I will go before you into Galilee" ([Matt.
-26:32](https://www.lds.org/scriptures/nt/matt/26.32?lang=eng#31)).
+26:31](/scriptures/nt/matt/26.31?lang=eng#30)). "But after I am risen again,"
+he said, "I will go before you into Galilee" ([Matt.
+26:32](/scriptures/nt/matt/26.32?lang=eng#31)).
 
 In the hours that followed, he sweat drops of blood, was scourged by the very
 leaders who claimed to be custodians of his law, and was crucified in the
@@ -75,7 +73,7 @@ the abominations of his people. ...
 "... He cometh unto his own, that salvation might come unto the children of men;
 ... and even after all this they shall consider him a man, and say that he hath
 a devil, and shall scourge him, and shall crucify him" ([Mosiah 3:7,
-9](https://www.lds.org/scriptures/bofm/mosiah/3.7%2C9?lang=eng#6)).
+9](/scriptures/bofm/mosiah/3.7,9?lang=eng#6)).
 
 We are indebted to the prophet Alma for our knowledge of the full measure of
 His suffering: "He shall go forth, suffering pains and afflictions and
@@ -86,7 +84,7 @@ saith he will take upon him the pains and the sicknesses of his people.
 bind his people; and he will take upon him their infirmities, that his bowels
 may be filled with mercy, according to the flesh, that he may know according
 to the flesh how to succor his people according to their infirmities" ([Alma
-7:11-12](https://www.lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10)).
+7:11-12](/scriptures/bofm/alma/7.11-12?lang=eng#10)).
 
 Think of it! When his body was taken from the cross and hastily placed in a
 borrowed tomb, he, the sinless Son of God, had already taken upon him not only
@@ -104,15 +102,14 @@ plainness. Nephi wrote:
 "Behold, they will crucify him; and after he is laid in a sepulchre for the
 space of three days he shall rise from the dead, with healing in his wings;
 and all those who shall believe on his name shall be saved in the kingdom of
-God" ([2 Ne.
-25:13](https://www.lds.org/scriptures/bofm/2-ne/25.13?lang=eng#12)).
+God" ([2 Ne. 25:13](/scriptures/bofm/2-ne/25.13?lang=eng#12)).
 
 And Samuel the Lamanite prophesied to the Nephites:
 
 "For behold, he surely must die that salvation may come; yea, it behooveth him
 and becometh expedient that he dieth, to bring to pass the resurrection of the
 dead, that thereby men may be brought into the presence of the Lord" ([Hel.
-14:15](https://www.lds.org/scriptures/bofm/hel/14.15?lang=eng#14)).
+14:15](/scriptures/bofm/hel/14.15?lang=eng#14)).
 
 Enoch was shown in a vision the day of the coming of the Son of Man:
 
@@ -127,21 +124,21 @@ glory;
 "And as many of the spirits as were in prison came forth, and stood on the
 right hand of God; and the remainder were reserved in chains of darkness until
 the judgment of the great day" ([Moses
-7:55-57](https://www.lds.org/scriptures/pgp/moses/7.55-57?lang=eng#54)).
+7:55-57](/scriptures/pgp/moses/7.55-57?lang=eng#54)).
 
 As the dawn of that third day was beginning, Mary Magdalene and "the other
 Mary" had come to the sepulchre in which his lifeless body had been laid.
 Earlier, the chief priests and the Pharisees had gone to Pilate and persuaded
 him to place a guard at the door of the sepulchre, "lest his disciples come by
 night, and steal him away, and say unto the people, He is risen from the dead"
-([Matt. 27:64](https://www.lds.org/scriptures/nt/matt/27.64?lang=eng#63)). But
-two mighty angels had rolled the stone from the door of the tomb, and the
-would-be guards had fled in terror at the sight.
+([Matt. 27:64](/scriptures/nt/matt/27.64?lang=eng#63)). But two mighty angels
+had rolled the stone from the door of the tomb, and the would-be guards had
+fled in terror at the sight.
 
 When the women came to the tomb, they found it open and empty. The angels had
 tarried to tell them the greatest news ever to fall on human ears: "He is not
 here: for he is risen, as he said" ([Matt.
-28:6](https://www.lds.org/scriptures/nt/matt/28.6?lang=eng#5)).
+28:6](/scriptures/nt/matt/28.6?lang=eng#5)).
 
 The resurrection of Jesus was followed immediately by the resurrection of
 other righteous souls. Matthew records that "the graves were opened; and many
@@ -149,7 +146,7 @@ bodies of the saints which slept arose,
 
 "And came out of the graves after his resurrection, and went into the holy
 city, and appeared unto many" ([Matt.
-27:52-53](https://www.lds.org/scriptures/nt/matt/27.52-53?lang=eng#51)).
+27:52-53](/scriptures/nt/matt/27.52-53?lang=eng#51)).
 
 In the days that followed his resurrection, the Lord appeared unto many. He
 displayed his five special wounds to them. He walked and talked and ate with
@@ -166,15 +163,14 @@ feel the prints of the nails in his hands and in his feet; and this they did
 do, going forth one by one until they had all gone forth, and did see with
 their eyes and did feel with their hands, and did know of a surety and did
 bear record, that it was he, of whom it was written by the prophets, that
-should come" ([3 Ne.
-11:14-15](https://www.lds.org/scriptures/bofm/3-ne/11.14-15?lang=eng#13)).
+should come" ([3 Ne. 11:14-15](/scriptures/bofm/3-ne/11.14-15?lang=eng#13)).
 
 It is the responsibility and joy of all men and women everywhere to "seek this
 Jesus of whom the prophets and apostles have [testified]" ([Ether
-12:41](https://www.lds.org/scriptures/bofm/ether/12.41?lang=eng#40)) and to
-have the spiritual witness of his divinity. It is the right and blessing of
-all who humbly seek, to hear the voice of the Holy Spirit, bearing witness of
-the Father and his resurrected Son.
+12:41](/scriptures/bofm/ether/12.41?lang=eng#40)) and to have the spiritual
+witness of his divinity. It is the right and blessing of all who humbly seek,
+to hear the voice of the Holy Spirit, bearing witness of the Father and his
+resurrected Son.
 
 As one called and ordained to bear witness of the name of Jesus Christ to all
 the world, I testify at this Easter season that he lives. He has a glorified,
@@ -185,4 +181,6 @@ to Paul, and to many others. He showed himself to the Nephites. He has shown
 himself to Joseph Smith, the boy prophet, and to many others in our
 dispensation. This is his church; he leads it today through his prophet, Ezra
 Taft Benson. Of this I testify in the name of Jesus Christ, amen.
+
+## References
 

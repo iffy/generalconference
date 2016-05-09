@@ -25,23 +25,23 @@ obituary notices and the empty chairs at our tables. For just as the sun sets
 at the close of each day, in accord with the eternal rhythm of life, so will
 we experience a temporary separation of body and spirit, whereby our
 tabernacles of flesh will be placed "in the cold and silent grave" ([2 Ne.
-1:14](https://www.lds.org/scriptures/bofm/2-ne/1.14?lang=eng#13)) and our
-spirits will be "taken home to that God who gave them life" ([Alma
-40:11](https://www.lds.org/scriptures/bofm/alma/40.11?lang=eng#10)).
+1:14](/scriptures/bofm/2-ne/1.14?lang=eng#13)) and our spirits will be "taken
+home to that God who gave them life" ([Alma
+40:11](/scriptures/bofm/alma/40.11?lang=eng#10)).
 
 But rather, the real issue is, "If a man die, shall he live again?" ([Job
-14:14](https://www.lds.org/scriptures/ot/job/14.14?lang=eng#13)). Will the
-grave seal our fate forever? Or is there a resurrection and another sphere of
-existence awaiting our souls?
+14:14](/scriptures/ot/job/14.14?lang=eng#13)). Will the grave seal our fate
+forever? Or is there a resurrection and another sphere of existence awaiting
+our souls?
 
 Those who believe that the grave is man's final destiny live without hope of a
 better world and are inclined to embrace that fatalistic approach, "Eat,
 drink, and be merry, for tomorrow we die" ([2 Ne.
-28:7](https://www.lds.org/scriptures/bofm/2-ne/28.7?lang=eng#6); see also [1
-Cor. 15:32](https://www.lds.org/scriptures/nt/1-cor/15.32?lang=eng#31)). This
-approach often leads to wanton experimentation, immoral conduct, and all the
-other behaviors that reap misery and remorse of conscience (see [Alma
-29:5](https://www.lds.org/scriptures/bofm/alma/29.5?lang=eng#4)).
+28:7](/scriptures/bofm/2-ne/28.7?lang=eng#6); see also [1 Cor.
+15:32](/scriptures/nt/1-cor/15.32?lang=eng#31)). This approach often leads to
+wanton experimentation, immoral conduct, and all the other behaviors that reap
+misery and remorse of conscience (see [Alma
+29:5](/scriptures/bofm/alma/29.5?lang=eng#4)).
 
 Whereas, those who believe in a life after death are much more inclined to
 lead purposeful lives. Belief in a resurrection and related truths encourages
@@ -71,43 +71,35 @@ classes. One is the cloud of witnesses who saw the resurrected Christ; the
 other is the army of believers, both present and past, who on the strength of
 personal testimonies declare with conviction, "The grave hath no victory, and
 the sting of death is swallowed up in Christ" ([Mosiah
-16:8](https://www.lds.org/scriptures/bofm/mosiah/16.8?lang=eng#7)). Both
-classes of evidence are significant and worthy of our review.
+16:8](/scriptures/bofm/mosiah/16.8?lang=eng#7)). Both classes of evidence are
+significant and worthy of our review.
 
 ## Cloud of Witnesses
 
 In the Acts of the Apostles it is recorded: "To whom also he shewed himself
 alive after his sufferings by many _infallible proofs,_ being seen of them
 forty days, and speaking of the things pertaining to the kingdom of God"
-([JST, Acts 1:3](https://www.lds.org/scriptures/jst/bible-jst-
-acts/1.3?lang=eng#2); emphasis added).
+([JST, Acts 1:3](/scriptures/jst/bible-jst-acts/1.3?lang=eng#2); emphasis
+added).
 
 Included in the cloud of witnesses or among the "infallible proofs" were
 hundreds of followers who saw the risen Lord on multiple occasions.
 
-  * "He appeared first to Mary Magdalene" (Mark 16:9). She saw him and heard his voice.
-
-  * He appeared to Joanna, Mary (the mother of James), "and other women that were with them" (Luke 24:10). They "held him by the feet, and worshipped him" (Matt. 28:9).
-
-  * He appeared to Peter--the one who had denied him thrice (see Luke 24:34).
-
-  * He appeared to two disciples as they went into the country (see Luke 24:13-32).
-
-  * He appeared to his beloved Apostles at least four times.
-
-  * He was seen after the Crucifixion by "above five hundred brethren at once" (1 Cor. 15:6), according to Paul's account.
-
-  * Moreover, "the graves were opened; and many bodies of the saints which slept arose,
+  * "He appeared first to Mary Magdalene" (Mark 16:9). She saw him and heard his voice. 
+  * He appeared to Joanna, Mary (the mother of James), "and other women that were with them" (Luke 24:10). They "held him by the feet, and worshipped him" (Matt. 28:9). 
+  * He appeared to Peter--the one who had denied him thrice (see Luke 24:34). 
+  * He appeared to two disciples as they went into the country (see Luke 24:13-32). 
+  * He appeared to his beloved Apostles at least four times. 
+  * He was seen after the Crucifixion by "above five hundred brethren at once" (1 Cor. 15:6), according to Paul's account. 
+  * Moreover, "the graves were opened; and many bodies of the saints which slept arose, 
 
 Even after all of these eyewitnesses, there were the skeptics. Some regarded
 the words of the women as "idle tales" ([Luke
-24:11](https://www.lds.org/scriptures/nt/luke/24.11?lang=eng#10)). Jesus
-chided the two disciples by saying, "O fools, and slow of heart to believe all
-that the prophets have spoken" ([Luke
-24:25](https://www.lds.org/scriptures/nt/luke/24.25?lang=eng#24)). And he
+24:11](/scriptures/nt/luke/24.11?lang=eng#10)). Jesus chided the two disciples
+by saying, "O fools, and slow of heart to believe all that the prophets have
+spoken" ([Luke 24:25](/scriptures/nt/luke/24.25?lang=eng#24)). And he
 upbraided some "because they believed not them which had seen him [earlier]
-after he was risen" ([Mark
-16:14](https://www.lds.org/scriptures/nt/mark/16.14?lang=eng#13)).
+after he was risen" ([Mark 16:14](/scriptures/nt/mark/16.14?lang=eng#13)).
 
 One wonders how anyone could doubt the actuality of the Resurrection after
 reading the several accounts of his appearances to the women, the disciples,
@@ -115,28 +107,26 @@ and the Apostles. What greater evidence would one want than the documentation
 of fact provided in holy writ?
 
 But there is more. Wrote John, "The testimony of two men is true" ([John
-8:17](https://www.lds.org/scriptures/nt/john/8.17?lang=eng#16)). If this is a
-valid statement, then surely the testimony of Christ's escape from the tomb
-provided by a second nation must not be overlooked. I refer, of course, to the
-Book of Mormon record of Christ's postmortal appearances on the Western
-Hemisphere.
+8:17](/scriptures/nt/john/8.17?lang=eng#16)). If this is a valid statement,
+then surely the testimony of Christ's escape from the tomb provided by a
+second nation must not be overlooked. I refer, of course, to the Book of
+Mormon record of Christ's postmortal appearances on the Western Hemisphere.
 
 Near a temple in the land called Bountiful some 2,500 people heard a small,
 piercing voice declare: "Behold my Beloved Son, in whom I am well pleased, in
 whom I have glorified my name--hear ye him" ([3 Ne.
-11:7](https://www.lds.org/scriptures/bofm/3-ne/11.7?lang=eng#6)). They stood
-in awe and experienced a change of heart upon hearing God, the Eternal Father,
-introduce his Only Begotten Son--his means of extending the gifts of
-immortality and eternal life to all of his children (see [John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15)).
+11:7](/scriptures/bofm/3-ne/11.7?lang=eng#6)). They stood in awe and
+experienced a change of heart upon hearing God, the Eternal Father, introduce
+his Only Begotten Son--his means of extending the gifts of immortality and
+eternal life to all of his children (see [John
+3:16](/scriptures/nt/john/3.16?lang=eng#15)).
 
 The multitude saw a man descending out of heaven. They heard him announce,
 "Behold, I am Jesus Christ, whom the prophets testified shall come into the
-world" ([3 Ne.
-11:10](https://www.lds.org/scriptures/bofm/3-ne/11.10?lang=eng#9)). Then he
+world" ([3 Ne. 11:10](/scriptures/bofm/3-ne/11.10?lang=eng#9)). Then he
 invited the people to come forth one by one and see with their eyes and feel
 with their hands the prints of the nails in his hands and in his feet (see [3
-Ne. 11:14-17](https://www.lds.org/scriptures/bofm/3-ne/11.14-17?lang=eng#13)).
+Ne. 11:14-17](/scriptures/bofm/3-ne/11.14-17?lang=eng#13)).
 
 A cloud of people on two continents were eyewitnesses of the risen Christ.
 Thus, it can be said about this glorious fact of history, "The resurrection ...
@@ -149,52 +139,45 @@ of historical events in general" (James E. Talmage, _Jesus the Christ,_ p.
 "Infallible proofs" of spiritual matters, such as Christ's resurrection, are
 not of the hand, but of the heart. They are not seen with the naked eye; they
 are seen through the "eye of faith" ([Ether
-12:19](https://www.lds.org/scriptures/bofm/ether/12.19?lang=eng#18)). Nor are
-they established by a touch of a finger. The reality of spiritual matters is
-confirmed by feelings stirred through the spoken or written words of God (see
-[1 Ne. 17:45](https://www.lds.org/scriptures/bofm/1-ne/17.45?lang=eng#44)). I
-say this because "the Spirit speaketh the truth and lieth not. Wherefore, it
-speaketh of things as they really are, and of things as they really will be"
-([Jacob 4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12)).
-The Holy Spirit deals with facts, not with fancied happenings.
+12:19](/scriptures/bofm/ether/12.19?lang=eng#18)). Nor are they established by
+a touch of a finger. The reality of spiritual matters is confirmed by feelings
+stirred through the spoken or written words of God (see [1 Ne.
+17:45](/scriptures/bofm/1-ne/17.45?lang=eng#44)). I say this because "the
+Spirit speaketh the truth and lieth not. Wherefore, it speaketh of things as
+they really are, and of things as they really will be" ([Jacob
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12)). The Holy Spirit deals with
+facts, not with fancied happenings.
 
 You will recall that the two disciples who walked and talked with Christ on
 the road to Emmaus did not recognize him at first. Later, however, "their eyes
 were opened, and they knew him," when they reflected, "Did not our heart burn
 within us, while he talked with us by the way, and while he opened to us the
-scriptures?" ([Luke
-24:31-32](https://www.lds.org/scriptures/nt/luke/24.31-32?lang=eng#30).)
+scriptures?" ([Luke 24:31-32](/scriptures/nt/luke/24.31-32?lang=eng#30).)
 
 You will also recall that Jesus said to Thomas, "Be not faithless, but
 believing. ...
 
 "Because thou hast seen me, thou hast believed: blessed are they that have not
 seen, and yet have believed" ([John 20:27,
-29](https://www.lds.org/scriptures/nt/john/20.27%2C29?lang=eng#26)).
+29](/scriptures/nt/john/20.27,29?lang=eng#26)).
 
 Our "eyes of faith" will also be opened, and we shall know of a surety that he
 lives and that we shall live again, if we believe and accept the divine
 invitation "Walk with me" (see [Moses
-6:34](https://www.lds.org/scriptures/pgp/moses/6.34?lang=eng#33)).
+6:34](/scriptures/pgp/moses/6.34?lang=eng#33)).
 
-  * Yes, we walk with him in the desert and feel his presence when we fast, pray, and withstand temptation.
-
-  * We walk with him to Jacob's well and our hearts burn within us when we study the scriptures and drink living waters.
-
-  * We walk with him to Galilee when we teach and live the truth.
-
-  * We walk with him in Gethsemane when we assume the burdens of others.
-
-  * We walk with him to Calvary when we take up our cross by denying ourselves of all ungodliness, and every worldly lust (see JST, Matt. 16:26).
-
-  * We suffer with him on Golgotha when we sacrifice our time, talents, and means in building up the kingdom of God.
-
-  * We rise with him to a newness of life when we seek a spiritual rebirth and strive to become his sons and daughters.
+  * Yes, we walk with him in the desert and feel his presence when we fast, pray, and withstand temptation. 
+  * We walk with him to Jacob's well and our hearts burn within us when we study the scriptures and drink living waters. 
+  * We walk with him to Galilee when we teach and live the truth. 
+  * We walk with him in Gethsemane when we assume the burdens of others. 
+  * We walk with him to Calvary when we take up our cross by denying ourselves of all ungodliness, and every worldly lust (see JST, Matt. 16:26). 
+  * We suffer with him on Golgotha when we sacrifice our time, talents, and means in building up the kingdom of God. 
+  * We rise with him to a newness of life when we seek a spiritual rebirth and strive to become his sons and daughters. 
 
 And in the process of following in his footsteps (see [1 Pet.
-2:21](https://www.lds.org/scriptures/nt/1-pet/2.21?lang=eng#20)), we gain the
-personal conviction or infallible proof that he lives, that he is the Son of
-the living God, and that he is our Redeemer.
+2:21](/scriptures/nt/1-pet/2.21?lang=eng#20)), we gain the personal conviction
+or infallible proof that he lives, that he is the Son of the living God, and
+that he is our Redeemer.
 
 ## Conclusion
 
@@ -204,21 +187,22 @@ we call death. She now knows better than I that dying and living again are
 established facts. She knows of a certainty that "death is not a period but a
 comma in the story of life" (Amos John Traver), for she has gone back home and
 is cradled in the arms of God's love (see [2 Ne.
-1:15](https://www.lds.org/scriptures/bofm/2-ne/1.15?lang=eng#14)).
+1:15](/scriptures/bofm/2-ne/1.15?lang=eng#14)).
 
 Whether young or old, we need not "look upon death with any degree of terror,
 for [our] hope and views of Christ and the resurrection; therefore, death [is]
 swallowed up to [us] by the victory of Christ over it" ([Alma
-27:28](https://www.lds.org/scriptures/bofm/alma/27.28?lang=eng#27)). He is our
-Redeemer; he is "the resurrection, and the life" ([John
-11:25](https://www.lds.org/scriptures/nt/john/11.25?lang=eng#24)).
+27:28](/scriptures/bofm/alma/27.28?lang=eng#27)). He is our Redeemer; he is
+"the resurrection, and the life" ([John
+11:25](/scriptures/nt/john/11.25?lang=eng#24)).
 
 I bear solemn testimony that _we shall live again!_ Such testimony is founded
 upon the words of eyewitnesses, including modern prophets who have seen and
-heard the living God and the living Christ (see [D&amp;C
-76:22-24](https://www.lds.org/scriptures/dc-
-testament/dc/76.22-24?lang=eng#21); [JS--H
-1:17](https://www.lds.org/scriptures/pgp/js-h/1.17?lang=eng#16)), and upon
-personal and sacred experiences of the Spirit gained in attempting to walk
-with God. In the name of Jesus Christ, amen.
+heard the living God and the living Christ (see [D&amp;C 76:22-24](/scriptures
+/dc-testament/dc/76.22-24?lang=eng#21); [JS--H
+1:17](/scriptures/pgp/js-h/1.17?lang=eng#16)), and upon personal and sacred
+experiences of the Spirit gained in attempting to walk with God. In the name
+of Jesus Christ, amen.
+
+## References
 

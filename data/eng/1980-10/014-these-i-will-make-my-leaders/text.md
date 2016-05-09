@@ -49,10 +49,10 @@ to the circumstances.
 
 The most encompassing short course on leadership was given by the Savior
 himself: "And he saith unto them, Follow me" ([Matt.
-4:19](https://www.lds.org/scriptures/nt/matt/4.19?lang=eng#18)). A leader
-cannot ask of others what he is not willing to do himself. Our safest course
-is to follow the example of the Savior, and our security is to listen to and
-follow the direction of his prophet, the President of the Church.
+4:19](/scriptures/nt/matt/4.19?lang=eng#18)). A leader cannot ask of others
+what he is not willing to do himself. Our safest course is to follow the
+example of the Savior, and our security is to listen to and follow the
+direction of his prophet, the President of the Church.
 
 Some years ago I was traveling in the Rosario Argentina Mission up in the
 northern part of Argentina. As we were traveling along the road, we passed a
@@ -94,8 +94,7 @@ hypocrisy, and without guile--
 "Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then
 showing forth afterwards an increase of love toward him whom thou hast
 reproved, lest he esteem thee to be his enemy" ([D&amp;C
-121:41-43](https://www.lds.org/scriptures/dc-
-testament/dc/121.41-43?lang=eng#40)).
+121:41-43](/scriptures/dc-testament/dc/121.41-43?lang=eng#40)).
 
 In my experience, the Holy Ghost moves to reprove with sharpness only very
 rarely. Any reproving should be done gently in an effort to convince the one
@@ -114,10 +113,9 @@ With faith in the Lord and humility, a priesthood leader may confidently
 expect divine assistance in his problems. It may require struggling and
 pondering, but the reward is sure. The answer may come as it did to Enos: "The
 voice of the Lord came into my mind," said he ([Enos
-1:10](https://www.lds.org/scriptures/bofm/enos/1.10?lang=eng#9)). Or, it may
-be the feeling in the bosom in accordance with section 9 of the Doctrine and
-Covenants. [[D&amp;C 9:8](https://www.lds.org/scriptures/dc-
-testament/dc/9.8?lang=eng#7)]
+1:10](/scriptures/bofm/enos/1.10?lang=eng#9)). Or, it may be the feeling in
+the bosom in accordance with section 9 of the Doctrine and Covenants.
+[[D&amp;C 9:8](/scriptures/dc-testament/dc/9.8?lang=eng#7)]
 
 After receiving such divine assurance by and through the power of the Holy
 Ghost, the humble leader can then pursue an unswerving course with the
@@ -146,7 +144,7 @@ Most of us who are called to leadership in the Church feel that we are
 inadequate because of inexperience, lack of ability, or meager learning and
 education. Of the many descriptions of Moses is the following: "Now the man
 Moses was very meek, above all the men which were upon the face of the earth"
-([Num. 12:3](https://www.lds.org/scriptures/ot/num/12.3?lang=eng#2)).
+([Num. 12:3](/scriptures/ot/num/12.3?lang=eng#2)).
 
 Years ago I recall President John Kelly, who was then presiding over the Fort
 Worth Texas Stake, called Brother Felix Velasquez to be the president of the
@@ -211,18 +209,18 @@ that I was a Mormon and that they had previously done business with other
 Mormons. Frankly, I was both grateful and pleased because of their confidence.
 
 The duty of a president is to preside, to sit in council, and to teach
-"according to the covenants" ([D&amp;C 107:89](https://www.lds.org/scriptures
-/dc-testament/dc/107.89?lang=eng#88)). There are many covenants, but the oath
-and covenant of the Melchizedek Priesthood in the Doctrine and Covenants,
-section 84, deserves special attention. In essence, the contract between the
-bearer of the priesthood and the Lord is this: If you abide by the law of the
+"according to the covenants" ([D&amp;C 107:89](/scriptures/dc-
+testament/dc/107.89?lang=eng#88)). There are many covenants, but the oath and
+covenant of the Melchizedek Priesthood in the Doctrine and Covenants, section
+84, deserves special attention. In essence, the contract between the bearer of
+the priesthood and the Lord is this: If you abide by the law of the
 priesthood, every blessing within my power to give will be granted you, even
-to become as I am (see [D&amp;C 84:33-39](https://www.lds.org/scriptures/dc-
+to become as I am (see [D&amp;C 84:33-39](/scriptures/dc-
 testament/dc/84.33-39?lang=eng#32)).
 
 When the Savior was giving Peter some leadership training he said, "When thou
 art converted, strengthen thy brethren" ([Luke
-22:32](https://www.lds.org/scriptures/nt/luke/22.32?lang=eng#31)).
+22:32](/scriptures/nt/luke/22.32?lang=eng#31)).
 
 It is interesting that he used the word _strengthen._ It is very difficult to
 strengthen without being a good communicator. Often problems develop, not
@@ -244,15 +242,11 @@ Priesthood leaders have the rare opportunity to conduct priesthood interviews.
 Specifically, through personal contacts and interviews the leader can
 accomplish the following:
 
-  1. Inspire and motivate.
-
-  2. Delegate and trust.
-
-  3. Hold accountable and follow up.
-
-  4. Teach by example and principle.
-
-  5. Be generous with appreciation.
+  1. Inspire and motivate. 
+  2. Delegate and trust. 
+  3. Hold accountable and follow up. 
+  4. Teach by example and principle. 
+  5. Be generous with appreciation. 
 
 Sometimes leaders hold the reins too tightly, often limiting the natural
 talents and gifts of those who are called to labor at their sides.
@@ -261,11 +255,11 @@ Leadership does not always produce a harmonious symphony of faith, skills, and
 talents of the group, producing maximum effectiveness and power. It is
 sometimes a loud solo. President Lee taught a fuller meaning of the scripture,
 "Wherefore, now let every man learn his duty, and to act in the office in
-which he is appointed, in all diligence" ([D&amp;C
-107:99](https://www.lds.org/scriptures/dc-testament/dc/107.99?lang=eng#98)).
-In addition to having all of us learn our duties, leaders should let, or
-permit, their associates to be fully effective within their own office and
-callings, and helpers should be fully clothed with appropriate authority.
+which he is appointed, in all diligence" ([D&amp;C 107:99](/scriptures/dc-
+testament/dc/107.99?lang=eng#98)). In addition to having all of us learn our
+duties, leaders should let, or permit, their associates to be fully effective
+within their own office and callings, and helpers should be fully clothed with
+appropriate authority.
 
 Recently Elder Howard W. Hunter effectively taught the Regional
 Representatives on this subject: "The story is told of how in ancient Greece,
@@ -284,7 +278,9 @@ personal revelation, to which in righteousness they are entitled. The counsel
 of the Lord to Joshua is priceless: "Have I not commanded thee? Be strong and
 of a good courage; be not afraid, neither be thou dismayed: for the Lord thy
 God is with thee whithersoever thou goest." ([Josh.
-1:9](https://www.lds.org/scriptures/ot/josh/1.9?lang=eng#8).)
+1:9](/scriptures/ot/josh/1.9?lang=eng#8).)
 
 That it may be so I pray humbly in the name of Jesus Christ, amen.
+
+## References
 

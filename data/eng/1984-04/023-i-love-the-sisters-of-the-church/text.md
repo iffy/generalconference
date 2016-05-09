@@ -68,3 +68,5 @@ This is His kingdom. We have a great responsibility to share it. I know that
 God lives, that he loves us. This is my testimony to you, and I pledge my
 service to you, in the name of Jesus Christ, amen.
 
+## References
+

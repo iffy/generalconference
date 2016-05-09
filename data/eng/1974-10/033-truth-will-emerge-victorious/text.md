@@ -41,11 +41,11 @@ nationally may find ourselves.
 Jesus rebuked the Jews, who in their dilemma sought to kill him, saying:
 "Search the scriptures; for in them ye think ye have eternal life: and they
 are they which testify of me." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).) He gave us
-the keys to the fulfillment of life--search and think. Search for ideas.
-Search for examples. Search for testimony. Then apply the results and implant
-them into our intellects that they may generate within us a living faith in
-God, our Eternal Father.
+5:39](/scriptures/nt/john/5.39?lang=eng#38).) He gave us the keys to the
+fulfillment of life--search and think. Search for ideas. Search for examples.
+Search for testimony. Then apply the results and implant them into our
+intellects that they may generate within us a living faith in God, our Eternal
+Father.
 
 This thought comes to mind and I quote: "Faith is a belief in testimony. It is
 not a leap in the dark. God does not ask any man to believe without giving him
@@ -71,8 +71,8 @@ the power and conviction of his commitment to his Heavenly Father, which was,
 "I will go and do the things which the Lord hath commanded, for I know that
 the Lord giveth no commandments unto the children of men, save he shall
 prepare a way for them that they may accomplish the thing which he commandeth
-them" ([1 Ne. 3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6)),
-proceeded to venture again, alone, into the night to obtain the record.
+them" ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6)), proceeded to
+venture again, alone, into the night to obtain the record.
 
 The scriptures state, "I, Nephi, crept into the city and went forth towards
 the house of Laban. And I was led by the Spirit, not knowing beforehand the
@@ -94,8 +94,8 @@ thought that they could not keep the commandments of the Lord according to the
 law of Moses, save they should have the law. ...
 
 "I knew that the Lord had delivered Laban into my hands for this cause." (See
-[1 Ne. 4:5-17](https://www.lds.org/scriptures/bofm/1-ne/4.5-17?lang=eng#4).)
-Nephi obtained the records and in due course brought them to his father, Lehi.
+[1 Ne. 4:5-17](/scriptures/bofm/1-ne/4.5-17?lang=eng#4).) Nephi obtained the
+records and in due course brought them to his father, Lehi.
 
 Lehi and his wife Sariah rejoiced at the return of their sons and gave thanks
 unto God. Then "Lehi, took the records ... and he did search them from the
@@ -104,16 +104,14 @@ Jews from the beginning, even down to ... the reign of Zedekiah, king of Judah;
 ... prophecies of the holy prophets, from the beginning, even down to the
 commencement of the reign of Zedekiah; ... a genealogy of his [Lehi's] fathers;
 wherefore he knew that he was a descendant of ... that Joseph who was the son of
-Jacob." (See [1 Ne.
-5:10-14](https://www.lds.org/scriptures/bofm/1-ne/5.10-14?lang=eng#9).)
+Jacob." (See [1 Ne. 5:10-14](/scriptures/bofm/1-ne/5.10-14?lang=eng#9).)
 
 Perhaps Lehi read the blessing of Joseph, received under the hand of Jacob.
 "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches
-run over the wall" ([Gen.
-49:22](https://www.lds.org/scriptures/ot/gen/49.22?lang=eng#21)), and he knew
-that he was in the process of fulfilling that blessing in establishing a new
-nation which would "run over the wall" to a new promised land and would bring
-them to the continents now known as America.
+run over the wall" ([Gen. 49:22](/scriptures/ot/gen/49.22?lang=eng#21)), and
+he knew that he was in the process of fulfilling that blessing in establishing
+a new nation which would "run over the wall" to a new promised land and would
+bring them to the continents now known as America.
 
 The obtained records were the foundation records they carried with them, to
 which was added continuous revelation received by Lehi and his posterity.
@@ -127,18 +125,18 @@ than a flock of sheep." (H. V. Prochnow and H. V. Prochnow, Jr., _The Public
 Speakers Treasure Chest,_ New York: Harper and Row, 1942, p. 383.) On the
 contrary, those who choose them and live by them will live. "The just shall
 live by his faith," so Habakkuk tells us. ([Hab.
-2:4](https://www.lds.org/scriptures/ot/hab/2.4?lang=eng#3).)
+2:4](/scriptures/ot/hab/2.4?lang=eng#3).)
 
 A confirmation testimony is presented to us in the lives of the twins, Esau
 and Jacob, born to Isaac and Rebekah. Esau, the elder, despised his birthright
 and sold it for a mess of pottage, married among the Canaanites, contrary to
 the desires of his parents, and sought to kill his brother Jacob, and turned
 from God's teachings. As one writer put it, "Esau is a _profane person,_
-[[Heb. 12:16](https://www.lds.org/scriptures/nt/heb/12.16?lang=eng#15).] with
-no conscience of a birthright, no faith in the future, no capacity for vision;
-dead to the unseen, and clamoring only for the satisfaction of his appetites."
-(Sir George Adam Smith, _The Book of the Twelve Prophets,_ vol. 2, Garden
-City, N.Y.: Doubleday, Dow and Company, Inc., 1929, p. 182.)
+[[Heb. 12:16](/scriptures/nt/heb/12.16?lang=eng#15).] with no conscience of a
+birthright, no faith in the future, no capacity for vision; dead to the
+unseen, and clamoring only for the satisfaction of his appetites." (Sir George
+Adam Smith, _The Book of the Twelve Prophets,_ vol. 2, Garden City, N.Y.:
+Doubleday, Dow and Company, Inc., 1929, p. 182.)
 
 Jacob, the younger, honored the birthright which he obtained by bargaining,
 sought the blessing of God, and desired to serve him. He became the progenitor
@@ -194,12 +192,12 @@ but it shall break in pieces and consume all these kingdoms, and it shall
 stand for ever. ...
 
 "The dream is certain, and the interpretation thereof sure." (See [Dan.
-2:1-45](https://www.lds.org/scriptures/ot/dan/2.1-45?lang=eng#0).)
+2:1-45](/scriptures/ot/dan/2.1-45?lang=eng#0).)
 
 It was not a figment of the imagination of Daniel. The king testified, "Of a
 truth it is, that your God is a God of gods, and a Lord of kings, and a
 revealer of secrets, seeing thou couldest reveal this secret." ([Dan.
-2:47](https://www.lds.org/scriptures/ot/dan/2.47?lang=eng#46).)
+2:47](/scriptures/ot/dan/2.47?lang=eng#46).)
 
 The recalling of this dream and the interpretation thereof were made possible
 through the exercise of Daniel's faith. A careful study of history confirms
@@ -214,7 +212,7 @@ liberally, and upbraideth not; and it shall be given him.
 
 "But let him ask in faith, nothing wavering. For he that wavereth is like a
 wave of the sea driven with the wind and tossed." ([James
-1:5-6](https://www.lds.org/scriptures/nt/james/1.5-6?lang=eng#4).)
+1:5-6](/scriptures/nt/james/1.5-6?lang=eng#4).)
 
 After reading that passage of scripture Joseph Smith sought a grove of trees
 in which to make inquiry. In response to his supplication to God, a marvelous
@@ -226,4 +224,6 @@ established. It is The Church of Jesus Christ of Latter-day Saints. It began
 in obscurity, but it is now rolling forth throughout the free world, inviting
 all to come unto Christ. I bear this witness to this truth in the name of
 Jesus Christ. Amen.
+
+## References
 

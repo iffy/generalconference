@@ -87,11 +87,9 @@ right kind of projects and the quality of products, whether they are ward,
 stake, or region projects. Regarding production projects, members of the
 bishops council should give their opinions on the following questions:
 
-  1. What are the estimated financial and time commitments required of ward members?
-
-  2. Will the project be accessible to the members?
-
-  3. Will the size and type of the project be suitable for ward members?
+  1. What are the estimated financial and time commitments required of ward members? 
+  2. Will the project be accessible to the members? 
+  3. Will the size and type of the project be suitable for ward members? 
 
 The stake welfare services committee has the primary stewardship for seeing
 that production projects are established according to the area master plan.
@@ -146,17 +144,12 @@ stake bishops council, under the direction of the stake president, to design a
 meaningful agenda for each stake bishops council meeting. In summary, these
 six responsibilities are:
 
-  1. Ensure that the Lord's storehouse functions properly.
-
-  2. Help develop the annual commodity production budget to provide needed commodities for the poor and the needy.
-
-  3. Advise and counsel with the stake presidency about the acquisition and management of production projects.
-
-  4. Receive instruction from the stake presidency and develop ways to teach ward members the law of the fast and ensure proper administration of these consecrated offerings.
-
-  5. Plan ways to see that members work to the extent of their ability for any Church assistance they receive.
-
-  6. Provide training for bishops in welfare services principles and programs.
+  1. Ensure that the Lord's storehouse functions properly. 
+  2. Help develop the annual commodity production budget to provide needed commodities for the poor and the needy. 
+  3. Advise and counsel with the stake presidency about the acquisition and management of production projects. 
+  4. Receive instruction from the stake presidency and develop ways to teach ward members the law of the fast and ensure proper administration of these consecrated offerings. 
+  5. Plan ways to see that members work to the extent of their ability for any Church assistance they receive. 
+  6. Provide training for bishops in welfare services principles and programs. 
 
 I will always be grateful I had the opportunity of growing up with the welfare
 plan. My father was a bishop at the time of its beginning. He had a remarkable
@@ -184,4 +177,6 @@ choicest blessings will always guide and attend you. May these special moments
 of sweet reward for service rendered in our Father in heaven's kingdom sustain
 you and support you in your great and noble callings, I humbly pray in the
 name of Jesus Christ. Amen.
+
+## References
 

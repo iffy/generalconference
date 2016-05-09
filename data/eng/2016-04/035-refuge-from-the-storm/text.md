@@ -167,3 +167,31 @@ _For further reference, see
 community](http://www.mormonchannel.org/blog/post/40-ways-to-help-refugees-in-
 your-community?lang=eng)._
 
+## References
+
+  1. [Matthew 25:35-36, 40](https://www.lds.org/scriptures/nt/matt/25.35-36,40?lang=eng#34).
+
+  2. See Stephanie Nebehay, "World's Refugees and Displaced Exceed Record 60 Million," Dec. 18, 2015, reuters.com.
+
+  3. See "Facts and Figures about Refugees," unhcr.org.uk/about-us/key-facts-and-figures.html.
+
+  4. See "A Record 1.25 Million Asylum Seekers Arrived in the EU Last Year," Mar. 4, 2016, businessinsider.com.
+
+  5. Linda K. Burton, "[I Was a Stranger](../../../general-conference/2016/04/i-was-a-stranger.html?lang=eng),"_ Ensign_ or_ Liahona,_ May 2016.
+
+  6. [James 1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26).
+
+  7. [Doctrine and Covenants 38:35](https://www.lds.org/scriptures/dc-testament/dc/38.35?lang=eng#34); see also [Doctrine and Covenants 81:5](https://www.lds.org/scriptures/dc-testament/dc/81.5?lang=eng#4).
+
+  8. [Alma 1:30](https://www.lds.org/scriptures/bofm/alma/1.30?lang=eng#29).
+
+  9. See First Presidency letter, Mar. 26, 2016; see also [Mosiah 4:27](https://www.lds.org/scriptures/bofm/mosiah/4.27?lang=eng#26).
+
+  10. See First Presidency letter, Oct. 27, 2015.
+
+  11. [Doctrine and Covenants 115:6](https://www.lds.org/scriptures/dc-testament/dc/115.6?lang=eng#5); see also [Isaiah 4:5-6](https://www.lds.org/scriptures/ot/isa/4.5-6?lang=eng#4).
+
+  12. [2 Timothy 1:7](https://www.lds.org/scriptures/nt/2-tim/1.7?lang=eng#6).
+
+  13. [Matthew 25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39).
+

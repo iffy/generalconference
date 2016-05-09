@@ -80,7 +80,7 @@ Satan _wants_ us to lose our protection--that is, the help of the Holy Ghost--
 because that's when he can gain power over us. When we obey, we can have the
 protection of the Holy Ghost. "I, the Lord, am bound," he said, "when ye do
 what I say; but when ye do not what I say, ye have no promise." ([D&amp;C
-82:10](https://www.lds.org/scriptures/dc-testament/dc/82.10?lang=eng#9).)
+82:10](/scriptures/dc-testament/dc/82.10?lang=eng#9).)
 
 Satan keeps at us all our lives. As we grow older, he adds phrases like these
 to the messages he delivers: "I'm not worth much." "I've done my part, now
@@ -103,7 +103,7 @@ return to him. Unlike Satan, who wants to destroy you, Heavenly Father wants
 you because he loves you. He has provided ways to protect you from Satan. And
 whom did He choose to show us the way? His Son Jesus Christ. "Behold, I am he
 who was prepared from the foundation of the world to redeem my people."
-([Ether 3:14](https://www.lds.org/scriptures/bofm/ether/3.14?lang=eng#13).)
+([Ether 3:14](/scriptures/bofm/ether/3.14?lang=eng#13).)
 
 That is our Heavenly Father's work. _Our_ work is to live worthy of returning
 to him and help others do the same.
@@ -111,8 +111,7 @@ to him and help others do the same.
 When Jesus was in the wilderness, Satan promised him power and fame if Jesus
 would worship him. Jesus, knowing Satan's promises are false, said, "Get thee
 behind me, Satan," meaning, "Go away. Don't bother me. I won't listen to you."
-(See [Matt.
-4:8-10](https://www.lds.org/scriptures/nt/matt/4.8-10?lang=eng#7).)
+(See [Matt. 4:8-10](/scriptures/nt/matt/4.8-10?lang=eng#7).)
 
 Satan can influence us only if we let him. Each time we resist evil, the Lord
 blesses us with more strength to resist. When I do something I shouldn't, I
@@ -124,11 +123,10 @@ us for more of the life-giving sustenance the Lord has for us.
 
 While it is important to be aware of the desire Satan has to own us, it is not
 necessary for us to live in fear. In the Doctrine and Covenants we are taught,
-"If ye are prepared ye shall not fear." ([D&amp;C
-38:30](https://www.lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29).) As
-we prepare ourselves to receive the blessings of the Lord and to be worthy to
-serve him, we are gathering strength--power from the Holy Ghost--preparing
-ourselves to overcome evil.
+"If ye are prepared ye shall not fear." ([D&amp;C 38:30](/scriptures/dc-
+testament/dc/38.30?lang=eng#29).) As we prepare ourselves to receive the
+blessings of the Lord and to be worthy to serve him, we are gathering strength
+--power from the Holy Ghost--preparing ourselves to overcome evil.
 
 One part of preparing is repenting. If you have done something wrong, I hope
 you know it was wrong and will repent. Talk to your parents or your bishop.
@@ -151,7 +149,7 @@ Heavenly Father's will for us. We train our spiritual senses by doing good
 things. We are taught to "search diligently in the light of Christ that ye may
 know good from evil; and if ye will lay hold upon every good thing, and
 condemn it not, ye certainly will be a child of Christ." ([Moro.
-7:19](https://www.lds.org/scriptures/bofm/moro/7.19?lang=eng#18).)
+7:19](/scriptures/bofm/moro/7.19?lang=eng#18).)
 
 To "lay hold upon every good thing" means to look for good and do good. Then
 you will have good feelings. You can know which choices to make. Although you
@@ -211,4 +209,6 @@ Just as food satisfies our physical hunger, we can partake with satisfaction
 and delight in all the Father has for us as we, living like his Son, feast at
 the table of the Lord. Of these things I testify, in the name of Jesus Christ,
 amen.
+
+## References
 

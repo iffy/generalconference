@@ -37,13 +37,12 @@ pages of the Book of Mormon, Nephi warning the people:
 
 "And he commandeth all men that they must repent, and be baptized in his name,
 having perfect faith in the Holy One of Israel, or they cannot be saved in the
-kingdom of God" ([2 Ne.
-9:23](https://www.lds.org/scriptures/bofm/2-ne/9.23?lang=eng#22)).
+kingdom of God" ([2 Ne. 9:23](/scriptures/bofm/2-ne/9.23?lang=eng#22)).
 
 John the Baptist, preaching in the wilderness of Judea, preparing the way for
 the mission of our Savior on earth, cried to the people, "Repent ye: for the
 kingdom of heaven is at hand" ([Matt.
-3:2](https://www.lds.org/scriptures/nt/matt/3.2?lang=eng#1)).
+3:2](/scriptures/nt/matt/3.2?lang=eng#1)).
 
 As the Church was restored to the earth in this dispensation, the people were
 admonished to assist in building the kingdom of God here on earth in
@@ -104,7 +103,7 @@ people; giving a chance for the enemy of God to exercise his power over them.
 for he did go about secretly with the sons of Mosiah seeking to destroy the
 church, and to lead astray the people of the Lord, contrary to the
 commandments of God, or even the king--" ([Mosiah 27:1-2,
-8-10](https://www.lds.org/scriptures/bofm/mosiah/27.1-2%2C8-10?lang=eng#0).)
+8-10](/scriptures/bofm/mosiah/27.1-2,8-10?lang=eng#0).)
 
 As Alma the Younger was going about in rebellion, an angel of the Lord
 appeared to him and the sons of Mosiah, and spake as with a voice of thunder.
@@ -121,7 +120,7 @@ concerning thee that thou mightest be brought to the knowledge of the truth;
 therefore, for this purpose have I come to convince thee of the power and
 authority of God, that the prayers of his servants might be answered according
 to their faith." ([Mosiah
-27:12-14](https://www.lds.org/scriptures/bofm/mosiah/27.12-14?lang=eng#11).)
+27:12-14](/scriptures/bofm/mosiah/27.12-14?lang=eng#11).)
 
 The appearance of the angel was so shocking to Alma the Younger that he became
 dumb. He could not open his mouth, he became so weak he could not move his
@@ -142,7 +141,7 @@ becoming his sons and daughters;
 
 "And thus they become new creatures; and unless they do this, they can in
 nowise inherit the kingdom of God." ([Mosiah
-27:24-26](https://www.lds.org/scriptures/bofm/mosiah/27.24-26?lang=eng#23).)
+27:24-26](/scriptures/bofm/mosiah/27.24-26?lang=eng#23).)
 
 Alma's life was changed. From this time forth the scriptures record that he
 went forth not to destroy the Church, but now to build it up, and he became a
@@ -152,7 +151,7 @@ mighty leader in this land. Now we find him declaring:
 glory of myself, but I glory in that which the Lord hath commanded me; yea,
 and this is my glory, that perhaps I may be an instrument in the hands of God
 to bring some soul to repentance; and this is my joy." ([Alma
-29:9](https://www.lds.org/scriptures/bofm/alma/29.9?lang=eng#8).)
+29:9](/scriptures/bofm/alma/29.9?lang=eng#8).)
 
 Conversion to the gospel of Jesus Christ brings a requirement to live
 according to a higher law. From there on we must conduct ourselves as citizens
@@ -186,12 +185,13 @@ behold, thus saith the Father: Ye shall have eternal life.
 
 "And now, behold, my beloved brethren, this is the way; and there is none
 other way nor name given under heaven whereby man can be saved in the kingdom
-of God." ([2 Ne.
-31:20-21](https://www.lds.org/scriptures/bofm/2-ne/31.20-21?lang=eng#19).)
+of God." ([2 Ne. 31:20-21](/scriptures/bofm/2-ne/31.20-21?lang=eng#19).)
 
 God lives. Jesus is the Christ, the Savior of the world. His kingdom will
 prevail. The greatest joy we can find on this earth is conforming our lives to
 His law.
 
 This is my witness to you, in the name of Jesus Christ, amen.
+
+## References
 

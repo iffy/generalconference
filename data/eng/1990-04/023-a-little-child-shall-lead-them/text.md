@@ -16,7 +16,7 @@ greatest in the kingdom of heaven.
 "But whoso shall offend one of these little ones which believe in me, it were
 better for him that a millstone were hanged about his neck, and that he were
 drowned in the depth of the sea." ([Matt.
-18:1-6](https://www.lds.org/scriptures/nt/matt/18.1-6?lang=eng#0).)
+18:1-6](/scriptures/nt/matt/18.1-6?lang=eng#0).)
 
 Recently, as I read the daily newspaper, my thoughts turned to this passage
 and the firm candor of the Savior's declaration. In one column of the
@@ -94,8 +94,7 @@ is the kingdom of God.
 little child, he shall not enter therein.
 
 "And he took them up in his arms, put his hands upon them, and blessed them."
-([Mark
-10:14-16](https://www.lds.org/scriptures/nt/mark/10.14-16?lang=eng#13).)
+([Mark 10:14-16](/scriptures/nt/mark/10.14-16?lang=eng#13).)
 
 What a magnificent pattern for us to follow.
 
@@ -181,7 +180,7 @@ said.
 
 As I read this account, I thought of the statement from the book of Isaiah:
 "And a little child shall lead them." ([Isa.
-11:6](https://www.lds.org/scriptures/ot/isa/11.6?lang=eng#5).)
+11:6](/scriptures/ot/isa/11.6?lang=eng#5).)
 
 The words of a Primary hymn express the feelings of a child's heart:
 
@@ -207,12 +206,11 @@ the vast multitude of men, women, and children. Then, responding to their
 faith and the desire that He tarry longer, He invited them to bring to Him
 their lame, their blind, and their sick, that He might heal them. With joy
 they accepted His invitation. The record reveals that "he did heal them every
-one." ([3 Ne.
-17:9](https://www.lds.org/scriptures/bofm/3-ne/17.9?lang=eng#8).) There
-followed His mighty prayer to His Father. The multitude bore record: "The eye
-hath never seen, neither hath the ear heard, before, so great and marvelous
-things as we saw and heard Jesus speak unto the Father." ([3 Ne.
-17:16](https://www.lds.org/scriptures/bofm/3-ne/17.16?lang=eng#15).)
+one." ([3 Ne. 17:9](/scriptures/bofm/3-ne/17.9?lang=eng#8).) There followed
+His mighty prayer to His Father. The multitude bore record: "The eye hath
+never seen, neither hath the ear heard, before, so great and marvelous things
+as we saw and heard Jesus speak unto the Father." ([3 Ne.
+17:16](/scriptures/bofm/3-ne/17.16?lang=eng#15).)
 
 Concluding this magnificent event, Jesus "wept, ... and he took their little
 children, one by one, and blessed them, and prayed unto the Father for them. ...
@@ -223,11 +221,11 @@ children, one by one, and blessed them, and prayed unto the Father for them. ...
 saw the heavens open, and they saw angels descending out of heaven ... ; and
 they came down and encircled those little ones ... ; and the angels did minister
 unto them." ([3 Ne. 17:21,
-23-24](https://www.lds.org/scriptures/bofm/3-ne/17.21%2C23-24?lang=eng#20).)
+23-24](/scriptures/bofm/3-ne/17.21,23-24?lang=eng#20).)
 
 Over and over in my mind I pondered the phrase, "Whosoever shall not receive
 the kingdom of God as a little child, he shall not enter therein." ([Mark
-10:15](https://www.lds.org/scriptures/nt/mark/10.15?lang=eng#14).)
+10:15](/scriptures/nt/mark/10.15?lang=eng#14).)
 
 One who fulfilled in his life this admonition of the Savior was a missionary,
 Thomas Michael Wilson. He is the son of Willie and Julia Wilson, Route 2, Box
@@ -299,9 +297,9 @@ when they depart from mortal life, continue their labors in the preaching of
 the gospel of repentance and redemption, through the sacrifice of the Only
 Begotten Son of God, among those who are in darkness and under the bondage of
 sin in the great world of the spirits of the dead' [[D&amp;C
-138:57](https://www.lds.org/scriptures/dc-testament/dc/138.57?lang=eng#56)].
-The spirit bore record that this was the case. Elder Thomas Michael Wilson was
-buried with his missionary name tag in place."
+138:57](/scriptures/dc-testament/dc/138.57?lang=eng#56)]. The spirit bore
+record that this was the case. Elder Thomas Michael Wilson was buried with his
+missionary name tag in place."
 
 When Elder Wilson's mother and his father visit that rural cemetery and place
 flowers of remembrance on the grave of their son, I feel certain they will
@@ -312,9 +310,11 @@ pilgrimages, when emotions are close to the surface and tears cannot be
 restrained, they will again thank God for their missionary son, who never lost
 the faith of a child, and then ponder deep within their hearts the Master's
 words, "And a little child shall lead them." ([Isa.
-11:6](https://www.lds.org/scriptures/ot/isa/11.6?lang=eng#5).)
+11:6](/scriptures/ot/isa/11.6?lang=eng#5).)
 
 Peace will then be their blessing. It will be our blessing, also, as we
 remember and follow the Prince of Peace. That we may do so is my sincere
 prayer. In the name of Jesus Christ, amen.
+
+## References
 

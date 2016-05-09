@@ -36,8 +36,7 @@ These words of the prophet Alma are most appropriate at this time:
 prepared from the foundation of the world according to the foreknowledge of
 God, on account of their exceeding faith and good works; ... therefore they
 having chosen good, and exercising exceedingly great faith, are called with a
-holy calling" ([Alma
-13:3](https://www.lds.org/scriptures/bofm/alma/13.3?lang=eng#2)).
+holy calling" ([Alma 13:3](/scriptures/bofm/alma/13.3?lang=eng#2)).
 
 The Prophet Joseph Smith taught, "Every man who has a calling to minister to
 the inhabitants of the world was ordained to that very purpose in the Grand
@@ -77,10 +76,9 @@ On April 6, 1830--the date of the organization of Christ's restored church
 the presiding officers of the Church. Called of God, Joseph was designated by
 revelation to be a seer, translator, prophet, and an apostle of Jesus Christ,
 through the will of God the Father and the grace of our Lord Jesus Christ (see
-[D&amp;C 20:1-2](https://www.lds.org/scriptures/dc-
-testament/dc/20.1-2?lang=eng#0); [D&amp;C 21:1](https://www.lds.org/scriptures
-/dc-testament/dc/21.1?lang=eng#0)). The Lord instructed the small group of
-faithful Saints:
+[D&amp;C 20:1-2](/scriptures/dc-testament/dc/20.1-2?lang=eng#0); [D&amp;C
+21:1](/scriptures/dc-testament/dc/21.1?lang=eng#0)). The Lord instructed the
+small group of faithful Saints:
 
 "Wherefore, meaning the church, thou shalt give heed unto all his words and
 commandments which he shall give unto you as he receiveth them, walking in all
@@ -91,7 +89,7 @@ faith.
 
 "... Him have I inspired to move the cause of Zion in mighty power for good, and
 his diligence I know, and his prayers I have heard" ([D&amp;C 21:4-5,
-7](https://www.lds.org/scriptures/dc-testament/dc/21.4-5%2C7?lang=eng#3)).
+7](/scriptures/dc-testament/dc/21.4-5,7?lang=eng#3)).
 
 This revelation given to the Prophet Joseph is relevant for each prophet and
 President of the Church as well as the members of the Church for all of us to
@@ -164,4 +162,6 @@ the Quorum of the Twelve, to be an Apostle of our Lord, Jesus Christ.
 This work is true. It will move forward to carry out all the divine plans of
 our Heavenly Father. I bear you this witness on this sacred day in the name of
 our Lord, Jesus Christ, amen.
+
+## References
 

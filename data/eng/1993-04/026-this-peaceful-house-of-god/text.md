@@ -49,7 +49,7 @@ kindred, and tongue, and people,
 "Saying with a loud voice, Fear God, and give glory to him; for the hour of
 his judgment is come: and worship him that made heaven, and earth, and the
 sea, and the fountains of waters." ([Rev.
-14:6-7](https://www.lds.org/scriptures/nt/rev/14.6-7?lang=eng#5).)
+14:6-7](/scriptures/nt/rev/14.6-7?lang=eng#5).)
 
 In the presence of that multitude, President Wilford Woodruff touched a
 switch. The capstone with the angel settled in place. President Woodruff led
@@ -143,7 +143,7 @@ of the Salt Lake Temple: "Holiness to the Lord--the House of the Lord." Every
 one has been dedicated for the same purpose: to assist in accomplishing the
 divine work of God our Eternal Father, who declared, "This is my work and my
 glory--to bring to pass the immortality and eternal life of man" ([Moses
-1:39](https://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38)).
+1:39](/scriptures/pgp/moses/1.39?lang=eng#38)).
 
 The ordinances that are administered in each of these temples are identical to
 and as efficacious as the ordinances administered in the Salt Lake Temple.
@@ -174,7 +174,7 @@ to the Prophet Joseph Smith by revelation:
 "And we ask thee, Holy Father, that thy servants may go forth from this house
 armed with thy power, and that thy name may be upon them, and thy glory be
 round about them, and thine angels have charge over them" ([D&amp;C
-109:22](https://www.lds.org/scriptures/dc-testament/dc/109.22?lang=eng#21)).
+109:22](/scriptures/dc-testament/dc/109.22?lang=eng#21)).
 
 And further:
 
@@ -182,8 +182,8 @@ And further:
 and proclaim thy word they may seal up the law, and prepare the hearts of thy
 saints for all those judgments thou art about to send, in thy wrath, upon the
 inhabitants of the earth, because of their transgressions, that thy people may
-not faint in the day of trouble" ([D&amp;C
-109:38](https://www.lds.org/scriptures/dc-testament/dc/109.38?lang=eng#37)).
+not faint in the day of trouble" ([D&amp;C 109:38](/scriptures/dc-
+testament/dc/109.38?lang=eng#37)).
 
 And from further revelation received in the days of Nauvoo:
 
@@ -203,9 +203,8 @@ reveal mine ordinances therein unto my people;
 
 "For I deign to reveal unto my church things which have been kept hid from
 before the foundation of the world, things that pertain to the dispensation of
-the fulness of times." ([D&amp;C 124:28-31,
-40-41](https://www.lds.org/scriptures/dc-
-testament/dc/124.28-31%2C40-41?lang=eng#27).)
+the fulness of times." ([D&amp;C 124:28-31, 40-41](/scriptures/dc-
+testament/dc/124.28-31,40-41?lang=eng#27).)
 
 Each temple built by The Church of Jesus Christ of Latter-day Saints stands as
 an expression of the testimony of this people that God our Eternal Father
@@ -224,7 +223,7 @@ priesthood, saying:
 "And I will give unto thee the keys of the kingdom of heaven: and whatsoever
 thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt
 loose on earth shall be loosed in heaven." ([Matt.
-16:19](https://www.lds.org/scriptures/nt/matt/16.19?lang=eng#18).)
+16:19](/scriptures/nt/matt/16.19?lang=eng#18).)
 
 This same authority was bestowed in this generation under the hands of Peter,
 James, and John, who had received it directly from the Lord. This power, to
@@ -295,4 +294,6 @@ I hope that as we do so, there will be stirred within each of us a flaming
 testimony of the divinity of this work and a spirit of gratitude to the
 Almighty whose kingdom this is. In the name of our Divine Redeemer, Jesus
 Christ, amen.
+
+## References
 

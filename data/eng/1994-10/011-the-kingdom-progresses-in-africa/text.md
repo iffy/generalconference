@@ -62,8 +62,7 @@ missions, 10 stakes, and 425 wards and branches. The number of baptisms during
 1993 totaled over 9,000. Even greater numbers of baptisms would be possible if
 that were the sole measure of success. However, we are anxious that each of
 our African brothers and sisters be remembered and "nourished by the good word
-of God" ([Moro.
-6:4](https://www.lds.org/scriptures/bofm/moro/6.4?lang=eng#3)). The Church
+of God" ([Moro. 6:4](/scriptures/bofm/moro/6.4?lang=eng#3)). The Church
 therefore proceeds in an orderly and planned fashion. Efforts are focused to
 create centers of strength. The goal is to establish deep pools of leadership
 that will become the foundation for future Church expansion.
@@ -86,8 +85,7 @@ literacy, better health, and humanitarian service to members and nonmembers.
 
 Rich and eternal are the rewards as these couples nourish and carry "in their
 arms, and ... upon their shoulders" the truth-seeking people they are called to
-bless (see [1 Ne.
-21:22](https://www.lds.org/scriptures/bofm/1-ne/21.22?lang=eng#21)). Sacrifice
+bless (see [1 Ne. 21:22](/scriptures/bofm/1-ne/21.22?lang=eng#21)). Sacrifice
 may be required--discipleship is not always easy--but life is never the same
 for a couple who have tasted the sweetness and joy of missionary service.
 Otherwise, why do so many return for second and even third missions? More
@@ -95,8 +93,7 @@ couples are urgently needed in Africa and elsewhere. My brothers and sisters
 who are retired or approaching retirement, please prayerfully consider the
 rich blessings that flow from missionary service. If you should "bring, save
 it be one soul unto me, how great shall be your joy ... in the kingdom of my
-Father" ([D&amp;C 18:15](https://www.lds.org/scriptures/dc-
-testament/dc/18.15?lang=eng#14)).
+Father" ([D&amp;C 18:15](/scriptures/dc-testament/dc/18.15?lang=eng#14)).
 
 When the Church was still in its infancy, the Prophet Joseph Smith stated:
 "Our missionaries are going forth to different nations; ... the Standard of
@@ -116,4 +113,6 @@ Brothers and sisters, I know that my Redeemer lives and is the Savior of the
 world, that this is the only true and living church upon the earth, and that
 President Howard W. Hunter is a prophet of God. And to this I bear solemn
 witness, in the name of Jesus Christ, amen.
+
+## References
 

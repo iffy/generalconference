@@ -60,25 +60,22 @@ God?
 
 "Jesus answered and said unto them, This is the work of God, that ye believe
 on him whom he hath sent." ([John
-6:25-29](https://www.lds.org/scriptures/nt/john/6.25-29?lang=eng#24).)
+6:25-29](/scriptures/nt/john/6.25-29?lang=eng#24).)
 
 "And this is the will of him that sent me, that every one which seeth the Son,
 and believeth on him, may have everlasting life: and I will raise him up at
-the last day." ([John
-6:40](https://www.lds.org/scriptures/nt/john/6.40?lang=eng#39).)
+the last day." ([John 6:40](/scriptures/nt/john/6.40?lang=eng#39).)
 
 The Jews then murmured. Even some of the disciples murmured. Following a brief
 silence, two decisions were made.
 
 The first one: "From that time many of his disciples went back, and walked no
-more with him." ([John
-6:66](https://www.lds.org/scriptures/nt/john/6.66?lang=eng#65).) They followed
-their own way.
+more with him." ([John 6:66](/scriptures/nt/john/6.66?lang=eng#65).) They
+followed their own way.
 
 The second one: "Then said Jesus unto the twelve, Will ye also go away? Then
 Simon Peter answered him, Lord, to whom shall we go? thou hast the words of
-eternal life." ([John
-6:67-68](https://www.lds.org/scriptures/nt/john/6.67-68?lang=eng#66).) They
+eternal life." ([John 6:67-68](/scriptures/nt/john/6.67-68?lang=eng#66).) They
 followed the way, the only true way.
 
 To desert, defect, give up, resign, surrender, renounce, abdicate, yield,
@@ -107,7 +104,7 @@ and satisfying our own appetites first.
 in his own way, and after the image of his own god, whose image is in the
 likeness of the world, and whose substance is that of an idol, which waxeth
 old and shall perish in ... Babylon the great, which shall fall." ([D&amp;C
-1:16](https://www.lds.org/scriptures/dc-testament/dc/1.16?lang=eng#15).)
+1:16](/scriptures/dc-testament/dc/1.16?lang=eng#15).)
 
 The Lord has also helped us avoid this situation:
 
@@ -119,8 +116,8 @@ unto him from heaven, and gave him commandments;"
 the foundation of this church, and to bring it forth out of obscurity and out
 of darkness, the only true and living church upon the face of the whole earth,
 with which I, the Lord, am well pleased, speaking unto the church collectively
-and not individually." ([D&amp;C 1:17, 30](https://www.lds.org/scriptures/dc-
-testament/dc/1.17%2C30?lang=eng#16).)
+and not individually." ([D&amp;C 1:17, 30](/scriptures/dc-
+testament/dc/1.17,30?lang=eng#16).)
 
 All the teachings of the Lord and the prophets carry that persistent message,
 to persuade the world to know him and his father through a living prophet and
@@ -133,15 +130,15 @@ given by the Lord as he taught the Nephites:
 
 "Therefore I would that ye should be perfect even as I, or your Father who is
 in heaven is perfect." ([3 Ne.
-12:48](https://www.lds.org/scriptures/bofm/3-ne/12.48?lang=eng#47).)
+12:48](/scriptures/bofm/3-ne/12.48?lang=eng#47).)
 
 Again, these words were not given to discourage or to tempt us to desert, but
 rather to motivate us to be prepared and not to be afraid. Prepared to do
 what? The Lord has commanded us again and again to be prepared to "live by
 every word that proceedeth forth from the mouth of God," ([D&amp;C
-84:44](https://www.lds.org/scriptures/dc-testament/dc/84.44?lang=eng#43)) to
-serve him with all of our heart, might, mind, and strength (see [D&amp;C
-59:5](https://www.lds.org/scriptures/dc-testament/dc/59.5?lang=eng#4)).
+84:44](/scriptures/dc-testament/dc/84.44?lang=eng#43)) to serve him with all
+of our heart, might, mind, and strength (see [D&amp;C 59:5](/scriptures/dc-
+testament/dc/59.5?lang=eng#4)).
 
 To endure in obedience and service is contrary to desertion. It is to continue
 without perishing; to last; to remain firm when under trial; to suffer or bear
@@ -151,8 +148,7 @@ force without yielding.
 The encouraging factor in recognizing adversity is that we are not alone. The
 Lord told Joseph Smith, "Be patient in afflictions, for thou shalt have many;
 but endure them, for, lo, I am with thee, even unto the end of thy days."
-([D&amp;C 24:8](https://www.lds.org/scriptures/dc-
-testament/dc/24.8?lang=eng#7).)
+([D&amp;C 24:8](/scriptures/dc-testament/dc/24.8?lang=eng#7).)
 
 George Q. Cannon wrote in _Gospel Truths:_ "So it is with all of us. We have
 great afflictions from time to time. It seems to be necessary that we should
@@ -177,7 +173,7 @@ ourselves, to our families, to our church, and to our country. No vacillation
 can be permitted, for "no man can serve two masters; for either he will hate
 the one and love the other, or else he will hold to the one and despise the
 other. Ye cannot serve God and Mammon." ([3 Ne.
-13:24](https://www.lds.org/scriptures/bofm/3-ne/13.24?lang=eng#23).)
+13:24](/scriptures/bofm/3-ne/13.24?lang=eng#23).)
 
 President George Albert Smith's grandfather said: "There is a line of
 demarcation well defined between the Lord's territory and the devil's
@@ -242,4 +238,6 @@ Our testimony to the world is that Jesus is the Christ, our Savior and our
 Redeemer, that Joseph Smith is the Prophet who restored truth upon the earth,
 and that this church is a divine church, of which I also testify in the name
 of Jesus Christ, amen.
+
+## References
 

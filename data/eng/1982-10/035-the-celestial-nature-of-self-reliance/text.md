@@ -148,8 +148,7 @@ man, nor the children of men; neither Adam, your father, whom I created.
 
 "Behold, I gave unto him that he should be an agent unto himself; and I gave
 unto him commandment, but no temporal commandment gave I unto him, for my
-commandments are spiritual." ([D&amp;C
-29:34-35](https://www.lds.org/scriptures/dc-
+commandments are spiritual." ([D&amp;C 29:34-35](/scriptures/dc-
 testament/dc/29.34-35?lang=eng#33).)
 
 This scripture tells us there is no such thing as a temporal commandment. It
@@ -181,7 +180,7 @@ free with your substance, that they may be rich like unto you.
 seek them; and ye will seek them for the intent to do good--to clothe the
 naked, and to feed the hungry, and to liberate the captive, and administer
 relief to the sick and the afflicted." ([Jacob
-2:17-19](https://www.lds.org/scriptures/bofm/jacob/2.17-19?lang=eng#16).)
+2:17-19](/scriptures/bofm/jacob/2.17-19?lang=eng#16).)
 
 In our own dispensation, when the Church was only nine months old, the Lord
 said:
@@ -189,7 +188,7 @@ said:
 "And for your salvation I give unto you a commandment, for I have heard your
 prayers, and the poor have complained before me, and the rich have I made, and
 all flesh is mine, and I am no respecter of persons." ([D&amp;C
-38:16](https://www.lds.org/scriptures/dc-testament/dc/38.16?lang=eng#15).)
+38:16](/scriptures/dc-testament/dc/38.16?lang=eng#15).)
 
 This revelation was given on the second day of January 1831. The next month,
 in another revelation, the Lord said:
@@ -197,15 +196,15 @@ in another revelation, the Lord said:
 "If thou lovest me thou shalt serve me and keep all my commandments.
 
 "And behold, thou wilt remember the poor, and consecrate of thy properties for
-their support." ([D&amp;C 42:29-30](https://www.lds.org/scriptures/dc-
+their support." ([D&amp;C 42:29-30](/scriptures/dc-
 testament/dc/42.29-30?lang=eng#28).)
 
 The same month, the Lord referred to this subject again. Evidently the
 Brethren had been a little remiss. They had not moved fast enough.
 
 "Behold, I say unto you, that ye must visit the poor and the needy and
-administer to their relief." ([D&amp;C 44:6](https://www.lds.org/scriptures
-/dc-testament/dc/44.6?lang=eng#5).)
+administer to their relief." ([D&amp;C 44:6](/scriptures/dc-
+testament/dc/44.6?lang=eng#5).)
 
 The scriptures are full of commandments regarding our obligation to care for
 the poor; therefore, I will not elaborate further. It has always seemed
@@ -213,8 +212,7 @@ somewhat paradoxical to me that we must constantly have the Lord _command_ us
 to do those things which are for our own good. The Lord has said,
 
 "He that findeth his life shall lose it: and he that loseth his life for my
-sake shall find it." ([Matt.
-10:39](https://www.lds.org/scriptures/nt/matt/10.39?lang=eng#38).)
+sake shall find it." ([Matt. 10:39](/scriptures/nt/matt/10.39?lang=eng#38).)
 
 We lose our life by serving and lifting others. By so doing we experience the
 only true and lasting happiness. Service is not something we endure on this
@@ -260,4 +258,6 @@ statement on the mission of the Church is to perfect the Saints, and this is
 the purpose of the welfare program. Today is the time for us to perfect our
 lives. May we continue to hold fast to these truths, I pray, in the name of
 Jesus Christ, amen.
+
+## References
 

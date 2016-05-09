@@ -2,48 +2,48 @@
 
 Dear brethren and sisters, the scriptures and the teachings of the Apostles
 and prophets speak of us in premortal life as sons and daughters, spirit
-children of God. [1]  Gender existed before, and did not begin at mortal
-birth. [2]
+children of God.[1] Gender existed before, and did not begin at mortal
+birth.[2]
 
-In the great council in heaven, [3]  God's plan was presented: [4]  the plan
-of salvation, [5]  the plan of redemption, [6]  the great plan of happiness.
-[7]  The plan provides for a proving; all must choose between good and evil.
-[8]  His plan provides for a Redeemer, an atonement, the Resurrection, and, if
-we obey, our return to the presence of God.
+In the great council in heaven,[3] God's plan was presented:[4] the plan of
+salvation,[5] the plan of redemption,[6] the great plan of happiness.[7] The
+plan provides for a proving; all must choose between good and evil.[8] His
+plan provides for a Redeemer, an atonement, the Resurrection, and, if we obey,
+our return to the presence of God.
 
-The adversary rebelled and adopted a plan of his own. [9]  Those who followed
-him were denied the right to a mortal body. [10]  Our presence here confirms
-that we sanctioned our Father's plan. [11]
+The adversary rebelled and adopted a plan of his own.[9] Those who followed
+him were denied the right to a mortal body.[10] Our presence here confirms
+that we sanctioned our Father's plan.[11]
 
 The single purpose of Lucifer is to oppose the great plan of happiness, to
 corrupt the purest, most beautiful and appealing experiences of life: romance,
-love, marriage, and parenthood. [12]  The specters of heartbreak and guilt
-[13]  follow him about. Only repentance can heal what he hurts.
+love, marriage, and parenthood.[12] The specters of heartbreak and guilt[13]
+follow him about. Only repentance can heal what he hurts.
 
 The plan of happiness requires the righteous union of male and female, man and
-woman, husband and wife. [14]  Doctrines teach us how to respond to the
+woman, husband and wife.[14] Doctrines teach us how to respond to the
 compelling natural impulses which too often dominate how we behave.
 
-A body patterned after the image of God was created for Adam, [15]  and he was
-introduced into the Garden. [16]  At first, Adam was alone. He held the
-priesthood, [17]  but alone, he could not fulfill the purposes of his
-creation. [18]
+A body patterned after the image of God was created for Adam,[15] and he was
+introduced into the Garden.[16] At first, Adam was alone. He held the
+priesthood,[17] but alone, he could not fulfill the purposes of his
+creation.[18]
 
 No other man would do. Neither alone nor with other men could Adam progress.
 Nor could Eve with another woman. It was so then. It is so today.
 
-Eve, an help meet, was created. Marriage was instituted, [19]  for Adam was
+Eve, an help meet, was created. Marriage was instituted,[19] for Adam was
 commanded to cleave unto his _wife_ [not just to a _woman_] and "to none
-else." [20]
+else."[20]
 
-A choice, it might be said, was imposed upon Eve. [21]  She should be praised
-for her decision. Then "Adam fell that men might be." [22]
+A choice, it might be said, was imposed upon Eve.[21] She should be praised
+for her decision. Then "Adam fell that men might be."[22]
 
 Elder Orson F. Whitney described the Fall as having "a twofold direction--
 downward, yet forward. It brought man into the world and set his feet upon
-progression's highway." [23]
+progression's highway."[23]
 
-God blessed Adam and Eve "and said unto them: Be fruitful, and multiply." [24]
+God blessed Adam and Eve "and said unto them: Be fruitful, and multiply."[24]
 And so the family was established.
 
 There is nothing in the revelations which suggests that to be a man rather
@@ -51,11 +51,11 @@ than to be a woman is preferred in the sight of God, or that He places a
 higher value on sons than on daughters.
 
 All virtues listed in the scriptures--love, joy, peace, faith, godliness,
-charity--are shared by both men and women, [25]  and the highest priesthood
-ordinance in mortality is given only to man and woman together. [26]
+charity--are shared by both men and women,[25] and the highest priesthood
+ordinance in mortality is given only to man and woman together.[26]
 
 After the Fall, natural law had far-reaching sovereignty over mortal birth.
-There are what President J. Reuben Clark, Jr., called "pranks" of nature, [27]
+There are what President J. Reuben Clark, Jr., called "pranks" of nature,[27]
 which cause a variety of abnormalities, deficiencies, and deformities. However
 unfair they seem to man's way of reasoning, they somehow suit the purposes of
 the Lord in the proving of mankind.
@@ -66,19 +66,19 @@ and approved in the doctrines of the gospel of Jesus Christ and protected by
 commandments revealed to His church.
 
 Except Adam and Eve by nature be different from one another, they could not
-multiply and fill the earth. [28]  The complementing differences are the very
+multiply and fill the earth.[28] The complementing differences are the very
 key to the plan of happiness.
 
 Some roles are best suited to the masculine nature and others to the feminine
 nature. Both the scriptures and the patterns of nature place man as the
-protector, the provider. [29]
+protector, the provider.[29]
 
 Those responsibilities of the priesthood, which have to do with the
 administration of the Church, of necessity function outside the home. By
 divine decree, they have been entrusted to men. It has been that way since the
 beginning, for the Lord revealed that "the order of this priesthood was
 confirmed to be handed down from father to son. ... This order was instituted in
-the days of Adam." [30]
+the days of Adam."[30]
 
 A man who holds the priesthood does not have an advantage over a woman in
 qualifying for exaltation. The woman, by her very nature, is also co-creator
@@ -93,12 +93,12 @@ God working in harmony, it simply works best that way.
 The priesthood carries with it awesome responsibility. "No power or influence
 _can_ or ought to be maintained by virtue of the priesthood, only by
 persuasion, by long-suffering, by gentleness and meekness, and by love
-unfeigned; by kindness, and pure knowledge." [31]
+unfeigned; by kindness, and pure knowledge."[31]
 
 Should a man "exercise control or dominion or compulsion ... in any degree of
-unrighteousness," [32]  he violates "the oath and covenant which belongeth to
-the priesthood." [33]  Then "the heavens withdraw themselves; the Spirit of
-the Lord is grieved." [34]  Unless he repents he will lose his blessings.
+unrighteousness,"[32] he violates "the oath and covenant which belongeth to
+the priesthood."[33] Then "the heavens withdraw themselves; the Spirit of the
+Lord is grieved."[34] Unless he repents he will lose his blessings.
 
 While the different roles of man and woman are set forth in exalted celestial
 declarations, they are best demonstrated in the most practical, ordinary,
@@ -110,7 +110,7 @@ never to Grandpa's house. I solved that great mystery for him: Grandpas don't
 bake pies!
 
 Natural and spiritual laws which govern life were instituted from before the
-foundation of the world. [35]  They are eternal, as are the consequences for
+foundation of the world.[35] They are eternal, as are the consequences for
 either obeying or disobeying them. They are not based on social or political
 considerations. They cannot be changed. No pressure, no protest, no
 legislation can alter them.
@@ -143,7 +143,7 @@ cannot annihilate. _They are principles that no combination of men [or women]
 can destroy._ They are principles that can never die. ... They are beyond the
 reach of man to handle or to destroy. ... It is not in the power of the whole
 world put together to destroy those principles. ... Not one jot or tittle of
-these principles will ever be destroyed." [36]
+these principles will ever be destroyed."[36]
 
 During World War II, men were called away to fight. In the emergency, wives
 and mothers worldwide were drawn into the workforce as never before. The most
@@ -186,11 +186,10 @@ consecration of devotion to the uprearing and fostering, the nurturing in
 body, mind, and spirit, of those who kept their first estate and who come to
 this earth for their second estate 'to see if they will do all things
 whatsoever the Lord their God shall command them.' ([Abr.
-3:25](https://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24)) To lead them
-to keep their second estate is the work of motherhood, and 'they who keep
-their second estate shall have glory added upon their heads for ever and
-ever.' (op. cit.) [[Abr.
-3:26](https://www.lds.org/scriptures/pgp/abr/3.26?lang=eng#25)]
+3:25](/scriptures/pgp/abr/3.25?lang=eng#24)) To lead them to keep their second
+estate is the work of motherhood, and 'they who keep their second estate shall
+have glory added upon their heads for ever and ever.' (op. cit.) [[Abr.
+3:26](/scriptures/pgp/abr/3.26?lang=eng#25)]
 
 "This divine service of motherhood can be rendered only by mothers. It may not
 be passed to others. Nurses cannot do it; public nurseries cannot do it; hired
@@ -201,25 +200,24 @@ care."
 The First Presidency counseled that "the mother who entrusts her child to the
 care of others, that she may do non-motherly work, whether for gold, for fame,
 or for civic service, should remember that 'a child left to himself bringeth
-his mother to shame.' ([Prov.
-29:15](https://www.lds.org/scriptures/ot/prov/29.15?lang=eng#14)) In our day
-the Lord has said that unless parents teach their children the doctrines of
-the Church 'the sin be upon the heads of the parents.' ([D&amp;C
-68:25](https://www.lds.org/scriptures/dc-testament/dc/68.25?lang=eng#24))
+his mother to shame.' ([Prov. 29:15](/scriptures/ot/prov/29.15?lang=eng#14))
+In our day the Lord has said that unless parents teach their children the
+doctrines of the Church 'the sin be upon the heads of the parents.' ([D&amp;C
+68:25](/scriptures/dc-testament/dc/68.25?lang=eng#24))
 
 "Motherhood is near to divinity. It is the highest, holiest service to be
 assumed by mankind. It places her who honors its holy calling and service next
-to the angels." [37]
+to the angels."[37]
 
 That message and warning from the First Presidency is needed more, not less,
 today than when it was given. And no voice from any organization of the Church
-on any level of administration equals that of the First Presidency. [38]
+on any level of administration equals that of the First Presidency.[38]
 
 Any soul who by nature or circumstance is not afforded the blessing of
 marriage and parenthood, or who innocently must act alone in rearing children,
 working to support them, will not be denied in the eternities any blessing--
-provided they keep the commandments. [39]  As President Lorenzo Snow promised:
-"That is sure and positive." [40]
+provided they keep the commandments.[39] As President Lorenzo Snow promised:
+"That is sure and positive."[40]
 
 I close with a parable.
 
@@ -283,83 +281,83 @@ Christ, amen.
 
 ## References
 
-  1.  See [D&amp;C 76:24](https://www.lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23); see also [Num. 16:22](https://www.lds.org/scriptures/ot/num/16.22?lang=eng#21); [Heb. 12:9](https://www.lds.org/scriptures/nt/heb/12.9?lang=eng#8).
+  1. See [D&amp;C 76:24](https://www.lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23); see also [Num. 16:22](https://www.lds.org/scriptures/ot/num/16.22?lang=eng#21); [Heb. 12:9](https://www.lds.org/scriptures/nt/heb/12.9?lang=eng#8).
 
-  2.  See [D&amp;C 132:63](https://www.lds.org/scriptures/dc-testament/dc/132.63?lang=eng#62); First Presidency, "Origin of Man" (Nov. 1909), in James R. Clark, comp., _Messages of the First Presidency of The Church of Jesus Christ of Latter-day Saints,_ 6 vols. (Salt Lake City: Bookcraft, 1965-75), 4:203; see also Spencer W. Kimball, _Ensign,_ Mar. 1976, p. 71; Gordon B. Hinckley, _Ensign,_ Nov. 1983, p. 83.
+  2. See [D&amp;C 132:63](https://www.lds.org/scriptures/dc-testament/dc/132.63?lang=eng#62); First Presidency, "Origin of Man" (Nov. 1909), in James R. Clark, comp., _Messages of the First Presidency of The Church of Jesus Christ of Latter-day Saints,_ 6 vols. (Salt Lake City: Bookcraft, 1965-75), 4:203; see also Spencer W. Kimball, _Ensign,_ Mar. 1976, p. 71; Gordon B. Hinckley, _Ensign,_ Nov. 1983, p. 83.
 
-  3.  See _Teachings of the Prophet Joseph Smith,_ pp. 348-49, 357, 365.
+  3. See _Teachings of the Prophet Joseph Smith,_ pp. 348-49, 357, 365.
 
-  4.  See [Abr. 3:24-27](https://www.lds.org/scriptures/pgp/abr/3.24-27?lang=eng#23).
+  4. See [Abr. 3:24-27](https://www.lds.org/scriptures/pgp/abr/3.24-27?lang=eng#23).
 
-  5.  See [Jarom 1:2](https://www.lds.org/scriptures/bofm/jarom/1.2?lang=eng#1); [Alma 24:14](https://www.lds.org/scriptures/bofm/alma/24.14?lang=eng#13); [Alma 42:5](https://www.lds.org/scriptures/bofm/alma/42.5?lang=eng#4); [Moses 6:62](https://www.lds.org/scriptures/pgp/moses/6.62?lang=eng#61).
+  5. See [Jarom 1:2](https://www.lds.org/scriptures/bofm/jarom/1.2?lang=eng#1); [Alma 24:14](https://www.lds.org/scriptures/bofm/alma/24.14?lang=eng#13); [Alma 42:5](https://www.lds.org/scriptures/bofm/alma/42.5?lang=eng#4); [Moses 6:62](https://www.lds.org/scriptures/pgp/moses/6.62?lang=eng#61).
 
-  6.  See [Jacob 6:8](https://www.lds.org/scriptures/bofm/jacob/6.8?lang=eng#7); [Alma 12:25-36](https://www.lds.org/scriptures/bofm/alma/12.25-36?lang=eng#24); [Alma 17:16](https://www.lds.org/scriptures/bofm/alma/17.16?lang=eng#15); [Alma 18:39](https://www.lds.org/scriptures/bofm/alma/18.39?lang=eng#38); [Alma 22:13-14](https://www.lds.org/scriptures/bofm/alma/22.13-14?lang=eng#12); [Alma 39:18](https://www.lds.org/scriptures/bofm/alma/39.18?lang=eng#17); [Alma 42:11, 13](https://www.lds.org/scriptures/bofm/alma/42.11%2C13?lang=eng#10).
+  6. See [Jacob 6:8](https://www.lds.org/scriptures/bofm/jacob/6.8?lang=eng#7); [Alma 12:25-36](https://www.lds.org/scriptures/bofm/alma/12.25-36?lang=eng#24); [Alma 17:16](https://www.lds.org/scriptures/bofm/alma/17.16?lang=eng#15); [Alma 18:39](https://www.lds.org/scriptures/bofm/alma/18.39?lang=eng#38); [Alma 22:13-14](https://www.lds.org/scriptures/bofm/alma/22.13-14?lang=eng#12); [Alma 39:18](https://www.lds.org/scriptures/bofm/alma/39.18?lang=eng#17); [Alma 42:11, 13](https://www.lds.org/scriptures/bofm/alma/42.11,13?lang=eng#10).
 
-  7.   [Alma 42:8](https://www.lds.org/scriptures/bofm/alma/42.8?lang=eng#7).
+  7. [Alma 42:8](https://www.lds.org/scriptures/bofm/alma/42.8?lang=eng#7).
 
-  8.  See [Alma 42:2-5](https://www.lds.org/scriptures/bofm/alma/42.2-5?lang=eng#1).
+  8. See [Alma 42:2-5](https://www.lds.org/scriptures/bofm/alma/42.2-5?lang=eng#1).
 
-  9.  See [2 Ne. 9:28](https://www.lds.org/scriptures/bofm/2-ne/9.28?lang=eng#27); [Alma 12:4, 5](https://www.lds.org/scriptures/bofm/alma/12.4%2C5?lang=eng#3); [Hel. 2:8](https://www.lds.org/scriptures/bofm/hel/2.8?lang=eng#7); [3 Ne. 1:16](https://www.lds.org/scriptures/bofm/3-ne/1.16?lang=eng#15); [D&amp;C 10:12, 23](https://www.lds.org/scriptures/dc-testament/dc/10.12%2C23?lang=eng#11); [Moses 4:3](https://www.lds.org/scriptures/pgp/moses/4.3?lang=eng#2).
+  9. See [2 Ne. 9:28](https://www.lds.org/scriptures/bofm/2-ne/9.28?lang=eng#27); [Alma 12:4, 5](https://www.lds.org/scriptures/bofm/alma/12.4,5?lang=eng#3); [Hel. 2:8](https://www.lds.org/scriptures/bofm/hel/2.8?lang=eng#7); [3 Ne. 1:16](https://www.lds.org/scriptures/bofm/3-ne/1.16?lang=eng#15); [D&amp;C 10:12, 23](https://www.lds.org/scriptures/dc-testament/dc/10.12,23?lang=eng#11); [Moses 4:3](https://www.lds.org/scriptures/pgp/moses/4.3?lang=eng#2).
 
-  10.  See _Teachings of the Prophet Joseph Smith,_ pp. 181, 297.
+  10. See _Teachings of the Prophet Joseph Smith,_ pp. 181, 297.
 
-  11.  See _Teachings of the Prophet Joseph Smith,_ p. 181.
+  11. See _Teachings of the Prophet Joseph Smith,_ p. 181.
 
-  12.  See [2 Ne. 2:18](https://www.lds.org/scriptures/bofm/2-ne/2.18?lang=eng#17); [2 Ne. 28:20](https://www.lds.org/scriptures/bofm/2-ne/28.20?lang=eng#19).
+  12. See [2 Ne. 2:18](https://www.lds.org/scriptures/bofm/2-ne/2.18?lang=eng#17); [2 Ne. 28:20](https://www.lds.org/scriptures/bofm/2-ne/28.20?lang=eng#19).
 
-  13.  See [Alma 39:5](https://www.lds.org/scriptures/bofm/alma/39.5?lang=eng#4); [Moro. 9:9](https://www.lds.org/scriptures/bofm/moro/9.9?lang=eng#8).
+  13. See [Alma 39:5](https://www.lds.org/scriptures/bofm/alma/39.5?lang=eng#4); [Moro. 9:9](https://www.lds.org/scriptures/bofm/moro/9.9?lang=eng#8).
 
-  14.  See [D&amp;C 130:2](https://www.lds.org/scriptures/dc-testament/dc/130.2?lang=eng#1); [D&amp;C 131:2](https://www.lds.org/scriptures/dc-testament/dc/131.2?lang=eng#1); [1 Cor. 11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10); [Eph. 5:31](https://www.lds.org/scriptures/nt/eph/5.31?lang=eng#30).
+  14. See [D&amp;C 130:2](https://www.lds.org/scriptures/dc-testament/dc/130.2?lang=eng#1); [D&amp;C 131:2](https://www.lds.org/scriptures/dc-testament/dc/131.2?lang=eng#1); [1 Cor. 11:11](https://www.lds.org/scriptures/nt/1-cor/11.11?lang=eng#10); [Eph. 5:31](https://www.lds.org/scriptures/nt/eph/5.31?lang=eng#30).
 
-  15.  See [Moses 6:8-9](https://www.lds.org/scriptures/pgp/moses/6.8-9?lang=eng#7).
+  15. See [Moses 6:8-9](https://www.lds.org/scriptures/pgp/moses/6.8-9?lang=eng#7).
 
-  16.  See [Moses 3:8](https://www.lds.org/scriptures/pgp/moses/3.8?lang=eng#7).
+  16. See [Moses 3:8](https://www.lds.org/scriptures/pgp/moses/3.8?lang=eng#7).
 
-  17.  See [Moses 6:67](https://www.lds.org/scriptures/pgp/moses/6.67?lang=eng#66).
+  17. See [Moses 6:67](https://www.lds.org/scriptures/pgp/moses/6.67?lang=eng#66).
 
-  18.  See [Moses 3:18](https://www.lds.org/scriptures/pgp/moses/3.18?lang=eng#17).
+  18. See [Moses 3:18](https://www.lds.org/scriptures/pgp/moses/3.18?lang=eng#17).
 
-  19.  See [Moses 3:23-24](https://www.lds.org/scriptures/pgp/moses/3.23-24?lang=eng#22).
+  19. See [Moses 3:23-24](https://www.lds.org/scriptures/pgp/moses/3.23-24?lang=eng#22).
 
-  20.   [D&amp;C 42:22](https://www.lds.org/scriptures/dc-testament/dc/42.22?lang=eng#21); emphasis added.
+  20. [D&amp;C 42:22](https://www.lds.org/scriptures/dc-testament/dc/42.22?lang=eng#21); emphasis added.
 
-  21.  See [Moses 4:7-12](https://www.lds.org/scriptures/pgp/moses/4.7-12?lang=eng#6).
+  21. See [Moses 4:7-12](https://www.lds.org/scriptures/pgp/moses/4.7-12?lang=eng#6).
 
-  22.   [2 Ne. 2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).
+  22. [2 Ne. 2:25](https://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24).
 
-  23.   _Cowley and Whitney on Doctrine,_ comp. Forace Green (Salt Lake City: Bookcraft, 1963), p. 287.
+  23. _Cowley and Whitney on Doctrine,_ comp. Forace Green (Salt Lake City: Bookcraft, 1963), p. 287.
 
-  24.   [Moses 2:28](https://www.lds.org/scriptures/pgp/moses/2.28?lang=eng#27); see also [Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27); [Gen. 9:1](https://www.lds.org/scriptures/ot/gen/9.1?lang=eng#0).
+  24. [Moses 2:28](https://www.lds.org/scriptures/pgp/moses/2.28?lang=eng#27); see also [Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27); [Gen. 9:1](https://www.lds.org/scriptures/ot/gen/9.1?lang=eng#0).
 
-  25.  See [Gal. 5:22-23](https://www.lds.org/scriptures/nt/gal/5.22-23?lang=eng#21); [D&amp;C 4:5-6](https://www.lds.org/scriptures/dc-testament/dc/4.5-6?lang=eng#4); [Alma 7:23-24](https://www.lds.org/scriptures/bofm/alma/7.23-24?lang=eng#22).
+  25. See [Gal. 5:22-23](https://www.lds.org/scriptures/nt/gal/5.22-23?lang=eng#21); [D&amp;C 4:5-6](https://www.lds.org/scriptures/dc-testament/dc/4.5-6?lang=eng#4); [Alma 7:23-24](https://www.lds.org/scriptures/bofm/alma/7.23-24?lang=eng#22).
 
-  26.  See [D&amp;C 131:2](https://www.lds.org/scriptures/dc-testament/dc/131.2?lang=eng#1).
+  26. See [D&amp;C 131:2](https://www.lds.org/scriptures/dc-testament/dc/131.2?lang=eng#1).
 
-  27.  See "Our Wives and Our Mothers in the Eternal Plan," address given in general Relief Society conference, 3 Oct. 1946, in _J. Reuben Clark: Selected Papers on Religion, Education, and Youth,_ ed. David H. Yarn, Jr. (Provo, Utah: Brigham Young University Press, 1984), p. 62.
+  27. See "Our Wives and Our Mothers in the Eternal Plan," address given in general Relief Society conference, 3 Oct. 1946, in _J. Reuben Clark: Selected Papers on Religion, Education, and Youth,_ ed. David H. Yarn, Jr. (Provo, Utah: Brigham Young University Press, 1984), p. 62.
 
-  28.  See [Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27), note 28c.
+  28. See [Gen. 1:28](https://www.lds.org/scriptures/ot/gen/1.28?lang=eng#27), note 28c.
 
-  29.  See [D&amp;C 75:28](https://www.lds.org/scriptures/dc-testament/dc/75.28?lang=eng#27); [1 Tim. 5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).
+  29. See [D&amp;C 75:28](https://www.lds.org/scriptures/dc-testament/dc/75.28?lang=eng#27); [1 Tim. 5:8](https://www.lds.org/scriptures/nt/1-tim/5.8?lang=eng#7).
 
-  30.   [D&amp;C 107:40-41](https://www.lds.org/scriptures/dc-testament/dc/107.40-41?lang=eng#39); see also [D&amp;C 84:14-16](https://www.lds.org/scriptures/dc-testament/dc/84.14-16?lang=eng#13).
+  30. [D&amp;C 107:40-41](https://www.lds.org/scriptures/dc-testament/dc/107.40-41?lang=eng#39); see also [D&amp;C 84:14-16](https://www.lds.org/scriptures/dc-testament/dc/84.14-16?lang=eng#13).
 
-  31.   [D&amp;C 121:41-42](https://www.lds.org/scriptures/dc-testament/dc/121.41-42?lang=eng#40); emphasis added.
+  31. [D&amp;C 121:41-42](https://www.lds.org/scriptures/dc-testament/dc/121.41-42?lang=eng#40); emphasis added.
 
-  32.   [D&amp;C 121:37](https://www.lds.org/scriptures/dc-testament/dc/121.37?lang=eng#36).
+  32. [D&amp;C 121:37](https://www.lds.org/scriptures/dc-testament/dc/121.37?lang=eng#36).
 
-  33.   [D&amp;C 84:39](https://www.lds.org/scriptures/dc-testament/dc/84.39?lang=eng#38).
+  33. [D&amp;C 84:39](https://www.lds.org/scriptures/dc-testament/dc/84.39?lang=eng#38).
 
-  34.   [D&amp;C 121:37](https://www.lds.org/scriptures/dc-testament/dc/121.37?lang=eng#36).
+  34. [D&amp;C 121:37](https://www.lds.org/scriptures/dc-testament/dc/121.37?lang=eng#36).
 
-  35.  See _Teachings of the Prophet Joseph Smith,_ pp. 308, 367.
+  35. See _Teachings of the Prophet Joseph Smith,_ pp. 308, 367.
 
-  36.   _Journal of Discourses,_ 22:342; emphasis added.
+  36. _Journal of Discourses,_ 22:342; emphasis added.
 
-  37.  In Conference Report, Oct. 1942, pp. 7, 11-12.
+  37. In Conference Report, Oct. 1942, pp. 7, 11-12.
 
-  38.  See [D&amp;C 107:8-9, 22, 91](https://www.lds.org/scriptures/dc-testament/dc/107.8-9%2C22%2C91?lang=eng#7).
+  38. See [D&amp;C 107:8-9, 22, 91](https://www.lds.org/scriptures/dc-testament/dc/107.8-9,22,91?lang=eng#7).
 
-  39.  See [D&amp;C 137:7-9](https://www.lds.org/scriptures/dc-testament/dc/137.7-9?lang=eng#6).
+  39. See [D&amp;C 137:7-9](https://www.lds.org/scriptures/dc-testament/dc/137.7-9?lang=eng#6).
 
-  40.   _Millennial Star,_ 61 (31 Aug. 1899):547.
+  40. _Millennial Star,_ 61 (31 Aug. 1899):547.
 

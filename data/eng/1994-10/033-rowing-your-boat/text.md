@@ -9,13 +9,12 @@ all come to Christ and find rest in his eternal love.
 May I share with you some thoughts on the power of learning and its relation
 to self-reliance. To the Saints of this dispensation, the Lord gave important
 instructions to seek balanced learning. The terms in the scriptures are
-_study_ and _faith._ For example, in [D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117),
-the Lord invites us: "Seek ye diligently and teach one another words of
-wisdom; yea, seek ye out of the best books words of wisdom; seek learning,
-even by study and also by faith." This same invitation is repeated twice more
-in the Doctrine and Covenants (see [D&amp;C 109:7,
-14](https://www.lds.org/scriptures/dc-testament/dc/109.7%2C14?lang=eng#6)).
+_study_ and _faith._ For example, in [D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117), the Lord invites us: "Seek ye diligently
+and teach one another words of wisdom; yea, seek ye out of the best books
+words of wisdom; seek learning, even by study and also by faith." This same
+invitation is repeated twice more in the Doctrine and Covenants (see [D&amp;C
+109:7, 14](/scriptures/dc-testament/dc/109.7,14?lang=eng#6)).
 
 To me, the terms _learning by study_ and _learning by faith_ say that self-
 reliance comes from both efforts. Everyone involved in the Relief Society
@@ -65,9 +64,8 @@ There are many kinds of self-reliance. According to the Church's welfare
 guidelines, _Providing in the Lord's Way,_ "as we work toward self-reliance,
 we should prepare ourselves in the following areas: education; health;
 employment; home storage; resource management; and social, emotional, and
-spiritual strength." [1]  Let's look at one aspect of self-reliance--
-employment--and see how learning by both study and faith relates to this
-topic.
+spiritual strength."[1] Let's look at one aspect of self-reliance--employment
+--and see how learning by both study and faith relates to this topic.
 
 We have faith in our prophets. They have counseled us that mothers with young
 children are especially needed at home. They remind us of the great needs of
@@ -117,7 +115,7 @@ to obtain all the education and vocational training possible before marriage.
 If they become widowed or divorced and need to work, we want them to have
 dignified and rewarding employment. If a sister does not marry, she has every
 right to engage in a profession that allows her to magnify her talents and
-gifts." [2]  If anything, his counsel has become even more relevant in the
+gifts."[2] If anything, his counsel has become even more relevant in the
 almost twenty years that have passed as the national economy has made it
 increasingly difficult for one wage to support a family, as more mothers are
 left alone to raise their children, and as more women spend lengthy portions
@@ -128,7 +126,7 @@ including paid employment.
 But President Hunter's example also shows us the importance of faith. He
 describes his first career as "glamorous in some respects"; however, it
 required him to associate with some people whose standards made him
-uncomfortable, so he changed to another line of work. [3]  This example shows
+uncomfortable, so he changed to another line of work.[3] This example shows
 that we should seek work in which we can be attended by the Spirit of the
 Lord. In other words, row, row, row your boat and use both oars!
 
@@ -171,10 +169,10 @@ reliance. You need them both as you strive for self-reliance.
 
 Peter's last recorded words to the Saints of his day are counsel to "grow in
 grace, and in the knowledge of our Lord and Saviour Jesus Christ" ([2 Pet.
-3:18](https://www.lds.org/scriptures/nt/2-pet/3.18?lang=eng#17)), and King
-Benjamin urged his people to "grow in the knowledge of the glory of him that
-created you, or in the knowledge of that which is just and true" ([Mosiah
-4:12](https://www.lds.org/scriptures/bofm/mosiah/4.12?lang=eng#11)).
+3:18](/scriptures/nt/2-pet/3.18?lang=eng#17)), and King Benjamin urged his
+people to "grow in the knowledge of the glory of him that created you, or in
+the knowledge of that which is just and true" ([Mosiah
+4:12](/scriptures/bofm/mosiah/4.12?lang=eng#11)).
 
 Sisters, we need to keep growing. Part of our mortal responsibility is to
 increase in learning and wisdom. We need to use the two oars of study and
@@ -213,9 +211,9 @@ of Jesus Christ, amen.
 
 ## References
 
-  1.   _A Leader's Guide to Welfare: Providing in the Lord's Way_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1990), p. 6.
+  1. _A Leader's Guide to Welfare: Providing in the Lord's Way_ (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1990), p. 6.
 
-  2.  Howard W. Hunter, _Ensign,_ Nov. 1975, p. 124.
+  2. Howard W. Hunter, _Ensign,_ Nov. 1975, p. 124.
 
-  3.  "Valiant Servant of the Lord," _Church News,_ 11 June 1994, p. 4.
+  3. "Valiant Servant of the Lord," _Church News,_ 11 June 1994, p. 4.
 

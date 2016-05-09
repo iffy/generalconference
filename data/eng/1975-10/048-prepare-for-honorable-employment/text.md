@@ -10,11 +10,10 @@ is so important to most of us, who as leaders, give assistance to others.
 It is interesting that the first recorded instruction given to Adam after the
 Fall, dealt with the eternal principle of work. The Lord said: "In the sweat
 of thy face shalt thou eat bread." ([Gen.
-3:19](https://www.lds.org/scriptures/ot/gen/3.19?lang=eng#18).) Our Heavenly
-Father loves us so completely that he has given us a commandment to work. This
-is one of the keys to eternal life. He knows that we will learn more, grow
-more, achieve more, serve more, and benefit more from a life of industry than
-from a life of ease.
+3:19](/scriptures/ot/gen/3.19?lang=eng#18).) Our Heavenly Father loves us so
+completely that he has given us a commandment to work. This is one of the keys
+to eternal life. He knows that we will learn more, grow more, achieve more,
+serve more, and benefit more from a life of industry than from a life of ease.
 
 There are several principles which undergird the significance of work in the
 Lord's plan. First, as the covenant people we must be as self-sufficient as
@@ -157,4 +156,6 @@ members, and for my association with brethren who have a concern for each
 other's welfare. This is the Lord's church. This is his work led by his
 prophet. May we follow the counsel given for preparedness, I pray in the name
 of Jesus Christ. Amen.
+
+## References
 

@@ -2,7 +2,7 @@
 
 In the fourth chapter of the book of Alma is a line I cherish and would be
 worthy of: "The Spirit of the Lord did not fail him." ([Alma
-4:15](https://www.lds.org/scriptures/bofm/alma/4.15?lang=eng#14).)
+4:15](/scriptures/bofm/alma/4.15?lang=eng#14).)
 
 Just a few yards from this beautiful Tabernacle where, since the 1860s, the
 Saints have gathered for conference is a visitors' center. In that visitors'
@@ -16,49 +16,43 @@ That invitation is the central mission of The Church of Jesus Christ of
 Latter-day Saints. We desire to accept and to help others to accept the
 scriptural invitation to "come unto Christ, who is the Holy One of Israel, and
 partake of his salvation, and the power of his redemption." ([Omni
-1:26](https://www.lds.org/scriptures/bofm/omni/1.26?lang=eng#25).) We know
-that he is "the way, the truth, and the life: [and that] no [one] cometh unto
-the Father, but by [him]." ([John
-14:6](https://www.lds.org/scriptures/nt/john/14.6?lang=eng#5).)
+1:26](/scriptures/bofm/omni/1.26?lang=eng#25).) We know that he is "the way,
+the truth, and the life: [and that] no [one] cometh unto the Father, but by
+[him]." ([John 14:6](/scriptures/nt/john/14.6?lang=eng#5).)
 
 My testimony is that Jesus Christ is the Son of God, the Only Begotten in the
 flesh, the Good Shepherd, our Exemplar; that he is our Advocate with the
 Father, our Redeemer, and our Savior.
 
 With John of old we testify that "the Father sent the Son to be the Saviour of
-the world." ([1 Jn.
-4:14](https://www.lds.org/scriptures/nt/1-jn/4.14?lang=eng#13).)
+the world." ([1 Jn. 4:14](/scriptures/nt/1-jn/4.14?lang=eng#13).)
 
 We rejoice in the wonderful welding in his life of principle and performance.
 The Savior taught precepts of spiritual perfection, and he _practiced _and
 _applied _them with perfection. He could with authority declare that he was
 the light and example the people should follow: "I have set an example for
 you. ... I am the light which ye shall hold up--that which ye have seen me do."
-([3 Ne. 18:16,
-24](https://www.lds.org/scriptures/bofm/3-ne/18.16%2C24?lang=eng#15).)
+([3 Ne. 18:16, 24](/scriptures/bofm/3-ne/18.16,24?lang=eng#15).)
 
 What he _did, _as we read in a splendid verse in the book of Matthew, was to
 go "about all Galilee, teaching ... and preaching the gospel of the kingdom, and
 healing all manner of ... disease." ([Matt.
-4:23](https://www.lds.org/scriptures/nt/matt/4.23?lang=eng#22).) Matthew also
-recorded that, as he approached the final events of his earthly ministry,
-Jesus taught his followers the parable of the sheep and the goats,
-representing the judgment to come, in which he clearly identified those who
-will inherit "life eternal" and those who will "go away into everlasting
-punishment." ([Matt.
-25:46](https://www.lds.org/scriptures/nt/matt/25.46?lang=eng#45).) The key
-difference was that those who should inherit the kingdom with him had
-developed the habit of helping, had experienced the joy of giving and the
-satisfaction of serving--they had responded to the needs of the hungry,
-thirsty, homeless, the naked, the sick, and those in prison. Well known are
-his words, the words of comfort to them: "Inasmuch as ye have done it unto one
-of the least of these my brethren, ye have done it unto me" ([Matt.
-25:40](https://www.lds.org/scriptures/nt/matt/25.40?lang=eng#39)), while to
-those who were condemned to "everlasting punishment" he made the sad
-pronouncement, "Inasmuch as ye did it _not _to one of the least of these, ye
-did it not to me" ([Matt.
-25:45](https://www.lds.org/scriptures/nt/matt/25.45?lang=eng#44); italics
-added).
+4:23](/scriptures/nt/matt/4.23?lang=eng#22).) Matthew also recorded that, as
+he approached the final events of his earthly ministry, Jesus taught his
+followers the parable of the sheep and the goats, representing the judgment to
+come, in which he clearly identified those who will inherit "life eternal" and
+those who will "go away into everlasting punishment." ([Matt.
+25:46](/scriptures/nt/matt/25.46?lang=eng#45).) The key difference was that
+those who should inherit the kingdom with him had developed the habit of
+helping, had experienced the joy of giving and the satisfaction of serving--
+they had responded to the needs of the hungry, thirsty, homeless, the naked,
+the sick, and those in prison. Well known are his words, the words of comfort
+to them: "Inasmuch as ye have done it unto one of the least of these my
+brethren, ye have done it unto me" ([Matt.
+25:40](/scriptures/nt/matt/25.40?lang=eng#39)), while to those who were
+condemned to "everlasting punishment" he made the sad pronouncement, "Inasmuch
+as ye did it _not _to one of the least of these, ye did it not to me" ([Matt.
+25:45](/scriptures/nt/matt/25.45?lang=eng#44); italics added).
 
 Nothing would seem more clear than the high premium the Savior put upon
 selfless service to others as an indispensable element of Christian conduct
@@ -82,35 +76,34 @@ His divine messiahship is the matter of first magnitude for us. It is the
 center of our considerations at this conference, of our religion, of our
 lives. The Book of Mormon declares plainly that "it is upon the rock of our
 Redeemer, who is Christ, the Son of God, that ye must build your foundation."
-([Hel. 5:12](https://www.lds.org/scriptures/bofm/hel/5.12?lang=eng#11).)
+([Hel. 5:12](/scriptures/bofm/hel/5.12?lang=eng#11).)
 
 Jesus plainly taught that we have an indispensable personal part in qualifying
 for the fulfillment of our high eternal possibilities. The Atonement, free
 gift that it is, requires that the gift be received in the way _he
 _prescribed, and he gave us the pattern. John writes that "Jesus came from
 Nazareth of Galilee, and was baptized of John in Jordan." ([Mark
-1:9](https://www.lds.org/scriptures/nt/mark/1.9?lang=eng#8).) The sacred
-ordinance was confirmed by the Spirit, and the Father spoke from heaven,
-saying, "This is my beloved Son, in whom I am well pleased." ([Matt.
-3:17](https://www.lds.org/scriptures/nt/matt/3.17?lang=eng#16).) As he
-commenced his public ministry, "Jesus began to preach, and to say, Repent: for
-the kingdom of heaven is at hand." ([Matt.
-4:17](https://www.lds.org/scriptures/nt/matt/4.17?lang=eng#16).) He said to
-Nicodemus the Pharisee: "Except a man be born of water and of the Spirit, he
-cannot enter into the kingdom of God." ([John
-3:5](https://www.lds.org/scriptures/nt/john/3.5?lang=eng#4); see [John
-3:1-9](https://www.lds.org/scriptures/nt/john/3.1-9?lang=eng#0).)
+1:9](/scriptures/nt/mark/1.9?lang=eng#8).) The sacred ordinance was confirmed
+by the Spirit, and the Father spoke from heaven, saying, "This is my beloved
+Son, in whom I am well pleased." ([Matt.
+3:17](/scriptures/nt/matt/3.17?lang=eng#16).) As he commenced his public
+ministry, "Jesus began to preach, and to say, Repent: for the kingdom of
+heaven is at hand." ([Matt. 4:17](/scriptures/nt/matt/4.17?lang=eng#16).) He
+said to Nicodemus the Pharisee: "Except a man be born of water and of the
+Spirit, he cannot enter into the kingdom of God." ([John
+3:5](/scriptures/nt/john/3.5?lang=eng#4); see [John
+3:1-9](/scriptures/nt/john/3.1-9?lang=eng#0).)
 
 The scriptures plainly teach that there is more to Christ's gospel plan than
 is frequently declared. Peter and the others understood these truths very
 well. After those at Pentecost had been touched in their hearts by the Spirit
 and by Peter's powerful testimony, they said, "Men and brethren, what shall we
-do?" ([Acts 2:37](https://www.lds.org/scriptures/nt/acts/2.37?lang=eng#36).)
+do?" ([Acts 2:37](/scriptures/nt/acts/2.37?lang=eng#36).)
 
 Peter's answer was plain and understandable: "Repent, and be baptized every
 one of you in the name of Jesus Christ for the remission of sins, and ye shall
 receive the gift of the Holy Ghost." ([Acts
-2:38](https://www.lds.org/scriptures/nt/acts/2.38?lang=eng#37).)
+2:38](/scriptures/nt/acts/2.38?lang=eng#37).)
 
 President Clark in the statement earlier quoted referred to the vital second
 mission of Christ--that unselfish work "for the relief of the ills and the
@@ -120,7 +113,7 @@ the Sermon on the Mount and throughout his teachings he made it clear that he
 and our Father are concerned with _what kind of people we are! _The sermon
 concluded, you will remember, with the parable about a house built on a
 foundation of stone and another built on sand. (See [Matt.
-7:24-27](https://www.lds.org/scriptures/nt/matt/7.24-27?lang=eng#23).)
+7:24-27](/scriptures/nt/matt/7.24-27?lang=eng#23).)
 
 Jesus referred repeatedly to the old law by which they had been governed--and
 then fitted those teachings into the higher and holier context of the law of
@@ -128,41 +121,35 @@ love he had come to invoke among God's children. He was not content with the
 old levels of concept and conduct. He wanted those who were the salt of the
 earth, the light of the world, to rise to nobler heights than the old law had
 required: "Ye have heard that it was said by them of old time, ... But I say
-unto you." ([Matt.
-5:21-22](https://www.lds.org/scriptures/nt/matt/5.21-22?lang=eng#20).) He
+unto you." ([Matt. 5:21-22](/scriptures/nt/matt/5.21-22?lang=eng#20).) He
 taught them that "except your righteousness shall exceed the righteousness of
 the scribes and Pharisees, ye shall in no case enter into the kingdom of
-heaven." ([Matt.
-5:20](https://www.lds.org/scriptures/nt/matt/5.20?lang=eng#19).)
+heaven." ([Matt. 5:20](/scriptures/nt/matt/5.20?lang=eng#19).)
 
 Then came the direct question: "What do ye more than others?" ([Matt.
-5:47](https://www.lds.org/scriptures/nt/matt/5.47?lang=eng#46).) His teachings
-explain the kind of people we are expected to be, in our relationships not
-only with the Almighty but with our families and others, and with ourselves.
+5:47](/scriptures/nt/matt/5.47?lang=eng#46).) His teachings explain the kind
+of people we are expected to be, in our relationships not only with the
+Almighty but with our families and others, and with ourselves.
 
 Christ established the standard of our responsibility as he answered the
 contentious questioner who asked, "Which is the great commandment in the law?"
-([Matt. 22:36](https://www.lds.org/scriptures/nt/matt/22.36?lang=eng#35).)
-Jesus said that love of God with heart, soul, and mind is "the first and great
-commandment" ([Matt.
-22:38](https://www.lds.org/scriptures/nt/matt/22.38?lang=eng#37)), and love of
-neighbor the second like unto it and added, "On these two commandments hang
-all the law and the prophets" ([Matt.
-22:40](https://www.lds.org/scriptures/nt/matt/22.40?lang=eng#39)).
+([Matt. 22:36](/scriptures/nt/matt/22.36?lang=eng#35).) Jesus said that love
+of God with heart, soul, and mind is "the first and great commandment" ([Matt.
+22:38](/scriptures/nt/matt/22.38?lang=eng#37)), and love of neighbor the
+second like unto it and added, "On these two commandments hang all the law and
+the prophets" ([Matt. 22:40](/scriptures/nt/matt/22.40?lang=eng#39)).
 
 The Apostle James called the second great commandment the "royal law" ([James
-2:8](https://www.lds.org/scriptures/nt/james/2.8?lang=eng#7)), and Paul told
-the Galatians that "all the law is fulfilled in one word, even in this; Thou
-shalt love thy neighbour as thyself" ([Gal.
-5:14](https://www.lds.org/scriptures/nt/gal/5.14?lang=eng#13)).
+2:8](/scriptures/nt/james/2.8?lang=eng#7)), and Paul told the Galatians that
+"all the law is fulfilled in one word, even in this; Thou shalt love thy
+neighbour as thyself" ([Gal. 5:14](/scriptures/nt/gal/5.14?lang=eng#13)).
 
 The parable of the good Samaritan supplied the answer to the lawyer's next
 question, the one that followed, "And who is my neighbour?" ([Luke
-10:29](https://www.lds.org/scriptures/nt/luke/10.29?lang=eng#28).) The
-Samaritan alone of three passersby mentioned gave the help he did because that
-was the kind of man he was. He had acquired the habit of helpfulness through
-persistent experience helping, noticing needs, and reaching out in response to
-them.
+10:29](/scriptures/nt/luke/10.29?lang=eng#28).) The Samaritan alone of three
+passersby mentioned gave the help he did because that was the kind of man he
+was. He had acquired the habit of helpfulness through persistent experience
+helping, noticing needs, and reaching out in response to them.
 
 In the challenging times in which we live, remarkable evidence of man's
 humanity yet abounds. It is seen in help being offered in compassionate
@@ -176,7 +163,7 @@ locally and nationally and internationally, and as Christian individuals and
 families we are striving to understand and carry out our heaven-mandated
 responsibilities to "walk uprightly before God, imparting to one another ...
 according to ... needs and ... wants." ([Mosiah
-18:29](https://www.lds.org/scriptures/bofm/mosiah/18.29?lang=eng#28).)
+18:29](/scriptures/bofm/mosiah/18.29?lang=eng#28).)
 
 Shortly before his death Joseph Smith wrote these words: "[We are] to feed the
 hungry, to clothe the naked, to provide for the widow, to dry up the tear of
@@ -229,10 +216,11 @@ empty."
 
 With John of old, we bear especial witness and testify that "the Father sent
 the Son to be the Saviour of the world" ([1 Jn.
-4:14](https://www.lds.org/scriptures/nt/1-jn/4.14?lang=eng#13)) and that a
-major purpose of his sacred mission was to teach us how to love and serve one
-another.
+4:14](/scriptures/nt/1-jn/4.14?lang=eng#13)) and that a major purpose of his
+sacred mission was to teach us how to love and serve one another.
 
 I thank God for the Holy Savior, for the compassionate Christ, in the name of
 Jesus Christ, amen.
+
+## References
 

@@ -11,7 +11,7 @@ say those things that will add to the spirit of this conference.
 In the New Testament we read the words of John: "For God so loved the world,
 that he gave his only begotten Son, that whosoever believeth in him should not
 perish, but have everlasting life." ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15).)
+3:16](/scriptures/nt/john/3.16?lang=eng#15).)
 
 Our Father in heaven, because of the great love that he has for his children
 on this earth, gave us the opportunity to experience an earthly life and
@@ -21,11 +21,10 @@ experience through the Savior, Jesus Christ.
 The Savior said during his ministry: "I am the resurrection, and the life: he
 that believeth in me, though he were dead, yet shall he live: And whosoever
 liveth and believeth in me shall never die." ([John
-11:25-26](https://www.lds.org/scriptures/nt/john/11.25-26?lang=eng#24).)
+11:25-26](/scriptures/nt/john/11.25-26?lang=eng#24).)
 
 The Savior further said: "He that believeth on me, believeth not on me, but on
-him that sent me." ([John
-12:44](https://www.lds.org/scriptures/nt/john/12.44?lang=eng#43).)
+him that sent me." ([John 12:44](/scriptures/nt/john/12.44?lang=eng#43).)
 
 We, who are members of The Church of Jesus Christ of Latter-day Saints, as
 well as many of the Christian world today, understand and believe that there
@@ -96,7 +95,7 @@ among them; wherefore, he showed not himself until after their faith. ...
 
 "And neither at any time hath any wrought miracles until after their faith;
 wherefore they first believed in the Son of God." ([Ether 12:6, 12,
-18](https://www.lds.org/scriptures/bofm/ether/12.6%2C12%2C18?lang=eng#5).)
+18](/scriptures/bofm/ether/12.6,12,18?lang=eng#5).)
 
 Surely the many members of the Church in the different countries exercised
 faith to receive the great blessings of area general conferences.
@@ -152,8 +151,8 @@ foundation of God's commandments, for he said: "Thou shalt love the Lord thy
 God with all thy heart, with all thy might, mind, and strength; and in the
 name of Jesus Christ thou shalt serve him.
 
-"Thou shalt love thy neighbor as thyself." ([D&amp;C
-59:5-6](https://www.lds.org/scriptures/dc-testament/dc/59.5-6?lang=eng#4).)
+"Thou shalt love thy neighbor as thyself." ([D&amp;C 59:5-6](/scriptures/dc-
+testament/dc/59.5-6?lang=eng#4).)
 
 This means, brothers and sisters and friends, that one does things for and
 with his neighbors. He visits the sick and the needy. He buoys up the
@@ -169,7 +168,7 @@ When we actively participate in Church activities, and give of ourselves in
 home teaching, visiting teaching, or fellowshipping a newly converted family
 or a less active person, we are showing our love for our fellowman. The Savior
 said, "This is my commandment, That ye love one another, as I have loved you."
-([John 15:12](https://www.lds.org/scriptures/nt/john/15.12?lang=eng#11).)
+([John 15:12](/scriptures/nt/john/15.12?lang=eng#11).)
 
 I bear you my testimony, brothers and sisters, that I know that the gospel is
 true. I know that God lives and that he hears and answers our prayers, and
@@ -181,4 +180,6 @@ And I bear you this humble testimony that I know that President Spencer W.
 Kimball today is a prophet of God on this earth, guiding and directing the
 Lord's work here upon this earth. I bear you this testimony humbly, in the
 name of Jesus Christ. Amen.
+
+## References
 

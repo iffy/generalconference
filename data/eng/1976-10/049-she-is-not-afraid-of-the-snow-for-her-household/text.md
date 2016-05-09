@@ -15,8 +15,7 @@ with hands outstretched in an attitude of compassion, typifying the woman
 described in Proverbs:
 
 "She stretcheth out her hand to the poor: yea, she reacheth forth her hands to
-the needy." ([Prov.
-31:20](https://www.lds.org/scriptures/ot/prov/31.20?lang=eng#19).)
+the needy." ([Prov. 31:20](/scriptures/ot/prov/31.20?lang=eng#19).)
 
 I recalled my own visit to the flood area, where I saw a cultural hall with
 tables with good clothing, clearly sized and marked; another room with neatly
@@ -41,13 +40,10 @@ have just started, while others may not know where to begin.
 
 Second, teach storage principles:
 
-  1. _Basic Food Storage._ Included in the year's supply of basic foods should be life-sustaining foods that store well for a long time: grains (wheat, rice, corn, or other of the cereal grains); dried milk, dried fish or protein vegetables such as beans and peas and other fresh, canned, dried, or pickled fruit or vegetables; sugar or a sugar substitute such as honey; some form of fats; salt; and water. Fresh taro or sweet potato, and live pigs, chickens, or fish might be considered as a supply in some areas of the world where it is difficult to store food. Remember that regular use of whole grains is important in building a digestive tolerance for roughage.
-
+  1. _Basic Food Storage._ Included in the year's supply of basic foods should be life-sustaining foods that store well for a long time: grains (wheat, rice, corn, or other of the cereal grains); dried milk, dried fish or protein vegetables such as beans and peas and other fresh, canned, dried, or pickled fruit or vegetables; sugar or a sugar substitute such as honey; some form of fats; salt; and water. Fresh taro or sweet potato, and live pigs, chickens, or fish might be considered as a supply in some areas of the world where it is difficult to store food. Remember that regular use of whole grains is important in building a digestive tolerance for roughage. 
   2. _Basic Clothing and Fuel Storage._
-
-  3. _Emergency Storage._ You may wish to consider storing, where they could be picked up at a moment's notice, such items as water, food needing no refrigeration or cooking, medications needed by family members, a change of clothing for each family member, a first-aid booklet and first-aid supplies, an ax, shovel, and blanket. These would be used when a family or individual has only a short time to flee a disaster or needs to stay in a sheltered area within the home. It is also wisdom to have the family's important papers and documents together where they could be picked up at a moment's notice.
-
-  4. _Expanded Storage._ Families may also wish to expand their basic storage to include foods and other daily essentials that would supply total nutritional needs and allow for variety and personal preferences in diet and living. These would be things normally used every day, for which frequent shopping is done.
+  3. _Emergency Storage._ You may wish to consider storing, where they could be picked up at a moment's notice, such items as water, food needing no refrigeration or cooking, medications needed by family members, a change of clothing for each family member, a first-aid booklet and first-aid supplies, an ax, shovel, and blanket. These would be used when a family or individual has only a short time to flee a disaster or needs to stay in a sheltered area within the home. It is also wisdom to have the family's important papers and documents together where they could be picked up at a moment's notice. 
+  4. _Expanded Storage._ Families may also wish to expand their basic storage to include foods and other daily essentials that would supply total nutritional needs and allow for variety and personal preferences in diet and living. These would be things normally used every day, for which frequent shopping is done. 
 
 I repeat, home storage should consist of a year's supply of basic food,
 clothing, and, where possible, fuel. After this goal is reached, emergency and
@@ -120,6 +116,8 @@ of home production and storage will enable us to be generous with our
 substance if needed and bring a greater security to individuals and families,
 so that we might be as the virtuous woman of old who was "not afraid of the
 snow [of adversity] for her household. ..." ([Prov.
-31:21](https://www.lds.org/scriptures/ot/prov/31.21?lang=eng#20).) In the name
-of Jesus Christ. Amen.
+31:21](/scriptures/ot/prov/31.21?lang=eng#20).) In the name of Jesus Christ.
+Amen.
+
+## References
 

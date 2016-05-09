@@ -144,9 +144,8 @@ In speaking of the oath and covenant of the priesthood, he has said:
 "And he that receiveth me receiveth my Father;
 
 "And he that receiveth my Father receiveth my Father's kingdom; therefore all
-that my Father hath shall be given unto him." ([D&amp;C
-84:36-38](https://www.lds.org/scriptures/dc-
-testament/dc/84.36-38?lang=eng#35).) If you can think of something more
+that my Father hath shall be given unto him." ([D&amp;C 84:36-38](/scriptures
+/dc-testament/dc/84.36-38?lang=eng#35).) If you can think of something more
 exciting than that, I don't know what it would be.
 
 God is a very wealthy personage. We all like to inherit from a wealthy parent
@@ -157,20 +156,21 @@ been very generous. To begin with, he created us in his own image and has
 endowed us with a set of his attributes and potentialities, the development of
 which is one of the purposes for which we live. He desires that every one of
 us should be rich. He has said: "... the fulness of the earth is yours ..."
-([D&amp;C 59:16](https://www.lds.org/scriptures/dc-
-testament/dc/59.16?lang=eng#15)), and it pleaseth God that he has given all
-these things unto men to be used with judgment and thanksgiving. He has shared
-with us the fulness of the treasures of the earth and he desires to share with
-us the fulness of the treasures of heaven. He wants us to inherit the
-celestial kingdom and belong to that celestial order of which he himself is a
-member. And he has said that the greatest of all the gifts of God is the gift
-of eternal life in his presence.
+([D&amp;C 59:16](/scriptures/dc-testament/dc/59.16?lang=eng#15)), and it
+pleaseth God that he has given all these things unto men to be used with
+judgment and thanksgiving. He has shared with us the fulness of the treasures
+of the earth and he desires to share with us the fulness of the treasures of
+heaven. He wants us to inherit the celestial kingdom and belong to that
+celestial order of which he himself is a member. And he has said that the
+greatest of all the gifts of God is the gift of eternal life in his presence.
 
 And so we come back to the place where we began and hear again those great
 words as they come down to us from the mount in which the Lord of Hosts has
 said, "... lay up for yourselves treasures in heaven. ..." ([Matt.
-6:20](https://www.lds.org/scriptures/nt/matt/6.20?lang=eng#19).)
+6:20](/scriptures/nt/matt/6.20?lang=eng#19).)
 
 And that we may be fully successful in this greatest of all enterprises, I
 humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

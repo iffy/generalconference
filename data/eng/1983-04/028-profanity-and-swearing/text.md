@@ -2,7 +2,7 @@
 
 Which of the Lord's Ten Commandments is probably broken the most frequently? I
 believe it would be taking the name of God in vain. (See [Ex.
-20:7](https://www.lds.org/scriptures/ot/ex/20.7?lang=eng#6).)
+20:7](/scriptures/ot/ex/20.7?lang=eng#6).)
 
 Today I should like to treat the important subject of profanity and swearing.
 
@@ -26,18 +26,17 @@ words.
 
 "Thou shalt not take the name of the Lord thy God in vain; for the Lord will
 not hold him guiltless that taketh his name in vain." ([Ex.
-20:7](https://www.lds.org/scriptures/ot/ex/20.7?lang=eng#6).)
+20:7](/scriptures/ot/ex/20.7?lang=eng#6).)
 
 "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy
 communication out of your mouth." ([Col.
-3:8](https://www.lds.org/scriptures/nt/col/3.8?lang=eng#7).)
+3:8](/scriptures/nt/col/3.8?lang=eng#7).)
 
 Have we ever asked ourselves what is the harm or end result of swearing?
 Jeremiah expresses one thought about it in this way:
 
 "For because of swearing the land mourneth; the pleasant places of the
-wilderness are dried up." ([Jer.
-23:10](https://www.lds.org/scriptures/ot/jer/23.10?lang=eng#9).)
+wilderness are dried up." ([Jer. 23:10](/scriptures/ot/jer/23.10?lang=eng#9).)
 
 President McKay speaks clearly regarding profane language: "No parent can
 consistently teach faith in Christ who profanes the name of Deity. Profanity
@@ -58,8 +57,7 @@ snappy comeback and putdown." (_People Magazine,_ Aug. 1982, p. 38.)
 
 Politeness achieves much more than answering rudeness with rudeness. "Be
 patient in afflictions, _revile not against those that revile_." ([D&amp;C
-31:9](https://www.lds.org/scriptures/dc-testament/dc/31.9?lang=eng#8); italics
-added.)
+31:9](/scriptures/dc-testament/dc/31.9?lang=eng#8); italics added.)
 
 The Lord speaks with clarity on this subject through his prophets. President
 Joseph Fielding Smith states: "Profanity is filthiness. A person is known as
@@ -112,21 +110,16 @@ who is the most progressive, happy, and prosperous. The Lord said:
 
 "Therefore, strengthen your brethren in all your conversation, in all your
 prayers, in all your exhortations, and in all your doings." ([D&amp;C
-108:7](https://www.lds.org/scriptures/dc-testament/dc/108.7?lang=eng#6).)
+108:7](/scriptures/dc-testament/dc/108.7?lang=eng#6).)
 
 We should--
 
-  * enlighten
-
-  * edify
-
-  * lift
-
-  * motivate
-
-  * elevate
-
-  * build and uplift
+  * enlighten 
+  * edify 
+  * lift 
+  * motivate 
+  * elevate 
+  * build and uplift 
 
 _in all of our conversations and doings._
 
@@ -135,13 +128,12 @@ lifting, and edifying:
 
 "Let no corrupt communication proceed out of your mouth, but that which is
 good to the use of edifying, that it may minister grace unto the hearers."
-([Eph. 4:29](https://www.lds.org/scriptures/nt/eph/4.29?lang=eng#28).)
+([Eph. 4:29](/scriptures/nt/eph/4.29?lang=eng#28).)
 
 "Cease to contend one with another; cease to speak evil one of another.
 
 "... Let your words tend to edifying one another." ([D&amp;C
-136:23-24](https://www.lds.org/scriptures/dc-
-testament/dc/136.23-24?lang=eng#22).)
+136:23-24](/scriptures/dc-testament/dc/136.23-24?lang=eng#22).)
 
 In the magazine _Success Unlimited,_ Dec. 1982, Dwight Chapin draws to our
 attention a crucial aspect of creating only positive emotions:
@@ -177,8 +169,7 @@ one who enters their offices always leaves a better person than when he
 entered.
 
 The Lord's counsel is very clear: "Give ye ear, and hear my voice; hearken,
-and hear my speech." ([Isa.
-28:23](https://www.lds.org/scriptures/ot/isa/28.23?lang=eng#22).)
+and hear my speech." ([Isa. 28:23](/scriptures/ot/isa/28.23?lang=eng#22).)
 
 Do we really _listen_ as we read the scriptures? Do we really hear his voice,
 hearken, and do his will? There are many who _do_ hear and follow him.
@@ -204,9 +195,8 @@ of more union and brotherhood.
 After researching for over five years, they came to at least these two
 conclusions:
 
-  1. There were only two churches that had high moral values; one was The Church of Jesus Christ of Latter-day Saints.
-
-  2. There was only one church that followed all the prophetic utterances of old--in other words, accepted and followed all the Old and New Testament--that was the Mormons.
+  1. There were only two churches that had high moral values; one was The Church of Jesus Christ of Latter-day Saints. 
+  2. There was only one church that followed all the prophetic utterances of old--in other words, accepted and followed all the Old and New Testament--that was the Mormons. 
 
 This monk accepted the challenge to study the Book of Mormon and prayed to
 have divine verification of its truthfulness. As a result, he accepted the
@@ -246,4 +236,6 @@ and only elevate and edify?
 We are in the presence of and being directed by living prophets. This is an
 absolute truth. The Lord himself directs this, his only true and living
 church, and I testify to this in the name of Jesus Christ, the Master, amen.
+
+## References
 

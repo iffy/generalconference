@@ -24,7 +24,7 @@ not: Am I my brother's keeper?
 
 "And [the Lord] said, What hast thou done? the voice of thy brother's blood
 crieth unto me from the ground." ([Gen.
-4:1-10](https://www.lds.org/scriptures/ot/gen/4.1-10?lang=eng#0).)
+4:1-10](/scriptures/ot/gen/4.1-10?lang=eng#0).)
 
 Pain, sorrow, and tragedy trave been with the human race ever since this
 event. Yet from this episode in the scriptures there is brought to our
@@ -44,7 +44,7 @@ we ought to lay down our lives for the brethren.
 
 "My little children, let us not love in word, neither in tongue; but in deed
 and in truth." ([1 Jn. 3:11, 14, 16,
-18](https://www.lds.org/scriptures/nt/1-jn/3.11%2C14%2C16%2C18?lang=eng#10).)
+18](/scriptures/nt/1-jn/3.11,14,16,18?lang=eng#10).)
 
 What is the seed of mother love? Is it not sacrifice? Such love is considered
 to be the deepest and most tender. Is this because a mother passes through the
@@ -54,16 +54,14 @@ sacrificing for that child's welfare?
 Is this why Christ loves the world? Because he toiled to make it? Because he
 sacrificed his life for the world and its people? We are told that "God so
 loved the world, that he gave his only begotten Son" ([John
-3:16](https://www.lds.org/scriptures/nt/john/3.16?lang=eng#15)) to save it
-from ruin, and the Son was willing to suffer for the salvation of that for
-which he had toiled.
+3:16](/scriptures/nt/john/3.16?lang=eng#15)) to save it from ruin, and the Son
+was willing to suffer for the salvation of that for which he had toiled.
 
 We all love that for which we sacrifice. Giving and serving to the point of
 sacrifice creates love. The term _religion _encompasses concern for our
 brethren, as we are told in James 1:27: "Pure religion and undefiled before
 God and the Father is this, To visit the fatherless and widows in their
-affliction. ..." [[James
-1:27](https://www.lds.org/scriptures/nt/james/1.27?lang=eng#26)]
+affliction. ..." [[James 1:27](/scriptures/nt/james/1.27?lang=eng#26)]
 
 When people say, "Religion is all right for some, but I am not religious, and
 it means nothing to me," is it because they have not experienced the uplift
@@ -100,7 +98,7 @@ body and to enliven the soul.
 
 "And in nothing doth man offend God, or against none is his wrath kindled,
 save those who confess not his hand in all things, and obey not his
-commandments." ([D&amp;C 59:16-21](https://www.lds.org/scriptures/dc-
+commandments." ([D&amp;C 59:16-21](/scriptures/dc-
 testament/dc/59.16-21?lang=eng#15).)
 
 Since God has been so good to us, he has asked us to be good to our brethren
@@ -110,8 +108,7 @@ that which thou hast to impart unto them. ...
 
 "And inasmuch as ye impart of your substance unto the poor, ye will do it unto
 me; and they shall be laid before the bishop of my church. ..." ([D&amp;C
-42:30-31](https://www.lds.org/scriptures/dc-
-testament/dc/42.30-31?lang=eng#29).)
+42:30-31](/scriptures/dc-testament/dc/42.30-31?lang=eng#29).)
 
 This commandment of providing for our needy brethren is found in the principle
 of fasting, as we read in the _Documentary History of the Church:_
@@ -126,7 +123,7 @@ have an abundance." (Vol. 7, p. 413.)
 
 Brigham Young addressed the Saints as follows:
 
-"You know that the first Thursday[*] in each month we hold as a fast day. How
+"You know that the first Thursday* in each month we hold as a fast day. How
 many here know the origin of this day? Before tithing was paid, the poor were
 supported by donations. They came to Joseph and wanted help, in Kirtland, and
 he said there should be a fast day, which was decided upon. It was to be held
@@ -193,8 +190,8 @@ What of brotherhood, the third need of man--perhaps the greatest need? Surely
 in this modern world, where hate and envy seem to abound, the call to "love
 the Lord thy God with all thy heart, and with all thy soul, and with all thy
 mind" and to "love thy neighbour as thyself" ([Matt. 22:37,
-39](https://www.lds.org/scriptures/nt/matt/22.37%2C39?lang=eng#36)) is
-essential if peace is ever to be found.
+39](/scriptures/nt/matt/22.37,39?lang=eng#36)) is essential if peace is ever
+to be found.
 
 It seems that man knows no bounds to the physical conveniences he can produce.
 We boast how our knowledge is expanding as new discoveries are made which open
@@ -223,7 +220,7 @@ At this, Esther realized her responsibility for her brethren and answered,
 me, and neither eat nor drink three days, night or day: I also and my maidens
 will fast likewise; and so I will go in unto the king, which is not according
 to the law: and if I perish, I perish." ([Esth. 4:8, 11, 14,
-16](https://www.lds.org/scriptures/ot/esth/4.8%2C11%2C14%2C16?lang=eng#7).)
+16](/scriptures/ot/esth/4.8,11,14,16?lang=eng#7).)
 
 As a result of this decision to put the matter into the hands of the Lord,
 Esther was able to perform this great service for her brethren and save them.
@@ -278,6 +275,4 @@ reaching out to others, for you cannot reach closer to God than you can to
 your fellowmen, which I testify in the name Jesus Christ. Amen.
 
 ## References
-
-  1.  Fast day was regularly observed throughout the Church on the first Thursday of each month until November 5, 1896, when, at a meeting of the First Presidency and the apostles, it was decided that the first Sunday of the month should be observed instead, and on Sunday, December 6, 1896, was the first time it was held on Sunday. (Andrew Jenson, _Encyclopedic History of The Church of Jesus Christ of Latter-day Saints, _1941.)
 

@@ -24,7 +24,7 @@ pass when they heard this voice, and beheld that it was not a voice of
 thunder, neither was it a voice of a great tumultuous noise, but behold it was
 a still voice of perfect mildness, as if it had been a whisper, and it did
 pierce even to the very soul." [[Hel.
-5:30](https://www.lds.org/scriptures/bofm/hel/5.30?lang=eng#29)]
+5:30](/scriptures/bofm/hel/5.30?lang=eng#29)]
 
 There never has been a time when it is more important for us as members of The
 Church of Jesus Christ of Latter-day Saints to take a stand, remain firm in
@@ -64,8 +64,7 @@ stirreth up the hearts of men to contend with anger, one with another.
 
 "Behold, this is not my doctrine, to stir up the hearts of men with anger, one
 against another; but this is my doctrine, that such things should be done
-away." ([3 Ne. 11:29,
-30](https://www.lds.org/scriptures/bofm/3-ne/11.29%2C30?lang=eng#28).)
+away." ([3 Ne. 11:29, 30](/scriptures/bofm/3-ne/11.29,30?lang=eng#28).)
 
 We need to be reminded that contention is a striving against one another,
 especially in controversy or argument. It is to struggle, fight, battle,
@@ -142,12 +141,12 @@ the home, in the community, among the leaders, or in the classroom. "For
 verily, verily, I say unto you, he that hath the spirit of contention is not
 of me, but is of the devil, who is the father of contention, and he stirreth
 up the hearts of men to contend with anger, one with another." ([3 Ne.
-11:29](https://www.lds.org/scriptures/bofm/3-ne/11.29?lang=eng#28).) This
-means that Satan has power over us only when we let him in. We have agency. We
-can choose our behavior. The Prophet Joseph Smith said on one occasion, "The
-devil has no power over us only as we permit him. The moment we revolt at
-anything which comes from God, the devil takes power." (_Teachings of the
-Prophet Joseph Smith,_ p. 181.)
+11:29](/scriptures/bofm/3-ne/11.29?lang=eng#28).) This means that Satan has
+power over us only when we let him in. We have agency. We can choose our
+behavior. The Prophet Joseph Smith said on one occasion, "The devil has no
+power over us only as we permit him. The moment we revolt at anything which
+comes from God, the devil takes power." (_Teachings of the Prophet Joseph
+Smith,_ p. 181.)
 
 When one considers the bad feeling and the unpleasantness caused by
 contention, it is well to ask, "Why do I participate?" If we are really honest
@@ -160,7 +159,7 @@ how much I know!"
 Whatever the real reason, it is important to recognize that we choose our
 behavior. At the root of this issue is the age-old problem of pride. "Only by
 pride cometh contention." ([Prov.
-13:10](https://www.lds.org/scriptures/ot/prov/13.10?lang=eng#9).)
+13:10](/scriptures/ot/prov/13.10?lang=eng#9).)
 
 If Satan can succeed in creating in us habits of arguing, quarreling, and
 contention, it is easier then for him to bind us with the heavier sins which
@@ -182,21 +181,19 @@ by swords, but by appropriate commitment rather than contention.
 
 Let me share with you some suggestions for alleviating contention:
 
-  1. Pray to have the love of God in your heart. Sometimes this is a struggle, but the Spirit of the Lord can soften hard feelings and mellow a callous spirit.
-
+  1. Pray to have the love of God in your heart. Sometimes this is a struggle, but the Spirit of the Lord can soften hard feelings and mellow a callous spirit. 
   2. Learn to control your tongue. There is an old maxim and an excellent one: "Think twice before you speak and three times before you act."
-
-  3. Don't allow emotions to take over; rather, reason together.
-
-  4. Refuse to get embroiled in the same old patterns of argument and confrontation.
-
-  5. Practice speaking in a soft, calm voice. The peaceful life can best be attained not by those who speak with a voice of "great tumultuous noise" but by those who follow the Savior's example and speak with "a still voice of perfect mildness." ([Hel. 5:30](https://www.lds.org/scriptures/bofm/hel/5.30?lang=eng#29).)
+  3. Don't allow emotions to take over; rather, reason together. 
+  4. Refuse to get embroiled in the same old patterns of argument and confrontation. 
+  5. Practice speaking in a soft, calm voice. The peaceful life can best be attained not by those who speak with a voice of "great tumultuous noise" but by those who follow the Savior's example and speak with "a still voice of perfect mildness." ([Hel. 5:30](/scriptures/bofm/hel/5.30?lang=eng#29).) 
 
 There is no time for contention. We must have the will and discipline in our
 daily lives to fight contention. I promise the valiant God's help in their
 efforts to conquer this horrendous foe. Let us "Cease to contend one with
-another; cease to speak evil one of another." ([D&amp;C
-136:23](https://www.lds.org/scriptures/dc-testament/dc/136.23?lang=eng#22).)
-We only have time to be about our Father's business. To these truths I leave
-my testimony, in the name of Jesus Christ. Amen.
+another; cease to speak evil one of another." ([D&amp;C 136:23](/scriptures
+/dc-testament/dc/136.23?lang=eng#22).) We only have time to be about our
+Father's business. To these truths I leave my testimony, in the name of Jesus
+Christ. Amen.
+
+## References
 

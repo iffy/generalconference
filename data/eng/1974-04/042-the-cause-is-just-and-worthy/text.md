@@ -47,11 +47,10 @@ God."
 That's why the Lord strictly sent us to the scriptures and prayer. "Search the
 scriptures," he said; "for in them ye think ye have eternal life: and they are
 they which testify of me." ([John
-5:39](https://www.lds.org/scriptures/nt/john/5.39?lang=eng#38).) And then he
-said, "... O, fools, and slow of heart to believe all that the prophets have
-spoken: Ought not Christ to have suffered these things, and to enter into his
-glory?" ([Luke
-24:25-26](https://www.lds.org/scriptures/nt/luke/24.25-26?lang=eng#24).)
+5:39](/scriptures/nt/john/5.39?lang=eng#38).) And then he said, "... O, fools,
+and slow of heart to believe all that the prophets have spoken: Ought not
+Christ to have suffered these things, and to enter into his glory?" ([Luke
+24:25-26](/scriptures/nt/luke/24.25-26?lang=eng#24).)
 
 Paul, in his impressive way as he spoke to the Corinthians, said, "And I,
 brethren, when I came to you, came not with excellency of speech or of wisdom,
@@ -73,8 +72,7 @@ this world, nor of the princes of this world, that come to nought. ...
 
 "For what man knoweth the things of a man, save the spirit of man which is in
 him? even so the things of God knoweth no man, but the Spirit of God." ([1
-Cor. 2:1-6,
-11](https://www.lds.org/scriptures/nt/1-cor/2.1-6%2C11?lang=eng#0).)
+Cor. 2:1-6, 11](/scriptures/nt/1-cor/2.1-6,11?lang=eng#0).)
 
 "Now," he says, "we have received, not the spirit of the world, but the spirit
 which is of God; that we might know the things that are freely given to us of
@@ -86,16 +84,15 @@ which the Holy Ghost teacheth; comparing spiritual things with spiritual.
 "But the natural man receiveth not the things of the Spirit of God: for they
 are foolishness unto him: neither can he know them, because they are
 spiritually discerned." ([1 Cor.
-2:12-14](https://www.lds.org/scriptures/nt/1-cor/2.12-14?lang=eng#11).)
+2:12-14](/scriptures/nt/1-cor/2.12-14?lang=eng#11).)
 
 "But there is a spirit in man": said Job, "and the inspiration of the Almighty
-giveth them understanding." ([Job
-32:8](https://www.lds.org/scriptures/ot/job/32.8?lang=eng#7).)
+giveth them understanding." ([Job 32:8](/scriptures/ot/job/32.8?lang=eng#7).)
 
 "Now when the centurion, and they that were with him, watching Jesus, saw the
 earthquake, and those things that were done, they feared greatly, saying,
 Truly this was the Son of God." ([Matt.
-27:54](https://www.lds.org/scriptures/nt/matt/27.54?lang=eng#53).)
+27:54](/scriptures/nt/matt/27.54?lang=eng#53).)
 
 At one time two men sat in a railway car discussing Christ's wonderful life.
 One of them said, "I think an interesting romance could be written about him
@@ -141,8 +138,8 @@ should be asked to do even to the laying down of my life.
 "And so when we read in the scriptures what the Savior said to his disciples,
 'In my Father's house are many mansions: ... I go to prepare a place for you ...
 that where I am, there ye may be also.' ([John
-14:2-3](https://www.lds.org/scriptures/nt/john/14.2-3?lang=eng#1).) I think
-that is where I want to be.
+14:2-3](/scriptures/nt/john/14.2-3?lang=eng#1).) I think that is where I want
+to be.
 
 "If only I can be with my Savior and have that same sense of love that I had
 in that dream, it will be the goal of my existence, the desire of my life."
@@ -173,4 +170,6 @@ him to do and reminded by the Brethren to do.
 
 And so I leave this testimony with you. In the name of our Lord Jesus Christ.
 Amen.
+
+## References
 

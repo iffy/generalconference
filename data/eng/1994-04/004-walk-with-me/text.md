@@ -5,9 +5,8 @@ this gospel, grateful for the priesthood that blesses our lives, and for the
 goodness of all of you. This gathering of Saints at general conference reminds
 me of Isaiah's joyous proclamation, "Holy, holy, holy, is the Lord of hosts:
 the whole earth is full of his glory" ([Isa.
-6:3](https://www.lds.org/scriptures/ot/isa/6.3?lang=eng#2)). Righteous Saints
-are the glory of God, and there are mighty legions gathered here and in many
-lands.
+6:3](/scriptures/ot/isa/6.3?lang=eng#2)). Righteous Saints are the glory of
+God, and there are mighty legions gathered here and in many lands.
 
 Before we came to this earth, we shouted for joy at the opportunity to take
 this leap of faith in our eternal progression. When we were baptized, we
@@ -19,7 +18,7 @@ unshaken faith in him. ...
 "Wherefore, ye must press forward with a steadfastness in Christ. ...
 
 "Behold, ... this is the way" ([2 Ne.
-31:19-21](https://www.lds.org/scriptures/bofm/2-ne/31.19-21?lang=eng#18)).
+31:19-21](/scriptures/bofm/2-ne/31.19-21?lang=eng#18)).
 
 How do we press forward on the straight and narrow way? How do we focus on our
 eternal progression when we live in a world that demands such attention to
@@ -27,7 +26,7 @@ daily tasks? How do we remain steadfast when so much around us is laden with
 sin? The people in Enoch's day faced these same challenges. Enoch began his
 ministry preaching to an unrighteous audience, but the people softened their
 hearts and heeded the words of the Lord to "walk with me" ([Moses
-6:34](https://www.lds.org/scriptures/pgp/moses/6.34?lang=eng#33)).
+6:34](/scriptures/pgp/moses/6.34?lang=eng#33)).
 
 So can we.
 
@@ -73,9 +72,9 @@ too it is more difficult to hear the still, small voice of warnings, rough
 road ahead, when we have distanced ourselves from our covenants.
 
 When the Lord says "walk with me" ([Moses
-6:34](https://www.lds.org/scriptures/pgp/moses/6.34?lang=eng#33)), He is
-asking us to become more spiritual by being obedient to His word. Developing
-spirituality is critical to our eternal progress.
+6:34](/scriptures/pgp/moses/6.34?lang=eng#33)), He is asking us to become more
+spiritual by being obedient to His word. Developing spirituality is critical
+to our eternal progress.
 
 Our prophet has spoken for the Lord in our day, and his messages have been
 explicit: rid your heart of pride; read the Book of Mormon every day. In
@@ -93,19 +92,17 @@ the Lord's influence is invited and strong.
 Alma described what happens when we are not only present but counted as
 Christ's disciples when he said, "Have ye spiritually been born of God? Have
 ye received his image in your countenances? Have ye experienced this mighty
-change in your hearts?" ([Alma
-5:14](https://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13).) Have ye
-"felt to sing the song of redeeming love?" ([Alma
-5:26](https://www.lds.org/scriptures/bofm/alma/5.26?lang=eng#25).)
-Spirituality is all about feeling the Spirit of God, wanting it with us,
-sharing the Spirit with others, and heeding its prompting.
+change in your hearts?" ([Alma 5:14](/scriptures/bofm/alma/5.14?lang=eng#13).)
+Have ye "felt to sing the song of redeeming love?" ([Alma
+5:26](/scriptures/bofm/alma/5.26?lang=eng#25).) Spirituality is all about
+feeling the Spirit of God, wanting it with us, sharing the Spirit with others,
+and heeding its prompting.
 
 Finally, progressing along the straight and narrow is characterized by making
 the Lord's work our work, serving as He would. Such work is grounded in
 charity, a principle Relief Society sisters have embraced for many years, for
-"charity never faileth" ([1 Cor.
-13:8](https://www.lds.org/scriptures/nt/1-cor/13.8?lang=eng#7)). Charity helps
-us maintain our footing when all around us are skidding about.
+"charity never faileth" ([1 Cor. 13:8](/scriptures/nt/1-cor/13.8?lang=eng#7)).
+Charity helps us maintain our footing when all around us are skidding about.
 
 Priscilla Samson-Davis, a sister in Ghana, has known struggles. There have
 been many rocks on the path of her life. As a teacher she has watched families
@@ -153,14 +150,14 @@ Luke we read of Martha receiving Jesus into her home. Her sister Mary "sat at
 Jesus' feet, and heard his word.
 
 "But Martha was cumbered about much serving" ([Luke
-10:39-40](https://www.lds.org/scriptures/nt/luke/10.39-40?lang=eng#38)), and
-she complained that Mary did not help her. Did Jesus urge Mary to rush back to
-the tasks of the day? No. "Jesus answered and said unto her, Martha, ... thou
-art careful and troubled about many things:
+10:39-40](/scriptures/nt/luke/10.39-40?lang=eng#38)), and she complained that
+Mary did not help her. Did Jesus urge Mary to rush back to the tasks of the
+day? No. "Jesus answered and said unto her, Martha, ... thou art careful and
+troubled about many things:
 
 "But one thing is needful: and Mary hath chosen that good part" ([Luke
-10:41-42](https://www.lds.org/scriptures/nt/luke/10.41-42?lang=eng#40)). The
-message holds true today: Choose the Lord's way for it is glory everlasting.
+10:41-42](/scriptures/nt/luke/10.41-42?lang=eng#40)). The message holds true
+today: Choose the Lord's way for it is glory everlasting.
 
 We know why we are here. When we are on the path, we can feel it. The fruits
 of eternal progress are manifest in joy, peace, love, hope, increased
@@ -172,6 +169,8 @@ what is mighty in us all, one step at a time, one day at a time, all the time.
 We know the path; in fact, we know it well. The prophet Nephi promised, "If ye
 shall press forward, feasting upon the word of Christ, and endure to the end,
 behold, thus saith the Father: Ye shall have eternal life" ([2 Ne.
-31:20](https://www.lds.org/scriptures/bofm/2-ne/31.20?lang=eng#19)). May it be
-so. In the name of Jesus Christ, amen.
+31:20](/scriptures/bofm/2-ne/31.20?lang=eng#19)). May it be so. In the name of
+Jesus Christ, amen.
+
+## References
 

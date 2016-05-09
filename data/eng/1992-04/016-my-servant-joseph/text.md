@@ -2,16 +2,16 @@
 
 My focus, in a few headlines, will be on the remarkable man whom the Lord
 repeatedly and affectionately called "my servant Joseph." ([D&amp;C
-5:7](https://www.lds.org/scriptures/dc-testament/dc/5.7?lang=eng#6).) What
-followed Joseph Smith's prayer in the spring of 1820 irrevocably illuminated
-our view of God, ourselves, others, life, even the universe! A young boy in a
-small grove of trees began receiving answers to mankind's oldest and largest
-questions! But young Joseph certainly did not go into the Sacred Grove seeking
-the restoration of the holy priesthood and the holy endowment, the sealing
-power, and all the keys thereof. He did not even know of their existence! He
-merely wanted to know which of several churches to join. His prayer was for
-personal and tactical guidance. The response, however, was of global and
-eternal significance!
+5:7](/scriptures/dc-testament/dc/5.7?lang=eng#6).) What followed Joseph
+Smith's prayer in the spring of 1820 irrevocably illuminated our view of God,
+ourselves, others, life, even the universe! A young boy in a small grove of
+trees began receiving answers to mankind's oldest and largest questions! But
+young Joseph certainly did not go into the Sacred Grove seeking the
+restoration of the holy priesthood and the holy endowment, the sealing power,
+and all the keys thereof. He did not even know of their existence! He merely
+wanted to know which of several churches to join. His prayer was for personal
+and tactical guidance. The response, however, was of global and eternal
+significance!
 
 Would Joseph have gone into the grove, brethren, if he had known beforehand
 the unceasing persecution which would soon engulf him and finally cause his
@@ -42,14 +42,14 @@ permitted him to ... [save] my life." (_New Era, _Dec. 1973, p. 19.)
 
 Joseph's courage was matched by his willingness to be tutored. The
 Restoration, which occurred "in process of time," so required. (See [Moses
-7:21](https://www.lds.org/scriptures/pgp/moses/7.21?lang=eng#20).) After a
-glorious visitation, there would be laborious implementation. For instance,
-the bestowal of the golden plates, history's most stunning "find" in the field
-of religion, was followed by painstaking translation. The keys of the holy
-apostleship were dramatically restored, but well before the sifting march of
-Zion's Camp and the subsequent calling of the Twelve. Elijah's very
-significant visit came well before either the people or temples were prepared
-to enjoy the restored sealing power.
+7:21](/scriptures/pgp/moses/7.21?lang=eng#20).) After a glorious visitation,
+there would be laborious implementation. For instance, the bestowal of the
+golden plates, history's most stunning "find" in the field of religion, was
+followed by painstaking translation. The keys of the holy apostleship were
+dramatically restored, but well before the sifting march of Zion's Camp and
+the subsequent calling of the Twelve. Elijah's very significant visit came
+well before either the people or temples were prepared to enjoy the restored
+sealing power.
 
 Yes, Joseph received remarkable manifestations, along with constant vexations.
 True, for instance, there were periodic arrivals of heavenly messengers, but
@@ -75,19 +75,18 @@ he had so few of them in those days.
 
 Joseph was a seer. He had the gift to translate ancient records (see _History
 of the Church, _1:238), and a "seer is greater than a prophet" ([Mosiah
-8:15](https://www.lds.org/scriptures/bofm/mosiah/8.15?lang=eng#14); see
-[Mosiah
-8:13-17](https://www.lds.org/scriptures/bofm/mosiah/8.13-17?lang=eng#12)).
+8:15](/scriptures/bofm/mosiah/8.15?lang=eng#14); see [Mosiah
+8:13-17](/scriptures/bofm/mosiah/8.13-17?lang=eng#12)).
 
 The process of translation was truly "a marvellous work and a wonder," or, as
 rendered in Hebrew, "a miraculous miracle." ([Isa.
-29:14](https://www.lds.org/scriptures/ot/isa/29.14?lang=eng#13).) Depending
-upon his sequence of translation, scholars estimate Joseph in 1829 was
-translating at a rapid daily equivalent of from eight to thirteen of today's
-printed pages. (See John W. Welch and Tim Rathbone, "The Translation of the
-Book of Mormon: Basic Historical Information," Preliminary Report, F.A.R.M.S.,
-Provo, Utah, 1986, pp. 38-39.) An able, professional translator recently told
-me he considers one page a day productive.
+29:14](/scriptures/ot/isa/29.14?lang=eng#13).) Depending upon his sequence of
+translation, scholars estimate Joseph in 1829 was translating at a rapid daily
+equivalent of from eight to thirteen of today's printed pages. (See John W.
+Welch and Tim Rathbone, "The Translation of the Book of Mormon: Basic
+Historical Information," Preliminary Report, F.A.R.M.S., Provo, Utah, 1986,
+pp. 38-39.) An able, professional translator recently told me he considers one
+page a day productive.
 
 From Joseph the translator--untrained in theology--more printed pages of
 scripture have come down to us than from any other mortal, as Elder Jeffrey R.
@@ -101,19 +100,18 @@ Discourses, _9:310.)
 
 Joseph Smith lit up life's landscape, brethren, so that we can see "things as
 they really are, and ... really will be." ([Jacob
-4:13](https://www.lds.org/scriptures/bofm/jacob/4.13?lang=eng#12).) The
-revelations about the dispensations in salvational history tell us that Adam
-had the fulness of Christ's gospel and all its ordinances. (See [Moses
-5:58-59](https://www.lds.org/scriptures/pgp/moses/5.58-59?lang=eng#57).)
-Hence, Christianity did not begin with Jesus' mortal Messiahship in the
-meridian of time in Jerusalem! The diffusion which followed Adam naturally
-resulted in some similarities in various religions. Therefore, as President
-Joseph F. Smith declared, we find "relics of Christianity" which "date back ...
-beyond the flood, independent of ... the Bible." (_Journal of Discourses,
-_15:325.) Latter-day Saints are therefore unsurprised but instead are enriched
-whenever discoveries are made which show how the Lord grants "unto all
-nations" to teach a portion of "his word." ([Alma
-29:8](https://www.lds.org/scriptures/bofm/alma/29.8?lang=eng#7).)
+4:13](/scriptures/bofm/jacob/4.13?lang=eng#12).) The revelations about the
+dispensations in salvational history tell us that Adam had the fulness of
+Christ's gospel and all its ordinances. (See [Moses
+5:58-59](/scriptures/pgp/moses/5.58-59?lang=eng#57).) Hence, Christianity did
+not begin with Jesus' mortal Messiahship in the meridian of time in Jerusalem!
+The diffusion which followed Adam naturally resulted in some similarities in
+various religions. Therefore, as President Joseph F. Smith declared, we find
+"relics of Christianity" which "date back ... beyond the flood, independent of ...
+the Bible." (_Journal of Discourses, _15:325.) Latter-day Saints are therefore
+unsurprised but instead are enriched whenever discoveries are made which show
+how the Lord grants "unto all nations" to teach a portion of "his word."
+([Alma 29:8](/scriptures/bofm/alma/29.8?lang=eng#7).)
 
 In 1834, all the priesthood in the Kirtland area met, not in a tabernacle, but
 in a small log cabin. There, Joseph prophesied that the Church would
@@ -126,20 +124,18 @@ countries and 17 languages!
 
 Even so, young men listening tonight, including several of my grandsons, will
 aid in the further fulfillment of Joseph's bold prophecy, for "the ends of the
-earth shall inquire after [Joseph's] name." ([D&amp;C
-122:1](https://www.lds.org/scriptures/dc-testament/dc/122.1?lang=eng#0).) And
-young men listening tonight will answer those inquiries in the years ahead and
-in places with strange-sounding names.
+earth shall inquire after [Joseph's] name." ([D&amp;C 122:1](/scriptures/dc-
+testament/dc/122.1?lang=eng#0).) And young men listening tonight will answer
+those inquiries in the years ahead and in places with strange-sounding names.
 
 Another remarkable prophecy, given nearly thirty years before the tragedy of
 the American Civil War, foretold not only where it would begin, but, more
 importantly, that it would end "in the death and misery of many souls."
-([D&amp;C 87:1](https://www.lds.org/scriptures/dc-
-testament/dc/87.1?lang=eng#0).) By far, that war still ranks as America's
-bloodiest.
+([D&amp;C 87:1](/scriptures/dc-testament/dc/87.1?lang=eng#0).) By far, that
+war still ranks as America's bloodiest.
 
 Other prophecies await. Some are grim, such as "a desolating sickness shall
-cover the land." ([D&amp;C 45:31](https://www.lds.org/scriptures/dc-
+cover the land." ([D&amp;C 45:31](/scriptures/dc-
 testament/dc/45.31?lang=eng#30).) How its awful fulfillment will occur, we do
 not know.
 
@@ -172,16 +168,16 @@ at such times there was a peculiar clearness and transparency in his face."
 Even with all he revealed, however, the Prophet Joseph knew much more than he
 could tell. President John Taylor observed that Joseph "felt fettered and
 bound." (_Journal of Discourses, _10:147-48.) Heber C. Kimball confirmed that
-Joseph sometimes felt "as though he were enclosed ... , there was no room for
-him to expand, ... no room in the hearts of the people to receive." (In _Journal
-of Discourses, _10:233.)
+Joseph sometimes felt "as though he were enclosed ..., there was no room for him
+to expand, ... no room in the hearts of the people to receive." (In _Journal of
+Discourses, _10:233.)
 
 The Prophet Joseph was a very good man. We need not suppose him "guilty of any
 great or malignant sins," for such, he said, "was never in my nature." ([JS--H
-1:28](https://www.lds.org/scriptures/pgp/js-h/1.28?lang=eng#27).) Near the end
-of his life, he meekly said, "I never told you I was perfect; but there is no
-error in the revelations which I have taught." (_Teachings of the Prophet
-Joseph Smith, _p. 368.)
+1:28](/scriptures/pgp/js-h/1.28?lang=eng#27).) Near the end of his life, he
+meekly said, "I never told you I was perfect; but there is no error in the
+revelations which I have taught." (_Teachings of the Prophet Joseph Smith, _p.
+368.)
 
 Unsurprisingly, the Prophet was closely linked with previous prophets! Just as
 on the Mount of Transfiguration Peter, James, and John were given priesthood
@@ -199,8 +195,8 @@ heart will always be more tender after this than ever it was before. ... I think
 I never could have felt as I now do if I had not suffered." (_The Personal
 Writings of Joseph Smith, _ed. Dean C. Jessee, Salt Lake City: Deseret Book
 Co., 1984, pp. 387.) Was Joseph not told, "All these things shall give thee
-experience, and shall be for thy good"? ([D&amp;C
-122:7](https://www.lds.org/scriptures/dc-testament/dc/122.7?lang=eng#6).)
+experience, and shall be for thy good"? ([D&amp;C 122:7](/scriptures/dc-
+testament/dc/122.7?lang=eng#6).)
 
 Most significantly, through the Prophet Joseph came translations and
 revelations which confirmed and described, as never before, the reality of the
@@ -213,12 +209,11 @@ because of pain. He suffered both body and spirit. He pled that He might not
 shrink, or pull back, from performing the Atonement. He finally finished His
 preparations unto the children of men. Meek Jesus let His will be "swallowed
 up in the will of the Father"! ([Mosiah
-15:7](https://www.lds.org/scriptures/bofm/mosiah/15.7?lang=eng#6).) Even in
-the midst of His astonishing, personal triumph, Jesus, true to His premortal
-promise, still gave all the glory to the Father. (See [D&amp;C
-19:18-19](https://www.lds.org/scriptures/dc-
+15:7](/scriptures/bofm/mosiah/15.7?lang=eng#6).) Even in the midst of His
+astonishing, personal triumph, Jesus, true to His premortal promise, still
+gave all the glory to the Father. (See [D&amp;C 19:18-19](/scriptures/dc-
 testament/dc/19.18-19?lang=eng#17); [Moses
-4:2](https://www.lds.org/scriptures/pgp/moses/4.2?lang=eng#1).)
+4:2](/scriptures/pgp/moses/4.2?lang=eng#1).)
 
 The Prophet's life was thus one of high achievement amid deep disappointment.
 Brethren, how will we endure our own peaks and valleys? Will we so submit
@@ -232,28 +227,26 @@ visibly the men of Christ!
 
 Or will we be like those who were decent but who lacked the courage to declare
 openly for Jesus and who were afraid of losing their places in the synagogue?
-([John
-12:42-43](https://www.lds.org/scriptures/nt/john/12.42-43?lang=eng#41).) There
-are so many equivalent situations today, and some Church members are reluctant
-to risk losing their places! Each day we decide the degree of our
-discipleship. Each day we answer the question, "Who's on the Lord's side?
-Who?"
+([John 12:42-43](/scriptures/nt/john/12.42-43?lang=eng#41).) There are so many
+equivalent situations today, and some Church members are reluctant to risk
+losing their places! Each day we decide the degree of our discipleship. Each
+day we answer the question, "Who's on the Lord's side? Who?"
 
 Now, my brethren, "these are [your] days" ([Hel.
-7:9](https://www.lds.org/scriptures/bofm/hel/7.9?lang=eng#8)) in the history
-of the Church. Mark well what kind of days they will be, days when, with
-special visibility, the Lord will "make bare his holy arm in the eyes of all
-the nations." ([D&amp;C 133:3](https://www.lds.org/scriptures/dc-
-testament/dc/133.3?lang=eng#2).) God will also "hasten" His work. ([D&amp;C
-88:73](https://www.lds.org/scriptures/dc-testament/dc/88.73?lang=eng#72).) He
+7:9](/scriptures/bofm/hel/7.9?lang=eng#8)) in the history of the Church. Mark
+well what kind of days they will be, days when, with special visibility, the
+Lord will "make bare his holy arm in the eyes of all the nations." ([D&amp;C
+133:3](/scriptures/dc-testament/dc/133.3?lang=eng#2).) God will also "hasten"
+His work. ([D&amp;C 88:73](/scriptures/dc-testament/dc/88.73?lang=eng#72).) He
 will also "shorten" the last days "for the elect's sake"; hence, there will be
 a compression of events. ([Matt.
-24:22](https://www.lds.org/scriptures/nt/matt/24.22?lang=eng#21); [JS--M
-1:20](https://www.lds.org/scriptures/pgp/js-m/1.20?lang=eng#19).) Furthermore,
-"all things shall be in commotion." ([D&amp;C
-88:91](https://www.lds.org/scriptures/dc-testament/dc/88.91?lang=eng#90).)
-Only those in the process of becoming the men and women of Christ will be able
-to keep their spiritual balance. Brethren, may we "walk by faith," and, if
-necessary, even on our knees! In the name of the Lord of the universe, even
-Jesus Christ, amen.
+24:22](/scriptures/nt/matt/24.22?lang=eng#21); [JS--M
+1:20](/scriptures/pgp/js-m/1.20?lang=eng#19).) Furthermore, "all things shall
+be in commotion." ([D&amp;C 88:91](/scriptures/dc-
+testament/dc/88.91?lang=eng#90).) Only those in the process of becoming the
+men and women of Christ will be able to keep their spiritual balance.
+Brethren, may we "walk by faith," and, if necessary, even on our knees! In the
+name of the Lord of the universe, even Jesus Christ, amen.
+
+## References
 

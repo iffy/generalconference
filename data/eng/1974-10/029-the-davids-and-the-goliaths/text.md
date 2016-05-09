@@ -107,22 +107,20 @@ brought Eliab, the older son, he said to himself, "Surely this is the man."
 "But the Lord said unto Samuel, look not on his countenance, or on the height
 of his stature; because I have refused him: for the Lord seeth not as man
 seeth; for man looketh on the outward appearance, but the Lord looketh on the
-heart." ([1 Sam.
-16:7](https://www.lds.org/scriptures/ot/1-sam/16.7?lang=eng#6).)
+heart." ([1 Sam. 16:7](/scriptures/ot/1-sam/16.7?lang=eng#6).)
 
 Then the proud father called a second, and he was not accepted. Seven fine,
 handsome sons came one after the other before the prophet Samuel, who said to
 the father, Jesse, "Are these all thy children?" And then Jesse admitted,
 "Yes, except the youngest, David, and he is out with the sheep." And Samuel
 said, "Go fetch him." (See [1 Sam.
-16:11](https://www.lds.org/scriptures/ot/1-sam/16.11?lang=eng#10).)
+16:11](/scriptures/ot/1-sam/16.11?lang=eng#10).)
 
 Now when the youngest son came in, he was ruddy and handsome and a delightful
 personality, and perhaps sunburned, for he was the shepherd and spent much of
 his time out in the open with the sheep. The Lord inspired Samuel and he said,
-"This is he." ([1 Sam.
-16:12](https://www.lds.org/scriptures/ot/1-sam/16.12?lang=eng#11).) And as the
-father and the sons gathered around him, Samuel took the horn of oil and
+"This is he." ([1 Sam. 16:12](/scriptures/ot/1-sam/16.12?lang=eng#11).) And as
+the father and the sons gathered around him, Samuel took the horn of oil and
 anointed David to become the king of Israel.
 
 At this time the Philistines, a bitter enemy of Israel, had come up to conquer
@@ -137,10 +135,9 @@ servants to Saul. Choose you a man for you, and let him come down to me.
 
 "If he be able to kill me, then will we be your servants: but if I prevail
 against him, and kill him, then shall you be our servants, and serve us." (See
-[1 Sam. 17:8-9](https://www.lds.org/scriptures/ot/1-sam/17.8-9?lang=eng#7).)
-He added: "I defy the armies of Israel this day; give me a man, that we may
-fight together." ([1 Sam.
-17:10](https://www.lds.org/scriptures/ot/1-sam/17.10?lang=eng#9).)
+[1 Sam. 17:8-9](/scriptures/ot/1-sam/17.8-9?lang=eng#7).) He added: "I defy
+the armies of Israel this day; give me a man, that we may fight together." ([1
+Sam. 17:10](/scriptures/ot/1-sam/17.10?lang=eng#9).)
 
 Now this man was a giant; he was fearsome. About nine feet tall, he stood high
 above them all; and he had a helmet of brass on his head and a heavy metal
@@ -179,25 +176,24 @@ warfare.
 As David came into the ranks, the men said to him, "Have you seen this giant
 that defies Israel? Do you realize that the man who kills him will be enriched
 by the king? To that man who can kill the great Goliath, freedom will come to
-his family." (See [1 Sam.
-17:25](https://www.lds.org/scriptures/ot/1-sam/17.25?lang=eng#24).)
+his family." (See [1 Sam. 17:25](/scriptures/ot/1-sam/17.25?lang=eng#24).)
 
 David was not well received by his eldest brother either, who was angry with
 him and said, "Why did you come down here? with whom have you left those few
 sheep in the wilderness? I know you were curious and proud and naughty in your
 heart, and you have come down out of curiosity to observe the battle." (See [1
-Sam. 17:28](https://www.lds.org/scriptures/ot/1-sam/17.28?lang=eng#27).)
+Sam. 17:28](/scriptures/ot/1-sam/17.28?lang=eng#27).)
 
 David seemed to be disturbed at his brother's denunciation and said, "Now what
 have I done? Isn't there a reason why I came?" (See [1 Sam.
-17:29](https://www.lds.org/scriptures/ot/1-sam/17.29?lang=eng#28).) He knew
-that inspiration had brought him here for a good purpose to save Israel.
+17:29](/scriptures/ot/1-sam/17.29?lang=eng#28).) He knew that inspiration had
+brought him here for a good purpose to save Israel.
 
 David's inspiration or revelation was repeated to King Saul, who called the
 young man to him, and David said, "Don't let this bully worry you and bring
 you fear. I will go and fight this Philistine." (See [1 Sam.
-17:32](https://www.lds.org/scriptures/ot/1-sam/17.32?lang=eng#31).) But Saul
-was shocked and said to David:
+17:32](/scriptures/ot/1-sam/17.32?lang=eng#31).) But Saul was shocked and said
+to David:
 
 "[You] art not able to ... fight ... this Philistine ... for you are but a youth,
 and he a man of war. ...
@@ -211,19 +207,18 @@ slew him.
 
 "Thy servant slew both the lion and the bear: and this uncircumcised
 Philistine shall be as one of them, seeing he hath defied the armies of the
-living God." ([1 Sam.
-17:33-36](https://www.lds.org/scriptures/ot/1-sam/17.33-36?lang=eng#32).)
+living God." ([1 Sam. 17:33-36](/scriptures/ot/1-sam/17.33-36?lang=eng#32).)
 
 He then repeated: "The Lord that delivered me out of the paw of the lion, and
 out of the paw of the bear, he will deliver me out of the hand of this
 Philistine. And Saul said unto David, go, and the Lord be with thee." (See [1
-Sam. 17:37](https://www.lds.org/scriptures/ot/1-sam/17.37?lang=eng#36).)
+Sam. 17:37](/scriptures/ot/1-sam/17.37?lang=eng#36).)
 
 Saul placed the king's armor upon David, but it was so heavy he couldn't bear
 it and threw it off.
 
 "I cannot go with these; for I am not used to them," said David. (See [1 Sam.
-17:39](https://www.lds.org/scriptures/ot/1-sam/17.39?lang=eng#38).)
+17:39](/scriptures/ot/1-sam/17.39?lang=eng#38).)
 
 As he crossed the brook, David, the boy, stooped over and picked out five
 small stones and put them in his shepherd's bag; and his sling was in his
@@ -236,7 +231,7 @@ and disgust, the Philistine said:
 "Am I a dog, that thou comest to me with staves? And the Philistine cursed
 David ... and ... said to [him], Come to me, and I will give [your] flesh ... [to]
 the fowls of the air, and to the beasts of the field." ([1 Sam.
-17:43-44](https://www.lds.org/scriptures/ot/1-sam/17.43-44?lang=eng#42).)
+17:43-44](/scriptures/ot/1-sam/17.43-44?lang=eng#42).)
 
 Then David rose in his majesty and said to the Philistine:
 
@@ -251,7 +246,7 @@ the earth; that all the earth may know that there is a God in Israel.
 
 "And all this assembly shall know that the Lord saveth not with sword and
 spear: for the battle is the Lord's, and he will give you into our hands." ([1
-Sam. 17:45-47](https://www.lds.org/scriptures/ot/1-sam/17.45-47?lang=eng#44).)
+Sam. 17:45-47](/scriptures/ot/1-sam/17.45-47?lang=eng#44).)
 
 The Philistine and the shepherd boy approached each other, both with
 confidence:
@@ -260,8 +255,7 @@ confidence:
 aimed it, and sent it at terrific speed, and smote the Philistine in his
 forehead; perhaps the only unprotected spot, and the stone sunk deep into the
 forehead of the great, bragging bully who fell upon his face to the earth."
-(See [1 Sam.
-17:49](https://www.lds.org/scriptures/ot/1-sam/17.49?lang=eng#48).)
+(See [1 Sam. 17:49](/scriptures/ot/1-sam/17.49?lang=eng#48).)
 
 I wonder how many of you young men have ever owned and used a sling. When I
 was a little boy, we made our own slings, and we found our own rocks and we
@@ -279,8 +273,7 @@ flippers, our play balls, and we learned to use them well.
 
 "So David prevailed over the Philistine with a sling and with a stone, and
 smote the Philistine, and slew him; ... there was no sword in the hand of David
-[but only a sling]." ([1 Sam.
-17:50](https://www.lds.org/scriptures/ot/1-sam/17.50?lang=eng#49).)
+[but only a sling]." ([1 Sam. 17:50](/scriptures/ot/1-sam/17.50?lang=eng#49).)
 
 All he used was a little pebble and a sling and inspiration and revelation. He
 had courage, he had strength, he had faith in himself, but especially faith in
@@ -298,8 +291,7 @@ won the battle.
 The king inquired as to who the lad was who had performed such a miraculous
 feat, and then Jonathan gave him his sword, his bow, and his girdle. And the
 scripture says: "And David behaved himself wisely in all ... ways; and the Lord
-was with him." ([1 Sam.
-18:14](https://www.lds.org/scriptures/ot/1-sam/18.14?lang=eng#13).)
+was with him." ([1 Sam. 18:14](/scriptures/ot/1-sam/18.14?lang=eng#13).)
 
 Now, my young brothers, remember that every David has a Goliath to defeat, and
 every Goliath can be defeated. He may not be a bully who fights with fists or
@@ -316,7 +308,7 @@ is your Goliath, he can be slain. But remember, to be the victor, one must
 follow the path that David followed:
 
 "David behaved himself wisely in all his ways; and the Lord was with him." ([1
-Sam. 18:14](https://www.lds.org/scriptures/ot/1-sam/18.14?lang=eng#13).)
+Sam. 18:14](/scriptures/ot/1-sam/18.14?lang=eng#13).)
 
 David had integrity and kept his father's sheep. David did not leave his sheep
 without a caretaker when he filled another assignment from his father.
@@ -330,7 +322,7 @@ as he had the confidence of his Lord. He taunted the Philistine giant, saying,
 "You come to me with a sword, and with a spear, and with a shield, with a coat
 of mail, with an armor bearer: But I come to you in the name of the Lord of
 Hosts, the God of the armies of Israel, whom thou hast defied." (See [1 Sam.
-17:45](https://www.lds.org/scriptures/ot/1-sam/17.45?lang=eng#44).)
+17:45](/scriptures/ot/1-sam/17.45?lang=eng#44).)
 
 Sometime ago I tore an advertisement from a current magazine. This is what it
 said:
@@ -348,9 +340,8 @@ One obsession of this Church and all its members is missionary work, about
 which you have heard from Brother Tuttle this night. The Lord told his
 apostles, as you will see in the beautiful picture over in the Church Office
 Building, to go into all the world and preach the gospel to every creature.
-(See [Matt.
-28:19-20](https://www.lds.org/scriptures/nt/matt/28.19-20?lang=eng#18).) May
-we remind you young men again, your responsibility is to respond to that call.
+(See [Matt. 28:19-20](/scriptures/nt/matt/28.19-20?lang=eng#18).) May we
+remind you young men again, your responsibility is to respond to that call.
 And if you receive a call from the Lord through your bishop and stake
 presidency, it is your privilege, but also your obligation, to fill that
 calling expertly. And since you will now establish your goal to fill a
@@ -507,8 +498,7 @@ Will you remember the scripture from Mormon:
 "Be wise in the days of your probation; strip yourselves of all uncleanness;
 ask not, that ye may consume it on your lusts, but ask with a firmness
 unshaken, that ye will yield to no temptation, but that ye will serve the true
-and living God." ([Morm.
-9:28](https://www.lds.org/scriptures/bofm/morm/9.28?lang=eng#27).)
+and living God." ([Morm. 9:28](/scriptures/bofm/morm/9.28?lang=eng#27).)
 
 Perhaps these lines from Henry Van Dyke may be of interest to you:
 
@@ -536,7 +526,9 @@ May God bless you, our beloved young men. I know your Heavenly Father is your
 true friend. Everything he asks you to do is right and will bring blessings to
 you and make you manly and strong. "And David behaved himself ... in all his
 ways; and the Lord was with him." ([1 Sam.
-18:14](https://www.lds.org/scriptures/ot/1-sam/18.14?lang=eng#13).)
+18:14](/scriptures/ot/1-sam/18.14?lang=eng#13).)
 
 May God bless you, I pray, in the name of Jesus Christ. Amen.
+
+## References
 

@@ -1,4 +1,4 @@
-# Come: Let Israel Build Zion
+# Come:Let Israel Build Zion
 
 We are in the midst of a period of change and realignment where one of the
 basic doctrines of the Restoration is concerned.
@@ -34,12 +34,11 @@ sheep of Israel and inviting them to come "to the mountain of the Lord, to the
 house of the God of Jacob," so they might be taught in his ways, and walk in
 his paths, preparatory to the great day when "out of Zion shall go forth the
 law, and the word of the Lord from Jerusalem." ([Isa.
-2:3](https://www.lds.org/scriptures/ot/isa/2.3?lang=eng#2).) Many of the house
-of Ephraim have been gathered and in due course those of the other tribes will
-come to receive their blessings, "and be crowned with glory, even in Zion, by
-the hands of the servants of the Lord, even the children of Ephraim."
-([D&amp;C 133:32](https://www.lds.org/scriptures/dc-
-testament/dc/133.32?lang=eng#31).)
+2:3](/scriptures/ot/isa/2.3?lang=eng#2).) Many of the house of Ephraim have
+been gathered and in due course those of the other tribes will come to receive
+their blessings, "and be crowned with glory, even in Zion, by the hands of the
+servants of the Lord, even the children of Ephraim." ([D&amp;C
+133:32](/scriptures/dc-testament/dc/133.32?lang=eng#31).)
 
 Now, if those of us who have been gathered again into the sheepfold of Israel
 are to play the part assigned us in the Lord's eternal drama concerning his
@@ -77,10 +76,10 @@ meaning the period or time in the earth's history when that which once was
 shall be restored in all its original glory and perfection. He says the things
 to be restored include "all things, which God hath spoken by the mouth of all
 his holy prophets since the world began." ([Acts
-3:21](https://www.lds.org/scriptures/nt/acts/3.21?lang=eng#20).) And there are
-few things of which Israel's prophets have spoken with more fervor and zeal
-than the latter-day gathering of the house of Jacob and the part that favored
-people will play in the building of Zion again on earth.
+3:21](/scriptures/nt/acts/3.21?lang=eng#20).) And there are few things of
+which Israel's prophets have spoken with more fervor and zeal than the latter-
+day gathering of the house of Jacob and the part that favored people will play
+in the building of Zion again on earth.
 
 Many things have already been restored, and many things are yet to be
 restored. Israel has been gathered in part, but in many respects the greatest
@@ -125,7 +124,7 @@ years ago, the Lord sent a message to us. The holy man of old who spake as he
 was moved upon by the Holy Ghost said these words: "This shall be written for
 the generation to come"; it is sent to "the people which shall be created," to
 a people who "shall praise the Lord." ([Ps.
-102:18](https://www.lds.org/scriptures/ot/ps/102.18?lang=eng#17).)
+102:18](/scriptures/ot/ps/102.18?lang=eng#17).)
 
 We are that people, a people who once again receive revelation, a people to
 whom God has given anew the fulness of his everlasting gospel, in consequence
@@ -134,7 +133,7 @@ of which we praise his holy name forever.
 The message which has come to us is that the Lord will "have mercy upon Zion:
 for the time to favour her, yea, the set time, is come." The message is that
 "when the Lord shall build up Zion, he shall appear in his glory." ([Ps.
-102:13, 16](https://www.lds.org/scriptures/ot/ps/102.13%2C16?lang=eng#12).)
+102:13, 16](/scriptures/ot/ps/102.13,16?lang=eng#12).)
 
 Now, if I may be properly guided by the power of the Spirit--a thing which I
 devoutly desire--I shall speak of the manner in which the Lord will build up
@@ -164,7 +163,7 @@ Truly the scripture saith, "The Lord loveth the gates of Zion more than all
 the dwellings of Jacob. Glorious things are spoken of thee, O city of God. ...
 And of Zion it shall be said, This and that man was born in her: and the
 highest himself shall establish her." ([Ps. 87:2-3,
-5](https://www.lds.org/scriptures/ot/ps/87.2-3%2C5?lang=eng#1).)
+5](/scriptures/ot/ps/87.2-3,5?lang=eng#1).)
 
 Zion has been established many times among men. From the day of Adam to the
 present moment--whenever the Lord has had a people of his own; whenever there
@@ -180,29 +179,29 @@ the earth by water.
 
 Enoch, however, was faithful. He "saw the Lord," and talked with him "face to
 face" as one man speaks with another. ([Moses
-7:4](https://www.lds.org/scriptures/pgp/moses/7.4?lang=eng#3).) The Lord sent
-him to cry repentance to the world, and commissioned him to "baptize in the
-name of the Father and of the Son, which is full of grace and truth, and of
-the Holy Ghost, which beareth record of the Father and the Son." ([Moses
-7:11](https://www.lds.org/scriptures/pgp/moses/7.11?lang=eng#10).) Enoch made
-converts and assembled a congregation of true believers, all of whom became so
-faithful that "the Lord came and dwelt with his people, and they dwelt in
+7:4](/scriptures/pgp/moses/7.4?lang=eng#3).) The Lord sent him to cry
+repentance to the world, and commissioned him to "baptize in the name of the
+Father and of the Son, which is full of grace and truth, and of the Holy
+Ghost, which beareth record of the Father and the Son." ([Moses
+7:11](/scriptures/pgp/moses/7.11?lang=eng#10).) Enoch made converts and
+assembled a congregation of true believers, all of whom became so faithful
+that "the Lord came and dwelt with his people, and they dwelt in
 righteousness," and were blessed from on high. "And the Lord called his people
 Zion, because they were of one heart and one mind, and dwelt in righteousness;
 and there was no poor among them." ([Moses
-7:18](https://www.lds.org/scriptures/pgp/moses/7.18?lang=eng#17).)
+7:18](/scriptures/pgp/moses/7.18?lang=eng#17).)
 
 Please note: Zion is people; Zion is the saints of God; Zion is those who have
 been baptized; Zion is those who have received the Holy Ghost; Zion is those
 who keep the commandments; Zion is the righteous; or in other words, as our
 revelation recites: "This is Zion--the pure in heart." ([D&amp;C
-97:21](https://www.lds.org/scriptures/dc-testament/dc/97.21?lang=eng#20).)
+97:21](/scriptures/dc-testament/dc/97.21?lang=eng#20).)
 
 After the Lord called his people Zion, the scripture says that Enoch "built a
 city that was called the City of Holiness, even ZION"; that Zion "was taken up
 into heaven" where "God received it up into his own bosom"; and that "from
 thence went forth the saying, Zion is fled." ([Moses 7:19, 21,
-69](https://www.lds.org/scriptures/pgp/moses/7.19%2C21%2C69?lang=eng#18).)
+69](/scriptures/pgp/moses/7.19,21,69?lang=eng#18).)
 
 After the Lord's people were translated--for it was people who were caught up
 into heaven, not brick and mortar and stone, for there are better homes
@@ -210,12 +209,12 @@ already in heaven than men can build on earth--after these righteous saints
 went to dwell beyond the veil, others, being converted and desiring
 righteousness, looked for a city which hath foundation, whose builder and
 maker is God, and they too "were caught up by the powers of heaven into Zion."
-([Moses 7:27](https://www.lds.org/scriptures/pgp/moses/7.27?lang=eng#26).)
+([Moses 7:27](/scriptures/pgp/moses/7.27?lang=eng#26).)
 
 This same Zion which was taken up into heaven shall return during the
 Millennium, when the Lord brings again Zion; and its inhabitants shall join
 with the New Jerusalem which shall then be established. (See [Moses
-7:62-63](https://www.lds.org/scriptures/pgp/moses/7.62-63?lang=eng#61).)
+7:62-63](/scriptures/pgp/moses/7.62-63?lang=eng#61).)
 
 That many of these truths about Zion were known and taught in ancient Israel
 is clear from the many references in Isaiah and the Psalms and elsewhere.
@@ -229,10 +228,10 @@ a true knowledge of the Redeemer, and coming back into the true fold of the
 Good Shepherd. In the language of the Book of Mormon, it consists of being
 "restored to the true church and fold of God," and then being "gathered" and
 "established" in various "lands of promise." ([2 Ne.
-9:2](https://www.lds.org/scriptures/bofm/2-ne/9.2?lang=eng#1).) "When they
-shall come to the knowledge of their Redeemer, they shall be gathered together
-again to the lands of their inheritance." ([2 Ne.
-6:11](https://www.lds.org/scriptures/bofm/2-ne/6.11?lang=eng#10).)
+9:2](/scriptures/bofm/2-ne/9.2?lang=eng#1).) "When they shall come to the
+knowledge of their Redeemer, they shall be gathered together again to the
+lands of their inheritance." ([2 Ne.
+6:11](/scriptures/bofm/2-ne/6.11?lang=eng#10).)
 
 Two things are accomplished by the gathering of Israel: First, those who have
 thus chosen Christ as their Shepherd; those who have taken upon themselves his
@@ -264,7 +263,7 @@ found "upon all the face of the earth." Also: "The saints of the church of the
 Lamb and ... the covenant people of the Lord"--scattered as they are "upon all
 the face of the earth"--shall be "armed with righteousness and with the power
 of God in great glory." ([1 Ne. 14:12,
-14](https://www.lds.org/scriptures/bofm/1-ne/14.12%2C14?lang=eng#11).)
+14](/scriptures/bofm/1-ne/14.12,14?lang=eng#11).)
 
 We are living in a new day. The Church of Jesus Christ of Latter-day Saints is
 fast becoming a worldwide church. Congregations of Saints are now, or soon
@@ -290,8 +289,7 @@ as such are established in their nations.
 Isaiah prophesied that the Lord "shall cause them that come of Jacob to take
 root; Israel shall blossom and bud, and fill the face of the world with
 fruit." The Lord's promise is: "Ye shall be gathered one by one, O ye children
-of Israel." ([Isa. 27:6,
-12](https://www.lds.org/scriptures/ot/isa/27.6%2C12?lang=eng#5).)
+of Israel." ([Isa. 27:6, 12](/scriptures/ot/isa/27.6,12?lang=eng#5).)
 
 That is to say--Israel shall be gathered one by one, family by family, unto
 the stakes of Zion established in all parts of the earth so that the whole
@@ -331,13 +329,13 @@ whither he hath scattered them.
 Our Article of Faith says "that Christ will reign personally upon the earth;
 and, that the earth will be renewed and receive its paradisiacal glory." This
 also is future, a day which we devoutly desire and seek. ([A of F
-1:10](https://www.lds.org/scriptures/pgp/a-of-f/1.10?lang=eng#9))
+1:10](/scriptures/pgp/a-of-f/1.10?lang=eng#9))
 
 Each one of us can build up Zion in our own lives by being pure in heart. And
 the promise is, "Blessed are the pure in heart: for they shall see God."
-([Matt. 5:8](https://www.lds.org/scriptures/nt/matt/5.8?lang=eng#7).) Each one
-of us can extend the borders of Zion by gathering our friends and neighbors
-into the fold of Israel.
+([Matt. 5:8](/scriptures/nt/matt/5.8?lang=eng#7).) Each one of us can extend
+the borders of Zion by gathering our friends and neighbors into the fold of
+Israel.
 
 These things of which we speak are part of a great plan and program of the
 Lord. He has known the end from the beginning. He has ordained and established
@@ -368,4 +366,6 @@ grant us the zeal and good sense to go forth on his errand living the gospel
 ourselves and saving our own souls, and offering these glorious principles of
 salvation to his other children. This is the Lord's work. It is true, and I so
 testify in the name of the Lord Jesus Christ. Amen.
+
+## References
 

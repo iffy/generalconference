@@ -19,7 +19,7 @@ journey was over. I could scarcely believe that I was alive.
 
 "The scene that I saw that morning seems to be photographed on my mind. Most
 of the incidents are gone from memory, but I can always see the camp near
-Johnson's Ranch." [1]
+Johnson's Ranch."[1]
 
 At first I was very puzzled by his statement that "most of the incidents are
 gone from memory." How could long months of incredible suffering and sorrow
@@ -34,22 +34,22 @@ of forgiveness.
 When morning came, they learned this:
 
 "Behold, he who has repented of his sins, the same is forgiven, and I, the
-Lord, remember them no more." [2]
+Lord, remember them no more."[2]
 
 "I, _even_ I, _am_ he that blotteth out thy transgressions for mine own sake,
-and will not remember thy sins." [3]
+and will not remember thy sins."[3]
 
-"I will forgive their iniquity, and I will remember their sin no more." [4]
+"I will forgive their iniquity, and I will remember their sin no more."[4]
 
 "For I will be merciful to their unrighteousness, and their sins and their
-iniquities will I remember no more." [5]
+iniquities will I remember no more."[5]
 
 When the prophet Alma was young, he spent such a time _"racked,"_ as he said,
-_"with eternal torment,_ [his] soul ... _harrowed up to the greatest degree."_
-[6]
+_"with eternal torment,_ [his] soul ... _harrowed up to the greatest
+degree."_[6]
 
 He even thought, _"Oh, ... that I could be banished and become extinct both soul
-and body."_ [7]
+and body."_[7]
 
 But his mind caught hold of a thought. When he nurtured the thought and acted
 upon it, the morning of forgiveness came, and he said:
@@ -58,7 +58,7 @@ upon it, the morning of forgiveness came, and he said:
 sins no more.
 
 "And oh, what joy, and what marvelous light I did behold; yea, my soul was
-filled with joy as exceeding as was my pain!" [8]
+filled with joy as exceeding as was my pain!"[8]
 
 Letters come from those who have made tragic mistakes. They ask, "Can I _ever_
 be forgiven?"
@@ -72,11 +72,11 @@ offense exempted from the promise of complete forgiveness.
 
 "Come now, and let us reason together, saith the Lord: though your sins be as
 scarlet, they shall be as white as snow; though they be red like crimson, they
-shall be as wool." That is, Isaiah continued, "if ye be willing and obedient."
-[9]
+shall be as wool." That is, Isaiah continued, "if ye be willing and
+obedient."[9]
 
 Even that grace of God promised in the scriptures comes only "after all we can
-do." [10]
+do."[10]
 
 You may tell yourself that your transgressions are not spiritually illegal.
 That will not work; neither will rebellion, nor anger, nor joking about them.
@@ -93,18 +93,18 @@ with rescuers.
 
 When an offense is minor, so simple a thing as an apology will satisfy the
 law. Most mistakes can be settled between us and the Lord, and that should be
-done speedily. [11]  It requires a confession to Him, and whatever obvious
+done speedily.[11] It requires a confession to Him, and whatever obvious
 repairs need to be made.
 
 With sincere repentance as a pattern in our lives, measured by our willingness
-to "confess them and forsake them," [12]  the Lord has promised that we may
-"always _retain_ a remission of [our] sins." [13]
+to "confess them and forsake them,"[12] the Lord has promised that we may
+"always _retain_ a remission of [our] sins."[13]
 
 Alma bluntly told his wayward son that "repentance could not come unto men
-except there were a punishment." [14]
+except there were a punishment."[14]
 
 The punishment may, for the most part, consist of the torment we inflict upon
-ourselves. It may be the loss of privilege or progress. [15]  (For further
+ourselves. It may be the loss of privilege or progress.[15] (For further
 information, see additional text in this endnote.) We are punished _by_ our
 sins, if not _for_ them.
 
@@ -135,9 +135,9 @@ The thought that rescued Alma, when he acted upon it, is this: Restoring what
 you cannot restore, healing the wound you cannot heal, fixing that which you
 broke and you cannot fix is the very purpose of the atonement of Christ.
 
-When your desire is firm and you are willing to pay the "uttermost farthing,"
-[16]  the law of restitution is suspended. Your obligation is transferred to
-the Lord. He will settle your accounts.
+When your desire is firm and you are willing to pay the "uttermost
+farthing,"[16] the law of restitution is suspended. Your obligation is
+transferred to the Lord. He will settle your accounts.
 
 I repeat, save for the exception of the very few who defect to perdition,
 there is no habit, no addiction, no rebellion, no transgression, no apostasy,
@@ -146,7 +146,7 @@ promise of the atonement of Christ.
 
 How all can be repaired, we do not know. It may not all be accomplished in
 this life. We know from visions and visitations that the servants of the Lord
-continue the work of redemption beyond the veil. [17]
+continue the work of redemption beyond the veil.[17]
 
 This knowledge should be as comforting to the innocent as it is to the guilty.
 I am thinking of parents who suffer unbearably for the mistakes of their
@@ -165,13 +165,13 @@ violation of that which the Lord requires of Latter-day Saints.
 
 If we, out of sympathy, should approve unworthy conduct, it might give present
 comfort to someone but would not ultimately contribute to that person's
-happiness. [18]
+happiness.[18]
 
 In the most tender of sermons in the revelations on kindness and long-
 suffering, on meekness, gentleness, on love unfeigned, the Lord instructs us
 to reprove "betimes with sharpness, when moved upon by the Holy Ghost; and
 then [show] forth afterwards an increase of love toward him whom thou hast
-reproved." [19]
+reproved."[19]
 
 The Lord provides ways to pay our debts to Him. In one sense we ourselves may
 participate in an atonement. When we are willing to restore to others that
@@ -195,8 +195,8 @@ yourself. Discouragement is part of that test. Do not give up. That brilliant
 morning will come.
 
 Then "the peace of God, which passeth ... understanding" comes into your life
-once again. [20]  Then you, like Him, will remember your sins no more. How
-will you know? You will know! [21]
+once again.[20] Then you, like Him, will remember your sins no more. How will
+you know? You will know![21]
 
 Some years ago I was in Washington, D.C., with President Harold B. Lee. Early
 one morning he called me to come into his hotel room. He was sitting in his
@@ -211,11 +211,11 @@ daughter of our father Adam that have been or ever will be born upon this
 earth to the end of time, except the sons of perdition. That is his mission.
 We will not finish _our_ work until we have saved ourselves, and then not
 until we shall have saved all depending upon us; for we are to become saviors
-upon Mount Zion, as well as Christ. We are called to this mission.'" [22]
+upon Mount Zion, as well as Christ. We are called to this mission.'"[22]
 
 "There is never a time," the Prophet Joseph Smith taught, "when the spirit is
 too old to approach God. _All are within the reach of pardoning mercy, who
-have not committed the unpardonable sin._" [23]
+have not committed the unpardonable sin._"[23]
 
 And so we pray, and we fast, and we plead, and we implore. We love those who
 wander, and we never give up hope.
@@ -223,56 +223,56 @@ wander, and we never give up hope.
 I bear witness of Christ and of the power of His atonement. And I know that
 "his anger kindleth against the wicked; they repent, and in a moment it is
 turned away, and they are in his favor, and he giveth them life; therefore,
-weeping may endure for a night, but joy cometh in the morning." [24]  In the
+weeping may endure for a night, but joy cometh in the morning."[24] In the
 name of Jesus Christ, amen.
 
 ## References
 
-  1.  John Breen, "Pioneer Memoirs," unpublished, as quoted on "The Americanization of Utah," PBS television broadcast.
+  1. John Breen, "Pioneer Memoirs," unpublished, as quoted on "The Americanization of Utah," PBS television broadcast.
 
-  2.   [D&amp;C 58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41).
+  2. [D&amp;C 58:42](https://www.lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41).
 
-  3.   [Isa. 43:25](https://www.lds.org/scriptures/ot/isa/43.25?lang=eng#24); emphasis added.
+  3. [Isa. 43:25](https://www.lds.org/scriptures/ot/isa/43.25?lang=eng#24); emphasis added.
 
-  4.   [Jer. 31:34](https://www.lds.org/scriptures/ot/jer/31.34?lang=eng#33).
+  4. [Jer. 31:34](https://www.lds.org/scriptures/ot/jer/31.34?lang=eng#33).
 
-  5.   [Heb. 8:12](https://www.lds.org/scriptures/nt/heb/8.12?lang=eng#11); see also [Heb. 10:17](https://www.lds.org/scriptures/nt/heb/10.17?lang=eng#16).
+  5. [Heb. 8:12](https://www.lds.org/scriptures/nt/heb/8.12?lang=eng#11); see also [Heb. 10:17](https://www.lds.org/scriptures/nt/heb/10.17?lang=eng#16).
 
-  6.   [Alma 36:12](https://www.lds.org/scriptures/bofm/alma/36.12?lang=eng#11); emphasis added.
+  6. [Alma 36:12](https://www.lds.org/scriptures/bofm/alma/36.12?lang=eng#11); emphasis added.
 
-  7.   [Alma 36:15](https://www.lds.org/scriptures/bofm/alma/36.15?lang=eng#14); emphasis added.
+  7. [Alma 36:15](https://www.lds.org/scriptures/bofm/alma/36.15?lang=eng#14); emphasis added.
 
-  8.   [Alma 36:19-20](https://www.lds.org/scriptures/bofm/alma/36.19-20?lang=eng#18).
+  8. [Alma 36:19-20](https://www.lds.org/scriptures/bofm/alma/36.19-20?lang=eng#18).
 
-  9.   [Isa. 1:18-19](https://www.lds.org/scriptures/ot/isa/1.18-19?lang=eng#17).
+  9. [Isa. 1:18-19](https://www.lds.org/scriptures/ot/isa/1.18-19?lang=eng#17).
 
-  10.   [2 Ne. 25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22).
+  10. [2 Ne. 25:23](https://www.lds.org/scriptures/bofm/2-ne/25.23?lang=eng#22).
 
-  11.  See [D&amp;C 109:21](https://www.lds.org/scriptures/dc-testament/dc/109.21?lang=eng#20).
+  11. See [D&amp;C 109:21](https://www.lds.org/scriptures/dc-testament/dc/109.21?lang=eng#20).
 
-  12.   [D&amp;C 58:43](https://www.lds.org/scriptures/dc-testament/dc/58.43?lang=eng#42); see also [Ezek. 18:21-24, 31-32](https://www.lds.org/scriptures/ot/ezek/18.21-24%2C31-32?lang=eng#20).
+  12. [D&amp;C 58:43](https://www.lds.org/scriptures/dc-testament/dc/58.43?lang=eng#42); see also [Ezek. 18:21-24, 31-32](https://www.lds.org/scriptures/ot/ezek/18.21-24,31-32?lang=eng#20).
 
-  13.   [Mosiah 4:12](https://www.lds.org/scriptures/bofm/mosiah/4.12?lang=eng#11); emphasis added.
+  13. [Mosiah 4:12](https://www.lds.org/scriptures/bofm/mosiah/4.12?lang=eng#11); emphasis added.
 
-  14.   [Alma 42:16](https://www.lds.org/scriptures/bofm/alma/42.16?lang=eng#15).
+  14. [Alma 42:16](https://www.lds.org/scriptures/bofm/alma/42.16?lang=eng#15).
 
-  15.  Forgiveness will come eventually to all repentant souls who have not committed the unpardonable sin (see [Matt. 12:31](https://www.lds.org/scriptures/nt/matt/12.31?lang=eng#30)). Forgiveness does not, however, necessarily assure exaltation, as is the case with David (see [D&amp;C 132:38-39](https://www.lds.org/scriptures/dc-testament/dc/132.38-39?lang=eng#37); see also [Ps. 16:10](https://www.lds.org/scriptures/ot/ps/16.10?lang=eng#9); [Acts 2:25-27](https://www.lds.org/scriptures/nt/acts/2.25-27?lang=eng#24); _Teachings of the Prophet Joseph Smith,_ p. 339).
+  15. Forgiveness will come eventually to all repentant souls who have not committed the unpardonable sin (see [Matt. 12:31](https://www.lds.org/scriptures/nt/matt/12.31?lang=eng#30)). Forgiveness does not, however, necessarily assure exaltation, as is the case with David (see [D&amp;C 132:38-39](https://www.lds.org/scriptures/dc-testament/dc/132.38-39?lang=eng#37); see also [Ps. 16:10](https://www.lds.org/scriptures/ot/ps/16.10?lang=eng#9); [Acts 2:25-27](https://www.lds.org/scriptures/nt/acts/2.25-27?lang=eng#24); _Teachings of the Prophet Joseph Smith,_ p. 339).
 
-  16.  See [Matt. 5:25-26](https://www.lds.org/scriptures/nt/matt/5.25-26?lang=eng#24).
+  16. See [Matt. 5:25-26](https://www.lds.org/scriptures/nt/matt/5.25-26?lang=eng#24).
 
-  17.  See [D&amp;C 138](https://www.lds.org/scriptures/dc-testament/dc/138.title?lang=eng).
+  17. See [D&amp;C 138](https://www.lds.org/scriptures/dc-testament/dc/138?lang=eng).
 
-  18.  See _Teachings of the Prophet Joseph Smith,_ pp. 256-57.
+  18. See _Teachings of the Prophet Joseph Smith,_ pp. 256-57.
 
-  19.   [D&amp;C 121:43](https://www.lds.org/scriptures/dc-testament/dc/121.43?lang=eng#42).
+  19. [D&amp;C 121:43](https://www.lds.org/scriptures/dc-testament/dc/121.43?lang=eng#42).
 
-  20.   [Philip. 4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).
+  20. [Philip. 4:7](https://www.lds.org/scriptures/nt/philip/4.7?lang=eng#6).
 
-  21.  See [Mosiah 4:1-3](https://www.lds.org/scriptures/bofm/mosiah/4.1-3?lang=eng#0).
+  21. See [Mosiah 4:1-3](https://www.lds.org/scriptures/bofm/mosiah/4.1-3?lang=eng#0).
 
-  22.  Joseph F. Smith, _Gospel Doctrine,_ 5th ed. Salt Lake City: Deseret Book Co., 1939, p. 442; emphasis added.
+  22. Joseph F. Smith, _Gospel Doctrine,_ 5th ed. Salt Lake City: Deseret Book Co., 1939, p. 442; emphasis added.
 
-  23.   _Teachings of the Prophet Joseph Smith,_ p. 191; emphasis added.
+  23. _Teachings of the Prophet Joseph Smith,_ p. 191; emphasis added.
 
-  24.  JST, Ps. 30:5; see also [D&amp;C 61:20](https://www.lds.org/scriptures/dc-testament/dc/61.20?lang=eng#19).
+  24. JST, Ps. 30:5; see also [D&amp;C 61:20](https://www.lds.org/scriptures/dc-testament/dc/61.20?lang=eng#19).
 

@@ -65,7 +65,7 @@ myself the luxury of slowing down or quitting."
 The greatest teacher and leader also showed the world an example of proper
 conduct when He was the victim of unkind words and cruel deeds. He simply
 said, "Father, forgive them; for they know not what they do" ([Luke
-23:34](https://www.lds.org/scriptures/nt/luke/23.34?lang=eng#33)).
+23:34](/scriptures/nt/luke/23.34?lang=eng#33)).
 
 During his earthly mission Jesus made every confrontation a learning
 experience, including those that would be destructive or cause hurt and
@@ -178,12 +178,11 @@ are afraid of failure or rejection. We won't accept opportunities for service
 in the Church or in the community because we might make a mistake.
 
 "For God hath not given us the spirit of fear; but of power, and of love, and
-of a sound mind" ([2 Tim.
-1:7](https://www.lds.org/scriptures/nt/2-tim/1.7?lang=eng#6)). What a tragedy
-it is in our lives when we are afraid to try, afraid to make decisions, afraid
-to trust the Lord, or even afraid to make an error in judgment. Oh, that we
-could remember the great teaching of the Savior to Peter when fear caused him
-to fail to walk and to even sink.
+of a sound mind" ([2 Tim. 1:7](/scriptures/nt/2-tim/1.7?lang=eng#6)). What a
+tragedy it is in our lives when we are afraid to try, afraid to make
+decisions, afraid to trust the Lord, or even afraid to make an error in
+judgment. Oh, that we could remember the great teaching of the Savior to Peter
+when fear caused him to fail to walk and to even sink.
 
 "But the ship was now in the midst of the sea, tossed with waves: for the wind
 was contrary.
@@ -208,7 +207,7 @@ cried, saying, Lord, save me.
 
 "And immediately Jesus stretched forth his hand, and caught him, and said unto
 him, O thou of little faith, wherefore didst thou doubt?" ([Matt.
-14:24-31](https://www.lds.org/scriptures/nt/matt/14.24-31?lang=eng#23).)
+14:24-31](/scriptures/nt/matt/14.24-31?lang=eng#23).)
 
 Fears in our lives can be conquered if we will but have faith and move forward
 with purpose.
@@ -226,4 +225,6 @@ know that with God's help nothing is impossible for us.
 May we strive for that day and knowledge, I humbly pray. God does live. He
 does hear and answer our prayers. To these truths I leave my testimony and
 witness. In the name of Jesus Christ, amen.
+
+## References
 

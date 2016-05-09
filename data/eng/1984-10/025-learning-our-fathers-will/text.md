@@ -11,14 +11,13 @@ benign agreement. Suddenly he interrupted our conversation by stating, "You
 teach one belief with which I could never agree. It is your idea that 'as God
 is, man may become.'" (See _History of the Church,_ 6:302-17.) He held a well-
 worn white Bible in his hand. I asked him to turn to Matthew 5:48 [[Matt.
-5:48](https://www.lds.org/scriptures/nt/matt/5.48?lang=eng#47)]. His nimble
-fingers quickly turned to that reference, and he read, "Be ye therefore
-perfect, even as your Father which is in heaven is perfect."
+5:48](/scriptures/nt/matt/5.48?lang=eng#47)]. His nimble fingers quickly
+turned to that reference, and he read, "Be ye therefore perfect, even as your
+Father which is in heaven is perfect."
 
 He gasped and then hesitatingly agreed to man's great potential. We read other
 scriptures, such as: "And God said, Let us make man in our image, after our
-likeness." ([Gen.
-1:26](https://www.lds.org/scriptures/ot/gen/1.26?lang=eng#25).) He understood,
+likeness." ([Gen. 1:26](/scriptures/ot/gen/1.26?lang=eng#25).) He understood,
 and found a new respect for our teachings. He left a wiser man, and I felt a
 renewed gratitude for the inspiring truths that we understand and teach.
 
@@ -39,63 +38,60 @@ when we forget the importance of God's word as our unwavering guide.
 A friend asked me several months ago why so many problems have been plaguing a
 number of the members of the Church recently. I hesitatingly answered, "Well,
 the last days are surely approaching when even the elect shall be deceived."
-(See [Matt. 24:24](https://www.lds.org/scriptures/nt/matt/24.24?lang=eng#23).)
-He looked at me momentarily and said, "Well, perhaps that might be a little of
-it, but I believe the real reason that so many are wandering on strange paths
-is because they do not follow prophetic counsel to study the scriptures and
-attend the classes in Church."
+(See [Matt. 24:24](/scriptures/nt/matt/24.24?lang=eng#23).) He looked at me
+momentarily and said, "Well, perhaps that might be a little of it, but I
+believe the real reason that so many are wandering on strange paths is because
+they do not follow prophetic counsel to study the scriptures and attend the
+classes in Church."
 
 I have thought of that conversation many times.
 
 Would a person languish in self-pity and guilt if he understood the teachings
 of Jesus: "In my Father's house are many mansions. ... I go to prepare a place
-for you." ([John
-14:2](https://www.lds.org/scriptures/nt/john/14.2?lang=eng#1).) Also, the
+for you." ([John 14:2](/scriptures/nt/john/14.2?lang=eng#1).) Also, the
 episode when the Master asked those without sin to cast the first stone at the
 woman caught in adultery and then, when they left, asked her, "Woman, where
 are ... thine accusers? hath no man condemned thee? ... Neither do I condemn thee:
 go, and sin no more." ([John
-8:10-11](https://www.lds.org/scriptures/nt/john/8.10-11?lang=eng#9).)
+8:10-11](/scriptures/nt/john/8.10-11?lang=eng#9).)
 
 Or how could an individual defraud his customers, employer, or employees if he
 understood thoroughly Paul's words: "But evil men and seducers shall wax worse
 and worse, deceiving, and being deceived." ([2 Tim.
-3:13](https://www.lds.org/scriptures/nt/2-tim/3.13?lang=eng#12).) Such an
-individual would know that his life will progressively become more injured and
-that he will lose the spirit of discernment.
+3:13](/scriptures/nt/2-tim/3.13?lang=eng#12).) Such an individual would know
+that his life will progressively become more injured and that he will lose the
+spirit of discernment.
 
 How could anyone claim that we are not Christian people if they had even a
 minimal understanding of the original Church as described in the New
 Testament, with baptism for the dead (see [1 Cor.
-15:29](https://www.lds.org/scriptures/nt/1-cor/15.29?lang=eng#28)), the
-Melchizedek Priesthood (see [Heb. 5:6,
-10](https://www.lds.org/scriptures/nt/heb/5.6%2C10?lang=eng#5)), Apostles,
+15:29](/scriptures/nt/1-cor/15.29?lang=eng#28)), the Melchizedek Priesthood
+(see [Heb. 5:6, 10](/scriptures/nt/heb/5.6,10?lang=eng#5)), Apostles,
 prophets, evangelists, and teachers. (see [Eph.
-4:11](https://www.lds.org/scriptures/nt/eph/4.11?lang=eng#10).)
+4:11](/scriptures/nt/eph/4.11?lang=eng#10).)
 
 Or how could an individual commit the heinous crime of child abuse if he or
 she remembered the protecting words of Jesus when he taught, "But whoso shall
 offend one of these little ones which believe in me, it were better for him
 that a millstone were hanged about his neck, and that he were drowned in the
-depth of the sea." ([Matt.
-18:6](https://www.lds.org/scriptures/nt/matt/18.6?lang=eng#5).)
+depth of the sea." ([Matt. 18:6](/scriptures/nt/matt/18.6?lang=eng#5).)
 
 Or would it be possible for a person to be caught in the subtle humanist
 philosophy that appears to be spreading everywhere if he thoroughly understood
 these words of Nephi: "Cursed is he that putteth his trust in man, or maketh
 flesh his arm, or shall hearken unto the precepts of men, save their precepts
 shall be given by the power of the Holy Ghost." ([2 Ne.
-28:31](https://www.lds.org/scriptures/bofm/2-ne/28.31?lang=eng#30).)
+28:31](/scriptures/bofm/2-ne/28.31?lang=eng#30).)
 
 Or would our youth show, in some instances, almost wholesale disrespect for
 parents if they had carefully analyzed this verse: "Children, obey your
 parents in all things: for this is well pleasing unto the Lord." ([Col.
-3:20](https://www.lds.org/scriptures/nt/col/3.20?lang=eng#19).)
+3:20](/scriptures/nt/col/3.20?lang=eng#19).)
 
 Likewise, would the parents be more sensitive toward their little ones if they
 understood the concept taught in the very next verse: "Fathers, provoke not
 your children to anger, lest they be discouraged." ([Col.
-3:21](https://www.lds.org/scriptures/nt/col/3.21?lang=eng#20).)
+3:21](/scriptures/nt/col/3.21?lang=eng#20).)
 
 Or would immorality be running rampant if people comprehended those precious
 words found in the first letter to the Corinthians where we learn that a
@@ -103,7 +99,7 @@ person who commits fornication sins against his own body, which is the temple
 of the Holy Ghost, and that our bodies are not our own but have been bought
 through the sacrifice of Jesus. He bought our bodies and our spirits, and they
 belong to God. We surely are to take care of His possessions. (See [1 Cor.
-6:15-20](https://www.lds.org/scriptures/nt/1-cor/6.15-20?lang=eng#14).)
+6:15-20](/scriptures/nt/1-cor/6.15-20?lang=eng#14).)
 
 Or would divorce be used so quickly as a solution to marital differences and
 frustrations if the loving words of our Heavenly Father as recorded in modern-
@@ -112,8 +108,7 @@ all thy heart, and shalt cleave unto her and none else.
 
 "And he that looketh upon a woman to lust after her shall deny the faith, and
 shall not have the Spirit; and if he repents not he shall be cast out."
-([D&amp;C 42:22-23](https://www.lds.org/scriptures/dc-
-testament/dc/42.22-23?lang=eng#21).)
+([D&amp;C 42:22-23](/scriptures/dc-testament/dc/42.22-23?lang=eng#21).)
 
 Too often we forget our teachings and doctrine and, by so doing, err to our
 own injury and those we love the most. Within the teachings of God are found
@@ -192,4 +187,6 @@ May each of us attend our meetings regularly, study and ponder the words of
 God and our prophets diligently, and practice constantly what we have learned.
 These words I leave with you in the name of our King, Redeemer, and Master
 Teacher, Jesus Christ, amen.
+
+## References
 

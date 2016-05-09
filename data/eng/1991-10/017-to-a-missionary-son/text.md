@@ -108,8 +108,7 @@ Spirit;
 
 "And ye are to be taught from on high. Sanctify yourselves and ye shall be
 endowed with power, that ye may give even as I have spoken." ([D&amp;C
-43:15-16](https://www.lds.org/scriptures/dc-
-testament/dc/43.15-16?lang=eng#14).)
+43:15-16](/scriptures/dc-testament/dc/43.15-16?lang=eng#14).)
 
 You will find the Lord to be a man of his word. The promise he extends to you
 as a missionary is true.
@@ -137,7 +136,7 @@ sanctified by the reception of the Holy Ghost, that ye may stand spotless
 before me at the last day.
 
 "Verily, verily, I say unto you, this is my gospel." ([3 Ne.
-27:20-21](https://www.lds.org/scriptures/bofm/3-ne/27.20-21?lang=eng#19).)
+27:20-21](/scriptures/bofm/3-ne/27.20-21?lang=eng#19).)
 
 Bless the lives of others with your priesthood and your presence.
 
@@ -149,4 +148,6 @@ The work in which you are engaged is true. You are teaching the restored
 gospel of Jesus Christ. It is the promise of salvation to all who will listen
 and accept your message. Of this I bear my witness in the name of Jesus
 Christ, amen.
+
+## References
 

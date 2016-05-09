@@ -27,12 +27,11 @@ first estate.
 
 We remember the unembodied spirits who appeared to Jesus in his day who
 preferred the bodies of swine rather than to have no bodies at all. (See
-[Matt. 8:28-32](https://www.lds.org/scriptures/nt/matt/8.28-32?lang=eng#27);
-[Mark 5:11-13](https://www.lds.org/scriptures/nt/mark/5.11-13?lang=eng#10).)
-And I am very sure that if we could go today while we walk by faith and stand
-where we once stood when we walked by sight that we would be willing to crawl
-on our hands and knees through life for this tremendous opportunity which we
-presently enjoy.
+[Matt. 8:28-32](/scriptures/nt/matt/8.28-32?lang=eng#27); [Mark
+5:11-13](/scriptures/nt/mark/5.11-13?lang=eng#10).) And I am very sure that if
+we could go today while we walk by faith and stand where we once stood when we
+walked by sight that we would be willing to crawl on our hands and knees
+through life for this tremendous opportunity which we presently enjoy.
 
 William Wordsworth said that our birth is a sleep and forgetting. There is one
 distinguishing characteristic about the moment of birth in that it is an
@@ -187,4 +186,6 @@ potentialities. And if we live as we should, then on some future Easter
 morning, we may be born again into his presence to live with him in the
 celestial kingdom throughout eternity. And that it may be so with each one of
 us, I humbly pray in the name of Jesus Christ. Amen.
+
+## References
 

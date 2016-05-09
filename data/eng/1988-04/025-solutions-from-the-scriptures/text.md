@@ -32,10 +32,10 @@ to be in conflict. No true scientist will say that we have final, exact
 answers through scientific research; it is an ongoing, learning process. The
 Articles of Faith teach us that the Lord "will yet reveal many great and
 important things pertaining to the Kingdom of God" ([A of F
-1:9](https://www.lds.org/scriptures/pgp/a-of-f/1.9?lang=eng#8)). As members of
-the Lord's church our blessing is to believe all that is true and to
-diligently seek learning "by study and also by faith" ([D&amp;C
-88:118](https://www.lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117)).
+1:9](/scriptures/pgp/a-of-f/1.9?lang=eng#8)). As members of the Lord's church
+our blessing is to believe all that is true and to diligently seek learning
+"by study and also by faith" ([D&amp;C 88:118](/scriptures/dc-
+testament/dc/88.118?lang=eng#117)).
 
 In our assignment in the Philippines, we have found it necessary to go to the
 scriptures for solutions to the challenges accompanying the wonderfully high
@@ -60,11 +60,10 @@ room enough to receive it. ...
 
 "And all nations shall call you blessed, for ye shall be a delightsome land,
 saith the Lord of Hosts" ([3 Ne. 24:8, 10,
-12](https://www.lds.org/scriptures/bofm/3-ne/24.8%2C10%2C12?lang=eng#7)).
+12](/scriptures/bofm/3-ne/24.8,10,12?lang=eng#7)).
 
 The marvelous fulfillment of that promise within three years is described in 4
-Nephi 1:2-5 [[4 Ne.
-1:2-5](https://www.lds.org/scriptures/bofm/4-ne/1.2-5?lang=eng#1)].
+Nephi 1:2-5 [[4 Ne. 1:2-5](/scriptures/bofm/4-ne/1.2-5?lang=eng#1)].
 
 The members of the Church in the Philippines are becoming aware that sacrifice
 precedes the blessing and that they must live the law of tithing and the law
@@ -86,10 +85,10 @@ say, Here I am. ...
 "And the Lord shall guide thee continually, and satisfy thy soul in drought,
 and make fat thy bones: and thou shalt be like a watered garden, and like a
 spring of water, whose waters fail not" ([Isa. 58:6-9,
-11](https://www.lds.org/scriptures/ot/isa/58.6-9%2C11?lang=eng#5)).
+11](/scriptures/ot/isa/58.6-9,11?lang=eng#5)).
 
-[Mosiah 4:26](https://www.lds.org/scriptures/bofm/mosiah/4.26?lang=eng#25)
-reinforces this counsel.
+[Mosiah 4:26](/scriptures/bofm/mosiah/4.26?lang=eng#25) reinforces this
+counsel.
 
 We are finding it very important to follow the advice given by the First
 Presidency--to get back to basics and to practice the new version of the three
@@ -108,11 +107,11 @@ was a need for intense instruction in the Lord's way of doing things. The
 Lord's direction then was to institute the "school of the prophets,
 established for their instruction in all things that are expedient for them,
 even for all the officers of the church, ... even down to the deacons" ([D&amp;C
-88:127](https://www.lds.org/scriptures/dc-testament/dc/88.127?lang=eng#126)).
-The stake priesthood leadership meeting provides a forum for the pretraining
-of potential leaders, to supplement the learning-by-observing method followed
-in established areas of the Church. What a blessing it is to be able to go to
-the scriptures to find the answers to virtually any challenge we face in our
+88:127](/scriptures/dc-testament/dc/88.127?lang=eng#126)). The stake
+priesthood leadership meeting provides a forum for the pretraining of
+potential leaders, to supplement the learning-by-observing method followed in
+established areas of the Church. What a blessing it is to be able to go to the
+scriptures to find the answers to virtually any challenge we face in our
 Church callings.
 
 Let me close by expressing my love and gratitude for goodly parents, to my
@@ -121,4 +120,6 @@ us so well with their prayers and the lives they lead. To them and to you I
 testify that the gospel of Jesus Christ is true, that Jesus lives and loves
 each of us with an unbounded love, and that Ezra Taft Benson is His chosen
 prophet today, in the name of Jesus Christ, amen.
+
+## References
 

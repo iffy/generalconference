@@ -23,12 +23,11 @@ will go where you want me to go, dear Lord, over mountain, or plain, or sea."
 (See _Hymns,_ no. 75.)
 
 Yet another voice is saying, "I will go and do the things which the Lord hath
-commanded." ([1 Ne.
-3:7](https://www.lds.org/scriptures/bofm/1-ne/3.7?lang=eng#6).) Another voice
+commanded." ([1 Ne. 3:7](/scriptures/bofm/1-ne/3.7?lang=eng#6).) Another voice
 saying, "O that I were an angel, and could have the wish of my heart, that I
 might go forth and speak with the trump of God, with a voice that shakes the
 earth, and cry repentance unto every people of the nations." (See [Alma
-29:1](https://www.lds.org/scriptures/bofm/alma/29.1?lang=eng#0).)
+29:1](/scriptures/bofm/alma/29.1?lang=eng#0).)
 
 My dear brothers and sisters, I love--I love our Heavenly Father. I know--I
 know within my whole heart that God lives. I know that there is a living
@@ -36,4 +35,6 @@ prophet of God today, even Spencer W. Kimball. I love him. I will support him
 with all my heart. The Book of Mormon is true, the true word of God. Brothers
 and sisters, I leave you my testimony. I humbly do this in the name of the
 Lord Jesus Christ. Amen.
+
+## References
 

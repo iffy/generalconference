@@ -33,13 +33,14 @@ household of faith, those who love and seek the Lord.
 
 What a glorious thing it is to have the saving truths of the everlasting
 gospel, to be members of "the only true and living church upon the face of the
-whole earth" ([D&amp;C 1:30](https://www.lds.org/scriptures/dc-
-testament/dc/1.30?lang=eng#29)), to be on the path leading to eternal life in
-our Father's kingdom!
+whole earth" ([D&amp;C 1:30](/scriptures/dc-testament/dc/1.30?lang=eng#29)),
+to be on the path leading to eternal life in our Father's kingdom!
 
 O God our Heavenly and Eternal Father, look down in love and in mercy upon
 this thy church and upon the members of the church who keep thy commandments.
 Let thy Spirit dwell in our hearts forever; and when the trials and woes of
 this life are over, may we return to thy presence, with our loved ones, and
 dwell in thy house forever, I humbly pray, in the name of Jesus Christ. Amen.
+
+## References
 

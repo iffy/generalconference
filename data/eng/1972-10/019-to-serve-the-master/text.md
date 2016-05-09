@@ -18,10 +18,9 @@ serve, to devote my time, energy, and means for the upbuilding of the kingdom.
 The Savior on one occasion, realizing the many temptations that we are faced
 with in this life, made this statement: "... seek ye first the kingdom of God,
 and his righteousness; and all these things shall be added unto you." ([Matt.
-6:33](https://www.lds.org/scriptures/nt/matt/6.33?lang=eng#32).) We have tried
-to live by that rule in our family. My sons, who have both been mission
-presidents, used to quote that to me when I was talking to them about their
-future.
+6:33](/scriptures/nt/matt/6.33?lang=eng#32).) We have tried to live by that
+rule in our family. My sons, who have both been mission presidents, used to
+quote that to me when I was talking to them about their future.
 
 Now, I want you all to remember the program of prospective elders, and I am
 going to tell you why. I was a prospective elder when I met my wife in
@@ -60,9 +59,11 @@ because it is one of my favorites:
 understanding.
 
 "In all thy ways acknowledge him, and he shall direct thy paths." ([Prov.
-3:5-6](https://www.lds.org/scriptures/ot/prov/3.5-6?lang=eng#4).)
+3:5-6](/scriptures/ot/prov/3.5-6?lang=eng#4).)
 
 I pray I may always do this, in the name of Jesus Christ.
 
 Amen.
+
+## References
 

@@ -1,4 +1,4 @@
-# Scouters: Lead Them to a Mission
+# Scouters:Lead Them to a Mission
 
 President Milton R. Hunter has been in Hawaii for several weeks gaining
 strength after a long illness. He came home a week or so ago with the hope
@@ -136,7 +136,7 @@ the boy may receive his revelations. Teach him how to know when these come.
 Make the words of Enos have meaning in his life. He wrote of his experience in
 the forest, "And while I was thus struggling in the spirit, behold, the voice
 of the Lord came into my mind again, saying. ..." ([Enos
-1:10](https://www.lds.org/scriptures/bofm/enos/1.10?lang=eng#9).)
+1:10](/scriptures/bofm/enos/1.10?lang=eng#9).)
 
 What he was told or what he said at the moment is not the point; the point is,
 Enos learned to hear.
@@ -149,7 +149,7 @@ then what joy--eternal joy--was his when he said:
 "And then shall ye know that I have seen Jesus, and that he has talked with me
 face to face, and that he told me in plain humility, even as a man telleth
 another in mine own language, concerning these things." ([Ether
-12:39](https://www.lds.org/scriptures/bofm/ether/12.39?lang=eng#38).)
+12:39](/scriptures/bofm/ether/12.39?lang=eng#38).)
 
 Boys like adventure--a mission is the highest type of adventure. Boys want to
 be led to the Holy Grail. A mission will lead them far beyond that to the
@@ -159,4 +159,6 @@ missionary and, in addition, what you know to be true--the gospel of Christ
 restored, the true calling of President Kimball--as the prophet of the Lord--
 and his prophet-associates, all this in the name of and to the glory of Jesus
 Christ. In his holy name I ask it. Amen.
+
+## References
 

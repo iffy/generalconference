@@ -42,7 +42,7 @@ are to be found by raising our vision? What of the intangible riches which
 come from the pursuit of holiness? Stephen looked upward: "Being full of the
 Holy Ghost, [he] looked up stedfastly into heaven, and saw the glory of God,
 and Jesus standing on the right hand of God." ([Acts
-7:55](https://www.lds.org/scriptures/nt/acts/7.55?lang=eng#54).)
+7:55](/scriptures/nt/acts/7.55?lang=eng#54).)
 
 My heart and understanding go out to our young people. They have to cope with
 a darkness and moral fog as dense as many of us can ever remember. We live in
@@ -145,8 +145,7 @@ feelings of love are for each other, but that love is very real to us. Pain is
 also difficult to measure, but it is real. The same is true of faith in God.
 We can know of his existence without being able to quantitatively measure it.
 Paul states, "The Spirit itself beareth witness with our spirit, that we are
-the children of God." ([Rom.
-8:16](https://www.lds.org/scriptures/nt/rom/8.16?lang=eng#15).)
+the children of God." ([Rom. 8:16](/scriptures/nt/rom/8.16?lang=eng#15).)
 
 What are the limits on commitment of the heart of those who pursue holiness?
 Fortunately, this is a matter for each to decide. We achieve perfection,
@@ -156,29 +155,27 @@ all things.
 In my opinion, it was not contemplated by the great Creator that man and
 womankind are intended to wallow in selfishness and self-gratification. After
 all, "in the image of God created he him; male and female created he them."
-([Gen. 1:27](https://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26).) "What
-is man, that thou art mindful of him?" says the Psalmist.
+([Gen. 1:27](/scriptures/ot/gen/1.27?lang=eng#26).) "What is man, that thou
+art mindful of him?" says the Psalmist.
 
 "For thou hast made him a little lower than the angels, and hast crowned him
 with glory and honour.
 
 "Thou madest him to have dominion over the works of thy hands; thou hast put
-all things under his feet." ([Ps.
-8:4-6](https://www.lds.org/scriptures/ot/ps/8.4-6?lang=eng#3).)
+all things under his feet." ([Ps. 8:4-6](/scriptures/ot/ps/8.4-6?lang=eng#3).)
 
 What is the standard of holiness? The answer comes from the scriptures: "Who
 is like unto thee, O Lord, ... glorious in holiness?" ([Ex.
-15:11](https://www.lds.org/scriptures/ot/ex/15.11?lang=eng#10).)
+15:11](/scriptures/ot/ex/15.11?lang=eng#10).)
 
 Like Stephen, those who pursue holiness see the glory of God. (See [Acts
-7:55](https://www.lds.org/scriptures/nt/acts/7.55?lang=eng#54).) The blessings
-that shall come in the pursuit of holiness were in part described by the Lord:
+7:55](/scriptures/nt/acts/7.55?lang=eng#54).) The blessings that shall come in
+the pursuit of holiness were in part described by the Lord:
 
 "Verily, thus saith the Lord: It shall come to pass that every soul who
 forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my
 voice, and keepeth my commandments, shall see my face and know that I am."
-([D&amp;C 93:1](https://www.lds.org/scriptures/dc-
-testament/dc/93.1?lang=eng#0).)
+([D&amp;C 93:1](/scriptures/dc-testament/dc/93.1?lang=eng#0).)
 
 As I began, I referred to the vision of Joseph the Prophet concerning the
 Twelve Apostles in his time. No one need assume that the Twelve who failed to
@@ -227,4 +224,6 @@ and often very private.
 I have a conviction of these matters from sacred inner whisperings. I know
 that Jesus lives and is the head of this church, which testimony I leave, in
 the name of the Savior, Jesus Christ, amen.
+
+## References
 
