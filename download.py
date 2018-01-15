@@ -229,7 +229,7 @@ def extractTalkAsMarkdown(html, metadata):
     refs = parsed.xpath('//div[@id="toggledReferences"]//ol//ol//li')
     for ref in refs:
         for a in ref.xpath('.//a'):
-            if a.attrib['href'].startswith('/'):
+            if 'href' in a.attrib and a.attrib['href'].startswith('/'):
                 a.attrib['href'] = 'https://www.lds.org' + a.attrib['href']
         article_html += etree.tostring(ref)
     article_html += '</ol>'
