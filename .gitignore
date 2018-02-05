@@ -1,3 +1,5 @@
-.cache
-_trial_temp/
+output/
 *.pyc
+.cache/
+_trial_temp/
+data

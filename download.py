@@ -4,12 +4,13 @@ import argparse
 import requests
 import hashlib
 import sys
+import re
 import yaml
 import copy
 from urlparse import urlparse
 from filepath import FilePath
-from lxml import etree
-from lxml.html import soupparser
+# from lxml import etree
+from lxml.html import soupparser, tostring
 
 def log(*args):
     sys.stderr.write(' '.join(map(unicode, args)) + '\n')
@@ -70,7 +71,7 @@ def makeCounter():
         i += 1
 
 def innerText(elem):
-    return etree.tostring(elem, method='text', encoding='utf-8')
+    return tostring(elem, method='text', encoding='utf-8')
 
 REPLACEMENTS = {
     u'…'.encode('utf-8'): '...',
@@ -86,6 +87,21 @@ def unfancy(x):
     for k, v in REPLACEMENTS.items():
         ret = ret.replace(k, v)
     return ret
+
+r_doubleEntity = re.compile(r'&amp;#x(.*?);', re.U)
+
+from HTMLParser import HTMLParser
+htmlparser = HTMLParser()
+
+
+def decodeHTMLEntityNumber(match):
+    decoded = htmlparser.unescape('&#x{0};'.format(match.groups()[0])).encode('utf8')
+    return decoded
+
+
+def undoDoubleEntities(x):
+    return r_doubleEntity.sub(decodeHTMLEntityNumber, x)
+
 
 def getTalkURLs(data_dir, year, month, lang):
     """
@@ -222,7 +238,7 @@ def extractTalkAsMarkdown(html, metadata):
         citation.text = '[' + innerText(citation) + ']'
         citation.drop_tag()
     
-    article_html = etree.tostring(content)
+    article_html = tostring(content)
 
     # References
     article_html += '<h2>References</h2><ol>'
@@ -231,18 +247,19 @@ def extractTalkAsMarkdown(html, metadata):
         for a in ref.xpath('.//a'):
             if 'href' in a.attrib and a.attrib['href'].startswith('/'):
                 a.attrib['href'] = 'https://www.lds.org' + a.attrib['href']
-        article_html += etree.tostring(ref)
+        article_html += tostring(ref)
     article_html += '</ol>'
 
     import html2text
     h = html2text.HTML2Text()
     h.ignore_images = True
     h.reference_links = True
-    markdown = h.handle(article_html)
-    markdown = markdown.encode('utf-8')
+    h.unicode_snob = True
+    markdown = h.handle(article_html).encode('utf8')
 
     # replace some common fancy chars and other things
     markdown = unfancy(markdown)
+    markdown = undoDoubleEntities(markdown)
 
     # get main title
     title = innerText(parsed.xpath('//h1')[0]).strip()
